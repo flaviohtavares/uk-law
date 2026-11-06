@@ -1,0 +1,880 @@
+---
+title: The Credit Institutions (Reorganisation and Winding up) Regulations 2004
+id: uksi/2004/1045
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2004-04-01'
+text_date: '2025-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2004/1045
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/1045/pdfs/uksi_20041045_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1045/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Credit Institutions (Reorganisation and Winding up) Regulations 2004
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2004/1045
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2004 No. 1045
+
+INSOLVENCY
+
+COMPANIES
+
+The Credit Institutions (Reorganisation and Winding up) Regulations 2004
+
+Made
+
+1st April 2004
+
+Laid before Parliament
+
+5th April 2004
+
+Coming into force
+
+5th May 2004
+
+The Treasury, being a government department designated[^c5230751] for the purposes of section 2(2) of the European Communities Act 1972[^c5230761] in relation to measures relating to credit and financial institutions and to the taking of deposits or other repayable funds from the public, in exercise of the powers conferred by that section, hereby make the following Regulations:[^key-21625abe3e5ece43040693801cb9aedd][^key-da244bcda4ae1878c651fb7cb5d8123c][^key-d0e1d5b2d4700db4e55bac63f007affd][^key-3b016842ecf37e0454e7c425fa18d54d][^key-118b3301a620c6c599f8e56874a95c20]
+
+## PART 1 — General
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Credit Institutions (Reorganisation and Winding up) Regulations 2004, and come into force on 5th May 2004.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- [^key-062cc43254a2134fe4cac02c6bd22278]...
+- “**the 1986 Act**” means the Insolvency Act 1986 [^c5230781];
+- “**the 2000 Act**” means the Financial Services and Markets Act 2000 [^c5230791];
+- **“the[^key-579ff5afae8d7d885fb28d7b047a121d] 2006 Act**” means the Companies Act 2006;
+- “**the 1989 Order**” means the Insolvency (Northern Ireland) Order 1989 [^c5230801];
+- “**administrator**” has the meaning given by paragraph 13 of Schedule B1 to the 1986 Act , paragraph 14 of Schedule B1 to the 1989 Order,[^key-442aa4074818a61b7a7886d0eea06ea7] section 8(2) of the 1986 Act or Article 21(2) of the 1989 Order[^key-74ec85db364dea5828cd98d8748dc8b0] as the case may be;
+- [^key-8c2a143b60f5b6adeb7248be15887965]...
+- [^key-b48660af9bce2ba2b87d0cdcc3c5a53f]...
+- [^key-c9d835ae27b3eb12833a0e67a4092cb4]...
+- [^key-353846dde0d592a726e7ed0366e832ea]...
+- [^key-3e38ed7e18afa0ba02d4ef5000e95bd0]...
+- “capital requirements regulation” means Regulation (EU) No. 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No. 648/2012;[^key-5fcab9400c497c252f68d2002840e244]
+- “**claim**” means a claim submitted by a creditor of a UK credit institution in the course of—
+  - (a) a winding up,
+  - (b) an administration, or
+  - (c) a voluntary arrangement,
+
+  with a view to recovering his debt in whole or in part, and includes a proof within the meaning given in rule 1.2 of the Insolvency Rules, a proof of debt within the meaning given in Rule 4.079(4) of the Insolvency Rules (Northern Ireland) or in Scotland a claim made in accordance with rule 7.16 of the Insolvency (Scotland) (Receivership and Winding up) Rules 2018 (in relation to a winding up) or rule 3.105 of the Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 (in relation to an administration)[^key-557880950878873e2b6a7f3723c7433f];
+- [^key-e09a10bdaa14f8f40334a208b8bb50d6]...
+- “**creditors' voluntary winding up**” has the meaning given by section 90 of the 1986 Act or Article 76 of the 1989 Order as the case may be;
+- “**debt**”—
+  - (a) in relation to a winding up or administration of a UK credit institution, has the meaning given by rule 14.1(3)[^key-60e3d10043994e2bf35693cd2e44e633] of the Insolvency Rules or Article 5(1) of the 1989 Order except that where the credit institution is not a company, references in rule 14.1(3) or Article 5(1) to a company are to be read as references to the credit institution, and
+  - (b) in a case where a voluntary arrangement has effect in relation to a[^key-98a1897ddc38bb1942cf0bafa659d9d6] UK credit institution, means a debt which would constitute a debt in relation to the winding up (not immediately preceded by an administration) of that credit institution, except that in paragraph (c) of the definition of “relevant date” in rule 14.1(3) of the Insolvency Rules and in paragraph (1A) of Article 5 of the 1989 Order the reference to the date on which the company went into liquidation has effect as a reference to the date on which the voluntary arrangement had effect;
+  - (c) in Scotland—
+    - (i) in relation to a winding up of a[^key-99a7f662fc463146a9d62c72e3c20cb0] UK credit institution, shall be interpreted in accordance with rule 7.22 of the Insolvency (Scotland) (Receivership and Winding up) Rules 2018, and, in relation to an administration of a UK credit institution, has the meaning given in rule 1.2 of the Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 and
+    - (ii) in a case where a voluntary arrangement has effect in relation to a[^key-2837296f11ea981f1f682219d9cc92e7] UK credit institution, means a debt which would constitute a debt in relation to the winding up (not immediately preceded by an administration) of that insurer, except that references in rule 7.22 of the Insolvency (Scotland) (Receivership and Winding up) Rules 2018 to the date on which the company went into liquidation has effect as a reference to the date on which the voluntary arrangement had effect;
+- [^key-27e7dc80b413f45cb122154b32f92bf0]...
+- [^key-738236e9828008c3996a6a1d9bf0d219]...
+- [^key-64a6939a4a74dfbf51be84def8e70492]...
+- [^key-3cdd2c3d919a1f07dd0738333a9e411a]...
+- [^key-ed971092f07b0880963a50fb4ecea320]...
+- [^key-7bab189f3dbadc762c17760d4aa86933]...
+- [^key-73de34957adf87835ac5cb5e9543fbbc]...
+- “the[^key-16c24bf4ceb4fa1795b303ff42d0f757] FCA” means the Financial Conduct Authority;
+- [^key-cb2c054292600ff19c5f6fd3f5f96806]...
+- “the Insolvency Rules” means the Insolvency (England and Wales) Rules 2016;[^key-683da08d8198686e51e8fcb8455e9a4b]
+- “**the Insolvency Rules (Northern Ireland)**” means the Insolvency Rules (Northern Ireland) 1991 [^c5230861];
+- [^key-d1f6f2e2c27be67c6e6116265220f66b]...
+- “**liquidator**”[^key-2a952a36b7e3e54e1a8e111a686187c8]... includes any person or body appointed by the administrative or judicial authorities whose task is to administer winding-up proceedings in respect of a UK credit institution which is not a body corporate;
+- “**officer**”, in relation to a company, has the meaning given by section 1173(1) of the Companies Act 2006[^key-b3f3163d06f9d18c6a26bc9fb127775d];
+- [^key-098598b7158d3c25ba13a875b3d826c4]...
+- “the PRA” means the Prudential Regulation Authority;
+- “PRA-authorised person” has the meaning given in section 2B of the 2000 Act;
+- “[^key-c9077a7503fa119e8641412df09d902f]**recovery and resolution directive**” means Directive 2014/59/EU of the European Parliament and of the Council of 15th May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms [^key-dba44c2e51609ff7f272e58c4762024d]..., as it had effect immediately before IP completion day[^key-1635544b5894f080552f4d21d24454fb];
+- [^key-e37cdc3f00a3c712697edc97e20416ea]...
+- “section 899 compromise or arrangement” means a compromise or arrangement sanctioned by the court in relation to a[^key-82fea1cc5a464d1d1420b65d3731d194] UK credit institution under section 899 of the 2006 Act but does not include a compromise or arrangement falling within section 900 (powers of court to facilitate reconstruction or amalgamation) or Part 27 (mergers and divisions of public companies) of that Act;
+- “**stabilisation instrument**” means any of the following—
+  - (a) a “mandatory reduction instrument” made under section 6B of the Banking Act 2009;
+  - (b) a “resolution instrument” made under section 12A of the Banking Act 2009;
+  - (c) a “**share transfer instrument**” as defined in section 15 of the Banking Act 2009;
+  - (d) a “**share transfer order**” as defined in section 16 of the Banking Act 2009;
+  - (e) a “**property transfer instrument**” as defined in section 33 of the Banking Act 2009; or
+  - (f) a “third country instrument” made under section 89H of the Banking Act 2009;
+- “**supervisor**” has the meaning given by section 7 of the 1986 Act or Article 20 of the 1989 Order as the case may be;
+- “**UK credit institution**” means an undertaking whose head office is in the United Kingdom with permission under Part 4 of the 2000 Act to accept deposits or to issue electronic money as the case may be but does not include—
+  - (a) an undertaking which also has permission under Part 4 of the 2000 Act to effect or carry out contracts of insurance; or
+  - (b) a credit union within the meaning of section 1 of the Credit Unions Act 1979 [^c5230911];
+- “**voluntary arrangement**” means a voluntary arrangement which has effect in relation to a UK credit institution in accordance with section 4A of the 1986 Act or Article 17A of the 1989 Order as the case may be; and
+- “**winding up**” means—
+  - (a) winding up by the court, or
+  - (b) a creditors' voluntary winding up.
+
+(1A)[^key-726cababc764b31d4edcf76d4d5260eb] In the definition of “capital requirements regulation” the reference to Regulation (EU) No. 575/2013 is to be treated as a reference to that EU Regulation as it forms part of assimilated[^key-6c801ff98ed4111ddd97599d74ef99c5] law.
+
+(2)[^key-10980c80d7b5fd528aa71170def3202c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In these Regulations, references to the law of insolvency of the United Kingdom include references to every provision made by or under the 1986 Act or the 1989 Order as the case may be; and in relation to partnerships, limited liability partnerships or building societies, references to the law of insolvency or to any provision of the 1986 Act or the 1989 Order are to that law as modified by the Insolvent Partnerships Order 1994 [^c5230921], the Insolvent Partnerships Order (Northern Ireland) 1995 [^c5230931], the Limited Liability Partnerships Regulations 2001 [^c5230941] , the Limited Liability Partnerships Regulations (Northern Ireland) 2004[^key-711adc06e9a23c7321623956b57dce83] or the Building Societies Act 1986 [^c5230951] (as the case may be).
+
+(4) References in these Regulations to “accepting deposits” and a “contract of insurance” must be read with—
+
+- (a) section 22 of the 2000 Act;
+- (b) any relevant order made under that section; and
+- (c) Schedule 2 to that Act.
+
+(5) For the purposes of the 2000 Act, functions imposed or falling on the FCA[^key-00d5ada5372e8ada55ba081a9ae61f0c] or the PRA under these Regulations shall be deemed to be functions under the 2000 Act.
+
+## PART 2 — Insolvency Measures and Proceedings: Jurisdiction in Relation to Credit Institutions[^key-4129c58c62a3cf90d5c00395835391be]
+
+**No longer in force.**
+
+### 3. Prohibition against winding up etc. EEA credit institutions in the United Kingdom[^key-4129c58c62a3cf90d5c00395835391be]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Schemes of arrangement[^key-4129c58c62a3cf90d5c00395835391be]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Reorganisation measures and winding-up proceedings in respect of EEA credit institutions effective in the United Kingdom[^key-4129c58c62a3cf90d5c00395835391be]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Confirmation by the court of a creditors' voluntary winding up[^key-4129c58c62a3cf90d5c00395835391be]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — Modifications of the Law of Insolvency: Notification and Publication
+
+### 7. Modifications of the law of insolvency
+
+The general law of insolvency has effect in relation to UK credit institutions subject to the provisions of this Part.
+
+### 8. Consultation of the FCA and, if the institution is a PRA-authorised person, the PRA prior to a voluntary winding up[^key-86136c7e1d234d02b1f8f406403bb814]
+
+(1) Where, on or after 5th May 2004, a UK credit institution (“the institution”) intends to pass a resolution to wind up the institution under paragraph (b) or (c) of section 84(1) of the 1986 Act or sub-paragraph (b) or (c) of Article 70(1) of the 1989 Order, the institution must give written notice of the resolution to the FCA and, if the institution is a PRA-authorised person, the PRA before it passes the resolution.
+
+(2) Where notice is given under paragraph (1), the resolution may be passed only after the end of the period of five business days beginning with the day on which the notice was given.
+
+### 9. Notification of relevant decision to the FCA and, if the institution is a PRA-authorised person, the PRA[^key-a57ddb2919f6b4066bb57a847c4f220f]
+
+(1) Where on or after 5th May 2004 the court makes a decision, order or appointment of any of the following kinds—
+
+- (a) an administration order under paragraph 13 of Schedule B1 to the 1986 Act , paragraph 14 of Schedule B1 to the 1989 Order,[^key-98fea9a0e76b82a10d037cc1d4a364d5] section 8(1) of the 1986 Act or Article 21(1) of the 1989 Order[^key-9793db97faa9a03db5b5ce26a2f30fa8];
+- (b) a winding-up order under section 125 of the 1986 Act or Article 105 of the 1989 Order;
+- (c) the appointment of a provisional liquidator under section 135(1) of the 1986 Act or Article 115(1) of the 1989 Order;
+- (d) the appointment of an administrator in an interim order under paragraph 13(1)(d) of Schedule B1 to the 1986 Act , paragraph 14(1)(d) of Schedule B1 to the 1989 Order, section 9(4) of the 1986 Act[^key-968140ec7f80980fc53224fc31a14bd4] or Article 22(4) of the 1989 Order,
+
+it must immediately inform the FCA[^key-3e6a9109ef7b4508702eaa775c89c12e] and, if the institution is a PRA-authorised person, the PRA, or cause the FCA and, if the institution is a PRA-authorised person, the PRA to be informed, of the order or appointment which has been made.
+
+(2) Where a decision with respect to the approval of a voluntary arrangement has effect, and the arrangement which is the subject of that decision is a qualifying arrangement, the supervisor must forthwith inform the FCA and, if the institution is a PRA-authorised person, the PRA of the arrangement which has been approved.
+
+(3) Where a liquidator is appointed as mentioned in section 100 of the 1986 Act, paragraph 83 of Schedule B1 to the 1986 Act , paragraph 84 of Schedule B1 to the 1989 Order[^key-b32cf5e2411a2a9b5f9ceddeed43f198] or Article 86 of the 1989 Order (appointment of liquidator in a creditors' voluntary winding up), the liquidator must inform the FCA and, if the institution is a PRA-authorised person, the PRA forthwith of his appointment.
+
+(4) Where in the case of a members' voluntary winding up, section 95 of the 1986 Act (effect of company’s insolvency) or Article 81 of the 1989 Order applies, the liquidator must inform the FCA and, if the institution is a PRA-authorised person, the PRA forthwith that he is of that opinion.
+
+(5)[^key-3215e810c25eaf4f482be0f9e9521766] Paragraphs (1), (2) and (3) do not require the FCA to be informed in any case where the FCA was represented at all hearings in connection with the application in relation to which the decision, order or appointment is made.
+
+(5A) Paragraphs (1), (2) and (3) do not require the PRA to be informed in any case where the PRA was represented at all hearings in connection with the application in relation to which the decision, order or appointment is made.
+
+(6) For the purposes of paragraph (2), a “**qualifying arrangement**” means a voluntary arrangement which—
+
+- (a) varies the rights of creditors as against the credit institution and is intended to enable the credit institution, and the whole or any part of its undertaking, to survive as a going concern; or
+- (b) includes a realisation of some or all of the assets of the credit institution, with a view to terminating the whole or any part of the business of that credit institution.
+
+(7) A supervisor, administrator or liquidator who fails without reasonable excuse to comply with paragraph (2), (3), or (4) (as the case may be) commits an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 10. Notification to EEA regulators[^key-3c996e41a07414602545e92638f14104]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Withdrawal of authorisation
+
+(1) For the purposes of this regulation—
+
+- (a) a qualifying decision means a decision with respect to the approval of a voluntary arrangement where the voluntary arrangement includes a realisation of some or all of the assets of the credit institution with a view to terminating the whole or any part of the business of that credit institution;
+- (b) a qualifying order means—
+  - (i) a winding-up order under section 125 of the 1986 Act or Article 105 of the 1989 Order; or
+  - (ii) an administration order under paragraph 13 of Schedule B1 to the 1986 Act or paragraph 14 of Schedule B1 to the 1989 Order[^key-00aecf09caed21bc400940faede98a5b] in the prescribed circumstances;
+- (c) a qualifying appointment means—
+  - (i) the appointment of a provisional liquidator under section 135(1) of the 1986 Act or Article 115(1) of the 1989 Order; or
+  - (ii) the appointment of a liquidator as mentioned in section 100 of the 1986 Act, Article 86 of the 1989 Order (appointment of liquidator in a creditors' voluntary winding up) or paragraph 83 of Schedule B1 to the 1986 Act or paragraph 84 of Schedule B1 to the 1989 Order[^key-6392b7e554dd786f7fb7ca31765a2645] (moving from administration to creditors' voluntary liquidation).
+
+(2)[^key-5b83f0db9e99ede2b0dad16189eec068] The prescribed circumstances are where, after the appointment of an administrator, the administrator concludes that it is not reasonably practicable to achieve the objective specified in paragraph 3(1)(a) of Schedule B1 to the 1986 Act or paragraph 4(1)(a) of Schedule B1 to the 1989 Order[^key-1a6dcd684ab4aa40adae5e3d3b6311d2].
+
+(3) When the[^key-8a656e49f9adb8447f42e15c213f6316] FCA or the PRA is informed of a qualifying decision, qualifying order or qualifying appointment, that authority[^key-0e42bc14467bc47879b65a79ff1b2b89] will as soon as reasonably practicable exercise its power under section 55J[^key-37acf5e60a7b94f4287d76064cc3d6b1] of the 2000 Act to vary or to cancel the UK credit institution’s permission under Part 4 of that Act to accept deposits or to issue electronic money as the case may be.
+
+### 12. Publication of voluntary arrangement, administration order, winding-up order or scheme of arrangement[^key-71ef249b73d1ffce6c83cdf62eed8a0f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Honouring of certain obligations[^key-f1028f08e5d3c3eb6b98d5c43586176b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Notification to creditors: winding-up proceedings
+
+(1) When a relevant order or appointment is made, or a relevant decision is taken, in relation to a UK credit institution on or after 5th May 2004, the appointed officer must, as soon as is reasonably practicable, notify in writing all known creditors of that credit institution—
+
+- (a) of the matters mentioned in paragraph (4); and
+- (b) of the matters mentioned in paragraph (5).
+
+(2) The appointed officer may comply with the requirement in paragraphs (1)(a) and the requirement in paragraph (1)(b) by separate notifications.
+
+(3) For the purposes of this regulation—
+
+- (a) “**relevant order**” means—
+  - (i) an administration order under paragraph 13 of Schedule B1 to the 1986 Act or paragraph 14 of Schedule B1 to the 1989 Order[^key-a20e14e7834c0e12ba8d0715bef46e65] in the prescribed circumstances or an administration order made for the purposes set out in section 8(3)(b) or (d) of the 1986 Act or Article 21(3) (b) or (d) of the 1989 Order[^key-0e10b9152e1f314e23d7c46681d60d70], as the case may be,
+  - (ii) a winding-up order under section 125 of the 1986 Act (powers of the court on hearing a petition) or Article 105 of the 1989 Order (powers of High Court on hearing of petition),
+  - (iii) the appointment of a liquidator in accordance with section 138 of the 1986 Act (appointment of a liquidator in Scotland), or
+  - (iv) an order appointing a provisional liquidator in accordance with section 135 of that Act or Article 115 of the 1989 Order;
+- (b) a “**relevant appointment**” means the appointment of a liquidator as mentioned in section 100 of the 1986 Act or Article 86 of the 1989 Order (appointment of liquidator in a creditors' voluntary winding up); and
+- (c) a “**relevant decision**” means a decision as a result of which a qualifying voluntary arrangement has effect.
+
+(4) The matters which must be notified to all known creditors in accordance with paragraph (1)(a) are as follows—
+
+- (a) that a relevant order or appointment has been made, or a relevant decision taken, in relation to the UK credit institution; and
+- (b) the date from which that order, appointment or decision has effect.
+
+(5) The matters which must be notified to all known creditors in accordance with paragraph (1)(b) are as follows—
+
+- (a) if applicable, the date by which a creditor must submit his claim in writing;
+- (b) the matters which must be stated in a creditor’s claim;
+- (c) details of any category of debt in relation to which a claim is not required;
+- (d) the person to whom any such claim or any observations on a claim must be submitted; and
+- (e) the consequences of any failure to submit a claim by any specified deadline.
+
+(6) Where a creditor is notified in accordance with paragraph (1)(b), the notification must be headed with the words “Invitation to lodge a claim. Time limits to be observed”[^key-abed4278c6b959c88ff9ae7863957181]....
+
+(7) The obligation under paragraph (1)(b) may be discharged by sending a form of proof in accordance with [^key-4c0948f43f91fe73cd8db9f0c37ea527]... Rule 4.080 of the Insolvency Rules (Northern Ireland) in cases where those rules apply[^key-3363e2a6ed5f57f1e4ec1bf340f1040e], provided that the form of proof complies with paragraph (6).
+
+(8)[^key-7655ce482b673048f84b5f45fc787585] The prescribed circumstances are where the administrator includes in the statement required under rule 3.3[^key-e868d17b17708235db2373d856abe552] of the Insolvency Rules or under Rule 2.003 of the Insolvency Rules (Northern Ireland) a statement to the effect that the objective set out in paragraph 3(1)(a) of Schedule B1 to the 1986 Act or in paragraph 4(1)(a) of Schedule B1 to the 1989 Order is not reasonably likely to be achieved
+
+(9) Where, after the appointment of an administrator, the administrator concludes that it is not reasonably practicable to achieve the objective specified in paragraph 3(1)(a) of Schedule B1 to the 1986 Act or paragraph 4(1)(a) of Schedule B1 to the 1989 Order[^key-9135c4f548c2b3911c6e528f35459cd1], he shall inform the court , the[^key-e1b4c384b10bc8b975d4a18a0cada684] FCA and, if the institution is a PRA-authorised person, the PRA in writing of that conclusion and upon so doing the order by which he was appointed shall be a relevant order for the purposes of this regulation and the obligation under paragraph (1) shall apply as from the date on which he so informs the court and the Authority.
+
+(10) An appointed officer commits an offence if he fails without reasonable excuse to comply with a requirement under paragraph (1) of this regulation, and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(11) For the purposes of this regulation—
+
+- (a) “**appointed officer**” means—
+  - (i) in the case of a relevant order falling within paragraph (3)(a)(i), the administrator,
+  - (ii) in the case of a relevant order falling within paragraph (3)(a)(ii) or (iii) or a relevant appointment falling within paragraph (3)(b), the liquidator,
+  - (iii) in the case of a relevant order falling within paragraph (3)(a)(iv), the provisional liquidator, or
+  - (iv) in the case of a relevant decision, the supervisor; and
+- (b) a creditor is a “known” creditor if the appointed officer is aware of—
+  - (i) his identity,
+  - (ii) his claim or potential claim, and
+  - (iii) a recent address where he is likely to receive a communication.
+
+(12) For the purposes of paragraph (3), a voluntary arrangement is a qualifying voluntary arrangement if its purposes include a realisation of some or all of the assets of the UK credit institution to which the order relates with a view to terminating the whole or any part of the business of that credit institution.
+
+### 15. Submission of claims by EEA creditors[^key-fe313679a53ce8ec1503288b967c3f27]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Reports to creditors
+
+(1) This regulation applies where, on or after 5th May 2004—
+
+- (a) a liquidator is appointed in accordance with section 100 of the 1986 Act, Article 86 of the 1989 Order[^key-36a45b6b8b9a200acd8baea1d006afb3] (creditors' voluntary winding up: appointment of liquidator) or paragraph 83 of Schedule B1 to the 1986 Act or paragraph 84 of Schedule B1 to the 1989 Order[^key-b204b569e040a595f2a40a1485095307] (moving from administration to creditors' voluntary liquidation);
+- (b) a winding-up order is made by the court;
+- (c) a provisional liquidator is appointed; or
+- (d)[^key-817475e67456b0e7c650e3cfd4228e43] an administrator is appointed under paragraph 13 of Schedule B1 to the 1986 Act or paragraph 14 of Schedule B1 to the 1989 Order.
+
+(2) The liquidator, provisional liquidator or administrator (as the case may be) must send a report to every known creditor once in every 12 months beginning with the date when his appointment has effect.
+
+(3) The requirement in paragraph (2) does not apply where a liquidator, provisional liquidator or administrator is required by order of the court to send a report to creditors at intervals which are more frequent than those required by this regulation.
+
+(4) This regulation is without prejudice to any requirement to send a report to creditors, imposed by the court on the liquidator, provisional liquidator or administrator, which is supplementary to the requirements of this regulation.
+
+(5) A liquidator, provisional liquidator or administrator commits an offence if he fails without reasonable excuse to comply with an applicable requirement under this regulation, and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(6) For the purposes of this regulation—
+
+- (a) “**known creditor**” means—
+  - (i) a creditor who is known to the liquidator, provisional liquidator or administrator, and
+  - (ii) in a case falling within paragraph (1)(b) or (c), a creditor who is specified in the credit institution’s statement of affairs (within the meaning of section 131 of the 1986 Act or Article 111 of the 1989 Order);
+- (b) “**report**” means a written report setting out the position generally as regards the progress of the winding up, provisional liquidation or administration (as the case may be).
+
+### 17. Service of notices and documents
+
+(1) This regulation applies to any notification, report or other document which is required to be sent to a creditor of a UK credit institution by a provision of this Part (“a relevant notification”).
+
+(2) A relevant notification may be sent to a creditor by one of the following methods—
+
+- (a) by posting it to the proper address of the creditor;
+- (b) by transmitting it electronically, in accordance with paragraph (4).
+
+(3) For the purposes of paragraph (2)(a), the proper address of a creditor is any current address provided by that person as an address for service of a relevant notification and, if no such address is provided—
+
+- (a) the last known address of that creditor (whether his residence or a place where he carries on business);
+- (b) in the case of a body corporate, the address of its registered or principal office; or
+- (c) in the case of an unincorporated association, the address of its principal office.
+
+(4) A relevant notification may be transmitted electronically only if it is sent to—
+
+- (a) an electronic address notified to the relevant officer by the creditor for this purpose; or
+- (b) if no such address has been notified, to an electronic address at which the relevant officer reasonably believes the creditor will receive the notification.
+
+(5) Any requirement in this Part to send a relevant notification to a creditor shall also be treated as satisfied if the conditions set out in paragraph (6) are satisfied.
+
+(6) The conditions of this paragraph are satisfied in the case of a relevant notification if—
+
+- (a) the creditor has agreed with—
+  - (i) the UK credit institution which is liable under the creditor’s claim, or
+  - (ii) the relevant officer,
+
+  that information which is required to be sent to him (whether pursuant to a statutory or contractual obligation, or otherwise) may instead be accessed by him on a web site;
+- (b) the agreement applies to the relevant notification in question;
+- (c) the creditor is notified of—
+  - (i) the publication of the relevant notification on a web site,
+  - (ii) the address of that web site,
+  - (iii) the place on that web site where the relevant notification may be accessed, and how it may be accessed; and
+- (d) the relevant notification is published on that web site throughout a period of at least one month beginning with the date on which the creditor is notified in accordance with sub-paragraph (c).
+
+(7) Where, in a case in which paragraph (5) is relied on for compliance with a requirement of regulation 14 or 16—
+
+- (a) a relevant notification is published for a part, but not all, of the period mentioned in paragraph (6)(d) but
+- (b) the failure to publish it throughout that period is wholly attributable to circumstances which it would not be reasonable to have expected the relevant officer to prevent or avoid,
+
+no offence is committed under regulation 14(10) or regulation 16(5) (as the case may be) by reason of that failure.
+
+(8) In this regulation—
+
+- (a) “**electronic address**” includes any number or address used for the purposes of receiving electronic communications which are sent electronically;
+- (b) “**electronic communication**” means an electronic communication within the meaning of the Electronic Communications Act 2000 [^c5230971] the processing of which on receipt is intended to produce writing; and
+- (c) “**relevant officer**” means (as the case may be) an administrator, liquidator, provisional liquidator or supervisor who is required to send a relevant notification to a creditor by a provision of this Part.
+
+### 18. Disclosure of confidential information received from an EEA regulator[^key-bc832c2dbe01f207eaca098ce601dc3f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Reorganisation or Winding up of UK Credit Institutions...[^key-ad0fe14b462a7f3a4f0bad1d62bacf05]
+
+### 19. Application of this Part
+
+(1) This Part applies as follows—
+
+- (a) where a decision with respect to the approval of a proposed voluntary arrangement having a qualifying purpose is made under section 4A of the 1986 Act or Article 17A of the 1989 Order on or after 5th May 2004 in relation to a UK credit institution;
+- (b) where an administration order made under paragraph 13 of Schedule B1 to the 1986 Act, paragraph 14 of Schedule B1 to the 1989 Order,[^key-a5e0f3ddffc0077e1699485836e53849] section 8(1) of the 1986 Act or Article 21(1) of the 1989 Order[^key-ec8ba983b1e615c20b1e21d5a04e4d1b] on or after 5th May 2004 is in force in relation to a UK credit institution;
+- (c) where a UK credit institution is subject to a relevant winding up; [^key-a48b47658aa552dd4214ee94ad7c02a7]...
+- (d) where a provisional liquidator is appointed in relation to a UK credit institution on or after 5th May 2004; or[^key-a4426e517e394846a5a33b554c9b02bd]
+- (e) where a stabilisation instrument is made in respect of a UK credit institution.
+
+(2) For the purposes of paragraph (1)(a), a voluntary arrangement has a qualifying purpose if it—
+
+- (a) varies the rights of the creditors as against the credit institution and is intended to enable the credit institution, and the whole or any part of its undertaking, to survive as a going concern; or
+- (b) includes a realisation of some or all of the assets of the credit institution to which the compromise or arrangement relates, with a view to terminating the whole or any part of the business of that credit institution.
+
+(3) For the purposes of paragraph (1)(c), a winding up is a relevant winding up if—
+
+- (a) in the case of a winding up by the court, the winding-up order is made on or after 5th May 2004; or
+- (b) in the case of a creditors' voluntary winding up, the liquidator is appointed in accordance with section 100 of the 1986 Act, Article 86 of the 1989 Order or paragraph 83 of Schedule B1 to the 1986 Act or paragraph 84 of Schedule B1 to the 1989 Order[^key-d33207cdaadfabc40a22d2b7c182a6c0] on or after 5th May 2004.
+
+### 20. Application of this Part: certain assets excluded from insolvent estate of UK credit institution[^key-de410c516d461a5577526b439098e5ee]
+
+(1) For the purposes of this Part, the insolvent estate of a UK credit institution shall not include any assets which at the commencement date are subject to a relevant compromise or arrangement[^key-7d1788c6369cabab55e1ada836c9fe34].
+
+(2) In this regulation—
+
+- (a) “**assets**” has the same meaning as “**property**” in section 436 of the 1986 Act or Article 2(2) of the 1989 Order;
+- (b) “**commencement date**” means the date when a UK credit institution goes into liquidation within the meaning given by section 247(2) of the 1986 Act or Article 6(2) of the 1989 Order;
+- (c) “**insolvent estate**” has the meaning given by rule 1.2[^key-9095f7e49459e0df88c2655063bd4a56] of the Insolvency Rules or Rule 0.2 of the Insolvency Rules (Northern Ireland) and in Scotland means the company’s assets;
+- (d)[^key-48efaf49566ffd107ce0d2b02c889928] “relevant compromise or arrangement” means—
+  - (i) a compromise or arrangement sanctioned by the court before 5th May 2004 under—
+    - (aa) section 425 of the Companies Act 1985 (excluding a compromise or arrangement falling within section 427 or 427A of that Act), or
+    - (bb) Article 418 of the Companies (Northern Ireland) Order 1986 (excluding a compromise or arrangement falling within Article 420 or 420A of that Order); or
+  - (ii) any subsequent compromise or arrangement sanctioned by the court to amend or replace a compromise or arrangement of a kind mentioned in paragraph (i) which is—
+    - (aa) itself of a kind mentioned in sub-paragraph (aa) or (bb) of paragraph (i) (whether sanctioned before, on or after 5th May 2004), or
+    - (bb) a section 899 compromise or arrangement.
+
+### 21. Interpretation of this Part
+
+(1) For the purposes of this Part—
+
+- (a) “**affected credit institution**” means a UK credit institution which is the subject of a relevant reorganisation or winding up;
+- (b) “**relevant reorganisation**” or “**relevant winding up**” means any voluntary arrangement, administration, winding up, making of a stabilisation instrument[^key-e626b2ff911a3c44e4a86a871ff65cfa] or order referred to in regulation 19(1) to which this Part applies; [^key-5b5bb77052777983b9aa3d4e10f8cae0]...
+- (c)[^key-5b5bb77052777983b9aa3d4e10f8cae0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In this Part, references to the opening of a relevant reorganisation or a relevant winding up mean—
+
+- (a) in the case of winding-up proceedings—
+  - (i) in the case of a winding up by the court, the date on which the winding-up order is made, or
+  - (ii) in the case of a creditors' voluntary winding up, the date on which the liquidator is appointed in accordance with section 100 of the 1986 Act, Article 86 of the 1989 Order or paragraph 83 of Schedule B1 to the 1986 Act or paragraph 84 of Schedule B1 to the 1989 Order[^key-65dfa2387038e5de23fee4dc0e45039d];
+- (b) in the case of a voluntary arrangement, the date when a decision with respect to the approval of that voluntary arrangement has effect in accordance with section 4A(2) of the 1986 Act or Article 17A(2) of the 1989 Order;
+- (c) in a case where an administration order under paragraph 13 of Schedule B1 to the 1986 Act, paragraph 14 of Schedule B1 to the 1989 Order,[^key-676905a5898d667a4606a4d5b34fc2dc] section 8(1) of the 1986 Act or Article 21(1) of the 1989 Order[^key-9cb6b060939dad20776c890818a7039c] is in force, the date of the making of that order; [^key-5b3caa36d69d40fe77a9efcb03601978]...
+- (d) in a case where a provisional liquidator has been appointed, the date of that appointment, and[^key-5aa52b135fffc7f05a1db4d80cf0b1b0]
+- (e) in a case where a stabilisation instrument is made, the date on which that instrument is made,
+
+and references to the time of an opening must be construed accordingly.
+
+### 22. Applicable law in the winding up of a UK credit institution[^key-511def2c79cbd7c6214daa03c6960b20]
+
+The general law of insolvency of the United Kingdom is applicable in a relevant winding up, subject only to the provisions of regulations 28, 29, 34 and 35.
+
+### 23. Employment contracts and relationships[^key-f3e2ea8c13d97afeb0f23c476cde3e4c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Contracts in connection with immovable property[^key-bfb43c5adb6017257b2cea26f37db826]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Registrable rights[^key-6e05b1a67bbdf34b3923b4acf7afb2b6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26. Third parties' rights in rem[^key-3cff067cca11297a702785c1fbca9a84]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 27. Reservation of title agreements etc.[^key-cc3e5f4d42ea2b953d21d9b7288e2710]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Creditors' rights to set off
+
+(1) A relevant reorganisation or a relevant winding up shall not affect the right of creditors to demand the set-off of their claims against the claims of the affected credit institution, where such a set-off is permitted by the law applicable to the affected credit institution’s claim.
+
+(2) Paragraph (1) does not preclude actions for voidness, voidability or unenforceability of legal acts detrimental to creditors under the general law of insolvency of the United Kingdom.
+
+### 29. Regulated markets
+
+(1) [^key-b54e87a31d2bd79dfc10ccaec3635709]... The effects of a relevant reorganisation or winding up on transactions carried out in the context of UK regulated market[^key-c9bd6cb0a88cca959fee83c001e5cc94] must be determined in accordance with the law applicable to those transactions.
+
+(2)[^key-6d3e3734df77a00c632a7379006cbf9c] For the purposes of this regulation “**UK regulated market**” has the meaning given by point (13A) of Article 2(1) of Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012.
+
+### 30. Detrimental acts pursuant to the law of an EEA State[^key-47f7815457f1573274162bc208eae79a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 31. Protection of third party purchasers[^key-ad03f8fe5417f8419bc4528f18d8d13e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 32. Lawsuits pending[^key-fadb0ca3d38c5e145ce28b08d9ed789e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 33. Lex rei sitae[^key-3e9205692edad9dfdc4db33ef6c6db84]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 34. Netting agreements[^key-171f879303bcc4aa55af592dc866f895]
+
+(1) The effects of a relevant reorganisation or a relevant winding up on a netting agreement shall be determined in accordance with the law applicable to that agreement.
+
+(2) Nothing in paragraph (1) affects the application of—
+
+- (a) section 48Z of the Banking Act 2009 ;
+- (b) section 70C of the Banking Act 2009 ;
+- (c)[^key-32ffcab6bf9b07ce0c17411c5f7589a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) any instrument made under the provisions referred to in sub-paragraph (a) or (b).
+
+### 35. Repurchase agreements[^key-97fff0a1bc10247f4078b4f6a3ce5cf8]
+
+(1) [^key-93b9853981d0f90f11a06d030e85b9e3]... The effects of a relevant reorganisation or a relevant winding up on a repurchase agreement shall be determined in accordance with the law applicable to that agreement.
+
+(2) Nothing in paragraph (1) affects the application of—
+
+- (a) section 48Z of the Banking Act 2009;
+- (b) section 70C of the Banking Act 2009;
+- (c)[^key-58b4ac9c9148472aa0036898055751c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) any instrument made under the provisions referred to in sub-paragraph (a) or (b).
+
+## PART 5 — Third Country Credit Institutions
+
+### 36. Interpretation of this Part
+
+(1) In this Part—
+
+- (a) “**relevant measure**”, in relation to a third country credit institution, means—
+  - (i) a winding up;
+  - (ii) a provisional liquidation; [^key-2e2022223df430b7f37d5e383bf9d4fd]...
+  - (iii) an administration order made under paragraph 13 of Schedule B1 to the 1986 Act , paragraph 14 of Schedule B1 to the 1989 Order,[^key-2f4a222f57ed18b3f0e0355e51894048] section 8(1) of the 1986 Act or Article 21(1) of the 1989 Order[^key-7bcb82888f825a08e47da449419ec6ba] as the case may be; or[^key-891d8d18c923aa5af0f46230316ac2ac]
+- (iv) the making of a stabilisation instrument.
+- (b) “**third country credit institution**” means a person—
+  - (i) who has permission under the 2000 Act to accept deposits or to issue electronic money as the case may be; and
+  - (ii) whose head office is not in the United Kingdom [^key-e4a9abbac13022e09ca4e5eb2ea7fcbc]....
+
+(2) In paragraph (1), the definition of “third country credit institution” must be read with—
+
+- (a) section 22 of the 2000 Act;
+- (b) any relevant order made under that section; and
+- (c) Schedule 2 to that Act.
+
+### 37. Application of these Regulations to a third country credit institution[^key-a14917e13411c441ae4761fc3a3e216a]
+
+Regulation 9 applies where a third country credit institution is subject to a relevant measure, and is to be read for that purpose as if a reference to the institution or, in paragraph (6), to the credit institution included a reference to a third country credit institution.
+
+### 38. Disclosure of confidential information: third country credit institution[^key-06f806cda2c1a1592c89fe822b1a007d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 6 — Application to Investment Firms[^key-eba1121fe1cea8e99e73b79dd4f81e85]
+
+### 39. Interpretation of this Part
+
+In this Part—
+
+- (a)[^key-f0d285bce789206626563bc0064a4b88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) “**UK investment firm**” means an investment firm as defined in subsections (1) and (2)(a) of section 258A of the Banking Act 2009.
+
+### 40. Application to UK investment firms
+
+These Regulations apply to UK investment firms as if such firms were UK credit institutions, subject to the modifications set out in this Part.
+
+### 41. Application to EEA investment firms[^key-7eeba9f9585e3d4a5b73f4775d9113d6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 42. Withdrawal of authorisation
+
+Paragraph (3) of regulation 11 (withdrawal of authorisation) applies to UK investment firms as if the reference in that paragraph to section 55J of the 2000 Act included a reference to any other power of the FCA or PRA under that Act to vary or cancel any permission of a body or firm.
+
+### 43. Reorganisation measures and winding-up proceedings in respect of EEA investment firms effective in the United Kingdom[^key-34b909b700c7293622dcf049a59d4cc0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 7 — Application to Group Companies
+
+### 44. Interpretation of this Part
+
+In this Part—
+
+- (a)[^key-bbbbf0cdbd6caabdba86d209e1d11f57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) “**UK group company**” means—
+  - (i) a financial institution as defined in point (26) of Article 4(1) of the capital requirements regulation that is authorised by the PRA or FCA,
+  - (ii) a parent undertaking as defined in Article 4(1)(15)(a) of the capital requirements regulation, or
+  - (iii) any other firm within the scope of Article 1(1) of the recovery and resolution directive,
+
+  the head office of which is in the United Kingdom and which is not otherwise subject to these Regulations.
+
+### 45. Application to UK group companies
+
+These Regulations apply to UK group companies with respect to which a stabilisation instrument has been made, as if they were UK credit institutions.
+
+### 46. Application to EEA group companies[^key-13f4a0a86e4900c2d6462b549440029c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 47. Reorganisation measures and winding-up proceedings in respect of EEA group companies effective in the United Kingdom[^key-abc30dc014d5ae4761f776956693af7f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 8 — Application to Third Country Investment Firms
+
+### 48. Members not established in the United Kingdom[^key-5b8fc8ee558c4c570183962e5a56f839]
+
+In this Part “**third country investment firm**” means an investment firm as defined in point (2) of Article 4(1) of the capital requirements regulation whose head office is not in the United Kingdom[^key-b445132bd65ac83c7caf2db18660591e].
+
+### 49. Application to third country investment firms
+
+Part 5 of these Regulations applies to third country investment firms as if such firms were third country credit institutions (within the meaning given by regulation 36(1)(b) (interpretation of Part 5)).
+
+Nick Ainger
+
+Jim Murphy
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+*(This note is not part of the Order)*
+
+These Regulations implement the directive of the Parliament and the Council on the reorganisation and winding up of credit institutions ([2001/24/EC](https://www.legislation.gov.uk/european/directive/2001/0024)) for all UK credit institutions.
+
+These Regulations provide that as from 5th May 2004, no winding-up proceedings or reorganisation measures in respect of EEA credit institutions can be undertaken in the UK except in the circumstances permitted by the Regulations. EEA reorganisation measures and winding-up proceedings are to be recognised in the UK. Provisions are made for the exercise by EEA liquidators of their functions in the UK. Provision is made for the notification of reorganisation measures and winding-up proceedings to competent authorities in other EEA Member States. Modifications are made to UK insolvency law in respect of notifications of various other matters including important stages in the relevant procedures and forms in which creditors in other EEA States may enter claims, to the Financial Services Authority, EEA authorities and creditors.
+
+The Regulations make provision for application to credit institutions whose head office is outside the UK and the EEA. Provision is made for detailed amendment of existing secondary legislation including the insolvency rules in all UK jurisdictions dealing with the reorganisation or winding up of credit institutions.
+
+## Annotations
+
+[^c5230751]: Marginal citation: By [S.I. 2001/3495](https://www.legislation.gov.uk/uksi/2001/3495).
+
+[^c5230761]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); by virtue of the amendment of section 1(2) made by section 1 of the [European Economic Area Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993 (Cm 2183). Section 57(1) [Scotland Act 1998 (1998 c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) provides that despite the transfer to the Scottish Ministers of functions in relation to observing and implementing obligations under Community law, any function of a Minister of the Crown shall continue to be exercisable by him as regards Scotland for the purposes specified in section 2(2) of the European Communities Act 1972.
+
+[^key-21625abe3e5ece43040693801cb9aedd]: Modification: Regulations applied (with modifications) (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
+
+[^key-da244bcda4ae1878c651fb7cb5d8123c]: Modification: Regulations applied (with modifications) (1.1.2010) by [The Northern Rock plc Transfer Order 2009 (S.I. 2009/3226)](https://www.legislation.gov.uk/uksi/2009/3226), [art. 8](https://www.legislation.gov.uk/uksi/2009/3226/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3226/schedule/2)
+
+[^key-d0e1d5b2d4700db4e55bac63f007affd]: Modification: Regulations applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+
+[^key-3b016842ecf37e0454e7c425fa18d54d]: Modification: Regulations applied (with modifications) (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/680/regulation/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/680/schedule/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended (31.12.2020) by [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [60(2)(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/60/2/4) and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(h)(iv)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/h/iv))
+
+[^key-118b3301a620c6c599f8e56874a95c20]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2004/1045): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^key-062cc43254a2134fe4cac02c6bd22278]: Textual amendment: Words in reg. 2(1) omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [24(2)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/24/2/a)
+
+[^c5230781]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45) as amended by the [Insolvency Act 2000 (c. 39)](https://www.legislation.gov.uk/ukpga/2000/39), the [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [S.I](https://www.legislation.gov.uk/ukpga/2002/40/section/I). 2002/1037 and [S.I. 2002/1240](https://www.legislation.gov.uk/uksi/2002/1240); Part II was replaced by the Enterprise Act 2002, section 248 and Schedule 16. The provisions of Part II continue to apply by virtue of the [Enterprise Act 2002 (Commencement No. 4 and Transitional Provisions and Savings) Order 2003 (S.I. 2003/2093)](https://www.legislation.gov.uk/uksi/2003/2093) insofar as is necessary to give effect to the [Insolvent Partnerships Order 1994 (S.I. 1994/2421) and the Limited Liability Partnerships Regulations 2001 (S.I. 2001/1090)](https://www.legislation.gov.uk/uksi/2001/1090). The provisions of Part II (as modified) continue to apply to building societies by virtue of sections 249(l)(e) and 249(2) of the Enterprise Act 2002.
+
+[^c5230791]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-579ff5afae8d7d885fb28d7b047a121d]: Textual amendment: Words in reg. 2(1) inserted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [24(2)(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/24/2/b)
+
+[^c5230801]: Marginal citation: [S.I. 1989/2504 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2504).
+
+[^key-442aa4074818a61b7a7886d0eea06ea7]: Textual amendment: Words in reg. 2(1) substituted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/2/a)
+
+[^key-74ec85db364dea5828cd98d8748dc8b0]: Textual amendment: Words in reg. 2(1) inserted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/2/b)
+
+[^key-8c2a143b60f5b6adeb7248be15887965]: Textual amendment: Words in reg. 2(1) omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [24(2)(c)](https://www.legislation.gov.uk/uksi/2011/1265/article/24/2/c)
+
+[^key-b48660af9bce2ba2b87d0cdcc3c5a53f]: Textual amendment: Words in reg. 2(1) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/regulation/1/1), [Sch. 2 para. 91(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/91/a/i) (with [Sch. 2 para. 92](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/92))
+
+[^key-c9d835ae27b3eb12833a0e67a4092cb4]: Textual amendment: Words in reg. 2(1) omitted (1.1.2014) by virtue of [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 63(2)(a)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/63/2/a)
+
+[^key-353846dde0d592a726e7ed0366e832ea]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/2/1) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(2)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/2/a/i/aa) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3e38ed7e18afa0ba02d4ef5000e95bd0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/2/1) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(2)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/2/a/i/bb) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5fcab9400c497c252f68d2002840e244]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 63(2)(b)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/63/2/b)
+
+[^key-557880950878873e2b6a7f3723c7433f]: Textual amendment: Words in reg. 2(1) substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/755/regulation/5/2/a)
+
+[^key-e09a10bdaa14f8f40334a208b8bb50d6]: Textual amendment: Words in reg. 2(1) omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [24(2)(d)](https://www.legislation.gov.uk/uksi/2011/1265/article/24/2/d)
+
+[^key-60e3d10043994e2bf35693cd2e44e633]: Textual amendment: Words in reg. 2(1) substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [5(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/755/regulation/5/2/b/i)
+
+[^key-98a1897ddc38bb1942cf0bafa659d9d6]: Textual amendment: Words in reg. 2(1) substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/755/regulation/5/2/b/ii)
+
+[^key-99a7f662fc463146a9d62c72e3c20cb0]: Textual amendment: Words in reg. 2(1) substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [5(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/755/regulation/5/2/b/iii)
+
+[^key-2837296f11ea981f1f682219d9cc92e7]: Textual amendment: Words in reg. 2(1) substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [5(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2019/755/regulation/5/2/b/iv)
+
+[^key-27e7dc80b413f45cb122154b32f92bf0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/2/1) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(2)(a)(i)(cc)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/2/a/i/cc) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-738236e9828008c3996a6a1d9bf0d219]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/2/1) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(2)(a)(i)(dd)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/2/a/i/dd) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-64a6939a4a74dfbf51be84def8e70492]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/2/1) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(2)(a)(i)(ee)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/2/a/i/ee) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3cdd2c3d919a1f07dd0738333a9e411a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/2/1) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(2)(a)(i)(ff)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/2/a/i/ff) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ed971092f07b0880963a50fb4ecea320]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/2/1) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(2)(a)(i)(gg)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/2/a/i/gg) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7bab189f3dbadc762c17760d4aa86933]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/2/1) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(2)(a)(i)(hh)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/2/a/i/hh) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-73de34957adf87835ac5cb5e9543fbbc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/2/1) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(2)(a)(i)(ii)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/2/a/ii) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-16c24bf4ceb4fa1795b303ff42d0f757]: Textual amendment: Words in reg. 2(1) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/regulation/1/1), [Sch. 2 para. 91(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/91/a/ii) (with [Sch. 2 para. 92](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/92))
+
+[^key-cb2c054292600ff19c5f6fd3f5f96806]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/2/1) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(2)(a)(i)(jj)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/2/a/i/jj) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-683da08d8198686e51e8fcb8455e9a4b]: Textual amendment: Words in reg. 2(1) substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2019/755/regulation/5/2/c)
+
+[^c5230861]: Marginal citation: S.R. [1991 No. 364](https://www.legislation.gov.uk/ukcm/1991/364).
+
+[^key-d1f6f2e2c27be67c6e6116265220f66b]: Textual amendment: Words in reg. 2(1) omitted (23.4.2019) by virtue of [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/2019/755/regulation/5/2/d)
+
+[^key-2a952a36b7e3e54e1a8e111a686187c8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/2/1) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/2/a/i) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b3f3163d06f9d18c6a26bc9fb127775d]: Textual amendment: Words in reg. 2(1) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [24(2)(e)](https://www.legislation.gov.uk/uksi/2011/1265/article/24/2/e)
+
+[^key-098598b7158d3c25ba13a875b3d826c4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/2/1) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(2)(a)(i)(kk)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/2/a/i/kk) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c9077a7503fa119e8641412df09d902f]: Textual amendment: Words in reg. 2(1) inserted (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/10/2/a)
+
+[^key-dba44c2e51609ff7f272e58c4762024d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/2/1) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/3), [73(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/73/2)
+
+[^key-1635544b5894f080552f4d21d24454fb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/2/1) inserted (31.12.2020) by [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/2/a/iii) (as amended by S.I. 2020/1301, regs. 1, 3, Sch. para. 13(a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e37cdc3f00a3c712697edc97e20416ea]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/2/1) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(2)(a)(i)(ll)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/2/a/i/ll) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-82fea1cc5a464d1d1420b65d3731d194]: Textual amendment: Words in reg. 2(1) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [24(2)(f)](https://www.legislation.gov.uk/uksi/2011/1265/article/24/2/f)
+
+[^c5230911]: Marginal citation: [1979 c. 34](https://www.legislation.gov.uk/ukpga/1979/34).
+
+[^key-726cababc764b31d4edcf76d4d5260eb]: Textual amendment: Reg. 2(1A) inserted (31.12.2020 immediately before IP completion day) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38),[regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/2/b) (as amended by [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2019/710/regulation/18) and [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)(2)(m)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6c801ff98ed4111ddd97599d74ef99c5]: Textual amendment: Word in [reg. 2(1A)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/2/1A) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 5](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/5)
+
+[^key-10980c80d7b5fd528aa71170def3202c]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/2/2) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/2/c) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c5230921]: Marginal citation: [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421).
+
+[^c5230931]: Marginal citation: S.R. [1995 No. 225](https://www.legislation.gov.uk/ukcm/1995/225).
+
+[^c5230941]: Marginal citation: [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090).
+
+[^key-711adc06e9a23c7321623956b57dce83]: Textual amendment: Words in reg. 2(3) inserted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/3)
+
+[^c5230951]: Marginal citation: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
+
+[^key-00d5ada5372e8ada55ba081a9ae61f0c]: Textual amendment: Words in reg. 2(5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/regulation/1/1), [Sch. 2 para. 91(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/91/b) (with [Sch. 2 para. 92](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/92))
+
+[^key-4129c58c62a3cf90d5c00395835391be]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2004/1045/part/2) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/3) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-86136c7e1d234d02b1f8f406403bb814]: Textual amendment: Words in reg. 8 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/regulation/1/1), [Sch. 2 para. 91(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/91/c) (with [Sch. 2 para. 92](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/92))
+
+[^key-a57ddb2919f6b4066bb57a847c4f220f]: Textual amendment: Words in reg. 9 heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/regulation/1/1), [Sch. 2 para. 91(d)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/91/d) (with [Sch. 2 para. 92](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/92))
+
+[^key-98fea9a0e76b82a10d037cc1d4a364d5]: Textual amendment: Words in reg. 9(1)(a) substituted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/6/a)
+
+[^key-9793db97faa9a03db5b5ce26a2f30fa8]: Textual amendment: Words in reg. 9(1)(a) inserted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/6/b)
+
+[^key-968140ec7f80980fc53224fc31a14bd4]: Textual amendment: Words in reg. 9(1)(d) inserted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/6/c)
+
+[^key-3e6a9109ef7b4508702eaa775c89c12e]: Textual amendment: Words in reg. 9(1)-(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/regulation/1/1), [Sch. 2 para. 91(d)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/91/d) (with [Sch. 2 para. 92](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/92))
+
+[^key-b32cf5e2411a2a9b5f9ceddeed43f198]: Textual amendment: Words in reg. 9(3) inserted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/7)
+
+[^key-3215e810c25eaf4f482be0f9e9521766]: Textual amendment: Reg. 9(5)(5A) substituted for reg. 9(5) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/regulation/1/1), [Sch. 2 para. 91(e)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/91/e) (with [Sch. 2 para. 92](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/92))
+
+[^key-3c996e41a07414602545e92638f14104]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2004/1045/regulation/10) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-00aecf09caed21bc400940faede98a5b]: Textual amendment: Words in reg. 11(1)(b)(ii) inserted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/8/a)
+
+[^key-6392b7e554dd786f7fb7ca31765a2645]: Textual amendment: Words in reg. 11(1)(c)(ii) inserted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/8/b)
+
+[^key-5b83f0db9e99ede2b0dad16189eec068]: Modification: Reg. 11(2) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 para. 7(2)](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/paragraph/7/2) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+
+[^key-1a6dcd684ab4aa40adae5e3d3b6311d2]: Textual amendment: Words in reg. 11(2) inserted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/9)
+
+[^key-8a656e49f9adb8447f42e15c213f6316]: Textual amendment: Words in reg. 11(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/91/h/aa), [Sch. 2 para. 91(h)(i)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/91/h) (with [Sch. 2 para. 92](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/92))
+
+[^key-0e42bc14467bc47879b65a79ff1b2b89]: Textual amendment: Words in reg. 11(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/91/h/aa), [Sch. 2 para. 91(h)(i)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/91/h) (with [Sch. 2 para. 92](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/92))
+
+[^key-37acf5e60a7b94f4287d76064cc3d6b1]: Textual amendment: Words in reg. 11(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/91/h/aa), [Sch. 2 para. 91(h)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/91/h/ii) (with [Sch. 2 para. 92](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/92))
+
+[^key-71ef249b73d1ffce6c83cdf62eed8a0f]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2004/1045/regulation/12) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(5)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f1028f08e5d3c3eb6b98d5c43586176b]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2004/1045/regulation/13) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(6)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a20e14e7834c0e12ba8d0715bef46e65]: Textual amendment: Words in reg. 14(3)(a)(i) inserted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(12)(a)(i)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/12/a/i)
+
+[^key-0e10b9152e1f314e23d7c46681d60d70]: Textual amendment: Words in reg. 14(3)(a)(i) inserted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(12)(a)(ii)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/12/a/ii)
+
+[^key-abed4278c6b959c88ff9ae7863957181]: Textual amendment: Words in [reg. 14(6)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/14/6) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(7)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4c0948f43f91fe73cd8db9f0c37ea527]: Textual amendment: Words in [reg. 14(7)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/14/7) omitted (23.4.2019) by virtue of [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [5(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/755/regulation/5/4/a/i)
+
+[^key-3363e2a6ed5f57f1e4ec1bf340f1040e]: Textual amendment: Words in [reg. 14(7)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/14/7) substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [5(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/755/regulation/5/4/a/ii)
+
+[^key-7655ce482b673048f84b5f45fc787585]: Textual amendment: Reg. 14(8) substituted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(12)(b)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/12/b)
+
+[^key-e868d17b17708235db2373d856abe552]: Textual amendment: Words in [reg. 14(8)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/14/8) substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2019/755/regulation/5/4/b)
+
+[^key-9135c4f548c2b3911c6e528f35459cd1]: Textual amendment: Words in reg. 14(9) inserted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(12)(c)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/12/c)
+
+[^key-e1b4c384b10bc8b975d4a18a0cada684]: Textual amendment: Words in reg. 14(9) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/regulation/1/1), [Sch. 2 para. 91(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/91/i) (with [Sch. 2 para. 92](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/92))
+
+[^key-fe313679a53ce8ec1503288b967c3f27]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2004/1045/regulation/15) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(8)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-36a45b6b8b9a200acd8baea1d006afb3]: Textual amendment: Words in reg. 16(1)(a) substituted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(13)(a)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/13/a)
+
+[^key-b204b569e040a595f2a40a1485095307]: Textual amendment: Words in reg. 16(1)(a) inserted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(13)(b)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/13/b)
+
+[^key-817475e67456b0e7c650e3cfd4228e43]: Textual amendment: Reg. 16(1)(d) substituted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(13)(c)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/13/c)
+
+[^c5230971]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
+
+[^key-bc832c2dbe01f207eaca098ce601dc3f]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2004/1045/regulation/18) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(9)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ad0fe14b462a7f3a4f0bad1d62bacf05]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/uksi/2004/1045/part/4) heading omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(10)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/10) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a5e0f3ddffc0077e1699485836e53849]: Textual amendment: Words in reg. 19(1)(b) substituted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(14)(a)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/14/a)
+
+[^key-ec8ba983b1e615c20b1e21d5a04e4d1b]: Textual amendment: Words in reg. 19(1)(b) inserted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(14)(b)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/14/b)
+
+[^key-a48b47658aa552dd4214ee94ad7c02a7]: Textual amendment: Word in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/19/1) deleted (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 10(6)(a)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/10/6/a)
+
+[^key-a4426e517e394846a5a33b554c9b02bd]: Textual amendment: [Reg. 19(1)(e)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/19/1/e) and word added (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 10(6)(b)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/10/6/b)
+
+[^key-d33207cdaadfabc40a22d2b7c182a6c0]: Textual amendment: Words in reg. 19(3)(b) inserted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(15)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/15)
+
+[^key-de410c516d461a5577526b439098e5ee]: Textual amendment: Words in reg. 20 heading substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [24(4)](https://www.legislation.gov.uk/uksi/2011/1265/article/24/4)
+
+[^key-7d1788c6369cabab55e1ada836c9fe34]: Textual amendment: Words in reg. 20(1) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [24(5)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/24/5/a)
+
+[^key-9095f7e49459e0df88c2655063bd4a56]: Textual amendment: Words in [reg. 20(2)(c)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/20/2/c) substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2019/755/regulation/5/6)
+
+[^key-48efaf49566ffd107ce0d2b02c889928]: Textual amendment: Reg. 20(2)(d) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [24(5)(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/24/5/b)
+
+[^key-e626b2ff911a3c44e4a86a871ff65cfa]: Textual amendment: Words in reg. 21(1)(b) inserted (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 10(7)(a)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/10/7/a)
+
+[^key-5b5bb77052777983b9aa3d4e10f8cae0]: Textual amendment: [Reg. 21(1)(c)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/21/1/c) and word omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(11)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/11) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-65dfa2387038e5de23fee4dc0e45039d]: Textual amendment: Words in reg. 21(2)(a)(ii) inserted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(16)(a)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/16/a)
+
+[^key-676905a5898d667a4606a4d5b34fc2dc]: Textual amendment: Words in reg. 21(2)(c) substituted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(16)(b)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/16/b)
+
+[^key-9cb6b060939dad20776c890818a7039c]: Textual amendment: Words in reg. 21(2)(c) inserted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(16)(c)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/16/c)
+
+[^key-5b3caa36d69d40fe77a9efcb03601978]: Textual amendment: Word in reg. 21(2) omitted (10.1.2015) by virtue of [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 10(7)(b)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/10/7/b)
+
+[^key-5aa52b135fffc7f05a1db4d80cf0b1b0]: Textual amendment: Reg. 21(2)(e) and word inserted (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 10(7)(c)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/10/7/c)
+
+[^key-511def2c79cbd7c6214daa03c6960b20]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2004/1045/regulation/22) substituted (31.12.2020) by [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(12)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/12) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f3e2ea8c13d97afeb0f23c476cde3e4c]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2004/1045/regulation/23) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(13)(a)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/13/a) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bfb43c5adb6017257b2cea26f37db826]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2004/1045/regulation/24) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(13)(b)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/13/b) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6e05b1a67bbdf34b3923b4acf7afb2b6]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/2004/1045/regulation/25) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(13)(c)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/13/c) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3cff067cca11297a702785c1fbca9a84]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/2004/1045/regulation/26) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(13)(d)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/13/d) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cc3e5f4d42ea2b953d21d9b7288e2710]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2004/1045/regulation/27) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(13)(e)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/13/e) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b54e87a31d2bd79dfc10ccaec3635709]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/29/1) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(14)(a)(i)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/14/a/i) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c9bd6cb0a88cca959fee83c001e5cc94]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/29/1) substituted (31.12.2020) by [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(14)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/14/a/ii) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6d3e3734df77a00c632a7379006cbf9c]: Textual amendment: [Reg. 29(2)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/29/2) substituted (31.12.2020) by [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(14)(b)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/14/b) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-47f7815457f1573274162bc208eae79a]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/2004/1045/regulation/30) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(15)(a)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/15/a) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ad03f8fe5417f8419bc4528f18d8d13e]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/2004/1045/regulation/31) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(15)(b)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/15/b) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fadb0ca3d38c5e145ce28b08d9ed789e]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/uksi/2004/1045/regulation/32) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(15)(c)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/15/c) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3e9205692edad9dfdc4db33ef6c6db84]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/uksi/2004/1045/regulation/33) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(15)(d)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/15/d) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-171f879303bcc4aa55af592dc866f895]: Textual amendment: Reg. 34 substituted (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 10(9)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/10/9)
+
+[^key-32ffcab6bf9b07ce0c17411c5f7589a5]: Textual amendment: [Reg. 34(2)(c)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/34/2/c) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(16)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/16) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-97fff0a1bc10247f4078b4f6a3ce5cf8]: Textual amendment: Reg. 35 substituted (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 10(10)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/10/10)
+
+[^key-93b9853981d0f90f11a06d030e85b9e3]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/uksi/2004/1045/regulation/35) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(17)(a)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/17/a) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-58b4ac9c9148472aa0036898055751c8]: Textual amendment: [Reg. 35(2)(c)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/35/2/c) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(17)(b)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/17/b) (with [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/38/part/3/chapter/1)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)-(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2e2022223df430b7f37d5e383bf9d4fd]: Textual amendment: Word in reg. 36(1)(a) omitted (10.1.2015) by virtue of [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 10(11)(a)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/10/11/a)
+
+[^key-2f4a222f57ed18b3f0e0355e51894048]: Textual amendment: Words in reg. 36(1)(a)(iii) substituted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(17)(a)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/17/a)
+
+[^key-7bcb82888f825a08e47da449419ec6ba]: Textual amendment: Words in reg. 36(1)(a)(iii) inserted (6.4.2007) by [The Credit Institutions (Reorganisation and Winding Up) (Amendment) Regulations 2007 (S.I. 2007/830)](https://www.legislation.gov.uk/uksi/2007/830), [regs. 1](https://www.legislation.gov.uk/uksi/2007/830/regulation/1), [2(17)(b)](https://www.legislation.gov.uk/uksi/2007/830/regulation/2/17/b)
+
+[^key-891d8d18c923aa5af0f46230316ac2ac]: Textual amendment: Reg. 36(1)(a)(iv) and word added (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 10(11)(b)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/10/11/b)
+
+[^key-e4a9abbac13022e09ca4e5eb2ea7fcbc]: Textual amendment: Words in [reg. 36(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/36/1/b/ii) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(18)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a14917e13411c441ae4761fc3a3e216a]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/uksi/2004/1045/regulation/37) substituted (31.12.2020) by [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(19)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-06f806cda2c1a1592c89fe822b1a007d]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/uksi/2004/1045/regulation/38) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(20)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-eba1121fe1cea8e99e73b79dd4f81e85]: Textual amendment: Pts. 6-8 inserted (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 10(13)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/10/13)
+
+[^key-f0d285bce789206626563bc0064a4b88]: Textual amendment: [Reg. 39(a)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/39/a) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(21)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7eeba9f9585e3d4a5b73f4775d9113d6]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/uksi/2004/1045/regulation/41) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(22)(a)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/22/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-34b909b700c7293622dcf049a59d4cc0]: Textual amendment: [Reg. 43](https://www.legislation.gov.uk/uksi/2004/1045/regulation/43) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(22)(b)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/22/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bbbbf0cdbd6caabdba86d209e1d11f57]: Textual amendment: [Reg. 44(a)](https://www.legislation.gov.uk/uksi/2004/1045/regulation/44/a) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(23)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-13f4a0a86e4900c2d6462b549440029c]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/2004/1045/regulation/46) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(24)(a)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/24/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-abc30dc014d5ae4761f776956693af7f]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/uksi/2004/1045/regulation/47) omitted (31.12.2020) by virtue of [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(24)(b)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/24/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5b8fc8ee558c4c570183962e5a56f839]: Textual amendment: [Reg. 48](https://www.legislation.gov.uk/uksi/2004/1045/regulation/48) heading substituted (31.12.2020) by [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(25)(a)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/25/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b445132bd65ac83c7caf2db18660591e]: Textual amendment: Words in [reg. 48](https://www.legislation.gov.uk/uksi/2004/1045/regulation/48) substituted (31.12.2020) by [The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/38)](https://www.legislation.gov.uk/uksi/2019/38), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/38/regulation/1/3), [3(25)(b)](https://www.legislation.gov.uk/uksi/2019/38/regulation/3/25/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

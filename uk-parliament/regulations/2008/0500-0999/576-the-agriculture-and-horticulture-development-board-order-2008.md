@@ -1,0 +1,1019 @@
+---
+title: The Agriculture and Horticulture Development Board Order 2008
+id: uksi/2008/576
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-02-28'
+text_date: '2023-10-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2008/576
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/576/pdfs/uksiem_20080576_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/576/pdfs/uksi_20080576_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/576/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Agriculture and Horticulture Development Board Order 2008
+
+> Text as at 2023-10-14.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2008 No. 576
+
+Agriculture
+
+The Agriculture and Horticulture Development Board Order 2008
+
+Made
+
+28th February 2008
+
+Coming into force in accordance with article 1
+
+The Secretary of State makes the following Order in exercise of the powers conferred on him by the following provisions of the Natural Environment and Rural Communities Act 2006 [^c19148971]—
+
+sections 87 to 91, 93, 96 and 97(1) and (2);
+
+paragraphs 5 to 11 of Schedule 8; and
+
+Schedules 9 and 10.
+
+He has consulted with such organisations as appear to him to be representative of interests substantially affected by this Order as required by section 97(5) of that Act.
+
+As required by section 96(1)(e) of that Act, he makes the Order with the approval of—
+
+the Department of Agriculture and Rural Development in Northern Ireland;
+
+the Scottish Ministers (as required by section 96(4) of the Act, a draft of the Order was laid before the Scottish Parliament and approved by resolution before the Scottish Ministers gave their approval); and
+
+the Welsh Ministers.
+
+In accordance with section 97(8)(a) of the Act, a draft of this Order has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Title, commencement and extent
+
+(1) This Order may be cited as the Agriculture and Horticulture Development Board Order 2008.
+
+(2) Articles 1, 2, 3(1) and (2), 4, 5, 8, 9 and 10, Schedule 2 and paragraphs 1 to 5 of Schedule 5 (and article 18 so far as relating to those paragraphs) come into force the day after this Order is made.
+
+(3) The remainder of the Order comes into force on 1st April 2008.
+
+(4) Except as provided by paragraph (5), this Order extends to England and Wales, Scotland and Northern Ireland.
+
+(5) Any amendment, repeal or revocation made by this Order has the same extent as the provision to which it relates.
+
+## 2. Scope
+
+(1) This Order relates to—
+
+- (a) the beef and sheep industry in England;
+- (b) the cereal and oilseed industries in the United Kingdom;
+- (c) the horticulture industry in Great Britain;
+- (d) the milk industry in Great Britain;
+- (e) the pig industry in England; [^key-0cffdbf123d6df5da40e44cf0f0c29ec]...
+- (f) the potato industry in Great Britain.
+- (g)[^key-574d3114ed232f94f0088dd576efea79] any agricultural industry in the United Kingdom not covered by any of sub-paragraphs (a) to (f); and
+- (h) in relation to an industry covered by any of sub-paragraphs (a) to (g), any related industry.
+
+(2) For these purposes—
+
+- “[^key-ec6d6e305f4480d865aface7255f0912]**agricultural industry**” means horticulture, fruit growing, seed growing, dairy farming and livestock breeding and keeping, and the use of land as grazing land, meadow land, osier land, market gardens and nursery grounds;
+- “**beef and sheep industry**” means all the activities comprised in the production, marketing and distribution of—
+  - (a) cattle and sheep, including the carrying on of slaughterhouses and cattle and sheep auctions and markets;
+  - (b) meat and meat products (other than milk and milk products) from cattle and sheep;
+- “**cereal and oilseed industries**” means the industries comprising the activities of growers and persons trading as wholesale buyers or sellers of cereal or oilseed, or processing cereal, and—
+  - (c) “**cereal**” means wheat (including durum wheat), barley, oats, rye, maize, triticale or any two or more of such cereals grown as one crop; and
+  - (d) “**oilseed**” means rapeseed, linseed, soyabean or sunflowerseed or any two or more of such oilseeds grown as one crop;
+- “[^key-077b7af078cd3e2612e1fc4074645228]**horticulture industry**” means the growing by way of business of—
+  - (a) protected vegetables, herbs and leafy salads grown in glasshouse systems and indoors;
+  - (b) field vegetables grown outdoors, including vegetables, herbs, leafy salads but not including potatoes;
+  - (c) soft fruit grown outdoors or under cover and indoors;
+  - (d) trees that bear fruit;
+  - (e) vines and bines;
+  - (f) mushrooms;
+  - (g) bulbs and cut flowers grown outdoors and indoors;
+  - (h) pot plants, including seasonal bedding plants;
+  - (i) hardy ornamental nursery stock, including Christmas trees; and
+  - (j) trees and saplings in tree and forest nurseries;
+- “**milk industry**” means the industry comprising the activities of producers in producing cows' milk or milk products and selling them by way of business;
+- “**pig industry**” means all the activities comprised in the production, marketing and distribution of pigs or pig products, including the carrying on of slaughterhouses and pig auctions and markets;
+- “**potato industry**” means the activities of persons in growing, selling, buying or in any way dealing in potatoes, whether raw or processed, by way of business.
+
+(3) A reference in this Order to “**industry**” is a reference to one or more of these industries.
+
+## 3. Establishment of the Agriculture and Horticulture Development Board
+
+(1) A body called the Agriculture and Horticulture Development Board is established.
+
+(2) Its purposes are—
+
+- (a) increasing efficiency or productivity in the industry;
+- (b) improving marketing in the industry;
+- (c) improving or developing services that the industry provides or could provide to the community; and
+- (d) improving the ways in which the industry contributes to sustainable development.
+
+(3) Its functions are the provision of any of the services specified in Schedule 1.
+
+## 4. Constitution etc. of the Board
+
+Schedule 2 (constitution and proceedings of the Agriculture and Horticulture Development Board) has effect.
+
+## 5. Acting through subsidiaries
+
+(1) The Agriculture and Horticulture Development Board may establish a subsidiary company for each of the industries within the scope of this Order and may establish such other subsidiary companies as may be conducive or incidental to its functions, and a reference to a subsidiary company in this Order is a reference to such a company.
+
+(2) The Board may delegate any of its functions to a subsidiary company, but may continue to carry out any function it has delegated.
+
+(3) A subsidiary company must carry out the functions in Schedule 1 that the Board delegates to it.
+
+## 6. Levies
+
+(1)[^key-1f6f04dfcc9950c8fcc5f497ed00ab7b] The Agriculture and Horticulture Development Board must impose a levy in relation to each industry covered by article 2(1)(a), (b), (d) and (e) to enable it to provide services for each of those industries, and Schedule 3 has effect for that purpose.
+
+(2) All figures in that Schedule exclude VAT.
+
+(3) The levies are to enable the Board to—
+
+- (a) cover its costs in providing any of the services specified in Schedule 1;
+- (b) meet its administrative expenses;
+- (c) further a purpose in article 3(2); and
+- (d) establish a reserve fund.
+
+(4) The rate of levy (and any higher rate for late payment of the levy) must be approved [^key-56546d4cb7157661a5e521d403a6643a]... by the appropriate authority.
+
+(4A)[^key-e1d7cb3aac6e72e3d2583aa9f08faacf] The Board may impose a levy rate of zero for a period of time in relation to any industry covered by article 2(1)(a), (b), (d) or (e) if—
+
+- (a) it considers that there are exceptional circumstances which justify doing so, and
+- (b) the appropriate authority has approved the imposition of a levy rate of zero for that period of time.
+
+(5) The Board may delegate the collection of levy to a subsidiary company.
+
+(6) Levy raised in relation to an industry may only be used in relation to that industry.
+
+## 7. Estimates
+
+(1) If any person liable to pay levy fails to notify the Agriculture and Horticulture Development Board or a subsidiary company of the information specified in Schedule 3 by the due date specified in that Schedule, the Board or the subsidiary company may estimate the amount that should have been notified, and notify the person of the estimate.
+
+(2) If the person fails to make a return within 28 days of notification of the estimate he becomes liable to pay levy on that estimate.
+
+(3) The Board may provide that a higher rate of levy is payable on the estimated amount, but that higher rate may not exceed the maximum rates provided for in Schedule 3.
+
+## 8. Charges for services[^key-03345e6e9f266f0a455272b716f773dc]
+
+(1) Subject to paragraph (2), the Agriculture and Horticulture Development Board (“**the Board**”), or any subsidiary company, may make such charges for the services provided in the exercise of its functions specified in Schedule 1 to any industry covered by this Order as appear to the Board or subsidiary company to be reasonable.
+
+(2) Any charges made under paragraph (1) must relate to costs of services provided in the exercise of functions specified in Schedule 1 which are—
+
+- (a) incurred by the Board or any subsidiary company; and
+- (b) not met from a levy imposed under article 6(1).
+
+## 9. Reserve funds etc.
+
+The Agriculture and Horticulture Development Board may—
+
+- (a) establish and maintain a reserve fund for the purposes of its functions; and
+- (b) borrow money and charge property.
+
+## 10. Incidental Powers
+
+(1) The Agriculture and Horticulture Development Board may do anything that appears to it to be conducive or incidental to the discharge of its functions.
+
+(2) In particular it may—
+
+- (a) enter into agreements;
+- (b) acquire or dispose of property;
+- (c) raise funds by means of voluntary contributions; and
+- (d) accept gifts.
+
+## 11. Ballots
+
+(1)[^key-be55881e0e08c7b4e85f9eda801b71ca] For each industry for which there is a levy in place under article 6, the Agriculture and Horticulture Development Board—
+
+- (a) must hold a vote at least once every five years on proposals as to how the levy will be spent;
+- (b) may hold a ballot at any time on whether or not a levy should continue (“levy continuation ballot”).
+
+(2) It must hold a levy continuation ballot[^key-bc25b0288fe3454beae14450de3e321b] if directed by the appropriate authority.
+
+(3)[^key-bb71b2feca4013b8adacfdf02158b0dd] It must hold a levy continuation ballot if, within a three month period, it receives from 5% or more of persons entitled to vote in such a ballot a signed request or requests for such a ballot.
+
+(4) The three month period is calculated from the first day of any month.
+
+(5) The maximum frequency with which a levy continuation ballot[^key-7ce95053369b56267dda4b63ecdabd68] for the same levy can be held at the request of persons entitled to vote is 5 years.
+
+(6)[^key-499a504bd468eb65c5b3dc0993184405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) The Board must immediately inform the appropriate authority of the result of a levy continuation ballot[^key-0bd66b56d5d8b4dfd9bca350a0a03e26], but the appropriate authority is not bound by the result.
+
+## 12. Who can vote
+
+(1) The following are entitled to vote in relation to the levy.
+
+Voters
+
+| *Levy* | *Voters and categories* |
+| --- | --- |
+| Pigs | Any person who pays the producer levy related to pigs[^key-1a9239c1c8f7e7e2109d576a9b4679f3] |
+|  | Any person who slaughters or exports pigs in England |
+| Cattle | Any person who keeps cattle in England |
+|  | Any person who slaughters or exports cattle in England |
+| Sheep | Any person who keeps sheep in England |
+|  | Any person who slaughters or exports sheep in England |
+| Milk | Any milk producer in Great Britain |
+| [^key-f8296d83e1d1976da7242165afe4d05b]. . . | [^key-f8296d83e1d1976da7242165afe4d05b]. . . |
+| [^key-f8296d83e1d1976da7242165afe4d05b]. . . | [^key-f8296d83e1d1976da7242165afe4d05b]. . . |
+|  | Any person who pays the potato buyer levy |
+| Cereal | Any person who pays the cereal buyer levy |
+|  | Any person who pays the cereal processor levy |
+|  | Any person who pays the cereal grower levy |
+| Oilseeds | Any person who pays the oilseed grower levy |
+|  |  |
+
+(2) The qualification for voting must be satisfied in the twelve months preceding the ballot.
+
+(3) Each person entitled to vote has one vote (if there is a partnership each partnership has one vote).
+
+(4) Separate ballots may be held for different categories of voters.
+
+## 13. Report and accounts
+
+(1) For each financial year, the Agriculture and Horticulture Development Board must—
+
+- (a) prepare an annual report on how it has discharged its functions during the year, and
+- (b) send a copy of the report to the Secretary of State, the Scottish Ministers, the Welsh Ministers and the relevant Northern Ireland department within such period as the appropriate authority directs.
+
+(2) In this article, “**financial year**” means—
+
+- (a) the period beginning with the day on which the Board is established and ending with the next 31st March, and
+- (b) each subsequent period of 12 months ending with 31st March.
+
+(3) The Board must keep proper accounts and records.
+
+(4) For each financial year, it must—
+
+- (a) prepare a statement of accounts in respect of that financial year, and
+- (b) send copies to the Secretary of State and the Comptroller and Auditor General within such period as the appropriate authority directs.
+
+(5) The statement must be in such form as the appropriate authority, with the approval of the Treasury, directs.
+
+(6) The Comptroller and Auditor General must—
+
+- (a) examine, certify and report on the statement, and
+- (b) send a copy of the certified statement of accounts and of his report to the Secretary of State, Scottish Ministers, Welsh Ministers and the relevant Northern Ireland department. as soon as possible.
+
+(7) When the Secretary of State receives the annual report and the certified statement of accounts he must lay them before each House of Parliament.
+
+(8) When the Scottish Ministers receive them they must lay them before the Scottish Parliament.
+
+(9) When the Welsh Ministers receive them they must lay them before the National Assembly for Wales.
+
+(10) When the relevant Northern Ireland department receives them it must lay them before the Northern Ireland Assembly.
+
+## 14. Provision of information by the Board
+
+(1) The Agriculture and Horticulture Development Board must provide the appropriate authority with such information as it may require relating to its property or to the discharge or proposed discharge of its functions.
+
+(2) The Board must also—
+
+- (a) permit any person authorised by the appropriate authority to inspect and make copies of its accounts or other documents, and
+- (b) provide such explanation of them as that person or the appropriate authority may require.
+
+## 15. Provision of information to the Board
+
+(1) It is an offence knowingly to provide false or misleading information relating to the requirements of this Order to the Agriculture and Horticulture Development Board or a subsidiary company.
+
+(2) Any person obliged to pay levy under this Order must keep sufficient records to enable the Board or a subsidiary company to establish how much levy is due, and must produce them to an officer of the Board or a subsidiary company on demand; and failure to comply with this paragraph is an offence.
+
+## 16. Penalties and proceedings
+
+(1) A person guilty of an offence under this Order is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) Proceedings for an offence under this Order may be brought within the period of 6 months beginning with the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to his knowledge, provided that the commencement of such proceedings is not more than 2 years after the date on which the offence was committed.
+
+(3) Where a body corporate is guilty of an offence under this Order, and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of—
+
+- (a) any director, manager, secretary or other similar person of the body corporate; or
+- (b) any person who was purporting to act in any such capacity,
+
+that person is guilty of the offence as well as the body corporate.
+
+(4) For the purposes of this article “**director**”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+(5) Where an offence under this Order that has been committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership is guilty of the offence.
+
+## 17. Dissolution of existing bodies
+
+(1) The following bodies are dissolved—
+
+- (a) the British Potato Council;
+- (b) the Home-Grown Cereals Authority;
+- (c) the Horticultural Development Council;
+- (d) the Meat and Livestock Commission; and
+- (e) the Milk Development Council.
+
+(2) All property, rights and liabilities of the dissolved bodies are transferred to the Agriculture and Horticulture Development Board in accordance with Schedule 4 (provisions relating to the transfer).
+
+## 18. Repeals, etc.
+
+Schedule 5 (consequential amendments, transitional provisions, repeals and revocations) has effect. *(Extent: W)* *(affected by repeal, see note)*[^key-4cf319c5ea58761d34aa7f08d3d29f80]
+
+Jeff Rooker
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+Richard Lockhead
+
+Authorised by the Scottish Ministers
+
+Elin Jones
+
+Authorised by the Welsh Ministers
+
+John Speers
+
+The
+
+Department of Agriculture and Rural Development in Northern Ireland
+
+## SCHEDULE 1 — Functions of the Agriculture and Horticulture Development Board
+
+Article 3(2)(d)
+
+**1.** Promoting or undertaking scientific research.
+
+**2.** (1) Promoting or undertaking inquiry—
+
+- (a) as to materials and equipment, and
+- (b) as to methods of production, management and labour utilisation.
+
+(2) Promoting or undertaking inquiry under sub-paragraph (1) includes promoting or undertaking—
+
+- (a) the discovery and development of—
+  - (i) new materials, equipment and methods, and
+  - (ii) improvements in those already in use,
+- (b) the assessment of the advantages of different alternatives, and
+- (c) the conduct of experimental establishments and of tests on a commercial scale.
+
+**3.** Promoting the production and marketing of standard products.
+
+**4.** Promoting the better definition of trade descriptions and consistency in the use of trade descriptions.
+
+**5.** Developing, promoting, marketing or operating—
+
+- (a) standards relating to the quality of products, or
+- (b) systems for the classification of products.
+
+**6.** Developing, reviewing or operating schemes for the certification of products or of operations connected with production or supply of products.
+
+**7.** Undertaking the certification of products, the registration of certification trade marks, and the functions of proprietors of such marks.
+
+**8.** Providing or promoting the provision of—
+
+- (a) training for persons engaged in or proposing to be engaged in the industry, and
+- (b) their education in subjects relevant to the industry.
+
+**9.** (1) Promoting—
+
+- (a) the adoption of measures for securing safer and better working conditions, and
+- (b) the provision and improvement of amenities for persons employed.
+
+(2) Promoting or undertaking inquiry as to measures for securing safer and better working conditions.
+
+**10.** Promoting or undertaking research for improving arrangements for marketing and distributing products.
+
+**11.** Promoting or undertaking research into matters relating to the consumption or use of goods and services supplied by the industry.
+
+**12.** Promoting arrangements—
+
+- (a) for co-operative organisations,
+- (b) for supplying materials and equipment, and
+- (c) for marketing and distributing products.
+
+**13.** Promoting the development of export trade, including promoting or undertaking arrangements for publicity overseas.
+
+**14.** Promoting or undertaking arrangements for better acquainting the public in the United Kingdom with the goods and services supplied by the industry and methods of using them.
+
+**15.** Promoting or undertaking the collection and formulation of statistics.
+
+**16.** Advising on any matters relating to the industry (other than remuneration or conditions of employment) as to which the appropriate authority may request the Board to advise, and undertaking inquiry for the purpose of enabling it to advise on such matters.
+
+**17.** Undertaking arrangements for making available information obtained, and for advising, on matters with which the Board is concerned in the exercise of any of its functions.
+
+**18.** Engaging in any form of collaboration or co-operation with other persons in performing any of their functions.
+
+**19.** Promoting or undertaking research into the incidence, prevention and cure of industrial diseases.
+
+**20.** Promoting or undertaking arrangements for encouraging the entry of persons into the industry.
+
+**21.**[^key-bc0c82ce520717e5e13048fded89f7c4] Collecting, managing and making available information regarding the identification, movement and health of animals.
+
+**22.** Allocating unique identification codes to the means of identifying animals in England and Wales.
+
+## SCHEDULE 2 — Constitution and proceedings of the Agriculture and Horticulture Development Board
+
+Article 4
+
+### 1. Procedure
+
+(1) The Agriculture and Horticulture Development Board may determine its own procedure, and in particular it may—
+
+- (a) determine a quorum;
+- (b) appoint committees to advise it in the exercise of any of its functions; and
+- (c) determine the quorum and procedure of those committees.
+
+(2) Any committee may include members who are not members of the Board.
+
+### 2. Members' terms of office and removal from office
+
+(1) The term of office of a Board member, including the chair,[^key-f4a71759dd6d27a94830d96a60ed53ef] may not exceed four years.
+
+(2) A member may resign by giving written notice to the appropriate authority.
+
+(3) The appropriate authority may remove a member who—
+
+- (a) has been absent from meetings of the Board for a period of longer than 6 months without the permission of the Board,
+- (b) becomes bankrupt or makes an arrangement with his creditors or (in Scotland) has his estate sequestrated, or
+- (c) in the opinion of the appropriate authority has become unable, unfit or unsuitable to carry out his duties.
+
+(4)[^key-835d8b1c85cede382a687c4e69422ac0] A person may be reappointed to a particular position on the Board once only (and sub-paragraph (1) applies in relation to that reappointment).
+
+(5) A member of the Board must immediately disclose any direct or indirect interest in any contract or other matter proposed or discussed by the Board.
+
+(6) The disclosure must be recorded in the minutes of the Board, and that member shall not take part after the disclosure in any discussion or decision of the Board on that contract, but the member may, nevertheless, be taken into account for the purpose of constituting a quorum of the board.
+
+### 3. Voting etc.
+
+Each member (including the chair) has one vote, and if a vote is tied the person who is chair of the meeting has a casting vote.
+
+### 4. Remuneration and allowances
+
+(1) The Board may pay to its members any expenses properly incurred by them in carrying out its business, and such remuneration and allowances as the appropriate authority determines.
+
+(2) If—
+
+- (a) a person ceases to be a member, and
+- (b) it appears to the appropriate authority that there are special circumstances which make it appropriate for the person to receive compensation,
+
+the appropriate authority may direct the board to pay the person such amount as the appropriate authority determines.
+
+(3) The Board may pay to committee members any expenses properly incurred by them in carrying out its business, and such remuneration and allowances as may be determined by the appropriate authority.
+
+### 5. Employees
+
+The Board may appoint such employees as it determines, and may pay to them such remuneration and other allowances, and make such provision for pensions, as it determines.
+
+## SCHEDULE 3 — Levies
+
+Article 6(1)
+
+### PART 1 — Introduction
+
+#### 1. Subsidiary companies
+
+Where the Agriculture and Horticulture Development Board has established a subsidiary company for any of the activities specified in this Schedule, references to the Agriculture and Horticulture Development Board are references to that subsidiary company.
+
+#### 2. Partnerships
+
+In this Schedule “**person**” includes a partnership.
+
+### PART 2 — Cattle, sheep and pigs
+
+#### 3. Levy on cattle, sheep and pigs
+
+(1) A person who is the occupier of a slaughterhouse (“the slaughterer”) must pay a levy on all cattle, sheep and pigs slaughtered.
+
+(2) Any person who exports live cattle, sheep or pigs (“an exporter”) must pay a levy.
+
+(3) The levy is based on the number of animals slaughtered or exported.
+
+(4) The levy consists of two parts, the producer levy and the slaughter or export levy.
+
+(5)[^key-9dc16d4e4448cd17bd3e66d05ca85d56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) If a slaughterer or exporter buys an animal for slaughter or export, he must deduct the producer levy from the price he pays, and hold it on trust for the Agriculture and Horticulture Development Board[^key-c87cf14fc1fb0f8f03d0c86b4ba8e27f].
+
+(7) If a slaughterer slaughters an animal without buying it, he must charge the owner both the producer levy and the slaughter levy, and hold it on trust for the Board.
+
+(7A)[^key-dc1d8c52d04fd8614f7eae6db3eb7a34] The Board may reduce the levy that the slaughterer or exporter would otherwise be required to pay to the Board to cover the administrative costs of the slaughterer or exporter in administering the levy.
+
+(8) The maximum rate of levy is in accordance with the following table.
+
+Maximum levy for cattle, sheep and pigs
+
+<table>
+<tfoot>
+<tr><td colspan="4">(a) For these purposes a calf is an animal under six months old (in the case of an exported animal) or an animal with a dressed slaughter weight of less than 68 kg (in the case of slaughtered animal).</td></tr>
+</tfoot>
+<tbody>
+<tr><th colspan="2"><em>Levy category</em></th><th colspan="2"><em>Maximum rate of levy per head (£)</em></th></tr>
+<tr><td rowspan="3">Cattle (except calves):</td><td>producer</td><td>5.25</td><td></td></tr>
+<tr><td>slaughterer</td><td>1.75</td><td></td></tr>
+<tr><td>exporter</td><td>1.75</td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr><td>Calves(a):</td><td>producer</td><td>0.50</td><td></td></tr>
+<tr><td></td><td>slaughterer</td><td>0.50</td><td></td></tr>
+<tr><td></td><td>exporter</td><td>0.50</td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr><td>Pigs:</td><td>producer</td><td>1.075</td><td></td></tr>
+<tr><td></td><td>slaughterer</td><td>0.275</td><td></td></tr>
+<tr><td></td><td>exporter</td><td>0.275</td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr><td>Sheep:</td><td>producer</td><td>0.75</td><td></td></tr>
+<tr><td></td><td>slaughterer</td><td>0.25</td><td></td></tr>
+<tr><td></td><td>exporter</td><td>0.25</td><td></td></tr>
+</tbody>
+</table>
+
+[^key-00ee767f3f33fb9e6ea8d222cbcbd1ca][^key-fda206d9116803e9f3bbcc5434cf7762][^key-c14fb9cea6dd4c90fa96eacccb667278]
+
+#### 4. Exceptions
+
+(1) Levy is not payable for animals imported into the United Kingdom[^key-a51a6c409d0464d9d95064c16562969c] and slaughtered within 3 months in the case of cattle and 2 months in the case of pigs or sheep.
+
+(2) Levy is not payable if an animal is subject to compulsory slaughter or the entire carcase is declared unfit for human consumption by the official veterinarian.
+
+#### 5. Returns by a slaughterhouse occupier
+
+(1) An occupier of a slaughterhouse must notify the Agriculture and Horticulture Development Board, by the end of each Wednesday, of the number of animals subject to levy slaughtered in the previous week up to the end of Sunday, broken down into types of animal.
+
+(2) If an occupier estimates that the total number of animals that will be slaughtered will be fewer than 25 each week, he may apply to the Board to be registered as a small operator; and if the Board agrees to so register him, he must notify the Board on or before the 15th day of each month of the number of animals subject to levy slaughtered in the previous month broken down into types of animal.
+
+(3) Failure to notify in accordance with this paragraph is an offence.
+
+#### 6. Payment of the levy by slaughterhouse occupiers
+
+An occupier must pay the levy due for animals slaughtered in any month within the period of 30 days beginning with the date on which the invoice for the levy is issued[^key-cbb459ea5970164398c50a3363f7f72f].
+
+#### 7. Returns and payment of the levy by exporters
+
+(1) An exporter must notify the Agriculture and Horticulture Development Board, within 30 days of the end of the month, of the number of animals exported in the previous month, and failure to do so is an offence.
+
+(2) He must pay the levy due for animals exported in that month within the period of 30 days beginning with the date on which the invoice for the levy is issued[^key-c159595c906edcf81b837c71dedca511].
+
+#### 8. Enforcement
+
+(1) A person appointed by the Agriculture and Horticulture Development Board may, on producing a duly authenticated document showing his authority if required, enter any slaughterhouse at any reasonable hour to check any records to ensure that the correct levy has been paid.
+
+(2) It is an offence to obstruct any person acting under this paragraph or to fail to produce records on demand.
+
+### PART 3 — Cereal and oilseed
+
+#### 9. Levy on cereal and oilseed payable by buyers
+
+(1) Any person who buys cereal or oilseed grown in the United Kingdom from the grower must pay a levy.
+
+(2) The levy is based on the weight bought.
+
+(3)[^key-576b0866e3eede9353598d4b5dd8c714] In the case of cereal—
+
+- (a) the levy consists of two parts, the cereal grower levy and the cereal buyer levy;
+- (b) the buyer must deduct the cereal grower levy from the price paid and hold it on trust for the Agriculture and Horticulture Development Board; and
+- (c) the Board may reduce the levy that the buyer would otherwise be required to pay to the Board to cover the administrative costs of the buyer in administering the levy.
+
+(4) In the case of oilseed—
+
+- (a) the levy consists of the oilseed grower levy;
+- (b) the buyer must deduct the oilseed grower levy from the price paid and hold it on trust for the Board; and
+- (c) the Board may reduce the levy that the buyer would otherwise be required to pay to the Board to cover the administrative costs of the buyer in administering the levy.
+
+(5) If the buyer is—
+
+- (a) the appropriate authority; or
+- (b) outside the United Kingdom (or, in the case of a company, registered outside the United Kingdom),
+
+the grower must pay the levy to the Board himself, based on the weight sold.
+
+#### 10. Levy on cereal payable by a processor
+
+(1) Any person who by way of business carries out an industrial process to cereal grown in the United Kingdom must pay a levy to the Agriculture and Horticulture Development Board.
+
+(2) The levy is based on the weight of cereal to be processed.
+
+(3) This paragraph does not apply in relation to cereal processed by or for the person who grew them.
+
+#### 11. Maximum rate of levy
+
+The maximum rate of levy is in accordance with the following table.
+
+Maximum levy for cereal and oilseed
+
+<table>
+<tfoot>
+<tr><td colspan="3">(a) The feedingstuffs rate is payable in relation to cereal processed into animal feedingstuffs.</td></tr>
+</tfoot>
+<tbody>
+<tr><th><em>Levy category</em></th><th colspan="2"><em>Maximum rate of levy (pence per tonne)</em></th></tr>
+<tr><td>Cereal grower</td><td>60</td><td></td></tr>
+<tr><td>Cereal buyer</td><td>5</td><td></td></tr>
+<tr><td>Cereal processor (feedingstuffs)(a)</td><td>6</td><td></td></tr>
+<tr><td>Cereal processor (non-feedingstuffs)</td><td>12</td><td></td></tr>
+<tr><td>Oilseed (grower)</td><td>98</td><td></td></tr>
+</tbody>
+</table>
+
+#### 12. Returns and payment of the levy[^key-4580158d102ef887a44bccfd33160bae]
+
+(1) Any person liable to pay a levy[^key-51c5c429dbead42385cab3f8cf32d62d] relating to cereal to the Agriculture and Horticulture Development Board must notify it of the amount of cereal bought, processed or sold on which a levy is due in each three month period ending 31st December, 31st March, 30th June and 30th September.
+
+(2) Any person who has bought less than 250 tonnes of cereal in any year ending 30th June, or processed less than 1,000 tonnes in any year, may instead notify once a year the amount bought in that year.
+
+(3) Any person liable to pay a levy[^key-722100c660e93554469000da98948130] relating to oilseed must notify the Board of the amount of oilseed bought in the six month period ending 31st December and 30th June each year.
+
+(4) That person must notify within 28 days of the end of any period referred to in sub-paragraph (1), (2) or (3), and failure to so is an offence.
+
+(5)[^key-cafa09a9074c507b4d082e454972646d] In each case, the levy is payable to the Board within the period of 30 days beginning with the date on which the invoice for the levy is issued.
+
+#### 13. Weekly returns
+
+(1) If any person buys more than 1,000 tonnes of cereal grown in the United Kingdom in any year ending 30th June, he must in the following year make a written weekly return to the Agriculture and Horticulture Development Board in accordance with this paragraph, and failure to do so is an offence.
+
+(2) Each return must show—
+
+- (a) the amount in tonnes of cereal grown in the United Kingdom and bought by him in the previous week (ending on Friday), broken down by type of cereal; and
+- (b) the prices paid.
+
+(3) The return must be submitted by the end of Thursday in the following week.
+
+(4) The Board must publish the mean average price of each type of cereal on a weekly, monthly and annual basis.
+
+### PART 4 — Horticulture[^key-22675c7e3b3131180c2f8416d3c823e2]
+
+**No longer in force.**
+
+#### 14. Levy on horticultural products[^key-22675c7e3b3131180c2f8416d3c823e2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15. Levy on mushroom spawn[^key-22675c7e3b3131180c2f8416d3c823e2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 16. Returns[^key-22675c7e3b3131180c2f8416d3c823e2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 17. Information notices[^key-22675c7e3b3131180c2f8416d3c823e2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 18. Maximum levy for horticultural products[^key-22675c7e3b3131180c2f8416d3c823e2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 19. Maximum levy for mushrooms[^key-22675c7e3b3131180c2f8416d3c823e2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 20. Payment[^key-22675c7e3b3131180c2f8416d3c823e2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 5 — Milk
+
+#### 21. Levies on milk[^key-67035e28735cc219e5d6d217f24c4405]
+
+(1) A person who buys milk from a producer or is a direct seller of milk must pay a levy.
+
+(2) The levy consists of the milk producer levy.
+
+(3) The levy is based on volume and the maximum levy is 0.08 pence per litre.
+
+(4) In the case of a person who buys milk from a producer—
+
+- (a) the buyer must deduct the milk producer levy from the price paid and hold it on trust for the Agriculture and Horticulture Development Board; and
+- (b) the Board may reduce the levy that the buyer would otherwise be required to pay to the Board to cover the administrative costs of the buyer in administering the levy.
+
+(5) In sub-paragraph (1), “**direct seller of milk**” means a milk producer who sells milk products or packaged milk made from milk produced on their own holding.
+
+#### 22. Payment of the levy
+
+(1) At the end of every month a buyer of milk must notify to the Agriculture and Horticulture Development Board the amount of milk bought that month, and failure to do so is an offence.
+
+(2) A direct seller of milk must notify to the Board by 14th May each year the amount of milk produced on his holding in the previous year ending 1st April, and failure to do so is an offence.
+
+(3) In both cases the levy is payable to the Board within the period of 30 days beginning with the date on which the invoice for the levy is issued[^key-2d339d268b12efe21ffcbf49bd0bfc46].
+
+### PART 6 — Potatoes[^key-e22bd0c8c735b6eec7ab8323a42de262]
+
+**No longer in force.**
+
+#### 23. Levy on potato growers[^key-e22bd0c8c735b6eec7ab8323a42de262]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 24. Levy on buyers of potatoes[^key-e22bd0c8c735b6eec7ab8323a42de262]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 25. Returns by growers[^key-e22bd0c8c735b6eec7ab8323a42de262]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 26. Returns by buyers[^key-e22bd0c8c735b6eec7ab8323a42de262]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — Provisions relating to the transfer
+
+Article 17
+
+### 1. Transfer of undertakings
+
+(1) The whole of the undertakings of the dissolved bodies are transferred to the Agriculture and Horticulture Development Board.
+
+(2) The Board has all rights and is subject to all liabilities that the dissolved body had or to which it was subject immediately before the transfer.
+
+### 2. Transfer or property, rights and undertakings
+
+(1) All the property of the dissolved bodies is transferred to the Agriculture and Horticulture Development Board.
+
+(2) For the avoidance of doubt it is declared that the transfer of an interest in land by virtue of this Order does not constitute either—
+
+- (a) a purchase or creation of that interest for the purposes of section 30(2) of the Landlord and Tenant Act 1954 [^c19148981] (which restricts a landlord's right to oppose an application for a new tenancy of business premises in certain cases); or
+- (b) an assignment, transfer, devolution, parting with possession or other disposition of that interest for the purposes of any provision relating to assignment, transfer, devolution, parting with possession or other disposition contained in any instrument concerning that interest.
+
+### 3. Existing agreements
+
+(1) Every agreement, trust deed and other instrument to which the dissolved body was a party, whether in writing or not and whether or not of such nature that rights and liabilities under it could be assigned by the body, has effect as if—
+
+- (a) the Agriculture and Horticulture Development Board had been a party to the agreement, trust deed or other instrument;
+- (b) a reference to the dissolved body were a reference to the Agriculture and Horticulture Development Board;
+- (c) a reference to an officer or employee of the body were, as respects anything falling to be done on or after the transfer, a reference to such person as the Agriculture and Horticulture Development Board may appoint or, in default of appointment, to the officer or employee of the Agriculture and Horticulture Development Board who corresponds as nearly as may be to the officer or employee of the dissolved body; and
+- (d) any other reference to the undertaking of the dissolved body were a reference to so much of the undertaking of the Agriculture and Horticulture Development Board as corresponds to the undertaking of the body.
+
+### 4. Use of surplus
+
+The Agriculture and Horticulture Development Board must use the surplus from each dissolved body for the purposes for which the body was established or for connected purposes; and “**surplus**” means the amount by which immediately before the transfer the assets of the body exceed its liabilities.
+
+### 5. Pension schemes
+
+(1) In this paragraph “**existing scheme**” means any pension scheme in relation to which a dissolved body is an employer or one of a number of employers.
+
+(2) For the purposes of the Pension Schemes Act 1993 [^c19148991], the Pensions Act 1995 [^c19149001], Part 1 or section 33 of the Welfare Reform and Pensions Act 1999 [^c19149011] and the Pensions Act 2004 [^c19149021] and subordinate legislation made under those Acts the Agriculture and Horticulture Development Board shall be treated on and after the transfer as if it had at all material times been the employer in relation to any pension scheme in relation to which the dissolved body was an employer so that no employment cessation event shall occur or be deemed to occur on the transfer, and for the purpose of calculating the right to benefits under the pension scheme, service or employment with the dissolved body prior to the transfer shall be taken into account as if it were service or employment with the Agriculture and Horticulture Development Board, but the coming into force of this Order does not of itself give rise to any claim to benefit under any such scheme or operate to cause a member of it to become a member of another pension scheme.
+
+(3) For the purpose of any provisions contained in any instrument affecting an existing scheme which has the effect of prohibiting or invalidating amendments of such instrument which would vary or conflict with the main objects or purposes of the scheme, any such admission, transfer of assets or assumption of liability as is referred to in this Schedule, whether effected by the powers conferred by this Schedule or otherwise, shall be deemed to be one of the main objects or purposes of such existing scheme.
+
+### 6. Contracts of employment
+
+(1) Except where objection is made under the following paragraph, the transfer does not operate so as to terminate the contract of employment of any person employed by a dissolved body and assigned to the Agriculture and Horticulture Development Board that would otherwise be terminated by the transfer, but the contract has effect after the transfer as if originally made between the employee and the Agriculture and Horticulture Development Board.
+
+(2) In respect of a contract of employment that is transferred by this Order, any purported variation of the contract is void if the sole or principal reason for the variation is—
+
+- (a) the transfer itself; or
+- (b) a reason connected with the transfer that is not an economic, technical or organisational reason entailing changes in the workforce.
+
+(3) This does not prevent the employer and employee from agreeing a variation of that contract if the sole or principal reason for the variation is—
+
+- (a) a reason connected with the transfer that is an economic, technical or organisational reason entailing changes in the workforce; or
+- (b) a reason unconnected with the transfer.
+
+### 7. Objection to transfer
+
+(1) This Schedule does not operate to transfer the contract of employment and the rights, powers, duties and liabilities under or in connection with it of an employee who informs a dissolved body that he objects to becoming employed by the Agriculture and Horticulture Development Board.
+
+(2) Where an employee so objects, the transfer operates so as to terminate his contract of employment with the dissolved body but he shall not be treated, for any purpose, as having been dismissed by the dissolved body.
+
+(3) Where the transfer involves or would involve a substantial change in working conditions to the material detriment of a person whose contract of employment is or would be transferred by this Schedule, the employee may treat the contract of employment as having been terminated, and the employee shall be treated for any purpose as having been dismissed by the dissolved body
+
+(4) No damages are payable as a result of a dismissal falling within this paragraph in respect of any failure to pay wages to an employee in respect of a notice period which the employee has failed to work.
+
+(5) This paragraph is without prejudice to any right of an employee arising apart from this Schedule to terminate his contract of employment without notice in acceptance of a repudiatory breach of contract by his employer
+
+### 8. Collective agreements
+
+Where at the time of a relevant transfer there exists a collective agreement made by or on behalf of a dissolved body with a trade union recognised by that dissolved body in respect of any employee whose contract of employment is transferred by this Schedule, then—
+
+- (a) that agreement, in its application in relation to the employee, shall, after the transfer, have effect as if made by the Agriculture and Horticulture Development Board or on behalf of the Agriculture and Horticulture Development Board with that trade union, and accordingly anything done under or in connection with it, in its application in relation to the employee, by or in relation to the dissolved body before the transfer, shall, after the transfer, be deemed to have been done by or in relation to the Agriculture and Horticulture Development Board; and
+- (b) any order made in respect of that agreement, in its application in relation to the employee, shall, after the transfer, have effect as if the Agriculture and Horticulture Development Board were a party to the agreement.
+
+### 9. Legal proceedings and the payment of levy
+
+(1) Where any right or liability becomes a right or liability of the Agriculture and Horticulture Development Board, the Agriculture and Horticulture Development Board has the same rights, powers and remedies (and in particular the same rights and powers as to the taking or resisting of legal proceedings or the making or resisting of applications to any authority) for ascertaining, perfecting, enforcing or resisting that right or liability as it would have had if it had been at all times a right or liability of the Agriculture and Horticulture Development Board, and any legal proceedings or applications to any authority pending immediately before the transfer by or against the body shall be continued by or against the Agriculture and Horticulture Development Board.
+
+(2) All levy payable under legislation repealed or revoked by this Order and due immediately before the transfer is payable to the Agriculture and Horticulture Development Board, and the Agriculture and Horticulture Development Board may bring proceedings to recover that levy.
+
+### 10. Prosecutions
+
+The Agriculture and Horticulture Development Board may bring prosecutions under any enactments repealed or revoked by this Order for offences committed before the transfer, and in particular may bring prosecutions for matters arising out of the Cereals Marketing Act 1965 [^c19149051] notwithstanding the restrictions on bringing prosecutions in section 22 of that Act.
+
+## SCHEDULE 5 — Consequential amendments, transitional provisions, repeals and revocations
+
+Article 18
+
+### 1. Consequential amendments
+
+In Schedule 2 to the Parliamentary Commissioner Act 1967 (c. 13) (departments etc subject to investigation), at the appropriate place insert— “ Agriculture and Horticulture Development Board. ”
+
+**2.** In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (c. 24) (bodies of which all members are disqualified), at the appropriate place insert—
+
+> The Agriculture and Horticulture Development Board.
+
+**3.** In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (c. 25) (bodies of which all members are disqualified), at the appropriate place insert—
+
+> The Agriculture and Horticulture Development Board.
+
+**4.**[^key-3b48c8a5d03e734b3ea16f11d24a8397] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.** In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (c. 36) (other public bodies and offices: general), at the appropriate place insert—
+
+> The Agriculture and Horticulture Development Board.
+
+### 6. Transitional rates of levy on cereal
+
+Notwithstanding the repeal of the Cereals Marketing Act 1965, the rate of levy payable until 30th June 2008 is in accordance with the following table.
+
+<table>
+<tbody>
+<tr><th><em>Levy category</em></th><th colspan="2"><em>Rate of levy (pence per tonne)</em></th></tr>
+<tr><td>Cereal grower</td><td>47</td><td></td></tr>
+<tr><td>Cereal buyer</td><td>3.8775</td><td></td></tr>
+<tr><td>Cereal processor (non-feedingstuffs)</td><td>9.6937</td><td></td></tr>
+<tr><td>Cereal processor (feedingstuffs)</td><td>4.7</td><td></td></tr>
+<tr><td>Oilseed (grower)</td><td>76.375</td><td></td></tr>
+</tbody>
+</table>
+
+### 7. Repeals and revocations
+
+The following are repealed to the extent specified.
+
+| *Title* | *Extent of repeal* |
+| --- | --- |
+| Corn Returns Act 1882 (c.37) | The whole Act. |
+| Corn Sales Act 1921 (c.35) | Section 2. |
+| Agriculture (Miscellaneous Provisions) Act 1943 (c.16) | Schedule 3. |
+| Cereals Marketing Act 1965 (c.14) | The whole Act. |
+| Parliamentary Commissioner Act 1967 (c.13) | In Schedule 2, the entries relating to the British Potato Council, the Home-Grown Cereals Authority, the Horticultural Development Council, the Meat and Livestock Commission and the Milk Development Council. |
+| Agriculture Act 1967 (c.22) | Sections 1 to 25.<br>Schedules 1 and 2. |
+| Agriculture Act 1970 (c.40) | Section 106(6).<br>Section 108. |
+| Superannuation Act 1972 (c.11) | In Schedule 4, the entry relating to the Meat and Livestock Commission. |
+| Agriculture (Miscellaneous Provisions) Act 1972 (c.62) | Section 16. |
+| House of Commons Disqualification Act 1975 (c.24) | In Schedule 1, in Part 2, the entry relating to the Meat and Livestock Commission, and, in Part 3, the entry relating to the chairman of the Home-Grown Cereals Authority. |
+| Northern Ireland Assembly Disqualification Act 1975 (c.25) | In Part 2 of Schedule 1, the entry relating to the Home-Grown Cereals Authority. |
+| Agriculture (Miscellaneous Provisions) Act 1976 (c.55) | Section 3.<br>Schedule 1. |
+| Race Relations Act 1976 (c.74) | In Part 2 of Schedule 1A, the entries relating to the British Potato Council, the Home-Grown Cereals Authority, the Meat and Livestock Commission and the Milk Development Council. |
+| Animal Health Act 1981 (c.22) | In Schedule 5, paragraph 7. |
+| Weights and Measures Act 1985(c.72) | In Schedule 12, paragraph 2. |
+| Agriculture Act 1986 (c.49) | Sections 4 to 7.<br>In Schedule 3, paragraph 2. |
+| Trustee Act 2000 (c.29) | In Schedule 2, paragraphs 35 and 36. |
+| Freedom of Information Act 2000 (c.36) | In Part 6 of Schedule 1, the entries relating to the British Potato Council, the Home-Grown Cereals Authority, the Horticultural Development Council, the Meat and Livestock Commission and the Milk Development Council. |
+| Criminal Justice Act 2003 (c. 44) | In Schedule 26, paragraph 19.<br>In Schedule 27, paragraph 2. |
+
+**8.** The following are revoked to the extent specified.
+
+| *Instrument revoked* | *Extent of revocation* |
+| --- | --- |
+| The Cereals Marketing Act 1965 (Amendment) Regulations 1977 (SI 1977/181) | The whole Regulations. |
+| The Cereals Marketing Act 1965 (Amendment) Regulations 1979 (S. I. 1979/26) | The whole Regulations. |
+| The Horticultural Development Council Order 1986 (S. I. 1986/1110) | The whole Order. |
+| The Cereals Marketing Act (Application to Oilseeds) Order 1989 (SI 1989/1200) | The whole Order. |
+| The Horticultural Development Council (Amendment) Order 1990 (S. I. 1990/454) | The whole Order. |
+| The Companies Act 1989 (Eligibility for Appointment as Company Auditor) (Consequential Amendments) Regulations 1991 (S. I. 1991/1997) | Paragraphs 13 and 16 of the Schedule. |
+| The Beef Carcase (Classification) Regulations 1991 (S. I. 1991/2242) | Regulation 10(12). |
+| The Horticultural Development Council (Amendment) Order 1992 (S. I. 1992/1836) | The whole Order. |
+| The Pig Carcase (Grading) Regulations 1994, (S. I. 1994/2155) *(Extent: W)* *(affected by repeal, see note)*[^key-041af03fe53f23d1e6411c41dc779b3c] | Regulation 7(12). *(Extent: W)* *(affected by repeal, see note)*[^key-041af03fe53f23d1e6411c41dc779b3c] |
+| The Milk Development Council Order 1995 (S. I. 1995/356) | The whole Order. |
+| The Deregulation (Corn Returns Act 1882) Order 1996 (S. I. 1996/848) | The whole Order. |
+| The Potato Industry Development Council Order 1997 (S. I. 1997/266) | The whole Order. |
+| The Potato Industry Development Council (Amendment) Order 1999 (S. I. 1999/1413) | The whole Order. |
+| The Milk Development Council (Amendment) Order 2000 (S. I. 2000/878) | The whole Order. |
+| The Horticultural Development Council (Amendment) Order 2000 (S. I. 2000/1975) | The whole Order. |
+| The Race Relations Act 1976 (General Statutory Duty) Order 2001 (S. I. 2001/3457) | In the Schedule the entries for the British Potato Council, the Home-Grown Cereals Authority, the Meat and Livestock Commission and the Milk Development Council. |
+| The Intervention Board for Agricultural Produce (Abolition) Regulations 2001 (S. I. 2001/3686) | Regulation 6(1). |
+| The Horticultural Development Council (Amendment) Order 2002 (S. I. 2002/1676) | The whole Order. |
+| The Potato Industry Development Council (Amendment) Order 2002 (S. I. 2002/3062) | The whole Order. |
+| The Horticultural Development Council (Amendment) Order 2003 (S. I. 2003/908) | The whole Order. |
+| The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2003 (S. I. 2003/1326) | Articles 5 and 6. |
+| The Milk Development Council (Amendment) Order 2004 (S. I. 2004/964) | The whole Order. |
+| The Parliamentary Commissioner (No. 2) Order 2005 (S. I. 2005/3430) | In Schedule 2 the entries for the British Potato Council, the Home-Grown Cereals Authority, the Horticultural Development Council, the Meat and Livestock Commission and the Milk Development Council. |
+
+*(This note is not part of the Order)*
+
+This Order dissolves—
+
+- (a) the British Potato Council;
+- (b) the Home-Grown Cereals Authority;
+- (c) the Horticultural Development Council;
+- (d) the Meat and Livestock Commission;
+- (e) the Milk Development Council.
+
+and replaces them with a new body, the Agriculture and Horticulture Development Board.
+
+The Agriculture and Horticulture Development Board has functions and duties relating to the following industries: beef, lamb and pigs, cereals and oilseeds, horticulture, milk and potatoes. It operates for each industry in the part of the United Kingdom specified in article 2. The Order contains provisions for the constitution and proceedings of the Board.
+
+Under article 5 the Board may establish a subsidiary company for each of the industries covered by the Order.
+
+The Board must raise levies relating to each industry (article 6). Details of payment of the levies, and the maximum permitted levy, are set out in Schedule 3. Under that Schedule, failure to make a return relating to a levy is an offence.
+
+If demanded by a set number of levy payers in any given sector, the Board must hold a ballot on whether or not the levy system should continue in that sector (articles 11 and 12).
+
+There are offences relating to the provision of information and record-keeping (article 15).
+
+The penalty for breach of the Order is a fine not exceeding level 5 on the standard scale (currently £5,000).
+
+An impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available at www.defra.gov.uk/farm/policy/levy-bodies/index.htmhttp://www.defra.gov.uk/farm/policy/levy-bodies/index.htm.
+
+## Annotations
+
+[^c19148971]: Marginal citation: [2006 c.16](https://www.legislation.gov.uk/ukpga/2006/16). The “appropriate authority” empowered to make an Order is defined in section 96. By virtue of sections 59(1) and 162 of, and paragraphs 28 and 30 of Schedule 11 to, the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), functions conferred on the National Assembly for Wales are exercisable by the Welsh Ministers.
+
+[^key-0cffdbf123d6df5da40e44cf0f0c29ec]: Textual amendment: Word in [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/576/article/2/1/e) omitted (14.10.2023) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/1055/article/3/2/a)
+
+[^key-574d3114ed232f94f0088dd576efea79]: Textual amendment: [Art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2008/576/article/2/1/g)[(h)](https://www.legislation.gov.uk/uksi/2008/576/article/2/1/h) inserted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/1055/article/3/2/b)
+
+[^key-ec6d6e305f4480d865aface7255f0912]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/576/article/2/2) inserted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2023/1055/article/3/3)
+
+[^key-077b7af078cd3e2612e1fc4074645228]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/576/article/2/2) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/577/article/2/2)
+
+[^key-1f6f04dfcc9950c8fcc5f497ed00ab7b]: Textual amendment: [Art. 6(1)](https://www.legislation.gov.uk/uksi/2008/576/article/6/1) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2023/1055/article/4/2)
+
+[^key-56546d4cb7157661a5e521d403a6643a]: Textual amendment: Word in [art. 6(4)](https://www.legislation.gov.uk/uksi/2008/576/article/6/4) omitted (14.10.2023) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2023/1055/article/4/3)
+
+[^key-e1d7cb3aac6e72e3d2583aa9f08faacf]: Textual amendment: [Art. 6(4A)](https://www.legislation.gov.uk/uksi/2008/576/article/6/4A) inserted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2023/1055/article/4/4)
+
+[^key-03345e6e9f266f0a455272b716f773dc]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2008/576/article/8) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/577/article/2/4)
+
+[^key-be55881e0e08c7b4e85f9eda801b71ca]: Textual amendment: [Art. 11(1)](https://www.legislation.gov.uk/uksi/2008/576/article/11/1) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2022/577/article/2/5/a)
+
+[^key-bc25b0288fe3454beae14450de3e321b]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/uksi/2008/576/article/11/2) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2022/577/article/2/5/b)
+
+[^key-bb71b2feca4013b8adacfdf02158b0dd]: Textual amendment: [Art. 11(3)](https://www.legislation.gov.uk/uksi/2008/576/article/11/3) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2022/577/article/2/5/c)
+
+[^key-7ce95053369b56267dda4b63ecdabd68]: Textual amendment: Words in [art. 11(5)](https://www.legislation.gov.uk/uksi/2008/576/article/11/5) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2022/577/article/2/5/d)
+
+[^key-499a504bd468eb65c5b3dc0993184405]: Textual amendment: [Art. 11(6)](https://www.legislation.gov.uk/uksi/2008/576/article/11/6) omitted (26.5.2022) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2022/577/article/2/5/e)
+
+[^key-0bd66b56d5d8b4dfd9bca350a0a03e26]: Textual amendment: Words in [art. 11(7)](https://www.legislation.gov.uk/uksi/2008/576/article/11/7) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(5)(f)](https://www.legislation.gov.uk/uksi/2022/577/article/2/5/f)
+
+[^key-1a9239c1c8f7e7e2109d576a9b4679f3]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/uksi/2008/576/article/12/1) table substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2023/1055/article/5/2)
+
+[^key-f8296d83e1d1976da7242165afe4d05b]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/uksi/2008/576/article/12/1) table omitted (26.5.2022) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2022/577/article/2/6)
+
+[^key-4cf319c5ea58761d34aa7f08d3d29f80]: Textual amendment: Art. 18 revoked in part (E.) (1.6.2010) by [The Beef and Pig Carcase Classification (England) Regulations 2010 (S.I. 2010/1090)](https://www.legislation.gov.uk/uksi/2010/1090), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1090/regulation/1), [4(f)(ii)](https://www.legislation.gov.uk/uksi/2010/1090/regulation/4/f/ii) and (W.) (1.9.2011) by [The Beef and Pig Carcase Classification (Wales) Regulations 2011 (S.I. 2011/1826)](https://www.legislation.gov.uk/uksi/2011/1826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1826/regulation/1/2), [4(e)(ii)](https://www.legislation.gov.uk/uksi/2011/1826/regulation/4/e/ii)
+
+[^key-bc0c82ce520717e5e13048fded89f7c4]: Textual amendment: [Sch. 1 paras. 21](https://www.legislation.gov.uk/uksi/2008/576/schedule/1/paragraph/21), [22](https://www.legislation.gov.uk/uksi/2008/576/schedule/1/paragraph/22) inserted (12.1.2021) by [The Agriculture and Horticulture Development Board (Amendment) Order 2021 (S.I. 2021/23)](https://www.legislation.gov.uk/uksi/2021/23), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/23/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/23/article/2/2)
+
+[^key-f4a71759dd6d27a94830d96a60ed53ef]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/2008/576/schedule/2/paragraph/2/1) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2023/1055/article/6/2/a)
+
+[^key-835d8b1c85cede382a687c4e69422ac0]: Textual amendment: [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/uksi/2008/576/schedule/2/paragraph/2/4) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2023/1055/article/6/2/b)
+
+[^key-9dc16d4e4448cd17bd3e66d05ca85d56]: Textual amendment: [Sch. 3 para. 3(5)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/3/5) omitted (14.10.2023) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/2/a) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/1))
+
+[^key-c87cf14fc1fb0f8f03d0c86b4ba8e27f]: Textual amendment: Words in [Sch. 3 para. 3(6)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/3/6) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/2/b) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/1))
+
+[^key-dc1d8c52d04fd8614f7eae6db3eb7a34]: Textual amendment: [Sch. 3 para. 3(7A)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/3/7A) inserted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/2/c) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/1))
+
+[^key-00ee767f3f33fb9e6ea8d222cbcbd1ca]: Textual amendment: Word in [Sch. 3 para. 3(8)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/3/8) table substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(2)(d)(i)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/2/d/i) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/1))
+
+[^key-fda206d9116803e9f3bbcc5434cf7762]: Textual amendment: Word in [Sch. 3 para. 3(8)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/3/8) table substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/2/d/ii) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/1))
+
+[^key-c14fb9cea6dd4c90fa96eacccb667278]: Textual amendment: Word in [Sch. 3 para. 3(8)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/3/8) table substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/2/d/iii) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/1))
+
+[^key-a51a6c409d0464d9d95064c16562969c]: Textual amendment: Words in [Sch. 3 para. 4(1)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/4/1) substituted (31.12.2020) by [The Common Agricultural Policy and Agriculture and Horticulture Development Board (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/733)](https://www.legislation.gov.uk/uksi/2019/733), [regs. 1](https://www.legislation.gov.uk/uksi/2019/733/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2019/733/regulation/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cbb459ea5970164398c50a3363f7f72f]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/6) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/3) (with [art. 8(2)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/2))
+
+[^key-c159595c906edcf81b837c71dedca511]: Textual amendment: Words in [Sch. 3 para. 7(2)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/7/2) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/4) (with [art. 8(2)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/2))
+
+[^key-576b0866e3eede9353598d4b5dd8c714]: Textual amendment: [Sch. 3 para. 9(3)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/9/3)[(4)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/9/4) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/5) (with [art. 8(3)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/3))
+
+[^key-4580158d102ef887a44bccfd33160bae]: Textual amendment: Words in [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/12) heading inserted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(6)(a)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/6/a) (with [art. 8(4)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/4)[(7)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/7))
+
+[^key-51c5c429dbead42385cab3f8cf32d62d]: Textual amendment: Words in [Sch. 3 para. 12(1)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/12/1) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(6)(b)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/6/b) (with [art. 8(4)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/4)[(7)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/7))
+
+[^key-722100c660e93554469000da98948130]: Textual amendment: Words in [Sch. 3 para. 12(3)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/12/3) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(6)(b)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/6/b) (with [art. 8(4)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/4)[(7)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/7))
+
+[^key-cafa09a9074c507b4d082e454972646d]: Textual amendment: [Sch. 3 para. 12(5)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/12/5) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(6)(c)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/6/c) (with [art. 8(4)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/4)[(7)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/7))
+
+[^key-22675c7e3b3131180c2f8416d3c823e2]: Textual amendment: [Sch. 3 Pt. 4](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/part/4) omitted (26.5.2022) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2022/577/article/2/7)
+
+[^key-67035e28735cc219e5d6d217f24c4405]: Textual amendment: [Sch. 3 para. 21](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/21) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/7) (with [art. 8(5)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/5))
+
+[^key-2d339d268b12efe21ffcbf49bd0bfc46]: Textual amendment: Words in [Sch. 3 para. 22(3)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/22/3) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(8)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/8) (with [art. 8(6)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/6))
+
+[^key-e22bd0c8c735b6eec7ab8323a42de262]: Textual amendment: [Sch. 3 Pt. 6](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/part/6) omitted (26.5.2022) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2022/577/article/2/7)
+
+[^c19148981]: Marginal citation: [1954 c. 56](https://www.legislation.gov.uk/ukpga/1954/56).
+
+[^c19148991]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
+
+[^c19149001]: Marginal citation: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^c19149011]: Marginal citation: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30).
+
+[^c19149021]: Marginal citation: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^c19149051]: Marginal citation: [1965 c. 14](https://www.legislation.gov.uk/ukpga/1965/14).
+
+[^key-3b48c8a5d03e734b3ea16f11d24a8397]: Textual amendment: Sch. 5 para. 4 repealed by 2010 c. 15 Sch. 27 Pt. 3 (as inserted (4.4.2011) by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/b), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/1060/schedule/4))
+
+[^key-041af03fe53f23d1e6411c41dc779b3c]: Textual amendment: Words in Sch. 5 para. 8 revoked (E.) (1.6.2010) by [The Beef and Pig Carcase Classification (England) Regulations 2010 (S.I. 2010/1090)](https://www.legislation.gov.uk/uksi/2010/1090), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1090/regulation/1), [4(f)(i)](https://www.legislation.gov.uk/uksi/2010/1090/regulation/4/f/i) and (W.) (1.9.2011) by virtue of [The Beef and Pig Carcase Classification (Wales) Regulations 2011 (S.I. 2011/1826)](https://www.legislation.gov.uk/uksi/2011/1826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1826/regulation/1/2), [4(e)(i)](https://www.legislation.gov.uk/uksi/2011/1826/regulation/4/e/i)

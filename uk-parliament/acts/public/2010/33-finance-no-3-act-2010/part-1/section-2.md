@@ -1,0 +1,121 @@
+---
+title: Finance (No. 3) Act 2010, section 2
+act: Finance (No. 3) Act 2010
+section: '2'
+status: revised
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/33/section/2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance (No. 3) Act 2010, section 2
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 2. Payments to special guardians and those in receipt of residence orders
+
+*Extent: E+W+S+N.I.*
+
+(1) Part 6 of ITTOIA 2005 (exempt income) is amended as follows.
+
+(2) In section 744 (payments to adopters: England and Wales)—
+
+- (a) the existing provision becomes subsection (1),
+- (b) in that subsection, omit the “and” before paragraph (e) and after that paragraph insert—
+
+  > - (f) payments made under regulations under section 14F of the Children Act 1989 (special guardianship support services) to a person appointed as a child's special guardian,
+  > - (g) payments made to a person under section 17 of that Act (provision of services for children in need, their families and others) by reason of that person being a person in whose favour a residence order with respect to a child is in force,
+  > - (h) payments made to a person, in respect of a child, under paragraph 15 of Schedule 1 to that Act (local authority contribution to child's maintenance to recipients in whose favour residence order is in force), and
+  > - (i) payments made in accordance with—
+  >   - (i) an order under that Schedule (orders for financial relief against parents etc), or
+  >   - (ii) a maintenance agreement,
+  >
+  >   for the benefit of a child, to a person appointed as the child's special guardian or a person in whose favour a residence order with respect to the child is in force.
+
+  ,
+- (c) after that subsection insert—
+
+  > (2) But a payment is not within subsection (1)(f), (g), (h) or (i) if—
+  >
+  > - (a) it is made to an excluded relative of the child,
+  > - (b) it is made to a person appointed as the child's special guardian and an excluded relative is also appointed as the child's special guardian, or
+  > - (c) it is made to a person in whose favour a residence order is in force with respect to the child and that order is also in favour of an excluded relative.
+  >
+  > (3) In this section—
+  >
+  > - “**excluded relative**”, in relation to a child, means—
+  >   - (a) a parent of the child, or
+  >   - (b) a person who is, or has been, the husband or wife or civil partner of a parent of the child;
+  > - “**maintenance agreement**” has the meaning given by paragraph 10(1) of Schedule 1 to the Children Act 1989;
+  > - “**residence order**” has the meaning given by section 8 of that Act.
+
+  , and
+- (d) in the heading, after “**adopters**” insert “ **, etc** ”.
+
+(3) In section 745 (payments to adopters: Scotland)—
+
+- (a) the existing provision becomes subsection (1),
+- (b) in that subsection, omit the “and” before paragraph (d) and after that paragraph insert—
+
+  > - (e) payments made to a person under section 50 of the Children Act 1975, or section 22 of the Children (Scotland) Act 1995, by reason of that person being a person with whom a child is to live by virtue of a residence order, and
+  > - (f) payments of aliment made—
+  >   - (i) in accordance with an award of aliment under the Family Law (Scotland) Act 1985, or
+  >   - (ii) under an agreement (within the meaning of section 7(5) of that Act),
+  >
+  >   for the benefit of a child, to a person in whose favour a residence order with respect to the child is in force.
+
+  ,
+- (c) after that subsection insert—
+
+  > (2) A payment is not within subsection (1)(e) or (f) if—
+  >
+  > - (a) it is made to an excluded relative of the child, or
+  > - (b) it is made to a person in whose favour a residence order is in force with respect to the child and that order is also in favour of an excluded relative.
+  >
+  > (3) In this section—
+  >
+  > - “**excluded relative**”, in relation to a child, means—
+  >   - (a) a parent of the child, or
+  >   - (b) a person who is, or has been, the husband or wife or civil partner of a parent of the child;
+  > - “**residence order**” has the meaning given by section 11(2)(c) of the Children (Scotland) Act 1995.
+
+  , and
+- (d) in the heading, after “**adopters**” insert “ **, etc** ”.
+
+(4) In section 746 (payments to adopters: Northern Ireland)—
+
+- (a) the existing provision becomes subsection (1),
+- (b) in that subsection, omit the “and” before paragraph (c) and after that paragraph insert—
+
+  > - (d) payments made to a person under Article 18 of the Children (Northern Ireland) Order 1995 (S.I. 1995/755 (NI 2)) (general duty of authority to provide personal social services) by reason of that person being a person in whose favour a residence order with respect to a child is in force,
+  > - (e) payments made to a person, in respect of a child, under paragraph 17 of Schedule 1 to that Order (local authority contribution to child's maintenance to recipients in whose favour residence order is in force), and
+  > - (f) payments made in accordance with—
+  >   - (i) an order under that Schedule (orders for financial relief against parents etc), or
+  >   - (ii) a maintenance agreement,
+  >
+  >   for the benefit of a child, to a person in whose favour a residence order with respect to the child is in force.
+
+  ,
+- (c) after that subsection insert—
+
+  > (2) But a payment is not within subsection (1)(d), (e) or (f) if—
+  >
+  > - (a) it is made to an excluded relative of the child, or
+  > - (b) it is made to a person in whose favour a residence order is in force with respect to the child and that order is also in favour of an excluded relative.
+  >
+  > (3) In this section—
+  >
+  > - “**excluded relative**”, in relation to a child, means—
+  >   - (a) a parent of the child, or
+  >   - (b) a person who is, or has been, the husband or wife or civil partner of a parent of the child;
+  > - “**maintenance agreement**” has the meaning given by paragraph 12 of Schedule 1 to the Children (Northern Ireland) Order 1995;
+  > - “**residence order**” has the meaning given by Article 8 of that Order.
+
+  , and
+- (d) in the heading, after “**adopters**” insert “ **, etc** ”.
+
+(5) The amendments made by this section have effect in relation to the tax year 2010-11 and subsequent tax years.

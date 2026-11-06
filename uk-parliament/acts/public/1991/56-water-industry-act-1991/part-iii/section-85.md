@@ -1,0 +1,27 @@
+---
+title: Water Industry Act 1991, section 85
+act: Water Industry Act 1991
+section: '85'
+status: revised-with-pending-changes
+text_date: '2026-10-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1991/56/section/85
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Water Industry Act 1991, section 85
+
+> **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 85. Local authority power to obtain information for the purposes of functions under Chapter III.
+
+*Extent: E+W*
+
+(1) Subject to subsection (2) below, a local authority may serve on any person a notice requiring him to furnish that authority, within a period or at times specified in the notice and in a form and manner so specified, with such information as is reasonably required by that authority for the purpose of exercising or performing any power or duty conferred or imposed on that authority by or under any of sections 77 to 82 above.
+
+(2) The Secretary of State may by regulations make provision for restricting the information which may be required under subsection (1) above and for determining the form in which the information is to be so required.
+
+(3) A person who fails without reasonable excuse to comply with the requirements of a notice served on him under subsection (1) above shall be guilty of an offence and liable, on summary conviction, to a fine not exceeding level 5 on the standard scale.

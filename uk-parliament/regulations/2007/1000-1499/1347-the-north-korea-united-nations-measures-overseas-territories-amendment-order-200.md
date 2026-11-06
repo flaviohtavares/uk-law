@@ -1,0 +1,128 @@
+---
+title: The North Korea (United Nations Measures) (Overseas Territories) (Amendment) Order 2007
+id: uksi/2007/1347
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2007-05-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/1347
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/1347/pdfs/uksiem_20071347_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/1347/pdfs/uksi_20071347_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/1347/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The North Korea (United Nations Measures) (Overseas Territories) (Amendment) Order 2007
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2007 No. 1347
+
+UNITED NATIONS
+
+The North Korea (United Nations Measures) (Overseas Territories) (Amendment) Order 2007
+
+Made
+
+2nd May 2007
+
+Laid before Parliament
+
+3rd May 2007
+
+Coming into force
+
+4th May 2007
+
+At the Court at Buckingham Palace, the 2nd day of May 2007
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Under Article 41 of the Charter of the United Nations, the Security Council of the United Nations has, by resolution 1718(2006) adopted on 14th October 2006, called upon Her Majesty’s Government in the United Kingdom and all other States to apply certain measures to give effect to decisions of that Council in relation to the Democratic People’s Republic of Korea (North Korea).
+
+Her Majesty, in exercise of the powers conferred on Her by section 1 of the United Nations Act 1946[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is ordered as follows:
+
+## 1. Citation and commencement
+
+(1) This Order may be cited as The North Korea (United Nations Measures) (Overseas Territories) (Amendment) Order 2007 and shall come into force on 4th May 2007.
+
+(2) In this Order “the principal Order” means The North Korea (United Nations Measures) (Overseas Territories) Order 2006[^f00002].
+
+## 2. Amendment of the principal Order
+
+Article 2(1) of the principal Order is amended as follows:
+
+(1) by adding the following definition between the definitions of “commander” and “designated person”:
+
+> - “**competent authority**” means the authority responsible for customs and excise under the laws of the Territory;
+
+(2) by adding the following definitions between the definitions of “the Security Council Resolution” and “Supreme Court”:
+
+> - “**ship**” includes every description of vessel used in navigation;
+> - “**shipment**” includes loading into an “aircraft”;
+> - “**stores**” means goods for use in a “ship” or “aircraft” and includes fuel and spare parts and other articles of equipment, whether or not for immediate fitting, but excludes any goods for use in a “ship” or “aircraft” as merchandise for sale by retail to persons carried therein;
+
+(3) by replacing the full stop at the end of the definition of “Supreme Court” with a semi-colon, and adding after the definition of “Supreme Court” the following definition:
+
+> - “**vehicle**” means a land transport vehicle.
+
+(4) by deleting the definition of “procurement” and replacing it with the following definition:
+
+> - “**procurement**” means procurement by whatever means, including but not limited to, by purchase, import or transport, and including by using any ship, aircraft or vehicle to which article 7 of this Order applies;
+
+and
+
+(5) by deleting the definition of “prohibited luxury goods” and replacing it between the definitions of “procurement” and “relevant institution” with the following definition:
+
+> - “**prohibited luxury goods**” means the goods listed in the list published from time to time by the Governor in accordance with article 3(d) or (e);
+
+**3.** Article 3 of the principal Order is amended as follows:
+
+(1) by deleting paragraph (d) and replacing it with the following:
+
+> - (d) cause a list of prohibited luxury goods as set out in Annex III to Council Regulation (EC) No.329/2007[^f00003] adopted by the Council of the European Union on 27 March 2007 to be published in the gazette of the Territory ;
+
+(2) by adding new paragraphs (e) and (f) as follows:
+
+> - (e) in the event of amendments to Annex III to Council Regulation [(EC) No. 329/2007](https://www.legislation.gov.uk/european/regulation/2007/0329), cause a revised list of prohibited luxury goods reflecting such amendments to be published in the gazette of the Territory as necessary from time to time;
+> - (f) cause a notice to be published in the gazette of the Territory, stating that an opinion may be obtained from the competent authority as to whether particular goods are considered to be prohibited luxury goods.
+
+(3) by deleting the declaratory provision at the end of the article regarding amendment by the Governor of the list of prohibited luxury goods and replacing it with the following provision: “Any expression used in the published list of prohibited luxury goods shall have the same meaning as it has in Annex III to Council Regulation (EC) No.329/2007.”
+
+**4.** Article 5 of the principal Order is amended by inserting new paragraphs (5) and (6) as follows:
+
+> (5) Any person who wishes to know if particular goods are considered by the competent authority to be prohibited luxury goods may apply to the competent authority for its opinion in that regard.
+>
+> (6) Upon receipt of such an application the competent authority shall within a reasonable time provide the applicant with an opinion in writing as to whether it considers that a licence under paragraph (1) of this article, or under article 4(1), is or is not required.
+
+**5.** Schedule 4 of the principal Order is deleted.
+
+Christine Cook
+
+Deputy Clerk of the Privy Council
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order made under the United Nations Act 1946 amends The North Korea (United Nations Measures) (Overseas Territories) Order 2006 ([S.I.2006/3327](https://www.legislation.gov.uk/uksi/2006/3327))(“the principal Order”) to provide a means for persons in the Overseas Territories, affected by the prohibition on the supply or export of luxury goods to North Korea, to obtain an opinion from the customs and excise authority in the Territory giving guidance as to whether or not a licence is considered to be required to be obtained from the Governor in order to authorise the supply or export of the goods in question.
+
+The need for such provision arises due to the absence of any definition of luxury goods, prohibited to be exported to North Korea, in United Nations Security Council Resolution 1718 of 14th October 2006, and due to certain imprecise definitions relating to such goods in the principal Order, which replicated the proposed EC Regulation list of luxury goods now incorporated in Council Regulation (EC) No.329/2007 adopted by the Council of the European Union on 27 March 2007 in implementation of the Resolution. Schedule 4 of the principal Order is deleted as it is now unnecessary. The opportunity has also been taken to incorporate certain definitions omitted from the principal Order.
+
+A full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1946 c.45](https://www.legislation.gov.uk/ukpga/1946/45).
+
+[^f00002]: Footnote: [S.I.2006/3327](https://www.legislation.gov.uk/uksi/2006/3327).
+
+[^f00003]: Footnote: OJ No L88, 29.03.07,p.1.

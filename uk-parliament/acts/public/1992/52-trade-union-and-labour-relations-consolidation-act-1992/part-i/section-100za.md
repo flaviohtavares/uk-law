@@ -1,0 +1,62 @@
+---
+title: Trade Union and Labour Relations (Consolidation) Act 1992, section 100ZA
+act: Trade Union and Labour Relations (Consolidation) Act 1992
+section: 100ZA
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1992/52/section/100ZA
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Trade Union and Labour Relations (Consolidation) Act 1992, section 100ZA
+
+> **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 100ZA. Responsible person’s determination of means of voting[^key-9b45451656ee33c917aad030567253bd]
+
+*Extent: E+W+S*
+
+(1) Before the ballot is held, the responsible person for the ballot must make a determination about the means of voting in the ballot.
+
+(2) The determination must set out which one or more of the permissible means of voting is available for the ballot.
+
+(3) Where the determination provides that more than one permissible means of voting is available for the ballot, the determination must also set out—
+
+- (a) that each of those means is available for each person who is entitled to vote in the ballot, or
+- (b) which one or more of those means is available for one or more of the following—
+  - (i) particular persons who are entitled to vote in the ballot;
+  - (ii) particular descriptions of persons who are entitled to vote in the ballot.
+
+(4) Where the determination includes provision under subsection (3)(b), the determination must be such that at least one permissible means of voting is available for each person who is entitled to vote in the ballot.
+
+(5) Where the determination provides—
+
+- (a) that more than one permissible means of voting is available for a particular person or description of persons, or
+- (b) that hybrid voting is available for the ballot,
+
+the determination must include provision setting out which vote is to be counted in a case where a person casts more than one vote (and section 100CA(4) applies for the purposes of construing the number of votes cast by a person).
+
+(6) Schedule ZA1 sets out further requirements in relation to a determination by the responsible person.
+
+(7) In the case of a ballot under section 97(1)(b) (amalgamation) which is carried out by a trade union which is a party to the proposed amalgamation, the responsible person is the trade union.
+
+(8) In the case of a ballot under section 97(2)(b) (transfer of engagements), the responsible person is the transferor union.
+
+(9) The permissible means of voting for a ballot under section 97(1)(b) or (2)(b) are—
+
+- (a) postal voting;
+- (b) electronic voting;
+- (c) hybrid voting.
+
+(10) In this Chapter—
+
+- (a) “**selected means of voting**” means, in relation to a ballot, a permissible means of voting that is available for the ballot as a result of a determination under this section;
+- (b) a person is “eligible to vote” in a ballot by a particular means of voting if the determination under this section for the ballot sets out that that means is available for the person (see subsection (3)).
+
+## Annotations
+
+[^key-9b45451656ee33c917aad030567253bd]: Textual amendment: S. 100ZA and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2026/881/article/5/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

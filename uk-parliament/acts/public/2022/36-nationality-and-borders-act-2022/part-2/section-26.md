@@ -1,0 +1,75 @@
+---
+title: Nationality and Borders Act 2022, section 26
+act: Nationality and Borders Act 2022
+section: '26'
+status: not-yet-in-force
+text_date: '2026-03-20'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2022/36/section/26
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Nationality and Borders Act 2022, section 26
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 26. Late provision of evidence in asylum or human rights claim: weight[^key-29fbeeba7a1548ef5c73f3c03782c26e]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
+(1) This section applies where—
+
+- (a) evidence is provided late by a claimant in relation to an asylum claim or a human rights claim, and
+- (b) the evidence falls to be considered by a deciding authority for the purpose of determining—
+  - (i) the claim, or
+  - (ii) where a decision in respect of the claim is the subject of a relevant appeal, the appeal.
+
+(2) Unless there are good reasons why the evidence was provided late, the deciding authority must, in considering it, have regard to the principle that minimal weight should be given to the evidence.
+
+(3) For the purposes of subsection (1)(a), evidence is provided “late” by a claimant if it is within subsection (4) or (5).
+
+(4) Evidence is within this subsection if—
+
+- (a) it is provided pursuant to an evidence notice served on the claimant under section 18(1), and
+- (b) it is provided on or after the date specified in the notice.
+
+(5) Evidence is within this subsection if—
+
+- (a) it is provided pursuant to a priority removal notice served on the claimant under section 20 in support of the matters mentioned in subsection (3)(a)(i) of that section (reasons and grounds for application), and
+- (b) it is provided on or after the PRN cut-off date.
+
+(6) The reference in subsection (1)(b)(i) to determining a claim includes a reference to determining—
+
+- (a) whether to certify the claim under section 94(1) of the 2002 Act (unfounded claims);
+- (b) whether to accept or reject further submissions made by the claimant for the purposes of the immigration rules.
+
+(7) In this section—
+
+- “**the 2002 Act**” means the Nationality, Immigration and Asylum Act 2002;
+- “**asylum claim**” has the meaning given by section 113(1) of the 2002 Act;
+- “**deciding authority**” means—
+  - (a) an immigration officer,
+  - (b) the Secretary of State,
+  - (c) the First-tier Tribunal,
+  - (d) the Upper Tribunal in the circumstances described in subsection (8), or
+  - (e) the Special Immigration Appeals Commission;
+- “**PRN cut-off date**” has the same meaning as in section 20;
+- “**relevant appeal**” means an appeal under—
+  - (a) section 82 of the 2002 Act, or
+  - (b) section 2 of the Special Immigration Appeals Commission Act 1997.
+
+(8) The circumstances are when the Upper Tribunal is acting—
+
+- (a) under section 12(2)(b)(ii) of the Tribunals, Courts and Enforcement Act 2007 (Upper Tribunal re-making First-tier Tribunal decision on finding of error of law), or
+- (b) in relation to—
+  - (i) an expedited appeal within the meaning of section 82A of the Nationality, Immigration and Asylum Act 2002, or
+  - (ii) an expedited related appeal within the meaning of section 24 that involves an asylum claim or a human rights claim.
+
+## Annotations
+
+[^key-29fbeeba7a1548ef5c73f3c03782c26e]: Commencement: S. 26 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

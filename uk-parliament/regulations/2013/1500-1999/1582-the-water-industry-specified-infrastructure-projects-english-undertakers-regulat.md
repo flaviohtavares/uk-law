@@ -1,0 +1,1434 @@
+---
+title: The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013
+id: uksi/2013/1582
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-06-27'
+text_date: '2025-02-24'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/1582
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/1582/pdfs/uksiem_20131582_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1582/pdfs/uksi_20131582_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1582/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013
+
+> Text as at 2025-02-24.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 1582
+
+Water Industry, England And Wales
+
+The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013
+
+Made
+
+27th June 2013
+
+Coming into force in accordance with regulation 1(1)(b)
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 36A to 36F and 213(2)(a), (d), (e) and (f) of the Water Industry Act 1991 [^c21844871] in relation to infrastructure which is provided or to be provided for the use of one of more English undertakers [^c21844881].
+
+These Regulations make provision only in relation to projects or works that in the Secretary of State's opinion are of a size or complexity that threatens the undertaker's ability to provide services for its customers as required by section 36A(4)(a) of that Act.
+
+The Secretary of State has consulted as required by section 36G(2) of that Act.
+
+A draft of these Regulations has been laid before Parliament in accordance with section 36G(1)(a) of that Act [^c21844891] and approved by a resolution of each House of Parliament.
+
+## 1. Citation, commencement, application and expiry
+
+(1) These Regulations—
+
+- (a) may be cited as the Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013;
+- (b) come into force on the day after the day on which they are made; and
+- (c) apply in relation to the provision of infrastructure for the use of one or more English undertakers in carrying out their duties under—
+  - (i) section 37 of the Act (general duty to maintain water supply system etc.), or
+  - (ii) section 94 of the Act [^c21844901] (general duty to provide sewerage system) as supplemented by paragraph (1) of regulation 4 of the Urban Waste Water Treatment Regulations 1994 [^c21844911] (duty to provide and maintain collecting systems and treatment plants),
+
+  including those duties as modified by these Regulations.
+
+(2)[^key-335214406cd0ea84eeb5bd8e30aba4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-335214406cd0ea84eeb5bd8e30aba4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-335214406cd0ea84eeb5bd8e30aba4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “**the Act**” means the Water Industry Act 1991;
+- “**company**” means a company, as defined in section 1(1) of the Companies Act 2006 [^c21844921], that is registered in England and Wales or Scotland and is limited by shares or guarantee;
+- “**incumbent undertaker**”, in relation to an infrastructure project, means the relevant undertaker whose ability to provide services for its customers could be threatened by that infrastructure project, but for the exercise of the powers of the Secretary of State or the Authority under or by virtue of these Regulations;
+- “**infrastructure**” means infrastructure relating to—
+  - (a) the provision of a system, or part of a system, of water supply, or the securing of supplies of water, or
+  - (b) the provision of a system, or part of a system, of sewers, or the provision of means for emptying, or dealing effectually with the contents of, sewers;
+- “**infrastructure provider**” means a company designated under regulation 8(1);
+- “**licensed infrastructure provider**” means an infrastructure provider which is the holder for the time being of a project licence;
+- “**preparatory work**” includes—
+  - (a) conducting surveys, including in relation to environmental matters, ground conditions, hazardous substances, heritage, the operation of existing infrastructure, ground and surface water quality and the general condition of a site,
+  - (b) arranging for the provision of electricity or other power,
+  - (c) diverting or protecting communications, electricity, gas, water and sewerage assets,
+  - (d) preparing designs and specifications for a specified infrastructure project,
+  - (e) preparing and submitting planning applications, including consulting the public in relation to those applications, and acquiring and protecting interests in land,
+  - (f) procuring goods, services or works,
+  - (g) preparing a site for works, including remediation of contamination, laying access roads and undertaking demolition and clearance works, and
+  - (h) undertaking associated works on the highway;
+- “**project licence**” means a licence granted by the Authority by virtue of its powers under section 17FA of the Act (see paragraph 3(2) of Schedule 1);
+- “**specified infrastructure project**” means an infrastructure project which has been specified under regulation 4(1).
+
+## 3. Application of the Act
+
+(1) Schedule 1 (application of the Act and related provisions) has effect.
+
+(2) Paragraphs (3) and (4) have effect for imposing duties on the Secretary of State and on the Authority as to when and how they should exercise and perform the powers and duties conferred or imposed on them by virtue of these Regulations.
+
+(3) Section 2 of the Act [^c21844931] (general duties with respect to the water industry) applies as if—
+
+- (a)[^key-cfcdd2cb3bf0b10b994aaa8989f0cf86] in subsection (1) (when the general duties of the Secretary of State and the Authority apply), after “by virtue of”, there were inserted “the Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 or”;
+- (b) in subsection (2A) (primary duties)—
+  - (i) the “and” following paragraph (d) were repealed;
+  - (ii) for paragraph (e), there were substituted—
+
+    > - (e) to further the resilience objective;
+    > - (f) to secure that the functions of a licensed infrastructure provider are properly carried out; and
+    > - (g) to secure that relevant licensed infrastructure providers are able (in particular, by securing reasonable returns on their capital) to finance the proper carrying out of those function
+
+    ;
+- (c) in subsection (3) (secondary duties)—
+  - (i) in paragraph (a) (promoting of economy and efficiency), after “relevant undertaker”, there were inserted “ and companies that are licensed infrastructure providers in the carrying out of their functions ”; and
+  - (ii) in paragraph (d) (protecting consumers from non statutory activities)—
+    - (aa) in the words preceding sub-paragraph (i), after “relevant undertaker”, there were inserted “ or of a licensed infrastructure provider (as the case may be) ”; and
+    - (bb) in sub-paragraph (ii), after “relevant undertaker”, there were inserted “ or as a licensed infrastructure provider (as the case may be) ”;
+- (d) in subsection (5) (meaning of water and drainage charges)—
+  - (i) in paragraph (a), after “relevant undertaker”, there were inserted “ or a licensed infrastructure provider ”; and
+  - (ii) in paragraph (b), after “such an undertaker” there were inserted “ or infrastructure provider ”; and
+- (e) in subsection (5A) (meaning of “**consumers**” and “**interests of consumers**”)—
+  - (i) in the definition of “consumers”, after “future consumers”, there were inserted “ and excludes relevant undertakers, so far as regards services provided by the licensed infrastructure provider for an infrastructure project to a relevant undertaker who is the incumbent undertaker in relation to the infrastructure project ”;
+  - (ii) the “and” following the definition of “consumers” were repealed; and
+  - (iii) after the definition of “the interests of consumers” there were inserted—
+
+    > ; and
+    >
+    > “**relevant licensed infrastructure provider**” means a licensed infrastructure provider whose charges fixed under section 142 below are limited by or under a condition of its project licence.
+- (f)[^key-e1aaa696eda821897533c97d58b62c9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Section 219 of the Act [^c21844941] (general interpretation) applies with the modifications made by paragraph 16(2) of Schedule 1.
+
+(5) Paragraphs (3)(b) to (e) and (4) have effect for imposing duties on the Secretary of State and on the Authority as to when and how they should exercise and perform the powers and duties mentioned in section 2(1)[^key-d115804a0ed11ff83c8e1937d10a0b2a] of the Act (powers and duties conferred or imposed on them by virtue of the provisions of the Act relating to the regulation of relevant undertakers and of water supply licensees and sewerage licensees[^key-019b556a639526c7d4ff458d3535aa7c]) in cases where the exercise or performance of the power or duty in question is capable of affecting a licensed infrastructure provider.
+
+## 4. Specification of infrastructure projects
+
+(1) Subject to the following provisions of this regulation, the Secretary of State or the Authority may by notice specify an infrastructure project.
+
+(2) The Secretary of State may by notice served on the Authority delegate the Secretary of State's power under paragraph (1) to the Authority.
+
+(3) The Secretary of State or the Authority may exercise the power under paragraph (1) only if the Secretary of State or the Authority respectively is of the opinion that—
+
+- (a) the infrastructure project is of a size or complexity that threatens the incumbent undertaker's ability to provide services for its customers; and
+- (b) specifying the infrastructure project is likely to result in better value for money than would be the case if the infrastructure project were not specified, including taking into account—
+  - (i) the charges fixed or likely to be fixed under Chapter 1 of Part 5 of the Act [^c21844951] (financial provisions, charges); and
+  - (ii) the powers of the Secretary of State under section 154B of the Act [^c21844961] (financial assistance for major works).
+
+(4) The Secretary of State must—
+
+- (a) subject to paragraph (6), before exercising the power under paragraph (1), prepare draft reasons for exercising the power and consult—
+  - (i) the incumbent undertaker;
+  - (ii) the Authority;
+  - (iii) where any part of the infrastructure in question is or is to be in Wales, the Welsh Ministers; and
+  - (iv) any other person the Secretary of State thinks appropriate;
+- (b) include in any notice issued by the Secretary of State under paragraph (1) a description of the scope of the infrastructure project; and
+- (c) serve any such notice on the persons mentioned in sub-paragraph (a).
+
+(5) The Authority must—
+
+- (a) subject to paragraph (6), before exercising the power under paragraph (1), prepare draft reasons for exercising the power and consult—
+  - (i) the incumbent undertaker;
+  - (ii) the Secretary of State;
+  - (iii) where any part of the infrastructure in question is or is to be in Wales, the Welsh Ministers; and
+  - (iv) any other person the Authority thinks appropriate;
+- (b) include in any notice issued by it under paragraph (1) a description of the scope of the infrastructure project; and
+- (c) serve any such notice on the persons mentioned in sub-paragraph (a).
+
+(6) Paragraphs (4)(a) and (5)(a) do not apply to the extent that the Secretary of State or the Authority (as the case may be) has prepared draft reasons and consulted the persons specified in those paragraphs before these Regulations come into force.
+
+(7) Where the Secretary of State or the Authority is of the opinion—
+
+- (a) that the conditions in paragraph (3) continue to be satisfied, the Secretary of State or the Authority respectively may by notice vary the notice issued by the Secretary of State or the Authority (as the case may be) under paragraph (1); or
+- (b) that either condition in paragraph (3) is no longer satisfied, the Secretary of State or the Authority respectively may, having regard to any subsisting project licence, by notice revoke the notice issued by the Secretary of State or the Authority (as the case may be) under paragraph (1).
+
+(8) Paragraphs (4) and (5) apply to a notice issued under paragraph (7) as they apply to a notice issued under paragraph (1).
+
+(9) Subject to paragraph (10), the Authority must publish guidance to be followed by it in determining whether to exercise its powers under paragraph (1) or (7).
+
+(10) Paragraph (9) does not apply where the Authority has published such guidance before these Regulations come into force.
+
+## 5. Work done by the incumbent undertaker in relation to a specified infrastructure project
+
+(1) Subject to paragraph (3), the incumbent undertaker must not undertake a specified infrastructure project.
+
+(2) Section 102 of the Act [^c21844971] (adoption of sewers and disposal works) does not apply to any sewer owned by a licensed infrastructure provider.
+
+(3) Subject to paragraphs (4) and (5), the Secretary of State or the Authority may by notice permit or require the incumbent undertaker to undertake such preparatory work of such kind and for such purpose in relation to a specified infrastructure project as they may set out in the notice.
+
+(4) The Secretary of State must—
+
+- (a) subject to paragraph (6), before exercising the power under paragraph (3), prepare draft reasons for exercising the power and consult—
+  - (i) the incumbent undertaker;
+  - (ii) the Authority;
+  - (iii) where any part of the infrastructure in question is or is to be in Wales, the Welsh Ministers; and
+  - (iv) any other person the Secretary of State thinks appropriate; and
+- (b) serve on the persons mentioned in sub-paragraph (a) any notice issued by the Secretary of State under paragraph (3).
+
+(5) The Authority must—
+
+- (a) subject to paragraph (6), before exercising the power under paragraph (3), prepare draft reasons for exercising the power and consult—
+  - (i) the incumbent undertaker;
+  - (ii) the Secretary of State;
+  - (iii) where any part of the infrastructure in question is or is to be in Wales, the Welsh Ministers; and
+  - (iv) any other person the Authority thinks appropriate; and
+- (b) serve on the persons mentioned in sub-paragraph (a) any notice issued by it under paragraph (3).
+
+(6) Paragraphs (4)(a) and (5)(a) do not apply to the extent that the Secretary of State or the Authority (as the case may be) has prepared draft reasons and consulted the persons specified in those paragraphs before these Regulations come into force.
+
+(7) The Secretary of State or Authority may, having regard to any costs already incurred in pursuance of the notice, by notice vary or revoke the notice issued by the Secretary of State or the Authority (as the case may be) under paragraph (3).
+
+(8) Paragraphs (4) and (5) apply to a notice issued under paragraph (7) as they apply to a notice issued under paragraph (3).
+
+## 6. Tender requirements and procedure
+
+(1) The incumbent undertaker must put a specified infrastructure project (including the financing of such a project) out to tender.
+
+(2)[^key-1e1430650c878ec39c0189cce46c05d5] Subject to paragraphs (3) and (4), where in relation to the specified infrastructure project—
+
+- (a) the Procurement Act 2023 does not apply,
+- (b) the incumbent undertaker relies on an exemption under the Procurement Act 2023, or
+- (c) the incumbent undertaker awards a contract directly under sections 41 or 43 of the Procurement Act 2023,
+
+the provisions of the Procurement Act 2023 mentioned in the first column of the table in Part 1 of Schedule 2 (application of the Procurement Act 2023) apply in relation to that project.
+
+(3) Those provisions of the Procurement Act 2023[^key-a358ecf3f1424d16fff5d1c2ee0cd4d5] apply—
+
+- (a) subject to the modifications specified in the second column of the table in Part 1 of Schedule 2; and
+- (b) as if—
+  - (i) references to “the contracting authority[^key-0709796b82ec5f5e4c01dc8cbca056c6]” were references to “the incumbent undertaker” within the meaning of these Regulations; and
+  - (ia)[^key-4dd9a1c6ca7102ed7fcb129dcee7fb66] references to a “public contract” were references to a “contract”.
+  - (ii)[^key-63ceed596aa56afb1186b59bd09e6e84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3A)[^key-5fa3712834d2753b63463e0c4165bc0c] Where the Procurement Regulations 2024 apply by virtue of the application of the Procurement Act 2023 in accordance with Schedule 2, references to a “public contract” are to be read as if they were references to a “contract”.
+
+(4) Paragraphs (2) , (3) and (3A)[^key-cd7d10f2a0f9432518b601b25a824c03] do not apply to—
+
+- (a) preparatory work undertaken by the incumbent undertaker pursuant to a notice issued under regulation 5(3); or
+- (b) any part of a specified infrastructure project which has been put out to tender in accordance with the Public Contracts Regulations 2006 or the Utilities Contracts Regulations 2006, where any part of the tender process has been commenced before these Regulations come into force.
+
+(5) The incumbent undertaker must consult the following concerning the terms on which the specified infrastructure project is to be put out to tender—
+
+- (a) the Secretary of State;
+- (b) the Authority; and
+- (c) where any part of the infrastructure in question is or is to be in Wales, the Welsh Ministers.
+
+(6) The incumbent undertaker must determine which bid to accept (if any).
+
+(7) Section 112 of the Act [^c21845001] (requirement that proposed drain or sewer be constructed so as to form part of the general system) does not apply to any sewer or drain to be constructed by a licensed infrastructure provider.
+
+(8) In relation to any licensed infrastructure provider, unless the Authority otherwise allows by notice, paragraphs (2) , (3) and (3A)[^key-7521277da3ae6ba80c68d880df8f308a] and Schedule 2 apply as if—
+
+- (a) in paragraph (2)—
+  - (i) for “Subject to paragraphs (3) and (4), where in relation to the specified infrastructure project”, there were substituted “ Subject to paragraph (3), where in relation to a specified infrastructure project ”; and
+  - (ii) after “to that project”, there were inserted “ or any part of it ”; and
+- (b) for “incumbent undertaker”, in each place it occurs other than in relation to the modifications made to[^key-d1b06a084455aa9f4aa7813837d9f12f] sections 81 to 83 and 98 of the Procurement Act 2023[^key-b70c66bb65b270de55525267c7647f3f] specified in the second column of the table in Part 1 of Schedule 2, there were substituted “ licensed infrastructure provider ”.
+
+## 7. Associated companies
+
+(1) Subject to the following provisions of this regulation, an associated company of the incumbent undertaker is not permitted to bid in a tender process for a specified infrastructure project which relates to infrastructure for the use of that undertaker without the consent of the Secretary of State or the Authority issued by notice.
+
+(2) The Secretary of State or the Authority may exercise the power under paragraph (1) only if the Secretary of State or the Authority respectively is of the opinion that the participation of the associated company in the tender process will not have the effect of distorting competition or breaching the principles of non-discrimination or transparency in the process.
+
+(3) The Secretary of State must—
+
+- (a) subject to paragraph (5), before exercising the power under paragraph (1), prepare draft reasons for exercising the power and consult—
+  - (i) the incumbent undertaker;
+  - (ii) the Authority;
+  - (iii) where any part of the infrastructure in question is or is to be in Wales, the Welsh Ministers; and
+  - (iv) any other person the Secretary of State thinks appropriate; and
+- (b) serve on the persons mentioned in sub-paragraph (a) any notice issued by the Secretary of State under paragraph (1).
+
+(4) The Authority must—
+
+- (a) subject to paragraph (5), before exercising the power under paragraph (1), prepare draft reasons for exercising the power and consult—
+  - (i) the incumbent undertaker;
+  - (ii) the Secretary of State;
+  - (iii) where any part of the infrastructure in question is or is to be in Wales, the Welsh Ministers; and
+  - (iv) any other person the Authority thinks appropriate; and
+- (b) serve on the persons mentioned in sub-paragraph (a) any notice issued by it under paragraph (1).
+
+(5) Paragraphs (3)(a) and (4)(a) do not apply to the extent that the Secretary of State or the Authority (as the case may be) has prepared draft reasons and consulted the persons specified in those paragraphs before these Regulations come into force.
+
+(6) The Secretary of State or Authority may by notice vary or revoke the notice issued by the Secretary of State or the Authority (as the case may be) under paragraph (1).
+
+(7) Paragraphs (3) and (4) apply to a notice issued under paragraph (6) as they apply to a notice issued under paragraph (1).
+
+(8) In this regulation “**an associated company**” means either of the following—
+
+- (a) a group company;
+- (b) a related company.
+
+(9) In paragraph (8)—
+
+- (a) a “**group company**” means, in relation to a relevant undertaker—
+  - (i) any holding company or subsidiary of that undertaker, or
+  - (ii) any subsidiary of any holding company of that undertaker,
+
+  and for this purpose “subsidiary” and “holding company” have the meanings given in section 1159 of the Companies Act 2006 [^c21845011] (meaning of “subsidiary” etc) as supplemented by Schedule 6 to that Act (provisions supplementary to section 1159); and
+- (b) a “**related company**” means, in relation to a relevant undertaker, any undertaking in which that undertaker has a participating interest, and for this purpose—
+  - (i) “**undertaking**” has the meaning given in section 1161 of the Companies Act 2006, and
+  - (ii) “**participating interest**” has the meaning given in paragraph 8 of Schedule 8 (general interpretation) to the Small Companies and Groups (Accounts and Directors' Report) Regulations 2008 [^c21845021].
+
+## 8. Designation of an infrastructure provider
+
+(1) Subject to paragraphs (2) to (5), the Secretary of State or the Authority may by notice designate as an “infrastructure provider” a company which appears to the Secretary of State or the Authority respectively to be wholly or partly responsible for a specified infrastructure project that was put out to tender in accordance with these Regulations.
+
+(2) Any notice issued under paragraph (1) may be subject to such conditions as the Secretary of State or the Authority considers appropriate.
+
+(3) For the purposes of paragraph (1), the Secretary of State or the Authority must regard a specified infrastructure project as having been put out to tender in accordance with these Regulations where—
+
+- (a) a tender process for an infrastructure project which was subsequently specified has been conducted in accordance with the Utilities Contracts Regulations 2006 or Part 2 of the Public Contracts Regulations 2015[^key-89d243cf1dbb9c8fac4917c3b8560556]; and
+- (b) any part of that tender process has been commenced before these Regulations come into force.
+
+(4) The Secretary of State must serve on the persons mentioned in paragraph (8)(a) any notice issued by the Secretary of State under paragraph (1) and include any conditions imposed under paragraph (2).
+
+(5) The Authority must serve on the persons mentioned in paragraph (9)(a) any notice issued by it under paragraph (1) and include any conditions imposed under paragraph (2).
+
+(6) Subject to paragraphs (8) and (9), the Secretary of State or Authority may, having regard to any subsisting project licence, by notice vary or revoke the notice issued by the Secretary of State or the Authority (as the case may be) under paragraph (1).
+
+(7) Paragraph (2) applies to any notice issued under paragraph (6) as it does to a notice issued under paragraph (1).
+
+(8) The Secretary of State must—
+
+- (a) before exercising the power under paragraph (6), prepare draft reasons for exercising the power and consult—
+  - (i) the person whom the Secretary of State has designated in relation to a specified infrastructure project;
+  - (ii) the incumbent undertaker;
+  - (iii) the Authority;
+  - (iv) where any part of the infrastructure in question is or is to be in Wales, the Welsh Ministers; and
+  - (v) any other person the Secretary of State thinks appropriate;
+- (b) include in any notice issued by the Secretary of State under paragraph (6) any conditions imposed under paragraph (2), as applied by paragraph (7); and
+- (c) serve any such notice on the persons mentioned in sub-paragraph (a).
+
+(9) The Authority must—
+
+- (a) before exercising the power under paragraph (6), prepare draft reasons for exercising the power and consult—
+  - (i) the person whom the Authority has designated in relation to the specified infrastructure project in question;
+  - (ii) the incumbent undertaker;
+  - (iii) the Secretary of State;
+  - (iv) where any part of the infrastructure in question is or is to be in Wales, the Welsh Ministers; and
+  - (v) any other person the Authority thinks appropriate;
+- (b) include in any notice issued by it under paragraph (6) any conditions imposed under paragraph (2), as applied by paragraph (7); and
+- (c) serve any such notice on the persons mentioned in sub-paragraph (a).
+
+## 9. Provision of information by a relevant undertaker or infrastructure provider
+
+(1) A relevant undertaker or infrastructure provider must provide to the Secretary of State or the Authority such information connected with the carrying out by that company of its functions as the Secretary of State or the Authority respectively may by notice reasonably require for the purpose of carrying out the Secretary of State's or the Authority's functions under these Regulations.
+
+(2) Information required under paragraph (1) must be provided in such form and manner, at such time and place, and be accompanied or supplemented by such explanations, as the Secretary of State or the Authority may reasonably require.
+
+(3) A relevant undertaker or infrastructure provider must not be required under this regulation to provide any information which would be protected from disclosure or production in proceedings in the High Court on grounds of legal professional privilege.
+
+(4) In paragraph (1), “**functions**” has the meaning given in section 219(1) of the Act, as modified by paragraph 16(2) of Schedule 1.
+
+## 10. Enforcement
+
+The duties under these Regulations of a relevant undertaker or licensed infrastructure provider are enforceable under section 18 of the Act [^c21845031] (as applied by Schedule 1) by the Secretary of State or the Authority.
+
+## 11. Review
+
+(1) Before the end of the review period, the Secretary of State must—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the scheme established by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved in a less burdensome way.
+
+(3) “**Review period**” means the period of five years beginning with the day on which these Regulations come into force.
+
+Richard Benyon
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+## SCHEDULE 1 — APPLICATION OF THE ACT AND RELATED PROVISIONS
+
+Regulation 3
+
+### 1. Purposes of the Schedule
+
+(1) The provisions of—
+
+- (a) the Act mentioned in paragraphs 1A,[^key-3c7d15630fbe1e15abd24fd111a7fff0] 2, 3(1) and (3), 5(2) to (8) and 6 to 16,
+- (b) the Enterprise Act 2002 [^c21845041] mentioned in paragraph 7(1), and
+- (c) the Water Industry (Special Administration) Rules 2009 [^c21845051] mentioned in paragraph 7(7),
+
+apply for the purposes of the regulation of specified infrastructure projects, with the modifications (if any) specified in those paragraphs.
+
+(2) The provisions having effect under paragraphs 3(2), 4 and 5(1) as if inserted into the Act apply for the purposes mentioned in sub-paragraph (1).
+
+(3) In this Schedule, references to sections are to sections in the Act, unless otherwise stated.
+
+### 1A. Strategic priorities and objectives[^key-2590399dbdc1dda00c6b1f408dccebf5]
+
+Section 2A (strategic priorities and objectives: England) applies without modification.
+
+### 2. Appointment of relevant undertakers and transitional provisions with respect to replacement project licences
+
+Section 6 [^c21845061] (appointment of relevant undertakers) applies as if, in subsection (5A) (prohibition on relevant undertaker being a water supply licensee or sewerage licensee[^key-f0fab4ef10b4d086cb2b0e0c1b6c2f53]), after “sewerage licensee”[^key-43be65e5a37d882f95b959ff8fb6db23], there were inserted “ or a licensed infrastructure provider ”.
+
+### 3. Licensing of infrastructure providers
+
+(1) The Chapter heading preceding section 17A [^c21845071] (water supply licences)[^key-1fe88621e7b1e75b79b41a56d34d2fa1] applies as if, at the end, there were inserted “and licensed infrastructure providers”.
+
+(2) The following has effect as if it were inserted after section 17F (procedure for granting water supply licences)—
+
+> **17FA. Licensing of infrastructure providers**
+>
+> (1) The Authority may grant to a company a licence (“a project licence”) in connection with the undertaking of a particular infrastructure project specified under regulation 4(1) of the Regulations.
+>
+> (2) Before granting a project licence, the Authority must consult—
+>
+> - (a) the incumbent undertaker;
+> - (b) the Secretary of State;
+> - (c) the relevant quality regulator; and
+> - (d) any other person the Authority thinks is appropriate.
+>
+> (3) A project licence must not be granted to a company unless—
+>
+> - (a) the company has been designated under regulation 8(1) of the Regulations as the infrastructure provider for the infrastructure project to which the licence relates; and
+> - (b) the company is not a relevant undertaker.
+>
+> (4) A project licence must—
+>
+> - (a) be in writing; and
+> - (b) unless revoked or suspended in accordance with any condition contained in it, continue in force for such period as may be specified in or determined under the licence.
+>
+> (5) References in this Act to a project licence are to a licence granted under subsection (1).
+>
+> (6) In this Chapter “**the relevant quality regulator**” means—
+>
+> - (a) where a project licence relates to the provision of a system of water supply or the securing of supplies of water, the Chief Inspector of Drinking Water; and
+> - (b) where a project licence relates to the provision of a system of sewers or the provision of means for emptying, or dealing effectually with the contents of, sewers—
+>   - (i) in England, the Environment Agency; and
+>   - (ii) in Wales, the Natural Resources Body for Wales [^c21845081].
+>
+> **17FB. Transitional provision with respect to replacement project licences**
+>
+> (1) Schedule 2 to this Act shall have effect for enabling provision to be made with respect to cases in which it is proposed that a company be granted a project licence under this Chapter in order that it may replace another company in carrying on functions formerly carried on by that company.
+>
+> (2) Subsections (3) and (4) below apply where one company (“the new licensee”) has been granted a project licence so that it may replace another company in carrying on functions that that company formerly carried on in its capacity as a licensed infrastructure provider, but the project licence has yet to come into force.
+>
+> (3) The following provisions of this Act shall apply in relation to the new licensee as if the project licence had come into force—
+>
+> - (a) sections 18 to 24 and Schedule 3;
+> - (b) sections 158, 159 and 161;
+> - (c) sections 179 and 180 and Schedule 12;
+> - (d) sections 181 to 183 and Schedule 13; and
+> - (e) sections 186, 187, 190, 192, 199, 200, 202, 203 and 208.
+>
+> (4) Such of the conditions to be imposed on the new licensee under section 17HA below as the Authority may specify in a written notice given by it to the new licensee shall have effect, in relation to the operation of any provision mentioned in subsection (3) above before the project licence comes into force, as if the project licence had come into force.
+
+(3) [^c21845091]Schedule 2 (transitional provision on termination of appointments) applies as if—
+
+- (a) in the title, after “appointments”, there were inserted “ and licences ”; and
+- (b) in paragraph 1 (cases where Schedule applies)—
+  - (i) in sub-paragraph (1), for “(3A)”, there were substituted “ (3B) ”;
+  - (ii) in sub-paragraph (3A)—
+    - (aa) in paragraph (a), after “qualifying sewerage licensee[^key-b9bfef657feb2eab0236e9d14d56facc]”, there were inserted “ or a licensed infrastructure provider ”; and
+    - (bb)[^key-f184bd26b120ff9376e0eb6805fe65d9] for paragraph (b), there were substituted—
+
+      > - (b) it is proposed that on and after the relevant date another company (“the transferee”) should carry on—
+      >   - (i) where the transferor is a qualifying water supply licensee, activities relating to the introduction or introductions of water mentioned in section 23(6)(b) of this Act which were carried on by the transferor until that date;
+      >   - (ii) where the transferor is a qualifying sewerage licensee, activities relating to the removal or removals of matter mentioned in section 23(9) of this Act which were carried on by the transferor until that date; or
+      >   - (iii) where the transferor is a licensed infrastructure provider, functions formerly carried on by the transferor in its capacity as a licensed infrastructure provider
+  - (iii) after sub-paragraph (3A), there were inserted—
+
+    > (3B) The fourth case in which this Schedule applies is where the Authority is proposing to grant a project licence to a company (“**the transferee**”) to carry on activities relating to functions formerly carried on by another company (“**the transferor**”) in its capacity as a licensed infrastructure provider.
+
+    ; and
+  - (iv) in sub-paragraph (4)—
+    - (aa)[^key-c055433bb081578a9802d07d8516561e] in the definition of “other relevant companies”—
+      - (i) in paragraph (a), after “this Act” there were inserted “or, as the case may be, the functions to which its project licence relates;
+      - (ii) in paragraph (b), after “this Act” there were inserted “or, as the case may be, the functions to which its project licence relates”
+    - (bb) in the definition of “the relevant date”, after paragraph (b), there were inserted—
+
+      > - (c) where this Schedule applies by virtue of sub-paragraph (3B) above, the coming into force of the project licence mentioned in that sub-paragraph; and
+
+      ; and
+    - (cc) in the definition of “transferor” and “transferee”, after “sub-paragraph (3A) above”, there were inserted “ or (3B) above (as the case may be) ”;
+- (c) in paragraph 2 (making and modification of transfer schemes)—
+  - (i) in sub-paragraph (7A)—
+    - (aa) after “paragraph 1(3A)”, there were inserted “ or (3B) ”; and
+    - (bb) in paragraph (b), after “in consequence of its licence”, there were inserted “ or, in relation to a company which is a licensed infrastructure provider, a reference to activities regulated by its licence and any statutory functions conferred or imposed on it in consequence of its licence ”; and
+  - (ii) for sub-paragraph (8) (offence), there were substituted—
+
+    > (8) The duties of companies under sub-paragraph (7) above are enforceable under section 18 above by the Secretary of State or the Authority.
+
+    ;
+- (d) in paragraph 3 (transfers by scheme)—
+  - (i) in sub-paragraph (4)(d), after “enactments” there were inserted “ (including any designation made under regulation 8(1) of the Regulations) ”;
+  - (ii) in sub-paragraph (7), after “paragraph 1(3A)”, there were inserted “ or (3B) ”;
+- (e) paragraph 4A (exclusion of transfer of licence) were repealed;
+- (f) in paragraph 5 (supplemental provisions of schemes), in sub-paragraph (3) after “paragraph 1(3A)”, there were inserted “ or (3B) ”;
+- (g) in paragraph 6 (duties of existing appointee after the scheme comes into force), in sub-paragraph (9), after “paragraph 1(3A)”, there were inserted “ or (3B) ”; and
+- (h) paragraph 7 (power to make an order for further transitional provision and local statutory provisions) were repealed.
+
+### 4. Conditions of project licences
+
+The following has effect as if it were inserted after section 17H (standard conditions of water supply licences)—
+
+> **17HA. Conditions of project licences**
+>
+> (1) A project licence may include—
+>
+> - (a) such conditions as appear to the Authority to be requisite or expedient having regard to the duties imposed on it by Part 1 of this Act; and
+> - (b) conditions requiring the rendering to the Secretary of State of a payment on the grant of the project licence, or payments while the licence is in force, or both, of such amount or amounts as may be determined under the conditions.
+>
+> (2) Conditions included in a project licence may—
+>
+> - (a) require the holder of the licence to comply with any direction given by a specified relevant person as to specified matters or matters which are of a specified description;
+> - (b) require the holder of the licence to do or not do specified things or things which are of a specified description, except in so far as a specified relevant person consents to the holder's not doing or doing them; [^key-716fb259f696dfb3f442d471a92a052f]...
+> - (c) provide for the reference to and determination by a specified relevant person of such questions arising under or in connection with the licence and of such other matters as are specified or are of a specified description; and[^key-cbc62437ea1942976b53000c31aa7fd4]
+> - (d)[^key-10888fced62e197f154591449fff7da1] provide for the reference by the Authority to the CMA, and the determination by the CMA, of such questions arising under or in connection with the licence and of such other matters, including disputes as to determinations by the Authority, as are specified or are of a specified description.
+>
+> (3) For the purposes of subsection (2)—
+>
+> - (a) the following are relevant persons—
+>   - (i) the Secretary of State;
+>   - (ii) the Authority; and
+>   - (iii) the relevant quality regulators;
+> - (b) “**specified**” means specified in the licence in question.
+>
+> (4) Conditions included in a project licence may contain provision for the conditions to have effect, cease to have effect or be modified at such times, and in such manner and in such circumstances, as may be specified in or determined in accordance with the conditions.
+>
+> (5) Any such condition as is referred to in subsection (4) has effect in addition to the provision made by this Chapter with respect to the modification of the conditions of a project licence.
+>
+> (6)[^key-42bea1bf93030c517e928411585fe9c4] Where any question or other matter falls to be determined by the CMA in pursuance of a provision contained in a project licence held by a licensed infrastructure provider—
+>
+> - (a) it is the duty of the Authority, on being required to do so by that licensed infrastructure provider, to refer that question or matter to the CMA; and
+> - (b) it is the duty of the CMA to determine any question or other matter referred by virtue of paragraph (a) in accordance with the principles which apply, by virtue of Part 1 of this Act, in relation to determinations under this Chapter by the Authority.
+>
+> (7) For the purposes of subsection (6), where—
+>
+> - (a) the question or matter referred to the CMA concerns the review of a price control imposed on the licensed infrastructure provider; and
+> - (b) the CMA is to decide to what extent it is reasonable to take into account in its determination costs incurred or borne by the licensed infrastructure provider in connection with the reference,
+>
+> the CMA shall also have regard to the extent to which, in its view, its determination is likely to support the licensed infrastructure provider’s (rather than the Authority’s) claims in relation to the question or matter referred to it.
+>
+> (8) Section 17K(5) and (7), and sections 17L and 17M, apply to references to the CMA under this section as they apply to references under section 17K(1).
+>
+> (9) A report of the CMA on a reference under this section—
+>
+> - (a) shall be made to the Authority; and
+> - (b) shall include definite conclusions on the questions or other matters comprised in the reference, together with such an account of the CMA’s reasons for those conclusions as, in the opinion of the CMA, is expedient for facilitating a proper understanding of those questions or other matters and of the CMA’s conclusions.
+>
+> (10) Section 17N(10), (13) and (14) applies to a report of the CMA on a reference under this section as it applies to a report on a reference under section 17K(1).
+>
+> (11) The functions of the CMA with respect to a reference under this section are to be carried out on behalf of the CMA by a group constituted for the purpose by the chair of the CMA under Schedule 4 to the Enterprise and Regulatory Reform Act 2013 (including functions relating to the making of modifications following a report on a reference, and functions under sections 109 to 115 of the Enterprise Act 2002, as applied by subsection (8) read with section 17M).
+
+.
+
+### 5. Modification of project licences
+
+(1) The following has effect as if it were inserted after section 17I (modification of licences[^key-a06a1a94f210d4f7f3614a2d1bd7eacc] by agreement)—
+
+> **17IA. Modification of project licences by agreement**
+>
+> (1) Subject to the following provisions of this section, the Authority may modify the conditions of a project licence.
+>
+> (2) The Authority may not make any modifications under this section unless the licence holder has consented to the modifications.
+>
+> (3) Before making modifications under this section, the Authority must give notice—
+>
+> - (a) stating that it proposes to make the modifications and setting out their effect,
+> - (b) stating the reasons why it proposes to make the modifications, and
+> - (c) specifying the period (not being less than twenty-eight days from the date of the publication of the notice) within which representations or objections with respect to the proposed modifications may be made,
+>
+> and must consider any representations or objections which are duly made and not withdrawn.
+>
+> (4) A notice under subsection (3) must be given—
+>
+> - (a) by publishing the notice in such manner as the Authority considers appropriate for the purpose of bringing the notice to the attention of persons likely to be affected by the making of the modifications; and
+> - (b) by serving a copy of the notice on—
+>   - (i) the licence holder;
+>   - (ii) the Secretary of State; and
+>   - (iii) the relevant quality regulator.
+>
+> (5) If, within the period specified in the notice under subsection (3), the Secretary of State directs the Authority not to make the modification, the Authority must comply with the direction.
+
+.
+
+(2) Section 17K (modification references to competition authority)[^key-a5a816e7cedb138f8573b445fc50102f] applies as if—
+
+- (a)[^key-c24e28c57e4f47046b31e2462b0bd917] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in subsection (1) (reference of a particular licence), in paragraph (a)(i), after “a particular water supply or sewerage licence” there were inserted “or project licence granted under this Chapter”[^key-1807bc95c422fa5ce18019b588bde6c8]; and
+- (c) in subsection (5)(b) (persons to be served with copy of reference or variation)—
+  - (i) at the beginning of each of sub-paragraphs (ii)[^key-43d766dec60d113bb5f9466f0d4aaaac]...and (v), there were inserted “in a case relating to one or more water supply licences,”; and
+  - (ii) after sub-paragraph (iii), there were inserted—
+
+    > - (iiia) in a case relating to a project licence, the incumbent undertaker;
+    > - (iiib) in a case relating to a project licence, the relevant quality regulator;
+
+    .
+
+(3) Sections 17L (references under section 17K: time limits) and 17M (references under section 17K: powers of investigation) apply without modification.
+
+(4) Section 17N ([^key-bf57ab9dce680de57f9c3b400354b458]...reports on modification references) applies as if—
+
+- (a)[^key-9d111d69188c4018b8451bd5a6383d8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in subsection (10)(a) (persons to be served with report relating to a particular licence)—
+  - (i) at the beginning of sub-paragraph (ii)[^key-be756a80a6ff74e70abea4d46d6ae49d], there were inserted “if the report relates to a water supply licence,”; and
+  - (ii) after sub-paragraph (ii), there were inserted—
+
+    > - (iia) if the report relates to a project licence, the incumbent undertaker;
+    > - (iib) if the report relates to a project licence, the relevant quality regulator;
+
+    ; and
+- (c) in subsection (12) (meaning of “relevant time”)—
+  - (i) in paragraph (a), after “Secretary of State”, there were inserted “ or, in the case of a report relating to one or more water supply licences, the Secretary of State ”; and
+  - (ii) in paragraph (b), after “copies”, there were inserted “ of a report relating to one or more water supply licences ”.
+
+(5) Section 17O (modification of licences following report)[^key-a0f6d5e87172bd0a68f3bd38e6a42d46] applies as if—
+
+- (a)[^key-727c3e61eb4773be098c80aab5119af0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in subsection (5)(c) (persons to be served with copy of notice of Authority's proposed modifications)—
+  - (i) at the beginning of each of sub-paragraphs (i)[^key-589088caad6c10f1b7428b95f8fc95d4]... and (iv), there were inserted “if the notice relates to one or more water supply licences,”; and
+  - (ii) after sub-paragraph (ii), there were inserted—
+
+    > - (iia) if the notice relates to a project licence, the incumbent undertaker;
+    > - (iib) if the notice relates to a project licence, the relevant quality regulator;
+
+    .
+
+(6) Section 17P (power of veto following report)[^key-f057aa5b6ddca0631fee6f4b5dad1439] applies as if—
+
+- (a)[^key-bbe0d31210610a4aba76eeb217a6dd37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in subsection (7)(b) (persons to be served with copy of notice of CMA’s[^key-265e33a5cd8a7333275e5c575f7c6077] proposed modifications)—
+  - (i) at the beginning of each of sub-paragraphs (iii)[^key-6d9ce59f4648d5e8b97c6d8cff8de0bc]...and (vi), there were inserted “if the notice relates to one or more water supply licences,”; and
+  - (ii) after sub-paragraph (iv), there were inserted—
+
+    > - (iva) if the notice relates to a project licence, the incumbent undertaker;
+    > - (ivb) if the notice relates to a project licence, the relevant quality regulator;
+
+    .
+
+(7) Section 17Q (section 17P: supplementary) applies without modification.
+
+(8) Section 17R (modification by order under other enactments)[^key-fd965c429b06f392a7d54c8b18eda2da] applies as if—
+
+- (a)[^key-764fb3fb42e13c1d0846cea7227143a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in subsections (1)(a) and (2)(a)(i) and (ii) and (b), for “or sewerage licence[^key-4a065365e30b4c3a333cd97b4bcd26e9]”, in each place it occurs, there were substituted “ , sewerage licence or project licence ”.
+
+### 6. Enforcement
+
+(1) Section 18 (orders for securing compliance with certain provisions) applies as if, in subsection (1A)(b) (power to make final enforcement order where water supply licensee or sewerage licensee[^key-cd7da943510404ca1402df1987910a94] is causing or contributing to contravention by relevant undertaker), in sub-paragraph (i), after “this Part”, there were inserted “ or another person[^key-b3f16ab8612166bb2b477e871e5b3d26] holding a licence under Chapter 1A of this Part ”.
+
+(2) Sections 19 [^c21845101] (exceptions to the duty to enforce), 20 [^c21845111] (procedure for enforcement orders), 21 (validity of enforcement orders) and 22 [^c21845121] (effect of enforcement order) apply without modification.
+
+(3) Section 22A [^c21845131] (penalties) applies as if—
+
+- (a) in subsection (1)(b) (power to impose financial penalties on those licensed under Chapter 1A of Part 2 in relation to contraventions of appointment or licence conditions), in sub-paragraph (ii), after “the appointment”, there were inserted “ or by another person holding a licence under Chapter 1A of this Part of any condition of that licence ”; and
+- (b) in subsection (2)(b) (power to impose financial penalties on those licensed under Chapter 1A of Part 2 in relation to contraventions of enforceable statutory or other requirements), in sub-paragraph (ii), after “Part” there were inserted “ , or by another person holding a licence under Chapter 1A of this Part, ”.
+
+(4) Sections 22B (statement of policy with respect to penalties), 22C (time limits on financial penalties), 22D (interest and payments of instalments), 22E (appeals) and 22F (recovery of penalties) apply without modification.
+
+### 7. Special administration
+
+(1)[^key-678b45f8e44cc82c3cc40750e1933f94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Section 23 [^c21845151] (meaning and effect of special administration order) applies as if—
+
+- (a) in subsection (1) (meaning of special administration order), after “qualifying water supply licensee[^key-999c0046700751d8501198c67690a898]”, there were inserted “ or a licensed infrastructure provider ”;
+- (b) after subsection (2A) (purposes of a special administration order for qualifying water supply licensees[^key-4df92b9a4afa3dba3ca988262d937860]), there were inserted—
+
+  > (2AA) The purposes of a special administration order made in relation to any company which is a licensed infrastructure provider shall be—
+  >
+  > - (a) the transfer to another company or companies, as a going concern, of so much of the company's undertaking as it is necessary to transfer in order to ensure that its functions may be properly carried out; and
+  > - (b) the carrying out of those functions pending the making of the transfer.
+
+  ; and
+- (c) in subsection (4) (application of Schedule 2 to the Act)—
+  - (i) at the end of paragraph (a), “or” were repealed; and
+  - (ii) after paragraph (a), there were inserted—
+
+    > - (aa) a company carries on activities relating to the functions formerly carried on by a licensed infrastructure provider; or
+
+    .
+
+(3) Section 24 [^c21845161] (special administration orders made on special petitions) applies as if—
+
+- (a) in subsection (1) (applications for special administration orders made in relation to relevant undertakers), after “this Part”, there were inserted “ or is a licensed infrastructure provider ”;
+- (b) in subsection (2) (grounds for making applications for special administration orders)—
+  - (i) in paragraph (bb) (qualifying water supply licensee causing contravention of a principal duty of a water undertaker)—
+    - (aa) in the words preceding sub-paragraph (i), after “qualifying water supply licensee”, there were inserted “ or a licensed infrastructure provider ”; and
+    - (bb) in sub-paragraph (i), for “water undertaker”, there were substituted “ relevant undertaker ”; and
+  - (ii) in paragraph (d) (petition by the Secretary of State following company inspector's report), after “qualifying water supply licensee”, there were inserted “ or a licensed infrastructure provider ”; and
+- (c) in subsection (7) (meaning of principal duty), in paragraph (b), after “qualifying water supply licensee”, there were inserted “ or a licensed infrastructure provider ”.
+
+(4)[^key-171ddb9f8c4ff17aaf3e9fdd94810f0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Section 25 [^c21845181] (power to make special administration order on winding-up petition) applies as if, after “qualifying water supply licensee”, in each place it occurs, there were inserted “ or a licensed infrastructure provider ”.
+
+(6) Section 26 [^c21845191] (restrictions on voluntary winding-up and insolvency proceedings) applies as if, after “qualifying water supply licensee” there were inserted “ or a licensed infrastructure provider ”.
+
+(7) The provisions of the Water Industry (Special Administration) Rules 2009 apply as if—
+
+- (a) in rule 3 (definitions and interpretation), in paragraph (1)—
+  - (i) following definition were inserted at the appropriate place—
+
+    > “**infrastructure**” in relation to a licensed infrastructure provider (within the meaning of the Water Industry Act 1991) has the meaning given in the Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013;
+
+    and
+  - (ii) in the definition of “water company” after “qualifying water supply licensee”, there were inserted “ or a licensed infrastructure provider ”;
+- (b) in rule 8 (contents of affidavit), in paragraph (1)(a), after “qualifying water supply licensee”, there were inserted “ or a licensed infrastructure provider ”;
+- (c) in rule 11 (service of petition), in paragraph (2) (persons who must be served)—
+  - (i) in sub-paragraph (j) after “the Welsh Ministers” there were inserted “ (where any part of the infrastructure in question is or is to be in Wales), ”;
+  - (ii) sub-paragraph (k) were omitted; and
+  - (iii) in sub-paragraph (l), after “the Welsh Ministers” there were inserted “ (where any part of the infrastructure in question is or is to be in Wales) ”;
+- (d) in rule 17 (notice and advertisement of special administration order), in paragraph (4), “, the Welsh Ministers” were omitted;
+- (e) in rule 18 (notice of discharge of special administration order), after “the Welsh Ministers” there were inserted “ (where any part of the infrastructure in question is or is to be in Wales) ”;
+- (f) in rule 23 (resignation of special administrator), in paragraph (3)(a), “or the Welsh Ministers, as appropriate” were omitted;
+- (g) in rule 24 (special administrator's death in office), in paragraph (2)(a), “or the Welsh Ministers, as appropriate” were omitted;
+- (h) in rule 25 (order filling vacancy), in sub-paragraph (c), “or the Welsh Ministers, as appropriate” were omitted;
+- (i) in rule 35 (statement if special administration order to be discharged before statement of proposals), “, the Welsh Ministers” were omitted;
+- (j) in rule 65 (right of inspection of proxies), in paragraph (1)(e), after “the Welsh Ministers” there were inserted “ (where any part of the infrastructure in question is or is to be in Wales) ”; and
+- (k) in rule 82 (certain persons' right to inspect the court file), in paragraph (1)(d) after “the Welsh Ministers” there were inserted “ (where any part of the infrastructure in question is or is to be in Wales) ”.
+
+### 8. Duties imposed on the Authority in relation to the protection of customers
+
+[^c21845201]Section 27 (general duty of the Authority to keep matters under review) applies as if—
+
+- (a) in subsection (1) (duty to keep matters under review), in paragraph (b)—
+  - (i) after “sewerage licensees”[^key-ffb2358410f1c156c96ca4c4c8438b81], there were inserted “ or licensed infrastructure providers ”; and
+  - (ii) after “authorised”, there were inserted “ or regulated ”;
+- (b) in subsection (2) (duty of the Authority to collect information), in paragraph (aa), after “authorised”, there were inserted “ or regulated ”; and
+- (c) in subsection (4) (duty to give advice and assistance to the Secretary of State and the CMA[^key-86b12c1b5bf0646dbd2cbd9887fc5a72]), in paragraph (c)—
+  - (i) after “authorised”, there were inserted “ or regulated ”; and
+  - (ii)[^key-da0db48b5abff588a9cc556554c2f69b] after “(see sections 17A and 17BA)” there were inserted “or project licences”
+
+### 9. Duties imposed on infrastructure providers in relation to the protection of consumers
+
+Section 35A [^c21845211] (remuneration and standards of performance), applies as if—
+
+- (a) in subsection (1) (application of the section), after “this Part”, there were inserted “ or any licensed infrastructure provider ”; and
+- (b) in subsection (10) (definitions), in the definition of “standards of performance”, in paragraph (a), after “this Part”, there were inserted “ or any conditions of the company's project licence ”.
+
+### 10. General duties of relevant undertakers
+
+(1) Section 37 (general duty to maintain a water supply system) applies as if—
+
+- (a) in subsection (1)(b), for “the water undertaker's water mains” there were substituted “ such mains ”; and
+- (b) after subsection (1) there were inserted—
+
+  > (1A) For the purposes of subsection (1), “**main**” means a water main or other pipe which is owned by a licensed infrastructure provider.
+
+(2) Section 94 [^c21845221] (general duty to provide a sewerage system) applies as if—
+
+- (a) in subsection (1)—
+  - (i) in the words before paragraph (a), after “sewerage undertaker” there were inserted “ to ensure that all necessary arrangements are made ”; and
+  - (ii) in paragraph (a), “public” were repealed; and
+- (b) after subsection (1) there were inserted—
+
+  > (1A) For the purposes of subsection (1), “**sewer**” means a public sewer or a sewer which is owned by a licensed infrastructure provider.
+
+### 11. Charges
+
+(1) Section 142 [^c21845231] (powers of undertakers to charge) applies as if—
+
+- (a) in the title, after “undertakers”, there were inserted “ and licensed infrastructure providers ”;
+- (b) in subsection (1) (powers of undertakers to fix and demand charges)—
+  - (i) in the words before paragraph (a), after “relevant undertaker”, there were inserted “ and every licensed infrastructure provider ”;
+  - (ii) in paragraph (b), after “undertaker”, there were inserted “ or the licensed infrastructure provider (as the case may be) ”; and
+- (c) in subsection (4) (matters etc. by reference to which charges may be fixed)—
+  - (i) after “a relevant undertaker”, there were inserted “ or licensed infrastructure provider ”; and
+  - (ii) after “the undertaker”, there were inserted “ or the licensed infrastructure provider (as the case may be) ”; and
+- (d) in subsection (6) (power of a relevant undertaker to fix charges otherwise than by virtue of Chapter 1 of Part 5 of the Act), after “a relevant undertaker”, there were inserted “ or licensed infrastructure provider ”.
+
+(2) Section 143 [^c21845241] (charges schemes) applies as if—
+
+- (a) in subsection (1) (power of a relevant undertaker to make a charges scheme)—
+  - (i) after “A relevant undertaker”, there were inserted “ or a licensed infrastructure provider ”; and
+  - (ii) in paragraph (a), after “the undertaker”, there were inserted “ or the licensed infrastructure provider (as the case may be) ”;
+- (b) in subsection (5) (power of a relevant undertaker to enter into agreements for payment of charges), in paragraph (a)—
+  - (i) after “a relevant undertaker”, there were inserted “ or licensed infrastructure provider ”; and
+  - (ii) after “the undertaker”, there were inserted “ or the licensed infrastructure provider (as the case may be) ”; [^key-439f4eb9560aa0afdb7694de5e6828b8]...
+- (ba)[^key-9c7d0b023e31408dfb6efcdae9d5f125] in subsection (6) (power of Authority to direct in relation to compliance of a charges scheme)—
+  - (i) in the words before paragraph (a), after “relevant undertaker’s”, there were inserted “or a licensed infrastructure provider’s”;
+  - (ii) in the words after paragraph (d), after “the undertaker”, there were inserted “or the licensed infrastructure provider”;
+- (bb) in subsection (6B) (consultation with the Council about a charges scheme), after “relevant undertaker”, there were inserted “or a licensed infrastructure provider”;
+- (bc) in subsection (6C) (power of Authority to direct in relation to compliance of a charges scheme with rules), after “relevant undertaker”, there were inserted “or a licensed infrastructure provider”;
+- (bd) in subsection (6D) (duty to comply with a direction), after “relevant undertaker”, there were inserted “or a licensed infrastructure provider”;
+- (be) after subsection (6D), there were inserted—
+
+  > (6E) Rules (and revised rules) issued by the Authority under this section in relation to relevant undertakers have effect as if they were issued in relation to licensed infrastructure providers and apply to licensed infrastructure providers as they apply to relevant undertakers, unless otherwise stated.
+
+  ;
+- (c)[^key-5b59401ab939b3fa54980fcf94992f29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2A)[^key-fffc48c8e874d425611b742567085c43] Section 143B (rules about charges schemes) applies as if—
+
+- (a) in subsection (7), after “relevant undertakers”, there were inserted “or licensed infrastructure providers”;
+- (b) after subsection (10), there were inserted—
+
+  > (11) Rules (and revised rules) issued by the Authority under this section in relation to relevant undertakers have effect as if they were issued in relation to licensed infrastructure providers and apply to licensed infrastructure providers as they apply to undertakers, unless otherwise stated.”
+
+(2B) Section 143C (rules under section 143B: procedure) applies as if in subsection (6)(a), after “England”, there were inserted “or licensed infrastructure providers”.
+
+(2C) Section 143D (rules under section 143B: minor or urgent revisions) applies without modification.
+
+(2D) Section 143E (rules under section 143B: guidance) applies as if in subsection (7)(a), after “England”, there were inserted “or licensed infrastructure providers;”
+
+(3) Section 144 (liability of occupiers etc for charges) applies as if—
+
+- (a) after subsection (1) (liability of occupiers), there were inserted—
+
+  > (1A) Subject to the following provisions of this section, a licensed infrastructure provider shall be treated for the purposes of this Chapter as providing services to—
+  >
+  > - (a) the occupiers for the time being of any premises which—
+  >   - (i) are supplied with water, either directly or indirectly, by infrastructure which is owned or operated by the licensed infrastructure provider;
+  >   - (ii) are drained by a sewer or drain connecting, either directly or indirectly, with infrastructure which is owned or operated by the licensed infrastructure provider; or
+  >   - (iii) are premises the occupiers of which have, in respect of the premises, the benefit of facilities which drain to a sewer or drain so connecting;
+  > - (b) any relevant undertaker or water supply licensee or sewerage licensee[^key-b2b5195e9f2191b766b72ddc6bf5057f] which—
+  >   - (i) has an agreement with the licensed infrastructure provider for the supply of water, sewerage services or works; or
+  >   - (ii) has the use of any infrastructure which is owned or operated by the licensed infrastructure provider;
+  >
+  > and references in this Chapter to services provided by a licensed infrastructure provider in the course of carrying out its functions are to be read accordingly.
+  >
+  > (1B) Subsection (1A)(a) does not apply to the extent that provision to the contrary is made by any agreement to which the licensed infrastructure provider is a party.
+
+  ;
+- (b) in subsection (2) (liability of former occupiers where charges fixed by reference to volume), after “a relevant undertaker”, there were inserted “ or licensed infrastructure provider ”;
+- (c) in subsection (3) (circumstances in which former occupiers may be made liable for charges)—
+  - (i) after “any relevant undertaker”, there were inserted “or licensed infrastructure provider; and
+  - (ii) in paragraph (a), after “the undertaker”, there were inserted “ or the licensed infrastructure provider (as the case may be) ”;
+- (d) in subsection (4) (meaning of “the first relevant day”)—
+  - (i) after “a relevant undertaker”, there were inserted “ or licensed infrastructure provider ”; and
+  - (ii) in paragraphs (a) and (c), after “the undertaker”, in each place it occurs, there were inserted “ or the licensed infrastructure provider (as the case may be) ”; and
+- (e) in subsection (5), after “water to those premises”, there were inserted “ , or liable to any licensed infrastructure provider for any charges in respect of any services provided by that licensed infrastructure provider to those premises, ”.
+
+(3A)[^key-6342b93ac29b8bba19762bc47959531d] Section 144ZE (general guidance on charges) applies as if—
+
+- (a) in subsection (13)(a), after “England”, there were inserted “or licensed infrastructure providers”;
+- (b) after subsection (13), there were inserted—
+
+  > (14) Guidance (and revised guidance) issued by the Secretary of State under this section which applies to the Authority in relation to relevant undertakers whose areas are wholly or mainly in England has effect as if it was issued in relation to licensed infrastructure providers and applies to licensed infrastructure providers as it applies to the Authority in relation to relevant undertakers whose areas are wholly or mainly in England, unless otherwise stated.
+
+(3B) Section 144ZF (guidance under section 144ZE: procedure) applies without modification.
+
+(4) Section 144A [^c21845251] (right of consumers to elect for charging by reference to volume) applies as if—
+
+- (a) in subsection (5) (right of consumer to revoke a measured charges notice)—
+  - (i) the “and” following paragraph (a) were repealed; and
+  - (ii) paragraph (b) were repealed;
+- (b) for subsection (9) (duty of sewerage undertaker to fix charges by reference to volume), there is substituted—
+
+  > (9) If and so long as a water undertaker is obliged under subsection (2) above to fix charges for the supply of water in respect of any premises by reference to the volume of water supplied—
+  >
+  > - (a) a sewerage undertaker is under a corresponding obligation to fix charges in respect of foul water drainage provided by the sewerage undertaker in respect of those premises by reference to that volume; and
+  > - (b) a licensed infrastructure provider is under a corresponding obligation to fix charges in respect of foul water drainage provided by the licensed infrastructure provider in respect of those premises by reference to that volume.
+
+  ; and
+- (c) in subsection (10) (duty of sewerage undertaker to fix charges without reference to volume) for “a sewerage undertaker is”, there were substituted “ a sewerage undertaker and a licensed infrastructure provider are ”.
+
+(5) Section 150B [^c21845261] (meaning of “consumer” in Chapter 1), applies as if, after paragraph (a), there were inserted—
+
+> - (aa) in relation to the provision of services by a licensed infrastructure provider in respect of any premises, means a person who is for the time being the person on whom liability to pay charges to the licensed infrastructure provider in respect of those services would fall, and
+
+.
+
+### 12. Licensed infrastructure providers' works powers
+
+(1) Section 158 [^c21845271] (powers to lay pipes in streets) applies as if—
+
+- (a) in subsection (1) (power to lay pipes etc), after “relevant undertaker”, there were inserted “ and every licensed infrastructure provider, ”; and
+- (b) in subsection (7) (meaning of “relevant pipe”), in paragraph (b), after “a sewerage undertaker”, there were inserted “ or a licensed infrastructure provider ”.
+
+(2) Section 159 [^c21845281] (power to lay pipes in other land) applies as if, in subsection (1), after “relevant undertaker”, there were inserted “ and every licensed infrastructure provider ”.
+
+(3) Section 161 [^c21845291] (power to deal with foul water and pollution) applies as if—
+
+- (a) in subsection (1) (powers in relation to streets), after “relevant undertaker”, there were inserted “ and every licensed infrastructure provider ”; and
+- (b) in subsection (2) (powers in relation to other land), after “relevant undertaker”, there were inserted “ and every licensed infrastructure provider ”.
+
+### 13. Supplemental provisions with respect to licensed infrastructure providers' works powers
+
+(1) Section 179 [^c21845301] (vesting of works in relevant undertakers) applies as if—
+
+- (a) in the title, after “undertaker”, there were inserted “ or licensed infrastructure provider ”;
+- (b) after subsection (1), there were inserted—
+
+  > (1ZA) Every—
+  >
+  > - (a) sewer or disposal main which has been laid, in exercise of any power conferred by this Part or otherwise by a licensed infrastructure provider, and
+  > - (b) sewage disposal works constructed by a licensed infrastructure provider,
+  >
+  > shall vest in the licensed infrastructure provider.
+
+  ; and
+- (c) in subsection (1A)—
+  - (i) for “Subsection (1) above is” there were substituted, “Subsections (1) and (1ZA) above are”; and
+  - (ii) after “relevant undertaker”, [^key-0f6371d2a482e0ac27776765c0cdc017]... there were inserted “ or licensed infrastructure provider (as the case may be) ”.
+
+(2) Section 180 applies as if for “undertakers” there were substituted “ licensed infrastructure providers ”.
+
+(3) Schedule 12 [^c21845311] (compensation for damage caused by works etc) applies as if—
+
+- (a) for “relevant undertaker”, “undertaker” or “sewerage undertaker”, each time it occurs, there were substituted “licensed infrastructure provider”;
+- (b) in paragraph 1 (compensation in respect of street works powers), in sub-paragraph (1), for “, 161 and 162” there were substituted “ and 161 ”;
+- (c) in paragraph 2 (compensation in respect of pipe-laying works in private land) in sub‑paragraph (6) for “, 161(2) and 163” there were substituted “ and 161(2) ”; and
+- (d) paragraphs 2(4) (powers to make regulations), 4(5) (no compensation payable where sewer etc declared vested in a sewerage undertaker), 5 (compensation in respect of metering works) and 6 (compensation in respect of discharges for works purposes) were repealed.
+
+(4) Section 181 [^c21845321] (complaints with respect to the exercise of works powers on private land) applies as if—
+
+- (a) for “relevant undertaker” or “undertaker”, each time it occurs, there were substituted “ licensed infrastructure provider ”; and
+- (b) subsection (8) (power to make regulations) were repealed.
+
+(5) Section 182 (code of practice with respect to work on private land) applies as if—
+
+- (a) in subsection (1) (duty to submit a code for approval)—
+  - (i) in the words before paragraph (a), after “relevant undertaker”, there were inserted “ and every licensed infrastructure provider ”; and
+  - (ii) in paragraph (a), after “appointment”, there were inserted “ or its project licence ”;
+- (b) subsections (2) and (4) (power to make an order) were repealed;
+- (c) in subsection (3) (effect of a code), the words “as a relevant undertaker” were repealed; and
+- (d) in subsection (5) (enforcement), after “relevant undertaker”, there were inserted “ and a licensed infrastructure provider ”.
+
+(6) Section 183 applies as if, for “relevant undertakers” there were substituted “ licensed infrastructure providers ”.
+
+(7) Schedule 13 [^c21845331] (protection for particular undertakings) applies as if—
+
+- (a) in paragraphs 1(1) (general provisions protecting undertakings), 2 (protection for statutory powers and jurisdiction) and 4 (protection for telecommunication systems), for “relevant undertaker” or “undertaker”, each time it occurs, there were substituted “ licensed infrastructure provider ”;
+- (b) in paragraph 3 (special protection for certain undertakings in respect of street works), for sub-paragraph (5) (offence of contravening the requirements of sub-paragraph (1)), there were substituted—
+
+  > (5) The requirements of sub-paragraph (1) above apply as if they were a duty imposed on a licensed infrastructure provider and shall be enforceable under section 18 above by the Authority.
+
+  ; and
+- (c) Part 2 (further protective provisions in respect of sewerage powers) were repealed.
+
+(8) Section 186 (protective provisions in respect of flood defence works and watercourses etc) applies as if subsections (2) to (6), and (8) were repealed.
+
+(9) Section 187 (works in tidal lands etc) applies as if—
+
+- (a) in subsections (1) and (2), for “relevant undertaker”, in both places it occurs, there were substituted “ licensed infrastructure provider ”;
+- (b) in subsection (2), for “that undertaker”, there were substituted “ that licensed infrastructure provider ”; and
+- (c) in subsection (3), for the words after “any of”, there were substituted “ sections 158, 159 and 161 above. ”.
+
+(10) Section 190 (saving for planning controls) applies without modification.
+
+(11) Section 192 [^c21845341] (interpretation of Part 6) applies as if—
+
+- (a) subsections (1) (meaning of water discharge pipe), (3), (3A) and (3B) (provisions for works outside a relevant undertaker's appointment area) were repealed; and
+- (b) in subsection (4) (certain obligations to maintain etc a pipe) after “relevant undertaker” or “undertaker”, each time it occurs, there were inserted “or licensed infrastructure provider”.
+
+### 14. Functions in relation to information
+
+(1) Section 195 [^c21845351] (the Authority's register) applies as if—
+
+- (a)[^key-88baac6863913c1337166c86ff627d08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in subsection (2) (documents to be entered in the register), after paragraph (bc), there were inserted—
+
+  > - (bd) every notice issued by the Secretary of State or the Authority under the Regulations (other than a notice issued under regulation 9);
+
+  .
+
+(2) Section 195A [^c21845361] (reasons for decisions) applies as if, in subsection (1) (decisions for which reasons must be published)—
+
+- (a) the “and” following paragraph (f) were repealed; and
+- (b) after paragraph (f), there were inserted—
+
+  > - (fa) the giving of any notice under the Regulations (other than a notice issued under regulation 9); and
+
+  .
+
+(3) Section 199 [^c21845371] (sewer maps) applies as if—
+
+- (a) after subsection (1) (duty to keep records), there were inserted—
+
+  > (1A) Subject to subsection (6) below, it shall be the duty of every licensed infrastructure provider to keep records of the location and relevant particulars of every sewer or disposal main owned by it.
+
+  ;
+- (b) in subsection (3) (maintenance of separate records for each local authority area)—
+  - (i) after “a sewerage undertaker”, there were inserted “ or a licensed infrastructure provider ”;
+  - (ii) after “that undertaker”, there were inserted “ or licensed infrastructure provider ”; and
+  - (iii) after “the undertaker”, there were inserted “ or the licensed infrastructure provider ”;
+- (c) in subsection (4) (availability of records)—
+  - (i) after “every sewerage undertaker”, there were inserted “ and every licensed infrastructure provider ”; and
+  - (ii) after “the undertaker”, there were inserted “ or licensed infrastructure provider (as the case may be) ”;
+- (d) in subsection (5) (information to be available as a map), after “a sewerage undertaker”, there were inserted “ or a licensed infrastructure provider ”; and
+- (e) in subsection (9) (enforcement), after “a sewerage undertaker”, there were inserted “ or a licensed infrastructure provider ”.
+
+(4) Section 200 (provision of sewer maps to local authorities) applies as if—
+
+- (a) in subsection (1) (duty to provide local authorities with records), after “every sewerage undertaker”, there were inserted “ and every licensed infrastructure provider ”; and
+- (b) in subsections (2) (local authority to make records available) and (4) (enforcement), after “a sewerage undertaker” each time they appear, there were inserted “ or a licensed infrastructure provider ”.
+
+(5) Section 201 [^c21845381] (publication of certain information and advice) applies as if, in subsection (1)(b), after “authorised”, there were inserted “ or regulated ”.
+
+(6) Section 202 [^c21845391] (duties of undertakers and water supply licensees and sewerage licensees[^key-88647f561d71b33b168c5d64aa8f9c69] to furnish the Secretary of State with information) applies as if—
+
+- (a) in the title, after “undertakers” there were inserted “ etc ”;
+- (b) in subsection (1A) (duties of water supply licensees and sewerage licensees to furnish information), in paragraph (a), after “authorised”, there were inserted “ or regulated ”; and
+- (c) in subsection (5) (enforcement under section 18 of the Act), for “or sewerage licensee[^key-8fb5a79b474ab3b8000bde9e4dac49ca]” there were substituted “ , sewerage licensee or licensed infrastructure provider ”.
+
+(7) Section 203 [^c21845401] (power to acquire information for enforcement purposes) applies as if—
+
+- (a)[^key-bf9422eeb469c9e2ae840aa4643cca0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) subsections (4) and (5) (offences) were repealed;
+- (c)[^key-b667b4229364eb43aa8437d0fec45003] in subsection (8) (definition of “the Minister”), after paragraph (a)(ii), there were inserted—
+  - (iii) any licensed infrastructure provider carrying out functions using the supply system or sewerage system of any such undertaker”
+
+(8) Section 205 [^c21845411] (exchange of metering information between service providers) applies as if, in subsection (4), after paragraph (a), there were inserted—
+
+> - (aa) any licensed infrastructure provider; and
+
+.
+
+### 15. Powers of direction conferred on the Secretary of State in relation to national security and civil emergencies
+
+Section 208 [^c21845421] (directions in the interests of national security) applies as if—
+
+- (a) in subsection (1) (general power of direction)—
+  - (i) for “or sewerage licensee[^key-dc6506122641d9ad61b76daf403b13e4]” there were substituted “ , sewerage licensee or licensed infrastructure provider ”; and
+  - (ii) for “or licensee[^key-f2cbd072ffd21889ede56a9494237599]” there were substituted “ , licensee or provider ”;
+- (b) in subsection (2) (power of direction in particular cases)—
+  - (i) for “or sewerage licensee[^key-ade6e77583885a74f55b77fe93d1689e]” there were substituted “ , sewerage licensee or licensed infrastructure provider ”; and
+  - (ii) for “or licensee[^key-fda97afc045509ff51ac178ce2636356]” there were substituted “ , licensee or provider ”; and
+- (c) in subsection (3) (duty of relevant undertakers and water supply licensees and sewerage licensees[^key-be077176b7c622830c7e28920683f2ea] to comply with a direction), for “or sewerage licensee[^key-ad51610280c317d69830cf87b793b589]”, in both places it occurs, there were substituted “ , sewerage licensee or licensed infrastructure provider ”.
+
+### 16. General provisions
+
+(1) Section 212 (judicial disqualification) applies as if—
+
+- (a) after “a relevant undertaker”, there were inserted “ or a licensed infrastructure provider ”; and
+- (b) after “that undertaker”, there were inserted “ or licensed infrastructure provider ”.
+
+(2) Section 219 (general interpretation) applies as if—
+
+- (a) in subsection (1) (definitions)—
+  - (i) for the definition of “customer or potential customer” there were substituted—
+
+    > “**customer or potential customer**” means—
+    >
+    > - (a) in relation to a company holding an appointment under Chapter 1 of Part 2 of this Act—
+    >   - (i) any person for or to whom that company provides any services in the course of carrying out the functions of a water undertaker or sewerage undertaker (other than a water supply licensee or sewerage licensee[^key-960e78ca54b45fd13823b7b1e7ae275d]); or
+    >   - (ii) any person who might become such a person on making an application for the purpose to the company; and
+    > - (b) in relation to a licensed infrastructure provider—
+    >   - (i) any person for or to whom that licensed infrastructure provider provides any services in the course of carrying out its functions; or
+    >   - (ii) any person for or to whom that licensed infrastructure provider might provide any services in the course of carrying out its functions;
+
+    ;
+  - (ii) for the definition of “functions” there were substituted—
+
+    > “**functions**” means—
+    >
+    > - (a) in relation to a licensed infrastructure provider, the activities regulated by its project licence and any statutory functions conferred or imposed on it in consequence of its project licence; and
+    > - (b) in relation to a relevant undertaker, the functions of the undertaker under or by virtue of any enactment and shall be construed subject to section 217 above;
+
+    ;
+  - (iii) in the definition of “protected land”, after “ “protected land”,” there were inserted “ in relation to a company which is a licensed infrastructure provider means any land which, or interest or right in or over land which, is held by that company for purposes connected with the carrying out of its functions and, ”; and
+  - (iv) the following definitions were inserted at the appropriate place—
+
+    > - “project licence” must be construed in accordance with Chapter 1A of Part 2 above;
+
+    ;
+
+    > “**the Regulations**” means the Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013;
+
+    ; and
+- (b) after subsection (4A) (references to the supply system of a water undertaker), there were inserted—
+
+  > (4B) In this Act, “incumbent undertaker”, “infrastructure”, “infrastructure project” and “licensed infrastructure provider” each have the meaning given in the Regulations.
+
+  .
+
+## SCHEDULE 2 — Application of the Procurement Act 2023[^key-07877fcded1eee315972ea75ad86f494][^key-67994486c2f227a73c6ff9845208a4bd]
+
+Regulation 6
+
+### PART 1
+
+| Provision applied | Modification |
+| --- | --- |
+| Section 1[^key-5ac10fc1af1d8ce1782d63c31267f2e5] | Subsection (1)(b) does not apply, and the remaining provisions apply as if references to “covered procurement” were omitted |
+| Section 2 |  |
+| Section 4 |  |
+| Section 6 | Subsections (5) and (6) do not apply |
+| Section 12 |  |
+| Section 15 |  |
+| Section 16 |  |
+| Section 18 |  |
+| Section 19 | Subsection (9) does not apply |
+| Section 20 | Subsection (9) does not apply |
+| Section 21 |  |
+| Section 22 |  |
+| Section 23 | Subsection (6) does not apply |
+| Section 24 |  |
+| Section 25 |  |
+| Section 26 |  |
+| Section 27 |  |
+| Section 28 |  |
+| Section 30 |  |
+| Section 31 |  |
+| Section 34 | Subsection (7) does not apply |
+| Section 35 | Subsection (3) does not apply |
+| Section 40 |  |
+| Section 43 |  |
+| Section 44 |  |
+| Section 45 | Subsection (9) does not apply |
+| Section 46 | Subsection (11) does not apply |
+| Section 47 | Subsection (5)(c) does not apply |
+| Section 48 |  |
+| Section 49 |  |
+| Section 50 |  |
+| Section 51 | In subsection (3), only paragraphs (c), (d) and (e) apply, and paragraph (c) applies as though it referred only to section 43 (switching to direct award) |
+| Section 54 | Entries relating to light touch contracts do not apply |
+| Section 56 |  |
+| Section 57 |  |
+| Section 58 |  |
+| Section 59 | Subsection (1)(a)(iv) and (v) do not apply |
+| Section 62 | Only subsections (3) and (4) apply |
+| Section 74 | Subsection (1) applies as though the reference to a “convertible contract” were omitted; subsection (2) does not apply |
+| Section 78 |  |
+| Section 79 |  |
+| Section 81 | Applies as though the word “covered” were omitted every time it appears |
+| Section 82 | Applies as though the word “covered” were omitted |
+| Section 83 | Applies as though the word “covered” were omitted |
+| Section 89 |  |
+| Section 90 |  |
+| Section 94 |  |
+| Section 96 | Applies as though the word “covered” were omitted both times it appears |
+| Section 98 | Applies as though for the words “this Act” were substituted “the Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013”, and as though, for subsection (4)(a) were substituted “the day on which the contracting authority decides not to award the contract”. Subsection (5) does not apply. |
+| Section 99 |  |
+| Section 100 | Subsection (6) does not apply |
+| Section 101 | Subsection (1) applies as if the words “or a convertible contract” were omitted; subsection (4) does not apply |
+| Section 102 |  |
+| Section 103 |  |
+| Section 104 |  |
+| Section 105 |  |
+| Section 110 |  |
+| Section 123 | Subsections (4) and (5) do not apply |
+| Schedule 1 | Only paragraphs 4 and 5 apply |
+| Schedule 3 | Paragraph 3 does not apply |
+| Schedule 4 |  |
+| Schedule 6 |  |
+| Schedule 7 |  |
+| Schedule 8 | Paragraphs 2, 3, 10 and 11 do not apply |
+| Schedule 9 |  |
+
+### PART 2
+
+**No longer in force.**
+
+> **...[^key-3d71fee1bc26c63fc7fa3b026b604e27]**
+>
+> [^key-3d71fee1bc26c63fc7fa3b026b604e27]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement Part 2A of the Water Industry Act 1991 (“**the Act**”) in relation to water and sewerage undertakers whose appointment areas are wholly or mainly in England.
+
+Regulation 1(2) to (4) provides for provisions in these Regulations to cease to have effect seven years after they come into force in specified circumstances.
+
+Regulation 3 gives effect to Schedule 1 which applies (with modification) provisions in, and made under, certain enactments for the purposes of these Regulations. Regulation 3 also applies (with modification) the general duty on the Secretary of State and the Water Services Regulation Authority (“Ofwat”) with respect to the water industry for the purposes of their functions exercised under or by virtue of these Regulations or, in certain cases, the Act.
+
+Regulation 4 gives the Secretary of State and Ofwat powers to specify by notice in writing an infrastructure project in certain circumstances. Ofwat must publish guidance to be followed by it in determining whether to specify an infrastructure project. An infrastructure project is a project which an incumbent water or sewerage undertaker must ordinarily undertake to fulfil its statutory duties under section 37 (general duty to maintain water supply system etc.) or 94 (general duty to provide sewerage system) of the Act. Once specified, the incumbent undertaker is prohibited under regulation 5 from undertaking that infrastructure project, although the Secretary of State or Ofwat may permit or require it to undertake such preparatory work as they may set out by notice in writing. The Secretary of State and Ofwat may vary or revoke notices issued by them under regulations 4 or 5. The power to issues notices is subject to certain procedural requirements and transitional provisions.
+
+Regulation 6 requires the incumbent water or sewerage undertaker to put a specified infrastructure project out to tender. The ordinary procurement rules may apply to such a tender. Where those rules do not apply or in certain other circumstances, these Regulations apply (with modifications) certain provisions of the Utilities Contracts Regulations 2006 (S.I. 2006/6) for that tender process. Those provisions are set out in Schedule 2 to these Regulations.
+
+Regulation 7 limits companies associated with the water or sewerage undertaker from bidding in the tender process except where agreed by the Secretary of State or Ofwat by notice in writing. The Secretary of State and Ofwat may vary or revoke any notice issued by them under regulation 7. The power to issues notices is subject to certain procedural requirements and transitional provisions.
+
+Regulation 8 gives the Secretary of State and Ofwat power to designate by notice in writing a person wholly or partly responsible for a specified infrastructure project which has been put out to tender in accordance with these Regulations. The “infrastructure provider” may then be licensed and regulated as set out in Schedule 1. The Secretary of State and Ofwat may vary or revoke any notice issued by them under regulation 8. The power to issues notices is subject to certain procedural requirements and transitional provisions.
+
+Regulation 9 requires water and sewerage undertakers and infrastructure providers to provide the Secretary of State with such information as may be reasonably required for the purposes of carrying out their functions under these Regulations.
+
+Regulation 10 provides for civil enforcement of these Regulations under the Act.
+
+Regulation 11 requires the Secretary of State to review the operation and effect of these Regulations and publish a report within five years after the Regulations come into force. Following the review it will fall to the Secretary of State to consider whether the Regulations should be allowed to expire as regulation 1(2) and (3) provides, be revoked early, or continue in force with or without amendment. A further instrument would be needed to continue the Regulations in force with or without amendments or to revoke them early.
+
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector is available from the Thames Tideway Tunnel Team, Area 2C, Department for Environment, Food and Rural Affairs, Ergon House, c/o Nobel House, 17 Smith Square, London SW1P 3JR. It is published on www.legislation.gov.uk alongside the Explanatory Memorandum and this instrument.
+
+## Annotations
+
+[^c21844871]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56); [sections 36A to 36F](https://www.legislation.gov.uk/uksi/2013/1582/section/36A) were inserted by section 35(1) of the [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29). Section 213 was amended by section 35(2) of the Flood and Water Management Act 2010. There are other amendments, but none is relevant.
+
+[^c21844881]: Marginal citation: See the definition of “English undertaker” in section 36E(2)(a) of the Water Industry Act 1991; [section 36E](https://www.legislation.gov.uk/uksi/2013/1582/section/36E) was inserted by section 35(1) of the Flood and Water Management Act 2010. The powers to make regulations in relation to infrastructure which is provided or to be provided for the use of one or more Welsh undertakers are exercisable by the Welsh Ministers. See the definition of “Welsh undertaker” in section 36E(2)(b) of the Water Industry Act 1991. The functions of the Secretary of State under section 213 of the Water Industry Act 1991 were exercisable by the National Assembly for Wales (“**the Assembly**”) to the same extent as the powers to which that section applies were exercisable by the Assembly by virtue of article 2 of the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672); see the entry in Schedule 1 for the Water Industry Act 1991 as substituted by paragraph (e) of Schedule 3 to the [National Assembly for Wales (Transfer of Functions) Order 2000 (S.I. 2000/253)](https://www.legislation.gov.uk/uksi/2000/253) and amended by section 100(2) of the [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37); there are other amendments but none is relevant. By virtue of section 162 of, and paragraph 30 of Schedule 11 to, the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), functions conferred on the Assembly are exercisable by the Welsh Ministers. An amendment by the Flood and Water Management Act 2010 of another enactment does not prevent the continued operation of any transfer of functions by or by virtue of the [Government of Wales Act 1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38) or 2006 irrespective of whether the amendment amends an existing function or confers a new function (see [section 49(6)](https://www.legislation.gov.uk/ukpga/1998/38/section/49/6) of the Flood and Water Management Act 2010).
+
+[^c21844891]: Marginal citation: [Section 36G](https://www.legislation.gov.uk/uksi/2013/1582/section/36G) was inserted by section 35(1) of the Flood and Water Management Act 2010.
+
+[^c21844901]: Marginal citation: Section 94 was amended by sections 88(2) and 97(1) and (3) of the Water Act 2003. There are other amendments but none is relevant. By virtue of section 36(2) of the Water Act 2003, each reference to the Director General of Water Services in the Act has effect as a reference to the Water Services Regulation Authority.
+
+[^c21844911]: Marginal citation: [S.I. 1994/2841](https://www.legislation.gov.uk/uksi/1994/2841), as amended by section 120 of, and paragraph 233 of Schedule 22 to, the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), [S.I](https://www.legislation.gov.uk/ukpga/1995/25/section/I). 2003/1788, 2005/2035, 2010/675 and 2011/556.
+
+[^key-335214406cd0ea84eeb5bd8e30aba4d2]: Textual amendment: [Reg. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/2) omitted (13.6.2020) by virtue of [The Water Industry (Specified Infrastructure Projects) (English Undertakers) (Amendment) Regulations 2020 (S.I. 2020/589)](https://www.legislation.gov.uk/uksi/2020/589), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/589/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/589/regulation/2)
+
+[^c21844921]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c21844931]: Marginal citation: Section 2 was amended by section 54 of, and Schedule 10 to, the [Competition Act 1998 (c. 41)](https://www.legislation.gov.uk/ukpga/1998/41), [section 39](https://www.legislation.gov.uk/ukpga/1998/41/section/39) of the Water Act 2003 and by section 278 of, and Schedule 25 to, the [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^key-cfcdd2cb3bf0b10b994aaa8989f0cf86]: Textual amendment: Reg. 3(3)(a)(b) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(2)(a)](https://www.legislation.gov.uk/uksi/2017/506/article/30/2/a)
+
+[^key-e1aaa696eda821897533c97d58b62c9f]: Textual amendment: Reg. 3(3)(f) omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(2)(b)](https://www.legislation.gov.uk/uksi/2017/506/article/30/2/b)
+
+[^c21844941]: Marginal citation: Section 219(1) was amended by section 101(1) of, and Schedules 7 and 8 to, the Water Act 2003, and by [S.I. 2009/1947](https://www.legislation.gov.uk/uksi/2009/1947). There are other amendments, but none is relevant.
+
+[^key-d115804a0ed11ff83c8e1937d10a0b2a]: Textual amendment: Words in reg. 3(5) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(2)(c)(i)](https://www.legislation.gov.uk/uksi/2017/506/article/30/2/c/i)
+
+[^key-019b556a639526c7d4ff458d3535aa7c]: Textual amendment: Words in reg. 3(5) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2017/506/article/30/2/c/ii)
+
+[^c21844951]: Marginal citation: The provisions in Chapter 1 of Part 5 were amended by sections 36 and 53 of the [Competition and Service (Utilities) Act 1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43), [section 120](https://www.legislation.gov.uk/ukpga/1992/43/section/120) of, and Schedule 22 to, the Environment Act 1995, sections 3 to 9 and 15 of, and Schedule 3 to, the [Water Industry Act 1999 (c. 9)](https://www.legislation.gov.uk/ukpga/1999/9), [sections 59](https://www.legislation.gov.uk/ukpga/1999/9/section/59) and 101(1) of, and Schedule 8 to, the Water Act 2003 and section 45 of the Flood and Water Management Act 2010. There are other amendments, but none is relevant.
+
+[^c21844961]: Marginal citation: [Section 154B](https://www.legislation.gov.uk/uksi/2013/1582/section/154B) was inserted by section 2 of the [Water Industry (Financial Assistance) Act 2012 (c. 8)](https://www.legislation.gov.uk/ukpga/2012/8).
+
+[^c21844971]: Marginal citation: [Section 102](https://www.legislation.gov.uk/uksi/2013/1582/section/102) was amended by section 96(1) of the Water Act 2003.
+
+[^key-1e1430650c878ec39c0189cce46c05d5]: Textual amendment: Reg. 6(2) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17(2)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/17/2/a) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33))
+
+[^key-a358ecf3f1424d16fff5d1c2ee0cd4d5]: Textual amendment: Words in reg. 6(3) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/163/regulation/17/2/b/i) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33))
+
+[^key-0709796b82ec5f5e4c01dc8cbca056c6]: Textual amendment: Words in reg. 6(3)(b)(i) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/163/regulation/17/2/b/ii) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33))
+
+[^key-4dd9a1c6ca7102ed7fcb129dcee7fb66]: Textual amendment: Reg. 6(3)(b)[(ia)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/6/3/ia) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/163/regulation/17/2/b/iii) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33))
+
+[^key-63ceed596aa56afb1186b59bd09e6e84]: Textual amendment: Reg. 6(3)(b)(ii) omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2025/163/regulation/17/2/b/iv) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33))
+
+[^key-5fa3712834d2753b63463e0c4165bc0c]: Textual amendment: Reg. 6(3A) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17(2)(c)](https://www.legislation.gov.uk/uksi/2025/163/regulation/17/2/c) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33))
+
+[^key-cd7d10f2a0f9432518b601b25a824c03]: Textual amendment: Words in reg. 6(4) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17(2)(d)](https://www.legislation.gov.uk/uksi/2025/163/regulation/17/2/d) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33))
+
+[^c21845001]: Marginal citation: Section 112 was amended by section 36(2) of the Water Act 2003 and by section 42(4) of the Flood and Water Management Act 2010, although the latter provision is not yet in force.
+
+[^key-7521277da3ae6ba80c68d880df8f308a]: Textual amendment: Words in reg. 6(8) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17(2)(e)(i)](https://www.legislation.gov.uk/uksi/2025/163/regulation/17/2/e/i) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33))
+
+[^key-d1b06a084455aa9f4aa7813837d9f12f]: Textual amendment: Words in reg. 6(8)(b) inserted (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 2 para. 49(8)](https://www.legislation.gov.uk/uksi/2016/275/schedule/2/paragraph/49/8) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
+
+[^key-b70c66bb65b270de55525267c7647f3f]: Textual amendment: Words in reg. 6(8)(b) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2025/163/regulation/17/2/e/ii) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33))
+
+[^c21845011]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c21845021]: Marginal citation: [S.I. 2008/409](https://www.legislation.gov.uk/uksi/2008/409).
+
+[^key-89d243cf1dbb9c8fac4917c3b8560556]: Textual amendment: Words in [reg. 8(3)(a)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/8/3/a) substituted (26.2.2015) by [The Public Contracts Regulations 2015 (S.I. 2015/102)](https://www.legislation.gov.uk/uksi/2015/102), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/102/regulation/1/2), [Sch. 6 para. 24](https://www.legislation.gov.uk/uksi/2015/102/schedule/6/paragraph/24)
+
+[^c21845031]: Marginal citation: [Section 18](https://www.legislation.gov.uk/uksi/2013/1582/section/18) was amended by sections 49 and 101(1) of, and Schedule 8 to, the Water Act 2003.
+
+[^key-3c7d15630fbe1e15abd24fd111a7fff0]: Textual amendment: Word in [Sch. 1 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/1/1/a) inserted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(4)](https://www.legislation.gov.uk/uksi/2017/506/article/30/4)
+
+[^c21845041]: Marginal citation: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^c21845051]: Marginal citation: [S.I. 2009/2477](https://www.legislation.gov.uk/uksi/2009/2477).
+
+[^key-2590399dbdc1dda00c6b1f408dccebf5]: Textual amendment: [Sch. 1 para. 1A](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/1A) inserted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(5)](https://www.legislation.gov.uk/uksi/2017/506/article/30/5)
+
+[^c21845061]: Marginal citation: Section 6 was amended by section 101(1) of, and Schedule 8 to, the Water Act 2003.
+
+[^key-f0fab4ef10b4d086cb2b0e0c1b6c2f53]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/2) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(6)(a)](https://www.legislation.gov.uk/uksi/2017/506/article/30/6/a)
+
+[^key-43be65e5a37d882f95b959ff8fb6db23]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/2) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(6)(b)](https://www.legislation.gov.uk/uksi/2017/506/article/30/6/b)
+
+[^c21845071]: Marginal citation: Section 17A and the other provisions in Chapter 1A of Part 2 were inserted by section 56 of, and Schedule 4 to, the Water Act 2003.
+
+[^key-1fe88621e7b1e75b79b41a56d34d2fa1]: Textual amendment: Words in Sch. 1 para. 3(1) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(7)(a)](https://www.legislation.gov.uk/uksi/2017/506/article/30/7/a)
+
+[^c21845081]: Marginal citation: Established under article 3 of the Natural Resources Body for Wales (Establishment) Order 2012 ([S.I. 2012/1903](https://www.legislation.gov.uk/uksi/2012/1903) (W. 230)).
+
+[^c21845091]: Marginal citation: Schedule 2 was amended by section 101(1) of, and Schedule 8 to, the Water Act 2003. Schedule 2 was also amended by section 34 of, and Schedule 5 to, the Flood and Water Management Act 2010, although those provisions are not yet in force.
+
+[^key-b9bfef657feb2eab0236e9d14d56facc]: Textual amendment: Words in Sch. 1 para. 3(3)(b)(ii)(aa) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(7)(b)](https://www.legislation.gov.uk/uksi/2017/506/article/30/7/b)
+
+[^key-f184bd26b120ff9376e0eb6805fe65d9]: Textual amendment: Sch. 1 para. 3(3)(b)(ii)(bb) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(7)(c)](https://www.legislation.gov.uk/uksi/2017/506/article/30/7/c)
+
+[^key-c055433bb081578a9802d07d8516561e]: Textual amendment: Sch. 1 para. 3(3)(b)(iv)(aa) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(7)(d)](https://www.legislation.gov.uk/uksi/2017/506/article/30/7/d)
+
+[^key-716fb259f696dfb3f442d471a92a052f]: Textual amendment: Word in Sch. 1 para. 4 omitted (10.1.2015) by virtue of [The Water Industry (Specified Infrastructure Projects) (English Undertakers) (Amendment) Regulations 2015 (S.I. 2015/22)](https://www.legislation.gov.uk/uksi/2015/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/22/regulation/1/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2015/22/regulation/3/2/a/i)
+
+[^key-cbc62437ea1942976b53000c31aa7fd4]: Textual amendment: Words in Sch. 1 para. 4 substituted (10.1.2015) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) (Amendment) Regulations 2015 (S.I. 2015/22)](https://www.legislation.gov.uk/uksi/2015/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/22/regulation/1/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/22/regulation/3/2/a/ii)
+
+[^key-10888fced62e197f154591449fff7da1]: Textual amendment: Words in Sch. 1 para. 4 inserted (10.1.2015) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) (Amendment) Regulations 2015 (S.I. 2015/22)](https://www.legislation.gov.uk/uksi/2015/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/22/regulation/1/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2015/22/regulation/3/2/a/iii)
+
+[^key-42bea1bf93030c517e928411585fe9c4]: Textual amendment: Words in Sch. 1 para. 4 inserted (10.1.2015) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) (Amendment) Regulations 2015 (S.I. 2015/22)](https://www.legislation.gov.uk/uksi/2015/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/22/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2015/22/regulation/3/2/b)
+
+[^key-a06a1a94f210d4f7f3614a2d1bd7eacc]: Textual amendment: Word in [Sch. 1 para. 5(1)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/1) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(8)(a)](https://www.legislation.gov.uk/uksi/2017/506/article/30/8/a)
+
+[^key-a5a816e7cedb138f8573b445fc50102f]: Textual amendment: Words in [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/2) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(8)(b)(i)](https://www.legislation.gov.uk/uksi/2017/506/article/30/8/b/i)
+
+[^key-c24e28c57e4f47046b31e2462b0bd917]: Textual amendment: [Sch. 1 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/2/a) omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/506/article/30/8/b/ii)
+
+[^key-1807bc95c422fa5ce18019b588bde6c8]: Textual amendment: Words in [Sch. 1 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/2/b) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(8)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/506/article/30/8/b/iii)
+
+[^key-43d766dec60d113bb5f9466f0d4aaaac]: Textual amendment: Word in [Sch. 1 para. 5(2)(c)(i)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/2/c/i) omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(8)(b)(iv)](https://www.legislation.gov.uk/uksi/2017/506/article/30/8/b/iv)
+
+[^key-bf57ab9dce680de57f9c3b400354b458]: Textual amendment: Words in [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/4) omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(8)(c)(i)](https://www.legislation.gov.uk/uksi/2017/506/article/30/8/c/i)
+
+[^key-9d111d69188c4018b8451bd5a6383d8e]: Textual amendment: [Sch. 1 para. 5(4)(a)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/4/a) omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(8)(c)(ii)](https://www.legislation.gov.uk/uksi/2017/506/article/30/8/c/ii)
+
+[^key-be756a80a6ff74e70abea4d46d6ae49d]: Textual amendment: Words in [Sch. 1 para. 5(4)(b)(i)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/4/b/i) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(8)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/506/article/30/8/c/iii)
+
+[^key-a0f6d5e87172bd0a68f3bd38e6a42d46]: Textual amendment: Words in [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/5) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(8)(d)(i)](https://www.legislation.gov.uk/uksi/2017/506/article/30/8/d/i)
+
+[^key-727c3e61eb4773be098c80aab5119af0]: Textual amendment: [Sch. 1 para. 5(5)(a)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/5/a) omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(8)(d)(ii)](https://www.legislation.gov.uk/uksi/2017/506/article/30/8/d/ii)
+
+[^key-589088caad6c10f1b7428b95f8fc95d4]: Textual amendment: Words in [Sch. 1 para. 5(5)(b)(i)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/5/b/i) omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(8)(d)(iii)](https://www.legislation.gov.uk/uksi/2017/506/article/30/8/d/iii)
+
+[^key-f057aa5b6ddca0631fee6f4b5dad1439]: Textual amendment: Words in [Sch. 1 para. 5(6)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/6) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(8)(e)(i)](https://www.legislation.gov.uk/uksi/2017/506/article/30/8/e/i)
+
+[^key-bbe0d31210610a4aba76eeb217a6dd37]: Textual amendment: [Sch. 1 para. 5(6)(a)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/6/a) omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(8)(e)(ii)](https://www.legislation.gov.uk/uksi/2017/506/article/30/8/e/ii)
+
+[^key-265e33a5cd8a7333275e5c575f7c6077]: Textual amendment: Word in Sch. 1 para. 5(6) substituted (10.1.2015) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) (Amendment) Regulations 2015 (S.I. 2015/22)](https://www.legislation.gov.uk/uksi/2015/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/22/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2015/22/regulation/4/b)
+
+[^key-6d9ce59f4648d5e8b97c6d8cff8de0bc]: Textual amendment: Words in [Sch. 1 para. 5(6)(b)(i)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/6/b/i) omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(8)(e)(iii)](https://www.legislation.gov.uk/uksi/2017/506/article/30/8/e/iii)
+
+[^key-fd965c429b06f392a7d54c8b18eda2da]: Textual amendment: Words in [Sch. 1 para. 5(8)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/8) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(8)(f)(i)](https://www.legislation.gov.uk/uksi/2017/506/article/30/8/f/i)
+
+[^key-764fb3fb42e13c1d0846cea7227143a1]: Textual amendment: [Sch. 1 para. 5(8)(a)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/8/a) omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(8)(f)(ii)](https://www.legislation.gov.uk/uksi/2017/506/article/30/8/f/ii)
+
+[^key-4a065365e30b4c3a333cd97b4bcd26e9]: Textual amendment: Words in [Sch. 1 para. 5(8)(b)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/5/8/b) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(8)(f)(iii)](https://www.legislation.gov.uk/uksi/2017/506/article/30/8/f/iii)
+
+[^key-cd7da943510404ca1402df1987910a94]: Textual amendment: Words in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/6/1) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(9)(a)](https://www.legislation.gov.uk/uksi/2017/506/article/30/9/a)
+
+[^key-b3f16ab8612166bb2b477e871e5b3d26]: Textual amendment: Word in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/6/1) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(9)(b)](https://www.legislation.gov.uk/uksi/2017/506/article/30/9/b)
+
+[^c21845101]: Marginal citation: Section 19 was amended by section 54 of, and Schedule 10 to, the Competition Act 1998, section 101(1) of, and Schedule 8 to, the Water Act 2003, [S.I. 2000/1297](https://www.legislation.gov.uk/uksi/2000/1297) and 2010/996.
+
+[^c21845111]: Marginal citation: Section 20 was amended by sections 49 and 101(1) of, and Schedule 8 to, the Water Act 2003.
+
+[^c21845121]: Marginal citation: Section 22 was amended by section 101(1) of, and Schedule 8 to, the Water Act 2003.
+
+[^c21845131]: Marginal citation: Sections 22A to 22F were inserted by section 48 of the Water Act 2003.
+
+[^key-678b45f8e44cc82c3cc40750e1933f94]: Textual amendment: [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/7/1) omitted (15.3.2024) by virtue of [The Water Industry (Special Administration) Regulations 2024 (S.I. 2024/205)](https://www.legislation.gov.uk/uksi/2024/205), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/205/regulation/2/2), [65(2)](https://www.legislation.gov.uk/uksi/2024/205/regulation/65/2) (with [reg. 64](https://www.legislation.gov.uk/uksi/2024/205/regulation/64))
+
+[^c21845151]: Marginal citation: Section 23 was amended by was amended by section 101(1) of, and Schedule 8 to, the Water Act 2003. Section 23 was also amended by section 34 of, and Schedule 5 to, the Flood and Water Management Act 2010, although the provisions are only in force for limited purposes.
+
+[^key-999c0046700751d8501198c67690a898]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/7) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(10)(a)](https://www.legislation.gov.uk/uksi/2017/506/article/30/10/a)
+
+[^key-4df92b9a4afa3dba3ca988262d937860]: Textual amendment: Words in [Sch. 1 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/7/2/b) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(10)(b)](https://www.legislation.gov.uk/uksi/2017/506/article/30/10/b)
+
+[^c21845161]: Marginal citation: Section 24 was amended by was amended by section 101(1) of, and Schedule 8 to, the Water Act 2003. Section 24 was also amended by section 34 of, and Schedule 5 to, the Flood and Water Management Act 2010, although the provisions are not yet in force.
+
+[^key-171ddb9f8c4ff17aaf3e9fdd94810f0c]: Textual amendment: [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/7/4) omitted (15.3.2024) by virtue of [The Water Industry (Special Administration) Regulations 2024 (S.I. 2024/205)](https://www.legislation.gov.uk/uksi/2024/205), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/205/regulation/2/2), [65(2)](https://www.legislation.gov.uk/uksi/2024/205/regulation/65/2) (with [reg. 64](https://www.legislation.gov.uk/uksi/2024/205/regulation/64))
+
+[^c21845181]: Marginal citation: Section 25 was amended by was amended by section 101(1) of, and Schedule 8 to, the Water Act 2003.
+
+[^c21845191]: Marginal citation: Section 26 was amended by was amended by section 101(1) of, and Schedule 8 to, the Water Act 2003.
+
+[^c21845201]: Marginal citation: Section 27 was amended by section 101(1) of, and Schedule 8 to, the Water Act 2003 and section 278 of, and Schedule 25 to, the Enterprise Act 2002.
+
+[^key-ffb2358410f1c156c96ca4c4c8438b81]: Textual amendment: Words in [Sch. 1 para. 8(a)(i)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/8/a/i) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(11)(a)](https://www.legislation.gov.uk/uksi/2017/506/article/30/11/a)
+
+[^key-86b12c1b5bf0646dbd2cbd9887fc5a72]: Textual amendment: Word in Sch. 1 para. 8(c) substituted (10.1.2015) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) (Amendment) Regulations 2015 (S.I. 2015/22)](https://www.legislation.gov.uk/uksi/2015/22), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/22/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2015/22/regulation/5)
+
+[^key-da0db48b5abff588a9cc556554c2f69b]: Textual amendment: [Sch. 1 para. 8(c)(ii)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/8/c/ii) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(11)(b)](https://www.legislation.gov.uk/uksi/2017/506/article/30/11/b)
+
+[^c21845211]: Marginal citation: Section 35A was inserted by section 50 of the Water Act 2003.
+
+[^c21845221]: Marginal citation: Section 94 was amended by sections 88 and 97 of the Water Act 2003, although the provisions of section 88 are not yet in force.
+
+[^c21845231]: Marginal citation: Section 142 was amended by section 120 of, and Schedule 22 to, the Environment Act 1995, and by section 3 of the [Water Industry Act 1999 (c. 9)](https://www.legislation.gov.uk/ukpga/1999/9).
+
+[^c21845241]: Marginal citation: Section 143 was amended by section 120 of, and Schedule 22 to, the Environment Act 1995, and by sections 3 and 4 of the Water Industry Act 1999.
+
+[^key-439f4eb9560aa0afdb7694de5e6828b8]: Textual amendment: Word in [Sch. 1 para. 11(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/11/2/b/ii) omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(12)(a)](https://www.legislation.gov.uk/uksi/2017/506/article/30/12/a)
+
+[^key-9c7d0b023e31408dfb6efcdae9d5f125]: Textual amendment: [Sch. 1 para. 11(2)(ba)-(be)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/11/2/ba) inserted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(12)(b)](https://www.legislation.gov.uk/uksi/2017/506/article/30/12/b)
+
+[^key-5b59401ab939b3fa54980fcf94992f29]: Textual amendment: [Sch. 1 para. 11(2)(c)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/11/2/c) omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(12)(c)](https://www.legislation.gov.uk/uksi/2017/506/article/30/12/c)
+
+[^key-fffc48c8e874d425611b742567085c43]: Textual amendment: [Sch. 1 para. 11(2A)-(2D)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/11/2A) inserted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(12)(d)](https://www.legislation.gov.uk/uksi/2017/506/article/30/12/d)
+
+[^key-b2b5195e9f2191b766b72ddc6bf5057f]: Textual amendment: Words in [Sch. 1 para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/11/3/a) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(12)(e)](https://www.legislation.gov.uk/uksi/2017/506/article/30/12/e)
+
+[^key-6342b93ac29b8bba19762bc47959531d]: Textual amendment: [Sch. 1 para. 11(3A)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/11/3A)[(3B)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/11/3B) inserted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(12)(f)](https://www.legislation.gov.uk/uksi/2017/506/article/30/12/f)
+
+[^c21845251]: Marginal citation: Section 144A was inserted by section 6 of the Water Industry Act 1999.
+
+[^c21845261]: Marginal citation: Section 150B was inserted by section 15 of, and Schedule 3 to, the Water Industry Act 1999.
+
+[^c21845271]: Marginal citation: Section 158 was amended by section 40 of the Competition and Service (Utilities) Act 1992, sections 97 and 101(1) of, and Schedule 8 to, the Water Act 2003 and [S.I. 2005/268](https://www.legislation.gov.uk/uksi/2005/268).
+
+[^c21845281]: Marginal citation: Section 159 was amended by section 97 of the Water Act 2003.
+
+[^c21845291]: Marginal citation: Section 161 was amended by section 120 of, and Schedule 22 to, the Environment Act 1995.
+
+[^c21845301]: Marginal citation: Section 179 was amended by sections 92, 97 and 101(1) of, and Schedule 8 to, the Water Act 2003. Section 179 was also amended by sections 62, 86 and 146 of, and Schedules 13, 14 and 23 to, the [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), although the provisions are not yet in force.
+
+[^key-0f6371d2a482e0ac27776765c0cdc017]: Textual amendment: Words in [Sch. 1 para. 13(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/13/1/c/ii) omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(13)](https://www.legislation.gov.uk/uksi/2017/506/article/30/13)
+
+[^c21845311]: Marginal citation: Schedule 12 was amended by section 56 of the Competition and Service (Utilities) Act 1992, section 97 of the Water Act 2003 and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
+
+[^c21845321]: Marginal citation: Section 181 was amended by section 101(1) of, and Schedule 7 to, the Water Act 2003.
+
+[^c21845331]: Marginal citation: Schedule 13 was amended by section 67 of, and Schedule 9 to, the [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21); section 120 of, and Schedule 22 to, the Environment Act 1995; section 37 of, and Schedule 5 to the [Transport Act 2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38); section 406 of, and Schedule 17 to, the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21); section 143 of, and Schedule 19 to, the [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20); and by S.I. 2001/1149. The effect of certain provisions in Schedule 13 was modified by section 16 of, and Schedule 4 to, the [Gas Act 1986 (c. 44)](https://www.legislation.gov.uk/ukpga/1986/44) and section 76 of the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^c21845341]: Marginal citation: Section 192 was amended by section 47 of the Competition and Service (Utilities) Act 1992.
+
+[^c21845351]: Marginal citation: Section 195 was amended by section 15 of, and Schedule 3 to, the Water Industry Act 1999 and sections 48 and 101(1) of, and Schedule 8 to, the Water Act 2003.
+
+[^key-88baac6863913c1337166c86ff627d08]: Textual amendment: [Sch. 1 para. 14(1)(a)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/14/1/a) omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(14)(a)](https://www.legislation.gov.uk/uksi/2017/506/article/30/14/a)
+
+[^c21845361]: Marginal citation: Section 195A was inserted by section 51 of the Water Act 2003.
+
+[^c21845371]: Marginal citation: Section 199 was amended by section 97 of the Water Act 2003.
+
+[^c21845381]: Marginal citation: Section 201 was amended by section 278 of, and Schedule 25 to, the Enterprise Act 2002 and section 101(1) of, and Schedule 8 to, the Water Act 2003.
+
+[^c21845391]: Marginal citation: Section 202 was amended by section 120 of, and Schedule 22 to, the Environment Act 1995 and section 101(1) of, and Schedule 8 to, the Water Act 2003.
+
+[^key-88647f561d71b33b168c5d64aa8f9c69]: Textual amendment: Words in [Sch. 1 para. 14(6)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/14/6) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(14)(b)(i)](https://www.legislation.gov.uk/uksi/2017/506/article/30/14/b/i)
+
+[^key-8fb5a79b474ab3b8000bde9e4dac49ca]: Textual amendment: Words in [Sch. 1 para. 14(6)(c)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/14/6/c) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(14)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/506/article/30/14/b/ii)
+
+[^c21845401]: Marginal citation: Section 203 was amended by section 101(1) of, and Schedule 8 to, the Water Act 2003.
+
+[^key-bf9422eeb469c9e2ae840aa4643cca0f]: Textual amendment: [Sch. 1 para. 14(7)(a)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/14/7/a) omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(14)(c)](https://www.legislation.gov.uk/uksi/2017/506/article/30/14/c)
+
+[^key-b667b4229364eb43aa8437d0fec45003]: Textual amendment: [Sch. 1 para. 14(7)(c)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/14/7/c) inserted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(14)(d)](https://www.legislation.gov.uk/uksi/2017/506/article/30/14/d)
+
+[^c21845411]: Marginal citation: Section 205 was amended by section 101(1) of, and Schedule 8 to, the Water Act 2003.
+
+[^c21845421]: Marginal citation: Section 208 was amended by section 101(1) of, and Schedules 7 and 8 to, the Water Act 2003.
+
+[^key-dc6506122641d9ad61b76daf403b13e4]: Textual amendment: Words in [Sch. 1 para. 15(a)(i)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/15/a/i) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(15)(a)(i)](https://www.legislation.gov.uk/uksi/2017/506/article/30/15/a/i)
+
+[^key-f2cbd072ffd21889ede56a9494237599]: Textual amendment: Word in [Sch. 1 para. 15(a)(ii)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/15/a/ii) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(15)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/506/article/30/15/a/ii)
+
+[^key-ade6e77583885a74f55b77fe93d1689e]: Textual amendment: Words in [Sch. 1 para. 15(b)(i)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/15/b/i) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(15)(b)(i)](https://www.legislation.gov.uk/uksi/2017/506/article/30/15/b/i)
+
+[^key-fda97afc045509ff51ac178ce2636356]: Textual amendment: Word in [Sch. 1 para. 15(b)(ii)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/15/b/ii) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(15)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/506/article/30/15/b/ii)
+
+[^key-be077176b7c622830c7e28920683f2ea]: Textual amendment: Words in [Sch. 1 para. 15(c)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/15/c) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(15)(c)(i)](https://www.legislation.gov.uk/uksi/2017/506/article/30/15/c/i)
+
+[^key-ad51610280c317d69830cf87b793b589]: Textual amendment: Words in [Sch. 1 para. 15(c)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/15/c) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(15)(c)(ii)](https://www.legislation.gov.uk/uksi/2017/506/article/30/15/c/ii)
+
+[^key-960e78ca54b45fd13823b7b1e7ae275d]: Textual amendment: Words in [Sch. 1 para. 16(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/16/2/a/i) substituted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(16)](https://www.legislation.gov.uk/uksi/2017/506/article/30/16)
+
+[^key-07877fcded1eee315972ea75ad86f494]: Textual amendment: Sch. 2 substituted (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2016/275/schedule/2/paragraph/50) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
+
+[^key-67994486c2f227a73c6ff9845208a4bd]: Textual amendment: Sch. 2 heading substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17(3)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/17/3/a) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33))
+
+[^key-5ac10fc1af1d8ce1782d63c31267f2e5]: Textual amendment: Sch. 2 Pt. 1 Table substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17(3)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/17/3/b) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33))
+
+[^key-3d71fee1bc26c63fc7fa3b026b604e27]: Textual amendment: Sch. 2 Pt. 2 omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17(3)(c)](https://www.legislation.gov.uk/uksi/2025/163/regulation/17/3/c) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33))

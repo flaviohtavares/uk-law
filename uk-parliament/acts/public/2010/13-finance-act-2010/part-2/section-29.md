@@ -1,0 +1,47 @@
+---
+title: Finance Act 2010, section 29
+act: Finance Act 2010
+section: '29'
+status: revised
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/13/section/29
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2010, section 29
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 29. Sale of lessors: consortium relationships
+
+*Extent: E+W+S+N.I.*
+
+(1) Chapters 3 and 4 of Part 9 of CTA 2010 (sales of lessors) are amended as follows.
+
+(2) In section 393(7) (qualifying 75% subsidiaries), omit “or 90%”.
+
+(3) In section 394 (consortium relationships)—
+
+- (a) in subsections (1)(b), (4) and (5)(b), for “90%” substitute “ 75% ”, and
+- (b) in subsection (9)(b), omit “or 90%”.
+
+(4) In section 398 (qualifying 75% or 90% subsidiary), omit—
+
+- (a) subsections (5) and (6), and
+- (b) in subsection (7)(b), “and “90% subsidiary””,
+
+and, in the heading, omit “**or 90%**”.
+
+(5) In section 405(2)(b) and (6) (adjustments to basic amount), for “90%” substitute “ 75% ”.
+
+(6) In sections 408(5)(b) and 430(4)(b) (associated company), for “90%” substitute “ 75% ”.
+
+(7) In Schedule 4 to CTA 2010, omit the entry relating to “qualifying 90% subsidiary (in Chapters 3 to 6 of Part 9)”.
+
+(8) The amendments made by this section have effect where the relevant day is on or after 9 December 2009.
+
+(9) Corresponding amendments, having effect where the relevant day is on or after that date, are to be treated as having been made in Schedule 10 to FA 2006.

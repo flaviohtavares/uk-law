@@ -1,0 +1,25 @@
+---
+title: Titles to Land Consolidation (Scotland) Act 1868, section 54
+act: Titles to Land Consolidation (Scotland) Act 1868
+section: '54'
+status: revised-with-pending-changes
+text_date: '2018-11-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/Vict/31-32/101/section/54
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Titles to Land Consolidation (Scotland) Act 1868, section 54
+
+> **Warning: changes not yet applied to this text (9).** Text as at 2018-11-12. See https://www.legislation.gov.uk/changes/affected/ukpga/Vict/31-32/101
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 54, 55. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c13453201]
+
+*Extent: E+W+S+N.I.*
+
+## Annotations
+
+[^c13453201]: Textual amendment: Ss. 52, 54, 55, 151, 153, repealed by [Statute Law (Repeals) Act 1975 (c. 10)](https://www.legislation.gov.uk/ukpga/1975/10), [Sch. Pt. XIV](https://www.legislation.gov.uk/ukpga/1975/10/schedule/part/XIV)

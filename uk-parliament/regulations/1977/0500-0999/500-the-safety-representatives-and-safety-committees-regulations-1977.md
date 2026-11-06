@@ -1,0 +1,379 @@
+---
+title: The Safety Representatives and Safety Committees Regulations 1977
+id: uksi/1977/500
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1977-03-16'
+text_date: '2026-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1977/500
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1977/500/pdfs/uksi_19770500_en.pdf
+- http://www.legislation.gov.uk/uksi/1977/500/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Safety Representatives and Safety Committees Regulations 1977
+
+> Text as at 2026-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1977 No. 500
+
+HEALTH AND SAFETY
+
+The Safety Representatives and Safety Committees Regulations 1977
+
+Made
+
+16th March 1977
+
+Laid before Parliament
+
+28th March 1977
+
+Coming into Operation
+
+1st October 1978
+
+Whereas the Health and Safety Commission has submitted to the Secretary of State, under section 11(2)(d) of the Health and Safety at Work etc. Act 1974 (“the 1974 Act”) as amended by paragraph 4 of Schedule 15 to the Employment Protection Act 1975 (“the 1975 Act”), proposals for the making of Regulations after the carrying out by the said Commission of consultations in accordance with section 50(3) of the 1974 Act as amended by paragraph 16(3) of Schedule 15 to the 1975 Act;
+
+And whereas the Secretary of State has made modifications to the said proposals under section 50(1) of the 1974 Act and has consulted the said Commission thereon in accordance with section 50(2) of the 1974 Act, both of which provisions have been amended by paragraph 16 of Schedule 15 to the 1975 Act;
+
+And whereas under section 80(1) of the 1974 Act it appears to the Secretary of State that the modification of paragraph 16 of Schedule 1 to the Trade Union and Labour Relations Act 1974 made in Regulation 11(5) below is expedient in connection with the provision made by Regulation 4(2) below and, in accordance with section 80(4) of the 1974 Act as substituted by paragraph 19 of Schedule 15 to the 1975 Act, he has consulted such bodies as appeared to him to be appropriate on the proposed modification;
+
+Now therefore, the Secretary of State, in exercise of the powers conferred on him by section 2(4) and (7), 15(1), (3)(b) and (5)(b), 80(1) and (4) and 82(3)(a) of the 1974 Act as amended by paragraphs 2, 6 and 19 of Schedule 15 to the 1975 Act and of all other powers enabling him in that behalf and so as to give effect to the said proposals of the said Commission (with the said modifications) and so as to modify the said provision in the Trade Union and Labour Relations Act 1974, hereby makes the following Regulations:—
+
+## 1. Citation and commencement[^key-9e1bf3a53c7bdc5b60116d0b982fcc4b]
+
+These Regulations may be cited as the Safety Representatives and Safety Committees Regulations 1977 and shall come into operation on 1st October 1978.
+
+## 2. Interpretation[^key-bd08adcd372dac8a9792d223aa0336e7]
+
+(1) In these Regulations, unless the context otherwise requires—
+
+- “**the 1974 Act**” means the Health and Safety at Work etc. Act 1974 as amended by the 1975 Act;
+- “**the 1975 Act**” means the Employment Protection Act 1975;
+- “**employee**” has the meaning assigned by section 53(1) of the 1974 Act and “**employer**” shall be construed accordingly;
+- “**recognised trade union**” [^key-3e5a31c6dcb9683bc106f5d02bcfed19]... means an independent trade union as defined in section 30(1) of the Trade Union and Labour Relations Act 1974 which the employer concerned recognises for the purpose of negotiations relating to or connected with one or more of the matters specified in section 29(1) of that Act in relation to persons employed by him or as to which the Advisory, Conciliation and Arbitration Service has made a recommendation for recognition under the 1975 Act which is operative within the meaning of section 15 of that Act;
+- “[^key-0d8893b7f50715f4efd7a6ba443c6571]**relevant nuclear provisions**” means—
+  - (a) sections 1, 3 to 5, 6 (so far as it relates to sites in respect of which nuclear site licences have been granted)[^key-f70bece3badc5dbb5907b493cd7c10e1], 22 and 24A of the Nuclear Installations Act 1965;
+  - (b) to the extent they are treated as nuclear regulations, the provisions of the Carriage of Dangerous Goods and Transportable Pressure Equipment Regulations 2009;
+  - (c) the provisions of the Nuclear Industries Security Regulations 2003;
+  - (d) the provisions of nuclear regulations other than any provision of such regulations identified in accordance with section 74(9) of the Energy Act 2013 as made for the nuclear safeguards purposes;
+- “**relevant nuclear site**” means a site which is—
+  - (a) a GB nuclear site (within the meaning given in section 68 of the Energy Act 2013);
+  - (b) an authorised defence site (within the meaning given in regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 1998); or
+  - (c) a new nuclear build site (within the meaning given in regulation 2A of those Regulations);
+- “**safety representative**” means a person appointed under Regulation 3(1) of these Regulations to be a safety representative;
+- “**welfare at work**” means those aspects of welfare at work which are the subject of health and safety regulations or of any of the existing statutory provisions within the meaning of section 53(1) of the 1974 Act;
+- “**workplace**” in relation to a safety representative means any place or places where the group or groups of employees he is appointed to represent are likely to work or which they are likely to frequent in the course of their employment or incidentally to it.
+
+(2) The Interpretation Act 1889 shall apply to the interpretation of these Regulations as it applies to the interpretation of an Act of Parliament.
+
+(3) These Regulations shall not be construed as giving any person a right to inspect any place, article, substance or document which is the subject of restrictions on the grounds of national security unless he satisfies any test or requirement imposed on those grounds by or on behalf of the Crown.
+
+## 2A. Bodies to be treated as recognised trade unions[^key-37e835eb712287471200981d78dc4538]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Appointment of safety representatives[^key-32520f1675e65813fe38c9142e0ab01f]
+
+(1) For the purposes of section 2(4) of the 1974 Act, a recognised trade union may appoint safety representatives from amongst the employees in all cases where one or more employees are employed by an employer by whom it is recognised[^key-ae20fe32b7057c6f63807223aaf00996]....
+
+(2) Where the employer has been notified in writing by or on behalf of a trade union of the names of the persons appointed as safety representatives under this Regulation and the group or groups of employees they represent, each such safety representative shall have the functions set out in Regulation 4 below.
+
+(3) A person shall cease to be a safety representative for the purposes of these Regulations when—
+
+- (a) the trade union which appointed him notifies the employer in writing that his appointment has been terminated; or
+- (b) he ceases to be employed at the workplace but if he was appointed to represent employees at more than one workplace he shall not cease by virtue of this sub-paragraph to be a safety representative so long as he continues to be employed at any one of them; or
+- (c) he resigns.
+
+(4) A person appointed under paragraph (1) above as a safety representative shall so far as is reasonably practicable either have been employed by his employer throughout the preceding two years or have had at least two years experience in similar employment.
+
+## 4. Functions of safety representatives[^key-c2a97def9985e847a81831d4a1d1a985]
+
+(1) In addition to his function under section 2(4) of the 1974 Act to represent the employees in consultations with the employer under section 2(6) of the 1974 Act (which requires every employer to consult safety representatives with a view to the making and maintenance of arrangements which will enable him and his employees to cooperate effectively in promoting and developing measures to ensure the health and safety at work of the employees and in checking the effectiveness of such measures), each safety representative shall have the following functions:—
+
+- (a) to investigate potential hazards and dangerous occurrences at the workplace (whether or not they are drawn to his attention by the employees he represents) and to examine the causes of accidents at the workplace;
+- (b) to investigate complaints by any employee he represents relating to that employee's health, safety or welfare at work;
+- (c) to make representations to the employer on matters arising out of sub-paragraphs (a) and (b) above;
+- (d) to make representations to the employer on general matters affecting the health, safety or welfare at work of the employees at the workplace;
+- (e) to carry out inspections in accordance with Regulations 5, 6 and 7 below;
+- (f) to represent the employees he was appointed to represent in consultations at the workplace with inspectors of the Health and Safety Executive , the Office for Nuclear Regulation[^key-9ca99e49a4aaaa2ff3dfa3349f8a7b63] and of any other enforcing authority;
+- (g)[^key-ff7fddb46877e14b546626a22265c6a2] to receive information—
+  - (i) in relation to premises which are, or are on, a relevant nuclear site, from inspectors under paragraph 23 of Schedule 8 to the Energy Act 2013;
+  - (ii) otherwise, from inspectors in accordance with section 28(8) of the 1974 Act;
+- (h) to attend meetings of safety committees where he attends in his capacity as a safety representative in connection with any of the above functions;
+
+but, without prejudice to sections 7 and 8 of the 1974 Act or sections 102 and 103 of the Energy Act 2013[^key-4031fc27166edbda8f001a77dad0674d], no function given to a safety representative by this paragraph shall be construed as imposing any duty on him.
+
+(2) An employer shall permit a safety representative to take such time off with pay during the employee's working hours as shall be necessary for the purposes of—
+
+- (a) performing his functions under section 2(4) of the 1974 Act and paragraph (1)(a) to (h) above;
+- (b) undergoing such training in aspects of those functions as may be reasonable in all the circumstances having regard to any relevant provisions of a code of practice relating to time off for training approved for the time being by the Health and Safety Executive[^key-3509b190a4375f7a46401ff60f71c8b5] under section 16 of the 1974 Act.
+
+In this paragraph “**with pay**” means with pay in accordance with Schedule 2[^key-a4fd789f521021170ff2b71cc2f6aed7] to these Regulations.
+
+## 4A. Employer’s duty to consult and provide facilities and assistance[^key-e183a1dec2c2d79d2db7766d3afd3337]
+
+(1) Without prejudice to the generality of section 2(6) of the Health and Safety at Work etc. Act 1974, every employer shall consult safety representatives in good time with regard to—
+
+- (a) the introduction of any measure at the workplace which may substantially affect the health and safety of the employees the safety representatives concerned represent;
+- (b) his arrangements for appointing or, as the case may be, nominating persons in accordance with regulations 7(1) and 8(1)(b) of the Management of Health and Safety at Work Regulations 1999[^key-fe8387e99290725a7a62dd4cca2ca6e7] or article 13(3)(b) of the Regulatory Reform (Fire Safety) Order 2005 *(Extent: E+W)*[^key-9d6a4042e1a5a73a1f52a977c5717394] or regulation 12(3)(b) of the Fire Safety (Scotland) Regulations 2006[^key-1af145f1f5b5ea70609c458f5435d71f];
+- (c) any health and safety information he is required to provide to the employees the safety representatives concerned represent by or under the relevant statutory provisions or the relevant nuclear provisions[^key-1107d3793deeb5d1b9ca63ba70c7210d];
+- (d) the planning and organisation of any health and safety training he is required to provide to the employees the safety representatives concerned represent by or under the relevant statutory provisions or the relevant nuclear provisions[^key-5683d5715ba53c4c659958fd1f612974]; and
+- (e) the health and safety consequences for the employees the safety representatives concerned represent of the introduction (including the planning thereof) of new technologies into the workplace.
+
+(2) Without prejudice to regulations 5 and 6 of these Regulations, every employer shall provide such facilities and assistance as safety representatives may reasonably require for the purpose of carrying out their functions under section 2(4) of the 1974 Act and under these Regulations.
+
+## 5. Inspections of the workplace[^key-98a1b192bbca93c753125a97bbbabf12]
+
+(1) Safety representatives shall be entitled to inspect the workplace or a part of it if they have given the employer or his representative reasonable notice in writing of their intention to do so and have not inspected it, or that part of it, as the case may be, in the previous three months; and may carry out more frequent inspections by agreement with the employer.
+
+(2) Where there has been a substantial change in the conditions of work (whether because of the introduction of new machinery or otherwise) or new information has been published by [^key-8479c79a459a9b3071d4699331b0bcd7]... the relevant authority[^key-4c91d8c5b2d94197ef5b3942a2d12c84] relevant to the hazards of the workplace since the last inspection under this Regulation, the safety representatives after consultation with the employer shall be entitled to carry out a further inspection of the part of the workplace concerned notwithstanding that three months have not elapsed since the last inspection.
+
+(2A)[^key-75dbd6cc5f20b743dfda8a163adeac6e] In paragraph (2), “**relevant authority**” means—
+
+- (a) in relation to a workplace which is, or is on, a relevant nuclear site, the Office for Nuclear Regulation;
+- (b) otherwise, the Health and Safety Executive.
+
+(3) The employer shall provide such facilities and assistance as the safety representatives may reasonably require (including facilities for independent investigation by them and private discussion with the employees) for the purpose of carrying out an inspection under this Regulation, but nothing in this paragraph shall preclude the employer or his representative from being present in the workplace during the inspection.
+
+(4) An inspection carried out under [^key-bdec46050d97ac545aa8c655c180af3a]...  [^key-e986a284d02edee031f6e4bc50461cd2][^key-bdec46050d97ac545aa8c655c180af3a]... regulation 40 of the Quarries Regulations 1999 shall count as an inspection under this Regulation.
+
+## 6. Inspections following notifiable accidents, occurrences and diseases[^key-d4085274218955fc98b07f8981808c8a]
+
+(1) Where there has been an over three day injury,[^key-d98c2d7da9b5461650445f2ab861b2cd] notifiable accident or dangerous occurrence in a workplace or a notifiable disease has been contracted there and—
+
+- (a) it is safe for an inspection to be carried out; and
+- (b) the interests of employees in the group or groups which safety representatives are appointed to represent might be involved.
+
+those safety representatives may carry out an inspection of the part of the workplace concerned and so far as is necessary for the purpose of determining the cause they may inspect any other part of the workplace; where it is reasonably practicable to do so they shall notify the employer or his representative of their intention to carry out the inspection.
+
+(2) The employer shall provide such facilities and assistance as the safety representatives may reasonably require (including facilities for independent investigation by them and private discussion with the employees) for the purpose of carrying out an inspection under this Regulation; but nothing in this paragraph shall preclude the employer or his representative from being present in the workplace during the inspection.
+
+(3)[^key-c0e106c112b9bc2a4a9a849e33a83e83] In this regulation—
+
+- “notifiable accident or dangerous occurrence” and “notifiable disease” mean any accident, dangerous occurrence or disease, as the case may be, notice of which is required to be given by virtue of any of the relevant statutory provisions within the meaning of section 53(1) of the 1974 Act or the relevant nuclear provisions[^key-79ba8950be1e98d80db497126233eb1f]; and
+- “over three day injury” means an injury required to be recorded in accordance with regulation 12(1)(b) of the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013.
+
+## 7. Inspection of documents and provision of information[^key-d90b63c9927481ab27a2b1414b62694e]
+
+(1)[^key-8dc90cb327ae1532ed42e9f6a678ad51] Safety representatives shall for the performance of their functions under section 2(4) of the 1974 Act or the relevant nuclear provisions[^key-51e1e9cf264141c5be8cb4f96bc3d5c8] and under these Regulations, if they have given the employer reasonable notice, be entitled to inspect and take copies of any document relevant to the workplace or to the employees the safety representatives represent which the employer is required to keep by virtue of any relevant statutory provision within the meaning of section 53(1) of the 1974 Act except a document consisting of or relating to any health record of an identifiable individual.
+
+(2) An employer shall make available to safety representatives the information, within the employer's knowledge, necessary to enable them to fulfil their functions except—
+
+- (a) any information the disclosure of which would be against the interests of national security; or
+- (b) any information which he could not disclose without contravening a prohibition imposed by or under an enactment; or
+- (c) any information relating specifically to an individual, unless he has consented to its being disclosed; or
+- (d) any information the disclosure of which would, for reasons other than its effect on health, safety or welfare at work, cause substantial injury to the employer's undertaking or, where the information was supplied to him by some other person, to the undertaking of that other person; or
+- (e) any information obtained by the employer for the purpose of bringing, prosecuting or defending any legal proceedings.
+
+(3) Paragraph (2) above does not require an employer to produce or allow inspection of any document or part of a document which is not related to health, safety or welfare.
+
+## 8. Cases where safety representatives need not be employees[^key-c1079370fcb6c28f21a61d5482dfbda9]
+
+(1) In the cases mentioned in paragraph (2) below safety representatives appointed under Regulation 3(1) of these Regulations need not be employees of the employer concerned; and section 2(4) of the 1974 Act shall be modified accordingly.
+
+(2) The said cases are those in which the employees in the group or groups the safety representatives are appointed to represent are members of the British Actors' Equity Association or of the Musicians' Union.
+
+(3) Regulations 3(3)(b) and (4) and 4(2) of these Regulations shall not apply to safety representatives appointed by virtue of this Regulation and in the case of safety representatives to be so appointed Regulation 3(1) shall have effect as if the works “from amongst the employees” were omitted.
+
+## 9. Safety committees[^key-d0a0518c33038803bc519a575ac2e1d1]
+
+(1) For the purposes of section 2(7) of the 1974 Act (which requires an employer in prescribed cases to establish a safety committee if requested to do so by safety representatives) the prescribed cases shall be any cases in which at least two safety representatives request the employer in writing to establish a safety committee.
+
+(2) Where an employer is requested to establish a safety committee in a case prescribed in paragraph (1) above, he shall establish it in accordance with the following provisions—
+
+- (a) he shall consult with the safety representatives who made the request and with the representatives of recognised trade unions whose members work in any workplace in respect of which he proposes that the committee should function;
+- (b) the employer shall post a notice stating the composition of the committee and the workplace or workplaces to be covered by it in a place where it may be easily read by the employees;
+- (c) the committee shall be established not later than three months after the request for it.
+
+## 10. Power of Health and Safety Executive to grant exemptions[^key-12ebf1c670d1258f846db7150b9a1625][^key-4f3cfc78c2d13949fa75d4f90ef9f843]
+
+The Health and Safety Executive may grant exemptions from any requirement imposed by these Regulations and any such exemption may be unconditional or subject to such conditions as the Executive may impose and may be with or without a limit of time.
+
+## 11. Provisions as to industrial tribunals[^key-8ec0ad5b06ec2d8ac5da950c36ae02a3]
+
+(1) A safety representative may, in accordance with the jurisdiction conferred on industrial tribunals by paragraph 16(2) of Schedule 1 to the Trade Union and Labour Relations Act 1974, present a complaint to an industrial tribunal that—
+
+- (a) the employer has failed to permit him to take time off in accordance with Regulation 4(2) of these Regulations; or
+- (b) the employer has failed to pay him in accordance with Regulation 4(2) of and the Schedule to these Regulations.
+
+(2) An industrial tribunal shall not consider a complaint under paragraph (1) above unless it is presented within six[^key-08cf7be26e9991a8371b743f22a9930c] months of the date when the failure occurred or within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented within the period of six months.
+
+(2A)[^key-1fd0b23cc9caaa7d31627077cc73a427] Regulation 12 (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
+
+(3) Where an industrial tribunal finds a complaint under paragraph (1)(a) above well-founded the tribunal shall make a declaration to that effect and may make an award of compensation to be paid by the employer to the employee which shall be of such amount as the tribunal considers just and equitable in all the circumstances having regard to the employer's default in failing to permit time off to be taken by the employee and to any loss sustained by the employee which is attributable to the matters complained of.
+
+(4) Where on a complaint under paragraph (1)(b) above an industrial tribunal finds that the employer has failed to pay the employee the whole or part of the amount required to be paid under paragraph (1)(b), the tribunal shall order the employer to pay the employee the amount which it finds due to him.
+
+(5) Paragraph 16 of Schedule 1 to the Trade Union and Labour Relations Act 1974 (jurisdiction of industrial tribunals) shall be modified by adding the following sub-paragraph:—
+
+> (2) An industrial tribunal shall have jurisdiction to determine complaints relating to time off with pay for safety representatives appointed under regulations made under the Health and Safety at Work etc. Act 1974
+
+.
+
+## 12. Extension of time limit to facilitate conciliation before institution of proceedings[^key-4ba80e396d72b74938a3c89e77749070]
+
+(1) In this regulation—
+
+- (a) Day A is the day on which the worker concerned complies with the requirement in subsection (1) of section 18A of the Employment Tribunals Act 1996 (requirement to contact ACAS before instituting proceedings) in relation to the matter in respect of which the proceedings are brought, and
+- (b) Day B is the day on which the worker concerned receives or, if earlier, is treated as receiving (by virtue of regulations made under subsection (11) of that section) the certificate issued under subsection (4) of that section.
+
+(2) In working out when the six[^key-49dff2c20c1f33aab5a987d14df7a07e] month time limit set by regulation 11(2) expires the period beginning with the day after Day A and ending with Day B is not to be counted.
+
+(3) If the six[^key-7906640a853054bd5503adfbcf3cc7af] month time limit set by regulation 11(2) would (if not extended by this paragraph) expire during the period beginning with Day A and ending one month after Day B, the time limit expires instead at the end of that period.
+
+(4) The power conferred on the employment tribunal by paragraph (2) of regulation 11 to extend the six[^key-bccf5d934d490f6bf88428b5d5f1e2fb] month time limit set by that paragraph is exercisable in relation to that time limit as extended by this regulation.
+
+Albert Booth
+
+Secretary of State for Employment
+
+16th March 1977
+
+## SCHEDULE 1 — BODIES TO BE TREATED AS RECOGNISED TRADE UNIONS[^key-12805608553101e5c7fbea46b2e7f0c6]
+
+**No longer in force.**
+
+Regulation 2A
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — PAY FOR TIME OFF ALLOWED TO SAFETY REPRESENTATIVES[^key-8fdd98348f8ddc23798d81dc8d9e2d07]
+
+Regulation 4(2)
+
+**1.**[^key-ad1c9e91d0eabd6b418bc6c03ae8c746] Subject to paragraph 3 below, where a safety representative is permitted to take time off in accordance with Regulation 4(2) of these Regulations, his employer shall pay him—
+
+- (a) where the safety representative's remuneration for the work he would ordinarily have been doing during that time does not vary with the amount of work done, as if he had worked at that work for the whole of that time;
+- (b) where the safety representative's remuneration for that work varies with the amount of work done, an amount calculated by reference to the average hourly earnings for that work (ascertained in accordance with paragraph 2 below).
+
+**2.**[^key-77e92d35bc34b6618a19cbaa56cbe68b] The average hourly earnings referred to in paragraph 1(b) above are the average hourly earnings of the safety representative concerned or, if no fair estimate can be made of those earnings, the average hourly earnings for work of that description of persons in comparable employment with the same employer or, if there are no such persons, a figure of average hourly earnings which is reasonable in the circumstances.
+
+**3.**[^key-f10737d355747f95353c2f76ce19b414] Any payment to a safety representative by an employer in respect of a period of time off–
+
+- (a) if it is a payment which discharges any liability which the employer may have under section 57 of the 1975 Act in respect of that period, shall also discharge his liability in respect of the same period under Regulation 4(2) of these Regulations;—
+- (b) if it is a payment under any contractual obligation, shall go towards discharging the employer's liability in respect of the same period under Regulation 4(2) of these Regulations;
+- (c) if it is a payment under Regulation 4(2) of these Regulations shall go towards discharging any liability of the employer to pay contractual remuneration in respect of the same period.
+
+EXPLANATORY NOTE
+
+These Regulations give effect with modifications to proposals of the Health and Safety Commission submitted to the Secretary of State:—
+
+(*a*) providing for the appointment of safety representatives and prescribing their functions in relation to the employees they represent and their workplaces;
+
+(*b*) providing for time off with pay for safety representatives in order that they may perform their functions and undergo training in aspects of those functions; and
+
+(*c*) providing the cases in which it is the duty of employers to establish safety committees in accordance with the Regulations.
+
+The Regulations also modify Part III of Schedule 1 to the Trade Union and Labour Relations Act 1974 so as to extend the jurisdiction of industrial tribunals to enable them to deal with complaints by safety representatives relating to time off with pay.
+
+## Annotations
+
+[^key-9e1bf3a53c7bdc5b60116d0b982fcc4b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1977/500/regulation/1) in operation on 1.10.1978, see [reg. 1](https://www.legislation.gov.uk/uksi/1977/500/regulation/1)
+
+[^key-bd08adcd372dac8a9792d223aa0336e7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1977/500/regulation/2) in operation on 1.10.1978, see [reg. 1](https://www.legislation.gov.uk/uksi/1977/500/regulation/1)
+
+[^key-3e5a31c6dcb9683bc106f5d02bcfed19]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1977/500/regulation/2/1) revoked (1.4.2006) by virtue of [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/3/2/a)
+
+[^key-0d8893b7f50715f4efd7a6ba443c6571]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1977/500/regulation/2/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 31](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/31) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-f70bece3badc5dbb5907b493cd7c10e1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1977/500/regulation/2/1) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/562/article/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/5) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
+
+[^key-37e835eb712287471200981d78dc4538]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/1977/500/regulation/2A) revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/3/2/b)
+
+[^key-32520f1675e65813fe38c9142e0ab01f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1977/500/regulation/3) in operation on 1.10.1978, see [reg. 1](https://www.legislation.gov.uk/uksi/1977/500/regulation/1)
+
+[^key-ae20fe32b7057c6f63807223aaf00996]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1977/500/regulation/3/1) omitted (1.10.1996) by virtue of [The Health and Safety (Consultation with Employees) Regulations 1996 (S.I. 1996/1513)](https://www.legislation.gov.uk/uksi/1996/1513), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1), [13](https://www.legislation.gov.uk/uksi/1996/1513/regulation/13) (with [reg. 12](https://www.legislation.gov.uk/uksi/1996/1513/regulation/12))
+
+[^key-c2a97def9985e847a81831d4a1d1a985]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1977/500/regulation/4) in operation on 1.10.1978, see [reg. 1](https://www.legislation.gov.uk/uksi/1977/500/regulation/1)
+
+[^key-9ca99e49a4aaaa2ff3dfa3349f8a7b63]: Textual amendment: Words in [reg. 4(1)(f)](https://www.legislation.gov.uk/uksi/1977/500/regulation/4/1/f) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 32(2)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/32/2/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-ff7fddb46877e14b546626a22265c6a2]: Textual amendment: [Reg. 4(1)(g)](https://www.legislation.gov.uk/uksi/1977/500/regulation/4/1/g) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 32(2)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/32/2/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-4031fc27166edbda8f001a77dad0674d]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1977/500/regulation/4/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 32(2)(c)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/32/2/c) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-3509b190a4375f7a46401ff60f71c8b5]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/1977/500/regulation/4/2/b) substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+
+[^key-a4fd789f521021170ff2b71cc2f6aed7]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1977/500/regulation/4/2) substituted (14.4.1999) by [The Police (Health and Safety) Regulations 1999 (S.I. 1999/860)](https://www.legislation.gov.uk/uksi/1999/860), [regs. 1](https://www.legislation.gov.uk/uksi/1999/860/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/1999/860/regulation/3/4)
+
+[^key-e183a1dec2c2d79d2db7766d3afd3337]: Textual amendment: Reg. 4A inserted (1.1.1993) by [The Management of Health and Safety at Work Regulations 1992 (S.I. 1992/2051)](https://www.legislation.gov.uk/uksi/1992/2051), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2051/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/1992/2051/schedule) (with [reg. 2](https://www.legislation.gov.uk/uksi/1992/2051/regulation/2))
+
+[^key-fe8387e99290725a7a62dd4cca2ca6e7]: Textual amendment: Words in reg. 4A(1)(b) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
+
+[^key-9d6a4042e1a5a73a1f52a977c5717394]: Textual amendment: Words in reg. 4A(1)(b) substituted (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [41(1)](https://www.legislation.gov.uk/uksi/2005/1541/article/41/1) (with [arts. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49), [51](https://www.legislation.gov.uk/uksi/2005/1541/article/51)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
+
+[^key-1af145f1f5b5ea70609c458f5435d71f]: Textual amendment: Words in reg. 4A(1)(b) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) (No. 2) Order 2006 (S.S.I. 2006/457)](https://www.legislation.gov.uk/ssi/2006/457), [art. 1](https://www.legislation.gov.uk/ssi/2006/457/article/1), [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2006/457/schedule/1/paragraph/1)
+
+[^key-1107d3793deeb5d1b9ca63ba70c7210d]: Textual amendment: Words in [reg. 4A(1)(c)](https://www.legislation.gov.uk/uksi/1977/500/regulation/4A/1/c) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 33(1)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/33/1/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-5683d5715ba53c4c659958fd1f612974]: Textual amendment: Words in [reg. 4A(1)(d)](https://www.legislation.gov.uk/uksi/1977/500/regulation/4A/1/d) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 33(1)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/33/1/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-98a1b192bbca93c753125a97bbbabf12]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1977/500/regulation/5) in operation on 1.10.1978, see [reg. 1](https://www.legislation.gov.uk/uksi/1977/500/regulation/1)
+
+[^key-8479c79a459a9b3071d4699331b0bcd7]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1977/500/regulation/5/2) omitted (1.4.2008) by virtue of [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+
+[^key-4c91d8c5b2d94197ef5b3942a2d12c84]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1977/500/regulation/5/2) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 34(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/34/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-75dbd6cc5f20b743dfda8a163adeac6e]: Textual amendment: Reg. 5(2A) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 34(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/34/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-bdec46050d97ac545aa8c655c180af3a]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/1977/500/regulation/5/4) omitted (6.4.2015) by virtue of [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+
+[^key-e986a284d02edee031f6e4bc50461cd2]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/1977/500/regulation/5/4) inserted (1.1.2000) by [The Quarries Regulations 1999 (S.I. 1999/2024)](https://www.legislation.gov.uk/uksi/1999/2024), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II)
+
+[^key-d4085274218955fc98b07f8981808c8a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1977/500/regulation/6) in operation on 1.10.1978, see [reg. 1](https://www.legislation.gov.uk/uksi/1977/500/regulation/1)
+
+[^key-d98c2d7da9b5461650445f2ab861b2cd]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/1977/500/regulation/6/1) substituted (1.10.2013) by [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (S.I. 2013/1471)](https://www.legislation.gov.uk/uksi/2013/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/3), [18(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/2), [Sch. 4 Tables 1, 2](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) (with [regs. 18(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/3), [19](https://www.legislation.gov.uk/uksi/2013/1471/regulation/19))
+
+[^key-c0e106c112b9bc2a4a9a849e33a83e83]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/1977/500/regulation/6/3) substituted (1.10.2013) by [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (S.I. 2013/1471)](https://www.legislation.gov.uk/uksi/2013/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/3), [18(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/2), [Sch. 4 Tables 1, 2](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) (with [regs. 18(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/3), [19](https://www.legislation.gov.uk/uksi/2013/1471/regulation/19))
+
+[^key-79ba8950be1e98d80db497126233eb1f]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/1977/500/regulation/6/3) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 35](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/35) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-d90b63c9927481ab27a2b1414b62694e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1977/500/regulation/7) in operation on 1.10.1978, see [reg. 1](https://www.legislation.gov.uk/uksi/1977/500/regulation/1)
+
+[^key-8dc90cb327ae1532ed42e9f6a678ad51]: Modification: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/1977/500/regulation/7/1) modified (28.2.1994) by [The Railways (Safety Case) Regulations 1994 (S.I. 1994/237)](https://www.legislation.gov.uk/uksi/1994/237), [regs. 1](https://www.legislation.gov.uk/uksi/1994/237/regulation/1), [9(12)](https://www.legislation.gov.uk/uksi/1994/237/regulation/9/12) (with [Sch. 3](https://www.legislation.gov.uk/uksi/1994/237/schedule/3))
+
+[^key-51e1e9cf264141c5be8cb4f96bc3d5c8]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/1977/500/regulation/7/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 36](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/36) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-c1079370fcb6c28f21a61d5482dfbda9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1977/500/regulation/8) in operation on 1.10.1978, see [reg. 1](https://www.legislation.gov.uk/uksi/1977/500/regulation/1)
+
+[^key-d0a0518c33038803bc519a575ac2e1d1]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1977/500/regulation/9) in operation on 1.10.1978, see [reg. 1](https://www.legislation.gov.uk/uksi/1977/500/regulation/1)
+
+[^key-12ebf1c670d1258f846db7150b9a1625]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1977/500/regulation/10) in operation on 1.10.1978, see [reg. 1](https://www.legislation.gov.uk/uksi/1977/500/regulation/1)
+
+[^key-4f3cfc78c2d13949fa75d4f90ef9f843]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/1977/500/regulation/10) substituted (1.4.2008) by virtue of [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+
+[^key-8ec0ad5b06ec2d8ac5da950c36ae02a3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1977/500/regulation/11) in operation on 1.10.1978, see [reg. 1](https://www.legislation.gov.uk/uksi/1977/500/regulation/1)
+
+[^key-08cf7be26e9991a8371b743f22a9930c]: Textual amendment: Word in [reg. 11(2)](https://www.legislation.gov.uk/uksi/1977/500/regulation/11/2) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 1(1)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/1/1); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+
+[^key-1fd0b23cc9caaa7d31627077cc73a427]: Textual amendment: Reg. 11(2A) inserted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/8)
+
+[^key-4ba80e396d72b74938a3c89e77749070]: Textual amendment: Reg. 12 inserted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/9)
+
+[^key-49dff2c20c1f33aab5a987d14df7a07e]: Textual amendment: Word in [reg. 12(2)](https://www.legislation.gov.uk/uksi/1977/500/regulation/12/2) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/1/2/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+
+[^key-7906640a853054bd5503adfbcf3cc7af]: Textual amendment: Word in [reg. 12(3)](https://www.legislation.gov.uk/uksi/1977/500/regulation/12/3) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/1/2/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+
+[^key-bccf5d934d490f6bf88428b5d5f1e2fb]: Textual amendment: Word in [reg. 12(4)](https://www.legislation.gov.uk/uksi/1977/500/regulation/12/4) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/1/2/c); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+
+[^key-12805608553101e5c7fbea46b2e7f0c6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1977/500/schedule/1) revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/3/2/c)
+
+[^key-8fdd98348f8ddc23798d81dc8d9e2d07]: Textual amendment: Sch. renumbered as Sch. 2 (14.4.1999) by [The Police (Health and Safety) Regulations 1999 (S.I. 1999/860)](https://www.legislation.gov.uk/uksi/1999/860), [regs. 1](https://www.legislation.gov.uk/uksi/1999/860/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/1999/860/regulation/3/6)
+
+[^key-ad1c9e91d0eabd6b418bc6c03ae8c746]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/1977/500/schedule/paragraph/1) in operation on 1.10.1978, see [reg. 1](https://www.legislation.gov.uk/uksi/1977/500/regulation/1)
+
+[^key-77e92d35bc34b6618a19cbaa56cbe68b]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1977/500/schedule/paragraph/2) in operation on 1.10.1978, see [reg. 1](https://www.legislation.gov.uk/uksi/1977/500/regulation/1)
+
+[^key-f10737d355747f95353c2f76ce19b414]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1977/500/schedule/paragraph/3) in operation on 1.10.1978, see [reg. 1](https://www.legislation.gov.uk/uksi/1977/500/regulation/1)

@@ -1,0 +1,96 @@
+---
+title: Criminal Procedure (Scotland) Act 1995, section 107
+act: Criminal Procedure (Scotland) Act 1995
+section: '107'
+status: revised-with-pending-changes
+text_date: '2026-11-02'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1995/46/section/107
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Procedure (Scotland) Act 1995, section 107
+
+> **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 107. Leave to appeal.[^c15962961]
+
+*Extent: S*
+
+(1) The decision whether to grant leave to appeal for the purposes of section 106(1) of this Act shall be made by a judge of the High Court who shall—
+
+- (a)[^c18926101] if he considers that the documents mentioned in subsection (2) below disclose arguable grounds of appeal, grant leave to appeal and make such comments in writing as he considers appropriate; and
+- (b) in any other case—
+  - (i) refuse leave to appeal and give reasons in writing for the refusal; and
+  - (ii) where the appellant is on bail and the sentence imposed on his conviction is one of imprisonment, grant a warrant to apprehend and imprison him.
+
+(2) The documents referred to in subsection (1) above are—
+
+- (a) the note of appeal lodged under section 110(1)(a) of this Act;
+- (b) in the case of an appeal against conviction or sentence in a sheriff court, the certified copy or, as the case may be, the record of the proceedings at the trial;
+- (c) where the judge who presided at the trial furnishes a report under section 113 of this Act, that report; and
+- (d) where, by virtue of section 94(1) of this Act, a transcript of the charge to the jury of the judge who presided at the trial is delivered to the Clerk of Justiciary, that transcript.
+
+(2A)[^key-249751ffd5a2dbcb18495eebd7047a28] In respect of an appeal by virtue of section 11(7) of the Double Jeopardy (Scotland) Act 2011 (asp 16), the “report under section 113” in subsection (2)(c) means—
+
+- (a) the report of the judge who presided at the trial resulting in the appellant's acquittal for an offence mentioned in section 11(2) of that Act;
+- (b) where an appeal against conviction was taken before that acquittal, the report of the judge who presided at the trial resulting in the conviction in respect of which leave to appeal is sought prepared at that time; and
+- (c) any other report of that judge furnished under section 113.
+
+(3) A warrant granted under subsection (1)(b)(ii) above shall not take effect until the expiry of the period of 14 days mentioned in subsection (4) below (and if that period is extended under subsection (4A) below before the period being extended expires, until the expiry of the period as so extended)[^c18926041] without an application to the High Court for leave to appeal having been lodged by the appellant under subsection (4)[^c18926061] .
+
+(4) Where leave to appeal is refused under subsection (1) above the appellant may, within 14 days of intimation under subsection (10)[^c14470241] below, apply to the High Court for leave to appeal.
+
+(4A)[^c18926081] The High Court may, on cause shown, extend the period of 14 days mentioned in subsection (4) above, or that period as extended under this subsection, whether or not the period to be extended has expired (and if that period of 14 days has expired, whether or not it expired before section 62 of the Criminal Justice (Scotland) Act 2003 (asp 7) came into force).
+
+(5) In deciding an application under subsection (4) above the High Court shall—
+
+- (a) if, after considering the documents mentioned in subsection (2) above and the reasons for the refusal, the court is of the opinion that there are arguable grounds of appeal, grant leave to appeal and make such comments in writing as the court considers appropriate; and
+- (b) in any other case—
+  - (i) refuse leave to appeal and give reasons in writing for the refusal; and
+  - (ii) where the appellant is on bail and the sentence imposed on his conviction is one of imprisonment, grant a warrant to apprehend and imprison him.
+
+(6) Consideration whether to grant leave to appeal under subsection (1) or (5) above shall take place in chambers without the parties being present.
+
+(7) Comments in writing made under subsection (1)(a) or (5)(a) above may, without prejudice to the generality of that provision, specify the arguable grounds of appeal (whether or not they are contained in the note of appeal) on the basis of which leave to appeal is granted.
+
+(8) Where the arguable grounds of appeal are specified by virtue of subsection (7) above it shall not, except by leave of the High Court on cause shown, be competent for the appellant to found any aspect of his appeal on any ground of appeal contained in the note of appeal but not so specified.
+
+(9) Any application by the appellant for the leave of the High Court under subsection (8) above—
+
+- (a) shall be made within 14 days of the date of intimation under subsection (10) below[^c19800391] ; and
+- (b) shall, within 14 days of[^c19800721] that date, be intimated by the appellant to the Crown Agent.
+
+(9A)[^c19800561] The High Court may, on cause shown, extend the periods of 14 days mentioned in subsection (9) above.
+
+(10) The Clerk of Justiciary shall forthwith intimate—
+
+- (a) a decision under subsection (1) or (5) above; and
+- (b) in the case of a refusal of leave to appeal, the reasons for the decision,
+
+to the appellant or his solicitor and to the Crown Agent.
+
+## Annotations
+
+[^c15962961]: Modification: S. 107 applied (with modifications) (26.8.2002) by [Act of Adjournal (Criminal Procedure Rules) 1996 (S.I. 1996/513)](https://www.legislation.gov.uk/uksi/1996/513) , [rule 15](https://www.legislation.gov.uk/uksi/1996/513/rule/15) .15(4) (as inserted (26.8.2002) by [Act of Adjournal (Criminal Appeals) 2002 (S.S.I. 2002/387)](https://www.legislation.gov.uk/ssi/2002/387) , [para. 3(4)](https://www.legislation.gov.uk/ssi/2002/387/paragraph/3/4) )
+
+[^c18926101]: Modification: S. 107(1)(a) modified (27.10.2003) by [S.I. 1996/513](https://www.legislation.gov.uk/uksi/1996/513) , [rule 19B](https://www.legislation.gov.uk/uksi/1996/513/rule/19B) .1(3) (as inserted by [Act of Adjournal (Criminal Procedure Rules Amendment No. 2) (Miscellaneous) 2003 (S.S.I. 2003/468)](https://www.legislation.gov.uk/ssi/2003/468) , [rule 2(10)](https://www.legislation.gov.uk/ssi/2003/468/rule/2/10) )
+
+[^key-249751ffd5a2dbcb18495eebd7047a28]: Textual amendment: S. 107(2A) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [sch. para. 8](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/8); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+
+[^c18926041]: Textual amendment: Words in s. 107(3) inserted (27.6.2003) by Criminal Justice (Scotland) Act 2003(asp 7), {ss. 62(a)(i)}, 89; S.S.I. 2003.288, {art. 2}
+
+[^c18926061]: Textual amendment: Words in s. 107(3) substituted (27.6.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7) , [ss. 62(a)(ii)](https://www.legislation.gov.uk/asp/2003/7/section/62/a/ii) , [89](https://www.legislation.gov.uk/asp/2003/7/section/89) ; [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288) , [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2)
+
+[^c14470241]: Textual amendment: Words in s. 107(4) substituted (1.8.1997) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48) , [s. 62(1)](https://www.legislation.gov.uk/ukpga/1997/48/section/62/1) , [Sch. 1 para. 21(15)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/21/15) ; [S.I. 1997/1712](https://www.legislation.gov.uk/uksi/1997/1712) , [art. 3](https://www.legislation.gov.uk/uksi/1997/1712/article/3) , [Sch.](https://www.legislation.gov.uk/uksi/1997/1712/schedule) (subject to [arts. 4](https://www.legislation.gov.uk/uksi/1997/1712/article/4) , [5](https://www.legislation.gov.uk/uksi/1997/1712/article/5) )
+
+[^c18926081]: Textual amendment: S. 107(4A) inserted (27.6.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7) , [ss. 62(b)](https://www.legislation.gov.uk/asp/2003/7/section/62/b) , [89](https://www.legislation.gov.uk/asp/2003/7/section/89) ; [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288) , [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2)
+
+[^c19800391]: Textual amendment: Words in s. 107(9)(a) substituted (23.4.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6) , [ss. 80](https://www.legislation.gov.uk/asp/2007/6/section/80) , [84](https://www.legislation.gov.uk/asp/2007/6/section/84) , [Sch. para. 16(1)(a)(i)](https://www.legislation.gov.uk/asp/2007/6/schedule/paragraph/16/1/a/i) ; [S.S.I. 2007/250](https://www.legislation.gov.uk/ssi/2007/250) , [art. 3(i)](https://www.legislation.gov.uk/ssi/2007/250/article/3/i) (subject to [art. 4(2)](https://www.legislation.gov.uk/ssi/2007/250/article/4/2) )
+
+[^c19800721]: Textual amendment: Words in s. 107(9)(b) substituted (23.4.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6) , [ss. 80](https://www.legislation.gov.uk/asp/2007/6/section/80) , [84](https://www.legislation.gov.uk/asp/2007/6/section/84) , [Sch. para. 16(1)(a)(ii)](https://www.legislation.gov.uk/asp/2007/6/schedule/paragraph/16/1/a/ii) ; [S.S.I. 2007/250](https://www.legislation.gov.uk/ssi/2007/250) , [art. 3(i)](https://www.legislation.gov.uk/ssi/2007/250/article/3/i) (subject to [art. 4(2)](https://www.legislation.gov.uk/ssi/2007/250/article/4/2) )
+
+[^c19800561]: Textual amendment: S. 107(9A) inserted (23.4.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6) , [ss. 80](https://www.legislation.gov.uk/asp/2007/6/section/80) , [84](https://www.legislation.gov.uk/asp/2007/6/section/84) , [Sch. para. 16(1)(b)](https://www.legislation.gov.uk/asp/2007/6/schedule/paragraph/16/1/b) ; [S.S.I. 2007/250](https://www.legislation.gov.uk/ssi/2007/250) , [art. 3(i)](https://www.legislation.gov.uk/ssi/2007/250/article/3/i) (subject to [art. 4(2)](https://www.legislation.gov.uk/ssi/2007/250/article/4/2) )

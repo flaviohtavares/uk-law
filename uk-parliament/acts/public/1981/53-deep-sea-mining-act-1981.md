@@ -1,0 +1,541 @@
+---
+title: Deep Sea Mining Act 1981
+id: ukpga/1981/53
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1981-07-28'
+text_date: '2016-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1981/53
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1981/53/pdfs/ukpga_19810053_en.pdf
+- http://www.legislation.gov.uk/ukpga/1981/53/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Deep Sea Mining Act 1981
+
+> Text as at 2016-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Deep Sea Mining [^M_F_511bfd27-26ba-4286-b309-9d0c70ebd4c3]... Act 1981
+
+1981 c. 53
+
+An Act to make provision with respect to deep sea mining operations; and for purposes connected therewith.\]
+
+\[28th July 1981\][^key-3c9ec19a8d5678f333ad03cbc85e1ddd]
+
+## 1. Prohibition of unlicensed deep sea mining.[^c7424731]
+
+(1)[^key-451659504298fb13b923b009d543ddc9] A person to whom this section applies (“P”) may not explore for mineral resources of any description in any area of the deep sea bed unless—
+
+- (a) P holds an exploration licence (see section 2) which is in force or is the agent or employee of the holder of such a licence (acting in that capacity), and
+- (b) the licence relates to mineral resources of that description and to that area of the deep sea bed.
+
+(2) A person to whom this section applies (“P”) may not exploit mineral resources of any description in any area of the deep sea bed unless—
+
+- (a) P holds an exploitation licence (see section 2) which is in force or is the agent or employee of the holder of such a licence (acting in that capacity), and
+- (b) the licence relates to mineral resources of that description and to that area of the deep sea bed.
+
+(2A) Subsections (1) and (2) are subject to section 3A.
+
+(3) Any person who contravenes subsection (1) or (2) above shall be guilty of an offence and liable—
+
+- (a) on conviction on indictment, to a fine;
+- (b) on summary conviction, to a fine not exceeding the statutory maximum.
+
+(4) This section applies to any person who—
+
+- (a) is a United Kingdom national[^c7424741], a Scottish firm or a body incorporated under the law of any part of the United Kingdom; and
+- (b) is resident in any part of the United Kingdom.
+
+(5) Her Majesty may by Order in Council extend the application of this section—
+
+- (a) to all United Kingdom nationals, Scottish firms and bodies incorporated under the law of any part of the United Kingdom who are resident outside the United Kingdom or to such nationals, firms and bodies who are resident in any country specified in the Order;
+- (b) to bodies incorporated under the law of any of the Channel Islands, the Isle of Man, any colony [^c7424771]. . ..
+
+(6) In this Act—
+
+- “[^key-89c78d414e495685499205602189a1d5]**deep sea bed**” means the area of the sea bed situated beyond the limits of national jurisdiction of the United Kingdom or any other State;
+- “**mineral resource**” means a solid, liquid or gaseous mineral resource;
+- “[^c7424781] **United Kingdom national** ” means—
+- (a) a British citizen, a British Dependent Territories citizen , a British National (Overseas)[^c7424791] or a British Overseas citizen;
+- (b) a person who under the British Nationality Act 1981 is a British subject; or
+- (c) a British protected person (within the meaning of that Act).
+
+(7) In any proceedings, a certificate issued by the Secretary of State or the Scottish Ministers certifying that an area of the sea bed is beyond the limits of national jurisdiction of the United Kingdom or any other State[^key-782ef6623e825d56de6e962ea1f06c7d] shall be conclusive as to that fact; and any document purporting to be such a certificate shall be received in evidence and shall, unless the contrary is proved, be deemed to be such a certificate.
+
+## 2. Exploration and exploitation licences.
+
+(1)[^key-cb23ec88fad16c742ed03c806cc059b6] In this Act—
+
+- “**the Authority**” means the International Seabed Authority;
+- “**corresponding contract**” means—
+  - (a) in relation to an exploration licence, a contract which is granted by the Authority to the licensee and authorises exploration for the licensed mineral resource in the licensed area, and
+  - (b) in relation to an exploitation licence, a contract which is granted by the Authority to the licensee and authorises the exploitation of the licensed mineral resource in the licensed area;
+- “**exploration licence**” means a licence under this section authorising the licensee to explore for mineral resources of a description specified in the licence in an area so specified;
+- “**exploitation licence**” means a licence under this section authorising the licensee to exploit mineral resources of a description specified in the licence in an area so specified;
+- “**granted by the Authority**”, in relation to a contract, means granted by the Authority in accordance with Article 153 of the Convention;
+- “**plan of work**” means a programme of activities and expenditure.
+
+(2) Subject to [^key-95cbf4901a01d0abc277fb08ef6cd710]... and section 3 below, -[^key-b0403c9fb5c4766225621d00d00c0257]
+
+- (a) the Secretary of State may on payment of such fee as may with the consent of the Treasury be prescribed grant to such persons as the Secretary of State thinks fit exploration or exploitation licences, except where the Scottish Ministers have power to grant the exploration or exploitation licence in question;
+- (b) the Scottish Ministers may on payment of such fee as may be prescribed grant to such persons as they think fit exploration or exploitation licences.
+
+(3)[^key-641a28c7b44f69f3b45f7855060efa46] An exploration or exploitation licence—
+
+- (a) may be granted for such period as the Secretary of State thinks fit or, as the case may be, the Scottish Ministers think fit, and
+- (b) must not come into force before the date on which a corresponding contract comes into force.
+
+(3A) An exploration or exploitation licence may contain such terms and conditions as the Secretary of State thinks fit or, as the case may be, the Scottish Ministers think fit, including, in particular, terms and conditions—
+
+- (a) relating to the safety, health or welfare of persons employed in the licensed operations or in the ancillary operations;
+- (b) relating to the processing or other treatment of any mineral resources extracted in pursuance of the licence which is carried out by or on behalf of the licensee on any ship;
+- (c) relating to the disposal of any waste material resulting from such processing or other treatment;
+- (d) requiring plans, returns, accounts or other records with respect to any matter connected with the licensed mineral resource and the licensed area or licensed operations or ancillary operations, to be provided to the Secretary of State or, as the case may be, the Scottish Ministers;
+- (e) requiring samples of the licensed mineral resource discovered in or extracted from the licensed area, or assays of such samples, to be provided to the Secretary of State or, as the case may be, the Scottish Ministers;
+- (f) requiring any exploration for or exploitation of the licensed mineral resource in the licensed area to be diligently carried out;
+- (g) requiring the licensee to comply with such provisions of the Convention and the Agreement, interpreted in accordance with Article 2 of the Agreement, as are applicable to contractors;
+- (h) requiring compliance with any other rules, regulations and procedures issued or adopted by the Authority, as are applicable to contractors;
+- (i) requiring compliance with a corresponding contract;
+- (j) requiring compliance with any plan of work authorised by a corresponding contract;
+- (k) requiring payment to the Secretary of State of such sums as may with the consent of the Treasury be prescribed at such times as may be prescribed;
+- (l) requiring payment to the Scottish Ministers of such sums as may be prescribed at such times as may be prescribed; and
+- (m) permitting the transfer of the licence in prescribed cases or with the written consent of the Secretary of State or, as the case may be, the Scottish Ministers.
+
+(4)[^key-7ccde831414f27189ac299c544ddd8bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-258d48bf6b0e1669b31274a3d98be5fd] Where the Secretary of State has, or the Scottish Ministers have, granted an exploration licence, neither the Secretary of State nor the Scottish Ministers may grant an exploitation licence which relates to any part of the licensed area in relation to the exploration licence and to any of the mineral resources to which that licence relates unless the exploitation licence is granted—
+
+- (a) to the holder of the exploration licence, or
+- (b) with that person's written consent.
+
+(6) Any fees or other sums received by the Secretary of State under this section shall be paid into the Consolidated Fund.
+
+## 3. Contracts granted by the Authority[^key-941b81cfeb357a0e32f814b54caab965]
+
+(1) Neither the Secretary of State nor the Scottish Ministers may grant an exploration or exploitation licence which relates to—
+
+- (a) any area of the deep sea bed in respect of which a contract granted by the Authority is in force, and
+- (b) any description of mineral resources to which the contract relates.
+
+(2) Subsection (1) does not apply where the contract is a corresponding contract in relation to a licence previously granted by the Secretary of State or the Scottish Ministers.
+
+(3) For the purposes of any proceedings a contract granted by the Authority may be proved by the production of a copy of the contract certified to be a true copy by an official of the Authority; and any document purporting to be such a copy is to be received in evidence and is to be deemed to be such a contract unless the contrary is proved.
+
+## 3A. Exemptions from prohibition in section 1
+
+(1) A person to whom section 1 applies (“P”) is not prohibited by that section from prospecting for mineral resources in any area of the deep sea bed if P does so in accordance with the terms of a notification of prospecting—
+
+- (a) given by P to the Authority under the Convention, and
+- (b) recorded by the Authority as complying with the requirements of the Convention.
+
+(2) Where a person to whom section 1 applies holds a contract for exploration granted by the Authority or is the agent or employee of the holder of such a contract (acting in that capacity), that person is not prohibited by that section from exploring for any of the description of mineral resources to which the contract relates in any area of the deep sea bed in respect of which the contract is in force.
+
+(3) Where a person to whom section 1 applies holds a contract for exploitation granted by the Authority or is the agent or employee of the holder of such a contract (acting in that capacity), that person is not prohibited by that section from exploiting any of the description of mineral resources to which the contract relates in any area of the deep sea bed in respect of which the contract is in force.
+
+## 4. Prevention of interference with licensed operations.
+
+(1) A person to whom section 1 above applies shall not intentionally interfere with any operations carried on in pursuance of—[^key-84e01753a21d6ac81e9c31057b7a7a2b]
+
+- (a) a contract granted by the Authority; or
+- (b) an exploration or exploitation licence.
+
+(2) Any person who contravenes subsection (1) above shall be guilty of an offence and liable—
+
+- (a) on conviction on indictment, to a fine;
+- (b) on summary conviction, to a fine not exceeding the statutory maximum.
+
+## 5. Protection of the marine environment.
+
+(1) In determining whether to grant an exploration or exploitation licence the Secretary of State or, as the case may be, the Scottish Ministers[^key-5e68ab75c0313842946900c7ec202391] shall have regard to the need to protect (so far as reasonably practicable) marine creatures, plants and other organisms and their habitat from any harmful effects which might result from any activities to be authorised by the licence; and the Secretary of State or the Scottish Ministers[^key-ce976c09bb8a3d914a94ac8c1655c5bd] shall consider any representations made to him (or them)[^key-e8c7934e66806d14cd21c4192be4c56c] concerning such effects.
+
+(2) Without prejudice to section 2(3A)[^key-49478a3163d864781cba741fec8cc394] above, any exploration or exploitation licence granted by the Secretary of State or the Scottish Ministers[^key-16f54381f47ca19c58c7ef3cfca1ec17] shall contain such terms and conditions as he considers (or they consider)[^key-1054ece0b25bc3c57ce386595b07f882] necessary or expedient to avoid or minimise any such harmful effects.
+
+## 6. Variation and revocation of licences.
+
+(1) The Secretary of State may vary or revoke any exploration or exploitation licence—
+
+- (a) where the variation or revocation is in the opinion of the Secretary of State required—
+  - (i) to ensure the safety, health or welfare of persons engaged in any of the licensed operations or ancillary operations; or
+  - (ii) to protect any marine creatures, plants or other organisms or their habitat; or
+  - (iii) in pursuance of section 8 below; or
+  - (iv) to avoid a conflict with any obligation of the United Kingdom arising out of any international agreement in force for the United Kingdom;
+- (b) in any case, with the consent of the licensee.
+
+(2) The Secretary of State may revoke an exploration or exploitation licence in any case where a term or condition of the licence or any regulation made under this Act has not been complied with.
+
+(3)[^key-adce38a5c63075eecfebfecfb89c7438] This section applies in relation to an exploration or exploitation licence granted by the Scottish Ministers as if references to the Secretary of State were references to the Scottish Ministers.
+
+## 7. Freedom of the high seas.
+
+It shall be the duty of the licensee to exercise his rights under the licence with reasonable regard to the interests of other persons in their exercise of the freedom of the high seas.
+
+## 8. Foreign discriminatory action.
+
+(1) This section applies to any ship which is registered in a country of which the government (or an agency or authority of the government), in the opinion of the Secretary of State or, as the case may be, the Scottish Ministers[^key-59421d1944070d814574b1af31e99491], has adopted or is proposing to adopt discriminatory measures or practices prohibiting or otherwise restricting the use in connection with any deep sea bed mining operations of ships registered in the United Kingdom.
+
+(2) Without prejudice to section 2(3A) above, the Secretary of State or the Scottish Ministers[^key-7c055f150b54ddedd261a9cf9da94fe3] may include in any exploration or exploitation licence, either on granting the licence or by a subsequent variation, such terms and conditions as he considers (or they consider)[^key-980d52ddcc988fda7f30fe85fe8b85f1] expedient for prohibiting or otherwise restricting the use in connection with the licensed operations or any ancillary operations of any ship to which this section applies.
+
+(3) The Secretary of State may by order extend this section to ships which are registered in any country of which the government (or any agency or authority of the government), in his opinion, has adopted or is proposing to adopt discriminatory measures or practices prohibiting or otherwise restricting the use in connection with any deep sea bed mining operations of ships registered in the Channel Islands, the Isle of Man or any colony.
+
+(4) In this section, references to an agency or authority of a government include references to any undertaking appearing to the Secretary of State or, as the case may be, the Scottish Ministers[^key-fbda15cb2fe479f9eb01583d1b66416a] to be, or to be acting on behalf of, an undertaking which is in effect owned or controlled (directly or indirectly) by a State other than the United Kingdom.
+
+## 8A. Enforcement of decisions of the Seabed Disputes Chamber[^key-51727ae278d2115bb5ad058537052c35]
+
+(1) A decision of the Seabed Disputes Chamber of the Tribunal in relation to a dispute of a type described in Article 187(c), (d) or (e) of the Convention may be registered in the High Court or the Court of Session (“the registering court”) in such manner as may be prescribed by rules of court.
+
+(2) Where a decision is registered under this section, it is to be treated for the following purposes as if it had been originally given by the registering court and had (where relevant) been entered—
+
+- (a) its force and effect for the purposes of enforcement;
+- (b) the powers of the registering court in relation to its enforcement;
+- (c) the taking of proceedings for or with respect to its enforcement.
+
+(3) Where a decision registered under this section provides for payment of a sum of money, the debt resulting from the registration is to carry interest as if the decision were a judgment of the registering court and the debt had become due on the date of registration.
+
+(4) Where a decision is registered under this section, the reasonable costs and expenses of and incidental to its registration are to be recoverable as if they were sums recoverable under the decision.
+
+(5) Costs or expenses recoverable by virtue of subsection (4) are to carry interest as if they were the subject of an order for costs and expenses made by the registering court on the date of registration.
+
+(6) Subsection (2) is subject to any provision made by rules of court as to the manner in which and conditions subject to which a decision registered under this section may be enforced.
+
+(7) In the application of this section in relation to Scotland references to costs are to be disregarded.
+
+## 8B. Proof and admissibility of decisions of the Seabed Disputes Chamber
+
+(1) For the purposes of section 8A a document, duly authenticated, which purports to be a copy of a decision given by the Seabed Disputes Chamber of the Tribunal is without further proof to be taken to be a true copy, unless the contrary is shown
+
+(2) A document purporting to be a copy of a decision given by the Seabed Disputes Chamber of the Tribunal is duly authenticated for the purposes of this section if it purports—
+
+- (a) to bear the seal of the Tribunal, or
+- (b) to be certified by any person in the person's capacity as a judge of the Tribunal, the Registrar of the Tribunal or a member of the staff of the Registrar to be a true copy of a decision given by the Tribunal.
+
+(3) Nothing in this section prejudices the admission in evidence of any document which is admissible apart from this section.
+
+## 8C. Recognition and enforcement of arbitration awards
+
+An award made in pursuance of Article 188(2)(a) of the Convention (disputes concerning interpretation or application of contracts)—
+
+- (a) is to be treated for the purposes of Part 3 of the Arbitration Act 1996 (recognition and enforcement of certain foreign awards) as a New York Convention award, and
+- (b) is to be treated for the purposes of sections 18 to 22 of the Arbitration (Scotland) Act 2010 (which make similar provision for Scotland) as a Convention award,
+
+whether or not (in either case) it would be so treated apart from this section.
+
+## 9. The Deep Sea Mining Levy.[^key-5fc5bc1ee704800e70f4f68d2e317930]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. The Deep Sea Mining Fund.[^key-732a47f7539e884431ec14eb8700ef3a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Inspectors.
+
+(1) The Secretary of State or the Scottish Ministers[^key-528790a6d81c9b6ca42b4134beed8c61] may appoint as inspectors to discharge such functions as may be prescribed and generally to assist him (or them)[^key-af00defd0259ff8e9fbb452a12db2583] in the execution of this Act such persons appearing to him (or them) to be qualified for the purpose as he considers (or they consider)[^key-e21b44894d806def43d48dd7fa228497] appropriate from time to time.
+
+(2) The Secretary of State or the Scottish Ministers[^key-bc3b98305bb389f69706e672e8723de6] may make to or in respect of any inspector appointed under subsection (1) above such payments by way of remuneration or otherwise as the Secretary of State or, as the case may be, the Scottish Ministers, may determine with the approval (in the case of an appointment by the Secretary of State)[^key-d9582d833f260c3c423c30c2c95ffe4a] of the Minister for the Civil Service.
+
+## 12. Regulations and orders[^key-b1f82d3f0d29d1140a8ee5ebe94d0e63]
+
+(1) The Secretary of State may make regulations—
+
+- (a) prescribing anything required or authorised to be prescribed under this Act in relation to an exploration or exploitation licence granted or to be granted by the Secretary of State;
+- (b) generally for carrying this Act into effect, except where the Scottish Ministers have power to make provision under subsection (2)(b).
+
+(2) The Scottish Ministers may make regulations—
+
+- (a) prescribing anything required or authorised to be prescribed under this Act in relation to an exploration or exploitation licence granted or to be granted by the Scottish Ministers;
+- (b) generally for carrying this Act into effect.
+
+(3) Regulations under this section may, in particular, make provision with respect to any of the matters mentioned in the Schedule.
+
+(4) Regulations under this section may make different provision for different cases or classes of case and may exclude the operation of any provision of the regulations in specified cases.
+
+(5) Any power of the Secretary of State to make regulations or an order under this Act is exercisable by statutory instrument.
+
+(6) A statutory instrument containing regulations made under this Act by the Secretary of State is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) Regulations under subsection (2) are subject to the negative procedure, within the meaning of section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010.
+
+## 13. Disclosure of information.
+
+(1) A person shall not disclose any information which he has received in pursuance of this Act and which relates to any other person except—
+
+- (a) with the written consent of that other person; or
+- (b) to the Treasury, the Commissioners of Inland Revenue , the Secretary of State or the Scottish Ministers[^key-04de8b60bd3a00aa21aa2f52211d3d09]; or
+- (c) with a view to the institution of or otherwise for the purposes of any criminal proceedings under this Act or regulations made under this Act: or
+- (d) in accordance with regulations made under this Act; or
+- (e)[^key-aa722d170b13ac8e1f4605678f607ee1] to the Authority.
+
+(2) Any person who discloses any information in contravention of subsection (1) above shall be guilty of an offence and liable—
+
+- (a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both;
+- (b) on summary conviction, to a fine not exceeding the statutory maximum.
+
+## 14. Supplementary provisions relating to offences.[^c7424881]
+
+(1) Proceedings for an offence under this Act or under regulations made under this Act may be taken, and the offence may for incidental purposes be treated as having been committed, in any place in the United Kingdom.
+
+(2) Proceedings for such an offence shall not be instituted in England and Wales or Northern Ireland except—
+
+- (a) in the case of proceedings in England and Wales, by or with the consent of the Director of Public Prosecutions; or
+- (b) in the case of proceedings in Northern Ireland, by or with the consent of the Director of Public Prosecutions for Northern Ireland; or
+- (c) in any case, by the Secretary of State or a person authorised by him in that behalf.
+
+(3) A person may be guilty of an offence under regulations made under this Act whether or not he is a British citizen, a British Dependent Territories citizen[^c7424891], a British National (Overseas)[^c7424901]or a British Overseas citizen or, in the case of a body corporate, it is incorporated under the law of any part of the United Kingdom.
+
+(4) Where an offence has been committed by a body corporate and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+In this subsection “**director**”, in relation to a body corporate which—
+
+- (a) is established by or under any enactment for the purpose of carrying on under public ownership any industry or part of an industry or undertaking; and
+- (b) is a body whose affairs are managed by its members,
+
+means a member of the body corporate.
+
+(5) In any proceedings for an offence of failing to comply with any provision of this Act or of regulations made under this Act, it shall be a defence to prove that the accused used all due diligence to comply with that provision.
+
+(6)[^c7424921] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 15. Civil liability for breach of statutory duty.
+
+(1) Breach of a duty imposed on any person by a provision of regulations made in pursuance of section 12 above which state that this subsection applies to such a breach shall be actionable so far, and only so far, as the breach causes personal injury; and references in section 1 of the [^c7424931]Fatal Accidents Act 1976 and in Article 3(1) of the [^c7424941]Fatal Accidents (Northern Ireland) Order 1977 to a wrongful act, neglect or default shall include references to any such breach which is so actionable.
+
+(2) Nothing in subsection (1) above shall prejudice any action which lies apart from the provisions of that subsection.
+
+(3) A defence to a charge which is available by virtue of section 14(5) above or by virtue of regulations made under this Act shall not be a defence in any civil proceedings, whether brought in pursuance of this section or otherwise.
+
+(4) In subsection (1) above, “**personal injury**” includes any disease, any impairment of a person’s physical or mental condition and any fatal injury.
+
+## 16. Exclusion of certain legislation[^key-eed9a94e1fc851f11ca9424a2b763111]
+
+(1) Nothing in the following enactments applies to anything done in pursuance of an exploration or exploitation licence or a contract granted by the Authority.
+
+(2) Those enactments are—
+
+- (a) Part 2 of the Food and Environment Protection Act 1985 (deposits in the sea);
+- (b) Part 4 of the Marine and Coastal Access Act 2009 (marine licensing);
+- (c) Part 4 of the Marine (Scotland) Act 2010 (marine licensing).
+
+## 17. Interpretation
+
+In this Act—
+
+- “**the Agreement**” means the Agreement relating to the Implementation of Part XI of the United Nations Convention on the Law of the Sea of December 1982;
+- “**ancillary operations**”, in relation to any licensed operations, means any activity carried on by or on behalf of the licensee which is ancillary to the licensed operations (including the processing and transportation of any substances recovered);
+- “**the Authority**” has the meaning given by section 2;
+- “**the Convention**” means the United Nations Convention on the Law of the Sea;
+- “**corresponding contract**” has the meaning given by section 2;
+- “**deep sea bed**” has the meaning given by section 1;
+- “**deep sea bed mining operations**” means any exploration or exploitation of the mineral resources of the deep sea bed;
+- “**exploitation**” means commercial exploitation;
+- “**exploitation licence**” has the meaning given by section 2;
+- “**exploration**”, in relation to the mineral resources of any area of the deep sea bed, means the investigation of that area of the deep sea bed for the purpose of ascertaining whether or not the mineral resources of that area of the deep sea bed can be commercially exploited;
+- “**exploration licence**” has the meaning given by section 2;
+- “**granted by the Authority**”, in relation to a contract, has the meaning given by section 2;
+- “**inspector**” means a person appointed as inspector under section 11;
+- “**licensed area**” in relation to a licence, means the area of the deep sea bed specified in the licence;
+- “**licensed mineral resource**” in relation to a licence, means the description of mineral resource specified in the licence;
+- “**licensed operations**” means any activities which the licensee may carry on by virtue of their licence;
+- “**licensee**” means the holder of an exploration or exploitation licence;
+- “**mineral resource**” has the meaning given by section 1;
+- “**plan of work**” has the meaning given by section 2;
+- “prescribed” (except where used in relation to rules of court) means prescribed by regulations under section 12;
+- “**prospecting**” in relation to the mineral resources of any area of the deep sea bed, means searching for mineral resources in that area of the deep sea bed and may include estimating the composition, size, distribution and economic values of such mineral resources;
+- “**ship**” includes every description of vessel used in navigation;
+- “**the Tribunal**” means the International Tribunal for the Law of the Sea.
+
+## 17A. Exercise of functions by the Scottish Ministers[^key-b1402bfaaa9b06bd67e231decb9831fe]
+
+Any provision of this Act which confers a function on the Scottish Ministers is to be read as conferring a function exercisable only so far as within devolved competence (within the meaning of section 54 of the Scotland Act 1998).
+
+## 18. Short title, etc.
+
+(1)[^c7424991] This Act may be cited as the Deep Sea Mining [^key-e26c9f8e3c483ea8db67585993f1e464]... Act 1981.
+
+(2)[^c7425001] This Act shall come into force on such day as the Secretary of State may by order appoint; and different days may be appointed under this subsection for different purposes.
+
+(3)[^key-f92a357a7c02176a84be58c435f9d92c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-f92a357a7c02176a84be58c435f9d92c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-f92a357a7c02176a84be58c435f9d92c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-62fa07bc5968eb5dbb73db62ba422209] Her Majesty may by Order in Council direct that any of the provisions of this Act shall extend, with such modifications (if any) as may be specified in the Order, to the Channel Islands, the Isle of Man or any colony.
+
+(7) It is hereby declared that this Act extends to Northern Ireland.
+
+SCHEDULE
+
+## SCHEDULE — Subject Matter of Regulations
+
+Section 12.
+
+### General
+
+**1.** Form and content of applications.
+
+**2.** Evidence to be submitted in support of applications, the form in which it is to be submitted and the time within which it is to be submitted.
+
+**3.** The safety, health or welfare of persons employed in any licensed operations or in any ancillary operations.
+
+**4.** The holding of inquiries into accidents occurring in the course of any licensed operations.
+
+**5.** The prohibition of any method of working which in the opinion of the Secretary of State (or, in the case of regulations made under section 12(2), the Scottish Ministers)[^key-d73231b931331729d69923c7f7c9cd14] is or is likely to be harmful to any marine creatures, plants or other organisms or their habitat.
+
+### Provisions relating to inspectors
+
+**6.** Powers of inspectors to board, and to obtain access to all parts of, any ship used for exploration or exploitation, and to obtain information and to inspect and take copies from any log book or other document.
+
+**7.** Powers of inspectors to test equipment and, in special circumstances, to dismantle, test to destruction or take possession of any article of equipment.
+
+**8.** Powers of inspectors to require, in connection with the survey or inspection of any equipment, the carrying out of procedures by such persons as may be specified in the regulations.
+
+**9.** Rights of inspectors to require, on payment of reasonable costs, conveyance to and from any ship used in connection with any licensed operations, together with any equipment required by an inspector for testing, or any equipment of which he has taken possession in special circumstances.
+
+**10.** Duties to provide inspectors with reasonable accommodation and means of subsistence while on any ship in exercise of their functions under this Act.
+
+**11.** Powers to be exercisable by inspectors in case of immediate or apprehended danger.
+
+### Offences
+
+**12.** Regulations may provide that any prescribed breach of regulations shall be an indictable offence or a summary offence or an offence triable either way and punishable with a fine of such amount as may be prescribed but not exceeding, in the case of summary conviction, the statutory maximum.
+
+**13.** Regulations may afford such defence, if any, as may be prescribed in relation to any offence created by regulations made under this Act.
+
+## Annotations
+
+[^M_F_511bfd27-26ba-4286-b309-9d0c70ebd4c3]: Textual amendment: Words in Act title omitted (14.7.2014) by virtue of [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 16(2)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/16/2)
+
+[^key-3c9ec19a8d5678f333ad03cbc85e1ddd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/53) extended (with modifications) (Isle of Man) (1.1.2016) by [The Deep Sea Mining Act 1981 (Isle of Man) Order 2015 (S.I. 2015/2012)](https://www.legislation.gov.uk/uksi/2015/2012), [art. 2](https://www.legislation.gov.uk/uksi/2015/2012/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/2012/schedule)
+
+[^c7424731]: Modification: S. 1 extended (19.1.1998) by [S.I. 1997/2978](https://www.legislation.gov.uk/uksi/1997/2978), [art. 3](https://www.legislation.gov.uk/uksi/1997/2978/article/3)
+
+    S. 1 extended (with modifications)(Guernsey)(19.1.1998) by [S.I. 1997/2978](https://www.legislation.gov.uk/uksi/1997/2978), [art. 4](https://www.legislation.gov.uk/uksi/1997/2978/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1997/2978/schedule)
+
+    S. 1 extended (19.1.1998) by [S.I. 1997/2979](https://www.legislation.gov.uk/uksi/1997/2979), [art. 3](https://www.legislation.gov.uk/uksi/1997/2979/article/3)
+
+    S. 1 extended (with modifications)(Jersey) (19.1.1998) by [S.I. 1997/2979](https://www.legislation.gov.uk/uksi/1997/2979), [art. 4](https://www.legislation.gov.uk/uksi/1997/2979/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1997/2979/schedule)
+
+    S. 1 extended (1.5.2000) by [S.I. 2000/1112](https://www.legislation.gov.uk/uksi/2000/1112), [art. 2](https://www.legislation.gov.uk/uksi/2000/1112/article/2)
+
+    S. 1 extended (with modifications) (Isle of Man) (1.5.2000) by [S.I. 2000/1112](https://www.legislation.gov.uk/uksi/2000/1112), [art. 3](https://www.legislation.gov.uk/uksi/2000/1112/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/1112/schedule/1)
+
+[^key-451659504298fb13b923b009d543ddc9]: Textual amendment: [S. 1(1)-(2A)](https://www.legislation.gov.uk/ukpga/1981/53/section/1/1) substituted for [s. 1(1)(2)](https://www.legislation.gov.uk/ukpga/1981/53/section/1/1) (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 2(2)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/2/2)
+
+[^c7424741]: Textual amendment: Words substituted by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/61/schedule/7)
+
+[^c7424771]: Textual amendment: Words in s. 1(5)(b) repealed (8.11.1995) by [1995 c. 44](https://www.legislation.gov.uk/ukpga/1995/44), [s. 1](https://www.legislation.gov.uk/ukpga/1995/44/section/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1995/44/schedule/1/part/II) Group 1
+
+[^key-89c78d414e495685499205602189a1d5]: Textual amendment: Words in [s. 1(6)](https://www.legislation.gov.uk/ukpga/1981/53/section/1/6) substituted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/2/3)
+
+[^c7424781]: Textual amendment: Words substituted by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [s. 52(7)](https://www.legislation.gov.uk/ukpga/1981/61/section/52/7), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/61/schedule/7)
+
+[^c7424791]: Textual amendment: Words inserted by [S.I. 1986/948](https://www.legislation.gov.uk/uksi/1986/948), [art. 8](https://www.legislation.gov.uk/uksi/1986/948/article/8), [Sch.](https://www.legislation.gov.uk/uksi/1986/948/schedule)
+
+[^key-782ef6623e825d56de6e962ea1f06c7d]: Textual amendment: Words in [s. 1(7)](https://www.legislation.gov.uk/ukpga/1981/53/section/1/7) substituted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 2(4)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/2/4)
+
+[^key-cb23ec88fad16c742ed03c806cc059b6]: Textual amendment: [S. 2(1)](https://www.legislation.gov.uk/ukpga/1981/53/section/2/1) substituted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 3(2)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/3/2)
+
+[^key-95cbf4901a01d0abc277fb08ef6cd710]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/ukpga/1981/53/section/2/2) omitted (14.7.2014) by virtue of [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/3/3/a)
+
+[^key-b0403c9fb5c4766225621d00d00c0257]: Textual amendment: [S. 2(2)(a)](https://www.legislation.gov.uk/ukpga/1981/53/section/2/2/a)[(b)](https://www.legislation.gov.uk/ukpga/1981/53/section/2/2/b) substituted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/3/3/b)
+
+[^key-641a28c7b44f69f3b45f7855060efa46]: Textual amendment: [S. 2(3)](https://www.legislation.gov.uk/ukpga/1981/53/section/2/3)[(3A)](https://www.legislation.gov.uk/ukpga/1981/53/section/2/3A) substituted for [s. 2(3)](https://www.legislation.gov.uk/ukpga/1981/53/section/2/3) (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 3(4)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/3/4)
+
+[^key-7ccde831414f27189ac299c544ddd8bd]: Textual amendment: [S. 2(4)](https://www.legislation.gov.uk/ukpga/1981/53/section/2/4) omitted (14.7.2014) by virtue of [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 3(5)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/3/5)
+
+[^key-258d48bf6b0e1669b31274a3d98be5fd]: Textual amendment: [S. 2(5)](https://www.legislation.gov.uk/ukpga/1981/53/section/2/5) substituted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 3(6)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/3/6)
+
+[^key-941b81cfeb357a0e32f814b54caab965]: Textual amendment: Ss. 3, 3A substituted for s. 3 (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/4)
+
+[^key-84e01753a21d6ac81e9c31057b7a7a2b]: Textual amendment: S. 4(1)(a)(b) and words substituted for words (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/5)
+
+[^key-5e68ab75c0313842946900c7ec202391]: Textual amendment: Words in s. 5(1) inserted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 6(a)(i)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/6/a/i)
+
+[^key-ce976c09bb8a3d914a94ac8c1655c5bd]: Textual amendment: Words in s. 5(1) inserted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 6(a)(ii)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/6/a/ii)
+
+[^key-e8c7934e66806d14cd21c4192be4c56c]: Textual amendment: Words in s. 5(1) inserted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 6(a)(iii)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/6/a/iii)
+
+[^key-49478a3163d864781cba741fec8cc394]: Textual amendment: Words in s. 5(2) substituted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 6(b)(i)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/6/b/i)
+
+[^key-16f54381f47ca19c58c7ef3cfca1ec17]: Textual amendment: Words in s. 5(2) inserted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 6(b)(ii)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/6/b/ii)
+
+[^key-1054ece0b25bc3c57ce386595b07f882]: Textual amendment: Words in s. 5(2) inserted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 6(b)(iii)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/6/b/iii)
+
+[^key-adce38a5c63075eecfebfecfb89c7438]: Textual amendment: [S. 6(3)](https://www.legislation.gov.uk/ukpga/1981/53/section/6/3) inserted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/7)
+
+[^key-59421d1944070d814574b1af31e99491]: Textual amendment: Words in s. 8(1) inserted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 8(a)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/8/a)
+
+[^key-7c055f150b54ddedd261a9cf9da94fe3]: Textual amendment: Words in s. 8(2) substituted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 8(b)(i)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/8/b/i)
+
+[^key-980d52ddcc988fda7f30fe85fe8b85f1]: Textual amendment: Words in s. 8(2) inserted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 8(b)(ii)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/8/b/ii)
+
+[^key-fbda15cb2fe479f9eb01583d1b66416a]: Textual amendment: Words in s. 8(4) inserted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 8(c)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/8/c)
+
+[^key-51727ae278d2115bb5ad058537052c35]: Textual amendment: Ss. 8A-8C inserted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/9)
+
+[^key-5fc5bc1ee704800e70f4f68d2e317930]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1981/53/section/9) omitted (14.7.2014) by virtue of [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/10)
+
+[^key-732a47f7539e884431ec14eb8700ef3a]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1981/53/section/10) omitted (14.7.2014) by virtue of [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/10)
+
+[^key-528790a6d81c9b6ca42b4134beed8c61]: Textual amendment: Words in s. 11(1) inserted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 11(a)(i)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/11/a/i)
+
+[^key-af00defd0259ff8e9fbb452a12db2583]: Textual amendment: Words in s. 11(1) inserted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 11(a)(ii)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/11/a/ii)
+
+[^key-e21b44894d806def43d48dd7fa228497]: Textual amendment: Words in s. 11(1) inserted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 11(a)(iii)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/11/a/iii)
+
+[^key-bc3b98305bb389f69706e672e8723de6]: Textual amendment: Words in s. 11(2) inserted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 11(b)(i)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/11/b/i)
+
+[^key-d9582d833f260c3c423c30c2c95ffe4a]: Textual amendment: Words in s. 11(2) substituted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 11(b)(ii)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/11/b/ii)
+
+[^key-b1f82d3f0d29d1140a8ee5ebe94d0e63]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/1981/53/section/12) substituted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/12)
+
+[^key-04de8b60bd3a00aa21aa2f52211d3d09]: Textual amendment: Words in [s. 13(1)(b)](https://www.legislation.gov.uk/ukpga/1981/53/section/13/1/b) substituted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 13(a)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/13/a)
+
+[^key-aa722d170b13ac8e1f4605678f607ee1]: Textual amendment: [S. 13(1)(e)](https://www.legislation.gov.uk/ukpga/1981/53/section/13/1/e) substituted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 13(b)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/13/b)
+
+[^c7424881]: Modification: S. 14 extended (with modifications)(Guernsey)(19.1.1998) by [S.I. 1997/2978](https://www.legislation.gov.uk/uksi/1997/2978), [art. 4](https://www.legislation.gov.uk/uksi/1997/2978/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1997/2978/schedule)
+
+    S. 14 extended (with modifications)(Jersey)(19.1.1998) by [S.I. 1997/2979](https://www.legislation.gov.uk/uksi/1997/2979), [art. 4](https://www.legislation.gov.uk/uksi/1997/2979/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1997/2979/schedule)
+
+    S. 14 extended (with modifications) (Isle of Man) (1.5.2000) by [S.I. 2000/1112](https://www.legislation.gov.uk/uksi/2000/1112), [art. 3](https://www.legislation.gov.uk/uksi/2000/1112/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2000/1112/schedule)
+
+[^c7424891]: Textual amendment: Words substituted by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [s. 52(7)](https://www.legislation.gov.uk/ukpga/1981/61/section/52/7), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/61/schedule/7)
+
+[^c7424901]: Textual amendment: Words inserted by [S.I. 1986/948](https://www.legislation.gov.uk/uksi/1986/948), [art. 8](https://www.legislation.gov.uk/uksi/1986/948/article/8), [Sch.](https://www.legislation.gov.uk/uksi/1986/948/schedule)
+
+[^c7424921]: Textual amendment: S. 14(6) repealed (5.11.1993) by 1993, c. 50, s. 1(1), Sch. 1, Pt.XIV
+
+[^c7424931]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30).
+
+[^c7424941]: Marginal citation: [S.I. 1971/1251](https://www.legislation.gov.uk/uksi/1971/1251). (N.I. 18).
+
+[^key-eed9a94e1fc851f11ca9424a2b763111]: Textual amendment: Ss. 16, 17 substituted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/14)
+
+[^key-b1402bfaaa9b06bd67e231decb9831fe]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/ukpga/1981/53/section/17A) inserted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/15)
+
+[^c7424991]: Modification: S. 18(1) extended (with modifications)(Guernsey)(19.1.1998) by [S.I. 1997/2978](https://www.legislation.gov.uk/uksi/1997/2978), [art. 4](https://www.legislation.gov.uk/uksi/1997/2978/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1997/2978/schedule)
+
+    S. 18(1) extended (with modifications) (Isle of Man) (1.5.2000) by [S.I. 2000/1112](https://www.legislation.gov.uk/uksi/2000/1112), [art. 3](https://www.legislation.gov.uk/uksi/2000/1112/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2000/1112/schedule)
+
+    S. 18(1) extended (with modifications)(Jersey)(19.1.1998) by [S.I. 1997/2979](https://www.legislation.gov.uk/uksi/1997/2979), [art. 4](https://www.legislation.gov.uk/uksi/1997/2979/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1997/2979/schedule)
+
+[^key-e26c9f8e3c483ea8db67585993f1e464]: Textual amendment: Words in s. 18(1) omitted (14.7.2014) by virtue of [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 16(2)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/16/2)
+
+[^c7425001]: Modification: Power of appointment conferred by s. 18(2) fully exercised: 25.1.1982 appointed by [S.I. 1982/52](https://www.legislation.gov.uk/uksi/1982/52), [art. 2](https://www.legislation.gov.uk/uksi/1982/52/article/2)
+
+[^key-f92a357a7c02176a84be58c435f9d92c]: Textual amendment: S. 18(3)-(5) omitted (14.7.2014) by virtue of [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 16(3)](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/16/3)
+
+[^key-62fa07bc5968eb5dbb73db62ba422209]: Modification: S. 18(6) applied (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/2)[(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3)
+
+[^key-d73231b931331729d69923c7f7c9cd14]: Textual amendment: Words in Sch. para. 5 inserted (14.7.2014) by [Deep Sea Mining Act 2014 (c. 15)](https://www.legislation.gov.uk/ukpga/2014/15), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2014/15/section/2/3), [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2014/15/schedule/paragraph/17)

@@ -1,0 +1,49 @@
+---
+title: Energy Act 2008, section 42
+act: Energy Act 2008
+section: '42'
+status: revised
+text_date: '2026-10-22'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2008/32/section/42
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2008, section 42
+
+> Text as at 2026-10-22.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 42. Power to amend licence conditions etc: procedure[^key-428af92430e59fd31b4a04f7caa7113a]
+
+*Extent: E+W+S*
+
+(1) Before making a modification, the Secretary of State must consult—
+
+- (a) the holder of any licence being modified,
+- (b) the Gas and Electricity Markets Authority, and
+- (c) such other persons as the Secretary of State considers appropriate.
+
+(2) Subsection (1) may be satisfied by consultation before, as well as by consultation after, the passing of this Act.
+
+(3) Before making modifications, the Secretary of State must lay a draft of the modifications before Parliament.
+
+(4) If, within the 40-day period, either House of Parliament resolves not to approve the draft, the Secretary of State may not take any further steps in relation to the proposed modifications.
+
+(5) If no such resolution is made within that period, the Secretary of State may make the modifications in the form of the draft.
+
+(6) Subsection (4) does not prevent a new draft of proposed modifications being laid before Parliament.
+
+(7) The Secretary of State must publish details of any modifications as soon as reasonably practicable after they are made.
+
+(8) In this section, “**40-day period**”, in relation to a draft of proposed modifications, means the period of 40 days beginning with the day on which the draft is laid before Parliament (or, if it is not laid before each House of Parliament on the same day, the later of the 2 days on which it is laid).
+
+(9) For the purposes of calculating the 40-day period, no account is to be taken of any period during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than 4 days.
+
+(10) In this section “**modification**” means a modification under section 41(1).
+
+## Annotations
+
+[^key-428af92430e59fd31b4a04f7caa7113a]: Commencement: S. 42 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2009/45/article/2/a/iv)

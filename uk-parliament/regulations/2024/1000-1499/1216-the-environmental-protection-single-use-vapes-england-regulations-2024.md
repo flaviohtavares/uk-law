@@ -1,0 +1,802 @@
+---
+title: The Environmental Protection (Single-use Vapes) (England) Regulations 2024
+id: uksi/2024/1216
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2024-11-25'
+text_date: '2025-06-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2024/1216
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2024/1216/pdfs/uksiem_20241216_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2024/1216/pdfs/uksi_20241216_en.pdf
+- http://www.legislation.gov.uk/uksi/2024/1216/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environmental Protection (Single-use Vapes) (England) Regulations 2024
+
+> Text as at 2025-06-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2024 No. 1216
+
+Environmental Protection, England
+
+The Environmental Protection (Single-use Vapes) (England) Regulations 2024
+
+Made
+
+25th November 2024
+
+Coming into force
+
+1st June 2025
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 140(1)(c), (3)(a), (c) and (d) and (9) of the Environmental Protection Act 1990[^f00001] (“**the 1990 Act**”) and section 62(2) of the Regulatory Enforcement and Sanctions Act 2008[^f00002] (“**the 2008 Act**”).
+
+The Secretary of State—
+
+- (a) has published a notice in the London Gazette as required by section 140(6)(b) of the 1990 Act[^f00003] and has considered the representations made in accordance with that notice;
+- (b) is satisfied in accordance with section 66 of the 2008 Act that local authorities (who are regulators for the purposes of these Regulations) will act in accordance with the principles referred to in section 5(2) of that Act in exercising a power conferred by these Regulations[^f00004];
+- (c) considers it appropriate to make these Regulations for the purpose of preventing the articles specified in them from causing pollution of the environment and harm to the health of animals and plants.
+
+In accordance with section 62(3) of the 2008 Act, a draft of these Regulations has been laid before, and approved by resolution of, each House of Parliament.
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement, extent and application[^key-598844a42c16b192b87a2e89f51ae046]
+
+(1) These Regulations may be cited as the Environmental Protection (Single-use Vapes) (England) Regulations 2024.
+
+(2) These Regulations come into force on 1st June 2025.
+
+(3) These Regulations extend to England and Wales and apply in relation to England only.
+
+### 2. Interpretation[^key-8d7ae6e830c8a1e9c34213402c3cf618]
+
+In these Regulations—
+
+- “**compliance notice**” has the meaning given by paragraph 1(1)(b) of the Schedule;
+- “**container**” means a cartridge, pod, tank, capsule or other any other receptacle designed to hold a vaping substance and to be used with a vape;
+- “**fixed monetary penalty**” has the meaning given by paragraph 1(1)(a) of the Schedule;
+- “**local authority**” means—
+  - (a) in relation to the City of London, the Common Council for the City of London,
+  - (b) in relation to an area in the rest of London, the London borough council for that area,
+  - (c) in relation to the Isles of Scilly, the Council of the Isles of Scilly,
+  - (d) in relation to an area in the rest of England, the county council for that area or, where there is no county council in that area, the district council for that area;
+- “**non-compliance penalty**” has the meaning given in paragraph 24(1) of the Schedule;
+- “**regulator**” means a local authority;
+- “**single-use vape**” has the meaning given by regulation 3;
+- “**stop notice**” has the meaning given by paragraph 9(2) of the Schedule;
+- “**supply**” means supply, whether by way of sale or not, in the course of a business;
+- “**third party undertaking**” has the meaning given by paragraph 3(1) of the Schedule;
+- “**vape**” means a device which—
+  - (a) vaporises substances, other than tobacco, for the purpose of inhalation through a mouthpiece (whether or not it also vaporises tobacco), and
+  - (b) is not a medical device within the meaning of regulation 2(1) of the Medical Devices Regulations 2002[^f00005] or a medicinal product within the meaning of regulation 2(1) of the Human Medicines Regulations 2012[^f00006];
+- “**vaping substance**” means a substance, other than tobacco, that is intended to be vaporised by a vape;
+- “**vaporises**” includes aerosolises (and “**vaporised**” is to be construed accordingly).
+
+### 3. Meaning of single-use vape[^key-c020f77be68e67cd4a840827ea14f01f]
+
+(1) A single-use vape is a vape which is not designed or intended to be re-used (a “single-use vape”) and includes any vape which is—
+
+- (a) not refillable,
+- (b) not rechargeable, or
+- (c) not refillable and not rechargeable.
+
+(2) For the purposes of this regulation, a vape is not refillable unless it is designed to include—
+
+- (a) a single-use container which is separately available and can be replaced by an individual user in the normal course of use, or
+- (b) a container which can be refilled by an individual user in the normal course of use.
+
+(3) For the purposes of this regulation, a vape is not rechargeable if it is designed to contain—
+
+- (a) a battery which cannot be recharged, or
+- (b) a coil which is not separately available and intended to be replaced by an individual user in the normal course of use, including any coil which is contained in a single-use cartridge or pod which is not separately available and cannot be replaced by an individual user in the normal course of use.
+
+(4) For the purposes of this regulation, “**separately available**” means available for purchase by an individual user.
+
+## PART 2 — Offences
+
+### 4. Offence: supply of single-use vapes[^key-79076332a09c2ac306d0c94521e8925c]
+
+(1) A person who supplies, offers to supply or has in their possession for supply a single-use vape is guilty of an offence[^f00007].
+
+(2) A person guilty of an offence under paragraph (1) is liable on summary conviction to a fine.
+
+### 5. Offence: failure to comply with an enforcement requirement[^key-5bd1534fd3438e4f736ebb5a505ebfdf]
+
+(1) A person who without reasonable excuse—
+
+- (a) fails to comply with any requirement imposed in the exercise of an enforcement officer’s powers under regulation 10(1)(c)(iii) or (g), or
+- (b) otherwise obstructs an enforcement officer in the exercise of the officer’s powers under regulation 10,
+
+is guilty of an offence.
+
+(2) A person guilty of an offence under paragraph (1) is liable on summary conviction to a fine.
+
+### 6. Offences by bodies corporate[^key-82769b322bedef5dca4ed7ff8e896e25]
+
+(1) Where an offence under these Regulations has been committed by a body corporate and it is proved that the offence—
+
+- (a) was committed with the consent or connivance of a person falling within paragraph (2), or
+- (b) is attributable to any neglect on the part of such a person,
+
+that person (as well as the body corporate) is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) The persons are—
+
+- (a) a director, manager, secretary or similar officer of the body corporate;
+- (b) any person purporting to act in such a capacity.
+
+(3) Where the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member, in connection with that management, as if the member were a director of the body corporate.
+
+### 7. Defence of due diligence[^key-ea9da04f713df4328ae86e84c8131d7b]
+
+(1) Subject to paragraphs (2) and (4), in proceedings for an offence under this Part it is a defence for the person charged (“**P**”) to show that P took all reasonable steps and exercised all due diligence to avoid committing the offence.
+
+(2) P may not rely on a defence under paragraph (1) which involves a third party allegation unless P has—
+
+- (a) served a notice in accordance with paragraph (3); or
+- (b) obtained the leave of the court.
+
+(3) The notice must—
+
+- (a) give any information in P’s possession which identifies or assists in identifying the person—
+  - (i) whose act or default is the subject of the third party allegation; or
+  - (ii) who supplied the information on which P relied; and
+- (b) be served on the person bringing the proceedings not less than 7 clear days before the hearing of the proceedings.
+
+(4) P may not rely on a defence under paragraph (1) which involves an allegation that the commission of the offence was due to reliance on information supplied by another person unless it was reasonable for P to have relied on the information, having regard in particular to—
+
+- (a) the steps that P took, and those which might reasonably have been taken, for the purposes of verifying the information; and
+- (b) whether P had any reason to disbelieve the information.
+
+(5) In this regulation, “**third party allegation**” means an allegation that the commission of the offence was due to—
+
+- (a) the act or default of another person; or
+- (b) reliance on information supplied by another person.
+
+## PART 3 — Enforcement and civil sanctions
+
+### 8. Enforcement[^key-1e3f3cdff2edced2faf0ddac34b3724e]
+
+(1) A regulator may authorise any person to exercise, for an authorised purpose and in accordance with the terms of the authorisation, any of the powers specified in regulation 10, if that person appears to the regulator suitable to exercise them.
+
+(2) An authorisation under paragraph (1) must be in writing.
+
+(3) In this Part—
+
+- “**authorised purpose**” means the purpose of determining whether an offence under Part 2 has been or is being committed, or any requirement of a compliance notice, a stop notice or an enforcement undertaking under these Regulations has been or is being contravened;
+- “**enforcement officer**” means a person authorised under paragraph (1).
+
+### 9. Civil sanctions[^key-0989e920c37812b04e97fe7b569ab92d]
+
+The Schedule (civil sanctions) has effect for the purpose of the enforcement of an offence under Part 2 of these Regulations.
+
+### 10. Powers of entry and examination etc.[^key-2eedd5817d73b1bc6fe373bc837cde9e]
+
+(1) The powers which an enforcement officer may be authorised to exercise are—
+
+- (a) to enter at any reasonable time any premises (other than premises used wholly or mainly as a dwelling) which the enforcement officer has reason to suspect it is necessary to enter for an authorised purpose;
+- (b) when entering any premises under sub-paragraph (a)—
+  - (i) to be accompanied by—
+    - (aa) another enforcement officer;
+    - (bb) any other person assisting the enforcement officer for an authorised purpose;
+    - (cc) if the authorised person has reasonable cause to expect any serious obstruction in the exercise of that person’s duty, a constable; and
+  - (ii) to bring any equipment or materials required for the authorised purpose in question;
+- (c) on entering any premises under sub-paragraph (a)—
+  - (i) to make such examination and investigation as may be necessary;
+  - (ii) to take such measurements and photographs and make such recordings as the enforcement officer considers necessary for the purpose of any such examination or investigation;
+  - (iii) to require the production of, or where the information is recorded in computerised form, the furnishing of extracts from, any documents which it is necessary for the enforcement officer to see for the purposes of any such examination or investigation and to inspect and take copies of the documents; and
+  - (iv) to seize and remove any documents found in or on the premises;
+- (d) as regards any premises which an enforcement officer has power to enter under sub-paragraph (a), to direct that those premises or any part of them, or anything in them, be left undisturbed (whether generally or in particular respects) for so long as is reasonably necessary for the purpose of examination or investigation under sub-paragraph (c);
+- (e) to take any samples, or cause samples to be taken, of any single-use vapes or components of single-use vapes found in or on any premises which an enforcement officer has power to enter under sub-paragraph (a), and to cause any such items to be analysed or tested;
+- (f) in the case of any single-use vape found in or on any premises which an enforcement officer has power to enter under sub-paragraph (a), to take possession of it and to retain it for so long as is necessary for all or any of the following purposes—
+  - (i) to examine it, and subject it to any process or test, or cause it to be examined and subjected to any process or test;
+  - (ii) to ensure that it is not tampered with before the examination, process or test is completed;
+  - (iii) to ensure that it is available for use as evidence in any proceedings for an offence under these Regulations;
+  - (iv) to ensure that it is retained for the purposes of compliance with any direction given by the Secretary of State under regulation 11;
+- (g) to require any person to afford the enforcement officer such facilities and assistance with respect to any matters or things within the person’s control or in relation to which that person has responsibilities as are necessary to enable the enforcement officer to exercise any of the powers conferred on the enforcement officer by this regulation;
+- (h) as regards any premises which an enforcement officer has power to enter under sub-paragraph (a), to make a purchase of a single-use vape or enter into an agreement to secure the provision of a single-use vape, without first giving notice, or obtaining a warrant.
+
+(2) Where an enforcement officer proposes to enter any premises and—
+
+- (a) entry has been refused or the enforcement officer apprehends on reasonable grounds that entry is likely to be refused, or
+- (b) the enforcement officer apprehends on reasonable grounds that the use of reasonable force may be necessary to effect entry,
+
+any entry onto those premises by virtue of paragraph (1)(a) may only be effected under the authority of a warrant.
+
+(3) Nothing in paragraph (1)(c)(iii) compels the production by a person of any documents of which that person would on grounds of legal professional privilege be entitled to withhold production on an order for disclosure in an action in the County Court or High Court.
+
+(4) An enforcement officer seeking to exercise a power under paragraph (1) must produce evidence of identity and authority if requested by a person who is, or appears to be—
+
+- (a) a supplier of single-use vapes;
+- (b) an employee of a supplier referred to in sub-paragraph (a);
+- (c) the owner or occupier of any premises in which the enforcement officer seeks to exercise the power concerned.
+
+(5) If a justice of the peace, on sworn information in writing, is satisfied—
+
+- (a) that there are reasonable grounds to enter any premises in exercise of the power in paragraph (1)(a); and
+- (b) that any of the conditions in paragraph (2) is met,
+
+the justice of the peace may by warrant authorise an enforcement officer to enter the premises, if need be by reasonable force.
+
+(6) Where an enforcement officer proposes to exercise the power to seize and remove documents under paragraph (1)(c)(iv) without the consent of the person entitled to grant access to the documents, the power may only be exercised under the authority of a warrant in accordance with paragraph (7).
+
+(7) If a justice of the peace, on sworn information in writing, is satisfied that there are reasonable grounds for believing that—
+
+- (a) there is material on or accessible from the premises which is likely to be of substantial value (by itself or together with other material) to an investigation under paragraph (1)(c)(i), and
+- (b) it is impracticable to communicate with the person entitled to grant access to it, or access is unlikely to be granted unless a warrant is produced,
+
+the justice of the peace may by warrant authorise the seizure and removal of documents, if need be by reasonable force.
+
+(8) Where an enforcement officer removes a document under the power in paragraph (1)(c)(iv) that contains information in respect of which a claim to confidentiality of communications could be maintained in legal proceedings—
+
+- (a) the information may not be used in evidence for the purpose of proceedings in relation to an offence under these regulations, and
+- (b) the document must be returned to the premises from which it was removed, or to the person who had possession or control of it immediately before it was removed, as soon as reasonably practicable (but the person may retain or take copies of any information contained in the document to which no claim of confidentiality could be maintained).
+
+### 11. Disposal of single-use vapes[^key-fa709af1a6804e599aaf84fec1db6c7e]
+
+(1) The Secretary of State may direct that single-use vapes of a description specified in paragraph (2) are to be treated as waste and disposed of or otherwise treated as the Secretary of State considers necessary.
+
+(2) The single-use vapes referred to in paragraph (1) are any single-use vapes which have been supplied, offered for supply or held in a person’s possession for supply in contravention of Part 2, and include single-use vapes in respect of which a regulator has imposed civil sanctions under these Regulations in relation to the offence.
+
+(3) A direction under paragraph (1)—
+
+- (a) may be given to any one or more regulators in connection with any enforcement action taken by a regulator under these Regulations;
+- (b) may be applicable in respect of single-use vapes retained by any enforcement officer who is—
+  - (i) authorised by the regulator concerned, and
+  - (ii) acting for an authorised purpose;
+- (c) must not be executed by the regulator concerned (or by a person acting on the regulator’s behalf) until any right of appeal conferred in relation to the offence concerned under the Schedule to these Regulations is exhausted.
+
+### 12. Publication of information about enforcement action[^key-666cbcd998eaf493decf9b56c5859eec]
+
+(1) Where a regulator imposes civil sanctions under these Regulations in relation to an offence under Part 2, the regulator must from time to time publish—
+
+- (a) the cases in which the civil sanction has been imposed;
+- (b) where the civil sanction is a fixed monetary penalty or compliance notice, the cases in which a third party undertaking has been accepted; and
+- (c) the cases in which an enforcement undertaking has been entered into.
+
+(2) In paragraph (1)(a), the reference to cases in which the civil sanction has been imposed does not include cases where the sanction has been imposed but overturned on appeal.
+
+(3) This regulation does not apply in cases where the regulator considers that publication would be inappropriate.
+
+## PART 4 — Supplementary
+
+### 13. Guidance[^key-b6a343327817a72d1be1d2e14d73ab83]
+
+(1) Each regulator must publish guidance about its use of civil sanctions under these Regulations in relation to an offence under Part 2.
+
+(2) In the case of guidance relating to a fixed monetary penalty, compliance notice or stop notice, the guidance must contain the relevant information set out in paragraph (3).
+
+(3) The relevant information referred to in paragraph (2) is information as to—
+
+- (a) the circumstances in which the penalty or notice is likely to be imposed;
+- (b) the circumstances in which it may not be imposed;
+- (c) rights to make representations and objections and rights of appeal; and
+- (d) in the case of a fixed monetary penalty, the amount of the penalty, how liability for the penalty may be discharged and the effect of discharge.
+
+(4) The regulator must revise the guidance where appropriate.
+
+(5) The regulator must consult such persons as it considers appropriate before publishing any guidance or revised guidance under this regulation.
+
+(6) The regulator must have regard to the guidance or revised guidance in exercising its functions.
+
+### 14. Review[^key-66e9b24e5e2bc0d875039d8d037ebe21]
+
+(1) The Secretary of State must—
+
+- (a) as soon as reasonably practicable after the end of the period of three years from the date on which these Regulations come into force carry out a review of the operation of the provisions in Part 3 (enforcement and civil sanctions) and the Schedule;
+- (b) from time to time carry out a review of the regulatory provision contained in these Regulations (including Part 3 and the Schedule); and
+- (c) publish a report setting out the conclusions of any review.
+
+(2) In the case of a review under paragraph (1)(a)—
+
+- (a) the review must in particular consider whether the provision has implemented its objectives efficiently and effectively;
+- (b) the Secretary of State, in conducting the review, must consult such persons as the Secretary of State considers appropriate; and
+- (c) the Secretary of State must lay a copy of the report under paragraph (1)(c) before Parliament.
+
+(3) In the case of a review under paragraph (1)(b)—
+
+- (a) the first report must be published before the end of the period of five years from the date on which these Regulations come into force;
+- (b) subsequent reports must be published at intervals not exceeding five years;
+- (c) a report published under this regulation must, in particular—
+  - (i) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(b);
+  - (ii) assess the extent to which those objectives are achieved;
+  - (iii) assess whether those objectives remain appropriate; and
+  - (iv) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(4) In this regulation “**regulatory provision**” has the same meaning as in section 32(4) of the Small Business, Enterprise and Employment Act 2015[^f00008].
+
+Mary Creagh
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+25th November 2024
+
+## SCHEDULE — Civil Sanctions
+
+Regulation 9
+
+### PART 1 — Fixed Monetary Penalties and Compliance Notices
+
+#### 1. Imposition of a fixed monetary penalty or compliance notice[^key-3b0028094e6273466cfbf3a98830add3]
+
+(1) In relation to an offence under Part 2 of these Regulations, a regulator may by notice impose—
+
+- (a) a requirement to pay to the regulator a penalty of £200 (a “fixed monetary penalty”); or
+- (b) a requirement to take such steps as the regulator may specify, within such period as it may specify, to secure that the offence does not continue or recur (a “**compliance notice**”).
+
+(2) Before doing so, the regulator must be satisfied beyond reasonable doubt that the person has committed the offence.
+
+(3) A requirement under sub-paragraph (1)(a) or (b) may not be imposed on a person on more than one occasion in relation to the same act or omission.
+
+(4) A notice served under sub-paragraph (1) is referred to in this Part as a final notice.
+
+#### 2. Notice of intent[^key-4684cd2b55592e8905df88e6c2cf1dd3]
+
+(1) Where a regulator proposes to impose a fixed monetary penalty or a compliance notice on a person, the regulator must serve on that person a notice of what is proposed (a “notice of intent”).
+
+(2) The notice of intent must include—
+
+- (a) the grounds for the proposed compliance notice or fixed monetary penalty and—
+  - (i) in the case of a proposed compliance notice, the requirements of that notice;
+  - (ii) in the case of a proposed fixed monetary penalty, the amount of the penalty to be paid;
+- (b) information as to—
+  - (i) the right to make representations and objections within 28 days beginning with the day on which the notice of intent was received; and
+  - (ii) in the case of a proposed fixed monetary penalty, the right (in the alternative to making representations and objections) to discharge any liability for the penalty in accordance with sub-paragraph (3).
+
+(3) A person on whom a notice of intent is served may—
+
+- (a) within 28 days beginning with the day on which the notice was received, make representations and objections to the regulator in relation to the proposed imposition of a fixed monetary penalty or compliance notice; or
+- (b) in the case of a proposed fixed monetary penalty, discharge any liability for the payment of that penalty by paying the sum of £100 to the regulator within 28 days beginning with the day on which the notice of intent is received.
+
+(4) Paragraph 4 does not apply if the person makes a payment in accordance with sub-paragraph (3)(b).
+
+#### 3. Third party undertakings[^key-465be3556e100afbbe3303e3076e4801]
+
+(1) A person on whom a notice of intent is served may offer an undertaking as to action to be taken by that person (including the payment of a sum of money) to benefit any third party affected by the offence (a “third party undertaking”).
+
+(2) The regulator may accept or reject any such third party undertaking.
+
+#### 4. Final notice[^key-7541dd5ca13ea6ea3319ffcd54dd4bc9]
+
+(1) After the end of the period for making representations and objections, the regulator must decide whether—
+
+- (a) to impose the requirements in the notice of intent, with or without modifications; or
+- (b) to impose any other requirement that the regulator has power to impose under this Part.
+
+(2) The regulator must inform the person concerned of its decision and, where the regulator decides to impose any requirement referred to in sub-paragraph (1), must do so by serving a final notice in accordance with—
+
+- (a) paragraph 5, in the case of a fixed monetary penalty, or
+- (b) paragraph 6, in the case of a compliance notice.
+
+(3) The regulator may not impose a final notice on a person where the regulator is satisfied that the person would not, by reason of any defence, be liable to be convicted of the offence to which the notice relates.
+
+(4) The regulator must take into account any third party undertaking that it accepts in deciding whether or not to serve a final notice.
+
+#### 5. Contents of final notice: fixed monetary penalty[^key-7433b76bb906b1f53ddee24521620399]
+
+A final notice for a fixed monetary penalty must include information as to—
+
+- (a) the grounds for imposing the penalty;
+- (b) the amount to be paid;
+- (c) how payment may be made;
+- (d) the period within which payment must be made, which must be not less than 28 days;
+- (e) rights of appeal; and
+- (f) the consequences of failing to comply with the notice.
+
+#### 6. Contents of final notice: compliance notice[^key-4272276a1a906cb9ab5c5bb0b1cbc017]
+
+A final notice relating to a compliance notice must include information as to—
+
+- (a) the grounds for imposing the notice;
+- (b) what compliance is required and the period within which it must be completed;
+- (c) rights of appeal; and
+- (d) the consequences of failing to comply with the notice.
+
+#### 7. Appeals against final notice[^key-4ec4090fa95f302f3a688ca3e6de74ac]
+
+(1) The person receiving the final notice may appeal against it.
+
+(2) The grounds for appeal are—
+
+- (a) that the decision was based on an error of fact;
+- (b) that the decision was wrong in law;
+- (c) in the case of a compliance notice, that the nature of the requirement is unreasonable;
+- (d) that the decision is unreasonable for any other reason.
+
+#### 8. Criminal proceedings[^key-c5f1ddf22b78f09f5867c6940abcfe24]
+
+(1) If—
+
+- (a) a fixed monetary penalty or compliance notice is served on any person; or
+- (b) a third party undertaking is accepted from any person,
+
+that person may not at any time be convicted of the offence in respect of the act or omission giving rise to the fixed monetary penalty, compliance notice or third party undertaking except in a case referred to in sub-paragraph (2).
+
+(2) The case referred to in sub-paragraph (1) is a case where—
+
+- (a) a compliance notice is imposed on a person or a third party undertaking is accepted from a person;
+- (b) no fixed monetary penalty is imposed on that person; and
+- (c) that person fails to comply with the compliance notice or third party undertaking.
+
+### PART 2 — Stop Notices
+
+#### 9. Stop notices[^key-5e43977cf31b33388fd572291fc6a978]
+
+(1) A regulator may serve a stop notice on any person in a case falling within sub-paragraph (2) or (3).
+
+(2) A case falling within this sub-paragraph is a case where the regulator reasonably believes that—
+
+- (a) the person is carrying on the activity;
+- (b) the activity as carried on by that person is causing, or presents a significant risk of causing, serious harm to the environment (including the health of animals); and
+- (c) the activity as carried on by that person involves or is likely to involve the commission of an offence under Part 2 of these Regulations.
+
+(3) A case falling within this sub-paragraph is a case where the regulator reasonably believes that—
+
+- (a) the person is likely to carry on the activity;
+- (b) the activity as likely to be carried on by that person will cause, or will present a significant risk of causing, serious harm to the environment (including the health of animals); and
+- (c) the activity as likely to be carried on by that person will involve or will be likely to involve the commission of an offence under Part 2 of these Regulations.
+
+(4) The steps specified in the stop notice must be steps to remove or reduce the harm or risk of harm to the environment (including the health of animals).
+
+#### 10. Contents of a stop notice[^key-192cf48335ab76927a4073168cded7a8]
+
+A stop notice must include information as to—
+
+- (a) the grounds for serving the notice;
+- (b) the steps the person must take to comply with the stop notice;
+- (c) rights of appeal; and
+- (d) the consequences of failing to comply with the notice.
+
+#### 11. Appeals against stop notices[^key-1b812a12204bd756da3ee34a4d923aaf]
+
+(1) The person on whom a stop notice is served may appeal against the decision to serve it.
+
+(2) The grounds for appeal are—
+
+- (a) that the decision was based on an error of fact;
+- (b) that the decision was wrong in law;
+- (c) that the decision was unreasonable;
+- (d) that any step specified in the notice is unreasonable;
+- (e) that the person has not committed the offence and would not have committed it had the stop notice not been served;
+- (f) that the person would not, by reason of any defence, have been liable to be convicted of the offence had the stop notice not been served.
+
+#### 12. Completion certificates[^key-852773990931dfab28140cfccad8b5e0]
+
+(1) Where, after service of a stop notice, the regulator is satisfied that the person has taken the steps specified in the notice, the regulator must issue a certificate to that effect (a “completion certificate”).
+
+(2) The stop notice ceases to have effect on the issue of a completion certificate.
+
+(3) The person on whom the stop notice is served may at any time apply for a completion certificate.
+
+(4) The regulator must make a decision as to whether to issue a completion certificate, and give written notice of the decision to the applicant, within 14 days of such an application.
+
+#### 13. Appeals against decision not to issue a completion certificate[^key-0be1d4fc2bd91e154341df6bbaf8c31d]
+
+The person on whom the stop notice was served may appeal against a decision not to issue a completion certificate on the grounds that the decision—
+
+- (a) was based on an error of fact;
+- (b) was wrong in law;
+- (c) was unfair or unreasonable.
+
+#### 14. Compensation[^key-4ec0b375066db68478625ddce6736db8]
+
+The regulator must compensate a person for loss suffered as the result of the service of a stop notice or the refusal of a completion certificate if—
+
+- (a) the stop notice is subsequently withdrawn or amended by the regulator because the decision to serve it was unreasonable or any step specified in the notice was unreasonable;
+- (b) the person successfully appeals against the stop notice and the First-tier Tribunal finds that the service of the notice was unreasonable; or
+- (c) the person successfully appeals against the refusal of a completion certificate and the First-tier Tribunal finds that the refusal was unreasonable.
+
+#### 15. Appeal against compensation decision[^key-1b223047e353ae44c0e776ce81b93023]
+
+A person may appeal against a decision not to award compensation or the amount of compensation awarded—
+
+- (a) on the grounds that the regulator’s decision was unreasonable;
+- (b) on the grounds that the amount offered was based on an error of fact.
+
+#### 16. Offence[^key-5c917a09c66e32e57912ac1a776255f4]
+
+Where a person on whom a stop notice is served does not comply with it, the person is guilty of an offence and liable—
+
+- (a) on summary conviction, to a fine, or imprisonment for a term not exceeding the general limit in a magistrates’ court, or both; or
+- (b) on conviction on indictment, to imprisonment for a term not exceeding two years, or a fine, or both.
+
+### PART 3 — Enforcement Undertakings
+
+#### 17. Enforcement undertakings[^key-330c8893d409f5c808632795abea2946]
+
+A regulator may accept an enforcement undertaking given by a person in a case where the regulator has reasonable grounds to suspect that the person has committed an offence under Part 2 of these Regulations.
+
+#### 18. Contents of an enforcement undertaking[^key-19e2554405ec208c05a3bf60cfcc96ac]
+
+(1) An enforcement undertaking must specify—
+
+- (a) action to secure the offence does not continue or recur;
+- (b) action (including the payment of a sum of money) to benefit any person affected by the offence; or
+- (c) action that will secure benefit to the environment equivalent to restoration of what has been, or is likely to have been, damaged or destroyed by the commission of the offence.
+
+(2) It must specify the period within which the action must be completed.
+
+(3) It must include—
+
+- (a) a statement that the undertaking is made in accordance with this Schedule;
+- (b) the terms of the undertaking; and
+- (c) information as to how and when the person giving that undertaking is to be considered to have discharged the undertaking.
+
+(4) The enforcement undertaking may be varied, or the period within which the action must be completed may be extended, if both parties agree in writing.
+
+#### 19. Acceptance of an enforcement undertaking[^key-a6f4dbc50282e71eb12e7cc101cec4b8]
+
+If a regulator has accepted an enforcement undertaking, then, unless the person from whom the undertaking is accepted has failed to comply with the undertaking or any part of it—
+
+- (a) that person may not at any time be convicted of the offence in respect of the act or omission to which the undertaking relates; and
+- (b) a regulator may not impose on that person a fixed monetary penalty, a compliance notice or a stop notice in respect of that act or omission.
+
+#### 20. Discharge of an enforcement undertaking[^key-740d3401da529b67f6d00de9e5b61b71]
+
+(1) If a regulator that has accepted an enforcement undertaking is satisfied that the undertaking has been complied with, it must issue a certificate to that effect.
+
+(2) The regulator may require the person who has given the undertaking to provide sufficient information to determine that the undertaking has been complied with.
+
+(3) The person who gave the undertaking may at any time apply for such a certificate.
+
+(4) The regulator must decide whether to issue such a certificate, and give written notice of the decision to the applicant, within 14 days of such an application.
+
+#### 21. Inaccurate, misleading or incomplete information[^key-56b76867eacb853746637f080cef4612]
+
+(1) A person who has given inaccurate, misleading or incomplete information in relation to an enforcement undertaking is to be taken not to have complied with it
+
+(2) A regulator may by notice in writing revoke a certificate which it issued under paragraph 20 if it was issued on the basis of inaccurate, misleading or incomplete information.
+
+#### 22. Appeals against a decision not to issue a certificate[^key-68b822b5411041231f4007b686acb64d]
+
+A person to whom a notice is given under paragraph 20(4) or paragraph 21(2) may appeal against the decision concerned on the grounds that the decision—
+
+- (a) was based on an error of fact;
+- (b) was wrong in law;
+- (c) was unfair or unreasonable.
+
+#### 23. Non-compliance with enforcement undertaking[^key-7b6c5c965481c6f5edd0cae8e652029d]
+
+(1) If an enforcement undertaking is not complied with, the regulator that accepted the undertaking may either—
+
+- (a) take action to serve any other notice in accordance with this Schedule; or
+- (b) bring criminal proceedings.
+
+(2) ) If a person has complied partly but not fully with an enforcement undertaking, that partial compliance must be taken into account in the imposition of any criminal or other sanction on the person.
+
+(3) Criminal proceedings for an offence to which an enforcement undertaking relates may be instituted at any time up to six months from the date on which the regulator notifies the person required to comply with that undertaking of that person’s failure to do so.
+
+### PART 4 — Non-compliance penalties
+
+#### 24. Non-compliance penalties[^key-3b0a6522ce958062310fa27db2b1b2ba]
+
+(1) If a person fails to comply with a compliance notice, a third party undertaking or an enforcement undertaking, the regulator may serve a notice on that person imposing a monetary penalty (a “non-compliance penalty”) in respect of the same offence.
+
+(2) The amount of the penalty must be determined by the regulator, and must be a percentage of the costs of fulfilling the remaining requirements of the compliance notice or third party undertaking.
+
+(3) The percentage must be determined by the regulator having regard to all the circumstances of the case and may, if appropriate, be 100%.
+
+(4) The notice must include information as to—
+
+- (a) the grounds for imposing the non-compliance penalty;
+- (b) the amount to be paid;
+- (c) how payment may be made;
+- (d) the period in which payment must be made, which must not be less than 28 days;
+- (e) rights of appeal;
+- (f) the consequences of failure to make payment in the specified period; and
+- (g) any circumstances in which the regulator may reduce the amount of the penalty.
+
+(5) If the requirements of the compliance notice are complied with or the third party undertaking is fulfilled before the time set for payment of the non-compliance penalty, the penalty is not payable.
+
+#### 25. Appeals against non-compliance penalties[^key-e57e5b6a507386e32d415226b513f2fe]
+
+(1) The person on whom the notice imposing the non-compliance penalty is served may appeal against it.
+
+(2) The grounds of appeal are—
+
+- (a) that the decision to serve the notice was based on an error of fact;
+- (b) that the decision was wrong in law;
+- (c) that the decision was unfair or unreasonable;
+- (d) that the amount of the penalty was unreasonable.
+
+### PART 5 — Administration and Appeals
+
+#### 26. Withdrawing or amending a notice[^key-9516d8484326d2005275af029ecf1a6f]
+
+A regulator may at any time in writing in relation to any notice given under this Schedule—
+
+- (a) withdraw the notice;
+- (b) reduce the amount of any penalty specified in the notice; or
+- (c) amend the steps specified in a compliance notice or stop notice, in order to reduce the amount of work necessary to comply with the notice.
+
+#### 27. Enforcement cost recovery notices[^key-069db8f7d57d0aa6d72a1d47e94ff6e0]
+
+(1) A regulator may serve a notice (an “enforcement cost recovery notice”) on a person on whom a compliance or stop notice has been served requiring that person to pay the costs incurred by the regulator in relation to the imposition of the requirement imposed by the notice concerned up to the time of its imposition.
+
+(2) Costs include in particular—
+
+- (a) investigation costs;
+- (b) administration costs; and
+- (c) costs of obtaining expert advice (including legal advice).
+
+(3) The enforcement cost recovery notice must specify—
+
+- (a) how payment may be made;
+- (b) the amount required to be paid;
+- (c) the period in which payment must be made, which must not be less than 28 days;
+- (d) the grounds for imposing the notice;
+- (e) the right of appeal; and
+- (f) the consequences of a failure to comply with the notice in the specified period.
+
+(4) The person on whom the notice is served may require the regulator to provide a detailed breakdown of the amount.
+
+(5) The person required to pay costs is not liable to pay any costs shown by that person to have been unnecessarily incurred.
+
+(6) The regulator must publish guidance about its use of enforcement cost recovery notices.
+
+(7) The regulator must revise the guidance where appropriate.
+
+(8) The regulator must have regard to the guidance or revised guidance in exercising its functions.
+
+#### 28. Appeals against enforcement cost recovery notices[^key-8fb6773e5e10fe4db772b0402d2b5e98]
+
+The person required to pay the costs may appeal—
+
+- (a) against the decision of the regulator to impose the requirement to pay costs;
+- (b) against the decision of the regulator as to the amount of those costs.
+
+#### 29. Power to recover payments[^key-ba80b5677792277fa62a9ba3ffad02ee]
+
+A regulator may recover any fixed monetary penalty, non-compliance penalty or costs specified in an enforcement cost recovery notice imposed under this Schedule, on the order of a court, as if payable under a court order.
+
+#### 30. Appeals: general provisions[^key-3eb81a53f01d93728036701a01ed6533]
+
+(1) An appeal under paragraph 7, 11, 13, 15, 22, 25 or 28 of this Schedule is to the First-tier Tribunal.
+
+(2) All notices (other than stop notices) are suspended pending the determination or withdrawal of the appeal.
+
+(3) The First-tier Tribunal may, in relation to the imposition of a requirement or service of a notice under this Schedule—
+
+- (a) set aside the requirement or notice;
+- (b) confirm the requirement or notice;
+- (c) vary the requirement or notice or any part of it;
+- (d) take such steps as the regulator could have taken in relation to the act or omission giving rise to the requirement or notice; or
+- (e) remit the decision whether to confirm the requirement or notice, or any matter relating to that decision, to the regulator.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, which apply in relation to England, prohibit the supply of single-use vapes.
+
+Part 2 prohibits the supply, offer for supply or possession for supply of single-use vapes. Breach of these prohibitions is an offence (regulation 4), subject to the mutual recognition principle in the United Kingdom Internal Market Act [2020 (c. 27)](https://www.legislation.gov.uk/ukpga/2020/27) where applicable.
+
+A civil sanctions regime enables regulators to impose a range of civil sanctions (regulation 9 and the Schedule). These are fixed monetary penalties, compliance notices, stop notices and enforcement undertakings. The Regulations make provision for the procedure relating to these sanctions and the available appeal mechanisms. Failure to comply with a stop notice is an offence (paragraph 16 of the Schedule). All appeals relating to a civil sanction are to the First-tier Tribunal.
+
+Regulations 8 and 10 provide for enforcement officers to have powers of entry to carry out the necessary investigations in order to determine whether an offence has been committed.
+
+Regulation 11 provides for the Secretary of State to give a direction for the disposal or other treatment of single-use vapes in respect of which an offence has been committed. Regulation 12 provides for publication of information on enforcement action taken by regulators. Regulation 13 provides that guidance relating to the use of civil sanctions must be prepared and consulted on, and specifies information to be included in such guidance. Regulation 14 contains provision for review of the Regulations.
+
+Regulators are able to recover the costs of enforcement (paragraph 27 of the Schedule) in the case of compliance notices and stop notices and must issue guidance about their use of enforcement cost recovery notices.
+
+A full impact assessment of the effect that these Regulations will have on the costs of business, the voluntary sector and the public sector is available from www.legislation.gov.uk, and from the Department for Environment, Food and Rural Affairs, Seacole Building, 2 Marsham Street, London, SW1P 4DF.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 140(3)(c) was amended by [S.I. 1999/1108](https://www.legislation.gov.uk/uksi/1999/1108).
+
+[^f00002]: Footnote: [2008 c. 13](https://www.legislation.gov.uk/ukpga/2008/13).
+
+[^f00003]: Footnote: Section 140(6)(b) was amended by [S.I. 2012/1923](https://www.legislation.gov.uk/uksi/2012/1923).
+
+[^f00004]: Footnote: For the purposes of these Regulations, “**regulator**” has the meaning given by regulation 2, rather than the meaning given by section 37 of the 2008 Act.
+
+[^key-598844a42c16b192b87a2e89f51ae046]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-8d7ae6e830c8a1e9c34213402c3cf618]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/1216/regulation/2) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^f00005]: Footnote: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618), amended by [S.I. 2008/2936](https://www.legislation.gov.uk/uksi/2008/2936). There are other amending instruments but none is relevant.
+
+[^f00006]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
+
+[^key-c020f77be68e67cd4a840827ea14f01f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/1216/regulation/3) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-79076332a09c2ac306d0c94521e8925c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/1216/regulation/4) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^f00007]: Footnote: Paragraph (1) is subject to the mutual recognition principle in section 2 of the United Kingdom Internal Market Act [2020 (c. 27)](https://www.legislation.gov.uk/ukpga/2020/27).
+
+[^key-5bd1534fd3438e4f736ebb5a505ebfdf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/1216/regulation/5) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-82769b322bedef5dca4ed7ff8e896e25]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/1216/regulation/6) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-ea9da04f713df4328ae86e84c8131d7b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/1216/regulation/7) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-1e3f3cdff2edced2faf0ddac34b3724e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/1216/regulation/8) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-0989e920c37812b04e97fe7b569ab92d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/1216/regulation/9) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-2eedd5817d73b1bc6fe373bc837cde9e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/1216/regulation/10) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-fa709af1a6804e599aaf84fec1db6c7e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/1216/regulation/11) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-666cbcd998eaf493decf9b56c5859eec]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/1216/regulation/12) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-b6a343327817a72d1be1d2e14d73ab83]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/1216/regulation/13) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-66e9b24e5e2bc0d875039d8d037ebe21]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/1216/regulation/14) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^f00008]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Sections 28 to 32 of the Act make provision in respect of review provisions. In particular, a “qualifying activity” is defined in section 29(2),
+
+[^key-3b0028094e6273466cfbf3a98830add3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/1) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-4684cd2b55592e8905df88e6c2cf1dd3]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/2) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-465be3556e100afbbe3303e3076e4801]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/3) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-7541dd5ca13ea6ea3319ffcd54dd4bc9]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/4) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-7433b76bb906b1f53ddee24521620399]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/5) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-4272276a1a906cb9ab5c5bb0b1cbc017]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/6) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-4ec4090fa95f302f3a688ca3e6de74ac]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/7) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-c5f1ddf22b78f09f5867c6940abcfe24]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/8) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-5e43977cf31b33388fd572291fc6a978]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/9) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-192cf48335ab76927a4073168cded7a8]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/10) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-1b812a12204bd756da3ee34a4d923aaf]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/11) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-852773990931dfab28140cfccad8b5e0]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/12) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-0be1d4fc2bd91e154341df6bbaf8c31d]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/13) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-4ec0b375066db68478625ddce6736db8]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/14) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-1b223047e353ae44c0e776ce81b93023]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/15) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-5c917a09c66e32e57912ac1a776255f4]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/16) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-330c8893d409f5c808632795abea2946]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/17) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-19e2554405ec208c05a3bf60cfcc96ac]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/18) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-a6f4dbc50282e71eb12e7cc101cec4b8]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/19) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-740d3401da529b67f6d00de9e5b61b71]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/20) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-56b76867eacb853746637f080cef4612]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/21) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-68b822b5411041231f4007b686acb64d]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/22) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-7b6c5c965481c6f5edd0cae8e652029d]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/23) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-3b0a6522ce958062310fa27db2b1b2ba]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/24) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-e57e5b6a507386e32d415226b513f2fe]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/25) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-9516d8484326d2005275af029ecf1a6f]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/26) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-069db8f7d57d0aa6d72a1d47e94ff6e0]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/27) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-8fb6773e5e10fe4db772b0402d2b5e98]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/28) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-ba80b5677792277fa62a9ba3ffad02ee]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/29) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)
+
+[^key-3eb81a53f01d93728036701a01ed6533]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2024/1216/schedule/paragraph/30) in force at 1.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1216/regulation/1/2)

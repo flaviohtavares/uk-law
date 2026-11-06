@@ -1,0 +1,1336 @@
+---
+title: The Renewable Transport Fuels and Greenhouse Gas Emissions Regulations 2018
+id: uksi/2018/374
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-03-13'
+text_date: '2024-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/374
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/374/pdfs/uksiem_20180374_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/374/pdfs/uksi_20180374_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/374/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Renewable Transport Fuels and Greenhouse Gas Emissions Regulations 2018
+
+> Text as at 2024-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 374
+
+Transport
+
+Energy
+
+Climate Change
+
+The Renewable Transport Fuels and Greenhouse Gas Emissions Regulations 2018
+
+Made
+
+13th March 2018
+
+Coming into force
+
+15th April 2018
+
+The Secretary of State, having consulted in accordance with section 124(4) of the Energy Act 2004[^f00001] (“the 2004 Act”) and section 2(4) of the Pollution Prevention and Control Act 1999[^f00002] (“the 1999 Act”), makes these Regulations in exercise of the powers conferred by: sections 124, 125A(1), 125B(1), 126(1) to (5), 127, 128(1) and (2), 129(1), 132(4) and 192(4) of the 2004 Act[^f00003]; sections 2 and 7(8) of, and paragraphs 1, 2, 11, 12, 17 and 21A of Schedule 1 to, the 1999 Act[^f00004]; and section 2(2) of the European Communities Act 1972[^f00005] (“the 1972 Act”), as read with paragraph 1A of Schedule 2 to that Act[^f00006].
+
+The Secretary of State is a Minister designated for the purposes of section 2(2) of the 1972 Act in relation to the environment[^f00007] and in relation to energy and energy sources[^f00008].
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act and it appears expedient to the Secretary of State for certain references to provisions of European Union instruments to be construed as references to those provisions as amended from time to time.
+
+A draft of these Regulations was laid before Parliament in accordance with sections 124(5) and 192(3) of the 2004 Act; section 2(8) of the 1999 Act; and paragraph 2(2) of Schedule 2 to the 1972 Act, and approved by a resolution of each House of Parliament.
+
+## PART 1 — PRELIMINARY MATTERS
+
+### 1. Citation and commencement[^key-2fe72a152e08cc0869a2efdbe35f2a1d]
+
+These Regulations may be cited as the Renewable Transport Fuels and Greenhouse Gas Emissions Regulations 2018 and come into force on 15th April 2018.
+
+### 2. Extent[^key-758f1ae14c403e8ac8ade2ceee69f567]
+
+An amendment, repeal or revocation made by these Regulations has the same extent as the Act or instrument amended, repealed or revoked.
+
+## PART 2 — AMENDMENT OF THE ENERGY ACT 2004
+
+### 3. Introductory[^key-823aee5ac82d6c429c96b7785bf66fda]
+
+The Energy Act 2004 is amended in accordance with this Part.
+
+### 4. Amendment of section 132 of the Energy Act 2004[^key-b0104a252c9965c3b921e95d7caf3315]
+
+(1) Section 132 (interpretation of Chapter 5 of Part 2)[^f00009] is amended as follows.
+
+(2) In subsection (3)(a)(iii), omit “agricultural or forestry”.
+
+(3) In subsection (4)—
+
+- (a) omit the definition of “agricultural or forestry tractor”;
+- (b) for the definition of “inland waterway vessel”, substitute—
+
+  > - “inland waterway vessel” means an inland waterway vessel, within the meaning given by Article 3(c) of the 2016 Directive, to which that Directive applies (see Article 2 of the 2016 Directive); and in this definition “the 2016 Directive” means Directive EU 2016/1629 of the European Parliament and of the Council of 14 September 2016[^f00010] laying down technical requirements for inland waterway vessels;
+
+  ;
+- (c)  for the definition of “non-road mobile machinery”, substitute—
+
+  > - “non-road mobile machinery” means non-road mobile machinery, within the meaning given by Article 3(1) of the 2016 Regulation, which has installed in it an engine within a category set out in paragraph 1 of Article 4 of that Regulation; and in this definition “the 2016 Regulation” means Regulation (EU) 2016/1628 of the European Parliament and of the Council of 14 September 2016[^f00011] on requirements relating to gaseous and particulate pollutant emission limits and type-approval for internal combustion engines for non-road mobile machinery;
+
+  ;
+- (d)  for the definition of “recreational craft”, substitute—
+
+  > - “recreational craft” has the meaning given by Article 3(2) of [Directive 2013/53/EU](https://www.legislation.gov.uk/european/directive/2013/0053) of the European Parliament and of the Council of 20 November 2013[^f00012] on recreational craft and personal watercraft;
+
+  ;
+- (e)  for the definition of “renewable source”, substitute—
+
+  > - “renewable source”, in relation to energy, means any of the following non-fossil sources of energy, namely wind, the sun, aerothermal sources, geothermal sources, water (including hydrothermal sources, waves and tides) and biomass (including landfill gas, sewage treatment plant gas and biogases), where—
+  >   - (a) “aerothermal” means energy stored in the form of heat in the ambient air;
+  >   - (b) “geothermal” means energy stored in the form of heat beneath the surface of solid earth; and
+  >   - (c) “hydrothermal” means energy stored in the form of heat in surface water;
+
+  ;
+- (f)  after the definition of “renewable source”, insert—
+
+  > - “tractor” has the meaning given by Article 3(8) of Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013[^f00013] on the approval and market surveillance of agricultural and forestry vehicles.
+
+  .
+
+## PART 3 — RENEWABLE TRANSPORT FUEL AMENDMENTS
+
+### 5. Introductory[^key-bf3003d5cd77d0a4a1d1ea3a11c6619a]
+
+The Renewable Transport Fuel Obligations Order 2007[^f00014] is amended in accordance with this Part.
+
+### 6. Insertion of article 1A[^key-a80ccef24d3acf77aa31bb39214a0f0e]
+
+After article 1 (citation and commencement), insert—
+
+> **1A. Review**
+>
+> (1) The Secretary of State must from time to time—
+>
+> - (a) carry out a review of the regulatory provision contained in this Order; and
+> - (b) publish a report setting out the conclusions of the review.
+>
+> (2) The first report must be published before 15th April 2023.
+>
+> (3) Subsequent reports must be published at intervals not exceeding 5 years.
+>
+> (4) Section 30(3) of the Small Business, Enterprise and Employment Act 2015[^f00015] requires that a review carried out under this article must, so far as is reasonable, have regard to how the directive is implemented in other member States.
+>
+> (5) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this article must, in particular—
+>
+> - (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a);
+> - (b) assess the extent to which those objectives are achieved;
+> - (c) assess whether those objectives remain appropriate; and
+> - (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+>
+> (6) In this article, “regulatory provision” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+.
+
+### 7. Amendment of article 2[^key-cab97a25f0e581683cc3b187223ea740]
+
+(1) Article 2 (interpretation)[^f00016] is amended as follows.
+
+(2) In paragraph (1)—
+
+- (a) omit the definition of “the 2011 Order”;
+- (b) omit the definition of “buy-out fund”;
+- (c) omit the definition of “the cross compliance requirements”;
+- (d) omit the definition of “the directive”;
+- (e) for the definition of “relevant feedstock”, substitute—
+
+  > - “relevant feedstock” means—
+  >   - (a) processing residues of biological origin;
+  >   - (b) products of biological origin, including relevant crops and dedicated energy crops;
+  >   - (c) renewable sources other than biomass used to produce RFNBO;
+  >   - (d) residues from agriculture, aquaculture, fisheries or forestry;
+  >   - (e) wastes of biological origin;
+
+  ;
+- (f) omit the definition of “sustainable wastes”;
+- (g) in the appropriate places, insert—
+
+  > - “the 2012 Regulations” means the Motor Fuel (Road Vehicle and Mobile Machinery) Greenhouse Gas Emissions Reporting Regulations 2012[^f00017];
+
+  ;
+
+  > - “assessment time” means—
+  >   - (a) in relation to renewable aviation turbine fuel that is attributable to relevant feedstocks, the time at which a refinery certificate of quality is issued which certifies, in accordance with standard 1530 (as revised or re-issued from time to time)[^f00018] of the Energy Institute[^f00019] and the Joint Inspection Group[^f00020], that the fuel meets one of the standards set out in article 3(1B)(d);
+  >   - (b) in relation to renewable hydrogen that is attributable to relevant feedstocks, the time at which is it sold to a retail customer;
+  >   - (c) in relation to gaseous renewable transport fuel that is attributable to relevant feedstocks and which is to be used only in non-road transports, the time at which the fuel is set aside for such use;
+  >   - (d) in relation to fuel, other than fossil fuel for use in aircraft, which does not fall within sub-paragraph (a), (b) or (c), the time at which the requirement under the 1979 Act to pay the duty of excise with which that fuel is chargeable took effect;
+
+  ;
+
+  > - “dedicated energy crops” means crops which—
+  >   - (a) consist of—
+  >     - (i) non-food cellulosic material; or
+  >     - (ii) ligno-cellulosic material, except saw logs and veneer logs;
+  >   - (b) are grown for the purpose of being used as fuel or energy;
+  >   - (c) are not a residue (including processing residues and residues from agriculture, aquaculture, fisheries or forestry) or a waste; and
+  >   - (d) would not normally be used for food or feed;
+
+  ;
+
+  > - “development fuel RTF certificate” means an RTF certificate[^f00021] which derives from renewable transport fuel made from development fuel and which is specified as such in accordance with article 17(2A);
+
+  ;
+
+  > - “development fuel target” has the meaning given in article 4(5);
+
+  ;
+
+  > - “the directive” means [Directive 2009/28/EC](https://www.legislation.gov.uk/european/directive/2009/0028) of the European Parliament and of the Council of 23 April 2009[^f00022] on the promotion of the use of energy from renewable sources, etc., and a reference in this Order to Annex V to the directive is a reference to that Annex as amended from time to time;
+
+  ;
+
+  > - “GHG credit” has the meaning given in the 2012 Regulations;
+
+  ;
+
+  > - “issue of an additional RTF certificate” means the issue of an additional RTF certificate for each whole litre of fuel under article 17A;
+
+  ;
+
+  > - “ligno-cellulosic material” means material composed of lignin, cellulose and hemicellulose, such as biomass sourced from forests, woody energy crops and forest-based industries’ residues and wastes;
+
+  ;
+
+  > - “main obligation” has the meaning given in article 4(6);
+
+  ;
+
+  > - “non-food cellulosic material” means feedstocks which are mainly composed of cellulose and hemicellulose, having a lower lignin content than ligno-cellulosic material, including (among other things)—
+  >   - (a) food and feed crop residues, such as straw, stover, husks and shells;
+  >   - (b) grassy energy crops with a low starch content, such as ryegrass, switchgrass, miscanthus, giant cane and cover crops before and after main crops;
+  >   - (c) industrial residues, including from food and feed crops after vegetal oils, sugars, starches and protein have been extracted; and
+  >   - (d) material from biowaste;
+
+  ;
+
+  > - “non-road transports” means—
+  >   - (a) non-road mobile machinery;
+  >   - (b) inland waterway vessels which do not normally operate at sea;
+  >   - (c) recreational craft which do not normally operate at sea;
+  >   - (d) tractors;
+
+  ;
+
+  > - “processing residue”, in relation to a production process, means a substance—
+  >   - (a) that is not the end product sought directly from the process;
+  >   - (b) the production of which is not a primary aim of the process; and
+  >   - (c) in respect of which the process has not been deliberately modified in order to produce it;
+
+  ;
+
+  > - “relevant crops” means starch-rich crops, sugars, oil crops and main crops, where “starch-rich crops” include—
+  >   - (a) cereals (regardless of whether only the grains are used or the whole plant);
+  >   - (b) tubers and root crops, including potatoes, Jerusalem artichokes, sweet potatoes, cassava and yams; and
+  >   - (c) corm crops, including taro and cocoyam,
+  >
+  >   but feedstocks listed in Annex IX of the directive are not relevant crops;;
+
+  ;
+
+  > - “relevant crop RTF certificate” means an RTF certificate which derives from renewable transport fuel made from relevant crops and which is specified as such in accordance with article 17(2A);
+
+  ;
+
+  > - “residues from agriculture, aquaculture, fisheries or forestry” means residues that are directly generated by agriculture, aquaculture, fisheries or forestry, but not including residues from related industries or processing;
+
+  ;
+
+  > - “type of RTF certificate” means the specification as to the type of renewable transport fuel to which an RTF certificate relates in accordance with article 17(2A);
+
+  ;
+
+  > - “waste” means any substance or object which the holder discards, or intends or is required to discard, but does not include any substance or object that has been intentionally modified or contaminated for the purpose of transforming it into a waste;
+
+  .
+
+(3) In paragraph (2), for sub-paragraphs (a) and (b) substitute—
+
+> - (a) processing residue;
+> - (b) products;
+> - (c) residues from agriculture, aquaculture, fisheries or forestry; or
+> - (d) waste.
+
+.
+
+(4) In paragraph (3), for “1827(M)” substitute “1837(M) Amendment 2”[^f00023].
+
+(5) After paragraph (3), insert—
+
+> (4) For the purposes of this Order—
+>
+> - (a) references to a type of fuel as being “renewable” are references to fuel of that type which meets the definition of “renewable transport fuel”[^f00024];
+> - (b) references to the “renewable transport fuel obligation” include the development fuel target and the main obligation.
+
+.
+
+### 8. Amendment of article 3[^key-c83f1114592ce7ebd5d55c4c0903653d]
+
+(1) Article 3 (definitions of fuels and fuel products)[^f00025] is amended as follows.
+
+(2)  After paragraph (1), insert—
+
+> (1A) “Aviation gasoline” means “aviation gasoline” within the meaning given in section 1(3D) of the 1979 Act[^f00026] which meets one of the following standards—
+>
+> - (a) ASTM International standard D910 (as revised or re-issued from time to time)[^f00027];
+> - (b) Ministry of Defence standard 91-90 (as revised or re-issued from time to time)[^f00028]; or
+> - (c) a standard that is equivalent to either of the standards mentioned in sub-paragraphs (a) and (b).
+>
+> (1B) “Aviation turbine fuel” means fuel—
+>
+> - (a) which consists of heavy oil;
+> - (b) of which more than 50 per cent by volume distils at a temperature of 240 degrees centigrade;
+> - (c) which is to be used as fuel for aircraft; and
+> - (d) which meets one of the following standards—
+>   - (i) ASTM International standard D1655 (as revised or re-issued from time to time)[^f00029];
+>   - (ii) Ministry of Defence standard 91-91 (as revised or re-issued from time to time)[^f00030]; or
+>   - (iii) a standard that is equivalent to either of the standards mentioned in paragraphs (i) and (ii).
+
+.
+
+(3) After paragraph (2B), insert—
+
+> (2C) “Development fuel” means a renewable transport fuel which consists of—
+>
+> - (a) biofuel which—
+>   - (i) is eligible for the issue of an additional RTF certificate under article 17A(3) to (5);
+>   - (ii) is not made from segregated oils or segregated fats, including used cooking oils and tallow; and
+>   - (iii) consists of a type of renewable transport fuel specified in paragraph (2D); or
+> - (b) RFNBO which consists of a type of renewable transport fuel specified in paragraph (2D).
+>
+> (2D) For the purposes of paragraph (2C), the specified types of renewable transport fuel are—
+>
+> - (a) aviation gasoline;
+> - (b) aviation turbine fuel;
+> - (c) hydrogen;
+> - (d) substitute natural gas;
+> - (e) fuel that can be blended and have a renewable fraction at rates of at least 25% by volume in the final blend, whilst still meeting the applicable fuel standards listed in BS EN: 228 (for petrol, as revised or re-issued from time to time) or BS EN: 590 (for diesel, as revised or re-issued from time to time)[^f00031].
+
+.
+
+(4)  In paragraph (5B), for sub-paragraph (a), substitute—
+
+> - (a) which is for use in non-road transports; and
+
+.
+
+(5)  For paragraph (10), substitute—
+
+> (10) “Relevant fuel” means hydrocarbon oil or renewable hydrogen which—
+>
+> - (a) is or was owned by the supplier at the assessment time;
+> - (b) is for use in aircraft, non-road transports or road vehicles; and
+> - (c) falls within one of the following categories—
+>   - (i) petrol;
+>   - (ii) diesel;
+>   - (iii) gas oil;
+>   - (iv) renewable transport fuel,
+>
+> but does not include detergents, cetane improvers, lubricity improvers, viscosity improvers, oxidation inhibitors, gum inhibitors, anti-corrosive preparations and similar substances intended for use as fuel additives.
+
+.
+
+(6) After paragraph (10A), insert—
+
+> (10B) “RFNBO” means liquid or gaseous renewable fuel of non-biological origin—
+>
+> - (a) which is used in transport;
+> - (b) the energy content of which comes from renewable sources other than biomass; and
+> - (c) which is not made from—
+>   - (i) biofuels; or
+>   - (ii) a carbon source that has been generated for the purpose of converting it into a fuel for use in transport.
+>
+> (10C) “Substitute natural gas” means renewable methane produced from the product of gasification or pyrolysis, where—
+>
+> - (a) “gasification” means the substoichiometric oxidation or steam reformation of a substance to produce a gaseous mixture containing at least two of the following—
+>   - (i) oxides of carbon;
+>   - (ii) methane;
+>   - (iii) hydrogen;
+> - (b) “pyrolysis” means the thermal degradation of a substance in the absence of an oxidising agent (other than that which forms part of the substance itself) to produce char and at least one or both of gas and liquid.
+
+.
+
+### 9. Amendment of article 4[^key-3f29f96f8908ad6c23b9599c5a78d483]
+
+(1) Article 4 (the renewable transport fuel obligation)[^f00032] is amended as follows.
+
+(2) In paragraph (1)—
+
+- (a) for sub-paragraph (a), substitute—
+
+  > - (a) owns relevant fuel; and
+
+  ;
+- (b) in sub-paragraph (b), for “oil” substitute “fuel”.
+
+(3) In paragraph (2), for “oil” substitute “fuel”.
+
+(4) In paragraph (3), for sub-paragraphs (a) and (b) substitute—
+
+> - (a) a “specified period” means—
+>   - (i) a period beginning on 15th April in any year before 2018 and ending on the following 14th April;
+>   - (ii) the period beginning on 15th April 2018 and ending on 31st December 2018;
+>   - (iii) a period beginning on 1st January in any year after 2018 and ending on the following 31st December,
+>
+>   and any such period is referred to in this Order as an “obligation period”;
+> - (b) the “specified date” means—
+>   - (i) in respect of any obligation period which ends on 14th April in a year, 29th November of that year (or the next working day after 29th November if 29th November is not a working day);
+>   - (ii) in respect of an obligation period which ends on 31st December in a year, 15th September of the following year (or the next working day after 15th September if 15th September is not a working day); and
+
+.
+
+(5) For paragraphs (4) to (6), substitute—
+
+> (4) For the purposes of section 124(2) of the 2004 Act and this Order, the “specified amount” of renewable transport fuel for an obligated supplier in an obligation period is the sum of—
+>
+> - (a) the development fuel target for that supplier for that period; and
+> - (b) the main obligation for that supplier for that period.
+>
+> (5) The supplier’s “development fuel target” for an obligation period within column 1 of the table in paragraph (6C) is the amount of development fuel equal to the percentage of the supplier’s obligated amount for that period set out in the corresponding entry in column 2 of the table.
+>
+> (6) The supplier’s “main obligation” for an obligation period within column 1 of the table in paragraph (6C) is the amount of renewable transport fuel equal to the percentage of the supplier’s obligated amount for that period set out in the corresponding entry in column 3 of the table.
+>
+> (6A) Development fuel supplied by the supplier during an obligation period which exceeds the amount of that supplier’s development fuel target for that period may count towards the supplier’s main obligation for that period.
+>
+> (6B) The obligated amount for an obligation period is determined as follows—
+>
+> - (a) calculate the notional amount of relevant fuel which the supplier has supplied at, or for delivery to, places in the United Kingdom during the obligation period (see paragraph (7)); and
+> - (b) if the notional amount is less than 10 million litres, deduct the first 450,000 litres of that amount.
+>
+> (6C) The table is as follows—
+>
+> | *(1)*<br>*Obligation period or periods* | *(2)*<br>*% which, when applied to the obligated amount, gives the development fuel target* | *(3)*<br>*% which, when applied to the obligated amount, gives the main obligation* |
+> | --- | --- | --- |
+> | 15th April 2017 to 14th April 2018 | No development fuel target | 4.987% |
+> | 15th April to 31st December 2018 | No development fuel target | 7.817% |
+> | 1st January to 31st December 2019 | 0.109% | 9.180% |
+> | 1st January to 31st December 2020 | 0.166% | 10.637% |
+> | 1st January to 31st December 2021 | 0.556% | 10.679% |
+> | 1st January to 31st December 2022 | 0.893% | 10.714% |
+> | 1st January to 31st December 2023 | 1.119% | 10.738% |
+> | 1st January to 31st December 2024 | 1.345% | 10.762% |
+> | 1st January to 31st December 2025 | 1.573% | 10.787% |
+> | 1st January to 31st December 2026 | 1.802% | 10.811% |
+> | 1st January to 31st December 2027 | 2.032% | 10.835% |
+> | 1st January to 31st December 2028 | 2.262% | 10.860% |
+> | 1st January to 31st December 2029 | 2.494% | 10.884% |
+> | 1st January to 31st December 2030 | 2.727% | 10.909% |
+> | 1st January to 31st December 2031 | 2.961% | 10.934% |
+> | 1st January to 31st December 2032, and subsequent obligation periods | 3.196% | 10.959% |
+
+.
+
+(6) For paragraph (7), substitute—
+
+> (7) For the purposes of paragraph (6B), the “notional amount” of relevant fuel which the supplier has supplied at, or for delivery to, places in the United Kingdom during an obligation period is determined in accordance with the following formula—
+>
+> [formula: see source](https://www.legislation.gov.uk/uksi/2018/374)
+>
+> where—
+>
+> - FN is the notional amount of relevant fuel;
+> - HA is the total volume of relevant fuel which was, during that period—
+>   - (a) owned by the supplier; and
+>   - (b) supplied at, or for delivery to, places in the United Kingdom;
+> - E is the volume of eligible fuel;
+> - R is the percentage of E which is attributable to relevant feedstock;
+> - S is the volume of E which meets the sustainability criteria;
+> - T is the volume of E which is attributable to relevant feedstock.
+
+.
+
+(7) In paragraph (8)—
+
+- (a) in each place where the words occur, for “eligible oil” substitute “eligible fuel”;
+- (b) in each place where the reference occurs, for “S” substitute “R”;
+- (c) in sub-paragraph (a)—
+  - (i) for paragraph (ii), substitute—
+
+    > - (ii) is for use in aircraft, non-road transports or road vehicles; and
+
+    ;
+  - (ii) omit paragraph (iii);
+  - (iii) for paragraph (iv), substitute—
+
+    > - (iv) was owned by the supplier at the assessment time;
+
+    ;
+- (d) in sub-paragraph (b), omit “bio-”;
+- (e) in sub-paragraph (c), omit “bio-”;
+- (f) in sub-paragraph (d), omit the “and” at the end;
+- (g) in sub-paragraph (e), at the end, insert “; and”;
+- (h) after sub-paragraph (e), insert—
+
+  > - (f) to the extent that the eligible fuel consists of RFNBO—
+  >   - (i) where the process energy used to produce the RFNBO is electricity that is entirely taken from the national electricity grid of the country in which the RFNBO is or was produced, R is deemed to be the annual average percentage of electricity for that country’s national grid which is produced from renewable sources other than biomass; or
+  >   - (ii) if the Administrator considers that it is not appropriate to use the methodology in paragraph (i) to determine the value for R, R is to be determined in accordance with such other methodology as the Administrator may consider appropriate in a particular case,
+  >
+  >   in respect of that portion of the eligible fuel.
+
+  .
+
+(8) For paragraph (9), substitute—
+
+> (9) For the purposes of this article—
+>
+> - (a) except where sub-paragraph (b), (c) or (d) applies, one kilogram of gaseous relevant fuel must be treated as equivalent to one litre of liquid relevant fuel;
+> - (b) where the gaseous relevant fuel is renewable methane, including substitute natural gas, one kilogram of that fuel must be treated as equivalent to 1.90 litres of liquid relevant fuel;
+> - (c) where the gaseous relevant fuel is renewable butane, renewable propane or a combination of renewable butane and renewable propane, one kilogram of that fuel must be treated as equivalent to 1.75 litres of liquid relevant fuel;
+> - (d) where the gaseous relevant fuel is renewable hydrogen, one kilogram of that fuel must be treated as equivalent to 4.58 litres of liquid relevant fuel.
+
+.
+
+### 10. Revocation of article 4A[^key-e1d1b18313631c979736290ce9b3e6e8]
+
+Article 4A (duty of Secretary of State in respect of the directive)[^f00033] is revoked.
+
+### 11. Amendment of article 5[^key-a66ee75b799f6105472b9ceb53d2de75]
+
+(1) Article 5 (determinations of amounts of transport fuel)[^f00034] is amended as follows.
+
+(2) In paragraph (1)—
+
+- (a) for “time when the requirement to pay the duty of excise with which the fuel is chargeable takes effect” substitute “assessment time”;
+- (b) for sub-paragraph (b), substitute—
+
+  > - (b) that such of that fuel as is petrol, diesel, low sulphur gas oil or renewable transport fuel is, or was, relevant fuel.
+
+  .
+
+(3) In paragraph (1B), for “relevant hydrocarbon oil” substitute “relevant fuel”.
+
+(4) Omit paragraph (2).
+
+(5) In paragraph (2A)—
+
+- (a) for “which becomes chargeable to a duty of excise on or after 15th April 2013” substitute “at its assessment time”;
+- (b) for sub-paragraph (a), substitute—
+
+  > - (a) it is for use in aircraft, non-road transports or road vehicles; and
+
+  ;
+- (c) in sub-paragraph (b), omit the “and” at the end;
+- (d) omit sub-paragraph (c).
+
+(6) Omit paragraph (4).
+
+(7)  For paragraph (4A), substitute—
+
+> (4A) For the purpose of discharging a person’s renewable fuel transport obligation or of issuing RTF certificates, the volume of an amount of renewable transport fuel is deemed to be the notional volume determined in accordance with the following formula—
+>
+> [formula: see source](https://www.legislation.gov.uk/uksi/2018/374)
+>
+> where—
+>
+> - RN is the notional volume;
+> - RA is the total volume of renewable transport fuel which was, during the obligation period—
+>   - (a) owned by the supplier at the assessment time; and
+>   - (b) supplied at, or for delivery to, places in the United Kingdom;
+> - RF is the percentage of RA which is attributable to relevant feedstock;
+> - D is the volume of RA which is eligible for the issue of an additional RTF certificate (see article 17A);
+> - S is the volume of RA which meets the sustainability criteria;
+> - T is the volume of RA which is attributable to relevant feedstock.
+
+.
+
+(8) In paragraph (4B)—
+
+- (a) in each place where the reference occurs, for “S” substitute “RF”;
+- (b) in sub-paragraph (a), omit “bio-”;
+- (c) in sub-paragraph (b), omit “bio-”;
+- (d) in sub-paragraph (c), omit the “and” at the end;
+- (e) in sub-paragraph (d), insert “and” at the end;
+- (f) after sub-paragraph (d), insert—
+
+  > - (e) to the extent that the renewable transport fuel consists of RFNBO—
+  >   - (i) where the process energy used to produce the RFNBO is electricity that is entirely taken from the national electricity grid of the country in which the RFNBO is or was produced, RF is deemed to be the annual average percentage of electricity for that country’s national grid which is produced from renewable sources other than biomass; or
+  >   - (ii) if the Administrator considers that it is not appropriate to use the methodology in paragraph (i) to determine the value for RF, RF is to be determined in accordance with such other methodology as the Administrator may consider appropriate in a particular case,
+  >
+  >   in respect of that portion of the renewable transport fuel.
+
+  .
+
+(9) For paragraph (5), substitute—
+
+> (5) For the purposes of this article—
+>
+> - (a) except where sub-paragraph (b), (c) or (d) applies, one kilogram of gaseous renewable transport fuel must be treated as equivalent to one litre of liquid renewable transport fuel;
+> - (b) where the gaseous renewable transport fuel is renewable methane, including substitute natural gas, one kilogram of that fuel must be treated as equivalent to 1.90 litres of liquid renewable transport fuel;
+> - (c) where the gaseous renewable transport fuel is renewable butane, renewable propane or a combination of renewable butane and renewable propane, one kilogram of that fuel must be treated as equivalent to 1.75 litres of liquid renewable transport fuel;
+> - (d) where the gaseous renewable transport fuel is renewable hydrogen, one kilogram of that fuel must be treated as equivalent to 4.58 litres of liquid renewable transport fuel.
+
+.
+
+### 12. Amendment of article 9[^key-2cc81c4f95f0867d530b3880272bb289]
+
+In article 9 (closures of accounts), in paragraph (2)(b) for “any” substitute “all”.
+
+### 13. Amendment of article 12[^key-532ad8dfb79314e383a0a0c4d5579d87]
+
+(1) Article 12 (duty to require information from obligated suppliers)[^f00035] is amended as follows.
+
+(2) In paragraph (1)(a)—
+
+- (a) in paragraph (i), for “relevant hydrocarbon oil” substitute “relevant fuel”;
+- (b) in paragraph (iii), for “relevant hydrocarbon oil” substitute “relevant fuel”;
+- (c) in paragraph (iv), for “relevant hydrocarbon oil” substitute “relevant fuel (including, where applicable, the type of development fuel)”;
+- (d) for paragraph (vi), substitute—
+
+  > - (vi) the volume of any renewable transport fuel supplied which—
+  >   - (aa) meets the sustainability criteria;
+  >   - (bb) is eligible for the issue of an additional RTF certificate;
+
+  .
+
+(3) In paragraph (1)(b), at the end, insert “; and”.
+
+(4) After paragraph (1)(b), insert—
+
+> - (c) in the case of development fuel, evidence of the fact that the fuel meets the definition of development fuel.
+
+.
+
+(5) In paragraph (5)—
+
+- (a) before “has provided” insert “is to provide or”;
+- (b) at the end, insert “(also see paragraph (8))”.
+
+(6) After paragraph (7), insert—
+
+> (8) The power of the Administrator to require a transport fuel supplier to produce evidence under paragraph (5) includes the power to require the supplier to produce a verifier’s assurance report.
+
+.
+
+### 14. Amendment of article 15[^key-193c3d0a07660f918e25619fd92bc911]
+
+(1) Article 15 (other powers and duties conferred and imposed on the Administrator)[^f00036] is amended as follows.
+
+(2) Omit paragraph (1)(i).
+
+(3) After paragraph (1)(j), insert—
+
+> - (k) to consider applications for RTF certificates also as applications for GHG credits under the 2012 Regulations;
+> - (l) to award GHG credits in accordance with the 2012 Regulations at the same time as the award of any RTF certificates under this Order.
+
+.
+
+(4) In paragraph (3)(a), for “relevant hydrocarbon oil” substitute “relevant fuel”.
+
+### 15. Amendment of article 16[^key-e422e2410560f8ae7e205894eff7ecef]
+
+(1) Article 16 (application for RTF certificates)[^f00037] is amended as follows.
+
+(2) In paragraph (2)(a)(i), omit “and (d)”.
+
+(3) In paragraph (2)(a)(ii)—
+
+- (a) after “the renewable transport fuel”, in the first place where the words occur, insert “, or a chemical precursor to it,”;
+- (b) after “EEA state” insert “or the UK”.
+
+(4) In paragraph (3)—
+
+- (a) in sub-paragraph (b), after “12(1)(a)” insert “and (c)”;
+- (b) in sub-paragraph (ea)—
+  - (i) after “the renewable transport fuel”, in the first place where the words occur, insert “, or a chemical precursor to it,”;
+  - (ii) after “EEA state” insert “or the UK”;
+- (c) for sub-paragraph (g), substitute—
+
+  > - (g) the supplier makes the application for the RTF certificate—
+  >   - (i) in respect of an obligation period which ends on 14th April in a year, by 12th August of that year (or the next working day after 12th August, if 12th August is not a working day);
+  >   - (ii) in respect of an obligation period which ends on 31st December in a year, by 12th May of the following year (or the next working day after 12th May, if 12th May is not a working day),
+  >
+  >   or such later date as the Administrator may notify to the supplier for the purposes of this sub-paragraph; and
+  > - (h) the Administrator is satisfied that, at the assessment time, the supplier owns or owned the fuel in respect of which the application for an RTF certificate is made.
+
+  .
+
+### 16. Amendment of article 16A[^key-3fb59dbd179426d85cd7b5cab88c9ce3]
+
+(1) Article 16A (verifier’s assurance procedures and reports)[^f00038] is amended as follows.
+
+(2) In paragraph (1), at the beginning, for “A” substitute “Subject to paragraph (3), a”.
+
+(3) After paragraph (2), insert—
+
+> (3) If the Administrator requires a transport fuel supplier to produce a verifier’s assurance report under article 12(5) (also see article 12(8)), then paragraph (1) has effect as if for “limited assurance engagements”, in both places where the words occur, there were substituted “limited assurance engagements or, if the Administrator requires, reasonable assurance engagements”.
+
+.
+
+### 17. Amendment of article 16B[^key-c2c298a9660db762a0e05ece65b97446]
+
+In article 16B (annual verifier’s report on additional sustainability information)[^f00039], for paragraph (3) substitute—
+
+> (3) The report referred to in paragraph (1) must be submitted to the Administrator—
+>
+> - (a) in respect of an obligation period which ends on 14th April in a year, by 12th August of that year (or the next working day after 12th August, if 12th August is not a working day);
+> - (b) in respect of an obligation period which ends on 31st December in a year, by 12th May of the following year (or the next working day after 12th May, if 12th May is not a working day),
+>
+>   or such later date as the Administrator may notify to the supplier for the purposes of this paragraph.
+
+.
+
+### 18. Amendment of article 17[^key-191a6bd8cda5fe2db2325c1636284c10]
+
+(1) Article 17 (issue of RTF certificates)[^f00040] is amended as follows.
+
+(2) For paragraph (1)(a), substitute—
+
+> - (a) is for use in aircraft, non-road transports or road vehicles,
+
+.
+
+(3) In paragraph (1)(c), for “time when the requirement to pay the duty of excise with which the fuel is chargeable takes effect” substitute “assessment time”.
+
+(4) After paragraph (2), insert—
+
+> (2A) Each RTF certificate must specify which of the following types of renewable transport fuel the certificate relates to—
+>
+> - (a) renewable transport fuel derived from relevant crops;
+> - (b) development fuel;
+> - (c) renewable transport fuel of a type not falling within sub-paragraph (a) or (b).
+
+.
+
+(5) In paragraph (3)—
+
+- (a) in sub-paragraph (a), omit the “and” at the end;
+- (b) omit sub-paragraph (b).
+
+### 19. Insertion of article 17A[^key-1ba30ddcf257777587d1092cb136347b]
+
+After article 17, insert—
+
+> **17A. Issue of an additional RTF certificate**
+>
+> (1) This article applies if—
+>
+> - (a) a transport fuel supplier applies under this Order for an RTF certificate in respect of—
+>   - (i) RFNBO;
+>   - (ii) renewable transport fuel which is made from dedicated energy crops; or
+>   - (iii) renewable transport fuel which is made from one of the following—
+>     - (aa) processing residue;
+>     - (bb) residues from agriculture, aquaculture, fisheries or forestry;
+>     - (cc) waste; and
+> - (b) the fuel described in sub-paragraph (a) qualifies under article 17 for the issue of an RTF certificate for each whole litre of that fuel.
+>
+> (2) If this article applies in relation to a fuel of a type falling within paragraph (1)(a)(i) or (ii), the Administrator must issue to the supplier an additional RTF certificate in respect of each whole litre of that fuel.
+>
+> (3) If this article applies in relation to a fuel of a type falling within paragraph (1)(a)(iii), the Administrator must decide whether the fuel produces one or more of the effects described in section 126(4) of the 2004 Act.
+>
+> (4) If the Administrator decides under paragraph (3) that the fuel produces one or more of those effects, the Administrator must then decide whether, based on that effect (or those effects), to issue to the supplier an additional RTF certificate in respect of each whole litre of that fuel.
+>
+> (5) When making a decision under paragraph (4), the Administrator must consider any alternative uses and alternative disposal outcomes which could have been adopted or used for the relevant residue or waste.
+
+.
+
+### 20. Substitution of article 19[^key-e574a0afed98de93e4e81b8e43647c2a]
+
+For article 19 (use of an RTF certificate in a later obligation period)[^f00041], substitute—
+
+> **19. Use of RTF certificates in later obligation periods**
+>
+> (1) A development fuel RTF certificate may count in relation to the discharge of no more than the following percentage of a transport fuel supplier’s development fuel target in the next obligation period—
+>
+> - (a) if the obligation period stated in the certificate is that beginning on 15th April 2018, 100%;
+> - (b) if the obligation period stated in the certificate is that beginning on 1st January 2019, 0%;
+> - (c) if the obligation period stated in the certificate is any other obligation period beginning after 31st December 2019, 25%.
+>
+> (2) Subject to paragraph (3), any RTF certificate may count in relation to the discharge of no more than the following percentage of a transport fuel supplier’s main obligation in the next obligation period—
+>
+> - (a) if the obligation period stated in the certificate is that beginning on 1st January 2019, 0%;
+> - (b) if the obligation period stated in the certificate is any other obligation period beginning on or after 15th April 2017, 25%.
+>
+> (3) The maximum amount of relevant crop RTF certificates which may count in relation to the discharge of a supplier’s main obligation in the next obligation period is the number of such certificates which corresponds with 25% of the amount calculated under article 21A for that period.
+>
+> (4) If, as a result of this article, an RTF certificate “may count” in relation to the discharge of any part of a transport fuel supplier’s renewal transport fuel obligation in the next obligation period, the production of the certificate by the supplier to the Administrator counts as evidence that the amount of renewable transport fuel stated in the certificate was supplied by the supplier at, or for delivery to, places in the United Kingdom during that period.
+>
+> (5) For the purposes of this article, any RTF certificate issued in relation to renewable transport fuel supplied in the obligation period beginning on 1st January 2019 is to be treated as if it were issued in relation to such fuel supplied in the obligation period beginning on 1st January 2020 (and, accordingly, as if the obligation period stated in the certificate were that beginning on 1st January 2020).
+>
+> (6) In this article “next obligation period”, in relation to an RTF certificate, means the obligation period immediately following the obligation period stated in the RTF certificate.
+
+.
+
+### 21. Amendment of article 20[^key-7ced1f2d12517256c6b4394b923d6763]
+
+(1) Article 20 (revocation of an RTF certificate)[^f00042] is amended as follows.
+
+(2) In paragraph (1)(c), for “12(1)(a)” substitute “12(1)”.
+
+(3) For paragraph (4)(c)(ii), substitute—
+
+> - (ii) later than the revocation date in paragraph (4A).
+
+.
+
+(4) After paragraph (4), insert—
+
+> (4A) For the purposes of paragraph (4), the “revocation date” is—
+>
+> - (a) in respect of an obligation period which ends on 14th April in a year, 16th October of that year (or the next working day after 16th October, if 16th October is not a working day);
+> - (b) in respect of an obligation period which ends on 31st December in a year, 16th July of the following year (or the next working day after 16th July, if 16th July is not a working day).
+
+.
+
+(5) In paragraph (5), for “the 23rd October immediately following the obligation period during which the RTF certificate was issued”, substitute “the applicable date in paragraph (5A)”.
+
+(6) After paragraph (5), insert—
+
+> (5A) For the purposes of paragraph (5), the “applicable date” is—
+>
+> - (a) in respect of an obligation period which ends on 14th April in a year, 23rd October of that year (or the next working day after 23rd October, if 23rd October is not a working day);
+> - (b) in respect of an obligation period which ends on 31st December in a year, 23rd July of the following year (or the next working day after 23rd July, if 23rd July is not a working day).
+
+.
+
+(7) In paragraph (7)(a), for “the 6th November” to the end substitute “the notice giving date in paragraph (7A)”.
+
+(8) After paragraph (7), insert—
+
+> (7A) For the purposes of paragraph (7)(a), the “notice giving date” is—
+>
+> - (a) in respect of an obligation period which ends on 14th April in a year, 6th November of that year (or the next working day after 6th November, if 6th November is not a working day);
+> - (b) in respect of an obligation period which ends on 31st December in a year, 6th August of the following year (or the next working day after 6th August, if 6th August is not a working day).
+
+.
+
+(9) In paragraph (8)(b), for “the 15th November” to the end substitute “the reconsideration date in paragraph (8A)”.
+
+(10) After paragraph (8), insert—
+
+> (8A) For the purposes of paragraph (8)(b), the “reconsideration date” is—
+>
+> - (a) in respect of an obligation period which ends on 14th April in a year, 15th November of that year (or the next working day after 15th November, if 15th November is not a working day);
+> - (b) in respect of an obligation period which ends on 31st December in a year, 15th August of the following year (or the next working day after 15th August, if 15th August is not a working day).
+
+.
+
+### 22. Amendment of article 21[^key-4b136dee01dc785b16ceadef2f274cdf]
+
+(1) Article 21 (payments)[^f00043] is amended as follows.
+
+(2) In paragraph (1)(b)—
+
+- (a) for “RTF certificates” substitute “each type of RTF certificate”; and
+- (b) after “RTF account”, insert “, and the number of each type of RTF certificate”.
+
+(3) After paragraph (1), insert—
+
+> (1A) For the purposes of paragraph (1)(b), the maximum number of relevant crop RTF certificates which may be used to meet (or towards meeting) the supplier’s renewable transport fuel obligation may not exceed the number of such certificates which corresponds with the amount calculated under article 21A.
+
+.
+
+(4) In paragraph (3), after “the number” insert “and type”.
+
+(5) In paragraph (6), after “a sum” insert “(the “buy-out amount”)”.
+
+(6) For paragraph (7), substitute—
+
+> (7) The “buy-out amount” is determined as follows—
+>
+> *Step 1*
+>
+> Calculate in litres—
+>
+> - (a) the amount (“the DF only amount”) of development fuel in respect of which the supplier has produced development fuel RTF certificates as evidence (in accordance with paragraph (2)) in relation to the supplier’s development fuel target during the obligation period in question; and
+> - (b) the amount (“the any RTF amount”) of renewable transport fuel of any type in respect of which the supplier has produced RTF certificates (of any type) as evidence (in accordance with paragraph (2)) in relation to the supplier’s main obligation during the obligation period in question.
+>
+> *Step 2*
+>
+> Calculate the number of litres (if any) by which—
+>
+> - (a) the DF only amount falls short of the amount needed to meet the supplier’s development fuel target (“the development fuel target shortfall”); and
+> - (b) the any RTF amount falls short of the amount needed to meet the supplier’s main obligation (“the main obligation shortfall”).
+>
+> *Step 3*
+>
+> Multiply the development fuel target shortfall by £0.80 (“sum A”).
+>
+> *Step 4*
+>
+> Multiply the main obligation shortfall by £0.30 (“sum B”).
+>
+> *Step 5*
+>
+> Add sum A and sum B to produce the buy-out amount.
+
+.
+
+(7) For paragraph (8), substitute—
+
+> (8) For the purposes of section 128(1) of the 2004 Act and this Order, the period within which the buy-out amount, calculated under paragraph (7), must be paid to the Administrator (the “buy-out payment period”) is—
+>
+> - (a) in respect of an obligation period which ends on 14th April in a year, the period beginning on 15th April of that year and ending on 10th January in the following year;
+> - (b) in respect of an obligation period which ends on 31st December in a year, the period beginning on 1st January of the following year and ending on 26th October of that following year.
+
+.
+
+(8) For paragraph (9), substitute—
+
+> (9) Where a supplier does not pay all of the buy-out amount to the Administrator before the end of the buy-out payment period—
+>
+> - (a) the unpaid buy-out amount carries interest at the rate specified in paragraph (10), and is to be calculated in accordance with paragraph (11); and
+> - (b) the unpaid buy-out amount, and any unpaid interest, is a debt due from the supplier to the Administrator until it has been paid in full.
+
+.
+
+(9) In paragraph (10), for “11th January immediately following”, substitute “day immediately after the last day of”.
+
+(10) In paragraph (11), for “11th January immediately following”, substitute “day immediately after the last day of”.
+
+### 23. Insertion of article 21A[^key-87e0564ae401d08e338c4b1569a5c306]
+
+After article 21, insert—
+
+> **21A. Calculation of maximum amount of relevant crop renewable transport fuel that may count towards meeting the obligation**
+>
+> The maximum amount of renewable transport fuel derived from relevant crops which may be used to meet an obligated supplier’s renewable transport fuel obligation in an obligation period listed in column (1) of the following table is the amount of such fuel which equates to the percentage, listed in the corresponding entry in column (2), of the total volume of relevant fuel supplied by the supplier in relation to the obligation period—
+>
+> | (1) Obligation period | (2) Percentage of total volume of relevant fuel supplied |
+> | --- | --- |
+> | *15th April to 31st December 2018* | *4.00%* |
+> | *1st January to 31st December 2019* | *4.00%* |
+> | *1st January to 31st December 2020* | *4.00%* |
+> | *1st January to 31st December 2021* | *3.83%* |
+> | *1st January to 31st December 2022* | *3.67%* |
+> | *1st January to 31st December 2023* | *3.50%* |
+> | *1st January to 31st December 2024* | *3.33%* |
+> | *1st January to 31st December 2025* | *3.17%* |
+> | *1st January to 31st December 2026* | *3.00%* |
+> | *1st January to 31st December 2027* | *2.83%* |
+> | *1st January to 31st December 2028* | *2.67%* |
+> | *1st January to 31st December 2029* | *2.50%* |
+> | *1st January to 31st December 2030* | *2.33%* |
+> | *1st January to 31st December 2031* | *2.17%* |
+> | *1st January to 31st December 2032, and subsequent obligation periods* | *2.00%* |
+
+.
+
+### 24. Revocation and saving of article 22[^key-116a0212606261fa391a95c97986f74c]
+
+Article 22 (re-cycling of buy-out payments)[^f00044] is revoked, but continues to have effect in relation to any obligation period ending on or before 14th April 2017.
+
+### 25. Amendment of article 23[^key-b655f581590bcc5f4ca7257ee7ea1f5e]
+
+(1) Article 23 (civil penalties)[^f00045] is amended as follows.
+
+(2) In paragraph (5), for “the 16th November immediately following the obligation period in question” substitute “the applicable date in paragraph (5A)”.
+
+(3) After paragraph (5), insert—
+
+> (5A) For the purposes of paragraph (5), the “applicable date” is—
+>
+> - (a) in respect of an obligation period which ends on 14th April in a year, 16th November of that year (or the next working day after 16th November, if 16th November is not a working day);
+> - (b) in respect of an obligation period which ends on 31st December in a year, 16th August of the following year (or the next working day after 16th August, if 16th August is not a working day).
+
+.
+
+(4) For paragraph (8), substitute—
+
+> (8) For the purposes of paragraph (7)(a), the value of an RTF certificate is an amount equal to the amount that would be payable, in respect of the fuel to which the certificate relates, if that fuel were to fall within the development fuel target shortfall or the main obligation shortfall under article 21(7).
+
+.
+
+### 26. Revocation of Part 7[^key-5fc4b7c2dbc60269b484504ad414cbba]
+
+Part 7 (transitional provisions)[^f00046] (articles 25 to 30) is revoked.
+
+### 27. Amendment of the Schedule[^key-1e6b8379d87b0eda65c93f7b3a8c4d6a]
+
+(1) The Schedule (sustainability criteria)[^f00047] is amended as follows.
+
+(2) In paragraph 1 (interpretation)—
+
+- (a) omit the definition of “emissions from land-use change”;
+- (b) omit the definition of “excluded land”;
+- (c) omit the definition of “fossil element”;
+- (d) omit the definition of “low emissions area”;
+- (e) in the definition of “new chain of installations”, for “begins on or after 1st January 2017” substitute “began after 5th October 2015”;
+- (f) in the definition of “old chain of installations”, for “23rd January 2008” substitute “or before 5th October 2015”;
+- (g) omit the definition of “relevant biofuel production pathway”;
+- (h) omit the definition of “relevant nature protection purposes”;
+- (i) omit the definition of “renewable element”.
+
+(3) In paragraph 2 (compliance with the sustainability criteria), for sub-paragraph (2) substitute—
+
+> (2) An amount of renewable transport fuel which—
+>
+> - (a) is produced from residues (including processing residues) which are not residues from agriculture, aquaculture, fisheries or forestry;
+> - (b) is produced from wastes which are not residues from agriculture, aquaculture, fisheries or forestry; or
+> - (c) consists of RFNBO;
+>
+> meets the sustainability criteria if it meets the GHG emission saving threshold, whether or not it meets the land criteria.
+
+.
+
+(4) In paragraph 3 (greenhouse gas emission saving threshold)—
+
+- (a) in sub-paragraph (2), after “volume of that fuel which”, omit “is”;
+- (b) in sub-paragraph (2)(a)—
+  - (i) before “attributable” insert “is”;
+  - (ii) omit the “or” at the end;
+- (c) for sub-paragraph (2)(b), substitute—
+
+  > - (b) is produced from residues (including processing residues) which are not residues from agriculture, aquaculture, fisheries or forestry;
+  > - (c) is produced from wastes which are not residues from agriculture, aquaculture, fisheries or forestry; or
+  > - (d) consists of RFNBO.
+
+  ;
+- (d) in sub-paragraph (3), after “renewable transport fuel” insert “of a type falling within sub-paragraph (2)”;
+- (e) after sub-paragraph (3), insert—
+
+  > (4) The GHG emission saving from the use of an amount of renewable transport fuel which consists of RFNBO is determined by reference to any guidance produced by the Administrator under article 15(2)(b).
+
+  .
+
+(5) For paragraph 4, substitute—
+
+> **4. Minimum emission saving**
+>
+> For the purposes of this Schedule, the “minimum GHG emission saving”, in relation to renewable transport fuel supplied at, or for delivery to, places in the United Kingdom, is—
+>
+> - (a) if the fuel is produced in an old chain of installations, 50%;
+> - (b) if the fuel is produced in a new chain of installations, 60%.
+
+.
+
+(6) In paragraph 5 (default value)—
+
+- (a) for sub-paragraph (2), substitute—
+
+  > (2) If a value is specified in parts A and B of Annex V to the directive for a default GHG emission saving for a relevant biofuel production pathway, the default value is equal to that specified value if the emissions from land-use change are equal to or less than zero, where—
+  >
+  > - “relevant biofuel production pathway” means the biofuel production pathway (set out in parts A and B of Annex V to the directive) applicable to the renewable transport fuel in question or, where that renewable transport fuel is partially renewable transport fuel, the biofuel production pathway applicable to the part of that renewable transport fuel which is derived from relevant feedstock; and
+  > - “emissions from land-use change” means the annualised emissions from land-use change attributable to the renewable transport fuel as calculated in accordance with paragraph 7 of part C of Annex V to the directive.
+
+  .
+- (b) omit sub-paragraph (3).
+
+(7) In paragraph 6 (actual value), omit sub-paragraph (4).
+
+(8) In paragraph 8(1) (land criteria categories), after paragraph (d) insert—
+
+> - (e) land which is natural highly biodiverse grassland, or which has been natural highly biodiverse grassland at any time after December 2007.
+
+.
+
+(9) In paragraph 9 (exceptions)—
+
+- (a) for sub-paragraph (1)(a), substitute—
+
+  > - (a) the relevant land is not—
+  >   - (i) primary forest;
+  >   - (ii) land that is covered with, or saturated by, water permanently or for a significant part of the year;
+  >   - (iii) land spanning more than one hectare with trees higher than five metres and a canopy cover of more than 30%, or trees able to reach those thresholds in situ;
+
+  ;
+- (b) after sub-paragraph (2)(c), insert—
+
+  > - (d) land which is non-natural highly biodiverse grassland, or which has been non-natural highly biodiverse grassland at any time after December 2007.
+
+  ;
+- (c) in sub-paragraph (3)(a), for “relevant nature protection purposes” substitute “purposes, if any, for which the relevant land was designated as a nature protection area”;
+- (d) in sub-paragraph (3)(b), omit the “and” at the end;
+- (e) in sub-paragraph (3)(c), insert “; and” at the end;
+- (f) after sub-paragraph (3)(c), insert—
+
+  > - (d) in relation to land that is non-natural highly biodiverse grassland, or which has been non-natural highly biodiverse grassland at any time after December 2007, evidence that the harvesting of the raw material is necessary to preserve its status as grassland.
+
+  ;
+- (g) after sub-paragraph (4), insert—
+
+  > (5) “Natural highly biodiverse grassland” and “non-natural highly biodiverse grassland” have the meanings given in [Commission Regulation (EU) No 1307/2014](https://www.legislation.gov.uk/european/regulation/2014/1307) of 8 December 2014[^f00048] on defining the criteria and geographic ranges of highly biodiverse grassland for the purposes of Article 7b(3)(c) of [Directive 98/70/EC](https://www.legislation.gov.uk/european/directive/1998/0070) of the European Parliament and of the Council of 13 October 1998[^f00049] relating to the quality of petrol and diesel fuels, etc. (also see Article 17(3)(c) of the directive).
+
+  .
+
+## PART 4 — GREENHOUSE GAS EMISSIONS AMENDMENTS[^key-545acf65453d3522e7327cf2985ec23c]
+
+**No longer in force.**
+
+### 28. Introductory[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. Amendment of regulation 2[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 30. Amendment of regulation 3[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 31. Amendment of regulation 4[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 32. Amendment of regulation 5[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 33. Amendment of regulation 6[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 34. Insertion of Part 2A[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 35. Amendment of regulation 7[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 36. Amendment of regulation 8[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 37. Amendment of regulation 9[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 38. Amendment of regulation 10[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 39. Amendment of regulation 12[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 40. Substitution of regulation 13[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 41. Amendment of regulation 14[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 42. Amendment of regulation 15[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 43. Insertion of regulation 15A[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 44. Amendment of regulation 16[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 45. Insertion of Part 3A[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 46. Amendment of regulation 17[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 47. Amendment of regulation 18[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 48. Amendment of regulation 25[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 49. Substitution of regulation 26[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 50. Insertion of Schedule[^key-545acf65453d3522e7327cf2985ec23c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Jesse Norman
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+13th March 2018
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make various amendments in relation to the implementation of Council Directive (EU) 2015/652 and the changes made to Directives [98/70/EC](https://www.legislation.gov.uk/european/directive/1998/0070) and [2009/28/EC](https://www.legislation.gov.uk/european/directive/2009/0028) by [Directive 2015/1513/EU](https://www.legislation.gov.uk/european/directive/2015/1513). The key changes and provisions are summarised as follows.
+
+Part 2 contains consequential amendments to section 132 of the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20).
+
+Part 3 amends the Renewable Transport Fuel Obligations Order 2007 ([S.I. 2007/3072](https://www.legislation.gov.uk/uksi/2007/3072), “the RTFO Order”). Regulations 7 and 8 make various amendments in relation to definitions used in the RTFO Order including, in particular, the creation of a new definition for “development fuel”. Regulations 9 and 11 amend certain transport fuel suppliers’ obligations in relation to the production of evidence to show that certain amounts and types of renewable transport fuel have been supplied in the United Kingdom during a particular period; they also amend the way that amounts of fuel are calculated. Regulation 18 makes provision that requires that renewable transport fuel certificates (“RTFC”) must specify, of 3 categories, the particular type of fuel to which the RTFC relates. Regulation 19 makes provision for the award of an additional RTFC for a volume of fuel in certain circumstances. Regulation 20 substitutes the provision as to the redemption of RTFCs by suppliers in later obligation periods. Regulation 22 amends provision as to the calculation of the payment that is required if a supplier fails to meet its main renewable transport fuel obligation or its development fuel target (or both). Regulation 23 sets out the maximum amount of renewable transport fuel derived from relevant crops which may count towards suppliers meeting their obligations in a particular period.
+
+Part 4 amends the Motor Fuel (Road Vehicle and Mobile Machinery) Greenhouse Gas Emissions Reporting Regulations 2012 ([S.I. 2012/3030](https://www.legislation.gov.uk/uksi/2012/3030)). Regulations 29 and 30 make various amendments in relation to definitions. Regulation 34 inserts provision for certain suppliers to incur an obligation to produce evidence that they have reduced or offset amounts of greenhouse gas (“GHG”) emissions where they have supplied, in a particular period, energy products with GHG emissions per unit of energy above a specified threshold. Regulation 40 substitutes provision as to the evidence or information that must be provided by certain suppliers and applicants for GHG credits, and regulation 50 inserts further details about the evidence or information required. Regulation 45 inserts various new provisions in relation to GHG credits, in particular as to the calculation of the number of credits that may be issued to a supplier, applications for credits, the issue of credits, transfers of credits, revocation of credits and the payment that must be made in certain circumstances if a supplier fails to discharge a GHG reduction obligation. Regulation 47 amends the provision as to penalties if certain provisions are contravened.
+
+Pursuant to section 7(8) of the Pollution Prevention and Control Act [1999 (c.24)](https://www.legislation.gov.uk/ukpga/1999/24), the amendments set out in Part 4 extend to Northern Ireland.
+
+An impact assessment on the effect that these Regulations will have on the costs of business and the voluntary sector is available from the Low Carbon Fuels Division, Department for Transport, Great Minster House, 33 Horseferry Road, London SW1P 4DR (telephone 0207 944 4138). The impact assessment and a transposition note are annexed to the Explanatory Memorandum which is available alongside these Regulations on the UK legislation website at http://www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c.20](https://www.legislation.gov.uk/ukpga/2004/20) (“the 2004 Act”).
+
+[^f00002]: Footnote: [1999 c.24](https://www.legislation.gov.uk/ukpga/1999/24) (“the 1999 Act”).
+
+[^f00003]: Footnote: Sections 125A, 125B and 126(5) of the 2004 Act were inserted by section 78 of, and Schedule 7 to, the Climate Change Act [2008 (c.27)](https://www.legislation.gov.uk/ukpga/2008/27). Section 192(4) of the 2004 Act was amended by section 62 of the Scotland Act [2016 (c.11)](https://www.legislation.gov.uk/ukpga/2016/11).
+
+[^f00004]: Footnote: Paragraph 21A of Schedule 1 to the 1999 Act was inserted by section 38 of the Waste and Emissions Trading Act [2003 (c.33)](https://www.legislation.gov.uk/ukpga/2003/33). There are other amendments to the 1999 Act which are not relevant to these Regulations.
+
+[^f00005]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68) (“the 1972 Act”). Section 2(2) of the 1972 Act was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^f00006]: Footnote: Paragraph 1A of Schedule 2 to the 1972 Act was inserted by section 28 of the Legislative and Regulatory Reform Act 2006. It was amended by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act 2008 and by [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388).
+
+[^f00007]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
+
+[^f00008]: Footnote: [S.I. 2010/761](https://www.legislation.gov.uk/uksi/2010/761).
+
+[^key-2fe72a152e08cc0869a2efdbe35f2a1d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^key-758f1ae14c403e8ac8ade2ceee69f567]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/374/regulation/2) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^key-823aee5ac82d6c429c96b7785bf66fda]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/374/regulation/3) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^key-b0104a252c9965c3b921e95d7caf3315]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/374/regulation/4) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00009]: Footnote: Section 132 of the 2004 Act was amended by section 78 of, and Schedule 7, to the Climate Change Act 2008 and by [S.I. 2012/2723](https://www.legislation.gov.uk/uksi/2012/2723). There are other amendments which are not relevant to these Regulations.
+
+[^f00010]: Footnote: OJ L 252 16.9.2016 p.118.
+
+[^f00011]: Footnote: OJ L 252 16.9.2016 p.53.
+
+[^f00012]: Footnote: OJ L 354 28.12.2013 p.90.
+
+[^f00013]: Footnote: OJ L 60 2.3.2013 p.1. There are amendments to the EU instrument which are not relevant to these Regulations.
+
+[^key-bf3003d5cd77d0a4a1d1ea3a11c6619a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/374/regulation/5) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00014]: Footnote: [S.I. 2007/3072](https://www.legislation.gov.uk/uksi/2007/3072).
+
+[^key-a80ccef24d3acf77aa31bb39214a0f0e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/374/regulation/6) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00015]: Footnote: Section 30 of the Small Business, Enterprise and Employment Act [2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) was amended by section 19 of the Enterprise Act [2016 (c.12)](https://www.legislation.gov.uk/ukpga/2016/12).
+
+[^key-cab97a25f0e581683cc3b187223ea740]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/374/regulation/7) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00016]: Footnote: Article 2 was amended by [S.I. 2011/493](https://www.legislation.gov.uk/uksi/2011/493), [2011/2937](https://www.legislation.gov.uk/uksi/2011/2937), [2013/816](https://www.legislation.gov.uk/uksi/2013/816) and [2015/534](https://www.legislation.gov.uk/uksi/2015/534).
+
+[^f00017]: Footnote: [S.I. 2012/3030](https://www.legislation.gov.uk/uksi/2012/3030).
+
+[^f00018]: Footnote: A copy of the relevant standard can be obtained from Portland Customer Services, Commerce Way, Whitehall Industrial Estate, Colchester, Essex CO2 8HP (email: sales@portland-services.com) or SAI Global - ILI Publishing, Index House, Ascot, Berkshire, SL5 7EU (website: www.ili.co.uk or www.i2isolutions.net; email: standards@saiglobal.com).
+
+[^f00019]: Footnote: The Energy Institute, 61 New Cavendish Street, London W1G 7AR; https://www.energyinst.org/home.
+
+[^f00020]: Footnote: Joint Inspection Group Limited, 9 Caxton House, Broad Street, Cambourne, Cambridgeshire, CB23 6JN (http://www.jigonline.com/).
+
+[^f00021]: Footnote: See section 127(1) of the 2004 Act for the meaning of “RTF certificates”.
+
+[^f00022]: Footnote: The directive was amended by Council [Directive 2013/18/EU](https://www.legislation.gov.uk/european/directive/2013/0018) of 13 May 2013 (OJ L 158 10.6.2013 p.230) and Directive (EU) 2015/1513 of the European Parliament and of the Council of 9 September 2015 (OJ L 239 15.9.2015 p.1).
+
+[^f00023]: Footnote: A copy of the relevant Merchant Shipping Notice can be obtained from Navigational Safety Branch, Maritime and Coastguard Agency, Bay 2/25, Spring Place, 105 Commercial Road, Southampton SO15 1EG (email: navigationsafety@mcga.gov.uk). It can also be obtained online: https://www.gov.uk/government/publications/msn-1837-m-amendment-2-categorisation-of-waters.
+
+[^f00024]: Footnote: See section 132(1) of the 2004 Act for the definition of “renewable transport fuel”.
+
+[^key-c83f1114592ce7ebd5d55c4c0903653d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/374/regulation/8) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00025]: Footnote: Article 3 was amended by [S.I. 2009/843](https://www.legislation.gov.uk/uksi/2009/843), [2011/2937](https://www.legislation.gov.uk/uksi/2011/2937) and [2013/816](https://www.legislation.gov.uk/uksi/2013/816).
+
+[^f00026]: Footnote: Section 1(3D) of the 1979 Act was inserted by section 16 of, and Schedule 6 to, the Finance Act [2008 (c.9)](https://www.legislation.gov.uk/ukpga/2008/9).
+
+[^f00027]: Footnote: A copy of the relevant ASTM standard can be obtained from ASTM Headquarters, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959, USA (https://www.astm.org/CONTACT/index.html).
+
+[^f00028]: Footnote: A copy of the relevant Ministry of Defence standard can be obtained from UK Defence Standardisation, Kentigern House, Room 1138, 65 Brown Street, Glasgow G2 8EX (email: enquiries@dstan.mod.uk).
+
+[^f00029]: Footnote: See previous footnote for details of where to obtain a copy of the relevant ASTM standard.
+
+[^f00030]: Footnote: See previous footnote for details of where to obtain a copy of the relevant Ministry of Defence standard.
+
+[^f00031]: Footnote: Copies of the relevant BS EN standards can be obtained from: BSI, 389 Chiswick High Road, London W4 4AL (email: cservices@bsigroup.com).
+
+[^key-3f29f96f8908ad6c23b9599c5a78d483]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/374/regulation/9) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00032]: Footnote: Article 4 was amended by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937), [2013/816](https://www.legislation.gov.uk/uksi/2013/816) and [2015/534](https://www.legislation.gov.uk/uksi/2015/534).
+
+[^key-e1d1b18313631c979736290ce9b3e6e8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/374/regulation/10) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00033]: Footnote: Article 4A was inserted by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
+
+[^key-a66ee75b799f6105472b9ceb53d2de75]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/374/regulation/11) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00034]: Footnote: Article 5 was amended by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937), [2013/816](https://www.legislation.gov.uk/uksi/2013/816) and [2015/534](https://www.legislation.gov.uk/uksi/2015/534).
+
+[^key-2cc81c4f95f0867d530b3880272bb289]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2018/374/regulation/12) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^key-532ad8dfb79314e383a0a0c4d5579d87]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/374/regulation/13) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00035]: Footnote: Article 12 was amended by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
+
+[^key-193c3d0a07660f918e25619fd92bc911]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/374/regulation/14) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00036]: Footnote: Article 15 was amended by [S.I. 2011/493](https://www.legislation.gov.uk/uksi/2011/493) and [2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
+
+[^key-e422e2410560f8ae7e205894eff7ecef]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/374/regulation/15) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00037]: Footnote: Article 16 was amended by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937) and [2015/534](https://www.legislation.gov.uk/uksi/2015/534).
+
+[^key-3fb59dbd179426d85cd7b5cab88c9ce3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/374/regulation/16) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00038]: Footnote: Article 16A was inserted by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
+
+[^key-c2c298a9660db762a0e05ece65b97446]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2018/374/regulation/17) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00039]: Footnote: Article 16B was inserted by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
+
+[^key-191a6bd8cda5fe2db2325c1636284c10]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2018/374/regulation/18) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00040]: Footnote: Article 17 was amended by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937) and [2013/816](https://www.legislation.gov.uk/uksi/2013/816).
+
+[^key-1ba30ddcf257777587d1092cb136347b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2018/374/regulation/19) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^key-e574a0afed98de93e4e81b8e43647c2a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2018/374/regulation/20) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00041]: Footnote: Article 19 was substituted by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
+
+[^key-7ced1f2d12517256c6b4394b923d6763]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2018/374/regulation/21) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00042]: Footnote: Article 20 was amended by [S.I. 2011/493](https://www.legislation.gov.uk/uksi/2011/493) and [2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
+
+[^key-4b136dee01dc785b16ceadef2f274cdf]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2018/374/regulation/22) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00043]: Footnote: Article 21 was amended by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
+
+[^key-87e0564ae401d08e338c4b1569a5c306]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2018/374/regulation/23) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^key-116a0212606261fa391a95c97986f74c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2018/374/regulation/24) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00044]: Footnote: Article 22 was amended by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
+
+[^key-b655f581590bcc5f4ca7257ee7ea1f5e]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2018/374/regulation/25) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00045]: Footnote: Article 23 was amended by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937) and [2013/816](https://www.legislation.gov.uk/uksi/2013/816).
+
+[^key-5fc4b7c2dbc60269b484504ad414cbba]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2018/374/regulation/26) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00046]: Footnote: Part 7 was inserted by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
+
+[^key-1e6b8379d87b0eda65c93f7b3a8c4d6a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2018/374/regulation/27) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+
+[^f00047]: Footnote: The Schedule was revoked by [S.I. 2011/493](https://www.legislation.gov.uk/uksi/2011/493) and re-inserted by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
+
+[^f00048]: Footnote: OJ L 351 9.12.2014 p. 3.
+
+[^f00049]: Footnote: OJ L 350 28.12.1998 p.58. The directive has been amended by Commission [Directive 2000/71/EC](https://www.legislation.gov.uk/european/directive/2000/0071) of 7 November 2000 (OJ L 287 14.11.2000 p.46); [Directive 2003/17/EC](https://www.legislation.gov.uk/european/directive/2003/0017) of the European Parliament and of the Council of 3 March 2003 (OJ L 76 22.3.2003 p.10); Regulation [(EC) No 1882/2003](https://www.legislation.gov.uk/european/regulation/2003/1882) of the European Parliament and of the Council of 29 September 2003 (OJ L 284 31.10.2003 p.1); [Directive 2009/30/EC](https://www.legislation.gov.uk/european/directive/2009/0030) of the European Parliament and of the Council of 23 April 2009 (OJ L 140 5.6.2009 p.88); Commission [Directive 2011/63/EU](https://www.legislation.gov.uk/european/directive/2011/0063) of 1 June 2011 (OJ L 147 2.6.2011 p.15); Commission [Directive 2014/77/EU](https://www.legislation.gov.uk/european/directive/2014/0077) of 10 June 2014 (OJ L 170 11.6.2014 p.62); and Directive (EU) 2015/1513 of the European Parliament and of the Council of 9 September 2015 (OJ L 239 15.9.2015 p.1).
+
+[^key-545acf65453d3522e7327cf2985ec23c]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2018/374/part/4) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

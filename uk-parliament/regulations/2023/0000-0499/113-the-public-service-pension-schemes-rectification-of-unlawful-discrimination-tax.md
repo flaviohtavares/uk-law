@@ -1,0 +1,1347 @@
+---
+title: The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023
+id: uksi/2023/113
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2023-02-02'
+text_date: '2026-07-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2023/113
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2023/113/pdfs/uksiem_20230113_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/113/pdfs/uksi_20230113_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/113/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023
+
+> Text as at 2026-07-14.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2023 No. 113
+
+Income Tax
+
+Capital Gains Tax
+
+Inheritance Tax
+
+The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023
+
+Made
+
+2nd February 2023
+
+Laid before the House of Commons
+
+6th February 2023
+
+Coming into force
+
+6th April 2023
+
+The Treasury make these Regulations in exercise of the powers conferred by section 11 of the Finance Act 2022[^f00001].
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and effect[^key-47824a75f55c7574cf755ce96ef785eb]
+
+(1) These Regulations may be cited as the Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023.
+
+(2) These Regulations come into force on 6th April 2023.
+
+(3) These Regulations have effect so as to modify enactments in their application in relation to a relevant person[^f00002].
+
+### 2. Interpretation[^key-865299c0957f78418fca5f8fb66922d1]
+
+(1) In these Regulations—
+
+- “**2015 scheme election**” has the same meaning as in Chapter 2 of Part 1 of PSPJOA 2022[^f00003];
+- “**accounting-for-tax return**” means a return under section 254 of FA 2004 (accounting for tax by scheme administrators)[^f00004];
+- “**attributable**” (in Chapter 4 of Part 2) has the meaning given by regulation 33(7);
+- “**Chapter 1 legacy scheme**” has the same meaning as in Chapter 1 of Part 1 of PSPJOA 2022;
+- “**Chapter 1 new scheme**” has the same meaning as in Chapter 1 of Part 1 of PSPJOA 2022;
+- “**Chapter 1 scheme**” has the same meaning as in Chapter 1 of Part 1 of PSPJOA 2022;
+- “**HMRC**” means His Majesty’s Revenue and Customs;
+- “**judicial scheme**” has the same meaning as in Chapter 2 of Part 1 of PSPJOA 2022;
+- “**judicial 2015 scheme**” has the same meaning as in Chapter 2 of Part 1 of PSPJOA 2022;
+- “**local government new scheme**” has the same meaning as in Chapter 3 of Part 1 of PSPJOA 2022;
+- “**pension scheme input amount**” has the meaning given by section 237B(2) of FA 2004[^f00005];
+- “**RPS(AP)R 2009**” means the Registered Pension Schemes (Authorised Payments) Regulations 2009[^f00006];
+- “**RPS(PI)R 2006**” means the Registered Pension Schemes (Provision of Information) Regulations 2006[^f00007];
+- “**the relevant Chapter 1 legacy scheme**” has the same meaning as in Chapter 1 of Part 1 of PSPJOA 2022;
+- “**relevant rectification provision**” (except as provided in regulation 8) means—
+  - (a) any of the following provisions of PSPJOA 2022—
+    - (i) section 2(1) (roll-back of remediable service to Chapter 1 legacy scheme);
+    - (ii) section 6(5) (effect of making new scheme benefits election in respect of pensioner or deceased member[^f00008] of Chapter 1 legacy scheme);
+    - (iii) section 10(4) (effect of making new scheme benefits election in respect of active or deferred member of Chapter 1 legacy scheme);
+    - (iv) section 42(2) (effect of making legacy scheme election in respect of person with remediable service in judicial office);
+    - (v) section 45(2) (effect of making 2015 scheme election in respect of person with remediable service in judicial office);
+  - (b) any provision made by virtue of section 78 of that Act (local government schemes: power to pay final salary benefits);
+- “remediable service benefits[^f00009]” (in Chapter 4 of Part 2) has the meaning given by regulation 32(6) and (7);
+- “**remediable service rights**” (in Chapter 2 of Part 2) has the meaning given by regulation 10(11) and (12);
+- “**scheme pays notice**” means a notice under section 237B(3) of FA 2004[^f00010];
+- “**voluntary arrangements**” means arrangements under which a member of a registered pension scheme pays voluntary contributions to the scheme;
+- “**voluntary contributions**” has the same meaning as in Part 1 of PSPJOA 2022 (see section 110(1) of that Act).
+
+(2) Expressions used in these Regulations, unless otherwise provided, have the same meaning as in Part 4 of FA 2004 (pension schemes etc).
+
+## PART 2 — Modifications of Part 4 of the Finance Act 2004
+
+### CHAPTER 1 — Contributions
+
+#### 3. Tax relief on pension contributions paid to Chapter 1 new scheme unaffected[^key-87bd62e157ffbc6e85c3b8410b3e561c]
+
+In determining for the purposes of section 188 of FA 2004 (relief for contributions)[^f00011] whether an individual is at any time an active member of a Chapter 1 new scheme, section 2(1) of PSPJOA 2022 (roll-back of remediable service to Chapter 1 legacy scheme) is to be ignored.
+
+### CHAPTER 2 — Annual allowance
+
+#### 4. Adjusted income and threshold income calculated on basis of legacy scheme contributions[^key-71e0a62f86faf310c90be3b0f5063014]
+
+(1) Paragraph (2) applies where—
+
+- (a) in any tax year, an individual has remediable service (“the rolled-back service”) that, by virtue of section 2(1) of PSPJOA 2022, is pensionable service under a Chapter 1 legacy scheme, and
+- (b) that provision has effect, in relation to the rolled-back service, for the purposes mentioned in section 2(3)(b) of that Act (effect of section 2(1) on amount of benefits payable).
+
+(2) For the purposes of determining the individual’s adjusted income and threshold income for the tax year—
+
+- (a) any contributions (other than voluntary contributions) paid by the individual to a Chapter 1 new scheme in the tax year in respect of the rolled-back service are to be ignored, and
+- (b) the individual is to be treated as having paid to the Chapter 1 legacy scheme, in the tax year, the contributions that would have been payable by the individual under the scheme in the tax year in respect of the rolled-back service if the service had, at the time it took place, been pensionable service under the scheme.
+
+(3) Any election in relation to the rolled-back service made by virtue of section 10 of PSPJOA 2022 (deferred choice to receive new scheme benefits) is to be ignored for the purposes of determining whether the condition in paragraph (1)(b) is met.
+
+(4) Paragraph (5) applies where—
+
+- (a) a 2015 scheme election is made in relation to an individual, and
+- (b) in any tax year, the individual has remediable service (“the rolled-forward service”) that, by virtue of the election, is pensionable service under a judicial 2015 scheme.
+
+(5) For the purposes of determining the individual’s adjusted income and threshold income for the tax year—
+
+- (a) any contributions (other than voluntary contributions) paid by the individual to a judicial legacy scheme in the tax year in respect of the rolled-forward service are to be ignored, and
+- (b) the individual is to be treated as having paid to the judicial 2015 scheme, in the tax year, the contributions that would have been payable by the individual under the scheme in the tax year in respect of the rolled-forward service if the service had, at the time it took place, been pensionable service under the scheme.
+
+(6) In this regulation—
+
+- “**adjusted income**” means adjusted income for the purposes of section 228ZA of FA 2004 (tapered reduction of annual allowance: high income individual)[^f00012];
+- “**threshold income**” means threshold income for the purposes of that section of that Act.
+
+#### 5. Provision of information by scheme administrators to the Commissioners[^key-ee6aa52a9990d810f8921286226aeb49]
+
+Regulation 3 of RPS(PI)R 2006 (provision of information by scheme administrators to the Commissioners)[^f00013] has effect as if, in paragraph (1), in the table, in the entry for reportable event 22, in the first column, at the end there were inserted “or is required to provide a member with a pension savings statement under regulation 14A(6ZC)”.
+
+#### 6. Annual provision of information by scheme administrator to member[^key-9de0c0b47e7e7ea164c35f97b6b59a5b]
+
+Regulation 14A of RPS(PI)R 2006 (annual allowance: annual provision of information by scheme administrator to member)[^f00014] has effect as if—
+
+- (a) in paragraph (4), after “(5)” there were inserted “, (5A)”;
+- (b) after paragraph (5) there were inserted—
+
+  > (5A) Paragraph (5B) applies where—
+  >
+  > - (a) the relevant tax year is 2022-2023,
+  > - (b) the registered pension scheme is a Chapter 1 scheme, and
+  > - (c) the member has any remediable service in any earlier tax year.
+  >
+  > (5B) The scheme administrator must provide the member with the pension savings statement for that tax year no later than the rectification deadline.
+
+  ;
+- (c) after paragraph (6) there were inserted—
+
+  > (6ZA) Paragraph (6ZC) applies where—
+  >
+  > - (a) an individual is a member of a Chapter 1 scheme or a judicial scheme,
+  > - (b) the aggregate of the member’s pension input amounts for a pension input period changes as a result of the operation of a relevant rectification provision, and
+  > - (c) either—
+  >   - (i) the conditions in paragraph (1)(a) and (b) are met in relation to the member and the pension input period, or
+  >   - (ii) the member has already been provided with a pension savings statement for the tax year in which the pension input period ends.
+  >
+  > (6ZB) Paragraph (6ZC) also applies where—
+  >
+  > - (a) an individual is a member of a local government new scheme,
+  > - (b) the member has already been provided with a pension savings statement for the tax year in which the pension input period ends, and
+  > - (c) the pension input amount shown on that pension savings statement is incorrect because the aggregate of the individual’s pension input amounts for a pension input period has changed as a result of the operation of regulation 14(1) of the Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023.
+  >
+  > (6ZC) The scheme administrator—
+  >
+  > - (a) is not required to amend, so as to reflect the change, any pension savings statement previously provided under paragraph (1) relating to the member and the pension input period;
+  > - (b) must, no later than the rectification deadline, provide the individual with a statement (a “pension savings statement”) containing the information specified in paragraph (2) (whether or not the individual has previously been provided under paragraph (1) with a statement relating to the pension input period).
+  >
+  > (6ZD) Subject to paragraph (6ZE), “**the rectification deadline**”, in relation to a member of a Chapter 1 scheme, a judicial scheme or a local government new scheme, is 6th October 2024.
+  >
+  > (6ZE) Where the Chapter 1 scheme is a Chapter 1 legacy scheme and the member is a pensioner or deceased member, “the rectification deadline” is the later of 6th October 2024 and the end of the period of six months beginning with—
+  >
+  > - (a) the date on which an election under section 6 of PSPJOA 2022 is made in respect of the member, or
+  > - (b) where no such election is made, the end of the section 6 election period.
+  >
+  > (6ZF) For the purposes of paragraph (6ZE) the member is a “pensioner or deceased member” if an election under section 6 of PSPJOA 2022 (immediate choice to receive new scheme benefits) has been made, or is capable of being made, in respect of them.
+  >
+  > (6ZG) In this regulation and regulation 14B—
+  >
+  > - “**Chapter 1 legacy scheme**” has the same meaning as in Chapter 1 of Part 1 of PSPJOA 2022;
+  > - “**Chapter 1 scheme**” has the same meaning as in Chapter 1 of Part 1 of PSPJOA 2022;
+  > - “**judicial scheme**” has the same meaning as in Chapter 2 of Part 1 of PSPJOA 2022;
+  > - “**local government new scheme**” has the same meaning as in Chapter 3 of Part 1 of PSPJOA 2022;
+  > - “**PSPJOA 2022**” means the Public Service and Judicial Offices Act 2022;
+  > - “**the rectification deadline**” has the meaning given in paragraphs (6ZD) to (6ZF);
+  > - “**relevant rectification provision**” means any of the following provisions of PSPJOA 2022—
+  >   - (a) section 2(1) of PSPJOA 2022 (roll-back of remediable service to Chapter 1 legacy scheme);
+  >   - (b) section 6(5) of PSPJOA 2022 (effect of making new scheme benefits election in respect of pensioner or deceased member of Chapter 1 legacy scheme);
+  >   - (c) section 45(2) of PSPJOA 2022 (effect of making 2015 scheme election in respect of person with remediable service in judicial office);
+  > - “**remediable service**” has the same meaning as in Chapter 1 of Part 1 of PSPJOA 2022;
+  > - “**section 6 election period**” has the same meaning as in Chapter 1 of Part 1 of PSPJOA 2022.
+
+  .
+
+#### 7. Provision of information by scheme administrator to member on request[^key-306ee1e6a3b2f545563541504b73d225]
+
+Regulation 14B of RPS(PI)R 2006 (annual allowance: provision of information to member on request)[^f00015] has effect as if—
+
+- (a) in paragraph (1), in the second sentence, for “and (3)” there were substituted “to (9)[^key-778aebd9be87d3362d4d194f0bf40906]”;
+- (b) after paragraph (2) there were inserted—
+
+  > (2A) Paragraph (2B) applies where—
+  >
+  > - (a) the relevant tax year is 2022-2023,
+  > - (b) the registered pension scheme is a Chapter 1 scheme, and
+  > - (c) the member has any remediable service in any earlier tax year.
+  >
+  > (2B) The scheme administrator must provide the member with the information requested under paragraph (1) before—
+  >
+  > - (a) the end of the period of three months beginning with the receipt of the request, or
+  > - (b) if later, the rectification deadline.
+
+  ;
+- (c) in paragraph (3), in sub-paragraph (b), after paragraph (ii) there were inserted—
+
+  > , or
+  >
+  > - (iii) where the conditions mentioned in sub-paragraph (4) are met, the rectification deadline.
+
+  ;
+- (d) after paragraph (3) there were inserted—
+
+  > (4) The conditions referred to in paragraph (3)(b)(iii) are—
+  >
+  > - (a) that the relevant tax year is 2022-2023,
+  > - (b) that the registered pension scheme is a Chapter 1 scheme, and
+  > - (c) that the member has any remediable service in any earlier tax year.
+  >
+  > (5) Paragraph (6) applies where—
+  >
+  > - (a) a member is sent a statement containing information in response to a request under paragraph (1), and
+  > - (b) after the statement is sent, either—
+  >   - (i) the aggregate of the member’s pension input amounts for the relevant pension input period changes as a result of the operation of a relevant rectification provision, or
+  >   - (ii) the pension input amount shown on that pension savings statement is incorrect because the aggregate of the individual’s pension input amounts for the relevant pension input period has changed as a result of the operation of regulation 14(1) of the Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023.
+  >
+  > (6) The scheme administrator must, before the rectification deadline, provide the member with a revised statement containing updated information.
+  >
+  > (7) Paragraph (9) applies where—
+  >
+  > - (a) a member makes a request under paragraph (1), and
+  > - (b) after the request is made, but before the member is sent a statement in response to the request, the aggregate of a member’s pension input amounts for a pension input period changes as a result of the operation of a relevant rectification provision.
+  >
+  > (8) Paragraph (9) also applies where—
+  >
+  > - (a) the aggregate of a member’s pension input amounts for a pension input period changes as a result of the operation of a relevant rectification provision, and
+  > - (b) subsequently, the member makes a request under paragraph (1).
+  >
+  > (9) The scheme administrator must provide the member with the information requested before—
+  >
+  > - (a) the end of the period of six months beginning with the receipt of the request, or
+  > - (b) if later, the rectification deadline.
+
+  .
+
+#### 8. Chapter 1 schemes and judicial 2015 schemes: operation of scheme pays for remedy years[^key-971a99e3e36d5fdafb31fdef47bdc11c]
+
+(1) Paragraphs (2) to (6) apply where—
+
+- (a) an individual has any remediable service in a tax year that is pensionable service under a Chapter 1 scheme or a judicial 2015 scheme, and
+- (b) as a result of a relevant rectification provision, the amount of the individual’s liability to the annual allowance charge for the tax year increases.
+
+(2) Section 237B of FA 2004 (liability of scheme administrator)[^f00016] applies in relation to the tax year and the individual separately in relation to—
+
+- (a) the individual’s liability to the annual allowance charge for the tax year disregarding the increase, and
+- (b) the individual’s liability to the annual allowance charge for the tax year represented by the increase.
+
+(3) In the application of section 237B of FA 2004 as it applies by virtue of paragraph (2)(b)—
+
+- (a) the conditions in paragraphs (a) and (b) of subsection (1) are to be treated as met;
+- (b) subsection (3) has effect as if—
+  - (i)[^key-018eb5921c57d24aa8f517370084d85f] for everything before sub-paragraph (a) there were substituted—
+
+    > (3) The individual may give a notice to the scheme administrator of the Chapter 1 scheme or the judicial 2015 scheme (within the meaning of Chapter 1 or Chapter 2 of Part 1 of the Public Service Pensions and Judicial Offices Act 2022), or to His Majesty’s Revenue and Customs, by digital means, for onward transmission to the scheme administrator, specifying that the individual and the scheme administrator are to be jointly and severally liable in respect of so much of the annual allowance charge arising in the case of the individual as—
+  - (ii) for paragraph (a) there were substituted—
+
+    > - (a) does not exceed the increase in the individual’s liability to the annual allowance charge for the tax year mentioned in regulation 8(1)(b) of the Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023, and
+
+    ;
+- (c) subsections (4) to (4B) are to be ignored.
+- (d)[^key-3ffed724d32eb64886d48309230c7c8d] subsection (5)(a) has effect as if “(but subject to subsection (6))” were omitted;
+- (e) subsection (6) is to be ignored.
+- (f)[^key-cb8fb074e43d1555f7d802cf309459e7] for the purposes of subsection (7), a notice which is given by the individual to HMRC by digital means is treated as having been received by the scheme administrator when HMRC send the notice to the scheme administrator.
+
+(4)[^key-b240b86e5ab6cc5807e342bb3cc638dd] In the application of section 237BA of FA 2004 (time limit for notices under section 237B) in relation to a scheme pays notice given under section 237B of FA 2004 as that section applies by virtue of paragraph (2)(b)—
+
+- (a) the reference in subsection (2) of that section to 31st July is to be read as a reference to 6th July 2027;
+- (b) for the purposes of subsection (2) of that section, a scheme pays notice which is given by the individual to HMRC by digital means is treated as having been given to the scheme administrator at the same time.
+
+(4ZA) In the application of section 254 of FA 2004 (accounting for tax by scheme administrators) in relation to a scheme pays notice given under section 237B of FA 2004 as that section applies by virtue of paragraph (2)(b), for the purposes of subsection (7A)(b), a scheme pays notice which is given by the individual to HMRC by digital means is treated as having been received by the scheme administrator when HMRC send the notice to the scheme administrator.
+
+(4A)[^key-9db137eb2514cc2de69ca61f7ebb77ca] In the application of the Registered Pension Schemes (Notice of Joint Liability for the Annual Allowance Charge) Regulations 2011 in relation to a scheme pays notice given under section 237B of FA 2004 as that section applies by virtue of paragraph (2)(b)—
+
+- (a) regulation 2(2) is to be ignored;
+- (b) regulation 4(2A) is to be ignored;
+- (c) regulation 4(3) has effect as if the further notice was required to be given no later than [^key-6c8b117b48f5f132adcca389764635b5]... 5th July 2032.
+
+(5)[^key-9e749da2da4ffc87067996ef2411dfe5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-9e749da2da4ffc87067996ef2411dfe5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In this regulation “**relevant rectification provision**” means any of the following provisions of PSPJOA 2022—
+
+- (a) section 2(1) (roll-back of remediable service to Chapter 1 legacy scheme);
+- (b) section 6(5) (effect of making new scheme benefits election in respect of pensioner or deceased member of Chapter 1 legacy scheme);
+- (c) section 45(2) (effect of making 2015 scheme election in respect of person with remediable service in judicial office).
+
+#### 9. Chapter 1 schemes: operation of scheme pays for 2022-23[^key-8445c0216393949eb2ba8ed7cf715997]
+
+(1) Section 237B of FA 2004 (liability of scheme administrator) applies in relation to—
+
+- (a) a Chapter 1 scheme,
+- (b) the tax year 2022-23, and
+- (c) an individual who has any remediable service in any earlier tax year,
+
+subject to the modifications specified in paragraph (2).
+
+(2) The modifications of section 237B of FA 2004 mentioned in paragraph (1) are as follows—
+
+- (a) the conditions in paragraphs (a) and (b) of subsection (1) are to be treated as met;
+- (b) subsection (3) has effect as if—[^key-5c2a3315e9babee7dd1780ec0c1549a5]
+  - (i) in the opening words of that subsection, after “the individual may give a notice to the scheme administrator of the pension scheme” there were inserted “, or to His Majesty’s Revenue and Customs, by digital means, for onward transmission to the scheme administrator,”; and
+  - (ii) for paragraph (a) there were substituted—
+
+  > - (a) does not exceed—
+  >
+  >   [formula: see source](https://www.legislation.gov.uk/uksi/2023/113)
+  >
+  >   where—
+  >
+  >   - “A” is the amount of the individual’s liability to the annual allowance[^f00018] charge for the tax year;
+  >   - “B” is the aggregate of the pension input amounts[^f00019] for the tax year in respect of arrangements relating to the individual under the pension scheme;
+  >   - “C” is the aggregate of the pension input amounts for the tax year in respect of arrangements relating to the individual under all registered pension schemes; and
+
+  ;
+- (c) subsections (4) to (4B) are to be ignored.
+- (d)[^key-3299d19825c09ca851cb08d8b456937e] subsection (5)(a) has effect as if “(but subject to subsection (6))” were omitted;
+- (e) subsection (6) is to be ignored.
+- (f)[^key-07ef004201d214c72cf0d73b46e390d8] for the purposes of subsection (7), a notice which is given by the individual to HMRC by digital means is treated as having been received by the scheme administrator when HMRC send the notice to the scheme administrator.
+
+(3)[^key-9184d3734f7b1c0471d8da44591d8d5f] In the application of section 237BA of FA 2004 in relation to a scheme pays notice given in relation to a Chapter 1 scheme for the tax year 2022-23 by an individual who has any remediable service in any earlier tax year—
+
+- (a) the reference in subsection (2) of that section to 31st July is to be read as a reference to 6th July 2027; and
+- (b) for the purposes of subsection (2) of that section a scheme pays notice which is given by the individual to HMRC by digital means is treated as having been given to the scheme administrator at the same time.
+
+(3ZA) In the application of section 254 of FA 2004 (accounting for tax by scheme administrators) in relation to a scheme pays notice given in relation to a Chapter 1 scheme for the tax year 2022-23 by an individual who has any remediable service in any earlier tax year, for the purposes of subsection (7A)(b), a scheme pays notice which is given by the individual to HMRC by digital means is treated as having been received by the scheme administrator when HMRC send the notice to the scheme administrator.
+
+(3A)[^key-7a0ab83ba3225329fe3db6c9cd3f8331] In the application of the Registered Pension Schemes (Notice of Joint Liability for the Annual Allowance Charge) Regulations 2011 in relation to a scheme pays notice given in relation to a Chapter 1 scheme for the tax year 2022-23 by an individual who has any remediable service in any earlier tax year—
+
+- (a) regulation 2(2) is to be ignored;
+- (b) regulation 4(2A) is to be ignored;
+- (c) regulation 4(3) has effect as if the further notice was required to be given no later than [^key-769f912daae1c97a64a24993ed980d54]... 5th July 2032.
+
+(4)[^key-0e39c8043131d962a19866575790d137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-0e39c8043131d962a19866575790d137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10. Chapter 1 schemes: scheme pays treated as operated by legacy schemes[^key-19aa374b46965eb68275eec7a2ecd95f]
+
+(1) Paragraphs (3) to (10) apply where—
+
+- (a) an individual’s pension scheme input amount in relation to a Chapter 1 new scheme for a tax year is (disregarding the effect of section 2(1) of PSPJOA 2022) determined by reference to the individual’s remediable service rights under the scheme,
+- (b) the individual gave a scheme pays notice to the scheme administrator of the scheme in respect of the individual’s liability for the annual allowance charge for the tax year,
+- (c) the joint and several liability under section 237B(7) of FA 2004 of the scheme administrator resulting from the notice has not been discharged under section 237D of FA 2004, and
+- (d) as a result of section 2(1) of PSPJOA 2022, the remediable service is pensionable service under a Chapter 1 legacy scheme.
+
+(2) Paragraphs (3) to (10) also apply where—
+
+- (a) the conditions in sub-paragraphs (a) and (d) of paragraph (1) are met, and
+- (b) the scheme administrator of the Chapter 1 new scheme has, in response to a request from the individual, at any time agreed to pay an amount in respect of the annual allowance charge.
+
+(3) The scheme pays notice is to be treated as not having been given to the scheme administrator of the Chapter 1 new scheme but as having instead been given to the scheme administrator of the Chapter 1 legacy scheme (so that the latter scheme administrator, and not the former, became jointly and severally liable under section 237B(7) of FA 2004 with the individual for the amount specified in the notice).
+
+(4) The request from the individual is to be treated as not having been given to the scheme administrator of the Chapter 1 new scheme but as having instead been given to the scheme administrator of the Chapter 1 legacy scheme.
+
+(5) Any payment made by the scheme administrator of the Chapter 1 new scheme—
+
+- (a) in satisfaction of the joint and several liability as a result of the notice, or
+- (b) under the agreement to pay in response to the request from the individual,
+
+is to be treated as not having been made by that scheme administrator but as having been made instead by the scheme administrator of the Chapter 1 legacy scheme.
+
+(6) Where only part of the pension scheme input amount in relation to the scheme for the tax year is determined by reference to the individual’s remediable service rights under the scheme—
+
+- (a) paragraph (3) or (4) applies to the scheme pays notice, or to the request from the individual (as the case may be), only so far as the annual allowance charge for the tax year is referable to those rights;
+- (b) paragraph (5) applies to a payment made by the scheme administrator of the Chapter 1 new scheme only so far as the annual allowance charge in respect of which it is made is referable to those rights.
+
+(7) For the purposes of paragraph (6) an annual allowance charge is, so far as possible, to be regarded as referable to rights of the individual under the scheme that are not remediable service rights.
+
+(8) In determining the individual’s pension input amounts (for any tax year)—
+
+- (a) any adjustment made under section 237E of FA 2004 to the benefits payable to the individual in consequence of a payment within paragraph (5) is to be ignored;
+- (b) any adjustment made to the benefits payable to the individual in consequence of a payment under paragraph (5)(b) is to be ignored.
+
+(9) Where the amount of the annual allowance charge in respect of which the scheme pays notice is given, or the request from the individual is made (as the case may be), reduces as a result of the operation of a relevant rectification provision, the notice or the request is to be treated as specifying—
+
+- (a) the reduced amount, or
+- (b) where the notice or the request specified only a proportion of the annual allowance charge, the same proportion of the reduced amount.
+
+(10) Neither the scheme administrator of the Chapter 1 new scheme, nor the scheme administrator of the Chapter 1 legacy scheme, is required, in consequence of anything in this regulation, to amend any accounting-for-tax return they have already made.
+
+(11) In this Chapter “**remediable service rights**”, in relation to an individual and a Chapter 1 scheme, means rights under the scheme in respect of the individual’s remediable service in an office or employment.
+
+(12) When determining, for the purposes of paragraph (11), the rights of an individual that are in respect of the individual’s remediable service in an employment or office, any rights that result from voluntary arrangements entered into by the individual are to be ignored.
+
+#### 11. Chapter 1 schemes: administrative provisions relating to scheme pays[^key-790623bdc727d0a0b3a66465eb5a893b]
+
+(1) Paragraphs (2) to (6) apply where—
+
+- (a) an individual’s pension scheme input amount in relation to a Chapter 1 new scheme for a tax year is (disregarding the effect of section 2(1) of PSPJOA 2022) determined by reference to the individual’s remediable service rights under the scheme,
+- (b) the individual has become liable for the annual allowance charge for the tax year (whether or not the liability has subsequently been discharged),
+- (c) the scheme administrator of the Chapter 1 new scheme—
+  - (i) has, as a result of the receipt of a scheme pays notice, at any time become jointly and severally liable for any or all of the annual allowance charge (whether or not the liability has subsequently been discharged), or
+  - (ii) has, in response to a request from the individual, at any time agreed to pay an amount in respect of the annual allowance charge (whether or not the amount has subsequently been paid), and
+- (d) as a result of section 2(1) of PSPJOA 2022, the remediable service is pensionable service under a Chapter 1 legacy scheme.
+
+(2) The scheme administrator of the Chapter 1 new scheme must provide the following information to the scheme administrator of the Chapter 1 legacy scheme—
+
+- (a) the name and pension scheme tax reference number of the Chapter 1 new scheme;
+- (b) the name and national insurance number of the individual;
+- (c) in a case in which the individual has given a scheme pays notice to the scheme administrator of the Chapter 1 new scheme in relation to the annual allowance charge—
+  - (i) the tax year to which the notice relates;
+  - (ii) the date on which the notice was received;
+  - (iii) the amount of the annual allowance charge for which, on receipt of the notice, the scheme administrator of the Chapter 1 new scheme became jointly and severally liable;
+  - (iv) if any of that amount is attributable to the operation of voluntary arrangements under the Chapter 1 scheme, the amount so attributable;
+  - (v) the period covered by the accounting-for-tax return on which the liability was shown or, if no accounting-for-tax return was made that showed the liability, a statement of that fact;
+  - (vi) whether any amount has been paid in respect of the liability and, if so, the amount of the payment and the date on which it was paid;
+- (d) in a case in which the individual has requested that the scheme administrator of the Chapter 1 new scheme pay an amount in respect of the annual allowance charge for the tax year—
+  - (i) the tax year to which the request relates;
+  - (ii) the amount of the annual allowance charge which the scheme administrator has agreed to pay;
+  - (iii) if any of that amount is attributable to the operation of voluntary arrangements under the Chapter 1 scheme, the amount so attributable;
+  - (iv) the period covered by the accounting-for-tax return on which the amount agreed to be paid was shown or, if no accounting-for-tax return was made that showed the amount, a statement of that fact;
+  - (v) whether any amount has been paid pursuant to the agreement and, if so, the amount of the payment and the date on which it was paid.
+
+(3) Where only part of the pension scheme input amount in relation to the scheme for the tax year is determined by reference to the individual’s remediable service rights under the scheme, paragraphs (2)(c)(iii) and (d)(ii) apply only to so much of the annual allowance charge for the tax year as is referable to those rights.
+
+(4) For the purposes of paragraph (3) an annual allowance charge is, so far as possible, to be regarded as referable to rights of the individual under the scheme that are not remediable service rights.
+
+(5) If the amount paid by the scheme administrator of the Chapter 1 legacy scheme in respect of the individual’s liability for the annual allowance charge for the tax year (after taking into account regulation 10(5)) exceeds the amount of that liability, the scheme administrator of the Chapter 1 legacy scheme may reclaim the excess from HMRC only on the making of an application.
+
+(5A)[^key-dda0136a9a33ed3c9c465e14e59e752c] An application under paragraph (5) must be made on or before 31st January 2031[^key-ffbb8ccc29b731fa9e80216d7f82ea92].
+
+(6) An application under paragraph (5)—
+
+- (a) must be accompanied by—
+  - (i) a declaration that the application is made by the scheme administrator;
+  - (ii) a declaration as to the accuracy of the information contained in the application;
+  - (iii) a declaration that the applicant understands the consequences of providing false information; and
+- (b) must contain the following information—
+  - (i) the pension scheme name and tax reference number;
+  - (ii) the scheme administrator identity reference provided by HMRC;
+  - (iii) the name and national insurance number of the scheme member;
+  - (iv) the amount of the charge paid, the date on which, and the charge reference number under which, it was paid;
+  - (v) the pension scheme tax reference number of the scheme under which the scheme administrator reported and paid the amount of the charge to HMRC;
+  - (vi) the tax year and quarter covered by the accounting-for-tax return on which the charge was reported to HMRC;
+  - (vii) the revised amount of the annual allowance charge;
+  - (viii) the amount of tax being reclaimed;
+  - (ix) if a repayment is claimed, the amount and the account details to which repayment is to be made;
+  - (x) if a reallocation is claimed, that amount and the charge reference to which it is to be allocated.
+
+(7) Paragraph (8) applies where—
+
+- (a) an individual’s pension scheme input amount in relation to a Chapter 1 new scheme for a tax year is (disregarding the effect of section 2(1) of PSPJOA 2022) determined by reference to the individual’s rights in respect of the individual’s remediable service,
+- (b) as a result of section 2(1) of PSPJOA 2022, the remediable service is pensionable service under a Chapter 1 legacy scheme,
+- (c) the individual has an outstanding liability for the annual allowance charge for the tax year, and
+- (d) the individual gives a scheme pays notice to the scheme administrator of the Chapter 1 legacy scheme in respect of that outstanding liability (or any part of it).
+
+(8) The scheme administrator of the Chapter 1 legacy scheme must include the following information on the accounting-for-tax return for the period in which the scheme pays notice is received—
+
+- (a) whether a payment (“the previous payment”) in respect of the annual allowance charge for the tax year has already been reported by the scheme administrator, or by the scheme administrator of the Chapter 1 new scheme, and
+- (b) if so—
+  - (i) the amount of the previous payment, the tax year to which it relates, and the date on which it was made;
+  - (ii) the period covered by the accounting-for-tax return that included particulars of the previous payment;
+  - (iii) whether the previous payment was made by the scheme administrator of the Chapter 1 legacy scheme or the scheme administrator of the Chapter 1 new scheme;
+  - (iv) if the previous payment was made by the scheme administrator of the Chapter 1 new scheme, the pension scheme tax reference number of that scheme.
+
+#### 12. Chapter 1 legacy schemes: effect of new scheme benefits election in first pension input period[^key-9b53834ce6ea1cdbf24edbd501e5d162]
+
+(1) Paragraph (2) applies where—
+
+- (a) a new scheme benefits election is made in relation to the remediable service of an individual, and
+- (b) as a result of the election, the pension input amount in respect of an arrangement under the relevant Chapter 1 legacy scheme for the retirement pension input period would (disregarding paragraph (2)) increase.
+
+(2) For the purposes of determining the pension input amount of the individual in respect of the arrangement for the retirement pension input period, the individual is to be treated, on and after the coming into effect of the election, as entitled to the benefits determined by reference to the remediable service that the individual would have been entitled to if the election had not been made.
+
+(3) In this regulation—
+
+- “**new scheme benefits election**” means an election under section 6 or 10 of PSPJOA 2022;
+- “**relevant Chapter 1 legacy scheme**” means the Chapter 1 legacy scheme under which the remediable service of the individual is pensionable service;
+- “**retirement pension input period**” means the pension input period ending in the tax year in which the new scheme benefits election comes into effect.
+
+#### 13. Chapter 1 legacy schemes: effect of new scheme benefits election in later pension input periods[^key-8f898ead1cac85b3f22ec4d64c00954c]
+
+(1) Paragraph (2) applies where—
+
+- (a) a new scheme benefits election is made in relation to the remediable service of an individual, and
+- (b) at the beginning of the first post-retirement pension input period, the individual is entitled under an arrangement under the relevant Chapter 1 legacy scheme to—
+  - (i) the present payment of benefits determined otherwise than by reference to the remediable service, and
+  - (ii) the future payment of benefits [^key-5ce36f85fece681412f7e505d50fa675]....
+
+(2) For the purposes of determining the pension input amounts of the individual in respect of arrangements under the relevant Chapter 1 legacy scheme for the first post-retirement pension input period or any subsequent pension input period, the individual’s rights to the benefits mentioned in paragraph (1)(b)(i) and the individual’s rights to the benefits mentioned in paragraph (1)(b)(ii) are to be treated as arising under separate arrangements.
+
+(3) In this regulation—
+
+- “**the first post-retirement pension input period**” means the pension input period of the individual immediately following the pension input period of the individual in which the new scheme benefits election comes into effect;
+- “**new scheme benefits election**” means an election under section 6 or 10 of PSPJOA 2022;
+- “**relevant Chapter 1 legacy scheme**” means the Chapter 1 legacy scheme under which the remediable service of the individual is pensionable service.
+
+#### 14. Local government new schemes: final salary uplifts ignored in calculating pension input amount[^key-92512ddc89eb4554c76ca8ade6f818dc]
+
+(1) A final salary uplift to which an individual is or may become entitled is to be ignored for the purposes of determining the individual’s pension input amounts for any pension input period.
+
+(2) In this regulation “**final salary uplift**” means an increase in the benefits payable to the individual under regulations made by virtue of section 78(1) of PSPJOA 2022 (power of local government new scheme to pay final salary benefits in respect of remediable service).
+
+(3) This regulation is to be treated as always having had effect.
+
+#### 15. Judicial schemes and local government schemes: administrative provisions relating to scheme pays[^key-fd9246a606389a4b204f7cca64e3ee57][^key-fb700cd690cc111e25d9709c7ef347c2]
+
+(1) Paragraph (2) applies where—
+
+- (a) an individual’s pension scheme input amount in relation to a judicial 2015 scheme for a tax year is determined by reference to the individual’s remediable service rights under the scheme,
+- (b) the individual has become liable for the annual allowance charge for the tax year (whether or not the liability has subsequently been discharged),
+- (c) the scheme administrator of the judicial 2015 scheme—
+  - (i) has, as a result of the receipt of a scheme pays notice, at any time become jointly and severally liable for any or all of the annual allowance charge (whether or not the liability has subsequently been discharged), or
+  - (ii) has, in response to a request from the individual, at any time agreed to pay an amount in respect of the annual allowance charge (whether or not the amount has subsequently been paid),
+- (d) an amount has been paid by the scheme administrator in respect of the individual’s liability for the annual allowance charge for the tax year, and
+- (e) the amount of the individual’s liability for the annual allowance charge has reduced, as a result of a relevant rectification provision.
+
+(2) The scheme administrator—
+
+- (a) is not required to amend any accounting-for-tax return previously made in respect of the liability;
+- (b) may reclaim from HMRC, only on the making of an application, the lower of—
+  - (i) the amount by which the individual’s liability reduced as a result of the relevant rectification provision, and
+  - (ii) the amount paid by the scheme administrator in respect of the individual’s liability for the annual allowance charge.
+
+(3) Paragraph (4) applies where—
+
+- (a) an individual’s pension scheme input amount in relation to a local government new scheme for a tax year is determined by reference to the individual’s remediable service rights under the scheme,
+- (b) the individual has become liable for the annual allowance charge for the tax year (whether or not the liability has subsequently been discharged),
+- (c) the scheme administrator of the local government new scheme—
+  - (i) has, as a result of the receipt of a scheme pays notice, at any time become jointly and severally liable for any or all of the annual allowance charge (whether or not the liability has subsequently been discharged), or
+  - (ii) has, in response to a request from the individual, at any time agreed to pay an amount in respect of the annual allowance charge (whether or not the amount has subsequently been paid),
+- (d) an amount has been paid by the scheme administrator in respect of the individual’s liability for the annual allowance charge for the tax year, and
+- (e) the amount of the individual’s liability for the annual allowance charge has reduced, as a result of the operation of regulation 14(1).
+
+(4) The scheme administrator—
+
+- (a) is not required to amend any accounting-for-tax return previously made in respect of the liability;
+- (b) may reclaim from HMRC, only on the making of an application, the lower of—
+  - (i) the amount by which the individual’s liability reduced as a result of the operation of regulation 14(1), and
+  - (ii) the amount paid by the scheme administrator in respect of the individual’s liability for the annual allowance charge.
+
+(4A)[^key-55c0bff49b6c4d73fd8748ef0ca9ebae] An application under paragraph (2)(b) or (4)(b) must be made on or before 31st January 2031[^key-9dc34584bece8ad7f3b5d2f6704b6cf9].
+
+(5) An application under paragraph (2)(b) or (4)(b) must contain the following information—
+
+- (a) must be accompanied by—
+  - (i) a declaration that the application is made by the scheme administrator;
+  - (ii) a declaration as to the accuracy of the information contained in the application;
+  - (iii) a declaration that the applicant understands the consequences of providing false information; and
+- (b) must contain the following information—
+  - (i) the pension scheme name and tax reference number;
+  - (ii) the scheme administrator identity reference provided by HMRC;
+  - (iii) the name and national insurance number of the individual scheme member;
+  - (iv) the amount of the charge paid, the date on which, and the charge reference number under which, it was paid;
+  - (v) the pension scheme tax reference number of the scheme under which the scheme administrator reported and paid the amount of the charge to HMRC;
+  - (vi) the tax year and quarter covered by the accounting-for-tax return on which the charge was reported to HMRC;
+  - (vii) the revised amount of the tax charge;
+  - (viii) the amount of tax being reclaimed;
+  - (ix) if a repayment is claimed, the amount and the details of the bank account to which repayment is to be made;
+  - (x) if a reallocation is claimed, the amount and the charge reference to which it is to be allocated.
+
+### CHAPTER 3 — Benefits
+
+#### 16. Protected pension age in Chapter 1 legacy scheme unaffected by new scheme benefits election[^key-e4f8c33932050285752d0bdeee21dcd9]
+
+(1) Paragraph (2) applies for the purposes of determining whether the relevant protected pension age condition is met in relation to an individual and a Chapter 1 legacy scheme.
+
+(2) The effect of any election made in relation to the individual by virtue of section 6 or 10 of PSPJOA 2022 (election for new scheme benefits under Chapter 1 legacy scheme) on the time at which benefits become payable under the scheme is to be ignored.
+
+(3) In this regulation “**the relevant protected pension age condition**” means the condition in sub-paragraph (7)(a) of paragraph 22 of Schedule 36 to FA 2004 (protected pension age available under pension scheme[^f00020] only if entitlement to all benefits under the scheme arises on the same date)[^f00021].
+
+#### 17. Protected pension age in Chapter 1 new scheme unaffected by roll-back[^key-bf2d50ada1e54f1874ccfa3fe8f4e82a]
+
+(1) Paragraph (2) applies for the purposes of determining whether the relevant protected pension age condition is met in relation to an individual and a Chapter 1 new scheme.
+
+(2) The effect, in relation to the individual, of section 2(1) of PSPJOA 2022 (roll-back of remediable service to Chapter 1 legacy scheme) on the existence of any actual or prospective right under the scheme immediately before 4 November 2021 is to be ignored.
+
+(3) In this regulation “**the relevant protected pension age condition**” means the condition in sub-paragraph (3)(a) of paragraph 23ZB of Schedule 36 to FA 2004 (protected pension age available under pension scheme only if individual has right under scheme immediately before 4 November 2021)[^f00022].
+
+#### 18. Pension commencement lump sum: additional lump sum paid to member[^key-67efe8f1cb1bec591b422fca1df31b42]
+
+(1) Paragraph (2) applies where—
+
+- (a) as a result of a relevant rectification provision, an amount by way of lump sum (“the additional lump sum”) has become payable to an individual under a pension scheme, and
+- (b) the additional lump sum—
+  - (i) is paid to the individual after the end of the period specified in paragraph 1(1)(c) of Schedule 29 to FA 2004 (time period within which pension commencement lump sum[^f00023] must be paid)[^f00024],
+  - (ii) could not reasonably have been paid within that period, and
+  - (iii) would, if it had been paid within that period, have been a pension commencement lump sum.
+
+(2) The additional lump sum is a pension commencement lump sum.
+
+#### 19. Trivial commutation lump sum: lump sum already paid[^key-c4a9eda7d32d4497451d83b87ca8715e]
+
+(1) Paragraph (2) applies where—
+
+- (a) an individual has been paid a lump sum which, disregarding the relevant rectification provisions, is a trivial commutation lump sum[^f00025], and
+- (b) as a result of the operation of a relevant rectification provision—
+  - (i) the condition in paragraph 7(1)(b) of Schedule 29 to FA 2004 (commutation limit)[^f00026] has ceased to be met in relation to the lump sum, or
+  - (ii) the condition in paragraph 7(1)(d) of that Schedule (extinguishment of rights) has ceased to be met in relation to the lump sum.
+
+(2) The lump sum is, and is treated as always having been, a trivial commutation lump sum.
+
+#### 20. Trivial commutation lump sum: additional lump sum paid to member[^key-1dbed08eb1432ac59c8c089d9ae96642]
+
+(1) Paragraphs (2) to (4) apply where—
+
+- (a) an individual has been paid a trivial commutation lump sum (“the original TCLS”),
+- (b) as a result of a relevant rectification provision, the individual has acquired rights under a registered pension scheme, and
+- (c) the individual is paid a lump sum (“the top-up lump sum”) which, disregarding—
+  - (i) paragraph 7(1)(a) of Schedule 29 to FA 2004 (requirement that no previous trivial commutation lump sum has been paid), and
+  - (ii) paragraph 7(1)(b) of that Schedule (maximum value on commutation date),
+
+  would be a trivial commutation lump sum.
+
+(2) Subject to paragraph (3), the top-up lump sum is to be treated as a trivial commutation lump sum.
+
+(3) Paragraph (2) does not apply if—
+
+- (a) the top-up lump sum exceeds £10,000, and
+- (b) the aggregate of—
+  - (i) the top-up lump sum, and
+  - (ii) the value of the individual’s pension rights on the nominated date[^f00027] in relation to the original TCLS (as determined under paragraph 7(5) of Schedule 29 to FA 2004),
+
+  exceeds £30,000.
+
+(4) Regulation 3 of RPS(AP)R 2009 (commutation payments) does not apply in relation to the top-up lump sum.
+
+#### 21. Serious ill-health lump sum already paid: status unaffected[^key-01774491ec2c3aa05b1be25241c1140c]
+
+(1) Paragraph (2) applies where—
+
+- (a) an individual has been paid a lump sum which, disregarding the relevant rectification provisions, is a serious ill-health lump sum[^f00028], and
+- (b) as a result of the operation of a relevant rectification provision, the condition in paragraph 4(1)(ca) of Schedule 29 to FA 2004 (extinguishment of rights)[^f00029] has ceased to be met in relation to the lump sum.
+
+(2) The lump sum is, and is to be treated as always having been, a serious ill-health lump sum.
+
+#### 22. Serious ill-health lump sum: additional lump sum paid to member[^key-697b7c4713695beedcbd88aa49808567]
+
+(1) Paragraphs (2) and (3) apply where—
+
+- (a) an individual has been paid a serious ill-health lump sum in respect of an arrangement[^f00030],
+- (b) as a result of a relevant rectification provision, the individual has acquired rights under the arrangement (“the retrospective entitlement”),
+- (c) the individual is paid a lump sum (“the top-up SIHLS”) in respect of that arrangement which, disregarding paragraph 4(1)(ca) of Schedule 29 to FA 2004 (requirement that lump sum extinguish uncrystallised rights), would be a serious ill-health lump sum in respect of that arrangement, and
+- (d) the top-up SIHLS extinguishes the retrospective entitlement.
+
+(2) The top-up SIHLS is to be treated as a serious ill-health lump sum.
+
+(3) Regulation 3 of RPS(AP)R 2009 (commutation payments) does not apply in relation to the payment.
+
+#### 23. Scheme pension: additional scheme pension paid in respect of deceased member[^key-2082e242bbcfea8562dd10c988099952]
+
+(1) Paragraphs (2) and (3) apply where—
+
+- (a) as a result of a relevant rectification provision, an amount or amounts by way of scheme pension[^f00031] (“the scheme pension arrears”) have become payable to a member (“**P**”) or to P’s personal representatives,
+- (b) P dies without having been paid the scheme pension arrears, and
+- (c) the scheme pension arrears are paid instead to P’s personal representatives.
+
+(2) The payment—
+
+- (a) is to be treated as falling within section 164(1) of FA 2004 (authorised member payments)[^f00032];
+- (b) is to be treated as pension paid under a registered pension scheme for the purposes of Part 9 of ITEPA 2003[^f00033];
+- (c) is to be treated for those purposes as pension accruing in the tax year in which it is paid.
+
+(3) Regulation 4 of RPS(AP)R 2009 (pension errors) does not apply in relation to the payment.
+
+#### 24. Pension commencement lump sum: additional lump sum paid for deceased member[^key-c02ae5375685d03fd204089fe694af84]
+
+(1) Paragraphs (2) to (5) apply where—
+
+- (a) as a result of a relevant rectification provision, an amount by way of lump sum (“the additional lump sum”) has become payable to a member (“**P**”), or to P’s personal representatives, under a pension scheme,
+- (b) the additional lump sum would have been a pension commencement lump sum if it had been paid to P within the period specified in paragraph 1(1)(c) of Schedule 29 to FA 2004 (time period within which pension commencement lump sum must be paid),
+- (c) P dies without having been paid the additional lump sum, and
+- (d) the additional lump sum is paid to P’s personal representatives.
+
+(2) The payment—
+
+- (a) is to be treated as falling within section 164(1) of FA 2004 (authorised member payments);
+- (b) is to be treated as a pension commencement lump sum paid under a registered pension scheme for the purposes of Part 9 of ITEPA 2003[^f00034].
+
+(3) The making of the payment is to be treated as a benefit crystallisation event[^f00035] in relation to P for the purposes of the lifetime allowance charge[^f00036].
+
+(4) The amount crystallised for the purposes of that benefit crystallisation event is the amount of the payment.
+
+(5) Regulation 5 of RPS(AP)R 2009 (lump sum errors) does not apply in relation to the payment.
+
+#### 25. Trivial commutation lump sum: additional lump sum paid for deceased member[^key-2b10ccf641969732099ed870bfc412ba]
+
+(1) Paragraphs (2) to (5) apply where—
+
+- (a) an individual (“**P**”) has been paid a trivial commutation lump sum (“the original TCLS”);
+- (b) as a result of a relevant rectification provision P, or P’s personal representatives, have acquired rights under a registered pension scheme,
+- (c) P dies without having received benefits in respect of the rights,
+- (d) a lump sum (“the top-up lump sum”) is paid to P’s personal representatives, and
+- (e) the top-up lump sum would have been a trivial commutation lump sum if—
+  - (i) P had still been living when it was paid, and
+  - (ii) it had been paid to P.
+
+(2) In determining whether the condition in paragraph (1)(e) is met, the following provisions of paragraph 7 of Schedule 29 to FA 2004 (trivial commutation lump sum) are to be disregarded—
+
+- (a) sub-paragraph (1)(a) (requirement that no previous trivial commutation lump sum has been paid), and
+- (b) sub-paragraph (1)(b) (maximum value on nominated date).
+
+(3) Subject to paragraph (4), the top-up lump sum is to be treated as a trivial commutation lump sum.
+
+(4) Paragraph (3) does not apply if—
+
+- (a) the top-up lump sum exceeds £10,000, and
+- (b) the aggregate of—
+  - (i) the top-up lump sum, and
+  - (ii) the value of the individual’s pension rights on the nominated date in relation to the original TCLS (as determined under paragraph 7(5) of Schedule 29 to FA 2004),
+
+  exceeds £30,000.
+
+(5) Regulation 3 of RPS(AP)R 2009 (commutation payments) does not apply in relation to the top-up lump sum.
+
+#### 26. Serious ill-health lump sum: additional lump sum paid for deceased member[^key-cdc7d46a2036cd3deaa9eadd528af68b]
+
+(1) Paragraphs (2) to (6) apply where—
+
+- (a) an individual (“**P**”) has been paid a serious ill-health lump sum in respect of an arrangement,
+- (b) as a result of a relevant rectification provision P, or P’s personal representatives, have acquired rights under the arrangement (“the retrospective entitlement”),
+- (c) P dies without having received benefits in respect of the retrospective entitlement,
+- (d) a lump sum (“the top-up SIHLS”) is paid to P’s personal representatives at a time at which some of P’s lifetime allowance[^f00037] is available, and
+- (e) the top-up SIHLS extinguishes the retrospective entitlement.
+
+(2)[^key-5a0e356e14145137064b88f4a40d21da] The payment is to be treated as a serious ill-health lump sum paid to P under a registered pension scheme.
+
+(3) The making of the payment is to be treated as a benefit crystallisation event in relation to P for the purposes of the lifetime allowance charge.
+
+(4) The amount crystallised for the purposes of that benefit crystallisation event is the amount of the payment.
+
+(5)[^key-6672fc8ff01853d0901847ae796d8876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Regulation 3 of RPS(AP)R 2009 (commutation payments) does not apply in relation to the payment.
+
+#### 27. Recovery of underpaid lifetime allowance charge by reduction of scheme pension[^key-3abf48dd04d688f543cee2122372227a]
+
+(1) Paragraph (3) applies where—
+
+- (a) an individual (“**P**”) has become entitled to a scheme pension,
+- (b) in a subsequent tax year, as a result of a relevant rectification provision—
+  - (i) a lifetime allowance charge retrospectively arises in respect of the benefit crystallisation event mentioned in sub-paragraph (a), or
+  - (ii) the amount of a lifetime allowance charge that arose in respect of that benefit crystallisation event retrospectively increases,
+- (c) the scheme administrator[^f00038] of the scheme under which the scheme pension is payable pays the new charge or (as the case may be) the increase in the charge, and
+- (d) as a result of that payment, the rate of the scheme pension payable to P reduces.
+
+(2) Paragraph (3) also applies where—
+
+- (a) an individual (“**P**”) has become entitled to a scheme pension,
+- (b) the scheme administrator of the scheme under which the scheme pension is payable pays a liability arising under regulation 36 (liability for lifetime allowance charge where private sector scheme discharged from liability), and
+- (c) as a result of that payment, the rate of the scheme pension payable to P reduces.
+
+(3) The reduction of the rate of the scheme pension does not prevent the scheme pension satisfying the condition in paragraph 2(3) of Schedule 28 to FA 2004 (requirement that rate of scheme pension does not reduce)[^f00039].
+
+#### 28. Scheme pension already paid: status of overpaid amount unaffected[^key-5f7649328b1dd647e9346cc52c21f355]
+
+(1) Paragraph (2) applies where—
+
+- (a) an individual has at any time become entitled to a scheme pension, and
+- (b) at a later time, as a result of a relevant rectification provision, one or more payments of scheme pension made to the individual before the later time include amounts (“overpaid pension amounts”) to which the individual was not entitled.
+
+(2) The payments of overpaid pension amounts—
+
+- (a) are to be treated as falling, and are to be treated as always having fallen, within section 164(1) of FA 2004 (authorised member payments);
+- (b) are to be treated as, and are to be treated as always having been, pension paid under a registered pension scheme for the purposes of Part 9 of ITEPA 2003;
+- (c) are to be treated for those purposes as, and are to be treated as always having been, pension accruing in the tax year in which they are paid.
+
+#### 29. Pension commencement lump sum already paid: status of overpaid amount unaffected[^key-eab3fd1056873d5b246d037e40cc0db5]
+
+(1) Paragraph (2) applies where—
+
+- (a) an individual has at any time been paid a pension commencement lump sum, and
+- (b) as a result of a relevant rectification provision, the payment includes an amount (“the overpaid lump sum amount”) which (disregarding this regulation) has ceased to be a pension commencement lump sum.
+
+(2) The overpaid lump sum amount is to be treated as, and is to be treated as always having been, a pension commencement lump sum.
+
+#### 30. Pension commencement lump sum already paid: repayment of overpaid amount[^key-03efd30583e8540895bf744009ad85d2]
+
+(1) Paragraph (2) applies where—
+
+- (a) an individual has at any time been paid a pension commencement lump sum under a Chapter 1 scheme or a judicial scheme,
+- (b) the payment includes an amount (“the overpayment”) which, as a result of a relevant rectification provision, was not payable to the individual, and
+- (c) the liability under section 14(5) or 51(4) of PSPJOA 2022 owed to the scheme in respect of the overpayment has been discharged in full.
+
+(2) The amount crystallised by the benefit crystallisation event in connection with the individual’s entitlement to the pension commencement lump sum is to be treated as not including, and is to be treated as never having included, the overpayment.
+
+#### 31. Top-up defined benefits lump sum death benefit treated in same way as original payment[^key-1119f47dba3c0a500aee8500b148dd30]
+
+(1) Paragraph (2) applies where—
+
+- (a) a defined benefits lump sum death benefit[^f00040] is at any time paid under a registered pension scheme in respect of the death of an individual,
+- (b) the payment is made before the end of the relevant two-year period,
+- (c) as a result of a relevant rectification provision the amount of the defined benefits lump sum death benefit payable under the scheme in respect of the death increases,
+- (d) an amount (“the top-up DBLSDB”) is paid in respect of the increase, and
+- (e) the top-up DBLSDB is not paid before the end of the relevant two-year period.
+
+(2) The top-up DBLSDB is to be treated for the purposes of the provisions listed in paragraph (3) as having been paid before the end of the relevant two-year period.
+
+(3) The provisions referred to in paragraph (2) are—
+
+- (aa)[^key-7bb20bb45272c2428a23a09634197c94] section 637H of ITEPA 2003 (tax treatment of defined benefits lump sum death benefits);
+- (b) section 206(1B) of FA 2004 (circumstances in which payment of defined benefits lump sum death benefit is subject to the special lump sum death benefits charge)[^f00042];
+- (c) paragraph 16(a) of Schedule 32 to FA 2004 (circumstances in which payment of defined benefits lump sum death benefit constitutes a benefit crystallisation event 7)[^f00043].
+
+(4) In this regulation “**the relevant two-year period**” means the period of two years beginning with the earlier of the day on which the scheme administrator of the scheme first knew of the individual’s death and the day on which the scheme administrator could first reasonably have been expected to have known of it.
+
+### CHAPTER 4 — Lifetime allowance charge
+
+#### 32. Charges paid by Chapter 1 new schemes treated as paid by Chapter 1 legacy schemes[^key-c4f1984b2c86ae4fb2bd6ba04c6048dc]
+
+(1) Paragraphs (2) to (4) apply where, before the coming into force of section 2(1) of PSPJOA 2022 (and disregarding the effect of that provision)—
+
+- (a) a benefit crystallisation event has taken place in relation to an individual in connection with the individual’s entitlement under a Chapter 1 new scheme to any remediable service benefits, and
+- (b) the scheme administrator of that scheme became liable under section 217 of FA 2004 (persons liable to the lifetime allowance charge)[^f00044] for a lifetime allowance charge[^f00045] in connection with the benefit crystallisation event.
+
+(2) Any accounting-for-tax return made by the scheme administrator of the Chapter 1 new scheme in respect of the liability, so far as it relates to the remediable service benefits, is to be treated for all purposes—
+
+- (a) as not having been made by the scheme administrator of the Chapter 1 new scheme, and
+- (b) as having been made instead by the scheme administrator of the relevant Chapter 1 legacy scheme.
+
+(3) Any payment made by the scheme administrator of the Chapter 1 new scheme in respect of the liability, so far as it relates to the remediable service benefits, is to be treated for all purposes—
+
+- (a) as not having been paid by the scheme administrator of the Chapter 1 new scheme, and
+- (b) as having been paid instead by the scheme administrator of the relevant Chapter 1 legacy scheme.
+
+(4) The scheme administrator of the Chapter 1 new scheme must give to the scheme administrator of the relevant Chapter 1 legacy scheme the following information—
+
+- (a) the particulars included in any accounting-for-tax return that the scheme administrator of the Chapter 1 new scheme has previously made in respect of the liability, and
+- (b) such further information relating to any such return as the scheme administrator of the relevant Chapter 1 legacy scheme may reasonably request.
+
+(5) A request under paragraph (4)(b) may be made in relation to accounting-for-tax returns generally, or in relation to a particular return.
+
+(6) In this Chapter “**remediable service benefits**” means benefits that are calculated by reference to an individual’s remediable service in an office or employment.
+
+(7) When determining, for the purposes of paragraph (6), the benefits that are calculated by reference to an individual’s remediable service in an employment or office, any benefits that result from voluntary arrangements entered into by the individual are to be ignored.
+
+#### 33. Reporting and payment by public service scheme of charges affected by rectification[^key-66b98bff13b355d0bdb7e28a9934a720]
+
+(1) Paragraphs (3) to (5) apply where—
+
+- (a) before the relevant time, a benefit crystallisation event takes place in relation to an individual in connection with the individual’s entitlement under a Chapter 1 scheme or a judicial scheme to any remediable service benefits, and
+- (b) a lifetime allowance charge, or any part of such a charge, that is charged in connection with the benefit crystallisation event is attributable to a relevant rectification provision.
+
+(2) In paragraph (1) “**the relevant time**” means—
+
+- (a) in relation to an individual’s entitlement under a Chapter 1 scheme, the time at which section 2(1) of PSPJOA 2022 comes into force;
+- (b) in relation to an individual’s entitlement under a judicial scheme, the time at which a 2015 scheme election is made in respect of the individual.
+
+(3) The relevant scheme administrator is not required, as a result of the effect of the relevant rectification provision, to amend any accounting-for-tax return previously made in respect of their liability for the charge.
+
+(4) For the purposes of section 254(2) of FA 2004 (which specifies when a scheme administrator must account for tax to HMRC), the lifetime allowance charge, or the part of the lifetime allowance charge, mentioned in paragraph (1)(b) is to be taken to be charged on the relevant scheme administrator in the period following that in which the scheme administrator becomes aware of the effect of the relevant rectification provision on the lifetime allowance charge.
+
+(5) An accounting-for-tax return for a period in which tax is to be treated by paragraph (4) as having been charged—
+
+- (a) must be accompanied by a declaration by the relevant scheme administrator that the return accounts for tax that is attributable to the application of a relevant rectification provision,
+- (b) must state whether a payment (“the previous payment”) in respect of the lifetime allowance charge has already been reported by the scheme administrator, or by the scheme administrator of a Chapter 1 new scheme, and
+- (c) if so, must contain the following information—
+  - (i) the amount of the previous payment, the tax year to which it relates and the date on which the payment was made;
+  - (ii) the period covered by the accounting-for-tax return that included particulars of the previous payment;
+  - (iii) whether the previous payment was made by the scheme administrator or by the scheme administrator of a Chapter 1 new scheme;
+  - (iv) if the previous payment was made by the scheme administrator of a Chapter 1 new scheme, the pension scheme tax reference number of that scheme.
+
+(6) In this regulation “**the relevant scheme administrator**” means the scheme administrator who (after taking into account the relevant rectification provisions) is liable under section 217(1) of FA 2004) for the lifetime allowance charge in question.
+
+(7) For the purposes of this Chapter a lifetime allowance charge, or a part of such a charge, is “attributable” to a relevant rectification provision if it would not have been charged apart from the provision.
+
+#### 34. Application required by schemes to reclaim overpayment resulting from rectification[^key-73a2f501e2eeeb7ed4ee3cd0ec1d9416]
+
+(1) Paragraphs (3) and (4) apply where—
+
+- (a) before the relevant time, a benefit crystallisation event takes place in relation to an individual in connection with the individual’s entitlement under a Chapter 1 scheme or a judicial scheme to any remediable service benefits,
+- (b) the relevant scheme administrator has (after taking into account regulation 32(3)) paid an amount of a lifetime allowance charge that arose in connection with the benefit crystallisation event, and
+- (c) the amount paid is, as a result of the effect of a relevant rectification provision, greater than the amount owed in respect of the lifetime allowance charge.
+
+(2) In paragraph (1) “**the relevant time**” means—
+
+- (a) in relation to an individual’s entitlement under a Chapter 1 scheme, the time at which section 2(1) of PSPJOA 2022 comes into force;
+- (b) in relation to an individual’s entitlement under a judicial scheme, the time at which a 2015 scheme election is made in respect of the individual.
+
+(3) The relevant scheme administrator is not required, as a result of the effect of the relevant rectification provision, to amend any accounting-for-tax return previously made in respect of their liability for the charge.
+
+(4) The relevant scheme administrator is entitled to a repayment of the excess mentioned in paragraph (1)(c) only on the making of an application.
+
+(4A)[^key-01db7e917762d0354dd268730e083c51] The application must be made on or before 31st January 2031[^key-d9a9b906280e0e64b51c5171f4825744].
+
+(5) The application—
+
+- (a) must be accompanied by—
+  - (i) a declaration that the application is made by the scheme administrator;
+  - (ii) a declaration as to the accuracy of the information contained in the application;
+  - (iii) a declaration that the applicant understands the consequences of providing false information; and
+- (b) must contain the following information—
+  - (i) the pension scheme name and tax reference number;
+  - (ii) the scheme administrator identity reference provided by HMRC;
+  - (iii) the name and national insurance number of the scheme member;
+  - (iv) the amount of the charge paid, the date on which, and the charge reference number under which, it was paid;
+  - (v) the pension scheme tax reference number of the scheme under which the scheme administrator reported and paid the amount of the charge to HMRC;
+  - (vi) the tax year and quarter covered by the accounting-for-tax return on which the charge was reported to HMRC;
+  - (vii) the revised amount of the lifetime allowance charge;
+  - (viii) the amount of tax being reclaimed;
+  - (ix) if a repayment is claimed, the amount and the account details to which repayment is to be made;
+  - (x) if a reallocation is claimed, that amount and the charge reference to which it is to be allocated.
+
+(6) In this regulation “**the relevant scheme administrator**” means the scheme administrator who (after taking into account the relevant rectification provisions) is liable under section 217(1) of FA 2004 for the lifetime allowance charge in question.
+
+#### 35. Public service schemes not permitted to apply for discharge of increased charge[^key-0237955246961fd6e99039c290674cf1]
+
+(1) Paragraph (3) applies where—
+
+- (a) before the relevant time, a benefit crystallisation event takes place in relation to an individual in connection with the individual’s entitlement under a Chapter 1 scheme or a judicial scheme to any remediable service benefits, and
+- (b) a lifetime allowance charge, or any part of such a charge, that is charged in connection with the benefit crystallisation event is attributable to a relevant rectification provision.
+
+(2) In paragraph (1) “**the relevant time**” means—
+
+- (a) in relation to an individual’s entitlement under a Chapter 1 scheme, the time at which section 2(1) of PSPJOA 2022 comes into force;
+- (b) in relation to an individual’s entitlement under a judicial scheme, the time at which a 2015 scheme election is made in respect of the individual.
+
+(3) The relevant scheme administrator is not entitled to make an application under section 267 of FA 2004 (application for discharge of scheme administrator’s liability for lifetime allowance charge) in respect of their liability for the unpaid lifetime allowance charge mentioned in paragraph (1)(b).
+
+(4) In this regulation “**the relevant scheme administrator**” means the scheme administrator who (after taking into account the relevant rectification provisions) is liable under section 217(1) of FA 2004 for the lifetime allowance charge in question.
+
+#### 36. Public service scheme to be liable where private sector scheme discharged[^key-f45693b7198f5010c5a8c4f95322c51e]
+
+(1) Paragraph (3) applies where—
+
+- (a) before the relevant time, a benefit crystallisation event has taken place in relation to an individual (“the individual”) in connection with the individual’s entitlement under a Chapter 1 scheme or a judicial scheme to any remediable service benefits,
+- (b) a later benefit crystallisation event (“the later BCE”) takes place in relation to the individual in connection with the individual’s entitlement to any benefits under a pension scheme that is not a public service pension scheme (“**the private sector scheme**”),
+- (c) a lifetime allowance charge, or any part of such a charge, that is charged in connection with the later BCE is attributable to a relevant rectification provision, and
+- (d) the scheme administrator of the private sector scheme makes a successful application under section 267 of FA 2004 (application for discharge of scheme administrator’s liability for lifetime allowance charge) in respect of their liability for the lifetime allowance charge, or part of such a charge, mentioned in sub-paragraph (c).
+
+(2) In paragraph (1) “**the relevant time**” means—
+
+- (a) in relation to an individual’s entitlement under a Chapter 1 scheme, the time at which section 2(1) of PSPJOA 2022 comes into force;
+- (b) in relation to an individual’s entitlement under a judicial scheme, the time at which a 2015 scheme election is made in respect of the individual.
+
+(3) The scheme administrator of the pension scheme under which the remediable service benefits are payable is liable (jointly and severally with the individual) for the lifetime allowance charge, or part of such charge, mentioned in paragraph (1)(c).
+
+(4) The Registered Pension Schemes (Accounting and Assessment) Regulations 2005[^f00046] have effect subject to the following modifications.
+
+(5) Regulation 3 (particulars required to be included in returns under section 254 of FA 2004 of income tax to which a scheme administrator is liable)[^f00047] has effect as if, in Table 1, in the entry for section 214 of FA 2004 (lifetime allowance charge) at the end there were inserted “(other than a charge to which the scheme administrator is liable under regulation 36(3) of the Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023.”.
+
+(6) Regulation 4 (the making of assessments)[^f00048] has effect as if, in Table 2, at the end there were inserted—
+
+> |  |  |
+> | --- | --- |
+> | Case 9: a charge to tax arises under regulation 36(3) of the Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023. | The person who is liable to the charge. |
+
+.
+
+(7) Regulation 5 (interest)[^f00049] has effect as if, in Table 3, at the end there were inserted—
+
+> |  |  |
+> | --- | --- |
+> | Tax assessed under case 9. | The day after the date on which the tax charged in connection with the later BCE became due from the individual. For this purpose “**the later BCE**” and “**the individual**” have the same meaning as in regulation 36 of the Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023. |
+
+.
+
+### CHAPTER 5 — Individual protection 2016
+
+#### 37. Election for new scheme benefits under Chapter 1 scheme taken into account[^key-843d8b2cd99d15bd4c4e7cfe9ef556d7]
+
+(1) An election under section 6 or 10 of PSPJOA 2022 (election for new scheme benefits under Chapter 1 legacy scheme) is to be treated for the purposes of determining an individual’s relevant amount under Part 2 of Schedule 4 to FA 2016 (individual protection 2016)[^f00050] as having taken effect on 5 April 2016.
+
+(2) Section 7(1)(b) and section 11(3)(b) and (4) of PSPJOA 2022 (time at which elections take effect) are subject to paragraph (1).
+
+#### 38. Final salary benefits under local government new scheme taken into account[^key-2c7e3b32862ada770eea7f8f91feadd2]
+
+(1) Paragraph (2) applies where regulations made by virtue of section 78(1) of PSPJOA 2022 (final salary benefits in local government new schemes) provide that an individual’s benefits under a local government new scheme in relation to any remediable service are, or in any circumstances would be, final salary benefits.
+
+(2) For the purposes of determining the individual’s “relevant amount” under Part 2 of Schedule 4 to FA 2016 (individual protection 2016), the individual’s benefits in relation to the remediable service are to be treated as always having been the amount determined in accordance with the regulations.
+
+(3) In this regulation “**final salary benefits**” has the same meaning as in Chapter 3 of Part 1 of PSPJOA 2022 (local government schemes) (see section 87(2) of that Act).
+
+#### 39. Deadline for provision of information by schemes[^key-5659113b579539554221d7b8c6e223f5]
+
+In regulation 14C of RPS(PI)R 2006 (scheme administrator required to provide individual with information on request) paragraph (1)(c) has effect, in relation to information relating to benefits that are calculated by reference to an individual’s remediable service in an employment or office, as if for “6 April 2020” there were substituted “6 April 2027”.
+
+### CHAPTER 6 — Fixed protection 2016
+
+#### 40. Increase in rights as a result of new scheme benefits election ignored[^key-4984dce857b3836231bec30bec5d9b6a]
+
+Any increase in an individual’s rights as a result of an election under section 6 or 10 of PSPJOA 2022 (election for new scheme benefits under Chapter 1 legacy scheme) is to be ignored for the purposes of sub-paragraph (1)(b) of paragraph 4 of Schedule 4 to FA 2016 (protection cessation events: benefit accrual).
+
+#### 41. Final salary uplift under local government scheme ignored[^key-1bef1fe9a4201be6f05f315b04942e8d]
+
+(1) Any increase in an individual’s rights as a result of regulations made under section 78(1) of PSPJOA 2022 (final salary benefits in local government schemes) is to be ignored for the purposes of sub-paragraph (1)(b) of paragraph 4 of Schedule 4 to FA 2016 (protection-cessation events: benefit accrual).
+
+(2) This regulation is treated as always having had effect.
+
+#### 42. Transfers from PPA in accordance with PSPJOA 2022 ignored[^key-0ca3100f07abd927a2e0be3a5f2a2e74][^key-4db6f195f577f0d26b3a1485209adf5f]
+
+(1) Any relevant PPA transfer is to be ignored for the purposes of paragraph 3(c) of Schedule 4 to FA 2016 (protection-cessation events: permitted transfers).
+
+(2) In paragraph (1) “**relevant PPA transfer**” means—
+
+- (a) a transfer of sums or assets to a Chapter 1 scheme in accordance with regulations made under section 5(6)(b) of PSPJOA 2022 (transfers from partnership pension accounts), or
+- (b) a transfer of sums or assets to a judicial scheme for the purposes of complying with section 41 of that Act (transfers from partnership pension accounts).
+
+### CHAPTER 7 — Transfers
+
+#### 43. Transfers from PPA in accordance with PSPJOA 2022 treated as recognised transfers[^key-a7bfc3d3fe6a5d29cb99a9499f25a3f5][^key-1c3e69ec64ab9778fd52b46e307a0ca3]
+
+(1) Any relevant PPA transfer, to the extent that it would otherwise not be a recognised transfer, is to be treated as a recognised transfer.
+
+(2) In paragraph (1) “**relevant PPA transfer**” means—
+
+- (a) a transfer of sums or assets held for the purposes of a partnership pension account to a Chapter 1 scheme in accordance with regulations made under section 5(1) of PSPJOA 2022 (election for retrospective provision to apply to opted-out service), or
+- (b) a transfer of sums or assets held for the purposes of a partnership pension account to a judicial scheme for the purposes of complying with section 41 of that Act (requirement to transfer and surrender PPA rights).
+
+(3) In this regulation “**recognised transfer**” has the meaning given by section 169 of FA 2004 (recognised transfers)[^f00052].
+
+## PART 3 — Modifications of Schedule 15 to FA 2020
+
+### 44. Tax relief for compensation payments[^key-f677b1852f3bec7f375a1229d01b690e]
+
+(1) Schedule 15 to FA 2020 (tax relief for scheme payments etc)[^f00053] has effect subject to the following modifications.
+
+(2) Paragraph 2 (qualifying payments) has effect as if—
+
+- (a) in sub-paragraph (1), for “(5)” there were substituted “(5) and (5A)”;
+- (b) after sub-paragraph (5) there were inserted—
+
+  > (5A) A payment is within this sub-paragraph if it is a compensation payment made under or by virtue of Part 1 of PSPJOA 2022.
+
+  .
+
+(3) Paragraph 3 (exemption from income tax) has effect as if after sub-paragraph (5) there were inserted—
+
+> (6) This paragraph has effect in relation to qualifying payments within paragraph 2(5A) whenever received.
+
+.
+
+(4) Paragraph 4 (exemptions from capital gains tax) has effect as if, in sub-paragraph (3)—
+
+- (a) the “and” at the end of paragraph (b) were omitted;
+- (b) after paragraph (c) there were inserted—
+
+  > , and
+  >
+  > - (d) in a case where the qualifying payment concerned is within paragraph 2(5A), in relation to disposals whenever made.
+
+  .
+
+(5) Paragraph 5 (relief from inheritance tax) has effect as if—
+
+- (a) in sub-paragraph (1), for “sub-paragraph (4)” there were substituted “sub-paragraphs (4) and (4A)”;
+- (b) after sub-paragraph (4) there were inserted—
+
+  > (4A) This paragraph does not apply in a case where the qualifying payment is within paragraph 2(5A).
+
+  .
+
+Nigel Huddleston
+
+Scott Mann
+
+Two of the Lords Commissioners of His Majesty’s Treasury
+
+2nd February 2023
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make modifications for the purposes of applying the correct tax treatment to public service pension schemes which are affected by the rectification of discrimination provisions contained in the Public Service Pensions and Judicial Offices Act [2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7) (“PSPJOA 2022”). Modifications are made to enactments in their application in relation to a relevant person under the authority of section 11(2) and (3) of the Finance Act [2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3). Authority for the retrospective effect of certain modifications made by these Regulations is provided for by section 11(4)(a) of the Finance Act 2022.
+
+Under the rectification provisions in that Act, pension scheme members (except members of local government schemes) can choose the benefits they will receive or, for members of judicial schemes, the scheme they will receive benefits from, for the relevant remedy period (1st April 2015 to 31st March 2022 or, for Agency schemes (as defined in section 38 of PSPJOA 2022), 1st April 2016 to 31st March 2022). Members of local government schemes will receive an automatic uplift in their benefits in the remedy period (1st April 2015 to 31st March 2022 or, for local government pension schemes in England and Wales, from 1st April 2014) where the remedy applies.
+
+Part 1 provides for citation, commencement, effect and interpretation.
+
+Part 2 contains modifications to the pension tax enactments relevant to the main areas affected: contributions (Chapter 1), annual allowance (Chapter 2), benefits (Chapter 3), lifetime allowance (Chapters 4, 5 and 6) and transfers (Chapter 7).
+
+In relation to contributions to pension schemes, Chapter 1 provides that tax relief is preserved on contributions to a new scheme that is subject to the roll-back of pensionable service to a legacy scheme under section 2 of PSPJOA 2022 (regulation 3).
+
+For the annual allowance tax charge, Chapter 2 contains provisions to achieve parity of tax treatment in respect of pension rights under legacy and new schemes in relation to calculating the allowance and tax charge (regulations 4, 12, 13, 14), liability to, payment of tax and repayment of overpaid tax (regulations 8, 9, 10) and administrative provisions for the scheme administrators of both legacy and new schemes (regulations 5, 6, 7, 11 and 15).
+
+In respect of benefits paid to members (or to their estate after death), the main provisions in Chapter 3 (regulations 16 to 26, 28 and 29) provide that payments of pension and lump sums affected by the rectification provisions in PSPJOA 2022 are treated (in relation to the remedy period) as authorised member payments for tax purposes, even where they would otherwise not meet the conditions (as to timing of payment, for example) for such treatment.
+
+Chapters 4, 5 and 6 contain provisions to preserve the tax treatment for the lifetime allowance charge for legacy and new schemes affected by the rectification provisions, including reporting and payment of the charge (regulations 32, 33), claims for overpayment (regulation 34), liability and discharge (regulations 35, 36) and individual and fixed protection (regulations 37 to 41). Chapter 7 (regulation 43) provides for certain transfers of sums or assets held in a partnership pension account to a Chapter 1 scheme or a judicial scheme to be treated as recognised transfers for the purposes of the pension provisions in the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12).
+
+Part 3 modifies Schedule 15 to the Finance Act [2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14) in order to preserve income tax, capital gains tax and inheritance tax treatment for compensation payments made under or by virtue of Part 1 of PSPJOA 2022.
+
+A Tax Information and Impact Note covering section 11 of the Finance Act 2022 (under which this instrument is made) was published on 27th October 2021 alongside the Finance Bill and is available on the website at https://www.gov.uk/government/publications/taxation-of-public-service-pension-reform-remedy/taxation-of-public-service-pension-reform-remedy. It remains an accurate summary of the impacts that apply to this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2022 c. 3](https://www.legislation.gov.uk/ukpga/2022/3). In these footnotes, FA followed by a year refers to the Finance Act of that year and F(No. 2)A followed by a year means the Finance (No. 2) Act of that year.
+
+[^key-47824a75f55c7574cf755ce96ef785eb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/113/regulation/1) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00002]: Footnote: “Relevant person” is defined in subsection (3) of section 11 of FA 2022 and “modifying” is defined in subsection (7) of that section.
+
+[^key-865299c0957f78418fca5f8fb66922d1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/113/regulation/2) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00003]: Footnote: [2022 c. 7](https://www.legislation.gov.uk/ukpga/2022/7). “PSPJOA 2022” is defined as the Public Service Pensions and Judicial Offices Act [2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7) by section 11(7) of FA 2022.
+
+[^f00004]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). “FA 2004” is defined as the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) in section 103 of FA 2022.
+
+[^f00005]: Footnote: Section 237B was inserted by paragraph 15 of Schedule 17 to FA [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11). Subsection (2) has not been relevantly amended.
+
+[^f00006]: Footnote: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171).
+
+[^f00007]: Footnote: [S.I. 2006/567](https://www.legislation.gov.uk/uksi/2006/567).
+
+[^f00008]: Footnote: For the purposes of Part 4 of FA 2004, “**member**” in relation to a pension scheme is defined in section 151 of that Act.
+
+[^f00009]: Footnote: For the purposes of Part 4 of FA 2004, “**benefits**” in relation to a pension scheme must be construed in accordance with section 279(2) of that Act.
+
+[^f00010]: Footnote: The “**relevant rate**” for the purposes of a notice under section 237B(3) was amended for Scottish taxpayers by [S.I. 2015/1810](https://www.legislation.gov.uk/uksi/2015/1810) and for Welsh taxpayers by [S.I. 2019/201](https://www.legislation.gov.uk/uksi/2019/201) (see section 237B(4A) and (4B)).
+
+[^key-87bd62e157ffbc6e85c3b8410b3e561c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/113/regulation/3) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00011]: Footnote: Section 188 was amended by paragraph 2 of Schedule 18, paragraph 7 of Schedule 19, and Part 3 of Schedule 27, to FA [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), section 52(2) and (3) of FA [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), and paragraph 13 of Schedule 7 to FA [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26).
+
+[^key-71e0a62f86faf310c90be3b0f5063014]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/113/regulation/4) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00012]: Footnote: Section 228ZA was inserted by paragraph 10 of Schedule 4 to F(No. 2)A [2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33) and amended by section 22 of FA [2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14).
+
+[^key-ee6aa52a9990d810f8921286226aeb49]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/113/regulation/5) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00013]: Footnote: Regulation 3 was relevantly amended, in relation to reportable event 22, by paragraph 90 of Schedule 1 to the Taxation of Pensions Act [2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), and [S.I. 2013/1742](https://www.legislation.gov.uk/uksi/2013/1742).
+
+[^key-9de0c0b47e7e7ea164c35f97b6b59a5b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/113/regulation/6) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00014]: Footnote: Regulation 14A was inserted by [S.I. 2011/1797](https://www.legislation.gov.uk/uksi/2011/1797) and was amended by paragraph 88 of Schedule 1 to the Taxation of Pensions Act 2014, [S.I. 2016/308](https://www.legislation.gov.uk/uksi/2016/308), [S.I. 2017/11](https://www.legislation.gov.uk/uksi/2017/11), [S.I. 2018/5](https://www.legislation.gov.uk/uksi/2018/5) and [S.I. 2022/392](https://www.legislation.gov.uk/uksi/2022/392).
+
+[^key-306ee1e6a3b2f545563541504b73d225]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/113/regulation/7) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00015]: Footnote: Regulation 14B was inserted by [S.I. 2011/1797](https://www.legislation.gov.uk/uksi/2011/1797) and was amended by paragraph 89 of Schedule 1 to the Taxation of Pensions Act 2014.
+
+[^key-778aebd9be87d3362d4d194f0bf40906]: Textual amendment: Word in [reg. 7(a)](https://www.legislation.gov.uk/uksi/2023/113/regulation/7/a) substituted (14.9.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) (No. 2) Regulations 2023 (S.I. 2023/912)](https://www.legislation.gov.uk/uksi/2023/912), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2023/912/regulation/22) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/3))
+
+[^key-971a99e3e36d5fdafb31fdef47bdc11c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/113/regulation/8) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00016]: Footnote: Section 237B was inserted by paragraph 15 of Schedule 17 to FA [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) and was amended by paragraph 129 of Schedule 46 to FA [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), paragraph 68 of Schedule 1 to the Taxation of Pensions Act [2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30) and section 9 of FA 2022, and by [S.I. 2015/80](https://www.legislation.gov.uk/uksi/2015/80), [S.I. 2015/1810](https://www.legislation.gov.uk/uksi/2015/1810), [S.I. 2017/468](https://www.legislation.gov.uk/uksi/2017/468), [S.I. 2019/201](https://www.legislation.gov.uk/uksi/2019/201).
+
+[^key-018eb5921c57d24aa8f517370084d85f]: Textual amendment: [Reg. 8(3)(b)(i)](https://www.legislation.gov.uk/uksi/2023/113/regulation/8/3/b/i) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/3/2)
+
+[^key-3ffed724d32eb64886d48309230c7c8d]: Textual amendment: [Reg. 8(3)(d)](https://www.legislation.gov.uk/uksi/2023/113/regulation/8/3/d)[(e)](https://www.legislation.gov.uk/uksi/2023/113/regulation/8/3/e) inserted (14.9.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) (No. 2) Regulations 2023 (S.I. 2023/912)](https://www.legislation.gov.uk/uksi/2023/912), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2), [23(a)](https://www.legislation.gov.uk/uksi/2023/912/regulation/23/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/3))
+
+[^key-cb8fb074e43d1555f7d802cf309459e7]: Textual amendment: [Reg. 8(3)(f)](https://www.legislation.gov.uk/uksi/2023/113/regulation/8/3/f) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2026/673/regulation/3/3)
+
+[^key-b240b86e5ab6cc5807e342bb3cc638dd]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/uksi/2023/113/regulation/8/4)[(4ZA)](https://www.legislation.gov.uk/uksi/2023/113/regulation/8/4ZA) substituted for [reg. 8(4)](https://www.legislation.gov.uk/uksi/2023/113/regulation/8/4) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2026/673/regulation/3/4)
+
+[^key-9db137eb2514cc2de69ca61f7ebb77ca]: Textual amendment: [Reg. 8(4A)](https://www.legislation.gov.uk/uksi/2023/113/regulation/8/4A) inserted (for the tax year 2023-24 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/3), [20(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/20/2)
+
+[^key-6c8b117b48f5f132adcca389764635b5]: Textual amendment: Words in [reg. 8(4A)(c)](https://www.legislation.gov.uk/uksi/2023/113/regulation/8/4A/c) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/3), [3(5)](https://www.legislation.gov.uk/uksi/2026/673/regulation/3/5)
+
+[^key-9e749da2da4ffc87067996ef2411dfe5]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/uksi/2023/113/regulation/8/5)[(6)](https://www.legislation.gov.uk/uksi/2023/113/regulation/8/6) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/3), [3(6)](https://www.legislation.gov.uk/uksi/2026/673/regulation/3/6)
+
+[^key-8445c0216393949eb2ba8ed7cf715997]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/113/regulation/9) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-5c2a3315e9babee7dd1780ec0c1549a5]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/uksi/2023/113/regulation/9/2/b) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2/3), [4(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/4/2)
+
+[^f00018]: Footnote: For the purposes of Part 4 of FA [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), section 228 of that Act provides for the annual allowance for the tax year 2014-15 and each subsequent tax year.
+
+[^f00019]: Footnote: For the purposes of Part 4 of FA 2004, the total pension input amount is arrived at by following the provision made by section 229 of that Act. Section 229 also provides for what is meant by the pension input amount in respect of an arrangement.
+
+[^key-3299d19825c09ca851cb08d8b456937e]: Textual amendment: [Reg. 9(2)(d)](https://www.legislation.gov.uk/uksi/2023/113/regulation/9/2/d)[(e)](https://www.legislation.gov.uk/uksi/2023/113/regulation/9/2/e) inserted (14.9.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) (No. 2) Regulations 2023 (S.I. 2023/912)](https://www.legislation.gov.uk/uksi/2023/912), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2), [24(a)](https://www.legislation.gov.uk/uksi/2023/912/regulation/24/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/3))
+
+[^key-07ef004201d214c72cf0d73b46e390d8]: Textual amendment: [Reg. 9(2)(f)](https://www.legislation.gov.uk/uksi/2023/113/regulation/9/2/f) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2026/673/regulation/4/3)
+
+[^key-9184d3734f7b1c0471d8da44591d8d5f]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/9/3)[(3ZA)](https://www.legislation.gov.uk/uksi/2023/113/regulation/9/3ZA) substituted for [reg. 9(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/9/3) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2026/673/regulation/4/4)
+
+[^key-7a0ab83ba3225329fe3db6c9cd3f8331]: Textual amendment: [Reg. 9(3A)](https://www.legislation.gov.uk/uksi/2023/113/regulation/9/3A) inserted (for the tax year 2023-24 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/3), [20(3)](https://www.legislation.gov.uk/uksi/2025/419/regulation/20/3)
+
+[^key-769f912daae1c97a64a24993ed980d54]: Textual amendment: Words in [reg. 9(3A)(c)](https://www.legislation.gov.uk/uksi/2023/113/regulation/9/3A/c) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/3), [4(5)](https://www.legislation.gov.uk/uksi/2026/673/regulation/4/5)
+
+[^key-0e39c8043131d962a19866575790d137]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/uksi/2023/113/regulation/9/4)[(5)](https://www.legislation.gov.uk/uksi/2023/113/regulation/9/5) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/3), [4(6)](https://www.legislation.gov.uk/uksi/2026/673/regulation/4/6)
+
+[^key-19aa374b46965eb68275eec7a2ecd95f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/113/regulation/10) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-790623bdc727d0a0b3a66465eb5a893b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2023/113/regulation/11) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-dda0136a9a33ed3c9c465e14e59e752c]: Textual amendment: [Reg. 11(5A)](https://www.legislation.gov.uk/uksi/2023/113/regulation/11/5A) inserted (14.9.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) (No. 2) Regulations 2023 (S.I. 2023/912)](https://www.legislation.gov.uk/uksi/2023/912), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2023/912/regulation/25) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/3))
+
+[^key-ffbb8ccc29b731fa9e80216d7f82ea92]: Textual amendment: Words in [reg. 11(5A)](https://www.legislation.gov.uk/uksi/2023/113/regulation/11/5A) substituted (for the tax year 2023-24 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/3), [20(4)](https://www.legislation.gov.uk/uksi/2025/419/regulation/20/4)
+
+[^key-9b53834ce6ea1cdbf24edbd501e5d162]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/113/regulation/12) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-8f898ead1cac85b3f22ec4d64c00954c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/113/regulation/13) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-5ce36f85fece681412f7e505d50fa675]: Textual amendment: Words in [reg. 13(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/113/regulation/13/1/b/ii) omitted (14.9.2023) by virtue of [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) (No. 2) Regulations 2023 (S.I. 2023/912)](https://www.legislation.gov.uk/uksi/2023/912), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2023/912/regulation/26) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/3))
+
+[^key-92512ddc89eb4554c76ca8ade6f818dc]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/113/regulation/14) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-fd9246a606389a4b204f7cca64e3ee57]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2023/113/regulation/15) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-fb700cd690cc111e25d9709c7ef347c2]: Modification: [Reg. 15](https://www.legislation.gov.uk/uksi/2023/113/regulation/15) modified (14.7.2026 for the tax year 2023-24 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/673/regulation/6)
+
+[^key-55c0bff49b6c4d73fd8748ef0ca9ebae]: Textual amendment: [Reg. 15(4A)](https://www.legislation.gov.uk/uksi/2023/113/regulation/15/4A) inserted (14.9.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) (No. 2) Regulations 2023 (S.I. 2023/912)](https://www.legislation.gov.uk/uksi/2023/912), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2023/912/regulation/27) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/3))
+
+[^key-9dc34584bece8ad7f3b5d2f6704b6cf9]: Textual amendment: Words in [reg. 15(5A)](https://www.legislation.gov.uk/uksi/2023/113/regulation/15/5A) substituted (for the tax year 2023-24 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/3), [20(5)](https://www.legislation.gov.uk/uksi/2025/419/regulation/20/5)
+
+[^key-e4f8c33932050285752d0bdeee21dcd9]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/113/regulation/16) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00020]: Footnote: For the purposes of Part 4 of FA [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), “pension scheme” is defined in section 150(1) of that Act.
+
+[^f00021]: Footnote: Paragraph 22 of Schedule 36 was relevantly amended by paragraph 54(6) of Schedule 10 to FA [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7) and paragraph 43(2) of Schedule 23 to FA [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25); there are other amendments, but none are relevant.
+
+[^key-bf2d50ada1e54f1874ccfa3fe8f4e82a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2023/113/regulation/17) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00022]: Footnote: Paragraph 23ZB of Schedule 36 was inserted by section 10(5) of FA [2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3).
+
+[^key-67efe8f1cb1bec591b422fca1df31b42]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2023/113/regulation/18) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00023]: Footnote: A “pension commencement lump sum” is defined in paragraph 1 of Schedule 29 to FA 2004.
+
+[^f00024]: Footnote: Paragraph 1 of Schedule 29 was relevantly amended by paragraph 11 of Schedule 20 to FA [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), paragraph 24 of Schedule 16 to FA [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), paragraph 21(2) of Schedule 5 to FA [2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), and by [S.I. 2006/572](https://www.legislation.gov.uk/uksi/2006/572); there are other amendments but none are relevant.
+
+[^key-c4a9eda7d32d4497451d83b87ca8715e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2023/113/regulation/19) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00025]: Footnote: A “trivial commutation lump sum” is defined in paragraph 7 of Schedule 29 to FA 2004.
+
+[^f00026]: Footnote: Paragraph 7 of Schedule 29 was relevantly amended by paragraph 29 of Schedule 16 to FA 2011, paragraph 7 of Schedule 1 to the Taxation of Pensions Act [2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), paragraph 7 of Schedule 5 to FA [2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), paragraph 21(6) of Schedule 5 to FA 2021, and by [S.I. 2006/572](https://www.legislation.gov.uk/uksi/2006/572); there are other amendments but none are relevant.
+
+[^key-1dbed08eb1432ac59c8c089d9ae96642]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2023/113/regulation/20) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00027]: Footnote: “Nominated date” is defined in paragraph 7(3) of Schedule 29 to FA 2004.
+
+[^key-01774491ec2c3aa05b1be25241c1140c]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2023/113/regulation/21) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00028]: Footnote: “Serious ill-health lump sum” is defined in paragraph 4 of Schedule 29 to FA 2004.
+
+[^f00029]: Footnote: Sub-paragraph (1)(ca) of paragraph 4 of Schedule 29 was substituted by paragraph 5(4) of Schedule 5 to FA 2016. Paragraph 4 was also relevantly amended by paragraph 28 of Schedule 16 to FA 2011 and paragraph 5(4) of Schedule 5 to FA 2016; there are other amendments but none are relevant.
+
+[^key-697b7c4713695beedcbd88aa49808567]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2023/113/regulation/22) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00030]: Footnote: For the purposes of Part 4 of FA 2004, “arrangement” is defined in section 152(1) of that Act.
+
+[^key-2082e242bbcfea8562dd10c988099952]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2023/113/regulation/23) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00031]: Footnote: For the purposes of Part 4 of FA 2004, “scheme pension” is defined in paragraph 2 of Schedule 28 to that Act.
+
+[^f00032]: Footnote: Section 164(1) of FA 2004 was re-numbered by paragraph 1(2) of Schedule 29 to FA [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9) and amended by paragraph 6 of Schedule 23 to FA 2006.
+
+[^f00033]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). “ITEPA 2003” is defined as the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1) by section 103 of FA 2022. Chapter 5A (applying to pensions paid under a registered pension scheme) was inserted into Part 9 of ITEPA 2003 by paragraph 6 of Schedule 36 to FA 2004. It was relevantly amended by: paragraph 22 of Schedule 16 to FA 2011, paragraph 117 of Schedule 45 to FA [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), paragraphs 81 and 82 of Schedule 1, and paragraph 25 of Schedule 2, to the Taxation of Pensions Act 2014, paragraph 23 of Schedule 4 to FA [2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11) and section 22(6) and (7) of F(No. 2)A [2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33).
+
+[^key-c02ae5375685d03fd204089fe694af84]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2023/113/regulation/24) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00034]: Footnote: Chapter 15A (applying to lump sums paid under registered pension schemes) was inserted into Part 9 of ITEPA 2003 by paragraph 11 of Schedule 31 to FA 2004. Section 636A (relating to exemptions for certain lump sums including pension commencement lump sums) was inserted by paragraph 11 of Schedule 31 to FA 2004, and was amended by paragraph 28 of Schedule 19, and Part 3 of Schedule 27, to FA 2007, paragraph 42 of Schedule 16 to FA 2011, paragraph 5(3) of Schedule 5 to FA [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), paragraph 62 of Schedule 1, and paragraph 19 of Schedule 2, to the Taxation of Pensions Act 2014, section 22(2) to (4) of F(No. 2)A 2015, paragraph 2 of Schedule 5 to FA 2016, and by [S.I. 2006/569](https://www.legislation.gov.uk/uksi/2006/569).
+
+[^f00035]: Footnote: Section 216 of FA 2004 sets out the events which are benefit crystallisation events in relation to an individual, and the amount which is crystallised by each of those events.
+
+[^f00036]: Footnote: Section 214 of FA 2004 sets out when the lifetime allowance charge will arise in relation to a benefit crystallisation event.
+
+[^key-2b10ccf641969732099ed870bfc412ba]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2023/113/regulation/25) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-cdc7d46a2036cd3deaa9eadd528af68b]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2023/113/regulation/26) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00037]: Footnote: Section 218 of FA 2004 defines what is meant by “**lifetime allowance**” for the purposes of Part 4 of that Act.
+
+[^key-5a0e356e14145137064b88f4a40d21da]: Textual amendment: [Reg. 26(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/26/2) substituted (14.9.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) (No. 2) Regulations 2023 (S.I. 2023/912)](https://www.legislation.gov.uk/uksi/2023/912), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2), [28(a)](https://www.legislation.gov.uk/uksi/2023/912/regulation/28/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/3))
+
+[^key-6672fc8ff01853d0901847ae796d8876]: Textual amendment: [Reg. 26(5)](https://www.legislation.gov.uk/uksi/2023/113/regulation/26/5) omitted (14.9.2023) by virtue of [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) (No. 2) Regulations 2023 (S.I. 2023/912)](https://www.legislation.gov.uk/uksi/2023/912), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2), [28(b)](https://www.legislation.gov.uk/uksi/2023/912/regulation/28/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/3))
+
+[^key-3abf48dd04d688f543cee2122372227a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2023/113/regulation/27) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00038]: Footnote: For the purposes of Part 4 of FA 2004, “scheme administrator” must be construed in accordance with section 270 of that Act (but see also sections 271 to 274).
+
+[^f00039]: Footnote: Paragraph 2 of Schedule 28 was amended by paragraph 11 of Schedule 10 to FA 2005, paragraph 20 of Schedule 23 to FA 2006, paragraph 7 of Schedule 20 to FA 2007, section 51(2) of FA 2013, section 20 of FA 2016, paragraph 20 of Schedule 5 to FA 2021, and by [S.I. 2007/493](https://www.legislation.gov.uk/uksi/2007/493).
+
+[^key-5f7649328b1dd647e9346cc52c21f355]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2023/113/regulation/28) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-eab3fd1056873d5b246d037e40cc0db5]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2023/113/regulation/29) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-03efd30583e8540895bf744009ad85d2]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2023/113/regulation/30) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-1119f47dba3c0a500aee8500b148dd30]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2023/113/regulation/31) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00040]: Footnote: For the purposes of Part 4 of FA 2004, “defined benefits lump sum death benefit” is defined in paragraph 13 of Schedule 29 to that Act.
+
+[^key-7bb20bb45272c2428a23a09634197c94]: Textual amendment: [Reg. 31(3)(aa)](https://www.legislation.gov.uk/uksi/2023/113/regulation/31/3/aa) substituted for reg. 31(3)(a) (for the tax year 2024-25 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)(6)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2/6), [20(6)](https://www.legislation.gov.uk/uksi/2025/419/regulation/20/6)
+
+[^f00042]: Footnote: Section 206(1B) was inserted by paragraph 17 of Schedule 2 to the Taxation of Pensions Act 2014 and amended by section 21 of F(No. 2)A 2015.
+
+[^f00043]: Footnote: Paragraph 16(a) was amended by section 21(7) of F(No. 2)A 2015.
+
+[^key-c4f1984b2c86ae4fb2bd6ba04c6048dc]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2023/113/regulation/32) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00044]: Footnote: Section 217 was amended by paragraph 127 of Schedule 46 to FA 2013, paragraph 22 of Schedule 2 to the Taxation of Pensions Act 2014 and paragraph 5 of Schedule 4 to FA 2015.
+
+[^f00045]: Footnote: For the purposes of Part 4 of FA 2004, “lifetime allowance charge” is defined in section 214 of that Act.
+
+[^key-66b98bff13b355d0bdb7e28a9934a720]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2023/113/regulation/33) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-73a2f501e2eeeb7ed4ee3cd0ec1d9416]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2023/113/regulation/34) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-01db7e917762d0354dd268730e083c51]: Textual amendment: [Reg. 34(4A)](https://www.legislation.gov.uk/uksi/2023/113/regulation/34/4A) inserted (14.9.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) (No. 2) Regulations 2023 (S.I. 2023/912)](https://www.legislation.gov.uk/uksi/2023/912), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2023/912/regulation/29) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/3))
+
+[^key-d9a9b906280e0e64b51c5171f4825744]: Textual amendment: Words in [reg. 34(4A)](https://www.legislation.gov.uk/uksi/2023/113/regulation/34/4A) substituted (for the tax year 2023-24 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/3), [20(7)](https://www.legislation.gov.uk/uksi/2025/419/regulation/20/7)
+
+[^key-0237955246961fd6e99039c290674cf1]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2023/113/regulation/35) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-f45693b7198f5010c5a8c4f95322c51e]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2023/113/regulation/36) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00046]: Footnote: [S.I. 2005/3454](https://www.legislation.gov.uk/uksi/2005/3454).
+
+[^f00047]: Footnote: Regulation 3 was amended by section 10 of, and paragraph 21(1) of Schedule 4 to, FA [2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [S.I. 2011/302](https://www.legislation.gov.uk/uksi/2011/302), [S.I. 2011/1751](https://www.legislation.gov.uk/uksi/2011/1751) and [S.I. 2013/1111](https://www.legislation.gov.uk/uksi/2013/1111).
+
+[^f00048]: Footnote: Regulation 4 was amended by [S.I. 2014/1928](https://www.legislation.gov.uk/uksi/2014/1928).
+
+[^f00049]: Footnote: Regulation 5 was amended by [S.I. 2014/1928](https://www.legislation.gov.uk/uksi/2014/1928).
+
+[^key-843d8b2cd99d15bd4c4e7cfe9ef556d7]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2023/113/regulation/37) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00050]: Footnote: [2016 c. 24](https://www.legislation.gov.uk/ukpga/2016/24). “FA 2016” is defined as the Finance Act [2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24) in section 103 of FA 2022. The “relevant amount” under Part 2 of Schedule 4 to FA 2016 may be found by carrying out the calculation found in paragraph 9(4) and (7) of that Schedule.
+
+[^key-2c7e3b32862ada770eea7f8f91feadd2]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2023/113/regulation/38) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-5659113b579539554221d7b8c6e223f5]: Textual amendment: [Reg. 39](https://www.legislation.gov.uk/uksi/2023/113/regulation/39) substituted (for the tax year 2024-25 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/6), [20(8)](https://www.legislation.gov.uk/uksi/2025/419/regulation/20/8)
+
+[^key-4984dce857b3836231bec30bec5d9b6a]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2023/113/regulation/40) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-1bef1fe9a4201be6f05f315b04942e8d]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2023/113/regulation/41) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-0ca3100f07abd927a2e0be3a5f2a2e74]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2023/113/regulation/42) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-4db6f195f577f0d26b3a1485209adf5f]: Modification: [Reg. 42](https://www.legislation.gov.uk/uksi/2023/113/regulation/42) modified (14.7.2026 for the tax year 2023-24 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2026/673/regulation/7)
+
+[^key-a7bfc3d3fe6a5d29cb99a9499f25a3f5]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2023/113/regulation/43) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^key-1c3e69ec64ab9778fd52b46e307a0ca3]: Modification: [Reg. 43](https://www.legislation.gov.uk/uksi/2023/113/regulation/43) modified (14.7.2026 for the tax year 2023-24 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2026/673/regulation/8)
+
+[^f00052]: Footnote: Section 169 has been amended by paragraphs 36 and 64 of Schedule 10 to FA [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), paragraphs 62 and 66 of Schedule 16 to FA [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), section 53(2) to (7) of FA [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), paragraph 23 of Schedule 7 to FA [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), paragraphs 5, 8 and 92 of Schedule 1, and paragraph 4 of Schedule 2, to the Taxation of Pensions Act [2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30) and paragraphs 12 and 13 of Schedule 4 to FA 2017.
+
+[^key-f677b1852f3bec7f375a1229d01b690e]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2023/113/regulation/44) in force at 6.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2)
+
+[^f00053]: Footnote: [2020 c. 14](https://www.legislation.gov.uk/ukpga/2020/14). “FA 2020” is defined as the Finance Act [2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14) in section 103 of the Finance Act 2022.

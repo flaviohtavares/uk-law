@@ -1,0 +1,75 @@
+---
+title: Representation of the People Act 1983, section 75A
+act: Representation of the People Act 1983
+section: 75A
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1983/2/section/75A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Representation of the People Act 1983, section 75A
+
+> **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 75A. Scottish local government elections: prohibition of expenses not authorised by election agent[^key-a74e98e474fb049a86157667748ff177][^c19428711][^c14479931]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies in relation to a local government election in Scotland.
+
+(2) No person other than a candidate at the election, his election agent or a person authorised in writing by the election agent shall, with a view to promoting or procuring the election of the candidate, incur any expenses on account of—
+
+- (a) holding public meetings or organising any public display;
+- (b) issuing advertisements, circulars or publications; or
+- (c) otherwise presenting to the electors the candidate or his views or the extent or nature of his backing or disparaging another candidate.
+
+(3) Subsection (2)(c) above does not restrict the publication of any matter relating to the election in—
+
+- (a) a newspaper or other periodical;
+- (b) a broadcast made by the British Broadcasting Corporation; or
+- (c) a programme included in any service licensed under Part 1 or 3 of the Broadcasting Act 1990 (c. 42) or Part 1 or 2 of the Broadcasting Act 1996 (c. 55).
+
+(4) Subsection (2) does not apply to expenses incurred by any person—
+
+- (a) which do not exceed in the aggregate the permitted sum (and are not incurred by that person as part of a concerted plan of action); or
+- (b) in travelling or in living away from home or similar personal expenses.
+
+(5) For the purposes of subsection (4)(a) above—
+
+- (a) “**the permitted sum**” means, in respect of each candidate, £50 together with an additional 0.5p for every entry in the register of local government electors for the electoral area in question as it has effect on the last day for publication of notice of the election; and
+- (b) expenses are to be regarded as incurred by a person “as part of a concerted plan of action” if they are incurred by that person in pursuance of any plan or other arrangement whereby that person and one or more other persons are to incur, with a view to promoting or procuring the election of the same candidate, expenses which (disregarding subsection (4)(a)) fall within subsection (2) above.
+
+(6) Where a person incurs any expenses required by subsection (2) above to be authorised by the election agent, that person shall, within 21 days after the day on which the result of the election is declared, deliver to the appropriate officer—
+
+- (a) a return of the amount of the expenses, stating the election at which, and the candidate in whose support they were incurred;
+- (b) a declaration by that person (or in the case of an association or body of persons, by a director, general manager, secretary or other similar officer of the association or body) verifying the return and giving particulars of the matters for which the expenses were incurred; and
+- (c) the authority received from the election agent (which, for the purposes of this section, is to be treated as forming part of the return).
+
+(7) A person is guilty of a corrupt practice if he—
+
+- (a) incurs, or aids, abets, counsels or procures any other persons to incur, any expenses in contravention of subsection (2) above; or
+- (b) makes a declaration required by subsection (6)(b) above which he knows to be false.
+
+(8) A person is guilty of an illegal practice if he fails to deliver any return or declaration as required by subsection (6) above.
+
+(9) The court by or before which a person is convicted of a corrupt or illegal practice under subsection (7) or (8) above may, if the court thinks it just in the special circumstances of the case, mitigate or entirely remit any incapacity incurred under section 173 or 173A of this Act by virtue of the conviction.
+
+(10) A candidate is not liable for, and his election is not void by reason of, a corrupt or illegal practice under subsection (7) or (8) above committed by an agent without his consent or connivance.
+
+(11) Where any act or omission of an association or body of persons (whether corporate or unincorporate) is a corrupt or illegal practice under this section, any person who at the time of the act or omission was a director, general manager, secretary or other similar officer of the association or body, or was purporting to act in any such capacity, is also guilty of the corrupt or illegal practice, unless the person proves—
+
+- (a) that the act or omission took place without his consent or connivance; and
+- (b) that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
+
+## Annotations
+
+[^key-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
+
+[^c19428711]: Textual amendment: S. 75A inserted (S.) (retrospective to 16.2.2001) by [Local Electoral Administration and Registration Services (Scotland) Act 2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14), [ss. 16(2)(3)](https://www.legislation.gov.uk/asp/2006/14/section/16/2/3), [63](https://www.legislation.gov.uk/asp/2006/14/section/63); [S.S.I. 2007/26](https://www.legislation.gov.uk/ssi/2007/26), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2007/26/article/2/1/e)
+
+[^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))

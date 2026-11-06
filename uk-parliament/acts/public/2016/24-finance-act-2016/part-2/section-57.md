@@ -1,0 +1,38 @@
+---
+title: Finance Act 2016, section 57
+act: Finance Act 2016
+section: '57'
+status: revised-with-pending-changes
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2016/24/section/57
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2016, section 57
+
+> **Warning: changes not yet applied to this text (12).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/24
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 57. Banking companies: restrictions on loss relief etc
+
+*Extent: E+W+S+N.I.*
+
+(1) Chapter 3 of Part 7A of CTA 2010 (restrictions on banking companies obtaining certain deductions) is amended as follows.
+
+(2) In section 269CA (restriction on deductions for trading losses), in subsection (2), for “50%” substitute “ 25% ”.
+
+(3) In section 269CB (restriction on deductions for non-trading deficits from loan relationships), in subsection (2), for “50%” substitute “ 25% ”.
+
+(4) In section 269CC (restriction on deductions for management expenses etc), in step 1 in subsection (7), for “50%” substitute “ 25% ”.
+
+(5) The amendments made by this section have effect for the purposes of determining the taxable total profits of companies for accounting periods beginning on or after 1 April 2016.
+
+(6) For the purposes of subsection (5), where a company has an accounting period beginning before 1 April 2016 and ending on or after that date (“the straddling period”)—
+
+- (a) so much of the straddling period as falls before 1 April 2016, and so much of that period as falls on or after that date, are treated as separate accounting periods, and
+- (b) profits or losses of the company for the straddling period are apportioned to the two separate accounting periods—
+  - (i) in accordance with section 1172 of CTA 2010 (time basis), or
+  - (ii) if that method would produce a result that is unjust or unreasonable, on a just and reasonable basis.

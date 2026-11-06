@@ -1,0 +1,51 @@
+---
+title: Digital Economy Act 2017, section 111
+act: Digital Economy Act 2017
+section: '111'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2017/30/section/111
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Digital Economy Act 2017, section 111
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 111. Amendments relating to section 108
+
+*Extent: E+W+S+N.I.*
+
+(1) The Data Protection Act 1998 is amended in accordance with subsections (2) to (7).
+
+(2) Omit Part 3 (notification by data controllers).
+
+(3) In section 33A(1) (manual data held by public authorities) omit paragraph (e) (but not the “and” following that paragraph).
+
+(4) In section 71 (index of defined expressions) omit the entries relating to “address”, “fees regulations”, “notification requirements”, “prescribed” and “registrable particulars”.
+
+(5) In Part 2 of Schedule 1 (interpretation of the data protection principles) in paragraph 5 omit paragraph (b) and the “or” preceding that paragraph.
+
+(6) In Part 1 of Schedule 5 (the Information Commissioner) in paragraph 9(1) (destination of fees etc) after “the Freedom of Information Act 2000” insert “ and all charges received by the Commissioner under regulations under section 108(1) of the Digital Economy Act 2017 ”.
+
+(7) In Schedule 14 (transitional provisions and savings) omit paragraph 2 (registration under Part 2 of the Data Protection Act 1984).
+
+(8)[^key-0e12439131d24fa51de82d8d7fe9d4a7] In regulation 5(3)(b) of the High Court Enforcement Officers Regulations 2004 (SI 2004/400) (application procedure) omit paragraph (iii).
+
+(9)[^key-0e12439131d24fa51de82d8d7fe9d4a7] In consequence of the repeal in subsection (2) the following are repealed or revoked—
+
+- (a) section 71 of the Freedom of Information Act 2000;
+- (b) in paragraph 6 of Schedule 2 to the Transfer of Functions (Miscellaneous) Order 2001 (SI 2001/3500)—
+  - (i) in sub-paragraph (1), paragraphs (h) to (m), and
+  - (ii) sub-paragraph (2);
+- (c) in paragraph 9(1)(a) of Schedule 2 to the Secretary of State for Constitutional Affairs Order 2003 (SI 2003/1887), the words “16, 17, 22, 23, 25, 26,”;
+- (d) Part 1 of Schedule 20 to the Coroners and Justice Act 2009;
+- (e) paragraph 26 of Schedule 2 to the Transfer of Tribunal Functions Order 2010 (SI 2010/22).
+
+## Annotations
+
+[^key-0e12439131d24fa51de82d8d7fe9d4a7]: Commencement: S. 111(8)(9) in force at 25.5.2018 by [S.I. 2018/624](https://www.legislation.gov.uk/uksi/2018/624), [reg. 2](https://www.legislation.gov.uk/uksi/2018/624/regulation/2)

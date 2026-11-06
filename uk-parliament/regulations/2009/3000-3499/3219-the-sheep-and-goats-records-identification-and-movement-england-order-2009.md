@@ -1,0 +1,745 @@
+---
+title: The Sheep and Goats (Records, Identification and Movement) (England) Order 2009
+id: uksi/2009/3219
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-12-02'
+text_date: '2020-12-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2009/3219
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/3219/pdfs/uksi_20093219_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/3219/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sheep and Goats (Records, Identification and Movement) (England) Order 2009
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+This Statutory Instrument has been printed in substitution of the SI of the same number and is being issued free of charge to all known recipients of that Statutory Instrument.
+
+2009 No. 3219
+
+Animals, England
+
+Animal Health
+
+The Sheep and Goats (Records, Identification and Movement) (England) Order 2009
+
+Made
+
+2nd December 2009
+
+Coming into force
+
+31st December 2009
+
+The Secretary of State, in whom the powers conferred by sections 1, 8(1), and 83(2) of the Animal Health Act 1981[^f00001] are now vested[^f00002] makes the following Order in exercise of those powers.
+
+## PART 1 — Introduction
+
+### 1. Title, application and commencement
+
+This Order—
+
+- (a) may be cited as the Sheep and Goats (Records, Identification and Movement) (England) Order 2009;
+- (b) applies in England; and
+- (c) comes into force on 31st December 2009.
+
+### 2. Interpretation
+
+(1) In this Order—
+
+- “animal” means any animal of the ovine or caprine species;
+- “central point of recording” means a holding approved by the Secretary of State under Section C.2 of the Annex to the Council Regulation for recording the identities of animals arriving at that holding;
+- “Council Directive [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102)” means Council Directive [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102) on the identification and registration of animals[^f00003];
+- “the Council Regulation” means Council Regulation [(EC) No. 21/2004](https://www.legislation.gov.uk/european/regulation/2004/0021) establishing a system for the identification and registration of ovine and caprine animals and amending Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) and Directives [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102) and [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432)[^f00004] as amended from time to time[^key-fd892d96cb7fce6c1ba7e48d18b4e45e];
+- “export” means sending to a[^key-aa9c757c97420e855eb2508e712b19c9] member State or a third country;
+- “flockmark” means the number allocated by the Secretary of State in respect of a flock of sheep on a holding;
+- “herdmark” means the number allocated by the Secretary of State in respect of a herd of goats on a holding;
+- “holding” has the meaning given in Article 2 of the Council Regulation;
+- “identification code” means the code set out on a means of identification as required under this Order or under the previous Orders;
+- “identification device” means an eartag, electronic eartag, pastern tag, electronic pastern tag, bolus or, in relation to goats, an injectable transponder[^key-a10f68803123168251e77e43af0628b3];
+- “identification mark” means a method of identification applied in a member State, a means of identification or an older means of identification;
+- “illegible” means, in relation to an electronic identification device, unreadable either electronically or visually;[^key-c6cf9ed39320ac2074ce6664dc43d993]
+- “inspector” means a person appointed to be an inspector for the purposes of this Order by the Secretary of State or a local authority;
+- “keeper” has the meaning given in Article 2 of the Council Regulation;
+- “local authority” means—
+  - (a) where there is, within the meaning of the Local Government Changes for England Regulations 1994[^f00005], a unitary authority for a local government area, that authority;
+  - (b) where there is not a unitary authority—
+    - (i) in a metropolitan district, the council of that district;
+    - (ii) in a non-metropolitan county, the council of that county; or
+    - (iii) in each London borough, the council of that borough;
+    - (iv) in the city of London, the Common Council;
+- “market operator” means a person responsible for managing the reception or the sale of animals in a market or a duly authorised representative of such a person;
+- “means of identification” means an identification device or a tattoo;
+- “method of identification” means an eartag, pastern tag, injectable transponder[^key-1e8c6c0693a556f65b39ce1037045be3] or tattoo applied in a member State or a third country;
+- “movement document” means the movement document required by Article 6 of the Council Regulation;
+- “the previous Orders” means—
+  - (a) the Sheep and Goats (Registration, Identification and Movement)(England) Order 2007[^f00006];
+  - (b) the Sheep and Goats (Registration, Identification and Movement)(England) Order 2005[^f00007];
+  - (c) the Sheep and Goats Identification and Movement (Interim Measures)(England) (No. 2) Order 2002[^f00008];
+  - (d) the Sheep and Goats Identification and Movement (Interim Measures)(England) Order 2002[^f00009];
+  - (e) the Sheep and Goats Identification (England) Order 2000[^f00010];
+  - (f) the Sheep and Goats (Records, Identification and Movement) (Wales) Order 2008[^f00011];
+  - (g) the Sheep and Goats (Records, Identification and Movement) (Wales) Order 2006[^f00012];
+  - (h) the Sheep and Goats Identification and Movement (Interim Measures) (Wales) (No. 2) Order 2002[^f00013];
+  - (i) the Sheep and Goats Identification and Movement (Interim Measures) (Wales) Order 2002[^f00014];
+  - (j) the Sheep and Goats Identification and Movement (Interim Measures) (Wales) Regulations 2002[^f00015];
+  - (k) the Sheep and Goats (Registration, Identification and Movement) Order (Northern Ireland) 2005[^f00016];
+  - (l) the Identification and Movement of Sheep and Goats Order (Northern Ireland) 2004[^f00017];
+  - (m) the Identification and Movement of Sheep and Goats Order (Northern Ireland) 1997[^f00018];
+  - (n) the Sheep and Goats (Identification and Traceability) (Scotland) Regulations 2006[^f00019];
+  - (o) the Sheep and Goats Movement (Interim Measures) (Scotland) Order 2002[^f00020]; or
+  - (p) the Sheep and Goats Identification (Scotland) Regulations 2000[^f00021];
+- “register” means the register required by Article 5 of the Council Regulation;
+- “slaughterhouse operator” means a person carrying on the business of a slaughterhouse or the duly authorised representative of such a person;
+- “unique number” means a number that is unique to an animal in a flock or herd and contains no more than 6\` digits.
+
+(2) Expressions not defined in paragraph (1) which are used in this Order and which are also used in the Council Regulation have the same meaning in this Order as they have in that Regulation.
+
+### 3. Competent authority
+
+The Secretary of State is the competent authority for the purposes of the Council Regulation.
+
+### 4. Authorisations
+
+Any authorisations or approvals issued under this Order or the Council Regulation must be in writing, may be made subject to conditions and may be amended, suspended or revoked by notice at any time.
+
+## PART 2 — Identification devices
+
+### 5. Approval of identification devices
+
+Identification devices used to comply with this Order must be of a model approved by the Secretary of State.
+
+### 6. Additional tags and identification devices with additional information
+
+(1) At the request of a keeper, a manufacturer of identification devices may, subject to article 6(2), add supplementary information to an identification device or replacement device provided that—
+
+- (a) the supplementary information is distinct from the identification code; and
+- (b) the identification code remains legible and clearly distinguishable at all times.
+
+(2) A keeper may apply an additional tag to an animal but it must not contain the letters “UK” or bear a flockmark or herdmark, unless authorised by the Secretary of State.
+
+### 7. Colour of identification devices
+
+(1)[^key-fca09dc66df4ba767c698142bafebf98] Subject to paragraph (8) all electronic identification devices, other than replacement devices, injectable transponders and boluses, must be yellow and no keeper may apply a yellow identification device that is not electronic.
+
+(2) No person may attach a red identification device to any animal, other than a replacement identification device.
+
+(3) Where a keeper re-identifies an animal and that animal is not on its holding of birth, or the keeper does not know the holding of birth, they must use a red replacement identification device but the requirement to use a red identification device does not apply to the use of boluses or injectable transponders[^key-027e304a542866bbeb1940ef47f2b840].
+
+(4)[^key-6b9c61fcf150029eb7ac8bc5a050c7a2] Where an animal is identified by means of a bolus and a second identification device that second device must be black and have the letter “B” printed on it and a black identification device may only be used in combination with a bolus or injectable transponder.
+
+(5) The characters on all identification devices must be a different colour from the background of the device and must be clearly legible at all times when the device is attached to an animal.
+
+(6)[^key-889a1ed6ce143b9ae4efa93634794ccc] Where a goat is identified by an injectable transponder and a second identification device that second device must be black and have the letter “I” printed on it.
+
+(7) A keeper who identifies a goat with an injectable transponders must insert the transponder in the goat’s groin.
+
+(8) No one may slaughter a goat identified with an injectable transponder for human consumption.
+
+(9) The fixing mechanism of a yellow, red or black eartag may be of any colour.
+
+### 8. Destruction of identification devices
+
+(1) The operator of a slaughterhouse, knackers yard, hunt kennels or rendering plant and any other person who finally disposes of an identified animal carcass must destroy in a secure manner which prevents reuse all identification devices on animals they slaughter or otherwise dispose of.
+
+(2) Secure destruction includes the rendering of any identification device.
+
+## PART 3 — Identification of animals not identified before 31 December 2009
+
+### 9. Identification of animals not identified before the 31st December 2009
+
+(1) This article applies to—
+
+- (a) sheep born before 31st December 2009 which are not identified before that date and are on their holding of birth;
+- (b) sheep born on or after 31st December 2009;
+- (c) goats born before 31st December 2009 that are not identified before that date and are on their holding of birth whose keepers chose to identify them electronically; and
+- (d) goats born on or after 31st December 2009 whose keepers chose to identify them electronically.
+
+(2) A keeper must comply with Article 4(1) (first paragraph), Article 4(2)(a) and (b) and Article 9(3) of the Council Regulation and this article unless the alternative identification method set out in article 10 is authorised.
+
+(3) For the purpose of Article 4(1) of the Council Regulation, the time limits for identifying an animal are—
+
+- (a) 9 months from the date of birth, in the case of an animal kept in extensive or free range farming conditions; or
+- (b) 6 months from the date of birth, in the case of any other animal.
+
+(4) No animal may be identified by the use of a bolus or injectable transponder[^key-7dec6f21b68eca6737f03e1b5ced98c7] in combination with a tattoo.
+
+(5) The identification code on a means of identification for the purposes of Section A.2. of the Annex to the Council Regulation must be—
+
+- (a) the letters “UK” or, on an electronic identification device, the numbers “826”; and
+- (b) a 12 digit number prescribed by the Secretary of State;
+
+and must be identical on the first and second means of identification.
+
+### 10. Identification of animals intended for slaughter
+
+(1) For animals intended for slaughter before the age of 12 months and not intended for export, the identification method in Section A.7 of the Annex to the Council Regulation is authorised and that identification method must be electronic in the case of sheep[^key-9e5cf9c715e8ab06428edde3bad698cd].
+
+(2) The identification code for the purposes of Section A.7 of the Annex to the Council Regulation must be the letters “UK” followed by the flockmark or herdmark; no other number issued by the competent authority may be visibly recorded on this eartag.
+
+(3) Where it is intended to slaughter after the age of 12 months or to export an animal identified under paragraph (1) that animal must be identified in accordance with article 9 and the original eartag removed.
+
+(4) A keeper may re-identify under article 9 an animal identified under this article and need not slaughter that animal before the age of 12 months only if—
+
+- (a) the animal is on its holding of birth;
+- (b) the animal has moved to its present holding directly from its holding of birth or from its holding of birth via a market and its tag contains a unique electronic identifier; or
+- (c) the keeper has a complete record of all the animal’s movements.
+
+(5) Where an animal is re-identified under paragraph (4)(b) and its tag contains a unique electronic identifier that unique identifier must be cross-referenced to the new identification code in the holding register.
+
+(6) A keeper may re-identify a goat[^key-fb611f66e60fded548ec857dafe1e2c1] identified under paragraph (1) by using an eartag of the kind described in paragraph (2) which includes an electronic identifier but may not then re-identify that animal according to article 9 unless the animal is still on its holding of birth.
+
+(7) Where an animal is re-identified under this article and it is no longer on its holding of birth the keeper must cross-reference the old and new identification codes in the holding register.
+
+## PART 4 — Removal or replacement of means of identification of animals identified under Part 3
+
+### 11. Application of Part 4
+
+This Part applies to all animals identified under Part 3.
+
+### 12. Removal or replacement of means of identification
+
+(1) No person may contravene or fail to comply with Article 4(6)(first paragraph) of the Council Regulation.
+
+(2) But a keeper must replace a lost or illegible means of identification, in accordance with articles 13 or 14 as the case may require, as soon as possible after the original means of identification is discovered to be lost or illegible, but in any event—
+
+- (a) no later than 28 days after it was discovered to be lost or illegible, and
+- (b) before the animal is moved from the holding.
+
+(3) Where an identification mark is replaced with an identification mark bearing a different identification code and the old identification code is known the keeper must cross-reference the old and new identification codes in the holding register.
+
+(4) It is a defence for any person charged with an offence of contravening or failing to comply with paragraphs (1) or (2) to prove that—
+
+- (a) the means of identification was removed to prevent unnecessary pain to an animal; and
+- (b) a replacement means of identification bearing the same identification code was applied to the animal as soon as possible.
+
+### 13. Replacement of the means of identification for animals identified according to article 9
+
+(1) Where an animal identified according to article 9 loses one means of identification, or that means of identification becomes illegible, the means of identification is replaced in accordance with this article if it is replaced with one bearing the same 12 digit number or the remaining identification device is removed and the animal is re-identified according to article 9.
+
+(2) Where an animal identified according to article 9 loses both means of identification, or both means of identification become illegible it is re-identified according to this article if it is re-identified according to article 9.
+
+### 14. Replacement of lost or illegible means of identification for animals identified according to article 10
+
+(1) Where an animal identified according to article 10 loses its eartag or that eartag becomes illegible and is on its holding of birth it is re-identified according to this article if the eartag is replaced with an eartag bearing the same flockmark or herdmark.
+
+(2) Where an animal identified according to article 10 loses its eartag or that eartag becomes illegible and is not on its holding of birth, or if the keeper does not know if it is on its holding of birth, it is re-identified according to this article if the eartag is replaced with a red eartag bearing the flockmark or herdmark of the holding the animal is now on.
+
+## PART 5 — Identification of goats not identified before 31st December 2009
+
+### 15. Identification of goats
+
+(1) Where a goat is on its holding of birth and has not been identified before 31st December 2009 the keeper must, if they have not identified it in accordance with Part 3, identify it within the time limits specified in article 9(3), with either—
+
+- (a) two eartags;
+- (b) an eartag and a pastern tag; or
+- (c) an eartag and a tattoo.
+
+(2) The identification code on a means of identification must be—
+
+- (a) the letters “UK”; and
+- (b) a 12 digit number in accordance with a numbering scheme prescribed by the Secretary of State;
+
+and must be identical on the first and second means of identification.
+
+### 16. Re-identification of goats
+
+Goats identified in accordance with article 15 may be re-identified in accordance with article 9.
+
+## PART 6 — Removal or replacement of identification marks on animals identified before 31st December 2009
+
+### 17. Application of Part 6
+
+This Part applies to all animals identified before 31st December 2009 and to goats identified in accordance with article 15.
+
+### 18. Removal or replacement of identification marks
+
+(1) No person may contravene or fail to comply with Article 4(6)(first paragraph) of the Council Regulation.
+
+(2) But a keeper must replace a lost or illegible identification mark, in accordance with article 19 as soon as possible after the original identification mark is discovered to be lost or illegible, but in any event—
+
+- (a) no later than 28 days after it was discovered to be lost or illegible; and
+- (b) before the animal is moved from the holding.
+
+(3) Where an identification mark is replaced with an identification mark bearing a different identification code and the animal is not on its holding of birth and the old identification code is known the keeper must cross-reference the old and new identification codes in the holding register.
+
+(4) It is a defence for any person charged with an offence of contravening or failing to comply with paragraphs (1) or (2) to prove that—
+
+- (a) the identification mark was removed to prevent unnecessary pain to an animal; and
+- (b) a replacement means of identification bearing the same identification code was applied to the animal as soon as possible.
+
+(5) A keeper may at any time remove identification marks and re-identify the animal in accordance with article 9.
+
+### 19. Replacement of a single identification mark on a double-tagged animal or the identification marks on animals with no remaining means of identification
+
+An animal is re-identified according to this article if the missing or illegible means of identification is or are replaced with—
+
+- (a) means of identification bearing the same unique number as the lost or illegible means of identification;
+- (b) two non-electronic means of identification, both bearing the same number; or
+- (c) the means of identification specified in Articles 4(1) (first paragraph), 4(2)(a) and (b) and Article 9(3) of the Council Regulation.
+
+### 20. Mandatory re-identification of animals
+
+Where an animal identified before the coming into force of this Order is not identified with a unique number a keeper must re-identify it before moving it from the holding in accordance with article 9 and, if it is not on its holding of birth, must cross-reference the old and new identification numbers in the holding register.
+
+## PART 7 — Holding registers
+
+### 21. Holding register
+
+(1) It is an offence for a keeper, other than a transporter, to fail to comply with Article 5(1), (3) and (5) of the Council Regulation.
+
+(2) When an animal is moved onto or from its holding, the keeper must record—
+
+- (a) the information required by Section B of the Annex to the Council Regulation; and
+- (b) the number of animals moved.
+
+(3) The information referred to in paragraph (2) in respect of animals moving onto a holding must be recorded by the keeper by entering it in the register but the individual identification codes of each animal may, alternatively, be recorded by retaining a duplicate or certified copy of the movement documents in date order and cross-referencing them to the relevant movement records in the holding register.
+
+(4) The information referred to in paragraph (2) in respect of animals moving off a holding must be recorded by the keeper by either—
+
+- (a) entering it in the register; or
+- (b) retaining a duplicate or certified copy of the movement document and keeping such duplicate or copy with the register in chronological order with any other movement documents retained.
+
+(5) It is an offence to keep the register in a form other than that approved by the Secretary of State.
+
+(6) The keeper must complete the register—
+
+- (a) in the case of the movement of an animal onto or from a holding other than via a central point of recording, within 36 hours of the movement;
+- (b) in the case of a movement of an animal onto or from a holding via a central point of recording, within 48 hours of the movement;
+- (c) in the case of the replacement of an identification mark, within 36 hours of the replacement;
+- (d) in the case of the identification code of an animal, the year of its birth, the date of its identification, if known, its breed and genotype[^key-bf26c0dc339e0f8a6996a8551bac1b0f], within 36 hours of its identification;
+- (e) in the case of the death of an animal, within 36 hours of the discovery of its death.
+
+(7) Where a keeper moves their animals to another holding but continues to be the keeper, the keeper does not have to keep the register on that holding but must be able to produce it within a reasonable time to the Secretary of State upon request.
+
+(8) For the purposes of Article 5(3) of the Council Regulation, the period for which the register, including the duplicate or certified copies of the movement documents if kept in accordance with paragraph (4)(b), must be available is 3 years from the last day when an animal referred to on the document dies or leaves the holding.
+
+(9) When an animal is re-identified the keeper must record in the register the date of re-identification.
+
+## PART 8 — Movement documents
+
+### 22. Movement document[^key-6502629a52aa35f7c32238098119a80f]
+
+(1) The Secretary of State shall nominate a person to operate a computerised central database to record animal movements capable of accepting notification of movements electronically.
+
+(2) In this Part “notify” means notify to the operator of the central database.
+
+(3) Operators of abattoirs, markets, collection centres and assembly centres must, and other keepers may, notify movements of animals onto and off their premises electronically.
+
+(4) When a keeper notifies a movement of an animal off their holding electronically they must enter the details required in Section C of the Annex to the Council Regulation, other that the keeper’s signature, onto the central database within 3 days of the movement.
+
+(5) When the movement of animals identified in accordance with article 10 is notified electronically by the operator of an abattoir, market, collection centre or assembly centre the operator must additionally—
+
+- (i) enter onto the central database any individual identifier for those animals; and
+- (ii) include on the movement document the total number of animals identified with each herdmark or flockmark.
+
+(6) Subject to paragraphs (7), (8) and (9) when a keeper moves an animal off their holding they must complete a movement document in a form approved by the Secretary of State and must provide the transporter with a copy.
+
+(7) When a keeper notifies the movement of an animal off their holding electronically they need not sign the movement document.
+
+(8) When a keeper notifies a movement off their holding electronically and the transporter is able to print off in transit a document in relation to all the animals transported giving—
+
+- (i) all the information required by paragraph (4); and
+- (ii) in relation to the animals moved from markets, collection centres and assembly centres and identified in accordance with article 10, the information referred to in sub-paragraph (5)(ii),
+
+the keeper need not complete a movement document.
+
+(9) The identity of an animal may be recorded at the holding of destination if—
+
+- (a) the holding of destination is a central point of recording; and
+- (b) the animal is transported in accordance with section C 2(a) of the Annex to the Council Regulation.
+
+(10) A keeper onto whose holding an animal is moved must keep a copy of the movement document provided by the transporter of that animal for three years unless—
+
+- (a) the movement off the previous holding and the movement onto the keeper’s holding were notified electronically, or
+- (b) they scan the movement document and retain an electronic copy for three years,
+
+and the keeper must keep any copies in chronological order.
+
+### 23. Supply of movement document[^key-ad3d5c168562b2887b07b2af48e889c1]
+
+(1) When an animal is moved onto a holding the transporter of that animal must give to the keeper at that holding—
+
+- (a) a copy of the movement document, or
+- (b) if, pursuant to article 22(8) there is no movement document, a printout of the information referred to in that article.
+
+(2) The keeper on the holding of destination must notify the central database operator of the receipt of those animals, by any means permitted by the Secretary of State, within 3 days of receiving the animals.
+
+(3) In the case of an animal moved from a holding to a port and intended for consignment outside Great Britain, the keeper at that holding must notify the central database operator of that movement, by any means permitted by the Secretary of State, within 3 days of moving the animal.
+
+## PART 9 — Central database
+
+### 24. Inventory of animals
+
+(1) For the purpose of Article 7(2) of the Council Regulation, a keeper who keeps animals permanently must make an inventory of the number of animals on their holding as at the 1st December each year.
+
+(2) It is an offence for a keeper to fail to provide the result of the annual inventory to the Secretary of State by 31st December each year.
+
+### 24A. Notification of holdings where animals are kept[^key-c312f514a6cb756ea6054707d0906dcc]
+
+(1) Where, on or after 6th April 2016, a person becomes the keeper of any animal on a holding, they must within 30 days after they begin to keep that animal, notify the Secretary of State in accordance with Article 8(2) of the Council Regulation.
+
+(2) Where, on 6th April 2016, a person is already the keeper of any animal on a holding but has not notified the Secretary of State in accordance with Article 8(2) of the Council Regulation, they must do so by 6th May 2016.
+
+(3) It is an offence for a keeper to fail to comply with this article.
+
+### 25. Supply of information
+
+(1) On receiving notification under Article 8(2) of the Council Regulation that a person has become the keeper on a holding, the Secretary of State must, subject to paragraph (2), allocate a flockmark in respect of each flock of sheep on the holding and a herdmark in respect of each herd of goats on the holding.
+
+(2) When the holding is a slaughterhouse or a market, the Secretary of State must allocate a flockmark or herdmark only where the Secretary of State deems it appropriate to do so.
+
+(3) The keeper must notify the Secretary of State in writing of any change in the information specified in Article 8(2)(a) of the Council Regulation within 30 days of such change.
+
+## PART 10 — Markets
+
+### 26. Markets
+
+(1) A market operator must ensure that all animals are divided into lots of one or more animals immediately upon their arrival at the market and that a lot number is allocated to each lot.
+
+(2) No person may buy an animal at a market unless they buy all the other animals in the lot to which that animal belongs and moves the entire lot from the market to the same holding.
+
+(3) No person may sell an animal at a market unless they also sell all the other animals in the lot to the same buyer.
+
+(4) A market operator may not receive an animal onto a market unless—
+
+- (a) it is identified in accordance with this Order; and
+- (b) it is accompanied by a movement document which is completed in accordance with Part 8.
+
+(5)[^key-a02ff8cd078d903c3e54c09fdf4a75c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 27. Replacement of identification marks lost at markets
+
+(1) The requirements in this Order to replace an identification mark do not apply to a market operator or slaughterhouse operator.
+
+(2) If an identification mark is removed, lost or discovered to be illegible while an animal is at a market, the keeper who purchases the animal at the market must apply a replacement in accordance with this Order.
+
+### 28. Contingency planning for power and equipment failures
+
+(1) Local authorities may exempt market, collection centre and slaughterhouse operators from the need to record—
+
+- (a) an animal’s unique number on a movement document;
+- (b) an animal’s unique number in a holding register; or
+- (c) the numbers of animals in any batch bearing a particular flockmark or herdmark,
+
+where a contingency plan has been agreed between the local authority and the market or slaughterhouse operator.
+
+(2) A local authority may withdraw any such exemption if it is no longer satisfied with the operation or terms of the contingency plan.
+
+(3) A contingency plan agreed under paragraph (1) must set out the conditions which must be met by the market or slaughterhouse operator and the circumstances in which, provided those conditions are met, the exemptions in paragraph (1) will apply.
+
+(4) A market or slaughterhouse operator must seek the consent of the local authority as soon as possible on every occasion when they wish to apply the exemptions in paragraph (1) and must cease to accept animals without recording the information referred to in paragraph (1) if that consent is refused.
+
+(5) For the purposes of this article “collection centre” means any holding at which sheep or goats originating from different holdings are grouped together to form consignments of animals intended for export or which is used in the course of export.
+
+(6)[^key-95b221d4506ffd5b2cbe3b454b85ab35] When animals arrive at a market, collection centre or abattoir which—
+
+- (a) is a central point of recording, and
+- (b) is applying the exemptions in paragraph (1) with the consent of the local authority,
+
+if the identity of those animals is not recorded on a movement document accompanying them in accordance article 22(4) the market must provide the keeper of the holding from which the animals have arrived written with confirmation that the failure to provide the identities of the individual animals to that keeper has been approved by the local authority.
+
+## PART 11 — Animals brought into England
+
+### 29. Receipt of animals from a member State[^key-b485452993f9b80cb01c9d4e29d1f69c]
+
+(1) No person may receive an animal from a[^key-3f411a426d00d3c1790604953bf0f575] member State unless it is identified in accordance with—
+
+- (a) the Council Regulation, in the case of an animal born after 9th July 2005; or
+- (b) Council Directive [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102), in the case of an animal born on or before 9th July 2005.
+
+(2) It is an offence to remove or replace the original method of identification of an animal originating in a[^key-f200ec0534a88e7669d352ba86391747] member State in contravention of Article 4(5) of the Council Regulation.
+
+### 30. Receipt of animals from Scotland, Wales, Northern Ireland or the Crown Dependencies
+
+No person may receive an animal from Scotland, Wales, Northern Ireland, the Channel Islands or the Isle of Man unless it is identified and accompanied by a movement document in accordance with—
+
+- (a) in the case of an animal born after 9th July 2005, the Council Regulation, including any derogation exercised under the Council Regulation; or
+- (b) in the case of an animal from Scotland, Wales or Northern Ireland born on or before 9th July 2005 the previous Orders and any additional requirements imposed in legislation enforcing the Council Regulation in relation to those animals; or
+- (c) in the case of animals from the Crown Dependencies born on or before 9th July 2005 Council Directive [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102).
+
+### 31. Identification of animals imported from third countries
+
+(1) It is an offence for a keeper to fail to comply with Article 4(4) of the Council Regulation and this article.
+
+(2) For the purposes of Article 4(4) (first paragraph) of the Council Regulation, the period for identifying an animal is 14 days.
+
+(3) The means of identification for animals imported from a third country must be the same as that set out in Article 4(2)(a) and (b) and Article 9(3) of the Council Regulation and the identification code for the purposes of Section A.2 of the Annex is—
+
+- (a) the letters “UK”;
+- (b) a 12 digit number in accordance with a numbering scheme prescribed by the Secretary of State.
+
+(4) Where an animal is imported from a third country and re-identified according to this article, the keeper must record information about the addition of the new means of identification in the register together with the full identification code on the new means of identification and the full code on the method of identification applied in the third country.
+
+### 32. Loss of methods of identification applied in a third country
+
+Where an animal is imported from a third country and re-identified in accordance with Article 4(4) of the Council Regulation, the keeper is not required to replace a method of identification applied in the third country if it subsequently becomes lost or illegible.
+
+## PART 12 — Miscellaneous
+
+### 33. Identification and recording of animals for export
+
+(1) A keeper must identify all animals consigned for export in accordance with Article 4(2)(a) and (b) and Article 9(3) of the Council Regulation.
+
+(2) Once an animal identified before 31st December 2009 is consigned for export the keeper must record its individual identity in the holding register and may not export that animal until 30 days after its identity has been recorded.
+
+### 34. Defence related to movement for emergency veterinary treatment
+
+It is a defence for any person charged with an offence of contravening or failing to comply with any provision in this Order relating to the movement of an animal from a holding without attaching or applying the required means of identification to prove that the animal was moved from the holding for the purposes of emergency veterinary treatment.
+
+### 35. Powers of inspectors
+
+(1) An inspector may, for any purpose relating to the enforcement of this Order—
+
+- (a) collect, pen and mark any animal and require a keeper to arrange for the collection, penning, marking and securing of any animal;
+- (b) require the keeper to produce or copy any document or record;
+- (c) remove and retain any document or record;
+- (d) have access to, and check the operation of, any computer and any associated apparatus or material which is or has been used in connection with records;
+- (e) where a record is kept by means of a computer, require the record to be produced in a form which may be taken away;
+- (f) require the production of any unused identification devices, and record their numbers;
+- (g) take with them [^key-a1ec8c399f7d4b5a8f04fe6836c9906d]... any people or things they consider necessary.
+
+(2) A person required to do anything by an inspector acting under paragraph (1) must, unless they have reasonable cause, do so without delay and proof of any such reasonable cause lies on that person.
+
+### 36. Power to prohibit movement of animals
+
+(1) An inspector may, by serving notice on a keeper, prohibit the movement of sheep onto or from the holding specified in the notice, if they are satisfied that the prohibition is necessary for the proper enforcement of this Order in relation to that flock.
+
+(2) An inspector may, by serving notice on a keeper, prohibit the movement of goats onto or from the holding specified in the notice, if they are satisfied that the prohibition is necessary for the proper enforcement of this Order in relation to that herd.
+
+(3) A notice served under this article may be amended or revoked by further notice at any time.
+
+### 37. False information
+
+No person may furnish information which they know to be false or misleading to a person acting under this Order.
+
+### 38. Alteration of identification marks
+
+No person may alter, obliterate or deface the information on any identification mark attached to an animal under—
+
+- (a) the Council Regulation;
+- (b) this Order or any provision that gives effect to the Council Regulation in Scotland, Wales or Northern Ireland;
+- (c) the previous Orders; or
+- (d) Council Directive [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102), in the case of an animal marked in a[^key-85a8f26895a9c60045cc5864abcb8015] member State in accordance with that Directive.
+
+### 39. Offences by bodies corporate
+
+(1) If an offence against the Animal Health Act 1981 committed by a body corporate is shown—
+
+- (a) to have been committed with the consent or connivance of an officer; or
+- (b) to be attributable to any neglect on their part,
+
+the officer as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with their functions of management as if they were a director of the body.
+
+(3) “Officer”, in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
+
+### 40. Offences by partnerships and unincorporated associations
+
+(1) Proceedings for an offence under this Order alleged to have been committed by a partnership or an unincorporated association may be brought in the name of the partnership or association.
+
+(2) For the purposes of such proceedings—
+
+- (a) rules of court relating to the service of documents are to have effect as if the partnership or association were a body corporate;
+- (b) section 33 of the Criminal Justice Act 1925[^f00022] and Schedule 3 to the Magistrates’ Courts Act 1980[^f00023] apply in relation to the partnership or associations as they apply in relation to a body corporate.
+
+(3) A fine imposed on a partnership or association on its conviction for an offence under this Order is to be paid out of the funds of the partnership or association.
+
+(4) Where an offence under this Order committed by a partnership is proved to have been committed with the consent or connivance of, or be attributable to any neglect on the part of, a partner, that partner (as well as the partnership) is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+For these purposes, “partner” includes a person purporting to act as a partner.
+
+(5) Where an offence under this Order committed by an unincorporated association is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of the association, that officer (as well as the association) is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+For these purposes, “officer” means an officer of the association or a member of its governing body or a person purporting to act in such a capacity.
+
+### 41. Enforcement
+
+(1) This Order is enforced by the local authority.
+
+(2) The Secretary of State may direct, in relation to cases of a particular description or any particular case, that an enforcement duty imposed on a local authority by this Order must be discharged by the Secretary of State and not by the local authority.
+
+(3)[^key-dc9941c8616d27c120370102be2e7548] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
+
+### 42. Revocations
+
+The Sheep and Goats (Records, Identification and Movement) (England) Order 2007[^f00024] is revoked.
+
+### 43. Review of this Order[^key-a37a7a0599d0de04f7fa3d90537d3185]
+
+(1)[^key-c3f16a39c6929344a7041a0bf4bd55e6] The Secretary of State must from time to time—
+
+- (a) carry out a review of this Order;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(1A)[^key-d55c0a5f6e94ca54fbcf7d7854e88ad3] In carrying out the review the Secretary of State must, so far as reasonable, have regard to the powers and mechanisms available in other Member States to enable the provisions of the Council Regulation to be implemented.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by this Order;
+- (b) assess the extent to which those objectives have been achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(3)[^key-b73593d4e8745db2b03a2b141fe65200] The first report under this article must be published before the end of the period of five years beginning with 6th April 2014.
+
+(4)[^key-e5bbda47f666a415de2e3dde1b14e8cb] Reports under this article are afterwards to be published at intervals not exceeding five years.
+
+Jim Fitzpatrick
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision for the administration and enforcement in England of Council Regulation [(EC) No. 21/2004](https://www.legislation.gov.uk/european/regulation/2004/0021) (establishing a system for the identification and registration of ovine and caprine animals and amending Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) and Directives [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102) and [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432)). It revokes and replaces the Sheep and Goats (Records, Identification and Movement) (England) Order 2007, [S.I. 2007/3493](https://www.legislation.gov.uk/uksi/2007/3493).
+
+Part 2 provides that identification devices used to comply with this Order must be of a type approved by the Secretary of State and sets out some general provisions in relation to the application of identification devices.
+
+Part 3 of the Order requires the application of two means of identification, including one electronic device, to an animal identified or imported on or after 31st December 2009. It provides for animals that are not intended for export and intended for slaughter within 12 months of birth to be identified with a single identification tag (article 10).
+
+Part 4 makes provisions for the removal or replacement of identification marks on animals identified under Part 3.
+
+Part 5 makes provisions for the identification of goats not identified under Part 3.
+
+Part 6 makes provisions for the replacement of identification marks on animals identified before 31 December 2009 and on goats.
+
+Part 7 makes provision for every keeper to keep an up-to-date holding register, setting out the information which must be entered in the register and when.
+
+Part 8 makes provision for a movement document to accompany every animal when it moves between holdings (article 22) and specifies when and to whom the document must be supplied (article 23).
+
+Part 9 sets out the requirement for keepers to keep an annual inventory (article 24) and supply information to the Secretary of State about their holding (article 25) and the time limits for doing so.
+
+Part 10 provides for the allocation of lot numbers to animals at a market and prohibits the buying or selling of animals unless all animals from a lot are bought or sold (article 26). It exempts markets from the need to re-identify animals with missing identification marks (article 27) and provides for arrangements to be agreed to allow markets to continue to operate in the event of a power or equipment failure (article 28).
+
+Part 11 makes provision for the identification requirements of animals brought into England from other member States, other parts of the United Kingdom, the Crown Dependencies and from third countries (articles 29 and 30).
+
+Part 12 contains miscellaneous and enforcement provisions including the requirements relating to animals which are to be exported. Article 34 sets out a defence to the failure to identify an animal correctly in the case of emergency veterinary treatment. Article 35 confers various powers on inspectors and article 36 enables inspectors to prohibit the movement of a flock of sheep or a herd of goats to or from a holding. Articles 37 and 38 relate to the provision of false or misleading information and the alteration of identification marks. Article 39 relates to offences committed by bodies corporate and article 40 relates to offences committed by partnerships and unincorporated associations. The Order is enforced by the local authority or the Secretary of State if so directed (article 41).
+
+Breach of the Order is an offence under section 73 of the Animal Health Act 1981, punishable in accordance with section 75 of that Act.
+
+An Impact Assessment has been prepared and placed in the library of each House of Parliament. Copies can be obtained from Terry Gurnhill, Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22) to which there are amendments not relevant to this Order.
+
+[^f00002]: Footnote: Functions conferred under the 1981 Act on “the Minister” and “the Ministers” are now exercisable by the Secretary of State. Functions of “the Ministers” were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 ([SI 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)). Functions of the Minister of Agriculture, Fisheries and Food were then further transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)). The functions of the Secretary of State under the Animal Health Act 1981 are, so far as are exercisable in relation to Wales, vested in the Welsh Ministers. Those functions were transferred to the National Assembly for Wales constituted by the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38) by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) article 2; see the entry in Schedule 1 for the Animal Health Act [1981 (c. 22)](https://www.legislation.gov.uk/ukpga/1981/22). By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers immediately after the end of the initial period as defined by section 161(5) of that Act. The functions of the Secretary of State under the Animal Health Act [1981 (c. 22)](https://www.legislation.gov.uk/ukpga/1981/22) are, so far as they are exercisable in relation to Scotland, vested in the Scottish Ministers by section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00003]: Footnote: OJ No L355, 5.12.92, p.32 repealed by Directive [2008/71/EC](https://www.legislation.gov.uk/european/directive/2008/0071). Older animals will still be identified in accordance with this order.
+
+[^f00004]: Footnote: OJ No L 5, 9.1.04, p 8 to which there are amendments not relevant to this Order.
+
+[^key-fd892d96cb7fce6c1ba7e48d18b4e45e]: Textual amendment: Words in art. 2(1) added (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [3(1)](https://www.legislation.gov.uk/uksi/2014/331/article/3/1)
+
+[^key-aa9c757c97420e855eb2508e712b19c9]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2009/3219/article/2) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1238)](https://www.legislation.gov.uk/uksi/2018/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1238/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1238/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a10f68803123168251e77e43af0628b3]: Textual amendment: Words in art. 2(1) substituted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2014/331/article/3/2)
+
+[^key-c6cf9ed39320ac2074ce6664dc43d993]: Textual amendment: Words in art. 2(1) inserted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/331/article/3/3)
+
+[^f00005]: Footnote: [S.I. 1994/867](https://www.legislation.gov.uk/uksi/1994/867) to which there are amendments not relevant to this Order.
+
+[^key-1e8c6c0693a556f65b39ce1037045be3]: Textual amendment: Words in art. 2(1) added (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [3(4)](https://www.legislation.gov.uk/uksi/2014/331/article/3/4)
+
+[^f00006]: Footnote: [S.I. 2007/3493](https://www.legislation.gov.uk/uksi/2007/3493).
+
+[^f00007]: Footnote: [S.I. 2005/3100](https://www.legislation.gov.uk/uksi/2005/3100), amended by [S.I. 2006/2987](https://www.legislation.gov.uk/uksi/2006/2987).
+
+[^f00008]: Footnote: [S.I. 2002/2153](https://www.legislation.gov.uk/uksi/2002/2153), amended by [S.I. 2003/29](https://www.legislation.gov.uk/uksi/2003/29), [2003/502](https://www.legislation.gov.uk/uksi/2003/502) and [2003/1728](https://www.legislation.gov.uk/uksi/2003/1728).
+
+[^f00009]: Footnote: [S.I. 2002/240](https://www.legislation.gov.uk/uksi/2002/240), amended by [S.I. 2002/764](https://www.legislation.gov.uk/uksi/2002/764) and [2002/1349](https://www.legislation.gov.uk/uksi/2002/1349).
+
+[^f00010]: Footnote: [S.I. 2000/2027](https://www.legislation.gov.uk/uksi/2000/2027), amended by [S.I. 2001/281](https://www.legislation.gov.uk/uksi/2001/281).
+
+[^f00011]: Footnote: [S.I. 2008/130 (W. 17)](https://www.legislation.gov.uk/wsi/2008/130).
+
+[^f00012]: Footnote: [S.I. 2006/1036 (W. 106)](https://www.legislation.gov.uk/wsi/2006/1036) amended by [S.I. 2006/2926 (W.261)](https://www.legislation.gov.uk/wsi/2006/2926).
+
+[^f00013]: Footnote: [S.I. 2002/2302 (W. 227)](https://www.legislation.gov.uk/wsi/2002/2302), amended by [S.I. 2003/167 (W. 27)](https://www.legislation.gov.uk/wsi/2003/167), [S.I. 2003/946 (W. 127)](https://www.legislation.gov.uk/wsi/2003/946) and [S.I. 2003/1966 (W. 211)](https://www.legislation.gov.uk/wsi/2003/1966).
+
+[^f00014]: Footnote: [S.I. 2002/1357 (W. 133)](https://www.legislation.gov.uk/wsi/2002/1357).
+
+[^f00015]: Footnote: [S.I. 2002/274 (W. 30)](https://www.legislation.gov.uk/wsi/2002/274), amended by [S.I. 2002/811 (W. 91)](https://www.legislation.gov.uk/wsi/2002/811).
+
+[^f00016]: Footnote: [S.R. 2005/353 (NI)](https://www.legislation.gov.uk/nisr/2005/353) amended by [S.R. (NI) 2006/508](https://www.legislation.gov.uk/nisr/2006/508).
+
+[^f00017]: Footnote: [S.R. (NI) 2004 No. 491](https://www.legislation.gov.uk/nisr/2004/491).
+
+[^f00018]: Footnote: [S.R. (NI) 1997 No. 173](https://www.legislation.gov.uk/nisr/1997/173), amended by [S.R. (NI) 1998 No. 393](https://www.legislation.gov.uk/nisr/1998/393).
+
+[^f00019]: Footnote: [S.S.I. 2006/73](https://www.legislation.gov.uk/ssi/2006/73), amended by [S.S.I. 2006/594](https://www.legislation.gov.uk/ssi/2006/594) and [S.S.I. 2007/559](https://www.legislation.gov.uk/ssi/2007/559).
+
+[^f00020]: Footnote: [S.S.I. 2002/38](https://www.legislation.gov.uk/ssi/2002/38), amended by [S.S.I. 2002/221](https://www.legislation.gov.uk/ssi/2002/221).
+
+[^f00021]: Footnote: [S.S.I. 2000/418](https://www.legislation.gov.uk/ssi/2000/418), amended by [S.S.I. 2002/531](https://www.legislation.gov.uk/ssi/2002/531) and [S.S.I. 2002/39](https://www.legislation.gov.uk/ssi/2002/39).
+
+[^key-fca09dc66df4ba767c698142bafebf98]: Textual amendment: Art. 7(1) substituted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [4(2)](https://www.legislation.gov.uk/uksi/2014/331/article/4/2)
+
+[^key-027e304a542866bbeb1940ef47f2b840]: Textual amendment: Words in art. 7(3) added (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2014/331/article/4/3)
+
+[^key-6b9c61fcf150029eb7ac8bc5a050c7a2]: Textual amendment: Art. 7(4) substituted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [4(4)](https://www.legislation.gov.uk/uksi/2014/331/article/4/4)
+
+[^key-889a1ed6ce143b9ae4efa93634794ccc]: Textual amendment: Art. 7(6)-(9) inserted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [4(5)](https://www.legislation.gov.uk/uksi/2014/331/article/4/5)
+
+[^key-7dec6f21b68eca6737f03e1b5ced98c7]: Textual amendment: Words in [art. 9(4)](https://www.legislation.gov.uk/uksi/2009/3219/article/9/4) added (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [5](https://www.legislation.gov.uk/uksi/2014/331/article/5)
+
+[^key-9e5cf9c715e8ab06428edde3bad698cd]: Textual amendment: Words in art. 10(1) added (1.1.2015) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [6(1)](https://www.legislation.gov.uk/uksi/2014/331/article/6/1)
+
+[^key-fb611f66e60fded548ec857dafe1e2c1]: Textual amendment: Words in art. 10(6) substituted (1.1.2015) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2014/331/article/6/2)
+
+[^key-bf26c0dc339e0f8a6996a8551bac1b0f]: Textual amendment: Words in art. 21(6)(d) replaced (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [7](https://www.legislation.gov.uk/uksi/2014/331/article/7)
+
+[^key-6502629a52aa35f7c32238098119a80f]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/uksi/2009/3219/article/22) substituted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [8](https://www.legislation.gov.uk/uksi/2014/331/article/8)
+
+[^key-ad3d5c168562b2887b07b2af48e889c1]: Textual amendment: [Art. 23](https://www.legislation.gov.uk/uksi/2009/3219/article/23) substituted (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [9](https://www.legislation.gov.uk/uksi/2014/331/article/9)
+
+[^key-c312f514a6cb756ea6054707d0906dcc]: Textual amendment: [Art. 24A](https://www.legislation.gov.uk/uksi/2009/3219/article/24A) inserted (6.4.2016) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016 (S.I. 2016/76)](https://www.legislation.gov.uk/uksi/2016/76), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/76/article/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2016/76/article/2/2)
+
+[^key-a02ff8cd078d903c3e54c09fdf4a75c4]: Textual amendment: [Art. 26(5)](https://www.legislation.gov.uk/uksi/2009/3219/article/26/5) omitted (6.4.2014) by virtue of [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [10](https://www.legislation.gov.uk/uksi/2014/331/article/10)
+
+[^key-95b221d4506ffd5b2cbe3b454b85ab35]: Textual amendment: Art. 28(6) added (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [11](https://www.legislation.gov.uk/uksi/2014/331/article/11)
+
+[^key-b485452993f9b80cb01c9d4e29d1f69c]: Textual amendment: Word in [art. 29](https://www.legislation.gov.uk/uksi/2009/3219/article/29) heading substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1238)](https://www.legislation.gov.uk/uksi/2018/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1238/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1238/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3f411a426d00d3c1790604953bf0f575]: Textual amendment: Word in [art. 29(1)](https://www.legislation.gov.uk/uksi/2009/3219/article/29/1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1238)](https://www.legislation.gov.uk/uksi/2018/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1238/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1238/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f200ec0534a88e7669d352ba86391747]: Textual amendment: Word in [art. 29(2)](https://www.legislation.gov.uk/uksi/2009/3219/article/29/2) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1238)](https://www.legislation.gov.uk/uksi/2018/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1238/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1238/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a1ec8c399f7d4b5a8f04fe6836c9906d]: Textual amendment: Words in [art. 35(1)(g)](https://www.legislation.gov.uk/uksi/2009/3219/article/35/1/g) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1238)](https://www.legislation.gov.uk/uksi/2018/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1238/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1238/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-85a8f26895a9c60045cc5864abcb8015]: Textual amendment: Word in [art. 38(d)](https://www.legislation.gov.uk/uksi/2009/3219/article/38/d) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1238)](https://www.legislation.gov.uk/uksi/2018/1238), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1238/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/1238/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00022]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Subsections (1) and (2) of section 33 were repealed by the Magistrates Courts Act [1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), section 132 and Schedule 6; subsection (3) was amended by the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), section 56(1) and Schedule 8, part II, paragraph 19; subsection (4) was amended by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 109(1) and (3), Schedule 8, paragraph 71 and Schedule 10, and by the Magistrates’ Courts Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), section 154 and Schedule 7, paragraph 5; subsection (5) was repealed by the Magistrates’ Courts Act 1952, section 132, Schedule 6.
+
+[^f00023]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Sub-paragraph 2(a) was amended by the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), section 47, Schedule 1, paragraph 13, and was repealed by the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), sections 41 and 332, Schedule 3, part 2, paragraph 51, sub-paragraphs (1), (13)(a) and Schedule 37, part 4 (with effect from a date to be appointed); paragraph 5 was repealed by the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), sections 25(2) and 101(2) and Schedule 13; paragraph 6 was amended by the Criminal Justice Act 2003, section 41, Schedule 3, part 2, paragraph 51, sub-paragraphs (1) and (13)(b) (with effect from a date to be appointed).
+
+[^key-dc9941c8616d27c120370102be2e7548]: Textual amendment: Art. 41(3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [32](https://www.legislation.gov.uk/uksi/2012/2897/article/32)
+
+[^f00024]: Footnote: [S.I. 2007/3493](https://www.legislation.gov.uk/uksi/2007/3493).
+
+[^key-a37a7a0599d0de04f7fa3d90537d3185]: Textual amendment: Art. 43 added (6.4.2014) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2014 (S.I. 2014/331)](https://www.legislation.gov.uk/uksi/2014/331), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2014/331/article/1/b), [12](https://www.legislation.gov.uk/uksi/2014/331/article/12)
+
+[^key-c3f16a39c6929344a7041a0bf4bd55e6]: Textual amendment: Words in art. 43(1) substituted (6.4.2016) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016 (S.I. 2016/76)](https://www.legislation.gov.uk/uksi/2016/76), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/76/article/1/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/76/article/2/3/a)
+
+[^key-d55c0a5f6e94ca54fbcf7d7854e88ad3]: Textual amendment: Art. 43(1A) inserted (6.4.2016) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016 (S.I. 2016/76)](https://www.legislation.gov.uk/uksi/2016/76), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/76/article/1/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/76/article/2/3/b)
+
+[^key-b73593d4e8745db2b03a2b141fe65200]: Textual amendment: Art. 43(3) substituted (6.4.2016) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016 (S.I. 2016/76)](https://www.legislation.gov.uk/uksi/2016/76), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/76/article/1/b), [2(3)(c)](https://www.legislation.gov.uk/uksi/2016/76/article/2/3/c)
+
+[^key-e5bbda47f666a415de2e3dde1b14e8cb]: Textual amendment: Art. 43(4) inserted (6.4.2016) by [The Sheep and Goats (Records, Identification and Movement) (England) (Amendment) Order 2016 (S.I. 2016/76)](https://www.legislation.gov.uk/uksi/2016/76), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2016/76/article/1/b), [2(3)(d)](https://www.legislation.gov.uk/uksi/2016/76/article/2/3/d)

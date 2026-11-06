@@ -1,0 +1,413 @@
+---
+title: The Fireworks Regulations 2004
+id: uksi/2004/1836
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2004-07-14'
+text_date: '2015-08-17'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2004/1836
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/1836/pdfs/uksiem_20041836_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1836/pdfs/uksi_20041836_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1836/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Fireworks Regulations 2004
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2015-08-17. See https://www.legislation.gov.uk/changes/affected/uksi/2004/1836
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2004 No. 1836
+
+FIREWORKS
+
+The Fireworks Regulations 2004
+
+Made
+
+14th July 2004
+
+Laid before Parliament
+
+16th July 2004
+
+Coming into force
+
+Regulations 9 and 11
+
+1st January 2005
+
+Remainder
+
+7th August 2004
+
+Whereas the Secretary of State considers that there is a risk that the use of fireworks will have the consequences of death of persons or injury, alarm, distress or anxiety to persons; death of animals or injury or distress to animals; or destruction of, or damage to, property;
+
+And whereas the Secretary of State, in accordance with section 2(1)(b) and (2) of the Fireworks Act 2003[^f00001], considers it appropriate to make provision by regulations for securing that the risk that the use of fireworks will have the aforesaid consequences is the minimum compatible with their being used;
+
+And whereas the Secretary of State, in accordance with section 2(3) of that Act, has consulted the Health and Safety Commission, those organisations which appear to her to be representative of interests substantially affected by these Regulations and such other persons whom she considers it appropriate to consult;
+
+And whereas the Secretary of State has issued a full regulatory impact assessment in accordance with section 2(4) of that Act;
+
+And whereas the Commissioners of Customs and Excise, every fire and civil defence authority, every chief officer of police in England and Wales and every chief constable in Scotland have, in accordance with section 27(2)(a) of the Consumer Protection Act 1987[^f00002], agreed to the transfer to them of such enforcement duties as are specified in these Regulations;
+
+Now, therefore, the Secretary of State, in exercise of the powers conferred upon her by sections 2 to 5 and 7 to 9 of the Fireworks Act 2003 and by sections 11(3) and 27(2) of the Consumer Protection Act 1987 (as applied respectively by sections 11(6) and 12(1) of the Fireworks Act 2003), hereby makes the following Regulations:—
+
+## 1. Citation, commencement and extent[^key-9719764c8f2ef01ea434cc6a7f4ecde6]
+
+(1) These Regulations may be cited as the Fireworks Regulations 2004 and, except for regulations 9 and 11, shall come into force on 7th August 2004.
+
+(2) Regulations 9 and 11 shall come into force on 1st January 2005.
+
+(3) These Regulations shall not extend to Northern Ireland.
+
+(4) Regulation 7 of these Regulations shall not extend to Scotland.
+
+## 2. Revocation of the Fireworks Regulations 2003[^key-aab1ae149f060a332a0322251736b9fb]
+
+The Fireworks Regulations 2003[^f00003] are revoked.
+
+## 3. Interpretation[^key-ece44c3aa08027381b767d57a96df786]
+
+In these Regulations—
+
+- “[^key-faad1fcda1c91c5afcb210fb67a87d33]**adult firework**” means a—
+  - (a) category F2 firework;
+  - (b) category F3 firework; or
+  - (c) category F4 firework.
+- [^key-cdb6b2be220726c5d2be0cf1a8302f5b]...
+- “assembly” means an assembly which includes any firework;
+- “[^key-05bdb272580db83d832ca1076763b678]**category F2 firework**” has the meaning set out in paragraph 2 of Schedule 1 to the 2015 Regulations;
+- “**category F3 firework**” has the meaning set out in paragraph 3 of Schedule 1 to the 2015 Regulations;
+- “**category F4 firework**” has the meaning set out in paragraph 4 of Schedule 1 to the 2015 Regulations;
+- [^key-cdb6b2be220726c5d2be0cf1a8302f5b]...
+- [^key-cdb6b2be220726c5d2be0cf1a8302f5b]...
+- [^key-cdb6b2be220726c5d2be0cf1a8302f5b]...
+- [^key-cdb6b2be220726c5d2be0cf1a8302f5b]...
+- [^key-cdb6b2be220726c5d2be0cf1a8302f5b]...
+- [^key-cdb6b2be220726c5d2be0cf1a8302f5b]...
+- “[^key-cfd2df7773677551ef8d762873f776b2]**explosives**” has the meaning set out in regulation 2(1) of the Explosives Regulations 2014;
+- “[^key-59145dbf99bb38fe5a3ea48d78d513ab]**firework**” means any article, intended for entertainment purposes, containing explosive substances or an explosive mixture of substances designed to produce heat, light, sound, gas or smoke or a combination of such effects through self-sustained exothermic chemical reactions;
+- “local licensing authority” means in relation to—
+  - (a) the City of London, the Common Council for the City of London;
+  - (b) an area in the rest of London, the London Borough Council for that area;
+  - (c) an area where there is a fire and civil defence authority, that authority;
+  - (d) the Isles of Scilly, the Council of the Isles of Scilly;
+  - (e) an area in the rest of England, the county council for that area or where there is no county council for that area, the district council for that area;
+  - (f) an area in Scotland, the council for the local government area; and
+  - (g) an area in Wales, the county council or the county borough council for that area;
+- [^key-cdb6b2be220726c5d2be0cf1a8302f5b]...
+- [^key-cdb6b2be220726c5d2be0cf1a8302f5b]...
+- “pyrotechnic composition” means a substance or a mixture of a substance designed to produce an effect by heat, light, sound, gas or smoke or a combination of these as the result of non-detonative self-sustaining exothermic chemical reactions;
+- [^key-cdb6b2be220726c5d2be0cf1a8302f5b]...
+- [^key-cdb6b2be220726c5d2be0cf1a8302f5b]...
+- “the 1987 Act” means the Consumer Protection Act 1987[^f00010];
+- “the 2003 Act” means the Fireworks Act 2003[^f00011];
+- “[^key-3cf695c6abbe6c67fcf538c19e775a1f]**the 2015 Regulations**” means the Pyrotechnic Articles (Safety) Regulations 2015;
+- “the court” means—
+  - (a) in relation to a decision by a local licensing authority located in England and Wales, a magistrates' court in whose jurisdiction the local licensing authority is situated; and
+  - (b) in relation to a decision by a local licensing authority located in Scotland, the sheriff in whose jurisdiction the local licensing authority is situated;
+- “the importation enforcement duty” means the duty imposed by section 27(1) of the 1987 Act, insofar as that duty is, by virtue of section 12(1) of the 2003 Act, exercisable in relation to the enforcement of the prohibition imposed by regulation 11 below;
+- “the licensing enforcement duty” means the duty imposed by section 27(1) of the 1987 Act, insofar as that duty is, by virtue of section 12(1) of the 2003 Act, exercisable in relation to the enforcement of the prohibition imposed by regulation 9 below;
+- “the possession enforcement duty” means the duty imposed by section 27(1) of the 1987 Act, insofar as that duty is, by virtue of section 12(1) of the 2003 Act, exercisable in relation to the enforcement of the prohibitions imposed by regulations 4 and 5 below;
+- “the use enforcement duty” means the duty imposed by section 27(1) of the 1987 Act, insofar as that duty is, by virtue of section 12(1) of the 2003 Act, exercisable in relation to the enforcement of the prohibition imposed by regulation 7 below; and
+- “throwdown” means a firework comprising impact-sensitive explosive composition and grains of inert material wrapped in paper or foil and which functions to produce a report when thrown onto the ground.
+
+## 4. Prohibition of possession of fireworks by persons below the age of eighteen[^key-d5c2525dc7ae4c50e4da30b11b535e0a]
+
+(1) Subject to regulation 6 below, no person under the age of eighteen years shall possess an adult firework in a public place.
+
+(2) In paragraph (1) above “public place” includes any place to which at the material time the public have or are permitted access, whether on payment or otherwise.
+
+## 5. Prohibition of possession of category 4 fireworks[^key-869b17ef00f841dcb4bb899852a13936]
+
+Subject to regulation 6 below, no person shall possess a category F4 firework[^key-d849d23f0a2630778ae1fe6989d2c46a].
+
+## 6. Exceptions to regulations 4 and 5[^key-894ebf559369bbcc5c349b05527cc519]
+
+(1) Regulations 4 and 5 above shall not prohibit the possession of any firework by—
+
+- (a) any person who is employed by, or in business as, a professional organiser or operator of firework displays and who possesses the firework in question for the purposes of his employment or business;
+- (b) any person who is employed in, or whose trade or business (or part of whose trade or business) is, the manufacture of fireworks or assemblies and who possesses the firework in question for the purposes of his trade, employment or business;
+- (c) any person who is employed in, or whose trade or business (or part of whose trade or business) is, the supply of fireworks or assemblies, for the purpose of supplying them in accordance with the provisions of the 2015 Regulations[^key-c5c631835e33dbbd00764db6958433d4];
+- (d) any person who is employed by a local authority and who, in the course of his employment, possesses the firework in question for any of the following purposes—
+  - (i) the putting on of a firework display by that local authority; or
+  - (ii) the use by that local authority of the firework in question at a national public celebration or a national commemorative event;
+- (e) any person for use, in the course of a trade or business of his or in the course of his employment, for special effects purposes in the theatre, on film or on television;
+- (f) any person employed by or otherwise acting on behalf of a local authority, enforcement authority or other body, where—
+  - (i) the authority or body has enforcement powers, conferred by or under any enactment, applying to the firework in question; and
+  - (ii) the person so employed possesses the firework in question for the purposes of the authority or body exercising those enforcement powers;
+- (g) any person who is employed by a department of the Government of the United Kingdom and who, in the course of his employment, possesses the firework in question for any of the following purposes—
+  - (i) the putting on of a firework display by that department;
+  - (ii) the use by that department of the firework in question at a national public celebration or a national commemorative event; or
+  - (iii) the use by that department of the firework in question for research or investigations;
+- (h) any person who—
+  - (i) is in business as or employed by a supplier of goods designed and intended for use in conjunction with fireworks or assemblies; and
+  - (ii) possesses the firework in question solely for the purposes of testing those goods to ensure that, when used in conjunction with fireworks or assemblies of the same type, they will perform their intended function or comply with any provision made by or under any enactment and relating to the safety of those goods; or
+- (i) any person who is employed by an establishment of the naval, military or air forces of the Crown and who, in the course of his employment, possesses the firework in question for any of the following purposes—
+  - (i) the putting on of a fireworks display by that establishment; or
+  - (ii) the use by that establishment of the firework in question at a national public celebration or a national commemorative event.
+
+(2) Regulation 5 above shall not prohibit the possession of any firework by any person who is employed in, or whose trade or business (or part of whose trade or business) is, the transport of fireworks and who possesses the firework in question for the purposes of his trade, employment or business.
+
+## 7. Prohibition of use of certain fireworks at night[^key-b466c5167f7ecd89e596abf92bf9781f]
+
+*Extent: E+W*
+
+(1) Subject to paragraph (2) below, no person shall use an adult firework during night hours.
+
+(2) Paragraph (1) above shall not prohibit the use of a firework—
+
+- (a) during a permitted fireworks night; or
+- (b) by any person who is employed by a local authority and who uses the firework in question—
+  - (i) for the purposes of putting on a firework display by that local authority; or
+  - (ii) at a national public celebration or a national commemorative event.
+
+(3) In this regulation, “night hours” means the period beginning at 11 pm and ending at 7 am the following day and a “permitted fireworks night” means a period—
+
+- (a) beginning at 11 pm on the first day of the Chinese New Year and ending at 1 am the following day;
+- (b)[^key-5f18f0214a9ccdc7b0a253814c5b2dc6] beginning at 11pm and ending at midnight on 5th November;
+- (c) beginning at 11 pm on the day of Diwali and ending at 1 am the following day; or
+- (d) beginning at 11 pm on 31st December and ending at 1 am the following day.
+
+## 8. Prohibition of supply of excessively loud category 3 fireworks[^key-254879f61b4c0c4326c0dca0d72a600e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Licensing of fireworks suppliers[^key-9d52eea59635acf36cfe1de91674d47e]
+
+(1)[^key-6a6ac12a2635ac96befe33e220215cf9] Subject to paragraphs (2) and (2A) below, no person shall supply or expose for supply any adult firework, save in accordance with either—
+
+- (a) a licence granted in respect of each premises under his control at which the fireworks are supplied or exposed for supply; or
+- (b) a licence granted to him, if the fireworks which he supplies or exposes for supply are kept at premises which are not under his control.
+
+(2) Paragraph (1) above shall not prohibit the supply or exposing for supply, otherwise than in accordance with a licence, of adult fireworks—
+
+- (a) on the first day of the Chinese New Year and the three days immediately preceding it;
+- (b) on the day of Diwali and the three days immediately preceding it;
+- (c) during the period beginning on the 15th October and ending on the 10th November; or
+- (d) during the period beginning on the 26th December and ending on the 31st December.
+
+(2A)[^key-aa509d6b7833c82f096e5a981ac0b752] Paragraph (1) above shall not prohibit the supply or exposing for supply, otherwise than in accordance with a licence, of adult fireworks—
+
+- (a) to a person who is employed in, or whose trade or business (or part of whose trade or business) is the supply of fireworks or assemblies, for the purpose of that person’s supplying them in accordance with the provisions of the 2015 Regulations[^key-f5effaec20c7bf8855e7f1c26a2dfd34];
+- (b) to a person who is employed by, or in business as, a professional organiser or operator of firework displays for the purpose of that person’s employment or business; or
+- (c) to a person who is employed in, or whose trade or business (or part of whose trade or business) is, the transport of fireworks, for the purpose of that person’s trade, employment or business.
+
+(3)[^key-9e53ba0ba7339b1d5f8f10f75c00fc41] An application for a licence under this regulation shall be made to the local licensing authority in whose area—
+
+- (a) the premises concerned are located in the case of a licence mentioned in paragraph (1)(a) above, or
+- (b) the principal business premises of the applicant are located in the case of a licence mentioned in paragraph (1)(b) above.
+
+(4)[^key-21c48c2ec6e758ae44326f134359c559] A local licensing authority may only grant a licence to a person (“A”) under paragraph (1), if satisfied that—
+
+- (a) A, or another person on A's behalf, holds a valid licence for the storage of the fireworks under the Explosives Regulations 2014; or
+- (b) a licence for storage of the fireworks is not required under the Explosives Regulations 2014.
+
+(5) A local licensing authority may refuse to grant a licence, or may revoke a licence which it has granted, if the applicant has committed—
+
+- (a) an offence under section 11 of the 2003 Act;
+- (b)[^key-82e616c40fb59cca6f93d9c57de4ee0f] an offence under regulation 62 of the 2015 Regulations;
+- (c) an offence under section[^key-612835b65925014ec5a3b0f5f29b6daa] 32 of the Explosives Act 1875; or
+- (d) an offence in relation to the use, storage or keeping of fireworks under the Health and Safety at Work etc. Act 1974[^f00014].
+
+(6) Where a local licensing authority refuses to grant a licence, or revokes a licence, it shall notify the applicant of its decision.
+
+(7)[^key-bf5391fab883c3c268d0ca42e7fc402d] A local licensing authority shall charge a fee of £500 a year in connection with the grant of a licence in accordance with this regulation.
+
+(8) A person may appeal to the court against a decision of a local licensing authority to refuse to grant him a licence, or to revoke a licence, and any such appeal shall be made within 28 days of the decision in question being notified to that person.
+
+## 10. Information about ... fireworks[^key-282ffb96a1e8c6ad89fd501de53c9067][^key-3845063e3f27365411efd7b17ca94ba2]
+
+(1) No person shall supply or expose for supply any adult firework or sparkler[^key-489060fce2f2d0da681ef2d9a1abd0b4] unless—
+
+- (a) where category F2 fireworks or category F3 fireworks[^key-994517553020e0fbc04f25b659990d3e] are supplied or exposed for supply in any premises, he displays in a prominent position in those premises a notice, which measures no less than 420 millimetres by 297 millimetres[^key-2f3be56e588f57f1c2638649abc5ebd6] and whose letters are no less than 16 millimetres high, stating the required information, or
+- (b) where category F2 fireworks or category F3 fireworks are supplied or exposed for supply in circumstances not mentioned in sub-paragraph (a) above, he gives the required information to any person to whom the fireworks are supplied or exposed for supply.
+
+(2)[^key-6d5a62870f9bf96e6f22d21fa3545847] In paragraph (1), the “**required information**” means information that—
+
+- (a) it is illegal to sell category F2 fireworks or category F3 fireworks to anyone under the age of 18; and
+- (b) it is illegal for anyone under the age of 18 to possess category F2 fireworks or category F3 fireworks in a public place.
+
+(3) No person shall supply any firework unless, if requested to do so by a local licensing authority, he provides that authority with the following information—
+
+- (a)[^key-9259fdef4f4caea2c41b78fe9856c873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the name and address of the person to whom he is supplying the fireworks , except where that person is an economic operator within the meaning of regulation 2(1) of the 2015 Regulations[^key-538df030e6221e573cf7525c3d8ea0ab];
+- (c) the date when the fireworks were supplied to him;
+- (d) the date when he supplied or proposes to supply the fireworks to another person; and
+- (e) the total amount of explosives contained in the fireworks supplied.
+
+(4)[^key-cce84c26f3519cdd76110ce2612ee4c3] No person shall supply any adult firework unless he maintains for a period of three years, beginning with the date on which he supplies that firework, a record of the following information—
+
+- (a) the name and address of the person who supplied the firework to him;
+- (b) the name and address of the person to whom he is supplying the firework;
+- (c) the date when the firework was supplied to him;
+- (d) the date when he supplied the firework to another person; and
+- (e) the total amount of explosives contained in the firework supplied.
+
+(3A) A person who supplies adult fireworks shall, if requested by a local licensing authority within the period mentioned in paragraph (3) above to provide any of the information mentioned in that paragraph, provide to that authority such information as is specified in the request.
+
+(4) Paragraphs (3) and (3A) above shall not apply if, in a single transaction, the total amount of the explosives contained in the fireworks supplied is less than or equal to 50 kilograms.
+
+## 11. Importation of fireworks[^key-192fc9fc3faf30c7c0df73a8a2e122c0]
+
+No person shall import any firework, unless he has given the following information to the Commissioners of Customs and Excise—
+
+- (a) his name and address;
+- (b) the name of the person who is to store the fireworks following their importation; and
+- (c) the address of the premises at which the fireworks are to be stored following their importation.
+
+## 12. Transfer of enforcement duties[^key-7cd44a4594bccb9563d9af4e7a923861]
+
+(1) The possession enforcement duty in England and Wales is hereby transferred to the chief officer of police of each police force and shall be the duty of every chief officer of police in relation to the police area for which the force in question is maintained[^f00015].
+
+(2) The possession enforcement duty in Scotland is hereby transferred to the chief constable of each police force and shall be the duty of every chief constable in relation to the police area for which the force in question is maintained[^f00016].
+
+(3) The use enforcement duty in England and Wales is hereby transferred to the chief officer of police of each police force and shall be the duty of every chief officer of police in relation to the police area for which the force in question is maintained.
+
+(4) The importation enforcement duty is hereby transferred to the Commissioners of Customs and Excise and shall be the duty of the Commissioners of Customs and Excise.
+
+(5) Every weights and measures authority of Great Britain is hereby relieved of the possession enforcement duty and the importation enforcement duty.
+
+(6) Every weights and measures authority in England and Wales is hereby relieved of the use enforcement duty.
+
+(7)[^key-e909c721a44d36676aaf5e002e74ca01] In relation to every metropolitan county, the licensing enforcement duty is hereby transferred to the fire and rescue authority for that county and any weights and measures authority for that county or any part of that county is hereby relieved of the licensing enforcement duty.
+
+## 13. Proceedings[^key-f2b8eac8d694871fa6cc62d9c93d6b6c]
+
+In England and Wales a magistrates' court may try an information in respect of an offence under section 11 of the 2003 Act arising from a contravention of a prohibition imposed by these Regulations if the information is laid within twelve months from the time when the offence was committed, and in Scotland summary proceedings for such an offence may be brought at any time within twelve months from the time when the offence was committed.
+
+Gerry Sutcliffe,
+
+Parliamentary Under Secretary of State for Employment Relations, Competition and Consumers,
+
+Department of Trade and Industry
+
+14th July 2004
+
+(This note is not part of the Regulations)
+
+These Regulations make certain provisions in relation to fireworks in order to minimise the risk that fireworks will be used with harmful consequences for people, animals or property. The Regulations do not extend to Northern Ireland and regulation 7 of the Regulations does not extend to Scotland. The Regulations replace provisions in the Fireworks Regulations 2003, which are revoked.
+
+Regulation 4 prohibits persons under eighteen from possessing an adult firework (which is defined in regulation 3) in a public place. Regulation 5 prohibits persons of any age from possessing (in a public place or elsewhere) a category 4 firework. A category 4 firework is defined in regulation 3 by reference to the categorisation of fireworks in British Standard 7114. Both the regulation 4 and regulation 5 prohibitions are subject to the exceptions listed in regulation 6(1). The regulation 5 prohibition is additionally subject to the exception in regulation 6(2).
+
+Regulation 7 prohibits persons from using adult fireworks during night hours (namely between 11 pm and 7 am) but exceptions allow such use until 1 am on the nights of the Chinese New Year, Diwali and New Year’s Eve and until midnight on 5th November. There is also an exception in the case of local authority employees for the purposes of local authority fireworks displays, national public celebrations or national commemorative events.
+
+Regulation 8 prohibits the supply, purchase or possession of category 3 fireworks whose noise levels exceed 120 decibels and includes provision for measuring these noise levels.
+
+Regulation 9 requires suppliers of adult fireworks to hold a licence, except at certain times of year. Licences are granted by the appropriate local authority, which must refuse a licence unless the applicant complies with relevant statutory requirements concerning the keeping of fireworks and may refuse a licence (or revoke a licence previously granted) if the applicant has committed any of the fireworks related offences listed in paragraph (5) of that regulation.
+
+Regulation 10 requires suppliers of adult fireworks to inform the persons to whom such fireworks are supplied or exposed for supply that it is a criminal offence to supply adult fireworks to those under eighteen and for those under eighteen to possess such fireworks. (Supply of adult fireworks to those under eighteen is an offence under regulation 6 of the Fireworks (Safety) Regulations 1997 and possession of an adult firework by a person under eighteen is an offence under regulation 4 of these Regulations.) Regulation 10 also requires fireworks suppliers to provide, on request, a local licensing authority with information about fireworks in circumstances where the total net explosive content of fireworks supplied in a single transaction exceeds 50 kilograms.
+
+Regulation 11 requires importers of fireworks to give information about themselves, the storage and onward supply of such fireworks to the Customs and Excise Commissioners.
+
+By virtue of section 11 of the Fireworks Act 2003, a contravention of regulations 4, 5 or 7 to 11 is a criminal offence. Although section 12 of the Fireworks Act 2003 and section 27(1) of the Consumer Protection Act 1987 provide that it is the duty of local weights and measures authorities to enforce these Regulations, this duty is transferred in relation to some aspects of these Regulations to other enforcers under regulation 12. The enforcement of regulations 4 and 5 (and, in England and Wales only, of regulation 7) is transferred to the relevant police forces. The enforcement of regulation 11 is transferred to the Customs and Excise Commissioners. The enforcement of regulations 8, 9 and 10 remains the responsibility of the local weights and measures authorities.
+
+Copies of the British Standards 7114, 61672 and the British Standards referred to therein are available from any of the sales outlets operated by the British Standards Institution, by post from BSI at 389, Chiswick High Road, London W4 4AL or from any of the bookshops operated by the Stationery Office Limited.
+
+A Regulatory Impact Assessment is available, copies of which have been placed in the libraries of both Houses of Parliament. Copies are available from the Consumer and Competition Policy Directorate of the Department of Trade and Industry, Room 427, 1, Victoria Street, London SW1H 0ET.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 22](https://www.legislation.gov.uk/ukpga/2003/22).
+
+[^f00002]: Footnote: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43).
+
+[^key-9719764c8f2ef01ea434cc6a7f4ecde6]: Commencement: Reg. 1 in force at 7.8.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/1/1)
+
+[^key-aab1ae149f060a332a0322251736b9fb]: Commencement: Reg. 2 in force at 7.8.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/1/1)
+
+[^f00003]: Footnote: S.I. [2003/3085](https://www.legislation.gov.uk/uksi/2003/3085).
+
+[^key-ece44c3aa08027381b767d57a96df786]: Commencement: Reg. 3 in force at 7.8.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/1/1)
+
+[^key-faad1fcda1c91c5afcb210fb67a87d33]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2004/1836/regulation/3) substituted (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 10 para. 2(a)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/10/paragraph/2/a)
+
+[^key-cdb6b2be220726c5d2be0cf1a8302f5b]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2004/1836/regulation/3) omitted (17.8.2015) by virtue of [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 10 para. 2(b)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/10/paragraph/2/b)
+
+[^key-05bdb272580db83d832ca1076763b678]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2004/1836/regulation/3) inserted (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 10 para. 2(c)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/10/paragraph/2/c)
+
+[^key-cfd2df7773677551ef8d762873f776b2]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2004/1836/regulation/3) substituted (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 10 para. 2(d)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/10/paragraph/2/d)
+
+[^key-59145dbf99bb38fe5a3ea48d78d513ab]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2004/1836/regulation/3) inserted (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 10 para. 2(e)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/10/paragraph/2/e)
+
+[^f00010]: Footnote: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43).
+
+[^f00011]: Footnote: [2003 c. 22](https://www.legislation.gov.uk/ukpga/2003/22).
+
+[^key-3cf695c6abbe6c67fcf538c19e775a1f]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2004/1836/regulation/3) substituted (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 10 para. 2(f)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/10/paragraph/2/f)
+
+[^key-d5c2525dc7ae4c50e4da30b11b535e0a]: Commencement: Reg. 4 in force at 7.8.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/1/1)
+
+[^key-869b17ef00f841dcb4bb899852a13936]: Commencement: Reg. 5 in force at 7.8.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/1/1)
+
+[^key-d849d23f0a2630778ae1fe6989d2c46a]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2004/1836/regulation/5) substituted (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 10 para. 3](https://www.legislation.gov.uk/uksi/2015/1553/schedule/10/paragraph/3)
+
+[^key-894ebf559369bbcc5c349b05527cc519]: Commencement: Reg. 6 in force at 7.8.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/1/1)
+
+[^key-c5c631835e33dbbd00764db6958433d4]: Textual amendment: Words in [reg. 6(1)(c)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/6/1/c) substituted (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 10 para. 4](https://www.legislation.gov.uk/uksi/2015/1553/schedule/10/paragraph/4)
+
+[^key-b466c5167f7ecd89e596abf92bf9781f]: Commencement: Reg. 7 in force at 7.8.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/1/1)
+
+[^key-5f18f0214a9ccdc7b0a253814c5b2dc6]: Textual amendment: [Reg. 7(3)(b)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/7/3/b) substituted (1.1.2005) by [The Fireworks (Amendment) Regulations 2004 (S.I. 2004/3262)](https://www.legislation.gov.uk/uksi/2004/3262), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/2/2)
+
+[^key-254879f61b4c0c4326c0dca0d72a600e]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2004/1836/regulation/8) omitted (4.7.2010) by virtue of [The Pyrotechnic Articles (Safety) Regulations 2010 (S.I. 2010/1554)](https://www.legislation.gov.uk/uksi/2010/1554), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/1/1), [49(10)(c)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/49/10/c) (with [regs. 3](https://www.legislation.gov.uk/uksi/2010/1554/regulation/3), [49(13)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/49/13))
+
+[^key-9d52eea59635acf36cfe1de91674d47e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2004/1836/regulation/9) in force at 1.1.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/1/2)
+
+[^key-6a6ac12a2635ac96befe33e220215cf9]: Textual amendment: [Reg. 9(1)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/9/1) substituted (1.1.2005) by [The Fireworks (Amendment) Regulations 2004 (S.I. 2004/3262)](https://www.legislation.gov.uk/uksi/2004/3262), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/3/2)
+
+[^key-aa509d6b7833c82f096e5a981ac0b752]: Textual amendment: [Reg. 9(2A)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/9/2A) inserted (1.1.2005) by [The Fireworks (Amendment) Regulations 2004 (S.I. 2004/3262)](https://www.legislation.gov.uk/uksi/2004/3262), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/3/3)
+
+[^key-f5effaec20c7bf8855e7f1c26a2dfd34]: Textual amendment: Words in [reg. 9(2A)(a)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/9/2A/a) substituted (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 10 para. 5(a)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/10/paragraph/5/a)
+
+[^key-9e53ba0ba7339b1d5f8f10f75c00fc41]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/9/3) substituted (1.1.2005) by [The Fireworks (Amendment) Regulations 2004 (S.I. 2004/3262)](https://www.legislation.gov.uk/uksi/2004/3262), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/3/4)
+
+[^key-21c48c2ec6e758ae44326f134359c559]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/9/4) substituted (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 10 para. 5(b)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/10/paragraph/5/b)
+
+[^key-82e616c40fb59cca6f93d9c57de4ee0f]: Textual amendment: [Reg. 9(5)(b)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/9/5/b) substituted (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 10 para. 5(c)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/10/paragraph/5/c)
+
+[^key-612835b65925014ec5a3b0f5f29b6daa]: Textual amendment: Word in [reg. 9(5)(c)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/9/5/c) substituted (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 10 para. 5(d)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/10/paragraph/5/d)
+
+[^f00014]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
+
+[^key-bf5391fab883c3c268d0ca42e7fc402d]: Textual amendment: [Reg. 9(7)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/9/7) substituted (1.1.2005) by [The Fireworks (Amendment) Regulations 2004 (S.I. 2004/3262)](https://www.legislation.gov.uk/uksi/2004/3262), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/3/6)
+
+[^key-282ffb96a1e8c6ad89fd501de53c9067]: Commencement: Reg. 10 in force at 7.8.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/1/1)
+
+[^key-3845063e3f27365411efd7b17ca94ba2]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/uksi/2004/1836/regulation/10) heading revoked (1.1.2005) by [The Fireworks (Amendment) Regulations 2004 (S.I. 2004/3262)](https://www.legislation.gov.uk/uksi/2004/3262), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/4/5)
+
+[^key-489060fce2f2d0da681ef2d9a1abd0b4]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/10/1) inserted (1.1.2005) by [The Fireworks (Amendment) Regulations 2004 (S.I. 2004/3262)](https://www.legislation.gov.uk/uksi/2004/3262), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/4/2/a)
+
+[^key-994517553020e0fbc04f25b659990d3e]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/10/1) substituted (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 10 para. 6(a)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/10/paragraph/6/a)
+
+[^key-2f3be56e588f57f1c2638649abc5ebd6]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/10/1/a) substituted (1.1.2005) by [The Fireworks (Amendment) Regulations 2004 (S.I. 2004/3262)](https://www.legislation.gov.uk/uksi/2004/3262), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/1/1), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/4/2/b/ii)
+
+[^key-6d5a62870f9bf96e6f22d21fa3545847]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/10/2) substituted (17.8.2015) by [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 10 para. 6(b)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/10/paragraph/6/b)
+
+[^key-9259fdef4f4caea2c41b78fe9856c873]: Textual amendment: [Reg. 10(3)(a)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/10/3/a) omitted (17.8.2015) by virtue of [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 10 para. 6(c)(i)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/10/paragraph/6/c/i)
+
+[^key-538df030e6221e573cf7525c3d8ea0ab]: Textual amendment: Words in [reg. 10(3)(b)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/10/3/b) inserted (17.8.2015) by virtue of [The Pyrotechnic Articles (Safety) Regulations 2015 (S.I. 2015/1553)](https://www.legislation.gov.uk/uksi/2015/1553), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1553/regulation/1), [Sch. 10 para. 6(c)(ii)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/10/paragraph/6/c/ii)
+
+[^key-cce84c26f3519cdd76110ce2612ee4c3]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/10/3)[(3A)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/10/3A)[(4)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/10/4) substituted for [reg. 10(3)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/10/3)[(4)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/10/4) (1.1.2005) by [The Fireworks (Amendment) Regulations 2004 (S.I. 2004/3262)](https://www.legislation.gov.uk/uksi/2004/3262), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/4/4)
+
+[^key-192fc9fc3faf30c7c0df73a8a2e122c0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2004/1836/regulation/11) in force at 1.1.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/1/2)
+
+[^key-7cd44a4594bccb9563d9af4e7a923861]: Commencement: Reg. 12 in force at 7.8.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/1/1)
+
+[^f00015]: Footnote: The expressions “chief officer of police”, “police force” and “police area” are defined, in relation to England and Wales, in Schedule 1 of the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) and section 101 of the Police Act [1996 (c. 16)](https://www.legislation.gov.uk/ukpga/1996/16).
+
+[^f00016]: Footnote: The expressions “chief constable”, “police force” and “police area” are defined, in relation to Scotland, in Schedule 1 of the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) and section 50 of the Police (Scotland) Act [1967 (c. 77)](https://www.legislation.gov.uk/ukpga/1967/77).
+
+[^key-e909c721a44d36676aaf5e002e74ca01]: Textual amendment: [Reg. 12(7)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/12/7) substituted (1.1.2005) by [The Fireworks (Amendment) Regulations 2004 (S.I. 2004/3262)](https://www.legislation.gov.uk/uksi/2004/3262), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2004/3262/regulation/5/2)
+
+[^key-f2b8eac8d694871fa6cc62d9c93d6b6c]: Commencement: Reg. 13 in force at 7.8.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/1/1)

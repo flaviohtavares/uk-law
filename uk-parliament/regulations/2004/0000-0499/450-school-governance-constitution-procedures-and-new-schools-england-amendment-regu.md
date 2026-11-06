@@ -1,0 +1,141 @@
+---
+title: School Governance (Constitution, Procedures and New Schools) (England) (Amendment) Regulations 2004
+id: uksi/2004/450
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2004-02-23'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2004/450
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/450/pdfs/uksi_20040450_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/450/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# School Governance (Constitution, Procedures and New Schools) (England) (Amendment) Regulations 2004
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2004 No. 450
+
+EDUCATION, ENGLAND
+
+School Governance (Constitution, Procedures and New Schools) (England) (Amendment) Regulations 2004
+
+Made
+
+23rd February 2004
+
+Laid before Parliament
+
+27th February 2004
+
+Coming into force
+
+1st April 2004
+
+The Secretary of State for Education and Skills, in exercise of the powers conferred upon the Secretary of State by sections 19(2) and (3), 34(5) and 210(7) of the Education Act 2002[^f00001] hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the School Governance (Constitution, Procedures and New Schools) (England) (Amendment) Regulations 2004 and come into force on 1st April 2004.
+
+## 2. Amendment of the School Governance (Constitution) (England) Regulations 2003
+
+In the School Governance (Constitution) (England) Regulations 2003[^f00002]—
+
+- (a) after regulation 4(1)(a) there shall be inserted the following sub-paragraph—
+
+  > - (aa) where a school is a maintained nursery school, a person who is elected as a governor by—
+  >   - (i) parents of registered pupils at the school, or
+  >   - (ii) parents of children for whom educational or other provision is made on the premises of the school (including any such provision made by the governing body under section 27 of the 2002 Act),
+  >
+  >   and is himself such a parent at the time when he is elected, or;
+- (b) in paragraph 8 of Schedule 1 after the words “a parent of a registered pupil at the school” there shall be inserted “, and where the school is a maintained nursery school, a parent of a child for whom educational or other provision is made on the premises of the school (including any such provision made by the governing body under section 27 of the 2002 Act),”; and
+- (c) for paragraph 4 of Schedule 6 there shall be substituted the following paragraph—
+
+  > **4.** A person is disqualified from holding or from continuing to hold office as a governor of a school at any time when he is detained under the Mental Health Act 1983[^f00003]
+
+  .
+
+## 3. Amendment of the School Governance (Procedures) (England) Regulations 2003
+
+In regulation 12 of the School Governance (Procedures)(England) Regulations 2003[^f00004]—
+
+- (a) in paragraph (1) the words “when complete” shall be omitted; and
+- (b) after paragraph (1) there shall be inserted the following paragraph—
+
+  > (1A) For the purposes of paragraph (1), the membership of the governing body shall not include vacant positions on the governing body.
+
+  .
+
+## 4. Amendment of the New Schools (General) (England) Regulations 2003
+
+In the New Schools (General) (England) Regulations 2003[^f00005]—
+
+- (a) after regulation 10(3)(a) there shall be inserted the following sub-paragraph—
+
+  > - (aa) where a school is, or is to be, a maintained nursery school, he is the parent of a child for whom educational or other provision is or is likely to be made on the premises of the school (including any such provision made by the temporary governing body under section 27 of the 2002 Act); or
+- (b) in regulation 10(3)(b) for the words “such a person” there shall be substituted the words “a person referred to in sub-paragraph (a) or (aa)”;
+- (c) in regulation 44(1) the words “when complete” shall be omitted;
+- (d) after regulation 44(1) there shall be inserted the following paragraph—
+
+  > (1A) For the purposes of paragraph (1), the membership of the temporary governing body shall not include vacant positions on the temporary governing body.
+
+  ;
+- (e) in regulation 45(2), after sub-paragraph (b), there shall be inserted the following sub-paragraph—
+
+  > - (c) any report or other paper considered at any such meeting.
+
+  ;
+- (f) for regulation 51(c) there shall be substituted—
+
+  > - (c) the quorum for any meeting of a committee shall be determined by that committee, but in any event shall be not less than three temporary governors who are members of the committee;
+
+  ; and
+- (g) for paragraph 4 of Schedule 2 there shall be substituted the following paragraph—
+
+  > **4.** A person is disqualified from holding or from continuing to hold office as a temporary governor of a school at any time when he is detained under the Mental Health Act 1983[^f00006]
+
+  .
+
+David Miliband
+
+Minister of State
+
+Department for Education and Skills
+
+23rd February 2004
+
+(This note is not part of the Regulations)
+
+These Regulations make amendments to three sets of Regulations relating to school governance and to new schools. The Regulations come into force on 1st April 2004.
+
+Regulation 2 amends the School Governance (Constitution) (England) Regulations 2003 to enable parents of children for whom educational or other provision is made on the premises of a maintained nursery school to be elected as, and vote in elections for, parent governors of that maintained nursery school.
+
+Regulation 2 also substitutes a new paragraph 4 of Schedule 6 to the School Governance (Constitution) (England) Regulations 2003, relating to disqualification as a school governor by reason of mental disorder.
+
+Regulation 3 amends regulation 12 of the School Governance (Procedures) (England) Regulations 2003 so that for the purposes of determining the size of the membership of the governing body in regulation 12(1), vacant positions are not included. As a result, the quorum for a meeting of a governing body, and for any vote at governing body meetings, is one half (rounded up to a whole number) of the membership of the governing body, not including any vacant positions.
+
+Regulation 4 amends the New Schools (General) (England) Regulations 2003 to enable parents of children for whom educational or other provision is, or is likely to be, made on the premises of a new maintained nursery school to be appointed as temporary parent governors of that maintained nursery school. The regulation also provides that vacant positions are not to be included when determining the size of the membership of the temporary governing body for the purposes of regulation 44(1). As a result, the quorum for a meeting of a temporary governing body, and for any vote at temporary governing body meetings, is one half (rounded up to a whole number) of the membership of the temporary governing body, not including any vacant positions.
+
+Regulation 4 makes further provisions amending the New Schools (General) (England) Regulations 2003 including the substitution of a new paragraph 4 of Schedule 2, relating to disqualification as a temporary governor by reason of mental disorder.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32); by virtue of the definition of “regulations” in section 212(1), these Regulations made by the Secretary of State apply only in relation to England.
+
+[^f00002]: Footnote: [SI 2003/348](https://www.legislation.gov.uk/uksi/2003/348).
+
+[^f00003]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
+
+[^f00004]: Footnote: [SI 2003/1377](https://www.legislation.gov.uk/uksi/2003/1377).
+
+[^f00005]: Footnote: [SI 2003/1558](https://www.legislation.gov.uk/uksi/2003/1558).
+
+[^f00006]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).

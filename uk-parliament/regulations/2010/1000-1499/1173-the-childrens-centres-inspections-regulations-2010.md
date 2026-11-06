@@ -1,0 +1,102 @@
+---
+title: The Children’s Centres (Inspections) Regulations 2010
+id: uksi/2010/1173
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2010-03-31'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2010/1173
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/1173/pdfs/uksiem_20101173_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1173/pdfs/uksi_20101173_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1173/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Children’s Centres (Inspections) Regulations 2010
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2010 No. 1173
+
+Children And Young Persons, England
+
+The Children’s Centres (Inspections) Regulations 2010
+
+Made
+
+31st March 2010
+
+Laid before Parliament
+
+6th April 2010
+
+Coming into force
+
+30th April 2010
+
+The Secretary of State for Children, Schools and Families makes the following Regulations in exercise of the powers conferred by sections 98A(1), 98B(3) and (4) and 104(2) of the Childcare Act 2006[^f00001]:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Children’s Centres (Inspections) Regulations 2010 and come into force on 30th April 2010.
+
+## 2. Prescribed intervals for inspections
+
+(1) This regulation applies to a children’s centre[^f00002] established on or before 31st August 2010.
+
+(2) The Chief Inspector[^f00003] must inspect the children’s centre—
+
+- (a) on or before 31st August 2015, and
+- (b) thereafter, on or before the fifth anniversary of the previous inspection of the centre.
+
+**3.** (1) This Regulation applies to a children’s centre established on or after 1st September 2010.
+
+(2) The Chief Inspector must inspect the children’s centre—
+
+- (a) on or before the fifth anniversary of the date on which the centre was established, and
+- (b) thereafter, on or before the fifth anniversary of the previous inspection of the centre.
+
+## 4. Reports of inspections
+
+(1) A report of an inspection of a children’s centre made by the Chief Inspector for the purposes of section 98B(1) of the Childcare Act 2006 must deal with the quality of the leadership and management of the children’s centre, including in particular whether—
+
+- (a) the financial resources made available to the children’s centre are managed effectively;
+- (b) young children, parents and prospective parents in the area served by the children’s centre who would otherwise be unlikely to take advantage of the early childhood services offered through the centre are identified and encouraged to take advantage of those services;
+- (c) the needs of young children, parents and prospective parents who attend, or are likely to attend, the children’s centre are identified, and early childhood services designed to meet those needs are delivered;
+- (d) appropriate policies, procedures and practices for safeguarding and promoting the welfare of young children who attend, or are likely to attend, the children’s centre are adopted and implemented.
+
+(2) In this regulation “early childhood services”, “parent” and “prospective parent” have the same meaning as in section 2 of the Childcare Act 2006.
+
+Dawn Primarolo
+
+Minister of State
+
+Department for Children, Schools and Families
+
+31st March 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision relating to the inspection of children’s centres by Her Majesty’s Chief Inspector of Education, Children’s Services and Skills (“the Chief Inspector”). The Regulations are made under provisions in the Childcare Act 2006 which were inserted by the Apprenticeships, Skills, Children and Learning Act 2009, and they apply to England only.
+
+Regulations 2 and 3 prescribe the intervals within which the Chief Inspector must inspect a children’s centre, depending on the date on which the centre was established.
+
+Regulation 4 prescribes detailed matters which must be dealt with in a written report by the Chief Inspector of an inspection of a children’s centre, in addition to the requirements set out in section 98B(2) of the Childcare Act 2006. These focus on aspects of the quality of the leadership and management of the centre.
+
+An impact assessment has not been prepared for this instrument as impacts on business, charities, voluntary bodies and the public sector will be minimal.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.21](https://www.legislation.gov.uk/ukpga/2006/21). Sections 98A and 98B were inserted by section 199 of the Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22) (“the 2009 Act”). For the meaning of “prescribed” and “regulations” see section 106 of the Childcare Act 2006 (“the 2006 Act”), as amended by article 110 of the Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010 /—).
+
+[^f00002]: Footnote: For the meaning of “children’s centre” see, by virtue of section 98G of the 2006 Act, section 5A(4) of that Act. Sections 5A and 98G were inserted into the 2006 Act by section 199 of the 2009 Act.
+
+[^f00003]: Footnote: For the meaning of “the Chief Inspector” see section 98G of the 2006 Act.

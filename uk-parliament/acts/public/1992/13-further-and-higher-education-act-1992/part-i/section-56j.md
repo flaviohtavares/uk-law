@@ -1,0 +1,27 @@
+---
+title: Further and Higher Education Act 1992, section 56J
+act: Further and Higher Education Act 1992
+section: 56J
+status: revised-with-pending-changes
+text_date: '2026-07-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1992/13/section/56J
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Further and Higher Education Act 1992, section 56J
+
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/13
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 56J. Notification by Chief Executive of Skills Funding of possible grounds for intervention[^key-6528463c9775cda82ff38b620aec8241]
+
+*Extent: E+W*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-6528463c9775cda82ff38b620aec8241]: Textual amendment: S. 56J repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 35](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/35); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

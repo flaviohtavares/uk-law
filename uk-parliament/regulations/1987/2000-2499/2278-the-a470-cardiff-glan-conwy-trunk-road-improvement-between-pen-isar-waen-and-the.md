@@ -1,0 +1,70 @@
+---
+title: The A470 Cardiff-Glan Conwy Trunk Road (Improvement between Pen-Isa'r-Waen and the Brecon By-pass) Order 1987
+id: uksi/1987/2278
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1987-12-22'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1987/2278
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1987/2278/pdfs/uksi_19872278_en.pdf
+- http://www.legislation.gov.uk/uksi/1987/2278/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The A470 Cardiff-Glan Conwy Trunk Road (Improvement between Pen-Isa'r-Waen and the Brecon By-pass) Order 1987
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1987 No. 2278
+
+HIGHWAYS, ENGLAND AND WALES
+
+The A470 Cardiff-Glan Conwy Trunk Road (Improvement between Pen-Isa'r-Waen and the Brecon By-pass) Order 1987
+
+Made
+
+22nd December 1987
+
+Coming into force
+
+25th February 1988
+
+The Secretary of State for Wales makes this Order in exercise of powers conferred by section 10 of the Highways Act 1980[^f00001] and of all other enabling powers:
+
+**1.** The new highways which the Secretary of State proposes to construct along the routes described in the Schedule to this Order shall become trunk roads as from the date when this Order comes into force.
+
+**2.** The centre lines of the new trunk roads are indicated by heavy black lines on the deposited plan.
+
+**3.** In this Order: —
+
+- (i) “the deposited plan”means the plan numbered HA 10/2, WO7, marked “The A470 Cardiff-Glan Conwy Trunk Road (Improvement between Pen-Isa'r-Waen and the Brecon By-Pass) Order 1987”, signed by authority of the Secretary of State and deposited at the Welsh Office Repository, Curran Embankment, Cardiff, where it is open to inspection free of charge at all reasonable hours.
+- (ii) “the new trunk roads” means the highways mentioned in article 1 of this Order;
+- (iii) “the trunk road” means the A470 Cardiff-Glan Conwy Trunk Road.
+
+**4.** This Order shall come into force on 25th February 1988 and may be cited as The A470 Cardiff-Glan Conwy Trunk Road (Improvement between Pen-Isa'r-Waen and the Brecon By-pass) Order 1987.
+
+Signed by authority of the Secretary of State for Wales
+
+G. Mercer
+
+Director of Highways 1987 Welsh Office
+
+22nd December 1987
+
+## THE SCHEDULE — ROUTES OF THE NEW TRUNK ROADS
+
+**1.** A route about 375 metres in length starting at a point on the Trunk Road 820 metres generally south-west of the junction of the Trunk Road with the unclassified road u/c 215 then going generally north-east to a point on the Trunk Road 445 metres south-west of the said junction.
+
+**2.** A route about 538 metres in length starting at a point on the Trunk Road 36 metres south-west of the junction of the Trunk Road with the unclassified road u/c 215 then going generally north-east to a point on the Trunk Road 133 metres south-west of the junction of the Trunk Road with the Class III County Road C.92.
+
+**3.** A route about 365 metres in length starting at a point on the Trunk Road 30 metres south-west of its junction with the Class III County Road C.92. then going generally north-east to a point on the Trunk Road 138 metres south-west of its junction with the unclassified road u/c 184.
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).

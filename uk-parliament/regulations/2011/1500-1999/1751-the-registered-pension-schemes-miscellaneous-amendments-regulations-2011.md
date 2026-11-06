@@ -1,0 +1,316 @@
+---
+title: The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011
+id: uksi/2011/1751
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-07-20'
+text_date: '2014-07-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/1751
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/1751/pdfs/uksiem_20111751_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1751/pdfs/uksi_20111751_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1751/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011
+
+> Text as at 2014-07-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 1751
+
+Income Tax
+
+The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011
+
+Made
+
+20th July 2011
+
+Laid before the House of Commons
+
+21st July 2011
+
+Coming into force
+
+11th August 2011
+
+The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by sections 164(1)(f) and (2), 177, 254(4)(b), 273A(1) and (2), paragraphs 3(1)(d), 14(2) and 17(1)(c) of Schedule 28, paragraph 1(6) of Schedule 29, paragraph 12 of Schedule 34 and section 282(A1) of the Finance Act 2004[^f00001], as the latter section has effect under paragraph 108 of Schedule 16 to the Finance Act 2011[^f00002] and now exercisable by them[^f00003].
+
+## 1. Citation, commencement and effect[^key-f20346f2849ac65bfe72600c426547c3]
+
+(1) These Regulations may be cited as the Registered Pension Schemes (Miscellaneous Amendments) Regulations 2011 and come into force on 11th August 2011.
+
+(2) The amendments made by regulations 2, 3, 4, 5, 6, 8(2), (3) and (5) and 12(2) have effect for the tax year 2011–12 and subsequent tax years.
+
+(3) The amendment made by regulation 7 has effect in relation to lump sums paid on or after 6th April 2011.
+
+(4) The amendment made by regulation 8(4) has effect in relation to payments made on or after 6th April 2012.
+
+(5) The amendment made by regulation 8(6) has effect in relation to any payment of pension made in respect of a member who died on or after 6th April 2011.
+
+(6) The amendment made by regulation 10(2)(b) has effect subject to regulation 11.
+
+(7) The amendments made by regulation 12(3) and (4) have effect in relation to pension input periods[^f00004] ending in the tax year 2011-12 and subsequent tax years.
+
+## 2. Amendment of the Pension Benefits (Insurance Company Liable as Scheme Administrator) Regulations 2006[^key-a5d302b76dbe4061c9b5e60157e3e4f6]
+
+(1) The Pension Benefits (Insurance Company Liable as Scheme Administrator) Regulations 2006[^f00005] are amended as follows.
+
+(2) For regulation 2(1)(c) (insurance company liable as scheme administrator) substitute—
+
+> - (c) a drawdown pension fund lump sum death benefit
+
+.
+
+## 3. Amendment of the Registered Pension Schemes (Authorised Surplus Payments) Regulations 2006[^key-16d714bc5c7187b791594a30fbbcb5a8]
+
+The Registered Pension Schemes (Authorised Surplus Payments) Regulations 2006[^f00006] are amended as follows.
+
+**4.**[^key-b6d1d3365c2b78781ee387578f234cba] For regulation 2(4) (payments falling within section 37 or 76 of the Pensions Act 1995) substitute—
+
+> (4) A payment made by an occupational pension scheme to a sponsoring employer solely in respect of the death of a member is an authorised surplus payment if—
+>
+> - (a) it satisfies the conditions in paragraphs (2) or (3), and
+> - (b) the member was not connected to the sponsoring employer at the date of the member’s death.
+
+.
+
+**5.**[^key-70e1022cef425222d5e3c845bb6f20eb] For regulation 3(2) (payments falling outside section 37 or 76 of the Pensions Act 1995) substitute—
+
+> (2) A payment made by an occupational pension scheme to a sponsoring employer solely in respect of the death of a member is an authorised surplus payment if—
+>
+> - (a) it satisfies the conditions in paragraph (1), and
+> - (b) the member was not connected to the sponsoring employer at the date of the member’s death.
+
+.
+
+## 6. Amendment of the Registered Pension Schemes (Relevant Annuities) Regulations 2006[^key-2d6c261c7cfa2a2596babce3b80d9c77]
+
+(1) The Registered Pension Schemes (Relevant Annuities) Regulations 2006[^f00007] are amended as follows.
+
+(2) In regulation 3 (definition of “annual amount”)—
+
+- (a) in paragraph (1)(a) for “member’s” substitute “member’s or dependant’s”;
+- (b) in paragraph (1)(b) for “75” (in both places) substitute “85”;
+- (c) in paragraph (2), for the words starting with “For” in the first place it appears and ending at the end of sub-paragraph (a), substitute—
+
+  > (2) For the purposes of paragraph (1) the “relevant date” in relation to drawdown pension years beginning on or before the member’s or dependant’s 75th birthday is—
+  >
+  > - (a) for the first drawdown pension year falling within a reference period—
+  >   - (i) the nominated date, as set out in paragraph 10(3)(a) or 24(3)(a) (as the case requires); or
+  >   - (ii) if there has been an additional fund designation made during that year, the date on which that designation was made;
+
+  ;
+- (d) in paragraph (2)(b) for “unsecured pension year” substitute “drawdown pension year”;
+- (e) omit paragraphs (2)(c) and (d) and the remainder of paragraph (2);
+- (f) after paragraph (2) insert—
+
+  > (3) For the purposes of paragraph (1) the “relevant date” in relation to drawdown pension years beginning after the member’s or dependant’s 75th birthday is—
+  >
+  > - (a) the nominated date, as determined in accordance with paragraph 10A(3), (4) and (5) or 24A(3) (as the case requires); or
+  > - (b) if there has been an additional fund designation during a drawdown pension year, the date on which that designation was made.
+  >
+  > (4) In paragraphs (2)(a)(i) and (b) and (3)(a), references to numbered paragraphs are to the paragraphs of Schedule 28 to the Act.
+
+  .
+
+## 7. Amendment of the Registered Pension Schemes (Meaning of Pension Commencement Lump Sum) Regulations 2006[^key-cec46346ce068d47bc0fcea81295a38a]
+
+(1) The Registered Pension Schemes (Meaning of Pension Commencement Lump Sum) Regulations 2006[^f00008] are amended as follows.
+
+(2) In regulation 4 (circumstances in which the Regulations apply), for the words “even though” to “not met” substitute “even though the condition in paragraph 1(1)(c) of Schedule 29 to the Finance Act 2004 is not met”.
+
+## 8. Amendment of the Registered Pension Schemes (Authorised Payments) Regulations 2009[^key-0b10e85532ea23e66c6285c9a651dbb0]
+
+(1) The Registered Pension Schemes (Authorised Payments) Regulations 2009[^f00009] are amended as follows.
+
+(2) In regulation 7 (meaning of “relevant accretion”), after paragraph (3) insert—
+
+> (3A) For the purposes of determining whether all or part of the member’s lifetime allowance is available under paragraph (3)—
+>
+> - (a) the fact that benefit crystallisation event 5 or benefit crystallisation event 5B has occurred in relation to the member is to be disregarded, and
+> - (b) anything which, but for paragraph 2 or 15A of Schedule 32[^f00010], would have been such a benefit crystallisation event is to be treated as if it were such an event.
+
+.
+
+(3) Omit regulation 9 (payments to or in respect of members who were untraceable).
+
+(4)[^key-cf38af3b404a54cb7893ead9178aa3c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In regulations 11(1)(a) (de minimis rule for pension schemes) and 12(1)(c) (payments by larger pensions schemes) omit “, but has not reached the age of 75”.
+
+(6) Omit regulation 16(1)(b) (payments of arrears of pension after death).
+
+## 9. Amendment of the Registered Pension Schemes (Accounting and Assessment) Regulations 2005[^key-ad7341501b9abb629668a0cc70531d5d]
+
+(1) The Registered Pension Schemes (Accounting and Assessment) Regulations 2005[^f00011] are amended as follows.
+
+(2) In regulation 3 (the particulars required to be included in returns under section 254), in Table 1, after the entry relating to the charge under section 214 (lifetime allowance charge) insert—
+
+> |  |  |
+> | --- | --- |
+> | Charge under section 227[^f00012] of the Act (annual allowance charge). | 1\. The title, name and national insurance number of each individual in relation to whom the scheme administrator becomes liable to an annual allowance charge under section 237B(7)[^f00013] of the Act.<br>2\. The date on which the scheme administrator becomes liable to the annual allowance charge.<br>3\. The amount of tax to which the scheme administrator became jointly liable in respect of each individual under section 237B(7) of the Act. |
+
+## 10. Amendment of the Registered Pension Schemes (Prescribed Manner of Determining Amount of Annuities) Regulations 2006[^key-d49783c400ea3d556b1c5b366182cfff]
+
+(1) The Registered Pension Schemes (Prescribed Manner of Determining Amount of Annuities) Regulations 2006 (“the principal Regulations”)[^f00014] are amended as follows.
+
+(2) In regulation 2(4) (determining amount of member’s lifetime annuity)—
+
+- (a) in condition 1, for “(a) to (d)” substitute “(a) to (c)”; and
+- (b) in condition 2, for “5” substitute “3”.
+
+**11.**[^key-46c3268a5847f2c061c3b5b17032c33d] Where the amount of—
+
+- (a) a member’s lifetime annuity; or
+- (b) a dependant’s annuity
+
+has been determined in accordance with regulation 2 or 3 of the principal Regulations before the coming into force of these Regulations, the amendment made by regulation 10(2)(b) has effect from the date of the next review of the value of the sums and assets which are applied towards the provision of the annuity by the insurance company by whom the annuity is provided.
+
+## 12. Amendment of the Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006[^key-439f74f056d44c9737e37b7fed0c8556]
+
+(1) The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006[^f00015] are amended as follows.
+
+(2) Omit regulation 8 (modification of section 227).
+
+(3) In regulation 9 (modification of section 231)—
+
+- (a) for paragraph (a) substitute—
+
+  > - (a) in subsection (3) for “the consumer prices index” substitute “the relevant index”; and
+
+  , and
+- (b) in paragraph (b), for the inserted subsection (4) substitute—
+
+  > (4) In this section “the relevant index” means—
+  >
+  > - (a) if there is an index of the movement of consumer prices maintained, or officially recognised, by the government of the country or territory in which the recognised overseas scheme is established, that index, or
+  > - (b) if there is no such index, the consumer prices index.
+
+  .
+
+(4) In regulation 10 (modification of section 235)—
+
+- (a) for paragraph (a) substitute—
+
+  > - (a) in subsection (3) for “the consumer prices index” substitute “the relevant index”; and
+
+  , and
+- (b) in paragraph (b), for the inserted subsection (4) substitute—
+
+  > (4) In this section “the relevant index” means—
+  >
+  > - (a) if there is an index of the movement of consumer prices maintained, or officially recognised, by the government of the country or territory in which the recognised overseas scheme is established, that index, or
+  > - (b) if there is no such index, the consumer prices index.
+
+  .
+
+Melanie Dawes
+
+Dave Hartnett
+
+Two of the Commissioners for Her Majesty’s Revenue and Customs
+
+20th July 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+From 6th April 2011, Schedule 16 to the Finance Act 2011 (“FA 2011”) amends Part 4 (pension schemes etc) of the Finance Act 2004 (“FA 2004”) to remove certain tax rules that require members of registered pension schemes to secure an income, usually by buying an annuity, by age 75. The amendments replace the concept of an “unsecured pension” and an “alternatively secured pension” with the concept of a “drawdown pension”. Schedule 17 to FA 2011 amends FA 2004 so as to reduce the annual allowance for pension savings from £255,000 to £50,000 with effect from 6th April 2011. Schedule 18 to FA 2011 also amends the standard lifetime allowance from £1.8M to £1.5M with effect from 6th April 2012. These Regulations make consequential amendments to a number of statutory instruments to reflect the changes made by FA 2011.
+
+Regulations 2, 3, 4, 5, 6, 7, 8(2), (3), (5) and (6) and 12 have retrospective effect. Section 282(A1) of FA 2004 provides that regulations made under Part 4 of that Act may include provision having effect in relation to times before the regulations are made if that provision does not increase any person’s liability to tax. Paragraph 108 of Schedule 16 to FA 2011 provides for regulations which are made in consequence of the amendments made to Part 4 of FA 2004 by that Schedule in the tax year beginning on 6th April 2011, to have retrospective effect in circumstances where they may increase a person’s liability to tax. The only regulation that could potentially increase a person’s liability to tax is regulation 2.
+
+Regulation 2 amends the Pension Benefits (Insurance Company Liable as Scheme Administrator) Regulations 2006 ([S.I. 2006/136](https://www.legislation.gov.uk/uksi/2006/136); “the Insurance Company Regulations”) so that they apply to payment of a drawdown pension fund lump sum death benefit instead of an unsecured pension fund lump sum death benefit. The Insurance Company Regulations impose obligations on insurance companies which make payments of lump sum death benefits falling within section 273A(1) of FA 2004.
+
+Regulations 3, 4 and 5 make consequential amendments to the Registered Pension Schemes (Authorised Surplus Payments) Regulations 2006 ([S.I. 2006/574](https://www.legislation.gov.uk/uksi/2006/574)) to remove redundant references to “alternatively secured pension”.
+
+Regulation 6 makes consequential amendments to the Registered Pension Schemes (Relevant Annuities) Regulations 2006 ([S.I. 2006/129](https://www.legislation.gov.uk/uksi/2006/129); “the Relevant Annuities Regulations”). The Relevant Annuities Regulations provide definitions of a “relevant annuity” and the “annual amount” of a relevant annuity for the purposes of calculating the “basis amount” referred to in sections 165 and 167 of FA 2004. These amendments reflect the fact that a member or dependant may now become entitled to a relevant annuity after reaching the age of 75 following the changes made by FA 2011.
+
+Regulation 7 amends the Registered Pension Schemes (Meaning of Pension Commencement Lump Sum) Regulations 2006 ([S.I. 2006/135](https://www.legislation.gov.uk/uksi/2006/135); “the PCLS Regulations”) in consequence of the repeal of paragraph 1(1)(a) of Schedule 29 to FA 2004. The PCLS Regulations prescribe the circumstances in which a lump sum payment made by the scheme administrator to a scheme member in respect of an overpaid lifetime allowance charge is to be treated as a pension commencement lump sum (so that it will not be subject to a tax charge) even though it does not meet specified conditions. These Regulations remove the reference to the condition in paragraph (1)(1)(a) of Schedule 29 to FA 2004 which has been repealed.
+
+Regulations 8(1), (2), (4) and (5) make consequential changes to the Registered Pension Schemes (Authorised Payments) Regulations 2009 ([S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171); “the Authorised Payments Regulations”) by removing regulations, or parts of regulations, which applied different rules to payments to persons under and over the age of 75.
+
+Regulation 8(3) makes a consequential amendment to the Authorised Payments Regulations following the amendment made to the standard lifetime allowance by FA 2011. In order to ensure that the limit referred to in regulation 10 of the Authorised Payments Regulations remains at £18,000, regulation 8(3) amends regulation 10(3)(b) by substituting £18,000 for the previous limit of 1% of the standard lifetime allowance. This amendment has effect in relation to payments made on or after 6th April 2012.
+
+Regulation 9 makes a consequential amendment to the table contained in regulation 3 of the Registered Pension Schemes (Accounting and Assessment) Regulations 2005 ([S.I. 2005/3454](https://www.legislation.gov.uk/uksi/2005/3454)). A new entry is made requiring scheme administrators to report any amounts of the annual allowance charge which they become jointly and severally liable to pay under section 237B(7) of FA 2004 in the quarterly accounting for tax form. This amendment is made in consequence of the reduction in the annual allowance from £255,000 to £50,000 with effect from the 2011-12 tax year. Members of registered pension schemes can elect for their scheme administrator to become jointly and severally liable to pay the annual allowance charge relating to that scheme subject to a corresponding adjustment being made to their entitlement to benefits under the scheme. This legislation is contained in sections 237A to 237F of FA 2004.
+
+Regulation 10 makes consequential amendments to the Registered Pension Schemes (Prescribed Manner of Determining Amount of Annuities) Regulations 2006 ([S.I. 2006/568](https://www.legislation.gov.uk/uksi/2006/568); “the Annuities Regulations”). Regulation 10(2)(a) corrects a typographical error in the Annuities Regulations. Regulation 10(2)(b) changes the minimum period by which an insurance company must hold a review under condition 2 of the principal Regulations from at least once every 5 years to at least once every 3 years.
+
+Regulation 11 makes provision for the coming into effect of the amendment made by regulation 10(2)(b) in specified circumstances. Where a review of the value of a lifetime annuity or dependants’ annuity has already taken place prior to the coming into force of these Regulations, the change of the review period from 5 to 3 years shall only take effect from the date of the next review.
+
+Regulation 12 makes consequential amendments to the Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006 ([S.I. 2006/207](https://www.legislation.gov.uk/uksi/2006/207); “the RNUKS Regulations”) required as a result of the changes made to the annual allowance for tax-relieved pension savings by FA 2011. The amendments made by this regulation have retrospective effect from 6th April 2011 by virtue of the power contained in paragraph 12(2)(a) of Schedule 34 to FA 2004.
+
+The changes made by Schedule 17 to FA 2011 to sections 231(3) and 235(3) of FA 2004 mean that for registered pension schemes calculating the appropriate percentage for cash balance and defined benefits arrangements will be based purely on the consumer prices index (“CPI”) rather than on a combination of factors including the retail prices index (“RPI”). These Regulations therefore amend regulations 9 and 10 of the RNUKS Regulations which modify sections 231 and 235 of FA 2004 for currently-relieved non-UK pension schemes, so as to replace references to the CPI with references to the relevant index.
+
+Regulation 12(2) omits regulation 8 of the RNUKS Regulations in line with the amendments made to section 227 of FA 2004 by FA 2011.
+
+A Tax Information and Impact Note covering this instrument was published on 9th December 2010 alongside draft legislation for the Finance (No.3) Bill 2011 concerning the restriction of pensions tax relief. This was updated on 3rd March 2011 to reflect further decisions relating to the restriction of pensions tax relief. A separate Tax Information and Impact Note covering the removal of the effective requirement to annuitise by age 75 was published on 9th December 2010. Both TIINs are available on the HMRC website at http://www.hmrc.gov.uk/thelibrary/tiins.htm. They each remain an accurate summary of the impacts of this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Section 164 was amended by paragraph 6 of Schedule 23 to the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), paragraph 1 of Schedule 29 of the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9) and section 75 of the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10) (“FA 2009”). Section 273A was inserted by paragraph 49(1) of Schedule 10 to the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7) (“FA 2005”) and amended by paragraph 76 of Schedule 16 to the Finance Act 2011 (c. **11**). Paragraphs 3(1)(d) and 17(1)(c) of Schedule 28 were substituted by paragraphs 13(2) and (3) respectively of Schedule 10 to FA 2005. Paragraph 1(6) of Schedule 29 was inserted by paragraph 34 of Schedule 10 to FA 2005 and amended by paragraph 11(3) of Schedule 20 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11). Section 282(A1) was inserted by section 75(1) of FA 2009.
+
+[^f00002]: Footnote: [2011 c. 11](https://www.legislation.gov.uk/ukpga/2011/11).
+
+[^f00003]: Footnote: The functions of the Commissioners of Inland Revenue were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5(1) of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50(1) of that Act provides that, in so far as it is appropriate in consequence of section 5, a reference, however expressed, to the Commissioners of Inland Revenue is to be read as a reference to the Commissioners for Her Majesty’s Revenue and Customs.
+
+[^key-f20346f2849ac65bfe72600c426547c3]: Commencement: Reg. 1 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+
+[^f00004]: Footnote: Pension input periods are defined in section 238 of the Finance Act 2004.
+
+[^key-a5d302b76dbe4061c9b5e60157e3e4f6]: Commencement: Reg. 2 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+
+[^f00005]: Footnote: [S.I. 2006/136](https://www.legislation.gov.uk/uksi/2006/136), to which there are amendments not relevant to these Regulations.
+
+[^key-16d714bc5c7187b791594a30fbbcb5a8]: Commencement: Reg. 3 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+
+[^f00006]: Footnote: [S.I. 2006/574](https://www.legislation.gov.uk/uksi/2006/574).
+
+[^key-b6d1d3365c2b78781ee387578f234cba]: Commencement: Reg. 4 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+
+[^key-70e1022cef425222d5e3c845bb6f20eb]: Commencement: Reg. 5 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+
+[^key-2d6c261c7cfa2a2596babce3b80d9c77]: Commencement: Reg. 6 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+
+[^f00007]: Footnote: [S.I. 2006/129](https://www.legislation.gov.uk/uksi/2006/129).
+
+[^key-cec46346ce068d47bc0fcea81295a38a]: Commencement: Reg. 7 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+
+[^f00008]: Footnote: [S.I. 2006/135](https://www.legislation.gov.uk/uksi/2006/135), amended by [S.I. 2007/3533](https://www.legislation.gov.uk/uksi/2007/3533).
+
+[^key-0b10e85532ea23e66c6285c9a651dbb0]: Commencement: Reg. 8 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+
+[^f00009]: Footnote: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171).
+
+[^f00010]: Footnote: Paragraph 15A was inserted by paragraph 44(3) of Schedule 16 to the Finance Act 2011.
+
+[^key-cf38af3b404a54cb7893ead9178aa3c6]: Textual amendment: Reg. 8(4) omitted (with effect in accordance with s. 42(10) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2014/26/section/42/7)
+
+[^key-ad7341501b9abb629668a0cc70531d5d]: Commencement: Reg. 9 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+
+[^f00011]: Footnote: [S.I. 2005/3454](https://www.legislation.gov.uk/uksi/2005/3454) amended by [S.I. 2011/302](https://www.legislation.gov.uk/uksi/2011/302).
+
+[^f00012]: Footnote: Section 227 was amended by paragraph 3 of Schedule 17 to the Finance Act 2011.
+
+[^f00013]: Footnote: Section 237B was inserted by paragraph 15 of Schedule 17 to Finance Act 2011.
+
+[^key-d49783c400ea3d556b1c5b366182cfff]: Commencement: Reg. 10 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+
+[^f00014]: Footnote: [S.I. 2006/568](https://www.legislation.gov.uk/uksi/2006/568).
+
+[^key-46c3268a5847f2c061c3b5b17032c33d]: Commencement: Reg. 11 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+
+[^key-439f74f056d44c9737e37b7fed0c8556]: Commencement: Reg. 12 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1751/regulation/1/1)
+
+[^f00015]: Footnote: [S.I. 2006/207](https://www.legislation.gov.uk/uksi/2006/207), to which there are amendments not relevant to these Regulations.

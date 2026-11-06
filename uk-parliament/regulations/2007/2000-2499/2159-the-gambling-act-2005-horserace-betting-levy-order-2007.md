@@ -1,0 +1,123 @@
+---
+title: The Gambling Act 2005 (Horserace Betting Levy) Order 2007
+id: uksi/2007/2159
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-07-19'
+text_date: '2017-04-25'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2007/2159
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/2159/pdfs/uksiem_20072159_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/2159/pdfs/uksi_20072159_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/2159/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Gambling Act 2005 (Horserace Betting Levy) Order 2007
+
+> Text as at 2017-04-25.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2007 No. 2159
+
+betting, gaming and lotteries
+
+The Gambling Act 2005 (Horserace Betting Levy) Order 2007
+
+Made
+
+19th July 2007
+
+Coming into force in accordance with article 1(1)
+
+The Secretary of State makes the following Order in exercise of the powers conferred by section 358(6) of the Gambling Act 2005[^f00001].
+
+A draft of this Order has been laid before Parliament in accordance with section 355(8)(b) of that Act, and has been approved by resolution of each House.
+
+## 1. Citation, commencement and interpretation[^key-cb04713ab49385f87fa66804fa30f5f0]
+
+(1) This Order may be cited as the Gambling Act 2005 (Horserace Betting Levy) Order 2007 and shall come into force on whichever is the later of 1st September 2007 or the day after the day on which the Order is made.
+
+(2) In this Order—
+
+- “the 1963 Act” means the Betting, Gaming and Lotteries Act 1963[^f00002];
+- “the 2005 Act” means the Gambling Act 2005;
+- “bookmakers’ levy” means the levy payable under section 27 of the 1963 Act; and
+- “the dissolution date” means the date specified in an order made under section 15(1) of the Horserace Betting and Olympic Lottery Act 2004[^f00003] as the date on which the Horserace Betting Levy Board ceases to exist.
+
+## 2. Savings[^key-8d90d51e03ee1630f2c79406afdafd26]
+
+(1) Despite the repeal of the 1963 Act by the 2005 Act, sections 24 to 30 of the 1963 Act shall continue to have effect until immediately before the dissolution date subject to the modification in paragraph (2).
+
+(2) Sections 28(10) and 28A of the 1963 Act do[^key-8511540048825b1870b65af97eeed938] not apply to any information provided by a member, officer or servant of the Horserace Betting Levy Board to the Gambling Commission for use by the Commission in the exercise of its functions (including any information provided for the purposes of sections 116 to 120 of the 2005 Act as modified by article 3 of this Order).
+
+(3) Expressions used in sections 24 to 30 of the 1963 Act shall have the meanings given to them by section 55(1) of the 1963 Act (as that provision had effect immediately before 1st September 2007).
+
+## 3. Modification of the Gambling Act 2005[^key-6586e097fb6bd840ccb1054e658fe481]
+
+(1) Sections 116 to 120 of the 2005 Act (review of operating licences) shall have effect until immediately before the dissolution date subject to the following modifications.
+
+(2) The Gambling Commission must carry out a review of an operating licence under section 116(2)(c) if it is notified in writing by the Horserace Betting Levy Board that—
+
+- (a) the holder of the operating licence is in default of the [^key-47fb20ed1a632271b1838e416435f43d]... levy and has been so for at least three months; and
+- (b) on a previous occasion (not being before the period of five years ending with the date on which the Gambling Commission receives the notice from the Horserace Betting Levy Board) he was so in default and had been so for at least three months.
+
+(3) The Gambling Commission must exercise its powers under section 119 to revoke the operating licence (on the grounds that the condition in section 120(1)(d) applies) if—
+
+- (a) the Commission is satisfied that the matters referred to in sub-paragraphs (a) and (b) of paragraph (2) are in fact the case; and
+- (b) having notified the Horserace Betting Levy Board and the operating licence holder in writing of this decision, the Commission has received written confirmation from the Horserace Betting Levy Board that they want the operating licence to be revoked.
+
+(4) The Gambling Commission must provide the holder of the operating licence with an opportunity to make representations on the matters referred to in sub-paragraphs (a) and (b) of paragraph (2) before reaching a decision under paragraph (3)(a).
+
+(5) For the purposes of this article, a person is in default in respect of the [^key-96f8faa3669d855e56df1cf425049dbe]... levy if—
+
+- (a) there has become due from him under section 28(7) of the 1963 Act an amount assessed as payable by him by way of levy, and
+- (b) the whole or any part of that amount remains unpaid.
+
+Gerry Sutcliffe
+
+Parliamentary Under Secretary of State
+
+Department for Culture, Media and Sport
+
+19th July 2007
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision with respect to the Horserace Betting Levy Board (“the Levy Board”) and the levy payable to the Board under section 27 of the Betting, Gaming and Lotteries Act 1963 (“the bookmakers’ levy”).
+
+Article 2 saves sections 24 to 30 of the Betting, Gaming and Lotteries Act 1963 Act (which relate to the Levy Board and the bookmakers’ levy) notwithstanding the repeal of that Act by the Gambling Act 2005. Article 2 also modifies section 28(10) of the 1963 Act (which restricts the circumstances in which the Levy Board may disclose information identifying bookmakers) so that it does not apply to information provided to the Gambling Commission for use in the exercise of its functions.
+
+Article 3 modifies sections 116 to 120 of the Gambling Act 2005 to require the Gambling Commission to carry out a review of an operating licence under section 116(2)(c) if notified by the Levy Board of the matters referred to in sub-paragraphs (a) and (b) of article 3(2) (which relate to non-payment of the bookmakers’ levy). It also requires the Gambling Commission to exercise its powers under section 119 to revoke the licence if it is satisfied that those matters are in fact the case and it receives written confirmation from the Levy Board that they want the operating licence to be revoked. Before reaching a decision on the matters referred to in sub-paragraphs (a) and (b) of article 3(2) the Gambling Commission must provide the holder of the operating licence with an opportunity to make representations on those matters.
+
+A full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2005 c.19](https://www.legislation.gov.uk/ukpga/2005/19).
+
+[^key-cb04713ab49385f87fa66804fa30f5f0]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2007/2159/article/1) in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2159/article/1/1)
+
+[^f00002]: Footnote: [1963 c.2](https://www.legislation.gov.uk/ukpga/1963/2).
+
+[^f00003]: Footnote: [2004 c.25](https://www.legislation.gov.uk/ukpga/2004/25).
+
+[^key-8d90d51e03ee1630f2c79406afdafd26]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2007/2159/article/2) in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2159/article/1/1)
+
+[^key-8511540048825b1870b65af97eeed938]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/2159/article/2/2) substituted (25.4.2017) by [The Horserace Betting Levy Regulations 2017 (S.I. 2017/589)](https://www.legislation.gov.uk/uksi/2017/589), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/589/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2017/589/regulation/4/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2017/589/regulation/2))
+
+[^key-6586e097fb6bd840ccb1054e658fe481]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2007/2159/article/3) in force at 1.9.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2159/article/1/1)
+
+[^key-47fb20ed1a632271b1838e416435f43d]: Textual amendment: Word in [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2007/2159/article/3/2/a) omitted (25.4.2017) by virtue of [The Horserace Betting Levy Regulations 2017 (S.I. 2017/589)](https://www.legislation.gov.uk/uksi/2017/589), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/589/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2017/589/regulation/4/3) (with [reg. 2](https://www.legislation.gov.uk/uksi/2017/589/regulation/2))
+
+[^key-96f8faa3669d855e56df1cf425049dbe]: Textual amendment: Word in [art. 3(5)](https://www.legislation.gov.uk/uksi/2007/2159/article/5) omitted (25.4.2017) by virtue of [The Horserace Betting Levy Regulations 2017 (S.I. 2017/589)](https://www.legislation.gov.uk/uksi/2017/589), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/589/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2017/589/regulation/4/4) (with [reg. 2](https://www.legislation.gov.uk/uksi/2017/589/regulation/2))

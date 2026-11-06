@@ -1,0 +1,125 @@
+---
+title: The Transportable Pressure Vessels Regulations 2001, SCHEDULE 6
+act: The Transportable Pressure Vessels Regulations 2001
+section: schedule-6
+status: repealed
+text_date: '2004-05-10'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2001/1426/schedule/6
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Transportable Pressure Vessels Regulations 2001, SCHEDULE 6
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland.
+
+## SCHEDULE 6 — PERIODIC INSPECTION PROCEDURES[^key-e37ed1a8864b7d6de74d63ee0912f906]
+
+*Extent: E+W+S*
+
+**No longer in force.**
+
+Regulation 7
+
+[^key-e37ed1a8864b7d6de74d63ee0912f906]
+
+*(This Schedule substantially reproduces the provisions of Part III of Annex IV to the Transportable Pressure Equipment Directive)*
+
+### 1. Module 1—periodic inspection of products[^key-e37ed1a8864b7d6de74d63ee0912f906]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-e37ed1a8864b7d6de74d63ee0912f906]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.1.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.2.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.3.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 1. Module 2—periodic inspection through quality assurance[^key-e37ed1a8864b7d6de74d63ee0912f906]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-e37ed1a8864b7d6de74d63ee0912f906]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-e37ed1a8864b7d6de74d63ee0912f906]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-e37ed1a8864b7d6de74d63ee0912f906]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Quality system[^key-e37ed1a8864b7d6de74d63ee0912f906]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.1.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-e37ed1a8864b7d6de74d63ee0912f906]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.2.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-e37ed1a8864b7d6de74d63ee0912f906]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.3.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-e37ed1a8864b7d6de74d63ee0912f906]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-e37ed1a8864b7d6de74d63ee0912f906]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.4.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-e37ed1a8864b7d6de74d63ee0912f906]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-e37ed1a8864b7d6de74d63ee0912f906]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-e37ed1a8864b7d6de74d63ee0912f906]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Surveillance under the responsibility of the notified body[^key-e37ed1a8864b7d6de74d63ee0912f906]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.1.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.2.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.3.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.4.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-e37ed1a8864b7d6de74d63ee0912f906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-e37ed1a8864b7d6de74d63ee0912f906]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/1426) revoked (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 14](https://www.legislation.gov.uk/uksi/2004/568/schedule/14) (with [reg. 63(5)](https://www.legislation.gov.uk/uksi/2004/568/regulation/63/5))
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. Revised versions of how the S.I. stood at its first commencement are available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

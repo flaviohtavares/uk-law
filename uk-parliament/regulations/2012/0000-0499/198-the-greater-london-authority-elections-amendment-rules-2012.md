@@ -1,0 +1,172 @@
+---
+title: The Greater London Authority Elections (Amendment) Rules 2012
+id: uksi/2012/198
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2012-01-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2012/198
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/198/pdfs/uksiem_20120198_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/198/pdfs/uksi_20120198_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/198/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Greater London Authority Elections (Amendment) Rules 2012
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2012 No. 198
+
+London Government
+
+Representation Of The People, England
+
+The Greater London Authority Elections (Amendment) Rules 2012
+
+Made
+
+26th January 2012
+
+Laid before Parliament
+
+31st January 2012
+
+Coming into force
+
+*1st* March 2012
+
+The Lord President of the Council makes the following Rules in exercise of the powers conferred by sections 36(2A) and (2B) of the Representation of the People Act 1983[^f00001] and now vested in him[^f00002].
+
+The Lord President of the Council has consulted the Electoral Commission in accordance with section 7(1) and (2)(d) of the Political Parties, Elections and Referendums Act 2000[^f00003].
+
+## 1. Citation, commencement and interpretation
+
+(1) These Rules may be cited as the Greater London Authority Elections (Amendment) Rules 2012 and will come into force on the 1<sup>st</sup> of March 2012.
+
+(2) In these Rules, “GLA Elections Rules” means the Greater London Authority Elections Rules 2007[^f00004].
+
+## 2. Amendment to the Greater London Authority Elections Rules
+
+In rule 6 of the GLA Elections Rules (modifications to the combined Rules where votes are counted manually), after the words “Combined Manual Count Rules” insert “in Schedule 8”.
+
+## 3. Amendments to the Constituency Members Election Rules
+
+(1) Schedules 1 and 5 to the GLA Elections Rules (The Constituency Members Election Rules) are amended as follows.
+
+(2) In rule 17 (the ballot papers) in each Schedule—
+
+- (a) after paragraph (4) insert:
+
+  > (4A) If a candidate who is the subject of an authorisation by two or more parties under rule 6(7) so requests, the ballot paper must contain, against the candidate’s particulars, the registered emblem (or, as the case may be, one of the registered emblems) of one of those parties.
+
+  ;
+- (b) in paragraph (5) after the words “under paragraph (4)” insert “or paragraph (4A)”.
+
+(3) In rule 54(3) (declaration of result) in each Schedule, omit the words “first preference”.
+
+## 4. Amendments to the London Members Election Rules
+
+(1) In both Schedule 2 and Schedule 6 to the GLA Elections Rules (The London Members Election Rules), in rule 57(4) (declaration of result) omit the words “first preference”.
+
+(2) In Schedule 2 to the GLA Elections Rules (The London Members Election Rules), in rule 56(4)(b) (the calculation), for “Combined Constituency Members Election Rules” substitute “Constituency Members Election Rules”.
+
+## 5. Amendments to the Mayoral Election Rules
+
+(1) Schedules 3 and 7 to the GLA Elections Rules (The Mayoral Election Rules), are amended as follows.
+
+(2) After rule 7(3) (subscription of nomination papers) in each Schedule insert—
+
+> (3A) A person must not subscribe more than one nomination paper at the same election.
+>
+> (3B) Paragraph (3A) does not prevent a person subscribing a further nomination paper where the previously nominated candidate has either died or withdrawn.
+
+(3) After rule 10(2)(c) (decisions as to validity of nomination papers) in each Schedule, insert—
+
+> (2A) If, contrary to rule 7(3A), a person subscribes more than one nomination paper the GLRO, in determining whether a paper is subscribed as so required under paragraph (2)(b)—
+>
+> - (a) must only take the person’s signature into account in respect of the first nomination paper delivered under rule 6(1)(b) on which the person’s signature appears,
+> - (b) must, where the person’s signature appears on a nomination paper delivered subsequently, find that the paper is not subscribed as so required if the signature appears within the first 330 signatures on the paper, regardless of whether the paper contains more than 330 signatures.
+
+(4) In rule 10(6) (decisions as to the validity of nomination papers) in each Schedule, for “ballot paper” substitute “nomination paper”.
+
+(5) In rule 17 (the ballot papers) in each Schedule—
+
+- (a) After rule 17(4) insert—
+
+  > (4A) If a candidate who is the subject of an authorisation by two or more parties under rule 6(7) so requests, the ballot paper must contain, against the candidate’s particulars, the registered emblem (or, as the case may be, one of the registered emblems) of one of those parties.
+- (b) In rule 17(5) after the words “under paragraph (4)” insert “or paragraph (4A)”.
+
+**6.** In Schedule 3 to the GLA Elections Rules (The Mayoral Election Rules), in rule 53(2) (procedure at conclusion of local count) omit the words “as defined by rule 57(6).”.
+
+## 7. Amendments to the Schedule of Forms
+
+In rule 2 in Schedule 10 (schedule of forms) to the GLA Elections Rules—
+
+- (a) for Form 1: Nomination paper (constituency and individual London member candidates) substitute Form 1 in Schedule 1 to these rules;
+- (b) for Form 2: Nomination paper (London member party list candidates) substitute Form 2 in Schedule 2 to these rules; and
+- (c) for Form 3: Nomination paper (Mayor of London candidates) substitute Form 3 in Schedule 3 to these rules.
+
+Signed by authority of the Lord President of the Council
+
+Mark Harper
+
+Parliamentary Secretary (Minister for Political and Constitutional Reform)
+
+Cabinet Office
+
+26th January 2012
+
+SCHEDULES
+
+## SCHEDULE 1
+
+rule 7
+
+[image: see source](https://www.legislation.gov.uk/uksi/2012/198/images/uksi_20120198_en_001)
+
+## SCHEDULE 2
+
+rule 7
+
+[image: see source](https://www.legislation.gov.uk/uksi/2012/198/images/uksi_20120198_en_002) [image: see source](https://www.legislation.gov.uk/uksi/2012/198/images/uksi_20120198_en_003)
+
+## SCHEDULE 3
+
+rule 7
+
+[image: see source](https://www.legislation.gov.uk/uksi/2012/198/images/uksi_20120198_en_004) [image: see source](https://www.legislation.gov.uk/uksi/2012/198/images/uksi_20120198_en_005) [image: see source](https://www.legislation.gov.uk/uksi/2012/198/images/uksi_20120198_en_006)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+These Rules are made under the Representation of the People Act 1983. They amend the Greater London Authority Elections Rules 2007. Specifically they amend the Constituency Members Election Rules in Schedules 1 and 5, the London Members Election Rules in Schedules 2 and 6, and the Mayoral Election Rules in Schedules 3 and 7 to the Greater London Authority Elections Rules 2007, which all make provision in connection with the conduct of elections for the Greater London Authority.
+
+Rule 2 amends rule 6 (Modifications to the combined Rules where votes are counted manually) of the GLA Elections Rules to clarify that the modification provisions are set out in Schedule 8 (Combined Manual Count Rules) to those rules.
+
+Rule 3 amends the Constituency Members Election Rules so as to make provision for candidates jointly representing two or more parties to be able to request a registered emblem to appear against the candidate’s particulars on the ballot paper. Rule 3 also corrects an error by removing references to “first preference” votes which are not used in the electoral system for Constituency Member Elections.
+
+Rule 4 similarly amends the London Members Election Rules to correct an error by removing references to “first preference” votes which are not used in the electoral system for London Member Elections.
+
+Rule 5 amends the Mayoral Election Rules to clarify that each voter may only subscribe to the nomination paper of one standing candidate in a Mayoral election, and that nomination papers that contain inoperative subscriptions within the required 330 are to be deemed invalid. Additionally Rule 5 corrects an error by removing certain references to “ballot paper” and replacing them with the correct phrase “nomination paper”. Rule 5 also makes provision for candidates jointly representing two or more parties to be able to request a registered emblem to appear against the candidate’s particulars on the ballot paper. Finally, Rule 5 corrects an error by replacing a reference to “Combined Constituency Members Election Rules” with a reference to “Constituency Members Election Rules”.
+
+Rule 6 amends the Mayoral Election Rules in Schedule 3 to correct a typographical error by removing an inaccurate reference to rule 57(6).
+
+Rule 7 revokes and replaces the existing Forms 1, 2 and 3 in Schedule 10 of the Greater London Authority Elections Rules 2007. These are nomination forms to be used by Constituency Member and London Member (individual) Candidates, London Member (Party List) Candidates, and Candidates to be Mayor of London respectively. The forms have been replaced so as to clarify the language used and to bring it closer into line with that used in the relevant parts of the Greater London Authority Elections Rules 2007.
+
+## Annotations
+
+[^f00001]: Footnote: [1983 c.2](https://www.legislation.gov.uk/ukpga/1983/2); subsections 36(2A) and 36(2B) were inserted by section 17 and Sch. 3 para. 4(2) of the Greater London Authority Act [1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29).
+
+[^f00002]: Footnote: The powers conferred on the Secretary of State by section (2A) and (2B) were made exercisable concurrently by the Lord President of the Council and the Secretary of State by the Lord President of the Council Order 2010 ([S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837)).
+
+[^f00003]: Footnote: [2000 c.41](https://www.legislation.gov.uk/ukpga/2000/41)
+
+[^f00004]: Footnote: [S.I. 2007/3541](https://www.legislation.gov.uk/uksi/2007/3541)

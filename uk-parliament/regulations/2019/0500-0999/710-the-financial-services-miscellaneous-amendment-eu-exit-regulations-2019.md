@@ -1,0 +1,1187 @@
+---
+title: The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019
+id: uksi/2019/710
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2019-03-27'
+text_date: '2023-07-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/710
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/710/pdfs/uksiem_20190710_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/710/pdfs/uksi_20190710_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/710/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-07-11. See https://www.legislation.gov.uk/changes/affected/uksi/2019/710
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 710
+
+Exiting The European Union
+
+Financial Services
+
+The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019
+
+Made
+
+27th March 2019
+
+Coming into force in accordance with regulation 1
+
+A draft of these Regulations has been approved by a resolution of each House of Parliament in accordance with paragraph 1(3) of Schedule 7 to the European Union (Withdrawal) Act 2018 [^c23675351].
+
+The Treasury, in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, that Act, make the following Regulations.[^key-92ada96b88794e2076f7ef6965d3e6af]
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-1989df793df5021db5c5b89d51c6ce84]
+
+(1) These Regulations may be cited as the Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019.
+
+(2) Regulation 38 comes into force on the day before the day on which exit day falls.
+
+(3) Regulations 1 and 13 to 24 come into force immediately before exit day.
+
+(4) The other provisions in these Regulations come into force on exit day.
+
+## PART 2 — Amendment of primary legislation
+
+### 2. The Insolvency Act 1986[^key-46574f248052c7625496c182ee628df3]
+
+Omit sections 124B (petition for winding up of SE) and 124C (petition for winding up of SCE) of the Insolvency Act 1986 [^c23675361].
+
+### 3. The Financial Services and Markets Act 2000[^key-8e32bc1b73d0ee96260eb1ec973b741e]
+
+(1) The Financial Services and Markets Act 2000 [^c23675371] is amended as follows.
+
+(2) In section 425(1)(a) [^c23675381] (expressions relating to authorisation elsewhere in the single market) omit “ “EEA AIFM”,” and “ “EEA authorisation”,”.
+
+(3) In Part 1 of Schedule 3 [^c23675391] (defined terms) omit paragraphs 6 (EEA authorisation) and 11D (EEA AIFM).
+
+### 4. Income Tax Act 2007[^key-6aa9058a64069380814f47c0f28c530a]
+
+In section 886 of the Income Tax Act 2007 [^c23675401] (interest paid by recognised clearing houses etc.), in subsection (3), in the definition of “relevant entity”, omit paragraphs (c) and (f).
+
+### 5. Corporation Tax Act 2009[^key-382c0e8f540b05ea56a7792b2b7faad7]
+
+In section 697 of the Corporation Tax Act 2009 [^c23675411] (exceptions to section 696)—
+
+- (a) in subsection (1)(a), omit “, EEA central counterparty”;
+- (b) in subsection (6), omit “, EEA central counterparty”.
+
+## PART 3 — Amendment and revocation of secondary legislation
+
+### 6. Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-2151ad819dab2b72309141c1af0ce398][^key-f3218555eb9ce5e757edbd2cde78658c]
+
+In article 7 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001—
+
+- (a) in paragraph (2)—
+  - (i) at the end of sub-paragraph (c), insert “or”,
+  - (ii) in sub-paragraph (d) for “registered European lawyer” substitute “a Swiss lawyer who is a registered European lawyer”, and
+  - (iii) omit sub-paragraph (e) and the “or” which precedes it;
+- (b) in paragraph (3)—
+  - (i) at the end of sub-paragraph (c), omit “and”,
+  - (ii) at the end of sub-paragraph (d), insert “and”, and
+  - (iii) after sub-paragraph (d), insert—
+
+    > - (e) “Swiss lawyer” means a national of the United Kingdom or a Swiss national who—
+    >   - (i) immediately before IP completion day was authorised in Switzerland to pursue professional activities under the professional title of Avocat, Advokat, Rechtsanwalt, Anwalt, Fürsprecher, Fürsprech or Avvocato, or
+    >   - (ii) had started training towards but not yet obtained their professional qualifications before IP completion day in order to be authorised in Switzerland to pursue professional activities under one of the professional titles referred to in paragraph (i) but who completed their qualifications and were so authorised before the end of the period of four years beginning with IP completion day.
+
+### 7. The Financial Services and Markets Act 2000 (Exemption) Order 2001[^key-fc7ac6566270764278589e52362d76c3]
+
+(1) The Financial Services and Markets Act 2000 (Exemption) Order 2001 [^c23675451] is amended as follows.
+
+(2) In article 2, omit the definition of “credit institution”[^c23675461] and insert in the appropriate place—
+
+> “**qualifying credit institution**” has the meaning given by article 3 of the Regulated Activities Order [^c23675471];
+
+(3) In the Schedule in paragraph 40(3) [^c23675481], for “credit institution” substitute “ qualifying credit institution ”.
+
+### 8. The Building Societies Act 1986 (Modification of the Lending Limit and Funding Limit Calculations) Order 2004[^key-ce06ea0f89acced21721096155617fc5]
+
+In article 2(1) of the Building Societies Act 1986 (Modification of the Lending Limit and Funding Limit Calculations) Order 2004 [^c23675491], for the definition of “credit institution”, substitute—
+
+> “**credit institution**” means an undertaking the business of which is to take deposits or other repayable funds from the public and to grant credits for its own account;
+
+.
+
+### 9. The Financial Services and Markets Act 2000 (Prescribed Financial Institutions) Order 2013[^key-f405dce5510e43233ecdeaf9758d28b8]
+
+In article 1(2) of the Financial Services and Markets Act 2000 (Prescribed Financial Institutions) Order 2013 [^c23675501] omit the definition of “credit institution”.
+
+### 10. The Payment to Treasury of Penalties (Enforcement Costs) Order 2013[^key-4474bcc71404d1b789ce91f6d135c68b]
+
+(1) In article 2 of the Payment to Treasury of Penalties (Enforcement Costs) Order 2013 [^c23675511], omit paragraph (1)(i).
+
+(2) The omission of paragraph (1)(i) of article 2 does not affect the ability of the Financial Conduct Authority to deduct expenses incurred before IP completion day[^key-d11f4b610182b2af04bf27c3e89a271a] in connection with the exercise, or the consideration of the possible exercise, of its powers under regulation 5A of the Recognised Auction Platforms Regulations 2011 in accordance with paragraph 20(1) of Schedule 1ZA to the Financial Services and Markets Act 2000 [^c23675521].
+
+### 11. The Small and Medium Sized Business (Credit Information) Regulations 2015[^key-d94145a43ea66442fb7ce7d1d7614903]
+
+In regulation 7(3) of the Small and Medium Sized Business (Credit Information) Regulations 2015 [^c23675531], in sub-paragraph (b)—
+
+- (a) in paragraph (iv), after “elsewhere;” insert “ or ”;
+- (b) omit paragraph (vi), and the “or” preceding it.
+
+### 12. The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018[^key-ae3e291b6becece019c0b88bc286dda5]
+
+(1) The Financial Services and Markets Act 2000 (Benchmarks) Regulations 2018 [^c23675541] are amended as follows.
+
+(2) In regulation 2—
+
+- (a) in paragraph (1), for the definition of “third country” substitute—
+
+  > “**third country**” means a country other than the United Kingdom.
+
+  ;
+- (b) in paragraph (2), at the end of the definition of “senior management” insert “ as it had effect immediately before IP completion day[^key-2997eafebd9ba437036c6d32442f3383]”.
+
+(3) For the heading to regulation 3, substitute “ Retained direct EU legislation ”.
+
+(4) In regulation 3, for “directly applicable EU regulation” substitute “ retained direct EU legislation ”.
+
+(5) Omit regulation 4.
+
+(6) In regulation 8, in paragraphs (2), (3) and (5), for “an EU obligation” substitute “ a retained EU obligation ”.
+
+(7) In regulation 34, for paragraph (2) substitute—
+
+> (2) The FCA must determine the application within 90 working days of receipt of the completed application.
+
+(8) In regulation 35(1), for “outside the EU” substitute “ in a third country ”.
+
+(9) In regulation 61 [^c23675551]—
+
+- (a) in paragraph (1), after “does not”, the second time it occurs, insert “ , subject to paragraph (3), ”;
+- (b) after paragraph (2) insert—
+
+  > (3) Paragraph (1) does not apply if the benchmark may not be used by virtue of Article 51(1C) of the EU Benchmarks Regulation 2016.
+
+  .
+
+(10) In regulation 62—
+
+- (a) in paragraph (1), after “does not”, the second time it occurs, insert “ , subject to paragraph (3), ”;
+- (b) after paragraph (2) insert—
+
+  > (3) Paragraph (1) does not apply if the benchmark may not be used by virtue of Article 51(1C) of the EU Benchmarks Regulation 2016.
+
+### 13. The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019[^key-88077ba9850f1f24f7eed9615af7c7d7]
+
+In the Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019—
+
+- (a) in regulation 10(8)(b), omit paragraph (ii);
+- (b) in regulation 20(3)(a)(v), for paragraph (aa), substitute—
+
+  > - (aa) for paragraph (b) of the new definition of “UK AIFM” substitute—
+  >
+  >   > - (b) has its registered office in a third country but has been given permission by the FCA under Part 4A of the Act to carry on the regulated activity of managing an AIF.
+
+  ;
+- (c) in regulation 36(8)(c)(i), before subparagraph (aa) insert—
+
+  > - (zaa) for “EU AIFs” substitute “UK and EU AIFs;
+
+  .
+
+### 14. The Bank of England (Amendment) (EU Exit) Regulations 2018[^key-8e3f86a56634f008e70bdff47b806a54]
+
+In regulation 8 of the Bank of England (Amendment) (EU Exit) Regulations 2018 [^c23675561], omit paragraph (4).
+
+### 15. The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018[^key-b8efd21ee6254071e8a2096ff5af9c76]
+
+In regulation 8(b)(ii) of the Central Securities Depositories (Amendment) (EU Exit) Regulations 2018 [^c23675571], for “authorities competent for” substitute “ authorities competent ”.
+
+### 16. The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018[^key-c86e252ee0d78d726f1c26e97645ef97]
+
+(1) The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 [^c23675581] are amended as follows.
+
+(2) In regulation 4—
+
+- (a) in paragraph (3)(c), after “regulation)” insert “ that must be physically settled ”;
+- (b) in paragraph (4)—
+  - (i) in sub-paragraph (a)(i) and (ii), for “paragraph 6”, each time it occurs, substitute “ paragraphs 6 and 7 ”;
+  - (ii) for sub-paragraph (b), substitute—
+
+    > - (b) in Article 6—
+    >   - (i) in paragraphs 1 and 2, for “Section C(6) of Annex 1 to Directive 2014/65/EU” substitute “ paragraph 6 of Part 1 of Schedule 2 to this Order ”;
+    >   - (ii) in paragraph 3, for “Section C(6) of Annex 1 to Directive 2014/65/EU” substitute “ paragraphs 6 and 7 of Schedule 2 to this Order ”;
+  - (iii) in sub-paragraph (c), omit paragraph (iv);
+- (c) in paragraph (8), in new Schedule 3, in paragraph 6, for “paragraph 1(e)”, substitute “ paragraph 1(d) ”.
+
+(3) In regulation 6, for paragraph (b), substitute—
+
+> - (b) in paragraph (3)(b)—
+>   - (i) for “directly applicable EU regulation”, both times it occurs, substitute “ retained EU law ”;
+>   - (ii) in paragraph (i), at the beginning insert “ any UK legislation which was relied on by the United Kingdom before IP completion day[^key-8f951d252f42c1b6afa89937c0ba4049] to implement ”;
+
+.
+
+(4) In regulation 7(1)(s), in the new definition of “multilateral trading facility”—
+
+- (a) after “UK multilateral trading facility” insert “ or “UK MTF” ”;
+- (b) after “EU multilateral trading facility” insert “ or “EU MTF” ”.
+
+(5) In regulation 8(13)(a), omit “(“a more restrictive position limit”)”.
+
+(6) In regulation 15—
+
+- (a) after paragraph (3), insert—
+
+  > (3A) In the heading to regulation 47, omit “the markets in financial instruments directive or”.
+
+  ;
+- (b) in paragraph (5), in new regulation 47B(3)(b), for “standards” substitute “ obligations ”.
+
+(7) In regulation 18—
+
+- (a) in paragraph (1)(n), in the new definition of “senior management”, after “a market operator” insert “ (as defined in Article 2(1)(10) of the markets in financial instruments regulation) ”;
+- (b) after paragraph (2), insert—
+
+  > (3) In regulation 4—
+  >
+  > - (a) for the heading, substitute “ Retained EU law ”;
+  > - (b) in paragraph (1), for “directly applicable EU regulation” substitute “ retained EU law ”;
+  > - (c) in paragraph (2)(a), for “a directly applicable EU regulation” substitute “ any retained EU law ”.
+
+  .
+
+(8) In regulation 19—
+
+- (a) for paragraph (6), substitute—
+
+  > (6) In regulation 9(1)—
+  >
+  > - (a) in sub-paragraph (b), for “European Union” substitute “ United Kingdom ”;
+  > - (b) in sub-paragraph (c)(iii), for “directly applicable EU regulations” substitute “ retained EU law ”.
+
+  ;
+- (b) in paragraph (8), after sub-paragraph (b), insert—
+
+  > - (c) in paragraph (iv), for “a directly applicable EU regulation” substitute “any retained EU law.
+
+  .
+
+(9) For regulation 23, substitute—
+
+> **23. Miscellaneous**
+>
+> (1) In regulation 45(b), for “directly applicable EU regulations” substitute “ retained EU law ”.
+>
+> (2) Omit regulation 46.
+>
+> (3) In regulation 48, omit paragraph (2).
+
+.
+
+(10) In regulation 25—
+
+- (a) in paragraph (3), in the substituted paragraph 2D(a), for “ this Regulation as it applies in the EEA ” substitute “Regulation (EU) No 600/2014 of the European Parliament and of the Council on markets in financial instruments [^c23675591] as it has effect in EU law”;
+- (b) in paragraph (4), omit sub-paragraph (c);
+- (c) in paragraph (6)(a), for “Debt Management Office” substitute “ Treasury ”.
+
+(11) In regulation 27—
+
+- (a) in paragraph (2)(d), in the new paragraph 3D(a)(ii) for “this Regulation as it has effect in the European Union” substitute “ Regulation (EU) No 600/2014 of the European Parliament and of the Council on markets in financial instruments as it has effect in EU law ”;
+- (b) in paragraph (5)(c), in the new paragraph 2B(a)(ii), for “Article 13” substitute “ Article 16 ”.
+
+(12) In regulation 28(10)(b)(i), before “authorised” insert “ is ”.
+
+(13) In regulation 29(3)—
+
+- (a) in sub-paragraph (b), after “UK” insert “ , Gibraltar ”;
+- (b) in sub-paragraph (g)(i), after sub-paragraph (bb), insert—
+
+  > - (cc) in point (f), for “Member States” substitute “ the United Kingdom; ”;
+- (c) after sub-paragraph (h), insert—
+
+  > - (i) after paragraph 10, insert—
+  >
+  >   > **11.**
+  >   >
+  >   > For the purposes of paragraph 2—
+  >   >
+  >   > - (a) ‘Gibraltar trading venue’ means a Gibraltar regulated market, a Gibraltar multilateral trading facility or a Gibraltar organised trading facility;
+  >   > - (b) for the purposes of subparagraph (a)—
+  >   >   - (i) ‘Gibraltar regulated market’ means a regulated market which is authorised and functions regularly and in accordance with Part 3 of the Financial Services (Markets in Financial Instruments) Act 2018 of Gibraltar (as amended from time to time) [^c23675601];
+  >   >   - (ii) ‘Gibraltar multilateral trading facility’ means a multilateral system, operated by an investment firm or a market operator, which brings together multiple third-party buying and selling interests in financial instruments (in the system and in accordance with non-discretionary rules) in a way which results in a contract in accordance with Part 2 of the Financial Services (Markets in Financial Instruments) Act 2018 of Gibraltar (as amended from time to time);
+  >   >   - (iii) ‘Gibraltar organised trading facility’ means a multilateral system—
+  >   >     - (aa) which is not a regulated market or an MTF;
+  >   >     - (bb) in which multiple third-party buying and selling interests in bonds, structured finance products, emission allowances or derivatives are able to interact in the system in a way that results in a contract, in accordance with Part 2 of the Financial Services (Markets in Financial Instruments) Act 2018 of Gibraltar (as amended from time to time).
+
+(14) In regulation 30(7), in paragraph 2 of the substituted Article 34, for “ this Article as it applies in the European Union ” substitute “Article 34 of Regulation (EU) No 600/2014 of the European Parliament and of the Council on markets in financial instruments as it has effect in EU law”.
+
+(15) In regulation 33—
+
+- (a)[^key-019e86e492290867b6eb6e275c30f576] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in paragraph (2)(b)(ii), after “this Regulation”, insert “ , the first time it occurs ”.
+
+(16) In regulation 34, in new Article 50B(3)(b), for “standards” substitute “ obligations ”.
+
+(17) In regulation 37, in new Schedule 3, in paragraph 8(1)—
+
+- (a) after “regulated market” insert “ or other trading venue ”;
+- (b) for “requirements resulting” substitute “ requirements applicable to that trading venue which result ”;
+- (c) for “2004/65/EU” substitute “ 2014/65/EU ”.
+
+(18) In regulation 39—
+
+- (a) in paragraph (2)(d), in the substituted paragraph 5(a), for “ this Regulation as it applies in the EEA ” substitute “Commission Delegated Regulation (EU) 2017/565 supplementing Directive 2014/65/EU of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that directive [^c23675611] as it has effect in EU law”;
+- (b) in paragraph (5)(b), for “paragraph 1(c)” substitute “ paragraph 1(d) ”;
+- (c) in paragraph (6)(b) and (c), for “paragraph 6”, both times it occurs, substitute “ paragraphs 6 and 7 ”.
+- (d) in paragraph (7)—
+  - (i) in sub-paragraph (b), for “paragraphs, 1, 2 and 3” substitute “ paragraphs 1 and 2 ”;
+  - (ii) after sub-paragraph (b), insert—
+
+    > - (c) in paragraph 3, for “Section C(6) of Annex 1 to Directive 2014/65/EU” substitute “ paragraphs 6 and 7 of Part 1 of Schedule 2 to the Regulated Activities Order ”.
+
+(19) In regulation 41(3)(b), for “ “direct electronic access” substitute “ ‘direct electronic access’”.
+
+### 17. The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018[^key-dee0b1eb930301f67346e3b47ba5ccd6]
+
+In Schedule 1 to the Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 [^c23675621], omit paragraph 21(3).
+
+### 18. The Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019[^key-a0882f1315f69deca6a6d20d9758c3a1]
+
+In regulation 1 of the Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019 [^c23675631], at paragraph (2), for “on \[ date \]” substitute “ immediately before IP completion day[^key-5999311fe45105e5fe984295d18b5244]”.
+
+### 19. The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019[^key-d6d36709369948f3fbe5746958bd7650]
+
+(1) Regulation 147 of the Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 is amended as follows.
+
+(2) In paragraph (7), in the new paragraph (11A)—
+
+- (a) in subparagraph (b), for “equivalence regulations”, substitute “ an equivalence determination ”;
+- (b) in subparagraph (c), for “equivalence regulations” substitute “ equivalence determination ”.
+
+(3) In paragraph (8)(c)—
+
+- (a) for the new paragraph (c), substitute—
+
+  > - (c) “**equivalence determination**” means a determination made by the Treasury—
+  >   - (i) in regulations under Article 47.1 of the markets in financial instruments regulation and not revoked; or
+  >   - (ii) by direction under regulation 2 of the Equivalence Determinations for Financial Services and Miscellaneous Provisions (Amendment etc) (EU Exit) Regulations 2019 and not revoked;
+
+  ;
+- (b) for new sub-paragraph (d), substitute—
+
+  > - (d) a country is the subject of an equivalence determination if a period of more than three years has elapsed since—
+  >   - (i) the date on which the equivalence determination came into force, or
+  >   - (ii) where two or more equivalence determinations have been made in succession in relation to the country concerned, the date on which the first equivalence determination came into force;
+  > - (e) for the purposes of sub-paragraph (d), an equivalence determination is not made in succession to an earlier determination if the earlier determination ceased to have effect before the later determination came into force.
+
+### 20. The Financial Markets and Insolvency (Amendment and Transitional Provision) (EU Exit) Regulations 2019[^key-fe5692d44fdadc1be065066c1d8ac5ba]
+
+(1) The Financial Markets and Insolvency (Amendment and Transitional Provision) (EU Exit) Regulations 2019 [^c23675641] are amended as follows.
+
+(2) In regulation 5(3), after sub-paragraph (b), insert—
+
+> - (c) in sub-paragraph (b), for the word “contract” substitute “ rules ”.
+
+(3) In regulation 9—
+
+- (a) renumber the new regulation 27 inserted by that provision as paragraph (1);
+- (b) after the renumbered paragraph (1), insert—
+
+  > (2) Expressions used in sub-paragraphs (a) to (c) above have the meanings given to them in these Regulations as they were in force immediately before IP completion day[^key-590c1482514e4e79f2e34e5b16c7941f].
+
+(4) In regulation 10—
+
+- (a) for paragraph (b), substitute—
+
+  > - (b) in paragraph 5(2)—
+  >   - (i) for the first reference to “the system” substitute “ a system governed by the law of the United Kingdom ”;
+  >   - (ii) after “institution” insert “ whose head office is in the United Kingdom ”;
+- (b) in paragraph (d), before sub-paragraph (i), insert—
+
+  > - (ai) for the first reference to “the system” substitute “ a system governed by the law of the United Kingdom ”;
+- (c) renumber paragraph (e) as sub-paragraph (iv) in paragraph (d).
+
+(5) After regulation 18, insert—
+
+> **18A. Transitional provisions: bank stabilisation**
+>
+> (1) A temporarily designated system is to be treated as a “**designated settlement system**” for the purposes of section 48B (special bail-in provision) of the Banking Act 2009 [^c23675651].
+>
+> (2) An operator of a temporarily designated system is to be treated as an “**excluded person**” for the purposes of sections 70A to 70C (suspension of obligations, restriction of security interests, suspension of termination rights) of the Banking Act 2009 [^c23675661].
+
+.
+
+### 21. The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019[^key-d95ef896c17724a7fdf7c20dfa70129e]
+
+In the Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 [^c23675671]—
+
+- (a) in regulation 11(7), in the new definition of “financial counterparty”, for subparagraph (e), substitute—
+
+  > - (e) an occupational pension scheme within the meaning given in section 1(1) of the Pension Schemes Act 1993 [^c23675681] which is established in the United Kingdom;
+
+  .
+- (b) in regulation 80(1)(c)(ii), for “or paragraph 3 of” substitute “ , or paragraph 3 of Article 37, of ”.
+
+### 22. The Solvency 2 and Insurance (Amendment etc.) (EU Exit) Regulations 2019[^key-7acbd2c2ce55090c6826c4a4a455be67]
+
+In the Solvency 2 and Insurance (Amendment etc.) (EU Exit) Regulations 2019 [^c23675691] omit paragraphs (25) and (39) of regulation 11.
+
+### 23. The Credit Rating Agencies (Amendment, etc.) (EU Exit) Regulations 2019[^key-bd759f87e917c462bbde3faa82fd636e]
+
+In the Credit Rating Agencies (Amendment, etc.) (EU Exit) Regulations 2019 [^c23675701] omit regulation 64.
+
+### 24. The Equivalence Determinations for Financial Services and Miscellaneous Provisions (Amendment etc) (EU Exit) Regulations 2019[^key-87e9986131e39e16aaedc4acec2af29a]
+
+In regulation 2(2) of the Equivalence Determinations for Financial Services and Miscellaneous Provisions (Amendment etc) (EU Exit) Regulations 2019 [^c23675711], for sub-paragraph (b), substitute—
+
+> - (b) ceases to have effect on the date on which—
+>   - (i) it is revoked by a direction under paragraph (1) or by any other enactment; or
+>   - (ii) regulations made by the Treasury, which contain a determination to the same effect, come into force.
+
+### 25. Revocation of UK instruments[^key-ad67c3be567704a6da0cf279056ad895]
+
+The following instruments are revoked—
+
+- (a) the European Cooperative Society Regulations 2006 [^c23675721];
+- (b)[^key-fbd61690693beca0ce261cc0ad6636bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-ed207e83ad65f36c8ded32d855596ff5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Amendment of Retained EU Law
+
+### CHAPTER 1 — Amendments of Retained EU Law
+
+#### 26. Regulation (EU) No 648/2012[^key-d4d4d4fc40486927f74abb303cac6be3]
+
+In Article 88(1)(g) of Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories as[^key-6b23adcdd21ff59c8daaaf302ff4eec5] it forms part of retained EU law[^key-96af7e252b13295b3560b2227cd9fabb], for “Articles 65 and 66” substitute “ regulation 68 of the Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 ”.
+
+#### 27. Regulation (EU) No 575/2013[^key-7ed29e2bb61dc8944892c02b0e6aa4c4]
+
+(1) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 [^c23675751] is amended as follows.
+
+(2) In Article 4(1)—
+
+- (a) at point (37), for “the accounting standards to which an institution is subject under Regulation [(EC) No 1606/2002](https://www.legislation.gov.uk/eur/2002/1606)” substitute “ the accounting standards to which an institution is subject under section 403(1) of the Companies Act 2006 [^c23675761] ”;
+- (b) at point (77), for “the accounting standards to which an institution is subject under Regulation [(EC) No 1606/2002](https://www.legislation.gov.uk/eur/2002/1606)” substitute “ the accounting standards to which an institution is subject under section 403(1) of the Companies Act 2006 ”;
+- (c) at point (100), for “as applicable under Regulation [(EC) No 1606/2002](https://www.legislation.gov.uk/eur/2002/1606)” substitute “ as applicable under UK-adopted international accounting standards ”;
+- (d) after point (128F), insert—
+
+  > (128G) ‘UK-adopted international accounting standards’ has the meaning given by section 474(1) of the Companies Act 2006.
+
+(3) In Article 24(2), for “international accounting standards as applicable under Regulation [(EC) No 1606/2002](https://www.legislation.gov.uk/eur/2002/1606)” substitute “ UK-adopted international accounting standards ”.
+
+(4) In Article 99—
+
+- (a) for paragraph 2, substitute—
+
+  > **2.**
+  >
+  > Institutions subject to section 403(1) of the Companies Act 2006 and credit institutions other than those subject to that section that prepare their consolidated accounts in conformity with UK-adopted international accounting standards, must also report financial information.
+
+  ;
+- (b) in paragraph 3, for “international accounting standards as applicable under Regulation (EU) No 1606/2002”, substitute “ UK-adopted international accounting standards ”.
+
+(5) In Article 429(13), for “as applicable under Regulation [(EC) No 1606/2002](https://www.legislation.gov.uk/eur/2002/1606)” substitute “ as applicable under UK-adopted international accounting standards ” in both places it occurs.
+
+(6) In Article 457, for “including accounting standards based on Regulation [(EC) No 1606/2002](https://www.legislation.gov.uk/eur/2002/1606)” substitute “ including UK-adopted international accounting standards ”.
+
+(7) In Article 466, for “international accounting standards as applicable under Regulation [(EC) No 1606/2002](https://www.legislation.gov.uk/eur/2002/1606)” substitute “ UK-adopted international accounting standards ”.
+
+(8) In Article 467(2), in the third subparagraph, for “until the Commission has adopted a regulation on the basis of Regulation [(EC) No 1606/2002](https://www.legislation.gov.uk/eur/2002/1606) endorsing the International Financial Reporting Standard replacing IAS 39” substitute “ until the International Financial Reporting Standard replacing IAS 39 has been adopted under Part 2 of the International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 [^c23675771] ”.
+
+(9) In Article 473(1), for “international accounting standards adopted in accordance with the procedure laid down in Article 6(2) of Regulation [(EC) No 1606/2002](https://www.legislation.gov.uk/eur/2002/1606)” substitute “ UK-adopted international accounting standards ”.
+
+(10) In Article 473a(1), in the first subparagraph, for “international accounting standards adopted in accordance with the procedure laid down in Article 6(2) of Regulation [(EC) No 1606/2002](https://www.legislation.gov.uk/eur/2002/1606)” substitute “ UK-adopted international accounting standards ” in each place it occurs.
+
+#### 28. Commission Delegated Regulation (EU) 2015/35[^key-31634a4b890fb62b7802962381a562bb]
+
+(1) Commission Delegated Regulation (EU) 2015/35 of 10 October 2014 supplementing Directive [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138) of the European Parliament and of the Council on the taking-up and pursuit of the business of insurance and reinsurance (Solvency II) is amended as follows.
+
+(2) In Article 178a at the end insert—
+
+> **5.**
+>
+> For the purposes of paragraphs 3 and 4, Article 177 (in the version of this Regulation which was in force on 31 December 2018) continues to have effect notwithstanding its deletion by Article 1(3) of Commission Delegated Regulation (EU) 2018/1221, and has effect for those purposes with the following modifications—
+>
+> - (a) paragraph 2 is to be read as if—
+>   - (i) a reference to Regulation (EU) No 575/2013 were a reference to the version of that Regulation which was in force on 31 December 2018;
+>   - (ii) in point (b) “the EEA or” were omitted;
+>   - (iii) in point (h)(i)—
+>     - (aa) for “national law of the Member State where the loans were originated” there were substituted “ loans were originated in the United Kingdom and the law of the United Kingdom ”;
+>     - (bb) “, and that Member State has notified this law to the Commission and EIOPA” were omitted;
+>   - (iv) point (h)(ii) were omitted;
+>   - (v) in point (h)(iv) for the words from “agricultural” to “tracked” there were substituted “ tractors as defined in point (8) of Article 3 of Regulation (EU) No 167/2013 of the European Parliament and of the Council (as it had effect immediately before IP completion day[^key-c72f308962fd6baea7cde877c69b32bb]), powered two-wheelers or powered tricycles as defined in points (68) and (69) of Article 3 of Regulation (EU) No 168/2013 of the European Parliament and of the Council (as it had effect immediately before IP completion day) or tracked ”;
+>   - (vi) in points (r) and (s) for the words “countries that are not members of the Union”, both times it occurs, substitute “ a country other than the United Kingdom ”;
+>   - (vii) in point (t)—
+>     - (aa) the words from “and discloses information” to “stress tests” were omitted;
+>     - (bb) for “Union”, in both places it occurs, there were substituted “ United Kingdom ”;
+> - (b) paragraph 4 is to be read as if for “the entry into force of this Regulation” there were substituted “ 18 January 2015 ”; and
+> - (c) paragraph 5 is to be read as if, in points (a) and (c), for “the date of entry into force of this Regulation” there were substituted “ 18 January 2015 ”.
+
+.
+
+(3) In Article 180 omit paragraph 10a.
+
+#### 29. Regulation (EU) 2017/1131[^key-c69606206f292f5d41f4f56425d46e17]
+
+In Article 11 of Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds, in paragraph 1 insert the following subparagraphs at the end—
+
+> In the first subparagraph, in point (c) [^c23675781]—
+>
+> - (a) the reference to a simple, transparent and standardised (STS) securitisation includes a reference to a securitisation notified in accordance with Article 27 of the Securitisation Regulation before IP completion day[^key-c3974619453f2b7bdfe66412ce80a1e6], or before the expiry of a period of two years beginning with IP completion day, where the person responsible for the notification (the originator and sponsor or, in the case of an ABCP programme, the sponsor) is established in an EEA State; and
+> - (b) in relation to any securitisation so notified a reference to a numbered Article of the Securitisation Regulation is a reference to the Article so numbered of that Regulation as it had or has effect in relation to an EEA State at any time on and after the date of the notification and before the end of the period referred to in point (a).
+>
+> In the second subparagraph ‘the Securitisation Regulation’ means Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation.
+
+.
+
+#### 30. Commission Delegated Regulation (EU) 2017/2358[^key-7887a78945ce8487fe6d7b3f3885adb9]
+
+After Article 2A of the Commission Delegated Regulation (EU) 2017/2358 of 21 September 2017 supplementing Directive (EU) 2016/97 of the European Parliament and of the Council with regard to product oversight and governance requirements for insurance undertakings and insurance distributors [^c23675791], insert—
+
+> **Article 2B — Definitions**
+>
+> For the purposes of this Regulation, the following definitions shall apply:
+>
+> (1) ‘ancillary insurance intermediary’ means an ancillary insurance intermediary within the meaning given in article 4(5) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c23675801] which would require registration in accordance with Article 3 of the Insurance Distribution Directive if the United Kingdom were a member State in order to carry on insurance distribution activity in the United Kingdom, but does not include a person to whom regulation 47 of the EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 [^c23675811] applies;
+>
+> (2) ‘insurance distribution’ has the meaning given in article 4(5) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001;
+>
+> (3) ‘Insurance Distribution Directive’ means Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution (recast) [^c23675821];
+>
+> (4) ‘insurance distributor’ means an insurance intermediary, ancillary insurance intermediary or insurance undertaking;
+>
+> (5) ‘insurance intermediary’ means an insurance intermediary within the meaning given in article 33B(4) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c23675831] which would require registration in accordance with article 3 of the Insurance Distribution Directive if the United Kingdom were a member State in order to carry on insurance distribution activity in the United Kingdom but does not include a person to whom regulation 47 of the EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 applies;
+>
+> (6) ‘insurance undertaking’ means:
+>
+> - (a) an insurance undertaking within the meaning in section 417(1) of the Financial Services and Markets Act 2000 [^c23675841]; and
+> - (b) an undertaking which is:
+>   - (i) immediately before IP completion day[^key-26cdeb6cfb8bc686de64ccabcc6f256c], authorised in accordance with Article 14 of Directive [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138) of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) [^c23675851] to pursue the activity of direct insurance (within the meaning of Article 2 of that Directive); and
+>   - (ii) a person to whom regulations 8, 11, 28 or 34 of the EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 apply.
+
+.
+
+#### 31. Commission Delegated Regulation (EU) 2017/2359[^key-9c1aba5c81bf163aeb3810be35881f04]
+
+In Article 2 of Commission Delegated Regulation (EU) 2017/2359 of 21 September 2017 supplementing Directive (EU) 2016/97 of the European Parliament and of the Council with regard to information requirements and conduct of business rules applicable to the distribution of insurance-based investment products, after subparagraph (5) [^c23675861] insert—
+
+> (6) ‘Insurance Distribution Directive’ means Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution (recast);
+>
+> (7) ‘insurance intermediary’ means an insurance intermediary within the meaning given in article 33B(4) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 which would require registration in accordance with Article 3 of the Insurance Distribution Directive if the United Kingdom were a member State in order to carry on insurance distribution activity in the United Kingdom but does not include a person to whom regulation 47 of the EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 applies;
+>
+> (8) ‘insurance undertaking’ means:
+>
+> - (a) an insurance undertaking within the meaning in section 417(1) of the Financial Services and Markets Act 2000; and
+> - (b) an undertaking which is:
+>   - (i) immediately before IP completion day[^key-4811d4801e78f857b7a1f5b27cf5b57c], authorised in accordance with Article 14 of Directive [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138) of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance to pursue the activity of direct insurance (Solvency II) (within the meaning of Article 2 of that Directive); and
+>   - (ii) a person to whom regulations 8, 11, 28 or 34 of the EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 applies.
+
+.
+
+#### 32. Regulation (EU) 2017/2402[^key-0ce3ee4c31934dd2df256083de6ecb8f]
+
+In Article 43(5) of Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation, and amending Directives [2009/65/EC](https://www.legislation.gov.uk/eudr/2009/65), [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138) and 2011/61/EU and Regulations [(EC) No. 1060/2009](https://www.legislation.gov.uk/eur/2009/1060) and (EU) No. 648/2012, after the second subparagraph [^c23675871] insert the following subparagraph—
+
+> For the purposes of this paragraph—
+>
+> - (a) Article 256 of Delegated Regulation (EU) 2015/35 continues to have effect notwithstanding its deletion by Article 1(7) of Commission Delegated Regulation (EU) 2018/1221; and
+> - (b) for the purposes of the application by point (a) of paragraph 3(f) of Article 256, Article 254 continues to have effect notwithstanding its deletion by Article 1(7) of Commission Delegated Regulation (EU) 2018/1221, and has effect for those purposes with the following modifications—
+>   - (i) paragraph 1 is to be read as if for “Article 135(2)(a) of Directive [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138)” there were substituted “rule 6.1 of the Investments Part of the rulebook published by the PRA containing rules made by the PRA under the 2000 Act (as the rulebook has effect on IP completion day[^key-b263364b279bbbd00041ce2203bd8814]);
+>   - (ii) paragraph 2(b) is to be read as if for “Article 242(12)” there were substituted “ Article 242(15) ”.
+
+.
+
+### CHAPTER 2 — Revocations of Retained EU law
+
+#### 33. Revocation of EU Regulations[^key-4968f8489e22fc283517459d3b454502]
+
+The following instruments are revoked—
+
+- (a) Council Regulation [(EC) No 1435/2003](https://www.legislation.gov.uk/eur/2003/1435) of 22 July 2003 on the Statute for a European Cooperative Society;
+- (b)[^key-11962649df4d7e59f6e2ef6095f241ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) Council Regulation (EU) No 407/2010 of 11 May 2010 establishing a European financial stabilisation mechanism;
+- (d) Council Regulation (EU) No 1096/2010 of 17 November 2010 conferring specific tasks upon the European Central Bank concerning the functioning of the European Systemic Risk Board;
+- (e) Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions;
+- (f) Regulation (EU) No 468/2014 of the European Central Bank of 16 April 2014 establishing the framework for cooperation within the Single Supervisory Mechanism between the European Central Bank and national competent authorities and with national designated authorities;
+- (g) Regulation (EU) No 673/2014 of the European Central Bank of 2 June 2014 concerning the establishment of a Mediation Panel and its Rules of Procedure;
+- (h) Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010;
+- (i) Regulation (EU) No 1163/2014 of the European Central Bank of 22 October 2014 on supervisory fees;
+- (j) Regulation (EU) 2015/534 of the European Central Bank of 17 March 2015 on reporting of supervisory financial information;
+- (k) Regulation (EU) 2016/445 of the European Central Bank of 14 March 2016 on the exercise of options and discretions available in Union law;
+- (l) Regulation (EU) 2017/1538 of the European Central Bank of 25 August 2017 amending Regulation (EU) 2015/534 on reporting of supervisory financial information;
+- (m) Regulation (EU) 2017/1539 of the European Central Bank of 25 August 2017 laying down the date of application of Regulation (EU) 2017/1538 amending Regulation (EU) 2015/534 on reporting of supervisory financial information to less significant supervised entities which are subject to national accounting frameworks;
+- (n) Regulation (EU) 2018/1845 of the European Central Bank of 21 November 2018 on the exercise of the discretion under Article 178(2)(d) of Regulation (EU) No 575/2013 in relation to the threshold for assessing the materiality of credit obligations past due.
+
+#### 34. Revocation of EU Level 2 regulations[^key-25af7b94baf955f7fe7234940388ac45]
+
+The following instruments are revoked—
+
+- (a) Council Implementing Regulation (EU) 2015/81 of 19 December 2014 specifying uniform conditions of application of Regulation (EU) No 806/2014 of the European Parliament and of the Council with regard to ex ante contributions to the Single Resolution Fund;
+- (b) Commission Delegated Regulation (EU) 2016/451 of 16 December 2015 laying down general principles and criteria for the investment strategy and rules for the administration of the Single Resolution Fund;
+- (c) Commission Delegated Regulation (EU) 2017/747 of 17 December 2015 supplementing Regulation (EU) No 806/2014 of the European Parliament and of the Council with regard to the criteria relating to the calculation of ex-ante contributions, and on the circumstances and conditions under which the payment of extraordinary ex post contributions may be partially or entirely deferred;
+- (d) Commission Delegated Regulation (EU) 2017/2361 of 14 September 2017 on the final system of contributions to the administrative expenditures of the Single Resolution Board;
+- (e) Commission Implementing Regulation (EU) 2018/1627 of 9 October 2018 amending Implementing Regulation (EU) No 680/2014 as regards prudent valuation for supervisory reporting;
+- (f) Commission Implementing Regulation (EU) 2018/1889 of 4 December 2018 on the extension of the transitional periods related to own funds requirements for exposures to central counterparties set out in Regulations (EU) No 575/2013 and (EU) No 648/2012 of the European Parliament and of the Council.
+
+#### 35. Revocation of EU Decisions[^key-e0e5eaf3142a5e5734ccff6d34ad1434]
+
+The following instruments are revoked—
+
+- (a) Council Implementing Decision of 16 December 2013 implementing Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions;
+- (b) Council Implementing Decision of 11 February 2014 implementing Regulation (EU) No 1024/2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions;
+- (c) Council Implementing Decision of 19 December 2014 on the appointment of the Chair, the Vice-Chair and the further full-time members of the Single Resolution Board;
+- (d) Decision (EU) 2016/1507 of the European Parliament of 28 April 2016 on discharge in respect of the implementation of the budget of the European Banking Authority for the financial year 2014;
+- (e) Decision (EU) 2016/1509 of the European Parliament of 28 April 2016 on the closure of the accounts of the European Banking Authority for the financial year 2014;
+- (f) Council Decision (EU) 2016/228 of 14 July 2015 on the resolution procedure;
+- (g) Decision (EU) 2017/1654 of the European Parliament of 27 April 2017 on discharge in respect of the implementation of the budget of the European Banking Authority for the financial year 2015;
+- (h) Decision (EU) 2017/1656 of the European Parliament of 27 April 2017 on the closure of the accounts of the European Banking Authority for the financial year 2015;
+- (i) Council Implementing Decision (EU) 2017/2437 of 18 December 2017 on the renewal of the term of office of the Chair of the Single Resolution Board;
+- (j) Council Implementing Decision (EU) 2018/463 of 19 March 2018 on the appointment of a member of the Single Resolution Board;
+- (k) Decision (EU) 2018/1361 of the European Parliament of 18 April 2018 on discharge in respect of the implementation of the budget of the European Banking Authority for the financial year 2016;
+- (l) Decision (EU 2018/1363 of the European Parliament of 18 April 2018 on the closure of the accounts of the European Banking Authority for the financial year 2016;
+- (m) Decision (EU) 2018/1382 of the European Parliament of 18 April 2018 on discharge in respect of the implementation of the budget of the European Insurance and Occupational Pensions Authority for the financial year 2016;
+- (n) Decision (EU) 2018/1384 of the European Parliament of 18 April 2018 on the closure of the accounts of the European Insurance and Occupational Pensions Authority for the financial year 2016;
+- (o) Council Implementing Decision (EU) 2018/1958 of 6 December 2018 on the appointment of the Chair of the ECB Supervisory Board.
+
+## PART 5 — Transitional and saving provisions
+
+### 36. Transitional provision: insurance business transfer schemes[^key-5ae4e2c99dd44cb2db4ea8a3e7c42ee8]
+
+The Schedule makes transitional provision in relation to insurance business transfer schemes under Part 7 of the Financial Services and Markets Act 2000 [^c23675881].
+
+### 37. Transitional provision: references to “qualifying EU provision” etc.[^key-31a12e0432ace5ace45a7045efb7ca9d]
+
+(1) Except where the contrary intention is stated, a relevant amendment does not—
+
+- (a) affect the previous operation of the original operative provision, or anything done under, or associated with, that provision;
+- (b) affect any right, privilege, obligation or liability acquired, accrued or incurred under, or in association with, the original operative provision;
+- (c) affect any penalty, punishment, or other measure incurred or imposed in respect of any infringement of, or offence committed in respect of either the original operative provision or any associated provision;
+- (d) affect any investigation, legal proceeding or remedy in respect of any right, privilege, obligation, liability, penalty, punishment, or other measure associated with the original operative provision,
+
+and any such investigation, legal proceeding, remedy or power may be instituted, continued, enforced, or exercised and any such penalty, punishment or other measure may be incurred or imposed, as if the relevant amendment had not been made.
+
+(2) For the purposes of this regulation—
+
+- “**operative provision**” means a provision amended by a relevant amendment,
+- “**original operative provision**” means the operative provision as in force on the day before the relevant amendment came into force, and
+- “**relevant amendment**” means—
+  - (a) provision in regulations made under the European Union (Withdrawal) Act 2018 which provides that for references to “qualifying EU provision” there are substituted “ qualifying provision ”, where those references are in the Financial Services and Markets Act 2000, or in subordinate legislation made by the Treasury under that Act, or
+  - (b) regulation 45 (section 168 (appointment of persons to carry out investigations in particular cases)) or 46 (section 169 (investigations etc. in support of overseas regulator) of the Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 [^c23675891].
+
+### 38. Transitional provision: recognition of overseas investment exchanges[^key-935db99940335284979cb65785d2a7d9]
+
+(1) Where an application under section 287(1) of the Financial Services and Markets Act 2000 [^c23675901] (application by an investment exchange) is made, and the conditions in paragraph (2) are satisfied, the requirement in section 292(3)(d) of that Act [^c23675911] (overseas investment exchanges and overseas clearing houses) does not apply to the determination of the application.
+
+(2) The conditions in this paragraph are that the application is—
+
+- (a) made by an EEA market operator at any time before IP completion day[^key-bda15b04cd4b26b7c35ab2657d05cf7d], and
+- (b) determined by the Financial Conduct Authority—
+  - (i) on or after the day on which this regulation comes into force, and
+  - (ii) before two years beginning with IP completion day[^key-71fe0673327380b4e4325892da49bc23].
+
+(3) Where a recognition order is made by virtue of paragraph (1), section 292(5)(c) of the Financial Services and Markets Act 2000 does not apply.
+
+(4) Paragraph (3) ceases to have effect after the period of two years beginning with IP completion day[^key-fdaf99357c311d177733958ca2cf9a21].
+
+(5) In this regulation—
+
+- “**EEA market operator**” means a person who is authorised in accordance with Directive 2014/65/EU of the European Parliament and of the Council on markets in financial instruments [^c23675921] (as that Directive has effect in EU law) to manage or operate the business of a regulated market, and may be the regulated market itself, whose home state is an EEA State other than the United Kingdom, and
+- “**regulated market**” has the meaning given in Article 2(13) of Regulation (EU) No. 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No. 648/2012 as that Regulation forms part of domestic law under section 3 of the European Union (Withdrawal) Act 2018.
+
+### 39. Transitional provisions: central securities depositories[^key-d0390c51f5c6c3ef95eb0f881aaf66d5]
+
+(1) A relevant CSD is to be treated as a relevant entity for the purposes of section 886 of the Income Tax Act 2007 for the period specified in paragraph (3).
+
+(2) A relevant CSD is to be treated as a market infrastructure body for the purposes of the Investment Bank Special Administration Regulations 2011 [^c23675931] for the period specified in paragraph (3).
+
+(3) The period begins onIP completion day[^key-a440db019eb909751bd6e16e33eaba7d] and ends—
+
+- (a) where the relevant CSD makes an application under Article 25(4) of the CSD Regulation on or after IP completion day and before the end of the period applicable in the relevant CSD's case under Article 69(1) of that Regulation, immediately after the determination of that application; or
+- (b) where the relevant CSD does not make an application under Article 25(4) of the CSD Regulation on or after IP completion day and before the end of the period applicable in the relevant CSD's case under Article 69(1) of that Regulation, immediately after the end of that period.
+
+(4) In this regulation—
+
+- “**the CSD Regulation**” means Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories;
+- “**relevant CSD**” means an entity which immediately before IP completion day[^key-cc56d30befb97cc1148e0e8f3224f1c5] was—
+  - (a) an EEA CSD within the meaning of section 285(1)(f) [^c23675941] of the Financial Services and Markets Act 2000 [^c23675951] (as it had effect immediately before exit day); or
+  - (b) a third country CSD within the meaning of section 285(1)(g) of that Act (as it had effect immediately before IP completion day).
+
+### 40. Transitional provision: the Consumer Credit (Amendment) (EU Exit) Regulations 2018[^key-796f4333439bbe9644cd4d3bf3f283c7]
+
+At the end of the Consumer Credit (Amendment) (EU Exit) Regulations 2018 [^c23675961], insert—
+
+> **6. Transitional provisions**
+>
+> (1) For a period of five months beginning on IP completion day[^key-15d34f4a9b9fce5e737b4b2736228b07] the Consumer Credit (Disclosure of Information) Regulations 2010 [^c23675971] (“**the 2010 Regulations**”), as amended by regulation 3 of these Regulations, are subject to the modifications specified in this regulation.
+>
+> (2) Information is, for the purposes of regulation 8(1), to be treated as being disclosed by means of the form contained in Schedule 1 where the information is disclosed in the form specified in Schedule 1 to the 2010 Regulations with the modifications specified in paragraph (4).
+>
+> (3) The right conferred by regulation 9(2) is to be construed accordingly.
+>
+> (4) The modifications referred to in paragraph (2) are that—
+>
+> - (a) the form has at the beginning as a heading “(Standard European Consumer Credit Information)”; and
+> - (b) in table 5, in section (a), in the first column, in the entry commencing “The creditor's representative” for “the United Kingdom” substitute “ your Member State of residence ”.
+>
+> (5) Information is, for the purposes of regulation 11(1)(a), to be treated as being disclosed by means of the form set out in Schedule 3 where disclosure is made by means of the form set out in Schedule 3 to the 2010 Regulations with the following modification.
+>
+> (6) This modification is that in table 5, in section (a), in the first column, in the entry commencing “The creditor's representative” for “the UK” substitute “ \[the UK\] \[your Member State of residence\] ”.
+
+.
+
+### 41. Transitional provision: group supervision[^key-362802d99298454792a9b1cf4584d11b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Rebecca Harris
+
+Craig Whittaker
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## SCHEDULE — Transitional provision: insurance business transfer schemes
+
+Regulation 36
+
+### 1. Interpretation[^key-ee52aaa2d73900fbee08d837dbe82a10]
+
+(1) In this Schedule—
+
+- “**the 2001 Regulations**” means the Financial Services and Markets Act 2000 (Control of Business Transfers) (Requirements on Applicants) Regulations 2001 [^c23676001];
+- “**the 2001 Order**” means the Financial Services and Markets Act 2000 (Control of Business Done at Lloyd's) Order 2001 [^c23676011];
+- “**the Act**” means the Financial Services and Markets Act 2000;
+- “**transitional insurance business transfer scheme**” means an insurance business transfer scheme which satisfies both of the following conditions—
+  - (a) Condition 1 is that, before exit day, the relevant fee has been paid;
+  - (b) Condition 2 is that a person has, before IP completion day[^key-1cd00bcc4691e2c5293be47ca1b7ff62], been nominated or approved under section 109(2)(b) of the Act (nomination or approval of person to make scheme report by appropriate regulator) [^c23676021].
+
+(2) In Condition 1 of the definition of “transitional insurance business transfer scheme” in sub-paragraph (1) the “**relevant fee**” means the fee required to be paid by a person applying for an insurance business transfer scheme under Part 7 of the Act under any provision of the Fees Part of the rulebook made by the PRA under the Act in force immediately before IP completion day[^key-d4a94cb37db97fa38275b2c715abee73].
+
+### 2. Orders sanctioning transitional insurance business transfer schemes[^key-56e105a8a5c1f6277864abf3409cc8ce]
+
+An order may only be made under section 111 (sanction of the court for business transfer schemes) of the Act sanctioning a transitional insurance business transfer scheme within the period of two years beginning with IP completion day[^key-f910e6300295fe1e27cc59666e3458a9].
+
+### 3. Modification of legislation[^key-8e3be7541d138310bb2c10662fa6dca7]
+
+The amendments made by regulations 32, 33, 105 to 107, 183 and 184 of the Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 [^c23676031] do not apply in relation to a transitional insurance business transfer scheme.
+
+**4.**[^key-3d988b5d2faf0c33b97aef1ed40d4b2b] In relation to a transitional insurance business transfer scheme—
+
+- (a) the Act is modified in accordance with paragraphs 6 and 7;
+- (b) the 2001 Regulations are modified in accordance with paragraph 8;
+- (c) the 2001 Order is modified in accordance with paragraph 9.
+
+**5.**[^key-bc209c8d17f0532696a1c3fc0b161641] (1) In the following modifications a “**relevant person**” means a person to whom one of the following regulations of the 2018 Regulations applies—
+
+- (a) regulation 8;
+- (b) regulation 11;
+- (c) regulation 28;
+- (d) regulation 34.
+
+(2) In sub-paragraph (1) “**the 2018 Regulations**” means the EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 [^c23676041].
+
+### 6. Modifications to the Act: Part 7 and Schedule 12[^key-b864180f929d9bef8d52c2d0f33e910f]
+
+(1) Part 7 of the Act (control of business transfers) is modified as follows.
+
+(2) In section 105 (insurance business transfer schemes)—
+
+- (a) subsection (1)(b) is to be read as if after “EEA State” there were inserted “ or in the United Kingdom ”;
+- (b) subsection (2) [^c23676051] is to be read as if—
+  - (i) in paragraph (a) for “member States” there were substituted “ relevant States (and a “relevant State” is a member State or the United Kingdom) ”;
+  - (ii) in paragraph (b) for “an EEA firm falling within paragraph 5(d) of Schedule 3 and qualifying for authorisation under that Schedule” there were substituted “ a qualifying relevant person ”;
+  - (iii) paragraph (c) for “an EEA firm” there were substituted “ a relevant person ”;
+- (c) after subsection (2), the section is to be read as if there were inserted—
+
+  > (2A) In subsection (2)(b) “**qualifying relevant person**” means a relevant person which is an undertaking pursuing the activity of direct insurance (within the meaning of Article 2 of the Solvency 2 Directive [^c23676061]) which has received authorisation under Article 14 of that directive from its home state regulator.
+  >
+  > (2B) In subsection (2A) “**home state regulator**” means the competent authority of an EEA State in relation to the qualifying relevant person concerned; and “**competent authority**” is to be construed in accordance with the Solvency 2 Directive.
+
+  ;
+- (d) subsection (3) [^c23676071] is to be read as if—
+  - (i) Case 2 were omitted;
+  - (ii) in Case 3—
+    - (aa) in paragraph (b) for “(none of which is an EEA State)” there were substituted “ outside the United Kingdom ”;
+    - (bb) in paragraph (b) for “an EEA State”, in the second place it occurs, there were substituted “ the United Kingdom ”;
+    - (cc) in paragraph (c) for “other than an EEA State” there were substituted “ outside the United Kingdom ”.
+
+(3) Section 112 (effect of order sanctioning business transfer scheme) subsection (9) [^c23676081] is to be read as if for “an EEA firm” there were substituted “ a relevant person ”.
+
+(4) In section 114 [^c23676091] (rights of certain policy holders)—
+
+- (a) subsection (1)(a) is to be read as if for “an EEA firm qualifying for authorisation under Schedule 3” there were substituted “ a relevant person ”;
+- (b) subsection (1)(c) is to be read as if “other than the United Kingdom” were omitted.
+
+(5) In section 114A (notice of transfer of reinsurance contracts) [^c23676101]—
+
+- (a) subsection (1)(a) is to be read as if for “an EEA firm qualifying for authorisation under Schedule 3” there were substituted “ a relevant person ”;
+- (b) subsection (1)(c) is to be read as if “other than the United Kingdom” were omitted.
+
+**7.**[^key-2d8ba9918fa9d1eb1a15c13bf04f5016] (1) Schedule 12 to the Act (transfer schemes: certificates) is modified as follows.
+
+(2) In paragraph 1 [^c23676111] (insurance business transfer schemes)—
+
+- (a) sub-paragraphs (2)(a), (2A)(a), (3)(a), (4)(a) and (5)(a) are to be read as is for “has received authorisation” there were substituted “ had, immediately before IP completion day[^key-ba396433d16debe70fd341f5123feadf], received authorisation ”;
+- (b) sub-paragraphs (2)(b), (2A)(b), (3)(c), (4)(c) and (5)(b) are to be read as if “other than the United Kingdom” were omitted.
+
+(3) In paragraph 2 (certificates as to margin of solvency)—
+
+- (a) sub-paragraph (6) [^c23676121] is to be read as if for paragraph (a) there were substituted—
+
+  > - (a) if the transferee is a person who, immediately before IP completion day[^key-919629363bc2cb1cc05143efabe76008], was an EEA firm falling within paragraph 5(d) or (da) of Schedule 3, its home state regulator;
+
+  ;
+- (b) sub-paragraph (6)(c) is to be read as if after “Schedule 4”, in both places it occurs, there were inserted “ immediately before IP completion day[^key-4ff2da1cac388111ea87098f94d70347] ”;
+- (c) after sub-paragraph (6), the paragraph is to be read as if there were inserted—
+
+  > (6A) In sub-paragraph (6)(a) “**home state regulator**” means the competent authority of an EEA State in relation to the person concerned; and “**competent authority**” is to be construed in accordance with the EU instrument by virtue of which, immediately before IP completion day[^key-1572954016b0263058ca038739e77b66], the person derived authorisation to carry on a regulated activity in the United Kingdom.
+
+  ;
+- (d) sub-paragraph (9) is to be read as if after “agency which” there were inserted “ is not a UK authorised person as defined in section 105(8) and ”.
+
+(4) Paragraph 3 [^c23676131] (certificates as to consultation) is to be read as if the paragraph becomes sub-paragraph (1) and after sub-paragraph (1) there is inserted—
+
+> (2) In paragraph (1) “**host State regulator**” means the host state regulator, as defined in paragraph 11 of Schedule 3, immediately before IP completion day[^key-d13737726f05c1285cf8775c5f305e3c].
+
+(5) Paragraph 3A [^c23676141] (certificates as to consent) is to be read as if “other than the United Kingdom” were omitted.
+
+### 8. Modifications to the 2001 Regulations[^key-0365106e89a9fc09e2fd0aa2072b2673]
+
+In regulation 3 [^c23676151] of the 2001 Regulations (transfer of insurance business) paragraph (2)(a)(iii) and (iv) is to be read as if “other than the United Kingdom” was omitted in both places it occurs.
+
+### 9. Modifications to 2001 Order[^key-95913d42d97b6ca73ba1ad680c3bd69b]
+
+(1) The 2001 Order [^c23676161] is modified as follows.
+
+(2) Articles 3 and 5(2) and (2A) are to be read as if the references to the Act were read as references to the Act as modified by this Schedule.
+
+(3) Article 4(a) is to be read as if after “EEA State” there were inserted “ or the United Kingdom ”.
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers in section 8 of the European Union (Withdrawal) Act 2018 (c.16) in order to address failures of retained EU law to operate effectively and other deficiencies arising from the withdrawal of the United Kingdom from the European Union (and in particular, the deficiencies under paragraphs (a), (d), (e) and (g) of section 8(2)). Part 2 of the Regulations amends the Insolvency Act 1986 (c. 45), the Financial Services and Markets Act 2000 (c. 8), the Income Tax Act 2007 (c. 3) and the Corporation Tax Act 2009 (c. 4). Part 3 amends secondary legislation relating to financial services, and revokes the European Cooperative Society Regulations 2006, the Recognised Auction Platforms Regulations 2011 and the Community Emissions Trading Scheme (Allocation of Allowances for Payment) Regulations 2012. Part 4 amends retained EU law, and revokes a number of EU Regulations and Decisions. Part 5 makes transitional provision in relation to insurance business transfer schemes, qualifying EU provisions, central securities depositories, the Consumer Credit (Amendment) (EU Exit) Regulations 2018 and group supervision.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^c23675351]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-92ada96b88794e2076f7ef6965d3e6af]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^key-1989df793df5021db5c5b89d51c6ce84]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+
+[^key-46574f248052c7625496c182ee628df3]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23675361]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Section 124B was inserted by [S.I. 2004/2326](https://www.legislation.gov.uk/uksi/2004/2326) and section 124C was inserted by [S.I. 2006/2078](https://www.legislation.gov.uk/uksi/2006/2078) and amended by [S.I. 2013/496](https://www.legislation.gov.uk/uksi/2013/496).
+
+[^key-8e32bc1b73d0ee96260eb1ec973b741e]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23675371]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^c23675381]: Marginal citation: Section 425(1)(a) was substituted by [S.I. 2003/2066](https://www.legislation.gov.uk/uksi/2003/2066) and amended by [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773). There are other amendments but none is relevant.
+
+[^c23675391]: Marginal citation: Paragraph 6 was substituted by [S.I. 2003/1473](https://www.legislation.gov.uk/uksi/2003/1473) and was amended by [S.I. 2012/996](https://www.legislation.gov.uk/uksi/2012/996) and 2018/546. Paragraph 11D was inserted by [S.I. 2001/1773](https://www.legislation.gov.uk/uksi/2001/1773).
+
+[^key-6aa9058a64069380814f47c0f28c530a]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23675401]: Marginal citation: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3). Section 886 was amended by the [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [paragraph 24](https://www.legislation.gov.uk/ukpga/2007/11/paragraph/24) of Schedule 14, and by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504) and 2017/1064.
+
+[^key-382c0e8f540b05ea56a7792b2b7faad7]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23675411]: Marginal citation: [2009 c. 4](https://www.legislation.gov.uk/ukpga/2009/4). Section 697 was amended by the [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8) paragraph 93 of Schedule 8, and by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504) and 2017/1064.
+
+[^key-2151ad819dab2b72309141c1af0ce398]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
+
+[^key-f3218555eb9ce5e757edbd2cde78658c]: Textual amendment: Reg. 6 substituted (31.12.2020 immediately before IP completion day) by [The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (S.I. 2020/1342)](https://www.legislation.gov.uk/uksi/2020/1342), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/1/3), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/19) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/13))
+
+[^key-fc7ac6566270764278589e52362d76c3]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23675451]: Marginal citation: [S.I. 2001/1201](https://www.legislation.gov.uk/uksi/2001/1201).
+
+[^c23675461]: Marginal citation: The definition of “credit institution” was inserted by [S.I. 2007/125](https://www.legislation.gov.uk/uksi/2007/125).
+
+[^c23675471]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), as amended by the [Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632).
+
+[^c23675481]: Marginal citation: Sub-paragraph (3) was inserted by [S.I. 2007/125](https://www.legislation.gov.uk/uksi/2007/125). There are amendments to this sub-paragraph but none is relevant.
+
+[^key-ce06ea0f89acced21721096155617fc5]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23675491]: Marginal citation: [S.I. 2004/3200](https://www.legislation.gov.uk/uksi/2004/3200); amended by [S.I. 2006/3221](https://www.legislation.gov.uk/uksi/2006/3221), [S.I](https://www.legislation.gov.uk/uksi/2006/3221/section/I). 2011/99 and 2013/3115.
+
+[^key-f405dce5510e43233ecdeaf9758d28b8]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23675501]: Marginal citation: [S.I. 2013/165](https://www.legislation.gov.uk/uksi/2013/165), amended by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115).
+
+[^key-4474bcc71404d1b789ce91f6d135c68b]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23675511]: Marginal citation: [S.I. 2013/418](https://www.legislation.gov.uk/uksi/2013/418). Article 2 has been amended but none is relevant.
+
+[^key-d11f4b610182b2af04bf27c3e89a271a]: Textual amendment: Words in reg. 10(2) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/a)
+
+[^c23675521]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Paragraph 20(4) was inserted by paragraph 4 of Schedule 10 to the [Financial Services (Banking Reform) Act 2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33).
+
+[^key-d94145a43ea66442fb7ce7d1d7614903]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23675531]: Marginal citation: [S.I. 2015/1945](https://www.legislation.gov.uk/uksi/2015/1945). Paragraph (3)(b) has been amended by [S.I. 2017/80](https://www.legislation.gov.uk/uksi/2017/80).
+
+[^key-ae3e291b6becece019c0b88bc286dda5]: Commencement: Reg. 12 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+
+[^c23675541]: Marginal citation: [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135).
+
+[^key-2997eafebd9ba437036c6d32442f3383]: Textual amendment: Words in reg. 12(2)(b) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/b)
+
+[^c23675551]: Marginal citation: Regulation 61 is amended by [S.I. 2018/204](https://www.legislation.gov.uk/uksi/2018/204).
+
+[^key-88077ba9850f1f24f7eed9615af7c7d7]: Commencement: Reg. 13 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+
+[^key-8e3f86a56634f008e70bdff47b806a54]: Commencement: Reg. 14 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+
+[^c23675561]: Marginal citation: [S.I. 2018/1297](https://www.legislation.gov.uk/uksi/2018/1297)
+
+[^key-b8efd21ee6254071e8a2096ff5af9c76]: Commencement: Reg. 15 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+
+[^c23675571]: Marginal citation: [S.I. 2018/1320](https://www.legislation.gov.uk/uksi/2018/1320).
+
+[^key-c86e252ee0d78d726f1c26e97645ef97]: Commencement: Reg. 16 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+
+[^c23675581]: Marginal citation: [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).
+
+[^key-8f951d252f42c1b6afa89937c0ba4049]: Textual amendment: Words in reg. 16(3) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(c)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/c)
+
+[^c23675591]: Marginal citation: OJ L123, 12.6.1014, p.84.
+
+[^c23675601]: Marginal citation: L.N. 2017/135.
+
+[^key-019e86e492290867b6eb6e275c30f576]: Textual amendment: Reg. 16(15)(a) omitted (30.9.2020) by virtue of [The Equivalence Determinations for Financial Services (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1055)](https://www.legislation.gov.uk/uksi/2020/1055), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1055/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2020/1055/regulation/13)
+
+[^c23675611]: Marginal citation: OJ L87, 31.3.2017, p.1.
+
+[^key-dee0b1eb930301f67346e3b47ba5ccd6]: Commencement: Reg. 17 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+
+[^c23675621]: Marginal citation: [S.I. 2018/1394](https://www.legislation.gov.uk/uksi/2018/1394).
+
+[^key-a0882f1315f69deca6a6d20d9758c3a1]: Commencement: Reg. 18 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+
+[^c23675631]: Marginal citation: [S.I. 2019/38](https://www.legislation.gov.uk/uksi/2019/38).
+
+[^key-5999311fe45105e5fe984295d18b5244]: Textual amendment: Words in reg. 18 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(d)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/d)
+
+[^key-d6d36709369948f3fbe5746958bd7650]: Commencement: Reg. 19 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+
+[^key-fe5692d44fdadc1be065066c1d8ac5ba]: Commencement: Reg. 20 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+
+[^c23675641]: Marginal citation: [S.I. 2019/341](https://www.legislation.gov.uk/uksi/2019/341).
+
+[^key-590c1482514e4e79f2e34e5b16c7941f]: Textual amendment: Words in reg. 20(3)(b) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(e)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/e)
+
+[^c23675651]: Marginal citation: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1). Section 48B was inserted by paragraph 4 of Schedule 2 to the [Financial Services (Banking Reform) Act 2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33).
+
+[^c23675661]: Marginal citation: Sections 70A to 70C were inserted by [S.I. 2014/3329](https://www.legislation.gov.uk/uksi/2014/3329).
+
+[^key-d95ef896c17724a7fdf7c20dfa70129e]: Commencement: Reg. 21 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+
+[^c23675671]: Marginal citation: [S.I. 2019/335](https://www.legislation.gov.uk/uksi/2019/335).
+
+[^c23675681]: Marginal citation: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48). Section 1 is substituted by section 239 of the [Pensions Act 2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^key-7acbd2c2ce55090c6826c4a4a455be67]: Commencement: Reg. 22 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+
+[^c23675691]: Marginal citation: [S.I. 2019/407](https://www.legislation.gov.uk/uksi/2019/407).
+
+[^key-bd759f87e917c462bbde3faa82fd636e]: Commencement: Reg. 23 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+
+[^c23675701]: Marginal citation: [S.I. 2019/266](https://www.legislation.gov.uk/uksi/2019/266).
+
+[^key-87e9986131e39e16aaedc4acec2af29a]: Commencement: Reg. 24 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+
+[^c23675711]: Marginal citation: [S.I. 2019/541](https://www.legislation.gov.uk/uksi/2019/541).
+
+[^key-ad67c3be567704a6da0cf279056ad895]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
+
+[^c23675721]: Marginal citation: [S.I. 2006/2078](https://www.legislation.gov.uk/uksi/2006/2078).
+
+[^key-fbd61690693beca0ce261cc0ad6636bb]: Textual amendment: Reg. 25(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [64(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/64/2)
+
+[^key-ed207e83ad65f36c8ded32d855596ff5]: Textual amendment: Reg. 25(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [64(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/64/2)
+
+[^key-d4d4d4fc40486927f74abb303cac6be3]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
+
+[^key-6b23adcdd21ff59c8daaaf302ff4eec5]: Textual amendment: Words in reg. 26 substituted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [14](https://www.legislation.gov.uk/uksi/2020/646/regulation/14)
+
+[^key-96af7e252b13295b3560b2227cd9fabb]: Textual amendment: Words in reg. 26 substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [64(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/64/3)
+
+[^key-7ed29e2bb61dc8944892c02b0e6aa4c4]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23675751]: Marginal citation: Regulation 575/2013 (OJ L 176 27.6.2013, p.1.)
+
+[^c23675761]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46). Section 403 has been amended by [S.I. 2012/2301](https://www.legislation.gov.uk/uksi/2012/2301) and 2019/685.
+
+[^c23675771]: Marginal citation: [S.I. 2019/685](https://www.legislation.gov.uk/uksi/2019/685).
+
+[^key-31634a4b890fb62b7802962381a562bb]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^key-c72f308962fd6baea7cde877c69b32bb]: Textual amendment: Words in reg. 28(2) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/f)
+
+[^key-c69606206f292f5d41f4f56425d46e17]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23675781]: Marginal citation: Point (c) was replaced by Commission Delegated Regulation (EU) 2018/990, Article 1.
+
+[^key-c3974619453f2b7bdfe66412ce80a1e6]: Textual amendment: Words in reg. 29 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(g)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/g)
+
+[^key-7887a78945ce8487fe6d7b3f3885adb9]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23675791]: Marginal citation: Article 2A is inserted by the Insurance Distribution (Amendment)(EU Exit) Regulations 2019 ([S.I. 2019/663](https://www.legislation.gov.uk/uksi/2019/663)).
+
+[^c23675801]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544). Article 4(5) was amended by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476) and 2006/3384.
+
+[^c23675811]: Marginal citation: [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149), as amended by the [Financial Service Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405).
+
+[^c23675821]: Marginal citation: OJ L 26, 2.2.2016, p. 19.
+
+[^c23675831]: Marginal citation: Regulation 33B was inserted by [S.I. 2018/546](https://www.legislation.gov.uk/uksi/2018/546).
+
+[^c23675841]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-26cdeb6cfb8bc686de64ccabcc6f256c]: Textual amendment: Words in reg. 30 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(h)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/h)
+
+[^c23675851]: Marginal citation: OJ L 335, 17.12.2009, p.1.
+
+[^key-9c1aba5c81bf163aeb3810be35881f04]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23675861]: Marginal citation: Subparagraphs (4) and (5) are inserted by the Insurance Distribution (Amendment) (EU Exit) Regulations 2019 ([S.I. 2019/663](https://www.legislation.gov.uk/uksi/2019/663).
+
+[^key-4811d4801e78f857b7a1f5b27cf5b57c]: Textual amendment: Words in reg. 31 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/i)
+
+[^key-0ce3ee4c31934dd2df256083de6ecb8f]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23675871]: Marginal citation: The second subparagraph is inserted by regulation 30(1) and (2) of the [Securitisation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/660)](https://www.legislation.gov.uk/uksi/2019/660).
+
+[^key-b263364b279bbbd00041ce2203bd8814]: Textual amendment: Words in reg. 32 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(j)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/j)
+
+[^key-4968f8489e22fc283517459d3b454502]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
+
+[^key-11962649df4d7e59f6e2ef6095f241ad]: Textual amendment: Reg. 33(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [64(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/64/4)
+
+[^key-25af7b94baf955f7fe7234940388ac45]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^key-e0e5eaf3142a5e5734ccff6d34ad1434]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^key-5ae4e2c99dd44cb2db4ea8a3e7c42ee8]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23675881]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-31a12e0432ace5ace45a7045efb7ca9d]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23675891]: Marginal citation: [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
+
+[^key-935db99940335284979cb65785d2a7d9]: Commencement: Reg. 38 in force at 30.12.2020 the day before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23675901]: Marginal citation: Section 287 has been amended by paragraph 3 of Schedule 8 to the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21) and [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
+
+[^c23675911]: Marginal citation: Section 292(3)(d) and (5)(c) have been amended by paragraph 8 of Schedule 8 to the Financial Services Act 2012.
+
+[^key-bda15b04cd4b26b7c35ab2657d05cf7d]: Textual amendment: Words in reg. 38(2)(a) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(k)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/k)
+
+[^key-71fe0673327380b4e4325892da49bc23]: Textual amendment: Words in reg. 38(2)(b)(ii) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(k)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/k)
+
+[^key-fdaf99357c311d177733958ca2cf9a21]: Textual amendment: Words in reg. 38(4) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(k)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/k)
+
+[^c23675921]: Marginal citation: OJ L173, 12.6.2014, p. 349.
+
+[^key-d0390c51f5c6c3ef95eb0f881aaf66d5]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23675931]: Marginal citation: [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245). The definition of “market infrastructure body” in regulation 2(1) was amended by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504) and 2017/1064.
+
+[^key-a440db019eb909751bd6e16e33eaba7d]: Textual amendment: Words in reg. 39(3) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(l)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/l/i)
+
+[^key-cc56d30befb97cc1148e0e8f3224f1c5]: Textual amendment: Words in reg. 39(4) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(l)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/l/ii)
+
+[^c23675941]: Marginal citation: Subsections (1)(f) and (g) were inserted by [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064).
+
+[^c23675951]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-796f4333439bbe9644cd4d3bf3f283c7]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
+
+[^c23675961]: Marginal citation: [S.I. 2018/1038](https://www.legislation.gov.uk/uksi/2018/1038).
+
+[^key-15d34f4a9b9fce5e737b4b2736228b07]: Textual amendment: Words in reg. 40 substituted (31.1.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1390)](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/4), [14](https://www.legislation.gov.uk/uksi/2019/1390/regulation/14) (as amended by S.I. 2020/1301, regs. 1, 3, Sch. para. 49(c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23675971]: Marginal citation: [S.I. 2010/1013](https://www.legislation.gov.uk/uksi/2010/1013). Relevant amendments were made by [S.I. 2010/1969](https://www.legislation.gov.uk/uksi/2010/1969), 2012/2798, 2013/1881, 2014/208, 2016/530 and 2018/1038.
+
+[^key-362802d99298454792a9b1cf4584d11b]: Textual amendment: Reg. 41 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [64(5)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/64/5)
+
+[^key-ee52aaa2d73900fbee08d837dbe82a10]: Commencement: Sch. para. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23676001]: Marginal citation: [S.I. 2001/3625](https://www.legislation.gov.uk/uksi/2001/3625); as amended by [S.I. 2007/3255](https://www.legislation.gov.uk/uksi/2007/3255), 2008/1467, 2009/1390, 2011/1265, 2013/472 and 2015/575.
+
+[^c23676011]: Marginal citation: [S.I. 2001/3626](https://www.legislation.gov.uk/uksi/2001/3626); as amended by [S.I. 2008/1725](https://www.legislation.gov.uk/uksi/2008/1725), 2013/472, 2013/1765.
+
+[^key-1cd00bcc4691e2c5293be47ca1b7ff62]: Textual amendment: Words in Sch. para. 1(1) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(m)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/k/i)
+
+[^c23676021]: Marginal citation: Section 109 was amended by paragraph 3 of Schedule 6 to the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^key-d4a94cb37db97fa38275b2c715abee73]: Textual amendment: Words in Sch. para. 1(2) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(m)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/k/ii)
+
+[^key-56e105a8a5c1f6277864abf3409cc8ce]: Commencement: Sch. para. 2 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^key-f910e6300295fe1e27cc59666e3458a9]: Textual amendment: Words in Sch. para. 2 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(m)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/k/iii)
+
+[^key-8e3be7541d138310bb2c10662fa6dca7]: Commencement: Sch. para. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23676031]: Marginal citation: [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
+
+[^key-3d988b5d2faf0c33b97aef1ed40d4b2b]: Commencement: Sch. para. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^key-bc209c8d17f0532696a1c3fc0b161641]: Commencement: Sch. para. 5 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23676041]: Marginal citation: [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149); as amended by [S.I. 2019/405](https://www.legislation.gov.uk/uksi/2019/405).
+
+[^key-b864180f929d9bef8d52c2d0f33e910f]: Commencement: Sch. para. 6 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23676051]: Marginal citation: Subsection (2) was amended by S.I. 20073253 and paragraph 2 of Schedule 1 to the [Financial Services (Banking Reform) Act 2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33).
+
+[^c23676061]: Marginal citation: OJ L 335, 17.12.2009, p. 1.
+
+[^c23676071]: Marginal citation: Subsection (3) was amended by paragraph 2 of Schedule 1 to the Financial Services (Banking Reform) Act 2013 and [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575).
+
+[^c23676081]: Marginal citation: Subsection (9) was amended by paragraph 2 of Schedule 1 to the Financial Services (Banking Reform) Act 2013.
+
+[^c23676091]: Marginal citation: Subsection (1)(a) was amended by paragraph 2 of Schedule 1 to the Financial Services (Banking Reform) Act 2013; subsection (1)(c) was amended by [S.I. 2007/3253](https://www.legislation.gov.uk/uksi/2007/3253).
+
+[^c23676101]: Marginal citation: Section 114A was inserted by [S.I. 2007/3253](https://www.legislation.gov.uk/uksi/2007/3253). Subsection (1)(a) was amended by paragraph 2 of Schedule 1 to the Financial Services (Banking Reform) Act 2013.
+
+[^key-2d8ba9918fa9d1eb1a15c13bf04f5016]: Commencement: Sch. para. 7 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23676111]: Marginal citation: Sub-paragraphs (2)(a), (3)(a) and (4)(a) were amended by paragraph 2 of Schedule 1 to the Financial Services (Banking Reform) Act 2013 and paragraph 10 of Schedule 6 to the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21); sub-paragraph (2A) was inserted by [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575); and sub-paragraph (5)(a) was inserted by [S.I. 2007/3253](https://www.legislation.gov.uk/uksi/2007/3253) and substituted by [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575).
+
+[^key-ba396433d16debe70fd341f5123feadf]: Textual amendment: Words in Sch. para. 7(2)(a) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(m)(iv)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/k/iv)
+
+[^c23676121]: Marginal citation: Sub-paragraph (6) was amended by S.I. 207/3253.
+
+[^key-919629363bc2cb1cc05143efabe76008]: Textual amendment: Words in Sch. para. 7(3)(a) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(m)(v)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/k/v)
+
+[^key-4ff2da1cac388111ea87098f94d70347]: Textual amendment: Words in Sch. para. 7(3)(b) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(m)(vi)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/k/vi)
+
+[^key-1572954016b0263058ca038739e77b66]: Textual amendment: Words in Sch. para. 7(3)(c) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(m)(vii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/k/vii)
+
+[^c23676131]: Marginal citation: Paragraph 3 was amended by paragraph 12 of Schedule 6 to the Financial Services Act 2012 and [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575).
+
+[^key-d13737726f05c1285cf8775c5f305e3c]: Textual amendment: Words in Sch. para. 7(4) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(m)(viii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/k/viii)
+
+[^c23676141]: Marginal citation: Paragraph 3A was inserted by [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575).
+
+[^key-0365106e89a9fc09e2fd0aa2072b2673]: Commencement: Sch. para. 8 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23676151]: Marginal citation: Paragraph (2)(a)(iii) and (iv) were amended and inserted, respectively, by [S.I. 2007/3255](https://www.legislation.gov.uk/uksi/2007/3255) and paragraph (2)(a)(iv) was amended by [S.I. 2008/1467](https://www.legislation.gov.uk/uksi/2008/1467).
+
+[^key-95913d42d97b6ca73ba1ad680c3bd69b]: Commencement: Sch. para. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(4)
+
+[^c23676161]: Marginal citation: Article 3 was amended by [S.I. 2008/1725](https://www.legislation.gov.uk/uksi/2008/1725) and [S.I. 2013/1765](https://www.legislation.gov.uk/uksi/2013/1765) and Article 5(2A) was inserted by [S.I. 2013/1765](https://www.legislation.gov.uk/uksi/2013/1765).

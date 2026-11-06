@@ -1,0 +1,723 @@
+---
+title: The Central Rating List (England) Regulations 2005
+id: uksi/2005/551
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-03-08'
+text_date: '2026-03-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2005/551
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/551/pdfs/uksiem_20050551_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/551/pdfs/uksi_20050551_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/551/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Central Rating List (England) Regulations 2005
+
+> Text as at 2026-03-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2005 No. 551
+
+RATING AND VALUATION, ENGLAND
+
+The Central Rating List (England) Regulations 2005
+
+Made
+
+8th March 2005
+
+Laid before Parliament
+
+10th March 2005
+
+Coming into force in accordance with regulation 1
+
+The First Secretary of State, in exercise of the powers conferred by sections 53(1), (2), (4), (4A) and (5), 64(3), 65(4) and 143(1) and (2) of the Local Government Finance Act 1988 [^c11310111], hereby makes the following Regulations:
+
+## 1. Citation, application, commencement and interpretation
+
+(1) These Regulations, which apply to England only, may be cited as the Central Rating List (England) Regulations 2005 and shall come into force—
+
+- (a) for all purposes other than those of regulation 18, on 31st March 2005, and
+- (b) for the purposes of regulation 18, on 1st April 2005.
+
+(2) In these Regulations, except in regulation 17—
+
+- “**the Act**” means the Local Government Finance Act 1988;
+- “**designated person**” in relation to the central list compiled on or after 1st April 2005 means a person designated by regulation 3(1);
+- “**office premises**” means any hereditament constructed or adapted as offices or for office purposes;
+- “**office purposes**” includes the purposes of administration and clerical work and handling money; and “**clerical work**” includes writing, book-keeping, typing, filing, duplicating, sorting papers or information, calculating (whether by manual, mechanical or electronic means), drawing, and the editorial preparation of matter for publication;
+- “**operational land**”, in relation to a designated person, means land which is used for the purposes of carrying on that person's undertaking, not being land which, in respect of its nature and situation, is comparable rather with land in general than with land which is used for the purposes of the carrying on of statutory undertakings (within the meaning of the Town and Country Planning Act 1990 [^c11310121]);
+- “[^key-28348c6882eda0f19a0f7dd7fb43f63f]**subsidiary**” has the meaning given by section 1159 of the Companies Act 2006.
+
+(3) Any reference in these Regulations to—
+
+- (a) the central list is to the central non-domestic rating list for England;
+- (b) a hereditament is to a relevant non-domestic hereditament;
+- (c) a designated person by name is, unless the context otherwise requires, a reference to the company or body registered by or bearing that name on 1st October 2004;
+- (d) hereditaments used for any purpose includes a reference to hereditaments which are unused but in relation to which it appears that when next in use they will be used for such a purpose.
+
+## 2. Effect
+
+Except for regulations 17 and 18, these Regulations shall have effect in relation to a central list compiled on or after 1st April 2005.
+
+## 3. Designation of persons and description of hereditaments
+
+(1) For the purposes of section 53(1) of the Act—
+
+- (a) there are designated the persons named in the Schedule; and
+- (b) there is prescribed in relation to each such person the description of hereditament set out opposite the name of that person in the Schedule.
+
+(2) Regulation 6 of the Non-Domestic Rating (Miscellaneous Provisions) Regulations 1989 [^c11310131] (cross-boundary hereditaments) shall not apply to any hereditament falling within any description in the Schedule.
+
+## 4. Content of central rating list—names and hereditaments
+
+The central list shall show, for each day in each year for which it is in force—
+
+- (a) the name of each person designated by regulation 3; and
+- (b) against each name, each hereditament situated in England which on the day concerned is occupied (or, if unoccupied, owned) by that person, and which falls within the description prescribed in relation to that person by that regulation.
+
+## 5. Content of central rating list—other information
+
+(1) The central list shall also show, against the name of each designated person—
+
+- (a) where the person is a company registered in England and Wales, its registered office, and in any other case the person's principal place of business within the United Kingdom;
+- (b) where the person is a registered company, its registered number; and
+- (c) the first day, if later than 1st April 2005, for which the rateable value shown in the list against the name of the designated person has effect.
+
+(2) The central list shall also show, where it has been altered in pursuance of a direction by a tribunal, the name of the tribunal which gave the direction.
+
+## 6. Railway hereditaments[^key-8dbe4c57ca7502df4b950a3658af1f85]
+
+(1) Where either Network Rail Infrastructure Limited or the company bearing the name HS1 Limited on 1st May 2022[^key-8eb89ef381eb95f60136ce3816fecf19]—
+
+- (a) occupies or, if it is unoccupied, owns any hereditament; or
+- (b) lets or licenses a hereditament to—
+  - (i) a licence holder or a licence exempt operator, other than a licence holder or licence exempt operator who is also a designated person under Parts 1 or 2 of the Schedule to these Regulations or under Part 2 of the Schedule to the Non-Domestic Rating (Communications and Light Railways) (England) Regulations 2005 [^c11310141], and the lessee, licensee or British Transport Police Authority occupies, or, if unoccupied, owns the hereditament; or
+  - (ii) the British Transport Police Authority, and it occupies, or, if unoccupied, owns the hereditament,
+
+and if, apart from these Regulations, those hereditaments would be more than one hereditament, and each separate hereditament satisfies the conditions in paragraph (3), those separate hereditaments shall be treated as one hereditament.
+
+(2) Where London Underground Limited—
+
+- (a) occupies or, if it is unoccupied, owns any hereditament; or
+- (b) lets or licenses a hereditament to any person (other than a licence holder or licence exempt operator who is also a designated person under Parts 1 or 2 of the Schedule to these Regulations),
+
+and if, apart from these Regulations, those hereditaments would be more than one hereditament, and provided each separate hereditament satisfies the conditions in paragraph (3), those separate hereditaments shall be treated as one hereditament.
+
+(3) The conditions mentioned in paragraphs (1) and (2) are that the hereditament is—
+
+- (a) used wholly or mainly for—
+  - (i) in the case of the persons mentioned in paragraph (1)[^key-dc203e931e70f59d9c88d03d7ccc1f64], railway purposes;
+  - (ii) in the case of London Underground Limited, LUL purposes; and
+- (b) not an excepted hereditament.
+
+(4) In this regulation—
+
+- [^key-af088e93622c816671eab2eaba77f46f]...
+- “**excepted hereditament**” means a hereditament consisting of or comprising—
+  - (a) premises used as a shop, hotel, museum or place of public refreshment;
+  - (b) premises used wholly or mainly as office premises, where those premises are not situated on the operational land of—
+    - (i) any person designated by regulation 3 and named in Part 1 of the Schedule;
+    - (ii) a licence exempt operator or licence holder;
+  - (c) premises or rights so let out as to be capable of separate assessment, other than those falling within paragraph (1)(b) or (2)(b); or
+  - (d) premises (other than premises used in connection with the collection and delivery of parcels, goods or merchandise conveyed or to be conveyed by rail) used wholly or in part for purposes concerned with—
+    - (i) the carriage of goods or passengers by road transport or sea transport; or
+    - (ii) harbours,
+
+    or for purposes incidental to such purposes;
+- “licence exempt operator” and “licence holder” have the meanings given by section 10(6) and 83(1) respectively of the Railways Act 1993 [^c11310151] except that “licence holder” also includes a holder of a[^key-224fc11947b3acce276d8474ad3a3bdd] railway undertaking licence[^key-539ddf18a040e9875e3105a80eb0fee2] granted pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005 [^key-9779c29cb43d3fd78928130896e0d5b5]... ;
+- “**LUL purposes**” means the purposes of the parts of LUL's undertaking which are concerned with the carriage of goods or passengers by rail, or for purposes ancillary to those purposes (including the purpose of the exhibiting of advertisements); and
+- “**railway purposes**” means the purposes of providing railway services, within the meaning given by section 82(1) of the Railways Act 1993 [^c11310161], or for purposes ancillary to those purposes (including the purposes of providing policing services or the exhibiting of advertisements).
+
+(5) The hereditaments described in paragraphs (1) and (2) shall be treated as occupied by the relevant designated person.
+
+## 7. Light railway hereditaments
+
+(1) Where a company which is a designated person by virtue of regulation 3(1) and Part 2 of the Schedule occupies or, if it is unoccupied, owns any hereditament; and if, apart from these Regulations, those hereditaments would be more than one hereditament, and each separate hereditament satisfies the conditions in paragraph (2), those separate hereditaments shall be treated as one hereditament.
+
+(2) The conditions mentioned in paragraph (1) are that the hereditament is—
+
+- (a) used wholly or mainly for the purposes of the parts of its undertaking which are concerned with the carriage of goods or passengers by rail, or purposes ancillary to those purposes (including the purposes of the exhibiting of advertisements); and
+- (b) not an excepted hereditament.
+
+(3) In paragraph (2)—
+
+- “**excepted hereditament**” means a hereditament consisting of or comprising—
+  - (a) premises used as a shop, hotel, museum or place of public refreshment;
+  - (b) premises used wholly or mainly as office premises of the designated person, where those premises are not situated on the operational land of the designated person or of any person designated by regulation 3 and named in Parts 1 or 2 of the Schedule;
+  - (c) premises or rights so let out as to be capable of separate assessment ;and
+  - (d) premises (other than premises used in connection with the collection and delivery of parcels, goods or merchandise conveyed or to be conveyed by rail) used wholly or in part for purposes concerned with the carriage of goods or passengers by road transport or sea transport or with harbours, or for purposes incidental to such purposes.
+
+(4) The hereditament described in paragraph (1) shall be treated as occupied by the relevant designated person.
+
+## 8. Communications hereditaments
+
+(1) Subject to paragraph (3), where—
+
+- (a) British Telecommunications plc occupies or, if it is unoccupied, owns any hereditament which comprises posts, wires, fibres, cables, ducts, telephone kiosks, towers, masts, switching equipment, or other equipment, or easements or wayleaves, being property used for the monitoring, processing or transmission of communications or other signals for the provision of electronic communications services;
+- (b) any person occupies, or if it is unoccupied, owns any hereditament which is an unbundled local loop,
+
+and which would, apart from these Regulations, be more than one hereditament, those hereditaments shall be treated as one hereditament.
+
+(2) Subject to paragraph (2A), where[^key-c4411ce0974cfe697f5d268545443e2b] a company which is a designated person by virtue of regulation 3(1) and Part 3 of the Schedule occupies or, if it is unoccupied, owns any hereditament which comprises posts, wires, fibres, cables, ducts, telephone kiosks, towers, masts, switching equipment, or other equipment, or easements or wayleaves, being property used for the monitoring, processing or transmission of communications or other signals for the provision of electronic communications services, and which would, apart from these Regulations, be more than one hereditament, those hereditaments shall be treated as one hereditament.
+
+(2A)[^key-a1955172914b2447e81c091de7d239ec] Paragraph (2) does not apply to a hereditament which is either—
+
+- (a) wholly or mainly a tower or mast, or
+- (b) part of a tower or mast.
+
+(3)[^key-91c174b5e34517c5a9aab45b94544b5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The hereditament described in paragraph (1) shall be treated as occupied by British Telecommunications plc.
+
+(5) The hereditament described in paragraph (2) shall be treated as occupied by the relevant designated person.
+
+(6) In paragraph (1), “**unbundled local loop**” means—
+
+- (a) cables, fibres, wires and conductors (or any part of them) used or intended to be used for carrying communications or other signals between the network terminating equipment on the premises of end-users and premises (or any part of them) used for the processing of the communications or other signals, and land occupied therewith; and
+- (b) poles, posts, towers, masts, mast radiators, pipes, ducts, conduits and any associated supports and foundations (or any part of them) used or intended to be used in connection with any of the items listed in sub-paragraph (a), and land occupied therewith,
+
+which British Telecommunications plc lets or licenses to any person.
+
+## 9. National and regional gas transportation hereditaments
+
+(1) Where Transco occupies or, if it is unoccupied, owns what would, apart from these Regulations, be more than one hereditament, and each of those hereditaments satisfies the conditions set out in paragraph (4), those hereditaments shall be treated as one hereditament.
+
+(2) Subject to paragraph (3), where a company which is a designated person by virtue of regulation 3(1) and Part 4 of the Schedule occupies or, if it is unoccupied, owns what would, apart from these Regulations, be more than one hereditament, and each of those hereditaments satisfies the conditions set out in paragraph (4), those hereditaments shall be treated as one hereditament.
+
+(3) Paragraph (2) shall not apply where the hereditament is occupied or if unoccupied, owned by Transco.
+
+(4) The conditions are that each of the hereditaments is—
+
+- (a) used wholly or mainly for the purposes of the designated person acting as a gas transporter; and
+- (b) not an excepted hereditament.
+
+(5) In this regulation and Part 4 of the Schedule—
+
+- “**excepted hereditament**” means—
+  - (a) a hereditament to which regulation 11 applies; and
+  - (b) a hereditament consisting of or comprising one or more of the following—
+    - (i) premises used wholly or mainly as office premises, where those premises are not situated on operational land of the designated person;
+    - (ii) premises used wholly or mainly for the manufacture of plant or gas fittings;
+    - (iii) premises used wholly or mainly as storage facilities, being underground storage cavities, liquefied natural gas storage facilities and facilities used or available for use in connection with off-shore storage;
+- “**gas transporter**” has the meaning given by section 7 of the Gas Act 1986 [^c11310171];
+- “**Transco**” means Transco plc and each subsidiary of National Grid Transco plc existing on 1st March 2005; [^key-175f25bbb3037e3e682532bcadf19c77]...
+- [^key-175f25bbb3037e3e682532bcadf19c77]...
+
+(6) The hereditament described in paragraph (1) shall be treated as occupied by Transco.
+
+(7) The hereditament described in paragraph (2) shall be treated as occupied by the relevant designated person.
+
+## 10. Local gas transportation hereditaments
+
+(1) Where a company which is a designated person by virtue of regulation 3(1) and Part 5 of the Schedule occupies or, if it is unoccupied, owns what would, apart from these Regulations, be more than one hereditament, and each of those hereditaments satisfies the conditions set out in paragraph (2), those hereditaments shall be treated as one hereditament.
+
+(2) The conditions are that each of the hereditaments is—
+
+- (a) used wholly or mainly for the purposes of the designated person acting as a gas transporter; and
+- (b) not an excepted hereditament.
+
+(3) In paragraph (2)—
+
+- “**excepted hereditament**” means a hereditament consisting of or comprising premises used wholly or mainly as office premises, where those premises are not situated on operational land of the designated person; and
+- “**gas transporter**” has the meaning given by section 7 of the Gas Act 1986 [^c11310191];
+
+(4) The hereditament described in paragraph (1) shall be treated as occupied by the relevant designated person.
+
+## 11. Gas meter hereditaments
+
+(1) Where Transco or any other person, occupies or, if it is unoccupied, owns what would, apart from these Regulations, be more than one hereditament and each of those hereditaments is a gas meter attached to the end of the gas pipeline of Transco, those hereditaments shall be treated as one hereditament.
+
+(2) Subject to paragraph (3), where—
+
+- (a) a company which is a designated person by virtue of regulation 3(1) and Part 6 of the Schedule; or
+- (b) any other person,
+
+occupies or, if it is unoccupied, owns what would, apart from these Regulations, be more than one hereditament and each of those hereditaments is a gas meter attached to the gas pipeline of the company, those hereditaments shall be treated as one hereditament.
+
+(3) Paragraph (2) shall not apply where the hereditament to which the meter is attached is occupied, or if unoccupied, owned by Transco.
+
+(4) In this regulation and Part 6—
+
+- (a) “**gas pipeline**” means a hereditament described in regulation 9(1) or (2);
+- (b) “**Transco**” means Transco plc and each subsidiary of National Grid Transco plc existing on 1st March 2005; [^key-b7e650606d01c82c4069230ccececd6c]...
+- (c)[^key-b7e650606d01c82c4069230ccececd6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The hereditament described in paragraph (1) shall be treated as occupied by Transco.
+
+(6) The hereditament described in paragraph (2) shall be treated as occupied by the relevant designated person.
+
+## 12. Electricity transmission hereditaments
+
+(1) Where National Grid occupies or, if it is unoccupied, owns what would, apart from these Regulations, be more than one hereditament and each of those hereditaments satisfies the conditions set out in paragraph (2), those hereditaments shall be treated as one hereditament.
+
+(2) The conditions are that each of the hereditaments is—
+
+- (a) used wholly or mainly for the purposes of the transformation or transmission of electrical power, or for ancillary purposes; and
+- (b) not an excepted hereditament.
+
+(3) In this regulation and in Part 7—
+
+- (a) “**excepted hereditament**” means a hereditament consisting of or comprising premises used wholly or mainly as office premises of the designated person, where those premises are not situated on operational land of the designated person;
+- (b)[^key-b1fce40ea731f19b66e0a003bb3c83d8] “National Grid” means—
+  - (i) the company bearing the name National Grid Electricity Transmission plc on 1st January 2019; and
+  - (ii) until the first date after 1st April 2019 on which a central non-domestic rating list is compiled for England in accordance with section 52 of the Act, the company bearing the name National Grid Electricity System Operator Limited on 1st January 2019.
+- (c)[^key-f1c0cd7b0a1d214a664782b65ab4b0ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The hereditament described in paragraph (1) shall be treated as occupied by National Grid.
+
+## 13. Electricity distribution hereditaments
+
+(1) Where a company which is a designated person by virtue of regulation 3(1) and Part 8 of the Schedule occupies or, if it is unoccupied, owns what would, apart from these Regulations, be more than one hereditament, and each of those hereditaments satisfies the conditions set out in paragraph (2), those hereditaments shall be treated as one hereditament.
+
+(2) The conditions are that each of the hereditaments is—
+
+- (a) used wholly or mainly for the purposes of the designated person acting as an electricity distributor or for ancillary purposes; and
+- (b) not an excepted hereditament.
+
+(3) In paragraph (2)—
+
+- “**electricity distributor**” has the meaning given by section 6 of the Electricity Act 1989 [^c11310211]; and
+- “**excepted hereditament**” means—
+  - (a) a hereditament to which regulation 14 applies;
+  - (b) a hereditament consisting of or comprising premises used wholly or mainly as office premises, where those premises are not situated on operational land of the designated person.
+
+(4) The hereditament described in paragraph (1) shall be treated as occupied by the relevant designated person.
+
+## 14. Electricity meter hereditaments
+
+(1) Where—
+
+- (a) a company which is a designated person by virtue of regulation 3(1) and Part 9 of the Schedule; or
+- (b) any other person,
+
+occupies or, if it is unoccupied, owns what would, apart from these Regulations, be more than one hereditament, and each of those hereditaments is an electricity meter attached to the end of the electricity distribution network of the company, those hereditaments shall be treated as one hereditament.
+
+(2) In paragraph (1), “**electricity distribution network**” means a hereditament described in regulation 13(1).
+
+(3) The hereditament described in paragraph (1) shall be treated as occupied by the relevant designated person.
+
+## 15. Water supply hereditaments
+
+(1) Where a company which is a designated person by virtue of regulation 3(1) and Part 10 of the Schedule occupies or, if it is unoccupied, owns what would, apart from these Regulations, be more than one hereditament, and each of those hereditaments satisfies the conditions set out in paragraph (2), those hereditaments shall be treated as one hereditament.
+
+(2) The conditions are that each of the hereditaments is—
+
+- (a) used wholly or mainly for the purposes of a water undertaker or for ancillary purposes; and
+- (b) not an excepted hereditament.
+
+(3) In paragraph (2)—
+
+- “**excepted hereditament**” means a hereditament consisting of or comprising one or both of the following—
+  - (a) premises used wholly or mainly for the manufacture, storage, sale, display or demonstration of apparatus or accessories for use by consumers of water (any use for the receipt of payments for the use of water or sewerage services being disregarded);
+  - (b) premises used wholly or mainly as office premises, where those premises are not situated on operational land of the designated person; and
+- “**water undertaker**” has the same meaning as in Part 2 of the Water Industry Act 1991 [^c11310221].
+
+(4) The hereditament described in paragraph (1) shall be treated as occupied by the relevant designated person.
+
+## 16. Canal hereditaments
+
+(1) Where a company which is a designated person by virtue of regulation 3(1) and Part 11 of the Schedule occupies or, if it is unoccupied, owns any hereditament which—
+
+- (a) comprises—
+  - (i) waterways (including cuts and culverts, locks, gates, sluices, pumps, flood let-off valves, feeders, conduits, weirs, side ponds, ditches and drains);
+  - (ii) aqueducts, basins, bridges, embankments, reservoirs and tunnels;
+  - (iii) lighthouses, beacons, buoys, breakwaters, boatlifts and other structures designed to aid navigation;
+  - (iv) docks, wharves, piers, jetties, pontoons, moorings, slipways, land and buildings used for the building, maintenance or floating storage of craft, or for the provision, maintenance or servicing of inland waterways and plant or machinery used in connection therewith;
+  - (v) clay pits, dredging or other waste disposal tips; or
+  - (vi) other land, buildings or structures or parts of buildings or structures used for the provision or servicing of facilities for traffic by, public access to, or enjoyment of, inland waterways, or for ancillary purposes; and
+- (b) is not an excepted hereditament,
+
+then if, apart from these Regulations, those hereditaments would be more than one hereditament, those separate hereditaments shall be treated as one hereditament.
+
+(2) In paragraph (1)—
+
+- “**excepted hereditament**” means any hereditament—
+  - (a) consisting of or including a dock or harbour undertaking carried on under authority conferred by or under any enactment;
+  - (b) consisting of premises so let out as to be capable of separate assessment;
+  - (c) consisting of premises used wholly or mainly as office premises, where those premises are not situated on operational land of the designated person; or
+  - (d) consisting of a car park used wholly or mainly in connection with office premises, where those premises are not situated on operational land of the designated person; and
+- “**inland waterway**” means any such waterway, whether natural or artificial.
+
+(3) The hereditament described in paragraph (1) shall be treated as occupied by the relevant designated person.
+
+## 17. Amendment of the 2000 Regulations
+
+(1) The Central Rating Lists (England) Regulations 2000 [^c11310231] are amended, with effect from 1st October 2001, as follows.
+
+(2) In paragraph (3) of regulation 1—
+
+- (a) at the beginning of sub-paragraph (a), in place of “Subject to subparagraph (b)”, substitute—
+
+“ Subject to sub-paragraphs (b) and (c) ”; and
+
+- (b) at the end of paragraph (3) add the following—
+
+  > - (c) in Part 2 of the Schedule—
+  >   - (i) references to a designated person by name are references to the company bearing that name on 1st October 2001; and
+  >   - (ii) references to National Grid are references to the company bearing the name the National Grid Company plc on 1st October 2001 and each subsidiary of National Grid Transco plc existing between 1st October 2001 and 31st March 2005.
+
+  .
+
+(3) For the table in Part 2 of the Schedule, substitute—
+
+> **PART 2 — Electricity Supply Hereditaments**
+>
+> | *Designated person* | *Relevant Hereditaments* |
+> | --- | --- |
+> | National Grid | Hereditaments (other than excepted hereditaments) wholly or mainly used for the purposes of the transformation or transmission of electrical power, or for ancillary purposes. |
+> | East Midlands Electricity Distribution plc<br>Eastern Electricity Limited<br>GPU Power Networks (UK) plc<br>London Power Networks plc<br>Manweb plc<br>Northern Electric Distribution Limited<br>Norweb plc<br>Seeboard Power Networks plc<br>Southern Electric Power Distribution plc<br>SP Distribution Limited<br>Western Power Distribution (South Wales) plc<br>Western Power Distribution (South West) plc<br>Yorkshire Electricity Distribution plc | Hereditaments (other than excepted hereditaments) wholly or mainly used for the purposes of the functions of a public electricity supplier, or for ancillary purposes. |
+>
+> In this Part—
+>
+> - “**excepted hereditament**” means a hereditament consisting of or comprising one or both of the following—
+>   - (a) premises used wholly or mainly as a shop or other place for the sale, display or demonstration of apparatus or accessories for use by consumers of electricity (any use for the receipt of payments for the use of electricity being disregarded);
+>   - (b) premises used wholly or mainly as office premises of a designated person, where those premises are not situated on operational land of that person;
+> - “**public electricity supplier**” has the same meaning as in section 6(9) of the Electricity Act 1989; and
+> - “**subsidiary**” has the meaning given by section 736 of the Companies Act 1985
+
+.
+
+## 18. Revocations and savings
+
+**May not be in force at this date. Check the source.**
+
+(1) Subject to paragraph (2), there are hereby revoked—
+
+- (a) the Non-Domestic Rating (Electricity Generators) Regulations 1991 [^c11310241];
+- (b) the Non-Domestic Rating (Railways, Telecommunications and Canals) Regulations 1994 [^c11310251];
+- (c) the Central Rating Lists (England) Regulations 2000 [^c11310261]; and
+- (d) the Central Rating Lists (England)(Amendment) Regulations 2001 [^c11310271].
+
+(2) The provisions mentioned in paragraph (1) shall continue to have effect for the purposes of or for purposes connected with—
+
+- (a) any alteration of a list in force immediately before 1st April 2005; or
+- (b) any provision made by regulations under section 58 of the Act (special provision for 1995 onwards) as to the chargeable amount as regards a hereditament for a relevant period, as defined in that section, ending before 1st April 2005.
+
+Signed by authority of the First Secretary of State
+
+Phil Hope
+
+Parliamentary Under Secretary of State, Office of the Deputy Prime Minister
+
+## SCHEDULE
+
+Regulation 3
+
+### PART 1 — Railway hereditaments
+
+| *Designated person* | *Relevant hereditaments* |
+| --- | --- |
+| Network Rail Infrastructure Limited | The hereditament described in regulation 6(1) |
+| The company bearing the name HS1 Limited on 1st May 2022[^key-c1348322fc14344c412c8cd2c036b2c9] |  |
+| London Underground Limited | The hereditament described in regulation 6(2) |
+
+### PART 2 — Light railway hereditaments
+
+| *Designated person* | *Relevant hereditaments* |
+| --- | --- |
+| Docklands Light Railway Limited |  |
+| The Tyne and Wear Passenger Transport Executive | The hereditament described in regulation 7(1) |
+
+### PART 3 — Communication hereditaments
+
+| *Designated person* | *Relevant hereditaments* |
+| --- | --- |
+| British Telecommunications plc | The hereditament described in regulation 8(1) |
+| Cable and Wireless UK |  |
+| Global Crossing (UK) Telecommunications Limited | The hereditament described in regulation 8(2) |
+| Energis Communications Limited |  |
+| The company bearing the name Exponential-e Limited on 1st September 2010[^key-85b2a2aabb3775c95ffe3edac4a4559c] |  |
+| The company bearing the name Easynet Telecommunications Limited on 1st September 2010 |  |
+| The company bearing the name Cogent Communications UK Limited on 1st September 2010 |  |
+| The company bearing the name Level 3 Communications Limited on 1st September 2010 |  |
+| The company bearing the name Sohonet Limited on 1st September 2010 |  |
+| The company bearing the name Colt Technology Services Group Limited on 1st September 2010 |  |
+| The company bearing the name T.M.I. Telemedia International Limited on 1st September 2010 |  |
+| The company bearing the name The JNT Association on 1st September 2011[^key-f4bde623e199158e90b8081fd165d46d] |  |
+| The company bearing the name London Internet Exchange Limited on 1st September 2011 |  |
+| The company bearing the name CityFibre Limited on 1st May 2022[^key-fb5fbbca8296741ca8d21f6b79b47d4d] |  |
+| The company bearing the name Gamma Telecom Holdings Limited on 1st May 2022 |  |
+| The company bearing the name GCI Network Solutions Limited on 1st May 2022 |  |
+| The company bearing the name Hutchison 3G UK Limited on 1st May 2022 |  |
+| The company bearing the name Interoute Networks Limited on 1st May 2022 |  |
+| The company bearing the name Neos Networks Limited on 1st May 2022 |  |
+| The company bearing the name Tata Communications (UK) Limited on 1st May 2022 |  |
+| The company bearing the name Verizon UK Limited on 1st May 2022 |  |
+| The company bearing the name VMED O2 UK Holdings Limited on 1st May 2022 and each of its subsidiaries existing on that date |  |
+| The company bearing the name Vodafone Limited on 1st May 2022 |  |
+| The company bearing the name WPD Telecoms Limited on 1st May 2022 |  |
+| The company bearing the name Zayo Group UK Limited on 1st May 2022 |  |
+| The charity bearing the name London Grid for Learning Trust on 1st January 2024[^key-7233930935228ac117d3f2201d981484] |  |
+
+### PART 4 — National and Regional gas transportation hereditaments
+
+| *Designated person* | *Relevant hereditaments* |
+| --- | --- |
+| Transco | The hereditament described in regulation 9(1) |
+| Blackwater 2 Limited |  |
+| Blackwater F Limited | The hereditament described in regulation 9(2) |
+| Blackwater G Limited |  |
+| The company bearing the name National Grid Gas Distribution Limited on 5th[^key-0ba90155a403e1211038fca57ee5bbb4] May 2016 |  |
+
+### PART 5 — Local gas transportation hereditaments
+
+| *Designated person* | *Relevant hereditaments* |
+| --- | --- |
+| British Gas Connections Limited |  |
+| British Gas Pipelines Limited | The hereditament described in regulation 10(1) |
+| Global Utility Connections Limited |  |
+| Utility Grid Installations Limited |  |
+| Independent Pipelines Limited |  |
+| The Gas Transportation Company Limited |  |
+| SSE Pipelines Limited |  |
+| SP Gas Limited |  |
+| Quadrant Pipelines Limited |  |
+| GTC Pipelines Limited |  |
+| ESP Networks Limited |  |
+| ESP Pipelines Limited |  |
+| E.S. Pipelines Limited |  |
+
+### PART 6 — Gas meter hereditaments
+
+| *Designated person* | *Relevant hereditaments* |
+| --- | --- |
+| Transco | The hereditament described in regulation 11(1) |
+| Blackwater 2 Limited |  |
+| Blackwater F Limited | The hereditament described in regulation 11(2) |
+| Blackwater G Limited |  |
+| The company bearing the name National Grid Gas Distribution Limited on 5th[^key-2540339006f023a6c25bc9ba61f1f067] May 2016 |  |
+
+### PART 7 — Electricity transmission hereditaments
+
+| *Designated person* | *Relevant hereditaments* |
+| --- | --- |
+| National Grid | The hereditament described in regulation 12(1) |
+
+### PART 8 — Electricity distribution hereditaments
+
+| *Designated person* | *Relevant hereditaments* |
+| --- | --- |
+| Central Networks East plc |  |
+| Central Networks West plc | The hereditament described in regulation 13(1) |
+| EDF Energy Networks (EPN) plc |  |
+| EDF Energy Networks (LPN) plc |  |
+| EDF Energy Networks (SPN) plc |  |
+| [^key-b38032c9ddb754c50411c75c4e825c2f]. . . |  |
+| [^key-b38032c9ddb754c50411c75c4e825c2f]. . . |  |
+| Northern Electric Distribution Limited |  |
+| Southern Electric Power Distribution plc |  |
+| SP Distribution Limited |  |
+| SP Manweb plc |  |
+| United Utilities Electricity plc |  |
+| Western Power Distribution (South Wales) plc |  |
+| Western Power Distribution (South West) plc |  |
+| Yorkshire Electricity Distribution plc |  |
+
+### PART 9 — Electricity meter hereditaments
+
+| *Designated person* | *Relevant hereditaments* |
+| --- | --- |
+| Central Networks East plc |  |
+| Central Networks West plc |  |
+| EDF Energy Networks (EPN) plc |  |
+| EDF Energy Networks (LPN) plc |  |
+| EDF Energy Networks (SPN) plc |  |
+| [^key-0316ace704f5d0e7c6bb2b7da3352550]. . . | The hereditament described in regulation 14(1) |
+| [^key-0316ace704f5d0e7c6bb2b7da3352550]. . . |  |
+| Northern Electric Distribution Limited |  |
+| Southern Electric Power Distribution plc |  |
+| SP Distribution Limited |  |
+| SP Manweb plc |  |
+| United Utilities Electricity plc |  |
+| Western Power Distribution (South Wales) plc |  |
+| Western Power Distribution (South West) plc |  |
+| Yorkshire Electricity Distribution plc |  |
+
+### PART 10 — Water supply hereditaments
+
+| *Designated person* | *Relevant hereditaments* |
+| --- | --- |
+| Anglian Water Services Limited |  |
+| Bournemouth and West Hampshire Water plc |  |
+| Bristol Water plc |  |
+| Cambridge Water plc |  |
+| Cholderton and District Water Company Limited |  |
+| Dee Valley Water plc | The hereditament described in regulation 15(1) |
+| Dwr Cymru Cyfyngedig |  |
+| Folkestone & Dover Water Services Limited |  |
+| Mid Kent Water plc |  |
+| United Utilities Water plc |  |
+| Northumbrian Water Limited |  |
+| Portsmouth Water Limited |  |
+| Severn Trent Water Limited |  |
+| South East Water Limited |  |
+| South Staffordshire Water PLC |  |
+| South West Water Limited |  |
+| Southern Water Services Limited |  |
+| Sutton and East Surrey Water plc |  |
+| Tendring Hundred Water Services Limited |  |
+| Thames Water Utilities Limited |  |
+| Three Valleys Water PLC |  |
+| Wessex Water Services Limited |  |
+| Yorkshire Water Services Limited |  |
+
+### PART 11 — Canal hereditaments
+
+| *Designated person* | *Relevant hereditaments* |
+| --- | --- |
+| The British Waterways Board | The hereditament described in regulation 16(1) |
+
+### Part 12 — Long-distance pipe-line hereditaments[^key-57c5e8db3e07e756af7ac65388dadcf8]
+
+| Designated person | Relevant Hereditaments |
+| --- | --- |
+| The BOC Group Ltd | The cross-country pipe-line from Sheffield to Rotherham. |
+| The BOC Group Ltd | Trans Tees Network cross-country pipe-line. |
+| BP Oil UK Limited | Cross-country pipe-lines situated within the area of more than one billing authority. |
+| Phillips 66 Limited | Cross-country pipe-lines situated within the area of more than one billing authority. |
+| Esso UK Limited | The cross-country pipe-line from Alton to Purfleet. |
+| Esso UK Limited | The cross-country pipe-line from Astwood to Bromford. |
+| Esso UK Limited | The cross-country pipe-line from Fawley to Avonmouth. |
+| Esso UK Limited | The cross-country pipe-line from Fawley to London. |
+| Esso UK Limited | The cross-country pipe-line from Fawley to Seisdon. |
+| Sabic UK Petrochemicals Limited | Cross-country pipe-lines situated within the area of more than one billing authority. |
+| Uniper UK Gas Limited | Cross-country pipe-lines situated within the area of more than one billing authority. |
+| Mainline Pipelines Limited | Cross-country pipe-lines situated within the area of more than one billing authority. |
+| United Utilities Water Limited | Cross-country pipe-lines situated within the area of more than one billing authority. |
+| Exolum Pipelines System Ltd | Cross-country pipe-lines situated within the area of more than one billing authority. |
+| Shell Chemicals U.K. Limited | Cross-country pipe-lines situated within the area of more than one billing authority. |
+| United Kingdom Oil Pipelines Limited | The cross-country pipe-line from Buncefield to Perry Oaks. |
+| United Kingdom Oil Pipelines Limited | The cross-country pipe-line from Longford to Walton. |
+| United Kingdom Oil Pipelines Limited | The cross-country pipe-line from Thames to Mersey. |
+| Walton-Gatwick Pipeline Company Limited | Cross-country pipe-lines situated within the area of more than one billing authority. |
+| Cemex UK Cement Limited | Cross-country pipe-lines situated within the area of more than one billing authority. |
+| Ineos Manufacturing (Hull) Limited | Cross-country pipe-lines situated within the area of more than one billing authority. |
+| Inovyn Enterprises Limited | The cross-country pipe-line from the Brine Treatment Plant to Runcorn. |
+| Inovyn Enterprises Limited | The cross-country pipe-line from Lostock to Weston Hill. |
+| Ineos Chemicals Grangemouth Limited | Cross-country pipe-lines situated within the area of more than one billing authority. |
+| Essar Oil (UK) Limited | The cross-country pipe-line from Stanlow to Partington. |
+| Essar Oil (UK) Limited | The cross-country pipe-line from Stanlow to Tranmere. |
+| Perenco UK Limited | Cross-country pipe-lines situated within the area of more than one billing authority. |
+| PRAX Lindsey Oil Refinery Limited | Cross-country pipe-lines situated within the area of more than one billing authority. |
+
+In this Part—
+
+- (a) “**cross-country pipe-line**” has the same meaning as in section 66(1) of the Pipe-Lines Act 1962;
+- (b) a reference to a designated person by name is a reference to the company bearing that name on 1st December 2025.
+
+*(This note is not part of the Regulations)*
+
+With a view to securing the central rating en bloc of certain hereditaments, regulations may be made under section 53(1) of the Local Government Finance Act 1988 which designate a person and prescribe in relation to that person one or more descriptions of non-domestic hereditament.
+
+In relation to the central rating list for England which is to be compiled on 1st April 2005, regulation 3 of these Regulations designates the persons named in the Schedule and prescribes the descriptions of hereditament shown in the Schedule against the names of those persons. The descriptions of hereditament prescribed in this way are: railway hereditaments, light rapid transit hereditaments, communications hereditaments, national and regional gas transportation hereditaments, local gas transportation hereditaments, gas meter hereditaments, electricity transmission hereditaments, electricity distribution hereditaments, electricity meter hereditaments, water supply hereditaments, canal hereditaments and long-distance pipe-line hereditaments.
+
+Regulation 4 requires the names of the designated persons and the hereditaments situated in England which are within the prescribed descriptions and are occupied (or, if unoccupied, owned) by those persons to be shown in the central non-domestic rating list for England compiled on or after 1st April 2005.
+
+Regulation 5 requires the list to show certain information about the designated persons and the date from which a rateable value shown in the list has effect.
+
+Regulations 6 to 16 provide for hereditaments of the relevant person designated under regulation 3 (except those of long-distance pipe-lines operators) to be treated as single hereditaments.
+
+Regulation 17 amends the Central Rating Lists (England) Regulations 2000 by substituting, with retrospective effect, Part 2 of the Schedule. It makes other consequential amendments, also with retrospective effect.
+
+Regulation 18 revokes, in relation to England—
+
+- (a) the Non-Domestic Rating (Electricity Generators) Regulations 1991;
+- (b) the Non-Domestic Rating (Railways, Telecommunications and Canals) Regulations 1994;
+- (c) the Central Rating Lists (England) Regulations 2000; and
+- (d) the Central Rating Lists (England)(Amendment) Regulations 2001.
+
+with effect from 1st April 2005 subject to certain savings.
+
+## Annotations
+
+[^c11310111]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). These powers are devolved, in relation to Wales, to the National Assembly for Wales by the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672): *see* the reference to the Local Government Finance Act 1988 in Schedule 1.
+
+[^c11310121]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8) *see* section 262. Relevant amendments are made by section 76 of the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^key-28348c6882eda0f19a0f7dd7fb43f63f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/551/regulation/1/2) inserted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/2)
+
+[^c11310131]: Marginal citation: [S.I. 1989/1060](https://www.legislation.gov.uk/uksi/1989/1060) as amended by 1993/616
+
+[^key-8dbe4c57ca7502df4b950a3658af1f85]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/551/regulation/6) modified (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2019/700/regulation/41); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8eb89ef381eb95f60136ce3816fecf19]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2005/551/regulation/6/1) substituted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/3/a)
+
+[^c11310141]: Marginal citation: [S.I. 2005/549](https://www.legislation.gov.uk/uksi/2005/549)
+
+[^key-dc203e931e70f59d9c88d03d7ccc1f64]: Textual amendment: Words in [reg. 6(3)(a)(i)](https://www.legislation.gov.uk/uksi/2005/551/regulation/6/3/a/i) substituted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/3/b)
+
+[^key-af088e93622c816671eab2eaba77f46f]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2005/551/regulation/6/4) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [30(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/30/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c11310151]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
+
+[^key-224fc11947b3acce276d8474ad3a3bdd]: Textual amendment: Words in reg. 6(4) inserted (28.11.2005) by [The Railway (Licensing of Railway Undertakings) Regulations 2005 (S.I. 2005/3050)](https://www.legislation.gov.uk/uksi/2005/3050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/1/1), [Sch. 1 para. 14(2)(b)](https://www.legislation.gov.uk/uksi/2005/3050/schedule/1/paragraph/14/2/b)
+
+[^key-539ddf18a040e9875e3105a80eb0fee2]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2005/551/regulation/6/4) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [30(3)(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/30/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9779c29cb43d3fd78928130896e0d5b5]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2005/551/regulation/6/4) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [30(3)(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/30/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c11310161]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
+
+[^key-c4411ce0974cfe697f5d268545443e2b]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2005/551/regulation/8/2) substituted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/4/a)
+
+[^key-a1955172914b2447e81c091de7d239ec]: Textual amendment: [Reg. 8(2A)](https://www.legislation.gov.uk/uksi/2005/551/regulation/8/2A) inserted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/4/b)
+
+[^key-91c174b5e34517c5a9aab45b94544b5b]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2005/551/regulation/8/3) omitted (1.4.2008) by virtue of [The Central Rating List (England) (Amendment) Regulations 2008 (S.I. 2008/429)](https://www.legislation.gov.uk/uksi/2008/429), [regs. 1](https://www.legislation.gov.uk/uksi/2008/429/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2008/429/regulation/2/a)
+
+[^c11310171]: Marginal citation: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Relevant amendments made by section76 of the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^key-175f25bbb3037e3e682532bcadf19c77]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/uksi/2005/551/regulation/9/5) omitted (1.4.2023) by virtue of [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/5)
+
+[^c11310191]: Marginal citation: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Relevant amendments made by section76 of the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^key-b7e650606d01c82c4069230ccececd6c]: Textual amendment: [Reg. 11(4)(c)](https://www.legislation.gov.uk/uksi/2005/551/regulation/11/4/c) and word omitted (1.4.2023) by virtue of [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/6)
+
+[^key-b1fce40ea731f19b66e0a003bb3c83d8]: Textual amendment: [Reg. 12(3)(b)](https://www.legislation.gov.uk/uksi/2005/551/regulation/12/3/b) substituted (1.4.2019) by [The Central Rating List (England) (Amendment) Regulations 2019 (S.I. 2019/395)](https://www.legislation.gov.uk/uksi/2019/395), [regs. 1](https://www.legislation.gov.uk/uksi/2019/395/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/395/regulation/2)
+
+[^key-f1c0cd7b0a1d214a664782b65ab4b0ed]: Textual amendment: Reg. 12(3)(c) omitted (1.4.2017) by virtue of [The Central Rating List (England) (Amendment) Regulations 2016 (S.I. 2016/146)](https://www.legislation.gov.uk/uksi/2016/146), [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/2016/146/regulation/1/4/a)[(5)](https://www.legislation.gov.uk/uksi/2016/146/regulation/1/5), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/146/regulation/2/2/b)
+
+[^c11310211]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was substituted for section 6 as originally enacted by section 30 of the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27). Section 31 further provides that references in any enactment after 1st October 2001 to public electricity suppliers shall have effect as references to electricity suppliers or distributors or both suppliers and distributors.
+
+[^c11310221]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
+
+[^c11310231]: Marginal citation: SI 2000/525.
+
+[^c11310241]: Marginal citation: [S.I. 1991/475](https://www.legislation.gov.uk/uksi/1991/475).
+
+[^c11310251]: Marginal citation: [S.I. 1994/3123](https://www.legislation.gov.uk/uksi/1994/3123).Amended by [S.I. 2000/525](https://www.legislation.gov.uk/uksi/2000/525).
+
+[^c11310261]: Marginal citation: [S.I. 2000/525](https://www.legislation.gov.uk/uksi/2000/525). Amended by [S.I. 2001/737](https://www.legislation.gov.uk/uksi/2001/737).
+
+[^c11310271]: Marginal citation: [S.I. 2001/737](https://www.legislation.gov.uk/uksi/2001/737).
+
+[^key-c1348322fc14344c412c8cd2c036b2c9]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/551/schedule/part/1) inserted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/7/a)
+
+[^key-85b2a2aabb3775c95ffe3edac4a4559c]: Textual amendment: Words in Sch. Pt. 3 inserted (17.12.2010) by [The Central Rating List (England) (Amendment) (No. 2) Regulations 2010 (S.I. 2010/2692)](https://www.legislation.gov.uk/uksi/2010/2692), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2010/2692/regulation/1/a), [2(2)](https://www.legislation.gov.uk/uksi/2010/2692/regulation/2/2)
+
+[^key-f4bde623e199158e90b8081fd165d46d]: Textual amendment: Words in Sch. Pt. 3 inserted (22.12.2011) by [The Central Rating List (England) (Amendment) Regulations 2011 (S.I. 2011/2743)](https://www.legislation.gov.uk/uksi/2011/2743), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2011/2743/regulation/1/a), [2(2)](https://www.legislation.gov.uk/uksi/2011/2743/regulation/2/2)
+
+[^key-fb5fbbca8296741ca8d21f6b79b47d4d]: Textual amendment: Words in [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/551/schedule/part/3) inserted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/7/b)
+
+[^key-7233930935228ac117d3f2201d981484]: Textual amendment: Words in [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/551/schedule/part/3) inserted (1.4.2024) by [The Non-Domestic Rating (Consequential and Other Amendments) (England) Regulations 2024 (S.I. 2024/246)](https://www.legislation.gov.uk/uksi/2024/246), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/246/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/246/regulation/2)
+
+[^key-0ba90155a403e1211038fca57ee5bbb4]: Textual amendment: Words in Sch. Pt. 4 inserted (31.7.2016) by [The Central Rating List (England) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/714)](https://www.legislation.gov.uk/uksi/2016/714), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/714/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2016/714/regulation/2/2)
+
+[^key-2540339006f023a6c25bc9ba61f1f067]: Textual amendment: Words in [Sch. Pt. 6](https://www.legislation.gov.uk/uksi/2005/551/schedule/part/6) inserted (1.10.2016) by [The Central Rating List (England) (Amendment) (No. 3) Regulations 2016 (S.I. 2016/882)](https://www.legislation.gov.uk/uksi/2016/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/882/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2016/882/regulation/2/2)
+
+[^key-b38032c9ddb754c50411c75c4e825c2f]: Textual amendment: Words in Sch. Pt. 8 omitted (1.4.2013) by virtue of [The Central Rating List (England) (Amendment) Regulations 2013 (S.I. 2013/408)](https://www.legislation.gov.uk/uksi/2013/408), [regs. 1](https://www.legislation.gov.uk/uksi/2013/408/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/408/regulation/2)
+
+[^key-0316ace704f5d0e7c6bb2b7da3352550]: Textual amendment: Words in Sch. Pt. 9 omitted (1.4.2013) by virtue of [The Central Rating List (England) (Amendment) Regulations 2013 (S.I. 2013/408)](https://www.legislation.gov.uk/uksi/2013/408), [regs. 1](https://www.legislation.gov.uk/uksi/2013/408/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/408/regulation/2)
+
+[^key-57c5e8db3e07e756af7ac65388dadcf8]: Textual amendment: Sch. Pt. 12 substituted (31.3.2026) by [The Central Rating List (England) (Amendment) Regulations 2026 (S.I. 2026/172)](https://www.legislation.gov.uk/uksi/2026/172), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/172/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2026/172/regulation/2)

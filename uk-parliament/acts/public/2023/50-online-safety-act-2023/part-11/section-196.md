@@ -1,0 +1,62 @@
+---
+title: Online Safety Act 2023, section 196
+act: Online Safety Act 2023
+section: '196'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/50/section/196
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Online Safety Act 2023, section 196
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 196. Individuals providing regulated services: liability[^key-6e77d673ee3bc7ba2a66b725c9da74c8][^key-78506866e35c784da7d4eb1b735cb30b]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies in relation to two or more individuals who together are the provider of a regulated service (see section 226(3), (5), (7), (9) and (11)).
+
+(2) Any duty or requirement imposed on such a provider under any of the provisions specified in subsection (3), or any liability of such a provider to pay a fee under section 84 or Schedule 10, is to be taken to be imposed on, or to be a liability of, all the individuals jointly and severally.
+
+(3) The provisions are—
+
+- (a) Chapter 2 of Part 3 (providers of user-to-user services: duties of care);
+- (b) Chapter 3 of Part 3 (providers of search services: duties of care);
+- (c) Chapter 4 of Part 3 (children’s access assessments);
+- (d) Chapter 5 of Part 3 (duties about fraudulent advertising);
+- (e) Chapter 1 of Part 4 (user identity verification);
+- (f) Chapter 2 of Part 4 (reporting CSEA content);
+- (g) Chapter 3 of Part 4 (terms of service: transparency, accountability and freedom of expression);
+- (h) Chapter 4 of Part 4 (deceased child users);
+- (i) Chapter 5 of Part 4 (transparency reporting);
+- (j) section 81 (provider pornographic content);
+- (k) section 83 (duty to notify OFCOM).
+
+(4) A notice in respect of a matter that may or must be given by OFCOM under any provision of this Act may be given—
+
+- (a) to only one of the individuals,
+- (b) jointly to two or more of them, or
+- (c) jointly to all of them,
+
+but a separate notice may not be given to each of the individuals in respect of the matter.
+
+(5) If a penalty notice is given jointly to two or more individuals, those individuals are jointly and severally liable to pay the penalty under it.
+
+(6) In subsection (5) a “**penalty notice**” means—
+
+- (a) a confirmation decision that imposes a penalty (see sections 132(5)(b) and 137),
+- (b) a penalty notice under section 139,
+- (c) a penalty notice under section 140(5), or
+- (d) a penalty notice under section 141(6).
+
+## Annotations
+
+[^key-6e77d673ee3bc7ba2a66b725c9da74c8]: Commencement: S. 196 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+
+[^key-78506866e35c784da7d4eb1b735cb30b]: Commencement: [S. 196](https://www.legislation.gov.uk/ukpga/2023/50/section/196) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z24)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z24)

@@ -1,0 +1,250 @@
+---
+title: The Social Security (Mariners' Benefits) Regulations 1975
+id: uksi/1975/529
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1975-03-26'
+text_date: '2013-04-29'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1975/529
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1975/529/pdfs/uksi_19750529_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1975/529/pdfs/uksi_19750529_en.pdf
+- http://www.legislation.gov.uk/uksi/1975/529/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Social Security (Mariners' Benefits) Regulations 1975
+
+> Text as at 2013-04-29.
+
+1975 No. 529
+
+SOCIAL SECURITY
+
+The Social Security (Mariners' Benefits) Regulations 1975
+
+Laid before Parliament in draft
+
+Made
+
+26th March 1975
+
+Coming into Operation
+
+6th April 1975
+
+Whereas a draft of the following regulations was laid before Parliament and approved by a resolution of each House of Parliament:
+
+Now, therefore, the Secretary of State for Social Services, in exercise of the powers conferred upon her by sections 12(1)(a), 14(4) and 41(1) of the Social Security Act 1973 and all other powers enabling her in that behalf, hereby makes the following regulations:— [^key-0d5c6307887ce44c2255aef1d254d2fe][^key-b18217ee73e6348d9a2d104bd78277ce]
+
+## 1. Citation, commencement and interpretation
+
+(1) These regulations may be cited as the Social Security (Mariners' Benefits) Regulations 1975, and shall come into operation on 6th April 1975.
+
+(2) In these regulations, unless the context otherwise requires—
+
+- “**the Act**” means the Social Security Act 1973;
+- “**British ship**” means—
+  - (a) any ship or vessel belonging to Her Majesty; or
+  - (b) any ship or vessel whose port of registry is a port in Great Britain;
+- “contribution-based jobseeker’s allowance” means an allowance under the Jobseekers Act 1995 as amended by the provisions of Part 1 of Schedule 14 to the Welfare Reform Act 2012 that remove references to an income-based allowance, and a contribution-based allowance under the Jobseekers Act 1995 as that Act has effect apart from those provisions;[^key-0879b32f498019dd8cd4ef0364a99f58]
+- “**the Contributions Regulations**” means the Social Security (Contributions) Regulations 1973[^f00001], as amended[^f00002];
+- “contributory employment and support allowance” means an allowance under Part 1 of the Welfare Reform Act as amended by the provisions of Schedule 3, and Part 1 of Schedule 14, to the Welfare Reform Act 2012 that remove references to an income-related allowance, and a contributory allowance under Part 1 of the Welfare Reform Act as that Part has effect apart from those provisions;[^key-a8c8e4fe91541a552de24881edd72c54]
+- “**foreign-going voyage**” means a voyage going outside the following limits, that is to say, the United Kingdom, the Republic of Ireland, the Channel Islands, the Isle of Man and the continent of Europe between the river Elbe and Brest inclusive;
+- “**managing owner**” means that owner of any ship or vessel who, where there is more than one such owner, is responsible for the control and management of that ship or vessel;
+- “**mariner**” means a person who is or has been in employment under a contract of service either as a master or member of the crew of any ship or vessel, or in any other capacity on board any ship or vessel where—
+  - (a) the employment in that other capacity is for the purposes of that ship or vessel or her crew or any passengers or cargo or mails carried thereby; and
+  - (b) the contract is entered into in the United Kingdom with a view to its performance (in whole or in part) while the ship or vessel is on her voyage;
+
+  but does not include a person in so far as his employment is as a serving member of the forces (as defined in regulation 1(2) of the Contributions Regulations), unless he is serving or undergoing training or instruction in any of the forces mentioned in Part I of Schedule 6 to those regulations (except the regular naval, military or air forces of the Crown) for a continuous period not exceeding 72 consecutive hours;
+- “new style JSA” means a jobseeker’s allowance under the Jobseekers Act 1995 as amended by the provisions of Part 1 of Schedule 14 to the 2012 Act that remove references to an income-based allowance;[^key-d551b0ba4f7b9c3a240b2187a5f2f0e6]
+- “**owner**”, in relation to any ship or vessel, means the person to whom the ship or vessel belongs and who, subject to the right of control of the captain or master of the ship or vessel, is entitled to control of that ship or vessel, and references to the owner of a ship or vessel shall, in relation to a ship or vessel which has been demised, be construed as referring to the person who for the time being is entitled as charterer to possession and, subject as aforesaid, control of the ship or vessel by virtue of the demise or any sub-demise;
+- “**share fisherman**” means any person who—
+  - (a) is ordinarily employed in the fishing industry otherwise than under a contract of service, as master or a member of the crew of any British fishing boat within the meaning of section 373 of the Merchant Shipping Act 1894, being a fishing boat manned by more than one person, and remunerated in respect of that employment in whole or in part by a share of the profits or gross earnings of the fishing boat; or
+  - (b) has ordinarily been so employed, but who by reason of age or infirmity permanently ceases to be so employed and becomes ordinarily engaged in employment ashore in Great Britain otherwise than under a contract of service making or mending any gear appurtenant to a British fishing boat or performing other services ancillary to or in connection with that boat and is remunerated in respect of that employment in whole or in part by a share of the profits or gross earnings of that boat and has not ceased to be ordinarily engaged in such employment;
+- “**sea-going share fisherman**” means a person falling within sub-paragraph (a) of the definition of “share fisherman” above;
+- “**on-shore share fisherman**” means a person falling within sub-paragraph (b) of the definition of “share fisherman” above;
+- “[^key-2878323c4982853b574b5286ca783449]**the Welfare Reform Act**” means the Welfare Reform Act 2007;
+
+and, subject as aforesaid, expressions to which meanings are assigned in the Merchant Shipping Acts 1894 to 1970 have the same meanings as in those Acts; and other expressions have the same meanings as in the Act.
+
+(3) Regulations 1, 4, 6(1) and (2) and 9, in their application to mariners but not in their application to share fishermen, shall have effect as if any reference therein in whatever terms to ships or vessels or activities or places connected therewith included a reference to hovercraft or activities or places connected with hovercraft, subject to the modifications contained in the Schedule to these regulations.
+
+(4) Any reference in these regulations to any provision made by or contained in any enactment or instrument shall, except in so far as the context otherwise requires, be construed as a reference to that provision as amended or extended by any enactment or instrument and as including a reference to any provision which it re-enacts or replaces, or which may re-enact or replace it, with or without modification.
+
+(5) The rules for the construction of Acts of Parliament contained in the Interpretation Act 1889 shall apply for the purposes of the interpretation of these regulations as they apply for the purposes of the interpretation of an Act of Parliament.
+
+## 2. Days in periods of paid leave not to be treated as days of unemployment
+
+Where a person, either being domiciled or having a place of residence in the United Kingdom—
+
+- (a) is employed as a mariner on board any British ship, not being a ship used wholly or mainly for the disposal of sludge; or
+- (b) is employed as a mariner on board any ship or vessel, not being a British ship or a ship or vessel used wholly or mainly for the disposal of sludge, and—
+  - (i) the contract in respect of the employment is entered into in the United Kingdom with a view to its performance (in whole or in part) while the ship or vessel is on her voyage; and
+  - (ii) the owner (or managing owner, if there is more than one owner) has a place of business in Great Britain; and
+- (c) upon the termination of a voyage ending during the period of that employment, he is entitled to a day or days of leave on pay, and
+- (d) that employment is terminated before the end of the period of leave on pay,
+
+he shall not be regarded as available for employment on any day in that period of leave[^key-1c1fd0e252ae88e6c4a4af4cfee3d872] and, in relation to new style JSA, shall not be regarded as entitled to a jobseeker’s allowance for any day in that period[^key-e2d53b528997548ef12d62c3c5404409].
+
+## 3. Information to be furnished by mariners on claims for benefit
+
+Upon making any claim for benefit, any mariner shall, if so required, furnish to the Secretary of State the number of his continuous discharge book and particulars of the ships and vessels on board which he was employed during any period material to the claim.
+
+## 4. Removal of disqualification for receiving benefit by reason of absence from Great Britain
+
+Any person, who is or has been employed as a mariner on board any ship or vessel or who is or has been under contract to travel at his employer's expense for the purpose of commencing such employment, shall not by reason of his being absent from Great Britain (but subject to the provisions of any regulations made under section 14(3)(a) (disqualification through misconduct) of the Act or section 18(1) of the Welfare Reform Act 2007,[^key-fe648c5028ac2180cb99536ac3399a61]), be disqualified on any day for receiving—
+
+- (a) incapacity benefit[^key-354958263e7b8ff1ceae469dee8e6232][^key-c316cd94b094e3018ce49732d008e00e], contributory employment and support allowance[^key-d708d9e1446053aec534ee6068e44dbf] or severe disablement allowance, if
+  - (i) on account of any hurt or injury received, or any illness suffered, by him while so employed or under contract so to travel; or
+  - (ii) in consequence of any action taken, while he is or was so employed or under contract so to travel, for the purpose of preventing infection;
+
+  he has been left outside Great Britain or has been discharged or has not commenced such employment; or
+- (b) [^key-164d8adca22203842c56072f86fbd385]...,[^key-3810a52f374d1e079ba98bafb5854096] incapacity benefit, contributory employment and support allowance or severe disablement allowance, if, while so employed or under contract so to travel, he has been left outside Great Britain for any reasons other than those specified in sub-paragraphs (i) and (ii) of paragraph (a) of this regulation, and reports to the appropriate superintendent or consular officer or chief officer of customs not later than 14 days after being so left, or, if, at the time of being so left, he was placed in custody, immediately after his release from custody:
+
+  Provided that this regulation shall cease to have effect—
+
+  - (a) on that person's commencing or resuming employment outside Great Britain; or
+  - (b) in any case where that person is not returned without undue delay to the place to which regulation 7 of the Merchant Shipping (Repatriation) Regulations 1972[^f00003] requires him to be returned, on the occurrence of the delay; or
+  - (c) in any other case, on his being returned to the place mentioned in sub-paragraph (b) of this proviso.
+
+## 4A. Entitlement to a contribution-based jobseeker’s allowance for persons outside Great Britain[^key-cf099a0af484deefbcd26fbd2e363338]
+
+(1) Subject to paragraph (2), where a claimant would be entitled to a contribution-based jobseeker’s allowance but for section 1(2)(i) of the Jobseekers Act 1995 (conditions of entitlement to a jobseeker’s allowance: requirement to be in Great Britain), he shall be entitled to a contribution-based jobseeker’s allowance notwithstanding his absence from Great Britain if—
+
+- (a) he is or has been employed as a mariner on board any ship or vessel, or is or has been under contract to travel at his employer’s expense for the purpose of commencing such employment, and
+- (b) while so employed or under contract so to travel, he has been left outside Great Britain, and reports to the appropriate superintendent or consular officer or chief officer of customs not later than 14 days after being so left, or, if it is not reasonably practicable for him to report within 14 days, as soon as is reasonably practicable.
+
+(2) Paragraph (1) shall cease to apply to a claimant–
+
+- (a) on his commencing or resuming employment outside Great Britain; or
+- (b) on his being returned to the place to which regulation 6 of the Merchant Shipping (Repatriation) Regulations 1979 (place for return) requires him to be returned; or
+- (c) where he is required to be returned under regulation 6 of the Merchant Shipping (Repatriation) Regulations 1979 but is not so returned, on the first day on which his return could reasonably have been expected.
+
+## 5. Evidence of unemployment, incapacity for work or limited capability for work[^key-88898a8a893526e4bf0e0e690d7a79b3]
+
+For the purpose of any claim to a jobseeker’s allowance[^key-3fc33f7841d382053a5b7ed68563757d][^key-8c8ffc2ade96fb19852ce3eacdad011f], incapacity benefit[^key-3cb6d087593a964eed0370ba124948ee], contributory employment and support allowance[^key-270095451d0be8d98fb9e9ae60716d9d] or severe disablement allowance by a mariner or share fisherman employed on board any ship or vessel, evidence may be taken—
+
+- (a) in any part of the Commonwealth or the Republic of Ireland, before a judge or magistrate, or by a superintendent;
+- (b) in a foreign country, by a British consular officer.
+
+## 6. Special provisions relating to days of unemployment, incapacity for work or limited capability for work in the case of mariners and share fishermen employed on board any ships or vessels[^key-585ee91b7331a1ce2b3ad5e50dba8749]
+
+(1)[^key-ddeb14a0c7a3ced1ded71edf8e9fc802] A mariner or share fisherman employed as such on board any ship or vessel shall be treated as available for and actively seeking employment during any period when he is absent from Great Britain if he would be so available or actively seeking employment but for the fact that he is absent from Great Britain.
+
+(1A)[^key-5eef5fec7751231eca372ccbd28b7511] In relation to new style JSA, a mariner or share fisherman employed as such on board any ship or vessel shall be treated as complying with the work-related requirements referred to in section 6(2) of the Jobseekers Act 1995 during any period when he is absent from Great Britain if he would comply with those requirements but for the fact that he is absent from Great Britain.
+
+(2) Where by virtue of regulation 4(a) above a person is not disqualified on any day for receiving incapacity benefit[^key-4c5651e23265343babeab36567ea65f0][^key-6f1cfa3ee7dfcf74ec3096dfbc9f55fa], contributory employment and support allowance[^key-461f67c487c84c081ae8627d275cf629] or severe disablement allowance, although absent from Great Britain, he shall be deemed to be incapable of work or as having limited capability for work as defined in section 1(4) of the Welfare Reform Act[^key-bbf417a44ebfbcf98aa30c65d7736291] by reason of some specific disease or bodily or mental disablement on any such day.
+
+(3)[^key-b577d6749c33fc7d06b02365f215645b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Modification of contribution conditions for receiving benefit in certain circumstances, in respect of mariners employed on board foreign-going ships
+
+Where, on a claim for benefit, a contribution condition that the contributor concerned must in respect of the relevant past year have—[^key-58e448efe1f56c0cb269307c3458f735]
+
+(a) either paid or been credited with contributions of a relevant class and the earnings factor derived from those contributions must not be less than a specified multiple of that year’s lower earnings limit; or
+
+(b) either paid contributions or been credited with earnings as specified in section 2 of the Jobseekers Act 1995, and the earnings factor derived from earnings upon which contributions have been paid or from earnings credited must not be less than a specified multiple of that year’s lower earnings limit,
+
+cannot apart from this regulation be satisfied because the contributor concerned has been employed during the relevant past year in employment as a mariner on a foreign-going voyage in respect of which contributions were payable but have not yet been recorded, the contributor shall be deemed, until contributions have been recorded in respect of that voyage, to have paid contributions, in respect of earnings equal to the lower earnings limit, for each week in the period beginning on the Sunday of the week in which the voyage began and ending at the end of that year or (if earlier) when the voyage ended.
+
+## 8. Special provisions relating to share fishermen[^key-14c1dcbffc63a32a9d97d1f887ea391c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Application of the Act and regulations
+
+The provisions of Part I of the Act and of the regulations made thereunder relating to benefits, or of the Jobseekers Act 1995 and regulations made thereunder[^key-8d74f78966576146130d47f764013fd6] shall, so far as they are not inconsistent with the provisions of these regulations, apply to mariners and share fishermen with this modification, that where a mariner or share fisherman is, on account of his being at sea or outside the United Kingdom by reason of his employment as a mariner or a share fisherman, unable to perform an act required to be done either forthwith or on the happening of a certain event or within a specified time, he shall be deemed to have complied therewith if he performs the act as soon as is reasonably practicable, although after the happening of the event or the expiration of the specified time.
+
+Barbara Castle
+
+Secretary of State for Social Services
+
+## THE SCHEDULE — MODIFICATIONS OF THESE REGULATIONS IN THEIR APPLICATION TO HOVERCRAFT AND ACTIVITIES AND PLACES CONNECTED WITH HOVERCRAFT
+
+Regulation 1(3)
+
+**1.** In regulation 1(2) , the words “and, subject as aforesaid, expressions to which meanings are assigned in the Merchant Shipping Acts 1894 to 1970 have the same meanings as in those Acts” shall not apply.
+
+**2.** In regulation 4 , in paragraph (b) the words “superintendent or” shall be omitted; in sub-paragraph (b) of the proviso for the words “the place to which regulation 7 of the Merchant Shipping (Repatriation) Regulations 1972 requires him to be returned” there shall be substituted the words “Great Britain”; and in sub-paragraph (c) of the proviso for the words “the place mentioned in sub-paragraph (b) of this proviso” there shall be substituted the words “Great Britain”.
+
+EXPLANATORY NOTE
+
+These Regulations modify and amplify the general provisions of Part I of the Social Security Act 1973 and the regulations made thereunder, in their application to persons who are or have been mariners or share fishermen. The principal modifications and amplifications are a provision that in certain cases days of leave on pay immediately after the end of a voyage are not to be treated as days of unemployment (regulation 2); the removal, in certain circumstances, of the statutory disqualification for the receipt of benefit for periods of absence from Great Britain (regulation 4); a provision for deeming a mariner or share fisherman to be available for employment or incapable of work by reason of disease or disablement in certain circumstances when he is absent from Great Britain (regulation 6); a provision for the modification, in certain circumstances, of the contribution conditions for receiving benefit in respect of mariners employed on foreign-going ships ( regulation 7); special provisions relating to conditions for the receipt of unemployment benefit by share fishermen ( regulation 8); and provision for the extension, in certain circumstances, in the case of a mariner or share fisherman employed as such outside the United Kingdom, of the time within which certain acts have to be performed for the purpose of the provisions of Part I of the Act and of regulations relating to benefit (regulation 9). The remaining provisions are of an incidental or consequential character.
+
+These Regulations, being made before the day appointed for the coming into force of section 2 of the Social Security Act 1973, by virtue of section 48(2) of and paragraph 16 of Schedule 12 to that Act are not required to be referred to the National Insurance Advisory Committee and they have not been so referred.
+
+## Annotations
+
+[^key-0d5c6307887ce44c2255aef1d254d2fe]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1975/529) applied (1.10.2003) by [The Housing Grants (Assessment of Contributions) (Scotland) Regulations 2003 (S.S.I. 2003/461)](https://www.legislation.gov.uk/ssi/2003/461), [reg. 13(3)](https://www.legislation.gov.uk/ssi/2003/461/regulation/13/3)
+
+[^key-b18217ee73e6348d9a2d104bd78277ce]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1975/529) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii)[(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+
+[^key-0879b32f498019dd8cd4ef0364a99f58]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1975/529/regulation/1/2) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [22(2)(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/22/2/a)
+
+[^f00001]: Footnote: (1973 II, p. 3750).
+
+[^f00002]: Footnote: The relevant amending instruments are S.I. 1974/2035, 2171 (1974 III, pp. 7871, 8523).
+
+[^key-a8c8e4fe91541a552de24881edd72c54]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1975/529/regulation/1/2) substituted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [22(2)(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/22/2/b)
+
+[^key-d551b0ba4f7b9c3a240b2187a5f2f0e6]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1975/529/regulation/1/2) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [22(2)(c)](https://www.legislation.gov.uk/uksi/2013/630/regulation/22/2/c)
+
+[^key-2878323c4982853b574b5286ca783449]: Textual amendment: Words in reg. 1(2) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [67(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/67/2/b)
+
+[^key-1c1fd0e252ae88e6c4a4af4cfee3d872]: Textual amendment: Words in reg. 2 substituted (7.10.1996) by [The Jobseeker’s Allowance Regulations 1996 (S.I. 1996/207)](https://www.legislation.gov.uk/uksi/1996/207), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1996/207/regulation/1/2), [166(2)](https://www.legislation.gov.uk/uksi/1996/207/regulation/166/2)
+
+[^key-e2d53b528997548ef12d62c3c5404409]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1975/529/regulation/2) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/22/3)
+
+[^key-fe648c5028ac2180cb99536ac3399a61]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1975/529/regulation/4) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [67(3)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/67/3/a)
+
+[^key-354958263e7b8ff1ceae469dee8e6232]: Textual amendment: Words in reg. 4 substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/1995/829/regulation/4/2) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-c316cd94b094e3018ce49732d008e00e]: Textual amendment: Words in reg. 4(a) substituted (29.11.1984) by [The Social Security (Severe Disablement Allowance) Regulations 1984 (S.I. 1984/1303)](https://www.legislation.gov.uk/uksi/1984/1303), [regs. 1](https://www.legislation.gov.uk/uksi/1984/1303/regulation/1), [15(2)(a)](https://www.legislation.gov.uk/uksi/1984/1303/regulation/15/2/a)
+
+[^key-d708d9e1446053aec534ee6068e44dbf]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1975/529/regulation/4) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [67(3)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/67/3/b)
+
+[^key-164d8adca22203842c56072f86fbd385]: Textual amendment: Words in reg. 4(b) omitted (7.10.1996) by virtue of [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/21/2)
+
+[^key-3810a52f374d1e079ba98bafb5854096]: Textual amendment: Words in reg. 4(b) substituted (29.11.1984) by [The Social Security (Severe Disablement Allowance) Regulations 1984 (S.I. 1984/1303)](https://www.legislation.gov.uk/uksi/1984/1303), [regs. 1](https://www.legislation.gov.uk/uksi/1984/1303/regulation/1), [15(2)(b)](https://www.legislation.gov.uk/uksi/1984/1303/regulation/15/2/b)
+
+[^f00003]: Footnote: (1972 III, p. 5198).
+
+[^key-cf099a0af484deefbcd26fbd2e363338]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/1975/529/regulation/4A) inserted (7.10.1996) by [The Jobseeker’s Allowance Regulations 1996 (S.I. 1996/207)](https://www.legislation.gov.uk/uksi/1996/207), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1996/207/regulation/1/2), [166(3)](https://www.legislation.gov.uk/uksi/1996/207/regulation/166/3)
+
+[^key-88898a8a893526e4bf0e0e690d7a79b3]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/1975/529/regulation/5) heading substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [67(4)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/67/4/a)
+
+[^key-3fc33f7841d382053a5b7ed68563757d]: Textual amendment: Words in reg. 5 substituted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [21(3)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/21/3)
+
+[^key-8c8ffc2ade96fb19852ce3eacdad011f]: Textual amendment: Words in reg. 5 substituted (29.11.1984) by [The Social Security (Severe Disablement Allowance) Regulations 1984 (S.I. 1984/1303)](https://www.legislation.gov.uk/uksi/1984/1303), [regs. 1](https://www.legislation.gov.uk/uksi/1984/1303/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/1984/1303/regulation/15/3)
+
+[^key-3cb6d087593a964eed0370ba124948ee]: Textual amendment: Words in reg. 5 substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/1995/829/regulation/4/3) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-270095451d0be8d98fb9e9ae60716d9d]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/1975/529/regulation/5) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [67(4)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/67/4/b)
+
+[^key-585ee91b7331a1ce2b3ad5e50dba8749]: Textual amendment: Words in reg. 6 heading substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [67(5)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/67/5/a)
+
+[^key-ddeb14a0c7a3ced1ded71edf8e9fc802]: Textual amendment: Reg. 6(1) substituted (7.10.1996) by [The Jobseeker’s Allowance Regulations 1996 (S.I. 1996/207)](https://www.legislation.gov.uk/uksi/1996/207), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1996/207/regulation/1/2), [166(4)](https://www.legislation.gov.uk/uksi/1996/207/regulation/166/4)
+
+[^key-5eef5fec7751231eca372ccbd28b7511]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/1975/529/regulation/6/1A) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [22(4)](https://www.legislation.gov.uk/uksi/2013/630/regulation/22/4)
+
+[^key-4c5651e23265343babeab36567ea65f0]: Textual amendment: Words in reg. 6(2) substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/1995/829/regulation/4/4) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-6f1cfa3ee7dfcf74ec3096dfbc9f55fa]: Textual amendment: Words in reg. 6(2) substituted (29.11.1984) by [The Social Security (Severe Disablement Allowance) Regulations 1984 (S.I. 1984/1303)](https://www.legislation.gov.uk/uksi/1984/1303), [regs. 1](https://www.legislation.gov.uk/uksi/1984/1303/regulation/1), [15(4)](https://www.legislation.gov.uk/uksi/1984/1303/regulation/15/4)
+
+[^key-461f67c487c84c081ae8627d275cf629]: Textual amendment: Words in reg. 6(2) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [67(5)(b)(i)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/67/5/b/i)
+
+[^key-bbf417a44ebfbcf98aa30c65d7736291]: Textual amendment: Words in reg. 6(2) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [67(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/67/5/b/ii)
+
+[^key-b577d6749c33fc7d06b02365f215645b]: Textual amendment: Reg. 6(3) revoked (11.3.1997) by [The Social Security (Jobseeker’s Allowance and Mariners’ Benefits) (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/563)](https://www.legislation.gov.uk/uksi/1997/563), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/563/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/1997/563/regulation/6)
+
+[^key-58e448efe1f56c0cb269307c3458f735]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1975/529/regulation/7) substituted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [21(4)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/21/4)
+
+[^key-14c1dcbffc63a32a9d97d1f887ea391c]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1975/529/regulation/8) revoked (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [27](https://www.legislation.gov.uk/uksi/1996/1345/regulation/27), [Sch.](https://www.legislation.gov.uk/uksi/1996/1345/schedule)
+
+[^key-8d74f78966576146130d47f764013fd6]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/1975/529/regulation/9) inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [21(5)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/21/5)

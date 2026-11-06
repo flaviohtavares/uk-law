@@ -1,0 +1,42 @@
+---
+title: Finance Act 1986, section 2
+act: Finance Act 1986
+section: '2'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1986/41/section/2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 1986, section 2
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/41
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 2. Hydrocarbon oil.
+
+*Extent: E+W+S+N.I.*
+
+(1) In section 6(1) of the [^c13531921]Hydrocarbon Oil Duties Act 1979 for “£0·1794” (light oil) and “£0·1515” (heavy oil) there shall be substituted “£0·1938” and “£0·1639” respectively.
+
+(2) In subsection (1) of section 11 of that Act (rebate on heavy oil) for paragraphs (a) and (b) there shall be substituted—
+
+> - (a) in the case of fuel oil, of £0·0077 a litre less than the rate at which the duty is for the time being chargeable;
+> - (b) in the case of gas oil, of £0·0110 a litre less than the rate at which the duty is for the time being chargeable; and
+> - (c) in the case of heavy oil other than fuel oil and gas oil, equal to the rate at which the duty is for the time being chargeable.
+
+(3) For subsection (2) of section 11 of that Act (definition of types of heavy oil), there shall be substituted—
+
+> (2) In this section—
+>
+> - “**fuel oil**” means heavy oil which contains in solution an amount of asphaltenes of not less than 0·5 per cent. or which contains less than 0·5 per cent. but not less than 0·1 per cent. of asphaltenes and has a closed flash point not exceeding 150½C; and
+> - “**gas oil**” means heavy oil of which not more than 50 per cent. by volume distils at a temperature not exceeding 240½C and of which more than 50 per cent. by volume distils at a temperature not exceeding 340½C.
+
+(4) This section shall be deemed to have come into force at 6 o’oclock in the evening of 18th March 1986.
+
+## Annotations
+
+[^c13531921]: Marginal citation: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5).

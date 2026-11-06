@@ -1,0 +1,79 @@
+---
+title: The Inheritance Tax (Delivery of Accounts) (Scotland) Regulations 2000
+id: uksi/2000/966
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2000-04-03'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2000/966
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/966/pdfs/uksi_20000966_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/966/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Inheritance Tax (Delivery of Accounts) (Scotland) Regulations 2000
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2000 No. 966
+
+INHERITANCE TAX
+
+The Inheritance Tax (Delivery of Accounts) (Scotland) Regulations 2000
+
+Made
+
+3rd April 2000
+
+Laid before the House of Commons
+
+4th April 2000
+
+Coming into force
+
+1st May 2000
+
+The Commissioners of Inland Revenue, in exercise of the powers conferred on them by section 256(1)(a) of the Inheritance Tax Act 1984[^f00001], hereby make the following Regulations:
+
+**1.** (1) These Regulations may be cited as the Inheritance Tax (Delivery of Accounts) (Scotland) Regulations 2000, shall come into force on 1st May 2000 and shall have effect in relation to deaths occurring on or after 6th April 2000.
+
+(2) These Regulations extend to Scotland only.
+
+**2.** In regulation 3 of the Capital Transfer Tax (Delivery of Accounts) (Scotland) Regulations 1981[^f00002], for the definition of “an excepted estate ” there shall be substituted the following definition—
+
+> - “an excepted estate” means the estate of a person immediately before his death in a case where—
+>   - (a) that person died on or after 6th April 2000, domiciled in the United Kingdom;
+>   - (b) the value of that person’s estate is attributable wholly to property passing under his will or intestacy or under a nomination of an asset taking effect on death or by survivorship;
+>   - (c) of that property not more than £50,000 represented value attributable to property which, immediately before that person’s death, was situated outside the United Kingdom;
+>   - (d) that person died without having made any chargeable transfers during the period of seven years ending with his death other than specified transfers where the aggregate value transferred did not exceed £75,000; and
+>   - (e) the aggregate of the gross value of that person’s estate and of the value transferred by any specified transfers made by that person did not exceed £210,000;
+>
+>   and in paragraphs (d) and (e) of this definition “specified transfers ” means chargeable transfers made during the period of seven years ending with that person’s death where the value transferred is attributable to cash or to quoted shares or securities;
+
+.
+
+Nick Montagu
+
+Ann Chant
+
+Two of the Commissioners of Inland Revenue
+
+3rd April 2000
+
+(This note is not part of the Regulations)
+
+Regulation 4 of the Capital Transfer Tax (Delivery of Accounts) (Scotland) Regulations 1981 (S.I. [1981/881](https://www.legislation.gov.uk/uksi/1981/881)) (“the principal Regulations”) provides that a person is not required to deliver an account of the property comprised in an excepted estate for inheritance tax purposes. (By virtue of section 100 of the Finance Act [1986 (c. 41)](https://www.legislation.gov.uk/ukpga/1986/41) capital transfer tax is now known as inheritance tax.) An excepted estate is defined in regulation 3 of the principal Regulations.
+
+These Regulations substitute a new definition of “an excepted estate ” in respect of deaths on or after 6th April 2000. The definition substituted differs from the previous definition in that the limit on the aggregate of the gross value of the deceased’s estate and of the value transferred by any specified transfers made by the deceased is raised from £200,000 to £210,000.
+
+## Annotations
+
+[^f00001]: Footnote: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51). By virtue of section 100(1) and (2) of the Finance Act [1986 (c. 41)](https://www.legislation.gov.uk/ukpga/1986/41), on and after 25th July 1986 the Capital Transfer Tax Act 1984 may be cited as the Inheritance Tax Act 1984, and any reference in that Act to capital transfer tax is to have effect as a reference to inheritance tax, except where the reference relates to a liability to tax arising before 25th July 1986.
+
+[^f00002]: Footnote: S.I. [1981/881](https://www.legislation.gov.uk/uksi/1981/881), amended by S.I. [1983/1040](https://www.legislation.gov.uk/uksi/1983/1040), [1987/1128](https://www.legislation.gov.uk/uksi/1987/1128), [1989/1079](https://www.legislation.gov.uk/uksi/1989/1079), [1990/1111](https://www.legislation.gov.uk/uksi/1990/1111), [1991/1249](https://www.legislation.gov.uk/uksi/1991/1249), [1995/1459](https://www.legislation.gov.uk/uksi/1995/1459), [1996/1472](https://www.legislation.gov.uk/uksi/1996/1472), and [1998/1430](https://www.legislation.gov.uk/uksi/1998/1430).

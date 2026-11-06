@@ -1,0 +1,67 @@
+---
+title: Corporation Tax Act 2010, section 288
+act: Corporation Tax Act 2010
+section: '288'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/288
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 288
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 288. Sale and lease-back
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if conditions A, B and C are met.
+
+(2) Condition A is that a company (“the seller”) carrying on a trade has disposed of—
+
+- (a) an asset which was used for the purposes of that trade, or
+- (b) an interest in such an asset.
+
+(3) Condition B is that the asset is used, under a lease, by the seller or a company associated with the seller (“**the lessee**”) for the purposes of a ring fence trade carried on by the lessee.
+
+(4) Condition C is that the lessee uses the asset before the end of the period of two years beginning with the disposal.
+
+(5) Subsection (6) applies to so much (if any) of the expenditure incurred by the lessee under the lease as—
+
+- (a)[^key-81c0fbe8251fc6aa757389aaf7dc0666] falls, in accordance with generally accepted accounting practice, to be treated in the accounts of the lessee—
+  - (i) as a finance charge, or
+  - (ii) as an interest expense where any such expenditure would fall to be treated in those accounts as a finance charge if the lessee were required under generally accepted accounting practice to determine whether that expenditure should be so treated,
+- (aa) if the lease is a right-of-use lease which is a long funding finance lease, falls, in accordance with generally accepted accounting practice, to be treated in the accounts of the lessee as an interest expense, or
+- (b) falls, if the lease is a long funding operating lease, to be deductible in calculating the profits of the lessee for corporation tax purposes (after first making against any such expenditure any reductions falling to be made as a result of section 379 (lessee under long funding operating lease)).
+
+But subsection (6) is subject to subsection (7).
+
+(6) The expenditure is not allowable in calculating for the purposes of Part 3 of CTA 2009 the profits of the ring fence trade.
+
+(7) Expenditure is not to be disallowed because of subsection (6) so far as the disposal mentioned in subsection (2) is made for a consideration which—
+
+- (a) is used to meet expenditure incurred by the seller in carrying on oil extraction activities or in acquiring oil rights otherwise than from a company associated with the seller, or
+- (b) is appropriated to meeting expenditure to be so incurred by the seller.
+
+(8) If any expenditure—
+
+- (a) would, but for subsection (6), be allowable in calculating for the purposes of Part 3 of CTA 2009 the profits of the ring fence trade for an accounting period, but
+- (b) because of that subsection is not so allowable,
+
+the expenditure is to be brought into account for the purposes of Part 5 of CTA 2009 (loan relationships) as if it were a non-trading debit in respect of a loan relationship of the lessee for that period.
+
+(9) In this section—
+
+- “long funding finance lease”, “long funding operating lease” and “right-of-use lease” have the meanings given in Part 2 of[^key-5ae34cefce72cb1e18e375fd075c7fde] CAA 2001 (see section 70YI(1) of that Act),
+- “**lease**”, in relation to an asset, has the same meaning as in Chapter 3 of Part 19 (see section 868).
+
+## Annotations
+
+[^key-81c0fbe8251fc6aa757389aaf7dc0666]: Textual amendment: S. 288(5)(a)(aa) substituted for s. 288(5)(a) (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/2/a)
+
+[^key-5ae34cefce72cb1e18e375fd075c7fde]: Textual amendment: Words in s. 288(9) substituted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/2/b)

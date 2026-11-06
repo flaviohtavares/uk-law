@@ -1,0 +1,136 @@
+---
+title: The Transport for London (Preliminary Arrangements) Order 2000
+id: uksi/2000/1045
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2000-04-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2000/1045
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/1045/pdfs/uksi_20001045_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/1045/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Transport for London (Preliminary Arrangements) Order 2000
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2000 No. 1045
+
+LONDON GOVERNMENT
+
+The Transport for London (Preliminary Arrangements) Order 2000
+
+Made
+
+13th April 2000
+
+Laid before Parliament
+
+17th April 2000
+
+Coming into force
+
+8th May 2000
+
+The Secretary of State for the Environment, Transport and the Regions, in exercise of the powers conferred by sections 406 and 420(1) of the Greater London Authority Act 1999[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Order:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Transport for London (Preliminary Arrangements) Order 2000 and shall come into force on 8th May 2000.
+
+(2) For the purposes of this Order—
+
+- (a) “the Act” means the Greater London Authority Act 1999;
+- (b) “chief finance officer” means the person who is, by virtue of his appointment under section 407 of the Act, for the time being the chief finance officer of Transport for London;
+- (c) “the operative date” means 8th May 2000; and
+- (d) “the preliminary standing orders” means the standing orders for the conduct of Transport for London’s business in relation to the matters set out in Schedule 1, contained in a document entitled “Standing Orders of Transport for London” signed by a Director in the Department of the Environment, Transport and the Regions (Government Office for London) and dated 12th April 2000.
+
+## 2. Preliminary standing orders and financial arrangements
+
+For the purpose of the exercise of the functions of Transport for London on and after the operative date—
+
+- (a) the preliminary standing orders; and
+- (b) arrangements, in relation to the matters set out in Schedule 2, prepared by the chief finance officer before the operative date,
+
+shall have effect until varied or replaced by Transport for London under any of the provisions of Schedule 10 to the Act.
+
+Signed by authority of the Secretary of State
+
+Keith Hill
+
+Parliamentary Under Secretary of State,
+
+Department of the Environment, Transport and the Regions
+
+13th April 2000
+
+## SCHEDULE 1 — STANDING ORDERS FOR CONDUCT OF BUSINESS
+
+Article 1(2)(d)
+
+**1.** Arrangements for the conduct of meetings.
+
+**2.** The establishment of committees and sub-committees.
+
+**3.** The delegation of functions to committees, sub-committees, subsidiaries, members or officers of Transport for London.
+
+**4.** The making of arrangements for access by members of Transport for London to—
+
+- (a) information within the control of Transport for London; and
+- (b) professional and other advice in connection with the functions of Transport for London.
+
+**5.** The authorisation of persons to execute documents and authenticate the application of the seal of Transport for London.
+
+## SCHEDULE 2 — ARRANGEMENTS FOR FINANCIAL ADMINISTRATION
+
+Article 2
+
+**1.** The allocation and delegation of functions in connection with financial administration—
+
+- (a) by the chief finance officer, and
+- (b) to and by other officers.
+
+**2.** The preparation of—
+
+- (a) a corporate plan; and
+- (b) capital and revenue budgets.
+
+**3.** The monitoring and control of budgeted expenditure.
+
+**4.** The making of arrangements for—
+
+- (a) investment;
+- (b) borrowing;
+- (c) the use of credit approvals given under Chapter IV of Part III of the Act;
+- (d) the opening and management of bank accounts.
+
+**5.** The establishment of financial systems for Transport for London, including procedures and practices for—
+
+- (a) accounting for income and costs;
+- (b) the management of assets; and
+- (c) the preparation of statements of accounts.
+
+**6.** Arrangements for internal audit.
+
+**7.** The treatment of financial irregularities.
+
+**8.** Arrangements for financial management within subsidiaries of Transport for London.
+
+(This note is not part of the Order)
+
+Under the Greater London Authority Act 1999, Transport for London comes into existence on 8th May 2000 and assumes its principal functions on 3rd July 2000.
+
+Article 2 of this Order provides for arrangements for the exercise of Transport for London’s functions in connection with the matters set out in Schedule 1 (standing orders as to conduct of business) and Schedule 2 (financial arrangements) to have effect until replaced or varied by Transport for London under Schedule 10 to the Greater London Authority Act 1999.
+
+Documents setting out the standing orders and the financial arrangements may be inspected during ordinary office hours at Romney House, Tufton Street, London SW1P 3RA.
+
+## Annotations
+
+[^f00001]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).

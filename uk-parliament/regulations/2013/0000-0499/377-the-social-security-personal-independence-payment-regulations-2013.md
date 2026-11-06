@@ -1,0 +1,1434 @@
+---
+title: The Social Security (Personal Independence Payment) Regulations 2013
+id: uksi/2013/377
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-02-25'
+text_date: '2026-04-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2013/377
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/377/pdfs/uksiem_20130377_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/377/pdfs/uksi_20130377_310516_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/377/pdfs/uksi_20130377_290216_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/377/pdfs/uksi_20130377_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/377/pdfs/uksi_20130377_280215_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/377/pdfs/uksi_20130377_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/377/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Personal Independence Payment) Regulations 2013
+
+> Text as at 2026-04-30.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2013 No. 377
+
+Social Security
+
+The Social Security (Personal Independence Payment) Regulations 2013
+
+Made
+
+25th February 2013
+
+Coming into force in accordance with regulation 1(2)
+
+The Secretary of State for Work and Pensions, in exercise of the powers conferred by sections 77(3), 78(3) and (4), 79(3) and (4), 80(1), (2), (3), (4) and (5)(a) and (c), 81(1), (3)(b) and (4), 83(3), 85(1), (5) and (6), 86(1) and (3), 87, 92(1) and 94(1), (2), (3)(a) and (4) of the Welfare Reform Act 2012 [^c2166019], makes the following Regulations.
+
+A draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament pursuant to section 94(6) of that Act.
+
+These Regulations are made under the provisions of that Act and are made before the end of a period of 6 months beginning with the coming into force of those provisions [^c2166020].
+
+## PART 1 — General
+
+### 1. Citation and commencement[^c2203149]
+
+(1) These Regulations may be cited as the Social Security (Personal Independence Payment) Regulations 2013.
+
+(2) These Regulations come into force in relation to a particular case on the day on which Part 4 of the Act comes into force in relation to that case [^c2166021].
+
+### 2. Interpretation[^c2203150]
+
+In these Regulations—
+
+- “**the 1998 Act**” means the Social Security Act 1998[^c2166022];
+- “**the Act**” means the Welfare Reform Act 2012;
+- “[^key-9eb6762e2233ea8ca49b2179636a7f5c]**adult disability payment**” has the meaning given in regulation 2 of the Disability Assistance for Working Age People (Scotland) Regulations 2022;
+- “aid or appliance”—
+  - (a) means any device which improves, provides or replaces C's impaired physical or mental function; and
+  - (b) includes a prosthesis;
+- “**assessment**” means the assessment referred to in regulation 4;
+- “**C**” means a person who has made a claim for or, as the case may be, is entitled to personal independence payment;
+- “**child disability payment**” has the meaning given in regulation 2 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021;
+- “**component**” means the daily living component or, as the case may be, the mobility component of personal independence payment;
+- “**descriptor**” means a descriptor in column 2 of the tables in Parts 2 and 3 of Schedule 1;
+- “**disability living allowance**” means disability living allowance under section 71 of the Social Security Contributions and Benefits Act 1992[^c2166023];
+- “**medical treatment**” means medical, surgical or rehabilitative treatment (including any course or diet or other regimen), and references to a person receiving or submitting to medical treatment are to be construed accordingly;
+- “**prescribed date**” means the date prescribed [^c2166024] by regulation 14, 15[^key-095ff8e378c40623078d52e77458fb3a] or 15A *(Extent: E+W)* *(affected by repeal, see note)*[^key-47152759669ce28fbe8c0cd5e1a2844c] , 15A or 15B *(Extent: E+W)*;
+- “**previous award**” means an award of either or both components to which C has ceased to be entitled;
+- “[^key-11068933f9babc425385b8e49433abea]**the residence change date**”, in relation to a person, means the date on which the person becomes permanently resident in Scotland (whether or not the Secretary of State is notified of the move and whether or not any such notification takes place before or after the person moves to Scotland);
+- “**revised**” means revised under section 9 of the 1998 Act, and “**revision**” is to be construed accordingly;
+- “[^key-ff91c90add4d8b75aaddc8e78b9beac7]**run-on period**” has the meaning given in regulation 23ZB(4);
+- “ *(Extent: E+W)*[^key-4462c57c53c09f74d0c83149f61d53fa]**Scottish adult disability living allowance *(Extent: E+W)***” has the meaning given in regulation 2 of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025; *(Extent: E+W)*
+- “**superseded**” means superseded under section 10 of the 1998 Act[^c2166025], and “**supersession**” is to be construed accordingly; and
+
+terms defined for the purposes of a provision of Part 4 of the Act have the same meaning in these Regulations.
+
+## PART 2 — Personal independence payment assessment
+
+### 3. Daily living activities and mobility activities[^c2203151]
+
+(1) For the purposes of section 78(4) of the Act and these Regulations, daily living activities are the activities set out in column 1 of the table in Part 2 of Schedule 1.
+
+(2) For the purposes of section 79(4) of the Act and these Regulations, mobility activities are the activities set out in column 1 of the table in Part 3 of Schedule 1.
+
+### 4. Assessment of ability to carry out activities[^c2203152]
+
+(1) For the purposes of section 77(2) and section 78 or 79, as the case may be, of the Act, whether C has limited or severely limited ability to carry out daily living or mobility activities, as a result of C's physical or mental condition, is to be determined on the basis of an assessment.
+
+(2) C's ability to carry out an activity is to be assessed –
+
+- (a) on the basis of C's ability whilst wearing or using any aid or appliance which C normally wears or uses; or
+- (b) as if C were wearing or using any aid or appliance which C could reasonably be expected to wear or use.
+
+(2A)[^key-da43c09bb2180741b3d709d0e8da5eec] Where C’s ability to carry out an activity is assessed, C is to be assessed as satisfying a descriptor only if C can do so—
+
+- (a) safely;
+- (b) to an acceptable standard;
+- (c) repeatedly; and
+- (d) within a reasonable time period.
+
+(3) Where C has been assessed as having severely limited ability to carry out activities, C is not to be treated as also having limited ability in relation to the same activities.
+
+(4)[^key-8aedc01499fdf2643cb6bbeae617e645] In this regulation—
+
+- (a) “safely” means in a manner unlikely to cause harm to C or to another person, either during or after completion of the activity;
+- (b) “repeatedly” means as often as the activity being assessed is reasonably required to be completed; and
+- (c) “reasonable time period” means no more than twice as long as the maximum period that a person without a physical or mental condition which limits that person’s ability to carry out the activity in question would normally take to complete that activity.
+
+### 5. Scoring for daily living activities[^c2203153]
+
+(1) The score C obtains in relation to daily living activities is determined by adding together the number of points (if any) awarded for each activity listed in column 1 of the table in Part 2 of Schedule 1 (“the daily living activities table”).
+
+(2) For the purpose of paragraph (1), the number of points awarded to C for each activity listed in column 1 of the daily living activities table is the number shown in column 3 of the table against whichever of the descriptors set out in column 2 of the table for the activity applies to C under regulation 7.
+
+(3) Where C has undergone an assessment, C has —
+
+- (a) limited ability to carry out daily living activities where C obtains a score of at least 8 points in relation to daily living activities; and
+- (b) severely limited ability to carry out daily living activities where C obtains a score of at least 12 points in relation to daily living activities.
+
+### 6. Scoring for mobility activities[^c2203154]
+
+(1) The score C obtains in relation to mobility activities is determined by adding together the number of points (if any) awarded for each activity listed in column 1 of the table in Part 3 of Schedule 1 (“the mobility activities table”).
+
+(2) For the purpose of paragraph (1), the number of points awarded to C for each activity listed in column 1 of the mobility activities table is the number shown in column 3 of the table against whichever of the descriptors set out in column 2 of the table for the activity applies to C under regulation 7.
+
+(3) Where C has undergone an assessment, C has —
+
+- (a) limited ability to carry out mobility activities where C obtains a score of at least 8 points in relation to mobility activities; and
+- (b) severely limited ability to carry out mobility activities where C obtains a score of at least 12 points in relation to mobility activities.
+
+### 7. Scoring: further provision[^c2203155]
+
+(1) The descriptor which applies to C in relation to each activity in the tables referred to in regulations 5 and 6 is—
+
+- (a) where one descriptor is satisfied on over 50% of the days of the required period, that descriptor;
+- (b) where two or more descriptors are each satisfied on over 50% of the days of the required period, the descriptor which scores the higher or highest number of points; and
+- (c) where no descriptor is satisfied on over 50% of the days of the required period but two or more descriptors (other than a descriptor which scores 0 points) are satisfied for periods which, when added together, amount to over 50% of the days of the required period–
+  - (i) the descriptor which is satisfied for the greater or greatest proportion of days of the required period; or,
+  - (ii) where both or all descriptors are satisfied for the same proportion, the descriptor which scores the higher or highest number of points.
+
+(2) For the purposes of paragraph (1), a descriptor is satisfied on a day in the required period if it is likely that, if C had been assessed on that day, C would have satisfied that descriptor.
+
+(3) In paragraphs (1) and (2), “**required period**” means—
+
+- (a) in the case where entitlement to personal independence payment falls to be determined, the period of 3 months ending with the prescribed date together with—
+  - (i) in relation to a claim after an interval for the purpose of regulation 15 or 15A[^key-d68a35133df715fb0be086d6dccb4964], the period of 9 months beginning with the date on which that claim is made;
+  - (ii) in relation to any other claim, the period of 9 months beginning with the day after the prescribed date.
+- (b) in the case where personal independence payment has been awarded to C—
+  - (i) during the period of 3 months following a determination of entitlement under a claim for the purpose of regulation 15 or 15A[^key-8a88a686d80f1d51f3255c51c57e4a56], the period of 3 months ending with the prescribed date together with, for each day of the award, the period of 9 months beginning with the day after that date;
+  - (ii) in any other case, for each day of the award, the period of 3 months ending with that date together with the period of 9 months beginning with the day after that date.
+
+### 8. Information or evidence required for determining limited or severely limited ability to carry out activities[^c2203156]
+
+(1) The Secretary of State may require C to provide any information or evidence required to determine whether C has limited ability or severely limited ability to carry out daily living activities or mobility activities.
+
+(2) Where information or evidence is requested under paragraph (1), C must provide the information or evidence to the Secretary of State within one month from the date of the request being made or within such longer period as the Secretary of State may consider reasonable in the circumstances of the particular case.
+
+(3) Where C fails without good reason to comply with the request referred to in paragraph (1), a negative determination in relation to the component to which the failure related must be made.
+
+### 9. Claimant may be called for a consultation to determine whether the claimant has limited or severely limited ability to carry out activities[^c2203157]
+
+(1) Where it falls to be determined whether C has limited ability or severely limited ability to carry out daily living activities or mobility activities, C may be required to do either or both of the following —
+
+- (a) attend for and participate in a consultation in person;
+- (b) participate in a consultation by telephone or by video[^key-c5afb0b343758ede6ef947278bf96038] or by video[^key-0eaff8ab04ba8612391c40775698badb].
+
+(2) Subject to paragraph (3), where C fails without good reason to attend for or participate in a consultation referred to in paragraph (1), a negative determination must be made.
+
+(3) Paragraph (2) does not apply unless —
+
+- (a) written notice of the date, time and, where applicable, place for, the consultation is sent to C at least 7 days in advance; or
+- (b) C agrees, whether in writing or otherwise, to accept a shorter period of notice of those matters.
+
+(4) In paragraph (3), reference to written notice includes notice sent by electronic communication where C has agreed to accept correspondence in that way and ‘electronic communication’ has the meaning given in section 15(1) of the Electronic Communications Act 2000 [^c2166026].
+
+(5) In this regulation, a reference to consultation is to a consultation with a person approved by the Secretary of State.
+
+### 10. Matters to be taken into account in determining good reason in relation to regulations 8 and 9[^c2203158]
+
+The matters to be taken into account in determining whether C has good reason under regulation 8(3) or 9(2) include —
+
+- (a) C's state of health at the relevant time; and
+- (b) the nature of any disability that C has.
+
+### 11. Re-determination of ability to carry out activities[^c2203159]
+
+(1)[^key-3c22f1cdfb2c4a773a6806971fc625f5] Subject to paragraph (2), where[^key-8c56de502ee06e51aeba45b8e19cfe85] it has been determined that C has limited ability or severely limited ability to carry out either or both daily living activities or mobility activities, the Secretary of State may, for any reason and at any time, determine afresh in accordance with regulation 4 whether C continues to have such limited ability or severely limited ability.
+
+(2)[^key-fa94aa23b7a03f21eb1b42b0962c75b3] For the purposes of paragraph (1), doing work for payment or in expectation of payment, or doing voluntary work, is not a reason for a fresh determination.
+
+## PART 3 — Required period condition
+
+### 12. Required period condition: daily living component[^c2203160]
+
+(1) C meets the required period condition for the purposes of section 78(1) of the Act (daily living component at standard rate) where —
+
+- (a) if C had been assessed at every time in the period of 3 months ending with the prescribed date, it is likely that the Secretary of State would have determined at that time that C had limited ability to carry out daily living activities; and
+- (b) if C were to be assessed at every time in the period of 9 months beginning with the day after the prescribed date, it is likely that the Secretary of State would determine at that time that C had limited ability to carry out daily living activities.
+
+(2) C meets the required period condition for the purposes of section 78(2) of the Act (daily living component at enhanced rate) where —
+
+- (a) if C had been assessed at every time in the period of 3 months ending with the prescribed date, it is likely that the Secretary of State would have determined at that time that C had severely limited ability to carry out daily living activities; and
+- (b) if C were to be assessed at every time in the period of 9 months beginning with the day after the prescribed date, it is likely that the Secretary of State would determine at that time that C had severely limited ability to carry out daily living activities.
+
+### 13. Required period condition: mobility component[^c2203161]
+
+(1) C meets the required period condition for the purposes of section 79(1) of the Act (mobility component at standard rate) where —
+
+- (a) if C had been assessed at every time in the period of 3 months ending with the prescribed date, it is likely that the Secretary of State would have determined at that time that C had limited ability to carry out mobility activities; and
+- (b) if C were to be assessed at every time in the period of 9 months beginning with the day after the prescribed date, it is likely that the Secretary of State would determine at that time that C had limited ability to carry out mobility activities.
+
+(2) C meets the required period condition for the purposes of section 79(2) of the Act (mobility component at enhanced rate) where —
+
+- (a) if C had been assessed at every time in the period of 3 months ending with the prescribed date, it is likely that the Secretary of State would have determined at that time that C had severely limited ability to carry out mobility activities; and
+- (b) if C were to be assessed at every time in the period of 9 months beginning with the day after the prescribed date, it is likely that the Secretary of State would determine at that time that C had severely limited ability to carry out mobility activities.
+
+### 14. The prescribed date[^c2203162]
+
+Except where paragraph (2) or (3) of regulation 15 or paragraph (2) or (3) of regulation 15A *(Extent: E+W)* *(affected by repeal, see note)*[^key-c21655ee004d7b5bf74b325fa7e2f7b4][^key-b783f06d99af65a0b77ff85d72819af5] , paragraph (2) or (3) of regulation 15A or paragraph (2) or (3) of regulation 15B *(Extent: E+W)* applies, the prescribed date is–
+
+- (a) where C has made a claim for personal independence payment which has not been determined, the date of that claim or, if later, the earliest date in relation to which, if C had been assessed in relation to C's ability to carry out daily living activities or, as the case may be, mobility activities, at every time in the previous 3 months, it is likely that the Secretary of State would have determined at that time that C had limited ability or, as the case may be, severely limited ability to carry out those activities; and
+- (b) where C has an award of either or both components, each day of that award.
+
+### 15. The prescribed date: claims for personal independence payment after an interval[^c2203163]
+
+(1) Paragraphs (2) and (3) apply where—
+
+- (a) C makes a claim for personal independence payment (“the new claim”);
+- (b) C had a previous award for personal independence payment or adult disability payment[^key-7beb24fc9ccf3478d87c677ae9f22ef6] which ended not more than 2 years before the date on which the new claim is made;
+- (c) the previous award referred to in sub-paragraph (b), where that award was in respect of personal independence payment or adult disability payment,[^key-3a941168baeaf8ea591279b7fb1ca837] consisted of the same component as the one to which C is entitled (or would be entitled if C met the required period condition) under the new claim; and
+- (d) the Secretary of State determines that the entitlement under the new claim results from-
+  - (i) substantially the same physical or mental condition or conditions for which the previous award was made; or
+  - (ii) a new physical or mental condition which developed as a result of a condition for which the previous award was made.
+
+(2) In relation to determination of entitlement under the new claim—
+
+- (a) the prescribed date for the purposes of regulations 12(1)(a) and (2)(a) and 13(1)(a) and (2)(a) is the date on which the previous award ended where that award was in respect of personal independence payment or adult disability payment[^key-89ce10b275f991483ca0926ce8c681d9]; and
+- (b) regulations 12(1)(b) and (2)(b) and 13(1)(b) and (2)(b) have effect in relation to the new claim as if, for the words ‘the prescribed date’ there were substituted ‘the date on which the new claim for personal independence payment is made’.
+
+(3) Where C is awarded either or both components under the new claim, in relation to continued entitlement to that component or, as the case may be, those components, for the period of 3 months following the date of the new claim—
+
+- (a) the prescribed date for the purposes of regulations 12(1)(a) and (2)(a) and 13(1)(a) and (2)(a) is the date on which the previous award ended where that award was in respect of personal independence payment or adult disability payment[^key-ea14f51cd33fe2771fa1f818d35c2ad6]; and
+- (b) regulations 12(1)(b) and (2)(b) and 13(1)(b) and (2)(b) have effect in relation to that award as if, for the words ‘the prescribed date’ there were substituted ‘each day of the award’.
+
+(4) This regulation is subject to regulation 26.
+
+### 15A. The prescribed date: claims for personal independence payment after award of Child Disability Payment[^key-a9e39905399267039a6a0aa9c8df0d3b]
+
+(1) Paragraphs (2), (3) and (4) *(Extent: E+W)* *(affected by repeal, see note)*[^key-56454f46e1cbae476266bd5cc9e533f8] , (4) and (5) *(Extent: E+W)* apply where—
+
+- (a) C makes a claim for personal independence payment (“the new claim”);
+- (b) C had a previous award of child disability payment which ended not more than 2 years before the date on which the new claim is made; and
+- (c) C is aged 16 years or over at the date of the new claim.
+
+(2) In relation to determination of entitlement under the new claim—
+
+- (a) the prescribed date for the purposes of regulations 12(1)(a) and (2)(a) and 13(1)(a) and (2)(a) is the date on which the previous award ended where that award was in respect of child disability payment; and
+- (b) regulations 12(1)(b) and (2)(b) and 13(1)(b) and (2)(b) have effect in relation to the new claim as if, for the words “the prescribed date” there were substituted “the date on which the new claim for personal independence payment is made”.
+
+(3) Where C is awarded either or both components under the new claim, in relation to entitlement to that component or, as the case may be, those components, for the period of 3 months following the date of the new claim—
+
+- (a) the prescribed date for the purposes of regulations 12(1)(a) and (2)(a) and 13(1)(a) and (2)(a) is the date on which the previous award ended where that award was in respect of child disability payment; and
+- (b) regulations 12(1)(b) and (2)(b) and 13(1)(b) and (2)(b) have effect in relation to that award as if, for the words “the prescribed date” there were substituted “each day of the award”.
+
+(4) C is to be regarded as meeting such of the conditions contained in the following provisions of these Regulations (as modified by paragraphs (2) and (3) above) as are relevant to C’s new claim, regardless of whether those conditions have been met—
+
+- (a) in regulation 12 (required period condition: daily living component), paragraph (1)(a) or (2)(a);
+- (b) in regulation 13 (required period condition: mobility component), paragraph (1)(a) or (2)(a).
+
+*Extent: E+W*
+
+(5)[^key-782c8161d15d96daa86d7a5d7800ba9e] Where C makes the new claim during the 13 week period provided for in regulation 36 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021, for the purpose of this regulation the previous award of child disability payment is to be treated as having ended immediately before C made the new claim.
+
+### 15B. The prescribed date: claims for personal independence payment after award of Scottish Adult Disability Living Allowance[^key-b76db55e51cb4026f6bb3548668dd858]
+
+*Extent: E+W*
+
+(1) Paragraphs (2), (3), (4), (5) and (6) apply where—
+
+- (a) C makes a claim for personal independence payment (“the new claim”),
+- (b) C had a previous award of Scottish adult disability living allowance which ended not more than 2 years before the date on which the new claim is made,
+- (c) C has not been entitled to personal independence payment on any day since the end of the award of Scottish adult disability living allowance referred to in sub-paragraph (b), and
+- (d) C was 64 years old or younger on 8th April 2013.
+
+(2) In relation to determination of entitlement under the new claim—
+
+- (a) the prescribed date for the purposes of regulations 12(1)(a) and (2)(a) and 13(1)(a) and (2)(a) is the date on which the previous award ended where that award was in respect of Scottish adult disability living allowance, and
+- (b) regulations 12(1)(b) and (2)(b) and 13(1)(b) and (2)(b) have effect in relation to the new claim as if for the words “the prescribed date” there were substituted “the date on which the new claim for personal independence payment is made”.
+
+(3) Where C is awarded either or both components under the new claim, in relation to continued entitlement to that component or, as the case may be, those components, for the period of 3 months following the date of the new claim—
+
+- (a) the prescribed date for the purposes of regulations 12(1)(a) and (2)(a) and 13(1)(a) and (2)(a) is the date on which the previous award ended where that award was in respect of Scottish disability living allowance, and
+- (b) regulations 12(1)(b) and (2)(b) and 13(1)(b) and (2)(b) have effect in relation to that award as if for the words “the prescribed date” there were substituted “each day of the award”.
+
+(4) C is to be regarded as meeting such of the conditions contained in the following provisions of these Regulations (as modified by paragraphs (2) and (3) above) as are relevant to C's new claim, regardless of whether those conditions have been met—
+
+- (a) in regulation 12 (required period condition: daily living component), paragraph (1)(a) or (2)(a);
+- (b) in regulation 13 (required period condition: mobility component), paragraph (1)(a) or (2)(a).
+
+(5) This regulation is subject to regulation 26A (claim for personal independence payment after an award of Scottish adult disability living allowance and after reaching the relevant age).
+
+(6) Where C makes the new claim during the 13 week period provided for in regulation 48 of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025, for the purpose of this regulation the previous award of Scottish adult disability living allowance is to be treated as having ended immediately before C made the new claim.
+
+## PART 4 — Residence and presence conditions
+
+### 16. Conditions relating to residence and presence in Great Britain[^c2203164]
+
+Subject to the following provisions of this Part, the prescribed conditions for the purposes of section 77(3) of the Act as to residence and presence in Great Britain are that on any day for which C claims personal independence payment C—
+
+- (a) is present in England and Wales[^key-e7e220dc43f28f49b4ec9b4e3df1d9e4];
+- (b) has been present in Great Britain for a period of, or periods amounting in aggregate to, not less than 104 weeks out of the 156 weeks immediately preceding that day;
+- (c) is habitually resident in the United Kingdom, the Republic of Ireland, the Isle of Man or the Channel Islands; and
+- (d) is a person–
+  - (i) who is not subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act 1999 [^c2166027]; or
+  - (ii) to whom, by virtue of regulation 2 of the Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000 [^c2166028], section 115 of that Act does not apply for the purpose of personal independence payment.
+
+### 16A. Meaning of “the relevant area” in this Part[^key-447a3a069eb2ff926a89ae3b2349952c]
+
+In this Part, “**the relevant area**” means—
+
+- (a) for the purposes of regulation 16(a), England and Wales;
+- (b) for the purposes of regulation 16(b), Great Britain.
+
+### 17. Absence from Great Britain[^c2203165]
+
+(1) Where C is temporarily absent from Great Britain, C is treated as present in the relevant area[^key-1e5cf1636af71021623da2023465cce0] for the purposes of regulation 16(a) and (b) for the first 13 weeks of absence.
+
+(2) C is temporarily absent if, at the beginning of the period of absence, C's absence is unlikely to exceed 52 weeks.
+
+### 18. Absence from Great Britain to receive medical treatment[^c2203166]
+
+(1) Where C is temporarily absent from Great Britain, C is treated as present in the relevant area[^key-39e34147a4ee85fdd64b07418f8bd179] for the purposes of regulation 16(a) and (b) for the first 26 weeks of that absence, where—
+
+- (a) C's absence is solely in connection with arrangements made for the medical treatment of C for a disease or bodily or mental disablement which commenced before C left Great Britain; and
+- (b) the arrangements referred to in paragraph (1)(a) relate to medical treatment –
+  - (i) outside Great Britain;
+  - (ii) during the period whilst C is temporarily absent from Great Britain; and
+  - (iii) by, or under the supervision of, a person appropriately qualified to carry out that treatment.
+
+(2) In this regulation, “**temporarily absent**” has the same meaning as in regulation 17(2).
+
+### 18A. Absence where His Majesty’s Government provides public information to advise British nationals to leave a country or territory or arranges the evacuation of British nationals from a country or territory[^key-f7b9767beb149e830ec36d2740fb0b97]
+
+*Extent: E+W*
+
+(1) Where C is temporarily absent from Great Britain, C is treated as present in Great Britain *(affected by repeal, see note)*[^key-9bf3235b1e1669c506a9fadbae4b64a9] the relevant area for the purposes of regulation 16(a) and (b) during the first 26 weeks of that absence, where—
+
+- (a) C was present in a country or territory outside Great Britain immediately before His Majesty’s Government—
+  - (i) provided public information to advise British nationals to leave that country or territory, or
+  - (ii) arranged the evacuation of British nationals from that country or territory;
+- (b) the Secretary of State is satisfied that it would be unreasonable to expect C to return, or have returned, to Great Britain; and
+- (c) C did not enter that country or territory when His Majesty’s Government’s public information was to advise British nationals to leave that country or territory.
+
+(2) In this regulation, “**temporarily absent**” has the same meaning as in regulation 17(2).
+
+### 18B. Time limits on absences where the claimant is treated as being in Great Britain
+
+*Extent: E+W*
+
+Where a person is temporarily absent from Great Britain in the circumstances specified in regulation 17(1), 18(1) or 18A(1), the total period of an absence where C is treated as present in Great Britain *(affected by repeal, see note)*[^key-0cfc886e67e0dd601fb9abd296742a34] the relevant area will not exceed 26 weeks.
+
+### 18C. Absence where His Majesty’s Government provides public information to advise British nationals to leave a country or territory or arranges the evacuation of British nationals from a country or territory[^key-9064487e77cc7bf36f41f5137b206509]
+
+*Extent: S*
+
+(1) Where C is temporarily absent from Great Britain, C is treated as present in the relevant area for the purposes of regulation 16(a) and (b) during the first 26 weeks of that absence, where—
+
+- (a) C was present in a country or territory outside Great Britain immediately before His Majesty’s Government—
+  - (i) provided public information to advise British nationals to leave that country or territory, or
+  - (ii) arranged the evacuation of British nationals from that country or territory,
+- (b) the Scottish Ministers are satisfied that it would be unreasonable to expect C to return, or to have returned, to Great Britain, and
+- (c) C did not enter that country or territory when His Majesty’s Government’s public information was to advise British nationals to leave that country or territory.
+
+(2) In this regulation, “**temporarily absent**” has the same meaning as in regulation 17(2).
+
+### 18D. Time limits on absences where the claimant is treated as being in Great Britain
+
+*Extent: S*
+
+(1) Where a person is temporarily absent from Great Britain in the circumstances specified in regulation 17(1), 18(1) or 18C(1), the total period of an absence where C is treated as present in the relevant area will not exceed 26 weeks.
+
+### 19. Absence from Great Britain in special cases[^c2203167]
+
+(1) Where C is absent from Great Britain, C is treated as present in the relevant area[^key-8ec9d7535f75b20e3b9adb614855bb04] for the purposes of regulation 16(a) and (b), where —
+
+- (a) C is abroad in the capacity of–
+  - (i) a member of Her Majesty's forces;
+  - (ii) an aircraft worker; or
+  - (iii) a mariner; or
+- (b) C is in employment prescribed for the purposes of section 120 (employment at sea (continental shelf operations)) of the Social Security Contributions and Benefits Act 1992 [^c2166029] in connection with continental shelf operations; or
+- (c) C is living with a person mentioned in paragraph (a)(i) and is the spouse, civil partner, son, daughter, step-son, step-daughter, father, father-in-law, step-father, mother, mother-in-law or step-mother of that person.
+
+(2) In this regulation and in regulation 20, “**a member of Her Majesty's forces**” means a member of “the regular forces” or “**the reserve forces**” as defined in section 374 of the Armed Forces Act 2006 [^c2166030], other than a person who is specified in Schedule 2, who is–
+
+- (a) over the age of 16; and
+- (b) not absent on desertion.
+
+(3) In this regulation—
+
+- “**aircraft worker**” means a person who is employed under a contract of service either as a pilot, commander, navigator or other member of the crew of any aircraft, or in any other capacity on board any aircraft where–
+  - (a) the employment in that other capacity is for the purposes of the aircraft or its crew or of any passengers or cargo or mail carried on that aircraft; and
+  - (b) the contract is entered into in the United Kingdom with a view to its performance (in whole or in part) while the aircraft is in flight,
+
+but does not include a person who is in employment as a member of Her Majesty's forces;
+
+- “**mariner**” means a person who is in employment under a contract of service either as a master or member of the crew of any ship or vessel, or in any other capacity on board any ship or vessel where –
+  - (a) the employment in that other capacity is for the purposes of that ship or vessel or the crew or any passengers or cargo or mail carried by the ship or vessel; and
+  - (b) the contract is entered into in the United Kingdom with a view to its performance (in whole or in part) while the ship or vessel is on voyage,
+
+but does not include a person who is in employment as a member of Her Majesty's forces.
+
+### 20. Serving members of Her Majesty's forces and their family members – further provision[^c2203168]
+
+C is treated as habitually resident in Great Britain for the purposes of regulation 16(c) where—
+
+- (a) C is resident outside Great Britain in the capacity of a member of Her Majesty's forces; or
+- (b) C is living with a person mentioned in paragraph (a) and is the spouse, civil partner, son, daughter, step-son, step-daughter, father, father-in-law, step-father, mother, mother-in-law or step-mother of that person.
+
+### 20A. Absence from England and Wales whilst present in Scotland[^key-a6622671d9323123a62a3a64b3d95740]
+
+Where C is required for the purposes of regulation 16(a) to be present in England and Wales, even though C is absent from England and Wales on a particular day, C is to be treated as though they were present in England and Wales on that day if—
+
+- (a) C’s absence on that day is by reason only of the fact that they are temporarily absent from England and Wales, and
+- (b) C is present in Scotland.
+
+### 21. Terminal illness[^c2203169]
+
+Where C is terminally ill and makes a claim for personal independence payment expressly on that ground, regulation 16 applies as if paragraph (b) were omitted.
+
+### 22. Persons residing in Great Britain to whom a relevant EU Regulation applies[^c2203170]
+
+Regulation 16(b) does not apply in relation to a claim for personal independence payment where on any day–
+
+- (a) C is habitually resident in Great Britain;
+- (b) a relevant EU Regulation [^c2166031] applies; and
+- (c) C can demonstrate a genuine and sufficient link to the United Kingdom [^key-8bc2a53a2e2dc3f6ff970851c2ae354c]... .
+
+### 23. Persons residing in an EEA state ... or in Switzerland to whom a relevant EU Regulation applies[^c2203171][^key-477f1affd1f259f54aca1670e37aaf03]
+
+Regulation 16(a) to (c) does not apply in relation to entitlement to the daily living component of personal independence payment where on any day—
+
+- (a) C is habitually resident in–
+  - (i) an EEA state [^key-74683ecdb9d7b72c5a9b0af5076068df]...; or
+  - (ii) Switzerland;
+- (b)[^key-ec8558ec280e34a9eec42e8bfa3b8154] a relevant EU Regulation—
+  - (i) applies to C; or
+  - (ii) except where C has been habitually resident in the United Kingdom after 31st December 2020, applied to C on 31st December 2020 and they have been continuously in receipt of the daily living component of personal independence payment on and from that date; and
+- (c) C can demonstrate a genuine and sufficient link to the United Kingdom [^key-2066cd974b6e0c822a4b434655f0c9e5]... .
+
+### 23ZA. Persons in receipt of an equivalent Scottish benefit who move from Scotland to England or Wales[^key-511739714d91260cf6e245ea9d75bc3c]
+
+(1)[^key-1b7a5638f385d48fde17d951ff0b5831] Where regulation 36(1) of the Disability Assistance for Children and Young People (Scotland) Regulations 2021 applies to C, regulation 16(c) of these Regulations is treated as not satisfied for the period set out in regulation 36(1) of those Regulations.
+
+(2)[^key-f3d2589db4dd2f6ce21d5f3cb677752d] Where regulation 53(1) of the Disability Assistance for Working Age People (Scotland) Regulations 2022 applies to C, regulation 16(c) of these Regulations is treated as not satisfied for the period set out in regulation 53(1) of those Regulations.
+
+### 23ZB. Effect of move to Scotland (C entitled to personal independence payment)[^key-68d99dc9a6e6a63e4cae175cabb965eb]
+
+(1) This regulation applies where C becomes permanently resident in Scotland on or after 6th November 2025.
+
+(2) If, on the day before the residence change date, C is entitled to any component of personal independence payment, C is, insofar as they are not present in England and Wales on or after the residence change date, to be treated as present in England and Wales for the purposes of regulation 16(a) for the duration of the run-on period.
+
+(3) If, on the day before the residence change date—
+
+- (a) C has an award of any component of personal independence payment which is for a fixed term period, and
+- (b) that fixed term period is due to expire before the end of the run-on period,
+
+the fixed term period is extended so that it expires at the same time as the run-on period.
+
+(4) “**The run-on period**”, in relation to a person, is the period—
+
+- (a) beginning with the residence change date, and
+- (b) ending at the end of the period of 13 weeks beginning on the residence change date.
+
+### 23ZC. Effect of move to Scotland (ongoing claim)
+
+(1) Where C satisfies the conditions in paragraph (2), the Secretary of State must comply with the requirement in paragraph (5).
+
+(2) The conditions mentioned in paragraph (1) are, subject to paragraph (4), that C—
+
+- (a) has an ongoing claim for personal independence payment on the residence change date,
+- (b) becomes permanently resident in Scotland on or after 6th November 2025, and
+- (c) is, or in accordance with a provision other than this regulation is treated for the purposes of regulation 16(a) as being, present in England and Wales—
+  - (i) on the day on which C makes the claim, and
+  - (ii) on the day before the residence change date.
+
+(3) For the purposes of paragraph (2)(a), C has an ongoing claim on the residence change date if, before that date, the claim has not—
+
+- (a) been decided by the Secretary of State under section 8 of the 1998 Act,
+- (b) been withdrawn in accordance with regulation 31 of the Claims and Payments Regulations, or
+- (c) otherwise ceased to be under consideration before being decided by the Secretary of State under section 8 of the 1998 Act.
+
+(4) Where the day referred to in paragraph (i) or (ii) of paragraph (2)(c) is before 6th November 2025, the condition in that paragraph is to be read to the effect that the person must be present in England and Wales, or treated for the purposes of regulation 16(a) as being present in Great Britain, on that day.
+
+(5) The requirement mentioned in paragraph (1) is that the Secretary of State must make a decision under section 8 of the 1998 Act on C’s claim for personal independence payment, unless C withdraws the claim in accordance with regulation 31 of the Claims and Payments Regulations.
+
+(6) For the purposes of the decision of the Secretary of State mentioned in paragraph (5), regulation 16(a) applies as if for “England and Wales” there were substituted “Great Britain”.
+
+(7) If the Secretary of State decides that C is entitled to any component of personal independence payment—
+
+- (a) C is, insofar as they are not present in England and Wales on or after the residence change date, to be treated as present in England and Wales for the purposes of regulation 16(a) for the duration of the run-on period, and
+- (b) if—
+  - (i) C has an award of any component of personal independence payment which is for a fixed term period, and
+  - (ii) the fixed term period is due to expire before the end of the run-on period,
+
+  the fixed term period is extended so that it expires at the same time as the run-on period.
+
+(8) In this regulation—
+
+- (a) the “**Claims and Payments Regulations**” means the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013;
+- (b) any reference to the date on which a person makes a claim for personal independence payment (however expressed) is to be construed in accordance with regulation 12 of the Claims and Payments Regulations.
+
+### 23A. Refugees and certain persons with leave to enter or remain in the United Kingdom (Extent: E+W)Refugees and certain persons with leave to enter and remain in the United Kingdom (Extent: S)[^key-7a57c5202c921c72ba23e1059412ac2a][^key-28eebb9b44410bf8390f37ac925087e7][^key-842b8ab10c06c708d459bff2e2612efe]
+
+(1) Regulation 16(b) does not apply in relation to a claim for personal independence payment where C has—
+
+- (a) been granted refugee status or humanitarian protection under the immigration rules; [^key-2816a64d0622e2fc2db2304605e112b3]...
+- (b) leave to enter or remain in the United Kingdom as the dependant of a person granted refugee status or humanitarian protection under the immigration rules.
+- (c)[^key-c2f2941a74a4a4f1e2acdfe9b4fa01ad] leave to enter or remain in the United Kingdom granted under the immigration rules by virtue of—
+  - (i) the Afghan Relocations and Assistance Policy, or
+  - (ii) the previous scheme for locally-employed staff in Afghanistan (sometimes referred to as the ex-gratia scheme),
+- (d) been granted discretionary leave outside the immigration rules as a dependant of a person referred to in sub-paragraph (c); ...[^key-12f26c98da34e0cc819a38611fe078ea]
+- (e) leave granted under the Afghan Citizens Resettlement Scheme ;[^key-ad3c64e4bb1448e6fd760d0268245fc9] [^key-05285003e03f16a7a5b8c308647a01af]...
+
+*Extent: S*
+
+- (f (Extent: E+W+S) (Extent: E+W+S))[^key-373d6e361d1f634fbd6cba374d0ae23c] leave to enter or remain in the United Kingdom granted under or outside the immigration rules *(Extent: E+W+S)* *(Extent: E+W+S)* , a right *(Extent: E+W+S)*[^key-846ad3b55e2f0a729c632c07cfa0174f] *(Extent: E+W+S)* *(Extent: E+W+S)* of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 *(Extent: E+W+S)* *(Extent: E+W+S)* or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, *(Extent: E+W+S)*[^key-5ed8841d9af4916b09f36c1007766cb9] *(Extent: E+W+S)* *(Extent: E+W+S)* where C— *(Extent: E+W+S)* *(Extent: E+W+S)*
+  - (i (Extent: E+W+S) (Extent: E+W+S)) was residing in Ukraine immediately before 1 January 2022; and *(Extent: E+W+S)* *(Extent: E+W+S)*
+  - (ii (Extent: E+W+S) (Extent: E+W+S)) left Ukraine in connection with the Russian invasion which took place on 24 *(Extent: E+W+S)* *(Extent: E+W+S)* February 2022 *(Extent: E+W+S)* *(Extent: E+W+S)*; *(Extent: E+W+S)*[^key-c1f3fca6aef1c2c8c3b59e60c69ed0f3] *(Extent: E+W+S)* ...[^key-fabbd9f56a1de859bb0c6318e35c404c] *(Extent: E+W+S)* *(Extent: E+W+S)*
+- (g) leave to enter or remain in the United Kingdom granted under or outside the immigration rules, a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, where C—
+  - (i) was residing in Sudan before 15 April 2023, and
+  - (ii) left Sudan in connection with the violence which rapidly escalated on 15 April 2023 in Khartoum and across Sudan,[^key-fbe4af5da8ebf03981e46c1f45a1e0fb] or *(Extent: E+W)* *(affected by repeal, see note)*[^key-bb51658a934394251a9f46286a52d09b]
+
+*Extent: S*
+
+- (h (Extent: E+W+S) (Extent: E+W+S)) leave to enter or remain in the United Kingdom granted under or outside the immigration rules, a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, where C— *(Extent: E+W+S)* *(Extent: E+W+S)*
+  - (i (Extent: E+W+S) (Extent: E+W+S)) was residing in Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon immediately before 7 October 2023, and *(Extent: E+W+S)* *(Extent: E+W+S)*
+  - (ii (Extent: E+W+S) (Extent: E+W+S)) left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon in connection with the Hamas terrorist attack in Israel on 7 October 2023 or the violence which rapidly escalated in the region following the attack *(Extent: E+W+S)* *(Extent: E+W+S)*. *(Extent: E+W)* *(affected by repeal, see note)*[^key-20f1b0a79ded51edd371f9a2dc976eef] *(Extent: E+W+S)* *(Extent: E+W+S)*; *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-20f1b0a79ded51edd371f9a2dc976eef] *(Extent: E+W+S)* *(Extent: E+W+S)*
+
+*Extent: E+W*
+
+- (i (Extent: E+W+S))[^key-97b5aa5d48f96fbf15c9adbcf37ce1d1] met conditions A to D. *(Extent: E+W+S)*
+  - *Condition A *(Extent: E+W+S)**
+
+    The person was residing in a country or territory outside Great Britain immediately before His Majesty’s Government— *(Extent: E+W+S)*
+
+    - (a) provided public information to advise British nationals to leave that country or territory, or *(Extent: E+W+S)*
+    - (b) arranged the evacuation of British nationals from that country or territory. *(Extent: E+W+S)*
+  - *Condition B *(Extent: E+W+S)**
+
+    The person has left that country or territory. *(Extent: E+W+S)*
+  - *Condition C *(Extent: E+W+S)**
+
+    The person arrived in Great Britain in the first 26 weeks beginning on the day on which the public information is issued, or the evacuation is started. *(Extent: E+W+S)*
+  - *Condition D *(Extent: E+W+S)**
+
+    The person— *(Extent: E+W+S)*
+
+    - (a) has a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971, *(Extent: E+W+S)*
+    - (b) does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, *(Extent: E+W+S)*
+    - (c) has leave to enter or remain in the United Kingdom in accordance with immigration rules made under section 3(2) of that Act, or *(Extent: E+W+S)*
+    - (d) has leave on a discretionary basis outside of rules made under section 3(2) of that Act; or *(Extent: E+W+S)*
+- (j (Extent: E+W)) as part of a safe and legal humanitarian immigration route, leave to enter or remain in the United Kingdom in accordance with immigration rules made under section 3(2) of the Immigration Act 1971 or leave on a discretionary basis outside of rules *(Extent: E+W)*, *(Extent: S)*[^key-3d063ac62f3ac5bc38de039912201154]
+
+*Extent: S*
+
+- (k (Extent: E+W+S)) met conditions A to D, *(Extent: E+W+S)*
+
+  *Condition A *(Extent: E+W+S)**
+
+  The person was residing in a country or territory outside Great Britain immediately before His Majesty’s Government— *(Extent: E+W+S)*
+
+  - (i (Extent: E+W+S)) provided public information to advise British nationals to leave that country or territory, or *(Extent: E+W+S)*
+  - (ii (Extent: E+W+S)) arranged the evacuation of British nationals from that country or territory, *(Extent: E+W+S)*
+
+  *Condition B *(Extent: E+W+S)**
+
+  The person has left that country or territory. *(Extent: E+W+S)*
+
+  *Condition C *(Extent: E+W+S)**
+
+  The person arrived in Great Britain in the first 26 weeks beginning on the day on which the public information is issued, or the evacuation is started. *(Extent: E+W+S)*
+
+  *Condition D *(Extent: E+W+S)**
+
+  The person— *(Extent: E+W+S)*
+
+  - (i (Extent: E+W+S)) has a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971, *(Extent: E+W+S)*
+  - (ii (Extent: E+W+S)) does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, *(Extent: E+W+S)*
+  - (iii (Extent: E+W+S)) has leave to enter or remain in the United Kingdom in accordance with immigration rules, or *(Extent: E+W+S)*
+  - (iv (Extent: E+W+S)) has leave on a discretionary basis outside of immigration rules, or *(Extent: E+W+S)*
+- (l (Extent: S)) as part of a safe and legal humanitarian immigration route, leave to enter or remain in the United Kingdom in accordance with immigration rules or leave on a discretionary basis outside of those rules. *(Extent: S)*
+
+(1A)[^key-71c7707dfea15f0aa45fd8c8b2ee4ec4] Regulation 16(c) does not apply in relation to a claim for personal independence payment where any sub-paragraph in paragraph (1)[^key-74f774f7df6498fc36d48dcea6149e53] applies to C.
+
+*Extent: E+W*
+
+(1B (Extent: E+W+S))[^key-ce1be55e1770c3ac60e266a7cbd55cc2] Where paragraph (1)(i) applies, it will apply for 130 weeks beginning on the day on which the public information is issued, or the evacuation is started. *(Extent: E+W+S)*
+
+*Extent: S*
+
+(1C (Extent: E+W+S))[^key-b161157e0df8b2bd6d6ffe3a0b9111bc] Where paragraph (1)(k) applies, it will apply for 130 weeks beginning on the day on which the public information is issued, or the evacuation is started. *(Extent: E+W+S)*
+
+(2)[^key-8877f6883b5ae6ff2bea99e063ea9e7c] For the purposes of this regulation “immigration rules” means the rules laid before Parliament under section 3(2) of the Immigration Act 1971. *(affected by repeal, see note)*[^key-8877f6883b5ae6ff2bea99e063ea9e7c]
+
+(2) For the purposes of this regulation—
+
+- (a) “immigration rules” means the rules laid before Parliament under section 3(2) of the Immigration Act 1971,
+- (b) “the Afghan Citizens Resettlement Scheme” means the scheme announced by the United Kingdom Government on 18 August 2021.
+
+## PART 5 — Rate of personal independence payment
+
+### 24. Rate of personal independence payment[^c2203172]
+
+(1) The prescribed weekly rates of the daily living component for the purposes of section 78(3) of the Act are—
+
+- (a) the standard rate, £76.70[^key-fbc555a40e098b81518ac0962c5aca22]; and
+- (b) the enhanced rate, £114.60[^key-d534fd6a3f8cd8f0522df33ec40f4efc].
+
+(2) The prescribed weekly rates of the mobility component for the purposes of section 79(3) of the Act are—
+
+- (a) the standard rate, £30.30[^key-69f5ac6613c48d63cc98073be152c178]; and
+- (b) the enhanced rate, £80.00[^key-2c9bb28ce458d03bce435038260c482f].
+
+## PART 6 — Provisions relating to age
+
+### 25. Exceptions to section 83 where entitlement exists or claim made before relevant age[^c2203173]
+
+Section 83(1) of the Act (persons of pensionable age) does not apply where C has reached the relevant age if C —
+
+- (a) was entitled to an award of either or both components on the day preceding the day on which C reached the relevant age; or
+- (b) made a claim for personal independence payment before reaching the relevant age and that claim was not determined before C reached that age but an award of either or both components would be made in respect of C but for section 83(1) of the Act.
+
+### 26. Claim for personal independence payment after an interval and after reaching the relevant age[^c2203174]
+
+(1) Where C has reached the relevant age and makes a new claim in the circumstances set out in regulation 15 the following exceptions apply.
+
+(2) The exceptions referred to in paragraph (1) are—
+
+- (a) section 83(1) of the Act (persons of pensionable age) does not apply;
+- (b) the reference to ‘2 years’ in regulation 15(1)(b) is to be read as ‘1 year’;
+- (c) where C is assessed as having severely limited ability to carry out mobility activities for the purposes of the new claim—
+  - (i) C is entitled to the enhanced rate of the mobility component only if C was entitled to that rate of that component under the previous award of personal independence payment or adult disability payment[^key-76013beb087ce252f160676bfcce7c45]; and
+  - (ii) where C is not entitled to the enhanced rate of that component because of paragraph (i), C is entitled to the standard rate of that component provided that C was entitled to that rate of that component under the previous award of personal independence payment or adult disability payment[^key-f42351f1390194e845505cd7b3e216e0]; and
+- (d) where C is assessed as having limited ability to carry out mobility activities for the purposes of the new claim, C is entitled to the standard rate of the mobility component only if C was entitled to that component, at either rate, under the previous award of personal independence payment or adult disability payment[^key-2f32085da135db7e485173065f9e180f].
+
+### 26A. Claim for personal independence payment after an award of Scottish adult disability living allowance and after reaching the relevant age[^key-fd33c704230f5c11842fb29f562760f1]
+
+*Extent: E+W*
+
+(1) Where C has reached the relevant age and makes a new claim in the circumstances set out in regulation 15B(1) the following exceptions apply.
+
+(2) The exceptions referred to in paragraph (1) are—
+
+- (a) section 83(1) of the Act (persons of pensionable age) does not apply;
+- (b) the reference to ‘2 years’ in regulation 15B(1)(b) is to be read as ‘1 year’.
+
+### 27. Revision and supersession of an award after the person has reached the relevant age[^c2203175]
+
+(1) Subject to paragraph (2), section 83(1) of the Act (persons of pensionable age) does not apply where —
+
+- (a) C has reached the relevant age and is entitled to an award (“**the original award**”) of either or both components pursuant to an exception in regulation 25 or 26; and
+- (b) that award falls to be revised or superseded.
+
+(2)[^key-cf1725cdb78b7514ce534b64a45cdf8a] Where the original award includes an award of the mobility component and is superseded—
+
+- (a) pursuant to regulation 23 of the Decisions and Appeals Regulations for a relevant change of circumstances which occurred after C reached the relevant age; or
+- (b) pursuant to regulation 26(1)(a) of the Decisions and Appeals Regulations where—
+  - (i) the application for supersession was made by C after C reached the relevant age, or
+  - (ii) the supersession proceedings were initiated by the Scottish Ministers after C reached the relevant age,
+
+the restrictions in paragraph (3) apply in relation to the supersession.
+
+(2)[^M_F_035ae43d-c191-455a-cbe4-423bc28b28bb] Where the original award includes an award of the mobility component and is superseded—
+
+- (a) pursuant to regulation 23 of the Decisions and Appeals Regulations for a relevant change of circumstances which occurred after C reached the relevant age; or
+- (b) pursuant to regulation 26(1)(a) of the Decisions and Appeals Regulations, where—
+  - (i) the application for supersession was made by C after C reached the relevant age, or
+  - (ii) the supersession proceedings were initiated by the Secretary of State after C reached the relevant age,
+
+the restrictions in paragraph (3) apply in relation to the supersession.
+
+*Extent: S*
+
+(2A)[^key-81be76fa3326f2d9ecf5d2197658eaba][^key-df7ca1ea07a955196ce85e6386304c75] In paragraph (2), “the Decisions and Appeals Regulations” means the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Decisions and Appeals) Regulations 2013.
+
+(3) The restrictions referred to in paragraph (2) are —
+
+- (a) where the original mobility component award is for the standard rate then, regardless of whether the award would otherwise have been for the enhanced rate, the Secretary of State -
+  - (i) may only make an award for the standard rate of that component; and
+  - (ii) may only make such an award where entitlement results from substantially the same condition or conditions for which the mobility component in the original award was made.
+- (b) where the original mobility component award is for the enhanced rate, the Secretary of State may only award that rate of that component where entitlement results from substantially the same condition or conditions for which the mobility award was made.
+
+(4) Where the original award does not include an award of the mobility component but C had a previous award of that component, for the purpose of this regulation entitlement under that previous award is to be treated as if it were under the original award provided that the entitlement under the previous award ceased no more than 1 year prior to the date on which the supersession takes or would take effect.
+
+## PART 7 — Payability when person is residing in certain accommodation or is detained in custody
+
+### 28. Care home residents[^c2203176]
+
+(1) Subject to paragraph (3) and regulation 30, no amount of personal independence payment which is attributable to the daily living component is payable in respect of C for any period during which C meets the condition in section 85(2) of the Act (care home residents: costs of qualifying services borne out of public or local funds).
+
+(2) For the purpose of section 85(2) of the Act the specified enactments are—
+
+- (a) Part 3 of the National Assistance Act 1948 [^c2166032] (Local Authority Services);
+- (b) sections 59 and 59A of the Social Work (Scotland) Act 1968 [^c2166033] (provision of residential and other establishments by local authorities and maximum period for repayment of sums borrowed for such provision and grants in respect of secure accommodation for children respectively);
+- (c) the Mental Health Act 1983[^c2166034];
+- (d) the Community Care and Health (Scotland) Act 2002[^c2166035];
+- (e) the Mental Health (Care and Treatment) (Scotland) Act 2003[^c2166036]; [^key-366fd50e634b99f72946a6ae16790afc]...
+- (ee)[^key-01fbb260ca0da87aef9b6db91019dab2] section 57 of the Health and Social Care Act 2001, [^M_F_189027d5-51bf-4e79-f84d-2a8d4674d02d]...
+- (eea)[^key-6f661444a2d350f7d8f9e5c750643b27] Part 1 of the Care Act 2014 (care and support), [^key-7055086ac4d2d79633a3e661ee21ded1]...
+- (eeb)[^key-34e1909162e88c38e458c78861dae379] Part 4 of the Social Services and Well-being (Wales) Act 2014 (meeting needs), or
+- (f) any other enactment relating to persons under a disability or to young persons or to education or training except—
+  - (i) section 485 of the Education Act 1996 [^c2166037] (grants in aid of educational services or research);
+  - (ii) section 14 of the Education Act 2002 [^c2166038] (power of Secretary of State or National Assembly for Wales to give financial assistance for purposes related to education or children etc.);
+  - (iii) section 49 of the Education (Scotland) Act 1980 [^c2166039] (power of education authorities to assist persons to take advantage of educational facilities) or section 73 of that Act (power of Scottish Ministers to make grants to education authorities and others)[^c2166040];
+  - (iv) section 65 of the Further and Higher Education Act 1992 [^c2166041] (administration of funds by HEFCW[^key-e7d6fe44ac7a3ab1e3e0b8b62cae7306]);
+  - (v) section 4 of the Further and Higher Education (Scotland) Act 2005 [^c2166042] (general duty of Scottish Ministers to provide support for funding of higher education) or section 11 of that Act (administration of funds); and
+  - (vi) section 22 of the Teaching and Higher Education Act 1998 [^c2166043] (new arrangements for giving financial support to students).
+- (vii)[^key-0c56d1b01ed502d3c9c12f396a595337] section 39 of the Higher Education and Research Act 2017 (financial support for registered higher education providers) or section 40 of that Act (financial support for certain institutions);
+
+(3) Subject to paragraph (4), paragraph (1) does not apply in the case of C, where C is a person—
+
+- (a) who has not reached the age of 18 and to whom –
+  - (i) section 17(10)(b) of the Children Act 1989 [^c2166044] (provision of services for children in need: impaired health and development) or section 93(4)(a)(ii) of the Children (Scotland) Act 1995 [^c2166045] (interpretation: children in need of care and attention due to impaired health and development) applies because C's health is likely to be significantly impaired, or further impaired, without the provision of services for C; or
+  - (ii) section 17(10)(c) of the Children Act 1989 (provision of services for children in need: disability) or section 93(4)(a)(iii) of the Children (Scotland) Act 1995 (interpretation: children in need of care and attention due to disability) applies; [^key-c7f7e426c90ca365bc35c7b613539012]...
+- (aa)[^key-f6221eb2f7a8defda7418ce6d3fc1de1] to whom section 37, 38 or 42 of the Social Services and Well-being (Wales) Act 2014 applies; or
+- (b) who is accommodated outside the United Kingdom if the costs of any qualifying services are borne wholly or partly by a local authority pursuant to their powers under section 320 of the Education Act 1996 [^c2166046] (provision outside England and Wales for certain children) or section 25 of the Education (Additional Support for Learning) (Scotland) Act 2004 [^c2166047] (attendance at establishments outwith the United Kingdom).
+
+(4) Paragraphs (3)(a) and (aa) only apply[^key-8e6df307fbae4f8fb1a340583ae1b2e5] during any period in which the local authority looking after C places C in a private dwelling with a family, or with a relative of C, or with some other suitable person.
+
+### 29. Hospital in-patients aged 18 or over[^c2203177][^key-7b11619bc5693882f89a33e9f750e89c]
+
+(1) Subject to paragraph (3) and[^key-d54c603f0960adec4b2bd4645466cf7a] regulation 30, no amount of personal independence payment which is attributable to either component is payable in respect of C for any period during which C meets the condition in section 86(2) of the Act (in-patient treatment: costs of treatment, accommodation and related services borne out of public funds).
+
+(2) For the purposes of section 86(3) of the Act, the costs of treatment, accommodation or any related services are borne out of public funds if C is undergoing medical or other treatment as an in-patient in —
+
+- (a) a hospital or similar institution under –
+  - (i) the National Health Service Act 2006 [^c2166048];
+  - (ii) the National Health Service (Wales) Act 2006 [^c2166049]; or
+  - (iii) the National Health Service (Scotland) Act 1978 [^c2166050]; or
+- (b) a hospital or similar institution maintained or administered by the Defence Council.
+
+(3)[^key-bc9b67da68defe22951e14a995d07b79] This regulation does not apply if C was under the age of 18 on the day on which C entered the hospital or similar institution referred to in section 86(2) of the Act to begin C’s current period as an in-patient.
+
+### 30. Payability exceptions: care homes and hospitals[^c2203178]
+
+(1) Subject to the following paragraphs, regulation 28(1) or, as the case may be, regulation 29(1) does not apply to C in respect of the first 28 days of any period during which C is someone to whom that regulation applies.
+
+(2) Where, on the day on which C's entitlement to personal independence payment commences, C meets the condition in section 85(2) of the Act (care home residents: costs of qualifying services borne out of public or local funds) or section 86(2) of the Act (in-patient treatment: costs of treatment, accommodation and related services borne out of public funds), paragraph (1) does not apply to C in respect of any period of consecutive days, beginning with that day, on which C continues to satisfy that condition.
+
+(3) Regulation 28 or, as the case may be, regulation 29 does not apply where C is residing in a hospice and is terminally ill, and the Secretary of State has been informed that C is terminally ill—
+
+- (a) on a claim for personal independence payment;
+- (b) on an application for a revision or a supersession of an award of personal independence payment; or
+- (c) in writing in connection with an award of, or a claim for, or an application for a revision or a supersession of an award of, personal independence payment.
+
+(4) In paragraph (3), “**hospice**” means a hospital or other institution whose primary function is to provide palliative care for persons resident there who are suffering from a progressive disease in its final stages, other than —
+
+- (a) a health service hospital in England (within the meaning of section 275 [^c2166051] of the National Health Service Act 2006);
+- (b) a hospital in Wales vested in –
+  - (i) an NHS trust;
+  - (ii) a Local Health Board; or
+  - (iii) the Welsh Ministers,
+
+  for the purpose of functions under the National Health Service (Wales) Act 2006 [^c2166052];
+- (c) a health service hospital in Scotland (within the meaning of section 108(1) [^c2166053] of the National Health Service (Scotland) Act 1978);
+- (d) a hospital maintained by the Defence Council; or
+- (e) an institution similar to a hospital mentioned in any of the preceding sub-paragraphs of this paragraph.
+
+(5) Regulation 28(1) does not apply to a case where, during any period the total cost of the qualifying services [^c2166054] are met —
+
+- (a) out of the resources of the person for whom the qualifying services are provided, or partly out of that person's own resources and partly with assistance from another person or a charity [^c2166055]; or
+- (b) on that person's behalf by another person or a charity.
+
+(6) In this regulation —
+
+- “**NHS trust**” means a body established under section 18 of the National Health Service (Wales) Act 2006; and
+- “**Local Health Board**” means a body established under section 11 of that Act.
+
+(7) In the application of these Regulations to Scotland, “**charity**” is to be construed as if these Regulations were an enactment to which section 7 of the Charities Act 2011 [^c2166056] (application in relation to Scotland) applied.
+
+### 31. Prisoners and detainees[^c2203179]
+
+(1) Subject to paragraph (2), section 87 of the Act (prisoners and detainees) does not apply in respect of the first 28 days of any period during which C is a person to whom that section would otherwise apply.
+
+(2) Where, on the day on which C's entitlement to personal independence payment commences, C is a person to whom that section applies, paragraph (1) does not apply to C in respect of any period of consecutive days, beginning with that day, on which C continues to be a person to whom that section applies.
+
+(3) Section 87 of the Act does not apply to C in respect of any period after the conclusion of criminal proceedings as a result of which C is detained in a hospital or similar institution in Great Britain as a person suffering from mental disorder unless C satisfies either of the conditions set out in paragraph (4).
+
+(4) The conditions referred to in paragraph (3) are —
+
+- (a) C is -
+  - (i) detained under section 45A of the Mental Health Act 1983 [^c2166057] (power of higher courts to direct hospital admission) or section 47 [^c2166058] of that Act (removal to hospital of persons serving sentences of imprisonment, etc); and
+  - (ii) being detained on or before the day which the Secretary of State has certified to be C's release date within the meaning of section 50(3) of that Act [^c2166059]; or
+- (b) C is being detained under-
+  - (i) section 59A of the Criminal Procedure (Scotland) Act 1995 [^c2166060] (hospital direction); or
+  - (ii) section 136 of the Mental Health (Care and Treatment) (Scotland) Act 2003 [^c2166061] (transfer of prisoners for treatment of mental disorder).
+
+(5) For the purposes of this regulation —
+
+- (a) “**hospital or similar institution**” means any place (not being a prison, a detention centre, a young offenders institution or remand centre and not being at or in any such place) in which persons suffering from mental disorder are or may be received for care or treatment;
+- (b) criminal proceedings against any person are deemed to be concluded upon that person being found insane in those proceedings with the effect that that person cannot be tried or the trial of that person cannot proceed.
+
+(6) Section 87 of the Act does not apply to C where —
+
+- (a) C is undergoing imprisonment or detention in legal custody outside Great Britain; and
+- (b) in similar circumstances in Great Britain, C would have been excepted from the application of that section by virtue of the operation of any provision of this regulation.
+
+### 32. Periods of residence[^c2203180]
+
+(1) In these Regulations, a “period of residence” is a period during which C –
+
+- (a) meets the condition in section 85(2) of the Act (care home residents);
+- (b) meets the condition in section 86(2) of the Act (hospital in-patients); or
+- (c) is a person who is undergoing imprisonment or detention in legal custody.
+
+(2) Subject to paragraph (3), for the purposes of section 87 of the Act and regulations 28 and 29, a period of residence —
+
+- (a) begins on the day after the day on which C enters a care home, hospital or similar institution or commences a period of imprisonment or detention in legal custody; and
+- (b) ends on the day before the day on which C leaves a care home, hospital or similar institution or on which a period of imprisonment or detention in legal custody ends.
+
+(3) Where, immediately following a period of residence for the purpose of sub-paragraph (a), (b) or (c) of paragraph (1), C commences another period of residence for the purpose of any of those sub-paragraphs, the earlier period of residence is deemed to end on the day on which C leaves the care home, hospital or similar institution or, as the case may be, on which the period of imprisonment or detention ends.
+
+(4) Subject to paragraph (5), for the purposes of regulation 30(1) and 31(1), —
+
+- (a) two or more distinct periods of residence separated by an interval not exceeding 28 days, or by two or more such intervals, are to be treated as a continuous period equal in duration to the total duration of such distinct periods and ending on the last day of the later or last such period; and
+- (b) any period or periods to which those regulations refer are to be taken into account and aggregated with any other period referred to in those regulations.
+
+(5) Paragraph (4) is, where the periods referred to in sub-paragraph (a) of that paragraph are both or all periods to which section 87 applies, to have effect as if -
+
+- (a) the words ‘subject to paragraph (5)’ and ‘regulation 30(1) and’ were omitted;
+- (b) the reference to ‘28 days’ in sub-paragraph (a) of that paragraph read ‘one year’; and
+- (c) the references to ‘those regulations’ in sub-paragraph (b) read ‘that regulation’ and the reference to ‘refer’ read ‘refers’.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Esther McVey
+
+Parliamentary Under-Secretary of State
+
+Department for Work and Pensions
+
+## SCHEDULE 1 — PERSONAL INDEPENDENCE PAYMENT ASSESSMENT
+
+Regulation 5
+
+### PART 1 — INTERPRETATION
+
+**1.** In this Schedule, —
+
+- “**aided**” means with –
+  - (a) the use of an aid or appliance; or
+  - (b) supervision, prompting or assistance;
+- “**assistance**” means physical intervention by another person and does not include speech;
+- “**assistance dog**” means a dog trained to guide or assist a person with a sensory impairment;
+- “**basic verbal information**” means information in C's native language conveyed verbally in a simple sentence;
+- “**basic written information**” means signs, symbols and dates written or printed standard size text in C's native language;
+- “**bathe**” includes get into or out of an unadapted bath or shower;
+- “**communication support**” means support from a person trained or experienced in communicating with people with specific communication needs, including interpreting verbal information into a non-verbal form and vice versa;
+- “**complex budgeting decisions**” means decisions involving –
+  - (a) calculating household and personal budgets;
+  - (b) managing and paying bills; and
+  - (c) planning future purchases;
+- “**complex verbal information**” means information in C's native language conveyed verbally in either more than one sentence or one complicated sentence;
+- “**complex written information**” means more than one sentence of written or printed standard size text in C's native language;
+- “**cook**” means heat food at or above waist height;
+- “**dress and undress**” includes put on and take off socks and shoes;
+- “**engage socially**” means –
+  - (a) interact with others in a contextually and socially appropriate manner;
+  - (b) understand body language; and
+  - (c) establish relationships;
+- “**manage incontinence**” means manage involuntary evacuation of the bowel or bladder, including use a collecting device or self-catheterisation, and clean oneself afterwards;
+- “**manage medication [^key-c04bad336d300f7be2bcf0faaabff341]...**” means take medication [^key-1417ce044eb2dcaed95939eaa88b8760]..., where a failure to do so is likely to result in a deterioration in C's health;
+- “manage therapy” means undertake therapy, where a failure to do so is likely to result in a deterioration in C’s health;[^key-3b9a629d7d6c86c2e7d34392614843ec]
+- “**medication**” means medication to be taken at home which is prescribed or recommended by a registered –
+  - (a) doctor;
+  - (b) nurse; or
+  - (c) pharmacist;
+- “ **monitor a health condition[^key-6db6d1936076eb3a062dcab4dc702342]** ” means –
+  - (a) detect significant changes in C's health condition which are likely to lead to a deterioration in C's health; and
+  - (b) take action advised by a –
+    - (i) registered doctor;
+    - (ii) registered nurse; [^key-dd5bbf38184f0a8bbed8b75c572f13f8]...
+    - (iii) health professional who is regulated by the Health Professions Council ; or[^key-40e5d4c6bc624b09f2758ac2e61f0544]
+    - (iv) a physician associate registered under the Anaesthesia Associates and Physician Associates Order 2024,
+
+    without which C's health is likely to deteriorate;
+- “**orientation aid**” means a specialist aid designed to assist disabled people to follow a route safely;
+- “prepare”, in the context of food, means make food ready for cooking or eating;
+- “**prompting**” means reminding, encouraging or explaining by another person;
+- “**psychological distress**” means distress related to an enduring mental health condition or an intellectual or cognitive impairment;
+- “**read**” includes read signs, symbols and words but does not include read Braille;
+- “**simple budgeting decisions**” means decisions involving –
+  - (a) calculating the cost of goods; and
+  - (b) calculating change required after a purchase;
+- “**simple meal**” means a cooked one-course meal for one using fresh ingredients;
+- “**social support**” means support from a person trained or experienced in assisting people to engage in social situations;
+- “**stand**” means stand upright with at least one biological foot on the ground;
+- “**supervision**” means the continuous presence of another person for the purpose of ensuring C's safety;
+- “**take nutrition**” means –
+  - (a) cut food into pieces, convey food and drink to one's mouth and chew and swallow food and drink; or
+  - (b) take nutrition by using a therapeutic source;
+- “**therapeutic source**” means parenteral or enteral tube feeding, using a rate-limiting device such as a delivery system or feed pump;
+- “**therapy**” means therapy to be undertaken at home which is prescribed or recommended by a—
+  - (a) registered –
+    - (i) doctor;
+    - (ii) nurse; [^key-4e402ee81dac832f008f7b15dfd1a7ad]...
+    - (iii) pharmacist; or
+    - (iv) a physician associate; or[^key-608fe75bb51f751701565e67ad47de10]
+  - (b) health professional regulated by the Health Professions Council;
+
+  but does not include taking or applying, or otherwise receiving or administering, medication (whether orally, topically or by any other means), or any action which, in C’s case, falls within the definition of “monitor a health condition[^key-ab7d3763a887c099c37a5cf023cbf3c0]
+- “**toilet needs**” means –
+  - (a) getting on and off an unadapted toilet;
+  - (b) evacuating the bladder and bowel; and
+  - (c) cleaning oneself afterwards; and
+- “**unaided**” means without –
+  - (a) the use of an aid or appliance; or
+  - (b) supervision, prompting or assistance.
+
+### PART 2 — DAILY LIVING ACTIVITIES
+
+<table>
+<tbody>
+<tr><th><em>Column 1</em><em>Activity</em></th><th><em>Column 2</em><em>Descriptors</em></th><th><em>Column 3</em><em>Points</em></th></tr>
+<tr><td rowspan="6">1. Preparing food.</td><td>a. Can prepare and cook a simple meal unaided.</td><td>0</td></tr>
+<tr><td>b. Needs to use an aid or appliance to be able to either prepare or cook a simple meal.</td><td>2</td></tr>
+<tr><td>c. Cannot cook a simple meal using a conventional cooker but is able to do so using a microwave.</td><td>2</td></tr>
+<tr><td>d. Needs prompting to be able to either prepare or cook a simple meal.</td><td>2</td></tr>
+<tr><td>e. Needs supervision or assistance to either prepare or cook a simple meal.</td><td>4</td></tr>
+<tr><td>f. Cannot prepare and cook food.</td><td>8</td></tr>
+<tr><td rowspan="6">2. Taking nutrition.</td><td>a. Can take nutrition unaided.</td><td>0</td></tr>
+<tr><td>b. Needs –<br>(i) to use an aid or appliance to be able to take nutrition; or<br>(ii) supervision to be able to take nutrition; or<br>(iii) assistance to be able to cut up food.</td><td>2</td></tr>
+<tr><td>c. Needs a therapeutic source to be able to take nutrition.</td><td>2</td></tr>
+<tr><td>d. Needs prompting to be able to take nutrition.</td><td>4</td></tr>
+<tr><td>e. Needs assistance to be able to manage a therapeutic source to take nutrition.</td><td>6</td></tr>
+<tr><td>f. Cannot convey food and drink to their mouth and needs another person to do so.</td><td>10</td></tr>
+<tr><td rowspan="6">3. Managing therapy or monitoring a health condition.</td><td>a. Either –<br>(i) does not receive medication or therapy or need to monitor a health condition; or<br>(ii) can manage medication or therapy or monitor a health condition unaided.</td><td>0</td></tr>
+<tr><td>b. Needs any one or more of the following –<br>(i) to use an aid or appliance to be able to manage medication; ...<br>(ii) supervision, prompting or assistance to be able to manage medication ....<br>(iii) supervision, prompting or assistance to be able to monitor a health condition. </td><td>1</td></tr>
+<tr><td>c. Needs supervision, prompting or assistance to be able to manage therapy that takes no more than 3.5 hours a week.</td><td>2</td></tr>
+<tr><td>d. Needs supervision, prompting or assistance to be able to manage therapy that takes more than 3.5 but no more than 7 hours a week.</td><td>4</td></tr>
+<tr><td>e. Needs supervision, prompting or assistance to be able to manage therapy that takes more than 7 but no more than 14 hours a week.</td><td>6</td></tr>
+<tr><td>f. Needs supervision, prompting or assistance to be able to manage therapy that takes more than 14 hours a week.</td><td>8</td></tr>
+<tr><td rowspan="7">4. Washing and bathing.</td><td>a. Can wash and bathe unaided.</td><td>0</td></tr>
+<tr><td>b. Needs to use an aid or appliance to be able to wash or bathe.</td><td>2</td></tr>
+<tr><td>c. Needs supervision or prompting to be able to wash or bathe.</td><td>2</td></tr>
+<tr><td>d. Needs assistance to be able to wash either their hair or body below the waist.</td><td>2</td></tr>
+<tr><td>e. Needs assistance to be able to get in or out of a bath or shower.</td><td>3</td></tr>
+<tr><td>f. Needs assistance to be able to wash their body between the shoulders and waist.</td><td>4</td></tr>
+<tr><td>g. Cannot wash and bathe at all and needs another person to wash their entire body.</td><td>8</td></tr>
+<tr><td rowspan="6">5. Managing toilet needs or incontinence.</td><td>a. Can manage toilet needs or incontinence unaided.</td><td>0</td></tr>
+<tr><td>b. Needs to use an aid or appliance to be able to manage toilet needs or incontinence.</td><td>2</td></tr>
+<tr><td>c. Needs supervision or prompting to be able to manage toilet needs.</td><td>2</td></tr>
+<tr><td>d. Needs assistance to be able to manage toilet needs.</td><td>4</td></tr>
+<tr><td>e. Needs assistance to be able to manage incontinence of either bladder or bowel.</td><td>6</td></tr>
+<tr><td>f. Needs assistance to be able to manage incontinence of both bladder and bowel.</td><td>8</td></tr>
+<tr><td rowspan="6">6. Dressing and undressing.</td><td>a. Can dress and undress unaided.</td><td>0</td></tr>
+<tr><td>b. Needs to use an aid or appliance to be able to dress or undress.</td><td>2</td></tr>
+<tr><td>c. Needs either -<br>(i) prompting to be able to dress, undress or determine appropriate circumstances for remaining clothed; or<br>(ii) prompting or assistance to be able to select appropriate clothing.</td><td>2</td></tr>
+<tr><td>d. Needs assistance to be able to dress or undress their lower body.</td><td>2</td></tr>
+<tr><td>e. Needs assistance to be able to dress or undress their upper body.</td><td>4</td></tr>
+<tr><td>f. Cannot dress or undress at all.</td><td>8</td></tr>
+<tr><td rowspan="5">7. Communicating verbally.</td><td>a. Can express and understand verbal information unaided.</td><td>0</td></tr>
+<tr><td>b. Needs to use an aid or appliance to be able to speak or hear.</td><td>2</td></tr>
+<tr><td>c. Needs communication support to be able to express or understand complex verbal information.</td><td>4</td></tr>
+<tr><td>d. Needs communication support to be able to express or understand basic verbal information.</td><td>8</td></tr>
+<tr><td>e. Cannot express or understand verbal information at all even with communication support.</td><td>12</td></tr>
+<tr><td rowspan="5">8. Reading and understanding signs, symbols and words.</td><td>a. Can read and understand basic and complex written information either unaided or using spectacles or contact lenses.</td><td>0</td></tr>
+<tr><td>b. Needs to use an aid or appliance, other than spectacles or contact lenses, to be able to read or understand either basic or complex written information.</td><td>2</td></tr>
+<tr><td>c. Needs prompting to be able to read or understand complex written information.</td><td>2</td></tr>
+<tr><td>d. Needs prompting to be able to read or understand basic written information.</td><td>4</td></tr>
+<tr><td>e. Cannot read or understand signs, symbols or words at all.</td><td>8</td></tr>
+<tr><td rowspan="4">9. Engaging with other people face to face.</td><td>a. Can engage with other people unaided.</td><td>0</td></tr>
+<tr><td>b. Needs prompting to be able to engage with other people.</td><td>2</td></tr>
+<tr><td>c. Needs social support to be able to engage with other people.</td><td>4</td></tr>
+<tr><td>d. Cannot engage with other people due to such engagement causing either –<br>(i) overwhelming psychological distress to the claimant; or<br>(ii) the claimant to exhibit behaviour which would result in a substantial risk of harm to the claimant or another person.</td><td>8</td></tr>
+<tr><td rowspan="4">10. Making budgeting decisions.</td><td>a. Can manage complex budgeting decisions unaided.</td><td>0</td></tr>
+<tr><td>b. Needs prompting or assistance to be able to make complex budgeting decisions.</td><td>2</td></tr>
+<tr><td>c. Needs prompting or assistance to be able to make simple budgeting decisions.</td><td>4</td></tr>
+<tr><td>d. Cannot make any budgeting decisions at all.</td><td>6</td></tr>
+</tbody>
+</table>
+
+[^key-9ee3d0a67de77f0d8f844154c5413d9e][^key-c12fe3c0cb314724edf7d9fcce764352][^key-62395823e31bd3d60dc7a41e4bdaeb3d][^key-f408bd6b6a4c900ba72b8663b10b5a76]
+
+### PART 3 — MOBILITY ACTIVITIES
+
+<table>
+<tbody>
+<tr><th><em>Column 1</em><em>Activity</em></th><th><em>Column 2</em><em>Descriptors</em></th><th><em>Column 3</em><em>Points</em></th></tr>
+<tr><td rowspan="6">1. Planning and following journeys.</td><td>a. Can plan and follow the route of a journey unaided.</td><td>0</td></tr>
+<tr><td>b. Needs prompting to be able to undertake any journey to avoid overwhelming psychological distress to the claimant.</td><td>4</td></tr>
+<tr><td>c. Cannot plan the route of a journey.</td><td>8</td></tr>
+<tr><td>d. Cannot follow the route of an unfamiliar journey without another person, assistance dog or orientation aid.</td><td>10</td></tr>
+<tr><td>e. Cannot undertake any journey because it would cause overwhelming psychological distress to the claimant.</td><td>10</td></tr>
+<tr><td>f. Cannot follow the route of a familiar journey without another person, an assistance dog or an orientation aid.</td><td>12</td></tr>
+<tr><td rowspan="6">2. Moving around.</td><td>a. Can stand and then move more than 200 metres, either aided or unaided.</td><td>0</td></tr>
+<tr><td>b. Can stand and then move more than 50 metres but no more than 200 metres, either aided or unaided</td><td>4</td></tr>
+<tr><td>c. Can stand and then move unaided more than 20 metres but no more than 50 metres.</td><td>8</td></tr>
+<tr><td>d. Can stand and then move using an aid or appliance more than 20 metres but no more than 50 metres.</td><td>10</td></tr>
+<tr><td>e. Can stand and then move more than 1 metre but no more than 20 metres, either aided or unaided.</td><td>12</td></tr>
+<tr><td>f. Cannot, either aided or unaided, –<br>(i) stand; or<br>(ii) move more than 1 metre.</td><td>12</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2 — MEMBERS OF HER MAJESTY'S FORCES: EXCLUDED PERSONS
+
+Regulation 19(2)
+
+**1.** The following persons are not members of Her Majesty's forces for the purpose of these Regulations -
+
+- (a) subject to paragraph (2), any person who is serving as a member of any naval force of Her Majesty's forces and who locally entered that force at a naval base outside the United Kingdom;
+- (b) any person who is serving as a member of any military force of Her Majesty's forces and who entered that force, or was recruited for that force, outside the United Kingdom, and the depot of whose unit is situated outside the United Kingdom;
+- (c) any person who is serving as a member of any air force of Her Majesty's forces and who entered that force, or was recruited for that force, outside the United Kingdom, and is liable under the terms of engagement to serve only in a specified part of the world outside the United Kingdom.
+
+**2.** Paragraph (1)(a) does not include any person who –
+
+- (a) has previously been an insured person under Part 1 of the National Insurance Act 1965 [^c2166062]; or
+- (b) is paying or has previously paid one or more of the following classes of contributions under the Social Security Act 1975 [^c2166063] or the Social Security Contributions and Benefits Act 1992 [^c2166064]–
+  - (i) primary Class 1;
+  - (ii) Class 2; or
+  - (iii) Class 3.
+
+*(This note is not part of the Regulations)*
+
+These Regulations set out the principal provisions relating to personal independence payment which is established under Part 4 of the Welfare Reform Act 2012 (‘the 2012 Act’).
+
+Part 2 provides for the assessment for personal independence payment which will determine whether and to what extent a person who applies for such a payment has limited or severely limited ability to carry out daily living activities and mobility activities.
+
+Regulation 3 provides that daily living activities and mobility activities are those set out in Schedule 1 to these Regulations.
+
+Regulation 4 provides that a person's ability to carry out those activities is to be determined by an assessment and regulations 5 to 7 set out how those activities are to be scored in the assessment.
+
+Regulation 8 allows the Secretary of State to request information or evidence to enable the determination of the claim to be made and requires that such information or evidence is provided within one month or such other period as the Secretary of State considers reasonable. If such information is not provided without good reason, a negative determination shall be made in relation to the relevant component (regulation 8(3)). A negative determination is a finding that the claimant does not meet the requirements to be entitled to personal independence payment.
+
+Regulation 9 provides that a claimant may be called to attend and participate in a consultation in person or to participate in a consultation by telephone or both and failure to attend or participate without good reason shall result in a negative determination being made in relation to the relevant component.
+
+Regulation 10 sets out matters which are to be taken into account in determining a good reason in regulations 8 and 9.
+
+The Secretary of State may determine afresh the ability of a claimant to carry out activities (regulation 11).
+
+Regulations 12 to 15 set out provisions relating to the required period condition, which the claimant needs to satisfy to be entitled to personal independence payment.
+
+Part 4 sets out the residence and presence conditions for entitlement to personal independence payment.
+
+Regulation 16 provides that a person must be present in Great Britain; have been present in Great Britain for 104 weeks out of the previous 156 weeks; be habitually resident in Great Britain and not subject to immigration control on every day of a claim.
+
+Regulations 17 to 23 provide exceptions to regulation 16.
+
+Regulation 24 sets out the rates of personal independence payment.
+
+Part 6 contains provisions in relation to age. Regulations 25 to 27 make exceptions to the provision in section 83(1) of the Act that people over the ‘relevant age’ cannot claim personal independence payment.
+
+Part 7 makes provision about when payment of personal independence payment will cease because the claimant is resident in a particular place. Regulation 28 applies to claimants residing in care homes and regulation 29 to claimants residing in hospitals or similar institutions where certain conditions are satisfied. Regulation 30 provides exceptions to regulations 28 and 29. Regulation 31 makes an exception to section 87 of the Act which provides that prisoners and detainees cannot receive personal independence payment. Regulation 32 provides further information about periods of time spent in a care home, a hospital or similar institution or in legal custody.
+
+A full impact assessment has not been produced for this instrument as it has no impact on the private sector or civil society organisations.
+
+## Annotations
+
+[^c2166019]: Textual amendment: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^c2166020]: Textual amendment: *See* section 173(5)(a) of the [Social Security Administration Act 1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5) (‘the 1992 Act’). The requirement to refer regulations to the Social Security Advisory Committee does not apply where regulations are contained in a statutory instrument made before the end of the period of six months beginning with the coming into force of the enactment under which the regulations were made. Schedule 9, paragraph 26(a) to the [Welfare Reform Act 2012 (c.5)](https://www.legislation.gov.uk/ukpga/2012/5) (‘the Act’) inserted a reference to Part 4 of that Act into section 170(5) of the 1992 Act which has the effect of making that Part of the Act a ‘relevant enactment’ and therefore subject to the requirement to refer regulations to the Social Security Advisory Committee unless section 173(5) applies.
+
+[^c2203149]: Commencement: Reg. 1 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^c2166021]: Textual amendment: *See* [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358) (C.16).
+
+[^c2203150]: Commencement: Reg. 2 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^c2166022]: Textual amendment: [1998 c.14](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^key-9eb6762e2233ea8ca49b2179636a7f5c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/377/regulation/2) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [14(2)(a)](https://www.legislation.gov.uk/uksi/2022/177/article/14/2/a)
+
+[^c2166023]: Textual amendment: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 71 was amended by the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), [section 67(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/67/1).
+
+[^c2166024]: Textual amendment: ‘Prescribed’ means prescribed by regulations. *See* section 95 of the Act.
+
+[^key-095ff8e378c40623078d52e77458fb3a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/377/regulation/2) substituted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2022/177/article/14/2/b)
+
+[^key-47152759669ce28fbe8c0cd5e1a2844c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/377/regulation/2) substituted (E.W.) (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2025/227/article/4/2/a)
+
+[^key-11068933f9babc425385b8e49433abea]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/377/regulation/2) inserted (6.11.2025) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/5/2/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6))
+
+[^key-ff91c90add4d8b75aaddc8e78b9beac7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/377/regulation/2) inserted (6.11.2025) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/5/2/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6))
+
+[^key-4462c57c53c09f74d0c83149f61d53fa]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/377/regulation/2) inserted (E.W.) (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2025/227/article/4/2/b)
+
+[^c2166025]: Textual amendment: Section 10 was amended by the [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2), [Schedule 7](https://www.legislation.gov.uk/ukpga/1999/2/schedule/7), [paragraph 23(a)](https://www.legislation.gov.uk/ukpga/1999/2/paragraph/23/a) and (b) and Schedule 10, and the [Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [Schedule 3](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3), [paragraph 148](https://www.legislation.gov.uk/uksi/2008/2833/paragraph/148).
+
+[^c2203151]: Commencement: Reg. 3 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^c2203152]: Commencement: Reg. 4 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^key-da43c09bb2180741b3d709d0e8da5eec]: Textual amendment: Reg. 4(2A) inserted (8.4.2013) by [The Social Security (Personal Independence Payment) (Amendment) Regulations 2013 (S.I. 2013/455)](https://www.legislation.gov.uk/uksi/2013/455), [regs. 1](https://www.legislation.gov.uk/uksi/2013/455/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2013/455/regulation/2/a)
+
+[^key-8aedc01499fdf2643cb6bbeae617e645]: Textual amendment: Reg. 4(4) inserted (8.4.2013) by [The Social Security (Personal Independence Payment) (Amendment) Regulations 2013 (S.I. 2013/455)](https://www.legislation.gov.uk/uksi/2013/455), [regs. 1](https://www.legislation.gov.uk/uksi/2013/455/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2013/455/regulation/2/b)
+
+[^c2203153]: Commencement: Reg. 5 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^c2203154]: Commencement: Reg. 6 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^c2203155]: Commencement: Reg. 7 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^key-d68a35133df715fb0be086d6dccb4964]: Textual amendment: Words in [reg. 7(3)(a)(i)](https://www.legislation.gov.uk/uksi/2013/377/regulation/7/3/a/i) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2022/177/article/14/3)
+
+[^key-8a88a686d80f1d51f3255c51c57e4a56]: Textual amendment: Words in [reg. 7(3)(b)(i)](https://www.legislation.gov.uk/uksi/2013/377/regulation/7/3/b/i) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2022/177/article/14/3)
+
+[^c2203156]: Commencement: Reg. 8 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^c2203157]: Commencement: Reg. 9 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^key-c5afb0b343758ede6ef947278bf96038]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2013/377/regulation/9/1/b) inserted (25.3.2021) by [The Social Security (Claims and Payments, Employment and Support Allowance, Personal Independence Payment and Universal Credit) (Telephone and Video Assessment) (Amendment) Regulations 2021 (S.I. 2021/230)](https://www.legislation.gov.uk/uksi/2021/230), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/230/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/230/regulation/5/2)
+
+[^key-0eaff8ab04ba8612391c40775698badb]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2013/377/regulation/9/1/b) inserted (25.3.2021) by [The Social Security (Industrial Injuries Benefit and Personal Independence Payment) (Telephone and Video Assessment) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/97)](https://www.legislation.gov.uk/ssi/2021/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/97/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2021/97/regulation/3)
+
+[^c2166026]: Textual amendment: 2000 (c.7). Section 15(1) was amended by the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), [section 406(1)](https://www.legislation.gov.uk/ukpga/2003/21/section/406/1) and Schedule 17, paragraph 158.
+
+[^c2203158]: Commencement: Reg. 10 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^c2203159]: Commencement: Reg. 11 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^key-3c22f1cdfb2c4a773a6806971fc625f5]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/uksi/2013/377/regulation/11/1): reg. 11 renumbered as reg. 11(1) (30.4.2026) by [The Universal Credit, Personal Independence Payment and Employment and Support Allowance (Amendment) Regulations 2026 (S.I. 2026/395)](https://www.legislation.gov.uk/uksi/2026/395), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2026/395/regulation/3/a)
+
+[^key-8c56de502ee06e51aeba45b8e19cfe85]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2013/377/regulation/11/1) substituted (30.4.2026) by [The Universal Credit, Personal Independence Payment and Employment and Support Allowance (Amendment) Regulations 2026 (S.I. 2026/395)](https://www.legislation.gov.uk/uksi/2026/395), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2026/395/regulation/3/b)
+
+[^key-fa94aa23b7a03f21eb1b42b0962c75b3]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2013/377/regulation/11/2) inserted (30.4.2026) by [The Universal Credit, Personal Independence Payment and Employment and Support Allowance (Amendment) Regulations 2026 (S.I. 2026/395)](https://www.legislation.gov.uk/uksi/2026/395), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2026/395/regulation/3/c)
+
+[^c2203160]: Commencement: Reg. 12 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^c2203161]: Commencement: Reg. 13 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^c2203162]: Commencement: Reg. 14 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^key-c21655ee004d7b5bf74b325fa7e2f7b4]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2013/377/regulation/14) substituted (E.W.) (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2025/227/article/4/3)
+
+[^key-b783f06d99af65a0b77ff85d72819af5]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2013/377/regulation/14) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2022/177/article/14/4)
+
+[^c2203163]: Commencement: Reg. 15 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^key-7beb24fc9ccf3478d87c677ae9f22ef6]: Textual amendment: Words in [reg. 15(1)(b)](https://www.legislation.gov.uk/uksi/2013/377/regulation/15/1/b) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [14(5)(a)](https://www.legislation.gov.uk/uksi/2022/177/article/14/5/a)
+
+[^key-3a941168baeaf8ea591279b7fb1ca837]: Textual amendment: Words in [reg. 15(1)(c)](https://www.legislation.gov.uk/uksi/2013/377/regulation/15/1/c) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [14(5)(b)](https://www.legislation.gov.uk/uksi/2022/177/article/14/5/b)
+
+[^key-89ce10b275f991483ca0926ce8c681d9]: Textual amendment: Words in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2013/377/regulation/15/2/a) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [14(5)(c)](https://www.legislation.gov.uk/uksi/2022/177/article/14/5/c)
+
+[^key-ea14f51cd33fe2771fa1f818d35c2ad6]: Textual amendment: Words in [reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2013/377/regulation/15/3/a) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [14(5)(c)](https://www.legislation.gov.uk/uksi/2022/177/article/14/5/c)
+
+[^key-a9e39905399267039a6a0aa9c8df0d3b]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2013/377/regulation/15A) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [14(6)](https://www.legislation.gov.uk/uksi/2022/177/article/14/6)
+
+[^key-56454f46e1cbae476266bd5cc9e533f8]: Textual amendment: Words in [reg. 15A(1)](https://www.legislation.gov.uk/uksi/2013/377/regulation/15A/1) substituted (E.W.) (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2025/227/article/4/4/a)
+
+[^key-782c8161d15d96daa86d7a5d7800ba9e]: Textual amendment: [Reg. 15A(5)](https://www.legislation.gov.uk/uksi/2013/377/regulation/15A/5) inserted (E.W.) (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2025/227/article/4/4/b)
+
+[^key-b76db55e51cb4026f6bb3548668dd858]: Textual amendment: [Reg. 15B](https://www.legislation.gov.uk/uksi/2013/377/regulation/15B) inserted (E.W.) (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2025/227/article/4/5)
+
+[^c2203164]: Commencement: Reg. 16 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^key-e7e220dc43f28f49b4ec9b4e3df1d9e4]: Textual amendment: Words in [reg. 16(a)](https://www.legislation.gov.uk/uksi/2013/377/regulation/16/a) substituted (6.11.2025) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/5/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6))
+
+[^c2166027]: Textual amendment: [1999 c.33](https://www.legislation.gov.uk/ukpga/1999/33). Section 115 was amended by the Act, Schedule 9, paragraph 44. There are other amendments not relevant to these Regulations.
+
+[^c2166028]: Textual amendment: Regulation 2 was amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388). There are other amendments not relevant to these Regulations.
+
+[^key-447a3a069eb2ff926a89ae3b2349952c]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2013/377/regulation/16A) inserted (6.11.2025) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/5/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6))
+
+[^c2203165]: Commencement: Reg. 17 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^key-1e5cf1636af71021623da2023465cce0]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2013/377/regulation/17/1) substituted (6.11.2025) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/5/5) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6))
+
+[^c2203166]: Commencement: Reg. 18 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^key-39e34147a4ee85fdd64b07418f8bd179]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2013/377/regulation/18/1) substituted (6.11.2025) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/5/6) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6))
+
+[^key-f7b9767beb149e830ec36d2740fb0b97]: Textual amendment: [Regs. 18A](https://www.legislation.gov.uk/uksi/2013/377/regulation/18A), [18B](https://www.legislation.gov.uk/uksi/2013/377/regulation/18B) inserted (E.W.) (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2025/884/regulation/15)
+
+[^key-9bf3235b1e1669c506a9fadbae4b64a9]: Textual amendment: Words in [reg. 18A(1)](https://www.legislation.gov.uk/uksi/2013/377/regulation/18A/1) substituted (E.W.) (6.11.2025) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/10/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6))
+
+[^key-0cfc886e67e0dd601fb9abd296742a34]: Textual amendment: Words in [reg. 18B](https://www.legislation.gov.uk/uksi/2013/377/regulation/18B) substituted (E.W.) (6.11.2025) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/10/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6))
+
+[^key-9064487e77cc7bf36f41f5137b206509]: Textual amendment: [Regs. 18C](https://www.legislation.gov.uk/uksi/2013/377/regulation/18C), [18D](https://www.legislation.gov.uk/uksi/2013/377/regulation/18D) inserted (S.) (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2026/139/regulation/5/2)
+
+[^c2203167]: Commencement: Reg. 19 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^key-8ec9d7535f75b20e3b9adb614855bb04]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2013/377/regulation/19/1) substituted (6.11.2025) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/5/7) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6))
+
+[^c2166029]: Textual amendment: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 120(2) was amended by the Social Security Act 1998, section 86(1) and Schedule 7, paragraph 70, the [Petroleum Act 1998 (c.17)](https://www.legislation.gov.uk/ukpga/1998/17), [Schedule 4](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4), [paragraph 30](https://www.legislation.gov.uk/ukpga/1998/17/paragraph/30) and the Social Security Contributions (Transfer of Functions, etc.) Act 1999, Schedule 3, paragraph 26 and Schedule 7, paragraph 8.
+
+[^c2166030]: Textual amendment: [2006 c.52](https://www.legislation.gov.uk/ukpga/2006/52). There are amendments to section 374 not relevant to these Regulations.
+
+[^c2203168]: Commencement: Reg. 20 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^key-a6622671d9323123a62a3a64b3d95740]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/2013/377/regulation/20A) inserted (6.11.2025) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/5/8) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6))
+
+[^c2203169]: Commencement: Reg. 21 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^c2203170]: Commencement: Reg. 22 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^c2166031]: Textual amendment: *See* section 84(2) of the Act for the meaning of ‘relevant EU Regulation’.
+
+[^key-8bc2a53a2e2dc3f6ff970851c2ae354c]: Textual amendment: Words in [reg. 22(c)](https://www.legislation.gov.uk/uksi/2013/377/regulation/22/c) omitted (E.W.) (7.11.2024) by virtue of [The Social Security (Genuine and Sufficient Link to the United Kingdom) (Amendment) Regulations 2024 (S.I. 2024/936)](https://www.legislation.gov.uk/uksi/2024/936), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/936/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2024/936/regulation/5/2); (S.) (7.11.2024) by virtue of [The Social Security (Genuine and Sufficient Link to the United Kingdom) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/241)](https://www.legislation.gov.uk/ssi/2024/241), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/241/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2024/241/regulation/5/2)
+
+[^c2203171]: Commencement: Reg. 23 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^key-477f1affd1f259f54aca1670e37aaf03]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2013/377/regulation/23) title omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/10/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-74683ecdb9d7b72c5a9b0af5076068df]: Textual amendment: Words in [reg. 23(a)(i)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23/a/i) omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/10/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ec8558ec280e34a9eec42e8bfa3b8154]: Textual amendment: [Reg. 23(b)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23/b) substituted (E.W.) (10.12.2025) by [The Social Security (Residence in an EEA State or Switzerland) (Amendment) Regulations 2025 (S.I. 2025/1198)](https://www.legislation.gov.uk/uksi/2025/1198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1198/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2025/1198/regulation/4); (S.) (1.4.2026) by [The Social Security (Residence in an EEA State or Switzerland) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/415)](https://www.legislation.gov.uk/ssi/2025/415), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/415/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2025/415/regulation/4)
+
+[^key-2066cd974b6e0c822a4b434655f0c9e5]: Textual amendment: Words in [reg. 23(c)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23/c) omitted (E.W.) (7.11.2024) by virtue of [The Social Security (Genuine and Sufficient Link to the United Kingdom) (Amendment) Regulations 2024 (S.I. 2024/936)](https://www.legislation.gov.uk/uksi/2024/936), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/936/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2024/936/regulation/5/3); (S.) (7.11.2024) by virtue of [The Social Security (Genuine and Sufficient Link to the United Kingdom) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/241)](https://www.legislation.gov.uk/ssi/2024/241), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/241/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2024/241/regulation/5/3)
+
+[^key-511739714d91260cf6e245ea9d75bc3c]: Textual amendment: [Reg. 23ZA](https://www.legislation.gov.uk/uksi/2013/377/regulation/23ZA) inserted (26.7.2021) by [The Scotland Act 2016 (Social Security) (Consequential Provision) (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/804)](https://www.legislation.gov.uk/uksi/2021/804), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/804/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2021/804/regulation/6/2)
+
+[^key-1b7a5638f385d48fde17d951ff0b5831]: Textual amendment: [Reg. 23ZA(1)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23ZA/1): reg. 23ZA renumbered as reg. 23ZA(1) (coming into force in accordance with reg. 1(1) of the amending S.I.) by [The Scotland Act 2016 (Social Security) (Adult Disability Payment and Child Disability Payment) (Amendment) Regulations 2022 (S.I. 2022/335)](https://www.legislation.gov.uk/uksi/2022/335), [reg. 7](https://www.legislation.gov.uk/uksi/2022/335/regulation/7)
+
+[^key-f3d2589db4dd2f6ce21d5f3cb677752d]: Textual amendment: [Reg. 23ZA(2)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23ZA/2) inserted (coming into force in accordance with reg. 1(1) of the amending S.I.) by [The Scotland Act 2016 (Social Security) (Adult Disability Payment and Child Disability Payment) (Amendment) Regulations 2022 (S.I. 2022/335)](https://www.legislation.gov.uk/uksi/2022/335), [reg. 7](https://www.legislation.gov.uk/uksi/2022/335/regulation/7)
+
+[^key-68d99dc9a6e6a63e4cae175cabb965eb]: Textual amendment: [Regs. 23ZB](https://www.legislation.gov.uk/uksi/2013/377/regulation/23ZB), [23ZC](https://www.legislation.gov.uk/uksi/2013/377/regulation/23ZC) inserted (6.11.2025) by [The Social Security (Scotland Cross-border Consequential Amendment and Transitional Provision) Regulations 2025 (S.I. 2025/1089)](https://www.legislation.gov.uk/uksi/2025/1089), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/1/2), [5(9)](https://www.legislation.gov.uk/uksi/2025/1089/regulation/5/9) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1089/regulation/6))
+
+[^key-7a57c5202c921c72ba23e1059412ac2a]: Textual amendment: Reg. 23A inserted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 4) Regulations 2017 (S.I. 2017/1015)](https://www.legislation.gov.uk/uksi/2017/1015/contents/made), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1015/regulation/1/made), [14](https://www.legislation.gov.uk/uksi/2017/1015/regulation/14/made)
+
+[^key-28eebb9b44410bf8390f37ac925087e7]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A) title substituted (E.W.) (16.9.2021) by [The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2021 (S.I. 2021/1034)](https://www.legislation.gov.uk/uksi/2021/1034), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/4/2)[(4)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/4/4)
+
+[^key-842b8ab10c06c708d459bff2e2612efe]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A) heading substituted (S.) (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/320/regulation/2/2)[(5)(d)](https://www.legislation.gov.uk/ssi/2021/320/regulation/2/5/d)
+
+[^key-2816a64d0622e2fc2db2304605e112b3]: Textual amendment: Word in [reg. 23A(1)(a)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/1/a) omitted (S.) (15.9.2021) by virtue of [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2021/320/regulation/2/3/a)[(5)(d)](https://www.legislation.gov.uk/ssi/2021/320/regulation/2/5/d); (E.W.) (16.9.2021) by virtue of [The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2021 (S.I. 2021/1034)](https://www.legislation.gov.uk/uksi/2021/1034), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/4/3/a)[(4)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/4/4)
+
+[^key-c2f2941a74a4a4f1e2acdfe9b4fa01ad]: Textual amendment: [Reg. 23A(1)(c)-(e)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/1/c) inserted (S.) (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2021/320/regulation/2/3/b)[(5)(d)](https://www.legislation.gov.uk/ssi/2021/320/regulation/2/5/d); (E.W.) (16.9.2021) by [The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2021 (S.I. 2021/1034)](https://www.legislation.gov.uk/uksi/2021/1034), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/4/3/b), [(4)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/4/4)
+
+[^key-12f26c98da34e0cc819a38611fe078ea]: Textual amendment: Word in [reg. 23A(1)(d)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/1/d) omitted (E.W.) (22.3.2022) by virtue of [The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2022 (S.I. 2022/344)](https://www.legislation.gov.uk/uksi/2022/344), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2022/344/regulation/5/2/a); (S.) (22.3.2022 at 5.40 p.m.) by virtue of [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2022/108/regulation/3/2/a)
+
+[^key-ad3c64e4bb1448e6fd760d0268245fc9]: Textual amendment: Word in [reg. 23A(1)(e)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/1/e) substituted (E.W.) (18.10.2022) by [The Social Security (Habitual Residence and Past Presence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/990)](https://www.legislation.gov.uk/uksi/2022/990), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2022/990/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2022/990/regulation/3/1/a)[(2)(d)](https://www.legislation.gov.uk/uksi/2022/990/regulation/3/2/d)
+
+[^key-05285003e03f16a7a5b8c308647a01af]: Textual amendment: Word in [reg. 23A(1)(e)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/1/e) omitted (E.W) (15.5.2023) by virtue of [The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2023 (S.I. 2023/532)](https://www.legislation.gov.uk/uksi/2023/532), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/532/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2023/532/regulation/5/a); (S.) (17.5.2023 at 5.54 p.m.) by virtue of [The Social Security (Residence Requirements) (Sudan) (Scotland) Regulations 2023 (S.S.I. 2023/149)](https://www.legislation.gov.uk/ssi/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/149/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2023/149/regulation/3/2/a)
+
+[^key-373d6e361d1f634fbd6cba374d0ae23c]: Textual amendment: [Reg. 23A(1)(f)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/1/f) inserted (E.W.) (22.3.2022) by [The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2022 (S.I. 2022/344)](https://www.legislation.gov.uk/uksi/2022/344), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2022/344/regulation/5/2/b); (S.) (22.3.2022 at 5.40 p.m.) by [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2022/108/regulation/3/2/b)
+
+[^key-846ad3b55e2f0a729c632c07cfa0174f]: Textual amendment: Words in [reg. 23A(1)(f)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/1/f) substituted (E.W.) (18.10.2022) by [The Social Security (Habitual Residence and Past Presence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/990)](https://www.legislation.gov.uk/uksi/2022/990), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2022/990/regulation/1/1), [3(1)(b)(i)](https://www.legislation.gov.uk/uksi/2022/990/regulation/3/1/b/i)[(2)(d)](https://www.legislation.gov.uk/uksi/2022/990/regulation/3/2/d); substituted (S.) (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [6(1)(a)](https://www.legislation.gov.uk/ssi/2022/336/regulation/6)
+
+[^key-5ed8841d9af4916b09f36c1007766cb9]: Textual amendment: Words in [reg. 23A(1)(f)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/1/f) inserted (E.W.) (18.10.2022) by [The Social Security (Habitual Residence and Past Presence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/990)](https://www.legislation.gov.uk/uksi/2022/990), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2022/990/regulation/1/1), [3(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/990/regulation/3/1/b/ii)[(2)(d)](https://www.legislation.gov.uk/uksi/2022/990/regulation/3/2/d); (S.) (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [reg. 23A(1)(f)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/1/f), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [6(1)(b)](https://www.legislation.gov.uk/ssi/2022/336/regulation/6)
+
+[^key-c1f3fca6aef1c2c8c3b59e60c69ed0f3]: Textual amendment: [Reg. 23A(1)(g)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/1/g) and word inserted (E.W) (15.5.2023) by [The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2023 (S.I. 2023/532)](https://www.legislation.gov.uk/uksi/2023/532), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/532/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2023/532/regulation/5/b); (S.) (17.5.2023 at 5.54 p.m.) by [The Social Security (Residence Requirements) (Sudan) (Scotland) Regulations 2023 (S.S.I. 2023/149)](https://www.legislation.gov.uk/ssi/2023/149); [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/149/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2023/149/regulation/3/2/b)
+
+[^key-fabbd9f56a1de859bb0c6318e35c404c]: Textual amendment: Word in [reg. 23A(1)(f)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/1/f) omitted (S.) (26.10.2023 at 5.38 p.m.) by virtue of [The Social Security (Residence and Presence Requirements) (Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights and Lebanon) (Scotland) Regulations 2023 (S.S.I. 2023/309)](https://www.legislation.gov.uk/ssi/2023/309), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/309/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/ssi/2023/309/regulation/3/2/a); (E.W.) (27.10.2023) by virtue of [The Social Security (Habitual Residence and Past Presence, and Capital Disregards) (Amendment) Regulations 2023 (S.I. 2023/1144)](https://www.legislation.gov.uk/uksi/2023/1144), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1144/regulation/1/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2023/1144/regulation/11/2/a)
+
+[^key-fbe4af5da8ebf03981e46c1f45a1e0fb]: Textual amendment: Reg. 23A(1)(h) and word inserted (S.) (26.10.2023 at 5.38 p.m.) by [The Social Security (Residence and Presence Requirements) (Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights and Lebanon) (Scotland) Regulations 2023 (S.S.I. 2023/309)](https://www.legislation.gov.uk/ssi/2023/309), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/309/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2023/309/regulation/3/2/b); (E.W.) (27.10.2023) by [The Social Security (Habitual Residence and Past Presence, and Capital Disregards) (Amendment) Regulations 2023 (S.I. 2023/1144)](https://www.legislation.gov.uk/uksi/2023/1144), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1144/regulation/1/1), [11(2)(c)](https://www.legislation.gov.uk/uksi/2023/1144/regulation/11/2/c)
+
+[^key-bb51658a934394251a9f46286a52d09b]: Textual amendment: Word in [reg. 23A(1)(g)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/1/g) omitted (E.W.) (18.7.2025) by virtue of [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2025/884/regulation/14/2/a)
+
+[^key-20f1b0a79ded51edd371f9a2dc976eef]: Textual amendment: [Reg. 23A(1)(h)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/1/h): semicolon substituted for full stop (E.W.) (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [14(2)(b)](https://www.legislation.gov.uk/uksi/2025/884/regulation/14/2/b)
+
+[^key-97b5aa5d48f96fbf15c9adbcf37ce1d1]: Textual amendment: [Reg. 23A(1)(i)(j)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/1/i/j) inserted (E.W.) (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [14(2)(c)](https://www.legislation.gov.uk/uksi/2025/884/regulation/14/2/c)
+
+[^key-3d063ac62f3ac5bc38de039912201154]: Textual amendment: [Reg. 23A(k)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/k)[(l)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/l) inserted (S.) (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2026/139/regulation/5/3/a)
+
+[^key-71c7707dfea15f0aa45fd8c8b2ee4ec4]: Textual amendment: [Reg. 23A(1A)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/1A) inserted (E.W.) (15.9.2021) by [The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2021 (S.I. 2021/1034)](https://www.legislation.gov.uk/uksi/2021/1034), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/1/1), [4(8)](https://www.legislation.gov.uk/uksi/2021/1034/regulation/4/8); and (S.) (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [2(9)](https://www.legislation.gov.uk/ssi/2021/320/regulation/2/9)
+
+[^key-74f774f7df6498fc36d48dcea6149e53]: Textual amendment: Words in [reg. 23A(1A)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/1A) substituted (E.W.) (22.3.2022) by [The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2022 (S.I. 2022/344)](https://www.legislation.gov.uk/uksi/2022/344), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2022/344/regulation/5/3); and (S.) (22.3.2022 at 5.40 p.m.) [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/ssi/2022/108/regulation/3/2/c)
+
+[^key-ce1be55e1770c3ac60e266a7cbd55cc2]: Textual amendment: [Reg. 23A(1B)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/1B) inserted (E.W.) (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2025/884/regulation/14/3)
+
+[^key-b161157e0df8b2bd6d6ffe3a0b9111bc]: Textual amendment: [Reg. 23A(1C)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/1C) inserted (S.) (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2026/139/regulation/5/3/b)
+
+[^key-8877f6883b5ae6ff2bea99e063ea9e7c]: Textual amendment: [Reg. 23A(2)](https://www.legislation.gov.uk/uksi/2013/377/regulation/23A/2) substituted (S.) (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2021/320/regulation/2/4)[(5)(d)](https://www.legislation.gov.uk/ssi/2021/320/regulation/2/5/d)
+
+[^c2203172]: Commencement: Reg. 24 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^key-fbc555a40e098b81518ac0962c5aca22]: Textual amendment: Sum in [Reg. 24(1)(a)](https://www.legislation.gov.uk/uksi/2013/377/regulation/24/1/a) substituted (E.W) (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [15(a)](https://www.legislation.gov.uk/uksi/2026/148/article/15/a); (S.) (6.4.2026) by [The Social Security Up-rating (Scotland) Order 2026 (S.S.I. 2026/171)](https://www.legislation.gov.uk/ssi/2026/171), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2026/171/article/1/3), [8(a)(i)](https://www.legislation.gov.uk/ssi/2026/171/article/8/a/i)
+
+[^key-d534fd6a3f8cd8f0522df33ec40f4efc]: Textual amendment: Sum in [Reg. 24(1)(b)](https://www.legislation.gov.uk/uksi/2013/377/regulation/24/1/b) substituted (E.W.) (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [15(b)](https://www.legislation.gov.uk/uksi/2026/148/article/15/b); (S.) (6.4.2026) by [The Social Security Up-rating (Scotland) Order 2026 (S.S.I. 2026/171)](https://www.legislation.gov.uk/ssi/2026/171), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2026/171/article/1/3), [8(a)(ii)](https://www.legislation.gov.uk/ssi/2026/171/article/8/a/ii)
+
+[^key-69f5ac6613c48d63cc98073be152c178]: Textual amendment: Sum in [Reg. 24(2)(a)](https://www.legislation.gov.uk/uksi/2013/377/regulation/24/2/a) substituted (E.W.) (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [15(c)](https://www.legislation.gov.uk/uksi/2026/148/article/15/c); (S.) (6.4.2026) by [The Social Security Up-rating (Scotland) Order 2026 (S.S.I. 2026/171)](https://www.legislation.gov.uk/ssi/2026/171), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2026/171/article/1/3), [8(b)(i)](https://www.legislation.gov.uk/ssi/2026/171/article/8/b/i)
+
+[^key-2c9bb28ce458d03bce435038260c482f]: Textual amendment: Sum in [Reg. 24(2)(b)](https://www.legislation.gov.uk/uksi/2013/377/regulation/24/2/b) substituted (E.W.) (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [15(d)](https://www.legislation.gov.uk/uksi/2026/148/article/15/d); (S.) (6.4.2026) by [The Social Security Up-rating (Scotland) Order 2026 (S.S.I. 2026/171)](https://www.legislation.gov.uk/ssi/2026/171), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2026/171/article/1/3), [8(b)(ii)](https://www.legislation.gov.uk/ssi/2026/171/article/8/b/ii)
+
+[^c2203173]: Commencement: Reg. 25 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^c2203174]: Commencement: Reg. 26 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^key-76013beb087ce252f160676bfcce7c45]: Textual amendment: Words in [reg. 26(2)(c)(i)](https://www.legislation.gov.uk/uksi/2013/377/regulation/26/2/c/i) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [14(7)](https://www.legislation.gov.uk/uksi/2022/177/article/14/7)
+
+[^key-f42351f1390194e845505cd7b3e216e0]: Textual amendment: Words in [reg. 26(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/377/regulation/26/2/c/ii) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [14(7)](https://www.legislation.gov.uk/uksi/2022/177/article/14/7)
+
+[^key-2f32085da135db7e485173065f9e180f]: Textual amendment: Words in [reg. 26(2)(d)](https://www.legislation.gov.uk/uksi/2013/377/regulation/26/2/d) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [14(7)](https://www.legislation.gov.uk/uksi/2022/177/article/14/7)
+
+[^key-fd33c704230f5c11842fb29f562760f1]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/2013/377/regulation/26A) inserted (E.W.) (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2025/227/article/4/6)
+
+[^c2203175]: Commencement: Reg. 27 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^key-cf1725cdb78b7514ce534b64a45cdf8a]: Textual amendment: Reg. 27(2) substituted (S.) (30.11.2020) by [The Social Security (Personal Independence Payment) Amendment (Scotland) Regulations 2020 (S.S.I. 2020/340)](https://www.legislation.gov.uk/ssi/2020/340), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/340/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/340/regulation/2/2)
+
+[^M_F_035ae43d-c191-455a-cbe4-423bc28b28bb]: Textual amendment: Reg. 27(2) substituted (E.W.) (30.11.2020) by [The Social Security (Personal Independence Payment) (Amendment) Regulations 2020 (S.I. 2020/1235)](https://www.legislation.gov.uk/uksi/2020/1235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1235/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1235/regulation/2/2)
+
+[^key-81be76fa3326f2d9ecf5d2197658eaba]: Textual amendment: Reg. 27(2A) inserted (E.W.) (30.11.2020) by [The Social Security (Personal Independence Payment) (Amendment) Regulations 2020 (S.I. 2020/1235)](https://www.legislation.gov.uk/uksi/2020/1235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1235/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1235/regulation/2/3)
+
+[^key-df7ca1ea07a955196ce85e6386304c75]: Textual amendment: Reg. 27(2A) inserted (S.) (30.11.2020) by [The Social Security (Personal Independence Payment) Amendment (Scotland) Regulations 2020 (S.S.I. 2020/340)](https://www.legislation.gov.uk/ssi/2020/340), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/340/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/340/regulation/2/3)
+
+[^c2203176]: Commencement: Reg. 28 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^c2166032]: Textual amendment: [1948 c.29](https://www.legislation.gov.uk/ukpga/1948/29).
+
+[^c2166033]: Textual amendment: [1968 c.49](https://www.legislation.gov.uk/ukpga/1968/49). Section 59 was amended by the [National Health Service and Community Care Act 1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19), [Schedule 9](https://www.legislation.gov.uk/ukpga/1990/19/schedule/9), [paragraph 10(7)](https://www.legislation.gov.uk/ukpga/1990/19/paragraph/10/7); the [Regulation of Care (Scotland) Act 2001 (asp 8)](https://www.legislation.gov.uk/asp/2001/8), [Part 6](https://www.legislation.gov.uk/asp/2001/8/part/6), [section 72(c)](https://www.legislation.gov.uk/asp/2001/8/section/72/c); the [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [section 25(4)](https://www.legislation.gov.uk/asp/2003/13/section/25/4) and Schedule 4, paragraph 1(6) and the [Children (Scotland) Act 1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36), [Schedule 4](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4), [paragraph 15(15)](https://www.legislation.gov.uk/ukpga/1995/36/paragraph/15/15). Section 59A was inserted by the [Children Act 1975 (c.72)](https://www.legislation.gov.uk/ukpga/1975/72), [section 72](https://www.legislation.gov.uk/ukpga/1975/72/section/72) and amended by the [Health and Social Services and Social Security Adjudications Act 1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41), [section 30](https://www.legislation.gov.uk/ukpga/1983/41/section/30) and Schedule 10, Part 1.
+
+[^c2166034]: Textual amendment: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20).
+
+[^c2166035]: Textual amendment: [2002 asp 5](https://www.legislation.gov.uk/asp/2002/5).
+
+[^c2166036]: Textual amendment: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13).
+
+[^key-366fd50e634b99f72946a6ae16790afc]: Textual amendment: Word in reg. 28(2)(e) omitted (1.11.2013) by virtue of [The Community Care, Services for Carers and Childrens Services (Direct Payments) (England) (Amendment) Regulations 2013 (S.I. 2013/2270)](https://www.legislation.gov.uk/uksi/2013/2270), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2270/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2013/2270/regulation/7/a)
+
+[^key-01fbb260ca0da87aef9b6db91019dab2]: Textual amendment: Reg. 28(2)(ee) inserted (1.11.2013) by [The Community Care, Services for Carers and Childrens Services (Direct Payments) (England) (Amendment) Regulations 2013 (S.I. 2013/2270)](https://www.legislation.gov.uk/uksi/2013/2270), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2270/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2013/2270/regulation/7/b)
+
+[^M_F_189027d5-51bf-4e79-f84d-2a8d4674d02d]: Textual amendment: Word in reg. 28(2)(ee) omitted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 40(a)](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/40/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
+
+[^key-6f661444a2d350f7d8f9e5c750643b27]: Textual amendment: Reg. 28(2)(eea) inserted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 40(b)](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/40/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
+
+[^key-7055086ac4d2d79633a3e661ee21ded1]: Textual amendment: Word in reg. 28(2)(eea) omitted (3.11.2017) by virtue of [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [16(a)](https://www.legislation.gov.uk/uksi/2017/901/article/16/a)
+
+[^key-34e1909162e88c38e458c78861dae379]: Textual amendment: Reg. 28(2)(eeb) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [16(b)](https://www.legislation.gov.uk/uksi/2017/901/article/16/b)
+
+[^c2166037]: Textual amendment: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Section 485 was amended by the [Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) (‘the Integration of Functions Order’), Schedule 2, paragraph 7(1) and (3).
+
+[^c2166038]: Textual amendment: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32). Section 14 was amended by the [Children Act 2004 (c.31)](https://www.legislation.gov.uk/ukpga/2004/31) section 59; the [Education Act 2005 (c.18)](https://www.legislation.gov.uk/ukpga/2005/18), [Schedule 14](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14), [paragraph 23](https://www.legislation.gov.uk/ukpga/2005/18/paragraph/23), the Education Act 2011(c.21), section 15 and the Integration of Functions Order, Schedule 2, paragraph 11.
+
+[^c2166039]: Textual amendment: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44). Section 49 was amended by the Self-[Governing Schools etc. (Scotland) Act 1989 (c. 39)](https://www.legislation.gov.uk/ukpga/1989/39), [Schedule 10](https://www.legislation.gov.uk/ukpga/1989/39/schedule/10), [paragraph 8(9)](https://www.legislation.gov.uk/ukpga/1989/39/paragraph/8/9).
+
+[^c2166040]: Textual amendment: Section 73 was amended by the Self-[Governing Schools etc. (Scotland) Act 1989 (c.39)](https://www.legislation.gov.uk/ukpga/1989/39), [section 73](https://www.legislation.gov.uk/ukpga/1989/39/section/73) and by the [Education (Graduate Endowment and Student Support) (Scotland) Act 2001 (asp 6)](https://www.legislation.gov.uk/asp/2001/6), [section 3(2)](https://www.legislation.gov.uk/asp/2001/6/section/3/2). The power of the Secretary of State was transferred to Scottish Ministers by virtue of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), [section 53](https://www.legislation.gov.uk/ukpga/1998/46/section/53) (general transfer of functions).
+
+[^c2166041]: Textual amendment: 1992 (c. 13). Section 65 was amended by the [Disability Discrimination Act 1995 (c. 50)](https://www.legislation.gov.uk/ukpga/1995/50), [section 30(6)](https://www.legislation.gov.uk/ukpga/1995/50/section/30/6), the [Teaching and Higher Education Act 1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), [section 27](https://www.legislation.gov.uk/ukpga/1998/30/section/27), the [Special Educational Needs and Disability Act 2001 (c. 10)](https://www.legislation.gov.uk/ukpga/2001/10) sections 34(1) and 24(6) and Schedule 9 and the Integration of Functions Order, Schedule 2, paragraph 5(1).
+
+[^key-e7d6fe44ac7a3ab1e3e0b8b62cae7306]: Textual amendment: Word in reg. 28(2)(f)(iv) substituted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [36(a)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/36/a)
+
+[^c2166042]: Textual amendment: [2005 asp 6](https://www.legislation.gov.uk/asp/2005/6).
+
+[^c2166043]: Textual amendment: [1998 c.30](https://www.legislation.gov.uk/ukpga/1998/30). Section 22 was amended by the [Learning and Skills Act 2000 (c.21)](https://www.legislation.gov.uk/ukpga/2000/21), [section 146(2)(a)](https://www.legislation.gov.uk/ukpga/2000/21/section/146/2/a) and Schedule 11, paragraph 1; the [Income Tax (Earnings and Pensions) Act 2003 (c.1)](https://www.legislation.gov.uk/ukpga/2003/1), [Schedule 6(2)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/2), [paragraph 236](https://www.legislation.gov.uk/ukpga/2003/1/paragraph/236); the [Finance Act 2003 (c.14)](https://www.legislation.gov.uk/ukpga/2003/14), [section 147(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/147/3); the [Higher Education Act 2004 (c.8)](https://www.legislation.gov.uk/ukpga/2004/8), [sections 42(1)](https://www.legislation.gov.uk/ukpga/2004/8/section/42/1) and 43(2) and Schedule 7, paragraph 1, the [Apprenticeship, Skills, Children and Learning Act 2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22), [section 257(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/257/2) and the [Education Act 2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21), [section 76](https://www.legislation.gov.uk/ukpga/2011/21/section/76).
+
+[^key-0c56d1b01ed502d3c9c12f396a595337]: Textual amendment: Reg. 28(2)(f)(vii) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [36(b)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/36/b)
+
+[^c2166044]: Textual amendment: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^c2166045]: Textual amendment: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36).
+
+[^key-c7f7e426c90ca365bc35c7b613539012]: Textual amendment: Word in reg. 28(3)(a) omitted (3.11.2017) by virtue of [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [16(c)](https://www.legislation.gov.uk/uksi/2017/901/article/16/c)
+
+[^key-f6221eb2f7a8defda7418ce6d3fc1de1]: Textual amendment: Reg. 28(3)(aa) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [16(d)](https://www.legislation.gov.uk/uksi/2017/901/article/16/d)
+
+[^c2166046]: Textual amendment: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Section 320 was amended by the Integration of Functions Order, Schedule 2, paragraph 7(2).
+
+[^c2166047]: Textual amendment: [2004 asp 4](https://www.legislation.gov.uk/asp/2004/4).
+
+[^key-8e6df307fbae4f8fb1a340583ae1b2e5]: Textual amendment: Words in reg. 28(4) substituted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [16(e)](https://www.legislation.gov.uk/uksi/2017/901/article/16/e)
+
+[^c2203177]: Commencement: Reg. 29 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^key-7b11619bc5693882f89a33e9f750e89c]: Textual amendment: Reg. 29 substituted (29.6.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2016/556/regulation/3/a)
+
+[^key-d54c603f0960adec4b2bd4645466cf7a]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2013/377/regulation/29/1) inserted (29.6.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2016/556/regulation/3/b)
+
+[^c2166048]: Textual amendment: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^c2166049]: Textual amendment: [2006 c.42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^c2166050]: Textual amendment: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^key-bc9b67da68defe22951e14a995d07b79]: Textual amendment: [Reg. 29(3)](https://www.legislation.gov.uk/uksi/2013/377/regulation/29/3) added (29.6.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations 2016 (S.I. 2016/556)](https://www.legislation.gov.uk/uksi/2016/556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/556/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2016/556/regulation/3/c)
+
+[^c2203178]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2013/377/regulation/30) coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^c2166051]: Textual amendment: [Section 275](https://www.legislation.gov.uk/uksi/2013/377/section/275) was amended by the [Health and Social Care Act 2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7), [Schedule 4 paragraph 138(1) and (2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/138). There are other amendments not relevant to these Regulations.
+
+[^c2166052]: Textual amendment: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^c2166053]: Textual amendment: [Section 108](https://www.legislation.gov.uk/uksi/2013/377/section/108) was amended by the [Health Services Act 1980 (c.53)](https://www.legislation.gov.uk/ukpga/1980/53), [Schedule 6 paragraph 6(a)](https://www.legislation.gov.uk/ukpga/1980/53/schedule/6/paragraph/6) and the [National Health Service and Community Care Act 1990 (c. 16)](https://www.legislation.gov.uk/ukpga/1990/16), [Schedule 9 paragraph 19(22)(b)](https://www.legislation.gov.uk/ukpga/1990/16/schedule/9/paragraph/19). There are other amendments not relevant to these Regulations.
+
+[^c2166054]: Textual amendment: *See* section 85(4) of the Act for the meaning of ‘qualifying services’.
+
+[^c2166055]: Textual amendment: *See* [section 1(1)](https://www.legislation.gov.uk/uksi/2013/377/section/1/1) of the [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25) for the meaning of ‘charity’ in England and Wales.
+
+[^c2166056]: Textual amendment: [2011 c. 25](https://www.legislation.gov.uk/ukpga/2011/25).
+
+[^c2203179]: Commencement: Reg. 31 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^c2166057]: Textual amendment: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20). Section 45A was inserted by the [Crime (Sentences) Act 1997 (c.43)](https://www.legislation.gov.uk/ukpga/1997/43), [section 46](https://www.legislation.gov.uk/ukpga/1997/43/section/46) and amended by the [Criminal Justice Act 2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), [Schedule 32](https://www.legislation.gov.uk/ukpga/2003/44/schedule/32), [paragraphs 37 to 39](https://www.legislation.gov.uk/ukpga/2003/44/paragraph/37) and Schedule 37, Part 7 and by the [Mental Health Act 2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12), [sections 4(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/4/1) and (6) and 10(1) and (8) and Schedule 1, paragraphs 1 and 9 and Schedule 11, Part 1.
+
+[^c2166058]: Textual amendment: Section 47 was amended by the Crime (Sentences) Act 1997, section 56(2) and Schedule 6; the [Domestic Violence, Crime and Victims Act 2004 (c.28)](https://www.legislation.gov.uk/ukpga/2004/28), [Schedule 10](https://www.legislation.gov.uk/ukpga/2004/28/schedule/10), [paragraph 18](https://www.legislation.gov.uk/ukpga/2004/28/paragraph/18); the [Armed Forces Act 2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52), [Schedule 16](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16), [paragraph 97(1)](https://www.legislation.gov.uk/ukpga/2006/52/paragraph/97/1) and (2)(a) and the Mental Health Act 2007, section 4(7) and Schedule 1, paragraphs 1 and 10 and Schedule 11, Part 1.
+
+[^c2166059]: Textual amendment: Section 50(3) was substituted by the Criminal Justice Act 2003, section 294(3).
+
+[^c2166060]: Textual amendment: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46), [section 59A](https://www.legislation.gov.uk/ukpga/1995/46/section/59A) was substituted by the [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [Schedule 4](https://www.legislation.gov.uk/asp/2003/13/schedule/4), [paragraph 8(6)](https://www.legislation.gov.uk/asp/2003/13/paragraph/8/6).
+
+[^c2166061]: Textual amendment: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13).
+
+[^c2203180]: Commencement: Reg. 32 coming into force in accordance with reg. 1(2) and [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358)
+
+[^key-c04bad336d300f7be2bcf0faaabff341]: Textual amendment: Words in Sch. 1 para. 1 omitted (16.3.2017) by virtue of [The Social Security (Personal Independence Payment) (Amendment) Regulations 2017 (S.I. 2017/194)](https://www.legislation.gov.uk/uksi/2017/194), [regs. 1](https://www.legislation.gov.uk/uksi/2017/194/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/194/regulation/2/2/a)
+
+[^key-1417ce044eb2dcaed95939eaa88b8760]: Textual amendment: Words in Sch. 1 para. 1 omitted (16.3.2017) by virtue of [The Social Security (Personal Independence Payment) (Amendment) Regulations 2017 (S.I. 2017/194)](https://www.legislation.gov.uk/uksi/2017/194), [regs. 1](https://www.legislation.gov.uk/uksi/2017/194/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/194/regulation/2/2/b)
+
+[^key-3b9a629d7d6c86c2e7d34392614843ec]: Textual amendment: Words in Sch. 1 para. 1 inserted (16.3.2017) by [The Social Security (Personal Independence Payment) (Amendment) Regulations 2017 (S.I. 2017/194)](https://www.legislation.gov.uk/uksi/2017/194), [regs. 1](https://www.legislation.gov.uk/uksi/2017/194/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2017/194/regulation/2/2/c)
+
+[^key-6db6d1936076eb3a062dcab4dc702342]: Textual amendment: Words in Sch. 1 para. 1 substituted (16.3.2017) by [The Social Security (Personal Independence Payment) (Amendment) Regulations 2017 (S.I. 2017/194)](https://www.legislation.gov.uk/uksi/2017/194), [regs. 1](https://www.legislation.gov.uk/uksi/2017/194/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2017/194/regulation/2/2/d)
+
+[^key-dd5bbf38184f0a8bbed8b75c572f13f8]: Textual amendment: Word in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2013/377/schedule/1/paragraph/1) omitted (13.12.2024) by virtue of [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 20(a)(i)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/20/a/i)
+
+[^key-40e5d4c6bc624b09f2758ac2e61f0544]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2013/377/schedule/1/paragraph/1) inserted (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 20(a)(ii)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/20/a/ii)
+
+[^key-4e402ee81dac832f008f7b15dfd1a7ad]: Textual amendment: Word in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2013/377/schedule/1/paragraph/1) omitted (13.12.2024) by virtue of [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 20(b)(i)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/20/b/i)
+
+[^key-608fe75bb51f751701565e67ad47de10]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2013/377/schedule/1/paragraph/1) inserted (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 20(b)(ii)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/20/b/ii)
+
+[^key-ab7d3763a887c099c37a5cf023cbf3c0]: Textual amendment: Words in Sch. 1 para. 1 inserted (16.3.2017) by [The Social Security (Personal Independence Payment) (Amendment) Regulations 2017 (S.I. 2017/194)](https://www.legislation.gov.uk/uksi/2017/194), [regs. 1](https://www.legislation.gov.uk/uksi/2017/194/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2017/194/regulation/2/2/e)
+
+[^key-9ee3d0a67de77f0d8f844154c5413d9e]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2013/377/schedule/1/part/2) substituted (16.3.2017) by [The Social Security (Personal Independence Payment) (Amendment) Regulations 2017 (S.I. 2017/194)](https://www.legislation.gov.uk/uksi/2017/194), [regs. 1](https://www.legislation.gov.uk/uksi/2017/194/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2017/194/regulation/2/3/a)
+
+[^key-c12fe3c0cb314724edf7d9fcce764352]: Textual amendment: Word in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2013/377/schedule/1/part/2) omitted (16.3.2017) by virtue of [The Social Security (Personal Independence Payment) (Amendment) Regulations 2017 (S.I. 2017/194)](https://www.legislation.gov.uk/uksi/2017/194), [regs. 1](https://www.legislation.gov.uk/uksi/2017/194/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2017/194/regulation/2/3/b)
+
+[^key-62395823e31bd3d60dc7a41e4bdaeb3d]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2013/377/schedule/1/part/2) omitted (16.3.2017) by virtue of [The Social Security (Personal Independence Payment) (Amendment) Regulations 2017 (S.I. 2017/194)](https://www.legislation.gov.uk/uksi/2017/194), [regs. 1](https://www.legislation.gov.uk/uksi/2017/194/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2017/194/regulation/2/3/c)
+
+[^key-f408bd6b6a4c900ba72b8663b10b5a76]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2013/377/schedule/1/part/2) inserted (16.3.2017) by [The Social Security (Personal Independence Payment) (Amendment) Regulations 2017 (S.I. 2017/194)](https://www.legislation.gov.uk/uksi/2017/194), [regs. 1](https://www.legislation.gov.uk/uksi/2017/194/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2017/194/regulation/2/3/d)
+
+[^c2166062]: Textual amendment: [1965 c.51](https://www.legislation.gov.uk/ukpga/1965/51). Part 1 of this Act was repealed with savings by the [Social Security Act 1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38), [section 100(1)](https://www.legislation.gov.uk/ukpga/1973/38/section/100/1) and (2)(b) and Schedules 26 and 28 and by the [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), [Schedules 1](https://www.legislation.gov.uk/ukpga/1992/6/schedule/1) and 3.
+
+[^c2166063]: Textual amendment: [1975 c.14](https://www.legislation.gov.uk/ukpga/1975/14). Section 1(2) lists the Classes of contributions. This Act was repealed by the Social Security (Consequential Provisions) Act 1992, Schedule 1.
+
+[^c2166064]: Textual amendment: [Section 1(2)](https://www.legislation.gov.uk/uksi/2013/377/section/1/2) lists the Classes of contributions.

@@ -1,0 +1,35 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 779
+act: Income Tax (Trading and Other Income) Act 2005
+section: '779'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/779
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 779
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 779. Gains on commodity and financial futures
+
+*Extent: E+W+S+N.I.*
+
+(1) No liability to income tax arises as a result of Chapter 8 of Part 5 (income not otherwise charged) in respect of a gain arising to a person in the course of dealing in—
+
+- (a) commodity or financial futures,
+- (b) traded options, or
+- (c) financial options.
+
+(2) The reference in subsection (1) to a gain arising in the course of dealing in commodity or financial futures includes a gain regarded as so arising under section 143(3) of TCGA 1992 (gains arising from transactions otherwise than in the course of dealing on a recognised futures exchange, involving authorised persons).
+
+(3) In this section—
+
+- “**commodity or financial futures**” means commodity futures or financial futures that are for the time being dealt in on a recognised futures exchange,
+- “**financial option**” has the meaning given by section 144(8)(c) of TCGA 1992, and
+- “**traded option**” has the meaning given by section 144(8)(b) of that Act.

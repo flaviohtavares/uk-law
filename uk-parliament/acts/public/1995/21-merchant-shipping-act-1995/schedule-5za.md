@@ -1,0 +1,49 @@
+---
+title: Merchant Shipping Act 1995, SCHEDULE 5ZA
+act: Merchant Shipping Act 1995
+section: schedule-5za
+status: revised-with-pending-changes
+text_date: '2026-06-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1995/21/schedule/5za
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Merchant Shipping Act 1995, SCHEDULE 5ZA
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2026-06-23. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/21
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## SCHEDULE 5ZA — SUPPLEMENTARY FUND LIABILITY[^key-9bcee02686d74d020f14257a125ffcdf]
+
+*Extent: E+W+S+N.I.*
+
+### Article 4—paragraphs 1, 2 and 3
+
+**1.** The Supplementary Fund shall pay compensation to any person suffering pollution damage if such person has been unable to obtain full and adequate compensation for an established claim for such damage under the terms of the 1992 Fund Convention, because the total damage exceeds, or there is a risk that it will exceed, the applicable limit of compensation laid down in article 4, paragraph 4, of the 1992 Fund Convention in respect of any one incident.
+
+**2.**
+
+- (a) The aggregate amount of compensation payable by the Supplementary Fund under this article shall in respect of any one incident be limited, so that the total sum of that amount together with the amount of compensation actually paid under the 1992 Liability Convention and the 1992 Fund Convention within the scope of application of this Protocol shall not exceed 750 million units of account.
+
+(b) The amount of 750 million units of account mentioned in paragraph 2(a) shall be converted into national currency on the basis of the value of that currency by reference to the Special Drawing Right on the date determined by the Assembly of the 1992 Fund for conversion of the maximum amount payable under the 1992 Liability and 1992 Fund Conventions.
+
+**3.** Where the amount of established claims against the Supplementary Fund exceeds the aggregate amount of compensation payable under paragraph 2, the amount available shall be distributed in such a manner that the proportion between any established claim and the amount of compensation actually recovered by the claimant under this Protocol shall be the same for all claimants.
+
+### Article 13—paragraph 1
+
+**1.** Contracting States shall communicate to the Director of the Supplementary Fund information on oil receipts in accordance with article 15 of the 1992 Fund Convention provided, however, that communications made to the Director of the 1992 Fund under article 15, paragraph 2, of the 1992 Fund Convention shall be deemed to have been made also under this Protocol.
+
+### Article 15—paragraphs 1, 2 and 3
+
+**1.** If in a Contracting State there is no person meeting the conditions of article 10, that Contracting State shall for the purposes of this Protocol inform the Director of the Supplementary Fund thereof.
+
+**2.** No compensation shall be paid by the Supplementary Fund for pollution damage in the territory, territorial sea or exclusive economic zone or area determined in accordance with article 3(a)(ii), of this Protocol, of a Contracting State in respect of a given incident or for preventive measures, wherever taken, to prevent or minimize such damage, until the obligations to communicate to the Director of the Supplementary Fund according to article 13, paragraph 1 and paragraph 1 of this article have been complied with in respect of that Contracting State for all years prior to the occurrence of that incident. The Assembly shall determine in the Internal Regulations the circumstances under which a Contracting State shall be considered as having failed to comply with its obligations.
+
+**3.** Where compensation has been denied temporarily in accordance with paragraph 2, compensation shall be denied permanently in respect of that incident if the obligations to communicate to the Director of the Supplementary Fund under article 13, paragraph 1 and paragraph 1 of this article, have not been complied with within one year after the Director of the Supplementary Fund has notified the Contracting State of its failure to report.
+
+## Annotations
+
+[^key-9bcee02686d74d020f14257a125ffcdf]: Textual amendment: [Sch. 5ZA](https://www.legislation.gov.uk/ukpga/1995/21/schedule/5ZA) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [12](https://www.legislation.gov.uk/uksi/2006/1265/article/12), [Sch.](https://www.legislation.gov.uk/uksi/2006/1265/schedule)

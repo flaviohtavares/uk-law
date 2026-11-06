@@ -1,0 +1,23 @@
+---
+title: Lands Clauses Consolidation (Scotland) Act 1845, section 95
+act: Lands Clauses Consolidation (Scotland) Act 1845
+section: '95'
+status: revised
+text_date: '2017-04-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/Vict/8-9/19/section/95
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Lands Clauses Consolidation (Scotland) Act 1845, section 95
+
+> Text as at 2017-04-11.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 95. Committee to agree with promoters of the undertaking.
+
+*Extent: E+W+S+N.I.*
+
+It shall be lawful for the committee so chosen to enter into an agreement with the promoters of the undertaking for the compensation to be paid for the extinction of such rights, and all matters relating thereto, for and on behalf of themselves and all other parties interested therein, and all such parties shall be bound by such agreement; and it shall be lawful for such committee to receive the compensation so agreed to be paid, and the receipt of such committee, or of any three of them, for such compensation shall be an effectual discharge for the same; and such compensation, when received, shall be apportioned by the committee among the several persons interested therein, according to their respective interests, but the promoters of the undertaking shall not be bound to see to the apportionment or to the application of such compensation, nor shall they be liable for the misapplication or nonapplication thereof.

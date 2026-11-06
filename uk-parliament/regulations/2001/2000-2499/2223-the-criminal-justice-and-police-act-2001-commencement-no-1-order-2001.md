@@ -1,0 +1,116 @@
+---
+title: The Criminal Justice and Police Act 2001 (Commencement No. 1) Order 2001
+id: uksi/2001/2223
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2001-06-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2001/2223
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/2223/pdfs/uksi_20012223_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/2223/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Criminal Justice and Police Act 2001 (Commencement No. 1) Order 2001
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2001 No. 2223 (C.74)
+
+CRIMINAL LAW
+
+POLICE
+
+The Criminal Justice and Police Act 2001 (Commencement No. 1) Order 2001
+
+Made
+
+18th June 2001
+
+In exercise of the powers conferred upon him by section 138(2) of the Criminal Justice and Police Act 2001[^f00001], the Secretary of State hereby makes the following Order:
+
+**1.** (1) This Order may be cited as the Criminal Justice and Police Act 2001 (Commencement No. 1) Order 2001.
+
+(2) In this Order, “the 2001 Act” means the Criminal Justice and Police Act 2001.
+
+**2.** (1) The following provisions of the 2001 Act shall come into force on the day after this Order is made—
+
+- (a) sections 76 and 77 (codes of practice);
+- (b) sections 104 to 106, except in so far as they amend the Police Act 1997[^f00002] (vice-chairmen, political balance and removal of age qualification for membership of police authorities);
+- (c) section 134 (criminal records);
+- (d) section 135 (ministerial expenditure);
+- (e) section 136 (interpretation);
+- (f) section 137 (repeals) in so far as it relates to the entries in Schedule 7 referred to in paragraphs (g) and (h) below;
+- (g) in Schedule 7 Part 2, the entries relating to:
+  - (i) section 64(4) of the Police and Criminal Evidence Act 1984[^f00003];
+  - (ii) article 64(4) of the Police and Criminal Evidence (Northern Ireland) Order 1989[^f00004];
+- (h) in Schedule 7 Part 4, the entries relating to:
+  - (i) paragraphs 10 and 16 of Schedule 2 and Schedule 3 to the Police Act 1996[^f00005];
+  - (ii) the Greater London Authority Act 1999[^f00006].
+
+(2) The following provisions of the 2001 Act shall come into force on the day after this Order is made for the purpose of making regulations or orders—
+
+- (a) section 13 (alcohol consumption in designated public places);
+- (b) section 37 (travel restriction orders); and
+- (c) section 45 (addresses of directors and secretaries of companies).
+
+**3.** The following provisions of the 2001 Act shall come into force on 1st August 2001—
+
+- (a) sections 39 to 41 (intimidating, harming and threatening witnesses);
+- (b) section 44 (collective harassment);
+- (c) sections 48 and 49 (child curfews);
+- (d) section 75 (use of video links for proceedings about Terrorism Act detention);
+- (e) section 86 (execution of process in other domestic jurisdictions);
+- (f) sections 110 and 111 (budget statement and funding of NCIS Service Authority);
+- (g) sections 113 and 114 (budget statement and funding of NCS Service Authority);
+- (h) section 128 (amendments relating to NCIS and NCS) in so far as it relates to paragraphs 3 and 12 of Schedule 6;
+- (i) section 129 (reasons for granting or continuing bail);
+- (j) section 137 (repeals) in so far as it relates to the entries in Schedule 7 referred to in sub-paragraphs (l) and (m) below;
+- (k) paragraphs 3 and 12 of Schedule 6;
+- (l) in Schedule 7 Part 5,
+  - (i) the entries relating to sections 32(6A) and 43(5A) of the Local Government Finance Act 1992[^f00007];
+  - (ii) the entries relating to sections 2(6), 18, 48(7), 63, 137(2)(d) of and Schedules 3 and 5 to the Police Act 1997;
+  - (iii) the entries relating to section 86(3) and paragraphs 110, 111, 114 and 115 of Schedule 27 to the Greater London Authority Act 1999; and
+- (m) in Schedule 7 Part 6, the entry relating to the Bail Act 1976[^f00008].
+
+**4.** The following provisions of the 2001 Act shall come into force on 1st September 2001—
+
+- (a) sections 12 to 16 (alcohol consumption in designated public places);
+- (b) section 29 (confiscation of alcohol containers from young persons);
+- (c) sections 46 and 47 (advertisements relating to prostitution).
+
+John Denham
+
+Minister of State
+
+Home Office
+
+18th June 2001
+
+(This note is not part of the Order)
+
+This Order brings into force on 19th June 2001 the provisions of the Criminal Justice and Police Act 2001 specified in article 2(1) to the extent specified and for the purposes of regulation and order making powers the provisions specified in article 2(2). The provisions in article 3 are brought into force on 1st August 2001. The provisions in article 4 are brought into force on 1st September 2001.
+
+## Annotations
+
+[^f00001]: Footnote: [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16).
+
+[^f00002]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
+
+[^f00003]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
+
+[^f00004]: Footnote: S.I. [1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341).
+
+[^f00005]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
+
+[^f00006]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
+
+[^f00007]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
+
+[^f00008]: Footnote: [1976 c. 63](https://www.legislation.gov.uk/ukpga/1976/63).

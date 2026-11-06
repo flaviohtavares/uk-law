@@ -1,0 +1,282 @@
+---
+title: The Local Audit (Auditor Panel) Regulations 2014
+id: uksi/2014/3224
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-12-05'
+text_date: '2026-10-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2014/3224
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/3224/pdfs/uksiem_20143224_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/3224/pdfs/uksi_20143224_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/3224/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Audit (Auditor Panel) Regulations 2014
+
+> Text as at 2026-10-05.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2014 No. 3224
+
+Local Government, England And Wales
+
+The Local Audit (Auditor Panel) Regulations 2014
+
+Made
+
+5th December 2014
+
+Laid before Parliament
+
+10th December 2014
+
+Coming into force
+
+1st April 2015
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 10(8) of, and paragraphs 4 and 5(1)(b) of Schedule 4 to, the Local Audit and Accountability Act 2014[^f00001]:
+
+## 1. Citation, commencement, interpretation and application[^key-9c3dd98634353069eec11d08b95a4472]
+
+(1) These Regulations may be cited as the Local Audit (Auditor Panel) Regulations 2014 and come into force on 1st April 2015.
+
+(2) In these Regulations—
+
+- “the Act” means the Local Audit and Accountability Act 2014;
+- “the 1972 Act” means the Local Government Act 1972[^f00002];
+- “the 1989 Act” means the Local Government and Housing Act 1989[^f00003].
+
+(3) These Regulations apply to relevant authorities other than health service bodies[^f00004].
+
+## 2. Members of auditor panels[^key-7de924fd11f8b7eed3b0e88d6b1a5622]
+
+(1) An auditor panel of a relevant authority must have three or more members.
+
+(2) A person may only be appointed as an independent member of an auditor panel if—
+
+- (a) the vacancy for an independent member has been advertised by the relevant authority in such manner as it considers is likely to bring the vacancy to the attention of the public; and
+- (b) the person submitted an application to fill the vacancy to the relevant authority.
+
+(3) If the relevant authority is a local authority operating executive arrangements[^f00005], the function of appointing members of an auditor panel is not the responsibility of an executive of the authority under those arrangements.
+
+(4) If the relevant authority is a local authority within the meaning of section 101 of the 1972 Act (arrangements for discharge of functions), that section does not apply to the authority’s function of appointing members of an auditor panel.
+
+(5) If the relevant authority is the Greater London Authority, the function of appointing members of an auditor panel to fill casual vacancies must be exercised by the Mayor of London and the London Assembly acting jointly on behalf of the Authority.
+
+(6) If the relevant authority is a parish meeting, the function of appointing members of an auditor panel to fill casual vacancies must be exercised by the parish meeting itself (and not by its chairman on behalf of the parish meeting).
+
+## 3. Term of office of panel members[^key-2c121f880711d03f7b3f9270ba22e97b]
+
+The term of office of a member of an auditor panel is to be determined by the relevant authority which appoints that panel member.
+
+## 4. Removal of panel members on disqualification[^key-3449d4fbc4e073fc353fb60a3894a226]
+
+Where a member of an auditor panel, or its chair, becomes disqualified from being a member of an auditor panel by virtue of regulation 8, the relevant authority which appointed that member must—
+
+- (a) remove the disqualified member or chair from the auditor panel where that member has not already resigned or agreed to resign; and
+- (b) appoint a person to fill the vacancy.
+
+## 5. Allowances of panel members[^key-442e40f795668a4f4343e41d506239ff]
+
+A relevant authority may pay the members of its auditor panel such allowances as the authority may determine.
+
+## 6. Proceedings and validity of proceedings of auditor panels[^key-c4158d3674b0420c02f23694b2203549]
+
+(1) Subject to paragraph (2), an auditor panel may determine its own proceedings[^f00006].
+
+(2) In relation to any meeting of an auditor panel—
+
+- (a) the quorum is three, and
+- (b) the proceedings of the panel are valid if the majority of members present at the meeting are independent members of the panel.
+
+## 7. Functions of auditor panels: further details[^key-be67b6d2329a7d45455fa742397423ec]
+
+(1) In complying with its duties under section 10(1) to (3) of the Act a relevant authority’s auditor panel must advise the authority on—
+
+- (a) whether to adopt a policy on the purchasing, from the authority’s local auditor, of non-audit services;
+- (b) if the authority proposes to adopt such a policy, on its contents, including—
+  - (i) the circumstances in which the authority should ask the auditor panel for advice in connection with the purchasing of non-audit services; and
+  - (ii) the circumstances in which the authority should or should not purchase non-audit services from the authority’s local auditor.
+
+(2) In this regulation “non-audit services” in relation to a relevant authority means services provided by the authority’s local auditor to the authority other than in the exercise of the functions of the local auditor under the Act[^f00007].
+
+## 8. Application of local authority enactments to auditor panels: disqualification[^key-1ffc81c5acdd138320700fbd6e6993a4]
+
+(1) This regulation applies where a relevant authority to which this regulation applies has an auditor panel which is—
+
+- (a) a panel appointed as an auditor panel by the authority,
+- (b) a panel appointed as an auditor panel by the authority and one or more other relevant authorities, or
+- (c) a committee of the authority.
+
+(2) Section 104(1) of the 1972 Act[^f00008] (disqualification for membership of committees) applies in relation to an auditor panel within paragraph (1)(a) or (c) as if a member of that panel other than an independent member were a member of a committee of the authority.
+
+(3) Section 104(1) of the 1972 Act applies in relation to an auditor panel within paragraph (1)(b) as if a member of that panel appointed by the authority other than as an independent member were a representative of the authority on a joint committee of the authority and another local authority within the meaning of that section.
+
+(4) The relevant authorities to which this regulation applies are—
+
+- (a) county councils in England;
+- (b) district councils;
+- (c) London borough councils;
+- (d) parish councils;
+- (e)[^key-cbc668cd446a4d32b7e8a286668e6418] joint authorities under Part 4 of the Local Government Act 1985;
+- (f)[^key-c6fc3b3c28db018a3660163620e026fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) the London Waste and Recycling Board;
+- (h) the Common Council;
+- (i) the Council of the Isles of Scilly;
+- (j) port health authorities in England;
+- (k) the Broads Authority;
+- (l) National Park authorities in England;
+- (m) conservation boards;
+- (n) joint waste authorities;
+- (o) internal drainage boards in England;
+- (p) economic prosperity boards; [^key-73061dfe9ed65bdb014913c41f429b05]...
+- (q) combined authorities , and[^key-f9e6d413ab29d378df69d9ab8f6c33f7]
+- (r) combined county authorities.
+
+## 9. Application of local authority enactments to auditor panels: access to meetings and documents[^key-63080525d1f120bb57bb8a0653ed5fdb]
+
+(1) This regulation applies to an auditor panel of a relevant authority which is—
+
+- (a) a panel appointed as an auditor panel by the authority,
+- (b) a panel appointed as an auditor panel by the authority and one or more other relevant authorities, or
+- (c) a committee of the authority.
+
+(2) Section 100A of the 1972 Act[^f00009] (as applied by section 100E(1) of that Act), and section 100I(1) of, and Parts 1 to 3 of Schedule 12A to, that Act apply to an auditor panel to which this regulation applies as if—
+
+- (a) the panel were a committee of a principal council;
+- (b) references to a resolution of a committee of a principal council were references to a written decision of the auditor panel;
+- (c) references to the resolution being passed were references to the decision being made;
+- (d) section 100A(6)(a) imposed a duty to make arrangements for notice of the time and place of a meeting of the panel to be displayed at the principal office of each authority for which the panel is the auditor panel at least five clear days before the meeting or, if the meeting is convened at shorter notice, at the time it is convened; and
+- (e) paragraph 11(2)(b) of Schedule 12A included within the definition of “the authority” for the purposes of that Schedule any relevant authority for which the panel is the auditor panel and any other committee or sub-committee of such an authority.
+
+(3) Section 100B of the 1972 Act, as applied by section 100E(1) of that Act, applies to copies of the agenda and reports for a meeting of an auditor panel to which this regulation applies as if—
+
+- (a) the panel were a committee of a principal council;
+- (b) subsection (1) of section 100B imposed a duty to make arrangement for copies of the agenda for a meeting of the panel and, subject to subsection (2) of that section, any report for the meeting to be open to inspection by members of the public in accordance with subsection (3) of that section at the principal office of each authority for which the panel is the auditor panel; and
+- (c) references to the proper officer, and to the chairman of the meeting, were references to the chair of the panel.
+
+(4) In this regulation “principal council” has the same meaning as in the 1972 Act[^f00010].
+
+## 10. Application of local authority enactments to auditor panels: political balance[^key-8f9529ae118a66c70dbeba219abc87a3]
+
+(1) This regulation applies to a political balance authority which appoints three or more members of the authority to be members of an auditor panel.
+
+(2) In relation to a political balance authority to which this regulation applies whose auditor panel is—
+
+- (a) appointed as an auditor panel by that authority, or
+- (b) a committee of the authority to which paragraph 1(2) of Schedule 4 to the Act applies,
+
+the political balance enactments apply to the auditor panel as if the auditor panel were an ordinary committee of the authority.
+
+(3) In relation to a political balance authority to which this regulation applies whose auditor panel is appointed by that authority and one or more other relevant authorities, the political balance enactments apply to the appointments to the auditor panel as if the auditor panel were a body falling within paragraph 2 of Schedule 1 to the 1989 Act[^f00011].
+
+(4)[^key-f940ea7608248f0e97aaa47b46cd39da] In this regulation—
+
+- “ordinary committee” has the same meaning as in Schedule 1 to the 1989 Act[^f00012];
+- “political balance authority” means—
+  - (a) a county council in England;
+  - (b) a district council;
+  - (c) a London borough council;
+  - (d) a joint authority under Part 4 of the Local Government Act 1985;
+  - (e) [^key-f7ea26338e78aa7950fade555eed5aa8]...
+  - (f) a fire and rescue authority in England constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;
+  - (g) an economic prosperity board; [^key-1a1b4849fa101b110b8f6f4b5799b6da]...
+  - (h) a combined authority; , and[^key-481c67e634ad9f59be3a86552f54a351]
+  - ((i)) a combined county authority.
+- “political balance enactments” means—
+  - (a) sections 15 to 17 and 21 of, and Schedule 1 to, the 1989 Act; and
+  - (b) the Local Government (Committees and Political Groups) Regulations 1990[^f00013] so far as applying in relation to the provisions mentioned in paragraph (a).
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Kris Hopkins
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+5th December 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision about auditor panels established under Part 3 of the Local Audit and Accountability Act 2014 (“the 2014 Act”) by relevant authorities (as to which, see Schedule 2 to that Act). Section 9 of, and Schedule 4 to, the 2014 Act contain provisions about establishment of auditor panels, and section 10 sets out the panel’s functions.
+
+Regulations 2 to 6 make provision about the membership of auditor panels, removal of panel members on disqualification, allowances for panel members and proceedings of panel meetings. Regulation 7 contains more detail about a panel’s functions under section 10(1) to (3) of the 2014 Act. Regulations 8 to 10 apply certain enactments relating to local authorities and local authority committees to auditor panels and appointments to such panels, subject to modifications.
+
+An impact assessment of the effect that the Local Audit and Accountability Act 2014, which this instrument helps implement, will have on the costs of business is available from https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/349418/2014\_FINAL\_Local\_Audit\_IA.pdf. No separate assessment was carried out for this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 c.2](https://www.legislation.gov.uk/ukpga/2014/2).
+
+[^key-9c3dd98634353069eec11d08b95a4472]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+
+[^f00002]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^f00003]: Footnote: [1989 c.42](https://www.legislation.gov.uk/ukpga/1989/42).
+
+[^f00004]: Footnote: See section 2 of, and Schedule 2 to, the Local Audit and Accountability Act 2014 (“the 2014 Act”) in relation to relevant authorities and section 3(9) of that Act for the definition of “health service body”.
+
+[^key-7de924fd11f8b7eed3b0e88d6b1a5622]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/3224/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+
+[^f00005]: Footnote: See Part 1A of the Local Government Act [2000 (c.22)](https://www.legislation.gov.uk/ukpga/2000/22), inserted by Schedule 2 to the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20).
+
+[^key-2c121f880711d03f7b3f9270ba22e97b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/3224/regulation/3) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+
+[^key-3449d4fbc4e073fc353fb60a3894a226]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/3224/regulation/4) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+
+[^key-442e40f795668a4f4343e41d506239ff]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/3224/regulation/5) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+
+[^key-c4158d3674b0420c02f23694b2203549]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/3224/regulation/6) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+
+[^f00006]: Footnote: See also paragraph 2(1) of Schedule 4 to the 2014 Act.
+
+[^key-be67b6d2329a7d45455fa742397423ec]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/3224/regulation/7) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+
+[^f00007]: Footnote: See, in particular, Part 5 of the 2014 Act (conduct of local audit).
+
+[^key-1ffc81c5acdd138320700fbd6e6993a4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/3224/regulation/8) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+
+[^f00008]: Footnote: Section 104 is applied, with modifications, by section 104(4) and (5) of the Local Government Act 1972; section 265A of that Act; the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 7, paragraph 13(1) and [S.I. 1978/1844](https://www.legislation.gov.uk/uksi/1978/1844).
+
+[^key-cbc668cd446a4d32b7e8a286668e6418]: Modification: [Reg. 8(4)(e)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/8/4/e) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(z)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/z) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
+
+[^key-c6fc3b3c28db018a3660163620e026fa]: Textual amendment: [Reg. 8(4)(f)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/8/4/f) omitted (1.4.2018) by virtue of [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 17(2)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/17/2)
+
+[^key-73061dfe9ed65bdb014913c41f429b05]: Textual amendment: Word in [reg. 8(4)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/8/4) omitted (17.4.2024) by virtue of [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/418/regulation/3/2/a)
+
+[^key-f9e6d413ab29d378df69d9ab8f6c33f7]: Textual amendment: [Reg. 8(4)(r)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/8/4/r) and word inserted (17.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/418/regulation/3/2/b)
+
+[^key-63080525d1f120bb57bb8a0653ed5fdb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/3224/regulation/9) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+
+[^f00009]: Footnote: Part 5A (sections 100A to 100K and Schedule 12A) of the Local Government Act 1972 was inserted by Schedule 1 to the Local Government (Access to Information) Act [1985 (c.43)](https://www.legislation.gov.uk/ukpga/1985/43). Section 110A was amended by [S.I. 2002/715](https://www.legislation.gov.uk/uksi/2002/715) and [S.I. 2014/2095](https://www.legislation.gov.uk/uksi/2014/2095); section 100B was amended by [S.I. 2002/715](https://www.legislation.gov.uk/uksi/2002/715); Schedule 12A was substituted by [S.I. 2006/88](https://www.legislation.gov.uk/uksi/2006/88).
+
+[^f00010]: Footnote: See section 270(1) of the Local Government Act 1972.
+
+[^key-8f9529ae118a66c70dbeba219abc87a3]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+
+[^f00011]: Footnote: Paragraph 2 was amended by paragraph 44 of Schedule 4 to the Police and Magistrates’ Courts Act [1994 (c.29)](https://www.legislation.gov.uk/ukpga/1994/29); paragraph 2(8) of Schedule 10, paragraph 31(5) of Schedule 10 and Schedule 24 to the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25); paragraph 4(7) of Schedule 13 to the Countryside and Rights of Way Act [2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37); paragraph 81 of Schedule 6 to the Local Democracy, Economic Development and Construction Act [2009 (c.20)](https://www.legislation.gov.uk/ukpga/2009/20); Schedule 22 to the Marine and Coastal Access Act [2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^key-f940ea7608248f0e97aaa47b46cd39da]: Modification: Reg. 10(4)(d) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(z)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/z) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
+
+[^f00012]: Footnote: See paragraph 4 of Schedule 1 to the Local Government and Housing Act 1989.
+
+[^key-f7ea26338e78aa7950fade555eed5aa8]: Textual amendment: Words in reg. 10(4) omitted (1.4.2018) by virtue of [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 17(3)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/17/3)
+
+[^key-1a1b4849fa101b110b8f6f4b5799b6da]: Textual amendment: Word in reg. 10(4) omitted (17.4.2024) by virtue of [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2024/418/regulation/3/3/a)
+
+[^key-481c67e634ad9f59be3a86552f54a351]: Textual amendment: Words in reg. 10(4) inserted (17.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2024/418/regulation/3/3/b)
+
+[^f00013]: Footnote: [S.I. 1990/1553](https://www.legislation.gov.uk/uksi/1990/1553), relevant amending instruments are [S.I. 1991/1398](https://www.legislation.gov.uk/uksi/1991/1398), [1993/1339](https://www.legislation.gov.uk/uksi/1993/1339), [1998/1918](https://www.legislation.gov.uk/uksi/1998/1918), [1999/500](https://www.legislation.gov.uk/uksi/1999/500), [2010/1142](https://www.legislation.gov.uk/uksi/2010/1142).

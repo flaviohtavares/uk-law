@@ -1,0 +1,329 @@
+---
+title: The Tobacco Products and Herbal Products for Smoking (Fees) Regulations 2017
+id: uksi/2017/409
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-03-15'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2017/409
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/409/pdfs/uksiem_20170409_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/409/pdfs/uksi_20170409_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/409/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tobacco Products and Herbal Products for Smoking (Fees) Regulations 2017
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2017 No. 409
+
+Consumer Protection
+
+Fees And Charges
+
+The Tobacco Products and Herbal Products for Smoking (Fees) Regulations 2017
+
+Made
+
+15th March 2017
+
+Laid before Parliament
+
+16th March 2017
+
+Coming into force
+
+6th April 2017
+
+The Secretary of State for Health makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and section 56(1) and (2) of the Finance Act 1973[^f00002].
+
+The Secretary of State has been designated for the purpose of section 2(2) of the European Communities Act 1972 in relation to tobacco, tobacco products and herbal products for smoking[^f00003].
+
+The Treasury has consented to the making of these Regulations as required by section 56(1) of the Finance Act 1973.
+
+## 1. Citation, commencement and interpretation[^key-1b313e72c9339aa80862a3206b6a9900]
+
+(1) These Regulations may be cited as the Tobacco Products and Herbal Products for Smoking (Fees) Regulations 2017, and shall come into force on 6th April 2017.
+
+(2) In these Regulations—
+
+- “the 2016 Regulations” means the Tobacco and Related Products Regulations 2016[^f00004];
+- “cigarette”, “hand rolling tobacco”, “novel tobacco product”, and “producer” have the same meaning as in the 2016 Regulations.
+
+(3)[^key-14e49cef5c81b16eb9a79b8a36e93e23] For the purposes of these Regulations, the relevant areas are—
+
+- (a) Great Britain (including the GB travel retail sector), and
+- (b) Northern Ireland (including the NI travel retail sector).
+
+(4) For the purposes of paragraph (3), “GB travel retail sector” and “NI travel retail sector” have the meanings given in the 2016 Regulations (see regulation 2 of those Regulations).
+
+## 2. Measurement and verification of emission levels from cigarettes: annual fee[^key-c8b7b098623ae5e25eafcf25a632c080]
+
+(1) An annual fee is payable in respect of each variant of a brand of cigarettes in relation to which the Secretary of State requires a sample, under regulation 14(4) of the 2016 Regulations, in the fee period.
+
+(1A)[^key-32cbca166f5e9326ba0d74bb87df66fe] But only one annual fee is payable in respect of a variant brand of cigarettes which—
+
+- (a) is manufactured for supply in both of the relevant areas, or
+- (b) is manufactured for supply otherwise than in the relevant areas.
+
+(2) The amount of the annual fee payable is £1,000, save where the number of samples of the variant which the Secretary of State has required in the fee period is 5 or less, in which case the amount of the annual fee payable is £167 multiplied by the number of such samples which the Secretary of State has required in the fee period.
+
+(3) The annual fee is first payable on 1st March 2018 and thereafter is payable each year on<sup></sup>1st March.
+
+(4) The annual fee is payable by the manufacturer of the variant of the brand of cigarettes and is payable to the Secretary of State.
+
+(5) In this regulation—
+
+- “brand”, in relation to cigarettes, means cigarettes produced by a particular producer and known by a particular name;
+- “emission”, “ingredient”, “nicotine” and “tar” have the same meaning as in the 2016 Regulations;
+- “fee period” means the 12 month period preceding 1st March in each year, save where the annual fee is first payable, under paragraph (3), on 1st March 2018 in which case the fee period is 6th April 2017 to 28th February 2018;
+- “variant”, in relation to cigarettes, means a cigarette of one brand which is distinguishable from other cigarettes of the same brand by—
+  - (a) name;
+  - (b) ingredients in the cigarette;
+  - (c) the quantity of each ingredient in the cigarette; or
+  - (d) the tar, nicotine and carbon monoxide emission levels of the cigarette.
+
+## 3. Tobacco products: reporting fee[^key-bb2bd0de641e68555f4b1ecc5568e325]
+
+(1) A fee is payable in respect of—
+
+- (a) each submission made to the Secretary of State under regulation 18(1) of the 2016 Regulations (submission of ingredients and emissions information relating to a tobacco product); and
+- (b) each notification submitted to the Secretary of State under regulation 22 of the 2016 Regulations (notification of a novel tobacco product).
+
+(2) Where a producer submits a notification in accordance with regulation 22 of the 2016 Regulations, and at the same time submits information in accordance with regulation 18(1) of those Regulations in relation to the same product, only one fee is payable.
+
+(2A)[^key-04b0f03ca04cf0aa5aa8b6f3c3d1a404] In addition, only one fee is payable where—
+
+- (a) a producer—
+  - (i) submits information in accordance with regulation 18(1) of the 2016 Regulations relating to the supply of a tobacco product in one of the relevant areas, and
+  - (ii) submits information in accordance with that provision relating to the supply of the same tobacco product in the other relevant area;
+- (b) a producer—
+  - (i) submits a notification in accordance with regulation 22 of the 2016 Regulations relating to the supply of a novel tobacco product in one of the relevant areas, and
+  - (ii) submits a notification in accordance with that provision relating to the supply of the same novel tobacco product in the other relevant area.
+
+(3) Where the information is submitted in relation to cigarettes, hand rolling tobacco, or a novel tobacco product, the amount of the fee payable is £200, except where the submission under regulation 18(1) is made pursuant to regulation 18(3) of the 2016 Regulations (submission of information relating to a modified product), in which case the amount is £100.
+
+(4) Where the information is submitted in relation to a product other than those referred to in paragraph (3), the amount of the fee payable is £100, except where the submission under regulation 18(1) is made pursuant to regulation 18(3) the 2016 Regulations (submission of information relating to a modified product), in which case the amount is £50.
+
+(5) The fee is payable on invoice and by the date specified therein.
+
+(6) The fee is payable by the person who submitted the information and is payable to the Secretary of State.
+
+## 4. Tobacco products: annual reporting fee[^key-3bf09e29270c64f8cb34b5d365cfb1e4]
+
+(1) An annual fee is payable in respect of each product for which a submission has been made under regulation 18(1), or a notification has been submitted under regulation 22, of the 2016 Regulations (“the submission”).
+
+(1A)[^key-c2e8a53207220fa68435357595b2316a] But only one annual fee is payable for a product for which—
+
+- (a) a submission has been made under regulation 18(1), or a notification has been submitted under regulation 22, of the 2016 Regulations relating to the supply of it in one of the relevant areas, and
+- (b) a submission has also been made, or notification has also been submitted, under either of those provisions relating to its supply in the other relevant area.
+
+(2) The amount of the annual fee payable is—
+
+- (a) £100, where the product is cigarettes, hand rolling tobacco or a novel tobacco product;
+- (b) £50, in any other case.
+
+(3) The annual fee is first payable—
+
+- (a) in respect of a product for which the submission was made before the day that these Regulations come into force, on 1st March 2018; or
+- (b) in respect of a product for which the submission is made on or after the day that these Regulations come into force, on the first occurring 1st March after the day that the submission is made,
+
+and thereafter is payable each year on 1st March.
+
+(4) The annual fee is payable by the person who made the submission and is payable to the Secretary of State.
+
+(5) If the Secretary of State is notified under regulation 18(5) of the 2016 Regulations that the product has been withdrawn from the market, no fee is payable on the 1st March following that notification and thereafter; but any annual fee payable prior to or on the date of notification remains payable.
+
+(6)[^key-76eb0dc8c60c57252691b4099f58f7cc] But where a submission has been made under regulation 18(1), or a notification submitted under regulation 22, of the 2016 Regulations, relating to the supply of a product in both of the relevant areas, the annual fee ceases to be payable only if the Secretary of State is notified under regulation 18(5) of those Regulations that the product has been withdrawn from the market in Great Britain and from the market in Northern Ireland.
+
+## 5. Herbal products for smoking: reporting fee[^key-91db5956d4a9da68c39855e77b9961b9]
+
+(1) A fee is payable in respect of each submission made to the Secretary of State under regulation 29(1) of the 2016 Regulations (submission of ingredients information relating to a herbal product for smoking).
+
+(1A)[^key-d21d23fd9edb1f3ae0ffc1a306b332b7] But only one fee is payable where—
+
+- (a) a submission is made under regulation 29(1) of the 2016 Regulations in relation to the supply of a product in one of the relevant areas, and
+- (b) a submission is also made under regulation 29(1) of the 2016 Regulations in relation to the supply of the same product in the other relevant area.
+
+(2) The amount of the fee payable is £60, except where the submission under regulation 29(1) is made pursuant to regulation 29(3) of the 2016 Regulations (submission of information relating to a modified product), in which case the amount is £30.
+
+(3) The fee is payable on invoice and by the date specified therein.
+
+(4) The fee is payable by the person who made the submission and is payable to the Secretary of State.
+
+## 6. Herbal products for smoking: annual reporting fee[^key-fc5b961d6ea9f24cfbdb8b853534bf39]
+
+(1) An annual fee is payable in respect of each product for which a submission has been made under regulation 29(1) the 2016 Regulations (“the submission”).
+
+(1A)[^key-b765f686adac59bd3dbc018ef36e6408] But only one annual fee is payable in respect of a product for which—
+
+- (a) a submission has been made under regulation 29(1) of the 2016 Regulations in relation to the supply of a product in one of the relevant areas, and
+- (b) a submission has also been made under that regulation in relation to its supply in the other relevant area.
+
+(2) The amount of the annual fee payable is £30.
+
+(3) The annual fee is first payable—
+
+- (a) in respect of a product for which the submission was made before the day that these Regulations come into force, on 1st March 2018; or
+- (b) in respect of a product for which the submission is made on or after the day that these Regulations come into force, on the first occurring 1st March after the day that the submission is made,
+
+and thereafter is payable each year on 1st March.
+
+(4) The annual fee is payable by the person who made the submission and is payable to the Secretary of State.
+
+(5) If the Secretary of State is notified that the product has been withdrawn from the market, no fee is payable on the 1st March following that notification and thereafter; but any annual fee payable prior to or on the date of notification remains payable.
+
+(6)[^key-b5cbe3c66ef2a3a10f535e50fe18ef78] But where a submission has been made under regulation 29(1) of the 2016 Regulations relating to the supply of a product in both of the relevant areas, the annual fee ceases to be payable only if the Secretary of State is notified that the product has been withdrawn from the market in Great Britain and from the market in Northern Ireland.
+
+## 7. Civil proceedings to recover unpaid fees[^key-7e35b2e4c0121fe35829bbdbf00219fa]
+
+All unpaid sums due by way of any fees payable under these Regulations are recoverable as debts due to the Crown.
+
+## 8. Amendments to the 2016 Regulations: consequences of non-payment of reporting fees[^key-099fa5748a654d9ebb932e0df0350f54]
+
+(1) The 2016 Regulations are amended as follows.
+
+(2) After paragraph (2) of regulation 18 insert—
+
+> (2A) If a fee which is payable under regulation 3 of the Tobacco Products and Herbal Products for Smoking (Fees) Regulations 2017 in respect of a submission under paragraph (1) of this regulation is not paid by the date specified in the invoice for that fee, for the purposes of regulation 48(b) (offences), the submission is to be regarded as not having been made in accordance with paragraph (2)(b) until the fee has been paid.
+
+.
+
+(3) After paragraph (4) of regulation 23 insert—
+
+> (5) If a fee which is payable under regulation 3 of the Tobacco Products and Herbal Products for Smoking (Fees) Regulations 2017 in respect of a notification under regulation 22 of these Regulations is not paid by the date specified in the invoice for that fee, for the purposes of regulation 48(b) (offences), the notification is to be regarded as not having been given in accordance with paragraph (1) until the fee has been paid.
+
+.
+
+(4) For regulation 27 substitute—
+
+> **27. No supply of tobacco product where reporting obligation not complied with**
+>
+> A producer who fails to submit information in accordance with any provision of this Part in respect of any tobacco product, must not supply the tobacco product concerned until–
+>
+> - (a) the producer has submitted the required information in accordance with regulation 25; and
+> - (b) any fee payable in respect of the submission of that information under regulation 3 of the Tobacco Products and Herbal Products for Smoking (Fees) Regulations 2017 has been paid.
+
+.
+
+(5) After paragraph (2) of regulation 29 insert—
+
+> (2A) If a fee which is payable under regulation 5 of the Tobacco Products and Herbal Products for Smoking (Fees) Regulations 2017 in respect of a submission under paragraph (1) of this regulation is not paid by the date specified in the invoice for that fee, for the purposes of regulation 48(b) (offences), the submission is to be regarded as not having been made in accordance with paragraph (2)(b) until the fee has been paid.
+
+.
+
+(6) For regulation 30(2) substitute—
+
+> (2) A producer who fails to submit information in accordance with regulation 29 in respect of any herbal product for smoking must not supply the product concerned until—
+>
+> - (a) the producer has submitted the required information in accordance with regulation 25; and
+> - (b) any fee payable in respect of the submission of that information under regulation 5 of the Tobacco Products and Herbal Products for Smoking (Fees) Regulations 2017 has been paid.
+
+.
+
+Signed by authority of the Secretary of State for Health.
+
+Nicola Blackwood
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+Robert Syms
+
+Andrew Griffiths
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations impose fees on industry in relation to tobacco products and herbal products for smoking.
+
+The Tobacco Products Directive 2014[^f00005], in so far as relevant, requires Member State to carry out the following functions.
+
+First, to approve and monitor laboratories which are to verify the tar, nicotine and carbon monoxide emissions from cigarettes. See Article 4.
+
+Second, to require manufacturers and importers of tobacco products, and herbal products for smoking, to submit certain information, which must be stored and made available to the European Commission and the public. See Articles 5, 19 and 22.
+
+In the United Kingdom, these functions are carried out by the Secretary of State for Health, acting by Public Health England (PHE).
+
+The Tobacco and Related Products Regulations 2016 (“the 2016 Regulations”) implement the provisions of the Tobacco Products Directive 2014 referred to above. See regulation 14, and Parts 4 and 5.
+
+These Regulations supplement the 2016 Regulations by introducing fees to recover PHE’s costs.
+
+Regulation 2 introduces an annual fee to cover the cost of approving and monitoring laboratories, and arranging for such approved laboratories to verify the tar, nicotine and carbon monoxide emissions from cigarettes, as well as the cost of the laboratories carrying out the verifications. The fee is payable by manufacturers, including those who manufacture for export.
+
+Regulations 3 and 5 introduce a reporting fee, which is intended to cover the cost of administering the information that must be submitted by producers of tobacco products and herbal products for smoking.
+
+Regulations 4 and 6 introduce an annual fee intended to cover the on-going costs associated with reporting under Parts 4 and 5 of the 2016 Regulations, including maintaining and managing the website on which information is published, and, in relation to tobacco products, administering information that is submitted on an ad hoc or annual basis, including studies on the effects of tobacco products, and sales data and market research information.
+
+Regulation 7 makes provision to enable recovery of any unpaid fees.
+
+Regulation 8 amends regulations 18, 23, 27, 29 and 30 of the 2016 Regulations so as to provide consequences for failure to pay fees in connection with the submission of information.
+
+The amendments to regulations 18, 23 and 29 of the 2016 Regulations provide that if a fee which is payable under regulation 3 or 5 of these Regulations is not paid by the date specified in its invoice, for the purposes of regulation 48(b), the submission or notification to which it relates is to be regarded as not having been made or submitted in accordance with regulation 18(2)(b), 23(1) or 29(2)(b) of the 2016 Regulations, which set out the deadlines for submission or notification, until the fee has been paid.
+
+Under regulation 48(b) of the 2016 Regulations it is a criminal offence for a person to fail to submit information to the Secretary of State in accordance with a provision of Part 4 or regulation 29.
+
+Regulation 8 amends regulations 27 and 30 of the 2016 Regulations so as to provide that producers who fail to submit information in accordance with any provisions of Part 4 or regulation 29 of the 2016 Regulations must not supply the relevant product until the information has been submitted, and any fees due under regulation 3 or 5 of these Regulations has been paid.
+
+Under regulation 48(a)(iii) and (c) of the 2016 Regulations it is a criminal offence for a person to supply the product in these circumstances.
+
+An impact assessment of the effects that this instrument will have on the costs of business and the voluntary sector is available from the Department of Health, 79 Whitehall, London, SW1A 2NS, and is published with the Explanatory Memorandum alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^f00002]: Footnote: [1973 c.51](https://www.legislation.gov.uk/ukpga/1973/51). Section 56(1) was amended by Article 6(1)(e) of the Treaty of Lisbon (Changes of Terminology) Order 2011 ([S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043)).
+
+[^f00003]: Footnote: [S.I. 2014/2705](https://www.legislation.gov.uk/uksi/2014/2705).
+
+[^key-1b313e72c9339aa80862a3206b6a9900]: Commencement: Reg. 1 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
+
+[^f00004]: Footnote: [S.I. 2016/507](https://www.legislation.gov.uk/uksi/2016/507), amended by [S.I. 2016/1127](https://www.legislation.gov.uk/uksi/2016/1127).
+
+[^key-14e49cef5c81b16eb9a79b8a36e93e23]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/4) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/2)
+
+[^key-c8b7b098623ae5e25eafcf25a632c080]: Commencement: Reg. 2 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
+
+[^key-32cbca166f5e9326ba0d74bb87df66fe]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2017/409/regulation/2/1A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/3)
+
+[^key-bb2bd0de641e68555f4b1ecc5568e325]: Commencement: Reg. 3 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
+
+[^key-04b0f03ca04cf0aa5aa8b6f3c3d1a404]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2017/409/regulation/3/2A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/4)
+
+[^key-3bf09e29270c64f8cb34b5d365cfb1e4]: Commencement: Reg. 4 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
+
+[^key-c2e8a53207220fa68435357595b2316a]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/uksi/2017/409/regulation/4/1A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(5)(a)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/5/a)
+
+[^key-76eb0dc8c60c57252691b4099f58f7cc]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/uksi/2017/409/regulation/4/6) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(5)(b)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/5/b)
+
+[^key-91db5956d4a9da68c39855e77b9961b9]: Commencement: Reg. 5 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
+
+[^key-d21d23fd9edb1f3ae0ffc1a306b332b7]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2017/409/regulation/5/1A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(6)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/6)
+
+[^key-fc5b961d6ea9f24cfbdb8b853534bf39]: Commencement: Reg. 6 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
+
+[^key-b765f686adac59bd3dbc018ef36e6408]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2017/409/regulation/6/1A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(7)(a)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/7/a)
+
+[^key-b5cbe3c66ef2a3a10f535e50fe18ef78]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/2017/409/regulation/6/6) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [7(7)(b)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/7/7/b)
+
+[^key-7e35b2e4c0121fe35829bbdbf00219fa]: Commencement: Reg. 7 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
+
+[^key-099fa5748a654d9ebb932e0df0350f54]: Commencement: Reg. 8 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/409/regulation/1/1)
+
+[^f00005]: Footnote: [Directive 2014/40/EU](https://www.legislation.gov.uk/european/directive/2014/0040) of the European Parliament and of the Council on the approximation of laws, regulations and administrative provisions of the Member States concerning the manufacture, presentation and sale of tobacco and related products and repealing [Directive 2001/37/EC](https://www.legislation.gov.uk/european/directive/2001/0037). OJ L 127, 29.4.2014, p.1 as amended by Commission Delegated [Directive 2014/109/EU](https://www.legislation.gov.uk/european/directive/2014/0109), OJ L 360, 17.12.2014, p.22.

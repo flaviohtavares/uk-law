@@ -1,0 +1,146 @@
+---
+title: The Registered Pension Schemes (Notice of Joint Liability for the Annual Allowance Charge) Regulations 2011
+id: uksi/2011/1793
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-07-20'
+text_date: '2025-04-24'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/1793
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/1793/pdfs/uksiem_20111793_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1793/pdfs/uksi_20111793_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1793/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Registered Pension Schemes (Notice of Joint Liability for the Annual Allowance Charge) Regulations 2011
+
+> Text as at 2025-04-24.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 1793
+
+Income Tax
+
+The Registered Pension Schemes (Notice of Joint Liability for the Annual Allowance Charge) Regulations 2011
+
+Made
+
+20th July 2011
+
+Laid before the House of Commons
+
+21st July 2011
+
+Coming into force
+
+11th August 2011
+
+The Commissioners for Her Majesty’s Revenue and Customs make these Regulations in exercise of the powers conferred by sections 237B(5)(b) and (c) and 251(4)(a) of the Finance Act 2004[^f00001] and now exercisable by them[^f00002].[^key-fb8ccc0c9784583c42196e180d818ecb]
+
+## 1. Citation, commencement and interpretation[^key-015447be6aa2eac0a36db08aaba2788d]
+
+(1) These Regulations may be cited as the Registered Pension Schemes (Notice of Joint Liability for the Annual Allowance Charge) Regulations 2011 and shall come into force on 11th August 2011.
+
+(2) In these Regulations—
+
+- “the further notice” means a notice given by an individual to a scheme administrator in accordance with regulation 4;
+- “the notice” means a notice given by an individual to a scheme administrator in accordance with section 237B(3) of the Finance Act 2004; and
+- “relevant tax year” means the tax year to which the notice relates.
+
+## 2. Particulars to be included in the notice[^key-3e03b3fd15b66952e2b4568308ec340e]
+
+(1) An individual must include the following particulars in the notice—
+
+- (a) the individual’s title, full name and address (including post code, if applicable),
+- (b) the individual’s national insurance number, subject to paragraph (4),
+- (c) the amount of the annual allowance charge for which the individual and the scheme administrator will be jointly and severally liable, and
+- (d) the tax year in which the annual allowance charge arises.
+
+(2) Where the amount specified in the notice is £2,000 or less, the individual must confirm in the notice that the amount of the individual’s liability to the annual allowance charge for the relevant tax year exceeds £2,000.
+
+(3)[^key-24d95b26c29d6b82b7b9811d03771db0] Where—
+
+- (a) the notice is given to the scheme administrator in the relevant tax year, and
+- (b) it is anticipated that, at a later date in the relevant tax year, the individual will become entitled to all of the benefits under the pension scheme to which the notice relates,
+
+the individual must state that date in the notice.
+
+(4) Where the individual does not qualify for a national insurance number the individual must set out in the notice the reasons for this in place of the national insurance number.
+
+(5) The notice must be in writing, signed and dated by the individual.
+
+(6) Where the notice is in an electronic format, the requirement in paragraph (5) that the notice must be signed will be satisfied if the notice includes a statement that the individual has personally submitted the notice.
+
+## 3. Declaration to be included in the notice[^key-fc5178400ce4b41e501247fdc05e7cb1]
+
+(1) The individual must declare in the notice that the individual understands that—
+
+- (a) the notice cannot be revoked, and
+- (b) future benefits to be paid to the individual from the pension scheme will be adjusted to take account of the payment of the annual allowance charge made by the scheme administrator.
+
+(2) The individual must declare that the amount specified in the notice has been calculated at the correct relevant rate as described in section 237B(4) of the Finance Act 2004.
+
+## 4. Amendment to the notice[^key-8159a17c33fd48ceae541dda0856c701]
+
+(1) Where the individual’s liability to the annual allowance charge in relation to the relevant tax year changes after the submission of the notice to the scheme administrator, the individual may amend the notice by sending a further notice to the scheme administrator.
+
+(2) The further notice must comply with regulations 2 (excluding regulation 2(2))[^key-740ffc0918242af4f929d0c70e821694] and 3.
+
+(2A)[^key-8958b2cbebfad9dcce411eb98ea2ae4e] Where the amount specified in the further notice is £2,000 or less, the individual must confirm in the further notice whether the amount of the individual’s liability to the annual allowance charge for the relevant tax year exceeds £2,000.
+
+(3) The further notice must be given to the scheme administrator no later than 31st July following the end of the period of 6 years[^key-fcb2b8f7924a5e60040f6150a8c7626d] beginning with the last day of the relevant tax year.
+
+## 5. Acknowledgement of receipt of the notice and further notice[^key-1025affdf9d77f0688ec1aadac0822a1]
+
+A scheme administrator must send an acknowledgement to the individual upon receipt of the notice or further notice.
+
+Melanie Dawes
+
+Dave Hartnett
+
+Two of the Commissioners for Her Majesty’s Revenue and Customs
+
+20th July 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Schedule 17 to the Finance Act 2011 makes provision for reducing the annual allowance charge in respect of benefits paid into registered pension schemes to £50,000 for tax years 2011-12 onwards. Paragraph 15 of that Schedule inserts new sections 237A to 237F into the Finance Act 2004. They enable individuals in certain circumstances to elect for their pension scheme to pay their annual allowance charge in return for an actuarial reduction to their benefits within the scheme. These Regulations make provision for the notice which the individual must give to the scheme administrator in order to make that election.
+
+A Tax Information and Impact Note covering this instrument was published on 9 December 2010 alongside draft legislation for the Finance (No. 3) Bill 2011 concerning the restriction of pensions tax relief. This was updated on 3 March 2011 to reflect further decisions relating to the restriction of pensions tax relief and is available on the HMRC website at http://www.hmrc.gov.uk/thelibrary/tiins.htm. It remains an accurate summary of the impacts that apply to this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Section 237B was inserted into the Finance Act 2004 by paragraph 15 of Schedule 17 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11). Section 251(4)(a) was amended by paragraph 47 of Schedule 10 to the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7). Section 251(5) sets out the persons referred to in subsection (4)(a) and subsection (6) defines “prescribed” for the purpose of section 251 as meaning prescribed by regulations.
+
+[^f00002]: Footnote: The functions of the Commissioners for Inland Revenue were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5(1) of the Commissioners for Revenue and Customs Act [2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50 of that Act provides that insofar as it is appropriate in consequence of section 5, a reference in an enactment, however expressed, to the Commissioners of Inland Revenue is to be treated as a reference to the Commissioners for Her Majesty’s Revenue and Customs.
+
+[^key-fb8ccc0c9784583c42196e180d818ecb]: Modification: Regulations modified (for the tax year 2023-24 and subsequent tax years) by [S.I. 2023/113](https://www.legislation.gov.uk/uksi/2023/113), [regs. 8(4A)](https://www.legislation.gov.uk/uksi/2023/113/regulation/8/4A), [9(3A)](https://www.legislation.gov.uk/uksi/2023/113/regulation/9/3A) (as inserted by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2/3), [20(2)(3)](https://www.legislation.gov.uk/uksi/2025/419/regulation/20/2))
+
+[^key-015447be6aa2eac0a36db08aaba2788d]: Commencement: Reg. 1 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1793/regulation/1/1)
+
+[^key-3e03b3fd15b66952e2b4568308ec340e]: Commencement: Reg. 2 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1793/regulation/1/1)
+
+[^key-24d95b26c29d6b82b7b9811d03771db0]: Textual amendment: Reg. 2(3) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [30](https://www.legislation.gov.uk/uksi/2024/1012/regulation/30)
+
+[^key-fc5178400ce4b41e501247fdc05e7cb1]: Commencement: Reg. 3 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1793/regulation/1/1)
+
+[^key-8159a17c33fd48ceae541dda0856c701]: Commencement: Reg. 4 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1793/regulation/1/1)
+
+[^key-740ffc0918242af4f929d0c70e821694]: Textual amendment: Words in reg. 4(2) inserted (6.4.2022) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/392)](https://www.legislation.gov.uk/uksi/2022/392), [regs. 1](https://www.legislation.gov.uk/uksi/2022/392/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2022/392/regulation/8/a)
+
+[^key-8958b2cbebfad9dcce411eb98ea2ae4e]: Textual amendment: Reg. 4(2A) inserted (6.4.2022) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/392)](https://www.legislation.gov.uk/uksi/2022/392), [regs. 1](https://www.legislation.gov.uk/uksi/2022/392/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2022/392/regulation/8/b)
+
+[^key-fcb2b8f7924a5e60040f6150a8c7626d]: Textual amendment: Words in reg. 4(3) substituted (6.4.2022) by [The Registered Pension Schemes (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/392)](https://www.legislation.gov.uk/uksi/2022/392), [regs. 1](https://www.legislation.gov.uk/uksi/2022/392/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2022/392/regulation/8/c)
+
+[^key-1025affdf9d77f0688ec1aadac0822a1]: Commencement: Reg. 5 in force at 11.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1793/regulation/1/1)

@@ -1,0 +1,1458 @@
+---
+title: The National Savings Regulations 2015
+id: uksi/2015/623
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-03-10'
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/623
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/623/pdfs/uksiem_20150623_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/623/pdfs/uksi_20150623_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/623/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Savings Regulations 2015
+
+> Text as at 2026-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 623
+
+National Debt
+
+The National Savings Regulations 2015
+
+Made
+
+10th March 2015
+
+Laid before Parliament
+
+13th March 2015
+
+Coming into force
+
+6th April 2015
+
+The Treasury in exercise of the powers conferred by sections 2, 3(2), 4, 6(1), 7(2), 8, 9(1) and 15(3) of the National Savings Bank Act 1971[^f00001], section 33 of the Finance Act 1962[^f00002], sections 426 and 427 of the Financial Services and Markets Act 2000[^f00003] and section 140(2) of the Finance Act 2002[^f00004] make the following Regulations:
+
+## PART 1 — Introductory Provisions
+
+### 1. Citation, commencement and extent[^key-580e2680181eb2baf94b89bb6f23d5a2]
+
+(1) These Regulations may be cited as the National Savings Regulations 2015 and come into force on 6th April 2015.
+
+(2) These Regulations extend to Great Britain and Northern Ireland, the Isle of Man and the Channel Islands.
+
+### 2. Interpretation[^key-d8d4ef8845ffdf7e526c381e9ea9c1f3]
+
+In these Regulations—
+
+- “the 1971 Act” means the National Savings Bank Act 1971[^f00005];
+- “the 1998 Regulations” means the Individual Savings Account Regulations 1998[^f00006];
+- “account manager” has the meaning given in the 1998 Regulations;
+- “approved” means approved by the Director of Savings;
+- “bond” means a premium savings bond issued by the Treasury through the department of the Postmaster General or under the auspices of the Director of Savings, for the purpose of raising money under section 1 of the National Loans Act 1939[^f00007] or section 12 of the National Loans Act 1968[^f00008];
+- “cash payment advice” means, in relation to a withdrawal to be made by payment in cash, an advice in writing in the approved form setting out the amount to be withdrawn, the savings bank office at which the payment is to be made, the name of the payee and any evidence required by the Director of Savings under regulation 46;
+- “certificate” means a certificate issued under the name of a war savings certificate or a national savings certificate by the Treasury through the department of the Postmaster General or under the auspices of the Director of Savings for the purpose of raising money authorised to be raised by any Act;
+- “charitable society” means a penny savings bank, or a charitable or provident institution or society, and includes a charitable donation or bequest for the maintenance, education, or benefit of the poor;
+- “the Commissioners” means the National Debt Commissioners;
+- “declaration in the approved form” means the declaration by a depositor required under regulation 6;
+- “deposit” means a deposit in the National Savings Bank, including part of a deposit as the context requires;
+- “depositor” means a person in whose name deposits have been made in the National Savings Bank;
+- “deputy”, in the application of these Regulations to England and Wales, means a deputy appointed by the Court of Protection with power to make decisions in relation to the affairs of a person who lacks capacity;
+- “electronic transfer” means transferring money by electronic or automated processes, which do not involve the delivery or collection of a payable instrument or the delivery of cash, to a bank or building society account to which payment is capable of being made by those processes;
+- “friendly society” means a friendly society (or a branch of that society) registered under the Friendly Societies Act 1974[^f00009] and a reference to an incorporated friendly society means a society incorporated under the Friendly Societies Act 1992[^f00010];
+- “individual savings account” means an account of investment deposits made under regulation 25;
+- “investment deposit” has the same meaning as in the 1971 Act;
+- “junior ISA account” means an individual savings account which comes within the meaning of “junior ISA account” in regulation 2B of the 1998 Regulations;[^key-f27ffa9a287b3958e74c7a49be1328ea]
+- “name”, in relation to an unincorporated body of persons, includes any description which the Director of Savings considers sufficient to identify the body;
+- “officer”, in relation to a society or body corporate, includes the solicitor of the society or body;
+- “ordinary deposit” has the same meaning as in the 1971 Act;
+- “person who lacks capacity” means a person who lacks capacity within the meaning given by (or in) the Mental Capacity Act 2005[^f00011];
+- “principal office of the National Savings Bank”, in relation to any description of account, means the office of the National Savings Bank which is designated as the principal office for that description of account by the Director of Savings;
+- “the register”, in relation to stock, means the part of the National Savings Stock Register kept by the Director of Savings;
+- “savings bank” means the National Savings Bank;
+- “savings bank business” means the receipt and repayment of deposits in the National Savings Bank and business incidental to such receipt and repayment;
+- “savings bank office” means a place at which savings bank business is transacted;
+- “stock” means stock or securities registered in the register;
+- “Treasury security” means a security issued by the Treasury under the auspices of the Director of Savings for the purpose of raising money under the National Loans Act 1968[^f00012];
+- “Treasury Solicitor” means the Solicitor for the affairs of Her Majesty’s Treasury;
+
+## PART 2 — Deposits in the National Savings Bank
+
+### CHAPTER 1 — Closure of or restrictions in relation to certain accounts
+
+#### 3. Closure of ordinary deposit accounts[^key-6f7773f848e382e3bc0236fc1904acf5]
+
+(1) No ordinary account may be opened, and no ordinary deposit may be made.
+
+(2) An application to withdraw from an ordinary account must be for the balance of the account at the date of withdrawal including accrued interest not yet credited to the account.
+
+(3) Where no application to withdraw from an ordinary account in accordance with paragraph (2) was made before 12th May 2008, the Director of Savings may transfer that balance and accrued interest to an investment account in the name of the depositor.
+
+(4) Where the Director of Savings is unable for any reason to transfer the balance due on an ordinary account in accordance with paragraph (3), the Director of Savings may transfer the balance and accrued interest to a special Director’s account.
+
+#### 4. Closure of certain individual savings accounts[^key-20081170bf944eeb4b24045489debf85]
+
+(1) No deposit may be made in a relevant ISA.
+
+(2) The Director of Savings may transfer the balance in a relevant ISA at the date of transfer including accrued interest not yet credited to the account to a Direct ISA opened in the name of the depositor.
+
+(3) In this regulation—
+
+- “Direct ISA” means an individual savings account for which terms and conditions have been set under section 9A(1) of the 1971 Act[^f00013];
+- “relevant ISA” means an individual savings account other than a Direct ISA.
+
+### CHAPTER 2 — Accounts and transactions
+
+#### 5. Transaction of savings bank business[^key-2177c9f833237b0b3dba4fcaf2b39fd6]
+
+Savings bank business is to be transacted at the places determined, and by the persons authorised, by the Director of Savings.
+
+#### 6. Declaration by a depositor[^key-2c8d1dcc93e20487bb5c27d9442e1658]
+
+(1) A depositor on opening an account, and where required afterwards by the Director of Savings, must—
+
+- (a) make and sign a declaration in the approved form setting out—
+  - (i) the depositor’s full name and address and, if required, date of birth and occupation; and
+  - (ii) the particulars of each account the depositor already has with the National Savings Bank (including any joint account in which the depositor’s name appears); and
+- (b) if required, provide a specimen signature.
+
+(2) Paragraph (1)(a)(ii) does not apply where the depositor is to be or is described in an account as a trustee under regulations 12 or 13.
+
+(3) This regulation does not apply to an account where—
+
+- (a) the account is opened under an enactment which dispenses with the making of a declaration; or
+- (b) the Director or Savings directs that the making of a declaration is not required.
+
+#### 7. Declaration by a depositor who is a trustee[^key-8afeda73917b3a1d7e3a3d97e6a6e957]
+
+(1) Where an account is opened or held by a trustee, otherwise than under regulation 13, the declaration in the approved form must include the particulars of each account with the National Savings Bank in which is held money belonging to the same trust fund.
+
+(2) For the purposes of paragraph (2), money held in the name of the trustee in another account is deemed to belong to the same trust fund, unless that account differs as respects—
+
+- (a) the purposes of the trust;
+- (b) the powers of the trustee;
+- (c) the identity of any beneficiary; or
+- (d) the respective interests of any beneficiary.
+
+(3) The declaration in the approved form required to be made by a trustee under regulation 13 must include the particulars of each account with the National Savings Bank held in the trustee’s name in relation to which that trustee is a trustee for the same, and no other, beneficiary (including a joint account opened under regulation 13).
+
+(4) This regulation does not apply to an account where—
+
+- (a) it is opened under an enactment which dispenses with the making of a declaration; or
+- (b) the Director or Savings directs that the making of a declaration is not required.
+
+#### 8. Depositors generally[^key-2e66ae7348a6ddb245f6301ca9a86879]
+
+(1) A deposit may be made by and in the name of a person who has attained the age of sixteen years and who is not under any legal disability otherwise than by reason of age.
+
+(2) No account may be opened in the name of a person who is not an individual, except an account opened—
+
+- (a) in the name of a trustee; or
+- (b) under regulations 17 to 20.
+
+#### 9. Accounts of minors under sixteen years of age[^key-ce319fb9f21442eb4ab62d6e02c2fe42]
+
+(1) A deposit may be made on behalf and in the name of a minor under the age of sixteen years by that minor’s parent, guardian or grandparent.
+
+(2) The declaration in the approved form must be made by the person opening the account, and must include the required information in relation to both that person and the minor.
+
+(3) Having attained the age of sixteen years the minor must, on being required to do so, make a declaration in the approved form and, if required, provide a specimen signature.
+
+(4) As long as the minor is under the age of sixteen years, the Director of Savings must only communicate with, accept instructions from, and pay deposits to a person appearing to the Director of Savings to be a person responsible for that minor.
+
+(5) Where the conditions in paragraph (6) are satisfied in relation to an account—
+
+- (a) paragraph (4) does not apply; and
+- (b) paragraph (3) and regulations 8 and 28 have effect as if each reference to “sixteen years” were a reference to “seven years”.
+
+(6) The conditions are that—
+
+- (a) the application to open the account was received by the Director of Savings in the approved form before 28th November 2011; and
+- (b) the minor attained the age of seven years before 21st May 2012.
+
+#### 10. Accounts of persons who lack capacity[^key-2dfebb942a653db6937ad80c27d4b0d4]
+
+(1) A deposit may be made on behalf and in the name of a person who lacks capacity by that person’s deputy.
+
+(2) The declaration in the approved form must be made by the deputy who must specify the capacity in which the deputy acts.
+
+(3) An application to withdraw or transfer deposits held in the name of a person who lacks capacity must be made by that person’s deputy.
+
+(4) Where a depositor is a person who lacks capacity and there is no deputy by whom an application to withdraw or transfer deposits might be made, the Director of Savings may, upon it being shown that it is expedient to do so, pay the deposits to a person the Director of Savings is satisfied is a proper person to receive payment.
+
+#### 11. Joint accounts[^key-eabf59dceaec1b50a98e6778d156d98c]
+
+(1) Subject to paragraph (2), a deposit may be made jointly in the names of two or more persons entitled to make deposits.
+
+(2) No new account may be opened in the names of more than two persons.
+
+(3) A declaration in the approved form must be made by each person in whose name the account is to be opened.
+
+(4) The persons in whose names an account is held or is to be opened may jointly, in the approved form, authorise the Director of Savings to act on an application made by one of those persons to withdraw or transfer deposits, but in the absence of an authorisation an application to withdraw or transfer deposits must be made jointly by all of them or by such of them as have survived.
+
+(5) An authorisation under paragraph (4) is revoked upon the receipt by the Director of—
+
+- (a) an application under paragraph (6); or
+- (b) notice of the following, in relation to the persons in whose names an account is open—
+  - (i) the death of one of them;
+  - (ii) the making of a receiving order against one of them;
+  - (iii) the appointment of a trustee in the bankruptcy of one of them; or
+  - (iv) that one of them becoming a person who lacks capacity whether or not a deputy has been appointed.
+
+(6) Upon application in the approved form by all the persons in whose names the account is held, or by such of them as have survived, the Director of Savings may remove the name of any of those persons from the title of an account.
+
+(7) This regulation does not apply where an account is held jointly in the names of trustees under regulation 12 or jointly in the names of a trustee and a beneficiary under regulation 13.
+
+#### 12. Trust accounts[^key-15c457f572ccbf5a775741c79aac3999]
+
+(1) A deposit may be made in the name of one or more trustees.
+
+(2) A declaration in the approved form must be made by—
+
+- (a) each trustee in whose name an account is to be opened; and
+- (b) each trustee whose name is to be added in the title of an account.
+
+(3) Upon application in the approved form by a sole trustee of an account or, where an account is held in the names of two or more trustees, by all of them or by such of them as have survived, the Director of Savings may—
+
+- (a) add the name of a person as a trustee in the title of an account; or
+- (b) remove the name of a trustee from the title of an account.
+
+(4) Where an account is held in the names of more than one trustee, the trustees may authorise in the approved form, made by all of them or such of them as have survived, the Director of Savings to act on an application made by one of those trustees to withdraw or transfer deposits, but in the absence of an authorisation an application to withdraw or transfer deposits must be made by all of the trustees, or such of them as have survived.
+
+(5) Before giving effect to a multiple trustee application the Director of Savings may require that all the trustees nominate jointly in the approved form no more than two of themselves to—
+
+- (a) make applications to withdraw or transfer deposits; and
+- (b) receive payments or communications from the Director of Savings.
+
+(6) Upon application in the approved form by the trustees (acting jointly), the Director of Savings may substitute a trustee for a trustee nominated under paragraph (5).
+
+(7) In this regulation a “multiple trustee application” means an application—
+
+- (a) to open an account in the names of more than two trustees; or
+- (b) to add the name of a person as a trustee in the title of an account where the account is already held in the names of two or more trustees;
+
+#### 13. Trust accounts held jointly by trustees and beneficiaries[^key-c13fa2b907660cf82b14e07ff1bb9568]
+
+(1) A deposit may be made by one person as trustee for another person as beneficiary jointly in the names of the trustee and the beneficiary, but no new account may be opened under this paragraph.
+
+(2) A declaration in the approved form must be made by the trustee.
+
+(3) An application to withdraw or transfer deposits must be made by the trustee and beneficiary acting jointly or by the survivor of them.
+
+(4) Where the trustee or the beneficiary has become a person who lacks capacity or bankrupt, the Director of Savings may pay the deposits to the other party with or without the agreement of the deputy, Official Receiver or trustee in bankruptcy, if any.
+
+(5) The Director of Savings may, on the application of the trustee or the beneficiary—
+
+- (a) put the account in the name of the beneficiary alone; or
+- (b) substitute the trustee with another trustee, in which case the new trustee must make a declaration in the approved form.
+
+#### 14. Accounts of friendly societies[^key-5bbc8606a413fdcdd51d4bcdfa009b6f]
+
+(1) This regulation applies only in relation to an account opened before 1st January 1990.
+
+(2) A deposit may be made by a friendly society through its trustees either in the name of the society or in the name of the trustees.
+
+(3) The full name of the society must be entered in the title of the account.
+
+(4) The trustees must provide to the Director of Savings—
+
+- (a) a copy of the rules of the society; and
+- (b) an application in the approved form for authority to make deposits, signed by the trustees, which must specify the officers or members of the society who must sign applications to withdraw or transfer deposits.
+
+(5) Where a friendly society is a branch of a larger friendly society, officers or members of the central body or of another branch of that larger society may be specified as persons who must sign applications to withdraw or transfer deposits.
+
+(6) The trustees may, by direction in the approved form, amend their application for authority to make deposits so far as it relates to the specification of the officers or members of the society who must sign applications to withdraw or transfer deposits.
+
+(7) Despite paragraphs (4)(b), (5) and (6), an application to withdraw or transfer deposits may be made by a person recognised by the Director of Savings as entitled to sign the application.
+
+#### 15. Accounts of charitable and other societies[^key-e3bee9ed9c000ac2a35967b6531c0e03]
+
+(1) This regulation applies only in relation to an account opened (a) before 1st January 1990 or (b) after 28th January 2004 by transferring an amount held in an ordinary account to that account.
+
+(2) A deposit may be made by the trustees or treasurer of a charitable society or by the trustees or treasurer of any other society of amounts belonging to a fund, being a fund which the Director of Savings considers appropriate to be deposited in the National Savings Bank.
+
+(3) The trustees or treasurer must provide to the Director of Savings—
+
+- (a) a copy of the rules of the society or, if there are no rules, a statement of the object, constitution and character of the society; and
+- (b) subject to paragraph (5), an application in the approved form for authority to make deposits, signed by the trustees or treasurer, which must specify the officers or members of the society who must sign applications to withdraw or transfer deposits.
+
+(4) Subject to paragraph (5), the trustees or treasurer may, by direction in the approved form, amend their application for authority to make deposits so far as it relates to the specification of the officers or members of the society who must sign applications to withdraw or transfer deposits.
+
+(5) An application to withdraw or transfer deposits may be made by a person recognised by the Director of Savings as entitled to sign the application.
+
+(6) In this regulation “society” includes an unincorporated body of persons.
+
+#### 16. Accounts of building societies, industrial and provident societies and corporations[^key-fa7769d021816b7c7ab4ee1ab548a86f]
+
+(1) This regulation applies only in relation to an account opened before 1st January 1990.
+
+(2) A deposit may be made in the name of—
+
+- (a) a building society within the meaning of the Building Societies Act 1986[^f00014] (or under enactments repealed by that Act);
+- (b) in the name of a society registered under the Industrial and Provident Society Act 1965[^f00015], the Industrial and Provident Societies Act (Northern Ireland) 1969[^f00016] or the Co-operative and Community Benefit Societies and Credit Unions Act 2010[^f00017]; or
+- (c) subject to the approval of the Director of Savings, in the name of any other body corporate or in the name of a corporation sole.
+
+(3) In the case of a corporation sole, a declaration in the approved form must be made by the person constituting the corporation.
+
+(4) An application to withdraw or transfer deposits must be made—
+
+- (a) in the case of a society or other body corporate—
+  - (i) under its seal;
+  - (ii) by the secretary or treasurer; or
+  - (iii) by two of the directors;
+- (b) in the case of a corporation sole, by the person constituting the corporation.
+
+#### 17. Accounts of government departments and public authorities[^key-5270222a949b042b54ef37d767888ba3]
+
+Subject to the approval of the Director of Savings and to any conditions imposed by the Director of Savings—
+
+- (a) a deposit may be made on behalf of a government department or office, or any public authority;
+- (b) deposits (and withdrawals or transfers) must be made by a responsible officer in that person’s official capacity; and
+- (c) the account must be opened in the name of the official title of that officer with any additional description required by the Director of Savings.
+
+#### 18. Accounts of the Sheriff Clerk in Scotland[^key-79b4d727731c7985bc60c42052d583aa]
+
+(1) A deposit may be made in Scotland by the Sheriff Clerk of a Sheriff Court under the authority of any enactment.
+
+(2) An application to open an account must be made in the approved form, signed by the Sheriff Clerk in the presence of a witness.
+
+(3) An application to withdraw or transfer deposits must be signed by the Sheriff Clerk.
+
+(4) Where deposits held in the name of a Sheriff Clerk are transferred into the name of the Sheriff Clerk of another Sheriff Court, the Sheriff Clerk into whose name the deposits are transferred must apply to open an account under paragraph (2).
+
+(5) In this regulation references to the Sheriff Clerk include references to the Sheriff Clerk Depute.
+
+#### 19. Accounts of County Courts in Northern Ireland[^key-58628febcbb58540dcebac77cc60408d]
+
+(1) A deposit may be made in Northern Ireland jointly in the names of a County Court Judge and a Clerk of the Crown and Peace.
+
+(2) An application to open an account must be made in the approved form, signed by the Clerk of the Crown and Peace.
+
+(3) An application to withdraw or transfer deposits must be signed by the Clerk of the Crown and Peace and, except where otherwise authorised by the rules of the Court, must be accompanied by a certified copy of an order of the Court authorising it.
+
+(4) Where deposits held in the name of a County Court Judge and a Clerk of the Crown and Peace are transferred into the names of another County Court Judge and Clerk of the Crown and Peace, the Clerk of the Crown and Peace into whose name the deposits are transferred (jointly with the County Court Judge) must apply to open an account under paragraph (2).
+
+(5) In this regulation references to a County Court Judge include references to a Recorder.
+
+#### 20. Accounts of the Public Trustee[^key-bb240b83ac68c7e11bd6fc6d975e1744]
+
+(1) A deposit may be made by the Public Trustee acting—
+
+- (a) in relation to any estate which the Public Trustee is administering or acting as custodian trustee or as ordinary trustee; or
+- (b) as trustee on behalf of any person.
+
+(2) An application to open an account must be made in the approved form, signed by the Public Trustee or by an officer of the Public Trustee authorised in writing to do so.
+
+(3) The title of each account opened by the Public Trustee must specify the name of the estate or person in relation to which the account is opened, and must include any additional description required by the Director of Savings.
+
+(4) An application to withdraw or transfer deposits, whether held in the name of the Public Trustee alone or jointly with another person, must be signed by the Public Trustee or by an officer of the Public Trustee authorised in writing to do so, and may be signed by the Public Trustee (or authorised officer) alone.
+
+(5) An authority given by the Public Trustee under this regulation must be lodged with the Director of Savings at least 48 hours before any application under the authority is made.
+
+### CHAPTER 3 — Deposits, withdrawals and transfers, etc.
+
+#### 21. Deposit books, transaction records and statements[^key-d8579b74cb0d8994a9614b42a39a6502]
+
+(1) No new deposit books may be issued by the Director of Savings, and no new entries in relation to transactions may be made in deposit books.
+
+(2) A deposit book remains the property of the Director of Savings and must be delivered up when required.
+
+(3) Following any transaction, other than a deposit made by electronic transfer, the Director of Savings must issue promptly to the depositor a statement which confirms the details of the transaction and indicates the balance of the account immediately after the transaction.
+
+(4) The Director of Savings must issue promptly to each depositor—
+
+- (a) an interim statement on request; and
+- (b) an annual statement after 1st January each year.
+
+(5) In this regulation—
+
+- “annual statement” means a statement which—
+  - (a) is for the calendar year ending with 31st December immediately preceding the issue of the statement; and
+  - (b) shows in relation to an account—
+    - (i) interest that has been added;
+    - (ii) all transactions; and
+    - (iii) the balance of the account at the end of that calendar year;
+- “interim statement” means a statement which—
+  - (a) is for the period of less than 12 months beginning with 1st January and ending with the day before the day on which the statement is issued; and
+  - (b) shows in relation to an account—
+    - (i) all transactions; and
+    - (ii) the balance of the account at the end of that period;
+- “transaction”, in relation to a depositor’s account, means any deposit, withdrawal, transfer or repayment.
+
+#### 22. Withdrawals of ordinary deposits[^key-445f40005ca844d96663164498f6ac61]
+
+(1) Subject to regulation 3 (closure of ordinary deposit accounts), this regulation applies to applications to withdraw ordinary deposits.
+
+(2) Subject to paragraph (3), an application to withdraw ordinary deposits may be made without notice at any savings bank office.
+
+(3) Paragraph (2) is subject to the following—
+
+- (a) an application to withdraw may be refused if, as regards a particular office, payment at that office would inconvenience the business of that office;
+- (b) the depositor must attend in person to make the application and must produce the deposit book (if one was issued);
+- (c) the depositor must sign a receipt in the approved form and, if required by the paying officer, make the signature in the paying officer’s presence;
+- (d) the deposit book may be retained by the paying officer for passing to the Director of Savings.
+
+(4) The Director of Savings may direct that this regulation does not apply in relation to any account.
+
+#### 23. Investment deposits[^key-8cd84b8819d52a0816d145d8e4919962][^key-1a67130c3b5eff3d72120da91b74ee07]
+
+(1) This regulation applies to investment deposits.
+
+(2) An investment deposit may be made—
+
+- (a) by cheque, postal order or banker’s draft sent to the principal office of the National Savings Bank; or
+- (b) subject to paragraph (3), by electronic transfer.
+
+(3) The first deposit in an investment account may not be made by electronic transfer without the prior approval of the Director of Savings.
+
+(4) The minimum amount that may be deposited in an investment account is—
+
+- (a) £20 if the deposit is made by cheque, postal order or banker’s draft; or
+- (b) £1 if the deposit is made by electronic transfer.
+
+(5) The minimum balance of deposits required for an account is £1.
+
+(6) The maximum amount of deposits that may be held in the name of a person, whether in one or more than one account, is £1,000,000, and where deposits are held jointly, each person in whose name those deposits are held is to be treated as credited with an equal share of those deposits.
+
+(7) Where deposits are held in the name of one or more trustees, those deposits are to be ignored for the purposes of determining the amount credited to a person for the purpose of paragraph (6).
+
+(8) The maximum amount of deposits that may be held in the name of a trustee, whether solely or jointly with another person, and whether in one or more than one account, is £1,000,000 in relation to each separate trust.
+
+(9) For the purposes of paragraph (8), trusts are to be treated as separate to the extent that they differ as respects—
+
+- (a) the identity of the trustees;
+- (b) the powers of the trustees;
+- (c) the identity of the beneficiaries; or
+- (d) the respective interests of the beneficiaries.
+
+(10) No account may contain investment deposits in excess of £2,000,000.
+
+(11) Paragraphs (5) to (10) do not apply in relation to individual savings accounts.
+
+(12) Paragraphs (5) to (11) do not apply in relation to an investment account of any description for which terms and conditions have been set under section 9A(1) of the 1971 Act[^f00018].
+
+(13) Nothing in paragraphs (6) to (10) operates to prevent—
+
+- (a) the receipt or crediting of an amount allowed to a depositor as interest on deposits;
+- (b) the receipt or crediting of an amount transferred from an investment deposit account of another depositor (in the National Savings Bank) who has died;
+- (c) the crediting of any amount—
+  - (i) by the Director of Savings under regulation 92 of the National Savings (No. 2) Regulations 2015[^f00019]; or
+  - (ii) paid under article 21 of the National Savings Stock Register (Closure of Register to Gilts) Order 1998[^f00020], or an amount received or credited in contravention of article 21 from being treated as having been lawfully received or credited for a period the Director of Savings considers appropriate, provided that—
+    - (aa) at the time the amount was received or credited the Director of Savings was unaware of the contravention; and
+    - (bb) the Director of Savings considers it just and reasonable that the amount be treated in this way;
+- (d) the receipt of an amount for, or the crediting of an amount to, an account of the Accountant General of the Court of Judicature of Northern Ireland;
+- (e) the receipt or crediting of an amount to an individual savings account transferred by an account manager under the 1998 Regulations;
+- (f) the crediting of any amount transferred from an investment deposit account in which it is prohibited to make deposits—
+  - (i) as a result of regulations made under section 8(3)(d) of the 1971 Act[^f00021] (regulations prohibiting the making of deposits in investment accounts of a prescribed description); or
+  - (ii) as a result of terms and conditions set under section 9A(1) of the 1971 Act[^f00022] having equivalent effect.
+
+(14) In calculating for the purposes of this regulation the amount held in the name of a person, the Director of Savings must not take into account a deposit of a trustee on behalf of that person in relation to an account opened under regulation 13 in the joint names of the trustee and that person.
+
+#### 24. Withdrawals of investment deposits[^key-ae8e2c8a097de9e7a8eb812feffce3cc]
+
+(1) This regulation applies to applications to withdraw investment deposits.
+
+(2) The Director of Savings may, if the Director of Savings considers it expedient, dispense with any (or all) requirements in these Regulations in order to—
+
+- (a) vary the procedure for making an application to withdraw;
+- (b) vary the method of making payment; or
+- (c) make payment in any manner the Director of Savings considers appropriate.
+
+(3) An application to withdraw must be made to the principal office of the National Savings Bank in the approved form, and must be signed by the depositor or by a person entitled to make the application.
+
+(4) An application to withdraw may include a request—
+
+- (a) that payment be made to the depositor (or person entitled to receive payment under these Regulations)—
+  - (i) by electronic transfer to an account specified in the application; or
+  - (ii) by crossed warrant; or
+- (b) that any amount payable be used—
+  - (i) to make a deposit in another account in the name of the depositor in the National Savings Bank; or
+  - (ii) to purchase, in the name of the depositor, securities issued under the auspices of the Director of Savings to raise money under section 12 of the National Loans Act 1968[^f00023],
+
+and is to be treated by the Director of Savings as authority to give effect to that request.
+
+(5) The Director of Savings may—
+
+- (a) refuse an application to withdraw to the extent that it relates to a deposit not yet received in cleared funds;
+- (b) limit the number of crossed warrants which may be issued to or under the direction of the same applicant in any calendar year;
+- (c) refuse an application to withdraw where it is for an amount less than a specified amount fixed for this purpose by the Director of Savings; or
+- (d) refuse a request under paragraph 4(b).
+
+(6) An application to withdraw must be accompanied by the deposit book relating to the deposits (if one was issued).
+
+(7) Where an application to withdraw is made by more than one person, the applicants may request that the sum withdrawn be paid to any one or more of them to the exclusion of the others.
+
+(8) In relation to a society or body corporate, an application to withdraw may include a request that the sum withdrawn be paid to any officer of the society or body corporate or, where the society is a branch, to any officer of the central body or of any other branch.
+
+(9) Where, pursuant to an application under paragraph (4)(a), a payment by electronic transfer is initiated—
+
+- (a) a determination of the authority to make the payment does not deprive any person of a full discharge under these Regulations, where the payment is made in the normal course on being initiated;
+- (b) receipt of the payment by the banker or other person with whom the specified account is kept shall be equivalent to receipt by a person entitled to payment of deposits from the investment account concerned.
+
+(10) The death of a person who has made an application to withdraw shall not of itself terminate the authority under paragraph (4), but where the Director of Savings receives notice that the applicant has terminated the authority or has died—
+
+- (a) where payment was requested by crossed warrant, the Director must not issue the warrant; or
+- (b) if a crossed warrant has already been issued, or where payment was requested by electronic transfer, the Director of Savings must take reasonable steps to prevent payment being made.
+
+(11) No application to withdraw may include a request for payment in cash.
+
+#### 25. Deposits to individual savings accounts[^key-eb5745d1635e62f0cad3c32f4956abbd]
+
+(1) An investment deposit may be made to the credit of an individual savings account opened under this regulation.
+
+(2) An individual savings account may be opened by a person who has attained the minimum age for opening that account in accordance with the Individual Savings Account Regulations 1998[^key-ed995dd344d68d8d0f03608eab1c375d] and who—
+
+- (a) is resident in the United Kingdom;
+- (b) though not resident in the United Kingdom, has general earnings from overseas Crown employment subject to United Kingdom tax within the meaning given by section 28 of the Income Tax (Earnings and Pensions) Act 2003[^f00024]; or
+- (c) though not resident in the United Kingdom, is married to, or is a civil partner of, a person to whom paragraph (b) applies.
+
+(3) No deposit may be made to the credit of an individual savings account at any time when the depositor does not fulfil any of the conditions specified in paragraph (2)(a), (b) and (c).
+
+(4) An application to open an individual savings account must be made in the approved form, and the depositor must provide any documents or other information required by the Director of Savings.
+
+(5) A deposit to an individual savings account must be made—
+
+- (a) by cheque sent to the principal office of the National Savings Bank or to any other savings bank office determined by the Director of Savings, accompanied by an application in the approved form;
+- (b) by electronic transfer;
+- (c) by the transfer of an amount under these Regulations from another account in the National Savings Bank; or
+- (d) under instructions given by the authorised telephone procedure.
+
+(6) The minimum deposit to an individual savings account must be £10, but the Director of Savings may accept a lesser amount.
+
+(7)[^key-38c1064952a61759a7b238409a4983e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 26. Withdrawals from individual savings accounts[^key-f2a8a054ef446725793d9974233ab086]
+
+(1) This regulation applies to applications to withdraw deposits from individual savings accounts, and regulation 24 (withdrawals of investment deposits) does not apply to such applications.
+
+(2) The Director of Savings may, if the Director of Savings considers it expedient, dispense with any (or all) requirements in these Regulations in order to—
+
+- (a) vary the procedure for making an application to withdraw;
+- (b) vary the method of making payment; or
+- (c) make payment in any manner the Director of Savings considers appropriate.
+
+(3) An application to withdraw must be made—
+
+- (a) to the principal office of the National Savings Bank in the approved form, signed by the depositor or by a person entitled to make the application; or
+- (b) if payment is to be made to the home bank account or by crossed warrant, by the authorised telephone procedure.
+
+(4) An application to withdraw must request that payment be made to the depositor (or person entitled to make the application)—
+
+- (a) by electronic transfer to a specified account in that depositor’s or person’s name; or
+- (b) by crossed warrant drawn in favour of that depositor or person,
+
+and is to be treated by the Director of Savings as authority to give effect to that request.
+
+(5) The Director of Savings may—
+
+- (a) refuse an application to withdraw to the extent that it relates to a deposit not yet received in cleared funds;
+- (b) limit the number of crossed warrants which may be issued to or under the direction of the same applicant in a calendar year;
+- (c) refuse to issue a crossed warrant where the amount to be withdrawn is less than a specified amount fixed for this purpose by the Director of Savings.
+
+(6) Where, pursuant to an application under paragraph (4)(a), a payment by electronic transfer is initiated—
+
+- (a) a determination of the authority to make the payment shall not deprive any person of a full discharge under these Regulations, where the payment is made in the normal course on being initiated;
+- (b) receipt of the payment by the banker or other person with whom the specified account is kept shall be equivalent to receipt by a person entitled to payment of deposits from the investment account concerned.
+
+(7) The death of a person who has made an application to withdraw shall not of itself terminate the authority under paragraph (4), but where the Director of Savings receives notice that the applicant has terminated the authority or has died—
+
+- (a) where payment was requested by crossed warrant, the Director must not issue the warrant; or
+- (b) if a crossed warrant has already been issued, or where payment was requested by electronic transfer, the Director of Savings must take reasonable steps to prevent payment being made.
+
+(8) No application to withdraw may include a request for payment in cash.
+
+#### 27. Authorised telephone procedure in relation to individual savings accounts[^key-647f6f12305e9ea26c064fbb1ad372e6]
+
+(1) This regulation applies where, in relation to an individual savings account, these Regulations allow the use of the authorised telephone procedure.
+
+(2) The procedure is only be available where a depositor requests this—
+
+- (a) on opening an account; or
+- (b) in the approved form signed by the depositor, delivered to the principal office of the National Savings Bank.
+
+(3) Only the depositor may give telephone instructions.
+
+(4) A request under paragraph (2) may be withdrawn in the approved form, signed by the depositor, delivered to the principal office of the National Savings Bank.
+
+(5) Where a request is made under regulation (2), the depositor must provide to the Director of Savings in the approved form—
+
+- (a) a password, being any combination of letters, or letters and numbers, of the length and character required by the Director of Savings; and
+- (b) additional information of a personal nature relating to the depositor as may be agreed between the depositor and the Director of Savings for the purpose of verifying the depositor’s identity.
+
+(6) The Director of Savings must arrange for the password and additional information to be recorded in an appropriately secure manner, having regard to the purpose for which they are to be used.
+
+(7) The password or additional information may be changed at the depositor’s request, which must be in the approved form (subject to the requirements of paragraph (5)), and the change must be recorded in accordance with paragraph (6).
+
+(8) The telephone instructions must require—
+
+- (a) the calling of an approved number by the depositor; and
+- (b) on connection, taking instructions from the depositor in an approved manner.
+
+(9) The Director of Savings must make reasonable arrangements (having regard to anticipated demand) to enable telephone instructions to be given on the days and between the hours the Director of Savings may approve, but the Director of Savings shall not be liable for any loss or damage arising from the failure of any person to be (or remain) connected for any reason.
+
+(10) Where the Director of Savings is satisfied that a person seeking to give telephone instructions in relation to an individual savings account is the depositor for that account, the Director of Savings must act upon those instructions.
+
+(11) The Director of Savings may make an audio recording of any telephone call in which telephone instructions are likely to be given.
+
+#### 28. Withdrawals by minors over sixteen years of age[^key-9ff309f4326a92c44b70b87adfd01b3e]
+
+An application to withdraw deposits made by or in the name of a minor may be made by that person once they have attained the age of sixteen years.
+
+#### 29. Withdrawals in the case of bankrupt sole depositors[^key-ff879ad6fe2168a99bdb1add59b1758b]
+
+Where it appears to the Director of Savings that—
+
+- (a) a bankruptcy order has been made against a person who is a sole depositor;
+- (b) a trustee has been appointed in the bankruptcy of a sole depositor; or
+- (c) an order for the administration in bankruptcy of the estate of a deceased sole depositor has been made,
+
+the Director of Savings may, on application by the Official Receiver or trustee, pay the deposits held in the name of the depositor to the Official Receiver or trustee.
+
+#### 30. Authority for payment to a third party (not in relation to an individual savings account)[^key-7f6b7035d4d72821c60c1a798cfdc58d]
+
+A depositor, in relation to deposits not in an individual savings account, may, subject to the approval of the Director of Savings, authorise any person to make an application to withdraw deposits, or to receive payment of deposits.
+
+#### 31. Authority for payment to third party from an individual savings account[^key-1b2d05a0e975e075bcd9fd61f010b639]
+
+(1) This regulation applies to payments of deposits from individual savings accounts by crossed warrants (under regulation 26).
+
+(2) The authority for a person other than the person named in a warrant to receive payment must be either—
+
+- (a) a power of attorney duly executed in the presence of a witness; or
+- (b) an authority in the approved form, or a letter, signed in the presence of a person authorised for that purpose by the Director of Savings (but the Director of Savings may dispense with the requirement for a signature).
+
+(3) Where a power of attorney, authority or letter authorises payment to be made to a firm, or to a body corporate or corporation sole, any person who is a member or officer of the firm or body corporate or corporation sole and who is able to demonstrate this to the satisfaction of the Director of Savings may present and receive payment under the warrant.
+
+#### 32. Transfers of deposits[^key-c0de89146f6e1d4ba27c611681dd5aad]
+
+(1) A depositor may apply to transfer deposits held in the depositor’s name—
+
+- (a) into the name of any other depositor; or
+- (b) into an account to be opened in the name of any person entitled to make deposits.
+
+(2) An application to transfer deposits must be made in the approved form and be accompanied by the deposit book relating to the deposits (if one was issued), unless directed otherwise by the Director of Savings.
+
+(3) The Director of Savings may effect the transfer on being satisfied as to the title of the applicant to transfer the deposits.
+
+(4) The death of an applicant shall not of itself terminate the authority for a transfer to be made; but if the Director of Savings receives notice before the transfer is effected that the applicant has died, the transfer must not be made.
+
+(5) In relation to the account of a deceased depositor—
+
+- (a) the legal personal representative of the depositor, or
+- (b) any person entitled to payment under these Regulations of any amount held in the name of the depositor at the time of the depositor’s death,
+
+may apply to transfer the amount into that person’s name or that of another person.
+
+#### 33. Operation of a nomination[^key-9334523e854c379a5691c14c337bfdca]
+
+(1) Subject to paragraph (2), on the death of a nominator the Director of Savings must pay to the amount due to the nominee according to the directions of the nomination.
+
+(2) Paragraph (1) is subject to the following—
+
+- (a) if the nominee is under the age of sixteen years, the Director of Savings must not make a payment to that nominee until the nominee has attained that age; but the Director of Savings may, upon it being shown that it is expedient to do so, pay the amount (or any part of it) to a person who the Director of Savings is satisfied will apply it for the maintenance or otherwise for the benefit of that nominee;
+- (b) if the nominee is a person who lacks capacity and for whom there is no deputy, the Director of Savings may pay the amount (or any part of it) to any person undertaking to maintain the nominee;
+- (c) where it appears to the Director of Savings that the estate of the nominator, apart from the amount nominated, is insufficient—
+  - (i) to meet the funeral expenses, or
+  - (ii) to satisfy any claims of creditors of the nominator of which the Director of Savings has notice (including, in a case where the nominator was domiciled in Scotland, claims under the Succession (Scotland) Act 1964[^f00025] and in relation to jus relicti, jus relictae or legitim),
+
+  the Director of Savings may pay the amount (or any part of it) towards satisfaction of the funeral expenses or any such claims.
+
+(3) Where a person who is a nominee dies after the nominator has died but before the payment of an amount due to that person as nominee has been made, these Regulations apply as if that payment had been made before that person’s death and had been paid into an account with the National Savings Bank in that person’s name.
+
+(4) Where a nominee to whom a payment may be made under this regulation has not attained the age of sixteen years, the nominee’s receipt for the payment is a valid receipt without the signature of any other person, and no rule of law which would, apart from this paragraph, necessitate the signature of another person has effect.
+
+### CHAPTER 4 — Interest on deposits
+
+#### 34. Interest on investment deposits[^key-6f9b5b181a92fbde6b4824372e7fdf95]
+
+(1) This regulation applies to interest on investment deposits.
+
+(2) Interest commences—
+
+- (a) in relation to deposits made before 1st January 1984, on the first day of the month next following the day of deposit; and
+- (b) in any other case, on the day of deposit,
+
+and shall cease on the day preceding the day on which the deposit is withdrawn.
+
+(3) Subject to paragraph (4), interest must be calculated—
+
+- (a) in the case of deposits in an individual savings account, to 5th April in each year; or
+- (b) in any other case, to 31st December in each year,
+
+and in both cases must be added to and become part of the principal.
+
+(4) Interest must not be calculated in the case of an account—
+
+- (a) containing less than £1, on any of that amount; or
+- (b) containing £1 or more, on any amount less than one penny or any multiple of one penny.
+
+(5) A deposit made by electronic transfer is deemed to have been made on the day on which the amount was credited to the account.
+
+(6) A deposit—
+
+- (a) that was a first deposit made under instructions given by telephone before 28th November 2011; or
+- (b) made under instructions given by the authorised telephone procedure (under regulation 27),
+
+is deemed to have been made on the day when the instructions were accepted by the Director of Savings.
+
+(7) A deposit withdrawn in accordance with these Regulations is deemed to have been withdrawn—
+
+- (a) where payment was made by warrant, on the earliest day on which the warrant was payable; or
+- (b) where payment was made by electronic transfer, the day on which the payment would, in the normal course, have been received by the banker or other person with whom the receiving account was kept.
+
+#### 35. Interest on ordinary deposits[^key-1f0234d86dad45660c0411ce62a15bc2]
+
+For the purposes of section 5 of the 1971 Act[^f00026] (interest on ordinary deposits), and without prejudice to section 7 of that Act[^f00027] (withdrawal of deposits), and subject to regulation 3 (closure of ordinary deposit accounts), ordinary deposits withdrawn in accordance with these Regulations shall, where payment is made by warrant, be deemed to have been withdrawn on the date appearing on the warrant, which must be no earlier than the date on which the warrant is posted.
+
+### CHAPTER 5 — Other administrative provisions relating to deposits
+
+#### 36. Coupon deposit books[^key-74fdecf750c1108bc22f473674b09c15]
+
+Where a coupon deposit book containing coupon receipts has, before 1st July 1972, been issued to a depositor, the depositor may apply at a savings bank office for the deposits represented by the coupon receipts to be repaid or credited to a savings bank account.
+
+#### 37. Payment of deposits without an application to withdraw[^key-1440e09e9b238573fae1c2404e9e035a]
+
+(1) In the case of an investment account other than an account for which terms and conditions have been set under section 9A(1) of the 1971 Act[^f00028], or an individual savings account, the Director of Savings may pay deposits to a depositor without having received an application to withdraw, including where—
+
+- (a) the Director of Savings is satisfied that the deposits were not made in accordance with these Regulations;
+- (b) there are reasonable grounds to suspect that the depositor—
+  - (i) has provided false information; or
+  - (ii) has made a deposit in connection with an illegal purpose;
+- (c) a declaration required under these Regulations has not been received within a reasonable period; or
+- (d) the balance of the account is less than the minimum required by regulation 23.
+
+(2) Deposits to which this regulation applies and any interest payable may be paid by any means, including crediting the amount to a different account in the name of the depositor in the National Savings Bank.
+
+#### 38. Exemption from stamp duty[^key-3af58e53c81157f16b6b72d16c7812b8]
+
+No warrant or other order for the payment of deposits in the National Savings Bank, and no power of attorney or other document relating solely to the payment or receipt of that amount, is liable to be charged with stamp duty.
+
+## PART 3 — General provisions
+
+### CHAPTER 1 — Protections
+
+#### 39. Notice of trust not receivable by Director of Savings[^key-11e31dc49bbe42d2475d390c39f012fb]
+
+(1) No notice of a trust can be received by the Director of Savings in relation to a deposit made under these Regulations.
+
+(2) The Director of Savings shall not be affected with a notice of a trust contained in a description of a depositor as a trustee or a declaration in a document relating to an account made for the purposes of these Regulations.
+
+#### 40. Powers of attorney[^key-79d2f20d9bae9e956b01f05611353d13]
+
+(1) Where, under a power of attorney, the donee of the power makes, or joins in making, an application for the transfer or withdrawal of deposits standing in the name of the donor (or in the donor’s name jointly with any other person) the Director of Savings may act according to the application for the purposes of these Regulations.
+
+(2) Despite it appearing—
+
+- (a) from the power of attorney;
+- (b) from any evidence required for the purposes of the power of attorney;
+- (c) from the description of the donor, or
+- (d) otherwise,
+
+that deposits are held on trust, the Director of Savings in making a transfer or payment under paragraph (1) shall not be affected with any notice of the trust.
+
+(3) When a donee, in making an application to withdraw or transfer deposits in accordance with these Regulations, purports to act under a power of attorney, that shall be conclusive evidence for the Director of Savings that the donee is authorised by the power of attorney, unless the Director of Savings has notice otherwise at the time.
+
+#### 41. Indemnity of the Director of Savings and officers[^key-50c08b684ea9374d634bb1e6bf4ed8ee]
+
+(1) The Director of Savings, and any person acting under the Director of Savings’ authority shall not be liable in relation to any payment made or act done in accordance with—
+
+- (a) the 1971 Act;
+- (b) these Regulations; or
+- (c) other regulations made under the 1971 Act,
+
+and any such payment shall be deemed to have been a valid payment.
+
+(2) The Director of Savings shall not be responsible for the misapplication of any amount payable on a warrant by—
+
+- (a) a friendly society, charitable society or other society (including an unincorporated body of persons), body corporate, or corporation sole, or by a trustee, director, officer or representative of any such society, body or corporation;
+- (b) an officer or representative of a government department or public authority; or
+- (c) by a person referred to in regulations 18 to 20,
+
+or anyone authorised by those persons to receive payment.
+
+(3) This regulation is subject to regulation 44 (saving for rights of third parties).
+
+#### 42. Receipts to be a full discharge[^key-d31100b7e85950d9aed9e64e4d87e113]
+
+The receipt of a person to whom an amount is paid in accordance with these Regulations shall be a full discharge to the Treasury and the Director of Savings for that amount.
+
+#### 43. Posting to be regarded as delivery[^key-f28b2a1846dc07d35010f81474d0a239]
+
+The posting of a letter containing a warrant or cash payment advice issued under these Regulations to a person at the last address given by that person to the Director of Savings shall, as regards the liability of the Treasury or the Director of Savings, be equivalent to the delivery of the warrant or cash payment advice to that person.
+
+#### 44. Saving for rights of third parties[^key-70daf0dcda0114cee2cec36a3b6f4028]
+
+(1) Nothing in these Regulations (or in any regulations they revoke) that operates for the protection of the Treasury, the Commissioners, the Director of Savings or the Postmaster General in relation to any payment made or act done shall operate—
+
+- (a) to prevent the recovery by a person (or that person’s representatives), to whom an amount is due by law, of that amount from a person to whom it was paid (or from the representatives of that person) by or under the direction of the Director of Savings or the Postmaster General; or
+- (b) to affect the rights of a person (or that person’s representatives) in relation to a deposit against a third party.
+
+#### 45. Saving for rights of beneficiaries under trusts[^key-73e6564c5b2d89ac7817965a001c2f51]
+
+Nothing in these Regulations relating to a trustee shall, as between trustees or as between a trustee and a beneficiary under a trust, be deemed to authorise a trustee to act otherwise than in accordance with legal requirements applying to the trust and the terms of the instrument (if any) constituting the trust.
+
+### CHAPTER 2 — Identity, etc.
+
+#### 46. Evidence of identity[^key-316944db1da828c09223e229a851bacd]
+
+(1) The Director of Savings may require satisfactory evidence of the following—
+
+- (a) the identity of a person;
+- (b) the title of a person to a deposit, or to money;
+- (c) the authority of a person to apply to withdraw or transfer a deposit;
+- (d) that anything purporting to have been done under these Regulations has been done; or
+- (e) anything else on which the exercise of the Director of Saving’s powers or performance of duties under these Regulations depends,
+
+and the Director of Savings may for the purpose of obtaining the evidence require a statutory declaration to be made.
+
+(2) The Director of Savings may accept as conclusive proof of the death of a depositor any evidence which establishes to the Director of Savings’ satisfaction that the depositor has not been heard of for a period of seven years or more (and, for the purposes of this paragraph, “depositor” includes any person beneficially interested at any time, whether absolutely or contingently, in the personal estate of the deceased).
+
+#### 47. Persons unable to write[^key-bf4336ddfc88dbd431b928ddadb004b5]
+
+Where a document is required by the Director of Savings or by these Regulations to be signed by a person and that person is unable to write, it is sufficient for the document to be marked by that person in the presence of a witness in a manner required by the Director of Savings.
+
+#### 48. Persons under disability[^key-f8909c623f96a2acc13fad9e21165f83]
+
+If any depositor is a person who lacks capacity or is under legal disability for any reason other than age, anything which under these Regulations is required or authorised to be done by or to that person is to be done by or to a deputy or other person having power in law to administer the estate.
+
+### CHAPTER 3 — Nominations
+
+#### 49. Nominations made before 1st May 1981[^key-b5aa0e5c4ea94589b795439436f78cfa]
+
+(1) For the purposes of these Regulations a nomination made after 30th April 1981 has no effect.
+
+(2) A “nomination” means a nomination—
+
+- (a) by a depositor (the “nominator”) who at the time of the nomination had attained the age of sixteen years;
+- (b) that was made before 1st May 1981; and
+- (c) that was accepted and recorded or registered by the Director of Savings,
+
+directing that, on death, the nominator’s interest devolve on one or more persons (the “nominee” or “nominees”) according to the manner specified in the nomination.
+
+(3) In relation to deposits, a nomination made before the coming into force of these Regulations extends to—
+
+- (a) all amounts to which a nominator is entitled at the time of death in relation to a savings bank annuity or insurance; and
+- (b) to deposits held in the name of the nominator,
+
+unless any such amount or deposit is expressly excluded in the nomination.
+
+(4) A person who attested the signature of a nominator of a nomination may not benefit under the nomination.
+
+#### 50. Particulars to be furnished by nominator to Director of savings[^key-73db2068e73b5d03ab55e1e9c54bdc5d]
+
+(1) For the purposes of these Regulations, when a change occurs in relation to an interest to which a nomination relates, the nominator must—
+
+- (a) make the necessary corrections to the particulars in the nomination; and
+- (b) forward the amended nomination to the Director of Savings immediately.
+
+(2) Where, because of the failure of a nominator to comply with paragraph (1), an amount payable under a nomination is paid, or any transfer is made, to a person other than the nominee or a person claiming through the nominee, that payment or transfer shall, subject to regulation 44 (saving for rights of third parties), be as valid as if the nomination had not been made.
+
+#### 51. Revocation of nominations[^key-b5edc4470ec7158d644a424135a05930]
+
+(1) For the purposes of these Regulations, a nomination is revoked—
+
+- (a) on the death of the nominee, or where there is more than one nominee, of all the nominees, in the lifetime of the nominator;
+- (b) so far as it relates to the interest of a nominee where there are two or more nominees, on the death of that nominee in the lifetime of the nominator (unless the interest of that nominee is disposed of by the nomination);
+- (c) on the marriage of or formation of a civil partnership by the nominator;
+- (d) by written notice of revocation given in accordance with this regulation;
+- (e) if a subsequent nomination was made before 1st May 1981 by the same nominator, to the extent that subsequent nomination disposes of either the whole or part of the nominator’s interests that were disposed of by the earlier nomination,
+
+but a nomination cannot be revoked by any other act, event or means.
+
+(2) A notice of revocation of a nomination must—
+
+- (a) be signed by the nominator in the presence of a witness, who must attest the signature of the nominator; and
+- (b) be sent to the Director of Savings during the lifetime of the nominator,
+
+without which it shall be of no effect.
+
+(3) Despite a nomination having been revoked by the marriage of, or formation of a civil partnership by, the nominator, any payment or transfer which—
+
+- (a) is made or registered by the Director of Savings before the marriage or civil partnership is notified to the Director of Savings; and
+- (b) would otherwise have been lawful had the nomination not been revoked,
+
+shall, subject to regulation 44 (saving for rights of third parties), be as valid as if the nomination had not been revoked.
+
+#### 52. Nominations which also apply to stock held in the books of the Bank of England[^key-3afb55cc3f93c8d4e5e28eaaba8230a0]
+
+(1) This regulation applies to a nomination which, under article 18 of the National Savings Stock Register (Closure of Register to Gilts) Order 1998[^f00029], extends to any stock transferred from that register to the books of the Bank of England by article 4 of that Order[^f00030].
+
+(2) A notice of revocation of a nomination under regulation 51, in relation to stock, shall be of no effect unless sent to the Director of Savings or the Registrar of Government Stock during the lifetime of the nominator.
+
+(3) Where the Director of Savings or the Registrar of Government Stock receives a notice of revocation of the nomination, that person must notify and provide a copy of the notice (and reasonable access to the original) to the other.
+
+(4) On receiving a notice (or a copy of a notice) under paragraph (3), the Director of Savings and the Registrar of Government Stock must record the revocation.
+
+(5) Where the Director of Savings or the Registrar of Government Stock is notified of the death of a nominator, that person must notify the other.
+
+### CHAPTER 4 — Death of depositors and holders
+
+#### 53. Law applicable on the death of a depositor[^key-59e881952840cf3ac298cce6aaf0001e]
+
+On the death of a depositor the Director of Savings may make a payment for the purposes of these Regulations in accordance with the law of the place where the depositor or holder resided at the date of death, unless the Director of Savings has received notice in writing that the depositor or holder was at the date of death domiciled elsewhere.
+
+#### 54. Payment without a grant of representation[^key-f56972bd4f5f099a463de0d72e910c9d]
+
+(1) Where, on the death of a depositor the amount held in the depositor’s name does not exceed £5,000 and no probate of the will or letters of administration to the estate are produced to the Director of Savings within what is considered by the Director of Savings to be a reasonable period, the Director of Savings may, for the purposes of these Regulations, pay the amount (or any part of it) in accordance with paragraph (2).
+
+(2) The Director of Savings may pay the amount—
+
+- (a) to a person appearing to the Director of Savings to be entitled to take out probate of the will or letters of administration to the estate;
+- (b) where the deceased has left a will in relation to which the Director of Savings is satisfied that probate or letters of administration would be granted, to a person to whom the amount (or any part of it) would be payable under the will (as appears to the Director of Savings), if probate or letters of administration were granted;
+- (c) to a person who satisfies the Director of Savings of their entitlement to receive the amount (or any part of it), being—
+  - (i) a person who has paid the funeral expenses of the deceased;
+  - (ii) a creditor of the deceased; or
+  - (iii) a person who has a beneficial interest in the estate of the deceased;
+- (d) if the deceased was a British citizen and the next of kin appears to the Director of Savings to reside outside the United Kingdom, the Isle of Man and the Channel Islands, to any officer or authority who, as appears to the Director of Savings, may be entrusted with distributing the amount properly;
+- (e) if the deceased was a seaman of a foreign country, being a country with which a treaty has been made in relation to the payment of money due to seamen, to the consular authority of that country;
+- (f) if the deceased was a foreign subject, not being a seaman to whom sub-paragraph (e) applies, to the consular authority of the country to which the deceased belonged, or to any authority who, as appears to the Director of Savings, may be entrusted with distributing the amount properly;
+- (g) in a case where the estate of the deceased appears to the Director of Savings to have devolved upon the Crown, the Duchy of Lancaster or the Duchy of Cornwall, to the Treasury Solicitor, the Solicitor for the affairs of the Duchy of Lancaster, or the Solicitor for the affairs of the Duchy of Cornwall respectively,
+
+but where a person to whom an amount may be paid under subparagraph (b) or (c) has died before payment, the amount (or any part of it) may be paid to a person to whom it would be paid as if the first mentioned person was, immediately before death, a person in paragraph (1).
+
+(3) Despite any legal requirement to the contrary, a person to whom an amount may be paid under paragraph (2)(b) or (c) (or under the proviso to paragraph (2)) may, if having attained the age of sixteen years, give a receipt for the payment in an approved manner and the receipt shall be valid without the signature of another person; but if that person by reason of age or for any other reason may not accept payment, the Director of Savings may pay the amount to a person who the Director of Savings is satisfied will apply it for the maintenance or otherwise for the benefit of that person.
+
+(4) Subject to paragraph (3), the Director of Savings in making a payment under paragraph (2)(b) or (c) (or under the proviso to paragraph (2)) must have regard to legal requirements relating to the distribution of the estates of deceased persons, but the Director of Savings may depart from those requirements to the extent it is considered by the Director of Savings that they would cause hardship or inconvenience.
+
+(5) In this regulation “will” includes a codicil.
+
+(6) Nothing in this regulation affects the operation of a nomination made under these Regulations.
+
+#### 55. Death duties or inheritance tax chargeable on death of depositors[^key-a8d053cdde500a3af147d35730510dd5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### CHAPTER 5 — Other administrative provisions
+
+#### 56. Defective applications[^key-1db0d42b9338f309c7b63a21a630a204]
+
+The Director of Savings may refuse to accept an application required by these Regulations to be made in the approved form if—
+
+- (a) it does not include the full particulars required for the purposes of the application; or
+- (b) it is not signed by the person making the application.
+
+#### 57. Rectification of mistakes[^key-8ccd3622097657a5dbc6d2a9ce4d66f8]
+
+In the case of an investment account for which terms and conditions have been set under section 9A(1) of the 1971 Act[^f00035], or an individual savings account, where a first or any other deposit is made or received in error, the Director of Savings may return the deposit and cancel all actions taken in relation to it, or may take such other steps as may be necessary to give effect to the intention of the parties.
+
+### CHAPTER 6 — Application, revocation and savings
+
+#### 58. Law applicable to crossed warrants[^key-f7adfaef1bfa91a31bbd364acc637b40]
+
+Section 76(1), (3), (4) and (5) (so far as it relates to crossed cheques) and sections 77(6) and 78 to 81 of the Bills of Exchange Act 1882[^f00036] (which relate to crossed cheques), and sections 3 and 4 of the Cheques Act 1957[^f00037] (which relate to unendorsed cheques as evidence of payment and to the protection of collecting bankers), apply to a crossed warrant issued under these Regulations as if it were a cheque drawn on the Director of Savings by the officer issuing the crossed warrant, but nothing in these Regulations makes a crossed warrant negotiable.
+
+#### 59. Disapplication of certain regulations[^key-0f99dc80ea98eba93d5f3786f390ceae]
+
+(1) Regulations 7 to 9, 11 to 21, 23, 24, 25(5) and (6), 26(3) to (7), 28, 30, 32, 33, 34, 49, 50 and 51 do not apply in relation to an investment account of any description for which terms and conditions have been set pursuant to section 9A(1) of the 1971 Act.
+
+(2) Regulations 7 to 9, 11 to 17, 19, 21, 23, 33, 49, 50, 61 and 62 do not apply to individual savings accounts.
+
+(3)[^key-4374417dc54533ab7035ceea8d90a0d8] Regulations 25(2) and (3), to the extent that they are inconsistent with the 1998 Regulations, do not apply to junior ISA accounts.
+
+#### 60. Application to Scotland[^key-3193ca9783c193d61f717decdca4ab84]
+
+In the application of these Regulations to Scotland—
+
+- (a) a reference to a person who lacks capacity must be construed as a reference to a person who is incapable by reason of mental disorder within the meaning of the Mental Health (Care and Treatment) (Scotland) Act 2003[^f00038] of managing and administering that person’s property and affairs;
+- (b) a reference to a deputy in relation to a person who lacks capacity must be construed as a reference to a curator bonis, guardian, or tutor;
+- (c) a reference to a receiving order must be construed as a reference to an award of sequestration;
+- (d) a reference to the Official Receiver must be constructed as a reference to the trustee or judicial factor in bankruptcy;
+- (e) a reference to probate, letters of administration or letters of administration with the will annexed must be construed as a reference to confirmation of an executor;
+- (f) a reference to the Treasury Solicitor must be construed as a reference to the Queen’s and Lord’s Treasurer’s Remembrancer;
+- (g) a reference to the Chief Registrar of Friendly Societies must be construed as a reference to the Assistant Registrar of Friendly Societies for Scotland.
+
+#### 61. Application to Northern Ireland[^key-795ed85022857295fbc072ab4402dfe0]
+
+In the application of these Regulations to Northern Ireland—
+
+- (a) a reference to a friendly society must be construed as a reference to a friendly society (or a branch of that society) registered or deemed to be registered under the Friendly Societies Act (Northern Ireland) 1970[^f00039];
+- (b) a reference to a person who lacks capacity must be construed as a reference to a person who, by reason of unsoundness of mind, or of mental disorder within the meaning of the Mental Health (Northern Ireland) Order 1986[^f00040], is or is considered incapable of managing that person’s affairs;
+- (c) a reference to a deputy in relation to a person who lacks capacity must be construed as a reference to a controller or other person appointed under the Mental Health (Northern Ireland) Order 1986 (and orders made under that Order) to exercise with respect to the estate of that person powers similar to those of a committee;
+- (d) a reference to a bankruptcy order must be construed as a reference to an order of adjudication of bankruptcy, or to an order in any arrangement operating by virtue of section 349 of the Irish Bankrupt and Insolvent Act 1857[^f00041] to vest a deposit in the Official Assignee alone or jointly with any person;
+- (e) a reference to the Official Receiver must be construed as a reference to the Official Assignee in Bankruptcy;
+- (f) a reference to the Treasury Solicitor must be construed as a reference to the Crown Solicitor for Northern Ireland.
+
+#### 62. Application to the Isle of Man[^key-264a434e05232c9f277c1740958b9b05]
+
+In the application of these Regulations to the Isle of Man—
+
+- (a) a reference to a person who lacks capacity must be construed as a reference to a person who is incapable by reason of mental disorder within the meaning of the Mental Health Act 1998[^f00042] (an Act of Tynwald) of managing and administering that person’s property and affairs;
+- (b) a reference to a deputy in relation to a person who lacks capacity must be construed as a reference to a deputy or other person authorised in that capacity under Part VII of that Act;
+- (c) a reference to the Building Societies Act 1962[^f00043] must be construed as a reference to the Industrial and Building Societies Acts 1892 to 1986 of the Isle of Man[^f00044];
+- (d) a reference to a bankruptcy order must be construed as a reference to a receiving order or an order of adjudication of bankruptcy;
+- (e) a reference to the Treasury Solicitor must be construed as a reference to Her Majesty’s Attorney General of the Isle of Man.
+
+#### 63. Application to the Channel Islands[^key-15e471844335165f1cea408f6cde616c]
+
+(1) In the application of these Regulations to Jersey—
+
+- (a) a reference to a person who lacks capacity must be construed as a reference to a person suffering from mental disorder within the meaning of the Mental Health (Jersey) Law 1969[^f00045];
+- (b) a reference to a deputy in relation to a person who lacks capacity must be construed as a reference to a curator;
+- (c) the reference in regulation 58 to sections 3 and 4 of the Cheques Act 1957 must be construed as references to articles 3 and 4 of the Cheques (Jersey) Law 1957[^f00046];
+- (d) a reference to a bankruptcy order must be construed as a reference to a declaration of “desastre”;
+- (e) a reference to the Official Receiver must be construed as a reference to Her Majesty’s Viscount for Jersey or to an “attourne” appointed in a bankruptcy, as the case may be;
+- (f) a reference to the Treasury Solicitor must be construed as a reference to Her Majesty’s Receiver General for Jersey;
+- (g) a reference to a statutory declaration must be construed as a reference to a declaration on oath before the Bailiff, a Jurat, the Magistrate or a notary public;
+- (h) a nomination made by a depositor domiciled in Jersey of any person to receive an amount due to the depositor at death, shall take effect only as to that portion of the personal estate over which that person had power of testamentary disposition according to the law of Jersey, but a payment made to a nominee without notice of the depositor’s incapacity to dispose of the whole or any portion of the estate nominated shall be a valid payment.
+
+(2) In the application of these Regulations to Guernsey, Alderney and Sark—
+
+- (a) a reference to a person who lacks capacity must be construed as a reference to a person who under any law for the time being in force in any of the Islands of the Bailiwick of Guernsey is a person of unsound mind;
+- (b) a reference to a deputy in relation to a person who lacks capacity must be construed as a reference to a guardian appointed by the Royal Court of Guernsey, the Court of Alderney or the Court of the Seneschal of Sark, as the case may be;
+- (c) a reference to the Treasury Solicitor must be construed as a reference to Her Majesty’s Receiver-General;
+- (d) a reference to a statutory declaration must be construed as a reference to a declaration on oath before a notary public or—
+  - (i) in Guernsey, before the Bailiff or Deputy Bailiff, a Jurat of the Royal Court or the Magistrate;
+  - (ii) in Alderney, before a Jurat of the Court of Alderney;
+  - (iii) in Sark, before the Seneschal;
+- (e) the reference in regulation 58 to section 76(1), (3), (4) and (5) (so far as it relates to crossed cheques) and sections 77(6) and 78 to 81 of the Bills of Exchange Act 1882 must be construed likewise as references to section 75(1), (3), (4) and (5) and sections 76(6) and 77 to 80 of the Bills of Exchange (Guernsey) Law 1958[^f00047], and the reference to sections 3 and 4 of the Cheques Act 1957 must be construed as a reference to sections 83 and 84 of the Bills of Exchange (Guernsey) Law 1958;
+- (f)
+  - (i) in relation to deposits, regulation 29 (withdrawals in the case of bankrupt sole depositors) should be read as if there is substituted—
+
+    > **29.** Where it appears to the Director of Savings that a sole depositor is insolvent, the Director of Savings may pay the deposits held in the name of the depositor to a person the Director of Savings is satisfied is a proper person to receive payment, on application by that person.
+
+    ;
+- (g) a nomination made by a depositor or holder of stock domiciled in the Bailiwick of Guernsey of any person to receive an amount due to the depositor, or any interest in stock held by the holder, at death, shall take effect only as to that portion of the personal estate over which that person had power of testamentary disposition according to the law of the Bailiwick of Guernsey, but a payment made to a nominee without notice of the depositor’s or holder’s incapacity to dispose of the whole or any portion of the estate nominated shall be a valid payment.
+
+#### 64. Revocations and savings[^key-a553b0d9889e7ce9a9f249c80cbc1622]
+
+(1) The instruments listed in the Schedule are revoked.
+
+(2) Anything done under a revoked provision that could have been done under a corresponding provision in these Regulations shall not be invalidated by the revocation, but shall have effect as if done under these Regulations.
+
+(3) These Regulations do not affect the validity of anything done by or in relation to the Postmaster General before 1st October 1969 under previously revoked provisions, and anything which at that date was in process of being done under those provisions by or in relation to the Postmaster General may be continued by or in relation to the Director of Savings.
+
+#### 65. Modifications[^key-c8c2f06392127ab3f5970f7e70a4e9c4]
+
+(1) In section 125(5)(a) of the Finance Act 2009[^f00048] (National Savings ordinary accounts: surplus funds) the reference to regulations 2B to 2BB of the National Savings Bank Regulations 1972[^f00049] should be read as a reference to regulation 3 of these Regulations.
+
+(2) In Schedule 1, paragraph 3 of the Contracting Out (Functions Relating to National Savings) Order 1998[^f00050] the reference to regulations 21(1), (4) and (10) of the National Savings Bank Regulations 1972 should be read as a reference to regulations 24(2), (3) and (4) of these Regulations.
+
+David Evennett
+
+Mark Lancaster
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+10th March 2015
+
+## SCHEDULE — Revocations[^key-1eda032d656dbe01709fb67fa7bd5dc9]
+
+Regulation 64
+
+[^key-1eda032d656dbe01709fb67fa7bd5dc9]
+
+- The Savings Bank Annuities (Tables) Order 1954[^f00051]
+- The Savings Bank Annuities (Tables) Order 1955[^f00052]
+- The Savings Banks (Ordinary Deposits) (Limits) Order 1969[^f00053]
+- The Savings Banks (Ordinary Deposits) (Limits) Order 1969[^f00054]
+- The National Savings Bank Regulations 1972[^f00055]
+- The National Savings Bank (Amendment) Regulations 1974[^f00056]
+- The National Savings Bank (Investment Deposits) (Limits) Order 1977[^f00057]
+- The National Savings Bank (Amendment) Regulations 1978[^f00058]
+- The National Savings Bank (Amendment) Regulations 1980[^f00059]
+- The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 1981[^f00060]
+- The National Savings Bank (Amendment) Regulations 1981[^f00061]
+- The National Savings Bank (Amendment) (No. 3) Regulations 1982[^f00062]
+- The National Savings Bank (Amendment) (No. 4) Regulations 1982[^f00063]
+- The National Savings Bank (Amendment) (No. 2) Regulations 1983[^f00064]
+- The National Savings Bank (Amendment) Regulations 1984[^f00065]
+- The National Savings Bank (Amendment) (No. 2) Regulations 1984[^f00066]
+- The Savings Certificates (Yearly Plan) (Amendment) Regulations 1985[^f00067]
+- The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 1978[^f00068]
+- The Savings Banks (Ordinary Deposits) (Limits) Order 1987[^f00069]
+- The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 1988[^f00070]
+- The National Savings Bank (Amendment) Regulations 1988[^f00071]
+- The National Savings Bank (Amendment) (No. 2) Regulations 1988[^f00072]
+- The National Savings Bank (Amendment) Regulations 1989[^f00073]
+- The National Savings Bank (Amendment) (No. 2) Regulations 1989[^f00074]
+- The National Savings Bank (Amendment) Regulations 1991[^f00075]
+- The National Savings Bank (Amendment) Regulations 1992[^f00076]
+- The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 1993[^f00077]
+- The National Savings Bank (Amendment) Regulations 1993[^f00078]
+- The National Savings Bank (Amendment) Regulations 1996[^f00079]
+- The National Savings Bank (Amendment) (No. 2) Regulations 1996[^f00080]
+- The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 1996[^f00081]
+- The National Savings Bank (Amendment) Regulations 1999[^f00082]
+- The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 1999[^f00083]
+- The National Savings Bank (Amendment) (No. 2) Regulations 1999[^f00084]
+- The National Savings Bank (Investment Deposits) (Limits) (Amendment) (No. 2) Order 1999[^f00085]
+- The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 2000[^f00086]
+- The National Savings Bank (Amendment) Regulations 2001[^f00087]
+- [^key-abd404584244ec5f8589a40af9a8dc4a]...
+- The National Savings Bank (Amendment) Regulations 2003[^f00089]
+- The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004[^f00090]
+- The National Savings Bank (Amendment) Regulations 2006[^f00091]
+- The National Savings Bank (Amendment) Regulations 2007[^f00092]
+- The National Savings Bank (Amendment) Regulations 2008[^f00093]
+- The National Savings Bank (Amendment) (No. 2) Regulations 2008[^f00094]
+- The National Savings Bank (Amendment) (No. 3) Regulations 2008[^f00095]
+- The National Savings Bank (Amendment) (No. 4) Regulations 2008[^f00096]
+- The National Savings Bank (Amendment) Regulations 2011[^f00097]
+- The National Savings Bank (Amendment) (No. 2) Regulations 2011[^f00098]
+- The National Savings Bank (Amendment) Regulations 2013[^f00099]
+- The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 2014[^f00100]
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The National Savings Bank Act 1971 (“the 1971 Act”) and the National Debt Act 1972 (“the 1972 Act”) create the current statutory framework for the operation of the National Savings and Investment Bank and the Director of Savings. The Director of Savings, a statutory office-holder, carries on the business of the National Savings Bank under section 1 of the 1971 Act, principally providing a range of investment accounts which are subject to the 1971 Act and secondary legislation made under that Act (now consolidated in these Regulations). Under section 11 of the 1972 Act the Treasury raises money under the National Loans Act 1968 under the auspices of the Director of Savings. Section 1(1) of the 1972 Act provides that the Treasury may appoint a person to be Director of Savings and “the functions of the Director shall include those conferred on him by this Act”. The Director raises money, therefore, by issuing products such as Premium Bonds.
+
+These Regulations consolidate the secondary legislation that governs the operation of the National Savings Bank made under the National Savings Bank Act 1971, including the National Savings Bank Regulations 1972.
+
+The National Savings (No. 2) Regulations 2015 which were laid contemporaneously with these Regulations consolidate the secondary legislation that governs the operation of the National Savings Bank made under the National Debt Act 1972, following a separate Parliamentary procedure.
+
+Part 3 of these Regulations, and Part 6 of the National Savings (No. 2) Regulations 2015, contain provisions common to both sets of Regulations.
+
+The intention in the drafting of these Regulations is to consolidate the existing secondary legislation with necessary minor amendments, whilst revoking the spent and other instruments set out in the Schedule.
+
+A full impact assessment has not been produced for this instrument as no impact on the costs of business or the voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1971 c. 29](https://www.legislation.gov.uk/ukpga/1971/29); section 2 was amended by the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), section 184(1) and the Trustee Savings Bank Act [1985 (c. 58)](https://www.legislation.gov.uk/ukpga/1985/58) sections 4(3), 7(3) and Schedule 4; section 3(2) was amended by the Finance Act [1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39), section 151, Schedule 20, paragraph 2; section 4 was amended by the Finance Act [1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39), section 151, Schedule 20, paragraph 3 and the Finance Act [2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), section 152(1); section 6(1) was amended by the Finance Act [1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39), section 151, Schedule 20, paragraph 5; section 8 was amended by the Finance Act [1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39), section 151, Schedule 2, paragraph 1 and Schedule 20, paragraph 1, and the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), section 208(1), (8), (9) and (10); section 9(1) was amended by [SI 1984/539](https://www.legislation.gov.uk/uksi/1984/539).
+
+[^f00002]: Footnote: [1962 c. 44](https://www.legislation.gov.uk/ukpga/1962/44).
+
+[^f00003]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8); section 427 amended by [S.I. 2014/892](https://www.legislation.gov.uk/uksi/2014/892).
+
+[^f00004]: Footnote: [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23).
+
+[^key-580e2680181eb2baf94b89bb6f23d5a2]: Commencement: Reg. 1 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-d8d4ef8845ffdf7e526c381e9ea9c1f3]: Commencement: Reg. 2 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^f00005]: Footnote: [1971 c. 29](https://www.legislation.gov.uk/ukpga/1971/29).
+
+[^f00006]: Footnote: [S.I. 1998/1870](https://www.legislation.gov.uk/uksi/1998/1870).
+
+[^f00007]: Footnote: [1939 c. 117](https://www.legislation.gov.uk/ukpga/1939/117); repealed by the National Loans Act [1968 (c. 13)](https://www.legislation.gov.uk/ukpga/1968/13) section 24(4), Schedule 6, Part I, reference retained to cover any outstanding bonds issued under the repealed provision.
+
+[^f00008]: Footnote: [1968 c. 13](https://www.legislation.gov.uk/ukpga/1968/13); section 1 was amended by the Finance Act [1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39) sections 152(1) and 152(2) and the Postal Services Act [2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5) section 91(1), (2), Schedule 12, Part 3, paragraph 8.8(a) and (b).
+
+[^f00009]: Footnote: [1974 c. 46](https://www.legislation.gov.uk/ukpga/1974/46).
+
+[^f00010]: Footnote: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40).
+
+[^key-f27ffa9a287b3958e74c7a49be1328ea]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/623/regulation/2) inserted (15.8.2017) by [The National Savings (Amendment) Regulations 2017 (S.I. 2017/787)](https://www.legislation.gov.uk/uksi/2017/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/787/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/787/regulation/2/2)
+
+[^f00011]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
+
+[^f00012]: Footnote: [1968 c. 13](https://www.legislation.gov.uk/ukpga/1968/13).
+
+[^key-6f7773f848e382e3bc0236fc1904acf5]: Commencement: Reg. 3 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-20081170bf944eeb4b24045489debf85]: Commencement: Reg. 4 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^f00013]: Footnote: Section 9A was inserted by the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), section 208(11).
+
+[^key-2177c9f833237b0b3dba4fcaf2b39fd6]: Commencement: Reg. 5 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-2c8d1dcc93e20487bb5c27d9442e1658]: Commencement: Reg. 6 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-8afeda73917b3a1d7e3a3d97e6a6e957]: Commencement: Reg. 7 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-2e66ae7348a6ddb245f6301ca9a86879]: Commencement: Reg. 8 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-ce319fb9f21442eb4ab62d6e02c2fe42]: Commencement: Reg. 9 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-2dfebb942a653db6937ad80c27d4b0d4]: Commencement: Reg. 10 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-eabf59dceaec1b50a98e6778d156d98c]: Commencement: Reg. 11 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-15c457f572ccbf5a775741c79aac3999]: Commencement: Reg. 12 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-c13fa2b907660cf82b14e07ff1bb9568]: Commencement: Reg. 13 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-5bbc8606a413fdcdd51d4bcdfa009b6f]: Commencement: Reg. 14 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-e3bee9ed9c000ac2a35967b6531c0e03]: Commencement: Reg. 15 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-fa7769d021816b7c7ab4ee1ab548a86f]: Commencement: Reg. 16 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^f00014]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
+
+[^f00015]: Footnote: [1965 c.12](https://www.legislation.gov.uk/ukpga/1965/12).
+
+[^f00016]: Footnote: [1969 c.24](https://www.legislation.gov.uk/ukpga/1969/24).
+
+[^f00017]: Footnote: [2010 c. 7](https://www.legislation.gov.uk/ukpga/2010/7).
+
+[^key-5270222a949b042b54ef37d767888ba3]: Commencement: Reg. 17 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-79b4d727731c7985bc60c42052d583aa]: Commencement: Reg. 18 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-58628febcbb58540dcebac77cc60408d]: Commencement: Reg. 19 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-bb240b83ac68c7e11bd6fc6d975e1744]: Commencement: Reg. 20 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-d8579b74cb0d8994a9614b42a39a6502]: Commencement: Reg. 21 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-445f40005ca844d96663164498f6ac61]: Commencement: Reg. 22 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-8cd84b8819d52a0816d145d8e4919962]: Commencement: Reg. 23 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-1a67130c3b5eff3d72120da91b74ee07]: Modification: [Reg. 23](https://www.legislation.gov.uk/uksi/2015/623/regulation/23) modified (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [42(6)](https://www.legislation.gov.uk/uksi/2015/624/regulation/42/6), [59(4)](https://www.legislation.gov.uk/uksi/2015/624/regulation/59/4)
+
+[^f00018]: Footnote: Section 9A was inserted by the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), section 208(11).
+
+[^f00019]: Footnote: [S.I. 2015/624](https://www.legislation.gov.uk/uksi/2015/624).
+
+[^f00020]: Footnote: [S.I. 1998/1446](https://www.legislation.gov.uk/uksi/1998/1446).
+
+[^f00021]: Footnote: Section 8(3) was inserted by the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), sections 208(1), (8) and (10).
+
+[^f00022]: Footnote: Section 9A was inserted by the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), section 208(11).
+
+[^key-ae8e2c8a097de9e7a8eb812feffce3cc]: Commencement: Reg. 24 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^f00023]: Footnote: [1968 c. 13](https://www.legislation.gov.uk/ukpga/1968/13); section 12 was amended by the Finance Act [1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39) sections 152(1) and 152(2) and the Postal Services Act [2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5) section 91(1), (2), Schedule 12, Part 3, paragraph 8.8(a) and (b).
+
+[^key-eb5745d1635e62f0cad3c32f4956abbd]: Commencement: Reg. 25 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-ed995dd344d68d8d0f03608eab1c375d]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/uksi/2015/623/regulation/25/2) substituted (6.4.2026) by [The National Savings (Amendment) Regulations 2026 (S.I. 2026/266)](https://www.legislation.gov.uk/uksi/2026/266), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/266/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/266/regulation/2/2/a)
+
+[^f00024]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1); no relevant amendments.
+
+[^key-38c1064952a61759a7b238409a4983e3]: Textual amendment: [Reg. 25(7)](https://www.legislation.gov.uk/uksi/2015/623/regulation/25/7) omitted (6.4.2026) by virtue of [The National Savings (Amendment) Regulations 2026 (S.I. 2026/266)](https://www.legislation.gov.uk/uksi/2026/266), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/266/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/266/regulation/2/2/b)
+
+[^key-f2a8a054ef446725793d9974233ab086]: Commencement: Reg. 26 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-647f6f12305e9ea26c064fbb1ad372e6]: Commencement: Reg. 27 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-9ff309f4326a92c44b70b87adfd01b3e]: Commencement: Reg. 28 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-ff879ad6fe2168a99bdb1add59b1758b]: Commencement: Reg. 29 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-7f6b7035d4d72821c60c1a798cfdc58d]: Commencement: Reg. 30 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-1b2d05a0e975e075bcd9fd61f010b639]: Commencement: Reg. 31 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-c0de89146f6e1d4ba27c611681dd5aad]: Commencement: Reg. 32 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-9334523e854c379a5691c14c337bfdca]: Commencement: Reg. 33 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^f00025]: Footnote: [1964 c. 41](https://www.legislation.gov.uk/ukpga/1964/41).
+
+[^key-6f9b5b181a92fbde6b4824372e7fdf95]: Commencement: Reg. 34 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-1f0234d86dad45660c0411ce62a15bc2]: Commencement: Reg. 35 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^f00026]: Footnote: Section 5 was amended by the Finance Act [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26) sections 184(2) to (4), 187, Schedule 17, Part XIII.
+
+[^f00027]: Footnote: Section 7 was amended by the Finance Act [1982 c. 39](https://www.legislation.gov.uk/ukpga/1982/39) section 151, Schedule 20, paragraph 6.
+
+[^key-74fdecf750c1108bc22f473674b09c15]: Commencement: Reg. 36 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-1440e09e9b238573fae1c2404e9e035a]: Commencement: Reg. 37 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^f00028]: Footnote: Section 9A was inserted by the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), section 208(11).
+
+[^key-3af58e53c81157f16b6b72d16c7812b8]: Commencement: Reg. 38 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-11e31dc49bbe42d2475d390c39f012fb]: Commencement: Reg. 39 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-79d2f20d9bae9e956b01f05611353d13]: Commencement: Reg. 40 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-50c08b684ea9374d634bb1e6bf4ed8ee]: Commencement: Reg. 41 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-d31100b7e85950d9aed9e64e4d87e113]: Commencement: Reg. 42 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-f28b2a1846dc07d35010f81474d0a239]: Commencement: Reg. 43 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-70daf0dcda0114cee2cec36a3b6f4028]: Commencement: Reg. 44 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-73e6564c5b2d89ac7817965a001c2f51]: Commencement: Reg. 45 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-316944db1da828c09223e229a851bacd]: Commencement: Reg. 46 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-bf4336ddfc88dbd431b928ddadb004b5]: Commencement: Reg. 47 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-f8909c623f96a2acc13fad9e21165f83]: Commencement: Reg. 48 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-b5aa0e5c4ea94589b795439436f78cfa]: Commencement: Reg. 49 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-73db2068e73b5d03ab55e1e9c54bdc5d]: Commencement: Reg. 50 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-b5edc4470ec7158d644a424135a05930]: Commencement: Reg. 51 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-3afb55cc3f93c8d4e5e28eaaba8230a0]: Commencement: Reg. 52 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^f00029]: Footnote: [S.I. 1998/1446](https://www.legislation.gov.uk/uksi/1998/1446); article 18 was amended by [S.I. 2004/1662](https://www.legislation.gov.uk/uksi/2004/1662).
+
+[^f00030]: Footnote: There have been no relevant amendments to article 4.
+
+[^key-59e881952840cf3ac298cce6aaf0001e]: Commencement: Reg. 53 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-f56972bd4f5f099a463de0d72e910c9d]: Commencement: Reg. 54 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-a8d053cdde500a3af147d35730510dd5]: Textual amendment: [Reg. 55](https://www.legislation.gov.uk/uksi/2015/623/regulation/55) omitted (20.3.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 62(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/62/1)
+
+[^key-1db0d42b9338f309c7b63a21a630a204]: Commencement: Reg. 56 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-8ccd3622097657a5dbc6d2a9ce4d66f8]: Commencement: Reg. 57 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^f00035]: Footnote: Section 9A was inserted by the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), section 208(11).
+
+[^key-f7adfaef1bfa91a31bbd364acc637b40]: Commencement: Reg. 58 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^f00036]: Footnote: [1882 c. 61](https://www.legislation.gov.uk/ukpga/1882/61); section 80 was amended by the Cheques Act [1992 (c. 32)](https://www.legislation.gov.uk/ukpga/1992/32), section 2.
+
+[^f00037]: Footnote: [1957 c. 36](https://www.legislation.gov.uk/ukpga/1957/36).
+
+[^key-0f99dc80ea98eba93d5f3786f390ceae]: Commencement: Reg. 59 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-4374417dc54533ab7035ceea8d90a0d8]: Textual amendment: [Reg. 59(3)](https://www.legislation.gov.uk/uksi/2015/623/regulation/59/3) inserted (15.8.2017) by [The National Savings (Amendment) Regulations 2017 (S.I. 2017/787)](https://www.legislation.gov.uk/uksi/2017/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/787/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/787/regulation/2/3)
+
+[^key-3193ca9783c193d61f717decdca4ab84]: Commencement: Reg. 60 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^f00038]: Footnote: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13).
+
+[^key-795ed85022857295fbc072ab4402dfe0]: Commencement: Reg. 61 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^f00039]: Footnote: [1970 c. 31 (N.I.)](https://www.legislation.gov.uk/apni/1970/31).
+
+[^f00040]: Footnote: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595).
+
+[^f00041]: Footnote: [SR (N.I.) 1991/364](https://www.legislation.gov.uk/nisr/1991/364).
+
+[^key-264a434e05232c9f277c1740958b9b05]: Commencement: Reg. 62 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^f00042]: Footnote: AT 8 of 1998.
+
+[^f00043]: Footnote: [1962 c. 37](https://www.legislation.gov.uk/ukpga/1962/37).
+
+[^f00044]: Footnote: AT 6 of 1892, AT 4 of 1928, AT 3 of 1953, AT 6 of 1955, AT 16 of 1979 and AT 7 of 1986.
+
+[^key-15e471844335165f1cea408f6cde616c]: Commencement: Reg. 63 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^f00045]: Footnote: Law 18 of 1969.
+
+[^f00046]: Footnote: Law 2 of 1958.
+
+[^f00047]: Footnote: Ordres en conseil Vol. XVII, p.384.
+
+[^key-a553b0d9889e7ce9a9f249c80cbc1622]: Commencement: Reg. 64 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^key-c8c2f06392127ab3f5970f7e70a4e9c4]: Commencement: Reg. 65 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^f00048]: Footnote: [2009 c. 10](https://www.legislation.gov.uk/ukpga/2009/10).
+
+[^f00049]: Footnote: [S.I. 1972/764](https://www.legislation.gov.uk/uksi/1972/764).
+
+[^f00050]: Footnote: [S.I. 1998/1449](https://www.legislation.gov.uk/uksi/1998/1449).
+
+[^key-1eda032d656dbe01709fb67fa7bd5dc9]: Commencement: Sch. in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+
+[^f00051]: Footnote: [S.I. 1954/1578](https://www.legislation.gov.uk/uksi/1954/1578).
+
+[^f00052]: Footnote: [S.I. 1955/419](https://www.legislation.gov.uk/uksi/1955/419).
+
+[^f00053]: Footnote: [S.I. 1969/939](https://www.legislation.gov.uk/uksi/1969/939).
+
+[^f00054]: Footnote: [S.I. 1969/1699](https://www.legislation.gov.uk/uksi/1969/1699).
+
+[^f00055]: Footnote: [S.I. 1972/764](https://www.legislation.gov.uk/uksi/1972/764).
+
+[^f00056]: Footnote: [S.I. 1974/553](https://www.legislation.gov.uk/uksi/1974/553).
+
+[^f00057]: Footnote: [S.I. 1977/1210](https://www.legislation.gov.uk/uksi/1977/1210).
+
+[^f00058]: Footnote: [S.I. 1978/888](https://www.legislation.gov.uk/uksi/1978/888).
+
+[^f00059]: Footnote: [S.I. 1980/619](https://www.legislation.gov.uk/uksi/1980/619).
+
+[^f00060]: Footnote: [S.I. 1981/108](https://www.legislation.gov.uk/uksi/1981/108).
+
+[^f00061]: Footnote: [S.I. 1981/484](https://www.legislation.gov.uk/uksi/1981/484).
+
+[^f00062]: Footnote: [S.I. 1982/1282](https://www.legislation.gov.uk/uksi/1982/1282).
+
+[^f00063]: Footnote: [S.I. 1982/1762](https://www.legislation.gov.uk/uksi/1982/1762).
+
+[^f00064]: Footnote: [S.I. 1983/1750](https://www.legislation.gov.uk/uksi/1983/1750).
+
+[^f00065]: Footnote: [S.I. 1984/9](https://www.legislation.gov.uk/uksi/1984/9).
+
+[^f00066]: Footnote: [S.I. 1985/1035](https://www.legislation.gov.uk/uksi/1985/1035).
+
+[^f00067]: Footnote: [S.I. 1986/2001](https://www.legislation.gov.uk/uksi/1986/2001).
+
+[^f00068]: Footnote: [S.I. 1987/329](https://www.legislation.gov.uk/uksi/1987/329).
+
+[^f00069]: Footnote: [S.I. 1987/330](https://www.legislation.gov.uk/uksi/1987/330).
+
+[^f00070]: Footnote: [S.I. 1988/1030](https://www.legislation.gov.uk/uksi/1988/1030).
+
+[^f00071]: Footnote: [S.I. 1988/1166](https://www.legislation.gov.uk/uksi/1988/1166).
+
+[^f00072]: Footnote: [S.I. 1988/2144](https://www.legislation.gov.uk/uksi/1988/2144).
+
+[^f00073]: Footnote: [S.I. 1989/25](https://www.legislation.gov.uk/uksi/1989/25)
+
+[^f00074]: Footnote: [S.I. 1989/2045](https://www.legislation.gov.uk/uksi/1989/2045)
+
+[^f00075]: Footnote: [S.I. 1991/72](https://www.legislation.gov.uk/uksi/1991/72)
+
+[^f00076]: Footnote: [S.I. 1992/2892](https://www.legislation.gov.uk/uksi/1992/2892)
+
+[^f00077]: Footnote: [S.I. 1993/1239](https://www.legislation.gov.uk/uksi/1993/1239)
+
+[^f00078]: Footnote: [S.I. 1993/3130](https://www.legislation.gov.uk/uksi/1993/3130)
+
+[^f00079]: Footnote: [S.I. 1996/801](https://www.legislation.gov.uk/uksi/1996/801)
+
+[^f00080]: Footnote: [S.I. 1996/1724](https://www.legislation.gov.uk/uksi/1996/1724)
+
+[^f00081]: Footnote: [S.I. 1996/1854](https://www.legislation.gov.uk/uksi/1996/1854)
+
+[^f00082]: Footnote: [S.I. 1999/588](https://www.legislation.gov.uk/uksi/1999/588)
+
+[^f00083]: Footnote: [S.I. 1999/1056](https://www.legislation.gov.uk/uksi/1999/1056)
+
+[^f00084]: Footnote: [S.I. 1999/1611](https://www.legislation.gov.uk/uksi/1999/1611)
+
+[^f00085]: Footnote: [S.I. 1999/2060](https://www.legislation.gov.uk/uksi/1999/2060)
+
+[^f00086]: Footnote: [S.I. 2000/1421](https://www.legislation.gov.uk/uksi/2000/1421)
+
+[^f00087]: Footnote: [S.I 2001/858](https://www.legislation.gov.uk/uksi/2001/885)
+
+[^key-abd404584244ec5f8589a40af9a8dc4a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2015/623/schedule) omitted (4.5.2016) by virtue of [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 37(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/37/2), [41(1)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/1)
+
+[^f00089]: Footnote: [S.I. 2003/2895](https://www.legislation.gov.uk/uksi/2003/2895)
+
+[^f00090]: Footnote: [S.I. 2004/1662](https://www.legislation.gov.uk/uksi/2004/1662)
+
+[^f00091]: Footnote: [S.I. 2006/1066](https://www.legislation.gov.uk/uksi/2006/1066)
+
+[^f00092]: Footnote: [S.I. 2007/1265](https://www.legislation.gov.uk/uksi/2007/1265)
+
+[^f00093]: Footnote: [S,I. 2008/734](https://www.legislation.gov.uk/uksi/2008/734)
+
+[^f00094]: Footnote: [S.I. 2008/1142](https://www.legislation.gov.uk/uksi/2008/1142)
+
+[^f00095]: Footnote: [S.I. 2008/1164](https://www.legislation.gov.uk/uksi/2008/1164)
+
+[^f00096]: Footnote: [S.I. 2008/3098](https://www.legislation.gov.uk/uksi/2008/3098)
+
+[^f00097]: Footnote: [S.I. 2011/783](https://www.legislation.gov.uk/uksi/2011/783)
+
+[^f00098]: Footnote: [S.I. 2011/2288](https://www.legislation.gov.uk/uksi/2011/2288)
+
+[^f00099]: Footnote: [S.I. 2013/8](https://www.legislation.gov.uk/uksi/2013/8)
+
+[^f00100]: Footnote: [S.I. 2014/484](https://www.legislation.gov.uk/uksi/2014/484)

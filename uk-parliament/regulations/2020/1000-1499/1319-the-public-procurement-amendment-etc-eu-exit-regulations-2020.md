@@ -1,0 +1,649 @@
+---
+title: The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020
+id: uksi/2020/1319
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-11-19'
+text_date: '2025-02-24'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2020/1319
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/1319/pdfs/uksiem_20201319_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1319/pdfs/uksi_20201319_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1319/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020
+
+> Text as at 2025-02-24.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2020 No. 1319
+
+Exiting The European Union
+
+Public Procurement
+
+The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020
+
+Made
+
+19th November 2020
+
+Coming into force in accordance with regulation 1
+
+The Minister for the Cabinet Office makes these Regulations in exercise of the powers conferred by sections 8(1) and 8B(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018[^f00001].
+
+In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## PART 1 — GENERAL
+
+### 1. Citation, commencement, extent and transitional etc. provision[^key-37bd607586ff578c43c1df91d06284cf]
+
+(1) These Regulations may be cited as the Public Procurement (Amendment etc.) (EU Exit) Regulations 2020.
+
+(2) Except for regulations 2, 7, 9, 11 and 26, these Regulations come into force on IP completion day.
+
+(3) Regulation 2 comes into force on the day after the day on which these Regulations are made.
+
+(4) Regulations 7, 9, 11 and 26 come into force 12 months after the day on which IP completion day falls.
+
+(5) Regulation 23 does not extend to Scotland.
+
+(6) The Schedule—
+
+- (a) makes provision in relation to procurements that are ongoing on IP completion day, including provision—
+  - (i) disapplying in relation to such procurements certain amendments etc. made or to be made (whether by these Regulations or otherwise) in relation to public procurement;
+  - (ii) modifying various references in certain regulations that apply to such procurements;
+- (b) makes other savings in relation to certain provisions of these Regulations.
+
+### 2. Revocation of superseded EU exit regulations[^key-abe51e4709530316acba963d41c74d93]
+
+The following are revoked—
+
+- (a) the Public Procurement (Amendment etc.) (EU Exit) Regulations 2019[^f00002];
+- (b) the Public Procurement (Amendment etc.) (EU Exit) (No. 2) Regulations 2019[^f00003].
+
+## PART 2 — AMENDMENT OF PRIMARY LEGISLATION
+
+### 3. The Greater London Authority Act 1999[^key-99de301a762f486858224da80a3386ee]
+
+(1) The Greater London Authority Act 1999[^f00004] is amended as follows.
+
+(2) In section 355 (duties of waste collection authorities etc.), in subsection (8)—
+
+- (a) in paragraph (b)—
+  - (i) for “sends” substitute “submits”;
+  - (ii) for “Publications Office of the European Union” substitute “UK e-notification service”;
+- (b) in paragraph (c), for “sends” substitute “submits”.
+
+(3) In section 356 (directions by the Mayor), in subsection (3A)(b)—
+
+- (a) for “sent” substitute “submitted”;
+- (b) for “Publications Office of the European Union” substitute “UK e-notification service”.
+
+(4) In section 358 (information about new waste contracts)—
+
+- (a) in subsection (1ZA)(a)—
+  - (i) for “send” substitute “submit”;
+  - (ii) for “Publications Office of the European Union” substitute “UK e-notification service”;
+- (b) in subsection (1A), in the words before paragraph (a) and in paragraph (a), for “send” substitute “submit”;
+- (c) in subsection (1BA)—
+  - (i) in paragraph (a), for “send” substitute “submit”;
+  - (ii) in paragraph (b)—
+    - (aa) for “send” substitute “submit”;
+    - (bb) for “Publications Office of the European Union” substitute “UK e-notification service”;
+- (d) in subsection (1C), in the words before paragraph (a) and in paragraph (a), for “send” substitute “submit”.
+
+(5) In section 360 (interpretation of sections 353 to 359), in subsection (2), after the definition of “treatment” insert—
+
+> - “the UK e-notification service” has the same meaning as in the Public Procurement Regulations
+
+.
+
+### 4. The Equality Act 2010[^key-aa53938af24aed2e795a249a807fff7a]
+
+(1) The Equality Act 2010[^f00005] is amended as follows.
+
+(2) In section 155 (power to impose specific duties: supplementary)—
+
+- (a) in subsection (2), for “Public Sector Directive” substitute “Public Contracts Regulations”;
+- (b) in subsection (3), for the definitions substitute—
+
+  > - “Public Contracts Regulations” means the Public Contracts Regulations 2015 ([S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102)) or, in Scotland, the Public Contracts (Scotland) Regulations 2015 ([S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446)), as amended from time to time;
+  > - “public procurement functions” means functions the exercise of which is regulated by Part 2 of the Public Contracts Regulations 2015 ([S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102)) or by the Public Contracts (Scotland) Regulations 2015 ([S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446)), as amended from time to time.”
+
+  .
+
+### 5. The Public Services (Social Value) Act 2012[^key-adc47eeee19855b7bdf8eff3891bd6aa]
+
+(1) The Public Services (Social Value) Act 2012[^f00006] is amended as follows.
+
+(2) In section 1 (contracts of relevant authorities)—
+
+- (a) in subsection (2)(a), for “sending a notice to the Publications Office of the European Union” substitute “submitting a notice to the UK e-notification service”;
+- (b) in subsection (15), after the definition of “sub-central contracting authority” insert—
+
+  > - “the UK e-notification service” has the same meaning as in the Regulations (whether or not the Regulations apply)
+
+  .
+
+## PART 3 — AMENDMENT OF SECONDARY LEGISLATION
+
+### CHAPTER 1 — THE PUBLIC CONTRACTS REGULATIONS 2015
+
+#### 6. Amendments commenced on IP completion day[^key-918ef8b7644b5c9ad00f5d2640bc11ac]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7. Amendments commenced 12 months after IP completion day[^key-918ef8b7644b5c9ad00f5d2640bc11ac]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### CHAPTER 2 — THE CONCESSION CONTRACTS REGULATIONS 2016
+
+#### 8. Amendments commenced on IP completion day[^key-918ef8b7644b5c9ad00f5d2640bc11ac]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9. Amendment commenced 12 months after IP completion day[^key-918ef8b7644b5c9ad00f5d2640bc11ac]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### CHAPTER 3 — THE UTILITIES CONTRACTS REGULATIONS 2016
+
+#### 10. Amendments commenced on IP completion day[^key-918ef8b7644b5c9ad00f5d2640bc11ac]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 11. Amendments commenced 12 months after IP completion day[^key-918ef8b7644b5c9ad00f5d2640bc11ac]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### CHAPTER 4 — AMENDMENT OF OTHER SUBORDINATE LEGISLATION
+
+#### 12. The Public Contracts Regulations 2006[^key-bbda080bcde06aeefa023504cb648bd6]
+
+(1) To the extent that the Public Contracts Regulations 2006[^f00018] (“the 2006 Regulations”) continue to have prospective effect, their effect is modified as follows.
+
+(2) The 2006 Regulations have prospective effect as if the following were omitted—
+
+- (a) regulation 14(2) (which requires certain reports to be supplied to the European Commission on request);
+- (b) regulation 32(16) (which provides for the provision of certain reports requested by the European Commission);
+- (c) regulation 40(2) (which requires certain information to be provided for the European Commission).
+
+(3) Where—
+
+- (a) immediately before IP completion day, a procurement has been commenced,
+- (b) on or after IP completion day, a contract is awarded or any other act is done, pursuant to that procurement, and
+- (c) that award or other act would, if it had occurred before IP completion day, have been covered by an exemption from requirements of the 2006 Regulations by virtue of any provision in those Regulations,
+
+that award or other act is covered by that exemption on and after IP completion day regardless of whether the terms used to define that exemption in the 2006 Regulations would otherwise have been apt to continue to achieve that effect on and after IP completion day.
+
+#### 13. The Utilities Contracts Regulations 2006[^key-68ef9685befaa40bf1338c096a3c7179]
+
+(1) To the extent that the Utilities Contracts Regulations 2006[^f00019] (“the 2006 Regulations”) continue to have prospective effect, their effect is modified as follows.
+
+(2) The 2006 Regulations have prospective effect as if—
+
+- (a) regulation 7(7) (which relates to information requested by the European Commission) were omitted;
+- (b) in regulation 8(3) (which provides for certain information to be sent to or for the European Commission)—
+  - (i) in sub-paragraph (a), the words from “5,000,000 euro” in the words before sub-paragraph (i) to the end of paragraph (xiii) read “£4,101,850, submit, within 48 days of the award, a contract award notice to the UK e-notification service for publication, containing the information referred to in regulation 70(2)(a) of the Utilities Contracts Regulations 2016”;
+  - (ii) in sub-paragraph (b)—
+    - (aa) “400,000 euro” read “£328,150”;
+    - (bb) “5,000,000 euro” read “£4,101,850”;
+    - (cc) paragraph (ii) read as follows—
+
+      > - (ii) if the Minister requests that information in relation to any such contract, forthwith send it to the Minister;
+
+      ;
+- (c) regulation 38(2) (which provides for the provision of certain reports requested by the European Commission) were omitted.
+
+(3) Where—
+
+- (a) immediately before IP completion day, a procurement has been commenced,
+- (b) on or after IP completion day, a contract is awarded or any other act is done, pursuant to that procurement, and
+- (c) that award or other act would, if it had occurred before IP completion day, have been covered by an exemption from requirements of the 2006 Regulations by virtue of any provision in those Regulations,
+
+that award or other act is covered by that exemption on and after IP completion day regardless of whether the terms used to define that exemption in the 2006 Regulations would otherwise have been apt to continue to achieve that effect on and after IP completion day.
+
+#### 14. The Service Charges (Consultation Requirements) (England) Regulations 2003[^key-93c9890b7babacbce73612b1bc302f9c]
+
+(1) The Service Charges (Consultation Requirements) (England) Regulations 2003[^f00020] are amended as follows.
+
+(2) In regulation 2 (interpretation), in paragraph (1), in the definition of “public notice”, for the words from “published” to the end substitute “published, pursuant to the Public Contracts Regulations 2015, on the UK e-notification service (as defined by those Regulations)”.
+
+#### 15. The Provision of Services Regulations 2009[^key-951b5f5744108815c6d20e16405e4348]
+
+(1) The Provision of Services Regulations 2009[^f00021] are amended as follows.
+
+(2) In regulation 31 (certificates and other documents), in paragraph (5)(g), omit “(read with regulation 58(5))”.
+
+#### 16. The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013[^key-349d30bc723b8acf2d4ad9f4f87ad3b9]
+
+(1) The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013[^f00022] are amended as follows.
+
+(2) In Schedule 2 (application of the Utilities Contracts Regulations 2016), in Part 1, in the entry relating to regulation 99 (information and documentation requirements), in the second column—
+
+- (a) for ““the Commission”, in the first place it occurs,” substitute ““the Minister for the Cabinet Office” in sub-paragraph (a)”;
+- (b) for “, in the second place it occurs,” substitute “as if the subsequent reference to “the Minister” in sub-paragraph (a)”;
+- (c) for “(3), (8) and (9)” substitute “(3) and (7)(b) and (c).”
+
+## PART 4 — AMENDMENT OF ASSIMILATED DIRECT LEGISLATION[^key-1aa6dc54d50def5fceff8e3574efd737]
+
+### 17. Annex 16 to the EEA Agreement[^key-cffc4db8ec85c7a225b95e7ca8966ac6]
+
+In Annex 16 to the EEA Agreement, omit point 6g (application of Commission Implementing Regulation (EU) 2015/1986).
+
+### 18. Regulation 2195/2002 of the European Parliament and of the Council[^key-f6a45cd689a4f5dad3eb1b4e7315bc8c]
+
+(1) Regulation 2195/2002 of the European Parliament and of the Council of 5th November 2002 on the Common Procurement Vocabulary (CPV) is amended as follows.
+
+(2) For Articles 2 and 3 substitute the following—
+
+> **Article 2**
+>
+> **1.** The Minister for the Cabinet Office may make regulations amending the Annexes to this Regulation.
+>
+> **2.** Regulations under this Article are to be made by statutory instrument.
+>
+> **3.** A statutory instrument containing regulations under this Article is subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> **4.** Regulations under this Article may make consequential, supplementary, incidental, transitional, transitory or saving provision.
+
+.
+
+(3) In Article 4, omit the second paragraph.
+
+### 19. Commission [Decision 2006/211/EC](https://www.legislation.gov.uk/european/decision/2006/0211)[^key-66b161866dc53cb8dc43ad8d9f763cb6]
+
+(1) Commission [Decision 2006/211/EC](https://www.legislation.gov.uk/european/decision/2006/0211) of 8th March 2006 establishing that Article 30(1) of [Directive 2004/17/EC](https://www.legislation.gov.uk/european/directive/2004/0017) of the European Parliament and of the Council coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors applies to electricity generation in England, Scotland and Wales is amended as follows.
+
+(2) In Article 1, for “[Directive 2004/17/EC](https://www.legislation.gov.uk/european/directive/2004/0017)” substitute “the Utilities Contracts Regulations 2016 and the Utilities Contracts (Scotland) Regulations 2016[^f00023]”.
+
+(3) Omit Articles 2 and 3.
+
+### 20. Commission [Decision 2007/141/EC](https://www.legislation.gov.uk/european/decision/2007/0141)[^key-7a4bb9f3c55de40c5b423315b28da5e8]
+
+(1) Commission [Decision 2007/141/EC](https://www.legislation.gov.uk/european/decision/2007/0141) of 26th February 2007 establishing that Article 30(1) of [Directive 2004/17/EC](https://www.legislation.gov.uk/european/directive/2004/0017) of the European Parliament and of the Council coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors applies to the supply of electricity and gas in England, Scotland and Wales is amended as follows.
+
+(2) In Article 1, for “[Directive 2004/17/EC](https://www.legislation.gov.uk/european/directive/2004/0017)” substitute “the Utilities Contracts Regulations 2016 and the Utilities Contracts (Scotland) Regulations 2016”.
+
+(3) Omit Articles 2 and 3.
+
+### 21. Commission [Decision 2010/192/EU](https://www.legislation.gov.uk/european/decision/2010/0192)[^key-f573a344b2d1d90500bd6ffb1cad942f]
+
+(1) Commission [Decision 2010/192/EU](https://www.legislation.gov.uk/european/decision/2010/0192) of 29th March 2010 exempting exploration for and exploitation of oil and gas in England, Scotland and Wales from the application of [Directive 2004/17/EC](https://www.legislation.gov.uk/european/directive/2004/0017) of the European Parliament and of the Council coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors is amended as follows.
+
+(2) In Article 1, for “[Directive 2004/17/EC](https://www.legislation.gov.uk/european/directive/2004/0017)” substitute “the Utilities Contracts Regulations 2016 and the Utilities Contracts (Scotland) Regulations 2016”.
+
+(3) Omit Article 2.
+
+### 22. Commission Implementing Regulation (EU) 2015/1986[^key-e0f6e9d97ee7606730a53b9b63f152ea]
+
+Commission Implementing Regulation (EU) No 2015/1986 of 11th November 2015 establishing standard forms for the publication of notices in the field of public procurement and repealing Implementing Regulation (EU) No 842/2011 is revoked.
+
+### 23. Commission Implementing Regulation (EU) 2016/7[^key-039acd8b864511bb8d528a24b29e93b6]
+
+*Extent: E+W+N.I.*
+
+(1) Commission Implementing Regulation (EU) No 2016/7 of 5th January 2016 establishing the standard form for the European Single Procurement Document is amended as follows.
+
+(2) In Article 1—
+
+- (a) for the words from the beginning to “2016, the” substitute “The”;
+- (b) for “European single procurement document” substitute “Single Procurement Document”;
+- (c) for “Article 59 of [Directive 2014/24/EU](https://www.legislation.gov.uk/european/directive/2014/0024)” substitute “regulation 59 of the Public Contracts Regulations 2006”.
+
+### 24. Commission Implementing Decision (EU) 2017/1870[^key-f478f32deb5850240c90686dd5e8cc28]
+
+(1) Commission Implementing Decision (EU) 2017/1870 of 16th October 2017 on the publication of the reference of the European standard on electronic invoicing and the list of its syntaxes pursuant to [Directive 2014/55/EU](https://www.legislation.gov.uk/european/directive/2014/0055) of the European Parliament and of the Council is amended as follows.
+
+(2) After Article 1 insert—
+
+> **Article 1A**
+>
+> **1.** The Minister for the Cabinet Office may make regulations—
+>
+> - (a) amending Article 1 so as to substitute—
+>   - (i) a reference to a different standard;
+>   - (ii) a different reference to the same standard;
+> - (b) amending Article 1 and the Annex so as to substitute, add or remove references to syntaxes.
+>
+> **2.** Regulations under this Article are to be made by statutory instrument.
+>
+> **3.** A statutory instrument containing regulations under this Article is subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> **4.** Regulations under this Article may make consequential, supplementary, incidental, transitional, transitory or saving provision.
+
+.
+
+(3) Omit Article 2.
+
+(4) In the Annex, for “3(2) of [Directive 2014/55/EU](https://www.legislation.gov.uk/european/directive/2014/0055)” substitute “1”.
+
+## PART 5 — CESSATION OF RIGHTS ETC.
+
+### 25. Cessation of certain prohibitions on the grounds of nationality[^key-177b15335135ac4af9beb4a22fda9c3e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26. Cessation of rights etc. under certain international agreements[^key-a27e041d641a060a2e77aac14e74dc64]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Julia Lopez
+
+Parliamentary Secretary
+
+Cabinet Office
+
+19th November 2020
+
+## SCHEDULE — TRANSITIONAL ETC. PROVISION
+
+Regulation 1(6)
+
+### PART 1 — INTERPRETATION
+
+#### 1. Interpretation of Schedule[^key-e0fd8e0b7a69b4368a6e8a62c6828889]
+
+(1) In this Schedule—
+
+- “amendment” includes modification and revocation;
+- “the Procurement Regulations” means the following and, in relation to any procedure, means whichever of the following applies to that procedure—
+  - (a) the Public Contracts Regulations 2006;
+  - (b) the Utilities Contracts Regulations 2006;
+  - (c) the Public Contracts Regulations 2015;
+  - (d) the Concession Contracts Regulations 2016;
+  - (e) the Utilities Contracts Regulations 2016;
+- “the second commencement date” is defined by paragraph 10;
+- “steady state amendments” is defined by paragraph 2.
+
+(2) In this Schedule, the following have the same meaning as in the Procurement Regulations—
+
+- (a) contracting authority;
+- (b) design contest;
+- (c) dynamic purchasing system;
+- (d) economic operator;
+- (e) framework agreement;
+- (f) notice on the existence of a qualification system;
+- (g) periodic indicative notice;
+- (h) prior information notice;
+- (i) utility;
+- (j) voluntary transparency notice.
+
+(3) None of the savings in this Schedule implies any limitation of the scope of any of the other savings in this Schedule[^f00045].
+
+### PART 2 — PROCUREMENTS PENDING ETC. ON IP COMPLETION DAY
+
+#### 2. Meaning of “steady state amendments”[^key-7a27569b151b194f75073a2160eea9d7]
+
+In this Part, “steady state amendments” means—
+
+- (a) amendments made by these Regulations; and
+- (b) any other amendments, including future amendments, to the Procurement Regulations that—
+  - (i) come into force on, or begin to apply from, IP completion day or any time after IP completion day; and
+  - (ii) are not made by or under any of sections 7A, 7B, 7C, 8B and 8C of the European Union (Withdrawal) Act 2018[^f00046].
+
+#### 3. Saving for procedures launched, but not finalised, before IP completion day[^key-31d757474effa541bbc5777caae18491]
+
+(1) Steady state amendments do not affect any procedure launched by a contracting authority or a utility under the Procurement Regulations if the procedure —
+
+- (a) was launched before IP completion day, and
+- (b) was not yet finalised by IP completion day.
+
+(2) But regulation 61 (recourse to e-Certis) of the Public Contracts Regulations 2015 (which is omitted by regulation 6(42) of these Regulations) ceases to be saved at the beginning of the day that is 9 months after the day on which IP completion day falls.
+
+Meaning of ‘procedure’
+
+(3) In sub-paragraph (1), “procedure” includes—
+
+- (a) a procedure using a dynamic purchasing system;
+- (b) a procedure for which the call for competition takes the form of—
+  - (i) a prior information notice;
+  - (ii) a periodic indicative notice; or
+  - (iii) a notice on the existence of a qualification system.
+
+Meaning of ‘launched’
+
+(4) For the purposes of sub-paragraph (1), a procedure is launched—
+
+- (a) when a call for competition or any other invitation to submit applications has been made in accordance with the Procurement Regulations;
+- (b) where the Procurement Regulations do not require such a call or invitation, when the contracting authority or utility contacted economic operators in relation to the specific procedure.
+
+Meaning of ‘finalised’
+
+(5) For the purposes of sub-paragraph (1), a procedure is finalised—
+
+- (a) upon publication of a contract award notice in accordance with the Procurement Regulations;
+- (b) where the Procurement Regulations do not require the publication of such a notice, upon conclusion of the relevant contract;
+- (c) where the contracting authority or utility decided not to award a contract, upon informing the tenderers, or persons otherwise entitled to submit applications, of the reasons why the contract was not awarded.
+
+#### 4. Saving for call-off procedures under certain framework agreements[^key-302556e678791ed66e876f17bc896974]
+
+(1) If the condition in sub-paragraph (2) is met, steady state amendments do not affect any procedure relating to the performance of a framework agreement, including the award of contracts based on such an agreement, under—
+
+- (a) regulation 33(4) to (11) of the Public Contracts Regulations 2015;
+- (b) regulation 51(4) to (6) of the Utilities Contracts Regulations 2016.
+
+(2) The condition is that the framework agreement—
+
+- (a) was concluded before IP completion day and had neither expired nor been terminated before IP completion day; or
+- (b) was concluded after IP completion day in accordance with a procedure to which paragraph 3 applied.
+
+#### 5. Transitional modification of the Procurement Regulations[^key-606dcc3d92f4343660da44fec531d0b2]
+
+(1) In relation to a procedure to which paragraph 3 or 4 applies, the Procurement Regulations are to be read, on and after IP completion day, and so far as the context permits or requires, as if—
+
+- (a) any reference (however expressed) to a member State or EEA state included the United Kingdom;
+- (b) any reference (however expressed) to—
+  - (i) EU law;
+  - (ii) any particular EU Treaty or any part of it;
+  - (iii) any EU instrument, or other document of an EU entity or of the EU, or any part of any such instrument or document;
+  - (iv) any part of EU law not falling within sub-paragraph (ii) or (iii);
+  - (v) any tax, duty, levy or interests of the EU, or
+  - (vi) any arrangements involving, or otherwise relating to, the EU of a kind not falling within sub-paragraph (i), (ii), (iii), (iv) or (v),
+
+  were a reference to any such thing (including any such thing as may have existed previously) so far as it is applicable to and in the United Kingdom by virtue of the relevant withdrawal provisions;
+- (c) any reference (however expressed) to the area of the EU or of the EEA included the United Kingdom;
+- (d) any reference (however expressed) to a citizen of the EU or a national of the EEA included a United Kingdom national (within the meaning given by Article 2(d) of the withdrawal agreement);
+- (e) any reference to an enforceable EU obligation were a reference to an obligation that is enforceable by virtue of section 7A or 7B of the European Union (Withdrawal) Act 2018; and
+- (f) such other modifications were made as are necessary for any purpose of the relevant withdrawal provisions and are capable of being ascertained from any such purpose or otherwise from those provisions.
+
+(2) In sub-paragraph (1), “relevant withdrawal provisions” means—
+
+- (a) Title 8 of Part 3 of the withdrawal agreement (ongoing public procurement and similar procedures);
+- (b) Title 5 of Part 3 of the EEA EFTA separation agreement (ongoing public procurement and similar procedures).
+
+### PART 3 — PROVISIONS COMMENCED ON IP COMPLETION DAY
+
+#### 6. Procurement involving contracting authorities or utilities from other member States[^key-95143fe4f617249bcfdf7635198c4abb]
+
+(1) This paragraph applies in relation to the omission, by these Regulations, of—
+
+- (a) regulation 39 of the Public Contracts Regulations 2015 (procurement involving contracting authorities from other member States);
+- (b) regulation 57 of the Utilities Contracts Regulations 2016 (procurement involving utilities from other member States).
+
+(2) Those omissions do not imply—
+
+- (a) any prohibition of the activities authorised by the omitted regulations (which activities might, accordingly, be carried on to any extent that would have been lawful if the omitted regulations had never existed); or
+- (b) that any matters provided for in those regulations are necessarily to have a different effect unless so required by applicable law (including rules for resolving any conflicts between the laws of different jurisdictions).
+
+#### 7. Saving of implied power to terminate contracts[^key-8a9382262cb8bf0b871c7f193a65e0ee]
+
+(1) This paragraph applies where—
+
+- (a) a contract was awarded before IP completion day; and
+- (b) immediately before IP completion day, the contract contained a power—
+  - (i) implied by regulation 73(3) of the Public Contracts Regulations 2015 to terminate the contract on the ground mentioned in regulation 73(1)(c) of those Regulations;
+  - (ii) implied by regulation 44(3) of the Concession Contracts Regulations 2016 to terminate the contract on the ground mentioned in regulation 44(1)(c) of those Regulations; or
+  - (iii) implied by regulation 89(3) of the Utilities Contracts Regulations 2016 to terminate the contract on the ground mentioned in regulation 89(1)(c) of those Regulations.
+
+(2) On and after IP completion day, that power continues despite the omission, by these Regulations, of regulation 73(1)(c), 44(1)(c) or 89(1)(c), as the case may be.
+
+#### 8. Saving of regulation 60(2) of the Concession Contracts Regulations 2016[^key-5e9021f79114449891d2d0ed0251fbe3]
+
+The amendment made by these Regulations to regulation 60(2) of the Concession Contracts Regulations 2016 (application of the first ground of ineffectiveness) does not apply where the contract referred to in regulation 60(2) was awarded before IP completion day.
+
+#### 9. Saving in relation to voluntary transparency notices[^key-bcbd95e6fe494cb1d5267f4cf0b986d9]
+
+(1) This paragraph applies in relation to the amendments made by these Regulations to—
+
+- (a) regulation 99(3) and (4) of the Public Contracts Regulations 2015;
+- (b) regulation 114(3) and (4) of the Utilities Contracts Regulations 2016;
+- (c) regulation 60(3) and (4) of the Concession Contracts Regulations 2016.
+
+(2) Those amendments do not apply in relation to a voluntary transparency notice that was published in the Official Journal of the European Union if the notice was sent, before IP completion day, to be so published.
+
+### PART 4 — PROVISIONS COMMENCED 12 MONTHS AFTER IP COMPLETION DAY
+
+#### 10. Saving in relation to procurements commenced before regulations 7, 9 and 11 come into force[^key-4b17b208362219508e3b85a615419da7]
+
+The amendments made by regulations 7, 9 and 11 do not affect any procurement commenced before the date on which those amendments come into force (“the second commencement date”).
+
+**11.**[^key-f1f79853a482f34d9cd791ea82c1a2a3] For the purposes of this Part, a procurement has been commenced before the second commencement date if, before that date—
+
+- (a) a notice has been sent to the UK e-notification service in accordance with applicable Procurement Regulations in order to—
+  - (i) invite offers or requests to be selected to tender for or to negotiate in respect of a proposed contract, framework agreement or dynamic purchasing system; or
+  - (ii) publicise an intention to hold a design contest;
+- (b) the contracting authority or utility has had published any form of advertisement seeking offers or expressions of interest in a proposed contract, framework agreement or dynamic purchasing system; or
+- (c) the contracting authority or utility has contacted any economic operator in order to—
+  - (i) seek expressions of interest or offers in respect of a proposed contract, framework agreement or dynamic purchasing system; or
+  - (ii) respond to an unsolicited expression of interest or offer received from that economic operator in relation to a proposed contract, framework agreement or dynamic purchasing system.
+
+**12.**[^key-6c5afdce2bfdf50249ec458ee91bf520] For the purposes of this Part, a procurement covers the whole of the procedures which stem from that commencement.
+
+**13.**[^key-bbc1eb6f0089073cc2a66ca9122ce6ca] Accordingly, for example, if a contract notice in relation to a proposed framework agreement under the Public Contracts Regulations 2015 has, before the second commencement date, been sent as described in paragraph 11(a), paragraph 10 applies to the award of any contracts based on that framework agreement regardless of whether the relevant specific procedure for the award of any such contract under regulation 33(7) to (11) of the Public Contracts Regulations 2015 had itself been commenced before the second commencement date.
+
+**14.**[^key-5fef7da54a759c6348b8d903a97f15fa] Procedures taken for the purpose of modifying a contract or framework agreement are not to be regarded, for the purposes of paragraph 12, as stemming from the commencement of the procurement from which the award of that contract or framework agreement had itself stemmed.
+
+**15.**[^key-95e1c4365e3e9a7c103e2a76045cb22d] A procedure commenced as described in paragraph 11(a)(i), (b) or (c) is not to be regarded, for the purposes of paragraph 11, as stemming from the commencement of any design contest that had previously been held in relation to the subject-matter of the procurement.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and replace the Public Procurement (Amendment etc.) (EU Exit) Regulations 2019 ([S.I. 2019/560](https://www.legislation.gov.uk/uksi/2019/560) – “the first exit SI”) and the Public Procurement (Amendment etc.) (EU Exit) (No. 2) Regulation 2019 ([S.I. 2019/623](https://www.legislation.gov.uk/uksi/2019/623) – “the second exit SI”) which amended the first exit SI. As a result, the revoked Regulations will not come into force.
+
+These Regulations are made partly in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) (“the 2018 Act”) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under paragraphs (a), (b), (d), (e), (f) and (g) of section 8(2)) arising from the withdrawal of the UK from the European Union. Many of the provisions in these Regulations are unchanged from the first exit SI (as amended by the second exit SI), but additional deficiencies are addressed and some of the original provisions are changed.
+
+These Regulations make amendments in the field of public procurement. Part 2 amends primary legislation. Part 3 amends subordinate legislation. In particular, Chapters 1, 2 and 3 of Part 3 amend the Public Contracts Regulations 2015 ([S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102)), the Concession Contracts Regulations 2016 ([S.I. 2016/273](https://www.legislation.gov.uk/uksi/2016/273)) and the Utilities Contracts Regulations 2016 (S.I 2016/274), respectively, and Chapter 4 amends other subordinate legislation. Part 4 amends, and in one case revokes, retained direct EU legislation. Part 5 provides for certain rights etc. derived from certain international agreements to cease.
+
+These Regulations are also made partly in exercise of the powers conferred by section 8B(1) of the 2018 Act in order to implement Title 8 (ongoing public procurement and similar procedures) of Part 3 of the withdrawal agreement and the corresponding Title 5 of Part 3 of the EEA EFTA separation agreement[^f00047]. In particular, the Schedule to these Regulations differs markedly from the Schedule to the first exit SI in providing for procedures that are ongoing on IP completion day to continue without being subject to any substantive changes in the procurement rules applicable to them. The Schedule also contains various other savings that are unconnected with those agreements.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); section 8 was amended, and section 8B was inserted, by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), sections 27 and 18 respectively.
+
+[^key-37bd607586ff578c43c1df91d06284cf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-abe51e4709530316acba963d41c74d93]: Commencement: Reg. 2 in force at 20.11.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/3)
+
+[^f00002]: Footnote: [S.I. 2019/560](https://www.legislation.gov.uk/uksi/2019/560). Those Regulations, which are prospectively amended by the other Regulations that are also revoked by this paragraph, are not yet in force and, by virtue of this revocation, will never come into force. As modified by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), Schedule 5, paragraph 1(1), the provisions of those Regulations would have come into force on IP completion day (or in some cases after IP completion day) but are wholly superseded by the provision made by these Regulations.
+
+[^f00003]: Footnote: [S.I. 2019/623](https://www.legislation.gov.uk/uksi/2019/623), modified by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), Schedule 5, paragraph 1(1).
+
+[^key-99de301a762f486858224da80a3386ee]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1319/regulation/3) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^f00004]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29); sections 355(8), 356(3A) and 358(1ZA) and (1BA) were inserted by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102) and amended by [S.I. 2016/275](https://www.legislation.gov.uk/uksi/2016/275); section 358(1A) and (1C) were respectively substituted and inserted by the Greater London Authority Act [2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), section 39(1) to (3) and amended by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102).
+
+[^key-aa53938af24aed2e795a249a807fff7a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1319/regulation/4) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^f00005]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15); section 155(3) was amended by [S.I. 2016/275](https://www.legislation.gov.uk/uksi/2016/275).
+
+[^key-adc47eeee19855b7bdf8eff3891bd6aa]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1319/regulation/5) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^f00006]: Footnote: [2012 c. 3](https://www.legislation.gov.uk/ukpga/2012/3); section 1(2)(a) was amended by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102); in section 1(15), the definition of “sub-central contracting authority” was inserted by [S.I. 2016/275](https://www.legislation.gov.uk/uksi/2016/275).
+
+[^key-918ef8b7644b5c9ad00f5d2640bc11ac]: Textual amendment: [Regs. 6-11](https://www.legislation.gov.uk/uksi/2020/1319/regulation/6) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+
+[^key-bbda080bcde06aeefa023504cb648bd6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/1319/regulation/12) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^f00018]: Footnote: [S.I. 2006/5](https://www.legislation.gov.uk/uksi/2006/5). The Regulations were revoked by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102) but subject to savings. Before being revoked, the Regulations had been amended by [S.I. 2007/3542](https://www.legislation.gov.uk/uksi/2007/3542), [2008/2256](https://www.legislation.gov.uk/uksi/2008/2256), [2683](https://www.legislation.gov.uk/uksi/2008/2683), [2848](https://www.legislation.gov.uk/uksi/2008/2848), [2009/1307](https://www.legislation.gov.uk/uksi/2009/1307), [2992](https://www.legislation.gov.uk/uksi/2009/2992), [2010/133](https://www.legislation.gov.uk/uksi/2010/133), [976](https://www.legislation.gov.uk/uksi/2010/976), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [1848](https://www.legislation.gov.uk/uksi/2011/1848), [2053](https://www.legislation.gov.uk/uksi/2011/2053), [2581](https://www.legislation.gov.uk/uksi/2011/2581), [3058](https://www.legislation.gov.uk/uksi/2011/3058), [2013/252](https://www.legislation.gov.uk/uksi/2013/252), [1431](https://www.legislation.gov.uk/uksi/2013/1431), [2014/834](https://www.legislation.gov.uk/uksi/2014/834) and by the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), Schedule 20, paragraph 2.
+
+[^key-68ef9685befaa40bf1338c096a3c7179]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1319/regulation/13) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^f00019]: Footnote: [S.I. 2006/6](https://www.legislation.gov.uk/uksi/2006/6). The Regulations were revoked by [S.I. 2016/274](https://www.legislation.gov.uk/uksi/2016/274) but subject to savings. Before being revoked, the Regulations had been amended by [S.I. 2007/2157](https://www.legislation.gov.uk/uksi/2007/2157), [3542](https://www.legislation.gov.uk/uksi/2007/3542), [2008/2256](https://www.legislation.gov.uk/uksi/2008/2256), [2848](https://www.legislation.gov.uk/uksi/2008/2848), [2009/3100](https://www.legislation.gov.uk/uksi/2009/3100), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [1441](https://www.legislation.gov.uk/uksi/2011/1441), [2053](https://www.legislation.gov.uk/uksi/2011/2053), [1848](https://www.legislation.gov.uk/uksi/2011/1848), [2012/1659](https://www.legislation.gov.uk/uksi/2012/1659), [2013/610](https://www.legislation.gov.uk/uksi/2013/610), [2015/102](https://www.legislation.gov.uk/uksi/2015/102).
+
+[^key-93c9890b7babacbce73612b1bc302f9c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/1319/regulation/14) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^f00020]: Footnote: [S.1. 2003/1987](https://www.legislation.gov.uk/uksi/2003/1987), amended by [S.I. 2006/5](https://www.legislation.gov.uk/uksi/2006/5), [2015/102](https://www.legislation.gov.uk/uksi/2015/102); there are other amending instruments but none is relevant.
+
+[^key-951b5f5744108815c6d20e16405e4348]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/1319/regulation/15) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^f00021]: Footnote: [S.I. 2009/2999](https://www.legislation.gov.uk/uksi/2009/2999), amended by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102); there are other amending instruments but none is relevant.
+
+[^key-349d30bc723b8acf2d4ad9f4f87ad3b9]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2020/1319/regulation/16) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^f00022]: Footnote: [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), amended by [S.I. 2016/275](https://www.legislation.gov.uk/uksi/2016/275); there are other amending instruments but none is relevant.
+
+[^key-1aa6dc54d50def5fceff8e3574efd737]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1319/part/4) heading substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 16(3)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/16/3)
+
+[^key-cffc4db8ec85c7a225b95e7ca8966ac6]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/1319/regulation/17) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-f6a45cd689a4f5dad3eb1b4e7315bc8c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2020/1319/regulation/18) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-66b161866dc53cb8dc43ad8d9f763cb6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2020/1319/regulation/19) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^f00023]: Footnote: [S.S.I. 2016/49](https://www.legislation.gov.uk/ssi/2016/49).
+
+[^key-7a4bb9f3c55de40c5b423315b28da5e8]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2020/1319/regulation/20) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-f573a344b2d1d90500bd6ffb1cad942f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2020/1319/regulation/21) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-e0f6e9d97ee7606730a53b9b63f152ea]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2020/1319/regulation/22) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-039acd8b864511bb8d528a24b29e93b6]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2020/1319/regulation/23) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-f478f32deb5850240c90686dd5e8cc28]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2020/1319/regulation/24) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-177b15335135ac4af9beb4a22fda9c3e]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/2020/1319/regulation/25) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 16(2)(d)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/16/2/d)
+
+[^key-a27e041d641a060a2e77aac14e74dc64]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/2020/1319/regulation/26) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 16(2)(e)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/16/2/e)
+
+[^key-e0fd8e0b7a69b4368a6e8a62c6828889]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/1) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^f00045]: Footnote: For example, regulation 60(2) of the Concession Contracts Regulations 2016 is mentioned only in paragraph 8, which saves its previous wording in certain cases, but that does not prevent the more general saving in paragraph 3 from applying to save the previous wording of regulation 60(2) in other cases; nor does the slight overlap between those paragraphs (in cases in which a contract might, before IP completion day, have been awarded but not yet ‘finalised’ as defined in paragraph (3) affect the interpretation of either saving.
+
+[^key-7a27569b151b194f75073a2160eea9d7]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/2) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^f00046]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); sections 7A, 7B, 7C, 8B and 8C were inserted by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), sections 5, 6, 26(2), 18 and 21 respectively.
+
+[^key-31d757474effa541bbc5777caae18491]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-302556e678791ed66e876f17bc896974]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/4) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-606dcc3d92f4343660da44fec531d0b2]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/5) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-95143fe4f617249bcfdf7635198c4abb]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/6) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-8a9382262cb8bf0b871c7f193a65e0ee]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/7) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-5e9021f79114449891d2d0ed0251fbe3]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/8) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-bcbd95e6fe494cb1d5267f4cf0b986d9]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/9) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-4b17b208362219508e3b85a615419da7]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/10) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-f1f79853a482f34d9cd791ea82c1a2a3]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/11) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-6c5afdce2bfdf50249ec458ee91bf520]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/12) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-bbc1eb6f0089073cc2a66ca9122ce6ca]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/13) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-5fef7da54a759c6348b8d903a97f15fa]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/14) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^key-95e1c4365e3e9a7c103e2a76045cb22d]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/15) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2)
+
+[^f00047]: Footnote: Section 8B was inserted by section 18 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1). For the meaning of “withdrawal agreement”, “EEA EFTA separation agreement” and “IP completion day” see section 39(1) of the latter Act.

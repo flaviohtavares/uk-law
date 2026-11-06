@@ -1,0 +1,755 @@
+---
+title: The Statutory Maternity Pay (General) Regulations 1986
+id: uksi/1986/1960
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1986-11-17'
+text_date: '2026-04-05'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1986/1960
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1986/1960/pdfs/uksi_19861960_310320_en.pdf
+- http://www.legislation.gov.uk/uksi/1986/1960/pdfs/uksi_19861960_310319_en.pdf
+- http://www.legislation.gov.uk/uksi/1986/1960/pdfs/uksi_19861960_280218_en.pdf
+- http://www.legislation.gov.uk/uksi/1986/1960/pdfs/uksi_19861960_310317_en.pdf
+- http://www.legislation.gov.uk/uksi/1986/1960/pdfs/uksi_19861960_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1986/1960/pdfs/uksi_19861960_280215_en.pdf
+- http://www.legislation.gov.uk/uksi/1986/1960/pdfs/uksi_19861960_en.pdf
+- http://www.legislation.gov.uk/uksi/1986/1960/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Statutory Maternity Pay (General) Regulations 1986
+
+> Text as at 2026-04-05.
+
+1986 No. 1960
+
+TERMS AND CONDITIONS OF EMPLOYMENT
+
+The Statutory Maternity Pay (General) Regulations 1986
+
+Made
+
+17th November 1986
+
+Laid before Parliament
+
+24th November 1986
+
+Coming into Operation
+
+Regulations 1, 22 and 23
+
+15th March 1987
+
+remainder
+
+6th April 1987
+
+The Secretary of State for Social Services, in exercise of the powers conferred by sections 46(4), (7) and (8), 47(1), (3), (6) and (7), 48(3) and (6), 50(1), (2), (4) and (5), 51(1)(g), (k), (n) and (r) and (4), 54(1), 83(1) and 84(1) of, and paragraphs 6, 8 and 12(3) of Schedule 4 to, the Social Security Act 1986, and of all other powers enabling him in that behalf, by this instrument, which contains only regulations made under the sections of the Social Security Act 1986 specified above and provisions consequential upon those sections and before the end of a period of 12 months from the commencement of those sections, makes the following regulations:—[^key-43018903d4f9a97390d52a6abc04a7aa][^key-abba8f091767f052af180ec7c2b47bb7][^key-f8e7d5f5fb649f64ee8eab8bbdaf45df][^key-ce337a857e3040c300ce3f2e9c71501c]
+
+## PART I — INTRODUCTION
+
+### 1. Citation, commencement and interpretation
+
+(1) These regulations may be cited as the Statutory Maternity Pay (General) Regulations 1986 and shall come into operation in the case of regulations 1, 22 and 23 on 15th March 1987, and in the case of the remainder of the regulations on 6th April 1987.
+
+(2) In these regulations, unless the context otherwise requires—
+
+- “**the 1975 Act**” means the Social Security Act 1975;
+- “**the 1978 Act**” means the Employment Protection (Consolidation) Act 1978;
+- “**the 1986 Act**” means the Social Security Act 1986.
+- “the[^key-e8cfa61eaf1efce40fb61f554367a870] Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992.
+- “statutory maternity leave” means ordinary maternity leave and any additional maternity leave under, respectively, sections 71 and 73 of the Employment Rights Act 1996.[^key-bd570df7c9a1f753da7bb722253b38f2]
+
+(3) Unless the context otherwise requires, any references in these regulations to—
+
+- (a) a numbered regulation is a reference to the regulation bearing that number in these regulations and any reference in a regulation to a numbered paragraph is a reference to the paragraph of that regulation bearing that number;
+- (b) any provision made by or contained in an enactment or instrument shall be construed as a reference to that provision as amended or extended by any enactment or instrument and as including a reference to any provision which it re-enacts or replaces, or which may re-enact or replace it, with or without modifications.
+
+## PART II — ENTITLEMENT
+
+### 2. The Maternity Pay Period[^key-cb8a0d88277c4f10d508ebcb2f2ed8db]
+
+(1) Subject to paragraphs (3) to (5), where—
+
+- (a) a woman gives notice to her employer of the date from which she expects his liability to pay her statutory maternity pay to begin; and
+- (b) in conformity with that notice ceases to work for him in a week which is later than the 12th week before the expected week of confinement,
+
+the first day of the maternity pay period shall be the day on which she expects his liability to pay her statutory maternity pay to begin in conformity with that notice provided that day is not later than the day immediately following the day on which she is confined.
+
+(2) The maternity pay period shall be a period of 39 consecutive weeks.
+
+(3) In a case where a woman is confined—
+
+- (a) before the 11th week before the expected week of confinement; or
+- (b) after the 12th week before the expected week of confinement and the confinement occurs on a day which precedes that mentioned in a notice given to her employer as being the day on which she expects his liability to pay her statutory maternity pay to begin,
+
+section 165 of the Contributions and Benefits Act shall have effect so that the first day of the maternity pay period shall be the day following the day on which she is so confined.
+
+(4) In a case where a woman is absent from work wholly or partly because of pregnancy or confinement on any day—
+
+- (a) which falls on or after the beginning of the 4th week before the expected week of confinement; but
+- (b) not later than the day immediately following the day on which she is confined,
+
+the first day of the maternity pay period shall be the day following the day on which she is so absent.
+
+(5) In a case where a woman leaves her employment—
+
+- (a) at any time falling after the beginning of the 11th week before the expected week of confinement and before the start of the maternity pay period, but
+- (b) not later than the day on which she is confined,
+
+the first day of the maternity pay period shall be the day following the day on which she leaves her employment.
+
+### 3. Contract of service ended for the purpose of avoiding liability for statutory maternity pay
+
+(1) A former employer shall be liable to make payments of statutory maternity pay to any woman who was employed by him for a continuous period of at least 8 weeks and whose contract of service with him was brought to an end by the former employer solely or mainly for the purpose of avoiding liability for statutory maternity pay.
+
+(2) In order to determine the amount payable by the former employer—
+
+- (a) the woman shall be deemed for the purposes of Part V of the 1986 Act to have been employed by him from the date her employment with him ended until the end of the week immediately preceding the 14th week before the expected week of confinement on the same terms and conditions of employment as those subsisting immediately before her employment ended, and
+- (b) her normal weekly earnings for the period of 8 weeks immediately preceding the 14th week before the expected week of confinement shall for those purposes be calculated by reference to her normal weekly earnings for the period of 8 weeks ending with the last day in respect of which she was paid under her former contract of service.
+
+### 4. Modification of entitlement provisions
+
+(1)[^key-01550f457089addf731e54a5311ce066] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In relation to a woman in employed earner's employment who was confined before the 14th week before the expected week of confinement section 164(2)(a) and (b) of the Contributions and Benefits Act[^key-9f5a0a88e301d66134097b94ab45733f] shall have effect as if for the conditions there set out, there was substituted the conditions that—
+
+- (a) she would but for her confinement have been in employed earner's employment with an employer for a continuous period of at least 26 weeks ending with the week immediately preceding the 14th week before the expected week of confinement, and
+- (b) her normal weekly earnings for the period of 8 weeks ending with the week immediately preceding the week of her confinement are not less than the lower earnings limit in force under under section 5(1)(a) of the Contributions and Benefits Act[^key-f781620627537e3a6820b02b0c8c8aaa] immediately before the commencement of the week of her confinement.
+
+(3)[^key-057dcdc46e2e31023de65f36be677d1f][^key-4c52cb31eb767d92c2e243f414526eb8] In relation to a woman to whom paragraph (2) applies, section 166 of the Contributions and Benefits Act shall be modified so that subsection (2) has effect as if the reference to the period of 8 weeks immediately preceding the 14th week before the expected week of confinement was a reference to the period of 8 weeks immediately preceding the week in which her confinement occurred.
+
+### 5. Treatment of more than one contract of service as one
+
+Where 2 or more contracts of service exist concurrently between one employer and one employee, they shall be treated as one for the purposes of Part V of the 1986 Act, except where, by virtue of regulation 11 of the Social Security (Contributions) Regulations 1979 the earnings from those contracts of service are not aggregated for the purposes of earnings-related contributions.
+
+### 6. Prescribed rate of statutory maternity pay[^key-45bfae88d8a118e5b9eded98047ecfa2]
+
+The rate of statutory maternity pay prescribed under section 166(1)(b) of the Contributions and Benefits Act is a weekly rate of £194.32[^key-d42c49a54b59635d750d1eb7229014ed].
+
+### 7. Liability of Secretary of State to pay Statutory Maternity Pay
+
+(1) Where—
+
+- (a) an adjudicating authority has determined that an employer is liable to make payments of statutory maternity pay to a woman, and
+- (b) the time for appealing against that determination has expired, and
+- (c) no appeal against the determination has been lodged or leave to appeal against the determination is required and has been refused,
+
+then for any week in respect of which the employer was liable to make payments of statutory maternity pay but did not do so, and for any subsequent weeks in the maternity pay period the liability to make those payments shall, notwithstanding section 46(3) of the 1986 Act, be that of the Secretary of State and not the employer.
+
+(2) In paragraph (1) adjudicating authority means, as the case may be, the Chief or any other adjudication officer, the First-tier Tribunal or the Upper Tribunal.[^key-b443d0ab98aec27ce9a8a14b74a604ae]
+
+(3) Liability to make payments of statutory maternity pay shall, notwithstanding section 46(3) of the 1986 Act, be a liability of the Secretary of State and not the employer as from the week in which the employer first becomes insolvent until the end of the maternity pay period.
+
+(4) For the purposes of paragraph (3) an employer shall be taken to be insolvent if, and only if—
+
+- (a) in England and Wales—
+  - (i) he has been adjudged bankrupt or has made a composition or arrangement with his creditors;
+  - (ii) he has died and his estate falls to be administered in accordance with an order under section 421 of the Insolvency Act 1986; or
+  - (iii) where an employer is a company, a winding-up order [^key-9a9c6b8cc9875e2ada835904ce58637b]... is made or a resolution for voluntary winding-up is passed with respect to it or it enters administration[^key-31bd008a55163e6304cc55ef627fb775], or a receiver or manager of its undertaking is duly appointed, or possession is taken by or on behalf of the holders of any debentures secured by a floating charge, of any property of the company comprised in or subject to the charge or a voluntary arrangement proposed for the purposes of Part I of the Insolvency Act 1986 is approved under that Part;
+- (b) in Scotland—
+  - (i) an award of sequestration is made on his estate or he executes a trust deed for his creditors or enters into a composition contract;
+  - (ii) he has died and a judicial factor appointed under section 11A of the Judicial Factors (Scotland) Act 1889[^f00001] is required by that section to divide his insolvent estate among his creditors; or
+  - (iii) where the employer is a company, a winding-up order [^key-55b39ff6fe0ad41d066aa93be53ae981]... is made or a resolution for voluntary winding-up is passed with respect to it or it enters administration[^key-eb389874382a4a14c88aacc2faedc22e] or a receiver of its undertaking is duly appointed or a voluntary arrangement proposed for the purposes of Part I of the Insolvency Act 1986 is approved under that Part.
+
+### 8. Work after confinement
+
+(1) Where in the week immediately preceding the 14th week before the expected week of confinement a woman had 2 or more employers but one or more of them were not liable to make payments to her of statutory maternity pay (“non-liable employer”), section 47(6) of the 1986 Act shall not apply in respect of any week after the week of confinement but within the maternity pay period in which she works only for a non-liable employer.
+
+(2) Where after her confinement a woman—
+
+- (a) works for an employer who is not liable to pay her statutory maternity pay and is not a non-liable employer, but
+- (b) before the end of her maternity pay period ceases to work for that employer,
+
+the person who before she commenced work was liable to make payments of statutory maternity pay to her shall, notwithstanding section 46 of the 1986 Act, not be liable to make such payments to her for any weeks in the maternity pay period after she ceases work.
+
+### 9. No liability to pay statutory maternity pay
+
+Notwithstanding the provisions of section 46(1) of the 1986 Act, no liability to make payments of statutory maternity pay to a woman shall arise in respect of a week within the maternity pay period for any part of which she is detained in legal custody or sentenced to a term of imprisonment (except where the sentence is suspended), or of any subsequent week within that period.
+
+### 9A. Working for not more than 10 days in the Maternity Pay Period[^key-1c151174b7b2ef97fdf60d3086087d19]
+
+In a case where a woman does any work under a contract of service with her employer on any day, but for not more than 10 days (whether consecutive or not), during her maternity pay period, statutory maternity pay shall continue to be payable to the employee by the employer.
+
+### 10. Death of woman
+
+An employer shall not be liable to make payments of statutory maternity pay in respect of a woman for any week within the maternity pay period which falls after the week in which she dies.
+
+## PART III — CONTINUOUS EMPLOYMENT AND NORMAL WORKING HOURS
+
+### 11. Continuous employment
+
+(1) Subject to the following provisions of this regulation, where in any week a woman is, for the whole or part of the week,—
+
+- (a) incapable of work in consequence of sickness or injury, or
+- (b) absent from work on account of a temporary cessation of work, or
+- (c) absent from work in circumstances such that, by arrangement or custom, she is regarded as continuing in the employment of her employer for all or any purpose, or
+- (d) absent from work wholly or partly because of pregnancy or confinement, or[^key-b06d1a97e9fc4aa0d390ef6da7227777]
+- (e)[^key-8341ba37a93c04ef4d95ed1e459c8948] absent from work in consequence of taking paternity leave, adoption leave, shared parental leave[^key-19e810eb7ad11a2fac34dff5e29829b8], parental bereavement leave[^key-0ef1ee8164dd7e09d16dceb5ab21e05a] or parental leave under Part 8 of the Employment Rights Act 1996,
+
+and returns to work for her employer after the incapacity for or absence from work, that week shall be treated for the purposes of Part V of the 1986 Act as part of a continuous period of employment with that employer, notwithstanding that no contract of service exists with that employer in respect of that week.
+
+(2) Incapacity for work which lasts for more than 26 consecutive weeks shall not count for the purposes of paragraph (1)(a).
+
+(3) Paragraph (1)(d) shall only apply to a woman who—
+
+- (a) has a contract of service with the same employer both before and after her confinement but not during any period of absence from work due to her confinement and the period between those contracts does not exceed 26 weeks, or
+- (b) returns to work in accordance with section 45(1) of the 1978 Act or in pursuance of an offer made in circumstances described in section 56A(2) of that Act after a period of absence from work wholly or partly occasioned by pregnancy or confinement.
+
+(3A)[^key-83c4bc793fa74e1c9b0ba9bb9f208a44] Where a woman who is pregnant—
+
+- (a) is an employee in an employed earner’s employment in which the custom is for the employer
+  - (i) to offer work for a fixed period of not more than 26 consecutive weeks;
+  - (ii) to offer work for such period on 2 or more occasions in a year for periods which do not overlap; and
+  - (iii) to offer the work available to those persons who had worked for him during the last or a recent such period, but
+- (b) is absent from work—
+  - (i) wholly or partly because of the pregnancy or her confinement, or
+  - (ii) because of incapacity arising from some specific disease or bodily or mental disablement,
+
+  then in her case paragraph (1) shall apply as if the words “and returns to work for an employer after the incapacity for or absence from work” were omitted and paragraph (4) shall not apply.
+
+(4) where a woman is employed under a contract of service for part only of the week immediately preceding the 14th week before the expected week of confinement, the whole of that week shall count in computing any period of continuous employment for the purposes of Part V of the 1986 Act.
+
+### 12. Continuous employment and unfair dismissal
+
+(1) This regulation applies to a woman in relation to whose dismissal an action is commenced which consists—
+
+- (a) of the presentation by her of a complaint under section 67(1) of the 1978 Act; or
+- (b) of her making a claim in accordance with a dismissals procedure agreement designated by an order under section 65 of that Act; or
+- (c) of any action taken by a conciliation officer under section 134(3) of that Act; or[^key-a323e7681f73334d277da91d1d41f781]
+- (d) of a decision arising out of the use of a statutory dispute resolution procedure contained in Schedule 2 to the Employment Act 2002 in a case where, in accordance with the Employment Act 2002 (Dispute Resolution) Regulations 2004, such a procedure applies.
+
+(2) If in consequence of an action of the kind specified in paragraph (1) a woman is reinstated or re-engaged by her employer or by a successor or associated employer of that employer the continuity of her employment shall be preserved for the purposes of Part V of the 1986 Act and any week which falls within the interval beginning with the effective date of termination and ending with the date of reinstatement or re-engagement, as the case may be, shall count in the computation of her period of continuous employment.
+
+(3) In this regulation—
+
+- “**successor**” and “**dismissals procedure agreement**” have the same meanings as in section 30(3) and (4) of the Trade Union and Labour Relations Act 1974, and
+- “**associated employer**” shall be construed in accordance with section 153(4) of the 1978 Act.
+
+### 13. Continuous employment and stoppages of work
+
+(1) Where for any week or part of a week a woman does no work because there is, within the meaning of section 19 of the 1975 Act a stoppage of work due to a trade dispute at her place of employment the continuity of her employment shall, subject to paragraph (2), be treated as continuing throughout the stoppage but, subject to paragraph (3), no such week shall count in the computation of her period of employment.
+
+(2) Subject to paragraph (3), where during the stoppage of work a woman is dismissed from her employment, the continuity of her employment shall not be treated in accordance with paragraph (1) as continuing beyond the commencement of the day she stopped work.
+
+(3) The provisions of paragraph (1) to the extent that they provide that a week in which a stoppage of work occurred shall not count in the computation of a period of employment, and paragraph (2) shall not apply to a woman who proves that at no time did she have a direct interest in the trade dispute in question.
+
+### 14. Change of employer
+
+A woman's employment shall, notwithstanding the change of employer, be treated as continuous employment with the second employer where—
+
+- (a) the employer's trade or business or an undertaking (whether or not it is an undertaking established by or under an Act of Parliament) is transferred from one person to another;
+- (b) by or under an Act of Parliament, whether public or local and whenever passed, a contract of employment between any body corporate and the woman is modified and some other body corporate is substituted as her employer;
+- (c) on the death of her employer, the woman is taken into the employment of the personal representatives or trustees of the deceased;
+- (d) the woman is employed by partners, personal representatives or trustees and there is a change in the partners, or, as the case may be, personal representatives or trustees;
+- (e) the woman is taken into the employment of an employer who is, at the time she entered his employment, an associated employer of her previous employer, and for this purpose “associated employer” shall be construed in accordance with section 153(4) of the 1978 Act;
+- (f) on the termination of her employment with an employer she is taken into the employment of another employer and those employers are the governors of a school maintained by a[^key-8f0ff43a71387709861dd50a9a16c24f] local authority (within the meaning of the Education Act 1996)[^key-5cc3f207a70f0912ed784599a3cdaa5e] and that authority.
+
+### 15. Reinstatement after service with the armed forces etc
+
+If a woman who is entitled to apply to her former employer under the Reserve Forces (Safeguard of Employment) Act 1985 enters the employment of that employer not later than the 6 month period mentioned in section 1(4)(b) of that Act, her previous period of employment with that employer (or if there was more than one such period, the last of those periods) and the period of employment beginning in the said period of 6 months shall be treated as continuous.
+
+### 16. Normal working weeks
+
+(1) For the purposes of section 48(5) of the 1986 Act, a woman's contract of service shall be treated as not normally involving or having involved employment for less than 16 hours weekly where she is normally employed for 16 hours or more weekly.
+
+(2) Where a woman's relations with her employer were governed for a continuous period of at least 2 years by a contract of service which normally involved employment for not less than 16 hours weekly and this period was followed by a further period, ending with the week immediately preceding the 14th week before the expected week of confinement, in which her relations with that employer were governed by a contract of service which normally involved employment for less than 16 hours, but not less than 8 hours weekly, then her contract of service shall be treated for the purpose of section 48(5) of the 1986 Act as not normally involving or having involved employment for less than 16 hours weekly.
+
+(3) Where a woman's relations with her employer are or were governed for a continuous period of at least 2 years by a contract of service which involved
+
+- (a) for not more than 26 weeks in that period, employment for 8 hours or more but less than 16 hours weekly, and
+- (b) for the whole of the remainder of that period employment for not less than 16 hours weekly,
+
+the contract of service shall be treated for the purposes of section 48(5) of the 1986 Act as not normally involving or having involved employment for less than 16 hours weekly.
+
+### 16A. Meaning of “week”[^key-56685ad35c02bcf4c38d58d37ca60c69]
+
+Where a woman has been in employed earner’s employment with the same employer in each of 26 consecutive weeks (but no more than 26 weeks) ending with the week immediately preceding the 14th week before the expected week of confinement then for the purpose of determining whether that employment amounts to a continuous period of at least 26 weeks, the first of those 26 weeks shall be a period commencing on the first day of her employment with the employer and ending at midnight on the first Saturday thereafter or on that day where her first day is a Saturday.
+
+## PART IV — GENERAL PROVISIONS
+
+### 17. Meaning of “employee”
+
+(1) Subject to paragraph (1A),[^key-1120ff720940f85d5c78055244052384] in a case where, and in so far as, a woman [^key-a0565cb6ae6cbcc672f8d2ce7252db56]... is treated as an employed earner by virtue of the Social Security (Categorisation of Earners) Regulations 1978[^f00002] she shall be treated as an employee for the purposes of Part V of the 1986 Act and in a case where, and in so far as, such a woman is treated otherwise than as an employed earner by virtue of those regulations, she shall not be treated as an employee for the purposes of Part V.
+
+(1A)[^key-8d91b74bf6f6aecc1a60710ca5be8b76] Paragraph (1) shall have effect in relation to a woman who—
+
+- (a) is under the age of 16; and
+- (b) would or, as the case may be, would not have been treated as an employed earner by virtue of the Social Security (Categorisation of Earners) Regulations 1978 had she been over that age,
+
+as it has effect in relation to a woman who is, or, as the case may be, is not so treated.
+
+(2) Any woman who is in employed earner's employment within the meaning of the 1975 Act under a contract of apprenticeship shall be treated as an employee for the purposes of Part V.
+
+(3) A woman who is in employed earner's employment within the meaning of the 1975 Act but whose employer—
+
+- (a) does not fulfil the conditions prescribed in regulation 119(1)(b) of the Social Security (Contributions) Regulations 1979[^f00003] as to residence or presence in Great Britain, or
+- (b) is a woman who, by reason of any international treaty to which the United Kingdom is a party or of any international convention binding the United Kingdom—
+  - (i) is exempt from the provisions of the 1975 Act, or
+  - (ii) is a woman against whom the provisions of that Act are not enforceable,
+
+  shall not be treated as an employee for the purposes of Part V of the 1986 Act.
+
+### 18. Treatment of two or more employers as one
+
+(1) In a case where the earnings paid to a woman in respect of 2 or more employments are aggregated and treated as a single payment of earnings under regulation 12(1) of the Social Security (Contributions) Regulations 1979, the employers of the woman in respect of those employments shall be treated as one for all purposes of Part V of the 1986 Act.
+
+(2) Where 2 or more employers are treated as one under the provisions of paragraph (1), liability for statutory maternity pay payable by them to a woman shall be apportioned between them in such proportions as they may agree or, in default of agreement, in the proportions which the woman's earnings from each employment bear to the amount of the aggregated earnings.
+
+### 19. Payments to be treated as contractual remuneration
+
+For the purposes of paragraph 12(1) and (2) of Schedule 4 to the 1986 Act, the payments which are to be treated as contractual remuneration are sums payable under the contract of service—
+
+- (a) by way of remuneration;
+- (b) for incapacity for work due to sickness or injury, and
+- (c) by reason of pregnancy or confinement.
+
+### 20. Meaning of “earnings”
+
+(1)[^key-a98dc20bafe1626aeacfe676f8f83579] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-697230ec68a28d086ae365b2ba550e39] For the purposes of section 171(4) of the Contributions and Benefits Act, the expression “earnings” refers to gross earnings and includes any remuneration or profit derived from a woman’s employment except any payment or amount which is—
+
+- (a) excluded or disregarded in the calculation of a person’s earnings under regulation 25, 27 or 123 of, or Schedule 3 to, the Social Security (Contributions) Regulations 2001[^key-89bd51774740970993153c29e92267c1] (payments to be disregarded and payments to directors to be disregarded respectively) (or would have been so excluded had she not been under the age of 16)[^key-839d6f102ff37479af362aec60540bd2];
+- (b) a chargeable emolument under section 10A of the Social Security Contributions and Benefits Act 1992, except where, in consequence of such a chargeable emolument being excluded from earnings, a woman would not be entitled to statutory maternity pay (or where such a payment or amount would have been so excluded and in consequence she would not have been entitled to statutory maternity pay had she not been under the age of 16)[^key-9509f449fad9f1bff5148285327a375f].
+
+(3)[^key-7bcaee91c18a71248b53e50502c6b7b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) For the purposes of section 171(4) of the Contributions and Benefits Act[^key-559d5bc51c7a6624183fe1f74a1a098c] the expression “**earnings**” includes also—
+
+- (za)[^key-1d80a47186945dfa91f531ce4dc688d5] any amount retrospectively treated as earnings by regulations made by virtue of section 4B(2) of the Contributions and Benefits Act;
+- (a) any sum payable in respect of arrears of pay in pursuance of an order for reinstatement or re-engagement under the 1978 Act;
+- (b) any sum payable by way of pay in pursuance of an order under the 1978 Act for the continuation of a contract of employment;
+- (c) any sum payable by way of remuneration in pursuance of a protective award under the Employment Protection Act 1975;
+- (d) any sum payable by way of statutory sick pay, including sums payable in accordance with regulations made under section 1(5) of the Social Security and Housing Benefits Act 1982[^f00004].
+- (e)[^key-b775dcdcae7af8d85ba4885d5faa32d4] any sum payable by way of statutory maternity pay, including sums payable in accordance with regulations made under section 164(9)(b) of the Contributions and Benefits Act;
+- (f) any sum payable by way of statutory paternity pay, including sums payable in accordance with regulations made under section 171ZD(3) of the Contributions and Benefits Act;
+- (g) any sum payable by way of statutory adoption pay, including sums payable in accordance with regulations made under section 171ZM(3) of the Contributions and Benefits Act ;[^key-b4a18335402b2c03a151f2cc9b882f66]
+- (h)[^key-b8ecc171c13ec879ead1db90126e6f4d] any sum payable by way of statutory shared parental pay, including any sums payable in accordance with regulations made under section 171ZX(3) of the Contributions and Benefits Act ;[^key-252252d924e80721e64324d9c42a28ef]
+- (i) any sum payable by way of statutory parental bereavement pay, including any sums payable in accordance with regulations made under section 171ZZ8(3) of the Contributions and Benefits Act;[^key-9642688750119b584415ad67b576af6e]
+- (j)[^key-68b5d850abc49fbf74e41b6c1a9bbe9e] any sum payable by way of statutory neonatal care pay, including any sums payable in accordance with regulations made under section 171ZZ18(3) of the Contributions and Benefits Act.
+
+(5)[^key-0bbcb42dc28d272758408a875be3e28a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-0bbcb42dc28d272758408a875be3e28a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Normal weekly earnings
+
+(1) For the purposes of Part XII of the Contributions and Benefits Act[^key-a72500505c7a487a4349db9c255d0b9e], a woman's normal weekly earnings shall be calculated in accordance with the following provisions of this regulation.
+
+(2) In this regulation—
+
+- “**the appropriate date**” means the first day of the 14th week before the expected week of confinement, or the first day in the week in which the woman is confined, [^key-7f8869b6b357bc1e4de5cc8c342b0019]... or in the case of a woman in respect of whom section 46(2) of the 1986 Act is modified in accordance with regulation 4(1), the first day of the week immediately following the last week in which she was employed under a contract of service by the employer who dismissed her;
+- “**normal pay day**” means a day on which the terms of a woman's contract of service require her to be paid, or the practice in her employment is for her to be paid, if any payment is due to her; and
+- “**day of payment**” means a day on which the woman was paid.
+
+(3) Subject to paragraph (4), the relevant period for the purposes of section 171(4) of the Contributions and Benefits Act[^key-4124698f80b9a07f410ef72066f13ebd] is the period between—
+
+- (a) the last normal pay day to fall before the appropriate date; and
+- (b) the last normal pay day to fall at least 8 weeks earlier than the normal pay day mentioned in sub-paragraph (a),
+
+including the normal pay day mentioned in sub-paragraph (a) but excluding that first mentioned in sub-paragraph (b).
+
+(4) In a case where a woman has no identifiable normal pay day, paragraph (3) shall have effect as if the words “day of payment” were substituted for the words “normal pay day” in each place where they occur.
+
+(5) In a case where a woman has normal pay days at intervals of or approximating to one or more calendar months (including intervals of or approximating to a year) her normal weekly earnings shall be calculated by dividing her earnings in the relevant period by the number of calendar months in that period (or, if it is not a whole number, the nearest whole number), multiplying the result by 12 and dividing by 52.
+
+(6) In a case to which paragraph (5) does not apply and the relevant period is not an exact number of weeks, the woman's normal weekly earnings shall be calculated by dividing her earnings in the relevant period by the number of days in the relevant period and multiplying the result by 7.
+
+(7)[^key-b4623843f51f148a29d7ae599c94c6ab] In any case where—
+
+- (a) a woman is awarded a pay increase (or would have been awarded such an increase had she not then been absent on statutory maternity leave); and
+- (b) that pay increase applies to the whole or any part of the period between the beginning of the relevant period and the end of her period of statutory maternity leave,
+
+her normal weekly earnings shall be calculated as if such an increase applied in each week of the relevant period.
+
+(8)[^key-a812f8e495be8cbcf0b7398e3a7a32c2] Paragraph (9) applies where for all or part of the relevant period—
+
+- (a) a woman is a furloughed employee;
+- (b) the woman’s employer has claimed and is in receipt of financial support in respect of the woman’s earnings under the Coronavirus Job Retention Scheme; and
+- (c) the woman’s earnings are lower than they would otherwise have been as a result of that woman being a furloughed employee.
+
+(9) Where this paragraph applies, the woman’s normal weekly earnings are to be calculated as if, during the parts of the relevant period when the woman was a furloughed employee, she was paid the amount which she would have derived from her employment had she not been a furloughed employee.
+
+(10) For the purposes of paragraphs (8) and (9)—
+
+- “Coronavirus Job Retention Scheme” (“the Scheme”) means any scheme to provide for payments to be made to employers on a claim made in respect of them incurring costs of employment in respect of furloughed employees arising from the health, social and economic emergency in the United Kingdom resulting from coronavirus and coronavirus disease and contained in such Directions as may be issued from time to time pursuant to section 76 of the Coronavirus Act 2020;
+- “coronavirus” and “coronavirus disease” have the meanings given in section 1 of that Act;
+- “furloughed employee” has the meaning given for the purposes of the Scheme.
+
+### 21A. Effect of statutory maternity pay on incapacity benefit[^key-f59ba95c0613f28e6858fd5a415d352f][^key-62d99f389a16563b6b619d5c80ba606a][^key-15e690d834b71175743342660459fa3f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21B. Effect of maternity allowance on statutory maternity pay[^key-7904e775d8578f89d44fa0fef8e54554]
+
+Where a woman, in any week which falls within the maternity pay period, is—
+
+- (a) in receipt of maternity allowance pursuant to the provisions of sections 35 and 35A of the Contributions and Benefits Act; and
+- (b) entitled to receive statutory maternity pay in consequence of —[^key-764dd8d909c1493d9440ec6e1b888a1f]
+  - (i) receiving a pay increase referred to in regulation 21(7), or
+  - (ii) being treated as having been paid retrospective earnings under regulation 20(4)(za),
+
+the employer shall not be liable to make payments of statutory maternity pay in respect of such a week unless, and to the extent by which, the rate of statutory maternity pay exceeds the rate of maternity allowance received by her in that week.
+
+## PART V — ADMINISTRATION
+
+### 22. Evidence of expected week of confinement or of confinement
+
+(1) A woman shall in accordance with the following provisions of this regulation, provide the person who is liable to pay her statutory maternity pay with evidence as to—
+
+- (a) the week in which the expected date of confinement occurs, and
+- (b) where her entitlement to statutory maternity pay depends upon the fact of her confinement, the week in which she was confined.
+
+(2) For the purpose of paragraph (1)(b) a certificate of birth shall be sufficient evidence that the woman was confined in the week in which the birth occurred.
+
+(3) The evidence shall be submitted to the person who will be liable to make payments of statutory maternity pay not later than the end of the third week of the maternity pay period so however that where the woman has good cause the evidence may be submitted later than that date but not later than the end of the 13th week of the maternity pay period.
+
+(4) For the purposes of paragraph (3) evidence contained in an envelope which is properly addressed and sent by prepaid post shall be deemed to have been submitted on the day on which it was posted.
+
+### 23. Notice of absence from work
+
+(1) Where a woman is confined before the beginning of the 14th week before the expected week of confinement, she shall be entitled to payments of statutory maternity pay only if—
+
+- (a) she gives notice to the person who will be liable to pay it of the date on which she was confined[^key-037b9c0f2bbc5f538a5ea5d1aa31637e], and
+- (b) that notice is given within 28 days[^key-6b0271568fa6d267ce3354c8d6194312] of the date she was confined or if in the particular circumstances that is not practicable, as soon as is reasonably practicable thereafter; and
+- (c) where the person so requests, the notice is in writing.
+
+(2) Where a woman is confined before the date stated in a notice provided in accordance with section 164(4) of the Contributions and Benefits Act[^key-374fdfcc686cfe821f9f6c2adf741b63] as being the date her absence from work is due to begin, she shall be entitled to payments of statutory maternity pay only if—
+
+- (a) she gives a further notice to the person who will be liable to pay it specifying the date she was confined and the date her absence from work [^key-e5de873eaf4cacf18bef958594ae81ff]... began, and
+- (b) that further notice is given within 28 days[^key-e3d7b4f01e74583e7c01168833e89d39] of the date she was confined or if in the particular circumstances that is not practicable, as soon as is reasonably practicable thereafter; and
+- (c) where the person so requests, the notice is in writing.
+
+(3) For the purposes of this regulation, a notice contained in an envelope which is properly addressed and sent by prepaid post shall be deemed to be given on the date on which it is posted.
+
+(4)[^key-751e0d724e89029785d3f6dc54ab866c] Subject to paragraph (5), section 164(4) of the Contributions and Benefits Act (statutory maternity pay-entitlement and liability to pay) shall not have effect in the case of a woman who leaves her employment with the person who will be liable to pay her statutory maternity pay after the beginning of the week immediately preceding the 14th week before the expected week of confinement.
+
+(5)[^key-02e18eff0bfb454c4611a84c36fafe4a] A woman who is exempted from section 164(4) of the Contributions and Benefits Act by paragraph (4) but who is confined before the 11th week before the expected week of confinement shall only be entitled to statutory maternity pay if she gives the person who will be liable to pay it notice specifying the date she was confined.
+
+### 24. Notification of employment after confinement
+
+A woman who after the date of confinement but within the maternity pay period commences work in employed earner's employment with a person who is not liable to make payments of statutory maternity pay to her and is not a non-liable employer for the purposes of regulation 8(1), shall within 7 days of the day she commenced work inform any person who is so liable of the date she commenced work.
+
+### 25. Provision of information in connection with determination of questions
+
+Any woman claiming to be entitled to statutory maternity pay, or any other person who is a party to proceedings arising under the 1986 Act relating to statutory maternity pay, shall, if she receives notification from the Secretary of State that any information is required from her for the determination of any question arising in connection therewith, furnish that information to the Secretary of State within 10 days of receiving that notification.
+
+### 25A. Provision of information relating to claims for certain other benefits[^key-dc74e9ac370cfad8ee843353eeed6cee]
+
+(1) Where an employer who has been given notice in accordance with section 164(4)(a) or (9)(ea) of the Contributions and Benefits Act[^key-4fccbe57ba30b3be7b139ee94199be69] or regulation 23 by a woman who is or has been an employee —
+
+- (a) decides that he has no liability to make payments of statutory maternity pay to her, or
+- (b) has made one or more payments of statutory maternity pay to her but decides, before the end of the maternity pay period and for a reason specified in paragraph (3), that he has no liability to make further payments to her,
+
+then, in connection with the making of a claim by the woman for a maternity allowance, incapacity benefit or an employment and support allowance[^key-3c9097ed15c90a570f9ebfb829db4297], he shall furnish her with the information specified in the following provisions of this regulation.
+
+(2) Where the employer decides he has no liability to make payments of statutory maternity pay to the woman, he shall furnish her with details of the decision and the reasons for it.
+
+(3) Where the employer decides he has no liability to make further payments of statutory maternity pay to the woman because [^key-6e4ef10a6484189c0b9184105e4331b6]... she has within the maternity pay period been detained in legal custody or sentenced to a term of imprisonment which was not suspended, [^key-2aeda92db2c46d141fe1b4dca5ee5db0]... he shall furnish her with —
+
+- (a) details of his decision and the reasons for it; and
+- (b) details of the last week in respect of which a liability to pay statutory maternity pay arose and the total number of weeks within the maternity pay period in which such a liability arose.
+
+(4) The employer shall—
+
+- (a) return to the woman any maternity certificate provided by her in support of the notice referred to in paragraph (1); and
+- (b) comply with any requirements imposed by the preceding provisions of this regulation—
+  - (i) in a case to which paragraph (2) applies, within 7 days of the decision being made, or, if earlier, within 28 days[^key-9e0ab16c7ebe752c48ee1d253022f1b0] of the day the woman gave notice of her intended absence or of her confinement if that had occurred; or
+  - (ii) in a case to which paragraph (3) refers, within 7 days of being notified of the woman’s detention or sentence [^key-f0ce43b4e73dd0518bdfd9a90bbe5339]....
+
+(5) In this regulation, incapacity benefit' means incapacity benefit[^key-5d62ee7e45abb0f63d04f119e9fd27a9] or a severe disablement allowance.
+
+### 26. Records to be maintained by employers
+
+(1) Every employer shall maintain for 3 years after the end of the tax year in which the maternity pay period ends a record in relation to any woman who is or was an employee of his of—
+
+- (a) the date of the first day of absence from work wholly or partly because of pregnancy or confinement as notified by her and, if different, the date of the first day when such absence commenced;
+- (b) the weeks in that tax year in which statutory maternity pay was paid and the amount paid in each week; and
+- (c) any week in that tax year which was within her maternity pay period but for which no payment of statutory maternity pay was made to her and the reasons no payment was made.
+
+(2) Except where he was not liable to make a payment of statutory maternity pay and subject to paragraphs (3) and (4), every employer shall retain for 3 years after the end of the tax year in which the maternity pay period ends any medical certificate or other evidence relating to the expected week of confinement, or as the case may be, the confinement which was provided to him by a woman who is or was an employee of his.
+
+(3) Where an employer returns a medical certificate to an employee of his for the purpose of enabling her to make a claim for benefit under the 1975 Act, it shall be sufficient for the purposes of paragraph (2) if he retains a copy of that certificate.
+
+(4) An employer shall not retain any certificate of birth provided to him as evidence of confinement by a woman who is or was an employee of his, but shall retain a record of the date of birth.
+
+### 26A. Production of employer’s records[^key-ba769dd1cb0baa1246ac05897d1bae46]
+
+(1) An authorised officer of the Commissioners of Inland Revenue may by notice require an employer to produce to him at the place of keeping such records as are in the employer’s possession or power and as (in the officer’s reasonable opinion) contain, or may contain, information relevant to satisfy him that statutory maternity pay has been paid and is being paid in accordance with these regulations to employees or former employees who are entitled to it.
+
+(2) A notice referred to in paragraph (1) shall be in writing and the employer shall produce the records referred to in that paragraph within 30 days after the date of such a notice.
+
+(3) The production of records in pursuance of this regulation shall be without prejudice to any lien which a third party may have in respect of those records.
+
+(4) References in this regulation to “records” means—
+
+- (a) any wage sheet or deductions working sheet; or
+- (b) any other document which relates to the calculation or payment of statutory maternity pay to his employees or former employees,
+
+whether kept in written form, electronically, or otherwise.
+
+(5) In paragraph (1), “place of keeping” means such place in Great Britain that an employer and an authorised officer may agree upon, or, in the absence of such agreement—
+
+- (a) any place in Great Britain where records referred to in paragraph (1) are normally kept; or
+- (b) if there is no such place, the employer’s principal place of business in Great Britain.
+
+## PART VI — PAYMENT
+
+### 27. Payment of statutory maternity pay
+
+Payment of statutory maternity pay may be made in a like manner to payments of remuneration but shall not include payments in kind or by way of the provision of board or lodgings or of services or other facilities.
+
+### 28. Rounding to avoid fractional amounts[^key-582dd149d695e812906e962d3973f01f]
+
+Where any payment of statutory maternity pay is paid for any week or part of a week and the amount due includes a fraction of a penny, the payment shall be rounded up to the next whole number of pence.
+
+### 29. Time when statutory maternity pay is to be paid
+
+(1) In this regulation, “**pay day**” means a day on which it has been agreed, or it is the normal practice between an employer or former employer and a woman who is or was an employee of his, that payments by way of remuneration are to be made, or, where there is no such agreement or normal practice, the last day of a calendar month.
+
+(2) In any case where—
+
+- (a) a decision has been made by an adjudication officer, appeal tribunal or Commissioner in proceedings under Part III of the 1975 Act as a result of which a woman is entitled to an amount of statutory maternity pay; and
+- (b) the time for bringing an appeal against the decision has expired and either—
+  - (i) no such appeal has been brought; or
+  - (ii) such an appeal has been brought and has been finally disposed of,
+
+  that amount of statutory maternity pay shall be paid within the time specified in paragraph (3).
+
+(3) Subject to paragraphs (4) and (5), the employer or former employer shall pay the amount not later than the first pay day after—
+
+- (a) where an appeal has been brought, the day on which the employer or former employer receives notification that it has been finally disposed of;
+- (b) where leave to appeal has been refused and there remains no further opportunity to apply for leave, the day on which the employer or former employer receives notification of the refusal; and
+- (c) in any other case, the day on which the time for bringing an appeal expires.
+
+(4) Subject to paragraph (5), where it is impracticable, in view of the employer's or former employer's methods of accounting for and paying remuneration, for the requirement of payment referred to in paragraph (3) to be met by the pay day referred to in that paragraph, it shall be met not later than the next following pay day.
+
+(5) Where the employer or former employer would not have remunerated the woman for her work in the week in question as early as the pay day specified in paragraph (3) or (if it applies) paragraph (4), the requirement of payment shall be met on the first day on which the woman would have been remunerated for her work in that week.
+
+### 30. Payments by the Secretary of State
+
+Where the Secretary of State becomes liable in accordance with regulation 7 to make payments of statutory maternity pay to a woman, the first payment shall be made as soon as reasonably practicable after he becomes so liable, and payments thereafter shall be made at weekly intervals, by means of an instrument of payment or by such other means as appears to the Secretary of State to be appropriate in the circumstances of any particular case.
+
+### 31. Persons unable to act
+
+(1) Where in the case of any woman—
+
+- (a) statutory maternity pay is payable to her or she is alleged to be entitled to it;
+- (b) she is unable for the time being to act; and
+- (c) either—
+  - (i) no receiver has been appointed by the Court of Protection with power to receive statutory maternity pay on her behalf, or
+  - (ii) in Scotland, her estate is not being administrated by any tutor, curator or other guardian acting or appointed in terms of law,
+
+the Secretary of State may, upon written application to him by a person who, if a natural person, is over the age of 18, appoint that person to exercise, on behalf of the woman any right to which she may be entitled under Part V of the 1986 Act and to deal on her behalf with any sums payable to her.
+
+(2) Where the Secretary of State has made an appointment under paragraph (1)—
+
+- (a) he may at any time in his absolute discretion revoke it;
+- (b) the person appointed may resign his office after having given one month's notice in writing to the Secretary of State of his intention to do so; and
+- (c) the appointment shall terminate when the Secretary of State is notified that a receiver or other person to whom paragraph (1)(c) applies has been appointed.
+
+(3) Anything required by Part V of the 1986 Act to be done by or to any woman who is unable to act may be done by or to the person appointed under this regulation to act on her behalf, and the receipt of the person so appointed shall be a good discharge to the woman's employer or former employer for any sum paid.
+
+## PART VII — OFFENCES
+
+### 32. Offences[^key-88ebe32e742777c88cf8fa4c8e61f62e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Social Services.
+
+John Major
+
+Minister of State
+
+Department of Health and Social Security
+
+EXPLANATORY NOTE
+
+These regulations make provision as to statutory maternity pay (SMP) introduced by Part V of and Schedule 4 to the Social Security Act 1986 (“the 1986 Act”). They are made under powers in the 1986 Act which have not yet been in force for 12 months. Accordingly the regulations are exempt, by section 61(5) of the Act, from reference to the Social Security Advisory Committee and are made without reference to that Committee.
+
+Part I relates to the citation, commencement and interpretation of the regulations.
+
+Part II contains provisions relating to entitlement to SMP. Regulation 2 prescribes when the maternity pay period of 18 weeks begins in cases where the woman does not stop work until after the start of the 11th week before her expected week of confinement. It also sets out the provisions which apply when the woman is confined before the 11th week before her expected week of confinement. Regulations 3 and 4 contain provisions specifying entitlement to SMP where the woman's contract of service is ended before the 14th week before the expected week of confinement.
+
+Regulation 5 provides for 2 or more contracts of service to be treated as a single contract where both employer and employee are the same. Regulation 6 specifies the lower rate of SMP. Regulation 7 specifies the circumstances in which the liability to make payments of SMP is to be that of the Secretary of State and not the employer. Regulations 8 to 10 specify circumstances in which there is to be no liability to make payments of SMP.
+
+Part III provides for weeks which would otherwise break a period of continuous employment to count in determining whether employment was continuous. These include weeks where the woman was absent because of a temporary cessation of work, or because of pregnancy or confinement, even though no contract of service existed between the woman and her former employer (regulation 11); weeks falling between a dismissal and reinstatement (regulation 12) and weeks in which the woman did not work because of a trade dispute at her place of employment (regulation 13). Breaks due to a change in ownership or control of the undertaking or business in which she worked are disregarded in determining whether her employment is continuous (regulation 14). Time spent in the reserve forces is also disregarded (regulation 15).
+
+Regulation 16 contains provisions as to when a contract of service is to be treated as not normally involving or having involved employment for less than 16 hours weekly.
+
+Part IV contains general provisions relating to the meaning of \`employer' (regulation 17); to the treatment of 2 or more employers as one (regulation 18); to the payments which are to be regarded as contractual remuneration (regulation 19); to the meaning of \`earnings' (regulation 20) and to the calculation of normal weekly earnings (regulation 21).
+
+Part V of the Regulations contains provisions relating to the administration of SMP including the provision of information by women (regulation 22) and the keeping of records by employers (regulation 26).
+
+Part VI relates to the payments of SMP both by employers (regulations 27–29) and by the Secretary of State (regulation 30). Regulation 31 provides for the payment of SMP where the woman is unable to act.
+
+Part VII relates to offences.
+
+## Annotations
+
+[^key-43018903d4f9a97390d52a6abc04a7aa]: Modification: Instrument cert. functs. trans. (1.4.1999) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1999/2/section/1/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1999/2/schedule/2)
+
+[^key-abba8f091767f052af180ec7c2b47bb7]: Modification: Instrument applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii)[(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+
+[^key-f8e7d5f5fb649f64ee8eab8bbdaf45df]: Modification: Instrument applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+
+[^key-ce337a857e3040c300ce3f2e9c71501c]: Modification: Regulations applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)): (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399/contents/made), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/made), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4/made))
+
+[^key-e8cfa61eaf1efce40fb61f554367a870]: Textual amendment: Words in reg. 1(2) inserted (16.11.1992) by [The Social Security (Miscellaneous Provisions) Amendment (No. 2) Regulations 1992 (S.I. 1992/2595)](https://www.legislation.gov.uk/uksi/1992/2595), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2595/regulation/1), [12](https://www.legislation.gov.uk/uksi/1992/2595/regulation/12)
+
+[^key-bd570df7c9a1f753da7bb722253b38f2]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1986/1960/regulation/1/2) inserted (6.4.2005) by [The Statutory Maternity Pay (General) (Amendment) Regulations 2005 (S.I. 2005/729)](https://www.legislation.gov.uk/uksi/2005/729), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/729/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2005/729/regulation/2)
+
+[^key-cb8a0d88277c4f10d508ebcb2f2ed8db]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/1986/1960/regulation/2) substituted (1.10.2006) by [The Statutory Maternity Pay, Social Security (Maternity Allowance) and Social Security (Overlapping Benefits) (Amendment) Regulations 2006 (S.I. 2006/2379)](https://www.legislation.gov.uk/uksi/2006/2379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2379/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2006/2379/regulation/3/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2379/regulation/1/2))
+
+[^key-01550f457089addf731e54a5311ce066]: Textual amendment: Reg. 4(1) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Social Security Maternity Benefits and Statutory Sick Pay (Amendment) Regulations 1994 (S.I. 1994/1367)](https://www.legislation.gov.uk/uksi/1994/1367), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/1367/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/1994/1367/regulation/3/2)
+
+[^key-9f5a0a88e301d66134097b94ab45733f]: Textual amendment: Words in reg. 4(2) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Social Security Maternity Benefits and Statutory Sick Pay (Amendment) Regulations 1994 (S.I. 1994/1367)](https://www.legislation.gov.uk/uksi/1994/1367), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/1367/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/1994/1367/regulation/3/3/a)
+
+[^key-f781620627537e3a6820b02b0c8c8aaa]: Textual amendment: Words in reg. 4(2) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Social Security Maternity Benefits and Statutory Sick Pay (Amendment) Regulations 1994 (S.I. 1994/1367)](https://www.legislation.gov.uk/uksi/1994/1367), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/1367/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/1994/1367/regulation/3/3/b)
+
+[^key-057dcdc46e2e31023de65f36be677d1f]: Textual amendment: Reg. 4(3) inserted (6.4.1988) by [The Statutory Maternity Pay (General) Amendment Regulations 1988 (S.I. 1988/532)](https://www.legislation.gov.uk/uksi/1988/532), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/532/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1988/532/regulation/2)
+
+[^key-4c52cb31eb767d92c2e243f414526eb8]: Textual amendment: Reg. 4(3) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Social Security Maternity Benefits and Statutory Sick Pay (Amendment) Regulations 1994 (S.I. 1994/1367)](https://www.legislation.gov.uk/uksi/1994/1367), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/1367/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/1994/1367/regulation/3/4)
+
+[^key-45bfae88d8a118e5b9eded98047ecfa2]: Textual amendment: Reg. 6 substituted (6.4.2003) by [The Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/b), [3](https://www.legislation.gov.uk/uksi/2002/2690/regulation/3)
+
+[^key-d42c49a54b59635d750d1eb7229014ed]: Textual amendment: Sum in [Reg. 6](https://www.legislation.gov.uk/uksi/1986/1960/regulation/6) substituted (5.4.2026 for specified purposes and 6.4.2026 otherwise with effect in accordance with art. 1(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(e)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/e), [9](https://www.legislation.gov.uk/uksi/2026/148/article/9)
+
+[^key-b443d0ab98aec27ce9a8a14b74a604ae]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/1986/1960/regulation/7/2) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/42)
+
+[^key-9a9c6b8cc9875e2ada835904ce58637b]: Textual amendment: Words in reg. 7(4)(a)(iii) omitted (15.9.2003) by virtue of [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 44(a)(i)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/44/a/i) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+
+[^key-31bd008a55163e6304cc55ef627fb775]: Textual amendment: Words in reg. 7(4)(a)(iii) inserted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 44(a)(ii)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/44/a/ii) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+
+[^f00001]: Footnote: section 11A was inserted by the Bankruptcy (Scotland) Act 1985 (c. 66), section 75(1), Schedule 7, paragraph 4.
+
+[^key-55b39ff6fe0ad41d066aa93be53ae981]: Textual amendment: Words in reg. 7(4)(b)(iii) omitted (15.9.2003) by virtue of [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 44(b)(i)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/44/b/i) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+
+[^key-eb389874382a4a14c88aacc2faedc22e]: Textual amendment: Words in reg. 7(4)(b)(iii) inserted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 44(b)(ii)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/44/b/ii) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+
+[^key-1c151174b7b2ef97fdf60d3086087d19]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/1986/1960/regulation/9A) inserted (1.10.2006) by [The Statutory Maternity Pay, Social Security (Maternity Allowance) and Social Security (Overlapping Benefits) (Amendment) Regulations 2006 (S.I. 2006/2379)](https://www.legislation.gov.uk/uksi/2006/2379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2379/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2006/2379/regulation/3/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2379/regulation/1/2))
+
+[^key-b06d1a97e9fc4aa0d390ef6da7227777]: Textual amendment: Word in reg. 11(1)(d) added (24.11.2002) by [The Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [4(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/4/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/2))
+
+[^key-8341ba37a93c04ef4d95ed1e459c8948]: Textual amendment: Reg. 11(1)(e) added (8.12.2002) by [The Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/c), [4(b)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/4/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/2))
+
+[^key-19e810eb7ad11a2fac34dff5e29829b8]: Textual amendment: Words in reg. 11(1)(e) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/4/2)
+
+[^key-0ef1ee8164dd7e09d16dceb5ab21e05a]: Textual amendment: Words in [reg. 11(1)(e)](https://www.legislation.gov.uk/uksi/1986/1960/regulation/11/1/e) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/354/regulation/4/2)
+
+[^key-83c4bc793fa74e1c9b0ba9bb9f208a44]: Textual amendment: Reg. 11(3A) inserted (6.4.1990) by [The Statutory Maternity Pay (General) Amendment Regulations 1990 (S.I. 1990/622)](https://www.legislation.gov.uk/uksi/1990/622), [regs. 1](https://www.legislation.gov.uk/uksi/1990/622/regulation/1), [2](https://www.legislation.gov.uk/uksi/1990/622/regulation/2)
+
+[^key-a323e7681f73334d277da91d1d41f781]: Textual amendment: [Reg. 12(1)(d)](https://www.legislation.gov.uk/uksi/1986/1960/regulation/12/1/d) and word inserted (with effect in accordance with reg. 2 of the amending S.I.) by [The Statutory Maternity Pay (General) and the Statutory Paternity Pay and Statutory Adoption Pay (General) (Amendment) Regulations 2005 (S.I. 2005/358)](https://www.legislation.gov.uk/uksi/2005/358), [regs. 1](https://www.legislation.gov.uk/uksi/2005/358/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2005/358/regulation/3/2)
+
+[^key-8f0ff43a71387709861dd50a9a16c24f]: Textual amendment: Words in reg. 14(f) substituted (6.4.1990) by [The Statutory Maternity Pay (General) Amendment Regulations 1990 (S.I. 1990/622)](https://www.legislation.gov.uk/uksi/1990/622), [regs. 1](https://www.legislation.gov.uk/uksi/1990/622/regulation/1), [3](https://www.legislation.gov.uk/uksi/1990/622/regulation/3)
+
+[^key-5cc3f207a70f0912ed784599a3cdaa5e]: Textual amendment: Words in [reg. 14(f)](https://www.legislation.gov.uk/uksi/1986/1960/regulation/14/f) substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/11)
+
+[^key-56685ad35c02bcf4c38d58d37ca60c69]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/1986/1960/regulation/16A) inserted (6.4.1990) by [The Statutory Maternity Pay (General) Amendment Regulations 1990 (S.I. 1990/622)](https://www.legislation.gov.uk/uksi/1990/622), [regs. 1](https://www.legislation.gov.uk/uksi/1990/622/regulation/1), [4](https://www.legislation.gov.uk/uksi/1990/622/regulation/4)
+
+[^key-1120ff720940f85d5c78055244052384]: Textual amendment: Words in reg. 17(1) inserted (1.10.2006) by [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/1/1), [Sch. 8 para. 53(2)(a)](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/53/2/a)
+
+[^key-a0565cb6ae6cbcc672f8d2ce7252db56]: Textual amendment: Words in reg. 17(1) omitted (1.10.2006) by virtue of [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/1/1), [Sch. 8 para. 53(2)(b)](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/53/2/b)
+
+[^f00002]: Footnote: , amended by S.I. 1980/1713 and 1984/350.
+
+[^key-8d91b74bf6f6aecc1a60710ca5be8b76]: Textual amendment: [Reg. 17(1A)](https://www.legislation.gov.uk/uksi/1986/1960/regulation/17/1A) substituted (6.4.2007) by [The Employment Equality (Age) (Consequential Amendments) Regulations 2007 (S.I. 2007/825)](https://www.legislation.gov.uk/uksi/2007/825), [regs. 1](https://www.legislation.gov.uk/uksi/2007/825/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2007/825/regulation/6/2)
+
+[^f00003]: Footnote: , to which there are amendments not relevant to these regulations.
+
+[^key-a98dc20bafe1626aeacfe676f8f83579]: Textual amendment: Reg. 20(1) omitted (16.11.1992) by virtue of [The Social Security (Miscellaneous Provisions) Amendment (No. 2) Regulations 1992 (S.I. 1992/2595)](https://www.legislation.gov.uk/uksi/1992/2595), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2595/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/1992/2595/regulation/13/2)
+
+[^key-697230ec68a28d086ae365b2ba550e39]: Textual amendment: Reg. 20(2) substituted (6.4.1999) by [The Social Security Contributions, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/567)](https://www.legislation.gov.uk/uksi/1999/567), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1999/567/regulation/1/1/b), [12](https://www.legislation.gov.uk/uksi/1999/567/regulation/12)
+
+[^key-89bd51774740970993153c29e92267c1]: Textual amendment: Words in reg. 20(2)(a) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security, Occupational Pension Schemes and Statutory Payments (Consequential Provisions) Regulations 2007 (S.I. 2007/1154)](https://www.legislation.gov.uk/uksi/2007/1154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1154/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2007/1154/regulation/4/2)
+
+[^key-839d6f102ff37479af362aec60540bd2]: Textual amendment: Words in reg. 20(2)(a) inserted (1.10.2006) by [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/1/1), [Sch. 8 para. 54(2)](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/54/2) (with [Sch. 8 para. 54(4)](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/54/4))
+
+[^key-9509f449fad9f1bff5148285327a375f]: Textual amendment: Words in reg. 20(2)(b) inserted (1.10.2006) by [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/1/1), [Sch. 8 para. 54(3)](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/54/3) (with [Sch. 8 para. 54(4)](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/54/4))
+
+[^key-7bcaee91c18a71248b53e50502c6b7b7]: Textual amendment: Reg. 20(3) omitted (16.11.1992) by virtue of [The Social Security (Miscellaneous Provisions) Amendment (No. 2) Regulations 1992 (S.I. 1992/2595)](https://www.legislation.gov.uk/uksi/1992/2595), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2595/regulation/1), [13(4)](https://www.legislation.gov.uk/uksi/1992/2595/regulation/13/4)
+
+[^key-559d5bc51c7a6624183fe1f74a1a098c]: Textual amendment: Words in reg. 20(4) substituted (24.11.2002) by [The Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [5(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/5/a)
+
+[^key-1d80a47186945dfa91f531ce4dc688d5]: Textual amendment: Reg. 20(4)(za) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security, Occupational Pension Schemes and Statutory Payments (Consequential Provisions) Regulations 2007 (S.I. 2007/1154)](https://www.legislation.gov.uk/uksi/2007/1154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1154/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2007/1154/regulation/4/3)
+
+[^f00004]: Footnote: , as amended by the Social Security Act 1986 (c.50), section 68.
+
+[^key-b775dcdcae7af8d85ba4885d5faa32d4]: Textual amendment: Reg. 20(4)(e)-(g) added (8.12.2002) by [The Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/c), [5(b)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/5/b)
+
+[^key-b4a18335402b2c03a151f2cc9b882f66]: Textual amendment: Semicolon in reg. 20(4)(g) substituted for full stop (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/4/3/a)
+
+[^key-b8ecc171c13ec879ead1db90126e6f4d]: Textual amendment: Reg. 20(4)(h) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2014/3255/article/4/3/b)
+
+[^key-252252d924e80721e64324d9c42a28ef]: Textual amendment: [Reg. 20(4)(i)](https://www.legislation.gov.uk/uksi/1986/1960/regulation/20/4/i) and semicolon inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/354/regulation/4/3)
+
+[^key-9642688750119b584415ad67b576af6e]: Textual amendment: [Reg. 20(4)(i)](https://www.legislation.gov.uk/uksi/1986/1960/regulation/20/4/i): semicolon substituted for full stop (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2025/201/regulation/4/2/a)
+
+[^key-68b5d850abc49fbf74e41b6c1a9bbe9e]: Textual amendment: [Reg. 20(4)(j)](https://www.legislation.gov.uk/uksi/1986/1960/regulation/20/4/j) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2025/201/regulation/4/2/b)
+
+[^key-0bbcb42dc28d272758408a875be3e28a]: Textual amendment: Reg. 20(5)(6) omitted (16.11.1992) by virtue of [The Social Security (Miscellaneous Provisions) Amendment (No. 2) Regulations 1992 (S.I. 1992/2595)](https://www.legislation.gov.uk/uksi/1992/2595), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2595/regulation/1), [13(4)](https://www.legislation.gov.uk/uksi/1992/2595/regulation/13/4)
+
+[^key-a72500505c7a487a4349db9c255d0b9e]: Textual amendment: Words in reg. 21(1) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Social Security Maternity Benefits and Statutory Sick Pay (Amendment) Regulations 1994 (S.I. 1994/1367)](https://www.legislation.gov.uk/uksi/1994/1367), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/1367/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/1994/1367/regulation/5/2)
+
+[^key-7f8869b6b357bc1e4de5cc8c342b0019]: Textual amendment: Words in reg. 21(2) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Social Security Maternity Benefits and Statutory Sick Pay (Amendment) Regulations 1994 (S.I. 1994/1367)](https://www.legislation.gov.uk/uksi/1994/1367), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/1367/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/1994/1367/regulation/5/3)
+
+[^key-4124698f80b9a07f410ef72066f13ebd]: Textual amendment: Words in reg. 21(3) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Social Security Maternity Benefits and Statutory Sick Pay (Amendment) Regulations 1994 (S.I. 1994/1367)](https://www.legislation.gov.uk/uksi/1994/1367), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/1367/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/1994/1367/regulation/5/4)
+
+[^key-b4623843f51f148a29d7ae599c94c6ab]: Textual amendment: Reg. 21(7) substituted (6.4.2005) by [The Statutory Maternity Pay (General) (Amendment) Regulations 2005 (S.I. 2005/729)](https://www.legislation.gov.uk/uksi/2005/729), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/729/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2005/729/regulation/3)
+
+[^key-a812f8e495be8cbcf0b7398e3a7a32c2]: Textual amendment: [Reg. 21(8)-(10)](https://www.legislation.gov.uk/uksi/1986/1960/regulation/21/8) inserted (with application in accordance with reg. 2(1)(2) of the amending S.I.) by [The Maternity Allowance, Statutory Maternity Pay, Statutory Paternity Pay, Statutory Adoption Pay, Statutory Shared Parental Pay and Statutory Parental Bereavement Pay (Normal Weekly Earnings etc.) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/450)](https://www.legislation.gov.uk/uksi/2020/450), [regs. 1](https://www.legislation.gov.uk/uksi/2020/450/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/450/regulation/3)
+
+[^key-f59ba95c0613f28e6858fd5a415d352f]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/1986/1960/regulation/21A) revoked (24.11.2002) by [The Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [6](https://www.legislation.gov.uk/uksi/2002/2690/regulation/6)
+
+[^key-62d99f389a16563b6b619d5c80ba606a]: Textual amendment: Reg. 21A inserted (6.4.1988) by [The Statutory Maternity Pay (General) Amendment Regulations 1988 (S.I. 1988/532)](https://www.legislation.gov.uk/uksi/1988/532), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/532/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1988/532/regulation/3)
+
+[^key-15e690d834b71175743342660459fa3f]: Textual amendment: Words in reg. 21A heading substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [18(2)(a)](https://www.legislation.gov.uk/uksi/1995/829/regulation/18/2/a) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-7904e775d8578f89d44fa0fef8e54554]: Textual amendment: Reg. 21B substituted (6.4.2005) by [The Statutory Maternity Pay (General) (Amendment) Regulations 2005 (S.I. 2005/729)](https://www.legislation.gov.uk/uksi/2005/729), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/729/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/729/regulation/4)
+
+[^key-764dd8d909c1493d9440ec6e1b888a1f]: Textual amendment: [Reg. 21B(b)(i)(ii)](https://www.legislation.gov.uk/uksi/1986/1960/regulation/21B/b/i/ii) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security, Occupational Pension Schemes and Statutory Payments (Consequential Provisions) Regulations 2007 (S.I. 2007/1154)](https://www.legislation.gov.uk/uksi/2007/1154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1154/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2007/1154/regulation/4/4)
+
+[^key-037b9c0f2bbc5f538a5ea5d1aa31637e]: Textual amendment: Words in reg. 23(1)(a) substituted (24.11.2002) by [The Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [7(2)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/7/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/2))
+
+[^key-6b0271568fa6d267ce3354c8d6194312]: Textual amendment: Words in reg. 23(1)(b) substituted (24.11.2002) by [The Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [7(2)(b)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/7/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/2))
+
+[^key-374fdfcc686cfe821f9f6c2adf741b63]: Textual amendment: Words in reg. 23(2) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Social Security Maternity Benefits and Statutory Sick Pay (Amendment) Regulations 1994 (S.I. 1994/1367)](https://www.legislation.gov.uk/uksi/1994/1367), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/1367/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/1994/1367/regulation/6/2)
+
+[^key-e5de873eaf4cacf18bef958594ae81ff]: Textual amendment: Words in reg. 23(2)(a) omitted (24.11.2002) by virtue of [The Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [7(3)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/7/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/2))
+
+[^key-e3d7b4f01e74583e7c01168833e89d39]: Textual amendment: Words in reg. 23(2)(b) substituted (24.11.2002) by [The Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [7(3)(b)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/7/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/2))
+
+[^key-751e0d724e89029785d3f6dc54ab866c]: Textual amendment: Reg. 23(4) substituted (24.11.2002) by [The Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [7(4)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/7/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/2))
+
+[^key-02e18eff0bfb454c4611a84c36fafe4a]: Textual amendment: Reg. 23(4)(5) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Social Security Maternity Benefits and Statutory Sick Pay (Amendment) Regulations 1994 (S.I. 1994/1367)](https://www.legislation.gov.uk/uksi/1994/1367), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/1367/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/1994/1367/regulation/6/3)
+
+[^key-dc74e9ac370cfad8ee843353eeed6cee]: Textual amendment: Reg. 25A inserted (6.4.1990) by [The Statutory Maternity Pay (General) Amendment Regulations 1990 (S.I. 1990/622)](https://www.legislation.gov.uk/uksi/1990/622), [regs. 1](https://www.legislation.gov.uk/uksi/1990/622/regulation/1), [7](https://www.legislation.gov.uk/uksi/1990/622/regulation/7)
+
+[^key-4fccbe57ba30b3be7b139ee94199be69]: Textual amendment: Words in reg. 25A(1) substituted (24.11.2002) by [The Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [8(2)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/8/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/2))
+
+[^key-3c9097ed15c90a570f9ebfb829db4297]: Textual amendment: Words in [reg. 25A(1)](https://www.legislation.gov.uk/uksi/1986/1960/regulation/25A/1) substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [46](https://www.legislation.gov.uk/uksi/2008/1554/regulation/46)
+
+[^key-6e4ef10a6484189c0b9184105e4331b6]: Textual amendment: Word in reg. 25A(3) omitted (24.11.2002) by virtue of [The Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [8(3)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/8/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/2))
+
+[^key-2aeda92db2c46d141fe1b4dca5ee5db0]: Textual amendment: Words in reg. 25A(3) omitted (24.11.2002) by virtue of [The Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [8(3)(b)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/8/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/2))
+
+[^key-9e0ab16c7ebe752c48ee1d253022f1b0]: Textual amendment: Words in reg. 25A(4)(b)(i) substituted (24.11.2002) by [The Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [8(4)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/8/4/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/2))
+
+[^key-f0ce43b4e73dd0518bdfd9a90bbe5339]: Textual amendment: Words in reg. 25A(4)(b)(ii) omitted (24.11.2002) by virtue of [The Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [8(4)(b)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/8/4/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/2))
+
+[^key-5d62ee7e45abb0f63d04f119e9fd27a9]: Textual amendment: Words in reg. 25A(5) substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [18(3)](https://www.legislation.gov.uk/uksi/1995/829/regulation/18/3) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-ba769dd1cb0baa1246ac05897d1bae46]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/1986/1960/regulation/26A) inserted (6.4.2005) by [The Statutory Maternity Pay (General) and Statutory Sick Pay (General) (Amendment) Regulations 2005 (S.I. 2005/989)](https://www.legislation.gov.uk/uksi/2005/989), [art. 1(2)](https://www.legislation.gov.uk/uksi/2005/989/article/1/2), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2005/989/regulation/2/2)
+
+[^key-582dd149d695e812906e962d3973f01f]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/1986/1960/regulation/28) substituted (1.10.2006) by [The Statutory Maternity Pay, Social Security (Maternity Allowance) and Social Security (Overlapping Benefits) (Amendment) Regulations 2006 (S.I. 2006/2379)](https://www.legislation.gov.uk/uksi/2006/2379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2379/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2006/2379/regulation/3/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2379/regulation/1/2))
+
+[^key-88ebe32e742777c88cf8fa4c8e61f62e]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/uksi/1986/1960/regulation/32) revoked (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Statutory Maternity Pay (General) and Statutory Sick Pay (General) (Amendment) Regulations 2005 (S.I. 2005/989)](https://www.legislation.gov.uk/uksi/2005/989), [art. 1(2)](https://www.legislation.gov.uk/uksi/2005/989/article/1/2), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2005/989/regulation/2/3)

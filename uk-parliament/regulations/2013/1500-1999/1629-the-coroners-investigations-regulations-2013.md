@@ -1,0 +1,496 @@
+---
+title: The Coroners (Investigations) Regulations 2013
+id: uksi/2013/1629
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-07-02'
+text_date: '2024-09-09'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/1629
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/1629/pdfs/uksiem_20131629_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1629/pdfs/uksi_20131629_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1629/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Coroners (Investigations) Regulations 2013
+
+> Text as at 2024-09-09.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 1629
+
+Coroners, England And Wales
+
+The Coroners (Investigations) Regulations 2013
+
+Made
+
+2nd July 2013
+
+Laid before Parliament
+
+4th July 2013
+
+Coming into force
+
+25th July 2013
+
+The Lord Chancellor, in exercise of the powers conferred by section 43 of the Coroners and Justice Act 2009[^f00001] and with the agreement of the Lord Chief Justice, makes the following Regulations:
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-9d18506e58ca290993d5d86332fb4b83]
+
+These Regulations may be cited as the Coroners (Investigations) Regulations 2013 and shall come into force on 25th July 2013.
+
+### 2. Interpretation[^key-cb05fc61b2bafc61fcfcddeaa5eb21fa]
+
+(1) In these Regulations—
+
+- “2009 Act” means the Coroners and Justice Act 2009;
+- “bank holiday” means a day designated as a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971 [^f00002];
+- “coroner” means—
+  - (a) a senior coroner, area coroner or assistant coroner;
+  - (b) the Chief Coroner when conducting an investigation under paragraph 1 of Schedule 10 to the 2009 Act; or
+  - (c) a judge, former judge or former coroner conducting an investigation under paragraph 3 of Schedule 10 to the 2009 Act;
+- “document” means any medium in which information of any description is recorded or stored;
+- “enforcing authority” has the same meaning as in section 18(7) of the Health and Safety at Work etc. Act 1974[^f00003];
+- “investigation” means an investigation into a death conducted under Part 1 of the 2009 Act;
+- “working day” means a day that is not a Saturday, a Sunday, a bank holiday, Christmas Day or Good Friday.
+
+(2) All references to sections and schedule provisions in these Regulations are references to provisions in the 2009 Act, unless a regulation specifically states otherwise.
+
+(3) A reference to a Form in these Regulations is a reference to a Form in the Schedule to these Regulations.
+
+### 3. Application[^key-ee651db14c7e0d45c1dda8f8de7930a1]
+
+(1) These Regulations shall have effect in relation to any investigation (including any inquest) which has not been completed before 25th July 2013.
+
+(2) Any decision of the coroner made in relation to an investigation, or inquest as the case may be, including any decision relating to a post-mortem examination before 25th July 2013 shall stand.
+
+## PART 2 — General
+
+### 4. Coroner availability for urgent matters[^key-e95cffbcb48800dabd5ab30d4117afcd]
+
+A coroner must be available at all times to address matters relating to an investigation into a death which must be dealt with immediately and cannot wait until the next working day.
+
+### 5. Register of reported deaths[^key-5c3f846bfc044e861d1d640b832c0120]
+
+(1) The senior coroner must keep a register of all deaths reported in his or her coroner area.
+
+(2) The senior coroner must record in the register, the following information, when known—
+
+- (a) the date on which a death was reported under section 1;
+- (b) the deceased’s full name, gender, age and full address;
+- (c) any other information that aids the identification of the deceased; and
+- (d) the place of death or, if that is unknown, the place where the body was found.
+
+### 6. Informing the deceased’s next of kin or personal representative[^key-a52c7548f724d387657a02742cfc298c]
+
+A coroner who is under a duty to investigate a death under section 1, must attempt to identify the deceased’s next of kin or personal representative and inform that person, if identified, of the coroner’s decision to begin an investigation.
+
+### 7. Delegation of administrative functions[^key-b38b782b0761d96934b55d808d7c17d1]
+
+A coroner may delegate administrative, but not judicial functions, to coroner’s officers and other support staff.
+
+### 8. Providing information to the registrar of births and deaths[^key-ee43344cbc2e3d5b8dd60185686de2a6]
+
+Where a coroner suspends an investigation under paragraph 1, 2, 3 or 5 of Schedule 1 the coroner must provide the registrar of births and deaths with the particulars required to register the death under the Births and Deaths Registration Act 1953[^f00004].
+
+### 9. Interim certificate of fact of death[^key-de6f0e823db0b66711326bbaf5cf1d50]
+
+(1) Where a coroner has begun but not yet completed or discontinued an investigation, he or she may, if requested to do so by the next of kin or personal representative of the deceased, provide that person with a certificate of the fact of death.
+
+(2) A coroner must use Form 1 when issuing a certificate of the fact of death.
+
+### 10. Resumption of investigation[^key-df54dcfc26dee3c88e219ab69377db9d]
+
+Where a coroner resumes a suspended investigation in accordance with paragraph 7 of Schedule 1, the coroner must notify—
+
+- (a) The next of kin or personal representative of the deceased; and
+- (b) any other interested persons who have made themselves known to the coroner,
+
+of the resumption and the reason for the resumption of the investigation.
+
+## PART 3 — Post-mortem examinations
+
+### 11. Delay in post-mortem examination to be avoided[^key-47d7f2a0c28867458690c69ab5a634a2]
+
+A coroner who considers that a post-mortem examination should be made under section 14, shall request a suitable practitioner to make that post-mortem examination as soon as reasonably practicable.
+
+### 12. Post-mortem examination where homicide offence is suspected[^key-51aab3038f8419578f0755bb178ac1a4]
+
+Where a coroner is informed by a chief officer of police that a homicide offence is suspected in connection with the death of the deceased, the coroner must consult that chief officer of police about who should make the post-mortem examination.
+
+### 13. Notification of post-mortem examination[^key-083370e8d05ce1b1d2ca479b2087f57b]
+
+(1) Where a coroner has requested a suitable practitioner to make a post-mortem examination, the coroner must notify the persons or bodies listed in paragraph (3) of the date, time and place at which that post-mortem examination is to be made.
+
+(2) A coroner need not give such notification, where it is impracticable or where to do so would cause the post-mortem examination to be unreasonably delayed.
+
+(3) The persons to be notified are—
+
+- (a) the next of kin or the personal representative of the deceased or any other interested person who has notified the coroner in advance of his or her desire to be represented at the post-mortem examination;
+- (b) the deceased’s regular medical practitioner, if he or she has notified the coroner of his or her desire to be represented at the post-mortem examination;
+- (c) if the deceased died in hospital, that hospital;
+- (d) if the death of the deceased may have been caused by an accident or disease which must be reported to an enforcing authority, to that enforcing authority or the appropriate inspector or representative of that authority;
+- (e) a Government department which has notified the coroner of its desire to be represented at the examination; and
+- (f) if the chief officer of police has notified the coroner of his or her desire to be represented at the examination, the chief officer of police.
+
+(4) Any of the persons or bodies listed in paragraph (3) are entitled to be represented at a post-mortem examination by a medical practitioner, or if they are a medical practitioner, may attend themselves.
+
+(5) The following persons may attend a post-mortem examination—
+
+- (a) A representative of the chief officer of police from the police force of which he or she is chief officer; and
+- (b) any other person including a trainee doctor, medical student or other medical practitioner but only with the consent of the coroner.
+
+### 14. Preservation or retention of material from a post-mortem examination[^key-ddcdd1c551f1d4618c59021e420c20b3]
+
+(1) Where a suitable practitioner conducts a post-mortem examination under section 14 and preserves or retains material which in his or her opinion relates to the cause of death or identity of the deceased, he or she must provide the coroner with written notification of that fact.
+
+(2) A suitable practitioner who preserves or retains material under paragraph (1) must provide the coroner with a written notification that—
+
+- (a) identifies the material being preserved or retained; and
+- (b) explains why that practitioner is of the opinion set out in paragraph (1).
+
+(3) A written notification under paragraph (2) may—
+
+- (a) specify the period of time for which the suitable practitioner believes the material should be preserved or retained; and
+- (b) specify different periods of time in relation to different preserved or retained material.
+
+(4) On receiving a notification under paragraph (1), the coroner must notify the suitable practitioner of the period of time for which he or she requires the material to be preserved or retained for the purposes of fulfilling his or her functions under the 2009 Act.
+
+(5) On making the notification under paragraph (4) the coroner must also notify, where known—
+
+- (a) the next of kin or personal representative of the deceased; and
+- (b) any other relative of the deceased who has notified the coroner of his or her desire to be represented at the post-mortem examination,
+
+that material is being preserved or retained, the period or periods for which it is required to be preserved or retained and the options for dealing with the material under paragraph (6) once the period or periods of preservation or retention has or have expired.
+
+(6) The options for dealing with material are—
+
+- (a) disposal of the material by burial, cremation or other lawful disposal by the suitable practitioner;
+- (b) return of the material to a person listed in sub-paragraph (a) or (b) of paragraph (5); or
+- (c) retention of the material with the consent of a person listed in sub-paragraph (a) or (b) of paragraph (5) for medical research or other purposes in accordance with the Human Tissue Act 2004[^f00005].
+
+### 15. Further provisions relating to preservation or retention of material from post-mortem examinations[^key-9d6c7bfaaedcd18c3e1399478c4e7f1a]
+
+(1) A coroner who—
+
+- (a) receives a request from a prosecuting authority, Provost Marshal or the Director of Service Prosecutions under paragraph 1 of Schedule 1 to suspend an investigation because a person may be charged with an offence in relation to the death of the deceased; or
+- (b) becomes aware or is informed under paragraph 2 of Schedule 1 that a person has been charged with an offence in relation to, or connected with, the death of the deceased,
+
+must notify the chief officer of police or prosecuting authority, of any period for which the coroner requires material to be preserved or retained under regulation 14(4).
+
+(2) Where the coroner is informed that a public inquiry is to be held instead of an inquest, the coroner must notify the chairman of that inquiry of any period for which the coroner requires material to be preserved or retained under regulation 14(4).
+
+(3) A coroner may from time to time vary a period notified under regulation 14(4) and must notify both the suitable practitioner and any person notified under regulation 14(5), 15(1) and 15(2) of the variation.
+
+(4) Where a suitable practitioner has received a notification from a coroner under regulation 14(4) and the suitable practitioner believes that the material should be preserved or retained for a different period, the suitable practitioner may request that the coroner vary the time by providing a notification in accordance with regulation 14(2).
+
+(5) Where a suitable practitioner has retained material in accordance with regulation 14 and the period notified under regulation 14(4) has expired, that suitable practitioner must record the fact that—
+
+- (a) the material has been disposed by the suitable practitioner or on behalf of the suitable practitioner;
+- (b) the material has been delivered into the possession of a specified person; or
+- (c) the material has been dealt with in accordance with regulation 14(6).
+
+(6) Any record made by a suitable practitioner under paragraph (5) must be retained by him or her.
+
+### 16. Post-mortem examination report[^key-218d0a16886305a359304f415c521e45]
+
+(1) A suitable practitioner, on completion of a post-mortem examination, must report to the coroner as soon as practicable after the examination has been made.
+
+(2) Unless authorised in writing by the coroner, the suitable practitioner who made the post-mortem examination may not supply any other person with the post-mortem examination report or any copy of that report.
+
+### 17. Discontinuance of investigation where cause of death becomes clear before inquest[^key-33e5743a33410c67e95acf459ebbe646][^key-ba8e118a1b05e441162160b13f2781b8]
+
+Where a coroner discontinues an investigation in accordance with section 4(1) because [^key-ac93e2a51c38bc79cd414d50e4a08b9d]... the cause of death becomes clear in the course of an investigation[^key-8154b12a715886ea383d0b2364a2fcad], the coroner must record the cause of death and notify the next of kin or personal representative of the deceased using Form 2.
+
+## PART 4 — Transfer of investigations
+
+### 18. Transfer of investigations[^key-b333e02b350d72be33806997def8b6b5]
+
+(1) Where Coroner A and Coroner B agree to transfer an investigation under section 2, or the Chief Coroner directs Coroner B to conduct an investigation under section 3—
+
+- (a) Coroner A must provide Coroner B with all relevant evidence, documents and information;
+- (b) Coroner B must notify the next of kin or personal representative of the deceased of the transfer; and
+- (c) Coroner B must notify any other interested persons who have made themselves known to the coroner of the transfer.
+
+(2) A coroner must fulfil their obligations under this regulation within 5 working days of the date the transfer is either agreed or directed, unless there are exceptional circumstances.
+
+### 19. Costs of a transferred investigation[^key-2eb702da7adc90957c36c5f90cc899c8]
+
+(1) Where Coroner A and Coroner B agree to transfer an investigation in accordance with section 2, the relevant authority for Coroner B’s coroner area will be responsible for all costs related to the transferred investigation and any associated inquest from the date the transfer is made.
+
+(2) Where the Chief Coroner directs Coroner B to conduct an investigation in accordance with section 3, the relevant authority for Coroner A’s coroner area shall be responsible for all costs related to the transferred investigation and any associated inquest from the date the transfer is made, unless the Chief Coroner otherwise directs.
+
+## PART 5 — Powers in relation to bodies
+
+### 20. Release of bodies[^key-ed7f1d9ff4d6c59bfdbad312533ef8e9]
+
+(1) A coroner must release the body for burial or cremation as soon as is reasonably practicable.
+
+(2) Where a coroner cannot release the body within 28 days of being made aware that the body is within his or her area, the coroner must notify the next of kin or personal representative of the deceased of the reason for the delay.
+
+### 21. Burial or cremation order[^key-dfaa5d50da9553deec9cf1fa905289f5]
+
+(1) A coroner may only issue an order authorising the burial or cremation of a body where the coroner no longer needs to retain the body for the purposes of the investigation.
+
+(2) A coroner must use Form 3 when issuing an order to bury a body.
+
+### 22. Exhumation[^key-71217a110789d14ca552189cdfb482ea]
+
+(1) A coroner may issue a direction to exhume a body lying within England and Wales.
+
+(2) Where such a direction is made the coroner must use Form 4.
+
+## PART 6 — Disclosure and provision of information
+
+**23.**[^key-779581d2c4051f592edd16985cbf87e3] Part 3 of the Coroners (Inquests) Rules 2013[^f00006] applies to the disclosure of documents to an interested person made by the coroner at any time during the course of an investigation.
+
+### 24. Providing information to a Local Safeguarding Children Board or in Wales a Safeguarding Children Board[^key-d6d1fb86ce32cf6200cb5db99dcbddae][^key-228fb329589de8df592e5dd71c736011]
+
+*Extent: W*
+
+(1) Where a coroner decides to conduct an investigation into a death under section 1 or directs that a post-mortem examination should be made under section 14, and the coroner believes the deceased was under the age of 18, the coroner must notify the appropriate Local Safeguarding Children Board or, as the case may be, the appropriate Safeguarding Children Board[^key-48822814715ccaa14bba50112def9165] within 3 days of making the decision or direction.
+
+(2) A coroner must provide all information to the appropriate Local Safeguarding Children Board or, as the case may be, the appropriate Safeguarding Children Board[^key-20aea3b6b9279a8fd6d7707327606fab].
+
+(3) In this regulation—
+
+- “the appropriate Local Safeguarding Children Board” means the Board established under section 13(1) [^key-102c70c864943d803c3a1a08d1bbd864]... of the Children Act 2004[^f00007] within whose area the deceased died or within whose area the body was found; [^key-3fb2b7435b780670f5a843d4f0109c86]...
+- “the appropriate Safeguarding Children Board” means the board established under section 134 of the Social Services and Well-being (Wales) Act 2014 within whose area the deceased died or within whose area the body was found; and[^key-cc8de647c1d959cec387a5f1bf3f396c]
+- “information” means any information that is—
+  - (a) held by the coroner for the purposes of an investigation under Part 1 of the 2009 Act; and
+  - (b) relates to the death of a person who was or may have been under the age of 18 at the time of death.
+
+### 25. Power of the Chief Coroner to require information[^key-7f257b03dab217b303db644bdebab8a1]
+
+(1) The Chief Coroner may at any time require information from a coroner in relation to a particular investigation or investigations that have or are being conducted by that coroner.
+
+(2) A coroner must provide the Chief Coroner with the information requested under paragraph (1).
+
+### 26. Investigations lasting more than a year[^key-5ed79c119b04f12a545a113e68d3ffb3]
+
+(1) Where an investigation has not been completed or discontinued within a year of the date that the death was reported, the coroner must notify the Chief Coroner of that fact as soon as is reasonably practicable from the date that the investigation becomes a year old and explain why the investigation has not been completed or discontinued.
+
+(2) A coroner who completes or discontinues an investigation that the coroner has previously notified to the Chief Coroner under paragraph (1), must notify the Chief Coroner of the date the investigation is completed or discontinued and provide a reason for any further delay in completing or discontinuing the investigation.
+
+### 27. Retention and release of documents[^key-6b4b34feba43fab8c58e3bb44a3fb43a]
+
+(1) Any document in the possession of a coroner in connection with an investigation or post-mortem examination must, unless a court or the Chief Coroner otherwise directs, be retained by or on behalf of the coroner for at least 15 years from the date that the investigation is completed.
+
+(2) The coroner may provide any document or copy of any document to any person who in the opinion of the coroner is a proper person to have possession of it.
+
+(3) A coroner may charge for the provision of any document or copy of any document in accordance with any regulations made under Schedule 7.
+
+## PART 7 — Action to prevent other deaths
+
+### 28. Report on action to prevent other deaths[^key-95e7733a49a09ea6fc182209c7ba91db]
+
+(1) This regulation applies where a coroner is under a duty under paragraph 7(1) of Schedule 5 to make a report to prevent other deaths.
+
+(2) In this regulation, a reference to “a report” means a report to prevent other deaths made by the coroner.
+
+(3) A report may not be made until the coroner has considered all the documents, evidence and information that in the opinion of the coroner are relevant to the investigation.
+
+(4) The coroner—
+
+- (a) must send a copy of the report to the Chief Coroner and every interested person who in the coroner’s opinion should receive it;
+- (b) must send a copy of the report to the appropriate Local Safeguarding Children Board or as the case may be the appropriate Safeguarding Children Board *(Extent: W)*[^key-ed6f551f0049554837d92aa6535e6f16] (which have *(Extent: W)*[^key-4264f01b7735011295416c48d6f2d2b7] the same meaning as in regulation 24(3)) where the coroner believes the deceased was under the age of 18; and
+- (c) may send a copy of the report to any other person who the coroner believes may find it useful or of interest.
+
+(5) On receipt of a report the Chief Coroner may—
+
+- (a) publish a copy of the report, or a summary of it, in such manner as the Chief Coroner thinks fit; and
+- (b) send a copy of the report to any person who the Chief Coroner believes may find it useful or of interest.
+
+### 29. Response to a report on action to prevent other deaths[^key-ab8836f6293793db44d27023a9e93e8c]
+
+(1) This regulation applies where a person is under a duty to give a response to a report to prevent other deaths made in accordance with paragraph 7(1) of Schedule 5.
+
+(2) In this regulation, a reference to “a report” means a report to prevent other deaths made by the coroner.
+
+(3) The response to a report must contain—
+
+- (a) details of any action that has been taken or which it is proposed will be taken by the person giving the response or any other person whether in response to the report or otherwise and set out a timetable of the action taken or proposed to be taken; or
+- (b) an explanation as to why no action is proposed.
+
+(4) The response must be provided to the coroner who made the report within 56 days of the date on which the report is sent.
+
+(5) The coroner who made the report may extend the period referred to in paragraph (4) (even if an application for extension is made after the time for compliance has expired).
+
+(6) On receipt of a response to a report the coroner—
+
+- (a) must send a copy of the response to the report to the Chief Coroner;
+- (b) must send a copy to any interested persons who in the coroner’s opinion should receive it; and
+- (c) may send a copy of the response to any other person who the coroner believes may find it useful or of interest.
+
+(7) On receipt of a copy under paragraph (6)(a) the Chief Coroner may—
+
+- (a) publish a copy of the response, or a summary of it, in such manner as the Chief Coroner thinks fit; and
+- (b) send a copy of the response to any person who the Chief Coroner believes may find it useful or of interest (other than a person who has been sent a copy of the response under paragraph (6)(b) or (c)).
+
+(8) A person giving a response to a report may make written representations to the coroner about—
+
+- (a) the release of the response; or
+- (b) the publication of the response.
+
+(9) Representations under paragraph (8) must be made to the coroner no later than the time when the response to the report to prevent other deaths is provided to the coroner under paragraph (4).
+
+(10) The coroner must pass any representations made under paragraph (8) to the Chief Coroner who may then consider those representations and decide whether there should be any restrictions on the release or publication of the response.
+
+Signed by authority of the Lord Chancellor
+
+Helen Grant
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+2nd July 2013
+
+I agree.
+
+Signed by the Lord Chief Justice
+
+Judge, LJ
+
+Lord Chief Justice
+
+2nd July 2013
+
+## SCHEDULE — Forms[^key-65397c8eaffe3a25ff16998c2303923e]
+
+Regulations 9, 17, 21 and 22
+
+[image: see source](https://www.legislation.gov.uk/uksi/2013/1629/images/uksi_20131629_en_001)
+
+[^key-a6adc74b234495d4fdc7fc3bd8c5842d]Form 2 (notice of discontinuance)
+
+[image: see source](https://www.legislation.gov.uk/uksi/2013/1629/images/uksi_20131629_en_epp_001.gif)
+
+[^key-6b4c03e93783c967a3c92a458c36b000]Form 3 (coroner’s order for burial)
+
+[image: see source](https://www.legislation.gov.uk/uksi/2013/1629/images/uksi_20131629_en_epp_002.gif)[image: see source](https://www.legislation.gov.uk/uksi/2013/1629/images/uksi_20131629_en_004)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations regulate the practice and procedure relating to investigations into deaths carried out under Part 1 of the Coroners and Justice Act 2009 (“the 2009 Act”).
+
+Part 1 of the 2009 Act introduced a new regime for death investigations, which replaces the Coroners Act 1988 and the Coroners Rules 1984. Under the 2009 Act a coroner must conduct an investigation into violent or unnatural deaths, deaths where the cause is unknown and deaths which occur in custody or otherwise in state detention. In certain cases this investigation will include the coroner holding an inquest.
+
+These Regulations form part of a package of new rules and regulations made under the 2009 Act which come into force at the same time as these Regulations. The Coroners (Inquest) Rules 2013 regulate the practice and procedure relating to the inquest part of an investigation and the Coroners Allowances, Fees and Expenses Regulations 2013 set out the quantum and method of calculating allowances, fees and expenses relating to investigations and inquests.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c.25](https://www.legislation.gov.uk/ukpga/2009/25).
+
+[^key-9d18506e58ca290993d5d86332fb4b83]: Commencement: Reg. 1 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-cb05fc61b2bafc61fcfcddeaa5eb21fa]: Commencement: Reg. 2 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^f00002]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^f00003]: Footnote: [1974 c.37](https://www.legislation.gov.uk/ukpga/1974/37).
+
+[^key-ee651db14c7e0d45c1dda8f8de7930a1]: Commencement: Reg. 3 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-e95cffbcb48800dabd5ab30d4117afcd]: Commencement: Reg. 4 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-5c3f846bfc044e861d1d640b832c0120]: Commencement: Reg. 5 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-a52c7548f724d387657a02742cfc298c]: Commencement: Reg. 6 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-b38b782b0761d96934b55d808d7c17d1]: Commencement: Reg. 7 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-ee43344cbc2e3d5b8dd60185686de2a6]: Commencement: Reg. 8 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^f00004]: Footnote: [1953 c.20](https://www.legislation.gov.uk/ukpga/1953/20).
+
+[^key-de6f0e823db0b66711326bbaf5cf1d50]: Commencement: Reg. 9 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-df54dcfc26dee3c88e219ab69377db9d]: Commencement: Reg. 10 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-47d7f2a0c28867458690c69ab5a634a2]: Commencement: Reg. 11 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-51aab3038f8419578f0755bb178ac1a4]: Commencement: Reg. 12 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-083370e8d05ce1b1d2ca479b2087f57b]: Commencement: Reg. 13 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-ddcdd1c551f1d4618c59021e420c20b3]: Commencement: Reg. 14 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^f00005]: Footnote: [2004 c.30](https://www.legislation.gov.uk/ukpga/2004/30).
+
+[^key-9d6c7bfaaedcd18c3e1399478c4e7f1a]: Commencement: Reg. 15 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-218d0a16886305a359304f415c521e45]: Commencement: Reg. 16 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-33e5743a33410c67e95acf459ebbe646]: Commencement: Reg. 17 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-ba8e118a1b05e441162160b13f2781b8]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2013/1629/regulation/17) heading substituted (28.6.2022) by [The Coroners (Investigations) (Amendment) Regulations 2022 (S.I. 2022/612)](https://www.legislation.gov.uk/uksi/2022/612), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/612/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2022/612/regulation/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/612/regulation/1/3))
+
+[^key-ac93e2a51c38bc79cd414d50e4a08b9d]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2013/1629/regulation/17) omitted (28.6.2022) by virtue of [The Coroners (Investigations) (Amendment) Regulations 2022 (S.I. 2022/612)](https://www.legislation.gov.uk/uksi/2022/612), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/612/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2022/612/regulation/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/612/regulation/1/3))
+
+[^key-8154b12a715886ea383d0b2364a2fcad]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2013/1629/regulation/17) inserted (28.6.2022) by [The Coroners (Investigations) (Amendment) Regulations 2022 (S.I. 2022/612)](https://www.legislation.gov.uk/uksi/2022/612), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/612/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2022/612/regulation/2/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/612/regulation/1/3))
+
+[^key-b333e02b350d72be33806997def8b6b5]: Commencement: Reg. 18 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-2eb702da7adc90957c36c5f90cc899c8]: Commencement: Reg. 19 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-ed7f1d9ff4d6c59bfdbad312533ef8e9]: Commencement: Reg. 20 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-dfaa5d50da9553deec9cf1fa905289f5]: Commencement: Reg. 21 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-71217a110789d14ca552189cdfb482ea]: Commencement: Reg. 22 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-779581d2c4051f592edd16985cbf87e3]: Commencement: Reg. 23 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^f00006]: Footnote: [S.I. 2013/1616](https://www.legislation.gov.uk/uksi/2013/1616).
+
+[^key-d6d1fb86ce32cf6200cb5db99dcbddae]: Commencement: Reg. 24 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-228fb329589de8df592e5dd71c736011]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/uksi/2013/1629/regulation/24) heading inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 161(4)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/161/4)
+
+[^key-48822814715ccaa14bba50112def9165]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/2013/1629/regulation/24/1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 161(2)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/161/2)
+
+[^key-20aea3b6b9279a8fd6d7707327606fab]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2013/1629/regulation/24/2) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 161(2)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/161/2)
+
+[^key-102c70c864943d803c3a1a08d1bbd864]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2013/1629/regulation/24/3) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 161(3)(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/161/3/a)
+
+[^f00007]: Footnote: [2004 c.31](https://www.legislation.gov.uk/ukpga/2004/31).
+
+[^key-3fb2b7435b780670f5a843d4f0109c86]: Textual amendment: Word in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2013/1629/regulation/24/3) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 161(3)(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/161/3/b)
+
+[^key-cc8de647c1d959cec387a5f1bf3f396c]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2013/1629/regulation/24/3) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 161(3)(c)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/161/3/c)
+
+[^key-7f257b03dab217b303db644bdebab8a1]: Commencement: Reg. 25 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-5ed79c119b04f12a545a113e68d3ffb3]: Commencement: Reg. 26 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-6b4b34feba43fab8c58e3bb44a3fb43a]: Commencement: Reg. 27 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-95e7733a49a09ea6fc182209c7ba91db]: Commencement: Reg. 28 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-ed6f551f0049554837d92aa6535e6f16]: Textual amendment: Words in [reg. 28(4)(b)](https://www.legislation.gov.uk/uksi/2013/1629/regulation/28/4/b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 162(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/162/a)
+
+[^key-4264f01b7735011295416c48d6f2d2b7]: Textual amendment: Word in [reg. 28(4)(b)](https://www.legislation.gov.uk/uksi/2013/1629/regulation/28/4/b) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 162(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/162/b)
+
+[^key-ab8836f6293793db44d27023a9e93e8c]: Commencement: Reg. 29 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-65397c8eaffe3a25ff16998c2303923e]: Commencement: Sch. in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1)
+
+[^key-a6adc74b234495d4fdc7fc3bd8c5842d]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2013/1629/schedule) Form 2 substituted (9.9.2024) by [The Cremation, Coroners and Notification of Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/668)](https://www.legislation.gov.uk/uksi/2024/668), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/668/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/668/regulation/3/a), [Sch. 4](https://www.legislation.gov.uk/uksi/2024/668/schedule/4)
+
+[^key-6b4c03e93783c967a3c92a458c36b000]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2013/1629/schedule) Form 3 substituted (9.9.2024) by [The Cremation, Coroners and Notification of Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/668)](https://www.legislation.gov.uk/uksi/2024/668), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/668/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/668/regulation/3/a), [Sch. 5](https://www.legislation.gov.uk/uksi/2024/668/schedule/5)

@@ -1,0 +1,144 @@
+---
+title: The Education (Nursery Education and Early Years Development) (Wales) Regulations 1999
+id: uksi/1999/1099
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1999-04-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1999/1099
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/1099/pdfs/uksi_19991099_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/1099/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Nursery Education and Early Years Development) (Wales) Regulations 1999
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1999 No. 1099
+
+EDUCATION, ENGLAND AND WALES
+
+WALES
+
+The Education (Nursery Education and Early Years Development) (Wales) Regulations 1999
+
+Made
+
+8th April 1999
+
+Laid before Parliament
+
+13th April 1999
+
+Coming into force
+
+4th May 1999
+
+In exercise of the powers conferred on the Secretary of State by sections 118(1), 120(1) and (3), 121(1) and (9) and 138(7) and (8) of the School Standards and Framework Act 1998[^f00001], the Secretary of State for Wales hereby makes the following Regulations:
+
+## 1. Citation, commencement, extent and interpretation
+
+(1) These Regulations may be cited as the Education (Nursery Education and Early Years Development) (Wales) Regulations 1999 and shall come into force on 4th May 1999.
+
+(2) These Regulations apply in relation to nursery education in Wales.
+
+(3) In these Regulations–
+
+- “the Act” means the School Standards and Framework Act 1998;
+- “authority” means a local education authority;
+- “nursery education” means nursery education (within the meaning of section 117 of the Act) the provision of which an authority are under a duty to secure is sufficient by virtue of section 118 of the Act and regulation 2 of these regulations;
+- “the partnership” means, in relation to an authority, the early years development partnership established by the authority in accordance with section 119 of the Act;
+- “the plan” means, in relation to an authority, the early years development plan prepared by them in accordance with section 120 of the Act; and
+- “statement of proposals” means, in relation to an authority, their proposals for complying with their duty under section 118 of the Act to be included in their plan.
+
+## 2. Nursery Education
+
+(1) For the purposes of section 118(1)(b) of the Act (age of children in relation to whom the authority’s duty to secure sufficient provision of nursery education for their area applies) there is hereby prescribed–
+
+- (a) in the case of a child whose fourth birthday does not fall within one of the periods specified in paragraph (2) below, the age of the child at the start of the first term starting after the child’s fourth birthday; or
+- (b) in the case of a child whose fourth birthday falls within one of the periods specified in paragraph (2) below, the age of the child at the start of the term following the term referred to in that paragraph.
+
+(2) The periods referred to in paragraph (1)(b) above are, in any year,
+
+- (a) the period commencing 1st April and ending with the start of the Summer term of that year;
+- (b) the period commencing 1st September and ending with the start of the Autumn term of that year; and
+- (c) the period commencing 1st January and ending with the start of the Spring term of that year.
+
+(3) For the purposes of paragraphs (1) and (2) of this regulation, “term” means the term kept in relation to the education provided, or to be provided, or under consideration, for the child, as the case may be, and, in any year, Spring term, Summer term and Autumn term mean, respectively, the term which starts in January, in April and in September.
+
+## 3. Early years development plans
+
+(1) For the purposes of section 120(1)(b) of the Act (the intervals at which plans must be prepared) the intervals shall be intervals of one year.
+
+(2) The period to which the statement of proposals shall relate is the period of one year commencing on 1st September in the year in which the plan is submitted to the Secretary of State for approval of the statement of proposals in accordance with section 121(1) of the Act.
+
+(3) The statement of proposals contained in the first plan shall relate to the period of one year commencing on 1st September 1999.
+
+(4) Every statement of proposals shall deal with the matters set out in the Schedule to these Regulations,
+
+## 4. Approval and publication of statement of proposals
+
+(1) The date by which the first plan must be submitted to the Secretary of State under section 121(1) of the Act is 1st June 1999.
+
+(2) The date by which each subsequent plan must be submitted is 1st April in each year.
+
+(3) Where the Secretary of State has approved–
+
+- (a) an authority’s statement of proposals under subsection (2) of section 121 of the Act, or
+- (b) the modification of an authority’s statement of proposals under subsection (8) of that section,
+
+the authority shall publish their plan (or their plan as so modified) by a date not later than 28 days after the date of approval of the statement of proposals or modification thereof under subsection (2) or (8) of section 121 (as the case may be), or 1st August in the year of approval if later.
+
+(4) The plan, or the plan as so modified, shall be published by the authority making it available at their education offices and at libraries in their area for reference by members of the public.
+
+(5) The authority shall provide a copy of their plan, or their plan as so modified, to–
+
+- (a) the Secretary of State; and
+- (b) each of the members of the partnership.
+
+Signed by authority of the Secretary of State for Wales
+
+Peter Hain
+
+Parliamentary Under Secretary of State, Welsh Office
+
+8th April 1999
+
+## SCHEDULE
+
+Regulation 3(4)
+
+### Matters to be included in the statement of proposals
+
+Every statement of proposals must:
+
+- (a) deal with children in their area who have not attained compulsory school age but who have attained the age prescribed by regulation 2 of these Regulations (“relevant children”);
+- (b) explain how local demand for nursery education for relevant children will be met;
+- (c) give an estimate of the number of nursery education places available in each term of the year covered by the statement of proposals (whether at institutions maintained by the authority or at institutions not so maintained);
+- (d) contain a list of all those persons providing nursery education who are (or will be) receiving financial assistance from the authority in respect of such provision or who are under consideration for such financial assistance by the authority, and whose provision of nursery education is taken into account by the authority in formulating their statement of proposals; and
+- (e) provide evidence that the authority have considered what arrangements should be made for the provision of transport for the purpose of enabling relevant children to take advantage of the facilities for nursery education which are available, and set out the authority’s policies on the provision of transport to and from the premises of any institutions at which such education is provided.
+
+(This note is not part of the Regulations)
+
+These Regulations, which are made under sections 118(1), 120(1) and (3) and 121(1) and (9) of the School Standards and Framework Act 1998 and apply only in Wales, prescribe for the purposes of the new duty imposed by section 118 of the Act (under which a local education authority must secure sufficient provision of nursery education for their area), the minimum age in relation to which that new duty applies (regulation 2).
+
+The Regulations also make provision in connection with early years development plans which local education authorities are required to prepare under sections 120–121 of the Act. The Regulations prescribe–
+
+- (a) the intervals at which early years development plans must be prepared (regulation 3(1));
+- (b) the period to which a statement of an authority’s proposals for complying with their duty under section 118 of the Act contained in such a plan must relate (regulation 3(2) and (3));
+- (c) the matters which must be dealt with in such a statement (regulation 3(4) and the Schedule);
+- (d) the date by which plans must be submitted to the Secretary of State for his approval under section 120(1) (regulation 4(1) and (2));
+- (e) the date by which plans (and modified plans) must be published (regulation 4(3));
+- (f) the manner of publication of such plans (regulation 4(4)); and
+- (g) the persons to whom a copy of such a plan must be sent (regulation 4(5)).
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31). For the definitions of “prescribed” and “regulations” *see* section 142(1).

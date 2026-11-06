@@ -1,0 +1,32 @@
+---
+title: Health And Social Services And Social Security Adjudications Act 1983, section 31
+act: Health And Social Services And Social Security Adjudications Act 1983
+section: '31'
+status: revised-with-pending-changes
+text_date: '2016-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1983/41/section/31
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Health And Social Services And Social Security Adjudications Act 1983, section 31
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2016-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/41
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 31. Power to repeal or amend local Acts.
+
+*Extent: E+W+S*
+
+(1) The Secretary of State may by order—
+
+- (a) repeal any provision of a local Act passed before or in the same Session as this Act if it appears to him that the provision is inconsistent with or has become unnecessary in consequence of any enactment contained in this Act or of regulations made under any such enactment;
+- (b) amend any provision of such an Act if it appears to him that the provision requires amendment in consequence of any enactment contained in this Act or of regulations made under any such enactment or of any repeal made by virture of the preceding paragraph;
+
+and an order made in pursuance of this subsection may include such incidental or transitional provisions as the Secretary of State considers are appropriate in connection with the order.
+
+(2) It shall be the duty of the Secretary of State, before he makes an order in pursuance of subsection (1) above amending or repealing any provision of a local Act, to consult each local authority which he considers would be affected by the amendment or repeal of that provision.
+
+(3) The power to make orders conferred by subsection (1) above shall be exercisable by statutory instrument; and any statutory instrument made in the exercise of that power shall be subject to annulment in pursuance of a resolution of either House of Parliament.

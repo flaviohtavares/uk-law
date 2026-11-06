@@ -1,0 +1,63 @@
+---
+title: Online Safety Act 2023, section 4
+act: Online Safety Act 2023
+section: '4'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/50/section/4
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Online Safety Act 2023, section 4
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 4. “Regulated service”, “Part 3 service” etc[^key-7bde984df39b51859335cf8a68f1ea42]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies for the purposes of this Act.
+
+(2) A user-to-user service is a “regulated user-to-user service”, and a search service is a “regulated search service”, if the service—
+
+- (a) has links with the United Kingdom (see subsections (5) and (6)), and
+- (b) is not—
+  - (i) a service of a description that is exempt as provided for by Schedule 1, or
+  - (ii) a service of a kind described in Schedule 2 (services combining user-generated content or search content not regulated by this Act with pornographic content that is regulated).
+
+(3) “**Part 3 service**” means a regulated user-to-user service or a regulated search service.
+
+(4) “**Regulated service**” means—
+
+- (a) a regulated user-to-user service,
+- (b) a regulated search service, or
+- (c) an internet service, other than a regulated user-to-user service or a regulated search service, that is within section 80(2) (including a service of a kind described in Schedule 2).
+
+(5) For the purposes of subsection (2), a user-to-user service or a search service “has links with the United Kingdom” if—
+
+- (a) the service has a significant number of United Kingdom users, or
+- (b) United Kingdom users form one of the target markets for the service (or the only target market).
+
+(6) For the purposes of subsection (2), a user-to-user service or a search service also “has links with the United Kingdom” if—
+
+- (a) the service is capable of being used in the United Kingdom by individuals, and
+- (b) there are reasonable grounds to believe that there is a material risk of significant harm to individuals in the United Kingdom presented by—
+  - (i) in the case of a user-to-user service, user-generated content present on the service or (if the service includes a search engine) search content of the service;
+  - (ii) in the case of a search service, search content of the service.
+
+(7) A regulated user-to-user service that includes a public search engine is referred to in this Act as a “combined service”.
+
+“**Public search engine**” means a search engine other than one in relation to which the conditions in paragraph 7(2) of Schedule 1 (internal business service conditions) are met.
+
+(8) In this section—
+
+- “**search content**” has the same meaning as in Part 3 (see section 57);
+- “**user-generated content**” has the meaning given by section 55 (see subsections (3) and (4) of that section).
+
+## Annotations
+
+[^key-7bde984df39b51859335cf8a68f1ea42]: Commencement: S. 4 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/a)

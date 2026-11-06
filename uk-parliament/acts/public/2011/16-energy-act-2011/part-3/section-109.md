@@ -1,0 +1,40 @@
+---
+title: Energy Act 2011, section 109
+act: Energy Act 2011
+section: '109'
+status: not-yet-in-force
+text_date: '2022-12-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2011/16/section/109
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2011, section 109
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 109. Contribution to carbon budgeting under the Climate Change Act 2008
+
+*Extent: E+W+S*
+
+**Not yet in force.**
+
+(1) The Secretary of State must prepare and publish an annual report on the extent to which—
+
+- (a) green deal plans under Chapter 1 of Part 1, and
+- (b) the energy company obligations provisions,
+
+have contributed to the Secretary of State fulfilling the duty under section 4(1)(b) of the Climate Change Act 2008 (carbon budgeting).
+
+(2) The “**energy company obligations provisions**” means—
+
+- (a) sections 33BC and 33BD of the Gas Act 1986 and sections 41A and 41B of the Electricity Act 1989 (promotion of reductions in carbon emissions and home-heating costs),
+- (b) sections 103 and 103A of the Utilities Act 2000 (overall carbon emissions and home-heating cost reduction targets), and
+- (c) section 103B of the Utilities Act 2000 (Secretary of State's power to require information about carbon emissions and home-heating cost reduction targets).
+
+(3) The first report under this section must be published before the end of 2014.
+
+(4) The Secretary of State must lay before Parliament a copy of each report under this section.

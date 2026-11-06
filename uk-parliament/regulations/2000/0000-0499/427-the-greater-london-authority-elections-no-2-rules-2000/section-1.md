@@ -1,0 +1,25 @@
+---
+title: The Greater London Authority Elections (No. 2) Rules 2000, section 1
+act: The Greater London Authority Elections (No. 2) Rules 2000
+section: '1'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2000/427/section/1
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Greater London Authority Elections (No. 2) Rules 2000, section 1
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 1. Citation, commencement and revocation
+
+(1) These Rules may be cited as the Greater London Authority Elections (No. 2) Rules 2000 and shall come into force on 15th March 2000.
+
+(2) The Greater London Authority Election Rules 2000[^f00002] are hereby revoked.
+
+## Annotations
+
+[^f00002]: Footnote: S.I. [2000/208](https://www.legislation.gov.uk/uksi/2000/208).

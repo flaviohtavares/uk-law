@@ -1,0 +1,56 @@
+---
+title: Greater London Authority Act 1999, section 147
+act: Greater London Authority Act 1999
+section: '147'
+status: revised-with-pending-changes
+text_date: '2026-08-05'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1999/29/section/147
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Greater London Authority Act 1999, section 147
+
+> **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 147. Power of the Mayor to prepare a plan.
+
+*Extent: E+W+S*
+
+(1) Where it appears to the Mayor that a London borough council has failed—
+
+- (a) to prepare a local implementation plan in accordance with the requirements of section 145 above, or
+- (b) to submit a local implementation plan to him for approval under section 146 above,
+
+the Mayor may issue to the council a direction under section 153 below requiring the council to do so within such period as the Mayor shall specify in the direction.
+
+(2) Where the Mayor has issued a direction of the kind mentioned in subsection (1) above, but the council has not complied with the direction within a reasonable time, the Mayor may prepare a local implementation plan on behalf of the council.
+
+(3) Where the Mayor refuses to approve under subsection (2) of section 146 above a local implementation plan, the London borough council which submitted the plan shall prepare a new local implementation plan and submit it to the Mayor under subsection (1) of that section, unless the Mayor notifies the council that he intends to exercise his powers under subsection (4) below.
+
+(4) Where the Mayor—
+
+- (a) refuses to approve a local implementation plan under section 146 above, and
+- (b) has served on the London borough council who prepared the local implementation plan a notice under subsection (3) above,
+
+the Mayor may prepare a local implementation plan on behalf of the council.
+
+(5) Where the Mayor prepares a local implementation plan on behalf of a London borough council, he shall in preparing the plan consult—
+
+- (a) the council on whose behalf he is preparing the plan,
+- (b) the relevant Commissioner or, if the Mayor considers it appropriate, both Commissioners,
+- (c) Transport for London,
+- (d) such organisations representative of disabled persons as the Mayor considers appropriate, and
+- (e) each other London borough council whose area is in the opinion of the Mayor likely to be affected by the plan.
+
+(6) A local implementation plan prepared by the Mayor under this section shall include the matters required to be contained or included in the plan under section 145(1) and (3) above by a London borough council.
+
+(7) Where the Mayor prepares a local implementation plan on behalf of a London borough council, he may recover from the council as a civil debt any reasonable expenses incurred by him in preparing the plan.
+
+(8) In subsection (5)(b) above, the relevant Commissioner means—
+
+- (a) in relation to a local implementation plan prepared on behalf of the Common Council, the Commissioner of Police for the City of London, and
+- (b) in relation to a local implementation plan prepared on behalf of a council other than the Common Council, the Commissioner of Police of the Metropolis.

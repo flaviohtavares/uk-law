@@ -1,0 +1,40 @@
+---
+title: Corporation Tax Act 2009, section 593
+act: Corporation Tax Act 2009
+section: '593'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/4/section/593
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2009, section 593
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 593. Contracts where part of underlying subject matter is excluded property
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies to a relevant contract of a company—
+
+- (a) which is an option or future,
+- (b) which meets any of the accounting conditions in section 579(1), and
+- (c) whose underlying subject matter consists of—
+  - (i) excluded property, and
+  - (ii) other underlying subject matter.
+
+(2) A relevant contract to which this section applies is treated for the purposes of the Corporation Tax Acts as if it were the following two contracts—
+
+- (a) a relevant contract whose underlying subject matter consists of the excluded property, and
+- (b) a relevant contract whose underlying subject matter consists of the other underlying subject matter.
+
+(3) For the purposes of giving effect to subsection (2), all such apportionments as are just and reasonable are to be made.
+
+(4) This section does not apply to a relevant contract if it is determined in accordance with section 590 (disregard of subordinate or small value underlying subject matter) that the underlying subject matter of the relevant contract is to be treated as consisting wholly of excluded property.
+
+(5) In this section “**excluded property**” has the same meaning as in section 589 (contracts excluded because of underlying subject matter: general).

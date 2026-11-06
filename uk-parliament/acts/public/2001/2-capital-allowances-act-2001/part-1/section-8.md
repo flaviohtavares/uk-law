@@ -1,0 +1,40 @@
+---
+title: Capital Allowances Act 2001, section 8
+act: Capital Allowances Act 2001
+section: '8'
+status: revised-with-pending-changes
+text_date: '2026-05-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2001/2/section/8
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Capital Allowances Act 2001, section 8
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/2
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 8. No double relief through pooling under Part 2 (plant and machinery allowances)
+
+*Extent: E+W+S+N.I.*
+
+(1) Subsection (2) applies if, under Part 2—
+
+- (a) any capital expenditure has been allocated to a pool, and
+- (b) an allowance or charge has been made to or on any person in respect of the pool.
+
+(2) The person to or on whom the allowance or charge has been made is not entitled to an allowance under any Part other than Part 2 in respect of—
+
+- (a) the expenditure allocated to the pool, or
+- (b) the provision of any asset to which the allocated expenditure related.
+
+(3) Subsection (4) applies if under any Part other than Part 2 an allowance has been made to a person in respect of any capital expenditure.
+
+(4) The person to whom the allowance has been made is not entitled to allocate to any pool—
+
+- (a) that expenditure, or
+- (b) any expenditure on the provision of any asset to which the expenditure mentioned in paragraph (a) related.
+
+(5) This section does not apply in relation to Parts 7 and 8 (know-how and patent allowances).

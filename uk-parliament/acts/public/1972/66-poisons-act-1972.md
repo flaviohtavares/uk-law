@@ -1,0 +1,851 @@
+---
+title: Poisons Act 1972
+id: ukpga/1972/66
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1972-08-09'
+text_date: '2023-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1972/66
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1972/66/pdfs/ukpga_19720066_en.pdf
+- http://www.legislation.gov.uk/ukpga/1972/66/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Poisons Act 1972
+
+> Text as at 2023-10-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+Poisons Act 1972
+
+1972 c.66
+
+An Act to consolidate certain enactments relating to poisons.
+
+\[9th August 1972\][^c823698][^c823699][^c823700][^c823701]
+
+## 1. Poisons Board.[^key-6762dd2178d65d69698194920bc03cc5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Regulated substances and reportable substances[^key-ce5b50a81ad7bc190b1a168fb3b7a7d6]
+
+(1) This section defines some key terms used in this Act.
+
+(2) “**Regulated substance**” means a regulated explosives precursor or regulated poison.
+
+(3) Subject to subsection (4), a “regulated explosives precursor”—
+
+- (a) is a substance listed in Part 1 of Schedule 1A in a concentration higher than the limit set out for that substance in that Part, and
+- (b) includes a mixture or another substance in which a substance listed in that Part is present in a concentration higher than the relevant limit,
+
+but, in each case, only if the substance or mixture is not excluded.
+
+(4) For the purposes of section 3C however, and the meaning of “regulated substance” in or in relation to that section, a
+
+> “regulated explosives precursor”—
+>
+> - (c) is a substance listed in Part 1 of Schedule 1A, and
+> - (d) includes a mixture or another substance in which a substance listed in that Part is present,
+>
+> but, in each case, only if the substance or mixture is not excluded.
+
+(5) A “regulated poison”—
+
+- (a) is a substance listed in Part 2 of Schedule 1A in a concentration higher than the limit (if any) set out for that substance in that Part, and
+- (b) includes a mixture or another substance in which a substance listed in that Part is present in a concentration higher than the relevant limit,
+
+but, in each case, only if the substance or mixture is not excluded.
+
+(6) “**Reportable substance**” means a reportable explosives precursor or a reportable poison.
+
+(7) A “reportable explosives precursor”—
+
+- (a) is a substance listed in Part 3 of Schedule 1A, and
+- (b) includes a mixture or another substance in which a substance listed in that Part is present,
+
+but, in each case, only if the substance or mixture is not excluded.
+
+(8) A “reportable poison”—
+
+- (a) is a substance listed in Part 4 of Schedule 1A in a concentration higher than the limit (if any) set out for that substance in that Part, and
+- (b) includes a mixture or another substance in which a substance listed in that Part is present in a concentration higher than the relevant limit,
+
+but, in each case, only if the substance or mixture is not excluded.
+
+(9) For the purposes of this section, a substance or mixture is “excluded” if—
+
+- (a) it is medicinal, or
+- (b) it is contained in a specific object.
+
+(10) A substance or mixture is “medicinal” if it is—
+
+- (a) a medicinal product as defined by regulation 2 of the Human Medicines Regulations 2012 (S.I. 2012/1916),
+- (b) an investigational medicinal product as defined by regulation 2 of the Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031),
+- (c) a substance to which Part 12 of the Human Medicines Regulations 2012 or Part 6 of the Medicines for Human Use (Clinical Trials) Regulations 2004 applies by virtue of an order under section 104 or 105 of the Medicines Act 1968 (whether applying subject to exceptions and modifications or not and, in the case of an order under section 104, whether the substance is referred to in the order as a substance or an article), or
+- (d) a veterinary medicinal product as defined by regulation 2 of the Veterinary Medicines Regulations 2013 (S.I. 2013/2033).
+
+(11) A “specific object” is—
+
+- (a) an object that, during production, is given a special shape, surface or design that determines its function to a greater degree than does its chemical composition, or
+- (b) an article that contains explosive substances or an explosive mixture of substances designed to produce heat, light, sound, gas or smoke or a combination of such effects through self-sustained exothermic chemical reactions, including—
+  - (i) pyrotechnic equipment falling within the scope of Council Directive [96/98/EC](https://www.legislation.gov.uk/european/directive/1996/0098) on marine equipment, and
+  - (ii) percussion caps intended specifically for toys falling within the scope of Council Directive [88/378/EEC](https://www.legislation.gov.uk/european/directive/1988/0378) concerning the safety of toys.
+
+(12) See also section 9B (which contains power to disapply requirements of this Act in specified circumstances).
+
+## 2A. Power to amend Schedule 1A
+
+(1) The Secretary of State may by regulations—
+
+- (a) amend Schedule 1A (whether to add, vary or remove a substance or concentration limit or make any other change), and
+- (b) amend section 2 in consequence of any amendment made under paragraph (a).
+
+(2) The power in subsection (1) to add a concentration limit includes power to add a concentration limit in any Part of Schedule 1A (whether for an explosives precursor or a poison).
+
+(3) In determining the distribution of substances as between the various Parts of Schedule 1A, regard must be had to the desirability of restricting Parts 3 and 4 to substances that meet each of the following criteria—
+
+- (a) they are in common use, or are likely to come into common use, for purposes other than the treatment of human ailments, and
+- (b) it is reasonably necessary to include them in one of those Parts if members of the general public are to have adequate facilities for obtaining them.
+
+## 3. Activities prohibited without a licence[^key-c071c1e290c8f05d275c1282a000c2da]
+
+(1) A member of the general public commits an offence if he or she does anything listed in subsection (2) without having a licence, or a recognised non-GB licence, to do that thing with respect to that substance.
+
+(2) The things are—
+
+- (a) importing a regulated substance,
+- (b) acquiring a regulated substance,
+- (c) possessing a regulated substance,
+- (d) using a regulated substance.
+
+(3) For the purposes of this section—
+
+- (a) “**acquiring**” means taking into your possession, custody or control,
+- (b) “**importing**” means bringing into Great Britain from a country or territory outside the United Kingdom,
+- (c) “**member of the general public**” means an individual who is acting (alone or with others) for purposes not connected with his or her trade, business or profession or the performance by him or her of a public function,
+- (d) “**possessing**” means having in your possession, custody or control, and
+- (e) “**using**” includes processing, formulating, storing, treating or mixing, including in the production of an article.
+
+(4) A member of the general public does not commit an offence under subsection (1) if the requirements of this section do not apply to his or her case by virtue of regulations made under section 9B.
+
+(5) This section does not apply to the possession or use of a regulated substance at any time before 3 March 2016.
+
+## 3A. Supply of regulated substances[^key-d093cb43318e6626459f0b6de60aef7c]
+
+(1) A person commits an offence if the person supplies a regulated substance to a member of the general public without first verifying that the member of the general public has a licence, or a recognised non-GB licence, to acquire, possess and use that substance.
+
+(2) In order to verify that someone has a licence or recognised non-GB licence, it is sufficient for these purposes to—
+
+- (a) inspect the person's licence, and
+- (b) inspect the form of identification specified in that licence.
+
+(3) A person commits an offence if the person supplies a regulated substance to a member of the general public without first entering details of the transaction (or causing details of the transaction to be entered) in the licence, or recognised non-GB licence, of the member of the general public.
+
+(4) A person commits an offence if the person supplies a regulated substance to a member of the general public without first ensuring that a warning label is affixed to the packaging in which the substance is supplied.
+
+(5) A “warning label” is a label clearly indicating that it is an offence for members of the general public to acquire, possess or use the substance in question without a licence (or recognised non-GB licence).
+
+(6) A person does not commit an offence under subsection (1), (3) or (4) if the requirements of that subsection do not apply to the person's case by virtue of regulations made under section 9B.
+
+(7) Before 3 March 2016, subsections (1) and (5) have effect as if the references to possession and use of the substance were omitted.
+
+(8) The Secretary of State may by regulations make provision modifying this section so far as it applies to any supplies that involve despatch of the substance to Northern Ireland or export of it from the United Kingdom.
+
+## 3B. Supply of regulated poisons other than by pharmacists
+
+(1) A person commits an offence if the person supplies a regulated poison to a member of the general public other than in the circumstances described in subsection (2).
+
+(2) Those circumstances are—
+
+- (a) the person is lawfully conducting a retail pharmacy business,
+- (b) the supply is made on premises that are a registered pharmacy, and
+- (c) the supply is made by or under the supervision of a pharmacist.
+
+(3) A person commits an offence if the person supplies a regulated poison to a member of the general public without complying with the record-keeping requirements before delivering the poison.
+
+(4) The record-keeping requirements are—
+
+- (a) the person must make an entry (or cause an entry to be made) in a record to be kept by the person for the purposes of this subsection stating—
+  - (i) the date of the supply,
+  - (ii) the name and address of the member of the general public,
+  - (iii) the name and quantity of the regulated poison supplied, and
+  - (iv) the purposes for which it is stated by the member of the general public to be required, and
+- (b) the person must ensure that the member of the general public signs the entry.
+
+(5) A person does not commit an offence under subsection (1) or (3) if the requirements of that subsection do not apply to the person's case by virtue of regulations made under section 9B.
+
+## 3C. Reporting of suspicious transactions, disappearances and thefts
+
+(1) A supplier must report any relevant transaction that it makes or proposes to make if the supplier has reasonable grounds for believing the transaction to be suspicious.
+
+(2) A “relevant transaction” is a transaction involving the supply of a regulated substance or a reportable substance to a customer, whether an end user or a customer higher up the supply chain and whether a business or a private customer.
+
+(3) A relevant transaction is “suspicious” if there are reasonable grounds for suspecting that the substance in question—
+
+- (a) if it is a regulated explosives precursor or reportable explosives precursor, is intended for the illicit manufacture of explosives, or
+- (b) if it is a regulated poison or a reportable poison, is intended for any illicit use.
+
+(4) In deciding whether there are reasonable grounds for suspecting such a thing, regard must be had to all the circumstances of the case, including in particular where the prospective customer—
+
+- (a) appears unclear about the intended use of the substance,
+- (b) appears unfamiliar with the intended use of the substance or cannot explain it plausibly,
+- (c) intends to buy substances in quantities, combinations or concentrations uncommon for private use,
+- (d) is unwilling to provide proof of identity or place of residence, or
+- (e) insists on using unusual methods of payment, including large amounts of cash.
+
+(5) A person carrying on a trade, business or profession that involves regulated substances or reportable substances must report the disappearance or theft of any such substances if the disappearance or theft—
+
+- (a) is from stocks in the person's possession, custody or control in Great Britain, and
+- (b) is significant.
+
+(6) In deciding whether a disappearance or theft is significant, regard must be had to whether the amount involved is unusual in all the circumstances of the case.
+
+(7) A duty under this section to “report” something is a duty to give notice of it to the Secretary of State in accordance with such requirements as may be specified by the Secretary of State by regulations made under this subsection.
+
+(8) A person who fails to comply with subsection (1) or (5) commits an offence.
+
+(9) A person does not commit an offence under subsection (8) if the requirements of subsection (1) or, as the case may be, (5) do not apply to the person's case by virtue of regulations made under section 9B.
+
+## 4. Exclusion of sales by wholesale and certain other sales.[^key-9ff1af3050ec1a8140a2452ff21f3759][^c823710]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4A. Licences[^key-a0f22b5e7a66e1bc2667aaea049cb8b2]
+
+(1) The Secretary of State may grant a licence to a person on application by that person in accordance with this section.
+
+(2) The licence may permit the person to do one or more of the things listed in section 3(2) with respect to one or more of the regulated substances.
+
+(3) The term for which a licence is granted must not exceed 3 years, but this does not affect—
+
+- (a) a person's right to apply for a further licence to take effect on expiry of that term, nor
+- (b) any power of the Secretary of State under the terms and conditions of the licence to vary, suspend or revoke the licence before expiry of that term.
+
+(4) The Secretary of State may charge applicants a fee for processing applications for the grant or amendment of a licence or for the replacement of any lost, damaged or stolen licence.
+
+(5) The amount of any fees to be charged under subsection (4) must be specified in regulations made under subsection (10), and the amount specified must not exceed the reasonable cost of processing such applications.
+
+(6)[^key-e86809132063d202d3d5f7a89d21ebd5] In deciding whether to grant or amend a licence with respect to a substance, the Secretary of State must have regard to all the circumstances of the case, including in particular—
+
+- (a) the use intended to be made of the substance,
+- (b) the availability of alternative substances that would achieve the same purpose,
+- (c) the proposed arrangements to ensure that the substance is kept securely,
+- (d) any danger to public safety or public order that may be caused by possession of the substance, and
+- (e) whether the applicant is a fit and proper person to possess the substance.
+
+(7)[^key-e86809132063d202d3d5f7a89d21ebd5] But if there are reasonable grounds for doubting the legitimacy of the use intended to be made of the substance or the intentions of the user to use the substance for a legitimate purpose, the Secretary of State must in any event refuse the application so far as it relates to that substance.
+
+(8)[^key-e86809132063d202d3d5f7a89d21ebd5] A licence may be granted or amended subject to such terms and conditions as may be specified in the licence.
+
+(9)[^key-e86809132063d202d3d5f7a89d21ebd5] Examples of terms and conditions that may be specified include, for any substances with respect to which the licence is granted, terms and conditions about—
+
+- (a) storage,
+- (b) use,
+- (c) maximum quantities,
+- (d) maximum levels of concentration, and
+- (e) reporting of disappearances or thefts.
+
+(10) The Secretary of State may by regulations make provision about the procedure for applying for and determining applications for the grant or amendment of licences under this section, including provision as to—
+
+- (a) who may make an application,
+- (b) the form and manner in which an application is to be made and any documents or evidence that must accompany it,
+- (c) the amount and payment of any fees,
+- (d) the supply of any further information or document required to determine an application,
+- (e) notice and publication of any decision about an application, and
+- (f) the procedure for an internal review of any such decision.
+
+## 4B. Recognised non-GB licences
+
+(1) The Secretary of State must publish a list from time to time of recognised member States (if there are any).
+
+(2) A member State is “recognised” for these purposes if licences granted by the competent authority of that State in accordance with the Precursors Regulation are recognised in the United Kingdom under Article 7(6) of that Regulation.
+
+(3) References in this Act to a “recognised non-GB licence” are to—
+
+- (a) a licence granted in accordance with the Precursors Regulation by the competent authority of a member State that is included in the list (or latest list) published under subsection (1), or
+- (b) a licence granted under relevant Northern Ireland legislation.
+
+(4) “**Relevant Northern Ireland legislation**” means—
+
+- (a) regulations made under the Explosives Act (Northern Ireland) 1970 (c.10 (N.I.)) by virtue of the Explosives (Northern Ireland) Order 1972 (S.I. 1972/730 (N.I. 3)),
+- (b) any legislative instrument that implements the Precursors Regulation in Northern Ireland, and
+- (c) any legislative instrument that replaces or supersedes (with or without modification) anything falling within paragraph (a) or (b) or this paragraph.
+
+(5) In this section—
+
+- (a) references to the Precursors Regulation are to Regulation (EU) No 98/2013 of the European Parliament and of the Council of 15 January 2013 on the marketing and use of explosives precursors, and
+- (b) references to a legislative instrument are to—
+  - (i) an Act or instrument made under an Act, or
+  - (ii) any Northern Ireland legislation or instrument made under Northern Ireland legislation.
+
+## 5. Lists of persons entitled to sell poisons in Part II of Poisons List.[^M_F_db73b3a9-546c-4964-8219-92b5a02fe3f5][^c823711]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Supplementary provisions as to local authorities’ lists.[^key-144146a28551974a9d55c4ba5a7dff29][^c823715]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Regulations about poisons and explosives precursors[^key-4f54856f084743fa5a5423078e8c7dd1]
+
+(1) The Secretary of State may make provision by regulations about—
+
+- (a) the importation, supply, acquisition, possession or use of substances by or to any person or class of person,
+- (b) the storage, transportation and labelling of substances,
+- (c) the containers in which substances may be supplied,
+- (d) the addition to substances of specified ingredients for the purpose of rendering them readily distinguishable as such,
+- (e) the compounding of substances, and the supply of substances on and in accordance with a prescription duly given by a doctor, a dentist, a veterinary surgeon or a veterinary practitioner, or
+- (f) the period for which any records required to be kept for the purposes of this Act are to be preserved.
+
+(2) The provision that may be made under subsection (1)(a) includes provision for any requirement of a kind imposed by section 3, 3A, 3B or 3C to apply in additional circumstances.
+
+(3) Nothing in subsection (1)(b) to (f), or in subsection (2), is to be read as limiting the provision that may be made under subsection (1)(a).
+
+(4) A person who contravenes or fails to comply with any regulations made under this section commits an offence.
+
+(5) A person does not commit an offence under subsection (4) if the requirements of the regulation in question do not apply to the person's case by virtue of regulations made under section 9B.
+
+(6) References in this section to “substances” are to regulated substances and reportable substances.
+
+## 7A. Proof of lack of knowledge[^key-c9e1864f64e248680987261ce631ab60]
+
+(1) This section applies to the following offences—
+
+- (a) an offence under section 3(1),
+- (b) an offence under section 3A(1), (3) or (4),
+- (c) an offence under section 3B(1) or (3).
+
+(2) In any proceedings for an offence to which this section applies, it is a defence for the accused to prove that the accused neither knew of nor suspected nor had reason to suspect the existence of some fact alleged by the prosecution that it is necessary for the prosecution to prove if the accused is to be convicted of the offence charged.
+
+(3) This is subject to subsection (5).
+
+(4) Subsection (5) applies where, in any proceedings for an offence to which this section applies—
+
+- (a) it is necessary, if the accused is to be convicted of the offence charged, for the prosecution to prove that some substance or mixture involved in the alleged offence was the regulated substance that the prosecution allege it to have been, and
+- (b) it is proved that the substance or mixture in question was that regulated substance.
+
+(5) Where this subsection applies—
+
+- (a) the accused must not be acquitted of the offence charged by reason only of proving that the accused neither knew nor suspected nor had reason to suspect that the substance or mixture was the particular regulated substance alleged, but
+- (b) the accused must be acquitted of the offence charged if—
+  - (i) the accused proves that the accused neither believed nor suspected nor had reason to suspect that the substance or mixture was a regulated substance, or
+  - (ii) the accused proves that the accused believed the substance or mixture to be a regulated substance such that, if it had in fact been that regulated substance, the accused would not at the material time have been committing any offence to which this section applies.
+
+(6) Nothing in this section affects any defence that it is open to a person accused of an offence to which this section applies to raise apart from this section.
+
+## 8. Penalties[^key-b870302702401a4ffb31e10160213966]
+
+(1) A person guilty of an offence under section 3(1), 3A(1) or 3B(1) is liable—
+
+- (a) on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine (or both);
+- (b) on summary conviction—
+  - (i) in England and Wales, to imprisonment for a term not exceeding 3 months or to a fine (or both),
+  - (ii) in Scotland, to imprisonment for a term not exceeding 3 months or to a fine not exceeding the statutory maximum (or both).
+
+(2) A person guilty of an offence under section 3A(3) or (4) is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+(3) A person guilty of an offence under section 3B(3) is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(4) A person guilty of an offence under section 3C(8) is liable on summary conviction—
+
+- (a) in England and Wales, to imprisonment for a term not exceeding 3 months or to a fine (or both);
+- (b) in Scotland, to imprisonment for a term not exceeding 3 months or to a fine not exceeding level 5 on the standard scale (or both).
+
+(5) A person guilty of an offence under section 7(4) is liable on summary conviction—
+
+- (a) to a fine not exceeding level 4 on the standard scale, and
+- (b) in the case of a continuing offence, to a further fine not exceeding one-tenth of level 4 on the standard scale for every day subsequent to the day on which the person is convicted of the offence during which the contravention or default continues.
+
+(6) In the case of proceedings against a person for an offence under section 3A, 3B or 3C, or an offence under section 7(4) in connection with the supply of a regulated substance or a reportable substance, where the act in question was done by an employee—
+
+- (a) it is not a defence that the employee acted without the authority of the employer, and
+- (b) any material fact known to the employee is deemed to have been known to the employer.
+
+(7) Notwithstanding any provision in any Act, or Act of the Scottish Parliament, prescribing the period within which summary proceedings may be commenced, proceedings for an offence under section 3A(3) or (4), 3B(3), 3C(8) or 7(4) may be commenced at any time—
+
+- (a) within the period of 12 months next after the date of commission of the offence, or
+- (b) in the case of proceedings instituted by, or by the direction of, the Secretary of State, within the later to end of—
+  - (i) that 12-month period, and
+  - (ii) the period of 3 months next after the date on which evidence sufficient in the Secretary of State's opinion to justify a prosecution for the offence comes to the Secretary of State's knowledge.
+
+(8) For the purposes of subsection (7)(b)(ii), a certificate purporting to be signed by the Secretary of State as to the date on which such evidence came to the Secretary of State's knowledge is to be conclusive evidence of that fact.
+
+(9) A document purporting to be a certificate signed by a person specified in subsection (10) stating the result of an analysis made by that person is admissible in any proceedings under this Act as evidence of the matters stated in the certificate, but either party may require the person to be called as a witness.
+
+(10) The persons are—
+
+- (a) a public analyst appointed under section 27 of the Food Safety Act 1990, or
+- (b) a person appointed by the Secretary of State to make analyses for the purposes of this Act.
+
+(11) In the application of this section to Scotland, subsections (7) and (8) have effect as if the references to the Secretary of State were references to the Lord Advocate.
+
+(12) In relation to an offence committed before section 85(1) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 comes into force—
+
+- (a) the reference in subsection (1)(b)(i) to a fine is to be read as a reference to a fine not exceeding the statutory maximum;
+- (b) the reference in subsection (4)(a) to a fine is to be read as a reference to a fine not exceeding level 5 on the standard scale.
+
+## 8A. Offences by bodies corporate etc
+
+(1) If an offence under this Act is committed by a body corporate and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
+
+- (a) a director, manager, secretary or other similar officer of the body corporate, or
+- (b) any person who was purporting to act in any such capacity,
+
+that person, as well as the body corporate, is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) The reference in subsection (1) to a director, in relation to a body corporate whose affairs are managed by its members, is a reference to a member of the body corporate.
+
+(3) If an offence under this Act is committed by a Scottish partnership and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
+
+- (a) a partner, or
+- (b) any person who was purporting to act in that capacity,
+
+that person, as well as the partnership, is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+## 9. Inspection and enforcement.
+
+(1)[^key-99b46b09296712e8c4feee5a02d62899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-99b46b09296712e8c4feee5a02d62899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-99b46b09296712e8c4feee5a02d62899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-10c4830451b5646a79264282e32fd34f] An inspector appointed by the General Pharmaceutical Council under article 8(1) of the Pharmacy Order 2010 may at all reasonable times—
+
+- (a) enter any registered pharmacy to ascertain whether an offence under section 3A, 3B, 3C or 7(4) has been committed by a pharmacist or a person carrying on a retail pharmacy business;
+- (b) enter any suspicious premises to ascertain whether either of the following offences has been committed—
+  - (i) an offence under section 3B, or
+  - (ii) an offence under section 7(4) in relation to contravention of any regulations that relate solely to regulated poisons.
+
+(4A) “Suspicious premises” are premises in which the inspector has reasonable cause to suspect that an offence mentioned in subsection (4)(b) has been committed.
+
+(4B) An inspector appointed by the General Pharmaceutical Council under article 8(1) of the Pharmacy Order 2010 may also make such examination and inquiry and do such other things (including the taking, on payment, of samples) as may be necessary for ascertaining any of the things mentioned in subsection (4)(a) and (b).
+
+(5)[^key-c6d5ba0ee950944d71ee9bf839ecd553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5A)[^key-c6d5ba0ee950944d71ee9bf839ecd553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-c6d5ba0ee950944d71ee9bf839ecd553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-c6d5ba0ee950944d71ee9bf839ecd553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) If a person—
+
+- (a) wilfully delays or obstructs an inspector in the exercise of any powers under this section, or
+- (b) refuses to allow any sample to be taken in accordance with the provisions of this section, or
+- (c) fails without reasonable excuse to give any information which he is duly required under this section to give,
+
+he shall in respect of each offence be liable on summary conviction to a fine not exceeding level 2 on the standard scale[^c823727].
+
+(9) Nothing in this section shall authorise any inspector to enter or inspect the premises, not being a shop, of a doctor, a dentist, a veterinary surgeon or a veterinary practitioner.
+
+## 9A. Application of PACE powers[^key-4d5bf5ac84f2fbc1d2a8f65620a0f35c]
+
+As regards England and Wales, sections 8, 17 and 18 of the Police and Criminal Evidence Act 1984 (powers of entry and search) apply in relation to an offence under section 3A(3) or (4), 3B(3), 3C(8) or 7(4) of this Act as in relation to an indictable offence.
+
+## 9B. Power to disapply requirements or exclusions in specified circumstances[^key-6cbbd3a98ad72a8e8396e6fd9df6f09d]
+
+(1) The Secretary of State may by regulations provide—
+
+- (a) that some or all of the requirements of this Act do not apply in circumstances specified in the regulations;
+- (b) that either or both of the exclusions do not apply in circumstances specified in the regulations.
+
+(2) The power in subsection (1) may be exercised in relation to a substance or group of substances, in relation to persons or a class of persons or in any other way.
+
+(3) When exercising the power in relation to a substance or group of substances, the regulations may for example provide that the requirements or exclusions in question do not apply to the substance, or substances in the group, where the substance—
+
+- (a) is intended for use for a specified purpose, or
+- (b) is contained in a specified substance, mixture or article, or
+- (c) is prepared in a specified manner or form, or
+- (d) is so intended, contained or prepared and is present in a concentration that is no higher than a specified limit.
+
+(4) Nothing in subsection (2) or (3) is to be read as limiting the provision that may be made under subsection (1).
+
+(5) In this section—
+
+- (a) “**the exclusions**” means the exclusions in section 2 for substances that are medicinal or contained in a specific object,
+- (b) “**the requirements of this Act**” means the requirements of section 3, 3A, 3B or 3C or of regulations under section 7,
+- (c) “**specified**” includes described,
+- (d) references to a substance also include a mixture, and
+- (e) references to a group of substances includes a group comprising all the substances listed in Schedule 1A.
+
+## 10. Regulations[^key-781ea4f61eb1e483bc8e26bd50b18966]
+
+(1) Any power to make regulations under this Act includes power—
+
+- (a) to make different provision for different purposes,
+- (b) to make consequential, incidental or supplemental provision, and
+- (c) to make transitional, transitory or saving provision.
+
+(2) Any power to make regulations under this Act is exercisable by statutory instrument.
+
+(3) An instrument containing regulations under this Act is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 11. Interpretation.[^c823757]
+
+(1)[^key-b082e383eaf67ea5c891cb7a86ae8658] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In this Act, unless the context otherwise requires, the following expressions have the following meanings, that is to say—
+
+- [^key-1e21becc33f72881eb8b5c659a8ad188]...
+- “**dentist**” means a person registered in the dentists register kept under the Dentists Act 1984[^c823759] [^key-a763d6e3b87436f8bdbd0c3c6d090949]...;
+- “[^c823761] **doctor** ” means a registered medical practitioner within the meaning of Schedule 1 to the Interpretation Act 1978
+- “[^key-bc6633c187329e442df4c8688a1c3155]**Great Britain**” includes the territorial sea of the United Kingdom other than the part adjacent to Northern Ireland;
+- “licence” (other than in the expression “recognised non-GB licence” and in section 4B) means a licence granted under section 4A;
+- “**local authority**” means—
+  - (a) in relation to England [^c823762]. . ., the council of a county metropolitan district[^c823763], . . . [^c823764] or London borough or the Common Council of the City of London,
+  - (aa) in relation to Wales, the council of a county or county borough,[^c823765] and
+  - (b) in relation to Scotland,[^c823766] a council constituted under section 2 of the Local Government[^c823767] etc. (Scotland) Act 1994 ;
+- [^key-1e21becc33f72881eb8b5c659a8ad188]...
+- “**member of the general public**” has the meaning given in section 3;
+- “**mixture**” means a mixture or solution composed of two or more substances;
+- “**person lawfully conducting a retail pharmacy business**” shall be construed in accordance with section 69 of the [^c823768]Medicines Act 1968;
+- “[^key-52279bb00b0d1efbea8d23e3c9cab266]**pharmacist**” means a person registered in Part 1 of the register maintained under article 19 of the Pharmacy Order 2010 (pharmacists other than visiting practitioners);
+- [^key-1e21becc33f72881eb8b5c659a8ad188]...
+- [^key-1e21becc33f72881eb8b5c659a8ad188]...
+- “**recognised non-GB licence**” has the meaning given in section 4B;
+- “**registered pharmacy**” has the meaning assigned to it by section 74 of the [^c823771]Medicines Act 1968;
+- “**regulated substance**”, “**regulated explosives precursor**” and “**regulated poison**” have the meanings given in section 2;
+- “**reportable substance**”, “**reportable explosives precursor**” and “**reportable poison**” have the meanings given in section 2;
+- “**retail pharmacy business**” has the meaning assigned to it by regulation 8 of the Human Medicines Regulations 2012 ([^key-eb09e0df69cb40a2c42651442738134c]S.I. 2012/1916) ;
+- [^key-1e21becc33f72881eb8b5c659a8ad188]...
+- “**substance**” means a chemical element and its compounds in the natural state or obtained by any manufacturing process—
+  - (a) including any additive necessary to preserve its stability and any impurity deriving from the process used, but
+  - (b) excluding any solvent that may be separated without affecting the stability of the substance or changing its composition;
+- “**veterinary practitioner**” means a person registered in the supplementary veterinary register kept under section 8 of the [^c823773]Veterinary Surgeons Act 1966;
+- “**veterinary surgeon**” means a person registered in the register of veterinary surgeons kept under section 2 of the [^c823774]Veterinary Surgeons Act 1966.
+
+(3)[^key-01bd68222e672bb0f3bc260c84e01c8b] In relation to a regulated substance or a reportable substance, any reference to the substance is a reference to the substance or the mixture, as the case may be.
+
+(4) References in this Act to supplying something include any kind of supply or making available, whether in return for payment or free of charge.
+
+## 12. Repeals and consequential provisions.
+
+(1)[^c823775] The enactments specified in Schedule 2 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+(2)[^c823775] In section 24(1) of the Pharmacy Act 1954, for the definition of “the Pharmacy Acts” there shall be substituted the following definition— “**the Pharmacy Acts**” means the Act of 1933, the Pharmacy Act 1954, sections 77 and 84(1) of the Medicines Act 1968 and the Poisons Act 1972, and includes rules made under Part III of the Act of 1933 or under section 7 of the Poisons Act 1972. ”
+
+(3) Nothing in subsection (2) above or in section 13 of this Act shall be taken to exclude the general application of this Act of sections 16(1) and 17(2)(a) of the[^c823777] [^c823778]Interpretation Act 1978 (which relates to repeals).
+
+## 13. Commencement and transitional provisions.
+
+(1)[^c823779] This Act shall come into operation immediately after all the amendments of and repeals in the [^c823780]Pharmacy and Poisons Act 1933 made respectively by Schedule 5 and Schedule 6 to the [^c823781]Medicines Act 1968 have been brought into operation by order under section 136 of the said Act of 1968.
+
+(2) Nothing in this Act shall affect the power conferred by subsection (4) of section 136 of the [^c823782]Medicines Act 1968 to make transitional provision by an order under that section, and this Act shall have effect subject to any such order so far as may be necessary for preserving its effect.
+
+(3) Subject to subsection (2) above, in so far as any instrument made or other thing done under any enactment repealed by this Act could have been made or done under a corresponding provision in this Act, it shall not be invalidated by the repeal of that enactment but shall have effect as if made or done under that corresponding provision.
+
+(4) Nothing in this Act shall affect the enactments repealed by this Act in their operation in relation to offences committed before the commencement of this Act.
+
+(5) Where an offence has been committed under section 24(1) of the [^c823783]Pharmacy and Poisons Act 1933, proceedings may be taken under section 8 of this Act in respect of the continuance of the offence after the commencement of this Act as if the offence had been committed under the said section 8.
+
+(6) Where any Act or document refers, either expressly or by implication, to an enactment repealed by this Act, the reference shall, so far as may be necessary for preserving its effect, be construed as, or as including, a reference to the corresponding provision of this Act.
+
+## 14. Short title and extent.
+
+(1) This Act may be cited as the Poisons Act 1972.
+
+(2) This Act shall not extend to Northern Ireland.
+
+SCHEDULES
+
+## SCHEDULE 1 — Constitution of Poisons Board[^M_F_0697b2dc-32d7-45df-82db-9a0b3f5584f2]
+
+Section 1.
+
+**....**[^M_F_0697b2dc-32d7-45df-82db-9a0b3f5584f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^M_F_0697b2dc-32d7-45df-82db-9a0b3f5584f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^M_F_0697b2dc-32d7-45df-82db-9a0b3f5584f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^M_F_0697b2dc-32d7-45df-82db-9a0b3f5584f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^M_F_0697b2dc-32d7-45df-82db-9a0b3f5584f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^M_F_0697b2dc-32d7-45df-82db-9a0b3f5584f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^M_F_0697b2dc-32d7-45df-82db-9a0b3f5584f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^M_F_0697b2dc-32d7-45df-82db-9a0b3f5584f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^M_F_0697b2dc-32d7-45df-82db-9a0b3f5584f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 1A — Regulated substances and reportable substances[^key-02a5c7e66e7b5c5f46170fcadf73ae81]
+
+### PART 1 — Regulated explosives precursors
+
+| *Name of substance and Chemical Abstracts Service Registry number (CAS RN)* | *Concentration limit (weight in weight)* |
+| --- | --- |
+| Ammonium nitrate (CAS RN 6484-52-2) in concentration of 16% by weight of nitrogen in relation to ammonium nitrate or higher[^key-b42de6e58fcde12e986c713f24d2cdc6] | \- |
+| Hexamine (CAS RN 100-97-0) | \- |
+| Hydrochloric acid (CAS RN 7647-01-0) | 10% w/w |
+| Hydrogen peroxide (CAS RN 7722-84-1) | 12% w/w |
+| Nitromethane (CAS RN 75-52-5) | 30% w/w |
+| Nitric acid (CAS RN 7697-37-2) | 3% w/w |
+| Phosphoric acid (CAS RN 7664-38-2)[^key-daa586f57b4223a095cb49170e91a01c] | 30% w/w |
+| Potassium chlorate (CAS RN 3811-04-9) | 40% w/w |
+| Potassium perchlorate (CAS RN 7778-74-7) | 40% w/w |
+| Sodium chlorate (CAS RN 7775-09-9) | 40% w/w |
+| Sodium perchlorate (CAS RN 7601-89-0) | 40% w/w |
+| Sulfuric acid ([^key-d250ec03ac0fcd3dd70d98bd405b86e9]CAS RN 7664-93-9) | 15% w/w[^key-f0a7c16ab1e8c531d5d6053d8b1897e1] |
+
+### PART 2 — Regulated poisons
+
+| *Name of substance and Chemical Abstracts Service Registry number (CAS RN)* | *Concentration limit (weight in weight)* |
+| --- | --- |
+| Aluminium phosphide (CAS RN 20859-73-8) |  |
+| Aluminium sulfide (CAS RN 1302-81-4)[^key-197db45642bfed13e4bba3d0a917ef7e] | \- |
+| Arsenic (CAS RN 7440-38-2); its compounds [^key-a4067b42d93308388c9c8791b6fc91a3]... |  |
+| Barium (CAS RN 7440-39-3), salts of, other than barium sulphate (CAS RN 7727-43-7) and the salts of barium listed in Part 4 of this Schedule) |  |
+| Bromomethane (CAS RN 74-83-9) |  |
+| Calcium phosphide (CAS RN 1305-99-3)[^key-114293e9053f8008ca8e0dece2cc9045] | \- |
+| Calcium sulfide (CAS RN 20548-54-3) | \- |
+| Chloropicrin (CAS RN 76-06-2) |  |
+| Fluoroacetic acid (CAS RN 144-49-0); its salts; fluoroacetamide |  |
+| Hydrogen cyanide (CAS RN 74-90-8); metal cyanides, other than ferrocyanides and ferricyanides |  |
+| Lead acetates (CAS RN 15347-57-6); compounds of lead with acids from fixed oils |  |
+| Magnesium phosphide (CAS RN 12057-74-8) |  |
+| Magnesium sulfide (CAS RN 12032-36-9)[^key-02f47102e835dd6556c8a92c66380021] | \- |
+| Mercury (CAS RN 7439-97-6) ; its compounds[^key-6bd20912f922cbee60d51328724b6bc1] |  |
+| Oxalic acid (CAS RN 144-62-7) | 10% w/w |
+| Phenols (phenol; phenolic isomers of the following—cresols, xylenols, monoethylphenols); compounds of phenols with a metal | 60% w/w of phenols or, for compounds of phenols with a metal, the equivalent of 60% w/w of phenols |
+| Phosphorus, yellow (CAS RN 7223-14-0) |  |
+| Sodium sulfide (CAS RN 1313-82-2)[^key-0e937f370e00354b6980027e74a29e11] | \- |
+| Strychnine (CAS RN 57-24-9); its salts; its quaternary compounds |  |
+| Thallium (CAS RN 7440-28-0), salts of |  |
+| Zinc phosphide (CAS RN 1314-84-7)[^key-96d9ccccf1571db228c3da638aebc610] | \- |
+| 2,4-Dinitrophenol (CAS RN 51-28-5) and compounds including sodium dinitrophenolate (CAS RN 1011-73-0) | \- |
+
+### PART 3 — Reportable explosives precursors
+
+- [^key-c1082e68a41bd74391894a7437df51b2]...
+- [^key-f0cef7add882ae10551b218057c8b1eb]...
+- Acetone (CAS RN 67-64-1)
+- Potassium nitrate (CAS RN 7757-79-1)
+- Sodium nitrate (CAS RN 7631-99-4)
+- Calcium nitrate (CAS RN 10124-37-5)
+- Calcium ammonium nitrate (CAS RN 15245-12-2)
+- [^key-c1082e68a41bd74391894a7437df51b2]...
+- Aluminium powders ([^key-63f377bff5d3321ce0e6d873ae56b907]CAS RN 7429-90-5) with a particle size less than 200μm, as a substance or in mixtures containing 70% or more, by weight, of aluminium and/or magnesium
+- Magnesium nitrate hexahydrate (CAS RN 13446-18-9)
+- Magnesium powders (CAS RN 7439-95-4) with a particle size less than 200μm, as a substance or in mixtures containing 70% or more, by weight, of aluminium and/or magnesium
+- Sulfur (CAS RN 7704-34-9)[^key-8e007056fcd7757d7ca294c3565d19b1]
+
+### PART 4 — Reportable poisons
+
+<table>
+<tfoot>
+<tr><td colspan="2"><em>Note: for circumstances where requirements of this Act do not apply to a specified substance or mixture, see regulations made under section 9B.</em></td></tr>
+</tfoot>
+<tbody>
+<tr><th><em>Name of substance and Chemical Abstracts Service Registry number (CAS RN)</em></th><th><em>Concentration limit (weight in weight or, where specified, total caustic alkalinity)</em></th></tr>
+<tr><td>Aldicarb (CAS RN 116-06-3)</td><td></td></tr>
+<tr><td>Alpha-chloralose (CAS RN 15879-93-3)</td><td></td></tr>
+<tr><td>Ammonia (CAS RN 7664-41-7 and CAS RN 1336-21-6)</td><td>10% w/w</td></tr>
+<tr><td>. . .</td><td></td></tr>
+<tr><td>Barium, salts of, the following—barium carbonate; barium silicofluoride</td><td></td></tr>
+<tr><td>Carbofuran (CAS RN 1563-66-2)</td><td></td></tr>
+<tr><td>Cycloheximide (CAS RN 66-81-9)</td><td></td></tr>
+<tr><td>Dinitrocresols (DNOC) (CAS RN 534-52-1); their compounds with a metal or a base</td><td></td></tr>
+<tr><td>Dinoseb (CAS RN 88-85-7); its compounds with a metal or a base</td><td></td></tr>
+<tr><td>Dinoterb (CAS RN 1420-07-1)</td><td></td></tr>
+<tr><td>Drazoxolon; its salts</td><td></td></tr>
+<tr><td>Endosulfan (CAS RN 115-29-7)</td><td></td></tr>
+<tr><td>Endothal (CAS RN 145-73-3); its salts</td><td></td></tr>
+<tr><td>Endrin (CAS RN 72-20-8)</td><td></td></tr>
+<tr><td>Fentin (CAS RN 668-34-8), compounds of</td><td></td></tr>
+<tr><td>Formaldehyde (CAS RN 50-00-0)</td><td>5% w/w</td></tr>
+<tr><td>Formic acid (CAS RN 64-18-6)</td><td>25% w/w</td></tr>
+<tr><td>. . .</td><td>. . .</td></tr>
+<tr><td>Hydrofluoric acid (CAS RN 7664-39-3); alkali metal bifluorides; ammonium bifluoride (CAS RN 1341-49-7); alkali metal fluorides; ammonium fluoride (CAS RN 12125-01-8); sodium silicofluoride (CAS RN 16893-85-9)</td><td></td></tr>
+<tr><td>. . .</td><td></td></tr>
+<tr><td>Metallic oxalates</td><td></td></tr>
+<tr><td>Metal phosphides</td><td>-</td></tr>
+<tr><td>Metal sulfides and polysulfides</td><td>-</td></tr>
+<tr><td>Methomyl (CAS RN 16752-77-5)</td><td></td></tr>
+<tr><td>Nicotine (CAS RN 54-11-5); its salts; its quaternary compounds</td><td></td></tr>
+<tr><td>Nitrobenzene (CAS RN 98-95-3)</td><td>0.1% w/w</td></tr>
+<tr><td>Oxamyl (CAS RN 23135-22-0)</td><td></td></tr>
+<tr><td>Paraquat (CAS RN 4685-14-7), salts of</td><td></td></tr>
+<tr><td>Phenols (as defined in Part 2 of this Schedule) in substances containing no more than 60%, weight in weight, of phenols; compounds of phenols with a metal in substances containing no more than the equivalent of 60%, weight in weight, of phenols</td><td></td></tr>
+<tr><td>. . .</td><td></td></tr>
+<tr><td>Phosphorus compounds, the following—azinphos-methyl, chlorfenvinphos, demephion, demeton-S-methyl, demeton-S-methyl sulphone, dialifos, dichlorvos, dioxathion, disulfoton, fonofos, mecarbam, mephosfolan, methidathion, mevinphos, omethoate, oxydemeton-methyl, parathion, phenkapton, phorate, phosphamidon, pirimiphos-ethyl, quinalphos, thiometon, thionazin, triazophos, vamidothion</td><td></td></tr>
+<tr><td>Potassium hydroxide (CAS RN 1310-58-3)</td><td>17% of total caustic alkalinity</td></tr>
+<tr><td>Sodium hydroxide (CAS RN 1310-73-2)</td><td>12% of total caustic alkalinity</td></tr>
+<tr><td>Sodium hypochlorite (CAS RN 7681-52-9) solutions above 6% available chlorine</td><td>-</td></tr>
+<tr><td>Sodium nitrite</td><td></td></tr>
+<tr><td>Thiofanox (CAS RN 39196-18-4)</td><td></td></tr>
+<tr><td>. . .</td><td></td></tr>
+</tbody>
+</table>
+
+[^key-8434fa78b8bfff7228bedf8f6b10ea8a][^key-8434fa78b8bfff7228bedf8f6b10ea8a][^key-8434fa78b8bfff7228bedf8f6b10ea8a][^key-8434fa78b8bfff7228bedf8f6b10ea8a][^key-4651ff9265ecbb9c3cd08c182f8e011d][^key-8434fa78b8bfff7228bedf8f6b10ea8a][^key-d3de293947dc9343f95618ebf2082689][^key-8434fa78b8bfff7228bedf8f6b10ea8a]
+
+## SCHEDULE 2 — Enactments Repealed.
+
+Section 12. [^c823787]
+
+[image: see source](https://www.legislation.gov.uk/ukpga/1972/66/images/ukpga_19720066_en_001)
+
+## Annotations
+
+[^c823698]: Modification: Act excluded by [S.I. 1982/218](https://www.legislation.gov.uk/uksi/1982/218), [rules 7](https://www.legislation.gov.uk/uksi/1982/218/rule/7), [8](https://www.legislation.gov.uk/uksi/1982/218/rule/8)
+
+[^c823699]: Commencement: Act wholly in force at Royal Assent.
+
+[^c823700]: Modification: Act amended by [1954 c. 61](https://www.legislation.gov.uk/ukpga/1954/61), [s. 13I(d)](https://www.legislation.gov.uk/ukpga/1954/61/section/13I/d) (as inserted (*prosp.*) by [1997 c. 19](https://www.legislation.gov.uk/ukpga/1997/19), [s. 1](https://www.legislation.gov.uk/ukpga/1997/19/section/1), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/1997/19/schedule/paragraph/2))
+
+[^c823701]: Modification: Act (except s. 1(2)): Powers transferred (W.) (1.7.1999) by virtue of [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^key-6762dd2178d65d69698194920bc03cc5]: Textual amendment: S. 1 omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/1/2/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+
+[^key-ce5b50a81ad7bc190b1a168fb3b7a7d6]: Textual amendment: Ss. 2-2A substituted for s. 2 (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/3); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+
+[^key-c071c1e290c8f05d275c1282a000c2da]: Textual amendment: Ss. 3-3C substituted for s. 3 (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/4); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+
+[^key-d093cb43318e6626459f0b6de60aef7c]: Modification: S. 3A modified (26.5.2015) by [The Control of Poisons and Explosives Precursors Regulations 2015 (S.I. 2015/966)](https://www.legislation.gov.uk/uksi/2015/966), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/966/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2015/966/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2015/966/regulation/5))
+
+[^key-9ff1af3050ec1a8140a2452ff21f3759]: Textual amendment: S. 4 omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+
+[^c823710]: Modification: S. 4 excluded by [S.I. 1982/218](https://www.legislation.gov.uk/uksi/1982/218), [rule 3](https://www.legislation.gov.uk/uksi/1982/218/rule/3)
+
+[^key-a0f22b5e7a66e1bc2667aaea049cb8b2]: Textual amendment: S. 4A - S. 4B inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/6); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+
+[^key-e86809132063d202d3d5f7a89d21ebd5]: Modification: Ss. 4A(6)-(9) applied (20.4.2015) by [The Control of Poisons and Explosives Precursors Regulations 2015 (S.I. 2015/966)](https://www.legislation.gov.uk/uksi/2015/966), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/966/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2015/966/regulation/4/5) (with [reg. 5](https://www.legislation.gov.uk/uksi/2015/966/regulation/5))
+
+[^M_F_db73b3a9-546c-4964-8219-92b5a02fe3f5]: Textual amendment: S. 5 omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposesc) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+
+[^c823711]: Modification: Ss. 3(1)(b)(ii), 5, 6, 11: functions of local authority not to be responsibility of an executive of the authority (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1)
+
+[^key-144146a28551974a9d55c4ba5a7dff29]: Textual amendment: S. 6 omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+
+[^c823715]: Modification: Ss. 3(1)(b)(ii), 5, 6, 11: functions of local authority not to be responsibility of an executive of the authority (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1)
+
+[^key-4f54856f084743fa5a5423078e8c7dd1]: Textual amendment: S. 7 substituted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/8); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+
+[^key-c9e1864f64e248680987261ce631ab60]: Textual amendment: S. 7A inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/9); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+
+[^key-b870302702401a4ffb31e10160213966]: Textual amendment: Ss. 8-8A substituted for s. 8 substituted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/10); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+
+[^key-99b46b09296712e8c4feee5a02d62899]: Textual amendment: S. 9(1)-(3) omitted (27.9.2010) by virtue of [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/2/2/a); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+
+[^key-10c4830451b5646a79264282e32fd34f]: Textual amendment: S. 9(4)-(4B) substituted for s. 9(4) (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 11(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/11/2); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+
+[^key-c6d5ba0ee950944d71ee9bf839ecd553]: Textual amendment: S. 9(5)-(7) omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 11(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/11/3); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+
+[^c823727]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 3](https://www.legislation.gov.uk/ukpga/1995/40/section/3), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/1/paragraph/3/1), [Sch. 2 Pt.II](https://www.legislation.gov.uk/ukpga/1995/40/schedule/2/part/II)
+
+[^key-4d5bf5ac84f2fbc1d2a8f65620a0f35c]: Textual amendment: S. 9A inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/12); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+
+[^key-6cbbd3a98ad72a8e8396e6fd9df6f09d]: Textual amendment: S. 9B inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/13); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+
+[^key-781ea4f61eb1e483bc8e26bd50b18966]: Textual amendment: S. 10 substituted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/14); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+
+[^c823757]: Modification: Ss. 3(1)(b)(ii), 5, 6, 11: functions of local authority not to be responsibility of an executive of the authority (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1)
+
+[^key-b082e383eaf67ea5c891cb7a86ae8658]: Textual amendment: S. 11(1) omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes,26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 15(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15/2); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2010/1621/article/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2010/1621/article/5)
+
+[^key-1e21becc33f72881eb8b5c659a8ad188]: Textual amendment: Words in s. 11(2) omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes,26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 15(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15/3); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2010/1621/article/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2010/1621/article/5)
+
+[^c823759]: Textual amendment: Words substituted by [Dentists Act 1984 (c. 24, SIF 83:1)](https://www.legislation.gov.uk/ukpga/1984/24), [s. 54(1)](https://www.legislation.gov.uk/ukpga/1984/24/section/54/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/1984/24/schedule/5/paragraph/4)
+
+[^key-a763d6e3b87436f8bdbd0c3c6d090949]: Textual amendment: Words in s. 11(2) omitted (3.12.2007) by virtue of [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [153](https://www.legislation.gov.uk/uksi/2007/3101/regulation/153)
+
+[^c823761]: Textual amendment: Definition substituted by [Medical Act 1983 (c. 54, SIF 83:1)](https://www.legislation.gov.uk/ukpga/1983/54), [s. 56(1)](https://www.legislation.gov.uk/ukpga/1983/54/section/56/1), [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/1983/54/schedule/5/paragraph/12)
+
+[^key-bc6633c187329e442df4c8688a1c3155]: Textual amendment: Words in s. 11(2) inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 15(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15/4); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2010/1621/article/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2010/1621/article/5)
+
+[^c823762]: Textual amendment: S. 11(2): words in para. (a) of the definition of “local authority” repealed (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)(8)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6/8), [Sch. 16 para. 39](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/39) (with [ss.54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
+
+[^c823763]: Textual amendment: Words inserted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 16](https://www.legislation.gov.uk/ukpga/1985/51/section/16), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1985/51/schedule/8/paragraph/16)
+
+[^c823764]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1978 (c. 45)](https://www.legislation.gov.uk/ukpga/1978/45), [Sch. 1 Pt. XII](https://www.legislation.gov.uk/ukpga/1978/45/schedule/1/part/XII)
+
+[^c823765]: Textual amendment: S. 11(2): para. (aa) of the definition of “local authority” inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6), [Sch. 16 para. 39](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/39); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
+
+[^c823766]: Textual amendment: S. 11(2)(*b*) substituted by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [Sch. 24 para. 47](https://www.legislation.gov.uk/ukpga/1973/65/schedule/24/paragraph/47)
+
+[^c823767]: Textual amendment: S. 11(2): words in para. (b) of the definition of “local authority” substituted (1.4.1996) by [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 89](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/89); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c)
+
+[^c823768]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
+
+[^key-52279bb00b0d1efbea8d23e3c9cab266]: Textual amendment: Words in s. 11(2) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/2/3); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+
+[^c823771]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
+
+[^key-eb09e0df69cb40a2c42651442738134c]: Textual amendment: Words in s. 11(2) substituted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 15(5)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2010/1621/article/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2010/1621/article/5)
+
+[^c823773]: Marginal citation: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36).
+
+[^c823774]: Marginal citation: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36).
+
+[^key-01bd68222e672bb0f3bc260c84e01c8b]: Textual amendment: S. 11(3)(4) inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 15(6)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/15/6); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2010/1621/article/5)
+
+[^c823775]: Modification: The text of s. 12(1)(2), Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c823777]: Textual amendment: Words substituted by virtue of [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1978/30/section/25/2)
+
+[^c823778]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^c823779]: Modification: Amendments and repeals described in s. 13(1) brought into operation on 1.2.1978 by [S.I. 1977/2128](https://www.legislation.gov.uk/uksi/1977/2128)
+
+[^c823780]: Marginal citation: [1933 c. 25](https://www.legislation.gov.uk/ukpga/1933/25).
+
+[^c823781]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
+
+[^c823782]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67)
+
+[^c823783]: Marginal citation: [1933 c. 25](https://www.legislation.gov.uk/ukpga/1933/25).
+
+[^M_F_0697b2dc-32d7-45df-82db-9a0b3f5584f2]: Textual amendment: Sch. 1 omitted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/1/2/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 5; [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), art. 6(p)
+
+[^key-02a5c7e66e7b5c5f46170fcadf73ae81]: Textual amendment: Sch. 1A inserted (26.3.2015 for specified purposes, 20.4.2015 for specified purposes, 26.5.2015 in force in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 21 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/21/paragraph/16); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+
+[^key-b42de6e58fcde12e986c713f24d2cdc6]: Textual amendment: Words in [Sch. 1A Pt. 1](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/1) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/2/a) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+
+[^key-daa586f57b4223a095cb49170e91a01c]: Textual amendment: Words in [Sch. 1A Pt. 1](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/1) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/2/b) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+
+[^key-d250ec03ac0fcd3dd70d98bd405b86e9]: Textual amendment: Words in Sch. 1A Pt. 1 inserted (1.5.2018 for specified purposes, 1.7.2018 for specified purposes, 1.11.2018 in so far as not already in force) by [The Poisons Act 1972 (Explosives Precursors) (Amendment) Regulations 2018 (S.I. 2018/451)](https://www.legislation.gov.uk/uksi/2018/451), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2018/451/regulation/2/1/a)
+
+[^key-f0a7c16ab1e8c531d5d6053d8b1897e1]: Textual amendment: Words in Sch. 1A Pt. 1 inserted (1.5.2018 for specified purposes, 1.7.2018 for specified purposes, 1.11.2018 in so far as not already in force) by [The Poisons Act 1972 (Explosives Precursors) (Amendment) Regulations 2018 (S.I. 2018/451)](https://www.legislation.gov.uk/uksi/2018/451), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/451/regulation/2/1/b)
+
+[^key-197db45642bfed13e4bba3d0a917ef7e]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(a)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/a) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+
+[^key-a4067b42d93308388c9c8791b6fc91a3]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) omitted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(b)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/b) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+
+[^key-114293e9053f8008ca8e0dece2cc9045]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(c)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/c) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+
+[^key-02f47102e835dd6556c8a92c66380021]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(d)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/d) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+
+[^key-6bd20912f922cbee60d51328724b6bc1]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) substituted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(e)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/e) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+
+[^key-0e937f370e00354b6980027e74a29e11]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(f)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/f) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+
+[^key-96d9ccccf1571db228c3da638aebc610]: Textual amendment: Words in [Sch. 1A Pt. 2](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/2) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(3)(g)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/3/g) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+
+[^key-c1082e68a41bd74391894a7437df51b2]: Textual amendment: Words in [Sch. 1A Pt. 3](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/3) omitted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(4)(a)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/4/a) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+
+[^key-f0cef7add882ae10551b218057c8b1eb]: Textual amendment: Words in Sch. 1A Pt. 3 omitted (1.5.2018 for specified purposes, 1.7.2018 for specified purposes, 1.11.2018 in so far as not already in force) by virtue of [The Poisons Act 1972 (Explosives Precursors) (Amendment) Regulations 2018 (S.I. 2018/451)](https://www.legislation.gov.uk/uksi/2018/451), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/451/regulation/2/2/a)
+
+[^key-63f377bff5d3321ce0e6d873ae56b907]: Textual amendment: Words in Sch. 1A Pt. 3 inserted (1.5.2018) by [The Poisons Act 1972 (Explosives Precursors) (Amendment) Regulations 2018 (S.I. 2018/451)](https://www.legislation.gov.uk/uksi/2018/451), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/451/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/451/regulation/2/2/b)
+
+[^key-8e007056fcd7757d7ca294c3565d19b1]: Textual amendment: Words in [Sch. 1A Pt. 3](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/3) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(4)(b)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/4/b) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+
+[^key-8434fa78b8bfff7228bedf8f6b10ea8a]: Textual amendment: Words in [Sch. 1A Pt. 4](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/4) omitted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(5)(a)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/5/a) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+
+[^key-4651ff9265ecbb9c3cd08c182f8e011d]: Textual amendment: Words in [Sch. 1A Pt. 4](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/4) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(5)(b)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/5/b) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+
+[^key-d3de293947dc9343f95618ebf2082689]: Textual amendment: Words in [Sch. 1A Pt. 4](https://www.legislation.gov.uk/ukpga/1972/66/schedule/1A/part/4) inserted (1.10.2023) by [S.I. 2023/63](https://www.legislation.gov.uk/uksi/2023/63), [reg. 8(5)(c)](https://www.legislation.gov.uk/uksi/2023/63/regulation/8/5/c) (as substituted by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2))
+
+[^c823787]: Modification: The text of s. 12(1)(2), Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

@@ -1,0 +1,23 @@
+---
+title: Road Traffic Act 1991, section 85
+act: Road Traffic Act 1991
+section: '85'
+status: revised-with-pending-changes
+text_date: '2024-11-28'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1991/40/section/85
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Road Traffic Act 1991, section 85
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2024-11-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/40
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 85. Expenses.
+
+*Extent: E+W+S*
+
+Any expenditure incurred by the Secretary of State under or by virtue of this Act shall be payable out of money provided by Parliament.

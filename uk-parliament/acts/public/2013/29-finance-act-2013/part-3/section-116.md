@@ -1,0 +1,82 @@
+---
+title: Finance Act 2013, section 116
+act: Finance Act 2013
+section: '116'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2013/29/section/116
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2013, section 116
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 116. Dwelling in grounds of another dwelling
+
+*Extent: E+W+S+N.I.*
+
+(1) Subsection (4) applies where the conditions in subsection (2) are met in relation to two dwellings (the “main dwelling” and the “associated dwelling”) on a day (“the day in question”) in a chargeable period.
+
+(2) The conditions are that—
+
+- (a) the main dwelling has a garden or grounds,
+- (b) the associated dwelling stands within the garden or grounds of the main dwelling, but is not occupied or enjoyed with that dwelling,
+- (c) the associated dwelling does not have separate access, and is not part of the same building as the main dwelling, and
+- (d) the common ownership condition is met.
+
+(3) The common ownership condition is that—
+
+- (a) a company is entitled to a chargeable interest in the main dwelling, and the company or a person connected with the company is entitled to a chargeable interest in the associated dwelling, or
+- (b) a chargeable interest in the main dwelling is held for the purposes of a collective investment scheme, and a chargeable interest in the associated dwelling is held for the purposes of the same collective investment scheme.
+
+(It does not matter whether or not the interest in the main dwelling and the interest in the associated dwelling are held for the same title.)
+
+(4) This Part has effect in relation to the interests mentioned in paragraph (a) or (as the case may be) (b) of subsection (3) as if the main dwelling and the associated dwelling were, on the day in question, suitable for use as a single dwelling.
+
+(5) Subsection (4) does not apply if—
+
+- (a) the day in question is, in relation to the interest in the main dwelling or the interest in the associated dwelling, relievable by virtue of a provision mentioned in subsection (6), or
+- (b) the ownership condition is, by virtue of section 151 (charitable companies), regarded as not being met on that day with respect to one or other of those interests.
+
+(6) Those provisions are—
+
+- section 133 (property rental businesses);
+- section 134 (rental property: preparation for sale etc);
+- section 137 (dwellings opened to the public);
+- section 138 (property developers);
+- section 139 (property developers: exchange of dwellings);
+- section 141 (property traders);
+- section 143 (financial institutions acquiring dwellings in the course of lending);
+- section 144A (regulated home reversion plans);[^key-e80946807d6b0e75e845fedd5d65f5b9]
+- section 145 (occupation by employees or partners of a qualifying trade or property rental business[^key-42a42c11e723eb56ec39c214704904ec] );
+- section 147A (caretaker flat owned by management company);[^key-cddf492f641ebbd1255c0eb6bf04e23f]
+- section 148 (farmhouses);
+- section 150 (providers of social housing).
+
+(7) The reference in subsection (3)(a) to a person connected with the company does not include a public body (as defined in section 153) or a body listed in section 154(2) (bodies established for national purposes).
+
+(8) The reference in subsection (3)(b) to a chargeable interest being held for the purposes of the same collective investment scheme includes a reference to a person connected with the scheme being entitled to the interest.
+
+(9) The associated dwelling has “separate access” only if—
+
+- (a) there is access to the associated dwelling directly from a highway (in Scotland, a road) that the dwelling adjoins, or
+- (b) the person entitled to possession of the associated dwelling has access to that dwelling from a highway (in Scotland, a road), exclusively by passing over land that the person is entitled to pass over by reason of one or more rights of way or other interests in land to which the person is separately entitled.
+
+(10) In this section—
+
+- in relation to a dwelling or dwellings, references to the “**garden or grounds**” are to land occupied or enjoyed with the dwelling or dwellings as a garden or grounds;
+- references to the person entitled to possession of a dwelling are to the person entitled to possession of the dwelling by reason of an estate or interest held by that person;
+- “**separately entitled**” means entitled otherwise than by reason of a chargeable interest in or over the main dwelling.
+
+## Annotations
+
+[^key-e80946807d6b0e75e845fedd5d65f5b9]: Textual amendment: Words in s. 116(6) inserted (15.9.2016) (with effect in accordance with s. 134(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 134(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/134/3)
+
+[^key-42a42c11e723eb56ec39c214704904ec]: Textual amendment: Words in s. 116(6) substituted (15.9.2016) (with effect in accordance with s. 135(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 135(8)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/135/8/a)
+
+[^key-cddf492f641ebbd1255c0eb6bf04e23f]: Textual amendment: Words in s. 116(6) inserted (15.9.2016) (with effect in accordance with s. 135(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 135(8)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/135/8/b)

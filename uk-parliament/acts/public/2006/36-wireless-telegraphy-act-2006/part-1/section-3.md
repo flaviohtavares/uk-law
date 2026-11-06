@@ -1,0 +1,45 @@
+---
+title: Wireless Telegraphy Act 2006, section 3
+act: Wireless Telegraphy Act 2006
+section: '3'
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2006/36/section/3
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Wireless Telegraphy Act 2006, section 3
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/36
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 3. Duties of OFCOM when carrying out functions
+
+*Extent: E+W+S+N.I.*
+
+(1) In carrying out their radio spectrum functions, OFCOM must have regard, in particular, to—
+
+- (a) the extent to which the electromagnetic spectrum is available for use, or further use, for wireless telegraphy;
+- (b) the demand for use of the spectrum for wireless telegraphy; and
+- (c) the demand that is likely to arise in future for the use of the spectrum for wireless telegraphy.
+
+(2) In carrying out those functions, they must also have regard, in particular, to the desirability of promoting—
+
+- (a) the efficient management and use of the part of the electromagnetic spectrum available for wireless telegraphy;
+- (b) the economic and other benefits that may arise from the use of wireless telegraphy;
+- (c) the development of innovative services; and
+- (d) competition in the provision of electronic communications services.
+
+(3) Subsection (4) has effect in the case of OFCOM's radio spectrum functions, other than their functions under sections 13 and 22.
+
+(4) In the application of this section to those functions, OFCOM may disregard such of the matters mentioned in subsections (1) and (2) as appear to them—
+
+- (a) to be matters to which they are not required to have regard apart from this section; and
+- (b) to have no application to the case in question.
+
+(5) Where it appears to OFCOM that a duty under this section conflicts with one or more of their duties under sections 3 to 6 of the Communications Act 2003 (c. 21), priority must be given to their duties under those sections.
+
+(6) Where it appears to OFCOM that a duty under this section conflicts with another in a particular case, they must secure that the conflict is resolved in the manner they think best in the circumstances.

@@ -1,0 +1,169 @@
+---
+title: The Road Vehicles (Construction and Use) (Amendment) Regulations 1988
+id: uksi/1988/271
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1988-02-16'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1988/271
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1988/271/pdfs/uksi_19880271_en.pdf
+- http://www.legislation.gov.uk/uksi/1988/271/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Road Vehicles (Construction and Use) (Amendment) Regulations 1988
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1988 No. 271
+
+ROAD TRAFFIC
+
+The Road Vehicles (Construction and Use) (Amendment) Regulations 1988
+
+Made
+
+16th February 1988
+
+Laid before Parliament
+
+26th February 1988
+
+Coming into force
+
+18th March 1988
+
+The Secretary of State for Transport, in exercise of the powers conferred by section 40(1) and (3) of the Road Traffic Act 1972[^f00001], now vested in him[^f00002], and after consultation with representative organisations in accordance with section 199(2) of that Act, hereby makes the following Regulations:—
+
+## 1. Citation, commencement and introduction
+
+These Regulations may be cited as the Road Vehicles (Construction and Use) (Amendment) Regulations 1988 and shall come into force on 18th March 1988.
+
+**2.** (1) The Road Vehicles (Construction and Use) Regulations 1986[^f00003] shall be further amended in accordance with the following provisions of these Regulations.
+
+(2) The Secretary of State is satisfied that—
+
+- (a) it is requisite that the provisions of regulation 4 of these Regulations (being provisions which vary the requirements as regards the construction of certain classes of vehicles) shall apply as from 1st April 1990 to vehicles registered under the Vehicles (Excise) Act 1971[^f00004] before the expiration of one year from the making of these Regulations; and
+- (b) notwithstanding that the said provisions will then apply to those vehicles, no undue hardship or inconvenience will be caused thereby.
+
+## 3. Amendments of regulation 4 (Application and Exemptions)
+
+The Table in regulation 4(4) shall be amended as follows—
+
+- (a) in sub-paragraph (a) in column 2 of item 2, in front of the words“Part II” there shall be inserted the words“Part I” and a comma;
+- (b) in sub-paragraph (a) in column 2 of item 3, for the words“paragraph 7 and 8 of Schedule 7 to the Finance Act 1972” there shall be substituted the words“section 7(1), (2) and (3) of the Car Tax Act 1983[^f00005]”;
+- (c) in sub-paragraph (b) in column 2 of item 3, for the words“regulation 49 or 50 of the Value Added Tax (General) Regulations 1977” there shall be substituted the words“regulation 56 or 57 of the Value Added Tax (General) Regulations 1985[^f00006]”; and
+- (d) in column 2 of item 5, for the words“section 54” there shall be substituted the words“section 45”.
+
+## 4. Speed limiters for coaches
+
+(1) After regulation 36 (maintenance of speedometers), there shall be inserted the following new regulation—
+
+> **36A. Speed limiters**
+>
+> (1) This regulation applies to every coach first used on or after 1st April 1974 and which has, or if a speed limiter were not fitted to it would have, a maximum speed exceeding 70 mph.
+>
+> (2) A vehicle to which this regulation applies and which is first used on a date included in an item in column 2 of the Table shall not be used on a road on or after the date specified in column 3 in that item unless it has been fitted with a speed limiter.
+>
+> TABLE
+>
+> **(regulation 36A (2))**
+>
+> <table>
+> <thead>
+> <tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+> <tr><th><em>Item</em></th><th><em>Date of first use</em></th><th><em>Date from which requirement applies</em></th></tr>
+> </thead>
+> <tbody>
+> <tr><td>1.</td><td>1st April 1974 to 31st March 1984</td><td>1st April 1991</td></tr>
+> <tr><td>2.</td><td>1st April 1984 to 31st March 1989</td><td>1st April 1990</td></tr>
+> <tr><td>3.</td><td>On or after 1st April 1989</td><td>Date of first use</td></tr>
+> </tbody>
+> </table>
+>
+> (3) Every speed limiter fitted in accordance with paragraph (2) shall—
+>
+> - (a) unless it is fitted before 1st October 1988, comply with Part I of the British Standard;
+> - (b) be calibrated to a set speed not exceeding 70 mph;
+> - (c) be sealed in such a manner as to protect the limiter against any improper interference or adjustment and against any interruption of its power supply; and
+> - (d) be maintained in good and efficient working order.
+>
+> (4) A vehicle to which a speed limiter has been fitted in accordance with paragraphs (2) and (3) shall not be driven on a road unless the speed limiter is functioning except for the purpose of—
+>
+> - (a) completing a journey in the course of which the speed limiter has accidentally ceased to function; or
+> - (b) taking the vehicle to a place where the speed limiter is to be repaired or replaced.
+>
+> (5) In this regulation—
+>
+> - “Part I of the British Standard” means the British Standard for Maximum Road Speed Limiters for Motor Vehicles which was published by the British Standards Institution under the number BSAU 217: Part I: 1987 and which came into effect on 29th May 1987;
+> - “set speed” has the same meaning as in clause 2.2 of Part I of the British Standard;
+> - “speed limiter” means a device designed to limit the maximum speed of a motor vehicle by controlling the engine power of the vehicle.
+
+.
+
+(2) After regulation 70 (Ministry plates), there shall be inserted the following new regulation—
+
+> **70A. Speed limiters—plates**
+>
+> (1) Paragraph (2) applies to every vehicle to which regulation 36A (speed limiters) applies and which is fitted with a speed limiter which complies with Part I of the British Standard.
+>
+> (2) Every vehicle to which this paragraph applies shall be equipped with a plate which is in a conspicuous and readily accessible position within the driving compartment and which shows clearly and indelibly the particulars specified in clause 10 of Part I of the British Standard.
+>
+> (3) Paragraph (4) applies to every vehicle to which regulation 36(A) applies and which is fitted with a speed limiter which does not comply with Part I of the British Standard.
+>
+> (4) Every vehicle to which this paragraph applies shall be equipped with a plate which is in a conspicuous and readily accessible position within the driving compartment and which shows clearly and indelibly—
+>
+> - (a) the words“SPEED LIMITER FITTED”;
+> - (b) the set speed in mph to which the limiter is calibrated; and
+> - (c) the name or trade mark of the limiter supplier.
+>
+> (5) In this regulation—
+>
+> - (a) “Part I of the British Standard” and“speed limiter” have the same meanings respectively as in regulation 36A;
+> - (b) “limiter supplier” and“set speed” have the same meanings respectively as in Part I of the British Standard; and (m) (c)“trade mark” has the same meaning as in the Trade Marks Act 1938[^f00007].
+
+.
+
+Signed by authority of the Secretary of State
+
+Peter Bottomley
+
+Parliamentary Under Secretary of State,
+
+Department of Transport
+
+16th February 1988
+
+(This note is not part of the Regulations)
+
+These Regulations amend the provisions of the Road Vehicles (Construction and Use) Regulations 1986.
+
+Minor amendments to the Table in regulation 4(4) are introduced to make good an omission, to correct references to other legislation and to correct a printing error (regulation 3).
+
+A new regulation 36A is introduced, which provides for coaches which would otherwise be capable of exceeding the motorway speed limit to be fitted with speed limiters set to a maximum speed no higher than 70 mph. The new provisions will apply to all new coaches from 1st April 1989, to coaches first used between 1st April 1984 and 31st March 1989, to coaches first used between 1st April 1984 and 31st March 1989 inclusive from 1st April 1990, and to coaches first used between 1st April 1974 and 31st March 1984 inclusive from 1st April 1991. Any speed limiter fitted to a coach on or after 1st October 1988 will need to comply with Part I of the relevant British Standard (BS AU 217: Part I: 1987). Provision is made for a coach to complete its journey if the speed limiter has accidentally ceased to function or for it to be taken to a place where the speed limiter is to be repaired (regulation 4).
+
+A new regulation 70A provides that every coach to which the regulations apply must bear a plate to show that it is fitted with a speed limiter. The plate must show the name or trade mark of the limiter manufacturer, the set speed to which the limiter is calibrated and, where relevant, the British Standard marking (regulation 5).
+
+Enquiries about the British Standard should be made to the British Standards Institution at Linford Wood, Milton Keynes, MK14 6LE (telephone Milton Keynes (STD 0908) 221166).
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 20](https://www.legislation.gov.uk/ukpga/1972/20).
+
+[^f00002]: Footnote: S.I. [1979/571](https://www.legislation.gov.uk/uksi/1979/571) and [1981/238](https://www.legislation.gov.uk/uksi/1981/238).
+
+[^f00003]: Footnote: S.I. [1986/1078](https://www.legislation.gov.uk/uksi/1986/1078), to which S.I. [1987/1133](https://www.legislation.gov.uk/uksi/1987/1133) is the only relevant amending instrument.
+
+[^f00004]: Footnote: [1971 c. 10](https://www.legislation.gov.uk/ukpga/1971/10).
+
+[^f00005]: Footnote: [1983 c. 53](https://www.legislation.gov.uk/ukpga/1983/53).
+
+[^f00006]: Footnote: S.I. [1985/886](https://www.legislation.gov.uk/uksi/1985/886).
+
+[^f00007]: Footnote: [1938 c. 22](https://www.legislation.gov.uk/ukpga/1938/22).

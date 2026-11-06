@@ -1,0 +1,378 @@
+---
+title: The Customs Safety and Security (Penalty) Regulations 2019
+id: uksi/2019/121
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-01-29'
+text_date: '2026-06-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/121
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/121/pdfs/uksiem_20190121_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/121/pdfs/uksi_20190121_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/121/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Customs Safety and Security (Penalty) Regulations 2019
+
+> Text as at 2026-06-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 121
+
+Customs
+
+The Customs Safety and Security (Penalty) Regulations 2019
+
+Made
+
+29th January 2019
+
+Laid before Parliament
+
+30th January 2019
+
+Coming into force
+
+20th February 2019
+
+[^c23536351]The Commissioners for Her Majesty's Revenue and Customs make the following Regulations in exercise of the powers conferred upon them by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972 .
+
+The Commissioners for Her Majesty's Revenue and Customs [^c23536361] are a Department designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to customs matters of the European Communities [^c23536371].[^key-95b20b14a81459f43f0715ac9f59205a]
+
+## 1. Citation and commencement[^key-9c34df0fb849ca56d5abdc60ce3e0fd3]
+
+These Regulations may be cited as the Customs Safety and Security (Penalty) Regulations 2019 and come into force on 20th<sup></sup>February 2019.
+
+## 2. Interpretation[^key-91faf025b03c36e81a8cec671fc4fc74]
+
+In these Regulations—
+
+- “**carrier**” has the same meaning as in Article 5(40) of the Code;
+- “**the Code**” means Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code [^c23536381] as it has effect from time to time;
+- “**contravenes**” includes fails to comply with;
+- “[^key-8602f4c351c0905e9954ebf769295fed]**customs representative**” has the same meaning as in Article 5(6) of the Code;
+- “**Delegated Regulation**” means Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning provisions of the Union Customs Code [^c23536391], as it has effect from time to time;
+- “**declarant**” has the same meaning as in Article 5(15) of the Code;
+- “**demand notice**” means a demand notice within the meaning of regulation 6(1);
+- “**entry summary declaration**” has the same meaning as in Article 5(9) of the Code;
+- “**exit summary declaration**” has the same meaning as in Article 5(10) of the Code;
+- “**HMRC**” means Her Majesty's Revenue and Customs;
+- “**the Implementing Regulation**” means Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code [^c23536401], as it has effect from time to time;
+- “**penalty**” means the one mentioned in regulation 3(1);
+- “**relevant safety and security rule**” means any duty, obligation, requirement or condition in relation to customs safety and security requirements imposed by or under[^key-2f4fe3010ee2e0342d2e7d226467352c] the legislation specified in Column 1 of the Schedule;
+- “**representative**”, in relation to any person, means any person acting in a representative capacity in relation to that person including—
+  - (a) the person's personal representative;
+  - (b) the person's trustee in bankruptcy or interim or permanent trustee;
+  - (c) the person's receiver or liquidator appointed in relation to that person or any of that person's property;
+- “**the tribunal**” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal.
+
+## 3. Penalty for contravention of a relevant safety and security rule[^key-bdb40a52fcb0b9c1677b002ff98c8000]
+
+(1) If a person engages in any conduct which contravenes a relevant safety and security rule, that person is liable to a penalty under this regulation.
+
+(2) Column 1 of the Schedule specifies relevant safety and security rules.
+
+(3) Column 2 of the Schedule specifies the person whose conduct in contravention of a relevant safety and security rule gives rise to liability under paragraph (1).
+
+(4) Column 3 of the Schedule specifies the maximum penalty for contravention of a relevant safety and security rule to which a person is liable under paragraph (1).
+
+## 4. Exceptions from liability to a penalty[^key-f991822c1b84e0600c7d210df6520534]
+
+(1) A person is not liable to a penalty if the person or that person's representative satisfies—
+
+- (a) HMRC; or
+- (b) on appeal, the tribunal;
+
+that there is a reasonable excuse for the conduct that contravened a relevant safety and security rule.
+
+(2) For the purposes of paragraph (1) it is not a reasonable excuse that the contravention is attributed, in whole or in part, to the conduct of a person on whom reliance to perform any task was placed.
+
+(3) Where, by reason of conduct falling within regulation 3(1), a person is prosecuted for an offence that conduct does not give rise to liability to a penalty.
+
+## 5. Reduction of penalty[^key-f4e900cabade4939d247516041e4e970]
+
+(1) Where a person is liable to a penalty, HMRC on review or the tribunal on appeal may reduce or increase the penalty to such amount (including nil or up to the maximum provided for under these Regulations) as they think proper.
+
+(2) In exercising their powers under paragraph (1), neither HMRC nor the tribunal are entitled to take into account—
+
+- (a) the insufficiency of the funds available to any person for paying the penalty; or
+- (b) the fact that the person liable to the penalty, or a person acting on that person's behalf, has acted in good faith.
+
+## 6. Demands for penalties[^key-3a1c55123e5b39628857d697c8e62ee8]
+
+(1) Where a person is liable to a penalty, HMRC may give to that person or that person's representative a notice in writing (a “demand notice”) demanding payment of the amount due by way of penalty.
+
+(2) An amount demanded as due from a person or that person's representative in accordance with paragraph (1) is recoverable as if it were an amount due from the person or, as the case may be, the representative as an amount of customs duty.
+
+(3) Paragraph (2) is subject to—
+
+- (a) paragraph (4);
+- (b) any appeal under regulation 9; and
+- (c) any review by HMRC under regulation 11.
+
+(4) An amount so demanded is not recoverable if the demand has been subsequently withdrawn.
+
+## 7. Time limits for demands for penalties[^key-4ce2cdb867662b8cd2c3d1e9a2efe41f]
+
+(1) A demand notice may not be given in relation to a penalty more than three years after the conduct giving rise to the penalty ceased.
+
+(2) A demand notice may not be given more than two years after there has come to the knowledge of HMRC evidence of facts sufficient in the opinion of HMRC to justify the giving of the demand notice.
+
+## 8. No prosecution after demand notice for penalty[^key-98a0efdf820e3880f24c5d7203a86243]
+
+Where a demand notice is given for an amount due by way of a penalty in respect of any conduct of a person, no proceedings may be brought against that person for any offence constituted by that conduct (whether or not the demand notice is subsequently withdrawn).
+
+## 9. Right to appeal[^key-00da53943e533c7fe51e9f5fff476799]
+
+(1) Where HMRC give a demand notice to a person or that person's representative, the person or that person's representative may appeal to the tribunal in respect of—
+
+- (a) HMRC's decision that the person is liable to a penalty; or
+- (b) HMRC's decision as to the amount of the liability.
+
+(2) Subject to regulation 5, the powers of the tribunal on an appeal under this regulation include—
+
+- (a) the power to quash or vary a decision; and
+- (b) the power to substitute the tribunal's own decision for any decision so quashed.
+
+(3) On an appeal under this regulation—
+
+- (a) the burden of proof as to the matters mentioned in regulation 3(1) lies on HMRC; but
+- (b) it is otherwise for the appellant to show that the grounds on which any such appeal is brought have been established.
+
+## 10. Offer of review[^key-61fd6a99017285f6c42c9cd791141ba5]
+
+(1) Where an appeal lies under regulation 9(1) in respect of a decision made by HMRC, HMRC must offer a person a review of their decision.
+
+(2) The offer of the review must be made by notice given to the person or that person's representative at the same time as the demand notice is given to that person or that person's representative.
+
+## 11. Review by HMRC[^key-b7ed4deae5b21af3e351979f78d6713f]
+
+HMRC must review a decision if—
+
+- (a) they have offered a review of the decision under regulation 10;
+- (b) the person or that person's representative notifies HMRC accepting the offer within the period of 30 days beginning with the date of the document containing the notification of the offer; and
+- (c) the person or that person's representative has not appealed to the tribunal under regulation 9 before notifying HMRC of acceptance of the offer.
+
+## 12. Review out of time[^key-29d71d819476edc085e585091e773a8c]
+
+(1) This regulation applies if—
+
+- (a) HMRC have offered a person a review of a decision under regulation 10; and
+- (b) the person or that person's representative does not accept the offer within the time allowed under regulation 11(b).
+
+(2) HMRC must review the decision under regulation 11 if—
+
+- (a) after the time allowed, the person or that person's representative makes a request to HMRC in writing for a review out of time;
+- (b) HMRC are satisfied that the person or that person's representative had a reasonable excuse for not accepting the offer within the time allowed;
+- (c) HMRC are satisfied that the person or that person's representative made the request without unreasonable delay after the excuse had ceased to apply; and
+- (d) the person or that person's representative has not appealed to the tribunal under regulation 9 before making the request for a review out of time.
+
+## 13. Nature of review[^key-188412778ae31d3ced53225290254f8a]
+
+(1) This regulation applies if HMRC are required to undertake a review under regulation 11 or 12.
+
+(2) The nature and extent of the review are to be such as appear appropriate to HMRC in the circumstances.
+
+(3) For the purpose of paragraph (2), HMRC must, in particular, have regard to steps taken before the beginning of the review—
+
+- (a) by HMRC in reaching the decision; and
+- (b) by any person in seeking to resolve disagreement about the decision.
+
+(4) The review must take account of any representations made by the person liable to the penalty or that person's representative at a stage which gives HMRC a reasonable opportunity to consider them.
+
+(5) Subject to regulation 5, the review may conclude that the decision is to be—
+
+- (a) upheld;
+- (b) varied; or
+- (c) cancelled.
+
+(6) HMRC must give the person or that person's representative notice of the conclusions of the review and their reasoning within—
+
+- (a) a period of 45 days beginning with the relevant date; or
+- (b) such other period as HMRC and the person or that person's representative may agree.
+
+(7) In paragraph (6) “**relevant date**” means—
+
+- (a) the date HMRC received the notification accepting the offer of a review (in a case falling within regulation 11); or
+- (b) the date on which HMRC decided that the obligation to undertake a review applied (in a case falling within regulation 12).
+
+(8) Where HMRC are required to undertake a review but do not give notice of the conclusions within the time period specified in paragraph (6), the review is to be treated as having concluded that the decision is upheld.
+
+(9) If paragraph (8) applies HMRC must notify the person or that person's representative of the conclusion which the review is treated as having reached.
+
+## 14. Bringing of appeals[^key-12ef62a2460ff65accecd32e0b572953]
+
+(1) This regulation applies to an appeal to the tribunal under regulation 9.
+
+(2) In a case where regulation 13(8) applies, an appeal may be made at any time from the end of the period specified in regulation 13(6) to the end of the period of 30 days beginning with the conclusion date.
+
+(3) In a case where HMRC are required to undertake a review under regulation 11 and paragraph (2) does not apply—
+
+- (a) an appeal may not be made before the conclusion date; and
+- (b) any appeal is to be made within the period of 30 days beginning with the conclusion date.
+
+(4) In a case where HMRC are requested to undertake a review in accordance with regulation 12 and HMRC have notified the person or that person's representative that a review will be undertaken and paragraph (2) does not apply—
+
+- (a) an appeal may not be made before the conclusion date; and
+- (b) any appeal is to be made within the period of 30 days beginning with the conclusion date.
+
+(5) In all other cases an appeal is to be made before the end of the period of 30 days beginning with the date of the demand notice.
+
+(6) An appeal may be made after the end of the period specified in paragraph (2), (3)(b), (4)(b) or (5) if the tribunal gives permission to do so.
+
+(7) In this regulation “**conclusion date**” means the date of the document notifying the conclusions of the review, including a document notifying the conclusions of a review under regulation 13(9).
+
+## 15. Settling appeals by agreement[^key-974dd9ef8fbe6d73e0ae206faef0292b]
+
+Section 85 of the Value Added Tax Act 1994 [^c23536411] (settling appeals by agreement) has effect as if the reference to section 83 of that Act included a reference to regulation 9 above.
+
+## 16. Service of notices[^key-46366c0e38d60a6aa94b309caa340401]
+
+Any notice to be given to any person for the purposes of these Regulations may be given—
+
+- (a) by sending it by post to that person at that person's last or usual residence or place of business; or
+- (b) if the person consents in writing to the use of a certain means of electronic communication, by that means of electronic communication.
+
+## 17. Amendment of the Export (Penalty) Regulations 2003[^key-5150056bbf8a8ca82cd0802af0ea7735]
+
+In the Export (Penalty) Regulations 2003 [^c23536421], in the Schedule omit the entry headed “Articles 263, 267 and 271 of the Code and Article 337 of the Implementing Regulation”.
+
+Jim Harra
+
+Melissa Tatton
+
+Two of the Commissioners for Her Majesty's Revenue and Customs
+
+## SCHEDULE
+
+Regulation 3
+
+<table>
+<tbody>
+<tr><th><em>Column 1</em></th><th><em>Column 2</em></th><th><em>Column 3</em></th></tr>
+<tr><th><em>Description of Relevant Safety and Security Rule</em></th><th><em>Description of Person Liable</em></th><th><em>Maximum Penalty for contravention</em></th></tr>
+<tr><th colspan="3"><strong>Authorised Economic Operators.</strong></th></tr>
+<tr><th><strong>Articles 23(2) and 38(2)(b) of the Code.</strong></th><td>Holder of the decision.</td><td>£2,500</td></tr>
+<tr><td>The holder of a decision granting an authorisation of an authorised economic operator for security and safety must inform the customs authorities without delay of any factor arising after the decision was taken, which may influence its continuation or content.</td><td></td><td></td></tr>
+<tr><th colspan="3"><strong>Entry Summary Declarations.</strong></th></tr>
+<tr><th><strong>Article 127 of the Code, Articles 104 to 111 of the Delegated Regulation and Articles 182 and 183 of the Implementing Regulation.</strong></th><td>The carrier.</td><td>£1,000</td></tr>
+<tr><td>Goods brought into the customs territory of the Union must be covered by an entry summary declaration. The entry summary declaration must be lodged electronically at the customs office of first entry within a specified time limit.</td><td></td><td></td></tr>
+<tr><th><strong>Article 127(5) of the Code and Article 2 of the Delegated Regulation</strong></th><td>The declarant or any customs representative of the declarant who lodged the entry summary declaration, or both.</td><td>£1,000</td></tr>
+<tr><td>The entry summary declaration must contain the particulars necessary for risk analysis for safety and security purposes.</td><td></td><td></td></tr>
+<tr><th><strong>Notifications.</strong></th><td></td><td></td></tr>
+<tr><th><strong>Article 133 of the Code.</strong></th><td>The operator of the means of transport.</td><td>£2,500</td></tr>
+<tr><td>Where a sea-going vessel or an aircraft enters the customs territory of the Union, the operator of that means of transport must notify arrival to the customs office of first entry upon arrival of that means of transport.</td><td></td><td></td></tr>
+<tr><th><strong>Article 189 of the Implementing Regulation.</strong></th><td>The operator of the active means of transport.</td><td>£1,000</td></tr>
+<tr><td>Where a sea-going vessel or an aircraft entering the customs territory of the Union is diverted and is expected to arrive first at a customs office ...not indicated in the entry summary declaration, the operator of that means of transport must inform the customs office indicated in the entry summary declaration as the customs office of first entry of that diversion.</td><td></td><td></td></tr>
+<tr><th colspan="3"><strong>Pre-departure Declarations.</strong></th></tr>
+<tr><th><strong>Articles 263 and 271 of the Code and Articles 244 and 245 of the Delegated Regulation.</strong></th><td>The carrier.</td><td>£1,000</td></tr>
+<tr><td>Goods to be taken out of the customs territory of the Union, where a customs declaration or a re-export declaration is not lodged as a pre-departure declaration, must be covered by an exit summary declaration to be lodged at the appropriate customs office within a specific time limit before the goods are taken out of the customs territory of the Union.</td><td></td><td></td></tr>
+<tr><th><strong>Article 263(3) and (4) of the Code and Article 2 of the Delegated Regulation</strong></th><td>The declarant or any customs representative of the declarant who lodged the pre-departure declaration, or both.</td><td>£1,000</td></tr>
+<tr><td>The pre-departure declaration must contain the particulars necessary for risk analysis for safety and security purposes.</td><td></td><td></td></tr>
+</tbody>
+</table>
+
+[^key-993401ec2c84c18dd6c654a4e38750fa][^key-e279afe771444df5c061f0bfd7537779][^key-22df36c7b818a9844f72fc7660fdd708][^key-7da7003ff02d9a301e1e4f3e9d633585][^key-342ef0b9101a2bbc758c5c8404948234][^key-1c59d4c461d6d82a776dc2d88de4649a][^key-99836861737ba6354ed026c4709c3d3f][^key-f49e32d1dd83b05923ae247189957b8b][^key-8cdbb349b8b3ea5153afb61b131addf5][^key-5a7bb253d54df3358002476ef8beead0]
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made under section 2(2) of the European Communities Act 1972 (c. 68). They provide civil penalties that apply for contravention of safety and security obligations contained in EU regulations. Some of these penalties replace defective penalties under the Customs (Contravention of a Relevant Rule) Regulations 2003 (S.I. 2003/3113). Consequently these Regulations are issued free of charge to all known recipients of those Regulations.
+
+Regulation 3 sets out that if a person contravenes a relevant safety and security rule they are liable to a penalty. The details of the rules, penalties and persons liable are set out in the Schedule.
+
+In the Schedule: Column 1 sets out the relevant safety and security rules, Column 2 specifies the person who would be liable and Column 3 specifies the maximum penalty that the person would be liable to for contravening the rule.
+
+Regulations 4 to 16 set out the rules for exceptions from and reductions to penalties, the issuing of demand notices for penalties and for reviews and appeals of decisions made by HMRC.
+
+Regulation 17 revokes an earlier penalty that is replaced in these Regulations.
+
+This instrument will be covered by an overarching HMRC impact assessment (second edition) which will be published and available on the website at:
+
+https://www.gov.uk/government/collections/customs-vat-and-excise-regulations-leaving-the-eu-with-no-deal.
+
+## Annotations
+
+[^c23536351]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); [section 2(2)](https://www.legislation.gov.uk/uksi/2019/121/section/2/2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7); [paragraph 1A](https://www.legislation.gov.uk/uksi/2019/121/paragraph/1A) of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 and was amended by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act 2008 and by [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388).
+
+[^c23536361]: Marginal citation: The functions of the Commissioners of Customs and Excise were transferred to the Commissioners for Her Majesty's Revenue and Customs by section 5(2) of the [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50(1) of that Act provides that insofar as it is appropriate in consequence of section 5, a reference to the Commissioners of Customs and Excise shall be taken as a reference to the Commissioners for Her Majesty's Revenue and Customs.
+
+[^c23536371]: Marginal citation: [S.I. 1977/980](https://www.legislation.gov.uk/uksi/1977/980).
+
+[^key-95b20b14a81459f43f0715ac9f59205a]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/121) applied (with modifications) (31.12.2020) by [The Customs Miscellaneous Non-fiscal Provisions and Amendments etc. (EU Exit) Regulations 2020 (S.I. 2020/1624)](https://www.legislation.gov.uk/uksi/2020/1624), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1624/regulation/5)
+
+[^key-9c34df0fb849ca56d5abdc60ce3e0fd3]: Commencement: Reg. 1 in force at 20.2.2019, see reg. 1
+
+[^key-91faf025b03c36e81a8cec671fc4fc74]: Commencement: Reg. 2 in force at 20.2.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/121/regulation/1)
+
+[^c23536381]: Marginal citation: OJ No. L 269, 10.10.2013, p. 1.
+
+[^key-8602f4c351c0905e9954ebf769295fed]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2019/121/regulation/2) inserted (30.6.2026) by [The Customs (Safety and Security Procedures) (Amendment) Regulations 2026 (S.I. 2026/604)](https://www.legislation.gov.uk/uksi/2026/604), [regs. 1](https://www.legislation.gov.uk/uksi/2026/604/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/604/regulation/2/2/a)
+
+[^c23536391]: Marginal citation: OJ No. L 343, 29.12.2015, p. 1.
+
+[^c23536401]: Marginal citation: OJ No. L 343, 29.12.2015, p. 558.
+
+[^key-2f4fe3010ee2e0342d2e7d226467352c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2019/121/regulation/2) inserted (30.6.2026) by [The Customs (Safety and Security Procedures) (Amendment) Regulations 2026 (S.I. 2026/604)](https://www.legislation.gov.uk/uksi/2026/604), [regs. 1](https://www.legislation.gov.uk/uksi/2026/604/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/604/regulation/2/2/b)
+
+[^key-bdb40a52fcb0b9c1677b002ff98c8000]: Commencement: Reg. 3 in force at 20.2.2019, see reg. 1
+
+[^key-f991822c1b84e0600c7d210df6520534]: Commencement: Reg. 4 in force at 20.2.2019, see reg. 1
+
+[^key-f4e900cabade4939d247516041e4e970]: Commencement: Reg. 5 in force at 20.2.2019, see reg. 1
+
+[^key-3a1c55123e5b39628857d697c8e62ee8]: Commencement: Reg. 6 in force at 20.2.2019, see reg. 1
+
+[^key-4ce2cdb867662b8cd2c3d1e9a2efe41f]: Commencement: Reg. 7 in force at 20.2.2019, see reg. 1
+
+[^key-98a0efdf820e3880f24c5d7203a86243]: Commencement: Reg. 8 in force at 20.2.2019, see reg. 1
+
+[^key-00da53943e533c7fe51e9f5fff476799]: Commencement: Reg. 9 in force at 20.2.2019, see reg. 1
+
+[^key-61fd6a99017285f6c42c9cd791141ba5]: Commencement: Reg. 10 in force at 20.2.2019, see reg. 1
+
+[^key-b7ed4deae5b21af3e351979f78d6713f]: Commencement: Reg. 11 in force at 20.2.2019, see reg. 1
+
+[^key-29d71d819476edc085e585091e773a8c]: Commencement: Reg. 12 in force at 20.2.2019, see reg. 1
+
+[^key-188412778ae31d3ced53225290254f8a]: Commencement: Reg. 13 in force at 20.2.2019, see reg. 1
+
+[^key-12ef62a2460ff65accecd32e0b572953]: Commencement: Reg. 14 in force at 20.2.2019, see reg. 1
+
+[^key-974dd9ef8fbe6d73e0ae206faef0292b]: Commencement: Reg. 15 in force at 20.2.2019, see reg. 1
+
+[^c23536411]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23); [section 85](https://www.legislation.gov.uk/uksi/2019/121/section/85) was amended by [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56).
+
+[^key-46366c0e38d60a6aa94b309caa340401]: Commencement: Reg. 16 in force at 20.2.2019, see reg. 1
+
+[^key-5150056bbf8a8ca82cd0802af0ea7735]: Commencement: Reg. 17 in force at 20.2.2019, see reg. 1
+
+[^c23536421]: Marginal citation: [S.I. 2003/3102](https://www.legislation.gov.uk/uksi/2003/3102); relevant amending instruments are [S.I. 2011/2512](https://www.legislation.gov.uk/uksi/2011/2512), 2018/507.
+
+[^key-993401ec2c84c18dd6c654a4e38750fa]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2019/121/schedule) substituted (30.1.2025) by [The Customs (Safety and Security Procedures) Regulations 2025 (S.I. 2025/20)](https://www.legislation.gov.uk/uksi/2025/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/20/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2025/20/regulation/4/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/20/regulation/1/2))
+
+[^key-e279afe771444df5c061f0bfd7537779]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2019/121/schedule) inserted (30.6.2026) by [The Customs (Safety and Security Procedures) (Amendment) Regulations 2026 (S.I. 2026/604)](https://www.legislation.gov.uk/uksi/2026/604), [regs. 1](https://www.legislation.gov.uk/uksi/2026/604/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/604/regulation/2/3/a)
+
+[^key-22df36c7b818a9844f72fc7660fdd708]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2019/121/schedule) inserted (30.6.2026) by [The Customs (Safety and Security Procedures) (Amendment) Regulations 2026 (S.I. 2026/604)](https://www.legislation.gov.uk/uksi/2026/604), [regs. 1](https://www.legislation.gov.uk/uksi/2026/604/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/604/regulation/2/3/b)
+
+[^key-7da7003ff02d9a301e1e4f3e9d633585]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2019/121/schedule) omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/7/2) (as amended by [S.I. 2020/1624](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1624/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-342ef0b9101a2bbc758c5c8404948234]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2019/121/schedule) substituted (30.6.2026) by [The Customs (Safety and Security Procedures) (Amendment) Regulations 2026 (S.I. 2026/604)](https://www.legislation.gov.uk/uksi/2026/604), [regs. 1](https://www.legislation.gov.uk/uksi/2026/604/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2026/604/regulation/2/3/c)
+
+[^key-1c59d4c461d6d82a776dc2d88de4649a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2019/121/schedule) inserted (30.6.2026) by [The Customs (Safety and Security Procedures) (Amendment) Regulations 2026 (S.I. 2026/604)](https://www.legislation.gov.uk/uksi/2026/604), [regs. 1](https://www.legislation.gov.uk/uksi/2026/604/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2026/604/regulation/2/3/d)
+
+[^key-99836861737ba6354ed026c4709c3d3f]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2019/121/schedule) substituted (30.6.2026) by [The Customs (Safety and Security Procedures) (Amendment) Regulations 2026 (S.I. 2026/604)](https://www.legislation.gov.uk/uksi/2026/604), [regs. 1](https://www.legislation.gov.uk/uksi/2026/604/regulation/1), [2(3)(e)(i)(aa)](https://www.legislation.gov.uk/uksi/2026/604/regulation/2/3/e/i/aa)
+
+[^key-f49e32d1dd83b05923ae247189957b8b]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2019/121/schedule) substituted (30.1.2025) by [The Customs (Safety and Security Procedures) Regulations 2025 (S.I. 2025/20)](https://www.legislation.gov.uk/uksi/2025/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/20/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2025/20/regulation/4/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/20/regulation/1/2))
+
+[^key-8cdbb349b8b3ea5153afb61b131addf5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2019/121/schedule) inserted (30.6.2026) by [The Customs (Safety and Security Procedures) (Amendment) Regulations 2026 (S.I. 2026/604)](https://www.legislation.gov.uk/uksi/2026/604), [regs. 1](https://www.legislation.gov.uk/uksi/2026/604/regulation/1), [2(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2026/604/regulation/2/3/e/ii)
+
+[^key-5a7bb253d54df3358002476ef8beead0]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2019/121/schedule) substituted (30.6.2026) by [The Customs (Safety and Security Procedures) (Amendment) Regulations 2026 (S.I. 2026/604)](https://www.legislation.gov.uk/uksi/2026/604), [regs. 1](https://www.legislation.gov.uk/uksi/2026/604/regulation/1), [2(3)(e)(i)(bb)](https://www.legislation.gov.uk/uksi/2026/604/regulation/2/3/e/i/bb)

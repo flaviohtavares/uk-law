@@ -1,0 +1,679 @@
+---
+title: The Products of Animal Origin (Disease Control) (England) Regulations 2008
+id: uksi/2008/465
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-02-21'
+text_date: '2026-04-29'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2008/465
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/465/pdfs/uksiem_20080465_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/465/pdfs/uksi_20080465_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/465/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Products of Animal Origin (Disease Control) (England) Regulations 2008
+
+> Text as at 2026-04-29.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2008 No. 465
+
+Animals, England
+
+Animal Health
+
+The Products of Animal Origin (Disease Control) (England) Regulations 2008
+
+Made
+
+21st February 2008
+
+Laid before Parliament
+
+28th February 2008
+
+Coming into force
+
+6th April 2008
+
+The Secretary of State is designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community.
+
+In exercise of the powers conferred by section 2(2) of the European Communities Act 1972, the Secretary of State makes the following Regulations:
+
+## PART 1 — Introduction
+
+### 1. Title, application and commencement
+
+These Regulations—
+
+- (a) may be cited as the Products of Animal Origin (Disease Control) (England) Regulations 2008;
+- (b) apply in England only; and
+- (c) come into force on 6th April 2008.
+
+### 2. Interpretation: general
+
+In these Regulations—
+
+- “the Act” means the Animal Heath Act 1981[^f00003];
+- “animal” means any mammal;
+- “disease” means any of the following: classical swine fever; African swine fever; swine vesicular disease; rinderpest; peste des petits ruminants[^key-40182fae316b56ffcc8a206569b4ed0d], Newcastle disease;
+- “disease legislation” means any of the legislation listed in Schedule 1;
+- “domestic market” is the market for the sale of poultry meat in England, Scotland, Wales and Northern Ireland;[^key-c1a782f6e9e4fc7b6ca33e60182080f8]
+- “establishment” means a slaughterhouse or a game handling establishment;
+- “game handling establishment” means an establishment where the preparation of wild game carcases takes place;
+- “inspector” means an inspector appointed as such by the Secretary of State or a local authority for the purpose of these Regulations or of the Act and, unless the context otherwise requires, includes a veterinary inspector;
+- “local authority” means—
+  - (a) in a part of England where there is, within the meaning of the Local Government Changes for England Regulations 1994[^f00004], a unitary authority for that local government area, that authority;
+  - (b) where there is not a unitary authority—
+    - (i) in a metropolitan district, the council of that district;
+    - (ii) in a non-metropolitan county, the council of that county;
+    - (iii) in each London borough, the council of that borough;
+    - (iv) in the city of London, the Common Council;
+    - (v) where there is a port health authority, that authority;
+- “meat” means any part of the carcase of either an animal or poultry intended for human consumption, and includes a product resulting from the processing of meat from that animal or poultry or a product resulting from the further processing of such processed meat product;
+- “occupier” means, in relation to any premises or establishment, the person in charge of those premises or that establishment;
+- “poultry” means all species of poultry reared or kept in captivity for the production of meat or eggs for human consumption, the production of other commercial products for human consumption, the restocking of supplies of game or for the purposes of any breeding programme for the production of these categories of birds;
+- “premises” means any land, building or place in business use, other than a slaughterhouse or game handling establishment;
+- [^key-8236ee006c221db066eaee3aa24d075e]...
+- “seropositive pig” means a pig that is not a restricted animal but is required by the Secretary of State to be slaughtered in a slaughterhouse due to antibodies against swine vesicular disease virus being identified in that pig;[^key-a391d258e5528542a6df5dd714e883cc]
+- “seropositive pig meat” is meat derived from a seropositive pig which—
+  - (a) is not restricted meat, and
+  - (b) has not been treated in accordance with Schedule 2 at a designated treatment centre;
+- “slaughter” means killing for the production of food for human consumption but does not include killing wild game;
+- “slaughterhouse” means an establishment where the slaughter and dressing of any animal or poultry takes place;
+- “supply” means supply to the final consumer or to a person who then supplies to the final consumer and includes consignment for sale;
+- “treatment centre” means premises designated under regulation 5 for the purpose of subjecting meat to a treatment listed in Schedule 2;
+- “vehicle” includes—
+  - (a) a trailer, semi-trailer or other thing designed or adapted to be towed by another vehicle;
+  - (b) a detachable part of any vehicle;
+  - (c) a container or other structure designed or adapted to be carried on a vehicle;
+- “veterinary inspector” means a person appointed as such by the Secretary of State for the purposes of these Regulations or under the Act; and
+- “wild game” means a wild animal which is hunted for human consumption.
+
+### 3. Restricted animal, restricted poultry and restricted meat: definitions
+
+(1) In these Regulations, a “restricted animal” is an animal which is—
+
+- (a) at, in or from—
+  - (i) suspect premises;
+  - (ii) an establishment where a disease is suspected;
+  - (iii) infected premises;
+  - (iv) an establishment where a disease is confirmed;
+  - (v) an infected area;
+  - (vi) a protection zone; or
+  - (vii) a surveillance zone; and
+- (b) of a species susceptible to the disease in respect of which restrictions have been imposed under disease legislation.
+
+(2) In these Regulations, “restricted poultry” is poultry which is at, in or from any of the following under the Diseases of Poultry (England) Order 2003[^f00005] —
+
+- (a) suspect premises;
+- (b) a slaughterhouse where a disease is suspected;
+- (c) infected premises;
+- (d) a slaughterhouse where a disease is confirmed;
+- (e) an infected area;
+- (f) a protection zone; or
+- (g) a surveillance zone.
+
+(3) “Suspect premises” are premises where movement restrictions are in place under disease legislation because a disease is suspected there.
+
+(4) “Infected premises” are premises where a disease has been confirmed under disease legislation.
+
+(5) An “infected area” is an area of this name declared by the Secretary of State under disease legislation following confirmation of a disease.
+
+(6) A “protection zone” is an area of this name declared by the Secretary of State under disease legislation following confirmation of a disease.
+
+(7) A “surveillance zone” is an area of this name declared by the Secretary of State under disease legislation following confirmation of a disease.
+
+(8)[^key-2316bff61ccf70e9178bb87cabc74559] Subject to paragraph (9), “restricted meat” is meat—
+
+- (a) produced from a restricted animal or restricted poultry;
+- (b) produced from an animal kept for the purposes of disease control, at any time during a period of time specified by the Secretary of State, on premises falling within an area which is subsequently declared to be an infected area, a protection zone or a surveillance zone;
+- (c) produced from pigs that have been vaccinated against classical swine fever or African swine fever within a period of time specified by the Secretary of State except where a marker vaccine (within the meaning given in regulation 2(1) of the Diseases of Swine Regulations 2014) has been used; or
+- (d) that has come into contact with meat referred to in sub-paragraph (a), (b) or (c).
+
+(9)[^key-9f8738338eddc0e9e059ce86d0ad7b08] Where restricted meat has been treated in accordance with Schedule 2 at a treatment centre it ceases to be regarded as restricted meat.
+
+### 4. Notices
+
+Notices under these Regulations—
+
+- (a) must be in writing; and
+- (b) may be amended, suspended or revoked, by further notice, at any time.
+
+### 5. Designation of premises, slaughterhouses and game handling establishments
+
+(1) The Secretary of State may designate any establishment or premises for the purposes of slaughtering animals or poultry, or cutting, preparing, processing, packing, wrapping, storage or treatment of meat.
+
+(2) Designation under these Regulations—
+
+- (a) must be in writing;
+- (b) may be subject to conditions; and
+- (c) may be amended, suspended or revoked by notice.
+
+(3) Premises and establishments designated by the Scottish Ministers, the Welsh Ministers or the Department for Agriculture and Rural Development of Northern Ireland for the same purposes as they may be designated under these Regulations are designated premises or establishments for the purposes of these Regulations.
+
+(4) In these Regulations, “designated” refers to premises and establishments which are designated under this regulation.
+
+### 6. Restrictions relating to movements from Scotland, Wales or Northern Ireland
+
+(1) Unless the Secretary of State directs otherwise, measures in these Regulations applying in respect of anything moved from any of the premises, establishments, areas or zones referred to in regulation 3 also apply in respect of such a movement from any equivalent premises, establishment, area or zone in Scotland, Wales or Northern Ireland.
+
+(2) This regulation only applies if the person to whom the measure applies is aware or should reasonably have been aware that the movement is from such premises, establishment, area or zone.
+
+## PART 2 — Control of meat from restricted animals or restricted poultry
+
+### 7. Meat from suspect or infected premises
+
+(1) Any person who is in possession of meat from a restricted animal or restricted poultry originating from the relevant date from suspect premises, or meat that has come into contact with such meat, must detain that meat until those premises are no longer suspect premises.
+
+(2) Paragraph (1) only applies if the person in possession of the meat is aware or should reasonably have been aware that the meat is from a restricted animal or restricted poultry originating from the relevant date from suspect premises, or is meat that has come into contact with such meat.
+
+(3) Any person in possession of meat produced from a restricted animal or restricted poultry originating from infected premises from the relevant date, or meat that has come into contact with such meat, must destroy that meat without delay.
+
+(4)[^key-2dcef84f8e66e426952f429cd84c4492] In this regulation “relevant date” means the date the suspect premises or infected premises became subject to disease restrictions, or any earlier date where the Secretary of State specifies such a date for disease control purposes.
+
+### 8. Tracing of meat from infected premises
+
+Any person who has owned or been in possession of meat referred to in regulation 7(3) must—
+
+- (a) use best endeavours to trace that meat; and
+- (b) inform the recipient of that meat, other than a consumer, that the meat is from infected premises.
+
+### 9. Prohibition on supply and export of meat
+
+(1) A person must not—
+
+- (a) supply restricted meat; [^key-8f724b3e9aa85eebb090dfd9906d7240]...
+- (b) export restricted meat[^key-71c1b232f5b88e375a41106d99f0a39d]... ; or[^key-2f5ce0783d01f9a554fb516f97a1e75e]
+- (c) export seropositive pig meat.
+
+(2)[^key-9664e2eac062af2957a3a2d067a88d1f] The prohibition in paragraph 1(a) does not apply to restricted meat from restricted poultry intended for supply on the domestic market.
+
+(3)[^key-3f56cfff4ffa061d19d6f6aa8a187433] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Slaughterhouses
+
+(1) The occupier of a slaughterhouse may only slaughter restricted animals , seropositive pigs[^key-2cbfddd6d0ab64d3881198695f196c29] or restricted poultry if the slaughterhouse is designated.
+
+(2) The occupier of a slaughterhouse must ensure that—
+
+- (a) restricted animals are kept separate from other animals;
+- (b) restricted animals are slaughtered separately from other animals;
+- (c) restricted poultry are kept separated from other poultry;
+- (d) restricted poultry are slaughtered separately from other poultry[^key-7aa6b21fba9c0ea7b82a742e7513389c]... ;[^key-18f107fedbe3345f46de69094541109d]
+- (e) seropositive pigs are kept separately from other pigs; and
+- (f) seropositive pigs are slaughtered separately from other pigs.
+
+(3) The occupier of a slaughterhouse who receives restricted animals that have not been kept separate from other animals or who has not kept restricted animals separate from other animals must, on being given notice by a veterinary inspector, deal with those other animals as restricted animals.
+
+(4) The occupier of a slaughterhouse who receives restricted poultry that have not been kept separate from other poultry or who has not kept restricted poultry separate from other poultry must, on being given notice by a veterinary inspector, deal with that other poultry as restricted poultry.
+
+(5) The occupier of a slaughterhouse where disease is suspected or has been confirmed must detain all meat in the slaughterhouse until a veterinary inspector notifies that occupier that the inspector is satisfied that detention of all or some of that meat is no longer necessary to reduce the risk of transmission of disease.
+
+(6)[^key-66b7942de013598825f8c47c3e3c109d] Where the occupier of a slaughterhouse has not complied with the requirements of paragraph (2)(e) or (2)(f) on being given notice by a veterinary inspector, those other pigs must be dealt with by the occupier as seropositive pigs.
+
+(7) The occupier of a slaughterhouse may only receive restricted meat if it is a designated slaughterhouse
+
+### 11. Game handling establishments
+
+(1) The occupier of a game handling establishment may only receive restricted meat if that establishment is designated.
+
+(2) The occupier of a game handling establishment where disease is suspected or has been confirmed must detain all meat in the game handling establishment until a veterinary inspector notifies that occupier that the inspector is satisfied that detention of all or some of that meat is no longer necessary to reduce the risk of transmission of disease.
+
+### 12. Receipt and possession of restricted meat
+
+(1) The occupier of any premises [^key-9489c5fe0e2fb5addeed090cbf4d67cc]... may only receive restricted meat if that premises [^key-9489c5fe0e2fb5addeed090cbf4d67cc]... is designated.
+
+(2) Any person in possession of restricted meat must keep it separate from other meat.
+
+(3)[^key-9c29bf32f3981af01daa0a31cee85361] Paragraph (1) does not apply when the restricted meat is from restricted poultry intended only for supply on the domestic market.
+
+### 13. Marking of meat
+
+(1) The occupier of an establishment must ensure that restricted meat or seropositive pig meat[^key-efc5c02b47c5be0480d44e0359e1bb0d] is marked in accordance with Schedule 3.
+
+(2) A person must not be in possession or control of restricted meat or seropositive pig meat[^key-65df0ae35470ec1ed065f56cc06a2f31] unless it is marked in accordance with Schedule 3.
+
+(3) A person must not remove a mark applied under this regulation except to enable cutting, preparing, processing, packing or treatment of the restricted meat or seropositive pig meat[^key-3054b877eee772c331f1b53e00079409] .
+
+(4) Any person who removes a mark applied under this regulation, other than a person treating meat at a treatment centre with a treatment listed in Schedule 2, must reapply the mark, with the appropriate plant approval number, after cutting, preparing, processing, packing or treatment of the meat.
+
+### 14. Movement of restricted meat[^key-62a1dd910787fcdc1798a9a4263737f0]
+
+(1) No person may transport or arrange for the transport of restricted meat to premises or an establishment unless those premises or that establishment is designated.
+
+(2) Paragraph (1) does not apply when the restricted meat is from restricted poultry intended only for supply on the domestic market.
+
+### 15. Record keeping
+
+(1) The occupier of a slaughterhouse where a restricted animal , seropositive pig[^key-97def2502ff23490adfe034f74f88cb2] or restricted poultry is slaughtered must make records of the following—
+
+- (a)[^key-4d7e9863d38b094485058d583fae9b82] the number and type of restricted animals, seropositive pigs or restricted poultry slaughtered;
+- (b) the date of such slaughter;
+- (c) the disease which caused the animals or poultry to be subject to restrictions under the disease legislation.
+
+(2) Any person who is in possession of restricted meat or seropositive pig meat[^key-4ee19f2d35f9974c1c36e80d6bb8d869] must make records of the following—
+
+- (a) the quantity of such[^key-efbc1ec7f1e78a1c32d4d93565db558d] meat handled;
+- (b) the disease which caused the meat to be subject to restrictions under the disease legislation;
+- (c) the quantity of such[^key-602f959b31f9e8089028d7f7f144da3d] meat placed into and removed from cold storage;
+- (d) the date of such movement into or out of cold storage;
+- (e)[^key-a3a61cc535cd69630b65341588776f4d] the quantity of such meat that is no longer intended for human consumption.
+
+(2A)[^key-9b48e5a692c70384ee33792aac4b9fbe] Paragraph (2) does not apply to any wholesale distributor, retail distributor, retailer or consumer when—
+
+- (a) the restricted meat is from restricted poultry intended only for supply on the domestic market; or
+- (b) the meat is seropositive pig meat.
+
+(3) The occupier of a treatment centre where restricted meat is treated must keep records of the following—
+
+- (a) the date of the treatment;
+- (b) the species of animal from which the meat came;
+- (c) the quantity of meat treated;
+- (d) the treatment applied.
+
+(4) Records made under this regulation must be retained for at least 3 years from the date of the slaughter, movement or treatment to which they refer.
+
+## PART 3 — Other requirements
+
+### 16. Requirements in relation to milk and milk products
+
+(1) The Secretary of State may declare that requirements in respect of milk and milk products apply if he considers those requirements necessary to minimise the risk of the spread of disease.
+
+(2) “Milk and milk products” includes cows’ milk, goats’ milk, ewes’ milk and products obtained from such milk, in each case intended for human consumption.
+
+(3) A declaration under paragraph (1)—
+
+- (a) must be in writing;
+- (b) may be amended by further declaration at any time; and
+- (c) may only be revoked by further declaration.
+
+## PART 4 — Inspection, offences and enforcement
+
+### 17. Powers and duties of inspectors
+
+(1) On producing, if required, a duly authenticated document showing his authority, an inspector may, at all reasonable hours, enter any premises, establishment or vehicle for the purpose of ensuring that these Regulations are being complied with.
+
+(2) An inspector may require a person in possession of any meat to detain that meat at a place specified by the inspector.
+
+(3) An inspector may require a person in possession of meat to dispose of that meat.
+
+(4) An inspector may require a person in possession of meat to treat that meat.
+
+(5) An inspector may carry out such inquiries, examinations and tests and take such samples as he considers necessary.
+
+(6) An inspector may mark any animal, meat or other thing for identification purposes.
+
+(7) An inspector may, by notice to the occupier of any premises or establishment, require the marking of any meat.
+
+(8) An inspector may, by notice to the occupier of any premises or establishment, require the tracing of any meat that the occupier has handled.
+
+(9) An inspector may, by notice to the occupier of any premises or establishment, require the cleansing and disinfection of any part of those premises.
+
+(10) An inspector may, by notice to the person in charge of any thing, require the cleansing and disinfection of that thing.
+
+(11) An inspector may, by notice to the occupier of any premises or establishment or the person in charge of any animal, or thing require—
+
+- (a) the isolation of the animal, or thing in a specified place;
+- (b) the separation of any animal, or thing from any other animal, or thing.
+
+(12) An inspector may inspect and copy any records (in whatever form they are held) kept under these Regulations and remove such records so they may be copied.
+
+(13) An inspector may inspect and check the operation of any computer and associated apparatus or material used in connection with the making and keeping of records under these Regulations.
+
+(14) An inspector may require computer records to be produced in a form which may be taken away.
+
+(15) An inspector who enters any premises, establishment or vehicle may be accompanied by—
+
+- (a) such other persons as he considers necessary; [^key-6d9b01d789e221580e8d1b1ea6ae210e]...
+- (b)[^key-6d9b01d789e221580e8d1b1ea6ae210e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(16) An inspector who enters an unoccupied premises or unoccupied establishment must leave them as effectively secured against unauthorised entry as the inspector found them.
+
+### 18. Provision of reasonable assistance, information and cooperation
+
+Any person to whom any requirement under these Regulations applies or who is required to give reasonable assistance or information to a person executing these Regulations must, unless that person has reasonable cause, do so without delay.
+
+### 19. Costs of compliance
+
+The costs incurred by any person in taking any action required under these Regulations, or of refraining from taking action prohibited under them, must be met by that person unless the Secretary of State directs otherwise in writing.
+
+### 20. Powers of inspectors in case of default
+
+If any person fails to comply with a requirement in or under these Regulations, an inspector may take such steps the inspector considers necessary to ensure the requirement is met at the expense of that person.
+
+### 21. Offences and proceedings
+
+(1) The following provisions of the Act apply as if these Regulations were an Order made under the Act—
+
+- (a) sections 66 (refusal and obstruction);
+- (b) section 71A[^f00006] (prosecutions: time limit);
+- (c) section 73 (general offences);
+- (d) section 77 (money recoverable summarily);
+- (e) section 79(1) to (4) (evidence and procedure);
+
+(2) Section 75 of the Act[^f00007] (penalties for certain summary offences) applies as if these Regulations were an Order made under the Act except that any term of imprisonment on summary conviction may not exceed three months.
+
+### 22. Offences by bodies corporate
+
+(1) If an offence committed by a body corporate is shown—
+
+- (a) to have been committed with the consent or connivance of an officer; or
+- (b) to be attributable to any neglect on the officer’s part,
+
+the officer as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of members in connection with their functions of management as if they were directors of the body.
+
+(3) “Officer”, in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
+
+### 23. Disapplication of provisions to any person executing or enforcing these Regulations
+
+Any prohibition or restriction on the movement or use of any thing under these Regulations does not apply to the following in their execution or enforcement of these Regulations—
+
+- (a) the Secretary of State;
+- (b) an inspector of the local authority;
+- (c) any other person authorised by the Secretary of State or by the local authority to carry out such execution or enforcement.
+
+### 24. Enforcement
+
+(1)[^key-9cb3edf13280fa0adbe791af59e534d6] These Regulations are to be enforced by—
+
+- (a) the Secretary of State in any establishment or cutting plant; or
+- (b) the local authority, unless the Secretary of State directs otherwise.
+
+(2) For the purposes of paragraph (1)(a) or where the Secretary of State makes a direction under paragraph (1)(b), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Act[^key-4c130b7a3273cd9fb1f8dbd63f81484d] relating to these Regulations.
+
+Jeff Rooker
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+## SCHEDULE 1 — Disease legislation
+
+Regulation 2
+
+**1.**[^key-70461acbd0eae9a15042b1cce5da3f0e] The Diseases of Swine Regulations 2014[^key-91efd9a2d664ac1971f2f5ca34eb4870]
+
+**2.** The Cattle Plague Order 1928[^f00009]
+
+**3.**[^key-70461acbd0eae9a15042b1cce5da3f0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.** The Movement of Animals (Restrictions) (England) Order 2002[^f00011]
+
+**5.**[^key-70461acbd0eae9a15042b1cce5da3f0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.** Diseases of Poultry (England) Order 2003
+
+## SCHEDULE 2 — Approved risk mitigating treatments for meat[^key-5caefdc5f245fe278a480808611e5e0e]
+
+Regulation 2
+
+<table>
+<thead>
+<tr><th><strong>Treatment - meat other than casings</strong></th><th colspan="6"><strong>Diseases against which the treatment is effective</strong></th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="7">1<br>African swine fever</td></tr>
+<tr><td colspan="7">2<br>classical swine feve</td></tr>
+<tr><td colspan="7">3<br>pestes des petits ruminants</td></tr>
+<tr><td colspan="7">4<br>rinderpest</td></tr>
+<tr><td colspan="7">5<br>Newcastle disease</td></tr>
+<tr><td colspan="7">6<br>swine vesicular disease</td></tr>
+<tr><td colspan="7">7<br>Fₒ is the calculated killing effect on bacterial spores. An F<sub>0</sub> value of 3 means that the coldest point in the product has been heated sufficiently to achieve the same killing effect at 121℃ in three minutes with instantaneous heating and chilling.</td></tr>
+<tr><td colspan="7">8<br>Pasteurisation value means the duration (in minutes) of the entire sterilisation or pasteurisation process, at a defined temperature.</td></tr>
+<tr><td colspan="7">9<br>Water Activity means the water activity of a food being the ratio between the vapour pressure of the food itself, when in a completely undisturbed balance with the surrounding air media, and the vapour pressure of distilled water under identical conditions. pH means the figure expressing the acidity or alkalinity of a solution on a logarithmic scale</td></tr>
+</tfoot>
+<tbody>
+<tr><td></td><td>ASF</td><td>CSF</td><td>PPR</td><td>RP</td><td>NCD</td><td>SVD</td></tr>
+<tr><td>(a) Heat treatment in a hermetically sealed container to achieve a minimum of Fₒ value of 3</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
+<tr><td>(b) Heat treatment to achieve a core temperature of 70℃</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
+<tr><td>(c) Heat treatment to achieve a core temperature of 80℃</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
+<tr><td>(d) Heat treatment in a hermetically sealed container applying 60℃ for a minimum of four hours</td><td>Yes</td><td>Yes</td><td>Yes</td><td>No</td><td>No</td><td>No</td></tr>
+<tr><td>(e) Heat treatment in a hermetically sealed container to at least 60℃ for a minimum of four hours during which time the core temperature must be at least 70℃ for thirty minutes</td><td>No</td><td>No</td><td>No</td><td>Yes</td><td>No</td><td>Yes</td></tr>
+<tr><td>(f) Core temperature of 73.9℃ for a minimum of 0.51 seconds</td><td>No</td><td>No</td><td>No</td><td>No</td><td>Yes</td><td>No</td></tr>
+<tr><td>(g) Core temperature of 70℃ for a minimum of 3.5 seconds</td><td>No</td><td>No</td><td>No</td><td>No</td><td>Yes</td><td>No</td></tr>
+<tr><td>(h) Core temperature of 65℃ for a minimum of 42 seconds</td><td>No</td><td>No</td><td>No</td><td>No</td><td>Yes</td><td>No</td></tr>
+<tr><td>(i) Core temperature of 60℃ for a minimum of 507 seconds</td><td>No</td><td>No</td><td>No</td><td>No</td><td>Yes</td><td>No</td></tr>
+<tr><td>(j) Heat treatment to meat previously de-boned and de-fatted to achieve a core temperature of 70℃ for a minimum of thirty minutes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>No</td><td>No</td><td>No</td></tr>
+<tr><td>(k) Heat treatment to achieve a core temperature of 65℃ for a period of time necessary to achieve a minimum pasteurisation value of 40</td><td>No</td><td>No</td><td>Yes</td><td>No</td><td>No</td><td>No</td></tr>
+<tr><td>(l) Natural fermentation and maturation for de-boned meat for a minimum of nine months to achieve maximum values of Water Activity (“Aw”) of 0.93 and pH of 6</td><td>Yes</td><td>Yes</td><td>No</td><td>No</td><td>No</td><td>Yes</td></tr>
+<tr><td>(m) Natural fermentation and maturation for bone-in meat for a minimum of nine months to achieve maximum values of Aw of 0.93 and pH of 6</td><td>No</td><td>Yes</td><td>No</td><td>No</td><td>No</td><td>No</td></tr>
+<tr><td>(n) Natural fermentation for loins for a minimum of 140 days to achieve maximum values of Aw of 0.93 and pH of 6</td><td>Yes</td><td>Yes</td><td>No</td><td>No</td><td>No</td><td>No</td></tr>
+<tr><td>(o) Natural fermentation for hams for a minimum of 190 days to achieve maximum values of Aw of 0.93 and pH of 6</td><td>Yes</td><td>Yes</td><td>No</td><td>No</td><td>No</td><td>No</td></tr>
+<tr><td>(p) Drying after salting Italian-style bone-in hams - drying for a minimum period of 313 days</td><td>No</td><td>Yes</td><td>No</td><td>No</td><td>No</td><td>No</td></tr>
+<tr><td>(q) Drying after salting Spanish-style bone-in hams and loins:</td><td>Yes</td><td>Yes</td><td>No</td><td>No</td><td>No</td><td>No</td></tr>
+<tr><td>Iberian hams - drying for a minimum of 252 days</td><td colspan="6" rowspan="4"></td></tr>
+<tr><td>Iberian shoulders - drying for a minimum of 140 days</td></tr>
+<tr><td>Iberian loins - drying for a minimum of 126 days</td></tr>
+<tr><td>Serrano hams - drying for a minimum of 140 days</td></tr>
+<tr><td><strong>Treatment - casings</strong></td><td colspan="6"></td></tr>
+<tr><td>(r) Salting with sodium chloride (NaCl) either dry or as saturated brine (with an Aw content of less than 0.8) for a continuous period of at least 30 days at an ambient temperature of 20℃ or above</td><td>Yes</td><td>Yes</td><td>Yes</td><td>No</td><td>No</td><td>No</td></tr>
+<tr><td>(s) Salting with phosphate supplemented salt with 86.5% sodium chloride (NaCl), 10.7% disodium phosphate (Na2HPO4) and 2.8% trisodium phosphate (Na3PO4) either dry or as saturated brine (with an Aw content of less than 0.80) for a continuous period of at least 30 days at an ambient temperature of 20℃ or above</td><td>Yes</td><td>Yes</td><td>Yes</td><td>No</td><td>No</td><td>No</td></tr>
+</tbody>
+</table>
+
+[^f01000][^f01001][^f01002][^f01003][^f01004][^f01005][^f01006][^f01007][^f01008]
+
+## SCHEDULE 3
+
+Regulation 13
+
+### Special identification mark
+
+**1.** Restricted meat from animals must be marked with an identification mark which is—
+
+- (a) a diagonal cross, superimposed on the health mark or identification mark applied under article 5 of Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin[^f00013] [^key-026b11cd7c2e4ab812f126d86f7510d3]..., or
+- (b) a single oval stamp, 6.5 cm wide and 4.5 cm high, upon which the following information is legible:
+  - (i) on the upper part, the letters UK;
+  - (ii) in the centre, the approval number of the establishment;
+  - (iii)[^key-905f1ca9a9e3ba0100d0fc3ea8596055] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv) two straight lines crossing at the centre of the stamp in such a way that the information is not obscured;
+  - (v) information which identifies the veterinarian who inspected the meat.
+
+**2.** If the single oval stamp referred to in paragraph (1)(b) is used—
+
+- (a) the letters must be at least 0.8 cm high;
+- (b) the figures must be at least 1 cm high; and
+- (c) the application of the mark must be supervised by an officer of the Meat Hygiene Service.
+
+**3.** Restricted meat from poultry must be marked with an identification mark which is—
+
+- (a)[^key-f9680c243832cf87d250b951dc36b92b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the mark described in the Annex to Commission Decision [2007/118/EC](https://www.legislation.gov.uk/european/decision/2007/0118) laying down detailed rules in relation to an alternative identification mark pursuant to Council Directive [2002/99/EC](https://www.legislation.gov.uk/european/directive/2002/0099)[^f00016].
+
+**3A.**[^key-41b9d6f703ebbd3849f35cbeaa293f32] Seropositive pig meat must contain an identification mark such that the numbering and lettering are set within a circle which is legible, indelible with characters that are decipherable and include the capital letters “UK” followed by the approval number of the establishment.
+
+**4.** The identification mark may be applied according to the methods in paragraphs 9, 10, 11 and 13 of section 1(C) of Annex II to Regulation EC No 853/2004 laying down specific hygiene rules for food of animal origin[^f00017].
+
+**5.** The “Meat Hygiene Service” is the body of that name which is an executive agency of the Food Standards Agency.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations transpose in England Articles 3 and 4 of Council Directive [2002/99/EC](https://www.legislation.gov.uk/european/directive/2002/0099) laying down the animal health rules governing the production, processing, distribution and introduction of products of animal origin for human consumption (OJ No L 18, 23.1.2003, p 11).
+
+These Articles are also transposed by the Diseases of Poultry (England) Order 2003 ([S.I. 2003/1078](https://www.legislation.gov.uk/uksi/2003/1078)), the Foot-and-Mouth Disease (England) Order 2006 ([S.I. 2006/182](https://www.legislation.gov.uk/uksi/2006/182)) and the Avian Influenza and Influenza of Avian Origin in Mammals (England) (No 2) Order 2006 ([S.I. 2006/2702](https://www.legislation.gov.uk/uksi/2006/2702)).
+
+Other Articles of the Council Directive and other EC measures supplementing them are transposed by—
+
+- (a) the Official Feed and Food Controls (England) Regulations 2006 ([S.I. 2006/15](https://www.legislation.gov.uk/uksi/2006/15));
+- (b) the Official Controls (Animals, Feed and Food) (England) Regulations 2006 ([S.I. 2006/3472](https://www.legislation.gov.uk/uksi/2006/3472));
+- (c) the Animals and Animal Products (England) Regulations 2006 ([S.I. 2006/1471](https://www.legislation.gov.uk/uksi/2006/1471));
+- (d) the Products of Animal Origin (Import and Export) Regulations 1996 ([S.I. 1996/3124](https://www.legislation.gov.uk/uksi/1996/3124));
+- (e) the Products of Animal Origin (Third Country Imports) (England) Regulations 2006 ([S.I. 2006/2841](https://www.legislation.gov.uk/uksi/2006/2841)); and
+- (f) the Food Hygiene (England) Regulations 2006 ([S.I. 2006/14](https://www.legislation.gov.uk/uksi/2006/14)).
+
+These Regulations also transpose, insofar as they apply to Newcastle disease, the Commission Decision [2007/118/EC](https://www.legislation.gov.uk/european/decision/2007/0118) establishing an alternative health mark pursuant to Directive [2002/99/EC](https://www.legislation.gov.uk/european/directive/2002/0099) (OJ No L 51, 20.2.2007, p 19).
+
+These Regulations create obligations in respect of animals or poultry from premises where classical swine fever, African swine fever, swine vesicular disease, rinderpest, sheep and goat plague or Newcastle disease is suspected or confirmed, and the infected area and/or protection zone and surveillance zone that is/are put in place on confirmation of one of these diseases. They also create obligations and prohibitions in respect of the meat from these animals and this poultry.
+
+Regulation 7 requires the detention of meat from suspect premises and the destruction of meat from infected premises. Regulation 8 requires tracing of meat from infected premises. Regulation 9 prohibits the supply or export of “restricted meat”, being untreated meat from susceptible animals from restricted areas, unless the meat is from poultry from a Newcastle disease restricted area. In that case, the meat can be traded on the domestic market provided certain requirements are satisfied.
+
+Regulation 10 requires slaughterhouses dealing with restricted animals or poultry and meat from those animals or that poultry to be designated and requires separation of those animals or that poultry. Detention of meat is required if disease is suspected or confirmed at the slaughterhouse. Regulation 11 requires game handling establishments dealing with restricted meat to be designated.
+
+Regulation 12 requires premises and establishments to be designated before receipt of restricted meat and requires restricted meat at those places to be kept separate from other meat.
+
+Regulation 13 relates to the marking of meat subject to restrictions. The health mark referred to in paragraph 1(a) of Schedule 3 is an oval mark when applied under EC Regulation 854/2004 laying down specific rules for the organisation of official controls on products of animal origin intended for human consumption (OJ No L 155, 30.4.2004, p 206) and a square mark (poultry) or pentagonal mark (wild game) under [Commission Regulation (EC) No 2076/2005](https://www.legislation.gov.uk/european/regulation/2005/2076) laying down transitional arrangements for the implementation of Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853), [(EC) No 854/2004](https://www.legislation.gov.uk/european/regulation/2004/0854) and [(EC) No 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the council and amending Regulations [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) and [(EC) No 854/2004](https://www.legislation.gov.uk/european/regulation/2004/0854) (OJ No L 338, 22.12.2005, p 83). The application of the health mark is supervised by an officer of the MHS. The identification marks referred to in paragraph 3 of Schedule 3 are the national mark, again this is square for poultry and pentagonal for wild game, and the alternative identification mark, which is the shape of a beer mat and depicted in the Annex to Commission Decision [2007/118/EC](https://www.legislation.gov.uk/european/decision/2007/0118).
+
+Regulation 14 applies to the movement of restricted meat and regulation 15 to record keeping in respect of such meat.
+
+Regulation 16 enables the Secretary of State to impose requirements in respect of milk and milk products to minimise the risk of the spread of disease.
+
+Regulations 17 to 24 relate to enforcement.
+
+Schedule 1 sets out the legislation under which zones and areas are declared in respect of the diseases to which these Regulations relate. Schedule 2 sets out the treatments which must be applied to restricted meat. Schedule 3 sets out the meat marking requirements for restricted meat.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector has been placed in the library of each House of Parliament. Copies may be obtained from the Department for Environment, Food and Rural Affairs, 1A Page Street, London SW1P 4PQ.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: [1981, c. 22](https://www.legislation.gov.uk/ukpga/1981/22), as amended by the [Animal Health Act 2002, c. 42](https://www.legislation.gov.uk/ukpga/2002/42), [S.I. 1992/3293](https://www.legislation.gov.uk/uksi/1992/3293), [2003/1734](https://www.legislation.gov.uk/uksi/2003/1734) and. [2006/182](https://www.legislation.gov.uk/uksi/2006/182).
+
+[^key-40182fae316b56ffcc8a206569b4ed0d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/465/regulation/2) substituted (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/475/article/2/2)
+
+[^key-c1a782f6e9e4fc7b6ca33e60182080f8]: Textual amendment: Words in reg. 2 inserted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/3/a)
+
+[^f00004]: Footnote: [S.I. 1994/867](https://www.legislation.gov.uk/uksi/1994/867) to which there are amendments not relevant to these Regulations.
+
+[^key-8236ee006c221db066eaee3aa24d075e]: Textual amendment: Words in reg. 2 omitted (30.6.2009) by virtue of [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/3/b)
+
+[^key-a391d258e5528542a6df5dd714e883cc]: Textual amendment: Words in reg. 2 inserted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/3/c)
+
+[^f00005]: Footnote: [S.I. 1078/2003](https://www.legislation.gov.uk/uksi/1078/2003).
+
+[^key-2316bff61ccf70e9178bb87cabc74559]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/uksi/2008/465/regulation/3/8) substituted (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/475/article/2/3)
+
+[^key-9f8738338eddc0e9e059ce86d0ad7b08]: Textual amendment: Reg. 3(9) inserted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/4/b)
+
+[^key-2dcef84f8e66e426952f429cd84c4492]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2008/465/regulation/7/4) inserted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [5](https://www.legislation.gov.uk/uksi/2009/1297/regulation/5)
+
+[^key-8f724b3e9aa85eebb090dfd9906d7240]: Textual amendment: Word in reg. 9(1) omitted (30.6.2009) by virtue of [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [6(a)(i)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/6/a/i)
+
+[^key-71c1b232f5b88e375a41106d99f0a39d]: Textual amendment: Reg. 9(1)(b) full stop omitted (30.6.2009) by virtue of [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/6/a/ii)
+
+[^key-2f5ce0783d01f9a554fb516f97a1e75e]: Textual amendment: Reg. 9(1)(c) and word added (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/6/a/ii)
+
+[^key-9664e2eac062af2957a3a2d067a88d1f]: Textual amendment: Reg. 9(2) substituted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/6/b)
+
+[^key-3f56cfff4ffa061d19d6f6aa8a187433]: Textual amendment: Reg. 9(3) omitted (30.6.2009) by virtue of [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/6/c)
+
+[^key-2cbfddd6d0ab64d3881198695f196c29]: Textual amendment: Words in reg. 10(1) inserted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/7/a)
+
+[^key-7aa6b21fba9c0ea7b82a742e7513389c]: Textual amendment: Reg. 10(2)(d) full stop omitted (30.6.2009) by virtue of [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/7/b)
+
+[^key-18f107fedbe3345f46de69094541109d]: Textual amendment: Reg. 10(2)(e)-(f) inserted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/7/b)
+
+[^key-66b7942de013598825f8c47c3e3c109d]: Textual amendment: Reg. 10(6)(7) inserted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/7/c)
+
+[^key-9489c5fe0e2fb5addeed090cbf4d67cc]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2008/465/regulation/12/1) omitted (30.6.2009) by virtue of [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/8/a)
+
+[^key-9c29bf32f3981af01daa0a31cee85361]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/2008/465/regulation/12/3) inserted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/8/b)
+
+[^key-efc5c02b47c5be0480d44e0359e1bb0d]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2008/465/regulation/13/1) inserted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [9](https://www.legislation.gov.uk/uksi/2009/1297/regulation/9)
+
+[^key-65df0ae35470ec1ed065f56cc06a2f31]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2008/465/regulation/13/2) inserted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [9](https://www.legislation.gov.uk/uksi/2009/1297/regulation/9)
+
+[^key-3054b877eee772c331f1b53e00079409]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2008/465/regulation/13/3) inserted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [9](https://www.legislation.gov.uk/uksi/2009/1297/regulation/9)
+
+[^key-62a1dd910787fcdc1798a9a4263737f0]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2008/465/regulation/14) substituted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [10](https://www.legislation.gov.uk/uksi/2009/1297/regulation/10)
+
+[^key-97def2502ff23490adfe034f74f88cb2]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2008/465/regulation/15/1) inserted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/11/a)
+
+[^key-4d7e9863d38b094485058d583fae9b82]: Textual amendment: [Reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2008/465/regulation/15/1/a) substituted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/11/b)
+
+[^key-4ee19f2d35f9974c1c36e80d6bb8d869]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2008/465/regulation/15/2) inserted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/11/c)
+
+[^key-efbc1ec7f1e78a1c32d4d93565db558d]: Textual amendment: Word in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2008/465/regulation/15/2/a) substituted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/11/d)
+
+[^key-602f959b31f9e8089028d7f7f144da3d]: Textual amendment: Word in [reg. 15(2)(c)](https://www.legislation.gov.uk/uksi/2008/465/regulation/15/2/c) substituted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/11/d)
+
+[^key-a3a61cc535cd69630b65341588776f4d]: Textual amendment: [Reg. 15(2)(e)](https://www.legislation.gov.uk/uksi/2008/465/regulation/15/2/e) substituted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [11(e)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/11/e)
+
+[^key-9b48e5a692c70384ee33792aac4b9fbe]: Textual amendment: [Reg. 15(2A)](https://www.legislation.gov.uk/uksi/2008/465/regulation/15/2A) inserted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [11(f)](https://www.legislation.gov.uk/uksi/2009/1297/regulation/11/f)
+
+[^key-6d9b01d789e221580e8d1b1ea6ae210e]: Textual amendment: [Reg. 17(15)(b)](https://www.legislation.gov.uk/uksi/2008/465/regulation/17/15/b) and word omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00006]: Footnote: Section 71A was inserted by the Animal Health Act 2002, section 14.
+
+[^f00007]: Footnote: Section 75 was amended by the Animal Health Act 2002, section 13.
+
+[^key-9cb3edf13280fa0adbe791af59e534d6]: Textual amendment: [Reg. 24(1)](https://www.legislation.gov.uk/uksi/2008/465/regulation/24/1): reg. 24 renumbered (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [23(a)](https://www.legislation.gov.uk/uksi/2012/2897/article/23/a)
+
+[^key-4c130b7a3273cd9fb1f8dbd63f81484d]: Textual amendment: [Reg. 24(2)](https://www.legislation.gov.uk/uksi/2008/465/regulation/24/2) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2012/2897/article/23/b)
+
+[^key-70461acbd0eae9a15042b1cce5da3f0e]: Textual amendment: References in Sch. 1 omitted (14.8.2014) by [The Diseases of Swine Regulations 2014 (S.I. 2014/1894)](https://www.legislation.gov.uk/uksi/2014/1894), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c), [43(5)(b)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/43/5/b) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/4/1))
+
+[^key-91efd9a2d664ac1971f2f5ca34eb4870]: Textual amendment: Words in Sch. 1 para. 1 inserted (14.8.2014) by [The Diseases of Swine Regulations 2014 (S.I. 2014/1894)](https://www.legislation.gov.uk/uksi/2014/1894), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c), [43(5)(b)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/43/5/b) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/4/1))
+
+[^f00009]: Footnote: [SR&O 1928/206](https://www.legislation.gov.uk/nisr/1928/206).
+
+[^f00011]: Footnote: [S.I. 2002/3229](https://www.legislation.gov.uk/uksi/2002/3229).
+
+[^key-5caefdc5f245fe278a480808611e5e0e]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2008/465/schedule/2) substituted (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2026/475/article/2/4)
+
+[^f01000]: Footnote: 1[^key-5caefdc5f245fe278a480808611e5e0e]
+
+    African swine fever
+
+[^f01001]: Footnote: 2
+
+    classical swine feve
+
+[^f01002]: Footnote: 3
+
+    pestes des petits ruminants
+
+[^f01003]: Footnote: 4
+
+    rinderpest
+
+[^f01004]: Footnote: 5
+
+    Newcastle disease
+
+[^f01005]: Footnote: 6
+
+    swine vesicular disease
+
+[^f01006]: Footnote: 7
+
+    Fₒ is the calculated killing effect on bacterial spores. An F<sub>0</sub> value of 3 means that the coldest point in the product has been heated sufficiently to achieve the same killing effect at 121℃ in three minutes with instantaneous heating and chilling.
+
+[^f01007]: Footnote: 8
+
+    Pasteurisation value means the duration (in minutes) of the entire sterilisation or pasteurisation process, at a defined temperature.
+
+[^f01008]: Footnote: 9
+
+    Water Activity means the water activity of a food being the ratio between the vapour pressure of the food itself, when in a completely undisturbed balance with the surrounding air media, and the vapour pressure of distilled water under identical conditions. pH means the figure expressing the acidity or alkalinity of a solution on a logarithmic scale
+
+[^f00013]: Footnote: OJ No L 226, 25.6.2004, p 22.
+
+[^key-026b11cd7c2e4ab812f126d86f7510d3]: Textual amendment: Words in Sch. 3 para. 1(a) omitted (1.6.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [41(a)](https://www.legislation.gov.uk/uksi/2018/575/regulation/41/a)
+
+[^key-905f1ca9a9e3ba0100d0fc3ea8596055]: Textual amendment: [Sch. 3 para. 1(b)(iii)](https://www.legislation.gov.uk/uksi/2008/465/schedule/3/paragraph/1/b/iii) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f9680c243832cf87d250b951dc36b92b]: Textual amendment: Sch. 3 para. 3(a) omitted (1.6.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [41(b)](https://www.legislation.gov.uk/uksi/2018/575/regulation/41/b)
+
+[^f00016]: Footnote: OJ No L 51, 20.02.2007, p 19.
+
+[^key-41b9d6f703ebbd3849f35cbeaa293f32]: Textual amendment: [Sch. 3 para. 3A](https://www.legislation.gov.uk/uksi/2008/465/schedule/3/paragraph/3A) inserted (30.6.2009) by [Products of Animal Origin (Disease Control) (England) (Amendment) Regulations 2009 (S.I. 2009/1297)](https://www.legislation.gov.uk/uksi/2009/1297), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1297/regulation/1), [12](https://www.legislation.gov.uk/uksi/2009/1297/regulation/12)
+
+[^f00017]: Footnote: OJ No L 226, 25.06.2004, p 22.

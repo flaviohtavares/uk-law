@@ -1,0 +1,50 @@
+---
+title: Pensions Act 2004, section 31
+act: Pensions Act 2004
+section: '31'
+status: revised-with-pending-changes
+text_date: '2026-07-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2004/35/section/31
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pensions Act 2004, section 31
+
+> **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 31. Notification of trustees, managers, employers and members[^key-aedb8819002e560b2706df3493ad8de0]
+
+*Extent: E+W+S*
+
+(1) This section applies where—
+
+- (a) a freezing order is made in relation to a scheme,
+- (b) an order is made under section 26 validating action taken in contravention of a freezing order made in relation to a scheme,
+- (c) an order is made under section 28 directing specified steps to be taken following the winding up of a scheme, or
+- (d) an order is made under section 30 in relation to a scheme where a freezing order ceases to have effect.
+
+(2) The Regulator must, as soon as reasonably practicable after the order has been made, notify—
+
+- (a) the trustees or managers of the scheme, and
+- (b) the employer in relation to the scheme,
+
+of the fact that the order has been made and of its effect.
+
+(3) The Regulator may by order direct the trustees or managers of the scheme to notify—
+
+- (a) all the members of the scheme, or
+- (b) the members of the scheme specified in the order,
+
+of the fact that the order mentioned in subsection (1) has been made and of its effect.
+
+(4) Notification is to be within the period and in the manner specified in the order under subsection (3).
+
+(5) If the trustees or managers of a scheme fail to comply with a direction to them contained in an order made under subsection (3), section 10 of the Pensions Act 1995 (c. 26) (civil penalties) applies to any trustee or manager who has failed to take all reasonable steps to secure compliance.
+
+## Annotations
+
+[^key-aedb8819002e560b2706df3493ad8de0]: Commencement: S. 31 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

@@ -1,0 +1,121 @@
+---
+title: The Conservation (Natural Habitats, &c.) (Amendment) (England and Wales) Regulations 2008
+id: uksi/2008/2172
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-08-12'
+text_date: '2010-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2008/2172
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/2172/pdfs/uksiem_20082172_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2172/pdfs/uksi_20082172_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2172/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Conservation (Natural Habitats, &c.) (Amendment) (England and Wales) Regulations 2008
+
+> Text as at 2010-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2008 No. 2172
+
+Wildlife, England And Wales
+
+Countryside, England And Wales
+
+The Conservation (Natural Habitats, &c.) (Amendment) (England and Wales) Regulations 2008
+
+Made
+
+12th August 2008
+
+Laid before Parliament
+
+20th August 2008
+
+Laid before the National Assembly for Wales
+
+20th August 2008
+
+Coming into force
+
+1st October 2008
+
+The Secretary of State is designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the environment.
+
+The Welsh Ministers, in relation to Wales, are designated[^f00003] for the purposes of section 2(2) of the European Communities Act 1972 in relation to the conservation of natural habitats and of wild fauna and flora.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972.
+
+The Secretary of State, in relation to England, and the Welsh Ministers, in relation to Wales, make these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972.
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Conservation (Natural Habitats, &c.) (Amendment) (England and Wales) Regulations 2008 and come into force on 1st October 2008.
+
+(2) These Regulations extend to England and Wales only.
+
+## 2. Additional European protected species[^key-4091fe82ae6431504043677bafee3cba]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Consequential amendment to the Conservation (Natural Habitats &c.) Regulations 1994[^key-dfcff657314928cff0524b041fe6a1d6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Consequential amendment to the Wildlife and Countryside Act 1981
+
+In Schedule 5[^f00006] (animals which are protected) to the Wildlife and Countryside Act 1981[^f00007], after “Moth, Fisher’s Estuarine” insert “(in respect of section 9(4)(b) and (c) and (5) only)”.
+
+Joan Ruddock
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+Brian Gibbons
+
+Minister for Social Justice and Local Government, one of the Welsh Ministers
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Conservation (Natural Habitats, &c.) Regulations 1994 (“the 1994 Regulations”), which make provision implementing Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild flora and fauna (O.J. No. L206, 22.07.92, p.7). These Regulations extend to England and Wales only.
+
+Regulation 2 to these Regulations adds three new species to the list of European protected species in Schedule 2 to the 1994 Regulations. The three new species are the pool frog (*Rana lessonae*), the Fisher’s estuarine moth (*Gortyna borelii lunata*) and the lesser whirlpool ram’s-horn snail (*Anisus vorticulus*).
+
+Regulations 3 and 4 make consequential amendments to regulation 39(6) of the 1994 Regulations and Schedule 5 to the Wildlife and Countryside Act [1982 (c. 69)](https://www.legislation.gov.uk/ukpga/1982/69) (“the 1981 Act”) respectively.
+
+Since the Fisher’s estuarine moth is now a European protected species, by virtue of the Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded (O.J. No. L236, 29.09.03, p.33 (see p.676)), the defence in regulation 39(6) of the 1994 Regulations will apply in relation to the moth without need of any specific mention of it.
+
+The amendment to Schedule 5 to the 1981 Act means that the Fisher’s estuarine moth no longer receives the protection afforded under section 9(1), (2) or (4)(a) of the 1981 Act. Section 9(1) and (2) of the 1981 Act prohibits the killing, injuring and taking and the possession or control of animals listed in Schedule 5 to the Act and section 9(4)(a) protects their places of shelter and protection. Instead, the Fisher’s estuarine moth is protected under the corresponding provisions of regulation 39 of the 1994 Regulations.
+
+A full impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+A transposition note setting out how these amendments transpose the provisions of the Habitats Directive has been prepared. Copies of the transposition note may be obtained, free of charge, from Wildlife Species Conservation Division, Defra, Temple Quay House, 2 The Square, Temple Quay, Bristol, BS1 6PN. In addition, copies of the transposition note have been placed in the libraries of both Houses of Parliament.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: [S.I. 2002/248](https://www.legislation.gov.uk/uksi/2002/248). The functions conferred on the National Assembly for Wales by means of that Order are now exercisable by the Welsh Ministers, by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-4091fe82ae6431504043677bafee3cba]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/2172/regulation/2) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+
+[^key-dfcff657314928cff0524b041fe6a1d6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/2172/regulation/3) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+
+[^f00006]: Footnote: Schedule 5 has been amended in relation to England and Wales by [S.I. 1988/288](https://www.legislation.gov.uk/uksi/1988/288), [1989/906](https://www.legislation.gov.uk/uksi/1989/906), [1991/367](https://www.legislation.gov.uk/uksi/1991/367), [1992/2350](https://www.legislation.gov.uk/uksi/1992/2350), [1998/878](https://www.legislation.gov.uk/uksi/1998/878), [2007/1843](https://www.legislation.gov.uk/uksi/2007/1843) and [2008/431](https://www.legislation.gov.uk/uksi/2008/431).
+
+[^f00007]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Section 9(4) was substituted by [S.I. 2007/1843](https://www.legislation.gov.uk/uksi/2007/1843), regulation 7(4), having been previously amended by paragraph 5(a) of Schedule 12 to the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37).

@@ -1,0 +1,91 @@
+---
+title: The Advice and Assistance (Financial Conditions) (Scotland) Regulations 1990
+id: uksi/1990/840
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1990-03-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1990/840
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1990/840/pdfs/uksi_19900840_en.pdf
+- http://www.legislation.gov.uk/uksi/1990/840/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Advice and Assistance (Financial Conditions) (Scotland) Regulations 1990
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1990 No. 840 (S.110)
+
+LEGAL AID AND ADVICE, SCOTLAND
+
+The Advice and Assistance (Financial Conditions) (Scotland) Regulations 1990
+
+Made
+
+30th March 1990
+
+Coming into force
+
+9th April 1990
+
+The Secretary of State, in exercise of the powers conferred on him by sections 11(2), 36(2)(b) and 37(1) of the Legal Aid (Scotland) Act 1986[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Regulations, a draft of which has been laid before, and approved by a resolution of, each House of Parliament:
+
+**1.** (1) These Regulations may be cited as the Advice and Assistance (Financial Conditions) (Scotland) Regulations 1990 and shall come into force on 9th April 1990.
+
+(2) In these Regulations, “the Act” means the Legal Aid (Scotland) Act 1986.
+
+**2.** For the weekly sum of £128 specified in section 8(a) of the Act[^f00002], there is hereby substituted the weekly sum of £135.
+
+**3.** For the capital sum of £890 specified in section 8 of the Act, there is hereby substituted the capital sum of £935.
+
+**4.** For the weekly sum of £61 specified in section 11(2)(a) of the Act, there is hereby substituted the weekly sum of £64.
+
+**5.** The maximum amount of fees or outlays which a client shall be liable to pay under section 11(2) of the Act[^f00003], where his disposable income falls within a range specified in the first column of the following table, shall be the amount specified in relation to that range in the second column:–
+
+|  | *Disposable income range* | *Maximum contribution* |
+| --- | --- | --- |
+| 1 | Exceeding £64 but not exceeding £72 a week | £ 5 |
+| 2 | Exceeding £72 but not exceeding £78 a week | £12 |
+| 3 | Exceeding £78 but not exceeding £84 a week | £19 |
+| 4 | Exceeding £84 but not exceeding £90 a week | £25 |
+| 5 | Exceeding £90 but not exceeding £96 a week | £32 |
+| 6 | Exceeding £96 but not exceeding £102 a week | £38 |
+| 7 | Exceeding £102 but not exceeding £108 a week | £45 |
+| 8 | Exceeding £108 but not exceeding £114 a week | £51 |
+| 9 | Exceeding £114 but not exceeding £120 a week | £58 |
+| 10 | Exceeding £120 but not exceeding £125 a week | £64 |
+| 11 | Exceeding £125 but not exceeding £130 a week | £70 |
+| 12 | Exceeding £130 but not exceeding £135 a week | £75 |
+
+**6.** The Advice and Assistance (Financial Conditions) (Scotland) Regulations 1989[^f00004] are hereby revoked.
+
+James Douglas-Hamilton
+
+Parliamentary Under Secretary of State, Scottish Office
+
+St. Andrew’s House,
+
+Edinburgh
+
+30th March 1990
+
+(This note is not part of the Regulations)
+
+These Regulations increase the disposable income limit for eligibility for advice and assistance under the Legal Aid (Scotland) Act 1986 from £128 a week to £135 a week, the disposable capital limit from £890 to £935 and the weekly disposable income above which a person is required to pay a contribution from £61 to £64. They also prescribe the scale of contributions to be paid where the weekly disposable income exceeds £64 but does not exceed £135.
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c. 47](https://www.legislation.gov.uk/ukpga/1986/47); section 36(2)(b) was amended by the Legal Aid Act [1988 (c. 34)](https://www.legislation.gov.uk/ukpga/1988/34), Schedule 4, paragraph 6.
+
+[^f00002]: Footnote: The existing figures referred to in regulations 2 to 4 were inserted in sections 8 and 11 of the Act by virtue of S.I. [1989/721](https://www.legislation.gov.uk/uksi/1989/721).
+
+[^f00003]: Footnote: The existing maximum amounts are specified in S.I. [1989/721](https://www.legislation.gov.uk/uksi/1989/721).
+
+[^f00004]: Footnote: S.I. [1989/721](https://www.legislation.gov.uk/uksi/1989/721).

@@ -1,0 +1,362 @@
+---
+title: The General Pharmaceutical Council (Constitution) Order 2010
+id: uksi/2010/300
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-02-11'
+text_date: '2012-12-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2010/300
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/300/pdfs/uksiem_20100300_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/300/pdfs/uksien_20100300_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/300/pdfs/uksi_20100300_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/300/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The General Pharmaceutical Council (Constitution) Order 2010
+
+> Text as at 2012-12-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2010 No. 300
+
+Health Care And Associated Professions
+
+Pharmacy
+
+The General Pharmaceutical Council (Constitution) Order 2010
+
+Made
+
+11th February 2010
+
+Laid before Parliament
+
+11th February 2010
+
+Laid before the Scottish Parliament
+
+11th February 2010
+
+Coming into force
+
+12th March 2010
+
+At the Council Chamber, Whitehall, the 11th day of February 2010
+
+By the Lords of Her Majesty’s Most Honourable Privy Council
+
+Their Lordships make the following Order of Council in exercise of the powers conferred by article 4(2) of, and paragraph 2 of Schedule 1 to, the Pharmacy Order 2010[^f00001].
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and interpretation[^key-5bcfba8bbcd3d0d8b53212744c3cebf8]
+
+(1) This Order may be cited as the General Pharmaceutical Council (Constitution) Order 2010 and comes into force on 12th March 2010.
+
+(2) In this Order—
+
+- “the Order” means the Pharmacy Order 2010;
+- “chair” means the chair of the Council;
+- “final outcome”, in relation to any proceedings where there are rights of appeal, means the outcome of the proceedings—
+  - (a) once the period for bringing an appeal has expired without an appeal being brought; or
+  - (b) if an appeal is brought in accordance with those rights, once those rights have been exhausted;
+- “licensing body” means any body, other than the Council, anywhere in the world that licenses or regulates any profession;
+- “member”, unless the context otherwise requires, means a registrant member or a lay member and includes the chair; and
+- “spent conviction” means—
+  - (a) in relation to a conviction by a court in Great Britain, a conviction that is a spent conviction for the purposes of the Rehabilitation of Offenders Act 1974[^f00002]; or
+  - (b) in relation to a conviction by a court in Northern Ireland, a conviction that is a spent conviction for the purposes of the Rehabilitation of Offenders (Northern Ireland) Order 1978[^f00003].
+
+## PART 2 — Membership of the Council
+
+### 2. Composition of the Council[^key-7f6078e9ec655c82f996de43923427d1]
+
+The Council is to consist of 7 registrant members and 7 lay members.
+
+### 3. Terms of office of members[^key-9e2f3e4d4215fcbc9b6f319c5ebb9d46]
+
+(1) The duration of the term of office of each member of the Council is to be determined by the Privy Council, on appointment.
+
+(2) No member of the Council may hold office as a member of the Council for more than an aggregate of 8 years during any period of 20 years.
+
+### 4. Education and training of members[^key-f565a8d43ab229c95bcb0c423d662ec9]
+
+The Council is to make provision in standing orders with respect to the requirements that are to apply in respect of the education and training of members of the Council, and those standing orders may provide for—
+
+- (a) that education and training to be the responsibility of another body; and
+- (b) those requirements to be set and varied by that body from time to time.
+
+### 5. Disqualification for appointment as a member[^key-b938f461b9dec634e1daff5aee836875]
+
+A person is disqualified for appointment as a member of the Council if that person—
+
+- (a) has at any time been convicted of an offence involving dishonesty or deception in the United Kingdom and the conviction is not a spent conviction;
+- (b) has at any time been convicted of an offence in the United Kingdom, and—
+  - (i) the final outcome of the proceedings was a sentence of imprisonment or detention, and
+  - (ii) the conviction is not a spent conviction;
+- (c) has at any time been removed—
+  - (i) from the office of charity trustee or trustee for a charity by an order made by the Charity Commissioners, the Charity Commission, the Charity Commission for Northern Ireland or the High Court on the grounds of any misconduct or mismanagement in the administration of the charity—
+    - (aa) for which the person was responsible or to which the person was privy, or
+    - (bb) which the person by their conduct contributed to or facilitated, or
+  - (ii) under—
+    - (aa) section 7 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990[^f00004] (powers of the Court of Session to deal with management of charities), or
+    - (bb) section 34(5)(e) of the Charities and Trustee Investment (Scotland) Act 2005[^f00005] (powers of the Court of Session),
+
+    from being concerned with the management or control of any body.
+- (d) has at any time been removed from office as the chair, or a member, convenor or director, of any public body on the grounds that it was not in the interests of, or conducive to the good management of, that body that the person should continue to hold that office;
+- (e) at any time been adjudged bankrupt or sequestration of the person’s estate has been awarded, and
+  - (i) the person has not been discharged, or
+  - (ii) the person is the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A to the Insolvency Act 1986[^f00006] or Schedule 2A of the Insolvency (Northern Ireland) Order 1989[^f00007] or sections 56A to 56K of the Bankruptcy (Scotland) Act 1985[^f00008] (which relate to bankruptcy restrictions orders and undertakings);
+- (f) has at any time made a composition or arrangement with, or granted a trust deed for, the person’s creditors and the person has not been discharged in respect of it;
+- (g) is a person to whom a moratorium period under a debt relief order under Part VIIA of the Insolvency Act 1986 (debt relief orders) applies, or is the subject of a debt relief restrictions order or an interim debt relief restrictions order under Schedule 4ZB to that Act (debt relief restrictions order and undertaking)[^f00009];
+- (h) is subject to—
+  - (i) a disqualification order or disqualification undertaking under the Company Directors Disqualification Act 1986[^f00010],
+  - (ii) a disqualification order under Part II of the Companies (Northern Ireland) Order 1989[^f00011] (company directors disqualification),
+  - (iii) a disqualification order or a disqualification undertaking under the Company Directors Disqualification (Northern Ireland) Order 2002[^f00012], or
+  - (iv) an order made under section 429(2) of the Insolvency Act 1986[^f00013] (disabilities on revocation of a county court administration order);
+- (i) has been included by—
+  - (i) the Disclosure and Barring Service[^key-fdea3cb9aac05fd5677c99097c4cf37f] in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006[^f00014] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00015]), or
+  - (ii) the Scottish Ministers in the children’s list or the adults’ list (within the meaning of the Protection of Vulnerable Groups (Scotland) Act 2007[^f00016]);
+- (j) has at any time been subject to any investigation or proceedings concerning the person’s fitness to practise by any licensing body, the final outcome of which was—
+  - (i) the person’s entry in a register held by the licensing body is suspended,
+  - (ii) the person’s entry is removed from a register held by the licensing body or there has been a decision that had the effect of preventing the person from practising the profession licensed or regulated by the licensing body, or
+  - (iii) a decision allowing the person to practise that profession subject to conditions and those conditions have not been lifted;
+- (k) has at any time been subject to any investigation or proceedings concerning the person’s fitness to practise by the Council, in the course of which or where the final outcome was that—
+  - (i) the person’s entry in the Register, or part of the Register, was suspended (including by an interim suspension order) and the order imposing that suspension has not been lifted,
+  - (ii) the person’s entry in the Register, or part of the Register, was removed (for a reason connected with the person’s fitness to practise), or
+  - (iii) the person’s entry in the Register, or part of the Register, was made subject to an order imposing conditions with which the person must comply (including by an order for interim conditional entry) and that order has not been lifted;
+- (l) has at any time been the subject of any investigation or proceedings relating to an allegation that the person’s entry in the Register, or part of the Register, was fraudulently procured or incorrectly made, the final outcome of which was the removal of the person’s entry from the Register or part of the Register;
+- (m) has at any time been subject to any investigation or proceedings concerning the person’s fitness to practise by—
+  - (i) any licensing body, or
+  - (ii) the Council,
+
+  and the Privy Council is satisfied that the person’s membership of the Council would be liable to undermine public confidence in the regulation of registered pharmacists or pharmacy technicians; or
+- (n) has at any time been convicted of an offence elsewhere than in the United Kingdom and the Privy Council is satisfied that the person’s membership of the Council would be liable to undermine public confidence in the regulation of registered pharmacists or pharmacy technicians.
+
+### 6. Removal of members from office[^key-bbc9936c420c48a4048ab964ff8d87d0]
+
+(1) A member must be removed from office by the Privy Council, if—
+
+- (a) the member resigns, which a member may do at any time by a notice in writing to the Privy Council;
+- (b) in the case of—
+  - (i) a registrant member, the member’s entry in the Register, or part of the Register, ceases to be valid, or
+  - (ii) a lay member, that member becomes a person who no longer satisfies the criteria for being a lay member in paragraph 1(1)(b) of Schedule 1 to the Order (membership: general);
+- (c) the member becomes a person of the type mentioned in article 5(a), (b) or (e) to (j) (irrespective of whether or not they subsequently cease to be a person of the type mentioned in those provisions);
+- (d) the member becomes a person of the type mentioned in article 5(c) or (d);
+- (e) in the case of a registrant member, the member has become the subject of any investigation or proceedings concerning the member’s fitness to practise by the Council, as a result of which—
+  - (i) the member’s entry in the Register, or part of the Register, is suspended,
+  - (ii) the member’s entry is removed from the Register or part of the Register,
+  - (iii) the member’s entry in the Register, or part of the Register, is made subject to an order imposing conditions with which the member must comply,
+
+  and the proceedings relating to that particular sanction have reached their final outcome;
+- (f) in the case of a registrant member, the member has become the subject of any investigation or proceedings relating to an allegation that the member’s entry in the Register, or part of the Register, was fraudulently procured or incorrectly made, the final outcome of which was the removal of the member’s entry from the Register or part of the Register;
+- (g) the Privy Council is satisfied that the member’s level of attendance at meetings of the Council falls below a minimum level of attendance acceptable to the Privy Council, having regard to—
+  - (i) any recommended minimum levels of attendance that the Council has set in its standing orders, and
+  - (ii) whether or not there has been reasonable cause for the member’s non-attendance;
+- (h) the Privy Council is satisfied that the member has failed, without reasonable cause, to undertake satisfactorily the requirements with regard to education and training for members that apply to that member and which the Council has included in its standing orders;
+- (i) the Privy Council is satisfied that the member is no longer able to perform their duties as a member of the Council because of adverse physical or mental health;
+- (j) the Privy Council is satisfied that the member’s continued membership of the Council would be liable to undermine public confidence in the regulation of registered pharmacists or pharmacy technicians.
+
+(2) A member who becomes, or may be about to become, a person to whom paragraph (1)(b) to (f) applies must notify the Privy Council and the Council in writing of that fact as soon as that member becomes aware of it.
+
+(3) Any member or employee of the Council may notify the Privy Council if they are of the view that the Privy Council may need to exercise its functions under paragraph (1).
+
+(4) The chair must notify the Privy Council if the chair is aware that—
+
+- (a) a member has become, or may be about to become, a person to whom paragraph (1)(b) to (f) applies; and
+- (b) that member has not notified the Privy Council in writing of that fact and the chair is not satisfied that the member will do so immediately.
+
+### 7. Suspension of members from office[^key-1936fb4c5c63cac7d1ae8d2af71b9522]
+
+(1) The Privy Council may suspend a member from office by a notice in writing served on that member—
+
+- (a) if the Privy Council has reasonable grounds for suspecting that the member has become a person to whom article 6(1)(b)(ii) to (d) applies, for the purposes of determining whether or not the member has become such a person;
+- (b) while the Privy Council is considering whether or not it is satisfied as to the matters set out in article 6(1)(g) to (j);
+- (c) if the member is subject to any investigation or proceedings concerning the member’s fitness to practise by—
+  - (i) any licensing body, or
+  - (ii) the Council,
+
+  and the Privy Council is satisfied that it would not be appropriate for the member to continue to participate in proceedings of the Council while the investigation or proceedings concerning the member’s fitness to practise is or are ongoing;
+- (d) if the member is subject to any investigation or proceedings concerning whether the member’s entry in the Register, or part of the Register, was fraudulently procured or incorrectly made and the Privy Council is satisfied that it would not be appropriate for the member to continue to participate in proceedings of the Council while the investigation or proceedings concerning the member’s entry in the Register, or part of the Register, is or are ongoing; or
+- (e) if the member is subject to any investigation or proceedings in the United Kingdom relating to an offence which, if committed in any part of the United Kingdom, would constitute a criminal offence, and—
+  - (i) either—
+    - (aa) the investigation or proceedings relate to an offence involving dishonesty or deception, or
+    - (bb) the final outcome of the investigation or proceedings may be that the person is sentenced to a term of imprisonment or detention, and
+  - (ii) the Privy Council is satisfied that it would not be appropriate for the member to continue to participate in proceedings of the Council while the investigation or proceedings are ongoing.
+
+(2) The Privy Council must suspend a registrant member from office by a notice in writing served on the member if the member is the subject of an interim suspension order under article 56 of the Order (interim orders).
+
+(3) The notice in writing served under paragraph (1) or (2) must set out the reasons for the suspension and the duration of the period of suspension, which is (in the first instance) not to be for more than 6 months.
+
+(4) The Privy Council may stay its consideration under paragraph (1) of whether or not to suspend a member while the Council considers whether or not to suspend the member provisionally under standing orders of the Council.
+
+(5) If a member has been suspended provisionally under standing orders of the Council—
+
+- (a) the Council must notify the Privy Council in writing of the provisional suspension as soon as is reasonably practicable; and
+- (b) the Privy Council must consider the matter with a view to determining whether or not to suspend the member under paragraph (1) or to remove the member under article 6(1).
+
+(6) If after considering the matter under paragraph (5)(b) the Privy Council decides not to suspend the member and not to remove the member from office, the Council must terminate its provisional suspension of the member under its standing orders.
+
+(7) The Privy Council—
+
+- (a) may at any time review a suspension of a member by it; and
+- (b) must review any suspension of a member by it after 3 months from the start of the period of suspension, if requested to do so by the suspended member.
+
+(8) Following a review, the Privy Council may—
+
+- (a) terminate the suspension; or
+- (b) if that review is within 3 months of the end of the period of suspension, extend the suspension for a further period of up to 6 months from the date on which the suspension would otherwise come to an end.
+
+(9) The Privy Council must notify the suspended member in writing of the outcome of any review and that notice must include the reasons for any decision taken.
+
+## PART 3 — Chair of the Council
+
+### 8. Appointment, term of office and cessation of office of the chair[^key-a45f5692a154cf729252ee582610c199]
+
+(1) The Privy Council must, as one of its functions relating to the appointment of members of the Council, appoint the chair of the Council.
+
+(2) The Privy Council may appoint a person to be chair of the Council—
+
+- (a) when it appoints that person to be a member of the Council; or
+- (b) whom it has already appointed as a member of the Council.
+
+(3) The term of office of a member of the Council as chair is to be determined by the Privy Council on appointment of the member as chair but it is to be for a period that is no longer than the period between the chair’s date of appointment as chair and the date on which the chair’s term of office as a member is due to expire (irrespective of whether or not they are thereafter reappointed as a member).
+
+(4) A member serving as chair must cease to be chair—
+
+- (a) on ceasing to be a member;
+- (b) if the member resigns as chair, which the member may do at any time by a notice in writing to the Privy Council;
+- (c) if the member’s membership of the Council is suspended by the Privy Council; or
+- (d) if a majority of the Council, excluding the chair (but not simply a majority at a quorate meeting) passes a vote of no confidence in the chair.
+
+### 9. Deputising arrangements in respect of the chair[^key-39899e68e2f8983a151136a7283f8af2]
+
+(1) Subject to paragraph (2), if, for any reason, the chair is absent from a meeting of the Council, the members who are present at that meeting must nominate one of their number to serve as chair at that meeting.
+
+(2) If, for any reason—
+
+- (a) the Council is on notice that its chair is likely—
+  - (i) to be absent for more than one meeting of the Council, or
+  - (ii) to be unavailable to perform the duties of chair of the Council for more than one month; or
+- (b) the office of chair is vacant,
+
+the Council may nominate a member (“deputy chair”) to serve as chair during the absence or unavailability of the chair or the vacancy.
+
+(3) A member serving as deputy chair ceases to be deputy chair—
+
+- (a) in the case of—
+  - (i) the absence or unavailability of the chair, on the date on which the chair notifies the Council in writing as the date on which they are able to resume their duties, or
+  - (ii) the office of chair being vacant, once the vacancy is filled;
+- (b) if the member ceases to be a member;
+- (c) if the member resigns as deputy chair, which the member may do at any time by a notice in writing to the Council;
+- (d) if the member’s membership of the Council is provisionally suspended by the Council; or
+- (e) if the Council votes (by a majority at a quorate meeting) to terminate the member’s appointment as deputy chair.
+
+## PART 4 — Chief Executive Officer of the Council
+
+### 10. Appointment of Chief Executive Officer[^key-fec33d3885f2bb908f9b4d7b6833a518]
+
+The Privy Council must appoint a person to be the first Chief Executive Officer of the Council.
+
+## PART 5 — Proceedings of the Council
+
+### 11. Quorum of the Council[^key-76981dd7f46c66a90b2afbb46dfccd56]
+
+The quorum of the Council is to be 8.
+
+### 12. Effect of vacancies etc. on the validity of proceedings[^key-f2cfd9ccb82666feea5e04d348c3393f]
+
+(1) The validity of any proceedings of the Council is not to be affected by—
+
+- (a) any vacancy among the members of the Council;
+- (b) any defect in the appointment of a member of the Council;
+- (c) a member whom the Privy Council must remove from the Council under article 6(1)(b) to (f) participating in the proceedings;
+- (d) a member whom the Privy Council has removed under article 6(1) having participated in the proceedings; or
+- (e) a member who has been provisionally suspended by the Council under its standing orders or suspended by the Privy Council under article 7(1) or (2) having participated in the proceedings.
+
+(2) Notwithstanding paragraph (1)(c), a member who the Privy Council must remove from the Council under article 6(1)(b) to (f) is not entitled to participate in proceedings of the Council, pending the member’s removal from the Council by the Privy Council.
+
+Judith Simpson
+
+Clerk of the Privy Council
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision with regard to the constitution of the General Pharmaceutical Council (“the Council”). The Council is to consist of 7 registrant members who are pharmacists or pharmacy technicians entered in the register established and maintained under article 19 of the Pharmacy Order 2010 ([S.I.2010/231](https://www.legislation.gov.uk/uksi/2010/231)) and 7 lay members (article 2). The terms of office of the members will be determined on appointment by the Privy Council or, if directed by the Privy Council to do so, the Appointments Commission. There are limitations on the period for which members may serve on the Council (article 3). The Council is to make provision with regard to the education and training of its members in standing orders (article 4).
+
+Certain categories of people, for example people who have been convicted of certain types of offences where the conviction is not spent, are disqualified from being members of the Council (article 5) and once members have been appointed, there are certain circumstances in which they may be removed from office (article 6). In some circumstances, a member may also be suspended from office, and there are certain provisions relating to provisional suspension by the Council itself, pending the taking effect of a decision by the Privy Council (or, in its place, the Appointments Commission) to suspend or remove that member (article 7).
+
+There are also provisions relating to the appointment of a chair of the Council (article 8), who is to be appointed by the Privy Council or, if directed to do so by the Privy Council, the Appointments Commission. The chair of the Council will cease to be chair if that person is suspended as a member of the Council or loses a vote of no confidence. There are provisions relating to the deputising arrangements for the chair, and the Council will have powers to appoint a deputy chair to serve during the absence of a chair that is likely to be for more than one month or one meeting, or the position of chair is vacant (article 9). The Order also provides for the appointment of the first Chief Executive Officer of the Council to be made by the Privy Council (article 10).
+
+There are also provisions relating to the proceedings of the Council. Its quorum is 8 and there are special provisions to prevent the Council’s proceedings being invalidated by matters such as a vacancy or a defect in the appointment of a member (articles 11 and 12).
+
+## Annotations
+
+[^f00001]: Footnote: [S.I.2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^key-5bcfba8bbcd3d0d8b53212744c3cebf8]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/300/article/1) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+
+[^f00002]: Footnote: [1974 c.53](https://www.legislation.gov.uk/ukpga/1974/53).
+
+[^f00003]: Footnote: [S.I.1978/1908 (N.I.27)](https://www.legislation.gov.uk/nisi/1978/1908).
+
+[^key-7f6078e9ec655c82f996de43923427d1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/300/article/2) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+
+[^key-9e2f3e4d4215fcbc9b6f319c5ebb9d46]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/300/article/3) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+
+[^key-f565a8d43ab229c95bcb0c423d662ec9]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/300/article/4) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+
+[^key-b938f461b9dec634e1daff5aee836875]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/300/article/5) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+
+[^f00004]: Footnote: [1990 c.40](https://www.legislation.gov.uk/ukpga/1990/40). Section 7 was repealed by the Charities and Trustee Investment (Scotland) Act [2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), Schedule 4, paragraph 7(b).
+
+[^f00005]: Footnote: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
+
+[^f00006]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Schedule 4A was inserted by section 257(2) of, and Schedule 20 to, the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^f00007]: Footnote: [S.I.1989/2405 (N.I.19)](https://www.legislation.gov.uk/nisi/1989/2405). Schedule 2A was inserted by [S.I. 2005/1455 (N.I.10)](https://www.legislation.gov.uk/nisi/2005/1455).
+
+[^f00008]: Footnote: [1985 c.66](https://www.legislation.gov.uk/ukpga/1985/66). Sections 56A to 56K were inserted by section 2(1) of the Bankruptcy and Diligence etc. (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3).
+
+[^f00009]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Part VIIA was inserted by section 108(1) of, and Schedule 17 to, the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15). Schedule 4ZB was inserted by section 108(2) of, and Schedule 19, to that Act.
+
+[^f00010]: Footnote: [1986 c.46](https://www.legislation.gov.uk/ukpga/1986/46).
+
+[^f00011]: Footnote: [S.I.1989/2404 (N.I.18)](https://www.legislation.gov.uk/nisi/1989/2404).
+
+[^f00012]: Footnote: [S.I.2002/3150 (N.I.4)](https://www.legislation.gov.uk/nisi/2002/3150). Relevant amendments were made by [S.I.2005/1450 (N.I.9)](https://www.legislation.gov.uk/nisi/2005/1450).
+
+[^f00013]: Footnote: Section 429(2) was amended by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), Schedule 23, paragraph 15.
+
+[^key-fdea3cb9aac05fd5677c99097c4cf37f]: Textual amendment: Words in [art. 5(i)(i)](https://www.legislation.gov.uk/uksi/2010/300/article/5/i/i) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(aa)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/aa) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+
+[^f00014]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
+
+[^f00015]: Footnote: [S.I.2007/1351 (N.I.11)](https://www.legislation.gov.uk/nisi/2007/1351).
+
+[^f00016]: Footnote: [2007 asp14](https://www.legislation.gov.uk/asp/2007/14).
+
+[^key-bbc9936c420c48a4048ab964ff8d87d0]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/300/article/6) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+
+[^key-1936fb4c5c63cac7d1ae8d2af71b9522]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/300/article/7) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+
+[^key-a45f5692a154cf729252ee582610c199]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2010/300/article/8) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+
+[^key-39899e68e2f8983a151136a7283f8af2]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2010/300/article/9) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+
+[^key-fec33d3885f2bb908f9b4d7b6833a518]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2010/300/article/10) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+
+[^key-76981dd7f46c66a90b2afbb46dfccd56]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2010/300/article/11) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+
+[^key-f2cfd9ccb82666feea5e04d348c3393f]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2010/300/article/12) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)

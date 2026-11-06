@@ -1,0 +1,324 @@
+---
+title: The Brucellosis Order 1997
+id: uksi/1997/758
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1997-03-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1997/758
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/758/made/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Brucellosis Order 1997
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1997 No. 758
+
+ANIMALS
+
+ANIMAL HEALTH
+
+The Brucellosis Order 1997
+
+Made
+
+11th March 1997
+
+Coming into force
+
+1st April 1997
+
+The Minister of Agriculture, Fisheries and Food, in relation to England, the Secretary of State for Scotland in relation to Scotland and the Secretary of State for Wales in relation to Wales, in exercise of the powers conferred on them by sections 1, 6, 7(1), 15(4), 28, 32(2), 34(7), 35(3) and 87(2) of the Animal Health Act 1981[^f00001], and of all other powers enabling them in that behalf, hereby make the following Order:
+
+## 1. Title, commencement and interpretation
+
+(1) This Order may be cited as the Brucellosis Order 1997 and shall come into force on 1st April 1997.
+
+(2) In this Order—
+
+- “abortion or premature calving” means an abortion or calving which takes place less than 271 days after service or insemination, or 265 days after implantation or transfer of an embryo, whether the calf is born dead or alive;
+- “appropriate officer” means a veterinary inspector or in relation to premises in England, another officer of the Minister of Agriculture, Fisheries and Food or in relation to premises in Wales or Scotland, an officer of the Secretary of State;
+- “appropriate Minister” means in relation to England, the Minister of Agriculture, Fisheries and Food, and in relation to Scotland or Wales the Secretary of State;
+- “approved laboratory” means a laboratory approved by the Ministers to carry out testing of milk for brucellosis and listed in Schedule 1 to this Order;
+- “approved slaughterhouse” means a slaughterhouse approved by an appropriate officer to carry out the slaughter of reactors;
+- “bovine animal” means a bull, cow, heifer or calf but does not include a steer;
+- “brucellosis” means the disease caused by *Brucella abortus*, otherwise known as contagious abortion;
+- “dealer in bovine animals” means any person whose trade or business regularly includes the selling of bovine animals purchased by him for the purpose of resale within 28 days;
+- “Divisional Veterinary Manager” means the veterinary inspector authorised for the time being by the appropriate Minister to receive information about diseased or suspected animals, or the carcases of such animals, for the area in which such animals or carcases are situated;
+- “full-term calving” means a calving which takes place 271 days or more after service or insemination, or 265 days after implantation or transfer of an embryo, whether the calf is born dead or alive;
+- “premises” includes land with or without buildings;
+- “reactor” means a bovine animal which gives rise to a reaction consistent with its being infected with brucellosis when tested for that disease;
+- “slaughterhouse” means a slaughterhouse or knacker’s yard as defined by section 34 of the Slaughterhouses Act 1974[^f00002];
+- “steer” means a castrated bull or male calf aged four months or over;
+- “veterinary surgeon” means a veterinary surgeon (or veterinary practitioner) registered under the Veterinary Surgeons Act 1966[^f00003];
+- “veterinary inspector” means a veterinary inspector authorised by the appropriate Minister.
+
+(3) A notice, approval or licence issued under this Order shall be in writing and may be issued subject to conditions and may be amended, suspended, withdrawn or revoked in writing at any time.
+
+## 2. Special provisions for imported animals
+
+The provisions of this Order shall not apply in relation to premises approved under the Importation of Animals Order 1977[^f00004] and shall only apply in relation to imported bovine animals from the time specified in the licence issued in respect of those animals under article 11(5) of that Order.
+
+## 3. Restrictions on vaccination and therapeutic treatment
+
+(1) No person other than—
+
+- (a) a veterinary inspector;
+- (b) a veterinary surgeon authorised by the appropriate Minister; or
+- (c) a person to whom a licence has been issued for the purpose by a veterinary inspector
+
+shall vaccinate bovine animals against brucellosis.
+
+(2) No person shall treat bovine animals for brucellosis.
+
+## 4. Restrictions on the movement of bovine animals or steers
+
+An appropriate officer may serve a notice on the occupier of any premises, prohibiting the movement of bovine animals or steers on to or off such premises, except under the authority of a licence issued by an appropriate officer.
+
+## 5. Movement of bovine animals or steers to specified premises
+
+(1) An appropriate officer may, where he considers it necessary for the purpose of eradicating brucellosis, serve a notice on the owner or person in charge of bovine animals or steers kept on any premises, requiring the animals to be moved from the premises to such other premises and within such time limit as may be specified in the notice.
+
+(2) Where a notice served in accordance with paragraph (1) above is in force, the owner or person in charge of such animals shall not move them from the premises specified in the notice except under the authority of a licence issued by an appropriate officer.
+
+(3) If any person on whom a notice under paragraph (1) above is served fails to comply with it, the appropriate Minister may, without prejudice to any proceedings for an offence arising out of such default, carry out or cause to be carried out the requirements of the notice and the expenses reasonably incurred by the appropriate Minister shall be recoverable by him from the person in default.
+
+## 6. Control of slaughterhouses
+
+No slaughterhouse other than an approved slaughterhouse shall be used for the slaughter of reactors.
+
+## 7. Sampling of milk for testing for evidence of the existence of brucellosis
+
+(1) Any person who buys milk in any form for resale as milk or milk products from the owner or person in charge of a herd of dairy cows shall—
+
+- (a) select an approved laboratory to carry out testing of such milk for brucellosis;
+- (b) notify the appropriate Minister of the laboratory selected;
+- (c) once each month and at his own expense ensure that a sample of milk (which includes milk from all the dairy cows in that herd whose milk is available for sale) is sent forthwith to that laboratory for testing for evidence of the existence of brucellosis;
+- (d) add such preservative to the sample as may be requested by the person in charge of the laboratory; and
+- (e) ensure that the sample is labelled with—
+  - (i) a bar code or other device which enables the laboratory to identify the herd or part of a herd from which the sample was taken; and
+  - (ii) the date on which the sample was taken.
+
+(2) A person is exempt from the duty imposed by paragraph (1) above, if he only purchases pre-packed raw milk for resale—
+
+- (a) in the container in which he received it with the fastenings unbroken;
+- (b) from a vehicle which is lawfully used as shop premises; and
+- (c) direct to the ultimate consumer,
+
+and in this paragraph “ultimate consumer” means any person who buys milk other than for the purposes of—
+
+- (i) resale;
+- (ii) a catering establishment; or
+- (iii) a manufacturing business.
+
+(3) No person shall in any way treat other than by adding a preservative in accordance with paragraph (1)(d) above, or tamper with, any sample or its label and a person shall be deemed to have treated or tampered with a sample if he does anything in relation to it which is likely to affect the result of the testing required under this article.
+
+(4) The person in charge of an approved laboratory shall—
+
+- (a) maintain a record of those herds, the milk from which is sent to it for testing under paragraph (1) above;
+- (b) notify the appropriate Minister forthwith if, in any month, a sample is not received from one of the herds listed in its records held under sub-paragraph (a);
+- (c) notify the appropriate Minister within 24 hours where a sample has been tested for evidence of the existence of brucellosis and the result is positive;
+- (d) notify the appropriate Minister within one month where a sample has been tested for evidence of the existence of brucellosis and the result is negative; and
+- (e) maintain a record of the results of all the tests carried out for evidence of the existence of brucellosis for a period of one year from the date of the test.
+
+(5) If any person fails to take any action required of him under the provisions of paragraph (1) above, a veterinary inspector may, without prejudice to any proceedings for an offence arising out of such default, take or cause to be taken such action, and any expenses reasonably incurred by him in so doing shall be recoverable by the appropriate Minister from the person in default.
+
+## 8. Testing of bovine animals or steers for brucellosis
+
+(1) The owner or person in charge of bovine animals or steers kept on any premises shall comply with a request by an appropriate officer for facilities to examine, test or diagnose any bovine animal for brucellosis, and in particular, shall arrange for the collection, penning and securing of any such animal.
+
+(2) If any person fails to comply with a reasonable request by an appropriate officer in accordance with paragraph (1) above, the appropriate Minister may, without prejudice to any proceedings for an offence arising out of such default, take or cause to be taken all such reasonable steps as may facilitate the examination, testing and diagnosis of bovine animals for brucellosis, and the expenses reasonably incurred by the appropriate Minister shall be recoverable from the person in default.
+
+(3) Where the owner or person in charge of bovine animals or steers kept on any premises arranges or permits any diagnostic test for brucellosis to be carried out on those animals, otherwise than on behalf of the appropriate Minister, he shall notify the appropriate Minister of—
+
+- (a) any positive test result within 24 hours, and
+- (b) any negative test result within one month.
+
+(4) The owner or person in charge of bovine animals or steers kept on any premises shall not do or cause to be done, anything which is likely to affect the result of a diagnostic test for brucellosis carried out on behalf of the appropriate Minister.
+
+## 9. Marking of bovine animals
+
+(1) The owner or person in charge of bovine animals or steers kept on any premises shall if so required by a veterinary inspector, mark those animals in a manner specified by the veterinary inspector.
+
+(2) A veterinary inspector may paint, stamp, clip, tag or otherwise mark bovine animals or steers kept on any premises.
+
+(3) No person shall alter, remove, obliterate or deface or attempt to alter, remove, obliterate or deface any such marking.
+
+## 10. Notification of abortion or premature calving
+
+(1) Where the owner or person in charge of bovine animals kept on any premises reasonably believes that an abortion or premature calving has occurred, he shall within 24 hours—
+
+- (a) give notice of that fact to an appropriate officer, and
+- (b) arrange for the isolation, as far as practicable of the animal concerned and its foetus or calf and placenta, from all other bovine animals in his ownership or charge.
+
+(2) An animal to which the provisions of paragraph (1) above apply, shall remain in isolation and its foetus or calf and placenta shall be retained by the owner or person in charge of the animal, until such time as an appropriate officer serves a notice requiring the disposal or destruction of the foetus or calf and placenta.
+
+(3) If any person on whom a notice under paragraph (2) above is served fails to comply with it, the appropriate Minister may, without prejudice to any proceedings for an offence arising out of such default, carry out or cause to be carried out the requirements of the notice and the expenses reasonably incurred by the appropriate Minister shall be recoverable by him from the person in default.
+
+## 11. Precautions against the spread of infection
+
+(1) Where an appropriate officer has certified that any bovine animal kept on any premises has reacted to a diagnostic test for brucellosis, the occupier of the premises shall, on being given notice of the certification, take all reasonable steps to prevent the infection of bovine animals kept on adjoining premises by contact with bovine animals kept on his premises.
+
+(2) Where an appropriate officer has certified that any bovine animal kept on any premises has reacted to a diagnostic test for brucellosis or he reasonably believes it is infected with that disease, he may serve a notice on the owner or occupier of the premises requiring him to ensure that milk from such animals is not fed to other animals on the same premises or any other premises unless it has been pasteurised, sterilised or ultra-heat treated.
+
+(3) Where an appropriate officer reasonably believes that any bovine animal kept or formerly kept on any premises is infected with brucellosis, or has been exposed to the risk of infection by that disease, he may serve a notice on the owner or person in charge of that animal requiring him to—
+
+- (a) arrange for the isolation of any animal or animals which may be specified in the notice on any part or parts of the premises so specified;
+- (b) ensure that any part or parts of the premises specified in the notice shall not be used by any animals on the premises, or by such animals as may be specified;
+- (c) cleanse and disinfect at his own expense such part or parts of the premises as may be specified in the notice, or any vehicle, plant or equipment before it leaves the premises;
+- (d) treat and store manure or slurry from any place which has been used by such an animal and to restrict the spreading of manure or the spraying of such slurry in accordance with the requirements of the notice; and
+- (e) burn, disinfect, bury or destroy any straw, litter or other matter which has or might have, come into contact with such animal or its foetus or calf and planceta in accordance with the terms specified in the notice.
+
+(4) A notice served in accordance with paragraph (3) above may require any cow or heifer on the premises which is about to calve to be isolated as far as practicable from all other bovine animals on the premises during the period of calving.
+
+(5) Where an appropriate officer reasonably believes that any bovine animal which is present at, or has been present at any slaughterhouse or other premises used for a show, exhibition, market, sale or fair is infected with brucellosis, he may serve a notice on the occupier of such slaughterhouse or other premises, prescribing the manner in which any manure, slurry or other animal waste, straw, litter or other matter which has come into contact with any such animal, is disposed of.
+
+(6) If any person on whom a notice under paragraph (5) above is served fails to comply with it, the appropriate officer may, without prejudice to any proceedings for an offence arising out of such default, carry out or cause to be carried out the requirements of the notice and the expenses incurred by him shall be recoverable by the appropriate Minister from the person in default.
+
+## 12. Notification of full-term calving in herds affected with brucellosis
+
+(1) Where an animal kept or formerly kept on any premises has reacted to a diagnostic test for brucellosis, or where an appropriate officer reasonably believes that brucellosis exists on any premises, he may serve a notice on the owner or person in charge of any such bovine animal requiring him to notify the appropriate Minister within such period as may be specified in the notice, of any full-term calving which may occur among such animals.
+
+(2) Where a notice has been served on any person under paragraph (1) above and any full-term calving occurs among bovine animals to which such notice relates, the placenta and, if it dies at or after birth the calf shall be retained by that person until such time as an appropriate officer may by a further notice in writing require the disposal or destruction of the placenta and dead calf (if any).
+
+(3) If any person on whom a notice under paragraph (1) above is served fails to comply with it, the appropriate Minister may, without prejudice to any proceedings for an offence arising out of such default, carry out or cause to be carried out the requirements of the notice and the expenses reasonably incurred by the appropriate Minister shall be recoverable by him from the person in default.
+
+## 13. Animal waste
+
+Where a notice has been served on the occupier of any premises under the provisions of article 4 above, no manure, slurry or other animal waste shall be removed from the premises except under authority of a licence issued by an appropriate officer.
+
+## 14. Restrictions on the use of semen
+
+An appropriate officer may serve a notice on the owner or person in charge of bovine animals kept on any premises, prohibiting the use of semen among such animals, or restricting its use.
+
+## 15. Shows, exhibitions and markets
+
+(1) No person shall use any premises in connection with the holding of any show, exhibition, market, sale or fair at which bovine animals are present, except under the authority of a licence issued by an appropriate officer.
+
+(2) Where an appropriate officer believes that any bovine animal on any premises at which a show, exhibition, market, sale or fair is being held, is infected with, or has been exposed to the risk of infection by brucellosis, he may require the animal to be removed from those premises and the owner or person in charge of such animals may choose to take them—
+
+- (a) to a slaughterhouse for immediate slaughter;
+- (b) back to the premises from which the animal was brought to the show, exhibition, market, sale or fair; or
+- (c) to such other premises as the appropriate officer may direct.
+
+(3) A bovine animal shall only be removed in accordance with the provisions of sub-paragraphs (b) and (c) of paragraph (2) above on condition that it is immediately put into isolation for a period to be terminated by a notice served by an appropriate officer on the owner or person in charge of the animal.
+
+## 16. Control of premises used by dealers and others for the keeping of bovine animals
+
+No premises, other than premises which have been approved for the purpose by an appropriate officer shall be used—
+
+- (a) by a dealer of bovine animals for the keeping of such animals in connection with his business as a dealer; or
+- (b) by a person who regularly purchases pregnant bovine animals for resale within 30 days of their expected date of calving or within 30 days of their having calved for the keeping of any animals so purchased.
+
+## 17. Control of infection from other animals
+
+Where a veterinary inspector reasonably believes that a bovine animal kept on any premises is, or may be infected with brucellosis, he may serve a notice on the occupier or person in charge of such premises, requiring him to keep it under control in such manner or confined to such part of the premises, as may be speci|fi|ed in the notice.
+
+## 18. Power to slaughter for brucellosis
+
+Section 32 of the Animal Health Act 1981 shall apply to brucellosis.
+
+## 19. Notice of intended slaughter
+
+(1) Where the appropriate Minister proposes to cause bovine animals to be slaughtered under the powers conferred by section 32 of the Animal Health Act 1981 in its application to brucellosis, a veterinary inspector may serve a notice of intended slaughter on the owner or person in charge of the animal informing him of the proposed slaughter and requiring him to detain the animal pending slaughter and isolate it as far as practicable from such other animals as may be specified.
+
+(2) The person on whom such a notice has been served shall ensure that the animal is not moved, or cause or permit it to be moved except under the authority of a licence issued by an appropriate officer.
+
+## 20. Assistance in securing animals
+
+(1) Where the appropriate Minister proposes to cause a bovine animal to be slaughtered under section 32 of the Animal Health Act 1981, the owner or person in charge of the animal shall comply with all reasonable requirements of an appropriate officer for assistance in the collection, penning, and securing of the animal for identification and inspection in connection with the ascertainment of its value.
+
+(2) If the owner or person in charge of a bovine animal fails to comply with a reasonable request for assistance made under paragraph (1) above, the appropriate Minister may, without prejudice to any proceedings for an offence arising out of such default, carry out or cause to be carried out such requirements and the expenses reasonably incurred by the appropriate Minister shall be recoverable by him from the person in default.
+
+## 21. Production of licences
+
+Where, under the provisions of this Order, a licence is required for the movement of a bovine animal or steer, the person in charge of such an animal, shall on demand made under this Order by an appropriate officer, an inspector of a local authority or a police constable, furnish his name and address and shall produce the licence and allow a copy thereof or an extract therefrom to be taken.
+
+## 22. Offences
+
+Any person who without lawful authority or excuse contravenes or fails to comply with any provision of this Order shall be guilty of an offence against the Animal Health Act 1981.
+
+## 23. Enforcement
+
+This Order shall be enforced by the local authority.
+
+## 24. Revocations
+
+The instruments listed in Schedule 2 of this Order are hereby revoked.
+
+Angela Browning
+
+Parliamentary Secretary Ministry of Agriculture, Fisheries and Food
+
+11th March 1997
+
+Lindsay
+
+Parliamentary Under Secretary of State, Scottish Office
+
+11th March 1997
+
+Signed by authority of the Secretary of State for Wales
+
+Jonathan Evans
+
+Parliamentary Under-Secretary of State, Welsh Office
+
+10th March 1997
+
+## SCHEDULE 1 — List of approved laboratories
+
+Articles 1(2) and 7(1)
+
+- ADAS Laboratory Services, situated at Woodthorne Wergs Road Wolverhampton WV6 8TQ
+- Milk Marque Quality Testing Laboratory, situated at The Brampton Newcastle-under- Lyme Staffordshire ST5 0QS
+- Scottish Agricultural College, situated at
+- SAC Veterinary Services Auchincruive Ayr KA6 5AE and SAC Veterinary Services Drummondhill Stratherrick Road Inverness IV2 4JZ
+
+## SCHEDULE 2 — REVOCATIONS
+
+Article 24
+
+| Title | Reference |
+| --- | --- |
+| The Brucellosis (Scotland) Order 1979 | S.I. [1979/1596](https://www.legislation.gov.uk/uksi/1979/1596) |
+| The Brucellosis (Scotland) (Amendment) Order 1980 | S.I. [1980/1673](https://www.legislation.gov.uk/uksi/1980/1673) |
+| The Brucellosis (England and Wales) Order 1981 | S.I. [1981/1455](https://www.legislation.gov.uk/uksi/1981/1455) |
+| The Brucellosis (England and Wales) (Amendment) Order 1986 | S.I. [1986/2295](https://www.legislation.gov.uk/uksi/1986/2295) |
+| The Brucellosis (Scotland) (Amendment) Order 1987 | S.I. [1987/135](https://www.legislation.gov.uk/uksi/1987/135) |
+| The Brucellosis (England and Wales) (Amendment) Order 1994 | S.I. [1994/2762](https://www.legislation.gov.uk/uksi/1994/2762) |
+| The Brucellosis (Scotland) (Amendment) Order 1994 | S.I. [1994/2770](https://www.legislation.gov.uk/uksi/1994/2770) |
+
+(This note is not part of the Order)
+
+This Order revokes and substantially re-enacts the Brucellosis (England and Wales) Order 1981 (S.I. [1981/1455](https://www.legislation.gov.uk/uksi/1981/1455) as amended by S.I. [1986/2295](https://www.legislation.gov.uk/uksi/1986/2295) and S.I. [1994/2762](https://www.legislation.gov.uk/uksi/1994/2762)). It also applies to Scotland for the first time and revokes and re-enacts the Brucellosis (Scotland) Order 1979 (S.I. [1979/1596](https://www.legislation.gov.uk/uksi/1979/1596) as amended by S.I. [1980/1673](https://www.legislation.gov.uk/uksi/1980/1673), S.I. [1987/135](https://www.legislation.gov.uk/uksi/1987/135) and S.I. [1994/2770](https://www.legislation.gov.uk/uksi/1994/2770)).
+
+It implements the provisions relating to milk of Council Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432), as amended (on animal health problems affecting intra-Community trade in bovine animals and swine) (O.J. No. L121, 29.7.64, p. 1977) and Council Directive [77/391/EEC](https://www.legislation.gov.uk/european/directive/1977/0391), as amended (introducing Community measures for the eradication of brucellosis, tuberculosis and leucosis in cattle) (O.J. No. L145, 13.6.77, p. 44). These Directives require the operation of a monitoring and testing programme to maintain the officially brucellosis-free status of Great Britain under Council Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
+
+The principal changes made by this Order relate to the arrangements for testing milk for evidence of brucellosis. Schedule 1 to the Order lists those laboratories which have been approved by the Ministers to carry out testing of milk for brucellosis. Article 7(1) sets out the duties of purchasers of milk in any form for resale to ensure that milk is sent for testing to one of the approved laboratories.
+
+The person in charge of an approved laboratory must notify the appropriate Minister if the result of any test for brucellosis is positive within 24 hours and negative results within one month. He must maintain records of all the tests carried out for a period of one year (article 7(4)).
+
+The Order is enforced by the local authority (article 23).
+
+A failure to comply with any provision of this Order is an offence against the Animal Health Act 1981 (article 22).
+
+A Cost Compliance Assessment in relation to this Order has been placed in the libraries of both Houses of Parliament and copies can be obtained from the Animal Health (Disease Control) Division of the Ministry of Agriculture, Fisheries and Food, Government Buildings, Hook Rise South, Tolworth, Surbiton, Surrey KT6 7NF.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). See section 86(1) for a definition of “the Ministers”; for the extension of the Act to brucellosis see S.I. [1971/531](https://www.legislation.gov.uk/uksi/1971/531) and S.I. [1989/285](https://www.legislation.gov.uk/uksi/1989/285).
+
+[^f00002]: Footnote: [1974 c. 3](https://www.legislation.gov.uk/ukpga/1974/3).
+
+[^f00003]: Footnote: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36).
+
+[^f00004]: Footnote: S.I. [1977/944](https://www.legislation.gov.uk/uksi/1977/944).

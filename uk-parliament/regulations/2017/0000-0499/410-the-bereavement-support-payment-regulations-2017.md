@@ -1,0 +1,271 @@
+---
+title: The Bereavement Support Payment Regulations 2017
+id: uksi/2017/410
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-03-15'
+text_date: '2026-04-06'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2017/410
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/410/pdfs/uksiem_20170410_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/410/pdfs/uksi_20170410_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/410/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bereavement Support Payment Regulations 2017
+
+> Text as at 2026-04-06.
+
+2017 No. 410
+
+Social Security
+
+The Bereavement Support Payment Regulations 2017
+
+Made
+
+15th March 2017
+
+Coming into force in accordance with regulation 1(2)
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by sections 30(1)(c), (2), (3), (4)(a) and (7), 32(1) and (3) and 54(5) and (6) of the Pensions Act 2014[^f00001].
+
+These Regulations have not been referred to the Social Security Advisory Committee because they are made before the end of the period of six months beginning with the coming into force of the provisions of the Pensions Act 2014 under which they are made[^f00002].
+
+A draft of these Regulations has been laid before Parliament in accordance with section 54(2)(a) of the Pensions Act 2014 and approved by a resolution of each House of Parliament.
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Bereavement Support Payment Regulations 2017.
+
+(2) These Regulations come into force on the day on which section 30 of the Pensions Act 2014 (bereavement support payment) comes into force for all purposes.
+
+## 2. Period for which bereavement support payment is payable
+
+(1) The period for which bereavement support payment is payable is determined—[^M_F_58dac213-fed1-4e3b-f383-3df2474746e8]
+
+- (a) in the case mentioned in paragraph (4), in accordance with paragraphs (5) and (6);
+- (b) in the case mentioned in paragraph (7), in accordance with paragraphs (8) and (9); and
+- (c) in any other case, in accordance with paragraphs (2) and (3).
+
+(2) The period starts—
+
+- (a) on the date the person’s spouse, civil partner or cohabiting partner[^M_F_68bb4170-0225-4ec1-9c71-40dd62202ef0] died, where the person claims the payment three months or less after that date; or
+- (b) at the beginning of the period of three months preceding the date the person claims the payment, where the person claims the payment—
+  - (i) more than three months after the date the person’s spouse, civil partner or cohabiting partner died; and
+  - (ii) no more than three months after the date the period finishes under paragraph (3).
+
+(3) The period finishes at the end of the period of 18 months beginning with the day after the date the person’s spouse, civil partner or cohabiting partner[^M_F_f694fc7c-77d0-41d9-e041-9964e36e7041] died.
+
+(4)[^M_F_c07b4c23-fab1-4623-bdcc-696e368197bf] Paragraphs (5) and (6) apply where the person is entitled to bereavement support payment—
+
+- (a) as a result of the amendments made by the 2023 Remedial Order, and
+- (b) as a result of the death of their cohabiting partner occurring on or after 30th August 2018 and before the RO commencement day.
+
+(5) The period starts—
+
+- (a) with the RO commencement day, where the person claims the payment 12 months or less after that date; or
+- (b) at the beginning of the period of three months preceding the date the person claims the payment, where the person claims the payment—
+  - (i) more than 12 months after the RO commencement day; and
+  - (ii) no more than three months after the date the period finishes under paragraph (6).
+
+(6) The period finishes at the end of the period of 18 months beginning with the RO commencement day.
+
+(7) Paragraphs (8) and (9) apply where the person is entitled to bereavement support payment—
+
+- (a) as a result of the amendments made by the 2023 Remedial Order, and
+- (b) as a result of the death of their cohabiting partner occurring on or after 6th April 2017 and before 30th August 2018.
+
+(8) The period starts with the RO commencement day.
+
+(9) The period finishes—
+
+- (a) at the end of the period of W months beginning with the RO commencement day, where the person claims the payment 12 months or less after the RO commencement day; and
+- (b) at the end of—
+  - (i) the period described in sub-paragraph (a); or
+  - (ii) if shorter, the period of X months beginning with the RO commencement day,
+
+  where the person claims the payment more than 12 months after but no more than 21 months after the RO commencement day.
+
+(10) For the purposes of paragraph (9)—
+
+- “**W months**” means the number of months which is 18 less Y;
+- “**X months**” means the number of months which is 21 less Z.
+
+(11) For the purposes of paragraph (10)—
+
+- “Y” is the number of monthly recurrences of the day of the month on which the person’s cohabiting partner died which occur during the period beginning with the day after the date of the cohabiting partner’s death and ending with 29th August 2018;
+- “Z” is the number of monthly recurrences of the day of the month on which the RO commencement day occurs during the period beginning with the day after the RO commencement day and ending with the date on which the person claims the payment.
+
+(12) In paragraph (11)—
+
+- (a) for the purposes of the definition of “Y”—
+  - (i) paragraph (7) of regulation 3 applies as if the words “for the purposes of paragraphs (1) and (4)” were omitted, and
+  - (ii) paragraph (8) of regulation 3 applies as if the words “for those purposes” were omitted;
+- (b) for the purposes of the definition of “Z”—
+  - (i) where the 2023 Remedial Order comes into force on the 31st day of a month, the monthly recurrence of the RO commencement day is to be treated as falling on the last day of the month;
+  - (ii) where the 2023 Remedial Order comes into force on the 29th or 30th day of a month, the monthly recurrence of the RO commencement day in February is to be treated as falling on the last day of February.
+
+(13) In paragraphs (4) to (12)—
+
+- “**the 2023 Remedial Order**” means the Bereavement Benefits (Remedial) Order 2023; and
+- “**the RO commencement day**” means the day on which the 2023 Remedial Order comes into force.
+
+## 3. Rate of bereavement support payment
+
+(1)[^key-51b1a547e9bd46b1b32a4c59c1877a92] The higher rate of bereavement support payment is £350 for each monthly recurrence of the day of the month on which the person’s spouse, civil partner or cohabiting partner[^M_F_678fcd1f-9636-4330-bc4c-c1b807f9e0e7] died during the period for which bereavement support payment is payable (see regulation 2).
+
+(2)[^key-34b48736b8b39e310b154147b11eccbf][^M_F_e0c8934f-43e2-4eae-8aa8-851ea739bfdb] Where the person claims bereavement support payment 12 months or less after—
+
+- (a) the date their spouse or civil partner died;
+- (b) in the case of a claim in respect of their cohabiting partner who died on or after 30th August 2018 and before the RO commencement day, the RO commencement day;
+- (c) in the case of a claim in respect of their cohabiting partner who died on or after the RO commencement day, the date their cohabiting partner died,
+
+the higher rate of bereavement support payment is £3,500 for the first month of the period for which bereavement support payment is payable.
+
+(3) Any higher rate mentioned in paragraph (2) is in addition to any higher rate mentioned in paragraph (1).
+
+(4)[^key-3290beda4bf9e1e75f3bb0f3874ae7be] The standard rate of bereavement support payment is £100 for each monthly recurrence of the day of the month on which the person’s spouse or civil partner died during the period for which bereavement support payment is payable.
+
+(5)[^key-c4d97caf4c342854a38459399d3703c8] Where the person claims bereavement support payment 12 months or less after the date their spouse or civil partner died, the standard rate of bereavement support payment is £2,500 for the first month of the period for which bereavement support payment is payable.
+
+(6) Any standard rate mentioned in paragraph (5) is in addition to any standard rate mentioned in paragraph (4).
+
+(7) Where a person’s spouse or civil partner died on the 31st day of a month, the monthly recurrence of the day of death is to be treated for the purposes of paragraphs (1) and (4) as falling on the last day of the month (the same applies where a cohabiting partner dies for the purposes of paragraph (1))[^M_F_ae288be0-be10-491c-893f-7900e99537d4].
+
+(8) Where a person’s spouse, civil partner or cohabiting partner[^M_F_02459dd2-c34d-4024-8f61-d484a78ccf12] died on the 29th or 30th day of a month, the monthly recurrence of the day of death in February is to be treated for those purposes as falling on the last day of February.
+
+(9)[^M_F_8b7ac1a8-b482-4af7-c62d-a6b4035b9750] In this regulation, “**the RO commencement day**” has the meaning given in regulation 2(13).
+
+## 4. Persons entitled to the higher rate of bereavement support payment
+
+(1) A person falling within any of paragraphs (2) to (4) is entitled to the higher rate of bereavement support payment under regulation 3(1) to (3).
+
+(2) A person who was pregnant when their spouse, civil partner or cohabiting partner[^M_F_bd786b74-88d2-4cbb-f211-3919a4f1380b] died.
+
+(3) A person who was entitled to child benefit under section 141 of the Social Security Contributions and Benefits Act 1992 (child benefit)[^f00003] when their spouse, civil partner or cohabiting partner died.
+
+(4) A person who, after their spouse, civil partner or cohabiting partner died, becomes entitled to child benefit under section 141 of that Act for a child or qualifying young person who was residing with the person or their deceased spouse, civil partner or cohabiting partner immediately before the spouse, civil partner or cohabiting partner died.
+
+(5) Paragraph (4) applies to a person whether or not they later cease to be entitled to child benefit for that child or qualifying young person.
+
+(6) In this regulation, “child” and “qualifying young person” have the same meaning as in section 142 of the Social Security Contributions and Benefits Act 1992 (definitions of “child” and “qualifying young person”)[^f00004].
+
+## 5. Persons entitled to the standard rate of bereavement support payment
+
+A person is entitled to the standard rate of bereavement support payment under regulation 3(4) to (6) if they are not entitled to the higher rate of bereavement support payment.
+
+## 6. Prisoners who are not to be paid bereavement support payment
+
+(1) Subject to regulation 7, a person is not to be paid bereavement support payment for any period during which the person is a prisoner[^f00005].
+
+(2) Except where paragraph (3) applies, a person is a prisoner for the purposes of paragraph (1) where the person is—
+
+- (a) a prisoner in Great Britain or elsewhere who is imprisoned or detained in legal custody in connection with, or as a result of, criminal proceedings;
+- (b) a prisoner in Great Britain or elsewhere who is unlawfully at large;
+- (c) a prisoner in Great Britain who is being detained—
+  - (i) under section 47 of the Mental Health Act 1983 (removal to hospital of persons serving sentences of imprisonment, etc)[^f00006]; and
+  - (ii) on or before the day which the Secretary of State certifies to be the person’s release date (if any) within the meaning in section 50(3) of that Act (further provisions as to prisoners under sentence)[^f00007];
+- (d) a prisoner in Great Britain who is being detained under section 136 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (transfer of prisoners for treatment of mental disorder)[^f00008].
+
+(3) Where a person outside Great Britain is a prisoner within paragraph (2)(a) or (b) and, in similar circumstances in Great Britain, the person would not have been a prisoner, the person is not a prisoner within paragraph (2)(a) or (b).
+
+## 7. Paying bereavement support payment to persons who are remanded in custody
+
+(1) Where a person is remanded in custody for an offence, regulation 6(1) does not apply unless a sentence described in paragraph (2) is later imposed on the person for the offence.
+
+(2) Subject to paragraph (3), the sentences described for the purposes of paragraph (1) are—
+
+- (a) a sentence of imprisonment or detention in legal custody as a result of criminal proceedings;
+- (b) a sentence of detention where the provisions mentioned in regulation 6(2)(c)(i) or (d) apply;
+- (c) a suspended sentence within the meaning in section 189 of the Criminal Justice Act 2003 or section 286 of the Sentencing Code[^key-7dd01c4a38cf606386337a693de700ef] (suspended sentences of imprisonment)[^f00009].
+
+(3) A sentence described in paragraph (2)(a) which is imposed outside Great Britain is not a sentence described for the purposes of paragraph (1) if, in similar circumstances in Great Britain, a sentence described in paragraph (2)(a) would not have been imposed.
+
+## 8. Territory in which a person may be entitled to bereavement support payment
+
+For the purposes of section 30(1)(c) of the Pensions Act 2014 (bereavement support payment), the territory specified is any part of the Channel Islands which is not subject to an Order made under section 179 of the Social Security Administration Act 1992 (reciprocal agreements with countries outside the United Kingdom)[^f00010].
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Caroline Nokes
+
+Parliamentary Under-Secretary of State
+
+Department for Work and Pensions
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Pensions Act [2014 (c.19)](https://www.legislation.gov.uk/ukpga/2014/19) creates a new bereavement support payment for people whose spouse or civil partner dies on or after the date these Regulations come into force. It replaces the existing social security benefits for the bereaved (bereavement allowance, widow’s pension, widowed mother’s allowance, widowed parent’s allowance and bereavement payment). These Regulations set out some of the detailed rules relating to the new bereavement support payment.
+
+Regulation 2 specifies the period for which bereavement support payment is payable. The period lasts a maximum of 18 months. If the person claims within three months of the death of their spouse or civil partner, the period starts on the date of death and lasts 18 months. If the person claims more than three months after the death, the period starts three months before the claim and ends 18 months after the date of death. Therefore, if the person claims 20 months after the date of death, the period only lasts for one month.
+
+Regulation 3 sets the rate of bereavement support payment. There are two rates, the standard rate and the higher rate. The standard rate is £100 per month and the higher rate is £350 per month. In addition, if the person has claimed 12 months or less after the date of the death of their spouse or civil partner, there is an extra £3,500 at the higher rate for the first month and an extra £2,500 at the standard rate for the first month.
+
+Regulation 4 lists the persons who are entitled to the higher rate. These are pregnant women and certain persons who are entitled to child benefit. It also includes persons who become entitled to child benefit after the date of death and later cease to be entitled to child benefit. A person who is not entitled to the higher rate is entitled to the standard rate (regulation 5).
+
+Regulations 6 and 7 contain provisions about prisoners. For these purposes, prisoners are people who are imprisoned, detained in legal custody or unlawfully at large. They can be a prisoner in Great Britain or abroad. These prisoners may not be entitled to be paid any bereavement support payment under the Pensions Act 2014. Regulation 6 lists the prisoners who are not entitled to be paid bereavement support payment. It provides that some prisoners abroad can be paid if they would not have been imprisoned in Great Britain. Regulation 7 provides that prisoners on remand are not to be paid if they later receive certain types of sentence.
+
+Regulation 8 adds the part of the Channel Islands (currently Sark) which is not covered by an order under section 179 of the Social Security Administration Act [1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5) (which concerns social security reciprocal agreements) to the territories in which a person must be ordinarily resident in order to be entitled to bereavement support payment. Section 30(1)(c) of the Pensions Act 2014 provides that the other territory is Great Britain.
+
+A full impact assessment has not been published for these Regulations as they have no impact on the private sector or civil society organisations. An assessment has been made of the impact of the introduction of bereavement support payment. Copies of that impact assessment may be obtained from the Legislation Team of the Department for Work and Pensions, Caxton House, Tothill Street, London SW1 9NA or from the DWP website: https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/311316/pensions-act-ia-annex-a-single-tier-state-pension.pdf. (Annex A contains the assessment for bereavement support payment.)
+
+## Annotations
+
+[^f00001]: Footnote: [2014 c.19](https://www.legislation.gov.uk/ukpga/2014/19).
+
+[^f00002]: Footnote: *See* section 173(5) of the Social Security Administration Act [1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^M_F_58dac213-fed1-4e3b-f383-3df2474746e8]: Textual amendment: Words in reg. 2(1) substituted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [6(2)(a)](https://www.legislation.gov.uk/uksi/2023/134/article/6/2/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^M_F_68bb4170-0225-4ec1-9c71-40dd62202ef0]: Textual amendment: Words in reg. 2(2) substituted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [6(2)(b)](https://www.legislation.gov.uk/uksi/2023/134/article/6/2/b) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^M_F_f694fc7c-77d0-41d9-e041-9964e36e7041]: Textual amendment: Words in reg. 2(3) substituted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [6(2)(b)](https://www.legislation.gov.uk/uksi/2023/134/article/6/2/b) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^M_F_c07b4c23-fab1-4623-bdcc-696e368197bf]: Textual amendment: Reg. 2(4)-(13) inserted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [6(2)(c)](https://www.legislation.gov.uk/uksi/2023/134/article/6/2/c) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^key-51b1a547e9bd46b1b32a4c59c1877a92]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/410/regulation/3/1): sum confirmed (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [19(a)](https://www.legislation.gov.uk/uksi/2026/148/article/19/a)
+
+[^M_F_678fcd1f-9636-4330-bc4c-c1b807f9e0e7]: Textual amendment: Words in reg. 3(1) substituted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [6(3)(a)](https://www.legislation.gov.uk/uksi/2023/134/article/6/3/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^key-34b48736b8b39e310b154147b11eccbf]: Modification: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2017/410/regulation/3/2): sum confirmed (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [19(b)](https://www.legislation.gov.uk/uksi/2026/148/article/19/b)
+
+[^M_F_e0c8934f-43e2-4eae-8aa8-851ea739bfdb]: Textual amendment: Reg. 3(2) substituted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [6(3)(b)](https://www.legislation.gov.uk/uksi/2023/134/article/6/3/b) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^key-3290beda4bf9e1e75f3bb0f3874ae7be]: Modification: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2017/410/regulation/3/4): sum confirmed (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [19(c)](https://www.legislation.gov.uk/uksi/2026/148/article/19/c)
+
+[^key-c4d97caf4c342854a38459399d3703c8]: Modification: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2017/410/regulation/3/5): sum confirmed (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [19(d)](https://www.legislation.gov.uk/uksi/2026/148/article/19/d)
+
+[^M_F_ae288be0-be10-491c-893f-7900e99537d4]: Textual amendment: Words in reg. 3(7) inserted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [6(3)(c)](https://www.legislation.gov.uk/uksi/2023/134/article/6/3/c) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^M_F_02459dd2-c34d-4024-8f61-d484a78ccf12]: Textual amendment: Words in reg. 3(8) substituted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [6(3)(a)](https://www.legislation.gov.uk/uksi/2023/134/article/6/3/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^M_F_8b7ac1a8-b482-4af7-c62d-a6b4035b9750]: Textual amendment: Reg. 3(9) inserted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [6(3)(d)](https://www.legislation.gov.uk/uksi/2023/134/article/6/3/d) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^M_F_bd786b74-88d2-4cbb-f211-3919a4f1380b]: Textual amendment: Words in reg. 4 substituted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [6(4)](https://www.legislation.gov.uk/uksi/2023/134/article/6/4) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
+
+[^f00003]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 141 was amended by section 1 of the Child Benefit Act [2005 (c.6)](https://www.legislation.gov.uk/ukpga/2005/6).
+
+[^f00004]: Footnote: Section 142 was substituted by section 1 of the Child Benefit Act 2005.
+
+[^f00005]: Footnote: *See* section 32(2) of the Pensions Act 2014 for the meaning of “prisoner”.
+
+[^f00006]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20). Section 47 was amended by section 49(3) of, and Schedule 6 to, the Crime (Sentences) Act [1997 (c.43)](https://www.legislation.gov.uk/ukpga/1997/43), paragraph 18 of Schedule 10 to the Domestic Violence, Crime and Victims Act [2004 (c.28)](https://www.legislation.gov.uk/ukpga/2004/28), paragraph 97 of Schedule 16 to the Armed Forces Act [2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52) and section 4(7) of, and paragraph 10 of Schedule 1 and Part 1 of Schedule 11 to, the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12). [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) transferred functions under section 47 to the National Assembly for Wales.
+
+[^f00007]: Footnote: Section 50(3) was substituted by section 294(3) of the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44).
+
+[^f00008]: Footnote: [2003 asp.13](https://www.legislation.gov.uk/asp/2003/13).
+
+[^key-7dd01c4a38cf606386337a693de700ef]: Textual amendment: Words in [reg. 7(2)(c)](https://www.legislation.gov.uk/uksi/2017/410/regulation/7/2/c) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 437](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/437) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^f00009]: Footnote: [2003 c.44](https://www.legislation.gov.uk/ukpga/2003/44). Section 189 was amended by section 68 of the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c.10)](https://www.legislation.gov.uk/ukpga/2012/10) and [S.I. 2005/643](https://www.legislation.gov.uk/uksi/2005/643).
+
+[^f00010]: Footnote: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5). There are amendments to section 179 which are not relevant to these Regulations.

@@ -1,0 +1,79 @@
+---
+title: Finance Act 2006, section 173
+act: Finance Act 2006
+section: '173'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2006/25/section/173
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2006, section 173
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/25
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 173. International tax enforcement arrangements
+
+*Extent: E+W+S+N.I.*
+
+(1) If Her Majesty by Order in Council declares that—
+
+- (a) arrangements relating to international tax enforcement which are specified in the Order have been made in relation to any territory or territories outside the United Kingdom, and
+- (b) it is expedient that those arrangements have effect,
+
+those arrangements have effect (and do so in spite of anything in any enactment or instrument).
+
+(2) For the purposes of subsection (1) arrangements relate to international tax enforcement if they relate to any or all of the following—
+
+- (a) the exchange of information foreseeably relevant to the administration, enforcement or recovery of any UK tax or foreign tax;
+- (b) the recovery of debts relating to any UK tax or foreign tax;
+- (c) the service of documents relating to any UK tax or foreign tax.
+
+(3) In this section—
+
+- “**UK tax**” means any tax or duty imposed under the domestic law of the United Kingdom, and
+- “**foreign tax**” means any tax or duty imposed under the law of the territory, or any of the territories, in relation to which the arrangements have been made.
+
+(4)[^key-26282424221582c3a00c2e6100d3498c] Where any arrangements have effect by virtue of this section, no obligation of secrecy (whether imposed by statute or otherwise) prevents a public authority or anyone acting on its behalf from making a disclosure to the Commissioners for Her Majesty’s Revenue and Customs —
+
+- (a) for the purpose of giving effect, or enabling effect to be given, to the arrangements, or
+- (b) which is authorised in accordance with the arrangements.
+
+(4A) Where any arrangements have effect by virtue of this section, no obligation of secrecy (whether imposed by statute or otherwise) prevents the Commissioners for Her Majesty’s Revenue and Customs or any other authorised Revenue and Customs official from making a disclosure to a person outside the United Kingdom—
+
+- (a) for the purpose of giving effect, or enabling effect to be given, to the arrangements, or
+- (b) which is authorised in accordance with the arrangements.
+
+(5) But information may not be disclosed by virtue of subsection (4A) unless the person making the disclosure is satisfied that the recipient of the information—
+
+- (a) will only use the information in a manner consistent with the purposes of the arrangements, and
+- (b) is bound by, or has undertaken to observe, rules of confidentiality with respect to the information which are not less strict than those applying to it in the United Kingdom.
+
+(6) An Order in Council made under this section revoking an earlier such Order may contain any transitional provisions that appear appropriate.
+
+(7) An Order under this section is not to be submitted to Her Majesty in Council unless a draft of the Order has been laid before and approved by a resolution of the House of Commons.
+
+(8) Any provisions which—
+
+- (a) are included in an Order in Council made under any of the provisions specified in subsection (10),
+- (b) are in force immediately before the passing of this Act, and
+- (c) could have been included in an Order in Council under this section had the Order in Council been made after that time,
+
+have effect after that time as if included in an Order in Council under this section.
+
+(9) If any such provisions relate to arrangements covering UK taxes or foreign taxes (or both) other than those in relation to which the Order in Council had effect, the provisions also have effect after the passing of this Act (by virtue of subsection (8)) in relation to those other UK taxes or foreign taxes (or both).
+
+(10) The provisions referred to in subsection (8)(a) are—
+
+- (a) sections 788 and 815C of ICTA (international arrangements relating to income tax, corporation tax and capital gains tax and analogous foreign taxes), and
+- (b) sections 158 and 220A of IHTA 1984 (international arrangements relating to inheritance tax and analogous foreign taxes).
+
+(11) In this section “**Revenue and Customs official**” has the same meaning as in section 18 of the Commissioners for Revenue and Customs Act 2005 (c. 11) (confidentiality).
+
+## Annotations
+
+[^key-26282424221582c3a00c2e6100d3498c]: Textual amendment: S. 173(4)-(5) substituted (31.12.2020) for s. 173(4)(5) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/14/2) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

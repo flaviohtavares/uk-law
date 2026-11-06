@@ -1,0 +1,49 @@
+---
+title: Protection of Freedoms Act 2012, section 22
+act: Protection of Freedoms Act 2012
+section: '22'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2012/9/section/22
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Protection of Freedoms Act 2012, section 22
+
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 22. Guidance on making national security determinations[^key-afe8eea6fbe025055ac9ffb48d6ae9be]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State must give guidance about making or renewing national security determinations under a provision mentioned in section 20(2)(a).
+
+(2) Any person authorised to make or renew any such national security determination must have regard to any guidance given under this section.
+
+(3) The Secretary of State may give different guidance for different purposes.
+
+(4) In the course of preparing the guidance, or revising guidance already given, the Secretary of State must consult the Commissioner for the Retention and Use of Biometric Material and the Lord Advocate.
+
+(5) Before giving guidance under this section, or revising guidance already given, the Secretary of State must lay before Parliament—
+
+- (a) the proposed guidance or proposed revisions, and
+- (b) a draft of an order providing for the guidance, or revisions to the guidance, to come into force.
+
+(6) The Secretary of State must make the order, and issue the guidance or (as the case may be) make the revisions to the guidance, if the draft of the order is approved by a resolution of each House of Parliament.
+
+(7) Guidance, or revisions to guidance, come into force in accordance with an order under this section.
+
+(8) Such an order—
+
+- (a) is to be a statutory instrument, and
+- (b) may contain transitional, transitory or saving provision.
+
+(9) The Secretary of State must publish any guidance given or revised under this section.
+
+## Annotations
+
+[^key-afe8eea6fbe025055ac9ffb48d6ae9be]: Commencement: S. 22 in force at 1.10.2012 by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/2234/article/3/b)

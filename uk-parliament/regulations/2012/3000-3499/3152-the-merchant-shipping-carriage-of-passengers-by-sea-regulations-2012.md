@@ -1,0 +1,365 @@
+---
+title: The Merchant Shipping (Carriage of Passengers by Sea) Regulations 2012
+id: uksi/2012/3152
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-12-19'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/3152
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/3152/pdfs/uksiem_20123152_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/3152/pdfs/uksi_20123152_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/3152/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping (Carriage of Passengers by Sea) Regulations 2012
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2012 No. 3152
+
+Merchant Shipping
+
+The Merchant Shipping (Carriage of Passengers by Sea) Regulations 2012
+
+Made
+
+19th December 2012
+
+Laid before Parliament
+
+21st December 2012
+
+Coming into force in accordance with regulation 1(2)
+
+The Secretary of State is a Minister designated [^f00001] in relation to measures relating to maritime transport for the purposes of section 2(2) of the European Communities Act 1972[^f00002].
+
+Accordingly, the Secretary of State, in exercise of the powers conferred on him by that section, makes the following Regulations:
+
+## 1. Citation and commencement[^key-d0611efea5161fde35b695ab3ba99114]
+
+(1) These Regulations may be cited as the Merchant Shipping (Carriage of Passengers by Sea) Regulations 2012.
+
+(2) Regulations 2 and 4 come into force on 31st December 2012 the remaining regulations come into force on 12th January 2013.
+
+## 2. Interpretation[^key-9f6eb3ccb29b6560a5a33747af4c45e1][^key-9f6eb3ccb29b6560a5a33747af4c45e1]
+
+(1) In these Regulations—
+
+- “the 2009 Regulation” means Regulation [(EC) No. 392/2009](https://www.legislation.gov.uk/european/regulation/2009/0392) of the European Parliament and of the Council of 23rd April 2009 on the liability of carriers of passengers by sea in the event of accidents[^f00003];
+- “the Act” means the Merchant Shipping Act 1995[^f00004];
+- “State Party” means a country in respect of which the Athens Convention is in force;
+- “insurance” means insurance or other financial security satisfying the requirements of Article 4*bis* of the Athens Convention;
+- “proper officer” has the meaning ascribed to it in section 313 of the Act;
+- “United Kingdom ship” means a ship registered in the United Kingdom under Part 2 of the Act.
+
+(2) For the purposes of these Regulations expressions used in the 2009 Regulation and in these Regulations have the same meaning as in the 2009 Regulation.
+
+## 3. Application[^key-5a53239c812a62883285069841d8538c]
+
+(1) Subject to regulation 4, these Regulations apply to ships and persons engaged in the carriage of passengers by sea to which the 2009 Regulation applies.
+
+(2) These Regulations do not apply to warships, auxiliary warships or other State owned or operated ships used for a non commercial public service.
+
+## 4. Disapplication of the 2009 Regulation in respect of carriage by sea within the United Kingdom[^key-c01445cbdbbdaf3c28f81aaf4005c868][^key-c01445cbdbbdaf3c28f81aaf4005c868]
+
+The 2009 Regulation does not apply to any ship engaged in the carriage of passengers by sea solely within the United Kingdom unless—
+
+- (a) the ship is a Class A ship[^f00005] and the carriage takes place after 30th December 2016; or
+- (b) the ship is a Class B ship and the carriage takes place after 30th December 2018.
+
+## 5. Requirement to have Insurance[^key-593f0a44d8cf3414cc1b0cdc5120ecef]
+
+(1) A ship may not enter or leave a port in the United Kingdom, nor if the ship is a United Kingdom ship a port in any other country, unless there is insurance in force, in respect of that ship and a certificate complying with the provisions of regulation 6.
+
+(2) The requirement for the ship to have insurance does not apply to any ship—
+
+- (a) which is not licensed to carry more that 12 passengers; or
+- (b) to which the 2009 Regulation does not apply by virtue of regulation 4 or Article 2.2 of the Athens Convention.
+
+## 6. Insurance certificates[^key-9e8aa0786f54f89f1546d175cad35235]
+
+(1) The existence of the insurance required under regulation 5 is to be proved by a certificate in the form prescribed in—
+
+- (a) the Annex to the Athens Convention; or
+- (b) appendix B of Annex II to the 2009 Regulation,
+
+showing that there is in force in respect of the ship insurance satisfying those requirements.
+
+(2) The certificate must be —
+
+- (a) if the ship is a United Kingdom ship, a certificate issued by the Secretary of State;
+- (b) if the ship is registered in a State Party (other than the United Kingdom), a certificate issued by or under the authority of the government of that State Party;
+- (c) if the ship is registered in a country which is not a State Party, a certificate issued by the Secretary of State or under the authority of any State Party;
+- (d)[^key-76bad7aa5341253e1e56fd62f97b5452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The certificate must—
+
+- (a) be carried on onboard the ship; and
+- (b) be produced on demand by the master to—
+  - (i) the Secretary of State or to any proper officer where the ship is a United Kingdom ship; or
+  - (ii) the Secretary of State in the case of any other ship.
+
+## 7. Issue of certificates by the Secretary of State[^key-031a0d995fbd3a904c6b4d75e3de752f]
+
+(1) Subject to paragraph (2), if the Secretary of State is satisfied on the application for such a certificate as is mentioned in regulation 6 in respect of —
+
+- (a) a United Kingdom ship; or
+- (b) a ship registered in any country that is not a State Party,
+
+that there will be insurance in force throughout the period for which the certificate is to be issued the Secretary of State may issue such a certificate to the carrier or performing carrier.
+
+(2) If the Secretary of State is of the opinion that there is doubt whether—
+
+- (a) the person providing the insurance will be able to meet their obligations thereunder; or
+- (b) the insurance will not cover the carrier or performing carrier’s liability under the 2009 Regulation;
+
+the Secretary of State may, after taking into account any other matters which appear to be relevant, refuse to issue the certificate.
+
+(3) Where, at any time while a certificate is in force, the person to whom the certificate has been issued ceases to be the performing carrier in relation to the ship to which the certificate relates the certificate shall be delivered up forthwith to the Secretary of State or to a proper officer and in such case shall be cancelled by the Secretary of State.
+
+(4) Where, at any time while a certificate is in force, it is established that the contract of insurance in respect of which the certificate is issued is or may be treated as invalid the certificate may be cancelled by the Secretary of State and, if so cancelled, shall on demand be delivered up to the Secretary of State by the person to whom it was issued.
+
+(5) Where, at any time while a certificate is in force, circumstances arise in relation to the insurer or guarantor named in the certificate (or where more than one is so named, any of them) such that if the certificate were applied for at that time, the Secretary of State would have been entitled to refuse the application under paragraph (2) the certificate may be cancelled by the Secretary of State and if so cancelled the certificate shall on demand be delivered up to the Secretary of State by the person to whom it was issued.
+
+(6) The Secretary of State shall send a copy of any certificate issued under this regulation in respect of a United Kingdom ship to the Registrar General of Shipping and Seamen and the Registrar shall make the copy available for public inspection.
+
+## 8. Penalties[^key-81e1b83bc796f82172e104a19cb2416c]
+
+(1) A carrier or performing carrier is guilty of an offence if—
+
+- (a) a relevant ship enters or leaves a port in contravention of regulation 5; or
+- (b) anyone attempts to navigate that ship into or out of a port in contravention of that regulation.
+
+(2) The person guilty of an offence under paragraph (1) is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum,
+- (b) on conviction on indictment to a fine.
+
+(3) A master who fails to comply with regulation 6(3) is guilty of an offence and is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(4) A person required by paragraphs (3) to (5) of regulation 7 to deliver up a certificate who fails to do so shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(5) Any document required or authorised by virtue of any statutory provision to be served on a foreign company for the purposes of or the institution of (or otherwise in connection with the institution of) proceedings for an offence under regulation 5 against the company as owner of the ship is to be treated as served on the company if the document is served on the master of the ship.
+
+(6) In this regulation foreign company means a company or body which is not one to which section 1139 of the Companies Act 2006[^f00006] applies so as to authorise the service of the document in question.
+
+## 9. Power to detain[^key-449fe8e526ad86904151f160f44b3f30]
+
+(1) A ship may be detained if anyone attempts to navigate it out of port in contravention of regulation 5.
+
+(2) Section 284 of the Act [^f00007] (which relates to the detention of a ship) is to have effect in relation to the ship, subject to the modification that for—
+
+- (a) “this Act” there were substituted “the Merchant Shipping (Carriage of Passengers by Sea) Regulations 2012”; and
+- (b) “owner” there were substituted “carrier or performing carrier”.
+
+(3) An officer detaining the ship must serve on the master of the ship a detention notice which—
+
+- (a) states the reason for the detention; and
+- (b) requires the ship to comply with the terms of the detention notice until it is released by a competent authority.
+
+(4) Where a ship is detained which is not a United Kingdom ship the Secretary of State must immediately inform, in writing—
+
+- (a) the ship’s flag state administration; or, if this is not possible,
+- (b) the Consul of the State of the flag administration; or, in the Consul’s absence,
+- (c) the nearest diplomatic representative of the State of the flag administration.
+
+(5) The written information referred to in paragraph (4) must set out all the circumstances of the decision to detain the ship.
+
+(6) Where paragraph (4) applies the Secretary of State must notify all relevant—
+
+- (a) nominated surveyors; or
+- (b) recognised organisations;
+
+responsible for the issue of classification certificates.
+
+(7) In this regulation “competent authority” means any officer mentioned in section 284(1) of the Act.
+
+## 10. Arbitration[^key-3318907a46f05da26aaaa43a28ec8c25]
+
+(1) Any question as to whether the matters specified in relation to a ship in a detention notice constituted a valid basis for the officer’s opinion must, if the master of the ship or the carrier or performing carrier so requires by notice given to the officer within 21 days from the service of the detention notice, be referred to a single arbitrator appointed by agreement between the parties for that question to be decided by the arbitrator.
+
+(2) Where notice is given by the master of the ship or the carrier or performing carrier in accordance with paragraph (1), the giving of a notice does not suspend operation of the detention notice.
+
+(3) The arbitrator may have regard to any matter not specified in the detention notice which appears to the arbitrator to be relevant as to whether or not the ship was or was not liable to be detained.
+
+(4) Where the arbitrator decides, as respects a matter to which the reference relates, that in all the circumstances the matter did not constitute a valid basis for the officers opinion, the arbitrator must—
+
+- (a) cancel the detention notice; or
+- (b) affirm it with such modifications as the arbitrator may in the circumstances think fit.
+
+(5) In any case other than one described in paragraph (4) the arbitrator must affirm the detention notice in its original form.
+
+(6) The decision of the arbitrator must include a finding whether there was or was not a valid basis for the detention of the ship.
+
+(7) To be qualified for appointment as an arbitrator under this regulation a person must be—
+
+- (a) a person holding a certificate of competency as a master mariner or as a marine engineer officer class 1, or a person holding a certificate equivalent to any such certificate;
+- (b) a naval architect;
+- (c) a person falling within paragraph (8); or
+- (d) a person with special experience of shipping matters, or of activities carried on within ports.
+
+(8) For the purposes of a paragraph 7(c) a person falls within this sub-paragraph if that person—
+
+- (a) satisfies the judicial appointment eligibility condition on a 7 year basis within the meaning of section 50 of the Tribunals, Courts and Enforcement Act 2007[^f00008];
+- (b) is an advocate or solicitor in Scotland of at least 7 years’ standing;
+- (c) is a member of the bar of Northern Ireland or a solicitor of the Court of Judicature of Northern Ireland of at least 7 years’ standing.
+
+(9) In the application of this regulation to Scotland any reference to an arbitrator is to be construed as a reference to an arbiter, and the reference in paragraph (1) to a single arbitrator appointed by agreement between the parties is to be construed as a reference to a single arbiter so appointed, or, in default of agreement, appointed by the sheriff.
+
+## 11. Compensation for unjustified detention[^key-de39fa73a8a699c3e15708a8157f66c8]
+
+(1) If, on a reference under regulation 10 relating to a detention notice, the arbitrator decides that the person making the reference has proved—
+
+- (a) that the matter complained of did not constitute a valid basis for the officer’s opinion; and
+- (b) that there were no reasonable grounds for the issue of the detention notice;
+
+the arbitrator must award the owner of the ship such compensation in respect of any loss suffered in consequence of the detention of the ship as the arbitrator thinks fit.
+
+(2) Any compensation awarded under this regulation is payable by the Secretary of State.
+
+(3) In the application of this regulation to Scotland any reference to an arbitrator is to be construed as a reference to an arbiter.
+
+## 12. Provision of information to passengers[^key-6843f5e4833cb28e2eab49fb2441a23e]
+
+A carrier or performing carrier which fails to supply a passenger with the information specified in article 7 of the 2009 Regulation is guilty of an offence and is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+## 13. Fees[^key-4ebda30ca6059537c6db480d43dbbb45]
+
+The Secretary of State may charge a fee of £31.00 for the issue of a certificate mentioned in regulation 6(1).
+
+## 14. Disapplication of section 183 of the Merchant Shipping Act 1995[^key-83c017a00d7b79a355a2d8d7ec7cf930]
+
+(1) Section 183 of the Act (scheduled convention to have force of law) is amended as follows.
+
+(2) After subsection (2) insert—
+
+> (2A) But—
+>
+> - (a) subsection (1) does not give the force of law in the United Kingdom to provisions to the extent that they apply to cases in which EC Regulation No. 392/2009 applies; and
+> - (b) the provisions of Part 2 of that Schedule do not have effect in such cases.
+
+.
+
+(3) In subsection (5)—
+
+- (a) for the first “or (2)” substitute “, (2) or (2A)”, and
+- (b) for “the said subsection (1) or (2) above” substitute “the subsection”.
+
+(4) After subsection (7) insert—
+
+> (8) In this section “EC Regulation No. 392/2009” means Regulation [(EC) No. 329/2009](https://www.legislation.gov.uk/european/regulation/2009/0329) of the European Parliament and of the Council of 23 April 2009 on the liability of carriers of passengers by sea in the event of accidents.
+
+.
+
+## 15. Review[^key-80eb02b18210a59f5b20d934c1a089a5]
+
+(1) The Secretary of State must from time to time —
+
+- (a) carry out a review of regulations 2 to 13,
+- (b) set out the conclusions of the review in the a report; and
+- (c) publish the report.
+
+(2)[^key-cde5e2c6b335817db23b545475a158df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by those regulations,
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before 12th January 2018.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Signed by authority of the Secretary of State for Transport
+
+Simon Burns
+
+Minister of State
+
+Department for Transport
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made to support the operation of Regulation [(EC) No. 392/2009](https://www.legislation.gov.uk/european/regulation/2009/0392) of the European Parliament and of the Council on the liability of carriers of passengers by sea in the event of accidents (O.J. L131, 28.5.2009, p.24) (“the 2009 Regulation”) which comes into effect on 31st December 2012.
+
+The 2009 Regulation creates a regime relating to liability and insurance for the carriage of passengers by sea as set out in the relevant provisions of the Athens Convention relating to the Carriage of Passengers and the Luggage by Sea, 1974, as amended by the Protocol of 2002 (“the Athens Convention”). The 2009 Regulation also adopts the International Maritime Organisation’s (“IMO”) Reservation and Guidelines for the implementation of the Athens Convention adopted by the Legal Committee of the IMO on 19th October 2006.
+
+These Regulations apply to all international carriage where the ship is registered in the United Kingdom, the contract of carriage has been made in the United Kingdom or the place of departure or destination is in the United Kingdom *(Regulation 3)*. They also apply to domestic voyages within the United Kingdom on board Class A ships, on or after 30th December 2016 and Class B ships on or after 30th December 2018 *(Regulation 4).* Class A and Class B ships are defined in article 4(1) of Directive [2009/45/EC](https://www.legislation.gov.uk/european/directive/2009/0045) of 25 June 2009 on safety rules and standards for passenger ships (O.J. L. 163, 25.6.2009, p.1) by reference to the sea areas in which they operate. Class B ships are passenger ships engaged on domestic voyages where they are at no point more than 20 miles from the line of coast. Ships falling within the description of Class A are those engaged on domestic voyages operating at greater distances from the coast.
+
+Ships must have insurance (Regulation 5) as evidenced by a certificate (Regulation 6). The Athens Convention sets a minimum level for insurance at 250,000 units of account per passenger on each occasion. Certificates may be issued in the United Kingdom by the Secretary of State (Regulation 7) and must be carried on board the ship and produced on demand (Regulation 6). Failure to comply with the insurance obligations or to produce the certificate are offences (Regulation 8) and the ship may be detained (Regulation 9). Where the validity of a detention is questioned the matter may be referred to arbitration (Regulation 10) and compensation may be awarded (Regulation 11).
+
+The Regulations also require that passengers are supplied with information relating to their rights under the 2009 Regulation and failure to do this constitutes an offence *(Regulation 12)*.
+
+A fee of £31.00 will be charged for the issue of a certificate *(Regulation 13).*
+
+The original Athens Convention, which is incorporated into United Kingdom law through Schedule 6 to the Merchant Shipping Act 1995, will no longer apply to the carriage of passengers to which the 2009 Regulation is applied by these Regulations *(Regulation 14).*
+
+These Regulations require the Secretary of State to review the operation and effect of these Regulations and publish a report within five years after they come fully into force and within every five years after that. Following a review it will fall to the Secretary of State to consider whether the Regulations should remain as they are, or be revoked or be amended. A further instrument would be needed to revoke the Regulations or to amend them.
+
+An impact assessment of the effect these Regulations will have on the costs of the business and the voluntary sector is available from the Department for Transport, Great Minster House, 33 Horseferry Road, London SW1P 4DR. A copy has been placed in the library of each House of Parliament. The impact assessment is annexed to the Explanatory Memorandum which is available alongside these Regulations at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I.1994/757](https://www.legislation.gov.uk/uksi/1994/757).
+
+[^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). By virtue of the amendment of section 1(2) of the European Communities Act 1972 by section 1 of the European Economic Area Act [1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) of the European Communities Act 1972 to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1972 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993 (Cm 2183).
+
+[^key-d0611efea5161fde35b695ab3ba99114]: Commencement: Reg. 1 in force at 12.1.2013 in force in accordance with reg. 1(2)
+
+[^key-9f6eb3ccb29b6560a5a33747af4c45e1]: Commencement: Reg. 2 in force at 31.12.2012 in force in accordance with reg. 1(2)
+
+[^f00003]: Footnote: O.J. L.131, 28.5.2009, P.24.
+
+[^f00004]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^key-5a53239c812a62883285069841d8538c]: Commencement: Reg. 3 in force at 12.1.2013 in force in accordance with reg. 1(2)
+
+[^key-c01445cbdbbdaf3c28f81aaf4005c868]: Commencement: Reg. 4 in force at 31.12.2012 in force in accordance with reg. 1(2)
+
+[^f00005]: Footnote: The 2009 Regulation refers to the ship classifications set out article 4 of Council Directive [98/18/EC](https://www.legislation.gov.uk/european/directive/1998/0018) on safety rules and standards for passenger ships (O.J. L 144, 15.5.1998, p.1). This operates as a reference to article 4(1) of Directive [2009/45/EC](https://www.legislation.gov.uk/european/directive/2009/0045) of the European Parliament and of the Council on safety rules and standards for passenger ships (O.J. L 163, 25.6.2009, p.1) by virtue of article 17 of that Directive. Under the Directive ships are classified by reference to the sea areas in which they operate.
+
+[^key-593f0a44d8cf3414cc1b0cdc5120ecef]: Commencement: Reg. 5 in force at 12.1.2013 in force in accordance with reg. 1(2)
+
+[^key-9e8aa0786f54f89f1546d175cad35235]: Commencement: Reg. 6 in force at 12.1.2013 in force in accordance with reg. 1(2)
+
+[^key-76bad7aa5341253e1e56fd62f97b5452]: Textual amendment: [Reg. 6(2)(d)](https://www.legislation.gov.uk/uksi/2012/3152/regulation/6/2/d) omitted (31.12.2020) by virtue of [The Merchant Shipping (Passengers' Rights) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/649)](https://www.legislation.gov.uk/uksi/2019/649), [regs. 1](https://www.legislation.gov.uk/uksi/2019/649/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/649/regulation/3/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/649/regulation/9)) (as amended by [S.I. 2020/1000](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/1000/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-031a0d995fbd3a904c6b4d75e3de752f]: Commencement: Reg. 7 in force at 12.1.2013 in force in accordance with reg. 1(2)
+
+[^key-81e1b83bc796f82172e104a19cb2416c]: Commencement: Reg. 8 in force at 12.1.2013 in force in accordance with reg. 1(2)
+
+[^f00006]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-449fe8e526ad86904151f160f44b3f30]: Commencement: Reg. 9 in force at 12.1.2013 in force in accordance with reg. 1(2)
+
+[^f00007]: Footnote: Section 284 was amended by the Merchant Shipping and Maritime Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28) Schedule 1.
+
+[^key-3318907a46f05da26aaaa43a28ec8c25]: Commencement: Reg. 10 in force at 12.1.2013 in force in accordance with reg. 1(2)
+
+[^f00008]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).
+
+[^key-de39fa73a8a699c3e15708a8157f66c8]: Commencement: Reg. 11 in force at 12.1.2013 in force in accordance with reg. 1(2)
+
+[^key-6843f5e4833cb28e2eab49fb2441a23e]: Commencement: Reg. 12 in force at 12.1.2013 in force in accordance with reg. 1(2)
+
+[^key-4ebda30ca6059537c6db480d43dbbb45]: Commencement: Reg. 13 in force at 12.1.2013 in force in accordance with reg. 1(2)
+
+[^key-83c017a00d7b79a355a2d8d7ec7cf930]: Commencement: Reg. 14 in force at 12.1.2013 in force in accordance with reg. 1(2)
+
+[^key-80eb02b18210a59f5b20d934c1a089a5]: Commencement: Reg. 15 in force at 12.1.2013 in force in accordance with reg. 1(2)
+
+[^key-cde5e2c6b335817db23b545475a158df]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/uksi/2012/3152/regulation/15/2) omitted (31.12.2020) by virtue of [The Merchant Shipping (Passengers' Rights) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/649)](https://www.legislation.gov.uk/uksi/2019/649), [regs. 1](https://www.legislation.gov.uk/uksi/2019/649/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/649/regulation/3/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/649/regulation/9)) (as amended by [S.I. 2020/1000](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/1000/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

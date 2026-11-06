@@ -1,0 +1,319 @@
+---
+title: The Cultural Test (Video Games) Regulations 2014
+id: uksi/2014/1958
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-07-22'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/1958
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/1958/pdfs/uksiem_20141958_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1958/pdfs/uksi_20141958_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1958/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Cultural Test (Video Games) Regulations 2014
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2014 No. 1958
+
+Corporation Tax
+
+The Cultural Test (Video Games) Regulations 2014
+
+Made
+
+22nd July 2014
+
+Laid before the House of Commons
+
+24th July 2014
+
+Coming into force
+
+19th August 2014
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 1217CB and 1217CC(7) of the Corporation Tax Act 2009 [^c22177951].
+
+Regulations 4 to 11 of these Regulations are made with the approval of the Treasury in accordance with section 1217CB(2) of that Act.
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Cultural Test (Video Games) Regulations 2014.
+
+(2) They come into force on 19th August 2014.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “**the Act**” means the Corporation Tax Act 2009;
+- “**development team**” means all the persons directly involved in the development of the video game;
+- “**heads of department**” means the lead gameplay programmer, the lead gameplay designer, the lead level designer, the lead character artist, the lead sound designer, the lead graphics programmer and the lead level artist;
+- “**qualifying person**” means a national of, or a person ordinarily resident in, the United Kingdom or[^key-865bc77e8571466c0db08da04a2374ba] an EEA state; and
+- “**recognised regional or minority language**” means Welsh, Scottish-Gaelic, Irish, Scots, Ulster Scots, Cornish or British Sign Language.
+
+## 3.
+
+For the purposes of these Regulations—
+
+- (a) a video game is set in the United Kingdom or an EEA state[^key-df03220e73f1add2e4db1552c4a44b88] to the extent that it is set in a country which is now part of the United Kingdom or an EEA state;
+- (b) a person or character in a video game is from the United Kingdom or an EEA state[^key-ace6fb680d37381e380a8c1277ba3471] if the person or character is a national or resident of the United Kingdom or an EEA state (or was a national or resident of a country which is now part of the United Kingdom or an EEA state);
+- (c) a video game depicts a British story or a story which relates to an EEA state[^key-ebf3008752367ca8a20e3380650c8dc3] if the subject matter of the video game (or the underlying material on which the video game is based) is British or relates to an EEA state; and
+- (d) the amount of work for the purposes of regulation 9 (where work carried out) is determined by reference to the amount of expenditure on the work.
+
+## 4. Cultural test: video games
+
+A video game will be certified by the Secretary of State as a British video game under section 1217CB(1) of the Act only if it passes the following cultural test.
+
+## 5.
+
+Subject to regulation 6, a video game passes the cultural test if it is awarded at least 16 points in total under regulations 7 to 10.
+
+## 6.
+
+A video game that is awarded all the points available under regulations 7(d) (language), 9 (where work carried out) and 10 (personnel) will not pass the cultural test unless it is awarded—
+
+- (a) at least 2 points under regulation 7(a) (setting);
+- (b) at least 2 points under regulation 7(b) (characters); or
+- (c) 4 points under regulation 7(c) (story).
+
+## 7.
+
+Up to 16 points will be awarded in respect of the content of the video game as follows—
+
+- (a) up to 4 points depending on the percentage of the video game that is set in the United Kingdom or an EEA state[^key-d5809551077693a5480d3e6b56f71107] as follows—
+  - (i) 4 points for at least 75%;
+  - (ii) 3 points for at least 66%;
+  - (iii) 2 points for at least 50%;
+  - (iv) 1 point for at least 25;
+- (b) up to 4 points depending on the number of the characters depicted in the video game that are from the United Kingdom or an EEA state[^key-d607fad5a2d149131819ca2cf8dd0ba1] as follows—
+  - (i) if there are more than three characters depicted in the video game—
+    - (aa) if two or three of the three lead characters are from the United Kingdom or an EEA state[^key-9cd5286dd7e96787315f40ec5ac24883], 4 points;
+    - (bb) if only one of the three lead characters is from the United Kingdom or an EEA state[^key-49ba64a60cf967abaeab0764dcd813a4], 2 points if that character is the first or second lead, or 1 point if that character is the third lead;
+  - (ii) if there are only three characters depicted in the video game—
+    - (aa) if two or three of the characters are from the United Kingdom or an EEA state[^key-bf93534963d2ae1eee4211a4e046b560], 4 points;
+    - (bb) if only one of the characters is from the United Kingdom or an EEA state[^key-b78c043a1e3a4cbdf0478862adaabdc1], 2 points if that character is the first or second lead, or 1 point if that character is the third lead;
+  - (iii) if there are only two characters depicted in the video game—
+    - (aa) if both of the characters are from the United Kingdom or an EEA state[^key-3d926ec0de8e003cd009cae499b38871], 4 points;
+    - (bb) if one of the characters is from the United Kingdom or an EEA state[^key-c34f13dee1061b42a6743e46d77d56b4], 2 points; and
+  - (iv) if there is only one character depicted in the video game, 4 points if that character is from the United Kingdom or an EEA state[^key-02e0136c0ce66e45e3e41959ef0aa32b];
+- (c) 4 points if the video game depicts a British story or a story which relates to an EEA state[^key-b0db09eae37b6c5b09d7e0ed5b3bdbb9];
+- (d) Up to 4 points depending on the percentage of the original dialogue that is recorded in the English language or a recognised regional or minority language as follows—
+  - (i) 4 points for at least 75%;
+  - (ii) 3 points for at least 66%;
+  - (iii) 2 points for at least 50%;
+  - (iv) 1 point for at least 25%.
+
+## 8.
+
+Up to 4 points will be awarded in respect of the contribution of the video game to the promotion, development and enhancement of British culture.
+
+## 9.
+
+(1) Subject to paragraph (2), up to 3 points will be awarded in respect of work carried out in the making of the video game as follows—
+
+- (a) 2 points if at least 50% of the work carried out on any of the following is carried out in the United Kingdom—
+  - (i) conceptual development;
+  - (ii) storyboarding;
+  - (iii) programming;
+  - (iv) design;
+- (b) 1 point if at least 50% of the work carried out on any of the following is carried out in the United Kingdom—
+  - (i) performing and recording the music score created for the video game;
+  - (ii) voice recording;
+  - (iii) audio production.
+
+(2) No points will be awarded in respect of work the expenditure on which is, in the opinion of the Secretary of State, insignificant in relation to all the expenditure on all the work carried out in the making of the video game.
+
+## 10.
+
+Up to 8 points will be awarded in respect of the personnel involved in the making of the video game as follows—
+
+- (a) 1 point if the project leader (or, if there is more than one, the main project leader) is a qualifying person;
+- (b) 1 point if at least one of the scriptwriters (or, if there are more than three, one of the three lead scriptwriters) is a qualifying person;
+- (c) 1 point if the composer (or, if there is more than one, the lead composer) is a qualifying person;
+- (d) 1 point if the artist (or if there is more than one, the lead artist) is a qualifying person;
+- (e) 1 point if the programmer (or, if there is more than one, the lead programmer) is a qualifying person;
+- (f) 1 point if the designer (or, if there is more than one, the lead designer) is a qualifying person;
+- (g) 1 point if at least one of the heads of department is a qualifying person;
+- (h) 1 point if at least 50% of the development team are qualifying persons.
+
+## 11.
+
+(1) A video game which is set in, or in which any character is from, an undetermined location is eligible to be awarded points under paragraphs 7(a)(ii)-(iv) (setting) and 7(b) (characters) of regulation 7 as if that location were in the United Kingdom or an EEA state[^key-63592a69d590ec90be40363b7334a937], provided it complies with the following condition.
+
+(2) The condition is that the video game is awarded at least one point under any of—
+
+- (a) regulation 7(c) (story);
+- (b) regulation 7(d) (language); or
+- (c) regulation 8 (culture).
+
+## 12. Applications and particulars
+
+(1) An application under section 1217CC(1) of the Act for certification of a video game as a British video game must—
+
+- (a) be made in writing to the Secretary of State; and
+- (b) set out (where applicable) the particulars described in the Schedule for that video game.
+
+(2) For the purposes of this regulation, “**in writing**” includes text which is—
+
+- (a) transmitted by electronic means;
+- (b) received in legible form; and
+- (c) capable of being used for subsequent reference.
+
+## 13. Evidence
+
+(1) An application must be accompanied by a statutory declaration made by the applicant as to the truth of the particulars given in the application.
+
+(2) A statutory declaration will be deemed to be properly made by the applicant if it has been made on behalf of the company [^c22177961] by the secretary or one of the directors of the company or by any person duly authorised by the company to make the declaration on its behalf.
+
+## 14.
+
+(1) If an application for final certification seeks the award of any point under—
+
+- (a) regulation 9 (where work carried out); or
+- (b) regulation 10 (personnel),
+
+the application must be accompanied by a report prepared by a person referred to in paragraph (2) verifying (where applicable) the particulars in paragraphs 12 and 13 of the Schedule.
+
+(2) The person referred to in this paragraph is a person who is eligible for appointment as a statutory auditor under section 1212 of the Companies Act 2006 [^c22177971] and is not and was not at any time while the video game was being made—
+
+- (a) in partnership with the applicant or any officer or servant of the applicant;
+- (b) in the employment of the applicant or any officer or servant of the applicant; or
+- (c) an officer or servant of the applicant or, if the applicant is a member of a group of companies, of any other company in that group.
+
+(3) In this regulation, “**group of companies**” means a company and all other companies which are its subsidiaries within the meaning of section 1159 of the Companies Act 2006.
+
+Ed Vaizey
+
+Minister of State
+
+Department for Culture, Media and Sport
+
+Department for Business, Innovation and Skills
+
+We approve,
+
+David Evennett
+
+John Penrose
+
+Two Lord Commissioners of Her Majesty's Treasury
+
+## SCHEDULE — PARTICULARS
+
+Regulation 12(1)(b)
+
+**1.** Title of video game.
+
+**2.** Whether the application is for interim or final certification.
+
+**3.** Whether the video game is intended for supply to the general public.
+
+**4.** Name of the applicant.
+
+**5.** Address of the applicant's principal place of business.
+
+**6.** Address of the applicant's registered office.
+
+**7.** Registered number of the applicant.
+
+**8.** Date of registration of the applicant.
+
+**9.** Date on which the video game was completed within the meaning of section 1217AA(4) of the Act.
+
+**10.** The reasons why any point should be awarded under regulation 7 (cultural content).
+
+**11.** The reasons why any point should be awarded under regulation 8 (culture).
+
+**12.** In respect of any point claimed under regulation 9 (where work carried out)—
+
+- (a) the total expenditure on that work; and
+- (b) the expenditure on such work as was carried out in the United Kingdom.
+
+**13.** The nationality or ordinary residence of all the persons mentioned in regulation 10 (personnel) in relation to whom the applicant is applying for a point to be awarded.
+
+**14.** Total core expenditure [^c22177981].
+
+**15.** Total EEA expenditure [^c22177991].
+
+**16.** Total UK expenditure.
+
+**17.** Total non-EEA expenditure by reference to each country in which the expenditure is carried out.
+
+**18.** Other expenditure, meaning all the expenditure on the work varied out in the making of the video game which is not core expenditure.
+
+**19.** Script in the English language.
+
+**20.** A complete synopsis of the video game in the English language.
+
+**21.** Game design documents.
+
+**22.** Production schedule.
+
+**23.** Production budget.
+
+**24.** Copy of the chain of title in the video game.
+
+**25.** For the purposes of this Schedule, “**UK expenditure**” means expenditure on goods or services that are provided from within the United Kingdom”.
+
+*(This note is not part of the Regulations)*
+
+These Regulations introduce a points-based “cultural test” for video games. The purpose of the test is to determine whether a video game may be certified as a “British video game” by the Secretary of State under Part 15B of the Corporation Tax Act 2009. Points under the test are awarded on the basis of the setting, content, language and British cultural aspects of the game, where certain work on the game is carried out, and the residence or nationality of the personnel involved in the making of the video game. Certification as a British video game is a condition of eligibility for video games tax relief under that Act.
+
+These Regulations also prescribe the particulars and evidence that must be provided to the Secretary of State in support of an application for certification. They also make provision for the making of a statutory declaration on behalf of a company.
+
+The impact on business, charities or voluntary bodies arising from this instrument has been included in the Tax Information and Impact Notes prepared for the Finance Act 2013 which was published alongside the budget on 20th March 2013. The Notes are available on the HMRC website at http://www.hmrc.gov.uk/tiin/2012/tiin2060.htm. The Notes remain an accurate summary of the impacts. No significant impact on the public sector is foreseen, and therefore no separate impact assessment has been prepared for this instrument.
+
+## Annotations
+
+[^c22177951]: Marginal citation: [2009 c.4](https://www.legislation.gov.uk/ukpga/2009/4). Part 15B of the Act, which contains sections 1217CB and 1217CC, was inserted by Schedule 17 to the [Finance Act 2013 (c.29)](https://www.legislation.gov.uk/ukpga/2013/29). It was further amended by section 34 of the [Finance Act 2014 (c.26)](https://www.legislation.gov.uk/ukpga/2014/26).
+
+[^key-865bc77e8571466c0db08da04a2374ba]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/1958/regulation/2) inserted (31.12.2020) by [The Cultural Tests (Films, Television Programmes and Video Games) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1105)](https://www.legislation.gov.uk/uksi/2018/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1105/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/1105/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-df03220e73f1add2e4db1552c4a44b88]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2014/1958/regulation/3/a) substituted (31.12.2020) by [The Cultural Tests (Films, Television Programmes and Video Games) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1105)](https://www.legislation.gov.uk/uksi/2018/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1105/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2018/1105/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ace6fb680d37381e380a8c1277ba3471]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/uksi/2014/1958/regulation/3/b) substituted (31.12.2020) by [The Cultural Tests (Films, Television Programmes and Video Games) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1105)](https://www.legislation.gov.uk/uksi/2018/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1105/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2018/1105/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ebf3008752367ca8a20e3380650c8dc3]: Textual amendment: Words in [reg. 3(c)](https://www.legislation.gov.uk/uksi/2014/1958/regulation/3/c) substituted (31.12.2020) by [The Cultural Tests (Films, Television Programmes and Video Games) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1105)](https://www.legislation.gov.uk/uksi/2018/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1105/regulation/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2018/1105/regulation/4/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d5809551077693a5480d3e6b56f71107]: Textual amendment: Words in [reg. 7(a)](https://www.legislation.gov.uk/uksi/2014/1958/regulation/7/a) substituted (31.12.2020) by [The Cultural Tests (Films, Television Programmes and Video Games) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1105)](https://www.legislation.gov.uk/uksi/2018/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1105/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2018/1105/regulation/4/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d607fad5a2d149131819ca2cf8dd0ba1]: Textual amendment: Words in [reg. 7(b)](https://www.legislation.gov.uk/uksi/2014/1958/regulation/7/b) substituted (31.12.2020) by [The Cultural Tests (Films, Television Programmes and Video Games) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1105)](https://www.legislation.gov.uk/uksi/2018/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1105/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2018/1105/regulation/4/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9cd5286dd7e96787315f40ec5ac24883]: Textual amendment: Words in [reg. 7(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2014/1958/regulation/7/b/aa) substituted (31.12.2020) by [The Cultural Tests (Films, Television Programmes and Video Games) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1105)](https://www.legislation.gov.uk/uksi/2018/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1105/regulation/1), [4(4)(c)](https://www.legislation.gov.uk/uksi/2018/1105/regulation/4/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-49ba64a60cf967abaeab0764dcd813a4]: Textual amendment: Words in [reg. 7(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2014/1958/regulation/7/b/bb) substituted (31.12.2020) by [The Cultural Tests (Films, Television Programmes and Video Games) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1105)](https://www.legislation.gov.uk/uksi/2018/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1105/regulation/1), [4(4)(d)](https://www.legislation.gov.uk/uksi/2018/1105/regulation/4/4/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bf93534963d2ae1eee4211a4e046b560]: Textual amendment: Words in [reg. 7(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2014/1958/regulation/7/b/aa) substituted (31.12.2020) by [The Cultural Tests (Films, Television Programmes and Video Games) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1105)](https://www.legislation.gov.uk/uksi/2018/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1105/regulation/1), [4(4)(e)](https://www.legislation.gov.uk/uksi/2018/1105/regulation/4/4/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b78c043a1e3a4cbdf0478862adaabdc1]: Textual amendment: Words in [reg. 7(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2014/1958/regulation/7/b/bb) substituted (31.12.2020) by [The Cultural Tests (Films, Television Programmes and Video Games) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1105)](https://www.legislation.gov.uk/uksi/2018/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1105/regulation/1), [4(4)(f)](https://www.legislation.gov.uk/uksi/2018/1105/regulation/4/4/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3d926ec0de8e003cd009cae499b38871]: Textual amendment: Words in [reg. 7(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2014/1958/regulation/7/b/aa) substituted (31.12.2020) by [The Cultural Tests (Films, Television Programmes and Video Games) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1105)](https://www.legislation.gov.uk/uksi/2018/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1105/regulation/1), [4(4)(g)](https://www.legislation.gov.uk/uksi/2018/1105/regulation/4/4/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c34f13dee1061b42a6743e46d77d56b4]: Textual amendment: Words in [reg. 7(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2014/1958/regulation/7/b/bb) substituted (31.12.2020) by [The Cultural Tests (Films, Television Programmes and Video Games) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1105)](https://www.legislation.gov.uk/uksi/2018/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1105/regulation/1), [4(4)(h)](https://www.legislation.gov.uk/uksi/2018/1105/regulation/4/4/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-02e0136c0ce66e45e3e41959ef0aa32b]: Textual amendment: Words in [reg. 7(b)(iv)](https://www.legislation.gov.uk/uksi/2014/1958/regulation/7/b/iv) substituted (31.12.2020) by [The Cultural Tests (Films, Television Programmes and Video Games) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1105)](https://www.legislation.gov.uk/uksi/2018/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1105/regulation/1), [4(4)(i)](https://www.legislation.gov.uk/uksi/2018/1105/regulation/4/4/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b0db09eae37b6c5b09d7e0ed5b3bdbb9]: Textual amendment: Words in [reg. 7(c)](https://www.legislation.gov.uk/uksi/2014/1958/regulation/7/c) substituted (31.12.2020) by [The Cultural Tests (Films, Television Programmes and Video Games) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1105)](https://www.legislation.gov.uk/uksi/2018/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1105/regulation/1), [4(4)(j)](https://www.legislation.gov.uk/uksi/2018/1105/regulation/4/4/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-63592a69d590ec90be40363b7334a937]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2014/1958/regulation/11/1) substituted (31.12.2020) by [The Cultural Tests (Films, Television Programmes and Video Games) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1105)](https://www.legislation.gov.uk/uksi/2018/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1105/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2018/1105/regulation/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22177961]: Marginal citation: An application for certification of a video game as a British video game is to be made by the Secretary of State by the video games development company: see [section 1217CC(1)](https://www.legislation.gov.uk/uksi/2014/1958/section/1217CC/1) of the Act. “Video games development company” is defined in section 1217AB of the Act.
+
+[^c22177971]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c22177981]: Marginal citation: “Core expenditure” is defined in section 1217AD of the Act.
+
+[^c22177991]: Marginal citation: “EEA expenditure” is defined in section 1217AE of the Act, as amended by section 34 of the Finance Act 2014 (c.\*\*).

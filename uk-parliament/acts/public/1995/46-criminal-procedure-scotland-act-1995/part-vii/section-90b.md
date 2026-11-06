@@ -1,0 +1,84 @@
+---
+title: Criminal Procedure (Scotland) Act 1995, section 90B
+act: Criminal Procedure (Scotland) Act 1995
+section: 90B
+status: revised-with-pending-changes
+text_date: '2026-11-02'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1995/46/section/90B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Procedure (Scotland) Act 1995, section 90B
+
+> **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 90B. Orders in respect of witnesses apprehended under section 90A[^c18971201]
+
+*Extent: S*
+
+(1) Where a witness is brought before the court in pursuance of a warrant issued under section 90A of this Act, the court shall, after giving the parties and the witness an opportunity to be heard, make an order—
+
+- (a) detaining the witness until the conclusion of the diet at which the witness is to give evidence;
+- (b) releasing the witness on bail; or
+- (c) liberating the witness.
+
+(2) The court may make an order under subsection (1)(a) or (b) above only if it is satisfied that—
+
+- (a) the order is necessary with a view to securing that the witness appears at the diet at which the witness is to give evidence; and
+- (b) it is appropriate in all the circumstances to make the order.
+
+(2A)[^c19799911] Whenever the court makes an order under subsection (1) above, it shall state the reasons for the terms of the order.
+
+(3) Subsection (1) above is without prejudice to any power of the court to—
+
+- (a) make a finding of contempt of court in respect of any failure of a witness to appear at a diet to which he has been duly cited; and
+- (b) dispose of the case accordingly.
+
+(4) Where—
+
+- (a) an order under subsection (1)(a) above has been made in respect of a witness; and
+- (b) at, but before the conclusion of, the diet at which the witness is to give evidence, the court in which the diet is being held excuses the witness,
+
+that court, on excusing the witness, may recall the order under subsection (1)(a) above and liberate the witness.
+
+(5) On making an order under subsection (1)(b) above in respect of a witness, the court shall impose such conditions as it considers necessary with a view to securing that the witness appears at the diet at which he is to give evidence.
+
+(6) However, the court may not impose as such a condition a requirement that the witness or a cautioner on his behalf deposit a sum of money in court.
+
+(7) Where the court makes an order under subsection (1)(a) above in respect of a witness, the court shall, on the application of the witness—
+
+- (a) consider whether the imposition of a remote monitoring requirement would enable it to make an order under subsection (1)(b) above releasing the witness on bail subject to a movement restriction condition; and
+- (b) if so—
+  - (i) make an order under subsection (1)(b) above releasing the witness on bail subject to such a condition (as well as such other conditions required to be imposed under subsection (5) above); and
+  - (ii) in the order, impose, as a further condition under subsection (5) above, a remote monitoring requirement.
+
+(8) Subsections (7) to (19) of section 24A of this Act apply in relation to remote monitoring requirements imposed under subsection (7)(b)(ii) above and to the imposing of such requirements as they apply to remote monitoring requirements imposed under section 24A(1) or (2) of this Act and the imposing of such requirements, but with the following modifications—
+
+- (a) references to a remote monitoring requirement imposed under section 24A(1) or (2) of this Act shall be read as if they included references to a remote monitoring requirement imposed under subsection (7)(b)(ii) above;
+- (b) references to the accused shall be read as if they were references to the witness in respect of whom the order under subsection (1)(b) above is made.
+
+(9) The powers conferred and duties imposed by sections 24B to 24D of this Act are exercisable in relation to remote monitoring requirements imposed under subsection (7)(b)(ii) above as they are exercisable in relation to remote monitoring requirements imposed under subsection (1) or (2) of section 24A of this Act; and—
+
+- (a) references in those sections to remote monitoring requirements shall be read accordingly; and
+- (b) references to the imposition of any requirement as a further condition of bail shall be read as if they were references to the imposition of the requirement as a further condition under subsection (5) above.
+
+(10) Section 25 of this Act (which makes provision for an order granting bail to specify the conditions imposed on bail and the accused’s proper domicile of citation) shall apply in relation to an order under subsection (1)(b) above as it applies to an order granting bail, but with the following modifications—
+
+- (a) references to the accused shall be read as if they were references to the witness in respect of whom the order under subsection (1)(b) above is made;
+- (b) references to the order granting bail shall be read as if they were references to the order under subsection (1)(b) above;
+- (c) subsection (3) shall be read as if for the words from “relating” to “offence” in the third place where it occurs there were substituted at which the witness is to give evidence.
+
+(11) In this section—
+
+- (a) “**a movement restriction condition**” means, in relation to a witness released on bail under subsection (1)(b) above, a condition imposed under subsection (5) above restricting the witness’s movements, including such a condition requiring the witness to be, or not to be, in any place or description of place for, or during, any period or periods or at any time; and
+- (b) “**a remote monitoring requirement**” means, in relation to a movement restriction condition, a requirement that compliance with the condition be remotely monitored.
+
+## Annotations
+
+[^c18971201]: Textual amendment: [Ss. 90A-90E](https://www.legislation.gov.uk/ukpga/1995/46/section/90A) inserted (1.2.2005 for specified purposes and otherwise prosp.) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (asp 5)](https://www.legislation.gov.uk/asp/2004/5), [ss. 11](https://www.legislation.gov.uk/asp/2004/5/section/11), [27(1)](https://www.legislation.gov.uk/asp/2004/5/section/27/1); [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2](https://www.legislation.gov.uk/ssi/2004/405/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with transitional provision in [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+
+[^c19799911]: Textual amendment: [S. 90B(2A)](https://www.legislation.gov.uk/ukpga/1995/46/section/90B/2A) inserted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 27(1)](https://www.legislation.gov.uk/asp/2007/6/section/27/1), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S. I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))

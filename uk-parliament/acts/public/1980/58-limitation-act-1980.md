@@ -1,0 +1,1816 @@
+---
+title: Limitation Act 1980
+id: ukpga/1980/58
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1980-11-13'
+text_date: '2026-06-29'
+extent: E+W+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1980/58
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1980/58/pdfs/ukpga_19800058_en.pdf
+- http://www.legislation.gov.uk/ukpga/1980/58/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Limitation Act 1980
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/58
+>
+> Extent: England, Wales, Northern Ireland.
+
+*Extent: E+W+N.I.*
+
+*Extent: E+W*
+
+Limitation Act 1980
+
+1980 c. 58
+
+An Act to consolidate the Limitation Acts 1939 to 1980.
+
+\[13th November 1980\][^c808949][^c808950][^c808951][^c808952][^c808953][^c1858003][^c1880267][^key-6793453ab8d86a43415477074a1b8355][^key-0832799d82d880e2c62cb64bce162a80][^key-52b660a56d6171a75b5ea79ec9a8f62e][^key-03fbc8ccec1c16ba203fb8e0399be80b][^key-98c9aa793a86093382ca75f2362e8062][^key-97b9e0ab782157ebb7092d71d7c71a19]
+
+## Part I — Ordinary Time Limits for Different Classes of Action
+
+*Extent: E+W*
+
+### Time limits under Part I subject to extension or exclusion under Part II
+
+#### 1. Time limits under Part I subject to extension or exclusion under Part II.
+
+(1) This Part of this Act gives the ordinary time limits for bringing actions of the various classes mentioned in the following provisions of this Part.
+
+(2) The ordinary time limits given in this Part of this Act are subject to extension or exclusion in accordance with the provisions of Part II of this Act.
+
+### Actions founded on tort
+
+#### 2. Time limit for actions founded on tort.
+
+An action founded on tort shall not be brought after the expiration of six years from the date on which the cause of action accrued.
+
+#### 3. Time limit in case of successive conversions and extinction of title of owner of converted goods.
+
+(1) Where any cause of action in respect of the conversion of a chattel has accrued to any person and, before he recovers possession of the chattel, a further conversion takes place, no action shall be brought in respect of the further conversion after the expiration of six years from the accrual of the cause of action in respect of the original conversion.
+
+(2) Where any such cause of action has accrued to any person and the period prescribed for bringing that action has expired and he has not during that period recovered possession of the chattel, the title of that person to the chattel shall be extinguished.
+
+#### 4. Special time limit in case of theft.
+
+(1) The right of any person from whom a chattel is stolen to bring an action in respect of the theft shall not be subject to the time limits under sections 2 and 3(1) of this Act, but if his title to the chattel is extinguished under section 3(2) of this Act he may not bring an action in respect of a theft preceding the loss of his title, unless the theft in question preceded the conversion from which time began to run for the purposes of section 3(2).
+
+(2) Subsection (1) above shall apply to any conversion related to the theft of a chattel as it applies to the theft of a chattel; and, except as provided below, every conversion following the theft of a chattel before the person from whom it is stolen recovers possession of it shall be regarded for the purposes of this section as related to the theft.
+
+If anyone purchases the stolen chattel in good faith neither the purchase nor any conversion following it shall be regarded as related to the theft.
+
+(3) Any cause of action accruing in respect of the theft or any conversion related to the theft of a chattel to any person from whom the chattel is stolen shall be disregarded for the purpose of applying section 3(1) or (2) of this Act to his case.
+
+(4) Where in any action brought in respect of the conversion of a chattel it is proved that the chattel was stolen from the plaintiff or anyone through whom he claims it shall be presumed that any conversion following the theft is related to the theft unless the contrary is shown.
+
+(5) In this section “**theft**” includes—
+
+- (a) any conduct outside England and Wales which would be theft if committed in England and Wales; and
+- (b)[^c1857937] obtaining any chattel (in England and Wales or elsewhere) by—
+  - (i) blackmail (within the meaning of section 21 of the Theft Act 1968), or
+  - (ii) fraud (within the meaning of the Fraud Act 2006);
+
+and references in this section to a chattel being “**stolen**” shall be construed accordingly.
+
+#### 4A. Time limit for actions for defamation or malicious falsehood.[^c808956]
+
+The time limit under section 2 of this Act shall not apply to an action for—
+
+- (a) libel or slander, or
+- (b) slander of title, slander of goods or other malicious falsehood,
+
+but no such action shall be brought after the expiration of one year from the date on which the cause of action accrued.
+
+#### 4B. Special time limit for certain actions in respect of damage or defects in relation to buildings[^key-f8d062dd37d2b216d6f23b1a49af2430]
+
+(1) Where by virtue of a relevant provision a person becomes entitled to bring an action against any other person, no action may be brought after the expiration of 15 years from the date on which the right of action accrued.
+
+(2) An action referred to in subsection (1) is one to which—
+
+- (a) sections 1, 28, 32, 35, 37 and 38 apply;
+- (b) the other provisions of this Act do not apply.
+
+(3) In this section “**relevant provision**” means—
+
+- (a) section 1 or 2A of the Defective Premises Act 1972;
+- (b) section 38 of the Building Act 1984.
+
+(4) Where by virtue of section 1 of the Defective Premises Act 1972 a person became entitled, before the commencement date, to bring an action against any other person, this section applies in relation to the action as if the reference in subsection (1) to 15 years were a reference to 30 years.
+
+(5) In subsection (4) “**the commencement date**” means the day on which section 135 of the Building Safety Act 2022 came into force.
+
+### Actions founded on simple contract
+
+#### 5. Time limit for actions founded on simple contract.[^c808957]
+
+An action founded on simple contract shall not be brought after the expiration of six years from the date on which the cause of action accrued.
+
+#### 5A. Additional time limit for actions for damages for late payment of insurance claims[^key-84e9b419aeb556849812f61d68f62d09]
+
+(1) An action in respect of breach of the term implied into a contract of insurance by section 13A of the Insurance Act 2015 (late payment of claims) may not be brought after the expiration of one year from the date on which the insurer has paid all the sums referred to in subsection (1) of that section.
+
+(2) Any payment which extinguishes an insurer's liability to pay a sum referred to in section 13A of the Insurance Act 2015 is to be treated for the purposes of this section as payment of that sum.
+
+#### 6. Special time limit for actions in respect of certain loans.
+
+(1) Subject to subsection (3) below, section 5 of this Act shall not bar the right of action on a contract of loan to which this section applies.
+
+(2) This section applies to any contract of loan which—
+
+- (a) does not provide for repayment of the debt on or before a fixed or determinable date; and
+- (b) does not effectively (whether or not it purports to do so) make the obligation to repay the debt conditional on a demand for repayment made by or on behalf of the creditor or on any other matter;
+
+except where in connection with taking the loan the debtor enters into any collateral obligation to pay the amount of the debt or any part of it (as, for example, by delivering a promissory note as security for the debt) on terms which would exclude the application of this section to the contract of loan if they applied directly to repayment of the debt.
+
+(3) Where a demand in writing for repayment of the debt under a contract of loan to which this section applies is made by or on behalf of the creditor (or, where there are joint creditors, by or on behalf of any one of them) section 5 of this Act shall thereupon apply as if the cause of action to recover the debt had accrued on the date on which the demand was made.
+
+(4) In this section “**promissory note**” has the same meaning as in the [^c808958]Bills of Exchange Act 1882.
+
+#### 7. Time limit for actions to enforce certain awards.
+
+An action to enforce an award, where the submission is not by an instrument under seal, shall not be brought after the expiration of six years from the date on which the cause of action accrued.
+
+### General rule for actions on a specialty
+
+#### 8. Time limit for actions on a specialty.[^c808959]
+
+(1) An action upon a specialty shall not be brought after the expiration of twelve years from the date on which the cause of action accrued.
+
+(2) Subsection (1) above shall not affect any action for which a shorter period of limitation is prescribed by any other provision of this Act.
+
+### Actions for sums recoverable by statute
+
+#### 9. Time limit for actions for sums recoverable by statute.
+
+(1) An action to recover any sum recoverable by virtue of any enactment shall not be brought after the expiration of six years from the date on which the cause of action accrued.
+
+(2) Subsection (1) above shall not affect any action to which section 10 or 10A[^key-b7bf4a3f0b73c393d332a2a3293a24bb] of this Act applies.
+
+#### 10. Special time limit for claiming contribution.
+
+(1) Where under section 1 of the [^c808960]Civil Liability (Contribution) Act 1978 any person becomes entitled to a right to recover contribution in respect of any damage from any other person, no action to recover contribution by virtue of that right shall be brought after the expiration of two years from the date on which that right accrued.
+
+(2) For the purposes of this section the date on which a right to recover contribution in respect of any damage accrues to any person (referred to below in this section as “**the relevant date**”) shall be ascertained as provided in subsections (3) and (4) below.
+
+(3) If the person in question is held liable in respect of that damage—
+
+- (a) by a judgment given in any civil proceedings; or
+- (b) by an award made on any arbitration;
+
+the relevant date shall be the date on which the judgment is given, or the date of the award (as the case may be).
+
+For the purposes of this subsection no account shall be taken of any judgment or award given or made on appeal in so far as it varies the amount of damages awarded against the person in question.
+
+(4) If, in any case not within subsection (3) above, the person in question makes or agrees to make any payment to one or more persons in compensation for that damage (whether he admits any liability in respect of the damage or not), the relevant date shall be the earliest date on which the amount to be paid by him is agreed between him (or his representative) and the person (or each of the persons, as the case may be) to whom the payment is to be made.
+
+(5) An action to recover contribution shall be one to which sections 28, 32[^key-ad8f79f55fd35f0075c26f3de2afbc95]... and 35 of this Act apply, but otherwise Parts II and III of this Act (except sections 34, 37 and 38) shall not apply for the purposes of this section.
+
+#### 10A. Special time limit for actions by insurers etc in respect of automated vehicles.[^key-4172c99f8b91037865adc30aca3d3f90]
+
+(1) Where by virtue of section 5 of the Automated and Electric Vehicles Act 2018 an insurer or vehicle owner becomes entitled to bring an action against any person, the action shall not be brought after the expiration of two years from the date on which the right of action accrued (under subsection (5) of that section).
+
+(2) An action referred to in subsection (1) shall be one to which sections 32, 33A and 35 of this Act apply, but otherwise Parts 2 and 3 of this Act (except sections 37 and 38) shall not apply for the purposes of this section.
+
+#### 10B. Special time limit for actions relating to construction products[^key-1e8d1b18e6cba05f41ad2338b913a7bf]
+
+(1) An action under section 148 of the Building Safety Act 2022 shall not be brought after the expiration of 15 years from the date on which the right of action accrued.
+
+(2) An action under section 149 of the Building Safety Act 2022 shall not be brought after—
+
+- (a) if the right of action accrued before the commencement date, the expiration of the period of 30 years from the date on which it accrued, and
+- (b) if the right of action accrued on or after the commencement date, the expiration of the period of 15 years beginning with the date on which it accrued.
+
+(3) In a case where—
+
+- (a) a right of action under section 149 of the Building Safety Act 2022 accrued before the commencement date, and
+- (b) the expiration of the period of 30 years beginning with the date on which the right of action accrued falls in the year beginning with the commencement date,
+
+subsection (2)(a) has effect as if it referred to the expiration of that year.
+
+(4) In subsections (2) and (3) “the commencement date” is the day on which section 149 of the Building Safety Act 2022 came into force.
+
+(5) No other period of limitation prescribed by Part 1 of this Act applies in relation to an action referred to in subsections (1) and (2).
+
+(6) Sections 28, 32 and 35 of this Act apply in relation to an action referred to subsections (1) and (2), but otherwise Parts 2 and 3 of this Act (except sections 37 and 38) do not apply for the purposes of this section.
+
+### Actions in respect of wrongs causing personal injuries or death etc[^key-c62848a524162a32e6114026439a5b05]
+
+#### 11. Special time limit for actions in respect of personal injuries.
+
+(1) This section applies to any action for damages for negligence, nuisance or breach of duty (whether the duty exists by virtue of a contract or of provision made by or under a statute or independently of any contract or any such provision) where the damages claimed by the plaintiff for the negligence, nuisance or breach of duty consist of or include damages in respect of personal injuries to the plaintiff or any other person.
+
+(1A)[^c808962] This section does not apply to any action brought for damages under section 3 of the Protection from Harassment Act 1997.
+
+(2) None of the time limits given in the preceding provisions of this Act shall apply to an action to which this section applies.
+
+(3) An action to which this section applies shall not be brought after the expiration of the period applicable in accordance with subsection (4) or (5) below.
+
+(4) Except where subsection (5) below applies, the period applicable is three years from—
+
+- (a) the date on which the cause of action accrued; or
+- (b) the date of knowledge (if later) of the person injured.
+
+(5) If the person injured dies before the expiration of the period mentioned in subsection (4) above, the period applicable as respects the cause of action surviving for the benefit of his estate by virtue of section 1 of the [^c808963]Law Reform (Miscellaneous Provisions) Act 1934 shall be three years from—
+
+- (a) the date of death; or
+- (b) the date of the personal representative’s knowledge;
+
+whichever is the later.
+
+(6) For the purposes of this section “**personal representative**” includes any person who is or has been a personal representative of the deceased, including an executor who has not proved the will (whether or not he has renounced probate) but not anyone appointed only as a special personal representative in relation to settled land; and regard shall be had to any knowledge acquired by any such person while a personal representative or previously.
+
+(7) If there is more than one personal representative, and their dates of knowledge are different, subsection (5)(b) above shall be read as referring to the earliest of those dates.
+
+#### 11ZA. Actions in respect of personal injuries attributable to child sexual abuse[^key-64721e9fb1000ba4120db424802d3062]
+
+(1) None of the time limits given in the preceding provisions of this Act apply to an action to which this section applies.
+
+(2) This section applies to any action for damages for negligence, nuisance or breach of duty (whether the duty exists by virtue of a contract or of provision made by or under a statute or independently of any contract or any such provision) which meets conditions 1 to 3.
+
+(3) Condition 1 is that the damages claimed by the claimant consist of or include damages in respect of personal injuries to the claimant.
+
+(4) Condition 2 is that the claimant was under 18 on the date on which the cause of action accrued.
+
+(5) Condition 3 is that the act or omission to which the claimant’s personal injuries were attributable constituted sexual abuse.
+
+(6) This section applies in relation to actions brought, and causes of action accrued, before (as well as after) this section comes into force.
+
+(7) But it does not apply in relation to a claim which, before this section comes into force, was settled by agreement between the parties or determined by a court (whether or not the determination is subject to appeal).
+
+(8) This section does not apply to any action brought for damages under section 3 of the Protection from Harassment Act 1997.
+
+(9) This section does not apply to a cause of action surviving for the benefit of a person’s estate by virtue of section 1 of the Law Reform (Miscellaneous Provisions) Act 1934, except where an action was brought by the person before the person’s death.
+
+#### 11ZB. Dismissal of actions in respect of personal injuries attributable to child sexual abuse
+
+(1) This section applies where an action to which section 11ZA applies is brought after the expiration of the time limit that would apply but for that section (disregarding the possibility of the time limit being disapplied under section 33).
+
+(2) The court must dismiss the action if the defendant satisfies the court that it is not possible for a fair hearing to take place.
+
+(3) In this section “**the court**” means the court in which the action has been brought.
+
+#### 11A. Actions in respect of defective products.[^c808964]
+
+(1) This section shall apply to an action for damages by virtue of any provision of Part I of the [^c808965]Consumer Protection Act 1987.
+
+(2) None of the time limits given in the preceding provisions of this Act shall apply to an action to which this section applies.
+
+(3) An action to which this section applies shall not be brought after the expiration of the period of ten years from the relevant time, within the meaning of section 4 of the said Act of 1987; and this subsection shall operate to extinguish a right of action and shall do so whether or not that right of action had accrued, or time under the following provisions of this Act had begun to run, at the end of the said period of ten years.
+
+(4) Subject to subsection (5) below, an action to which this section applies in which the damages claimed by the plaintiff consist of or include damages in respect of personal injuries to the plaintiff or any other person or loss of or damage to any property, shall not be brought after the expiration of the period of three years from whichever is the later of—
+
+- (a) the date on which the cause of action accrued; and
+- (b) the date of knowledge of the injured person or, in the case of loss of or damage to property, the date of knowledge of the plaintiff or (if earlier) of any person in whom his cause of action was previously vested.
+
+(5) If in a case where the damages claimed by the plaintiff consist of or include damages in respect of personal injuries to the plaintiff or any other person the injured person died before the expiration of the period mentioned in subsection (4) above, that subsection shall have effect as respects the cause of action surviving for the benefit of his estate by virtue of section 1 of the [^c808966]Law Reform (Miscellaneous Provisions) Act 1934 as if for the reference to that period there were substituted a reference to the period of three years from whichever is the later of—
+
+- (a) the date of death; and
+- (b) the date of the personal representative’s knowledge.
+
+(6) For the purposes of this section “**personal representative**” includes any person who is or has been a personal representative of the deceased, including an executor who has not proved the will (whether or not he has renounced probate) but not anyone appointed only as a special personal representative in relation to settled land; and regard shall be had to any knowledge acquired by any such person while a personal representative or previously.
+
+(7) If there is more than one personal representative and their dates of knowledge are different, subsection (5)(b) above shall be read as referring to the earliest of those dates.
+
+(8) Expressions used in this section or section 14 of this Act and in Part I of the [^c808967]Consumer Protection Act 1987 have the same meanings in this section or that section as in that Part; and section 1(1) of that Act (Part I to be construed as enacted for the purpose of complying with the product liability Directive) shall apply for the purpose of construing this section and the following provisions of this Act so far as they relate to an action by virtue of any provision of that Part as it applies for the purpose of construing that Part.
+
+#### 11B. Actions against insurers etc of automated vehicles.[^key-7f3c1d4c2267be2079a06f3f80e9c6a0]
+
+(1) None of the time limits given in the preceding provisions of this Act shall apply to an action for damages under section 2 of the Automated and Electric Vehicles Act 2018 (liability of insurer etc where accident caused by automated vehicle).
+
+But this subsection does not affect the application of section 5A of this Act.
+
+(2) An action for damages against an insurer under subsection (1) of section 2 of the Automated and Electric Vehicles Act 2018 (including an action by an insured person under a contract of insurance in respect of the insurer's obligations under that section) shall not be brought after the expiration of the period of three years from—
+
+- (a) the date of the accident referred to in that subsection; or
+- (b) where subsection (3) below applies, the date of knowledge of the person injured (if later).
+
+(3) This subsection applies where the damages claimed consist of or include damages in respect of personal injuries (to the claimant or any other person).
+
+(4) An action for damages against the owner of a vehicle under subsection (2) of that section shall not be brought after the expiration of the period of three years from—
+
+- (a) the date of the accident referred to in that subsection; or
+- (b) where subsection (3) above applies, the date of knowledge of the person injured (if later).
+
+(5) If a person injured in the accident dies before the expiration of the period mentioned in subsection (2) or (4) above, the period applicable as respects the cause of action surviving for the benefit of the person's estate by virtue of section 1 of the Law Reform (Miscellaneous Provisions) Act 1934 shall be three years from—
+
+- (a) the date of death; or
+- (b) where subsection (3) above applies, the date of the personal representative's knowledge (if later).
+
+(6) If there is more than one personal representative, and their dates of knowledge are different, subsection (5)(b) above shall be read as referring to the earliest of those dates.
+
+(7) In this section “**personal representative**” has the same meaning as in section 11 of this Act.
+
+#### 12. Special time limit for actions under Fatal Accidents legislation.
+
+(1) An action under the [^c808968]Fatal Accidents Act 1976 shall not be brought if the death occurred when the person injured could no longer maintain an action and recover damages in respect of the injury (whether because of a time limit in this Act or in any other Act, or for any other reason).
+
+Where any such action by the injured person would have been barred by the time limit in section 11 , 11A or 11B[^key-cba11f258f8c155a5343c7604b5a754f] of this Act, no account shall be taken of the possibility of that time limit being overridden under section 33 of this Act.
+
+(1A)[^key-724b930247723d0fb6381d9c5616d01c] An action under the Fatal Accidents Act 1976 may not be brought if—
+
+- (a) section 11ZA would have applied to an action by the person injured to recover damages in respect of the injury, and
+- (b) the death occurred after the expiration of the time limit that would have applied but for that section (disregarding the possibility of that time limit being overridden under section 33).
+
+(2) None of the time limits given in the preceding provisions of this Act shall apply to an action under the Fatal Accidents Act 1976, but no such action shall be brought after the expiration of three years from—
+
+- (a) the date of death; or
+- (b) the date of knowledge of the person for whose benefit the action is brought;
+
+whichever is the later.
+
+(3) An action under the Fatal Accidents Act 1976 shall be one to which sections 28, 33 [^key-69b8db914c7e9a72ade04f658caf8bb4]... , 33B[^key-3761f90bdb84fa34c50d542ab4429bb6] and 35 of this Act apply, and the application to any such action of the time limit under subsection (2) above shall be subject to section 39; but otherwise Parts II and III of this Act shall not apply to any such action.
+
+#### 13. Operation of time limit under section 12 in relation to different dependants.
+
+(1) Where there is more than one person for whose benefit an action under the Fatal Accidents Act 1976 is brought, section 12(2)(b) of this Act shall be applied separately to each of them.
+
+(2) Subject to subsection (3) below, if by virtue of subsection (1) above the action would be outside the time limit given by section 12(2) as regards one or more, but not all, of the persons for whose benefit it is brought, the court shall direct that any person as regards whom the action would be outside that limit shall be excluded from those for whom the action is brought.
+
+(3) The court shall not give such a direction if it is shown that if the action were brought exclusively for the benefit of the person in question it would not be defeated by a defence of limitation (whether in consequence of section 28 of this Act or an agreement between the parties not to raise the defence, or otherwise).
+
+#### 14. Definition of date of knowledge for purposes of sections 11 to 12.[^key-4ca6d96d5e2097252d8de608ec356ad3]
+
+(1) Subject to[^c808970] subsections (1A) and (1B)[^key-1cbeb63f7d8b404127d56d6c4a169267] below, in sections 11 and 12 of this Act references to a person’s date of knowledge are references to the date on which he first had knowledge of the following facts—
+
+- (a) that the injury in question was significant; and
+- (b) that the injury was attributable in whole or in part to the act or omission which is alleged to constitute negligence, nuisance or breach of duty; and
+- (c) the identity of the defendant; and
+- (d) if it is alleged that the act or omission was that of a person other than the defendant, the identity of that person and the additional facts supporting the bringing of an action against the defendant;
+
+and knowledge that any acts or omissions did or did not, as a matter of law, involve negligence, nuisance or breach of duty is irrelevant.
+
+(1A)[^c808971] In section 11A of this Act and in section 12 of this Act so far as that section applies to an action by virtue of section 6(1)(a) of the Consumer Protection Act 1987 (death caused by defective product) references to a person’s date of knowledge are references to the date on which he first had knowledge of the following facts—
+
+- (a) such facts about the damage caused by the defect as would lead a reasonable person who had suffered such damage to consider it sufficiently serious to justify his instituting proceedings for damages against a defendant who did not dispute liability and was able to satisfy a judgment; and
+- (b) that the damage was wholly or partly attributable to the facts and circumstances alleged to constitute the defect; and
+- (c) the identity of the defendant;
+
+but, in determining the date on which a person first had such knowledge there shall be disregarded both the extent (if any) of that person’s knowledge on any date of whether particular facts or circumstances would or would not, as a matter of law, constitute a defect and, in a case relating to loss of or damage to property, any knowledge which that person had on a date on which he had no right of action by virtue of Part I of that Act in respect of the loss or damage.
+
+(1B)[^key-ec461a5e6e8f9d7ec1aa6b41cbaeb36c] In section 11B of this Act and in section 12 of this Act so far as that section applies to an action by virtue of section 6(1)(a) of the Automated and Electric Vehicles Act 2018 (“**the 2018 Act**”) (death caused by automated vehicle) references to a person's date of knowledge are references to the date on which he first had knowledge of the following facts—
+
+- (a) that the injury in question was significant; and
+- (b) that the injury was attributable in whole or in part to an accident caused by an automated vehicle when driving itself; and
+- (c) the identity of the insurer of the vehicle (in the case of an action under section 2(1) of the 2018 Act) or the owner of the vehicle (in the case of an action under section 2(2) of that Act).
+
+Expressions used in this subsection that are defined for the purposes of Part 1 of the 2018 Act have the same meaning in this subsection as in that Part.
+
+(2) For the purposes of this section an injury is significant if the person whose date of knowledge is in question would reasonably have considered it sufficiently serious to justify his instituting proceedings for damages against a defendant who did not dispute liability and was able to satisfy a judgment.
+
+(3) For the purposes of this section a person’s knowledge includes knowledge which he might reasonably have been expected to acquire—
+
+- (a) from facts observable or ascertainable by him; or
+- (b) from facts ascertainable by him with the help of medical or other appropriate expert advice which it is reasonable for him to seek;
+
+but a person shall not be fixed under this subsection with knowledge of a fact ascertainable only with the help of expert advice so long as he has taken all reasonable steps to obtain (and, where appropriate, to act on) that advice.
+
+### Actions in respect of latent damage not involving personal injuries[^c808972]
+
+#### 14A. Special time limit for negligence actions where facts relevant to cause of action are not known at date of accrual.
+
+(1) This section applies to any action for damages for negligence, other than one to which section 11 of this Act applies, where the starting date for reckoning the period of limitation under subsection (4)(b) below falls after the date on which the cause of action accrued.
+
+(2) Section 2 of this Act shall not apply to an action to which this section applies.
+
+(3) An action to which this section applies shall not be brought after the expiration of the period applicable in accordance with subsection (4) below.
+
+(4) That period is either—
+
+- (a) six years from the date on which the cause of action accrued; or
+- (b) three years from the starting date as defined by subsection (5) below, if that period expires later than the period mentioned in paragraph (a) above.
+
+(5) For the purposes of this section, the starting date for reckoning the period of limitation under subsection (4)(b) above is the earliest date on which the plaintiff or any person in whom the cause of action was vested before him first had both the knowledge required for bringing an action for damages in respect of the relevant damage and a right to bring such an action.
+
+(6) In subsection (5) above “**the knowledge required for bringing an action for damages in respect of the relevant damage**” means knowledge both—
+
+- (a) of the material facts about the damage in respect of which damages are claimed; and
+- (b) of the other facts relevant to the current action mentioned in subsection (8) below.
+
+(7) For the purposes of subsection (6)(a) above, the material facts about the damage are such facts about the damage as would lead a reasonable person who had suffered such damage to consider it sufficiently serious to justify his instituting proceedings for damages against a defendant who did not dispute liability and was able to satisfy a judgment.
+
+(8) The other facts referred to in subsection (6)(b) above are—
+
+- (a) that the damage was attributable in whole or in part to the act or omission which is alleged to constitute negligence; and
+- (b) the identity of the defendant; and
+- (c) if it is alleged that the act or omission was that of a person other than the defendant, the identity of that person and the additional facts supporting the bringing of an action against the defendant.
+
+(9) Knowledge that any acts or omissions did or did not, as a matter of law, involve negligence is irrelevant for the purposes of subsection (5) above.
+
+(10) For the purposes of this section a person’s knowledge includes knowledge which he might reasonably have been expected to acquire—
+
+- (a) from facts observable or ascertainable by him; or
+- (b) from facts ascertainable by him with the help of appropriate expert advice which it is reasonable for him to seek;
+
+but a person shall not be taken by virtue of this subsection to have knowledge of a fact ascertainable only with the help of expert advice so long as he has taken all reasonable steps to obtain (and, where appropriate, to act on) that advice.
+
+#### 14B. Overriding time limit for negligence actions not involving personal injuries.
+
+(1) An action for damages for negligence, other than one to which section 11 or 11ZA[^key-3240d98d4e09a58c4a723cff7d9b7969] of this Act applies, shall not be brought after the expiration of fifteen years from the date (or, if more than one, from the last of the dates) on which there occurred any act or omission—
+
+- (a) which is alleged to constitute negligence; and
+- (b) to which the damage in respect of which damages are claimed is alleged to be attributable (in whole or in part).
+
+(2) This section bars the right of action in a case to which subsection (1) above applies notwithstanding that—
+
+- (a) the cause of action has not yet accrued; or
+- (b) where section 14A of this Act applies to the action, the date which is for the purposes of that section the starting date for reckoning the period mentioned in subsection (4)(b) of that section has not yet occurred;
+
+before the end of the period of limitation prescribed by this section.
+
+### Actions to recover land and rent
+
+#### 15. Time limit for actions to recover land.[^c808973]
+
+(1) No action shall be brought by any person to recover any land after the expiration of twelve years from the date on which the right of action accrued to him or, if it first accrued to some person through whom he claims, to that person.
+
+(2) Subject to the following provisions of this section, where—
+
+- (a) the estate or interest claimed was an estate or interest in reversion or remainder or any other future estate or interest and the right of action to recover the land accrued on the date on which the estate or interest fell into possession by the determination of the preceding estate or interest; and
+- (b) the person entitled to the preceding estate or interest (not being a term of years absolute) was not in possession of the land on that date;
+
+no action shall be brought by the person entitled to the succeeding estate or interest after the expiration of twelve years from the date on which the right of action accrued to the person entitled to the preceding estate or interest or six years from the date on which the right of action accrued to the person entitled to the succeeding estate or interest, whichever period last expires.
+
+(3) Subsection (2) above shall not apply to any estate or interest which falls into possession on the determination of an entailed interest and which might have been barred by the person entitled to the entailed interest.
+
+(4) No person shall bring an action to recover any estate or interest in land under an assurance taking effect after the right of action to recover the land had accrued to the person by whom the assurance was made or some person through whom he claimed or some person entitled to a preceding estate or interest, unless the action is brought within the period during which the person by whom the assurance was made could have brought such an action.
+
+(5) Where any person is entitled to any estate or interest in land in possession and, while so entitled, is also entitled to any future estate or interest in that land, and his right to recover the estate or interest in possession is barred under this Act, no action shall be brought by that person, or by any person claiming through him, in respect of the future estate or interest, unless in the meantime possession of the land has been recovered by a person entitled to an intermediate estate or interest.
+
+(6) Part I of Schedule 1 to this Act contains provisions for determining the date of accrual of rights of action to recover land in the cases there mentioned.
+
+(7) Part II of that Schedule contains provisions modifying the provisions of this section in their application to actions brought by, or by a person claiming through, the Crown or any spiritual or eleemosynary corporation sole.
+
+#### 16. Time limit for redemption actions.[^c808974]
+
+When a mortgagee of land has been in possession of any of the mortgaged land for a period of twelve years, no action to redeem the land of which the mortgagee has been so in possession shall be brought after the end of that period by the mortgagor or any person claiming through him.
+
+#### 17. Extinction of title to land after expiration of time limit.[^c808977]
+
+Subject to—
+
+- (a) section 18 of this Act;[^c1893539]. . .
+- (b) [^c1893539]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+at the expiration of the period prescribed by this Act for any person to bring an action to recover land (including a redemption action) the title of that person to the land shall be extinguished.
+
+#### 18. Settled land and land held on trust.
+
+(1) Subject to section 21(1) and (2) of this Act, the provisions of this Act shall apply to equitable interests in land [^c808981]. . . as they apply to legal estates.
+
+Accordingly a right of action to recover the land shall, for the purposes of this Act but not otherwise, be treated as accruing to a person entitled in possession to such an equitable interest in the like manner and circumstances, and on the same date, as it would accrue if his interest were a legal estate in the land (and any relevant provision of Part I of Schedule 1 to this Act shall apply in any such case accordingly).
+
+(2) Where the period prescribed by this Act has expired for the bringing of an action to recover land by a tenant for life or a statutory owner of settled land—
+
+- (a) his legal estate shall not be extinguished if and so long as the right of action to recover the land of any person entitled to a beneficial interest in the land either has not accrued or has not been barred by this Act; and
+- (b) the legal estate shall accordingly remain vested in the tenant for life or statutory owner and shall devolve in accordance with the [^c808982]Settled Land Act 1925;
+
+but if and when every such right of action has been barred by this Act, his legal estate shall be extinguished.
+
+(3) Where any land is held upon trust [^c808981]. . . and the period prescribed by this Act has expired for the bringing of an action to recover the land by the trustees, the estate of the trustees shall not be extinguished if and so long as the right of action to recover the land of any person entitled to a beneficial interest in the land [^c808981]. . . either has not accrued or has not been barred by this Act; but if and when every such right of action has been so barred the estate of the trustees shall be extinguished.
+
+(4) Where—
+
+- (a) any settled land is vested in a statutory owner; or
+- (b) any land is held upon trust [^c808981]. . .;
+
+an action to recover the land may be brought by the statutory owner or trustees on behalf of any person entitled to a beneficial interest in possession in the land [^c808981]. . . whose right of action has not been barred by this Act, notwithstanding that the right of action of the statutory owner or trustees would apart from this provision have been barred by this Act.
+
+#### 19. Time limit for actions to recover rent.
+
+No action shall be brought, and the power conferred by section 72(1) of the Tribunals, Courts and Enforcement Act 2007 shall not be exercisable[^key-2282f7f29ccc4c294c4353ef9f0095d1], to recover arrears of rent, or damages in respect of arrears of rent, after the expiration of six years from the date on which the arrears became due.
+
+### Commonhold[^c808987]
+
+#### 19A. Actions for breach of commonhold duty[^c808988]
+
+An action in respect of a right or duty of a kind referred to in section 37(1) of the Commonhold and Leasehold Reform Act 2002 (enforcement) shall not be brought after the expiration of six years from the date on which the cause of action accrued.
+
+### Actions to recover money secured by a mortgage or charge or to recover proceeds of the sale of land
+
+#### 20. Time limit for actions to recover money secured by a mortgage or charge or to recover proceeds of the sale of land.
+
+(1) No action shall be brought to recover—
+
+- (a) any principal sum of money secured by a mortgage or other charge on property (whether real or personal); or
+- (b) proceeds of the sale of land;
+
+after the expiration of twelve years from the date on which the right to receive the money accrued.
+
+(2) No foreclosure action in respect of mortgaged personal property shall be brought after the expiration of twelve years from the date on which the right to foreclose accrued.
+
+But if the mortgagee was in possession of the mortgaged property after that date, the right to foreclose on the property which was in his possession shall not be treated as having accrued for the purposes of this subsection until the date on which his possession discontinued.
+
+(3) The right to receive any principal sum of money secured by a mortgage or other charge and the right to foreclose on the property subject to the mortgage or charge shall not be treated as accruing so long as that property comprises any future interest or any life insurance policy which has not matured or been determined.
+
+(4) Nothing in this section shall apply to a foreclosure action in respect of mortgaged land, but the provisions of this Act relating to actions to recover land shall apply to such an action.
+
+(5) Subject to subsections (6) and (7) below, no action to recover arrears of interest payable in respect of any sum of money secured by a mortgage or other charge or payable in respect of proceeds of the sale of land, or to recover damages in respect of such arrears shall be brought after the expiration of six years from the date on which the interest became due.
+
+(6) Where—
+
+- (a) a prior mortgagee or other incumbrancer has been in possession of the property charged; and
+- (b) an action is brought within one year of the discontinuance of that possession by the subsequent incumbrancer;
+
+the subsequent incumbrancer may recover by that action all the arrears of interest which fell due during the period of possession by the prior incumbrancer or damages in respect of those arrears, notwithstanding that the period exceeded six years.
+
+(7) Where—
+
+- (a) the property subject to the mortgage or charge comprises any future interest or life insurance policy; and
+- (b) it is a term of the mortgage or charge that arrears of interest shall be treated as part of the principal sum of money secured by the mortgage or charge;
+
+interest shall not be treated as becoming due before the right to recover the principal sum of money has accrued or is treated as having accrued.
+
+### Actions in respect of trust property or the personal estate of deceased persons
+
+#### 21. Time limit for actions in respect of trust property.
+
+(1) No period of limitation prescribed by this Act shall apply to an action by a beneficiary under a trust, being an action—
+
+- (a) in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy; or
+- (b) to recover from the trustee trust property or the proceeds of trust property in the possession of the trustee, or previously received by the trustee and converted to his use.
+
+(2) Where a trustee who is also a beneficiary under the trust receives or retains trust property or its proceeds as his share on a distribution of trust property under the trust, his liability in any action brought by virtue of subsection (1)(b) above to recover that property or its proceeds after the expiration of the period of limitation prescribed by this Act for bringing an action to recover trust property shall be limited to the excess over his proper share.
+
+This subsection only applies if the trustee acted honestly and reasonably in making the distribution
+
+(3) Subject to the preceding provisions of this section, an action by a beneficiary to recover trust property or in respect of any breach of trust, not being an action for which a period of limitation is prescribed by any other provision of this Act, shall not be brought after the expiration of six years from the date on which the right of action accrued.
+
+For the purposes of this subsection, the right of action shall not be treated as having accrued to any beneficiary entitled to a future interest in the trust property until the interest fell into possession.
+
+(4) No beneficiary as against whom there would be a good defence under this Act shall derive any greater or other benefit from a judgment or order obtained by any other beneficiary than he could have obtained if he had brought the action and this Act had been pleaded in defence.
+
+#### 22. Time limit for actions claiming personal estate of a deceased person.
+
+Subject to section 21(1) and (2) of this Act—
+
+- (a) no action in respect of any claim to the personal estate of a deceased person or to any share or interest in any such estate (whether under a will or on intestacy) shall be brought after the expiration of twelve years from the date on which the right to receive the share or interest accrued; and
+- (b) no action to recover arrears of interest in respect of any legacy, or damages in respect of such arrears, shall be brought after the expiration of six years from the date on which the interest became due.
+
+### Actions for an account
+
+#### 23. Time limit in respect of actions for an account.
+
+An action for an account shall not be brought after the expiration of any time limit under this Act which is applicable to the claim which is the basis of the duty to account.
+
+### Miscellaneous and supplemental
+
+#### 24. Time limit for actions to enforce judgments.
+
+(1) An action shall not be brought upon any judgment after the expiration of six years from the date on which the judgment became enforceable.
+
+(2) No arrears of interest in respect of any judgment debt shall be recovered after the expiration of six years from the date on which the interest became due.
+
+#### 25. Time limit for actions to enforce advowsons and extinction of title to advowsons.[^c808989]
+
+(1) No person shall bring an action to enforce a right to present to or bestow any ecclesiastical benefice as patron of that benefice after the expiration of whichever of the following periods last expires, that is to say—
+
+- (a) a period during which three clerks in succession have held the benefice adversely to the right of presentation or gift of the person in question (or of some person through whom he claims); or
+- (b) a period of sixty years during which the benefice has been held adversely to that right;
+
+and in no case after the expiration of a period of one hundred years during which the benefice has been held adversely to that right or to the right of some person entitled to a preceding estate or interest or an undivided share or alternate right of presentation or gift held or derived under the same title.
+
+This subsection shall apply to the Crown or a bishop claiming a right to present to or bestow any ecclesiastical benefice as patron, but shall not affect the right of the Crown or a bishop to present or collate to any ecclesiastical benefice by reason of a lapse.
+
+(2) Where any benefice becomes void after being held adversely to the right of presentation or gift of the patron of the benefice and a clerk is presented or collated to the benefice by Her Majesty or the ordinary—
+
+- (a) the possession of that clerk shall be treated as adverse; but
+- (b) where the benefice is avoided in consequence of the incumbent being made a bishop, the incumbency of the new clerk shall, for the purpose of subsection (1)(a) above, be treated as a continuation of the prior incumbency.
+
+(3) Subject to section 75 of the [^c808990]Land Registration Act 1925, at the expiration of the period prescribed by this Act for any person to bring an action to enforce an advowson the title of that person to the advowson shall be extinguished. [^c808989]
+
+#### 26. Administration to date back to death.
+
+For the purposes of the provisions of this Act relating to actions for the recovery of land and advowsons an administrator of the estate of a deceased person shall be treated as claiming as if there had been no interval of time between the death of the deceased person and the grant of the letters of administration.
+
+#### 27. Cure of defective disentailing assurance.
+
+(1) This section applies where—
+
+- (a) a person entitled in remainder to an entailed interest in any land makes an assurance of his interest which fails to bar the issue in tail or the estates and interests taking effect on the determination of the entailed interest, or fails to bar those estates and interests only; and
+- (b) any person takes possession of the land by virtue of the assurance.
+
+(2) If the person taking possession of the land by virtue of the assurance, or any other person whatsoever (other than a person entitled to possession by virtue of the settlement) is in possession of the land for a period of twelve years from the commencement of the time when the assurance could have operated as an effective bar, the assurance shall thereupon operate, and be treated as having always operated, to bar the issue in tail and the estates and interests taking effect on the determination of the entailed interest.
+
+(3) The reference in subsection (2) above to the time when the assurance could have operated as an effective bar is a reference to the time at which the assurance, if it had then been executed by the person entitled to the entailed interest, would have operated, without the consent of any other person, to bar the issue in tail and the estates and interests taking effect on the determination of the entailed interest.
+
+#### 27A. Actions for recovery of property obtained through unlawful conduct etc.[^c1893893]
+
+(1) None of the time limits given in the preceding provisions of this Act applies to any proceedings under Chapter 2 of Part 5 of the Proceeds of Crime Act 2002 (civil recovery of proceeds of unlawful conduct).
+
+(2) Proceedings under that Chapter for a recovery order in respect of any recoverable property shall not be brought after the expiration of the period of 20 years[^key-11b25854977e74bae02b2c341542119b] from the date on which the relevant person's[^c1950038] cause of action accrued.
+
+(3) Proceedings under that Chapter are brought when—
+
+- (a) a claim form is issued, or
+- (aa)[^c1893899] an application is made for a property freezing order, or
+- (b) an application is made for an interim receiving order,
+
+whichever is the earliest[^c1893905].
+
+(4) The relevant person's[^c1950040] cause of action accrues in respect of any recoverable property—
+
+- (a) in the case of proceedings for a recovery order in respect of property obtained through unlawful conduct, when the property is so obtained,
+- (b) in the case of proceedings for a recovery order in respect of any other recoverable property, when the property obtained through unlawful conduct which it represents is so obtained.
+
+(4A)[^key-1b15967837da0e038aaf7c45b1c82c3c] Subsection (4) is subject to section 13(5) of the Criminal Finances Act 2017 (which provides that, in the case of property obtained through unlawful conduct relating to a gross human rights abuse or violation, proceedings cannot be brought after the end of the period of 20 years from the date on which the conduct constituting the commission of the abuse or violation occurs).
+
+(5) If—
+
+- (a) a person would (but for the preceding provisions of this Act) have a cause of action in respect of the conversion of a chattel, and
+- (b) proceedings are started under that Chapter for a recovery order in respect of the chattel,
+
+section 3(2) of this Act does not prevent his asserting on an application under section 281 of that Act that the property belongs to him, or the court making a declaration in his favour under that section.
+
+(6) If the court makes such a declaration, his title to the chattel is to be treated as not having been extinguished by section 3(2) of this Act.
+
+(7) Expressions used in this section and Part 5 of that Act have the same meaning in this section as in that Part.
+
+(8)[^c1950042] In this section “ **relevant person** ” means—
+
+- (a)[^key-b9b8b93449b38671c84745f953b96114] the National Crime Agency,
+- (b) the Director of Public Prosecutions,
+- (c)[^key-234c8cc49a543139e4742c677af74afd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) the Director of the Serious Fraud Office.
+- (e)[^key-bcfc0e4d512110d0e780cc7b207ff4a6] Her Majesty’s Revenue and Customs, or
+- (f) the Financial Conduct Authority.
+
+#### 27AB. Actions to prohibit dealing with property subject to an external request[^key-fbca58d48b862c0e247fe55e8812eac8]
+
+(1) None of the time limits given in the preceding provisions of this Act applies to any proceedings under Part 4A of the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (giving effect to external request by means of civil proceedings).
+
+(2) Proceedings under that Part for a prohibition order in respect of relevant property shall not be brought after the expiration of the period of 20 years from the date on which the relevant person’s cause of action accrued.
+
+(3) Proceedings under that Part are brought when an application is made for a prohibition order.
+
+(4) The relevant person’s cause of action accrues in respect of relevant property when the property is obtained (or when it is believed to have been obtained) as a result of or in connection with criminal conduct.
+
+(5) In this section—
+
+- (a) “criminal conduct” is to be construed in accordance with section 447(8) of the Act,
+- (b) expressions used in this section and Part 4A of the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 have the same meaning in this section as in that Part.
+
+(6) In this section “relevant person” means—
+
+- (a) the National Crime Agency,
+- (b) the Director of Public Prosecutions,
+- (c)[^key-7e0c6eb2ff0036cbbfbef59c59ae9015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) the Director of the Serious Fraud Office.
+
+#### 27B. Actions for recovery of property for purposes of an external order[^c1893896]
+
+(1) None of the time limits given in the preceding provisions of this Act applies to any proceedings under Chapter 2 of Part 5 of the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (civil proceedings for the realisation of property to give effect to an external order).
+
+(2) Proceedings under that Chapter for a recovery order in respect of any recoverable property shall not be brought after the expiration of the period of 20 years[^key-1af1acd906def788bb1756a147655ecd] from the date on which the relevant person's[^c2002173] cause of action accrued.
+
+(3) Proceedings under that Chapter are brought when—
+
+- (a) a claim form is issued, or
+- (b) an application is made for a property freezing order, or
+- (c) an application is made for an interim receiving order,
+
+whichever is earliest.
+
+(3A)[^key-9d35243ffbbed67bd72e1cdc205f5724] If, before an event mentioned in subsection (3) occurs, an application is made for a prohibition order under Part 4A of the Order, the proceedings under Chapter 2 of Part 5 of the Order are to be treated as having been brought when that application is made.
+
+(4) The relevant person's cause of action accrues in respect of any recoverable property—
+
+- (a) in the case of proceedings for a recovery order in respect of property obtained, or believed to have been obtained, as a result of or in connection with criminal conduct, when the property is so obtained,
+- (b) in the case of proceedings for a recovery order in respect of any other recoverable property, when the property obtained, or believed to have been obtained, as a result of or in connection with criminal conduct which it represents is so obtained.
+
+(5) If—
+
+- (a) a person would (but for the preceding provisions of this Act) have a cause of action in respect of the conversion of a chattel, and
+- (b) proceedings are started under that Chapter for a recovery order in respect of the chattel,
+- (c) section 3(2) of this Act does not prevent his asserting on an application under article 192 of that Order that the property belongs to him, or the court making a declaration in his favour under that article.
+
+(6) If the court makes such a declaration, his title to the chattel is to be treated as not having been extinguished by section 3(2) of this Act.
+
+(7) In this section—
+
+- (a) “ **criminal conduct** ” is to be construed in accordance with section 447(8) of the Proceeds of Crime Act 2002, and
+- (b) expressions used in this section which are also used in Part 5 of the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 have the same meaning in this section as in that Part.
+
+(8)[^c2002179] In this section “ **relevant person** ” means—
+
+- (a)[^key-54a412d71ebb2d5bddf035d3515d94cb] the National Crime Agency,
+- (b) the Director of Public Prosecutions,
+- (c)[^key-03d054d3cf16d0f6b0dbe99e9548ee79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) the Director of the Serious Fraud Office.
+
+#### 27C. Actions for exploitation proceeds orders[^key-9d2b693c13000ebce0f289ff5bf0af39]
+
+(1) None of the time limits given in the preceding provisions of this Act applies to proceedings under Part 7 of the Coroners and Justice Act 2009 (criminal memoirs etc ) for an exploitation proceeds order.
+
+(2) Proceedings under that Part for such an order are not to be brought after the expiration of 6 years from the date on which the enforcement authority's cause of action accrued.
+
+(3) Proceedings under that Part for such an order are brought when an application is made for the order.
+
+(4) Where exploitation proceeds have been obtained by a person from a relevant offence, an enforcement authority's cause of action under that Part in respect of those proceeds accrues when the enforcement authority has actual knowledge that the proceeds have been obtained.
+
+(5) Expressions used in this section and that Part have the same meaning in this section as in that Part.
+
+#### 27D. Actions relating to the Northern Ireland Troubles[^key-0a321d7bcbc1d865b30886776343b8c8]
+
+This Act has effect subject to section 43 of the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023.
+
+## Part II — Extension or Exclusion of Ordinary Time Limits
+
+*Extent: E+W*
+
+### Disability
+
+#### 28. Extension of limitation period in case of disability.[^c808998]
+
+(1)[^c808999] Subject to the following provisions of this section, if on the date when any right of action accrued for which a period of limitation is prescribed by this Act, the person to whom it accrued was under a disability, the action may be brought at any time before the expiration of six years from the date when he ceased to be under a disability or died (whichever first occurred) notwithstanding that the period of limitation has expired.
+
+(2) This section shall not affect any case where the right of action first accrued to some person (not under a disability) through whom the person under a disability claims.
+
+(3) When a right of action which has accrued to a person under a disability accrues, on the death of that person while still under a disability, to another person under a disability, no further extension of time shall be allowed by reason of the disability of the second person.
+
+(4) No action to recover land or money charged on land shall be brought by virtue of this section by any person after the expiration of thirty years from the date on which the right of action accrued to that person or some person through whom he claims.
+
+(4A)[^c809000] If the action is one to which section 4A of this Act applies, subsection (1) above shall have effect—
+
+- (a) in the case of an action for libel or slander, as if for the words from “at any time” to “occurred)” there were substituted the words “by him at any time before the expiration of one year from the date on which he ceased to be under a disability”; and
+- (b) in the case of an action for slander of title, slander of goods or other malicious falsehood, as if for the words “six years” there were substituted the words “one year”.
+
+(5) If the action is one to which section 10 of this Act applies, subsection (1) above shall have effect as if for the words “six years” there were substituted the words “two years”.
+
+(6) If the action is one to which section 11 , 11B[^key-82f733a8e0a128875af2b4fd9d56bd87] or 12(2) of this Act applies, subsection (1) above shall have effect as if for the words “six years” there were substituted the words “three years”.
+
+(7)[^c809001] If the action is one to which section 11A of this Act applies or one by virtue of section 6(1)(a) of the [^c809002] Consumer Protection Act 1987 (death caused by defective product), subsection (1) above—
+
+- (a) shall not apply to the time limit prescribed by subsection (3) of the said section 11A or to that time limit as applied by virtue of section 12(1) of this Act; and
+- (b) in relation to any other time limit prescribed by this Act shall have effect as if for the words “six years” there were substituted the words “three years”.
+
+#### 28A. Extension for cases where the limitation period is the period under section 14A(4)(b).[^c809003]
+
+(1) Subject to subsection (2) below, if in the case of any action for which a period of limitation is prescribed by section 14A of this Act—
+
+- (a) the period applicable in accordance with subsection (4) of that section is the period mentioned in paragraph (b) of that subsection;
+- (b) on the date which is for the purposes of that section the starting date for reckoning that period the person by reference to whose knowledge that date fell to be determined under subsection (5) of that section was under a disability; and
+- (c) section 28 of this Act does not apply to the action;
+
+the action may be brought at any time before the expiration of three years from the date when he ceased to be under a disability or died (whichever first occurred) notwithstanding that the period mentioned above has expired.
+
+(2) An action may not be brought by virtue of subsection (1) above after the end of the period of limitation prescribed by section 14B of this Act.
+
+### Acknowledgment and part payment
+
+#### 29. Fresh accrual of action on acknowledgment or part payment.
+
+(1) Subsections (2) and (3) below apply where any right of action (including a foreclosure action) to recover land or an advowson or any right of a mortgagee of personal property to bring a foreclosure action in respect of the property has accrued.
+
+(2) If the person in possession of the land, benefice or personal property in question acknowledges the title of the person to whom the right of action has accrued—
+
+- (a) the right shall be treated as having accrued on and not before the date of the acknowledgment; and
+- (b) in the case of a right of action to recover land which has accrued to a person entitled to an estate or interest taking effect on the determination of an entailed interest against whom time is running under section 27 of this Act, section 27 shall thereupon cease to apply to the land.
+
+(3) In the case of a foreclosure or other action by a mortgagee, if the person in possession of the land, benefice or personal property in question or the person liable for the mortgage debt makes any payment in respect of the debt (whether of principal or interest) the right shall be treated as having accrued on and not before the date of the payment.
+
+(4) Where a mortgagee is by virtue of the mortgage in possession of any mortgaged land and either—
+
+- (a) receives any sum in respect of the principal or interest of the mortgage debt; or
+- (b) acknowledges the title of the mortgagor, or his equity ofredemption;
+
+an action to redeem the land in his possession may be brought at any time before the expiration of twelve years from the date of the payment or acknowledgment.
+
+(5) Subject to subsection (6) below, where any right of action has accrued to recover—
+
+- (a) any debt or other liquidated pecuniary claim; or
+- (b) any claim to the personal estate of a deceased person or to any share or interest in any such estate;
+
+and the person liable or accountable for the claim acknowledges the claim or makes any payment in respect of it the right shall be treated as having accrued on and not before the date of the acknowledgment or payment.
+
+(6) A payment of a part of the rent or interest due at any time shall not extend the period for claiming the remainder then due, but any payment of interest shall be treated as a payment in respect of the principal debt.
+
+(7) Subject to subsection (6) above, a current period of limitation may be repeatedly extended under this section by further acknowledgments or payments, but a right of action, once barred by this Act, shall not be revived by any subsequent acknowledgment or payment.
+
+#### 30. Formal provisions as to acknowledgments and part payments.
+
+(1) To be effective for the purposes of section 29 of this Act, an acknowledgment must be in writing and signed by the person making it.
+
+(2) For the purposes of section 29, any acknowledgment or payment—
+
+- (a) may be made by the agent of the person by whom it is required to be made under that section; and
+- (b) shall be made to the person, or to an agent of the person, whose title or claim is being acknowledged or, as the case may be, in respect of whose claim the payment is being made.
+
+#### 31. Effect of acknowledgment or part payment on persons other than the maker or recipient.
+
+(1) An acknowledgment of the title to any land, benefice, or mortgaged personalty by any person in possession of it shall bind all other persons in possession during the ensuing period of limitation.
+
+(2) A payment in respect of a mortgage debt by the mortgagor or any other person liable for the debt, or by any person in possession of the mortgaged property, shall, so far as any right of the mortgagee to foreclose or otherwise to recover the property is concerned, bind all other persons in possession of the mortgaged property during the ensuing period of limitation.
+
+(3) Where two or more mortgagees are by virtue of the mortgage in possession of the mortgaged land, an acknowledgment of the mortgagor’s title or of his equity of redemption by one of the mortgagees shall only bind him and his successors and shall not bind any other mortgagee or his successors.
+
+(4) Where in a case within subsection (3) above the mortgagee by whom the acknowledgment is given is entitled to a part of the mortgaged land and not to any ascertained part of the mortgage debt the mortgagor shall be entitled to redeem that part of the land on payment, with interest, of the part of the mortgage debt which bears the same proportion to the whole of the debt as the value of the part of the land bears to the whole of the mortgaged land.
+
+(5) Where there are two or more mortgagors, and the title or equity of redemption of one of the mortgagors is acknowledged as mentioned above in this section, the acknowledgment shall be treated as having been made to all the mortgagors.
+
+(6) An acknowledgment of any debt or other liquidated pecuniary claim shall bind the acknowledgor and his successors but not any other person.
+
+(7) A payment made in respect of any debt or other liquidated pecuniary claim shall bind all persons liable in respect of the debt or claim.
+
+(8) An acknowledgment by one of several personal representatives of any claim to the personal estate of a deceased person or to any share or interest in any such estate, or a payment by one of several personal representatives in respect of any such claim, shall bind the estate of the deceased person.
+
+(9) In this section “**successor**”, in relation to any mortgagee or person liable in respect of any debt or claim, means his personal representatives and any other person on whom the rights under the mortgage or, as the case may be, the liability in respect of the debt or claim devolve (whether on death or bankruptcy or the disposition of property or the determination of a limited estate or interest in settled property or otherwise).
+
+### Fraud, concealment and mistake
+
+#### 32. Postponement of limitation period in case of fraud, concealment or mistake.
+
+(1)[^c809004] Subject to subsection (3)[^c809005]subsections (3) , (4A) and (4B)[^key-c34258a0e5867e881377e82720759a3e] below, where in the case of any action for which a period of limitation is prescribed by this Act, either—
+
+- (a) the action is based upon the fraud of the defendant; or
+- (b) any fact relevant to the plaintiff’s right of action has been deliberately concealed from him by the defendant; or
+- (c)[^c1857338] the action is for relief from the consequences of a mistake;
+
+the period of limitation shall not begin to run until the plaintiff has discovered the fraud, concealment or mistake (as the case may be) or could with reasonable diligence have discovered it.
+
+References in this subsection to the defendant include references to the defendant’s agent and to any person through whom the defendant claims and his agent.
+
+(2) For the purposes of subsection (1) above, deliberate commission of a breach of duty in circumstances in which it is unlikely to be discovered for some time amounts to deliberate concealment of the facts involved in that breach of duty.
+
+(3) Nothing in this section shall enable any action—
+
+- (a) to recover, or recover the value of, any property; or
+- (b) to enforce any charge against, or set aside any transaction affecting, any property;
+
+to be brought against the purchaser of the property or any person claiming through him in any case where the property has been purchased for valuable consideration by an innocent third party since the fraud or concealment or (as the case may be) the transaction in which the mistake was made took place.
+
+(4) A purchaser is an innocent third party for the purposes of this section—
+
+- (a) in the case of fraud or concealment of any fact relevant to the plaintiff’s right of action, if he was not a party to the fraud or (as the case may be) to the concealment of that fact and did not at the time of the purchase know or have reason to believe that the fraud or concealment had taken place; and
+- (b) in the case of mistake, if he did not at the time of the purchase know or have reason to believe that the mistake had been made.
+
+(4A)[^c809007] Subsection (1) above shall not apply in relation to the time limit prescribed by section 11A(3) of this Act or in relation to that time limit as applied by virtue of section 12(1) of this Act.
+
+(4B)[^key-3a99fd041cd95e38ff29dc238c8dac62] Subsection (1) above shall not apply in relation to the time limit prescribed by section 11B(2) or (4) of this Act or in relation to that time limit as applied by virtue of section 12(1) of this Act.
+
+(5)[^c809008] Sections 14A and 14B of this Act shall not apply to any action to which subsection (1)(b) above applies (and accordingly the period of limitation referred to in that subsection, in any case to which either of those sections would otherwise apply, is the period applicable under section 2 of this Act).
+
+### Discretionary exclusion of time limit for actions for defamation or malicious falsehood[^c809010]
+
+#### 32A. Discretionary exclusion of time limit for actions for defamation or malicious falsehood.[^c809012]
+
+(1) If it appears to the court that it would be equitable to allow an action to proceed having regard to the degree to which—
+
+- (a) the operation of section 4A of this Act prejudices the plaintiff or any person whom he represents, and
+- (b) any decision of the court under this subsection would prejudice the defendant or any person whom he represents,
+
+the court may direct that that section shall not apply to the action or shall not apply to any specified cause of action to which the action relates.
+
+(2) In acting under this section the court shall have regard to all the circumstances of the case and in particular to—
+
+- (a) the length of, and the reasons for, the delay on the part of the plaintiff;
+- (b) where the reason or one of the reasons for the delay was that all or any of the facts relevant to the cause of action did not become known to the plaintiff until after the end of the period mentioned in section 4A—
+  - (i) the date on which any such facts did become known to him, and
+  - (ii) the extent to which he acted promptly and reasonably once he knew whether or not the facts in question might be capable of giving rise to an action; and
+- (c) the extent to which, having regard to the delay, relevant evidence is likely—
+  - (i) to be unavailable, or
+  - (ii) to be less cogent than if the action had been brought within the period mentioned in section 4A.
+
+(3) In the case of an action for slander of title, slander of goods or other malicious falsehood brought by a personal representative—
+
+- (a) the references in subsection (2) above to the plaintiff shall be construed as including the deceased person to whom the cause of action accrued and any previous personal representative of that person; and
+- (b) nothing in section 28(3) of this Act shall be construed as affecting the court’s discretion under this section.
+
+(4) In this section “ **the court** ” means the court in which the action has been brought.
+
+### Discretionary exclusion of time limit for actions in respect of personal injuries or death
+
+#### 33. Discretionary exclusion of time limit for actions in respect of personal injuries or death.
+
+(1) If it appears to the court that it would be equitable to allow an action to proceed having regard to the degree to which—
+
+- (a) the provisions of section 11 , 11A, 11B[^key-9933bcf9edd55e1aec00579d953a3208] or 12 of this Act prejudice the plaintiff or any person whom he represents; and
+- (b) any decision of the court under this subsection would prejudice the defendant or any person whom he represents;
+
+the court may direct that those provisions shall not apply to the action, or shall not apply to any specified cause of action to which the action relates.
+
+(1ZA)[^key-a1ffbadd77d63e63c3f55f993f221211] The court shall not under this section disapply any provision of section 11 in its application to an overseas armed forces action if the action was brought after the expiration of the period of six years from the section 11 relevant date (see subsection (7)).
+
+(1ZB) An “**overseas armed forces action**” means an action, or cause of action, which—
+
+- (a) is against the Ministry of Defence, the Secretary of State for Defence, or any member of Her Majesty's forces,
+- (b) is brought in connection with overseas operations (see subsection (7)), and
+- (c) relates to damage that occurred outside the British Islands.
+
+(1ZC) In subsection (1ZB), “**damage**” means—
+
+- (a) in the case of an overseas armed forces action for which a period of limitation is prescribed by section 11, the personal injuries to which the action relates;
+- (b) in the case of an overseas armed forces action for which a period of limitation is prescribed by section 12(2), the death to which the action relates (and where a person sustains personal injuries outside the British Islands which are a substantial cause of their later death in any of the British Islands, or vice versa, the death is for the purposes of subsection (1ZB)(c) to be treated as occurring where the injuries were sustained).
+
+(1A)[^c809014] The court shall not under this section disapply—
+
+- (a) subsection (3) of section 11A; or
+- (b) where the damages claimed by the plaintiff are confined to damages for loss of or damage to any property, any other provision in its application to an action by virtue of Part I of the [^c809015] Consumer Protection Act 1987.
+
+(1B)[^key-b5b6311c513ec4be019c6cc46e9c1df2] Where the damages claimed are confined to damages for loss of or damage to any property, the court shall not under this section disapply any provision in its application to an action under section 2 of the Automated and Electric Vehicles Act 2018.
+
+(2) The court shall not under this section disapply section 12(1) except where the reason why the person injured could no longer maintain an action was because of the time limit in section 11 , 11A(4) or 11B(2) or (4)[^key-709ca64a4ba71f072e3c22ca3c11267f].
+
+If, for example, the person injured could at his death no longer maintain an action under the [^c809017]Fatal Accidents Act 1976 because of the time limit in Article 29 in Schedule 1 to the [^c809018]Carriage by Air Act 1961, the court has no power to direct that section 12(1) shall not apply.
+
+(2A)[^key-bf0c7ce3ad8f80f57f7317d7f432f473] But where the reason why the person injured could no longer maintain an action was because of the time limit in section 11, the court may disapply section 12(1) in its application to an overseas armed forces action only if the person died within the period of six years beginning with the section 11 relevant date (ignoring, for this purpose, the reference to section 11(5) in paragraph (a) of the definition of that term).
+
+(2B) The court shall not under this section disapply section 12(2) in its application to an overseas armed forces action if the action was brought after the expiration of the period of six years from the section 12 relevant date (see subsection (7)).
+
+(3) In acting under this section the court shall have regard to all the circumstances of the case and in particular to—
+
+- (a) the length of, and the reasons for, the delay on the part of the plaintiff;
+- (b) the extent to which, having regard to the delay, the evidence adduced or likely to be adduced by the plaintiff or the defendant is or is likely to be less cogent than if the action had been brought within the time allowed by section 11 , by section 11A[^c809019] , by section 11B[^key-2f62384dbc1c92666157097ed1c38bdd] or (as the case may be) by section 12;
+- (c) the conduct of the defendant after the cause of action arose, including the extent (if any) to which he responded to requests reasonably made by the plaintiff for information or inspection for the purpose of ascertaining facts which were or might be relevant to the plaintiff’s cause of action against the defendant;
+- (d) the duration of any disability of the plaintiff arising after the date of the accrual of the cause of action;
+- (e) the extent to which the plaintiff acted promptly and reasonably once he knew whether or not the act or omission of the defendant, to which the injury was attributable, might be capable at that time of giving rise to an action for damages;
+- (f) the steps, if any, taken by the plaintiff to obtain medical, legal or other expert advice and the nature of any such advice he may have received.
+
+(4) In a case where the person injured died when, because of section 11 , 11A(4) or 11B(2) or (4)[^key-13256c1a4552084d6e0eae0ce734994b], he could no longer maintain an action and recover damages in respect of the injury, the court shall have regard in particular to the length of, and the reasons for, the delay on the part of the deceased.
+
+(5) In a case under subsection (4) above, or any other case where the time limit, or one of the time limits, depends on the date of knowledge of a person other than the plaintiff, subsection (3) above shall have effect with appropriate modifications, and shall have effect in particular as if references to the plaintiff included references to any person whose date of knowledge is or was relevant in determining a time limit.
+
+(5A)[^key-d5b6cf268f93085a0ff5bfb15b8ca8c7] In acting under this section in relation to an overseas armed forces action—
+
+- (a) when considering the factor mentioned in subsection (3)(b), the court must have particular regard to—
+  - (i) the likely impact of the operational context on the ability of members of Her Majesty's forces to remember relevant events or actions fully or accurately, and
+  - (ii) the extent of dependence on the memories of members of Her Majesty's forces, taking into account the effect of the operational context on their ability to record, or to retain records of, relevant events or actions; and
+- (b) the court must also have particular regard to the likely impact of the action on the mental health of any witness or potential witness who is a member of Her Majesty's forces.
+
+(5B) In subsection (5A) references to “the operational context” are to the fact that the events to which the action relates took place in the context of overseas operations, and include references to the exceptional demands and stresses to which members of Her Majesty's forces are subject.
+
+(6) A direction by the court disapplying the provisions of section 12(1) shall operate to disapply the provisions to the same effect in section 1(1) of the [^c809021]Fatal Accidents Act 1976.
+
+(6A)[^key-b0607f5fc8113a5933b78616d65ee9cb] In the application of subsection (1ZA), (2A) or (2B) to an overseas armed forces action in respect of which a limitation period has been suspended in accordance with section 1(1) of the Limitation (Enemies and War Prisoners) Act 1945, any reference to the period of six years is to be treated as a reference to the period of six years plus—
+
+- (a) the period during which the limitation period was suspended, and
+- (b) any extra period after the suspension ended during which the action could have been brought only because of an extension provided for by section 1(1) of that Act.
+
+(7)[^key-5a9850d2fe6c96b53e8d42acb4fbc6f8] In this section—
+
+- “**the court**” means the court in which the action has been brought;
+- “**Her Majesty's forces**” has the same meaning as in the Armed Forces Act 2006 (see section 374 of that Act);
+- “**overseas operations**” means any operations outside the British Islands, including peacekeeping operations and operations for dealing with terrorism, civil unrest or serious public disorder, in the course of which members of Her Majesty's forces come under attack or face the threat of attack or violent resistance;
+- “**the section 11 relevant date**” means the latest of the following—
+  - (a) the date from which the period of three years starts to run in accordance with section 11(4) or (5);
+  - (b) where section 28 applies, the date from which the period of three years mentioned in subsection (1) of that section (as that subsection has effect with the modification made by subsection (6) of that section) starts to run;
+  - (c) where section 32(1)(a) or (b) applies, the date from which the period of three years starts to run in accordance with subsection (1) of that section;
+- “**the section 12 relevant date**” means the latest of the following—
+  - (a) the date from which the period of three years starts to run in accordance with section 12(2);
+  - (b) where section 28 applies, the date from which the period of three years mentioned in subsection (1) of that section (as that subsection has effect with the modification made by subsection (6) of that section) starts to run.
+
+(8) References in this section —[^key-e6ab6b5fbbdc98154f1858bf8ed6307e]
+
+- (a) to the British Islands include the territorial sea adjacent to the United Kingdom and the territorial sea adjacent to any of the Channel Islands or the Isle of Man (and the reference to any of the British Islands is to be read accordingly);
+- (b) to a member of Her Majesty's forces, in relation to an overseas armed forces action, include an individual who was a member of Her Majesty's forces at the time of the events to which the action relates;
+- (c) to section 11 , 11A or 11B[^key-7eecedf3ad8b6905d1dd05a59428718e] include references to that section as extended by any of the provisions of this Part of this Act other than this section[^key-c2a71032d477822e0f24ca50bb074dec] or by any provision of Part III of this Act.
+
+### Mediation in certain cross-border disputes[^key-13336087a97e3f67d50931749477ffd2]
+
+#### 33A. Extension of time limits because of mediation in certain cross-border disputes[^key-fe075d206b5b8a0031f862cd09b9321a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Alternative Dispute Resolution in certain cross border or domestic contractual disputes[^key-00ba1fb39d1a65ed88d5890adbdbed56]
+
+#### 33B. Extension of time limits because of alternative dispute resolution in certain consumer contract disputes[^key-d466ba94f31ebd2cfea08311cffc588b]
+
+(1)[^key-be0c3998f2e51aebabcef139dc8b0094] In this section—
+
+- “**ADR**” has the same meaning as in Chapter 4 of Part 4 of the Digital Markets, Competition and Consumers Act 2024;
+- “**ADR entity**” means a person who carries out ADR in compliance with section 293(1) of that Act (which prohibits persons from carrying out ADR unless exempt, accredited, or acting under special ADR arrangements, in accordance with Chapter 4 of Part 4 of that Act);
+- “**consumer contract dispute**” has the same meaning as in Chapter 4 of Part 4 of that Act.
+
+(2) Subsection (3) applies where—
+
+- (a) a time limit under this Act relates to the subject of the whole or part of a consumer contract dispute[^key-479619b76a6fe6bae99f2ab6af7fbb3e];
+- (b) ADR[^key-717253dbc2da452071a6456f264ce666] in relation to the consumer contract dispute[^key-49b602dc14bbaf5f5b2ab11ebff3b322] starts before the time limit expires; and
+- (c) if not extended by this section, the time limit would expire before the ADR[^key-80d7c7e0aaa981a65b4b1becab73b43e] ends or less than eight weeks after it ends.
+
+(3) For the purposes of initiating judicial proceedings, the time limit expires instead at the end of eight weeks after the ADR[^key-69dfeeb61650bfca05ea9b5daa8a9c62] ends (subject to subsection (4)).
+
+(4) If a time limit has been extended by this section, subsections (2) and (3) apply to the extended time limit as they apply to a time limit mentioned in subsection (2)(a).
+
+(5) Where more than one time limit applies in relation to a consumer contract dispute[^key-cc08f6c4b0174efccfc076c7a4cbfb68], the extension by subsection (3) of one of those time limits does not affect the others.
+
+(6) For the purposes of this section, ADR[^key-b45fd719e569cfed187a5d2af99e20e7] starts in relation to a consumer contract dispute[^key-2d49c20d107453be51a5d5203fe310e6] on the date when the dispute is first sent or otherwise communicated to the ADR entity in accordance with the entity’s rules regarding the submission of complaints.
+
+(7) For the purposes of this section, the ADR[^key-c919df77538df05a3561974964c35b4e] ends on the date of the first of these to occur—
+
+- (a) the parties reach an agreement in resolution of the consumer contract dispute[^key-63f6406c07af14850af4b54433b04fac];
+- (b) a party completes the notification of the other parties that it has withdrawn from the ADR;
+- (c) a party to whom a qualifying request is made fails to give a response reaching the other parties within 14 days of the request;
+- (d) the ADR entity notifies the party that submitted the consumer contract dispute to the ADR entity that, in accordance with its policy, the ADR entity refuses to deal with the consumer contract dispute;
+- (e) after the parties are notified that the ADR entity can no longer act in relation to the consumer contract dispute (for whatever reason), the parties fail to agree within 14 days to submit the dispute to an alternative ADR entity;
+- (f) the ADR otherwise comes to an end pursuant to the rules of the ADR entity.
+
+(8) For the purpose of subsection (7), a qualifying request is a request by a party that another (A) confirm to all parties that A is continuing with the ADR[^key-b5e5ee31292b68ad36c076b7222d8454].
+
+(9) In the case of any consumer contract dispute[^key-18c9adce91a4f98e81db4b5cc7ec5273], references in this section to ADR[^key-d5fafa4caa0821b48f245ea9ec7ccb99] are references to the ADR[^key-55c696551e238eb779e0e53086af7d82] so far as it relates to that dispute, and references to a party are to be read accordingly.
+
+## Part III — Miscellaneous and General
+
+*Extent: E+W*
+
+### 34. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c809028]
+
+### 35. New claims in pending actions: rules of court.[^c809029][^key-11366d54dc3b479ab97b5ee96abc1705][^key-8bb7592c01d11cc1fc6d5b44b7690464]
+
+(1) For the purposes of this Act, any new claim made in the course of any action shall be deemed to be a separate action and to have been commenced—
+
+- (a) in the case of a new claim made in or by way of third party proceedings, on the date on which those proceedings were commenced; and
+- (b) in the case of any other new claim, on the same date as the original action.
+
+(2) In this section a new claim means any claim by way of set-off or counterclaim, and any claim involving either—
+
+- (a) the addition or substitution of a new cause of action; or
+- (b) the addition or substitution of a new party;
+
+and “**third party proceedings**” means any proceedings brought in the course of any action by any party to the action against a person not previously a party to the action, other than proceedings brought by joining any such person as defendant to any claim already made in the original action by the party bringing the proceedings.
+
+(3) Except as provided by section 33 of this Act or by rules of court, neither the High Court nor the county[^key-c44b0399a381a691d24b378b02f3d58d] court shall allow a new claim within subsection (1)(b) above, other than an original set-off or counterclaim, to be made in the course of any action after the expiry of any time limit under this Act which would affect a new action to enforce that claim.
+
+For the purposes of this subsection, a claim is an original set-off or an original counterclaim if it is a claim made by way of set-off or (as the case may be) by way of counterclaim by a party who has not previously made any claim in the action.
+
+(4) Rules of court may provide for allowing a new claim to which subsection (3) above applies to be made as there mentioned, but only if the conditions specified in subsection (5) below are satisfied, and subject to any further restrictions the rules may impose.
+
+(5) The conditions referred to in subsection (4) above are the following—
+
+- (a)[^c1857341] in the case of a claim involving a new cause of action, if the new cause of action arises out of the same facts or substantially the same facts as are already in issue on any claim previously made in the original action; and
+- (b) in the case of a claim involving a new party, if the addition or substitution of the new party is necessary for the determination of the original action.
+
+(6) The addition or substitution of a new party shall not be regarded for the purposes of subsection (5)(b) above as necessary for the determination of the original action unless either—
+
+- (a) the new party is substituted for a party whose name was given in any claim made in the original action in mistake for the new party’s name; or
+- (b) any claim already made in the original action cannot be maintained by or against an existing party unless the new party is joined or substituted as plaintiff or defendant in that action.
+
+(7) Subject to subsection (4) above, rules of court may provide for allowing a party to any action to claim relief in a new capacity in respect of a new cause of action notwithstanding that he had no title to make that claim at the date of the commencement of the action.
+
+This subsection shall not be taken as prejudicing the power of rules of court to provide for allowing a party to claim relief in a new capacity without adding or substituting a new cause of action.
+
+(8) Subsections (3) to (7) above shall apply in relation to a new claim made in the course of third party proceedings as if those proceedings were the original action, and subject to such other modifications as may be prescribed by rules of court in any case or class of case.
+
+(9)[^c809030] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 36. Equitable jurisdiction and remedies.[^key-e23bed2610ecc47d60faf7c4ef76ab9a]
+
+(1) The following time limits under this Act, that is to say—
+
+- (a) the time limit under section 2 for actions founded on tort;
+- (aa)[^c809033] the time limit under section 4A for actions for libel or slander, or for slander of title, slander of goods or other malicious falsehood;
+- (b) the time limit under section 5 for actions founded on simple contract;
+- (c) the time limit under section 7 for actions to enforce awards where the submission is not by an instrument under seal;
+- (d) the time limit under section 8 for actions on a specialty;
+- (e) the time limit under section 9 for actions to recover a sum recoverable by virtue of any enactment; and
+- (f) the time limit under section 24 for actions to enforce a judgment;
+
+shall not apply to any claim for specific performance of a contract or for an injunction or for other equitable relief, except in so far as any such time limit may be applied by the court by analogy in like manner as the corresponding time limit under any enactment repealed by the [^c809034]Limitation Act 1939 was applied before 1st July 1940.
+
+(2) Nothing in this Act shall affect any equitable jurisdiction to refuse relief on the ground of acquiescence or otherwise.
+
+### 37. Application to the Crown and the Duke of Cornwall.
+
+(1) Except as otherwise expressly provided in this Act, and without prejudice to section 39, this Act shall apply to proceedings by or against the Crown in like manner as it applies to proceedings between subjects.
+
+(2) Notwithstanding subsection (1) above, this Act shall not apply to—
+
+- (a) any proceedings by the Crown for the recovery of any tax or duty or interest on any tax or duty;
+- (b) any forfeiture proceedings under the customs and excise Acts (within the meaning of the [^c809035]Customs and Excise Management Act 1979); or
+- (c) any proceedings in respect of the forfeiture of a ship.
+
+In this subsection “**duty**” includes any debt due to Her Majesty under section 16 of the Tithe [^c809036]Act 1936, and “**ship**” includes every description of vessel used in navigation not propelled by oars.
+
+(3) For the purposes of this section, proceedings by or against the Crown include—
+
+- (a) proceedings by or against Her Majesty in right of the Duchy of Lancaster;
+- (b) proceedings by or against any Government department or any officer of the Crown as such or any person acting on behalf of the Crown; and
+- (c) proceedings by or against the Duke of Cornwall.
+
+(4) For the purpose of the provisions of this Act relating to actions for the recovery of land and advowsons, references to the Crown shall include references to Her Majesty in right of the Duchy of Lancaster; and those provisions shall apply to lands and advowsons forming part of the possessions of the Duchy of Cornwall as if for the references to the Crown there were substituted references to the Duke of Cornwall as defined in the [^c809037]Duchy of Cornwall Management Act 1863.
+
+(5) For the purposes of this Act a proceeding by petition of right (in any case where any such proceeding lies, by virtue of any saving in section 40 of the [^c809038]Crown Proceedings Act 1947, notwithstanding the general abolition by that Act of proceedings by way of petition of right) shall be treated as being commenced on the date on which the petition is presented.
+
+(6) Nothing in this Act shall affect the prerogative right of Her Majesty (whether in right of the Crown or of the Duchy of Lancaster) or of the Duke of Cornwall to any gold or silver mine.
+
+### 38. Interpretation.
+
+(1) In this Act, unless the context otherwise requires—
+
+- “**action**” includes any proceeding in a court of law, including an ecclesiastical court (and see subsection (11) below)[^key-0b5bdc3ec8332256f11492ac6a1397bc];
+- “**land**” includes corporeal hereditaments, tithes and rent-charges and any legal or equitable estate or interest therein [^c809058]... but except as provided above in this definition does not include any incorporeal hereditament;
+- “**personal estate**” and “**personal property**” do not include chattels real;
+- “**personal injuries**” includes any disease and any impairment of a person’s physical or mental condition, and “injury” and cognate expressions shall be construed accordingly;
+- “**rent**” includes a rentcharge and a rentservice;
+- “**rentcharge**” means any annuity or periodical sum of money charged upon or payable out of land, except a rent service or interest on a mortgage on land;
+- “**settled land**”, “**statutory owner**” and “**tenant for life**” have the same meanings respectively as in the [^c809059]Settled Land Act 1925;
+- “**trust**” and “**trustee**” have the same meanings respectively as in the [^c809060]Trustee Act 1925; and
+- [^c809061]...
+
+(2) For the purposes of this Act a person shall be treated as under a disability while he is an infant, or lacks capacity (within the meaning of the Mental Capacity Act 2005) to conduct legal proceedings[^c1857941].
+
+(3)[^c1857984] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^c1857984] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Subject to subsection (6) below, a person shall be treated as claiming through another person if he became entitled by, through, under, or by the act of that other person to the right claimed, and any person whose estate or interest might have been barred by a person entitled to an entailed interest in possession shall be treated as claiming through the person so entitled.
+
+(6) A person becoming entitled to any estate or interest by virtue of a special power of appointment shall not be treated as claiming through the appointor.
+
+(7) References in this Act to a right of action to recover land shall include references to a right to enter into possession of the land or, in the case of [^key-9e89125b2aaff8c11aa9cf10c7c325f8]... tithes, to distrain for arrears of [^key-9e89125b2aaff8c11aa9cf10c7c325f8]... tithe, and references to the bringing of such an action shall include references to the making of such an entry or distress.
+
+(8) References in this Act to the possession of land shall, in the case of tithes and rentcharges, be construed as references to the receipt of the tithe or rent, and references to the date of dispossession or discontinuance of possession of land shall, in the case of rent charges, be construed as references to the date of the last receipt of rent.
+
+(9) References in Part II of this Act to a right of action shall include references to—
+
+- (a) a cause of action;
+- (b) a right to receive money secured by a mortgage or charge on any property;
+- (c) a right to recover proceeds of the sale of land; and
+- (d) a right to receive a share or interest in the personal estate of a deceased person.
+
+(10) References in Part II to the date of the accrual of a right of action shall be construed—
+
+- (a) in the case of an action upon a judgment, as references to the date on which the judgment became enforceable; and
+- (b) in the case of an action to recover arrears of [^key-9e89125b2aaff8c11aa9cf10c7c325f8]... interest, or damages in respect of arrears of [^key-9e89125b2aaff8c11aa9cf10c7c325f8]... interest, as references to the date on which the [^key-9e89125b2aaff8c11aa9cf10c7c325f8]... interest became due.
+
+(11)[^key-75827f46c93eadc75932cf6d1a0eb085] References in this Act to an action do not include any method of recovery of a sum recoverable under—
+
+- (a) Part 3 of the Social Security Administration Act 1992, including as amended by the Public Authorities (Fraud, Error and Recovery) Act 2025,[^key-6ed7e0e8b3b000937f79d0395cd2c255]
+- (b) section 127(c) of the Social Security Contributions and Benefits Act 1992, [^key-539b04d181b77c9bb1effdab30b13a1c]...
+- (c) Part 1 of the Tax Credits Act 2002, or[^key-f51548b2f28dbde5c67486268a04f28a]
+- (d) Part 1 of the Public Authorities (Fraud, Error and Recovery) Act 2025,
+
+other than a proceeding in a court of law.
+
+### 39. Saving for other limitation enactments.
+
+This Act shall not apply to any action or arbitration for which a period of limitation is prescribed by or under any other enactment (whether passed before or after the passing of this Act) or to any action or arbitration to which the Crown is a party and for which, if it were between subjects, a period of limitation would be prescribed by or under any such other enactment.
+
+### 40. Transitional provisions, amendments and repeals.
+
+(1) Schedule 2 to this Act, which contains transitional provisions, shall have effect.
+
+(2) The enactments specified in Schedule 3 to this Act shall have effect subject to the amendments specified in that Schedule, being amendments consequential on the provisions of this Act; but the amendment of any enactment by that Schedule shall not be taken as prejudicing the operation of section 17(2) of the [^c809069]Interpretation Act 1978 (effect of repeals).
+
+(3)[^c809070] The enactments specified in Schedule 4 to this Act are hereby repealed to the extent specified in column 3 of that Schedule.
+
+### 41. Short title, commencement and extent.
+
+(1) This Act may be cited as the Limitation Act 1980.
+
+(2) This Act, except section 35, shall come into force on 1st May 1981.
+
+(3)[^c809071] Section 35 of this Act shall come into force on 1st May 1981 to the extent (if any) that the section substituted for section 28 of the [^c809072]Limitation Act 1939 by section 8 of the [^c809073]Limitation Amendment Act 1980 is in force immediately before that date; but otherwise section 35 shall come into force on such day as the Lord Chancellor may by order made by statutory instrument appoint, and different days may be appointed for different purposes of that section (including its application in relation to different courts or proceedings).
+
+(4) The repeal by this Act of section 14(1) of the [^c809074]Limitation Act 1963 and the corresponding saving in paragraph 2 of Schedule 2 to this Act shall extend to Northern Ireland, but otherwise this Act does not extend to Scotland or to Northern Ireland.
+
+SCHEDULES
+
+## SCHEDULE 1 — Provisions with Respect to Actions to Recover Land
+
+*Extent: E+W*
+
+Section 15(6) (7).
+
+### Part I — Accrual of Rights of Action to Recover Land
+
+#### Accrual of right of action in case of present interests in land
+
+**1.** Where the person bringing an action to recover land, or some person through whom he claims, has been in possession of the land, and has while entitled to the land been dispossessed or discontinued his possession, the right of action shall be treated as having accrued on the date of the dispossession or discontinuance.
+
+**2.** Where any person brings an action to recover any land of a deceased person (whether under a will or on intestacy) and the deceased person—
+
+- (a) was on the date of his death in possession of the land or, in the case of a rentcharge created by will or taking effect upon his death, in possession of the land charged; and
+- (b) was the last person entitled to the land to be in possession of it;
+
+the right of action shall be treated as having accrued on the date of his death.
+
+**3.** Where any person brings an action to recover land, being an estate or interest in possession assured otherwise than by will to him, or to some person through whom he claims, and—
+
+- (a) the person making the assurance was on the date when the assurance took effect in possession of the land or, in the case of a rentcharge created by the assurance, in possession of the land charged; and
+- (b) no person has been in possession of the land by virtue of the assurance;
+
+the right of action shall be treated as having accrued on the date when the assurance took effect.
+
+#### Accrual of right of action in case of future interests
+
+**4.** The right of action to recover any land shall, in a case where—
+
+- (a) the estate or interest claimed was an estate or interest in reversion or remainder or any other future estate or interest; and
+- (b) no person has taken possession of the land by virtue of the estate or interest claimed;
+
+be treated as having accrued on the date on which the estate or interest fell into possession by the determination of the preceding estate or interest.
+
+**5.** (1) Subject to sub-paragraph (2) below, a tenancy from year to year or other period, without a lease in writing, shall for the purposes of this Act be treated as being determined at the expiration of the first year or other period; and accordingly the right of action of the person entitled to the land subject to the tenancy shall be treated as having accrued at the date on which in accordance with this sub-paragraph the tenancy is determined.
+
+(2) Where any rent has subsequently been received in respect of the tenancy, the right of action shall be treated as having accrued on the date of the last receipt of rent.
+
+**6.** (1) Where—
+
+- (a) any person is in possession of land by virtue of a lease in writing by which a rent of not less than ten pounds a year is reserved; and
+- (b) the rent is received by some person wrongfully claiming to be entitled to the land in reversion immediately expectant on the determination of the lease; and
+- (c) no rent is subsequently received by the person rightfully so entitled;
+
+the right of action to recover the land of the person rightfully so entitled shall be treated as having accrued on the date when the rent was first received by the person wrongfully claiming to be so entitled and not on the date of the determination of the lease.
+
+(2) Sub-paragraph (1) above shall not apply to any lease granted by the Crown.
+
+#### Accrual of right of action in case of forfeiture or breach of condition
+
+**7.** (1) Subject to sub-paragraph (2) below, a right of action to recover land by virtue of a forfeiture or breach of condition shall be treated as having accrued on the date on which the forfeiture was incurred or the condition broken.
+
+(2) If any such right has accrued to a person entitled to an estate or interest in reversion or remainder and the land was not recovered by virtue of that right, the right of action to recover the land shall not be treated as having accrued to that person until his estate or interest fell into possession, as if no such forfeiture or breach of condition had occurred.
+
+#### Right of action not to accrue or continue unless there is adverse possession
+
+**8.** (1) No right of action to recover land shall be treated as accruing unless the land is in the possession of some person in whose favour the period of limitation can run (referred to below in this paragraph as “**adverse possession**”); and where under the preceding provisions of this Schedule any such right of action is treated as accruing on a certain date and no person is in adverse possession on that date, the right of action shall not be treated as accruing unless and until adverse possession is taken of the land.
+
+(2) Where a right of action to recover land has accrued and after its accrual, before the right is barred, the land ceases to be in adverse possession, the right of action shall no longer be treated as having accrued and no fresh right of action shall be treated as accruing unless and until the land is again taken into adverse possession.
+
+(3) For the purposes of this paragraph—
+
+- (a) possession of any land subject to a rentcharge by a person (other than the person entitled to the rentcharge) who does not pay the rent shall be treated as adverse possession of the rentcharge; and
+- (b) receipt of rent under a lease by a person wrongfully claiming to be entitled to the land in reversion immediately expectant on the determination of the lease shall be treated as adverse possession of the land.
+
+(4) For the purpose of determining whether a person occupying any land is in adverse possession of the land it shall not be assumed by implication of law that his occupation is by permission of the person entitled to the land merely by virtue of the fact that his occupation is not inconsistent with the latter’s present or future enjoyment of the land.
+
+This provision shall not be taken as prejudicing a finding to the effect that a person’s occupation of any land is by implied permission of the person entitled to the land in any case where such a finding is justified on the actual facts of the case.
+
+#### Possession of beneficiary not adverse to others interested in settled land or land held on trust for sale
+
+**9.** Where any settled land or any land subject to a trust of land[^c809075] is in the possession of a person entitled to a beneficial interest in the land [^c809076]. . . (not being a person solely or absolutely entitled to the land [^c809076]. . .), no right of action to recover the land shall be treated for the purposes of this Act as accruing during that possession to any person in whom the land is vested as tenant for life, statutory owner or trustee, or to any other person entitled to a beneficial interest in the land [^c809076]. . ..
+
+### Part II — Modification of Section 15 where Crown or Certain Corporations Sole are involved
+
+**10.** Subject to paragraph 11 below, section 15(1) of this Act shall apply to the bringing of an action to recover any land by the Crown or by any spiritual or eleemosynary corporation sole with the substitution for the reference to twelve years of a reference to thirty years.
+
+**11.** (1) An action to recover foreshore may be brought by the Crown at any time before the expiration of sixty years from the date mentioned in section 15(1) of this Act.
+
+(2) Where any right of action to recover land which has ceased to be foreshore but remains in the ownership of the Crown accrued when the land was foreshore, the action may be brought at any time before the expiration of—
+
+- (a) sixty years from the date of accrual of the right of action; or
+- (b) thirty years from the date when the land ceased to be foreshore;
+
+whichever period first expires.
+
+(3) In this paragraph “**foreshore**” means the shore and bed of the sea and of any tidal water, below the line of the medium high tide between the spring tides and the neap tides.
+
+**12.** Notwithstanding section 15(1) of this Act, where in the case of any action brought by a person other than the Crown or a spiritual or eleemosynary corporation sole the right of action first accrued to the Crown or any such corporation sole through whom the person in question claims, the action may be brought at any time before the expiration of—
+
+- (a) the period during which the action could have been brought by the Crown or the corporation sole; or
+- (b) twelve years from the date on which the right of action accrued to some person other than the Crown or the corporation sole;
+
+whichever period first expires.
+
+**13.** Section 15(2) of this Act shall apply in any case where the Crown or a spiritual or eleemosynary corporation sole is entitled to the succeeding estate or interest with the substitution—
+
+- (a) for the reference to twelve years of a reference to thirty years; and
+- (b) for the reference to six years of a reference to twelve years.
+
+## SCHEDULE 2 — Transitional Provisions
+
+Section 40(1).
+
+*Extent: E+W*
+
+**1.** Nothing in this Act shall affect the operation of section 4 of the [^c809079]Limitation Act 1963, as it had effect immediately before 1 January 1979 (being the date on which the [^c809080]Civil Liability (Contribution) Act 1978 came in to force), in relation to any case where the damage in question occurred before that date.
+
+**2.** The amendment made by section 14(1) of the Limitation Act 1963 in section 5 of the [^c809081]Limitation (Enemies and War Prisoners) Act 1945 (which provides that section 5 shall have effect as if for the words “in force in Northern Ireland at the date of the passing of this Act” there were substituted the words “ for the time being in force in Northern Ireland ”) shall continue to have effect notwithstanding the repeal by this Act of section 14(1).
+
+*Extent: E+W*
+
+**3.** It is hereby declared that a decision taken at any time by a court to grant, or not to grant, leave under Part I of the Limitation Act 1963 (which, so far as it related to leave, was repealed by the [^c809082]Limitation Act 1975) does not affect the determination of any question in proceedings under any provision of this Act which corresponds to a provision of the Limitation Act 1975, but in such proceedings account may be taken of evidence admitted in proceedings under Part I of the Limitation Act 1963.
+
+*Extent: E+W*
+
+**4.** (1) In section 33(6) of this Act the reference to section 1(1) of the [^c809083]Fatal Accidents Act 1976 shall be construed as including a reference to section 1 of the [^c809084]Fatal Accidents Act 1846.
+
+(2) Any other reference in that section, or in section 12 or 13 of this Act, to the [^c809085]Fatal Accidents Act 1976 shall be construed as including a reference to the [^c809086]Fatal Accidents Act 1846.
+
+*Extent: E+W*
+
+**5.** Notwithstanding anything in section 29(7) of this Act or in the repeals made by this Act, the [^c809087]Limitation Act 1939 shall continue to have effect in relation to any acknowledgment or payment made before the coming into force of section 6 of the [^c809088]Limitation Amendment Act 1980 (which amended section 23 of the Limitation Act 1939 and made certain repeals in sections 23 and 25 of that Act so as to prevent the revival by acknowledgment or part payment of a right of action barred by that Act) as it had effect immediately before section 6 came into force.
+
+*Extent: E+W*
+
+**6.** Section 28 of the Limitation Act 1939 (provisions as to set-off or counterclaim) shall continue to apply (as originally enacted) to any claim by way of set-off or counterclaim made in an action to which section 35 of this Act does not apply, but as if the reference in section 28 to that Act were a reference to this Act; and, in relation to any such action, references in this Act to section 35 of this Act shall be construed as references to section 28 as it applies by virtue of this paragraph.
+
+*Extent: E+W*
+
+**7.** Section 37(2)(c) of this Act shall be treated for the purposes of the [^c809089]Hovercraft Act 1968 as if it were contained in an Act passed before that Act.
+
+*Extent: E+W*
+
+**8.** In relation to a lease granted before the coming into force of section 3(2) of the Limitation Amendment Act 1980 (which substituted “ten pounds a year” for “ twenty shillings ” in section 9(3) of the Limitation Act 1939), paragraph 6(1)(a) of Schedule 1 to this Act shall have effect as if for the words “ten pounds a year” there were substituted the words “ twenty shillings ”.
+
+*Extent: E+W*
+
+**9.** (1) Nothing in any provision of this Act shall—
+
+- (a) enable any action to be brought which was barred by this Act or (as the case may be) by the Limitation Act 1939 before the relevant date; or
+- (b) affect any action or arbitration commenced before that date or the title to any property which is the subject of any such action or arbitration.
+
+(2) In sub-paragraph (1) above “**the relevant date**” means—
+
+- (a) in relation to section 35 of this Act, the date on which that section comes into force in relation to actions of the description in question or, if section 8 of the Limitation Amendment Act 1980 (which substituted the provisions reproduced in section 35 for section 28 of the Limitation Act 1939) is in force immediately before 1st May 1981 in relation to actions of that description, the date on which section 8 came into force in relation to actions of that description; and
+- (b) in relation to any other provision of this Act, 1st August 1980 (being the date of coming into force of the remaining provisions of the Limitation Amendment Act 1980, apart from section 8).
+
+## SCHEDULE 3 — Consequential Amendments
+
+Section 40(2)
+
+*Extent: E+W*
+
+**1.**[^c809092] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.** In section 21A of the [^c809093]Administration of Estates Act 1925 (debtor who becomes creditor’s executor by representation or administrator to account for debt to estate) the reference in subsection (2) to the [^c809094]Limitation Act 1939 shall be construed as including a reference to this Act.
+
+*Extent: E+W*
+
+**3.**[^c809095] In section 2(1) of the [^c809096] Limitation (Enemies and War Prisoners) Act 1945 (interpretation), for the words “the Limitation Act 1939” in the definition of “statute of limitation” there shall be substituted the words “ the Limitation Act 1980 ”.
+
+*Extent: E+W*
+
+**4.**[^c809097] In section 3(4) of the [^c809098] Charitable Trusts (Validation) Act 1954 (application of section 31(2) to (4) of the Limitation Act 1939 for purposes of that section), for the words “Subsections (2) to (4) of section thirty-one of the Limitation Act 1939” there shall be substituted the words “ Subsections (2) to (6) of section thirty-one of the Limitation Act 1980 ”.
+
+*Extent: E+W*
+
+**5.**[^c809099] In section 5(3) of the [^c809100] Carriage by Air Act 1961 (application of time limit in that Act to arbitrations), for the words “section twenty-seven of the Limitation Act 1939” there shall be substituted the words “ section thirty-four of the Limitation Act 1980 ”.
+
+*Extent: E+W*
+
+**6.**[^c809101] In section 7(2)(*a*) of the [^c809102] Carriage of Goods by Road Act 1965 (appliction of time limit in that Act to arbitrations), for the words “section 27 of the Limitation Act 1939” there shall be substituted the words “ section 34 of the Limitation Act 1980 ”.
+
+*Extent: E+W*
+
+**7.**[^c809103] In paragraph 7(6) of Schedule 3 to the [^c809104] Agriculture Act 1967 (conditions applying to amalgamated agricultural units) for the words “the Limitation Act 1939” there shall be substituted the words “ the Limitation Act 1980 ”.
+
+*Extent: E+W*
+
+**8.**[^c809105] In paragraph 6(2) of Schedule 3 to the [^c809106] Mines and Quarries (Tips) Act 1969 (time limits for claims for compensation under that Act to be treated as if contained in Part I of the Limitation Act 1939), for the words “the Limitation Act 1939” there shall be substituted the words “ the Limitation Act 1980 ”.
+
+*Extent: E+W*
+
+**9.**[^c809107] In section 25(5) of the [^c809108] Law of Property Act 1969 (accrual of cause of action to recover compensation for loss due to undisclosed land charges), for the words “the Limitation Act 1939” there shall be substituted the words “ the Limitation Act 1980 ”.
+
+*Extent: E+W*
+
+**10.**[^c809109] In section 10 of the [^c809110] Animals Act 1971 (application of certain enactments to liability under sections 2 to 4 of that Act) for the words “the Limitation Acts 1939 to 1963” there shall be substituted the words “ the Limitation Act 1980 ”.
+
+*Extent: E+W*
+
+**11.**[^c809111] In section 2(4) of the [^c809112] Deposit of Poisonous Waste Act 1972 (civil liability under that Act) for the words from “the Limitation Acts 1939 and 1963” to “1954” there shall be substituted the words “ the Limitation Act 1980 ”.
+
+*Extent: E+W*
+
+**12.**[^c809113] In section 88(4) of the [^c809114] Control of Pollution Act 1974 (civil liability under that Act) for paragraph (*c*) there shall be substituted the following paragraph—
+
+> - (c) the Limitation Act 1980
+
+.
+
+## SCHEDULE 4 — Enactments Repealed[^c809115]
+
+Section 40(3).
+
+| Chapter | Short title | Extent of Repeal |
+| --- | --- | --- |
+| 2 & 3 Geo. 6 c. 21. | The Limitation Act 1939. | The whole Act. |
+| 7 & 8 Eliz. 2 c. 72. | The Mental Health Act 1959. | In Schedule 7, Part I, the entry relating to the Limitation Act 1939. |
+| 1963 c. 47. | The Limitation Act 1963. | Sections 4 and 5. |
+|  |  | Section 7(7). |
+|  |  | Section 14(1). |
+|  |  | Sections 15 and 16. |
+| 1975 c. 54. | The Limitation Act 1975. | The whole Act. |
+| 1976 c. 30. | The Fatal Accidents Act 1976. | In Schedule 1, paragraph 3. |
+| 1978 c. 47. | The Civil Liability (Contribution) Act 1978. | In Schedule 1, paragraph 6. |
+| 1980 c. 24. | The Limitation Amendment Act 1980. | Sections 1 to 9. |
+|  |  | Sections 11 to 13. |
+|  |  | Section 14(2) to (4). |
+|  |  | Schedules 1 and 2. |
+
+## Annotations
+
+[^c808949]: Modification: Act extended by [Water Act 1981 (c. 12, SIF 130)](https://www.legislation.gov.uk/ukpga/1981/12), [s. 6(4)](https://www.legislation.gov.uk/ukpga/1981/12/section/6/4)
+
+[^c808950]: Modification: Act amended (1.5.1994) by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 73(9)(c)](https://www.legislation.gov.uk/ukpga/1990/43/section/73/9/c); [S.I. 1994/1096](https://www.legislation.gov.uk/uksi/1994/1096), [art.2(1)](https://www.legislation.gov.uk/uksi/1994/1096/article/2/1)
+
+    Act amended (31.1.1997) by [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23), [s. 14(1)](https://www.legislation.gov.uk/ukpga/1996/23/section/14/1) (with [s. 81(2)](https://www.legislation.gov.uk/ukpga/1996/23/section/81/2)); [S.I. 1996/3146](https://www.legislation.gov.uk/uksi/1996/3146), [art. 3](https://www.legislation.gov.uk/uksi/1996/3146/article/3)
+
+[^c808951]: Modification: Act modified (E.W.) (1.12.1991) by [Water Industry Act 1991 (c. 56, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/56), [ss. 209(4)](https://www.legislation.gov.uk/ukpga/1991/56/section/209/4), [223(2)](https://www.legislation.gov.uk/ukpga/1991/56/section/223/2) (with [ss. 82(3)](https://www.legislation.gov.uk/ukpga/1991/56/section/82/3), [186(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/186/1), [222(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/222/1), [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/1991/56/schedule/14/paragraph/6))
+
+    Act applied with modifications by [Water Resources Act 1991 (c. 57, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/57), [s. 208(4)](https://www.legislation.gov.uk/ukpga/1991/57/section/208/4) (with [ss. 16(6)](https://www.legislation.gov.uk/ukpga/1991/57/section/16/6), [179](https://www.legislation.gov.uk/ukpga/1991/57/section/179), [222(3)](https://www.legislation.gov.uk/ukpga/1991/57/section/222/3), [224(1)](https://www.legislation.gov.uk/ukpga/1991/57/section/224/1), [225(4)](https://www.legislation.gov.uk/ukpga/1991/57/section/225/4), [Sch. 22 para. 1](https://www.legislation.gov.uk/ukpga/1991/57/schedule/22/paragraph/1), [Sch. 23 para. 6](https://www.legislation.gov.uk/ukpga/1991/57/schedule/23/paragraph/6))
+
+    Act modified (27.4.1997) by [1925 c. 21](https://www.legislation.gov.uk/ukpga/1925/21), [s. 83(12)](https://www.legislation.gov.uk/ukpga/1925/21/section/83/12) (as substituted (27.4.1997) by [1997 c. 2](https://www.legislation.gov.uk/ukpga/1997/2), [s. 2](https://www.legislation.gov.uk/ukpga/1997/2/section/2) (with [s. 5(5)](https://www.legislation.gov.uk/ukpga/1997/2/section/5/5)))
+
+[^c808952]: Commencement: Act wholly in force at 1. 5. 1981 see s. 41 (2)(3)
+
+[^c808953]: Modification: Act applied (31.1.1997) by [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23), [s. 13](https://www.legislation.gov.uk/ukpga/1996/23/section/13) (with [s. 81(2)](https://www.legislation.gov.uk/ukpga/1996/23/section/81/2)); [S.I. 1996/3146](https://www.legislation.gov.uk/uksi/1996/3146), [art. 3](https://www.legislation.gov.uk/uksi/1996/3146/article/3)
+
+    Act modified (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [ss. 103](https://www.legislation.gov.uk/ukpga/2002/9/section/103), [134](https://www.legislation.gov.uk/ukpga/2002/9/section/134), [136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2002/9/schedule/8/paragraph/8), [Sch. 12 para. 19(1)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/19/1) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2](https://www.legislation.gov.uk/uksi/2003/1725/article/2)
+
+[^c1858003]: Modification: Act: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12), [s. 320](https://www.legislation.gov.uk/ukpga/2004/12/section/320) to be construed as one with this Act (22.7.2004) by virtue of [The Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 320](https://www.legislation.gov.uk/ukpga/2004/12/section/320)
+
+[^c1880267]: Modification: Act: for the words "Supreme Court Act 1981" wherever they occur there is substituted (prosp.) the words "Senior Courts Act 1981" by virtue of [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2) \[Editorial Note: this amendment will be carried through into the text of the Act at the same time as any other effects on the Act for the year in which the relevant commencement order (or first such order) is made\]
+
+[^key-6793453ab8d86a43415477074a1b8355]: Modification: Act modified (1.10.2010) by [The Building Regulations 2010 (S.I. 2010/2214)](https://www.legislation.gov.uk/uksi/2010/2214), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2214/regulation/1), [32(3)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/32/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2010/2214/regulation/9))
+
+[^key-0832799d82d880e2c62cb64bce162a80]: Modification: Act applied (with modifications) by [S.I. 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277), [s. 27K(5)](https://www.legislation.gov.uk/uksi/2008/1277/section/27K/5) (as inserted (1.10.2014) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2014/870/regulation/3))
+
+[^key-52b660a56d6171a75b5ea79ec9a8f62e]: Modification: Act applied (with modifications) by [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41), [s. 47E(2)(a)](https://www.legislation.gov.uk/ukpga/1998/41/section/47E/2/a) (as inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 8(1)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/8/1) (with [Sch. para. 8(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/paragraph/8/2)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j))
+
+[^key-03fbc8ccec1c16ba203fb8e0399be80b]: Modification: Act applied (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [ss. 46(8)](https://www.legislation.gov.uk/ukpga/2015/15/section/46/8), [100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+
+[^key-98c9aa793a86093382ca75f2362e8062]: Modification: Act modified by [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52), [s. 12E](https://www.legislation.gov.uk/ukpga/1988/52/section/12E) (as inserted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/73/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/273/article/2/a))
+
+[^key-97b9e0ab782157ebb7092d71d7c71a19]: Modification: Act modified (30.9.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 125(5)](https://www.legislation.gov.uk/ukpga/2021/30/section/125/5), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 19](https://www.legislation.gov.uk/ukpga/2021/30/schedule/19)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+
+[^c1857937]: Textual amendment: S. 4(5)(b) substituted (15.1.2007) by [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/14/1), [15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/18) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2006/35/schedule/2/paragraph/8)); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
+
+[^c808956]: Textual amendment: S. 4A (which was inserted by [1985 c. 61](https://www.legislation.gov.uk/ukpga/1985/61), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/1985/61/section/57/2), [69(5)](https://www.legislation.gov.uk/ukpga/1985/61/section/69/5), [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/1985/61/schedule/9/paragraph/14)) substituted (4.9.1996) by [1996 c. 31](https://www.legislation.gov.uk/ukpga/1996/31), [ss. 5(2)(6)](https://www.legislation.gov.uk/ukpga/1996/31/section/5/2/6), [19](https://www.legislation.gov.uk/ukpga/1996/31/section/19) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/1996/31/section/20/2))
+
+[^key-f8d062dd37d2b216d6f23b1a49af2430]: Textual amendment: [S. 4B](https://www.legislation.gov.uk/ukpga/1980/58/section/4B) inserted (28.6.2022) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 135(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/135/1), [170(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3) (with [s. 135(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/135/3)[(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/135/4)[(6)](https://www.legislation.gov.uk/ukpga/2022/30/section/135/6))
+
+[^c808957]: Modification: S. 5 extended (11.11.1999 with effect as mentioned in [s. 10(2)(3)](https://www.legislation.gov.uk/ukpga/1999/31/section/10/2/3) of the amending Act) by [1999 c. 31](https://www.legislation.gov.uk/ukpga/1999/31), [ss. 7(3)](https://www.legislation.gov.uk/ukpga/1999/31/section/7/3), [10(2)(3)](https://www.legislation.gov.uk/ukpga/1999/31/section/10/2/3)
+
+[^key-84e9b419aeb556849812f61d68f62d09]: Textual amendment: S. 5A inserted (4.5.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 30](https://www.legislation.gov.uk/ukpga/2016/12/section/30), [44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3) (with [s. 44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3))
+
+[^c808958]: Marginal citation: [1882 c. 61](https://www.legislation.gov.uk/ukpga/1882/61)**(13)**
+
+[^c808959]: Modification: S. 8 extended (11.11.1999 with effect as mentioned in [s. 10(2)(3)](https://www.legislation.gov.uk/ukpga/1999/31/section/10/2/3) of the amending Act) by [1999 c. 31](https://www.legislation.gov.uk/ukpga/1999/31), [ss. 7(3)](https://www.legislation.gov.uk/ukpga/1999/31/section/7/3), [10(2)(3)](https://www.legislation.gov.uk/ukpga/1999/31/section/10/2/3)
+
+[^key-b7bf4a3f0b73c393d332a2a3293a24bb]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/ukpga/1980/58/section/9/2) inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/8); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+
+[^c808960]: Marginal citation: [1978 c. 47](https://www.legislation.gov.uk/ukpga/1978/47)**(122:3)**
+
+[^key-ad8f79f55fd35f0075c26f3de2afbc95]: Textual amendment: Word in s. 10(5) omitted (31.12.2020) by virtue of [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/7/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), regs. 1(1), 4(5)(6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
+
+[^key-4172c99f8b91037865adc30aca3d3f90]: Textual amendment: S. 10A inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/9); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+
+[^key-1e8d1b18e6cba05f41ad2338b913a7bf]: Textual amendment: [S. 10B](https://www.legislation.gov.uk/ukpga/1980/58/section/10B) inserted (28.6.2022) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 150](https://www.legislation.gov.uk/ukpga/2022/30/section/150), [170(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3)
+
+[^key-c62848a524162a32e6114026439a5b05]: Textual amendment: Word in s. 11 cross-heading inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/10); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+
+[^c808962]: Textual amendment: S. 11(1A) inserted (16.6.1997) by [1997 c. 40](https://www.legislation.gov.uk/ukpga/1997/40), [s.6](https://www.legislation.gov.uk/ukpga/1997/40/section/6); [S.I. 1997/1498](https://www.legislation.gov.uk/uksi/1997/1498), [art.2](https://www.legislation.gov.uk/uksi/1997/1498/article/2)
+
+[^c808963]: Marginal citation: [1934 c. 41](https://www.legislation.gov.uk/ukpga/1934/41)**(122:3)**
+
+[^key-64721e9fb1000ba4120db424802d3062]: Textual amendment: [Ss. 11ZA](https://www.legislation.gov.uk/ukpga/1980/58/section/11ZA), [11ZB](https://www.legislation.gov.uk/ukpga/1980/58/section/11ZB) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 96(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/96/2), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/b)
+
+[^c808964]: Textual amendment: S. 11A inserted (1.3.1988) by [Consumer Protection Act 1987 (c. 43, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1987/43), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/1987/43/section/6/6), [50(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/50/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1987/43/schedule/1/paragraph/1)
+
+[^c808965]: Marginal citation: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43)**(109:1)**
+
+[^c808966]: Marginal citation: [1934 c. 41](https://www.legislation.gov.uk/ukpga/1934/41)**(122:3)**
+
+[^c808967]: Marginal citation: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43)**(109:1)**
+
+[^key-7f3c1d4c2267be2079a06f3f80e9c6a0]: Textual amendment: S. 11B inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/11); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+
+[^c808968]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30)**(122:3)**
+
+[^key-cba11f258f8c155a5343c7604b5a754f]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/ukpga/1980/58/section/12/1) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/12); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+
+[^key-724b930247723d0fb6381d9c5616d01c]: Textual amendment: [S. 12(1A)](https://www.legislation.gov.uk/ukpga/1980/58/section/12/1A) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 96(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/96/3), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/b)
+
+[^key-69b8db914c7e9a72ade04f658caf8bb4]: Textual amendment: Word in [s. 12(3)](https://www.legislation.gov.uk/ukpga/1980/58/section/12/3) omitted (31.12.2020) by virtue of The Cross-[Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/7/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3761f90bdb84fa34c50d542ab4429bb6]: Textual amendment: Words in s. 12(3) inserted (9.7.2015) by [The Alternative Dispute Resolution for Consumer Disputes (Amendment) Regulations 2015 (S.I. 2015/1392)](https://www.legislation.gov.uk/uksi/2015/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/4/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/3))
+
+[^key-4ca6d96d5e2097252d8de608ec356ad3]: Textual amendment: Words in s. 14 heading substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 13(2)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/13/2); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+
+[^c808970]: Textual amendment: Words inserted (1.3.1988) by [Consumer Protection Act 1987 (c. 43, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1987/43), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/1987/43/section/6/6), [50(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/50/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1987/43/schedule/1/paragraph/3)
+
+[^key-1cbeb63f7d8b404127d56d6c4a169267]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukpga/1980/58/section/14/1) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 13(3)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/13/3); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+
+[^c808971]: Textual amendment: S. 14(1A) inserted (1.3.1988) by [Consumer Protection Act 1987 (c. 43, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1987/43), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/1987/43/section/6/6), [50(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/50/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1987/43/schedule/1/paragraph/3)
+
+[^key-ec461a5e6e8f9d7ec1aa6b41cbaeb36c]: Textual amendment: [S. 14(1B)](https://www.legislation.gov.uk/ukpga/1980/58/section/14/1B) inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 13(4)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/13/4); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+
+[^c808972]: Textual amendment: Ss. 14A, 14B inserted with saving by [Latent Damage Act 1986 (c. 37, SIF 79)](https://www.legislation.gov.uk/ukpga/1986/37), [ss. 1](https://www.legislation.gov.uk/ukpga/1986/37/section/1), [4(1)(2)](https://www.legislation.gov.uk/ukpga/1986/37/section/4/1/2)
+
+[^key-3240d98d4e09a58c4a723cff7d9b7969]: Textual amendment: Words in [s. 14B(1)](https://www.legislation.gov.uk/ukpga/1980/58/section/14B/1) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 96(4)](https://www.legislation.gov.uk/ukpga/2026/20/section/96/4), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/b)
+
+[^c808973]: Modification: S. 15 restricted (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [ss. 10(2)(a)(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/10/2/a/4), [68(2)(a)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/2/a); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
+
+    [S. 15](https://www.legislation.gov.uk/ukpga/1980/58/section/15) excluded (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [ss. 96(1)](https://www.legislation.gov.uk/ukpga/2002/9/section/96/1), [136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2](https://www.legislation.gov.uk/uksi/2003/1725/article/2)
+
+[^c808974]: Modification: [S. 16](https://www.legislation.gov.uk/ukpga/1980/58/section/16) excluded (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [ss. 96(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/96/2), [136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2](https://www.legislation.gov.uk/uksi/2003/1725/article/2)
+
+[^c808977]: Modification: S. 17 restricted (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [ss. 10(2)(a)(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/10/2/a/4), [68(2)(a)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/2/a); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
+
+    [S. 17](https://www.legislation.gov.uk/ukpga/1980/58/section/17) excluded (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [ss. 96(3)](https://www.legislation.gov.uk/ukpga/2002/9/section/96/3), [136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725) {art. 2}
+
+[^c1893539]: Textual amendment: [S. 17(b)](https://www.legislation.gov.uk/ukpga/1980/58/section/17/b) and word repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [ss. 135](https://www.legislation.gov.uk/ukpga/2002/9/section/135), [136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); by [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2](https://www.legislation.gov.uk/uksi/2003/1725/article/2)
+
+[^c808981]: Textual amendment: Words in s. 18(1)(3)(4) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)(5)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4/5)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art.2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
+
+[^c808982]: Marginal citation: [1925 c. 18](https://www.legislation.gov.uk/ukpga/1925/18)**(98:3)**
+
+[^key-2282f7f29ccc4c294c4353ef9f0095d1]: Textual amendment: Words in s. 19 substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 36](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/36) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+
+[^c808987]: Textual amendment: S. 19A and cross-heading inserted (27.9.2004) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 68](https://www.legislation.gov.uk/ukpga/2002/15/section/68), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2002/15/schedule/5/paragraph/4); [S.I. 2004/1832](https://www.legislation.gov.uk/uksi/2004/1832), [art. 2](https://www.legislation.gov.uk/uksi/2004/1832/article/2)
+
+[^c808988]: Textual amendment: S. 19A and cross heading inserted (27.9.2004) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 68](https://www.legislation.gov.uk/ukpga/2002/15/section/68), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2002/15/schedule/5/paragraph/4); [S.I. 2004/1832](https://www.legislation.gov.uk/uksi/2004/1832), [art. 2](https://www.legislation.gov.uk/uksi/2004/1832/article/2)
+
+[^c808989]: Textual amendment: S. 25 repealed (provinces of Canterbury and York) (1.1.1989) by [Patronage (Benefices) Measure 1986 (No. 3, SIF 21:4)](https://www.legislation.gov.uk/ukcm/1986/3), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/1986/3/section/1/2), [4(3)](https://www.legislation.gov.uk/ukcm/1986/3/section/4/3), [42(2)](https://www.legislation.gov.uk/ukcm/1986/3/section/42/2)
+
+[^c808990]: Marginal citation: [1925 c. 21](https://www.legislation.gov.uk/ukpga/1925/21)**(98:2)**
+
+[^c1893893]: Textual amendment: S. 27A inserted (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [ss. 288(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/288/1), [458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/120/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (subject to [arts. 3-7](https://www.legislation.gov.uk/uksi/2003/120/article/3)) (as amended by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 14](https://www.legislation.gov.uk/uksi/2003/333/article/14))
+
+[^key-11b25854977e74bae02b2c341542119b]: Textual amendment: Words in s. 27A(2) substituted (25.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 62](https://www.legislation.gov.uk/ukpga/2009/26/section/62), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(h)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/h)
+
+[^c1950038]: Textual amendment: Words in s. 27A(2) substituted (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/74/2), [94](https://www.legislation.gov.uk/ukpga/2007/27/section/94), [Sch. 8 para. 147(2)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/147/2); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a) (subject to [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
+
+[^c1893899]: Textual amendment: S. 27A(3)(aa) inserted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 109](https://www.legislation.gov.uk/ukpga/2005/15/section/109), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 6 para. 2(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/6/paragraph/2/a); [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 3](https://www.legislation.gov.uk/uksi/2005/3136/article/3)
+
+[^c1893905]: Textual amendment: Word in s. 27A(3) substituted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 109](https://www.legislation.gov.uk/ukpga/2005/15/section/109), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 6 para. 2(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/6/paragraph/2/b); [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 3](https://www.legislation.gov.uk/uksi/2005/3136/article/3)
+
+[^c1950040]: Textual amendment: Words in s. 27A(4) substituted (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/74/2), [94](https://www.legislation.gov.uk/ukpga/2007/27/section/94), [Sch. 8 para. 147(3)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/147/3); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a) (subject to [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
+
+[^key-1b15967837da0e038aaf7c45b1c82c3c]: Textual amendment: S. 27A(4A) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/2/2); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/a)
+
+[^c1950042]: Textual amendment: S. 27A(8) inserted (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/74/2), [94](https://www.legislation.gov.uk/ukpga/2007/27/section/94), [Sch. 8 para. 147(4)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/147/4); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a) (subject to [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
+
+[^key-b9b8b93449b38671c84745f953b96114]: Textual amendment: S. 27A(8)(a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 28(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/28/1); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-234c8cc49a543139e4742c677af74afd]: Textual amendment: S. 27A(8)(c) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/4)
+
+[^key-bcfc0e4d512110d0e780cc7b207ff4a6]: Textual amendment: S. 27A(8)(e)(f) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/2/3); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/a)
+
+[^key-fbca58d48b862c0e247fe55e8812eac8]: Textual amendment: S. 27AB inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/2604/article/4/2)
+
+[^key-7e0c6eb2ff0036cbbfbef59c59ae9015]: Textual amendment: S. 27AB(6)(c) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/5)
+
+[^c1893896]: Textual amendment: S. 27B inserted (1.1.2006) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (S.I. 2005/3181)](https://www.legislation.gov.uk/uksi/2005/3181), [art. 201(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/201/1)
+
+[^key-1af1acd906def788bb1756a147655ecd]: Textual amendment: Words in s. 27B(2) substituted (25.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 62](https://www.legislation.gov.uk/ukpga/2009/26/section/62), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(h)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/h)
+
+[^c2002173]: Textual amendment: Words in s. 27B(2)(4) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2008/302/article/4/2)
+
+[^key-9d35243ffbbed67bd72e1cdc205f5724]: Textual amendment: S. 27B(3A) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2013/2604/article/4/3)
+
+[^c2002179]: Textual amendment: S. 27(B)(8) inserted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2008/302/article/4/3)
+
+[^key-54a412d71ebb2d5bddf035d3515d94cb]: Textual amendment: S. 27B(8)(a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 28(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/28/2); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+
+[^key-03d054d3cf16d0f6b0dbe99e9548ee79]: Textual amendment: S. 27B(8)(c) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/6)
+
+[^key-9d2b693c13000ebce0f289ff5bf0af39]: Textual amendment: S. 27C inserted (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 171(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/171/1), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)
+
+[^key-0a321d7bcbc1d865b30886776343b8c8]: Textual amendment: [S. 27D](https://www.legislation.gov.uk/ukpga/1980/58/section/27D) inserted (18.11.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(2)(b)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/b), [Sch. 13 para. 13](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/13) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+
+[^c808998]: Modification: S. 28 excluded by [Latent Damage Act 1986 (c. 37, SIF 79)](https://www.legislation.gov.uk/ukpga/1986/37), [ss. 3(3)](https://www.legislation.gov.uk/ukpga/1986/37/section/3/3), [4](https://www.legislation.gov.uk/ukpga/1986/37/section/4)
+
+[^c808999]: Modification: S. 28(1) extended with modification by [Merchant Shipping (Liner Conferences) Act 1982 (c. 37, SIF 111)](https://www.legislation.gov.uk/ukpga/1982/37), [s. 8(2)(a)](https://www.legislation.gov.uk/ukpga/1982/37/section/8/2/a)
+
+[^c809000]: Textual amendment: S. 28(4A) (which was inserted by [1985 c. 61](https://www.legislation.gov.uk/ukpga/1985/61), [ss. 57(3)](https://www.legislation.gov.uk/ukpga/1985/61/section/57/3), [69(5)](https://www.legislation.gov.uk/ukpga/1985/61/section/69/5), [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/1985/61/schedule/9/paragraph/14)) substituted (4.9.1996) by [1996 c. 31](https://www.legislation.gov.uk/ukpga/1996/31), [ss. 5(3)(6)](https://www.legislation.gov.uk/ukpga/1996/31/section/5/3/6), [19](https://www.legislation.gov.uk/ukpga/1996/31/section/19) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/1996/31/section/20/2))
+
+[^key-82f733a8e0a128875af2b4fd9d56bd87]: Textual amendment: Word in [s. 28(6)](https://www.legislation.gov.uk/ukpga/1980/58/section/28/6) inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/14); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+
+[^c809001]: Textual amendment: S. 28(7) inserted (1.3.1988) by [Consumer Protection Act 1987 (c. 43, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1987/43), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/1987/43/section/6/6), [50(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/50/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1987/43/schedule/1/paragraph/4)
+
+[^c809002]: Marginal citation: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43)**(109:1)**
+
+[^c809003]: Textual amendment: S. 28A inserted with saving by [Latent Damage Act 1986 (c. 37, SIF 79)](https://www.legislation.gov.uk/ukpga/1986/37), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1986/37/section/2/1), [4(1)(2)](https://www.legislation.gov.uk/ukpga/1986/37/section/4/1/2)
+
+[^c809004]: Modification: S. 32(1) extended by [Merchant Shipping (Liner Conferences) Act 1982 (c. 37, SIF 111)](https://www.legislation.gov.uk/ukpga/1982/37), [s. 8(2)(b)](https://www.legislation.gov.uk/ukpga/1982/37/section/8/2/b)
+
+[^c809005]: Textual amendment: Words “subsections (3) and (4A)” substituted (1.3.1988) for words “subsection (3)” by [Consumer Protection Act 1987 (c. 43, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1987/43), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/1987/43/section/6/6), [50(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/50/2), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/ukpga/1987/43/schedule/1/paragraph/5/a)
+
+[^key-c34258a0e5867e881377e82720759a3e]: Textual amendment: Words in [s. 32(1)](https://www.legislation.gov.uk/ukpga/1980/58/section/32/1) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 15(2)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/15/2); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+
+[^c1857338]: Modification: S. 32(1)(c) excluded (22.7.2004 with effect as mentioned in s. 320(1) of the amending act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 320](https://www.legislation.gov.uk/ukpga/2004/12/section/320)
+
+    S. 32(1)(c) excluded (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 107](https://www.legislation.gov.uk/ukpga/2007/11/section/107)
+
+[^c809007]: Textual amendment: S. 32(4A) inserted (1.3.1988) by [Consumer Protection Act 1987 (c. 43, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1987/43), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/1987/43/section/6/6), [50(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/50/2), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/ukpga/1987/43/schedule/1/paragraph/5/b)
+
+[^key-3a99fd041cd95e38ff29dc238c8dac62]: Textual amendment: [S. 32(4B)](https://www.legislation.gov.uk/ukpga/1980/58/section/32/4B) inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 15(3)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/15/3); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+
+[^c809008]: Textual amendment: S. 32(5) added with saving by [Latent Damage Act 1986 (c. 37, SIF 79)](https://www.legislation.gov.uk/ukpga/1986/37), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/1986/37/section/2/2), [4(1)(2)](https://www.legislation.gov.uk/ukpga/1986/37/section/4/1/2)
+
+[^c809010]: Textual amendment: Cross heading and s. 32A (which were inserted by [1985 c. 61](https://www.legislation.gov.uk/ukpga/1985/61), [ss. 57(4)](https://www.legislation.gov.uk/ukpga/1985/61/section/57/4), [69(5)](https://www.legislation.gov.uk/ukpga/1985/61/section/69/5), [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/1985/61/schedule/9/paragraph/14)) substituted (4.9.1996) by [1996 c. 31](https://www.legislation.gov.uk/ukpga/1996/31), [ss. 5(4)(6)](https://www.legislation.gov.uk/ukpga/1996/31/section/5/4/6), [19(2)](https://www.legislation.gov.uk/ukpga/1996/31/section/19/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/1996/31/section/20/2))
+
+[^c809012]: Textual amendment: S. 32A (which was inserted by [1985 c. 61](https://www.legislation.gov.uk/ukpga/1985/61), [ss. 57(4)](https://www.legislation.gov.uk/ukpga/1985/61/section/57/4), [69(5)](https://www.legislation.gov.uk/ukpga/1985/61/section/69/5), [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/1985/61/schedule/9/paragraph/14)) substituted (4.9.1996) by [1996 c. 31](https://www.legislation.gov.uk/ukpga/1996/31), [ss. 5(4)(6)](https://www.legislation.gov.uk/ukpga/1996/31/section/5/4/6), [19(2)](https://www.legislation.gov.uk/ukpga/1996/31/section/19/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/1996/31/section/20/2))
+
+[^key-9933bcf9edd55e1aec00579d953a3208]: Textual amendment: Words in s. 33(1)(a) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 16(2)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16/2); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+
+[^key-a1ffbadd77d63e63c3f55f993f221211]: Textual amendment: S. 33(1ZA)-(1ZC) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1/2); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+
+[^c809014]: Textual amendment: S. 33(1A) inserted (1.3.1988) by [Consumer Protection Act 1987 (c. 43, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1987/43), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/1987/43/section/6/6), [50(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/50/2), [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/ukpga/1987/43/schedule/1/paragraph/6/b)
+
+[^c809015]: Marginal citation: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43)**(109:1)**
+
+[^key-b5b6311c513ec4be019c6cc46e9c1df2]: Textual amendment: S. 33(1B) inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 16(3)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16/3); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+
+[^key-709ca64a4ba71f072e3c22ca3c11267f]: Textual amendment: Words in s. 33(2) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 16(4)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16/4); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+
+[^c809017]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30)**(122:3)**
+
+[^c809018]: Marginal citation: [1961 c. 27](https://www.legislation.gov.uk/ukpga/1961/27)**(9)**
+
+[^key-bf0c7ce3ad8f80f57f7317d7f432f473]: Textual amendment: S. 33(2A)(2B) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1/3); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+
+[^c809019]: Textual amendment: Words inserted (1.3.1988) by [Consumer Protection Act 1987 (c. 43, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1987/43), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/1987/43/section/6/6), [50(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/50/2), [Sch. 1 para. 6(d)](https://www.legislation.gov.uk/ukpga/1987/43/schedule/1/paragraph/6/d)
+
+[^key-2f62384dbc1c92666157097ed1c38bdd]: Textual amendment: Words in s. 33(3)(b) inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 16(5)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16/5); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+
+[^key-13256c1a4552084d6e0eae0ce734994b]: Textual amendment: Words in s. 33(4) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 16(4)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16/4); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+
+[^key-d5b6cf268f93085a0ff5bfb15b8ca8c7]: Textual amendment: S. 33(5A)(5B) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1/4); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+
+[^c809021]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30)**(122:3)**
+
+[^key-b0607f5fc8113a5933b78616d65ee9cb]: Textual amendment: S. 33(6A) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1/5); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+
+[^key-5a9850d2fe6c96b53e8d42acb4fbc6f8]: Textual amendment: S. 33(7) substituted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1/6); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+
+[^key-e6ab6b5fbbdc98154f1858bf8ed6307e]: Textual amendment: Words in s. 33(8) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 2 para. 1(7)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1/7); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+
+[^key-7eecedf3ad8b6905d1dd05a59428718e]: Textual amendment: Words in s. 33(8) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 16(6)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16/6); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+
+[^key-c2a71032d477822e0f24ca50bb074dec]: Textual amendment: Words in s. 33(8) substituted (with application in accordance with regs. 3, 4 of the amending S.I.) by [Cross-Border Mediation (EU Directive) Regulations 2011 (S.I. 2011/1133)](https://www.legislation.gov.uk/uksi/2011/1133), [regs. 2](https://www.legislation.gov.uk/uksi/2011/1133/regulation/2), [25](https://www.legislation.gov.uk/uksi/2011/1133/regulation/25)
+
+[^key-13336087a97e3f67d50931749477ffd2]: Textual amendment: S. 33A and preceding cross-heading inserted (with application in accordance with regs. 3, 4 of the amending S.I.) by [Cross-Border Mediation (EU Directive) Regulations 2011 (S.I. 2011/1133)](https://www.legislation.gov.uk/uksi/2011/1133), [regs. 2](https://www.legislation.gov.uk/uksi/2011/1133/regulation/2), [26](https://www.legislation.gov.uk/uksi/2011/1133/regulation/26)
+
+[^key-fe075d206b5b8a0031f862cd09b9321a]: Textual amendment: S. 33A omitted (31.12.2020) by virtue of [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/7/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), regs. 1(1), 4(5)(6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
+
+[^key-00ba1fb39d1a65ed88d5890adbdbed56]: Textual amendment: S. 33B and preceding cross-heading inserted (9.7.2015) by [The Alternative Dispute Resolution for Consumer Disputes (Amendment) Regulations 2015 (S.I. 2015/1392)](https://www.legislation.gov.uk/uksi/2015/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/4/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/3))
+
+[^key-d466ba94f31ebd2cfea08311cffc588b]: Textual amendment: Words in [s. 33B](https://www.legislation.gov.uk/ukpga/1980/58/section/33B) heading substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(2)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/2); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1/5)
+
+[^key-be0c3998f2e51aebabcef139dc8b0094]: Textual amendment: [S. 33B(1)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/1) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(3)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/3); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1/5)
+
+[^key-479619b76a6fe6bae99f2ab6af7fbb3e]: Textual amendment: Words in [s. 33B(2)(a)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/2/a) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/4/a); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+
+[^key-717253dbc2da452071a6456f264ce666]: Textual amendment: Word in [s. 33B(2)(b)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/2/b) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/5/a); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+
+[^key-49b602dc14bbaf5f5b2ab11ebff3b322]: Textual amendment: Words in [s. 33B(2)(b)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/2/b) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/4/a); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+
+[^key-80d7c7e0aaa981a65b4b1becab73b43e]: Textual amendment: Words in [s. 33B(2)(c)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/2/c) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(6)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/6/a); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+
+[^key-69dfeeb61650bfca05ea9b5daa8a9c62]: Textual amendment: Words in [s. 33B(3)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/3) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(6)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/6/b); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+
+[^key-cc08f6c4b0174efccfc076c7a4cbfb68]: Textual amendment: Words in [s. 33B(5)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/5) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/4/b); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+
+[^key-b45fd719e569cfed187a5d2af99e20e7]: Textual amendment: Word in [s. 33B(6)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/6) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/5/b); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+
+[^key-2d49c20d107453be51a5d5203fe310e6]: Textual amendment: Words in [s. 33B(6)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/6) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(4)(c)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/4/c); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+
+[^key-c919df77538df05a3561974964c35b4e]: Textual amendment: Words in [s. 33B(7)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/7) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(6)(c)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/6/c); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+
+[^key-63f6406c07af14850af4b54433b04fac]: Textual amendment: Words in [s. 33B(7)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/7) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(4)(d)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/4/d); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+
+[^key-b5e5ee31292b68ad36c076b7222d8454]: Textual amendment: Words in [s. 33B(8)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/8) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(6)(d)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/6/d); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+
+[^key-18c9adce91a4f98e81db4b5cc7ec5273]: Textual amendment: Words in [s. 33B(9)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/9) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(4)(e)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/4/e); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+
+[^key-d5fafa4caa0821b48f245ea9ec7ccb99]: Textual amendment: Word in [s. 33B(9)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/9) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(5)(c)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/5/c); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+
+[^key-55c696551e238eb779e0e53086af7d82]: Textual amendment: Words in [s. 33B(9)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/9) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(6)(e)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/6/e); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+
+[^c809028]: Textual amendment: [S. 34](https://www.legislation.gov.uk/ukpga/1980/58/section/34) repealed (31.1.1997) by [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23), [s. 107(2)](https://www.legislation.gov.uk/ukpga/1996/23/section/107/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/23/schedule/4); [S.I. 1996/3146](https://www.legislation.gov.uk/uksi/1996/3146), [art. 3](https://www.legislation.gov.uk/uksi/1996/3146/article/3)
+
+[^c809029]: Modification: S. 35 extended by [Merchant Shipping (Liner Conferences) Act 1982 (c. 37, SIF 111)](https://www.legislation.gov.uk/ukpga/1982/37), [s. 8(2)(c)](https://www.legislation.gov.uk/ukpga/1982/37/section/8/2/c) and [Foreign Limitation Periods Act 1984 (c. 16, SIF 79)](https://www.legislation.gov.uk/ukpga/1984/16), [ss. 1](https://www.legislation.gov.uk/ukpga/1984/16/section/1), [2](https://www.legislation.gov.uk/ukpga/1984/16/section/2), [7(3)](https://www.legislation.gov.uk/ukpga/1984/16/section/7/3)
+
+[^key-11366d54dc3b479ab97b5ee96abc1705]: Modification: S. 35 applied by Competition Act 1998 (c. 41), Sch. 8A para. 26(1) (as inserted (9.3.2017) by [S.I. 2017/385](https://www.legislation.gov.uk/uksi/2017/385), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/385/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/4) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/5)))
+
+[^key-8bb7592c01d11cc1fc6d5b44b7690464]: Modification: [S. 35](https://www.legislation.gov.uk/ukpga/1980/58/section/35) applied (9.6.2018) by [The Trade Secrets (Enforcement, etc.) Regulations 2018 (S.I. 2018/597)](https://www.legislation.gov.uk/uksi/2018/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2018/597/regulation/9/a) (with [reg. 19](https://www.legislation.gov.uk/uksi/2018/597/regulation/19))
+
+[^key-c44b0399a381a691d24b378b02f3d58d]: Textual amendment: Words in s. 35(3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 102](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/102); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c1857341]: Modification: S. 35(5)(a) modified (22.7.2004 with effect as mentioned in s. 320(2) of the ammended act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 320](https://www.legislation.gov.uk/ukpga/2004/12/section/320)
+
+[^c809030]: Textual amendment: S. 35(9) repealed by [Supreme Court Act 1981 (c. 54, SIF 37)](https://www.legislation.gov.uk/ukpga/1981/54), [s. 152(4)](https://www.legislation.gov.uk/ukpga/1981/54/section/152/4), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/54/schedule/7)
+
+[^key-e23bed2610ecc47d60faf7c4ef76ab9a]: Modification: [S. 36](https://www.legislation.gov.uk/ukpga/1980/58/section/36) excluded (9.6.2018) by [The Trade Secrets (Enforcement, etc.) Regulations 2018 (S.I. 2018/597)](https://www.legislation.gov.uk/uksi/2018/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2018/597/regulation/4/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2018/597/regulation/19))
+
+[^c809033]: Textual amendment: [S. 36(1)(aa)](https://www.legislation.gov.uk/ukpga/1980/58/section/36/1/aa) (which was inserted by [1985 c. 61](https://www.legislation.gov.uk/ukpga/1985/61), [ss. 57(5)](https://www.legislation.gov.uk/ukpga/1985/61/section/57/5), [69(5)](https://www.legislation.gov.uk/ukpga/1985/61/section/69/5), [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/1985/61/schedule/9/paragraph/14)) substituted (4.9.1996) by [1996 c. 31](https://www.legislation.gov.uk/ukpga/1996/31), [ss. 5(5)(6)](https://www.legislation.gov.uk/ukpga/1996/31/section/5/5/6), [19](https://www.legislation.gov.uk/ukpga/1996/31/section/19) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/1996/31/section/20/2))
+
+[^c809034]: Marginal citation: [1939 c. 21](https://www.legislation.gov.uk/ukpga/1939/21)
+
+[^c809035]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2)**(40:1)**
+
+[^c809036]: Marginal citation: [1936 c. 43](https://www.legislation.gov.uk/ukpga/1936/43)**(98:5)**
+
+[^c809037]: Marginal citation: [1863 c. 49](https://www.legislation.gov.uk/ukpga/1863/49)**(29:10)**
+
+[^c809038]: Marginal citation: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44)**(39A)**
+
+[^key-0b5bdc3ec8332256f11492ac6a1397bc]: Textual amendment: Words in [s. 38(1)](https://www.legislation.gov.uk/ukpga/1980/58/section/38/1) inserted (with effect in accordance with [s. 108(4)](https://www.legislation.gov.uk/ukpga/2012/5/section/108/4) of the amending Act) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 108(2)](https://www.legislation.gov.uk/ukpga/2012/5/section/108/2), [150(1)(c)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/1/c)
+
+[^c809058]: Textual amendment: Words in the definition of "land" repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)(5)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4/5)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
+
+[^c809059]: Marginal citation: [1925 c. 18](https://www.legislation.gov.uk/ukpga/1925/18)**(98:3)**
+
+[^c809060]: Marginal citation: [1925 c. 19](https://www.legislation.gov.uk/ukpga/1925/19)**(98:4)**
+
+[^c809061]: Textual amendment: Definition of "trust for sale" repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)(5)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4/5)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
+
+[^c1857941]: Textual amendment: Words in s. 38(2) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [ss. 67(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/67/1), [68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 25(a)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/25/a) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1)
+
+[^c1857984]: Textual amendment: S. 38(3)(4) repealed (1.10.2007) by [The Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [ss. 67(1)(2)](https://www.legislation.gov.uk/ukpga/2005/9/section/67/1/2), [68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 25(b)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/25/b), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/9/schedule/7) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1)
+
+[^key-9e89125b2aaff8c11aa9cf10c7c325f8]: Textual amendment: Words in s. 38 omitted (6.4.2014) by virtue of [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 37](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/37), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+
+[^key-75827f46c93eadc75932cf6d1a0eb085]: Textual amendment: [S. 38(11)](https://www.legislation.gov.uk/ukpga/1980/58/section/38/11) inserted (with effect in accordance with [s. 108(4)](https://www.legislation.gov.uk/ukpga/2012/5/section/108/4) of the amending Act) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 108(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/108/3), [150(1)(c)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/1/c)
+
+[^key-6ed7e0e8b3b000937f79d0395cd2c255]: Textual amendment: Words in s. 38(11)(a) inserted (2.12.2025) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 105(7)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/105/7/a), [109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)
+
+[^key-539b04d181b77c9bb1effdab30b13a1c]: Textual amendment: Word in s. 38(11)(b) omitted (2.12.2025) by virtue of [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 105(7)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/105/7/b), [109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)
+
+[^key-f51548b2f28dbde5c67486268a04f28a]: Textual amendment: S. 38(11)(d) and word inserted (2.12.2025) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 105(7)(c)](https://www.legislation.gov.uk/ukpga/2025/28/section/105/7/c), [109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)
+
+[^c809069]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30)**(115:1)**
+
+[^c809070]: Editorial: The text of s. 40(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c809071]: Modification: Power of appointment conferred by s. 41(3) fully exercised: 1.5.1981 appointed by [S.I. 1981/588](https://www.legislation.gov.uk/uksi/1981/588), [art. 2](https://www.legislation.gov.uk/uksi/1981/588/article/2)
+
+[^c809072]: Marginal citation: [1939 c. 21](https://www.legislation.gov.uk/ukpga/1939/21)
+
+[^c809073]: Marginal citation: [1980 c. 24](https://www.legislation.gov.uk/ukpga/1980/24)**(79)**
+
+[^c809074]: Marginal citation: [1963 c. 47](https://www.legislation.gov.uk/ukpga/1963/47)
+
+[^c809075]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1980/58/schedule/1/paragraph/9) substituted (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/1), [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/1996/47/schedule/3/paragraph/18) (with ss. 24(2),25(4)(5)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
+
+[^c809076]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1980/58/schedule/1/paragraph/9) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)(5)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4/5)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art.2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
+
+[^c809079]: Marginal citation: [1963 c. 47](https://www.legislation.gov.uk/ukpga/1963/47)
+
+[^c809080]: Marginal citation: [1978 c. 47](https://www.legislation.gov.uk/ukpga/1978/47)**(122:3)**
+
+[^c809081]: Marginal citation: [1945 c. 16](https://www.legislation.gov.uk/ukpga/1945/16)**(79)**
+
+[^c809082]: Marginal citation: [1975 c. 54](https://www.legislation.gov.uk/ukpga/1975/54)
+
+[^c809083]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30)**(112:3)**
+
+[^c809084]: Marginal citation: [1846 c. 93](https://www.legislation.gov.uk/ukpga/1846/93)
+
+[^c809085]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30)**(122:3)**
+
+[^c809086]: Marginal citation: [1846 c. 93](https://www.legislation.gov.uk/ukpga/1846/93)
+
+[^c809087]: Marginal citation: [1939 c. 21](https://www.legislation.gov.uk/ukpga/1939/21)
+
+[^c809088]: Marginal citation: [1980 c. 24](https://www.legislation.gov.uk/ukpga/1980/24)**(79)**
+
+[^c809089]: Marginal citation: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59)**(111)**
+
+[^c809092]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/1980/58/schedule/3/paragraph/1) repealed (27.4.1997) by [1997 c. 2](https://www.legislation.gov.uk/ukpga/1997/2), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/1997/2/section/4/2), [5(2)(3)](https://www.legislation.gov.uk/ukpga/1997/2/section/5/2/3), [Sch. 2 Pt. II](https://www.legislation.gov.uk/ukpga/1997/2/schedule/2/part/II)
+
+[^c809093]: Marginal citation: [1925 c. 23](https://www.legislation.gov.uk/ukpga/1925/23)**(116:1)**
+
+[^c809094]: Marginal citation: [1939 c. 21](https://www.legislation.gov.uk/ukpga/1939/21)
+
+[^c809095]: Modification: The text of Sch. 3 paras. 1, 3–12, Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c809096]: Marginal citation: [1945 c. 16](https://www.legislation.gov.uk/ukpga/1945/16).
+
+[^c809097]: Modification: The text of Sch. 3 paras. 1, 3–12, Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c809098]: Marginal citation: [1954 c. 58](https://www.legislation.gov.uk/ukpga/1954/58).
+
+[^c809099]: Modification: The text of Sch. 3 paras. 1, 3–12, Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c809100]: Marginal citation: [1961 c. 27](https://www.legislation.gov.uk/ukpga/1961/27).
+
+[^c809101]: Modification: The text of Sch. 3 paras. 1, 3–12, Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c809102]: Marginal citation: [1965 c. 37](https://www.legislation.gov.uk/ukpga/1965/37).
+
+[^c809103]: Modification: The text of Sch. 3 paras. 1, 3–12, Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c809104]: Marginal citation: [1967 c. 22](https://www.legislation.gov.uk/ukpga/1967/22).
+
+[^c809105]: Modification: The text of Sch. 3 paras. 1, 3–12, Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c809106]: Marginal citation: [1969 c. 10](https://www.legislation.gov.uk/ukpga/1969/10).
+
+[^c809107]: Modification: The text of Sch. 3 paras. 1, 3–12, Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c809108]: Marginal citation: [1969 c. 59](https://www.legislation.gov.uk/ukpga/1969/59).
+
+[^c809109]: Modification: The text of Sch. 3 paras. 1, 3–12, Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c809110]: Marginal citation: [1971 c. 22](https://www.legislation.gov.uk/ukpga/1971/22).
+
+[^c809111]: Modification: The text of Sch. 3 paras. 1, 3–12, Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c809112]: Marginal citation: [1972 c. 21](https://www.legislation.gov.uk/ukpga/1972/21).
+
+[^c809113]: Modification: The text of Sch. 3 paras. 1, 3–12, Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c809114]: Marginal citation: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
+
+[^c809115]: Modification: The text of Sch. 3 paras. 1, 3–12, Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

@@ -1,0 +1,685 @@
+---
+title: The Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013
+id: uksi/2013/1785
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-07-24'
+text_date: '2026-04-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/1785
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/1785/pdfs/uksiem_20131785_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1785/pdfs/uksi_20131785_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1785/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013
+
+> Text as at 2026-04-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 1785
+
+Merchant Shipping
+
+The Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013
+
+Made
+
+24th July 2013
+
+Laid before Parliament
+
+25th July 2013
+
+Coming into force
+
+15th August 2013
+
+The Secretary of State is a Minister designated [^c21870181] for the purposes of section 2(2) of the European Communities Act 1972 [^c21870191] in relation to measures relating to the safety of ships and the health and safety of persons on them and measures relating to maritime transport.
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 85(1)(a) and (b), (3) and (5) to (7) and section 86(1) of the Merchant Shipping Act 1995 [^c21870201], and section 2(2) of the European Communities Act 1972.
+
+In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary of State has consulted the persons referred to in that section.
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013.
+
+(2) These Regulations come into force on 15th August 2013.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Merchant Shipping Act 1995,
+- “**anniversary date**” means the day and the month of each year which will correspond to the original date of expiry[^key-d21ca0f5f7b91201e33e2ff882c25bb2] of the relevant certificate,
+- “**certifying authority**” means—
+  - (a) the Secretary of State, or
+  - (b) an organisation which has an agreement with the Secretary of State pursuant to Article 5(2) of Directive [2009/15/EC](https://www.legislation.gov.uk/european/directive/2009/0015) of the European Parliament and of the Council of 23rd April 2009 on common rules and standards for ship inspection and survey organisations and for the relevant activities of maritime administrations [^c21870211] which authorises it to undertake surveys of ships under these Regulations,
+- “**controlled waters**” means the waters specified by the Merchant Shipping (Prevention of Pollution) (Limits) Regulations 1996 [^c21870221] as areas within which the jurisdiction and rights of the United Kingdom are exercisable,
+- “**Convention State**” means a State, other than the United Kingdom, which is a Party to the Maritime Labour Convention,
+- “**Declaration of Maritime Labour Compliance**” means, in relation to a ship, the Part 1 and Part 2 documents drawn up and issued in accordance with the Maritime Labour Convention, in the forms corresponding to the relevant models given in Appendix A5-II of the Convention and having the contents, duration and validity specified in Regulation 5.1.3 and Standard A5.1.3 of the Convention,
+- “**fishing vessel**” has the meaning given in section 313 of the Act,
+- “**gross tonnage**” means gross tonnage as determined under the Merchant Shipping (Tonnage) Regulations 1997 [^c21870231],
+- “Maritime Labour Certificate” and “interim Maritime Labour Certificate” mean, in relation to a ship, a certificate of that name issued in accordance with the Maritime Labour Convention, in a form corresponding to the relevant model given in Appendix A5-II of that Convention and having the contents, duration and validity specified in Regulation 5.1.3 and Standard A5.1.3 of that Convention,
+- “**the Maritime Labour Convention**” means the Convention adopted on 23rd February 2006 by the General Conference of the International Labour Organization [^c21870241],
+- “**the MCA**” means the Maritime and Coastguard Agency, an executive agency of the Department for Transport,
+- “**Merchant Shipping Notice**” means a notice described as such and issued by the MCA and any reference to a particular Merchant Shipping Notice includes a reference to a Merchant Shipping Notice amending or replacing that Notice which is considered by the Secretary of State to be relevant from time to time,
+- “**pleasure vessel**” means—
+  - (a) any vessel which at the time it is being used is—
+    - (i) in the case of a vessel wholly owned by—[^key-3b6ff2511418993873a8a8174b04946c]
+      - (aa) an individual or individuals, used only for the sport or pleasure of the owner or the immediate family or friends of the owner; or
+      - (bb) a body corporate, used only for sport or pleasure and on which the persons on board are employees or officers of the body corporate, or their immediate family or friends; and
+    - (ii) on a voyage or excursion which is one for which the owner does not receive money for or in connection with operating the vessel or carrying any person, other than as a contribution to the direct expenses of the operation of the vessel incurred during the voyage or excursion, or
+  - (b) any vessel wholly owned by or on behalf of a members' club formed for the purpose of sport or pleasure which, at the time it is being used, is used only for the sport or pleasure of members of that club or their immediate family, and for the use of which any charges levied are paid into club funds and applied for the general use of the club,
+
+  where, in the case of any vessel referred to in paragraph[^key-0d330e8fa15891e9be34564a7e8f7fc1] (a) or (b), no other payments are made by or on behalf of users of the vessel, other than by the owner; and in this definition “**immediate family**” means, in relation to an individual, the spouse or civil partner of the individual, and a relative of the individual or the individual's spouse or civil partner; and “**relative**” means brother, sister, ancestor or lineal descendant,
+- “**proper officer**” has the meaning given in section 313 of the Act,
+- “**relevant inspector**” means any of the persons mentioned in section 258(1) of the Act,
+- “**sea-going**” in relation to a United Kingdom ship means—
+  - (a) a ship which operates outside the waters specified as Category A, B, C and D waters in Merchant Shipping Notice 1837(M) [^c21870251],
+  - (b) a ship to which the Merchant Shipping (Survey and Certification) Regulations 1995 [^c21870261] apply and in respect of which no exemption granted under regulation 2(2) of those Regulations applies,
+  - (c) a ship which is a large vessel within the meaning of regulation 3(1) of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 in respect of which a certificate of compliance has been issued in accordance with regulation 9 of those Regulations; or[^key-afd73d96774e977469283eb87348cea1]
+  - (d) a high speed craft in respect of which a permit to operate outside waters of Categories A, B, C or D has been issued in accordance with regulation 14 of the Merchant Shipping (High Speed Craft) Regulations 2022[^key-7b9e3cd98bdab5997760ea700d392d5e],
+- “**seafarer**” means any person, including a master, who is employed or engaged or works in any capacity on board a ship and whose normal place of work is on a ship,
+- “**ship**” includes hovercraft,
+- “**shipowner**” means—
+  - (a) in relation to a ship which has a valid Maritime Labour Certificate or interim Maritime Labour Certificate[^key-6a289bcc9a30481d101dd64cba072f3f], the person identified as the shipowner on that certificate,
+  - (b) in relation to any other ship, the owner of the ship or, if different, any other organisation or person such as the manager, or the bareboat charterer, that has assumed the responsibility for the operation of the ship from the owner,
+- “**the United Kingdom Maritime Labour Convention standards**” means the requirements imposed in relation to United Kingdom ships by the provisions specified in column 2 of the instruments listed in column 1 of the table contained in the Schedule[^key-883223dd1b733184a81033e212535c8b], and
+- “**United Kingdom ship**” means a ship which is—
+  - (a) a United Kingdom ship within the meaning of section 85(2) of the Act, or[^key-745039d7b0c2b822c36069dd912c6d2d]
+  - (b) [^key-993595dd028651f9fb9e20b5f4973e94]...
+  - (c) a hovercraft registered under the Hovercraft Act 1968 [^c21870291].
+
+(2) In the application of these Regulations to a hovercraft, a reference to the master of a ship includes a reference to the captain of the hovercraft.
+
+## 3. Amendments to existing regulations
+
+(1)[^key-ece5b294b5adce4491ee4c0988679bbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The Schedule to the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 [^c21870311] is amended as follows—
+
+- (a) at the end of the first column, insert “ The Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013 ”, and
+- (b) at the end of the second column, insert “ 2013/1785 ”.
+
+## 4. Application
+
+(1) Subject to paragraph (3), regulations 5 to 8 and 10 to 17 (except regulation 11(3))[^key-e9445dc7109ecfa76fa774821ae064a3] apply to sea-going United Kingdom ships, wherever they may be.
+
+(2) Subject to paragraph (3), regulations 9, 11(3)[^key-e876701e38b6f9973682f79e99055d8a] and 18 to 20 apply to a sea-going ship which is not a United Kingdom ship, while the ship is in United Kingdom waters, except where it is exercising the right of innocent passage or the right of transit passage through straits used for international navigation.
+
+(3) These Regulations do not apply to—
+
+- (a) pleasure vessels,
+- (b) fishing vessels,
+- (c) ships of traditional build,
+- (d) warships or naval auxiliaries,
+- (e) vessels which are not ordinarily engaged in commercial activities, and
+- (f) vessels which—
+  - (i) operate only within 60 miles of a safe haven, and
+  - (ii) do not operate to or from, or call at, a port in a country other than the United Kingdom,
+
+  and in this sub-paragraph “**safe haven**” means a harbour or shelter of any kind which affords safe entry and protection from the weather.
+
+## 5. Survey of ships
+
+(1) A ship falling within paragraph (2) is subject to the following surveys—
+
+- (a) before a Maritime Labour Certificate is first issued in relation to the ship, an initial survey by a certifying authority, as set out in Merchant Shipping Notice 1848(M),
+- (b) within five years of the first issue of a Maritime Labour Certificate, and thereafter at intervals which must be no more than five years, a renewal survey by a certifying authority, as set out in Merchant Shipping Notice 1848(M),
+- (c) in the period between the anniversary dates of a Maritime Labour Certificate in its second and third years of validity, an intermediate survey by a certifying authority, as set out in Merchant Shipping Notice 1848(M).
+
+(2) A ship falls within this paragraph if it is a ship of 500 gross tonnage or over which—
+
+- (a) is engaged in international voyages,
+- (b) is operating to and from a single port in a country other than the United Kingdom, or
+- (c) is operating between ports in a country other than the United Kingdom.
+
+(3) A ship which does not fall within paragraph (2) is subject to a survey by a certifying authority as set out in Merchant Shipping Notice 1848(M).
+
+(4) In this regulation, “**international voyage**” means a voyage from a country to a port outside such a country.
+
+## 6. Issue of Maritime Labour Certificates
+
+(1) Where a certifying authority is satisfied after the completion of an initial or renewal survey carried out in accordance with the provisions of regulation 5(1)(a) or (b) that the United Kingdom Maritime Labour Convention standards are being complied with, that authority must issue a Maritime Labour Certificate.
+
+(2) Where a certifying authority is satisfied after the completion of an intermediate survey carried out in accordance with the provisions of regulation 5(1)(c) that the United Kingdom Maritime Labour Convention standards are being complied with, that authority must so endorse the Maritime Labour Certificate.
+
+(3) Where requested by the shipowner, a certifying authority, if satisfied after the completion of a survey carried out in accordance with regulation 5(3) that the United Kingdom Maritime Labour Convention standards are being complied with, must issue a Maritime Labour Certificate or endorse a Maritime Labour Certificate to that effect.
+
+(4) A certifying authority may have regard to the results of a survey conducted before the date on which these Regulations come into force when deciding whether it is satisfied that standards referred to in this regulation are being complied with.
+
+(5) A Maritime Labour Certificate issued under this regulation must be drawn up in a form corresponding to the model given in Merchant Shipping Notice 1848(M) and have the content specified in that Merchant Shipping Notice.
+
+## 7. Survey and certification of UK ships by Governments of other States
+
+(1) The Secretary of State may, through a proper officer or otherwise, request the Government of a Convention State—
+
+- (a) to carry out an initial, renewal or intermediate survey, as set out in Merchant Shipping Notice 1848(M), of a United Kingdom ship to which regulation 5(1) applies, by reference to standards provided by the Secretary of State (which must reflect the relevant United Kingdom Maritime Labour Convention standards); and
+- (b) if satisfied that the standards are met—
+  - (i) to issue or authorise the issue of a Maritime Labour Certificate in relation to the ship, or to endorse or authorise the endorsement of that certificate, in accordance with the requirements of the Maritime Labour Convention,
+  - (ii) to include in the certificate a statement to the effect that it has been issued at the request of the Secretary of State, and
+  - (iii) to transmit a copy of the survey report and the certificate to the Secretary of State as soon as possible.
+
+(2) A certificate issued or endorsed in accordance with paragraph (1) has the same force and must receive the same recognition as a certificate issued or endorsed in accordance with regulation 6.
+
+(3) A Maritime Labour Certificate issued under this regulation must be drawn up in a form corresponding to the model given in Merchant Shipping Notice 1848(M) and have the content specified in that Merchant Shipping Notice.
+
+## 8. Interim Maritime Labour Certificates
+
+(1) This regulation applies to a ship falling within regulation 5(2)—
+
+- (a) upon the registration of the ship as a United Kingdom ship, where this is—
+  - (i) the first registration of the ship, or
+  - (ii) a transfer of the ship from the flag of another State, or
+- (b) where a Maritime Labour Certificate has been issued by a certifying authority in respect of the ship, upon a person taking responsibility for the operation of the ship who—
+  - (i) is not the person named as the shipowner in that certificate, and
+  - (ii) has not been named as the shipowner in any Maritime Labour Certificate previously issued in respect of that ship.
+
+(2) Where a certifying authority or (where requested by the Secretary of State) the Government of a Convention State has verified that—
+
+- (a) a ship has been subjected to a survey, so far as reasonable and practicable, as set out in Merchant Shipping Notice 1848(M),
+- (b) the shipowner has demonstrated that the ship has adequate procedures to comply with the United Kingdom Maritime Labour Convention standards,
+- (c) the master of the ship is familiar with—
+  - (i) the requirements of the Maritime Labour Convention, and
+  - (ii) the responsibilities which people have in connection with the implementation of the Maritime Labour Convention as respects a United Kingdom ship, and
+- (d) the Secretary of State or the Government of that Convention State has the information which would be necessary for it to produce Part 1 of the Declaration of Maritime Labour Compliance as respects the ship,
+
+that certifying authority or the Government of that State may issue an interim Maritime Labour Certificate.
+
+(3) No interim Maritime Labour Certificate may be issued in relation to a ship if—
+
+- (a) an interim Maritime Labour Certificate has previously been issued in relation to that ship by a certifying authority or a Convention State, and
+- (b) no valid Maritime Labour Certificate has since been issued in respect of that ship (whether by that authority or State or another body).
+
+(4) An interim Maritime Labour Certificate may be issued for a period not exceeding six months.
+
+(5) An interim Maritime Labour Certificate issued under this regulation must be drawn up in a form corresponding to the model given in Merchant Shipping Notice 1848(M) and have the content specified in that Merchant Shipping Notice.
+
+## 9. Survey and certification of non-UK ships by UK authorities
+
+(1) A certifying authority may, at the request of a Government of a Convention State, inspect a ship registered in that State by reference to such standards as may be specified in the request (which must reflect the requirements of the Maritime Labour Convention as implemented by that State) and, if satisfied that the standards are met—
+
+- (a) issue as respects the ship a Maritime Labour Certificate or endorse such a certificate to that effect, or
+- (b) issue as respects the ship an interim Maritime Labour Certificate.
+
+(2) The certifying authority must include in any certificate issued or endorsed in accordance with paragraph (1) a statement to the effect that it has been issued or endorsed at the request of the Government of the State in which the ship is registered, and must transmit a copy of the survey report and the certificate to that State as soon as possible.
+
+(3) A certificate issued or endorsed in accordance with this regulation has effect as if issued or endorsed by the State which requested the survey of the ship to be carried out.
+
+## 10. Duration and validity of Maritime Labour Certificates
+
+(1) Subject to paragraphs (2) and (2B)[^key-7e3dde5ce4b380cea192b63fbb6df440], a Maritime Labour Certificate must be issued—
+
+- (a) on the date of the completion of the relevant survey, and
+- (b) with a period of validity starting on the date of issue and not exceeding five years.
+
+(2) Where a renewal survey as required by regulation 5(1)(b) has been completed within a period of three months before the expiry of a Maritime Labour Certificate, the new certificate must be issued as being valid from the original[^key-cbab47fa9f92c69794424a3f43a253b5] date of expiry of the existing certificate.
+
+(2A)[^key-45e063555c9346a3331c0a658ca0cf99] This paragraph applies where a renewal survey as required by regulation 5(1)(b) has been completed but a new Maritime Labour Certificate cannot, on the date of completion of the survey—
+
+- (a) be issued; or
+- (b) made available on board the ship.
+
+(2B) Where paragraph (2A) applies, the certifying authority may extend the period of validity of the existing Maritime Labour Certificate by a period not exceeding 5 months.
+
+(2C) Where a certifying authority extends the period of validity of a Maritime Labour Certificate under paragraph (2B), it must—
+
+- (a) issue the new Maritime Labour Certificate as being valid from the original date of expiry of the existing certificate; and
+- (b) endorse the existing certificate accordingly.
+
+(2D) “Original date of expiry”, in relation to a Maritime Labour Certificate, means the final day of the period of validity of the certificate, excluding any extension to that period added under paragraph (2B).
+
+(3) A Maritime Labour Certificate ceases to be valid—
+
+- (a) as respects a ship falling within regulation 5(2), if an intermediate survey has not been completed within the period specified in regulation 5(1)(c) and the certificate endorsed in accordance with regulation 6(2), or
+- (b) where a certifying authority has issued the certificate in accordance with regulation 6(3), if that certificate has not been endorsed in accordance with the requirements of Merchant Shipping Notice 1848(M).
+
+(4) Where a certificate ceases to be valid for a reason specified in paragraph (3)(a) or (b), the Secretary of State may issue a new certificate if satisfied that the non-compliance has been suitably addressed and remedied, notwithstanding that the ship has not been subject to a survey falling within regulation 6 since the previous certificate was cancelled.
+
+(5) A Maritime Labour Certificate or interim Maritime Labour Certificate ceases to be valid—
+
+- (a) upon transfer of the ship to the flag of another State,
+- (b) if the person who is named on the certificate as the shipowner ceases to have responsibility for the operation of the ship,
+- (c) if substantial changes are made to the ship's accommodation or its recreational facilities for seafarers or its food and catering facilities, or
+- (d) if the ship's accommodation or its recreational facilities for seafarers or the ship's food and catering facilities have sustained damage or otherwise become deficient and that damage or deficiency has not been rectified.
+
+(6) The Secretary of State may cancel a Maritime Labour Certificate issued to a United Kingdom ship where the Secretary of State has reason to believe that the certificate was issued on the basis of incorrect information, and may require such a certificate to be surrendered as directed.
+
+(7) Where a Maritime Labour Certificate or interim Maritime Labour Certificate has been issued to a ship and has not expired and—
+
+- (a) the Secretary of State has issued to that ship an improvement notice under section 261 of the Merchant Shipping Act 1995 and the contravention specified in the improvement notice has not been remedied within the period specified in the notice, or
+- (b) the Secretary of State has determined that there is clear evidence that the ship does not comply with the requirements of the Maritime Labour Convention and that the failure of the ship to comply endangers the safety of the ship or its crew,
+
+the Secretary of State may suspend the validity of the Maritime Labour Certificate or interim Maritime Labour Certificate.
+
+(8) Where the Secretary of State suspends the validity of a certificate under paragraph (7), the Secretary of State must give notice of any such suspension to the shipowner and the master of the ship, and may require the certificate which has been so suspended to be surrendered as directed.
+
+## 11. Declaration of Maritime Labour Compliance
+
+(1) As regards a ship which is subject to a survey in accordance with regulation 5, 7 or 8, the shipowner must—
+
+- (a) provide to the certifying authority or Government of a Convention State undertaking the survey the information necessary for the certifying authority or Government of a Convention State to draw up Part 1 of the Declaration of Maritime Labour Compliance as respects the ship, and
+- (b) draw up Part 2 of the Declaration of Maritime Labour Compliance as respects the ship and provide this to the certifying authority or Government of a Convention State.
+
+(2) Where a certifying authority or Government of a Convention State has been provided with the necessary information in accordance with paragraph (1)(a) and with Part 2 of the Declaration of Maritime Labour Compliance as respects the ship, the certifying authority or Government of a Convention State must—
+
+- (a) draw up Part 1 of the Declaration of Maritime Labour Compliance, and
+- (b) if satisfied that Part 2 of the Declaration of Maritime Labour Compliance is compatible with the United Kingdom Maritime Labour Convention standards—
+  - (i) certify it to that effect, and
+  - (ii) issue to the shipowner Part 1 and Part 2 of the Declaration of Maritime Labour Compliance.
+
+(3) The certifying authority[^key-0c3ae269ddc5757cd999b276f1903f5e]...—
+
+- (a) when issuing or endorsing a Maritime Labour Certificate in accordance with regulation 9, must attach to that certificate Part 1 and Part 2 of the Declaration of Maritime Labour Compliance,
+- (b) when carrying out any survey as set out in Merchant Shipping Notice 1848(M) or any verification of the compliance of a ship with the Maritime Labour Convention, must record the results of that survey or verification in Part 1 of the Declaration of Maritime Labour Compliance or otherwise make that information available to seafarers on the ship, certifying authorities, inspectors from other States concerned with flag state or port state inspections, and shipowners' and seafarers' representatives.
+
+(4) In paragraphs (1) and (2), “Part 1 of the Declaration of Maritime Labour Compliance” and “Part 2 of the Declaration of Maritime Labour Compliance” mean a document drawn up in a form corresponding to the respective model given in Merchant Shipping Notice 1848(M), and having the contents, duration and validity specified in that Merchant Shipping Notice.
+
+## 12. Documents to be carried on board ship and made available
+
+(1) The shipowner and the master of a ship must ensure that there is carried on board the ship at all times a copy of the Maritime Labour Convention.
+
+(2) The shipowner and the master of a ship to which a Maritime Labour Certificate or interim Maritime Labour Certificate has been issued and which has not expired must ensure that the following documents are carried on board the ship and posted in a conspicuous place on board where they are available to seafarers—
+
+- (a) the Maritime Labour Certificate or interim Maritime Labour Certificate for the ship,
+- (b) if the ship has a Maritime Labour Certificate, the Declaration of Maritime Labour Compliance.
+
+(3) The shipowner and the master of a ship must make the documents referred to in paragraphs (1) and (2) available, upon request, to the persons specified in Merchant Shipping Notice 1848(M).
+
+## 13. On-board and on-shore complaint procedure
+
+(1) The shipowner and the master of a ship to which this regulation applies must ensure that there is available to a seafarer on that ship a procedure to lodge a complaint alleging a breach of the requirements of the Maritime Labour Convention and for that complaint to be resolved fairly, effectively and expeditiously.
+
+(2) A procedure to lodge a complaint and have it resolved must—
+
+- (a) seek to resolve the complaint at the lowest level possible,
+- (b) enable a seafarer to complain directly to the master of the ship and appropriate external authorities,
+- (c) include the right of the seafarer to be accompanied or represented during any hearing which takes place under that procedure,
+- (d) comply with the requirements of Merchant Shipping Notice 1849(M).
+
+(3) The shipowner and the master of a ship must ensure that a seafarer joining the ship is or has been provided with—
+
+- (a) a copy of the complaint procedure which is available to the seafarer in accordance with paragraph (1),
+- (b) contact information for the certifying authority for the ship,
+- (c) where applicable, contact information for the authority which is the competent authority for the purposes of the Maritime Labour Convention in the seafarer's country of residence, and
+- (d) the name of a person on board the ship who can, on a confidential basis, provide the seafarer with impartial advice on their complaint and otherwise assist them in following the complaint procedure.
+
+(4) A seafarer may lodge with the MCA a complaint alleging a breach of the requirements of the Maritime Labour Convention, and the MCA must treat the source of any such complaint as confidential.
+
+(5) The shipowner and the master of a ship must ensure that a seafarer is not subjected to any detriment on the grounds that the seafarer has lodged a complaint, whether through an on-board procedure or to the MCA, alleging a breach of the requirements of the Maritime Labour Convention.
+
+(6) For the purposes of paragraph (2)(a), seeking to resolve a complaint at the lowest level possible means—
+
+- (a) having the complaint considered by the lowest level of manager or officer who has the expertise and authority appropriate to consider such a complaint, provided that the person considering the complaint is not directly involved with the particular complaint,
+- (b) if that person is unable to resolve or reject the complaint, escalating the complaint to be considered by the next level of manager or officer who has the expertise and authority appropriate to consider such a complaint, provided that the person considering the complaint is not directly involved with the particular complaint, and
+- (c) continuing to escalate the complaint in such manner until it is resolved or rejected.
+
+## 14. Arbitration
+
+(1) If an applicant is dissatisfied for any reason with the outcome of a survey carried out in respect of a United Kingdom ship, that person may serve a written notice on the responsible person within 21 days of receiving notification of that outcome—
+
+- (a) stating that there is a dispute in relation to the survey, and
+- (b) requesting that the dispute be referred to a single arbitrator.
+
+(2) Subject to paragraphs (3), (4) and (6) an arbitrator referred to in paragraph (1) must be appointed by agreement between the parties.
+
+(3) In default of agreement between the parties, the arbitrator is such person as may be appointed by the President or Vice President of the Chartered Institute of Arbitrators following a request made by—
+
+- (a) a party, after giving written notice to the other party, or
+- (b) the parties jointly,
+
+but this paragraph does not apply in relation to Scotland.
+
+(4) No person is to be an arbitrator under this regulation unless that person is—
+
+- (a) a person who holds a certificate to act as—
+  - (i) a master or chief mate on a seagoing ship of 3,000 gross tonnage or more, in accordance with Regulation II/2 of Chapter 2 of the Annex to the STCW Convention, or
+  - (ii) a chief engineer officer or second engineer officer on a seagoing ship powered by main propulsion machinery of 3,000kW propulsion power or more, in accordance with Regulation III/2 of Chapter 3 of the Annex to the STCW Convention,
+- (b) a person who holds a certificate of competency equivalent to a certificate referred to in sub-paragraph (a),
+- (c) a naval architect,
+- (d) a qualified person,
+- (e) a person with experience of shipping matters or of activities carried on in ports, or
+- (f) a member of the Chartered Institute of Arbitrators.
+
+(5) An arbitrator appointed under this regulation has the powers of an inspector conferred by section 259 of the Act.
+
+(6) In the application of this regulation to Scotland—
+
+- (a) any reference to an arbitrator is to be construed as a reference to an arbiter, and
+- (b) the reference in paragraph (2) to a single arbitrator appointed by agreement between the parties is to be construed as a reference to a single arbiter so appointed or, in default of agreement, appointed by a sheriff.
+
+(7) The rules for arbitration set out in Merchant Shipping Notice M1613 apply unless alternative procedures are agreed between the applicant and the Secretary of State before the commencement of arbitration proceedings.
+
+(8) In this regulation—
+
+- (a) “**applicant**” means a person who makes an application for a survey required by these Regulations,
+- (b) “**the parties**” means the applicant and the responsible person, and “**party**” is to be construed accordingly,
+- (c) “**qualified person**” means—
+  - (i) a person who satisfies the judicial-appointment eligibility condition on a 7-year basis within the meaning of section 50 of the Tribunals, Courts and Enforcement Act 2007 [^c21870321],
+  - (ii) a person who is an advocate or solicitor in Scotland of at least 7 years' standing,
+  - (iii) a person who is a member of the Bar of Northern Ireland or a solicitor of the Supreme Court of Northern Ireland of at least 7 years' standing,
+- (d) “**responsible person**” means the certifying authority responsible for the issue of the certificate in connection with which a survey required by these Regulations is carried out, and
+- (e) “**the STCW Convention**” means the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers [^c21870331], as amended in 1995 by resolution 1 of the STCW Convention [^c21870341], convened at the International Maritime Organisation's headquarters from 26th June to 7th July 1995.
+
+## 15. Offences and penalties for United Kingdom ships
+
+(1) If a ship to which regulation 5(2) applies proceeds or attempts to proceed to sea or on a voyage or excursion without a valid Maritime Labour Certificate and Declaration of Maritime Labour Compliance or a valid interim Maritime Labour Certificate, the shipowner and the master of the ship are guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment to imprisonment for a term not exceeding two years, or a fine, or both.
+
+(2) If a ship to which regulation 5(3) applies, and in respect of which a certifying authority has issued a Maritime Labour Certificate, proceeds or attempts to proceed to sea or on a voyage or excursion without the Maritime Labour Certificate having been endorsed in the manner required by Merchant Shipping Notice 1848(M), the shipowner and the master of the ship are guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment to imprisonment[^key-dcaf2f5794aa176806fc7c44d236d055] for a term not exceeding two years, or a fine, or both.
+
+(3) Any person who—
+
+- (a) intentionally alters a Maritime Labour Certificate or interim Maritime Labour Certificate,
+- (b) intentionally produces a false Maritime Labour Certificate or interim Maritime Labour Certificate,
+- (c) in connection with any survey undertaken in accordance with these Regulations knowingly or recklessly furnishes false information,
+- (d) with intent to deceive, uses, lends, or allows to be used by another, a Maritime Labour Certificate or interim Maritime Labour Certificate,
+- (e) fails to surrender a Maritime Labour Certificate or interim Maritime Labour Certificate as directed in accordance with regulation 10(5) or (7), or
+- (f) in Scotland, forges a Maritime Labour Certificate or interim Maritime Labour Certificate,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment to imprisonment for a term not exceeding 6 months, or a fine, or both.
+
+(4) Any contravention of regulation 12 or 13 is an offence by the shipowner and by the master of the ship punishable on summary conviction by a fine not exceeding the statutory maximum or on conviction on indictment by imprisonment for a term not exceeding two years, or a fine, or both.
+
+(5) In any proceedings for an offence under this regulation, it is a defence for the person charged to prove that all reasonable steps had been taken by that person to ensure compliance with the requirements of the provision in question.
+
+## 16. Inspection of United Kingdom ships
+
+(1) For the purpose of checking compliance with these Regulations other than regulations 9 and 18 to 20, a relevant inspector or a proper officer may at all reasonable times go on board a ship and inspect the ship, its equipment, any article and any document carried on it.
+
+(2) Subsections (1A), (3) and (5) of section 258 of the Act (powers to inspect ships and their equipment, etc) apply in relation to paragraph (1) as if references in those subsections to “subsection (1) above” and “this section” were references to paragraph (1).
+
+(3) Sections 259(1), (2), (5), (7) and (9) to (12) and 260(1) and (2) of the Act (powers of inspectors in relation to premises and ships, and supplementary provisions) apply in relation to the inspection of a ship for the purposes of checking compliance with these Regulations as they apply in relation to the inspection of a ship for the purposes of checking compliance with the Act, as if—
+
+- (a) references in those sections to “this Act” were to these Regulations,
+- (b) for section 259(1)(b) there were substituted a reference to any ship to which this regulation applies,
+- (c) in section 259(2)(h)(iii) the words “or any instrument made under it” were omitted, and
+- (d) in section 259(5), the reference to “subsections (2) and (4) above for the purposes of Chapter II of Part VI” were to “subsection (2) above”, and the reference to “those subsections” were to “that subsection”.
+
+(4) Any Regulations made under subsection (8) of section 259 or subsection (3) of section 260 of the Act apply for the purposes of the provisions of those sections as applied by paragraphs (2) and (3) as they apply for the purposes of the Act.
+
+(5) Sections 261 to 266 of the Act (improvement notices and prohibition notices) apply for the purposes of these Regulations as if the meaning of “the relevant statutory provisions” in section 261(4) included these Regulations.
+
+## 17. Detention of United Kingdom ships
+
+(1) Where a relevant inspector has clear grounds for believing that—
+
+- (a) a ship to which this regulation applies does not comply with these Regulations; and
+- (b)
+  - (i) the conditions on board are clearly hazardous to the safety, health or security of seafarers, or
+  - (ii) the non-compliance represents a serious breach or the latest in a series of repeated breaches of these Regulations or the requirements of the Maritime Labour Convention (including the rights of seafarers referred to in Articles III and IV of the Maritime Labour Convention which are secured by it),
+
+that ship is liable to be detained.
+
+(2) A person having powers to detain a ship may permit a ship which is liable to be detained under this regulation to proceed to sea for the purpose of proceeding to the nearest appropriate repair yard available.
+
+(3) Section 284 of the Act [^c21870351] (enforcing detention of a ship) applies where a ship is liable to be detained under this regulation as if—
+
+- (a) references to the owner of a ship were to the shipowner under these Regulations,
+- (b) references to detention of a ship under the Act were references to detention of a ship under these Regulations, and
+- (c) subsection (7) were omitted.
+
+(4) Where a ship is liable to be detained under this regulation, the person detaining the ship must serve on the master of the ship a detention notice which—
+
+- (a) states the grounds for the detention, and
+- (b) requires the terms of the notice to be complied with until the ship is released by any person mentioned in section 284(1) of the Act.
+
+(5) Where a ship is detained under paragraph (1) but the failure to comply referred to in that paragraph has ceased, a person having power to detain the ship must, at the request of the shipowner or master, immediately release the ship—
+
+- (a) if no proceedings for an offence under these Regulations are instituted within the period of seven days beginning with the day on which the ship is detained,
+- (b) if proceedings for an offence under these Regulations, having been instituted within that period, are concluded without the shipowner or master being convicted,
+- (c)[^key-ec881f17b2dcbda2c77783c7df8495db] if either—
+  - (i) the sum of £30,000 is paid to the Secretary of State by way of security; or
+  - (ii) security which, in the opinion of the Secretary of State, is satisfactory and is for an amount not less than £30,000 is given to the Secretary of State,
+
+  by or on behalf of the shipowner or the master of the ship;
+- (d) where the shipowner or master is convicted of an offence under these Regulations, if any costs or expenses ordered to be paid by that person and any fine imposed on that person have been paid, or
+- (e) if the release is ordered by a court or tribunal referred to in article 292 of the United Nations Convention on the Law of the Sea [^c21870361], and any bond or other financial security ordered by such court or tribunal is posted.
+
+(6) The Secretary of State must repay any sum paid in pursuance of paragraph (5)(c) or release any security so given—
+
+- (a) if no proceedings for an offence under these Regulations are instituted within the period of seven days beginning with the day on which the sum is paid or the security is given, or
+- (b) if proceedings for such an offence, having been instituted within that period, are concluded without the shipowner or master being convicted.
+
+(7) Where a sum has been paid, or security has been given, by any person in pursuance of paragraph (5)(c) and the shipowner or master is convicted of an offence under these Regulations, the sum so paid or the amount made available under the security must be applied as follows—
+
+- (a) first in payment of any costs or expenses ordered by the court to be paid by the shipowner or master, and
+- (b) next in payment of any fine imposed by the court,
+
+and any balance must be repaid to the first-mentioned person.
+
+(8) Section 145 of the Act (interpretation of references in section 144 to the institution of proceedings or their conclusion) applies for the purposes of paragraphs (5) to (7) as if—
+
+- (a) references to the owner of a ship were to the shipowner under these Regulations, and
+- (b) references to an offence under section 131 were references to an offence under these Regulations.
+
+## 18. Documentation and complaint procedure requirements for non-United Kingdom ships
+
+(1) A ship to which this regulation applies must comply with the following requirements of the Maritime Labour Convention—
+
+- (a) Standard A5.1.1 paragraph 2 (requirement to have copy of Maritime Labour Convention on board),
+- (b) Regulation 5.1.3 paragraphs 3 and 4 and Standard A5.1.3 paragraph 12 (Maritime Labour Certificate and Declaration of Maritime Labour Compliance to be carried on board ship),
+- (c) Regulation 5.1.5 and Standard A5.1.5 (on-board complaint procedures), and
+- (d) Regulation 5.2.2 and Standard A5.2.2 (onshore seafarer complaint-handling procedures).
+
+(2) If a ship to which this regulation applies proceeds to sea in United Kingdom waters or attempts to proceed to sea or on a voyage or excursion in United Kingdom waters without complying with the requirements referred to in paragraph (1), the shipowner and the master of the ship are guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment to imprisonment for a term not exceeding two years, or a fine, or both.
+
+(3) In any proceedings for an offence under this regulation, it is a defence for the person charged to prove that all reasonable steps had been taken by that person to ensure compliance with the requirements in question.
+
+(4) In any proceedings for an offence under sub-paragraph (1)(b) where the Maritime Labour Convention is not in force for the State whose flag the ship is entitled to fly, it is a defence for the person charged to prove that documents containing substantially similar information to the documents referred to in that sub-paragraph are carried on board the ship.
+
+## 19. Inspection of non-United Kingdom ships
+
+(1) Where the Maritime Labour Convention is in force for the State whose flag the ship is entitled to fly, a relevant inspector may inspect the ship's Maritime Labour Certificate and Declaration of Maritime Labour Compliance or the ship's interim Maritime Labour Certificate and, where Standard A5.2.1 (inspections in port) applies, may carry out a more detailed inspection in accordance with that Standard.
+
+(2) Where the Maritime Labour Convention is not in force for the State whose flag the ship is entitled to fly, a relevant inspector may carry out an inspection of that ship as set out in Standard A5.2.1 of the Maritime Labour Convention.
+
+## 20. Detention of non-United Kingdom ships
+
+(1) Where a relevant inspector inspects a ship under regulation 19 and has clear grounds for believing that—
+
+- (a) the ship does not comply with the requirements of the Maritime Labour Convention, and
+- (b)
+  - (i) the conditions on board are clearly hazardous to the safety, health or security of seafarers, or
+  - (ii) the non-compliance represents a serious breach or the latest in a series of repeated breaches of the requirements of the Maritime Labour Convention (including the rights of seafarers referred to in Articles III and IV of the Maritime Labour Convention which are secured by it),
+
+the ship is liable to be detained.
+
+(2) A person having powers to detain a ship may permit a ship which is liable to be detained under this regulation to proceed to sea for the purpose of proceeding to the nearest appropriate repair yard available.
+
+(3) The power under this regulation to detain a ship may only be exercised if the ship in question is—
+
+- (a) in a port or shipyard in the United Kingdom, or
+- (b) at an offshore terminal in United Kingdom waters or controlled waters.
+
+(4) Where a ship is liable to be detained under this regulation, section 284 of the Act has effect in relation to that ship as if—
+
+- (a) references to the owner of a ship were to the shipowner under these Regulations,
+- (b) references to detention of a ship under the Act were references to detention of the ship in question under this regulation, and
+- (c) subsection (7) were omitted.
+
+(5) Where a ship is detained under this regulation, the Secretary of State must immediately inform the consul or diplomatic representative of the State whose flag the ship is entitled to fly or the appropriate maritime authorities of that State, and invite them to send a representative to attend the ship.
+
+(6) Where a ship is detained under this regulation but the failure to comply referred to in paragraph (1) has ceased, a person having power to detain the ship must, at the request of the shipowner or master, immediately release the ship.
+
+## 21. Review
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of these Regulations,
+- (b) set out the conclusions of the review in a report, and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the Maritime Labour Convention is implemented in other member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by these Regulations,
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which these Regulations come into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Signed by authority of the Secretary of State for Transport
+
+Simon Burns
+
+Minister of State
+
+Department for Transport
+
+## SCHEDULE — The United Kingdom Maritime Labour Convention standards[^key-aa2fbc304755d36b542247cd413eeb62]
+
+Regulation 2
+
+<table>
+<thead>
+<tr><th>Instrument</th><th>Provision</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="2">A. Minimum age</th></tr>
+<tr><td>The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014</td><td>Part 2</td></tr>
+<tr><th colspan="2">B. Medical certification</th></tr>
+<tr><td>The Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010</td><td>Regulation 7</td></tr>
+<tr><th colspan="2">C. Training and qualifications</th></tr>
+<tr><td>The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2022</td><td>Parts 2 and 3</td></tr>
+<tr><th colspan="2">D. Recruitment and placement</th></tr>
+<tr><td>The Merchant Shipping (Maritime Labour Convention) Minimum Requirements for Seafarers etc.) Regulations 2014</td><td>Part 3</td></tr>
+<tr><th colspan="2">E. Seafarers employment agreements</th></tr>
+<tr><td>The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014</td><td>Part 4</td></tr>
+<tr><th colspan="2">F. Wages</th></tr>
+<tr><td>The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014</td><td>Part 5</td></tr>
+<tr><th colspan="2">G. Hours of work</th></tr>
+<tr><td>The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018</td><td>Regulations 4, 5, 8, 10 and 11</td></tr>
+<tr><th colspan="2">H. Entitlement to leave</th></tr>
+<tr><td>The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018</td><td>Regulations 14 and 16</td></tr>
+<tr><th colspan="2">I. Repatriation</th></tr>
+<tr><td>The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014</td><td>Part 6</td></tr>
+<tr><th colspan="2">J. Abandonment security</th></tr>
+<tr><td>The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014</td><td>Part 10B</td></tr>
+<tr><th colspan="2">K. Seafarer’s compensation for ship’s loss or foundering</th></tr>
+<tr><td>The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014</td><td>Regulation 48</td></tr>
+<tr><th colspan="2">L. Manning</th></tr>
+<tr><td>The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2022</td><td>Part 4</td></tr>
+<tr><th colspan="2">M. Accommodation and recreational facilities</th></tr>
+<tr><td>The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014</td><td>Part 7</td></tr>
+<tr><th colspan="2">N. Food and catering</th></tr>
+<tr><td>The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014</td><td>Part 8</td></tr>
+<tr><th colspan="2">O. Medical care</th></tr>
+<tr><td>The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014</td><td>Part 9</td></tr>
+<tr><td>The Merchant Shipping (Medical Stores) Regulations 1995</td><td>Regulations 4 to 11</td></tr>
+<tr><th colspan="2">P. Shipowner’s liability and seafarers’ compensation</th></tr>
+<tr><td>The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014</td><td>Parts 10, other than regulation 48, and 10A</td></tr>
+<tr><th colspan="2">Q. Health and safety</th></tr>
+<tr><td>The Merchant Shipping and Fishing Vessels (Health and Safety) (Employment of Young Persons) Regulations 1998</td><td>Regulations 5, 6(1) to (5) and (8) and 9</td></tr>
+<tr><td>The Merchant Shipping (Health and Safety at Work) Regulations 1997</td><td>Regulations 5, 7, 12(1) and (2), 15, 16(1)(b)(ii), 19(1)(b)(ii) and 20.</td></tr>
+</tbody>
+</table>
+
+[^key-b7a7f918bce436b4b1cea91d72cf48f6]
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement Regulation 5.1 of the Maritime Labour Convention, 2006 (Cmd. 7049). They apply to sea-going United Kingdom ships wherever they may be and to other sea-going ships in United Kingdom waters.
+
+*Regulation 3* amends the Merchant Shipping (Vessels in Commercial Use for Sport and Pleasure) Regulations 1998 (S.I. 1998/2771) and the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 (S.I. 1998/1609) so as to insert a reference to these Regulations which has the effect of disapplying the requirements of these Regulations as regards ships which comply with certain Codes of Practice.
+
+*Regulation 5* requires United Kingdom ships over 500 gross tonnage to be surveyed for the purposes of issuing a Maritime Labour Certificate, and *regulations 6 to 11* make further provision regarding surveys and the issuing of certificates.
+
+*Regulation 12* requires certain documents to be carried on board a United Kingdom ship and to be made available, and *regulation 13* requires on-board and on-shore complaint procedures to be available to seafarers on the ship. *Regulations 14 to 17* make provision for arbitration on the outcome of surveys and for the enforcement of the preceding regulations as regards United Kingdom ships.
+
+*Regulation 18(1)* requires ships which are not United Kingdom ships to comply with requirements of the Maritime Labour Convention relating to the documents to be carried on board the ship and on-board and on-shore complaints procedures. *Regulation 18(2) and (3), 19 and 20* make provision for the enforcement of these requirements.
+
+*Regulation 21* requires the Secretary of State to review the operation and effect of these Regulations and publish a report within five years after they come into force and within every five years after that. Following a review it will fall to the Secretary of State to consider whether the Regulations should remain as they are, or be revoked or amended. A further instrument would be needed to revoke the Regulations or to amend them.
+
+The Regulations are made under sections 85(1)(a) and (b), (3) and (5) to (7) and 86(1) of the Merchant Shipping Act 1995 except in so far as (a) they relate to parts of the Maritime Labour Convention, 2006 which do not concern the health or safety of persons on ships and (b) they relate to government ships. Section 2(2) of the European Communities Act 1972 is used to (a) ensure that all parts of the Maritime Labour Convention, 2006 are covered by these Regulations and (b) to extend the application of the Regulations to government ships.
+
+Merchant Shipping Notices are published by the Maritime and Coastguard Agency. Copies may be obtained from M-Notices Subscriptions, PO Box 362, Europa Park, Grays Essex RM17 9AY, tel 01375 484548, fax 01375 484556, email mnotices@ecgroup.co.uk. They may also be accessed via the MCA's website www.dft.gov.uk/mca, which also has details of any amendments or replacements.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is published with the Explanatory Memorandum alongside this instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^c21870181]: Marginal citation: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595) and [S.I. 1994/757](https://www.legislation.gov.uk/uksi/1994/757).
+
+[^c21870191]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and Part I of the Schedule to, the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). The Maritime Labour Convention is regarded as one of the EU Treaties within the meaning of section 1(2) of the European Communities Act 1972 by virtue of the European Communities (Definition of Treaties) (Maritime Labour Convention) Order 2009 ([S.I. 2009/1757](https://www.legislation.gov.uk/uksi/2009/1757), as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043)).
+
+[^c21870201]: Marginal citation: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 85 and 86 were amended by section 8 of the [Merchant Shipping and Maritime Security Act 1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), and are applied to hovercraft by article 4 of the [Hovercraft (Application of Enactments) Order 1989 (S.I. 1989/1350)](https://www.legislation.gov.uk/uksi/1989/1350) (sections 85 and 86 re-enact sections 21 and 22 of the [Merchant Shipping Act 1979 (c. 39)](https://www.legislation.gov.uk/ukpga/1979/39) which are referred to in that article). There are other amendments to section 85 not relevant to these Regulations.
+
+[^key-d21ca0f5f7b91201e33e2ff882c25bb2]: Textual amendment: Words in reg. 2 substituted (23.4.2019) by [The Merchant Shipping (Maritime Labour Convention) (Extension of Maritime Labour Certificate) (Amendment) Regulations 2019 (S.I. 2019/716)](https://www.legislation.gov.uk/uksi/2019/716), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/716/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/2))
+
+[^c21870211]: Marginal citation: OJ No L 131, 28.5.2009, p 47.
+
+[^c21870221]: Marginal citation: [S.I. 1996/2128](https://www.legislation.gov.uk/uksi/1996/2128), amended by [S.I. 1997/506](https://www.legislation.gov.uk/uksi/1997/506).
+
+[^c21870231]: Marginal citation: [S.I. 1997/1510](https://www.legislation.gov.uk/uksi/1997/1510), amended by [S.I. 1998/1916](https://www.legislation.gov.uk/uksi/1998/1916), [S.I](https://www.legislation.gov.uk/uksi/1998/1916/section/I). 1999/3206 and [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114).
+
+[^c21870241]: Marginal citation: Cmnd. 7049.
+
+[^key-3b6ff2511418993873a8a8174b04946c]: Textual amendment: Words in reg. 2(1) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/242/regulation/4/2/a)
+
+[^key-0d330e8fa15891e9be34564a7e8f7fc1]: Textual amendment: Word in reg. 2(1) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/242/regulation/4/2/b)
+
+[^c21870251]: Marginal citation: Merchant Shipping Notice 1837(M) specifies which waters are Category A, B, C and D waters for the purposes of regulation 3(2)(a) of [S.I. 1992/2356](https://www.legislation.gov.uk/uksi/1992/2356), as the notice which currently supersedes Merchant Shipping Notice M1504 pursuant to regulation 2 of those Regulations.
+
+[^c21870261]: Marginal citation: [S.I. 1995/1210](https://www.legislation.gov.uk/uksi/1995/1210), amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302), [S.I](https://www.legislation.gov.uk/uksi/2004/302/section/I). 2005/2114 and [S.I. 2010/1075](https://www.legislation.gov.uk/uksi/2010/1075); there are other amending instruments but none is relevant.
+
+[^key-afd73d96774e977469283eb87348cea1]: Textual amendment: Words in reg. 2(1) substituted (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/8) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+
+[^key-7b9e3cd98bdab5997760ea700d392d5e]: Textual amendment: Words in reg. 2(1) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/15) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+
+[^key-6a289bcc9a30481d101dd64cba072f3f]: Textual amendment: Words in reg. 2(1) inserted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/14/2)
+
+[^key-883223dd1b733184a81033e212535c8b]: Textual amendment: Words in reg. 2(1) substituted (12.7.2018) by [The Merchant Shipping (Maritime Labour Convention) (Compulsory Financial Security) (Amendment) Regulations 2018 (S.I. 2018/667)](https://www.legislation.gov.uk/uksi/2018/667), [regs. 1](https://www.legislation.gov.uk/uksi/2018/667/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/667/regulation/3/2)
+
+[^key-745039d7b0c2b822c36069dd912c6d2d]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1785/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+
+[^key-993595dd028651f9fb9e20b5f4973e94]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1785/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+
+[^c21870291]: Marginal citation: [1968 c.59](https://www.legislation.gov.uk/ukpga/1968/59).
+
+[^key-ece5b294b5adce4491ee4c0988679bbb]: Textual amendment: Reg. 3(1) omitted (12.12.2025) by virtue of [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/9) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+
+[^c21870311]: Marginal citation: [S.I. 1998/1609](https://www.legislation.gov.uk/uksi/1998/1609).
+
+[^key-e9445dc7109ecfa76fa774821ae064a3]: Textual amendment: Words in reg. 4(1) inserted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [14(3)(a)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/14/3/a)
+
+[^key-e876701e38b6f9973682f79e99055d8a]: Textual amendment: Word in reg. 4(2) inserted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [14(3)(b)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/14/3/b)
+
+[^key-7e3dde5ce4b380cea192b63fbb6df440]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2013/1785/regulation/10/1) substituted (23.4.2019) by [The Merchant Shipping (Maritime Labour Convention) (Extension of Maritime Labour Certificate) (Amendment) Regulations 2019 (S.I. 2019/716)](https://www.legislation.gov.uk/uksi/2019/716), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/716/regulation/2/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/2))
+
+[^key-cbab47fa9f92c69794424a3f43a253b5]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2013/1785/regulation/10/2) inserted (23.4.2019) by [The Merchant Shipping (Maritime Labour Convention) (Extension of Maritime Labour Certificate) (Amendment) Regulations 2019 (S.I. 2019/716)](https://www.legislation.gov.uk/uksi/2019/716), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/716/regulation/2/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/2))
+
+[^key-45e063555c9346a3331c0a658ca0cf99]: Textual amendment: [Reg. 10(2A)-(2D)](https://www.legislation.gov.uk/uksi/2013/1785/regulation/10/2A) inserted (23.4.2019) by [The Merchant Shipping (Maritime Labour Convention) (Extension of Maritime Labour Certificate) (Amendment) Regulations 2019 (S.I. 2019/716)](https://www.legislation.gov.uk/uksi/2019/716), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/716/regulation/2/3/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/2))
+
+[^key-0c3ae269ddc5757cd999b276f1903f5e]: Textual amendment: Words in reg. 11(3) omitted (7.8.2014) by virtue of [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [14(4)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/14/4)
+
+[^c21870321]: Marginal citation: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).
+
+[^c21870331]: Marginal citation: Cmnd 9266.
+
+[^c21870341]: Marginal citation: Cmnd 3772.
+
+[^key-dcaf2f5794aa176806fc7c44d236d055]: Textual amendment: Words in reg. 15(2) inserted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [14(5)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/14/5)
+
+[^c21870351]: Marginal citation: Section 284 was amended by the Merchant Shipping and Maritime Security Act 1997, section 9 and Schedule 1.
+
+[^key-ec881f17b2dcbda2c77783c7df8495db]: Textual amendment: Reg. 17(5)(c) substituted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [14(6)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/14/6)
+
+[^c21870361]: Marginal citation: Cmnd. 8941.
+
+[^key-aa2fbc304755d36b542247cd413eeb62]: Textual amendment: Sch. inserted (12.7.2018) by [The Merchant Shipping (Maritime Labour Convention) (Compulsory Financial Security) (Amendment) Regulations 2018 (S.I. 2018/667)](https://www.legislation.gov.uk/uksi/2018/667), [regs. 1](https://www.legislation.gov.uk/uksi/2018/667/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/667/regulation/3/3)
+
+[^key-b7a7f918bce436b4b1cea91d72cf48f6]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1785/schedule) Table substituted (10.1.2023) by [The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2022 (S.I. 2022/1342)](https://www.legislation.gov.uk/uksi/2022/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1), [Sch. 1 Pt. 1 para. 9](https://www.legislation.gov.uk/uksi/2022/1342/schedule/1/part/1/paragraph/9)

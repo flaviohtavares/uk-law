@@ -1,0 +1,218 @@
+---
+title: The Insolvent Companies (Reports on Conduct of Directors) (Scotland) Rules 2016
+id: uksi/2016/185
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2016-02-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2016/185
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/185/pdfs/uksiem_20160185_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/185/pdfs/uksi_20160185_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/185/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Insolvent Companies (Reports on Conduct of Directors) (Scotland) Rules 2016
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2016 No. 185 (S. 1)
+
+Insolvency, Scotland
+
+The Insolvent Companies (Reports on Conduct of Directors) (Scotland) Rules 2016
+
+Made
+
+7th February 2016
+
+Laid before Parliament
+
+22nd February 2016
+
+Coming into force
+
+6th April 2016
+
+The Secretary of State makes the following Rules, in exercise of the powers conferred by section 411(1)(b) of the Insolvency Act 1986[^f00001] and section 21(2) of the Company Directors Disqualification Act 1986[^f00002].
+
+## 1. Citation, extent commencement and interpretation
+
+(1) These Rules may be cited as the Insolvent Companies (Reports on Conduct of Directors) (Scotland) Rules 2016, and extend to Scotland only.
+
+(2) These Rules come into force on 6th April 2016.
+
+(3) In these Rules—
+
+- “by electronic means” means sent initially and received at its destination by means of electronic equipment for the processing (which expression includes digital compression) or storage of data, and entirely transmitted, conveyed and received by wire, by radio, by optical means or by other electromagnetic means;
+- “the Act” means the Company Directors Disqualification Act 1986;
+- “the former Rules” means the Insolvent Companies (Reports on Conduct of Directors) (Scotland) Rules 1996[^f00003]; and
+- “the portal” means a digital service provided by the Secretary of State for the functions of both the sending and acknowledgement of receipt, by electronic means, of reports, applications, information and notifications in accordance with these Rules.
+
+## 2. Revocation
+
+Subject to rule 10 the following are revoked—
+
+- (a) the former Rules,
+- (b) the Insolvent Companies (Reports on Conduct of Directors) (Scotland) (Amendment) Rules 2001[^f00004]
+
+## 3. Enforcement of section 7(4) of the Act
+
+(1) This rule applies where, for the purpose of determining whether to exercise any function under section 7 of the Act (disqualification orders under section 6: applications and acceptance of undertakings)[^f00005], the Secretary of State requires or has required a person to—
+
+- (a) furnish the Secretary of State with information under section 7(4)(a), or
+- (b) produce and permit inspection of books, papers and other records in accordance with section 7(4)(b).
+
+(2) On the application of the Secretary of State the court may make an order directing compliance within such period as may be specified.
+
+(3) The court’s order may provide that all expenses of and incidental to the application are to be borne by the person to whom the order is directed.
+
+## 4. Conduct reports required to be sent under section 7A(4) of the Act
+
+(1) This rule is subject to rule 7.
+
+(2) A conduct report required to be sent under section 7A(4) of the Act[^f00006] must be sent by the office-holder[^f00007] to the Secretary of State by electronic means via the portal.
+
+(3) The Secretary of State must as soon as reasonably practicable acknowledge receipt, by electronic means via the portal, of a conduct report sent in accordance with this rule.
+
+## 5. Applications for a longer period under section 7A(4)(b) of the Act
+
+(1) This rule is subject to rule 7.
+
+(2) This rule applies where the particular circumstances of a case may require a period longer than that provided for by section 7A(4)(a) of the Act for the sending of a conduct report to the Secretary of State.
+
+(3) The office-holder may apply to the Secretary of State for a longer period in which to send the report.
+
+(4) The application must be sent by electronic means via the portal before the expiry of the period specified in section 7A(4)(a) of the Act.
+
+(5) The application must explain the particular circumstances for the making of the application.
+
+(6) The Secretary of State must as soon as reasonably practicable acknowledge receipt, by electronic means via the portal, of an application sent in accordance with this rule.
+
+(7) The Secretary of State must, as soon as is reasonably practicable, notify the office-holder, by electronic means via the portal,—
+
+- (a) of the outcome of the application; and
+- (b) if the application is successful, of the longer period considered appropriate in the particular circumstances for the sending of the report to the Secretary of State under section 7A(4)(b) of the Act.
+
+## 6. New information required to be sent under section 7A(5) of the Act
+
+(1) This rule is subject to rule 7.
+
+(2) New information required to be sent under section 7A(5) of the Act must be sent by the office-holder to the Secretary of State by electronic means via the portal.
+
+(3) The Secretary of State must as soon as reasonably practicable acknowledge receipt, by electronic means via the portal, of new information sent in accordance with this rule.
+
+## 7. Unavailability of the portal
+
+(1) The Secretary of State—
+
+- (a) may at any time when the portal is unable to carry out one or more of its functions, and
+- (b) must, where the portal has been unable to carry out one or more of its functions for a period of 7 business days,
+
+provide alternative means for complying with a requirement under rules 4, 5 or 6.
+
+(2) The Secretary of State must give notice to office-holders specifying the means provided for the purposes of paragraph (1) and the period of time for which those means are made available.
+
+(3) The Secretary of State may by notice vary the means provided under paragraph (1) or the period of time for which those means are made available.
+
+(4) A notice under paragraph (3) must give office-holders at least 1 business day’s notice before any variation takes effect.
+
+(5) The time within which an office-holder must comply with rules 4, 5 or 6 does not include any day the whole or part of which forms part of a suspension period.
+
+(6) For the purpose of paragraph (5) a suspension period is a period of time during which —
+
+- (a) the portal is unable to receive reports, applications or information;
+- (b) no notice under paragraph (2) or (3) is in force; and
+- (c) the office-holder has attempted to and been prevented from sending a report, application or information at least once during that period on the basis of sub-paragraph (a).
+
+(7) In this rule “business day” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday in any part of Great Britain.
+
+## 8. Enforcement of rules 4 to 6
+
+(1) An office-holder who without reasonable excuse fails to comply with any of the obligations imposed by section 7A(4) or 7A(5) of the Act is guilty of an offence and—
+
+- (a) on summary conviction of the offence, is liable to a fine not exceeding level 3 on the standard scale, and
+- (b) for continued contravention, is liable to a daily default fine; that is to say, the office-holder is liable on a second or subsequent summary conviction of the offence to a fine not exceeding one-tenth of level 3 on the standard scale for each day on which the contravention is continued (instead of the penalty specified in sub-paragraph (a)).
+
+(2) Section 431 of the Insolvency Act 1986 (summary proceedings), as it applies to Scotland, has effect in relation to an offence under this rule as to offences under Parts 1 to 7 of that Act.
+
+## 9. Review
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of these Rules,
+- (b) set out the conclusions of the review in a report, and
+- (c) publish the report.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Rules,
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(3) The first report under this rule must be published before the end of the period of 5 years beginning on 6th April 2016.
+
+(4) Reports under this rule are afterwards to be published at intervals not exceeding 5 years.
+
+## 10. Transitional and savings provisions
+
+(1) Rule 6 of the former Rules continues to apply when a period referred to in rule 6(2) of the former Rules has not expired by 6th April 2016.
+
+(2) Until 6th October 2016 rules 3 to 5 of the former Rules continue to apply as if the former Rules had not been revoked when the relevant date for the purposes of rule 4 of the former Rules occurred before 6th April 2016.
+
+(3) Until 6th October 2016 the forms contained in the Schedule to the former Rules must be used for the purpose of complying with rules 3 to 5 of the former Rules.
+
+Anna Soubry
+
+Minister of State for Small Business, Industry and Enterprise
+
+Department for Business, Innovation and Skills
+
+7th February 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These Rules revoke and replace the Insolvent Companies (Reports on Conduct of Directors) (Scotland) Rules ([S.I. 1996/1910](https://www.legislation.gov.uk/uksi/1996/1910)) subject to transitional and saving provisions.
+
+The Rules make provision in Scotland for the manner in which an office-holder is to prepare and send a conduct report, under section 7A of the Company Directors Disqualification Act [1986 (c.46)](https://www.legislation.gov.uk/ukpga/1986/46) (“the Act”), about the conduct of each person who was a director of an insolvent company in the 3 years before the insolvency.
+
+Rule 3 enables the Secretary of State to apply for a court order to enforce a requirement under section 7(4) of the Act.
+
+Rules to 4 to 6 provide for the manner in which an office-holder is to comply with obligations in section 7A of the Act.
+
+Rule 7 makes provision for circumstances where the portal is unavailable.
+
+Rule 8 provides that an office-holder is guilty of an offence if the office-holder fails (without reasonable excuse) to send to the Secretary of State—
+
+- the conduct report, before the end of 3 months beginning with the insolvency date, or such longer period as the Secretary of State considers appropriate, or
+- if applicable, new information as soon as reasonably practicable.
+
+Rule 9 requires the Secretary of State to review the operation and effect of these Rules and publish a report within 5 years after the Rule comes into force and within every 5 years after that. Following a review it will fall to the Secretary of State to consider whether these Rules should remain as they are, or be revoked or be amended. A further instrument would be needed to revoke the Rules or to amend them.
+
+Rule 10 provides transitional and saving provisions.
+
+An impact assessment of the effect that this instrument will have on the costs of business is available from The Insolvency Service, 4 Abbey Orchard Street, London SW1P 2HT and is published with the Explanatory Memorandum alongside the instrument on www.legislation.gov.uk .
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^f00002]: Footnote: [1986 c.46](https://www.legislation.gov.uk/ukpga/1986/46).
+
+[^f00003]: Footnote: [S.I. 1996/1910](https://www.legislation.gov.uk/uksi/1996/1910), amended by [S.I. 2001/768](https://www.legislation.gov.uk/uksi/2001/768).
+
+[^f00004]: Footnote: [S.I. 2001/768](https://www.legislation.gov.uk/uksi/2001/768).
+
+[^f00005]: Footnote: [1986 c.46](https://www.legislation.gov.uk/ukpga/1986/46); section 7(4) was amended by the Deregulation Act [2015 (c.20)](https://www.legislation.gov.uk/ukpga/2015/20), Schedule 6, paragraph 11(2) to 11(4); the heading to section 7 is amended by the Small Business, Enterprise and Employment Act [2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26), section 107(4).
+
+[^f00006]: Footnote: Section 7A is inserted by the Small Business, Enterprise and Employment Act 2015, section 107(2).
+
+[^f00007]: Footnote: “Office-holder” is defined in section 7A(9) of the Act.

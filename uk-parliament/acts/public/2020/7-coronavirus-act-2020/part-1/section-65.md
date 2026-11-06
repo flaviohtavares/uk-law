@@ -1,0 +1,39 @@
+---
+title: Coronavirus Act 2020, section 65
+act: Coronavirus Act 2020
+section: '65'
+status: revised-with-pending-changes
+text_date: '2026-09-17'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2020/7/section/65
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Coronavirus Act 2020, section 65
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-09-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/7
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 65. Elections due to be held in Wales in period after 15 March 2020
+
+*Extent: E+W*
+
+(1) This section applies to the poll for a relevant election if the poll—
+
+- (a) is required to be held on a day falling within the period beginning with 16 March 2020 and ending with the day 30 days after that on which this Act is passed, but
+- (b) is not held in that period.
+
+(2) Section 39 of the 1983 Act (local elections void etc) does not apply, and is treated as never having applied, in relation to the poll.
+
+(3) Section 63 of that Act (breach of official duty) does not apply, and is treated as never having applied, in relation to any act or omission in connection with the poll.
+
+(4) In determining for the purpose of this section whether a poll has been held, postal votes are to be ignored.
+
+(5) This section does not affect the application of section 39 or 63 of the 1983 Act in relation to a poll the date for which is determined by virtue of section 67 (power to postpone).
+
+(6) In this section—
+
+- “**the 1983 Act**” means the Representation of the People Act 1983;
+- “**relevant election**” means an election to fill a casual vacancy in the office of councillor in a county council, county borough council or community council in Wales.

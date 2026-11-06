@@ -1,0 +1,504 @@
+---
+title: The Child Support Commissioners (Procedure) Regulations 1999
+id: uksi/1999/1305
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1999-05-04'
+text_date: '2005-02-28'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1999/1305
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/1305/pdfs/uksi_19991305_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/1305/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support Commissioners (Procedure) Regulations 1999
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2005-02-28. See https://www.legislation.gov.uk/changes/affected/uksi/1999/1305
+
+1999 No. 1305
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+The Child Support Commissioners (Procedure) Regulations 1999
+
+Made
+
+4th May 1999
+
+Laid before Parliament
+
+7th May 1999
+
+Coming into force
+
+1st June 1999
+
+The Lord Chancellor, in exercise of the powers conferred by sections 22(3), 24(6) and (7) and 25(2), (3) and (5) of, and paragraph 4A of Schedule 4 to, the Child Support Act 1991[^c1641786] and of all other powers enabling him in that behalf, after consultation with the Lord Advocate and, in accordance with section 8 of the Tribunals and Inquiries Act 1992[^c1641787], with the Council on Tribunals, makes the following Regulations–
+
+## PART I — GENERAL PROVISIONS
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Child Support Commissioners (Procedure) Regulations 1999 and shall come into force on 1st June 1999.
+
+### 2. Revocation
+
+The following Regulations are revoked to the extent that they relate to proceedings before the Child Support Commissioners–
+
+- (a) the Child Support Commissioners (Procedure) Regulations 1992 [^c1641788];
+- (b) the Child Support Commissioners (Procedure) (Amendment) Regulations 1996 [^c1641789];
+- (c) the Social Security (Adjudication) and Commissioners Procedure and Child Support Commissioners (Procedure) Amendment Regulations 1997 [^c1641790]; and
+- (d) the Child Support Commissioners (Procedure) (Amendment) Regulations 1997 [^c1641791].
+
+### 3. Transitional provisions
+
+(1) Subject to paragraphs (2) and (3), these Regulations shall apply to all proceedings before the Commissioners on or after 1st June 1999.
+
+(2) In relation to any appeal or application for leave to appeal from any child support appeal tribunal constituted under the Act, these Regulations shall have effect with the modifications that–
+
+- (a) “appeal tribunal" includes a reference to any such tribunal;
+- (b) “Secretary of State" includes a reference to a child support officer;
+- (c) “three months" shall be substituted for “ one month ” in regulation 10(1) and “42 days" shall be substituted for “ one month ” in regulations 11(2) and 15(1); and
+- (d) under regulation 11 a Commissioner may for special reasons accept an application for leave to appeal even though the applicant has not sought to obtain leave to appeal from the chairman.
+
+(3) Any transitional question arising under any application or appeal in consequence of the coming into force of these Regulations shall be determined by a Commissioner who may for this purpose give such directions as he may think just, including modifying the normal requirements of these Regulations in relation to the application or appeal.
+
+### 4. Interpretation
+
+In these Regulations, unless the context otherwise requires–
+
+- “the[^key-2b435b2adc54794d6cc83261d65d22f2] 1999 Regulations” means the Social Security and Child Support (Decisions and Appeals) Regulations 1999;
+- “the Act" means the Child Support Act 1991;
+- “appeal tribunal" means an appeal tribunal constituted under Chapter 1 of Part I of the Social Security Act 1998 [^c1641792];
+- “authorised officer" means an officer authorised by the Lord Chancellor, or in Scotland by the Secretary of State, in accordance with paragraph 4A of Schedule 4 to the Act [^c1641793];
+- “the chairman" for the purposes of regulations 10, 11 and 12 means–
+  - (i) the person who was the chairman or sole member of the appeal tribunal which gave the decision against which leave to appeal is being sought; [^key-1cafb340f6504d8f025835a4e1728330]...
+  - (ii) [^key-b72c621b17368399705f63e2e1599bf3]...
+- “Commissioner" means a Child Support Commissioner;
+- “funding notice” means the notice or letter from the Legal Services Commission confirming that legal services are to be funded;[^key-a8b90584bab9d4e4829f5ccb498fd378]
+- “legal aid certificate” means the certificate issued by the Scottish Legal Aid Board confirming that legal services are to be funded;
+- “legally qualified" means being a solicitor or barrister, or in Scotland, a solicitor or advocate;
+- “Legal Services Commission” means the Legal Services Commission established under section 1 of the Access to Justice Act 1999;[^key-c8f9508c608f6379b9e9c0838b8002d0]
+- “live television link” means a television link or other audio and video facilities which allow a person who is not physically present at an oral hearing to see and hear proceedings and be seen and heard by all others who are present (whether physically present or otherwise);
+- “month" means a calendar month;
+- “office" means an Office of the Child Support Commissioners;
+- “panel member” means a person appointed to the panel constituted under section 6 of the Social Security Act 1998 and who—[^key-04da86b9df5de9a85ca95d6da79b4ef6]
+  - (i) has a general qualification (construed in accordance with section 71 of the Courts and Legal Services Act 1990);
+  - (ii) is a member of the Bar of Northern Ireland or a Solicitor of the Supreme Court of Northern Ireland; or
+  - (iii) is an advocate or solicitor in Scotland.
+- “party" means a party to the proceedings;
+- “proceedings" means any proceedings before a Commissioner, whether by way of an application for leave to appeal to, or from, a Commissioner, by way of an appeal or otherwise;
+- “respondent" means any person other than the applicant or appellant who was a party to the proceedings before the appeal tribunal and any other person who, pursuant to a direction given under regulation 18 is served with notice of the appeal; [^key-b320b90661ab7abeb2e1e322406c2407]...
+- “Scottish Legal Aid Board” means the Scottish Legal Aid Board established under section 1 of the Legal Aid (Scotland) Act 1986; and[^key-cf4fe72ae9dddfc5f055170ebf16bda5]
+
+“summons", in relation to Scotland, corresponds to “citation" and regulation 23 shall be construed accordingly.
+
+### 5. General powers of a Commissioner
+
+(1) Subject to the provisions of these Regulations, a Commissioner may adopt any procedure in relation to proceedings before him.
+
+(2) A Commissioner may–
+
+- (a) extend or abridge any time limit under these Regulations (including, subject to regulations 11(3) and 15(2), granting an extension where the time limit has expired);
+- (b) expedite, postpone or adjourn any proceedings.
+
+(3) Subject to paragraph (4), a Commissioner may, on or without the application of a party, strike out any proceedings for want of prosecution or abuse of process.
+
+(4) Before making an order under paragraph (3), the Commissioner shall send notice to the party against whom it is proposed that it should be made giving him an opportunity to make representations why it should not be made.
+
+(5) A Commissioner may, on application by the party concerned, give leave to reinstate any proceedings which have been struck out in accordance with paragraph (3) and, on giving leave, he may give directions as to the conduct of the proceedings.
+
+(6) Nothing in these Regulations shall affect any power which is exercisable apart from these Regulations.
+
+### 6. Transfer of proceedings between Commissioners
+
+If it becomes impractical or inexpedient for a Commissioner to continue to deal with proceedings which are or have been before him, any other Commissioner may rehear or deal with those proceedings and any related matters.
+
+### 7. Delegation of functions to authorised officers
+
+(1) The following functions of Commissioners may be exercised by legally qualified authorised officers, to be known as legal officers to the Commissioners–
+
+- (a) giving directions under regulations 8, 18 and 19;
+- (b) determining requests for or directing hearings under regulation 21;
+- (c) summoning witnesses, and setting aside a summons made by a legal officer, under regulation 23;
+- (d) postponing a hearing under regulation 5;
+- (e) giving leave to withdraw or reinstate applications or appeals under regulation 24;
+- (f) waiving irregularities under regulation 25 in connection with any matter being dealt with by a legal officer;
+- (g) extending or abridging time, directing expedition, giving notices, striking out and reinstating proceedings under regulation 5.
+
+(2) Any party may, within 14 days of being sent notice of the direction or order of a legal officer, make a written request to a Commissioner asking him to reconsider the matter and confirm or replace the direction or order with his own, but, unless ordered by a Commissioner, a request shall not stop proceedings under the direction or order.
+
+### 8. Manner of and time for service of notices, etc.
+
+(1) A notice to or other document for any party shall be deemed duly served if it is–
+
+- (a) delivered to him personally; or
+- (b) properly addressed and sent to him by prepaid post at the address last notified by him for this purpose, or to his ordinary address; or
+- (ba)[^key-a0a5647ab4b8c3b9915aa38254095ec4] subject to paragraph (1A), sent by e-mail; or
+- (c) served in any other manner a Commissioner may direct.
+
+(1A)[^key-49df5436dccc59eaba5c8e8e0596d0d1] A document may be served by e-mail on any party if the recipient has informed the person sending the e-mail in writing—
+
+- (a) that he is willing to accept service by e-mail;
+- (b) of the e-mail address to which the documents should be sent; and
+- (c) if the recipient wishes to so specify, the electronic format in which documents must be sent.
+
+(2) A notice to or other document for a Commissioner shall be delivered or sent to the office.
+
+- (a)[^key-63838245e8ce90f919d2aac7d5bb928f] delivered to the office in person;
+- (b) sent to the office by prepaid post;
+- (c) sent to the office by fax; or
+- (d) where the office has given written permission in advance, sent to the office by e-mail
+
+(3) For the purposes of any time limit, a properly addressed notice or other document sent by prepaid post, fax or e-mail is effective from the date it is sent.
+
+### 9. Confidentiality
+
+(1) Subject to paragraphs (3) and (4), the office shall not disclose information such as is mentioned in paragraph (2) except with the written consent of the person to whom the information relates or, in the case of a child, with the written consent of the person with care of him.
+
+(2) The information referred to in paragraph (1) is any information provided under the Act which–
+
+- (a) relates to any person whose circumstances are relevant to the proceedings; and
+- (b) consists of that person’s address or other information which could reasonably be expected to lead to him being located.
+
+(3) Where–
+
+- (a) the office sends a notice to a person to whom information relates stating that the information may be disclosed in the course of proceedings unless he objects within one month of the date of the notice; and
+- (b) written notice of that person’s objection is not received at the office within one month of the date of the notice,
+
+then the information may be disclosed in the course of the proceedings.
+
+(4) Where the person to whom information relates is a child, the office shall send the notice referred to in paragraph (3)(a) to the person with care of the child and where written notice of that person’s objection is not received at the office within one month of the date of the notice, then the information may be disclosed in the course of the proceedings.
+
+(5) This regulation does not apply to proceedings which relate solely to a reduced benefits direction within the meaning of section 46(11) of the Act [^c1641794].
+
+### 9A. Funding of legal services[^key-ac7c10e61df33330f417a4ddb29d580a]
+
+(1) If a party is granted funding of legal services at any time, he shall—
+
+- (a) where funding is granted by the Legal Services Commission, send a copy of the funding notice to the office;
+- (b) where funding is granted by the Scottish Legal Aid Board, send a copy of the legal aid certificate to the office; and
+- (c) notify every other party that funding has been granted.
+
+## PART II — APPLICATIONS FOR LEAVE TO APPEAL AND APPEALS
+
+### 10. Application to a Chairman for leave to appeal
+
+(1) Subject to paragraphs (5) and (7), an application[^key-8bc269aa99d58cb27b52e4f595ca30b6] to a chairman for leave to appeal to a Commissioner from a decision of an appeal tribunal shall be made within one month of the date the written statement of the reasons for the decision was sent to the applicant.
+
+(2) Where an application for leave to appeal to a Commissioner is made by the Secretary of State, the clerk to an appeal tribunal shall, as soon as may be practicable, send a copy of the application to every other party.
+
+(3) Any party who is sent a copy of an application for leave to appeal in accordance with paragraph (2) may make representations in writing within one month of the date the application is sent.
+
+(4) A person determining an application for leave to appeal to a Commissioner shall take into account any further representations received in accordance with paragraph (3) and shall record his decision in writing and send a copy to each party.
+
+(5) Where an applicant has not applied for leave to appeal within one month in accordance with paragraph (1), but makes an application within one year beginning on the day the one month ends, the chairman may for special reasons accept the late application.
+
+(6)[^key-99564c06b21e7245eda66a032e147941] Where an application for leave to appeal against a decision of an appeal tribunal is made—
+
+- (a) if the chairman was a fee-paid panel member, the application may be determined by a salaried panel member; or
+- (b) if it is impracticable or would be likely to cause undue delay for the application to be determined by the chairman, the application may be determined by another panel member.
+
+(7)[^key-5f6ac371e563f5f3d6a01a3a4f03074f] Where—
+
+- (a) any decision or the record of a decision is corrected under regulation 56 of the 1999 Regulations; or
+- (b) an application for a decision to be set aside under regulation 57 of the 1999 Regulations is refused for reasons other than that the application was made outside the period specified in regulation 57(3) of those Regulations,
+
+any time limit specified by this regulation shall run from the date on which notice of the correction or refusal was sent or given to the applicant.
+
+### 11. Application to a Commissioner for leave to appeal
+
+(1) An application to a Commissioner for leave to appeal against the decision of an appeal tribunal may be made only where the applicant has sought to obtain leave from the chairman and leave has been refused or the application has been rejected.
+
+(2) Subject to paragraph (3) an application to a Commissioner shall be made within one month of the date that notice of the refusal or rejection was sent to the applicant by the appeal tribunal.
+
+(3) A Commissioner may for special reasons accept a late application or an application where the applicant failed to seek leave from the chairman within the specified time, but did so on or before the final date.
+
+(4) In paragraph (3) the final date means the end of a period of 13 months from the date on which the decision of the appeal tribunal or, if later, any separate statement of the reasons for it, was sent to the applicant by the appeal tribunal.
+
+### 12. Notice of application for leave to appeal
+
+(1) An application to a chairman or a Commissioner for leave to appeal shall be made by notice in writing, and shall contain–
+
+- (a) the name and address of the applicant;
+- (b) the grounds on which the applicant intends to rely;
+- (c) if the application is made late, the grounds for seeking late acceptance; and
+- (d) an address for sending notices and other documents to the applicant.
+
+(2) The notice in paragraph (1) shall have with it copies of–
+
+- (a) the decision against which leave to appeal is sought;
+- (b) if separate, the written statement of the appeal tribunal’s reasons for it; and
+- (c) if it is an application to a Commissioner, the notice of refusal or rejection sent to the applicant by the appeal tribunal.
+
+(3) Where an application for leave to appeal is made to a Commissioner by the Secretary of State he shall send each respondent a copy of the notice of application and any documents sent with it when they are sent to the Commissioner.
+
+### 13. Determination of application
+
+(1) The office shall send written notice to the applicant and each respondent of any determination by a Commissioner of an application for leave to appeal to a Commissioner.
+
+(2) Subject to a direction by a Commissioner, where a Commissioner grants leave to appeal under regulation 11–
+
+- (a) notice of appeal shall be deemed to have been sent on the date when notice of the determination is sent to the applicant; and
+- (b) the notice of application shall be deemed to be a notice of appeal sent under regulation 14.
+
+(3) If a Commissioner grants an application for leave to appeal he may, with the consent of the applicant and each respondent, treat and determine the application as an appeal.
+
+### 14. Notice of appeal
+
+(1) Subject to regulation 13(2), an appeal shall be made by notice in writing and shall contain–
+
+- (a) the name and address of the appellant;
+- (b) the date on which the appellant was notified that leave to appeal had been granted;
+- (c) the grounds on which the appellant intends to rely;
+- (d) if the appeal is made late, the grounds for seeking late acceptance; and
+- (e) an address for sending notices and other documents to the appellant.
+
+(2) The notice in paragraph (1) shall have with it copies of–
+
+- (a) the notice informing the appellant that leave to appeal has been granted;
+- (b) the decision against which leave to appeal has been granted; and
+- (c) if separate, the written statement of the appeal tribunal’s reasons for it.
+
+### 15. Time limit for appealing after leave obtained
+
+(1) Subject to paragraph (2), a notice of appeal shall not be valid unless it is sent to a Commissioner within one month of the date on which the appellant was sent written notice that leave to appeal had been granted.
+
+(2) A Commissioner may for special reasons accept a late notice of appeal.
+
+### 16. Acknowledgement of a notice of appeal and notification to each respondent
+
+The office shall send–
+
+- (a) to the appellant, an acknowledgement of the receipt of the notice of appeal;
+- (b) to each respondent, a copy of the notice of appeal.
+
+## PART III — PROCEDURE
+
+### 17. Representation
+
+A party may conduct his case himself (with assistance from any person if he wishes) or be represented by any person whom he may appoint for the purpose.
+
+### 18. Directions on Notice of Appeal
+
+(1) As soon as practicable after the receipt of a notice of appeal a Commissioner shall give any directions that appear to him to be necessary, specifying–
+
+- (a) the parties who are to be respondents to the appeal; and
+- (b) the order in which and the time within which any party is to be allowed to make written observations on the appeal or on the observations made by any other party.
+
+(2) If in any case two or more persons who were parties to the proceedings before the appeal tribunal give notice of appeal to a Commissioner, a Commissioner shall direct which one of them is to be treated as the appellant and thereafter, but without prejudice to any rights or powers conferred on appellants by these Regulations, any other person who has given notice of appeal shall be treated as a respondent.
+
+(3) Subject to an abridgement of time under regulation 5(2)(a), the time specified in directions given under paragraph (1)(b) shall be not less than one month beginning with the day on which the notice of the appeal or, as the case may be, the observations were sent to the party concerned.
+
+### 19. General Directions
+
+(1) Where a Commissioner considers that an application or appeal made to him gives insufficient particulars to enable the question at issue to be determined, he may direct the party making the application or appeal, or any respondent, to furnish any further particulars which may be reasonably required.
+
+(2) In the case of an application for leave to appeal, or an appeal from an appeal tribunal, a Commissioner may, before determining the application or appeal, direct the tribunal to submit a statement of such facts or other matters as he considers necessary for the proper determination of that application or appeal.
+
+(3) At any stage of the proceedings, a Commissioner may, on or without an application, give any directions as he may consider necessary or desirable for the efficient despatch of the proceedings.
+
+(4) A Commissioner may direct any party before him to make any written observations as may seem to him necessary to enable the question at issue to be determined.
+
+(5) An application under paragraph (3) shall be made in writing to a Commissioner and shall set out the direction which the applicant seeks.
+
+(6) Unless a Commissioner shall otherwise determine, the office shall send a copy of an application under paragraph (3) to every other party.
+
+### 20. Procedure on linked case notice from the Secretary of State
+
+Any notice from the Secretary of State to a Commissioner under section 28ZB of the Act [^c1641795] (Appeal involving issues that arise on appeal in other cases) shall be sent by notice in writing signed by or on behalf of the Secretary of State and shall identify, by its file reference or the names of the parties involved, each appeal or application to which it relates.
+
+### 21. Requests for hearings
+
+(1) Subject to paragraphs (2), (3) and (4), a Commissioner may determine any proceedings without a hearing.
+
+(2) Where a request for a hearing is made by any party, a Commissioner shall grant the request unless he is satisfied that the proceedings can properly be determined without a hearing.
+
+(3) Where a Commissioner refuses a request for a hearing, he shall send written notice to the person making the request, either before or at the same time as making his determination or decision.
+
+(4) A Commissioner may, without an application and at any stage, direct a hearing.
+
+### 22. Hearings
+
+(1) This regulation applies to any hearing of an application or appeal to which these Regulations apply.
+
+(2) Subject to paragraph (3), the office shall give reasonable notice of the time and place of any hearing before a Commissioner.
+
+(3) Unless all the parties concerned agree to a hearing at shorter notice, the period of notice specified under paragraph (2) shall be at least 14 days before the date of the hearing.
+
+(4) If any party to whom notice of a hearing has been sent fails to appear at the hearing, the Commissioner may proceed with the case in that party’s absence, or may give directions with a view to the determination of the case.
+
+(5) Any hearing before a Commissioner shall be in public, unless the Commissioner for special reasons directs otherwise.
+
+(6) Where a Commissioner holds a hearing the applicant or appellant, every respondent and, with the leave of a Commissioner, any other person, shall be entitled to be present and be heard.
+
+(6A)[^key-03db0f0574ae33a2efeb8c5f606165e1] Subject to the direction of a Commissioner—
+
+- (a) any person or organisation entitled to be present and be heard at a hearing; and
+- (b) any representatives of such a person or organisation,
+
+may be present by means of a live television link.
+
+(6B) Any provision in these Regulations which refers to a party or representative being present is satisfied if the party or representative is present by means of a live television link.
+
+(7) Any person entitled to be heard at a hearing may–
+
+- (a) address the Commissioner;
+- (b) with the leave of the Commissioner, give evidence, call witnesses and put questions directly to any other person called as a witness.
+
+(8) Nothing in these Regulations shall prevent a member of the Council on Tribunals or of the Scottish Committee of the Council in his capacity as such from being present at a hearing before a Commissioner which is not held in public.
+
+### 23. Summoning of witnesses
+
+(1) Subject to paragraph (2), a Commissioner may summon any person to attend a hearing as a witness, at such time and place as may be specified in the summons, to answer any questions or produce any documents in his custody or under his control which relate to any matter in question in the proceedings.
+
+(2) A person shall not be required to attend in obedience to a summons under paragraph (1) unless he has been given at least 14 days’ notice before the date of the hearing or, if less than 14 days, has informed the Commissioner that he accepts such notice as he has been given.
+
+(3) Upon the application of a person summoned under this regulation, a Commissioner may set the summons aside.
+
+(4) A Commissioner may require any witness to give evidence on oath and for this purpose an oath may be administered in due form.
+
+### 24. Withdrawal of applications for leave to appeal and appeals
+
+(1) At any time before it is determined, an applicant may withdraw an application to a Commissioner for leave to appeal against a decision of an appeal tribunal by giving written notice to a Commissioner.
+
+(2) At any time before the decision is made, the appellant may withdraw his appeal with the leave of a Commissioner.
+
+(3) A Commissioner may, on application by the party concerned, give leave to reinstate any application or appeal which has been withdrawn in accordance with paragraphs (1) and (2) and, on giving leave, he may make directions as to the conduct of the proceedings.
+
+### 25. Irregularities
+
+Any irregularity resulting from failure to comply with the requirements of these Regulations shall not by itself invalidate any proceedings, and the Commissioner, before reaching his decision, may waive the irregularity or take steps to remedy it.
+
+## PART IV — DECISIONS
+
+### 26. Determinations and decisions of a Commissioner
+
+(1) The determination of a Commissioner on an application for leave to appeal shall be in writing and signed by him.
+
+(2) The decision of a Commissioner on an appeal shall be in writing and signed by him and, unless it was a decision made with the consent of the parties he shall include the reasons.
+
+(3) The office shall send a copy of the determination or decision and any reasons to each party.
+
+(4) Without prejudice to paragraphs (2) and (3), a Commissioner may announce his determination or decision at the end of a hearing.
+
+(5) When giving his decision on an application or appeal, whether in writing or orally, a Commissioner shall omit any reference to the surname of any child to whom the application or appeal relates and, so far as practicable,[^key-d971aa199576fd3863b10c9b4bf1ab7e] any other information which would be likely, whether directly or indirectly, to identify that child.
+
+### 27. Correction of accidental errors in decisions
+
+(1) Subject to regulations 6 and 29, the Commissioner who gave the decision may at any time correct accidental errors in any decision or record of a decision.
+
+(2) A correction made to, or to the record of, a decision shall become part of the decision or record, and the office shall send written notice of the correction to any party to whom notice of the decision has been sent.
+
+### 28. Setting aside decisions on certain grounds
+
+(1) Subject to regulations 6 and 29, on an application made by any party, the Commissioner who gave the decision in proceedings may set it aside where it appears just to do so on the ground that–
+
+- (a) a document relating to the proceedings was not sent to, or was not received at an appropriate time by, a party or his representative or was not received at an appropriate time by the Commissioner; or
+- (b) a party or his representative was not present at a hearing before the Commissioner; [^key-cbca94c50140f4a6935aa39cddac493e]...
+- (c)[^key-1617a9d3a360dd9acead658114a0c2d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) An application under this regulation shall be made in writing to a Commissioner within one month from the date on which the office gave written notice of the decision to the party making the application.
+
+(3) Unless the Commissioner considers that it is unnecessary for the proper determination of an application made under paragraph (1), the office shall send a copy of it to each respondent, who shall be given a reasonable opportunity to make representations on it.
+
+(4) The office shall send each party written notice of a determination of an application to set aside a decision and the reasons for it.
+
+### 29. Provisions common to regulations 27 and 28
+
+(1) In regulations 27 and 28, the word “decision" shall include determinations of applications for leave to appeal and decisions on appeals.
+
+(2) There shall be no appeal against a correction or a refusal to correct under regulation 27 or a determination given under regulation 28.
+
+## PART V — APPLICATIONS FOR LEAVE TO APPEAL TO THE APPELLATE COURT
+
+### 30. Application to a Commissioner for leave to appeal to the Appellate Court
+
+(1) Subject to paragraph (2), an application to a Commissioner under section 25 of the Act for leave to appeal against a decision of a Commissioner shall be made in writing, stating the grounds of the application, within three months from the date on which the applicant was sent written notice of the decision.
+
+(2)[^key-320b64307e9a283992b6d00dce01fd87] Where—
+
+- (a) any decision or record of a decision is corrected under regulation 27; or
+- (b) an application for a decision to be set aside under regulation 28 is refused for reasons other than that the application was made outside the period specified in regulation 28(2),
+
+the period specified in paragraph (1) shall run from the date on which written notice of the correction or refusal of the application to set aside is sent to the applicant.
+
+(3) Regulations 24(1) and 24(3) shall apply to an application to a Commissioner for leave to appeal from a Commissioner’s decision as they apply to the proceedings in that regulation.
+
+Irvine of Lairg, C.
+
+Dated 4th May 1999
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the procedure to be followed in proceedings before a Child Support Commissioner under the Child Support Act 1991. These Regulations revoke the Child Support Commissioners (Procedure) Regulations 1992 and amending instruments and are necessary as a result of the introduction of the unified appeals tribunals established under the Social Security Act 1998.
+
+## Annotations
+
+[^c1641786]: Marginal citation: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48). Paragraph 4A was inserted by section 17(1) of the [Child Support Act 1995 (c. 34)](https://www.legislation.gov.uk/ukpga/1995/34).
+
+[^c1641787]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
+
+[^c1641788]: Marginal citation: 1992/2640.
+
+[^c1641789]: Marginal citation: [S.I. 1996/243](https://www.legislation.gov.uk/uksi/1996/243).
+
+[^c1641790]: Marginal citation: [S.I. 1997/955](https://www.legislation.gov.uk/uksi/1997/955).
+
+[^c1641791]: Marginal citation: [S.I. 1997/802](https://www.legislation.gov.uk/uksi/1997/802).
+
+[^key-2b435b2adc54794d6cc83261d65d22f2]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/a)
+
+[^c1641792]: Marginal citation: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^c1641793]: Marginal citation: Paragraph 4A was inserted by section 17(1) of the [Child Support Act 1995 (c. 34)](https://www.legislation.gov.uk/ukpga/1995/34).
+
+[^key-1cafb340f6504d8f025835a4e1728330]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) omitted (28.2.2005) by virtue of [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/b/i)
+
+[^key-b72c621b17368399705f63e2e1599bf3]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) omitted (28.2.2005) by virtue of [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/b/ii)
+
+[^key-a8b90584bab9d4e4829f5ccb498fd378]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/c)
+
+[^key-c8f9508c608f6379b9e9c0838b8002d0]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(d)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/d)
+
+[^key-04da86b9df5de9a85ca95d6da79b4ef6]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(e)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/e)
+
+[^key-b320b90661ab7abeb2e1e322406c2407]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) omitted (28.2.2005) by virtue of [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(f)(i)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/f/i)
+
+[^key-cf4fe72ae9dddfc5f055170ebf16bda5]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/f/ii)
+
+[^key-a0a5647ab4b8c3b9915aa38254095ec4]: Textual amendment: [Reg. 8(1)(ba)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/8/1/ba) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/4/a)
+
+[^key-49df5436dccc59eaba5c8e8e0596d0d1]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/8/1A) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/4/b)
+
+[^key-63838245e8ce90f919d2aac7d5bb928f]: Textual amendment: [Reg. 8(2)(a)-(d)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/8/2/a) substituted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/4/c)
+
+[^c1641794]: Marginal citation: Section 46(11) of the Act was amended by section 86 of, and paragraph 43 of Schedule 7 to, the [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^key-ac7c10e61df33330f417a4ddb29d580a]: Textual amendment: Reg. 9A inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/5)
+
+[^key-8bc269aa99d58cb27b52e4f595ca30b6]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/10/1) substituted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/6)
+
+[^key-99564c06b21e7245eda66a032e147941]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/10/6) substituted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/7)
+
+[^key-5f6ac371e563f5f3d6a01a3a4f03074f]: Textual amendment: [Reg. 10(7)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/10/7) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/8)
+
+[^c1641795]: Marginal citation: Section 28ZB was inserted in the Act by section 43 of the [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^key-03db0f0574ae33a2efeb8c5f606165e1]: Textual amendment: [Reg. 22(6A)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/22/6A)[(6B)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/22/6B) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(9)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/9)
+
+[^key-d971aa199576fd3863b10c9b4bf1ab7e]: Textual amendment: Words in [reg. 26(5)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/26/5) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/10)
+
+[^key-cbca94c50140f4a6935aa39cddac493e]: Textual amendment: Word in [reg. 28(1)(b)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/28/1/b) omitted (28.2.2005) by virtue of [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(11)(a)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/11/a)
+
+[^key-1617a9d3a360dd9acead658114a0c2d6]: Textual amendment: [Reg. 28(1)(c)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/28/1/c) omitted (28.2.2005) by virtue of [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(11)(b)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/11/b)
+
+[^key-320b64307e9a283992b6d00dce01fd87]: Textual amendment: [Reg. 30(2)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/30/2) substituted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(12)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/12)

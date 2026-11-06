@@ -1,0 +1,91 @@
+---
+title: The Asylum and Immigration Act 1996 ( Commencement No. 1) Order 1996
+id: uksi/1996/2053
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1996-07-25'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1996/2053
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/2053/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Asylum and Immigration Act 1996 ( Commencement No. 1) Order 1996
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1996 No. 2053 (C.46)
+
+IMMIGRATION
+
+The Asylum and Immigration Act 1996 ( Commencement No. 1) Order 1996
+
+Made
+
+25th July 1996
+
+In exercise of the powers conferred upon him by section 13(3) of the Asylum and Immigration Act 1996[^f00001], the Secretary of State hereby makes the following Order:
+
+**1.** (1) This Order may be cited as the Asylum and Immigration Act 1996 (Commencement No. 1) Order 1996.
+
+(2) In this Order “the Act”means the Asylum and Immigration Act 1996.
+
+**2.** The provisions of the Act which are specified in Part I of the Schedule to this Order shall come into force on 26th July 1996; the provisions specified in Part II of the Schedule shall come into force on 1st September 1996; and the provisions specified in Part III of the Schedule shall come into force on 1st October 1996.
+
+Ann Widdecombe
+
+Minister of State
+
+Home Office
+
+25th July 1996
+
+## SCHEDULE
+
+Article 2
+
+### PART I — PROVISIONS OF THE ACT COMING INTO FORCE ON 26TH JULY 1996
+
+| Provision of Act | Subject matter of provision |
+| --- | --- |
+| Section 3(3) | Appointment of special adjudicators |
+| Section 3(5) | Procedure rules |
+| Section 9(1) and (2), for the purpose only of making orders, and section 9(3) | Orders |
+| Section 13 | Short title, interpretation, commencement and extent |
+
+### PART II — PROVISIONS OF THE ACT COMING INTO FORCE ON 1ST SEPTEMBER 1996
+
+| Provision of Act | Subject matter of provision |
+| --- | --- |
+| Section 2 | Removal etc. of asylum claimants to safe third countries |
+| Section 3, except subsections (3) and (5) | Appeals against certificates under section 2 |
+| Section 12, for the purpose of the provisions of Schedules 2, 3 and 4 specified in this Part | Schedules |
+| In Schedule 2, paragraphs 3(2) and 8 to 12 | Amendments of the Immigration Act 1971 |
+| In Schedule 3, paragraphs 1, 2, 3 and 5 | Amendments of the Asylum and Immigration Appeals Act 1993 |
+| In Schedule 4, the entry relating to the Asylum and Immigration Appeals Act 1993 | Repeals |
+
+### PART III — PROVISIONS OF THE ACT COMING INTO FORCE ON 1ST OCTOBER 1996
+
+| Provision of Act | Subject matter of provision |
+| --- | --- |
+| Section 4 | Obtaining leave by deception |
+| Section 5 | Assisting asylum claimants, and persons seeking to obtain leave by deception |
+| Section 6 | Increased penalties |
+| Section 7 | Power of arrest and search warrants |
+| Section 12(1) and (3) for the purpose of the provisions of Schedules 2 and 4 specified in this Part | Schedules |
+| In Schedule 2, paragraphs 1(2) and (3), 2, 4 to 7 and 13 | Amendments of the Immigration Act 1971 and the Immigration Act 1988 |
+| In Schedule 4, the entry relating to the Immigration Act 1971 | Repeals |
+
+(This note is not part of the Order)
+
+This Order brings into force on 26th July 1996 the provisions of the Asylum and Immigration Act 1996 specified in Part I of the Schedule to the Order. The provisions specified in Part II of that Schedule come into force on 1st September 1996 and those in Part III on 1st October 1996.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 49](https://www.legislation.gov.uk/ukpga/1996/49).

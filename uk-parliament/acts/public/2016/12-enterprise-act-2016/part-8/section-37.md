@@ -1,0 +1,87 @@
+---
+title: Enterprise Act 2016, section 37
+act: Enterprise Act 2016
+section: '37'
+status: revised
+text_date: '2025-06-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2016/12/section/37
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Enterprise Act 2016, section 37
+
+> Text as at 2025-06-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 37. Disposal of Crown's shares in UK Green Investment Bank company[^key-01e3ea521166e4a49ff0587bdf897752]
+
+*Extent: E+W+S+N.I.*
+
+(1) Part 1 of the Enterprise and Regulatory Reform Act 2013 (UK Green Investment Bank) is amended as follows.
+
+(2) Omit the following provisions—
+
+- (a) section 1 (the green purposes);
+- (b) section 3 (alteration of Bank's objects where it is designated by Secretary of State);
+- (c) section 5 (accounts, reports etc where Bank is designated by Secretary of State).
+
+(3) In section 2 (designation of Bank)—
+
+- (a) for the heading substitute “ Interpretation ”,
+- (b) omit subsections (1) to (8) (Secretary of State's power to designate), and
+- (c) after subsection (9) insert—
+
+  > (10) In this Part “**UK Green Investment Bank company**” means—
+  >
+  > - (a) the UK Green Investment Bank, or
+  > - (b) a company that is or at any time has been in the same group as the Bank.
+  >
+  > (11) For the purposes of subsection (10) a company is to be regarded as being in the same “group” as the UK Green Investment Bank, if, for the purposes of section 1161(5) of the Companies Act 2006, the company is a group undertaking in relation to the UK Green Investment Bank.
+
+(4) In section 4 (financial assistance from the Secretary of State)—
+
+- (a) in subsection (1)—
+  - (i) omit “Where an order has been made under section 2,”,
+  - (ii) for “the UK Green Investment Bank” substitute “ a UK Green Investment Bank company ”, and
+  - (iii) for “Crown's shareholding in it is more than half of its issued share capital” substitute “ Crown holds shares in it or another UK Green Investment Bank company ”,
+- (b) in subsection (3), in paragraphs (d) and (e), for “the Bank” substitute “ the company ”,
+- (c) omit subsection (5), and
+- (d) in subsection (6) (no effect on other powers to give financial assistance to the Bank)—
+  - (i) for “the Bank”, in the first place, substitute “ a UK Green Investment Bank company ”, and
+  - (ii) for “Crown's shareholding in the Bank is not more than half of its issued share capital” substitute “ Crown does not hold shares in it or another UK Green Investment Bank company ”.
+
+(5) In section 6 (documents to be laid before Parliament)—
+
+- (a) in subsection (1)(a) omit “after an order has been made under section 2,”,
+- (b) in subsection (1)(b) for “the Bank” substitute “ a UK Green Investment Bank company ”, and
+- (c) omit subsections (3) and (4).
+
+(6) After section 6 insert—
+
+> **6A. Report on disposal of Crown's shares in UK Green Investment Bank company**
+>
+> (1) As soon as reasonably practicable after a disposal of shares held by the Crown in a UK Green Investment Bank company the Secretary of State must lay before Parliament a report on the disposal.
+>
+> (2) The report—
+>
+> - (a) must state—
+>   - (i) the kind of disposal, and
+>   - (ii) the proportion of the company's share capital retained by the Crown (or that none has been retained); and
+> - (b) must include—
+>   - (i) an assessment of how the Secretary of State's objectives for the disposal have been achieved, and
+>   - (ii) where the Crown still holds one or more shares in a UK Green Investment Bank company, details of the Secretary of State's intentions as to the Crown's future role and interest in such companies.
+>
+> (3) The Secretary of State must give a copy of the report to—
+>
+> - (a) the Scottish Ministers,
+> - (b) the Welsh Ministers, and
+> - (c) the Office of the First Minister and deputy First Minister in Northern Ireland.
+>
+> (4) Subsection (3) applies to a report as described in section 38 of the Enterprise Act 2016 as well as to a report under this section.
+
+## Annotations
+
+[^key-01e3ea521166e4a49ff0587bdf897752]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2016/12/section/37) in force at 18.8.2017 by [S.I. 2017/842](https://www.legislation.gov.uk/uksi/2017/842), [reg. 2](https://www.legislation.gov.uk/uksi/2017/842/regulation/2)

@@ -1,0 +1,66 @@
+---
+title: The Motor Vehicles (Third Party Risks) (Amendment) (No. 2) Regulations 1974
+id: uksi/1974/2187
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1974-12-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1974/2187
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1974/2187/pdfs/uksi_19742187_en.pdf
+- http://www.legislation.gov.uk/uksi/1974/2187/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Motor Vehicles (Third Party Risks) (Amendment) (No. 2) Regulations 1974
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1974 No. 2187
+
+ROAD TRAFFIC
+
+The Motor Vehicles (Third Party Risks) (Amendment) (No. 2) Regulations 1974
+
+Made
+
+21st December 1974
+
+Laid before Parliament
+
+8th January 1975
+
+Coming into Operation
+
+31st January 1975
+
+The Secretary of State for the Environment, in exercise of the powers conferred by section 162(1)(i) of the Road Traffic Act 1972 and of all other enabling powers, and after consultation with representative organisations in accordance with the provisions of section 199(2) of that Act, hereby makes the following Regulations:—
+
+**1.** These Regulations shall come into operation on 31st January 1975, and may be cited as the Motor Vehicles (Third Party Risks) (Amendment) (No. 2) Regulations 1974.
+
+**2.** Regulation 7 of the Motor Vehicles (Third Party Risks) Regulations 1972[^f00001] as amended[^f00002] (production of evidence that a motor vehicle is not driven in contravention of insurance requirements) shall have effect as if in paragraph (4) for the words “Austria, Finland, Norway, Sweden, or Switzerland,” there were substituted the words “Austria, Czechoslovakia, Finland, the German Democratic Republic, Hungary, Norway, Sweden or Switzerland,”.
+
+Signed by authority of the Secretary of State.
+
+Fred Mulley
+
+Minister for Transport
+
+Department of the Environment
+
+21st December 1974
+
+EXPLANATORY NOTE
+
+Regulation 7 of the Motor Vehicles (Third Party Risks) Regulations 1972, as amended, provides that where a constable requires evidence of insurance under section 168 of the Road Traffic Act 1972 there may be produced in the case of a vehicle normally based in an EEC country other than the United Kingdom and Gibraltar or in Austria, Finland, Norway, Sweden or Switzerland, a document issued by the insurer of the vehicle instead of an insurance certificate. These Regulations further amend Regulation 7 so as to apply the provision mentioned above to vehicles normally based in Czechoslovakia, the German Democratic Republic or Hungary.
+
+## Annotations
+
+[^f00001]: Footnote: (1972 II, p. 3599).
+
+[^f00002]: Footnote: S.I. 1973/1821, 1974/792 (1973 III, p. 5560; 1974 II, p. 3040).

@@ -1,0 +1,59 @@
+---
+title: Lotteries and Amusements Act 1976, Schedule 1A
+act: Lotteries and Amusements Act 1976
+section: schedule-1a
+status: repealed
+text_date: '2007-09-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1976/32/schedule/1a
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Lotteries and Amusements Act 1976, Schedule 1A
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland.
+
+## Schedule 1A — REGISTRATION OF SOCIETIES BY THE GAMING BOARD[^key-2be9524bd13e4e0649d955d7d695fbac]
+
+*Extent: E+W+S*
+
+**No longer in force.**
+
+### Part I — REGISTRATION[^key-2be9524bd13e4e0649d955d7d695fbac]
+
+**1.**[^key-2be9524bd13e4e0649d955d7d695fbac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-2be9524bd13e4e0649d955d7d695fbac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-2be9524bd13e4e0649d955d7d695fbac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-2be9524bd13e4e0649d955d7d695fbac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-2be9524bd13e4e0649d955d7d695fbac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-2be9524bd13e4e0649d955d7d695fbac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part II — INFORMATION[^key-2be9524bd13e4e0649d955d7d695fbac]
+
+**7.**[^key-2be9524bd13e4e0649d955d7d695fbac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-2be9524bd13e4e0649d955d7d695fbac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-2be9524bd13e4e0649d955d7d695fbac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^key-2be9524bd13e4e0649d955d7d695fbac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^key-2be9524bd13e4e0649d955d7d695fbac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^key-2be9524bd13e4e0649d955d7d695fbac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^key-2be9524bd13e4e0649d955d7d695fbac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^key-2be9524bd13e4e0649d955d7d695fbac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-2be9524bd13e4e0649d955d7d695fbac]: Textual amendment: Act repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [ss. 356(3)](https://www.legislation.gov.uk/ukpga/2005/19/section/356/3), [358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 5](https://www.legislation.gov.uk/uksi/2006/3272/article/5) (with [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))

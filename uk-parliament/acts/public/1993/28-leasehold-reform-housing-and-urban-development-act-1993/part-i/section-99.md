@@ -1,0 +1,58 @@
+---
+title: Leasehold Reform, Housing and Urban Development Act 1993, section 99
+act: Leasehold Reform, Housing and Urban Development Act 1993
+section: '99'
+status: revised-with-pending-changes
+text_date: '2025-05-19'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1993/28/section/99
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Leasehold Reform, Housing and Urban Development Act 1993, section 99
+
+> **Warning: changes not yet applied to this text (453).** Text as at 2025-05-19. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/28
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 99. Notices.[^c17025551]
+
+*Extent: E+W*
+
+(1) Any notice required or authorised to be given under this Part—
+
+- (a) shall be in writing; and
+- (b) may be sent by post.
+
+(2) Where in accordance with Chapter I or II an address in England and Wales is specified as an address at which notices may be given to any person or persons under that Chapter—
+
+- (a) any notice required or authorised to be given to that person or those persons under that Chapter may (without prejudice to the operation of subsection (3)) be given to him or them at the address so specified; but
+- (b) if a new address in England and Wales is so specified in substitution for that address by the giving of a notice to that effect, any notice so required or authorised to be given may be given to him or them at that new address instead.
+
+(3) Where a tenant is required or authorised to give any notice under Chapter I or II to a person who—
+
+- (a) is the tenant’s immediate landlord, and
+- (b) is such a landlord in respect of premises to which Part VI of the [^c17025561]Landlord and Tenant Act 1987 (information to be furnished to tenants) applies,
+
+the tenant may, unless he has been subsequently notified by the landlord of a different address in England and Wales for the purposes of this section, give the notice to the landlord—
+
+- (i) at the address last furnished to the tenant as the landlord’s address for service in accordance with section 48 of that Act (notification of address for service of notices on landlord); or
+  - (ii) if no such address has been furnished, at the address last furnished to the tenant as the landlord’s address in accordance with section 47 of that Act (landlord’s name and address to be contained in demands for rent).
+
+(4) Subsections (2) and (3) apply to notices in proceedings under Chapter I or II as they apply to notices required or authorised to be given under that Chapter.
+
+(5) Any notice which is given under Chapter I or II by any tenants or tenant must be signed by or on behalf of each of the tenants, or (as the case may be) by or on behalf of the tenant, by whom it is given.[^key-4d179bb16b9b0e1ba6f5e42bdfa56947]
+
+(6) The Secretary of State may by regulations prescribe—
+
+- (a) the form of any notice required or authorised to be given under this Part; and
+- (b) the particulars which any such notice must contain (whether in addition to, or in substitution for, any particulars required by virtue of any provision of this Part).
+
+## Annotations
+
+[^c17025551]: Commencement: S. 99 wholly in force; s. 99 not in force at Royal Assent see s. 188(2); s. 99 in force for certain purposes at 2.9.1993 by [S.I. 1993/2134](https://www.legislation.gov.uk/uksi/1993/2134), [art. 3](https://www.legislation.gov.uk/uksi/1993/2134/article/3); s. 99 in force at 1.11.1993 in so far as it was not in force, by [S.I. 1993/2134](https://www.legislation.gov.uk/uksi/1993/2134), [art. 5(a)](https://www.legislation.gov.uk/uksi/1993/2134/article/5/a)
+
+[^c17025561]: Marginal citation: [1987 c. 31](https://www.legislation.gov.uk/ukpga/1987/31).
+
+[^key-4d179bb16b9b0e1ba6f5e42bdfa56947]: Textual amendment: Words in [s. 99(5)](https://www.legislation.gov.uk/ukpga/1993/28/section/99/5) substituted for s. 99(5)(a)(b) (1.12.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 140(1)](https://www.legislation.gov.uk/anaw/2014/7/section/140/1), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

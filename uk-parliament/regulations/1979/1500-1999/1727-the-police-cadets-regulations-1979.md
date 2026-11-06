@@ -1,0 +1,272 @@
+---
+title: The Police Cadets Regulations 1979
+id: uksi/1979/1727
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1979-12-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1979/1727
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1979/1727/pdfs/uksi_19791727_en.pdf
+- http://www.legislation.gov.uk/uksi/1979/1727/made/data.pdf
+pending_changes: 23
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Police Cadets Regulations 1979
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1979 No. 1727
+
+POLICE
+
+The Police Cadets Regulations 1979
+
+Made
+
+20th December 1979
+
+Laid before Parliament
+
+3rd January 1980
+
+Coming into Operation
+
+1st February 1980
+
+In exercise of the powers conferred on me by section 35 of the Police Act 1964, and after consulting the Police Advisory Board for England and Wales in accordance with section 46(3) of that Act and the Police Council for the United Kingdom in accordance with section 4(4) of the Police Act 1969, I hereby make the following Regulations:—
+
+## 1. Citation and operation
+
+These Regulations may be cited as the Police Cadets Regulations 1979 and shall come into operation on 1st February 1980.
+
+## 2. Revocations
+
+The Regulations set out in Schedule 1 are hereby revoked.
+
+## 3. Interpretation
+
+(1) In these Regulations any reference to the police force to which a police cadet is attached is a reference to the force with a view to becoming a member of which the cadet is undergoing training; and in relation to a police cadet any reference to the chief officer of police or the police authority is a reference to the chief officer of that force or, as the case may be, the authority maintaining that force.
+
+(2) In these Regulations the following expressions have the meanings hereby respectively assigned to them, that is to say:—
+
+- “**British Isles**” means the United Kingdom, the Channel Islands, the Isle of Man and the Republic of Ireland;
+- “**guardian**” includes, in relation to a police cadet, any person who is in loco parentis to the cadet;
+- “**week**” means a continuous period of 7 days.
+
+(3) For the purposes of these Regulations—
+
+- (a) any reference in a Regulation to a paragraph is a reference to a paragraph of that Regulation, and
+- (b) any reference to a Schedule is a reference to a Schedule to these Regulations.
+
+## 4. Qualifications for appointment
+
+(1) The qualifications for appointment as a police cadet shall be as follows, that is to say, the person concerned at the time of his appointment:—
+
+- (a) shall have produced to the chief officer of police satisfactory references as to character;
+- (b) subject to paragraph (2), shall have attained the age of 16 years and shall not have attained the age of 18 years;
+- (c) shall have satisfied the chief officer of police that he is likely, on attaining the age of 18 years 6 months, to be able to satisfy the qualifications for appointment to a police force in the rank of constable and, for that purpose, shall have been examined by a registered medical practitioner approved by the police authority.
+
+(2) A person may be appointed a police cadet notwithstanding that he has not attained the age of 16 years or has attained the age of 18 years if the chief officer of police, after considering the circumstances of the case, so decides.
+
+## 5. Termination of service
+
+(1) A police cadet may resign only if he has given to the police authority 2 weeks' written notice of his intention to resign or such shorter notice as may have been accepted by that authority.
+
+(2) A police cadet's service as such shall terminate, by virtue of this paragraph, on his appointment as a member of a police force.
+
+(3) Subject to the provisions of this Regulation, the chief officer of police may at any time terminate a police cadet's service.
+
+(4) A police cadet whose service is terminated under paragraph (3), otherwise than for misconduct, shall be entitled to receive 2 weeks' notice or 2 weeks' pay in lieu thereof.
+
+(5) Where the chief officer of police is considering terminating a police cadet's service under paragraph (3) for misconduct he shall, before reaching a decision, afford to the cadet an opportunity of a personal interview with him or the deputy chief constable or an assistant chief constable (or, in the case of the City of London and metropolitan police forces, with an assistant commissioner of police); and at any such interview the cadet shall be entitled to be accompanied by such person as he may choose and to make such representations as he thinks fit.
+
+## 6. Restriction on other employment
+
+A police cadet shall not engage in any other employment for gain except with the consent of the chief officer of police.
+
+## 7. Hours of duty
+
+(1) Subject to paragraph (2), the normal hours of duty of a police cadet shall be such as are determined by or with the authority of the chief officer of police.
+
+(2) Where a police cadet, for the purposes of training, is assigned to duties with a member of the police force, his normal weekly period of duty shall be 40 hours.
+
+(3) A police cadet whose actual period of duty in any week exceeds his normal period of duty (which excess period of duty is hereinafter referred to as “**overtime**”) shall, within 28 days, be granted in respect of each complete quarter of an hour of overtime an equal period of time off and, in addition, in respect of each complete three-quarters of an hour of overtime an additional quarter of an hour of time off.
+
+(4) To such extent, if any, as the chief officer of police in a particular case may decide, the period spent by a police cadet on a journey necessary to enable him to report for duty or to return home after duty shall be treated for the purposes of these Regulations as falling within a period of duty.
+
+## 8. Public holidays
+
+A police cadet shall be granted a day's leave on each public holiday.
+
+## 9. Annual leave
+
+(1) Subject to paragraphs (2) and (3), the annual leave of a police cadet shall be granted at such times and be of such duration as may be determined by or with the authority of the chief officer of police.
+
+(2) Where a police cadet, for the purposes of training, is assigned to duties with a member of the police force, he shall normally be granted 3 weeks' annual leave a year.
+
+(3) Except where paragraph (2) applies, a police cadet shall normally be granted 10 weeks' annual leave a year:
+
+Provided that where a cadet is required to spend a period camping or engaging in other activity of a partly recreational character, the chief officer of police may direct that the whole or a specified part of that period shall be treated for the purposes of this paragraph as if it were a period of annual leave.
+
+## 10. Sick leave
+
+(1) A police cadet shall be entitled to sick leave for any period for which he is unfit for duty on account of injury or illness, if—
+
+- (a) a registered medical practitioner certifies that he is so unfit, or
+- (b) the period consists of not more than 3 days and during the period of 12 months ending with the last of those days the aggregate uncertificated sick leave taken by him does not exceed 7 days.
+
+(2) This Regulation shall apply to a police cadet who is in quarantine as it applies to a cadet who is ill and any reference to unfitness shall be construed accordingly.
+
+## 11. Special leave
+
+A police cadet may, at the discretion of the chief officer of police, be granted special leave, with or without pay as he may determine.
+
+## 12. Medical examination
+
+Every police cadet shall be medically examined, as near as may be at 6-monthly intervals, in accordance with arrangements made by the police authority.
+
+## 13. Pay
+
+(1) Subject to the provisions of this Regulation, the rate of pay of a police cadet shall be in accordance with the appropriate scale set out in Schedule 2 hereto.
+
+(2) Except where his pay falls to be reduced in accordance with paragraph (3), there shall be deducted from the pay of a police cadet the amount of any sickness benefit or injury benefit to which he is entitled under the Social Security Act 1975 and for this purpose any earnings related supplement or increase for adult and child dependants shall be treated as forming part of the benefit to which it relates.
+
+(3) Where on the first or any succeeding day of a continuous period of sick leave the aggregate sick leave taken by a police cadet during the period of 12 months ending with that day—
+
+- (a) exceeds 3 months, then (without prejudice to the next following sub-paragraph), his pay shall be reduced by a half in respect of that continuous period or, as the case may be, in respect of so much thereof as falls on or after that day;
+- (b) exceeds 4 months, then, he shall not be entitled to pay in respect of that continuous period or, as the case may be, in respect of so much thereof as falls on or after that day:
+
+  Provided that this paragraph shall not apply where the cadet is unfit for duty as a result of an injury or disease which, in the opinion of the police authority, was received or contracted without his own default in the execution of his duty, or where the Secretary of State so directs.
+
+(4) If the chief officer of police so determines, a police cadet shall not be entitled to pay in respect of a period of special leave or of unauthorised absence from duty.
+
+## 14. Board and lodging
+
+(1) The police authority shall provide for a police cadet's board and lodging and, subject to paragraph (2), shall charge the cadet therefor in accordance with Schedule 3 hereto; and any such charge may, without prejudice to any other method of payment, be discharged by way of a deduction from his pay.
+
+(2) Where a cadet is—
+
+- (a) on annual leave, or
+- (b) absent from his normal place of lodging for reasons approved by the police authority for the purposes of this paragraph,
+
+for a continuous period of at least 4 days, the police authority shall, in respect of that period, waive or reduce the charge under paragraph (1); and for the purpose of this paragraph any such continuous period shall be calculated to the nearest week, a period of less than a week but of more than 3 days being treated as a week.
+
+(3) In this Regulation a reference to the provision of board and lodging includes a reference to the making of payments in respect of board and lodging.
+
+## 15. Calculation of pay and charges
+
+(1) This Regulation shall apply to the calculation of payments by way of pay under Regulation 13 and by way of charges for board and lodging under Regulation 14.
+
+(2) A month's payment shall be calculated at a monthly rate determined by dividing by 12 the annual rate.
+
+(3) A week's payment shall be calculated at a weekly rate determined by dividing by 52⅙ the annual rate.
+
+(4) A day's payment shall be calculated at a daily rate determined by dividing by 7 the weekly rate, determined as aforesaid.
+
+(5) In making any such payment as is referred to in paragraph (1) a fraction of a penny shall be treated as a whole penny except that a fraction less than a half-penny shall be ignored.
+
+## 16. Allowances
+
+(1) No allowance shall be paid to a police cadet except as provided by these Regulations or approved by the Secretary of State; and the amounts and conditions of payment of such allowances shall be as so provided or approved.
+
+(2) Nothing in this Regulation shall apply to the reimbursement of expenses incurred by a police cadet in the execution of his duty, being expenses authorised either generally or specifically by the police authority.
+
+## 17. Travel allowances
+
+(1) A police cadet shall, subject to paragraph (2), be entitled in any year to travel allowances in respect of the cost of up to three return journeys, actually made, to visit a parent or guardian where the cost of the return journey exceeds £0.50.
+
+(2) An allowance payable under this Regulation shall not in any case exceed whichever is the less of the two following amounts, namely:—
+
+- (a) the reasonable cost of the return journey actually made;
+- (b) the reasonable cost of a return journey to the parent's or guardian's usual place of abode;
+
+and, without prejudice to the said limitation, an allowance payable in respect of a return journey to a place outside the British Isles shall not exceed £36.
+
+In computing the amount referred to in sub-paragraph (a) or (b) of this paragraph, any question as to reasonable cost shall be determined by the police authority.
+
+## 18. Uniform and equipment
+
+(1) Subject to paragraphs (2) and (3) the police authority shall keep a police cadet supplied with such uniform and equipment as are requisite in his case and shall provide for the dry cleaning of uniform and the repair of footwear.
+
+(2) Where a police authority supplies a police cadet with footwear for the purposes of normal duty they shall supply 2 pairs of boots or shoes annually but, in lieu of supplying and providing for the repair of such footwear, they may pay a cadet an allowance at the rate of £0.35 a week.
+
+(3) Where, in the case of a woman, a police authority supplies a police cadet with stockings or tights for the purposes of duty they shall supply 24 pairs annually but, in lieu of supplying such pairs, they may pay a cadet an allowance at the rate of £12 a year.
+
+(4) The police authority may charge a police cadet for uniform or equipment lost or damaged otherwise than as a result of fair wear and tear but, subject as aforesaid, shall make no charge for anything supplied, cleaned or repaired under this Regulation.
+
+(5) Any article of uniform or equipment supplied under this Regulation shall remain the property of the police authority and shall be handed back by the police cadet to that authority—
+
+- (a) on his being required so to do;
+- (b) on his ceasing to serve as a police cadet, or
+- (c) on the replacement of the article in question,
+
+unless, with the consent of the police authority, the cadet buys the article in question at a price fixed by the police authority.
+
+(6) Uniform and equipment handed back to the police authority shall not be reissued to another police cadet until it has received any necessary cleaning or renovation and is in a serviceable condition.
+
+W.S.I. Whitelaw
+
+One of Her Majesty's Principal Secretaries of State
+
+Home Office
+
+20th December 1979
+
+## SCHEDULE 1 — REGULATIONS REVOKED
+
+Regulation 2
+
+| Regulations | References |
+| --- | --- |
+| The Police Cadets Regulations 1968 | S.I. 1968/25 |
+| The Police Cadets (Amendment) Regulations 1969 | S.I. 1969/408 |
+| The Police Cadets (Amendment) (No. 2) Regulations 1969 | S.I. 1969/1786 |
+| The Police Cadets (Amendment) Regulations 1970 | S.I. 1970/418 |
+| The Police Cadets (Amendment) (No. 2) Regulations 1970 | S.I. 1970/1402 |
+| The Police Cadets (Amendment) Regulations 1971 | S.I. 1971/151 |
+| The Police Cadets (Amendment) (No. 2) Regulations 1971 | S.I. 1971/804 |
+| The Police Cadets (Amendment) Regulations 1972 | S.I. 1972/706 |
+| The Police Cadets (Amendment) Regulations 1973 | S.I. 1973/1156 |
+| The Police Cadets (Amendment) Regulations 1974 | S.I. 1974/1153 |
+| The Police Cadets (Amendment) Regulations 1975 | S.I. 1975/933 |
+| The Police Cadets (Amendment) (No. 2) Regulations 1975 | S.I. 1975/1361 |
+| The Police Cadets (Amendment) Regulations 1976 | S.I. 1976/1595 |
+| The Police Cadets (Amendment) Regulations 1977 | S.I. 1977/1005 |
+| The Police Cadets (Amendment) (No. 2) Regulations 1977 | S.I. 1977/1989 |
+| The Police Cadets (Amendment) Regulations 1978 | S.I. 1978/1239 |
+| The Police Cadets (Amendment) Regulations 1979 | S.I. 1979/1543 |
+
+## SCHEDULE 2 — Pay
+
+Regulation 13
+
+The pay of a police cadet shall be determined by reference to his age, in the case of a cadet attached to the City of London or metropolitan police force, in accordance with the scale set out in the second column of the following Table and, in any other case, in accordance with the scale set out in the third column thereof:
+
+TABLE
+
+| Age | London | Provinces |
+| --- | --- | --- |
+| Under 17 years | £2,160 a year | £1,950 a year |
+| 17 years | £2,280 a year | £2,070 a year |
+| 18 years or over | £2,511 a year | £2,301 a year |
+
+## SCHEDULE 3 — CHARGE FOR BOARD AND LODGING
+
+Regulation 14
+
+**1.** The charge for board and lodging shall be determined by reference to the appropriate rate specified in the next following paragraph.
+
+**2.** The annual rate of charge shall be—
+
+- (a) in the case of a police cadet attached to the City of London or metropolitan police force, £291;
+- (b) in any other case, £275.
+
+EXPLANATORY NOTE
+
+These Regulations consolidate, with minor amendments, the Police Cadets Regulations 1968 and the instruments amending those Regulations, namely the Regulations set out in Schedule 1.

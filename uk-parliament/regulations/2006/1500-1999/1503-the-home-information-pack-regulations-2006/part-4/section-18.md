@@ -1,0 +1,32 @@
+---
+title: The Home Information Pack Regulations 2006, section 18
+act: The Home Information Pack Regulations 2006
+section: '18'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2006/1503/section/18
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Home Information Pack Regulations 2006, section 18
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 18. Updating of required pack documents
+
+(1) This regulation applies to any document included in a home information pack under regulation 8 (including that regulation as modified by regulation 10).
+
+(2) Where the responsible person amends such a document or obtains or creates a further version of it, he must—
+
+- (a) include the amended document or the further version in the pack;
+- (b) amend accordingly such translations, additional versions, summaries or explanations as are included in the pack under regulation 9(a), 9(b) or 9(c) or include a further version of such translations, additional versions, summaries or explanations; and
+- (c) subject to paragraph (4), remove such documents as have been wholly superseded by a document included under sub-paragraphs (a) or (b).
+
+(3) The time the responsible person amends a document or obtains or creates a further version of it under paragraph (2) becomes the first point of marketing for that document—
+
+- (a) for the purposes of any provision of these Regulations that requires the age or currency of a pack document to be determined by reference to a period preceding the first point of marketing; and
+- (b) until such time (if any) as a further first point of marketing arises in relation to the sale under regulation 3(4).
+
+(4) Nothing in paragraph (2)(c) authorises a person to remove from a pack a home condition report complying with Schedule 5 (or any part of such a report), unless it has been included in contravention of regulation 11.

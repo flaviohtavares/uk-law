@@ -1,0 +1,201 @@
+---
+title: The Social Security Benefits Up-rating Order 1999
+id: uksi/1999/264
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1999-02-04'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1999/264
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/264/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security Benefits Up-rating Order 1999
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1999 No. 264
+
+SOCIAL SECURITY
+
+TERMS AND CONDITIONS OF EMPLOYMENT
+
+The Social Security Benefits Up-rating Order 1999
+
+Made
+
+4th February 1999
+
+Coming into force in accordance with article 1(2)
+
+Whereas, the Secretary of State for Social Security having made a review under section 150(1) of the Social Security Administration Act 1992[^f00001], a draft of the following Order was laid before Parliament in accordance with the provisions of sections 150(2) and 190(1)(a) of that Act and approved by resolution of each House of Parliament;
+
+Now, therefore, the Secretary of State for Social Security, with the consent of the Treasury[^f00002], in exercise of the powers conferred by sections 150 and 189(1), (3) and (4) of the Social Security Administration Act 1992, and of all other powers enabling him in that behalf, hereby makes the following Order:
+
+## Contents
+
+### PART I — INTRODUCTION
+
+- [Section 1 — Citation and commencement](part-i/section-1.md)
+- [Section 2 — Interpretation](part-i/section-2.md)
+
+### PART II — SOCIAL SECURITY BENEFITS AND PENSIONS
+
+- [Section 3 — Increase in rates or amounts of certain benefits under the Contributions and Benefits Act](part-ii/section-3.md)
+- [Section 4 — Increase in rates or amounts of certain pensions or allowances under the Contributions and Benefits Act](part-ii/section-4.md)
+- [Section 5 — Increase in rates or amounts of certain benefits under the Pension Schemes Act](part-ii/section-5.md)
+- [Section 6 — Dates on which sums specified for rates or amounts of benefit under the Contributions and Benefits Act or the Pension Schemes Act are increased by this Order](part-ii/section-6.md)
+- [Section 7 — Increase in rates of certain workmen’s compensation and industrial diseases benefits in respect of employment before 5th July 1948](part-ii/section-7.md)
+- [Section 8 — Earnings Limits](part-ii/section-8.md)
+- [Section 9 — Statutory Sick Pay](part-ii/section-9.md)
+- [Section 10 — Statutory Maternity Pay](part-ii/section-10.md)
+- [Section 11 — Increase in rate of graduated retirement benefit](part-ii/section-11.md)
+- [Section 12 — Increase in rates of Disability Living Allowance](part-ii/section-12.md)
+- [Section 13 — Sums specified for child benefit](part-ii/section-13.md)
+- [Section 14 — Increase in rates of age addition to long-term incapacity benefit](part-ii/section-14.md)
+- [Section 15 — Increase in rates of transitional invalidity allowance in long-term incapacity benefit cases](part-ii/section-15.md)
+
+### PART III — FAMILY CREDIT, DISABILITY WORKING ALLOWANCE, INCOME SUPPORT, HOUSING BENEFIT AND COUNCIL TAX BENEFIT
+
+- [Section 16 — Family Credit](part-iii/section-16.md)
+- [Section 17 — Disability Working Allowance](part-iii/section-17.md)
+- [Section 18 — Applicable amounts for Income Support](part-iii/section-18.md)
+- [Section 19 — Income Support Transitional Protection](part-iii/section-19.md)
+- [Section 20 — The Relevant Sum for Income Support](part-iii/section-20.md)
+- [Section 21 — Housing Benefit](part-iii/section-21.md)
+- [Section 22 — Council Tax Benefit](part-iii/section-22.md)
+
+### PART IV — JOBSEEKER'S ALLOWANCE
+
+- [Section 23 — Increase in age-related amounts of contribution-based Jobseeker’s Allowance](part-iv/section-23.md)
+- [Section 24 — Applicable amounts for Jobseeker’s Allowance](part-iv/section-24.md)
+- [Section 25 — The Prescribed Sum for Jobseeker’s Allowance](part-iv/section-25.md)
+
+### PART V — TRANSITIONAL PROVISIONS AND REVOCATION
+
+- [Section 26 — Transitional Provisions](part-v/section-26.md)
+- [Section 27 — Revocation](part-v/section-27.md)
+
+- [SCHEDULE 1](schedule-1.md)
+- [SCHEDULE 2](schedule-2.md)
+- [SCHEDULE 3](schedule-3.md)
+- [SCHEDULE 4](schedule-4.md)
+- [SCHEDULE 5](schedule-5.md)
+- [SCHEDULE 6](schedule-6.md)
+- [SCHEDULE 7](schedule-7.md)
+- [SCHEDULE 8](schedule-8.md)
+- [SCHEDULE 9](schedule-9.md)
+- [SCHEDULE 10](schedule-10.md)
+- [SCHEDULE 11](schedule-11.md)
+- [SCHEDULE 12](schedule-12.md)
+- [SCHEDULE 13](schedule-13.md)
+- [SCHEDULE 14](schedule-14.md)
+- [SCHEDULE 15](schedule-15.md)
+- [SCHEDULE 16](schedule-16.md)
+- [SCHEDULE 17](schedule-17.md)
+
+Signed by authority of the Secretary of State for Social Security.
+
+Stephen C. Timms
+
+Minister of State,
+
+Department of Social Security
+
+2nd February 1999
+
+We consent,
+
+Clive J. C. Betts
+
+Bob Ainsworth
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+4th February 1999
+
+(This note is not part of the Order)
+
+This Order is made as a consequence of a review under section 150 of the Social Security Administration Act 1992 (“the Administration Act”) and includes details of the sums mentioned in that section.
+
+Part I of the Order relates to the citation, commencement and interpretation.
+
+Part II of the Order relates to non-income related benefits other than jobseeker’s allowance.
+
+Article 3 and Schedule 1 alter the benefits and increases of benefits (except the over 80 age addition) specified in Parts I, III, IV and V of Schedule 4 to the Social Security Contributions and Benefits Act 1992 (“the Contributions and Benefits Act”).
+
+Article 4 increases the rates and amounts of certain pensions and allowances under the Contributions and Benefits Act.
+
+Article 5 increases the sums payable as part of a Category A or Category B retirement pension under sections 15(1) and 17(2) and (3) of the Pension Schemes Act 1993 (“the Pension Schemes Act”) on account of increases in guaranteed minimum pensions.
+
+Article 6 specifies the dates from which the sums specified for rates or amounts of benefit under the Contributions and Benefits Act or the Pension Schemes Act are altered.
+
+Article 7 increases the rates of certain workmen’s compensation and industrial injuries benefits in respect of employment before 5th July 1948.
+
+Article 8 specifies earnings limits for child dependency increases.
+
+Article 9 increases the weekly rate of statutory sick pay.
+
+Article 10 increases the lower rate of statutory maternity pay.
+
+Article 11 increases the rate of graduated retirement benefit.
+
+Article 12 increases the rates of disability living allowance.
+
+Article 13 increases the weekly rates of child benefit, except the rate payable in respect of an only, elder or eldest child of a lone parent.
+
+Article 14 increases the weekly rates of age addition to long-term incapacity benefit.
+
+Article 15 increases the weekly rates of transitional invalidity allowance in long-term incapacity benefit cases.
+
+Part III of the Order relates to family credit, disability working allowance, income support, housing benefit and council tax benefit.
+
+Article 16 and Schedule 2 specify the applicable amount for family credit and the amount of the credits for an adult, child or young person which determines a family’s maximum family credit.
+
+Article 17 and Schedule 3 specify the applicable amount for disability working allowance and the amount of allowance for an adult, child or young person which determines the appropriate maximum disability working allowance.
+
+Article 18 states the amount of sums relevant to the applicable amount for the purposes of income support. Article 18(3) and Schedule 4 set out the personal allowances; article 18(4) and (5) and Schedule 5 set out the premiums; article 18(7) and Schedule 6 set out the amounts relevant to beneficiaries in residential care and nursing homes; article 18(8) and Schedule 7 set out the amounts relevant to special cases; and article 18(9) and Schedule 8 set out other miscellaneous amounts.
+
+Article 19 provides for the percentage increase of sums payable by way of special transitional additions to income support.
+
+Article 20 states the sum by which any income support of a person involved in a trade dispute is reduced.
+
+Article 21 states the amount of the sums relevant for the purposes of housing benefit. Article 21(6) and Schedule 9 set out the personal allowances and article 21(8) and Schedule 10 set out the premiums.
+
+Article 22 states the amount of the sums relevant for the purposes of council tax benefit. Article 22(5) and Schedule 11 set out the personal allowances and article 22(6) and (7) and Schedule 12 set out the premiums.
+
+Part IV of the Order relates to jobseeker’s allowance.
+
+Article 23 increases the age-related amounts of contribution-based jobseeker’s allowance.
+
+Article 24 states the amount of sums relevant to the applicable amount for the purposes of income-based jobseeker’s allowance. Article 24(3) and Schedule 13 set out the personal allowances; article 24(4) and (5) and Schedule 14 set out the premiums; article 24(7) and Schedule 15 set out the amounts relevant to beneficiaries in residential care and nursing homes; article 24(8) and Schedule 16 set out the amounts relevant to special cases; and article 24(9) and Schedule 17 set out other miscellaneous amounts.
+
+Article 25 states the sum by which any jobseeker’s allowance of a person involved in a trade dispute is reduced.
+
+Part V of the Order relates to transitional provisions and revocation.
+
+Article 26 contains transitional provisions relating to family credit and disability working allowance.
+
+Article 27 revokes the Social Security Benefits Up-rating Order 1998 (S.I. [1998/470](https://www.legislation.gov.uk/uksi/1998/470)).
+
+In accordance with section 150(8) of the Administration Act, a copy of the report of the Government Actuary (Cm. 4199) giving his opinion on the likely effect on the National Insurance Fund of the making of this Order was laid before Parliament with the draft Order.
+
+An assessment of the cost to business of applying the statutory sick pay and statutory maternity pay provisions of this Order has been placed in the library of both Houses of Parliament. Copies can be obtained by post from the Department of Social Security, Public Enquiry Office, 1st Floor, Adelphi, 1-11 John Adam Street, London WC2N 6HT: telephone number 0171 712 2171.
+
+Correction:
+
+The figure on page 17, line 1, column 2 (widower’s pension: weekly rate) should be £66.75 and not £66.25.
+
+This mistake is rectified in The Social Security Benefits Up-rating (No. 2) Order 1999.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5). Section 150 was amended by paragraph 28 of Schedule 8 to the Pension Schemes Act [1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48), sections 2(3) and 9(4) of the Social Security (Incapacity for Work) Act [1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), paragraph 64 of Schedule 2 to the Jobseekers Act [1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18) and section 131(2) of the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26). See also section 4(8) of the Social Security (Incapacity for Work) Act 1994 and regulation 18(3) of the Social Security (Incapacity Benefit) (Transitional) Regulations 1995 (S.I. [1995/310](https://www.legislation.gov.uk/uksi/1995/310)).
+
+[^f00002]: Footnote: *See* section 189(8) of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5).

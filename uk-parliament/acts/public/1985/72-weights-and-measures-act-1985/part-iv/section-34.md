@@ -1,0 +1,25 @@
+---
+title: Weights and Measures Act 1985, section 34
+act: Weights and Measures Act 1985
+section: '34'
+status: revised-with-pending-changes
+text_date: '2023-05-03'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1985/72/section/34
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Weights and Measures Act 1985, section 34
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2023-05-03. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/72
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 34. Reasonable precautions and due diligence.
+
+*Extent: E+W+S*
+
+(1) In any proceedings for an offence under this Part of this Act or any instrument made under this Part, it shall be a defence for the person charged to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+(2) If in any case the defence provided by subsection (1) above involves an allegation that the commission of the offence in question was due to the act or default of another person or due to reliance on information supplied by another person, the person charged shall not, without the leave of the court, be entitled to rely on the defence unless, before the beginning of the period of seven days ending with the date when the hearing of the charge began, he served on the prosecutor a notice giving such information identifying or assisting in the identification of the other person as was then in his possession.

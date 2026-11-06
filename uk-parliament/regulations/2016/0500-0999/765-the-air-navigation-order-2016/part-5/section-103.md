@@ -1,0 +1,23 @@
+---
+title: The Air Navigation Order 2016, section 103
+act: The Air Navigation Order 2016
+section: '103'
+status: revised
+text_date: '2026-05-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2016/765/section/103
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Air Navigation Order 2016, section 103
+
+> Text as at 2026-05-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 103. Requirement for a Part-CAT air operator certificate
+
+*Extent: E+W+S+N.I.*
+
+A person must not operate an aircraft registered in the United Kingdom on a commercial air transport operation otherwise than under and in accordance with the terms of a Part-CAT air operator certificate issued to the operator of the aircraft by the CAA.

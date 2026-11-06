@@ -1,0 +1,577 @@
+---
+title: The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2025
+id: uksi/2025/1005
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2025-07-11'
+text_date: '2026-01-01'
+extent: E
+source_url: https://www.legislation.gov.uk/uksi/2025/1005
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/1005/pdfs/uksi_20251005_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/1005/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2025
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-01-01. See https://www.legislation.gov.uk/changes/affected/uksi/2025/1005
+>
+> Extent: England.
+
+*Extent: E*
+
+2025 No. 1005
+
+Ecclesiastical Law, England
+
+The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2025
+
+Made
+
+11th July 2025
+
+Laid before Parliament
+
+12th September 2025
+
+Coming into force
+
+1st January 2026
+
+In accordance with section 86(11) of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018[^f00001], this Order has been laid before, and approved by, the General Synod.
+
+The Fees Advisory Commission, in exercise of the powers conferred by section 86(3) to (4B) of that Measure[^f00002], makes the following Order.
+
+## 1. Citation, commencement and interpretation[^key-95568a5966225b94a749161af3ac3c88]
+
+(1) This Order may be cited as the Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2025.
+
+(2) This Order comes into force on 1st January 2026.
+
+(3) In the application of this Order to the diocese of Canterbury—
+
+- (a) a reference to the consistory court is to be read as a reference to the commissary court of that diocese, and
+- (b) a reference to the chancellor is, accordingly, to be read as a reference to the Commissary General.
+
+(4) In this Order, “**the 2018 Measure**” means the Ecclesiastical Jurisdiction and Care of Churches Measure 2018.
+
+## 2. Direction as to fee[^key-8015cad3611d09f9d1d81f36187c3561]
+
+Where in this Order there is a reference in any article to a specified amount of any fee payable to the chancellor or registrar, the chancellor or the registrar (as the case may be) may determine that a fee should be paid up to the amount specified in any case.
+
+## 3. Faculty fees payable to diocesan boards of finance[^key-a6a7a042e8f03279da00c29d4d80d13f]
+
+(1) This article applies in relation to a petition for a faculty in respect of a building or part of a building, a curtilage of a building or an object or structure fixed to a building or part of a building or within its curtilage, which is subject to the faculty jurisdiction by virtue of section 43(1) of the 2018 Measure.
+
+(2) On the submission of the petition, a fee of £224 is payable to the diocesan board of finance in respect of work done in relation to the petition (before or after it is submitted) by the diocesan advisory committee or an archdeacon in the diocese.
+
+(3) But the diocesan board of finance may waive the whole or part of that fee, having regard to any financial contribution made to the funds of the diocese by—
+
+- (a) those responsible for the building concerned, or
+- (b) any other person who has a substantial interest in or connection with the building.
+
+(4) No fee is payable under this article in the case of—
+
+- (a) a building of the kind specified in section 38(2)(e) of the 2018 Measure (building subject to a sharing agreement), or
+- (b) a chapel forming part of Lambeth Palace.
+
+(5) In this article, “**diocesan board of finance**”, in relation to a diocese, means the board of that name constituted under the Diocesan Boards of Finance Measure 1925[^f00003].
+
+## 4. The register of patrons under Part 1 of the Patronage (Benefices) Measure 1986[^key-d8d19144ae611bf0649d5a4fee075304]
+
+(1) This article applies in relation to work done by a diocesan registrar in connection with—
+
+- (a) a search in the register of patrons maintained under Part 1 of the Patronage (Benefices) Measure 1986[^f00004],
+- (b) the making of an extract from that register, or
+- (c) the supply of a certified copy of an entry in that register.
+
+(2) The fee payable for the work is a fee of the amount calculated in accordance with the Solicitors’ (Non-Contentious Business) Remuneration Order 2009[^f00005], except in so far as the work is within the scope of any annual fee for the time being payable to the diocesan registrar by virtue of section 86(1) and (3) of the 2018 Measure.
+
+(3) The fee is payable by the person making the search or extract or requesting the copy.
+
+## 5. Proceedings before the consistory court[^key-049fb1ed854f3419e452864866d39c2c]
+
+(1) This article applies in relation to proceedings in a consistory court.
+
+(2) In the case of each matter specified in the first column of Table 1, the fee specified in the second or third column is payable to the chancellor or the registrar (as the case may be).
+
+Table 1
+
+|  |  | *Chancellor*<br>*£* | *Registrar*<br>*£* |
+| --- | --- | --- | --- |
+| 1\. | Submission of petition for a faculty. | 60 | 252 |
+| 2\. | Application for an injunction or restoration order under section 71 or 72 of the 2018 Measure. | 60 | 252 |
+| 3\. | The making of an injunction or restoration order under section 71 or 72 of the 2018 Measure on the court’s own initiative. | 60 | 252 |
+| 4\. | Application for an order under section 63 of the 2018 Measure. | 77 | 181 |
+| 5\. | Application for a determination under section 68(12) of the Mission and Pastoral Measure 2011[^f00006]. | 128 | 128 |
+| 6\. | Commencement of any other proceedings which a consistory court has jurisdiction to hear and determine. | 77 | 181 |
+| 7\. | Application for security for costs (otherwise than at a hearing in respect of which a fee is payable under item 8) — |  |  |
+|  | (a) at a hearing; | 319 | 308 |
+|  | (b) without a hearing. | 159 | 126 |
+| 8\. | The giving of directions or the making of an interlocutory order— |  |  |
+|  | (a) at a hearing; | 314 | 308 |
+|  | (b) without a hearing. | 159 | 129 |
+| 9\. | The making of an order that proceedings are to be determined on the consideration of written representations (including the giving of directions for the purpose of determining proceedings on such a consideration). | \- | 128 |
+| 10\. | Consideration of written representations (per hour). | 159 | \- |
+| 11\. | The holding of a hearing (other than a hearing solely for giving directions or making an interlocutory order)— |  |  |
+|  | (a) for each period of half a day or less; | 398 | 316 |
+|  | (b) for each period of more than half a day and up to a whole day. | 797 | 632 |
+| 12\. | Inspection of a location, a church or other building or anything else (except where the inspection takes place on the same occasion as a hearing) (per hour). | 159 | 126 |
+| 13\. | Preparation of written judgment or form of order (per hour). | 159 | \- |
+| 14\. | Application for assessment of costs by the registrar. | \- | 308 |
+| 15\. | Lodging an appeal to the chancellor against an assessment of costs by the registrar. | 265 | \- |
+| 16\. | Application to set aside or amend a faculty, judgment, order or decree. | 194 | 67 |
+| 17\. | Application to vary a lease or any term of a lease under section 68(7) of the Mission and Pastoral Measure 2011. | 74 | 181 |
+| 18\. | Preparatory or ancillary work, including sending correspondence (per hour). | \- | 176 |
+
+(3) In the case of a matter which comes within item 10, 12, 13 or 18, the chancellor or the registrar (as the case may be) must certify the number of hours spent.
+
+(4) In the case of a matter which comes within item 18, a fee is payable only in exceptional circumstances and if the chancellor so directs.
+
+(5) In the case of a matter for which no fee is specified in Table 1, a fee is payable to the registrar of the amount for the time being prescribed under section 92 of the Courts Act 2003[^f00007] in the case of the equivalent matter in the High Court.
+
+(6) Where the Vicar-General’s court of the Province of Canterbury exercises the faculty jurisdiction of the consistory court by virtue of section 43(3) of the 2018 Measure—
+
+- (a) a reference in this article to the chancellor is to be read as a reference to the Vicar-General, and
+- (b) a reference in this article to the registrar is to be read as a reference to the registrar of the province of Canterbury acting as registrar of the Vicar-General’s court.
+
+## 6. Appeals from consistory court and intervention by provincial court[^key-1cadb61144b94f1c06632a103850b686]
+
+(1) This article applies in relation to proceedings on an appeal from a consistory court and where a provincial court gives any directions for the further conduct of proceedings which are pending in a consistory court.
+
+(2) In the case of each matter specified in the first column of Table 2, the fee specified in the second or third column is payable to the judge or the registrar (as the case may be).
+
+Table 2
+
+|  |  | *Judge*<br>*£* | *Registrar*<br>*£* |
+| --- | --- | --- | --- |
+| 1\. | Application to the chancellor for a certificate under section 18(4) of the 2018 Measure and (if needed) for leave to appeal. | 156 | 50 |
+| 2\. | Application to the Dean of the Arches and Auditor for leave to appeal. | 296 | 161 |
+| 3\. | The holding of a hearing by the chancellor or the Dean of the Arches and Auditor on an application for leave to appeal. | 535 | 403 |
+| 4\. | Lodging notice of appeal with the Arches Court of Canterbury, the Chancery Court of York or the Court of Ecclesiastical Causes Reserved. | \- | 161 |
+| 5\. | Application for security for costs (otherwise than at a hearing in respect of which a fee is payable under item 6)— |  |  |
+|  | (a) at a hearing; | 428 | 324 |
+|  | (b) without a hearing. | 218 | 161 |
+| 6\. | The giving of directions or the making of an interlocutory order— |  |  |
+|  | (a) at a hearing; | 428 | 324 |
+|  | (b) without a hearing. | 214 | 158 |
+| 7\. | The holding of a hearing (other than a hearing solely for giving directions or making an interlocutory order)— |  |  |
+|  | (a) for each period of half a day or less; | 535 | 403 |
+|  | (b) for each period of more than half a day and up to a whole day. | 1072 | 803 |
+| 8\. | Preparation of written judgment or form of order (per hour). | 218 | \- |
+| 9\. | Application for assessment of costs by the registrar. | \- | 324 |
+| 10\. | Preparatory or ancillary work, including sending correspondence (per hour). | \- | 316 |
+
+(3) In the case of the Arches Court of Canterbury or the Chancery Court of York—
+
+- (a) a fee under item 6 is payable to each member of the Court who joins in the giving of the directions or the making of the order concerned;
+- (b) a fee under item 7 is payable to each member of the Court involved in the hearing;
+- (c) a fee under item 8 is payable to each member of the Court who prepares a separate written judgment or is principally responsible for drafting the form of order.
+
+(4) In the case of the Court of Ecclesiastical Causes Reserved, no fee is payable under items 6 to 8 to members of the Court.
+
+(5) In the case of a matter which comes within item 8 or 10, the judge or the registrar (as the case may be) must certify the number of hours spent.
+
+(6) In this article, “**judge**” means the person presiding over the court concerned.
+
+## 7. Proceedings on review by Commission of Review[^key-7e27a119729024ea921db812b5e23bcc]
+
+(1) This article applies in relation to proceedings on a review under section 11 or 14 of the Care of Cathedrals Measure 2011[^f00008] (“**the 2011 Measure**”) by a Commission of Review constituted under section 11 of that Measure.
+
+(2) In the case of each matter specified in the first column of Table 3, the fee specified in the second or third column is payable to the judge or the registrar (as the case may be).
+
+Table 3
+
+|  |  | *Judge*<br>*£* | *Registrar*<br>*£* |
+| --- | --- | --- | --- |
+| 1\. | The making of a request under section 11(1) or (2) or 14(1) of the 2011 Measure. | \- | 161 |
+| 2\. | The giving of directions or the making of an interlocutory order— |  |  |
+|  | (a) at a hearing; | 428 | 324 |
+|  | (b) without a hearing. | 218 | 158 |
+| 3\. | The holding of a hearing (other than a hearing solely for giving directions or making an interlocutory order)— |  |  |
+|  | (a) for each period of half a day or less; | 535 | 402 |
+|  | (b) for each period of more than half a day and up to a whole day. | 1073 | 803 |
+| 4\. | Inspection of a location, a cathedral or other building or anything else (except where the inspection takes place on the same occasion as a hearing) (per hour). | 218 | 161 |
+| 5\. | Preparation of written judgment or form of order (per hour). | 218 | \- |
+| 6\. | Preparatory or ancillary work, including sending correspondence (per hour). | \- | 316 |
+
+(3) In the case of a matter which comes within items 4 to 6, the judge or the registrar (as the case may be) must certify the number of hours spent.
+
+(4) In this article, “**judge**” means the person who is a member of the Commission of Review by virtue of section 11(3)(a) of the 2011 Measure.
+
+## 8. Proceedings in Vicar-General’s court[^key-1a453661a8881fd316368f06cdaf0ca2]
+
+(1) This article applies in relation to proceedings before the Vicar-General’s court of either province under the Care of Cathedrals Measure 2011 (“**the 2011 Measure**”).
+
+(2) In the case of each matter specified in the first column of Table 4, the fee specified in the second or third column is payable to the Vicar-General or the registrar (as the case may be).
+
+Table 4
+
+|  |  | *Vicar-General*<br>*£* | *Registrar*<br>*£* |
+| --- | --- | --- | --- |
+| 1\. | Institution of proceedings for an injunction or restoration order under section 18 of the 2011 Measure. | 6138 | 176 |
+| 2\. | The giving of directions or the making of an interlocutory order— |  |  |
+|  | (a) at a hearing; | 319 | 252 |
+|  | (b) without a hearing. | 159 | 147 |
+| 3\. | The holding of a hearing (other than a hearing solely for giving directions or making an interlocutory order)— |  |  |
+|  | (a) for each period of half a day or less; | 376 | 298 |
+|  | (b) for each period of more than half a day and up to a whole day. | 752 | 597 |
+| 4\. | Inspection of a location, a cathedral or other building or anything else (except where the inspection takes place on the same occasion as a hearing) (per hour). | 150 | 139 |
+| 5\. | Preparation of written judgment or form of order (per hour). | 150 | \- |
+| 6\. | Application for assessment of costs by the registrar. | \- | 238 |
+| 7\. | Preparatory or ancillary work, including sending correspondence (per hour). | \- | 298 |
+
+(3) A fee under this article is payable by the Archbishops’ Council under section 20B of the 2011 Measure[^f00009].
+
+(4) In the case of a matter which comes within item 4, 5 or 7, the Vicar-General or the registrar (as the case may be) must certify the number of hours spent.
+
+## 9. Proceedings on certain ecclesiastical offences[^key-d10577208831c60fc515bef786ba48d2]
+
+(1) This article applies in relation to proceedings before the Court of Ecclesiastical Causes Reserved under section 10(1)(a) of the Ecclesiastical Jurisdiction Measure 1963 (offences against the laws ecclesiastical involving matter of doctrine, ritual or ceremonial).
+
+(2) In the case of each matter specified in the first column of Table 5, the fee specified in the second column is payable to the registrar.
+
+Table 5
+
+|  |  | *Registrar*<br>*£* |
+| --- | --- | --- |
+| 1\. | The giving of directions or the making of an interlocutory order— |  |
+|  | (a) at a hearing; | 324 |
+|  | (b) without a hearing. | 161 |
+| 2\. | The holding of a hearing (other than a hearing solely for giving directions or making an interlocutory order)— |  |
+|  | (a) for each period of half a day or less; | 323 |
+|  | (b) for each period of more than half a day and up to a whole day. | 161 |
+| 3\. | Inspection of a location, building or anything else (except where the inspection takes place on the same occasion as a hearing) (per hour). | 161 |
+| 4\. | Preparation of form of order (per hour). | 161 |
+| 5\. | Preparatory or ancillary work, including sending correspondence (per hour). | 316 |
+
+(3) A fee under this article is payable by the Archbishops’ Council under section 62 of the Ecclesiastical Jurisdiction Measure 1963.
+
+(4) In the case of a matter which comes within item 3, 4 or 5, the registrar must certify the number of hours spent.
+
+## 10. Proceedings on review of finding of Court of Ecclesiastical Causes Reserved[^key-ed8cbfe588e6930c587666478d804fd3]
+
+(1) This article applies in relation to proceedings on a review by a Commission of Review under section 11 of the Ecclesiastical Jurisdiction Measure 1963 (“**the 1963 Measure**”) or section 19 of the 2018 Measure (review of a finding of the Court of Ecclesiastical Causes Reserved) where the provincial registrar is appointed as registrar of the Commission of Review.
+
+(2) In the case of each matter specified in the first column of Table 6, the fee specified in the second column is payable to the registrar.
+
+Table 6
+
+|  |  | *Registrar*<br>*£* |
+| --- | --- | --- |
+| 1\. | The giving of directions or the making of an interlocutory order— |  |
+|  | (a) at a hearing; | 323 |
+|  | (b) without a hearing. | 161 |
+| 2\. | The holding of a hearing (other than a hearing solely for giving directions or making an interlocutory order)— |  |
+|  | (a) for each period of half a day or less; | 403 |
+|  | (b) for each period of more than half a day and up to a whole day. | 803 |
+| 3\. | Preparation of form of order (per hour). | 161 |
+| 4\. | Preparatory or ancillary work, including sending correspondence (per hour). | 316 |
+
+(3) A fee under this article is payable—
+
+- (a) in proceedings on a case of the kind referred to in section 11(2)(a) of the 1963 Measure, by the Archbishops’ Council under section 62 of that Measure;
+- (b) in proceedings under section 19 of the 2018 Measure, by the person whom the Commission of Review orders to pay the fee.
+
+(4) In the case of a matter which comes within item 3 or 4, the registrar must certify the number of hours spent.
+
+## 11. Disciplinary proceedings under the Clergy Discipline Measure 2003[^key-8e6c87b29f0bf15c50e2e6593b7a72d9]
+
+(1) This article applies in relation to proceedings instituted under section 10 of the Clergy Discipline Measure 2003[^f00010].
+
+(2) In the case of each matter specified in the first column of Table 7, the fee specified in the second or third column is payable to the judge or the registrar (as the case may be).
+
+Table 7
+
+|  |  | *Judge*<br>*£* | *Registrar*<br>*£* |
+| --- | --- | --- | --- |
+| 1\. | The giving of directions or the making of an interlocutory order— |  |  |
+|  | (a) at a hearing; | 319 | 252 |
+|  | (b) without a hearing. | 159 | 126 |
+| 2\. | The holding of a hearing (other than a hearing solely for giving directions or making an interlocutory order)— |  |  |
+|  | (a) for each period of half a day or less; | 396 | 316 |
+|  | (b) for each period of more than half a day and up to a whole day. | 797 | 633 |
+| 3\. | Inspection of a location, building or anything else (except where the inspection takes place on the same occasion as a hearing) (per hour). | 159 | 126 |
+| 4\. | Preparation of written judgment or form of order (per hour). | 159 | \- |
+| 5\. | Application for assessment of costs by the registrar. | \- | 126 |
+| 6\. | Preparatory or ancillary work, including sending correspondence (per hour) | \- | 316 |
+
+(3) A fee under this article is, by virtue of section 35 of the Clergy Discipline Measure 2003, payable by the Archbishops’ Council under section 62 of the Ecclesiastical Jurisdiction Measure 1963.
+
+(4) In the case of a matter which comes within item 3, 4 or 6, the judge or the registrar (as the case may be) must certify the number of hours spent.
+
+(5) In this article, “**judge**” means the person presiding over the tribunal or court concerned.
+
+## 12. Appeals under the Clergy Discipline Measure 2003[^key-39d8fde2b2facc552ec528b94c8259c5]
+
+(1) This article applies in relation to proceedings under section 20 of the Clergy Discipline Measure 2003 (right of appeal).
+
+(2) In the case of each matter specified in the first column of Table 8, the fee specified in the second or third column is payable to the Dean of the Arches and Auditor or the registrar (as the case may be).
+
+Table 8
+
+|  |  | *Dean of the Arches and Auditor*<br>*£* | *Registrar*<br>*£* |
+| --- | --- | --- | --- |
+| 1\. | Application for leave to appeal under section 20(1A) of the Clergy Discipline Measure 2003. | 296 | 161 |
+| 2\. | The giving of directions or the making of an interlocutory order— |  |  |
+|  | (a) at a hearing; | 428 | 324 |
+|  | (b) without a hearing. | 218 | 161 |
+| 3\. | The holding of a hearing (other than a hearing solely for giving directions or making an interlocutory order)— |  |  |
+|  | (a) for each period of half a day or less; | 535 | 402 |
+|  | (b) for each period of more than half a day and up to a whole day. | 1073 | 803 |
+| 4\. | Preparation of written judgment or form of order (per hour). | 218 | \- |
+| 5\. | Application for assessment of costs by the registrar. | \- | 351 |
+| 6\. | Preparatory or ancillary work, including sending correspondence (per hour). | \- | 316 |
+
+(3) A fee under this article is payable by the Archbishops’ Council under section 62 of the Ecclesiastical Jurisdiction Measure 1963.
+
+(4) In the case of a matter which comes within item 4 or 6, the Dean of the Arches and Auditor or the registrar (as the case may be) must certify the number of hours spent.
+
+## 13. Fees payable to person appointed under section 4(4) of the Clergy Discipline Measure 2003[^key-180c2123f73d5fe8c9661f973a06e0c0]
+
+(1) This article applies in the case of an appointment of a person by the President of Tribunals under section 4(4) of the Clergy Discipline Measure 2003 (“**the 2003 Measure**”) (appointment of person as chair of disciplinary tribunals to act when President unable or unwilling to act).
+
+(2) In the case of each of the following matters, the fee of £218 is payable to the person appointed—
+
+- (a) deciding whether to give permission under section 9 of the 2003 Measure (institution of proceedings out of time);
+- (b) determining an application under section 31(3A) of the 2003 Measure[^f00011] (criminal or matrimonial matters: extension of two-year period for imposition of penalty);
+- (c) determining a request under section 38(2) or (3) of the 2003 Measure (review of inclusion in Archbishops’ list);
+- (d) determining an application under rule 56 of the Clergy Discipline Rules 2005[^f00012] (substitution of party);
+- (e) determining an application under rule 101B of those Rules[^f00013] (word or page limits);
+- (f) deciding whether to extend a time limit under Rule 102 of those Rules (time limits);
+- (g) determining a request under paragraph 2(5) of Canon C 30[^f00014] (request to review direction that priest or deacon undergo safeguarding risk assessment);
+- (h) doing anything else in place of the President of Tribunals for the purposes of the appointment which does not come within the preceding provisions of this paragraph or within paragraph (3).
+
+(3) In the case of each of the following matters, the fee of £420 is payable to the person appointed—
+
+- (a) conducting a review under section 11(4) of the 2003 Measure (review of dismissal);
+- (b) considering a referral under section 13 of the 2003 Measure (decision to take no further action);
+- (c) making a decision under section 17 of the 2003 Measure (whether respondent has case to answer);
+- (d) determining an appeal against suspension under section 36, 36A, 37 or 37A of the 2003 Measure[^f00015];
+- (e) making a determination under Rule 14A of the Clergy Discipline Rules 2005[^f00016] (sexual misconduct towards vulnerable adult).
+
+(4) A fee under this article is, by virtue of section 35 of the 2003 Measure, payable by the Archbishops’ Council under section 62 of the Ecclesiastical Jurisdiction Measure 1963.
+
+## 14. Summary election appeals[^key-e04f3c81fea58062c29bf82eb61caf07]
+
+(1) This article applies in the case of a summary election appeal brought under—
+
+- (a) rules made under paragraphs 1(a) and (b), 6 and 9 of Canon H 2 of the Church of England[^f00017] (clergy),
+- (b) rules made under paragraphs 1(c) and 2(b) of Canon H 3 of the Church of England[^f00018] (suffragan bishops),
+- (c) rules made under rule 59 of the Church Representation Rules (laity)[^f00019].
+
+(2) For each hour spent by the judge determining the appeal, a fee equivalent to that payable per hour under item 4 of Table 8 in article 12 (Clergy Discipline Measure 2003: preparing judgement on appeal) is payable to the judge.
+
+(3) A fee under this article is payable in accordance with the provision as to expenses contained in the applicable rules referred to in paragraph (1)(a), (b) or (c)[^f00020].
+
+(4) The judge determining the appeal must certify the number of hours spent determining it.
+
+## 15. Miscellaneous annual fees etc.[^key-6b827e9f1abe3b6165382718383d4e23]
+
+(1) In the case of each matter specified in the first column of Table 9, the fee specified in the second column is payable to the person concerned.
+
+Table 9
+
+|  |  | £ |
+| --- | --- | --- |
+| 1\. | Application to the provincial registrar for permission under the Overseas Clergy (Ministry and Ordination) Measure 1967 [^f00021]. | 158 |
+| 2\. | Issue by the provincial registrar of the Archbishop’s licence for service chaplains. | 73 |
+| 3\. | Annual fee for the Vicar-General of the Province of Canterbury. | 3325 |
+| 4\. | Annual fee for the Vicar-General of the Province of York. | 2698 |
+| 5\. | Annual fee for the President of Tribunals. | 9542 |
+| 6\. | Annual fee for the Deputy President of Tribunals. | 9542 |
+
+(2) In the case of a matter which comes within items 1 to 4, a fee under this article is payable by the Archbishop; but see section 86(6) of the 2018 Measure (which requires the Church Commissioners to reimburse the Archbishop).
+
+(3) In the case of a matter which comes within item 5 or 6, a fee under this article is, by virtue of section 35 of the Clergy Discipline Measure 2003, payable by the Archbishops’ Council under section 62 of the Ecclesiastical Jurisdiction Measure 1963.
+
+## 16. Exemption, reduction or remission[^key-7be5ae267af83c9dd5c149dea19d10db]
+
+(1) A person who would be entitled to an exemption from or reduction in, or a remission or part remission of, a fee prescribed by the Order for the time being in force under section 92 of the Courts Act 2003[^f00022] (“**the Civil Proceedings Fees Order**”) is entitled to an equivalent exemption from or reduction in, or remission or part remission of, a fee provided for by this Order; and the Civil Proceedings Fees Order applies accordingly for the purposes of this Order.
+
+(2) Where the Civil Proceedings Fees Order includes provision requiring an application to be made for an exemption from, reduction in or remission of a fee, that provision is to be read for the purposes of this Order as requiring the application to be made to the registrar.
+
+(3) Where the Civil Proceedings Fees Order includes provision enabling a specified person to exercise a discretion in relation to an exemption from, reduction in or remission of a fee, that provision is to be read for the purposes of this Order as enabling the registrar to exercise the discretion.
+
+(4) The determination of an application made to the registrar under paragraph (2), or any work done under paragraph (3), is to be treated for the purposes of this Order as work which is ancillary to the proceedings in which the application is made or work is done; and the fee provided for by this Order for ancillary work in proceedings of that kind is payable to the registrar.
+
+(5) Where a person is entitled to an exemption from or reduction in, or remission or part remission of, a fee provided for by this Order, the diocesan board of finance for the diocese concerned must pay the amount which would be payable were it not for the exemption, reduction or remission.
+
+(6) The reasonable costs of the registrar in the determination of an application under paragraph (2) are payable by the diocesan board of finance.
+
+(7) In this article, “**diocesan board of finance**”, in relation to a diocese, means the board of that name constituted under the Diocesan Boards of Finance Measure 1925[^f00023]
+
+## 17. Travel, subsistence, accommodation and court hearings[^key-c982a7f31066836138a5e506d0ddf762]
+
+A fee provided for by this Order (other than the fee provided for under article 3) is to be increased by a sum for reasonable expenses of travel, subsistence, accommodation and the holding of court hearings.
+
+## 18. Value Added Tax[^key-96d39e1b222dfb1f3d852513d1bd8ecb]
+
+Where Value Added Tax is chargeable in respect of the provision of a service for which a fee is provided for by this Order, the amount of the Value Added Tax chargeable is payable in addition to that fee.
+
+## 19. Revocation[^key-a84c088a9d3939553ceef7632b15d2ab]
+
+The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2024[^f00024] is revoked.
+
+C. Fender
+
+D. Miller
+
+J. Munro
+
+A. Spriggs
+
+S. Roberts
+
+P. Hopkins
+
+\+ D. Williams
+
+L.M. Connacher
+
+C. Smith
+
+Fees Advisory Commission
+
+Church House, London
+
+14th June 2025
+
+This Order was approved by the General Synod on 11th July 2025.
+
+A. S. McGregor
+
+Registrar of the General Synod
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order revokes and replaces the Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2024.
+
+Article 3 sets the fee payable for submitting a petition in faculty proceedings under the Ecclesiastical Jurisdiction and Care of Churches Measure 2018.
+
+Article 4 provides for the fee relating to certain functions under the Patronage (Benefices) Measure 1986 to be set by reference to the Solicitors’ (Non-Contentious Business) Remuneration Order 2009.
+
+Article 5 sets the fees payable in faculty proceedings in the consistory court. In relation to the diocese of Canterbury, references in this article and in article 6 to the consistory court are to be read as references to the commissary court (see article 1(3)).
+
+Article 6 sets the fees payable in proceedings on an appeal from a consistory court and which apply in the event of an intervention by the provincial court in the conduct of proceedings pending before a consistory court.
+
+Article 7 sets the fees payable in proceedings on a review by a Commission of Review of certain decisions of the Cathedrals Fabric Commission for England under the Care of Cathedrals Measure 2011.
+
+Article 8 sets the fees payable in proceedings in the Vicar-General’s court in the province of Canterbury or the province of York under the Care of Cathedrals Measure 2011.
+
+Article 9 sets the fees payable in proceedings before the Court of Ecclesiastical Causes Reserved under the Ecclesiastical Jurisdiction Measure 1963 in relation to offences against the laws ecclesiastical involving matter of doctrine, ritual or ceremonial.
+
+Article 10 sets the fees payable in proceedings on a review by a Commission of Review under section 11 of the Ecclesiastical Jurisdiction Measure 1963 or section 19 of the Ecclesiastical Jurisdiction and Care of Churches Measure of a finding of the Court of Ecclesiastical Causes Reserved.
+
+Article 11 sets the fees payable in disciplinary proceedings brought under the Clergy Discipline Measure 2003.
+
+Article 12 sets the fees payable in proceedings on an appeal under the Clergy Discipline Measure 2003.
+
+Article 13 sets the fees payable to a person appointed under section 4(4) of the Clergy Discipline Measure 2003 to act instead of the President of Tribunals where he or she is unable or unwilling to act.
+
+Article 14 sets the fees payable to the judge determining a summary election appeal under the rules governing elections to the General Synod.
+
+Article 15 sets the fees payable in certain miscellaneous cases (including certain annual fees).
+
+Article 16 makes provision for there to be exemptions from, reductions in or remissions of fees under the Order equivalent to those which apply in civil proceedings in the secular courts.
+
+Article 17 provides that a fee under this Order may be increased to cover the expenses of travel, subsistence, accommodation and the holding of hearings.
+
+Article 18 provides that the amounts set under this Order are exclusive of Value Added Tax (in the case of matters for which it is chargeable).
+
+The revised fees under this Order come into effect on 1st January 2026.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 No. 3](https://www.legislation.gov.uk/ukcm/2018/3).
+
+[^f00002]: Footnote: Subsections (3A) and (4A) were inserted by section 4(1) of the Church of England (Miscellaneous Provisions) Measure [2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1) (“**the 2020 Measure**”). The provision which was subsection (4A), and which had been inserted by section 8(5) of the Church of England (Miscellaneous Provisions) Measure [2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), was renumbered as subsection (4B) by section 4(2) of the 2020 Measure.
+
+[^key-95568a5966225b94a749161af3ac3c88]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2025/1005/article/1) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^key-8015cad3611d09f9d1d81f36187c3561]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2025/1005/article/2) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^key-a6a7a042e8f03279da00c29d4d80d13f]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2025/1005/article/3) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^f00003]: Footnote: 15 & 16 Geo. 5 No. 3. Relevant amendments have been made by the Synodical Government Measure [1969 (No. 2)](https://www.legislation.gov.uk/ukcm/1969/2).
+
+[^key-d8d19144ae611bf0649d5a4fee075304]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2025/1005/article/4) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^f00004]: Footnote: [1986 No. 3](https://www.legislation.gov.uk/ukcm/1986/3).
+
+[^f00005]: Footnote: [S.I. 2009/1931](https://www.legislation.gov.uk/uksi/2009/1931).
+
+[^key-049fb1ed854f3419e452864866d39c2c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2025/1005/article/5) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^f00006]: Footnote: [2011 No. 3](https://www.legislation.gov.uk/ukcm/2011/3).
+
+[^f00007]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39). Relevant amendments have been made by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
+
+[^key-1cadb61144b94f1c06632a103850b686]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2025/1005/article/6) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^key-7e27a119729024ea921db812b5e23bcc]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2025/1005/article/7) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^f00008]: Footnote: [2011 No. 1](https://www.legislation.gov.uk/ukcm/2011/1).
+
+[^key-1a453661a8881fd316368f06cdaf0ca2]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2025/1005/article/8) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^f00009]: Footnote: Section 20B was inserted by paragraph 30 of Schedule 1 to the 2018 Measure.
+
+[^key-d10577208831c60fc515bef786ba48d2]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2025/1005/article/9) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^key-ed8cbfe588e6930c587666478d804fd3]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2025/1005/article/10) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^key-8e6c87b29f0bf15c50e2e6593b7a72d9]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2025/1005/article/11) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^f00010]: Footnote: [2003 No. 3](https://www.legislation.gov.uk/ukcm/2003/3).
+
+[^key-39d8fde2b2facc552ec528b94c8259c5]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2025/1005/article/12) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^key-180c2123f73d5fe8c9661f973a06e0c0]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2025/1005/article/13) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^f00011]: Footnote: Subsection (3A) was inserted by section 5(4) of the Clergy Discipline (Amendment) Measure [2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2).
+
+[^f00012]: Footnote: [S.I. 2005/2022](https://www.legislation.gov.uk/uksi/2005/2022).
+
+[^f00013]: Footnote: Rule 101B was inserted by rule 10 of [S.I. 2021/557](https://www.legislation.gov.uk/uksi/2021/557).
+
+[^f00014]: Footnote: Canon C 30 was inserted in the Canons of the Church of England by Amending Canon No. 34, which was promulged on 15th February 2016.
+
+[^f00015]: Footnote: Sections 36 and 37 were amended by section 1 of the Safeguarding and Clergy Discipline Measure [2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1) and sections 36A and 37A were inserted by section 8 of that Measure.
+
+[^f00016]: Footnote: Rule 14A was inserted by rule 2 of [S.I. 2016/848](https://www.legislation.gov.uk/uksi/2016/848).
+
+[^key-e04f3c81fea58062c29bf82eb61caf07]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2025/1005/article/14) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^f00017]: Footnote: The rules currently in force are the Convocations (Election to Upper House) Rules 2020.
+
+[^f00018]: Footnote: The rules currently in force are the Clergy Election Rules 2020.
+
+[^f00019]: Footnote: The Church Representation Rules are set out in Schedule 3 to the Synodical Government Measure [1969 (No. 2)](https://www.legislation.gov.uk/ukcm/1969/2), substituted by section 1(3) of, and Schedule 1 to, the Church Representation and Ministers Measure [2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1). The rules currently in force are the House of Laity Election Rules 2020.
+
+[^f00020]: Footnote: The applicable rules currently in force are rule 38(4) and (5) of the Convocations (Election to Upper House) Rules 2020, rule 64(4) and (5) of the Clergy Election Rules 2020 and rule 45(4) and (5) of the House of Laity Election Rules 2020.
+
+[^key-6b827e9f1abe3b6165382718383d4e23]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2025/1005/article/15) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^f00021]: Footnote: [1967 No. 3](https://www.legislation.gov.uk/ukcm/1967/3).
+
+[^key-7be5ae267af83c9dd5c149dea19d10db]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2025/1005/article/16) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^f00022]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39). Relevant amendments have been made by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4). The Order currently in force under section 92 is the Civil Proceedings Fees Order 2008 ([S.I. 2008/1053](https://www.legislation.gov.uk/uksi/2008/1053)) and the relevant provision of that Order is Schedule 2, as substituted by [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302) and amended by [S.I. 2014/590](https://www.legislation.gov.uk/uksi/2014/590), [S.I. 2014/1834](https://www.legislation.gov.uk/uksi/2014/1834), [S.I. 2016/211](https://www.legislation.gov.uk/uksi/2016/211), [S.I. 2016/1191](https://www.legislation.gov.uk/uksi/2016/1191) and [S.I. 2017/422](https://www.legislation.gov.uk/uksi/2017/422).
+
+[^f00023]: Footnote: 15 & 16 Geo. 5 No. 3. Relevant amendments have been made by the Synodical Government Measure [1969 (No. 2)](https://www.legislation.gov.uk/ukcm/1969/2).
+
+[^key-c982a7f31066836138a5e506d0ddf762]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2025/1005/article/17) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^key-96d39e1b222dfb1f3d852513d1bd8ecb]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2025/1005/article/18) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^key-a84c088a9d3939553ceef7632b15d2ab]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2025/1005/article/19) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+
+[^f00024]: Footnote: [S.I. 2024/814](https://www.legislation.gov.uk/uksi/2024/814).

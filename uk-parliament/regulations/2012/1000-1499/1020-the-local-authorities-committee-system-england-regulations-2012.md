@@ -1,0 +1,611 @@
+---
+title: The Local Authorities (Committee System) (England) Regulations 2012
+id: uksi/2012/1020
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-03-30'
+text_date: '2026-03-25'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/1020
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/1020/pdfs/uksiem_20121020_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1020/pdfs/uksi_20121020_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1020/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Authorities (Committee System) (England) Regulations 2012
+
+> Text as at 2026-03-25.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 1020
+
+Local Government, England
+
+The Local Authorities (Committee System) (England) Regulations 2012
+
+Made
+
+30th March 2012
+
+Laid before Parliament
+
+10th April 2012
+
+Coming into force
+
+4th May 2012
+
+The Secretary of State for Communities and Local Government, in exercise of the powers conferred by sections 9J, 9JA and 105 of the Local Government Act 2000[^f00001] makes the following Regulations.[^key-804bbddad7a0ea2162e458c1523f6532]
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-51186ee40bb8fb406fb3f1ba1a5f0158]
+
+These Regulations may be cited as the Local Authorities (Committee System) (England) Regulations 2012 and come into force on 4th May 2012.
+
+### 2. Interpretation[^key-21c0efc902dc4ce378c2e75dd4da8bc2]
+
+(1) In these Regulations—
+
+- “the 1972 Act” means the Local Government Act 1972[^f00002];
+- “the 1989 Act” means the Local Government and Housing Act 1989[^f00003];
+- “the 2000 Act” means the Local Government Act 2000;
+- “the 2006 Act” means the Police and Justice Act 2006[^f00004];
+- “the 2007 Act” means the Local Government and Public Involvement in Health Act 2007[^f00005];
+- “local authority” means a committee system local authority;
+- “non-unitary district council committee” has the same meaning as in section 9FF of the 2000 Act[^f00006]; and
+- “relevant partner authority” has the same meaning as in section 9FF of the 2000 Act.
+
+## PART 2 — Discharge of functions
+
+### 3. Functions to be discharged by the local authority[^key-060ba753e38c084ae1c52357aaf602fc]
+
+(1) Section 101 (arrangements for the discharge of functions by local authorities) of the 1972 Act[^f00007] does not apply with respect to the discharge, by a local authority, of any function referred to in paragraphs (2) to (8).
+
+(2) The functions referred to in this paragraph are—
+
+- (a) the approval or adoption of a plan or strategy of a description specified in column (1) of the Schedule to these Regulations and conferred by the enactments specified in relation to those functions in column (2);
+- (b) the approval or adoption of a plan or strategy for the control of the local authority’s borrowing, investments or capital expenditure, or for determining the authority’s minimum revenue provision; and
+- (c) the approval for the purpose of its submission to the Secretary of State or any Minister of the Crown for approval, of any plan or strategy, referred to in sub-paragraphs (a) or (b), (whether or not in the form of a draft) of which any part is required to be so submitted.
+
+(3) The function referred to in this paragraph is the making of a members’ allowance scheme authorised or required by Regulations under section 18 (schemes for basic, attendance and special responsibility allowances for local authority members) of the 1989 Act[^f00008] or of amending, revoking or replacing any such scheme.
+
+(4) The functions referred to in this paragraph are the functions of the determination of—
+
+- (a) the amount of any allowance payable under;
+  - (i) subsection (5) of section 3 (chairman’s expenses) of the 1972 Act;
+  - (ii) subsection (4) of section 5 (vice chairman’s expenses) of that Act; and
+- (b) the amount of any allowance payable pursuant to a scheme under section 18 of the 1989 Act, or the rates at which payments, by way of any such allowance are to be made.
+
+(5) The function referred to in this paragraph is the function of making a request to the Local Government Boundary Commission for England under section 57 (requests for single-member electoral areas) of the Local Democracy, Economic Development and Construction Act 2009[^f00009] for single-member electoral areas.
+
+(6) The function referred to in this paragraph is the function of passing a resolution to change a scheme for elections under sections 32(1), 37(1) or 39(1) (resolutions for schemes of elections) of the 2007 Act.
+
+(7) The function referred to in this paragraph is the function of making an order giving effect to recommendations made in a community governance review under section 86 (reorganisation of community governance) of the 2007 Act[^f00010].
+
+(8) The function referred to in this paragraph is the function relating to the voting rights of co-opted members of an overview and scrutiny committee under regulation 11.
+
+(9) Subject to paragraph (10), section 101 of the 1972 Act does not apply with respect to the discharge of the function of amending, modifying, varying , revising[^key-4eb0e07fb19024e6105e02e0a78336a4] or revoking any plan or strategy referred to in paragraph (2)(a) or (b) (whether approved or adopted before or after the coming into force of these Regulations).
+
+(10) Paragraph (9) does not apply to any amendment, modification, variation , revision[^key-f44fe081ef794c1ed15e074b28e10e0c] or revocation which—
+
+- (a) is required for giving effect to requirements of the Secretary of State or a Minister of the Crown in relation to a plan or strategy submitted for approval, or to any part submitted; or
+- (b) is authorised by a determination made by the local authority—
+  - (i) in pursuance of arrangements made for the discharge of functions under section 101 of the 1972 Act; and
+  - (ii) at the time when the local authority approves or adopts the plan or strategy, as the case may be.
+
+## PART 3 — Overview and scrutiny: general provisions
+
+### 4. Overview and scrutiny committees[^key-ec46069a25efdbe6e14b6d9f9a0f7480]
+
+(1) Parts 3 to 5 apply where a local authority resolves to appoint one or more committees as the authority’s overview and scrutiny committee or, as the case may be, committees under section 9JA of the 2000 Act.
+
+(2) The local authority must ensure that its overview and scrutiny committee has power (or its overview and scrutiny committees, and any joint overview and scrutiny committees, have power between them)—
+
+- (a) to review or scrutinise decisions made, or other action taken, in connection with the discharge of any functions of the authority;
+- (b) to make reports or recommendations to—
+  - (i) the local authority;
+  - (ii) any committee or sub-committee of the local authority;
+  - (iii) any officer of the authority; or
+  - (iv) any joint committee on which the local authority is represented or any sub-committee of such a committee,
+
+  with respect to the discharge of any functions of the local authority; and
+- (c) to make reports or recommendations to—
+  - (i) the local authority;
+  - (ii) any committee or sub-committee of the local authority;
+  - (iii) any officer of the authority; or
+  - (iv) any joint committee on which the local authority is represented or any sub-committee of such a committee,
+
+  on matters which affect the authority’s area or the inhabitants of that area.
+
+(3) In paragraph (2), “joint overview and scrutiny committee”, in relation to a local authority (“the authority concerned”), means—
+
+- (a)[^key-4c5649da28e5c1d3d03e7bdb62e0b6ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-7a59a0ebfb71f99ba88f4ad3cf19d87f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) a joint overview and scrutiny committee within the meaning of section 123 of the 2007 Act[^f00012] (joint overview and scrutiny committees) appointed by two or more local authorities including the authority concerned.
+
+(4) The power of an overview and scrutiny committee under paragraph (2)(a) to review or scrutinise a decision made but not yet implemented includes power—
+
+- (a) to recommend that the decision be reconsidered by the person who made it; or
+- (b) to arrange for its function under paragraph (2)(a), so far as it relates to the decision, to be exercised by the authority.
+
+(5)[^key-2012fbf9df634f0db8924c068f0eda7a] An overview and scrutiny committee of a local authority may not discharge any functions other than—
+
+- (a) its functions under this Part,
+- (b) its functions under section 19 of the 2006 Act (local authority scrutiny of crime and disorder matters), or
+- (c) any functions which may be conferred on it by virtue of regulations under section 244(2ZE) of the National Health Service Act 2006 (local authority scrutiny of health matters).
+
+### 5. Overview and scrutiny committees: supplementary provision[^key-de4d86cd459f6fea9af4ab608a184158]
+
+(1) An overview and scrutiny committee of a local authority—
+
+- (a) may appoint one or more sub-committees; and
+- (b) may arrange for the discharge of any of its functions by any such sub-committee.
+
+(2) A sub-committee of an overview and scrutiny committee may not discharge any functions other than those conferred on it in accordance with paragraph (1)(b).
+
+(3) An overview and scrutiny committee of a local authority, is to be treated;
+
+- (a) as a committee or a sub-committee of a principal council for the purposes of Part 5A of the 1972 Act (access to meetings and documents of certain authorities, committees and sub-committees); and
+- (b) as a body to which section 15 of the 1989 Act[^f00014] (duty to allocate seats to political groups) applies.
+
+(4) Subsections (2) and (5) of section 102 of the 1972 Act[^f00015] apply to an overview and scrutiny committee of a local authority, or a sub-committee of such a committee, as they apply to a committee appointed under that section.
+
+(5) An overview and scrutiny committee of a local authority, or any sub-committee of such a committee, may include persons who are not members of the authority, but subject to regulations 13 and 14, any such persons are not entitled to vote at any meeting of such a committee or sub-committee on any question which falls to be decided at that meeting, unless permitted to do so under regulation 11.
+
+(6) An overview and scrutiny committee of a local authority or a sub-committee of such a committee—
+
+- (a) may require members of the local authority, and officers of the authority, to attend before it to answer questions; and
+- (b) may invite other persons to attend meetings of the committee.
+
+(7) It is the duty of any member or officer mentioned in paragraph (6)(a) to comply with any requirement so mentioned.
+
+(8) A person is not obliged by paragraph (7) to answer any question which that person would be entitled to refuse to answer in or for the purposes of proceedings in a court in England and Wales.
+
+(9) In exercising, or deciding whether to exercise, any of its functions an overview and scrutiny committee of a local authority, or a sub-committee of such a committee, must have regard to any guidance for the time being issued by the Secretary of State.
+
+(10) Guidance under paragraph (9) may make different provision for different cases or for different descriptions of committee or sub-committee.
+
+### 6. Reference of matters to overview and scrutiny committees[^key-ae3f0981210c90423931f13cafeec9cc]
+
+(1) The local authority must ensure that it enables—
+
+- (a) any member of an overview and scrutiny committee of the authority to refer to the committee any matter which is relevant to the functions of the committee;
+- (b) any member of a sub-committee of an overview and scrutiny committee of the authority to refer to the sub-committee any matter which is relevant to the functions of the sub-committee; and
+- (c) any member of the authority to refer to an overview and scrutiny committee of the authority of which the member of the authority is not a member any matter which is relevant to the functions of the committee and is not an excluded matter.
+
+(2) For the purposes of paragraph (1), a local authority enables a person to refer a matter to a committee or sub-committee if it enables the person to ensure that the matter is included in the agenda for, and discussed at, a meeting of the committee or sub-committee.
+
+(3) In considering whether or not to exercise the power which they have by virtue of paragraph (1)(c) in any case, the member must have regard to guidance for the time being issued by the Secretary of State.
+
+(4) Guidance under paragraph (3) may make different provision for different cases.
+
+(5) Paragraphs (6) to (9) apply where a matter is referred to an overview and scrutiny committee by a member of a local authority in accordance with provision made pursuant to paragraph (1)(c).
+
+(6) In considering whether or not to exercise any of its powers under regulation 4(2) in relation to the matter, the committee may have regard to—
+
+- (a) any powers which the member may exercise in relation to the matter by virtue of section 236 of the 2007 Act (exercise of functions by local councillors in England); and
+- (b) any representations made by the member as to why it would be appropriate for the committee to exercise any of its powers under regulation 4(2) in relation to the matter.
+
+(7) If the committee decides not to exercise any of those powers in relation to the matter, it must notify the member of—
+
+- (a) its decision; and
+- (b) the reasons for it.
+
+(8) The committee must provide the member with a copy of any report or recommendations which it makes under regulation 4(2).
+
+(9) Paragraph (8) is subject to regulation 8.
+
+(10) In paragraph (1)(c) “excluded matter” means any matter which is—
+
+- (a) a local crime and disorder matter within the meaning of section 19 of the 2006 Act; or
+- (b) a matter of any description specified in an order made by the Secretary of State for the purposes of section 9FC of the 2000 Act.
+
+### 7. Duty of local authority to respond to overview and scrutiny committee[^key-3d096d7920c5eb365efd0c174d4a7c34]
+
+(1) This regulation applies where an overview and scrutiny committee makes a report or recommendation otherwise than—
+
+- (a) by virtue of subsection (1)(b) of section 19 of the 2006 Act; or
+- (b) by virtue of subsection (3)(a) of that section.
+
+(2) The overview and scrutiny committee may publish the report or recommendations.
+
+(3) The overview and scrutiny committee must by notice in writing require the local authority—
+
+- (a) to consider the report or recommendations;
+- (b) to respond to the overview and scrutiny committee indicating what (if any) action the local authority proposes to take; and
+- (c) if the overview and scrutiny committee has published the report or recommendations under paragraph (2), to publish the response.
+
+(4) The notice served under paragraph (3) must require the authority to comply with it within two months beginning with the date on which the local authority received the report or recommendations or (if later) the notice.
+
+(5) It is the duty of a local authority to which a notice is given under paragraph (3) to comply with the requirements specified in the notice.
+
+(6) Paragraphs (2) and (5) are subject to regulation 8.
+
+(7) In this regulation—
+
+- (a) “the local authority” means the local authority or a committee or sub-committee of the local authority, or a joint committee on which the local authority is represented or any sub-committee of such a committee, to whom the report or recommendations are made; and
+- (b) references to an overview and scrutiny committee include references to a sub-committee of such a committee.
+
+### 8. Confidential and exempt information[^key-3015d582d907774ef731c14124f30e0d]
+
+(1) This regulation applies to—
+
+- (a) the publication under regulation 7 of any document comprising—
+  - (i) a report or recommendations of an overview and scrutiny committee; or
+  - (ii) a response of a local authority to any such report or recommendations; and
+- (b) the provision of a copy of such a document—
+  - (i) to a member of a local authority; or
+  - (ii) to a relevant partner authority,
+
+  by an overview and scrutiny committee or a local authority.
+
+(2) The overview and scrutiny committee or the local authority, in publishing the document or providing a copy of the document to a relevant partner authority—
+
+- (a) must exclude any confidential information; and
+- (b) may exclude any relevant exempt information.
+
+(3) The overview and scrutiny committee, or the local authority, in providing a copy of a document to a member of the local authority, may exclude any confidential information or relevant exempt information.
+
+(4) Where information is excluded under paragraphs (2) or (3), the overview and scrutiny committee or the local authority, in publishing, or providing a copy of, the document—
+
+- (a) may replace so much of the document as discloses the information with a summary which does not disclose that information; and
+- (b) must do so if, in consequence of excluding the information, the document published, or copy provided, would be misleading or not reasonably comprehensible.
+
+(5) If by virtue of paragraphs (2), (3) or (4) an overview and scrutiny committee, in publishing or providing a copy of a report or recommendations—
+
+- (a) excludes information; or
+- (b) replaces part of the report or the recommendations with a summary,
+
+it is nevertheless to be taken for the purposes of regulation 7(2) to have published the report or recommendations.
+
+(6) In this regulation—
+
+- “confidential information” has the meaning given by section 100A(3) of the 1972 Act [^f00016](admission to meetings of principal councils);
+- “exempt information” has the meaning given by section 100I of that Act[^f00017]; and
+- “relevant exempt information” means—
+  - (a) in relation to a report or recommendations of an overview and scrutiny committee, exempt information of a description specified in a resolution of the overview and scrutiny committee under section 100A(4) of the 1972 Act which applied to the proceedings, or part of the proceedings, at any meeting of the overview and scrutiny committee at which the report was, or recommendations were, considered; and
+  - (b) in relation to a response of the authority, exempt information of a description specified in such a resolution of the authority which applied to the proceedings, or part of the proceedings, at any meeting of the authority at which the report or response was, or recommendations were, considered.
+
+(7) In this regulation, references to an overview and scrutiny committee include references to a sub-committee of such a committee.
+
+### 9. Relevant partner authorities: reports and recommendations[^key-29853d95d9840c8c84d5e78ecfea2493]
+
+(1) This regulation applies where—
+
+- (a) an overview and scrutiny committee makes a report or recommendation to the authority, otherwise than—
+  - (i) by virtue of subsection (1)(b) of section 19 of the 2006 Act; or
+  - (ii) by virtue of subsection (3)(a) of that section; and
+- (b) the report or any of the recommendations relates to the functions of a relevant partner authority so far as exercisable in relation to—
+  - (i) the authority’s area; or
+  - (ii) inhabitants of that area.
+
+(2) The overview and scrutiny committee may, by notice in writing, require that relevant partner authority to have regard to the report or recommendations in the exercise of its functions.
+
+(3) A notice under paragraph (2) must be accompanied by a copy of the report or recommendations.
+
+(4) It is the duty of the relevant partner authority to which a notice is given under paragraph (2) to comply with the requirement specified in the notice.
+
+(5) Paragraph (4) does not apply if—
+
+- (a) the relevant partner authority is a health service body; and
+- (b) either—
+  - (i) the relevant committee is a non-unitary district council committee or;
+  - (ii) by virtue of section 244 of the National Health Service Act 2006[^f00018], the report was, or the recommendations were, made to the health service body (as well as to the authority).
+
+(6) In paragraph (5) “health service body” means—
+
+- (a) a National Health Service Trust;
+- (aa)[^key-e491429c2f2afd6626e6e7311ab1ccc0] an integrated care board[^key-081cebeaf2157a907a5584afa9435a2d] ;
+- (ab) NHS England[^key-7cf6f8ae3f4f0a4df72597ff887e23ed]; or
+- (b) an NHS foundation trust; [^key-f47306cc26ef5a8e13a9e4bb39dfa7d9]...
+- (c)[^key-f47306cc26ef5a8e13a9e4bb39dfa7d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) A relevant partner authority must provide to an overview and scrutiny committee such information as that committee may reasonably require in order to discharge its functions which has been requested in writing.
+
+(7A)[^key-381b4a3993e4ae46aae6b7f6bae6c5a5] In paragraph (7) the reference to “information” does not include information in respect of which provision may be made in exercise of the power conferred by section 244(2)(d) or (e) of the National Health Service Act 2006.
+
+(8) A relevant partner authority may not provide to the overview and scrutiny committee—
+
+- (a) information that was obtained by the authority from any other person where the provision of that information to the committee by the authority would constitute a breach of confidence actionable by any person;
+- (b) information the disclosure of which would, or would be likely to, prejudice the exercise of the functions of the authority or the legitimate interests of any person (including the authority holding it);
+- (c) personal information within the meaning of the Data Protection Act 1998[^f00019], unless the disclosure is permitted by or under that Act; or
+- (d) other information the disclosure of which is prohibited by or under any enactment.
+
+(9) Where, but for this paragraph, the disclosure of information would be prohibited by paragraph (8)(c), the relevant partner authority must—
+
+- (a) revise it so that the individual concerned cannot be identified; and
+- (b) if satisfied that disclosure of the information in that revised form is permitted by or under the Data Protection Act 1998, and is not otherwise prohibited, disclose it.
+
+(10) In this regulation, references to an overview and scrutiny committee include references to a sub-committee of such a committee.
+
+### 10. Scrutiny officers[^key-f38f662733eeff30940f217b4716c736]
+
+(1) Subject as follows, where a local authority resolves to appoint one or more committees as its overview and scrutiny committee, it must designate one of its officers to discharge the functions in paragraph (2).
+
+(2) Those functions are—
+
+- (a) to promote the role of the local authority’s overview and scrutiny committee or committees;
+- (b) to provide support to the local authority’s overview and scrutiny committee or committees and the members of that committee or those committees;
+- (c) to provide support and guidance to—
+  - (i) members of the local authority; and
+  - (ii) officers of the local authority,
+
+  in relation to the functions of the local authority’s overview and scrutiny committee or committees.
+
+(3) An officer designated by a local authority under this regulation is to be known as the authority’s “scrutiny officer”.
+
+(4) A local authority may not designate any of the following under this regulation—
+
+- (a) the head of the authority’s paid service designated under section 4 of the 1989 Act[^f00020];
+- (b) the authority’s monitoring officer designated under section 5 of that Act[^f00021];
+- (c) the authority’s chief finance officer, within the meaning of section 5 of that Act[^f00022].
+
+(5) The duty in paragraph (1) does not apply to a district council for an area for which there is a county council.
+
+(6) In this regulation, references to an overview and scrutiny committee include references to a sub-committee of such a committee.
+
+## PART 4 — Overview and scrutiny committees: voting rights of co-opted members
+
+### 11. Voting rights of co-opted members[^key-00cdae69dfc1fe35c8996622efa9562c]
+
+(1) A local authority may permit a co-opted member of an overview and scrutiny committee of the authority to vote at meetings of the committee.
+
+(2) Permission under paragraph (1) may only be given in accordance with a scheme made by the local authority.
+
+(3) A scheme for the purposes of this regulation may include—
+
+- (a) provision for a maximum or minimum in relation to the number of co-opted members of an overview and scrutiny committee entitled to vote at meetings of the committee; and
+- (b) provision for giving effect to any maximum or minimum established under sub-paragraph (a).
+
+(4) The power to make a scheme for the purposes of this regulation includes power to vary or revoke such a scheme.
+
+(5) Paragraph 12 of Schedule A1 to the 2000 Act applies to a committee system local authority as it applies to a local authority operating executive arrangements.
+
+(6) In this regulation, references to a co-opted member, in relation to an overview and scrutiny committee of a local authority, are to a member of the committee who is not a member of the authority.
+
+### 12. Voting rights of co-opted members: publication of schemes[^key-cbc3c78168a2bffd3ede74fa943195cb]
+
+(1) A local authority which makes a scheme for the purposes of regulation 11 must, while the scheme is in force, make copies of it available at its principal office at all reasonable hours for inspection by members of the public.
+
+(2) If a local authority makes a scheme for the purposes of regulation 11, or varies or revokes such a scheme, it must as soon as reasonably practicable after doing so publish in such a manner as the local authority considers likely to bring to the attention of persons who live in the area of the local authority a notice which complies with this regulation.
+
+(3) In the case of the making of a scheme, the notice under paragraph (2) must—
+
+- (a) record the making of the scheme;
+- (b) describe what it does;
+- (c) state that copies of it are available for inspection at the principal office of the local authority; and
+- (d) specify—
+  - (i) the address of that office; and
+  - (ii) the times when the scheme is available for inspection there.
+
+(4) In the case of the variation of a scheme, the notice under paragraph (2) must—
+
+- (a) record the variation;
+- (b) describe what it does;
+- (c) state that copies of the scheme as varied are available for inspection at the principal office of the local authority; and
+- (d) specify—
+  - (i) the address of that office; and
+  - (ii) the times when the scheme is available for inspection there.
+
+(5) In the case of the revocation of a scheme, the notice under paragraph (2) must record the revocation.
+
+## PART 5 — Overview and scrutiny: education functions
+
+### 13. Church representatives[^key-f0d785bc5bc8b16a088c0380e82f6c9c]
+
+(1) In this regulation and regulation 14—
+
+- “education functions” has the meaning given by section 579(1) of the Education Act 1996[^f00023];
+- “education overview and scrutiny committee” means an overview and scrutiny committee or sub-committee of a relevant local authority, appointed under regulation 4 or 5, the functions of which relate wholly or partly to any education functions which are the responsibility of the authority;
+- “parent governor representative” means a person elected in accordance with regulations 4 to 6 of the Parent Governor Representatives (England) Regulations 2001[^f00024] or treated as so elected in accordance with regulation 13 of those Regulations; and
+- “relevant local authority” means a local authority which has education functions.
+
+(2) In the case of a relevant local authority which maintains one or more Church of England schools, an education overview and scrutiny committee must include at least one qualifying person.
+
+(3) A person is a qualifying person for the purposes of paragraph (2) if the person is nominated by the Diocesan Board of Education for any Church of England diocese which falls wholly or partly in the authority concerned’s area.
+
+(4) In the case of a relevant local authority which maintains one or more Roman Catholic Church schools, an education overview and scrutiny committee must include at least one qualifying person.
+
+(5) A person is a qualifying person for the purposes of paragraph (4) if the person is nominated by the bishop of any Roman Catholic diocese which falls wholly or partly in the authority concerned’s area.
+
+(6) A member of an education overview and scrutiny committee appointed by virtue of paragraph (2) or (4) is to be entitled to vote at a meeting of the committee or sub-committee on any question—
+
+- (a) which relates to any education functions which are the responsibility of the authority concerned; and
+- (b) which falls to be decided at the meeting.
+
+(7) The Secretary of State may by directions to a relevant local authority require any of the authority’s education overview and scrutiny committees or sub-committees to which this regulation applies to include persons who are appointed, in accordance with the directions, as representatives of the persons who appoint foundation governors for the foundation or voluntary schools maintained by the authority which are not Church of England schools or Roman Catholic Church schools but which are specified in the directions.
+
+(8) Directions under paragraph (7) may make provision with respect to the voting rights of persons appointed in accordance with such directions.
+
+### 14. Parent governor representatives[^key-b968bea763d368251b0ad6005d0bfe8b]
+
+Regulations 2 to 10 of the Parent Governor Representatives (England) Regulations 2001[^f00025] apply to a local authority which has appointed an education overview and scrutiny committee.
+
+## PART 6 — Revocation
+
+### 15. Revocation[^key-9c8a2511b4c0772324da497682365fd1]
+
+The Local Authorities (Alternative Arrangements) (England) Regulations 2001[^f00026] are revoked.
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Andrew Stunell
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+30th March 2012
+
+## SCHEDULE — Plans and strategies specified for the purposes of regulation 3[^key-83473cf4389d80e3cc058c98d87563cc]
+
+Regulation 3
+
+| *Description of plan or strategy*<br>*(1)* | *Provision of Act under which plan or strategy is prepared*<br>*(2)* |
+| --- | --- |
+| Annual library plan | Section 1(2) of the Public Libraries and Museums Act 1964[^f00027] |
+| Crime and disorder reduction strategy | Sections 5 and 6 of the Crime and Disorder Act 1998[^f00028] |
+| Documents which are to be or form part of minerals and waste plans, local plans and supplementary plans[^key-1c74f70aeaa20724d3f97df6359b4bb9] | Part 2[^key-66bf25608cffddf32fa82a59ddf8abc8] of the Planning and Compulsory Purchase Act 2004[^f00029] |
+| Licensing authority policy statement | Section 349 of the Gambling Act 2005[^f00030] |
+| Local transport plan | Section 108(3) of the Transport Act 2000[^f00031] |
+| [^key-25eb27f8a2fcbbd6749274403310b1fe]. . . | [^key-14fbfabd468a1284cf4290daaf23dba6]. . . |
+| Sustainable community strategy | Section 4 of the 2000 Act |
+| Youth justice plan | Section 40 of the Crime and Disorder Act 1998[^f00034] |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations apply to county councils in England, district councils and London borough councils which are operating the committee system under Part 1A of the Local Government Act 2000. Section 9B of the 2000 Act sets out the permitted forms of governance for local authorities in England and the committee system is one of the options. Section 9J allows the Secretary of State to prohibit the delegation of certain functions by committee system local authorities. Section 9JA permits committee system local authorities to establish one or more overview and scrutiny committees and empowers the Secretary of State to make provision, in regulations, about the functions, composition and procedure of such a committee.
+
+Part 2 of these Regulations specifies the functions which cannot be delegated by a committee system local authority and therefore must be carried out by the full council of the authority. Parts 3 to 5 deal with overview and scrutiny committees within committee system local authorities.
+
+Regulation 3 and the Schedule to the Regulations set out the functions which cannot be delegated to any officer, committee or sub-committee of the authority, except to the extent specifically mentioned in the regulation.
+
+Regulations 4 and 5 make provision for overview and scrutiny committees in committee system local authorities which have resolved to have one or more such committee. These regulations largely reflect the position under sections 9F and 9FA of the Local Government Act 2000 which apply to local authorities operating executive arrangements.
+
+Regulation 6 makes provision for dealing with references of matters to overview and scrutiny committees by members of the authority, including those who are not members of that overview and scrutiny committee.
+
+Regulation 7 imposes a duty on local authorities to respond to reports and recommendations of overview and scrutiny committees and regulation 8 prevents the publication or supply of any information which contains confidential or exempt information by overview and scrutiny committees or the local authority.
+
+Regulation 9 makes provision in relation to relevant partner authorities and regulation 10 imposes a duty on certain committee system local authorities to designate a scrutiny officer, where that authority has opted to appoint one or more overview and scrutiny committees.
+
+Regulations 11 and 12 make provision for local authorities to produce voting schemes for co-opted members, and set out the publication requirements in relation to such schemes.
+
+Regulation 13 provides for the representation of church nominees on education overview and scrutiny committees. Regulation 14 applies the Parent Governor Representatives (England) Regulations 2001 to committee system local authorities to allow for the representation of parent governors on education overview and scrutiny committees.
+
+A full impact assessment has not been produced in relation to these Regulations as no impact on the private and voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22). Sections 9J and 9JA were inserted into the Local Government Act 2000 by section 21 of, and Schedule 2 to, the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20). Schedule 2 to the 2011 Act inserted a new Part 1A, applying to England only, into the 2000 Act. Section 105 was amended by section 100(3) of, and Schedule 3 to, the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26), and by section 191(5) of the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28); and paragraph 70 of Schedule 3 to the Localism Act 2011.
+
+[^key-804bbddad7a0ea2162e458c1523f6532]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/1020) continued (temp.) (25.3.2026) by [The Levelling-up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026 (S.I. 2026/169)](https://www.legislation.gov.uk/uksi/2026/169), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1)
+
+[^key-51186ee40bb8fb406fb3f1ba1a5f0158]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+
+[^key-21c0efc902dc4ce378c2e75dd4da8bc2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/1020/regulation/2) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+
+[^f00002]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^f00003]: Footnote: [1989 c.42](https://www.legislation.gov.uk/ukpga/1989/42).
+
+[^f00004]: Footnote: [2006 c.48](https://www.legislation.gov.uk/ukpga/2006/48).
+
+[^f00005]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28).
+
+[^f00006]: Footnote: Section 9FF was inserted into the 2000 Act by section 21 of, and Schedule 2 to, the Localism Act 2011.
+
+[^key-060ba753e38c084ae1c52357aaf602fc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/1020/regulation/3) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+
+[^f00007]: Footnote: Section 101 was amended by section 30 of, and Schedule 10 to, the Health and Social Services and Social Security Adjudications Act [1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41); sections 84 and 102 of, and Schedules 14 and 17 to, the Local Government Act [1985 (c.51)](https://www.legislation.gov.uk/ukpga/1985/51); the Statute Law (Repeals) Act [1986 (c.12)](https://www.legislation.gov.uk/ukpga/1986/12); section 237 of, and Schedule 13 to, the Education Reform Act [1988 (c.40)](https://www.legislation.gov.uk/ukpga/1988/40); sections 45(5) and 194 of, and Schedule 12 to, the 1989 Act; section 307 of, and Schedules 19 and 21 to, the Education Act [1993 (c.35)](https://www.legislation.gov.uk/ukpga/1993/35); section 93 of, and Schedule 9 to, the Police and Magistrates’ Courts Act [1994 (c.29)](https://www.legislation.gov.uk/ukpga/1994/29); section 66(5) of, and Schedule 15 to, the Local Government (Wales) Act [1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19); section 120 of, and Schedule 24 to, the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25); section 332(1) of the Greater London Authority Act [1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29); section 198 of, and Schedule 6 to, the Licensing Act [2003 (c.17)](https://www.legislation.gov.uk/ukpga/2003/17); section 64 of, and Schedule 5 to, the Children Act [2004 (c.31)](https://www.legislation.gov.uk/ukpga/2004/31); section 209 of, and Schedule 6 to the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28); section 224 of the Planning Act [2008 (c.29)](https://www.legislation.gov.uk/ukpga/2008/29); section 119 of, and Schedule 6 to, the Local Democracy, Economic Development and Construction Act [2009 (c.20)](https://www.legislation.gov.uk/ukpga/2009/20); section 321 of, and Schedule 22 to, the Marine and Coastal Access Act [2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23); section 99 of, and Schedule 16 to, the Police Reform and Social Responsibility Act [2011 (c.13)](https://www.legislation.gov.uk/ukpga/2011/13); section 22 of, and Schedule 3 to, the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20); (in relation to England) [S.I. 2001/1517](https://www.legislation.gov.uk/uksi/2001/1517); and [S.I. 2009/1375](https://www.legislation.gov.uk/uksi/2009/1375).
+
+[^f00008]: Footnote: Section 18 was amended by section 43 of, and Schedule 4 to, the Police and Magistrates’ Courts Act 1994; section 582(1) of, and Schedule 37 to, the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56); section 99 of the Local Government Act 2000.
+
+[^f00009]: Footnote: [2009 c.20](https://www.legislation.gov.uk/ukpga/2009/20). Section 57 was amended by section 24 of the Localism Act 2011.
+
+[^f00010]: Footnote: Section 86 was amended by section 67(1) of, and Schedule 4 to, the Local Democracy, Economic Development and Construction Act [2009 (c.20)](https://www.legislation.gov.uk/ukpga/2009/20).
+
+[^key-4eb0e07fb19024e6105e02e0a78336a4]: Textual amendment: Word in [reg. 3(9)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/3/9) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2026/170/regulation/12/2/a)
+
+[^key-f44fe081ef794c1ed15e074b28e10e0c]: Textual amendment: Word in [reg. 3(10)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/3/10) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2026/170/regulation/12/2/b)
+
+[^key-ec46069a25efdbe6e14b6d9f9a0f7480]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/1020/regulation/4) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+
+[^key-4c5649da28e5c1d3d03e7bdb62e0b6ba]: Textual amendment: [Reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/4/3/a) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 172(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/172/2/a/i)
+
+[^key-7a59a0ebfb71f99ba88f4ad3cf19d87f]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/4/3/b) and word omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 172(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/172/2/a/ii)
+
+[^f00012]: Footnote: Section 123 was substituted by section 32(1) of the Local Democracy, Economic Development and Construction Act 2009.
+
+[^key-2012fbf9df634f0db8924c068f0eda7a]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/4/5) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 172(2)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/172/2/b)
+
+[^key-de4d86cd459f6fea9af4ab608a184158]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/1020/regulation/5) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+
+[^f00014]: Footnote: Section 15 is modified by the Local Government (Committees and Political Groups) Regulations 1990 ([S.I. 1990/1553](https://www.legislation.gov.uk/uksi/1990/1553)), Regulation 16.
+
+[^f00015]: Footnote: Section 102(2) was amended (in relation to England) by [S.I. 2001/1517](https://www.legislation.gov.uk/uksi/2001/1517); section 194 (1) of, and Schedule 11 to, the 1989 Act.
+
+[^key-ae3f0981210c90423931f13cafeec9cc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/1020/regulation/6) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+
+[^key-3d096d7920c5eb365efd0c174d4a7c34]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/1020/regulation/7) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+
+[^key-3015d582d907774ef731c14124f30e0d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/1020/regulation/8) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+
+[^f00016]: Footnote: Section 100A was inserted by section 1(1) of the Local Government (Access to Information) Act [1985 (c.43)](https://www.legislation.gov.uk/ukpga/1985/43) and subsequently amended by [S.I. 2002/715](https://www.legislation.gov.uk/uksi/2002/715).
+
+[^f00017]: Footnote: Section 100I was inserted by section 1(1) of the Local Government (Access to Information) Act 1985, and subsequently amended by [S.I. 2006/88](https://www.legislation.gov.uk/uksi/2006/88).
+
+[^key-29853d95d9840c8c84d5e78ecfea2493]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/1020/regulation/9) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+
+[^f00018]: Footnote: Section 244 was amended by section 121(4) of the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28); section 22 of, and Schedule 3 to, the Localism Act 2011.
+
+[^key-e491429c2f2afd6626e6e7311ab1ccc0]: Textual amendment: [Reg. 9(6)(aa)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/9/6/aa)[(ab)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/9/6/ab) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 172(3)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/172/3/a)
+
+[^key-081cebeaf2157a907a5584afa9435a2d]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/1020) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+
+[^key-7cf6f8ae3f4f0a4df72597ff887e23ed]: Textual amendment: Words in reg. 9 substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^key-f47306cc26ef5a8e13a9e4bb39dfa7d9]: Textual amendment: [Reg. 9(6)(c)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/9/6/c) and word omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 172(3)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/172/3/b)
+
+[^key-381b4a3993e4ae46aae6b7f6bae6c5a5]: Textual amendment: [Reg. 9(7A)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/9/7A) inserted (1.4.2013) by [The Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) Regulations 2013 (S.I. 2013/218)](https://www.legislation.gov.uk/uksi/2013/218), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/33/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2013/218/regulation/34))
+
+[^f00019]: Footnote: [1998 c.29](https://www.legislation.gov.uk/ukpga/1998/29).
+
+[^key-f38f662733eeff30940f217b4716c736]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/1020/regulation/10) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+
+[^f00020]: Footnote: Section 4 was amended by section 119 of, and Schedule 6 to, the Local Democracy, Economic Development and Construction Act 2009.
+
+[^f00021]: Footnote: Section 5 was amended by section [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237) (in relation to England); section 107 of, and Schedule 5 to, the 2000 Act; section 52 of, and Schedule 14 to, the Police and Justice Act 2006.
+
+[^f00022]: Footnote: Section 5(8) was amended by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237); section 132 of the Greater London Authority Act [1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29); section 321 of, and Schedule 22 to, the Marine and Coastal Access Act [2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^key-00cdae69dfc1fe35c8996622efa9562c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/1020/regulation/11) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+
+[^key-cbc3c78168a2bffd3ede74fa943195cb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/1020/regulation/12) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+
+[^key-f0d785bc5bc8b16a088c0380e82f6c9c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/1020/regulation/13) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+
+[^f00023]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). The definition of “education functions” in section 579(1) was inserted by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^f00024]: Footnote: [S.I. 2001/478](https://www.legislation.gov.uk/uksi/2001/478). Regulations 4 to 6 were amended by [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172).
+
+[^key-b968bea763d368251b0ad6005d0bfe8b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/1020/regulation/14) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+
+[^f00025]: Footnote: Regulation 2 was amended by [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172) and [S.I. 2003/2045](https://www.legislation.gov.uk/uksi/2003/2045). Regulations 3 to 9 inclusive were amended by [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172).
+
+[^key-9c8a2511b4c0772324da497682365fd1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/1020/regulation/15) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+
+[^f00026]: Footnote: [S.I. 2001/1299](https://www.legislation.gov.uk/uksi/2001/1299).
+
+[^key-83473cf4389d80e3cc058c98d87563cc]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2012/1020/schedule) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+
+[^f00027]: Footnote: [1964 c.75](https://www.legislation.gov.uk/ukpga/1964/75).
+
+[^f00028]: Footnote: [1998 c.37](https://www.legislation.gov.uk/ukpga/1998/37). Section 5 was amended by sections 97 and 107 of, and Schedule 8 to, the Police Reform Act [2002 (c.30)](https://www.legislation.gov.uk/ukpga/2002/30); section 32 of, and Schedule 2 to, the Civil Contingencies Act [2004 (c.36)](https://www.legislation.gov.uk/ukpga/2004/36); section 53 of, and Schedule 1 to, the Fire and Rescue Service Act [2004 (c.21)](https://www.legislation.gov.uk/ukpga/2004/21); sections 21 and 22 of, and Schedule 9 to, the Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48); [S.I. 2007/961](https://www.legislation.gov.uk/uksi/2007/961), and [S.I. 2008/912](https://www.legislation.gov.uk/uksi/2008/912). Section 6 was substituted by section 22 of, and Schedule 9 to, the Police and Justice Act 2006 and was amended by section 108 of the Policing and Crime Act [2009 (c.26)](https://www.legislation.gov.uk/ukpga/2009/26).
+
+[^key-1c74f70aeaa20724d3f97df6359b4bb9]: Textual amendment: Words in Sch. substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [12(3)(a)](https://www.legislation.gov.uk/uksi/2026/170/regulation/12/3/a)
+
+[^key-66bf25608cffddf32fa82a59ddf8abc8]: Textual amendment: Words in Sch. substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [12(3)(b)](https://www.legislation.gov.uk/uksi/2026/170/regulation/12/3/b)
+
+[^f00029]: Footnote: [2004 c.4](https://www.legislation.gov.uk/ukpga/2004/4). Section 15 was amended by section 30 of the Greater London Authority Act [2007 (c.24)](https://www.legislation.gov.uk/ukpga/2007/24); section 180 of, and Schedule 13 to, the Planning Act [2008 (c.29)](https://www.legislation.gov.uk/ukpga/2008/29) and by sections 111 and 237 of, and Schedule 25 to, the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20).
+
+[^f00030]: Footnote: [2005 c.19](https://www.legislation.gov.uk/ukpga/2005/19).
+
+[^f00031]: Footnote: [2000 c.38](https://www.legislation.gov.uk/ukpga/2000/38). Section 108(3) was substituted by section 9 of the Local Transport Act [2008 (c.26)](https://www.legislation.gov.uk/ukpga/2008/26).
+
+[^key-25eb27f8a2fcbbd6749274403310b1fe]: Textual amendment: Words in Sch. omitted (25.3.2026) by virtue of [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [12(3)(c)](https://www.legislation.gov.uk/uksi/2026/170/regulation/12/3/c)
+
+[^key-14fbfabd468a1284cf4290daaf23dba6]: Textual amendment: Words in Sch. omitted (25.3.2026) by virtue of [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [12(3)(d)](https://www.legislation.gov.uk/uksi/2026/170/regulation/12/3/d)
+
+[^f00034]: Footnote: [1998 c.37](https://www.legislation.gov.uk/ukpga/1998/37). Subsection (1) is disapplied in part in relation to England by [S.I. 2005/157](https://www.legislation.gov.uk/uksi/2005/157).

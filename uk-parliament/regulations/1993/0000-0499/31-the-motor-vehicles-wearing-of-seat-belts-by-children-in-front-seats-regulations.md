@@ -1,0 +1,324 @@
+---
+title: The Motor Vehicles (Wearing of Seat Belts by Children in Front Seats) Regulations 1993
+id: uksi/1993/31
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1993-01-11'
+text_date: '2020-12-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1993/31
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1993/31/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Motor Vehicles (Wearing of Seat Belts by Children in Front Seats) Regulations 1993
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1993 No. 31
+
+ROAD TRAFFIC
+
+The Motor Vehicles (Wearing of Seat Belts by Children in Front Seats) Regulations 1993
+
+Made
+
+11th January 1993
+
+Laid before Parliament
+
+12th January 1993
+
+Coming into force
+
+2nd February 1993
+
+The Secretary of State for Transport, in exercise of the powers conferred by section 15(1), (5), (5A) and (6) of the Road Traffic Act 1988[^f00001], and all other enabling powers, and after consultation with representative organisations in accordance with section 195(2) of that Act, hereby makes the following Regulations:—
+
+## 1. Citation, commencement and revocations[^key-e8640c7b55462909c668d34d8b4cfd1f]
+
+(1) These Regulations may be cited as the Motor Vehicles (Wearing of Seat Belts by Children in Front Seats) Regulations 1993 and shall come into force on 2nd February 1993.
+
+(2) The Motor Vehicles (Wearing of Seat Belts by Children) Regulations 1982[^f00002] are hereby revoked.
+
+## 2. General interpretation[^key-4a33970868e41753247479b75f0d5994]
+
+(1) In these Regulations—
+
+- “the Act” means the Road Traffic Act 1988;
+- “Construction and Use Regulations” means the Road Vehicles (Construction and Use) Regulations 1986[^f00003];
+- “front seat”, in relation to a vehicle, means a seat which is wholly or partially in the front of the vehicle and “rear seat”, in relation to a vehicle, means any seat which is not a front seat (see also regulation 4);
+- “maximum laden weight” has the meaning given by Part IV of Schedule 6 to the Road Traffic Regulation Act 1984[^f00004];
+- “medical certificate” has the meaning given in Schedule 1 to these Regulations;
+- “restraint system” means a system combining a seat fixed to the structure of the vehicle by appropriate means and a seat belt for which at least one anchorage point is located on the seat structure;
+- “seat belt”, except in this Regulation, includes a child restraint and references to wearing a seat belt shall be construed accordingly;
+- “disabled person’s belt”, “lap belt”, “seat”, and “three point belt” have the meanings given by regulation 47(8) of the Construction and Use Regulations.
+
+(2) Without prejudice to section 17 of the Interpretation Act 1978[^f00005], a reference to a provision of the Construction and Use Regulations is a reference to that provision as from time to time amended or as from time to time re-enacted with or without modification.
+
+(3) In these regulations—
+
+- “child” means a person under the age of 14 years;
+- “large child” means a child who is not a small child; and
+- “small child” means a child who is—
+  - (a) aged under 12 years; and
+  - (b) under 150 centimetres in height.
+
+(4) In these Regulations, “adult belt” means a seat belt in respect of which one or more of the following requirements is satisfied, namely that—
+
+- (a) it is a three-point belt which has been marked in accordance with regulation 47(7) of the Construction and Use Regulations;
+- (b) it is a lap belt which has been so marked;
+- (c) it is a seat belt that falls within regulation 47(4)(c)(i) or (ii) of those Regulations;
+- (d) it is a seat belt fitted in a relevant vehicle (“the vehicle in question”) and comprised in a restraint system—
+  - (i) of a type which has been approved by an authority of a member State[^key-148931644b1e7bc864733fce801f0ad8] for use by all persons who are either aged 13 years or more or of150 centimetres or more in height, and
+  - (ii) in respect of which, by virtue of such approval, the requirements of the law of a member State corresponding to these Regulations would be met were it to be worn by persons who are either aged 13 years or more or of150 centimetres or more in height when travelling in the vehicle in question in that State.
+
+(5) In these Regulations, “child restraint” means a seat belt or other device in respect of which the following requirements are satisfied, namely that—
+
+- (a) it is a seat belt or any other description of restraining device for the use of a child which is—
+  - (i) designed either to be fitted directly to a suitable anchorage or to be used in conjunction with an adult belt and held in place by the restraining action of that belt, and
+  - (ii) marked in accordance with regulation 47(7) of the Construction and Use Regulations or marked in accordance with paragraphs 4, 5.4 and 5.6 of Regulation Number 129 of the Economic Commission for Europe of the United Nations on uniform provisions concerning the approval of enhanced Child Restraint Systems used on board of motor vehicles[^key-7d8eee2de7db2bda203bcc0ea5f660c3]; or
+- (b) it is a seat belt consisting of or comprised in a restraint system fitted in a relevant vehicle (“the vehicle in question”), being a restraint system—
+  - (i) of a type which has been approved by an authority of a member State for use by a child, and
+  - (ii) in respect of which, by virtue of such approval, the requirements of the law of that State corresponding to these Regulations would be met were it to be worn by a child when travelling in the vehicle in question in that State.
+
+(6) Subject to paragraph (7), for the purposes of these Regulations, a seat shall be regarded as provided with an adult belt if an adult belt is fixed in such a position that it can be worn by an occupier of that seat.
+
+(7) A seat shall not be regarded as provided with an adult belt if the belt—
+
+- (a) has an inertia reel mechanism which is locked as a result of the vehicle being, or having been, on a steep incline, or
+- (b) does not comply with the requirements of regulation 48 of the Construction and Use Regulations.
+
+(8) For the purposes of these Regulations, a seat shall be regarded as provided with a child restraint if a child restraint is—
+
+- (a) fixed in such a position that it can be worn by an occupier of that seat, or
+- (b) elsewhere in or on the vehicle but—
+  - (i) could readily be fixed in such a position without the aid of tools, and
+  - (ii) is not being worn by a child for whom it is appropriate and who is occupying another seat.
+
+(9) For the purposes of these Regulations, a seat belt is appropriate—
+
+- (a) in relation to a child aged under 3 years, if it is a child restraint of a description prescribed for a child of his height and weight by regulation 5;
+- (b) in relation to a child aged 3 years or more, if it is a child restraint of a description prescribed for a child of his height and weight by regulation 5 or is an adult belt; or
+- (c) in relation to a person aged 14 years or more, if it is an adult belt.
+
+(10) Unless the context otherwise requires, in these Regulations—
+
+- (a) any reference to a numbered regulation is a reference to the regulation bearing that number in these Regulations; and
+- (b) a numbered paragraph is a reference to the paragraph bearing that number in the regulation or Schedule in which the reference appears.
+
+## 3. Interpretation of references to relevant vehicles[^key-d1181fa595c1ce509634a51ecab23bbb]
+
+(1) In these Regulations, “relevant vehicle” means—
+
+- (a) a passenger car,
+- (b) a light goods vehicle, or
+- (c) a small bus.
+
+(2) For the purposes of this regulation—
+
+- “light goods vehicle” means a goods vehicle which—
+  - (a) has four or more wheels,
+  - (b) has a maximum design speed exceeding 25 kilometres per hour,
+  - (c) has a maximum laden weight not exceeding 3.5 tonnes;
+- “passenger car” has the same meaning as in section 15 of the Act;
+- “small bus” means a motor vehicle which—
+  - (a) is constructed or adapted for use for the carriage of passengers and is not a goods vehicle,
+  - (b) has more than 8 seats in addition to the driver’s seat,
+  - (c) has four or more wheels,
+  - (d) has a maximum design speed exceeding 25 kilometres per hour,
+  - (e) has a maximum laden weight not exceeding 3.5 tonnes, and
+  - (f) is not constructed or adapted for the carriage of standing passengers.
+
+## 4. Interpretation of references to the front of a vehicle[^key-9526d70224ed42b30548b922ffe534c9]
+
+(1) This regulation has effect for the purpose of defining in relation to a vehicle what part of the vehicle is to be regarded as the front of the vehicle for the purposes of section 15(1) of the Act and these Regulations.
+
+(2) Subject to paragraph (3), every part of the vehicle forward of the transverse vertical plane passing through the rearmost part of the driver’s seat shall be regarded as the front of the vehicle; and accordingly no part of the vehicle to the rear of that plane shall be regarded as being in the front of the vehicle.
+
+(3) Where a vehicle has a deck which is above the level of the driver’s head when he is in the normal driving position, no part of the vehicle above that level shall be regarded as being in the front of the vehicle.
+
+## 5. Description of seat belts to be worn by children[^key-7dac11aa4c0736e242d9ba45f61c7b87]
+
+(1) For a child of any particular height and weight travelling in a particular vehicle, the description of seat belt prescribed for the purposes of section 15(1) of the Act to be worn by him is—
+
+- (a) if he is a small child and the vehicle is a relevant vehicle, a child restraint of a description specified in sub-paragraph (a) , (b) or (c)[^key-d281ca2ce95dbde47936c6b2ef926585] of paragraph (2);
+- (b) if he is a small child and the vehicle is not a relevant vehicle, a child restraint of a description specified in sub-paragraph (a) of paragraph (2);
+- (c) if he is a large child, a child restraint of a description specified in sub-paragraph (a) or (c)[^key-cde0ed0a0b24c2e2f0f8c90550948f24] of paragraph (2) or an adult belt.
+
+(2) The descriptions of seat belt referred to in paragraph (1) are—
+
+- (a) a child restraint with the marking required under regulation 47(7) of the Construction and Use Regulations if the marking indicates that it is suitable for his weight and either indicates that it is suitable for his height or contains no indication as respects height;
+- (b) a child restraint which would meet the requirements of the law of a member State[^key-9b2a70553dc4fc39d1f72ded29186419] corresponding to these Regulations were it to be worn by that child when travelling in that vehicle in that State.
+- (c)[^key-13ac089cb2f2f99e4ae01cbcbd384a7d] a child restraint with markings required under paragraphs 4, 5.4 and 5.6 of Regulation Number 129 of the Economic Commission for Europe of the United Nations on uniform provisions concerning the approval of enhanced Child Restraint Systems used on board of motor vehicles if the markings indicate that it is suitable for his height, weight and age.
+
+## 6. Vehicles to which section 15(1) of the Act does not apply[^key-cb7ee46fd6b19af44eeb09c08a7deb1e]
+
+—Two-wheeled motor cycles with or without sidecars are exempt from the prohibition in section 15(1) of the Act.
+
+## 7. Exemptions[^key-e1331568236075d6042fdff4a26135b9]
+
+(1) The prohibition in section 15(1) of the Act shall not apply in relation to—
+
+- (a) a small child aged 3 years or more if a seat belt of a description prescribed by regulation 5 for a small child of his height and weight is not available for him in the front or rear of the vehicle and he is wearing an adult belt;
+- (b) a child for whom there is a medical certificate;
+- (c) a child aged under 1 year in a carry cot provided that the carry cot is restrained by straps;
+- (d) a disabled child who is wearing a disabled person’s belt; or
+- (e) a child riding in a motor car first used before 1st January 1965 if—
+  - (i) the vehicle has no rear seat, and
+  - (ii) apart from the driver’s seat, no seat in the vehicle is provided with a seat belt which is appropriate for that child,
+
+  and for the purposes of this paragraph, the date on which a vehicle is first used shall be determined in accordance with regulation 3(3) of the Construction and Use Regulations.
+
+(2) The prohibition in section 15(1) of the Act shall not apply in relation to a child riding in a vehicle which—
+
+- (a) is being used to provide a local service within the meaning of the Transport Act 1985[^f00006]; and
+- (b) is neither a motor car nor a passenger car.
+
+(3) The prohibition in section 15(1) of the Act shall not apply in relation to a large child if no appropriate seat belt is available for him in the front of the vehicle.
+
+(4) For the purposes of this regulation, a reference to a seat belt being available shall be construed in accordance with Schedule 2.
+
+Signed by authority for the Secretary of State.
+
+Kenneth Carlisle
+
+Parliamentary Under Secretary of State,
+
+Department of Transport
+
+## SCHEDULE 1 — MEANING OF “MEDICAL CERTIFICATE”
+
+Regulation 2(1)
+
+### PART I
+
+**1.**[^key-a8675d62e309f4d0c6ec9d896fc5d5ad] Subject to paragraph 2, in these Regulations, “medical certificate”, in relation to a person driving or riding in a vehicle, means—
+
+- (a) a valid certificate signed by a medical practitioner to the effect that it is inadvisable on medical grounds for him to wear a seat belt, or
+- (b) a valid certificate to such effect issued by the authority having power to issue such a certificate under the law of a member State[^key-9a1ee0490d8d23feb402a9cf1a07fcb2] corresponding to these Regulations.
+
+**2.**[^key-61fffc020676e6fb023dd5c136417ad1] A certificate shall not be regarded as a medical certificate in relation to a person driving or riding in a vehicle for the purposes of these Regulations unless—
+
+- (a) it specifies its period of validity and bears the symbol shown in Part II of this Schedule; or
+- (b) the person is aged under 14 years and the vehicle is not a relevant vehicle.
+
+**3.**[^key-ec099c72c26bebcd24f3927aa6a53fc3] Paragraph 2 does not apply in relation to a certificate issued before 1st January 1995.
+
+### PART II — (see paragraph 2(a) in Part I of this Schedule)[^key-952976f3ffb4ab0f1b6a36799247b460]
+
+[image: see source](https://www.legislation.gov.uk/uksi/1993/31/images/uksi_19930031_en_001)
+
+## SCHEDULE 2 — INTERPRETATION OF REFERENCE TO AVAILABILITY OF SEAT BELTS
+
+Regulation 7(4)
+
+**1.**[^key-52f765e291daca4a025071f0e19456d4] For the purposes of these Regulations, in relation to a child riding in a vehicle,—
+
+- (a) if any front seat in the vehicle (other than the driver’s seat) is provided with an adult belt, that belt shall be regarded as being available for him in the front of the vehicle unless the requirements of paragraph 2 are satisfied in relation to that person, that seat and that belt; and
+- (b) if any rear seat in the vehicle is provided with an adult belt, that belt shall be regarded as being available for him in the rear of the vehicle unless the requirements of paragraph 2 are satisfied in relation to that person, that seat and that belt.
+
+**2.**[^key-a596b937746827f312d99ae511212630] The requirements of this paragraph are satisfied in relation to a particular child (“the child in question”) and a particular seat (“the relevant seat”) provided with a particular seat belt (“the relevant belt”) if—
+
+- (a) another person is wearing the relevant belt;
+- (b) another child is occupying the relevant seat and wearing a child restraint which is an appropriate child restraint for that child;
+- (c) another person, being a person holding a medical certificate, is occupying the relevant seat;
+- (d) a disabled person (not being the child in question) is occupying the relevant seat and wearing a disabled person’s belt;
+- (e) by reason of his disability, it would not be practicable for the child in question to wear the relevant belt;
+- (f) the child in question is prevented from occupying the relevant seat by the presence of a carry cot which is restrained by straps and in which there is a child aged under 1 year;
+- (g) the child in question is prevented from occupying the relevant seat by the presence of a child restraint which could not readily be removed without the aid of tools; or
+- (h) the relevant seat is specially designed so that—
+  - (i) its configuration can be adjusted in order to increase the space in the vehicle available for goods or personal effects, and
+  - (ii) when it is so adjusted the seat cannot be used as such,
+
+  and the configuration is adjusted in the manner described in sub-paragraph (i) above and it would not be reasonably practicable for the goods and personal effects being carried in the vehicle to be so carried were the configuration not so adjusted.
+
+**3.**[^key-cc15e9fed2958e414c2e5f06022a9f92] Paragraphs 2(b) and (d) shall not apply unless the presence of the other person renders it impracticable for the child in question to wear the relevant belt.
+
+**4.**[^key-4832e5d98210a2fe9c5ea6ecc3fcb29f] Paragraph 2(f) shall not apply if it would be reasonably practicable for the carry cot to be carried in any other part of the vehicle where it could be restrained by straps so as to render it practicable for the child in question to wear the relevant belt.
+
+**5.**[^key-76bcdbbc329901e90443c0b510d9ba0e] Paragraph 2(g) shall not apply if the child restraint is appropriate for the child in question.
+
+(This note is not part of the Regulations)
+
+These Regulations make provisions relating to the wearing of seat belts and other restraints by children in the front of motor vehicles. They replace the Motor Vehicles (Wearing of Seat Belts by Children) Regulations 1982.
+
+These Regulations, and the Road Traffic Act 1988 (Amendment) Regulations 1992(S.I. [1992/3105](https://www.legislation.gov.uk/uksi/1992/3105)) partially implement Council Directive [91/671/EEC](https://www.legislation.gov.uk/european/directive/1991/0671). The Directive applies only to vehicles of less than 3.5 tonnes which have 4 or more wheels and a design speed of more than 25 km/h. It does not apply to passenger vehicles with more than 8 passenger seats if they are designed to carry standing passengers.
+
+Children are for the purposes of the Regulations divided into two categories. A small child is a child who is aged under 12 years and is under 150 centimetres in height. Any other child aged under 14 years is referred to as a large child.
+
+The main changes made by these Regulations are as follows:
+
+- (a) Previously a child could be carried in a seat beside the driver without a seat belt if every other seat was occupied. In future, it will, in general be unlawful to drive a vehicle with a small child in the front unless he is wearing a suitable restraint. In the case of a large child, the offence will be committed where and only where a suitable restraint is available in the front of the vehicle. For a small child aged 3 years or more an adult belt will be regarded as suitable only if no suitable child restraint is available in the vehicle. An adult belt as well as a suitable child restraint will always be regarded as suitable for a large child. Children in buses being used on a local service are exempt. There is also an exemption for certain cars first used before 1st January 1965.
+- (b) Previously the front seat wearing requirements applied only to vehicles that were required to be fitted with seat belts by the Road Vehicles (Construction and Use) Regulations 1986. They will now apply to all motor vehicles (other than motor bicycles).
+- (c) The prescribed description of seat belt in the case of vehicles within the scope of the Directive includes belts approved by other member States.
+- (d) As before there is an exemption for persons holding a certificate to the effect that it is inadvisable on medical grounds for him to wear a seat belt. Such a certificate will, if issued on or after 1st January 1995, have to state its period of validity and bear a specified symbol. The exemption is extended to holders of certificates issued under the law of another member state.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52); section 15 was amended by the Road Traffic Act 1988 (Amendment) Regulations 1992 (S.I. [1992/3105](https://www.legislation.gov.uk/uksi/1992/3105)).
+
+[^key-e8640c7b55462909c668d34d8b4cfd1f]: Commencement: Reg. 1 in force at 2.2.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/31/regulation/1/1)
+
+[^f00002]: Footnote: S.I. [1982/1342](https://www.legislation.gov.uk/uksi/1982/1342).
+
+[^key-4a33970868e41753247479b75f0d5994]: Commencement: Reg. 2 in force at 2.2.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/31/regulation/1/1)
+
+[^f00003]: Footnote: S.I. [1986/1078](https://www.legislation.gov.uk/uksi/1986/1078); relevant amending instruments are S.I. [1987/1133](https://www.legislation.gov.uk/uksi/1987/1133), [1989/1478](https://www.legislation.gov.uk/uksi/1989/1478) and [1991/2003](https://www.legislation.gov.uk/uksi/1991/2003).
+
+[^f00004]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
+
+[^f00005]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-148931644b1e7bc864733fce801f0ad8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1993/31/regulation/2) substituted (31.12.2020) by [The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512)](https://www.legislation.gov.uk/uksi/2019/512), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/512/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/512/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7d8eee2de7db2bda203bcc0ea5f660c3]: Textual amendment: Words in [reg. 2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/1993/31/regulation/2/5/a/ii) inserted (27.3.2015) by [The Motor Vehicles (Wearing of Seat Belts by Children in Front Seats) (Amendment) Regulations 2015 (S.I. 2015/402)](https://www.legislation.gov.uk/uksi/2015/402), [regs. 1](https://www.legislation.gov.uk/uksi/2015/402/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/402/regulation/3)
+
+[^key-d1181fa595c1ce509634a51ecab23bbb]: Commencement: Reg. 3 in force at 2.2.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/31/regulation/1/1)
+
+[^key-9526d70224ed42b30548b922ffe534c9]: Commencement: Reg. 4 in force at 2.2.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/31/regulation/1/1)
+
+[^key-7dac11aa4c0736e242d9ba45f61c7b87]: Commencement: Reg. 5 in force at 2.2.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/31/regulation/1/1)
+
+[^key-d281ca2ce95dbde47936c6b2ef926585]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/1993/31/regulation/5/1/a) substituted (27.3.2015) by [The Motor Vehicles (Wearing of Seat Belts by Children in Front Seats) (Amendment) Regulations 2015 (S.I. 2015/402)](https://www.legislation.gov.uk/uksi/2015/402), [regs. 1](https://www.legislation.gov.uk/uksi/2015/402/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2015/402/regulation/4/a)
+
+[^key-cde0ed0a0b24c2e2f0f8c90550948f24]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/1993/31/regulation/5/1/c) inserted (27.3.2015) by [The Motor Vehicles (Wearing of Seat Belts by Children in Front Seats) (Amendment) Regulations 2015 (S.I. 2015/402)](https://www.legislation.gov.uk/uksi/2015/402), [regs. 1](https://www.legislation.gov.uk/uksi/2015/402/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2015/402/regulation/4/b)
+
+[^key-9b2a70553dc4fc39d1f72ded29186419]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/1993/31/regulation/5) substituted (31.12.2020) by [The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512)](https://www.legislation.gov.uk/uksi/2019/512), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/512/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/512/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-13ac089cb2f2f99e4ae01cbcbd384a7d]: Textual amendment: [Reg. 5(2)(c)](https://www.legislation.gov.uk/uksi/1993/31/regulation/5/2/c) inserted (27.3.2015) by [The Motor Vehicles (Wearing of Seat Belts by Children in Front Seats) (Amendment) Regulations 2015 (S.I. 2015/402)](https://www.legislation.gov.uk/uksi/2015/402), [regs. 1](https://www.legislation.gov.uk/uksi/2015/402/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/402/regulation/5)
+
+[^key-cb7ee46fd6b19af44eeb09c08a7deb1e]: Commencement: Reg. 6 in force at 2.2.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/31/regulation/1/1)
+
+[^key-e1331568236075d6042fdff4a26135b9]: Commencement: Reg. 7 in force at 2.2.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/31/regulation/1/1)
+
+[^f00006]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67).
+
+[^key-a8675d62e309f4d0c6ec9d896fc5d5ad]: Commencement: Sch. 1 para. 1 in force at 2.2.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/31/regulation/1/1)
+
+[^key-9a1ee0490d8d23feb402a9cf1a07fcb2]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/31/schedule/1) substituted (31.12.2020) by [The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512)](https://www.legislation.gov.uk/uksi/2019/512), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/512/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/512/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-61fffc020676e6fb023dd5c136417ad1]: Commencement: Sch. 1 para. 2 in force at 2.2.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/31/regulation/1/1)
+
+[^key-ec099c72c26bebcd24f3927aa6a53fc3]: Commencement: Sch. 1 para. 3 in force at 2.2.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/31/regulation/1/1)
+
+[^key-952976f3ffb4ab0f1b6a36799247b460]: Commencement: Sch. 1 Pt. II in force at 2.2.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/31/regulation/1/1)
+
+[^key-52f765e291daca4a025071f0e19456d4]: Commencement: Sch. 2 para. 1 in force at 2.2.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/31/regulation/1/1)
+
+[^key-a596b937746827f312d99ae511212630]: Commencement: Sch. 2 para. 2 in force at 2.2.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/31/regulation/1/1)
+
+[^key-cc15e9fed2958e414c2e5f06022a9f92]: Commencement: Sch. 2 para. 3 in force at 2.2.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/31/regulation/1/1)
+
+[^key-4832e5d98210a2fe9c5ea6ecc3fcb29f]: Commencement: Sch. 2 para. 4 in force at 2.2.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/31/regulation/1/1)
+
+[^key-76bcdbbc329901e90443c0b510d9ba0e]: Commencement: Sch. 2 para. 5 in force at 2.2.1993, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/31/regulation/1/1)

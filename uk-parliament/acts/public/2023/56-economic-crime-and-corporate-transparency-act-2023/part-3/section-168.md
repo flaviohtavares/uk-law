@@ -1,0 +1,62 @@
+---
+title: Economic Crime and Corporate Transparency Act 2023, section 168
+act: Economic Crime and Corporate Transparency Act 2023
+section: '168'
+status: revised
+text_date: '2026-06-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/56/section/168
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Economic Crime and Corporate Transparency Act 2023, section 168
+
+> Text as at 2026-06-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 168. Protection of information[^key-971cdfd30d78fb28ea623f8f97215a58]
+
+*Extent: E+W+S+N.I.*
+
+For section 25 of the Economic Crime (Transparency and Enforcement) Act 2022 substitute—
+
+> **25. Power to make regulations protecting material**
+>
+> (1) The Secretary of State may by regulations make provision requiring the registrar, on application—
+>
+> - (a) not to make available for public inspection any information on the register relating to an individual;
+> - (b) to refrain from disclosing information on the register relating to an individual except in specified circumstances;
+> - (c) not to make available for public inspection any address on the register that is not information to which paragraph (a) applies;
+> - (d) to refrain from disclosing any such address except in specified circumstances.
+>
+> (2) The regulations may make provision as to—
+>
+> - (a) who may make an application;
+> - (b) the grounds on which an application may be made;
+> - (c) the information to be included in and documents to accompany an application;
+> - (d) the notice to be given of an application and of its outcome;
+> - (e) how an application is to be determined;
+> - (f) the duration of, and procedures for revoking, any restrictions on the making of information available for public inspection or its disclosure.
+>
+> (3) Provision under subsection (2)(e) or (2)(f) may in particular provide for a question to be referred to a person other than the registrar for the purposes of determining the application or revoking the restrictions.
+>
+> (4) Regulations under subsection (1)(a) or (1)(c) may provide that information is not to be made unavailable for public inspection unless the person to whom it relates provides such alternative information as may be specified.
+>
+> (5) The circumstances that may be specified under subsection (1)(b) or (d) by way of an exception to a restriction on disclosure include circumstances where the court has made an order, in accordance with the regulations, authorising disclosure.
+>
+> (6) Regulations under subsection (1)(b) or (d) may not require the registrar to refrain from disclosing information under section 1110F of the Companies Act 2006 (general powers of disclosure by the registrar).
+>
+> (7) Regulations under this section may impose a duty on the registrar to publish, in relation to such periods as may be specified—
+>
+> - (a) details of how many applications have been made under the regulations and how many of them have been allowed, and
+> - (b) such other details in connection with applications under the regulations as may be specified in the regulations.
+>
+> (8) Regulations under this section may in particular confer a discretion on the registrar.
+>
+> (9) Regulations under this section are subject to affirmative resolution procedure.
+
+## Annotations
+
+[^key-971cdfd30d78fb28ea623f8f97215a58]: Commencement: S. 168 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

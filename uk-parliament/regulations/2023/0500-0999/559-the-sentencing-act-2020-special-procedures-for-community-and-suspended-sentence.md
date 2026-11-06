@@ -1,0 +1,153 @@
+---
+title: The Sentencing Act 2020 (Special Procedures for Community and Suspended Sentence Orders) Regulations 2023
+id: uksi/2023/559
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2023-05-16'
+text_date: '2025-12-25'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2023/559
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2023/559/pdfs/uksiem_20230559_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2023/559/pdfs/uksi_20230559_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/559/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sentencing Act 2020 (Special Procedures for Community and Suspended Sentence Orders) Regulations 2023
+
+> Text as at 2025-12-25.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2023 No. 559
+
+Criminal Law, England And Wales
+
+The Sentencing Act 2020 (Special Procedures for Community and Suspended Sentence Orders) Regulations 2023
+
+Made
+
+16th May 2023
+
+Laid before Parliament
+
+22nd May 2023
+
+Coming into force
+
+26th June 2023
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 395A(1), (3), (4) and (5) of the Sentencing Act 2020[^f00001].
+
+## 1. Citation, commencement and extent[^key-c16a235a329a78a862f52241fb3dcccb]
+
+(1) These Regulations may be cited as the Sentencing Act 2020 (Special Procedures for Community and Suspended Sentence Orders) Regulations 2023.
+
+(2) These Regulations extend to England and Wales.
+
+(3) These Regulations come into force on 26th June 2023.
+
+## 2. Special procedures for community and suspended sentence orders[^key-21bbfa92c821081da4187dfe89a789a2]
+
+A community order[^f00002] or suspended sentence order[^f00003] qualifies for special procedures for the purposes of a relevant provision[^f00004] if the following four conditions are met.
+
+**3.**[^key-19b2285b1bb1d7ac78c0bdb82ddcb6f9] The first condition is that the proposed order is made within the period beginning with the day on which these Regulations come into force and ending with 31st March 2029[^key-c4938e624b19a24d0639e4e26e699b6d].
+
+**4.**[^key-5d41aa078a054e4da12c94baa0dce902] The second condition is that the court making the order is—
+
+- (a) Birmingham Magistrates’ Court,
+- (b) the Crown Court sitting at Liverpool, or
+- (c) the Crown Court sitting at Teesside Combined Court Centre.
+
+**5.**[^key-a1f947acf216cc48716cd4d82df59571] The third condition is that the person who is to be subject to the order is—
+
+- (a) a person aged 18 or over at the date of conviction of the offence to which the order relates,
+- (b) where the order is made by Birmingham Magistrates’ Court, a female person, and
+- (c) not a relevant offender as defined at section 80(2) of the Sexual Offences Act 2003[^f00005] at the date of conviction of the offence to which the order relates.
+
+**6.**[^key-f517d513efa1bb08400c382028ae1f5d] Subject to regulation 7 the fourth condition is that none of the offences to which the proposed order relates is—
+
+- (a) an offence under section 1 or section 1A of the Prevention of Crime Act 1953[^f00006],
+- (b) an offence under Part 1 of the Firearms Act 1968[^f00007],
+- (c) an offence under section 139, section 139A, section 139AA, section 141 or section 141A of the Criminal Justice Act 1988[^f00008],
+- (d) an offence under section 6 of the Offensive Weapons Act 2019[^f00009], or
+- (e) an offence listed in paragraphs 1 to 35C of Schedule 3 to the Sexual Offences Act 2003[^f00010].
+
+**7.**[^key-f345c0a7c7cf32f0af9d0fb792aa04ea] But the fourth condition will be met where—
+
+- (a) any of the offences to which the order is to relate is an offence under section 1 of the Prevention of Crime Act 1953 or section 139 or 139A of the Criminal Justice Act 1988,
+- (b) the person who is to be subject to the order has not previously been convicted of an offence mentioned in sub-paragraphs (a) to (d) of regulation 6, and
+- (c) the person who is to be subject to the order has not, before the date of conviction of the offence to which the order relates, been convicted of an offence mentioned in sub-paragraph (a) of this regulation.
+
+Damian Hinds
+
+Minister of State
+
+Ministry of Justice
+
+16th May 2023
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Sentencing Act 2020, as amended by the Police, Crime, Sentencing and Courts Act 2022, makes provision for special procedures to apply to community orders and suspended sentence orders in certain cases.
+
+The special procedures give both magistrates’ courts and the Crown Court the power to require regular reviews of community and suspended sentence orders in certain cases. A progress report will be produced by probation services for the review hearing and the court may make amendments to certain conditions of the order on considering the report and the outcome of the review discussion. Incentives may be ordered by varying the frequency of review hearings or altering other parts of the order to recognise positive progress. The court may find that a breach of the order has occurred in which case they may hold a breach hearing where they may make amendments to the order and may commit to custody for up to 28 days on no more than 3 occasions during the order.
+
+Section 395A of the Sentencing Act provides a power for regulations to specify the community or suspected sentence orders which may qualify for special procedures, including by reference to the courts by which the orders are made, the persons who are subject to the orders and the offence to which the orders relate. Since this is the first use of the power, these Regulations make provision for a period of 18 months from the date they come into force, during which orders may be made which qualify for special procedures.
+
+The Regulations provide that the courts which may make qualifying orders are the magistrates’ court sitting at Birmingham Magistrates’ Court, the Crown Court sitting in Liverpool and the Crown Court sitting at the Teesside Combined Court Centre.
+
+These Regulations detail certain eligible categories of individuals who may be made subject to an order qualifying for special procedures. The individual must be aged 18 or over at the date of conviction and in the Birmingham Magistrates’ Court they may only be a female person. Persons who are subject to notification requirements as defined at section 80(2) of the Sexual Offences Act 2003 at the date of conviction will not be eligible to be the subject of an order qualifying for special procedures.
+
+These Regulations also set out certain categories of offences where an order qualifying for special procedures cannot be made. These include sexual offences and weapons offences. Exception is made for first-time possession offences where these relate to knives or bladed weapons and the offender has not previously been convicted of a listed weapons offence or a possession of a knife or bladed article offence. In the case of first-time possession offences outlined above the court will retain discretion to consider the suitability of the person to take part in the pilot scheme.
+
+A specific need for a women-only pilot has been identified and an equality statement produced.
+
+A full impact assessment has not been produced for this instrument as no, or no significant impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17). Section 395A was inserted by section 153 of, and paragraphs (1) and (2) of Schedule 14 to, the Police, Crime, Sentencing and Courts Act [2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32).
+
+[^key-c16a235a329a78a862f52241fb3dcccb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/559/regulation/1) in force at 26.6.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/559/regulation/1/3)
+
+[^key-21bbfa92c821081da4187dfe89a789a2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/559/regulation/2) in force at 26.6.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/559/regulation/1/3)
+
+[^f00002]: Footnote: See section 200(1) of the Sentencing Act 2020 for the meaning of “community order”.
+
+[^f00003]: Footnote: See section 286(1) of the Sentencing Act 2020 for the meaning of “suspended sentence order”.
+
+[^f00004]: Footnote: See section 395A(2) of the Sentencing Act 2020 for the meaning of “relevant provision”.
+
+[^key-19b2285b1bb1d7ac78c0bdb82ddcb6f9]: Commencement: Reg. 3 in force at 26.6.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/559/regulation/1/3)
+
+[^key-c4938e624b19a24d0639e4e26e699b6d]: Textual amendment: Words in reg. 3 substituted (25.12.2025) by [The Sentencing Act 2020 (Special Procedures for Community and Suspended Sentence Orders) (Amendment) Regulations 2025 (S.I. 2025/1207)](https://www.legislation.gov.uk/uksi/2025/1207), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1207/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2025/1207/regulation/2)
+
+[^key-5d41aa078a054e4da12c94baa0dce902]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/559/regulation/4) in force at 26.6.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/559/regulation/1/3)
+
+[^key-a1f947acf216cc48716cd4d82df59571]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/559/regulation/5) in force at 26.6.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/559/regulation/1/3)
+
+[^f00005]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
+
+[^key-f517d513efa1bb08400c382028ae1f5d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/559/regulation/6) in force at 26.6.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/559/regulation/1/3)
+
+[^f00006]: Footnote: [1953 c. 14](https://www.legislation.gov.uk/ukpga/1953/14). Section 1 was amended by section 46(1) and (3) of the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), section 32(2) of the Magistrates’ Courts Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), section 2(1) and (4) of the Offensive Weapons Act [1996 (c. 26)](https://www.legislation.gov.uk/ukpga/1996/26), section 32(1) of the Criminal Law Act [1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45), sections 410 and 413 of, paragraph 6 of Schedule 24 to, and Schedule 28 to, the Sentencing Act [2020 (c.17)](https://www.legislation.gov.uk/ukpga/2020/17), section 28(1) and (2) of the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), section 119 of, and Part 1 of Schedule 7 to, the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60), and section 40(2) of, and paragraph 2 of Schedule 2 to, the Public Order Act [1986 (c. 64)](https://www.legislation.gov.uk/ukpga/1986/64). Section 1A was inserted by section 142(1) of the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) and was amended by section 50(1) to (3) of the Offensive Weapons Act [2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17) and [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149).
+
+[^f00007]: Footnote: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27). Part 1 was amended by section 33(3) of, and Part III of Schedule 3 to, the Theft Act [1968 (c. 60)](https://www.legislation.gov.uk/ukpga/1968/60), section 11(8) of, and Part I of the Schedule to, the Criminal Damage Act [1971 (c. 60)](https://www.legislation.gov.uk/ukpga/1971/60), section 56(2) of, and Schedule 9 to, the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), section 29 of the Criminal Justice Act [1972 (c. 71)](https://www.legislation.gov.uk/ukpga/1972/71), section 47 of, and paragraph 9 of Schedule 9 to, the Criminal Law Act [1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45), section 77 of, and paragraph 24 of Schedule 14 to, the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), sections 1(2), 2, 20 and 23(1) to (4) and (8) of the Firearms (Amendment) Act [1988 (c. 45)](https://www.legislation.gov.uk/ukpga/1988/45), section 123(6) and 170(2) of, paragraph 6 of Schedule 8 to, and Schedule 16 to, the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33) sections 1(1) and 2(1) of the Firearms (Amendment) Act [1994 (c. 31)](https://www.legislation.gov.uk/ukpga/1994/31), section 168(2) of, and paragraph 24(2)(a) and (b) of Schedule 10 to, the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33), section 35(2) of, and Part III of Schedule 7 to, the Armed Forces Act [1996 (c. 46)](https://www.legislation.gov.uk/ukpga/1996/46), sections 1, 10, 42(1), 52 and 53 of, paragraph 2 of Schedule 2 to, and Schedule 3 to, the Firearms (Amendment) Act [1997 (c. 5)](https://www.legislation.gov.uk/ukpga/1997/5), sections 1 and 2(7) of, and the Schedule to, the Firearms (Amendment) (No. 2) Act [1997 (c. 64)](https://www.legislation.gov.uk/ukpga/1997/64), section 119 of, and paragraph 14 of Schedule 8 to, the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37), section 165 (1) of, and paragraph 31of Schedule 9 to, the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6), section 78(2)(1) of the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32), sections 37(1), 38(1) to (4), 39 and 92 of, and Schedule 3 to, the Anti-social Behaviour Act [2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), section 304 of, and paragraphs 11 and 12 of Schedule 32 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), section 32(1), 33(1) to (5), 34(1) to (3), 40(1), and 65 of, and Schedule 5 to, the Violent Crime Reduction Act [2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), section 6(2) of, and paragraphs 5 and 6 of Schedule 4 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), section 14(2) of, and paragraphs 30(1) and (2) of Schedule 2 to, the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), section 46(1) and (2) of the Crime and Security Act [2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), sections 108(1) to (5), 109(1) and (2) and 110(1) of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), section 87 of, and paragraph 1(1) to (7) of Schedule 2 to , the Air Weapons and Licensing (Scotland) Act [2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), sections 127, 129 and 130(1) and (2)(a) of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3) section 54(1) to (5) of the Offensive Weapons Act [2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), section 89(2) of, and paragraph 3 of Schedule 10 to, the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), section 2 of, and paragraph 115 of Schedule 2 to, the Sentencing (Pre-consolidation Amendments) Act [2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), section 410 of, and paragraph 15 of Schedule 24 to, the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [S.I. 1992/2923](https://www.legislation.gov.uk/uksi/1992/2923), [S.I. 1995/731](https://www.legislation.gov.uk/uksi/1995/731), [S.I. 2010/1759](https://www.legislation.gov.uk/uksi/2010/1759), [S.I. 2014/2124](https://www.legislation.gov.uk/uksi/2014/2124), [S.I. 2014/2522](https://www.legislation.gov.uk/uksi/2014/2522), [S.I. 2015/1782](https://www.legislation.gov.uk/uksi/2015/1782), [S.I. 2019/742](https://www.legislation.gov.uk/uksi/2019/742), [S.I. 2022/500](https://www.legislation.gov.uk/uksi/2022/500) and [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149).
+
+[^f00008]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33). Section 139 was amended by [S.I. 2008/1216](https://www.legislation.gov.uk/uksi/2008/1216), section 3 of the Offensive Weapons Act [1996 (c. 26)](https://www.legislation.gov.uk/ukpga/1996/26), section 42(1)(a) of the Violent Crime Reduction Act 2006, sections 410 and 413 of, paragraph 90 of Schedule 24 to, and Schedule 28 to, the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), and section 28(4) and (5) of the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2). Section 139A was inserted by section 4(1) of the Offensive Weapons Act 1996 and amended by sections 45(1) and (3) to (6) and 45(7) of the Offensive Weapons Act [2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17) (for England and Wales, yet to be appointed for Northern Ireland), [S.I. 2008/1216](https://www.legislation.gov.uk/uksi/2008/1216), section 42(1)(b) of the Violent Crime Reduction Act [2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149), [S.I.2022/500](https://www.legislation.gov.uk/uksi/2022/500), section 28(4) and (6) of the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), sections 410 and 413 of, paragraph 91 of Schedule 24 to, and Schedule 28 to, the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), section 582(1) of, and paragraph 69 of, Schedule 37 to, the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56) and section 110 of, and Part 5 of Schedule 8 to, the Justice Act (Northern Ireland) [2011 (c. 24 (N.I.))](https://www.legislation.gov.uk/nia/2011/24). Section 139AA was inserted by section 142(2) of the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) and amended by sections 50(4) to (6) and 51 of the Offensive Weapons Act 2019, [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149), sections 410 and 413 of, paragraph 92 of Schedule 24 to, and Schedule 28 to, the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17) and [S.I. 2022/500](https://www.legislation.gov.uk/uksi/2022/500). Section 141 was amended by [S.I. 2008/1216](https://www.legislation.gov.uk/uksi/2008/1216), section 46(1) to (13) and (15) (not fully in force) of the Offensive Weapons Act [2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), sections 43(1) and (3) to (4), 51 and 65 of, paragraph 11 of Schedule 2 to, and Schedule 5 to, the Violent Crime Reduction Act [2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), sections 60 and 66(2) of, and Schedule 5 to, the Custodial Sentences and Weapons (Scotland) Act [2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17), [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976), and [S.I. 2004/702](https://www.legislation.gov.uk/uksi/2004/702). Section 141A was inserted by section 6(1) of the Offensive Weapons Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26) and amended by section 75 of the Police, Public Order and Criminal Justice (Scotland) Act [2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), section 36 of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), section 43(1) and (2) of the Violent Crime Reduction Act [2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), sections 34(1), 35(1) and (2) and 36(1) and (2) of the Offensive Weapons Act [2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), and [S.S.I 2019/6](https://www.legislation.gov.uk/ssi/2019/6).
+
+[^f00009]: Footnote: [2019 c. 17](https://www.legislation.gov.uk/ukpga/2019/17). Section 6 was amended by [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149) and [S.I. 2022/500](https://www.legislation.gov.uk/uksi/2022/500).
+
+[^f00010]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42). Schedule 3 was amended by section 85(1) of, and paragraphs 66(1) to (3) of Schedule 4 to, the Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [S.I. 2007/296](https://www.legislation.gov.uk/uksi/2007/296), section 1(1) and (4) of the Voyeurism (Offences) Act [2019 (c. 2)](https://www.legislation.gov.uk/ukpga/2019/2), section 177(1) of, and paragraphs 62(1), and (2) of Schedule 21 to, the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), section 148(1) of, and paragraphs 53 and 58(1) of Schedule 26 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), section 63(2) of, and paragraphs 63(1) and (2) of Schedule 6 to the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27) and section 410 of, and paragraphs 205 and 216 of Schedule 24 to, the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17).
+
+[^key-f345c0a7c7cf32f0af9d0fb792aa04ea]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/559/regulation/7) in force at 26.6.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/559/regulation/1/3)

@@ -1,0 +1,399 @@
+---
+title: The Community Infrastructure Levy (Amendment) Regulations 2012
+id: uksi/2012/2975
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-11-28'
+text_date: '2012-11-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/2975
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/2975/pdfs/uksiem_20122975_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2975/pdfs/uksi_20122975_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2975/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Community Infrastructure Levy (Amendment) Regulations 2012
+
+> Text as at 2012-11-29.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 2975
+
+Community Infrastructure Levy, England And Wales
+
+The Community Infrastructure Levy (Amendment) Regulations 2012
+
+Made
+
+28th November 2012
+
+Coming into force in accordance with regulation 1
+
+A draft of these Regulations has been laid before the House of Commons in accordance with section 222(2)(b) of the Planning Act 2008[^f00001].
+
+Accordingly, the Secretary of State, in exercise of the powers conferred by sections 205(1) and (2), 209(5), 211(5) and (6), 214(2), 216(1), (4)(a) and (7)(d) and (f), 217(1) to (3) and (5), 220(1), (2)(a), (d), (e) and (j) and (3) and 222(1) of the Planning Act 2008, and with the consent of the Treasury, makes the following Regulations:
+
+## 1. Citation and commencement[^key-06577259decd7868ce1543fde9651888]
+
+ These Regulations may be cited as the Community Infrastructure Levy (Amendment) Regulations 2012 and shall come into force on the day after the day on which they are made.
+
+## 2. Amendments to the Community Infrastructure Levy Regulations 2010[^key-7d4caa17fc7f223370d0a5f14f1649cf]
+
+The Community Infrastructure Levy Regulations 2010[^f00002] are amended in accordance with the following regulations.
+
+## 3. Amendment to Part 2 – definition of key terms[^key-8d8ccce8ca069df278c6c97000c6a977]
+
+(1) In regulation 5(3)(a) (meaning of “planning permission”) after paragraph (ii) insert—
+
+> - (iia) by a neighbourhood development order made under section 61E of TCPA 1990,
+
+(2) In regulation 9 (meaning of chargeable development) for paragraph (5) substitute—
+
+> (5) In Wales, where the effect of a planning permission granted under section 73 of TCPA 1990[^f00003] is only to change a condition subject to which a previous planning permission was granted by extending the time within which development must be commenced, the chargeable development is the development for which permission was granted by the previous permission as if that development was commenced.
+>
+> (6) Where the effect of a planning permission granted under section 73 of TCPA 1990 is to change a condition subject to which a previous planning permission was granted so that the amount of CIL payable calculated under regulation 40 (as modified by paragraph (8)) would not change, the chargeable development is the development for which planning permission was granted by the previous permission as if that development was commenced.
+>
+> (7) Where the effect of the planning permission granted under section 73 of TCPA 1990 is to change a condition subject to which a previous planning permission was granted so that the amount of CIL payable under regulation 40 (as modified by paragraph (8)) would change, the chargeable development is the most recently commenced or re-commenced chargeable development.
+>
+> (8) For the purposes of paragraphs (6) and (7), the liability to CIL under regulation 40 should be calculated in relation to an application made under section 73 of TCPA 1990 as if the date on which the planning permission granted under that application first permits development was the same as that for the application for planning permission to which the application under section 73 of TCPA 1990 relates.
+>
+> (9) For the purposes of paragraph (7), chargeable development is re-commenced where—
+>
+> - (a) the chargeable development (“the earlier development”) was commenced;
+> - (b) work on the earlier development was halted and a different chargeable development (“the later development”) that was granted planning permission under section 73 of TCPA 1990 was commenced on the relevant land; and
+> - (c) the later development was subsequently halted and the earlier development is continued.
+
+## 4. Amendment to Part 3 – charging schedules[^key-700242364c5f67360f58887bca036744]
+
+(1) In regulation 15 (consultation on a preliminary draft charging schedule) omit—
+
+- (a) paragraph (3)(a)(iv); and
+- (b) paragraph (8).
+
+(2) In regulation 19(1) (submission of documents and information to the examiner) omit the words “(in addition to the declaration required under section 212(4) of PA 2008)”.
+
+(3) In regulation 25 (approval and publication of a charging schedule)—
+
+- (a) in paragraph (a), after the words “charging schedule” insert “, together with any report made under section 213(3B) of PA 2008,”; and
+- (b) in paragraph (b) after the words “charging schedule” insert “, together with any report made under section 213(3B) of PA 2008,”.
+
+## 5. Amendment to Part 5 – chargeable amount[^key-b774261b5d8ab77223c3c2c7d4bdb9a6]
+
+In regulation 40 (calculation of chargeable amount) for paragraph (6) substitute—
+
+> (6) The value of A in paragraph (5) must be calculated by applying the following formula—
+>
+> [formula: Chargeable amount](https://www.legislation.gov.uk/uksi/2012/2975)
+>
+> where—
+>
+> G
+>
+> the gross internal area of the chargeable development;
+>
+> G<sub>R </sub>
+>
+> the gross internal area of the part of the development chargeable at rate R;
+>
+> E
+>
+> an amount equal to the aggregate of the gross internal areas of all buildings which—
+>
+> - (a) on the day planning permission first permits the chargeable development, are situated on the relevant land and in lawful use; and
+> - (b) are to be demolished before completion of the chargeable development; and
+>
+> K<sub>R</sub>
+>
+> an amount equal to the aggregate of the gross internal area of all buildings (excluding any new build) on completion of the chargeable development which—
+>
+> - (a) on the day planning permission first permits the chargeable development, are situated on the relevant land and in lawful use;
+> - (b) will be part of the chargeable development upon completion; and
+> - (c) will be chargeable at rate R.
+
+## 6. Amendment to Part 6 – exemptions and relief[^key-9b69ba70aae3b7ee62a132d32a65d46c]
+
+—In regulation 50 (social housing relief: qualifying amount)—
+
+- (a) for paragraph (6) substitute—
+
+  > (6) The value of N<sub>R</sub> in paragraph (5) must be calculated by applying the following formula—
+  >
+  > [formula: Social housing relief: qualifying amount](https://www.legislation.gov.uk/uksi/2012/2975)
+  >
+  > where—
+  >
+  > Q<sub>R </sub>
+  >
+  > the gross internal area of the part of the chargeable development which will comprise the qualifying dwellings, and in respect of which, but for social housing relief, CIL would be chargeable at rate R;
+  >
+  > K<sub>QR</sub>
+  >
+  > an amount equal to the gross internal area of all buildings (excluding any new build) on completion of the chargeable development which—
+  >
+  > - (a) on the day planning permission first permits the chargeable development, are situated on the relevant land and in lawful use;
+  > - (b) will be part of the chargeable development upon completion; and
+  > - (c) will be chargeable at rate R but for social housing relief;
+  >
+  > E
+  >
+  > an amount equal to the aggregate of the gross internal area of all buildings which—
+  >
+  > - (a) on the day planning permission first permits the chargeable development, are situated on the relevant land and in lawful use; and
+  > - (b) are to be demolished before completion of the chargeable development; and
+  >
+  > G
+  >
+  > the gross internal area of the chargeable development.
+
+  ;
+- (b) omit paragraph (7); and
+- (c) for paragraph (11) substitute—
+
+  > (11) Where—
+  >
+  > - (a) social housing relief has been granted in relation to a development;
+  > - (b) planning permission is granted under section 73 of TCPA 1990 in respect of that development; and
+  > - (c) the amount of social housing relief calculated in accordance with this regulation that the development is eligible for has not changed as a result of the planning permission referred to in sub-paragraph (b),
+  >
+  > anything done in relation to an application for social housing relief made under regulation 51 (social housing relief: procedure) in relation to the development referred to in sub-paragraph (a) is to be treated as if it was done in relation to the development that the planning permission referred to in sub-paragraph (b) relates.
+  >
+  > (12) In this regulation “building” and “new build” have the same meaning as in regulation 40.
+
+## 7. Amendment to Part 7 – application of CIL[^key-49cc94bcec37eaee1818502e2214b745]
+
+In regulation 59 (application to infrastructure)—
+
+- (a) in paragraph (1) after the words “apply CIL to funding” insert “the provision, improvement, replacement, operation or maintenance of”;
+- (b) in paragraph (2) after the words “must be applied to funding” insert “the provision, improvement, replacement, operation or maintenance of”;
+- (c) in paragraph (3) after words “apply CIL to funding” insert “the provision, improvement, replacement, operation or maintenance of”; and
+- (d) in paragraph (4) after the words “person to apply to funding” insert “the provision, improvement, replacement, operation or maintenance of”.
+
+## 8. Amendment to Part 8 - administration[^key-1c7dd8c3d24c05b656c155fa31f6a97b]
+
+(1) In regulation 67 (commencement notice) for paragraph (6) substitute—
+
+> (6) Subject to paragraphs (6A) and (6B), where a collecting authority receives a valid commencement notice any earlier commencement notice received by it in respect of the same chargeable development ceases to have effect.
+>
+> (6A) Paragraph (6B) applies where—
+>
+> - (a) a commencement notice (A) has ceased to have effect under paragraph (6); and
+> - (b) the person who submitted A wishes to implement the planning permission to which A related.
+>
+> (6B) Where this paragraph applies—
+>
+> - (a) notice must be given in writing to the collecting authority that A is to have effect again before commencing the development to which A relates; and
+> - (b) when the collecting authority receive this notice, A is to have effect and any other commencement notices previously received by the collecting authority in respect of the chargeable development cease to have effect.
+
+(2) In regulation 70 (payment periods)[^f00004] after paragraph (5) insert—
+
+> (5A) Where—
+>
+> - (a) A is charged by the Mayor of London but not by a London borough council; and
+> - (b) the Mayor has issued an instalment policy on or before the commencement date stated in the commencement notice received under paragraph (1)(b),
+>
+> A is payable in accordance with that instalment policy.
+
+(3) After regulation 74 (payment in kind: further provision) insert—
+
+> **74A. Abatement**
+>
+> (1) This regulation applies where—
+>
+> - (a) CIL has been paid in respect of a chargeable development;
+> - (b) a new planning permission is later granted in relation to that development under section 73 of TCPA 1990; and
+> - (c) the collecting authority has issued a new or revised liability notice in respect of that development because the chargeable amount has changed.
+>
+> (2) Where this regulation applies a person liable to pay CIL for that chargeable development may request that the charging authority credits the CIL already paid against the amount due under the new or revised liability notice.
+>
+> (3) To be valid a request under paragraph (2) must be accompanied by proof of the amount of CIL that has already been paid.
+>
+> (4) The charging authority must grant any valid request made under paragraph (2).
+
+(4) In regulation 75 (overpayment) after subsection (3) insert—
+
+> (4) Paragraph (3) does not apply where—
+>
+> - (a) the overpayment is as the result of an application made under section 73 of TCPA 1990; and
+> - (b) the chargeable amount was calculated correctly in relation to that application and the chargeable development it was made in relation to.
+
+(5) In regulation 76 (payments to charging authorities) for paragraph (2) substitute—
+
+> (2) The collecting authority must pay to a charging authority an amount (X) equal to the payments it receives (Y) in respect of CIL charged by that charging authority less—
+>
+> - (a) that part of Y which (in accordance with regulation 61(4)) the collecting authority applies to administrative expenses incurred by it in connection with collecting Y; and
+> - (b) any overpayment (including interest) which the collecting authority has repaid under regulation 75.
+
+## 9. Amendment to Part 12 – miscellaneous and transitional provisions[^key-25fa78d204d63f19c80b88e2e58323d4]
+
+(1) After regulation 128 (transitional provision: general) insert—
+
+> **128A. Transitional provision: section 73 of TCPA 1990 applications**
+>
+> (1) Where all the criteria set out in paragraph (2) are satisfied by a development, paragraphs (3) to (6) shall apply.
+>
+> (2) The criteria are—
+>
+> - (a) on the day planning permission (A) is granted in relation to the development, the development is situated in an area in which a charging authority has no charging schedule in effect;
+> - (b) a new planning permission (B) is later granted in relation to the development under section 73 of TCPA 1990; and
+> - (c) on the day B is granted, the development is situated in an area in which that charging authority has a charging schedule in effect.
+>
+> (3) Liability to CIL shall arise in respect of the development, and the amount of CIL payable (“chargeable amount”) shall be—
+>
+> [formula: Section 73 transitionals](https://www.legislation.gov.uk/uksi/2012/2975)
+>
+> where—
+>
+> X
+>
+> the chargeable amount for the development for which B was granted, calculated in accordance with regulation 40; and
+>
+> Y
+>
+> the amount, calculated in accordance with regulation 40, that would have been the chargeable amount for the development for which A was granted, if A first permitted development on the same day as B.
+>
+> (4) For the purposes of calculating Y, for regulation 40(4) substitute—
+>
+> > (4) The relevant rates are the rates at which CIL is chargeable in respect of the development taken from the charging schedules which are in effect—
+> >
+> > - (a) at the time B was granted; and
+> > - (b) in the area in which the development will be situated.
+>
+> (5) If Y is greater than or equal to X, the chargeable amount is deemed to be zero.
+>
+> (6) Part 11 of these Regulations (planning obligations) shall not apply in relation to that development.
+
+(2) Before regulation 129 (transitional provision: charging schedule ceases to have effect) insert—
+
+> **128B. Transitional provision: article 18(1) of DMPO applications**
+>
+> (1) In this regulation “DMPO” means the Town and Country Planning (Development Management Procedure) (England) Order 2010[^f00005].
+>
+> (2) Where all the criteria set out in paragraph (3) are satisfied, paragraph (4) shall apply.
+>
+> (3) The criteria are—
+>
+> - (a) on the day planning permission (A) is granted in relation to a development, the development is situated in an area in which a charging authority has no charging schedule in place;
+> - (b) a new planning permission (B) is later granted in relation to the development;
+> - (c) B is granted in accordance with regulation 18(1)(b) or (c) of DMPO (consultations before the grant of planning permission pursuant to section 73 or the grant of a replacement planning permission subject to a new time limit); and
+> - (d) on the day B is granted, the development is situated in an area in which that charging authority has a charging schedule in effect.
+>
+> (4) Other than this regulation these Regulations shall not apply in relation to that development.
+
+## 10. Transitional provisions[^key-e578a61f11caba68f25e0c056f35b507]
+
+(1) The amendments in regulations 3(2), 8(1), (3) and (4) and 9(1) do not apply in relation to a development that was granted planning permission under section 73 of TCPA before these Regulations came into force.
+
+(2) The amendment in regulation 4(3) does not apply in relation to a charging schedule that was submitted for examination under regulation 19 of the 2010 Regulations before these Regulations came into force.
+
+(3) The amendments in regulations 5, 6 and 8(2) do not apply if the conditions specified in paragraphs (4) or (5) are met.
+
+(4) The conditions in this paragraph are that—
+
+- (a) a development requires a planning permission under a provision listed in regulation 5(1)(a) to (f) of the 2010 Regulations; and
+- (b) such permission was granted before these Regulations came into force.
+
+(5) The conditions in this paragraph are that—
+
+- (a) a development is granted planning permission under a general consent; and
+- (b) a notice of chargeable development was submitted in relation to that development under regulation 64, or served under regulation 64A, of the 2010 Regulations before these Regulations came into force.
+
+(6) The amendment in regulation 9(2) does not apply in relation to a development that was granted planning permission in accordance with article 18(1)(b) or (c) of the Town and Country Planning (Development Management Procedure) (England) Order 2010 before these Regulations came into force.
+
+(7) In this regulation the 2010 Regulations means the Community Infrastructure Levy Regulations 2010[^f00006].
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Nick Boles
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+28th November 2012
+
+We consent
+
+David Evennett
+
+Mark Lancaster
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+26th November 2012
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Part 11 of the Planning Act 2008 provides for the imposition of a charge known as the Community Infrastructure Levy (“CIL”). The Community Infrastructure Levy Regulations 2010[^f00007] (“the CIL Regulations”) implement the detail of CIL. These Regulations amend the CIL Regulations.
+
+The CIL Regulations and these Regulations apply in relation to England and Wales only.
+
+The main changes to the CIL Regulations are:
+
+(1) Amendment to make provision for developments granted consent under neighbourhood development orders to be liable to CIL (regulation 3(1), which amends regulation 5 of the CIL Regulations).
+
+(2) Amendment to make provision for applications made under section 73 of the Town and Country Planning Act 1990 in respect of development for which a liability notice has already been issued. This includes provision to set out when the permission granted under section 73 will be liable to CIL (regulation 3(2), which substitutes regulation 9(5) of the CIL Regulations), provision relating to commencement notices (regulation 8(1), which substitutes regulation 67(6) of the CIL Regulations), a new provision so that CIL already paid can be set off against any CIL liability in relation to the section 73 application (regulation 8(3), which inserts new regulation 74A into the CIL Regulations) and provision in relation to overpayments (regulation 8(4), which amends regulation 75 of the CIL Regulations). These regulations also provide for the situation where such an application is made after a charging schedule comes into effect, in relation to a planning permission granted before the charging schedule came into effect (regulation 9(1), which inserts new regulation 128A into the CIL Regulations).
+
+(3) Amendment to the publication of charging schedules to extend the relevant provisions to any report made under section 213(3B) of the Planning Act 2008[^f00008] (charging schedule: approval) (regulation 4(3), which amends regulation 25 of the CIL Regulations).
+
+(4) Amendment to the calculation of CIL liability. This corrects an error which meant that development involving the retention of some existing buildings, and the demolition of others, could have been overcharged (regulation 5, which substitutes regulation 40(6) of the CIL Regulations).
+
+(5) Amendment to the calculation of social housing relief. This corrects an error which meant that social housing relief may wrongly be granted where a development includes retained housing, some of which will be used for social housing (regulation 6 which amends regulation 50 of the Regulations).
+
+(6) Amendment to the application of CIL to reflect changes made to section 216 of the Planning Act 2008 (application) by section 115(5) of the Localism Act 2011 (use of community infrastructure levy) (regulation 7, which amends regulation 59 of the CIL Regulations).
+
+(7) Amendment to make provision for the payment periods where the Mayor of London charges CIL in an area where a London borough council does not (regulation 8(2), which amends regulation 70 of the CIL Regulations).
+
+(8) Amendment to make general transitional provision in relation to applications made under article 18(1)(b) or (c) of the Town and Country Planning (Development Management Procedure) (England) Order 2010 (regulation 9(2) which inserts new regulation 128B into the CIL Regulations).
+
+There are also minor amendments to the administration of CIL and other transitional provisions.
+
+The Department is not required to produce an impact assessment in relation to the community infrastructure levy, as it is a financial instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). Section 205(2) was amended by section 115(2)(a) of the Localism Act 2011 ([2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20)) and section 216(1) and (4)(a) was amended by section 115(5)(a)(ii) and (c) of the Localism Act 2011.
+
+[^key-06577259decd7868ce1543fde9651888]: Commencement: Reg. 1 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+
+[^key-7d4caa17fc7f223370d0a5f14f1649cf]: Commencement: Reg. 2 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+
+[^f00002]: Footnote: [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948) as amended by [S.I. 2011/987](https://www.legislation.gov.uk/uksi/2011/987).
+
+[^key-8d8ccce8ca069df278c6c97000c6a977]: Commencement: Reg. 3 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+
+[^f00003]: Footnote: Section 73(5), inserted by section 51(3) of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), prevents such permissions from extending the time within which development must be commenced. This provision is yet to be commenced in relation to Wales.
+
+[^key-700242364c5f67360f58887bca036744]: Commencement: Reg. 4 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+
+[^key-b774261b5d8ab77223c3c2c7d4bdb9a6]: Commencement: Reg. 5 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+
+[^key-9b69ba70aae3b7ee62a132d32a65d46c]: Commencement: Reg. 6 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+
+[^key-49cc94bcec37eaee1818502e2214b745]: Commencement: Reg. 7 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+
+[^key-1c7dd8c3d24c05b656c155fa31f6a97b]: Commencement: Reg. 8 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+
+[^f00004]: Footnote: Regulation 70 was substituted by [S.I. 2011/987](https://www.legislation.gov.uk/uksi/2011/987).
+
+[^key-25fa78d204d63f19c80b88e2e58323d4]: Commencement: Reg. 9 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+
+[^f00005]: Footnote: [S.I. 2010/2184](https://www.legislation.gov.uk/uksi/2010/2184).
+
+[^key-e578a61f11caba68f25e0c056f35b507]: Commencement: Reg. 10 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+
+[^f00006]: Footnote: [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948) as amended by [S.I. 2011/987](https://www.legislation.gov.uk/uksi/2011/987).
+
+[^f00007]: Footnote: [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948) as amended by [S.I. 2011/987](https://www.legislation.gov.uk/uksi/2011/987).
+
+[^f00008]: Footnote: Section 213(3B) was inserted by section 114(6) of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).

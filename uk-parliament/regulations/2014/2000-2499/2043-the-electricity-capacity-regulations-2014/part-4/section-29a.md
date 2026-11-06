@@ -1,0 +1,27 @@
+---
+title: The Electricity Capacity Regulations 2014, section 29A
+act: The Electricity Capacity Regulations 2014
+section: 29A
+status: revised
+text_date: '2026-07-17'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2014/2043/section/29A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electricity Capacity Regulations 2014, section 29A
+
+> Text as at 2026-07-17.
+>
+> Extent: England, Wales, Scotland.
+
+## 29A. Second DSR transitional auction[^M_F_296b4da3-427e-4f30-fead-f708058138b5]
+
+*Extent: E+W+S*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^M_F_296b4da3-427e-4f30-fead-f708058138b5]: Textual amendment: Reg. 29A omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/9)

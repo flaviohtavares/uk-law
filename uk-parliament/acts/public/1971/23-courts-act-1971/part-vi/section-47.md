@@ -1,0 +1,25 @@
+---
+title: Courts Act 1971, section 47
+act: Courts Act 1971
+section: '47'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1971/23/section/47
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Courts Act 1971, section 47
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1971/23
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 47—49. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c847804]
+
+*Extent: E+W*
+
+## Annotations
+
+[^c847804]: Textual amendment: [Ss. 47–49](https://www.legislation.gov.uk/ukpga/1971/23/section/47), [51(1)](https://www.legislation.gov.uk/ukpga/1971/23/section/51/1) repealed by Costs in [Criminal Cases Act 1973 (c. 14)](https://www.legislation.gov.uk/ukpga/1973/14), [Sch. 2](https://www.legislation.gov.uk/ukpga/1973/14/schedule/2)

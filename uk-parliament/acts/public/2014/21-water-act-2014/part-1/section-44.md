@@ -1,0 +1,58 @@
+---
+title: Water Act 2014, section 44
+act: Water Act 2014
+section: '44'
+status: revised-with-pending-changes
+text_date: '2024-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2014/21/section/44
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Water Act 2014, section 44
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/21
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 44. Eligible licensees[^key-89bfc3d0d4ec3126daf66084c63dfea6]
+
+*Extent: E+W*
+
+(1) Exit regulations may—
+
+- (a) make provision for a relevant undertaker to specify in its exit application the eligible licensee or licensees to which it proposes to transfer a part of its undertaking;
+- (b) make provision for the WSRA to direct one or more eligible licensees to accept the transfer of a part of the relevant undertaker's undertaking.
+
+(2) In this Chapter an “eligible licensee” is a company—
+
+- (a) that has a water supply licence with a retail authorisation or a sewerage licence with a retail authorisation, or both, and
+- (b) that has elected to be an eligible licensee for the purposes of this Chapter.
+
+(3) Exit regulations may—
+
+- (a) provide for an eligible licensee to be specified in an exit application only if the licensee agrees to be so specified;
+- (b) provide for the WSRA to give notice before giving a direction under subsection (1)(b);
+- (c) provide for an eligible licensee to temporarily suspend an election under subsection (2)(b) so that it may not be given a direction under subsection (1)(b).
+
+(4) Exit regulations may make provision about electing to be an eligible licensee, and may in particular—
+
+- (a) provide for a company to satisfy such criteria as are set out in a code published by the WSRA before the company may elect to be an eligible licensee;
+- (b) provide for the WSRA to assess whether a company satisfies those criteria;
+- (c) provide for the WSRA to publish a code setting out—
+  - (i) the criteria mentioned in paragraph (a), and
+  - (ii) how it conducts such assessments;
+- (d) provide for the WSRA to comply with the code in making such assessments.
+
+(5) Exit regulations may—
+
+- (a) allow an eligible licensee, to which a transfer of a part of a relevant undertaker's undertaking is proposed to be made, to be a company associated with the undertaker,
+- (b) require the eligible licensee to which such a transfer is made to be such a company, or
+- (c) prohibit such a transfer being made to such a company.
+
+(6) For the purposes of this section, a relevant undertaker is associated with an eligible licensee if one of them is a subsidiary of the other or both are subsidiaries of the same body corporate.
+
+## Annotations
+
+[^key-89bfc3d0d4ec3126daf66084c63dfea6]: Commencement: S. 44 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/iii) (with art. 5)

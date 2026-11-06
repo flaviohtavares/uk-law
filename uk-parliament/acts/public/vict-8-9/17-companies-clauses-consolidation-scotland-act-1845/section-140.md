@@ -1,0 +1,23 @@
+---
+title: Companies Clauses Consolidation (Scotland) Act 1845, section 140
+act: Companies Clauses Consolidation (Scotland) Act 1845
+section: '140'
+status: revised
+text_date: '2009-11-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/Vict/8-9/17/section/140
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies Clauses Consolidation (Scotland) Act 1845, section 140
+
+> Text as at 2009-11-23.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 140. Notice by advertisement.
+
+*Extent: E+W+S+N.I.*
+
+All notices required by this or the special Act, or any Act incorporated therewith, to be given by advertisement, shall be advertised in the prescribed newspaper, or if no newspaper be prescribed, or if the prescribed newspaper cease to be published, in a newspaper circulating in the district within which the company’s principal place of business shall be situated.

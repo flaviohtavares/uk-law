@@ -1,0 +1,39 @@
+---
+title: Protection of Freedoms Act 2012, section 114
+act: Protection of Freedoms Act 2012
+section: '114'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2012/9/section/114
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Protection of Freedoms Act 2012, section 114
+
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 114. Removal of restrictions on times for marriage or civil partnership[^key-8cea6a3b61b3cdafad4c379edffb56bc]
+
+*Extent: E+W*
+
+(1) In the Marriage Act 1949—
+
+- (a) omit section 4 (solemnization of marriages to take place at any time between 8 a.m. and 6 p.m.), and
+- (b) omit section 75(1)(a) (offence of solemnizing a marriage outside the permitted hours).
+
+(2) In section 16(4) of the Marriage (Registrar General's Licence) Act 1970 (disapplication of certain provisions of the Act of 1949) for “sections 75(1)(a) and” substitute “ section ”.
+
+(3) In section 17(2) of the Civil Partnership Act 2004 (registration as civil partners under the standard procedure to take place on any day in the applicable period between 8 a.m. and 6 p.m.)—
+
+- (a) for “on any day in” substitute “ at any time during ”, and
+- (b) omit “between 8 o'clock in the morning and 6 o'clock in the evening”.
+
+(4) Omit section 31(2)(ab) of that Act (offence of officiating at the signing of a civil partnership schedule outside the permitted hours).
+
+## Annotations
+
+[^key-8cea6a3b61b3cdafad4c379edffb56bc]: Commencement: S. 114 in force at 1.10.2012 by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 3(m)](https://www.legislation.gov.uk/uksi/2012/2234/article/3/m)

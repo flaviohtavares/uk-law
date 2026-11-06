@@ -1,0 +1,165 @@
+---
+title: The Town and Country Planning (Inquiries Procedure) (Scotland) Amendment Rules 1998
+id: uksi/1998/2311
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1998-08-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1998/2311
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/2311/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (Inquiries Procedure) (Scotland) Amendment Rules 1998
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1998 No. 2311 (S.118)
+
+TRIBUNALS AND INQUIRIES
+
+The Town and Country Planning (Inquiries Procedure) (Scotland) Amendment Rules 1998
+
+Made
+
+21st August 1998
+
+Laid before Parliament
+
+21st September 1998
+
+Coming into force
+
+1st November 1998
+
+The Lord Advocate, in exercise of the powers conferred on him by section 9 of the Tribunals and Inquiries Act 1992[^f00001] and of all other powers enabling him in that behalf, and after consultation with the Council on Tribunals, hereby makes the following Rules:
+
+## 1. Citation and commencement
+
+These Rules may be cited as the Town and Country Planning (Inquiries Procedure) (Scotland) Amendment Rules 1998 and shall come into force on 1st November 1998.
+
+## 2. Amendment of Rules
+
+The Town and Country Planning (Inquiries Procedure) (Scotland) Rules 1997[^f00002] shall be amended in accordance with rules 3 to 12 below.
+
+**3.** In rule 3(1), after the definition of “relevant notice” there shall be inserted the following definition:–
+
+> - “relevant person” means a person who has been required to serve a statement of case in terms of rule 9(1) below;
+
+.
+
+**4.** In rule 7–
+
+- (a) in paragraph (1)–
+  - (i) for “paragraphs (3) and (4) of this rule”, there shall be substituted “paragraph (3) of this rule and rule 10A”; and
+  - (ii) for “statutory party”, there shall be substituted “relevant person”; and
+- (b) paragraph (4) shall be deleted.
+
+**5.** In rule 8–
+
+- (a) in paragraph (1)–
+  - (i) for “The applicant”, there shall be substituted “Subject to rule 10A, the applicant”; and
+  - (ii) for “statutory party”, there shall be substituted “relevant person”; and
+- (b) paragraph (2) shall be deleted.
+
+**6.** In rule 9–
+
+- (a) in paragraph (1), for “statutory party” there shall be substituted “relevant person”; and
+- (b) paragraph (3) shall be deleted.
+
+**7.** After rule 10, there shall be inserted the following rule:–
+
+> **10A. Statements of case – dispensing with service**
+>
+> (1) A person required to serve a statement of case under rule 7, 8 or 9 may request the Secretary of State or the reporter to give a direction to him under paragraph (3).
+>
+> (2) The Secretary of State or the reporter may give such a direction if he considers it expedient to do so, having regard to the length of the statement of case of the person requesting the direction and the number of persons on whom it would otherwise require to be served.
+>
+> (3) A person to whom a direction is given under this paragraph shall–
+>
+> - (a) effect service only on the Secretary of State, the applicant and the planning authority in accordance with whichever of rule 7, 8 or 9 is applicable;
+> - (b) give to all other persons on whom service would otherwise be required under that rule notice stating the time and place at which the statement of case (and, if applicable, the representations) may be inspected by them; and
+> - (c) afford to those persons a reasonable opportunity to inspect and, where practicable, take copies of those documents.
+>
+> (4) Where a direction under paragraph (3) is given to a person and that person subsequently provides an amended or additional statement under rule 10, he–
+>
+> - (a) shall send a copy of that statement to every person mentioned in paragraph (3)(b); or
+> - (b) shall–
+>   - (i) give to every such person notice stating the time and place at which that statement may be inspected by them; and
+>   - (ii) afford to those persons a reasonable opportunity to inspect and, where practicable, take copies of that statement.
+
+.
+
+**8.** In rule 12–
+
+- (a) for paragraph (4), there shall be substituted the following paragraph:–
+
+  > (4) Where a person sends a copy of a precognition to the reporter in accordance with paragraph (1), he shall at the same time send a copy of that precognition and any summary to the planning authority, the applicant and each relevant person.
+
+  ; and
+- (b) at the end of paragraph (6), there shall be inserted “or has already been provided to that other person pursuant to rule 13(4)”.
+
+**9.** In rule 13–
+
+- (a) in paragraph (2), “7,” shall be deleted;
+- (b) paragraph (3) shall be deleted; and
+- (c) in paragraph (4), for the words from “to the planning” to “to the Secretary of State”, there shall be substituted–
+
+  > - to–
+  >   - (a) the planning authority;
+  >   - (b) the applicant;
+  >   - (c) each relevant person; and
+  >   - (d) the Secretary of State,
+
+  .
+
+**10.** After rule 15(3)(b), there shall be inserted–
+
+> - (ba) all relevant persons;
+
+.
+
+**11.** After rule 16(1)(e), there shall be inserted–
+
+> - (ea) all relevant persons;
+
+.
+
+**12.** In rule 19(4), for “the statutory parties” there shall be substituted “any relevant person”.
+
+## 13. Application
+
+The amendments made by rules 3 to 12 above shall not apply in the case of any application or appeal in respect of which the date for the holding of an inquiry fixed under rule 15 of the Town and Country Planning (Inquiries Procedure) (Scotland) Rules 1997 is prior to 1st January 1999.
+
+Hardie
+
+Lord Advocate
+
+Lord Advocate’s Chambers
+
+21st August 1998
+
+(This note is not part of the Rules)
+
+These Rules amend the Town and Country Planning (Inquiries Procedure) (Scotland) Rules 1997.
+
+The main changes are as follows:–
+
+- (a) a new class of “relevant person” has been created which is defined to mean a party who has been required to serve a statement of case in terms of rule 9(1);
+- (b) this new class of “relevant person” replaces “statutory party” in rules 7, 8 and 9, in order to clarify that copies of documents need only be copied to “relevant persons” and not to every statutory party;
+- (c) rule 7 inserts a new rule 10A which provides for dispensing with the service of statements of case and replaces the provisions of rules 7(4), 8(2) and 9(3). Where, having regard to the length of a person’s statement of case and the number of persons on whom it would otherwise require to be served, the Secretary of State or the reporter considers it expedient to do so, he may give a direction to that person requiring him to effect service of his statement of case on the Secretary of State, the planning authority and the applicant only and to give notice to all other persons stating the time and place where they may inspect and take copies of the statement of case;
+- (d) rule 12 amends rule 19(4) so that the applicant, the planning authority and any relevant person will be entitled to call evidence and cross-examine persons giving evidence, and to make closing statements. Any other person appearing at the inquiry may do these things only at the discretion of the reporter and only to the extent permitted by him.
+
+There are also minor drafting amendments.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
+
+[^f00002]: Footnote: S.I. [1997/796](https://www.legislation.gov.uk/uksi/1997/796).

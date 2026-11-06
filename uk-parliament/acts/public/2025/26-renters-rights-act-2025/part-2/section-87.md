@@ -1,0 +1,68 @@
+---
+title: Renters’ Rights Act 2025, section 87
+act: Renters’ Rights Act 2025
+section: '87'
+status: revised
+text_date: '2026-06-22'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2025/26/section/87
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Renters’ Rights Act 2025, section 87
+
+> Text as at 2026-06-22.
+>
+> Extent: England, Wales.
+
+## 87. Disclosure by database operator etc[^key-3ad1a13beeeec975eeaef8cf74a41ac4]
+
+*Extent: E+W*
+
+(1) The database operator must not disclose restricted information from the database except—
+
+- (a) in accordance with section 86(2) or (3), or
+- (b) where authorised by regulations under this section.
+
+(2) The Secretary of State may by regulations make provision authorising the disclosure from the database of restricted information where the disclosure is necessary—
+
+- (a) to enable or facilitate compliance with a statutory requirement specified in the regulations,
+- (b) to enable or facilitate compliance with a requirement of a rule of law specified in the regulations, or
+- (c) to facilitate the exercise of statutory functions specified in the regulations.
+
+(3) The regulations may—
+
+- (a) specify the manner and form in which the information may be disclosed, and
+- (b) impose restrictions on the use and further disclosure of information disclosed under the regulations.
+
+(4) A disclosure authorised by the regulations does not breach—
+
+- (a) any obligation of confidence owed by the database operator, or
+- (b) any other restriction on the disclosure of information (however imposed).
+
+(5) Nothing in this section or the regulations authorises the making of a disclosure that would contravene the data protection legislation (but in determining whether a disclosure would do so, take into account the powers conferred by this section and the regulations).
+
+(6) A person commits an offence if the person knowingly or recklessly discloses restricted information in contravention of—
+
+- (a) subsection (1), or
+- (b) a restriction on further disclosure imposed by regulations under this section.
+
+(7) A person guilty of an offence under subsection (6) is liable on summary conviction to a fine.
+
+(8) In this section—
+
+- “**data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+- “**restricted information**” means information that—
+  - (a) is not made available to the public by virtue of regulations under section 86, and
+  - (b) relates to and identifies a particular person (including a body corporate).
+
+(9) For the purposes of subsection (8) information identifies a particular person if the identity of that person—
+
+- (a) is specified in the information,
+- (b) can be deduced from the information, or
+- (c) can be deduced from the information taken together with any other information.
+
+## Annotations
+
+[^key-3ad1a13beeeec975eeaef8cf74a41ac4]: Commencement: S. 87 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)

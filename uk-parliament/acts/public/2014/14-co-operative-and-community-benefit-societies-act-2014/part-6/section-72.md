@@ -1,0 +1,40 @@
+---
+title: Co-operative and Community Benefit Societies Act 2014, section 72
+act: Co-operative and Community Benefit Societies Act 2014
+section: '72'
+status: revised-with-pending-changes
+text_date: '2023-08-29'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2014/14/section/72
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Co-operative and Community Benefit Societies Act 2014, section 72
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2023-08-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/14
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 72. Discharge of securities: land in Scotland
+
+*Extent: E+W+S*
+
+(1) This section applies to land in Scotland that is held in security by a registered society by virtue of a heritable security.
+
+(2) If the heritable security is constituted by an ex facie absolute conveyance (whether or not qualified by a back letter), a receipt in Form C in Part 2 of Schedule 2 (or as nearly as may be in that form) that is endorsed on or annexed to the conveyance has the following effect on being registered in the General Register of Sasines—
+
+- (a) it effectually discharges the heritable security and disburdens the land comprised in it, and
+- (b) it vests that land in the person entitled to it at the date the receipt is granted, in the same way and to the same effect as if the society had granted a conveyance containing all usual and necessary clauses and the conveyance had been duly registered in the General Register of Sasines.
+
+(3) In any other case—
+
+- (a) where the heritable security is recorded in the General Register of Sasines, a receipt in Form D in Part 2 of Schedule 2 (or as nearly as may be in that form) that is endorsed on or annexed to the deed constituting the heritable security, upon being recorded in the General Register of Sasines, effectually discharges the heritable security and disburdens the land comprised in it, in the same way and to the same effect as if the society had granted a discharge and the discharge had been duly recorded in the General Register of Sasines, and
+- (b) where the heritable security is registered in the Land Register of Scotland, a receipt in Form E in Part 2 of Schedule 2 (or as nearly as may be in that form) that is endorsed on or annexed to the deed constituting the heritable security, upon being registered in the Land Register of Scotland, effectually discharges the heritable security and disburdens the land comprised in it, in the same way and to the same effect as if the society had granted a discharge and the discharge had been duly registered in the Land Register of Scotland.
+
+(4) The fee payable in respect of the registration of the receipt may not exceed 25 pence.
+
+(5) In this section—
+
+- “**a receipt**”, in relation to any security, means a receipt for all moneys advanced by the society on the security of the property comprised in the security;
+- “conveyance” and “deed” have the meaning given by the Conveyancing (Scotland) Act 1924.

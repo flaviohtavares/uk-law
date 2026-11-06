@@ -1,0 +1,34 @@
+---
+title: Merchant Shipping Act 1995, section 59
+act: Merchant Shipping Act 1995
+section: '59'
+status: revised-with-pending-changes
+text_date: '2026-06-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1995/21/section/59
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Merchant Shipping Act 1995, section 59
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2026-06-23. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/21
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 59. Concerted disobedience and neglect of duty.
+
+*Extent: E+W+S+N.I.*
+
+(1) If a seaman employed in a United Kingdom ship combines with other seamen employed in that ship—
+
+- (a) to disobey lawful commands which are required to be obeyed at a time while the ship is at sea;
+- (b) to neglect any duty which is required to be discharged at such a time; or
+- (c) to impede, at such a time, the progress of a voyage or the navigation of the ship,
+
+he shall be liable—
+
+- (i) on summary conviction, to a fine not exceeding the statutory maximum;
+- (ii) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine or both.
+
+(2) For the purposes of this section a ship shall be treated as being at sea at any time when it is not securely moored in a safe berth.

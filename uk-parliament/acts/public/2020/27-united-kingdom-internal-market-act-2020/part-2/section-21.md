@@ -1,0 +1,77 @@
+---
+title: United Kingdom Internal Market Act 2020, section 21
+act: United Kingdom Internal Market Act 2020
+section: '21'
+status: revised-with-pending-changes
+text_date: '2026-02-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2020/27/section/21
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# United Kingdom Internal Market Act 2020, section 21
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-02-19. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/27
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 21. Indirect discrimination in the regulation of services[^key-858e41f034c176a79e2ce0006bdce24e]
+
+*Extent: E+W+S+N.I.*
+
+(1) A regulatory requirement that indirectly discriminates against an incoming service provider is of no effect in relation to that incoming service provider.
+
+(2) A regulatory requirement indirectly discriminates against an incoming service provider if—
+
+- (a) it does not directly discriminate against the incoming service provider (within the meaning of section 20),
+- (b) it puts the incoming service provider at a relevant disadvantage,
+- (c) it has an adverse market effect, and
+- (d) it cannot reasonably be considered a necessary means of achieving a legitimate aim.
+
+(3) A regulatory requirement puts an incoming service provider at a relevant disadvantage if—
+
+- (a) it puts the incoming service provider at a disadvantage in relation to the provision of services in the part of the United Kingdom in which the requirement applies, and
+- (b) it does not put, or would not put, each local service provider at that disadvantage in relation to the provision of those services in that part (at all or to the same extent).
+
+(4) A regulatory requirement puts a service provider at a disadvantage in relation to the provision of services in a part of the United Kingdom if it makes it in any way more difficult, or less attractive, for the service provider to provide the services in that part.
+
+(5) A regulatory requirement has an adverse market effect if, by putting an incoming service provider (or incoming service providers) at a relevant disadvantage in relation to the provision of services, it has a significant adverse effect on competition in the market for those services in the United Kingdom.
+
+(6) For the purposes of subsections (1) to (5)—
+
+- (a) an “incoming service provider” is a service provider that—
+  - (i) provides the services in the part of the United Kingdom in which the regulatory requirement applies, but
+  - (ii) does not have a relevant connection to that part;
+- (b) a “local service provider” is a service provider that—
+  - (i) provides the services in the part of the United Kingdom in which the regulatory requirement applies,
+  - (ii) has a relevant connection to that part, and
+  - (iii) does not have a relevant connection to another part of the United Kingdom;
+- (c) a service provider has a “relevant connection” to a part of the United Kingdom if the service provider—
+  - (i) has a registered office, place of business or residence in that part, or
+  - (ii) provides the services from that part.
+
+(7) In this section “**legitimate aim**” means one, or a combination of any, of the following aims—
+
+- (a) the protection of the life or health of humans, animals or plants;
+- (b) the protection of public safety or security;
+- (c) the efficient administration of justice.
+
+(8) The Secretary of State may by regulations amend subsection (7) so as to add, vary or remove a legitimate aim.
+
+(9) Regulations under subsection (8) are subject to affirmative resolution procedure.
+
+(10) Before making regulations under subsection (8), the Secretary of State must seek the consent of the Scottish Ministers, the Welsh Ministers and the Department for the Economy in Northern Ireland.
+
+(11) If consent to the making of the regulations is not given by any of those authorities within the period of one month beginning with the day on which it is sought from that authority, the Secretary of State may make the regulations without that consent.
+
+(12) If regulations are made in reliance on subsection (11), the Secretary of State must publish a statement explaining why the Secretary of State decided to make the regulations without the consent of the authority or authorities concerned.
+
+(13) The application of subsection (2)(d) is to be determined with regard, in particular, to—
+
+- (a) the effects of the requirement in all the circumstances, and
+- (b) the availability of alternative means of achieving the aim in question.
+
+## Annotations
+
+[^key-858e41f034c176a79e2ce0006bdce24e]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2020/27/section/21) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/b)

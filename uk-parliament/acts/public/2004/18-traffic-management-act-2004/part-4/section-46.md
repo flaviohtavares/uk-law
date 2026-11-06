@@ -1,0 +1,37 @@
+---
+title: Traffic Management Act 2004, section 46
+act: Traffic Management Act 2004
+section: '46'
+status: not-yet-in-force
+text_date: '2026-09-14'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2004/18/section/46
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Traffic Management Act 2004, section 46
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales.
+
+## 46. Records of location of apparatus
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) Section 79 of the 1991 Act (records of location of apparatus) is amended as follows.
+
+(2) After subsection (1) there is inserted—
+
+> (1A) An undertaker may, except in such cases as may be prescribed, include in his records under subsection (1) a record of the location of any item of apparatus belonging to him which is not required to be so included, stating the nature of the apparatus and (if known) whether it is for the time being in use.
+
+(3) After subsection (2) there is inserted—
+
+> (2A) Regulations under subsection (2) which alter the form or manner in which the records are to be kept may apply to records made before (as well as records made after) the alterations take effect.
+
+(4) After subsection (3) there is inserted—
+
+> (3A) In subsections (2) to (3) the references to an undertaker's records are to the records kept by him under subsection (1) (including anything included in those records by virtue of any provision of this Act or any other enactment).

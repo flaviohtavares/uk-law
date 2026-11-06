@@ -1,0 +1,872 @@
+---
+title: The Passenger Name Record Data and Miscellaneous Amendments Regulations 2018
+id: uksi/2018/598
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-05-16'
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/598
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/598/pdfs/uksiem_20180598_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/598/pdfs/uksi_20180598_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/598/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Passenger Name Record Data and Miscellaneous Amendments Regulations 2018
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 598
+
+Criminal Law
+
+Data Protection
+
+The Passenger Name Record Data and Miscellaneous Amendments Regulations 2018
+
+Made
+
+16th May 2018
+
+Laid before Parliament
+
+18th May 2018
+
+Coming into force
+
+25th May 2018
+
+[^c22956481][^c22956491][^c22956501]The Secretary of State makes the following Regulations in exercise of the powers conferred by paragraph 27B of Schedule 2 to the Immigration Act 1971 , section 32(5)(a) of the Immigration, Asylum and Nationality Act 2006 and section 2(2) of the European Communities Act 1972 .
+
+[^c22956511][^c22956521]The Secretary of State is a Minister designated, for the purposes of section 2(2) of the European Communities Act 1972, in relation to criminal justice and data protection .
+
+The Secretary of State is satisfied that the nature of the information specified in these Regulations for the purposes of section 32 of the Immigration, Asylum and Nationality Act 2006 is such that there are likely to be circumstances in which it can be required under that provision without breaching Convention rights (within the meaning of the Human Rights Act 1998 [^c22956531]).[^key-674e4f6aa9adbf4db8e2b905c328853f][^key-1e33ddc7d7f0422067c42958149265b4]
+
+## PART 1 — General
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Passenger Name Record Data and Miscellaneous Amendments Regulations 2018 and come into force on 25th May 2018.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “[^key-4cce512fc48016ab0bc65ba684e5067e]**the 2024 Order**” means the Immigration and Police (Passenger, Crew and Service Information) Order 2024;
+- “[^key-da75bbe30c272cbaeddbcb5c7a869372]**the Agreement**” means the Trade and Cooperation Agreement between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part, as it has effect on the relevant day (as amended or supplemented from time to time on or before its coming into force);
+- “[^key-58ef733333b9682537115634d2a0d788]**carrier**” means the—
+  - (a) owner or agent of an aircraft or ship; or
+  - (b) operator or agent of an international service,
+
+  operating passenger services to or from the United Kingdom;
+- “[^key-7aee162998367860754ac3293be6c9f7]**API**” means the information described in paragraph 1(nn) of Schedule 3 to the 2024 Order;
+- [^key-d176d1a33a99ce3c0022e1eafa2b78d9]...
+- “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+- “**the data protection officer**” means the person appointed in accordance with regulation 4(1);
+- [^key-268f4bfaa037e3616c02e1ecbe7660b5]...
+- [^M_F_16f8a0c2-76ea-4b52-b4de-ebf00e5b54c0]...
+- [^M_F_5371b19b-b27b-4ee2-d844-e49f617a5ecb]...
+- “**designated independent authority**” means the person for the time being designated under regulation 4A by a direction given by the Secretary of State;
+- “**EU PIU**” means an authority based in a member State which has been notified to the United Kingdom under the Agreement as the passenger information unit for that member State;
+- “**EU PNR data**” means PNR data—
+  - (a) relating to an aircraft , ship or international service[^key-9d09b1acd67c3bd47317f8a6cb8cedc3] arriving, or expected to arrive, in the United Kingdom from or by way of a member State,
+  - (b) relating to an aircraft , ship or international service leaving, or expected to leave, the United Kingdom to travel to or by way of a member State,
+  - (c) stored in a member State by a[^key-0f310a06114c89d5d2471f8c07c522ab] carrier,
+  - (d) stored by a carrier incorporated in a member State, or
+  - (e) received by the PIU from an EU PIU;
+- “**EU PNR information**” means EU PNR data, the result of processing EU PNR data or analytical information containing EU PNR data;
+- “**Eurojust**” means the European Union Agency for Criminal Justice Cooperation as established by [Regulation (EU) 2018/1727](https://www.legislation.gov.uk/european/regulation/2018/1727) of the European Parliament and of the Council of 14 November 2018 on the European Union Agency for Criminal Justice Cooperation (Eurojust) and replacing and repealing Council Decision 2002/187/JHA (as it has effect in EU law as amended from time to time);
+- “**European Commission**” means the Commission of the European Union;
+- “**Europol**” means the European Union Agency for Law Enforcement Cooperation as established by [Regulation (EU) 2016/794](https://www.legislation.gov.uk/european/regulation/2016/0794) of the European Parliament and of the Council of 11 May 2016 on the European Union Agency for Law Enforcement Cooperation (Europol) and replacing and repealing Council Decisions 2009/371/JHA, 2009/934/JHA, 2009/935/JHA, 2009/936/JHA and 2009/968/JHA (as it has effect in EU law as amended from time to time);
+- [^key-268f4bfaa037e3616c02e1ecbe7660b5]...
+- [^key-f857cef004cc70cb8283070151ed69ad]...
+- [^key-268f4bfaa037e3616c02e1ecbe7660b5]...
+- “**personal data**” means information relating to an identified or identifiable living individual;
+- “**the PIU**” means the authority competent in the prevention, detection, investigation or prosecution of terrorist offences and of serious crime which is designated as the United Kingdom's passenger information unit under regulation 3(1);
+- “**PNR data**” means one or more items of personal data listed in Schedule 3 to the 2024 Order[^key-3a726cb04d83c94fa5bcd4b91111890b];
+- “**PNR information**” means PNR data, the result of processing PNR data or analytical information containing PNR data;
+- “**processing**”, in relation to PNR information[^key-300e6cb656d562ad01a56a85f388b595], means an operation or set of operations performed on that information[^key-921668c0e75527e8f2b1d974bc22673f] including its retrieval, consultation or use;
+- “**relevant day**”, in relation to the Agreement or any aspect of it, means—
+  - (a) so far as the Agreement or aspect concerned is provisionally applied before it comes into force, the time and day from which the provisional application applies, and
+  - (b) so far as the Agreement or aspect concerned is not provisionally applied before it comes into force, the time and day when it comes into force;
+- “[^key-3d39cde2ae9acea16be009d4c2e8fb7a]**serious crime**” means conduct which constitutes an offence in any part of the United Kingdom for which the maximum term of imprisonment (in the case of a person aged 21 or over) is at least 3 years (or would constitute such an offence in any part of the United Kingdom if committed there);
+- “[^key-88ef8d89346f0a93d54ffd38fb153a31]**terrorist offences**” means the offences listed in Annex 45[^key-f68784e8443b43f15f90f0d8895ccb04] to the Agreement;
+- “**third country**” means a country or territory other than —[^key-f4e3aa833a83575ebd55111f1640725d]
+  - (a) the United Kingdom[^key-d5ae95f2db0bac01b92d839087dc59ac] , or[^key-58ff17830ef38c31fccf77495cbfb296]
+  - (b) a member State;
+- “**third country competent authority**” means an authority based in a third country that is competent for—
+  - (a) the prevention, detection, investigation or prosecution of terrorist offences or serious crime, or
+  - (b) protecting the vital interests of persons;
+- “**UK competent authority**” means a United Kingdom authority competent for —[^key-884ff46371b22d65845826ed127aee2a]
+  - (a) the prevention, detection, investigation or prosecution of terrorist offences or serious crime [^key-2f9fc721af957013e9db2bf460a85329]... , or[^key-55102b850c9f48ebaa1fbb063d2a6a2e]
+  - (b) protecting the vital interests of persons.
+
+(1A)[^key-890042283fcef0b42da86ff4f138a26e] References in these Regulations to protecting the vital interests of persons include protecting persons—
+
+- (a) who are, or may be, at risk of death or serious injury, or
+- (b) from significant threats to public health.
+
+(2)[^key-8c2ace7cbfa2d4183048b5aecf5f9199] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 2 — The Passenger Information Unit
+
+### 3. Designation of passenger information unit
+
+(1) The Home Office is designated as the passenger information unit [^key-b674a284401d47f7293a5ab63e8c7155]....
+
+(2) The PIU is responsible for—
+
+- (a) collecting PNR data from [^key-6f4d7dde8975cd113a8f1c746a539fab]... carriers;
+- (b) storing and processing PNR data;
+- (c) where appropriate, transferring PNR information[^key-7a4e6a19cf45b2c97c9178bedd73c9d3] to a UK competent authority , Europol or Eurojust[^key-bf508db5bc7f58a937b3b5870fb933eb];
+- (ca)[^key-ad9763aae53e1a1bb287f834f5a8ce14] where appropriate, exchanging PNR information with an EU PIU;
+- (d)[^key-bf0d3b78c83c8d727e763c8c62153051] where appropriate, exchanging PNR information[^key-a9471595dfb574f4eb8ae0d138d8cf4e] with a third country[^key-1473df32921af0b54a609e64813d9e80] competent authority
+
+(3)[^key-baa5a73563cf1777f4247173b7064cfb] The Secretary of State may by regulations amend paragraph (1) so as to designate a different authority as the PIU.
+
+(4) The power in paragraph (3) is exercisable by statutory instrument and includes power—
+
+- (a) to designate different authorities for different purposes or in relation to different areas;
+- (b) to make supplementary, incidental, consequential, transitional, transitory or saving provision.
+
+(5) Where regulations under paragraph (3) designate more than one authority as the PIU, the provision that may be made by virtue of paragraph (4)(b) includes, in particular, provision amending these Regulations to make provision for the transfer of PNR information from one authority so designated to another.
+
+(6) A statutory instrument containing regulations under paragraph (3) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 4. Data protection officer in the PIU
+
+(1) The PIU must appoint a data protection officer responsible for monitoring and implementing safeguards in relation to the processing of PNR data by the PIU.
+
+(2) The PIU must provide the data protection officer with—
+
+- (a) the means to perform the duties and tasks described in paragraph (1) effectively and independently, and
+- (b) access to all data processed by the PIU.
+
+(3) Where the data protection officer considers that the processing of any data by the PIU has not been in accordance with Part 3 of these Regulations, the data protection officer may refer the matter to the Information Commission[^key-783842511d93e9949826340827e9ded8].
+
+### 4A. Designated independent authority[^key-c758d6a12cc78359adc48c9690e9ecad]
+
+(1) The Secretary of State must by direction designate a person as the designated independent authority in relation to the PIU.
+
+(2) The person for the time being designated must be a person in relation to whom the Secretary of State is satisfied that the requirements of paragraph (3) are met.
+
+(3) Those requirements are that the person—
+
+- (a) does not carry out relevant PNR data processing,
+- (b) acts independently of any person carrying out relevant PNR data processing, and
+- (c) has sufficient expertise and knowledge and has had appropriate training to exercise the functions of the designated independent authority under these Regulations.
+
+(4) In paragraph (3), relevant PNR data processing is processing of PNR data otherwise than in exercise of the functions of the designated independent authority under these Regulations.
+
+(5) The PIU must make EU PNR data available to the designated independent authority for the purposes of the authority's functions under these Regulations.
+
+(6) The designated independent authority may process EU PNR data for the purposes of exercising the authority's functions under these Regulations.
+
+## PART 3 — Processing of PNR data and protection of personal data
+
+### 5. Scope
+
+(1)[^key-4cf90aaffe323b2c472ac006dfeb186e] This Part applies in respect of the processing of PNR data provided by a[^key-32778301171e427fa9ed28c94db3c8ef] carrier on or after the coming into force of these Regulations and pursuant to a requirement under either of the following provisions—
+
+- (a) paragraph 27B(2) of Schedule 2 to the Immigration Act 1971;
+- (b) section 32(2) of the Immigration, Asylum and Nationality Act 2006.
+
+(2)[^key-8b1e39d6e5e1fe085d1d0f9a67d2a672] This Part also applies in respect of PNR information provided to the PIU by an EU PIU or a third country competent authority.
+
+### 6. Processing of PNR data by the PIU
+
+(1) Where the information provided by a[^key-8f5e22779078fdd49eef17bf8acaa20c] carrier pursuant to a requirement under either of the provisions set out in regulation 5(1)[^key-cec6025c177c5cfa3b1af9ff9a094770] includes [^key-59a839df95cf39c8b4536b706c9dc1e0]... data other than PNR data, the PIU must delete the additional data [^key-2f5ecb009b64f24bce624f1f5a59b7e5]... upon receipt.
+
+(2) The PIU must not process PNR data except for one of the purposes described in paragraph (3) , subject to regulation 4A(6)[^key-4c08af8f7431e707af698da1f6be2bb8].
+
+(3)[^key-bc7064e4385ce68230229673fdbfb3cc] The purposes are—
+
+- (a) preventing, detecting, investigating and prosecuting terrorist offences or serious crime, and
+- (b) protecting the vital interests of persons.
+
+(4) Where the PIU compares PNR data against a database, the PIU must ensure that the database is—
+
+- (a) reliable and up to date, and
+- (b) used for a purpose described in paragraph (3).
+
+(5) Where the PIU processes PNR data against pre-determined criteria,[^key-3f914ef31a6e6381a089d86353611fcc] the PIU must ensure that the pre-determined criteria [^key-2d02700412caa338c71ffd335cd3b1ae]... are—
+
+- (a) reliable,[^key-bdb5e00635e08456cd9c01a7b475f743] targeted, proportionate and specific;
+- (b) set and regularly reviewed in cooperation with the UK competent authorities, and
+- (c) not based on a person's race or ethnic origin, political opinions, religion or philosophical beliefs, trade union membership, health, sexual life or sexual orientation.
+
+(5A)[^key-22a078d7319dfa9433df72f0d8a8b231] The PIU must not take any decision which produces an adverse legal effect on a person or otherwise significantly affects a person—
+
+- (a) only by reason of the automated processing of PNR data, or
+- (b) on the basis of any of the matters described in paragraph (5)(c) in relation to that person.
+
+(6)[^key-851dc175628c47c2ad4b76f0bd76101c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-851dc175628c47c2ad4b76f0bd76101c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-851dc175628c47c2ad4b76f0bd76101c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) The PIU must not transfer PNR information[^key-18fa56dcbd3a52e9c031cd4a154fcb6e] to a UK competent authority except where it does so on a case by case basis where it is satisfied that—[^key-d3449457d3762a2d4ab99e36153282f6]
+
+- (a) it is necessary to transfer that PNR information for a purpose described in paragraph (3); and
+- (b) the UK competent authority has arrangements in place for the protection of personal data that are equivalent to the arrangements for the protection of personal data required of the PIU under these Regulations.
+
+(10) The processing and analysis of PNR data by the PIU must be carried out exclusively within a secure location within the territory of the United Kingdom.
+
+### 7. Processing of PNR data by a UK competent authority
+
+(1) A UK competent authority must not—
+
+- (a) process PNR information[^key-64507486b363435e6d55a5620df807d1] for purposes other than a purpose described in regulation 6(3)[^key-e3a1df6f233d7c3d49e20089242be816], or
+- (b) take any decision which produces an adverse legal effect on a person or otherwise significantly affects a person—
+  - (i) only by reason of the automated processing of PNR data, or
+  - (ii) on the basis of any of the matters described in regulation 6(5)(c) in relation to that person.
+
+(2) Paragraph (1)(a) is without prejudice to the ability of a UK competent authority to exercise its functions —[^key-482e3eed08e67dbb96612022c49257ec]
+
+- (a) in circumstances where other offences, or indications of such offences, are detected during the course of any enforcement action taken further to the processing of PNR data, or[^key-36bd3e442dcc53a8f22f2ea7a47261e6]
+- (b) in relation to public health.
+
+(3)[^key-f6feefdab7a3719b4f10cf0f1a348687] Where the PIU transfers PNR information under regulation 6(9), the UK competent authority must not transfer the PNR information to another person without the consent of the PIU.
+
+### 8. Exchange of PNR data between Member States[^key-ba3f0116f383765db5e4de24138e9cab]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Requests for PNR data made to the PIU by a non-UK PIU[^key-ba3f0116f383765db5e4de24138e9cab]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Requests for PNR data made by the PIU[^key-ba3f0116f383765db5e4de24138e9cab]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Requests for PNR data made by the PIU[^key-48235ad328c8042cedde1742d963fc76]
+
+(1) Any request made by the PIU to an EU PIU for PNR information must be—
+
+- (a) made only for the purpose described in regulation 6(3)(a),
+- (b) made in respect of a specific case, and
+- (c) duly reasoned.
+
+(2) Any request made by the PIU to a third country competent authority for PNR information must be—
+
+- (a) made only for a purpose described in regulation 6(3),
+- (b) made in respect of a specific case, and
+- (c) duly reasoned.
+
+### 11. Requests for PNR data made by a UK competent authority ...[^key-6bb8e3f4fbf8beda32e3a53ae7110a8c]
+
+(1) A UK competent authority must channel its requests for PNR information[^key-607403ce5d7faf3691fefd021d3ea94e] processed by an EU PIU or a third country competent authority[^key-a62b685bb94028e208d06e30be087b22] through the [^key-859dfaffc0edc12f7f7ff7c56e34d5b5]... PIU.
+
+(2) Where necessary in the case of an emergency and provided the conditions laid down in paragraph (3) are satisfied, a UK competent authority may make a request for PNR information[^key-2e8e7b4b88b32a97024aced18fcbfe30] directly to a third country[^key-7ab89d80c3fe3ff3392974bad566ea31][^key-79ecf3edc8963e7fe38a7fd98182c3cf] competent authority.
+
+(3)[^key-fb04aa00f892f14b35ec4779dd23dc10] The conditions are that—
+
+- (a) the request is made solely for the purposes of the prevention, detection, investigation or prosecution of terrorist offences or serious crime;
+- (b) the request is made in respect of a specific case;
+- (c) the request is duly reasoned, and
+- (d) a copy of the request is sent to the PIU.
+
+### 11A. Transfers of PNR data to an EU PIU[^key-a486acc443c2686614471ef8b45171db]
+
+(1) The PIU must transfer PNR information to an EU PIU in a specific case, as soon as possible, where—
+
+- (a) the EU PIU has made a duly reasoned request for the PNR information, and
+- (b) the PIU is satisfied that it is necessary to transfer that PNR information for the purpose described in regulation 6(3)(a).
+
+(2) The PIU must transfer analytical information containing PNR data to an EU PIU in a specific case, as soon as possible, where the PIU considers that it is necessary to transfer that analytical information for the purpose described in regulation 6(3)(a).
+
+### 11B. Transfers of PNR data to Europol and Eurojust
+
+(1) The PIU must transfer PNR information to Europol or Eurojust in a specific case, as soon as possible, where—
+
+- (a) Europol or Eurojust has made a duly reasoned request for the PNR information, and
+- (b) the PIU is satisfied that it is necessary to transfer that PNR information for the purpose described in regulation 6(3)(a).
+
+(2) The PIU must transfer analytical information containing PNR data to Europol or Eurojust in a specific case, as soon as possible, where the PIU considers that it is necessary to transfer that analytical information for the purpose described in regulation 6(3)(a).
+
+### 12. Transfers of PNR data to third country competent authorities[^key-1f468c0dcab8869c67b6512e32be35b0][^key-2d74de0a1c40ec0e2566f4279f7dd15e][^key-f7313e64a8aec5cbc349bab65ea319f4]
+
+(1)[^key-0f2ddab8061aebcc92387efae55fd853][^key-1752547ed48766c5040a7dec054527f0] Paragraphs (1A) to (2A) apply to PNR information that is not EU PNR information.
+
+(1A) The PIU must not transfer that PNR information to a third country competent authority except where it does so on a case by case basis where paragraph (2) or (2A) applies.
+
+(2) This paragraph applies where[^key-494d4e2413fa8dccfd3e9dc8404993d1]—
+
+- (a) the request from the non-UK competent authority is duly reasoned;
+- (b) the PIU is satisfied that the transfer is necessary for a purpose described in regulation 6(3)[^key-eabf84c0cd4e477107f01a0b7126ec30], and
+- (c) the third country[^key-5ab166564890cf270673724d5b21cf15] competent authority agrees to transfer the information[^key-cc1e43f10150bc60755f47214821e355] to another third country competent authority only where it is strictly necessary for the purposes described in sub-paragraph (b).
+
+(2A) This paragraph applies where[^key-4429efb962769d1d4f56e2f178ab4766]—
+
+- (a)[^key-3951b5e38b6ced0ef34d055bec291af7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the PIU considers it necessary for a purpose described in regulation 6(3)[^key-b49ba1dacef82472136e4e41c01c5840].
+
+(2B)[^key-2e2158db672a79d267fd24ab6ed1f13d] The PIU must not transfer EU PNR information to a third country competent authority except where it does so on a case by case basis where—
+
+- (a) paragraph (2C) applies and the PIU is satisfied that it is necessary to transfer the EU PNR information for a purpose described in regulation 6(3), or
+- (b) paragraph (2D) applies.
+
+(2C) This paragraph applies where—
+
+- (a) there is an agreement in force between the third country and the EU that provides for a level of protection of personal data that is equivalent to the level of protection required under the Agreement, or
+- (b) the European Commission has decided that the third country ensures an adequate level of protection of personal data, and that decision has not been repealed or suspended, or amended in a way that demonstrates that the Commission no longer considers there to be an adequate level of protection of personal data.
+
+(2D) This paragraph applies where—
+
+- (a) the PIU considers that it is necessary to transfer the EU PNR information—
+  - (i) for the prevention or investigation of an immediate and serious threat to public security, or
+  - (ii) to protect the vital interests of persons, and
+- (b) the third country competent authority provides a written confirmation to the PIU that the EU PNR information will be subject to a level of protection that is equivalent to the level of protection under these Regulations and the data protection legislation.
+
+(2E) Where the PIU transfers EU PNR information that it received from an EU PIU to a third country competent authority under this regulation, the PIU must notify that EU PIU as soon as possible.
+
+(2F) Where, under this regulation, the PIU transfers to a third country competent authority EU PNR data that originated in a member State, and was provided by a[^key-39d0099043db8a58fc1822a2fefc17be] carrier, the PIU must notify the EU PIU for that member State as soon as possible.
+
+(3) In the case of PNR data that has been depersonalised through the masking out of data elements pursuant to regulation 13(2), the PIU must not transfer the unmasked PNR data except where—
+
+- (a) the PIU is satisfied that the disclosure is necessary for a purpose described in regulation 6(3)[^key-764f1f61ccee48204f7df29426a06c64], and
+- (b) the disclosure is approved by the officer referred to in regulation 13(4)(b).
+
+(4) The PIU must inform the data protection officer each time PNR information[^key-d6764ab5a33f054d06146e17a368b4de] is transferred to a third country[^key-7d0fb3b2decee3ca05d7f05ae04bf547][^key-ed2632d30685c902d39d465dddaa4ee0] competent authority.
+
+### 13. Period of data retention and depersonalisation
+
+(1)[^key-d68af1f17c996da9a998ed0f7bbb6dae] Paragraphs (1A) and (1B) apply to PNR data transferred to the PIU—
+
+- (a) by [^key-760acac9edb5c62c37d084cbfba6d1a7]... carriers pursuant to a requirement imposed under—
+  - (i) paragraph 27B(2) of Schedule 2 to the Immigration Act 1971, or
+  - (ii) section 32(2) of the Immigration, Asylum and Nationality Act 2006, or
+- (b) by an EU PIU.
+
+for a period of five years beginning with the date of the transfer.
+
+(1A)[^key-0243080b4e6e5a33a014b06d56ff7f52] In the case of EU PNR data, the PIU must permanently delete the data before the end of the period of five years beginning with the date of the transfer, subject to regulation 13B if the data is restricted EU PNR data within the meaning of that regulation.
+
+(1B) In any other case, the PIU must—
+
+- (a) retain the PNR data for a period of five years beginning with the date of the transfer, and
+- (b) permanently delete that data upon expiry of that period.
+
+(1C) Paragraphs (1A) and (1B) do not affect the power of the PIU to retain PNR data where it is used in the context of specific cases for a purpose described in regulation 6(3).
+
+(2) Upon expiry of a period of six months beginning with the date of transfer of the PNR data by a[^key-e1ffb9111af30da7d8c2ea7a6d61beb3] carrier or an EU PIU[^key-511c8b000888852ed21607ac76d703cd] the PIU must depersonalise the PNR data through masking out of the following data elements—
+
+- (a) names, including the names of other passengers on the PNR and number of travellers who are travelling together on the PNR;
+- (b) address and contact information;
+- (c) all forms of payment information, including billing address;
+- (d) frequent flyer or similar scheme[^key-f3c6815f6fd4b9df8fab63cf0e77ad98] information;
+- (e) general remarks, [^key-4a219196e729644a774b78ba7ac81b34]...
+- (f) any API [^key-5f59e875aa4344e824b81e2f496f88bd]....
+- (g)[^key-7020b6cb6a10d3f7a447655471603903] Other Service Information (OSI), and
+- (h) System Service Information (SSI) and System Service Request information (SSR).
+
+(3) Paragraph (2) applies to the extent that the data elements listed in that paragraph could serve to identify directly the person[^key-5fa2ede78da74a150f90214a06b9913d] to whom the PNR data relates.
+
+(3A)[^key-71c503a9c475be317f1e12a260f743d7] The PIU must ensure that unmasked PNR data is only accessible by persons specifically authorised by the PIU to access such data and must limit the number of persons authorised to the minimum number practicable.
+
+(4) Upon expiry of the period referred to in paragraph (2) the PIU must not disclose the unmasked PNR data except where—
+
+- (a) the PIU is satisfied that the disclosure is necessary for a purpose described in regulation 6(3)[^key-48ff67df0cc3fe95ec57c8140ebf1d78], and
+- (b) the disclosure is approved by the most senior officer within the PIU who has been charged with verifying whether the conditions for disclosure of the full PNR are met.
+
+(5) In circumstances where the PIU discloses the unmasked PNR data—
+
+- (a) the officer referred to in paragraph (4)(b) must inform the data protection officer, and
+- (b) the data protection officer must conduct a review of that disclosure.
+
+(6) Any UK competent authority which is storing or otherwise processing PNR data must permanently delete that data when that data is no longer required in the context of the specific case for which it was transferred to the UK competent authority[^key-3a4d4f86d0501c7b122a3c6f00ce53c4].
+
+(7)[^key-1fda344ad8768a00ac715d9a735dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-1fda344ad8768a00ac715d9a735dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-1fda344ad8768a00ac715d9a735dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-1fda344ad8768a00ac715d9a735dd7cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13A. Use and transfer of EU PNR data by the PIU: further provision[^key-7d52d7f7cd564a9395f090ae3af32a5a]
+
+(1) The PIU may not use or transfer EU PNR data unless paragraph (2), (3), (4) or (5) applies.
+
+(2) This paragraph applies where the PIU processes the EU PNR data for the purposes of security and border control checks.
+
+(3) This paragraph applies if the designated independent authority has given consent for the use or transfer of the EU PNR data.
+
+(4) This paragraph applies if the PIU considers that the use or transfer of the EU PNR data is necessary in an urgent case.
+
+(5) This paragraph applies if the PIU considers that the use of the EU PNR data is necessary for the purpose of developing, or verifying the accuracy of, the pre-determined criteria referred to in regulation 6(5).
+
+(6) Where the PIU—
+
+- (a) uses EU PNR data as mentioned in paragraph (3) or (4), or
+- (b) transfers EU PNR data to an EU PIU, Europol, Eurojust or a third country competent authority,
+
+the PIU must notify the person to whom the data relates, so far as it is reasonably practicable to do so.
+
+(7) Where the PIU transfers EU PNR data to a UK competent authority, the UK competent authority must notify the person to whom the data relates, so far as it is reasonably practicable to do so.
+
+(8) A notification under paragraph (6) or (7) must—
+
+- (a) be in writing,
+- (b) be made within a reasonable period, and
+- (c) provide information about the procedures available for seeking redress of any grievance relating to the use or transfer.
+
+(9) A notification need not be made under paragraph (6) or (7) during any period when the PIU or the UK competent authority (as the case may be) considers that notifying the person would, or would be likely to, prejudice any ongoing investigations.
+
+(10) Nothing in paragraphs (2) to (5) affects the operation of regulation 6(2).
+
+### 13B. Restricted EU PNR data: further provision[^key-edfa2f1d3ea5c87b43c4b901406e075b]
+
+(1) For the purposes of this regulation, EU PNR data is “restricted EU PNR data” if it relates to a person arriving in the United Kingdom who—
+
+- (a) is not a UK national, and
+- (b) resides outside the United Kingdom.
+
+(2) For the purposes of this regulation, restricted EU PNR data relating to a person is subject to deletion if—
+
+- (a) the PIU, acting as such, knows that the person has left the United Kingdom, or
+- (b) the period for which the person is permitted to stay in the United Kingdom has expired.
+
+(3) But restricted EU PNR data is not subject to deletion—
+
+- (a) if, on the basis of a risk assessment based on objectively established criteria, the PIU considers that retention of the restricted EU PNR data is necessary for the purpose described in regulation 6(3)(a), or
+- (b) where the restricted EU PNR data is used in the context of specific cases for a purpose described in regulation 6(3).
+
+(4) The PIU must permanently delete restricted EU PNR data that is subject to deletion as soon as possible.
+
+(5) The PIU must ensure that the operation of paragraph (3)(a) is reviewed annually by the designated independent authority.
+
+(6) In this regulation, “**UK national**” means—
+
+- (a) a British citizen,
+- (b) a person who is a British subject by virtue of Part 4 of the British Nationality Act 1981 and who has a right of abode in the United Kingdom, or
+- (c) a person who is a British overseas territories citizen by virtue of a connection to Gibraltar.
+
+### 14. Protection of personal data
+
+(1) The PIU must not process PNR data revealing a person's race, ethnic origin, political opinions, philosophical beliefs, trade union membership, health, sexual life or sexual orientation.
+
+(1A)[^key-fb0b84024d7b6e32ac237c1711188d22] The PIU must permanently delete any PNR data referred to in paragraph (1).
+
+(2) The PIU must maintain documentation relating to all processing systems and procedures under its responsibility.
+
+(3) The documentation referred to in paragraph (2) must contain at least—
+
+- (a) the name and contact details of the personnel within the PIU entrusted with the processing of the PNR data;
+- (b) the respective levels of authorisation of those personnel to access PNR data;
+- (c) details of requests made by EU PIUs, Europol or Eurojust[^key-b5fd0aee9fdfae55ef8dbc3ba621007d] [^key-6d1a3fdd051a17d5343ac380f0256e03]..., and
+- (d) details of all requests for transfers of PNR data to a third country.
+
+(4) The PIU must make the documentation referred to in paragraph (2) available to the Information Commission[^key-36c1120a8e35c1b4859abc21e9c0f7e3] on request.
+
+(5) The PIU must keep records of all processing operations for a period of five years.
+
+### 15. Supervisory authority[^key-48a2a661bd4064ab84fc0d9ed2058058]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Application of other data protection enactments
+
+(1) Nothing in this Part has the effect of disapplying the provisions of an enactment described in paragraph (2) to the processing of PNR data by a UK competent authority.
+
+(2) The enactments referred to in paragraph (1) are any enactments governing the processing of personal data by a UK competent authority for the purposes of —[^key-a571b7f6f52c1638a9eafe5357320b0b]
+
+- (a) the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security, or[^key-e9bef873dac8ffe6747bdc62297cea9a]
+- (b) the protection of the public against threats to public health.
+
+## PART 4 — Passenger and Service Information
+
+### 17. Amendments to the Immigration and Police (Passenger, Crew and Service Information) Order 2008
+
+Regulations 18 to 20 amend the 2008 Order.
+
+### 18. Substitution of article 7 (form and manner in which passenger and service information to be provided: police)
+
+For article 7 substitute—
+
+> **7. Form and manner in which passenger and service information to be provided: police**
+>
+> (1) Paragraph (2) applies where the owner or agent of an aircraft is subject to a requirement under section 32(2) of the 2006 Act to provide any passenger or service information specified by article 6(4).
+>
+> (2) The owner or agent of the aircraft must provide that information electronically using a secure method which conforms to the data formats and transmission protocols provided for in Article 1 of the Implementing Decision.
+>
+> (3) In the circumstances described in paragraph (4), the owner or agent of an aircraft may provide the information in an alternative form and manner.
+>
+> (4) The circumstances are that—
+>
+> - (a) there has been a technical failure meaning that it is not possible for the owner or agent to provide the required information in accordance with paragraph (2);
+> - (b) the alternative form and manner provides an equivalent level of security in relation to the protection of personal data as the method referred to in paragraph (2), and
+> - (c) the intended recipient has consented to the provision of the information in the alternative form and manner.
+>
+> (5) Where a person other than the owner or agent of an aircraft is subject to a requirement to provide passenger or service information imposed under section 32(2) of the 2006 Act, the person must provide the required information in an electronic form that is compatible with the technology used by the recipient of the information.
+>
+> (6) Where there has been a technical failure meaning that it is not possible for a person to provide the required information in accordance with paragraph (5), the person may provide the required information in an alternative form and manner with the prior agreement of the recipient of the information.
+>
+> (7) In this article “**the Implementing Decision**” means Commission Implementing Decision (EU) 2017/759 of 28 April 2017 on the common protocols and data formats to be used by air carriers when transferring PNR data to Passenger Information Units [^c22956561].
+
+.
+
+### 19. Amendments to Schedule 2 (information specified to extent known by carrier: immigration)
+
+In Schedule 2, in paragraph 1—
+
+- (a) omit sub-paragraph (b);
+- (b) in sub-paragraph (e), for “sex” substitute “ gender ”;
+- (c) for sub-paragraph (f) substitute—
+
+  > - (f) any contact information, including telephone number and email address;
+
+  ;
+- (d) omit sub-paragraph (g);
+- (e) omit sub-paragraph (mm);
+- (f) in sub-paragraph (pp), at the end, omit “and”;
+- (g) in sub-paragraph (qq), at the end, add “ , and ”;
+- (h) after sub-paragraph (qq) add—
+
+  > - (rr) any other such information as is collected as part of a Passenger Name Record and is set out in paragraph 2 or 3 of Schedule 1.
+
+  .
+
+### 20. Substitution of Schedule 4 (information specified to extent known by carrier: police)
+
+For Schedule 4 substitute—
+
+> **SCHEDULE 4 — Information specified to extent known by carrier: police**
+>
+> Article 6(4)
+>
+> **1.** The passenger and service information is the following in respect of a passenger or, in so far as it applies (whether expressly or otherwise), in respect of a member of the crew—
+>
+> - (a) name as it appears on the reservation;
+> - (b) issue date of travel document;
+> - (c) address;
+> - (d) gender;
+> - (e) any contact information, including telephone number and email address;
+> - (f) travel status of passenger, which indicates whether reservation is confirmed or provisional and whether the passenger has checked in;
+> - (g) the number of pieces and description of any baggage carried;
+> - (h) any documentation provided to the passenger in respect of the passenger's baggage;
+> - (i) date of intended travel;
+> - (j) ticket number;
+> - (k) date and place of ticket issue;
+> - (l) seat number allocated;
+> - (m) seat number requested;
+> - (n) check-in time, regardless of method;
+> - (o) date on which reservation was made;
+> - (p) identity of any person who made the reservation;
+> - (q) any travel agent used;
+> - (r) any other name that appears on the passenger's reservation;
+> - (s) number of passengers on the same reservation;
+> - (t) complete travel itinerary for passengers on the same reservation;
+> - (u) the fact that a reservation in respect of more than one passenger has been divided due to a change in itinerary for one or more, but not all, of the passengers;
+> - (v) Code Share Details [^c22956571];
+> - (w) method of payment used to purchase ticket or make a reservation;
+> - (x) details of the method of payment used, including the number of any credit, debit or other card used;
+> - (y) billing address;
+> - (z) booking reference number, Passenger Name Record locator and other data locator used by the carrier to locate the passenger within its information system;
+> - (aa) the class of transport reserved;
+> - (bb) the fact that the reservation is in respect of a one-way journey;
+> - (cc) all historical changes to the reservation;
+> - (dd) General Remarks;
+> - (ee) Other Service Information (OSI);
+> - (ff) System Service Information (SSI) and System Service Request Information (SSR);
+> - (gg) identity of the individual who checked the passenger in for the voyage or flight or international service;
+> - (hh) Outbound Indicator, which identifies where a passenger is to travel on to from the United Kingdom;
+> - (ii) Inbound Connection Indicator, which identifies where a passenger started his journey before he travels onto the United Kingdom;
+> - (jj) the fact that the passenger is travelling as part of a group;
+> - (kk) card number and type of any frequent flyer or similar scheme used;
+> - (ll) Automated Ticket Fare Quote (ATFQ), which indicates the fare quoted and charged;
+> - (mm) the fact that the passenger is under the age of eighteen and unaccompanied;
+> - (nn) where the passenger is a person under the age of eighteen and unaccompanied—
+>   - (i) age;
+>   - (ii) languages spoken;
+>   - (iii) any special instructions provided;
+>   - (iv) the name of any departure agent who will receive instructions regarding the care of the passenger;
+>   - (v) the name of any transit agent who will receive instructions regarding the care of the passenger;
+>   - (vi) the name of any arrival agent who will receive instructions regarding the care of the passenger;
+>   - (vii) the following details in respect of the guardian on departure—
+>     - (aa) name;
+>     - (bb) address;
+>     - (cc) any contact telephone number;
+>     - (dd) relationship to passenger;
+>   - (viii) the following details in respect of the guardian on arrival—
+>     - (aa) name;
+>     - (bb) address;
+>     - (cc) any contact telephone number;
+>     - (dd) relationship to passenger, and
+> - (oo) any other such information as is collected as part of a Passenger Name Record and is set out in paragraph 2 or 3 of Schedule 3.
+
+.
+
+Caroline Nokes
+
+Minister of State
+
+Home Office
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement, in part, the requirements of Directive (EU) 2016/681 of the European Parliament and of the Council of 27 April 2016 on the use of passenger name record (PNR) data for the prevention, detection, investigation and prosecution of terrorist offences and serious crime (“**the Directive**”).
+
+Part 2 of these Regulations designates the UK's Passenger Information Unit (PIU) and makes provision for the appointment of a data protection officer by the PIU.
+
+Part 3 of these Regulations governs the processing, storage and transfer of PNR data and makes provision as to the protection of PNR data. In particular, regulation 6 sets out the general conditions and restrictions on the processing of PNR data by the PIU; regulation 7 governs the processing of PNR data by other UK authorities competent in the prevention, detection, investigation and prosecution of terrorist offences and serious crime; and regulations 8 to 12 make provision in respect of the exchange of PNR data, and the result of processing that data, with other EU Member States and third countries. Regulation 13 governs the period for which PNR data is to be retained and sets out the requirements as to the masking of PNR data which could serve to directly identify an individual. Regulation 14 makes provision as to the specific requirements governing the protection of personal data consisting of PNR data in addition to the provisions of any enactments governing the processing of personal data by a UK competent authority for law enforcement purposes. As is made clear by regulation 16, those enactments will continue to apply to the processing of PNR data. Regulation 15 makes clear that the Information Commissioner is to be responsible for advising on and monitoring the application within the UK of the provisions adopted pursuant to the Directive.
+
+Part 4 of the Regulations implements, in part, the requirements of articles 8 and 16 of the Directive.
+
+Article 8 of the Directive obliges Member States to put in place measures to require air carriers to transfer PNR data in respect of flights landing in, or departing from, their territory to the database of that Member State's PIU to the extent that the carrier has already collected such data in the normal course of its business. Regulations 19 and 20 amend, respectively, Schedules 2 and 4 to the Immigration and Police (Passenger, Crew and Service Information) Order 2008 (“**the 2008 Order**”) to ensure that the fields of passenger information which a carrier may be required to provide to an immigration officer pursuant to paragraph 27B(2) of Schedule 2 to the Immigration Act 1971 (c. 77), or a to constable of the rank of superintendent or above pursuant to section 32(2) of the Immigration, Asylum and Nationality Act 2006 (c. 13), are consistent with the fields of information referred to in Annex I to the Directive.
+
+Regulation 18 substitutes a new article 7 of the 2008 Order to reflect the requirements of article 16 of the Directive as to the form and manner in which passenger information is to be provided (in this case to the police). The form and manner in which passenger information is to be provided to an immigration officer, on request, is the subject of a Direction of the Secretary of State pursuant to paragraph 27B(8) of Schedule 2 to the Immigration Act 1971.
+
+A full impact assessment has not been produced for this instrument as no significant impact on the private, voluntary or public sectors is foreseen. A copy of the transposition note for the Directive will be available from the Border Data Policy Team, Home Office, 2 Marsham Street, London, SW1P 4 DF.
+
+## Annotations
+
+[^c22956481]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). Paragraph 27B of Schedule 2 was inserted by section 18 of the [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33). Relevant amendments were made by section 31(1) and (3) of the [Immigration, Asylum and Nationality Act 2006 (c.13)](https://www.legislation.gov.uk/ukpga/2006/13) (“**the 2006 Act**”). Paragraph 27B applies, in modified form, in respect of rail services between the UK and France by virtue of articles 4 and 7(1) of, and paragraph 1(11)(s) of Schedule 4 to, [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813) (“**the 1993 Order**”). Relevant amendments were made to articles 4 and 7(1) of the 1993 Order by [S.I. 1996/2283](https://www.legislation.gov.uk/uksi/1996/2283) and 2001/1544 and paragraph 1(11)(s) of Schedule 4 to the 1993 Order was inserted by [S.I. 2000/913](https://www.legislation.gov.uk/uksi/2000/913) and amended by SI 2007/3579. In respect of rail services between the UK and Belgium (via France) paragraph 27B applies, in modified form, by virtue of article 4(1) of [S.I. 1994/1405](https://www.legislation.gov.uk/uksi/1994/1405) (“**the 1994 Order**”) and takes effect with the same modifications as those set out in Schedule 4 to the 1993 Order (see [article 7](https://www.legislation.gov.uk/uksi/2018/598/article/7) of the 1994 Order, to which amendments were made by [S.I. 2007/2908](https://www.legislation.gov.uk/uksi/2007/2908), 2007/3579 and 2015/856). See paragraph 27B(10) for the definition of “specified”.
+
+[^c22956491]: Marginal citation: [2006 c. 13](https://www.legislation.gov.uk/ukpga/2006/13). Section 32 was amended by section 14(1), (2) and (3) of, and Part 2 of Schedule 15 to, the [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48) and section 25(1) and (2) of, and paragraphs 5 and 6 of Schedule 5 to, the Counter-[Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6). Section 32 applies, in modified form, in respect of rail services between the UK and France by virtue of articles 4 and 7(1) of, and paragraph 3A(a) of Schedule 4 to, the 1993 Order. Relevant amendments were made to articles 4 and 7(1) of the 1993 Order by [S.I. 1996/2283](https://www.legislation.gov.uk/uksi/1996/2283) and 2001/1544 and paragraph 3A of Schedule 4 to the 1993 Order was inserted by [S.I. 2007/3579](https://www.legislation.gov.uk/uksi/2007/3579). In respect of rail services between the UK and Belgium (via France) section 32 applies, in modified form, by virtue of article 4(1) of the 1994 Order and takes effect with the same modifications as those set out in Schedule 4 to the 1993 Order (see [article 7](https://www.legislation.gov.uk/uksi/2007/3579/article/7) of the 1994 Order, to which amendments were made by [S.I. 2007/2908](https://www.legislation.gov.uk/uksi/2007/2908), 2007/3579 and 2015/856).
+
+[^c22956501]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), and by section 3(3) of, and Part 1 of the Schedule to, the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^c22956511]: Marginal citation: [S.I. 2012/2752](https://www.legislation.gov.uk/uksi/2012/2752).
+
+[^c22956521]: Marginal citation: [S.I. 1998/2793](https://www.legislation.gov.uk/uksi/1998/2793), to which there are amendments not relevant to these Regulations.
+
+[^c22956531]: Marginal citation: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42); see the definition of “the Convention rights” in section 1(1) of that Act. The requirement set out in the second recital reflects the terms of section 32(7) of the 2006 Act.
+
+[^key-674e4f6aa9adbf4db8e2b905c328853f]: Modification: Regulations modified (temp.) (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/17) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-1e33ddc7d7f0422067c42958149265b4]: Modification: Regulations: power to modify conferred (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 18(3)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/18/3) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-4cce512fc48016ab0bc65ba684e5067e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/598/regulation/2) substituted (19.12.2024) by [The Immigration and Police (Passenger, Crew and Service Information) Order 2024 (S.I. 2024/1227)](https://www.legislation.gov.uk/uksi/2024/1227), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1227/article/1/2), [6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1227/article/6/2/a/i)
+
+[^key-da75bbe30c272cbaeddbcb5c7a869372]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/2/2) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-58ef733333b9682537115634d2a0d788]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/598/regulation/2) substituted (19.12.2024) by [The Immigration and Police (Passenger, Crew and Service Information) Order 2024 (S.I. 2024/1227)](https://www.legislation.gov.uk/uksi/2024/1227), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1227/article/1/2), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1227/article/6/2/a/ii)
+
+[^key-7aee162998367860754ac3293be6c9f7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/598/regulation/2) substituted (19.12.2024) by [The Immigration and Police (Passenger, Crew and Service Information) Order 2024 (S.I. 2024/1227)](https://www.legislation.gov.uk/uksi/2024/1227), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1227/article/1/2), [6(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/1227/article/6/2/a/iii)
+
+[^key-d176d1a33a99ce3c0022e1eafa2b78d9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/2/1) omitted (30.9.2026) by virtue of [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/25/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-268f4bfaa037e3616c02e1ecbe7660b5]: Textual amendment: Words in reg. 2(1) omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/2/3) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^M_F_16f8a0c2-76ea-4b52-b4de-ebf00e5b54c0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/598/regulation/2) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [104(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/742/regulation/104/2/b/i) (with [regs. 106A](https://www.legislation.gov.uk/uksi/2019/742/regulation/106A), [106B](https://www.legislation.gov.uk/uksi/2019/742/regulation/106B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/1408/regulation/31)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_5371b19b-b27b-4ee2-d844-e49f617a5ecb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/598/regulation/2) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [104(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/742/regulation/104/2/b/ii) (with [regs. 106A](https://www.legislation.gov.uk/uksi/2019/742/regulation/106A), [106B](https://www.legislation.gov.uk/uksi/2019/742/regulation/106B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/1408/regulation/31)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9d09b1acd67c3bd47317f8a6cb8cedc3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/598/regulation/2) inserted (19.12.2024) by [The Immigration and Police (Passenger, Crew and Service Information) Order 2024 (S.I. 2024/1227)](https://www.legislation.gov.uk/uksi/2024/1227), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1227/article/1/2), [6(2)(a)(iv)(aa)](https://www.legislation.gov.uk/uksi/2024/1227/article/6/2/a/iv/aa)
+
+[^key-0f310a06114c89d5d2471f8c07c522ab]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2018/598/regulation/2) substituted (19.12.2024) by [The Immigration and Police (Passenger, Crew and Service Information) Order 2024 (S.I. 2024/1227)](https://www.legislation.gov.uk/uksi/2024/1227), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1227/article/1/2), [6(2)(a)(iv)(bb)](https://www.legislation.gov.uk/uksi/2024/1227/article/6/2/a/iv/bb)
+
+[^key-f857cef004cc70cb8283070151ed69ad]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/598/regulation/2) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [104(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/742/regulation/104/2/b/iii) (with [regs. 106A](https://www.legislation.gov.uk/uksi/2019/742/regulation/106A), [106B](https://www.legislation.gov.uk/uksi/2019/742/regulation/106B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/1408/regulation/31)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3a726cb04d83c94fa5bcd4b91111890b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/598/regulation/2) substituted (19.12.2024) by [The Immigration and Police (Passenger, Crew and Service Information) Order 2024 (S.I. 2024/1227)](https://www.legislation.gov.uk/uksi/2024/1227), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1227/article/1/2), [6(2)(a)(v)](https://www.legislation.gov.uk/uksi/2024/1227/article/6/2/a/v)
+
+[^key-300e6cb656d562ad01a56a85f388b595]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/2/1) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/2/4/a) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-921668c0e75527e8f2b1d974bc22673f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/2/1) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/2/4/b) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-3d39cde2ae9acea16be009d4c2e8fb7a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/2/1) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/2/5) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-88ef8d89346f0a93d54ffd38fb153a31]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/2/1) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 2(7)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/2/7) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-f68784e8443b43f15f90f0d8895ccb04]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/2/1) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2021/884/regulation/3/1) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))
+
+[^key-f4e3aa833a83575ebd55111f1640725d]: Textual amendment: [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/2/1): words in definition renumbered as para. (a) (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 2(6)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/2/6/a) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-d5ae95f2db0bac01b92d839087dc59ac]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/598/regulation/2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [104(2)(e)](https://www.legislation.gov.uk/uksi/2019/742/regulation/104/2/e) (with [regs. 106A](https://www.legislation.gov.uk/uksi/2019/742/regulation/106A), [106B](https://www.legislation.gov.uk/uksi/2019/742/regulation/106B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/1408/regulation/31)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-58ff17830ef38c31fccf77495cbfb296]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/2/1) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 2(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/2/6/b) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-884ff46371b22d65845826ed127aee2a]: Textual amendment: [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/2/1): words in definition renumbered as para. (a) (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 2(8)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/2/8/a) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-2f9fc721af957013e9db2bf460a85329]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/598/regulation/2) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [104(2)(f)](https://www.legislation.gov.uk/uksi/2019/742/regulation/104/2/f) (with [regs. 106A](https://www.legislation.gov.uk/uksi/2019/742/regulation/106A), [106B](https://www.legislation.gov.uk/uksi/2019/742/regulation/106B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/1408/regulation/31)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-55102b850c9f48ebaa1fbb063d2a6a2e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/2/1) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 2(8)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/2/8/b) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-890042283fcef0b42da86ff4f138a26e]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2018/598/regulation/2/1A) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 2(9)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/2/9) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-8c2ace7cbfa2d4183048b5aecf5f9199]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/598/regulation/2/2) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [104(2)(g)](https://www.legislation.gov.uk/uksi/2019/742/regulation/104/2/g) (with [regs. 106A](https://www.legislation.gov.uk/uksi/2019/742/regulation/106A), [106B](https://www.legislation.gov.uk/uksi/2019/742/regulation/106B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/1408/regulation/31)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b674a284401d47f7293a5ab63e8c7155]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/3/1) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [104(3)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/104/3/a) (with [regs. 106A](https://www.legislation.gov.uk/uksi/2019/742/regulation/106A), [106B](https://www.legislation.gov.uk/uksi/2019/742/regulation/106B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/1408/regulation/31)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6f4d7dde8975cd113a8f1c746a539fab]: Textual amendment: Word in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2018/598/regulation/3/2/a) omitted (19.12.2024) by virtue of [The Immigration and Police (Passenger, Crew and Service Information) Order 2024 (S.I. 2024/1227)](https://www.legislation.gov.uk/uksi/2024/1227), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1227/article/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2024/1227/article/6/2/b)
+
+[^key-7a4e6a19cf45b2c97c9178bedd73c9d3]: Textual amendment: Words in [reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2018/598/regulation/3/2/c) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/3/2/a) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-bf508db5bc7f58a937b3b5870fb933eb]: Textual amendment: Words in [reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2018/598/regulation/3/2/c) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/3/2/b) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-ad9763aae53e1a1bb287f834f5a8ce14]: Textual amendment: [Reg. 3(2)(ca)](https://www.legislation.gov.uk/uksi/2018/598/regulation/3/2/ca) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/3/3) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-bf0d3b78c83c8d727e763c8c62153051]: Textual amendment: [Reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2018/598/regulation/3/2/d) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [104(3)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/104/3/b) (with [regs. 106A](https://www.legislation.gov.uk/uksi/2019/742/regulation/106A), [106B](https://www.legislation.gov.uk/uksi/2019/742/regulation/106B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/1408/regulation/31)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a9471595dfb574f4eb8ae0d138d8cf4e]: Textual amendment: Words in [reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2018/598/regulation/3/2/d) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/3/4/a) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-1473df32921af0b54a609e64813d9e80]: Textual amendment: Words in [reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2018/598/regulation/3/2/d) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/3/4/b) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-baa5a73563cf1777f4247173b7064cfb]: Textual amendment: [Reg. 3(3)-(6)](https://www.legislation.gov.uk/uksi/2018/598/regulation/3/3) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 3(5)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/3/5) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-783842511d93e9949826340827e9ded8]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2018/598/regulation/4/3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 25(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/25/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-c758d6a12cc78359adc48c9690e9ecad]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2018/598/regulation/4A) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/4) (with [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/17), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-4cf90aaffe323b2c472ac006dfeb186e]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/598/regulation/5) renumbered as reg. 5(1) (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/5/2) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-32778301171e427fa9ed28c94db3c8ef]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/5/1) substituted (19.12.2024) by [The Immigration and Police (Passenger, Crew and Service Information) Order 2024 (S.I. 2024/1227)](https://www.legislation.gov.uk/uksi/2024/1227), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1227/article/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2024/1227/article/6/2/c)
+
+[^key-8b1e39d6e5e1fe085d1d0f9a67d2a672]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2018/598/regulation/5/2) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/5/3) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-8f5e22779078fdd49eef17bf8acaa20c]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/6/1) substituted (19.12.2024) by [The Immigration and Police (Passenger, Crew and Service Information) Order 2024 (S.I. 2024/1227)](https://www.legislation.gov.uk/uksi/2024/1227), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1227/article/1/2), [6(2)(d)](https://www.legislation.gov.uk/uksi/2024/1227/article/6/2/d)
+
+[^key-cec6025c177c5cfa3b1af9ff9a094770]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/6/1) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/6/2/a) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-59a839df95cf39c8b4536b706c9dc1e0]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/6/1) omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/6/2/b) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-2f5ecb009b64f24bce624f1f5a59b7e5]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/6/1) omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 6(2)(c)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/6/2/c) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-4c08af8f7431e707af698da1f6be2bb8]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2018/598/regulation/6/2) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/6/3) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-bc7064e4385ce68230229673fdbfb3cc]: Textual amendment: [Reg. 6(3)(4)](https://www.legislation.gov.uk/uksi/2018/598/regulation/6/3/4) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/6/4) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-3f914ef31a6e6381a089d86353611fcc]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/uksi/2018/598/regulation/6/5) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 6(5)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/6/5/a) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-2d02700412caa338c71ffd335cd3b1ae]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/uksi/2018/598/regulation/6/5) omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 6(5)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/6/5/b) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-bdb5e00635e08456cd9c01a7b475f743]: Textual amendment: Word in [reg. 6(5)(a)](https://www.legislation.gov.uk/uksi/2018/598/regulation/6/5/a) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 6(5)(c)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/6/5/c) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-22a078d7319dfa9433df72f0d8a8b231]: Textual amendment: [Reg. 6(5A)](https://www.legislation.gov.uk/uksi/2018/598/regulation/6/5A) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 6(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/6/6) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-851dc175628c47c2ad4b76f0bd76101c]: Textual amendment: [Reg. 6(6)-(8)](https://www.legislation.gov.uk/uksi/2018/598/regulation/6/6) omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 6(7)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/6/7) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-18fa56dcbd3a52e9c031cd4a154fcb6e]: Textual amendment: Words in [reg. 6(9)](https://www.legislation.gov.uk/uksi/2018/598/regulation/6/9) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 6(8)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/6/8/a) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-d3449457d3762a2d4ab99e36153282f6]: Textual amendment: Words in [reg. 6(9)](https://www.legislation.gov.uk/uksi/2018/598/regulation/6/9) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 6(8)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/6/8/b) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-64507486b363435e6d55a5620df807d1]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/2018/598/regulation/7/1/a) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/7/2/a) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-e3a1df6f233d7c3d49e20089242be816]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/2018/598/regulation/7/1/a) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/7/2/b) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-482e3eed08e67dbb96612022c49257ec]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2018/598/regulation/7/2) renumbered as reg. 7(2)(a) (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 7(3)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/7/3/a) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-36bd3e442dcc53a8f22f2ea7a47261e6]: Textual amendment: [Reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/2018/598/regulation/7/2/b) and word inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/7/3/b) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-f6feefdab7a3719b4f10cf0f1a348687]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2018/598/regulation/7/3) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/7/4) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-ba3f0116f383765db5e4de24138e9cab]: Textual amendment: [Regs. 8-10](https://www.legislation.gov.uk/uksi/2018/598/regulation/8) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [104(5)](https://www.legislation.gov.uk/uksi/2019/742/regulation/104/5) (with [regs. 106A](https://www.legislation.gov.uk/uksi/2019/742/regulation/106A), [106B](https://www.legislation.gov.uk/uksi/2019/742/regulation/106B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/1408/regulation/31)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-48235ad328c8042cedde1742d963fc76]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/598/regulation/10) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/8) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-6bb8e3f4fbf8beda32e3a53ae7110a8c]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2018/598/regulation/11) heading omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/9/2) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-607403ce5d7faf3691fefd021d3ea94e]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/11/1) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/9/3/a) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-a62b685bb94028e208d06e30be087b22]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/11/1) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/9/3/b) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-859dfaffc0edc12f7f7ff7c56e34d5b5]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/11/1) omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 9(3)(c)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/9/3/c) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-2e8e7b4b88b32a97024aced18fcbfe30]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2018/598/regulation/11/2) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 9(4)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/9/4/a) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-7ab89d80c3fe3ff3392974bad566ea31]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2018/598/regulation/11/2) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 9(4)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/9/4/b) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-79ecf3edc8963e7fe38a7fd98182c3cf]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2018/598/regulation/11/2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [104(6)(c)](https://www.legislation.gov.uk/uksi/2019/742/regulation/104/6/c) (with [regs. 106A](https://www.legislation.gov.uk/uksi/2019/742/regulation/106A), [106B](https://www.legislation.gov.uk/uksi/2019/742/regulation/106B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/1408/regulation/31)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fb04aa00f892f14b35ec4779dd23dc10]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2018/598/regulation/11/3) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [104(6)(d)](https://www.legislation.gov.uk/uksi/2019/742/regulation/104/6/d) (with [regs. 106A](https://www.legislation.gov.uk/uksi/2019/742/regulation/106A), [106B](https://www.legislation.gov.uk/uksi/2019/742/regulation/106B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/1408/regulation/31)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a486acc443c2686614471ef8b45171db]: Textual amendment: [Regs. 11A](https://www.legislation.gov.uk/uksi/2018/598/regulation/11A), [11B](https://www.legislation.gov.uk/uksi/2018/598/regulation/11B) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/10) (with [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/17), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-1f468c0dcab8869c67b6512e32be35b0]: Textual amendment: Word in [reg. 12](https://www.legislation.gov.uk/uksi/2018/598/regulation/12) heading inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 11(2)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/11/2/a) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-2d74de0a1c40ec0e2566f4279f7dd15e]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2018/598/regulation/12) heading substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 11(2)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/11/2/b) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-f7313e64a8aec5cbc349bab65ea319f4]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2018/598/regulation/12) heading substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [104(7)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/104/7/a) (with [regs. 106A](https://www.legislation.gov.uk/uksi/2019/742/regulation/106A), [106B](https://www.legislation.gov.uk/uksi/2019/742/regulation/106B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/1408/regulation/31)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0f2ddab8061aebcc92387efae55fd853]: Textual amendment: [Reg. 12(1)(1A)](https://www.legislation.gov.uk/uksi/2018/598/regulation/12/1/1A) substituted for reg. 12(1) (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/11/3) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-1752547ed48766c5040a7dec054527f0]: Textual amendment: [Reg. 12(1)-(2A)](https://www.legislation.gov.uk/uksi/2018/598/regulation/12/1) substituted for [reg. 12(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/12/1)[(2)](https://www.legislation.gov.uk/uksi/2018/598/regulation/12/2) (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [104(7)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/104/7/b) (with [regs. 106A](https://www.legislation.gov.uk/uksi/2019/742/regulation/106A), [106B](https://www.legislation.gov.uk/uksi/2019/742/regulation/106B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/1408/regulation/31)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-494d4e2413fa8dccfd3e9dc8404993d1]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2018/598/regulation/12/2) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 11(4)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/11/4/a) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-eabf84c0cd4e477107f01a0b7126ec30]: Textual amendment: Words in [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/2018/598/regulation/12/2/b) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 11(4)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/11/4/b) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-5ab166564890cf270673724d5b21cf15]: Textual amendment: Words in [reg. 12(2)(c)](https://www.legislation.gov.uk/uksi/2018/598/regulation/12/2/c) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 11(4)(d)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/11/4/d) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-cc1e43f10150bc60755f47214821e355]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2018/598/regulation/12/2) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 11(4)(c)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/11/4/c) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-4429efb962769d1d4f56e2f178ab4766]: Textual amendment: Words in [reg. 12(2A)](https://www.legislation.gov.uk/uksi/2018/598/regulation/12/2A) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 11(5)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/11/5/a) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-3951b5e38b6ced0ef34d055bec291af7]: Textual amendment: [Reg. 12(2A)(a)](https://www.legislation.gov.uk/uksi/2018/598/regulation/12/2A/a) omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 11(5)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/11/5/b) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-b49ba1dacef82472136e4e41c01c5840]: Textual amendment: Words in [reg. 12(2A)](https://www.legislation.gov.uk/uksi/2018/598/regulation/12/2A) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 11(5)(c)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/11/5/c) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-2e2158db672a79d267fd24ab6ed1f13d]: Textual amendment: [Reg. 12(2B)-(2F)](https://www.legislation.gov.uk/uksi/2018/598/regulation/12/2B) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 11(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/11/6) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-39d0099043db8a58fc1822a2fefc17be]: Textual amendment: Word in [reg. 12(2F)](https://www.legislation.gov.uk/uksi/2018/598/regulation/12/2F) substituted (19.12.2024) by [The Immigration and Police (Passenger, Crew and Service Information) Order 2024 (S.I. 2024/1227)](https://www.legislation.gov.uk/uksi/2024/1227), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1227/article/1/2), [6(2)(e)](https://www.legislation.gov.uk/uksi/2024/1227/article/6/2/e)
+
+[^key-764f1f61ccee48204f7df29426a06c64]: Textual amendment: Words in [reg. 12(3)(a)](https://www.legislation.gov.uk/uksi/2018/598/regulation/12/3/a) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 11(7)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/11/7) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-d6764ab5a33f054d06146e17a368b4de]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2018/598/regulation/12/4) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 11(8)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/11/8/a) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-7d0fb3b2decee3ca05d7f05ae04bf547]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2018/598/regulation/12/4) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 11(8)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/11/8/b) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-ed2632d30685c902d39d465dddaa4ee0]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2018/598/regulation/12/4) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [104(7)(c)](https://www.legislation.gov.uk/uksi/2019/742/regulation/104/7/c) (with [regs. 106A](https://www.legislation.gov.uk/uksi/2019/742/regulation/106A), [106B](https://www.legislation.gov.uk/uksi/2019/742/regulation/106B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/1408/regulation/31)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d68af1f17c996da9a998ed0f7bbb6dae]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/uksi/2018/598/regulation/13/1) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/12/2) (with [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/17), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-760acac9edb5c62c37d084cbfba6d1a7]: Textual amendment: Word in [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2018/598/regulation/13/1/a) omitted (19.12.2024) by virtue of [The Immigration and Police (Passenger, Crew and Service Information) Order 2024 (S.I. 2024/1227)](https://www.legislation.gov.uk/uksi/2024/1227), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1227/article/1/2), [6(2)(f)(i)](https://www.legislation.gov.uk/uksi/2024/1227/article/6/2/f/i)
+
+[^key-0243080b4e6e5a33a014b06d56ff7f52]: Textual amendment: [Reg. 13(1A)-(1C)](https://www.legislation.gov.uk/uksi/2018/598/regulation/13/1A) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/12/3) (with [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/17), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-e1ffb9111af30da7d8c2ea7a6d61beb3]: Textual amendment: Word in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2018/598/regulation/13/2) substituted (19.12.2024) by [The Immigration and Police (Passenger, Crew and Service Information) Order 2024 (S.I. 2024/1227)](https://www.legislation.gov.uk/uksi/2024/1227), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1227/article/1/2), [6(2)(f)(ii)](https://www.legislation.gov.uk/uksi/2024/1227/article/6/2/f/ii)
+
+[^key-511c8b000888852ed21607ac76d703cd]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2018/598/regulation/13/2) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 12(4)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/12/4/a) (with [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/17), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-f3c6815f6fd4b9df8fab63cf0e77ad98]: Textual amendment: Words in [reg. 13(2)(d)](https://www.legislation.gov.uk/uksi/2018/598/regulation/13/2/d) inserted (19.12.2024) by [The Immigration and Police (Passenger, Crew and Service Information) Order 2024 (S.I. 2024/1227)](https://www.legislation.gov.uk/uksi/2024/1227), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1227/article/1/2), [6(2)(f)(iii)](https://www.legislation.gov.uk/uksi/2024/1227/article/6/2/f/iii)
+
+[^key-4a219196e729644a774b78ba7ac81b34]: Textual amendment: Word in [reg. 13(2)(e)](https://www.legislation.gov.uk/uksi/2018/598/regulation/13/2/e) omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/12/4/b) (with [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/17), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-5f59e875aa4344e824b81e2f496f88bd]: Textual amendment: Word in [reg. 13(2)(f)](https://www.legislation.gov.uk/uksi/2018/598/regulation/13/2/f) omitted (19.12.2024) by virtue of [The Immigration and Police (Passenger, Crew and Service Information) Order 2024 (S.I. 2024/1227)](https://www.legislation.gov.uk/uksi/2024/1227), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1227/article/1/2), [6(2)(f)(iv)](https://www.legislation.gov.uk/uksi/2024/1227/article/6/2/f/iv)
+
+[^key-7020b6cb6a10d3f7a447655471603903]: Textual amendment: [Reg. 13(2)(g)(h)](https://www.legislation.gov.uk/uksi/2018/598/regulation/13/2/g/h) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 12(4)(c)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/12/4/c) (with [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/17), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-5fa2ede78da74a150f90214a06b9913d]: Textual amendment: Word in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2018/598/regulation/13/3) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 12(5)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/12/5) (with [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/17), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-71c503a9c475be317f1e12a260f743d7]: Textual amendment: [Reg. 13(3A)](https://www.legislation.gov.uk/uksi/2018/598/regulation/13/3A) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 12(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/12/6) (with [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/17), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-48ff67df0cc3fe95ec57c8140ebf1d78]: Textual amendment: Words in [reg. 13(4)(a)](https://www.legislation.gov.uk/uksi/2018/598/regulation/13/4/a) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 12(7)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/12/7) (with [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/17), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-3a4d4f86d0501c7b122a3c6f00ce53c4]: Textual amendment: Words in [reg. 13(6)](https://www.legislation.gov.uk/uksi/2018/598/regulation/13/6) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 12(8)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/12/8) (with [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/17), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-1fda344ad8768a00ac715d9a735dd7cf]: Textual amendment: [Reg. 13(7)-(10)](https://www.legislation.gov.uk/uksi/2018/598/regulation/13/7) omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 12(9)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/12/9) (with [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/17), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-7d52d7f7cd564a9395f090ae3af32a5a]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2018/598/regulation/13A) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/13) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-edfa2f1d3ea5c87b43c4b901406e075b]: Textual amendment: [Reg. 13B](https://www.legislation.gov.uk/uksi/2018/598/regulation/13B) inserted (31.12.2023) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/14) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2023/1174](https://www.legislation.gov.uk/uksi/2023/1174), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1174/regulation/2)
+
+[^key-fb0b84024d7b6e32ac237c1711188d22]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/2018/598/regulation/14/1A) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/15/2) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-b5fd0aee9fdfae55ef8dbc3ba621007d]: Textual amendment: Words in [reg. 14(3)(c)](https://www.legislation.gov.uk/uksi/2018/598/regulation/14/3/c) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 15(3)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/15/3) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-6d1a3fdd051a17d5343ac380f0256e03]: Textual amendment: Words in [reg. 14(3)(c)](https://www.legislation.gov.uk/uksi/2018/598/regulation/14/3/c) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [104(9)](https://www.legislation.gov.uk/uksi/2019/742/regulation/104/9) (with [regs. 106A](https://www.legislation.gov.uk/uksi/2019/742/regulation/106A), [106B](https://www.legislation.gov.uk/uksi/2019/742/regulation/106B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/1408/regulation/31)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-36c1120a8e35c1b4859abc21e9c0f7e3]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2018/598/regulation/14/4) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 25(4)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/25/4); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-48a2a661bd4064ab84fc0d9ed2058058]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/598/regulation/15) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [104(10)](https://www.legislation.gov.uk/uksi/2019/742/regulation/104/10) (with [regs. 106A](https://www.legislation.gov.uk/uksi/2019/742/regulation/106A), [106B](https://www.legislation.gov.uk/uksi/2019/742/regulation/106B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/1408/regulation/31)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a571b7f6f52c1638a9eafe5357320b0b]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2018/598/regulation/16/2) renumbered as reg. 16(2)(a) (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/16/2/a) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^key-e9bef873dac8ffe6747bdc62297cea9a]: Textual amendment: [Reg. 16(2)(b)](https://www.legislation.gov.uk/uksi/2018/598/regulation/16/2/b) and word inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b), [Sch. 2 para. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/16/2/b) (with [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/9)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+
+[^c22956561]: Marginal citation: OJ No L 113, 29.4.2017, p. 48-51.
+
+[^c22956571]: Marginal citation: These indicate the name of any other carrier who will carry the passenger.

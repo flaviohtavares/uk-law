@@ -1,0 +1,343 @@
+---
+title: The Tax Credits (Residence) Regulations 2003
+id: uksi/2003/654
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-03-11'
+text_date: '2021-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2003/654
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/654/pdfs/uksi_20030654_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/654/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tax Credits (Residence) Regulations 2003
+
+> Text as at 2021-01-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2003 No. 654
+
+TAX CREDITS
+
+The Tax Credits (Residence) Regulations 2003
+
+Made
+
+11th March 2003
+
+Laid before Parliament
+
+11th March 2003
+
+Coming into force
+
+6th April 2003
+
+The Treasury, in exercise of the powers conferred upon them by sections 3(7) and 65(1), (7) and (9) of the Tax Credits Act 2002 [^c5015461], hereby make the following Regulations:[^key-32b327ebb0c94a6e2bfdbce7cb550e50][^key-3290f52fa5a6edc910527428ee46e8c0][^key-c6b389a26a288f746bdd0a07fe18fdf6]
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Tax Credits (Residence) Regulations 2003 and shall come into force on 6th April 2003.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Tax Credits Act 2002;
+- “**child**” has the same meaning as it has in the Child Tax Credit Regulations 2002 [^c5015471];
+-  “couple” has the meaning given by section 3(5A) of the Act;[^key-6ee648bce25786a3a3b62fa25501a683]
+- “**Crown servant posted overseas**” has the meaning given in regulation 5(2);
+- “**partner**” means where a person is a member of a [^key-58cfc2e3ba6620348ae2f124a97019cb]... couple, the other member of that couple;
+- “**qualifying young person**” has the meaning given in regulation 2, read with regulation 5, of the Child Tax Credit Regulations 2002;
+- “**relative**” means brother, sister, ancestor or lineal descendant.
+
+(2) In these Regulations a person is responsible for a child or qualifying young person if he is treated as being responsible for that child or qualifying young person in accordance with the rules contained in regulation 3 of the Child Tax Credit Regulations 2002.
+
+## 3. Circumstances in which a person is treated as not being in the United Kingdom[^key-e09f7274d3b17a9383dc7ff2cab86fc9]
+
+(1) A person shall be treated as not being in the United Kingdom for the purposes of Part 1 of the Act if he is not ordinarily resident in the United Kingdom.
+
+(2) Paragraphs (1) and (6) do[^key-83e62a99afd52b54b9e294be5a70928a] not apply to a Crown servant posted overseas or his partner.
+
+(3) A person who is in the United Kingdom as a result of his deportation, expulsion or other removal by compulsion of law from another country to the United Kingdom shall be treated as being ordinarily resident in the United Kingdom and paragraph (6) shall not apply[^key-bbe963aee675605a8ceba39923f6ffc4].
+
+(4)[^key-0ce264b4ba6ebf75be55c3442ba8a123] For the purposes of working tax credit a person (P) shall be treated as being ordinarily resident in the United Kingdom where—
+
+- (a) P is exercising rights in the United Kingdom as a worker pursuant to Parliament and Council Regulation (EU) No 492/2011 or P is a person with a right to reside in the United Kingdom pursuant to the Immigration (European Economic Area) Regulations 2016; or
+- (b) P satisfies the conditions in paragraph (4A).
+
+(4A) The conditions are that—
+
+- (a) P is a national of the United Kingdom or is a citizen of Ireland;
+- (b) P resides in Ireland; and
+- (c) P is engaged in qualifying remunerative work in the United Kingdom.
+
+(4B) For the purposes of paragraph (4A), P is a national of the United Kingdom if—
+
+- (a) P is a British citizen;
+- (b) P is a person who is a British subject by virtue of Part IV of the British Nationality Act 1981 and is therefore exempt from United Kingdom immigration control; or
+- (c) P is a British Dependent Territories citizen who acquires their citizenship from a connection with Gibraltar.
+
+(4C) For the purposes of paragraph (4A)—
+
+- (a) P is a citizen of Ireland if P is within the meaning of the Irish Nationality and Citizenship Act 1956; and
+- (b) “qualifying remunerative work” has the same meaning as it has in regulation 4 of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002.
+
+(5)[^key-d290242ee10bada3da8294800a83c3ef][^key-fbf5609166766f46b80c182b509b9da0] A person (P)[^key-7201f11063112782e7bd920605dfd742] shall be treated as not being in the United Kingdom for the purposes of Part 1 of the Act where [^key-c2eb1825f8dcf7c02a9bcfe8dbb30071]...—
+
+- (a) P[^key-dbe682b7d93624268fd4f718ebcbed2b] makes a claim for child tax credit [^key-845624f5478274907cb15b3d4782679f]..., on or after 1st May 2004 and one of sub-paragraphs (b), (c) or (d) applies;[^key-5b84f19a8b85c9897db4e8d07b12bb84]
+- (b)[^key-81ad2352432655f1a312fdbeb360b5f5] P does not have a right to reside in the United Kingdom;
+- (c) P has a right to reside under paragraph (1) of regulation 16 of the Immigration (European Economic Area) Regulations 2016, but only in a case where the right exists under that regulation because P satisfies the criteria in paragraph (5) of that regulation; or
+- (d) P would fall within sub-paragraph (b) or (c) but for the fact that P has limited leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 by virtue of—
+  - (i) Appendix EU to the immigration rules; or
+  - (ii) having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules made under section 3(2) of that Act.
+
+(5A)[^key-8794f35f2bb9d3775b57c570839e029c] Paragraph (5)(c) does not apply to a person who is lawfully working in the United Kingdom—
+
+- (a) who—
+  - (i) made a claim for child tax credit before 1st January 2021, and
+  - (ii) is a national of a State with which the European Union had, before 1st January 2021, concluded an agreement under Article 217 of the Treaty on the Functioning of the European Union providing in the field of social security for the equal treatment of workers who are nationals of the signatory State and their families; or
+- (b) who is a national of a State with which the United Kingdom has concluded an agreement which replaces, in whole or in part, an EU Agreement which has ceased to apply in the United Kingdom.
+
+(5B)[^key-0a7536f13fef5776427411fff8683d66] Paragraph (5)(d)(i)[^key-d1cb9ac9cc29939ffbf963e9df030058] does not apply to a person who—
+
+- (a) has limited leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 which has been granted by virtue of Appendix EU to the Immigration Rules;
+- (b) has been granted such leave in reliance of being a family member of a relevant person of Northern Ireland in accordance with those Rules; and
+- (c) would have a right to reside under the Immigration (European Economic Area) Regulations 2016 if the relevant person of Northern Ireland were an EEA national within the meaning of regulation 2 of those Regulations.
+
+(6)[^key-7c663006ed900c109e4f9747821df5ee] Subject to paragraph (7), a person is to be treated as being in the United Kingdom for the purposes of Part 1 of the Act where he makes a claim for child tax credit only if that person has been living in the United Kingdom for 3 months before that claim plus any time taken into account by regulation 7 of the Tax Credits (Claims and Notifications) Regulations 2002 for determining for the purpose of that regulation when the claim is treated as having been made.
+
+(7) Paragraph (6) shall not apply where the person—
+
+- (a) most recently entered the United Kingdom before 1st July 2014;
+- (b) is a worker or a self-employed person in the United Kingdom for the purposes of regulation 4(1)(a) or (b) of the Immigration (European Economic Area) Regulations 2016[^key-583b53f3e341ff9f2b68e9e9f9558ac4];
+- (c) retains the status of a worker or self-employed person in the United Kingdom pursuant to regulation 6(2) or (4) of the Immigration (European Economic Area) Regulations 2016[^key-989ccbbbb5afa58fc7b2b5a791a1ab54];
+- (d) is treated as a worker in the United Kingdom pursuant to regulation 5 of the Accession of Croatia (Immigration and Worker Authorisation) Regulations 2013 (right of residence of a Croatian who is an “accession State national subject to worker authorisation”);
+- (e) is a family member of a person referred to in sub-paragraphs (b), (c), (d) , (i) or (o)[^key-210ca06074008a8374d3cef2a12c3ae3];
+- (f) is a person to whom regulation 4 applies (persons temporarily absent from the United Kingdom) and who returns to the United Kingdom within 52 weeks starting from the first day of the temporary absence;
+- (g) returns to the United Kingdom after a period abroad of less than 52 weeks where immediately before departing from the United Kingdom that person had been ordinarily resident in the United Kingdom for a continuous period of 3 months;
+- (h) returns to the United Kingdom otherwise as a worker or self-employed person after a period abroad and where, otherwise than for a period of up to 3 months ending on the day of returning, that person has paid either Class 1 or Class 2 contributions pursuant to regulation 114, 118, 146 or 147 of the Social Security (Contributions) Regulations 2001 or pursuant to an Order in Council having effect under section 179 of the Social Security Administration Act 1992;
+- (i)[^key-e0aa763b55fd2627e1bc1a6fe34235f9] is not a national of an EEA State and would be a worker or self-employed person in the United Kingdom for the purposes of the Immigration (European Economic Area) Regulations 2016 if that person—
+  - (i) were a national of an EEA State; and
+  - (ii) a “member of the post-transition period group” within the meaning of paragraph 1 of Schedule 4 to the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions (EU Exit) Regulations 2020;
+- (j) is a refugee as defined in Article 1 of the Convention relating to the Status of Refugees done at Geneva on 28th July 1951, as extended by Article 1(2) of the Protocol relating to the Status of Refugees done at New York on 31st January 1967;
+- (k) has been granted leave, or is deemed to have been granted leave, outside the rules made under section 3(2) of the Immigration Act 1971 where that leave is—
+  - (i) granted by the Secretary of State with recourse to public funds, or
+  - (ii) deemed to have been granted by virtue of regulation 3 of the Displaced Persons (Temporary Protection) Regulations 2005;
+- (l) has been granted leave to remain in the United Kingdom by the Secretary of State pending an application for indefinite leave to remain as a victim of domestic violence;
+- (m) has been granted humanitarian protection by the Secretary of State under Rule 339C of Part 11 of the rules made under section 3(2) of the Immigration Act 1971;
+- (n)[^key-f85c824eec2d579b91739817a87c0b0d] has been granted section 67 leave;
+- (o)[^key-ab5db78d9ceff0f13a6f2cb7cafaba5b] is a national of an EEA State and would satisfy the criteria in sub-paragraph (b) or (c) if they were a “member of the post-transition period group” within the meaning of paragraph 1 of Schedule 4 to the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions (EU Exit) Regulations 2020.
+
+(7A)[^key-a6a6598ea1f0d24719ddcc273ea414d6] A person (“P”) who is within Part IV Section 4 of the Reciprocal Agreement with Ireland will be treated as being ordinarily resident in the United Kingdom where P makes a claim for child tax credit if—
+
+- (a) P resides in Ireland; and
+- (b) P is in a relevant situation.
+
+(7B) Both members of a couple (“A and B”) who are within Part IV Section 4 of the Reciprocal Agreement with Ireland will be treated as being ordinarily resident in the United Kingdom where they make a joint claim for child tax credit tax if—
+
+- (a) either —
+  - (i) A or B is resident in Ireland; or
+  - (ii) both A and B are resident in Ireland; and
+- (b) either—
+  - (i) A or B is in a relevant situation; or
+  - (ii) both A and B are in a relevant situation and it does not matter if A and B are not in the same relevant situation.
+
+(7C) For the purposes of paragraphs (7A) and (7B), a person is in a “relevant situation” if that person is—
+
+- (a) an employed person as defined in Article 1 of the Reciprocal Agreement with Ireland and subject to the legislation of the United Kingdom in accordance with Part II of that Agreement;
+- (b) a self-employed person as defined in Article 1 of the Reciprocal Agreement with Ireland and subject to the legislation of the United Kingdom in accordance with Part II of that Agreement;
+- (c) receiving a contributory benefit from the United Kingdom in accordance with Article 9(2) of the Reciprocal Agreement with Ireland;
+- (d) receiving a state pension from the United Kingdom within the meaning of Article 3(1)(a)(v) of the Reciprocal Agreement with Ireland; or
+- (e) receiving a survivor’s benefit from the United Kingdom within the meaning of Article 3(1)(a)(vi) of the Reciprocal Agreement with Ireland.
+
+(7D) For the purposes of paragraphs (7A) to (7C), “the Reciprocal Agreement with Ireland” means the Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Ireland signed at Dublin on 1st February 2019.
+
+(8) For the purposes of paragraph (7)(e)[^key-48b91168add3bfc5fc67dfabbe786da7], a “family member” means a person who is defined as a family member of another person in regulation 7 of the Immigration (European Economic Area) Regulations 2016[^key-7fcc51842ef9ceb4cae66ce396351448].
+
+(9) In this regulation, “EEA State”, in relation to any time, means a state which at that time is a member State, or any other state which at that time is a party to the agreement on the European Economic Area signed at Oporto on 2nd May, together with the Protocol adjusting that Agreement signed at Brussels on 17th March 1993, as modified or supplemented from time to time.
+
+(10)[^key-902e1943492c2e14a8e38ed057624721] In this regulation “section 67 leave” means leave to remain in the United Kingdom granted by the Secretary of State to a person who has been relocated to the United Kingdom pursuant to arrangements made by the Secretary of State under section 67 of the Immigration Act 2016.
+
+(11)[^key-7eee144a91bc64912581ed07da5f52f3] In this regulation, “relevant person of Northern Ireland” means a person who—
+
+- (a) is—
+  - (i) a British citizen; or
+  - (ii) an Irish citizen; or
+  - (iii) a British citizen and an Irish citizen; and
+- (b) was born in Northern Ireland and, at the time of that person’s birth, at least one of their parents was—
+  - (i) a British citizen;
+  - (ii) an Irish citizen; or
+  - (iii) a British citizen and an Irish citizen; or
+  - (iv) otherwise entitled to reside in Northern Ireland without any restriction on their period of residence.
+
+(12)[^key-797e9c3a0cb9680f72679a717791e77b] In this regulation references to the Immigration (European Economic Area) Regulations 2016 are to be read with Schedule 4 to the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020(Consequential, Saving, Transitional and Transitory Provisions) Regulations 2020.
+
+(13)[^key-4bb5d480f0fe24dfbc1f0027c35cac3c] In this regulation “EU Agreement” means—
+
+- (a) an Association Agreement concluded under Article 217 of the Treaty on the Functioning of the European Union which makes provision in the field of social security for equal treatment for workers who are nationals of the State with which the agreement has been concluded and their families, or
+- (b) a Stabilisation and Association Agreement concluded under Article 217 of the Treaty on the Functioning of the European Union which makes provision for receipt of family allowances for members of a worker’s family who are legally resident in the United Kingdom.
+
+## 4. Persons temporarily absent from the United Kingdom
+
+(1) A person who is ordinarily resident in the United Kingdom and is temporarily absent from the United Kingdom shall be treated as being in the United Kingdom during the first—
+
+- (a) 8 weeks of any period of absence; or
+- (b) 12 weeks of any period of absence where that period of absence, or any extension to that period of absence, is in connection with—
+  - (i) the treatment of his illness or physical or mental disability;
+  - (ii) the treatment of his partner’s illness or physical or mental disability;
+  - (iii) the death of a person who, immediately prior to the date of death, was his partner;
+  - (iv) the death, or the treatment of the illness or physical or mental disability, of a child or qualifying young person for whom either he or his partner is, or both of them are, responsible; or
+  - (v) the death, or the treatment of the illness or physical or mental disability, of his or his partner’s relative.
+
+(2) A person is temporarily absent from the United Kingdom if at the beginning of the period of absence his absence is unlikely to exceed 52 weeks.
+
+## 5. Crown servants posted overseas
+
+(1) A Crown servant posted overseas shall be treated as being in the United Kingdom.
+
+(2) A Crown servant posted overseas is a person performing overseas the duties of any office or employment under the Crown in right of the United Kingdom —
+
+- (a) who is, or was, immediately prior to his posting or his first of consecutive postings, ordinarily resident in the United Kingdom; or
+- (b) who, immediately prior to his posting or his first of consecutive postings, was in the United Kingdom in connection with that posting.
+
+## 6. Partners of Crown servants posted overseas
+
+(1) The partner of a Crown servant posted overseas who is accompanying the Crown servant posted overseas shall be treated as being in the United Kingdom when he is either—
+
+- (a) in the country where the Crown servant is posted, or
+- (b) absent from that country in accordance with regulation 4 as modified by paragraphs (3) and (4).
+
+(2) Regulation 4 applies to the partner of a Crown servant posted overseas with the modifications set out in paragraphs (3) and (4).
+
+(3) Omit the words “ordinarily resident in the United Kingdom and is”.
+
+(4) In relation to a partner who is accompanying the Crown servant posted overseas the references to “United Kingdom” in the phrase “temporarily absent from the United Kingdom”, in both places where it occurs, shall be construed as references to the country where the Crown servant is posted.
+
+## 7. Transitional Provision –income support and income-based jobseeker’s allowance
+
+A person is exempt from the requirement to be ordinarily resident in the United Kingdom (which is set out in regulation 3(1)) in respect of child tax credit on and for three years after the date on which the award of child tax credit is made where —
+
+- (a) the award of child tax credit would be made on or after 6th April 2004;
+- (b) immediately before the award of child tax credit is made, he is, or will be on the making of a claim, entitled to any of the amounts in relation to income support and income-based jobseeker’s allowance which are described in section 1(3)(d) of the Act; and
+- (c) he is a person to which one or more of the following provisions applies—
+  - (i) paragraph (b) or (c) in the definition of “person from abroad” in regulation 21(3) of the Income Support (General) Regulations 1987 [^c5015521];
+  - (ii) paragraph (b) or (c) in the definition of “person from abroad” in regulation 85(4) of the Jobseeker’s Allowance Regulations 1996 [^c5015531];
+  - (iii) paragraph (b) or (c) in the definition of “person from abroad” in regulation 21(3) of the Income Support (General) (Northern Ireland) Regulations 1987 [^c5015541];
+  - (iv) paragraph (b) or (c) in the definition of “person from abroad” in regulation 85(4) of the Jobseeker’s Allowance Regulations (Northern Ireland)1996 [^c5015551].
+
+John Heppell
+
+Philip Woolas
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations prescribe circumstances in which a person is to be treated for the purposes of Part 1 of the Tax Credits Act 2002 (c. 21) as being, or as not being, in the United Kingdom.
+
+Regulation 1 provides for the citation and commencement of the Regulations and regulation 2 for interpretation.
+
+Regulation 3 sets out the requirement that a person who is not ordinarily resident in the United Kingdom will not be treated as being in the United Kingdom. This regulation does not apply to Crown servants posted overseas and their partners.
+
+This regulation also provides that a person shall be treated as being ordinarily resident if he is in the United Kingdom as a result of his deportation, expulsion or other removal by compulsion of law from another country to the United Kingdom. In addition it provides that, for the purposes of working tax credit, a person who is exercising in the United Kingdom his rights as a worker under Council Regulation (EEC) No.1612/68 or Commission Regulation [(EEC) No. 1251/70](https://www.legislation.gov.uk/european/regulation/1970/1251) or a person with a right to reside under Council Directive No. [68/360/EEC](https://www.legislation.gov.uk/european/directive/1968/0360) or No. [73/148/EEC](https://www.legislation.gov.uk/european/directive/1973/0148) shall be treated as being ordinarily resident.
+
+Regulation 4 provides for when a person who is ordinarily resident in the United Kingdom and is temporarily absent from the United Kingdom is treated as being in the United Kingdom.
+
+Regulations 5 and 6 set out when Crown servants posted overseas and their partners are treated as being in the United Kingdom.
+
+Regulation 7 is a transitional provision for people in receipt of the elements of income support and income-based jobseeker’s allowance described in section 1(3)(d) of the Tax Credits Act 2002. It exempts certain of those people from the requirement to be ordinarily resident until 5th April 2006.
+
+A regulatory impact assessment in respect of the Tax Credits Act 2002 has been prepared and placed in the Library of each House of Parliament. A copy may be found on the Inland Revenue website (www.inlandrevenue.gov.uk).
+
+## Annotations
+
+[^c5015461]: Marginal citation: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
+
+[^key-32b327ebb0c94a6e2bfdbce7cb550e50]: Modification: Regulations modified (6.4.2003) by [The Tax Credits (Polygamous Marriages) Regulations 2003 (S.I. 2003/742)](https://www.legislation.gov.uk/uksi/2003/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/742/regulation/51), [51](https://www.legislation.gov.uk/uksi/2003/742/regulation/51), [52](https://www.legislation.gov.uk/uksi/2003/742/regulation/52) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/742/regulation/1/2))
+
+[^key-3290f52fa5a6edc910527428ee46e8c0]: Modification: Regulations applied (with modifications) by [S.I. 2014/1230](https://www.legislation.gov.uk/uksi/2014/1230), [reg. 12A(2)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/12A/2), [Sch. paras. 37](https://www.legislation.gov.uk/uksi/2014/1230/schedule/paragraph/37), [38](https://www.legislation.gov.uk/uksi/2014/1230/schedule/paragraph/38) (as inserted (13.10.2014) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations 2014 (S.I. 2014/1626)](https://www.legislation.gov.uk/uksi/2014/1626), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1626/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2014/1626/regulation/4/1))
+
+[^key-c6b389a26a288f746bdd0a07fe18fdf6]: Modification: Regulations applied (with modifications) (coming into force in accordance with reg.1 of the amending S.R.) by [The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/226)](https://www.legislation.gov.uk/nisr/2016/226), [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1). [Sch. paras. 37](https://www.legislation.gov.uk/nisr/2016/226/schedule/paragraph/37), [38](https://www.legislation.gov.uk/nisr/2016/226/schedule/paragraph/38)
+
+[^c5015471]: Marginal citation: [S.I. 2002/2007](https://www.legislation.gov.uk/uksi/2002/2007).
+
+[^key-6ee648bce25786a3a3b62fa25501a683]: Textual amendment: Words in reg. 2(1) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2005/2919/article/8/2/a)
+
+[^key-58cfc2e3ba6620348ae2f124a97019cb]: Textual amendment: Words in reg. 2(1) omitted (5.12.2005) by virtue of [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2005/2919/article/8/2/b)
+
+[^key-e09f7274d3b17a9383dc7ff2cab86fc9]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/654/regulation/3) applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/3), [4(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/4), [11(f)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/11/f)
+
+[^key-83e62a99afd52b54b9e294be5a70928a]: Textual amendment: Words in reg. 3(2) substituted (1.7.2014) by virtue of [The Child Benefit (General) and the Tax Credits (Residence) (Amendment) Regulations 2014 (S.I. 2014/1511)](https://www.legislation.gov.uk/uksi/2014/1511), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1511/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2014/1511/regulation/6/2)
+
+[^key-bbe963aee675605a8ceba39923f6ffc4]: Textual amendment: Words in reg. 3(3) added (1.7.2014) by [The Child Benefit (General) and the Tax Credits (Residence) (Amendment) Regulations 2014 (S.I. 2014/1511)](https://www.legislation.gov.uk/uksi/2014/1511), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1511/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2014/1511/regulation/6/3)
+
+[^key-0ce264b4ba6ebf75be55c3442ba8a123]: Textual amendment: [Reg. 3(4)-(4C)](https://www.legislation.gov.uk/uksi/2003/654/regulation/3/4) substituted for reg. 3(4) (coming into force in accordance with reg. 1(2)(b) of the amending S.I.) by [The Tax Credits and Child Trust Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/713)](https://www.legislation.gov.uk/uksi/2019/713), [reg. 9(a)](https://www.legislation.gov.uk/uksi/2019/713/regulation/9/a) (see [S.I. 2019/622](https://www.legislation.gov.uk/uksi/2019/622), [art. 1](https://www.legislation.gov.uk/uksi/2019/622/article/1) and [S.I. 2019/128](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d290242ee10bada3da8294800a83c3ef]: Modification: Reg. 3(5) continued (6.4.2006) by [The Tax Credits (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/766)](https://www.legislation.gov.uk/uksi/2006/766), [regs. 1](https://www.legislation.gov.uk/uksi/2006/766/regulation/1), [5](https://www.legislation.gov.uk/uksi/2006/766/regulation/5)
+
+[^key-fbf5609166766f46b80c182b509b9da0]: Textual amendment: Reg. 3(5) added (1.5.2004) by [The Tax Credits (Residence) (Amendment) Regulations 2004 (S.I. 2004/1243)](https://www.legislation.gov.uk/uksi/2004/1243), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1243/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2004/1243/regulation/3) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/1243/regulation/1/2))
+
+[^key-7201f11063112782e7bd920605dfd742]: Textual amendment: Word in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2003/654/regulation/3/5) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(d)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/d), [14(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/14/2/a/i)
+
+[^key-c2eb1825f8dcf7c02a9bcfe8dbb30071]: Textual amendment: Word in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2003/654/regulation/3/5) omitted (31.12.2020 immediately after IP completion day) by virtue of [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(d)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/d), [14(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/14/2/a/ii)
+
+[^key-dbe682b7d93624268fd4f718ebcbed2b]: Textual amendment: Word in [reg. 3(5)(a)](https://www.legislation.gov.uk/uksi/2003/654/regulation/3/5/a) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(d)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/d), [14(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/14/2/b/i)
+
+[^key-845624f5478274907cb15b3d4782679f]: Textual amendment: Words in reg. 3(5)(a) omitted (29.4.2013) by virtue of [The Universal Credit (Transitional Provisions) Regulations 2013 (S.I. 2013/386)](https://www.legislation.gov.uk/uksi/2013/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/386/regulation/1/2), [Sch. para. 46](https://www.legislation.gov.uk/uksi/2013/386/schedule/paragraph/46)
+
+[^key-5b84f19a8b85c9897db4e8d07b12bb84]: Textual amendment: Words in [reg. 3(5)(a)](https://www.legislation.gov.uk/uksi/2003/654/regulation/3/5/a) substituted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(d)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/d), [14(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/14/2/b/ii)
+
+[^key-81ad2352432655f1a312fdbeb360b5f5]: Textual amendment: [Reg. 3(5)(b)-(d)](https://www.legislation.gov.uk/uksi/2003/654/regulation/3/5/b) substituted for [reg. 3(5)(b)](https://www.legislation.gov.uk/uksi/2003/654/regulation/3/5/b) (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(d)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/d), [14(2)(c)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/14/2/c)
+
+[^key-8794f35f2bb9d3775b57c570839e029c]: Textual amendment: [Reg. 3(5A)](https://www.legislation.gov.uk/uksi/2003/654/regulation/3/5A) substituted (1.1.2021) by [The Social Security, Child Benefit and Child Tax Credit (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1505)](https://www.legislation.gov.uk/uksi/2020/1505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1505/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1505/regulation/5/2/a)
+
+[^key-0a7536f13fef5776427411fff8683d66]: Textual amendment: Reg. 3(5B) inserted (24.8.2020) by [The Child Benefit and Child Tax Credit (Persons of Northern Ireland) (Amendment) Regulations 2020 (S.I. 2020/672)](https://www.legislation.gov.uk/uksi/2020/672), [regs. 1](https://www.legislation.gov.uk/uksi/2020/672/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/672/regulation/3/2/a)
+
+[^key-d1cb9ac9cc29939ffbf963e9df030058]: Textual amendment: Word in [reg. 3(5B)](https://www.legislation.gov.uk/uksi/2003/654/regulation/3/5B) substituted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(d)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/d), [14(2)(e)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/14/2/e)
+
+[^key-7c663006ed900c109e4f9747821df5ee]: Textual amendment: Reg. 3(6)-(9) inserted (1.7.2014) by [The Child Benefit (General) and the Tax Credits (Residence) (Amendment) Regulations 2014 (S.I. 2014/1511)](https://www.legislation.gov.uk/uksi/2014/1511), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1511/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2014/1511/regulation/6/4)
+
+[^key-583b53f3e341ff9f2b68e9e9f9558ac4]: Textual amendment: Words in reg. 3(7)(b) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [7(2)(d)(i)](https://www.legislation.gov.uk/uksi/2019/364/regulation/7/2/d/i)
+
+[^key-989ccbbbb5afa58fc7b2b5a791a1ab54]: Textual amendment: Words in reg. 3(7)(c) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [7(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/364/regulation/7/2/d/ii)
+
+[^key-210ca06074008a8374d3cef2a12c3ae3]: Textual amendment: Words in [reg. 3(7)(e)](https://www.legislation.gov.uk/uksi/2003/654/regulation/3/7/e) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [61(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/61/2/a)
+
+[^key-e0aa763b55fd2627e1bc1a6fe34235f9]: Textual amendment: [Reg. 3(7)(i)](https://www.legislation.gov.uk/uksi/2003/654/regulation/3/7/i) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [61(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/61/2/b)
+
+[^key-f85c824eec2d579b91739817a87c0b0d]: Textual amendment: Reg. 3(7)(n) inserted (20.7.2018) by [The Child Benefit, Tax Credits and Childcare Payments (Section 67 Immigration Act 2016 Leave) (Amendment) Regulations 2018 (S.I. 2018/788)](https://www.legislation.gov.uk/uksi/2018/788), [regs. 1](https://www.legislation.gov.uk/uksi/2018/788/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/788/regulation/4/2/a)
+
+[^key-ab5db78d9ceff0f13a6f2cb7cafaba5b]: Textual amendment: [Reg. 3(7)(o)](https://www.legislation.gov.uk/uksi/2003/654/regulation/3/7/o) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [61(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/61/2/c)
+
+[^key-a6a6598ea1f0d24719ddcc273ea414d6]: Textual amendment: [Reg. 3(7A)-(7D)](https://www.legislation.gov.uk/uksi/2003/654/regulation/3/7A) inserted (coming into force in accordance with reg. 1(2)(b) of the amending S.I.) by [The Tax Credits and Child Trust Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/713)](https://www.legislation.gov.uk/uksi/2019/713), [reg. 9(b)](https://www.legislation.gov.uk/uksi/2019/713/regulation/9/b) (see [S.I. 2019/622](https://www.legislation.gov.uk/uksi/2019/622), [art. 1](https://www.legislation.gov.uk/uksi/2019/622/article/1) and [S.I. 2019/128](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-48b91168add3bfc5fc67dfabbe786da7]: Textual amendment: Words in reg. 3(8) substituted (24.8.2020) by [The Child Benefit and Child Tax Credit (Persons of Northern Ireland) (Amendment) Regulations 2020 (S.I. 2020/672)](https://www.legislation.gov.uk/uksi/2020/672), [regs. 1](https://www.legislation.gov.uk/uksi/2020/672/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/672/regulation/3/2/b)
+
+[^key-7fcc51842ef9ceb4cae66ce396351448]: Textual amendment: Words in reg. 3(8) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [7(2)(e)](https://www.legislation.gov.uk/uksi/2019/364/regulation/7/2/e)
+
+[^key-902e1943492c2e14a8e38ed057624721]: Textual amendment: Reg. 3(10) inserted (20.7.2018) by [The Child Benefit, Tax Credits and Childcare Payments (Section 67 Immigration Act 2016 Leave) (Amendment) Regulations 2018 (S.I. 2018/788)](https://www.legislation.gov.uk/uksi/2018/788), [regs. 1](https://www.legislation.gov.uk/uksi/2018/788/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/788/regulation/4/2/b)
+
+[^key-7eee144a91bc64912581ed07da5f52f3]: Textual amendment: Reg. 3(11) inserted (24.8.2020) by [The Child Benefit and Child Tax Credit (Persons of Northern Ireland) (Amendment) Regulations 2020 (S.I. 2020/672)](https://www.legislation.gov.uk/uksi/2020/672), [regs. 1](https://www.legislation.gov.uk/uksi/2020/672/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2020/672/regulation/3/2/c)
+
+[^key-797e9c3a0cb9680f72679a717791e77b]: Textual amendment: [Reg. 3(12)](https://www.legislation.gov.uk/uksi/2003/654/regulation/3/12) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [61(2)(d)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/61/2/d)
+
+[^key-4bb5d480f0fe24dfbc1f0027c35cac3c]: Textual amendment: [Reg. 3(13)](https://www.legislation.gov.uk/uksi/2003/654/regulation/3/12) inserted (1.1.2021) by [The Social Security, Child Benefit and Child Tax Credit (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1505)](https://www.legislation.gov.uk/uksi/2020/1505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1505/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1505/regulation/5/2/b)
+
+[^c5015521]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967). The definition of “person from abroad” is inserted by [S.I. 1994/1807](https://www.legislation.gov.uk/uksi/1994/1807), and amended by [S.I. 1996/1944](https://www.legislation.gov.uk/uksi/1996/1944), [S.I. 1998/563](https://www.legislation.gov.uk/uksi/1998/563), [S.I. 2000/636](https://www.legislation.gov.uk/uksi/2000/636) and [S.I. 2000/979](https://www.legislation.gov.uk/uksi/2000/979).
+
+[^c5015531]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207). The definition of “person from abroad” is amended by [S.I. 1996/1516](https://www.legislation.gov.uk/uksi/1996/1516), [S.I. 1998/563](https://www.legislation.gov.uk/uksi/1998/563), [S.I. 2000/636](https://www.legislation.gov.uk/uksi/2000/636) and [S.I. 2000/979](https://www.legislation.gov.uk/uksi/2000/979).
+
+[^c5015541]: Marginal citation: S.R. [1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459). The definition of “person from abroad” is inserted by S.R. [1994 No. 266](https://www.legislation.gov.uk/nisr/1994/266), and amended by S.R. [1996 No. 405](https://www.legislation.gov.uk/nisr/1996/405), S.R. [1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), S.R. [2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71) and S.R. [2000 No. 125](https://www.legislation.gov.uk/nisr/2000/125).
+
+[^c5015551]: Marginal citation: S.R. [1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198). The definition of “person from abroad” is amended by S.R. [1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356), S.R. [1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), S.R. [2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71) and S.R. [2000 No. 125](https://www.legislation.gov.uk/nisr/2000/125).

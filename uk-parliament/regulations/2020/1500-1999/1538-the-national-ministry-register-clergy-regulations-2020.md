@@ -1,0 +1,222 @@
+---
+title: The National Ministry Register (Clergy) Regulations 2020
+id: uksi/2020/1538
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-12-11'
+text_date: '2026-03-06'
+extent: E
+source_url: https://www.legislation.gov.uk/uksi/2020/1538
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/1538/pdfs/uksi_20201538_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1538/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Ministry Register (Clergy) Regulations 2020
+
+> Text as at 2026-03-06.
+>
+> Extent: England.
+
+*Extent: E*
+
+2020 No. 1538
+
+Ecclesiastical Law, England
+
+The National Ministry Register (Clergy) Regulations 2020
+
+Made
+
+11th December 2020
+
+Laid before Parliament
+
+17th December 2020
+
+Coming into force
+
+1st May 2021
+
+The Archbishops’ Council, in exercise of the powers conferred by section 2 of the Church of England (Miscellaneous Provisions) Measure 2020[^f00001], makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-3071759204f38e786c17c3bad1eae88d]
+
+(1) These Regulations may be cited as the National Ministry Register (Clergy) Regulations 2020.
+
+(2) These Regulations come into force on 1st May 2021.
+
+(3) In these Regulations, “working day” means a day which is not a Saturday or Sunday, Christmas Day, Good Friday or a bank holiday in England under the Banking and Financial Dealings Act 1971[^f00002].
+
+(4) A requirement in these Regulations to provide information (however it is expressed) is to be read as a requirement to do so in writing.
+
+## 2. Registration information[^key-a3801dd9299240bd8e2e53e1e8744b04]
+
+(1) In these Regulations, the “registration information”, in relation to a clerk in Holy Orders, is—
+
+- (a) the clerk’s full name,
+- (b) the postal address, and the email address, at which the clerk wishes to be contacted for purposes relating to these Regulations,
+- (c) the form of authority to exercise ministry which the clerk has,
+- (d) the area, place or activity to which the authority relates, and
+- (e) if the authority is subject to a limitation of time, the date on which the authority comes to an end or details of the contingency on the occurrence of which it comes to an end.
+
+(2) In the case of an assistant curate in respect of whom an instrument under section 99 of the Mission and Pastoral Measure 2011[^f00003] is in force, the “registration information” also includes the terms in which the office of the assistant curate is described in the direction specified in the instrument.
+
+(3) In a case where a clerk in Holy Orders who has authority to exercise ministry is also appointed to the office of rural dean, the “registration information” also includes the date of that appointment.
+
+(4) In its application to the diocese of Sodor and Man, this regulation has effect as if the reference in paragraph (2) to section 99 of the Mission and Pastoral Measure 2011 were a reference to section 61 of the Dioceses, Pastoral and Mission Measure 2007[^f00004].
+
+## 3. Registration officer[^key-c1aabe823f21ed83de510f220cb98eb1]
+
+(1) This regulation applies for the purpose of determining who under these Regulations is the registration officer for a clerk in Holy Orders.
+
+(2) For an archbishop, the registration officer is the other archbishop.
+
+(3) For the bishop of a diocese, the registration officer is the archbishop of the province in which the diocese is situated.
+
+(4) For any other clerk in Holy Orders, the registration officer is—
+
+- (a) in relation to the clerk’s authority to exercise ministry in a diocese or an area of a diocese, in the cathedral of a diocese, in a private chapel in a diocese or at any institution or other place in a diocese (other than a Royal Peculiar), the bishop of the diocese;
+- (b) in relation to the clerk’s authority to exercise ministry in a Royal Peculiar (whether as the dean or in some other capacity), the dean of that Royal Peculiar;
+- (c) in relation to the clerk’s authority to exercise ministry as a chaplain in Her Majesty’s Forces, the Bishop to the Forces.
+
+(5) Paragraph (4)(a) does not apply to an authority to exercise ministry which takes the form of a licence to preach granted by the University of Oxford or the University of Cambridge.
+
+(6) In the case of a Chapel Royal, the references in this Regulation to the dean are references to the Dean of the Chapels Royal.
+
+(7) Where there is a vacancy in the see of an archbishop or diocesan bishop or in the office of the dean of a Royal Peculiar or a registration officer is unable to exercise functions as such, and the functions of registration officer have not already been delegated, the registration officer is—
+
+- (a) in the case of an archbishop, the senior bishop of the province (with seniority for these purposes being determined in accordance with section 10(4) of the Bishops (Retirement) Measure 1986[^f00005]);
+- (b) in the case of a diocesan bishop, the senior suffragan bishop of the diocese or, if there is no suffragan bishop, the senior archdeacon (with seniority for these purposes being determined for each office according to the length of service in that office in that diocese);
+- (c) in the case of the dean of a Royal Peculiar, the senior clerk in that Royal Peculiar (with seniority for these purposes being determined according to the length of service as a clerk in that Royal Peculiar) or, if there is no such clerk, the person who is for the time being the registration officer for clerks who have authority to exercise ministry in the diocese the area of which includes the Royal Peculiar.
+
+## 4. Requirements to provide information: existing or new authority[^key-8c4aa290da21e2f55044ca7cdff9b9fa]
+
+(1) The registration officer for a clerk in Holy Orders must, within five working days of the relevant commencement date[^key-c290e5600eece1db8c513461caca1794], provide the Council with the registration information about that clerk.
+
+(2) Where a clerk in Holy Orders becomes authorised to exercise ministry, the registration officer for the clerk must, within five working days of the clerk becoming so authorised, provide the Archbishops’ Council with the registration information about the clerk.
+
+(3) Where the authority of a clerk in Holy Orders to exercise ministry is renewed, the registration officer for the clerk must, within five working days of the authority being renewed, inform the Archbishops’ Council of the renewal.
+
+(4) Where the authority of a clerk in Holy Orders to exercise ministry is varied with the result that the registration information about the clerk is varied, the registration officer for the clerk must, within five working days of the variation taking effect, inform the Archbishops’ Council of the variation to the registration information.
+
+(5)[^key-ac2d5c8c6bb3691f0f1167403f77aeb0] The requirement imposed on the registration officer under paragraph (2) does not arise in the case of an authority to exercise ministry which is due to come to an end no more than 14 days after it begins.
+
+(6)[^key-a46a39a094c1d0619af4726c0915ed84] In paragraph (1), “**the relevant commencement date**” means the date on which this paragraph comes into force.
+
+## 5. Requirements to provide information: termination or suspension of authority[^key-4d4c6b80554e147abf2ec8a85a244d57]
+
+(1) Where the authority of a clerk in Holy Orders to exercise ministry is terminated, or ceases for a limited period, in circumstances of a kind mentioned in paragraph (2), the registration officer for the clerk must, within 24 hours of the termination or cessation taking effect, inform the Archbishops’ Council of the termination or cessation but not of the circumstances.
+
+(2) The circumstances referred to in paragraph (1) are circumstances where—
+
+- (a) the clerk’s permission to officiate is withdrawn;
+- (b) a prohibition for life or limited prohibition is imposed on the clerk, or the clerk is removed from office, under the Clergy Discipline Measure 2003[^f00006];
+- (c) a deprivation or inhibition is imposed on the clerk following a finding of guilt for an offence under Part 6 of the Ecclesiastical Jurisdiction Measure 1963[^f00007];
+- (d) the clerk is removed from office under the capability procedures (within the meaning of the Ecclesiastical Offices (Terms of Service) Measure 2009[^f00008]);
+- (e) the clerk’s office is vacated by a declaration under Part 1 of the Church Dignitaries (Retirement) Measure 1949[^f00009];
+- (f) the clerk resigns under section 4(2) or 11(5) of the Incumbents (Vacation of Benefices) Measure 1977[^f00010] (“the 1977 Measure”) or under section 3(1) of the Bishops (Retirement) Measure 1986 (“the 1986 Measure”);
+- (g) a notice of inhibition is served on the clerk under section 9A(1) of the 1977 Measure[^f00011] or the clerk is disqualified under section 10(4) or (5) of that Measure;
+- (h) the clerk’s benefice is vacated in accordance with a declaration under section 10(2) or 11(6) of the 1977 Measure or section 3(5) of the 1986 Measure;
+- (i) the clerk has voluntarily withdrawn from ministry.
+
+(3) Where the authority of a clerk in Holy Orders to exercise ministry is terminated, or ceases for a limited period, in circumstances of a kind other than those mentioned in paragraph (2), the registration officer for the clerk must, within three working days of the termination or cessation taking effect, inform the Archbishops’ Council of the termination or cessation and of the circumstances.
+
+(4) Where a clerk in Holy Orders with authority to exercise ministry is suspended from exercising ministry, or a clerk’s suspension from doing so is terminated, the registration officer for the clerk must, within 24 hours of the suspension, or the termination of the suspension, taking effect, inform the Archbishops’ Council of the suspension or termination but not of the circumstances.
+
+(5) A reference in this regulation to a provision of a Measure which does not have effect in the Channel Islands or either of them is to be read as including a reference to the equivalent provision which does have effect there; and for this purpose, the references to the Channel Islands or either of them have the same meaning as references to the Bailiwicks or either of them have in the Channel Islands Measure 2020[^f00012].
+
+(6)[^key-026334537f49cb5c068e71d6aa3eaad3] In its application to the Isle of Man, this regulation has effect as if each reference in paragraph (2) to a Measure which extends to the Isle of Man were a reference to that Measure as it has effect in that island.
+
+## 6. Publication etc. of registration information[^key-ac877bc69baf06ff87972edaddad767e]
+
+The Archbishops’ Council must publish and make available free of charge (in each case, whether in electronic form or otherwise) the registration information in relation to each clerk in Holy Orders, except the information referred to in regulation 2(1)(b) (contact details).
+
+These Regulations were approved by the General Synod on 25th November 2020.
+
+Jacqui Philips
+
+Clerk to the General Synod
+
+Signed by two authorised persons, and executed by the Archbishops’ Council, in accordance with paragraph 12A of Schedule 1 to the National Institutions Measure 1998 and section 11(6) and (7) of the Church of England (Miscellaneous Provisions) Measure 2018.
+
+Joanna Woolcock
+
+Officer of the Archbishops’ Council
+
+11th December 2020
+
+David White
+
+Officer of the Archbishops’ Council
+
+11th December 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made under section 2 of the Church of England (Miscellaneous Provisions) Measure 2020, which requires the Archbishops’ Council to compile and maintain a national register of those who exercise ministry. These Regulations are concerned only with clergy.
+
+Regulation 1 provides that the Regulations come into force on 1st May 2021.
+
+Regulation 2 sets out the information which is required about a cleric for the purposes of the national register.
+
+Regulation 3 determines who, in the case of each cleric, is to provide the Archbishops’ Council with the required information about that cleric.
+
+Regulation 4 imposes requirements for providing the Archbishops’ Council with the required information about clerics already exercising ministry and those subsequently authorised to do so.
+
+Regulation 5 imposes requirements for informing the Archbishops’ Council where a cleric’s exercise of ministry is terminated or suspended.
+
+Regulation 6 requires the Archbishops’ Council to publish and make available the registration information in relation to each cleric other than personal contact details.
+
+## Annotations
+
+[^f00001]: Footnote: [2020 No.1](https://www.legislation.gov.uk/ukcm/2020/1).
+
+[^key-3071759204f38e786c17c3bad1eae88d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1/2)
+
+[^f00002]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-a3801dd9299240bd8e2e53e1e8744b04]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1538/regulation/2) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1/2)
+
+[^f00003]: Footnote: [2011 No.3](https://www.legislation.gov.uk/ukcm/2011/3).
+
+[^f00004]: Footnote: [2007 No.1](https://www.legislation.gov.uk/ukcm/2007/1).
+
+[^key-c1aabe823f21ed83de510f220cb98eb1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1538/regulation/3) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1/2)
+
+[^f00005]: Footnote: [1986 No.1](https://www.legislation.gov.uk/ukcm/1986/1).
+
+[^key-8c4aa290da21e2f55044ca7cdff9b9fa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1538/regulation/4) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1/2)
+
+[^key-c290e5600eece1db8c513461caca1794]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/4/1) substituted (6.3.2026) by [The National Ministry Register Regulations 2026 (S.I. 2026/193)](https://www.legislation.gov.uk/uksi/2026/193), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/193/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2026/193/regulation/8/2)
+
+[^key-ac2d5c8c6bb3691f0f1167403f77aeb0]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/4/5) inserted (6.3.2026) by [The National Ministry Register Regulations 2026 (S.I. 2026/193)](https://www.legislation.gov.uk/uksi/2026/193), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/193/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2026/193/regulation/8/3)
+
+[^key-a46a39a094c1d0619af4726c0915ed84]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/4/6) inserted (6.3.2026) by [The National Ministry Register Regulations 2026 (S.I. 2026/193)](https://www.legislation.gov.uk/uksi/2026/193), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/193/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2026/193/regulation/8/4)
+
+[^key-4d4c6b80554e147abf2ec8a85a244d57]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1538/regulation/5) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1/2)
+
+[^f00006]: Footnote: [2003 No.3](https://www.legislation.gov.uk/ukcm/2003/3).
+
+[^f00007]: Footnote: [1963 No.1](https://www.legislation.gov.uk/ukcm/1963/1).
+
+[^f00008]: Footnote: [2009 No.1](https://www.legislation.gov.uk/ukcm/2009/1).
+
+[^f00009]: Footnote: [1949 No.1](https://www.legislation.gov.uk/ukcm/1949/1).
+
+[^f00010]: Footnote: [1977 No.1](https://www.legislation.gov.uk/ukcm/1977/1).
+
+[^f00011]: Footnote: Section 9A was inserted by section 6 of the Incumbents (Vacation of Benefices) (Amendment) Measure 1993 (No.1).
+
+[^f00012]: Footnote: [2020 No.2](https://www.legislation.gov.uk/ukcm/2020/2).
+
+[^key-026334537f49cb5c068e71d6aa3eaad3]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/5/6) inserted (6.3.2026) by [The National Ministry Register Regulations 2026 (S.I. 2026/193)](https://www.legislation.gov.uk/uksi/2026/193), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/193/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2026/193/regulation/8/5)
+
+[^key-ac877bc69baf06ff87972edaddad767e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1538/regulation/6) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1/2)

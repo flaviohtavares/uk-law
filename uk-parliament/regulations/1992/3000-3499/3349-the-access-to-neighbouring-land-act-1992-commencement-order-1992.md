@@ -1,0 +1,49 @@
+---
+title: The Access to Neighbouring Land Act 1992 (Commencement) Order 1992
+id: uksi/1992/3349
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1992-12-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1992/3349
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/3349/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Access to Neighbouring Land Act 1992 (Commencement) Order 1992
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1992 No. 3349 (C.103)
+
+LAND
+
+The Access to Neighbouring Land Act 1992 (Commencement) Order 1992
+
+Made
+
+17th December 1992
+
+The Lord Chancellor, in exercise of the powers conferred on him by section 9(2) of the Access to Neighbouring Land Act 1992[^f00001], hereby makes the following Order:
+
+**1.** This Order may be cited as the Access to Neighbouring Land Act 1992 (Commencement) Order 1992.
+
+**2.** The Access to Neighbouring Land Act 1992 shall come into force on 31st January 1993.
+
+Mackay of Clashfern, *C.*
+
+17th December 1992
+
+(This note is not part of the Order)
+
+This Order brings into force on 31st January 1993 the Access to Neighbouring Land Act 1992. The Act enables a person to apply to a county court allowing him to obtain access to neighbouring land for the purpose of carrying out preservation work to his own land.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 23](https://www.legislation.gov.uk/ukpga/1992/23).

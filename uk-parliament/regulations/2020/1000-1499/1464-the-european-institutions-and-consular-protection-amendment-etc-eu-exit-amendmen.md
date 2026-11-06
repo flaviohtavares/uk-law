@@ -1,0 +1,99 @@
+---
+title: The European Institutions and Consular Protection (Amendment etc.) (EU Exit) (Amendment) Regulations 2020
+id: uksi/2020/1464
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-12-03'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/1464
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/1464/pdfs/uksiem_20201464_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1464/pdfs/uksi_20201464_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1464/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The European Institutions and Consular Protection (Amendment etc.) (EU Exit) (Amendment) Regulations 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 1464
+
+Exiting The European Union
+
+European Union
+
+The European Institutions and Consular Protection (Amendment etc.) (EU Exit) (Amendment) Regulations 2020
+
+Sift requirements satisfied
+
+3rd December 2020
+
+Made
+
+3rd December 2020
+
+Laid before Parliament
+
+8th December 2020
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21(b) of Schedule 7 to, the European Union (Withdrawal) Act 2018[^f00001].
+
+The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdrawal) Act 2018 (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the European Institutions and Consular Protection (Amendment etc.) (EU Exit) (Amendment) Regulations 2020 and come into force on IP completion day[^f00002].
+
+## 2. Amendment of the European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018
+
+(1) The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018[^f00003] are amended as follows.
+
+(2) In the heading immediately before regulation 3, for “exit day” substitute “IP completion day”.
+
+(3) In regulation 3, for “exit day” substitute “IP completion day”.
+
+(4) Omit regulation 4.
+
+(5) Omit regulation 5.
+
+(6) In the heading immediately before regulation 6, for “exit day” substitute “IP completion day”.
+
+(7) In regulation 6, in each place where it occurs, for “exit day” substitute “IP completion day”.
+
+(8) Omit regulation 7.
+
+(9) Omit regulation 8.
+
+Dominic Raab
+
+Secretary of State
+
+Foreign, Commonwealth and Development Office
+
+3rd December 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made in exercise of the powers conferred by section 8(1) of, and paragraph 21(b) of Schedule 7 to, the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) in order to address failures of retained EU law to operate effectively and other deficiencies arising from the withdrawal of the United Kingdom from the European Union.
+
+These Regulations amend the European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 ([S.I. 2018/1391](https://www.legislation.gov.uk/uksi/2018/1391)). These Regulations amend references to “exit day” in the 2018 Regulations to “IP completion day”. These Regulations also omit certain regulations in the 2018 Regulations which are redundant as a result of provisions in the Withdrawal Agreement (which is the agreement between the United Kingdom and the European Union under Article 50(2) of the Treaty on European Union which sets out the arrangements for the United Kingdom’s withdrawal from the EU (as that agreement is modified from time to time in accordance with any provision of it)).
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^f00002]: Footnote: Schedule 1 to the Interpretation Act [1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30) provides that “IP completion day” has the same meaning as in the European Union (Withdrawal Agreement) Act [2020 (c.1)](https://www.legislation.gov.uk/ukpga/2020/1) (see section 39(1) to (5) of that Act).
+
+[^f00003]: Footnote: [S.I. 2018/1391](https://www.legislation.gov.uk/uksi/2018/1391).

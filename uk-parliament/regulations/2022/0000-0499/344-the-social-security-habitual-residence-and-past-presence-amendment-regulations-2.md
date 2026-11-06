@@ -1,0 +1,237 @@
+---
+title: The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2022
+id: uksi/2022/344
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-03-21'
+text_date: '2022-10-18'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2022/344
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/344/pdfs/uksiem_20220344_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2022/344/pdfs/uksiem_20220344_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/344/pdfs/uksi_20220344_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/344/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2022
+
+> Text as at 2022-10-18.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2022 No. 344
+
+Social Security
+
+The Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2022
+
+Made
+
+at 10.55 a.m. on 21st March 2022
+
+Laid before Parliament
+
+at 2.30 p.m. on 21st March 2022
+
+Coming into force
+
+22nd March 2022
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 64(1), 70(4), 71(6), 123(1)(a) and (d), 137(2)(a) and 175(3) and (4) of the Social Security Contributions and Benefits Act 1992[^f00001], section 36(2) and (4)(a) of, and paragraph 11(2) of Schedule 1 to, the Jobseekers Act 1995[^f00002], section 1(5)(a) of the State Pension Credit Act 2002[^f00003], section 25(2), (3) and (5)(a) of, and paragraph 5 of Schedule 2 to, the Welfare Reform Act 2007[^f00004] and sections 4(5)(a), 42(2) and (3)(a), 77(3), 92(1) and 94(2) and (3)(a) of the Welfare Reform Act 2012[^f00005].
+
+In respect of the provisions relating to housing benefit, the Secretary of State has not consulted organisations appearing to be representative of the authorities concerned because it appears to the Secretary of State to be inexpedient to do so by reason of the urgency of the matter[^f00006].
+
+For the same reason, it appears to the Secretary of State to be inexpedient to refer the proposals to make these Regulations to the Social Security Advisory Committee[^f00007].
+
+## PART 1 — PRELIMINARY
+
+### 1. Citation, commencement and extent[^key-0f30df1430d1e4442e9665dffca66234]
+
+(1) These Regulations may be cited as the Social Security (Habitual Residence and Past Presence) (Amendment) Regulations 2022 and come into force on 22nd March 2022.
+
+(2) Part 2 extends to England and Wales and Scotland[^f00008].
+
+(3) Part 3 extends to England and Wales only.
+
+## PART 2 — AMENDMENTS TO BENEFIT LEGISLATION EXTENDING TO ENGLAND AND WALES AND SCOTLAND
+
+### 2. Amendment of income-related benefit legislation[^key-c350efeb92482cbf08145d2a05f84133]
+
+(1) The provisions specified in paragraph (5) are amended as follows.
+
+(2) In sub-paragraph (zzb)[^key-51c4207804cce4bd365df0ac41ffeae8], for “(h)(iv)” substitute “(h)”.
+
+(3) After sub-paragraph (zzb) insert—
+
+> - (zzc) a person in Great Britain who was residing in Ukraine immediately before 1st January 2022, left Ukraine in connection with the Russian invasion which took place on 24th February 2022 and—
+>   - (i) has been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act 1971[^f00009]; or
+>   - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act[^f00010];
+
+.
+
+(4) In sub-paragraph (h), omit the words from “where that leave is” to the end of that sub-paragraph.
+
+(5) Those provisions are—
+
+- (a) regulation 21AA(4) of the Income Support (General) Regulations 1987[^f00011];
+- (b) regulation 85A(4) of the Jobseeker’s Allowance Regulations 1996[^f00012];
+- (c) regulation 2(4) of the State Pension Credit Regulations 2002[^f00013];
+- (d) regulation 10(3B) of the Housing Benefit Regulations 2006[^f00014];
+- (e) regulation 10(4A) of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00015]; and
+- (f) regulation 70(4) of the Employment and Support Allowance Regulations 2008[^f00016].
+
+### 3. Amendment of the Universal Credit Regulations 2013[^key-065786b711733c85785c88488f996a16]
+
+(1) Regulation 9(4) of the Universal Credit Regulations 2013[^f00017] is amended as follows.
+
+(2) In sub-paragraph (zb)[^key-1b88bb6f9cb08bc9026486ae08b9cea9], for “(e)(iv)” substitute “(e)”.
+
+(3) After sub-paragraph (zb) insert—
+
+> - (zc) a person in Great Britain who was residing in Ukraine immediately before 1st January 2022, left Ukraine in connection with the Russian invasion which took place on 24th February 2022 and—
+>   - (i) has been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act 1971; or
+>   - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act;
+
+.
+
+(4) In sub-paragraph (e), omit the words from “where that leave is” to the end of that sub-paragraph.
+
+## PART 3 — AMENDMENTS TO BENEFIT LEGISLATION EXTENDING TO ENGLAND AND WALES ONLY
+
+*Extent: E+W*
+
+### 4. Amendment of disability and carers benefit legislation[^key-e21e5d96a1236292dffe2c3e88c81336]
+
+(1) The provisions specified in paragraph (4) are amended as follows.
+
+(2) In paragraph (1)—
+
+- (a) at the end of sub-paragraph (d), omit “or”;
+- (b) after sub-paragraph (e) insert—
+
+  > or
+  >
+  > - (f) leave to enter or remain in the United Kingdom granted under or outside the immigration rules or a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 where the person—
+  >   - (i) was residing in Ukraine immediately before 1st January 2022; and
+  >   - (ii) left Ukraine in connection with the Russian invasion which took place on 24th February 2022.
+
+  .
+
+(3) In paragraph (1A), for “paragraph (1)(c), (d) or (e)” substitute “any sub-paragraph in paragraph (1)”.
+
+(4) Those provisions are—
+
+- (a) regulation 9C of the Social Security (Invalid Care Allowance) Regulations 1976[^f00018];
+- (b) regulation 2C of the Social Security (Attendance Allowance) Regulations 1991[^f00019]; and
+- (c) regulation 2C of the Social Security (Disability Living Allowance) Regulations 1991[^f00020].
+
+### 5. Amendment of the Social Security (Personal Independence Payment) Regulations 2013[^key-7b8043bcddefadb13643bf345de8a127]
+
+(1) Regulation 23A of the Social Security (Personal Independence Payment) Regulations 2013[^f00021] is amended as follows.
+
+(2) In paragraph (1)—
+
+- (a) at the end of sub-paragraph (d), omit “or”;
+- (b) after sub-paragraph (e) insert—
+
+  > or
+  >
+  > - (f) leave to enter or remain in the United Kingdom granted under or outside the immigration rules or a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 where C—
+  >   - (i) was residing in Ukraine immediately before 1st January 2022; and
+  >   - (ii) left Ukraine in connection with the Russian invasion which took place on 24th February 2022.
+
+  .
+
+(3) In paragraph (1A), for “paragraph (1)(c), (d) or (e)” substitute “any sub-paragraph in paragraph (1)”.
+
+David Rutley
+
+Parliamentary Under Secretary of State
+
+Department for Work and Pensions
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Part 2 of these Regulations enables certain persons to access income-related benefits upon arrival in Great Britain from Ukraine provided they meet the other relevant entitlement conditions.
+
+That Part amends the Income Support (General) Regulations 1987 ([S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967)), the Jobseeker’s Allowance Regulations 1996 ([S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207)), the State Pension Credit Regulations 2002 ([S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792)), the Housing Benefit Regulations 2006 ([S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213)), the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 ([S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214)), the Employment and Support Allowance Regulations 2008 ([S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794)) and the Universal Credit Regulations 2013 ([S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376)) (“**the income-related benefit regulations**”).
+
+The income-related benefit regulations provide that a person is ineligible for benefit where they are a “person from abroad”, “**a person not in Great Britain**” (for the purposes of the State Pension Credit Regulations 2002) or “**a person treated as not being in Great Britain**” (for the purposes of the Universal Credit Regulations 2013)”. That is to say where the person is not habitually resident in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland, subject to a list of exemptions.
+
+Regulations 2(3) and 3(3) insert a new category into the list of persons who are exempted from having to satisfy the habitual residence test. Those persons are those in Great Britain who were residing in Ukraine immediately before 1st January 2022 and left Ukraine in connection with the Russian invasion which took place on 24th February 2022 and have either been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act [1971 (c. 77)](https://www.legislation.gov.uk/ukpga/1971/77) or who have a right of abode in the United Kingdom within the meaning given in section 2 of that Act.
+
+Regulations 2(4) and 3(4) make amendments so as to provide that any person who has leave outside the immigration rules is to be treated as exempted from having to satisfy the habitual residence test. Regulations 2(2) and 3(2) make amendments which are consequential to those amendments.
+
+Part 3 of these Regulations enables certain persons to access disability and carers benefits upon arrival in England and Wales from Ukraine where they have left Ukraine for the reasons given above, provided they meet the other relevant entitlement conditions.
+
+That Part amends the Social Security (Invalid Care Allowance) Regulations 1976 ([S.I. 1976/409](https://www.legislation.gov.uk/uksi/1976/409)), the Social Security (Attendance Allowance) Regulations 1991 ([S.I. 1991/2740](https://www.legislation.gov.uk/uksi/1991/2740)), the Social Security (Disability Living Allowance) Regulations 1991 ([S.I. 1991/2890](https://www.legislation.gov.uk/uksi/1991/2890)) and the Social Security (Personal Independence Payment) Regulations 2013 ([S.I. 2013/377](https://www.legislation.gov.uk/uksi/2013/377)) respectively, to exempt the same group of people from the past presence test. This is the test which normally has to be fulfilled in order to claim Carer’s Allowance, Attendance Allowance, Disability Living Allowance and Personal Independence Payment respectively. The past presence test normally requires that an individual has been present in Great Britain for a specified period of time to be eligible for those benefits. These amendments also remove the habitual residence requirement for entitlement to disability benefits which would otherwise apply to refugees and those who have humanitarian protection or their dependants.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4) (“**the Contributions and Benefits Act**”). See section 122(1) for the meaning given to “prescribe” and section 137(1) for the meaning given to “prescribed”.
+
+[^f00002]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18). See section 35(1) for the meaning given to “regulations”.
+
+[^f00003]: Footnote: [2002 c. 16](https://www.legislation.gov.uk/ukpga/2002/16). Section 175(3) and (4) of the Contributions and Benefits Act is applied by section 19(1). See section 17(1) for the meanings given to “prescribed” and “regulations”.
+
+[^f00004]: Footnote: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5). See section 24 for the meaning given to “regulations”.
+
+[^f00005]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5) (“**the 2012 Act**”). See sections 40 and 95 for the meaning given to “prescribed”.
+
+[^f00006]: Footnote: See section 176(2)(a) of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^f00007]: Footnote: See section 173(1)(a) and (2) of the Social Security Administration Act 1992.
+
+[^key-0f30df1430d1e4442e9665dffca66234]: Commencement: Reg. 1 in force at 22.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1)
+
+[^f00008]: Footnote: The provisions being amended by Part 2 extend to England and Wales and Scotland. This instrument does not reflect the presumption that amendments will have the same extent and application as the provisions amended because the Secretary of State does not have executive competence to exercise functions, as regards Scotland, in relation to the benefits regulations amended by Part 3. The function of making regulations under sections 64(1), 70(4) and 71(6) of the Contributions and Benefits Act is exercisable by the Secretary of State by virtue of section 175(1) of that Act and the function of making regulations under section 77(3) of the 2012 Act is exercisable by the Secretary of State by virtue of section 94(1) of that Act. The functions of the Secretary of State under those provisions, as regards Scotland, transferred to the Scottish Ministers on 1st April 2020. Legislative competence for disability and carer’s benefits were transferred to the Scottish Parliament by section 22(2) of the Scotland Act [2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11). Section 22(2) inserted an exception into reservation F1 of Schedule 5 to the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) and was brought into force on 17th May 2017 by [S.I. 2017/455](https://www.legislation.gov.uk/uksi/2017/455), subject to transitional arrangements set out in [S.I. 2017/444](https://www.legislation.gov.uk/uksi/2017/444) which modified the operation of the Scotland Act 1998. Section 32 of the Scotland Act 2016 provides the meaning of “pre-commencement enactment” in this context. The transitional arrangements in respect of disability and carer’s benefits ended on 31st March 2020 (see regulation 4 of the Scotland Act 2016 (Transitional) Regulations 2017 ([S.I. 2017/444](https://www.legislation.gov.uk/uksi/2017/444))). Accordingly, insofar as the functions under those sections of the Contributions and Benefits Act and section 77(3) of the 2012 Act are exercisable within devolved competence, they are now exercisable by the Scottish Ministers. To ensure that the provisions introduced by these Regulations operate identically across England and Wales and Scotland, the Scottish Ministers are making parallel regulations, (the Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022), to these Regulations, the majority of which are to come into force on 22nd March 2022.
+
+[^key-c350efeb92482cbf08145d2a05f84133]: Commencement: Reg. 2 in force at 22.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1)
+
+[^key-51c4207804cce4bd365df0ac41ffeae8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/344/regulation/2/2) substituted (18.10.2022) by [The Social Security (Habitual Residence and Past Presence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/990)](https://www.legislation.gov.uk/uksi/2022/990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/990/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2022/990/regulation/4/a)
+
+[^f00009]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^f00010]: Footnote: Section 2 is substituted by section 39(2) of the British Nationality Act [1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^f00011]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967). Regulation 21AA is inserted by [S.I. 2006/1026](https://www.legislation.gov.uk/uksi/2006/1026). Relevant amendments are made by [S.I. 2006/2528](https://www.legislation.gov.uk/uksi/2006/2528), [2009/362](https://www.legislation.gov.uk/uksi/2009/362), [2013/2536](https://www.legislation.gov.uk/uksi/2013/2536), [2014/902](https://www.legislation.gov.uk/uksi/2014/902), [2019/872](https://www.legislation.gov.uk/uksi/2019/872), [2020/683](https://www.legislation.gov.uk/uksi/2020/683) and [1309](https://www.legislation.gov.uk/uksi/2020/1309) and [2021/1034](https://www.legislation.gov.uk/uksi/2021/1034).
+
+[^f00012]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207). Regulation 85A is inserted by [S.I. 2006/1026](https://www.legislation.gov.uk/uksi/2006/1026). Relevant amendments are made by [S.I. 2006/2528](https://www.legislation.gov.uk/uksi/2006/2528), [2009/362](https://www.legislation.gov.uk/uksi/2009/362), [2013/2536](https://www.legislation.gov.uk/uksi/2013/2536), [2014/902](https://www.legislation.gov.uk/uksi/2014/902), [2019/872](https://www.legislation.gov.uk/uksi/2019/872), [2020/683](https://www.legislation.gov.uk/uksi/2020/683) and [1309](https://www.legislation.gov.uk/uksi/2020/1309) and [2021/1034](https://www.legislation.gov.uk/uksi/2021/1034).
+
+[^f00013]: Footnote: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792). Regulation 2 is substituted by [S.I. 2006/1026](https://www.legislation.gov.uk/uksi/2006/1026). Relevant amendments are made by [S.I. 2006/2528](https://www.legislation.gov.uk/uksi/2006/2528), [2009/362](https://www.legislation.gov.uk/uksi/2009/362), [2013/2536](https://www.legislation.gov.uk/uksi/2013/2536), [2014/902](https://www.legislation.gov.uk/uksi/2014/902), [2019/872](https://www.legislation.gov.uk/uksi/2019/872), [2020/683](https://www.legislation.gov.uk/uksi/2020/683) and [1309](https://www.legislation.gov.uk/uksi/2020/1309) and [2021/1034](https://www.legislation.gov.uk/uksi/2021/1034).
+
+[^f00014]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213). Relevant amendments are made by [S.I. 2006/1026](https://www.legislation.gov.uk/uksi/2006/1026) and [2528](https://www.legislation.gov.uk/uksi/2006/2528), [2009/362](https://www.legislation.gov.uk/uksi/2009/362), [2013/2536](https://www.legislation.gov.uk/uksi/2013/2536), [2014/902](https://www.legislation.gov.uk/uksi/2014/902), [2019/872](https://www.legislation.gov.uk/uksi/2019/872), [2020/683](https://www.legislation.gov.uk/uksi/2020/683) and [1309](https://www.legislation.gov.uk/uksi/2020/1309) and. [2021/1034](https://www.legislation.gov.uk/uksi/2021/1034).
+
+[^f00015]: Footnote: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214). Relevant amendments are made by [S.I. 2006/1026](https://www.legislation.gov.uk/uksi/2006/1026) and [2528](https://www.legislation.gov.uk/uksi/2006/2528), [2009/362](https://www.legislation.gov.uk/uksi/2009/362), [2013/2536](https://www.legislation.gov.uk/uksi/2013/2536), [2014/902](https://www.legislation.gov.uk/uksi/2014/902), [2019/872](https://www.legislation.gov.uk/uksi/2019/872), [2020/683](https://www.legislation.gov.uk/uksi/2020/683) and [1309](https://www.legislation.gov.uk/uksi/2020/1309) and [2021/1034](https://www.legislation.gov.uk/uksi/2021/1034).
+
+[^f00016]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794). Relevant amendments are made by [S.I. 2009/362](https://www.legislation.gov.uk/uksi/2009/362) and [2536](https://www.legislation.gov.uk/uksi/2009/2536), [2014/902](https://www.legislation.gov.uk/uksi/2014/902), [2019/872](https://www.legislation.gov.uk/uksi/2019/872), [2020/683](https://www.legislation.gov.uk/uksi/2020/683) and [1309](https://www.legislation.gov.uk/uksi/2020/1309) and [2021/1034](https://www.legislation.gov.uk/uksi/2021/1034).
+
+[^key-065786b711733c85785c88488f996a16]: Commencement: Reg. 3 in force at 22.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1)
+
+[^f00017]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376). Relevant amendments are made by [S.I. 2013/1508](https://www.legislation.gov.uk/uksi/2013/1508), [2020/683](https://www.legislation.gov.uk/uksi/2020/683) and [1309](https://www.legislation.gov.uk/uksi/2020/1309) and [2021/1034](https://www.legislation.gov.uk/uksi/2021/1034).
+
+[^key-1b88bb6f9cb08bc9026486ae08b9cea9]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/344/regulation/3/2) substituted (18.10.2022) by [The Social Security (Habitual Residence and Past Presence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/990)](https://www.legislation.gov.uk/uksi/2022/990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/990/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2022/990/regulation/4/b)
+
+[^key-e21e5d96a1236292dffe2c3e88c81336]: Commencement: Reg. 4 in force at 22.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1)
+
+[^f00018]: Footnote: [S.I. 1976/409](https://www.legislation.gov.uk/uksi/1976/409). Regulation 9C is inserted by [S.I. 2017/1015](https://www.legislation.gov.uk/uksi/2017/1015). Paragraph (1A) is inserted by [S.I. 2021/1034](https://www.legislation.gov.uk/uksi/2021/1034).
+
+[^f00019]: Footnote: [S.I. 1991/2740](https://www.legislation.gov.uk/uksi/1991/2740). Regulation 2C is inserted by [S.I. 2017/1015](https://www.legislation.gov.uk/uksi/2017/1015). Paragraph (1A) is inserted by [S.I. 2021/1034](https://www.legislation.gov.uk/uksi/2021/1034).
+
+[^f00020]: Footnote: [S.I. 1991/2890](https://www.legislation.gov.uk/uksi/1991/2890). Regulation 2C is inserted by [S.I. 2017/1015](https://www.legislation.gov.uk/uksi/2017/1015). Paragraph (1A) is inserted by [S.I. 2021/1034](https://www.legislation.gov.uk/uksi/2021/1034).
+
+[^key-7b8043bcddefadb13643bf345de8a127]: Commencement: Reg. 5 in force at 22.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/344/regulation/1/1)
+
+[^f00021]: Footnote: [S.I. 2013/377](https://www.legislation.gov.uk/uksi/2013/377). Regulation 23A is inserted by [S.I. 2017/1015](https://www.legislation.gov.uk/uksi/2017/1015). Paragraph (1A) is inserted by [S.I. 2021/1034](https://www.legislation.gov.uk/uksi/2021/1034).

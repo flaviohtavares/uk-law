@@ -1,0 +1,46 @@
+---
+title: Building Societies Act 1986, SCHEDULE 7
+act: Building Societies Act 1986
+section: schedule-7
+status: revised-with-pending-changes
+text_date: '2025-01-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1986/53/schedule/7
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Building Societies Act 1986, SCHEDULE 7
+
+> **Warning: changes not yet applied to this text (13).** Text as at 2025-01-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/53
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## SCHEDULE 7 — Investors: Special Provisions
+
+*Extent: E+W+S+N.I.*
+
+Section 32.
+
+### Members or depositors dying
+
+**1.** (1) The provisions of this paragraph have effect where a member of, or depositor with, a building society dies, testate or intestate, domiciled in any part of the United Kingdom leaving a sum of money in the funds of the society not exceeding £5000.
+
+(2) If a person claiming to be beneficially entitled to the sum of money under the will or the applicable law of intestacy furnishes to the society—
+
+- (a) satisfactory evidence of the death, and
+- (b) a statutory declaration that the member or depositor has died and that the person claiming the amount is beneficially entitled under the will or the applicable law of intestacy to receive it,
+
+the society may, without probate of the will or the grant of letters of administration or confirmation, as the case may be, pay the sum of money to that person.
+
+(3) Where a building society has paid a sum of money to any person in reliance on evidence of death and a statutory declaration furnished as mentioned in sub-paragraph (2) above, the payment shall be valid and effectual with respect to any demand against the funds of the society from any other person claiming to be entitled to it but without prejudice to that other person’s pursuing his remedy for the amount against the person who received it.
+
+(4) The Treasury may from time to time by order direct that this paragraph shall have effect as if for the reference in sub-paragraph (1) above to £5,000 there were substituted a reference to such higher amount as may be specified in the order.
+
+(5) An order under sub-paragraph (4) above shall apply in relation to deaths occurring after the expiration of a period of one month beginning with the date on which the order comes into force.
+
+(6) The power to make an order under sub-paragraph (4) above is exercisable by statutory instrument but no such order shall be made unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+
+### Receipts by depositors under age
+
+**2.** Any receipt or acknowledgment given to a building society by a person who is a minor in respect of the payment to him of any sum due in respect of a deposit made by him with the society, shall not be invalid on the ground of his minority.

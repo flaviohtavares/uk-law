@@ -1,0 +1,29 @@
+---
+title: Housing Act 1985, section 357
+act: Housing Act 1985
+section: '357'
+status: repealed
+text_date: '2026-10-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1985/68/section/357
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing Act 1985, section 357
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
+
+## 357. Revocation or variation of direction under s. 354.
+
+*Extent: E+W*
+
+**No longer in force (ended 2006-04-06).**
+
+(1) The local housing authority may, on the application of a person having an estate or interest in a house in respect of which a direction is in force under section 354 (direction limiting number of occupants), having regard to any works which have been executed in the house or any other change of circumstances, revoke the direction or vary it so as to allow more people to be accommodated in the house.
+
+(2) If the authority refuse such an application or do not within 35 days from the making of such an application, or such further period as the applicant may in writing allow, notify the applicant of their decision, the applicant may appeal to the county court.
+
+(3) On an appeal the court may revoke the direction or vary it in any manner in which it might have been varied by the authority.

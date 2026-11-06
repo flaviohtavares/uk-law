@@ -1,0 +1,212 @@
+---
+title: The Supply of Relevant Veterinary Medicinal Products Order 2005
+id: uksi/2005/2751
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2005-10-04'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/2751
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/2751/pdfs/uksiem_20052751_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2751/pdfs/uksi_20052751_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2751/made/data.pdf
+pending_changes: 7
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Supply of Relevant Veterinary Medicinal Products Order 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2005 No. 2751
+
+COMPETITION
+
+The Supply of Relevant Veterinary Medicinal Products Order 2005
+
+Made
+
+4th October 2005
+
+Laid before Parliament
+
+7th October 2005
+
+Coming into force
+
+31st October 2005
+
+The Secretary of State, being the appropriate Minister under section 56 of the Fair Trading Act[^f00001] (“the Act”), makes the following Order in exercise of the powers conferred on him by sections 56(2) and 90(2), (4) and (7) of, and paragraphs 1, 6, 9, 10 and 12A of Schedule 8 to, the Act[^f00002];
+
+The Order is to remedy or prevent the adverse effects which were specified in the report made by the Competition Commission entitled “Veterinary Medicines: A report on the supply within the United Kingdom of prescription-only veterinary medicines”[^f00003] (“the Competition Commission Report”) which was made following a monopoly reference by the Director General of Fair Trading[^f00004], on 9th October in accordance with sections 10(3), 10(4), 47(1), 49(1) and 50(1) of the Act;
+
+The then Secretary of State, in accordance with section 91(2) of the Act[^f00005], published a notice on 18th February 2005 stating her intention to make this Order, indicating the nature of the provisions to be embodied in it and stating that any person whose interests were likely to be affected by it and who wished to make representations in respect of it should do so in writing before 13th May 2005;
+
+The Secretary of State has considered both the representations received and the recommendations of the Competition Commission as required by section 56(3) of the Act:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Supply of Relevant Veterinary Medicinal Products Order 2005 and shall come into force on 31st October 2005.
+
+## 2. Interpretation
+
+In this Order—
+
+- “animals” means all animals other than man and includes birds, reptiles, fish, molluscs, crustacea and bees;
+- “client” means any person with whom a veterinary surgeon makes an agreement to supply veterinary services;
+- “feed” means any substance or product, including feed additives, whether processed, partially processed or unprocessed, intended to be used for oral feeding to animals;
+- “feed additives” means substances or micro-organisms authorised under Regulation [(EC) No 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) of the European Parliament and of the Council of 22 September 2003[^f00006] on additives for use in the nutrition of animals;
+- “OFT” means the Office of Fair Trading;
+- “pharmacist” means—
+  - (a) a person who is a pharmacist within the meaning of section 132 of the Medicines Act 1968; or
+  - (b) any other person who is lawfully conducting a retail pharmacy business in accordance with section 69 of the Medicines Act 1968;
+- “prescription” means a prescription as described in paragraph 6 of Schedule 3 to the Veterinary Medicines Regulations 2005[^f00007];
+- “relevant veterinary medicinal product” means a veterinary medicinal product which may only be supplied by a veterinary surgeon or a pharmacist under a prescription from a veterinary surgeon in accordance with paragraph 3(2) of Schedule 3 to the Veterinary Medicines Regulations 2005;
+- “supply” includes sale (including retail sale) or supply in circumstances corresponding to retail sale;
+- “veterinary manufacturer” means any manufacturer of a veterinary medicinal product and any person who has been granted a manufacturing authorisation by the Secretary of State under paragraph 3 of Schedule 2 to the Veterinary Medicines Regulations 2005;
+- “veterinary medicinal product” has the same meaning as in regulation 2 of the Veterinary Medicines Regulations 2005 but shall not include the products which are excluded by Regulation 3 of those regulations nor feed nor feed additives;
+- “veterinary services” means the services supplied by a veterinary surgeon in his capacity as such and includes—
+  - (a) giving a prescription; and
+  - (b) supplying a prescribed medicine;
+- “veterinary surgeon” means a person registered in the register of veterinary surgeons kept under section 2 of the Veterinary Surgeons Act 1966[^f00008] or a person registered in the supplementary veterinary register kept under section 8 of the Veterinary Surgeons Act 1966;
+- “veterinary wholesaler” means any person who has been granted a wholesale dealer’s authorisation by the Secretary of State under paragraph 14 of Schedule 3 to the Veterinary Medicines Regulations 2005;
+- “writing” includes text that is—
+  - (a) transmitted by electronic means;
+  - (b) received in legible form; and
+  - (c) capable of being used for subsequent reference.
+
+## 3. Prescription fees and prohibition of discrimination
+
+(1) Subject to paragraph (2), during the relevant period a veterinary surgeon must not charge a client a fee for providing a prescription.
+
+(2) During the relevant period a veterinary surgeon may pass on to his clients the costs incurred in providing prescriptions, provided that he does so in a manner that does not discriminate between clients to whom he gives prescriptions and clients to whom he does not.
+
+(3) It shall be unlawful for a veterinary surgeon to discriminate between a client to whom he provides prescriptions and a client to whom he does not, in—
+
+- (a) the price he charges for a relevant veterinary medicinal product; and
+- (b) the fee he charges for supplying veterinary services other than giving a prescription.
+
+(4) In paragraphs (1) and (2), “relevant period” means the period of 3 years beginning with the day on which this Order comes into force.
+
+## 4. Requirement for a veterinary manufacturer to notify price information
+
+(1) At intervals of not more than 3 months, a veterinary manufacturer must notify in writing—
+
+- (a) a relevant veterinary surgeon of the net price at which it supplied a relevant veterinary medicinal product to the relevant veterinary surgeon during the preceding 3 months; and
+- (b) a relevant pharmacist of the net price at which it supplied a relevant veterinary medicinal product to the relevant pharmacist during the preceding 3 months.
+
+(2) In paragraph (1)—
+
+- (a) “relevant veterinary surgeon” means a veterinary surgeon to whom the veterinary manufacturer has, during the preceding 3 months, directly
+  - (i) supplied a relevant veterinary medicinal product; or
+  - (ii) given or agreed to give a discount or rebate in connection with the supply of a relevant veterinary medicinal product; and
+- (b) “relevant pharmacist” means a pharmacist to whom the veterinary manufacturer has, during the preceding 3 months, directly
+  - (i) supplied a relevant medicinal veterinary product; or
+  - (ii) given or agreed to give a discount or rebate in connection with the supply of a relevant veterinary medicinal product.
+
+(3) In paragraphs (1) and (2), “preceding 3 months”, means the 3 month period ending no more than thirty days before the day on which the veterinary manufacturer notifies the information.
+
+(4) In paragraph (1), “net price” means the list price less any discount or rebate which the veterinary manufacturer has given or agreed to give to the veterinary surgeon or pharmacist in connection with the supply of the relevant veterinary medicinal product, but does not include any discount or rebate given to, or by, a veterinary wholesaler. The veterinary manufacturer shall state whether the net price is inclusive or exclusive of VAT and all other taxes.
+
+(5) In paragraph (4) “list price” means the price set and quoted by the veterinary manufacturer as the price at which a relevant veterinary medicinal product may be supplied to a veterinary surgeon or pharmacist, without taking into account any discount or rebate. The list price may be inclusive or exclusive of VAT and all other taxes.
+
+(6) In paragraphs (1), (2) and (5) “supplied” includes supplied indirectly via a veterinary wholesaler and, in paragraphs (2) and (4), and articles 5(1) and 6 “supply” includes indirect supply via a veterinary wholesaler.
+
+## 5. Requirement for a veterinary manufacturer to notify price information on request
+
+(1) Where a veterinary surgeon or pharmacist makes a request to a veterinary manufacturer to be notified of the net price at which the veterinary manufacturer would be willing to supply a relevant veterinary medicinal product during the next 3 months, the veterinary manufacturer must comply with that request within a reasonable time by notice in writing.
+
+(2) A veterinary manufacturer is not obliged to comply with a request made under paragraph (1) unless that request—
+
+- (a) is in writing;
+- (b) identifies the relevant veterinary medicinal product in respect of which price information is requested;
+- (c) states the name of the veterinary surgeon or pharmacist making the request and his address for correspondence; and
+- (d) where the veterinary surgeon or pharmacist making the request intends to purchase the relevant veterinary medicinal product from one or more veterinary wholesalers, states this circumstance and gives their names.
+
+(3) In paragraph (1)—
+
+- (a) “net price” means the list price less any discount or rebate which the veterinary manufacturer proposes to give to the veterinary surgeon or pharmacist in connection with the supply of the relevant veterinary medicinal product, but does not include any discount or rebate to be given to, or by, a veterinary wholesaler. The veterinary manufacturer shall state whether the net price is inclusive or exclusive of VAT and all other taxes
+- (b) “next 3 months” means the 3 month period beginning with the day on which the veterinary manufacturer notifies the information.
+
+## 6. Prohibition of discrimination by a veterinary manufacturer or a veterinary wholesaler
+
+It shall be unlawful for a veterinary manufacturer or a veterinary wholesaler to discriminate unreasonably between veterinary surgeons and pharmacists in—
+
+- (a) the price that they charge for the supply of a relevant veterinary medicinal product;
+- (b) any discount or rebate that they give in connection with the supply of a relevant veterinary medicinal product; or
+- (c) the other terms and conditions upon which they supply a relevant veterinary medicinal product.
+
+## 7. Requirement to furnish information to the OFT
+
+(1) The OFT may require, on reasonable notice given in writing, any person mentioned in paragraph (2) to furnish the OFT with such information mentioned in paragraph (3) as the OFT may require for the purposes of monitoring compliance with this Order.
+
+(2) The persons are—
+
+- (a) a veterinary surgeon;
+- (b) a pharmacist;
+- (c) the Royal College of Veterinary Surgeons;
+- (d) a veterinary manufacturer; and
+- (e) a veterinary wholesaler.
+
+(3) The information is information held by or in the control of the person who is required to furnish the information under paragraph (1).
+
+## 8. Directions by the Secretary of State as to compliance
+
+(1) The Secretary of State may give directions to a person specified in the directions, or to the holder for the time being of an office so specified in any company or association—
+
+- (a) to take such steps within his competence as may be specified or described in the directions for the purposes of carrying out, or securing compliance with, this Order; or
+- (b) to do or refrain from doing anything so specified or described which he might be required by this Order to do or refrain from doing.
+
+(2) In paragraph (1), “steps” includes steps to introduce and maintain arrangements to ensure that any person carries out or secures compliance with this Order.
+
+(3) The Secretary of State may vary or revoke any directions given.
+
+Gerry Sutcliffe
+
+Parliamentary Under Secretary of State for Employment Relations and Consumer Affairs
+
+Department of Trade and Industry
+
+4th October 2005
+
+(This note is not part of the Order)
+
+This Order sets out remedies in relation to certain adverse effects on the public interest specified in the Competition Commission report entitled “Veterinary Medicines: A report on the supply within the United Kingdom of prescription-only veterinary medicines” published in April 2003 (Cm. 5781). Copies of the report may be obtained from The Stationery Office.
+
+The “Guide to Professional Conduct” produced by the Royal College of Veterinary Surgeons regulates the professional conduct of veterinary surgeons including the supply of medicines to their clients.
+
+Article 3 prevents a veterinary surgeon from charging a fee for giving a prescription for a period of 3 years from the coming into force of this Order, although during this time a veterinary surgeon is permitted to recover from his clients the costs he incurs in prescribing provided he does so in a way that does not discriminate between clients to whom he gives a prescription and those to whom he does not.
+
+Article 4 requires a manufacturer of relevant veterinary medicinal products to notify price information directly to those veterinary surgeons or pharmacists to whom it has either directly supplied relevant veterinary medicinal products or given or agreed a discount or rebate. The price information is to be supplied every three months and consists of the net price (taking into account discounts and rebates).
+
+Article 5 requires a manufacturer, on written request, to notify in writing a veterinary surgeon or pharmacist of the net price at which the manufacturer would be willing to supply directly or via a wholesaler a relevant veterinary medicinal product in the next three months.
+
+Article 6 makes it unlawful for the manufacturers and wholesalers of a relevant veterinary medicinal product to discriminate between veterinary surgeons and pharmacists in the prices they charge, the discounts and rebates they offer and the other terms and conditions upon which they supply a relevant veterinary medicinal product.
+
+Article 7 requires specified persons to provide the OFT on request with information that they hold or control and the OFT requires for the purpose of monitoring compliance with this Order.
+
+Article 8 gives the Secretary of State powers to give directions in order to secure compliance with this Order.
+
+A full regulatory impact assessment of the effect that this Order will have on the costs of business has been prepared and is available from the Consumer and Competition Policy Directorate , Department of Trade and Industry, 1 Victoria Street, London SWIH OET and can also be found at http://www.dti.gov.uk/ccp/topics2/pdf2/pomccria.pdf.
+
+## Annotations
+
+[^f00001]: Footnote: [1973 c. 41](https://www.legislation.gov.uk/ukpga/1973/41).Section 56 was repealed by Schedule 26 to the Enterprise Act 2002 but, in accordance with paragraphs 14 and 19 of Schedule 24 to the Enterprise Act 2002 and [SI 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397) (“the saving provisions”), it continues to apply in respect of monopoly references made before 20 June 2003 under section 50 of the Fair Trading Act 1973 .
+
+[^f00002]: Footnote: Section 90 and Schedule 8 were repealed by Schedule 26 to the Enterprise Act 2002 but in accordance with the saving provisions, they continue to apply in respect of monopoly references made before 20 June 2003 under section 50 of the Fair Trading Act 1973.
+
+[^f00003]: Footnote: Cm. 5781.
+
+[^f00004]: Footnote: Pursuant to section 2 of the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40) the functions of the Director General of Fair Trading have now been transferred to the Office of Fair Trading and the office of the Director has been abolished.
+
+[^f00005]: Footnote: Section 91(2) was repealed by Schedule 26 to the Enterprise Act 2002 but, pursuant to the saving provisions, it continues to apply in respect of monopoly references made before 20 June 2003 under section 50 of the Fair Trading Act 1973.
+
+[^f00006]: Footnote: OJ L 268, 18.10.2003, p.29.
+
+[^f00007]: Footnote: S.I. [2005/2745](https://www.legislation.gov.uk/uksi/2005/2745)
+
+[^f00008]: Footnote: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36).

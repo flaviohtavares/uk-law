@@ -1,0 +1,84 @@
+---
+title: The Double Taxation Relief and International Tax Enforcement (Romania) Order 2025
+id: uksi/2025/1302
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2025-12-10'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2025/1302
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/1302/pdfs/uksiem_20251302_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2025/1302/pdfs/uksi_20251302_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/1302/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Double Taxation Relief and International Tax Enforcement (Romania) Order 2025
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2025 No. 1302
+
+Capital Gains Tax
+
+Corporation Tax
+
+Income Tax
+
+The Double Taxation Relief and International Tax Enforcement (Romania) Order 2025
+
+Made
+
+10th December 2025
+
+At the Court at Buckingham Palace, the 10th day of December 2025
+
+Present,
+
+The King’s Most Excellent Majesty in Council
+
+A draft of this Order was laid before the House of Commons in accordance with section 173(7) of the Finance Act 2006[^f00001] and section 5(2) of the Taxation (International and Other Provisions) Act 2010[^f00002] and approved by resolution of that House.
+
+Accordingly, His Majesty, in exercising the powers conferred on Him by section 173(1) to (3) of the Finance Act 2006 and section 2 of the Taxation (International and Other Provisions) Act 2010[^f00003], by and with the advice of His Privy Council, orders as follows—
+
+## Contents
+
+- [Section 1 — Citation](section-1.md)
+- [Section 2 — Double taxation and international tax enforcement arrangements to have effect](section-2.md)
+
+- [SCHEDULE](schedule.md)
+
+Richard Tilbrook
+
+Clerk of the Privy Council
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+The Schedule to this Order contains a Convention and Protocol (“the Arrangements”) between the United Kingdom and Romania for the elimination of double taxation with respect to taxes on income and on capital, the prevention of tax evasion and avoidance, and assisting international tax enforcement. This Order brings the Arrangements into effect.
+
+Article 1 provides for citation and article 2 makes a declaration as to the effect and contents of the Arrangements.
+
+The Arrangements aim to eliminate the double taxation of income and gains arising in one state and paid to residents of the other state. This is done by allocating the taxing rights that each state has under its domestic law over the same income and gains, and by providing relief from double taxation. There are also specific measures which combat discriminatory tax treatment and provide for assistance in international tax enforcement.
+
+The Arrangements will enter into force on the date of the later of the notifications by each state of the completion of its domestic procedures and will take effect in each state in accordance with Article 28 of the Convention.
+
+In accordance with paragraph 3 of Article 28, the Arrangements replace a previous Convention between the United Kingdom and the Socialist Republic of Romania (as it then was) set out in the Schedule to the Double Taxation Relief (Taxes on Income) (Romania) Order 1977 (“**the 1975 Convention**”). In accordance with paragraph 4 of that Article, individuals entitled to benefits under Article 22 (professors, teachers and research workers) of the 1975 Convention when the Arrangements come into force continue to be so entitled as though the 1975 Convention remains in force.
+
+The date of entry into force will, in due course, be published in the *London*, *Edinburgh* and *Belfast Gazettes*.
+
+A Tax Information and Impact Note has not been produced for the Order as it gives effect to a double taxation agreement. Double taxation agreements impose no obligations on taxpayers. They seek to eliminate double taxation and fiscal evasion.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 25](https://www.legislation.gov.uk/ukpga/2006/25).
+
+[^f00002]: Footnote: [2010 c. 8](https://www.legislation.gov.uk/ukpga/2010/8).
+
+[^f00003]: Footnote: Section 2 was amended by section 32(1) of the Finance Act [2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3).

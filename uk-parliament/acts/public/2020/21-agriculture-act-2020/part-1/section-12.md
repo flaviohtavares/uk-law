@@ -1,0 +1,56 @@
+---
+title: Agriculture Act 2020, section 12
+act: Agriculture Act 2020
+section: '12'
+status: revised-with-pending-changes
+text_date: '2024-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2020/21/section/12
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Agriculture Act 2020, section 12
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2024-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/21
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 12. Power to make delinked payments[^c24386061]
+
+*Extent: E+W*
+
+(1) The Secretary of State may by regulations make provision for or in connection with the making of delinked payments in relation to England (in place of direct payments under the basic payment scheme in relation to England).
+
+(2) For this purpose—
+
+- (a) a delinked payment is a payment, with respect to a year within the delinking period, which is made in accordance with the regulations to a person who is under the regulations entitled to receive it, and
+- (b) the delinking period is the period which—
+  - (i) begins with a year (other than 2021) that is specified in the regulations, and
+  - (ii) ends on the last day of the agricultural transition period for England.
+
+(3) Regulations under this section making provision for the making of delinked payments must—
+
+- (a) specify the descriptions of persons who, in respect of a year within the delinking period, are entitled to receive a delinked payment (whether or not they are required by the regulations to make an application or do anything else before anything becomes payable), and
+- (b) make provision setting out rules for determining the amount of the delinked payment to be made to an entitled person with respect to any year.
+
+(4) Regulations under this section may make provision—
+
+- (a) for a person who makes a request in accordance with the regulations to cease to be regarded as a person entitled to receive delinked payments,
+- (b) for other circumstances in which a person ceases to be entitled to receive such payments, and
+- (c) for the repayment (with or without interest) of any amount paid as a delinked payment to which the recipient was not entitled.
+
+(5) A description of persons specified under subsection (3)(a) may (but need not) be framed by reference to whether they were entitled to a direct payment under the basic payment scheme in respect of a specific year (or one of several specific years) prior to the first year of the delinking period.
+
+(6) Rules set out under subsection (3)(b) for determining the amount of any delinked payment to be made to a person may (but need not) be framed by reference to the amount of a direct payment to which the person was entitled, or if specific assumptions are made would have been entitled, under the basic payment scheme.
+
+(7) If provision for the making of delinked payments is made under this section—
+
+- (a) no direct payments under the basic payment scheme in relation to England are to be made otherwise than in respect of the last year before the delinking period (or an earlier year), and
+- (b) section 11(1) (with any regulations made under it) ceases to have effect at the end of that last year, except in relation to direct payments in respect of that last year (or an earlier year).
+
+(8) Regulations under this section are subject to affirmative resolution procedure.
+
+## Annotations
+
+[^c24386061]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2020/21/section/12) in force at Royal Assent for specified purposes and otherwise at 11.1.2021, see [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)

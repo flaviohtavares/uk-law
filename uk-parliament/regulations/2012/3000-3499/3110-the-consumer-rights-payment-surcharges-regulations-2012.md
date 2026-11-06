@@ -1,0 +1,377 @@
+---
+title: The Consumer Rights (Payment Surcharges) Regulations 2012
+id: uksi/2012/3110
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-12-18'
+text_date: '2025-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/3110
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/3110/pdfs/uksiem_20123110_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/3110/pdfs/uksi_20123110_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/3110/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Consumer Rights (Payment Surcharges) Regulations 2012
+
+> Text as at 2025-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2012 No. 3110
+
+Consumer Protection
+
+The Consumer Rights (Payment Surcharges) Regulations 2012
+
+Made
+
+18th December 2012
+
+Laid before Parliament
+
+19th December 2012
+
+Coming into force
+
+6th April 2013
+
+The Secretary of State, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 [^c21506601], in relation to matters relating to consumer protection [^c21506611], makes the following Regulations in exercise of the powers conferred by section 2(2) of that Act.
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Consumer Rights (Payment Surcharges) Regulations 2012 and come into force on 6th April 2013.
+
+(2) Regulation 4 (fees a trader must not charge a consumer) applies[^key-5b51cc63def02294f4d25627bd449461] in relation to contracts entered into on or after that date.
+
+(3)[^key-a60e4d0467bf5b24599a3532fa589b1e] Regulation 6A applies in relation to contracts entered into after the date on which the Payment Services Regulations 2017 were made.
+
+## 2. “Consumer” and “trader”
+
+In these Regulations—
+
+- “**consumer**” means an individual acting for purposes which are wholly or mainly outside that individual's trade, business, craft or profession;
+- “trader” means a person acting for purposes relating to that person’s trade, business, craft or profession, whether acting personally or through another person acting in the trader’s name or on the trader’s behalf.[^key-b62e5c74854f69aa8b221cb31bb114f9]
+
+## 3. Other definitions
+
+In these Regulations—
+
+- “business” includes the activities of any government department or local or public authority;[^key-e2112d0af4f599c2d47a4de3e54355a6]
+- “[^key-c40ea9a54d5fd999ac0366516a015f41]CMA” means the Competition and Markets Authority;
+- “**court**” in relation to England and Wales and Northern Ireland means a county court or the High Court, and in relation to Scotland means the sheriff or the Court of Session;
+- “**digital content**” means data which are produced and supplied in digital form;
+- “**district heating**” means the supply of heat (in the form of steam or hot water or otherwise) from a central source of production through a transmission and distribution system to heat more than one building;
+- “**goods**” means any tangible movable items, but that includes water, gas and electricity if and only if they are put up for sale in a limited volume or a set quantity;
+- [^M_F_3b76ee99-9fc3-4938-d65f-a38b472ae1b7]...
+- “payee”, “payer”, “[^key-0589da3e9da04a7f0e80656a39a09437]**payment instrument**”, “**payment service**” and “**payment service provider**” have the meanings given in regulation 2(1) of the Payment Services Regulations 2017 ;
+- “**sales contract**” means a contract under which a trader transfers or agrees to transfer the ownership of goods to a consumer and the consumer pays or agrees to pay the price , including any contract that has both goods and services as its object[^key-880239018b983ce3165b8c9454c2c1c2];
+- “**service contract**” means a contract, other than a sales contract, under which a trader supplies or agrees to supply a service to a consumer and the consumer pays or agrees to pay the price.
+
+## 4. Fees a trader must not charge a consumer[^key-d9274f38da560075cc4aca94cf7f7b68]
+
+A trader must not charge consumers, in respect of the use of a given means of payment, fees that exceed the cost borne by the trader for the use of that means.
+
+## 5. Contracts where regulation 4 applies[^key-7edf809a3d26c035b05f02930a7998ec]
+
+(1) Regulation 4 applies only if the use is as a means for the consumer to make payments for the purposes of a contract with the trader, and only to the extent that that contract—
+
+- (a) is a sales or service contract, or a contract (other than a sales or service contract) for the supply of water, gas, electricity, district heating or digital content, and
+- (b) is not an excluded contract.
+
+(2) An excluded contract is a contract—
+
+- (a) for social services, including social housing, childcare and support of families and persons permanently or temporarily in need, including long-term care;
+- (b) for health services provided, whether or not via healthcare facilities, by health professionals to patients to assess, maintain or restore their state of health, including the prescription, dispensation and provision of medicinal products and medical devices (and “**health professionals**” has the meaning given by Article 3(f) of Directive 2011/24/EU of the European Parliament and of the Council on the application of patients' rights in cross-border healthcare)[^c21506631] as it had effect immediately before IP completion day[^key-5c13a9c528e525c9f4a414d83e8f0681];
+- (c) for gambling within the meaning of the Gambling Act 2005 [^c21506641] (which includes gaming, betting and participating in a lottery);
+- (d) for services of a banking, credit, insurance, personal pension, investment or payment nature;
+- (e) for the creation of immovable property or of rights in immovable property;
+- (f) for rental of accommodation for residential purposes;
+- (g) for the construction of new buildings, or the construction of substantially new buildings by the conversion of existing buildings;
+- (h)[^key-25db6dd3a84e921242fdbc46dabea0b2] which is a regulated contract within the meaning of the Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010
+- (i) for the supply of foodstuffs, beverages or other goods intended for current consumption in the household, and which are supplied by a trader on frequent and regular rounds to the consumer's home, residence or workplace;
+- (j) concluded by means of automatic vending machines or automated commercial premises;
+- (k) concluded with a telecommunications operator through a public telephone for the use of the telephone;
+- (l) concluded for the use of one single connection, by telephone, internet or fax, established by a consumer;
+- (m) under which goods are sold by way of execution or otherwise by authority of law.
+
+## 6. Temporary exemption for micro-businesses and new businesses
+
+(1) During the exemption period, regulation 4 does not apply if the trader is acting for purposes relating to the trader's business, and the business is—
+
+- (a) an existing micro-business, or
+- (b) a new business.
+
+(2) The Schedule defines those kinds of business, and the exemption period.
+
+## 6A. Fees any payee must not charge any payer[^key-dd793adff116feb7820c468fbf13ddeb]
+
+(1) A payee must not charge a payer any fee in respect of payment by means of—
+
+- (a) a payment instrument which—
+  - (i) is a card-based payment instrument as defined in Article 2(20) of Regulation (EU) 2015/751 of the European Parliament and of the Council of 29th April 2015 on interchange fees for card-based payment transactions ; and
+  - (ii) is not a commercial card as defined in Article 2(6) of that Regulation; or
+- (b) a payment instrument which—
+  - (i) is not a card-based payment instrument as defined in Article 2(20) of that Regulation; and
+  - (ii) would not fall within the definition of commercial card at Article 2(6) of that Regulation if, in that definition, the reference to any card-based payment instrument were to any payment instrument and the reference to such cards were to such payment instruments; or
+- (c) a payment service to which Regulation (EU) 260/2012 of the European Parliament and of the Council of 14th March 2012 establishing technical and business requirements for credit transfers and direct debits in euro applies.
+
+(2) A payee receiving a payment by means of a payment instrument must not charge the payer, in respect of such payment, a fee which exceeds the costs borne by the payee for the use of that specific payment instrument.
+
+## 6B. Application of regulation 6A
+
+(1) Regulation 6A applies only if the payment service provider of the payer or the payment service provider of the payee is located in the United Kingdom[^key-25d6141286bc2133c7af7067b82299c6].
+
+(2) Where the payment service providers of both the payee and the payer are located in the United Kingdom, regulation 6A(1) and (2) apply.
+
+(3) Where the payment service provider of either the payer or the payee, but not both, is located in the United Kingdom, regulation 6A(2) applies but regulation 6A(1) does not apply.
+
+## 7. Complaints
+
+(1) It is the duty of an enforcement authority to consider any complaint made to it about a contravention of regulation 4 or 6A[^key-cdbf3c37e708cb85a580d6c9a1be4b31], unless—
+
+- (a) the complaint appears to the authority to be frivolous or vexatious; or
+- (b) another enforcement authority has notified the CMA[^key-8928eb25df6fe4496580df3352263d06] that it agrees to consider the complaint.
+
+(2) If an enforcement authority has notified the CMA as mentioned in paragraph (1)(b), that authority is under a duty to consider the complaint.
+
+(3) An enforcement authority which is under a duty to consider a complaint must—
+
+- (a) decide whether or not to make an application under regulation 8, and
+- (b) give reasons for its decision.
+
+(4) In deciding whether or not to make an application, an enforcement authority may, if it considers it appropriate to do so, have regard to any undertaking given to it or another enforcement authority by or on behalf of any person as to compliance with regulation 4 or 6A[^key-de6755e3c67355e637cc6e60bb94d1a6] and to any enforcement action taken under[^key-4f6fc1dd88504b62b7884680db664c74] Part 3 of the Digital Markets, Competition and Consumers Act 2024[^key-8b12b99d871b1d40aa7085716a5a7985].
+
+(5) The following are enforcement authorities for the purposes of these Regulations—
+
+- (a) every local weights and measures authority in Great Britain (within the meaning of section 69 of the Weights and Measures Act 1985 [^c21506661]);
+- (b) the Department of Enterprise, Trade and Investment in Northern Ireland.
+
+## 8. Orders to secure compliance
+
+(1) An enforcement authority may apply for an injunction, or in Scotland an interdict or any other appropriate relief or remedy, against any person who appears to the authority to be responsible for a contravention of regulation 4 or 6A[^M_F_31232d48-ba4b-4304-b299-713b4ffb3c37].
+
+(2) The court on an application under this regulation may grant an injunction, interdict or order on such terms as it thinks fit to secure compliance with regulation 4 or 6A[^M_F_793769a9-7d42-4e05-bc54-c4426c80027f].
+
+## 9. Notification of undertakings and orders to the CMA[^key-9fe409897158c0891525b6ad85b2f7bc]
+
+An enforcement authority must notify the CMA[^key-a827fdd84dd1fa3267aac8b48f4a6162] —
+
+- (a) of any undertaking given to it by or on behalf of any person who appears to it to be responsible for a contravention of regulation 4 or 6A[^M_F_209e7fec-fb9a-4a58-8c0f-df63c3dd4252];
+- (b) of the outcome of any application made by it under regulation 8, and of the terms of any undertaking given to the court or of any order made by the court;
+- (c) of the outcome of any application made by it to enforce a previous order of the court.
+
+## 10. Right of redress[^key-d4e8c8fef56334d00213f597eff3022e]
+
+Where a trader charges a fee in contravention of regulation 4 or any payee charges a fee in contravention of regulation 6A[^key-eacc0bfccfdb50da9a7518798d1d2f66]—
+
+- (a) any provision of a contract requiring the payment of[^key-211bb93edb89e0688e2db19315d47d18] the fee is unenforceable to the extent that the charging of the fee contravenes regulation 4 or 6A[^key-a543f237e35b43dd7905c22f9f2b9df8], and
+- (b) the contract for the purposes of which the payment is made is to be treated as providing for the fee to be repaid to the extent that the charging of the fee contravenes regulation 4 or 6A[^key-c09ddf79e41bd8b1a2b900e16b2160d7].
+
+Jo Swinson
+
+Minister for Employment Relations and Consumer Affairs
+
+Department for Business, Innovation and Skills
+
+## SCHEDULE — MICRO-BUSINESSES AND NEW BUSINESSES
+
+Regulation 6
+
+### 1. Micro-businesses
+
+A micro-business is a business that has fewer than 10 employees (see paragraphs 7 to 9).
+
+### 2. Existing micro-businesses
+
+An existing micro-business is a business that was a micro-business immediately before 6th April 2013.
+
+### 3. New businesses
+
+(1) A new business is a business which a person, or a number of persons, (“P”) begins to carry on during the period beginning with 6th April 2013 and ending with 12th June 2014.
+
+(2) That is subject to sub-paragraphs (3), (4) and (6).
+
+(3) A business (“Business 2”) is not a new business if—
+
+- (a) P has, at any time during the period of 6 months ending immediately before the date on which P begins to carry on Business 2, carried on another business (“Business 1”), and
+- (b) Business 1 consisted of the activities of which Business 2 consists (or most of them),
+
+unless Business 1 was itself a new business.
+
+(4) A business is not a new business if—
+
+- (a) P begins to carry on the business on another person ceasing to carry on the activities of which it consists (or most of them), and
+- (b) P does so in consequence of arrangements involving P and the other person,
+
+unless the activities, when carried on by that other person, were activities of a new business.
+
+(5) For this purpose, P is to be taken to begin to carry on a business on another person ceasing to carry on such activities if—
+
+- (a) P begins to carry on the business otherwise than in partnership on such activities ceasing to be carried on by persons in partnership, or
+- (b) P is a number of persons in partnership who begin to carry on the business on such activities ceasing to be carried on—
+  - (i) by a person, or a number of persons, otherwise than in partnership,
+  - (ii) by persons in partnership who do not consist only of all the persons who constitute P, or
+  - (iii) partly as mentioned in paragraph (i) and partly as mentioned in paragraph (ii).
+
+(6) P is not to be regarded as beginning to carry on a business for the purposes of sub-paragraph (1) if—
+
+- (a) before P begins to carry on the business, P is a party to arrangements under which P may (at any time during the period beginning with 6th April 2013 and ending with 12th June 2014) carry on, as part of the business, activities carried on by any other person, and
+- (b) the business would have been prevented by sub-paragraph (3) from being a new business if—
+  - (i) P had begun to carry on the activities when beginning to carry on the business, and
+  - (ii) the other person had at that time ceased to carry them on.
+
+(7) “**Arrangements**” includes an agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable).
+
+### 4. The exemption period: existing micro-businesses
+
+(1) This paragraph defines the exemption period in relation to an existing micro-business.
+
+(2) The exemption period starts with 6th April 2013 and ends with—
+
+- (a) the day after a grace period in relation to the business ends, if the grace period is one in which the business grows (see paragraph 6), or
+- (b) (if sooner) 12th June 2014.
+
+(3) The following are grace periods in relation to a business for the purposes of this paragraph—
+
+- (a) the 6-month period that starts with the first day after 6th April 2013 on which the business has 10 or more employees;
+- (b) the 6-month period that starts after the end of a grace period (the “earlier grace period”) that is not one in which the business grows, in accordance with sub-paragraph (4) or (5).
+
+(4) If the business has 10 or more employees on the day after the end of the earlier grace period, the next grace period starts on that day.
+
+(5) If the business has fewer than 10 employees on that day, the next grace period starts on the next day on which the business has 10 or more employees.
+
+### 5. The exemption period: new businesses
+
+(1) This paragraph defines the exemption period in relation to a new business.
+
+(2) The exemption period starts with the date on which P begins to carry on the business and ends with—
+
+- (a) the date on which P ceases to carry on the business, or
+- (b) (if sooner) 12th June 2014.
+
+(3) If P is the members of a partnership, or other unincorporated association, P is not to be taken for the purposes of sub-paragraph (2) to cease to carry on the business if—
+
+- (a) the members of the partnership or association change, or the partnership or association is dissolved, and
+- (b) after the change or dissolution, the business is carried on by at least one of the persons who constituted P.
+
+### 6. Grace periods in which business grows
+
+For the purposes of this Schedule, a grace period is one in which a business grows if A is greater than B, where—
+
+- A is the number of days in the grace period when the business has 10 or more employees, and
+- B is the number of days in the grace period when the business has fewer than 10 employees.
+
+### 7. Number of employees of a business
+
+For the purposes of this Schedule, the number of employees of a business is calculated as follows—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2012/3110)
+
+where TH is the total number of hours per week for which all the employees of the business are contracted to work.
+
+### 8. Employees of a business
+
+For the purposes of this Schedule, the employees of a business are the persons who are employed for the purposes of the business.
+
+### 9. Employees
+
+(1) In this Schedule, “**employee**” means an individual who has entered into or works under a contract of employment.
+
+(2) In sub-paragraph (1) “**contract of employment**” means a contract of service, whether express or implied, and (if it is express) whether oral or in writing.
+
+### 10. Franchises
+
+For the purposes of this Schedule, a business that is carried on pursuant to a franchise agreement is treated as part of the business of the franchisor (and not as a separate business carried on by the franchisee).
+
+*(This note is not part of the Regulations)*
+
+These Regulations prohibit surcharges imposed by traders on consumers in respect of the use of a given means of payment, where the surcharges exceed the cost to the trader of using that means of payment (see regulation 4). Regulation 5 provides for a number of excluded contracts (including contracts for social services, health services and services of a banking or insurance nature) to which the prohibition does not apply. Regulation 6 and the Schedule exempt existing micro-businesses and new businesses from the prohibition until 12th June 2014. Regulations 7 and 8 provide that local weights and measures authorities and the Department of Enterprise, Trade and Investment in Northern Ireland may consider complaints about surcharges, and may apply to a court for an injunction (or in Scotland an interdict or order of specific implement) against a trader acting in breach of regulation 4. Regulation 10 provides that a surcharge in breach of regulation 4 is unenforceable against a consumer and, if already paid, must be repaid to the consumer.
+
+The Regulations apply to the Crown, and extend to England and Wales, Scotland and Northern Ireland.
+
+A draft of the Enterprise Act 2002 (Part 8 Domestic Infringements) Order 2013 was laid in Parliament on the same date as these Regulations. If approved by a resolution of each House of Parliament and made, that Order will provide that enforcement procedures under Part 8 of the Enterprise Act 2002 will also apply in relation to a breach of these Regulations. It will also amend regulation 7(4) of these Regulations, so that local weights and measures authorities and the Department of Enterprise, Trade and Investment in Northern Ireland may take account of any enforcement action taken under Part 8 of the 2002 Act when considering complaints about surcharges.
+
+[^c21506671]The Regulations implement Article 19 of Directive 2011/83/EU of the European Parliament and of the Council on consumer rights, amending Council Directive [93/13/EEC](https://www.legislation.gov.uk/eudr/1993/13) and Directive [1999/44/EC](https://www.legislation.gov.uk/eudr/1999/44) of the European Parliament and of the Council and repealing Council Directive [85/577/EEC](https://www.legislation.gov.uk/eudr/1985/577) and Directive [97/7/EC](https://www.legislation.gov.uk/eudr/1997/7) of the European Parliament and of the Council . The remaining provisions of that Directive will be implemented at a later date.
+
+An impact assessment of the effect that the instrument will have on the costs of business, the voluntary sector and the public sector is available from the BIS website at www.bis.gov.uk, and is published with the Explanatory Memorandum alongside the instrument on www.legislation.gov.uk. A copy has also been placed in the Libraries of both Houses of Parliament.
+
+## Annotations
+
+[^c21506601]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51) and the European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), [Schedule 1](https://www.legislation.gov.uk/ukpga/2008/7/schedule/1), [Part 1](https://www.legislation.gov.uk/ukpga/2008/7/part/1).
+
+[^c21506611]: Marginal citation: Article 2 of, and the Schedule to, [The European Communities (Designation) (No. 3) Order 1993 (S.I. 1993/2661)](https://www.legislation.gov.uk/uksi/1993/2661).
+
+[^key-5b51cc63def02294f4d25627bd449461]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/3110/regulation/1/2) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 12(2)(a)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/12/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^key-a60e4d0467bf5b24599a3532fa589b1e]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/3110/regulation/1/3) inserted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 12(2)(b)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/12/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^key-b62e5c74854f69aa8b221cb31bb114f9]: Textual amendment: Words in reg. 2 substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (S.I. 2013/3134)](https://www.legislation.gov.uk/uksi/2013/3134), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/1), [Sch. 4 para. 15(2)](https://www.legislation.gov.uk/uksi/2013/3134/schedule/4/paragraph/15/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/3134/regulation/6))
+
+[^key-e2112d0af4f599c2d47a4de3e54355a6]: Textual amendment: Words in reg. 3 inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (S.I. 2013/3134)](https://www.legislation.gov.uk/uksi/2013/3134), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/1), [Sch. 4 para. 15(3)(a)](https://www.legislation.gov.uk/uksi/2013/3134/schedule/4/paragraph/15/3/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/3134/regulation/6))
+
+[^key-c40ea9a54d5fd999ac0366516a015f41]: Textual amendment: Words in reg. 3 inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 48(2)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/48/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^M_F_3b76ee99-9fc3-4938-d65f-a38b472ae1b7]: Textual amendment: Words in reg. 3 omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 48(2)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/48/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-0589da3e9da04a7f0e80656a39a09437]: Textual amendment: Words in reg. 3 inserted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 12(3)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/12/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^key-880239018b983ce3165b8c9454c2c1c2]: Textual amendment: Words in reg. 3 substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (S.I. 2013/3134)](https://www.legislation.gov.uk/uksi/2013/3134), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/1), [Sch. 4 para. 15(3)(b)](https://www.legislation.gov.uk/uksi/2013/3134/schedule/4/paragraph/15/3/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/3134/regulation/6))
+
+[^key-d9274f38da560075cc4aca94cf7f7b68]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/3110/regulation/4) heading substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 12(4)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/12/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^key-7edf809a3d26c035b05f02930a7998ec]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2012/3110/regulation/5) heading substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 12(5)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/12/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^c21506631]: Marginal citation: OJ L 88, 4.4.2011, p. 45.
+
+[^key-5c13a9c528e525c9f4a414d83e8f0681]: Textual amendment: Words in reg. 5(2)(b) inserted (31.12.2020) by [The Consumer Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1326)](https://www.legislation.gov.uk/uksi/2018/1326), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/1/3), [7(2)(a)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/7/2/a) (as amended by [S.I. 2020/1347](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(5)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21506641]: Marginal citation: [2005 c.19](https://www.legislation.gov.uk/ukpga/2005/19).
+
+[^key-25db6dd3a84e921242fdbc46dabea0b2]: Textual amendment: [Reg. 5(2)(h)](https://www.legislation.gov.uk/uksi/2012/3110/regulation/5/2/h) substituted (31.12.2020) by [The Consumer Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1326)](https://www.legislation.gov.uk/uksi/2018/1326), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/1/3), [7(2)(b)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/7/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dd793adff116feb7820c468fbf13ddeb]: Textual amendment: Regs. 6A, 6B inserted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 12(6)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/12/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^key-25d6141286bc2133c7af7067b82299c6]: Textual amendment: Words in [reg. 6B](https://www.legislation.gov.uk/uksi/2012/3110/regulation/6B) substituted (31.12.2020) by [The Consumer Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1326)](https://www.legislation.gov.uk/uksi/2018/1326), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cdbf3c37e708cb85a580d6c9a1be4b31]: Textual amendment: Words in reg. 7(1) inserted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 12(7)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/12/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^key-8928eb25df6fe4496580df3352263d06]: Textual amendment: Word in reg. 7 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/48/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-de6755e3c67355e637cc6e60bb94d1a6]: Textual amendment: Words in reg. 7(4) inserted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 12(7)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/12/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^key-4f6fc1dd88504b62b7884680db664c74]: Textual amendment: Words in reg. 7(4) inserted (6.4.2013) by [The Enterprise Act 2002 (Part 8 Domestic Infringements) Order 2013 (S.I. 2013/761)](https://www.legislation.gov.uk/uksi/2013/761), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/761/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/761/article/3)
+
+[^key-8b12b99d871b1d40aa7085716a5a7985]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2012/3110/regulation/7/4) substituted (6.4.2025) by [The Digital Markets, Competition and Consumers Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/381)](https://www.legislation.gov.uk/uksi/2025/381), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/381/regulation/1/2), [Sch. para. 35](https://www.legislation.gov.uk/uksi/2025/381/schedule/paragraph/35)
+
+[^c21506661]: Marginal citation: [1985 c.72](https://www.legislation.gov.uk/ukpga/1985/72). Section 69 was amended by paragraph 75 of Schedule 16 to the [Local Government (Wales) Act 1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19) and by paragraph 144 of Schedule 13 to the [Local Government etc (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^M_F_31232d48-ba4b-4304-b299-713b4ffb3c37]: Textual amendment: Words in reg. 8(1) inserted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 12(7)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/12/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^M_F_793769a9-7d42-4e05-bc54-c4426c80027f]: Textual amendment: Words in reg. 8(2) inserted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 12(7)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/12/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^key-9fe409897158c0891525b6ad85b2f7bc]: Textual amendment: Word in reg. 9 heading substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 48(4)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/48/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-a827fdd84dd1fa3267aac8b48f4a6162]: Textual amendment: Word in reg. 9 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 48(4)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/48/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^M_F_209e7fec-fb9a-4a58-8c0f-df63c3dd4252]: Textual amendment: Words in reg. 9(a) inserted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 12(7)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/12/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^key-d4e8c8fef56334d00213f597eff3022e]: Textual amendment: Word in reg. 10 heading substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 12(8)(a)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/12/8/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^key-eacc0bfccfdb50da9a7518798d1d2f66]: Textual amendment: Words in reg. 10 inserted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 12(8)(b)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/12/8/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^key-211bb93edb89e0688e2db19315d47d18]: Textual amendment: Words in reg. 10(a) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 12(8)(c)(i)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/12/8/c/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^key-a543f237e35b43dd7905c22f9f2b9df8]: Textual amendment: Words in reg. 10(a) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 12(8)(c)(ii)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/12/8/c/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^key-c09ddf79e41bd8b1a2b900e16b2160d7]: Textual amendment: Words in reg. 10(b) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 12(8)(d)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/12/8/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^c21506671]: Marginal citation: OJ L 304, 22.11.2011, p. 64.

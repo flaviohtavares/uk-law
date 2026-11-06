@@ -1,0 +1,37 @@
+---
+title: Town and Country Planning (Scotland) Act 1997, section 117
+act: Town and Country Planning (Scotland) Act 1997
+section: '117'
+status: revised-with-pending-changes
+text_date: '2026-09-24'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1997/8/section/117
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Town and Country Planning (Scotland) Act 1997, section 117
+
+> **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
+>
+> Extent: England, Wales, Scotland.
+
+## 117. Saving for claimant’s right to sell whole hereditament, etc.
+
+*Extent: S*
+
+(1) The provisions of sections 102(4)(c), 104(6), 105(4) and (5) and 106(3) and (4) relating to hereditaments shall not affect—
+
+- (a) the right of a claimant under section 90 of the [^c950130]Lands Clauses Consolidation (Scotland) Act 1845 to sell the whole of the hereditament or, in the case of an agricultural unit, the whole of the affected area, which he has required the authority to purchase, or
+- (b) the right of a claimant under paragraph 4 of Schedule 2 to the [^c950131]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 to sell (unless the Lands Tribunal otherwise determines) the whole of the hereditament or, as the case may be, affected area which he has required that authority to purchase.
+
+(2) In consequence of subsection (1)(b), in determining whether or not to uphold an objection relating to a hereditament on the grounds mentioned in section 102(4)(c), the Lands Tribunal shall consider (in addition to the other matters which they are required to consider) whether—
+
+- (a) in the case of a house, building or factory, the part proposed to be acquired can be taken without material detriment to the house, building or factory, or
+- (b) in the case of a park or garden belonging to a house, the part proposed to be acquired can be taken without seriously affecting the amenity or convenience of the house.
+
+## Annotations
+
+[^c950130]: Marginal citation: [1845 c. 19](https://www.legislation.gov.uk/ukpga/1845/19).
+
+[^c950131]: Marginal citation: [1947 c. 42](https://www.legislation.gov.uk/ukpga/1947/42).

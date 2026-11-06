@@ -1,0 +1,827 @@
+---
+title: The Electronic Communications Code (Conditions and Restrictions) Regulations 2003
+id: uksi/2003/2553
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-10-02'
+text_date: '2024-11-04'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2003/2553
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/2553/pdfs/uksi_20032553_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/2553/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electronic Communications Code (Conditions and Restrictions) Regulations 2003
+
+> Text as at 2024-11-04.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2003 No. 2553
+
+ELECTRONIC COMMUNICATIONS
+
+The Electronic Communications Code (Conditions and Restrictions) Regulations 2003
+
+Made
+
+2nd October 2003
+
+Laid before Parliament
+
+3rd October 2003
+
+Coming into force
+
+23rd October 2003
+
+The Secretary of State, after consultation with the Director General of Telecommunications[^f00001] and such other persons as she considered appropriate in accordance with section 109(4) of the Communications Act 2003[^f00002], in exercise of the powers conferred upon her by sections 109(1) and (3) and 402(3)(a), (b) and (c) of that Act, hereby makes the following Regulations—
+
+## 1. Citation and commencement[^key-eb430ddaa7d48b145acaa7311794e006]
+
+These Regulations may be cited as the Electronic Communications Code (Conditions and Restrictions) Regulations 2003 and shall come into force on 23rd October 2003.
+
+## 2. Interpretation[^key-d75be4a73d7c8566fbb632f8947c69bc]
+
+(1) Unless the contrary intention appears, expressions used in these Regulations which are used in Schedule 2 to the Telecommunications Act 1984[^f00003] have the same meanings as in that Schedule.
+
+(2) In these Regulations—
+
+- “the Act” means the Communications Act 2003;
+- “appropriate authority” means—
+  - (a) in relation to England and Wales, a relevant authority within the meaning of section 49(6) of the New Roads and Street Works Act 1991[^f00004];
+  - (b) in relation to Scotland, a person to whom notice would be required to be given by section 108(6) of the New Roads and Street Works Act 1991[^f00005]; and
+  - (c) in relation to Northern Ireland, a relevant authority within the meaning of article 7(5) of the Street Works (Northern Ireland) Order 1995[^f00006];
+- “area of outstanding natural beauty” means an area designated under section 82 of the Countryside and Rights of Way Act 2000[^key-8d20e3ccadb848ec2904c7c75619d5b0];
+- “area of special scientific interest” means, in relation to England and Wales[^key-4cc52f6f78c43d39743058820b22bb08], any area in respect of which notice has been given under section 28(1) of the Wildlife and Countryside Act 1981[^f00007] in relation to Scotland has the meaning given in Section 3(6) of the Nature Conservation (Scotland) Act 2004 and[^key-e63a7d3f6fbb5c27361766472398bc7a], in relation to Northern Ireland, any area in respect of which a declaration has been made under article 28(1) of the Environment (Northern Ireland) Order 2002[^key-5da3ef04799e82d52bd4765474dc1cb1];
+- “authorised area” has, in relation to Great Britain, the meaning given by section 6(9) of the Electricity Act 1989[^f00009] and, in relation to Northern Ireland, the meaning given by article 3 of the Electricity (Northern Ireland) Order 1992[^f00010];
+- “the Broads” means the area in which the Broads Authority established under section 1 of the Norfolk and Suffolk Broads Act 1988[^f00011] exercises powers of development control;
+- “carriageway” has the meanings given—
+  - (a) in relation to England and Wales, by section 329 of the Highways Act 1980[^f00012];
+  - (b) in relation to Scotland, by section 151 of the Roads (Scotland) Act 1984[^f00013]; and
+  - (c) in relation to Northern Ireland, by article 2(2) of the Roads (Northern Ireland) Order 1993[^f00014];
+
+  and additionally means, in relation to a street to which vehicles have access, that part of the street which is primarily intended to carry vehicles;
+- “code operator” means a person in whose case the electronic communications code is applied by a direction under section 106(3)(a) of the Act;
+- “conservation area” means—
+  - (a) in relation to England [^key-a71b944ac3a8fa928d29d04bc51ee8d8]..., any area designated as a conservation area under sections 69 and 70 of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00015];
+  - (aa) in relation to Wales, any area designated as a conservation area under section 158 of the Historic Environment (Wales) Act 2023;[^key-d99364e2d8c549857e0e2a9ee7ccbbc5]
+  - (b) in relation to Scotland, any area designated as a conservation area under section 61 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997[^f00016]; and
+  - (c) in relation to Northern Ireland, any area designated as a conservation area under section 104 of the Planning Act (Northern Ireland) 2011[^key-dcf98bdc00c7877cd805ae92634d237e];
+- “development order” means a development order made under section 59 of the Town and Country Planning Act 1990, section 30 of the Town and Country Planning (Scotland) Act 1997 or section 32 of the Planning Act (Northern Ireland) 2011;[^key-081370b55100dd5b0548fe4e824b2890]
+- [^key-b4033d769ad5f0d5d55d4dc288e4c417]...
+- “electricity supplier” means, in relation to an area in which a code operator has installed or proposes to install any electronic communications apparatus, the person who is the holder of a licence granted (in Great Britain) under section 6(1) of the Electricity Act 1989 or (in Northern Ireland) under article 10(1) of the Electricity (Northern Ireland) Order 1992;
+- “emergency organisation” means any of the police, fire, ambulance and coastguard services and any other organisation which, in the normal course of its activities, may be called upon in an emergency to undertake tasks necessary for—
+  - (a) the preservation of life,
+  - (b) the prevention or treatment of injury or disease,
+  - (c) the protection of public health, or
+  - (d) national defence or the protection of national security;
+- “fixed-line broadband” means a service or connection (commonly referred to as being “always on”), via a fixed-line network, providing a bandwidth greater than narrowband;[^key-fde35636674620e43c0fb433742f928c]
+- “fixed-line broadband cabinet” means a cabinet located near a connection point in an electronic communications network that is used to house electronic communications apparatus to facilitate a fixed-line broadband connection to a customer’s premises for the provision of broadband services;
+- “fixed-line broadband pole” means a pole that is used to attach lines for the purpose of facilitating or delivering a fixed-line broadband service;
+- [^key-9d94a33eec77720697d8755cf9b322e4]...
+- “footway” has the meanings given—
+  - (a) in relation to England and Wales, by section 329 of the Highways Act 1980;
+  - (b) in relation to Scotland, by section 151 of the Roads (Scotland) Act 1984; and
+  - (c) in relation to Northern Ireland, by article 2 of the Roads (Northern Ireland) Order 1993;
+
+  and additionally means, in relation to a street to which vehicles have access, that part of the street which is not primarily intended to carry vehicles;
+- “a high load grid route” is a route included in the records of routes suitable for the transport of high abnormal loads maintained by the Secretary of State;
+- “highway authority” means, in relation to England and Wales, the highway authority as defined in section 1 of the Highways Act 1980 and, in relation to Northern Ireland, the Department for Regional Development;
+- “limestone pavement area” means an area designated as such by an order made under section 34(2) of the Wildlife and Countryside Act 1981;
+- “local nature reserve” means an area designated as such under section 21(1) of the National Parks and Access to the Countryside Act 1949[^f00020];
+- “marine nature reserve” means, in relation to Great Britain, an area designated as such under section 36(1) of the Wildlife and Countryside Act 1981[^f00021] (including any marine nature reserve designated a marine conservation zone by operation of paragraph 2 of Schedule 2 to the Marine and Costal Access Act 2009)[^key-173c7f35b00bf7d9599658b8e51a282f] and, in relation to Northern Ireland, an area designated as such under article 20(1) of the Nature Conservation and Amenity Lands (Northern Ireland) Order 1985;
+- “narrowband” means a service or connection providing data speeds up to 128kbit/second;[^key-3ae49cd135986ddf4a875eaf647749fc]
+- “national nature reserve” means any land declared to be a national nature reserve under section 35(1) of the Wildlife and Countryside Act 1981[^f00022] by—
+  - (a) English Nature, in England;
+  - (b) Scottish Natural Heritage, in Scotland; or
+  - (c) the Natural Resources Body for Wales[^key-3eba3bef24077c668e350a3f7423e3ae], in Wales;
+
+  and in Northern Ireland means any land declared to be a national nature reserve under article 18(1) of the Nature Conservation and Amenity Lands (Northern Ireland) Order 1985;
+- “National Park[^key-2da680b19aa6e0830ba75771c3a1c117]” means—
+  - (a) any area in England and Wales designated and confirmed as such under section 5(3) of the National Parks and Access to the Countryside Act 1949[^f00023];
+  - (b) any area in Scotland designated as such by an order made under section 6(2) of the National Parks (Scotland) Act 2000[^f00024]; or
+  - (c) any area in Northern Ireland designated as such under article 12(1) of the Nature Conservation and Amenity Lands (Northern Ireland) Order 1985;
+- “national scenic area” means an area designated by a direction made by the Scottish Ministers under section 263A of the Town and Country Planning (Scotland) Act 1997;[^key-14d354c4148149a23218cc1b5641bc0c]
+- “Natural England” means the body known as Natural England and established by section 1 of the Natural Environment and Rural Communities Act 2006[^key-3e7f482c54b19930de04e81a3fe6635b];
+- [^key-ff8085e51dd2ee9850d28a40c05d791a]...
+- “[^key-290495e2a18eda8b1ef3f5092b93232f]**Natural Resources Body for Wales**” means the Natural Resources Body for Wales as established by article 3(1) of the Natural Resources Body for Wales (Establishment) Order 2012;
+- [^key-26347f8981249a4e0817225de02732bb]...
+- “OFCOM” means the Office of Communications as established by section 1 of the Office of Communications Act 2002[^f00028];
+- “overhead fixed-line broadband line” means a fixed-line broadband line other than an underground fixed-line broadband line;[^key-3b688e5f78eebfcc628c79fdb7e93d22]
+- “Planning Acts” means the Town and Country Planning Act 1990, the Town and Country Planning Act (Scotland) 1997 and the Planning Act (Northern Ireland) 2011;[^key-c12683568f8eb9ca6c8429e2e66978c1]
+- “planning authority” means—
+  - (a) in relation to England, a local planning authority within the meaning of section 1(1) or (2) , section 4A and section 5[^key-c870bcea15bdcefe053bbcc80f08f5a8] of the Town and Country Planning Act 1990[^f00029];
+  - (b) in relation to Wales, a local planning authority within the meaning of section 1(1B) or (2) and section 4A[^key-83cb13a835c7f35669a3aa4541bbc918] of the Town and Country Planning Act 1990[^f00030];
+  - (c) in relation to Scotland, a planning authority within the meaning of section 1 of the Town and Country Planning (Scotland) Act 1997[^f00031] or a National Park authority[^key-8d751f591a99aaf9b5edbae4bae46112] designated as a planning authority by an order made under section 10(1) of the National Parks (Scotland) Act 2000; and
+  - (d) in relation to Northern Ireland, the Department for Infrastructure or a district council[^key-d213a97bd717b3ba7f44dae92db2517f].
+- “prior approval process” means the prior approval process under Schedule 2, Part 16, paragraph A3 of the Town and Country Planning (General Permitted Development) (England) Order 2015;[^key-7dbf05bb141d4eb5ae89f390b1815aea]
+- “relevant undertaker” has the meaning given by paragraph 23(10) of Schedule 2 to the Telecommunications Act 1984 and additionally includes any undertaker engaged in the supply of gas, electricity, water, heat or the disposal of sewage;
+- “responsible authority”—
+  - (a) in relation to England and Wales, has the meaning given by section 90(4) of the New Roads and Street Works Act 1991;
+  - (b) in relation to Scotland, has the meaning given by section 194(4) of that Act[^f00032]; and
+  - (c) in Northern Ireland, has the meaning given by article 49(4) of the Street Works (Northern Ireland) Order 1995;
+- “roads authority” has the meaning given by section 151(1) of the Roads (Scotland) Act 1984[^f00033];
+- “road works authority” has the meaning given by section 108(1) of the New Roads and Street Works Act 1991;
+- “Scottish Natural Heritage” means the body known as Scottish Natural Heritage and established by section 1 of the Natural Heritage (Scotland) Act 1991;
+- “service line” means any line placed or intended to be placed for the purposes of providing any electronic communications service to the occupier from time to time of any land, as distinct from a line placed or intended to be placed for the general purposes of any electronic communications network;
+- “service line distribution point” means the point at which any line placed or intended to be placed for the general purposes of any electronic communications network is connected to any service line;
+- “site of special scientific interest” —[^key-115182c77edca74ac626e801cde0916d]
+  - (a) in England and Wales means an area in respect of which a notification has been given under section 28(1) of the Wildlife and Countryside Act 1981; and
+  - (b) in Scotland has the meaning given in Section 3(6) of the Nature Conservation (Scotland) Act 2004;
+- “statutory list of buildings” means—
+  - (a) in relation to England [^key-aa06ad44412123bd6513bf81ad337bea]..., the list of buildings of special architectural or historic interest compiled or approved under section 1(1) of the Planning (Listed Buildings and Conservation Areas) Act 1990;
+  - (aa) in relation to Wales, the list of buildings of special architectural or historic interest maintained under section 76(1) of the Historic Environment (Wales) Act 2023;[^key-32089ec3b7a9e1e9c4c73a89a4d68c49]
+  - (b) in relation to Scotland, the list compiled under section 1(1) of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997; or
+  - (c) in relation to Northern Ireland, the list compiled under section 80 of the Planning Act (Northern Ireland) 2011[^key-3de8ba361bb6956ce13c1fdb8249561b];
+- “street authority” has, in relation to England and Wales, the meaning given by section 49 of the New Roads and Street Works Act 1991 and, in relation to Northern Ireland, the meaning given by article 7(1) of the Street Works (Northern Ireland) Order 1995;
+- “traffic authority” has, in relation to England and Wales, the meaning given by section 121A of the Road Traffic Regulation Act 1984[^f00035] and, in relation to Northern Ireland, means the Department for Regional Development.
+
+## 3. General conditions[^key-a8399b92966c8016fde84b2b3449fd52]
+
+(1) A code operator shall consult—
+
+- (a) highway authorities or, in Scotland, roads authorities and the commissioner appointed under section 16 of the Transport (Scotland) Act 2005[^key-6f03d63a7401dde20b789e0f9cee7994] to ensure that any works involving the breaking up of maintainable highways or public roads do not undermine or unduly disturb the highway authorities' or roads authorities' work;
+- (b) planning authorities in relation to the installation of electronic communications apparatus, including installation in a local nature reserve; and
+- (c) relevant undertakers with a view to avoiding the disruption of the services provided by those undertakers.
+
+(2) A code operator shall ensure that any electronic communications apparatus installed underground is installed at such a depth that it will not interfere with the use of the land (as at the date of the installation), unless the occupier and any other person having a legal interest in that land have consented.
+
+(3) A code operator, when installing any electronic communications apparatus, shall, so far as reasonably practicable, minimise—
+
+- (a) the impact on the visual amenity of properties, in particular buildings on the statutory list of buildings;
+- (b) any potential hazards posed by work carried out in installing the apparatus or by apparatus once installed; and
+- (c) interference with traffic.
+
+(4) A code operator, where practicable, shall share the use of electronic communications apparatus.
+
+(5) A code operator shall install the minimum practicable number of items of electronic communications apparatus consistent with the intended provision of electronic communications services and allowing for an estimate of growth in demand for such services.
+
+## 4. Lines[^key-f52be47bf9566090075d54ead20f461b]
+
+(1) A code operator shall install all lines underground unless—
+
+- (a) the line is flown from a pole in an area where service lines are already flown from poles;
+- (b) the line is—
+  - (i) affixed to and lying on the exterior surface of a building or other permanent structure and is either used as a service line or terminates at a service line distribution point;
+  - (ii) a service line flown from the eaves of one building or other permanent structure to those of another where the distance between them is less than 8 metres; or
+  - (iii) a feeder cable connecting equipment for the provision of services by wireless telegraphy;
+
+  and is neither affixed to a building shown as grade 1 or category A in the statutory list of buildings nor located in a conservation area;
+- (c) the line is attached to or supported by poles or pylons which are used in connection with the transport of electricity at a nominal voltage of at least 6000 volts;
+- (d) the line is installed for the purpose of providing a temporary electronic communications network under regulation 15; [^key-6d475e878e3a39f2b6ab24942d97874f]...
+- (da)[^key-a376a05b76f3dc8a27db442e8d3f29ff] the line is a fixed-line broadband line and is not in any of the protected areas referred to in regulation 8(1)(b); or
+- (e) it is not in all the circumstances reasonably practicable to do so.
+
+(2) A code operator shall ensure that any lines installed over the carriageway of—
+
+- (a) a maintainable highway or, in Scotland, a public road are placed at least 5.5 metres above the surface of the highway or road; and
+- (b) a maintainable highway or, in Scotland, a public road which is a high load grid route are placed at least 6.5 metres above the surface of the highway or road.
+
+(3) If requested by any person to relocate a line which is already installed above the ground, a code operator must relocate that line unless—
+
+- (a) he determines either that the request is unreasonable or that the person making the request will not pay the costs of the relocation; and
+- (b) he notifies that person of that determination within 56 days of the receipt of the request.
+
+## 5. Installation of electronic communications apparatus[^key-add3a2e3203f1802f11a3c53ced61833]
+
+(1) A code operator must give 28 days’[^key-37c27d772d97fe453dce5ec287ea0dd2] notice, in writing, to the planning authority for the area in question where—
+
+- (a)[^key-bbad8c54c94dc43074207a99632b2805] the code operator has not previously installed electronic communications apparatus in the area and (subject to paragraph (1A)) is intending to install such apparatus in that area;
+- (b)[^key-a171a82d3563ed191ced051379729e70] in relation to Northern Ireland, Scotland or Wales, the code operator has not given notice under regulations 6, 7 or 8 to the planning authority for the area that the code operator intends to carry out a matter specified in paragraph (1ZA) for which—
+  - (i) the code operator is not required to obtain planning permission under the Planning Acts;
+  - (ii) planning permission is granted under a development order; or
+- (ba) in relation to England, the code operator intends to carry out a matter specified in paragraph (1BA) for which—
+  - (i) the code operator is not required to obtain planning permission under the Planning Acts; or
+  - (ii) planning permission is granted under a development order and is not subject to the prior approval process; or
+- (c)[^key-47b6f0ae20dfcce6f2ea1a63bdae8bf5] the code operator intends to install in that area any fixed-line broadband pole, fixed-line broadband cabinet or overhead fixed-line broadband line which is not a service line.
+
+(1ZA)[^key-89f0c9ec7b38ed15ecdb1ee79a80eaae] the matters referred to in paragraphs (1)(b) and (1)(ba) are—
+
+- (i) the installation of a cabinet, box, pillar, pedestal or similar apparatus; and
+- (ii) the installation, alteration or replacement of a mast.
+
+(1A)[^key-bd9101ce63b268c74320ad4bb02c84f8] A code operator is not required to give notice in relation to apparatus in paragraph (1)(a) where the apparatus is–
+
+- (a) an underground line;
+- (b) a service line; or
+- (c) a line permitted to be installed above ground pursuant to Regulation 4(1)(a) to (d) or 4(1)(e).
+
+(2) The notice to be given under paragraph (1) must state the code operator’s intention to install electronic communications apparatus and must describe that apparatus and identify the location where it is proposed to install it.
+
+(2A)[^key-0db06d5329574eec3f78ce4e77918775] The description required in paragraph (2) shall include whether or not the apparatus is fixed-line broadband electronic communications apparatus.
+
+(3) Where a code operator has given notice under paragraph (1), the planning authority may, within 28 days[^key-3b1d669b16353e2c75f58f02a1c6dca0] of the receipt of that notice, give the code operator written notice of conditions with which the planning authority wishes him to comply in respect of the installation , alteration or replacement[^key-e2de0693c19f58f9e55df6e35cc5cf7a] of the apparatus, but he is not obliged to comply with those conditions to the extent that they are unreasonable in all the circumstances.
+
+(4) A code operator is exempt from paragraph (1) if—
+
+- (a) the electronic communications apparatus he intends to install is to be installed inside a building or other permanent structure;
+- (b) the apparatus is to be installed for the purpose of providing a temporary electronic communications network under regulation 15; [^key-79d2592cbdb2a89f85efc4fe75cd7fff]...
+- (c) the apparatus he intends to install is to be attached to or supported by poles or pylons which are used for the transport of electricity at a nominal voltage of at least 6000 volts ; or[^key-4d4d1929b3d05df0a296f9f5ea5b1ffb]
+- (d)[^key-a2ed4999dc92ab64725c84dfd69037b5] he is undertaking emergency works and he has provided the planning authority with an expected date of completion and a statement of the grounds for the need to execute the works.
+
+(5) Where a code operator installs electronic communications apparatus underground in a maintainable highway or a street or, in Scotland, a public road or a road he shall place that apparatus in the verge or footway rather than the carriageway unless it is not reasonably practicable to do so.
+
+## 6. Conservation areas[^key-a047d14fc5102c6b1da12a14e1fcb710]
+
+(1) In conservation areas, electronic communications apparatus installed by a code operator shall be installed underground unless the conditions in paragraph (2) , (2A)[^key-9858190ff1feaa96c740535912d83472] or regulation 6A[^key-21a53189714699869fb28e1968ff9fc5] are met or unless it is—
+
+- (a) a line flown between poles or pylons which are used for the transport of electricity at a nominal voltage of at least 6000 volts;
+- (b) a replacement pole or replacement line, the installation of which does not increase the environmental impact of the apparatus located in the area compared with the apparatus as it was before the replacement;
+- (c) a service line flown from a pole where that pole was installed prior to the area being designated as a conservation area;
+- (d) a service line—
+  - (i) which is flown from a building or other permanent structure in an area where there are already service lines flown from buildings or other permanent structures or poles, and
+  - (ii) which does not, by reason of its installation, increase the environmental impact of the apparatus located in the area compared with the apparatus as it was before the service line was installed;
+- (e) a service line—
+  - (i) which is affixed to and lying on the exterior surface of a building or other permanent structure, and
+  - (ii) which does not, by reason of its installation, increase the environmental impact of the apparatus located in the area compared with the apparatus as it was before the service line was installed;
+- (f) apparatus which forms part of emergency works where the code operator has provided the planning authority with an expected date of completion and a statement of the grounds for the need to execute the works; or
+- (g) apparatus which forms part of a temporary electronic communications network which the code operator is providing under regulation 15.
+
+(2)[^key-698bacd33ccbea810fc5a2f0cc0478ec] In relation to Northern Ireland, Scotland or Wales, the conditions are that—
+
+- (a) the code operator has given the planning authority written notice, and the planning authority has not objected in writing to the installation, alteration or replacement of the electronic communications apparatus within—
+  - (i) 28 days of the notice being given in relation to apparatus for which planning permission is not required under the Planning Acts or for which planning permission is granted under a development order; or
+  - (ii) 56 days of the notice being given in relation to apparatus for which planning permission is required under the Planning Acts and for which planning permission is not granted under a development order; or
+- (b) if the planning authority has previously objected to the installation of the electronic communications apparatus, it has given notice of the withdrawal of its objection; or
+- (c) in relation to Scotland or Wales, the Secretary of State, after consulting with the planning authority directs that the electronic communications apparatus is not required to be installed underground.
+
+(2A) In relation to England, the conditions are that the code operator has—
+
+- (a) given notice to the planning authority under regulation 5;
+- (b) submitted a planning application to the local authority under the Town and Country Planning Act 1990; or
+- (c) submitted an application to the planning authority for a determination as to whether the authority must follow the prior approval process.
+
+(3) The notice to be given under paragraph (2) must state the code operator’s intention to install electronic communications apparatus and must describe that apparatus and identify the location where it is proposed to install it.
+
+(4) For the purposes of paragraph (1), the environmental impact of apparatus is to be assessed having regard, in particular, to—
+
+- (a) its visual impact on the landscape,
+- (b) its effect on plant and animal life, and
+- (c) its impact on the visual amenity of properties.
+
+## 6A.[^key-18e5d19cfbb52ddf82baeaebb2a76585]
+
+(1) Electronic communications apparatus installed by a code operator in a conservation area is not required to be installed underground where—
+
+- (a) the apparatus comprises fixed-line broadband lines, fixed-line broadband cabinets or fixed-line broadband poles; and
+- (b) the code operator has given the planning authority one month’s notice in writing that the code operator intends to install such apparatus in the area in question.
+
+(2) Regulation 5(2), 5(2A) and 5(3) apply in respect of a notice given under paragraph (1).
+
+(3) A code operator is not required to give notice under paragraph (1) where the electronic communications apparatus is a fixed-line broadband service line.
+
+## 7. Listed buildings and ancient monuments[^key-fa258b4de238f6284c2339d6fdb6490b]
+
+(1)[^key-2a2027f2ec5a90b58fa59a93eb0481d4] Subject to regulation 7A, a code operator may install, alter or replace electronic communications apparatus in proximity to a building shown as grade I, grade II\* or category A in the statutory list of buildings, or in relation to Northern Ireland, a building shown on the statutory list of buildings, if the conditions in paragraphs (1A) or (1B) are satisfied.
+
+(1A) In relation to Northern Ireland, Scotland or Wales, the conditions are that—
+
+- (a) the code operator has given written notice to the planning authority and the planning authority has not objected in writing to the installation, alteration or replacement of the electronic communications apparatus within—
+  - (i) 28 days of the notice being given in relation to apparatus for which planning permission is not required under the Planning Acts or for which planning permission is granted under a development order; or
+  - (ii) 56 days of the notice being given in relation to apparatus for which planning permission is required under the Planning Acts and for which planning permission is not granted under a development order; or
+- (b) if the planning authority has previously objected to the installation of the electronics communications apparatus, it has given written notice of the withdrawal of its objection; or
+- (c) in Scotland or Wales, the Secretary of State, after consulting with the planning authority directs that the code operator may install the electronic communications apparatus in proximity to a building of a description falling within paragraph (1).
+
+(1B) In relation to England, the conditions are that the code operator has—
+
+- (i) given notice to the planning authority under regulation 5;
+- (ii) submitted a planning application under the Town and Country Planning Act 1990; or
+- (iii) submitted an application to the planning authority for a determination as to whether the authority must follow the prior approval process.
+
+(2) The notice to be given under paragraph (1) must state the code operator’s intention to install electronic communications apparatus and must describe that apparatus and identify the location where it is proposed to install it.
+
+(3) A code operator is exempt from paragraph (1) if—
+
+- (a) the apparatus is to be installed for the purpose of providing a temporary electronic communications network under regulation 15; or
+- (b) he is undertaking emergency works and he has provided the planning authority with an expected date of completion and a statement of the grounds for the need to execute the works.
+
+## 7A.[^key-416357c5e3fecae147bc51d1ee6f7810]
+
+(1) A code operator may install fixed-line broadband lines, fixed-line broadband cabinets, and fixed-line broadband poles in proximity to, or in the case of a fixed-line broadband service line affixed to, a building shown as grade 1 or category A in the statutory list of buildings only if the code operator gives one month’s notice in writing to the planning authority.
+
+(2) Regulations 5(2), 5(2A) and 5(3) apply in respect of a notice given under paragraph (1).
+
+(3) A code operator is not required to give notice under paragraph (1) where the apparatus is installed pursuant to regulation 7(3).
+
+## 8. Protected areas[^key-49f5a614a38ed715f9c3a933552d1930]
+
+(1) When a code operator intends to install , alter or replace[^key-d7a7d153f2e84ba512777e4416f87f69] electronic communications apparatus in—
+
+- (a)[^key-dddd3f94e31e90666e3dca10bc2b6a36] a National Park, [^key-f5e5f45a62d2c595db7849981c22515e]..., a limestone pavement area or an area of outstanding natural beauty he must , except in relation to England,[^key-603b4bc196d7128ffe65a2a5629c9db5] give written notice to the planning authority;
+- (b) a national nature reserve, site of special scientific interest, area of special scientific interest or marine nature reserve he must give written notice to—
+  - (i) Natural England[^key-c06ceaebd0362ae91ab4e7ff84fa3cb8], in England;
+  - (ii) Scottish Natural Heritage, in Scotland;
+  - (iii) the Natural Resources Body for Wales[^key-2a8338009d691a5611e8a8d353fca7fd], in Wales; or
+  - (iv) the planning authority, in Northern Ireland (in the case of a national nature reserve, area of special scientific interest or marine nature reserve);
+- (c) a [^key-0895e020ef9f24f274503c6b34dda55c]... national scenic area he must give written notice to Scottish Natural Heritage; or
+- (d) any land which the National Trust or the National Trust for Scotland has notified the code operator that it owns, or holds any interest in, he must give written notice to its relevant regional office.
+
+(2) The notice to be given under paragraph (1) must state the code operator’s intention to install electronic communications apparatus and must describe that apparatus and identify the location where it is proposed to install it.
+
+(3)[^key-a78f9e41a7d628f06d0ec8511f1e72ff] In relation to Northern Ireland, Scotland or Wales, if a code operator has given notice under paragraph (1), the code operator may install, alter or replace the electronic communications apparatus if the conditions in paragraph (3A) are satisfied.
+
+(3A) The conditions are that the code operator complies with any direction given to him by the Secretary of State, or in Northern Ireland, the Department for Infrastructure, requiring the operator to give written notice to, and consider representations from, any person exercising functions specified in that direction, and—
+
+- (a) the person notified (under paragraph (1)) has not objected in writing to the installation, alteration or replacement of the electronic communications apparatus within—
+  - (i) 28 days of the notice being given in relation to apparatus for which planning permission is not required under the Planning Acts or for which planning permission is granted under a development order; or
+  - (ii) 56 days of the notice being given in relation to apparatus for which planning permission is required under the Planning Acts and for which planning permission is not granted under a development order; or
+- (b) if the person notified has previously objected, he has given written notice of the withdrawal of his objection; or
+- (c) in Scotland or Wales, the Secretary of State, after consulting with the person notified directs that the code operator may install, alter or replace the electronic communications apparatus.
+
+(3B) In relation to England, if a code operator has given notice under paragraph (1), regulations 5(2), 5(2A) and 5(3) apply in respect of the notice as if each reference to “a planning authority” includes any other person who is entitled to receive the notice.
+
+(4) A code operator shall not be required to give notice under paragraph (1) where the electronic communications apparatus to be installed is—
+
+- (a) a service line—
+  - (i) which is affixed to and lying on the exterior surface of a building or other permanent structure, and
+  - (ii) which does not, by reason of its installation, increase the environmental impact of the apparatus located in the area compared with the apparatus as it was before the service line was installed;
+- (b) a replacement pole or replacement line the installation of which does not increase the environmental impact of the apparatus located in the area compared with the apparatus as it was before the replacement;
+- (c) a replacement line in an existing conduit, if the installation of the replacement line does not entail enlarging the conduit or altering its position;
+- (d) apparatus required for the provision of a temporary electronic communications network under regulation 15; or
+- (e) apparatus which forms part of emergency works, where the code operator has provided the person who would otherwise be notified under paragraph (1) with an expected date of completion and a statement of the grounds for the need to execute the works.
+
+(5) For the purposes of paragraph (4), the environmental impact of apparatus is to be assessed having regard, in particular, to—
+
+- (a) its visual impact on the landscape,
+- (b) its effect on plant and animal life, and
+- (c) its impact on the visual amenity of properties.
+
+(6)[^key-7ab070dafb8ed99ee8abf6cdaa618554] This regulation does not apply to fixed-line broadband electronic communications apparatus–
+
+- (a) except in any of the protected areas referred to in regulation 8(1)(b); or
+- (b) where the apparatus is installed pursuant to regulation 8(4).
+
+## 8A.[^key-50c6168d2468b17b443076cdbcc5f7b3]
+
+(1) When a code operator intends to install fixed-line broadband lines, fixed-line broadband cabinets or fixed-line broadband poles in—
+
+- (a) a National Park, the Broads, a limestone pavement area or an area of outstanding natural beauty, he must give notice in writing to the planning authority;
+- (b) a national scenic area, he must give notice in writing to Scottish Natural Heritage; or
+- (c) any land which the National Trust or the National Trust for Scotland has notified the code operator that it owns, or holds any interest in, he must give notice in writing to its relevant regional office.
+
+(2) Regulations 5(2), 5(2A) and 5(3) shall apply in respect of a notice given under paragraph (1) as though references to a planning authority include any other person entitled to receive a notice under paragraph (1).
+
+(3) A code operator is not required to give notice under paragraph (1) where the electronic communications apparatus is a fixed-line broadband service line;
+
+(4) This regulation does not apply in any of the protected areas referred to in regulation 8(1)(b).
+
+## 8B. Aerodromes[^key-607658df85131cd9b6dbeceb473cce1d]
+
+(1) The code operator must notify the Civil Aviation Authority, the Secretary of State for Defence or the aerodrome operator, as appropriate, of the installation, alteration or replacement of a mast that results in the material increase in height within 3 kilometres of the perimeter of an aerodrome if—
+
+- (a) the installation, alteration or replacement of the mast does not require planning permission under the Planning Acts; or
+- (b) planning permission for the installation, alteration or replacement of the mast is granted by a development order and is not subject to the prior approval process.
+
+(2) In this regulation, “aerodrome” means an aerodrome as defined in Schedule 1 to the Air Navigation Order 2016.
+
+## 9. Use of conduits[^key-bfb23a0894dbeaab71a5356a44ed5ed0]
+
+Where electronic communications apparatus is to be installed underground in—
+
+- (a) a part of a maintainable highway or, in Scotland, a public road which is paved, or
+- (b) a street or, in Scotland, a road which the code operator has been notified by the street authority or the road works authority is to be paved, or
+- (c) the verge of any street or, in Scotland, road,
+
+it shall be installed in conduits unless it is not reasonably practicable to do so.
+
+## 10. Maintenance and the safety of apparatus[^key-cf22853bab8c83267b93b8db9c33c5d2]
+
+(1) A code operator shall inspect and maintain his electronic communications apparatus, other than apparatus installed underground or inside a building or other permanent structure, so as to ensure that it will not cause injury to any person or damage to property.
+
+(2) A code operator who receives a report that any electronic communications apparatus of his, wherever installed, is in a dangerous state shall investigate that report and, if necessary, make the apparatus safe.
+
+(3) A code operator shall inform the highway authority or, in Scotland, the roads authority of the arrangements he has made to comply with paragraph (1).
+
+## 11. Records of apparatus[^key-55db6c73cdd7d20f64bcdf06bde39bd2]
+
+(1) A code operator shall keep accurate records of where all his electronic communications apparatus that is installed in or under a maintainable highway or street or, in Scotland, a public road or a road, is located.
+
+(2) The duty to keep records in paragraph (1) shall apply only in respect of apparatus located in Scotland and Wales and shall not apply in respect of any apparatus installed prior to the date on which these Regulations come into force.
+
+(3) The records shall be in the form of route plans based on Ordnance Survey map backgrounds on an appropriate scale for the density development in the area concerned.
+
+(4) Where a person who has reasonable grounds to inspect any records kept pursuant to paragraph (1) makes a request to inspect them, a code operator shall make them available for that purpose as soon as practicable and, in any case, within one month of the request being made.
+
+## 12. Duty to retain and allow inspection of existing records[^key-37fa8429fdb799f2a4b69e202f910696]
+
+(1) A code operator shall retain all his records created prior to the date on which these Regulations come into force of where his electronic communications apparatus installed in or under a maintainable highway or street or, in Scotland, a public road or a road is located.
+
+(2) Where a person who has reasonable grounds to inspect any records kept pursuant to paragraph (1) makes a request to inspect them, a code operator shall make them available for that purpose as soon as practicable and, in any case, within one month of the request being made.
+
+## 13. Duty to make staff available[^key-d0daec5ae59cb98fa0ed3cbcd583d390]
+
+A code operator shall make trained staff available, as soon as practicable after a reasonable request made by a relevant undertaker, a highway authority or, in Scotland, a roads authority, to indicate, on site, the location and nature of electronic communications apparatus of his installed in or under a maintainable highway or street or, in Scotland, a public road or a road.
+
+## 14. Arrangements with electricity suppliers[^key-684151d2a17749ba9e2624216abd7d63]
+
+(1) Before a code operator exercises any rights under the electronic communications code in an authorised area, he shall use his best endeavours to enter into an agreement with any relevant electricity supplier as to the engineering principles to be adopted and the allocation and apportionment of costs which arise—
+
+- (a) when the code operator installs and keeps installed electronic communications apparatus in proximity to plant which is already installed and which is the responsibility of the electricity supplier; or
+- (b) when the electricity supplier gives notice to the code operator that it proposes to install plant in proximity to any of the code operator’s apparatus which is already installed.
+
+(2) A code operator shall not install electronic communications apparatus which is—
+
+- (a) of such a nature, or
+- (b) in such a position,
+
+as adversely to affect any plant of an electricity supplier which is already installed.
+
+## 15. Provision of a temporary electronic communications network[^key-e46d6d9afe00386e2fbc5d5215594fd3]
+
+(1) A code operator who provides any electronic communications service for a limited period at the site of a public or private event or at a construction site may install electronic communications apparatus[^key-9b65a55b9a5edd7140d75bc227ef9f4c] on or above the ground, subject to the condition that—
+
+- (a) as soon as practicable the planning authority is given a reasonable estimate of the date by which the electronic communications apparatus will be removed; and
+- (b) the electronic communications apparatus are removed within a reasonable time after the end of the event or after the work on the construction site is complete.
+
+(2) A code operator who provides any electronic communications service required for use in dealing with an emergency by an emergency organisation may install electronic communications apparatus on or above the ground, subject to the condition that the electronic communications apparatus are removed within a reasonable time after they cease to be required.
+
+## 16. Funds for meeting liabilities[^key-f71d058cc1b1f237d1a3d971e876f4c9]
+
+(1) A code operator must—
+
+- (a) ensure that sufficient funds are available to meet the specified liabilities which—
+  - (i) arise on or before the date on which a relevant event occurs, or
+  - (ii) may arise at any time during the liability period,
+
+  from the exercise of rights conferred upon the code operator by paragraph 9 of the electronic communications code;
+- (b) on 1st April each year, provide OFCOM with the certificate the requirements of which are set out in paragraphs (2) to (6) inclusive unless he has not previously exercised any rights conferred by the electronic communications code; and
+- (c) where he has not previously exercised any rights conferred by the electronic communications code and intends to exercise such rights for the first time, provide OFCOM with the said certificate two weeks before he exercises such rights to install any apparatus.
+
+(2) The certificate shall be signed by—
+
+- (a) the director or the company secretary, in the case of a company;
+- (b) a member, in the case of a body corporate the conduct of the management of which is vested in its members;
+- (c) a member of the management committee, in the case of a body (whether or not incorporated) not falling within subparagraph (a), (b) or (d);
+- (d) one of the partners, in the case of a partnership;
+- (e) the code operator himself, in the case of an individual;
+
+and, in a case falling within subparagraph (a), (b) or (c), shall be approved by a resolution of the board, the body corporate or the management committee, as the case may be.
+
+(3) The certificate shall state that in the reasonable opinion of—
+
+- (a) the board, in the case of a company;
+- (b) the body corporate, in the case of a body corporate the conduct of the management of which is vested in its members;
+- (c) the management committee, in the case of a body (whether or not incorporated) not falling within subparagraph (a), (b) or (d);
+- (d) the partner signing the certificate, in the case of a partnership; or
+- (e) the code operator himself, in the case of an individual;
+
+the code operator has fulfilled his duty under paragraph (1).
+
+(4) In a case falling within subparagraph (a), (b) or (c) of paragraph (3), the board, the body corporate or the management committee, as the case may be, shall not make the statement in paragraph (3) unless it has first made appropriate enquiries into whether the code operator has fulfilled its duty under paragraph (1).
+
+(5) The certificate shall state—
+
+- (a) the amount of the funds which have been provided for, and
+- (b) the systems and processes which enabled the board, the body corporate, the management committee, the partner or the code operator himself as the case may be, to form the opinion referred to in paragraph (3).
+
+(6) The certificate shall be accompanied by copies of any insurance policy, bond, guarantee or other instrument which will provide the funds in paragraph (1)(a).
+
+(7) Where OFCOM are not satisfied that a code operator has discharged his duty under paragraph (1) they may—
+
+- (a) direct that code operator to take such steps as they consider appropriate for the purpose of securing that sufficient funds are available to meet the specified liabilities; and
+- (b) publish details of any direction under subparagraph (a).
+
+(8) Where OFCOM give a direction under paragraph (7)(a), the code operator shall comply with it.
+
+(9) A code operator shall inform OFCOM in writing immediately if he becomes aware of any circumstance which causes him to be unable to fulfil his duty under paragraph (1).
+
+(10) In this regulation—
+
+- “board” means the board of directors of a company;
+- “liability period” means the period commencing on the occurrence of a relevant event and ending on the third anniversary thereof;
+- “management committee” means the group of individuals in which the conduct of the management of a body of persons, other than a company, a partnership or a body corporate the conduct of the management of which is vested in its members, is vested;
+- a “relevant event” occurs if—
+  - (a) a code operator becomes subject to a direction under the Act by virtue of which he is prohibited from providing the electronic communications network for the purposes of the provision of which the electronic communications code was applied to him by a direction under section 106(3)(a) of the Act;
+  - (b) a code operator ceases to provide an electronic communications network;
+  - (c) a code operator is deemed to be unable to pay his debts;
+  - (d) a code operator enters into administration, receivership or liquidation;
+  - (e) any person takes action for the voluntary winding-up, dissolution, bankruptcy or sequestration of a code operator;
+  - (f) an administrator, receiver, trustee or similar officer of a code operator, or of all or any material part of the revenues and assets of that operator, is appointed;
+  - (g) any order is made for the compulsory winding-up, dissolution, bankruptcy or sequestration of a code operator;
+- “specified liabilities” are—
+  - (a) liabilities, including liabilities for the payment of indemnities in respect of costs or expenses incurred, arising under the New Roads and Street Works Act 1991[^f00037] or, in Northern Ireland, the Street Works (Northern Ireland) Order 1995[^f00038] towards—
+    - (i) any appropriate authority, traffic authority or responsible authority;
+    - (ii) any other person having the authority to execute works in, or having apparatus in, a street or, in Scotland, a road;
+    - (iii) any concessionaire within the meaning of section 1 of that Act of 1991 or, in the case of Northern Ireland, within the meaning of article 23(1) of the Roads (Northern Ireland) Order 1993[^f00039];
+  - (b) any other costs or expenses reasonably incurred by any appropriate authority or responsible authority in making good any damage caused by the installation or removal of electronic communications apparatus, whether such damage occurs before or after a relevant event;
+  - (c) any other costs or expenses reasonably incurred by any appropriate authority or responsible authority after a relevant event occurs in removing any electronic communications apparatus—
+    - (i) which is installed under, over, along or across a street;
+    - (ii) which is not, or is no longer, used for the purposes of any electronic communications network and in relation to which there is no reasonable likelihood that it will be so used; and
+    - (iii) the removal of which is desirable having regard to any harm it may cause to other persons or property or to the visual amenity of land or buildings in proximity to which the apparatus is installed.
+
+(11) A code operator shall, for the purposes of this regulation, be deemed to be unable to pay its debts if—
+
+- (a) where it is a company registered under the enactments relating to companies for the time being in force in the United Kingdom, it satisfies any of the requirements in section 123 of the Insolvency Act 1986[^f00040], except that, for the purposes of this regulation, the figure of “£750” in section 123 of that Act, or such other sum as may be specified from time to time pursuant to section 416 of that Act, shall be replaced by “£250,000”;
+- (b) where it is a company which is not so registered, it satisfies any of the requirements in section 222, 223 or 224 of the Insolvency Act 1986, except that, for the purposes of this regulation, the figure of “£750” in section 222 of that Act, or such other sum as may be specified from time to time pursuant to section 417 of that Act, shall be replaced by “£250,000”;
+- (c) where it is a partnership—
+  - (i) it satisfies any of the requirements in section 222, 223 or 224 of the Insolvency Act 1986 (as modified by paragraphs 4 and 5 of Part I of Schedule 3 to the Insolvent Partnerships Order 1994[^f00041]),except that for the purposes of this regulation the figure of “£750” in section 222 of that Act, or such other sum as may be specified from time to time pursuant to section 417 of that Act, shall be replaced by “£250,000”;
+  - (ii) it is apparently insolvent within the meaning of section 7 of the Bankruptcy (Scotland) Act 1985[^f00042], except that for the purposes of this regulation the figure of “£750” in section 7 of that Act, or such other sum as may be specified from time to time by any enactment which amends section 7, shall be replaced by “£250,000” ; or
+  - (iii) it satisfies any of the requirements in article 186, 187 or 188 of the Insolvency (Northern Ireland) Order 1989[^f00043] (as modified by paragraphs 4, 5 and 6 of Part I of Schedule 3 to the Insolvent Partnerships Order (Northern Ireland) 1995[^f00044]), except that for the purposes of this regulation the figure of “£750” in article 186 of the Order of 1989, or such other sum as may be specified from time to time pursuant to article 362(1)(a) of that Order, shall be replaced by “£250,000”;
+- (d) where he is an individual—
+  - (i) he satisfies either of the requirements in section 268(1) of the Insolvency Act 1986 and the debt, or the aggregate amount of the debts, that he owes is equal to or more than £250,000;
+  - (ii) he is apparently insolvent within the meaning of section 7 of the Bankruptcy (Scotland) Act 1985, except that for the purposes of this regulation the figure of “£750” in section 7 of that Act, or such other sum as may be specified from time to time by any enactment amending section 7, shall be replaced by “£250,000”; or
+  - (iii) he satisfies either of the requirements in article 242(1) of the Insolvency (Northern Ireland) Order 1989 and the debt, or the aggregate amount of the debts, that he owes is equal to or more than £250,000.
+
+(12) In the definition of “relevant event” in paragraph (10), the reference to a code operator’s becoming subject to a direction by virtue of which he is prohibited from providing the electronic communications network for the purposes of the provision of which the electronic communications code was applied to him—
+
+- (a) does not include a reference to his becoming subject to a direction which will have to be revoked if not confirmed, but
+- (b) does include a reference to the confirmation of a direction which would otherwise have had to be revoked.
+
+## 17. Production of guidelines[^key-c4b4793a03565cfbfde425a1fb266128]
+
+(1) A code operator shall co-operate with planning authorities and with highway authorities or, in Scotland, roads authorities in the production of guidelines on the manner in which code operators should conduct the installation, including the positioning, of—
+
+- (a) cabinets, boxes, pillars, pedestals and other similar apparatus installed above the ground;
+- (b) lines and service line distribution points affixed to and lying on the exterior surface of buildings or other permanent structures; and
+- (c) apparatus installed on or above the ground in proximity to a building notified by the planning authority to the code operator as being on the statutory list of buildings.
+
+(2) A code operator shall comply with the guidelines referred to in paragraph (1) from the date on which they come into effect.
+
+(3) A code operator shall provide OFCOM with a copy of the guidelines referred to in paragraph (1).
+
+## 18. Transitional provision[^key-e6e608a3ebaa61894032b2a997840031]
+
+In relation to times before an order made under section 411 of the Act brings sections 106 to 119 inclusive of the Act into force for the purpose of conferring on OFCOM the functions contained in those sections, references to OFCOM in these Regulations are to be treated as references to the Director General of Telecommunications.
+
+## 20. Review[^key-8c9eb9bd3a9885ed1dbae296522481b0]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the amendments made to these Regulations by the Electronic Communications Code (Conditions and Restrictions)(Amendment) Regulations 2016 (“the 2016 Regulations”) and the Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2017 (“the 2017 Regulations”)[^key-2bda5299321dd7ac0776ddad8194b79e];
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the 2016 Regulations and the 2017 Regulations[^key-69ded6026f333648d024fb8424a5b584];
+- (b) assess the extent to which these objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(3) The first report under this regulation must be published before the end of the period of five years beginning with the day on which the amendments made to these Regulations by the 2016 Regulations come into force.
+
+(4) Reports under this regulation are afterwards to be published every five years.
+
+Sainsbury of Turville,
+
+Parliamentary Under Secretary of State for Science and Innovation,
+
+Department of Trade and Industry
+
+2nd October 2003
+
+(This note is not part of the Regulations)
+
+The electronic communications code (“the code”) is set out in Schedule 2 to the Telecommunications Act 1984 as amended by Schedule 3 to the Communications Act 2003 (“the Act”). The code is designed to facilitate the installation and maintenance of electronic communications networks. It confers rights on providers of such networks, and on providers of systems of conduits which are made available for use by providers of electronic communications networks for the purposes of the provision of those networks, to install and maintain apparatus in, over and under land and results in considerably simplified planning procedures. Section 106(7) of the Act provides that “conduit” includes a tunnel, subway, tube or pipe. These Regulations set out restrictions and conditions subject to which the code applies.
+
+Regulation 3 sets out general conditions to which code operators are subject (a “code operator” is defined by regulation 2 as a person in whose case the code has been applied by a direction under section 106(3)(a) of the Act). Regulations 4 to 15 set out specific restrictions and conditions to which code operators are subject, relating to such matters as the installation of lines and electronic communications apparatus, the use of conduits and the maintenance and safety of apparatus. Regulation 16 sets out a condition to which code operators are subject, under which they are obliged to ensure that funds are available to meet certain specified liabilities. Regulation 17 imposes a duty on code operators to co-operate with planning authorities and with highway authorities (or, in Scotland, roads authorities) to produce and follow guidelines on how code operators should conduct the installation, including the positioning, of certain types of apparatus.
+
+## Annotations
+
+[^f00001]: Footnote: *See* Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), section 408(1), (2) and (3)(a) and S.I. [2003/1900 (C. 77)](https://www.legislation.gov.uk/uksi/2003/1900), article 3(1).
+
+[^f00002]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^key-eb430ddaa7d48b145acaa7311794e006]: Commencement: Reg. 1 in force at 23.10.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2553/regulation/1)
+
+[^key-d75be4a73d7c8566fbb632f8947c69bc]: Commencement: Reg. 2 in force at 23.10.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2553/regulation/1)
+
+[^f00003]: Footnote: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12), amended by [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21), section 106(2) and Schedule 3.
+
+[^f00004]: Footnote: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22).
+
+[^f00005]: Footnote: Section 108(6) was amended by section 180 of, and paragraph 168 of Schedule 13 to, the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^f00006]: Footnote: S.I. [1995/3210 (N.I. 19)](https://www.legislation.gov.uk/nisi/1995/3210).
+
+[^key-8d20e3ccadb848ec2904c7c75619d5b0]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) inserted (6.4.2009) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2009 (S.I. 2009/584)](https://www.legislation.gov.uk/uksi/2009/584), [reg. 1](https://www.legislation.gov.uk/uksi/2009/584/regulation/1), [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2009/584/schedule/paragraph/1/a)
+
+[^key-4cc52f6f78c43d39743058820b22bb08]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) substituted (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 1(a)(i)](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/1/a/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^f00007]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69); section 28(1), in relation to England and Wales, was substituted by section 75(1) of and paragraph 1 of Schedule 9 to the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37) and, in its application to Scotland, was amended by section 36 of and paragraph 8 of Schedule 5 to the [National Parks (Scotland) Act 2000 (asp. 10)](https://www.legislation.gov.uk/asp/2000/10).
+
+[^key-e63a7d3f6fbb5c27361766472398bc7a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) substituted (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/1/a/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^key-5da3ef04799e82d52bd4765474dc1cb1]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) substituted (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 1(a)(iii)](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/1/a/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^f00009]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29); section 6 was substituted by section 30 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^f00010]: Footnote: S.I. [1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231).
+
+[^f00011]: Footnote: [1988 c. 4](https://www.legislation.gov.uk/ukpga/1988/4); section 1 was amended by section 73(4) of and paragraph 1(1)(i) of Schedule 8 to the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37) and by article 4(a) of S.I. [1989/1380](https://www.legislation.gov.uk/uksi/1989/1380).
+
+[^f00012]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^f00013]: Footnote: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
+
+[^f00014]: Footnote: S.I. [1993/3160 (N.I. 15)](https://www.legislation.gov.uk/nisi/1993/3160).
+
+[^key-a71b944ac3a8fa928d29d04bc51ee8d8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/uksi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/924/regulation/1/2), [25(a)(i)](https://www.legislation.gov.uk/uksi/2024/924/regulation/25/a/i)
+
+[^f00015]: Footnote: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9).
+
+[^key-d99364e2d8c549857e0e2a9ee7ccbbc5]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/uksi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/924/regulation/1/2), [25(a)(ii)](https://www.legislation.gov.uk/uksi/2024/924/regulation/25/a/ii)
+
+[^f00016]: Footnote: [1997 c. 9](https://www.legislation.gov.uk/ukpga/1997/9).
+
+[^key-dcf98bdc00c7877cd805ae92634d237e]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) substituted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-081370b55100dd5b0548fe4e824b2890]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) inserted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-b4033d769ad5f0d5d55d4dc288e4c417]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 171(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/171/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-fde35636674620e43c0fb433742f928c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) inserted (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^key-9d94a33eec77720697d8755cf9b322e4]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) omitted (6.4.2009) by virtue of [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2009 (S.I. 2009/584)](https://www.legislation.gov.uk/uksi/2009/584), [reg. 1](https://www.legislation.gov.uk/uksi/2009/584/regulation/1), [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2009/584/schedule/paragraph/1/b)
+
+[^f00020]: Footnote: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97); section 21(1) was amended by section 1(1)(b) and (7) of and paragraph 1 of Schedule 1 to the Nature Conservancy Council Act [1973 (c. 54)](https://www.legislation.gov.uk/ukpga/1973/54).
+
+[^f00021]: Footnote: Section 36(1) was amended by section 3 of and paragraph 6 of Schedule 1 to the Territorial Sea Act [1987 (c. 49)](https://www.legislation.gov.uk/ukpga/1987/49).
+
+[^key-173c7f35b00bf7d9599658b8e51a282f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) inserted (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 1(c)](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/1/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^key-3ae49cd135986ddf4a875eaf647749fc]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) inserted (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 1(d)](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/1/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^f00022]: Footnote: Section 27A of the Wildlife and Countryside Act 1981, which was inserted by section 132 of and paragraph 11(8) of Schedule 8 to the Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43), provides that references in the 1981 Act to “the Nature Conservancy Council” are to be construed as references to “English Nature” in relation to land in England, to “Scottish Natural Heritage” in relation to land in Scotland, and to “the Countryside Council for Wales” in relation to land in Wales.
+
+[^key-3eba3bef24077c668e350a3f7423e3ae]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 171(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/171/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-2da680b19aa6e0830ba75771c3a1c117]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) substituted (6.4.2009) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2009 (S.I. 2009/584)](https://www.legislation.gov.uk/uksi/2009/584), [reg. 1](https://www.legislation.gov.uk/uksi/2009/584/regulation/1), [Sch. para. 1(c)](https://www.legislation.gov.uk/uksi/2009/584/schedule/paragraph/1/c)
+
+[^f00023]: Footnote: Section 5(3) was amended by article 3(d) of and paragraph 1(1) and (5) of Schedule 1 to S.I. [1999/416](https://www.legislation.gov.uk/uksi/1999/416).
+
+[^f00024]: Footnote: [2000 asp. 10](https://www.legislation.gov.uk/asp/2001/10).
+
+[^key-14d354c4148149a23218cc1b5641bc0c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) substituted (S.) (17.12.2010) by [The National Scenic Areas (Consequential Modifications) (Scotland) Order 2010 (S.S.I. 2010/460)](https://www.legislation.gov.uk/ssi/2010/460), [arts. 1](https://www.legislation.gov.uk/ssi/2010/460/article/1), [10](https://www.legislation.gov.uk/ssi/2010/460/article/10)
+
+[^key-3e7f482c54b19930de04e81a3fe6635b]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) inserted (6.4.2009) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2009 (S.I. 2009/584)](https://www.legislation.gov.uk/uksi/2009/584), [reg. 1](https://www.legislation.gov.uk/uksi/2009/584/regulation/1), [Sch. para. 1(e)](https://www.legislation.gov.uk/uksi/2009/584/schedule/paragraph/1/e)
+
+[^key-ff8085e51dd2ee9850d28a40c05d791a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) omitted (24.11.2016) by virtue of [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/3/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-290495e2a18eda8b1ef3f5092b93232f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 171(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/171/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-26347f8981249a4e0817225de02732bb]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) omitted (6.4.2009) by virtue of [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2009 (S.I. 2009/584)](https://www.legislation.gov.uk/uksi/2009/584), [reg. 1](https://www.legislation.gov.uk/uksi/2009/584/regulation/1), [Sch. para. 1(f)](https://www.legislation.gov.uk/uksi/2009/584/schedule/paragraph/1/f)
+
+[^f00028]: Footnote: [2002 c. 11](https://www.legislation.gov.uk/ukpga/2002/11).
+
+[^key-3b688e5f78eebfcc628c79fdb7e93d22]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) inserted (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 1(e)](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/1/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^key-c12683568f8eb9ca6c8429e2e66978c1]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) inserted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/3/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-c870bcea15bdcefe053bbcc80f08f5a8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) inserted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [3(e)(i)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/3/e/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^f00029]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^key-83cb13a835c7f35669a3aa4541bbc918]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) inserted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [3(e)(ii)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/3/e/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^f00030]: Footnote: Section 1(1B) was inserted by section 18(3) and (4) of the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19).
+
+[^f00031]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8).
+
+[^key-8d751f591a99aaf9b5edbae4bae46112]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) substituted (6.4.2009) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2009 (S.I. 2009/584)](https://www.legislation.gov.uk/uksi/2009/584), [reg. 1](https://www.legislation.gov.uk/uksi/2009/584/regulation/1), [Sch. para. 1(g)](https://www.legislation.gov.uk/uksi/2009/584/schedule/paragraph/1/g)
+
+[^key-d213a97bd717b3ba7f44dae92db2517f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) substituted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [3(e)(iii)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/3/e/iii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-7dbf05bb141d4eb5ae89f390b1815aea]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) inserted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [3(f)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/3/f) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^f00032]: Footnote: Section 149(4) was amended by section 71(2) of and paragraph 21(1) and (6) of Schedule 7 to the [Water Industry (Scotland) Act 2002 (asp. 3)](https://www.legislation.gov.uk/asp/2002/3).
+
+[^f00033]: Footnote: The words in the definition of “roads authority” were substituted by section 180(1) of and paragraph 135(10)(a)(iii) of Schedule 13 to the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^key-115182c77edca74ac626e801cde0916d]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) substituted (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 1(f)](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/1/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^key-aa06ad44412123bd6513bf81ad337bea]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [25(b)(i)](https://www.legislation.gov.uk/wsi/2024/924/regulation/25/b/i)
+
+[^key-32089ec3b7a9e1e9c4c73a89a4d68c49]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [25(b)(ii)](https://www.legislation.gov.uk/wsi/2024/924/regulation/25/b/ii)
+
+[^key-3de8ba361bb6956ce13c1fdb8249561b]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/2/2) substituted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [3(g)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/3/g) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^f00035]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27); section 121A was inserted by section 168(1) of and paragraph 70 of Part II of Schedule 8 to the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22).
+
+[^key-a8399b92966c8016fde84b2b3449fd52]: Commencement: Reg. 3 in force at 23.10.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2553/regulation/1)
+
+[^key-6f03d63a7401dde20b789e0f9cee7994]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/3/1/a) inserted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2016/1049/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-f52be47bf9566090075d54ead20f461b]: Commencement: Reg. 4 in force at 23.10.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2553/regulation/1)
+
+[^key-6d475e878e3a39f2b6ab24942d97874f]: Textual amendment: Word in [reg. 4(1)(d)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/4/1/d) revoked (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^key-a376a05b76f3dc8a27db442e8d3f29ff]: Textual amendment: [Reg. 4(1)(da)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/4/1/da) inserted (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^key-add3a2e3203f1802f11a3c53ced61833]: Commencement: Reg. 5 in force at 23.10.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2553/regulation/1)
+
+[^key-37c27d772d97fe453dce5ec287ea0dd2]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/5/1) substituted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/5/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-bbad8c54c94dc43074207a99632b2805]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/5/1/a) substituted (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^key-a171a82d3563ed191ced051379729e70]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/5/1/b)[(ba)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/5/1/ba) substituted (7.8.2017) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2017 (S.I. 2017/753)](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/753/regulation/4/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2017/753/regulation/2))
+
+[^key-47b6f0ae20dfcce6f2ea1a63bdae8bf5]: Textual amendment: [Reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/5/1/c) inserted (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 3(c)](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/3/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^key-89f0c9ec7b38ed15ecdb1ee79a80eaae]: Textual amendment: [Reg. 5(1ZA)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/5/1ZA) inserted (7.8.2017) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2017 (S.I. 2017/753)](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2017/753/regulation/4/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2017/753/regulation/2))
+
+[^key-bd9101ce63b268c74320ad4bb02c84f8]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/5/1A) inserted (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 3(d)](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/3/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^key-0db06d5329574eec3f78ce4e77918775]: Textual amendment: [Reg. 5(2A)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/5/2A) inserted (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 3(e)](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/3/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^key-3b1d669b16353e2c75f58f02a1c6dca0]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/5/3) substituted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [5(c)(i)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/5/c/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-e2de0693c19f58f9e55df6e35cc5cf7a]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/5/3) inserted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [5(c)(ii)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/5/c/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-79d2592cbdb2a89f85efc4fe75cd7fff]: Textual amendment: Word in [reg. 5(4)(b)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/5/4/b) omitted (24.11.2016) by virtue of [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [5(d)(i)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/5/d/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-4d4d1929b3d05df0a296f9f5ea5b1ffb]: Textual amendment: Word in [reg. 5(4)(c)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/5/4/c) inserted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [5(d)(ii)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/5/d/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-a2ed4999dc92ab64725c84dfd69037b5]: Textual amendment: [Reg. 5(4)(d)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/5/4/d) inserted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [5(d)(iii)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/5/d/iii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-a047d14fc5102c6b1da12a14e1fcb710]: Commencement: Reg. 6 in force at 23.10.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2553/regulation/1)
+
+[^key-9858190ff1feaa96c740535912d83472]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/6/1) inserted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/6/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-21a53189714699869fb28e1968ff9fc5]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/6/1) inserted (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^key-698bacd33ccbea810fc5a2f0cc0478ec]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/6/2)[(2A)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/6/2A) substituted for [reg. 6(2)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/6/2) (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/6/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-18e5d19cfbb52ddf82baeaebb2a76585]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2003/2553/regulation/6A) inserted (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^key-fa258b4de238f6284c2339d6fdb6490b]: Commencement: Reg. 7 in force at 23.10.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2553/regulation/1)
+
+[^key-2a2027f2ec5a90b58fa59a93eb0481d4]: Textual amendment: [Reg. 7(1)-(1B)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/7/1) substituted for [reg. 7(1)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/7/1) (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2016/1049/regulation/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-416357c5e3fecae147bc51d1ee6f7810]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2003/2553/regulation/7A) inserted (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^key-49f5a614a38ed715f9c3a933552d1930]: Commencement: Reg. 8 in force at 23.10.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2553/regulation/1)
+
+[^key-d7a7d153f2e84ba512777e4416f87f69]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/8/1) inserted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/8/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-dddd3f94e31e90666e3dca10bc2b6a36]: Textual amendment: [Reg. 8(1)(a)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/8/1/a) substituted (6.4.2009) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2009 (S.I. 2009/584)](https://www.legislation.gov.uk/uksi/2009/584), [reg. 1](https://www.legislation.gov.uk/uksi/2009/584/regulation/1), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2009/584/schedule/paragraph/3/a)
+
+[^key-f5e5f45a62d2c595db7849981c22515e]: Textual amendment: Words in [reg. 8(1)(a)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/8/1/a) omitted (24.11.2016) by virtue of [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/8/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-603b4bc196d7128ffe65a2a5629c9db5]: Textual amendment: Words in [reg. 8(1)(a)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/8/1/a) inserted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/8/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-c06ceaebd0362ae91ab4e7ff84fa3cb8]: Textual amendment: Words in [reg. 8(1)(b)(i)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/8/1/b/i) substituted (6.4.2009) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2009 (S.I. 2009/584)](https://www.legislation.gov.uk/uksi/2009/584), [reg. 1](https://www.legislation.gov.uk/uksi/2009/584/regulation/1), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2009/584/schedule/paragraph/3/b)
+
+[^key-2a8338009d691a5611e8a8d353fca7fd]: Textual amendment: Words in [reg. 8(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/8/1/b/iii) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 172](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/172) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-0895e020ef9f24f274503c6b34dda55c]: Textual amendment: Words in [reg. 8(1)(c)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/8/1/c) omitted (24.11.2016) by virtue of [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/8/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-a78f9e41a7d628f06d0ec8511f1e72ff]: Textual amendment: [Reg. 8(3)-(3B)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/8/3) substituted for [reg. 8(3)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/8/3) (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [8(d)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/8/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-7ab070dafb8ed99ee8abf6cdaa618554]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/8/6) inserted (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^key-50c6168d2468b17b443076cdbcc5f7b3]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2003/2553/regulation/8A) inserted (27.6.2013) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2013 (S.I. 2013/1403)](https://www.legislation.gov.uk/uksi/2013/1403), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1403/regulation/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2013/1403/schedule/paragraph/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1403/regulation/3)) (as amended (7.8.2017) by [S.I. 2017/753](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/753/regulation/7))
+
+[^key-607658df85131cd9b6dbeceb473cce1d]: Textual amendment: [Reg. 8B](https://www.legislation.gov.uk/uksi/2003/2553/regulation/8B) inserted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2016/1049/regulation/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-bfb23a0894dbeaab71a5356a44ed5ed0]: Commencement: Reg. 9 in force at 23.10.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2553/regulation/1)
+
+[^key-cf22853bab8c83267b93b8db9c33c5d2]: Commencement: Reg. 10 in force at 23.10.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2553/regulation/1)
+
+[^key-55db6c73cdd7d20f64bcdf06bde39bd2]: Commencement: Reg. 11 in force at 23.10.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2553/regulation/1)
+
+[^key-37fa8429fdb799f2a4b69e202f910696]: Commencement: Reg. 12 in force at 23.10.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2553/regulation/1)
+
+[^key-d0daec5ae59cb98fa0ed3cbcd583d390]: Commencement: Reg. 13 in force at 23.10.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2553/regulation/1)
+
+[^key-684151d2a17749ba9e2624216abd7d63]: Commencement: Reg. 14 in force at 23.10.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2553/regulation/1)
+
+[^key-e46d6d9afe00386e2fbc5d5215594fd3]: Commencement: Reg. 15 in force at 23.10.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2553/regulation/1)
+
+[^key-9b65a55b9a5edd7140d75bc227ef9f4c]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2003/2553/regulation/15) substituted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2016/1049/regulation/10) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-f71d058cc1b1f237d1a3d971e876f4c9]: Commencement: Reg. 16 in force at 23.10.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2553/regulation/1)
+
+[^f00037]: Footnote: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22).
+
+[^f00038]: Footnote: S.I. [1995/3210 (N.I. 19)](https://www.legislation.gov.uk/nisi/1995/3210).
+
+[^f00039]: Footnote: S.I. [1993/3160 (N.I. 15)](https://www.legislation.gov.uk/nisi/1993/3160).
+
+[^f00040]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^f00041]: Footnote: S.I. [1994/2421](https://www.legislation.gov.uk/uksi/1994/2421).
+
+[^f00042]: Footnote: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66); section 7 was amended by paragraph 10 of Schedule 1 to the Drug Trafficking Act [1994 (c. 37)](https://www.legislation.gov.uk/ukpga/1994/37), paragraph 185 of Part II of Schedule 6 to the Criminal Justice (Scotland) Act [1995 (c. 20)](https://www.legislation.gov.uk/ukpga/1995/20), paragraph 58 of Schedule 4 to the Criminal Procedure (Consequential Provisions) (Scotland) Act [1995 (c. 40)](https://www.legislation.gov.uk/ukpga/1995/40), paragraph 15 of Schedule 11 to the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29) and paragraph 15 of Schedule 3 to the [Debt Arrangement and Attachment Act 2002 (asp. 17)](https://www.legislation.gov.uk/asp/2002/17).
+
+[^f00043]: Footnote: S.I. [1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
+
+[^f00044]: Footnote: [S.R. (NI) 1995 No 225](https://www.legislation.gov.uk/nisr/1995/225).
+
+[^key-c4b4793a03565cfbfde425a1fb266128]: Commencement: Reg. 17 in force at 23.10.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2553/regulation/1)
+
+[^key-e6e608a3ebaa61894032b2a997840031]: Commencement: Reg. 18 in force at 23.10.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2553/regulation/1)
+
+[^key-8c9eb9bd3a9885ed1dbae296522481b0]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2003/2553/regulation/20) inserted (24.11.2016) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2016 (S.I. 2016/1049)](https://www.legislation.gov.uk/uksi/2016/1049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2016/1049/regulation/11) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1049/regulation/1/2))
+
+[^key-2bda5299321dd7ac0776ddad8194b79e]: Textual amendment: Words in [reg. 20(1)(a)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/20/1/a) inserted (7.8.2017) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2017 (S.I. 2017/753)](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2017/753/regulation/5/a)
+
+[^key-69ded6026f333648d024fb8424a5b584]: Textual amendment: Words in [reg. 20(2)(a)](https://www.legislation.gov.uk/uksi/2003/2553/regulation/20/2/a) inserted (7.8.2017) by [The Electronic Communications Code (Conditions and Restrictions) (Amendment) Regulations 2017 (S.I. 2017/753)](https://www.legislation.gov.uk/uksi/2017/753), [regs. 1](https://www.legislation.gov.uk/uksi/2017/753/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2017/753/regulation/5/b)

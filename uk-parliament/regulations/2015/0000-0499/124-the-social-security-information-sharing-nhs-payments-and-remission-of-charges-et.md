@@ -1,0 +1,313 @@
+---
+title: The Social Security (Information-sharing) (NHS Payments and Remission of Charges etc.) (England) Regulations 2015
+id: uksi/2015/124
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-02-04'
+text_date: '2023-11-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2015/124
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/124/pdfs/uksiem_20150124_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/124/pdfs/uksi_20150124_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/124/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Information-sharing) (NHS Payments and Remission of Charges etc.) (England) Regulations 2015
+
+> Text as at 2023-11-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2015 No. 124
+
+Social Security, England
+
+National Health Service, England
+
+The Social Security (Information-sharing) (NHS Payments and Remission of Charges etc.) (England) Regulations 2015
+
+Made
+
+4th February 2015
+
+Laid before Parliament
+
+10th February 2015
+
+Coming into force
+
+1st April 2015
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by section 131(1), (3) and (11)(g), 132(8) and 133(1) and (2) of the Welfare Reform Act 2012[^f00001].
+
+## 1. Citation, commencement and application[^key-4a374538981b6bb31271fb32486a5e02]
+
+(1) These Regulations may be cited as the Social Security (Information-sharing) (NHS Payments and Remission of Charges etc.) (England) Regulations 2015 and come into force on 1st April 2015.
+
+(2) These Regulations apply in relation to England only.
+
+## 2. Interpretation[^key-e99657143d67080277355666a1dea8a8]
+
+In these Regulations—
+
+- “the 2006 Act” means the National Health Service Act 2006[^f00002];
+- “the 2012 Act” means the Welfare Reform Act 2012;
+- “the CA Regulations” means the National Health Service (Charges for Appliances) Regulations 1974[^f00003];
+- “[^key-25f7d95648825b6fd2f77476429c2e57]**the CDA Regulations**” means the National Health Service (Charges for Drugs and Appliances) Regulations 2015;
+- “the DC Regulations” means the National Health Service (Dental Charges) Regulations 2005[^f00005];
+- [^key-6ce0bbbf3853d59e7ad6036e470215c2]...
+- “[^key-7eab928d4d2cf0c6c5a84097a5ad494d]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
+- “the OCP Regulations” means the National Health Service (Optical Charges and Payments) Regulations 2013[^f00007];
+- “the POS Regulations” means the Primary Ophthalmic Services Regulations 2008[^f00008]; and
+- “the TERC Regulations” means the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^f00009].
+
+## 3. Qualifying persons for the purposes of information-sharing by the Secretary of State for Work and Pensions[^key-4a71cff2b8d064349d1cd50e04cd1a03]
+
+(1) The following are prescribed as “qualifying persons” to whom the Secretary of State for Work and Pensions may supply relevant information for the purposes prescribed in regulations 4 to 7—
+
+- (a) the Secretary of State for Health and Social Care[^key-df611bb9ccb309a5360f08a19de56949];
+- (b) NHS England[^key-447f45c52cb8630539baaa072de7e3a7]; and
+- (c) the NHS Business Services Authority established by the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Establishment and Constitution) Order 2005[^f00010], where it is exercising functions of the Secretary of State for Health and Social Care or NHS England in connection with the purposes prescribed in regulations 4 to 7.
+
+(2) The persons who are required to make and recover charges from patients under the CDA Regulations are prescribed as “qualifying persons” to whom the Secretary of State for Work and Pensions may supply relevant information for the purposes prescribed in regulation 4.
+
+(3) The persons other than the Secretary of State for Health and Social Care[^key-8d4c9366252ccdf9aede6edac7b3dd14] or NHS England who are required to make a payment or repayment of NHS travel expenses under the TERC Regulations are prescribed as “qualifying persons” to whom the Secretary of State for Work and Pensions may supply relevant information for the purposes prescribed in regulation 5.
+
+(4) The persons who are required to make and recover charges payable under the DC Regulations are prescribed as “qualifying persons” to whom the Secretary of State for Work and Pensions may supply relevant information for the purposes prescribed in regulation 6.
+
+(5) The following persons are prescribed as “qualifying persons” to whom the Secretary of State for Work and Pensions may supply relevant information for the purposes prescribed in regulation 7—
+
+- (a) persons who are required under the POS Regulations to test the sight of eligible persons;
+- (b) persons who are required under the CA Regulations to make and recover a charge in respect of the supply or repair of an optical appliance; or
+- (c) persons who are required under the OCP Regulations to—
+  - (i) make and recover a charge in respect of the supply of glasses or contact lenses,
+  - (ii) accept vouchers in substitution for payments for sight tests, or
+  - (iii) issue vouchers to meet or contribute towards the costs of optical appliances.
+
+## 4. Prescribed purposes relating to NHS prescription charges[^key-fdeb77cc0704bdc7b63cef35a731e47a]
+
+(1) The purposes set out in paragraph (2) are prescribed—
+
+- (a) under section 131(3) of the 2012 Act (information-sharing in relation to welfare services etc.) as purposes for which information may be held by a qualifying person mentioned in regulation 3(1) or (2);
+- (b) under section 131(3)(a) of the 2012 Act as purposes for which information may be used by a qualifying person as mentioned in regulation 3(1) or (2); and
+- (c) under section 131(3)(b) of the 2012 Act as purposes for which the information may be supplied by a qualifying person to another qualifying person as mentioned in regulation 3(1) or (2).
+
+(2) The purposes are—
+
+- (a) identifying persons in receipt of a relevant social security benefit, or who are members of a family one member of which is in receipt of a relevant social security benefit, for the purposes of—
+  - (i) ascertaining entitlement to remission of a charge payable under the CDA Regulations on the grounds of receiving a relevant social security benefit, and
+  - (ii) providing appropriate advice, assistance and support in relation to entitlement to remission of a charge payable under the CDA Regulations on the grounds of receiving a relevant social security benefit; and
+- (b) identifying persons who—
+  - (i) are not in receipt of a relevant social security benefit, and are not members of a family one member of which is in receipt of a relevant social security benefit, or
+  - (ii) are in receipt of a relevant social security benefit, or are members of a family one member of which is in receipt of a relevant social security benefit, but from whom a charge is recoverable under the CDA Regulations,
+
+  but who have claimed, are claiming or are proposing to claim entitlement to remission of a charge payable by them under the CDA Regulations on the grounds of receiving a relevant social security benefit, in order to perform as appropriate the functions set out in paragraph (3).
+
+(3) The functions are—
+
+- (a) providing the persons mentioned in paragraph (2)(b) with advice, assistance and support in relation to entitlement to remission of a charge payable under the CDA Regulations on the grounds of receiving a relevant social security benefit;
+- (b) making and recovery of charges payable by the persons mentioned in paragraph (2)(b) under section 192 of the 2006 Act (recovery of charges and payments in relation to goods and services);
+- (c) making and recovery of penalty charges from persons mentioned in paragraph (2)(b) under section 193 of the 2006 Act (penalties relating to charges); and
+- (d) conducting proceedings in relation to persons mentioned in paragraph (2)(b) under section 194 of the 2006 Act[^f00011] (offences relating to charges).
+
+## 5. Prescribed purposes relating to payment of NHS travelling expenses[^key-edb83ec302c7586dec3949be62bed361]
+
+(1) The purposes set out in paragraph (2) are prescribed—
+
+- (a) under section 131(3) of the 2012 Act (information-sharing in relation to welfare services etc.) as purposes for which information may be held by a qualifying person mentioned in regulation 3(1) or (3);
+- (b) under section 131(3)(a) of the 2012 Act as purposes for which information may be used by a qualifying person mentioned in regulation 3(1) or (3); and
+- (c) under section 131(3)(b) of the 2012 Act as purposes for which information may be supplied by a qualifying person to another qualifying person mentioned in regulation 3(1) or (3).
+
+(2) The purposes are—
+
+- (a) identifying persons in receipt of a relevant social security benefit, or who are members of a family one member of which is in receipt of a relevant social security benefit, for the purposes of—
+  - (i) ascertaining entitlement to payment in full or in part of NHS travel expenses under the TERC Regulations on the grounds of receiving a relevant social security benefit, and
+  - (ii) providing appropriate advice, assistance and support in relation to entitlement to payment in full or in part of NHS travel expenses under the TERC Regulations on the grounds of receiving a relevant social security benefit; and
+- (b) identifying persons who—
+  - (i) are not in receipt of a relevant social security benefit, or are not members of a family one member of which is in receipt of a relevant social security benefit, or
+  - (ii) are in receipt of a relevant social security benefit, or are members of a family one member of which is in receipt of a relevant social security benefit, but who are not entitled to payment in full or in part of NHS travel expenses under the TERC Regulations on the grounds of receiving a relevant social security benefit,
+
+  but who have been paid or have claimed, are claiming or are proposing to claim entitlement to payment in full or in part of NHS travel expenses under the TERC Regulations on the grounds of receiving a relevant social security benefit, in order to perform as appropriate the functions set out in paragraph (3).
+
+(3) The functions are—
+
+- (a) providing the persons mentioned in paragraph (2)(b) with advice, assistance and support in relation to entitlement to payment in full or in part of NHS travel expenses under the TERC Regulations on the grounds of receiving a relevant social security benefit;
+- (b) recovery of payments from the persons mentioned in paragraph (2)(b) under section 192 of the 2006 Act (recovery of charges and payments in relation to goods and services);
+- (c) making and recovery of penalty charges payable by persons mentioned in paragraph (2)(b) under section 193 of the 2006 Act (penalties relating to charges); and
+- (d) conducting proceedings in relation to persons mentioned in paragraph (2)(b) under section 194 of the 2006 Act (offences relating to charges).
+
+## 6. Prescribed purposes relating to NHS dental charges[^key-6e72db98c2e084aefcf25da5409c80c7]
+
+(1) The purposes set out in paragraph (2) are prescribed—
+
+- (a) under section 131(3) of the 2012 Act (information-sharing in relation to welfare services etc.) as purposes for which information may be held by a qualifying person mentioned in regulation 3(1) or (4);
+- (b) under section 131(3)(a) of the 2012 Act as purposes for which information may be used by a qualifying person mentioned in regulation 3(1) or (4); and
+- (c) under section 131(3)(b) of the 2012 Act as purposes for which information may be supplied by a qualifying person to another qualifying person mentioned in regulation 3(1) or (4).
+
+(2) The purposes are—
+
+- (a) identifying persons in receipt of a relevant social security benefit, or who are members of a family one member of which is in receipt of a relevant social security benefit, for the purposes of—
+  - (i) ascertaining entitlement to remission of a charge payable by them under the DC Regulations on the grounds of receiving a relevant social security benefit, and
+  - (ii) providing appropriate advice, assistance and support in relation to entitlement to remission of a charge payable by them under the DC Regulations on the grounds of receiving a relevant social security benefit; and
+- (b) identifying persons who—
+  - (i) are not in receipt of a relevant social security benefit, or are not members of a family one member of which is in receipt of a relevant social security benefit, or
+  - (ii) are in receipt of a relevant social security benefit, or are members of a family one member of which is in receipt of a relevant social security benefit, but from whom a charge is recoverable under the DC Regulations,
+
+  but who have claimed, are claiming or are proposing to claim entitlement to remission of a charge payable by them under the DC Regulations on the grounds of receiving a relevant social security benefit, in order to perform as appropriate the functions set out in paragraph (3).
+
+(3) The functions are—
+
+- (a) providing the persons mentioned in paragraph (2)(b) with advice, assistance and support in relation to entitlement to remission of a charge payable by them under the DC Regulations on the grounds of receiving a relevant social security benefit;
+- (b) making and recovery of charges payable by the persons mentioned in paragraph (2)(b) under section 192 of the 2006 Act (recovery of charges and payments in relation to goods and services);
+- (c) making and recovery of penalty charges payable by persons mentioned in paragraph (2)(b) under section 193 of the 2006 Act (penalties relating to charges); and
+- (d) conducting proceedings in relation to persons mentioned in paragraph (2)(b) under section 194 of the 2006 Act (offences relating to charges).
+
+## 7. Prescribed purposes relating to charges for NHS ophthalmic goods and services[^key-9ae694c4cbc9bee10e6b562940bd38e6]
+
+(1) The purposes set out in paragraph (2) are prescribed—
+
+- (a) under section 131(3) of the 2012 Act (information-sharing in relation to welfare services etc.) as purposes for which information may be held by a qualifying person mentioned in regulation 3(1) or (5);
+- (b) under section 131(3)(a) of the 2012 Act as purposes for which information may be used by a qualifying person mentioned in regulation 3(1) or (5); and
+- (c) under section 131(3)(b) of the 2012 Act as purposes for which information may be supplied by a qualifying person to another qualifying person mentioned in regulation 3(1) or (5).
+
+(2) The purposes are—
+
+- (a) identifying persons in receipt of a relevant social security benefit, or who are members of a family one member of which is in receipt of a relevant social security benefit, for the purposes of identifying whether or not, on the grounds of receiving a relevant social security benefit, they are entitled to—
+  - (i) sight tests under the POS Regulations,
+  - (ii) an exemption from charges in respect of the supply of glasses or contact lenses under the OCP Regulations,
+  - (iii) an exemption from charges in respect of the supply or repair of an optical appliance under the CA Regulations,
+  - (iv) vouchers in substitution for payments for sight tests under the OCP Regulations, or
+  - (v) vouchers to meet or contribute towards the costs of optical appliances under the OCP Regulations,
+
+  and providing appropriate advice, assistance and support in relation to whether or not they are so entitled; and
+- (b) identifying persons who—
+  - (i) are not in receipt of a relevant social security benefit, or are not members of a family one member of which is in receipt of a relevant social security benefit, or
+  - (ii) are in receipt of a relevant social security benefit, or are members of a family one member of which is in receipt of a relevant social security benefit, but from whom a charge is recoverable under the CDA Regulations,
+
+  but who have claimed, are claiming or are proposing to claim entitlement to a sight test, exemption or voucher mentioned in sub-paragraph (a) on the grounds of receiving a relevant social security benefit, in order to perform as appropriate the functions set out in paragraph (3).
+
+(3) The functions are—
+
+- (a) providing the persons mentioned in paragraph (2)(b) with advice, assistance and support in relation to entitlement to—
+  - (i) sight tests under the POS Regulations,
+  - (ii) an exemption from charges in respect of the supply of glasses or contact lenses under the OCP Regulations,
+  - (iii) an exemption from charges in respect of the supply or repair of an optical appliance under the CA Regulations,
+  - (iv) vouchers in substitution for payments for sight tests under the OCP Regulations, or
+  - (v) vouchers to meet or contribute towards the costs of optical appliances under the OCP Regulations,
+
+  on the grounds of receiving a relevant social security benefit;
+- (b) making and recovery of charges payable by, and the recovery of payments, from the persons mentioned in paragraph (2)(b) under section 192 of the 2006 Act (recovery of charges and payments in relation to goods and services);
+- (c) making and recovery of penalty charges payable by persons mentioned in paragraph (2)(b) under section 193 of the 2006 Act (penalties relating to charges); and
+- (d) conducting proceedings in relation to persons mentioned in paragraph (2)(b) under section 194 of the 2006 Act (offences relating to charges).
+
+## 8. Application of section 132 of the 2012 Act[^key-dbfce25239651253054be0e940b9e9c6]
+
+The provisions of section 132 of the 2012 Act (unlawful disclosure of information supplied under section 131) apply to—
+
+- (a) the persons, apart from the Secretary of State for Health and Social Care[^key-958bf6b064402f8bc7b54cdbd36b24b3], prescribed as qualifying persons under regulation 3; and
+- (b) any person associated by reason of the person’s office or employment or otherwise with any qualifying person listed in regulation 3.
+
+## 9. Disclosure of personal data to the Secretary of State for Work and Pensions[^key-3445a6b6007a4ec89fc4003388d1defc][^key-6f3e4990d0111750bd538e23ab604156]
+
+(1) A person prescribed as a qualifying person under regulation 3, or a person providing services to such a qualifying person, may, for any purpose connected with the purposes set out in regulations 4 to 7, disclose personal data to—
+
+- (a) the Secretary of State for Work and Pensions; or
+- (b) a person providing services to the Secretary of State for Work and Pensions.
+
+(2) For the purposes of this regulation, “personal data” has the meaning given in section 1(1) of the Data Protection Act 1998[^f00012] (basic interpretative provisions).
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Mark Harper
+
+Minister of State,
+
+Department for Work and Pensions
+
+4th February 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, made under sections 131 to 133 of the Welfare Reform Act 2012 (“the 2012 Act”), prescribe the extent of information-sharing which is permitted under those sections for purposes relating to entitlement, based on receipt of a relevant social security benefit, to health service benefits such as exemptions from National Health Service charges, free sight tests, and payments or vouchers towards expenses or appliances – and to related enforcement action.
+
+Regulations 1 and 2 contain general provisions including definitions in regulation 2.
+
+Section 131(1) of the 2012 Act allows the Secretary of State for Work and Pensions (or a person providing services to the Secretary of State for Work and Pensions) to supply relevant information relating to certain social security benefits or welfare services to a “qualifying person” (defined in section 131(11)(g)).
+
+Regulation 3 prescribes additional persons who are “qualifying persons” to whom the Secretary of State for Work and Pensions (or a person providing services to the Secretary of State for Work and Pensions) may supply information. Regulations 4 to 7 prescribe the purposes for which such information may be supplied.
+
+Section 131(3) of the 2012 Act allows a qualifying person who holds information of this kind for a prescribed purpose to use that information, or supply it to another qualifying person for use in relation to a prescribed purpose. Regulations 4 to 7 also prescribe the purposes for which relevant information must be held by a qualifying person in order for them to use or supply it for functions prescribed in regulations 4 to 7. All of these relate to receiving a relevant social security benefit.
+
+Regulation 4 permits the use and supply of relevant information for purposes connected with remission of a prescription charge payable under the National Health Service (Charges for Drugs and Appliances) Regulations 2000 ([S.I. 2000/620](https://www.legislation.gov.uk/uksi/2000/620), as amended). Regulation 5 permits the use and supply of relevant information for purposes connected with entitlement to payment in full or in part of NHS travel expenses under the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003 ([S.I. 2003/2382](https://www.legislation.gov.uk/uksi/2003/2382), as amended). Regulation 6 permits the use and supply of relevant information for purposes connected with remission of a relevant dental charge payable under the National Health Service (Dental Charges) Regulations 2005 ([S.I. 2005/3477](https://www.legislation.gov.uk/uksi/2005/3477), as amended). Regulation 7 permits the use and supply of relevant information for purposes connected with free sight tests under the Primary Ophthalmic Services Regulations 2008 ([S.I. 2008/1186](https://www.legislation.gov.uk/uksi/2008/1186), as amended); the supply of glasses or contact lenses under the National Health Service (Optical Charges and Payments) Regulations 2013 ([S.I. 2013/461](https://www.legislation.gov.uk/uksi/2013/461), as amended); the supply or repair of an optical appliance under the National Health Service (Charges for Appliances) Regulations 1974 ([S.I. 1974/284](https://www.legislation.gov.uk/uksi/1974/284), as amended); or vouchers for sight tests under the National Health Service (Optical Charges and Payments) Regulations 2013 ([S.I. 2013/461](https://www.legislation.gov.uk/uksi/2013/461), as amended).
+
+Regulation 8 applies to qualifying persons (apart from the Secretary of State for Health) and persons associated with them the provisions of section 132 of the 2012 Act, which make it an offence to disclose without lawful authority personal information obtained by virtue of section 131(1),(3) or (4) of the 2012 Act.
+
+Regulation 9 allows qualifying persons (and persons providing services to qualifying persons) to disclose personal data to the Secretary of State for Work and Pensions (or a person providing services to the Secretary of State for Work and Pensions) for any purpose connected with the purposes set out in regulations 4 to 7.
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5). Section 133(1) is cited for the meaning of “prescribed”.
+
+[^key-4a374538981b6bb31271fb32486a5e02]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/124/regulation/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/124/regulation/1/1)
+
+[^key-e99657143d67080277355666a1dea8a8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/124/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/124/regulation/1/1)
+
+[^f00002]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^f00003]: Footnote: [S.I. 1974/284](https://www.legislation.gov.uk/uksi/1974/284); amended by [S.I. 1974/609](https://www.legislation.gov.uk/uksi/1974/609), [1986/976](https://www.legislation.gov.uk/uksi/1986/976), [2003/1937](https://www.legislation.gov.uk/uksi/2003/1937), [2004/696](https://www.legislation.gov.uk/uksi/2004/696) and [2013/365](https://www.legislation.gov.uk/uksi/2013/365).
+
+[^key-25f7d95648825b6fd2f77476429c2e57]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/124/regulation/2) substituted (E.) (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2015/570/schedule/2/paragraph/7)
+
+[^f00005]: Footnote: [S.I. 2005/3477](https://www.legislation.gov.uk/uksi/2005/3477); amended by [S.I. 2006/1837](https://www.legislation.gov.uk/uksi/2006/1837), [2007/544](https://www.legislation.gov.uk/uksi/2007/544), [2008/547](https://www.legislation.gov.uk/uksi/2008/547), [2009/407](https://www.legislation.gov.uk/uksi/2009/407), [2011/519](https://www.legislation.gov.uk/uksi/2011/519), [2012/502](https://www.legislation.gov.uk/uksi/2012/502), [2013/364](https://www.legislation.gov.uk/uksi/2013/364) and [475](https://www.legislation.gov.uk/uksi/2013/475) and [2014/545](https://www.legislation.gov.uk/uksi/2014/545).
+
+[^key-6ce0bbbf3853d59e7ad6036e470215c2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/124/regulation/2) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [79(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/79/2/a)
+
+[^key-7eab928d4d2cf0c6c5a84097a5ad494d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/124/regulation/2) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [79(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/79/2/b)
+
+[^f00007]: Footnote: [S.I. 2013/461](https://www.legislation.gov.uk/uksi/2013/461); amended by [S.I. 2013/1856](https://www.legislation.gov.uk/uksi/2013/1856) and [2555](https://www.legislation.gov.uk/uksi/2013/2555) and [2014/545](https://www.legislation.gov.uk/uksi/2014/545).
+
+[^f00008]: Footnote: [S.I. 2008/1186](https://www.legislation.gov.uk/uksi/2008/1186); amended by [S.I. 2008/1700](https://www.legislation.gov.uk/uksi/2008/1700) and [2449](https://www.legislation.gov.uk/uksi/2008/2449), [2009/409](https://www.legislation.gov.uk/uksi/2009/409), [2010/634](https://www.legislation.gov.uk/uksi/2010/634), [2013/365](https://www.legislation.gov.uk/uksi/2013/365) and [2014/418](https://www.legislation.gov.uk/uksi/2014/418) and [545](https://www.legislation.gov.uk/uksi/2014/545).
+
+[^f00009]: Footnote: [S.I. 2003/2382](https://www.legislation.gov.uk/uksi/2003/2382); amended by [S.I. 2004/663](https://www.legislation.gov.uk/uksi/2004/663), [696](https://www.legislation.gov.uk/uksi/2004/696) and [936](https://www.legislation.gov.uk/uksi/2004/936), [2005/26](https://www.legislation.gov.uk/uksi/2005/26), [578](https://www.legislation.gov.uk/uksi/2005/578) and [2114](https://www.legislation.gov.uk/uksi/2005/2114), [2006/562](https://www.legislation.gov.uk/uksi/2006/562), [675](https://www.legislation.gov.uk/uksi/2006/675), [1065](https://www.legislation.gov.uk/uksi/2006/1065) and [2171](https://www.legislation.gov.uk/uksi/2006/2171), [2007/1975](https://www.legislation.gov.uk/uksi/2007/1975) and [2590](https://www.legislation.gov.uk/uksi/2007/2590), [2008/571](https://www.legislation.gov.uk/uksi/2008/571), [1697](https://www.legislation.gov.uk/uksi/2008/1697), [1700](https://www.legislation.gov.uk/uksi/2008/1700) and [2868](https://www.legislation.gov.uk/uksi/2008/2868), [2009/411](https://www.legislation.gov.uk/uksi/2009/411) and [1599](https://www.legislation.gov.uk/uksi/2009/1599), [2012/620](https://www.legislation.gov.uk/uksi/2012/620) and [1727](https://www.legislation.gov.uk/uksi/2012/1727), [2011/1587](https://www.legislation.gov.uk/uksi/2011/1587), [2012/1650](https://www.legislation.gov.uk/uksi/2012/1650), [2013/475](https://www.legislation.gov.uk/uksi/2013/475) and [1600](https://www.legislation.gov.uk/uksi/2013/1600) and [2014/545](https://www.legislation.gov.uk/uksi/2014/545).
+
+[^key-4a71cff2b8d064349d1cd50e04cd1a03]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/124/regulation/3) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/124/regulation/1/1)
+
+[^key-df611bb9ccb309a5360f08a19de56949]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/124/regulation/3/1) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(t)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/t) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+
+[^key-447f45c52cb8630539baaa072de7e3a7]: Textual amendment: Words in Instrument substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^f00010]: Footnote: [S.I. 2005/2414](https://www.legislation.gov.uk/uksi/2005/2414).
+
+[^key-8d4c9366252ccdf9aede6edac7b3dd14]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2015/124/regulation/3/3) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(t)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/t) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+
+[^key-fdeb77cc0704bdc7b63cef35a731e47a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/124/regulation/4) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/124/regulation/1/1)
+
+[^f00011]: Footnote: Section 194 has been amended by the Legal Services Act [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), Schedule 21, paragraph 54, and Schedule 23.
+
+[^key-edb83ec302c7586dec3949be62bed361]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/124/regulation/5) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/124/regulation/1/1)
+
+[^key-6e72db98c2e084aefcf25da5409c80c7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/124/regulation/6) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/124/regulation/1/1)
+
+[^key-9ae694c4cbc9bee10e6b562940bd38e6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/124/regulation/7) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/124/regulation/1/1)
+
+[^key-dbfce25239651253054be0e940b9e9c6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/124/regulation/8) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/124/regulation/1/1)
+
+[^key-958bf6b064402f8bc7b54cdbd36b24b3]: Textual amendment: Words in [reg. 8(a)](https://www.legislation.gov.uk/uksi/2015/124/regulation/8/a) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(t)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/t) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+
+[^key-3445a6b6007a4ec89fc4003388d1defc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/124/regulation/9) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/124/regulation/1/1)
+
+[^key-6f3e4990d0111750bd538e23ab604156]: Modification: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/124/regulation/9): functions transferred (E.) (1.4.2015) by [The Delegation of Additional Functions to the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) Regulations 2015 (S.I. 2015/127)](https://www.legislation.gov.uk/uksi/2015/127), [regs. 1](https://www.legislation.gov.uk/uksi/2015/127/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/127/regulation/2/a)
+
+[^f00012]: Footnote: Amended by [S.I. 2004/3089](https://www.legislation.gov.uk/uksi/2004/3089).

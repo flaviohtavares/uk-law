@@ -1,0 +1,42 @@
+---
+title: Corporation Tax Act 2010, section 252
+act: Corporation Tax Act 2010
+section: '252'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/252
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 252
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 252. Effect of receipt of value on future claims
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if the investment consists of securities or shares and—
+
+- (a) the investor receives any value (other than an amount of insignificant value) from the CDFI during the 6 year period, and
+- (b) the investment or a part of it is held by the investor at the time the value is received and has been held by the investor, as sole beneficial owner, continuously since the investment was made (“the continuing investment”),
+
+but no CITR attributable to the continuing investment is withdrawn under section 247 as a result of the receipt.
+
+(2) For the purposes of calculating any CITR in respect of any securities or shares included in the continuing investment for any relevant accounting period, the amount subscribed for the securities or shares included in the continuing investment is treated as reduced by the amount of the value received.
+
+(3) For this purpose the “relevant” accounting periods are—
+
+- (a) any accounting period ending on or after the anniversary of the investment date immediately before the receipt of value, or
+- (b) if the value was received on an anniversary of the investment date, any accounting period ending on or after that anniversary.
+
+(4) For the purposes of this section “**an amount of insignificant value**” means an amount of value which—
+
+- (a) is not more than £1,000, or
+- (b) if it is more than £1,000, is insignificant in relation to the amount subscribed by the investor for the securities or shares included in the continuing investment.
+
+(5) This section is subject to section 251 (value received if there is more than one investment).

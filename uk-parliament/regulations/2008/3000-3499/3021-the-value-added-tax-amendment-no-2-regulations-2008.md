@@ -1,0 +1,152 @@
+---
+title: The Value Added Tax (Amendment) (No 2) Regulations 2008
+id: uksi/2008/3021
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2008-11-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2008/3021
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/3021/pdfs/uksiem_20083021_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/3021/pdfs/uksi_20083021_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/3021/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Value Added Tax (Amendment) (No 2) Regulations 2008
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2008 No. 3021
+
+Value Added Tax
+
+The Value Added Tax (Amendment) (No 2) Regulations 2008
+
+Made
+
+24th November 2008
+
+Laid before the House of Commons
+
+24th November 2008
+
+Coming into force
+
+1st December 2008
+
+The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by sections 26B and 88(5) of, and paragraphs 2(1), 2(10) and 2A of Schedule 11 to, the Value Added Tax Act 1994[^f00001]:
+
+**1.** These Regulations may be cited as the Value Added Tax (Amendment) (No. 2) Regulations 2008 and come into force on 1st December 2008.
+
+**2.** The Value Added Tax Regulations 1995[^f00002] are amended as follows.
+
+**3.** In regulation 15 (change of rate, credit notes)—
+
+- (a) for “14 days” substitute “45 days”;
+- (b) after “any such change,” insert “or within such longer period as the Commissioners may allow in general or special directions,”.
+
+**4.** For the Table in regulation 55K (flat rate scheme for small businesses, category of business), substitute—
+
+<table>
+<thead>
+<tr><th>Category of business</th><th>Appropriate percentage</th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="2">(1)<br>“Labour-only building or construction services” means building or construction services where the value of materials supplied is less than 10 per cent of relevant turnover from such services; any other building or construction services are “general building or construction services”.</td></tr>
+</tfoot>
+<tbody>
+<tr><td>Accountancy or book-keeping</td><td>11.5</td></tr>
+<tr><td>Advertising</td><td>8.5</td></tr>
+<tr><td>Agricultural services</td><td>7</td></tr>
+<tr><td>Any other activity not listed elsewhere</td><td>9</td></tr>
+<tr><td>Architect, civil and structural engineer or surveyor</td><td>11</td></tr>
+<tr><td>Boarding or care of animals</td><td>9.5</td></tr>
+<tr><td>Business services that are not listed elsewhere</td><td>9.5</td></tr>
+<tr><td>Catering services including restaurants and takeaways</td><td>10.5</td></tr>
+<tr><td>Computer and IT consultancy or data processing</td><td>11.5</td></tr>
+<tr><td>Computer repair services</td><td>10</td></tr>
+<tr><td>Dealing in waste or scrap</td><td>8.5</td></tr>
+<tr><td>Entertainment or journalism</td><td>9.5</td></tr>
+<tr><td>Estate agency or property management services</td><td>9.5</td></tr>
+<tr><td>Farming or agriculture that is not listed elsewhere</td><td>5.5</td></tr>
+<tr><td>Film, radio, television or video production</td><td>9.5</td></tr>
+<tr><td>Financial services</td><td>10.5</td></tr>
+<tr><td>Forestry or fishing</td><td>8</td></tr>
+<tr><td>General building or construction services</td><td>7.5</td></tr>
+<tr><td>Hairdressing or other beauty treatment services</td><td>10.5</td></tr>
+<tr><td>Hiring or renting goods</td><td>7.5</td></tr>
+<tr><td>Hotel or accommodation</td><td>8.5</td></tr>
+<tr><td>Investigation or security</td><td>9</td></tr>
+<tr><td>Labour-only building or construction services</td><td>11.5</td></tr>
+<tr><td>Laundry or dry-cleaning services</td><td>9.5</td></tr>
+<tr><td>Lawyer or legal services</td><td>12</td></tr>
+<tr><td>Library, archive, museum or other cultural activity</td><td>7.5</td></tr>
+<tr><td>Management consultancy</td><td>11</td></tr>
+<tr><td>Manufacturing that is not listed elsewhere</td><td>7.5</td></tr>
+<tr><td>Manufacturing fabricated metal products</td><td>8.5</td></tr>
+<tr><td>Manufacturing food</td><td>7</td></tr>
+<tr><td>Manufacturing yarn, textiles or clothing</td><td>7.5</td></tr>
+<tr><td>Membership organisation</td><td>5.5</td></tr>
+<tr><td>Mining or quarrying</td><td>8</td></tr>
+<tr><td>Packaging</td><td>7.5</td></tr>
+<tr><td>Photography</td><td>8.5</td></tr>
+<tr><td>Post offices</td><td>2</td></tr>
+<tr><td>Printing</td><td>6.5</td></tr>
+<tr><td>Publishing</td><td>8.5</td></tr>
+<tr><td>Pubs</td><td>5.5</td></tr>
+<tr><td>Real estate activity not listed elsewhere</td><td>11</td></tr>
+<tr><td>Repairing personal or household goods</td><td>7.5</td></tr>
+<tr><td>Repairing vehicles</td><td>6.5</td></tr>
+<tr><td>Retailing food, confectionary, tobacco, newspapers or children’s clothing</td><td>2</td></tr>
+<tr><td>Retailing pharmaceuticals, medical goods, cosmetics or toiletries</td><td>6</td></tr>
+<tr><td>Retailing that is not listed elsewhere</td><td>5.5</td></tr>
+<tr><td>Retailing vehicles or fuel</td><td>5.5</td></tr>
+<tr><td>Secretarial services</td><td>9.5</td></tr>
+<tr><td>Social work</td><td>8</td></tr>
+<tr><td>Sport or recreation</td><td>6</td></tr>
+<tr><td>Transport or storage, including couriers, freight, removals and taxis</td><td>8</td></tr>
+<tr><td>Travel agency</td><td>8</td></tr>
+<tr><td>Veterinary medicine</td><td>8</td></tr>
+<tr><td>Wholesaling agricultural products</td><td>5.5</td></tr>
+<tr><td>Wholesaling food</td><td>5</td></tr>
+<tr><td>Wholesaling that is not listed elsewhere</td><td>6</td></tr>
+</tbody>
+</table>
+
+[^f01000][^f01000]
+
+Mike Eland
+
+Steve Lamey
+
+Two of the Commissioners for Her Majesty’s Revenue and Customs
+
+24th November 2008
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, which come into force on 1st December 2008, amend the VAT Regulations 1995 ([S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518)).
+
+Regulation 3 amends regulation 15 (change of rate, credit notes). It extends the period during which a credit note has to be issued following an election under section 88 of the Value Added Tax Act 1994 after a change of VAT rate from 14 to 45 days after the date when the rate change takes effect. It also allows the Commissioners to extend the period in a general or special direction.
+
+Regulation 4 amends regulation 55K (flat rate scheme for small businesses, category of business) to substitute a new table with revised percentages based on the revised rate of VAT provided for in [SI 2008 No. 3020](https://www.legislation.gov.uk/uksi/2008/3020). It also reformats the table in alphabetical order to make it easier to navigate.
+
+A full Impact Assessment of the effect that this instrument (amongst others) will have on the costs of business and the voluntary sector is available from H M Revenue and Customs, 100 Parliament Street, London SW1A 2BQ and is annexed to the Explanatory Memorandum which is available alongside the instrument on the OPSI website.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c.23](https://www.legislation.gov.uk/ukpga/1994/23); section 96(1) defines “the Commissioners” as meaning the Commissioners of Customs and Excise and “regulations” as meaning regulations made by the Commissioners under the Act. The functions of the Commissioners of Customs and Excise were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5(2) of the Commissioners for Revenue and Customs Act [2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50(1) of that Act provides that a reference to the Commissioners of Customs and Excise shall be taken as a reference to the Commissioners for Her Majesty’s Revenue and Customs. Section 26B of the Value Added Tax Act 1994 was inserted by section 23(1) and (4) of the Finance Act [2002 (c.23)](https://www.legislation.gov.uk/ukpga/2002/23).
+
+[^f00002]: Footnote: [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518); relevant amending instruments are [S.I. 2002/1142](https://www.legislation.gov.uk/uksi/2002/1142), [S.I. 2003/1485](https://www.legislation.gov.uk/uksi/2003/1485), [S.I. 2003/3220](https://www.legislation.gov.uk/uksi/2003/3220) and [S.I. 2004/767](https://www.legislation.gov.uk/uksi/2004/767).
+
+[^f01000]: Footnote: (1)
+
+    “Labour-only building or construction services” means building or construction services where the value of materials supplied is less than 10 per cent of relevant turnover from such services; any other building or construction services are “general building or construction services”.

@@ -1,0 +1,105 @@
+---
+title: The Motor Vehicles (Driving Licences) (Amendment) Regulations 2017
+id: uksi/2017/1208
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2017-12-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2017/1208
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/1208/pdfs/uksiem_20171208_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/1208/pdfs/uksi_20171208_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/1208/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Motor Vehicles (Driving Licences) (Amendment) Regulations 2017
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2017 No. 1208
+
+Road Traffic
+
+The Motor Vehicles (Driving Licences) (Amendment) Regulations 2017
+
+Made
+
+5th December 2017
+
+Laid before Parliament
+
+7th December 2017
+
+Coming into force
+
+1st January 2018
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 92(2) and (4)(b), and 105(1), (2) and (3) of the Road Traffic Act 1988[^f00001], and after consulting with representative organisations in accordance with section 195(2)[^f00002] of that Act.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Motor Vehicles (Driving Licences) (Amendment) Regulations 2017 and come into force on 1st January 2018.
+
+## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations 1999
+
+(1) The Motor Vehicles (Driving Licences) Regulations 1999[^f00003] are amended as follows.
+
+(2) In regulation 72 (disabilities prescribed in respect of Group 1 licences)—
+
+- (a) for paragraph (4)(a) substitute—
+
+  > - (a) has experienced two or more episodes of severe hypoglycaemia while awake during the previous one year period, and the most recent episode occurred during the previous three month period; or
+
+  ;
+- (b) for paragraph (5)(a) substitute—
+
+  > - (a) does not fall within paragraph (4)(a);
+
+  ;
+- (c) for paragraph (6)(b) substitute—
+
+  > - (b) undertakes appropriate monitoring to assess glucose levels and any risk of hypoglycaemia;
+
+  .
+
+Signed by authority of the Secretary of State for Transport
+
+Jesse Norman
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+5th December 2017
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend regulation 72 of the Motor Vehicles (Driving Licences) Regulations 1999 (“the 1999 Regulations”) in respect of Group 1 driving licences (principally cars and motorcycles) for persons with diabetes mellitus.
+
+Regulation 2(2)(a) and (b) of these Regulations are concerned with implementing paragraph (2) of the Annex of Commission [Directive 2016/1106/EU](https://www.legislation.gov.uk/european/directive/2016/1106) (OJ No L183, 8.7.2016, p.59) (“the Directive”) amending [Directive 2006/126/EC](https://www.legislation.gov.uk/european/directive/2006/0126) (OJ No L403, 30.12.2006, p.18) of the European Parliament and of the Council on driving licences (recast). Paragraph (2) of the Annex of the Directive replaces point 10.2 of section 10 (“Diabetes Mellitus”) of Annex III of [Directive 2006/126/EC](https://www.legislation.gov.uk/european/directive/2006/0126).
+
+Regulation 2(2)(a) amends regulation 72(4)(a) of the 1999 Regulations so that a Group 1 licence cannot be issued to, and must be revoked in relation to, a person who is being treated with insulin or another medication which carries a risk of inducing hypoglycaemia, if that person has experienced two or more episodes of severe hypoglycaemia while awake during the previous year, and the most recent episode occurred during the previous three months.
+
+Regulation 2(2)(b) of these Regulations amends regulation 72(5)(a) of the 1999 Regulations so that a Group 1 licence may be issued to an applicant who is being treated with insulin, if that applicant does not fall within regulation 72(4)(a). Such an applicant would also be required to fulfil the existing conditions prescribed in regulations 72(5)(b) and (c).
+
+Regulation 2(2)(c) of these Regulations amends regulation 72(6)(b) of the 1999 Regulations so that appropriate monitoring of glucose levels is sufficient to satisfy this prescribed condition and it is not limited only to blood glucose monitoring.
+
+An Impact Assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen. An Explanatory Memorandum and a Transposition Note are published alongside the instrument onwww.legislation.gov.uk.
+
+The Directive referred to above is published at http://eur-lex.europa.eu.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52). See the definitions of “prescribed” and “regulations” in section 108.
+
+[^f00002]: Footnote: Section 195(2) was amended by the Road Safety Act 2006, sections 42 and 59, Schedule 6 (paragraphs 1 and 30) and Schedule 7 (paragraph 14). At the date of these Regulations being made, these provisions are yet to be commenced in respect of this amendment.
+
+[^f00003]: Footnote: [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864). Relevant amending instruments are [S.I. 2011/2516](https://www.legislation.gov.uk/uksi/2011/2516) and [2013/258](https://www.legislation.gov.uk/uksi/2013/258).

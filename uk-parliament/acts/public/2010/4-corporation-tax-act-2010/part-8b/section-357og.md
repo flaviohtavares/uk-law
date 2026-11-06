@@ -1,0 +1,45 @@
+---
+title: Corporation Tax Act 2010, section 357OG
+act: Corporation Tax Act 2010
+section: 357OG
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/357OG
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 357OG
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 357OG. Northern Ireland element: credits where roll-over relief involved[^key-daff5b22d7ee6f395950067d2a1daa9d]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if a realisation credit relates to an asset (“the new asset”) whose cost recognised for tax purposes is reduced as a result of roll-over relief previously given on the realisation of another asset (“the old asset”).
+
+(2) To calculate the Northern Ireland element of the realisation credit on the realisation of the new asset, take the following steps—
+
+- *Step 1* Calculate the part (if any) of the realisation credit that is attributable to the total net debits in respect of the new asset.
+- *Step 2* Calculate the Northern Ireland element of the result of Step 1 by applying to it the proportion that the total net Northern Ireland debits bears to the total net debits.
+- *Step 3* If the realisation credit exceeds the total net debits, calculate any part of the excess that is attributable to the reduction in the cost of the new asset recognised for tax purposes that resulted from the roll-over relief.
+- *Step 4* If, in the absence of roll-over relief, a proportion of the realisation credit on the realisation of the old asset would in accordance with section 357OF have been a Northern Ireland element, calculate the Northern Ireland element of the result of Step 3 by applying that proportion to it.
+- *Step 5* If any remaining amount of the realisation credit has not been attributed under Step 1 or 3, calculate the Northern Ireland element of that remaining amount by determining how much of that remaining amount can on a just and reasonable basis be attributed to the holding of the new asset for the purposes of the relevant Northern Ireland trade.
+
+(3) The Northern Ireland element of the realisation credit is the total of the Northern Ireland elements calculated at Steps 2, 4 and 5.
+
+(4) In this section—
+
+- “**the relevant Northern Ireland trade**” means the qualifying trade carried on by the company in an accounting period in which it was a Northern Ireland company, except so far as the trade consists of an excluded activity;
+- “**the total net debits**” means—
+  - (a) in a case within section 742 of CTA 2009, the total debits previously brought into account for tax purposes under Part 8 of CTA 2009 in respect of the asset, less the total credits previously so brought into account (if any), or
+  - (b) in a case within section 743 of CTA 2009, the total debits previously brought into account for tax purposes under Part 8 of CTA 2009 in respect of the asset;
+- “**the total net Northern Ireland debits**” has the meaning given by section 357OF(2).
+
+## Annotations
+
+[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)

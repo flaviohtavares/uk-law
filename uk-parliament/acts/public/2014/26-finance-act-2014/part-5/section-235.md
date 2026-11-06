@@ -1,0 +1,57 @@
+---
+title: Finance Act 2014, section 235
+act: Finance Act 2014
+section: '235'
+status: revised-with-pending-changes
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/26/section/235
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2014, section 235
+
+> **Warning: changes not yet applied to this text (30).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 235. Carrying on a business “as a promoter”
+
+*Extent: E+W+S+N.I.*
+
+(1) A person carrying on a business in the course of which the person is, or has been, a promoter in relation to a relevant proposal or relevant arrangements carries on that business “as a promoter”.
+
+(1A)[^key-49914db727a2a2bda38408478a31e670] For the purposes of this Part, a person is treated as carrying on a business as a promoter if the person is a member of a promotion structure (whether or not the person carries on a business).
+
+Schedule 33A describes the cases in which a person is a member of a promotion structure.
+
+(2) A person is a “**promoter**” in relation to a relevant proposal if the person—
+
+- (a) is to any extent responsible for the design of the proposed arrangements,
+- (b) makes a firm approach to another person in relation to the relevant proposal with a view to making the proposal available for implementation by that person or any other person, or
+- (c) makes the relevant proposal available for implementation by other persons.
+
+(3) A person is a “**promoter**” in relation to relevant arrangements if the person—
+
+- (a) is by virtue of subsection (2)(b) or (c), a promoter in relation to a relevant proposal which is implemented by the arrangements, or
+- (b) is responsible to any extent for the design, organisation or management of the arrangements.
+
+(4) For the purposes of this Part a person makes a firm approach to another person in relation to a relevant proposal if—
+
+- (a) the person communicates information about the relevant proposal to the other person at a time when the proposed arrangements have been substantially designed,
+- (b) the communication is made with a view to that other person or any other person entering into transactions forming part of the proposed arrangements, and
+- (c) the information communicated includes an explanation of the tax advantage that might be expected to be obtained from the proposed arrangements.
+
+(5) For the purposes of subsection (4) proposed arrangements have been substantially designed at any time if by that time the nature of the transactions to form them (or part of them) has been sufficiently developed for it to be reasonable to believe that a person who wished to obtain the tax advantage mentioned in subsection (4)(c) might enter into—
+
+- (a) transactions of the nature developed, or
+- (b) transactions not substantially different from transactions of that nature.
+
+(6) A person is not a promoter in relation to a relevant proposal or relevant arrangements by reason of anything done in prescribed circumstances.
+
+(7) Regulations under subsection (6) may contain provision having retrospective effect.
+
+## Annotations
+
+[^key-49914db727a2a2bda38408478a31e670]: Textual amendment: [S. 235(1A)](https://www.legislation.gov.uk/ukpga/2014/26/section/235/1A) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 9](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/9)

@@ -1,0 +1,63 @@
+---
+title: The Broadcasting (Technical Services) Order 1997
+id: uksi/1997/1856
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1997-07-29'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1997/1856
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/1856/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Broadcasting (Technical Services) Order 1997
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1997 No. 1856
+
+BROADCASTING
+
+The Broadcasting (Technical Services) Order 1997
+
+Made
+
+29th July 1997
+
+Laid before Parliament
+
+29th July 1997
+
+Coming into force
+
+20th August 1997
+
+The Secretary of State, in exercise of the powers conferred on him by section 24(3)(b) of the Broadcasting Act 1996[^f00001], hereby makes the following Order:
+
+**1.** This Order may be cited as the Broadcasting (Technical Services) Order 1997 and shall come into force on 20th August 1997.
+
+**2.** The services specified for the purposes of section 24(3)(b) of the Broadcasting Act 1996 are those consisting of the transmission of telecommunication signals (as such expression is defined in section 48(6) of the Broadcasting Act 1990[^f00002]) by means of which access to programmes or other information included in digital programme services or digital additional services is controlled so that only those viewers who are authorised to receive such programmes and information do so, and which are required to be offered to all holders of licences under Part I of the Broadcasting Act 1996 in accordance with regulation 11(1)(a) of the Advanced Television Services Regulations 1996[^f00003].
+
+Chris Smith
+
+Secretary of State for National Heritage
+
+29th July 1997
+
+(This note is not part of the Order)
+
+The Order describes technical services for the purposes of section 24(3)(b) of the Broadcasting Act 1996 (“the Act”). Technical services must be defined in order for them to be distinguished from digital additional services, which will be licensed by the Independent Television Commission under section 25 of the Act.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 55](https://www.legislation.gov.uk/ukpga/1996/55).
+
+[^f00002]: Footnote: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42).
+
+[^f00003]: Footnote: S.I. [1996/3151](https://www.legislation.gov.uk/uksi/1996/3151).

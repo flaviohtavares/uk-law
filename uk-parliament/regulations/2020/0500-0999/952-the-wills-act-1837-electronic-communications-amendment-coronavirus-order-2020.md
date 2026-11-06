@@ -1,0 +1,98 @@
+---
+title: The Wills Act 1837 (Electronic Communications) (Amendment) (Coronavirus) Order 2020
+id: uksi/2020/952
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-09-04'
+text_date: '2022-02-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2020/952
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/952/pdfs/uksiem_20200952_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/952/pdfs/uksi_20200952_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/952/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Wills Act 1837 (Electronic Communications) (Amendment) (Coronavirus) Order 2020
+
+> Text as at 2022-02-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+This Statutory Instrument has been published in substitution of the S.I. of the same number which did not reflect the version signed by the Minister due to paragraph formatting changes in article 3. It is therefore being issued free of charge to all known recipients of that Statutory Instrument.
+
+2020 No. 952
+
+Administration Of Estates
+
+The Wills Act 1837 (Electronic Communications) (Amendment) (Coronavirus) Order 2020
+
+Made
+
+4th September 2020
+
+Laid before Parliament
+
+7th September 2020
+
+Coming into force in accordance with article 1
+
+This Lord Chancellor, considering that the use of electronic communications for any purpose is such that the extent (if any) to which records of things done for that purpose will be available will be no less satisfactory in cases where use is made of electronic communications than in other cases, in exercise of the powers conferred by sections 8 and 9 of the Electronic Communications Act 2000[^f00001], makes the following Order:
+
+## 1. Citation and Commencement[^key-2b554b6540e5b3707c0f531f0774e0a4]
+
+This Order may be cited as the Wills Act 1837 (Electronic Communications) (Amendment) (Coronavirus) Order 2020 and comes into force on the 21st day following the day on which it is laid.
+
+## 2. Amendment of the Wills Act 1837[^key-c4ac8b477f747a80599f8c0f7b1af429]
+
+(1) Section 9 of the Wills Act 1837[^f00002] is amended as follows.
+
+(2) The existing text becomes subsection (1).
+
+(3) After that subsection, insert—
+
+> (2) For the purposes of paragraphs (c) and (d) of subsection (1), in relation to wills made on or after 31 January 2020 and on or before 31 January 2022, “presence” includes presence by means of videoconference or other visual transmission.
+
+.
+
+## 3. Saving Provision[^key-672a14d34194810131ff963e22504ff6]
+
+Nothing in this Order affects—
+
+- (a) any grant of probate made; or
+- (b) anything done pursuant to a grant of probate,
+
+prior to this Order coming into force.
+
+Robert Buckland
+
+Lord Chancellor
+
+Ministry of Justice
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends section 9 of the Wills Act [1837 (c.26)](https://www.legislation.gov.uk/ukpga/1837/26) to provide that the witnessing of wills may take place via videoconferencing or other visual transmission. This amendment applies where a will is made between 31 January 2020 and 31 January 2022 but does not affect any grant of probate or anything done pursuant to a grant of probate prior to its coming into force.
+
+No impact assessment has been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7).
+
+[^key-2b554b6540e5b3707c0f531f0774e0a4]: Commencement: Art. 1 in force at 28.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/952/article/1)
+
+[^key-c4ac8b477f747a80599f8c0f7b1af429]: Commencement: Art. 2 in force at 28.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/952/article/1)
+
+[^f00002]: Footnote: [1837 c.26](https://www.legislation.gov.uk/ukpga/1837/26). Section 9 was substituted, in relation to England and Wales, by the Administration of Justice Act [1982 (c.53)](https://www.legislation.gov.uk/ukpga/1982/53), section 17, and repealed, in relation to Northern Ireland, by [S.I. 1994/1899](https://www.legislation.gov.uk/uksi/1994/1899).
+
+[^key-672a14d34194810131ff963e22504ff6]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2020/952/article/3) substituted (1.2.2022) by [The Wills Act 1837 (Electronic Communications) (Amendment) Order 2022 (S.I. 2022/18)](https://www.legislation.gov.uk/uksi/2022/18), [arts. 1](https://www.legislation.gov.uk/uksi/2022/18/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/18/article/3/2)

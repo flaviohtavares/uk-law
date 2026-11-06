@@ -1,0 +1,180 @@
+---
+title: The Investigatory Powers (Review of Notices and Technical Advisory Board) Regulations 2018
+id: uksi/2018/354
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-03-08'
+text_date: '2025-06-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/354
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/354/pdfs/uksiem_20180354_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/354/pdfs/uksi_20180354_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/354/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Investigatory Powers (Review of Notices and Technical Advisory Board) Regulations 2018
+
+> Text as at 2025-06-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 354
+
+Investigatory Powers
+
+The Investigatory Powers (Review of Notices and Technical Advisory Board) Regulations 2018
+
+Made
+
+8th March 2018
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 90(1), 245, 257(1) and 267(1)(b) of the Investigatory Powers Act 2016[^f00001].
+
+In accordance with section 267(3)(e), (h) and (j) of that Act, a draft of these Regulations was laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation, commencement and interpretation[^key-ffafb42982a77def6ddb1836140e8681]
+
+(1) These Regulations may be cited as the Investigatory Powers (Review of Notices and Technical Advisory Board) Regulations 2018.
+
+(2) Subject to paragraph (3), these Regulations come into force on the day on which section 245 of the Act (Technical Advisory Board) comes into force.
+
+(3) The following paragraphs of regulation 4 come into force on the day on which section 90(1) of the Act (power to refer retention notices back to the Secretary of State for review) comes into force for all purposes—
+
+- (a) paragraphs (1) and (2), so far as they apply to persons to whom a retention notice is given, and
+- (b) paragraph (3).
+
+(4) In these Regulations, “the Act” means the Investigatory Powers Act 2016.
+
+## 2. Period and circumstances in which notices may be referred for review[^key-ce912906dd006c9ec78464a4358ceabe]
+
+(1) A person to whom a retention notice, national security notice or technical capability notice is given may, where paragraph (2) applies, refer the notice back to the Secretary of State within 28 days of the day on which the notice is given.
+
+(2) This paragraph applies if the person to whom the notice is given considers that any requirement or restriction imposed by, or obligation or step specified in, the notice is unreasonable.
+
+(3) In this regulation, references to a notice being given include references to notice of the variation of a retention notice being published in accordance with section 94(2) of the Act.
+
+## 2A. Review period[^key-b29418c9883cc46d88e37b7641130e1b]
+
+(1) For the purposes of sections 90(5) and 257(4) of the Act, the “review period” is a period of 180 days beginning with the day on which the notice is referred to the Secretary of State for review.
+
+(2) The review period in paragraph (1) may be extended for any period of time with the agreement of the Secretary of State, a Judicial Commissioner and the person to whom the notice was given.
+
+(3) Subsequent extensions to the review period may be agreed in accordance with paragraph (2).
+
+## 2B. Relevant period
+
+(1) For the purposes of sections 90(10) and 257(9) of the Act, the “relevant period” is a period of 30 days beginning with the day on which the Judicial Commissioner and the Technical Advisory Board report their conclusions to the Secretary of State under sections 90(9)(b) or 257(8)(b) of the Act.
+
+(2) If the Judicial Commissioner and the Technical Advisory Board report their conclusions to the Secretary of State on different days, the relevant period begins with whichever day is the later one.
+
+(3) The relevant period may be extended by the Secretary of State in exceptional circumstances, provided that the period as extended does not end after the review period under regulation 2A (including any extension to the review period).
+
+(4) The Secretary of State must notify in writing the Judicial Commissioner and the person to whom the notice was given of the duration of the extension.
+
+## 3. Membership of the Technical Advisory Board[^key-d2728c9b97b17186132b7df5a9e21ecd]
+
+(1) The Technical Advisory Board must consist of at least thirteen members [^key-601098f72156b42bd65c2025bd5eab1d]....
+
+(2) At least six members[^key-8595f86000634e58b99cd3c262d3686d] must be persons holding an office, rank or position with either—
+
+- (a) a person on whom obligations may be imposed by virtue of retention notices under Part 4 of the Act, national security notices under section 252 of the Act or technical capability notices under section 253 of the Act, or
+- (b) a person representing the interests of such persons.
+
+(3) The members to whom paragraph (2) applies must be persons with sufficient knowledge and experience to be likely effectively to represent the interests of persons on whom obligations may be imposed by virtue of retention notices under Part 4 of the Act, national security notices under section 252 of the Act or technical capability notices under section 253 of the Act.
+
+(4) At least six members[^key-01b69c1fa571c15f8515e2b88f44cb37] must be persons holding an office, rank or position with either—
+
+- (a) a person entitled to apply for warrants under Part 2, 5, 6 or 7 of the Act or authorisations under Part 3 of the Act, or
+- (b) a person representing the interests of such persons.
+
+(5) The members to whom paragraph (4) applies must be persons with sufficient knowledge and experience to be likely effectively to represent the interests of persons entitled to apply for warrants under Part 2, 5, 6 or 7 of the Act, or authorisations under Part 3 of the Act.
+
+(6) One member must be appointed, and two further members may be appointed, who are not persons to whom paragraph (2) or (4) applies.
+
+(7) One such member must be appointed chair and one other such member may be appointed deputy chair.
+
+(8)[^key-5b69663e2e19faf61d89c6c5f6705d61] So far as is reasonably practicable, the Technical Advisory Board must consist of an equal number of members to whom paragraph (2) applies and members to whom paragraph (4) applies.
+
+## 4. Quorum[^key-30123867bbe821952eb094095f6c0329][^key-4c9141a4da7ac2a543f8480f8ce7b296][^key-6c779931c73589450c278ac2b7366bb1]
+
+(1) The quorum for any Technical Advisory Board is to be seven members of whom—
+
+- (a) three are members to whom regulation 3(2) applies,
+- (b) three are members to whom regulation 3(4) applies, and
+- (c) one is a member to whom regulation 3(6) applies.
+
+(2) Where there are more than seven members, the Technical Advisory Board must comprise—
+
+- (a) an equal number of—
+  - (i) members to whom regulation 3(2) applies, and
+  - (ii) members to whom regulation 3(4) applies, and
+- (b) at least one member, but no more than three members, to whom regulation 3(6) applies.
+
+(3) This regulation applies to any meeting of the Technical Advisory Board constituted for the purposes of carrying out functions under sections 90 or 257 of the Act.
+
+Ben Wallace
+
+Minister of State
+
+Home Office
+
+8th March 2018
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Section 90(1) of the Investigatory Powers Act [2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25) (“the Act”) provides that a person to whom a retention notice has been given may refer that notice back to the Secretary of State for review. Section 257(1) of the Act similarly makes provision that a person to whom a national security notice or technical capability notice has been given may refer that notice to the Secretary of State for review. Regulation 2 sets out the period within which, and the circumstances in which, a person given such a notice may refer it back to the Secretary of State for review. Regulation 3 provides for the membership of the Technical Advisory Board (the Board) which must be consulted by the Secretary of State before deciding a review.
+
+A person given a notice may refer it to the Secretary of State for review if the person considers that any part of the notice is unreasonable. This also applies when a notice is varied (see sections 94 and 256 of the Act), but only so far as the variation of the notice is concerned. In each case, the referral to the Secretary of State must be made within a period of 28 days starting from the day the notice is given or varied.
+
+Section 245 of the Act provides for the continued existence of the Board. The Secretary of State must consult the Board when reviewing a notice. The Board must consider the technical requirements and the financial consequences of the notice for the person who made the reference and report those conclusions to both that person and the Secretary of State.
+
+Regulation 3 requires that the Board must consist of a minimum of thirteen members and a maximum of fifteen members. Six of the members must represent the interests of the operators on whom obligations can be imposed by a retention notice, national security notice or technical capability notice.
+
+Six of the members must represent the interests of persons entitled to apply for certain warrants and authorisations. The persons are as follows:
+
+- warrants under Part 2 may be applied for by, or on behalf of, the intercepting authorities listed in section 18(1) of the Act;
+- warrants under Part 5 may be applied for by, or on behalf of, the heads of the intelligence services, the Chief of Defence Intelligence and any of the law enforcement chiefs listed in Schedule 6 to the Act;
+- warrants under Parts 6 and 7 may be applied for by, or on behalf of, the heads of the intelligence services;
+- authorisations under Part 3 of the Act may be applied for by officers within the public authorities listed in Schedule 4 to the Act or within local authorities.
+
+The Board will have at least one and a maximum of three further members. They must be independent members who do not represent either the persons on whom obligations can be imposed or the persons who can apply for certain warrants and authorisations. Of these independent members one must be appointed the chair of the Board. Another of the independent members may be appointed as deputy chair.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2016 c. 25](https://www.legislation.gov.uk/ukpga/2016/25).
+
+[^key-ffafb42982a77def6ddb1836140e8681]: Commencement: Reg. 1 in force at 12.3.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/354/regulation/1/2)
+
+[^key-ce912906dd006c9ec78464a4358ceabe]: Commencement: Reg. 2 in force at 12.3.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/354/regulation/1/2)
+
+[^key-b29418c9883cc46d88e37b7641130e1b]: Textual amendment: [Regs. 2A](https://www.legislation.gov.uk/uksi/2018/354/regulation/2A), [2B](https://www.legislation.gov.uk/uksi/2018/354/regulation/2B) inserted (6.6.2025) by [The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025 (S.I. 2025/656)](https://www.legislation.gov.uk/uksi/2025/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/656/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/656/regulation/5)
+
+[^key-d2728c9b97b17186132b7df5a9e21ecd]: Commencement: Reg. 3 in force at 12.3.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/354/regulation/1/2)
+
+[^key-601098f72156b42bd65c2025bd5eab1d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/354/regulation/3/1) omitted (6.6.2025) by virtue of [The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025 (S.I. 2025/656)](https://www.legislation.gov.uk/uksi/2025/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/656/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2025/656/regulation/6/a)
+
+[^key-8595f86000634e58b99cd3c262d3686d]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/354/regulation/3/2) substituted (6.6.2025) by [The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025 (S.I. 2025/656)](https://www.legislation.gov.uk/uksi/2025/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/656/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2025/656/regulation/6/b)
+
+[^key-01b69c1fa571c15f8515e2b88f44cb37]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2018/354/regulation/3/4) substituted (6.6.2025) by [The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025 (S.I. 2025/656)](https://www.legislation.gov.uk/uksi/2025/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/656/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2025/656/regulation/6/b)
+
+[^key-5b69663e2e19faf61d89c6c5f6705d61]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/uksi/2018/354/regulation/3/8) inserted (6.6.2025) by [The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025 (S.I. 2025/656)](https://www.legislation.gov.uk/uksi/2025/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/656/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2025/656/regulation/6/c)
+
+[^key-30123867bbe821952eb094095f6c0329]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/354/regulation/4): "paragraphs (1) and (2)" in force at 1.11.2018 for specified purposes by virtue of reg. 1(3)(a)
+
+[^key-4c9141a4da7ac2a543f8480f8ce7b296]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/354/regulation/4): "paragraph (3)" in force at 1.11.2018 by virtue of reg. 1(3)(b)
+
+[^key-6c779931c73589450c278ac2b7366bb1]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/354/regulation/4) substituted (6.6.2025) by [The Investigatory Powers (Codes of Practice, Review of Notices and Technical Advisory Board) Regulations 2025 (S.I. 2025/656)](https://www.legislation.gov.uk/uksi/2025/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/656/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2025/656/regulation/7)

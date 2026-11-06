@@ -1,0 +1,63 @@
+---
+title: Neighbourhood Planning Act 2017, section 29
+act: Neighbourhood Planning Act 2017
+section: '29'
+status: revised-with-pending-changes
+text_date: '2026-09-14'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2017/20/section/29
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Neighbourhood Planning Act 2017, section 29
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/20
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 29. Supplementary provisions[^key-aa79c3577469526824b3448a971698cc]
+
+*Extent: E+W*
+
+(1) The appropriate national authority must by regulations make provision about—
+
+- (a) the reinstatement of land subject to a period of temporary possession, and
+- (b) the resolution by an independent person of disputes about reinstatement.
+
+(2) The Secretary of State may by regulations exclude the application of any provision of this Chapter in relation to a person who is an acquiring authority as a result of an authorisation by virtue of—
+
+- (a) section 11, 12 or 12A of the Pipe-lines Act 1962 (compulsory purchase of land or rights over land in connection with pipe-lines),
+- (b) section 12 or 13 of the Gas Act 1965 (compulsory purchase of rights in relation to storage of gas etc),
+- (c) paragraph 1 of Schedule 3 to the Gas Act 1986 (compulsory purchase of land by gas transporter), or
+- (d) paragraph 1 of Schedule 3 to the Electricity Act 1989 (compulsory purchase of land by licence holder).
+
+(3) The appropriate national authority may by regulations make further provision in relation to—
+
+- (a) the authorisation and exercise of the power to take temporary possession of land by virtue of section 18(2), and
+- (b) the circumstances in which an acquiring authority may be authorised to acquire land after being authorised to take temporary possession of it.
+
+(4) Regulations under subsection (3) may for example—
+
+- (a) make provision that appears to the appropriate national authority to be necessary or expedient for giving full effect to a provision of this Chapter in relation to particular cases or types of case, including by modifying that provision so that it is effective in relation to those cases or types of case,
+- (b) limit the period for which an acquiring authority may take temporary possession of land,
+- (c) limit the circumstances in which an acquiring authority may take temporary possession of land,
+- (d) make provision about the use by an acquiring authority of land of which it has taken temporary possession (for example, by limiting what an acquiring authority may do or by requiring an acquiring authority to do certain things),
+- (e) limit the types of land which may be subject to temporary possession in specified circumstances,
+- (f) require an acquiring authority to provide specified information relating to a period of temporary possession to specified persons before, during or after the period,
+- (g) make provision in relation to the sale by a person with an interest in land where that land is or may be subject to temporary possession, and
+- (h) make provision for a person who has a right to occupy land subject to temporary possession to be deemed to occupy that land for specified purposes during the period of temporary possession.
+
+(5) Before making regulations under this section the Secretary of State or the Welsh Ministers, as the case may be, must carry out a public consultation.
+
+(6) In this section—
+
+- “**appropriate national authority**” means—
+  - (a) in relation to cases where the Welsh Ministers are the acquiring authority or the confirming authority, the Welsh Ministers, and
+  - (b) in all other cases, the Secretary of State;
+- “**confirming authority**” means the authority having power to authorise the acquiring authority to take temporary possession of land;
+- “**specified**” means specified in regulations under subsection (3).
+
+## Annotations
+
+[^key-aa79c3577469526824b3448a971698cc]: Commencement: S. 29 in force at 19.7.2017 by [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/g)

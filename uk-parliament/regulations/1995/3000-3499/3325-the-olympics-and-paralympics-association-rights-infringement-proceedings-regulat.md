@@ -1,0 +1,195 @@
+---
+title: The Olympics and Paralympics Association Rights (Infringement Proceedings) Regulations 1995
+id: uksi/1995/3325
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1995-12-20'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1995/3325
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/3325/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Olympics and Paralympics Association Rights (Infringement Proceedings) Regulations 1995
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1995 No. 3325
+
+TRADE MARKS
+
+COMMERCIAL PROPERTY
+
+The Olympics and Paralympics Association Rights[^key-149ed846226ebde6004c3bcc13f4706c] (Infringement Proceedings) Regulations 1995
+
+Made
+
+20th December 1995
+
+Laid before Parliament
+
+22nd December 1995
+
+Coming into force
+
+12th January 1996
+
+The Secretary of State for National Heritage as respects England, Wales and Northern Ireland and the Secretary of State for Scotland as respects Scotland, in exercise of the powers conferred on them by section 7(1) of the Olympic Symbol etc. (Protection) Act 1995[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations—
+
+## 1. Citation, commencement and interpretation[^key-b25ade565340be62a8241c7b08f3c577]
+
+(1) These Regulations may be cited as The Olympics and Paralympics Association Rights[^key-a9e316bcf6b7829937acf6b054e7546e] (Infringement Proceedings) Regulations 1995 and shall come into force on 12th January 1996.
+
+(2)[^key-fd2ee732c1d5cd2458320094c9d47cce] In these Regulations—
+
+- “the court”, unless the context otherwise requires, means—
+  - (a) in England and Wales and Northern Ireland, the High Court, and
+  - (b) in Scotland, the Court of Session; and
+- “**the Olympics association right**” means the Olympics association right or the Paralympics association right as the case may be.
+
+## 2. Order for erasure & c. of controlled representations[^key-ec2b0715aafee5aa4be8ff38e47d45da]
+
+(1) Where a person is found to have infringed the Olympics association right[^M_F_44ef4c05-4838-434b-b724-036c71d967ea] the court may make an order requiring him—
+
+- (a) to cause the offending controlled representation to be erased, removed or obliterated from any infringing goods, material or articles[^f00003] in his possession, custody or control, or
+- (b) if it is not reasonably practicable for the offending controlled representation to be erased, removed or obliterated, to secure the destruction of the infringing goods, material or articles in question.
+
+(2) If an order under paragraph (1) above is not complied with, or it appears to the court likely that such an order would not be complied with, the court may order that the infringing goods, material or articles be delivered to such person as the court may direct for erasure, removal or obliteration of the offending controlled representation or for destruction, as the case may be.
+
+## 3. Order for delivery up of infringing goods, material or articles[^key-921748928b8e37be9380f3db5892bcca]
+
+(1) The proprietor of the Olympics association right may apply to the court for an order for the delivery up to him, or such other person as the court may direct, of any infringing goods, material or articles which a person has in his possession, custody or control in the course of a business.
+
+(2) An application shall not be made after the end of the period specified in regulation 4 (period after which remedy of delivery up is not available); and no order shall be made unless the court also makes, or it appears to the court that there are grounds for making, an order under regulation 5 (order as to disposal of infringing goods, etc.).
+
+(3) A person to whom any infringing goods, material or articles are delivered up in pursuance of an order under this Regulation shall, if an order under regulation 5 is not made, retain them pending the making of an order, or the decision not to make an order, under that regulation.
+
+(4) Nothing in this Regulation affects any other power of the court.
+
+## 4. Period after which remedy of delivery up is not available[^key-ec7687668ae25d0f29bc819a8d6dd7cd]
+
+(1) An application for an order under regulation 3 (order for the delivery up of infringing goods, material or articles) may not be made after the end of the period of six years from—
+
+- (a) in the case of infringing goods, the date on which the controlled representation was applied to the goods or their packaging,
+- (b) in the case of infringing material, the date on which the controlled representation was applied to the material, or
+- (c) in the case of infringing articles, the date on which they were made,
+
+except as mentioned in the following provision.
+
+(2) If during the whole or part of the relevant period in paragraph (1) above the proprietor of the Olympics association right—
+
+- (a) is under a disability, or
+- (b) is prevented by fraud or concealment from discovering the facts entitling him to apply for an order,
+
+an application may be made at any time before the end of the period of six years from the date on which he ceased to be under a disability or, as the case may be, could with reasonable diligence have discovered those facts.
+
+(3) In paragraph (2) “disability”—
+
+- (a) in England and Wales, has the same meaning as in the Limitation Act 1980[^f00004],
+- (b) in Scotland, means legal disability within the meaning of the Prescription and Limitation (Scotland) Act 1973[^f00005],
+- (c) in Northern Ireland, has the same meaning as in the Limitation (Northern Ireland) Order 1989[^f00006].
+
+## 5. Order as to the disposal of infringing goods, material or articles etc.[^key-b3f9f7747c83ac4dfcf51180aa2c2a29]
+
+(1) Where infringing goods, material or articles have been delivered up in pursuance of an order under regulation 3, an application may be made to the court—
+
+- (a) for an order that they be destroyed or forfeited to such person as the court may think fit, or
+- (b) for a decision that no such order should be made.
+
+(2) In considering what order (if any) should be made, the court shall consider whether other remedies available in an action for infringement of the Olympics association right would be adequate to compensate the proprietor and any licensee and protect their interests.
+
+(3) Provision shall be made by rules of court as to the service of notice on persons having an interest in the goods, material or articles, and any such person is entitled—
+
+- (a) to appear in proceedings for an order under this regulation, whether or not he was served with notice, and
+- (b) to appeal against any order made, whether or not he appeared,
+
+and an order shall not take effect until the end of the period within which notice of an appeal may be given or, if before the end of that period notice of appeal is duly given, until the final determination or abandonment of the proceedings on the appeal.
+
+(4) Where there is more than one person interested in the goods, material or articles, the court shall make such order as it thinks just.
+
+(5) If the court decides that no order should be made under this Regulation, the person in whose possession, custody or control the goods, material or articles were before being delivered up is entitled to their return.
+
+(6)[^key-a8c23956df4da2d0db8131c117069b85] In this Regulation, “**licensee**” means a person to whom the proprietor has given consent for the purposes of section 2(2)(b) of the Olympic Symbol etc. (Protection) Act 1995.
+
+(7) References in this Regulation to a person having an interest in goods, material or articles include any person in whose favour an order could be made under—
+
+- (a) this Regulation,
+- (b) section 19 of the Trade Marks Act 1994 [^key-926c8e6ccb882110d20224267f0ec059]...,
+- (c) section 24D of the Registered Designs Act 1949,
+- (d) section 114, 204 or 231 of the Copyright, Designs and Patents Act 1988, or
+- (e) regulation 1C of the Community Design Regulations 2005.
+
+## 6. Jurisdiction of sheriff court or county court in Northern Ireland[^key-42b7a2751c5ffe631707de1da23df4aa]
+
+Proceedings for an order under regulation 3 (order for delivery up of infringing goods, material or articles) or regulation 5 (order as to disposal of infringing goods, etc.) may be brought—
+
+- (a) in the sheriff court in Scotland, or
+- (b) in a county court in Northern Ireland.
+
+This does not affect the jurisdiction of the Court of Session or the High Court in Northern Ireland.
+
+Michael Forsyth
+
+Secretary of State for Scotland
+
+Virginia Bottomley
+
+Secretary of State for National Heritage
+
+(This note is not part of the Regulations)
+
+These Regulations make provision with respect to orders which the court may make in an action for infringement of the Olympics association right. The Olympics association right consists of the rights and remedies conferred by the Olympic Symbol etc. (Protection) Act 1995 in relation to the controlled representations, namely representations of the symbol of the International Olympic Committee, consisting of five interlocking rings; the motto of the International Olympic Committee, “Citius Altius Fortius” and its translations; the words “Olympiad”, “Olympiads”, “Olympian”, “Olympians”, “Olympic” and “Olympics”; or the symbol or motto of the International Olympic Committee in such a way as to create in the public mind an association with them.
+
+Regulation 2 provides that the court may order the erasure of the offending controlled representation from any infringing goods, material or articles or the destruction of the infringing goods, material or articles in question.
+
+Regulation 3 provides that the proprietor of the Olympics association right may apply to the court for an order that any infringing goods, material or articles be delivered up to him or such other person as the court directs. Regulation 4 provides for the periods beyond which an application for such an order may not be brought.
+
+Regulation 5 provides that the proprietor of the Olympics association right may apply to the court for an order that infringing goods, material or articles which have been delivered up in pursuance of an order under regulation 3 may be destroyed or forfeited. It also confers a power to make rules of court to provide for the notification of any persons who might have an interest in any such goods, material or articles.
+
+The orders specified in these Regulations may be made by the High Court in England and Wales and Northern Ireland, and the Court of Session in Scotland. Orders under regulation 3 or regulation 5 may also be made by the sheriff court in Scotland or a county court in Northern Ireland.
+
+## Annotations
+
+[^key-149ed846226ebde6004c3bcc13f4706c]: Textual amendment: Words in Title substituted (8.11.2010) by [The Olympics, Paralympics and London Olympics Association Rights (Infringement Proceedings) Regulations 2010 (S.I. 2010/2477)](https://www.legislation.gov.uk/uksi/2010/2477), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/6/a)
+
+[^f00001]: Footnote: [1995 c. 32](https://www.legislation.gov.uk/ukpga/1995/32).
+
+[^key-b25ade565340be62a8241c7b08f3c577]: Commencement: Reg. 1 in force at 12.1.1996, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1)
+
+[^key-a9e316bcf6b7829937acf6b054e7546e]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1) substituted (8.11.2010) by [The Olympics, Paralympics and London Olympics Association Rights (Infringement Proceedings) Regulations 2010 (S.I. 2010/2477)](https://www.legislation.gov.uk/uksi/2010/2477), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/1/1), [6(b)(i)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/6/b/i)
+
+[^key-fd2ee732c1d5cd2458320094c9d47cce]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/2) substituted (8.11.2010) by [The Olympics, Paralympics and London Olympics Association Rights (Infringement Proceedings) Regulations 2010 (S.I. 2010/2477)](https://www.legislation.gov.uk/uksi/2010/2477), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/1/1), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/6/b/ii)
+
+[^key-ec2b0715aafee5aa4be8ff38e47d45da]: Commencement: Reg. 2 in force at 12.1.1996, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1)
+
+[^M_F_44ef4c05-4838-434b-b724-036c71d967ea]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/2/1): footnote for “Olympics association right” omitted (8.11.2010) by virtue of [The Olympics, Paralympics and London Olympics Association Rights (Infringement Proceedings) Regulations 2010 (S.I. 2010/2477)](https://www.legislation.gov.uk/uksi/2010/2477), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/6/c)
+
+[^f00003]: Footnote: The expressions “infringing goods”, “infringing material” and “infringing articles” are defined in section 7 of the Olympic Symbol etc. (Protection) Act 1995.
+
+[^key-921748928b8e37be9380f3db5892bcca]: Commencement: Reg. 3 in force at 12.1.1996, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1)
+
+[^key-ec7687668ae25d0f29bc819a8d6dd7cd]: Commencement: Reg. 4 in force at 12.1.1996, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1)
+
+[^f00004]: Footnote: [1980 c. 58](https://www.legislation.gov.uk/ukpga/1980/58).
+
+[^f00005]: Footnote: [1973 c. 52](https://www.legislation.gov.uk/ukpga/1973/52).
+
+[^f00006]: Footnote: S.I. [1989/1339 (N.I.11)](https://www.legislation.gov.uk/nisi/1989/1339).
+
+[^key-b3f9f7747c83ac4dfcf51180aa2c2a29]: Commencement: Reg. 5 in force at 12.1.1996, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1)
+
+[^key-a8c23956df4da2d0db8131c117069b85]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/5/6)[(7)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/5/7) substituted for [reg. 5(6)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/5/6) (8.11.2010) by [The Olympics, Paralympics and London Olympics Association Rights (Infringement Proceedings) Regulations 2010 (S.I. 2010/2477)](https://www.legislation.gov.uk/uksi/2010/2477), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/6/d)
+
+[^key-926c8e6ccb882110d20224267f0ec059]: Textual amendment: Words in [reg. 5(7)(b)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/5/7/b) omitted (31.12.2020) by virtue of [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-42b7a2751c5ffe631707de1da23df4aa]: Commencement: Reg. 6 in force at 12.1.1996, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/3325/regulation/1/1)

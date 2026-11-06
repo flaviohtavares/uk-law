@@ -1,0 +1,101 @@
+---
+title: Children and Social Work Act 2017, section 32
+act: Children and Social Work Act 2017
+section: '32'
+status: not-yet-in-force
+text_date: '2026-09-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2017/16/section/32
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Children and Social Work Act 2017, section 32
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 32. Pre-employment protection of whistle-blowers
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) Part 5A of the Employment Rights Act 1996 is amended as follows.
+
+(2) In the Part heading omit “in the Health Service”.
+
+(3) In section 49B, in the heading, at the beginning insert “ The health service: ”.
+
+(4) After section 49B insert—
+
+> **49C. Children's social care: regulations prohibiting discrimination because of protected disclosure**
+>
+> (1) The Secretary of State may make regulations prohibiting a relevant employer from discriminating against a person who applies for a children's social care position (an “applicant”) because it appears to the employer that the applicant has made a protected disclosure.
+>
+> (2) A “**position**” means a position in which a person works under—
+>
+> - (a) a contract of employment,
+> - (b) a contract to do work personally, or
+> - (c) the terms of an appointment to an office or post.
+>
+> (3) A position is a “children's social care position” if the work done in it relates to the children's social care functions of a relevant employer.
+>
+> (4) For the purposes of subsection (1), a relevant employer discriminates against an applicant if the employer refuses the applicant's application or in some other way treats the applicant less favourably than it treats or would treat other applicants for the same position.
+>
+> (5) Regulations under this section may, in particular—
+>
+> - (a) make provision as to circumstances in which discrimination by a worker or agent of a relevant employer is to be treated, for the purposes of the regulations, as discrimination by the employer;
+> - (b) confer jurisdiction (including exclusive jurisdiction) on employment tribunals or the Employment Appeal Tribunal;
+> - (c) make provision for or about the grant or enforcement of specified remedies by a court or tribunal;
+> - (d) make provision for the making of awards of compensation calculated in accordance with the regulations;
+> - (e) make different provision for different cases or circumstances;
+> - (f) make incidental or consequential provision, including incidental or consequential provision amending—
+>   - (i) an Act of Parliament (including this Act),
+>   - (ii) an Act of the Scottish Parliament,
+>   - (iii) a Measure or Act of the National Assembly for Wales, or
+>   - (iv) an instrument made under an Act or Measure within any of sub-paragraphs (i) to (iii).
+>
+> (6) Subsection (5)(f) does not affect the application of section 236(5) to the power conferred by this section.
+>
+> (7) “**Relevant employer**” means any of the following that are prescribed by regulations under this section—
+>
+> - (a) a local authority in England;
+> - (b) a body corporate that, under arrangements made by a local authority in England under section 1 of the Children and Young Persons Act 2008, exercises children's social care functions;
+> - (c) a person who, as a result of a direction under section 497A(4) or (4A) of the Education Act 1996 as applied by section 50 of the Children Act 2004 (local authorities in England: intervention by Secretary of State) exercises children's social care functions;
+> - (d) the council of a county or county borough in Wales;
+> - (e) a person who, as a result of a direction under any of sections 153 to 157 of the Social Services and Well-being (Wales) Act 2014, exercises children's social care functions;
+> - (f) a council constituted under section 2 of the Local Government etc (Scotland) Act 1994.
+>
+> (8) A “**local authority in England**” means—
+>
+> - (a) a county council in England;
+> - (b) a district council;
+> - (c) a London borough council;
+> - (d) the Common Council of the City of London (in their capacity as a local authority);
+> - (e) the Council of the Isles of Scilly;
+> - (f) a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009.
+>
+> (9) “Children's social care functions”—
+>
+> - (a) in relation to a relevant employer referred to in subsection (7)(a) to (c), means functions of a local authority in England under—
+>   - (i) any legislation specified in Schedule 1 to the Local Authority Social Services Act 1970 so far as relating to those under the age of 18;
+>   - (ii) sections 23C to 24D of the Children Act 1989, so far as not within sub-paragraph (i);
+>   - (iii) the Children Act 2004;
+>   - (iv) any subordinate legislation (within the meaning given by section 21(1) of the Interpretation Act 1978) under the legislation mentioned in sub-paragraphs (i) to (iii);
+> - (b) in relation to a relevant employer referred to in subsection (7)(d) or (e), means any functions relating to the social care of children in Wales that are prescribed by regulations under this section;
+> - (c) in relation to a relevant employer referred to in subsection (7)(f), means any functions relating to the social care of children in Scotland that are prescribed by regulations under this section.
+>
+> (10) The Secretary of State must consult the Welsh Ministers before making regulations under this section in reliance on subsection (7)(d) or (e) or (9)(b).
+>
+> (11) The Secretary of State must consult the Scottish Ministers before making regulations under this section in reliance on subsection (7)(f) or (9)(c).
+>
+> (12) For the purposes of subsection (5)(a)—
+>
+> - (a) “worker” has the extended meaning given by section 43K, and
+> - (b) a person is a worker of a relevant employer if the relevant employer is an employer in relation to the person within the extended meaning given by that section.
+
+(5) In section 230(6) (interpretation of references to employees, workers etc) for “and 49B(10)” substitute “ , 49B(10) and 49C(12) ”.
+
+(6) In section 236(3) (orders and regulations subject to affirmative procedure) after “49B,” insert “ 49C, ”.

@@ -1,0 +1,778 @@
+---
+title: The Local Audit (Appointing Person) Regulations 2015
+id: uksi/2015/192
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-02-09'
+text_date: '2022-07-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2015/192
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/192/pdfs/uksiem_20150192_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/192/pdfs/uksi_20150192_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/192/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Audit (Appointing Person) Regulations 2015
+
+> Text as at 2022-07-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 192
+
+Local Government, England And Wales
+
+The Local Audit (Appointing Person) Regulations 2015
+
+Made
+
+9th February 2015
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 17(1), (2)(b), (3) to (10), 43(2) and 46(1) of the Local Audit and Accountability Act 2014[^f00001].
+
+In accordance with section 43(3) and (4)(g) of that Act a draft of these Regulations was laid before Parliament and approved by a resolution of each House.
+
+## PART 1 — Preliminary
+
+### 1. Citation, commencement and application[^key-9fcaff9664f0a76359711573e7a47aaa]
+
+(1) These Regulations may be cited as the Local Audit (Appointing Person) Regulations 2015 and come into force on the day after the day on which they are made.
+
+(2) These Regulations apply in relation to principal authorities.
+
+### 2. Interpretation[^key-f9132f8c91f9608ab68031e93c29f3d4]
+
+In these Regulations—
+
+- “the Act” means the Local Audit and Accountability Act 2014, and, unless otherwise provided references to the Act or to any provision of it are to the Act or that provision as it has effect by virtue of these Regulations;
+- “appointing person” means a person specified by the Secretary of State under regulation 3 to appoint a local auditor[^f00002];
+- “audit contract” means a contract between an appointing person and a local auditor for the carrying out of audit work;
+- “audit work” means, in relation to an authority, the carrying out of the functions of a local auditor under the Act in relation to the accounts of that authority, in compliance with, or with the relevant part or parts of, the code of audit practice applicable to that authority;
+- “compulsory appointing period” means the financial year or years for which a relevant appointing person is responsible for appointing a local auditor to conduct the audit of the accounts for any authority which becomes an opted in authority by virtue of regulation 9, which—
+  - (a) is specified in an invitation published under regulation 8, and
+  - (b) relates to—
+    - (i) a specific financial year, or
+    - (ii) a period of consecutive financial years, not exceeding five years;
+- “full audit authority” has the same meaning as in regulation 2 of the Local Audit (Smaller Authorities) Regulations 2015[^f00003];
+- “invitation” has the meaning given in regulation 8(5);
+- “newly established principal authority” means either—
+  - (a) a principal authority which was not in existence at the time that the relevant appointing person issued an invitation under regulation 8 to a class of principal authorities within which the principal authority now falls; or
+  - (b) a principal authority which was not a principal authority at the time that the relevant appointing person issued an invitation under regulation 8 to a class of principal authorities, within which the principal authority now falls, but which has subsequently become a principal authority;
+- “opted in authority” means a principal authority for which the responsibility for the appointment of a local auditor has become that of an appointing person instead of that of the authority by virtue of regulation 9, 10 or 11;
+- “principal authority” means—
+  - (a) a relevant authority that is not a smaller authority, or
+  - (b) a full audit authority; and
+- “relevant appointing person”, in relation to a principal authority, means the person specified under regulation 3(2) in relation to the class of authorities within which the principal authority falls;
+
+  and
+- “website” means a website which is publicly accessible free of charge.
+
+## PART 2 — Specification of the appointing person
+
+### 3. Specification of a person to appoint local auditors[^key-5406386ab71441e330c1f4e24a658101]
+
+(1) The Secretary of State may, in accordance with regulation 4, specify a person (an “appointing person”) to appoint a local auditor to audit the accounts of an opted in authority.
+
+(2) The Secretary of State may specify different persons in relation to different classes of principal authorities.
+
+### 4. Procedure for specifying an appointing person[^key-33a034043d6dfed1872c9870924c8e65]
+
+(1) The specification of a person must be in writing and may, but need not, specify a date when the specification ends.
+
+(2) The Secretary of State must publish the relevant details of any appointing person—
+
+- (a) on a website;
+- (b) in the London Gazette.
+
+(3) The relevant details are—
+
+- (a) the appointing person’s name;
+- (b) the appointing person’s registered address (if any);
+- (c) the appointing person’s address for correspondence; and
+- (d) details of the class of principal authorities in relation to which that person is the appointing person, if the class is not all principal authorities.
+
+### 5. Ending specification[^key-4f274d0e2b2f36faf1c3f2b27514ec8a]
+
+(1) The Secretary of State may end the specification of an appointing person in accordance with this regulation.
+
+(2) Before ending the specification, the Secretary of State must—
+
+- (a) consult such principal authorities as the Secretary of State considers have an interest;
+- (b) consult such associations of principal authorities or relevant authorities as appear to the Secretary of State to have an interest.
+
+(3) The Secretary of State must—
+
+- (a) give notice to the appointing person concerned of the ending of specification, giving—
+  - (i) the date on which specification is to end,
+  - (ii) the reason for ending the specification;
+- (b) publish notice of the ending of the specification—
+  - (i) on a website, and
+  - (ii) in the London Gazette; and
+- (c) make arrangements for notifying opted in authorities of the ending of the specification.
+
+(4) The Secretary of State may make arrangements under paragraph (3)(c) by requiring the appointing person to notify opted in authorities.
+
+### 6. Consequences of end of specification[^key-84f927e4daaa2078e830698a4baa46c7]
+
+(1) If the Secretary of State gives notice to an appointing person under regulation 5(3)(a), the Secretary of State may, either before or after (or both before and after) the specification ends—
+
+- (a) exercise the functions of the appointing person arising by virtue of these Regulations;
+- (b) transfer rights and liabilities of the appointing person arising by virtue of these Regulations to—
+  - (i) the Secretary of State; or
+  - (ii) another appointing person.
+
+(2) The Secretary of State may transfer some rights and liabilities under paragraph (1)(b) to the Secretary of State and some to another appointing person.
+
+(3) The appointing person to whom notice is given under regulation 5(3)(a) must—
+
+- (a) disclose all of the appointing person’s rights and liabilities arising by virtue of these Regulations to the Secretary of State;
+- (b) co-operate with the Secretary of State and any other appointing person for the purpose of ensuring an audit of an opted in authority is not adversely affected.
+
+### 7. Additional functions of appointing person[^key-1e4acc2dd3a1240ef53b7f81b04d1cd3]
+
+A specified appointing person must—
+
+- (a) keep and maintain a record of which principal authorities are opted in authorities and publish that record on a website;
+- (b) design and implement appropriate systems to—
+  - (i) oversee issues of independence of any auditor which it has appointed, arising both at the time of appointment and when undertaking audit work;
+  - (ii) monitor compliance by a local auditor against the contractual obligations in an audit contract;
+  - (iii) resolve disputes or complaints from—
+    - (aa) local auditors, opted in authorities and local government electors relating to audit contracts and the carrying out of audit work by auditors it has appointed;
+    - (bb) authorities regarding the refusal of a request to become an opted in authority under regulation 11.
+
+## PART 3 — Invitation to become an opted in authority
+
+### 8. Invitation to principal authorities[^key-f5c2d75b0ce4b61e7d7b99ff2ec07598]
+
+(1) Before every compulsory appointing period begins, a relevant appointing person must issue an invitation in accordance with this regulation to all principal authorities which fall within the class of authorities in relation to which the person has been specified under regulation 3(2).
+
+(2) The invitation must be published in such manner as the relevant appointing person thinks is likely to bring it to the attention of the principal authorities concerned.
+
+(3) The invitation must contain the following information—
+
+- (a) the length of the compulsory appointing period, specifying the financial year or years to which it relates;
+- (b) the closing date for the giving of notice to the appointing person by an authority within the class to accept the invitation (and that date must allow at least 8 weeks for acceptance beginning on the date the invitation is published);
+- (c) an explanation of the procedures by which an authority may accept the invitation and become an opted in authority.
+
+(4) An invitation may not relate to a financial year which commences before 1st April 2017.
+
+(5) In these Regulations “invitation” means an invitation to become an opted in authority for the duration of the compulsory appointing period.
+
+### 9. Acceptance of an invitation[^key-c7589908253568e477223c078b8c0ccb]
+
+(1) A principal authority which is within the class of authorities to whom an invitation has been issued may accept an invitation made by a relevant appointing person under regulation 8 by giving notice of acceptance to the appointing person on or before the closing date mentioned in regulation 8(3)(b).
+
+(2) An authority which gives a notice under paragraph (1) becomes an opted in authority on the date the notice is received by the appointing person.
+
+(3) An authority which has become an opted in authority under this regulation is an opted in authority only for the duration of the compulsory appointing period specified in the invitation.
+
+## PART 4 — Opted in authorities during compulsory appointing period
+
+### 10. Right to become an opted in authority during a compulsory appointing period[^key-2c4d5bb134898b2a3c17087c13237fa0]
+
+(1) During a compulsory appointing period, a newly established principal authority may become an opted in authority in accordance with this regulation.
+
+(2) A newly established principal authority may become an opted in authority by giving notice to the relevant appointing person of its decision to become an opted in authority; and such notice must specify the authority’s postal address.
+
+(3) An authority which gives a notice under paragraph (2) becomes an opted in authority on the date the notice is received by the appointing person.
+
+(4) The authority is an opted in authority for the remainder of the compulsory appointing period which is in existence on the date mentioned in paragraph (3).
+
+### 11. Right to request to become an opted in authority during a compulsory appointing period[^key-d2f578e039a2b67c60bcfee684693548]
+
+(1) During a compulsory appointing period, any principal authority which could have accepted a relevant appointing person’s invitation under regulation 8 but did not, may make a request to the relevant appointing person to become an opted in authority, in accordance with this regulation.
+
+(2) The authority must give notice to the relevant appointing person of its request to become an opted in authority; and such notice must specify the authority’s postal address.
+
+(3) The relevant appointing person must—
+
+- (a) consider the authority’s request to opt in,
+- (b) agree to the request unless the appointing person has reasonable grounds for refusing it;
+- (c) give notice to the authority, within four weeks beginning with the date that the request to become an opted in authority was received, giving the decision in relation to the request, and
+- (d) provide reasons if the request is refused.
+
+(4) The authority becomes an opted in authority on the date on which the relevant appointing person gives notice to the authority agreeing to its request to become an opted in authority.
+
+(5) The authority is an opted in authority for the remainder of the compulsory appointing period which is in existence on the date mentioned in paragraph (4).
+
+(6) A relevant appointing person may recover its reasonable costs for making arrangements to appoint a local auditor to an authority which becomes an opted in authority under this regulation, from that authority.
+
+### 12. Opted in authority ceasing to be principal authority: duty to notify[^key-d9c6933c84ee4b3e9b46cd10c69d1c46]
+
+(1) An opted in authority which ceases to be a principal authority must, as soon as practicable after the day it ceases to be such an authority, give notice of that fact to the relevant appointing person.
+
+(2) An opted in authority which ceases to fall within the class of authority for which the appointing person is the relevant appointing person, must, as soon as practicable after the day it ceases to be such an authority, give notice of that fact to the relevant appointing person.
+
+(3) Paragraph (4) applies where an authority fails to give the notice required by paragraphs (1) or (2).
+
+(4) The relevant appointing person may recover from the authority any reasonable costs incurred in relation to that authority by—
+
+- (a) the appointing person, or
+- (b) a local auditor appointed to the authority by the appointing person,
+
+until the date when the authority in fact gives such notice..
+
+## PART 5 — Appointment of local auditors to opted in authorities
+
+### 13. Appointment of local auditors to opted in authorities[^key-a1598f396a9c160b3a5b2ab51014901a]
+
+(1)[^key-e26f97e1def18030d09ab0845410f856] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-e628934997f741051d0ded4f07b11959] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Before appointing a local auditor to an opted in authority, an appointing person must consult the authority about the proposed appointment.
+
+(4)[^key-83f9c0e12378b5235047b1bea7aea1df] Where an authority becomes an opted in authority by virtue of either regulation 10 or 11, the appointing person may appoint a local auditor to audit the accounts of the authority in relation to—
+
+- (a) the financial year in which the authority becomes an opted in authority; and
+- (b) any previous financial year of the compulsory appointing period, for which an audit has not been completed.
+
+### 14. Retention of local auditor by non-qualifying authority[^key-27464adcb834a4a4a86556bcbb37b6c2]
+
+(1) This paragraph applies where an appointing person has appointed a local auditor to audit the accounts of an authority which the appointing person reasonably believed to be an opted in authority for which the appointing person was the relevant appointing person, but at the time of the appointment of the auditor the authority—
+
+- (a) was not a principal authority; or
+- (b) did not fall within the class of authorities for which the appointing person is the relevant appointing person.
+
+(2) This paragraph applies where an appointing person has appointed a local auditor to audit the accounts of an opted in authority for which the appointing person was the relevant appointing person, but the authority—
+
+- (a) has ceased to be a principal authority; or
+- (b) no longer falls within the class of authorities for which the appointing person is the relevant appointing person.
+
+(3) Where paragraph (1) or (2) applies, the auditor may remain in office for the relevant financial year subject to agreement between the authority and the auditor.
+
+(4) In paragraph (3) “relevant financial year” means the financial year in which the circumstances first fall within paragraph (1)(a) or (b) or paragraph (2)(a) or (b).
+
+### 15. Resignation and removal of auditors[^key-3db2344c064d1160b8d279c49fc4bc61]
+
+(1) The Local Audit (Auditor Resignation and Removal) Regulations 2014[^f00004] do not apply in relation to a local auditor appointed in accordance with these Regulations.
+
+(2) An appointing person may remove a local auditor which it appointed from office before the expiry of the term of that office.
+
+(3) When a local auditor appointed by a relevant appointing person to an opted in authority leaves office, whether through—
+
+- (a) resignation by the auditor from office, or
+- (b) removal by the appointing person of the auditor from office,
+
+the relevant appointing person must appoint a new local auditor to that opted in authority as soon as practicable after the auditor leaves office.
+
+(4) Before appointing an auditor under paragraph (3), the appointing person must consult the authority about the proposed appointment.
+
+(5) The opted in authority must, within the period of 28 days beginning with the day on which an appointment under paragraph (3) is notified to the authority by the relevant appointing person, publish a notice that—
+
+- (a) states that the relevant appointing person has made the appointment,
+- (b) identifies the local auditor that has been appointed, and
+- (c) specifies the period for which the local auditor has been appointed.
+
+(6) The notice must be published—
+
+- (a) if the authority has a website, on its website;
+- (b) otherwise, in accordance with paragraph (7).
+
+(7) An authority publishes a notice in accordance with this paragraph if—
+
+- (a) in the case of an authority other than a health service body, it publishes the notice in such manner as it thinks is likely to bring the notice to the attention of persons who live in its area;
+- (b) in the case of an integrated care board[^key-29f73566dca4f73de33c358916a1f490], it publishes the notice in such manner as it thinks is likely to bring the notice to the attention of—
+  - (i) persons who live in the area of the integrated care board[^key-e8718e30f87e582dafdab1bb27c97ca9], and
+  - (ii) persons who do not live in the area of the integrated care board[^key-237ae7d7435a9d5881ed9d206c96d96b] but for whom the integrated care board has responsibility;
+- (c) in the case of special trustees for a hospital, they publish the notice in such manner as they think is likely to bring the notice to the attention of persons to whom services are provided at that hospital.
+
+(8) The authority must exclude from the notice information whose disclosure would prejudice commercial confidentiality, unless there is an overriding public interest in favour of its disclosure.
+
+## PART 6 — Fees for audit
+
+### 16. Setting of fee scales for audits[^key-ed5691e5a426d18a11358513861120b0]
+
+(1) An appointing person must specify, before 1st December of the financial year[^key-f1be5dc2e308fa653ecb986818eb6340] to which the scale of fees relates, the scale or scales of fees for the audit of the accounts of opted in authorities in relation to which the person is the relevant appointing person.
+
+(2) A scale of fees must relate to a particular financial year, but may be set for more than one financial year at a time.
+
+(3) An appointing person may vary the scale of fees which it has specified, but must not do so after 30th November of the financial year to which the scale of fees relates.[^key-fdf4fbd9cf1654d40a62fbc429e3aa6b]
+
+(4) Before specifying or varying any scale of fees, an appointing person must consult—
+
+- (a) all opted in authorities;
+- (b) such representative associations of principal authorities as appear to the specified person to be concerned, and
+- (c) such bodies of accountants as appear to the appointing person to be appropriate.
+
+(5) A scale of fees may take account of the costs or expenses and anticipated costs and expenses of—
+
+- (a) the appointing person in respect of any function imposed by or under the Act;
+- (b) anything which is reasonably incidental or supplementary to the functions of the appointing person imposed by or under the Act;
+- (c) local auditors which are recoverable from authorities under the Act, specified in regulation 17(3).
+
+(6) The scales of fees applicable to the audit of an authority which became an opted in authority under regulation 10 or 11 must be the scale of fees applicable to other opted in authorities falling within the same class of authorities as the authority.
+
+### 17. Setting of fee for audit[^key-c37446e36078030ec76fe2c63b2073a1]
+
+(1) Subject to paragraphs (2) and (2A),[^key-dcaaaf5849dcbe689829696bfd494522] the fee for the audit of the accounts of an opted in authority must be set in accordance with the appropriate fee scale specified in accordance with regulation 16.
+
+(2) If it appears to an appointing person, on the basis of information supplied by the local auditor which it has appointed—
+
+- (a) that the work involved in a particular audit was substantially more or less than that envisaged by the appropriate scale, or
+- (b) any of the provisions mentioned in paragraph (3) apply,
+
+the appointing person may charge a fee which is larger or smaller than that referred to in paragraph (1), as appropriate.
+
+(2A)[^key-c423410fa9529e0a8321de985bed1014] If it appears to an appointing person—
+
+- (a) that the work involved in the audit of the accounts of all opted in authorities was or is likely to be substantially—
+  - (i) more than envisaged by the appropriate scale, the appointing person may charge to all opted in authorities a fee which is larger than that referred to in paragraph (1);
+  - (ii) less than envisaged by the appropriate scale, the appointing person may charge to all opted in authorities a fee which is smaller than that referred to in paragraph (1);
+- (b) that the work involved in the audit of the accounts of a group of opted in authorities was or is likely to be substantially—
+  - (i) more than envisaged by the appropriate scale, the appointing person may charge to all of that group of opted in authorities a fee which is larger than that referred to in paragraph (1);
+  - (ii) less than envisaged by the appropriate scale, the appointing person may charge to all of that group of opted in authorities a fee which is smaller than that referred to in paragraph (1).
+
+(2B) Before charging a larger or smaller fee under paragraph (2A), an appointing person must consult—
+
+- (a) all opted in authorities to whom the appointing person proposes to charge a larger or smaller fee; and
+- (b) all local auditors conducting the relevant audits of opted in authorities to whom the appointing person proposes to charge a larger or smaller fee.
+
+(3) The costs or expenses of the local auditor recoverable from an authority under any of the following provisions of the Act are recoverable as part of the fee for the audit of the accounts of the opted in authority to which the costs or expenses relate—
+
+- (a) section 23(3) (offences relating to auditor’s right to documents and information);
+- (b) section 26(3) (inspection of documents etc.);
+- (c) section 27(7) (right to make objections at audit);
+- (d) section 28(7) (declaration that item of account is unlawful);
+- (e) section 31(6) (power of auditor to apply for judicial review);
+- (f) paragraph 1(5) of Schedule 7 (public interest reports);
+- (g) paragraph 2(4) of Schedule 7 (written recommendations); and
+- (h) paragraph 3(5) of Schedule 8 (advisory notices).
+
+(4) The appointing person must give notice to the authority concerned of any larger or smaller fee, giving reasons.
+
+### 18. Payment of fee[^key-2735f386034ed576fd76fbe83a23179e]
+
+An opted in authority must pay to the relevant appointing person the fee set under regulation 17.
+
+## PART 7 — Miscellaneous
+
+### 19. Requirements in relation to certain functions[^key-8008ff31bce68671b538def8c453437f]
+
+(1) A principal authority may only exercise the functions in paragraph (2) by the members of the authority meeting as a whole, except where the authority is a corporation sole, in which case the functions must be exercised by the holder of the office.
+
+(2) The functions are—
+
+- (a) deciding to accept an invitation under regulation 9;
+- (b) deciding to become an opted in authority under regulation 10; or
+- (c) deciding to request to become an opted in authority under regulation 11.
+
+### 20. Duty to provide information[^key-1ce58cc17de21f00e81d61d4328ceb7d]
+
+A principal authority or local auditor appointed by an appointing person must, so far as reasonably practicable, provide the appointing person with such information that it may reasonably require for the purposes of exercising its functions under these Regulations.
+
+### 21. Notices[^key-88edb49dca513166c2a2b870564403aa]
+
+A notice that is required under these Regulations to be given to a person or authority must be in writing and may be given by—
+
+- (a) delivering it to that person’s or authority’s address;
+- (b) sending it by post to that person’s or authority’s address; or
+- (c) electronic service in accordance with regulation 22.
+
+### 22. Electronic service[^key-ba13e9a215dd65588983c0c0ebb8f3a5]
+
+(1) This regulation applies in respect of electronic service of a notice on a person or an authority (“the recipient”).
+
+(2) Transmission of the notice to the recipient by means of an electronic communication has effect for the purposes of service of the notice on the recipient if, and only if, the conditions in paragraph (3) are met.
+
+(3) The conditions are that—
+
+- (a) the recipient has stated a willingness to receive notices by means of an electronic communication,
+- (b) the statement has not been withdrawn, and
+- (c) the notice was transmitted to an electronic address specified by the recipient.
+
+(4) A statement may be limited to notices of a specified description.
+
+(5) A statement may require a notice to be in a specified electronic form.
+
+(6) A statement may be modified or withdrawn—
+
+- (a) in a case where the statement was made by being published, by publishing the modification or withdrawal in the same or in a similar manner;
+- (b) in any other case, by giving a notice to the person to whom the statement was made.
+
+(7) Where a notice is served on a recipient in accordance with this regulation, the notice is, unless the contrary is proved, to be deemed to have been served on that recipient at the time at which the electronic communication is transmitted.
+
+(8) In this regulation—
+
+- “electronic address” includes any number or address used for the purposes of receiving electronic communications;
+- “electronic communication” means an electronic communication within the meaning of section 15 of the Electronic Communications Act 2000 (general interpretation)[^f00005];
+- “specified” means specified in a statement made for the purposes of paragraph (3)(a).
+
+### 23. Modifications to the Local Audit and Accountability Act 2014 and other Acts[^key-6570f8cf0886e9ee26ddb336497f9aca]
+
+The Schedule to these Regulations has effect.
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Kris Hopkins
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+9th February 2015
+
+## SCHEDULE — Modifications to the Local Audit and Accountability Act 2014 and other Acts
+
+Regulation 23
+
+### PART 1 — General modifications
+
+**1.**[^key-626097834838a11224cf94bb14195ec6] The Act applies subject to the modifications to the Act in the rest of this Schedule.
+
+### PART 2
+
+#### 2. Appointment of local auditor[^key-448074d69825cccc3966a29c46af1eab]
+
+Section 7 applies in relation to an opted in authority as if—
+
+- (a) for subsection (1) there were substituted—
+
+  > (1) The appointing person must appoint a local auditor to audit the accounts of an opted in authority for a financial year not later than 31st December in the preceding financial year.
+
+  ;
+- (b) in subsection (2)—
+  - (i) for “A relevant authority” there were substituted “The appointing person”;
+  - (ii) for “its accounts” there were substituted “the accounts”; and
+  - (iii) in paragraph (b) for “the authority” there were substituted “the appointing person”;
+- (c) in subsection (3) for “the relevant authority” there were substituted “the appointing person”; and
+- (d) subsection (8) were omitted.
+
+#### 3. Procedure for appointment[^key-3d4ebbcba35a0a35ea534b4be5d1c507]
+
+Section 8 applies in relation to an opted in authority as if—
+
+- (a) subsection (1) were omitted;
+- (b) in subsection (2)—
+  - (i) for “The relevant authority” there were substituted “An opted in authority”;
+  - (ii) for “the appointment is made” there were substituted “the appointment of a local auditor in relation to the authority is notified to the authority by the appointing person”;
+  - (iii) in paragraph (a) for “it” there were substituted “the appointing person”;
+  - (iv) at the end of paragraph (b) there were inserted “and”; and
+  - (v) paragraphs (d) and (e) were omitted;
+- (c) in subsection (3) for “relevant authority” there were substituted “the authority “;
+- (d) in subsection (4) for “a relevant authority” both times it occurs there were substituted “an authority”;
+- (e) in subsection (5) for “The relevant authority” there were substituted “The authority”; and
+- (f) subsection (6) were omitted.
+
+#### 4. Requirement to have auditor panel[^key-95cb7fcc4482c099f19b4db5b21e0d07]
+
+Section 9 applies in relation to an opted in authority as if—
+
+- (a) in subsection (1) after “relevant authority” there were inserted “other than an opted in authority”; and
+- (b) after subsection (1) there were inserted—
+
+  > (1A) An opted in authority may have an auditor panel at any time, but that panel must not be consulted about—
+  >
+  > - (a) whether or not the authority is to become an opted in authority;
+  > - (b) matters relating to an auditor appointed by an appointing person; or
+  > - (c) matters relating to an audit carried out by an auditor appointed by an appointing person.
+
+  .
+
+#### 5. Functions of auditor panel[^key-b496cb3823046840e4658e5448f8bc3c]
+
+Section 10 applies in relation to an opted in authority as if before subsection (1) there were inserted—
+
+> (A1) This section is subject to section 9.
+
+#### 6. Failure of appointing person to appoint local auditor[^key-ce2aee66a3b3b65ee49404fe726ccf6e]
+
+In the event that the appointing person fails to appoint a local auditor to an opted in authority in accordance with Part 3 of the Act, section 12 applies as if—
+
+- (a) for subsection (1) there were substituted—
+
+  > (1) If an appointing person fails to appoint a local auditor to audit the accounts of an opted in authority, other than a a health service body[^key-fd078e536f10f1d01c85bef167b77c14], in accordance with this Part, the authority must immediately inform the appointing person and the Secretary of State of that fact.
+- (b) in subsection (2)—
+  - (i) for the words from “relevant authority” to “health service body[^key-7366a707b44a957bd6e14e207024bb91],” there were substituted “an appointing person”;
+  - (ii) after “local auditor”, the first time those words appear, there were inserted “to audit the accounts of an opted in authority, other than a health service body[^key-077481c01a3a5270dbee403a56f82b77]”;
+  - (iii) after paragraph (a) there were inserted—
+
+    > - (aa) direct the appointing person to appoint an auditor, or
+
+    ;
+- (c) after subsection (2) there were inserted—
+
+  > (2A) Where an appointment is made under subsection (2)(aa)—
+  >
+  > - (a) the appointment takes effect on such terms as the Secretary of State may direct; and
+  > - (b) the appointing person may recover its reasonable administrative costs of making arrangements to appoint a local auditor for the local authority.
+
+  ;
+- (d) in subsection (3)(a) “relevant” were omitted;
+- (e) in subsection (4)—
+  - (i) “relevant” were omitted both times it occurs;
+  - (ii) in paragraph (a), after “authority” there were inserted “and where the Secretary of State intends to direct the appointing person, that person”; and
+  - (iii) in paragraph (b) after “authority” there were inserted “or the appointing person”; and
+- (f) in subsection (5) for “a relevant authority” there were substituted “an authority”.
+
+#### 7. Failure of principal authority to appoint local auditor[^key-2bff28e706419e2a6d85b77a941a3ca2]
+
+In the event that a principal authority which is not an opted in authority fails to appoint a local auditor in accordance with Part 3 of the Act, section 12 applies as if—
+
+- (a) in subsection (1), for “relevant authority” there were substituted “principal authority which is not an opted in authority”;
+- (b) in subsection (2)—
+  - (i) for “relevant authority” there were substituted “principal authority which is not an opted in authority”;
+  - (ii) after paragraph (a) there were inserted—
+
+    > - (aa) direct the person specified under regulation 3(2) of the Local Audit (Appointing Person) Regulations 2015 in relation to the class of principal authorities within which the authority falls, to appoint an auditor,
+
+    ;
+- (c) after subsection (2) there were inserted—
+
+  > (2A) Where an appointment is made under subsection (2)(aa)—
+  >
+  > - (a) the appointment takes effect on such terms as the Secretary of State may direct; and
+  > - (b) the relevant appointing person may recover its reasonable administrative costs of making arrangements to appoint a local auditor for the authority.
+
+  ;
+- (d) in subsection (3)(a) “relevant” were omitted;
+- (e) in subsection (4)—
+  - (i) “relevant” were omitted both times it occurs;
+  - (ii) in paragraph (a), after “authority” there were inserted “and, where the Secretary of State intends to direct the appointing person, that person”; and
+  - (iii) in paragraph (b), after “authority” there were inserted “or the appointing person”; and
+- (f) in subsection (5) for “a relevant authority” there were substituted “an authority”.
+
+#### 8. Modification to Schedule 3 (further provisions about appointment of local auditors)[^key-7abc7c71322a6ecaa5aca1bada09e65c]
+
+Schedule 3 does not apply to opted in authorities.
+
+#### 9. Modification to Schedule 5 (eligibility and regulation of local auditors)[^key-0ba2a2936911859cc24d269923c432e2]
+
+Schedule 5 applies in relation to a local auditor appointed by an appointing person as if after paragraph 4 there were inserted—
+
+> **4A.** In section 1213(2) (effect of ineligibility)—
+>
+> - (a) omit “and” at the end of paragraph (a);
+> - (b) insert “and” at the end of paragraph (b); and
+> - (c) after paragraph (b), insert—
+>
+>   > - (c) where the local auditor was appointed by an appointing person, give the notice in paragraph (b) to that person.
+
+.
+
+**10.**[^key-547540bc29171d107a8fe5838f66cbd8] Paragraph 5 of Schedule 5 applies in relation to an appointment by an appointing person, as if—
+
+- (a) in subsection (1) of the inserted text, for “and (5)” there were substituted “, (5) and (5A)”; and
+- (b) after subsection (5) of the inserted text, there were inserted—
+
+  > (5A) This subsection applies if—
+  >
+  > - (a) P is an employee or a member of the appointing person who is responsible for appointing the authority’s local auditor; or
+  > - (b) P is a partner or employee of a person falling within paragraph (a), or a partnership of which such a person is a partner.
+
+  .
+
+**11.**[^key-4c2edbf7e06d48352f0a2f16879ee8b1] Paragraph 6 of Schedule 5 applies in relation to a local auditor appointed by an appointing person as if the text of that paragraph were subparagraph (2) and before that paragraph there were inserted—
+
+> (1) In section 1215 (effect of lack of independence) in subsection (1)—
+>
+> - (a) omit “and” at the end of paragraph (a);
+> - (b) insert “and” at the end of paragraph (b); and
+> - (c) after paragraph (b), insert—
+>
+>   > - (c) where the local auditor was appointed by an appointing person, also give the notice in paragraph (b) to the appointing person.
+
+.
+
+**12.**[^key-65a3d4c0101e11046e01c8fba02cabfa] Paragraph 7 of Schedule 5 applies in relation to a local auditor appointed by an appointing person as if for the words from “after subsection (5)” to the end of that paragraph there were substituted—
+
+> in subsection (5)—
+>
+> - (a) for “audited person” the first time it occurs substitute “appointing person who appointed the local auditor”; and
+> - (b) in paragraph (b) for “audited person” substitute “appointing person”.
+
+.
+
+**13.**[^key-56db0af29af7644577c7d9c7ed1b07d8] Paragraph 16 of Schedule 5 applies in relation to an opted in authority as if—
+
+- (a) in subsection (1) of the inserted text, after “appointed” there were inserted “by an appointing person”;
+- (b) in subsections (2) and (5) of the inserted text, for “relevant authority” there were substituted “appointing person”;
+- (c) in subsection (6) of the inserted text for “authority” there were substituted “appointing person”; and
+- (d) subsection (7) were omitted.
+
+**14.**[^key-96969fd42e8598555f3ca94a51d93115] Paragraph 17 of Schedule 5 applies in relation to an opted in authority as if in subsection (1) of the inserted text—
+
+- (a) for “relevant authority” the second time it appears, there were substituted “appointing person who appointed the auditor”; and
+- (b) after “section 1248” there were inserted “, and must ensure that the authority is either not required to pay a fee for the first audit, or is refunded any fee paid”.
+
+#### 15. Modification to Schedule 6 (codes of audit practice and guidance)[^key-8eb1a45d2413afe2ef055572e9df60cf]
+
+Schedule 6 applies where an appointing person has been specified under regulation 3 as if there were inserted after paragraph 1(5)(e)—
+
+> - (ea) a person specified under regulation 3 of the Local Audit (Appointing Person) Regulations 2015,
+
+.
+
+#### 16. Modification to Schedule 11 (disclosure of information)[^key-7121adddd43387a16b9be91483a90b6f]
+
+Schedule 11 applies where an appointing person has been specified under regulation 3 as if the following were inserted after paragraph 1(3)(c)—
+
+> - (ca) a person specified under regulation 3 of the Local Audit (Appointing Person) Regulations 2015,
+
+.
+
+### PART 3
+
+#### 17. Modification to the Anti-terrorism, Crime and Security Act 2001[^key-d8c1eb858529a036b13b3e498a8f0a6a]
+
+Paragraph 53F of Schedule 4 to the Anti-terrorism, Crime and Security Act 2001[^f00006] applies where an appointing person has been specified under regulation 3 as if after “2014” there were inserted the words “as it has effect by virtue of the Local Audit (Appointing Person) Regulations 2015.”
+
+#### 18. Modification to the National Health Service Act 2006[^key-e43563ded9fa7c86a2545e2793a2ff16]
+
+Paragraph 17(5) of Schedule 1A to the National Health Service Act 2006[^f00007] applies in relation to an opted in authority as if after “2014” there were inserted the words “as it has effect by virtue of the Local Audit (Appointing Person) Regulations 2015”.
+
+**19.**[^key-3779488a3ccac2065fc988038a160ff2] Paragraph 4 of Schedule 15 to that Act applies in relation to an opted in authority as if after “2014” there were inserted the words “as it has effect by virtue of the Local Audit (Smaller Authorities) Regulations 2015”.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Local Audit and Accountability Act [2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2) makes provision about the accounts of local and certain other public authorities and the auditing of those accounts. These Regulations make provision for the appointment of a local auditor by a person specified by the Secretary of State (“an appointing person”) to audit the accounts of those authorities that choose to opt in to such arrangements.
+
+Regulations 3 to 7 provide for specification of the appointing person and that person’s functions. An appointing person may be appointed in relation to all authorities or specified classes
+
+Regulations 8 to 10 provide for the appointing person to issue an invitation to all authorities for which the person is the appointing person, to opt into the arrangements for the period specified in the invitation (“the compulsory appointing period”). An invitation may not relate to a financial year which commences before 1st April 2017.
+
+Regulations 11 and 12 deal with cases where an authority wishes to opt in to the arrangements during the compulsory appointing period.
+
+Regulations 13 to 15 make provision for the appointment of a local auditor by the appointing person, as well as the resignation and removal of the auditor.
+
+Regulations 16 to 18 provide for audit fees. Regulation 19 provides that certain functions are to be exercised by the full council or authority. Regulation 20 imposes a duty on a principal authority or local auditor to provide the appointing person with information relevant to the performance of that person’s functions. Regulation 23 and the Schedule make consequential modifications to the Local Audit and Accountability Act 2014, Part 42 of the Companies Act 2006 and other Acts.
+
+An impact assessment of the effect that the Local Audit and Accountability Act 2014, which this instrument helps implement, will have on the costs of business is available from http://www.parliament.uk/ documents/impact-assessments/IA13-11A.pdf. No separate assessment was carried out for this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2).
+
+[^key-9fcaff9664f0a76359711573e7a47aaa]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/192/regulation/1) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-f9132f8c91f9608ab68031e93c29f3d4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/192/regulation/2) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^f00002]: Footnote: See section 44 of the Local Audit and Accountability Act [2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2) for meaning of “local auditor”, “code of audit practice” and “financial year”.
+
+[^f00003]: Footnote: [S.I. 2015/184](https://www.legislation.gov.uk/uksi/2015/184).
+
+[^key-5406386ab71441e330c1f4e24a658101]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/192/regulation/3) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-33a034043d6dfed1872c9870924c8e65]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/192/regulation/4) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-4f274d0e2b2f36faf1c3f2b27514ec8a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/192/regulation/5) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-84f927e4daaa2078e830698a4baa46c7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/192/regulation/6) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-1e4acc2dd3a1240ef53b7f81b04d1cd3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/192/regulation/7) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-f5c2d75b0ce4b61e7d7b99ff2ec07598]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/192/regulation/8) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-c7589908253568e477223c078b8c0ccb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/192/regulation/9) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-2c4d5bb134898b2a3c17087c13237fa0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/192/regulation/10) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-d2f578e039a2b67c60bcfee684693548]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/192/regulation/11) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-d9c6933c84ee4b3e9b46cd10c69d1c46]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/192/regulation/12) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-a1598f396a9c160b3a5b2ab51014901a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/192/regulation/13) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-e26f97e1def18030d09ab0845410f856]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/13/1) omitted (16.2.2022) by virtue of [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
+
+[^key-e628934997f741051d0ded4f07b11959]: Textual amendment: [Reg. 13(2)](https://www.legislation.gov.uk/uksi/2015/192/regulation/13/2) omitted (16.2.2022) by virtue of [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
+
+[^key-83f9c0e12378b5235047b1bea7aea1df]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/uksi/2015/192/regulation/13/4) inserted (16.2.2022) by [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
+
+[^key-27464adcb834a4a4a86556bcbb37b6c2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/192/regulation/14) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-3db2344c064d1160b8d279c49fc4bc61]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/192/regulation/15) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^f00004]: Footnote: [S.I. 2014/1710](https://www.legislation.gov.uk/uksi/2014/1710).
+
+[^key-29f73566dca4f73de33c358916a1f490]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/192) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+
+[^key-e8718e30f87e582dafdab1bb27c97ca9]: Textual amendment: Words in [reg. 15(7)(b)(i)](https://www.legislation.gov.uk/uksi/2015/192/regulation/15/7/b/i) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [78(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/78/2/a)
+
+[^key-237ae7d7435a9d5881ed9d206c96d96b]: Textual amendment: Words in [reg. 15(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/192/regulation/15/7/b/ii) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [78(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/78/2/b)
+
+[^key-ed5691e5a426d18a11358513861120b0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/192/regulation/16) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-f1be5dc2e308fa653ecb986818eb6340]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/16/1) substituted (16.2.2022) by [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/3/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
+
+[^key-fdf4fbd9cf1654d40a62fbc429e3aa6b]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2015/192/regulation/16/3) substituted (16.2.2022) by [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/3/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
+
+[^key-c37446e36078030ec76fe2c63b2073a1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/192/regulation/17) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-dcaaaf5849dcbe689829696bfd494522]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/17/1) substituted (16.2.2022) by [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/4/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
+
+[^key-c423410fa9529e0a8321de985bed1014]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/uksi/2015/192/regulation/17/2A)[(2B)](https://www.legislation.gov.uk/uksi/2015/192/regulation/17/2B) inserted (16.2.2022) by [The Local Audit (Appointing Person) (Amendment) Regulations 2022 (S.I. 2022/69)](https://www.legislation.gov.uk/uksi/2022/69), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/69/regulation/2/4/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/69/regulation/1/3))
+
+[^key-2735f386034ed576fd76fbe83a23179e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/192/regulation/18) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-8008ff31bce68671b538def8c453437f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/192/regulation/19) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-1ce58cc17de21f00e81d61d4328ceb7d]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2015/192/regulation/20) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-88edb49dca513166c2a2b870564403aa]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/192/regulation/21) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-ba13e9a215dd65588983c0c0ebb8f3a5]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/192/regulation/22) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^f00005]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). The definition of “electronic communication” in section 15 was amended by Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^key-6570f8cf0886e9ee26ddb336497f9aca]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2015/192/regulation/23) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-626097834838a11224cf94bb14195ec6]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/1) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-448074d69825cccc3966a29c46af1eab]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/2) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-3d4ebbcba35a0a35ea534b4be5d1c507]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/3) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-95cb7fcc4482c099f19b4db5b21e0d07]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/4) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-b496cb3823046840e4658e5448f8bc3c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/5) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-ce2aee66a3b3b65ee49404fe726ccf6e]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/6) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-fd078e536f10f1d01c85bef167b77c14]: Textual amendment: Words in [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/6/a) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [78(3)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/78/3/a)
+
+[^key-7366a707b44a957bd6e14e207024bb91]: Textual amendment: Words in [Sch. para. 6(b)(i)](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/6/b/i) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [78(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/634/regulation/78/3/b/i)
+
+[^key-077481c01a3a5270dbee403a56f82b77]: Textual amendment: Words in [Sch. para. 6(b)(ii)](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/6/b/ii) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [78(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/78/3/b/ii)
+
+[^key-2bff28e706419e2a6d85b77a941a3ca2]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/7) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-7abc7c71322a6ecaa5aca1bada09e65c]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/8) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-0ba2a2936911859cc24d269923c432e2]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/9) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-547540bc29171d107a8fe5838f66cbd8]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/10) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-4c2edbf7e06d48352f0a2f16879ee8b1]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/11) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-65a3d4c0101e11046e01c8fba02cabfa]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/12) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-56db0af29af7644577c7d9c7ed1b07d8]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/13) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-96969fd42e8598555f3ca94a51d93115]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/14) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-8eb1a45d2413afe2ef055572e9df60cf]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/15) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-7121adddd43387a16b9be91483a90b6f]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/16) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^key-d8c1eb858529a036b13b3e498a8f0a6a]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/17) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^f00006]: Footnote: [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24). Paragraph 53F was inserted by the Local Audit and Accountability Act 2014, section 45 and Schedule 12.
+
+[^key-e43563ded9fa7c86a2545e2793a2ff16]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/18) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)
+
+[^f00007]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Paragraph 17 of Schedule 1A and paragraph 4 of Schedule 15 were amended by the Local Audit and Accountability Act 2014, section 45 and Schedule 12
+
+[^key-3779488a3ccac2065fc988038a160ff2]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2015/192/schedule/paragraph/19) in force at 10.2.2015 in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/192/regulation/1/1)

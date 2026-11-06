@@ -1,0 +1,435 @@
+---
+title: The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) and Multilingual Standard Forms Regulations 2018
+id: uksi/2018/1268
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-11-27'
+text_date: '2024-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2018/1268
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/1268/pdfs/uksiem_20181268_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1268/pdfs/uksi_20181268_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1268/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) and Multilingual Standard Forms Regulations 2018
+
+> Text as at 2024-01-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2018 No. 1268
+
+Registration Of Births, Deaths & Marriages, Etc., England And Wales
+
+The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) and Multilingual Standard Forms Regulations 2018
+
+Made
+
+27th November 2018
+
+Laid before Parliament
+
+30th November 2018
+
+Coming into force
+
+16th February 2019
+
+The Secretary of State is designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the issuance of multilingual standard forms by the Registrar General for England and Wales.
+
+The Secretary of State, in exercise of the powers conferred by sections 71A[^f00003] and 74(3)[^f00004] of the Marriage Act 1949[^f00005], sections 38A[^f00006] and 39A[^f00007] of the Births and Deaths Registration Act 1953[^f00008], section 19B of the Registration Service Act 1953[^f00009], section 2(2) and paragraph 1A of schedule 2 to the European Communities Act 1972, sections 34[^f00010] and 36(4) of the Civil Partnership Act 2004[^f00011] and section 9[^f00012] and section 18 of the Marriage (Same Sex Couples) Act 2013[^f00013] makes the following Regulations.
+
+## 1. Citation and commencement[^key-6f66309d5bb6835919a6bbb44e0a0095]
+
+(1) These Regulations may be cited as the Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) and Multilingual Standard Forms Regulations 2018.
+
+(2) These Regulations come into force on 16th February 2019.
+
+## 2. Interpretation[^key-c49f5b02575697d491258dd501125582]
+
+In these Regulations—
+
+- “the Fees Regulations” means the Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016[^f00014].
+- “the Records Regulations” means the Births, Deaths, Marriages and Civil Partnerships Records Regulations 2016[^f00015].
+- “relevant authority” means a superintendent registrar, registrar or registration authority.
+- “relevant local office” means any place where a relevant authority provides standard or priority certificate services.
+
+## 3. Amendment of the Fees Regulations[^key-08dffa6726000fef5486515d0041cfe0]
+
+The Fees Regulations are amended as follows.
+
+## 4. Amendment of regulation 2 (interpretation)[^key-bcc8fc4d998bb839ff4a6cadcb483745]
+
+(1) In the definition of a “priority service”—
+
+- (a) for “is a service provided to a person who makes an application to the Registrar General” substitute “means”;
+- (b) before paragraph (a) insert—
+
+  > - (a) “a service provided to a person who makes an application to the Registrar General—
+
+  ;
+- (c) paragraph (a) is renumbered as sub-paragraph (i) and sub-paragraphs (i) and (ii) are renumbered, respectively, as paragraphs (aa) and (bb);
+- (d) paragraph (b) is renumbered as sub-paragraph (ii);
+- (e) after sub-paragraph (ii) as so renumbered insert—
+
+  > - (b) in the case of a fee that is payable to a relevant authority, a service provided to a person who makes the application to the relevant authority by—
+  >   - (i) giving the relevant information and paying the correct fee by—
+  >     - (aa) attending in person at the Relevant Local Office between 10:00 and 15:00 hours on a working day; or
+  >     - (bb) post, telephone or electronic means which is received by the relevant authority before 15.00 hours on a working day; and
+  >   - (ii) where the document applied for is normally provided on or before the next working day, sending by first class post or to a person attending at the Relevant Local Office between 10:00 hours and 15:00 hours;
+
+  .
+
+(2) In the definition of “relevant information” after paragraph (b) insert—
+
+> - (c) in the case of a certified copy of an entry provided under section 64(2) of the 1949 Act[^f00016] or section 31(2) of the 1953 Act[^f00017], either a reference number relating to an index kept by a Superintendent Registrar under section 64(1) of the 1949 Act or section 31(1) of the 1953 Act corresponding to the certified copy for which the application is made, or sufficient information which allows the Superintendent Registrar to establish such a reference number;
+> - (d) in the case of a certified copy of an entry provided by a registrar under section 63(1) of the 1949 Act[^f00018] or section 32 of the 1953 Act[^f00019], sufficient information to enable a registrar to identify an entry in the register of an event registered in that district;
+> - (e) in the case of a certified copy of an entry provided under regulation 13 of the Civil Partnership (Registration Provisions) Regulations 2005[^f00020], either a reference number relating to an index kept by the Registrar General corresponding to the certified copy or certified extract for which the application is made, or sufficient information which allows the Registrar General to establish such a reference number;
+> - (f) in the case of a certified copy of an entry provided under regulation 14 of the Civil Partnership (Registration Provisions) Regulations 2005, either a reference number relating to an index kept by the registration authority corresponding to the certified copy or certified extract for which the application is made, or sufficient information which allows the registration authority to establish such a reference number.
+
+.
+
+(3) In the definition of a “standard service”—
+
+- (a) before paragraph (a) insert—
+
+  > - (a) in the case of a fee that is payable to the Registrar General, a service—
+
+  ;
+- (b) paragraph (a) is renumbered as sub-paragraph (i) and in paragraph (a) sub-paragraphs (i) and (ii) are renumbered respectively as paragraphs (aa) and (bb);
+- (c) paragraph (b) is renumbered as sub-paragraph (ii) and in paragraph (b) sub-paragraphs (i) and (ii) are renumbered respectively as paragraphs (aa) and (bb);
+- (d) after paragraph (a) as so renumbered insert—
+
+  > - (b) in the case of a fee that is payable to a relevant authority—
+  >   - (i) a service provided to a person who makes an application to the relevant authority by giving the relevant information and paying the correct fee by—
+  >     - (aa) attending in person at the relevant local office between 10:00 and 15:00 hours on a working day; or
+  >     - (bb) post, telephone, or electronic means which is received by the relevant authority before 15:00 hours on a working day; and
+  >   - (ii) a service where the document applied for is normally provided
+  >
+  >     on or before the 15th working day after the working day on which such application is made, by sending by second class post or to a person attending at the relevant local office between 10:00 hours and 15:00 hours;
+
+  .
+
+## 5. Insertion of regulations 3B to 3F[^key-080f0a42032ebf6c16a83821366e4da3]
+
+After regulation 3A[^f00021] insert—
+
+> **3B. Offline application fee**
+>
+> (1) Where an application is made to the Registrar General for a relevant service and the application is made by way of offline application, an additional non-refundable fee of £4.00 is payable to the Registrar General.
+>
+> (2) The fee in paragraph (1) is not payable if, at the time of making the application, the online application service is not available.
+>
+> (3) In this regulation—
+>
+> - “offline application” means an application for a service that is not made via the public website known as www.gov.uk;
+> - “online application” means an application for a service that is made via the public website known as www.gov.uk.
+> - “relevant service” means a service as set out in rows 16, 18, 22, 36, 39, 47, 49 and 50 of the table in Schedule 1[^f00022].
+>
+> **3C. Premium postal service fee**
+>
+> (1) Where an application is made to the Registrar General for a copy or other record of any information held by the Registrar General using the priority service the Registrar General may, on request and upon payment of the applicable fee, provide the document by premium postal service and the applicable fee is —
+>
+> - (a) On a working day a fee of £7.25
+> - (b) On a Saturday a fee of £19.25
+> - (c) Overseas a fee of £12.00
+>
+> (2) The fee for the premium postal service is—
+>
+> - (a) payable to the Registrar General;
+> - (b) payable in addition to any other fee payable for provision of that document.
+>
+> (3) In this regulation “premium postal service” means a postal service for which the fee payable to the Registrar General is in addition to the fee payable to the Registrar General for delivery of the same documents by first class post.
+>
+> **3D. General index search fee (no reference provided)**
+>
+> (1) Where an application is made to the Registrar General for a certified copy and the relevant information does not contain the reference from the relevant index kept by the Registrar General, an additional non-refundable fee of £3.00 is payable to the Registrar General to undertake the search of the index on the applicant’s behalf.
+>
+> (2) The fee in regulation 3D(1) is not payable where the relevant index kept by the Registrar General is not available to the public for searching.
+>
+> - (b) “relevant index” means—
+>   - (i) any index kept by the Registrar General in relation to any register of births, deaths, marriages or civil partnerships; or
+>   - (ii) an index kept by the Registrar General pursuant to Regulation 23 of the Marriage of Same Sex Couples (Conversion of Civil Partnership) Regulations 2014[^f00023].
+>
+> **3E. Retained fee**
+>
+> (1) A fee of £3.50 is retained by the Registrar General where an application is made to the Registrar General for a certified copy and the corresponding entry cannot be located from the relevant information provided.
+>
+> **.... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-6801749c70a89855e59e88ef694939be]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Amendment of Schedule 1 (fees payable)[^key-077f60801d0c1bd7c8518863a467b900]
+
+The Schedule (amendments to the table in Schedule 1 to the Fees Regulations) has effect.
+
+## 7. Amendment of the Records Regulations[^key-851eff356b3d17f7e4997d9e52029ce0]
+
+The Records Regulations are amended as follows—
+
+- (a) In regulation 2, in paragraph (3) omit “in accordance with regulation 6”;
+- (b) In regulation 3, in paragraph (3) omit “in accordance with regulation 6”;
+- (c) In regulation 4, in paragraph (3) omit “in accordance with regulation 6”;
+- (d) Omit regulation 6.
+
+Caroline Nokes
+
+Minister of State
+
+Home Office
+
+27th November 2018
+
+## SCHEDULE — Amendments to the table in Schedule 1 to the Fees Regulations
+
+Regulation 6
+
+**1.**[^key-98e006adea2dc425471f4a4cbccdef0e] The table in Schedule 1 to the Fees Regulations (fees payable) is amended as follows.
+
+**2.**[^key-202b87821a5f0c2b6094c79677de70f9] For row 13 substitute—
+
+> <table>
+> <tfoot>
+> <tr><td colspan="5">(1)<br>Section 63 was amended by the Registration of Births, Deaths and Marriages (Fees) Order 1968 (<a href="https://www.legislation.gov.uk/uksi/1968/1242">S.I. 1968/1242</a>), and by paragraph 15 of Schedule 15 to the Immigration Act 2016.</td></tr>
+> </tfoot>
+> <tbody>
+> <tr><td>13.</td><td>Marriage Act 1949<br>section 63</td><td>(a) Standard service for certified copy of entry in a marriage register book obtained from a registrar</td><td>£11.00</td><td>The registrar providing the copy</td></tr>
+> <tr><td></td><td></td><td>(b) Priority service for certified copy of entry in a marriage register book obtained from a registrar</td><td>£35.00</td><td>The registrar providing the copy</td></tr>
+> <tr><td></td><td></td><td>(c ) Certified copy of entry in a marriage register book</td><td>£11.00</td><td>The parochial church council of the parish registering officer of the Society of Friends, secretary of a synagogue, or authorised person with custody of the marriage register book</td></tr>
+> </tbody>
+> </table>
+>
+> [^f01000]
+
+**3.**[^key-d7e40162625ebbdb6fc0936d39fb78ab] In row 15, in column 3 (amount of fee), for “£10.00” substitute “£11.00”.
+
+**4.**[^key-f12d3ff94126bac990bbdf5e8e24721b] In row 16, column 3 –
+
+- (i) For “£9.25” substitute “£11.00”;
+- (ii) For “£23.40” substitute “£35.00”.
+
+**5.**[^key-36d9d09b5b370a053005433cd002258e] In row 18, in column 3—
+
+- (i) for “£9.25” substitute “£11.00”;
+- (ii) for “£23.40” substitute “£35.00”.
+
+**6.**[^key-efabd70bfc1b22cac9bec8011972bb41] For rows 20 to 22 substitute—
+
+> <table>
+> <tfoot>
+> <tr><td colspan="5">(1)<br>Section 33(1) was amended by paragraph 26 of Schedule 15 to the Immigration Act 2016.</td></tr>
+> </tfoot>
+> <tbody>
+> <tr><td>20</td><td>Births and Deaths Registration Act 1953<br>section 31(2)</td><td>(a) Standard service for certified copy of an entry in the register kept by the superintendent registrar</td><td>£11.00</td><td>The superintendent registrar</td></tr>
+> <tr><td></td><td></td><td>(b) Priority service for certified copy of an entry in the register kept by the superintendent registrar</td><td>£35.00</td><td>The superintendent registrar</td></tr>
+> <tr><td>21</td><td>Births and Deaths Registration Act 1953<br>section 32</td><td>(a) Standard service for certified copy of an entry in registers kept by registrars</td><td>£11.00</td><td>The registrar</td></tr>
+> <tr><td></td><td></td><td>(b) Priority service for certified copy of an entry in registers kept by registrars</td><td>£35.00</td><td>The registrar</td></tr>
+> <tr><td>22</td><td>Births and Deaths Registration Act 1953<br>section 33(1)</td><td>(a) Standard service for a short certificate of birth obtained from a registrar or superintendent registrar</td><td>£11.00</td><td>The registrar or superintendent registrar providing the certificate</td></tr>
+> <tr><td></td><td></td><td>(b) Priority service for a short certificate of birth obtained from a registrar or superintendent registrar</td><td>£35.00</td><td>The registrar or superintendent registrar providing the certificate</td></tr>
+> <tr><td></td><td></td><td>(c) Standard service for a short certificate of birth obtained from the Registrar General</td><td>£11.00</td><td>The Registrar General</td></tr>
+> <tr><td></td><td></td><td>(d) Priority service for a short certificate of birth obtained from the Registrar General</td><td>£35.00</td><td>The Registrar General</td></tr>
+> </tbody>
+> </table>
+>
+> [^f01001]
+
+**7.**[^key-0f281e5e3f4d835385033749a66dea9b] For row 36, substitute—
+
+> |  |  |  |  |  |
+> | --- | --- | --- | --- | --- |
+> | 36 | Civil Partnership (Registration Provisions) Regulations 2005 regulation 13(2) | (a) Standard service for a certified copy or certified extract of an entry in the civil partnership register issued by the Registrar General | £11.00 | The Registrar General |
+> |  |  | (b) Priority service for a certified copy or certified extract of an entry in the civil partnership register obtained from the Registrar General | £35.00 | The Registrar General |
+
+**8.**[^key-d92dacae92c3ad804353311f06069cbf] For row 37 substitute—
+
+> |  |  |  |  |  |
+> | --- | --- | --- | --- | --- |
+> | 37\. | Civil Partnership (Registration Provisions) Regulations 2005 regulation 14(2) | (a) Standard service for a certified copy or a certified extract of an entry in the civil partnership register issued by a registration authority | £11.00 | The registration authority |
+> |  |  | (b) Priority service for a certified copy or certified extract of an entry in the conversion register issued by a registration authority | £35.00 | The registration authority |
+
+**9.**[^key-50c432034ae3a818db1acc58cf547b63] In row 39, in column 3, for “£9.25” substitute “£11.00”.
+
+**10.**[^key-ba0d33e1fe4ad7153095935aa4f8344c] Omit row 46.
+
+**11.**[^key-9749e245fc00fa63c2a893a5b0427272] For row 47 substitute—
+
+> |  |  |  |  |  |
+> | --- | --- | --- | --- | --- |
+> | 47\. | The Marriage of Same Sex Couples (Conversion of Civil Partnership) Regulations 2014 regulation 23(2) | (a) Standard service for a certified copy of an entry relating to a marriage in the conversion register issued by the Registrar General | £11.00 | The Registrar General |
+> |  |  | (b) Priority service for a certified copy of an entry relating to a marriage in the conversion register issued by the Registrar General | £35.00 | The Registrar General |
+
+**12.**[^key-130e08755232749adeb0a62c571d73b3] For row 48 substitute—
+
+> <table>
+> <tfoot>
+> <tr><td colspan="5">(1)<br>Regulation 24(2) was amended by <a href="https://www.legislation.gov.uk/uksi/2016/911">S.I. 2016/911</a>.</td></tr>
+> </tfoot>
+> <tbody>
+> <tr><td>48.</td><td>The Marriage of Same Sex Couples (Conversion of Civil Partnership) Regulations 2014 regulation 24(2)</td><td>(a) Standard service for a certified copy of an entry relating to a marriage in the conversion register issued by the superintendent registrar</td><td>£11.00</td><td>The superintendent registrar</td></tr>
+> <tr><td></td><td></td><td>(b) Priority service for a certified copy of an entry relating to a marriage in the conversion register issued by the superintendent registrar</td><td>£35.00</td><td>The superintendent registrar</td></tr>
+> </tbody>
+> </table>
+>
+> [^f01002]
+
+**13.**[^key-c1d89329d6493b80202852ede06615fe] After row 48, insert—
+
+> <table>
+> <tfoot>
+> <tr><td colspan="5">(1)<br><a href="https://www.legislation.gov.uk/uksi/2015/50">S.I. 2015/50</a>.</td></tr>
+> <tr><td colspan="5">(2)<br><a href="https://www.legislation.gov.uk/uksi/2016/980">S.I. 2016/980</a>. Regulation 6 previously prescribed the fees for provision of portable document format copies of records held by the Registrar General and was revoked and re-enacted in these Regulations.</td></tr>
+> </tfoot>
+> <tbody>
+> <tr><td>49</td><td>The Gender Recognition Register (Marriage and Civil Partnership) Regulations 2015<br>regulation 13</td><td>(a) Standard service for a certified copy of an entry made in Gender Recognition Marriage Register</td><td>£11.00</td><td>The Registrar General</td></tr>
+> <tr><td></td><td></td><td>(b) Priority service for a certified copy of an entry made in Gender Recognition Marriage Register</td><td>£35.00</td><td>The Registrar General</td></tr>
+> <tr><td>50</td><td>The Gender Recognition Register (Marriage and Civil Partnership) Regulations 2015<br>regulation 18</td><td>(a) Standard service for a certified copy of an entry made in the Gender Recognition Civil Partnership Register</td><td>£11.00</td><td>The Registrar General</td></tr>
+> <tr><td></td><td></td><td>(b) Priority service for a certified copy of an entry made in the Gender Recognition Civil Partnership Register</td><td>£35.00</td><td>The Registrar General</td></tr>
+> <tr><td>51</td><td>Births, Deaths, Marriages and Civil Partnerships Records Regulations 2016<br>regulations 2, 3 and 4</td><td>(a) Where the entry is a copy of a record (in portable document format) which is held in a digital format—</td><td></td><td></td></tr>
+> <tr><td></td><td></td><td>(i) standard service for a copy of a record, in portable document format, of the information contained in the Registrar General’s certified copies of entries in the birth register, the death register, the marriage register and copies of entries in the conversion of civil partnerships register</td><td>£7.00</td><td>The Registrar General</td></tr>
+> <tr><td></td><td></td><td>(ii) expedited service for a copy of a record, in portable document format,<br>of the information contained in the Registrar General’s certified copies of entries in the birth register, the death register, the marriage register and copies of entries in the conversion register and the civil partnership register</td><td>£45.00</td><td>The Registrar General</td></tr>
+> <tr><td></td><td></td><td>(b) Where the information is held in a non-digital format—</td><td></td><td></td></tr>
+> <tr><td></td><td></td><td>(i) standard service for a copy of a record, in portable document format,<br>of the information contained in the Registrar General’s certified copies of entries in the birth register, the death register, the marriage register and copies of entries in the conversion register</td><td>£8.00</td><td>The Registrar General</td></tr>
+> <tr><td></td><td></td><td>(ii) expedited service for a copy of a record, in portable document format,<br>of the information contained in the Registrar General’s certified copies of entries in the birth register, the death register, the marriage register and copies of entries in the conversion of civil partnerships register</td><td>£45.00</td><td>The Registrar General</td></tr>
+> <tr><td>52</td><td>The Civil Partnerships Records Regulations 2016 regulation 2</td><td>(a) Standard service for a copy of an entry in portable document format of the information contained in the civil partnership register</td><td>£7.00</td><td>The Registrar General</td></tr>
+> <tr><td></td><td></td><td>(b) Expedited service for a copy of an entry in portable document format in the civil partnership register</td><td>£45.00</td><td>The Registrar General</td></tr>
+> </tbody>
+> </table>
+>
+> [^f01003][^f01004]
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 ([S.I. 2016/911](https://www.legislation.gov.uk/uksi/2016/911)) (“the Fees Regulations”) and the Births, Deaths, Marriages and Civil Partnerships Records Regulations 2016 ([S.I. 2016/980](https://www.legislation.gov.uk/uksi/2016/980)). (“The Records Regulations”).
+
+Schedule 1 increase fees prescribed by the Fees Regulations and introduce two different levels of fee and service for certain services offered by the Registrar General and local registration services.
+
+Schedule 1 also introduce new fees for specified registration services and moves fees currently prescribed by the Records Regulations to the Fees Regulations.
+
+A new fee is also introduced for circumstances where an applicant for a service provided by the Registrar General fails to include an index reference with their application.
+
+The Fees Regulations are also amended to include a postal fee where a document is requested to be sent by premium postal service for delivery on a specific day.
+
+The insertion of section 3F into the Fees Regulations implements Regulation (EU) 2016/1191 of the European Parliament and of the Council of 6 July 2016 on promoting the free movement of citizens by simplifying the requirements for presenting certain public documents in the European Union and amending Regulation (EU) No 1024/2012 (“the Simplification Regulation”). It implements the Simplification Regulation, as regards civil registration in England and Wales, by enabling the Registrar General to issue multilingual standard forms in accordance with Article 7 of the Simplification Regulation for records that they hold.
+
+A full impact assessment of the effect that this instrument will have on the cost of business, the voluntary sector and the public sector is available from www.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2018/1062](https://www.legislation.gov.uk/uksi/2018/1062).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: Section 71A was inserted by paragraph 1 of Schedule 15 to the Immigration Act [2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19).
+
+[^f00004]: Footnote: Section 74(3) was inserted by paragraphs 1 and 15 of Schedule 4 to the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22)
+
+[^f00005]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76).
+
+[^f00006]: Footnote: Section 38A was inserted by paragraph 2 of Schedule 15 to the Immigration Act 2016; section 41(1) of the Births and Deaths Registration Act [1953 (c. 20)](https://www.legislation.gov.uk/ukpga/1953/20) provides that in that Act, “the Minister” means the Secretary of State.
+
+[^f00007]: Footnote: Section 39A was inserted by paragraphs 1 and 17 of Schedule 6 to the Welfare Reform Act [2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24). Sub-sections (1), (2) and (5) have been amended by paragraphs 21 and 30 of Schedule 15 to, the Immigration Act 2016. Sub-section (5) has also been amended by section 98(1) and (4) of the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
+
+[^f00008]: Footnote: [1953 c. 20](https://www.legislation.gov.uk/ukpga/1953/20).
+
+[^f00009]: Footnote: [1953 c. 37](https://www.legislation.gov.uk/ukpga/1953/37). Section 19B was inserted by paragraph 3 of Schedule 15 to the Immigration Act 2016.
+
+[^f00010]: Footnote: Section 34 was amended by paragraph 4 of Schedule 15 to the Immigration Act 2016 and [S.I. 2005/2000](https://www.legislation.gov.uk/uksi/2005/2000) and [2008/678](https://www.legislation.gov.uk/uksi/2008/678).
+
+[^f00011]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^f00012]: Footnote: Section 9 was amended by section 99(1) and (3) of the Deregulation Act 2015 and by paragraph 5 of Schedule 15 to the Immigration Act 2016.
+
+[^f00013]: Footnote: [2013 c. 30](https://www.legislation.gov.uk/ukpga/2013/30).
+
+[^key-6f66309d5bb6835919a6bbb44e0a0095]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^key-c49f5b02575697d491258dd501125582]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1268/regulation/2) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^f00014]: Footnote: [S.I. 2016/911](https://www.legislation.gov.uk/uksi/2016/911).
+
+[^f00015]: Footnote: [S.I. 2016/980](https://www.legislation.gov.uk/uksi/2016/980).
+
+[^key-08dffa6726000fef5486515d0041cfe0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1268/regulation/3) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^key-bcc8fc4d998bb839ff4a6cadcb483745]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1268/regulation/4) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^f00016]: Footnote: Section 64(2) was amended by paragraph 14(a) of Schedule 1 to the Registration Service Act 1953, and by paragraph 16 of Schedule 15 to the Immigration Act 2016.
+
+[^f00017]: Footnote: Section 31(2) was amended by paragraph 24 of Schedule 15 to the Immigration Act 2016.
+
+[^f00018]: Footnote: Section 63(1) was amended by paragraph 15 of Schedule 15 to the Immigration Act 2016 and [S.I. 1968/1242](https://www.legislation.gov.uk/uksi/1968/1242).
+
+[^f00019]: Footnote: Section 32 was amended by paragraph 25 of Schedule 15 to the Immigration Act 2016 and [S.I. 1968/1242](https://www.legislation.gov.uk/uksi/1968/1242)).
+
+[^f00020]: Footnote: [S.I. 2005/3176](https://www.legislation.gov.uk/uksi/2005/3176).
+
+[^key-080f0a42032ebf6c16a83821366e4da3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1268/regulation/5) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^f00021]: Footnote: Regulation 3A was inserted by [S.I. 2017/947](https://www.legislation.gov.uk/uksi/2017/947).
+
+[^f00022]: Footnote: Row 22 was amended by ([S.I. 2017/947](https://www.legislation.gov.uk/uksi/2017/947).
+
+[^f00023]: Footnote: [S.I. 2014/3181](https://www.legislation.gov.uk/uksi/2014/3181). Regulation 23 was amended by [S.I. 2016/911](https://www.legislation.gov.uk/uksi/2016/911).
+
+[^key-6801749c70a89855e59e88ef694939be]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2018/1268/regulation/5) revoked (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+
+[^key-077f60801d0c1bd7c8518863a467b900]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/1268/regulation/6) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^key-851eff356b3d17f7e4997d9e52029ce0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/1268/regulation/7) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^key-98e006adea2dc425471f4a4cbccdef0e]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/1) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^key-202b87821a5f0c2b6094c79677de70f9]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/2) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^f01000]: Footnote: (1)
+
+    Section 63 was amended by the Registration of Births, Deaths and Marriages (Fees) Order 1968 ([S.I. 1968/1242](https://www.legislation.gov.uk/uksi/1968/1242)), and by paragraph 15 of Schedule 15 to the Immigration Act 2016.
+
+[^key-d7e40162625ebbdb6fc0936d39fb78ab]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/3) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^key-f12d3ff94126bac990bbdf5e8e24721b]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/4) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^key-36d9d09b5b370a053005433cd002258e]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/5) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^key-efabd70bfc1b22cac9bec8011972bb41]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/6) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^f01001]: Footnote: (1)
+
+    Section 33(1) was amended by paragraph 26 of Schedule 15 to the Immigration Act 2016.
+
+[^key-0f281e5e3f4d835385033749a66dea9b]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/7) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^key-d92dacae92c3ad804353311f06069cbf]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/8) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^key-50c432034ae3a818db1acc58cf547b63]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/9) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^key-ba0d33e1fe4ad7153095935aa4f8344c]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/10) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^key-9749e245fc00fa63c2a893a5b0427272]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/11) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^key-130e08755232749adeb0a62c571d73b3]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/12) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^f01002]: Footnote: (1)
+
+    Regulation 24(2) was amended by [S.I. 2016/911](https://www.legislation.gov.uk/uksi/2016/911).
+
+[^key-c1d89329d6493b80202852ede06615fe]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2018/1268/schedule/paragraph/13) in force at 16.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1268/regulation/1/2)
+
+[^f01003]: Footnote: (1)
+
+    [S.I. 2015/50](https://www.legislation.gov.uk/uksi/2015/50).
+
+[^f01004]: Footnote: (2)
+
+    [S.I. 2016/980](https://www.legislation.gov.uk/uksi/2016/980). Regulation 6 previously prescribed the fees for provision of portable document format copies of records held by the Registrar General and was revoked and re-enacted in these Regulations.

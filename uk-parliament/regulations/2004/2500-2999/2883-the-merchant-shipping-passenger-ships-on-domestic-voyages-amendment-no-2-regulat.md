@@ -1,0 +1,204 @@
+---
+title: The Merchant Shipping (Passenger Ships on Domestic Voyages) (Amendment) (No. 2) Regulations 2004
+id: uksi/2004/2883
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-11-01'
+text_date: '2022-12-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2004/2883
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/2883/pdfs/uksiem_20042883_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/2883/pdfs/uksi_20042883_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/2883/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping (Passenger Ships on Domestic Voyages) (Amendment) (No. 2) Regulations 2004
+
+> Text as at 2022-12-19.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2004 No. 2883
+
+MERCHANT SHIPPING
+
+SAFETY
+
+The Merchant Shipping (Passenger Ships on Domestic Voyages) (Amendment) (No. 2) Regulations 2004
+
+Made
+
+1st November 2004
+
+Laid before Parliament
+
+5th November 2004
+
+Coming into force
+
+29th November 2004
+
+The Secretary of State for Transport, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], in exercise of the powers conferred by sections 85(1)(a) and (b), (3) and (5) to (7) and section 86(1) of that Act[^f00002] hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-387b9c710bce9c9cc0c2eb44ecbe5cc0]
+
+(1) These Regulations may be cited as the Merchant Shipping (Passenger Ships on Domestic Voyages) (Amendment) (No. 2) Regulations 2004 and shall come into force on 29th November 2004.
+
+(2) In these Regulations, “the principal Regulations” means the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^f00003].
+
+## 2. Amendment of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^key-bfe6178b28b2737811a3ff19e109eba9]
+
+(1) In regulation 2(1) (Interpretation) of the principal Regulations:
+
+- (a) after paragraph (c) in the definition of “the Directive” there shall be inserted:
+
+  > and
+  >
+  > - (d) Directive [2003/24/EC](https://www.legislation.gov.uk/european/directive/2003/0024) of the European Parliament and of the Council of 14th April 2003 amending Council Directive [98/18/EC](https://www.legislation.gov.uk/european/directive/1998/0018) on safety rules and standards for passenger ships[^f00004],
+
+  , and
+- (b) after the definition of “the Directive” there shall be inserted the following definition:
+
+  > - “Directive [2003/25/EC](https://www.legislation.gov.uk/european/directive/2003/0025)” means Directive [2003/25/EC](https://www.legislation.gov.uk/european/directive/2003/0025) of the European Parliament and of the Council of 14th April 2003 on specific stability requirements for ro-ro passenger ships[^f00005],
+
+  .
+
+(2) In regulation 3 of the principal Regulations, for paragraph (2) there shall be substituted:
+
+> (2) For the purposes of the classification of vessels in accordance with the criteria set out in paragraph (1) above, the Secretary of State shall:
+>
+> - (a) establish, and update when necessary, a list of sea areas under United Kingdom jurisdiction which includes the limits of zones for all year round operation and, where appropriate, for restricted periodical operation, and
+> - (b) publish that list in its updated version in a Merchant Shipping Notice and in a public database available on the Internet site of the Maritime and Coastguard Agency.
+
+.
+
+(3) For regulation 6(1) of the principal Regulations, there shall be substituted:
+
+> (1) Subject to paragraph (1B) below, a ship to which these Regulations apply shall comply with the safety requirements specified in the Directive in relation to a ship of its class.
+
+.
+
+(4) After regulation 6(1A) of the principal Regulations[^f00006], there shall be inserted:
+
+> (1B) A ship of Class A or B the keel of which is laid or which is at a similar stage of construction before 1st October 2004:
+>
+> - (a) need not comply with the safety requirements contained in Articles 6, 8 and 9 of Directive [2003/25/EC](https://www.legislation.gov.uk/european/directive/2003/0025), and
+> - (b) if it does not meet those requirements by 1st October 2010, must cease to operate as a passenger ship on 1st October 2015 or, if earlier, on the date on or after 1st October 2010 on which it reaches the age of 30 years.
+
+.
+
+(5) After regulation 6(2) of the principal Regulations, there shall be inserted the following:
+
+> (2A) In complying with paragraph (1) above a ship used for public transport:
+>
+> - (a) the keel of which was laid or which was at a similar stage of construction on or after 1st October 2004 shall, where practicable, be constructed and equipped, and display signs, based on the guidelines in Annex III to the Directive,
+> - (b) the keel of which was laid or which was at a similar stage of construction before 1st October 2004 shall, if undergoing modification, be constructed and equipped as respects that modification, and display signs as respects that modification, based on the guidelines in Annex III to the directive as far as is reasonable and practicable in economic terms.
+
+.
+
+(6) After regulation 7 of the principal Regulations, there shall be inserted the following:
+
+> **7A. Stability requirements for ro-ro passenger ships**
+>
+> (1) Subject to regulation 7B(2), a ro-ro passenger ship of Class A or B, and a ro-ro passenger ship of Class C the keel of which is laid or which is at a similar stage of construction on or after 1st October 2004, shall carry a certificate, issued as respects a United Kingdom ship by the Secretary of State and as respects any other ship by the administration of the EEA State or third country whose flag it flies, which:
+>
+> - (a) confirms that the ship complies with Article 4 of and Annex I to Directive [2003/25/EC](https://www.legislation.gov.uk/european/directive/2003/0025), taking into account in such compliance the guidelines set out in Annex II to Directive [2003/25/EC](https://www.legislation.gov.uk/european/directive/2003/0025) in so far as those guidelines are practicable and compatible with the design of that ship, and
+> - (b) indicates the highest value of significant wave height up to which the ship satisfies the requirements of Article 4 of and Annex I to Directive [2003/25/EC](https://www.legislation.gov.uk/european/directive/2003/0025).
+>
+> (2) A ship to which paragraph (1) applies shall not operate in a sea area with a higher value of significant wave height than that shown on its certificate.
+>
+> **7B. Seasonal and short-time period operation**
+>
+> (1) Where the operator of a regular service which operates throughout the year wishes to introduce an additional ro-ro passenger ship to which regulation 7A applies onto that service for a period of less than one year, that operator shall give the Secretary of State at least one month’s notice of the proposed operation of the ship.
+>
+> (2) Where:
+>
+> - (a) a ro-ro passenger ship to which regulation 7A applies is being introduced onto a regular service which operates throughout the year following unforeseen circumstances and in order to ensure continuity of service, and
+> - (b) that ship complies with the requirements of the Merchant Shipping (Mandatory Surveys for Ro-Ro Ferry and High Speed Passenger Craft) Regulations 2001[^f00007],
+>
+> that ship need not comply with the requirements of regulation 7A, and notice of the proposed operation of that ship is not required in accordance with paragraph (1) above.
+>
+> (3) The operator of a regular service which operates seasonally for a period not exceeding six months in an annual period shall give the Secretary of State three month’s notice of the proposed operation of a ro-ro passenger ship to which regulation 7A applies on the service.
+>
+> (4) Where a regular service which operates seasonally for a period not exceeding six months in an annual period operates under conditions of lower significant wave height than those established for year round operation in Merchant Shipping Notice 1790, the significant wave height value applicable for this shorter time period may be used for determining the height of water on the deck of a ro-ro passenger ship to which regulation 7A applies when applying the stability requirements contained in Article 4 of and Annex I to Directive [2003/25/EC](https://www.legislation.gov.uk/european/directive/2003/0025).
+
+.
+
+(7) In regulation 9 of the principal Regulations (penalties):
+
+- (a) in paragraph (1), after the words “these Regulations” there shall be inserted the words “other than regulation 7B”, and
+- (b) after paragraph (1) there shall be inserted the following paragraph:
+
+  > (1A) Any contravention of regulation 7B(1) or (3) of these Regulations by the operator of a regular service shall be an offence by that operator punishable on summary conviction by a fine not exceeding the statutory maximum, and on conviction on indictment by imprisonment for a term not exceeding two years, or a fine, or both.
+
+  .
+
+## 3. Amendment of the Survey and Certification Regulations[^key-09ab8b617b27de37838fb26565583c2d]
+
+The Merchant Shipping (Survey and Certification) Regulations 1995[^f00008] shall be amended by the insertion in regulation 1(2), at the end of the definition of “the Directive”[^f00009], of the words “and by Directive [2003/24/EC](https://www.legislation.gov.uk/european/directive/2003/0024) of the European Parliament and of the Council of 14th April 2003 amending Council Directive [98/18/EC](https://www.legislation.gov.uk/european/directive/1998/0018) on safety rules and standards for passenger ships[^f00010]”.
+
+## 4. Amendment of the High Speed Craft Regulations[^key-846934283b55100e2fd90b8fc8413b63]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State
+
+David Jamieson
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+1st November 2004
+
+(This note is not part of the Regulations)
+
+These Regulations implement Directive [2003/24/EC](https://www.legislation.gov.uk/european/directive/2003/0024) of the European Parliament and of the Council of 14th April 2003 amending Council Directive [98/18/EC](https://www.legislation.gov.uk/european/directive/1998/0018) on safety rules and standards for passenger ships (O.J. L 123, 17.05.2003, p. 18). They implement the Directive by inserting the necessary provisions into the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (S.I. [2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), amended by S.I. [2003/771](https://www.legislation.gov.uk/uksi/2003/771), S.I. [2004/302](https://www.legislation.gov.uk/uksi/2004/302)) and S.I. [2004/1107](https://www.legislation.gov.uk/uksi/2004/1107). The requirements of Directive [2003/24/EC](https://www.legislation.gov.uk/european/directive/2003/0024) as so implemented include requirements of Directive [2003/25/EC](https://www.legislation.gov.uk/european/directive/2003/0025) of the European Parliament and of the Council of 14th April 2003 on specific stability requirements for ro-ro passenger ships (O.J. L 123, 17.05.2003, p. 22).
+
+The amendments made by these Regulations relate to stability requirements for and phasing-out of certain ro-ro passenger ships, and to safety requirements for persons with reduced mobility.
+
+Through the insertion of Article 6a into Directive [1998/18/EC](https://www.legislation.gov.uk/european/directive/1998/0018), implemented in these Regulations by inserting regulation 7A into the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000, the Directive extends to domestic ro-ro passenger ships of Classes A, B and C the construction of which begins after 1st October 2004 the stability requirements of Directive [2003/25/EC](https://www.legislation.gov.uk/european/directive/2003/0025), which are also the stability requirements of the International Agreement concluded in Stockholm on 27th to 28th February 1996 and entitled “Agreement Concerning Specific Stability Requirements for Ro-Ro Passenger Ships Undertaking Regular Scheduled International Voyages Between or to or from Designated Ports in North West Europe and the Baltic Sea” (see in particular regulation 2(6)).
+
+Regulations 3 and 4 make consequential amendments to the Merchant Shipping (Survey and Certification Regulations) 1995 (S.I. [1995/1210](https://www.legislation.gov.uk/uksi/1995/1210)) and the Merchant Shipping (High Speed Craft) Regulations 2004 (S.I. [2004/302](https://www.legislation.gov.uk/uksi/2004/302)).
+
+A Regulatory Impact Assessment and Transposition Note have been prepared and copies can be obtained from the Maritime and Coastguard Agency, Spring Place, 105 Commercial Road, Southampton, SO15 1EG. Copies have been placed in the library of each House of Parliament.
+
+Merchant Shipping Notices can be read or downloaded free from the Maritime and Coastguard Agency website (www.mcga.gov.uk). Printed copies can be obtained from Mail Marketing (Scotland) Ltd, Unit 6 Bloomsgrove Industrial Estate, Norton Street, Nottingham, NG7 3JG (telephone 0115 901 3336).
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^f00002]: Footnote: Sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1998 (c. 28)](https://www.legislation.gov.uk/ukpga/1998/28), section 8, and are applied to hovercraft by the Hovercraft (Application of Enactments) Order 1989 (S.I. [1989/1350](https://www.legislation.gov.uk/uksi/1989/1350)).
+
+[^key-387b9c710bce9c9cc0c2eb44ecbe5cc0]: Commencement: Reg. 1 in force at 29.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1)
+
+[^f00003]: Footnote: S.I. [2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), amended by S.I. [2003/771](https://www.legislation.gov.uk/uksi/2003/771), S.I. [2004/302](https://www.legislation.gov.uk/uksi/2004/302) and S.I. [2004/1107](https://www.legislation.gov.uk/uksi/2004/1107).
+
+[^key-bfe6178b28b2737811a3ff19e109eba9]: Commencement: Reg. 2 in force at 29.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1)
+
+[^f00004]: Footnote: O.J. L 123, 17.05.2003, p. 18.
+
+[^f00005]: Footnote: O.J. L 123, 17.05.2003, p. 22.
+
+[^f00006]: Footnote: Regulation 6(1A) was inserted by S.I. [2003/771](https://www.legislation.gov.uk/uksi/2003/771), regulation 2(3).
+
+[^f00007]: Footnote: S.I. [2001/152](https://www.legislation.gov.uk/uksi/2001/152).
+
+[^key-09ab8b617b27de37838fb26565583c2d]: Commencement: Reg. 3 in force at 29.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1)
+
+[^f00008]: Footnote: S.I. [1995/1210](https://www.legislation.gov.uk/uksi/1995/1210), amended by S.I. [1996/2418](https://www.legislation.gov.uk/uksi/1996/2418), S.I. [2000/1334](https://www.legislation.gov.uk/uksi/2000/1334), S.I. [2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), S.I. [2003/771](https://www.legislation.gov.uk/uksi/2003/771), S.I. [2004/302](https://www.legislation.gov.uk/uksi/2004/302) and S.I. [2004/1107](https://www.legislation.gov.uk/uksi/2004/1107).
+
+[^f00009]: Footnote: Inserted by paragraph 7 of the Schedule to S.I. [2000/2678](https://www.legislation.gov.uk/uksi/2000/2678) and amended by regulation 3 of S.I. [2003/771](https://www.legislation.gov.uk/uksi/2003/771) and regulation 2 of S.I. [2004/1107](https://www.legislation.gov.uk/uksi/2004/1107).
+
+[^f00010]: Footnote: O.J. L 123, 17.05.2003, p. 18.
+
+[^key-846934283b55100e2fd90b8fc8413b63]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2004/2883/regulation/4) revoked (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/1219/schedule/part/2) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))

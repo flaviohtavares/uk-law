@@ -1,0 +1,69 @@
+---
+title: Caravan Sites and Control of Development Act 1960, section 12C
+act: Caravan Sites and Control of Development Act 1960
+section: 12C
+status: revised-with-pending-changes
+text_date: '2026-04-28'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/Eliz2/8-9/62/section/12C
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Caravan Sites and Control of Development Act 1960, section 12C
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/8-9/62
+>
+> Extent: England, Wales, Scotland.
+
+## 12C. Application for inclusion in register[^key-557e0b6140ae6e22b58b787b21f3f609]
+
+*Extent: E+W+S*
+
+(1) The Secretary of State may by regulations provide that, on an application by the occupier for the inclusion of the occupier or of a person appointed by the occupier in a register established by virtue of section 12A (a “registration application”), a local authority may—
+
+- (a) grant the application unconditionally,
+- (b) grant the application subject to conditions, or
+- (c) reject the application.
+
+(2) The regulations may—
+
+- (a) make provision as to the matters to be included in a registration application and the period within which it may be made;
+- (b) provide that the application must be accompanied by such fee as the local authority may fix;
+- (c) require the local authority to publish in such manner as may be prescribed details of such fees as they fix from time to time by virtue of paragraph (b).
+
+(3) The regulations may—
+
+- (a) provide that the conditions which may be imposed by virtue of subsection (1)(b) may include conditions requiring additional payments to be made to the local authority by way of annual fee, and
+- (b) give the local authority power to decide the amount and frequency of the payments.
+
+(4) The regulations may require a local authority, in considering a registration application, to have regard to such matters as may be prescribed.
+
+(5) The regulations may require a local authority, where they have made a preliminary decision on a registration application—
+
+- (a) to notify the occupier of the preliminary decision and the reasons for it, and
+- (b) if the occupier makes representations within such period as may be prescribed, to take the representations into account before making the final decision on the application.
+
+(6) The regulations may require a local authority, where they have made a final decision on a registration application—
+
+- (a) to decide when the decision is to take effect, and
+- (b) to notify the occupier of the final decision, the reasons for it, when it is to take effect and such right of appeal as may be conferred by virtue of subsection (7).
+
+(7) The regulations may—
+
+- (a) confer a right of appeal to the tribunal against a final decision on a registration application;
+- (b) provide that no compensation may be claimed for loss suffered in consequence of the decision pending the outcome of the appeal.
+
+(8) The regulations may provide that a register established by virtue of the regulations must—
+
+- (a) where a registration application is granted subject to conditions, specify the conditions;
+- (b) where the application is rejected, include prescribed information about the application.
+
+(9) The regulations may create a summary offence relating to—
+
+- (a) the withholding of information from, or the inclusion of false or misleading information in, a registration application;
+- (b) a failure to comply with a condition subject to which a registration application is granted.
+
+## Annotations
+
+[^key-557e0b6140ae6e22b58b787b21f3f609]: Textual amendment: Ss. 12A-12E and cross-heading inserted (15.6.2020) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 8](https://www.legislation.gov.uk/ukpga/2013/14/section/8), [15(2)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/2) (as amended by [S.I. 2014/1900](https://www.legislation.gov.uk/uksi/2014/1900), Sch. 1 para. 17); [S.I. 2020/565](https://www.legislation.gov.uk/uksi/2020/565), [art. 2](https://www.legislation.gov.uk/uksi/2020/565/article/2)

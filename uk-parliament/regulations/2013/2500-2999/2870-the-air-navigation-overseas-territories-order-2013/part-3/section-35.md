@@ -1,0 +1,53 @@
+---
+title: The Air Navigation (Overseas Territories) Order 2013, section 35
+act: The Air Navigation (Overseas Territories) Order 2013
+section: '35'
+status: revised
+text_date: '2024-04-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/2870/section/35
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Air Navigation (Overseas Territories) Order 2013, section 35
+
+> Text as at 2024-04-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 35. Equipment of aircraft[^key-e64bccfa083d9eec649109a510f95048]
+
+*Extent: E+W+S+N.I.*
+
+(1) An aircraft must not fly unless it is equipped so as to—
+
+- (a) comply with the law of the country in which it is registered or of the State of the operator;
+- (b) enable lights and markings to be displayed; and
+- (c) enable signals to be made;
+
+in accordance with this Order and any regulations made under it.
+
+(2) In the case of any aircraft registered in the Territory the equipment to be provided (in addition to any other equipment required by or under this Order) must—
+
+- (a) comply with instructions given by the Governor under article 74(1)(c)[^key-22273f51e8dec9e6abad9ebd41f2b571] or with the specified requirements as applicable to the purpose and the circumstances of the flight;
+- (b) be of a type approved by the Governor either generally or in relation to a class of aircraft or in relation to that aircraft; and
+- (c) be installed in a manner approved by the Governor.
+
+(3) In any particular case or class of cases the Governor may give instructions that an aircraft registered in the Territory must carry such additional equipment or supplies (including radio equipment) as may be specified for the purpose of—
+
+- (a) facilitating the navigation of the aircraft;
+- (b) the carrying out of search and rescue operations; or
+- (c) securing the safety and the survival of the persons carried in the aircraft.
+
+(4) The equipment carried or to be carried under this article must be installed or stowed, and kept stowed, and maintained and adjusted so as to be readily accessible and capable of being used by the person or persons for whose use it is intended.
+
+(5) The position of equipment provided for emergency use must be indicated by clear markings in or on the aircraft.
+
+(6) All equipment installed or carried in an aircraft, whether or not in compliance with this article, must be installed or stowed and maintained and adjusted so as not to be a source of danger in itself or to impair the airworthiness of the aircraft or the proper functioning of any equipment or services necessary for the safety of the aircraft.
+
+## Annotations
+
+[^key-e64bccfa083d9eec649109a510f95048]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2013/2870/article/35) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+
+[^key-22273f51e8dec9e6abad9ebd41f2b571]: Textual amendment: Word in [art. 35(2)(a)](https://www.legislation.gov.uk/uksi/2013/2870/article/35/2/a) substituted (1.4.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2014/2925/article/12/2)

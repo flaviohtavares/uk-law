@@ -1,0 +1,995 @@
+---
+title: The Small and Medium Sized Business (Credit Information) Regulations 2015
+id: uksi/2015/1945
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-11-26'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/1945
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/1945/pdfs/uksiem_20151945_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1945/pdfs/uksi_20151945_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1945/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Small and Medium Sized Business (Credit Information) Regulations 2015
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 1945
+
+Financial Services And Markets
+
+The Small and Medium Sized Business (Credit Information) Regulations 2015
+
+Made
+
+26th November 2015
+
+Coming into force
+
+1st January 2016
+
+The Treasury make these Regulations in exercise of the powers conferred by sections 4, 6(1) to (8), 7(1) and (2), 28(2) and 161(2) of the Small Business, Enterprise and Employment Act 2015 [^c22695071].
+
+A draft of these Regulations has been laid before and approved by resolution of each House of Parliament in accordance with sections 6(10) and 161(4) of that Act.
+
+## PART 1 — Introductory provisions
+
+### 1. Citation and commencement
+
+(1) These Regulations may be cited as the Small and Medium Sized Business (Credit Information) Regulations 2015.
+
+(2) These Regulations come into force on 1st January 2016.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 2000 Act**” means the Financial Services and Markets Act 2000 [^c22695081];
+- “**credit information**” means information, about a business, of a type specified in the Schedule;
+- “**designated firm**” means a designated bank or a designated credit reference agency;
+- “**the FCA**” means the Financial Conduct Authority;
+- “**group**” means a group as defined in section 474 of the Companies Act 2006 [^c22695091]
+- “**the PRA**” means the Prudential Regulation Authority;
+- “**relevant requirement**” means a requirement on a designated bank under regulation 3 or regulation 5, a requirement on a designated credit reference agency under regulation 6 or 7, or any requirement or prohibition on a person other than the FCA imposed by or under Part 5 or Part 6;
+- “**small or medium sized business**” means a business of the type described in section 7(1) of the Small Business, Enterprise and Employment Act 2015, which—
+  - (a) has an address in the United Kingdom,
+  - (b) carries out commercial activities as its principal activity,
+  - (c) is not part of a group which as a whole has an annual turnover which is equal to or greater than £25 million;
+- “**subsidiary**” means a subsidiary as defined in section 1159 of the Companies Act 2006.
+
+(2) In these Regulations a reference to a finance provider does not include a reference to a finance provider that provides credit only by providing goods or services before payment of part or all of the amount to be paid for such goods or services.
+
+## PART 2 — Provision of credit information about small and medium sized businesses by banks and credit reference agencies
+
+### 3. Designated banks to provide information to designated credit reference agencies
+
+(1) A designated bank must provide credit information that it holds about each customer of the bank which is a small or medium sized business to a designated credit reference agency if—
+
+- (a) the credit reference agency has requested that the bank provide the information;
+- (b) the request meets the requirements set out in regulation 4;
+
+(2) But paragraph (1) does not require a bank to provide information about a customer who has not agreed to information being provided about it to the credit reference agency (see regulation 5).
+
+(3) The bank must provide the information within a period of 30 days starting with the day on which the bank received the request.
+
+(4) The bank must provide an update to the information in each month following the month in which the information was first provided, unless the credit reference agency has informed the bank in writing that it no longer requires such updates.
+
+(5) Such update—
+
+- (a) need not include updated information relating to—
+  - (i) a customer of the bank which has ceased to be a small or medium sized business; or
+  - (ii) a former customer of the bank;
+- (b) must identify any customer or former customer in respect of which updated information is not provided reliant upon sub-paragraph (a), and in each case state whether such reliance is placed upon sub-paragraph (a)(i) or (a)(ii);
+- (c) must include information about any customer of the bank which is a small or medium sized business about which information has not previously been provided, if the customer has agreed to the information being provided to the credit reference agency (see regulation 5).
+
+(6) The bank must provide the information and updates to the information—
+
+- (a) in a form agreed between the bank and the credit reference agency; or
+- (b) if there is no such agreement, electronically in a format which may be accessed using software commonly used to access financial information about businesses.
+
+(7) When first providing information to each designated credit reference agency the bank must provide such information falling within paragraph 3 of the Schedule as it holds in relation to a period of six months ending on the date on which the bank provides the information.
+
+### 4. Requests for information by credit reference agencies
+
+(1) A request under regulation 3(1)(a) must be made—
+
+- (a) in writing; and
+- (b) to the person identified by the bank to the credit reference agency, or identified by the bank to credit reference agencies generally, as the person to whom such requests should be made or, if no such person has been identified, to the head office of the bank.
+
+(2) A request under regulation 3(1)(a)—
+
+- (a) may seek information falling within one or more of paragraphs 1 to 3 of the Schedule;
+- (b) must not seek only part of the information falling within one of those paragraphs which is held by a bank about its small and medium sized business customers.
+
+### 5. Agreement by customers of banks
+
+(1) For the purposes of regulation 3(2) and (5)(c)—
+
+- (a) agreement may be indicated by inclusion in the terms on which a designated bank provides services to a customer of a term under which the customer agrees to the provision of information about the customer to credit reference agencies (including such a term included by way of a variation);
+- (b) agreement may relate to the provision of information about the customer to credit reference agencies generally; and
+- (c) agreement may be indicated by a term in a contract between the bank and its customer which predates the date of any request made under regulation 3(1)(a).
+
+(2) Where a designated bank starts to provide a service referred to in the Schedule to a customer on or after the date on which these Regulations come into force, the bank must include in the standard terms on which it provides the service a term indicating the customer's agreement to the provision of information relating to that service under regulation 3(1).
+
+### 6. Designated credit reference agencies to provide information to finance providers
+
+(1) A designated credit reference agency must provide credit information that it holds about a small or medium sized business to a finance provider for the purposes specified in paragraph (3) if—
+
+- (a) the finance provider has requested that the credit reference agency provide the information;
+- (b) the business to which the information relates has agreed to the information being provided to the finance provider and the finance provider has confirmed such agreement to the credit reference agency;
+- (c) the finance provider has agreed to the standard terms on which the credit reference agency provides credit information relating to small and medium sized businesses, including the payment of any fees for the provision of such information;
+- (d) the finance provider has met any conditions which are required by those terms to be met before the information is provided;
+- (e) in the case of a finance provider which is not a designated bank, the finance provider has agreed with the credit reference agency that it will, by the end of a period of 12 months starting on the day on which the credit reference agency first provides credit information to the finance provider and at other such time as it agrees with the credit reference agency, provide to the credit reference agency all credit information—
+  - (i) that it holds about each customer of the finance provider which is a small or medium sized business (but see paragraph (2)); and
+  - (ii) which relates to the period starting on the day on which the credit reference agency first provides credit information to the finance provider;
+- (f) the finance provider has confirmed that, in respect of any service referred to in the Schedule which it offers to provide to small or medium sized business customers in the future, the standard terms provide for agreement by the customer that the finance provider may provide credit information to credit reference agencies.
+
+(2) A finance provider is not required to provide information pursuant to an agreement under paragraph (1)(e) if—
+
+- (a) the customer to which the information relates has not agreed to the provision of such information; or
+- (b) the provision of such information would be unlawful.
+
+(3) Any information provided under paragraph (1) is provided for the purpose of assisting a finance provider to decide whether to offer a business any kind of finance, lending or credit having in particular regard to—
+
+- (a) the ability of the business to repay any debts resulting from the provision of such finance, lending or credit;
+- (b) the ability of the finance provider to verify the identity of persons related to the business and to take steps to prevent fraud;
+- (c) the ability of the finance provider or another party to recover debts resulting from the provision of such finance, lending or credit; or
+- (d) the need for the finance provider to comply with its statutory or other legal obligations relating generally to the provision of finance, lending or credit.
+
+### 7. Designated credit reference agencies to provide information to the Bank of England
+
+(1) A designated credit reference agency must provide information received under regulation 3 or by virtue of regulation 6 to the Bank of England on request.
+
+(2) The Bank of England must provide information received from a designated credit reference agency pursuant to paragraph (1) to the Treasury on request, but such information must be so framed that it is not possible to ascertain from it information relating to a particular small or medium sized business.
+
+(3) The Bank of England may otherwise provide information received from a designated credit reference agency pursuant to paragraph (1) only where such disclosure is—
+
+- (a)[^key-0dac149d9115293b18c7e68228e4c839] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) to any [^key-4288802c53c3e55776be4e2427398b63]... person where—
+  - (i) such information has already lawfully been made available to the public;
+  - (ii) such information is in the form of a summary or collection of information so framed that it is not possible to ascertain from it information relating to a particular person;
+  - (iii) the person to whom the information relates has provided consent for such disclosure;
+  - (iv) such disclosure is for the purposes of any criminal investigation or criminal proceedings whether in the United Kingdom or elsewhere; or[^key-741b3edae11d9a8412328dae97ca9e9c]
+  - (v) such disclosure is for the institution of, or otherwise for the purposes of, any proceedings arising by virtue of these Regulations or under the 2000 Act or any proceedings to which the Bank of England is, or is proposed to be, a party; [^key-112e1bfd95cb15584af6c3ccfb207e1f]...
+  - (vi)[^key-112e1bfd95cb15584af6c3ccfb207e1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-0dac149d9115293b18c7e68228e4c839] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-0dac149d9115293b18c7e68228e4c839] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Right of action for failure to provide information
+
+A failure by a designated bank to comply with an obligation arising under regulation 3, or by a designated credit reference agency to comply with regulation 6, is actionable at the suit of a person who suffers loss as a result of such failure, subject to the defences and other incidents applying to actions for breach of statutory duty.
+
+## PART 3 — Designation of banks and credit reference agencies
+
+### 9. Power to designate banks and credit reference agencies and to revoke designations
+
+(1) The Treasury may designate a bank or a credit reference agency for the purposes of these Regulations, and may revoke such designation.
+
+(2) A designation, or the revocation of a designation—
+
+- (a) takes effect on the date specified by the Treasury, or
+- (b) if no such date is specified, takes effect immediately.
+
+(3) The Treasury may exercise the power in paragraph (1) on its own initiative or at the request of another person.
+
+(4) Paragraph (1) is subject to the requirements set out in this Part.
+
+### 10. Criteria for the designation of a bank
+
+(1) The Treasury may designate a bank only if it is—
+
+- (a) an institution that is a bank for the purposes of Part 1 of the Banking Act 2009 [^c22695101], or
+- (b) a finance provider that is a member of a banking group as defined in section 1164 of the Companies Act 2006 [^c22695111].
+
+(2) The Treasury must revoke the designation of a bank that no longer falls within paragraph (1)(a) or (b).
+
+(3) In considering whether to designate a bank or revoke the designation of a bank, the Treasury must have regard to—
+
+- (a) the value of current lending by the bank to small and medium sized businesses;
+- (b) such value as a proportion of the total value of current lending to small and medium sized businesses;
+- (c) the importance to the economy in Northern Ireland of the bank's current lending to small and medium sized businesses.
+
+(4) In considering whether to designate a bank or to revoke the designation of a bank, the Treasury may also have regard to such other matters as they consider appropriate.
+
+### 11. Consultation before designation of a bank
+
+(1) Before designating a bank or revoking the designation of a bank, the Treasury may consult the Bank of England and any other person they consider appropriate.
+
+(2) In considering whether to designate a bank or to revoke the designation of a bank, the Treasury may rely on advice or information provided in response to consultation under paragraph (1).
+
+### 12. Criteria for the designation of a credit reference agency
+
+(1) The Treasury may designate a credit reference agency only if the agency—
+
+- (a) carries on activities which consist primarily of the furnishing of persons with information relevant to the financial standing of persons or businesses and the collection of information for that purpose;
+- (b) has procedures in place designed to give effect to the requirements of the data protection legislation[^key-6a99a539164b40d051bb0d7e8f5c6fca] and sections 158 to 160 of the Consumer Credit Act 1974 [^c22695131];
+- (c) permits all small and medium sized businesses about which it holds information to access that information and to challenge inaccuracies;
+- (d) has systems in place which protect information against loss, corruption, destruction, misuse and unauthorised access; and
+- (e) has systems in place which are capable of processing information in bulk.
+
+(2) In considering whether to designate a credit reference agency or to revoke the designation of a credit reference agency, the Treasury may also have regard to—
+
+- (a) the agency's existing role in the furnishing of information relevant to the financial standing of persons or businesses in the United Kingdom;
+- (b) the Treasury's view as to whether it is appropriate for the agency to have access to financial information about small and medium sized businesses in light of—
+  - (i) the skills and experience of the persons who control and manage the activities carried on by the agency;
+  - (ii) whether those persons can be expected to act with probity;
+  - (iii) the robustness of systems and procedures referred to in paragraph (1)(b), (d) and (e); and
+  - (iv) the agency's compliance, and likely future compliance, with the requirements referred to in paragraph (1)(b); and
+- (c) such other matters as they consider appropriate.
+
+(3)[^key-e3966892aa0a1b4a48af52b41c56b511] In this regulation, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+
+### 13. Consultation before designation of a credit reference agency
+
+(1) Before designating a credit reference agency or revoking the designation of a credit reference agency, the Treasury may consult—
+
+- (a) the company incorporated as a private company limited by shares on 18th July 2013 with the company number 08616013 and re-registered as a public company limited by shares on 29th October 2013 with the name British Business Bank plc;
+- (b) a subsidiary of the company referred to in sub-paragraph (a); or
+- (c) any other person they consider appropriate.
+
+(2) In considering whether to designate a credit reference agency or to revoke the designation of a credit reference agency, the Treasury may rely on advice or information provided in response to consultation under paragraph (1).
+
+### 14. Record of designated banks and credit reference agencies
+
+The Treasury must, in such manner as they determine,—
+
+- (a) publish the details of each designation and revocation under regulation 9, and
+- (b) maintain a publicly accessible record of current designations.
+
+## PART 4 — Access to and correction of information
+
+### 15. Access to and correction of information for individuals and small firms
+
+(1)[^key-3957b421ccf9cd0f57952ec7e5933e25] Section 13 of the Data Protection Act 2018 (rights of the data subject under the UK GDPR[^key-7ffa407b6d5e1154c21fb5cbbf529010]: obligations of credit reference agencies) applies in respect of a designated credit reference agency which is not a credit reference agency within the meaning of section 145(8) of the Consumer Credit Act 1974 as if it were such an agency.
+
+(2) Sections 157 to 160 of the Consumer Credit Act 1974 (credit reference agencies) [^c22695161], and any regulations made under those sections, apply in respect of a designated credit reference agency which does not carry on, by way of business, an activity of the kind specified by article 89B of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c22695171] (providing credit references), as if it did so carry on such an activity.
+
+(3) In the event that the Treasury revokes the designation of a designated credit reference agency, paragraphs (1) and (2) continue to apply in respect of such credit reference agency for a period two years starting on the date of such revocation but thereafter shall cease to apply.
+
+(4)[^key-2731b5610b298a5716607e24c34144d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Right of action in relation to inaccurate information
+
+(1) This regulation applies in respect of—
+
+- (a) credit information about a small or medium sized business held by a designated credit reference agency; and
+- (b) information provided to a designated credit reference agency under regulation 3(1) held by that credit reference agency during the period in which it is a designated credit reference agency and, in the event that the Treasury revokes its designation, for a further period of two years starting on the date on which its designation is revoked.
+
+(2) If a court is satisfied on the application of a person that information relating to that person is inaccurate, the court may order the credit reference agency holding the information to rectify, block, erase or destroy that information and any other information which contains an expression of opinion which appears to the court to be based on the inaccurate information.
+
+(3) Paragraph (2) applies whether or not the information accurately records information received from another person, but where that is the case—
+
+- (a) if the court is satisfied that—
+  - (i) the credit reference agency holding the information has taken reasonable steps to ensure the accuracy of the information, and
+  - (ii) if the applicant has notified the credit reference agency of the applicant's view that the information is inaccurate, the information indicates that fact,
+
+  instead of making an order under paragraph (2) the court may make an order requiring the information to be supplemented by such statement of true facts as the court may approve, or
+- (b) if the court is not so satisfied, the court may make such order as it thinks fit for securing that the credit reference agency holding the information takes reasonable steps to ensure the accuracy of the information and that the information indicates the applicant's view that the information is inaccurate, with or without a further order requiring the information to be supplemented by such a statement as is mentioned in sub-paragraph (a).
+
+(4) Where the court—
+
+- (a) makes an order under paragraph (2), or
+- (b) is satisfied on the application of a person that information relating to that person and which has been rectified, blocked, erased or destroyed was inaccurate,
+
+it may, where it considers it reasonably practicable, order the credit reference agency holding or which held the inaccurate information to notify third parties to whom the information has been disclosed of the rectification, blocking, erasure or destruction.
+
+(5) In determining whether it is reasonably practicable to order such notification the court shall have regard, in particular, to the number of persons who would have to be notified.
+
+(6) The jurisdiction conferred by this regulation is exercisable—
+
+- (a) in England and Wales by the High Court or the county court,
+- (b) in Northern Ireland by the High Court or a county court, or
+- (c) in Scotland by the Court of Session or the sheriff.
+
+## PART 5 — Complaints about designated credit reference agencies
+
+### 17. Extension of the jurisdiction of the Financial Ombudsman Scheme to designated credit reference agencies
+
+(1) Part 16 (the Ombudsman Scheme) of the 2000 Act applies in respect of a complaint relating to the act or omission of a designated credit reference agency as if—
+
+- (a) in section 226(2)(b) of that Act (compulsory jurisdiction) [^c22695181], after “Payment Services Regulations 2017[^M_F_07f87f6e-294a-4c11-f4ef-d694bd60eb2e],” there were inserted “ or a designated credit reference agency, ”;
+- (b) in section 226(4) of that Act, after “under section 22,” there were inserted “ or the activity of furnishing, by a designated credit reference agency, of persons with information relevant to the financial standing of a business and ancillary activities, ”;
+- (c) in section 232A of that Act (scheme operator's duty to provide information to the FCA) [^c22695191], after “FCA's operational objectives,” there were inserted “ or which might otherwise be of assistance to the FCA for the purposes of discharging any of the FCA's duties under the Small and Medium Sized Business (Credit Information) Regulations 2015, ”;
+- (d) in section 234(1) of that Act (industry funding) [^c22695201], after “Payment Services Regulations 2017[^M_F_c065fd37-bec6-4b0e-e1d6-020241bb2b83]” there were inserted “ , or a designated credit reference agency, ”;
+- (e) in paragraph 13(4) of Schedule 17 to that Act (the Ombudsman Scheme) [^c22695211], after “Payment Services Regulations 2017[^M_F_681d7edf-26a0-440a-af72-0afa2354cae3],” there were inserted “ or a designated credit reference agency, ”; and
+- (f) “designated credit reference agency” had the meaning given in section 7(2) of the Small Business, Enterprise and Employment Act 2015;
+
+(2) The FCA must make compulsory jurisdiction rules (as defined in section 226(3) of the 2000 Act) relating to the activity of furnishing by designated credit reference agencies of persons with information relevant to the financial standing of a business.
+
+## PART 6 — Monitoring of compliance and enforcement
+
+### CHAPTER 1 — The FCA
+
+#### 18. Functions of the FCA
+
+(1) The FCA has the functions conferred on it by this Part.
+
+(2) In discharging its functions under this Part (including its functions under any provision of the 2000 Act as applied by this Part), the FCA must have regard to the need to use its resources in the most efficient and economic way.
+
+#### 19. Monitoring and enforcement
+
+(1) The FCA must maintain arrangements designed to enable it to determine whether—
+
+- (a) designated banks and designated credit reference agencies are complying with any relevant requirements applicable to them, and
+- (b) there has been a contravention of regulation 34 (misleading the FCA).
+
+(2) The FCA must also maintain arrangements designed to enable it to enforce relevant requirements.
+
+#### 20. Guidance and consultation
+
+(1) The FCA may give guidance consisting of such information and advice as it considers appropriate with respect to—
+
+- (a) the operation of these Regulations;
+- (b) any matters relating to the functions of the FCA under this Part;
+- (c) any other matters about which it appears to the FCA to be desirable to give information or advice in connection with these Regulations.
+
+(2) The FCA may—
+
+- (a) publish its guidance;
+- (b) offer copies of its published guidance for sale at a reasonable price;
+- (c) if it gives guidance in response to a request made by any person, make a reasonable charge for that guidance.
+
+(3) The requirements of section 138I of the 2000 Act (consultation by the FCA) [^c22695221], in so far as they apply to a proposal to make rules or give guidance under or in relation to these Regulations, may be satisfied by things done (wholly or in part) before the date on which these Regulations come into force.
+
+#### 21. Fees and penalties
+
+(1) Subject to paragraphs (2) to (4), the functions of the FCA under this Part are to be treated for the purposes of paragraph 23 (fees) of Schedule 1ZA to the 2000 Act [^c22695231] as functions conferred on the FCA under that Act.
+
+(2) Paragraph 23 of that Schedule, as it applies by virtue of paragraph (1) above, has effect as if a reference to the 2000 Act in sub-paragraphs (7) and (8) included a reference to these Regulations.
+
+(3) Subsection (5)(a) of section 1B of the 2000 Act (the FCA's general duties) [^c22695241] does not apply to the making of rules under paragraph 23 of that Schedule by virtue of this regulation.
+
+(4) Rules made under paragraph 23 of that Schedule by virtue of this regulation are not to be treated as regulating provisions for the purposes of Chapter 4 of Part 9A (competition scrutiny) [^c22695251] of the 2000 Act.
+
+(5) The FCA must apply amounts paid to it by way of penalties imposed under regulation 29 towards expenses incurred in carrying out its functions under this Part or for any incidental purpose.
+
+#### 22. Exemption from liability in damages
+
+The functions of the FCA under these Regulations are to be treated for the purposes of paragraph 25 of Schedule 1ZA to the 2000 Act (exemption from liability in damages) [^c22695261] as functions conferred on the FCA under that Act.
+
+### CHAPTER 2 — Reporting and information
+
+#### 23. Reporting requirements
+
+(1) A designated firm must provide the FCA with such information in respect of its compliance or non-compliance with any relevant requirement applicable to it as the FCA may direct.
+
+(2) A designated firm must provide the FCA with information required to be given under this regulation at such times, in such form, and verified in such manner, as the FCA may direct.
+
+#### 24. Record keeping
+
+(1) A designated firm must maintain relevant records in retrievable and legible form for no less than five years from the date on which the records were created.
+
+(2) For the purposes of this regulation, records are relevant where they contain information relevant to demonstrating the designated firm's compliance or non-compliance with any relevant requirement applicable to the designated firm.
+
+#### 25. Restrictions on disclosure of information
+
+(1) Sections 348 (restrictions on disclosure of confidential information by FCA, PRA etc), 349 (exceptions from section 348) and 352 (offences) of the 2000 Act [^c22695271] apply for the purposes of this Part as if—
+
+- (a) in section 348—
+  - (i) in subsection (2)(b) for the words “, the PRA” to the end there were substituted “ under the Small and Medium Sized Business (Credit Information) Regulations 2015 ”;
+  - (ii) in subsection (3)(a) for “this Act” there were substituted “ the Small and Medium Sized Business (Credit Information) Regulations 2015 ”;
+  - (iii) in subsection (5)—
+    - (aa) paragraphs (aa) and (c) were omitted;
+    - (bb) in paragraph (d) after “section 166” there were inserted “ as applied by the Small and Medium Sized Business (Credit Information) Regulations 2015 ”;
+    - (cc) in paragraph (e) for “ a person mentioned in paragraphs (a) to (c)” there were substituted “ the FCA ”;
+    - (dd) in paragraphs (ea) and (f) for “a person mentioned in those paragraphs” there were substituted “ the FCA ”;
+  - (iv) for subsection (6) there were substituted—
+
+    > (6) In subsection (5)(f) “**expert**” includes a competent person appointed by the FCA to conduct an investigation under Part 11 as applied by the Small and Medium Sized Business (Credit Information) Regulations 2015.
+
+    ;
+- (b) in section 349, subsections (3A) and (3B) were omitted;
+- (c) in section 352—
+  - (i) in subsection (1) “or 350(5)” were omitted;
+  - (ii) subsection (4) were omitted;
+  - (iii) in subsection (5) “or (4)” were omitted;
+  - (iv) in subsection (6)(a) “or that it had been disclosed in accordance with section 350” were omitted.
+
+(2) The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001 [^c22695281] apply for the purposes of this Part as if Part 3 were omitted.
+
+### CHAPTER 3 — Investigatory powers
+
+#### 26. Information gathering and investigations under Part 11 of the 2000 Act
+
+Part 11 (information gathering and investigations) of the 2000 Act [^c22695291] applies for the purposes of this Part as if—
+
+- (a) each reference in that Part to the 2000 Act were a reference to this Part;
+- (b) each reference in that Part to an authorised person were a reference to a designated firm;
+- (c) each reference in that Part to the PRA were omitted;
+- (d) each reference in that Part to either regulator were a reference to the FCA only;
+- (e) in section 165(7) (regulators' power to require information: authorised persons etc.), paragraphs (b) to (e) were omitted;
+- (f) sections 165A (PRA's power to require information: financial stability), 165B (safeguards etc in relation to exercise of power under section 165A) and 165C (orders under section 165A(2)(d)) were omitted;
+- (g) in section 166 (reports by skilled persons), subsections (10) and (11) were omitted;
+- (h) in section 166A (appointment of skilled person to collect and update information)—
+  - (i) in subsection (1) for “rules made by that regulator to collect, and keep up to date, information of a description specified in the rules” there were substituted “ regulation 24 of the Small and Medium Sized Business (Credit Information) Regulations 2015 to maintain relevant records as specified in those Regulations ”,
+  - (ii) each reference in that section to “information” were a reference to “relevant records”;
+  - (iii) subsection (10) were omitted;
+- (i) in section 167 (appointment of persons to carry out general investigations)—
+  - (i) in subsection (1)—
+    - (aa) for “an investigating authority” and “the investigating authority” there were substituted “ the FCA ”;
+    - (bb) in paragraphs (a) and (c) of subsection (1) the words “a recognised investment exchange or” were omitted;
+    - (cc) in paragraph (a) of subsection (1) the words “or of an appointed representative” were omitted;
+  - (ii) in subsection (4) the words “(or appointed representative)” were omitted in each place;
+  - (iii) subsections (2)(c), (3A), (5A) and (6) were omitted;
+- (j) in section 168 (appointment of persons to carry out investigations in particular cases)—
+  - (i) in subsection (1)—
+    - (aa) for “an investigating authority” there were substituted “ the FCA ”;
+    - (bb) for paragraph (b) there were substituted—
+
+      > - (b) a designated firm may have contravened a requirement imposed by or under the Small and Medium Sized Business (Credit Information) Regulations 2015, or a person may be guilty of an offence under regulation 34 of those Regulations (misleading the FCA).
+
+      ;
+  - (ii) in subsection (3) for “investigating authority” there were substituted “ FCA ”; and
+  - (iii) subsections (2), (4), (5) and (6) were omitted;
+- (k) sections 169 (investigations etc. in support of overseas regulator) and 169A (support of overseas regulator with respect to financial stability) were omitted;
+- (l) in section 170 (investigations: general)—
+  - (i) in subsection (1) “or (5)” were omitted;
+  - (ii) in subsection (3)(a) “or (4)” were omitted;
+  - (iii) subsection (3)(b) and the preceding “; or” were omitted; and
+  - (iv) for subsection (10) the following were substituted—
+
+    > (10) “Investigating authority” in this Part is to be read as a reference to the FCA.
+
+    ;
+- (m) in section 171 (powers of persons appointed under section 167), subsections (3A) and (7) were omitted;
+- (n) in section 172 (additional power of persons appointed as a result of section 168(1) or (4)), in the heading and in subsection (4), “or (4)” were omitted;
+- (o) section 173 (powers of persons appointed as a result of section 168(2)) were omitted;
+- (p) in section 174 (admissibility of statements made to investigators)—
+  - (i) in subsection (2) “or in proceedings in relation to action to be taken against that person under section 123” were omitted;
+  - (ii) in subsection (3)(a) for “398” there were substituted “ regulation 34 of the Small and Medium Sized Business (Credit Information) Regulations 2015 (misleading the FCA) ”;
+  - (iii) in subsection (4), “or (5)” were omitted;
+  - (iv) in subsection (5) “, 173” were omitted;
+- (q) in section 175(8) (information and documents: supplemental provisions) “or (5)” were omitted;
+- (r) in section 176 (entry of premises under warrant)—
+  - (i) in subsection (1) “the Secretary of State,” were omitted and “first or second” were substituted for “first, second or third”;
+  - (ii) in subsection (3)(a) “or an appointed representative” were omitted;
+  - (iii) subsection (4) were omitted;
+  - (iv) in subsection (10) “or (5)” were omitted;
+  - (v) in subsection (11)—
+    - (aa) in paragraph (a) “87C, 87J,” and “,165A, 169A” were omitted; and
+    - (bb) in paragraph (b) “, 173” were omitted.
+
+#### 27. Protected information
+
+Section 413 of the 2000 Act (protected items) applies for the purposes of this Part as it applies for the purposes of that Act.
+
+### CHAPTER 4 — Disciplinary measures
+
+#### 28. Public censure
+
+If the FCA considers that a designated firm has contravened a relevant requirement, the FCA may publish a statement to that effect.
+
+#### 29. Financial penalties
+
+(1) The FCA may impose a penalty of such amount as it considers appropriate on—
+
+- (a) a designated firm which it considers has contravened a relevant requirement; or
+- (b) a person who it considers has contravened regulation 34 (misleading the FCA).
+
+(2) A penalty imposed under this regulation is payable to the FCA and may be recovered as a debt owed to the FCA.
+
+#### 30. Limitations on permission to carry on regulated activities
+
+(1) If the FCA considers that a designated firm has contravened a relevant requirement, it may impose, for such period as it considers appropriate, such limitations in relation to the carrying on of a regulated activity by the designated firm as it considers appropriate.
+
+(2) In paragraph (1) above “**carrying on of a regulated activity**” means carrying on of a regulated activity under any permission given (or treated as given) by the FCA or PRA or conferred by any provision of the 2000 Act.
+
+(3) The period for which a limitation is to have effect may not exceed 12 months.
+
+(4) A limitation may, in particular, be imposed so as to require the designated firm to take, or refrain from taking, specified action.
+
+(5) The FCA may—
+
+- (a) withdraw a limitation, or
+- (b) vary a limitation so as to reduce the period for which it has effect or otherwise to limit its effect.
+
+(6) The power under this regulation may (but need not) be exercised so as to have effect in relation to all the regulated activities that the designated firm carries on.
+
+(7) Any one or more of the powers under this regulation and regulations 28 (public censure) and 29 (financial penalties) may be exercised in relation to the same contravention.
+
+### CHAPTER 5 — Injunctions and restitution
+
+#### 31. Injunctions
+
+(1) If, on the application of the FCA, the court is satisfied—
+
+- (a) that there is a reasonable likelihood that any person will contravene a relevant requirement; or
+- (b) that any person has contravened such a requirement and that there is a reasonable likelihood that the contravention will continue or be repeated,
+
+the court may make an order restraining (or, in Scotland, an interdict prohibiting) the contravention.
+
+(2) If, on the application of the FCA, the court is satisfied—
+
+- (a) that any person has contravened a relevant requirement; and
+- (b) that there are steps which could be taken for remedying the contravention,
+
+the court may make an order requiring that person, and any other person who appears to have been knowingly concerned in the contravention, to take such steps as the court may direct to remedy it.
+
+(3) If, on the application of the FCA, the court is satisfied that any person may have—
+
+- (a) contravened a relevant requirement imposed; or
+- (b) been knowingly concerned in the contravention of such a requirement,
+
+it may make an order restraining (or, in Scotland, an interdict prohibiting) them from disposing of, or otherwise dealing with, any assets of theirs which it is satisfied that they are reasonably likely to dispose of or otherwise deal with.
+
+(4) The jurisdiction conferred by this regulation is exercisable by the High Court and the Court of Session.
+
+(5) In paragraph (2), references to remedying a contravention include references to mitigating its effect.
+
+#### 32. Power of FCA to require restitution
+
+(1) The FCA may exercise the power in paragraph (2) if it is satisfied that a designated firm (referred to in this regulation as “**the person concerned**”) has contravened a relevant requirement, or been knowingly concerned in the contravention of such a requirement, and that—
+
+- (a) profits have accrued to the person concerned as a result of the contravention; or
+- (b) one or more persons have suffered loss or been otherwise adversely affected as a result of the contravention.
+
+(2) The power referred to in paragraph (1) is a power to require the person concerned, in accordance with such arrangements as the FCA considers appropriate, to pay to the appropriate person or distribute among the appropriate persons such amount as appears to the FCA to be just having regard—
+
+- (a) in a case within sub-paragraph (a) of paragraph (1), to the profits appearing to the FCA to have accrued;
+- (b) in a case within sub-paragraph (b) of that paragraph, to the extent of the loss or other adverse effect;
+- (c) in a case within both of those sub-paragraphs, to the profits appearing to the FCA to have accrued and to the extent of the loss or other adverse effect.
+
+(3) In paragraph (2) “**appropriate person**” means a person appearing to the FCA to be someone—
+
+- (a) to whom the profits mentioned in paragraph (1)(a) are attributable; or
+- (b) who has suffered the loss or adverse effect mentioned in paragraph (1)(b).
+
+#### 33. Restitution orders
+
+(1) The court may, on the application of the FCA, make an order under paragraph (2) if it is satisfied that a designated firm has contravened a relevant requirement, or been knowingly concerned in the contravention of such a requirement, and that—
+
+- (a) profits have accrued to the designated firm as a result of the contravention; or
+- (b) one or more persons have suffered loss or been otherwise adversely affected as a result of the contravention.
+
+(2) The court may order the designated firm to pay to the FCA such sum as appears to the court to be just having regard—
+
+- (a) in a case within sub-paragraph (a) of paragraph (1), to the profits appearing to the court to have accrued;
+- (b) in a case within sub-paragraph (b) of that paragraph, to the extent of the loss or other adverse effect;
+- (c) in a case within both those sub-paragraphs, to the profits appearing to the court to have accrued and to the extent of the loss or other adverse effect.
+
+(3) Any amount paid to the FCA in pursuance of an order under paragraph (2) must be paid by it to such qualifying person or distributed by it among such qualifying persons as the court may direct.
+
+(4) In paragraph (3), “**qualifying person**” means a person appearing to the court to be someone—
+
+- (a) to whom the profits mentioned in paragraph (1)(a) are attributable; or
+- (b) who has suffered the loss or adverse effect mentioned in paragraph (1)(b).
+
+(5) On an application under paragraph (1) the court may require the designated firm to supply it with such accounts or other information as it may require for any one or more of the following purposes—
+
+- (a) establishing whether any and, if so, what profits have accrued to them as mentioned in sub-paragraph (a) of that paragraph;
+- (b) establishing whether any person or persons have suffered any loss or adverse effect as mentioned in sub-paragraph (b) of that paragraph; and
+- (c) determining how any amounts are to be paid or distributed under paragraph (3).
+
+(6) The court may require any accounts or other information supplied under paragraph (5) to be verified in such manner as it may direct.
+
+(7) The jurisdiction conferred by this regulation is exercisable by the High Court and the Court of Session.
+
+(8) Nothing in this regulation affects the right of any person other than the FCA to bring proceedings in respect of the matters to which this regulation applies.
+
+### CHAPTER 6 — Misleading the FCA
+
+#### 34. Offence of misleading the FCA
+
+(1) A person must not, for the purposes of compliance or purported compliance with a relevant requirement, knowingly or recklessly give the FCA information which is false or misleading in a material particular.
+
+(2) A person must not provide information to another person—
+
+- (a) knowing, or
+- (b) being reckless as to whether,
+
+the information is false or misleading in a material particular and knowing that the information is to be provided to, or to be used for the purposes of providing information to, the FCA in connection with the discharge of its functions under this Part.
+
+(3) A person who contravenes paragraph (1) or (2) is guilty of an offence.
+
+(4) A person guilty of an offence under this regulation is liable—
+
+- (a) on summary conviction, to a fine, or
+- (b) on conviction on indictment, to a fine.
+
+#### 35. Restriction on penalties
+
+A person who is convicted of an offence under regulation 34 (misleading the FCA) is not subsequently liable to a penalty under regulation 29 (financial penalties) in respect of the same acts or omissions that constituted the offence.
+
+#### 36. Liability of officers of bodies corporate etc
+
+(1) If an offence under regulation 34 committed by a body corporate is shown—
+
+- (a) to have been committed with the consent or connivance of an officer; or
+- (b) to be attributable to any neglect of such officer,
+
+the officer as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with such member's functions of management as if the member were a director of the body.
+
+(3) If an offence under regulation 34 committed by a partnership is shown—
+
+- (a) to have been committed with the consent or connivance of a partner; or
+- (b) to be attributable to any neglect of such partner,
+
+the partner as well as the partnership is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(4) If an offence under regulation 34 committed by an unincorporated association (other than a partnership) is shown—
+
+- (a) to have been committed with the consent or connivance of an officer; or
+- (b) to be attributable to any neglect of such officer,
+
+the officer as well as the association is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(5) In this regulation—
+
+- “officer”—
+  - (a) in relation to a body corporate, means a director, manager, secretary, chief executive, member of the committee of management, or a person purporting to act in that capacity; and
+  - (b) in relation to an unincorporated association, means any officer of the association or any member of its governing body, or a person purporting to act in such capacity;
+- “**partner**” includes a person purporting to act as a partner.
+
+#### 37. Proceedings for offence
+
+(1) Proceedings for an offence under regulation 34 (misleading the FCA) may be instituted—
+
+- (a) in England and Wales only by the FCA or by or with the consent of the Director of Public Prosecutions, or
+- (b) in Northern Ireland only by the FCA or by or with the consent of the Director of Public Prosecutions for Northern Ireland.
+
+(2) In exercising its power to institute proceedings for an offence under regulation 34, the FCA must comply with any conditions or restrictions imposed in writing by the Treasury in relation to such proceedings.
+
+(3) Conditions or restrictions may be imposed under paragraph (2) in relation to—
+
+- (a) proceedings generally; or
+- (b) such proceedings, or categories of proceedings, as the Treasury may direct.
+
+#### 38. Further provisions relating to proceedings for offence
+
+(1) Proceedings for an offence under regulation 34 (misleading the FCA) alleged to have been committed by a partnership or other unincorporated association must be brought in the name of the partnership or association (and not in those of its members).
+
+(2) A fine imposed on a partnership or unincorporated association on its conviction of an offence under regulation 34 is to be paid out of the funds of the partnership or association.
+
+(3) Rules of court relating to the service of documents are to have effect as if a partnership or unincorporated association were a body corporate.
+
+(4) In proceedings for an offence under regulation 34 brought against a partnership or unincorporated association—
+
+- (a) section 33 (procedure on charge of offence against corporation) of the Criminal Justice Act 1925 [^c22695301] and Schedule 3 to the Magistrates' Courts Act 1980 [^c22695311] apply as they do in relation to a body corporate;
+- (b) sections 70 and 143 (proceedings against organisations) of the Criminal Procedure (Scotland) Act 1995 [^c22695321] apply;
+- (c) section 18 (procedure on charge) of the Criminal Justice (Northern Ireland) Act 1945 [^c22695331] and Schedule 4 (corporations) to the Magistrates' Courts (Northern Ireland) Order 1981 [^c22695341] apply as they do in relation to a body corporate.
+
+(5) Summary proceedings for an offence under regulation 34 may be taken—
+
+- (a) against a body corporate or unincorporated association at any place at which it has a place of business;
+- (b) against an individual at any place where that individual is for the time being.
+
+(6) Paragraph (5) does not affect any jurisdiction exercisable apart from this regulation.
+
+### CHAPTER 7 — Procedure
+
+#### 39. Requirement to issue warning notice
+
+(1) Where the FCA proposes to—
+
+- (a) publish a statement under regulation 28 (public censure),
+- (b) impose a penalty under regulation 29 (financial penalties),
+- (c) impose a limitation on a permission under regulation 30 (limitations on permission to carry on regulated activities), or
+- (d) exercise the power in regulation 32(2) (power of FCA to require restitution),
+
+it must give the person concerned a warning notice.
+
+(2) The warning notice must set out the following—
+
+- (a) in the case of a statement under regulation 28, the terms of the proposed statement;
+- (b) in the case of a penalty under regulation 29, the amount of the proposed penalty;
+- (c) in the case of a limitation on a permission under regulation 30, the limitation and the period for which it is to have effect;
+- (d) in the case of the exercise of the power in regulation 32(2), the amount which the FCA proposes to require to be paid or distributed as mentioned in regulation 32(2).
+
+#### 40. Requirement to issue decision notice
+
+(1) If, having considered any representations made in response to the warning notice, the FCA decides to—
+
+- (a) publish a statement under regulation 28 (public censure);
+- (b) impose a penalty under regulation 29 (financial penalties);
+- (c) impose a limitation on a permission under regulation 30 (limitations on permission to carry on regulated activities); or
+- (d) exercise the power in regulation 32(2) (power of FCA to require restitution),
+
+it must without delay give the person concerned a decision notice.
+
+(2) The decision notice must set out the following—
+
+- (a) in the case of a statement under regulation 28, the terms of the statement;
+- (b) in the case of a penalty under regulation 29, the amount of the penalty;
+- (c) in the case of a limitation on a permission under regulation 30, the limitation and the period for which it is to have effect;
+- (d) in the case of the exercise of the power in regulation 32(2)—
+  - (i) the amount to be paid or distributed;
+  - (ii) the person or persons to whom that amount is to be paid or among whom that amount is to be distributed; and
+  - (iii) the arrangements in accordance with which the payment or distribution is to be made.
+
+#### 41. Third party rights
+
+After a statement under regulation 28 (public censure) is published, the FCA must send a copy of it to the person concerned and to any person to whom a copy of the decision notice was given under section 393(4) (third party rights) of the 2000 Act [^c22695351] (as applied by regulation 44 (application of Part 26 of the 2000 Act)).
+
+#### 42. Service of notices
+
+(1) Section 414 of the 2000 Act (service of notices) applies for the purposes of this Part as if in subsection (1) and (4) for “this Act” there were substituted “ the Small and Medium Sized Business (Credit Information) Regulations 2015 ”.
+
+(2) The Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001 [^c22695361] apply to any notice, direction or document of any kind given by or to the FCA under this Part as they apply to any notice, direction or document of any kind under the 2000 Act.
+
+#### 43. Statements of policy
+
+(1) Sections 210 (statements of policy) and 211 (statements of policy: procedure) of the 2000 Act [^c22695371] apply to the FCA with respect to—
+
+- (a) the imposition of penalties or restrictions under regulations 29 (financial penalties) and 30 (limitations on permission to carry on regulated activities);
+- (b) the amount of penalties imposed under regulation 29(1); and
+- (c) the period for which restrictions imposed under regulation 30 are to have effect,
+
+as they apply with respect to action the FCA may take under sections 206 (financial penalties) and 206A (suspending permission to carry on regulated activities) of the 2000 Act [^c22695381]. But see paragraph (2).
+
+(2) Section 210 of the 2000 Act applies as if subsection (1A) were omitted.
+
+#### 44. Application of Part 26 of the 2000 Act
+
+Part 26 (notices) of the 2000 Act [^c22695391] applies for the purposes of this Part as if—
+
+- (a) references to the PRA in that Part were omitted;
+- (b) each reference in that Part to either regulator were a reference to the FCA only;
+- (c) in section 387 (warning notices), subsections (1A) and (3A) were omitted;
+- (d) in section 388 (decision notices), subsections (1A) and (2) were omitted;
+- (e) in section 390 (final notices), in subsection (6) for “section 384(5)” there were substituted “ regulation 32 of the Small and Medium Sized Business (Credit Information) Regulations 2015 ”;
+- (f) in section 391 (publication)—
+  - (i) in subsection (1) for “falling within subsection (1ZB)” there were substituted “ given under regulation 39 of the Small and Medium Sized Business (Credit Information) Regulations 2015 ”;
+  - (ii) subsections (1ZA), (1ZB), (4A), (5), (5A), (6A), (7A), (7B), (8A), (8), (10) and (11) were omitted;
+- (g) section 391A were omitted;
+- (h) for section 392(a) and (b) (application of sections 393 and 394) there were substituted—
+
+  > - (a) a warning notice given in accordance with regulation 39 of the Small and Medium Sized Business (Credit Information) Regulations 2015;
+  > - (b) a decision notice given in accordance with regulation 40 of those Regulations.
+- (i) in section 395 (the FCA's and PRA's procedures)—
+  - (i) for subsections (1) and (2) there were substituted—
+
+    > (1) The FCA must determine the procedure that it proposes to follow in relation to a decision which gives rise to an obligation for it to give a warning notice or decision notice.
+    >
+    > (2) That procedure must be designed to secure, among other things, that a decision falling within subsection (1) is taken—
+    >
+    > - (a) by a person not directly involved in establishing the evidence on which the decision is based, or
+    > - (b) by two or more persons who include a person not directly involved in establishing that evidence.
+
+    ;
+  - (ii) subsections (3), (4), (9A) and (13) were omitted, and
+  - (iii) in subsection (9), there were omitted “supervisory notice, or a” and “other than a warning notice or decision notice relating to a decision of the PRA that is required by a decision of the FCA of the kind mentioned in subsection (1)(b)(ii)”.
+
+### CHAPTER 8 — Referral to the Tribunal
+
+#### 45. Referral to Tribunal
+
+If the FCA decides to—
+
+- (a) publish a statement under regulation 28 (public censure);
+- (b) impose a penalty under regulation 29 (financial penalties);
+- (c) impose a limitation on a permission under regulation 30 (limitations on permission to carry on regulated activities); or
+- (d) exercise the power in regulation 32(2),
+
+the person concerned may refer the matter to the Upper Tribunal.
+
+#### 46. The Tribunal
+
+(1) Part 9 (hearings and appeals) of the 2000 Act [^c22695401] applies with respect to proceedings pursuant to references to the Upper Tribunal under regulation 45 (“relevant proceedings”) as it applies to proceedings pursuant to references to the Upper Tribunal under that Act, with the following modifications.
+
+(2) Section 133 (proceedings before the Tribunal: general provision) applies as if—
+
+- (a) in subsection (1)—
+  - (i) there were omitted “(whether made under this or any other Act)”;
+  - (ii) in paragraph (a) “or the PRA” were omitted;
+  - (iii) paragraphs (b) and (c) were omitted;
+- (b) in subsection (2) “, (b) or (c)” were omitted;
+- (c) for subsection (7A) there were substituted—
+
+  > (7A) A reference is a “**disciplinary reference**” for the purposes of this section if it is in respect of any of the following decisions—
+  >
+  > - (a) a decision to publish a statement under regulation 28 (public censure) of the Small and Medium Sized Business (Credit Information) Regulations 2015;
+  > - (b) a decision to impose a penalty under regulation 29 of those Regulations (financial penalties);
+  > - (c) a decision to impose a limitation on a permission under regulation 30 of those Regulations (limitations on permission to carry on regulated activities).
+
+  .
+
+(3) Section 133A (proceedings before Tribunal: decision and supervisory notices, etc.) applies as if—
+
+- (a) the words “(whether under this or any other Act)” were omitted in each place;
+- (b) in subsection (1) “, as a result of section 388(2),” were omitted;
+- (c) in subsection (5) the words “or the PRA” were omitted.
+
+(4) Section 133B(1) (offences) applies as if—
+
+- (a) in paragraph (a), “or the PRA” were omitted;
+- (b) paragraphs (b) and (c) were omitted.
+
+## PART 7 — Review
+
+### 47. Review
+
+(1) The Treasury must from time to time—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(3) The first report under this regulation must be published on or before 1st January 2021.
+
+(4) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Charlie Elphicke
+
+Mel Stride
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## SCHEDULE — Credit information
+
+Regulation 2
+
+**1.** Information relating to a loan made in sterling to the business—
+
+- (a) start date of loan agreement;
+- (b) the date the loan is due to be fully repaid, has been fully repaid or enters default;
+- (c) amount of loan outstanding;
+- (d) repayment period;
+- (e) repayment frequency;
+- (f) repayment amount;
+- (g) number of missed payments;
+- (h) details of any defaults and associated satisfactions.
+
+**2.** Information relating to a credit card account denominated in sterling and held in the name of the business—
+
+- (a) start date of the facility;
+- (b) the date the facility closed (if applicable);
+- (c) outstanding balance;
+- (d) agreed credit limit;
+- (e) number of missed payments;
+- (f) number of cash advances;
+- (g) value of cash advances;
+- (h) details of any defaults and associated satisfactions.
+
+**3.** Information relating to a current account denominated in sterling and held in the name of the business—
+
+- (a) start date of the facility;
+- (b) the date the facility closed (if applicable);
+- (c) current balance;
+- (d) minimum balance;
+- (e) maximum balance;
+- (f) average balance;
+- (g) overdraft limit;
+- (h) total value of all payments into the account;
+- (i) total value of debits withdrawn from the account;
+- (j) number of days in month where the customer has exceeded its approved limit;
+- (k) number of cheques or direct debts that have not been paid due to insufficient funds.
+
+**4.** Where any of the information described in the preceding paragraphs is provided—
+
+- (a) business type indicator (e.g. limited liability company or non-limited business);
+- (b) business name and address;
+- (c) company registration number (if applicable);
+- (d) telephone number;
+- (e) VAT number (if applicable).
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made under Part 1 of the Small Business Enterprise and Employment Act 2015 (c.26) and impose a duty on designated banks to provide information about their small and medium sized business customers to designated credit reference agencies (‘CRAs’), and a duty, in turn, on designated CRAs to provide credit information about small and medium-sized businesses to finance providers.
+
+Part 1 of the Regulations includes relevant definitions, and establishes what information is within scope of the Regulations (this is set out fully in the Schedule).
+
+Part 2 of the Regulations provides that designated banks must provide credit information to designated CRAs where a designated CRA has requested it and where the customer has agreed. It specifies the manner in which the designated CRA must make such a request, the time within which the designated bank must respond and how the customer may indicate agreement. It provides generally for designated banks to provide updates to this information to designated CRAs, and sets out the circumstances in which such updates are not required. It also provides that designated CRAs must provide credit information to finance providers where the finance provider has requested it, where terms and conditions have been agreed and, where necessary, met, where the business to which the information relates has agreed to this and where the finance provider has confirmed such agreement to the credit reference agency. It specifies the purpose for which information provided in these circumstances is provided. Where a receiving finance provider is not itself a designated bank, the finance provider is required to agree reciprocally to provide credit information that the finance provider holds about its small or medium sized business customers to the designated CRA within 12 months. However, this obligation only relates to information relating to the period after which the designated CRA first provides credit information to the finance provider and the obligation does not arise at all where the customer to which the information relates has not agreed to provision of such information, or where it would be unlawful for the finance provider to provide it.
+
+Additionally, Part 2 makes provision for designated CRAs to provide information received under these Regulations to the Bank of England on request and limits the circumstances and manner in which the Bank of England may itself disclose such information. Finally, it provides for a right of action for a person who suffers loss as the result of a failure by a designated bank or designated CRA to comply with these obligations.
+
+Part 3 of the Regulations provides that the Treasury may designate a bank or a credit reference agency, and may revoke such a designation. It specifies criteria that the Treasury must have regard to when considering whether to make such a designation, and other factors the Treasury may consider when making a designation or revocation. It provides that the Treasury may consult other persons when considering a designation or revocation, and that the Treasury may exercise this power on its own initiative or at the request of another person. It also specifies that the Treasury must publish details of designations and revocations and maintain a publicly accessible record of current designations.
+
+Part 4 of the Regulations applies provisions in the Data Protection Act 1998 (c.29) and the Consumer Credit Act 1974 (c.39) about access and correction of information about individuals and small firms to designated CRAs that are not authorised by the Financial Conduct Authority (‘FCA’) under the Financial Services and Markets Act 2000 (c.8) in the same way that those provisions apply to CRAs that are authorised, so that the same protections apply to information about individuals and small firms provided to a CRA under the Regulations, whatever the status of the CRA. It also provides small or medium sized businesses with a right to apply to a court for an order to rectify, block, erase or destroy data held about the business by a designated CRA. This mirrors an equivalent provision in section 14 of the Data Protection Act 1998 which applies only to personal data about individuals.
+
+Part 5 of the Regulations applies provisions in the Financial Services and Markets Act 2000 to extend the remit of the Financial Ombudsman Service (‘FOS’) so that a complaint may be referred to the FOS about a designated CRA. This extends the remit of the FOS such that a person who would be able to seek a FOS decision when dealing with a CRA authorised by the FCA is also able to seek a FOS decision when dealing with a designated CRA which is not so authorised. It provides that the FCA must make compulsory jurisdiction rules relating to the activity of designated CRAs.
+
+Part 6 of the Regulations makes provision in respect of the FCA. In particular, it confers on the FCA functions in relation to the monitoring of compliance with, and enforcement of, certain provisions of the Regulations (regulations 3, 5, 6 and 7 and any requirements on persons other than the FCA imposed under Part 5 or Part 6). In doing so, Part 6 applies certain provisions of primary and secondary legislation (with modifications) in respect of the FCA's function under the Regulations.
+
+Part 7 of the Regulations provides that the Treasury must review the Regulations from time to time, and publish a report of its conclusions. The first such report must be published within five years of the commencement date of the Regulations, and thereafter at least every five years.
+
+An impact assessment of the effect of the Regulations has been prepared and is available on the Government's website (https://www.gov.uk) or from HM Treasury, 1 Horse Guards Road, London, SW1A 2HQ and is annexed to the Explanatory Memorandum to these Regulations.
+
+## Annotations
+
+[^c22695071]: Marginal citation: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
+
+[^c22695081]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^c22695091]: Marginal citation: 2006\. c.46.
+
+[^key-0dac149d9115293b18c7e68228e4c839]: Textual amendment: Reg. 7(3)(a)(4)(5) omitted (1.3.2017) by virtue of [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 45](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/45)
+
+[^key-4288802c53c3e55776be4e2427398b63]: Textual amendment: Word in reg. 7(3)(b) omitted (1.3.2017) by virtue of [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 45](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/45)
+
+[^key-741b3edae11d9a8412328dae97ca9e9c]: Textual amendment: Word in [reg. 7(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/7/3/b/iv) inserted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [11(a)](https://www.legislation.gov.uk/uksi/2019/710/regulation/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-112e1bfd95cb15584af6c3ccfb207e1f]: Textual amendment: [Reg. 7(3)(b)(vi)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/7/3/b/vi) and word omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [11(b)](https://www.legislation.gov.uk/uksi/2019/710/regulation/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22695101]: Marginal citation: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1).
+
+[^c22695111]: Marginal citation: [Section 1164](https://www.legislation.gov.uk/uksi/2015/1945/section/1164) was amended by paragraph 12 of Schedule 18 to the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21)
+
+[^key-6a99a539164b40d051bb0d7e8f5c6fca]: Textual amendment: Words in reg. 12(1)(b) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 386(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/386/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^c22695131]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
+
+[^key-e3966892aa0a1b4a48af52b41c56b511]: Textual amendment: Reg. 12(3) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 386(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/386/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-3957b421ccf9cd0f57952ec7e5933e25]: Textual amendment: Reg. 15(1) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 387(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/387/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-7ffa407b6d5e1154c21fb5cbbf529010]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/15/1) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 97(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/97/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22695161]: Marginal citation: Sections 157 to 160 were amended by sections 62(1), 62(2), (3) and (5) of the Data Protection Act 1998, paragraph 6(1) of Schedule 5 to the [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [section 5(6)](https://www.legislation.gov.uk/ukpga/2002/40/section/5/6) of the [Consumer Credit Act 2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), [paragraph 7](https://www.legislation.gov.uk/ukpga/2006/14/paragraph/7) of part I of Schedule 2 to the Freedom of Information Act 2000, [S.I. 1998/997](https://www.legislation.gov.uk/uksi/1998/997), [S.I](https://www.legislation.gov.uk/uksi/1998/997/section/I). 2000/183, [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [S.I](https://www.legislation.gov.uk/uksi/2007/123/section/I). 2010/1010, [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), and [S.I. 2013/1882](https://www.legislation.gov.uk/uksi/2013/1882).
+
+[^c22695171]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
+
+[^key-2731b5610b298a5716607e24c34144d1]: Textual amendment: [Reg. 15(4)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/15/4) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 97(3)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/97/3) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22695181]: Marginal citation: Section 226 was amended by paragraph 1 of Schedule 11 to the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and by [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209) and 2011/99.
+
+[^M_F_07f87f6e-294a-4c11-f4ef-d694bd60eb2e]: Textual amendment: Word in reg. 17(1)(a) substituted by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [156](https://www.legislation.gov.uk/uksi/2017/752/regulation/156), [Sch. 8 para. 23](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/23) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^c22695191]: Marginal citation: Section 232A was inserted by paragraph 9 of Schedule 11 to the Financial Services Act 2012.
+
+[^c22695201]: Marginal citation: Section 234 was amended by paragraph 10 of Schedule 11 to the Financial Services Act 2012 and by [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209) and 2011/99.
+
+[^M_F_c065fd37-bec6-4b0e-e1d6-020241bb2b83]: Textual amendment: Word in reg. 17(1)(d) substituted by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [156](https://www.legislation.gov.uk/uksi/2017/752/regulation/156), [Sch. 8 para. 23](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/23) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^c22695211]: Marginal citation: Paragraph 13 was amended by paragraph 24 of Schedule 11 to the Financial Services Act 2012 and by [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209), 2011/99 and 2015/542.
+
+[^M_F_681d7edf-26a0-440a-af72-0afa2354cae3]: Textual amendment: Word in reg. 17(1)(e) substituted by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [156](https://www.legislation.gov.uk/uksi/2017/752/regulation/156), [Sch. 8 para. 23](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/23) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^c22695221]: Marginal citation: [Section 138I](https://www.legislation.gov.uk/uksi/2015/1945/section/138I) has been amended but none of the amendments are relevant here.
+
+[^c22695231]: Marginal citation: [Schedule 1ZA](https://www.legislation.gov.uk/uksi/2015/1945/schedule/1ZA) was inserted by section 6(2) of the Financial Services Act 2012, paragraph 23 has been amended, but none of the amendments are relevant here.
+
+[^c22695241]: Marginal citation: [Section 1B](https://www.legislation.gov.uk/uksi/2015/1945/section/1B) has been amended, but the amendment is not relevant here.
+
+[^c22695251]: Marginal citation: [Chapter 4](https://www.legislation.gov.uk/uksi/2015/1945/chapter/4) of Part 9A has been amended, but none of the amendments are relevant here.
+
+[^c22695261]: Marginal citation: [Paragraph 25](https://www.legislation.gov.uk/uksi/2015/1945/paragraph/25) has been amended, but the amendment is not relevant here.
+
+[^c22695271]: Marginal citation: [Section 348](https://www.legislation.gov.uk/uksi/2015/1945/section/348) is amended by paragraph 26 of Schedule 2 to the [Financial Services Act 2010 (c.28)](https://www.legislation.gov.uk/ukpga/2010/28), [paragraph 18](https://www.legislation.gov.uk/ukpga/2010/28/paragraph/18) of Schedule 12 to the Financial Services Act 2012 and paragraph 5 of Schedule 8 to the [Financial Services (Banking Reform) Act 2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33). Section 349 is amended by section 964 of the [Companies Act 2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46), [paragraph 19](https://www.legislation.gov.uk/ukpga/2006/46/paragraph/19) of Schedule 12 to the Financial Services Act 2012, [S.I. 2006/1183](https://www.legislation.gov.uk/uksi/2006/1183), [S.I](https://www.legislation.gov.uk/uksi/2006/1183/section/I). 2007/1093 and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). Section 352 is amended by paragraph 54 of Schedule 26 to the [Criminal Justice Act 2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44).
+
+[^c22695281]: Marginal citation: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188).
+
+[^c22695291]: Marginal citation: [Part 11](https://www.legislation.gov.uk/uksi/2015/1945/part/11) is amended by paragraph 33 of Schedule 7 to the [Counter Terrorism Act 2008 (c.28)](https://www.legislation.gov.uk/ukpga/2008/28), [section 18](https://www.legislation.gov.uk/ukpga/2008/28/section/18) of and Schedule 2 to the [Financial Services Act 2010 (c.28)](https://www.legislation.gov.uk/ukpga/2010/28), [Schedule 12](https://www.legislation.gov.uk/ukpga/2010/28/schedule/12) to and paragraph 8 of Schedule 18 to the Financial Services Act 2012, [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090), [S.I](https://www.legislation.gov.uk/uksi/2001/1090/section/I). 2007/126, [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I](https://www.legislation.gov.uk/uksi/2011/1043/section/I). 2012/2554, [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), and [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575). Other amendments are not relevant here.
+
+[^c22695301]: Marginal citation: [1925 c.86](https://www.legislation.gov.uk/ukpga/1925/86). Section 33 is amended by the [Magistrates' Courts Act 1952 (c.55)](https://www.legislation.gov.uk/ukpga/1952/55), [section 132](https://www.legislation.gov.uk/ukpga/1952/55/section/132) and Schedule 6, the [Courts Act 1971 (c.23)](https://www.legislation.gov.uk/ukpga/1971/23), [Schedule 8](https://www.legislation.gov.uk/ukpga/1971/23/schedule/8), and the [Courts Act 2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39), [Schedule 8](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8), [paragraph 71](https://www.legislation.gov.uk/ukpga/2003/39/paragraph/71) and Schedule 10.
+
+[^c22695311]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43). Schedule 3 is amended by the [Criminal Justice Act 1991 (c.53)](https://www.legislation.gov.uk/ukpga/1991/53), [section 25(2)](https://www.legislation.gov.uk/ukpga/1991/53/section/25/2) and Schedule 13, and the [Criminal Justice Act 2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), [Schedule 3](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3), [paragraph 51](https://www.legislation.gov.uk/ukpga/2003/44/paragraph/51) and Schedule 37, Part 4.
+
+[^c22695321]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46). Section 70 is amended by section 66 of the Criminal Justice and Licensing (Scotland) Act [2010 asp 13](https://www.legislation.gov.uk/asp/2010/13). Section 143 is amended by section 67 of the Criminal Justice and Licensing (Scotland) Act [2010 asp 13](https://www.legislation.gov.uk/asp/2010/13), [section 17](https://www.legislation.gov.uk/asp/2010/13/section/17) of the Criminal Proceedings etc. (Reform) (Scotland) Act [2007 asp 6](https://www.legislation.gov.uk/asp/2007/6) and [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128).
+
+[^c22695331]: Marginal citation: [1945 c.15](https://www.legislation.gov.uk/ukpga/1945/15).
+
+[^c22695341]: Marginal citation: [S.I. 1981/1675](https://www.legislation.gov.uk/uksi/1981/1675).
+
+[^c22695351]: Marginal citation: [Section 393(4)](https://www.legislation.gov.uk/uksi/2015/1945/section/393/4) is amended by paragraph 32 of Schedule 9 to the Financial Services Act 2012.
+
+[^c22695361]: Marginal citation: [S.I. 2001/1420](https://www.legislation.gov.uk/uksi/2001/1420). This has been amended by [S.I. 2005/274](https://www.legislation.gov.uk/uksi/2005/274), [S.I](https://www.legislation.gov.uk/uksi/2005/274/section/I). 2010/1193, [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), and [S.I. 2014/549](https://www.legislation.gov.uk/uksi/2014/549).
+
+[^c22695371]: Marginal citation: [Section 210](https://www.legislation.gov.uk/uksi/2015/1945/section/210) is amended by paragraph 20 of Schedule 2 to the Financial Services Act 2010 and paragraph 17 of Schedule 9 to the Financial Services Act 2012. Section 211 is amended by paragraph 18 of Schedule 9 to the Financial Services Act 2012.
+
+[^c22695381]: Marginal citation: [Part 14](https://www.legislation.gov.uk/uksi/2015/1945/part/14) is amended by sections 9 and 10 of and Schedule 2 to the Financial Services Act 2010, Schedule 9 to the Financial Services Act 2012 and [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
+
+[^c22695391]: Marginal citation: [Part 26](https://www.legislation.gov.uk/uksi/2015/1945/part/26) is amended by paragraph 11 of Schedule 4 to the [Regulation of Investigatory Powers Act 2000 (c.23)](https://www.legislation.gov.uk/ukpga/2000/23), [sections 13](https://www.legislation.gov.uk/ukpga/2000/23/section/13) and 24 of and paragraphs 28 and 29 of Schedule 2 to the Financial Services Act 2010, sections 17, 18, 19 and 24 of and paragraph 37 of Schedule 8, Schedule 9 and paragraph 8 of Schedule 13 to the Financial Services Act 2012, section 4 of and Schedule 3 to the Financial Services (Banking Reform) Act 2013, [S.I. 2005/381](https://www.legislation.gov.uk/uksi/2005/381), [S.I](https://www.legislation.gov.uk/uksi/2005/381/section/I). 2005/1433, [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [S.I](https://www.legislation.gov.uk/uksi/2007/126/section/I). 2007/1973, [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534), [S.I](https://www.legislation.gov.uk/uksi/2009/534/section/I). 2010/22, [S.I. 2012/916](https://www.legislation.gov.uk/uksi/2012/916), [S.I](https://www.legislation.gov.uk/uksi/2012/916/section/I). 2013/1388, [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115) and [S.I. 2014/2879](https://www.legislation.gov.uk/uksi/2014/2879).
+
+[^c22695401]: Marginal citation: [Part 9](https://www.legislation.gov.uk/uksi/2015/1945/part/9) is amended by section 23 of the Financial Services Act 2012, section 4 of the Financial Services (Banking Reform) Act 2013, paragraph 83 of Schedule 9 to the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), [S.I](https://www.legislation.gov.uk/ukpga/2013/22/section/I). 2010/22 and [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388).

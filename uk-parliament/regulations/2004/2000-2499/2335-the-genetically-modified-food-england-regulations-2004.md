@@ -1,0 +1,240 @@
+---
+title: The Genetically Modified Food (England) Regulations 2004
+id: uksi/2004/2335
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-09-01'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2004/2335
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/2335/pdfs/uksiem_20042335_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/2335/pdfs/uksi_20042335_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/2335/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Genetically Modified Food (England) Regulations 2004
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2004 No. 2335
+
+FOOD, ENGLAND
+
+The Genetically Modified Food (England) Regulations 2004
+
+Made
+
+1st September 2004
+
+Laid before Parliament
+
+13th September 2004
+
+Coming into force
+
+4th October 2004
+
+The Secretary of State, in exercise of the powers conferred on him by sections 16(1)(a), (e) and (f), 17(2), 18(1), 26(1) and (3) and 48(1) of the Food Safety Act 1990 [^c5269121] and now vested in him [^c5269131], and having had regard in accordance with section 48(4A) of that Act to relevant advice given by the Food Standards Agency, and after consultation both as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c5269141] and in accordance with section 48(4) and (4B) of that Act, makes the following Regulations:
+
+## 1. Title, commencement and application
+
+These Regulations —
+
+- (a) may be cited as the Genetically Modified Food (England) Regulations 2004;
+- (b) shall come into force on 4th October 2004; and
+- (c) shall apply in relation to England only.
+
+## 2. Interpretation
+
+(1) In these Regulations —
+
+- “**the Act**” means the Food Safety Act 1990;
+- “**food authority**” does not include
+  - (a) the council of a district of a non-metropolitan county, except where the county functions have been transferred to that council pursuant to a structural change, or
+  - (b) the appropriate Treasurer referred to in section 5(1)(c) of the Act (which deals with the Inner and Middle Temple);
+- “**Regulation 1829/2003**” means Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) of the European Parliament and of the Council on genetically modified food and feed [^c5269151];
+- “**specified Community provision**” means a provision of Regulation 1829/2003 specified in Column 1 and described in Column 2 of the Schedule to these Regulations.
+
+(2) In these Regulations—
+
+- (a) any reference to a numbered article is a reference to the article so numbered in Regulation 1829/2003;
+- (b) any reference to a numbered regulation is a reference to the regulation so numbered in these Regulations;
+- (c) any reference to a Schedule is a reference to the Schedule to these Regulations.
+
+(3) Other expressions used in these Regulations and in Regulation 1829/2003 have the same meanings in these Regulations as in Regulation 1829/2003.
+
+## 3. Submission of applications for authorisation to market products
+
+The national competent authority for the purposes of Chapter II of Regulation 1829/2003 shall be the Food Standards Agency [^c5269161].
+
+## 4. Enforcement
+
+Each food authority shall, within its area, enforce and execute the provisions of these Regulations and Chapter II of Regulation 1829/2003.
+
+## 5. Offences and Penalties
+
+(1) Any person who, after the date on which these Regulations come into force, contravenes or fails to comply with the specified Community provision referred to in Part I of the Schedule shall be guilty of an offence and liable —
+
+- (a) on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment to imprisonment for a term not exceeding two years or to a fine or to both.
+
+(2) Any person who, after the date on which these Regulations come into force, contravenes or fails to comply with any of the specified Community provisions referred to in Part II of the Schedule shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale, or to both.
+
+## 6. Application of various provisions of the Act
+
+(1) The following provisions of the Act shall apply for the purposes of these Regulations and Regulation 1829/2003 as they apply for the purposes of the Act —
+
+- (a) section 3 (presumption that food is intended for human consumption);
+- (b) section 20 (offences due to the fault of another person);
+- (c) section 21 (defence of due diligence) as it applies for the purposes of sections 8, 14 or 15 of that Act;
+- (d) section 22 (defence of publication in the course of business);
+- (e) section 30(8) (which relates to documentary evidence);
+- (f) section 33(1) (obstruction, etc. of officers);
+- (g) section 33(2), with the modification that the reference to “any such requirement as is mentioned in subsection 1(b) above” shall be deemed to be a reference to any such requirement as is mentioned in that subsection as applied by sub–paragraph (f);
+- (h) section 35(1) (punishment of offences) insofar as it relates to offences under section 33(1) as applied by sub–paragraph (f);
+- (i) section 35(2) and (3) insofar as it relates to offences under section 33(2) as applied by sub–paragraph (g);
+- (j) section 36 (offences by bodies corporate); and
+- (k) section 44 (protection of officers acting in good faith).
+
+(2) Section 34 (time limit for prosecutions) shall apply to offences under regulation 5 as it applies to offences punishable under section 35(2) of the Act.
+
+## 7. Inspection , detention and seizure of suspected food
+
+(1) Section 8(3) of the Act shall apply for the purposes of these Regulations as if it read as follows —
+
+> (3) Where any food which fails to comply with a specified Community provision within the meaning of the Genetically Modified Food (England) Regulations 2004 is part of a batch, lot or consignment of food of the same class or description, it shall be presumed for the purposes of section 9 as applied by those Regulations until the contrary is proved, that all of the food in that batch, lot or consignment fails to comply with that specified Community provision.
+
+(2) Section 9 of the Act shall apply for the purposes of these Regulations as if it read as follows—
+
+> **9.**
+>
+> (1) An authorised officer of a food authority may at all reasonable times inspect any food intended for human consumption which —
+>
+> - (a) has been placed on the market; or
+> - (b) is in the possession of, or has been deposited with or consigned to, any person for the purpose of placing it on the market;
+>
+> and subsections (2) to (9) below shall apply where it appears to the authorised officer, taking account of all the information available to him, that the placing on the market of any food fails to comply with a specified Community provision.
+>
+> (2) The authorised officer may either —
+>
+> - (a) give notice to the person in charge of the food that, until the notice is withdrawn, the food or any specified portion of it —
+>   - (i) is not to be used for human consumption; and
+>   - (ii) either is not to be removed or is not to be removed except to some place specified in the notice; or
+> - (b) seize the food and remove it in order to have it dealt with by a justice of the peace;
+>
+> and any person who knowingly contravenes the requirements of a notice under paragraph (a) above shall be guilty of an offence.
+>
+> (3) Where the authorised officer exercises the powers conferred by subsection (2)(a) above, he shall, as soon as is reasonably practicable and in any event within 21 days, determine whether or not he is satisfied that the food complies with the specified Community provisions and —
+>
+> - (a) if he is so satisfied, shall forthwith withdraw the notice;
+> - (b) if he is not so satisfied, shall seize the food and remove it in order to have it dealt with by a justice of the peace.
+>
+> (4) Where an authorised officer exercises the powers conferred by subsection (2)(b) or (3)(b) above, he shall inform the person in charge of the food of his intention to have it dealt with by a justice of the peace and —
+>
+> - (a) any person who under regulation 5 of the Genetically Modified Food (England) Regulations 2004 might be liable to a prosecution in respect of the food shall, if he attends before the justice of the peace by whom the food falls to be dealt with, be entitled to be heard and to call witnesses; and
+> - (b) that justice of the peace may, but need not, be a member of the court before which any person is charged with an offence in relation to that food.
+>
+> (5) If it appears to a justice of the peace, on the basis of such evidence as he considers appropriate in the circumstances, that any food falling to be dealt with by him under this section fails to comply with a specified Community provision then subject to subsection (6) below he shall condemn the food and order —
+>
+> - (a) that food to be destroyed or to be so disposed of as to prevent it from being used for human consumption or animal feed; and
+> - (b) any expenses reasonably incurred in connection with the destruction or disposal to be defrayed by the operator.
+>
+> (6) In the case of a food referred to in Article 3.1 which is the subject of an authorisation granted under Regulation 1829/2003 and has been produced in accordance with any conditions relating to that authorisation but does not bear the appropriate labelling as required by Article 13 the justice of the peace may, at his discretion, order —
+>
+> - (a) that the food be labelled properly as soon as is reasonably practicable and at the expense of the operator; and
+> - (b) the release of the food into the custody of the operator.
+>
+> (7) If a notice under subsection (2)(a) above is withdrawn, or the justice of the peace by whom any food falls to be dealt with under this section refuses to condemn it or to make an order for the proper labelling of the food, the food authority shall compensate the owner of the food for any depreciation in its value resulting from the action taken by the authorised officer.
+>
+> (8) Any disputed question as to the right to or the amount of any compensation payable under subsection (7) above shall be determined by arbitration.
+>
+> (9) In this section “**specified Community provision**” has the same meaning as in the Genetically Modified Food (England) Regulations 2004.
+
+.
+
+## 8. Revocation
+
+The Genetically Modified and Novel Foods (Labelling) (England) Regulations 2000 [^c5269171] are hereby revoked.
+
+## 9. Consequential amendments
+
+(1) In the Novel Foods and Novel Food Ingredients Regulations 1997 [^c5269181] —
+
+- (a) in regulation 2(1), in the definition of “Regulation EC No. 258/97”, after the words “novel foods and novel food ingredients” there shall be inserted: “ as amended by Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) of the European Parliament and of the Council on genetically modified food and feed ”.
+- (b) in the Schedule, after item 6, there shall be inserted in the first column: “ 6A. Article 8.1 ” and in the second column: “ Requirement that labelling inform the final consumer of any characteristic or food property which renders a novel food or food ingredient no longer equivalent to an existing food or food ingredient. ”.
+
+(2) In the Food (Provisions Relating to Labelling) (England) Regulations 2003 [^c5269191], regulation 8 is hereby revoked.
+
+Signed by authority of the Secretary of State for Health
+
+Melanie Johnson
+
+Parliamentary Under Secretary of State,
+
+Department of Health
+
+## THE SCHEDULE — SPECIFIED COMMUNITY PROVISIONS
+
+Regulations 2 and 5
+
+### PART I
+
+| *Provision of Regulation 1829 /2003* | *Subject Matter* |
+| --- | --- |
+| Article 4.2 | Prohibition on placing on the market a food referred to in Article 3.1 unless it is covered by an authorisation and satisfies relevant conditions of the authorisation. |
+
+### PART II
+
+| *Provision of Regulation 1829 /2003* | *Subject Matter* |
+| --- | --- |
+| [^key-1fd462a2e2ce78e90533e6db38f5f570]. . . | [^key-1fd462a2e2ce78e90533e6db38f5f570]. . . |
+| Article 9 | Requirement that an authorisation holder and parties concerned must comply with conditions or restrictions imposed on an authorisation for a product and with post-market monitoring requirements. |
+| Article 9.3 | Requirement that an authorisation holder inform the Food Safety Authority[^key-641e838575ec96fe5680c9c00ac75b1a] of any new scientific or technical information relating to a product, which might influence the evaluation of the safety in use of the food or of any prohibition or restriction on the food in a third country. |
+| Article 13 | Requirement for certain labelling indications |
+
+*(This note is not part of the Regulations)*
+
+These Regulations, which apply to England, provide for the enforcement and execution of certain specified provisions (relating to food) of Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) of the European Parliament and of the Council on genetically modified food and feed (OJ No. L268, 18.10.2003, p.1). Separate Regulations make provision for the enforcement of those provisions of Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) relating to animal feed.
+
+In particular these Regulations —
+
+- (a) formally designate the Food Standards Agency as the national competent authority to receive applications for the authorisation of new genetically modified organisms for food use, food containing or consisting of genetically modified organisms, or food produced from or containing ingredients produced from genetically modified organisms *(regulation 3)*;
+- (b) provide for food authorities to enforce the provisions of these Regulations and Chapter II of Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) *(regulation 4)*;
+- (c) establish penalties for failing to comply with certain specified provisions of Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829), once the Regulations are in force *(regulation 5 and the Schedule)*;
+- (d) apply various provisions of the Food Safety Act 1990 with some modifications in their application for the purposes of these Regulations *(regulations 6 and 7)*;
+- (e) revoke the Genetically Modified and Novel Foods (Labelling) (England) Regulations 2000 *(regulation 8)*;
+- (f) make consequential amendments to the Novel Foods and Novel Food Ingredients Regulations 1997 and to the Food (Provisions Relating to Labelling) (England) Regulations 2003 *(regulation 9)*.
+
+A Regulatory Impact Assessment has been prepared and placed in the Library of each House of Parliament. Copies may be obtained from the Novel Foods, Food Supplements and Additives Division of the Food Standards Agency, Aviation House, 125 Kingsway, London WC2B 6NH.
+
+## Annotations
+
+[^c5269121]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
+
+[^c5269131]: Marginal citation: Functions formerly exercisable by “the Ministers” (being, in relation to England and Wales and acting jointly, the Minister of Agriculture, Fisheries and Food and the Secretaries of State respectively concerned with health in England and food and health in Wales and, in relation to Scotland, the Secretary of State) are now exercisable in relation to England by the Secretary of State pursuant to paragraphs 7 and 8 of Schedule 5 to the [Food Standards Act 1999 (1999 c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), and paragraphs 12 and 21 of that Schedule amend sections 17(1) and 48 of the Food Safety Act 1990. Functions of “the Ministers” so far as exercisable in relation to Wales were transferred to the National Assembly for Wales by the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672), as read with section 40(3) of the 1999 Act, and those functions so far as exercisable in relation to Scotland were transferred to the Scottish Ministers by section 53 of the [Scotland Act 1998 (1998 c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), as read with section 40(2) of the 1999 Act. Regulation 13(4) of the [Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (England and Wales) Regulations 2000 (S.I. 2000/656)](https://www.legislation.gov.uk/uksi/2000/656) expressly authorises the Secretary of State to amend or revoke existing Regulations made or having effect as if made by the Minister of Agriculture, Fisheries and Food (whether with others or not) under the Food Safety Act 1990.
+
+[^c5269141]: Marginal citation: OJ No. L31, 1.2.2002, p.1.
+
+[^c5269151]: Marginal citation: OJ No. L268, 18.10.2003, p.1.
+
+[^c5269161]: Marginal citation: Whose address in England is Aviation House, 125 Kingsway, London WC2B 6NH.
+
+[^c5269171]: Marginal citation: [S.I. 2000/768](https://www.legislation.gov.uk/uksi/2000/768).
+
+[^c5269181]: Marginal citation: [S.I. 1997/1335](https://www.legislation.gov.uk/uksi/1997/1335) as amended by [S.I. 1999/1756](https://www.legislation.gov.uk/uksi/1999/1756), [S.I](https://www.legislation.gov.uk/uksi/1999/1756/section/I). 1999/3182, [S.I. 2000/253](https://www.legislation.gov.uk/uksi/2000/253), [S.I](https://www.legislation.gov.uk/uksi/2000/253/section/I). 2000/656, [S.I. 2000/768](https://www.legislation.gov.uk/uksi/2000/768).
+
+[^c5269191]: Marginal citation: [S.I. 2003/2647](https://www.legislation.gov.uk/uksi/2003/2647).
+
+[^key-1fd462a2e2ce78e90533e6db38f5f570]: Textual amendment: Words in Sch. Pt. 2 omitted (31.12.2020) by virtue of [The Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/705)](https://www.legislation.gov.uk/uksi/2019/705), [regs. 1](https://www.legislation.gov.uk/uksi/2019/705/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2019/705/regulation/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-641e838575ec96fe5680c9c00ac75b1a]: Textual amendment: Words in Sch. Pt. 2 substituted (31.12.2020) by [The Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/705)](https://www.legislation.gov.uk/uksi/2019/705), [regs. 1](https://www.legislation.gov.uk/uksi/2019/705/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2019/705/regulation/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

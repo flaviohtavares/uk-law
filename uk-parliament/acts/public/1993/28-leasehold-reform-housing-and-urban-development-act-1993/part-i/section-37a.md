@@ -1,0 +1,71 @@
+---
+title: Leasehold Reform, Housing and Urban Development Act 1993, section 37A
+act: Leasehold Reform, Housing and Urban Development Act 1993
+section: 37A
+status: revised-with-pending-changes
+text_date: '2025-05-19'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1993/28/section/37A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Leasehold Reform, Housing and Urban Development Act 1993, section 37A
+
+> **Warning: changes not yet applied to this text (453).** Text as at 2025-05-19. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/28
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 37A. Compensation for postponement of termination in connection with ineffective claims.[^c17024411]
+
+*Extent: E+W*
+
+(1) This section applies where a claim to exercise the right to collective enfranchisement in respect of any premises is made on or after 15th January 1999 by tenants of flats contained in the premises and the claim is not effective.
+
+(2) A person who is a participating tenant immediately before the claim ceases to have effect shall be liable to pay compensation if—
+
+- (a) the claim was not made at least two years before the term date of the lease by virtue of which he is a qualifying tenant (“the existing lease”), and
+- (b) any of the conditions mentioned in subsection (3) is met.
+
+(3) The conditions referred to above are—
+
+- (a) that the making of the claim caused a notice served under paragraph 4(1) of Schedule 10 to the Local Government and Housing Act 1989 in respect of the existing lease to cease to have effect and the date on which the claim ceases to have effect is later than four months before the termination date specified in the notice,
+- (b) that the making of the claim prevented the service of an effective notice under paragraph 4(1) of Schedule 10 to the Local Government and Housing Act 1989 in respect of the existing lease (but did not cause a notice served under that provision in respect of that lease to cease to have effect) and the date on which the claim ceases to have effect is a date later than six months before the term date of the existing lease, and
+- (c) that the existing lease has been continued under paragraph 6(1) of Schedule 3 by virtue of the claim.
+
+(4) Compensation under subsection (2) shall become payable at the end of the appropriate period and be the right of the person who is the tenant’s immediate landlord at that time.
+
+(5) The amount which a tenant is liable to pay under subsection (2) shall be equal to the difference between—
+
+- (a) the rent for the appropriate period under the existing lease, and
+- (b) the rent which might reasonably be expected to be payable for that period were the property to which the existing lease relates let for a term equivalent to that period on the open market by a willing landlord on the following assumptions—
+  - (i) that no premium is payable in connection with the letting,
+  - (ii) that the letting confers no security of tenure, and
+  - (iii) that, except as otherwise provided by this paragraph, the letting is on the same terms as the existing lease.
+
+(6) For the purposes of subsections (4) and (5), the appropriate period is—
+
+- (a) in a case falling within paragraph (a) of subsection (3), the period—
+  - (i) beginning with the termination date specified in the notice mentioned in that paragraph, and
+  - (ii) ending with the earliest date of termination which could have been specified in a notice under paragraph 4(1) of Schedule 10 to the [^c17024421]Local Government and Housing Act 1989 in respect of the existing lease served immediately after the date on which the claim ceases to have effect, or, if the existing lease is terminated before then, with the date of its termination;
+- (b) in a case falling within paragraph (b) of subsection (3), the period—
+  - (i) beginning with the later of six months from the date on which the claim is made and the term date of the existing lease, and
+  - (ii) ending six months after the date on which the claim ceases to have effect, or, if the existing lease is terminated before then, with the date of its termination; and
+- (c) in a case falling within paragraph (c) of subsection (3), the period for which the existing lease is continued under paragraph 6(1) of Schedule 3.
+
+(7) In the case of a person who becomes a participating tenant by virtue of an election under section 14(3), the references in subsections (3)(a) and (b) and (6)(b)(i) to the making of the claim shall be construed as references to the making of the election.
+
+(8) For the purposes of this section—
+
+- (a) references to a claim to exercise the right to collective enfranchisement shall be taken as references to a notice given, or purporting to be given (whether by persons who are qualifying tenants or not), under section 13,
+- (b) references to the date on which a claim ceases to have effect shall, in the case of a claim made by a notice which is not a valid notice under section 13, be taken as references to the date on which the notice is set aside by the court or is withdrawn or would, if valid, cease to have effect or be deemed to have been withdrawn, that date being taken, where the notice is set aside, or would, if valid, cease to have effect, in consequence of a court order, to be the date when the order becomes final, and
+- (c) a claim to exercise the right to collective enfranchisement is not effective if it ceases to have effect for any reason other than—
+  - (i) the application of section 23(4), 30(4) or 31(4),
+  - (ii) the entry into a binding contract for the acquisition of the freehold and other interests falling to be acquired in pursuance of the claim, or
+  - (iii) the making of an order under section 24(4)(a) or (b) or 25(6)(a) or (b) which provides for the vesting of those interests.
+
+## Annotations
+
+[^c17024411]: Textual amendment: [Ss. 37A](https://www.legislation.gov.uk/ukpga/1993/28/section/37A), [37B](https://www.legislation.gov.uk/ukpga/1993/28/section/37B) and crossheading inserted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 116](https://www.legislation.gov.uk/ukpga/1996/52/section/116), [Sch. 11 para. 2(1)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/11/paragraph/2/1); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2](https://www.legislation.gov.uk/uksi/1996/2212/article/2)
+
+[^c17024421]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).

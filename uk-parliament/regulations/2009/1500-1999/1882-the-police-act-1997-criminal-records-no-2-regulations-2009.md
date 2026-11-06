@@ -1,0 +1,264 @@
+---
+title: The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009
+id: uksi/2009/1882
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-07-11'
+text_date: '2026-01-21'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2009/1882
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/1882/pdfs/uksiem_20091882_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/1882/pdfs/uksi_20091882_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/1882/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009
+
+> Text as at 2026-01-21.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2009 No. 1882
+
+Police, England And Wales
+
+The Police Act 1997 (Criminal Records) (No. 2) Regulations 2009
+
+Made
+
+11th July 2009
+
+Laid before Parliament
+
+15th July 2009
+
+Coming into force
+
+12th October 2009
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 113B(2)(b), 113BA(1), 113BB(1) and 125 of the Police Act 1997[^f00001].
+
+## 1. Citation, commencement, interpretation and extent[^key-0df2269579e9214b89cf9b94aa4e554c]
+
+(1) These Regulations may be cited as the Police Act 1997 (Criminal Records) (No.2) Regulations 2009 and shall come into force on 12th October 2009.
+
+(2) In these Regulations, “the 2002 Regulations” mean the Police Act 1997 (Criminal Records) Regulations 2002[^f00002].
+
+(3) These Regulations extend to England and Wales.
+
+## 2. Amendment of regulation 2 of the 2002 Regulations[^key-a3abd09db59f5992d3be745316dbf906]
+
+In regulation 2 of the 2002 Regulations, at the appropriate place, insert—
+
+> - “childcare” has the meaning given by section 18 of the Childcare Act 2006[^f00003];
+> - “child minding” for the purposes of regulation 5A(g) has the meaning given by section 79A(2) of the Children Act 1989[^f00004];
+> - “day care” for the purposes of regulation 5A(g) has the meaning given by section 79A(6) of the Children Act 1989;
+
+.
+
+## 3. Amendment of regulation 5A of the 2002 Regulations[^key-0a2d1641d290b585223ca941ee4b3a18]
+
+(1) Regulation 5A of the 2002 Regulations is amended as follows.
+
+(2) For paragraph (a) substitute—
+
+> - (a) considering the applicant’s suitability—
+>   - (i) to engage in any activity which is a regulated activity relating to children within the meaning of Part 1 of Schedule 4 to the Safeguarding Vulnerable Groups Act 2006[^f00005], or
+>   - (ii) for a position which otherwise involves regularly caring for, training, supervising or being solely in charge of, persons aged under 18;
+
+.
+
+(3) For paragraph (b) substitute—
+
+> - (b) considering the applicant’s suitability—
+>   - (i) to engage in any activity which is a regulated activity relating to vulnerable adults within the meaning of Part 2 of Schedule 4 to the Safeguarding Vulnerable Groups Act 2006, or
+>   - (ii) for a position which otherwise involves regularly caring for, training, supervising or being solely in charge of vulnerable adults within the meaning of section 59 of the Safeguarding Vulnerable Groups Act 2006;
+
+.
+
+(4) Omit paragraph (ba)(i).
+
+(5) In paragraph (ba)(ii) for “such adults” insert “vulnerable adults within the meaning of section 59 of the Safeguarding Vulnerable Groups Act 2006”.
+
+(6) For paragraph (g) substitute—
+
+> - (g) registration for child minding or providing day care under Part XA[^f00006] of the Children Act 1989, including assessing the suitability of any person to have regular contact with children who is—
+>   - (i) aged 16 or over and living on the premises at which the child minding or day care is being or is to be provided;
+>   - (ii) aged 16 or over and working, or who will be working, on the premises at which the child minding or day care is being or is to be provided at times when such child minding or day care is being or is to be provided;
+
+.
+
+(7) In paragraph (ga) after “(regulation of provision of childcare in England)” insert—
+
+> , including assessing the suitability of any person to have regular contact with children who is—
+>
+> - (i) aged 16 or over and living on the premises at which the childcare is being or is to be provided;
+> - (ii) aged 16 or over and working on the premises at which the childcare is being or is to be provided at times when such childcare is being or is to be provided;
+
+.
+
+(8) In paragraph (j) for “section 68” substitute “section 67” and after “(welfare of privately fostered children)” insert—
+
+> , including obtaining information in respect of any person who is—
+>
+> - (i) aged 18 or over and living in the same household as a person who is, or who wishes to be approved as, a foster parent within the meaning of section 53(7)(a) or (b) of the Safeguarding Vulnerable Groups Act 2006;
+> - (ii) aged 16 or over and living in the same household as a person who fosters, or intends to foster, a child privately within the meaning of section 66(1) of the Children Act 1989 or who is otherwise a private foster parent within the meaning of section 53(7)(c) and (8) of the Safeguarding Vulnerable Groups Act 2006;
+
+.
+
+(9) In paragraph (k) after “suitability to adopt a child” insert “, including obtaining information in respect of any person aged 18 years or over living in the same household as the prospective adopter;”.
+
+(10) Omit paragraphs (l), (m), (n) and (o).
+
+(11) Omit paragraphs (s) and (t).
+
+(12) In paragraph (v) omit “considering an individual’s suitability for the position of Commissioner for Older People in Wales, or that of his deputy, or for” and after “Commissioner” insert “for Older People in Wales”.
+
+(13) Omit paragraph (w).
+
+(14) After paragraph (w) insert—
+
+> - (x) considering the applicant’s suitability for work as a person who provides immigration advice or services as defined in section 82(1) of the Immigration and Asylum Act 1999[^f00007] and is—
+>   - (i) a registered person under Part 5 of that Act, or
+>   - (ii) a person who acts on behalf of and under the supervision of such a registered person, or
+>   - (iii) a person who is exempt by section 84(4)(a) to (c) of that Act;
+> - (y) considering the applicant’s suitability to obtain or retain a licence under regulation 5 of the Misuse of Drugs Regulations 2001[^f00008] or under Article 3(2) of Regulation 2004/273/EC[^f00009] or under Article 6(1) of Regulation 2005/111/EC[^f00010] where the question relates to any person who as a result of his role in the body concerned is required to be named in the application for such a licence (or would have been so required if that person had had that role at the time the application was made); or
+> - (z) considering the applicant’s suitability for any office or employment or other work in the Criminal Records Bureau.
+
+## 4. Revocation of regulations 5B, 5C, 6, 7, 8 and 8A of the 2002 Regulations[^key-105007f613f54b9a3e429e8376e8329f]
+
+Regulations 5B, 5C, 6, 7, 8 and 8A of the 2002 Regulations are revoked.
+
+## 5. Suitability information relating to children[^key-bd8bd80d44100df1c6f3b7769ef879a6]
+
+Cases in which an application for an enhanced criminal records certificate is made for the purposes of—
+
+- (a) considering the applicant’s suitability to engage in any activity which is a regulated activity relating to children within the meaning of Part 1 of Schedule 4 to the Safeguarding Vulnerable Groups Act 2006;
+- (b) assessing the suitability of a person to have regular contact with children who is aged 16 or over and who lives in the same household as an individual who is having or who has had their suitability assessed for the purposes of engaging in a regulated activity relating to children, where that individual, and the person who lives in the same household, live on the premises where that regulated activity would normally take place;
+- (c) considering the suitability of a person for the purposes of registration for childcare, including assessing the suitability of a person to have regular contact with children who is—
+  - (i) aged 16 or over and living on the premises at which childcare is being or is to be provided;
+  - (ii) aged 16 or over and working, or who will be working, on the premises at which childcare is being or is to be provided at times when such childcare is being provided or is to be provided;
+
+  where that childcare is the provision of childminding or day care within the meaning of section 19 of the Children and Families (Wales) Measure 2010 or the provision of childcare within the meaning of section 18 of the Childcare Act 2006;
+- (d) placing children with foster parents in accordance with any provision of, or made by virtue of, the Children Act 1989 or the Children (Northern Ireland) Order 1995 or the exercise of any duty under or by virtue of section 67 of that Act or Article 108 of that Order (welfare of privately fostered children) including obtaining information in respect of any person who is—
+  - (i) aged 16 or over and living in the same household as a person who is, or who wishes to be approved as, a foster parent within the meaning of section 53(7)(a) or (b) of the Safeguarding Vulnerable Groups Act 2006;
+  - (ii) aged 16 or over and living in the same household as a person who fosters, or intends to foster, a child privately within the meaning of section 66(1) of the Children Act 1989 or who is otherwise a private foster parent within the meaning of section 53(7)(c) of the Safeguarding Vulnerable Groups Act 2006;
+- (e)[^key-e80b070f7c26154d6950a12f36d25f08] a decision made by an adoption agency within the meaning of section 2 of the Adoption and Children Act 2002, or the compiling of a report for an authority making a decision in respect of an application to be a special guardian within the meaning of section 14A of the Children Act 1989, as to a person’s suitability to adopt a child or be a special guardian, including obtaining information in respect of any person aged 18 years or over living in the same household as the prospective adopter or special guardian;
+- (f) considering the applicant’s suitability for any office or employment or other work in the Criminal Records Bureau;
+- (g) considering the applicant’s suitability to obtain or hold a licence under section 46 of the Town Police Clauses Act 1847; section 8 of the Metropolitan Public Carriage Act 1869; section 9 of the Plymouth City Council Act 1975; section 51 of the Local Government (Miscellaneous Provisions) Act 1976; or section 13 of the Private Hire Vehicles (London) Act 1998;
+- (h)[^key-fe68b1105f608899a2382425e9ec16e1] considering whether a person, “the current or potential sponsor”, meets or continues to meet the requirements for approval to provide accommodation to a person who has applied for or has been granted permission to enter into or stay in the United Kingdom in accordance with Appendix Ukraine Scheme of the Immigration Rules, including assessing the suitability of any person aged 16 or over, who lives in the same household as the current or potential sponsor, to have regular contact with a person who may be or has been provided with accommodation under that Scheme;[^key-e5a592d24283dc0a4b51ff6fd1f1a13a]
+- (i)[^key-bfdb1bac75ebaf6df91abdc9bc5bc0ee] considering the applicant’s suitability to obtain or hold a licence granted under regulations made under section 2 of the Pedicabs (London) Act 2024;
+- (j) considering the applicant’s suitability to assess children as a registered health care professional, within the meaning of “health care professional” in section 39(1) of the Social Security Act 1998, where the applicant is employed or engaged by—
+  - (i) the Secretary of State for Work and Pensions; or
+  - (ii) contractors or sub-contractors, who are carrying out activities for the Secretary of State for Work and Pensions;
+
+are prescribed for the purposes of section 113BA of the Police Act 1997.
+
+## 6. Suitability information relating to vulnerable adults[^key-48399600eb35ea6559a897c5b2a5d4bd]
+
+Cases in which an application for an enhanced criminal records certificate is made for the purposes of—
+
+- (a) considering the applicant’s suitability to engage in any activity which is a regulated activity relating to vulnerable adults within the meaning of Part 2 of Schedule 4 to the Safeguarding Vulnerable Groups Act 2006;
+- (b) considering the applicant’s suitability for any office or employment or other work in the Criminal Records Bureau;
+- (c) considering the applicant’s suitability to obtain or hold a licence under section 46 of the Town Police Clauses Act 1847; section 8 of the Metropolitan Public Carriage Act 1869; section 9 of the Plymouth City Council Act 1975; section 51 of the Local Government (Miscellaneous Provisions) Act 1976; or section 13 of the Private Hire Vehicles (London) Act 1998;
+- (d)[^key-65f55291c6b7163c17bc22c1597ddf04] considering whether a person. “the current or potential sponsor”, meets or continues to meet the requirements for approval to provide accommodation to a person who has applied for or has been granted permission to enter into or stay in the United Kingdom in accordance with Appendix Ukraine Scheme of the Immigration Rules, including assessing the suitability of any person aged 16 or over, who lives in the same household as the current or potential sponsor, to have regular contact with a person who may be or has been provided with accommodation under that Scheme;[^key-67310fc4af8e747a7ff14981e850a4b5]
+- (e)[^key-e69074cb718bb00ef8117b7348849c94] considering the applicant’s suitability to obtain or hold a licence granted under regulations made under section 2 of the Pedicabs (London) Act 2024;
+- (f) considering the applicant’s suitability to assess vulnerable adults as a registered health care professional, within the meaning of “health care professional” in section 39(1) of the Social Security Act 1998, where the applicant is employed or engaged by—
+  - (i) the Secretary of State for Work and Pensions; or
+  - (ii) contractors or sub-contractors, who are carrying out activities for the Secretary of State for Work and Pensions;
+
+are prescribed for the purposes of section 113BB of the Police Act 1997.
+
+## 7. Revocation of the Protection of Vulnerable Adults Regulations 2002[^key-1006ce7922f22236f6eebfd36b06a957]
+
+The Police Act 1997 (Enhanced Criminal Record Certificates) (Protection of Vulnerable Adults) Regulations 2002[^f00011] are revoked.
+
+David Hanson
+
+Minister of State
+
+Home Office
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, which come into force on 12th October 2009, amend the purposes for which an application for an enhanced criminal records certificate can be made under section 113B of the Police Act 1997 (“the Act”). The Regulations also prescribe the cases in which those persons making such an application may receive suitability information in respect of children (under section 113BA of the Act) or vulnerable adults (under section 113BB of the Act).
+
+Regulation 3 amends regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002 (“the 2002 Regulations”) to extend the purposes for which an application under section 113B of the Act can be made. The new purposes firstly facilitate the Vetting and Barring Scheme, established under the Safeguarding Vulnerable Groups Act 2006, in which the Independent Safeguarding Authority[^f00012] takes the decision as to whether any particular individual should be barred from engaging in a regulated activity relating to children and/or vulnerable adults, which in brief involves regular contact with children or vulnerable adults. Therefore any activity which is a regulated activity, relating to either children or vulnerable adults, is prescribed for the purposes of applications under section 113B of the Act.
+
+Regulations 5A(g) and 5A(ga) of the 2002 Regulations are amended in order to clarify that they include persons living or working on premises at which childcare is to be carried out. In a similar manner, regulation 5A(j) is amended to clarify that it includes persons living in the same household as a foster parent and regulation 5A(k) is amended to clarify that it includes persons living in the same households as adoptive parents.
+
+Paragraphs (l), (m), (n), (o), (s), (t) and (w) of regulation 5A of the 2002 Regulations are omitted as the positions that they covered will now fall within the definition of a regulated activity. Regulation 5A(v) is amended to reflect the position that some of those positions will now fall within the definition of a regulated activity.
+
+There are three new purposes for which an application under section 113B can be made – considering the suitability of a person to become a registered immigration advisor, considering the suitability of a person to obtain or retain a drugs licence and considering the suitability of a person to work in the Criminal Records Bureau.
+
+Regulation 4 revokes regulations 5B, 5C, 6, 7, 8, and 8A of the 2002 Regulations. This is because amendments made as a result of the commencement of the Vetting and Barring Scheme mean that regulations 6, 7 and 8 are no longer necessary. Regulations 5B, 5C and 8A are no long necessary as they were concerned with what now is defined as a regulated activity.
+
+Regulation 5 prescribes the cases in which suitability information in relation to children must be included in an enhanced criminal records certificate. Suitability information includes, as listed in section 113BA of the Act, information as to whether the individual is barred from engaging in regulated activity relating to children or is subject to monitoring in relation to such regulated activity. The cases are prescribed with reference to the purposes prescribed under regulation 5A of the 2002 regulations and are as follows: regulated activity relating to children, other positions involving regularly caring, training, supervising or being solely in charge of children, childminding and other forms of childcare (including those working or living on the premises), registration under Part II of the Care Standards Act 2000, foster and adoptive parents (including those living in the same household), working in the Department for Children, Schools and Families, the Office for Standards in Education, Children’s Services and Skills or in the Government Offices for the English Regions with access to sensitive or personal information about children or vulnerable adults, work involving the establishment or operation of a database under section 12 of the Children Act 2004 and work in the Criminal Records Bureau.
+
+Regulation 6 prescribes the cases in which suitability information in relation to vulnerable adults must be provided on an enhanced criminal records certificate. Suitability information includes, as listed in section 113BB of the Act, information as to whether the individual is barred from engaging in regulated activity in relation to vulnerable adults or is subject to monitoring in relation to such regulated activity. The cases are prescribed with reference to the purposes prescribed under regulation 5A of the 2002 regulations and are as follows: regulated activity relating to vulnerable adults, other positions involving regularly caring, training, supervising or being solely in change of vulnerable adults, providing advocacy or other representation services for vulnerable adults, registration under Part II of the Care Standards Act, working in the Department for Children, Schools and Families, the Office for Standards in Education, Children’s services and Skills or in the Government Offices for the English Regions with access to sensitive or personal information about children or vulnerable adults, working for the Commissioner for Older People in Wales and work in the Criminal Records Bureau.
+
+Regulation 7 revokes the Police Act 1997 (Enhanced Criminal Record Certificates) (Protection of Vulnerable Adults) Regulations 2002 as these are no longer necessary now that the 2002 Regulations are using the definition of vulnerable adults in the Safeguarding Vulnerable Groups Act.
+
+## Annotations
+
+[^f00001]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50). Section 113B was inserted by section 163(2) of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) and was amended by [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203). Sections 113BA and BB were inserted by section 63(1) of, and paragraph 14(1) and (4) of Schedule 9 to, the Safeguarding Vulnerable Groups Act [2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47).
+
+[^key-0df2269579e9214b89cf9b94aa4e554c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1) in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1)
+
+[^f00002]: Footnote: [S.I. 2002/233](https://www.legislation.gov.uk/uksi/2002/233) as amended by [S.I. 2003/137](https://www.legislation.gov.uk/uksi/2003/137), [2003/520](https://www.legislation.gov.uk/uksi/2003/520), [2003/1418](https://www.legislation.gov.uk/uksi/2003/1418), [2004/1759](https://www.legislation.gov.uk/uksi/2004/1759), [2005/347](https://www.legislation.gov.uk/uksi/2005/347), [2006/748](https://www.legislation.gov.uk/uksi/2006/748), [2006/2181](https://www.legislation.gov.uk/uksi/2006/2181), [2007/700](https://www.legislation.gov.uk/uksi/2007/700), [2007/1892](https://www.legislation.gov.uk/uksi/2007/1892), [2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), [2008/2143](https://www.legislation.gov.uk/uksi/2008/2143) and [2009/460](https://www.legislation.gov.uk/uksi/2009/460).
+
+[^key-a3abd09db59f5992d3be745316dbf906]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/1882/regulation/2) in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1)
+
+[^f00003]: Footnote: [2006 c.21](https://www.legislation.gov.uk/ukpga/2006/21).
+
+[^f00004]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^key-0a2d1641d290b585223ca941ee4b3a18]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/1882/regulation/3) in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1)
+
+[^f00005]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
+
+[^f00006]: Footnote: Part XA was inserted by the Care Standards Act [2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14).
+
+[^f00007]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^f00008]: Footnote: [S.I. 2001/3998](https://www.legislation.gov.uk/uksi/2001/3998).
+
+[^f00009]: Footnote: O.J. No. L 47 18.2.2004, p.1.
+
+[^f00010]: Footnote: O.J. No. L 22, 26.1.2005, p.1.
+
+[^key-105007f613f54b9a3e429e8376e8329f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1882/regulation/4) in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1)
+
+[^key-bd8bd80d44100df1c6f3b7769ef879a6]: Textual amendment: Reg. 5 substituted (10.9.2012 at the same time as [2012 c. 9](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 64-66](https://www.legislation.gov.uk/ukpga/2012/9/section/64) come into force) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2012 (S.I. 2012/2114)](https://www.legislation.gov.uk/uksi/2012/2114), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2114/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2012/2114/regulation/12)
+
+[^key-e80b070f7c26154d6950a12f36d25f08]: Textual amendment: Reg. 5(e) substituted (2.12.2013) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2013 (S.I. 2013/2669)](https://www.legislation.gov.uk/uksi/2013/2669), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2669/regulation/3/2)
+
+[^key-fe68b1105f608899a2382425e9ec16e1]: Textual amendment: Reg. 5(h) inserted (13.10.2022) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2022 (S.I. 2022/979)](https://www.legislation.gov.uk/uksi/2022/979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/979/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/979/regulation/3/2)
+
+[^key-e5a592d24283dc0a4b51ff6fd1f1a13a]: Textual amendment: Words in reg. 5(h) substituted (21.1.2026) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2025 (S.I. 2025/1240)](https://www.legislation.gov.uk/uksi/2025/1240), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1240/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/1240/regulation/3/2/a)
+
+[^key-bfdb1bac75ebaf6df91abdc9bc5bc0ee]: Textual amendment: Reg. 5(i)(j) inserted (21.1.2026) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2025 (S.I. 2025/1240)](https://www.legislation.gov.uk/uksi/2025/1240), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1240/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/1240/regulation/3/2/b)
+
+[^key-48399600eb35ea6559a897c5b2a5d4bd]: Textual amendment: Reg. 6 substituted (10.9.2012 at the same time as [2012 c. 9](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 64-66](https://www.legislation.gov.uk/ukpga/2012/9/section/64) come into force) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2012 (S.I. 2012/2114)](https://www.legislation.gov.uk/uksi/2012/2114), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2114/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2012/2114/regulation/13)
+
+[^key-65f55291c6b7163c17bc22c1597ddf04]: Textual amendment: [Reg. 6(d)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/6/d) inserted (13.10.2022) by [The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations 2022 (S.I. 2022/979)](https://www.legislation.gov.uk/uksi/2022/979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/979/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2022/979/regulation/3/3)
+
+[^key-67310fc4af8e747a7ff14981e850a4b5]: Textual amendment: Words in [reg. 6(d)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/6/d) substituted (21.1.2026) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2025 (S.I. 2025/1240)](https://www.legislation.gov.uk/uksi/2025/1240), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1240/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/1240/regulation/3/3/a)
+
+[^key-e69074cb718bb00ef8117b7348849c94]: Textual amendment: [Reg. 6(e)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/6/e)[(f)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/6/f) inserted (21.1.2026) by [The Police Act 1997 (Criminal Records) (Amendment) Regulations 2025 (S.I. 2025/1240)](https://www.legislation.gov.uk/uksi/2025/1240), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1240/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2025/1240/regulation/3/3/b)
+
+[^key-1006ce7922f22236f6eebfd36b06a957]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/1882/regulation/7) in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1882/regulation/1/1)
+
+[^f00011]: Footnote: [S.I. 2002/446](https://www.legislation.gov.uk/uksi/2002/446).
+
+[^f00012]: Footnote: The Independent Barring Board was established by section 1 of the Safeguarding Vulnerable Groups Act 2006, but it is commonly known by the name “Independent Safeguarding Authority”.

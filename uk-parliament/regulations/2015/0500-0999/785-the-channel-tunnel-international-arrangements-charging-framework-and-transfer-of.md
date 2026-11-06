@@ -1,0 +1,152 @@
+---
+title: The Channel Tunnel (International Arrangements) (Charging Framework and Transfer of Economic Regulation Functions) Order 2015
+id: uksi/2015/785
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-03-24'
+text_date: '2016-07-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/785
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/785/pdfs/uksiem_20150785_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/785/pdfs/uksi_20150785_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/785/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Channel Tunnel (International Arrangements) (Charging Framework and Transfer of Economic Regulation Functions) Order 2015
+
+> Text as at 2016-07-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 785
+
+Railways
+
+The Channel Tunnel (International Arrangements) (Charging Framework and Transfer of Economic Regulation Functions) Order 2015
+
+Made
+
+24th March 2015
+
+Laid before Parliament
+
+26th March 2015
+
+Coming into force in accordance with article
+
+The Secretary of State for Transport makes this Order in exercise of the powers conferred on the appropriate Minister by section 11of the Channel Tunnel Act 1987[^f00001].
+
+## 1. Citation and commencement[^key-9edf038e0f53f3517cdba00ddc5afb9a]
+
+(1) This Order may be cited as the Channel Tunnel (International Arrangements) (Charging Framework and Transfer of Economic Regulation Functions) Order 2015.
+
+(2) This Order comes into force on the date when the IGC regulation comes into force, as provided for in Article 8 of that regulation.
+
+(3) The Secretary of State for Transport must give notice in the London, Edinburgh and Belfast Gazettes of the date provided for in paragraph (2).
+
+## 2. Interpretation[^key-3831cb510dd512f705a7d3fccb830ce6]
+
+In this Order—
+
+- ”the 2005 Order” means the Channel Tunnel (International Arrangements) Order 2005[^f00002];
+- “[^key-67eaed899d81855a1305505d228b4e5c]**the 2016 Regulations**” means the Railway (Access, Management and Licensing of Railway Undertakings) Regulations 2016;
+- “the IGC regulation” means the regulation of the Intergovernmental Commission of 23rd March 2015 transferring economic rail regulation competence from the Intergovernmental Commission to the national regulatory bodies, setting out principles for cooperation between them and establishing a charging framework for the Channel Fixed Link; and
+- “Intergovernmental Commission” means the Commission established pursuant to Article 10 of the Treaty[^f00005].
+
+## 3. Application of the IGC regulation[^key-0c6bc52f139e552962fafa3a0bbf1aed]
+
+The IGC regulation, the text of which is set out in the Schedule, has effect.
+
+## 4. Revocation[^key-e43cb505c3d36ece21c344bd06452649]
+
+The 2005 Order, the Channel Tunnel (International Arrangements) (Amendment) Order 2008[^f00006] and the Channel Tunnel (International Arrangements) (Amendment) Order 2009[^f00007] are revoked.
+
+## 5. Supplemental provisions and savings[^key-afc3ba90f053c3f42305eb5e899cfe29]
+
+(1) This article is subject to Article 5 of the IGC regulation.
+
+(2) In any case where the 2016 Regulations[^key-368c9563a9da581b88573456d77fedf4], make provision equivalent to that made under or by virtue of the 2005 Order before its revocation by this Order, then—
+
+- (a) in so far as anything done by any person under or by virtue of the 2005 Order could have been done by that person under such provisions of the 2016 Regulations[^key-7272600998c2a6ed539eef3452a9a33f], it is to have effect as if so done; and
+- (b) in so far as anything that is in the process of being done by any person under or by virtue of the 2005 Order, immediately before its revocation, could continue to be done by that person under such provisions of the 2016 Regulations, it may continue to be so done.
+
+(3) Anything done or in the process of being done by the Intergovernmental Commission under or by virtue of the 2005 Order is to be treated as done or in the process of being done by the Office of Rail and Road[^key-6f9198290535ea00fe9325656566edb1].
+
+Signed by authority of the Secretary of State for Transport
+
+Kramer
+
+Minister of State
+
+Department for Transport
+
+24th March 2015
+
+## SCHEDULE — Regulation transferring economic rail regulation competence from the Intergovernmental Commission to the national regulatory bodies, setting out principles for cooperation between them and establishing a charging framework for the Channel Fixed Link[^key-34933ce1197e9d600a1cd1d7cc7dff9f]
+
+Article 3
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order gives effect to a bi-national regulation (“the new bi-national regulation”) of the Intergovernmental Commission on the Channel Tunnel (IGC), and revokes the Channel Tunnel (International Arrangements) Order 2005 (“the 2005 Order”). The new bi-national regulation transfers the economic regulation of the Tunnel from the IGC to the national regulator of the United Kingdom and France, namely the Office of Rail Regulation (ORR) in the case of the United Kingdom and the Autorité de régulation des activités ferroviaires (ARAF) in the case of France. It makes provisions consequential to that transfer, concerning, in particular:
+
+- the transfer to the domestic regulators of the information currently held by the IGC pursuant to its economic regulation functions;
+- cooperation and coordination between the domestic regulators, in accordance with Article 57 of Directive 2012/34/EU (OJ L 343, 14.12.2012, p. 32);
+- the preservation of the general supervisory role of the IGC;
+- its relationship with the domestic regulators;
+- savings concerning the jurisdiction of the adjudicating authorities which, before the transfer, had competence to deal with the judicial review of IGC decision with respect to economic regulation;
+- revocation of the IGC bi-national regulation of 2009, which implemented Directives [91/440/EEC](https://www.legislation.gov.uk/european/directive/1991/0440) (OJ No. L 237, 24.8.1991, p. 25) and [2001/14/EC](https://www.legislation.gov.uk/european/directive/2001/0014) (OJ No. L 75, 15.3.2001, p. 29); implementation of the relevant EU legislation will no longer be found in an IGC bi-national regulation, except in the respect set out in the second indent above, and in the paragraph below.
+
+The new bi-national regulation also makes provision to implement Article 4(1) of [Directive 2001/14/EC](https://www.legislation.gov.uk/european/directive/2001/0014). That Article requires Member States to establish a charging framework. That framework is now set out in the Annex to the new bi-national regulation.
+
+*Article* *1(2)* provides for this Order to enter into force on the date on which the new bi-national regulation comes into force. Under Article 8 of the new bi-national regulation, this will be when both the UK and French governments have completed the internal processes necessary to give the new bi-national regulation the force of law in their respective legal systems, and notified each other that they have done so.
+
+*Article* *1(3)* of this Order provides that the Secretary of State must give notice, in the London. Edinburgh and Belfast Gazettes, of the date when the new bi-national regulation, and therefore this Order, enters into force.
+
+*Article 3* gives effect in the United Kingdom to the new bi-national regulation. *Article 4* revokes the 2005 Order and the instruments that subsequently amended it.
+
+Many provisions of the revoked 2005 Order will be replicated in the Railways Infrastructure (Access and Management) Regulations 2005, by virtue of the Railways Infrastructure (Access and Management) (Amendment) Regulations 2015 (which enter into force at the same time as this Order). Where this happens, *article* *5* provides that what had been done under or by virtue of the 2005 Order is to have effect as if done under the 2005 Regulations, as amended, if it could have been done under those Regulations. It also provides that what was in the process of being done under or by virtue of the Order may continue to be done under the 2005 Regulations, as amended, if it could continue to be done under those Regulations. However, what had been done, or in the process of being done, by the IGC, will be deemed to have been done, or in the process of being done, by the ORR. Furthermore, as provided by Article 5 of the new bi-national regulation, the adjudicating authorities that, before the revocation of the 2005 Order, had competence to deal with the judicial review of IGC decisions taken before that date under that Order will continue to have jurisdiction.
+
+An impact assessment has not been produced in respect of this Order, since it has no impact of the costs of business or the voluntary sector. An Explanatory Memorandum, with a transposition note annexed to it, is published alongside this Order at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1987 c.53](https://www.legislation.gov.uk/ukpga/1987/53). “Appropriate Minister” is defined in section 13(1) of that Act.
+
+[^key-9edf038e0f53f3517cdba00ddc5afb9a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/785/article/1) in force at 15.6.2016 as notified in the London Gazette dated 24.6.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/785/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/785/article/1/3)
+
+[^key-3831cb510dd512f705a7d3fccb830ce6]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/785/article/2) in force at 15.6.2016 as notified in the London Gazette dated 24.6.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/785/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/785/article/1/3)
+
+[^f00002]: Footnote: [S.I. 2005/3207](https://www.legislation.gov.uk/uksi/2005/3207), amended by [S.I. 2008/2366](https://www.legislation.gov.uk/uksi/2008/2366) and [2009/2081](https://www.legislation.gov.uk/uksi/2009/2081). All those instruments are revoked by this Order.
+
+[^key-67eaed899d81855a1305505d228b4e5c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/785/article/2) substituted (E.W.S.) (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/15/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+
+[^f00005]: Footnote: “Treaty” is defined in section 1(4) of the Channel Tunnel Act 1987.
+
+[^key-0c6bc52f139e552962fafa3a0bbf1aed]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/785/article/3) in force at 15.6.2016 as notified in the London Gazette dated 24.6.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/785/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/785/article/1/3)
+
+[^key-e43cb505c3d36ece21c344bd06452649]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/785/article/4) in force at 15.6.2016 as notified in the London Gazette dated 24.6.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/785/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/785/article/1/3)
+
+[^f00006]: Footnote: [S.I. 2008/2366](https://www.legislation.gov.uk/uksi/2008/2366).
+
+[^f00007]: Footnote: [S.I. 2009/2081](https://www.legislation.gov.uk/uksi/2009/2081).
+
+[^key-afc3ba90f053c3f42305eb5e899cfe29]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/785/article/5) in force at 15.6.2016 as notified in the London Gazette dated 24.6.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/785/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/785/article/1/3)
+
+[^key-368c9563a9da581b88573456d77fedf4]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2015/785/article/5/2) substituted (E.W.S.) (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 15(3)](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/15/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+
+[^key-7272600998c2a6ed539eef3452a9a33f]: Textual amendment: Words in [art. 5(2)(a)(b)](https://www.legislation.gov.uk/uksi/2015/785/article/5/2/a/b) substituted (E.W.S.) (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 15(4)](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/15/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+
+[^key-6f9198290535ea00fe9325656566edb1]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/uksi/2015/785/article/5) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(nn)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/nn) (as extended to U.K. (29.7.2016) by virtue of by [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4)))
+
+[^key-34933ce1197e9d600a1cd1d7cc7dff9f]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2015/785/schedule) in force at 15.6.2016 as notified in the London Gazette dated 24.6.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/785/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/785/article/1/3)

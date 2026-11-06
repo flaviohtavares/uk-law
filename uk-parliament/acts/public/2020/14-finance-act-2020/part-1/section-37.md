@@ -1,0 +1,55 @@
+---
+title: Finance Act 2020, section 37
+act: Finance Act 2020
+section: '37'
+status: revised
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2020/14/section/37
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2020, section 37
+
+> Text as at 2026-03-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 37. Gains from contracts for life insurance etc: top slicing relief
+
+*Extent: E+W+S+N.I.*
+
+(1) In Chapter 9 of Part 4 of ITTOIA 2005 (gains from contracts for life insurance etc), sections 535 to 537 (top slicing relief) are amended as follows.
+
+(2) In section 535 (top slicing relief), at the end insert—
+
+> (8) For the purposes of the calculations mentioned in subsection (1)—
+>
+> - (a) section 25(2) of ITA 2007 (deductions of reliefs and allowances in most beneficial way for taxpayer) does not apply, and
+> - (b) reliefs and allowances are available for deduction from an amount that, for the purposes of those calculations, is the highest part of the individual's total income for the tax year only so far as they cannot be deducted from other amounts.
+
+(3) In section 536(1) (top slicing relieved liability: one chargeable event), in paragraph (a) of step 2—
+
+- (a) omit the “and” at the end of sub-paragraph (i), and
+- (b) after the “and” at the end of sub-paragraph (ii) insert—
+
+  > - (iii) in determining the amount of the individual's personal allowance under section 35 of ITA 2007 (but not the amount of any other relief or allowance), it is assumed that the gain from the chargeable event is equal to the amount of the annual equivalent, and
+
+  .
+
+(4) In section 537 (top slicing relieved liability: two or more chargeable events), in paragraph (a) of step 2—
+
+- (a) omit the “and” at the end of sub-paragraph (i), and
+- (b) after the “and” at the end of sub-paragraph (ii) insert—
+
+  > - (iii) in determining the amount of the individual's personal allowance under section 35 of ITA 2007 (but not the amount of any other relief or allowance), it is assumed that the total gains from the chargeable events are equal to the amount of the total annual equivalent, and
+
+  .
+
+(5) The amendments made by this section have effect in relation to the tax year 2019-20 and subsequent tax years (but see subsection (6) for an exception in the case of the tax years 2019-20 and 2020-21).
+
+(6) Those amendments do not have effect in relation to the tax year 2019-20 or 2020-21 in the case of an individual who is only liable to tax under Chapter 9 of Part 4 of ITTOIA 2005 for the year in question—
+
+- (a) on a gain from one chargeable event that occurs before 11 March 2020, or
+- (b) on gains from chargeable events each of which occurs before that day.

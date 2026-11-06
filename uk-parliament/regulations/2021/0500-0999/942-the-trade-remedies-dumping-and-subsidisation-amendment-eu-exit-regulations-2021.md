@@ -1,0 +1,114 @@
+---
+title: The Trade Remedies (Dumping and Subsidisation) (Amendment) (EU Exit) Regulations 2021
+id: uksi/2021/942
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-08-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2021/942
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/942/pdfs/uksiem_20210942_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/942/pdfs/uksi_20210942_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/942/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Trade Remedies (Dumping and Subsidisation) (Amendment) (EU Exit) Regulations 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 942
+
+Exiting The European Union
+
+Customs
+
+Trade
+
+The Trade Remedies (Dumping and Subsidisation) (Amendment) (EU Exit) Regulations 2021
+
+Made
+
+14th August 2021
+
+Laid before the House of Commons
+
+17th August 2021
+
+Coming into force
+
+6th September 2021
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 51(1) and 56(1) of the Taxation (Cross-border Trade) Act 2018[^f00001].
+
+In accordance with sections 51(10) and 56(13) of that Act, the Secretary of State has consulted the Trade Remedies Authority[^f00002].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Trade Remedies (Dumping and Subsidisation) (Amendment) (EU Exit) Regulations 2021 and come into force on 6th September 2021.
+
+## 2. Amendment of the Trade Remedies (Dumping and Subsidisation) (EU Exit) Regulations 2019
+
+The Trade Remedies (Dumping and Subsidisation) (EU Exit) Regulations 2019[^f00003] are amended in accordance with regulation 3.
+
+## 3. Insertion of regulation 96D
+
+After regulation 96C (transition of varied EU trade remedies measure), insert—
+
+> **96D. Transition of EU exemption after replacement of EU trade duty**
+>
+> (1) The Secretary of State may by public notice exempt goods imported by a person in the United Kingdom from the application of a UK trade remedies measure if—
+>
+> - (a) the person requested from the European Commission an EU exemption to an EU trade remedies measure before replacement of EU trade duty;
+> - (b) the EU trade remedies measure was specified in the determination notice that preceded the UK trade remedies measure; and
+> - (c) the person was granted the EU exemption after replacement of EU trade duty, but with effect from a date before replacement of EU trade duty.
+>
+> (2) The public notice—
+>
+> - (a) must not take effect before the day after the day on which it is made; and
+> - (b) applies only to goods imported into the United Kingdom after it takes effect.
+>
+> (3) In this regulation, “EU exemption” means an exemption authorised by the European Commission under Article 7(1) of [Commission Regulation (EC) No 88/97](https://www.legislation.gov.uk/european/regulation/1997/0088) of 20 January 1997 on the authorization of the exemption of imports of certain bicycle parts originating in the People’s Republic of China from the extension by Council Regulation [(EC) No 71/97](https://www.legislation.gov.uk/european/regulation/1997/0071) of the anti-dumping duty imposed by [Council Regulation (EEC) No 2474/93](https://www.legislation.gov.uk/european/regulation/1993/2474)[^f00004].
+
+.
+
+Signed by authority of the Secretary of State
+
+Ranil Jayawardena
+
+Parliamentary Under Secretary of State
+
+Department for International Trade
+
+14th August 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Trade Remedies (Dumping and Subsidisation) (EU Exit) Regulations 2019 (“the 2019 Regulations”).
+
+Regulation 3 inserts new regulation 96D into the 2019 Regulations. Regulation 96D provides for the Secretary of State to transition an exemption to the anti-dumping duty on certain bicycle parts that was granted by the European Commission to a person in the United Kingdom after the transition period (which ended at 11 p.m. on 31<sup>st</sup> December 2020), but which was requested on, and authorised with retroactive effect from, a date before the end of the transition period.
+
+The terms “determination notice”, “EU trade remedies measure”, “replacement of EU trade duty”, and “UK trade remedies measure” are defined in regulation 94 of the 2019 Regulations.
+
+Any determination notice or public notice referred to in these Regulations will be available to view online at https://www.gov.uk/government/collections/trade-remedies-notices.
+
+An impact assessment has not been prepared for this instrument as the expected impact of the trade remedies system has already been assessed in the impact assessment accompanying the Taxation (Cross-border Trade) Act 2018.
+
+A copy of the Explanatory Memorandum is published alongside this instrument at http://www.legislation.gov.uk/.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22). Sections 51(4)(a) and 56(5)(a), read with section 57(2)(b), define “the appropriate Minister” to include the Secretary of State in any case the provision in regulations made under section 51 or 56, respectively, relates to anything dealt with by section 13 and Schedules 4 and 5 of that Act.
+
+[^f00002]: Footnote: The Trade Remedies Authority is a non-departmental public body established under section 6 of the Trade Act [2021 (c. 10)](https://www.legislation.gov.uk/ukpga/2021/10).
+
+[^f00003]: Footnote: [S.I. 2019/450](https://www.legislation.gov.uk/uksi/2019/450), amended by [S.I. 2019/1076](https://www.legislation.gov.uk/uksi/2019/1076), [S.I. 2019/1346](https://www.legislation.gov.uk/uksi/2019/1346), [S.I 2020/99](https://www.legislation.gov.uk/uksi/2020/99), and [S.I. 2020/730](https://www.legislation.gov.uk/uksi/2020/730).
+
+[^f00004]: Footnote: OJ No. L 17, 21.01.1997, p. 17; relevant amending instruments are OJ No. L 152, 05.06.2013, p. 1 and OJ No. L 303, 17.09.2020, p. 20.

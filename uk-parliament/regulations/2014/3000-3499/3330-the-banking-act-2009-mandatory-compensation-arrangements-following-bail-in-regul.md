@@ -1,0 +1,318 @@
+---
+title: The Banking Act 2009 (Mandatory Compensation Arrangements Following Bail-in) Regulations 2014
+id: uksi/2014/3330
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-12-17'
+text_date: '2023-12-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/3330
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/3330/pdfs/uksiem_20143330_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/3330/pdfs/uksi_20143330_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/3330/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Banking Act 2009 (Mandatory Compensation Arrangements Following Bail-in) Regulations 2014
+
+> Text as at 2023-12-14.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2014 No. 3330
+
+Banks And Banking
+
+The Banking Act 2009 (Mandatory Compensation Arrangements Following Bail-in) Regulations 2014
+
+Made
+
+17th December 2014
+
+Coming into force
+
+1st January 2015
+
+[^key-fc7b097ccc93ecdb8d8de261080e50ce]The Treasury are designated[^c22305681] for the purposes of section 2(2) of the European Communities Act 1972[^c22305691] in relation to financial services.
+
+The Treasury, in exercise of the powers conferred by sections 60A(1) to (4) and 259(1) of the Banking Act 2009[^c22305701] and section 2(2) of the European Communities Act 1972, make the following Regulations.
+
+A draft of this Order has been laid before and approved by a resolution of each House of Parliament in accordance with section 60A(5) of the Banking Act 2009, and paragraph 2(2) of Schedule 2 to the European Communities Act 1972.[^key-c11c066e5d84f42558f523f47bafb545]
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Banking Act 2009 (Mandatory Compensation Arrangements Following Bail-in) Regulations 2014.
+
+(2) These Regulations come into force on 1st January 2015.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Banking Act 2009;
+- “**the Bank**” means the Bank of England;
+- “**banking institution**” means—
+  - (a) a bank [^c22305711];
+  - (b) a building society (within the meaning of section 119 of the Building Societies Act 1986) [^c22305721];
+  - (c) an investment firm [^c22305731]);
+  - (d) a banking group company;
+  - (e) a third-country institution (within the meaning of section 89JA of the Act (resolution of[^key-049e90e6cce40b640bd1fbc15e4df414] UK branches of third-country institutions)).
+- “Case 1”, “**Case 2**”, “**Case 3**” and “**Case 4**” have the meanings given in regulation 3;
+- “**initial instrument**” has the meaning given in regulation 6(6);
+- “**relevant banking institution**” has the meaning given in regulation 6(6);
+- “**relevant persons**” has the meaning given in regulation 5(2);
+
+(2) References to sections of the Act include, as the context requires, those sections as applied with or without modifications by that Act as that Act has effect on the day on which the Bank Recovery and Resolution[^key-9b34094d1b1f85e41ec52f1eb4ce4cea] (Amendment) (EU Exit) Regulations 2018 come[^key-4afafdcc9148a56bef8d669f8c8f702a] into force.
+
+(3) In these Regulations, “**relevant compensation order**” means—
+
+- (a) in relation to Case 1, the bail-in compensation order [^c22305751] required to be made in relation to the resolution instrument;
+- (b) in relation to Case 2, Case 3 or Case 4, the third party compensation order required to be included in the compensation scheme order or the resolution fund order by regulation 4.
+
+## 3. Application
+
+(1) These Regulations apply in the following cases.
+
+(2) Case 1 is where the Bank has made a resolution instrument in accordance with section 12A(2) of the Act [^c22305761] (“Case 1”).
+
+(3) Case 2 is where—
+
+- (a) the Bank has made a property transfer instrument in accordance with section 11(2), 12(2), 12ZA(3) or 44D(2)[^key-44791629f85b71e5ea18e4decd91812a] of the Act [^c22305771], and
+- (b) the property transfer instrument makes special bail-in provision (in accordance with section 44B(1) of the Act [^c22305781]) (“Case 2”).
+
+(4) Case 3 is where—
+
+- (a) the Bank has made a property transfer instrument in accordance with section 11(2), 12(2) or 12ZA(3) of the Act which does not make special bail-in provision, but
+- (b) special bail-in provision is made (in accordance with section 44B(1) of the Act) in a[^key-67c2e6b822b7857542973222ed3d57aa] supplemental property transfer instrument referred to in section 44B(2)(b) or in a property transfer instrument under section 43(2)[^key-874b8b449fd8b32b454dad3980269157] (“Case 3”).
+
+(5) Case 4 is where—
+
+- (a) the Bank has made a third-country instrument in accordance with section 89H of the Act (recognition of third-country resolution actions) [^c22305791], and
+- (b) either—
+  - (i) that third-country instrument, or
+  - (ii) any subsequent third-country instrument made under section 89I(4)(b),
+
+  makes special bail-in provision (“Case 4”).
+
+## 4. Resolution fund order to include third party compensation order
+
+In Case 2, Case 3 or Case 4, where a compensation scheme order or resolution fund order is required to be made in relation to—
+
+- (a) the property transfer instrument, or
+- (b) the third country instrument making provision which could be made in a property transfer instrument,
+
+that order must include a third party compensation order [^c22305801].
+
+## 5. Mandatory provisions: appointment of independent valuer
+
+(1) A relevant compensation order must include provision for a person (“an independent valuer”) to be appointed to determine—
+
+- (a) whether all relevant persons, a class of relevant persons or a particular relevant person should be paid compensation, and
+- (b) if compensation should be paid, what amount is to be paid.
+
+(2) In these Regulations, “**relevant persons**” means the pre-resolution shareholders and creditors (within the meaning of section 60B(3) of the Act [^c22305811]).
+
+## 6. Mandatory provisions: assessment of insolvency treatment
+
+(1) A relevant compensation order must include the following provisions (subject to any necessary modifications).
+
+(2) The independent valuer must assess the treatment (“the insolvency treatment”) which relevant persons would have received had the relevant banking institution entered insolvency immediately before the coming into effect of the initial instrument.
+
+(3) The independent valuer must assess the treatment (“the actual treatment”) which relevant persons have received, are receiving or are likely to receive (as specified in the order) if no (or no further) compensation is paid.
+
+(4) If the independent valuer considers that, in relation to any relevant person, the actual treatment assessed under paragraph (3) is less favourable than the insolvency treatment assessed under paragraph (2), the independent valuer must determine that compensation be paid to that relevant person.
+
+(5) The amount of compensation payable by virtue of paragraph (4) must be determined by the independent valuer by reference to the difference in treatment assessed under paragraph (4) and on the basis of the fair and equitable value of that difference in treatment.
+
+(6) In these Regulations—
+
+- “**the initial instrument**” has the meaning given in section 60B(2) of the Act, including that section as applied by section 89I(8) of the Act;
+- “**the relevant banking institution**” means the banking institution in respect of which the initial instrument is made.
+
+## 7. Mandatory provisions: choice of insolvency process
+
+A relevant compensation order must include either—
+
+- (a) a provision specifying that the independent valuer must assess the insolvency treatment as required under regulation 7(2) on the basis that the relevant banking institution entered a particular insolvency process specified in the order, or
+- (b) a provision specifying that the independent valuer must determine what insolvency process it is likely that the banking institution would have entered, had the initial instrument not been made.
+
+## 8. Mandatory provisions: valuation principles
+
+(1) A relevant compensation order must include the following provisions (subject to any necessary modifications).
+
+(2) In making the assessment of the insolvency treatment as required under regulation 6(2), the independent valuer must determine the amount of compensation in accordance with the following principles (in addition to the principle which applies by virtue of section 57(3) of the Act)—
+
+- (a) that the relevant banking institution would have entered insolvency immediately before the coming into effect of the initial instrument;
+- (b) that the initial instrument would not have been made and that no other instrument, or order, under Part 1 of the Act would have been made in relation to or in connection with the relevant banking institution;
+- (c) that no financial assistance would have been provided by the Bank or the Treasury after the date on which the initial instrument came into effect if that instrument had not been made.
+
+## 8A. Valuation methodology: technical standards[^key-2c33839434ef1c53b623dc7f83ee9e40]
+
+The Bank may make technical standards specifying the methodology for the assessments referred to in regulation 6(2) to (4).
+
+## 9. Mandatory provisions: interim payments
+
+(1) A relevant compensation order must include the following provisions (subject to any necessary modifications).
+
+(2) The independent valuer may determine that payments should be made to a relevant person, a class of relevant person or all relevant persons on account of compensation to be payable under the relevant compensation order (“payments on account”).
+
+(3) The independent valuer may make such a determination at any time before the determination required by regulation 6(5) has been made.
+
+(4) Once the determination required by regulation 6(5) has been made, the independent valuer must determine what balancing payments are appropriate to ensure that the relevant person receives the amount of compensation determined under regulation 6(5) (and no more than that amount).
+
+(5) Subject to paragraph (6), the independent valuer may make such provision as to payments on account as the valuer thinks fit (including a requirement that payments be made in instalments).
+
+(6) Payments on account must be made subject to the following conditions—
+
+- (a) that the acceptance of such a payment by the relevant person reduces any obligation (whether in existence at the time of the payment or not) on the Treasury, the scheme manager of the Financial Services Compensation Scheme (within the meaning of sections 212 and 213 of the Financial Services and Markets Act 2000 [^c22305821]) or any other person (as the case may be) to pay compensation to the relevant person by the amount of the payment on account;
+- (b) that where the independent valuer in accordance with paragraph (4) determines that the relevant person should make a balancing payment to the Treasury, the Financial Services Compensation Scheme or any other person (as the case may be), the relevant person is liable to pay that amount.
+
+(7) In considering whether to require payments on account to be made in accordance with this regulation, the independent valuer must have regard to the merits of ensuring that relevant persons receive compensation in a timely manner.
+
+## 10. Mandatory provisions: valuations provided by relevant persons
+
+A relevant compensation order must make provision requiring the independent valuer to have regard to any information provided by a relevant person which is relevant to the exercise of the independent valuer's functions under the order; in particular, the independent valuer must have regard to any such information which relates to the assessment of the insolvency treatment required by regulation 6(2) or the assessment of the actual treatment required by regulation 6(3).
+
+## 11. Optional provisions: valuation principles
+
+(1) A relevant compensation order may make any of the following provisions (subject to any necessary modifications).
+
+(2) In making the assessment of the insolvency treatment required by regulation 6(2), the independent valuer must assume that the property specified in the order (or property of a class specified in the order) would have been sold for the price specified in the order or calculated by reference to criteria specified in the order.
+
+(3) In making the assessment of the insolvency treatment required by regulation 6(2), the independent valuer must assume that the property specified in the order (or property of a class specified in the order) would have been treated in the manner specified in the order.
+
+(4) In making the assessment of the actual treatment required by regulation 6(3), the independent valuer must assume that relevant securities would have—
+
+- (a) a value specified in the order;
+- (b) a value calculated by reference to criteria specified in the order.
+
+(5) In paragraph (4) “**relevant securities**” means the specified securities (or class of securities) issued by the relevant banking institution that have been issued or transferred to a specified relevant person (or class of relevant persons).
+
+(6) In paragraph (5) “**specified**” means specified in the order.
+
+## 12. Application to building societies
+
+(1) These Regulations apply to building societies (within the meaning of section 119 of the Building Societies Act 1986 [^c22305831]), subject to the modifications specified in paragraph (2).
+
+(2) The modifications specified in this paragraph are that references in these Regulations to—
+
+- (a) “relevant persons” are to be read as references to the persons who were shareholding members of the building society (within the meaning of paragraph 5 of Schedule 2 to the Building Societies Act 1986 [^c22305841]) or were creditors of the building society, immediately before the coming into effect of the first resolution instrument to be made in respect of the building society;
+- (b) “the initial instrument” are to be read as references to the first resolution instrument to be made in respect of the building society;
+- (c) sections of the Act are to be read as to those sections as applied or as applied and modified by virtue of section 84 of the Act [^c22305851];
+- (d) Case 2 and Case 3 are to be disregarded.
+
+(3)[^key-2e5424e22306b4158d5b39229ebc603a] Where a resolution instrument makes provision under section 84A of the Act with respect to a building society, these Regulations apply—
+
+- (a) to the successor company, or
+- (b) where provision made under section 84A includes provision under subsection (8) of that section, to the successor company and to its specified parent undertaking,
+
+as they apply to banks, subject to the modifications specified in paragraphs (2)(a), (b) and (d) and (4).
+
+(4) The modification specified in this paragraph is that references in these Regulations to sections of the Act are to be read as to those sections as applied or as applied and modified by virtue of section 84D of the Act.
+
+(5) In this regulation, “successor company” and “specified parent undertaking” have the meanings given by section 84D(8) of the Act.
+
+## 13. Review[^key-fc7b097ccc93ecdb8d8de261080e50ce]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Harriet Baldwin
+
+Mark Lancaster
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made under the Banking Act 2009 (c. 1) (“**the Act**”), as amended by the Financial Services (Banking Reform) Act 2013 (c. 33) (which introduced a new stabilisation power, the power to make special bail-in provision). They also implement, in part, Directive 2014/59/EU of the European Parliament and of the Council of 15th May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms (OJ L173, 12.6.2014, p.190) (“the recovery and resolution directive”).
+
+The Regulations specify provisions which must, or may, be included in a compensation order made under the Act following the exercise of the power to make special-bail in provision in respect of banks, banking group companies, investment firms, or—with modifications—building societies. The nature of the compensation order will depend on the way in which special bail-in provision is made: when made under the bail-in stabilisation option of section 12A of the Act, this will be a bail-in compensation order; when made in conjunction with a sale to a commercial purchaser under section 11(2), the bridge bank stabilisation option of section 12 of the Act or the asset management vehicle stabilisation option under section 12ZA of the Act, this will be a third party compensation order, which regulation 4 requires to be included in the resolution fund order (a “relevant compensation order”).
+
+The Regulations relate, in particular, to the treatment of those who were pre-resolution shareholders and creditors (as defined in section 60B of the Act, the shareholders and creditors immediately before the coming into force of the first instrument made by the Bank in respect of the bank or investment firm) (“relevant persons”). As building societies do not have shareholders, in their application to building societies these Regulations refer instead to the shareholding members of the building society (regulation 13).
+
+Regulation 3 sets out the cases in which the Regulations apply.
+
+Regulation 5 provides that a relevant compensation order must provide for the appointment of an independent valuer to determine whether relevant persons should be paid compensation and if so, in what amount.
+
+Regulation 6 provides that the relevant compensation order must require the independent valuer to assess the treatment actually received by relevant persons and the treatment relevant persons would have received had the banking institution entered insolvency. If the independent valuer determines that the actual treatment is less favourable than the insolvency treatment, the valuer must determine that compensation is payable. The amount of compensation is to be determined by the independent valuer by reference to the fair and equitable value of that difference in treatment. The methodology is very similar to the mandatory compensation provisions following partial property transfers under the Act, as provided for in the Banking Act 2009 (Third Party Compensation Arrangements for Partial Property Transfers) Regulations 2009 (S.I. 2009/319).
+
+Regulation 7 provides that a relevant compensation order must either specify what insolvency process the independent valuer should apply for the purposes of assessing the insolvency treatment or that the independent valuer must determine which insolvency process it is likely that the banking institution would have entered had the first resolution instrument (or property transfer instrument, in the case of the bridge bank option) not been made.
+
+Regulation 8 makes provision for the valuation principles which the independent valuer must apply.
+
+Regulation 9 provides that a relevant compensation order must include a provision enabling the independent valuer to make provision for payments to be made on account of compensation to be payable under the order.
+
+Regulation 10 provides that a relevant compensation order must require an independent valuer to have regard to information provided by a relevant person which is relevant to the exercise of the independent valuer's functions under the order.
+
+Regulation 11 provides that a relevant compensation order may make provision as to the assumptions the independent valuer must make as to the treatment or valuation of certain property of, or securities issued by, the banking institution.
+
+Regulation 12 provides for the application of these Regulations to building societies (as noted above), with modifications.
+
+Regulation 13 requires the Treasury to review the regulatory system established by the regulations at least once every 5 years.
+
+A Transposition Table setting out how the recovery and resolution directive is transposed into UK law is available from HM Treasury, 1 Horse Guards Road, London, SW1A 2HQ.
+
+A full impact assessment of the effect that these Regulations will have on the costs of business and the voluntary sector is available from Her Majesty's Treasury, 1 Horse Guards Road, London SW1A 2HQ or on http://www.hm-treasury.gov.uk/ and is published alongside the Regulations on http://www.legislation.gov.uk/.
+
+## Annotations
+
+[^key-fc7b097ccc93ecdb8d8de261080e50ce]: Textual amendment: Regulations revoked (14.12.2023 for the revocation of reg. 13) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(viii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/viii)
+
+[^c22305681]: Marginal citation: SI 2012/1759.
+
+[^c22305691]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and the Schedule to, the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). By virtue of the amendment of section 1(2) by section 1 of the [European Economic Area Act 1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51), regulations may be made under s. 2(2) of the European Communities Act 1972 to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed in Brussels on 17th March 1993 (Cm 2183).
+
+[^c22305701]: Marginal citation: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1); [section 60A](https://www.legislation.gov.uk/uksi/2014/3330/section/60A) was inserted by the [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [Schedule 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2), [paragraph 6(8)](https://www.legislation.gov.uk/ukpga/2013/33/paragraph/6/8).
+
+[^key-c11c066e5d84f42558f523f47bafb545]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^c22305711]: Marginal citation: Defined in section 2 of the Banking Act 2009.
+
+[^c22305721]: Marginal citation: [1986 c.53](https://www.legislation.gov.uk/ukpga/1986/53).
+
+[^c22305731]: Marginal citation: Defined in section 258A of the Act. Section 258A was inserted by the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [section 101(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/1), (7).
+
+[^key-049e90e6cce40b640bd1fbc15e4df414]: Textual amendment: Words in reg. 2(1) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [40(2)(a)](https://www.legislation.gov.uk/uksi/2016/1239/article/40/2/a)
+
+[^key-9b34094d1b1f85e41ec52f1eb4ce4cea]: Textual amendment: Words in reg. 2(2) substituted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [40(2)(b)](https://www.legislation.gov.uk/uksi/2016/1239/article/40/2/b)
+
+[^key-4afafdcc9148a56bef8d669f8c8f702a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/3330/regulation/2/2) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/4/paragraph/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22305751]: Marginal citation: Defined in section 49(2A) of the Act (subsection (2A) was inserted by the [Financial Services (Banking Reform) Act 2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33), [Schedule 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2), [paragraph 6](https://www.legislation.gov.uk/ukpga/2013/33/paragraph/6).
+
+[^c22305761]: Marginal citation: Section 12A was inserted by the [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [Schedule 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2), [paragraph 2](https://www.legislation.gov.uk/ukpga/2013/33/paragraph/2). It is amended by article 20 of the Bank Recovery and Resolution Order 2014.
+
+[^key-44791629f85b71e5ea18e4decd91812a]: Textual amendment: Words in reg. 3(3)(a) substituted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [40(3)(a)](https://www.legislation.gov.uk/uksi/2016/1239/article/40/3/a)
+
+[^c22305771]: Marginal citation: Section 12 is amended by article 18 of the Bank Recovery and Resolution Order 2014; section 12ZA is inserted by article 19 of that Order.
+
+[^c22305781]: Marginal citation: Section 44B was inserted by the [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [Schedule 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2), [paragraph 5(3)](https://www.legislation.gov.uk/ukpga/2013/33/paragraph/5/3), and amended by article 46 of the Bank Recovery and Resolution Order 2014.
+
+[^key-67c2e6b822b7857542973222ed3d57aa]: Textual amendment: Word in reg. 3(4)(b) substituted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [40(3)(b)(i)](https://www.legislation.gov.uk/uksi/2016/1239/article/40/3/b/i)
+
+[^key-874b8b449fd8b32b454dad3980269157]: Textual amendment: Words in reg. 3(4)(b) substituted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [40(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/1239/article/40/3/b/ii)
+
+[^c22305791]: Marginal citation: Sections 89H, 89I and 89J are inserted into the Act by article 103 of the Bank Recovery and Resolution Order 2014.
+
+[^c22305801]: Marginal citation: Defined in section 49(4) of the Act.
+
+[^c22305811]: Marginal citation: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1); section 60B was inserted by the [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [Schedule 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2), [paragraph 6(8)](https://www.legislation.gov.uk/ukpga/2013/33/paragraph/6/8).
+
+[^key-2c33839434ef1c53b623dc7f83ee9e40]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2014/3330/regulation/8A) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/4/paragraph/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22305821]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Section 212 has been amended by the [Financial Services Act 2012 (c.12)](https://www.legislation.gov.uk/ukpga/2012/12), [Schedule 10](https://www.legislation.gov.uk/ukpga/2012/12/schedule/10), [paragraph 2](https://www.legislation.gov.uk/ukpga/2012/12/paragraph/2), and the [Financial Services (Banking Reform) Act 2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33), [section 16](https://www.legislation.gov.uk/ukpga/2013/33/section/16). Section 213 has been amended by the [Banking Act 2009 (c.1)](https://www.legislation.gov.uk/ukpga/2009/1), [section 170](https://www.legislation.gov.uk/ukpga/2009/1/section/170); [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), [Schedule 10](https://www.legislation.gov.uk/ukpga/2012/21/schedule/10), [paragraph 3](https://www.legislation.gov.uk/ukpga/2012/21/paragraph/3) and SI 2011/1613.
+
+[^c22305831]: Marginal citation: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
+
+[^c22305841]: Marginal citation: As amended by the [Building Societies Act 1997 (c. 32)](https://www.legislation.gov.uk/ukpga/1997/32), [section 2(2)](https://www.legislation.gov.uk/ukpga/1997/32/section/2/2).
+
+[^c22305851]: Marginal citation: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1).
+
+[^key-2e5424e22306b4158d5b39229ebc603a]: Textual amendment: Reg. 12(3)-(5) inserted (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [6](https://www.legislation.gov.uk/uksi/2014/3344/article/6)

@@ -1,0 +1,88 @@
+---
+title: The Social Security (Iceland, Liechtenstein and Norway) (Citizens’ Rights Agreement) (Revocation) Order 2020
+id: uksi/2020/1569
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-12-16'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/1569
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/1569/pdfs/uksi_20201569_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1569/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Iceland, Liechtenstein and Norway) (Citizens’ Rights Agreement) (Revocation) Order 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 1569
+
+Social Security
+
+The Social Security (Iceland, Liechtenstein and Norway) (Citizens’ Rights Agreement) (Revocation) Order 2020
+
+Made
+
+16th December 2020
+
+Coming into force
+
+17th December 2020
+
+At the Court at Windsor Castle, the 16th day of December 2020
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+This Order is made under the powers in section 179(1)(a) and (2) of the Social Security Administration Act 1992[^f00001], which provide that, for the purpose of giving effect to any agreement with the government of a country outside the United Kingdom providing for reciprocity in specified matters, Her Majesty may by Order in Council make provision for modifying or adapting specified legislation in its application to cases affected by such agreement.
+
+Following the withdrawal of the United Kingdom from the European Union, the Agreement on the European Economic Area of 2nd May 1992, as amended and with its Protocols and Annexes (“the EEA Agreement”) will no longer apply as between the United Kingdom and Iceland, the Principality of Liechtenstein and the Kingdom of Norway.
+
+At London on 2nd April 2019 an Agreement on arrangements regarding citizens’ rights between Iceland, the Principality of Liechtenstein, the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland following the withdrawal of the United Kingdom from the European Union and the EEA Agreement was signed on behalf of the respective Governments[^f00002]. Part 2 of that Agreement made provision in relation to social security. Article 43(2) of that Agreement provided that that agreement was only to come into force in the event that there is no agreement covering citizens’ rights between the Union and the United Kingdom under Article 50 of the Treaty on European Union.
+
+The agreement between the United Kingdom and the European Union under Article 50(2) of the Treaty on European Union which sets out the arrangements for the United Kingdom’s withdrawal from the EU (as that agreement is modified from time to time in accordance with any provision of it) is such an agreement (“the Withdrawal Agreement”). On that basis, at London on 28th January 2020, a further Agreement on arrangements regarding citizens’ rights between Iceland, the Principality of Liechtenstein, the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland following the withdrawal of the United Kingdom from the European Union and the EEA Agreement was signed on behalf of the respective Governments[^f00003] (“the EEA Citizens’ Rights Agreement”).
+
+In order to give effect to the Withdrawal Agreement (as that agreement is modified from time to time in accordance with any provision of it) and in view of the operation of section 7B of the European Union (Withdrawal) Act 2018[^f00004] which provides that the rights, powers, liabilities, obligations, restrictions, remedies and procedures under the EEA Citizens’ Rights Agreement are to be recognised and available in domestic law and enforced, allowed and followed accordingly, therefore, Her Majesty, in exercise of the powers conferred on Her by section 179(1)(a) and (2) of the Social Security Administration Act 1992, is pleased, by and with the advice of Her Privy Council, to order as follows:
+
+## 1. Citation and commencement
+
+(1) This Order may be cited as the Social Security (Iceland, Liechtenstein and Norway) (Citizens’ Rights Agreement) (Revocation) Order 2020.
+
+(2) This Order comes into force on the day after the day on which it is made.
+
+## 2. Revocation
+
+The Social Security (Iceland) (Liechtenstein) (Norway) (Citizens’ Rights Agreement) Order 2019[^f00005] is revoked.
+
+Richard Tilbrook
+
+Clerk of the Privy Council
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+The Social Security (Iceland) (Liechtenstein) (Norway) (Citizens’ Rights Agreement) Order 2019 ([S.I. 2019/1302](https://www.legislation.gov.uk/uksi/2019/1302)) (“the 2019 Order”) makes provision for the modification of certain social security legislation, so as to give effect to the Agreement between the United Kingdom of Great Britain and Northern Ireland and Iceland, the Principality of Liechtenstein and the Kingdom of Norway signed at London on 2nd April 2019. That Agreement was superseded by a further agreement (“the EEA Citizens’ Rights Agreement”) between those countries which was signed at London on 28th January 2020.
+
+The EEA Citizens’ Rights Agreement is incorporated into United Kingdom law from IP completion day by section 7B of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) (“the 2018 Act”). The 2019 Order is therefore revoked by article 2 of this Order.
+
+This instrument does not impose any costs on business, charities or the voluntary sector. A Tax Information and Impact Note has not been prepared for this instrument as it only revokes an instrument which has been superseded by section 7B of the 2018 Act.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5). Section 179 has been relevantly amended by paragraph 2(2) of Schedule 6 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)) and [S.I. 2020/1508](https://www.legislation.gov.uk/uksi/2020/1508). There are other amendments that are not relevant to this Order.
+
+[^f00002]: Footnote: A copy of this agreement can be found at https://www.gov.uk/government/publications/eea-efta-no-deal-citizens-rights-agreement-and-explainer. Hard copies can be obtained from the Department for Work and Pensions, Caxton House, Tothill Street, London SW1H 9NA.
+
+[^f00003]: Footnote: See https://www.gov.uk/government/news/uk-and-eea-efta-states-sign-separation-agreement.
+
+[^f00004]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Section 7B is inserted by section 6 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
+
+[^f00005]: Footnote: [S.I. 2019/1302](https://www.legislation.gov.uk/uksi/2019/1302).

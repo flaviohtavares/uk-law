@@ -1,0 +1,752 @@
+---
+title: The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit Scheme 1983
+id: uksi/1983/136
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1983-02-09'
+text_date: '2014-01-01'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1983/136
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1983/136/pdfs/uksi_19830136_en.pdf
+- http://www.legislation.gov.uk/uksi/1983/136/data.pdf
+pending_changes: 4
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit Scheme 1983
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2014-01-01. See https://www.legislation.gov.uk/changes/affected/uksi/1983/136
+
+1983 No. 136
+
+SOCIAL SECURITY
+
+The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit Scheme 1983
+
+Made
+
+9th February 1983
+
+Laid before Parliament
+
+23rd February 1983
+
+Coming into Operation
+
+16th March 1983
+
+The Secretary of State for Social Services, after consultation with the Council on Tribunals insofar as required by section 10 of the Tribunals and Inquiries Act 1971, and with the consent of the Treasury, in exercise of powers conferred by sections 4(2), (3) and (4) (as applied by section 8(1) ), 5, 8(3) and (4), 9(1), 10(1), 12, 13 and 14(2) of the Industrial Injuries and Diseases (Old Cases) Act 1975 and of all other powers enabling him in that behalf, and for the purpose only of consolidating schemes hereby revoked, hereby makes the following scheme:—
+
+## PART I — GENERAL
+
+### 1. Citation, commencement and interpretation
+
+(1) This scheme may be cited as the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit Scheme 1983 , and shall come into operation on 16th March 1983.
+
+(2) In this scheme, unless the context otherwise requires—
+
+- “**the Act**” means the Industrial Injuries and Diseases (Old Cases) Act 1975;
+- “the[^key-e4255b3f14ab21c1023a2c1506cc842d] 1998 Act” means the Social Security Act 1998;
+- “**the Social Security Act**” means the Social Security Act 1975;
+- “**the Industrial Diseases (Benefit) Acts**” means the Pneumoconiosis and Byssinosis Benefit Act 1951 and the Industrial Diseases (Benefit) Act 1954;
+- “**the Workmen's Compensation Acts**” means the Workmen's Compensation Acts 1925 to 1945, and any enactments repealed by the Workmen's Compensation Act 1925;
+- “**the Administrative Board**” has the meaning assigned to it by article 11 of the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit Scheme 1966 immediately before the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) (No.2) Scheme 1977 came into operation;
+- “**allowance**” means an allowance payable by virtue of Part II of this scheme and includes any increase thereof;
+- “**the appropriate determining authority**” means the Secretary of State or, as the case may be, the First-tier Tribunal or the Upper Tribunal;[^key-717b0a93136c7b9026e7061d05640d54]
+- ‘[^key-7f42aebb6986094feeabfd48a6264795]**asbestosis**’ means fibrosis of the parenchyma of the lungs due to the inhalation of asbestos dust;
+- “**beneficiary**” means a person entitled to an allowance under this scheme;
+- “**child benefit**” means benefit under Part I of the Child Benefit Act 1975;
+- “**claimant**” means a person claiming an allowance or death benefit under this scheme and includes, in relation to the revision or supersession of a decision, a person affected by that decision;
+- “**corresponding disablement pension rate**” means the weekly rate for the time being of a pension payable under section 57(6) of the Social Security Act in respect of an assessment of 100 per cent;
+- “**death benefit**” means the benefit payable under this scheme in respect of the death of any person;
+- “foundry” means those parts of industrial premises where the production of metal articles (other than pig iron or steel ingots) is carried on by casting (not being diecasting or other casting in metal moulds), together with any part of the same premises where any of the following processes are carried on incidentally to such production, namely the drying and subsequent preparation of moulds and cores, knock-out operations and dressing or fettling operations;[^key-3d2f9bd4f3f2b2230702c4eae5507b0d]
+- “**medical practitioner**” means a medical practitioner who has experience in the issues specified in regulation 12(1) of the Social Security and Child Support (Decisions and Appeals) Regulations 1999;
+- “**medical board**” means the medical board appointed under paragraph 3 of the Silicosis and Asbestosis (Medical Arrangements) Scheme 1931;
+- “**a specially qualified medical practitioner**” means a member of a medical board;
+- “**pneumoconiosis**” means fibrosis of the lungs due to silica dust, asbestos dust or other dust and includes the condition of the lungs known as dust reticulation; and in the case of a person who suffers or has suffered from pneumoconiosis accompanied by tuberculosis, the effects of the tuberculosis may be treated as if they were the effects of the pneumoconiosis and in the case of a person who suffers or has suffered from pneumoconiosis or pneumoconiosis accompanied by tuberculosis, to an extent which would, if his physical condition were otherwise normal, be of a gravity comparable to an assessment of not less than 50 per cent under the Social Security Act, the effects of any accompanying emphysema or chronic bronchitis may be treated as if they were the effects of the pneumoconiosis;
+- “**relevant injury or disease**” in relation to any person means an injury or disease in respect of which he is or has at any time after 4th July 1956 been entitled to weekly payments by way of workmen's compensation or of an allowance payable by virtue of any scheme made under the Act, the Industrial Diseases (Benefit) Acts or the Workmen's Compensation (Supplementation) Act 1951, including this scheme;
+- “**workmen's compensation**” means compensation under the Workmen's Compensation Acts 1925 to 1945, the enactments repealed by the Workmen's Compensation Act 1925 and the enactments repealed by the Workmen's Compensation Act 1906 or under any contracting out scheme duly certified under any of those Acts or any payments under the Workmen's Compensation (War Addition) Acts 1917 and 1919 or under the Workmen's Compensation (Supplementary Allowances) Act 1940 as amended by the Workmen's Compensation (Temporary Increases) Act 1943
+
+(3) For the purposes of this scheme—
+
+- (a) a claim for an allowance in respect of total disablement or total incapacity for work for a considerable period made by a person who has previously been awarded an allowance in respect of partial disablement shall be treated, for the purposes of the provisions relating to the making of claims, as a separate claim;
+- (b) a period shall be treated as considerable if it lasts or can be expected to last for not less than 13 weeks;
+- (c) a person may be treated as being, as the result of pneumoconiosis, byssinosis or any of the diseases set out in Schedule 1 hereto, or as the joint result of such a disease and one or more other relevant injuries or diseases, totally incapable of work and likely to remain so incapable for a considerable period notwithstanding that the disability resulting from the disease or, as the case may be, diseases or injuries taken together, is not such as to prevent him from being capable of work, if it is likely to prevent his earnings (including any remuneration or profit derived from a gainful occupation) exceeding in a year such amount as is for the time being prescribed in pursuance of section 58(3) of the Social Security Act (unemployability supplement).
+
+(4) For the purposes of this scheme, 2 persons shall not be treated as having ceased to reside together if they would not have been so treated under regulation 2 of the Local Security Benefit (Persons Residing Together) Regulations 1977 (circumstances in which persons are not to be treated as having ceased to reside together).
+
+(5) Except insofar as the context otherwise requires—
+
+- (a) any reference in this scheme to a numbered Part, article or Schedule is a reference to the Part, article or Schedule of or to this scheme bearing that number;
+- (b) any reference in an article to a numbered paragraph is to the paragraph of that article bearing that number; and
+- (c) any reference in a paragraph to a lettered sub-paragraph is to the sub-paragraph of that paragraph bearing that letter.
+
+## PART II — ALLOWANCES AND DEATH BENEFIT
+
+### 2. Benefit payable under this scheme
+
+(1) Subject to the following provisions of this scheme, benefit as hereinafter provided shall be payable out of money provided by Parliament[^key-115d8966296e49831245244669c3212c] to or in respect of any person—
+
+- (a) who is totally or partially disabled or dies, or who has died at any time after 31st December 1949, as a result of pneumoconiosis or byssinosis if the conditions in paragraph (2) are satisfied; or
+- (b) who is a person who is totally or partially disabled (such disablement being likely to be permanent) as a result of any of the diseases set out in the first column of Schedule 1 or who dies or has died as a result of any of those diseases at any time after, in each case, the date set out in Schedule 4 against the number corresponding to the number given to that disease in the first column of Schedule 1, if he was a person who has been employed in Great Britain before 5th July 1948 in any of the occupations set against that disease in the second column of Schedule 1; or
+- (c) who, being a person who satisfies the conditions for benefit for partial disablement under sub-paragraph (a) or (b), is totally incapable of work and likely to remain so incapable for a considerable period as a joint result either of 2 or more of the diseases referred to in those sub-paragraphs or of one such disease and one or more other relevant injuries or diseases.
+
+(2) Benefit shall only be payable to or in respect of any person who is disabled or dies or who has died as a result of pneumoconiosis or byssinosis—
+
+- (a) if he has been employed in Great Britain before 5th July 1948 in any of the occupations in the case of which the disease is prescribed in relation to persons employed in employed earner's employment by virtue of regulations made under section 76 of the Social Security Act which are in force at the date on which this scheme comes into operation or are made at any time thereafter during his lifetime;
+- (b) if, except in a case where benefit under this scheme or any scheme revoked by this scheme, in respect of the disease has previously been awarded, the disease is not prescribed in relation to him under the Social Security Act;
+- (c) if it is decided by the Secretary of State[^key-8549c39ddc38d94ad6c4fff6ef863054]—
+  - (i) that he is totally disabled as a result of the disease; or
+  - (ii) that, though not totally disabled, he is or was partially disabled, within the meaning of article 14, as a result of the disease; or
+  - (iii) that he has died as a result of the disease.
+
+(3) For the purposes of this scheme, the expression “**partially disabled**” means in relation to any person claiming benefit as a result of a disease other than pneumoconiosis or byssinosis that, though not totally disabled by any of the diseases set out in Schedule 1, that person is suffering from the disease to such a degree that his general physical capacity for employment is thereby impaired.
+
+### 3. Restriction on payment of benefit
+
+(1) Subject to the provision of paragraph (2), benefit shall not be payable to or in respect of a person who is disabled or dies or has died as a result of pneumoconiosis or byssinosis or any of the diseases set out in Schedule 1 if throughout the employment mentioned in article 2 he was employed otherwise than as a workman within the meaning of the Workmen's Compensation Act 1925, or if in respect of any attack of the disease suffered by him—
+
+- (a) he or any person is or has been entitled to benefit under Chapter IV or V of Part II of the Social Security Act;
+- (b) he or any other person would be or would have been so entitled but for the operation of section 82, 85 or 91 of the Social Security Act (which sections relate respectively to disqualification and suspension, overlapping benefits and adjustment for successive accidents);
+- (c) he or any person is or has been entitled to any payment corresponding to such benefit under any legislation of Northern Ireland;
+- (d) he, or any person, being a member of his family within the meaning of the Workmen's Compensation Act 1925, has received or is entitled to compensation under the Workmen's Compensation Acts or by virtue of any scheme made or certified thereunder (other than compensation in respect of total or partial incapacity for work under the Refractories Industries (Silicosis) Scheme 1931 or the Sandstone Industry (Silicosis) Scheme 1931 [^f00002] or by virtue of any scheme or law in force in any country or territory outside Great Britain providing for compensation in respect of the disease;
+- (e) he would have received or would be entitled to such compensation under the Workmen's Compensation Acts or by virtue of any scheme made or certified as aforesaid but for the fact that he was or is entitled to receive compensation in respect of disablement from any other disease or in respect of an injury by accident; or
+- (f) he, or his personal representative, or any of his relatives has recovered any sum by way of damages whether at common law or under the Fatal Accidents Act 1976, or the Law Reform (Miscellaneous Provisions) Act 1934.
+
+(2) The provisions of paragraph (1)(d), (e) and (f) shall not operate to prevent benefit from being payable to or in respect of any person in any case in which the disablement or death in respect of which the claim is made is the result of a separate and fresh contraction of the disease.
+
+### 4. Allowances payable under this scheme
+
+(1) Subject to the provisions of this scheme, the benefit payable—
+
+- (a) in cases of disablement due to pneumoconiosis, byssinosis or any of the diseases set out in Schedule 1 shall be an allowance—
+  - (i) for any period during which the disablement is total, at the corresponding disablement pension rate; or
+  - (ii) for any period during which the disablement is partial, at the weekly rate specified in section 7(2)(b) of the Act;
+- (b) in cases of total incapacity for work for a considerable period as a joint result of 2 or more relevant injuries or diseases, at least one of which is a disease referred to in article 2(1)(a) or (b), shall be an allowance at the corresponding disablement pension rate;
+
+and such allowances shall be payable in any such case at the appropriate rate from the date (not being a date earlier than the date on which this scheme comes into operation) as from which it is determined by the appropriate determining authority that the claimant was totally incapable of work or totally or partially so disabled, as the case may be, having regard, in the case of disablement due to pneumoconiosis or byssinosis, to the date decided by the Secretary of State[^key-3e93f99691ab502fe68dbdc2cc73ffed] in accordance with the provisions of article 14(4).
+
+(2) For the purposes of paragraph (1)—
+
+- (a) for any period during which the claimant is totally disabled as a result of one of the said diseases or totally incapable of work as a joint result of 2 or more of the said diseases or of one or more such diseases and one or more injuries or diseases entitling the claimant to workmen's compensation, the weekly rate of benefit shall be reduced—
+  - (i) by the amount of any allowance payable to him in excess of £1.00 for partial disablement due to any of the said diseases; and
+  - (ii) by the amount of any workmen's compensation payable to him in respect of any relevant injury or disease; and
+- (b) subject to the provisions of sub-paragraph (a), a person shall not, in respect of the same period, be entitled to receive 2 or more allowances under this scheme at an aggregate weekly rate exceeding the corresponding disablement pension rate.
+
+(3) A claimant shall not be entitled to an allowance unless he is ordinarily resident in the United Kingdom at the date of the claim or was, immediately before 10th March 1952, in receipt of any such benefit or payment as is mentioned in article 10.
+
+(4)[^key-21d7b0d148f53f950577df44464eb0e3] An increase of allowance under the provisions of article 5, 6, 7 or 8 shall not be payable for any period during which the person entitled to the allowance is absent from the United Kingdom except that—
+
+- (a) a person shall not be disqualified from receiving an increase of allowance under article 5 or 6 by reason of being temporarily absent from the United Kingdom during a period in which that person is entitled to receive an increase of allowance on account of unemployability under article 7;
+- (b) a person shall not be disqualified from receiving an increase of allowance under article 8 by reason of being temporarily absent from the United Kingdom during the period of 6 months from the date on which such absence commences or during such longer period as the Secretary of State may, having regard to the purposes of the absence and any other factors which appear to him to be relevant, allow;
+- (c) a person shall not be disqualified from receiving an increase of allowance under article 7 by reason of being temporarily absent from the United Kingdom.
+
+### 4A. Cases in which disablement shall be regarded as being total[^key-07c93fa4085f448662dd09b37f30038b]
+
+On any claim for benefit in respect of any disease set out in paragraph 5, 8 or 8A of Schedule 1 the disablement shall be regarded as being total.
+
+### 5. Increase of allowance in respect of spouse or civil partner[^key-1a7977dbb48dc67b2dde8ba6edbe380c][^key-2ea7ed9d5b33bed605f38f1b084f2ec7]
+
+(1) Subject to the provisions of paragraph (3), for any period during which a person entitled to an allowance in respect of total disablement would be treated as residing with his or her[^key-42032838bbfed811a267f2f2417839a2] spouse or civil partner[^key-84139900689ecc78e84a21586f175387] or contributing to his or her maintenance at a weekly rate of not less than the amount specified in paragraph (2) the weekly rate of the allowance payable to that person shall, subject to the provisions of Schedule 2, be increased by the amount specified in paragraph (2).
+
+(2) For the purposes of paragraph (1) and of paragraph 2 of Schedule 2, the specified amount shall be an amount equal to the increase of benefit in respect of an adult dependant specified in paragraph 1(a) of Part IV[^key-5e7c10f2d4cd1ff11775d9538a8b0811] of Schedule 4 to the Social Security Act.
+
+(3) Where a person is also entitled to an increase of allowance under the provisions of article 7(1), and is residing with his or her spouse or civil partner[^key-f4351aa3bc56b5eb1a0bfb46b9e2c9b8], the provisions of paragraph 1(b) of Schedule 2 shall not have effect, but where the earnings of his or her spouse or civil partner for the calendar week ending last before any week for which he or she[^key-37e18fbe936ebdb33d74d940686a854b] is entitled to any such increase of allowance exceeded the amount first stated in section 66(4) of the Social Security Act, the increase of allowance under this article shall be reduced in the manner provided by the said section 66(4), and for those purposes the earnings of his or her spouse or civil partner shall be calculated in accordance with the provisions of regulations 2 to 5 of the Social Security Benefits (Computation of Earnings) Regulations 1978.
+
+(4) Where in any case a person is entitled to an increase of allowance under the provisions of article 7(1), the foregoing provisions of this article shall apply but with the substitution of the words “paragraph 12 of Part V[^key-3f7b54450c1d4d0b7073367034a7c078]” for the words “paragraph 1(a) of Part IV[^key-8e74ac567231530c2d2f3c10e72b2fda]” in paragraph (2).
+
+### 6. Increase of allowance in respect of children
+
+(1)[^M_F_2576151c-483f-43b0-9896-ed3873272d48] Subject to the provisions of paragraph (2), for any period during which a person is entitled to child benefit in respect of a child or children the weekly rate of the allowance payable to that person shall be increased by an amount equal to the increase (if any) which would be payable to him in respect of that child or those children—
+
+- (a) [^key-8d30f15f294a6df70ab9e539c4fee17a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) under section 64 of the Social Security Act if, in the case of a person entitled to an increase of allowance under the provisions of article 7(1), he were entitled to a disablement pension plus unemployability supplement.
+
+(2) Where, for any period, the conditions for the receipt by a person of an increase of allowance under this article are satisfied, such increase of allowance shall be adjusted by reference to the weekly rate at which an allowance or an increase of benefit in respect of that child or those children is payable for that period under the Social Security Act so as to be payable (if at all) for that period at a weekly rate arrived at by deducting from the weekly rate at which the increase of allowance under this article would otherwise have been payable the said weekly rate of an allowance or increase of benefit payable under that Act.
+
+### 7. Increase of allowance on account of unemployability
+
+(1) Where a person could for the purposes of section 58 of the Social Security Act (unemployability supplement) be treated as incapable of work and likely to remain permanently so incapable as the result of any disease in respect of which he is entitled to an allowance in respect of disablement, the weekly rate of the allowance payable to him shall, subject to the provisions of paragraph (3), be increased by an amount equal to the increase of disablement pension (if any) which would be payable to him under the said section 58 or, as the case may be, the said section 58 and section 59 of the said Act if he were entitled to disablement pension in respect of the disease.
+
+(2) For the purposes of this article, the reference in section 59(2) of the Social Security Act (increase of unemployability supplement by reference to beneficiary's age on qualifying date) to “**the qualifying date**” shall, subject to the provisions of subsections (3), (4) and (5) of that section, mean the beginning of the first week for which a person qualified for an increase of allowance under this article.
+
+(3) An increase of an allowance under this article shall be payable for such period as may be determined at the time it is granted, but may be renewed from time to time.
+
+(4) An increase of an allowance under this article shall not be payable to any person for any period during which he is entitled to an increase of disablement pension by way of unemployability supplement under section 58 or 159 of the Social Security Act.
+
+(5) Where a person is entitled to an allowance in respect of partial disablement and is also entitled to an increase of that allowance under this article, the provisions of article 5 shall apply to him for any period during which he is entitled to such increase as they apply to a person entitled to an allowance in respect of total disablement and an increase of that allowance under this article.
+
+### 8. Increase of allowance when constant attendance needed and in respect of exceptionally severe disablement
+
+(1) Where a person is entitled to an allowance in respect of total disablement and requires constant attendance as a result of that disablement, the weekly rate of the allowance payable to him shall, subject to the provisions of paragraph (2), be increased by an amount equal to the increase of disablement pension (if any) which would be payable to him under section 61 of the Social Security Act (constant attendance allowance) or under section 63 of the said Act (exceptionally severe disablement allowance) if he were entitled in respect of the disease to a disablement pension calculated by reference to an assessment of 100 per cent.
+
+(2) An increase of an allowance under this article shall not be payable to any person in respect of any period during which he is entitled to an increase of disablement pension in respect of the need for constant attendance or in respect of exceptionally severe disablement under section 61, 63 or 159 of the Social Security Act.
+
+### 9. Death benefit
+
+(1) The benefit payable in cases of death due to pneumoconiosis, byssinosis or any of the said diseases set out in Schedule 1 shall be payable to or for the benefit of such of the dependants of the deceased as are specified in paragraph (2) and, subject to the following provisions of this scheme, shall be a capital sum of an amount calculated in accordance with the provisions of paragraphs (4) and (5).
+
+(2) The dependants of a person entitled to claim death benefit under this scheme are such of the members of the deceased's family as were wholly or in part dependent on the deceased at the time of his death or are treated as being so dependent under the provisions of paragraph (3), and for the purposes of this paragraph the expression “**member of a family**” has the same meaning as it has for the purposes of the Workmen's Compensation Act 1925 and is to be read as including a surviving civil partner of the deceased[^key-63eec7c3341d60529b612764a78032d4].
+
+(3) For the purposes of paragraph (2), a person shall be treated as having been wholly or in part dependent (as the case may be) upon the deceased at the time of his death if that person would have been so dependent but for the disablement due to the disease.
+
+(4) The capital sum payable by way of death benefit in respect of a deceased person shall, subject to the condition that where, under the following provisions of this paragraph, such sum is payable to more than one person the total payment shall not exceed £300, be calculated and payment made in accordance with those provisions and with the order of priority herein set out:—
+
+- (a) where the deceased is survived by—
+  - (i) his widow who was residing with him at his death, or
+  - (ii) her widower who was wholly dependent upon her and who was residing with her at her death, or[^key-ce34a5bb01aa083c23f1869a56c5d2fe]
+  - (iii)[^key-f25a450c3395168a55bd6b49b92f7a6b] his or her surviving civil partner who was wholly dependant upon him or her and who was residing with him or her at the time of his or her death,
+
+  the sum of £300 shall be payable to that widow, that widower or, as the case may be, that surviving civil partner[^key-7144a0f6b5675a5abe75f6290220c845];
+- (b) where the deceased is survived by no such widow, widower or surviving civil partner[^key-f7826d3997788f4d4b32b58b3dfe1135] as aforesaid but is survived by—
+  - (i) either his widow who was at his death receiving or entitled to receive or would but for the relevant disease have been receiving from him periodic payments for her maintenance of not less than the amount prescribed by regulations for the purposes of section 67(1)(b) of the Social Security Act or, where the deceased was a woman, by her widower who was wholly dependent upon her; and
+  - (ia)[^key-89c90d40ca6e6cf3e5e5468c544a5972] his or her surviving civil partner who was wholly dependant on the deceased at the time of the deceased's death; or
+  - (ii) a child who was at his or her death residing with him or her and in respect of whom he or she was entitled to child benefit,
+
+  the sum of £300 shall be divided equally between the widow, widower or, as the case may be, the surviving civil partner and that child or, if there is more than one child, between the widow, widower or, as the case may be, the surviving civil partner and those children[^key-c24d99a35c7e5116ccd9d6329b626c35];
+- (c) where the deceased is survived by such a a widow, widower or surviving civil partner[^key-bc83222f61cc5b409e733cd2cb27da41] as is mentioned in paragraph (4)(b)(i) but by no such child as described in paragraph (4)(b)(ii) the sum of £300 shall be payable to that widow, that widower or, as the case may be, to that surviving civil partner[^key-927dd755660096da282f4f39c231086a];
+- (d) where the deceased is survived by no such widow, widower or surviving civil partner[^key-74c666b86d89dbd1a6883c7c0748619b] as is mentioned in the foregoing sub-paragraphs but is survived by a child who was at his death, residing with him and in respect of whom he was entitled to child benefit, the sum of £300 shall be payable to that child or, if more than one, divided equally between those children;
+- (e) where the deceased is survived by no such person as aforesaid but is survived by a member of his family who was wholly maintained by him at the date of his death, the sum of £300 shall be payable to that member or, if more than one, divided equally between those members;
+- (f) where the deceased is survived by no such person as aforesaid but is survived by any member of his family who was partly maintained by him at the date of his death, such sum or sums not exceeding in total £300 shall be payable to that member or, if more than one, those members, as may be reasonable and proportionate to the loss sustained by such member or members.
+
+(5) For the purposes of this article, a dependant shall be disregarded—
+
+- (a) where the dependant has died (whether he had made a claim for death benefit or not) before an award of such benefit in respect of the deceased has been made; or
+- (b) where the dependent was not ordinarily resident in the United Kingdom at the date of the death of the deceased.
+
+### 10. Reduction of allowance or death benefit where benefit payable or paid under pre-1949 benefit schemes
+
+(1) Where benefit is payable or has been paid to or in respect of any person under the Byssinosis (Benefit) Scheme 1941[^f00004] or the Pneumoconiosis (Benefit) Scheme 1943—
+
+- (a) the amount of an allowance payable to him for any period in respect of pneumoconiosis or byssinosis shall be reduced by the amount of any weekly payments of such benefit for the same period; and
+- (b) the amount of death benefit shall be reduced by the amount of any benefit paid or payable in respect of his death under the said Pneumoconiosis (Benefit) Scheme .
+
+(2) For the purposes of paragraph (1) of this article, any payments made by the National Coal Board to or in respect of a person in whose case benefit would have been payable under the Pneumoconiosis (Benefit) Scheme 1943, but for the fact that he was certified as totally disabled, or that he had died, more than 5 years after 1st July 1943, shall be treated as if they had been payments by way of benefit under the said scheme up to the amount of the benefit which would have been so payable.
+
+## PART III — ADMINISTRATION OF THE SCHEME AND DETERMINATION OF QUESTIONS
+
+### 11. Administration of the scheme
+
+This scheme shall be administered by the Secretary of State and, subject to articles 16 and 17, the provisions of the Social Security (Claims and Payments) Regulations 1987[^key-e91fb6aa9b256f01c8d4a03809f68efa] and the Social Security (General Benefit) Regulations 1982[^f00006] which are specified in Schedule 3 shall, with the necessary modifications, apply for the purposes of this scheme.
+
+### 12. Questions arising under the scheme[^key-886b2809c3c1c0f773aec2c05db4f513]
+
+Subject to the provisions of Part IV, any question relating to any allowance or benefit under this scheme shall be determined as if it had arisen under Part V of the Social Security Contributions and Benefits Act 1992 and, except where the scheme otherwise provides, the provisions of the 1998 Act and of the Social Security (General Benefit) Regulations 1982, the Social Security (Claims and Payments) Regulations 1987, the Social Security (Payments on Account, Overpayments and Recovery) Regulations 1988, the Social Security and Child Support (Decisions and Appeals) Regulations 1999 and [^key-920f4e1684e8c9c4ee3e7bb4232cf458]... which are specified in Schedule 3 shall, with the necessary modifications, apply for the purposes of this scheme.
+
+## PART IV — MEDICAL BOARD
+
+### 13. Report of a medical practitioner[^key-9ccf5a4e80f7d427927d964216ea32d4]
+
+(1) Subject to the provisions of paragraph (3), the Secretary of State, on consideration of a claim for an allowance in respect of pneumoconiosis or byssinosis, shall refer the case to a medical practitioner for advice.
+
+(2) The Secretary of State need not refer the case as provided in paragraph (1), but may determine that an award cannot be made on the claim if the claimant fails to satisfy him—
+
+- (a) that he fulfils the conditions relating to the allowance;
+- (b) that there is reasonable cause for suspecting that he is totally or partially disabled within the meaning of this scheme as a result of pneumoconiosis or byssinosis or, where he has previously been awarded an allowance in respect of partial disablement and claims that he has become totally disabled, that he is totally disabled.
+
+(3) For the purposes of determining whethere there is reasonable cause for suspecting that the claimant is totally or partially disabled by pneumoconiosis, the Secretary of State shall have power, in any case where he considers necessary, to obtain a radiological report on the case.
+
+### 14. Provision of a report by a medical practitioner[^key-83171e36985ef5427ef095a763794743]
+
+(1) Where a case is referred to a medical practitioner[^key-798b90c0da66c7e4fe2f199b7095bdac] under the provisions of article 13, the medical board shall, except as provided in paragraph (3), examine the claimant and shall provide a report—
+
+- (a) that the claimant is totally disabled as a result of the disease, if satisfied that he is so disabled;
+- (b) that the claimant is or was partially disabled as a result of the disease if satisfied—
+  - (i) where the claim is made in respect of pneumoconiosis, that though not totally disabled as a result of the disease, he is or was suffering from the disease to such a degree that his general physical capacity for employment is or was impaired by reason of the disease; or
+  - (ii) where the claim is made in respect of byssinosis, that although not totally disabled as a result of the disease, he is or was suffering from the disease to such a degree that, if the Social Security Act had been applicable in his case, the resulting disablement would, in the opinion of the medical practitioner, have been assessed at not less than the minimum degree of disablement for which disablement benefit in respect of byssinosis is payable under that Act.
+
+(2)[^key-cb7ee0359bf8842ba8f6b809aa949a33] For the purposes of the last foregoing paragraph of this article, in the case of a claimant disabled as a result of byssinosis, the medical practitioner shall not make a report as provided in this paragraph unless satisfied that the disablement is likely to be permanent, in which event he shall include in his report a statement to that effect, together with his opinion as to the degree of disablement;
+
+(3)[^key-4b3cf84b5a192fad6d85d292d77292ca] The medical practitioner may provide a report in accordance with the provisions of paragraph (1) without examining the claimant, if satisfied that such examination can be dispensed with, having regard to any medical reports available as a result of any previous medical examination of the claimant carried out by a medical board or a specially qualified medical practitioner or a medical practitioner, whether in accordance with this scheme or otherwise, or if the claimant has died after having claimed the allowance but before having been examined by a medical board or a medical practitioner on the reference under article 13(1).
+
+(4) A report[^key-39afe31c10437ea6dbf6404ca4f5cf19] given under paragraph (1) shall state—
+
+- (a) where the medical practitioner is satisfied that the relevant condition specified in paragraph (1)(a) is fulfilled, the date (not being a date earlier than 10th March 1952) as from which it was fulfilled;
+- (b) where the medical practitioner is satisfied that the relevant condition specified in paragraph (1)(b) is or was fulfilled, the date (not being a date earlier than 8th November 1954) as from which it was fulfilled.
+
+(5) If, on a claim for death benefit, any question arises whether the deceased had suffered from pneumoconiosis or from pneumoconiosis accompanied by tuberculosis to an extent which would if his physical condition were otherwise normal have been of a gravity comparable to an assessment under the Social Security Act of not less than 50 per cent, the Secretary of State[^M_F_1cc1b654-4d11-4529-8a7b-1632e9a76bba] shall refer that question to a medical practitioner who shall provide a report to the Secretary of State.
+
+(6)[^key-187b9ac68ce0c0912e16780dd1c912f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-7db9b1e77166fe5a9620b2028f105b5c] A decision of the Secretary of State following the provision of a report provided under paragraph (5) stating that the deceased did not suffer from pneumoconiosis, or from pneumoconiosis accompanied by tuberculosis, may, to the extent mentioned in that paragraph, be revised by the Secretary of State.
+
+## PART V — CLAIMS AND PAYMENTS
+
+### 15. Information to be given when making a claim or obtaining payment of allowance or death benefit
+
+Every person who makes a claim for or is entitled to an allowance or death benefit and every person to whom or on whose behalf sums are payable by way of an allowance or death benefit shall furnish in such manner and at such times as the Secretary of State may determine, such certificates, documents, information and evidence affecting the right to the allowance or death benefit or to the receipt of any sum payable by way of an allowance or death benefit as may reasonably be required by the Secretary of State, and, if so required, shall for that purpose attend at such office or place as the Secretary of State may direct.
+
+### 16. Obligation to undergo medical examination
+
+(1) Subject to the following provisions of this article, every claimant for, and every beneficiary in receipt of, an allowance shall comply with every notice given to him by the Secretary of State which requires him to submit himself to a medical examination by a medical practitioner[^key-78315d6f8b316c3f748555358c17486e].
+
+(2) Every notice given to a claimant or beneficiary requiring him to submit himself to medical examination shall be given in writing and shall specify the time and place of examination but shall not require the claimant or beneficiary to submit himself to examination—
+
+- (a) in the case of examination by a medical practitioner[^key-cb7f0894fd41772b0e67c4ed5a94366b], before the expiration of the period of 6 days beginning with the date of the notice or such shorter period as may be reasonable in the circumstances;
+- (b) in any other case, on a date earlier than the third day after the date on which the notice was sent.
+
+(3) Every claimant and every beneficiary who, in accordance with the foregoing provisions of this article, is required to submit himself to a medical examination shall attend at every such place and at every such time as may be required.
+
+(4)[^key-ba4cf550b63e65a60f1ba86fca2e30b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Sums not payable when delay in claiming[^key-388b6414be0c9876cca331fc0fb0951d]
+
+(1) An allowance, or an increase of allowance, shall not be payable to any person in respect of any period more than three months before the claim for the allowance or the increase, as the case may be, is made.
+
+(2) Death benefit shall not be payable in respect of the death of any person to or for the benefit of any dependant who fails to make a claim for that benefit within a period of three months beginning with the day of the death.
+
+### 18. Payment of allowances
+
+Where an allowance is payable under this scheme by means of orders for the payment [^key-260cc816322dbce0c0391f6ad97da94f]... of weekly sums on account of the allowance, those weekly sums shall be payable on Thursdays.
+
+### 19. Obligation to notify change of circumstances
+
+Every person entitled to an allowance shall, as soon as may be practicable, notify the Secretary of State in writing of any change of circumstances which he might reasonably be expected to know might affect the continuance of his right to any allowance or any part thereof awarded to him, or to the receipt of any such allowance or part of an allowance.
+
+### 20. Allowances to be inalienable
+
+Subject to the following provisions of this scheme, every assignment of, or charge on, an allowance, and every agreement to assign or charge an allowance, shall be void, and on the bankruptcy of a person entitled to an allowance, the allowance shall not pass to any trustee or other person acting on behalf of his creditors.
+
+### 21. Forfeiture of allowances
+
+(1) Subject to the provision of paragraph (2), if a claimant or person entitled to an allowance—
+
+- (a) fails without reasonable cause to comply with any requirement of article 15, 16 or 19, he shall, if the appropriate determining authority so decides, forfeit any allowance which would, apart from this paragraph, be payable in respect of the period of such failure;
+- (b) wilfully obstructs or is guilty of other misconduct in connection with any medical or other examination which he is required under article 16 to undergo, or with any proceedings under this scheme for the determination of his right to an allowance or to the receipt thereof, he shall forfeit, for such period as the appropriate determining authority shall determine, any allowance which would, apart from this paragraph, be payable.
+
+(2) Nothing in paragraph (1) providing for forfeiture of an allowance for failure to undergo medical examination or other examination or any obstruction or misconduct in connection with such examination shall authorise the disentitlement of the person concerned for a period exceeding 6 weeks on any forfeiture.
+
+### 22. Allowances during imprisonment
+
+Where a person has become entitled, in respect of a period, or any part of a period, during which he is and has continuously been undergoing imprisonment or detention in legal custody, to sums by way of allowance, including increases for dependants, which in the aggregate, either—
+
+- (a) equal the total amount payable by way of an allowance for a period of one year; or
+- (b) together with any sums payable by virtue of any scheme made under section 2 of the Act in respect of that period of imprisonment or detention in legal custody, equal the total amount payable by way of such allowances for a period of one year; then that person shall be disqualified from receiving any further sums by way of allowance in respect of that period, or any part thereof.
+
+## PART VI — RECOVERY AND ADJUSTMENT OF ALLOWANCES
+
+### 23. Recovery of sums by deduction from allowances or benefit under the Social Security Act or a scheme made under section 2 of the Act
+
+(1) Where any sums paid by way of an allowance are required to be repaid to the Secretary of State[^key-007916fbad79d54b8b865379afbff8d8] under this scheme, those sums may, without prejudice to any other method of recovery, be deducted from any allowance or from any benefit under Chapter IV or V of Part II of the Social Security Act or from any allowance under a scheme made under section 2 of the Act then or thereafter payable to the person by whom they are to be repaid or to any person entitled to receive any such allowance or benefit on his death, and the deduction may be made at such rate as the Secretary of State may determine.
+
+(2) Where, in the case of any person, any sum may be recovered by deduction—
+
+- (a) by virtue of any provision of the Social Security Act from any payment under that Act; or
+- (b) by virtue of any provision of a scheme made under section 2 of the Act from any payment under such scheme;
+
+it may instead be recovered in whole or in part by deduction from any allowance then or thereafter payable to him or to any person entitled to receive such allowance on his death.
+
+### 24. Set-off of overpayments on account of allowances
+
+Where any person has received any sum under a scheme made under section 2 of the Act to which, by virtue of any provisions of such scheme he was disentitled by reason of his being entitled in respect of the same period to an allowance under this scheme subsequently awarded, and there has not been a requirement to repay that sum (hereafter referred to as “**the overpayment**”) to the Secretary of State[^key-12f51c61d53dffb6efef0c9093f286be], then the rate of the allowance, which would apart from this provision be payable for any week in that period, shall be reduced by the overpayment made in respect of that week.
+
+## PART VII — TRANSITIONAL PROVISIONS
+
+### 25. Finality of decisions of the Administrative Board
+
+Except as provided by article 26, any decision given by the Administrative Board on a claim or question under provisions of the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit Scheme 1966 in force immediately before 1st July 1977[^f00007] or under any scheme made under the Industrial Diseases (Benefit) Acts in force immediately before 1st March 1966 shall be final for the purposes of this scheme.
+
+### 26. Review of decisions of the Administrative Board[^key-2fc075f19057f528a78934a48291d841]
+
+(1) The Secretary of State may at any time and from time to time revise or supersede any decision given by the Administrative Board under provisions of the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit Scheme 1966 in force immediately before 1st July 1977, if—
+
+- (a) the decision was erroneous in view of new facts which have been brought to his notice since the date on which the decision was given or by reason of some mistake being made with respect to the facts or the law; or
+- (b) there has been any relevant change of circumstances since the decision was given.
+
+(2) A decision of the Administrative Board may be revised or superseded by the Secretary of State on his own initiative or by application in writing to him for the purpose.
+
+(3) Where it appears to the Secretary of State that an issue has arisen whether the decision as to an award of an allowance to which this article relates ought to be revised or superseded in accordance with the provisions of paragraph (1), he may decide that payment of the allowance shall be suspended in whole or in part until that issue has been determined.
+
+(4) Repayment of sums by way of an allowance in pursuance of the original decision shall not be required under this article in any case where it is shown to the satisfaction of the Secretary of State that in the obtaining and receipt of the benefit the beneficiary, and any person acting for him, has throughout used due care and diligence to avoid overpayment.
+
+(5) For the purposes of this article a decision given under any scheme made under the Industrial Diseases (Benefit) Acts shall be treated as if it had been a decision given under the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit Scheme 1966 as in force immediately before 1st July 1977.
+
+(6) On a revision or supersession of a decision given by the Administrative Board under any scheme made under the Industrial Diseases (Benefit) Acts in force before 1st March 1966 the Secretary of State may determine any issue referred to him arising under the scheme
+
+### 27. Claims in respect of periods before commencement of scheme
+
+A claim may be made in respect of a period before the coming into operation of this scheme for an allowance payable by virtue of any scheme revoked by this scheme, or any scheme made under the Industrial Diseases (Benefit) Acts, and such a claim and any question arising in connection therewith shall be determined by the appropriate determining authority, and any allowance in respect of such a period shall be awarded and paid in accordance with the provisions of the appropriate scheme in force during that period.
+
+### 28. Conditions for allowance satisfied by previous awards
+
+Any allowance under this scheme may be paid without any claim or award or awarded without any claim if, in the opinion of the Secretary of State, evidence of the satisfaction of the conditions for that allowance is afforded by the award, in respect of a period before the coming into operation of this scheme, of an allowance payable by virtue of a scheme revoked by this scheme or a scheme made under the Industrial Diseases (Benefit) Acts, or of an allowance under the Workmen's Compensation and Benefit (Supplementation) Act 1956.
+
+### 29. Preservation of entitlement to larger amount of allowances
+
+Any beneficiary who is entitled under the provisions of section 3(2) or (3) of the Workmen's Compensation and Benefit (Amendment) Act 1965 to payment of a greater amount or aggregate amount than he is entitled to receive by way of allowances under this scheme and any other scheme made under the Act shall, so long as he is so entitled, be paid by way of increase to the allowance or, if more than one, the largest allowance to which he is entitled under this scheme, such a sum as will, in addition to the allowances payable to him by virtue of this scheme and any other scheme made under the Act, ensure that the total amount or aggregate amount payable to him is the amount to which he is entitled by virtue of the said section 3(2) or (3).
+
+## PART VIII — MISCELLANEOUS
+
+### 30. Exemption from stamp duty
+
+Stamp duty shall not be chargeable upon an appointment or revocation of an appointment of an agent and any other document authorised by or in pursuance of this scheme or otherwise required in order to give effect to the provisions of this scheme.
+
+### 31. Reciprocal arrangements with Northern Ireland
+
+If in pursuance of section 13(1) of the Act (reciprocal arrangements with Northern Ireland) the Secretary of State makes reciprocal arrangements for payments under corresponding legislation of Northern Ireland to be made out of money provided by Parliament[^key-898d29e72f5194022d78a92ece41024e], the provisions of this scheme shall apply in relation to such payments as if they were payments made under this scheme.
+
+### 32. Breach of requirements of scheme
+
+If any person contravenes or fails to comply with any requirements of article 15 or article 19 he shall for such offence be liable on summary conviction to a penalty not exceeding £10.
+
+### 33. Service by post
+
+Any notice or other document required or authorised to be given or sent to any person under the provisions of this scheme may be sent by post to that person at his ordinary or last known address.
+
+### 34. Revocation of earlier schemes
+
+The schemes and regulations specified in column 1 of Schedule 5 hereto are, subject to the transitional provisions contained in Part VII, hereby revoked to the extent mentioned in column 3.
+
+Norman Fowler
+
+Secretary of State for Social Services
+
+We consent.
+
+Donald Thompson
+
+J. A. Cope
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## SCHEDULE 1 — Diseases and occupations to which, in addition to pneumoconiosis and byssinosis, this scheme applies
+
+Article 2
+
+| Description of disease | Nature of occupation |
+| --- | --- |
+| 1\. Epitheliomatous cancer or ulceration of the skin due to tar, pitch, bitumen, mineral oil (including paraffin), or any compound, product, or residue of any of these substances, including scrotal epithelioma (chimney sweep's cancer). | Any occupation involving:<br>The use or handling of, or exposure to, tar, pitch, bitumen, mineral oil (including paraffin), soot or any compound, product, or residue or any of these substances. |
+| 2\. Inflammation, ulceration or malignant disease of the skin or subcutaneous tissue or of the bones or anaemia of aplastic type due to X-rays, radium or other radio-active substance. | Exposure to X-rays, radium or other radio-active substance. |
+| 3\. *(a)* Carcinoma of the mucous membrane of the nose or associated air sinuses.<br>*(b)* Primary carcinoma of a bronchus or of a lung. | Work in a factory where nickel is produced by decomposition of a gaseous nickel compound which necessitates working in or about a building or buildings where that process or any other industrial process ancillary or incidental thereto is carried on. |
+| 4\. Primary neoplasm of the epithelial lining of—<br>*(a)* the urinary bladder (papilloma of the bladder),<br>*(b)* the renal pelvis,<br>*(c)* the ureter, or<br>*(d)* the urethra. | *(a)* Work in a building in which any of the following substances is produced for commercial purposes—<br>(i) Alpha-naphthylamine or beta-naphthylamine;<br>(ii) diphenyl substituted by at least one nitro or primary amino group or by at least one nitro and primary amino group;<br>(iii) any of the substances mentioned in sub-paragraph (ii) above if further ring substituted by halogeno, methyl or methoxy groups, but not by other groups;<br>(iv) the salts of any of the substances mentioned in subparagraphs (i) to (iii) above;<br>(v) auramine or magenta;<br>*(b)* the use or handling of any of the substances mentioned in sub-paragraphs (i) to (iv) of paragraph (a), or work in a process in which any such substance is used or handled or is liberated;<br>*(c)* the maintenance or cleaning of any plant or machinery used in any such process as is mentioned in paragraph (b), or the cleaning of clothing used in any such building as is mentioned in paragraph (a), if such clothing is cleaned within the works of which the building forms a part or in a laundry maintained and used solely in connection with such works.<br>*(d)[^key-c19b7dc1dc139a4e2ce894f7f6599f1f]* exposure to coal tar pitch volatiles produced in aluminium smelting involving the Soderberg process (that is to say the method of producing aluminium by electrolysis in which the anode consists of a paste of petroleum coke and mineral oil which is baked in situ). |
+| 5\. Primary malignant neoplasm of the mesothelium (diffuse mesothelioma) of the pleura or of the peritonium. | Exposure to asbestos, asbestos dust or any admixture of asbestos at a level above that commonly found in the environment at large.[^key-318eee5980dc757cc8fb9cc37f54402d] |
+| 6\. Adeno-carcinoma of the nasal cavity or associated air sinuses. | Attendance for work in or about a building where wooden furniture is manufactured. |
+| 7\. Carcinoma of the nasal cavity or associated air sinuses (nasal carcinoma). | *(a)* Attendance for work in a building used for the manufacture of footwear or components of footwear made wholly or partly of leather or fibre board; or<br>*(b)* attendance for work at a place used wholly or mainly for the repair of footwear made wholly or partly of leather or fibre board. |
+| 8\. Primary carcinoma of the lung where there is accompanying evidence of asbestosis.[^key-3d7ef13326de0be84d7877fad96703bb] | (a) The working or handling of asbestos or any admixture of asbestos; or<br>(b) the manufacture or repair of asbestos textiles or other articles containing or composed of asbestos; or<br>(c) the cleaning of any machinery or plant used in any of the foregoing operations and of any chambers, fixtures and appliances for the collection of asbestos dust; or<br>(d) substantial exposure to the dust arising from any of the foregoing operations. |
+| **8A.** Primary carcinoma of the lung. | Exposure to asbestos for a period of, or periods which amount in aggregate to, five years or more in the course of—<br>- (a) the manufacture of asbestos textiles; or<br>- (b) the manufacture of gas masks; or<br>- (c) spraying asbestos; or<br>- (d) asbestos insulation work; or<br>- (e) applying or removing materials containing asbestos in the course of shipbuilding. |
+| **8B.** Unilateral or bilateral diffuse pleural thickening with obliteration of the costophrenic angle. | - (a) The working or handling of asbestos or any admixture of asbestos; or<br>- (b) the manufacture or repair of asbestos textiles or other articles containing or composed of asbestos; or<br>- (c) the cleaning of any machinery or plant used in any of the foregoing operations and of any chambers, fixtures and appliances for the collection of asbestos dust; or<br>- (d) substantial exposure to the dust arising from any of the foregoing operations. |
+| 9\. Primary carcinoma of the lung[^key-13f9276d162cc3446302c60ff0e4d47c] | - (a) Work underground in a tin mine; or[^key-7773a6939ee85f9e7b38c30eef421779]<br>- (b) exposure to bis (chloromethyl) ether produced during the manufacture of chloromethyl methyl ether; or<br>- (c) exposure to zinc chromate, calcium chromate or strontium chromate in their pure forms. |
+| 10\. Primary carcinoma of the lung where there is accompanying evidence of silicosis.[^key-c5f8db000f390df0c935f3246ff04648] | Exposure to silica dust in the course of—<br>- (a) the manufacture of glass or pottery;<br>- (b) tunnelling in or quarrying sandstone or granite;<br>- (c) mining metal ores;<br>- (d) slate quarrying or the manufacture of artefacts from slate;<br>- (e) mining clay;<br>- (f) using siliceous materials as abrasives;<br>- (g) cutting stone;<br>- (h) stonemasonry; or<br>- (i) work in a foundry. |
+
+## SCHEDULE 2 — Conditions relating to increase of allowance in respect of a spouse or civil partner[^key-6eef305144d356dc03f75f4d81dc8b68][^key-8fd8218b4b608a5e9beba59fa1ea331b]
+
+Article 5
+
+**1.** An increase of an allowance under the provisions of article 5 in respect of a spouse or civil partner[^key-535a46425403954a4aa06cb97f202f12] shall not be payable for any period for which an increase of disablement benefit in respect of a spouse or civil partner would not be payable under the provisions of—
+
+- (a) section 82(5) of the Social Security Act (disqualification for periods of absence from Great Britain and of imprisonment); or
+- (b) regulation 8 of the Social Security Benefit (Dependency) Regulations 1977 (increase of benefit in respect of spouse or civil partner not payable where his or her[^key-348b604e20ae0e81e467893823837f2a] weekly earnings exceed the amount therein specified).
+
+**2.** Where for any period—
+
+- (a) any benefit payable otherwise than under this scheme which is specified as a dependency benefit in regulation 7(2) of the Social Security (Overlapping Benefits) Regulations 1979 (adjustment of dependency benefit under the Social Security Act by reference to other dependency benefits) is payable to a person in respect of his or her spouse or civil partner[^key-37c3a2d11e2a9faf781e8feb86be68aa] or other adult dependant or to any other person on behalf of his or her spouse or civil partner; or
+- (b) any one or more of the personal benefits specified in regulation 10(1) of the Social Security (Overlapping Benefits) Regulations 1979 (adjustment of dependency benefit under the Social Security Act by reference to personal benefits) is or are payable to his or her spouse or civil partner;
+
+at a weekly rate or (if more than one) at an aggregate weekly rate—
+
+- (i) which is equal to or exceeds the amount specified in article 5(2), then for that period an increase of an allowance in respect of his or her spouse or civil partner shall not be payable; or
+- (ii) of less than the amount specified in article 5(2), then for that period such increase shall be reduced by an amount equal to the weekly rate or the aggregate weekly rate of such benefit or benefits.
+
+## SCHEDULE 3 — PROVISIONS OF THE 1998 ACT OR REGULATIONS APPLICABLE (WITH THE NECESSARY MODIFICATIONS) TO THIS SCHEME[^key-92722c6a2bb48c539297337107e5e498]
+
+Articles 11 and 12
+
+| Provisions of the 1998 Act or of Regulations | Subject matter |
+| --- | --- |
+| Social Security Act 1998— |  |
+| - Section 8 | Decisions by Secretary of State |
+| - Sections 9 and 10 | Revisions, and supersession of decisions |
+| - Section 11 | Regulations with respect to decisions. |
+| - Section 12 | Appeal to an appeal tribunal |
+| - Section 14 | Appeal from an appeal tribunal to Commissioner |
+| The Social Security (General Benefit) Regulations 1982— |  |
+| - Regulation 3 | Suspension of payment of benefit during imprisonment etc. |
+| The Social Security (Claims and Payments) Regulations 1987— |  |
+| - Regulation 4 | Making a claim for benefit |
+| - Regulation 5 | Amendment and withdrawal of claim |
+| - Regulation 6 | Date of claim |
+| - Regulation 16 | Date of entitlement under an award for the purpose of payability of benefit and effective date of change of rate |
+| - Regulation 17 | Duration of awards |
+| - Regulation 20 | Time and manner of payment: general provision |
+| - Regulation 20A | Payment on presentation of an instrument for benefit payment |
+| - Regulation 21 | Direct credit transfer |
+| - Regulation 22 | Long term benefits |
+| - Regulation 25 | Payment of attendance allowance and constant attendance allowance at a daily rate |
+| - Regulation 28 | Fractional amounts of benefit |
+| - Regulation 30 | Payments on death |
+| - Regulation 33 | Persons unable to act |
+| - Regulation 38 | Extinguishment of right to payment where not obtained within prescribed period |
+| - Regulation 47 | Instruments of payment |
+| Social Security (Payments on Account, Overpayments and Recovery) Regulations 1988— |  |
+| - Regulation 5 | Offsetting prior payment against subsequent award |
+| The Social Security and Child Support (Decisions and Appeals) Regulations 1999— |  |
+| - Regulation 3 | Revision of decisions |
+| - Regulation 4 | Late application for a revision |
+| - Regulation 5 | Date from which a decision revised under section 9 takes effect |
+| The Social Security and Child Support (Decisions and Appeals) Regulations 1999— |  |
+| - Regulation 6 | Supersession of decisions |
+| - Regulation 7 | Date from which a decision superseded under section 10 takes effect |
+| - Regulation 8 | Effective date for late notification of change of circumstances |
+| - Regulation 12 | Decisions of the Secretary of State relating to industrial injuries benefit |
+| - Regulation 16 | Suspension in prescribed cases |
+| - Regulation 17 | Provision of information or evidence |
+| - Regulation 18 | Termination in cases of failure to furnish information or evidence |
+| - Regulation 19 | Suspension and termination for failure to submit to medical examination |
+| - Regulation 20 | Making of payments which have been suspended |
+| - Regulation 25 | Other persons with a right of appeal |
+| - Regulation 26 | Decisions against which an appeal lies |
+| - Regulation 27 | Decisions against which no appeal lies |
+| - Regulation 28 | Notice of decision against which appeal lies |
+| - Regulation 30 | Appeal against a decision which has been revised |
+| - Regulation 31 | Time within which an appeal is to be brought |
+| - Regulation 32 | Late appeals |
+| - Regulation 33 | Making of appeals and applications |
+| - Regulation 34 | Death of a party to an appeal |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| - Regulation 48 | Misconceived appeals |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| The Social Security and Child Support (Decisions and Appeals) Regulations 1999— |  |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . | [^key-316faf289d8a00171e2e5de6aee3bcbd]. . . |
+| The Social Security Commissioners (Procedure) Regulations 1999— |  |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+| [^key-70f6ee2e76552f764d29966344d24737]. . . | [^key-70f6ee2e76552f764d29966344d24737]. . . |
+
+## SCHEDULE 4 — Dates after which death from diseases correspondingly numbered and set out in Schedule 1 must have occurred for provisions of this scheme to apply
+
+Article 2
+
+| Number of disease in Schedule 1 | Date after which death must have occurred |
+| --- | --- |
+| 1 | 31st December 1949 |
+| 2 | 31st December 1949 |
+| 3 | 27th July 1967 |
+| 4 | 27th July 1967 except in the case of a death where benefit is payable by reason only of paragraph (d) in the entry in respect of that disease in Schedule 1, and in that case 24th June 1993[^key-000b5640358e985f43b5cc7d24442a1e] |
+| 5 | 27th July 1967 |
+| 6 | 27th May 1969 |
+| 7 | 8th August 1979 |
+| 8[^key-4e5a2fa6e5c7bb8b5ed25b412b994ac2] | 1st April 1985 |
+| 9[^key-0555c717f10236460083a926fbdfddbc] | 1st April 1987 |
+| 10[^key-122d79385e980b5128becc4db0febd27] | 24th June 1993 |
+
+## SCHEDULE 5 — Schemes revoked
+
+Article 34
+
+| Citation | Statutory Instrument | Extent of revocation |
+| --- | --- | --- |
+| The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit Scheme 1966 | S.I. 1966/164 | The whole of the scheme |
+| The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1966 | S.I. 1966/581 | The whole of the scheme |
+| The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1967 | S.I. 1967/1205 | The whole of the scheme |
+| The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) (No. 2) Scheme 1967 | S.I. 1967/1233 | The whole of the scheme |
+| The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1969 | S.I. 1969/722 | The whole of the scheme |
+| The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) (No. 2) Scheme 1969 | S.I. 1969/1196 | The whole of the scheme |
+| The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1971 | S.I. 1971/1222 | The whole of the scheme |
+| The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1972 | S.I. 1972/1289 | The whole of the scheme |
+| The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1973 | S.I. 1973/1439 | The whole of the scheme |
+| The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1974 | S.I. 1974/944 | The whole of the scheme |
+| The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1975 | S.I. 1975/514 | The whole of the scheme |
+| The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) (No. 2) Scheme 1975 | S.I. 1975/1139 | The whole of the scheme |
+| The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1977 | S.I. 1977/380 | The whole of the scheme |
+| The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) (No. 2) Scheme 1977 | S.I. 1977/992 | The whole of the scheme |
+| The Workmen's Compensation Supplementation and Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Further Amendment) Scheme 1977 | S.I. 1977/1063 | The whole of the scheme |
+| The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1979 | S.I. 1979/996 | The whole of the scheme |
+
+EXPLANATORY NOTE
+
+This Scheme consolidates the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit Scheme 1966 with the amendments made thereto. It provides for payment of benefit out of the National Insurance Fund in respect of disablement or death from certain diseases arising out of employment before 5th July 1948 in cases where neither workmen's compensation nor benefit under the Social Security Act 1975 is payable.
+
+The Scheme provides for its administration by the Secretary of State and for adjudication of questions (except certain medical questions which are for determination by the medical board appointed under the Silicosis and Asbestosis (Medical Arrangements) Scheme 1931) by the statutory authorities established under the Social Security Act 1975.
+
+The Scheme contains detailed provisions relating to claims and payments and provides for the application to the Scheme of the provisions of the Social Security Act 1975 and the regulations made under that Act which are specified in Schedule 3.
+
+The Scheme also contains transitional provisions relating to the transfer to the Secretary of State and the aforesaid statutory authorities of the functions of administration and adjudication formerly exercised by the Administrative Board.
+
+## Annotations
+
+[^key-e4255b3f14ab21c1023a2c1506cc842d]: Textual amendment: Words in art. 1(2) inserted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/1999/1958/schedule/7/paragraph/1)
+
+[^key-717b0a93136c7b9026e7061d05640d54]: Textual amendment: Words in art. 1(2) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/31)
+
+[^key-7f42aebb6986094feeabfd48a6264795]: Textual amendment: Art. 1(2) entry inserted (1.4.1985) by [The Pneumoconiosis, Byssinosis, and Miscellaneous Diseases Benefit (Amendment) Scheme 1985 (S.I. 1985/491)](https://www.legislation.gov.uk/uksi/1985/491), [arts. 1](https://www.legislation.gov.uk/uksi/1985/491/article/1), [2](https://www.legislation.gov.uk/uksi/1985/491/article/2)
+
+[^key-3d2f9bd4f3f2b2230702c4eae5507b0d]: Textual amendment: Words in art. 1(2) inserted (24.6.1993) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1993 (S.I. 1993/1363)](https://www.legislation.gov.uk/uksi/1993/1363), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1993/1363/article/1/1), [2](https://www.legislation.gov.uk/uksi/1993/1363/article/2)
+
+[^key-115d8966296e49831245244669c3212c]: Textual amendment: Words in art. 2(1) substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/1990/2538/article/3/2/a)
+
+[^key-8549c39ddc38d94ad6c4fff6ef863054]: Textual amendment: Words in art. 2(2)(c) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/1999/1958/schedule/7/paragraph/2)
+
+[^f00002]: Footnote: , amended by S.R. & O. 1939/635, 1946/595.
+
+[^key-3e93f99691ab502fe68dbdc2cc73ffed]: Textual amendment: Words in art. 4(1) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/1999/1958/schedule/7/paragraph/3)
+
+[^key-21d7b0d148f53f950577df44464eb0e3]: Textual amendment: Words in art. 4(4) substituted (6.4.1983) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1983 (S.I. 1983/504)](https://www.legislation.gov.uk/uksi/1983/504), [arts. 1](https://www.legislation.gov.uk/uksi/1983/504/article/1), [2](https://www.legislation.gov.uk/uksi/1983/504/article/2)
+
+[^key-07c93fa4085f448662dd09b37f30038b]: Textual amendment: Art. 4A inserted (6.4.2006) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 2006 (S.I. 2006/638)](https://www.legislation.gov.uk/uksi/2006/638), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/638/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/638/article/2)
+
+[^key-1a7977dbb48dc67b2dde8ba6edbe380c]: Textual amendment: Word in art. 5 substituted (1.4.1987) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1987 (S.I. 1987/400)](https://www.legislation.gov.uk/uksi/1987/400), [arts. 1](https://www.legislation.gov.uk/uksi/1987/400/article/1), [4(a)](https://www.legislation.gov.uk/uksi/1987/400/article/4/a)
+
+[^key-2ea7ed9d5b33bed605f38f1b084f2ec7]: Textual amendment: Words in art. 5 heading added (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 12(2)(a)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-42032838bbfed811a267f2f2417839a2]: Textual amendment: Words in art. 5 substituted (1.4.1987) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1987 (S.I. 1987/400)](https://www.legislation.gov.uk/uksi/1987/400), [arts. 1](https://www.legislation.gov.uk/uksi/1987/400/article/1), [4(b)](https://www.legislation.gov.uk/uksi/1987/400/article/4/b)
+
+[^key-84139900689ecc78e84a21586f175387]: Textual amendment: Words in art. 5(1) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 12(2)(b)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-5e7c10f2d4cd1ff11775d9538a8b0811]: Textual amendment: Words in art. 5(2) substituted (6.4.1983) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1983 (S.I. 1983/504)](https://www.legislation.gov.uk/uksi/1983/504), [arts. 1](https://www.legislation.gov.uk/uksi/1983/504/article/1), [3](https://www.legislation.gov.uk/uksi/1983/504/article/3)
+
+[^key-f4351aa3bc56b5eb1a0bfb46b9e2c9b8]: Textual amendment: Words in art. 5(3) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 12(2)(c)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-37e18fbe936ebdb33d74d940686a854b]: Textual amendment: Words in art. 5 substituted (1.4.1987) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1987 (S.I. 1987/400)](https://www.legislation.gov.uk/uksi/1987/400), [arts. 1](https://www.legislation.gov.uk/uksi/1987/400/article/1), [4(c)](https://www.legislation.gov.uk/uksi/1987/400/article/4/c)
+
+[^key-3f7b54450c1d4d0b7073367034a7c078]: Textual amendment: Words in art. 5(4) inserted (6.4.1983) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1983 (S.I. 1983/504)](https://www.legislation.gov.uk/uksi/1983/504), [arts. 1](https://www.legislation.gov.uk/uksi/1983/504/article/1), [3](https://www.legislation.gov.uk/uksi/1983/504/article/3)
+
+[^key-8e74ac567231530c2d2f3c10e72b2fda]: Textual amendment: Words in art. 5(4) substituted (6.4.1983) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1983 (S.I. 1983/504)](https://www.legislation.gov.uk/uksi/1983/504), [arts. 1](https://www.legislation.gov.uk/uksi/1983/504/article/1), [3](https://www.legislation.gov.uk/uksi/1983/504/article/3)
+
+[^M_F_2576151c-483f-43b0-9896-ed3873272d48]: Textual amendment: Art. 6(1) substituted (6.4.1983) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1983 (S.I. 1983/504)](https://www.legislation.gov.uk/uksi/1983/504), [arts. 1](https://www.legislation.gov.uk/uksi/1983/504/article/1), [4](https://www.legislation.gov.uk/uksi/1983/504/article/4)
+
+[^key-8d30f15f294a6df70ab9e539c4fee17a]: Textual amendment: Art. 6(1)(a) revoked (1.4.1985) by [The Pneumoconiosis, Byssinosis, and Miscellaneous Diseases Benefit (Amendment) Scheme 1985 (S.I. 1985/491)](https://www.legislation.gov.uk/uksi/1985/491), [arts. 1](https://www.legislation.gov.uk/uksi/1985/491/article/1), [5](https://www.legislation.gov.uk/uksi/1985/491/article/5)
+
+[^key-63eec7c3341d60529b612764a78032d4]: Textual amendment: Words in art. 9(2) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 12(3)(a)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/3/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-ce34a5bb01aa083c23f1869a56c5d2fe]: Textual amendment: Word in art. 9(4)(a)(ii) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 12(3)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/3/b/i/aa), (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-f25a450c3395168a55bd6b49b92f7a6b]: Textual amendment: Art. 9(4)(a)(iii) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 12(3)(b)(i)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/3/b/i), [(bb)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/3/bb) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-7144a0f6b5675a5abe75f6290220c845]: Textual amendment: Words in art. 9(4)(a) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 12(3)(b)(i)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/3/b/i), [(cc)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/3/cc) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-f7826d3997788f4d4b32b58b3dfe1135]: Textual amendment: Words in art. 9(4)(b) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 12(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/3/b/ii/aa), (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-89c90d40ca6e6cf3e5e5468c544a5972]: Textual amendment: Art. 9(4)(b)(ia) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 12(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/3/b/ii), [(bb)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/3/bb) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-c24d99a35c7e5116ccd9d6329b626c35]: Textual amendment: Words in art. 9(4)(b) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 12(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/3/b/ii), [(cc)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/3/cc) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-bc83222f61cc5b409e733cd2cb27da41]: Textual amendment: Words in art. 9(4)(c) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 12(3)(c)(i)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/3/c/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-927dd755660096da282f4f39c231086a]: Textual amendment: Words in art. 9(4)(c) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 12(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/3/c/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-74c666b86d89dbd1a6883c7c0748619b]: Textual amendment: Words in art. 9(4)(d) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 12(3)(d)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/3/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^f00004]: Footnote: , amended by S.R. & O. 1944/504, 1947/826 and modified by S.I. 1950/476, 1951/671.
+
+[^key-e91fb6aa9b256f01c8d4a03809f68efa]: Textual amendment: Words in art. 11 substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/1990/2538/article/3/2/b)
+
+[^f00006]: Footnote: , to which there is an amendment not relevant to this scheme.
+
+[^key-886b2809c3c1c0f773aec2c05db4f513]: Textual amendment: Art. 12 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/1999/1958/schedule/7/paragraph/4)
+
+[^key-920f4e1684e8c9c4ee3e7bb4232cf458]: Textual amendment: Words in art. 12 omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/32)
+
+[^key-9ccf5a4e80f7d427927d964216ea32d4]: Textual amendment: Art. 13 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/1999/1958/schedule/7/paragraph/5)
+
+[^key-83171e36985ef5427ef095a763794743]: Textual amendment: Words in art. 14 heading substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 7 para. 6(a)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/7/paragraph/6/a)
+
+[^key-798b90c0da66c7e4fe2f199b7095bdac]: Textual amendment: Words in art. 14(1) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 7 para. 6(b)(i)-(iii)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/7/paragraph/6/b)
+
+[^key-cb7ee0359bf8842ba8f6b809aa949a33]: Textual amendment: Words in art. 14(2) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 7 para. 6(c)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/7/paragraph/6/c)
+
+[^key-4b3cf84b5a192fad6d85d292d77292ca]: Textual amendment: Words in art. 14(3) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 7 para. 6(d)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/7/paragraph/6/d)
+
+[^key-39afe31c10437ea6dbf6404ca4f5cf19]: Textual amendment: Words in art. 14(4) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 7 para. 6(e)(i)-(ii)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/7/paragraph/6/e)
+
+[^M_F_1cc1b654-4d11-4529-8a7b-1632e9a76bba]: Textual amendment: Words in Art. 14(5) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 7 para. 5(f)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/7/paragraph/5/f)
+
+[^key-187b9ac68ce0c0912e16780dd1c912f0]: Textual amendment: Art. 14(6) omitted (5.7.1999) by virtue of [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 7 para. 6(g)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/7/paragraph/6/g)
+
+[^key-7db9b1e77166fe5a9620b2028f105b5c]: Textual amendment: Art. 14(7) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 7 para. 6(h)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/7/paragraph/6/h)
+
+[^key-78315d6f8b316c3f748555358c17486e]: Textual amendment: Words in art. 16(1) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 7 para. 7(a)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/7/paragraph/7/a)
+
+[^key-cb7f0894fd41772b0e67c4ed5a94366b]: Textual amendment: Words in art. 16(2)(a) substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 7 para. 7(b)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/7/paragraph/7/b)
+
+[^key-ba4cf550b63e65a60f1ba86fca2e30b5]: Textual amendment: Art. 16(4) omitted (5.7.1999) by virtue of [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 7 para. 7(c)](https://www.legislation.gov.uk/uksi/1999/1958/schedule/7/paragraph/7/c)
+
+[^key-388b6414be0c9876cca331fc0fb0951d]: Textual amendment: Art. 17 substituted (7.4.1997) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1997 (S.I. 1997/824)](https://www.legislation.gov.uk/uksi/1997/824), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1997/824/article/1/1), [2](https://www.legislation.gov.uk/uksi/1997/824/article/2)
+
+[^key-260cc816322dbce0c0391f6ad97da94f]: Textual amendment: Words in art. 18 revoked (26.3.2001) by [The Postal Services Act 2000 (Consequential Modifications No. 1) Order 2001 (S.I. 2001/1149)](https://www.legislation.gov.uk/uksi/2001/1149), [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1149/schedule/2) (with [art. 4(11)](https://www.legislation.gov.uk/uksi/2001/1149/article/4/11))
+
+[^key-007916fbad79d54b8b865379afbff8d8]: Textual amendment: Words in art. 23(1) substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/1990/2538/article/3/2/d)
+
+[^key-12f51c61d53dffb6efef0c9093f286be]: Textual amendment: Words in art. 24 substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/1990/2538/article/3/2/d)
+
+[^f00007]: Footnote: *See* S.I. 1977/992, article 5.
+
+[^key-2fc075f19057f528a78934a48291d841]: Textual amendment: Art. 26 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 7 para. 8](https://www.legislation.gov.uk/uksi/1999/1958/schedule/7/paragraph/8)
+
+[^key-898d29e72f5194022d78a92ece41024e]: Textual amendment: Words in art. 31 substituted (9.1.1991) by [The Workmens Compensation (Supplementation) (Amendment) and the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1990 (S.I. 1990/2538)](https://www.legislation.gov.uk/uksi/1990/2538), [arts. 1](https://www.legislation.gov.uk/uksi/1990/2538/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/1990/2538/article/3/2/a)
+
+[^key-c19b7dc1dc139a4e2ce894f7f6599f1f]: Textual amendment: Words in Sch. 1 added (24.6.1993) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1993 (S.I. 1993/1363)](https://www.legislation.gov.uk/uksi/1993/1363), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1993/1363/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/1993/1363/article/3/2)
+
+[^key-318eee5980dc757cc8fb9cc37f54402d]: Textual amendment: Words in Sch. 1 substituted (9.4.1997) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1997 (S.I. 1997/824)](https://www.legislation.gov.uk/uksi/1997/824), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1997/824/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/1997/824/article/3/2)
+
+[^key-3d7ef13326de0be84d7877fad96703bb]: Textual amendment: Sch. 1 paras. 8-8B substituted for Sch. 1 para. 8 (6.4.2006) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 2006 (S.I. 2006/638)](https://www.legislation.gov.uk/uksi/2006/638), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/638/article/1/1), [3](https://www.legislation.gov.uk/uksi/2006/638/article/3)
+
+[^key-13f9276d162cc3446302c60ff0e4d47c]: Textual amendment: Words in Sch. 1 substituted (24.6.1993) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1993 (S.I. 1993/1363)](https://www.legislation.gov.uk/uksi/1993/1363), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1993/1363/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/1993/1363/article/3/3)
+
+[^key-7773a6939ee85f9e7b38c30eef421779]: Textual amendment: Words in Sch. 1 inserted (1.4.1987) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1987 (S.I. 1987/400)](https://www.legislation.gov.uk/uksi/1987/400), [arts. 1](https://www.legislation.gov.uk/uksi/1987/400/article/1), [2(b)](https://www.legislation.gov.uk/uksi/1987/400/article/2/b)
+
+[^key-c5f8db000f390df0c935f3246ff04648]: Textual amendment: Sch. 1 entry added (24.6.1993) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1993 (S.I. 1993/1363)](https://www.legislation.gov.uk/uksi/1993/1363), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1993/1363/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/1993/1363/article/3/4)
+
+[^key-6eef305144d356dc03f75f4d81dc8b68]: Textual amendment: Word in Sch. 2 substituted (1.4.1987) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1987 (S.I. 1987/400)](https://www.legislation.gov.uk/uksi/1987/400), [arts. 1](https://www.legislation.gov.uk/uksi/1987/400/article/1), [4(a)](https://www.legislation.gov.uk/uksi/1987/400/article/4/a)
+
+[^key-8fd8218b4b608a5e9beba59fa1ea331b]: Textual amendment: Words in Sch. 2 heading added (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 12(4)(a)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/4/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-535a46425403954a4aa06cb97f202f12]: Textual amendment: Words in Sch. 2 para. 1 inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 12(4)(b)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-348b604e20ae0e81e467893823837f2a]: Textual amendment: Words in Sch. 2 substituted (1.4.1987) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1987 (S.I. 1987/400)](https://www.legislation.gov.uk/uksi/1987/400), [arts. 1](https://www.legislation.gov.uk/uksi/1987/400/article/1), [4(b)](https://www.legislation.gov.uk/uksi/1987/400/article/4/b)
+
+[^key-37c3a2d11e2a9faf781e8feb86be68aa]: Textual amendment: Words in Sch. 2 para. 2 inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 12(4)(c)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/12/4/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-92722c6a2bb48c539297337107e5e498]: Textual amendment: Sch. 3 substituted (5.7.1999) by [The Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1958)](https://www.legislation.gov.uk/uksi/1999/1958), [art. 1](https://www.legislation.gov.uk/uksi/1999/1958/article/1), [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/1999/1958/schedule/7/paragraph/9)
+
+[^key-316faf289d8a00171e2e5de6aee3bcbd]: Textual amendment: Words in Sch. 3 omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 33(a)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/33/a)
+
+[^key-70f6ee2e76552f764d29966344d24737]: Textual amendment: Words in Sch. 3 omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 33(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/33/b)
+
+[^key-000b5640358e985f43b5cc7d24442a1e]: Textual amendment: Words in Sch. 4 inserted (24.6.1993) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1993 (S.I. 1993/1363)](https://www.legislation.gov.uk/uksi/1993/1363), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1993/1363/article/1/1), [4(a)](https://www.legislation.gov.uk/uksi/1993/1363/article/4/a)
+
+[^key-4e5a2fa6e5c7bb8b5ed25b412b994ac2]: Textual amendment: Words in Sch. 4 added (1.4.1985) by [The Pneumoconiosis, Byssinosis, and Miscellaneous Diseases Benefit (Amendment) Scheme 1985 (S.I. 1985/491)](https://www.legislation.gov.uk/uksi/1985/491), [arts. 1](https://www.legislation.gov.uk/uksi/1985/491/article/1), [4](https://www.legislation.gov.uk/uksi/1985/491/article/4)
+
+[^key-0555c717f10236460083a926fbdfddbc]: Textual amendment: Words in Sch. 4 inserted (1.4.1987) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1987 (S.I. 1987/400)](https://www.legislation.gov.uk/uksi/1987/400), [arts. 1](https://www.legislation.gov.uk/uksi/1987/400/article/1), [3](https://www.legislation.gov.uk/uksi/1987/400/article/3)
+
+[^key-122d79385e980b5128becc4db0febd27]: Textual amendment: Sch. 4 entry added (24.6.1993) by [The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit (Amendment) Scheme 1993 (S.I. 1993/1363)](https://www.legislation.gov.uk/uksi/1993/1363), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1993/1363/article/1/1), [4(b)](https://www.legislation.gov.uk/uksi/1993/1363/article/4/b)

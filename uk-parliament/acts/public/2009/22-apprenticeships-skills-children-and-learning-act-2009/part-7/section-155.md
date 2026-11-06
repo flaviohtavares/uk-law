@@ -1,0 +1,31 @@
+---
+title: Apprenticeships, Skills, Children and Learning Act 2009, section 155
+act: Apprenticeships, Skills, Children and Learning Act 2009
+section: '155'
+status: not-yet-in-force
+text_date: '2026-04-29'
+extent: E+W+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/22/section/155
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Apprenticeships, Skills, Children and Learning Act 2009, section 155
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 155. Review of system for allocating values to qualifications
+
+*Extent: E+W+N.I.*
+
+**Not yet in force.**
+
+(1) Ofqual must keep under review any system used by the Secretary of State for allocating values to qualifications to which this Part applies by reference to the level of attainment indicated by the qualifications.
+
+(2) The duty in subsection (1) applies only if the values are to be allocated for the purpose of a qualifications-based performance management system.
+
+(3) A qualifications-based performance management system is a system for measuring the relative performance of schools by reference to the performance of pupils at the schools in qualifications to which this Part applies.
+
+(4) Ofqual may at any time require the Secretary of State to provide it with any information which Ofqual considers it necessary or expedient to have for the purposes of, or in connection with, the performance by Ofqual of its duty under subsection (1).

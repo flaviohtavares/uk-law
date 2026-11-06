@@ -1,0 +1,47 @@
+---
+title: Environmental Protection Act 1990, section 88B
+act: Environmental Protection Act 1990
+section: 88B
+status: revised-with-pending-changes
+text_date: '2026-10-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1990/43/section/88B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Environmental Protection Act 1990, section 88B
+
+> **Warning: changes not yet applied to this text (25).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 88B (Extent: E). Guidance on littering enforcement in England and Wales (Extent: E)[^key-ee22d9a6b486c9e3d905d4be269350f5]
+
+*Extent: E+W*
+
+(1 (Extent: E)) The appropriate person may issue guidance to litter authorities on the exercise of littering enforcement functions by those authorities and authorised officers of those authorities. *(Extent: E)*
+
+(2 (Extent: E)) A litter authority must have regard to that guidance when exercising any of its littering enforcement functions. *(Extent: E)*
+
+(3 (Extent: E)) The appropriate person may revise any guidance issued under this section at any time. *(Extent: E)*
+
+(4 (Extent: E)) Before issuing guidance, or revised guidance, under this section the appropriate person must consult such persons as the appropriate person thinks appropriate. *(Extent: E)*
+
+(5 (Extent: E)) The Secretary of State must lay before Parliament and publish guidance, and any revised guidance, issued by the Secretary of State under this section. *(Extent: E)*
+
+(6 (Extent: E)) The Welsh Ministers must lay before Senedd Cymru and publish guidance, and any revised guidance, issued by the Welsh Ministers under this section. *(Extent: E)*
+
+(7 (Extent: E)) In this section— *(Extent: E)*
+
+- “ *(Extent: E)***authorised officer *(Extent: E)***”, in relation to a litter authority, means a person who is an authorised officer in relation to that authority for the purposes of— *(Extent: E)*
+  - (a) section 88 (fixed penalty notices for littering, see subsection (10) of that section), *(Extent: E)*
+  - (b) section 88A (fixed penalty notices for littering from vehicles in England, see subsection (4) of that section), or *(Extent: E)*
+  - (c) Schedule 3A (distribution of free printed matter, see paragraph 8 of that Schedule); *(Extent: E)*
+- “ *(Extent: E)***littering enforcement function *(Extent: E)***” means— *(Extent: E)*
+  - (a) any function of a litter authority, or of an authorised officer of that authority, conferred by or under sections 87 to 88A or Schedule 3A, or *(Extent: E)*
+  - (b) any function exercised for purposes connected with any of those sections or that Schedule. *(Extent: E)*
+
+## Annotations
+
+[^key-ee22d9a6b486c9e3d905d4be269350f5]: Textual amendment: [S. 88B](https://www.legislation.gov.uk/ukpga/1990/43/section/88B) inserted (1.4.2023 for E.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 68(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/68/3), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2023/381](https://www.legislation.gov.uk/uksi/2023/381), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/381/regulation/2/a)

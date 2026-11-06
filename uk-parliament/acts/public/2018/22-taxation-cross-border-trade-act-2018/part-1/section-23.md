@@ -1,0 +1,67 @@
+---
+title: Taxation (Cross-border Trade) Act 2018, section 23
+act: Taxation (Cross-border Trade) Act 2018
+section: '23'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2018/22/section/23
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation (Cross-border Trade) Act 2018, section 23
+
+> **Warning: changes not yet applied to this text (26).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 23. Approvals and authorisations granted under regulations[^c23439241][^key-681a12dc75e849cd06bd660ffd01addf][^key-a89ce3a3c193dfa507a80b88e48c6b47]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies in relation to approvals granted to any person under regulations made under this Part (whether in respect of premises or anything else) unless the regulations in question make alternative provision.
+
+(2) In this section references to an approval include an authorisation.
+
+(3) The regulations under which an approval is granted may—
+
+- (a) require an application for approval to be made in a specified form and in a specified manner and to contain specified information,
+- (b) specify cases in which an application for approval may not be made,
+- (c) require HMRC to consider, within a specified period, whether or not an application, or purported application, for approval is, as a result of provision made by paragraph (a) or (b), one that falls to be determined,
+- (d) confer on the applicant a right of appeal to an appeal tribunal in a case where HMRC have failed to comply with paragraph (c),
+- (e) require HMRC to notify a person making a purported application for approval that, as a result of provision made by paragraph (a) or (b), the purported application does not fall to be determined, and
+- (f) make further provision about the notification.
+
+(4) The provision that may be made under subsection (3)(d) includes—
+
+- (a) provision for an appeal to be brought only if a period specified in the regulations has ended, and
+- (b) provision limiting the power of an appeal tribunal to the power to direct HMRC, in a case where it is satisfied that HMRC have acted unreasonably, to consider the application as mentioned in subsection (3)(c) within such further period as is specified by the tribunal.
+
+(5) An approval granted by HMRC is treated as if it had never been granted if—
+
+- (a) the (purported) application for approval was deficient in some respect,
+- (b) the applicant knew, or ought reasonably to have known, of the deficiency,
+- (c) HMRC consider that the approval would not have been granted if the deficiency was known at the time it was granted by the person granting it, and
+- (d) HMRC give a notice to the applicant under this subsection notifying the applicant of the effect of this subsection.
+
+(6) Regulations made by HMRC Commissioners may make any provision that they consider appropriate for the purposes of subsection (5), including provision specifying cases in which the approval is to continue to be treated as still in force.
+
+(7) An approval may be amended, suspended or revoked in cases specified in the regulations under which it was granted.
+
+(8) The amendment, suspension or revocation of an approval takes effect from the date specified in a notice given by HMRC to the person approved (and, accordingly, does not affect anything already done by any person before that date in reliance on the approval).
+
+(9) HMRC—
+
+- (a) may not specify a date before the notice is given unless HMRC and the person both agree that such a date may be given, and
+- (b) may not specify a date that falls more than one year after the date on which the notice is given.
+
+(10) In this section “**an appeal tribunal**” has the same meaning as in Chapter 2 of Part 1 of the Finance Act 1994 (see section 7).
+
+## Annotations
+
+[^c23439241]: Commencement: S. 23 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
+
+[^key-681a12dc75e849cd06bd660ffd01addf]: Commencement: S. 23 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+
+[^key-a89ce3a3c193dfa507a80b88e48c6b47]: Modification: S. 23 applied (31.12.2020) by [The Customs Transit Procedures (EU Exit) Regulations 2018 (S.I. 2018/1258)](https://www.legislation.gov.uk/uksi/2018/1258), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1258/article/1/2), [Sch. 2 para. 26(8)](https://www.legislation.gov.uk/uksi/2018/1258/schedule/2/paragraph/26/8); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

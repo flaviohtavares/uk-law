@@ -1,0 +1,62 @@
+---
+title: Greater London Authority Act 1999, section 345
+act: Greater London Authority Act 1999
+section: '345'
+status: revised-with-pending-changes
+text_date: '2026-08-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1999/29/section/345
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Greater London Authority Act 1999, section 345
+
+> **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 345. Town and Country Planning Act 1990: costs of appeals.
+
+*Extent: E+W*
+
+After section 322A of the [^c12807511]Town and Country Planning Act 1990 there shall be inserted—
+
+> **322B. Local inquiries in London: special provision as to costs in certain cases.**
+>
+> (1) This section applies where—
+>
+> - (a) the local planning authority for a London borough refuse an application for planning permission,
+> - (b) that refusal is in compliance with a direction made by the Mayor of London in accordance with provision made in a development order by virtue of section 74(1B)(a), and
+> - (c) an appeal against the refusal is made to the Secretary of State under section 78.
+>
+> (2) If the Secretary of State causes a local inquiry to be held under section 320(1) to determine the appeal, in its application to the inquiry section 250 of the 1972 Act shall be treated as if—
+>
+> - (a) for subsection (4) there were substituted the subsection set out at subsection (5) below, and
+> - (b) for subsection (5) there were substituted the subsection set out at subsection (6) below.
+>
+> (3) If the appeal does not give rise to a local inquiry under section 320, in the application of section 322(2) in relation to the appeal the reference to section 250(5) of the 1972 Act shall be treated as if it were a reference to that provision as modified by subsection (2)(b) above.
+>
+> (4) If arrangements are made for a local inquiry in relation to the appeal and the inquiry does not take place, in the application of section 322A in relation to the appeal the reference to section 250(5) of the 1972 Act shall be treated as if it were a reference to that provision as modified by subsection (2)(b) above.
+>
+> (5) The subsection referred to in subsection (2)(a) above is as follows—
+>
+> “( ) Where this subsection applies to an inquiry, the costs incurred by the Secretary of State in relation to the inquiry shall be paid—
+>
+> - (a) by the Mayor of London, if he is not a party to the inquiry and if the Secretary of State decides that the Mayor acted unreasonably in making the direction in accordance with which the local planning authority refused the planning permission, or
+> - (b) if the Mayor is a party or if the Secretary of State does not so decide, by such local authority or party to the inquiry as he may direct;
+>
+> and the Secretary of State may cause the amount of the costs so incurred to be certified, and any amount so certified and directed to be paid by the Mayor or by any authority or person shall be recoverable from the Mayor or from that authority or person by the Secretary of State summarily as a civil debt. ”
+>
+> (6) The subsection referred to in subsection (2)(b) above is as follows—
+>
+> “( ) Where this subsection applies to an inquiry, or to costs incurred for the purposes of an inquiry, the Secretary of State may make orders as to the costs of the parties to the inquiry and as to the parties by whom the costs are to be paid; and—
+>
+> - (a) the parties by whom the costs are ordered to be paid may include the Mayor of London if he is not a party to the inquiry and if the Secretary of State decides that the Mayor acted unreasonably in making the direction in accordance with which the local planning authority refused the planning permission;
+> - (b) every such order may be made a rule of the High Court on the application of any party named in the order. ”
+>
+> (7) In this section “**the 1972 Act**” means the Local Government Act 1972.
+
+## Annotations
+
+[^c12807511]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).

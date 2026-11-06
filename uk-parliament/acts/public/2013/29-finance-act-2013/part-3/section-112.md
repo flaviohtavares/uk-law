@@ -1,0 +1,38 @@
+---
+title: Finance Act 2013, section 112
+act: Finance Act 2013
+section: '112'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2013/29/section/112
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2013, section 112
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 112. Meaning of “dwelling”
+
+*Extent: E+W+S+N.I.*
+
+(1) A building or part of a building counts as a dwelling at any time when—
+
+- (a) it is used or suitable for use as a single dwelling, or
+- (b) it is in the process of being constructed or adapted for such use.
+
+(2) Land that is, or is at any time intended to be, occupied or enjoyed with a dwelling as a garden or grounds (including any building or structure on such land) is taken to be part of that dwelling at that time.
+
+(3) Land that subsists, or is at any time intended to subsist, for the benefit of a dwelling is taken to be part of the dwelling at that time.
+
+(4) A building, or part of a building, used for a purpose specified in section 116(2) or (3) of FA 2003 is not used as a dwelling for the purposes of subsection (1).
+
+(5) Where a building, or part of a building, is used for a purpose mentioned in subsection (4), no account is to be taken for the purposes of subsection (1) of its suitability for any other use.
+
+(6) If a building or part of a building becomes temporarily unsuitable for use as a dwelling for any reason (including accidental damage, repairs or any other physical change to the building or its environment), that temporary unsuitability is ignored in determining whether or not the building or part of a building is, during the period in question, a dwelling for the purposes of this Part.
+
+This subsection does not affect any of the provisions in sections 126 to 131.

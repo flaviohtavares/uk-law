@@ -1,0 +1,32 @@
+---
+title: Charities Act 2011, section 194
+act: Charities Act 2011
+section: '194'
+status: revised
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2011/25/section/194
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Charities Act 2011, section 194
+
+> Text as at 2026-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 194. Requirement to disclose charitable status
+
+*Extent: E+W*
+
+(1) Where a charitable company's name does not include the word “charity” or “charitable”, the fact that the company is a charity must be stated in legible characters—
+
+- (a) in every location, and in every description of document or communication, in which it is required by regulations under section 82 of the Companies Act 2006 to state its registered name, and
+- (b) in all conveyances purporting to be executed by the company.
+
+(2) Where a company's name includes the word “elusen” or “elusennol” (the Welsh equivalents of “charity” and “charitable”), subsection (1) does not apply in relation to any document that is wholly in Welsh.
+
+(3) The statement required by subsection (1) must be in English, except that, in the case of a document that is otherwise wholly in Welsh, the statement may be in Welsh if it consists of or includes the word “elusen” or “elusennol”.
+
+(4) In subsection (1)(b) “**conveyance**” means any instrument creating, transferring, varying or extinguishing an interest in land.

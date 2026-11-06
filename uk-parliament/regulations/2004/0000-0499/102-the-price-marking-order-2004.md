@@ -1,0 +1,309 @@
+---
+title: The Price Marking Order 2004
+id: uksi/2004/102
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-01-19'
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2004/102
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/102/pdfs/uksi_20040102_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/102/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Price Marking Order 2004
+
+> Text as at 2026-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2004 No. 102
+
+PRICES
+
+The Price Marking Order 2004
+
+Made
+
+19th January 2004
+
+Laid before Parliament
+
+21st January 2004
+
+Coming into force
+
+22nd July 2004
+
+Whereas the Secretary of State, in accordance with section 2(6) of the Prices Act 1974 [^c5330801] as applied by section 4(3) of that Act has consulted in such a manner as appeared to her to be appropriate having regard to the subject-matter and urgency of this Order, with such organisations representative of interests substantially affected by this Order as appeared to her, having regard to those matters, to be appropriate;
+
+Now, therefore, the Secretary of State, in exercise of the powers under section 4 of the said Act, hereby makes the following Order—
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Price Marking Order 2004 and shall come into force on 22nd July 2004.
+
+(2) In this Order—
+
+- “**advertisement**” means any form of advertisement which is made in order to promote the sale of a product but does not include any advertisement by means of which the trader intends to encourage a consumer to enter into a distance contract, a catalogue, a price list, a container or a label;
+- “**consumer**” means any individual who buys a product for purposes that do not fall within the sphere of his commercial or professional activity;
+- “**cosmetic products**” means any substance or preparation intended to be placed in contact with an external part of the human body, or with the teeth, inside of the mouth or throat with a view exclusively or mainly to one or more of the following purposes: cleaning, perfuming, changing the appearance of, protecting, and keeping in good condition it or them or correcting body odour;
+- “[^key-d2e130abf5448de3503bfaeb55488cbf]**deposit**” has the meaning which—
+  - (a) in the case of England and Wales, is set out in paragraph 1(2)(a) of Schedule 8 (deposit schemes) to the Environment Act 2021; and
+  - (b) in the case of Scotland, is set out in section 84(2)(a) (deposit and return schemes) of the Climate Change (Scotland) Act 2009;
+- “**distance contract**” means any contract concerning products concluded between a trader and a consumer, by any means, without the simultaneous physical presence of the trader and the consumer;
+- “**itinerant trader**” means any trader who, as a pedestrian, or from a train, aircraft, vessel, vehicle, stall, barrow, or other mobile sales unit, offers products to consumers other than by means of pre-printed material;
+- “**liquid medium**” has the meaning given for the purposes of the second subparagraph of point 5 of Annex IX to Regulation[^key-31c9af3e494de0eef7e48722a0b77425] [(EU) No 1169/2011](https://www.legislation.gov.uk/eur/2011/1169) of the European Parliament and of the Council on the provision of food information to consumers;
+- “**make-up products**” means cosmetic products solely intended temporarily to change the appearance of the face or nails, including (but not limited to) lipsticks, mascaras, eye shadows, blushers and concealers;
+- “**net drained weight**” means the weight of a solid food product when it is presented in a liquid medium;
+- “**precious metal**” means gold, silver or platinum, or any other metal to which by an order under section 17 of the Hallmarking Act 1973 [^c5330821] the provisions of that Act are applied;
+- “**products sold from bulk**” means products which are not pre-packaged and are weighed or measured at the request of the consumer;
+- “**relevant floor area**” in relation to a shop means the internal floor area of the shop excluding any area not used for the retail sale of products or for the display of such products for retail sale;
+- “[^key-5472f967383d8102d8790e80ea2f3796]**selling price**” means the final price to be paid for a unit of a product, or a given quantity of a product, including VAT and all other taxes (but excluding the amount of any deposit);
+- “**shop**” includes a store, kiosk and a franchise or concession within a shop;
+- “**small shop**” means any shop which has a “relevant floor area” not exceeding 280 square metres;
+- “**standard of fineness**” means any one of the standards of fineness specified in column (2) of paragraph 2 of Schedule 2 to the Hallmarking Act 1973;
+- “**trader**” means any person who sells or offers or exposes for sale products which fall within his commercial or professional activity;
+- “[^key-736a4e48c90ca80a0924e0889c3f81cc]**unit price**” means the final price, including VAT and all other taxes (but excluding the amount of any deposit) which would be required to be paid—
+  - (a) for an individual item of the product, where the product is sold by number;
+  - (b) for one kilogram of the product, where the product is permitted to be sold either by weight or by volume, and the product is marked to show only its weight;
+  - (c) for one litre of the product, where the product is permitted to be sold either by weight or by volume, and the product is marked to show only its volume; and
+  - (d) in all other cases, for one kilogram, one litre, one metre, one square metre or one cubic metre of the product as appropriate.
+
+## 2. Revocation
+
+The Price Marking Order 1999 [^c5330831] is hereby revoked.
+
+## 3. Scope of application of the Order
+
+(1) This Order shall not apply:
+
+- (a) to products which are supplied in the course of the provision of a service; or
+- (b) to sales by auction or sales of works of art or antiques.
+
+(2) The Electronic Commerce (EC Directive) Regulations 2002 [^c5330841] shall apply to this Order notwithstanding Regulation 3(2) of those Regulations.
+
+## 4. Obligation to indicate selling price
+
+(1) Subject to paragraph (2) and articles 9 and 10, where a trader indicates that any product is or may be for sale to a consumer, he shall indicate the selling price of that product in accordance with the provisions of this Order.
+
+(2) The requirement in paragraph (1) above shall not apply in respect of:
+
+- (a) products sold from bulk; or
+- (b) an advertisement for a product.
+
+## 5. Obligation to indicate unit price
+
+(1) Subject to paragraph (2), (3) and (4) and article 9, where a trader indicates that any product is or may be for sale to a consumer, he shall indicate the unit price of that product in accordance with the provisions of this Order.
+
+(2) The requirement in paragraph (1) only applies in respect of products sold from bulk or required by or under Part IV of the Weights and Measures Act 1985(3), regulation 5, 6 or 7 of the Weights and Measures (Packaged Goods) Regulations 2006(4), or article 9 of Regulation (EU) No. 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers[^key-40e17264860d7261c6e4c24ce293201d] to be:
+
+- (a) marked with an indication of quantity; or
+- (b) made up in a quantity prescribed by or under that Act or those Regulations[^key-ba9df56b6d241e351397c9ea5e6980a0].
+
+(3) The requirement in paragraph (1) shall not apply in relation to:
+
+- (a) any product which falls within Schedule 2;
+- (b) any product the unit price of which is identical to its selling price;
+- (c) bread made up in a prescribed quantity which is or may be for sale in a small shop, by an itinerant trader or from a vending machine; or
+- (d) any product which is pre-packaged in a constant quantity which is or may be for sale in a small shop, by an itinerant trader or from a vending machine.
+
+(4) The requirement in paragraph (1) applies in relation to an advertisement for a product only where the selling price of the product is indicated in the advertisement.
+
+## 6. Manner of indication of selling price and unit price
+
+(1) The indication of selling price and unit price shall be in sterling.
+
+(2) If a trader indicates his willingness to accept foreign currency in payment for a product, he shall, in addition to the required price indications in sterling:
+
+- (a) give an indication of the selling price and any unit price required for the product in the foreign currency in question together with any commission to be charged; or
+- (b) clearly identify the conversion rate on the basis of which the foreign currency price will be calculated together with any commission to be charged; and
+
+indicate that such selling price, unit price or conversion rate as the case may be does not apply to transactions via a payment card to be applied to accounts denominated in currencies other than sterling, the conversion rate for which will be that applied by the relevant payment scheme which processes the transaction.
+
+## 7.
+
+(1) An indication of selling price, unit price, commission, conversion rate or a change in the rate or coverage of value added tax given in accordance with article 11 shall be—
+
+- (a) unambiguous, easily identifiable , clearly legible, and displayed using a font which is clear and of reasonable size[^key-3f41c7293de8d1e7f28c559471138107];
+- (b) subject to paragraph 2, given in proximity to:
+  - (i) the product; or
+  - (ii) in the case of distance contracts and advertisements, a visual or written description of the product; and
+- (c) so placed as to be available to consumers without the need for them to seek assistance from the trader or someone on his behalf in order to ascertain it.
+
+(2) Paragraph (1)(b)(i) does not apply to an indication given in relation to any item of jewellery, item of precious metal, or watch displayed in a window of the premises where it is or may be for sale and the selling price of which is in excess of £3,000.
+
+(3)[^key-3849b22f9fe359b1909fd5d68633cd70] The indication of any freight, delivery or postal charges for a product, including any taxes payable in respect of freight, delivery or postal charges, must be unambiguous, easily identifiable, and clearly legible.
+
+(4) Where, in addition to a unit price, a price per quantity is indicated in relation to a supplementary indication of quantity the unit price shall predominate and the price per supplementary indication of quantity shall be expressed in characters no larger than the unit price.
+
+(5) In paragraph (4) “**supplementary indication of quantity**” refers to an indication of quantity expressed in a unit of measurement other than a metric unit as authorised by section 8(5A) of the Weights and Measures Act 1985 [^c5330861].
+
+## 7A. The offer of a product at more than one selling price[^key-28105625456a6e8a2c233b1d142502b5]
+
+Where a trader proposes to sell products, to which this Order applies, at more than one selling price, the indication of the selling price and of the unit price, in accordance with articles 4(1) and 5(1), must set out—
+
+- (a) each selling price and each unit price applicable to the product;
+- (b) whether the availability of a particular selling price is subject to the satisfaction of certain conditions, and, if so, the trader must prominently display those conditions—
+  - (i) in a form which is unambiguous, clearly legible, easily identifiable and available to consumers without the need for them to seek assistance; and
+  - (ii) in close proximity to the product.
+
+## 8.
+
+In the case of a pre-packaged solid food product presented in a liquid medium, the unit price shall refer to the net drained weight of the product. Where a unit price is also given with reference to the net weight of the product, it shall be clearly indicated which unit price relates to net drained weight and which to net weight.
+
+## 9. Special provisions relating to general reductions[^key-096b1905af5b93bd92b8fb211dd3f6d5]
+
+Where—
+
+- (a) a trader proposes to sell products to which this Order applies at less than the selling price or the unit price previously applicable and indicated in accordance with article 7(1); and
+- (b) it is not reasonably practicable to indicate the reduced selling price or unit price in accordance with articles 4(1) and 5(1) for each of the products,
+
+the trader may comply with the obligations specified in articles 4(1) (to indicate the selling price) and 5(1) (to indicate the unit price) by indicating by a general notice or any other visible means that the products are or may be for sale at a reduction, provided that the details of the reduction are prominently displayed, unambiguous, easily identifiable and clearly legible.
+
+## 10. Special provisions relating to precious metals
+
+In the case of products the selling price of which varies from day to day according to the price of the precious metals contained in them the obligation to indicate the selling price referred to in article 4(1) may be complied with by indicating in a manner which is unambiguous, easily identifiable and clearly legible:
+
+- (a) the weight, type and standard of fineness of each precious metal contained in the product; and
+- (b) any element of the selling price which is not referable to weight,
+
+accompanied by a clearly legible and prominent notice stating the price per unit of weight for the type and standard of fineness of each precious metal contained in the product.
+
+## 11. Change in Value Added Tax etc.
+
+Where there is a change in the rate or coverage of VAT or any other tax, a trader who adjusts his prices in consequence may comply with the provisions of this Order—
+
+- (a) by means of a general notice or notices for a period of 28[^key-a5057e6289256fd14ffd01e42957696c] days from the date any such change takes effect, indicating that any products subject to that change are not for sale at the price indicated and that such price will be adjusted to take account of the change; and
+- (b) if he continues to distribute any catalogue or sales literature printed or ordered to be printed before a change is announced and there is firmly attached to it a label which prominently states that some or all of the prices printed in it are to be adjusted to reflect the change, and:
+  - (i) the label includes sufficient information to enable consumers to establish the adjusted price of any product listed, or
+  - (ii) the label refers to and is accompanied by a supplement which enables them to do so.
+
+## 12. Decimal places and rounding of unit prices
+
+Where the unit price of a product falls below £1 it shall be expressed to the nearest 0.1p. Where the figure denoting one hundredths of one penny in the unit price is 5 or higher, it shall be rounded up and where it is 4 or lower it shall be rounded down.
+
+## 13.
+
+Where the unit price of a product falls above £1 it may be expressed to the nearest:
+
+- (a) 1p, in which case where the figure denoting tenths of one penny in the unit price is 5 or higher, it shall be rounded up and where it is 4 or lower it shall be rounded down; or
+- (b) 0.1p, in which case where the figure denoting one hundredths of one penny in the unit price is 5 or higher it shall be rounded up and where it is 4 or lower it shall be rounded down.
+
+## 14. Units of Quantity[^key-4f6c61e052de5d51d53620e3b7f8a6a2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 15. Enforcement[^key-e88f59ebebef33c78c27d7cd3aeea7e5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Gerry Sutcliffe,
+
+Parliamentary under Secretary of State for Employment Relations, Competition and Consumers,
+
+Department of Trade and Industry
+
+## SCHEDULE 1 — RELEVANT UNITS OF QUANTITY FOR SPECIFIED PRODUCTS FOR THE PURPOSE OF THE DEFINITION OF “UNIT PRICE”[^key-093ca8bd2ee191c50401c05e6752f870]
+
+**No longer in force.**
+
+Articles 1(2) and 14
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — PRODUCTS IN RESPECT OF WHICH A TRADER IS EXEMPT FROM THE REQUIREMENT TO UNIT PRICE
+
+Article 5(3)
+
+**1.** Any product which is offered by traders to consumers by means of an advertisement which is:
+
+- (a) purely aural;
+- (b) broadcast on television;
+- (c) shown at a cinema; or
+- (d) inside a small shop.
+
+**2.** Any product the price of which has been reduced from the usual price at which it is sold, on account of:
+
+- (a) its damaged condition; or
+- (b) the danger of its deterioration.
+
+**3.**[^key-8b6f22f9a71689caf9da51358a4ed05d] Any product which comprises an assortment of items—
+
+- (a) which are either sold in a single package or at a lower price if a prescribed number or combination of items are purchased together and at the same time; and
+- (b) where some of the items are sold—
+  - (i) according to weight and some according to volume;
+  - (ii) at different prices; or
+  - (iii) at different weights or volumes,
+
+  when sold separately.
+
+**4.** Any product the unit price of which is 0.0p as a result of article 12 (Decimal places and rounding of unit prices) of this Order.
+
+*(This note is not part of the Order)*
+
+This Order implements Directive [98/6/EC](https://www.legislation.gov.uk/european/directive/1998/0006) of the European Parliament and of the Council (OJ No. L180, 18.3.98 p. 27) on consumer protection in the indication of prices of products offered to consumers. It revokes the Price Marking Order 1999 (S.I. 1999 No. 3042) which previously implemented the Directive.
+
+Article 4 requires traders to indicate the selling prices of all products offered for sale to consumers except those offered in the course of the provision of a service, those sold by auction, works of art or antiques (article 3(1)) and products sold from bulk. Article 1 defines the selling price as the final price including VAT and other taxes.
+
+Article 3(2) applies to this Order the requirements of the Electronic Commerce (EC Directive) Regulations 2002 (S.I. 2002 No. 2013).
+
+Article 5 requires, with exceptions, that the unit price must be indicated for all products sold from bulk and pre-packaged products that are required by or under Parts IV or V of the Weights and Measures Act 1985 to be marked with quantity or to be made up in a prescribed quantity. Article 14 specifies the units of quantity to be used for unit prices of the items listed in Schedule 1 to the Order.
+
+Article 6 requires selling and unit prices to be indicated in sterling but provides for additional indications to be given where a trader indicates that he is willing to accept payment in a foreign currency.
+
+Article 7 requires prices and other indications required under the Order to be given in a clear and unambiguous manner.
+
+The Order includes specific provisions relating to general price reductions (article 9), precious metals the selling price of which varies from day to day (article 10), and changes in VAT or other taxes which cause adjustments in prices (article 11).
+
+A regulatory impact assessment and a Transposition Note in relation to these Regulations have been prepared and are available from the Consumer and Competition Policy Directorate, Department of Trade and Industry, 1 Victoria Street, London SW1H 0ET or at www.dti.gov.uk/ccp/. Copies of both these documents have also been placed in the libraries of both Houses of Parliament.
+
+## Annotations
+
+[^c5330801]: Marginal citation: [1974 c. 24](https://www.legislation.gov.uk/ukpga/1974/24). Section 4 was amended by section 16 of the [Price Commission Act 1977 (c. 33)](https://www.legislation.gov.uk/ukpga/1977/33).
+
+[^key-d2e130abf5448de3503bfaeb55488cbf]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/102/article/1/2) inserted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/2/a) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
+
+[^key-31c9af3e494de0eef7e48722a0b77425]: Textual amendment: Words in art. 1(2) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 41](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/41)
+
+[^c5330821]: Marginal citation: [1973 c. 43](https://www.legislation.gov.uk/ukpga/1973/43).
+
+[^key-5472f967383d8102d8790e80ea2f3796]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/102/article/1/2) substituted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/2/b) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
+
+[^key-736a4e48c90ca80a0924e0889c3f81cc]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/102/article/1/2) substituted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/2/c) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
+
+[^c5330831]: Marginal citation: [S.I. 1999/3042](https://www.legislation.gov.uk/uksi/1999/3042).
+
+[^c5330841]: Marginal citation: [S.I. 2002/2013](https://www.legislation.gov.uk/uksi/2002/2013).
+
+[^key-40e17264860d7261c6e4c24ce293201d]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2004/102/article/5/2) substituted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/3/a) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)(3)(a)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2/3/a))
+
+[^key-ba9df56b6d241e351397c9ea5e6980a0]: Textual amendment: Words in [art. 5(2)(b)](https://www.legislation.gov.uk/uksi/2004/102/article/5/2/b) inserted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/3/b) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
+
+[^key-3f41c7293de8d1e7f28c559471138107]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2004/102/article/7/1/a) substituted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/4/a) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
+
+[^key-3849b22f9fe359b1909fd5d68633cd70]: Textual amendment: [Art. 7(3)](https://www.legislation.gov.uk/uksi/2004/102/article/7/3) substituted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/4/b) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
+
+[^c5330861]: Marginal citation: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72). Section 8(5A) was inserted by article 5(2) of [S.I. 1994/2867](https://www.legislation.gov.uk/uksi/1994/2867) and amended by article 3(2) of [S.I. 2001/55](https://www.legislation.gov.uk/uksi/2001/55).
+
+[^key-28105625456a6e8a2c233b1d142502b5]: Textual amendment: [Art. 7A](https://www.legislation.gov.uk/uksi/2004/102/article/7A) inserted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/5) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
+
+[^key-096b1905af5b93bd92b8fb211dd3f6d5]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2004/102/article/9) substituted (6.4.2026) by S.I. 2024/1055, art. 2(6) (as substituted by [The Price Marking (Amendment) Order 2025 (S.I. 2025/592)](https://www.legislation.gov.uk/uksi/2025/592), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/592/article/2/3/b) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2)))
+
+[^key-a5057e6289256fd14ffd01e42957696c]: Textual amendment: Word in art. 11(a) substituted (1.1.2010) by [The Price Marking (Amendment) Order 2009 (S.I. 2009/3231)](https://www.legislation.gov.uk/uksi/2009/3231), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3231/article/1), [2](https://www.legislation.gov.uk/uksi/2009/3231/article/2)
+
+[^key-4f6c61e052de5d51d53620e3b7f8a6a2]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/uksi/2004/102/article/14) omitted (6.4.2026) by virtue of [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/7) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
+
+[^key-e88f59ebebef33c78c27d7cd3aeea7e5]: Textual amendment: Art. 15 revoked (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/44) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+
+[^key-093ca8bd2ee191c50401c05e6752f870]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2004/102/schedule/1) omitted (6.4.2026) by virtue of [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/8) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2))
+
+[^key-8b6f22f9a71689caf9da51358a4ed05d]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2004/102/schedule/2/paragraph/3) substituted (6.4.2026) by [The Price Marking (Amendment) Order 2024 (S.I. 2024/1055)](https://www.legislation.gov.uk/uksi/2024/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/9) (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)(3)(c)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2/3/c))

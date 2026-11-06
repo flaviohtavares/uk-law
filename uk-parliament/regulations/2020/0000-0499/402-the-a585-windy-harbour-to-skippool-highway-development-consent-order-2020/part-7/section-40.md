@@ -1,0 +1,19 @@
+---
+title: The A585 Windy Harbour to Skippool Highway Development Consent Order 2020, section 40
+act: The A585 Windy Harbour to Skippool Highway Development Consent Order 2020
+section: '40'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/402/section/40
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The A585 Windy Harbour to Skippool Highway Development Consent Order 2020, section 40
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 40. Protection of interests
+
+Schedule 10 (protective provisions) has effect.

@@ -1,0 +1,37 @@
+---
+title: Co-operative and Community Benefit Societies Act 2014, section 96
+act: Co-operative and Community Benefit Societies Act 2014
+section: '96'
+status: revised-with-pending-changes
+text_date: '2023-08-29'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2014/14/section/96
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Co-operative and Community Benefit Societies Act 2014, section 96
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2023-08-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/14
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 96. Section 95: provision of auditor's representations by making available on website
+
+*Extent: E+W+S*
+
+(1) This section applies where a society is required by section 95(3)(b) to send a person a copy of the representations referred to there.
+
+(2) The society is regarded as sending the person a copy of a document containing the representations if the following conditions are met—
+
+- (a) the person has agreed (generally or specifically) that the society may make the document available to the person on a website (and has not revoked that agreement);
+- (b) the society has notified the person of the following—
+  - (i) the website address;
+  - (ii) the presence of the document on the website;
+  - (iii) the place on the website where the document may be accessed;
+  - (iv) how to access it;
+- (c) the document is present on the website for the whole of the period—
+  - (i) beginning when the notification is sent (or, if later, when the document first appears on the website), and
+  - (ii) ending 28 days after the day the notification is sent (or, if later, the day the document first appears on the website).
+
+(3) If the document is absent from the website for part of the period referred to in subsection (2)(c), the absence is to be disregarded if it is wholly attributable to circumstances that it would not be reasonable to have expected the society to prevent or avoid.

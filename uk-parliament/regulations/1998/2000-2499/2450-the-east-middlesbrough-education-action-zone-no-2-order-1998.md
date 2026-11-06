@@ -1,0 +1,178 @@
+---
+title: The East Middlesbrough Education Action Zone (No. 2) Order 1998
+id: uksi/1998/2450
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1998-10-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1998/2450
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/2450/made/data.pdf
+pending_changes: 4
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The East Middlesbrough Education Action Zone (No. 2) Order 1998
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+This Statutory Instrument has been made in consequence of a defect in [S.I. 1998/1957](https://www.legislation.gov.uk/uksi/1998/1957) and is being issued free of charge to all known recipients of that Statutory Instrument.
+
+1998 No. 2450
+
+EDUCATION, ENGLAND AND WALES
+
+The East Middlesbrough Education Action Zone (No. 2) Order 1998
+
+Made
+
+2nd October 1998
+
+Laid before Parliament
+
+5th October 1998
+
+Coming into force
+
+26th October 1998
+
+Whereas an application for the purpose of establishing an education action zone has been made to the Secretary of State with the consent of the governing bodies of every school which is comprised in this Order.
+
+Now, therefore, in exercise of the powers conferred on the Secretary of State by sections 10(1) and 138(7) of, and paragraph 2 of Schedule 1 to, the School Standards and Framework Act 1998[^f00001], the Secretary of State for Education and Employment hereby makes the following Order:
+
+## 1. Citation and commencement
+
+This Order may be cited as the East Middlesbrough Education Action Zone (No. 2) Order 1998 and shall come into force on 26th October 1998.
+
+## 2. Interpretation
+
+In this order–
+
+- “partners” means those persons listed in Schedule 1 to this Order; and
+- “zone school” means a school listed in Schedule 2 to this Order.
+
+## 3. Revocation
+
+The East Middlesbrough Education Action Zone Order 1998[^f00002] is hereby revoked.
+
+## 4. Constitution of education action zone
+
+The schools listed in Schedule 2 to this Order shall constitute collectively an education action zone under the name of the East Middlesbrough Education Action Zone (“the zone”) for the purposes of Chapter III of Part I of the School Standards and Framework Act 1998.
+
+**5.** There shall be an Education Action Forum for the zone, the membership of which shall include–
+
+- (a) one person appointed by the governing body of each school listed in the Schedule, unless any such governing body chooses not to make such an appointment;
+- (b) either one or two persons appointed by the Secretary of State; and
+- (c) one person appointed by each partner, unless any partner chooses not to make such an appointment.
+
+**6.** The Forum may at any time appoint not more than 30 additional members from persons appearing to them to represent the interests of–
+
+- (a) businesses;
+- (b) parents of children of compulsory school age; and
+- (c) the voluntary sector
+
+in the area served by the zone schools.
+
+## 7. Disqualification from membership of the Forum
+
+Articles 8 to 10 shall have effect for the purpose of prescribing the circumstances and cases in which a person is to be disqualified for holding, or continuing to hold, office as a member of the Forum.
+
+## 8. Disqualification from membership of Forum–bankruptcy etc.
+
+(1) Subject to the provisions of this regulation, a person shall be disqualified for holding, or for continuing to hold, office as a member of the Forum if he has been adjudged bankrupt or has made a composition or arrangement with his creditors; and a member, on becoming so disqualified, shall give written notice of the fact to the clerk to the Forum.
+
+(2) Where a person is disqualified by reason of his having been adjudged bankrupt, that disqualification shall cease–
+
+- (a) unless the bankruptcy order made against that person is previously annulled, on his discharge from bankruptcy; and
+- (b) if the bankruptcy order is so annulled, on the date of the annulment.
+
+(3) Where a person is disqualified by reason of his having made a composition or arrangement with his creditors and he pays his debts in full, the disqualification shall cease on the date on which the payment is completed and in any other case it shall cease on the expiration of three years from the date on which the terms of the deed of composition or arrangement are fulfilled.
+
+## 9. Disqualification from membership of Forum–criminal convictions
+
+(1) Subject to paragraph (2) a person shall be disqualified for holding, or for continuing to hold, office as a member of the Forum if–
+
+- (a) within five years before his appointment would otherwise have taken effect or since his appointment, he has been convicted, whether in the United Kingdom or elsewhere, of any offence and has had passed on him a sentence of imprisonment (whether suspended or not) for a period of not less than three months without the option of a fine;
+- (b) within twenty years before his appointment would otherwise have taken effect, he has been convicted as aforesaid and has had passed on him a sentence of imprisonment for a period of more than two and a half years; or
+- (c) he has at any time been convicted as aforesaid and has had passed on him a sentence of imprisonment of not less than five years.
+
+(2) For the purpose of this regulation there shall be disregarded any conviction by or before a court outside the United Kingdom of an offence in respect of conduct which, if it had taken place in any part of the United Kingdom, would not have constituted an offence under the law in force in that part of the United Kingdom.
+
+## 10. Disqualification–absence from meetings
+
+Any member of the Forum who, without the consent of the Forum has failed to attend the meetings thereof for a continuous period of six months beginning with the date of a meeting shall, on the expiry of that period, be disqualified for continuing to be a member of the Forum without prejudice, however, to his re-appointment.
+
+## 11. Chairman’s tenure of office
+
+The chairman of the Forum elected in accordance with paragraph 2 of Schedule 1 to the Act, shall hold office for one year from the date of his election, without prejudice to his eligibility to be re-elected for a further such period.
+
+Estelle Morris
+
+Minister of State,
+
+Department for Education and Employment
+
+2nd October 1998
+
+## SCHEDULE 1
+
+Article 2
+
+### MEANING OF “PARTNERS”
+
+The following persons are “partners” for the purposes of appointing additional members of the Forum:
+
+- Middlesbrough Borough Council–Civic Centre, Middlesbrough
+- Tees Valley TEC–2 Queen’s Square, Middlesbrough, TS2 1AA
+- Comcast Teesside Ltd–Roberts House, De Havilland Avenue, Preston Business Park, Stockton-on-Tees, TS18 3TH
+- Teesside Tomorrow–Unit 20, Manor Way, Belasis Hall Technology Park, Billingham, TS23 4HN
+- University of Teesside–Borough Road, Middlesbrough
+- East Middlesbrough Parents Group
+- Cleveland College of Art & Design–Green Lane, Middlesbrough
+- Middlesbrough College
+- Teesside Tertiary College–Marton Road, Middlesbrough
+- St Mary’s RC Sixth Form College–Saltersgill Avenue, Middlesbrough, TS4 3JP
+- The Secretary of State for Education and Employment
+- Future Steps Ltd–Fry Street, Middlesbrough
+- The Diocesan Board of Education for the Diocese of Middlesbrough–Curial Offices, 50A The Avenue, Linthorpe, Middlesbrough, TS5 6QT
+- Gatsby Charitable Foundation–4/7 Red Lion Court, London, EC4A 3EB
+
+## SCHEDULE 2
+
+Article 3
+
+### SCHOOLS COMPRISING THE ZONE
+
+- Berwick Hills Primary School
+- Brackenhoe Comprehensive School
+- Brambles Primary School
+- Caldicotes Primary School
+- Corpus Christi RC Primary School
+- Holmwood School
+- Keldholme Comprehensive School
+- Langbaurgh Comprehensive School
+- North Ormesby Primary School
+- Ormesby Comprehensive School
+- Pallister Park Primary School
+- Park End Primary School
+- Pennyman Primary School
+- Priory Woods School
+- St Alphonsus RC Primary School
+- St Anthony’s RC School
+- St Pius X RC Primary School
+- Thorntree Primary School
+- Tollesby School
+
+(This note is not part of the Order)
+
+This Order establishes the Middlesbrough Education Action Zone, which comprises the schools listed in the Schedule. The Order also provides (in article 2) for the membership of the Education Action Forum for the Zone. The Order revokes the East Middlesbrough Education Action Zone Order ([S.I. 1998/1957](https://www.legislation.gov.uk/uksi/1998/1957)) which contained a number of errors.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).
+
+[^f00002]: Footnote: [S.I. 1998 No. 1957](https://www.legislation.gov.uk/uksi/1998/1957).

@@ -1,0 +1,509 @@
+---
+title: The Plant Breeders' Rights Regulations 1998
+id: uksi/1998/1027
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1998-04-08'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1998/1027
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/1027/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Plant Breeders' Rights Regulations 1998
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1998 No. 1027
+
+PLANT BREEDERS' RIGHTS
+
+The Plant Breeders' Rights Regulations 1998
+
+Made
+
+8th April 1998
+
+Laid before Parliament
+
+9th April 1998
+
+Coming into force
+
+8th May 1998
+
+The Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland, the Secretary of State for Wales and the Secretary of State for Northern Ireland, acting jointly, in exercise of the powers conferred on them by sections 17(8), 18(1)(a) and (c), 18(2), 22(2), 24, 26(2)(a), 28(1) and (2), 44 and 48(1) of the Plant Varieties Act 1997[^f00001], after consultation with such organisations as appear to them to be representative of persons likely to be substantially affected and with the Council on Tribunals in accordance with section 8 of the Tribunals and Inquiries Act 1992[^f00002], hereby makes the following Regulations:[^key-507fb7cbfc0d958748f91db07125fe86]
+
+## 1. Title and commencement[^key-bd346bd0bde6da5e798393e024f8a172]
+
+These Regulations may be cited as the Plant Breeders' Rights Regulations 1998 and shall come into force on 8th May 1998.
+
+## 2. Interpretation[^key-81e8d1cba44985eb7cd0a00f7010616f]
+
+(1) In these Regulations—
+
+- “the Act” means the Plant Varieties Act 1997;
+- “holder of rights” means, in relation to a variety, the holder of plant breeders' rights in that variety;
+- “the Office” means the Plant Variety Rights Office;
+- “plant breeders' certificate” means a document issued by the Controller as evidence of a grant of plant breeders' rights;
+- “plant breeders' rights” means rights which may be granted in accordance with Part I of the Act;
+- “plant breeders' rights licensee” means, in relation to a variety, a person authorised under section 6(2);
+- “plant varieties records” means the records kept by the Controller pursuant to regulation 12(2);
+- “persons concerned” has the meaning given to it in regulation 7(2);
+- “the register” means the register kept by the Controller pursuant to regulation 12(1); and
+- “relevant legislation” means—
+  - (a) the Act;
+  - (b) these Regulations; and
+  - (c) regulation 18 of the Plant Breeders' Rights Regulations 1978[^f00003].
+
+(2) Any reference in these Regulations—
+
+- (a) to a numbered regulation or Schedule shall be construed as a reference to the regulation or Schedule bearing that number in these Regulations;
+- (b) in a regulation to a numbered paragraph is to the paragraph in that regulation bearing that number; and
+- (c) to a numbered section shall be construed as a reference to that section in the Act.
+
+## 3. Applications[^key-c54def6a2147ffa8d101e3835c48ffcd][^key-5c0d77a9785681e2cc13edc27a65ff52]
+
+Every application made under the relevant legislation shall be made in writing, signed by the applicant and delivered to the Controller.
+
+## 4. Repeated applications[^key-540497cf06629a26a90732d6d79ad6ea]
+
+(1) If an application made under the relevant legislation appears to the Controller to be a repeated application made without reasonable cause, the Controller may refuse to entertain such application.
+
+(2) For the purposes of this regulation, a “repeated application” means an application in similar circumstances on the same subject made within 12 months of the making of a previous application upon which the Controller has taken a decision.
+
+## 5. Publication[^key-e689b7d5ebec8b70b35f3508a7a8d3c4]
+
+(1) The Controller shall publish in the gazette notice of the matter set out in the first column of Part A of Schedule 1, the matters set out in the second column of Part B of that Schedule and the matters set out in the second column of Part C of that Schedule.
+
+(2) The Controller shall publish in the gazette notice of the expiry of the period of a grant of plant breeders' rights at least one month before the end of the period.
+
+(3) Notices published pursuant to this regulation shall contain such details of the matters referred to in paragraphs (1) and (2) as the Controller considers appropriate.
+
+## 6. Matters on which written representations may be made[^key-7aed92b5f29bdd026d198d1e39e19eac]
+
+(1) The persons mentioned in the second column of Part A of Schedule 1 shall be entitled to make written representations to the Controller in relation to the matter specified in the first column of that Part.
+
+(2) When the Controller publishes notice of the matter referred to in Part A of Schedule 1, he shall also publish in this gazette—
+
+- (a) the manner in which representations may be made to him;
+- (b) the time within which representations must be made;
+- (c) the arrangements for circulating representations; and
+- (d) the time within which further representations may be made on representations circulated pursuant to paragraph (2)(c).
+
+(3) The Controller shall inform the applicant and those persons who have made representations pursuant to paragraph (2) of his decisions and the reasons for his decision.
+
+## 7. Matters on which written and oral representations may be made[^key-44067d5c645b3def6589fb5064600a1e]
+
+(1) The persons mentioned in the third column of Part B of Schedule 1 shall be entitled to make written representations to the Controller and be heard by him in relation to the respective matters specified in the second column of that Part.
+
+(2) For the purposes of these Regulations a “person concerned” means—
+
+- (a) those persons who make representations pursuant to paragraph (1); and
+- (b) those persons referred to in paragraph (3).
+
+(3) For the purposes of paragraph (2)(b), the following persons are referred to in relation to the respective matters set out in the second column of Part B of Schedule 1 as follows—
+
+- (a) in respect of the matter numbered 1, the person referred to in sub-paragraph (a);
+- (b) in respect of the matter numbered 2, the person referred to in sub-paragraph (a);
+- (c) in respect of the matter numbered 3, the persons referred to in sub-paragraphs (a) and (b);
+- (d) in respect of the matter numbered 4, the persons referred to in sub-paragraphs (a), (b) and (c);
+- (e) in respect of the matter numbered 5, the persons referred to in sub-paragraphs (a), (b) and (c);
+- (f) in respect of the matter numbered 6, the person referred to in sub-paragraph (a);
+- (g) in respect of the matter numbered 7, the person referred to in sub-paragraph (a); and
+- (h) in respect of the matter numbered 8, the person referred to in sub-paragraph (a).
+
+(4) When the Controller publishes notice of the matters referred to in the second column of Part B of Schedule 1 he shall also publish in the gazette—
+
+- (a) the manner in which representations may be made to him;
+- (b) the time within which representations must be made;
+- (c) the arrangements for circulating representations;
+- (d) the time within which further representations may be made on the representations circulated pursuant to paragraph (4)(c);
+- (e) the manner in which an application for a hearing must be made;
+- (f) the time within which an application for a hearing must be made; and
+- (g) the time within which any representations and supporting documents must be made available before the hearing.
+
+## 8. Hearings of oral representations[^key-4ce5b4ed1b35d449205ac38ab0ced053]
+
+(1) If any person applies to be heard in accordance with regulation 7(4)(e) and (f), the Controller shall appoint a time and place in the United Kingdom at which that person and all of the other persons concerned may be heard by him.
+
+(2) In appointing the time and place of the hearing, the Controller shall have regard to the convenience of the persons concerned and of witnesses, the situation of any land or premises to be viewed in connection with the application and to the other circumstances of the case, including the wishes of and expense to the persons concerned.
+
+(3) The Controller may appoint a person for the purposes of conducting the hearing referred to in paragraph (1) and all references to the Controller in these Regulations in relation to the conducting of a hearing shall be deemed to refer to a person appointed pursuant to this paragraph.
+
+(4) The Controller shall give to each of the persons concerned at least 14 days' notice of the time and place of the hearing.
+
+(5) Any person concerned may be represented at the hearing by a person chosen by him.
+
+(6) Any person concerned or his representative who attends the hearing may speak and he or his representative may call witnesses and, subject to paragraph (7), may produce documents and shall be given an opportunity of putting questions directly to any witness called at the hearing.
+
+(7) Except with the leave of the Controller, no document shall be produced to the hearing, save in accordance with the requirements of regulation 7(4)(g).
+
+- (8) Subject to paragraph (9), the hearing shall be in public unless the Controller, after consultation with the persons concerned attending the hearing or their representatives, otherwise directs.
+
+(9)[^key-2adea7cf837c955b57ea6fb7938d38ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) Subject to paragraph (11), the decision of the Controller shall take effect at such time as he shall direct after the expiration of the time limit for the bringing of an appeal.
+
+(11) Where the Controller decides to grant an application in a case where no person concerned has made any representations to him in writing or has been heard by him in opposition to the granting of an application, the decision shall take effect at such time as he shall direct.
+
+(12) The Controller shall inform the persons concerned of his decision, together with the reasons for it, and of the time within which and the manner in which an appeal may be brought.
+
+(13) The Controller shall publish in the gazette details of the decision and details of the time within which and manner in which an appeal may be brought.
+
+## 9. Appeal to the Tribunal[^key-dafbb06607e168ee506affe28dcdad33][^key-42020df7e32a8c56a9e743b960e82e49][^key-83388f1333dd9cafdeda7a21064b4644]
+
+(1) The hearing of an appeal by the Tribunal under the provisions of Part II of the Act or of these Regulations shall take place in such part of the United Kingdom as shall be determined by the Chairman of the Tribunal who shall have regard to the matters referred to in regulation 8(2) as well as to the convenience of the members of the Tribunal and, if he proposes to appear at the hearing of the appeal, of the Controller.
+
+(2) The persons concerned or persons appointed by them for the purpose of the proceedings in respect of which the decision was given be entitled to appear and be heard as a party to any appeal against the decision of the Controller.
+
+(3) Where an appeal is brought against a decision given in accordance with the relevant legislation the operation of such decision shall be suspended pending the final determination of the appeal.
+
+(4) The Controller shall publish in the gazette a notice of the appeal, of any suspension of the operation of his decision in accordance with the previous paragraph and of any withdrawal of the appeal.
+
+(5) The Controller shall take such steps as may be necessary to give effect to any decision given on the final determination of an appeal and such other steps as he would be required by these Regulations to take if such decision were his own.
+
+## 10. Compulsory licences—coming into effect[^key-19df14bce79a84bbf5b75f36d588786f][^key-d4645e8d034135337dd7d745d363e154]
+
+The period for the purposes of section 17(8)(a) (which provides that regulations may specify the period which must elapse between the grant of plant breeders' rights and the coming into force of a compulsory licence) shall be 2 years as respects all varieties.
+
+## 11. Rights of appeal in other cases[^key-b64b45dba71e4ef224c56960ea9cee59]
+
+In addition to the appeals to the Tribunal set out in section 26(1), an appeal shall lie to the Tribunal against a decision of the Controller to refuse an application under section 25(3)(a) (organisation or person applying to the Controller for an opportunity of making representations to which section 25 applies).
+
+## 12. Register of plant variety names and records of plant varieties[^key-8f71531e999c69d29bd6d2c1e617772f]
+
+(1) The Controller shall keep a register of the names of plant varieties in respect of which plant breeders' rights have been granted.
+
+(2) The Controller shall keep records of plant varieties which shall contain—
+
+- (a) in respect of varieties for which applications for grants of plant breeders' rights are under consideration, the information set out in paragraph (3); and
+- (b) in respect of varieties for which plant breeders' rights have been granted, the information set out in paragraph (4).
+
+(3) The information referred to in paragraph (2)(a) is—
+
+- (a) the date on which the application was received;
+- (b) the date on which details of the application were published in the gazette;
+- (c) the name and address of the applicant;
+- (d) the description of the characteristics of the plant variety provided by the applicant;
+- (e) the reference number alloted to the plant variety by the Controller when the application was published in the gazette;
+- (f) the names of the plant variety as published from time to time in the gazette; and
+- (g) such other particulars as shall appear to the Controller to be desirable.
+
+(4) The information referred to in paragraph (2)(b) is—
+
+- (a) the name and address of the holder of rights;
+- (b) a description of the characteristics of the plant variety;
+- (c) the names of the plant variety as published from time to time in the gazette;
+- (d) the date upon which and the period (including any extended period) for which plant breeders' rights in the plant variety were granted, and the date upon which such rights expired or were otherwise terminated or were declared null and void, as the case may be;
+- (e) the information recorded against the variety pursuant to paragraph (2)(a) prior to the grant of rights; and
+- (f) such other particulars as shall appear to the Controller to be desirable.
+
+(4A)[^key-8ddf90850e408d4bcb2243a7c7919866] If a variety name is accepted in the form of a code, that fact must be noted in the register.
+
+(5) Any jperson who has become a holder of rights in succession to another person may apply to the Controller to be entered in the plant varieties records and upon being satisfied that such person is so entitled the Controller shall amend the plant varieties records accordingly.
+
+(6) Any person whose name and address are entered on the plant varieties records and who has changed his name or address shall apply to the Controller for amendment of the plant varieties records accordingly.
+
+(7) The Controller may, without prejudice to any other powers vested in him, either upon the application of any person or without such an application, rectify any error or omission in the register or the plant varieties records.
+
+(8) Before rectifying the register or the plant varieties records the Controller shall (unless he considers that the correction is so trifling that it is not necessary for him to do so) give notice of his proposal to do so to the holder of rights in the plant variety in respect of which the register or plant varieties records are proposed to be corrected and shall advertise his proposal in the gazette, and shall invite written observations to be made within a specified period in regard to the proposal, and he shall not make the correction until he has considered any observations so made to him.
+
+(9) Subject to regulation 13(2), the register and the plant varieties records shall be available for inspection by any member of the public at the Office.
+
+## 13. Reports of tests and trials[^key-fff246b4e882f5d138a1a60c7f312ef9]
+
+(1) Subject to paragraph (2), any report received by the Controller of the result of any tests or trials which have been carried out in respect of a plant variety which is the subject of an application for a grant of plant breeders' rights and which may be relevant to his decision shall be available for inspection by any member of the public at the Office.
+
+(2) The details of the heriditary sources of a hybrid shall not be available for inspection unless the holder of rights has consented.
+
+## 14. Documents not in English[^key-78d7601f736faf5d1af2f596d0c50a15][^key-a06b746d9d085b2f395f6d2154635525]
+
+Where any document submitted to the Controller in connection with the relevant legislation is in a language other than the English language it shall, unless the Controller otherwise directs, be accompanied by a complete and adequate translation thereof into the English language.
+
+## 15. Loss or destruction of plant breeders' certificate[^key-94e44da2c08fba0710efc8375251ce82]
+
+Where the Controller is satisfied that a plant breeders' certificate has been lost or destroyed or cannot for some other good reason be produced he may cause a duplicate thereof to be delivered to the person entitled to the grant.
+
+## 16. Service of documents[^key-91fa98743880fab9d8ccf904ad9aabf6][^key-dec995d892729b169db6f98b588fb3e7]
+
+(1) Every applicant for the grant of plant breeders' rights and holder of rights and any of the other persons concerned in any proceedings under the relevant legislation shall give to the Controller an address within the United Kingdom[^key-4d72a650e1022f62f02e80190923335b] (hereinafter referred to as his “address for service”) which shall be the address at which any notices or other documents under or in accordance with the relevant legislation may be delivered to, served upon, or given to him for the purpose of the relevant legislation.
+
+(2) Any person may give to the Controller in substitution for his address for service another address within the United Kingdom[^key-805e77e49bc8c4c1652fa33c765113c8] which shall thereafter be his address for service.
+
+(3) Subject to paragraph (4), any document or thing required or authorised by or in pursuance of the relevant legislation to be delivered to, served on or given to the Controller may be delivered, served or given by being left at the Office or at such other place as the Controller may have required in writing or sent to the Controller at the Office or at such place by post in a properly addressed prepaid letter or parcel.
+
+(4) Plant material to be delivered to the Controller pursuant to the relevant legislation may, in stead of being sent by post, be sent by other convenient means.
+
+(5) Any document or thing required or authorised by the relevant legislation to be delivered to, served on or given to any person other than the Controller may be delivered, served or given by being delivered to him personally, left for him at his address for service or at his last known address or sent to him there by post in a properly addressed prepaid letter.
+
+## 17. Agency[^key-e1fdc9169ee28c5bd96fca6e74361e2f]
+
+The Controller shall be entitled to require any holder of rights or applicant for the grant of plant breeders' rights resident outside the United Kingdom[^key-dc52a83fb51d17bd151b023932d8de61] to appoint an agent within the United Kingdom with authority to act for him in relation to matters which are the subject of the relevant legislation.
+
+## 18. Times for compliance and extensions thereof[^key-ada9ac36aeb0331f7b3f85d716a8d21a][^key-bd9906ec296189bdfeb26f5616658dba]
+
+(1) If the time for the delivery to or service on the Controller of any document or thing pursuant to the relevant legislation expires on a day when the Office is not open to the public for the transaction of business, such time shall be deemed to be extended so as to expire with the next succeeding day on which the Office is open.
+
+(2) Where any document or thing is to be delivered, served or given or any act is to be done within a time prescribed or required by or under the relevant legislation such time may, upon application made to the Controller by the person required to deliver, serve or give the document or thing or do the act, be extended by the Controller for such period and upon such terms, if any, as he thinks fit.
+
+## 19. Business after office hours[^key-14b67a0df771ba9e3902386c5b2fadb1][^key-b291202f6f02d1dae38841a3bbbead35]
+
+Any business done, and any document delivered, at the Office under the relevant legislation on any day after the end of the period fixed for the opening of the Office to the public for the transaction of business on that day or on any day which the Office is not open to the public for the transaction of business shall be deemed to have been done or delivered on the next succeeding day when the Office is open to the public for the transaction of business.
+
+## 20. Rectification of errors and irregularities[^key-e842320d6ba18f4e519c33ae4bc6ef77][^key-569ba6d8c6984233119f0ec9cfd77602]
+
+Any document delivered to, served on or given to the Controller in connection with the relevant legislation may, with the consent of the Controller after application made to him by the person by or on whose behalf the said document has been delivered, served or given, be amended and any irregularity in procedure may be excused or rectified, in either case upon such terms, if any, as the Controller shall direct and thereupon no proceeding shall be invalidated in consequence of any error, omission or irregularity so excused or rectified.
+
+## 20A. Farm saved seed: determination of remuneration[^key-ac99c0995dd974a648e3828a84ccf87d]
+
+(1) This regulation applies for the purpose of determining what constitutes equitable remuneration for the purposes of section 9(3) of the Act.
+
+(2) The level of remuneration shall be sensibly lower than the amount charged for licensed production.
+
+(3) If there has been no licensed production in the United Kingdom, the level of remuneration shall be sensibly lower than the amount which is normally included in the price of propagating material of the lowest category qualified for official certification of that variety.
+
+(4) The level of remuneration is to be considered sensibly lower if it does not exceed the level necessary to establish or stabilise, as an economic factor determining the extent of the farmer's use of material in reliance on the exception in section 9(1), a reasonably balanced ratio between the use of licensed propagating material and the planting of the product of the harvest of the respective varieties covered by a plant breeders' right.
+
+(5) A ratio is to be considered to be reasonably balanced for the purpose of paragraph (4) if it ensures that the holder obtains as a whole a legitimate compensation for the total use of his variety.
+
+(6) “**Licensed production**” means the licensed production of propagating material of the lowest category qualified for official certification of the same variety.
+
+## 21. Revocation, savings and supplemental provision about names[^key-5815be106a168c6baf3d15a1492a559f]
+
+(1) Subject to paragraph (3), the Regulations mentioned in Schedule 2 are hereby revoked to the extent specified in the third column of that Schedule.
+
+(2) Subject to paragraph (3), the Schemes[^f00004] made under section 1 of the Plant Varieties and Seeds Act 1964[^f00005] are hereby revoked save insofar as they prescribe classes of plant variety for the purpose of section 5(7) of that Act (which enables classes of plant varieties to be prescribed in connection with the use of names likely to deceive or cause confusion).
+
+(3) The Regulations mentioned in Schedule 2 and the Schemes made under section 1 of the Plant Varieties and Seeds Act 1964 are saved in their application to the Isle of Man.
+
+(4) Regulation 18 of the Plant Breeders' Rights Regulations 1978[^f00006] is saved subject to the following amendments—
+
+- (a) in paragraph (1), after the word “propose” there shall be substituted the words “in writing”;
+- (b) paragraph (4) shall be omitted; and
+- (c) paragraph (7) shall be omitted.
+
+(5) Regulation 3 of the Plant Breeders' Rights Regulations 1978 is saved in its application to regulation 18 of those Regulations.
+
+(6) In sections 19 and 20, references to names registered under section 18 shall include names registered pursuant to regulation 18 of the Plant Breeders' Rights Regulations 1978 as saved by paragraphs (4) and (5).
+
+## 22. Transitional provisions[^key-fd406800d7099b8818b8c0df97502cf1]
+
+(1) Subject to paragraph (3), all applications which have been made under the legislation referred to in paragraph (4) and which have not been concluded at the date these Regulations come into force shall be treated from then on as having been made under the relevant legislation.
+
+(2) All proceedings which have been commenced under the legislation referred to in paragraph (4) and which have not been concluded at the date these Regulations come into force shall be treated from then on as having been commenced under the relevant legislation.
+
+(3) Where, before the date on which section 5 (rights in relation to application period) comes into force, an application has been made for plant breeders' rights which is granted after that date, that section shall entitle the holder to compensation only for things done after that date.
+
+(4) The legislation referred to in paragraphs (1) and (2) is—
+
+- (a) those provisions of the Plant Varieties and Seeds Act 1964 which are repealed by section 52 of the Act; and
+- (b) the legislation which is revoked by regulation 21(1) and (2).
+
+Donoughue
+
+Parliamentary Secretary, Ministry of Agriculture, Fisheries and Food
+
+Sewel
+
+Parliamentary Under Secretary of State, Scottish Office
+
+Signed by authority of the Secretary of State for Wales
+
+Win Griffiths
+
+Parliamentary Under Secretary of State, Welsh Office
+
+Dubs
+
+Parliamentary Under Secretary of State, Northern Ireland Office
+
+## SCHEDULE 1 — MATTERS TO BE PUBLISHED IN THE GAZETTE BY THE CONTROLLER AND PERSONS ENTITLED TO MAKE REPRESENTATION
+
+Regulations 5, 6 and 7
+
+### PART A[^key-91e9e06f1698bbfed74f79ba9a493ad0]
+
+| (1) | (2) |
+| --- | --- |
+| Receipt of an application for the grant of plant breeders' rights | - (a) the applicant;<br>- (b) any person who has a substantial interest in the decision to grant or refuse the grant of plant breeders' rights; and<br>- (c) any person who is able to provide evidence which is material in the decision to grant or refuse the grant of plant breeders' rights |
+
+### PART B[^key-1dfc02c85390e95cbdd129a02441e535]
+
+<table>
+<thead>
+<tr><th>(1)</th><th>(2)</th><th>(3)</th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="3">*<br><em>See</em> also section 25(3) which allows certain organisations and persons to make representations and be heard.</td></tr>
+</tfoot>
+<tbody>
+<tr><td>1.</td><td>Proposed decision preliminary to the determination of an application for the grant of plant breeders' rights as to the conditions laid down in section 4</td><td>(a) the applicant;<br>(b) any person who has a substantial interest in the decision to grant or refuse the grant of plant breeders' rights; and<br>(c) any person who is able to provide evidence which is material in the decision to grant or refuse the grant of plant breeders' rights.</td></tr>
+<tr><td>2.</td><td>Proposed decision to allow or refuse an application for the grant of plant breeders' rights</td><td>(a) the applicant;<br>(b) any person who has a substantial interest in the decision to grant or refuse the grant of plant breeders' rights;<br>(c) any person who is able to provide evidence which is material in the decision to grant or refuse the grant of plant breeders' rights.</td></tr>
+<tr><td>3.</td><td>Receipt of an application under section 17(1) (grant of a compulsory licence) or section 17(9) (extension, limitation or variation of a compulsory licence)</td><td>(a) the applicant;<br>(b) the holder of rights;<br>(c) any plant breeders' rights licensee; and<br>(d) any person whose financial interests are likely to be affected by the decision.</td></tr>
+<tr><td>4.</td><td>Proposed decision to refuse an application under section 25(3)(a) (organisation or person applying to the Controller for an opportunity of making representations concerning an application for the grant of compulsory licence)</td><td>(a) the applicant under section 25(3);<br>(b) the holder of rights; and<br>(c) the applicant for the grant of the compulsory licence.</td></tr>
+<tr><td>5.</td><td>Proposed decision to allow or refuse an application under section 23(1) (suspension of plant breeders' rights) or section 23(2) (termination of suspension of plant breeders' rights)</td><td>(a) the holder of rights;<br>(b) the holder of the compulsory licence who applied to the Controller under section 23(1); and<br>(c) any person who was a person concerned in relation to the application for the grant of the compulsory licence referred to in the preceding sub-paragraph.</td></tr>
+<tr><td>6.</td><td>Proposed decision under section 21(1) (to declare the grant of plant breeders' rights null and void)</td><td>(a) the holder of rights;<br>(b) any plant breeders' rights licensee; and<br>(c) any person whose financial interests are likely to be affected by the decision.</td></tr>
+<tr><td>7.</td><td>Proposed decision under section 22(1)(a), (b) or (c) (to terminate other than on application to surrender by the holder of rights)</td><td>(a) the holder of rights;<br>(b) any plant breeders' rights licensee; and<br>(c) any person whose financial interests are likely to be affected by the decision.</td></tr>
+<tr><td>8.</td><td>Proposed decision to refuse an application under section 22(1)(d) (to terminate on application to surrender by the holder of rights)</td><td>(a) the holder of rights;<br>(b) any plant breeders' rights licensee; and<br>(c) any person whose financial interests are likely to be affected by the decision.</td></tr>
+</tbody>
+</table>
+
+[^f01000]
+
+### PART C[^key-9159bba8660e946c570cf0a49609ad92]
+
+| (1) | (2) |
+| --- | --- |
+| 1\. | Withdrawal of application for the grant of plant breeders' rights. |
+| 2\. | Decisions of the Tribunal |
+| 3\. | Termination of plant breeders' rights following an application to surrender |
+
+## SCHEDULE 2 — REVOCATIONS[^key-1979e6cb70606303d01074854360b0fc]
+
+Regulation 21
+
+<table>
+<thead>
+<tr><th>(1)</th><th>(2)</th><th>(3)</th></tr>
+<tr><th>Regulations revoked</th><th>References</th><th>Extent of revocation</th></tr>
+</thead>
+<tbody>
+<tr><td>The Plant Breeders' Rights Regulations 1978</td><td>S.I. <a href="https://www.legislation.gov.uk/uksi/1978/294">1978/294</a></td><td>The whole Regulations save as provided in regulation 21(4) and (5)</td></tr>
+<tr><td>The Plant Breeders' Rights (Amendment) Regulations 1982</td><td>S.I. <a href="https://www.legislation.gov.uk/uksi/1982/1101">1982/1101</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Plant Breeders' Rights (Amendment) Regulations 1985</td><td>S.I. <a href="https://www.legislation.gov.uk/uksi/1985/1092">1985/1092</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Plant Breeders' Rights (Amendment) Regulations 1993</td><td>S.I. <a href="https://www.legislation.gov.uk/uksi/1993/2775">1993/2775</a></td><td>The whole Regulations</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Regulations)
+
+These Regulations are made under the Plant Varieties Act 1997.
+
+The Regulations prescribe how applications are to be made pursuant to the legislation governing plant breeders' rights (regulation 3).
+
+The Regulations require certain matters to be published in the Plant Varieties and Seeds Gazette (regulation 5). They set out who may make representations and be heard and also prescribe the relevant procedure (regulations 6, 7, 8 and 9).
+
+The Regulations specify, as 2 years, the period which must elapse between the grant of plant breeders' rights and the coming into force of a compulsory licence (regulation 10).
+
+The Regulations provide an appeal to the Tribunal against a decision of the Controller to refuse an application, pursuant to section 25(3)(a) of the Plant Varieties Act 1997, by an organisation or person to make representations in respect of an application for the grant of a compulsory licence (regulation 11).
+
+The Regulations require that the Controller keeps a register of the names of plant varieties and a record of plant varieties and set out the information which must be included in that record (regulation 12).
+
+The Regulations revoke secondary legislation made under the Plant Varieties and Seeds Act 1964 save insofar as it applies to the Isle of Man. They also save certain legislation relating to the naming of varieties (regulation 21).
+
+The register, plant varieties records and reports of tests and trials are available for inspection at the Plant Variety Rights Office at White House Lane, Huntingdon Road, Cambridge CB3 0LF at all reasonable times free of charge. Copies of entries on the register and plant varieties records and reports may be obtained on payment of a reasonable charge.
+
+These regulations are cost-neutral and therefore no regulatory appraisal is needed.
+
+## Annotations
+
+[^f00001]: Footnote: [1997 c. 66](https://www.legislation.gov.uk/ukpga/1997/66); *see* section 49(1) for the definition of “the Ministers”.
+
+[^f00002]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53). Schedule 1 is amended by section 51(5) of the Plant Varieties Act 1997.
+
+[^key-507fb7cbfc0d958748f91db07125fe86]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1998/1027) applied (with modifications) (1.3.2002) by [The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 (S.I. 2002/247)](https://www.legislation.gov.uk/uksi/2002/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/247/regulation/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2002/247/regulation/23/2)
+
+[^key-bd346bd0bde6da5e798393e024f8a172]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-81e8d1cba44985eb7cd0a00f7010616f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1998/1027/regulation/2) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^f00003]: Footnote: Regulation 18 of the Plant Breeders' Rights Regulations 1978 (S.I. [1978/294](https://www.legislation.gov.uk/uksi/1978/294)) is amended by regulation 21(4) of these Regulations.
+
+[^key-c54def6a2147ffa8d101e3835c48ffcd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/1027/regulation/3) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-5c0d77a9785681e2cc13edc27a65ff52]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/1027/regulation/3) applied (with modifications) (8.5.1998) by [The Plants Breeders' Rights (Fees) Regulations 1998 (S.I. 1998/1021)](https://www.legislation.gov.uk/uksi/1998/1021), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1021/regulation/1), [6](https://www.legislation.gov.uk/uksi/1998/1021/regulation/6)
+
+[^key-540497cf06629a26a90732d6d79ad6ea]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1998/1027/regulation/4) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-e689b7d5ebec8b70b35f3508a7a8d3c4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1998/1027/regulation/5) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-7aed92b5f29bdd026d198d1e39e19eac]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1998/1027/regulation/6) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-44067d5c645b3def6589fb5064600a1e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1998/1027/regulation/7) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-4ce5b4ed1b35d449205ac38ab0ced053]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1998/1027/regulation/8) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-2adea7cf837c955b57ea6fb7938d38ea]: Textual amendment: [Reg. 8(9)](https://www.legislation.gov.uk/uksi/1998/1027/regulation/8/9) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 85](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/85)
+
+[^key-dafbb06607e168ee506affe28dcdad33]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1998/1027/regulation/9) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-42020df7e32a8c56a9e743b960e82e49]: Modification: [Reg. 9](https://www.legislation.gov.uk/uksi/1998/1027/regulation/9) applied (with modifications) (1.12.2001) by [The Seeds (National Lists of Varieties) Regulations 2001 (S.I. 2001/3510)](https://www.legislation.gov.uk/uksi/2001/3510), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3510/regulation/1), [17(3)](https://www.legislation.gov.uk/uksi/2001/3510/regulation/17/3)
+
+[^key-83388f1333dd9cafdeda7a21064b4644]: Modification: [Reg. 9](https://www.legislation.gov.uk/uksi/1998/1027/regulation/9) applied (with modifications) (N.I.) (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [18(3)](https://www.legislation.gov.uk/nisr/2020/302/regulation/18/3)
+
+[^key-19df14bce79a84bbf5b75f36d588786f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/1027/regulation/10) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-d4645e8d034135337dd7d745d363e154]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/1027/regulation/10) excluded (1.3.2002) by [The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 (S.I. 2002/247)](https://www.legislation.gov.uk/uksi/2002/247), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/247/regulation/1/1), [23(3)](https://www.legislation.gov.uk/uksi/2002/247/regulation/23/3)
+
+[^key-b64b45dba71e4ef224c56960ea9cee59]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1998/1027/regulation/11) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-8f71531e999c69d29bd6d2c1e617772f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1998/1027/regulation/12) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-8ddf90850e408d4bcb2243a7c7919866]: Textual amendment: [Reg. 12(4A)](https://www.legislation.gov.uk/uksi/1998/1027/regulation/12/4A) inserted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2019/204/regulation/17/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fff246b4e882f5d138a1a60c7f312ef9]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1998/1027/regulation/13) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-78d7601f736faf5d1af2f596d0c50a15]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1998/1027/regulation/14) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-a06b746d9d085b2f395f6d2154635525]: Modification: [Reg. 14](https://www.legislation.gov.uk/uksi/1998/1027/regulation/14) applied (with modifications) (8.5.1998) by [The Plants Breeders' Rights (Fees) Regulations 1998 (S.I. 1998/1021)](https://www.legislation.gov.uk/uksi/1998/1021), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1021/regulation/1), [6](https://www.legislation.gov.uk/uksi/1998/1021/regulation/6)
+
+[^key-94e44da2c08fba0710efc8375251ce82]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1998/1027/regulation/15) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-91fa98743880fab9d8ccf904ad9aabf6]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1998/1027/regulation/16) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-dec995d892729b169db6f98b588fb3e7]: Modification: [Reg. 16](https://www.legislation.gov.uk/uksi/1998/1027/regulation/16) applied (with modifications) (8.5.1998) by [The Plants Breeders' Rights (Fees) Regulations 1998 (S.I. 1998/1021)](https://www.legislation.gov.uk/uksi/1998/1021), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1021/regulation/1), [6](https://www.legislation.gov.uk/uksi/1998/1021/regulation/6)
+
+[^key-4d72a650e1022f62f02e80190923335b]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1998/1027/regulation/16/1) substituted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [17(3)](https://www.legislation.gov.uk/uksi/2019/204/regulation/17/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-805e77e49bc8c4c1652fa33c765113c8]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/1998/1027/regulation/16/2) substituted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [17(3)](https://www.legislation.gov.uk/uksi/2019/204/regulation/17/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e1fdc9169ee28c5bd96fca6e74361e2f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1998/1027/regulation/17) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-dc52a83fb51d17bd151b023932d8de61]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/1998/1027/regulation/17) substituted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [17(4)](https://www.legislation.gov.uk/uksi/2019/204/regulation/17/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ada9ac36aeb0331f7b3f85d716a8d21a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1998/1027/regulation/18) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-bd9906ec296189bdfeb26f5616658dba]: Modification: [Reg. 18](https://www.legislation.gov.uk/uksi/1998/1027/regulation/18) applied (with modifications) (8.5.1998) by [The Plants Breeders' Rights (Fees) Regulations 1998 (S.I. 1998/1021)](https://www.legislation.gov.uk/uksi/1998/1021), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1021/regulation/1), [6](https://www.legislation.gov.uk/uksi/1998/1021/regulation/6)
+
+[^key-14b67a0df771ba9e3902386c5b2fadb1]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1998/1027/regulation/19) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-b291202f6f02d1dae38841a3bbbead35]: Modification: [Reg. 19](https://www.legislation.gov.uk/uksi/1998/1027/regulation/19) applied (with modifications) (8.5.1998) by [The Plants Breeders' Rights (Fees) Regulations 1998 (S.I. 1998/1021)](https://www.legislation.gov.uk/uksi/1998/1021), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1021/regulation/1), [6](https://www.legislation.gov.uk/uksi/1998/1021/regulation/6)
+
+[^key-e842320d6ba18f4e519c33ae4bc6ef77]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1998/1027/regulation/20) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-569ba6d8c6984233119f0ec9cfd77602]: Modification: [Reg. 20](https://www.legislation.gov.uk/uksi/1998/1027/regulation/20) applied (with modifications) (8.5.1998) by [The Plants Breeders' Rights (Fees) Regulations 1998 (S.I. 1998/1021)](https://www.legislation.gov.uk/uksi/1998/1021), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1021/regulation/1), [6](https://www.legislation.gov.uk/uksi/1998/1021/regulation/6)
+
+[^key-ac99c0995dd974a648e3828a84ccf87d]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/1998/1027/regulation/20A) inserted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2019/204/regulation/17/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5815be106a168c6baf3d15a1492a559f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1998/1027/regulation/21) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^f00004]: Footnote: A substantial number of Schemes have been made and it is not appropriate to list them.
+
+[^f00005]: Footnote: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14).
+
+[^f00006]: Footnote: S.I. [1978/294](https://www.legislation.gov.uk/uksi/1978/294), to which there are amendments not relevant to these Regulations.
+
+[^key-fd406800d7099b8818b8c0df97502cf1]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1998/1027/regulation/22) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-91e9e06f1698bbfed74f79ba9a493ad0]: Commencement: [Sch. 1 Pt. A](https://www.legislation.gov.uk/uksi/1998/1027/schedule/1/part/A) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-1dfc02c85390e95cbdd129a02441e535]: Commencement: [Sch. 1 Pt. B](https://www.legislation.gov.uk/uksi/1998/1027/schedule/1/part/B) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^f01000]: Footnote: \*
+
+    *See* also section 25(3) which allows certain organisations and persons to make representations and be heard.
+
+[^key-9159bba8660e946c570cf0a49609ad92]: Commencement: [Sch. 1 Pt. C](https://www.legislation.gov.uk/uksi/1998/1027/schedule/1/part/C) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)
+
+[^key-1979e6cb70606303d01074854360b0fc]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1998/1027/schedule/2) in force at 8.5.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1027/regulation/1)

@@ -1,0 +1,465 @@
+---
+title: The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019
+id: uksi/2019/253
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-02-13'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/253
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/253/pdfs/uksiem_20190253_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/253/pdfs/uksi_20190253_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/253/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 253
+
+Exiting The European Union
+
+Financial Services
+
+The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019
+
+Made
+
+13th February 2019
+
+Coming into force in accordance with regulation 1(2)
+
+[^c23564731]The Treasury, in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 , make the following Regulations.
+
+A draft of these Regulations has been laid before Parliament, and approved by a resolution of each House of Parliament, in accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018.[^key-d397f16f7a514397457e6ef46b0b3525]
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement[^key-e685d38ee000ada15d9a8839432015e0]
+
+(1) These Regulations may be cited as the Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019.
+
+(2) These Regulations come into force on exit day.
+
+## PART 2 — AMENDMENT OF SECONDARY LEGISLATION
+
+### 2. Money Laundering Amendments[^key-62d144cfe6bdf74e736aef5b3f132a1f]
+
+The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 [^c23564741] are amended in accordance with regulations 3 to 12.
+
+### 3. Part 1: introduction[^key-23d7c3914cbb659bdd34695137dbc9ee]
+
+In regulation 3(1)—
+
+- (a) omit the definition of “European Supervisory Authorities”;
+- (b)[^key-a0d9d226b8c3cb1d820e5aa7bc33b320] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) after the definition of “markets in financial instruments directive”, insert—
+
+  > “**markets in financial instruments regulation**” means Regulation (EU) 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments (as that Regulation forms part of domestic law under section 3 of the European Union (Withdrawal) Act 2018);
+
+  ;
+- (d) in the definition of “regulated market”—
+  - (i) for paragraph (a), substitute—
+
+    > - (a) within the United Kingdom, means a UK regulated market, as defined by Article 2(1)(13A) of the markets in financial instruments regulation;
+
+    ;
+  - (ii) for paragraph (b), substitute—
+
+    > - (b) outside the United Kingdom, means—
+    >   - (i) within the EEA, an EU regulated market, as defined by Article 2(1)(13B) of the markets in financial instruments regulation; or
+    >   - (ii) outside the EEA, a regulated financial market which subjects companies whose securities are admitted to trading to disclosure obligations which are equivalent to the specified disclosure obligations;
+
+    ;
+- (e) omit the definition of “the Solvency 2 directive”;
+- (f) in the definition of “specified disclosure obligations”—
+  - (i) for paragraph (b), substitute—
+
+    > - (b) disclosure obligations consistent with the requirements in—
+    >   - (i) sections 85, 87A and 87G of FSMA;
+    >   - (ii) prospectus rules within the meaning of Part 6 of FSMA (see section 73A(4) of FSMA) as those rules have effect on IP completion day[^key-2bfe54d89726ac6fa56cc93490b39c70];
+    >   - (iii)[^key-c31a345ebba902c854206347c3002ea0] Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market; and
+    >   - (iv) Articles 6 to 10 of Commission Delegated Regulation (EU) 2016/301 of 30 November 2015 supplementing Directive [2003/71/EC](https://www.legislation.gov.uk/eudr/2003/71) of the European Parliament and of the Council with regard to regulatory technical standards for approval and publication of the prospectus and dissemination of advertisements and amending Commission Regulation [(EC) No 809/2004](https://www.legislation.gov.uk/eur/2004/809); and
+
+    ;
+  - (ii) for paragraph (c), substitute—
+
+    > - (c) disclosure obligations consistent with the requirements in sections 4 and 5.5 of, and rules 6.1.1 to 6.1.15 in, the Disclosure Guidance and Transparency Rules source book made by the FCA under section 89A of FSMA as those rules have effect on IP completion day[^key-1d74c1ec0b47291b2a093e0e77da889e];
+
+    ;
+  - (iii) omit paragraph (d);
+- (g) in the definition of “third country” for “an EEA state” substitute “ the United Kingdom ”;
+- (h) after the definition of “trust or company service provider” insert—
+
+  > “**UK regulated market**” means a recognised investment exchange within the meaning of section 285(1)(a) of FSMA, which is not an overseas investment exchange within the meaning of section 313(1) of FSMA.
+
+  .
+
+### 4. Part 2: money laundering and terrorist financing - application[^key-566897d46a574c4c46dc314b47aa8201]
+
+(1) In regulation 9—
+
+- (a) omit paragraph (2);
+- (b) in paragraph (5)—
+  - (i) for “paragraphs (2) and (3)” substitute “ paragraph (3) ”;
+  - (ii) omit sub-paragraph (a).
+
+(2) In regulation 10—
+
+- (a) in paragraph (1)(b), for “an EEA state” substitute “ the United Kingdom ”;
+- (b) for paragraph (2)(b), substitute—
+
+  > - (b) an authorised person (within the meaning of section 31 of FSMA), who has permission under Part 4A of FSMA to carry out or effect contracts of insurance, when carrying out or effecting any contract of long-term insurance (an “insurance undertaking”);
+
+  ;
+- (c) in paragraph (2)(c)—
+  - (i) for “a person falling within Article 2 of the markets in financial instruments directive” substitute “ a person falling within one of the exclusions to the definition of “investment firm” in article 3(1) of the Regulated Activities Order ”;
+  - (ii) for “within the meaning of that directive” substitute “ within the meaning of that article ”;
+- (d) in paragraph (2)(f) after “that Directive” insert “ (and for this purpose, Article 2.7 is to be read as if “**insurance undertaking**” has the meaning given in sub-paragraph (b)) ”;
+- (e) in paragraph (2)(g), for “an EEA state” substitute “ the United Kingdom ”;
+- (f) in paragraph (3)(c), after “capital requirements directive” insert “ as set out in Schedule 2 ”;
+- (g) for paragraph (4), substitute—
+
+  > (4) For the purposes of this regulation—
+  >
+  > - (a) a “**listed activity**” means an activity listed in points 2 to 12, 14 and 15 of Annex 1 to the capital requirements directive as set out in Schedule 2;
+  > - (b) “**Regulated Activities Order**” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c23564751].
+
+  .
+
+### 5. Part 2: Money laundering and terrorist financing - risk assessment and controls[^key-107b18f50689a761f4cf3c56c491c4cb]
+
+(1) In regulation 16—
+
+- (a) paragraph (5) is omitted;
+- (b) in paragraph (7), omit sub-paragraphs (c), (d) and (e).
+
+(2) In regulation 17, in paragraph (2), omit sub-paragraphs (a) and (b).
+
+(3) In regulation 20—
+
+- (a) omit paragraph (2);
+- (b) after paragraph (5), insert—
+
+  > (6) The FCA may make technical standards specifying—
+  >
+  > - (a) what additional measures are required from credit institutions and financial institutions under paragraph (4); and
+  > - (b) the minimum action to be taken by credit institutions and financial institutions where paragraph (4) applies.
+
+  .
+
+(4) Omit regulation 22.
+
+### 6. Part 3: customer due diligence[^key-81f4b755d143cb4be79183091e420994]
+
+(1) In regulation 33—
+
+- (a) in paragraph (2)—
+  - (i) in the opening words, for “an EEA state” substitute “ a third country ”;
+  - (ii) for paragraph (a), substitute—
+
+    > - (a) the entity is—
+    >   - (i) subject to requirements in national legislation having an equivalent effect to those laid down in the fourth money laundering directive on an obliged entity (within the meaning of that directive); and
+    >   - (ii) supervised for compliance with those requirements in a manner equivalent to section 2 of Chapter VI of the fourth money laundering directive;
+
+    ;
+  - (iii) in paragraph (b), after “under” insert “ requirements equivalent to those laid down in ”;
+- (b) omit paragraph (8).
+
+(2) In regulation 37—
+
+- (a) in paragraph (3)—
+  - (i) in sub-paragraph (a)—
+    - (aa) for paragraph (iii)(aa), substitute—
+
+      > - (aa) subject to requirements in national legislation having an equivalent effect to those laid down in the fourth money laundering directive on an obliged entity (within the meaning of that directive); and
+
+      ;
+    - (bb) in paragraph (iii)(bb), for “in accordance with” substitute “ in a manner equivalent to ”;
+  - (ii) in sub-paragraph (b)(iv), for “an EEA state” substitute “ the United Kingdom ”;
+  - (iii) in sub-paragraph (c)(i), for “an EEA state” substitute “ the United Kingdom ”;
+- (b) in paragraph (6), for paragraph (b), substitute—
+
+  > - (b) a person who carries on business in a third country who is—
+  >   - (i) subject to requirements in national legislation having an equivalent effect to those laid down in the fourth money laundering directive on an obliged entity (within the meaning of that directive); and
+  >   - (ii) supervised for compliance with those requirements in a manner equivalent to section 2 of Chapter VI of the fourth money laundering directive.
+
+  ;
+- (c) omit paragraph (7).
+
+### 7. Part 4: reliance and record keeping[^key-f15b2b173f43473d0203dd5568d7490e]
+
+In regulation 39—
+
+- (a) in paragraph (3)—
+  - (i) omit sub-paragraph (b);
+  - (ii) in sub-paragraph (d), omit “, (b)”;
+- (b) in paragraph (5)—
+  - (i) in the words before sub-paragraph (a), omit “established in an EEA state”;
+  - (ii) for sub-paragraph (a), substitute—
+
+    > - (a) the entity is—
+    >   - (i) a person who is subject to the requirements in these Regulations as a relevant person within the meaning of regulation 8 and who is supervised for compliance with them; or
+    >   - (ii) subject to requirements in national legislation having an equivalent effect to those laid down in the fourth money laundering directive on an obliged entity (within the meaning of that directive) and supervised for compliance with those requirements in a manner equivalent to section 2 of Chapter VI of the fourth money laundering directive;
+
+    ;
+  - (iii) for sub-paragraph (b) substitute—
+
+    > - (b) the branch or subsidiary complies fully with procedures and policies established for the group under—
+    >   - (i) regulation 20 of these Regulations, or
+    >   - (ii) requirements in national legislation having an equivalent effect to those laid down Article 45 of the fourth money laundering directive.
+
+    ;
+- (c) in paragraph (6)(c), omit “other than the United Kingdom”.
+
+### 8. Part 5: beneficial ownership information[^key-778065d1667c3819770171c15dca66f4]
+
+In regulation 45—
+
+- (a) in paragraph (7)(e), for “EEA state or third country” substitute “ country ”;
+- (b) in paragraph (13)—
+  - (i) in the opening words, for “must” substitute “ may ”;
+  - (ii) in sub-paragraph (a), for the words from “provided for” to the end of the sub-paragraph, substitute “ equivalent to those provided for in these Regulations in a third country, or ”;
+  - (iii) in sub-paragraph (b), for “an EEA state other than the United Kingdom”, substitute “ a third country ”.
+
+### 9. Part 6: supervision and registration[^key-8644fd91fa8d0cd1b24a6f3c25af676a]
+
+(1) In regulation 46, in paragraph (3), omit sub-paragraph (a).
+
+(2) In regulation 47, in paragraph (3), omit sub-paragraphs (a) to (e).
+
+(3) In regulation 50—
+
+- (a) in paragraph (4)—
+  - (i) in sub-paragraph (a), omit “other than the United Kingdom”;
+  - (ii) in sub-paragraph (b), for “a country” substitute “ another country ”;
+- (b) omit paragraph (5).
+
+(4) In regulation 51, in paragraph (2), for the words from “comply with” to the end, substitute “ perform its functions under these Regulations ”.
+
+### 10. Part 7: Transfer of Funds (Information on the Payer) Regulations[^key-66e81c486eb372b659de532ecf4696da]
+
+(1) In regulation 63—
+
+- (a) omit paragraph (4);
+- (b) omit paragraph (9);
+- (c) in paragraph (10)—
+  - (i) in sub-paragraph (a), omit “other than the United Kingdom”;
+  - (ii) in sub-paragraph (b), for “a country” substitute “ another country ”.
+
+(2) In regulation 64—
+
+- (a) omit paragraph (1);
+- (b) in paragraph (2), omit the words from “(whether by” to “or otherwise)”.
+
+### 11. Part 8: information and investigation[^key-24bcc7737f595aff5838cef1e34d26d9]
+
+(1) In regulation 67, omit paragraph (5).
+
+(2) In regulation 69(1)(b), omit paragraph (i).
+
+(3) In Schedule 6, in paragraph 5, omit sub-paragraph (a)(v).
+
+### 12. Part 9: Enforcement[^key-eb4b8b71f95389cbea1c8a8e18679da7]
+
+(1) In regulation 76, in paragraph (6), omit sub-paragraph (a).
+
+(2) In regulation 86, in paragraph (2), omit sub-paragraph (a).
+
+### 13. Oversight of Professional Body Anti-Money Laundering and Counter Terrorist Financing Supervision Regulations 2017[^key-eb34d8da1f3bc4926caa63b77f6c439b]
+
+In the Oversight of Professional Body Anti-Money Laundering and Counter Terrorist Financing Supervision Regulations 2017 [^c23564761]—
+
+- (a) in regulation 2, omit the definition of “The European Supervisory Authorities”;
+- (b) in regulation 14(4), omit sub-paragraph (b);
+- (c) in regulation 16(4), omit sub-paragraph (b);
+- (d) in regulation 17(4), omit sub-paragraph (b).
+
+## PART 3 — AMENDMENT OF EU LEGISLATION
+
+### 14. Regulation (EU) 2015/847[^key-7d94feda63c4446bbbe0b8286aebdc2f]
+
+Regulation (EU) 2015/847 of the European Parliament and of the Council of 20 May 2015 on information accompanying transfer of funds and repealing Regulation [(EC) No 1781/2006](https://www.legislation.gov.uk/eur/2006/1781) is amended in accordance with regulations 15 to 19.
+
+### 15. Subject matter, scope and definitions[^key-317523a1be08f80b9198783ad83427cb]
+
+(1) In Article 1, for “Union” substitute “ United Kingdom ”.
+
+(2) Article 2 is amended as follows—
+
+- (a) in paragraph 1, for “Union” substitute “ United Kingdom ”;
+- (b) in paragraph 2, for “points (a) to (m) and (o) of Article 3 of Directive [2007/64/EC](https://www.legislation.gov.uk/eudr/2007/64)” substitute “ sub-paragraphs (a) to (m) and (o) of paragraph 2 of Schedule 1 to the Payment Services Regulations 2017 [^c23564771] ”;
+- (c) in paragraph 4(b), omit “within a Member State”;
+- (d) omit paragraph 5.
+
+(3) Article 3 is amended as follows—
+
+- (a) in point (1) (the definition of “terrorist financing”), for “Article 1(5) of Directive (EU) 2015/849” substitute “ regulation 3(1) of the 2017 Regulations ”;
+- (b) for point (2) (the definition of “money laundering”), substitute—
+
+  > (2) “**money laundering**” has the meaning given by section 340(11) of the Proceeds of Crime Act 2002 [^c23564781];
+
+  ;
+- (c) for point (5) (the definition of “payment service provider”), substitute—
+
+  > (5) “**payment services provider**” has the meaning given in regulation 2(1) of the Payment Services Regulations 2017;
+
+  ;
+- (d) for point (7) (the definition of “payment account”), substitute—
+
+  > (7) “**payment account**” has the meaning given in regulation 2(1) of the Payment Services Regulations 2017;
+
+  ;
+- (e) in point (8) (the definition of “funds”) for “point (15) of Article 4 of Directive [2007/64/EC](https://www.legislation.gov.uk/eudr/2007/64)” substitute “ regulation 2(1) of the Payment Services Regulations 2017 ”;
+- (f) in point (9) (the definition of “transfer of funds”), in point (c), for “point (13) of Article 4 of Directive [2007/64/EC](https://www.legislation.gov.uk/eudr/2007/64)” substitute “ regulation 2(1) of the Payment Services Regulations 2017 ”;
+- (g) after point (12), insert—
+
+  > (13) “**the 2017 Regulations**” means the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017.
+
+  .
+
+### 16. Obligations on payment service providers[^key-b29ad3de81a9876b0d9e2f9489f1e969]
+
+(1) In Article 4, in paragraph 5—
+
+- (a) for “Article 13 of Directive (EU) 2015/849” substitute “ regulation 28 of the 2017 Regulations ”;
+- (b) for “Article 40 of that Directive” substitute “ regulation 40 of those Regulations ”;
+- (c) for “Article 14(5) of Directive (EU) 2015/849” substitute “ regulation 27(8) of the 2017 Regulations ”.
+
+(2) In Article 5, in paragraph 1, for “Union” substitute “ United Kingdom or Gibraltar ”;
+
+(3) In Article 6, in paragraphs 1 and 2, for “Union” substitute “ United Kingdom or Gibraltar ”;
+
+(4) In Article 7—
+
+- (a) in paragraph 2, for “Union”, each time it occurs, substitute “ United Kingdom or Gibraltar ”;
+- (b) in paragraph 3, for “Articles 69 and 70 of Directive [2007/64/EC](https://www.legislation.gov.uk/eudr/2007/64)” substitute “ regulations 52 and 53 of the Payment Services Regulations 2017 ”;
+- (c) in paragraph 5—
+  - (i) for “Article 13 of Directive (EU) 2015/849” substitute “ regulation 28 of the 2017 Regulations ”;
+  - (ii) for “Article 40 of that Directive” substitute “ regulation 40 of those Regulations ”;
+  - (iii) for “Article 14(5) of Directive (EU) 2015/849” substitute “ regulation 27(8) of the 2017 Regulations ”.
+
+(5) In Article 8.1, for “Article 13 of Directive (EU) 2015/849” substitute “ regulation 28 of the 2017 Regulations ”.
+
+(6) In Article 9, for “Directive (EU) 2015/849”, substitute “ the 2017 Regulations ”.
+
+(7) In Article 11(2), for “Union” each time it occurs, substitute “ United Kingdom or Gibraltar ”.
+
+(8) In Article 13, for “Directive (EU) 2015/849”, substitute “ the 2017 Regulations ”.
+
+### 17. Information, data protection and record-retention[^key-646c1a72715bc679ee4425b3db3dc630]
+
+(1) In Article 14—
+
+- (a) omit the words from “, including by” to “are established”;
+- (b) for “that Member State” substitute “ the United Kingdom or Gibraltar ”.
+
+(2) In Article 15—
+
+- (a) in paragraph 1—
+  - (i) for “Regulation (EU) 2016/679 of the European Parliament and of the Council[^key-784b4d2dc1a9262fe3259992b16fed5c]” substitute “ the data protection legislation (within the meaning of section 3(9) of the Data Protection Act 2018 [^c23564791]) ”;
+  - (ii) omit the second sentence;
+- (b) in paragraph 3, for “Article 10 of Directive [95/46/EC](https://www.legislation.gov.uk/eudr/1995/46)” substitute “ Article 13 of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data ”.
+
+### 18. Sanctions and monitoring[^key-56bea1dc6f3c3d718c006a43445bbc7c]
+
+Omit Articles 17 to 22.
+
+### 19. Implementing powers and derogations[^key-90ce146599d6f70616302dab92261f06]
+
+Omit Articles 23 to 25.
+
+### 20. Commission Delegated Regulation (EU) 2018/1108[^key-4fb725b30843233b61ae53ec0d4593ed]
+
+Commission Delegated Regulation (EU) 2018/1108 of 7th May 2018 supplementing Directive (EU) 2015/849 of the European Parliament and of the Council with regulatory technical standards on the criteria for the appointment of central contact points for electronic money issuers and payment service providers and with rules on their functions is revoked.
+
+Jeremy Quin
+
+Rebecca Harris
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers in section 8(1) of the European Union (Withdrawal) Act 2018 in order to address failures of retained EU law to operate effectively and other deficiencies arising from the withdrawal of the United Kingdom from the European Union (and in particular the deficiencies referred to in paragraphs (a), (b), (c) and (f) of subsection (2)). They amend the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017, the Oversight of Professional Body Anti-Money Laundering and Counter Terrorist Financing Supervision Regulations 2017 and Regulation (EU) 2015/847 of the European Union and of the Council on information accompanying transfers of funds and repealing Regulation [(EC) No 178/2006](https://www.legislation.gov.uk/european/regulation/2006/0178) (OJ L141, 5.6.2015, p.1). They also revoke Commission Delegated Regulation (EU) 2018/1108 of 7th May 2018 supplementing Directive (EU) 2015/849 of the European Parliament and of the Council with regulatory technical standards on the criteria for the appointment of central contact points for electronic money issuers and payment service providers and with rules on their functions.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^c23564731]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-d397f16f7a514397457e6ef46b0b3525]: Modification: Regulations modified (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)(4)(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e685d38ee000ada15d9a8839432015e0]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-62d144cfe6bdf74e736aef5b3f132a1f]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^c23564741]: Marginal citation: [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692).
+
+[^key-23d7c3914cbb659bdd34695137dbc9ee]: Commencement: Reg. 3 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-a0d9d226b8c3cb1d820e5aa7bc33b320]: Textual amendment: [Reg. 3(b)](https://www.legislation.gov.uk/uksi/2019/253/regulation/3/b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/3), [8(2)(a)](https://www.legislation.gov.uk/uksi/2020/628/regulation/8/2/a)
+
+[^key-2bfe54d89726ac6fa56cc93490b39c70]: Textual amendment: Words in reg. 3(f)(i) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 14(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/14/a)
+
+[^key-c31a345ebba902c854206347c3002ea0]: Textual amendment: Words in [reg. 3(f)(i)](https://www.legislation.gov.uk/uksi/2019/253/regulation/3/f/i) substituted (31.12.2020 immediately before IP completion day) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/3), [8(2)(b)](https://www.legislation.gov.uk/uksi/2020/628/regulation/8/2/b)
+
+[^key-1d74c1ec0b47291b2a093e0e77da889e]: Textual amendment: Words in reg. 3(f)(ii) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 14(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/14/b)
+
+[^key-566897d46a574c4c46dc314b47aa8201]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^c23564751]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
+
+[^key-107b18f50689a761f4cf3c56c491c4cb]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-81f4b755d143cb4be79183091e420994]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-f15b2b173f43473d0203dd5568d7490e]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-778065d1667c3819770171c15dca66f4]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-8644fd91fa8d0cd1b24a6f3c25af676a]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-66e81c486eb372b659de532ecf4696da]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-24bcc7737f595aff5838cef1e34d26d9]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-eb4b8b71f95389cbea1c8a8e18679da7]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-eb34d8da1f3bc4926caa63b77f6c439b]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^c23564761]: Marginal citation: [S.I. 2017/1301](https://www.legislation.gov.uk/uksi/2017/1301).
+
+[^key-7d94feda63c4446bbbe0b8286aebdc2f]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-317523a1be08f80b9198783ad83427cb]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^c23564771]: Marginal citation: [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752).
+
+[^c23564781]: Marginal citation: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
+
+[^key-b29ad3de81a9876b0d9e2f9489f1e969]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-646c1a72715bc679ee4425b3db3dc630]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-784b4d2dc1a9262fe3259992b16fed5c]: Textual amendment: Words in [reg. 17(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/253/regulation/17/2/a/i) substituted (31.12.2020 immediately before IP completion day) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2020/628/regulation/8/3)
+
+[^c23564791]: Marginal citation: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).
+
+[^key-56bea1dc6f3c3d718c006a43445bbc7c]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-90ce146599d6f70616302dab92261f06]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+
+[^key-4fb725b30843233b61ae53ec0d4593ed]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)

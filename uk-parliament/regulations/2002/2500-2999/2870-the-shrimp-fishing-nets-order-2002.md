@@ -1,0 +1,172 @@
+---
+title: The Shrimp Fishing Nets Order 2002
+id: uksi/2002/2870
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2002-11-18'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2002/2870
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/2870/pdfs/uksi_20022870_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/2870/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Shrimp Fishing Nets Order 2002
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2002 No. 2870
+
+SEA FISHERIES, ENGLAND
+
+CONSERVATION OF SEA FISH
+
+The Shrimp Fishing Nets Order 2002
+
+Made
+
+18th November 2002
+
+Laid before Parliament
+
+21st November 2002
+
+Coming into force
+
+1st January 2003
+
+The Secretary of State for Environment, Food and Rural Affairs and the Secretary of State concerned with sea fishing in Northern Ireland in exercise of the powers conferred upon them by sections 3(1) and 15(3) of the Sea Fish (Conservation) Act 1967[^f00001] make the following Order:
+
+## 1. Citation, commencement and application[^key-ea52b0ffca59fc0d4f8782ec89c65e6c]
+
+(1) This Order may be cited as the Shrimp Fishing Nets Order 2002 and shall come into force on 1st January 2003.
+
+(2)[^key-e1d117205c8db8a0e017a2046877cbb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Interpretation[^key-e3de36cecf17f4d4d3f08be8f89648ff]
+
+(1) In this Order:
+
+- [^key-fe2d5aa94a7effd0d48503035880e569]...
+- “codend” means the rearmost part of a net, being made up of one or more panels comprising pieces of netting of the same mesh size attached to one another along their sides in the long axis of the net by a lacing;
+- “Northern Ireland fishing boat” means a vessel which is registered in the register maintained under section 8 of the Merchant Shipping Act 1995 and whose entry in the register specifies a port in Northern Ireland as the port to which the vessel is to be treated as belonging;
+- “Northern Ireland zone” means the sea within British fishery limits which is adjacent to Northern Ireland.
+- “[^key-6449e39940963255bade4238dd217184]**regulated fishing boat**” means—
+- (a) a fishing boat which is registered in the United Kingdom or is British-owned, or
+- (b) a foreign fishing boat;
+
+(2) For the purposes of this Order, the mesh of a net or netting shall be measured in accordance with [Commission Regulation (EC) No 517/2008](https://www.legislation.gov.uk/european/regulation/2008/0517)[^key-69380c7a23aff097002780726b9bdd6c] laying down detailed rules for the implementation of Council Regulation [(EC) No 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) as regards the determination of the mesh size and assessing the thickness of twine of fishing nets.
+
+## 3. Prohibition on fishing for shrimps without a separator trawl or sorting grid[^key-b0ee2ab5f1bce0decbd42c233e13ed79]
+
+(1) No regulated fishing boat[^key-f8e7496a78c6333c0bd57edd09adff27] shall carry or deploy a net, whose mesh measures between 16 and 31 millimetres unless—
+
+- (a) netting, the mesh of which measures at least twice that of the codend and no more than 70 millimetres, is fitted across the entire cross-section of the net in such a way that—
+  - (i) sea fish cannot reach the codend without first passing through the netting; and
+  - (ii) there is a hole in the net through which all sea fish that do not pass through the netting are able to escape;
+- (b) a rigid grid, the spacing between the bars of which is no more than 20 millimetres, is fitted across the entire cross-section of the net in such a way that—
+  - (i) sea fish cannot reach the codend without first passing through the grid; and
+  - (ii) there is a hole in the net through which all sea fish that do not pass through the grid are able to escape;
+- (c) no sea fish have been caught; or
+- (d) where sea fish have been caught, less than 60 per cent by live weight of the total catch comprises common shrimps (Crangon spp.), Aesop shrimps (Pandalus montagui) or a combination of the two, and the retention of sea fish on board the boat is consistent with Article 25 of Council Regulation 850/98 [^key-be00725153fa25734580b1c883b653c8]... for the conservation of fishery resources through technical measures for the protection of juveniles of marine organisms[^f00005] , as last amended by Regulation (EU) 2015/812 of the European Parliament and of the Council[^key-23447f7d1899106f443989904e13459d].
+
+(2) The prohibition in this article shall not apply to fishing boats with either—
+
+- (a) an aggregate beam width of 8 metres or less; or
+- (b) a net headline of 8 metres or less.
+
+(3)[^key-dbda9f502fbeae3c1712f443af38e4eb] The prohibition in this article does not apply to—
+
+- (a) a fishing boat in the territorial sea adjacent to Wales,
+- (b) a Scottish fishing boat either in the Scottish zone or outside British fishery limits,
+- (c) a Northern Ireland fishing boat either in the Northern Ireland zone or outside British fishery limits, or
+- (d) a foreign fishing boat outside British fishery limits.
+
+## 4. Powers of British sea-fishery officers[^key-e8feba59d3864ebe85f716bd6bafbd17]
+
+(1) For the purposes of enforcing this Order or any other Order (made under section 3 of the Sea Fish (Conservation) Act 1967) implementing a similar prohibition to that in article 3 and applying to any category of fishing boat, a British sea-fishery officer may exercise the powers conferred by this article—[^key-fa43028eb84cc42d0afb5c2b0abeeffd]
+
+- (a) in relation to a regulated fishing boat that is not a Scottish fishing boat or a foreign fishing boat, wherever it may be; and
+- (b) in relation to any other regulated fishing boat, in any waters adjacent to the United Kingdom and within relevant British fishery limits.
+
+(2) He may go on board the boat, with or without persons assigned to assist him in his duties, and for that purpose may require the boat to stop and do anything else which will facilitate the boarding of the boat.
+
+(3) He may require the attendance of the master and other persons on board the boat and may make any examination and inquiry which appears to him to be necessary for the purpose of enforcing this Order and, in particular—
+
+- (a) may examine any fish on the boat and the equipment of the boat, including the fishing gear, and require persons on board the boat to do anything which appears to him to be necessary for facilitating the examination; and
+- (b) may require any person on board the boat to produce any document relating to the boat, to its fishing operations or other operations ancillary thereto or to the persons on board which is in his custody or possession and may take copies of any such document;
+- (c) for the purpose of ascertaining whether the master, owner or charterer of the boat has committed an offence under section 3(5) of the Sea Fish (Conservation) Act 1967 as read with this Order, may search the boat for any such document and may require any person on board the boat to do anything which appears to him to be necessary for facilitating the search;
+- (d) where the boat is one in relation to which he has reason to suspect that such an offence has been committed, may seize and detain any such document produced to him or found on board for the purpose of enabling the document to be used as evidence in proceedings for the offence;
+
+but nothing in sub-paragraph (d) shall permit any document required by law to be carried on board the boat to be seized and detained except while the boat is detained in a port.
+
+(4) Where it appears to a British sea-fishery officer that a contravention of any provision of this Order has at any time taken place, he may—
+
+- (a) require the master of the boat in relation to which the contravention took place to take, or himself take, the boat and its crew to the port which appears to him to be the nearest convenient port; and
+- (b) detain or require the master to detain the boat in the port;
+
+and where such an officer detains or requires the detention of a boat he shall serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea-fishery officer.
+
+Elliot Morley
+
+Parliamentary Under Secretary of State,
+
+Department for Environment, Food and Rural Affairs
+
+Paul Murphy
+
+Secretary of State for Northern Ireland
+
+(This note is not part of the Order)
+
+This Order regulates the carriage and use of any fishing nets with mesh size between 16 and 31 millimetres, measured in accordance with Commission Regulation [(EEC) No. 2108/1984](https://www.legislation.gov.uk/european/regulation/1984/2108) of 23rd July 1984. It sets out the national provisions called for by Article 25 of Council Regulation [(EC) No. 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) of 30th March 1998, by specifying veil nets and sorting grids as the types of device required to be used.
+
+The Order does not apply to Scottish fishing boats in the Scottish zone or outside British fishery limits, to Northern Ireland boats in the Northern Ireland zone or outside British fishery limits or to any boats in the territorial sea adjacent to Wales. The Order prohibits all other British fishing boats from carrying or using such nets other than in certain specified circumstances (article 3).
+
+The specified exceptions are where defined attachments are fitted to the net (article 3(1)(a)-(b)), where no sea fish have been caught (article 3(1)(c)) or where less than 60 per cent by live weight of the total catch comprises common shrimps and/or Aesop shrimps, and any sea fish retained on board are retained in accordance with Article 25 of Council Regulation [(EC) No. 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) (article (3)(1)(d)).
+
+If any boat breaches this prohibition, the master, owner and charterer is guilty of an offence and is liable to a fine not exceeding £5,000 on summary conviction and on conviction on indictment to a fine (sections 3(5) and 11(1)(b) of the Sea Fish (Conservation) Act 1967). The court may also impose an additional fine not exceeding the value of the fish caught with the net or order the net’s forfeiture (section 11(2)-(3) of the 1967 Act).
+
+Additionally the Order confers powers of enforcement on British sea-fishery officers for the purposes of enforcing this Order or any equivalent Order implementing similar prohibitions in relation to any categories of fishing boat.
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84). Section 3 was amended by the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86), Schedule 2, paragraph 16(1), the Inshore Fishing (Scotland) Act [1984 (c. 26)](https://www.legislation.gov.uk/ukpga/1984/26), Schedule 1 and the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 43(1), (2) and (4). Section 15(3) was substituted by the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77), Schedule 1, paragraph 38(3) and amended by the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86), Schedule 2, paragraph 16(1) and S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), Schedule 2, paragraph 43(2)(b). See section 22(2)(a) for definitions of “the Ministers” for the purposes of sections 3 and 15(3); section 22(2) was amended by the Fisheries Act [1981 (c. 28)](https://www.legislation.gov.uk/ukpga/1981/28), sections 19(2)(d) and 45(b) and (c) and by S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), Schedule 2, paragraph 43(12). By virtue of article 2(a) of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)) the functions exercisable under section 3 of the 1967 Act were transferred to the National Assembly in so far as exercisable in relation to Wales (defined in section 155(1) of the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38) as including “the sea adjacent to Wales out as far as the seaward boundary of the territorial sea”); in respect of waters beyond Wales these functions remain exercisable by the Ministers. Section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) as read with article 3(1) and Schedule 1 of the Scotland Act 1998 (Concurrent Functions) Order 1999 (S.I. [1999/1592](https://www.legislation.gov.uk/uksi/1999/1592)) provide for the functions exercisable under sections 3(1), (3) and (4) and 15(3) of the 1967 Act to be exercised by the Ministers, concurrently with Scottish Ministers, in relation to: relevant British fishing boats within the Scottish zone; and, Scottish fishing boats within British fishery limits but outside the Scottish zone. By virtue of article 2(1) of, and the Schedule to, the Transfer of Functions (Agriculture and Fisheries) Order 2000 (S.I. [2000/1812](https://www.legislation.gov.uk/uksi/2000/1812)) any remaining functions of the Secretaries of State for Scotland and Wales under sections 3 and 15(3) of the 1967 Act were transferred to the Minister of Agriculture, Fisheries and Food. By virtue of paragraph 2 of Schedule 1 to the Sea Fisheries (Northern Ireland) Order 2002 (S.I. [2002/790](https://www.legislation.gov.uk/uksi/2002/790)), an order under section 3 of the 1967 Act may make provision applying only to relevant British fishing boats other than Northern Ireland fishing boats. By virtue of paragraph 3(1)(b) of that Schedule the functions of the Ministers under section 3 of the 1967 Act of making an order requiring nets and other fishing gear carried in Northern Ireland fishing boats or in the Northern Ireland zone to comply with prescribed requirements was transferred to the Department of Agriculture and Rural Development, but by virtue of paragraph 3(2), the Ministers retain a concurrent function to make an order in relation to British fishing boats, other than Northern Ireland fishing boats, within the Northern Ireland zone and in relation to Northern Ireland fishing boats within British fishery limits but outside the Northern Ireland zone. The functions of the Minister of Agriculture, Fisheries and Food and one or more named Secretaries of State (however described) acting jointly were transferred to the Secretary of State for Environment, Food and Rural Affairs and the one or more Secretaries of State acting jointly by virtue of article 2(5) of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. [2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
+
+[^key-ea52b0ffca59fc0d4f8782ec89c65e6c]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2002/2870/article/1) in force at 1.1.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2002/2870/article/1/1)
+
+[^key-e1d117205c8db8a0e017a2046877cbb5]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/uksi/2002/2870/article/1/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/8/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-e3de36cecf17f4d4d3f08be8f89648ff]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2002/2870/article/2) in force at 1.1.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2002/2870/article/1/1)
+
+[^key-fe2d5aa94a7effd0d48503035880e569]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2002/2870/article/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 8(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/8/3/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-6449e39940963255bade4238dd217184]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2002/2870/article/2) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/8/3/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-69380c7a23aff097002780726b9bdd6c]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2870/article/2/2) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [50(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/50/2)
+
+[^key-b0ee2ab5f1bce0decbd42c233e13ed79]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2002/2870/article/3) in force at 1.1.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2002/2870/article/1/1)
+
+[^key-f8e7496a78c6333c0bd57edd09adff27]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2002/2870/article/3/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 8(4)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/8/4/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-be00725153fa25734580b1c883b653c8]: Textual amendment: Words in [art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2002/2870/article/3/1/d) omitted (17.9.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [50(3)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/50/3/a)
+
+[^f00005]: Footnote: OJ No. L 125, 27.4.1998, p. 1.
+
+[^key-23447f7d1899106f443989904e13459d]: Textual amendment: Words in [art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2002/2870/article/3/1/d) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [50(3)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/50/3/b)
+
+[^key-dbda9f502fbeae3c1712f443af38e4eb]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2002/2870/article/3/3) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 8(4)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/8/4/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-e8feba59d3864ebe85f716bd6bafbd17]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2002/2870/article/4) in force at 1.1.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2002/2870/article/1/1)
+
+[^key-fa43028eb84cc42d0afb5c2b0abeeffd]: Textual amendment: [Art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2002/2870/article/4/1/a)[(b)](https://www.legislation.gov.uk/uksi/2002/2870/article/4/1/b) substituted for words (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 8(5)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/8/5) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

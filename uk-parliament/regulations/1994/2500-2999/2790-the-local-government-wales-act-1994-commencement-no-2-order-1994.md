@@ -1,0 +1,86 @@
+---
+title: The Local Government (Wales) Act 1994 (Commencement No 2) Order 1994
+id: uksi/1994/2790
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1994-10-19'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/2790
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/2790/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Government (Wales) Act 1994 (Commencement No 2) Order 1994
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1994 No. 2790 (C.62)
+
+LOCAL GOVERNMENT, ENGLAND AND WALES
+
+WALES
+
+The Local Government (Wales) Act 1994 (Commencement No 2) Order 1994
+
+Made
+
+19th October 1994
+
+The Secretary of State for Wales, in exercise of the powers conferred upon him by sections 63(5) and 66(3) of the Local Government (Wales) Act 1994[^f00001], hereby makes the following Order:—
+
+**1.** (1) This Order may be cited as the Local Government (Wales) Act 1994 (Commencement No. 2) Order 1994.
+
+(2) In this Order—
+
+- “the 1994 Act” means the Local Government (Wales) Act 1994;
+- “the 1972 Act” means the Local Government Act 1972[^f00002].
+
+**2.** (1) Subject to paragraphs (2) and (3) below, the provisions of the 1994 Act which are specified in the Schedule to this Order shall come into force on 24th October 1994.
+
+(2) The provisions of section 1(5), (6) and (8) of the 1994 Act brought into force by this Order shall have effect only for the interpretation of Part IV of the 1972 Act as amended in consequence of this Order.
+
+(3) The provisions of sections 54, 55(5), 56(1) and (5), 58(4), 59(2), 72, 73, and 270(1) of the 1972 Act in force immediately prior to the commencement of this Order shall continue to have effect in relation to the administration of local government in Wales before 1st April 1996.
+
+John Redwood
+
+Secretary of State for Wales
+
+19th October 1994
+
+## SCHEDULE — PROVISIONS OF THE 1994 ACT COMING INTO FORCE ON 24th OCTOBER 1994
+
+Article 2(1)
+
+| *Provision of the 1994 Act* | *Subject matter of provision* |
+| --- | --- |
+| Section 1(4) | Definitions — introductory. |
+| Section 1(5) | Definition of “local authority”. |
+| Section 1(6) | Definition of “local government area”. |
+| Section 1(8) | Definition of “principal area”. |
+| Paragraphs 4 and 5 of Schedule 2 and section 1(3) so far as it relates thereto | The Local Government Boundary Commission for Wales and related matters. |
+| Paragraphs 1, 7, 8(5), 9(4)(b), 11(2), 12(b), 18, 19 and 57 of Schedule 15 and section 66(5) so far as it relates thereto | As above. |
+| In Schedule 18, the repeals to sections 55(5)(a), 59(2) and 72(2) of the 1972 Act and section 66(8) so far as it relates thereto | Consequential repeals. |
+
+(This note is not part of the Order)
+
+The Order brings into force on 24th October 1994 those provisions of the Local Government (Wales) Act 1994 specified in the Schedule to the Order.
+
+(This note is not part of the Order)
+
+The following provisions of the 1994 Act have been brought into force by the Local Government (Wales) Act 1994 (Commencement No. 1) Order 1994 ([SI 1994/2109](https://www.legislation.gov.uk/uksi/1994/2109)):
+
+- Section 41
+- Section 52
+- Section 65.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19).
+
+[^f00002]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).

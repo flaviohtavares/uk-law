@@ -1,0 +1,63 @@
+---
+title: Public Services Ombudsman (Wales) Act 2005, section 34U
+act: Public Services Ombudsman (Wales) Act 2005
+section: 34U
+status: revised-with-pending-changes
+text_date: '2019-07-23'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2005/10/section/34U
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Public Services Ombudsman (Wales) Act 2005, section 34U
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2019-07-23. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/10
+>
+> Extent: England, Wales.
+
+## 34U. Consultation and co-operation with other ombudsmen[^key-cc96a2831599042c9f50396815a8ed9b]
+
+*Extent: E+W*
+
+(1) This section applies if, in making a decision under section 2(5) or 34B(8) or conducting an investigation under Part 2 or 2A, the Ombudsman forms the opinion that a matter which is the subject of the complaint or investigation could be the subject of an investigation by an ombudsman mentioned in subsection (7).
+
+(2) The Ombudsman must consult that ombudsman about the matter.
+
+(3) The Ombudsman may co-operate with that ombudsman in relation to the matter.
+
+(4) Consultation under subsection (2), and co-operation under subsection (3), may extend to anything relating to a matter which is the subject of the complaint or investigation, including (among other things)—
+
+- (a) the conduct of an investigation into the complaint, and
+- (b) the form, content and publication of a report of the investigation.
+
+(5) If the Ombudsman consults an ombudsman about a matter under subsection (2), the Ombudsman and that ombudsman may—
+
+- (a) conduct a joint investigation into the matter,
+- (b) prepare a joint report in relation to the investigation, and
+- (c) publish the joint report.
+
+(6) Subsection (5) does not apply if the ombudsman consulted under subsection (2) is the Scottish Public Services Ombudsman.
+
+(7) The ombudsmen referred to in subsection (1) are—
+
+- (a) the Parliamentary Commissioner for Administration;
+- (b) the Health Service Commissioner for England;
+- (c) a Local Commissioner;
+- (d) the Scottish Public Services Ombudsman;
+- (e) a housing ombudsman appointed in accordance with a scheme approved under section 51 of the Housing Act 1996;
+- (f) the Children's Commissioner for Wales.
+
+(8) The Welsh Ministers may by order amend subsection (7) by—
+
+- (a) adding a person,
+- (b) omitting a person, or
+- (c) changing the description of a person.
+
+(9) An order under subsection (8) may add a person to subsection (7) only if the person appears to the Welsh Ministers to have functions relating to the investigation of complaints.
+
+(10) No order is to be made under subsection (8) unless a draft of the statutory instrument containing it has been laid before and approved by a resolution of the Assembly.
+
+## Annotations
+
+[^key-cc96a2831599042c9f50396815a8ed9b]: Textual amendment: Pts. 2A, 2B inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/2) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/3)); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)

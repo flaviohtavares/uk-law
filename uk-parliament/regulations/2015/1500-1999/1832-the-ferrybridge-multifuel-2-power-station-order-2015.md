@@ -1,0 +1,1619 @@
+---
+title: The Ferrybridge Multifuel 2 Power Station Order 2015
+id: uksi/2015/1832
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-10-28'
+text_date: '2025-04-28'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2015/1832
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/1832/pdfs/uksi_20151832_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1832/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Ferrybridge Multifuel 2 Power Station Order 2015
+
+> Text as at 2025-04-28.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2015 No. 1832
+
+Infrastructure Planning
+
+The Ferrybridge Multifuel 2 Power Station Order 2015
+
+Made
+
+28th October 2015
+
+Coming into force
+
+19th November 2015
+
+An application has been made to the Secretary of State under section 37 of the Planning Act 2008[^f00001] (the “2008 Act”), and in accordance with the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^f00002], for an Order under sections 114, 115, and 120 of the 2008 Act.
+
+The application was examined by a single appointed person (appointed by the Secretary of State) in accordance with Chapter 4 of Part 6 of the 2008 Act and the Infrastructure Planning (Examination Procedure) Rules 2010[^f00003].
+
+The single appointed person, having considered the application with the documents that accompanied it and the representations made and not withdrawn, has submitted a report with a recommendation to the Secretary of State.
+
+The Secretary of State, having considered the report and recommendation of the single appointed person, has decided the application and determined to make an Order giving effect to the proposals comprised in the application with modifications which in the opinion of the Secretary of State do not make substantial changes to the proposals.
+
+The Secretary of State, in exercise of the powers conferred by sections 114, 115 and 120 of the 2008 Act, makes the following Order—[^key-895403eff51b2f3dc4f6b85d564756c5]
+
+## PART 1 — PRELIMINARY
+
+### 1. Citation and commencement[^key-fa1b4fe733db090ad80d8044ccbca9e6]
+
+(1) This Order may be cited as the Ferrybridge Multifuel 2 Power Station Order 2015.
+
+(2) This Order comes into force on 19th November 2015.
+
+### 2. Interpretation[^key-39df83de1aa5d0d893958090feae15cd]
+
+(1) In this Order—
+
+- “1961 Act” means the Land Compensation Act 1961[^f00004];
+- “1971 Act” means the Banking and Financial Dealings Act 1971[^f00005];
+- “1980 Act” means the Highways Act 1980[^f00006];
+- “1989 Act” means the Electricity Act 1989[^f00007];
+- “1991 Act” means the New Roads and Street Works Act 1991[^f00008];
+- “2008 Act” means the Planning Act 2008;
+- “[^key-d266c1c662bc689906f029c5486f30f5]**2016 Regulations**” means the Environmental Permitting (England and Wales) Regulations 2016;
+- “authorised development” means the development and associated development described in Schedule 1 (the authorised development) which is development within the meaning of section 32 of the 2008 Act;
+- “building” includes any structure or erection or any part of a structure or erection;
+- “business day” means any day except—
+  - (a) Christmas Day;
+  - (b) Good Friday;
+  - (c) a day that is a bank holiday in England and Wales by virtue of section 1 of the 1971 Act;
+  - (d) any other day that is a Saturday or a Sunday;
+- “carriageway” has the same meaning as in the 1980 Act;
+- “environmental statement” means the environmental statement (including the figures and appendices) submitted with the application for this Order and certified as the environmental statement by the Secretary of State for the purposes of this Order under article 23;
+- “FM1 Power Station” means the Ferrybridge Multifuel 1 power station within the Ferrybridge Power Station site, north-west of Knottingley, West Yorkshire, for which consent under section 36 of the Electricity Act 1989 was granted in October 2011;
+- “heavy goods vehicle” means a motor vehicle constructed or adapted to carry or to haul goods of more than 3.5 tonnes in weight;
+- “highway” has the same meaning as in the 1980 Act;
+- “highway authority” has the same meaning as in the 1980 Act;
+- “light goods vehicle” means a motor vehicle constructed or adapted to carry or to haul goods of not more than 3.5 tonnes in weight;
+- “maintain” includes (i) inspect, repair, adjust, alter, improve, refurbish, and (ii) in relation to a part of a work (but not the whole of a work) of the authorised development, remove, clear, demolish, decommission, reconstruct or replace; and “maintenance” and other cognate expressions are to be construed accordingly;
+- “MWe” means megawatts of electrical output;
+- “Order land” means the land required for the authorised[^key-abeaf15cb211f54b501a68fa9d1d9fce] development shown on the Order plan which is within the Order limits;
+- “Order limits” means the limits, shown by the red line boundary on the Order plan, within which the authorised development may be carried out;
+- “Order plan” means the document certified as the Order plan by the Secretary of State for the purposes of this Order under article 23;
+- “owner”, in relation to land, has the same meaning as in section 7 of the Acquisition of Land Act 1981[^f00010];
+- “a part” of the authorised development means any part of Works Nos. 1-4;
+- “planning authority” means Wakefield Metropolitan District Council, as the planning authority for the area in which the Order land is situated;
+- “[^key-ffa264ad973fbc372a88a2c5d93b1829]**processed municipal solid waste**” includes, for the purposes of this Order, waste falling within class 20 03 01 of the Annex to Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/european/decision/2000/0532) \[2000\] OJ L226/3 as amended by Commission [Decision 2001/118/EC](https://www.legislation.gov.uk/european/decision/2001/0118) \[2001\] OJ L47/1, Commission [Decision 2001/119/EC](https://www.legislation.gov.uk/european/decision/2001/0119) \[2001\] OJ L47/32, Council [Decision 2001/573/EC](https://www.legislation.gov.uk/european/decision/2001/0573) \[2001\] OJ L203/18 and Commission [Decision 2014/955/EU](https://www.legislation.gov.uk/european/decision/2014/0955) \[2014\] OJ L370/44;
+- “requirements” means the requirements set out in Schedule 2 (the requirements); and a reference to a numbered requirement is a reference to the requirement imposed by the corresponding numbered paragraph of that Schedule;
+- “statutory undertaker” means any person falling within the meaning of section 127(8) of the 2008 Act;
+- “street” means a street within the meaning of section 48 of the 1991 Act, together with land on the verge of a street or between two carriageways, and includes any footpath, and “street” includes any part of a street;
+- “street authority”, in relation to a street, has the same meaning as in Part 3 of the 1991 Act;
+- “undertaker” means Multifuel Energy Limited (company number SC286672), having its registered office at Inveralmond House, 200 Dunkeld Road, Perth PH1 3AQ, subject to article 8 (transfer of the benefit of this Order);
+- “unnamed road” means the unnamed road to the east of and adjacent to the A1(M) which leads northwards from Stranglands Lane to the western boundary of Work No. 1A;
+- “waste derived fuel” means fuel derived from (i) processed municipal solid waste, (ii) commercial and industrial waste or (iii) waste wood;
+- “watercourse” includes all rivers, streams, ditches, drains, canals, cuts, culverts, dykes, sluices, sewers and passages through which water flows except a public sewer or drain; and
+- “works plans” means the documents certified collectively as the works plans by the Secretary of State for the purposes of this Order under article 23.
+
+(2) References in this Order to rights over land include references to rights to do or to place and maintain anything in, on or under land or in the airspace above its surface.
+
+(3) A reference in this Order to a “grid reference” is a reference to the map co-ordinates on the National Grid used by the Ordnance Survey.
+
+(4) All distances, directions and lengths referred to in this Order are approximate and distances between points on a work comprised in the authorised development are to be taken to be measured along that work.
+
+(5) All references in this Order to grid references and heights above ordnance datum are to be construed subject to the tolerances to which Ordnance Survey measures them.
+
+(6) A reference in this Order to a “Work” identified by a number is a reference to the Work of that number described in Schedule 1 and shown on the works plans.
+
+### 3. Electronic communications[^key-9feefaea5fb50a2fe4e23a39354c06ff]
+
+(1) In this Order—
+
+- (a) references to documents, maps, plans, drawings, certificates or other documents, or to copies, include references to them in electronic form;
+- (b) references to a form of communication being “in writing” include references to an electronic communication that satisfies the conditions in paragraph (3); and “written” and other cognate expressions are to be construed accordingly.
+
+(2) If an electronic communication is received outside the recipient’s business hours, it is to be taken to have been received on the next business day.
+
+(3) The conditions are that the communication is—
+
+- (a) capable of being accessed by the recipient;
+- (b) legible in all material respects; and
+- (c) sufficiently permanent to be used for subsequent reference.
+
+(4) For the purposes of paragraph (3)(b), a communication is legible in all material respects if the information contained in it is available to the recipient to no lesser extent than it would be if transmitted by means of a document in printed form.
+
+(5) In this article “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00011].
+
+## PART 2 — PRINCIPAL POWERS
+
+### 4. Development consent granted by this Order[^key-97ea91051388ddf2cf6acdaeb0f0852b]
+
+Subject to the provisions of this Order and to the requirements in Schedule 2, the undertaker is granted development consent for the authorised development.
+
+### 5. Limits of deviation[^key-66e4cb688082139348135377a33dae54]
+
+(1) In carrying out the authorised development the undertaker may deviate laterally from the lines, situations or building outlines shown on the works plans and sheet 1 of the indicative layout—
+
+- (a) in such a way as to reduce the size of the relevant part of the authorised development, to such extent as the undertaker considers necessary or expedient;
+- (b) in such a way as to increase the size of the relevant part of the authorised development, to the maximum extent of the limits of deviation shown on the relevant document.
+
+(2) Paragraph (1) is subject to the following exceptions—
+
+- (a) the centre point of the emissions stack comprised in Work No. 1A must be at grid reference 447250 425345;
+- (b) the north-west corner of the cooling system comprised in Work No. 1A must be at grid reference 447226 425285;
+- (c) the width and length of each building comprised in the authorised development and listed in Schedule 3 (maximum building dimensions) must not exceed the maximum width or length for that building specified in that Schedule; and
+- (d) the width and length of each building comprised in the authorised development and listed in Schedule 4 (minimum building dimensions) must not be less than the minimum width or length for that building specified in that Schedule.
+
+(3) In carrying out the authorised development the undertaker may deviate vertically from the levels shown on sheet 2 of the indicative layout, in such a way as to reduce or increase the size of the relevant part of the authorised development, to such extent as the undertaker considers necessary or expedient.
+
+(4) Paragraph (3) is subject to the following exceptions—
+
+- (a) the height of the emissions stack comprised in Work No. 1A must be 136 metres above ordnance datum (Newlyn);
+- (b) the height of each building comprised in the authorised development and listed in Schedule 3 (maximum building dimensions) must not exceed the maximum height for that building specified in that Schedule;
+- (c) the height of each building comprised in the authorised development and listed in Schedule 4 (minimum building dimensions) must not be less than the minimum height[^key-3441b3d19dbdce455cd12fcd86f53810] for that building specified in that Schedule; and
+- (d) each part of the authorised development, apart from piling works, must be at least 1 metre above the relevant groundwater table level.
+
+(5) In this article—
+
+- the “indicative layout” means the document certified as the indicative generating station site layout, elevation and sections plan – concept layout by the Secretary of State for the purposes of this Order under article 23;
+- “the relevant groundwater table level” means, in relation to each part of the authorised development, the level of the groundwater table in the land on which it is proposed to construct that part, as established pursuant to requirement 6 (pre-development groundwater table level survey).
+
+### 6. Authorisation of the operation of the authorised development[^key-7536166c4be48914432fe20a6c12bc97]
+
+(1) The undertaker is authorised to operate the generating station comprised in the authorised development.
+
+(2) Paragraph (1) does not relieve the undertaker of any requirement to obtain any permit or licence under any other legislation that may be required to authorise the operation of a generating station.
+
+### 7. Power to maintain the authorised development[^key-04a46a59f8dcb0dc9af95788ed0e9fdd]
+
+(1) The undertaker may at any time maintain the authorised development, except to the extent that this Order (including the requirements), or an agreement made under this Order, provides otherwise.
+
+(2) Paragraph (1) does not authorise any works—
+
+- (a) not assessed in the environmental statement;
+- (b) outside the Order limits; or
+- (c) which would result in the authorised development varying from the description in Schedule 1.
+
+### 8. Transfer of the benefit of this Order[^key-1494895149d925f39ac96e1e09974db8]
+
+(1) Except where paragraph (4) applies, the undertaker may, with the consent of the Secretary of State,—
+
+- (a) transfer to another person (the “transferee”) all or any part of the benefit of the provisions of this Order and such related statutory rights as may be agreed between the undertaker and the transferee; or
+- (b) grant to another person (the “lessee”), for a period agreed between the undertaker and the lessee, all or any part of the benefit of the provisions of this Order and such related statutory rights as may be agreed between the undertaker and the lessee.
+
+(2) Where an agreement has been made in accordance with paragraph (1)(a) or (b), references in this Order to the undertaker, except in paragraph (3), include references to the transferee or the lessee.
+
+(3) The exercise by a person of any benefits or rights conferred in accordance with any transfer or grant under paragraph (1) is subject to the same restrictions, liabilities and obligations as would apply under this Order if those benefits or rights were exercised by the undertaker.
+
+(4) This paragraph applies where—
+
+- (a) the transferee or lessee holds a licence under section 6 of the 1989 Act; or
+- (b) the time limits for all claims for compensation in respect of the acquisition of land or effects upon land under this Order have elapsed and—
+  - (i) no such claims have been made;
+  - (ii) any such claims that have been made have all been compromised or withdrawn;
+  - (iii) compensation has been paid in final settlement of any claims made;
+  - (iv) payment of compensation into court in lieu of settlement of all such claims has taken place; or
+  - (v) it has been determined by a tribunal or court of competent jurisdiction in respect of all claims that no compensation is payable.
+
+(5) Where paragraph (4) applies the undertaker must notify the Secretary of State in writing before transferring or granting all or any part of the benefit of the provisions of this Order and such related statutory rights referred to in paragraph (1).
+
+## PART 3 — SUPPLEMENTARY POWERS
+
+### 9. Street works[^key-c4f189bbde616338712b6a5ebabaf564]
+
+(1) The undertaker may, for the purposes of the authorised development, enter on so much of the streets specified in Schedule 5 (streets subject to street works) as is within the Order limits and may—
+
+- (a) break up or open the street, or any sewer, drain or tunnel under it;
+- (b) tunnel or bore under the street;
+- (c) place apparatus in the street;
+- (d) maintain apparatus in the street or change its position;
+- (e) execute any works required for or incidental to any works referred to in subparagraphs (a), (b), (c), and (d).
+
+(2) The authority given by paragraph (1) is a statutory right for the purposes of section 48(3) (streets, street works and undertakers) and section 51(1) (prohibition of unauthorised street works) of the 1991 Act.
+
+(3) The provisions of sections 54 to 106 of the 1991 Act apply to any street works carried out under paragraph (1).
+
+(4) In this article “apparatus” has the same meaning as in Part 3 of the 1991 Act.
+
+### 10. Access to works[^key-734772a3cbcf82e1ccae14128024583b]
+
+The undertaker may, for the purposes of the authorised development—
+
+- (a) form and lay out means of access, or improve existing means of access, in the location specified in Schedule 6 (access to works); and
+- (b) with the approval of the planning authority after consultation with the highway authority, form and lay out such other means of access, or improve existing means of access, at such locations within the Order limits as the undertaker reasonably requires for the purposes of the authorised development.
+
+### 11. Agreements with street authorities[^key-5b60032e289eceea1cd5cb2a1b150766]
+
+(1) A street authority and the undertaker may enter into an agreement with respect to the carrying out of any of the works referred to in article 9(1) (street works).
+
+(2) Such an agreement may, without prejudice to the generality of paragraph (1)—
+
+- (a) make provision for the street authority to carry out any function under this Order which relates to the street in question;
+- (b) include an agreement between the undertaker and the street authority specifying a reasonable time for the completion of the works;
+- (c) contain such terms as to payment and otherwise as the parties consider appropriate.
+
+### 12. Discharge of water[^key-2b98ba3aee8a33000eac96d07fdd4597]
+
+(1) The undertaker may use any watercourse or any public sewer or drain for the drainage of water in connection with the carrying out or maintenance of the authorised development and for that purpose may lay down, take up and alter pipes and may, on any land within the Order limits, make openings into, and connections with, the watercourse, public sewer or drain.
+
+(2) Any dispute arising from the making of connections to or the use of a public sewer or drain by the undertaker pursuant to paragraph (1) is to be determined as if it were a dispute under section 106 of the Water Industry Act 1991[^f00012] (right to communicate with public sewers).
+
+(3) The undertaker may not discharge any water into any watercourse, public sewer or drain except with the consent of the person to whom it belongs; and such consent may be given subject to such terms and conditions as that person may reasonably impose but may not be unreasonably withheld.
+
+(4) The undertaker may not make any opening into any public sewer or drain except—
+
+- (a) in accordance with plans approved by the person to whom the sewer or drain belongs, but such approval may not be unreasonably withheld; and
+- (b) where that person has been given the opportunity to supervise the making of the opening.
+
+(5) The undertaker may not, in carrying out or maintaining any works pursuant to this article, damage or interfere with the bed or banks of any watercourse forming part of a main river.
+
+(6) The undertaker must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain pursuant to this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
+
+(7) This article does not authorise a water discharge activity prohibited by regulation 12 of the 2016 Regulations[^key-70bbd85af21a01cbc4189cf7522770f5].
+
+(8) In this article—
+
+- “public sewer or drain” means a sewer or drain which belongs to the Homes and Communities Agency, the Environment Agency, a harbour authority within the meaning of section 57 of the Harbours Act 1964[^f00013], an internal drainage board, a joint planning board, a local authority, a National Park authority, a sewerage undertaker or an urban development corporation;
+- “water discharge activity” has the same meaning as in the 2016 Regulations;
+
+  other expressions, excluding “watercourse”, used both in this article and in the Water Resources Act 1991[^f00014] have the same meanings as in that Act.
+
+### 13. Authority to survey and investigate the land[^key-0bc1cdafcb1fd1286024ab81085ea828]
+
+(1) The undertaker may, for the purposes of this Order, enter on any land within the Order limits or which may be affected by the authorised development and—
+
+- (a) survey or investigate the land;
+- (b) without prejudice to the generality of subparagraph (a), make trial holes in such positions on the land as the undertaker thinks fit to investigate the nature of the surface layer and subsoil and remove soil samples;
+- (c) without prejudice to the generality of subparagraph (a), carry out ecological or archaeological investigations on such land;
+- (d) place on, leave on and remove from the land apparatus for use in connection with the survey and investigation of land and making of trial holes.
+
+(2) No land may be entered, or equipment placed or left on or removed from the land, under paragraph (1) unless at least 14 days’ notice has been served on every owner and occupier of the land.
+
+(3) Any person entering land under this article on behalf of the undertaker—
+
+- (a) must, if so required when entering the land, produce written evidence of his or her authority to do so;
+- (b) may take with him or her such vehicles and equipment as are necessary to carry out the survey or investigation or to make the trial holes.
+
+(4) No trial holes may be made under this article—
+
+- (a) in land located within the highway boundary, without the consent of the highway authority;
+- (b) in a private street, without the consent of the street authority.
+
+(5) A consent for the purpose of paragraph (4)(a) or (b) may be given subject to such terms and conditions as the authority giving it may reasonably impose, but may not be unreasonably withheld.
+
+(6) The undertaker must compensate any owner or occupier of land who sustains loss or damage by reason of the exercise of the authority conferred by this article for that loss or damage.
+
+(7) Any compensation payable under paragraph (6) is to be determined, in case of dispute, under Part 1 (determination of questions of disputed compensation) of the 1961 Act.
+
+### 14. Felling or lopping of trees[^key-370bbccd630a036cae36220fd7e1007e]
+
+(1) The undertaker may fell or lop any tree or shrub near any part of the authorised development, or cut back its roots, if it reasonably believes that it is necessary to do so to prevent the tree or shrub—
+
+- (a) from obstructing or interfering with the construction, maintenance or operation of the authorised development or any apparatus used in connection with the authorised development;
+- (b) from constituting a danger to persons using the authorised development.
+
+(2) In carrying out any activity authorised by paragraph (1) the undertaker may not cause unnecessary damage to a tree or shrub.
+
+(3) The undertaker must compensate any person who sustains loss or damage by reason of the exercise of the authority conferred by this article for that loss or damage.
+
+(4) Any dispute as to a person’s entitlement to compensation under paragraph (3), or any dispute as to the amount of compensation, is to be determined under Part 1(determination of questions of disputed compensation) of the 1961 Act.
+
+### 15. Rights under or over streets[^key-1cf641c8469c9b85db48a5245c3a1b68]
+
+(1) The undertaker may enter on and appropriate so much of the subsoil of, or airspace over, any street within the Order limits as may be required for the purposes of the authorised development and may use the subsoil or airspace for those purposes or any other purpose ancillary to the authorised development.
+
+(2) Subject to paragraph (3), the undertaker may exercise any power conferred by paragraph (1) in relation to a street without being required to acquire any part of the street or any easement or right in the street.
+
+(3) Paragraph (2) does not apply in relation to—
+
+- (a) a subway or underground building;
+- (b) a cellar, vault, arch or other construction in, on or under a street which forms part of a building fronting onto the street.
+
+(4) Subject to paragraph (6), the undertaker must compensate any owner or occupier of land appropriated under paragraph (1) who sustains loss by reason of that appropriation for that loss.
+
+(5) Any compensation payable under paragraph (4) is to be determined, in case of dispute, under Part 1 of the 1961 Act (determination of questions of disputed compensation).
+
+(6) Compensation is not payable under paragraph (4) to a person who is an undertaker to which section 85 of the 1991 Act (sharing cost of necessary measures) applies in respect of measures of which the allowable costs are to be borne in accordance with that section.
+
+### 16. Statutory undertakers[^key-e7559644cbfe477e082234f78da67690]
+
+(1) The undertaker may extinguish the rights of, or remove or reposition the apparatus belonging to, statutory undertakers shown on the Order plan and described in the book of reference.
+
+(2) In paragraph (1), “the Order plan” and “the book of reference” mean the documents respectively certified as such by the Secretary of State for the purposes of this Order under article 23.
+
+### 17. Recovery of costs of new connections[^key-bd7dda4ab9f6c6166349aaeaad42778b]
+
+(1) Where any apparatus of a public utility undertaker or of a public communications provider is removed under article 16 (statutory undertakers), any person who is the owner or occupier of premises to which a supply was given from that apparatus is entitled to recover from the undertaker compensation in respect of expenditure reasonably incurred by that person, in consequence of the removal, for the purpose of effecting a connection between the premises and any other apparatus from which a supply is given.
+
+(2) Paragraph (1) does not apply in the case of the removal of a public sewer, but where such a sewer is removed under article 16 (statutory undertakers), any person who is—
+
+- (a) the owner or occupier of premises the drains of which communicated with that sewer, or
+- (b) the owner of a private sewer which communicated with that sewer,
+
+is entitled to recover from the undertaker compensation in respect of expenditure reasonably incurred by that person, in consequence of the removal, for the purpose of making the drain or sewer belonging to that person communicate with any other public sewer or with a private sewerage disposal plant.
+
+(3) This article has no effect in relation to apparatus to which Part 3 of the 1991 Act applies.
+
+(4) In this article—
+
+- “public communications provider” has the same meaning as in section 151(1) of the Communications Act 2003[^f00015];
+- “public utility undertaker” has the same meaning as in the 1980 Act.
+
+## PART 4 — MISCELLANEOUS AND GENERAL
+
+### 18. Defence to proceedings in respect of statutory nuisance constituted by noise emitted from premises[^key-bbde4d81cca54a89bf472beae904a29c]
+
+(1) Paragraph (2) applies where proceedings are brought under section 82(1) of the Environmental Protection Act 1990[^f00016] (summary proceedings by persons aggrieved by statutory nuisances) in relation to a nuisance falling within section 79(1)(g) of that Act (noise emitted from premises so as to be prejudicial to health or a nuisance).
+
+(2) No order may be made, and no fine may be imposed, under section 82(2) of that Act if the defendant shows that the nuisance—
+
+- (a) relates to premises used by the undertaker for the purposes of or in connection with the construction or maintenance of the authorised development and is attributable to that construction or maintenance—
+  - (i) in accordance with a notice served under section 60 of the Control of Pollution Act 1974[^f00017] (control of noise on construction sites),
+  - (ii) in accordance with a consent given under section 61 of that Act (prior consent for work on construction sites) or section 65 of that Act (noise exceeding registered level), or
+  - (iii) in compliance with requirement 20 (construction hours), requirement 23(3) (British Standards) or the programme approved under requirement 23(1) (programme for the monitoring and control of construction noise);
+- (b) relates to premises used by the undertaker for the purposes of or in connection with the operation of the authorised development and is attributable to that operation in compliance with the programme approved under requirement 24(1) (programme for the monitoring and control of operational noise); or
+- (c) is a consequence of the construction, maintenance or operation of the authorised development and cannot reasonably be avoided.
+
+(3) Section 61(9) of the Control of Pollution Act 1974 (consent for work on construction site to include statement that it does not of itself constitute a defence to proceedings under section 82 of the Environmental Protection Act 1990) and section 65(8) of that Act (corresponding provision in relation to consent for registered noise level to be exceeded) do not apply where the consent relates to the use of premises by the undertaker for the purposes of or in connection with the construction or maintenance of the authorised development.
+
+### 19. Procedures for approvals etc. required by the requirements[^key-159817c045556214218ae0e6f8cb3855]
+
+Schedule 7 (procedures for approvals etc. required by the requirements) has effect in relation to each approval, consent and agreement required by the requirements.
+
+### 20. Removal of human remains[^key-03317529b6567eb020e7c02e51c47527]
+
+(1) Before the undertaker carries out any development or works which it has reason to think will or may disturb any human remains in the Order land it must remove those remains, or cause them to be removed, from the Order land in accordance with the following provisions of this article.
+
+(2) Before any such remains are removed the undertaker must give notice of the intended removal, describing the Order land and stating the general effect of the following provisions of this article, by—
+
+- (a) publishing a notice once in each of two successive weeks in a newspaper circulating in the area of the authorised development; and
+- (b) displaying a notice in a conspicuous place on or near to the Order land.
+
+(3) As soon as reasonably practicable after the first publication of a notice under paragraph (2) the undertaker must send a copy of the notice to Wakefield Metropolitan District Council.
+
+(4) At any time within 56 days after the first publication of a notice under paragraph (2) any person who is a personal representative or relative of a deceased person whose remains are interred in the Order land may give notice in writing to the undertaker of his or her intention to undertake the removal of the remains.
+
+(5) Where a person has given notice under paragraph (4) and the remains in question can be identified, that person may cause the remains to be—
+
+- (a) removed and re-interred in a burial ground or cemetery in which burials may legally take place, or
+- (b) removed to, and cremated in, a crematorium,
+
+and that person must, as soon as reasonably practicable after such re-interment or cremation, provide to the undertaker a certificate for the purpose of enabling compliance with paragraph (10).
+
+(6) If the undertaker is not satisfied that a person giving notice under paragraph (4) is the personal representative or relative of a deceased person whose remains are interred in the Order land, or that the remains in question can be identified, the question is to be determined on the application of either party in a summary manner by the county court, and the court may make an order specifying who is to remove the remains and as to the payment of the costs of the application.
+
+(7) The undertaker must pay the reasonable expenses of removing and re-interring or cremating the remains of a deceased person under this article.
+
+(8) If—
+
+- (a) within the period of 56 days referred to in paragraph (4) no notice under that paragraph has been given to the undertaker in respect of any remains in the Order land, or
+- (b) such notice is given and no application is made under paragraph (6) within 56 days after the giving of the notice but the person who gave the notice fails to remove the remains within a further period of 56 days, or
+- (c) within 56 days after an order is made by the county court under paragraph (6) any person, other than the undertaker, specified in the order fails to remove the remains, or
+- (d) it is determined that the remains to which any such notice relates cannot be identified,
+
+subject to paragraph (9) the undertaker must remove the remains and cause them to be re-interred in such burial ground or cemetery in which burials may legally take place as the undertaker thinks suitable for the purpose; and, so far as possible, remains from individual graves must be re-interred in individual containers which are identifiable by a record prepared with reference to the original position of burial of the remains that they contain.
+
+(9) If the undertaker is satisfied that a person giving notice under paragraph (4) is the personal representative or relative of a deceased person whose remains are interred in the Order land and that the remains in question can be identified, but that person does not remove the remains, the undertaker must comply with any reasonable request that person may make in relation to the removal and re-interment or cremation of the remains.
+
+(10) On the re-interment or cremation of any remains under this article the undertaker must send—
+
+- (a) a certificate of re-interment or cremation to the Registrar General, giving the date of re-interment or cremation and identifying the place from which the remains were removed and the place in which they were re-interred or cremated, and
+- (b) a copy of the certificate of re-interment or cremation and the record mentioned in paragraph (8) to Wakefield Metropolitan District Council.
+
+(11) The removal of the remains of a deceased person under this article must be carried out in accordance with any directions which may be given by the Secretary of State.
+
+(12) Any jurisdiction or function conferred on the county court by this article may be exercised by the district judge of the court.
+
+(13) Section 25 of the Burial Act 1857[^f00018] (bodies not to be removed from burial grounds, save under faculty, without licence of Secretary of State) does not apply to a removal carried out in accordance with this article.
+
+### 21. Application of landlord and tenant law[^key-864686db4b2a4f9c1c76d743d82d9cba]
+
+(1) This article applies to—
+
+- (a) any agreement for leasing to any person the whole or any part of the authorised development or the right to operate the authorised development;
+- (b) any agreement entered into by the undertaker with any person for the construction, maintenance, use or operation of the authorised development, or any part of it,
+
+so far as the agreement relates to the terms on which any land which is the subject of a lease granted by or under that agreement is to be provided for that person’s use.
+
+(2) No enactment or rule of law regulating the rights and obligations of landlords and tenants prejudices the operation of an agreement to which this article applies.
+
+(3) No enactment or rule of law regulating the rights and obligations of landlords and tenants applies in relation to the rights and obligations of the parties to any lease granted by or under an agreement to which this article applies so as to—
+
+- (a) exclude or in any respect modify any of the rights or obligations of those parties under the terms of the lease, whether with respect to the termination of the tenancy or any other matter;
+- (b) confer or impose on any such party any right or obligation arising out of or connected with anything done or omitted on or in relation to land which is the subject of the lease, in addition to any such right or obligation provided for by the terms of the lease; or
+- (c) restrict the enforcement (whether by action for damages or otherwise) by any party to the lease of any obligation of any other party under the lease.
+
+### 22. Operational land for the purposes of the Town and Country Planning Act 1990[^key-abb74814339d29ec3aac03aa334b7100]
+
+Development consent granted by this Order is to be treated as specific planning permission for the purposes of section 264(3)(a) of the Town and Country Planning Act 1990[^f00019] (cases in which land is to be treated as operational land for the purposes of that Act).
+
+### 23. Certification of documents[^key-b53815c40223c39a416c9305e1c8eaa1]
+
+(1) The undertaker must, as soon as practicable after the making of this Order, submit to the Secretary of State a printed copy of each of the documents submitted with the application for this Order and listed in paragraph (2), for certification that it is a true copy of the document referred to in this Order.
+
+(2) The documents are—
+
+- (a) the biodiversity strategy;
+- (b) the book of reference;
+- (c) the combined heat and power assessment;
+- (d) the design and access statement;
+- (e) the environmental statement, including the figures and appendices;
+- (f) the grid connection statement;
+- (g) the indicative generating station site layout, elevations and sections – concept layout;
+- (h) the indicative landscaping plan;
+- (i) the land plan;
+- (j) the landscaping strategy;
+- (k) the lighting strategy;
+- (l) the Order plan;
+- (m) the statement of engagement of section 79(1) of the Environmental Protection Act 1990;
+- (n) the statement of reasons;
+- (o) the works plans.
+
+(3) A document certified in accordance with paragraph (1) is admissible in any proceedings as evidence of the contents of the document of which it is a copy.
+
+### 24. Arbitration[^key-3f2405756f259cd594591c75f3bbe248]
+
+Any difference under any provision of this Order, unless otherwise provided for, is to be referred to and settled by a single arbitrator to be agreed between the parties or, failing agreement, to be appointed on the application of either party (after giving notice in writing to the other) by the Secretary of State.
+
+Signed by authority of the Secretary of State for Energy and Climate Change
+
+Giles Scott
+
+Head of National Infrastructure Consents and Coal Liabilities
+
+Department of Energy and Climate Change
+
+28th October 2015
+
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-acf34ab6f8a572510c787dd4fe17d5e0]
+
+Article 2
+
+### Nationally significant infrastructure project
+
+[^key-acf34ab6f8a572510c787dd4fe17d5e0]
+
+The construction and operation of a nationally significant infrastructure project as defined in sections 14(1)(a) and 15 of the 2008 Act, comprising—
+
+- **Work No. 1 – an onshore electricity generating station** located on land at the Ferrybridge Power Station site, north-west of Knottingley, West Yorkshire, with a gross combined installed generating capacity of up to 90MWe, fuelled (subject to requirement 3) by waste derived fuels and comprised of the following works—
+  - *Work No. 1A* – the generating station and its main process area, including—
+    - (a) fuel reception and storage facilities, consisting of a tipping hall and vehicle ramps, shredder, fuel storage bunker and crane;
+    - (b) a combustion system housed within a boiler hall comprising two combustion lines and associated boilers;
+    - (c) a steam turbine and generator housed within a turbine hall;
+    - (d) a bottom ash handling system, including storage bunker and ash collection bay;
+    - (e) a flue gas treatment system, including residue and reagent storage silos and tanks;
+    - (f) an emissions stack and associated emissions monitoring systems;
+    - (g) a cooling system comprising an air cooled condenser;
+    - (h) a compressed air system;
+    - (i) diesel storage tanks;
+    - (j) a process effluent storage tank;
+    - (k) a demineralised water treatment plant;
+    - (l) fire water tank and fire protection facilities;
+    - (m) up to two auxiliary diesel generators each of up to 4MWe output;
+    - (n) pipe racks and pipe runs;
+    - (o) an electrical switchyard, including circuit breaker and transformer;
+    - (p) a control and administrative building;
+    - (q) a workshop building; and
+    - (r) hardstandings, internal vehicular access roads, vehicle turning, waiting and parking areas and pedestrian and cycle facilities and routes.
+  - *Work No. 1B* – in connection with and in addition to Work No. 1A, supporting buildings, works and areas, including—
+    - (a) a vehicular access road, level crossing and pedestrian and cycle facilities and routes;
+    - (b) security gatehouses and barriers;
+    - (c) up to four weighbridges;
+    - (d) a heavy goods vehicle holding area;
+    - (e) an external fuel container storage area;
+    - (f) vehicle parking;
+    - (g) an outage contractor compound; and
+    - (h) a surface water attenuation pond and surface water drainage connection and pipework to Fryston Beck.
+  - *Work No. 1C* – in connection with and in addition to Work No. 1A, further supporting works, including a towns mains water connection and pipework to Stranglands Lane.
+
+Shown on works plan sheet 2.
+
+### Associated development
+
+[^key-acf34ab6f8a572510c787dd4fe17d5e0]
+
+Associated development within the meaning of section 115(2) of the 2008 Act in connection with the nationally significant infrastructure project referred to in Work No. 1, comprising—:
+
+- **Work No. 2 – a connection to the electricity grid network**, including, where required, modification works to existing grid connection infrastructure consisting of one only of the following options—
+  - *Work No. 2A* – an underground electrical connection running south-west from Work No. 1A and to the north and west of the FM1 Power Station and connecting with the substation associated with the FM1 Power Station to the south-west of the FM1 Power Station.
+  - *Work No. 2B* – an underground electrical connection running north-east from Work No. 1A and connecting to the National Grid substation on the former Ferrybridge ‘B’ Power Station site.
+  - *Work No. 2C* – an underground electrical connection running north-east from Work No. 1A and connecting to a new substation (including circuit breaker, transformer and switch yard), to be constructed to the east of Work No. 1A and connected to the existing 132kV underground cables to the east.
+
+Shown on works plan sheet 3.
+
+- **Work No. 3 – improvements to an existing access road known as the unnamed road**, running from the south-west of Work No. 1A, south and to the west of the FM1 Power Station, to provide pedestrian access and an alternative vehicular access for cars and light goods vehicles, including widening, resurfacing, drainage, lighting, fencing and a security gatehouse;
+
+Shown on works plan sheet 4.
+
+- **Work No. 4 – a foul water connection**, consisting of one only of the following options—
+  - *Work No. 4A* – an underground pipe running from the south-west corner of Work No. 1A and to the west of the FM1 Power Station connecting to an existing private foul water system to the south of the FM1 Power Station.
+  - *Work No. 4B* – an underground pipe running from the south-east corner of Work No. 1A and south-east and south along Kirkhaw Lane connecting to an existing public foul water system.
+
+Shown on works plan sheet 5.
+
+In connection with and in addition to Works Nos. 1, 2, 3 and 4 and to the extent that it does not otherwise form part of those Works, further associated development including—
+
+- (a) external lighting;
+- (b) fencing, boundary treatment and other means of enclosure;
+- (c) signage;
+- (d) CCTV and other security measures;
+- (e) surface and foul water drainage facilities;
+- (f) potable water supply;
+- (g) new electronic communications[^key-0a1ffbce8ceafa41ce957b5b8b40931c] and utilities apparatus and connections;
+- (h) hard and soft landscaping;
+- (i) biodiversity enhancement measures;
+- (j) works to permanently alter the position of existing electronic communications and utilities apparatus and connections;
+- (k) works for the protection of buildings and land affected by the authorised development;
+- (l) site establishment and preparation works, including site clearance (including temporary fencing and vegetation removal), earthworks (including soil stripping and storage and site levelling) and excavations, the creation of temporary construction access points and the temporary alteration of the position of services and utilities apparatus and connections;
+- (m) establishment of temporary construction compounds, vehicle parking areas, materials storage and laydown areas, construction related buildings, structures, plant and machinery, lighting and fencing, internal haul routes and wheel wash facilities;
+
+and, to the extent that it does not form part of such works, further associated development comprising such other works as (i) may be necessary or expedient for the purposes of or in connection with the relevant part of the authorised development and (ii) fall within the scope of the works assessed in the environmental statement.
+
+## SCHEDULE 2 — REQUIREMENTS
+
+Article 2
+
+### 1. Commencement of the authorised development[^key-ca8d0501eab5f54fe0f079b32d5dfd90]
+
+(1) The authorised development must commence within five years of the date on which this Order comes into force.
+
+(2) The authorised development must not commence unless the undertaker has given the planning authority 14 days’ notice of its intention to commence the authorised development.
+
+### 2. Commercial use[^key-f15d119f3352ba41f5bc2c1eb51ad4c2]
+
+The authorised development must not be brought into commercial use unless the undertaker has given the planning authority 28 days’ notice of its intention to commence commercial use of the authorised development.
+
+### 3. Fuel type[^key-53a33c73f30512ed0b5384a9dcae5a05]
+
+(1) Only fuel of a type specified in the environmental permit may be combusted in the boilers of the authorised development.
+
+(2) Except for purposes of the start-up or support firing of a boiler, only waste derived fuel may be combusted in the boilers of the authorised development.
+
+### 4. Detailed design[^key-de0fa102d016fadd15b5e26728459d41]
+
+(1) Work No. 1 must not commence until written details of the following have been submitted to and approved by the planning authority—
+
+- (a) the siting, layout, scale and external appearance (including the colours, materials and surface finishes) of all new temporary and permanent buildings;
+- (b) the internal roads, ramps, turning facilities, parking, loading and unloading facilities, weighbridges, hardstandings and pedestrian and cycle facilities and routes;
+- (c) drainage, storage tanks and external lighting;
+- (d) finished ground and floor levels.
+
+(2) Work No. 2 must not commence until written notice of which one of Work No. 2A, Work No. 2B or Work No. 2C has been selected as the connection to the electricity grid network, including details of the design of the option selected, has been submitted to and approved by the planning authority.
+
+(3) Work No. 3 must not commence until written details of the following have been submitted to and approved by the planning authority—
+
+- (a) surfacing
+- (b) drainage;
+- (c) fencing;
+- (d) external lighting;
+- (e) pedestrian and cycle facilities and routes.
+
+(4) Work No. 4 must not commence until written notice of which one of Work No. 4A or Work No. 4B has been selected as the connection to the foul water system, including details of the design of the option selected, has been submitted to and approved by the planning authority.
+
+(5) All details submitted and approved under subparagraph (1), (2), (3) or (4) must be in accordance with the design and scale parameters set out in chapter 3 of the environmental statement.
+
+(6) The authorised development must be carried out in accordance with the approved details.
+
+### 5. Design of fuel storage bunker[^key-c09cd04727ad76aafef40fcf3022384b]
+
+(1) Work No. 1 must not commence until written details of the design of the fuel storage bunker comprised in Work No. 1A have been submitted to and, after consultation with the Environment Agency, approved by the planning authority.
+
+(2) The design of the fuel storage bunker must be informed by the results of the groundwater table level survey approved under requirement 6(1).
+
+(3) The fuel storage bunker must be constructed in accordance with the approved details.
+
+### 6. Pre-development groundwater table level survey[^key-b89d72f32f94c5365ccd9a946be65009]
+
+(1) Work No. 1 must not commence until the undertaker has carried out the groundwater table level survey and the results of that survey have been submitted in writing to and, after consultation with the Environment Agency, approved by the planning authority.
+
+(2) In subparagraph (1), “the groundwater table level survey” means a survey which—
+
+- (a) is carried out within the three existing boreholes on the Order land shown in the Geotechnical Site Investigation Report in Appendix 13A to the environmental statement or within such other boreholes on the Order land as the planning authority, after consultation with the Environment Agency, may approve,
+- (b) is carried out over a period of 12 months, and
+- (c) establishes the groundwater table level at each of those locations.
+
+### 7. Provision of landscaping[^key-94cfed9f41e6b454ec2689f1dbf2eb1d]
+
+(1) Within 12 months of the Commissioning of the authorised development a written detailed landscaping scheme for each part shall be[^key-73298e5c925d5652590260c35ed8d602] submitted to and approved by the planning authority.
+
+(2) Each scheme submitted and approved must include details of all proposed hard and soft landscaping works, including—
+
+- (a) the treatment of hard surfaced areas;
+- (b) earthworks, including the proposed levels and contours of landscaped areas;
+- (c) the seed mix for areas of grassland;
+- (d) tree and shrub planting, including the height, size and species and the density of distribution;
+- (e) the management of existing and new areas of grassland and tree and shrub planting;
+- (f) an implementation timetable for the phasing and completion of the landscaping works.
+
+(3) Each scheme submitted and approved must be in accordance with the indicative landscaping plan, the biodiversity strategy and the biodiversity enhancement and management plan.
+
+(4) In subparagraph (3), “the biodiversity enhancement and management plan” means the plan approved under requirement 17(1).
+
+### 8. Implementation and maintenance of landscaping[^key-a4d7a21e785d32831111ee7aa316a51a]
+
+(1) All landscaping works must be carried out in accordance with the relevant landscaping scheme (including the implementation timetable) approved under requirement 7.
+
+(2) Any tree or shrub planted as part of an approved landscaping scheme that, within a period of five years after planting, is removed, dies or becomes, in the opinion of the planning authority, seriously damaged or diseased, must be replaced in the first available planting season with a specimen of the same species and size as that originally planted.
+
+(3) Any area of grassland planted as part of an approved landscaping scheme that, within a period of five years after planting, dies or becomes, in the opinion of the planning authority, seriously damaged or diseased, must be reseeded in the first available planting season with the same seed mix as that originally planted.
+
+(4) The undertaker must implement and maintain an annual landscaping maintenance plan during the construction, operation and decommissioning of the authorised development.
+
+### 9. External lighting[^key-b54768671b946e81002c48f3f9215949]
+
+(1) Each part of the authorised development must not commence until a written scheme for all temporary and permanent external lighting to be installed during the construction and operation of that part (except the aviation warning lighting required by virtue of requirement 44) has been submitted to and, after consultation with Selby District Council, approved by the planning authority.
+
+(2) Each scheme submitted and approved must—
+
+- (a) include measures to minimise and otherwise mitigate any artificial light emissions during construction and operation of the authorised development;
+- (b) be in accordance with the lighting strategy.
+
+(3) In subparagraph (2)(b), “the lighting strategy” means the document certified as the lighting strategy by the Secretary of State for the purposes of this Order under article 23.
+
+(4) Each scheme must be implemented as approved.
+
+### 10. Highway accesses[^key-461c9bcfb99cd39ab517c8a8a0bef519]
+
+(1) Each part of the authorised development must not commence until written details of the siting, design and layout (including visibility splays and surfacing) of any new or modified permanent or temporary means of access to a highway to be used by vehicular traffic, or any alteration to an existing means of access to a highway used by vehicular traffic, for that part have been submitted to and, after consultation with the relevant highway authorities, approved by the planning authority.
+
+(2) The authorised development must not be brought into commercial use until all highway accesses have been constructed.
+
+(3) The highway accesses must be constructed in accordance with the relevant approved details.
+
+### 11. Fencing – A1(M)[^key-031de4a62e168fd434a8271b5914417f]
+
+(1) The authorised development must not commence until written details of the design and construction of any fencing on the boundary of the authorised development with the A1(M) have been submitted to and, after consultation with the Highways Agency, approved by the planning authority.
+
+(2) The authorised development must be carried out in accordance with the approved details.
+
+(3) The authorised development must not be brought into commercial use until the fencing has been completed.
+
+### 12. Fencing and other means of enclosure[^key-9c3180686bc75ef308f5c5f910e0e2e2]
+
+(1) Each part of the authorised development must not commence until written details of all proposed means of enclosure for that part have been submitted to and approved by the planning authority.
+
+(2) Any construction areas or sites associated with the authorised development must remain securely fenced at all times during construction of the authorised development.
+
+(3) Any approved temporary means of enclosure must be removed within 12 months after the authorised development is brought into commercial use.
+
+(4) The authorised development must not be brought into commercial use until any approved permanent means of enclosure has been completed.
+
+(5) Each part of the authorised development must be carried out in accordance with the relevant approved details.
+
+### 13. Surface and foul water drainage[^key-004151d1ab3e25ffff3b978fd1456dd3]
+
+(1) Each part of the authorised development must not commence until written details of the surface and foul water drainage systems (including means of pollution control, in accordance with the CEMP) for that part have been submitted to and, after consultation with the Environment Agency, approved by the planning authority.
+
+(2) The details submitted and approved must be in accordance with the principles and strategy set out in Appendix 12A to the environmental statement.
+
+(3) The surface and foul water drainage systems must be constructed in accordance with the relevant approved details.
+
+(4) The authorised development must not be commissioned until the surface and foul water drainage systems have been constructed.
+
+### 14. Flood risk mitigation[^key-f8957c5aa6f9fa74229c9e98e7066b11]
+
+(1) Each part of the authorised development must not commence until a written scheme for the mitigation of flood risk during the construction and operation of that part has been submitted to and, after consultation with the Environment Agency, approved by the planning authority.
+
+(2) Each scheme submitted and approved must be in accordance with the principles and strategy set out in Appendix 12A to the environmental statement.
+
+(3) Each approved scheme must be maintained throughout the construction and operation of the relevant part of the authorised development.
+
+### 15. Contaminated land and groundwater[^key-2c270cc52feb9c9e2a9c1136c6f3e263]
+
+(1) Each part of the authorised development must not commence until a written scheme applicable to the relevant part of the authorised development, to deal with the contamination of any land (including groundwater), which is likely to cause significant harm to persons, the environment or significant pollution of controlled waters or the environment, has, after consultation with the Environment Agency, been submitted to and approved by the planning authority.
+
+(2) Each scheme submitted and approved under subparagraph (1)—
+
+- (a) must be in accordance with the principles set out in chapter 13 of, and the Geotechnical Site Investigation Report in Appendix 13A to, the environmental statement;
+- (b) may be included in the CEMP.
+
+(3) Each scheme submitted and approved under subparagraph (1) must include an investigation and assessment report, prepared by a specialist consultant approved by the planning authority, to identify the extent of any contamination and the remedial measures to be taken to render the land fit for its intended purpose, together with a management plan which sets out long-term measures with respect to any contaminants remaining on the site.
+
+(4) Subparagraph (5) applies if, during the construction of any part of the authorised development, any contamination of land (including groundwater) which was not identified in the approved scheme for that part is found within the Order limits.
+
+(5) Unless the planning authority agrees otherwise, further construction of the relevant part of the authorised development must not be carried out until a remediation scheme to deal with the contamination has been submitted to and, after consultation with the Environment Agency, approved by the planning authority.
+
+(6) The authorised development, including any remediation, must be carried out in accordance with all approved schemes.
+
+### 16. Archaeology[^key-334e841a134aa9ccb16b377a9f3360a7]
+
+(1) Each part of the authorised development must not commence until a written programme of archaeological work for that part has been submitted to and, after consultation with West Yorkshire Archaeology Advisory Service, approved by the planning authority.
+
+(2) Each programme submitted and approved must include—
+
+- (a) a written scheme of investigation;
+- (b) an assessment of significance and research questions;
+- (c) a programme and methodology for site investigation and recording;
+- (d) a programme for post-investigation assessment;
+- (e) arrangements to be made for—
+  - (i) the analysis of site investigation and recording,
+  - (ii) the publication and dissemination of the analysis and of the records of the site investigation, and
+  - (iii) the archive deposition of the analysis and records;
+- (f) the nomination of a competent person or organisation to carry out works set out in the written scheme of investigation.
+
+(3) Any field work must be carried out in accordance with the written scheme of investigation included in the approved programme.
+
+(4) The authorised development must not be brought into commercial use until—
+
+- (a) the site investigation and post-investigation assessment provided for in the approved programme have been completed, and
+- (b) the arrangements referred to in subparagraph (2)(e) made under the approved programme have been implemented.
+
+### 17. Biodiversity enhancement and management plan[^key-29aaf95580563c95a6eaf048300c2a5a]
+
+(1) Within 12 months of the commissioning of the authorised development a written biodiversity enhancement and management plan shall be[^M_F_62bc545b-41f9-45a9-edf4-48f32bc023e0] submitted to and, after consultation with Yorkshire Wildlife Trust, approved by the planning authority.
+
+(2) The plan submitted and approved must—
+
+- (a) be in accordance with the relevant[^M_F_02e8eb6f-b2b0-461c-a8ba-312bd7060371] survey results and mitigation and enhancement measures included in chapter 14[^key-297cf72b97886493fa7dc9bd1adf473b] of the environmental statement, the biodiversity strategy and the indicative landscaping strategy;
+- (b) include an implementation timetable and details relating to maintenance and management.
+
+(3) The plan must be implemented as approved.
+
+### 18. Construction environmental management plan[^key-2166f18b7641951e36475747ba08cdb8]
+
+(1) The authorised development must not commence until a written construction environmental management plan has been submitted to and, after consultation with Selby District Council, approved by the planning authority.
+
+(2) The plan submitted and approved must—
+
+- (a) be in accordance with the principles set out in chapters 7 to 16 of the environmental statement and the framework construction environmental management plan contained in Appendix 3A to the environmental statement;
+- (b) include measures for the protection of any protected species found to be present on the Order land during construction;
+- (c) include the mitigation measures included in chapter 9 of the environmental statement;
+- (d) incorporate a code of construction practice; and
+- (e) incorporate a scheme for handling complaints received from local residents, business and organisations relating to emissions of noise, odour or dust from the authorised development during its construction, which must include appropriate corrective action in relation to substantiated complaints relating to emissions of noise.
+
+(3) In subparagraph (2)(b), a “protected species” means a species protected under the Wildlife and Countryside Act 1981[^f00020] or the Conservation of Habitats and Species Regulations 2017[^key-71dd5159aacc277e2104b971434b6e97].
+
+(4) All construction works associated with the authorised development must be carried out in accordance with the approved CEMP.
+
+### 19. Construction traffic routing and management plan[^key-3ec38c8c92016f02ee7978941b3da9ab]
+
+(1) The authorised development must not commence until a written construction traffic routing and management plan has been submitted to and, after consultation with the relevant highway authorities, approved by the planning authority.
+
+(2) The plan submitted and approved must be in accordance with the principles set out in chapter 7 of the environmental statement and the construction staff[^key-99f89c2b2f295af27e768a58981c83e0] travel plan framework contained in Appendix 7B[^key-a4abb5d8f21b9f3c1ba48b3381d0a01e] to the environmental statement.
+
+(3) The plan submitted and approved must include—
+
+- (a) details of the routes to be used for the delivery of construction materials and any temporary signage to identify routes and promote their safe use, including details of the access points to the construction site to be used by light goods vehicles and heavy goods vehicles;
+- (b) details of the routing strategy and procedures for the notification and conveyance of abnormal indivisible loads, including agreed routes, the numbers of abnormal loads to be delivered by road and measures to mitigate traffic impact;
+- (c) the construction programme;
+- (d) any necessary measures for the temporary protection of carriageway surfaces, the protection of statutory undertakers’ plant and equipment and any temporary removal of street furniture;
+- (e) measures to promote the use of sustainable transport modes by construction personnel in order to minimise the overall traffic impact and promote sustainable transport modes;
+- (f) details of parking for construction personnel within the construction site; and
+- (g) details of a co-ordinator to be appointed to manage and monitor the implementation of the plan, including date of appointment, responsibilities and hours of work.
+
+(4) Notices must be erected and maintained throughout the period of construction at every entrance to and exit from the construction site, indicating to drivers the approved routes for traffic entering and leaving the construction site.
+
+(5) The plan must be implemented as approved.
+
+### 20. Construction hours[^key-b2b1c99b4da4c6eb41400bbf468a2c92]
+
+(1) Construction work associated with the authorised development may only take place—
+
+- (a) between 0700 and 1900 hours on weekdays (excluding bank holidays);
+- (b) between 0700 and 1300 hours on Saturdays (excluding bank holidays).
+
+(2) The restrictions in subparagraph (1) do not apply to work as a result of which the level of noise emitted from the construction site does not exceed the noise limits specified in subparagraph (3) as measured by continuous noise monitoring and which—
+
+- (a) does not involve the use of impact wrenches, sheet piling, concrete scabbling, external earthworks or concrete jack hammering,
+- (b) is associated with an emergency, or
+- (c) is carried out with the prior approval of the planning authority.
+
+(3) The limits are, under reference to British Standard 5228-1:2009+A1:2014—
+
+- (a) 55 dB L<sub>Aeq, 1h </sub>at the receptors identified in chapter 9 of the environmental statement as category C receptors;
+- (b) 50 dB L<sub>Aeq, 1h </sub>at the receptors identified in chapter 9 of the environmental statement as category B receptors.
+
+(4) Nothing in subparagraph (1) prevents—
+
+- (a) start-up activities from 0630 to 0700 hours on weekdays and Saturdays (excluding bank holidays),
+- (b) shut-down activities from 1900 to 1930 hours on weekdays (excluding bank holidays), or
+- (c) shut-down activities from 1300 to 1330 hours on Saturdays (excluding bank holidays).
+
+(5) In subparagraph (4), “start-up activities” and “shut-down activities” mean activities carried out by construction staff in preparation for or when finishing work, as applicable, including—
+
+- (a) changing into or out of protective clothing,
+- (b) receiving safety or other briefings, and
+- (c) any other such activities that do not generate levels of noise above ambient levels at the receptors identified in chapter 9 of the environmental statement.
+
+(6) During the construction of the authorised development, heavy goods vehicles may only enter or leave the construction site—
+
+- (a) between 0730 and 1900 hours on weekdays (excluding bank holidays);
+- (b) between 0730 and 1300 hours on Saturdays (excluding bank holidays).
+
+(7) The restrictions in subparagraph (6) do not apply to vehicle movements which are carried out with the prior approval of the planning authority.
+
+### 21. Piling and penetrative foundation design[^key-aabf8c74c2c77c256bb7604b27b74e4f]
+
+(1) Each part of the authorised development must not commence until a written piling and penetrative foundation design method statement, informed by a risk assessment, for that part has been submitted to and, after consultation with the Environment Agency and Selby District Council, approved by the planning authority.
+
+(2) Piling or penetrative foundation works must not be carried out unless the relevant approved method statement concludes that the works will not result in an unacceptable risk to the groundwater within the Order limits.
+
+(3) All piling and penetrative foundation works must be carried out in accordance with the relevant approved method statement.
+
+### 22. Construction – A1(M)[^key-ca53e9caa5efbddb3d9d3f6fef6fa284]
+
+(1) The authorised development must not commence until a written scheme detailing the construction methods to be employed in the vicinity of the A1(M) has been submitted to and, after consultation with the Highways Agency, approved by the planning authority.
+
+(2) The scheme submitted and approved must include details of—
+
+- (a) the location and dimensions of any cranes within the vicinity of the boundary fence of the A1(M), including a crane risk assessment;
+- (b) the location of any other major items of construction plant;
+- (c) the location and extent of any construction areas or compounds or construction buildings within the vicinity of the boundary fence of the A1(M); and
+- (d) external lighting, including measures to minimise light spillage to the A1(M).
+
+(3) The scheme must be implemented as approved.
+
+### 23. Control of noise during construction[^key-b427d607a4e27688eddcb2b2a7eabc44]
+
+(1) The authorised development must not commence until a written programme for the monitoring and control of noise during the construction of the authorised development has been submitted to and, after consultation with Selby District Council, approved by the planning authority.
+
+(2) The programme submitted and approved must specify—
+
+- (a) each location from which noise is to be monitored;
+- (b) the method of noise measurement;
+- (c) the maximum permitted levels of noise at each monitoring location during the daytime;
+- (d) provision as to the circumstances in which construction activities must cease as a result of a failure to comply with a maximum permitted level of noise; and
+- (e) the noise control measures to be employed.
+
+(3) All activities on the Order land associated with the construction of the authorised development must be carried out in accordance with British Standards 5228-1:2009 and 5228-2:2009.
+
+### 24. Control of operational noise[^key-d3847c0805dbe0f9f6955a3c4d32c676]
+
+(1) The authorised development must not be commissioned until a written programme for the monitoring and control of noise during the operation of the authorised development has been submitted to and, after consultation with the Environment Agency and Selby District Council, approved by the planning authority.
+
+(2) The programme submitted and approved must specify—
+
+- (a) each location from which noise is to be measured;
+- (b) the method of noise measurement, which must be in accordance with British Standard 4142:2014;
+- (c) the maximum permitted levels of noise at each monitoring location; and
+- (d) provision requiring the undertaker to take noise measurements as soon as possible following a request by the planning authority and to submit the measurements to the planning authority as soon as they are available.
+
+(3) The level of noise at each monitoring location must not exceed the maximum permitted level specified for that location in the programme, except—
+
+- (a) in the case of an emergency,
+- (b) with the prior approval of the planning authority, or
+- (c) as a result of steam purging or the operation of emergency pressure relief valves or similar equipment of which the undertaker has given notice in accordance with subparagraph (4).
+
+(4) Except in the case of an emergency, the undertaker must give the planning authority 24 hours’ notice of any proposed steam purging or operation of emergency pressure relief valves or similar equipment.
+
+(5) So far as is reasonably practicable, steam purging and the operation of emergency pressure relief valves or similar equipment may only take place—
+
+- (a) between 0900 and 1700 hours on weekdays (excluding bank holidays);
+- (b) between 0900 and 1300 hours on Saturdays (excluding bank holidays).
+
+(6) Where the level of noise at a monitoring location exceeds the maximum permitted level specified for that location in the programme because of an emergency—
+
+- (a) the undertaker must, as soon as possible and in any event within two business days of the beginning of the emergency, submit to the planning authority a statement detailing—
+  - (i) the nature of the emergency, and
+  - (ii) why it is necessary for the level of noise to have exceeded the maximum permitted level; and
+- (b) if the undertaker expects the emergency to last for more than 24 hours, it must inform local residents and businesses affected by the level of noise at that location of—
+  - (i) the reasons for the emergency, and
+  - (ii) how long it expects the emergency to last.
+
+### 25. Control of odour emissions[^key-2b9f79a62b065b9b2bd74b7a7b85efc5]
+
+(1) The authorised development must not be commissioned until a written scheme for the management and mitigation of odour emissions has been submitted to and, after consultation with Selby District Council, approved by the planning authority.
+
+(2) The scheme submitted and approved must be in accordance with the principles set out in the odour management plan contained in Appendix 8B to the environmental statement.
+
+(3) The authorised development must not be brought into commercial use until the approved scheme has been implemented.
+
+(4) The approved scheme must be maintained throughout the operation of the authorised development.
+
+### 26. Control of dust emissions[^key-84ff81b76100ce42b3f0429a93a4469a]
+
+(1) The authorised development must not commence until a written scheme for the management and mitigation of dust emissions has been submitted to and, after consultation with Selby District Council, approved by the planning authority.
+
+(2) The approved scheme must be implemented before and maintained during the construction, operation and decommissioning of the authorised development.
+
+### 27. Control of smoke emissions[^key-a1a6ad1ff1ca70052894c47fef817ab7]
+
+(1) The authorised development must not commence until a written scheme for the management and mitigation of smoke emissions has been submitted to and, after consultation with Selby District Council, approved by the planning authority.
+
+(2) The approved scheme must be implemented before and maintained during the construction, operation and decommissioning of the authorised development.
+
+### 28. Control of steam emissions[^key-9c64a27af1e09367652a6fb1430eb885]
+
+(1) The authorised development must not commence until a written scheme for the management and mitigation of steam emissions has been submitted to and, after consultation with Selby District Council, approved by the planning authority.
+
+(2) The approved scheme must be maintained during the construction, operation and decommissioning of the authorised development.
+
+### 29. Control of insects and vermin[^key-004898283536550d1cebdc637e637ca3]
+
+(1) The authorised development must not be commissioned until—
+
+- (a) a written scheme to prevent the infestation or emanation of insects or vermin from the authorised development has been submitted to and approved by the planning authority; and
+- (b) the approved scheme has been implemented.
+
+(2) The approved scheme must be maintained throughout the operation of the authorised development.
+
+(3) In subparagraph (1), “insects and vermin” excludes insects and vermin that are wild animals included in Schedule 5 to the Wildlife and Countryside Act 1981[^f00022] (animals which are protected), unless they are included in respect of section 9(5) of that Act only.
+
+### 30. Accumulations and deposits[^key-4dbc208e6f3da0cbbac34e2a3f0ed74d]
+
+(1) The authorised development must not commence until a written scheme for the management of relevant accumulations and deposits has been submitted to and approved by the planning authority.
+
+(2) In subparagraph (1), “relevant accumulations and deposits” means accumulations and deposits—
+
+- (a) which may occur during the construction, operation or decommissioning of the authorised development, and
+- (b) the effects of which may be harmful or noticeable from outside the Order limits.
+
+(3) The approved scheme must be implemented before and maintained during the construction, operation and decommissioning of the authorised development
+
+### 31. Restoration of land used temporarily for construction[^key-d7469178c47d922a9447d05ee7ced0f2]
+
+(1) Within 12 months of bringing the authorised development into commercial use, a written scheme for the restoration of any land within the Order limits which has been used temporarily for construction will be submitted to the planning authority for approval[^M_F_9ec40045-3cd2-4aa1-f124-3fd1c3da3540].
+
+(2) The land must be restored within 12 months after the written scheme referred to in subparagraph (1) is approved[^M_F_0f348ed7-476d-4e05-8bed-46ecdf9220b0], in accordance with—
+
+- (a) the restoration scheme approved in accordance with subparagraph (1),
+- (b) each landscaping scheme approved in accordance with requirement 7, and
+- (c) the biodiversity enhancement and management plan approved in accordance with requirement 17.
+
+### 32. Operational traffic routing and management plan[^key-0481b4cfc324f2165f0b6798dbf46e21]
+
+(1) The authorised development must not be commissioned until a written operational traffic routing and management plan has been submitted to and, after consultation with the relevant highway authorities, approved by the planning authority.
+
+(2) The plan submitted and approved must be in accordance with the principles set out in chapter 7 of the environmental statement and the operational travel plan framework contained in Appendix 7C to the environmental statement.
+
+(3) The plan submitted and approved must include details of the routes to be used for the transport of fuel, consumables and combustion by-products to and from the authorised development.
+
+(4) The plan must be implemented as approved.
+
+### 33. Travel plan – operational staff[^key-0655794353d735c858db386292fe30e2]
+
+(1) The authorised development must not be brought into commercial use until a written travel plan for operational staff has been submitted to and, after consultation with the relevant highway authorities, approved by the planning authority.
+
+(2) The plan submitted and approved must be in accordance with the principles set out in chapter 7 of the environmental statement and the operational staff[^key-420a1e23270f81478fff624b08eab955] travel plan framework contained in Appendix 7C to the environmental statement.
+
+(3) The plan submitted and approved must include—
+
+- (a) details of the travel plan budget;
+- (b) measures to promote the use of sustainable transport modes to and from the authorised development by operational staff;
+- (c) provision as to the responsibility for, and timescales of, the implementation of those measures;
+- (d) a monitoring and review regime.
+
+(4) The approved plan must be implemented within six months after the authorised development is brought into commercial use and must be maintained throughout the operation of the authorised development.
+
+### 34. Operational deliveries[^key-92686838af25ded73447e35ca3e19fd5]
+
+(1) A heavy goods vehicle transporting fuel, consumables or combustion by-products may only enter or leave the authorised development—
+
+- (a) between 0700 and 2200 hours on weekdays (excluding bank holidays);
+- (b) between 0700 and 1830 hours on Saturdays (excluding bank holidays).
+
+(2) The restrictions in subparagraph (1) do not apply to a movement of a heavy goods vehicle which is—
+
+- (a) associated with an emergency, or
+- (b) carried out with the prior approval of the planning authority.
+
+### 35. Sustainable fuel transport management plan[^key-4cad1a6c0495c280c47d2a1022a28ed0]
+
+(1) The authorised development must not be brought into commercial use until a written sustainable fuel transport management plan has been submitted to and, after consultation with the relevant highway authorities and Canal & River Trust, approved by the planning authority.
+
+(2) The plan submitted and approved must set out measures to be taken by the undertaker during the operation of the authorised development to promote the sustainable transport of fuel and combustion by-products by means other than road, including by rail and barge.
+
+(3) The plan submitted and approved must include—
+
+- (a) details of measures to promote sustainable modes of transport;
+- (b) details of arrangements for monitoring and recording transport movements by mode of transport;
+- (c) details of a review regime;
+- (d) a requirement to undertake an assessment of the costs of upgrading the existing wharf facility at the Ferrybridge Power Station site, including a description of the refurbishment work required and a breakdown of the costs of that work.
+
+(4) The approved plan must be maintained and operated during the operation of the authorised development.
+
+(5) Every five years during the operation of the authorised development, the undertaker must carry out an appraisal of the viability of upgrading the existing wharf facility in the context of the evaluation of the potential for fuel and ash transportation by water.
+
+### 36. Enclosure of loads[^key-d51792c7f3e9ac8070b1d0cde5ff113c]
+
+During the operation of the authorised development, each heavy goods vehicle transporting bulk materials, fuel or combustion by-products to or from the authorised development must be enclosed.
+
+### 37. Air quality – emissions reduction[^key-61620f0dd7a8d9c77ab2f7c9248f89f8]
+
+(1) During the operation of the authorised development—
+
+- (a) the average emission limit value for nitrogen monoxide and nitrogen dioxide, expressed as nitrogen dioxide, of the combustion emissions discharged through the emissions stack comprised in Work No. 1A for each day must not exceed 180 mg/Nm<sup>3</sup>, standardised to the requirements specified in Annex VI of Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010[^f00023];
+- (b) each heavy goods vehicle delivering fuel to the authorised development must be designed to comply with the emission limit values in Annex 1 to Regulation [(EC) 595/2009](https://www.legislation.gov.uk/european/regulation/2009/0595) of the European Parliament and of the Council of 18th June 2009[^f00024].
+
+(2) In subparagraph (1)(a), “day” means a period of twenty-four hours beginning at midnight.
+
+### 38. Air quality monitoring[^key-da414cc09b07144f99d7d892718f3a60]
+
+(1) The authorised development must not be commissioned until a written scheme of air quality monitoring has been submitted to and, after consultation with Selby District Council, approved by the planning authority.
+
+(2) The scheme submitted and approved must provide for the monitoring of—
+
+- (a) nitrogen oxides;
+- (b) any other pollutant agreed by the planning authority.
+
+(3) The scheme submitted and approved must specify—
+
+- (a) each location at which air pollution is to be measured;
+- (b) the equipment and method of measurement to be used;
+- (c) the frequency of measurement.
+
+(4) The first measurement made in accordance with the scheme must be made not less than 12 months before the authorised development is brought into commercial use.
+
+(5) Unless the planning authority gives the undertaker notice under subparagraph (6), the final measurement made in accordance with the scheme must be made at least 24 months after the authorised development is commissioned.
+
+(6) The planning authority may, if it thinks appropriate, give notice to the undertaker that the scheme is to be extended for the period specified in the notice, which may not be more than 24 months from the date of the final measurement in accordance with the scheme as originally approved.
+
+(7) The scheme must be implemented as approved.
+
+(8) For each year from the date on which the authorised development is commissioned, the undertaker must, within three months after the final measurement made in that year, provide the planning authority with a report of measurements made in accordance with the scheme in that year.
+
+### 39. Fire prevention[^key-6a7db0c7cfb313e9f119bb5468c8bb81]
+
+(1) The authorised development must not commence until a written fire prevention method statement has been submitted to and, after consultation with West Yorkshire Fire and Rescue Service, approved by the planning authority.
+
+(2) The method statement submitted and approved must include—
+
+- (a) a fire risk assessment;
+- (b) details of fire detection and suppression measures;
+- (c) the location of and accesses to all fire appliances in each major building and each storage area in the authorised development.
+
+### 40. Combined heat and power (“CHP”)[^key-2dfc0f9a44ba1da085efc1ab7f0b8504]
+
+(1) The authorised development must not be brought into commercial use until the planning authority has given notice that it is satisfied that the undertaker has allowed for space and routes within the design of the authorised development for the later provision of heat pass-outs for off-site users of process or space heating and its later connection to such systems.
+
+(2) The undertaker must maintain such space and routes for the lifetime of the authorised development.
+
+(3) On the date that is 12 months after the authorised development is first brought into commercial use, the undertaker must submit to the planning authority for its approval a report (“the CHP review”) updating the combined heat and power assessment.
+
+(4) The CHP review submitted and approved must—
+
+- (a) consider the opportunities that reasonably exist for the export of heat from the authorised development at the time of submission; and
+- (b) include a list of actions (if any) that the undertaker is reasonably to take (without material additional cost to the undertaker) to increase the potential for the export of heat from the authorised development.
+
+(5) The undertaker must take such actions as are included, within the timescales specified, in the approved CHP review.
+
+(6) On each date during the lifetime of the authorised development that is five years after the date on which it last submitted the CHP review or a revised CHP review to the planning authority, the undertaker must submit to the planning authority for its approval a revised CHP review.
+
+(7) Subparagraphs (4) and (5) apply in relation to a revised CHP review submitted under subparagraph (6) in the same way as they apply in relation to the CHP review submitted under subparagraph (3).
+
+(8) In subparagraph (1), “the combined heat and power assessment” means the document certified as the combined heat and power assessment by the Secretary of State for the purposes of this Order under article 23.
+
+### 41. Waste hierarchy scheme[^key-26066ca5c7e5988f08b061750456de27]
+
+(1) The undertaker must operate the authorised development in accordance with the waste hierarchy by means of the measures specified in the environmental permit and any operational environmental management system.
+
+(2) In subparagraph (1)—
+
+- “the waste hierarchy” means the waste hierarchy set out in Article 4 of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council of 19 November 2008[^f00025];
+- “operational environmental management system” means a system of policies and procedures adopted by the undertaker to manage the environmental impact of the authorised development.
+
+### 42. Waste management – construction and operational waste[^key-90183367b7ba9352eaf5834cdaea3f06]
+
+(1) The authorised development must not commence until a written construction site waste management plan has been submitted to and approved by the planning authority.
+
+(2) The construction site waste management plan submitted and approved must be in accordance with the principles set out in chapter 16 of the environmental statement and the framework site waste management plan contained in Appendix 16A to the environmental statement.
+
+(3) The construction site waste management plan must be implemented as approved.
+
+(4) The authorised development must not be brought into commercial use until an operational waste management plan has been submitted to and approved by the planning authority.
+
+(5) The operational waste management plan submitted and approved must be in accordance with the principles set out in chapter 16 of the environmental statement.
+
+(6) The operational waste management plan must be implemented as approved.
+
+### 43. Decommissioning[^key-c1f01853b0433a621dbcd150e2a3f857]
+
+(1) Within six months after it decides to decommission the authorised development, the undertaker must submit to the planning authority for its approval a written decommissioning scheme.
+
+(2) Decommissioning works must not be carried out until the planning authority has approved the scheme.
+
+(3) The scheme submitted and approved must be in accordance with the principles set out in chapter 3 of the environmental statement.
+
+(4) The scheme submitted and approved must include details of—
+
+- (a) the buildings to be demolished;
+- (b) the means of removal of the materials resulting from the decommissioning works;
+- (c) the phasing of the demolition and removal works;
+- (d) any restoration works to restore the Order land to a condition agreed with the planning authority;
+- (e) the phasing of any restoration works;
+- (f) a timetable for the implementation of the scheme.
+
+(5) The undertaker must implement the scheme as approved and is responsible for the costs of the decommissioning works.
+
+(6) In subparagraph (5), “the undertaker” does not include a person to whom part of the benefit of this Order has been transferred or granted under article 8 (transfer of the benefit of this Order)[^key-519b674fe00bcc9204327ee4411ee2bd].
+
+### 44. Aviation warning lighting[^key-f1e0087e0a097bada8d5bed239ae6c91]
+
+(1) The authorised development must not commence until written details of the aviation warning lighting to be installed on the emissions stack comprised in Work No. 1A and each crane required for the construction of the authorised development which has a height of 60m or greater have been submitted to and approved by the planning authority.
+
+(2) The aviation warning lighting must be installed and operated in accordance with the approved details.
+
+### 45. Air safety[^key-20f6daebd424754903f85579ba3f466b]
+
+The authorised development must not commence until written details of the information that is required by the Defence Geographic Centre of the Ministry of Defence to chart the site for civil aviation purposes have been submitted to and approved by the planning authority.
+
+### 46. Site security[^key-8d2ae06d4bbcecdbbb9c0bea7a333579]
+
+(1) The authorised development must not be commissioned until a written scheme detailing security measures to minimise the risk of crime within the Order limits has been submitted to and, after consultation with West Yorkshire Police, approved by the planning authority.
+
+(2) The approved scheme must be maintained and operated throughout the operation and decommissioning of the authorised development.
+
+### 47. Local liaison committee[^key-897b21757432303d66a53eb5fd322b82]
+
+(1) The authorised development must not commence until the undertaker has established a committee to liaise with local residents, businesses and organisations in relation to the construction and operation of the authorised development.
+
+(2) The committee must include representatives of the undertaker.
+
+(3) The undertaker must invite the planning authority and Selby District Council to nominate representatives to be members of the committee.
+
+(4) The undertaker may invite such other businesses and organisations as it thinks appropriate to nominate representatives to be members of the committee.
+
+(5) If there already exists a local liaison committee in relation to development on the Order land, that committee may, with the agreement of the planning authority and Selby District Council perform the functions of the committee to be established under subparagraph (1); and in that case the duty to establish a committee under subparagraph (1) does not apply.
+
+### 48. Employment, skills and training plan[^key-e2185843ebca0a13edcab4b703605614]
+
+(1) Work No. 1 must not commence until a written plan detailing arrangements to promote employment, skills and training development opportunities for local residents has been submitted to and approved by the planning authority.
+
+(2) The approved plan must be implemented and maintained during the construction and operation of Work No.1.
+
+### 49. Interpretation[^key-92b2b99d0b96e790c33dbd7e388b01ef]
+
+(1) In this Schedule—
+
+- “bank holiday” is a day that is a bank holiday in England and Wales by virtue of section 1 of the 1971 Act;
+- “biodiversity strategy” means the document certified as the biodiversity strategy by the Secretary of State for the purposes of this Order under article 23;
+- “CEMP” means the construction environmental management plan approved in accordance with requirement 18(1);
+- “commencement of the authorised development” means beginning to carry out any material operation, as defined in section 155 of the 2008 Act (which explains when development begins), other than permitted preliminary works, comprised in or carried out for the purposes of the authorised development; and “commence” and other cognate expressions, in relation to the authorised development, are to be construed accordingly;
+- “commercial use” of the authorised development means the export of electricity from the authorised development;
+- “commissioning of the authorised development” means the process of testing all systems and components of the authorised development (including systems and components which are not yet installed but the installation of which is near to completion), in order to verify that they function in accordance with the design objectives, specifications and operational requirements of the undertaker; and “commission” and other cognate expressions, in relation to the authorised development, are to be construed accordingly;
+- “construction site” means the Order land during the construction of the authorised development;
+- “environmental permit” means a permit granted under the 2016 Regulations[^key-fd29d557b9253a3a3a2edb832bf8bcda] authorising the operation of the authorised development;
+- “indicative landscaping plan” means the document certified as the indicative landscaping plan by the Secretary of State for the purposes of this Order under article 23;
+- “means of enclosure” means fencing, walls or other means of boundary treatment and enclosure;
+- “permitted preliminary works” means site clearance work, survey work, archaeological field work, investigations for the purpose of assessing ground conditions, remedial work in respect of any contamination or other adverse ground conditions, the diversion and laying of services, the erection of any temporary means of enclosure, the preparation of facilities for the use of the contractor, the temporary display of site notices and advertisements and the provision of site security; and
+- “relevant highway authorities” means Wakefield Metropolitan District Council, North Yorkshire Council and the Highways Agency, each in its capacity as a highway authority.
+
+(2) A reference in this Schedule to an agreement, approval, consent, notice, report, scheme, submission or any other form of communication is a reference to that form of communication in writing.
+
+(3) A reference in this Schedule to details, a method statement, a plan, a programme, a scheme or any other document approved by the planning authority is a reference to that document including any amendments subsequently approved by the planning authority.
+
+## SCHEDULE 3 — MAXIMUM BUILDING DIMENSIONS[^key-b83c4e72bbcd8b825fbab7d7bcddf78c]
+
+Article 5
+
+| Building | Maximum length (metres) | Maximum width (metres) | Maximum height (metres above ordnance datum (Newlyn)) |
+| --- | --- | --- | --- |
+| Tipping hall (Work No. 1A) | 45 | 102 | 53 |
+| Fuel storage bunker (Work No. 1A) | 42 | 102 | 64 |
+| Entry ramp to fuel storage bunker (Work No. 1A) | 120 | 70 | 27 |
+| Exit ramp from fuel storage bunker (Work No. 1A) | 120 | 70 | 27 |
+| Boiler hall (Work No. 1A) | 63 | 60 | 74 |
+| Turbine hall (Work No. 1A) | 40 | 40 | 44 |
+| Ash storage bunker and collection bay (Work No. 1A) | 43 | 48 | 39 |
+| Flue gas treatment system (Work No. 1A) | 55 | 82 | 56 |
+| Air cooled condenser (Work No. 1A) | 98 | 40 | 41 |
+| Electrical switchyard, including circuit breaker and transformer (Work No. 1A) | 40 | 15 | 31 |
+| Workshop building (Work No. 1A) | 30 | 40 | 39 |
+| Control and administrative building (Work No. 1A) | 15 | 55 | 64 |
+| Security gatehouses and weighbridges (Work No. 1B) | 20 | 4 | 20 |
+| Substation (Work No. 2C) | 90 | 55 | 36 |
+
+## SCHEDULE 4 — MINIMUM BUILDING DIMENSIONS[^key-1343b788c9ca1734193e670c25497d7b]
+
+Article 5
+
+| Building | Minimum length (metres) | Minimum width (metres) | Minimum height (metres above ordnance datum (Newlyn)) |
+| --- | --- | --- | --- |
+| Tipping hall (Work No. 1A) | 31 | 58 | 31 |
+| Fuel storage bunker (Work No. 1A) | 31 | 58 | 49 |
+| Entry ramp to fuel storage bunker (Work No. 1A) | 55 | 25 | 24 |
+| Exit ramp from fuel storage bunker (Work No. 1A) | 55 | 25 | 24 |
+| Boiler hall (Work No. 1A) | 27 | 45 | 57 |
+| Turbine hall (Work No. 1A) | 27 | 27 | 34 |
+| Ash storage bunker and collection bay (Work No. 1A) | 13 | 13 | 29 |
+| Flue gas treatment system (Work No. 1A) | 40 | 70 | 46 |
+| Air cooled condenser (Work No. 1A) | 63 | 18 | 34 |
+| Electrical switchyard, including circuit breaker and transformer (Work No. 1A) | 27 | 9 | 25 |
+| Workshop building (Work No. 1A) | 10 | 15 | 26 |
+| Control and administrative building (Work No. 1A) | 27 | 11 | 46 |
+| Security gatehouses and weighbridges (Work No. 1B) | 10 | 2.5 | 19 |
+| Substation (Work No. 2C) | 80 | 50 | 34 |
+
+## SCHEDULE 5 — STREETS SUBJECT TO STREET WORKS[^key-2400fabf8de43ff9cffe66a2253750b7]
+
+Article 9
+
+| Area | Street subject to street works |
+| --- | --- |
+| Wakefield Metropolitan District | Kirkhaw Lane |
+| Wakefield Metropolitan District | The unnamed road |
+
+## SCHEDULE 6 — ACCESS TO WORKS[^key-2d7e8792e392bcc9658c86a880c64832]
+
+Article 10
+
+| Area | Description of access |
+| --- | --- |
+| Wakefield Metropolitan District | The location of Work No. 3 |
+
+## SCHEDULE 7 — PROCEDURES FOR APPROVALS ETC. REQUIRED BY THE REQUIREMENTS
+
+Article 19
+
+### 1. Application of this Schedule[^key-0f00ba85c0ac8107d8ccbe3d24d99115]
+
+This Schedule applies to an application made by the undertaker to the planning authority (referred to in this Schedule as “the authority”) for an approval, consent or agreement required by any of the requirements.
+
+### 2. Decision period[^key-47e69ef061955c72b726a7ee0adeb7ea]
+
+(1) The authority must give written notice to the undertaker of its decision on the application before the end of the decision period.
+
+(2) In subparagraph (1), “the decision period” means—
+
+- (a) where the authority does not give written notice under paragraph 3(1) or (2) requiring further information, the period of eight weeks from the later of—
+  - (i) the day immediately following the day on which the authority receives the application, and
+  - (ii) the day on which the authority receives the fee payable under paragraph 4; or
+- (b) where the authority gives written notice under paragraph 3(1) or (2) requiring further information, the period of eight weeks from the day immediately following the day on which the undertaker provides the further information; or
+- (c) such longer period as may be agreed in writing by the undertaker and the authority.
+
+### 3. Further information[^key-8bef3865626b0ab504dab58e05a6eac7]
+
+(1) If the authority considers that it requires further information to make a decision on the application, it must give written notice to the undertaker specifying the further information required within seven business days from the day on which it receives the application.
+
+(2) If the relevant requirement requires that authority to consult a person (referred to in this Schedule as a “consultee”) in relation to the application—
+
+- (a) the authority must consult the consultee within five business days from the day on which it receives the application;
+- (b) if the consultee considers that it requires further information to respond to the consultation, it must so notify the authority, specifying what further information is required, within 18 business days from the day on which the authority received the application; and
+- (c) within five business days from the day on which it receives any such notification from the consultee, the authority must give written notice to the undertaker specifying the further information required by the consultee.
+
+(3) If the authority, after consultation with any consultee, considers that further information provided by the undertaker in response to a written notice from the authority under subparagraph (1) or (2) is not sufficient to allow it to make a decision on the application, it must give written notice to the undertaker specifying what further information is still required, within seven business days from the day on which the undertaker provided the information.
+
+(4) If the authority does not give written notice in accordance with subparagraph (1), (2) or (3), it is not entitled to request any additional information in relation to the application without the prior agreement in writing of the undertaker.
+
+### 4. Fees[^key-65ea04f3c61cfbfc0bd9e77e2e5057dc]
+
+(1) The undertaker must pay the authority a fee of £97, or such greater fee as for the time being is payable to the authority in respect of an application for the discharge of a condition imposed on a grant of planning permission, in respect of each application.
+
+(2) The authority must refund the fee paid under subparagraph (1) to the undertaker, within the relevant period, if it—
+
+- (a) rejects the application as being invalidly made;
+- (b) fails to give the written notice required by paragraph 2(1).
+
+(3) Subparagraph (2) does not apply if, within the relevant period, the undertaker agrees in writing that the authority may retain the fee paid and credit it in respect of a future application.
+
+(4) In subparagraphs (2) and (3) “the relevant period” means the period of eight weeks from, as the case may be—
+
+- (a) the day on which the authority rejects the application as being invalidly made;
+- (b) the day after the day on which the decision period expires.
+
+### 5. Appeal to the Secretary of State (procedure)[^key-45529d0856324e3c9166b15bf69e2946]
+
+(1) The undertaker may appeal to the Secretary of State against—
+
+- (a) the authority’s refusal of an application;
+- (b) the authority’s grant subject to conditions of an application;
+- (c) the authority’s failure to give the written notice required by paragraph 2(1);
+- (d) a written notice given by the authority under paragraph 3(1), (2) or (3).
+
+(2) In order to appeal, the undertaker must, within 10 business days from the relevant day, send the Secretary of State the following documents—
+
+- (a) its grounds of appeal;
+- (b) a copy of the application submitted to the authority;
+- (c) any supporting documentation which it wishes to provide.
+
+(3) In subparagraph (2), “the relevant day” means—
+
+- (a) in the case of an appeal under subparagraph (1)(a) or (b), the day on which the undertaker is notified by the authority of its decision;
+- (b) in the case of an appeal under subparagraph (1)(c), the day after the day on which the decision period expires;
+- (c) in the case of an appeal under subparagraph (1)(d), the day on which the undertaker receives the authority’s notice.
+
+(4) At the same time as it sends the documents mentioned in subparagraph (2) to the Secretary of State, the undertaker must send copies of those documents to the authority and any consultee.
+
+(5) As soon as reasonably practicable following receipt of the documents mentioned in subparagraph (2), the Secretary of State must—
+
+- (a) appoint a person (referred to in this Schedule as “the appointed person”) to determine the appeal on his behalf;
+- (b) give written notice to the undertaker, the authority and any consultee of the appointment and of the appointed person’s address for correspondence in relation to the appeal.
+
+(6) Within 20 business days from the day on which the Secretary of State gives notice under subparagraph (5)(b), the authority and any consultee—
+
+- (a) may submit written representations in respect of the appeal to the appointed person; and
+- (b) must, at the same time, send a copy of any such representations to the undertaker and (if applicable) to each other.
+
+(7) Within 10 business days from the last day on which representations are submitted to the appointed person under subparagraph (6), any party—
+
+- (a) may make further representations to the appointed person in response to the representations of another party; and
+- (b) must, at the same time, send a copy of any such further representations to each other party.
+
+### 6. Appeal to the Secretary of State (powers of the appointed person)[^key-66a67bec94a75c58999a0b0128eb1b25]
+
+(1) The appointed person may—
+
+- (a) allow or dismiss the appeal;
+- (b) reverse or vary any part of the authority’s decision, irrespective of whether the appeal relates to that part;
+- (c) make a decision on the application as if it had been made to the appointed person in the first instance.
+
+(2) The appointed person—
+
+- (a) if he considers that he requires further information to make a decision on the appeal, may by written notice require any party to provide such further information to him and to each other party by a specified date;
+- (b) if he gives such a notice, must—
+  - (i) at the same time send a copy of it to each other party, and
+  - (ii) allow each party to make further representations in relation to any further information provided in response to the notice, within 10 business days from the day on which it is provided.
+
+(3) The appointed person may waive or extend any time limit (including after it has expired) for the provision of representations or information in relation to an appeal.
+
+### 7. Appeal to the Secretary of State (supplementary)[^key-b2e4d869e9a8579f51eb5170c0bab548]
+
+(1) The decision of the appointed person on an appeal may not be challenged except by proceedings for judicial review.
+
+(2) If the appointed person grants approval of an application, that approval is to be taken as if it were an approval granted by the authority in relation to the application.
+
+(3) Subject to subparagraph (4), the undertaker must pay the reasonable costs of the appointed person incurred in deciding the appeal.
+
+(4) On written application by the authority or the undertaker, the appointed person may make a direction as to the costs of the parties to the appeal and of the appointed person, including imposing an obligation on any party to pay all or part of such costs to the party which incurred them.
+
+(5) In considering an application under subparagraph (4) the appointed person must have regard to Communities and Local Government Circular 03/2009 or any circular or guidance which may from time to time replace it.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order grants development consent for, and authorises Multifuel Energy Limited (referred to in this Order as the undertaker) to construct, operate and maintain, a new electricity generating station with a gross combined installed generating capacity of up to 90MWe fuelled primarily by waste derived fuels. The generating station is to be located at the Ferrybridge Power Station site, north-west of Knottingley, West Yorkshire. The Order also grants development consent for associated development and imposes requirements in connection with the development.
+
+A copy of the various documents referred to in the Order, and certified in accordance with article 23 of this Order (certification of documents), may be inspected free of charge during working hours at Knottingley Library at Knottingley Sports Centre, Hill Top, Pontefract Road, Knottingley, WF11 8EE, and at the offices of Wakefield Metropolitan District Council at Wakefield One, Burton Street, Wakefield, WF1 2EB, North Yorkshire County Council at County Hall, Northallerton, North Yorkshire, DL7 8AD, and Selby District Council at Access Selby, 8-10 Market Cross, Selby, YO8 4JS.
+
+## Annotations
+
+[^f00001]: Footnote: [2008 c.29](https://www.legislation.gov.uk/ukpga/2008/29).
+
+[^f00002]: Footnote: [S.I. 2009/2264](https://www.legislation.gov.uk/uksi/2009/2264).
+
+[^f00003]: Footnote: [S.I. 2010/103](https://www.legislation.gov.uk/uksi/2010/103).
+
+[^key-895403eff51b2f3dc4f6b85d564756c5]: Modification: Order modified (20.9.2018) by The Ferrybridge Multifuel 2 [Power Station (Amendment) Order 2018 (S.I. 2018/1016)](https://www.legislation.gov.uk/uksi/2018/1016), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1016/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1016/article/3/4)
+
+[^key-fa1b4fe733db090ad80d8044ccbca9e6]: Commencement: Art. 1 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-39df83de1aa5d0d893958090feae15cd]: Commencement: Art. 2 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^f00004]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
+
+[^f00005]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^f00006]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^f00007]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
+
+[^f00008]: Footnote: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22).
+
+[^key-d266c1c662bc689906f029c5486f30f5]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1832/article/2/1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 99(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/99/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^key-abeaf15cb211f54b501a68fa9d1d9fce]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1832/article/2/1) substituted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
+
+[^f00010]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
+
+[^key-ffa264ad973fbc372a88a2c5d93b1829]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1832/article/2/1) inserted (28.4.2025) by [The Ferrybridge Multifuel 2 Power Station (Amendment) Order 2025 (S.I. 2025/523)](https://www.legislation.gov.uk/uksi/2025/523), [arts. 1](https://www.legislation.gov.uk/uksi/2025/523/article/1), [3](https://www.legislation.gov.uk/uksi/2025/523/article/3)
+
+[^key-9feefaea5fb50a2fe4e23a39354c06ff]: Commencement: Art. 3 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^f00011]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
+
+[^key-97ea91051388ddf2cf6acdaeb0f0852b]: Commencement: Art. 4 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-66e4cb688082139348135377a33dae54]: Commencement: Art. 5 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-3441b3d19dbdce455cd12fcd86f53810]: Textual amendment: Word in [art. 5(4)(c)](https://www.legislation.gov.uk/uksi/2015/1832/article/5/4/c) substituted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
+
+[^key-7536166c4be48914432fe20a6c12bc97]: Commencement: Art. 6 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-04a46a59f8dcb0dc9af95788ed0e9fdd]: Commencement: Art. 7 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-1494895149d925f39ac96e1e09974db8]: Commencement: Art. 8 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-c4f189bbde616338712b6a5ebabaf564]: Commencement: Art. 9 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-734772a3cbcf82e1ccae14128024583b]: Commencement: Art. 10 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-5b60032e289eceea1cd5cb2a1b150766]: Commencement: Art. 11 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-2b98ba3aee8a33000eac96d07fdd4597]: Commencement: Art. 12 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^f00012]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
+
+[^key-70bbd85af21a01cbc4189cf7522770f5]: Textual amendment: Words in [art. 12(7)](https://www.legislation.gov.uk/uksi/2015/1832/article/12/7)[(8)](https://www.legislation.gov.uk/uksi/2015/1832/article/12/8) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 99(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/99/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^f00013]: Footnote: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
+
+[^f00014]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
+
+[^key-0bc1cdafcb1fd1286024ab81085ea828]: Commencement: Art. 13 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-370bbccd630a036cae36220fd7e1007e]: Commencement: Art. 14 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-1cf641c8469c9b85db48a5245c3a1b68]: Commencement: Art. 15 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-e7559644cbfe477e082234f78da67690]: Commencement: Art. 16 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-bd7dda4ab9f6c6166349aaeaad42778b]: Commencement: Art. 17 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^f00015]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^key-bbde4d81cca54a89bf472beae904a29c]: Commencement: Art. 18 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^f00016]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
+
+[^f00017]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
+
+[^key-159817c045556214218ae0e6f8cb3855]: Commencement: Art. 19 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-03317529b6567eb020e7c02e51c47527]: Commencement: Art. 20 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^f00018]: Footnote: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81).
+
+[^key-864686db4b2a4f9c1c76d743d82d9cba]: Commencement: Art. 21 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-abb74814339d29ec3aac03aa334b7100]: Commencement: Art. 22 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^f00019]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^key-b53815c40223c39a416c9305e1c8eaa1]: Commencement: Art. 23 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-3f2405756f259cd594591c75f3bbe248]: Commencement: Art. 24 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-acf34ab6f8a572510c787dd4fe17d5e0]: Commencement: Sch. 1 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-0a1ffbce8ceafa41ce957b5b8b40931c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1832/schedule/1) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 54(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/54/2)
+
+[^key-ca8d0501eab5f54fe0f079b32d5dfd90]: Commencement: Sch. 2 para. 1 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-f15d119f3352ba41f5bc2c1eb51ad4c2]: Commencement: Sch. 2 para. 2 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-53a33c73f30512ed0b5384a9dcae5a05]: Commencement: Sch. 2 para. 3 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-de0fa102d016fadd15b5e26728459d41]: Commencement: Sch. 2 para. 4 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-c09cd04727ad76aafef40fcf3022384b]: Commencement: Sch. 2 para. 5 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-b89d72f32f94c5365ccd9a946be65009]: Commencement: Sch. 2 para. 6 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-94cfed9f41e6b454ec2689f1dbf2eb1d]: Commencement: Sch. 2 para. 7 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-73298e5c925d5652590260c35ed8d602]: Textual amendment: Words in [Sch. 2 para. 7(1)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/7/1) substituted (20.9.2018) by [The Ferrybridge Multifuel 2 Power Station (Amendment) Order 2018 (S.I. 2018/1016)](https://www.legislation.gov.uk/uksi/2018/1016), [art. 1](https://www.legislation.gov.uk/uksi/2018/1016/article/1), [4](https://www.legislation.gov.uk/uksi/2018/1016/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2018/1016/schedule)
+
+[^key-a4d7a21e785d32831111ee7aa316a51a]: Commencement: Sch. 2 para. 8 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-b54768671b946e81002c48f3f9215949]: Commencement: Sch. 2 para. 9 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-461c9bcfb99cd39ab517c8a8a0bef519]: Commencement: Sch. 2 para. 10 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-031de4a62e168fd434a8271b5914417f]: Commencement: Sch. 2 para. 11 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-9c3180686bc75ef308f5c5f910e0e2e2]: Commencement: Sch. 2 para. 12 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-004151d1ab3e25ffff3b978fd1456dd3]: Commencement: Sch. 2 para. 13 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-f8957c5aa6f9fa74229c9e98e7066b11]: Commencement: Sch. 2 para. 14 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-2c270cc52feb9c9e2a9c1136c6f3e263]: Commencement: Sch. 2 para. 15 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-334e841a134aa9ccb16b377a9f3360a7]: Commencement: Sch. 2 para. 16 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-29aaf95580563c95a6eaf048300c2a5a]: Commencement: Sch. 2 para. 17 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^M_F_62bc545b-41f9-45a9-edf4-48f32bc023e0]: Textual amendment: Words in [Sch. 2 para. 17(1)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/17/1) substituted (20.9.2018) by [The Ferrybridge Multifuel 2 Power Station (Amendment) Order 2018 (S.I. 2018/1016)](https://www.legislation.gov.uk/uksi/2018/1016), [art. 1](https://www.legislation.gov.uk/uksi/2018/1016/article/1), [4](https://www.legislation.gov.uk/uksi/2018/1016/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2018/1016/schedule)
+
+[^M_F_02e8eb6f-b2b0-461c-a8ba-312bd7060371]: Textual amendment: Word in [Sch. 2 para. 17(2)(a)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/17/2/a) inserted (20.9.2018) by virtue of [The Ferrybridge Multifuel 2 Power Station (Amendment) Order 2018 (S.I. 2018/1016)](https://www.legislation.gov.uk/uksi/2018/1016), [art. 1](https://www.legislation.gov.uk/uksi/2018/1016/article/1), [4](https://www.legislation.gov.uk/uksi/2018/1016/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2018/1016/schedule)
+
+[^key-297cf72b97886493fa7dc9bd1adf473b]: Textual amendment: Word in [Sch. 2 para. 17(2)(a)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/17/2/a) substituted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
+
+[^key-2166f18b7641951e36475747ba08cdb8]: Commencement: Sch. 2 para. 18 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^f00020]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
+
+[^key-71dd5159aacc277e2104b971434b6e97]: Textual amendment: Words in [Sch. 2 para. 18(3)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/18/3) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 62](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/62)
+
+[^key-3ec38c8c92016f02ee7978941b3da9ab]: Commencement: Sch. 2 para. 19 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-99f89c2b2f295af27e768a58981c83e0]: Textual amendment: Word in [Sch. 2 para. 19(2)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/19/2) inserted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
+
+[^key-a4abb5d8f21b9f3c1ba48b3381d0a01e]: Textual amendment: Word in [Sch. 2 para. 19(2)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/19/2) substituted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
+
+[^key-b2b1c99b4da4c6eb41400bbf468a2c92]: Commencement: Sch. 2 para. 20 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-aabf8c74c2c77c256bb7604b27b74e4f]: Commencement: Sch. 2 para. 21 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-ca53e9caa5efbddb3d9d3f6fef6fa284]: Commencement: Sch. 2 para. 22 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-b427d607a4e27688eddcb2b2a7eabc44]: Commencement: Sch. 2 para. 23 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-d3847c0805dbe0f9f6955a3c4d32c676]: Commencement: Sch. 2 para. 24 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-2b9f79a62b065b9b2bd74b7a7b85efc5]: Commencement: Sch. 2 para. 25 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-84ff81b76100ce42b3f0429a93a4469a]: Commencement: Sch. 2 para. 26 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-a1a6ad1ff1ca70052894c47fef817ab7]: Commencement: Sch. 2 para. 27 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-9c64a27af1e09367652a6fb1430eb885]: Commencement: Sch. 2 para. 28 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-004898283536550d1cebdc637e637ca3]: Commencement: Sch. 2 para. 29 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^f00022]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
+
+[^key-4dbc208e6f3da0cbbac34e2a3f0ed74d]: Commencement: Sch. 2 para. 30 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-d7469178c47d922a9447d05ee7ced0f2]: Commencement: Sch. 2 para. 31 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^M_F_9ec40045-3cd2-4aa1-f124-3fd1c3da3540]: Textual amendment: Words in [Sch. 2 para. 31(1)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/31/1) substituted (20.9.2018) by virtue of [The Ferrybridge Multifuel 2 Power Station (Amendment) Order 2018 (S.I. 2018/1016)](https://www.legislation.gov.uk/uksi/2018/1016), [art. 1](https://www.legislation.gov.uk/uksi/2018/1016/article/1), [4](https://www.legislation.gov.uk/uksi/2018/1016/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2018/1016/schedule)
+
+[^M_F_0f348ed7-476d-4e05-8bed-46ecdf9220b0]: Textual amendment: Words in [Sch. 2 para. 31(2)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/31/2) substituted (20.9.2018) by virtue of [The Ferrybridge Multifuel 2 Power Station (Amendment) Order 2018 (S.I. 2018/1016)](https://www.legislation.gov.uk/uksi/2018/1016), [art. 1](https://www.legislation.gov.uk/uksi/2018/1016/article/1), [4](https://www.legislation.gov.uk/uksi/2018/1016/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2018/1016/schedule)
+
+[^key-0481b4cfc324f2165f0b6798dbf46e21]: Commencement: Sch. 2 para. 32 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-0655794353d735c858db386292fe30e2]: Commencement: Sch. 2 para. 33 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-420a1e23270f81478fff624b08eab955]: Textual amendment: Word in [Sch. 2 para. 33(2)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/33/2) inserted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
+
+[^key-92686838af25ded73447e35ca3e19fd5]: Commencement: Sch. 2 para. 34 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-4cad1a6c0495c280c47d2a1022a28ed0]: Commencement: Sch. 2 para. 35 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-d51792c7f3e9ac8070b1d0cde5ff113c]: Commencement: Sch. 2 para. 36 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-61620f0dd7a8d9c77ab2f7c9248f89f8]: Commencement: Sch. 2 para. 37 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^f00023]: Footnote: OJ No L 334, 17.12.10, p17.
+
+[^f00024]: Footnote: OJ No L 188, 18.7.09, p1.
+
+[^key-da414cc09b07144f99d7d892718f3a60]: Commencement: Sch. 2 para. 38 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-6a7db0c7cfb313e9f119bb5468c8bb81]: Commencement: Sch. 2 para. 39 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-2dfc0f9a44ba1da085efc1ab7f0b8504]: Commencement: Sch. 2 para. 40 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-26066ca5c7e5988f08b061750456de27]: Commencement: Sch. 2 para. 41 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^f00025]: Footnote: OJ No L 312, 22.11.08, p3.
+
+[^key-90183367b7ba9352eaf5834cdaea3f06]: Commencement: Sch. 2 para. 42 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-c1f01853b0433a621dbcd150e2a3f857]: Commencement: Sch. 2 para. 43 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-519b674fe00bcc9204327ee4411ee2bd]: Textual amendment: Words in [Sch. 2 para. 43(6)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/43/6) substituted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
+
+[^key-f1e0087e0a097bada8d5bed239ae6c91]: Commencement: Sch. 2 para. 44 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-20f6daebd424754903f85579ba3f466b]: Commencement: Sch. 2 para. 45 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-8d2ae06d4bbcecdbbb9c0bea7a333579]: Commencement: Sch. 2 para. 46 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-897b21757432303d66a53eb5fd322b82]: Commencement: Sch. 2 para. 47 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-e2185843ebca0a13edcab4b703605614]: Commencement: Sch. 2 para. 48 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-92b2b99d0b96e790c33dbd7e388b01ef]: Commencement: Sch. 2 para. 49 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-fd29d557b9253a3a3a2edb832bf8bcda]: Textual amendment: Words in [Sch. 2 para. 49(1)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/49/1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 99(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/99/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^key-b83c4e72bbcd8b825fbab7d7bcddf78c]: Commencement: Sch. 3 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-1343b788c9ca1734193e670c25497d7b]: Commencement: Sch. 4 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-2400fabf8de43ff9cffe66a2253750b7]: Commencement: Sch. 5 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-2d7e8792e392bcc9658c86a880c64832]: Commencement: Sch. 6 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-0f00ba85c0ac8107d8ccbe3d24d99115]: Commencement: Sch. 7 para. 1 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-47e69ef061955c72b726a7ee0adeb7ea]: Commencement: Sch. 7 para. 2 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-8bef3865626b0ab504dab58e05a6eac7]: Commencement: Sch. 7 para. 3 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-65ea04f3c61cfbfc0bd9e77e2e5057dc]: Commencement: Sch. 7 para. 4 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-45529d0856324e3c9166b15bf69e2946]: Commencement: Sch. 7 para. 5 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-66a67bec94a75c58999a0b0128eb1b25]: Commencement: Sch. 7 para. 6 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+
+[^key-b2e4d869e9a8579f51eb5170c0bab548]: Commencement: Sch. 7 para. 7 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)

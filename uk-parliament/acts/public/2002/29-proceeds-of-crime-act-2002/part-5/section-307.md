@@ -1,0 +1,25 @@
+---
+title: Proceeds of Crime Act 2002, section 307
+act: Proceeds of Crime Act 2002
+section: '307'
+status: revised-with-pending-changes
+text_date: '2026-06-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2002/29/section/307
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Proceeds of Crime Act 2002, section 307
+
+> **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 307. Recoverable property: accruing profits
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies where a person who has recoverable property obtains further property consisting of profits accruing in respect of the recoverable property.
+
+(2) The further property is to be treated as representing the property obtained through unlawful conduct.

@@ -1,0 +1,40 @@
+---
+title: The Dogger Bank Teesside A and B Offshore Wind Farm Order 2015, section 36
+act: The Dogger Bank Teesside A and B Offshore Wind Farm Order 2015
+section: '36'
+status: revised
+text_date: '2024-11-12'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2015/1592/section/36
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Dogger Bank Teesside A and B Offshore Wind Farm Order 2015, section 36
+
+> Text as at 2024-11-12.
+>
+> Extent: England, Wales, Scotland.
+
+## 36. Trees subject to tree preservation orders[^key-b79973f30d8da307e8608acf2d333fa4]
+
+*Extent: E+W+S*
+
+(1) The undertaker may fell or lop any tree within the Order limits that is subject to a tree preservation order, or cut back its roots, if it reasonably believes it to be necessary to do so to prevent the tree from obstructing or interfering with the construction, maintenance or operation of the authorised project or any apparatus used in connection with the authorised project.
+
+(2) In carrying out any activity authorised by paragraph (1)—
+
+- (a) the undertaker must not do any unnecessary damage to any tree or shrub and must pay compensation to any person for any loss or damage arising from such activity; and
+- (b) the duty contained in section 206(1) of the 1990 Act[^f00039] (replacement of trees) does not apply.
+
+(3) The authority given by paragraph (1) constitutes a deemed consent under the relevant tree preservation order.
+
+(4) Any dispute as to a person’s entitlement to compensation under paragraph (2), or as to the amount of compensation, must be determined under Part I of the 1961 Act.
+
+(5) In this article, “tree preservation order” has the same meaning as in section 198 of the 1990 Act.
+
+## Annotations
+
+[^key-b79973f30d8da307e8608acf2d333fa4]: Commencement: Art. 36 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)
+
+[^f00039]: Footnote: Section 206(1) was amended by paragraph 11 of Schedule 8 to the Planning Act 2008.

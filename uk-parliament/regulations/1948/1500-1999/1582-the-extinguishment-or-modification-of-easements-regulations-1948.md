@@ -1,0 +1,90 @@
+---
+title: THE EXTINGUISHMENT OR MODIFICATION OF EASEMENTS REGULATIONS, 1948.
+id: uksi/1948/1582
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1948-07-06'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1948/1582
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1948/1582/pdfs/uksi_19481582_en.pdf
+- http://www.legislation.gov.uk/uksi/1948/1582/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# THE EXTINGUISHMENT OR MODIFICATION OF EASEMENTS REGULATIONS, 1948.
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1948 No. 1582
+
+REQUISITIONED LAND AND WAR WORKS
+
+The Extinguishment Or Modification of Easements Regulations, 1948
+
+Made
+
+6th July 1948
+
+Laid before Parliament
+
+8th July 1948
+
+Coming into Operation
+
+9th July 1948
+
+The Lords Commissioners of His Majesty's Treasury, in pursuance of the powers conferred upon Them by subsections (2) and (3) of Section 4 of the Requisitioned Land and War Works Act, 1948, and of all other powers enabling Them in that behalf, hereby make the following Regulations:—
+
+**1.** These Regulations may be cited as the Extinguishment or Modification of Easements Regulations, 1948, and shall come into operation on the 9th day of July, 1948.
+
+**2.** (1) In these Regulations:—
+
+- (a) the expression “**the Act of 1945**” means the Requisitioned Land and War Works Act, 1945;
+- (b) the expression “**the Act of 1948**” means the Requisitioned Land and War Works Act, 1948.
+
+(2) The Interpretation Act, 1889, shall apply to the interpretation of these Regulations as it applies to the interpretation of an Act of Parliament.
+
+**3.** The provisions of subsections (3) and (4) of Section 7 of the Act of 1945, and of Section 41 thereof, shall apply, where an easement is extinguished or modified under subsection (2) of Section 4 of the Act of 1948, with the following adaptations, that is to say:—
+
+- (a) in subsection (3) of Section 7, for the words “a restriction discharged or modified under paragraph (b) of subsection (1) of this section” there shall be substituted the words “an easement extinguished or modified under subsection (2) of Section 4 of the Requisitioned Land and War Works Act, 1948”; and
+- (b) for the word “discharge” there shall be substituted the word “extinguishment,” and for the word “restriction” there shall be substituted the word “easement.”
+
+**4.** Sections 25, 26 and 27 of the Town and Country Planning Act, 1944, as amended by the Town and Country Planning Act, 1947, and the Schedules, as so amended, referred to in those sections, shall, in connection with the operation of subsection (3) of Section 4 of the Act of 1948, apply with the following adaptations, that is to say:—
+
+- (a) in subsection (1) of Section 25, after the words “Where there subsists over land” there shall be added the words “which a Minister has acquired under Part II of the Requisitioned Land and War Works Act, 1945, or has power so to acquire, or would have power so to acquire if he did not already own it, or which a Minister having power, otherwise than by virtue of the Part II, to acquire land under the Defence Acts (as defined in the said Act) has so acquired or proposes so to acquire (any such Minister being hereinafter in this section called **\`the acquiring Minister'**), or” ;
+- (b) in subhead (c) of subsection (1) of Section 27, after the word “Act” there shall be added the words “or under Section 25 of this Act, as applied for the purposes of subsection (3) of Section 4 of the Requisitioned Land and War Works Act, 1948,”;
+- (c) in subhead (e) of paragraph 1 of the Fourth Schedule, there shall be added the words “or of subsection (3) of Section 4 of the Requisitioned Land and War Works Act, 1948”;
+- (d) before the words “the purchasing or appropriating authority” there shall be added the words “the acquiring Minister or”; and
+- (e) the expression “extinguishment” shall include modification, and the expression “extinguish” shall be construed accordingly.
+
+**5.** These Regulations shall apply to Scotland subject to the following modifications:—
+
+- (a) for references to the Town and Country Planning Act, 1944, and to the following provisions of that Act, that is to say, Sections 25, 26 and 27, and the Schedules referred to in those Sections, there shall be respectively substituted references to the Town and Country Planning (Scotland) Act, 1945, and to the following provisions of that Act, that is to say, Sections 24, 25 and 26, and the Schedules referred to in those Sections;
+- (b) for references to the Town and Country Planning Act, 1947, there shall be substituted references to the Town and Country Planning (Scotland) Act, 1947; and
+- (c) the expression “**easement**” includes servitude.
+
+**6.** These Regulations shall apply to Northern Ireland subject to the following modification, that is to say, Regulation 4 of these Regulations shall have effect as if the Town and Country Planning Act, 1944, as amended, extended to Northern Ireland.
+
+.
+
+R. J. Taylor
+
+Joseph Henderson
+
+Two of the Lords Commissioners of His Majesty's Treasury
+
+Dated this 6th day of July, 1948
+
+EXPLANATORY NOTE
+
+Subsection (2) of Section 4 of the Requisitioned Land and War Works Act, 1948, gives power to certain Ministers, who have acquired under the Defence Acts, otherwise than by virtue of Part II of the Requisitioned Land and War Works Act, 1945, or who propose so to acquire any land, to extinguish or modify any easement to which the land is subject, and provides for the application, with prescribed adaptations, of the provisions contained in Section 7, (3), 7 (4) and 41 of the latter Act, thus placing the compensation payable for the extinguishment or modification of easements on the same footing as the compensation payable for the discharge or modification of restrictions on the user of land.
+
+Subsection (3) of the same section provides that, where an interest in land benefited by certain types of easement is vested in a statutory undertaking (as defined), the provisions of Sections 25, 26 and 27 of the Town and Country Planning Act, 1944 (or, if land is in Scotland, of Sections 24, 25 and 26 of the Town and Country Planning (Scotland) Act, 1945) and of the Schedules referred to in those sections shall apply with prescribed adaptations, as regards the interest of the undertaking in lieu of the provisions mentioned above.
+
+These Regulations prescribe the necessary adaptations.

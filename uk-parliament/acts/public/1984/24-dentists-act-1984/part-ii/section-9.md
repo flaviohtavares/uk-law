@@ -1,0 +1,34 @@
+---
+title: Dentists Act 1984, section 9
+act: Dentists Act 1984
+section: '9'
+status: revised-with-pending-changes
+text_date: '2025-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1984/24/section/9
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Dentists Act 1984, section 9
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/24
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 9. Supervision of instruction given by dental schools and post-graduate institutions.
+
+*Extent: E+W+S+N.I.*
+
+(1) The Council may appoint persons to visit, subject to any directions which the Privy Council may deem it expedient to give and to compliance with any conditions specified in those directions, places where instruction is given—
+
+- (a) to dental students under the direction of a dental authority, or
+- (b) to post-graduate students in dentistry under the direction of a dental authority or any other body.
+
+(2) Visitors appointed under this section shall report to the Council as to the sufficiency of the instruction given in the places which they visit and as to any other matters relating to the instruction which may be specified by the Council either generally or in any particular case; but no visitor shall interfere with the giving of any instruction.
+
+(3) On receiving a report of a visitor under this section, the Council shall send a copy of the report to the dental authority or other body under whose direction the instruction in question was given, and on receiving the copy that dental authority or body may, within such period (not being less than one month) as the Council may have specified at the time they sent the copy of the report, make to the Council observations on the report or objections to it.
+
+(4) The Council shall, as soon as possible after the end of the period specified under subsection (3) above, send to the Privy Council a copy of the report and of any observations or objections duly made under that subsection, together with the Council’s comments on the report and on any such observations and objections.
+
+(5) The Council shall have power to remunerate persons who are not members of the Council for acting as visitors under this section.

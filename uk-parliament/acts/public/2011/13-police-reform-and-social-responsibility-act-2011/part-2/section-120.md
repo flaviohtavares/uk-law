@@ -1,0 +1,103 @@
+---
+title: Police Reform and Social Responsibility Act 2011, section 120
+act: Police Reform and Social Responsibility Act 2011
+section: '120'
+status: revised-with-pending-changes
+text_date: '2026-09-21'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2011/13/section/120
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police Reform and Social Responsibility Act 2011, section 120
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 120. Suspension of licence or certificate for failing to pay annual fee[^key-4e5b62c3579a4045b6a3324255c69c63]
+
+*Extent: E+W*
+
+(1) The Licensing Act 2003 is amended as set out in subsections (2) to (5).
+
+(2) In section 26(2) (period of validity of premises licence), after “section 52” insert “ or 55A ”.
+
+(3) After section 55 (annual fee for premises licence) insert—
+
+> **55A. Suspension of premises licence for failing to pay annual fee**
+>
+> (1) A licensing authority must suspend a premises licence if the holder of the licence has failed to pay the authority an annual fee that has become due under section 55(2).
+>
+> (2) Subsection (1) does not apply if—
+>
+> - (a) either—
+>   - (i) the holder's failure to pay the fee at the time it became due was because of an administrative error (whether made by the holder, the authority or anyone else), or
+>   - (ii) before or at the time the fee became due, the holder notified the authority in writing that the holder disputed liability for, or the amount of, the fee, and
+> - (b) the grace period for payment of the fee has not expired (see subsection (8)).
+>
+> (3) If a licensing authority suspends a premises licence under subsection (1), the authority must give the holder of the licence a notice to that effect, specifying the day the suspension takes effect.
+>
+> (4) A day specified in a notice under subsection (3) must be at least two working days after the day the authority gives the notice.
+>
+> (5) If the holder of the licence pays the annual fee, the licensing authority must give the holder written acknowledgement of receipt of the fee.
+>
+> (6) The acknowledgement of receipt under subsection (5) must—
+>
+> - (a) specify the day the authority received the fee (the “receipt day”), and
+> - (b) be given to the holder as soon as is reasonably practicable but in any event—
+>   - (i) if the receipt day was a working day, before the end of the first working day after the receipt day,
+>   - (ii) otherwise, before the end of the second working day after the receipt day.
+>
+> (7) A suspension of a premises licence under subsection (1)—
+>
+> - (a) takes effect on the day specified in the notice under subsection (3), and
+> - (b) ceases to have effect on the receipt day, as specified in the acknowledgement of receipt under subsection (5).
+>
+> (8) In this section, the “grace period” for payment of a fee is the period of 21 days, beginning on the day after the day the fee became due.
+
+.
+
+(4) In section 80(2) (period of validity of club premises certificate), after “section 88” insert “ or 92A ”.
+
+(5) After section 92 (annual fee for club premises certificate) insert—
+
+> **92A. Suspension of club premises certificate for failing to pay annual fee**
+>
+> (1) A licensing authority must suspend a club premises certificate if the holder of the certificate has failed to pay the authority an annual fee that has become due under section 92(2).
+>
+> (2) Subsection (1) does not apply if—
+>
+> - (a) either—
+>   - (i) the holder's failure to pay the fee at the time it became due was because of an administrative error (whether made by the holder, the authority or anyone else), or
+>   - (ii) before or at the time the fee became due, the holder notified the authority in writing that the holder disputed liability for, or the amount of, the fee, and
+> - (b) the grace period for payment of the fee has not expired (see subsection (8)).
+>
+> (3) If a licensing authority suspends a club premises certificate under subsection (1), the authority must give the holder of the certificate a notice to that effect, specifying the day the suspension takes effect.
+>
+> (4) A day specified in a notice under subsection (3) must be at least 2 working days after the day the authority gives the notice.
+>
+> (5) If the holder of the certificate pays the annual fee, the licensing authority must give the holder written acknowledgement of receipt of the fee.
+>
+> (6) The acknowledgement of receipt under subsection (5) must—
+>
+> - (a) specify the day the authority received the fee (the “receipt day”), and
+> - (b) be given to the holder as soon as is reasonably practicable but in any event—
+>   - (i) if the receipt day was a working day, before the end of the first working day after the receipt day,
+>   - (ii) otherwise, before the end of the second working day after the receipt day.
+>
+> (7) A suspension of a club premises certificate under subsection (1)—
+>
+> - (a) takes effect on the day specified in the notice under subsection (3), and
+> - (b) ceases to have effect on the receipt day, as specified in the acknowledgement of receipt under subsection (5).
+>
+> (8) In this section, the “grace period” for payment of a fee is the period of 21 days, beginning on the day after the day the fee became due.
+
+.
+
+(6) The amendments made by this section apply in relation to premises licences and club premises certificates in relation to which annual fees become due on or after the commencement of this section.
+
+## Annotations
+
+[^key-4e5b62c3579a4045b6a3324255c69c63]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2011/13/section/120) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

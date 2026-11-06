@@ -1,0 +1,74 @@
+---
+title: Levelling-up and Regeneration Act 2023, section 81
+act: Levelling-up and Regeneration Act 2023
+section: '81'
+status: revised-with-pending-changes
+text_date: '2026-10-20'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2023/55/section/81
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Levelling-up and Regeneration Act 2023, section 81
+
+> **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 81. Alteration of street names: England[^key-20cff82e17651317c1abdb8ceac478c4][^key-f8a908ae757d4de520343f2766b75285]
+
+*Extent: E+W*
+
+(1) In this section “**local authority**” means—
+
+- (a) a district council in England;
+- (b) a county council in England for an area for which there is no district council;
+- (c) a London borough council;
+- (d) the Common Council of the City of London.
+
+(2) A local authority within subsection (1)(a) or (b) may, by order, alter the name of a street, or any part of a street, in its area if the alteration has the necessary support.
+
+(3) Where a local authority has altered the name of a street, or any part of a street, under subsection (2), it may cause the altered name to be painted or otherwise marked on a conspicuous part of any building or other erection.
+
+(4) Any person who then wilfully, and without the consent of the local authority, obliterates, defaces, obscures, removes or alters the altered name painted or otherwise marked under subsection (3) is liable to a penalty not exceeding level 1 on the standard scale.
+
+(5) A local authority within subsection (1)(c) or (d) may exercise the power conferred by section 6(1) of the London Building Acts (Amendment) Act 1939 (assigning of names to streets etc) to make an order altering the name of a street, or any part of a street, in its area only if the alteration has the necessary support.
+
+(6) An alteration has the necessary support for the purposes of this section only if—
+
+- (a) it has sufficient local support, and
+- (b) where it is an alteration of a specified kind, it has any other support specified as a pre-condition for alterations of that kind.
+
+(7) Regulations may provide that sufficient local support, or support of a kind specified under subsection (6)(b), can only be established in the way, or in one of the alternative ways, specified in the regulations.
+
+(8) Regulations under subsection (7) may (amongst other things)—
+
+- (a) make provision enabling a referendum to be held by a local authority, on a question determined by it in accordance with the regulations, for the purposes of establishing whether an alteration has sufficient local support, including provision about the conduct and timing of a referendum and who is entitled to vote;
+- (b) provide that, where a local authority holds a referendum in accordance with regulations made by virtue of paragraph (a), the alteration may not be made unless one or both of the following apply—
+  - (i) a specified percentage or number of those entitled to vote in the referendum exercise that right;
+  - (ii) a specified majority of those who vote indicate their support for the alteration;
+- (c) provide that, where a local authority has run a process (“the first process”) for the purposes of this section which failed to establish that an alteration of the name of a street (or a part of a street) had sufficient local support, the local authority may not run another such process within a specified period in respect of—
+  - (i) if the first process related to the name of a whole street, an alteration of the name of the same street or any part of it;
+  - (ii) if the first process related to the name of a part of a street (“the original part”), an alteration of the name of the whole street, of the original part or of any other part which includes some or all of the original part.
+
+(9) A local authority must have regard to any guidance published by the Secretary of State about—
+
+- (a) the things to be done before a local authority decides to take steps to establish if an alteration has the necessary support for the purposes of this section;
+- (b) the exercise of other functions conferred on a local authority by or under this section.
+
+(10) No local Act operates to enable a local authority within subsection (1)(a) or (b) to alter the name of a street, or part of a street, in its area.
+
+(11) In this section—
+
+- “**regulations**” means regulations made by the Secretary of State;
+- “**specified**” means specified in regulations;
+- “**street**” has the meaning given by section 48(1) of the New Roads and Street Works Act 1991.
+
+(12) Schedule 5 contains amendments which are consequential on this section.
+
+## Annotations
+
+[^key-20cff82e17651317c1abdb8ceac478c4]: Commencement: S. 81 not in force at Royal Assent, see [s. 255(2)(r)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/r)
+
+[^key-f8a908ae757d4de520343f2766b75285]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2023/55/section/81) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/b)

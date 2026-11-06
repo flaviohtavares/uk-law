@@ -1,0 +1,32 @@
+---
+title: Financial Services and Markets Act 2000, section 3G
+act: Financial Services and Markets Act 2000
+section: 3G
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2000/8/section/3G
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Financial Services and Markets Act 2000, section 3G
+
+> **Warning: changes not yet applied to this text (91).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 3G. Power to establish boundary between FCA and PRA responsibilities[^key-213c415ae170f27ccc3cbe5ebbb68cce]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Treasury may by order specify matters that, in relation to the exercise by either regulator of its functions relating to PRA-authorised persons, are to be, or are to be primarily, the responsibility of one regulator rather than the other.
+
+(2) The order may—
+
+- (a) provide that one regulator is or is not to have regard to specified matters when exercising specified functions;
+- (b) require one regulator to consult the other.
+
+## Annotations
+
+[^key-213c415ae170f27ccc3cbe5ebbb68cce]: Textual amendment: Pt. 1A substituted for Pt. 1 (24.1.2013 for specified purposes, 19.2.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/6/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3), [4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

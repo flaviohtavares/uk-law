@@ -1,0 +1,471 @@
+---
+title: The Control of Vibration at Work Regulations 2005
+id: uksi/2005/1093
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-04-04'
+text_date: '2015-10-16'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2005/1093
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/1093/pdfs/uksiem_20051093_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/1093/pdfs/uksi_20051093_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/1093/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Control of Vibration at Work Regulations 2005
+
+> Text as at 2015-10-16.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2005 No. 1093
+
+HEALTH AND SAFETY
+
+The Control of Vibration at Work Regulations 2005
+
+Made
+
+4th April 2005
+
+Laid before Parliament
+
+7th April 2005
+
+Coming into force
+
+6th July 2005
+
+The Secretary of State, in the exercise of the powers conferred on him by sections 15(1), (2) and (5), and 82(3) of, and paragraphs 1(1)(a) and (c), 8(1), 9, 11, 13(2) and (3), 14, 15(1), 16 and 20 of Schedule 3 to, the Health and Safety at Work etc. Act 1974[^f00001] (“the 1974 Act”) and of all other powers enabling him in that behalf, for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:
+
+## 1. Citation and commencement[^key-01ace4fbeb9b17ab87f49615ade830b9]
+
+These Regulations may be cited as the Control of Vibration at Work Regulations 2005 and shall come into force on 6th July 2005.
+
+## 2. Interpretation[^key-274abe5dce65eb0c2fd37764fec9c710]
+
+(1) In these Regulations—
+
+- “daily exposure” means the quantity of mechanical vibration to which a worker is exposed during a working day, normalised to an 8-hour reference period, which takes account of the magnitude and duration of the vibration;
+- “emergency services” include—
+  - (a) police, fire, rescue and ambulance services;
+  - (b) Her Majesty’s Coastguard;
+- “[^key-94915b03c424e1d68ba47bf4dc3545b5]**enforcing authority**” means the Executive, the Office for Nuclear Regulation, local authority or Office of Rail and Road[^key-6cd41b23ad6ed4b97bb2641a4a5b4f08] determined in accordance with—
+  - (a) section 18(1A) of the Health and Safety at Work etc. Act 1974;
+  - (b) the provisions of the Health and Safety (Enforcing Authority) Regulations 1998; and
+  - (c) the provisions of the Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006.
+- “exposure action value” means the level of daily exposure set out in regulation 4 for any worker which, if reached or exceeded, requires specified action to be taken to reduce risk;
+- “exposure limit value” means the level of daily exposure set out in regulation 4 for any worker which must not be exceeded, save as set out in regulation 6(5);
+- “the Executive” means the Health and Safety Executive;
+- “hand-arm vibration” means mechanical vibration which is transmitted into the hands and arms during a work activity;
+- “health surveillance” means assessment of the state of health of an employee, as related to exposure to vibration;
+- “mechanical vibration” means vibration occurring in a piece of machinery or equipment or in a vehicle as a result of its operation;
+- “risk assessment” means the assessment of risk required by regulation 5;
+- “whole-body vibration” means mechanical vibration which is transmitted into the body, when seated or standing, through the supporting surface, during a work activity or as described in regulation 5(3)(f); and
+- “working day” means a daily working period, irrespective of the time of day when it begins or ends, and of whether it begins or ends on the same calendar day.
+
+(2) In these Regulations, a reference to an employee being exposed to vibration is a reference to the exposure of that employee to mechanical vibration arising out of or in connection with his work.
+
+## 3. Application and transitional provisions[^key-7e5c47116d77b052f12e4a7e0a1129fe]
+
+(1) These Regulations shall have effect with a view to protecting persons against risk to their health and safety arising from exposure to vibration at work.
+
+(2) Subject to paragraph (3), regulation 6(4) shall not apply until 6th July 2010 where work equipment is used which–
+
+- (a) was first provided to employees prior to 6th July 2007 by any employer; and
+- (b) does not permit compliance with the exposure limit values,
+
+but in using such equipment the employer shall take into account the latest technical advances and the organisational measures taken in accordance with regulation 6(2).
+
+(3) For the agriculture and forestry sectors, regulation 6(4) shall not apply to whole-body vibration until 6th July 2014 in respect of work equipment which–
+
+- (a) was first provided to employees prior to 6th July 2007 by any employer; and
+- (b) does not permit compliance with the exposure limit value for whole-body vibration,
+
+but in using such equipment the employer shall take into account the latest technical advances and the organisational measures taken in accordance with regulation 6(2).
+
+(4) Where a duty is placed by these Regulations on an employer in respect of his employees, he shall, so far as is reasonably practicable, be under a like duty in respect of any other person, whether at work or not, who may be affected by the work carried out by the employer except that the duties of the employer—
+
+- (a) under regulation 7 (health surveillance) shall not extend to persons who are not his employees; and
+- (b) under regulation 8 (information, instruction and training) shall not extend to persons who are not his employees, unless those persons are on the premises where the work is being carried out.
+
+(5) These Regulations shall apply to a relevant self-employed person[^key-e428a5eba415b8b69581adffce514af5] as they apply to an employer and an employee and as if that relevant self-employed person were both an employer and an employee, except that regulation 7 shall not apply to a relevant self-employed person.
+
+(5A)[^key-4abc77e41ae3ac6f8e014a98fd7d5411] For the purposes of this regulation, “relevant self-employed person” means a self-employed person who conducts an undertaking of a prescribed description for the purposes of section 3(2) of the Health and Safety at Work etc. Act 1974.
+
+(6) These Regulations shall not apply to the master or crew of a ship or to the employer of such persons in respect of the normal shipboard activities of a ship’s crew which are carried out solely by the crew under the direction of the master, and for the purposes of this paragraph “ship” includes every description of vessel used in navigation, other than a ship forming part of Her Majesty’s Navy.
+
+## 4. Exposure limit values and action values[^key-8ba8f3717fbcdf813c947135c4ff7d3d]
+
+(1) For hand-arm vibration—
+
+- (a) the daily exposure limit value is 5 m/s<sup>2</sup> A(8);
+- (b) the daily exposure action value is 2.5 m/s<sup>2</sup> A(8),
+
+and daily exposure shall be ascertained on the basis set out in Schedule 1 Part I.
+
+(2) For whole body vibration—
+
+- (a) the daily exposure limit value is 1.15 m/s<sup>2</sup> A(8);
+- (b) the daily exposure action value is 0.5 m/s<sup>2</sup> A(8),
+
+and daily exposure shall be ascertained on the basis set out in Schedule 2 Part I.
+
+## 5. Assessment of the risk to health created by vibration at the workplace[^key-db3ae423d06ced117a411122f5873e95]
+
+(1) An employer who carries out work which is liable to expose any of his employees to risk from vibration shall make a suitable and sufficient assessment of the risk created by that work to the health and safety of those employees and the risk assessment shall identify the measures that need to be taken to meet the requirements of these Regulations.
+
+(2) In conducting the risk assessment, the employer shall assess daily exposure to vibration by means of–
+
+- (a) observation of specific working practices;
+- (b) reference to relevant information on the probable magnitude of the vibration corresponding to the equipment used in the particular working conditions; and
+- (c) if necessary, measurement of the magnitude of vibration to which his employees are liable to be exposed,
+
+and the employer shall assess whether any employees are likely to be exposed to vibration at or above an exposure action value or above an exposure limit value.
+
+(3) The risk assessment shall include consideration of–
+
+- (a) the magnitude, type and duration of exposure, including any exposure to intermittent vibration or repeated shocks;
+- (b) the effects of exposure to vibration on employees whose health is at particular risk from such exposure;
+- (c) any effects of vibration on the workplace and work equipment, including the proper handling of controls, the reading of indicators, the stability of structures and the security of joints;
+- (d) any information provided by the manufacturers of work equipment;
+- (e) the availability of replacement equipment designed to reduce exposure to vibration;
+- (f) any extension of exposure at the workplace to whole-body vibration beyond normal working hours, including exposure in rest facilities supervised by the employer;
+- (g) specific working conditions such as low temperatures; and
+- (h) appropriate information obtained from health surveillance including, where possible, published information.
+
+(4) The risk assessment shall be reviewed regularly, and forthwith if–
+
+- (a) there is reason to suspect that the risk assessment is no longer valid; or
+- (b) there has been a significant change in the work to which the assessment relates,
+
+and where, as a result of the review, changes to the risk assessment are required, those changes shall be made.
+
+(5) The employer shall record–
+
+- (a) the significant findings of the risk assessment as soon as is practicable after the risk assessment is made or changed; and
+- (b) the measures which he has taken and which he intends to take to meet the requirements of regulations 6 and 8.
+
+## 6. Elimination or control of exposure to vibration at the workplace[^key-b490436d273f8fd73ade9e36b6d15f3c]
+
+(1) The employer shall ensure that risk from the exposure of his employees to vibration is either eliminated at source or, where this is not reasonably practicable, reduced to as low a level as is reasonably practicable.
+
+(2) Where it is not reasonably practicable to eliminate risk at source pursuant to paragraph (1) and an exposure action value is likely to be reached or exceeded, the employer shall reduce exposure to as low a level as is reasonably practicable by establishing and implementing a programme of organisational and technical measures which is appropriate to the activity.
+
+(3) The measures taken by the employer in compliance with paragraphs (1) and (2) shall be based on the general principles of prevention set out in Schedule 1 to the Management of Health and Safety at Work Regulations 1999[^f00003] and shall include consideration of –
+
+- (a) other working methods which eliminate or reduce exposure to vibration;
+- (b) choice of work equipment of appropriate ergonomic design which, taking account of the work to be done, produces the least possible vibration;
+- (c) the provision of auxiliary equipment which reduces the risk of injuries caused by vibration;
+- (d) appropriate maintenance programmes for work equipment, the workplace and workplace systems;
+- (e) the design and layout of workplaces, work stations and rest facilities;
+- (f) suitable and sufficient information and training for employees, such that work equipment may be used correctly and safely, in order to minimise their exposure to vibration;
+- (g) limitation of the duration and magnitude of exposure to vibration;
+- (h) appropriate work schedules with adequate rest periods; and
+- (i) the provision of clothing to protect employees from cold and damp.
+
+(4) Subject to regulation 3(2) and (3) and paragraph (5), the employer shall–
+
+- (a) ensure that his employees are not exposed to vibration above an exposure limit value; or
+- (b) if an exposure limit value is exceeded, he shall forthwith–
+  - (i) reduce exposure to vibration to below the limit value;
+  - (ii) identify the reason for that limit being exceeded; and
+  - (iii) modify the measures taken in accordance with paragraphs (1) and (2) to prevent it being exceeded again.
+
+(5) Paragraph (4) shall not apply where the exposure of an employee to vibration is usually below the exposure action value but varies markedly from time to time and may occasionally exceed the exposure limit value, provided that–
+
+- (a) any exposure to vibration averaged over one week is less than the exposure limit value;
+- (b) there is evidence to show that the risk from the actual pattern of exposure is less than the corresponding risk from constant exposure at the exposure limit value;
+- (c) risk is reduced to as low a level as is reasonably practicable, taking into account the special circumstances; and
+- (d) the employees concerned are subject to increased health surveillance, where such surveillance is appropriate within the meaning of regulation 7(2),
+
+and exposure within the meaning of this paragraph shall be ascertained on the basis set out in Schedule 1 Part II for hand-arm vibration and Schedule 2 Part II for whole-body vibration.
+
+(6) The employer shall adapt any measure taken in compliance with the requirements of this regulation to take account of any employee or group of employees whose health is likely to be particularly at risk from vibration.
+
+## 7. Health surveillance[^key-48a9c76b8b0ed3dc93b3376719e11cf9]
+
+(1) If—
+
+- (a) the risk assessment indicates that there is a risk to the health of his employees who are, or are liable to be, exposed to vibration; or
+- (b) employees are likely to be exposed to vibration at or above an exposure action value,
+
+the employer shall ensure that such employees are placed under suitable health surveillance, where such surveillance is appropriate within the meaning of paragraph (2).
+
+(2) Health surveillance, which shall be intended to prevent or diagnose any health effect linked with exposure to vibration, shall be appropriate where the exposure of the employee to vibration is such that–
+
+- (a) a link can be established between that exposure and an identifiable disease or adverse health effect;
+- (b) it is probable that the disease or effect may occur under the particular conditions of his work; and
+- (c) there are valid techniques for detecting the disease or effect.
+
+(3) The employer shall ensure that a health record in respect of each of his employees who undergoes health surveillance in accordance with paragraph (1) is made and maintained and that the record or a copy thereof is kept available in a suitable form.
+
+(4) The employer shall–
+
+- (a) on reasonable notice being given, allow an employee access to his personal health record; and
+- (b) provide the enforcing authority with copies of such health records as it may require.
+
+(5) Where, as a result of health surveillance, an employee is found to have an identifiable disease or adverse health effect which is considered by a doctor or other occupational health professional to be the result of exposure to vibration the employer of that employee shall–
+
+- (a) ensure that a suitably qualified person informs the employee accordingly and provides the employee with information and advice regarding further health surveillance, including any health surveillance which he should undergo following the end of the exposure;
+- (b) ensure that he is himself informed of any significant findings from the employee’s health surveillance, taking into account any medical confidentiality;
+- (c) review the risk assessment;
+- (d) review any measure taken to comply with regulation 6, taking into account any advice given by a doctor or occupational health professional or by the enforcing authority;
+- (e) consider assigning the employee to alternative work where there is no risk from further exposure to vibration, taking into account any advice given by a doctor or occupational health professional; and
+- (f) provide for a review of the health of any other employee who has been similarly exposed, including a medical examination where such an examination is recommended by a doctor or occupational health professional or by the enforcing authority.
+
+(6) An employee to whom this regulation applies shall, when required by his employer and at the cost of his employer, present himself during his working hours for such health surveillance procedures as may be required for the purposes of paragraph (1).
+
+## 8. Information, instruction and training[^key-a440f5dfa3d7c2cbdba3e357fa8bbcd3]
+
+(1) If—
+
+- (a) the risk assessment indicates that there is a risk to the health of his employees who are, or who are liable to be, exposed to vibration; or
+- (b) employees are likely to be exposed to vibration at or above an exposure action value,
+
+the employer shall provide those employees and their representatives with suitable and sufficient information, instruction and training.
+
+(2) Without prejudice to the generality of paragraph (1), the information, instruction and training provided under that paragraph shall include–
+
+- (a) the organisational and technical measures taken in order to comply with the requirements of regulation 6;
+- (b) the exposure limit values and action values set out in regulation 4;
+- (c) the significant findings of the risk assessment, including any measurements taken, with an explanation of those findings;
+- (d) why and how to detect and report signs of injury;
+- (e) entitlement to appropriate health surveillance under regulation 7 and its purposes;
+- (f) safe working practices to minimise exposure to vibration; and
+- (g) the collective results of any health surveillance undertaken in accordance with regulation 7 in a form calculated to prevent those results from being identified as relating to a particular person.
+
+(3) The information, instruction and training required by paragraph (1) shall be updated to take account of significant changes in the type of work carried out or the working methods used by the employer.
+
+(4) The employer shall ensure that any person, whether or not his employee, who carries out work in connection with the employer’s duties under these Regulations has suitable and sufficient information, instruction and training.
+
+## 9. Exemption certificates for emergency services[^key-87461fb4860bc6e9794355f31ca1de7c]
+
+(1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt any person or class of persons from regulation 6(4) in respect of activities carried out by emergency services which conflict with the requirements of that paragraph, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by a certificate in writing at any time.
+
+(2) The Executive shall not grant any such exemption unless it is satisfied that the health and safety of the employees concerned is ensured as far as possible in the light of the objectives of these Regulations.
+
+## 10. Exemption certificates for air transport[^key-511191fbe4682ddd65ba9ae0dd0dfb0f]
+
+(1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt any person or class of persons from regulation 6(4) in respect of whole-body vibration in the case of air transport, where the latest technical advances and the characteristics of the workplace do not permit compliance with the exposure limit value despite the technical and organisational measures taken, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by a certificate in writing at any time.
+
+(2) The Executive shall not grant any such exemption unless—
+
+- (a) it consults the employers and the employees or their representatives concerned;
+- (b) the resulting risks are reduced to as low a level as is reasonably practicable; and
+- (c) the employees concerned are subject to increased health surveillance, where such surveillance is appropriate within the meaning of regulation 7(2).
+
+## 11. Exemptions relating to the Ministry of Defence[^key-c561fd9084727d70ce8467c8858eee88]
+
+(1) Subject to paragraph (2), the Secretary of State for Defence may, by a certificate in writing, exempt any person or class of persons from regulation 6(4) in respect of activities carried out in the interests of national security which conflict with the requirements of that paragraph, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by a certificate in writing at any time.
+
+(2) The Secretary of State shall not grant any such exemption unless he is satisfied that the health and safety of the employees concerned is ensured as far as possible in the light of the objectives of these Regulations.
+
+## 12. Extension outside Great Britain[^key-0b12258e2a757f0101684b55a9e27211]
+
+These Regulations shall apply to and in relation to any activity outside Great Britain to which sections 1 to 59 and 80 to 82 of the 1974 Act apply by virtue of the Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2001[^f00004] as those provisions apply within Great Britain.
+
+## 13. Amendments[^key-00bf2015e6809a58828c0f8c7710c5e0]
+
+(1) In the Offshore Installations and Wells (Design and Construction etc.) Regulations 1996[^f00005], paragraph 67 of Schedule 1 shall be omitted.
+
+(2) In the Provision and Use of Work Equipment Regulations 1998[^f00006], to the end of the list in regulation 12(5) add—
+
+> - (g) the Control of Vibration at Work Regulations 2005
+
+.
+
+Signed by authority of the Secretary of State
+
+Chris Pond
+
+Parliamentary Under-Secretary of State
+
+Department for Work and Pensions
+
+4th April 2005
+
+## SCHEDULE 1 — Hand-Arm Vibration[^key-930b7edfdc8ea0f88f79dcfd085e3ce1]
+
+Regulations 4(1) and 6(5)
+
+### Part I-Daily exposure to vibration[^key-930b7edfdc8ea0f88f79dcfd085e3ce1]
+
+The daily exposure to vibration (*A*(8)) of a person is ascertained using the formula:
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2005/1093)
+
+where:
+
+- *a*<sub>hv</sub> is the vibration magnitude, in metres per second squared (m/s<sup>2</sup>;);
+- *T* is the duration of exposure to the vibration magnitude *a*<sub>hv</sub>; and
+- *T*<sub>0</sub> is the reference duration of 8 hours (28,800 seconds).
+
+To avoid confusion between vibration magnitude and daily exposure to vibration, it is conventional to express daily exposure to vibration in m/s<sup>2</sup> A(8).
+
+The vibration magnitude, *a*<sub>hv</sub>, is ascertained using the formula:
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2005/1093)
+
+where:
+
+- *a*<sub>hwx</sub>, *a*<sub>hwy</sub> and *a*<sub>hwz</sub> are the root-mean-square acceleration magnitudes, in m/s<sup>2</sup>, measured in three orthogonal directions, x, y and z, at the vibrating surface in contact with the hand, and frequency-weighted using the weighting W<sub>h</sub>.
+
+The definition for the frequency weighting W<sub>h</sub> is given in British Standard BS EN ISO 5349-1:2001.
+
+Where both hands are exposed to vibration, the greater of the two magnitudes *a*<sub>hv</sub> is used to ascertain the daily exposure.
+
+If the work is such that the total daily exposure consists of two or more operations with different vibration magnitudes, the daily exposure (*A*(8)) for the combination of operations is ascertained using the formula:
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2005/1093)
+
+where:
+
+- *n* is the number of individual operations within the working day;
+- *a*<sub>hvi</sub> is the vibration magnitude for operation *i*; and
+- *T*<sub>i</sub> is the duration of operation *i*.
+
+### Part II-Exposure to vibration averaged over one week[^key-930b7edfdc8ea0f88f79dcfd085e3ce1]
+
+The exposure to vibration averaged over one week (*A*(8)<sub>week</sub>) is the total exposure occurring within a period of seven consecutive days, normalised to a reference duration of five 8-hour days (40 hours). It is ascertained using the formula:
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2005/1093)
+
+where:
+
+- *A*(8)j is the daily exposure for day *j.*
+
+The exposure to vibration averaged over one week is for use only for the purposes of Regulation 6(5).
+
+## SCHEDULE 2 — Whole-Body Vibration[^key-7c4ae9613ad74b1290a47fa443e7de6b]
+
+Regulations 4(2) and 6(5)
+
+### Part I-Daily exposure to vibration[^key-7c4ae9613ad74b1290a47fa443e7de6b]
+
+The daily exposure to vibration (*A*(8)) of a person is ascertained using the formula:
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2005/1093)
+
+where:
+
+- *a*<sub>w</sub> is the vibration magnitude (root-mean-square frequency-weighted acceleration magnitude) in one of the three orthogonal directions, x, y and z, at the supporting surface;
+- *T* is the duration of exposure to the vibration magnitude *a*<sub>w</sub>;
+- *T*<sub>0</sub> is the reference duration of 8 hours (28,800 seconds); and
+- *k* is a multiplying factor.
+
+To avoid confusion between vibration magnitude and daily exposure to vibration, it is conventional to express daily exposure to vibration in m/s<sup>2</sup> A(8).
+
+Daily exposure to vibration (*A*(8)) is evaluated separately for the x, y and z directions of vibration.
+
+For horizontal vibration (x and y directions), *k* = 1.4 and *a*<sub>w</sub> is obtained using the W<sub>d</sub> frequency weighting. For vertical vibration (z direction), *k* = 1.0 and *a*<sub>w</sub> is obtained using the W<sub>k</sub> frequency weighting.
+
+Definitions for the frequency weightings are given in International Standard ISO 2631-1:1997.
+
+If the work is such that the total daily exposure consists of two or more operations with different vibration magnitudes, the daily exposure (*A*(8)) for the combination of operations is ascertained using the formula:
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2005/1093)
+
+where:
+
+- *n* is the number of individual operations within the working day;
+- *a*<sub>wi</sub> is the vibration magnitude for operation *i*; and
+- *T*i is the duration of operation *i*.
+
+### Part II-Exposure to vibration averaged over one week[^key-7c4ae9613ad74b1290a47fa443e7de6b]
+
+The exposure to vibration averaged over one week (*A*(8)<sub>week</sub>) is the total exposure occurring within a period of seven consecutive days, normalised to a reference duration of five 8-hour days (40 hours). It is ascertained using the formula:
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2005/1093)
+
+where:
+
+- *A*(8)j is the daily exposure for day *j*.
+
+The exposure to vibration averaged over one week is for use only for the purposes of Regulation 6(5).
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations implement as respects Great Britain Council Directive [2002/44/EC](https://www.legislation.gov.uk/european/directive/2002/0044) (OJ No L 177, 6.7.2002, p.13) on the minimum health and safety requirements regarding the exposure of workers to the risks arising from physical agents (vibration) (sixteenth individual Directive within the meaning of Article 16(1) of Directive [89/391/EEC](https://www.legislation.gov.uk/european/directive/1989/0391)). The Regulations impose duties on employers to protect employees who may be exposed to risk from exposure to vibration at work, and other persons who might be affected by the work, whether they are at work or not.
+
+**2.** The Regulations apply to both hand-arm and whole-body vibration. They make provision for—
+
+- (a) action values and limit values for daily exposure to vibration (regulation 4);
+- (b) risk assessment (regulation 5);
+- (c) elimination or, where elimination is not reasonably practicable, reduction of exposure to vibration to as low a level as is reasonably practicable (regulation 6(1));
+- (d) a programme of measures to be taken at the action values to reduce exposure to vibration to as low a level as is reasonably practicable (regulation 6(2));
+- (e) actions to be taken at the limit values and prohibition on exceeding the limit values (regulation 6(4));
+- (f) weekly averaging of exposure to vibration in specified circumstances (regulation 6(5));
+- (g) health surveillance (regulation 7); and
+- (h) information, instruction and training (regulation 8).
+
+**3.** There are transitional periods for the commencement of the operation of regulation 6(4) concerning limit values. In the case of work equipment first provided before 6th July 2007 commencement is postponed for all vibration until 6th July 2010 (regulation 3(2)), and for whole-body vibration in agriculture and forestry only until 6th July 2014 (regulation 3(3)).
+
+**4.** The Regulations give powers to the Health and Safety Executive to grant exemptions from regulation 6(4) on limit values in respect of the activities of emergency services (regulation 9) and in respect of whole-body vibration in the case of air transport (regulation 10), and to the Secretary of State for Defence in respect of activities carried out in the interests of national security (regulation 11).
+
+**5.** The Regulations amend—
+
+- (a) the Offshore Installations and Wells (Design and Construction etc.) Regulations 1996 ([S.I. 1996/913](https://www.legislation.gov.uk/uksi/1996/913)) by removing paragraph 67 of Schedule 1, which concerns measures to prevent or control exposure to risk from vibration of plant; and
+- (b) the Provision and Use of Work Equipment Regulations 1998 ([S.I. 1998/2306](https://www.legislation.gov.uk/uksi/1998/2306)) by adding these Regulations to the list in regulation 12(5) of those Regulations of instruments whose application excludes the application of regulation 12(1) to (4) of those Regulations.
+
+**6.** Copies of British Standard BS EN ISO 5349-1:2001, relating to measurement and evaluation of human exposure to hand-transmitted mechanical vibration, referred to in Schedule 1, and International Standard ISO 2631-1:1997, relating to measurement and evaluation of human exposure to whole-body mechanical vibration and shock, referred to in Schedule 2, are obtainable from British Standards Institution, BSI House, 389 Chiswick High Road, London W4 4AL.
+
+**7.** A copy of the regulatory impact assessment in respect of these Regulations can be obtained from the Health and Safety Executive, Economic Advisers Unit, Rose Court, 2 Southwark Bridge, London SE1 9HS. A copy of the Transposition Note in relation to the implementation of Council Directive [2002/44/EC](https://www.legislation.gov.uk/european/directive/2002/0044) can be obtained from the Health and Safety Executive, International Branch at the same address. Copies of both these documents have been placed in the Libraries of each House of Parliament.
+
+## Annotations
+
+[^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); sections 11(2), 15(1) and 50(3) were amended by the Employment Protection Act [1975 c. 71](https://www.legislation.gov.uk/ukpga/1975/71), Schedule 15, paragraphs 4, 6 and 16(3) respectively.
+
+[^key-01ace4fbeb9b17ab87f49615ade830b9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+
+[^key-274abe5dce65eb0c2fd37764fec9c710]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/1093/regulation/2) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+
+[^key-94915b03c424e1d68ba47bf4dc3545b5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1093/regulation/2/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 123](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/123) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-6cd41b23ad6ed4b97bb2641a4a5b4f08]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1093/regulation/2/1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(h)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/h)
+
+[^key-7e5c47116d77b052f12e4a7e0a1129fe]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/1093/regulation/3) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+
+[^key-e428a5eba415b8b69581adffce514af5]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2005/1093/regulation/3/5) substituted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/9/a)
+
+[^key-4abc77e41ae3ac6f8e014a98fd7d5411]: Textual amendment: [Reg. 3(5A)](https://www.legislation.gov.uk/uksi/2005/1093/regulation/3/5A) inserted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 9(b)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/9/b)
+
+[^key-8ba8f3717fbcdf813c947135c4ff7d3d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/1093/regulation/4) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+
+[^key-db3ae423d06ced117a411122f5873e95]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/1093/regulation/5) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+
+[^key-b490436d273f8fd73ade9e36b6d15f3c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/1093/regulation/6) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+
+[^f00003]: Footnote: [S.I. 1999/3242](https://www.legislation.gov.uk/uksi/1999/3242), as amended by [S.I. 2003/2457](https://www.legislation.gov.uk/uksi/2003/2457).
+
+[^key-48a9c76b8b0ed3dc93b3376719e11cf9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/1093/regulation/7) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+
+[^key-a440f5dfa3d7c2cbdba3e357fa8bbcd3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2005/1093/regulation/8) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+
+[^key-87461fb4860bc6e9794355f31ca1de7c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2005/1093/regulation/9) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+
+[^key-511191fbe4682ddd65ba9ae0dd0dfb0f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/1093/regulation/10) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+
+[^key-c561fd9084727d70ce8467c8858eee88]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2005/1093/regulation/11) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+
+[^key-0b12258e2a757f0101684b55a9e27211]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2005/1093/regulation/12) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+
+[^f00004]: Footnote: [S.I. 2001/2127](https://www.legislation.gov.uk/uksi/2001/2127).
+
+[^key-00bf2015e6809a58828c0f8c7710c5e0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2005/1093/regulation/13) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+
+[^f00005]: Footnote: [S.I. 1996/913](https://www.legislation.gov.uk/uksi/1996/913), amended by [S.I. 1997/1993](https://www.legislation.gov.uk/uksi/1997/1993).
+
+[^f00006]: Footnote: [S.I. 1998/2306](https://www.legislation.gov.uk/uksi/1998/2306).
+
+[^key-930b7edfdc8ea0f88f79dcfd085e3ce1]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1093/schedule/1) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)
+
+[^key-7c4ae9613ad74b1290a47fa443e7de6b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/1093/schedule/2) in force at 6.7.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1)

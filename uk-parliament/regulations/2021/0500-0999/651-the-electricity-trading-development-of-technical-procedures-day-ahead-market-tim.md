@@ -1,0 +1,202 @@
+---
+title: The Electricity Trading (Development of Technical Procedures) (Day-Ahead Market Timeframe) Regulations 2021
+id: uksi/2021/651
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2021-05-25'
+text_date: '2024-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2021/651
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/651/pdfs/uksiem_20210651_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/651/pdfs/uksi_20210651_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/651/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electricity Trading (Development of Technical Procedures) (Day-Ahead Market Timeframe) Regulations 2021
+
+> Text as at 2024-10-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2021 No. 651
+
+Energy
+
+The Electricity Trading (Development of Technical Procedures) (Day-Ahead Market Timeframe) Regulations 2021
+
+Made
+
+25th May 2021
+
+Coming into force
+
+26th May 2021
+
+The Secretary of State, in exercise of the powers conferred by section 31(1) of the European Union (Future Relationship) Act 2020[^f00001], makes the following Regulations.
+
+In accordance with paragraph 6(1) of Schedule 5 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation, commencement, extent and interpretation[^key-8699563453668dc4a29e5e8fc68cd1fa]
+
+(1) These Regulations may be cited as the Electricity Trading (Development of Technical Procedures) (Day-Ahead Market Timeframe) Regulations 2021 and come into force on the day after the day on which they are made.
+
+(2) These Regulations extend to England and Wales and Scotland.
+
+(3) In these Regulations—
+
+- “Annex 29” means Annex 29 (allocation of electricity interconnector capacity at the day-ahead market timeframe) to the Trade and Cooperation Agreement[^f00002];
+- “the Authority” means the Gas and Electricity Markets Authority[^f00003];
+- “electricity interconnector” has the meaning given by Article 300 of the Trade and Cooperation Agreement (definitions);
+- “GB transmission system operator” means—
+  - (a) a person who holds an interconnector licence under section 6(1)(e) of the Electricity Act 1989[^f00004] and participates in the operation of an electricity interconnector,
+  - (b) a person who holds an electricity system operator licence under section 6(1)(da) of the Electricity Act 1989,[^key-52dd35e8844fd2b2947f6160c1311230]
+
+  and a reference to “GB transmission system operators” in paragraphs (1) to (3) and (7) of regulation 4 is a reference to those operators acting collectively;
+- “non-UK transmission system operator” means a person in a member State of the European Union who carries out the function of transmission or is responsible for operating, ensuring the maintenance of, and, if necessary, developing the electricity transmission system in a given area and, where applicable, its interconnections with other systems, and for ensuring the long-term ability of the system to meet reasonable demands for the transport of electricity;
+- “Northern Ireland Authority” means the Northern Ireland Authority for Utility Regulation[^f00007];
+- “Northern Ireland transmission system operator” means a person who is designated as an electricity transmission system operator under Article 10H of the Electricity (Northern Ireland) Order 1992[^f00008];
+- “relevant electricity market operator” means a person who, immediately before IP completion day, was designated under article 4 of [Commission Regulation (EU) No. 2015/1222](https://www.legislation.gov.uk/european/regulation/1222/2015) of 24 July 2015 establishing a guideline on capacity allocation and congestion management[^f00009] as a nominated electricity market operator and performed tasks in Great Britain related to single day-ahead or single intraday coupling;
+- “Specialised Committee on Energy” means the committee established under paragraph 1(l) of Article 8 of the Trade and Cooperation Agreement (committees);
+- “transmission” means the transport of electricity on the extra high-voltage and high-voltage system with a view to its delivery to customers or to distributors, but does not include supply.
+
+## 2. Designation of regulatory authority[^key-1f474dbd301e32e4f3bffc6f6d5cc71c]
+
+The Authority is designated as the regulatory authority for Great Britain for the purposes of Article 310 of the Trade and Cooperation Agreement.
+
+## 3. Secretary of State power of direction[^key-eac62d2ac47c6c9960a9a72db76c7ce2]
+
+(1) The Secretary of State must give directions, in writing, to—
+
+- (a) GB transmission system operators specifying, in each case, the day before which GB transmission system operators must comply with their obligations under paragraphs (2) (3) and (7) of regulation 4,
+- (b) the Authority, specifying the day before which the Authority must comply with its obligations under paragraph (4) of regulation 4.
+
+(2) Directions given under this regulation may be varied or revoked by further directions given under this regulation.
+
+## 4. Technical procedures for electricity trading at the day-ahead market timeframe[^key-7aed6d5c1b97b120a5b696f6540bf3d6]
+
+(1) For the purposes of Article 311(1)(f), Article 312(1) and Article 317(1) of the Trade and Cooperation Agreement, GB transmission system operators must develop proposals setting out technical procedures for the allocation of electricity interconnector capacity at the day-ahead market timeframe in accordance with Annex 29 (“the technical procedures”).
+
+(2) GB transmission system operators must send to the Authority and the Northern Ireland Authority the draft technical procedures before such day as the Secretary of State specifies by direction in accordance with regulation 3.
+
+(3) In the event of a disagreement with non-UK transmission system operators regarding the development of the technical procedures, GB transmission system operators must seek the opinion of the Authority on that disagreement as soon as reasonably practicable and in any event before such day as the Secretary of State specifies by direction in accordance with regulation 3 for purposes of paragraph (2).
+
+(4) Subject to paragraphs (5) and (6), the Authority must provide an opinion, in writing, to GB transmission system operators in respect of—
+
+- (a) the draft technical procedures sent to it under paragraph (2), and
+- (b) where appropriate, the disagreement on which its opinion is sought under paragraph (3),
+
+before such day as the Secretary of State specifies by direction in accordance with regulation 3.
+
+(5) Before providing an opinion referred to in paragraph (4), the Authority must—
+
+- (a) provide the Northern Ireland Authority with an opportunity to make representations in respect of the draft technical procedures and, where appropriate, in respect of a disagreement regarding the development of the procedures, and
+- (b) provide the Northern Ireland Authority with any relevant information in respect of the draft technical procedures and, where appropriate, a disagreement regarding the development of the procedures.
+
+(6) The Authority must have regard to any representations made by the Northern Ireland Authority by virtue of paragraph (5) and ensure those representations are taken into account in the opinion as appropriate.
+
+(7) GB transmission system operators must send the draft technical procedures together with the opinion from the Authority in respect of those procedures and, where appropriate, the opinion from the Authority in respect of a disagreement, to the Specialised Committee on Energy before such day as the Secretary of State specifies by direction in accordance with regulation 3.
+
+(8) For the purposes of developing the technical procedures, GB transmission systems operators must—
+
+- (a) cooperate with—
+  - (i) each other,
+  - (ii) relevant electricity market operators,
+- (b) endeavour to cooperate with—
+  - (i) Northern Ireland transmission system operators,
+  - (ii) non-UK transmission system operators, and
+  - (iii) the European Network of Transmission System Operators for Electricity governed in accordance with Regulation (EU) 2019/943 of the European Parliament and of the Council of 5 June 2019 on the internal market for electricity (recast)[^f00010].
+
+(9) Relevant electricity market operators must co-operate with each other and with GB transmission system operators for the purposes of facilitating the development of the technical procedures.
+
+## 5. Costs[^key-9ec8aaaa734b4f73312155db4eba03b7]
+
+(1) The Authority is responsible for the allocation and recovery of costs relating to the development and implementation of the technical procedures to be apportioned in accordance with paragraph 6 of Annex 29 in so far as those costs apply to GB transmission system operators and relevant electricity market operators.
+
+(2) The Authority may request from a GB transmission system operator or relevant electricity market operator any information it considers is necessary to facilitate the implementation or enforcement of the costs referred to in paragraph (1).
+
+(3) Where the Authority makes a request in accordance with paragraph (2), a GB transmission system operator or relevant electricity market operator must, within three months of the notification of the request, provide to the Authority the information requested.
+
+## 6. Secretary of State guidance[^key-8aff81fbbcffa87085861552136983d1]
+
+In complying with the duties imposed under these Regulations, GB transmission system operators, relevant electricity market operators and the Authority must have regard to any guidance issued by the Secretary of State.
+
+## 7. Enforcement[^key-a3728daa2ca5f55c7530082d7384a601]
+
+(1) The following requirements are enforceable by the Authority as if they were relevant requirements on a regulated person for the purpose of section 25 of the Electricity Act 1989[^f00011]—
+
+- (a) any requirement to which a GB transmission system operator is subject under these Regulations,
+- (b) any requirement to which a relevant electricity market operator is subject under these Regulations.
+
+(2) For the avoidance of doubt, paragraph (1) applies whether or not the person on whom a requirement is imposed is in fact a regulated person within the meaning of the Electricity Act 1989.
+
+Anne-Marie Trevelyan
+
+Minister of State
+
+Department for Business, Energy and Industrial Strategy
+
+25th May 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made under section 31 of the European Union (Future Relationship) Act [2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29) and implement Article 311(1)(f), Article 312(1) and Article 317(1) to, and Annex 29 of, the Trade and Cooperation Agreement between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part (“the Trade and Cooperation Agreement”), for the purposes of developing technical procedures for electricity trading in the day-ahead market timeframe. It also implements Article 310 of the Trade and Cooperation Agreement in respect of designating a regulatory authority for specified purposes relating to electricity and gas.
+
+Regulation 2 designates the Gas and Electricity Markets Authority (“the Authority”) as the regulatory authority for Great Britain for the purposes of Article 310 of the Trade and Cooperation Agreement.
+
+Regulation 3 places an obligation on the Secretary of State to give directions to GB transmission system operators (“GB TSOs”) setting out, in each case, the day before which they must comply with their obligations under regulation 4. It also requires the Secretary of State to give a direction to the Authority specifying the day before which it must provide its opinion under regulation 4(4). There is a discretion on the Secretary of State to vary or revoke any directions given under this regulation.
+
+Regulation 4 places obligations on GB TSOs to develop the technical procedures for the allocation of electricity interconnector capacity at the day-ahead market timeframe in accordance with Annex 29 of the Trade and Cooperation Agreement. GB TSOs are required to submit the technical procedures to the Authority and to the Northern Ireland Authority for Utility Regulation (“the Northern Ireland Authority”) and, where there is a disagreement with non-UK transmission system operators in developing those procedures, GB TSOs are required to seek the opinion of the Authority. The Authority must provide an opinion on those procedures, or any such disagreement, and send it to the GB TSOs. Before providing such an opinion, it must provide the Northern Ireland Authority with the opportunity to make representations in respect of the technical procedures or any disagreement and provide them with any relevant information. The Authority is required to have regard to any representations made by the Northern Ireland Authority and ensure those representations are taken account of in the opinion as appropriate. The GB TSOs must send the opinion of the Authority together with the technical procedures to the Specialised Committee on Energy. The obligations under this regulation are to be completed before a day specified in a direction by the Secretary of State. This regulation also places obligations on GB TSOs and relevant electricity market operators to cooperate with other relevant parties in developing the technical procedures.
+
+Regulation 5 places a duty on the Authority to determine the allocation and recovery of costs relating to the development and implementation of the technical procedures to be apportioned in accordance with paragraph 6 of Annex 29 of the Trade and Cooperation Agreement. It gives the Authority the power to require the provision of information relating to costs from GB TSOs and relevant electricity market operators and requires them to comply within three months of notification of the request being made.
+
+Regulation 6 places an obligation on GB TSOs, relevant electricity market operators and the Authority to have regard to any guidance published by the Secretary of State.
+
+Regulation 7 applies section 25 of the Electricity Act [1989 (c. 29)](https://www.legislation.gov.uk/ukpga/1989/29) in respect of obligations placed on relevant electricity market operators and GB TSO as if they were relevant requirements on a regulated person. This will enable the Authority to enforce those obligations under that Act.
+
+An Impact Assessment has not been prepared for this instrument because the impacts identified are below the threshold required to carry out a full impact assessment. A De-Minimis form has been produced which describes the impacts and includes an assessment of any direct costs to business that are expected as a result of this instrument. This form is available upon request from the Energy Security, Networks and Markets Team, Department for Business Energy and Industrial Strategy 1 Victoria Street, London SW1H 0ET.
+
+## Annotations
+
+[^f00001]: Footnote: [2020 c. 29](https://www.legislation.gov.uk/ukpga/2020/29).
+
+[^key-8699563453668dc4a29e5e8fc68cd1fa]: Commencement: Reg. 1 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
+
+[^f00002]: Footnote: The Trade and Cooperation Agreement is defined in section 37(1) of the European Union (Future Relationship) Act [2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29). By virtue of sections 37(4) and (5) of the European Union (Future Relationship) Act 2020, references in these Regulations to the Trade and Cooperation Agreement are to be read as modified accordingly.
+
+[^f00003]: Footnote: The Gas and Electricity Markets Authority was established under section 1 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^f00004]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6(1)(e) was added by section 136(1) of the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20).
+
+[^key-52dd35e8844fd2b2947f6160c1311230]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/3) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2024/706/regulation/36); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+
+[^f00007]: Footnote: The Northern Ireland Authority for Energy Regulation was established under article 3 of the Energy (Northern Ireland) Order 2003 ([S.I. 2003/419](https://www.legislation.gov.uk/uksi/2003/419)) (N.I. 6) and by virtue of article 3 of [S.I. 2006/3336 (N.I. 21)](https://www.legislation.gov.uk/nisi/2006/3336) was thereafter to be known as the Northern Ireland Authority for Utility Regulation.
+
+[^f00008]: Footnote: [S.I. 1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231). Article 10H was added by the Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 ([S.R. 2011/155](https://www.legislation.gov.uk/nisr/2011/155)) and amended by the Electricity (Internal Markets) Regulation (Northern Ireland) 2020 ([S.R. 2020/307](https://www.legislation.gov.uk/nisr/2020/307)).
+
+[^f00009]: Footnote: O.J. No. L197, 25.07.2015, p. 24.
+
+[^key-1f474dbd301e32e4f3bffc6f6d5cc71c]: Commencement: Reg. 2 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
+
+[^key-eac62d2ac47c6c9960a9a72db76c7ce2]: Commencement: Reg. 3 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
+
+[^key-7aed6d5c1b97b120a5b696f6540bf3d6]: Commencement: Reg. 4 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
+
+[^f00010]: Footnote: O.J. No. L 158, 14.6.2019, p 54. The European Network of Transmission Operators for Electricity was established under Regulation [(EC) No 714/2009](https://www.legislation.gov.uk/european/regulation/2009/0714) on conditions for access to the network for cross border exchanges in electricity. Regulation [(EC) No 714/2009](https://www.legislation.gov.uk/european/regulation/2009/0714) was repealed by Regulation (EU) 2019/943 and the governance provisions for the European Network of Transmission System Operators for electricity were recast in Regulation (EU) 2019/943.
+
+[^key-9ec8aaaa734b4f73312155db4eba03b7]: Commencement: Reg. 5 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
+
+[^key-8aff81fbbcffa87085861552136983d1]: Commencement: Reg. 6 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
+
+[^key-a3728daa2ca5f55c7530082d7384a601]: Commencement: Reg. 7 in force at 26.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/651/regulation/1/1)
+
+[^f00011]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Relevant amendments have been made to section 25 by [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704), [S.I. 2017/493](https://www.legislation.gov.uk/uksi/2017/493) and [S.I. 2019/530](https://www.legislation.gov.uk/uksi/2019/530).

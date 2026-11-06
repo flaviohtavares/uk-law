@@ -1,0 +1,61 @@
+---
+title: Corporation Tax Act 2009, section 809
+act: Corporation Tax Act 2009
+section: '809'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/4/section/809
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2009, section 809
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 809. Oil licences
+
+*Extent: E+W+S+N.I.*
+
+(1) This Part does not apply to an oil licence or an interest in an oil licence.
+
+(1A)[^key-68dca21f0730dee9b4025474f5daa565] The reference in subsection (1) to an oil licence or an interest in an oil licence includes all goodwill, and any intangible asset, which relates to, derives from or is connected with an oil licence or an interest in an oil licence.
+
+(2) In this section[^key-1386977c1d87e1ea42005001226dffff] “**oil licence**” means a UK oil licence or a foreign oil concession.
+
+(3) In this section—
+
+- “**UK oil licence**” means a licence under—
+  - (a) Part 1 of the Petroleum Act 1998 (c. 17) (“**the 1998 Act**”), or
+  - (b) the Petroleum Production (Northern Ireland) Act 1964 (c. 28 (N.I.)) (“**the 1964 Act**”),
+
+  authorising the winning of oil, and
+- “**foreign oil concession**” means any right that—
+  - (a) is a right to search for or win oil that exists in its natural condition in a place to which neither the 1998 Act nor the 1964 Act applies, and
+  - (b) is conferred or exercisable (whether or not under a licence) in relation to a particular area.
+
+(4) In this section[^key-6803cc9901dd312eda01e25a6efb3d50] “**interest in an oil licence**” includes any entitlement under an agreement to, or to a share of, oil or the proceeds of its sale if the agreement—
+
+- (a) relates to oil from the whole or a part of the licensed area, and
+- (b) was made before the extraction of the oil to which it relates.
+
+(5) In subsection (4)(a) “**licensed area**” means—
+
+- (a) in relation to a UK oil licence, the area to which the licence applies, and
+- (b) in relation to a foreign oil concession, the area in relation to which the right to search for or win oil is conferred or exercisable under the concession.
+
+(6) In this section “oil”—
+
+- (a) in relation to a UK oil licence, means any substance won or capable of being won under the authority of a licence granted under Part 1 of the 1998 Act or the 1964 Act, other than methane gas won in the course of making and keeping mines safe, and
+- (b) in relation to a foreign oil concession, means any petroleum (as defined in section 1 of the 1998 Act).
+
+## Annotations
+
+[^key-68dca21f0730dee9b4025474f5daa565]: Textual amendment: S. 809(1A) inserted (19.7.2011) (with effect in accordance with s. 62(5)(6) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 62(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/62/2)
+
+[^key-1386977c1d87e1ea42005001226dffff]: Textual amendment: Words in s. 809(2) substituted (19.7.2011) (with effect in accordance with s. 62(5)(6) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 62(3)](https://www.legislation.gov.uk/ukpga/2011/11/section/62/3)
+
+[^key-6803cc9901dd312eda01e25a6efb3d50]: Textual amendment: Words in s. 809(4) substituted (19.7.2011) (with effect in accordance with s. 62(5)(6) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 62(4)](https://www.legislation.gov.uk/ukpga/2011/11/section/62/4)

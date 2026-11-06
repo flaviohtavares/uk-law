@@ -1,0 +1,245 @@
+---
+title: Public Expenditure and Receipts Act 1968
+id: ukpga/1968/14
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1968-03-20'
+text_date: '2016-07-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1968/14
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1968/14/pdfs/ukpga_19680014_en.pdf
+- http://www.legislation.gov.uk/ukpga/1968/14/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Public Expenditure and Receipts Act 1968
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2016-07-12. See https://www.legislation.gov.uk/changes/affected/ukpga/1968/14
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+*Extent: E+W+S*
+
+Public Expenditure and Receipts Act 1968
+
+1968 c.14
+
+An Act to increase contributions payable under the National Insurance Act 1965 and the National Health Service Contributions Act 1965, and to strengthen the provisions of the former Act as to enforcement; to restrict the enactments providing for the supply of milk to school children; to provide compensation for civil defence employees in connection with the reduction of activities under section 2 of the Civil Defence Act 1948; to provide for increasing, or for abolishing in the interests of economy, certain fees and other payments; and to amend section 3 of the Local Employment Act 1960 as regards consultation with the advisory committee; and for purposes connected therewith.
+
+\[20th March 1968\] [^c733251][^c733252]
+
+## 1—2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c733253][^c733254]
+
+*Extent: E+W+S*
+
+## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c733255]
+
+*Extent: E+W+S*
+
+## 4. Compensation to civil defence employees for loss of employment etc.[^key-b13c9d5697bf22044ed7633eaa9b5c72]
+
+*Extent: E+W+S*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Increase of fees etc.[^c733278][^c733279][^key-d4c8c660c176922fc70828362897e172][^c733277]
+
+(1) With a view to securing from the fees, charges or other payments required or regulated by the enactments mentioned in column 1 of Schedule 3 to this Act a net return corresponding more nearly with the cost of the matters for which they are payable, or to dispensing with payments from which a net return cannot reasonably be expected, those enactments may be amended by an order made by the Minister specified in relation to the enactment in question in column 2 of the Schedule, so as to vary any sum specified by the enactment as the amount or maximum amount of any payment, or so as to provide that any sum payable under the enactment shall cease to be payable.
+
+(2) The powers conferred by subsection (1) above in relation to any enactment shall be exercisable in relation to that enactment as applied by any other enactment, and shall include power—
+
+- (a) to make different provision for different cases, or provision limited to specified cases; and
+- (b) to repeal any enactment superseded by the exercise of the powers (including any enactment amending an enactment mentioned in Schedule 3 to this Act); and
+- (c) to vary or revoke any previous order under subsection (1) above.
+
+(3) The power to make orders under subsection (1) above shall be exercisable by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) There shall be paid into the Exchequer any addition resulting from this section to the sums so payable by virtue of any other enactment.
+
+(5) This section shall extend to Northern Ireland in so far as it affects—
+
+- (a) section 9 of the [^c733280]Fees (Increase) Act 1923 in its operation on any enactment relating to matters in respect of which the Parliament of Northern Ireland has no power to make laws; or
+- (b) section 90(2) of the [^c733281]Transport Act 1962.
+
+## 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c733282]
+
+*Extent: E+W+S*
+
+## 7. Short title and extent.
+
+*Extent: E+W+S*
+
+(1) This Act may be cited as the Public Expenditure and Receipts Act 1968.
+
+(2)[^c733283] Subject to section 5(5) above, this Act shall not extend to Northern Ireland, . . . [^c733284]
+
+SCHEDULES
+
+## SCHEDULE 1[^c733285][^c733285]
+
+*Extent: E+W+S*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c733285]
+
+## SCHEDULE 2[^c733287][^c733287][^c733286]
+
+*Extent: E+W+S*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c733287]
+
+## SCHEDULE 3[^c733507][^c733508][^c733509][^c733510]
+
+Variation of Fees etc.
+
+<table>
+<tbody>
+<tr><th>Enactments requiring or regulating payment</th><th>Relevant Minister</th></tr>
+<tr><td>1. (a) The Births and Deaths Registration Act 1836 (c. 86) section 35.</td><td></td></tr>
+<tr><td>. . .</td><td></td></tr>
+<tr><td colspan="2">. . .</td></tr>
+<tr><td>. . .</td><td>The Secretary of State.</td></tr>
+<tr><td colspan="2">. . .</td></tr>
+<tr><td colspan="2">...</td></tr>
+<tr><td colspan="2">(b) The Savings Banks Act 1887 (c. 40) sections 10 and 10B(2).</td></tr>
+<tr><td>...</td><td>...</td></tr>
+<tr><td colspan="2">. . .</td></tr>
+<tr><td colspan="2">. . .</td></tr>
+<tr><td>... The Factories Act 1961 (c. 34) section 178(1).</td><td>The Secretary of State <em>(affected by repeal, see note)</em> or, as regards Scotland, the <em>(affected by repeal, see note)</em> Secretary of State.</td></tr>
+<tr><td colspan="2">The Education (Scotland) Act 1980 (c. 44) section 84(1).</td></tr>
+<tr><td colspan="2">. . .</td></tr>
+<tr><td>The Social Security Administration Act 1992 (c. 5) sections 124(3) and 124B(1)</td><td>The Secretary of State.</td></tr>
+<tr><td>...</td><td>The Secretary of State.</td></tr>
+<tr><td>3. The Lyon King of Arms Act 1867 (c. 17) Schedule B.</td><td>The Secretary of State.</td></tr>
+<tr><td>4. ...</td><td>...</td></tr>
+<tr><td>5. ...</td><td>...</td></tr>
+<tr><td colspan="2">6. ...</td></tr>
+<tr><td colspan="2">. . .</td></tr>
+<tr><td>The Road and Rail Traffic Act 1933 (c. 53) section 47(2).</td><td>the Treasury</td></tr>
+<tr><td colspan="2">. . .</td></tr>
+<tr><td colspan="2">...</td></tr>
+<tr><td colspan="2">The Transport Act 1962 (c. 46) section 90(2).</td></tr>
+<tr><td>7. (a) . . .</td><td>. . .</td></tr>
+<tr><td>(b) . . .</td><td>. . .</td></tr>
+<tr><td>8. The Road Traffic Act 1972 (c. 20), sections 154 and 155.</td><td>The Secretary of State or, as regards Scotland, the Secretary of State.</td></tr>
+<tr><td>9. ...</td><td>...</td></tr>
+</tbody>
+</table>
+
+[^c733511][^M_F_ef848d40-757c-47dd-a04e-c0c0d870077c][^M_F_eb9ab088-3edb-43d9-bf56-9fa2f0ad353c][^c733513][^key-0934521aaacec9dc4262efe83982de51][^M_F_5d2dd0c9-0b74-4ffa-d041-5302e253e46f][^key-f61f025b85fca1ae314cf05c5b2f146f][^key-b461b6a3a92c7a381cb189f41ca95c82][^key-0b4f9c479e33aa8709f9aef68102ca9f][^key-0b4f9c479e33aa8709f9aef68102ca9f][^c733516][^c733517][^key-0b4f9c479e33aa8709f9aef68102ca9f][^c733515][^M_F_44bb47f9-635b-4b99-c503-ffc73470ecd9][^M_F_44bb47f9-635b-4b99-c503-ffc73470ecd9][^c733519][^c733520][^c733521][^c733522][^c733523][^M_F_2cbcff91-f9c9-4339-df48-9d0a17b05f70][^key-4adf316fc82ab663860639cc0cc27903][^key-4adf316fc82ab663860639cc0cc27903][^key-0b4f9c479e33aa8709f9aef68102ca9f][^key-0b4f9c479e33aa8709f9aef68102ca9f][^key-0b4f9c479e33aa8709f9aef68102ca9f][^c733525][^c733526][^c733527][^key-4fa80131e42284916205a44d908586d5][^c733528][^c733529][^c733530][^c733531][^key-0b4f9c479e33aa8709f9aef68102ca9f][^key-0b4f9c479e33aa8709f9aef68102ca9f]
+
+## Annotations
+
+[^c733251]: Commencement: Act wholly in force at Royal Assent.
+
+[^c733252]: Extent: Act except s. 5 does not extend to Northern Ireland see [s. 7(2)](https://www.legislation.gov.uk/ukpga/1968/14/section/7/2), [5(5)](https://www.legislation.gov.uk/ukpga/1968/14/section/5/5)
+
+[^c733253]: Modification: [Ss. 1-2](https://www.legislation.gov.uk/ukpga/1968/14/section/1): power to continue conferred (1.7.1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), [ss. 5](https://www.legislation.gov.uk/ukpga/1992/6/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1992/6/section/7/2), [Sch. 3 para.15](https://www.legislation.gov.uk/ukpga/1992/6/schedule/3/paragraph/15)
+
+[^c733254]: Textual amendment: [Ss. 1](https://www.legislation.gov.uk/ukpga/1968/14/section/1), [2](https://www.legislation.gov.uk/ukpga/1968/14/section/2) repealed by [Social Security Act 1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38), [Sch. 28 Pt. I](https://www.legislation.gov.uk/ukpga/1973/38/schedule/28/part/I)
+
+[^c733255]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1968/14/section/3) repealed by [Education (Milk) Act 1971 (c. 74)](https://www.legislation.gov.uk/ukpga/1971/74), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1971/74/section/1/4), [2(5)](https://www.legislation.gov.uk/ukpga/1971/74/section/2/5)
+
+[^key-b13c9d5697bf22044ed7633eaa9b5c72]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1968/14/section/4) repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2004/36/schedule/2/paragraph/6), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(q)(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/q/r)
+
+[^c733278]: Subordinate legislation: S. 5: power exercised by [S.I. 1991/274](https://www.legislation.gov.uk/uksi/1991/274).
+
+    S. 5: for previous exercises of power see Index to Government Orders.
+
+[^c733279]: Subordinate legislation: S. 5: s. 5 (with Sch. 3) power exercised (E.W.S) by [S.I. 1991/2005](https://www.legislation.gov.uk/uksi/1991/2005).
+
+    S. 5: s. 5 (with Sch. 3) power exercised (S.) (12.12.1991) by [S.I.1991/2818](https://www.legislation.gov.uk/uksi/1991/2818).
+
+[^key-d4c8c660c176922fc70828362897e172]: Modification: S. 5: transfer of functions (3.4.2008) by [Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2008/678/schedule/1/paragraph/8) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
+
+[^c733277]: Modification: Functions of the Minister for the Civil Service under s. 5 transferred to the Treasury by [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670), [art. 2(3)](https://www.legislation.gov.uk/uksi/1981/1670/article/2/3)(*a*), Sch.
+
+[^c733280]: Marginal citation: [1923 c. 4](https://www.legislation.gov.uk/ukpga/1923/4).
+
+[^c733281]: Marginal citation: [1962 c. 46](https://www.legislation.gov.uk/ukpga/1962/46).
+
+[^c733282]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1968/14/section/6) repealed by [Local Employment Act 1972 (c. 5)](https://www.legislation.gov.uk/ukpga/1972/5), [Sch. 4](https://www.legislation.gov.uk/ukpga/1972/5/schedule/4)
+
+[^c733283]: Modification: [S. 7(2)](https://www.legislation.gov.uk/ukpga/1968/14/section/7/2): power to continue conferred (1.7.1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), [ss. 5](https://www.legislation.gov.uk/ukpga/1992/6/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1992/6/section/7/2), [Sch. 3 para.15](https://www.legislation.gov.uk/ukpga/1992/6/schedule/3/paragraph/15)
+
+[^c733284]: Textual amendment: Words repealed by [National Insurance Act 1969 (c. 44)](https://www.legislation.gov.uk/ukpga/1969/44), [Sch. 7](https://www.legislation.gov.uk/ukpga/1969/44/schedule/7) and [Social Security Act 1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38), [Sch. 28 Pt. I](https://www.legislation.gov.uk/ukpga/1973/38/schedule/28/part/I)
+
+[^c733285]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1968/14/schedule/1) repealed by [National Insurance Act 1969 (c. 44)](https://www.legislation.gov.uk/ukpga/1969/44), [Sch. 7](https://www.legislation.gov.uk/ukpga/1969/44/schedule/7)
+
+[^c733287]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1968/14/schedule/2) repealed by [Social Security Act 1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38), [Sch. 28 Pt. I](https://www.legislation.gov.uk/ukpga/1973/38/schedule/28/part/I)
+
+[^c733286]: Modification: [Sch. 2](https://www.legislation.gov.uk/ukpga/1968/14/schedule/2): power to continue conferred (1.7.1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), [ss. 5](https://www.legislation.gov.uk/ukpga/1992/6/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1992/6/section/7/2), [Sch. 3 para.15](https://www.legislation.gov.uk/ukpga/1992/6/schedule/3/paragraph/15)
+
+[^c733507]: Subordinate legislation: Sch. 3: s. 5 (with Sch. 3) power exercised (E.W.S.) by [S.I. 1991/2005](https://www.legislation.gov.uk/uksi/1991/2005).
+
+    Sch. 3: s. 5 (with Sch. 3) power exercised (S.) (12.12.1991) by [S.I. 1991/2818](https://www.legislation.gov.uk/uksi/1991/2818)
+
+[^c733508]: Editorial: This form sets out the effect of Schedule 3 as enacted by Parliament but does not reproduce its exact wording or format. (As enacted, embracing brackets in the second column indicated the paragraphs or subparagraphs in the first column to which the entries in the second column relate).
+
+[^c733509]: Modification: Sch. 3 paras. 1(a), 2: functions of the Secretary of State transferred (1.4.1996) by [S.I. 1996/273](https://www.legislation.gov.uk/uksi/1996/273), [art. 3(1)](https://www.legislation.gov.uk/uksi/1996/273/article/3/1), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/uksi/1996/273/schedule/1/paragraph/10/a)
+
+    Sch. 3 para 1(b): functions of the Secretary of State transferred (S.) (1.4.1996) by [S.I. 1996/273](https://www.legislation.gov.uk/uksi/1996/273), [art. 3(1)](https://www.legislation.gov.uk/uksi/1996/273/article/3/1), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/uksi/1996/273/schedule/1/paragraph/10/b)
+
+[^c733510]: Modification: Sch. 3 amended by [Marriage Act 1983 (c.32, SIF 49:1)](https://www.legislation.gov.uk/ukpga/1983/32), [s. 2(2)](https://www.legislation.gov.uk/ukpga/1983/32/section/2/2)
+
+[^c733511]: Textual amendment: Sch. 3 para. 1(a): words repealed by [National Health Service Reorganisation Act 1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32), [s. 57](https://www.legislation.gov.uk/ukpga/1973/32/section/57), [Sch. 5](https://www.legislation.gov.uk/ukpga/1973/32/schedule/5)
+
+[^M_F_ef848d40-757c-47dd-a04e-c0c0d870077c]: Textual amendment: Words in Sch. 3 omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 34(a)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/34/a); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+
+[^M_F_eb9ab088-3edb-43d9-bf56-9fa2f0ad353c]: Textual amendment: Words in Sch. 3 omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 34(b)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/34/b); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+
+[^c733513]: Textual amendment: Words in Sch. 3 paras. 1(a), 2 substituted (1.4.1996) by virtue of [S.I. 1996/273](https://www.legislation.gov.uk/uksi/1996/273), [art. 5(1)](https://www.legislation.gov.uk/uksi/1996/273/article/5/1), [Sch. 2 para. 16(a)](https://www.legislation.gov.uk/uksi/1996/273/schedule/2/paragraph/16/a)
+
+[^key-0934521aaacec9dc4262efe83982de51]: Textual amendment: Words in Sch. 3 substituted (3.4.2008) by [Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2008/678/schedule/2/paragraph/8) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
+
+[^M_F_5d2dd0c9-0b74-4ffa-d041-5302e253e46f]: Textual amendment: Words in Sch. 3 omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 34(c)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/34/c); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+
+[^key-f61f025b85fca1ae314cf05c5b2f146f]: Textual amendment: Sch. 3: entries repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
+
+[^key-b461b6a3a92c7a381cb189f41ca95c82]: Textual amendment: Words in Sch. 3 substituted (S.) (1.10.2006) by virtue of [Local Electoral Administration and Registration Services (Scotland) Act 2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14), [ss. 53(3)(a)(b)](https://www.legislation.gov.uk/asp/2006/14/section/53/3/a), [63(2)](https://www.legislation.gov.uk/asp/2006/14/section/63/2); [S.S.I. 2006/469](https://www.legislation.gov.uk/ssi/2006/469), [art. 2](https://www.legislation.gov.uk/ssi/2006/469/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/469/schedule/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/469/article/4))
+
+[^key-0b4f9c479e33aa8709f9aef68102ca9f]: Textual amendment: Sch. 3: entries repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 2
+
+[^c733516]: Textual amendment: The entry relating to the [Young Persons (Employment) Act 1938 (c.69)](https://www.legislation.gov.uk/ukpga/1938/69), [s. 5](https://www.legislation.gov.uk/ukpga/1938/69/section/5) repealed by [Employment Act 1989 (c.38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. II](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/II)
+
+[^c733517]: Textual amendment: Sch. 3 para. 1(b): words repealed by [Friendly Societies Act 1974 (c. 46)](https://www.legislation.gov.uk/ukpga/1974/46), [s. 116(4)](https://www.legislation.gov.uk/ukpga/1974/46/section/116/4), [Sch. 11](https://www.legislation.gov.uk/ukpga/1974/46/schedule/11)
+
+[^c733515]: Textual amendment: Words in Sch. 3 para. 1(b) substituted (1.4.1996) by virute of [S.I. 1996/273](https://www.legislation.gov.uk/uksi/1996/273), [art. 5(1)](https://www.legislation.gov.uk/uksi/1996/273/article/5/1), [Sch. 2 para. 16(b)](https://www.legislation.gov.uk/uksi/1996/273/schedule/2/paragraph/16/b)
+
+[^M_F_44bb47f9-635b-4b99-c503-ffc73470ecd9]: Textual amendment: Words in Sch. 3 as they relate to the Savings Bank Act 1887 and the Factories Act 1961 omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 34(d)(e)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/34/d/e); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+
+[^c733519]: Textual amendment: Words substituted by [Education (Scotland) Act 1980 (c.44, SIF 41:2)](https://www.legislation.gov.uk/ukpga/1980/44), [s. 136(2)](https://www.legislation.gov.uk/ukpga/1980/44/section/136/2), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/1980/44/schedule/4/paragraph/4)
+
+[^c733520]: Textual amendment: The entry relating to the [National Insurance Act 1965 (c. 51)](https://www.legislation.gov.uk/ukpga/1965/51), [s. 91(2)](https://www.legislation.gov.uk/ukpga/1965/51/section/91/2) repealed by [Social Security Act 1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38), [Sch. 28 Pt. I](https://www.legislation.gov.uk/ukpga/1973/38/schedule/28/part/I)
+
+[^c733521]: Modification: Sch. 3 para. 1(b), the entry relating to the National Insurance Act 1965: power to continue conferred (1.7.1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), [ss. 5](https://www.legislation.gov.uk/ukpga/1992/6/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1992/6/section/7/2), [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/1992/6/schedule/3/paragraph/15).
+
+[^c733522]: Textual amendment: Words in Sch. 3 para. 1(b) substituted (1.7.1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), [ss. 4](https://www.legislation.gov.uk/ukpga/1992/6/section/4), [7(2)](https://www.legislation.gov.uk/ukpga/1992/6/section/7/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2/paragraph/5)
+
+[^c733523]: Textual amendment: Words substituted by [Social Security (Consequential Provisions) Act 1975 (c. 18)](https://www.legislation.gov.uk/ukpga/1975/18), [Sch. 2 Pt. I para. 33](https://www.legislation.gov.uk/ukpga/1975/18/schedule/2/part/I/paragraph/33)
+
+[^M_F_2cbcff91-f9c9-4339-df48-9d0a17b05f70]: Textual amendment: Words in Sch. 3 omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 34(g)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/34/g); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+
+[^key-4adf316fc82ab663860639cc0cc27903]: Textual amendment: Sch. 3: entry repealed (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/10), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+
+[^c733525]: Textual amendment: Sch. 3 para. 6: words repealed (E.W.) by [Housing and Planning Act 1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63), [s. 49(2)](https://www.legislation.gov.uk/ukpga/1986/63/section/49/2), [Sch. 12 Pt. III](https://www.legislation.gov.uk/ukpga/1986/63/schedule/12/part/III)
+
+[^c733526]: Textual amendment: Words substituted by virtue of [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670), [arts. 2(3)(a)](https://www.legislation.gov.uk/uksi/1981/1670/article/2/3/a), [3(5)](https://www.legislation.gov.uk/uksi/1981/1670/article/3/5), [Sch.](https://www.legislation.gov.uk/uksi/1981/1670/schedule)
+
+[^c733527]: Textual amendment: Sch. 3 para. 6: words repealed (S.) (1.6.1996) by [Housing and Planning Act 1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63), [s. 53(2)](https://www.legislation.gov.uk/ukpga/1986/63/section/53/2), [Sch. 12 Pt. IV](https://www.legislation.gov.uk/ukpga/1986/63/schedule/12/part/IV); [S.I. 1996/1276](https://www.legislation.gov.uk/uksi/1996/1276), [art. 2(b)](https://www.legislation.gov.uk/uksi/1996/1276/article/2/b)
+
+[^key-4fa80131e42284916205a44d908586d5]: Textual amendment: Sch. 3: entry repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+
+[^c733528]: Textual amendment: Sch. 3 para. 7(a) repealed (25. 09. 1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:2)](https://www.legislation.gov.uk/ukpga/1991/34), [ss. 60(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/60/6), [84(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/6), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/1991/34/schedule/12/paragraph/3), [Sch. 19 Pt. IV](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/IV) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S. I. 1991/2092](https://www.legislation.gov.uk/uksi/1991/2092), [art. 3](https://www.legislation.gov.uk/uksi/1991/2092/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2092/schedule/1).
+
+[^c733529]: Textual amendment: Words in Sch. 3 para. 7(*a*) repealed (25. 09. 1991) by virtue of [Planning and Compensation Act 1991 (c. 34, SIF 123:2)](https://www.legislation.gov.uk/ukpga/1991/34), [ss. 60(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/60/6), [84(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/6), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/1991/34/schedule/12/paragraph/3), [Sch. 19 Pt. IV](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/IV) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S. I. 1991/2092](https://www.legislation.gov.uk/uksi/1991/2092), [art. 3](https://www.legislation.gov.uk/uksi/1991/2092/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2092/schedule/1).
+
+[^c733530]: Textual amendment: Words substituted by virtue of [Road Traffic Act 1972 (c. 20)](https://www.legislation.gov.uk/ukpga/1972/20), [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/1972/20/schedule/10/paragraph/3)
+
+[^c733531]: Textual amendment: Words substituted by virtue of [S.I. 1968/1699](https://www.legislation.gov.uk/uksi/1968/1699), [arts. 2](https://www.legislation.gov.uk/uksi/1968/1699/article/2), [5](https://www.legislation.gov.uk/uksi/1968/1699/article/5)

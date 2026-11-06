@@ -1,0 +1,624 @@
+---
+title: The Organic Products Regulations 2009
+id: uksi/2009/842
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-03-31'
+text_date: '2023-10-01'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2009/842
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/842/pdfs/uksiem_20090842_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/842/pdfs/uksi_20090842_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/842/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Organic Products Regulations 2009
+
+> Text as at 2023-10-01.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2009 No. 842
+
+Agriculture
+
+The Organic Products Regulations 2009
+
+Made
+
+31st March 2009
+
+Laid before Parliament
+
+3rd April 2009
+
+Coming into force
+
+27th April 2009
+
+The Secretary of State is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of that Act, and it appears to the Secretary of State that it is expedient for references in these Regulations to a Community instrument or to any provision of a Community instrument to be construed as a reference to that instrument or that provision as amended from time to time.
+
+The Secretary of State makes these Regulations—
+
+- (a)
+- (b)
+
+and in exercise of the powers conferred by paragraph 1A of Schedule 2 to the European Communities Act 1972[^f00004].[^key-41594a90586b386763da6b05600ede7b]
+
+In accordance with section 56(1) of the Finance Act 1973, the Treasury consent to the making of these Regulations.[^key-41594a90586b386763da6b05600ede7b]
+
+## PART 1 — Introductory provisions
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Organic Products Regulations 2009; they come into force on 27th April 2009.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “authorised officer” means a person authorised in writing by a local authority, a port health authority or the Secretary of State for the purposes of these Regulations;
+- “Commission Regulation 889/2008” means Commission Regulation [(EC) No 889/2008](https://www.legislation.gov.uk/european/regulation/2008/0889) laying down detailed rules for the implementation of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/european/regulation/2007/0834) on organic production and labelling of organic products with regard to organic production, labelling and control[^f00005];
+- “Commission Regulation 1235/2008” means Commission Regulation [(EC) No 1235/2008](https://www.legislation.gov.uk/european/regulation/2008/1235) laying down detailed rules for implementation of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/european/regulation/2007/0834) as regards the arrangements for imports of organic products from third countries[^f00006];
+- “control body” means a control body, within the meaning of Article 2(p) of the Council Regulation, to whom the Secretary of State has from time to time delegated control tasks[^f00007] in accordance with Article 27(4)(b) of the Council Regulation;
+- “controlled consignment” means any consignment the movement of which is, for the time being, prohibited under regulation 7;
+- “the Council Regulation” means Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/european/regulation/2007/0834) on organic production and labelling of organic products[^f00008];
+- “the database” means the computerised database, established under Article 48(1) of Commission Regulation 889/2008, listing varieties of seed and seed potatoes obtained by the organic production method (which term has the same meaning as in the Council Regulation) which are available in the United Kingdom;
+- “holding” has the meaning given in Article 2(e) of Commission Regulation 889/2008;
+- “importer” means any person who imports from a third country any products referred to in Article 1 of the Council Regulation with a view to the subsequent placing on the market of such products, and cognate expressions are construed accordingly;
+- “local authority” means—
+  - (a) in relation to England, a county council, a district council, a London borough council, the Common Council of the City of London or the Council of the Isles of Scilly;
+  - (b) in relation to Wales, a county council or a county borough council;
+  - (c) in relation to Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00009]; and
+  - (d) in relation to Northern Ireland, a district council (within the meaning of section 44 of the Interpretation Act (Northern Ireland) 1954[^f00010]);
+- “organic product” means a product referred to in Article 1(2) of the Council Regulation, as read with Article 1(2) of Commission Regulation 889/2008;
+- “organic production” has the same meaning as in Article 2(a) of the Council Regulation;
+- “place of import”, in relation to a consignment imported into the United Kingdom from a third country, means the place at which the consignment first arrives in the United Kingdom;
+- “port health authority” means—
+  - (a) in relation to the London port health district (within the meaning given by section 7(1) of the Public Health (Control of Disease) Act 1984[^f00011]), the Common Council of the City of London; and
+  - (b) in relation to any port health district constituted by order under section 2(3) of that Act, the port health authority for that district constituted by order under section 2(4) of that Act;
+- “specified [^key-e6a00701851c71f749097eca559a6fa9]... provision” means those provisions specified in column 1 of the table in the Schedule, as read with any supplementary provisions specified in column 2 of that Schedule;
+- “the Soil Association” means the Soil Association Limited, a company limited by guarantee and registered charity No 206862 of South Plaza, Marlborough Street, Bristol BS1 3NX.
+- “[^key-fb98df25d772ecd83d5ca80bed0ed520]**third country**” means any country or territory other than—
+  - (a) the United Kingdom,
+  - (b) the Bailiwick of Guernsey,
+  - (c) the Bailiwick of Jersey, or
+  - (d) the Isle of Man.
+
+(2) Other expressions used in these Regulations have the same meaning as in Commission Regulation 889/2008, Commission Regulation 1235/2008 or the Council Regulation.
+
+(3) A reference in these Regulations to any EU[^M_F_3f654302-cad4-45c5-84c3-7abda5db9d76] instrument, or any provision of an EU[^M_F_ec55add7-5fdb-46bb-c6f5-8aec79064218] instrument, is a reference to that instrument or that provision as amended from time to time.
+
+## PART 2 — Designations and exemptions
+
+### 3. Designation of competent authority etc.
+
+(1) The Secretary of State is the competent authority for the purposes of the Council Regulation, Commission Regulation 889/2008 and Commission Regulation 1235/2008.
+
+(2) Each control body is an authority responsible for the purposes of Article 28(3) of the Council Regulation for the receipt of notification of the information specified in Article 63(3) of Commission Regulation 889/2008 made by an operator under Article 28(1)(a) of the Council Regulation.
+
+(3) The Soil Association is the manager of the database for the purposes of Article 48(2) of Commission Regulation 889/2008.
+
+### 4. Exemption from requirement to adhere to control system
+
+Article 28 of the Council Regulation (requirements to notify activities and submit undertakings to the control system) does not apply to an operator who sells an organic product directly to the final consumer or user, provided that the operator does not produce, prepare, store other than in connection with the point of sale, or import such a product from a third country, or has not contracted out such activities to a third party.
+
+### 5. Permitted exceptions to the organic production rules[^key-66539291cbc1392f15b39b9fb59a6797]
+
+A control body may permit the use of non-organic seed and seed potatoes for the purposes of Article 45(1)(b) and in accordance with Article 45 of Commission Regulation 889/2008.
+
+## PART 3 — Control of third country imports
+
+### 6. Advance notification
+
+(1) A person seeking the release for free circulation in Great Britain[^key-02a7110d4a24e1020098f52b6cb18e45] of a consignment must, during the normal office hours of the relevant authority at the place of import, give to an authorised officer advance notice in writing of the intended arrival of the consignment at that place of import.
+
+(2) Any such notice must be given at least six hours in advance in relation to a consignment arriving by air and at least twenty four hours in advance in relation to a consignment arriving by any other means.
+
+(3) In paragraph (1), “relevant authority” means—
+
+- (a) in relation to Scotland, the local authority for the place of import; and
+- (b) in any other case, the port health authority (or, if there is no such authority, the local authority) for that place.
+
+### 7. Control on movement
+
+(1) An authorised officer may prohibit the movement of a consignment from the place of import or from any other place from which release for free circulation in[^key-d3608ebb90a11887b785a27f9466d42d] Great Britain[^key-70a52585d8e7a02f0ae47669c728c50f] is being sought if the officer has reason to believe that there has been a failure to comply with any relevant provision of the Council Regulation or Commission Regulation 1235/2008.
+
+(2) An officer who has prohibited such movement must, as soon as possible, give written notice to the importer or person who appears to the officer to be in charge of the consignment.
+
+(3) The notice must—
+
+- (a) specify the controlled consignment;
+- (b) state that it may not be moved without the written consent of an authorised officer;
+- (c) specify the relevant provision of the Council Regulation or Commission Regulation 1235/2008 in respect of which the officer has reason to believe that there has been a failure to comply; and
+- (d) specify what steps, if any, might be taken to show that there has been compliance with that provisions, and within what time such steps must be taken.
+
+(4) Where—
+
+- (a) no steps are specified for the purposes of paragraph (3)(d), or
+- (b) there has been a failure to take such steps as are specified within the time specified,
+
+an authorised officer may order that, under supervision, the controlled consignment be destroyed or otherwise disposed of.
+
+(5) If the person to whom the authorised officer gives the notice does not appear to the officer to be the importer or an agent, contractor or employee of the importer, the officer must use best endeavours to bring the contents of the notice to the attention of such a person as soon as possible.
+
+(6) An authorised officer may affix to any controlled consignment, or to any container in which the controlled consignment is packed, labels warning of the prohibition on movement.
+
+(7) An authorised officer who is satisfied that the steps specified in the notice under paragraph (3)(d) have been taken must, as soon as possible, remove the prohibition on movement.
+
+### 8. Consent to movement
+
+(1) An authorised officer may, at any time, give written consent to the movement of a controlled consignment.
+
+(2) An authorised officer must, on request, give written consent to the movement of a controlled consignment if that officer or another authorised officer has been given a written undertaking by the importer to the effect that the consignment will—
+
+- (a) be moved to a place specified by an authorised officer; and
+- (b) not be moved from that place without the written consent of an authorised officer.
+
+(3) Any consent given under this regulation must—
+
+- (a) specify the controlled consignment to which it relates;
+- (b) specify the place to which the controlled consignment is to be moved; and
+- (c) state that the controlled consignment continues to be controlled.
+
+(4) Where such a consent has been given and the consignment has been moved to the place in question, the prohibition on movement under regulation 7 applies to it at the place in question as it applied at the place where the prohibition on movement under that regulation last applied[^key-2f075dae7958e119aa3d83bcabca7af7].
+
+## PART 4 — Fees
+
+### 9. Fees - general
+
+(1) All fees payable under this Part are payable on invoice.
+
+(2) In any proceedings for recovery of an amount payable under this Part, a certificate issued by the person to whom the amount is payable stating that payment of an amount payable under this Part was not received by a date specified in the certificate is evidence of the facts stated.
+
+### 10. Fees for registering information in the database
+
+(1) Subject to paragraph (2), the Soil Association must charge a supplier a fee of £182[^key-d6d8c36e2f9201e9440a86170096a8ae] for registering information in the database in accordance with Articles 49(1) and 51(1) of Commission Regulation 889/2008.
+
+(2) The Soil Association may waive the whole or part of any fee payable under paragraph (1).
+
+### 11. Fees for ingredient authorisations
+
+The Secretary of State may charge a fee of £38 for issuing or for renewing a provisional authorisation to permit the use of a non-organic agricultural ingredient in organic production for the purposes of Article 19(1)(c) of the Council Regulation.
+
+### 12. Fees for import authorisations[^key-b796a34cf46c620cd97328ce77a98988]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Fees for approvals of control bodies and post-approval inspections
+
+(1) The Secretary of State may charge a person who has applied for approval as a control body for the purposes of Article 27 of the Council Regulation a fee of £203.00[^key-b716886e833779bc9d5645c93a28b63c].
+
+(2) The Secretary of State may charge a control body a fee in respect of any expenses reasonably incurred in carrying out, for the purposes of Article 27(8) or (9) of the Council Regulation—
+
+- (a) any further inspection of a control body’s offices or facilities;
+- (b) any inspection of an operator’s premises, facilities or holding; and
+- (c) any associated administrative work (including verification of the competence of the inspectors employed by the control body).
+
+(3) Any fee payable by a control body under this regulation remains payable even if its approval as a control body has subsequently been withdrawn by the Secretary of State under Article 27(8) or 27(9)(d) of the Council Regulation.
+
+### 14. Fees relating to the control system
+
+(1) A control body must charge an operator a fee in respect of any expenses reasonably incurred by it in carrying out an inspection of the operator’s holding, premises or facilities.
+
+(2) Where an operator has been unable to reach agreement with a control body for the carrying out of an inspection, the Secretary of State must, if so requested by the operator, arrange for another control body to carry out an inspection.
+
+(3) In this regulation, “inspection” means an inspection or control visit carried out for the purposes of Article 65 of Commission Regulation 889/2008.
+
+### 15. Fees relating to third country imports
+
+(1) Subject to paragraph (2), a port health authority or local authority must charge an importer of a consignment a fee in respect of any expenses reasonably incurred by it—
+
+- (a) in carrying out its functions under regulation 7 in respect of that consignment; and
+- (b) in carrying out a verification of the consignment.
+
+(2) A port health authority or local authority may waive the whole or part of any fee payable under paragraph (1), but in deciding to do so must consider the extent to which it would have been reasonable for it not to have taken the action in respect of which any such expenses have been incurred.
+
+## PART 5 — Offences and enforcement
+
+### 16. Notification requirement
+
+For the purposes of Article 30 of the Council Regulation (measures in case of infringements and irregularities), where a control body believes that an irregularity, severe infringement or infringement with prolonged effect has been found, it must—
+
+- (a) notify that belief in writing to the Secretary of State, the local authority and, if there is one, the port health authority for the area concerned; and
+- (b) give the local authority or port health authority any information which it may reasonably require for the purpose of enforcing these Regulations.
+
+### 17. Obtaining samples and analysis etc.
+
+(1) An authorised officer may, for the purposes of ascertaining whether any offence under these Regulations has been committed, purchase or take a sample of any organic product.
+
+(2) An authorised officer who considers that the sample should be analysed, examined or tested, must submit it for that purpose to the public analyst for the area in which it was obtained (or, if the office of the public analyst for the area is vacant, to the public analyst for some other area).
+
+(3) The public analyst must then—
+
+- (a) ensure that the sample is analysed, examined or tested as soon as practicable; and
+- (b) give the person who submitted the sample a certificate specifying the result.
+
+(4) In any proceedings, the production by one of the parties—
+
+- (a) of a document purporting to be a certificate under paragraph (3)(b), or
+- (b) of a document supplied to the party by the other party as being a copy of such a certificate,
+
+is evidence (and, in Scotland, sufficient evidence) of the facts stated in it unless, in a case falling within sub-paragraph (a), the other party requires that the analyst be called as a witness.
+
+(5) In any such proceedings, if a person charged or summonsed intends to produce a certificate of a public analyst or require, under paragraph (4), the analyst to be called as a witness, written notice of the intention together with a copy of the certificate (if appropriate) must be given to the other party at least three clear days before the hearing or trial.
+
+(6) If such notice is not given, the court may adjourn the proceedings on such terms as it thinks fit.
+
+(7) In this regulation, “public analyst” has the same meaning as in—
+
+- (a) section 27 of the Food Safety Act 1990[^f00012], except in relation to Northern Ireland; and
+- (b) regulation 27 of the Food Safety (Northern Ireland) Order 1991[^f00013], in relation to Northern Ireland.
+
+### 18. Offences
+
+(1) The Schedule (specified [^key-661cafb3bb184c6c679614bb12488c44]... provisions) has effect.
+
+(2) It is an offence for a person to contravene any of the specified [^key-661cafb3bb184c6c679614bb12488c44]... provisions or regulation 6.
+
+(3) It is an offence for a person, knowing a consignment to be a controlled consignment—
+
+- (a) to move it or cause it to be moved otherwise than in accordance with the written consent of an authorised officer; or
+- (b) to remove or cause to be removed from it a label which has been affixed under regulation 7(6).
+
+### 19. Penalties
+
+A person guilty of an offence under these Regulations is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### 20. Offence due to fault of another person
+
+(1) Where the commission by a person (“A”) of an offence under regulation 18 is due to the act or default of another person (“B”), B is guilty of the offence.
+
+(2) B may be charged with and convicted of the offence whether or not proceedings are taken against A.
+
+### 21. Defence of due diligence
+
+(1) In proceedings against a person for an offence under regulation 18, it is a defence for the person to prove that all reasonable precautions were taken and due diligence was exercised to avoid committing the offence.
+
+(2) However, where the defence provided by paragraph (1) involves an allegation that the commission of the offence was due to the act or default of another person, a person (“A”) is not, without leave of the court, entitled to rely on that defence unless A has served on the prosecutor a notice in writing in accordance with paragraph (3) giving such information identifying or assisting in the identification of that other person as was then in A’s possession.
+
+(3) The notice must be served—
+
+- (a) at least seven clear days before the hearing (or, in Scotland, the trial diet), and
+- (b) where A has previously appeared before a court in connection with the alleged offence, within one month of A’s first such appearance.
+
+### 22. Enforcement
+
+(1) Subject to paragraphs (2) and (3), these Regulations and the specified [^key-3015cb272a725ddde8ad0f5019ddc096]... provisions are enforced by the local authority within its area.
+
+(2)[^key-ec55dee13607cc8c34017d23eab481a7] In relation to products imported from third countries, where there is a port health authority for the place of import or other place from which release for free circulation in Great Britain[^key-fe7dc2d48d9de620a2efacf7b245ce44] is being sought, these Regulations and the specified [^key-3015cb272a725ddde8ad0f5019ddc096]... provisions are enforced by that authority instead of by the local authority.
+
+(3) In relation to cases of a particular description, or a particular case, the Secretary of State may give written directions to a local authority or a port health authority concerning the enforcement of these Regulations, and such directions may also be given—
+
+- (a) in relation to Scotland, by the Scottish Ministers;
+- (b) in relation to Wales, by the Welsh Ministers; and
+- (c) in relation to Northern Ireland, by the Department of Agriculture and Rural Development.
+
+### 23. Powers of entry
+
+(1) An authorised officer may, on producing (if so required) a duly authenticated document showing the officer’s authority, at all reasonable hours enter any premises for the purposes of enforcing the specified [^key-3f642e53b34bf5d4393e4eb9d711234f]... provisions or these Regulations.
+
+(2) The authorised officer may be accompanied by such other persons as the officer considers necessary.[^key-599137e4ba1a34834a80ab609ce75d21]...
+
+(3) If a justice of the peace is satisfied on sworn information or, in Northern Ireland, on a complaint on oath that there are reasonable grounds for believing—
+
+- (a) that an offence under these Regulations is being, or has been committed on any premises, and
+- (b) that any of the conditions in paragraph (4) is met in relation to the premises,
+
+the justice of the peace may by signed warrant authorise an authorised person to enter the premises, if need be by force.
+
+(4) The conditions referred to are—
+
+- (a) that entry to the premises has been, or is likely to be, refused and notice of the intention to apply for a warrant under this regulation has been given to the occupier;
+- (b) that the case is one of urgency and the premises are unoccupied or the occupier is temporarily absent;
+- (c) that an application for admission to the premises or the giving of notice of the intention to apply for a warrant would defeat the object of entry.
+
+(5) A warrant under this regulation is valid for one month.
+
+(6) An authorised officer who enters any premises that are unoccupied or from which the occupier is temporarily absent must leave them as effectively secured against unauthorised entry as they were before entry.
+
+(7) It is an offence for a person who has entered premises under or by virtue of these Regulations to disclose any information obtained on the premises with regard to any trade secret, unless the disclosure is made in the performance of the person’s duty.
+
+(8) In relation to Scotland—
+
+- (a) “justice of the peace” means a full justice as defined by section 9 of the District Courts (Scotland) Act 1975[^f00014];
+- (b) any reference in paragraph (3) to a justice of the peace includes a reference to a sheriff, and
+- (c) the reference in that paragraph to “on sworn information” is read as a reference to “by evidence on oath”.
+
+(9) In this regulation, “premises” includes any vehicle, stall or moveable structure but does not include any premises, or part of any premises, used only as a dwelling.
+
+### 24. Powers following entry
+
+(1) An authorised officer entering premises under regulation 23 may—
+
+- (a) inspect any documents or records (in whatever form they are held) relating to a business dealing with any organic product; and
+- (b) seize and detain any such records which the officer has reason to believe may be required as evidence in any proceedings under these Regulations.
+
+(2) For the purposes of paragraph (1), an authorised officer may—
+
+- (a) have access to, inspect and check the operation of any computer and any associated apparatus or material which is or has been in use in connection with the records;
+- (b) require any person having charge of, or otherwise concerned with the operation of, any such computer, apparatus or material to give the officer such assistance as may reasonably be required;
+- (c) where the records are kept by means of a computer, require them to be produced in a form in which they may be taken away.
+
+(3) If it is decided that records seized and detained under paragraph (1)(b) are no longer needed as evidence in proceedings under these Regulations, an authorised officer must return them as soon as reasonably practicable after that decision.
+
+(4) In this regulation, “business” includes any undertaking whether it operates for profit or not and any undertaking or activity carried on by a public authority, including a local authority.
+
+### 25. Power to require assistance
+
+An authorised officer may require any person to provide the officer with such assistance, information or facilities as the officer may reasonably require for the purposes of carrying out functions under these Regulations.
+
+### 26. Obstruction etc. of authorised officers
+
+(1) It is an offence for a person—
+
+- (a) intentionally to obstruct a person acting in the execution or enforcement of these Regulations or the specified [^key-24e1b5c66d22195a25ff9d3a6cd6b5bd]... provisions; or
+- (b) without reasonable excuse, the proof of which lies on the person, to fail to comply with any requirement made by an authorised officer under regulation 25.
+
+(2) A person who, in response to a requirement made under regulation 25, makes any representation which is false or misleading in a material particular and does so recklessly or knowing it to be false or misleading in that particular is guilty of an offence.
+
+(3) Nothing in paragraph (1)(b) requires a person to answer any question or give any information if to do so might incriminate the person.
+
+### 27. Offences by bodies corporate etc.
+
+(1) If an offence committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to neglect on the part of, an officer of the body corporate, that officer as well as the body corporate is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(2) In paragraph (1), “officer” means a director, manager, secretary or other similar officer of the body corporate, or a person purporting to act in such a capacity.
+
+(3) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with the member’s functions of management as if the member were a director of the body corporate.
+
+(4) If an offence committed by a partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner as well as the partnership is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(5) In paragraph (4) “partner” includes a person purporting to act as a partner.
+
+(6) If an offence committed by an unincorporated association (other than a partnership) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of the association or a member of its governing body, that officer or member as well as the association is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(7) In this regulation and regulation 28, “offence” means an offence under these Regulations.
+
+### 28. Offences committed by partnerships and other unincorporated associations
+
+(1) Proceedings for an offence alleged to have been committed by a partnership must be brought in the name of the partnership (and not in that of any of the partners).
+
+(2) Proceedings for an offence alleged to have been committed by an unincorporated association (other than a partnership) must be brought in the name of the association (and not in that of any of its members).
+
+(3) Rules of court relating to the service of documents have effect as if the partnership or unincorporated association were a body corporate.
+
+(4) In proceedings for an offence brought against a partnership or an unincorporated association, the following provisions apply in relation to the partnership or association as they apply in relation to a body corporate—
+
+- (a) section 33 of the Criminal Justice Act 1925[^f00015] and Schedule 3 to the Magistrates’ Courts Act 1980[^f00016];
+- (b) section 70 of the Criminal Procedure (Scotland) Act 1995[^f00017]; and
+- (c) section 18 of the Criminal Justice Act (Northern Ireland) 1945[^f00018] and Schedule 4 to the Magistrates’ Courts (Northern Ireland) Order 1981[^f00019].
+
+(5) Paragraphs (1) and (2) are not to be read as prejudicing any liability of a partner, officer or member under regulation 27(4) or (6).
+
+### 29. Extended time limit for bringing prosecutions
+
+No prosecution for an offence under these Regulations may be begun after the expiry of one year from the commission of the offence or six months from its discovery by the prosecutor, whichever is the earlier.
+
+### 30. Protection of officers etc. acting in good faith
+
+(1) An authorised officer or an officer or agent of a control body is not liable in any civil or criminal proceedings for anything done in the purported execution of these Regulations, the Council Regulation, Commission Regulation 889/2008 or Commission Regulation 1235/2008 if the court is satisfied that the act was done in good faith and there were reasonable grounds for doing it.
+
+(2) But this does not relieve the Secretary of State, a control body or a local authority from liability in respect of the acts of their officers.
+
+## PART 6 — Supplementary provisions and revocations
+
+### 31. Use of electronic communications
+
+(1) Any requirement under or by virtue of these Regulations for a person to give a notice to another person may be met by means of an electronic communication if—
+
+- (a) it results in the information contained in that notice being available to the other person in all material respects as it would appear in a notice given in printed form; and
+- (b) the other person consents to the information being sent by such means.
+
+(2) In paragraph (1), “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00020].
+
+(3) For the purposes of paragraph (1)(a), “in all material respects” means in all respects material to an exact reproduction of the content of the information as it would appear in a notice given in printed form.
+
+### 32. Revocations
+
+The following are revoked—
+
+- (a) the Organic Products (Imports from Third Countries) Regulations 2003[^f00021];
+- (b) the Organic Products Regulations 2004[^f00022]; and
+- (c) regulation 2 of the Environmental Stewardship (England) and Organic Products (Amendment) Regulations 2006[^f00023].
+
+### 32A. Review[^key-f3cea1b8de307d27f65380586c5875d0]
+
+(1) The Secretary of State, in relation to England, must from time to time—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusion of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out a review mentioned in paragraph (1) the Secretary of State must, so far as is reasonable, have regard to the powers and mechanisms available in other member States to enable the provisions of the Council Regulation, Commission Regulation 889/2008 and Commission Regulation 1235/2008 to be enforced.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which this regulation comes into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Jane Kennedy
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+We consent
+
+Dave Watts
+
+Steve McCabe
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+## SCHEDULE — Specified ... Provisions[^key-2f1e8bae3bff7a12cc1096c713982b50]
+
+Regulations 2(1) and 18
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr>
+<tr><th>Provision</th><th>Supplementary provision</th><th>Subject matter</th></tr>
+</thead>
+<tbody>
+<tr><td>Article 23(1), (2), (3) or (4) of the Council Regulation</td><td>Title III of Commission Regulation 889/2008</td><td>Use of terms referring to organic production in labelling, advertising and commercial documents of products</td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td>Article 24(1) or (2) of the Council Regulation</td><td>Articles 23 and 25 of the Council Regulation and Title III of Commission Regulation 889/2008</td><td>Compulsory indications</td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td>Article 25(2) of the Council Regulation</td><td></td><td>Use of National or private logo in labelling, presentation and advertising of products</td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td>Article 32(1) of the Council Regulation</td><td>Articles 6 to 10, 13 to 15, 18 and 19 of Commission Regulation 1235/2008</td><td>Requirements for placing on the market of compliant products imported from third countries</td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td>Article 33(1) of the Council Regulation</td><td>Articles 6 to 10, 13 to 15, 18 and 19 of Commission Regulation 1235/2008</td><td>Requirements for placing on the market of products imported from third countries providing equivalent guarantees</td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td>Article 62 of Commission Regulation 889/2008</td><td></td><td>Use of indication “product under conversion to organic farming” in relation to in-conversion products of plant origin</td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td>Article 13(9) of Commission Regulation 1235/2008</td><td></td><td>Requirements on first consignees relating to certificates of inspection of consignments imported from third countries</td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td>Article 14 of Commission Regulation 1235/2008</td><td></td><td>Special customs procedures for consignments imported from third countries</td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td>Article 15 of Commission Regulation 1235/2008</td><td></td><td>Requirements relating to non-compliant products imported from third countries</td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td>Article 19(1) of Commission Regulation 1235/2008</td><td></td><td>Requirements relating to placing on the market, by importers authorised by the competent authority, of products imported from third countries not referred to in Article 33(2) of the Council Regulation</td></tr>
+<tr><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+[^key-e14e30a7686125dd2ea51f3e52a54b78][^key-e527de85abae4b0f056d145515b87ae7][^key-4b594211b43533d85469fc27c6492d1f]
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and replace the Organic Products (Imports from Third Countries) Regulations 2003 ([S.I. 2003/2821](https://www.legislation.gov.uk/uksi/2003/2821)) and the Organic Products Regulations 2004 ([S.I. 2004/1604](https://www.legislation.gov.uk/uksi/2004/1604)). They extend to the United Kingdom.
+
+These Regulations provide for the administration and enforcement of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/european/regulation/2007/0834) on organic production and labelling of organic products (OJ No L 189, 20.7.07, p 1), Commission Regulation [(EC) No 889/2008](https://www.legislation.gov.uk/european/regulation/2008/0889) laying down detailed rules for the implementation of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/european/regulation/2007/0834) (OJ No L 250, 18.9.08, p 1), and Commission Regulation [(EC) No 1235/2008](https://www.legislation.gov.uk/european/regulation/2008/1235) laying down detailed rules for implementation of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/european/regulation/2007/0834) as regards the arrangements for imports of organic products from third countries (OJ No L 334, 12.12.08, p 25), each as amended from time to time.
+
+Part 1 sets out introductory provisions and interpretation.
+
+Part 2 contains designations and exemptions.
+
+Part 3 sets out notification requirements and controls of the movement of consignments of organic products imported from third countries.
+
+Part 4 makes provision for fees.
+
+Part 5 creates offences and makes provision for enforcement. They are enforced by the local authority or, in relation to imports of products from third countries, the port health authority (where there is one).
+
+Part 6 contains supplementary provisions and revocations.
+
+The Schedule lists provisions of the Council Regulation and two Commission Regulations referred to above for the purposes of offences and enforcement.
+
+An Impact Assessment has been prepared and a copy placed in the library of each House of Parliament. Copies can be obtained from the Department for Environment, Food and Rural Affairs, Organic Farming Branch, Ergon House, Horseferry Road, London SW1P 2AL or from the Department’s website, and from the Scottish Executive Environment and Rural Affairs Department, Pentland House, 47 Robb’s Loan, Edinburgh EH14 1TY.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). The power of the Secretary of State, as a designated Minister, to make regulations which extend to Scotland, Wales and Northern Ireland remains exercisable by virtue of section 57(1) of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46); article 3(4) of the European Communities (Designation) (No. 3) Order 1999 ([S.I. 1999/2788](https://www.legislation.gov.uk/uksi/1999/2788)), and article 3(2) of the European Communities (Designation) (No. 3) Order 2000 ([S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812)) respectively.
+
+[^f00004]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
+
+[^key-41594a90586b386763da6b05600ede7b]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/959/regulation/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/959/schedule/3) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+
+[^f00005]: Footnote: OJ No L 250, 18.9.08, p 1; last amended by Commission Regulation [(EC) No 1254/2008](https://www.legislation.gov.uk/european/regulation/2008/1254) (OJ No L 337, 16.12.08, p 80).
+
+[^f00006]: Footnote: OJ No L 334, 12.12.08, p 25.
+
+[^f00007]: Footnote: The list of approved control bodies is available from the website of the Department for Environment, Food and Rural Affairs at http://www.defra.gov.uk/farm/organic/standards/certbodies/approved.htm.
+
+[^f00008]: Footnote: OJ No L 189, 20.7.07, p 1; last amended by Council Regulation [(EC) No 967/2008](https://www.legislation.gov.uk/european/regulation/2008/0967) (OJ No L 264, 3.10.08, p 1).
+
+[^f00009]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
+
+[^f00011]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
+
+[^key-e6a00701851c71f749097eca559a6fa9]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/842/regulation/2/1) omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fb98df25d772ecd83d5ca80bed0ed520]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/842/regulation/2/1) inserted (31.12.2020) by [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_3f654302-cad4-45c5-84c3-7abda5db9d76]: Textual amendment: Word in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+
+[^M_F_ec55add7-5fdb-46bb-c6f5-8aec79064218]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+
+[^key-66539291cbc1392f15b39b9fb59a6797]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/842/regulation/5) substituted (1.10.2015) by [The Organic Products (Amendment) Regulations 2015 (S.I. 2015/1669)](https://www.legislation.gov.uk/uksi/2015/1669), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1669/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1669/regulation/2/2)
+
+[^key-02a7110d4a24e1020098f52b6cb18e45]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2009/842/regulation/6/1) substitued (31.12.2020) by S.I. 2019/109, reg. 2(3) (as substituted by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/4/2/a))
+
+[^key-d3608ebb90a11887b785a27f9466d42d]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2009/842/regulation/7/1) inserted (1.10.2010) by [The Organic Products (Amendment) Regulations 2010 (S.I. 2010/1902)](https://www.legislation.gov.uk/uksi/2010/1902), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1902/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2010/1902/regulation/2/a)
+
+[^key-70a52585d8e7a02f0ae47669c728c50f]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2009/842/regulation/7/1) substituted (31.12.2020) by S.I. 2019/109, reg. 2(4) (as substituted by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/4/2/b))
+
+[^key-2f075dae7958e119aa3d83bcabca7af7]: Textual amendment: Words in reg. 8(4) substituted (1.10.2010) by [The Organic Products (Amendment) Regulations 2010 (S.I. 2010/1902)](https://www.legislation.gov.uk/uksi/2010/1902), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1902/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2010/1902/regulation/2/b)
+
+[^key-d6d8c36e2f9201e9440a86170096a8ae]: Textual amendment: Reg. 10(1) sum substituted (1.10.2010) by [The Organic Products (Amendment) Regulations 2010 (S.I. 2010/1902)](https://www.legislation.gov.uk/uksi/2010/1902), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1902/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2010/1902/regulation/2/c)
+
+[^key-b796a34cf46c620cd97328ce77a98988]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/842/regulation/12) omitted (1.10.2015) by virtue of [The Organic Products (Amendment) Regulations 2015 (S.I. 2015/1669)](https://www.legislation.gov.uk/uksi/2015/1669), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1669/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/1669/regulation/2/3)
+
+[^key-b716886e833779bc9d5645c93a28b63c]: Textual amendment: Reg. 13(1) sum substituted (1.10.2015) by [The Organic Products (Amendment) Regulations 2015 (S.I. 2015/1669)](https://www.legislation.gov.uk/uksi/2015/1669), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1669/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/1669/regulation/2/4)
+
+[^f00012]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16). Section 27(2) was amended by the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), section 40(1) and Schedule 5, paragraphs 7, and 8. There are further amendments not relevant to these Regulations.
+
+[^f00013]: Footnote: [S.I. 1991/762 (N.I.7)](https://www.legislation.gov.uk/nisi/1991/762), to which there are amendments not relevant to these Regulations.
+
+[^key-661cafb3bb184c6c679614bb12488c44]: Textual amendment: Word in [reg. 18](https://www.legislation.gov.uk/uksi/2009/842/regulation/18) omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3015cb272a725ddde8ad0f5019ddc096]: Textual amendment: Word in [reg. 22](https://www.legislation.gov.uk/uksi/2009/842/regulation/22) omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ec55dee13607cc8c34017d23eab481a7]: Textual amendment: [Reg. 22(2)](https://www.legislation.gov.uk/uksi/2009/842/regulation/22/2) substituted (1.10.2010) by [The Organic Products (Amendment) Regulations 2010 (S.I. 2010/1902)](https://www.legislation.gov.uk/uksi/2010/1902), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1902/regulation/1), [2(g)](https://www.legislation.gov.uk/uksi/2010/1902/regulation/2/g)
+
+[^key-fe7dc2d48d9de620a2efacf7b245ce44]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2009/842/regulation/22/2) substituted (31.12.2020) by S.I. 2019/109, reg. 2(6)(b) (as substituted by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [4(2)(c)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/4/2/c))
+
+[^key-3f642e53b34bf5d4393e4eb9d711234f]: Textual amendment: Word in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2009/842/regulation/23/1) omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-599137e4ba1a34834a80ab609ce75d21]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2009/842/regulation/23/2) omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00014]: Footnote: [1975 c. 20](https://www.legislation.gov.uk/ukpga/1975/20); the definition of “full justice” was inserted by section 8 of the Bail, Judicial Appointments etc. (Scotland) Act [2000 (asp 9)](https://www.legislation.gov.uk/asp/2000/9).
+
+[^key-24e1b5c66d22195a25ff9d3a6cd6b5bd]: Textual amendment: Word in [reg. 26(1)(a)](https://www.legislation.gov.uk/uksi/2009/842/regulation/26/1/a) omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00015]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Subsections (1) and (2) of section 33 were repealed by the Magistrates’ Courts Act [1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), section 132 and Schedule 6; subsection (3) was amended by the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), section 56(1) and Schedule 8, part II, paragraph 19; subsection (4) was amended by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 109(1) and (3), Schedule 8, paragraph 71 and Schedule 10, and by the Magistrates’ Courts Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), section 154 and Schedule 7, paragraph 5; subsection (5) was repealed by the Magistrates’ Court Act 1952, section 132 and Schedule 6.
+
+[^f00016]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Sub-paragraph 2(a) was amended by the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), section 47, Schedule 1, paragraph 13, and was repealed by the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), sections 41 and 332, Schedule 3, part 2, paragraph 51, sub-paragraphs (1), (13)(a), and Schedule 37, part 4 (with effect from a date to be appointed); paragraph 5 was repealed by the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), sections 25(2) and 101(2) and Schedule 13; paragraph 6 was amended by the Criminal Justice Act 2003, section 41, Schedule 3, part 2, paragraph 51, sub-paragraphs (1) and (13)(b) (with effect from a date to be appointed).
+
+[^f00017]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46). Section 70 was amended by section 28 of the Criminal Proceedings etc. (Reform) (Scotland) Act 2007 ([2007 asp 6](https://www.legislation.gov.uk/asp/2007/6)).
+
+[^f00018]: Footnote: [1945 c. 15 (N.I.)](https://www.legislation.gov.uk/apni/1945/15).
+
+[^f00019]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
+
+[^f00020]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
+
+[^f00021]: Footnote: [S.I. 2003/2821](https://www.legislation.gov.uk/uksi/2003/2821).
+
+[^f00022]: Footnote: [S.I. 2004/1604](https://www.legislation.gov.uk/uksi/2004/1604).
+
+[^f00023]: Footnote: [S.I. 2006/2075](https://www.legislation.gov.uk/uksi/2006/2075).
+
+[^key-f3cea1b8de307d27f65380586c5875d0]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/2009/842/regulation/32A) inserted (1.10.2015) by [The Organic Products (Amendment) Regulations 2015 (S.I. 2015/1669)](https://www.legislation.gov.uk/uksi/2015/1669), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1669/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/1669/regulation/2/5)
+
+[^key-2f1e8bae3bff7a12cc1096c713982b50]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2009/842/schedule) heading omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e14e30a7686125dd2ea51f3e52a54b78]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2009/842/schedule) Table omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e527de85abae4b0f056d145515b87ae7]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2009/842/schedule) Table omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(9)(c)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4b594211b43533d85469fc27c6492d1f]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2009/842/schedule) Table omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(9)(d)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/9/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

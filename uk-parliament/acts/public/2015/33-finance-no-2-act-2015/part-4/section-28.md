@@ -1,0 +1,29 @@
+---
+title: Finance (No. 2) Act 2015, section 28
+act: Finance (No. 2) Act 2015
+section: '28'
+status: revised
+text_date: '2020-07-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2015/33/section/28
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance (No. 2) Act 2015, section 28
+
+> Text as at 2020-07-22.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 28. EIS, VCTs and EMI: meaning of “farming”
+
+*Extent: E+W+S+N.I.*
+
+(1) In section 996 of ITA 2007 (meaning of “farming” and related expressions), omit subsection (7).
+
+(2) The amendment made by subsection (1)—
+
+- (a) in relation to the application of section 996 of ITA 2007 for the purposes of section 192(1) of that Act, has effect in relation to shares issued on or after the day on which this Act is passed;
+- (b) in relation to the application of section 996 of that Act for the purposes of section 303(1) of that Act, has effect for the purposes of determining whether shares or securities issued on or after that day are to be regarded as comprised in a company's qualifying holdings;
+- (c) in relation to the application of section 996 for the purposes of paragraph 16 of Schedule 5 to ITEPA 2003, has effect in relation to options granted on or after that day.

@@ -1,0 +1,64 @@
+---
+title: Finance (No. 2) Act 2023, section 150
+act: Finance (No. 2) Act 2023
+section: '150'
+status: revised
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/30/section/150
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance (No. 2) Act 2023, section 150
+
+> Text as at 2026-07-15.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 150. Transactions between members of a multinational group: differences with accounting for tax
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if—
+
+- (a) a transaction between two members of a multinational group located in different territories is not recorded in the same amount, or is not recorded on an arm’s length basis (or is not recorded at all), in the underlying profits accounts of both of those members, and
+- (b) there is a permanent difference in respect of the transaction in relation to one or both of those members as a result of adjustments to the taxable income of the member made in connection with transfer pricing.
+
+(2) Subsection (3) applies if—
+
+- (a) for each member there is a permanent difference in respect of the transaction which arises as a result of adjustments made in connection with transfer pricing, and
+- (b) the permanent difference for each member corresponds to the permanent difference for the other.
+
+(3) Where this subsection applies, the underlying profits of each of the members are to be adjusted so that the amount of the transaction reflects the amount reflected in the member’s taxable income.
+
+(4) Subsection (5) applies if—
+
+- (a) one of the members (“**A**”) is a high tax member,
+- (b) there is a permanent difference for A in respect of the transaction which arises as a result of adjustments made in connection with transfer pricing, and
+- (c) there is no permanent difference for the other member (“**B**”) in respect of the transaction arising as a result of adjustments made in connection with transfer pricing.
+
+(5) Where this subsection applies—
+
+- (a) the underlying profits of A are to be adjusted so that the amount of the transaction reflects the amount reflected in the member’s taxable income, and
+- (b) an adjustment is to be made to the underlying profits of B which corresponds with the amount of the adjustment made to the profits of A.
+
+(6) For the purposes of this section, a member of a multinational group is a high tax member for an accounting period (“**the relevant period**”) if—
+
+- (a) the nominal tax rate that applies to the member[^key-cb1a5036fcf1317f17ec39a8d31f8c4d] is, or exceeds, 15% in the relevant period, and
+- (b) the effective tax rate of the standard members of that group in the territory in which the member is located[^key-74dab7010812904a9cfa5090a5c9740e] is, or exceeds, 15% in either, or both, of the accounting period that immediately preceded the relevant period and the accounting period immediately before that one.
+
+(6A)[^key-8bb5b22df09620c2389c81cba82b7c15] But—
+
+- (a) for the purposes of subsection (6)(b), ignore any accounting period in which there was no standard member of the group in that territory to which the Pillar Two rules applied, and
+- (b) a standard member of a multinational group is always to be regarded as a high tax member for an accounting period if a transitional safe harbour election applies to it for that period.
+
+(7) In this section reference to a “permanent difference” is to a difference between the treatment of an amount for the purposes of covered taxes and for accounting purposes that is not eliminated over time (and accordingly does not give rise to deferred tax).
+
+## Annotations
+
+[^key-cb1a5036fcf1317f17ec39a8d31f8c4d]: Textual amendment: Words in [s. 150(6)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/150/6/a) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 50(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/50/5/a/i)
+
+[^key-74dab7010812904a9cfa5090a5c9740e]: Textual amendment: Words in [s. 150(6)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/150/6/b) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 50(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/50/5/a/ii)
+
+[^key-8bb5b22df09620c2389c81cba82b7c15]: Textual amendment: [S. 150(6A)](https://www.legislation.gov.uk/ukpga/2023/30/section/150/6A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 50(5)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/50/5/b)

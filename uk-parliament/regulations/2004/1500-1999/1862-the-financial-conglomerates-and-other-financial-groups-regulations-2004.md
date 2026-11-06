@@ -1,0 +1,672 @@
+---
+title: The Financial Conglomerates and Other Financial Groups Regulations 2004
+id: uksi/2004/1862
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2004-07-19'
+text_date: '2023-07-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2004/1862
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/1862/pdfs/uksiem_20041862_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1862/pdfs/uksi_20041862_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1862/data.pdf
+pending_changes: 9
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Conglomerates and Other Financial Groups Regulations 2004
+
+> **Warning: changes not yet applied to this text (9).** Text as at 2023-07-11. See https://www.legislation.gov.uk/changes/affected/uksi/2004/1862
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2004 No. 1862
+
+FINANCIAL SERVICES AND MARKETS
+
+The Financial Conglomerates and Other Financial Groups Regulations 2004
+
+Made
+
+19th July 2004
+
+Laid before Parliament
+
+19th July 2004
+
+Coming into force
+
+10th August 2004
+
+Whereas the Treasury are a government department designated for the purposes of section 2(2) of the European Communities Act 1972 [^c5251301] in relation to—
+
+- (a) the authorisation of the carrying on of insurance business and the regulation of such business and its conduct [^c5251311];
+- (b) credit and financial institutions and the taking of deposits or other repayable funds from the public [^c5251321];
+- (c) measures relating to investment firms and to the provision of investment services [^c5251331]; and
+- (d) collective investment in transferable securities and other liquid assets [^c5251341];
+
+Now therefore the Treasury, in exercise of the powers conferred upon them by section 2(2) of the European Communities Act 1972 and sections 183(2), 188(2), 417(1) [^c5251351] and 428(3) of the Financial Services and Markets Act 2000 [^c5251361] hereby make the following Regulations:[^key-dc668e79d47aac117aeb1de95987c1b9]
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Financial Conglomerates and Other Financial Groups Regulations 2004 and come into force on 10th August 2004.
+
+(2) In these Regulations—
+
+- “**the Act**” means the Financial Services and Markets Act 2000;
+- [^key-0df9fe70173a78d7ce273f7f2fa656f3]...
+- [^key-c74a165030d07b318f0196f83f1a4ab7]...
+- [^key-465acc241b00254d93fb5c249485ab04]...
+- [^key-5833f619ba25e9f0e08291837284b380]...
+- “competent authority”, except in the term “**third-country competent authority**” as defined in regulation 7(1), means any authority in the United Kingdom[^key-9b07cb906a7685c713e7174d033c63f5] which is empowered by law or regulation to supervise regulated entities, whether on an individual or group-wide basis;
+- “**the conglomerates directive**” means Directive [2002/87/EC](https://www.legislation.gov.uk/eudr/2002/87) of the European Parliament and of the Council of 16th December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate and amending Council Directives [73/239/EEC](https://www.legislation.gov.uk/eudr/1973/239), [79/267/EEC](https://www.legislation.gov.uk/eudr/1979/267), [92/49/EEC](https://www.legislation.gov.uk/eudr/1992/49), [92/96/EEC](https://www.legislation.gov.uk/eudr/1992/96), [93/6/EEC](https://www.legislation.gov.uk/eudr/1993/6), [93/22/EEC](https://www.legislation.gov.uk/eudr/1993/22), and Directives [98/78/EC](https://www.legislation.gov.uk/eudr/1998/78) and [2000/12/EC](https://www.legislation.gov.uk/eudr/2000/12) of the European Parliament and of the Council as last amended by Directive 2011/89/[^key-eb5c18f4aef0099e8b828633e099aaaa]EU of the European Parliament and of the Council;
+- “[^key-09385556c40b51fd6e47ca9d4c9dff3a]**co-ordinator**” means the competent authority which has been appointed as responsible for the co-ordination and exercise of supplementary supervision of a financial conglomerate based on the criteria in regulation 2A of these Regulations;
+- [^key-0df9fe70173a78d7ce273f7f2fa656f3]...
+- “financial conglomerate”, except in the term “[^key-bfce482a72c4a46e2e52ffa713c22ba3]**third-country financial conglomerate**” as defined in regulation 7(1), has the meaning given in the Glossary of definitions in the FCA Handbook as it has effect on 17th August 2022;
+- “[^key-8a9b2e68bca3717f235f1d0bebb0c6f8]**financial sector**” means a sector composed of one or more of the following entities—
+  - (a) a credit institution, an ancillary services undertaking or financial institution, as defined in Articles 4(1)(1), 4(1)(18) and 4(1)(26) of the capital requirements regulation (the banking sector);
+  - (b) an entity within the “insurance sector”, as defined by the Financial Conglomerates part of the PRA Rulebook as it has effect on 17th August 2022;
+  - (c) an investment firm, as defined in Article 4(1)(2) of the capital requirements regulation (the investment services sector);
+  - (d) a mixed financial holding company;
+- “[^key-7f588f117029afcae0ddc66417036880] **group**” means a group of undertakings, which consist of—
+  - (a) a parent undertaking and its subsidiaries;
+  - (b) the entities in which the parent undertaking or its subsidiaries hold a participation as defined in article 4(1) (35) of the capital requirements regulation; and
+  - (c) undertakings linked to each other by a relationship within the meaning of a common management relationship as defined in article 4(1)(38A) of the capital requirements regulation, including any subgroup thereof;
+- [^key-0df9fe70173a78d7ce273f7f2fa656f3]...
+- “**management company**” has the same meaning as regulation 2(2)(f)(c) of these regulations;
+- “**mixed financial holding company**” means a parent undertaking, other than a regulated entity, which, together with its subsidiaries, at least one of which is a regulated entity which has its head office in the UK, and other entities, constitutes a financial conglomerate;
+- “**parent undertaking**” has the same meaning given in article 4(15)(a) of the capital requirements regulation and any undertaking which, in the opinion of the regulator, effectively exercises a dominant influence over another undertaking;
+- “**relevant competent authorities**” means those competent authorities [^key-d90c054fcd3be50c5f5c22281104cbe3]... which are, or which have been appointed as, relevant competent authorities in relation to a financial conglomerate;
+- “[^key-426c73ad10718cd797dc20d0e818ee7e] **regulated entity** ” means—
+  - (a) a credit institution (within the meaning of Article 4(1)(1) of the capital requirements regulation);
+  - (b) an insurance undertaking or reinsurance undertaking (within the meaning of section 417 of the Financial Services and Markets Act 2000) or a third-country insurance undertaking or third country reinsurance undertaking (within the meaning of Regulation 2(1) of the Solvency 2 Regulations 2015);
+  - (c) a company, the regular business of which is the management of UCITS (as specified in article 51ZA of the Regulated Activities Order) in the form of common funds or of investment companies (collective portfolio management of UCITS), or an undertaking which would require permission under Part 4A of FSMA to carry on the regulated activity of managing a UCITS (as specified in article 51ZA of the Regulated Activities Order) if its registered office were located in the United Kingdom;
+  - (d) an investment firm within the meaning of Article 2(1A) of the Markets in Financial Instruments Regulations (EU) No 600/2014, or
+  - (e) an alternative investment fund manager within the meaning of regulation 4(1) of the Alternative Investment Managers Regulations 2013 and which is not within the definition of ‘management company’ in this regulation, or an undertaking that would require permission to be an alternative investment fund manager if its registered office were located in the United Kingdom; and
+- “regulator” means the Financial Conduct Authority or the Prudential Regulation Authority;[^key-5263606a43979c8028390adb3756c65d]
+- “**supplementary supervision**” means the supervision of a regulated entity to the extent and in the manner prescribed by the conglomerates directive.
+
+(3) Save as is otherwise provided, any expression used in these Regulations which is defined for the purposes of the Act has the meaning given by the Act.
+
+## PART 2 — Exercise of supplementary supervision of regulated entitiesin a financial conglomerate
+
+### 2. Notification of identification as a financial conglomerate and choice of co-ordinator
+
+(1) Where a regulator[^key-410ec973018766d7f338cde381b0b003] has become the co-ordinator for a financial conglomerate, it must notify—
+
+- (a) the relevant member of that financial conglomerate;
+- (aa)[^key-37a345dcf12d2c7394f5b71f8afe791f] the other regulator;
+- (b)[^key-f90672697940398f3df8f0d6c5be56b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-89b8623ba8fbaf423faf99a9fb8dbac3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-358c3b84730c64509df12ba3ff8cdc6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+that the group has been identified as a financial conglomerate [^key-b7490adcf979b07226056b0f9962c32a]... of the conglomerates directive and that the regulator[^key-7398df82ed78cf40e7d0e71c80a8673c] is the co-ordinator for that financial conglomerate.
+
+(2) Paragraph (3) applies if—
+
+- (a) a regulator[^key-ba4241a50c1ccd327a9601091974291b] is a relevant competent authority in relation to a financial conglomerate, and
+- (b) that regulator[^key-7370379adca66a449dae221cbde32386], in conjunction with the other relevant competent authorities, proposes to waive the criteria specified in paragraph (2A)[^key-7dae50990ae3af7dd409dee0f4800690] and appoint a different competent authority as co-ordinator.
+
+(2A)[^key-25371f989bfc4d7b266a2510494a7ab9] The criteria are—
+
+- (a) where the financial conglomerate is headed by a regulated entity, the task of the co-ordinator must be exercised by the competent authority which has authorised that regulated entity;
+- (b) where a financial conglomerate is not headed by a regulated entity, the task of coordinator must be exercised by the competent authority identified in accordance with the following principles—
+  - (i) where the parent of a regulated entity is a mixed financial holding company, the task of coordinator must be exercised by the competent authority which has authorised that regulated entity;
+  - (ii) where the financial conglomerate is a group without a parent undertaking at the top, or in any other case, the task of coordinator must be exercised by the competent authority which authorised the regulated entity with the largest balance sheet total in the most important financial sector.
+
+(3) Before the regulator[^key-b46ef7ae7b4dee8aaf0324f641b9f7c3], in conjunction with the other relevant competent authorities, waives the criteria specified in paragraph (2A)[^key-49330529a70e311f4d19e0ee3d078d61] and appoints a different competent authority as co-ordinator, the regulator must[^key-f0c9b8f5847a14a38b765085b33e62c1]... give the financial conglomerate an opportunity to make representations.
+
+(3A)[^key-20b29ff3ff93caab1084b9fe6ae97be0] The relevant competent authorities may by common agreement waive the criteria referred to in paragraph (2A) if the authorities consider that their application would be inappropriate, taking into account the structure of the conglomerate and the relative importance of its activities.
+
+(3B) Before the authorities waive the criteria in accordance with paragraph (3A), the authorities must give the financial conglomerate an opportunity to make representations.
+
+(4) In this regulation, “the relevant member” of a financial conglomerate is—
+
+- (a) the parent undertaking at the head of the financial conglomerate; or
+- (b) where there is no parent undertaking at the head of the financial conglomerate, the regulated entity which—
+  - (i) is in the most important financial sector [^key-d66113314fdede8f10eae127e8aa89c6]...; and
+  - (ii) has the largest balance-sheet total in that sector.
+
+### 3. Exercise of functions under Part IV of the Act for the purposes of carrying on supplementary supervision
+
+(1) This regulation applies if a regulator[^key-61e047248a0a6c49bd054d03c0a555cc] is considering varying the Part IV permission of any person (“A”) where—
+
+- (a) A is a member of a financial conglomerate; and
+- (b) that regulator[^key-ee036f4d0ebbde9c6091198469546e0a] is acting in the course of carrying on supplementary supervision [^key-2d5306322aa6ae1d427caef60ea822e9]....
+
+(2) Section 55R(2)[^key-36dc4b9f4bccf857bd28bbc15bf2631b] of the Act (obligation to consult home state regulators of connected persons) does not apply.
+
+(3) Before varying the Part IV permission of A, that regulator must [^key-afc91ebf1475667e9cbb0ae3aab78627]...—
+
+- (a) consult the relevant competent authorities in relation to the financial conglomerate of which A is a member; and[^key-eb3edba9ca0ccb0667674dc844962444]
+- (b)[^key-c9cd6ca1dc204edd69ce6230ea8a38c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) consult the financial conglomerate of which A is a member.
+
+### 4. Exercise of functions under section 138A of the Act for the purposes of carrying on supplementary supervision[^key-026f234b06bce3d8714b0bd99a1a4d25]
+
+(1) Paragraph (2) applies if a regulator[^key-3a0e5478ed54671aa26f4a6275748e35] is considering exercising any of the powers conferred on it by section 138A[^key-ffeeefbaa08862a1af1b90f854624638] of the Act (modification or waiver of rules) in the course of carrying on supplementary supervision of a financial conglomerate [^key-4bf02b95b24ffc9103e5397f44c4c8cf]....
+
+(2) Before a regulator[^key-4ceffea731078c6184c1c64a403e39bb] exercises such a power in relation to an authorised person who is a member of a financial conglomerate, the regulator[^key-5b910417591c98fd0bd8ca77da4726e1] must [^key-449964e56d101027ecb630d92e2a4d58]...—
+
+- (a) consult the relevant competent authorities in relation to the financial conglomerate of which that person is a member; and[^key-ee0f85fa0b7e2d31fae7340693b80455]
+- (b)[^key-02a16fa4fd9891ee351c7aacc4da5758] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) consult the financial conglomerate of which that person is a member.
+
+### 5. Consultation in the case of major sanctions or exceptional measures
+
+(1) Before a regulator[^key-092835850eb016dfbb771730e2fa9823]—
+
+- (a) varies the Part IV permission of a member of a financial conglomerate (“D”);
+- (b) publishes a statement under section 205 of the Act (public censure) that it considers that D has contravened a requirement imposed on him by or under the Act;
+- (c) imposes a penalty on D in respect of such a contravention under section 206 of the Act (financial penalties); or
+- (d) exercises any of its powers (other than its powers under section 381, 383 or 384(2)) under Part XXV of the Act (injunctions and restitution) in relation to D,
+
+it must, if it considers that the action constitutes a major sanction or an exceptional measure and is of importance for the supervisory tasks of the competent authority of any regulated entity which is a member of the same financial conglomerate as D, consult that competent authority.
+
+(2) But paragraph (1) does not apply—
+
+- (a) where the relevant regulator[^key-6b1655aa4a91ff18434d76797d892453] considers that there is an urgent need to act;
+- (b) where relevant regulator considers that such consultation may jeopardise the effectiveness of the action mentioned in paragraph (1); or
+- (c) where regulation 3, 8(3) or (4), 9 or 10 applies.
+
+(3) Where paragraph (1) does not apply by virtue of paragraph (2)(a) or (b), the relevant regulator[^key-cd4225bdda6e4b710e7562bb616912ff] must, as soon as is reasonably practicable, inform the competent authority referred to in paragraph (1) of the action that it has taken.
+
+### 6. Regulator functions and service of notifications[^key-128800091723731b479a298868be7e3c]
+
+(1) Any function carried out by a regulator[^key-ab8f1f7e087b41a9c3643feb023cc0c6] (whether in the capacity of a co-ordinator, a relevant competent authority or otherwise) for the purposes of these Regulations[^key-2d191b5604cb68776c3ec4e659608e3c] is to be treated as a function conferred on the regulator[^key-fd97c3bf827eb622ecca7036932bb2b3] by a provision of the Act.
+
+(2) The Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001 [^c5251421] apply to any notifications given under regulation 2(1)(a) as they apply to any notice, direction or document of any kind given under the Act.
+
+## PART 3 — Supplementary supervision of third-country financial conglomeratesand third-country groups
+
+### 7. Supervision of third-country financial conglomerates and third-country groups—interpretation
+
+(1) For the purposes of this Part—
+
+- [^key-22fd9fb1dc3f4412e8fc42e3e4f5182d]...
+- [^key-22fd9fb1dc3f4412e8fc42e3e4f5182d]...
+- [^key-22fd9fb1dc3f4412e8fc42e3e4f5182d]...
+- [^key-22fd9fb1dc3f4412e8fc42e3e4f5182d]...
+- “**third-country competent authority**” means the authority of a country or territory which is not part of the United Kingdom[^key-1a6c46d9b9e9f127e8054d201102c955] which is empowered by law or regulation to supervise (whether on an individual or group-wide basis) regulated entities;
+- “**third-country financial conglomerate**” means a group—
+  - (a) which, subject to Article 3 of the conglomerates directive, meets the conditions in Article 2(14) of that directive as amended by regulation 2(2)(d) of the Financial Conglomerates and other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019[^key-20d589bd3c58cc872181e627370fef17], and
+  - (b) in which the parent undertaking has its head office outside the UK[^key-44ec842b0977f9057258d25d48452bc2];
+- [^key-22fd9fb1dc3f4412e8fc42e3e4f5182d]...
+
+(2)[^key-5951cafaa596918bf608616c249a3e77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Supervision of third-country financial conglomerates
+
+(1)[^key-eb19df6cc6103799925aa9909b415385] Where a regulator is verifying whether the regulated entities in a third-country financial conglomerate are subject to supervision by a third-country competent authority, which is equivalent to that provided for by the provisions of these Regulations, it must, before completing the verification, consult the other relevant competent authorities in relation to the third-country financial conglomerate.
+
+(2) Paragraphs (3) and (4) apply if a regulator[^key-ce2ece16b49e2bf7ace99c3d7247096f] [^key-f336cdf44fe60efa6656977dc3fcc7b6]... exercises its powers to—
+
+- (a) vary the Part IV permission of a regulated entity in a third-country financial conglomerate;
+- (b) disapply from, or apply in a modified form to, such a regulated entity the rules specified in subsection (1) of section 138A[^key-79a94478baa9b822a33639638fa90249] of the Act (modification or waiver of rules) in accordance with that section;
+- (c) impose conditions under section 187 of the Act (approval with conditions)[^key-ef2bb20e5aa93e74a8aff165c7b052b9] on a person who is, or proposes to be, a controller of such a regulated entity; or
+- (d) give a notice under section 191A (objection by the appropriate regulator) or section 191B (restriction notices) of the Act[^key-0f49d01d98aef39fc63839e5a1de02c4] to a person who is, or proposes to be, a controller of such a regulated entity.
+
+(3) [^key-beea639b1e96c2179e21bcffad3363ec]... A regulator[^key-1c57941eeeda59138e112a60cacea079] must before taking the action specified in paragraph (2)—
+
+- (a) where that regulator[^key-aec41dbdeafa0308cdbdff06fff13fa6] is the co-ordinator, consult the relevant competent authorities in relation to that third-country financial conglomerate; or
+- (b) where that regulator is not the co-ordinator, obtain the consent of the co-ordinator for that third-country financial conglomerate to take that action.
+
+(4)[^key-1a326334f3a60c0ccfe3311aad7e765c] If a regulator decides to take that action, it must notify the competent authority of each regulated entity in that third-country financial conglomerate that it has done so.
+
+### 9. Supervision of third-country banking groups[^key-4953b49b9da6a4593f4a0484e76e4c1c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Supervision of third-country groups subject to the capital requirements regulation and capital requirement directive[^key-cc3818df01632302b5a8fb421df5a1dd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Provisions relating to information
+
+### 11. Disclosure of confidential information
+
+In regulation 2 of the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001 [^c5251441] (interpretation)—
+
+- (a) after the definition of “Authority worker”, insert—
+
+  > “**conglomerates directive**” means Directive [2002/87/EC](https://www.legislation.gov.uk/european/directive/2002/0087) of the European Parliament and of the Council of 16th December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate and amending Council Directives [73/239/EEC](https://www.legislation.gov.uk/european/directive/1973/0239), [79/267/EEC](https://www.legislation.gov.uk/european/directive/1979/0267), [92/49/EEC](https://www.legislation.gov.uk/european/directive/1992/0049), [92/96/EEC](https://www.legislation.gov.uk/european/directive/1992/0096), [93/6/EEC](https://www.legislation.gov.uk/european/directive/1993/0006), [93/22/EEC](https://www.legislation.gov.uk/european/directive/1993/0022), and Directives [98/78/EC](https://www.legislation.gov.uk/european/directive/1998/0078) and [2000/12/EC](https://www.legislation.gov.uk/european/directive/2000/0012) of the European Parliament and of the Council [^c5251451];
+
+  ;
+- (b) in the definition of “single market directive information”, after “single market directives”, insert “ or the conglomerates directive ”.
+
+### 12. Obtaining information—avoidance of duplication of reporting
+
+(1) Paragraph (2) applies if a regulator[^key-43a9459a342ac33ce268e64af9fa2966] is the co-ordinator in relation to any financial conglomerate.
+
+(2) If a regulator[^key-87c0859ddcd7b0fd36f3ab5e72cd9dec] requires any disclosed information in connection with its functions as the co-ordinator, it must so far as possible obtain that information by requesting the competent authority which holds that information to disclose it to that regulator[^key-3c55800933d6873ef32d29e4e3a51ce9].
+
+(3) In this regulation, “**disclosed information**” means information which a regulated entity in a financial conglomerate has disclosed to its competent authority.
+
+## PART 5 — Miscellaneous
+
+### 13. Consultation on change of control[^key-ebe95f12ad13a7a30274536337648751]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. References to existing directives
+
+(1) In section 119(2B) of the Building Societies Act 1986 (definition of “Banking Consolidation Directive”) [^c5251471], at the end insert “ (as last amended by Directive [2002/87/EC](https://www.legislation.gov.uk/european/directive/2002/0087) of the European Parliament and of the Council) ”.
+
+(2) In section 17(7C) of the Bank of England Act 1998 (power to obtain information) [^c5251481], after “Council Directive [2000/12/EC](https://www.legislation.gov.uk/european/directive/2000/0012) of the European Parliament and the Council”, insert “ (as last amended by Directive [2002/87/EC](https://www.legislation.gov.uk/european/directive/2002/0087) of the European Parliament and of the Council) ”.
+
+(3) In article 2(3) of the Cash Ratio Deposits (Eligible Liabilities) Order 1998 (interpretation) [^c5251491], at the end, insert “ (as last amended by Directive [2002/87/EC](https://www.legislation.gov.uk/european/directive/2002/0087) of the European Parliament and of the Council) ”.
+
+(4) In the Financial Services and Markets Act 2000 (EEA Passport Rights) Regulations 2001 [^c5251501], in regulation 2(5)(e)(i) and regulation 3(3)(e)(i) (content of consent and regulator’s notice), after “first non-life insurance directive”, insert “ (as last amended by Directive [2002/87/EC](https://www.legislation.gov.uk/european/directive/2002/0087) of the European Parliament and of the Council) ”.
+
+### 15. Extension of power to vary Part IV permissions
+
+(1) Subject to paragraph (2), a regulator[^key-4d75378f714dca8c3a7bacc020abcdc8] may exercise its own-initiate variation power or own-initiative requirement power (within the meaning of Part 4A of[^key-be51d30250ae75a4f9e05a08b0819fad] the Act) in relation to an authorised person, if it appears to it that it is desirable to do so for the purpose of—
+
+- (a) carrying out supplementary supervision in accordance with these Regulations[^key-a9bbce4675ecba562131d8698d82b298];
+- (b)[^key-00dbd919aed96b3e06d67b27aae39c14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-fe4eab1f041a7546c41a722c647f5538] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) A regulator[^key-064501673d97f988042cbd48ad6e1ee9] may exercise its own-initiative power, for the purposes set out in paragraph (1), to vary a Part IV permission in any of the ways mentioned in sections 55H(2), 55I(1), 55L(5)(b) or (c) or 55M(5)(b) or (c) of[^key-e8ece91bcfd8bb982b2520d498030887] the Act; and this extends to including any provision in the permission as varied that could be included if a fresh permission were given in response to an application under section 55A[^key-5ca6faaf7046ca15e82def95531f8cde] of the Act (application for permission).
+
+(3) The duty imposed by subsection (3) of section 55B[^key-37a884cfe067a73732f16bd3005da8d3] of the Act (the threshold conditions) does not prevent a regulator[^key-d4c9548fe00cd3f06833a949ed0bf623] from exercising its own-initiative power for the purposes set out in paragraph (1).
+
+### 16. Thresholds for identifying a financial conglomerate[^key-00a23dbbcab7240e52d0dd151e1adc94]
+
+(1) If the group does not reach the threshold referred to in—
+
+- (a) the PRA Rulebook, Financial Conglomerates Annex 1, Threshold Test 2;
+- (b) the Threshold Test 2 of Annex 4 of Chapter 3 of the FCA General Prudential sourcebook,
+
+  the relevant competent authorities may decide by common agreement not to regard the group as a financial conglomerate.
+
+(2) If a group does not reach the threshold in paragraph (1)(a) or (b), the relevant competent authority may decide not to apply the provisions on risk concentration, intra-group transactions and internal control mechanisms and risk management processes in—
+
+- (a) Chapter 3 of the FCA General Prudential Sourcebook, Chapter 12 of the FCA Senior Management Arrangements, Systems and Controls, or
+- (b) the Financial Conglomerates part of the PRA Rulebook; if the application of such provisions is not necessary or would be inappropriate or misleading with respect to the objectives of supplementary supervision.
+
+(3) Decisions taken in accordance with this regulation must be notified to the other competent authorities.
+
+### 17.
+
+(1) If the group reaches the threshold referred to in regulation 16(1)(a) or (b) but the smallest sector does not exceed EUR 6 billion, the relevant competent authorities may decide by common agreement not to regard the group as a financial conglomerate.
+
+(2) The relevant competent authorities may also decide not to apply the provisions on risk concentration, intra-group transactions and internal control mechanisms and risk management processes in—
+
+- (a) Chapter 3 of the FCA General Prudential sourcebook, Chapter 12 of the FCA Senior Management Arrangements, Systems and Controls sourcebook, or
+- (b) the Financial Conglomerates part of the PRA Rulebook; if the application of such provisions is not necessary or would be inappropriate or misleading with respect to the objectives of supplementary supervision.
+
+(3) Decisions taken in accordance with this regulation must be notified to the other competent authority.
+
+### 18.
+
+(1) In respect of the application of—
+
+- (a) the PRA Rulebook, Financial Conglomerates Annex 1 Threshold Test 1, 2 and 3, or
+- (b) the Threshold Test 1, 2 and 3 of Annex 4 of Chapter 3 of the FCA General Prudential sourcebook,
+
+  the relevant competent authorities may by common agreement take the action specified in paragraph (2).
+
+(2) The action the relevant competent authorities may take is—
+
+- (a) to exclude an entity when calculating the ratios, in the cases referred to in regulation 24, unless—
+  - (i) the entity moved from the UK to a third country, and
+  - (ii) there is evidence that the entity changed its location to avoid regulation;
+- (b) to take into account compliance with the thresholds envisaged in—
+  - (i) the PRA Rulebook, Financial Conglomerates Annex 1 Threshold Test 1 and 2, or
+  - (ii) the Threshold Test 1 and 2 of Annex 4 of Chapter 3 of the FCA General Prudential sourcebook,
+
+  for three consecutive years so as to avoid sudden regime shifts, and disregard such compliance if there are significant changes in the group's structure;
+- (c) to exclude one or more participations as defined in article 4.1(35) of the Capital Requirements Regulation in the smaller sector if—
+  - (i) such participations are decisive for the identification of a financial conglomerate, and
+  - (ii) are collectively of negligible interest with respect the objectives of supplementary supervision.
+
+(3) Where a financial conglomerate has been identified according to—
+
+- (a) the PRA Rulebook, Financial Conglomerates Annex 1 Threshold Test 1, 2 and 3, or
+- (b) the Threshold Test 1, 2 and 3 of Annex 4 of Chapter 3 of the General Prudential sourcebook,
+
+  the decisions referred to in paragraph (1) must be taken on the basis of a proposal made by the co-ordinator of that financial conglomerate.
+
+### 19.
+
+(1) In respect of the application of—
+
+- (a) the PRA Rulebook, Financial Conglomerates Annex 1 Threshold Test 1 and 2, or
+- (b) the Threshold Test 1 and 2 of Annex 4 of Chapter 3 of the FCA General Prudential sourcebook,
+
+  the relevant competent authorities may, in exceptional cases and by common agreement, take the action specified in paragraph (2).
+
+(2) The action the competent authorities may take is to—
+
+- (a) replace the criterion based on balance sheet total with one or both of the parameters specified in paragraph (3), or
+- (b) add one or both of the parameters,
+
+  if they determine that the parameters are of relevance for the purposes of supplementary supervision.
+
+(3) The parameters are—
+
+- (a) income structure;
+- (b) off-balance-sheet activities;
+- (c) total assets under management.
+
+### 20.
+
+(1) In respect of the application of—
+
+- (a) the PRA Rulebook, Financial Conglomerates Annex 1 Threshold Test 1 and 2, or
+- (b) the Threshold Test 1 and 2 of Annex 4 of Chapter 3 of the FCA General Prudential sourcebook;
+
+  if the ratios referred to in those rules fall below 40% and 10% respectively for conglomerates already subject to supplementary supervision, a lower ratio of 35% and 8 % respectively will apply for the following three years.
+
+(2) In respect of the application of—
+
+- (a) the PRA Rulebook, Financial Conglomerates Annex 1 Threshold Test 3, or
+- (b) the Threshold Test 3 of Annex 4 of Chapter 3 of the FCA General Prudential sourcebook,
+
+  if the balance sheet total of the smallest financial sector in the group falls below EUR 6 billion for conglomerates already subject to supplementary supervision, a lower figure of EUR 5 billion must apply for the following three years.
+
+(3) During the period which paragraph (2) applies, the co-ordinator may, with the agreement of the other relevant competent authority, decide that the lower ratios or the lower amount referred to in this regulation must cease to apply.
+
+### 21. Scope of supplementary supervision of regulated entities
+
+(1) Where a person—
+
+- (a) holds participations (as defined in article 4.1(35) of the capital requirements regulation);
+- (b) holds capital ties in one or more regulated entities; or
+- (c) exercises significant influence over such entities without holding a participation or capital ties, other than in the cases referred to in regulations 22 and 23 of these Regulations;
+
+  the relevant competent authorities must, by common agreement determine whether and to what extent supplementary supervision of the regulated entities is to be carried out, as if they constituted a financial conglomerate.
+
+(2) To apply such supplementary supervision, at least one of the entities must be a regulated entity which is part of a financial conglomerate and the conditions set out in—
+
+- (a) the PRA Rulebook Financial Conglomerates Annex 1; and
+- (b) Annex 4 of Chapter 3 of the FCA General Prudential sourcebook,
+
+must be met.
+
+(3) The relevant competent authorities must make their decision considering the objectives of the supplementary supervision.
+
+(4) For the purposes of applying paragraph (1) to cooperative groups, the competent authorities must consider the public financial commitment of these groups with respect to other financial entities.
+
+### 22.
+
+(1) The following regulated entities must be subject to supplementary supervision at the level of the financial conglomerate in accordance with—
+
+- (a) Chapter 3 of the FCA General Prudential sourcebook,
+- (b) Chapter 12 of the FCA Senior arrangements, Systems and Controls sourcebook, and
+- (c) the Financial Conglomerates part of the PRA Rulebook.
+
+(2) The regulated entities are—
+
+- (a) every regulated entity which is at the head of a financial conglomerate;
+- (b) every regulated entity, the parent undertaking of which is a mixed financial holding company which has its head office in the United Kingdom;
+- (c) every regulated entity linked with another financial sector entity by a common management relationship (within the meaning of article 4(1)(38A) of the capital requirement regulation).
+
+(3) Where a financial conglomerate is a subgroup of another financial conglomerate which meets the requirements of paragraph (2)(a), the relevant competent authorities may apply supplementary supervision to the regulated entities within the latter group only.
+
+### 23.
+
+A regulated entity which is not subject to supplementary supervision in accordance with regulation 22, the parent undertaking of which is a regulated entity or a mixed financial holding company which has its head office in a third country, must be subject to supplementary supervision at the level of the financial conglomerate to the extent and in the manner prescribed in—
+
+- (a) regulation 8,
+- (b) the PRA Rulebook Financial Conglomerates Rule 6.2, and
+- (c) rule 3.2 of Chapter 3 of the FCA General Prudential sourcebook.
+
+### 23A. Interpretation of regulations 16 to 23[^key-6ba8fe7c685267d0486df10357e18b2f]
+
+In regulations 16 to 23—
+
+- “**FCA General Prudential Sourcebook**” means that Part of the FCA Handbook as that Handbook has effect on 17th August 2022;
+- “**FCA Handbook**” means the Handbook made by the Financial Conduct Authority under the Act as that Handbook has effect on 17th August 2022; and
+- “**PRA Rulebook**” means the rulebook published by the Prudential Regulation Authority containing rules made by that Authority under the Act as that rulebook has effect on 17th August 2022.
+
+### 24. Capital adequacy
+
+(1) The co-ordinator may exclude an entity from the supplementary supervision scope when calculating the supplementary capital adequacy requirements if—
+
+- (a) the entity is situated in a third country where there are legal impediments to the transfer of the necessary information, without prejudice to the rules regarding the obligations of the competent authorities to refuse authorisation where the effective exercise of their supervisory functions is prevented;
+- (b) the entity is of negligible interest with respect to the objectives of the supplementary supervision of regulated entities in a financial conglomerate;
+- (c) the inclusion of the entity would be inappropriate or misleading with respect to the objectives of supplementary supervision.
+
+(2) However, if several entities are to be excluded—
+
+- (a) under paragraph (1)(b), they must be included when collectively they are of non-negligible interest;
+- (b) under paragraph (1)(c), the co-ordinator must, except in cases of urgency, consult the other relevant competent authority before taking a decision.
+
+(3) When the co-ordinator excludes a regulated entity in the supplementary supervision scope under paragraph (1)(b) and (c), the competent authorities may ask the entity which is at the head of the financial conglomerate for information which may facilitate the competent authorities' supervision of the regulated entity.
+
+John Heppell,
+
+Nick Ainger
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement, in part, Directive [2002/87/EC](https://www.legislation.gov.uk/european/directive/2002/0087) of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate and amending Council Directives [73/239/EEC](https://www.legislation.gov.uk/european/directive/1973/0239), [79/267/EEC](https://www.legislation.gov.uk/european/directive/1979/0267), [92/49/EEC](https://www.legislation.gov.uk/european/directive/1992/0049), [92/96/EEC](https://www.legislation.gov.uk/european/directive/1992/0096), [93/6/EEC](https://www.legislation.gov.uk/european/directive/1993/0006), [93/22/EEC](https://www.legislation.gov.uk/european/directive/1993/0022), and Directives [98/78/EC](https://www.legislation.gov.uk/european/directive/1998/0078) and [2000/12/EC](https://www.legislation.gov.uk/european/directive/2000/0012) of the European Parliament and of the Council (“the conglomerates directive”) (OJ No. L 35 11.2.2003 p.1).
+
+A Transposition Table setting out how the main elements of the conglomerates directive will be transposed into UK law is available from the Financial Stability and Regulatory Policy Team, HM Treasury, 1 Horse Guards Road, London SWIA 2HQ. The Transposition Table is also available on HM Treasury’s website (*www.hm-treasury.gov.uk*).
+
+A full regulatory impact assessment has not been produced for this instrument as it has no impact on the costs of business.
+
+The conglomerates directive includes certain procedural requirements that competent authorities of EEA States must carry out. These requirements include consulting other competent authorities and notifying regulated entities that, for example, they are members of financial conglomerates. These Regulations impose obligations upon the Financial Services Authority, the competent authority for the United Kingdom, for the purpose of implementing these procedural requirements.
+
+Part 2 of the Regulations makes provision in relation to the exercise of supplementary supervision of regulated entities in a financial conglomerate. Regulation 2 deals with procedural requirements relating to the notification of identification as a financial conglomerate and choice of co-ordinator. Regulation 3 deals with procedural requirements relating to the exercise of functions under Part IV of the Financial Services and Markets Act 2000 (c. 8.) (“**the Act**”) for the purposes of carrying out supplementary supervision. Regulation 4 deals with procedural requirements relating to the exercise of functions under section 148 of the Act for the purposes of carrying on supplementary supervision. Regulation 5 makes provision in respect of the carrying out of consultation in the case of major sanctions or exceptional measures. Regulation 6 provides that any function carried out by the Financial Services Authority for the purposes of the conglomerates directive is to be treated as a function conferred on that Authority by a provision of the Act. Regulation 6 also applies the effect of the Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001 (S.I. 2001/1420) to any notifications given under regulation 2(1)(a) of these Regulations.
+
+Part 3 of the Regulations makes provision in relation to the supplementary or consolidated supervision of third-country financial conglomerates and third-country groups. Regulation 8 deals with procedural requirements relating to the supervision of third-country financial conglomerates. Regulation 9 deals with procedural requirements relating to the supervision of third-country banking groups. Regulation 10 deals with procedural requirements in relation to the supervision of third-country groups subject to Council Directive [93/6/EEC](https://www.legislation.gov.uk/european/directive/1993/0006) of 15 March 1993 on the capital adequacy of investment firms and credit institutions (OJ L141 11.6.1993 p.1).
+
+Part 4 of the Regulations makes provision relating to information. Regulation 11 amends the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001 (S.I. 2001/2188), so as to extend the effect of those Regulations to information necessary for the purposes of the conglomerates directive. Regulation 12 provides that the Financial Services Authority must, where it requires information that a regulated entity has disclosed to its competent authority, obtain that information from that competent authority.
+
+Part 5 of the Regulations makes other miscellaneous provision. Regulation 13 amends the Financial Services and Markets Act 2000 (Consultation with Competent Authorities) Regulations 2001 (S.I. 2001/2509) so as to extend the effect of those Regulations to consultation required for the purpose of the conglomerates directive. Regulation 14 makes consequential amendments to references in UK legislation to Community legislation that is amended by the conglomerates directive. Regulation 15 extends the Financial Services Authority’s own-initiative power (within the meaning of section 45 of the Act) so as to enable it to vary a Part IV permission where it considers that this is desirable to do so for the purpose of carrying out supplementary supervision in accordance with the conglomerates directive, acting in accordance with articles 55a or 56a of Directive [2000/12/EC](https://www.legislation.gov.uk/european/directive/2000/0012) of the European Parliament and of the Council of 20 March 2000 relating to the taking up and pursuit of the business of credit institutions (OJ L126, 26.5.2000, p.1) or acting in accordance with Article 8(2) or Annex I.1.B of Directive [98/78/EC](https://www.legislation.gov.uk/european/directive/1998/0078) of the European Parliament and of the Council of 27 October 1998 on the supplementary supervision of insurance undertakings in an insurance group (OJ No. L 330 5.12.98 p.1).
+
+Regulations 2 to 12 and 14 and 15 are made in accordance with the powers conferred on the Treasury by section 2(2) of the European Communities Act 1972 (c. 68.). Regulation 13 is made in accordance with the powers conferred on the Treasury by sections 183(2), 188(2), 417(1) and 428(3) of the Act. Regulation 1 is made in accordance with section 2(2) of the European Communities Act 1972 and sections 183(2), 188(2), 417(1) and 428(3) of the Act.
+
+## Annotations
+
+[^c5251301]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). By virtue of the amendment of section 1(2) made by section 1 of the [European Economic Area Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51), regulations may be made under section 2(2) to implement obligations of the United Kingdom created by or arising under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993 (Cm 2183).
+
+[^c5251311]: Marginal citation: [S.I. 1997/2781](https://www.legislation.gov.uk/uksi/1997/2781).
+
+[^c5251321]: Marginal citation: [S.I. 2001/3495](https://www.legislation.gov.uk/uksi/2001/3495).
+
+[^c5251331]: Marginal citation: [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661).
+
+[^c5251341]: Marginal citation: [S.I. 2002/2840](https://www.legislation.gov.uk/uksi/2002/2840).
+
+[^c5251351]: Marginal citation: See the definition of “prescribed”.
+
+[^c5251361]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-dc668e79d47aac117aeb1de95987c1b9]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2004/1862): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^key-0df9fe70173a78d7ce273f7f2fa656f3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/1/2) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/2/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c74a165030d07b318f0196f83f1a4ab7]: Textual amendment: Words in reg. 1(2) omitted (1.1.2014) by virtue of [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 64(2)(a)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/64/2/a)
+
+[^key-465acc241b00254d93fb5c249485ab04]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/1/2) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [12(a)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/12/a)
+
+[^key-5833f619ba25e9f0e08291837284b380]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/1/2) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [12(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/12/b)
+
+[^key-9b07cb906a7685c713e7174d033c63f5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/1/2) substituted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/2/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-eb5c18f4aef0099e8b828633e099aaaa]: Textual amendment: Words in reg. 1(2) inserted (10.6.2013) by [The Financial Conglomerates and Other Financial Groups (Amendment) Regulations 2013 (S.I. 2013/1162)](https://www.legislation.gov.uk/uksi/2013/1162), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1162/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/1162/regulation/3)
+
+[^key-09385556c40b51fd6e47ca9d4c9dff3a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/1/2) substituted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/2/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bfce482a72c4a46e2e52ffa713c22ba3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/1/2) substituted (17.8.2022) by [The Financial Services and Markets Act 2000 (Consequential Amendments of References to Rules and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/854)](https://www.legislation.gov.uk/uksi/2022/854), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/854/regulation/1/2), [2(1)(a)](https://www.legislation.gov.uk/uksi/2022/854/regulation/2/1/a)
+
+[^key-8a9b2e68bca3717f235f1d0bebb0c6f8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/1/2) substituted (17.8.2022) by [The Financial Services and Markets Act 2000 (Consequential Amendments of References to Rules and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/854)](https://www.legislation.gov.uk/uksi/2022/854), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/854/regulation/1/2), [2(1)(b)](https://www.legislation.gov.uk/uksi/2022/854/regulation/2/1/b)
+
+[^key-7f588f117029afcae0ddc66417036880]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/1/2) inserted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(2)(g)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/2/g) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d90c054fcd3be50c5f5c22281104cbe3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/1/2) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/2/e) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-426c73ad10718cd797dc20d0e818ee7e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/1/2) substituted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(2)(f)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/2/f) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5263606a43979c8028390adb3756c65d]: Textual amendment: Words in reg. 1(2) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/2) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-410ec973018766d7f338cde381b0b003]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(3)(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/3/a/i) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-37a345dcf12d2c7394f5b71f8afe791f]: Textual amendment: Reg. 2(1)(aa) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/3/a/ii) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-f90672697940398f3df8f0d6c5be56b5]: Textual amendment: [Reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/2/1/b) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/3/a/i) (with [regs. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6), [9](https://www.legislation.gov.uk/uksi/2019/264/regulation/9)) (as amended by [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/1010/regulation/8) and [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) ); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-89b8623ba8fbaf423faf99a9fb8dbac3]: Textual amendment: [Reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/2/1/c) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/3/a/i) (with [regs. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6), [9](https://www.legislation.gov.uk/uksi/2019/264/regulation/9)) (as amended by [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/1010/regulation/8) and [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) ); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-358c3b84730c64509df12ba3ff8cdc6d]: Textual amendment: [Reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/2/1/d) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/3/a/i) (with [regs. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6), [9](https://www.legislation.gov.uk/uksi/2019/264/regulation/9)) (as amended by [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/1010/regulation/8) and [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) ); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b7490adcf979b07226056b0f9962c32a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/2/1) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/3/a/ii) (with [regs. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6), [9](https://www.legislation.gov.uk/uksi/2019/264/regulation/9)) (as amended by [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/1010/regulation/8) and [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) ); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7398df82ed78cf40e7d0e71c80a8673c]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/3/a/iii) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-ba4241a50c1ccd327a9601091974291b]: Textual amendment: Words in reg. 2(2)(a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(3)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/3/b) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-7370379adca66a449dae221cbde32386]: Textual amendment: Words in reg. 2(2)(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(3)(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/3/c) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-7dae50990ae3af7dd409dee0f4800690]: Textual amendment: Words in [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/2/2/b) substituted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/3/b) (with [regs. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6), [9](https://www.legislation.gov.uk/uksi/2019/264/regulation/9)) (as amended by [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/1010/regulation/8) and [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) ); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-25371f989bfc4d7b266a2510494a7ab9]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/2/2A) inserted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/3/c) (with [regs. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6), [9](https://www.legislation.gov.uk/uksi/2019/264/regulation/9)) (as amended by [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/1010/regulation/8) and [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) ); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b46ef7ae7b4dee8aaf0324f641b9f7c3]: Textual amendment: Words in reg. 2(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(3)(d)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/3/d) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-49330529a70e311f4d19e0ee3d078d61]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/2/3) substituted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(3)(d)(i)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/3/d/i) (with [regs. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6), [9](https://www.legislation.gov.uk/uksi/2019/264/regulation/9)) (as amended by [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/1010/regulation/8) and [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) ); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f0c9b8f5847a14a38b765085b33e62c1]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/2/3) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/3/d/ii) (with [regs. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6), [9](https://www.legislation.gov.uk/uksi/2019/264/regulation/9)) (as amended by [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/1010/regulation/8) and [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) ); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-20b29ff3ff93caab1084b9fe6ae97be0]: Textual amendment: [Reg. 2(3A)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/2/3A)[(3B)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/2/3B) inserted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(3)(e)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/3/e) (with [regs. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6), [9](https://www.legislation.gov.uk/uksi/2019/264/regulation/9)) (as amended by [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/1010/regulation/8) and [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) ); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d66113314fdede8f10eae127e8aa89c6]: Textual amendment: Words in [reg. 2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/2/4/b/i) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(3)(f)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/3/f) (with [regs. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6), [9](https://www.legislation.gov.uk/uksi/2019/264/regulation/9)) (as amended by [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/1010/regulation/8) and [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) ); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-61e047248a0a6c49bd054d03c0a555cc]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2004/1862/regulation/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(4)(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/4/a) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-ee036f4d0ebbde9c6091198469546e0a]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2004/1862/regulation/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(4)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/4/b) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-2d5306322aa6ae1d427caef60ea822e9]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/3/1/b) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/4/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-36dc4b9f4bccf857bd28bbc15bf2631b]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/3/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(4)(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/4/c) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-afc91ebf1475667e9cbb0ae3aab78627]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/3/3) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/4/b/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-eb3edba9ca0ccb0667674dc844962444]: Textual amendment: Word in [reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/3/3/a) inserted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/4/b/ii) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c9cd6ca1dc204edd69ce6230ea8a38c1]: Textual amendment: [Reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/3/3/b) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/4/b/iii) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-026f234b06bce3d8714b0bd99a1a4d25]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2004/1862/regulation/4) heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(5)(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/5/c) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-3a0e5478ed54671aa26f4a6275748e35]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/4/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(5)(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/5/a/i) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-ffeeefbaa08862a1af1b90f854624638]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/4/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/5/a/ii) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-4bf02b95b24ffc9103e5397f44c4c8cf]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/4/1) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/5/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4ceffea731078c6184c1c64a403e39bb]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/4/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(5)(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/5/b/i) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-5b910417591c98fd0bd8ca77da4726e1]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/4/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/5/b/ii) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-449964e56d101027ecb630d92e2a4d58]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/4/2) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/5/b/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ee0f85fa0b7e2d31fae7340693b80455]: Textual amendment: Word in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/4/2/a) inserted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/5/b/ii) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-02a16fa4fd9891ee351c7aacc4da5758]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/4/2/b) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/5/b/iii) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-092835850eb016dfbb771730e2fa9823]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/5/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(6)(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/6/a) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-6b1655aa4a91ff18434d76797d892453]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/5/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(6)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/6/b) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-cd4225bdda6e4b710e7562bb616912ff]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/5/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(6)(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/6/c) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-128800091723731b479a298868be7e3c]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/uksi/2004/1862/regulation/6) heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(7)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/7/b) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-ab8f1f7e087b41a9c3643feb023cc0c6]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/6/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(7)(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/7/a/i) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-2d191b5604cb68776c3ec4e659608e3c]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/6/1) substituted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/6) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fd97c3bf827eb622ecca7036932bb2b3]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/6/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/7/a/ii) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^c5251421]: Marginal citation: [S.I. 2001/1420](https://www.legislation.gov.uk/uksi/2001/1420).
+
+[^key-22fd9fb1dc3f4412e8fc42e3e4f5182d]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2004/1862/regulation/7) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/7/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1a6c46d9b9e9f127e8054d201102c955]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2004/1862/regulation/7) substituted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/7/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-20d589bd3c58cc872181e627370fef17]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2004/1862/regulation/7) inserted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(7)(c)(i)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/7/c/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-44ec842b0977f9057258d25d48452bc2]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/2004/1862/regulation/7) substituted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/7/c/ii) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5951cafaa596918bf608616c249a3e77]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/7/2) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(7)(d)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/7/d) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-eb19df6cc6103799925aa9909b415385]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/8/1) substituted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/8/a) (with [regs. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6), [9](https://www.legislation.gov.uk/uksi/2019/264/regulation/9)) (as amended by [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/1010/regulation/8) and [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) ); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ce2ece16b49e2bf7ace99c3d7247096f]: Textual amendment: Words in reg. 8(1)(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(8)(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/8/a) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-f336cdf44fe60efa6656977dc3fcc7b6]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/8/2) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/8/b) (with [regs. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6), [9](https://www.legislation.gov.uk/uksi/2019/264/regulation/9)) (as amended by [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/1010/regulation/8) and [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) ); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-79a94478baa9b822a33639638fa90249]: Textual amendment: Words in reg. 8(2)(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(8)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/8/b) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-ef2bb20e5aa93e74a8aff165c7b052b9]: Textual amendment: Words in reg. 8(2)(c) substituted (10.6.2013) by [The Financial Conglomerates and Other Financial Groups (Amendment) Regulations 2013 (S.I. 2013/1162)](https://www.legislation.gov.uk/uksi/2013/1162), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1162/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/1162/regulation/4/2)
+
+[^key-0f49d01d98aef39fc63839e5a1de02c4]: Textual amendment: Words in reg. 8(2)(d) substituted (10.6.2013) by [The Financial Conglomerates and Other Financial Groups (Amendment) Regulations 2013 (S.I. 2013/1162)](https://www.legislation.gov.uk/uksi/2013/1162), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1162/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2013/1162/regulation/4/3)
+
+[^key-beea639b1e96c2179e21bcffad3363ec]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/8/3) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(8)(c)(i)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/8/c/i) (with [regs. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6), [9](https://www.legislation.gov.uk/uksi/2019/264/regulation/9)) (as amended by [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/1010/regulation/8) and [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) ); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1c57941eeeda59138e112a60cacea079]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/8/3) substituted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(8)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/8/c/ii) (with [regs. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6), [9](https://www.legislation.gov.uk/uksi/2019/264/regulation/9)) (as amended by [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/1010/regulation/8) and [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) ); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-aec41dbdeafa0308cdbdff06fff13fa6]: Textual amendment: Words in reg. 8(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(8)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/8/c/ii) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-1a326334f3a60c0ccfe3311aad7e765c]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/8/4) substituted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(8)(d)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/8/d) (with [regs. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6), [9](https://www.legislation.gov.uk/uksi/2019/264/regulation/9)) (as amended by [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/1010/regulation/8) and [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) ); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4953b49b9da6a4593f4a0484e76e4c1c]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2004/1862/regulation/9) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/9) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cc3818df01632302b5a8fb421df5a1dd]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2004/1862/regulation/10) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/10) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c5251441]: Marginal citation: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188); [regulation 2](https://www.legislation.gov.uk/uksi/2004/1862/regulation/2) was amended by [S.I. 2001/3624](https://www.legislation.gov.uk/uksi/2001/3624), [S.I](https://www.legislation.gov.uk/uksi/2001/3624/section/I). 2003/693, [S.I. 2003/1473](https://www.legislation.gov.uk/uksi/2003/1473) and [S.I. 2003/2066](https://www.legislation.gov.uk/uksi/2003/2066).
+
+[^c5251451]: Marginal citation: OJ No. L35 11.2.2003, p.1; applied to the EEA by Joint Committee Decision 104/2004 of 9th July 2004 (not yet published in the Official Journal of the European Communities).
+
+[^key-43a9459a342ac33ce268e64af9fa2966]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/12/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(11)(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/11/a) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-87c0859ddcd7b0fd36f3ab5e72cd9dec]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/12/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(11)(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/11/a) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-3c55800933d6873ef32d29e4e3a51ce9]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/12/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(11)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/11/b) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-ebe95f12ad13a7a30274536337648751]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2004/1862/regulation/13) revoked (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/3115/schedule/3)
+
+[^c5251471]: Marginal citation: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53); definition inserted by [S.I. 1996/1669](https://www.legislation.gov.uk/uksi/1996/1669), substituted by [S.I. 2000/2952](https://www.legislation.gov.uk/uksi/2000/2952).
+
+[^c5251481]: Marginal citation: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11); [section 17(7C)](https://www.legislation.gov.uk/uksi/2004/1862/section/17/7C) was inserted by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
+
+[^c5251491]: Marginal citation: [S.I. 1998/1130](https://www.legislation.gov.uk/uksi/1998/1130); [article 2(3)](https://www.legislation.gov.uk/uksi/2004/1862/article/2/3) was amended by [S.I. 2000/2952](https://www.legislation.gov.uk/uksi/2000/2952).
+
+[^c5251501]: Marginal citation: [S.I. 2001/2511](https://www.legislation.gov.uk/uksi/2001/2511); [regulation 2](https://www.legislation.gov.uk/uksi/2004/1862/regulation/2) was amended by [S.I. 2002/765](https://www.legislation.gov.uk/uksi/2002/765) and [S.I. 2003/2066](https://www.legislation.gov.uk/uksi/2003/2066) and regulation 3 was amended by [S.I. 2003/1473](https://www.legislation.gov.uk/uksi/2003/1473) and [S.I. 2003/2066](https://www.legislation.gov.uk/uksi/2003/2066).
+
+[^key-4d75378f714dca8c3a7bacc020abcdc8]: Textual amendment: Words in reg. 15 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(12)(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/12/a) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-be51d30250ae75a4f9e05a08b0819fad]: Textual amendment: Words in reg. 15(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(12)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/12/b) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-a9bbce4675ecba562131d8698d82b298]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/15/1/a) substituted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(11)(a)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/11/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-00dbd919aed96b3e06d67b27aae39c14]: Textual amendment: [Reg. 15(1)(b)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/15/1/b) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(11)(b)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/11/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fe4eab1f041a7546c41a722c647f5538]: Textual amendment: [Reg. 15(1)(c)](https://www.legislation.gov.uk/uksi/2004/1862/regulation/15/1/c) omitted (31.12.2020) by virtue of [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [2(11)(b)](https://www.legislation.gov.uk/uksi/2019/264/regulation/2/11/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6)) (as amended by [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-064501673d97f988042cbd48ad6e1ee9]: Textual amendment: Words in reg. 15(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(12)(c)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/12/c/i) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-e8ece91bcfd8bb982b2520d498030887]: Textual amendment: Words in reg. 15(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(12)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/12/c/ii) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-5ca6faaf7046ca15e82def95531f8cde]: Textual amendment: Words in reg. 15(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(12)(c)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/12/c/iii) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-37a884cfe067a73732f16bd3005da8d3]: Textual amendment: Words in reg. 15(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(12)(d)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/12/d/ii) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-d4c9548fe00cd3f06833a949ed0bf623]: Textual amendment: Words in reg. 15(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 95(12)(d)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/95/12/d/i) (with [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/96))
+
+[^key-00a23dbbcab7240e52d0dd151e1adc94]: Textual amendment: [Regs. 16-24](https://www.legislation.gov.uk/uksi/2004/1862/regulation/16) inserted (31.12.2020) by [The Financial Conglomerates and Other Financial Groups (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/264)](https://www.legislation.gov.uk/uksi/2019/264), [regs. 1](https://www.legislation.gov.uk/uksi/2019/264/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/264/regulation/3) (with [regs. 6](https://www.legislation.gov.uk/uksi/2019/264/regulation/6), [9](https://www.legislation.gov.uk/uksi/2019/264/regulation/9)) (as amended by [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/1010/regulation/8) and [S.I. 2020/1031](https://www.legislation.gov.uk/uksi/2020/1031), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1031/regulation/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1031/schedule/paragraph/15) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) ); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6ba8fe7c685267d0486df10357e18b2f]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2004/1862/regulation/23A) inserted (17.8.2022) by [The Financial Services and Markets Act 2000 (Consequential Amendments of References to Rules and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/854)](https://www.legislation.gov.uk/uksi/2022/854), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/854/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/854/regulation/2/2)

@@ -1,0 +1,205 @@
+---
+title: The Registration of Homoeopathic Veterinary Medicinal Products (Fees) Regulations 1997
+id: uksi/1997/321
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1997-02-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1997/321
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/321/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Registration of Homoeopathic Veterinary Medicinal Products (Fees) Regulations 1997
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1997 No. 321
+
+MEDICINES
+
+The Registration of Homoeopathic Veterinary Medicinal Products (Fees) Regulations 1997
+
+Made
+
+12th February 1997
+
+Laid before Parliament
+
+12th March 1997
+
+Coming into force
+
+31st March 1997
+
+The Minister of Agriculture, Fisheries and Food and the Secretary of State, being Ministers designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to medicinal products, acting jointly, in exercise of the powers conferred on them by the said section 2(2), hereby make the following Regulations:
+
+## 1. Title and commencement
+
+These Regulations may be cited as the Registration of Homoeopathic Veterinary Medicinal Products (Fees) Regulations 1997 and shall come into force on 31st March 1997.
+
+## 2. Interpretation
+
+(1) For the purposes of these Regulations the terms—
+
+- “Article 8 dossier”;
+- “the Board”;
+- “the Commission”;
+- “the Ministers”;
+- “product”; and
+- “registered”,
+
+shall have the meanings respectively given to such terms by regulation 2(1) of the Registration of Homoeopathic Veterinary Medicinal Products Regulations 1997[^f00003], as read, in the case of the expression “the Ministers”, with regulation 2(5) of those Regulations.
+
+(2) In these Regulations, unless the context otherwise requires—
+
+- (a) any reference to a numbered regulation, or to a numbered Schedule, is a reference to the regulation of, or the Schedule to, these Regulations so numbered in these Regulations, and
+- (b) any reference in a Schedule, or Part of a Schedule, to a numbered paragraph is a reference to the paragraph so numbered in the Schedule, or Part of a Schedule, in which the reference occurs.
+
+(3) Part I of Schedule 1 shall have effect for the purpose of the interpretation of Schedule 1.
+
+## 3. Fees relating to applications for registration
+
+Subject to regulations 6 and 7, the relevant fee prescribed in Part II of Schedule 1 shall be payable by a person who applies to the Ministers to register a product.
+
+## 4. Fee relating to renewal applications
+
+Subject to regulation 6, a fee of £75 shall be payable by a person who applies to the Ministers to renew the registration of a product.
+
+## 5. Fee relating to the authorisation of Article 8 dossier alterations
+
+Subject to regulation 6, a fee of £85 shall be payable by a person who applies to the Ministers for authorisation to alter an Article 8 dossier relating to a registered product.
+
+## 6. Registrations, renewals and alterations made at the invitation of the Ministers
+
+No fee shall be payable in connection with the registration of a product, the renewal of a registration of a registered product, or the alteration of an Article 8 dossier relating to a registered product, which is made or carried out at the express written invitation of the Ministers.
+
+## 7. Waiver or refund of fees
+
+The Ministers shall waive or refund payment of any fee otherwise payable under regulation 3 in the circumstances and to the extent specified in Schedule 2.
+
+## 8. Time for payment of fees
+
+Any fee payable under these Regulations shall be payable to the Ministers within 30 days following written notice from the Ministers requiring the payment of the fee.
+
+## 9. Civil proceedings to recover unpaid fees
+
+All unpaid sums due by way of any fees payable under these Regulations shall be recoverable as debts due to the Crown.
+
+Angela Browning
+
+Parliamentary Secretary, Ministry of Agriculture, Fisheries and Food
+
+11th February 1997
+
+Lindsay
+
+Parliamentary Under-Secretary of State, Scottish Office
+
+12th February 1997
+
+## SCHEDULE 1 — FEES RELATING TO APPLICATIONS FOR REGISTRATION
+
+Regulations 2(3) and 3
+
+### PART I — INTERPRETATION
+
+In this Schedule—
+
+- “application” means an application to register a product;
+- “EEA Agreement” means the Agreement on the European Economic Area[^f00004] signed at Oporto on 2nd May 1992 as adjusted by the Protocol[^f00005] signed at Brussels on 17th March 1993 and as amended by the Decision of the EEA Joint Committee No 7/94[^f00006];
+- “EEA State” means a State which is a Contracting Party to the EEA Agreement other than the United Kingdom;
+- “formulation” means the formulation of a product but does not include the formulation of a homoeopathic stock contained in such a product;
+- “the Homoeopathics Directive” means Council Directive [92/74/EEC](https://www.legislation.gov.uk/european/directive/1992/0074) widening the scope of Directive [81/851/EEC](https://www.legislation.gov.uk/european/directive/1981/0851) on the approximation of the provisions laid down by law, regulation or administrative action relating to veterinary medicinal products and laying down additional provisions on homeopathic veterinary medicinal products[^f00007] as adapted by the EEA Agreement;
+- “homoeopathic stock” has the same meaning as in the Homoeopathics Directive;
+- “identical” means—
+  - (a) in relation to the formulation of a product, identical as regards the requirements in respect of the qualitative composition, preparation and testing,
+  - (b) in relation to a homoeopathic stock, identical as regards the source, composition and preparation of the stock and the tests which it is required to undergo;
+- “product” includes a series of products which are all dilutions prepared from an identical homoeopathic stock or stocks and each of which has the same pharmaceutical dosage form;
+- “repeat formulation” means—
+  - (a) the formulation of a product which is identical to the formulation of a registered product—
+    - (i) which the applicant is responsible for marketing; or
+    - (ii) to which the applicant has been authorised in writing to make reference for the purposes of his application by the person responsible for marketing that product, or
+  - (b) the formulation of a product which is identical to another product in respect of which an applicant has made a simultaneous application;
+- “repeat stock” means—
+  - (a) a homoeopathic stock which is used in the preparation of a product (either on its own or in combination with another homoeopathic stock or stocks), and which is identical to another homoeopathic stock which is used (whether on its own or in combination with any other homoeopathic stocks or stocks) in the preparation of a registered product—
+    - (i) which the applicant is responsible for marketing; or
+    - (ii) which another person is responsible for marketing and to which the applicant has been authorised in writing to make reference for the purposes of his application by the person (or, if more than one, each of such persons) who supplied information to the Ministers in connection with the application made to register that registered product; or
+  - (b) a homoeopathic stock which is used in the preparation of a product (either on its own or in combination with another homoeopathic stock or stocks), and which is identical to a homoeopathic stock which is used (whether on its own or in combination with any other homoeopathic stocks or stocks) in the preparation of a product in respect of which an applicant has made a simultaneous application; and
+- “simultaneous application” means an application which is made by an applicant at the same time as making another application or applications, and which is the first of such applications to be considered by the Ministers.
+
+### PART II — FEES RELATING TO APPLICATIONS FOR REGISTRATION
+
+**1.** Subject to paragraph 2, the fee for an application of a kind described in column (1) of the Table below shall be—
+
+- (a) the fee specified in the corresponding entry of column (2) of that Table in the case of a product prepared from not more than 5 homoeopathic stocks, and
+- (b) the fee specified in the corresponding entry of column (3) of that Table in the case of a product prepared from more than 5 homoeopathic stocks.
+
+  TABLE
+
+  <table>
+  <thead>
+  <tr><th>Column (1)</th><th>Column (2)</th><th>Column (3)</th></tr>
+  <tr><th><em>Description of application</em></th><th><em>Fees for applications in respect of products prepared from not more than 5 homoeopathic stocks</em></th><th><em>Fees for applications in respect of products prepared from more than 5 homoeopathic stocks</em></th></tr>
+  </thead>
+  <tbody>
+  <tr><td>1. An application in respect of a product which is both prepared solely from a repeat stock or stocks and is of a repeat formulation</td><td>£100</td><td>£250</td></tr>
+  <tr><td>2. An application in respect of a product which is either—<br>(a) prepared solely from a repeat stock or stocks; or<br>(b) is of a repeat formulation</td><td>£300</td><td>£450</td></tr>
+  <tr><td>3. Any other application</td><td>£500</td><td>£650</td></tr>
+  </tbody>
+  </table>
+
+**2.** Where an application for registration relates to a product—
+
+- (a) for which a certificate of registration has been granted in relation to a product which is equivalent to it under Part II of the Medicines (Homoeopathic Medicinal Products for Human Use) Regulations 1994[^f00008], or
+- (b) which is registered or authorised in an EEA State under legislation which implements the provisions of Article 6 of the Homoeopathics Directive in such State,
+
+the fee for such application shall be—
+
+- (i) £100 in the case of a product prepared from not more than 5 homoeopathic stocks, and
+- (ii) £250 in the case of a product prepared from more than 5 homoeopathic stocks.
+
+## SCHEDULE 2 — WAIVER OR REFUND OF FEES
+
+Regulation 7
+
+**1.** Subject to paragraph 2, where an application for registration is withdrawn before determination by the Ministers, the following percentage of the fee otherwise payable under regulation 3 in connection with that application shall be refunded or, if it has not yet been paid, shall be waived—
+
+- (a) if the application has been received but no veterinary, scientific or pharmaceutical assessment thereof has begun, 90 per cent, and
+- (b) if veterinary, scientific or pharmaceutical assessment has begun but has not been completed, 50 per cent.
+
+**2.** If an application for registration is withdrawn either after veterinary, scientific or pharmaceutical assessment has been completed, or following consideration of that application by the Board or by the Commission, no refund or waiver of the fee payable under regulation 3 in connection with that application shall be made.
+
+(This note is not part of the Regulations)
+
+These Regulations, which come into force on 31st March 1997, make provision for the fees payable in connection with applications relating to the registration of homoeopathic veterinary medicinal products, and applications relating to registered homoeopathic veterinary medicinal products, made under the Registration of Homoeopathic Veterinary Medicinal Products Regulations 1997 (S.I. [1997/322](https://www.legislation.gov.uk/uksi/1997/322)). They supplement those Regulations in implementing the provisions of Council Directive [92/74/EEC](https://www.legislation.gov.uk/european/directive/1992/0074) widening the scope of Directive [81/851/EEC](https://www.legislation.gov.uk/european/directive/1981/0851) on the approximation of provisions laid down by law, regulation or administrative action relating to veterinary medicinal products and laying down additional provisions on homeopathic veterinary medicinal products (OJ No. L297, 13.10.92, p. 12) insofar as they relate to homoeopathic veterinary medicinal products that satisfy all of the conditions specified in Article 7.1 of that Directive (“products”).
+
+The Regulations provide for fees to be payable in connection with applications to register products to which the 1997 Regulations apply (regulation 3 and Schedule 1), for applications to renew such registrations (regulation 4) and for applications to vary dossiers on which such registrations are based (regulation 5).
+
+The Regulations also include administrative provisions dealing with matters such as the waiver or refund of fees in specified circumstances (regulations 6 and 7 and Schedule 2) and the time of payment of fees (regulation 8).
+
+A Compliance Cost Assessment has been prepared and a copy has been placed in the library of each House of Parliament. Copies can be obtained from the Veterinary Medicines Directorate, Woodham Lane, Addlestone, Surrey, KT15 3NB.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); the enabling powers conferred by section 2(2) were extended by virtue of section 1 of the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51).
+
+[^f00003]: Footnote: S.I. [1997/322](https://www.legislation.gov.uk/uksi/1997/322).
+
+[^f00004]: Footnote: OJ No. L1, 3.1.94, p. 3.
+
+[^f00005]: Footnote: OJ No. L1, 3.1.94, p. 572.
+
+[^f00006]: Footnote: OJ No. L160, 28.6.94, p. 1.
+
+[^f00007]: Footnote: OJ No. L297, 13.10.92, p. 12.
+
+[^f00008]: Footnote: S.I. [1994/105](https://www.legislation.gov.uk/uksi/1994/105), amended by S.I. [1994/899](https://www.legislation.gov.uk/uksi/1994/899), [1995/541](https://www.legislation.gov.uk/uksi/1995/541), [1996/482](https://www.legislation.gov.uk/uksi/1996/482).

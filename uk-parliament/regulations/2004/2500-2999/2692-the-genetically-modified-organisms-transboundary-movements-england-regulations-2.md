@@ -1,0 +1,280 @@
+---
+title: The Genetically Modified Organisms (Transboundary Movements) (England) Regulations 2004
+id: uksi/2004/2692
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-10-17'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2004/2692
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/2692/pdfs/uksiem_20042692_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/2692/pdfs/uksi_20042692_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/2692/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Genetically Modified Organisms (Transboundary Movements) (England) Regulations 2004
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2004 No.2692
+
+ENVIRONMENTAL PROTECTION, ENGLAND
+
+The Genetically Modified Organisms (Transboundary Movements) (England) Regulations 2004
+
+Made
+
+17th October 2004
+
+Laid before Parliament
+
+19th October 2004
+
+Coming into force
+
+10th November 2004
+
+The Secretary of State for Environment, Food and Rural Affairs, being designated [^c5276191] for the purposes of section 2(2) of the European Communities Act 1972 [^c5276201] in relation to the control and regulation of genetically modified organisms, in exercise of the powers conferred on her by that section, makes the following Regulations—
+
+## 1. Citation, commencement, extent and application
+
+(1) These Regulations may be cited as the Genetically Modified Organisms (Transboundary Movements) (England) Regulations 2004, shall come into force on 10th November 2004 and shall extend to England and Wales.
+
+(2) Subject to paragraph (3), these Regulations shall apply to England only.
+
+(3) Regulation 3(1) shall apply to the United Kingdom.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Council Regulation**” means Regulation 1946/2003 [^c5276211] of the European Parliament and of the Council on transboundary movements of genetically modified organisms;
+- “**electronic communications**” has the same meaning as in the Electronic Communications Act 2000 [^c5276221];
+- “**inspector**” means a person appointed as such under regulation 5;
+- “**local authority**” means—
+  - (a) in any part of England where there is, within the meaning of the Local Government Changes for England Regulations 1994 [^c5276231], a unitary authority for that local government area, that authority;
+  - (b) where there is not a unitary authority—
+    - (i) in a metropolitan district, the council of that district;
+    - (ii) in a non-metropolitan district, the council of that county; or
+    - (iii) in each London borough, the council of that borough;
+  - (c) as respects the City of London, the Common Council; and
+  - (d) as respects the Isles of Scilly, the Council of the Isles of Scilly;
+- “**the Secretary of State**” means the Secretary of State for Environment, Food and Rural Affairs; and
+- “**specified Community provision**” means a provision of the Council Regulation specified in column 1 of the Schedule to these Regulations.
+
+(2) Expressions in these Regulations which are not defined in paragraph (1) above and which appear in or are referred to in the Council Regulation have the same meaning in these Regulations as they have for the purposes of the Council Regulation.
+
+## 3. Focal Point and Competent Authority
+
+(1) The Secretary of State is designated as Focal Point for the purpose of the Council Regulation.
+
+(2) The Secretary of State is designated as Competent Authority for the purpose of the Council Regulation.
+
+## 4. Enforcement
+
+(1) Except as provided in paragraph (2), the Secretary of State shall enforce and execute the provisions of these Regulations and the specified Community provisions.
+
+(2) The Secretary of State may direct, in relation to cases of a particular description or any particular case, that an enforcement duty imposed by this regulation shall be discharged—
+
+- (a) by each local authority within its area, and not by the Secretary of State; or
+- (b) by each local authority within its area, and by the Secretary of State acting jointly.
+
+## 5. Appointment of inspectors
+
+(1) The Secretary of State, or in any case to which a direction of the Secretary of State under regulation 4(2) applies, the local authority, may appoint as inspectors such persons as the Secretary of State or the local authority respectively considers necessary for the purpose of enforcing these Regulations and the specified Community provisions.
+
+(2) Any appointment of an inspector under part VI of the Environmental Protection Act 1990 [^c5276241], having effect at the coming into force of these Regulations shall have effect as if it were an appointment of that inspector as an inspector for the purpose of these Regulations.
+
+## 6. Rights of entry
+
+(1) An inspector may, on production, if so required, of his authority, exercise any of the powers specified in paragraph (3) below for the purposes of the enforcement and execution of these Regulations and the specified Community provisions.
+
+(2) For these purposes, those powers are exercisable in relation to any premises other than premises used wholly or mainly for domestic purposes.
+
+(3) The powers of an inspector are—
+
+- (a) at any reasonable time—
+  - (i) to enter premises which he has reason to believe it is necessary for him to enter and to take with him any person duly authorised by the Secretary of State and, if the inspector has reasonable cause to apprehend any serious obstruction in the execution of his duty, a constable; and
+  - (ii) to take with him any equipment or materials required for any purpose for which the power of entry is being exercised;
+- (b) to carry out such tests and inspections (and to make such recordings), as may in any circumstances be necessary;
+- (c) to direct that any, or any part of, premises which he has power to enter, or anything in or on such premises, shall be left undisturbed (whether generally or in particular respects) for so long as is reasonably necessary for the purpose of any test or inspection;
+- (d) to take samples of any organisms, articles or substances found in or on any premises which he has power to enter;
+- (e) in the case of anything found on premises which he has power to enter which appears to be a genetically modified organism, or to consist of or include genetically modified organisms, to take possession of it and detain it for so long as is necessary for all or any of the following purposes, namely—
+  - (i) to examine it;
+  - (ii) to ensure that it is not tampered with before his examination of it is completed; and
+  - (iii) to ensure that it is available for use as evidence in any proceedings for an offence under these Regulations;
+- (f) to require any person whom he has reasonable cause to believe to be able to give any information relevant to any test or inspection under this paragraph to answer (in the absence of persons other than a person nominated to be present and any persons whom the inspector may allow to be present) such questions as the inspector thinks fit to ask and to sign a declaration of the truth of his answers;
+- (g) to require the production of, or where the information is recorded in computerised form, the furnishing of extracts from, any records which are required to be kept for the purpose of complying with any specified Community provisions or it is necessary for him to see for the purposes of any test or inspection under this sub-paragraph and to inspect, and take copies of, or of any entry in, the records; and
+- (h) to require any person to afford him such facilities and assistance with respect to any matters or things within that person’s control or in relation to which that person has responsibilities as are necessary to enable the inspector to exercise any of the powers conferred on him by this regulation.
+
+(4) Where under the power conferred by paragraph (3)(e) above an inspector takes possession of anything found on any premises, he shall leave there, either with a responsible person or, if that is impracticable, fixed in a conspicuous position, a notice giving particulars sufficient to identify what he has seized and stating that he has taken possession of it under that power; and before taking possession under that power of—
+
+- (a) any thing that forms part of a batch of similar things; or
+- (b) any substance,
+
+an inspector shall, if it is practical and safe for him to do so, take a sample of it and give to a responsible person at the premises a portion of the sample marked in a manner sufficient to identify it.
+
+## 7. Obtaining information from persons
+
+(1) For any purpose of the enforcement and execution of these Regulations and the specified Community provisions, the Secretary of State may, by notice in writing served on any person who appears to her—
+
+- (a) to be involved in the exportation of genetically modified organisms; or
+- (b) to be about to become, or to have been, involved in that activity,
+
+require that person to furnish such relevant information available to him as is specified in the notice, in such form and within such period following service of the notice as is so specified.
+
+(2) For the purposes of this regulation “**relevant information**” means information concerning any aspects of the activities in question.
+
+## 8. Offences
+
+(1) It shall be an offence for a person—
+
+- (a) to contravene, or to fail to comply with, any specified Community provision;
+- (b) to obstruct an inspector in the exercise of a power conferred by regulation 6;
+- (c) without reasonable excuse to fail to comply with any requirement imposed under regulation 6;
+- (d)[^key-adb3a6285d14b1ff2f1e3f68556b9707] without reasonable excuse to fail to comply with the requirements of a notice issued under regulation 7;
+- (e) knowingly or recklessly to make a statement or furnish any information that is false or misleading in a material particular where the statement is made or the information is furnished in purported compliance with—
+  - (i) any requirement imposed by a specified Community provision; or
+  - (ii) a request of an inspector made for a purpose in connection with the enforcement or execution of these Regulations; and
+- (f) intentionally to make a false entry in any record required to be kept under a specified Community provision.
+
+(2) It shall be a defence for a person charged with an offence under regulation 8(1)(a) to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence by himself or by a person under his control.
+
+## 9. Offences due to fault of another person
+
+Where the commission by any person of an offence under regulation 8 is due to the act or default of some other person, that other person shall be guilty of the offence, and a person may be charged with and convicted of the offence by virtue of this paragraph whether or not proceedings are taken against the first-mentioned person.
+
+## 10. Offences by bodies corporate
+
+(1) Where an offence under these Regulations committed by a body corporate is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, the preceding paragraph shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+## 11. Penalties
+
+(1) Any person who contravenes or fails to comply with any of the specified Community provisions in Part I of the Schedule to these Regulations shall be guilty of an offence and liable—
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding three months, or to both;
+- (b) on conviction on indictment to a fine or to imprisonment for a term not exceeding two years, or to both.
+
+(2) Any person who contravenes or fails to comply with any of the specified Community provisions in Part II of the Schedule to these Regulations shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months, or to both.
+
+(3) A person guilty of an offence under regulation 8(1)(b), (c), (d), (e) or (f) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months, or to both.
+
+## 12. Time limits
+
+(1) Proceedings for an offence under regulation 8 may, subject to paragraph (2) below, be commenced within the period of six months from the date on which evidence sufficient in the opinion of the prosecutor to warrant proceedings comes to his knowledge.
+
+(2) No such proceedings shall be commenced by virtue of this regulation more than three years after the commission of the offence.
+
+(3) For the purpose of this regulation, a certificate signed by or on behalf of the prosecutor and stating the date on which evidence sufficient in his opinion to warrant the proceedings came to his knowledge shall be conclusive evidence of that fact.
+
+(4) A certificate stating that matter and purporting to be so signed shall be deemed to be so signed unless the contrary is proved.
+
+## 13. Service of notices
+
+(1) Any notice to be served under these Regulations shall be in writing.
+
+(2) Any such notice may be served on a person—
+
+- (a) by delivering to that person, or by sending it by post to him at his usual or last known address;
+- (b) in the case of an incorporated body, by delivering it to the secretary or clerk at the registered or principal office, or by sending it by post to him at that office;
+- (c) in the case of a partnership (other than a limited liability partnership), by delivering it to a partner or person having the control or management of the partnership business, or by sending it by post to him at the registered or principal office of that partnership;
+- (d) in the case of a limited liability partnership, by delivering it to a member of the limited liability partnership, or by sending it by post to him at the registered or principal office of that partnership;
+- (e) in the case of any other person, by leaving it, or sending it by post to him, at his usual or last known address; or
+- (f) where an address for service using electronic communications has been given by that person, sending it using electronic communications to that person at that address.
+
+(3) Where a notice is to be served on the occupier of any premises and it is not practicable after reasonable enquiry to ascertain the name and address of the person on whom it should be served, or the premises are unoccupied, the document may be served by addressing it to the person concerned by the description of “occupier” of the premises (naming them) and—
+
+- (a) by delivering it to some person on the premises; or
+- (b) if there is no person on the premises to whom it can be delivered, by affixing it, or a copy of it, to some conspicuous part of the premises.
+
+(4) Where a notice is served using electronic communications, the service is deemed to be effected by properly addressing and transmitting the electronic communication.
+
+Elliot Morley
+
+Minister of State,
+
+Department for Environment, Food and Rural Affairs
+
+## THE SCHEDULE — Specified Community Provisions
+
+Regulation 2(1)
+
+### Part I
+
+| *Provision of the Council Regulation* | *Subject Matter* |
+| --- | --- |
+| Article 5(3) | Proceeding with first intentional transboundary movement of a genetically modified organism intended for deliberate release otherwise than in accordance with the relevant procedures. |
+| Article 10(1) | Failure to respect any decision on the import of genetically modified organisms intended for direct use as food or feed or for processing. |
+| Article 10(2) | Proceeding with first export of genetically modified organisms intended for direct use as food or feed or for processing otherwise than in accordance with the relevant procedure. |
+| Article 10(3) | Exporting genetically modified organisms subject to transboundary movements for direct use as food or feed or for processing which are not permitted to be marketed in Great Britain, or without authorisation to the import having been expressly agreed by the competent authority of the importing country.[^key-83b2c954ede468a2072fea345f71e6b5] |
+
+### Part II
+
+| *Provision of the Council Regulation* | *Subject Matter* |
+| --- | --- |
+| Article 4 | Failure by exporter to notify parties and non-parties of import prior to first international transboundary movement of a GMO Intended for deliberate release into the environment and destined for the use specified in accordance with Annex I, point (i) of the Council Regulation;<br>Failure to provide in the notification the minimum information, as specified in Annex I to the Council Regulation; and<br>Failure to ensure that the information contained in the notification is accurate. |
+| Article 6 | Failure to keep for a minimum of 5 years records of notifications under article 4 of the Council Regulation; acknowledgements of receipt of notifications; and decisions of the Party or non-Party of import; and<br>Failure to send copies of these documents to the Competent Authority [^key-a35e74239f6df673bba1a6204c2602a9].... |
+| Article 7(2) | Failure to copy to the Secretariat any reminder sent to Parties or non-Parties of import. |
+| Article 12(1) | Failure to ensure that specified information is contained in a document accompanying the GMO; and<br>Failure to ensure that this information is transmitted to the importer. |
+| Article 12(2) | Failure to supply the specified supplemental information in relation to GMOs intended for direct use as food or feed or for processing. |
+| Article 12(3) | Failure to supply the specified supplemental information in relation to GMOs intended for contained use. |
+| Article 12(4) | Failure to supply the specified supplemental information in relation to GMOs intended for deliberate release and any other GMOs to which the Council Regulation applies. |
+| Article 13 | Failure to notify Parties of the transit of genetically modified organisms through their territory. |
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision as respects England, for the execution and enforcement of Regulation [(EC) No 1946/2003](https://www.legislation.gov.uk/european/regulation/2003/1946) of the European Parliament and of the Council of 15 July 2003 on the transboundary movements of genetically modified organisms (OJ No. L287, 5.11.2003, p1); and appoint a focal point for the UK for the purpose of Regulation [(EC) No 1946/2003](https://www.legislation.gov.uk/european/regulation/2003/1946). Similar Regulations to make provision for the enforcement and execution of Regulation [(EC) No 1946/2003](https://www.legislation.gov.uk/european/regulation/2003/1946) will be made in respect of Scotland, Wales and Northern Ireland.
+
+The Regulations come into force on 10th November 2004.
+
+Regulation 3 designates the Secretary of State for Environment, Food and Rural Affairs as ‘Focal Point’ for the UK for the purpose of Regulation [(EC) No 1946/2003](https://www.legislation.gov.uk/european/regulation/2003/1946) and as ‘Competent Authority’ for the purpose of the Regulation [(EC) No 1946/2003](https://www.legislation.gov.uk/european/regulation/2003/1946) as regards England. Articles 3(19) and 3(20) of the Regulation [(EC) No 1946/2003](https://www.legislation.gov.uk/european/regulation/2003/1946) provide that these bodies are responsible for performing the administrative functions required by the Protocol and for liaising with the Secretariat to the Protocol.
+
+Regulation 4 provides for the enforcement of the Regulations and the specified Community provisions (the provisions of Regulation [(EC) No. 1946/2003](https://www.legislation.gov.uk/european/regulation/2003/1946) specified in the Schedule).
+
+Regulation 5 makes provision for the appointment of inspectors, and transitional arrangements for inspectors already appointed under the Environmental Protection Act 1990 (c. 43).
+
+Regulation 6 provides powers of entry, including the power to carry out tests and inspections, to take samples,
+
+Regulation 7 enables inspectors to require the provision of information.
+
+Regulation 8 makes it an offence to contravene the specified Community provisions; to obstruct inspectors in the exercise of powers under these Regulations; and to give false information; and sets out a due diligence defence in respect of contravention of the specified Community provisions.
+
+Regulation 9 makes provision for offences committed due to the fault of another person.
+
+Regulation 10 makes provision for offences committed by corporate bodies.
+
+Regulations 11 and 12 prescribe penalties and specify time limits for bringing prosecutions.
+
+A Regulatory Impact Assessment has been prepared for these Regulations and a copy has been placed in the library of each House of Parliament. Copies of the Regulatory Impact Assessment can be obtained from GM Controls Unit, DEFRA, Zone G/9, Ashdown House, 123 Victoria Street, London SW1E 6DE.
+
+## Annotations
+
+[^c5276191]: Marginal citation: [S.I. 1991/755](https://www.legislation.gov.uk/uksi/1991/755).
+
+[^c5276201]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c5276211]: Marginal citation: OJ No. L287, 5.11.2003, p1.
+
+[^c5276221]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7); the definition of electronic communications in section 15(1) was amended by the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), section 406(1) and Schedule 17, paragraph 158.
+
+[^c5276231]: Marginal citation: [S.I. 1994/867](https://www.legislation.gov.uk/uksi/1994/867), to which there are amendments not relevant to these Regulations.
+
+[^c5276241]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
+
+[^key-adb3a6285d14b1ff2f1e3f68556b9707]: Textual amendment: Reg. 8(1)(d) substituted (14.11.2008) by [The Genetically Modified Organisms (England) (Amendments) Regulations 2008 (S.I. 2008/2598)](https://www.legislation.gov.uk/uksi/2008/2598), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2598/regulation/1), [3](https://www.legislation.gov.uk/uksi/2008/2598/regulation/3)
+
+[^key-83b2c954ede468a2072fea345f71e6b5]: Textual amendment: Words in Sch. Pt. 1 substituted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/88)](https://www.legislation.gov.uk/uksi/2019/88), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/b), [4(a)](https://www.legislation.gov.uk/uksi/2019/88/regulation/4/a) (as amended by [S.I. 2020/1421](https://www.legislation.gov.uk/uksi/2020/1421), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/1/4), [3](https://www.legislation.gov.uk/uksi/2020/1421/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a35e74239f6df673bba1a6204c2602a9]: Textual amendment: Words in Sch. Pt. 2 omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/88)](https://www.legislation.gov.uk/uksi/2019/88), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/b), [4(b)](https://www.legislation.gov.uk/uksi/2019/88/regulation/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

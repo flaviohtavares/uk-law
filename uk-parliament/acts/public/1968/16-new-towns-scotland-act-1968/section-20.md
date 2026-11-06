@@ -1,0 +1,53 @@
+---
+title: New Towns (Scotland) Act 1968, section 20
+act: New Towns (Scotland) Act 1968
+section: '20'
+status: revised
+text_date: '2011-04-22'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1968/16/section/20
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# New Towns (Scotland) Act 1968, section 20
+
+> Text as at 2011-04-22.
+>
+> Extent: Scotland.
+
+## 20. Use and development of churches and burial grounds.
+
+*Extent: S*
+
+(1) Any land consisting of a church or other building used or formerly used for religious worship, or the site thereof, or a burial ground or part of a burial ground, which has been acquired for the purposes of this Act by a development corporation or roads authority[^c733582], may—
+
+- (a) in the case of land acquired by a development corporation or local roads[^c733583] authority, be used by them, or by any other person, in any manner in accordance with planning permission, and
+- (b) in the case of land acquired by the Secretary of State, be used in any manner by him or on his behalf for any purpose for which he acquired the land,
+
+notwithstanding anything in any enactment relating to churches or such other buildings as aforesaid or to burial grounds or any obligation or restriction imposed under any deed or agreement or otherwise in respect of that church or other building or burial ground or part thereof:
+
+Provided that this subsection shall not have effect in respect of any such land as aforesaid until the prescribed requirements with respect to the removal and reinterment of human remains, and the disposal of monuments, in or upon the land have been complied with.
+
+(2) Provision shall be made by any regulations made for the purposes of the proviso to subsection (1) above—
+
+- (a) for requiring the persons in whom the land is vested to publish notice of their intention to carry out the removal and reinterment of any human remains or the disposal of any monuments;
+- (b) for enabling the personal representatives or relatives of any deceased person themselves to undertake the removal and reinterment of the remains of the deceased, and the disposal of any monument commemorating the deceased, and for requiring the persons in whom the land is vested to defray the expenses of such removal, reinterment and disposal, not exceeding such amount as may be prescribed;
+- (c) for requiring compliance with any directions given in any case by the Secretary of State, after consultation with the church authorities in the case of a church or churchyard, with respect to the manner of removal, and the place and manner of reinterment of any human remains, and the disposal of any monuments; and
+- (d) with regard to such incidental and consequential matters (including the closing of registers) as appear to the Secretary of State to be expedient for the purposes of the regulations.
+
+(3) Subject to the provisions of any such regulations, no authority shall be required for the removal and reinterment in accordance with the regulations of any human remains, or for the removal or disposal of any monuments.
+
+(4) Any power conferred by this section to use land in a manner therein mentioned shall be construed as a power so to use the land, whether it involves the erection, construction or carrying out of any building or work, or the maintenance of any building or work, or not.
+
+(5) Nothing in this section shall be construed as authorising any act or omission on the part of any person which is actionable at the instance of any person on any ground other than contravention of any such enactment, obligation or restriction as is mentioned in subsection (1) above.
+
+(6) Subsection (6) of section 19 of this Act shall apply in relation to this section as it applies in relation to that section.
+
+(7) In this section “**burial ground**” includes any churchyard, cemetery or other ground, whether consecrated or not, which has at any time been set apart for the purposes of interment, and “**monument**” includes a tombstone or other memorial and any fixture or furnishing.
+
+## Annotations
+
+[^c733582]: Textual amendment: Words substituted by [Roads (Scotland) Act 1984 (c. 54, SIF 108)](https://www.legislation.gov.uk/ukpga/1984/54), [s. 156(1)](https://www.legislation.gov.uk/ukpga/1984/54/section/156/1), [Sch. 9 para. 61(7)(a)](https://www.legislation.gov.uk/ukpga/1984/54/schedule/9/paragraph/61/7/a)
+
+[^c733583]: Textual amendment: Words substituted by [Roads (Scotland) Act 1984 (c. 54, SIF 108)](https://www.legislation.gov.uk/ukpga/1984/54), [s. 156(1)](https://www.legislation.gov.uk/ukpga/1984/54/section/156/1), [Sch. 9 para. 61(7)(b)](https://www.legislation.gov.uk/ukpga/1984/54/schedule/9/paragraph/61/7/b)

@@ -1,0 +1,82 @@
+---
+title: Corporation Tax Act 2010, section 244
+act: Corporation Tax Act 2010
+section: '244'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/244
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 244
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 244. Disposal of securities or shares during 5 year period
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if the investment consists of securities or shares and—
+
+- (a) the investor disposes of the whole or any part of the investment (“the former investment”) within the 5 year period,
+- (b) the CDFI has not ceased to be accredited under Chapter 2 of Part 7 of ITA 2007 before the disposal, and
+- (c) the disposal does not arise as a result of an event within section 249(1)(a) (repayment, redemption or repurchase of securities or shares included in the investment).
+
+(2) If the disposal is not a qualifying disposal, any CITR attributable to the former investment in respect of any accounting period must be withdrawn.
+
+(3)[^key-4b10b19e4a3fb5cfd05b959d00aa34fe] Subsections (3A) to (3H) apply if—
+
+- (a) the disposal is a qualifying disposal, and
+- (b) the investor has made a claim under section 220 in respect of the former investment for an accounting period (“period X”).
+
+(3A) Subsection (3B) applies if the total of the following CITR does not exceed A—
+
+- (a) any CITR attributable to the former investment in respect of period X given under section 220, and
+- (b) any CITR attributable to the former investment in respect of later accounting periods given under section 220A where period X is the accounting period mentioned in section 220A(1)(a).
+
+(3B) All CITR falling within subsection (3A)(a) or (b) must be withdrawn.
+
+(3C) If the total of the CITR falling within subsection (3A)(a) or (b) exceeds A, that total must be reduced by A.
+
+(3D) For the purposes of subsection (3C) CITR given in a later accounting period must be reduced before CITR given in an earlier accounting period.
+
+(3E) For the purposes of subsections (3A) and (3C) “A” is an amount equal to 5% of the amount or value of the consideration (if any) which the investor receives for the former investment.
+
+(3F) If—
+
+- (a) the total of the CITR falling within subsection (3A)(a) or (b)(“B”) is less than
+- (b) the amount (“C”) which is equal to 5% of the invested amount in respect of the former investment for period X,
+
+“A” is to be reduced by multiplying it by the fraction—
+
+[formula: see source](https://www.legislation.gov.uk/ukpga/2010/4)
+
+(3G) If the amount of CITR attributable to the former investment in respect of an accounting period has been reduced before the CITR is obtained, the amount referred to in subsection (3F) as B is to be treated for the purposes of that subsection as the amount it would have been without the reduction.
+
+(3H) Subsection (3G) does not apply to a reduction by virtue of section 241 (attribution: bonus shares).
+
+(4) For the purposes of this section “**qualifying disposal**” means a disposal that is—
+
+- (a) by way of a bargain made at arm's length, or
+- (b) a permitted disposal (within the meaning of section 243).
+
+(5) [^key-54dccdf73ebd459d16cb44f4727e0a8a]...
+
+- [^key-54dccdf73ebd459d16cb44f4727e0a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^key-54dccdf73ebd459d16cb44f4727e0a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[formula: see source](https://www.legislation.gov.uk/ukpga/2010/4)
+
+(6)[^key-54dccdf73ebd459d16cb44f4727e0a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-54dccdf73ebd459d16cb44f4727e0a8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-4b10b19e4a3fb5cfd05b959d00aa34fe]: Textual amendment: S. 244(3)-(3H) substituted for s. 244(3) (with effect in accordance with Sch. 27 para. 12 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 27 para. 11(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/27/paragraph/11/2)
+
+[^key-54dccdf73ebd459d16cb44f4727e0a8a]: Textual amendment: S. 244(5)-(7) omitted (with effect in accordance with Sch. 27 para. 12 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 27 para. 11(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/27/paragraph/11/3)

@@ -1,0 +1,433 @@
+---
+title: The Transmissible Spongiform Encephalopathies (No. 2) (Amendment) Regulations 2007
+id: uksi/2007/1998
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2007-07-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/1998
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/1998/pdfs/uksiem_20071998_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/1998/pdfs/uksi_20071998_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/1998/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Transmissible Spongiform Encephalopathies (No. 2) (Amendment) Regulations 2007
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2007 No. 1998
+
+ANIMALS, ENGLAND
+
+ANIMAL HEALTH
+
+The Transmissible Spongiform Encephalopathies (No. 2) (Amendment) Regulations 2007
+
+Made
+
+11th July 2007
+
+Laid before Parliament
+
+12th July 2007
+
+Coming into force
+
+14th July 2007
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred on him by section 2(2) of the European Communities Act 1972[^f00001].
+
+The Secretary of State has been designated for the purposes of that section in relation to measures in the veterinary and phytosanitary fields for the protection of public health[^f00002].
+
+As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] there has been open and transparent public consultation during the preparation of the following Regulations.
+
+## 1. Title and commencement
+
+These Regulations may be cited as the Transmissible Spongiform Encephalopathies (No. 2) (Amendment) Regulations 2007 and come into force on 14<sup>th</sup> July 2007.
+
+## 2. Amendment of the Transmissible Spongiform (Encephalopathies) (No. 2) Regulations 2006
+
+(1) The Transmissible Spongiform Encephalopathies (No. 2) Regulations 2006[^f00004] are amended in accordance with paragraph (2).
+
+(2) For Schedule 6 (specified risk material, mechanically recovered meat and slaughtering techniques) there is substituted the Schedule set out in the Schedule to these Regulations.
+
+Signed by authority of the Secretary of State for Health.
+
+Dawn Primarolo
+
+Minister of State,
+
+Department of Health
+
+11th July 2007
+
+## THE SCHEDULE — SCHEDULE SUBSTITUTED FOR SCHEDULE 6 TO THE TRANSMISSIBLE SPONGIFORM ENCEPHALOPATHIES (NO. 2) REGULATIONS 2006
+
+Regulation 2(2)
+
+> **SCHEDULE 6 — Specified risk material, mechanically separated meat and slaughtering techniques**
+>
+> Regulation 5
+>
+> CONTENTS
+>
+> 1\.
+>
+> Appointment of the Food Standards Agency as the competent authority
+>
+> 2\.
+>
+> Local authorities’ duties with regard to butcher shops
+>
+> 3\.
+>
+> Training
+>
+> 4\.
+>
+> Mechanically separated meat
+>
+> 5\.
+>
+> Pithing
+>
+> 6\.
+>
+> Tongue harvesting
+>
+> 7\.
+>
+> Head meat harvesting
+>
+> 8\.
+>
+> Removal of specified risk material
+>
+> 9\.
+>
+> Bovine animals in a slaughterhouse
+>
+> 10\.
+>
+> Sheep and goats in a slaughterhouse
+>
+> 11\.
+>
+> Young lamb and goat stamps
+>
+> 12\.
+>
+> Removal of spinal cord from sheep and goats
+>
+> 13
+>
+> Authorisation of cutting plants by the Food Standards Agency
+>
+> 14\.
+>
+> Authorisation and registration of butcher shops by local authorities
+>
+> 15\.
+>
+> Removal of specified risk material at a cutting plant authorised under paragraph 13(1)
+>
+> 16\.
+>
+> Removal of bovine vertebral column that is specified risk material at a cutting plant not authorised under paragraph 13(1)(a)
+>
+> 17\.
+>
+> Removal of bovine vertebral column that is specified risk material at a butcher shop authorised and registered under paragraph 14
+>
+> 18\.
+>
+> Meat from another member State
+>
+> 19\.
+>
+> Staining and disposal of specified risk material
+>
+> 20\.
+>
+> Scheme animals
+>
+> 21\.
+>
+> Security of specified risk material
+>
+> 22\.
+>
+> Prohibition on the supply of specified risk material for human consumption
+>
+> 23\.
+>
+> Definitions of Community legislation
+>
+> **1. Appointment of the Food Standards Agency as the competent authority**
+>
+> Except in butcher shops, the Food Standards Agency shall carry out in relation to this Schedule the duties on the member State in point 11.1 and point 11.2 of Annex V to the Community TSE Regulation as amended by Commission Regulation [(EC) No. 722/2007](https://www.legislation.gov.uk/european/regulation/2007/0722)[^f00005] (“**the amended Community TSE Regulation**”) and shall grant authorisations for the purposes of point 4.3(a) of that Annex.
+>
+> (1) For the purposes of this Schedule, within a slaughterhouse or cutting plant an inspector is—
+>
+> - (a) an official veterinarian who is qualified in accordance with Regulation 854/2004 to act in such a capacity and is appointed by the Food Standards Agency;
+> - (b) an official auxiliary who is qualified in accordance with Regulation 854/2004 to act in such a capacity, is appointed by the Food Standards Agency and works under the authority and responsibility of an official veterinarian; or
+> - (c) any other person appointed for the purpose by the Food Standards Agency.
+>
+> (2) An appointment as an inspector may be limited to powers and duties specified in the appointment.
+>
+> (3) Any person exercising the powers of an inspector under this Schedule has the protection specified in regulation 14(3).
+>
+> **2. Local authorities’ duties with regards to butcher shops**
+>
+> Local authorities shall carry out the duties on the member State in point 11.1 and point 11.2 of Annex V to the amended Community TSE Regulation in relation to this Schedule in so far as it relates to the removal in butcher shops of those parts of the vertebral column of bovine animals that are specified risk material and shall grant authorisations and effect registrations for the purposes of point 4.3(b) of that Annex.
+>
+> **3. Training**
+>
+> The occupier of any slaughterhouse, cutting plant or butcher shop where specified risk material is removed must—
+>
+> - (a) ensure that staff receive any training necessary to ensure that the occupier complies with his duties in this Schedule; and
+> - (b) keep records of each person’s training for as long as that person works there,
+>
+> and failure to do so is an offence.
+>
+> **4. Mechanically separated meat**
+>
+> (1) Any person who fails to comply with point 5 of Annex V to the amended Community TSE Regulation (measures concerning mechanically separated meat) is guilty of an offence.
+>
+> (2) Any person who uses any mechanically separated meat produced in contravention of that point in the preparation of any food for sale for human consumption or of any feedingstuff is guilty of an offence.
+>
+> (3) In this paragraph, “**mechanically separated meat**” means the product obtained by removing meat from flesh-bearing bones after boning, using mechanical means resulting in the loss or modification of the muscle fibre structure.
+>
+> **5. Pithing**
+>
+> Any person who fails to comply with point 6 of Annex V to the amended Community TSE Regulation (measures concerning laceration of tissues) is guilty of an offence.
+>
+> **6. Tongue harvesting**
+>
+> Any person who fails to comply with point 7 of Annex V to the amended Community TSE Regulation (harvesting of tongues from bovine animals) is guilty of an offence.
+>
+> **7. Head meat harvesting**
+>
+> Any person who fails to comply with point 8.1 of Annex V to the amended Community TSE Regulation (harvesting of bovine head meat) is guilty of an offence.
+>
+> **8. Removal of specified risk material**
+>
+> (1) Any person who removes specified risk material in any premises other than premises in which that specified risk material may be removed under point 4.1, point 4.3(a) or point 4.3(b) of Annex V to the amended Community TSE Regulation is guilty of an offence.
+>
+> (2) In the case of a cutting plant, it is an offence to remove—
+>
+> - (a)
+>   - (i) any part of the vertebral column that is specified risk material from any bovine animal aged over 30 months at slaughter, or
+>   - (ii) in circumstances where the meat containing the specified risk material has been brought into England from another member State, any part of the vertebral column that is specified risk material from any bovine animal aged 30 months or less at slaughter,
+>
+>   unless the plant is authorised under paragraph 13(1)(a); or
+> - (b) the spinal cord from any sheep or goat aged over 12 months at slaughter or which has a permanent incisor erupted through the gum, unless the plant is authorised for the purpose of such removal under paragraph 13(1)(b).
+>
+> (3) In the case of a butcher shop, it is an offence to remove any part of the vertebral column that is specified risk material from a bovine animal, if the shop is not authorised and registered for that purpose under paragraph 14, or the meat containing the specified risk material has been brought into England from another member State.
+>
+> **9. Bovine animals in a slaughterhouse**
+>
+> (1) When a bovine animal is slaughtered, the occupier of the slaughterhouse must remove all specified risk material (other than those parts of the vertebral column that are specified risk material) as soon as is reasonably practicable after slaughter and in any event before post-mortem inspection.
+>
+> (2) He must consign any meat containing those parts of the vertebral column that are specified risk material as soon as is reasonably practicable—
+>
+> - (a) in the case of any animal that is aged over 30 months at slaughter, to a cutting plant authorised under paragraph 13(1)(a) or to another member State in accordance with point 10.2 of Annex V to the amended Community TSE Regulation; and
+> - (b) in the case of any animal that is aged 30 months or less at slaughter, to a cutting plant, to a butcher shop authorised and registered under paragraph 14 or to another member State in accordance with point 10.2 of Annex V to the amended Community TSE Regulation.
+>
+> (3) He must identify meat containing vertebral column that is not specified risk material in accordance with point 11.3(a) of Annex V to the amended Community TSE Regulation and provide information in accordance with point 11.3(b) of that Part.
+>
+> (4) No person shall include a blue stripe in the label referred to in Article 13 of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation [(EC) No. 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820)[^f00006] as last amended by Council Regulation [(EC) No. 1791/2006](https://www.legislation.gov.uk/european/regulation/2006/1791)[^f00007], except in accordance with point 11.3(a) of Annex V to the amended Community TSE Regulation.
+>
+> (5) Failure to comply with this paragraph is an offence.
+>
+> **10. Sheep and goats in a slaughterhouse**
+>
+> (1) When a sheep or goat is slaughtered, the occupier of a slaughterhouse must remove all specified risk material (other than the spinal cord) as soon as is reasonably practicable after slaughter and in any event before post-mortem inspection.
+>
+> (2) In the case of a sheep or goat aged over 12 months at slaughter, or which has a permanent incisor erupted through the gum, he must as soon as is reasonably practicable after slaughter—
+>
+> - (a) remove the spinal cord at the slaughterhouse before the post-mortem inspection;
+> - (b) send the meat to a cutting plant authorised under paragraph 13(1)(b); or
+> - (c) in accordance with point 10.1 of Annex V to the amended Community TSE Regulation, send the meat to a cutting plant in another member State provided that the Food Standards Agency has entered into a written agreement with the competent authority of the receiving member State, and the dispatch is in accordance with that agreement.
+>
+> (3) In sub-paragraph (2)(c), “**cutting plant**” means premises—
+>
+> - (a) approved or conditionally approved as such under Article 31(2) of Regulation 882/2004; or
+> - (b) operating as such under Article 4(5) of Regulation 853/2004 pending such approval.
+>
+> (4) Failure to comply with this paragraph is an offence.
+>
+> **11. Young lamb and goat stamps**
+>
+> (1) An inspector may stamp a sheep or goat in a slaughterhouse with a young lamb stamp or a young goat stamp if the animal does not have a permanent incisor erupted through the gum and the documentation, if any, relating to the animal does not indicate that it is aged over 12 months at slaughter.
+>
+> (2) The stamp shall mark the meat with a circular mark 5 centimetres in diameter with the following in capital letters 1 centimetre high—
+>
+> - (a) “MHS”; and
+> - (b) in the case of a sheep, “YL”; or
+> - (c) in the case of a goat, “YG”.
+>
+> (3) It is an offence for any person other than an inspector to apply the stamp or a mark resembling the stamp, or to possess equipment for applying it.
+>
+> (4) It is an offence to mark a sheep or goat with a stamp that is or resembles a young lamb stamp or a young goat stamp unless it is an animal permitted to be marked in accordance with sub-paragraph (1).
+>
+> **12. Removal of spinal cord from sheep and goats**
+>
+> It is an offence to remove the spinal cord or any part of it from a sheep or goat aged over 12 months at slaughter or that had one or more permanent incisors erupted through the gum (other than for the purposes of veterinary or scientific examination) except by—
+>
+> - (a) longitudinally splitting the whole vertebral column; or
+> - (b) removing a longitudinal section of the whole vertebral column including the spinal cord.
+>
+> **13. Authorisation of cutting plants by the Food Standards Agency**
+>
+> (1) The Food Standards Agency shall authorise a cutting plant to remove –
+>
+> - (a) those parts of the vertebral column that are specified risk material from bovine animals aged over 30 months at slaughter; or
+> - (b) spinal cord from sheep and goats aged over 12 months at slaughter or which have a permanent incisor erupted through the gum,
+>
+> if the Agency is satisfied that the provisions of Annex V to the amended Community TSE Regulation and this Schedule will be complied with.
+>
+> (2) The procedures in regulations 6, 8, 9 and 10 apply, but all references to the Secretary of State shall be construed as references to the Agency.
+>
+> **14. Authorisation and registration of butcher shops by local authorities**
+>
+> (1) A local authority shall authorise a butcher shop to remove those parts of the vertebral column that are specified risk material from bovine animals aged 30 months or less at slaughter and register the shop for that purpose, if the authority is satisfied that the provisions of Annex V to the amended Community TSE Regulation and this Schedule will be complied with.
+>
+> (2) The procedures in regulations 6, 8, 9 and 10 apply, but all references to the Secretary of State shall be construed as references to the local authority concerned.
+>
+> **15. Removal of specified risk material at a cutting plant authorised under paragraph 13(1)**
+>
+> The occupier of a cutting plant authorised under paragraph 13(1) commits an offence unless, as soon as reasonably practicable after arrival at the plant of meat, and in any event before the meat is removed from the plant, he removes from the meat—
+>
+> - (a) all specified risk material of a kind to which the authorisation relates; and
+> - (b) where the meat is derived from a bovine animal aged 30 months or less at slaughter, those parts of the vertebral column that are specified risk material.
+>
+> **16. Removal of bovine vertebral column that is specified risk material at a cutting plant not authorised under paragraph 13(1)(a)**
+>
+> In the case of meat derived from a bovine animal aged 30 months or less at slaughter that has not been brought into England from another member State, the occupier of a cutting plant not authorised under paragraph 13(1)(a) commits an offence unless he removes from the meat those parts of the vertebral column that are specified risk material as soon as reasonably practicable, and in any event before the meat is removed from the premises.
+>
+> **17. Removal of bovine vertebral column that is specified risk material at a butcher shop authorised and registered under paragraph 14**
+>
+> In the case of meat derived from a bovine animal aged 30 months or less at slaughter that has not been brought into England from another member State, the occupier of a butcher shop authorised and registered under paragraph 14 commits an offence unless he removes from the meat those parts of the vertebral column that are specified risk material before the meat is removed from the premises.
+>
+> **18. Meat from another member State**
+>
+> For the purposes of point 10.1 and point 10.2 of Annex V to the amended Community TSE Regulation, where meat containing those parts of the vertebral column of a bovine animal that are specified risk material is brought into England from another member State, the importer must send it directly to a cutting plant authorised under paragraph 13(1)(a), and failure to do so is an offence.
+>
+> **19. Staining and disposal of specified risk material**
+>
+> (1) The occupier of any premises where specified risk material is removed who fails to comply with point 3 of Annex V to the amended Community TSE Regulation (marking and disposal) is guilty of an offence.
+>
+> (2) For the purposes of that point—
+>
+> - (a) staining involves treating the material (whether by immersion, spraying or other application) with—
+>   - (i) a 0.5% weight/volume solution of the colouring agent Patent Blue V (E131, 1971 Colour Index No 42051[^f00008]), or
+>   - (ii) such other colouring agent as may be approved in writing by the Secretary of State or the Food Standards Agency; and
+> - (b) the stain must be applied in such a way that the colouring is and remains clearly visible—
+>   - (i) over the whole of the cut surface and the majority of the head in the case of the head of a sheep or goat, and
+>   - (ii) in the case of all other specified risk material, over the whole surface of the material.
+>
+> (3) This paragraph does not apply in relation to any specified risk material which is destined for use as provided in Article 1(2)(b) and (c) of the Community TSE Regulation.
+>
+> **20. Scheme animals**
+>
+> (1) After the specified risk material has been removed from a bovine animal slaughtered for the purposes of Commission Regulation [(EC) No. 716/96](https://www.legislation.gov.uk/european/regulation/1996/0716) adopting exceptional support measures for the beef market in the United Kingdom[^f00009] as last amended by Commission Regulation [(EC) No. 2109/2005](https://www.legislation.gov.uk/european/regulation/2005/2109)[^f00010], the remainder (excluding the hide) must immediately be stained in accordance with paragraph 19 in such a way that the colouring is and remains clearly visible over the whole surface of the material.
+>
+> (2) Failure to comply with this paragraph is an offence.
+>
+> **21. Security of specified risk material**
+>
+> (1) Pending consignment or disposal from the premises on which it was removed, the occupier of the premises must ensure that specified risk material is adequately separated from any food, feedingstuff or cosmetic, pharmaceutical or medical product and held in an impervious covered container that is labelled as either—
+>
+> - (a) containing specified risk material; or
+> - (b) Category 1 animal by-products and including the words “For disposal only”.
+>
+> (2) He must ensure that the container is thoroughly washed as soon as reasonably practicable each time that it is emptied, and disinfected before use for any other purpose.
+>
+> (3) Failure to comply with this paragraph is an offence.
+>
+> **22. Prohibition on the supply of specified risk material for human consumption**
+>
+> It is an offence to sell or supply—
+>
+> - (a) any specified risk material, or any food containing specified risk material, for human consumption; or
+> - (b) any specified risk material for use in the preparation of any food for human consumption.
+>
+> **23. Definitions of Community legislation**
+>
+> In this Schedule—
+>
+> - “**Regulation 853/2004**” means Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin[^f00011] as last amended by Council Regulation [(EC) No. 1791/2006](https://www.legislation.gov.uk/european/regulation/2006/1791) and as read with Directive [2004/41/EC](https://www.legislation.gov.uk/european/directive/2004/0041) of the European Parliament and of the Council[^f00012], Commission Regulation [(EC) No. 1688/2005](https://www.legislation.gov.uk/european/regulation/2005/1688)[^f00013], Commission Regulation [(EC) No. 2074/2005](https://www.legislation.gov.uk/european/regulation/2005/2074)[^f00014] (itself amended by Commission Regulation [(EC) No. 1664/2006](https://www.legislation.gov.uk/european/regulation/2006/1664)[^f00015]) and Commission Regulation [(EC) No. 2076/2005](https://www.legislation.gov.uk/european/regulation/2005/2076)[^f00016] (itself amended by Commission Regulation [(EC) No. 1666/2006](https://www.legislation.gov.uk/european/regulation/2006/1666)[^f00017]);
+> - “**Regulation 854/2004**” means Regulation [(EC) No. 854/2004](https://www.legislation.gov.uk/european/regulation/2004/0854) of the European Parliament and of the Council laying down specific rules for the organisation of official controls on products of animal origin intended for human consumption[^f00018] as last amended by Council Regulation [(EC) No. 1791/2006](https://www.legislation.gov.uk/european/regulation/2006/1791) and as read with Directive [2004/41/EC](https://www.legislation.gov.uk/european/directive/2004/0041) of the European Parliament and of the Council, Commission Regulation [(EC) No. 2074/2005](https://www.legislation.gov.uk/european/regulation/2005/2074) (itself amended by Commission Regulation [(EC) No. 1664/2005](https://www.legislation.gov.uk/european/regulation/2005/1664)), Commission Regulation [(EC) No. 2075/2005](https://www.legislation.gov.uk/european/regulation/2005/2075)[^f00019] (itself amended by Commission Regulation [(EC) No. 1665/2006](https://www.legislation.gov.uk/european/regulation/2006/1665)[^f00020]) and Commission Regulation [(EC) No. 2076/2005](https://www.legislation.gov.uk/european/regulation/2005/2076) (itself amended by Commission Regulation [(EC) No. 1666/2005](https://www.legislation.gov.uk/european/regulation/2005/1666)); and
+> - “**Regulation 882/2004**” means Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the Council on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules[^f00021] as last amended by Council Regulation [(EC) No. 1791/2006](https://www.legislation.gov.uk/european/regulation/2006/1791) and as read with Commission Regulation [(EC) No. 2074/2005](https://www.legislation.gov.uk/european/regulation/2005/2074) (itself amended by Commission Regulation [(EC) No. 1664/2005](https://www.legislation.gov.uk/european/regulation/2005/1664)) and Commission Regulation (EC) No. 2076/2005 (itself amended by Commission Regulation [(EC) No. 1666/2005](https://www.legislation.gov.uk/european/regulation/2005/1666)).
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations amend the Transmissible Spongiform Encephalopathies (No. 2) Regulations 2006 ([S.I. 2006/1228](https://www.legislation.gov.uk/uksi/2006/1228)), which provide for the enforcement in relation to England of Regulation [(EC) No. 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999) of the European Parliament and of the Council laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies (OJ No. L147, 31.5.2001, p.1) as amended by and as read with the Community instruments set out in Schedule 1 to [S.I. 2006/1228](https://www.legislation.gov.uk/uksi/2006/1228).
+
+**2.** The amendment is that a revised Schedule 6 is inserted into [S.I. 2006/1228](https://www.legislation.gov.uk/uksi/2006/1228).
+
+**3.** Schedule 6 to [S.I. 2006/1228](https://www.legislation.gov.uk/uksi/2006/1228) currently provides for the enforcement of Annex XIA to Regulation [(EC) No. 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999) (concerning specified risk material, mechanically recovered meat and slaughtering techniques).
+
+**4.** By virtue of Article 22(1) of Regulation [(EC) 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999), the provisions contained in Annex XIA to that Regulation were of a transitional nature pending the adoption of a Decision under Article 5(2) or (4) of that Regulation determining the BSE status of countries according to their BSE risk, following which Annex V to Regulation [(EC) No. 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999) (introduced by Article 8 thereof) would apply in relation to specified risk material.
+
+**5.** A Decision has now been adopted under Article 5(2) of Regulation [(EC) No. 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999) (Commission Decision [2007/453/EC](https://www.legislation.gov.uk/european/decision/2007/0453) establishing the BSE status of Member States or third countries or regions thereof according to their BSE risk (OJ No. L 172, 30.6.2007, p.84)).
+
+**6.** Commission Regulation [(EC) No. 722/2007](https://www.legislation.gov.uk/european/regulation/2007/0722) amending Annexes II, V, VI, VIII, IX and XI to Regulation [(EC) No. 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999) of the European Parliament and of the Council laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies (OJ No. L164, 26.6.2007, p.7) has repealed Annex XI to Regulation [(EC) No. 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999) and inserted a revised Annex V (“specified risk material”) into that Regulation.
+
+**7.** The revised Schedule 6 to [S.I. 2006/1228](https://www.legislation.gov.uk/uksi/2006/1228) provides for the enforcement of the revised Annex V inserted into Regulation [(EC) No. 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999) by Commission Regulation (EC) No. 722/2007.
+
+**8.** A full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00002]: Footnote: [S.I. 1999/2027](https://www.legislation.gov.uk/uksi/1999/2027).
+
+[^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1, as last amended by [Commission Regulation (EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) (OJ No. L100, 8.4.2006, p.3).
+
+[^f00004]: Footnote: [S.I. 2006/1228](https://www.legislation.gov.uk/uksi/2006/1228).
+
+[^f00005]: Footnote: OJ No. L164, 26.6.2007, p.7.
+
+[^f00006]: Footnote: OJ No. L 204, 11.8.2000, p. 1.
+
+[^f00007]: Footnote: OJ No. L363, 20.12.2006, p.1.
+
+[^f00008]: Footnote: Colour Index is published by the Society of Dyers and Colourists at Perkin House, 82 Grattan Road, Bradford, West Yorkshire BD1 2JB.
+
+[^f00009]: Footnote: OJ No. L 99, 20.4.1996, p.14.
+
+[^f00010]: Footnote: OJ No. L337, 22.12.2005, p.25.
+
+[^f00011]: Footnote: OJ No. L 139, 30.4.2004, p. 55. The revised text of Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) is now set out in a Corrigendum (OJ No. L226, 25.6.2004, p.22).
+
+[^f00012]: Footnote: OJ No. L157, 30.4.2004, p.33. The revised text of Directive [2004/41/EC](https://www.legislation.gov.uk/european/directive/2004/0041) is now set out in a Corrigendum (OJ No. L195, 2.6.2004, p.12).
+
+[^f00013]: Footnote: OJ No. L271, 15.10.2005, p.17.
+
+[^f00014]: Footnote: OJ No. L338, 22.12.2005, p.27.
+
+[^f00015]: Footnote: OJ No. L320, 18.11.2006, p.13.
+
+[^f00016]: Footnote: OJ No. L338, 22.12.2005, p.83.
+
+[^f00017]: Footnote: OJ No. L320, 18.11.2006, p.47.
+
+[^f00018]: Footnote: OJ No. L 139 , 30.4.2004, p. 206. The revised text of Regulation [(EC) No. 854/2004](https://www.legislation.gov.uk/european/regulation/2004/0854) is now set out in a Corrigendum (OJ No. L 226, 25.6.2004, p. 83).
+
+[^f00019]: Footnote: OJ No. L338, 22.12.2005, p.60.
+
+[^f00020]: Footnote: OJ No. L320, 18.11.2006, p.46.
+
+[^f00021]: Footnote: OJ No. L 165, 30.4.2004 , p.1. The revised text of Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) is now set out in Corrigendum (OJ No. L 191, 28.5.2004, p.1).

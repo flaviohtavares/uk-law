@@ -1,0 +1,109 @@
+---
+title: The Social Security (Transitional) Amendment Regulations 1975
+id: uksi/1975/1747
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1975-10-28'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1975/1747
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1975/1747/pdfs/uksi_19751747_en.pdf
+- http://www.legislation.gov.uk/uksi/1975/1747/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Social Security (Transitional) Amendment Regulations 1975
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1975 No. 1747
+
+SOCIAL SECURITY
+
+The Social Security (Transitional) Amendment Regulations 1975
+
+Made
+
+28th October 1975
+
+Laid before Parliament
+
+30th October 1975
+
+Coming into Operation
+
+20th November 1975
+
+The Secretary of State for Social Services, in exercise of the powers conferred upon her by section 2 of and paragraphs 3 and 9 of Schedule 3 to the Social Security (Consequential Provisions) Act 1975 and of all other powers enabling her in that behalf, hereby makes the following regulations:—
+
+## 1. Citation, commencement and interpretation
+
+(1) These regulations may be cited as the Social Security (Transitional) Amendment Regulations 1975, and shall come into operation on 20th November 1975.
+
+(2) The rules for the construction of Acts of Parliament contained in the Interpretation Act 1889 shall apply in relation to this instrument and in relation to the revocation effected by it as if this instrument and the regulation revoked by it were Acts of Parliament and as if the revocation were a repeal.
+
+## 2. Amendments of the Social Security (Short-Term Benefits) (Transitional) Regulations 1974
+
+(1) The Social Security (Short-Term Benefits) (Transitional) Regulations 1974[^f00001], as amended[^f00002], shall be further amended in accordance with the following provisions of this regulation.
+
+(2) In regulation 4 (modifications relating to “contribution year” and “benefit year” under the 1965 Act) after paragraph (1) there shall be inserted the following paragraph:—
+
+> (1A) Where by virtue of regulation 3 a claim for unemployment or sickness benefit in respect of a day in the period from 2nd January 1977 to 28th May 1977 (inclusive of both dates) falls to be determined by reference to the contribution conditions in the 1965 Act it shall be determined as if the benefit year were the benefit year which by virtue of paragraph (1) ended for the claimant in question on 1st January 1977
+
+.
+
+(3) In regulation 8 (exhaustion of and requalification for unemployment or sickness benefit by a former contributor)—
+
+- (a) in paragraph (2) after the words “sickness benefit” in the second place in which they occur there shall be inserted the words “or invalidity benefit”;
+- (b) in paragraph (3)(b)(i) after the words “sickness benefit” there shall be inserted the words “or invalidity benefit”.
+
+(4) After regulation 15 there shall be added the following regulation:—
+
+> **16. Satisfaction of second contribution condition after the end of the transitional period**
+>
+> Where a former contributor makes a claim for unemployment benefit or sickness benefit in respect of a day which is after 28th May 1977 and which is in a period of interruption of employment commencing on or before 1st January 1977, for the purposes of the second contribution condition set out in paragraph 1(3) of Schedule 3 to the Social Security Act 1975[^f00003] the relevant past year shall be the year ending 5th April 1976.
+
+## 3. Amendment of the Social Security (Maternity Allowance) (Transitional) Regulations 1974
+
+After regulation 2 of the Social Security (Maternity Allowance) (Transitional) Regulations 1974[^f00004] there shall be added the following regulation:—
+
+> **3. Satisfaction of second contribution condition in certain cases after 20th March 1977**
+>
+> In a case in which the expected week of confinement begins on or after 20th March 1977 and the relevant time is in a period of interruption of employment which began on or before 1st January 1977, for the purposes of the second contribution condition set out in paragraph 3(3) of Schedule 3 to the Social Security Act 1975 the relevant past year shall be the year ending 5th April 1976.
+
+## 4. Revocation
+
+Regulation 6 of the Social Security (Miscellaneous Amendments and Transitional Provisions) Regulations 1975[^f00005] is hereby revoked.
+
+Barbara Castle
+
+Secretary of State for Social Services
+
+28th October 1975
+
+EXPLANATORY NOTE
+
+These Regulations amend the Social Security (Short-Term Benefits) (Transitional) Regulations 1974 and the Social Security (Maternity Allowance) (Transitional) Regulations 1974.
+
+Persons who were insured under the National Insurance Act 1965 (c.51) and who claim unemployment or sickness benefit or maternity allowance under the Social Security Act 1975 for certain days after 1st January 1977 which form part of a period of interruption of employment commencing on or before that date will according to the circumstances be able to satisfy the contribution conditions by reference to certain contributions paid or credited under the earlier Act or by reference to the year ending 5th April 1976.
+
+The Regulations apply to invalidity benefit the provisions which now apply to requalification for sickness benefit after exhaustion of right to it by a person who was a contributor under the Act of 1965.
+
+The Regulations revoke regulation 6 of the Social Security (Miscellaneous Amendments and Transitional Provisions) Regulations 1975 which is spent.
+
+## Annotations
+
+[^f00001]: Footnote: (1974 III, p. 8604).
+
+[^f00002]: Footnote: There is no amendment relevant to the subject-matter of these regulations.
+
+[^f00003]: Footnote: 1975 c. 14.
+
+[^f00004]: Footnote: (1974 I, p. 458).
+
+[^f00005]: Footnote: (1975 I, p. 2082).

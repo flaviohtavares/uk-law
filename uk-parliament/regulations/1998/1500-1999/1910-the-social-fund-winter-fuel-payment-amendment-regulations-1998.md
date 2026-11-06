@@ -1,0 +1,103 @@
+---
+title: The Social Fund Winter Fuel Payment Amendment Regulations 1998
+id: uksi/1998/1910
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1998-08-04'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1998/1910
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/1910/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Fund Winter Fuel Payment Amendment Regulations 1998
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1998 No. 1910
+
+SOCIAL SECURITY
+
+The Social Fund Winter Fuel Payment Amendment Regulations 1998
+
+Made
+
+4th August 1998
+
+Laid before Parliament
+
+11th August 1998
+
+Coming into force
+
+20th November 1998
+
+The Secretary of State for Social Security, in exercise of the powers conferred on him by sections 138(2) and (4) and 175(1), (3) and (4) of the Social Security Contributions and Benefits Act 1992[^f00001] and sections 5(1)(i), 59(1) and (2)(c) and 189(1) and (3) to (5) of, and paragraph 4 of Schedule 3 to the Social Security Administration Act 1992[^f00002] and of all other powers enabling him in that behalf, after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00003], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Fund Winter Fuel Payment Amendment Regulations 1998 and shall come into force on 20th November 1998.
+
+(2) In these Regulations “the principal Regulations” means the Social Fund Winter Fuel Payment Regulations 1998[^f00004].
+
+## 2. Amendment of the principal Regulations
+
+For the purpose of determining whether a person shall be entitled to a winter fuel payment for the winter of 1998 to 1999, the principal Regulations shall be amended in accordance with the following paragraphs—
+
+- (a) in regulation 1(2) (interpretation)—
+  - (i) the definition of “constant attendance allowance” shall be omitted;
+  - (ii) for the definition of “industrial death benefit” there shall be substituted the following definition—
+
+    > - “industrial injuries benefit” means a benefit of that name to which Part V of the Contributions and Benefits Act refers
+
+    ;
+  - (iii) in the definition of “the qualifying week” for the words “5th January 1998” there shall be substituted the words “9th November 1998;”;
+  - (iv) after the definition of “winter fuel payment” there shall be inserted the following definition—
+
+    > “workmen’s compensation and industrial diseases benefit” means the payments and allowances to which section 111 of, and Schedule 8 to, the Contributions and Benefits Act refer.
+
+    ;
+- (b) in regulation 2(6) (prescribed description of persons)—
+  - (i) in sub-paragraph (a) the words “constant attendance allowance” shall be omitted, for the words “industrial death benefit” there shall be substituted the words “industrial injuries benefit,” and for the words “or severe disablement allowance” there shall be substituted the words “severe disablement allowance or workmen’s compensation and industrial diseases benefit”;
+  - (ii) sub-paragraph (e) shall be omitted;
+- (c) in regulation 2(7) after sub-paragraph (b) the following sub-paragraph shall be inserted—
+
+  > - (bb) persons to whom regulation 12B(10) of the Social Security (Disability Living Allowance) Regulations 1991[^f00005] (persons in receipt of the mobility component of disability living allowance while undergoing medical or other treatment in a hospital or other institution) refers and who have been receiving free hospital in-patient treatment for more than 52 weeks;
+
+  ;
+- (d) in regulation 3(1)(b)(ii) (prescribed amount) for the words “of no fixed abode” there shall be substituted the words “without accommodation”;
+- (e) in regulation 3(4) after the words “in respect of” there shall be inserted the words “any day in”.
+
+Signed by authority of the Secretary of State for Social Security.
+
+Patricia Hollis
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+4th August 1998
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Social Fund Winter Fuel Payment Regulations 1998 (the principal Regulations) to provide that the qualifying week for entitlement to a winter fuel payment for the winter of 1998 to 1999 shall be the week beginning 9th November 1998. They also amend the categories of persons who are entitled to a winter fuel payment and exclude certain persons in receipt of the mobility component of disability living allowance who are hospital in-patients from entitlement to such a payment.
+
+These Regulations do not impose any charge on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4); section 123(1) was amended to have effect with respect to council tax benefit by the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14) Schedule 9 paragraph 1(1) and section 138(4) is an interpretation provision and is cited because of the meaning ascribed to the word “prescribed”.
+
+[^f00002]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^f00003]: Footnote: See section 173(1)(b) of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^f00004]: Footnote: [S.I.1998/19](https://www.legislation.gov.uk/uksi/1998/19).
+
+[^f00005]: Footnote: [S.I.1991/2890](https://www.legislation.gov.uk/uksi/1991/2890); regulation 12B was inserted by [S.I.1996/1436](https://www.legislation.gov.uk/uksi/1996/1436) relevant amending instrument [S.I.1996/1767](https://www.legislation.gov.uk/uksi/1996/1767).

@@ -1,0 +1,42 @@
+---
+title: Housing Act 2004, section 180
+act: Housing Act 2004
+section: '180'
+status: revised-with-pending-changes
+text_date: '2026-06-22'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2004/34/section/180
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing Act 2004, section 180
+
+> **Warning: changes not yet applied to this text (145).** Text as at 2026-06-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/34
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 180. Extension of qualifying period for right to buy
+
+*Extent: E+W*
+
+(1) In section 119(1) of the Housing Act 1985 (c. 68) (qualifying period for right to buy) for “two” substitute “ five ”.
+
+(2) In subsection (2)(a) of section 129 of that Act (discount)—
+
+- (a) for “two” substitute “ five ”; and
+- (b) for “32 per cent” substitute “ 35 per cent ”.
+
+(3) In subsection (2)(b) of that section—
+
+- (a) for “two”, where it appears for the second time, substitute “ five ”; and
+- (b) for “44 per cent” substitute “ 50 per cent ”.
+
+(4) In subsection (2A)(b) of that section for “two” substitute “ five ”.
+
+(5) The amendments made by this section do not apply in relation to a secure tenancy—
+
+- (a) if the tenancy was entered into before, or in pursuance of an agreement made before, the day on which this section comes into force, or
+- (b) if paragraph (a) does not apply but the tenant is a public sector tenant on that day and does not cease to be such a tenant at any time before serving a notice in respect of the tenancy under section 122 of that Act.
+
+(6) In subsection (5) “**public sector tenant**” has the same meaning as in Schedule 4 to that Act.

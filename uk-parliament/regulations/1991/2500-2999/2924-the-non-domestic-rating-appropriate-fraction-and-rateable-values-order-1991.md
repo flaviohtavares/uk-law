@@ -1,0 +1,99 @@
+---
+title: The Non-Domestic Rating (Appropriate Fraction and Rateable Values) Order 1991
+id: uksi/1991/2924
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1991-12-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1991/2924
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1991/2924/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Non-Domestic Rating (Appropriate Fraction and Rateable Values) Order 1991
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1991 No. 2924
+
+RATING AND VALUATION
+
+The Non-Domestic Rating (Appropriate Fraction and Rateable Values) Order 1991
+
+Approved by both Houses of Parliament
+
+Made
+
+20th December 1991
+
+Coming into force
+
+21st December 1991
+
+The Secretary of State for the Environment as respects England, and the Secretary of State for Wales as respects Wales, in exercise of the powers conferred on them by sections 140(4), 143(1) and 146(6) of, and paragraphs 3(2) of Schedule 6 and 5(8) of Schedule 7A to, the Local Government Finance Act 1988[^f00001], having regard in relation to the exercise of the power under paragraph 5(8) of Schedule 7A to the object of securing (so far as is practicable) that the aggregate amount payable to them and all charging authorities by way of non-domestic rates as regards the relevant year beginning in 1992 is the same as it would in their opinion be likely to be apart from that Schedule, hereby make the following Order in the terms of a draft laid before and approved by resolution of each House of Parliament:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Non-Domestic Rating (Appropriate Fraction and Rateable Values) Order 1991 and shall come into force on the day after the day on which it is made.
+
+## 2. Appropriate fraction
+
+The Non-Domestic Rating (Transitional Period) (Appropriate Fraction) Order 1989[^f00002] shall be amended in article 2 as follows—
+
+- (a) in paragraph (1) for “or in 1991” there shall be substituted “, 1991 or 1992”;
+- (b) after paragraph (4) there shall be inserted the following—
+
+  > (4A) As regards the relevant year beginning in 1992—
+  >
+  > - (a) if the hereditament is situated in England, then X is 81 if the hereditament is within paragraph (3)(a) or (b), and 76 if it is within paragraph (4)(a) or (b);
+  > - (b) if the hereditament is situated in Wales, then X is 91 if the hereditament is within paragraph (3)(b), and 86 if it is within paragraph (4)(b).
+
+  .
+
+## 3. Rateable values
+
+(1) In paragraph (3) of each of article 11 of the Electricity Supply Industry (Rateable Values) Order 1989[^f00003], article 14 of the Railways (Rateable Values) Order 1989[^f00004] and article 11 of the Water Undertakers (Rateable Values) Order 1989[^f00005], for the figure “0.87” there shall be substituted the letter “X”, and after each paragraph (3) there shall be added—
+
+> (4) In paragraph (3), X is 0.81 for any class of hereditament entered in the central rating list for England, and 0.91 for any class entered in the central rating list for Wales.
+
+.
+
+(2) In article 10(1)(b) of the Telecommunications Industry (Rateable Values) Order 1989[^f00006], for the figure “0.87” there shall be substituted the figure “0.91”.
+
+Michael Heseltine
+
+Secretary of State for the Environment
+
+20th December 1991
+
+David Hunt
+
+Secretary of State for Wales
+
+20th December 1991
+
+(This note is not part of the Order)
+
+Schedule 7A to the Local Government Finance Act 1988 provides for the phasing of the gains or losses caused by the introduction of the new business rate. For hereditaments where bills were reduced by the changes, the tapering depends upon an appropriate fraction calculated in accordance with the Non-Domestic Rating (Transitional Period) (Appropriate Fraction) Order 1989. This Order in article 2 provides the figures for one element in the formula used to calculate the appropriate fraction for the financial year beginning in 1992. There are different figures, depending on the rateable value of the property, and whether it is within Greater London, elsewhere in England, or in Wales.
+
+Similar transitional provisions were made by the Electricity Supply Industry (Rateable Values) Order 1989, the Railways (Rateable Values) Order 1989, the Telecommunica-tions Industry (Rateable Values) Order 1989 and the Water Undertakers (Rateable Values) Order 1989 in respect of hereditaments to which those Orders apply. This Order in article 3 amends the formulae for calculating the relevant rateable values for the year beginning 1st April 1992 and subsequent years in certain cases where the rateable values were reduced in 1990, making different provision for England and Wales.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Paragraph 3(2) of Schedule 6 was amended by paragraph 38(13) of Schedule 5 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42). Schedule 7A was inserted by paragraph 40 of the same Schedule.
+
+[^f00002]: Footnote: S.I. [1989/2476](https://www.legislation.gov.uk/uksi/1989/2476).
+
+[^f00003]: Footnote: S.I. [1989/2475](https://www.legislation.gov.uk/uksi/1989/2475).
+
+[^f00004]: Footnote: S.I. [1989/2477](https://www.legislation.gov.uk/uksi/1989/2477).
+
+[^f00005]: Footnote: S.I. [1989/2479](https://www.legislation.gov.uk/uksi/1989/2479).
+
+[^f00006]: Footnote: S.I. [1989/2478](https://www.legislation.gov.uk/uksi/1989/2478).

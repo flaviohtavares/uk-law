@@ -1,0 +1,23 @@
+---
+title: The Payment Services Regulations 2017, section 95
+act: The Payment Services Regulations 2017
+section: '95'
+status: revised-with-pending-changes
+text_date: '2026-04-28'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2017/752/section/95
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Payment Services Regulations 2017, section 95
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/uksi/2017/752
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 95. Right of recourse
+
+*Extent: E+W+S+N.I.*
+
+Where the liability of a payment service provider (“the first provider”) under regulation 76, 91, 92 or 93 (payment service providers' liability for unauthorised or defective payment transactions) is attributable to another payment service provider or an intermediary, including where there is a failure to use strong customer authentication as required by regulation 100 (authentication), the other payment service provider or intermediary must compensate the first provider for any losses incurred or sums paid pursuant to those regulations.

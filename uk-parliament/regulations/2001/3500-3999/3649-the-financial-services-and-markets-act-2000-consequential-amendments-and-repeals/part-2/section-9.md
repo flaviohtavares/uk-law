@@ -1,0 +1,59 @@
+---
+title: The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001, section 9
+act: The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001
+section: '9'
+status: revised-with-pending-changes
+text_date: '2018-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2001/3649/section/9
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001, section 9
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2018-01-01. See https://www.legislation.gov.uk/changes/affected/uksi/2001/3649
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 9. Disclosure of interests in shares: interests to be disregarded[^key-f443b86ecdb9f7ba8acbabda7fca221b]
+
+*Extent: E+W+S+N.I.*
+
+For section 209(2) of the 1985 Act (interests in shares to be disregarded for purposes of disclosure requirements)[^f00016] substitute—
+
+> (2) An interest in shares is an exempt security interest for the purposes of subsection (1)(c) if the condition mentioned in subsection (2A) is satisfied and it is held by—
+>
+> - (a) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 to accept deposits;
+> - (b) an EEA firm of the kind mentioned in paragraph 5(b) of Schedule 3 to that Act;
+> - (c) a person authorised under the law of a member State other than the United Kingdom to accept deposits who—
+>   - (i) would not qualify for authorisation under paragraph 12 of Schedule 3 to that Act; and
+>   - (ii) would require permission under another provision of that Act to accept such deposits in the United Kingdom;
+> - (d) an authorised insurance undertaking;
+> - (e) a person authorised under the law of a member State to deal in securities or derivatives, who deals in securities or derivatives on a relevant stock exchange or a relevant investment exchange, whether as a member or otherwise;
+> - (f) a relevant stock exchange;
+> - (g) a relevant investment exchange;
+> - (h) a recognised clearing house;
+> - (i) the Bank of England; or
+> - (j) the central bank of a member State other than the United Kingdom.
+>
+> (2A) The condition is that the interest in the shares must be held by way of security only for the purposes of a transaction entered into in the ordinary course of his or its business as a person or other body falling within any of paragraphs (a) to (j) of subsection (2).
+>
+> (2B) Paragraphs (a) to (c) of subsection (2) must be read with—
+>
+> - (a) section 22 of the Financial Services and Markets Act 2000;
+> - (b) any relevant order under that section; and
+> - (c) Schedule 2 to that Act.
+>
+> (2C) But paragraph (a) of subsection (2) does not include—
+>
+> - (a) a building society incorporated, or deemed to be incorporated, under the Building Societies Act 1986; or
+> - (b) a credit union, within the meaning of the Credit Unions Act 1979 of the Credit Unions (Northern Ireland) Order 1985.
+
+.
+
+## Annotations
+
+[^key-f443b86ecdb9f7ba8acbabda7fca221b]: Commencement: Art. 9 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+
+[^f00016]: Footnote: Substituted by [S.I. 1993/1819](https://www.legislation.gov.uk/uksi/1993/1819), regulation 8; subsection (2) amended by [S.I. 1993/2689](https://www.legislation.gov.uk/uksi/1993/2689), regulation 3.

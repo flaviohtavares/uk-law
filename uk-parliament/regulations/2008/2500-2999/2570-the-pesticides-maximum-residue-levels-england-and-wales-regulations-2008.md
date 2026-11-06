@@ -1,0 +1,319 @@
+---
+title: The Pesticides (Maximum Residue Levels) (England and Wales) Regulations 2008
+id: uksi/2008/2570
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-10-02'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2008/2570
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/2570/pdfs/uksiem_20082570_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2570/pdfs/uksi_20082570_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2570/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pesticides (Maximum Residue Levels) (England and Wales) Regulations 2008
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2008 No. 2570
+
+Agriculture, England And Wales
+
+Pesticides, England And Wales
+
+The Pesticides (Maximum Residue Levels) (England and Wales) Regulations 2008
+
+Made
+
+2nd October 2008
+
+Laid before Parliament
+
+6th October 2008
+
+Laid before the National Assembly for Wales
+
+6th October 2008
+
+Coming into force
+
+1st November 2008
+
+The Secretary of State and the Welsh Ministers are designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to the common agricultural policy[^f00002] and measures in the veterinary and phytosanitary fields for the protection of public health[^f00003].
+
+These Regulations make provision for a purpose mentioned in that section and it appears to the Secretary of State and the Welsh Ministers that it is expedient for the references to Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/european/regulation/2005/0396) of the European Parliament and of the Council on maximum residue levels of pesticides in or on food and feed of plant and animal origin and amending Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414)[^f00004] to be construed as references to that instrument as amended from time to time.
+
+The Secretary of State, in relation to England, and the Welsh Ministers and the Secretary of State, acting jointly in relation to Wales, make the following Regulations in exercise of the powers conferred by section 2(2) of, as read with paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00005].
+
+## 1. Title, application and commencement
+
+These Regulations—
+
+- (a) may be cited as the Pesticides (Maximum Residue Levels) (England and Wales) Regulations 2008;
+- (b) apply in relation to England and Wales; and
+- (c) come into force on 1st November 2008.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “inspector” has the meaning given by regulation 8(1);
+- “local authority” means—
+  - (a) in any part of England where there is a unitary authority, that authority;
+  - (b) in any part of England where there is not a unitary authority—
+    - (i) in a metropolitan district, the council of that district,
+    - (ii) in a non-metropolitan county, the council of that county,
+    - (iii) in each London borough, the council of that borough,
+    - (iv) in the City of London, the Common Council;
+  - (c) in Wales, a county council or county borough council.
+- “Regulation 396/2005” means Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/european/regulation/2005/0396) of the European Parliament and of the Council on maximum residue levels of pesticides in or on food and feed of plant and animal origin and amending Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414).
+
+(2) Any reference in these Regulations to Regulation 396/2005 is a reference to that Regulation as amended from time to time.
+
+(3) Expressions used in both these Regulations and Regulation 396/2005 have the same meaning in these Regulations as they have in Regulation 396/2005.
+
+## 3. Notices
+
+Any notice under these Regulations—
+
+- (a) must be in writing;
+- (b) may be subject to conditions; and
+- (c) may be amended, suspended or revoked by a notice issued by an inspector.
+
+## 4. Designated national authority[^key-dec6e2ca0c0f2f4483f0bd29cdd08688]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Functions of the member State[^key-3504fff4e35ae2268ba8809a0b2952c5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Compliance with MRLs[^M_F_b938796f-da89-4878-e2d4-de997555eee3]
+
+It is an offence for any person to—
+
+- (a) place on the market as food or feed, or
+- (b) feed to any animal,
+
+any product listed in Section A or B of a list in Part 1 of the MRLs register in relation to England or Wales[^key-9d059b8da9a84a8b50f47600be5a5833] in breach of Article 18(1) of Regulation 396/2005[^key-d5795308154273cea8dc2e054f2f797e] as read with Article 20(1) of that Regulation.
+
+## 7. Prohibition on processing and mixing products
+
+It is an offence for any person to process or mix any products specified in Article 19 of Regulation 396/2005 in breach of that Article.
+
+## 8. Powers of inspectors
+
+(1) The Secretary of State[^key-a3883cc35a60e873d33b2dbd00886c16] (in England) and the Welsh Ministers (in Wales) may appoint any person to be an inspector for the purposes of these Regulations.
+
+(2) Schedule 1 (powers of inspectors) has effect.
+
+## 9. Obstruction
+
+It is an offence—
+
+- (a) intentionally to obstruct any person acting in the execution of these Regulations;
+- (b) knowingly to give any information that is false or misleading to any person acting in the execution of these Regulations;
+- (c) intentionally to fail to disclose any material particular to any person acting in the execution of these Regulations; or
+- (d) to fail, without reasonable excuse—
+  - (i) to give any assistance that any person acting in the execution of these Regulations may require, or
+  - (ii) to produce any record that any person acting in the execution of these Regulations may require to be produced,
+
+  for the performance of that person’s functions under these Regulations.
+
+## 10. Offences by bodies corporate
+
+(1) If an offence under these Regulations committed by a body corporate is shown—
+
+- (a) to have been committed with the consent or connivance of an officer, or
+- (b) to be attributable to any neglect on the officer’s part,
+
+the officer as well as the body corporate is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(2) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with the member’s functions of management as if the member were a director of the body.
+
+(3) “Officer”, in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
+
+## 11. Penalties
+
+A person guilty of an offence under these Regulations is liable—
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment, to a fine.
+
+## 12. Enforcement
+
+These Regulations are enforced—
+
+- (a) in England, by the Secretary of State[^key-ec2520108b93beddf179c4592719327b]; and
+- (b) in Wales, by the Welsh Ministers.
+
+## 13. Revocations
+
+Schedule 2 (revoked instruments) has effect.
+
+Phil Woolas
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+Elin Jones
+
+Minister for Rural Affairs, one of the Welsh Ministers
+
+## SCHEDULE 1 — Powers of inspectors
+
+Regulation 8(2)
+
+### 1. Powers of entry
+
+(1) An inspector may, on producing a duly authenticated authorisation if required, enter any premises at any reasonable hour for the purpose of ensuring that the provisions of these Regulations are being complied with.
+
+(2) Admission to any premises used only as a private dwelling house may not be demanded as of right unless 24 hours’ notice of the intended entry has been given to the occupier, or the entry is in accordance with a warrant granted under this paragraph.
+
+(3) If a justice of the peace, on sworn information in writing, is satisfied that there are reasonable grounds for entry on to any premises for the purposes of the enforcement of these Regulations, and either—
+
+- (a) admission has been refused, or a refusal is expected, and (in either case) that notice to apply for a warrant has been given to the occupier,
+- (b) asking for admission, or the giving of such a notice, would defeat the object of the entry,
+- (c) the case is one of urgency, or
+- (d) the premises are unoccupied or the occupier is temporarily absent,
+
+the justice may by signed warrant authorise the inspector to enter the premises, if need be, by reasonable force.
+
+(4) A warrant under this paragraph is valid for one month.
+
+(5) An inspector who enters any unoccupied premises must leave them as effectively secured against unauthorised entry as they were before entry.
+
+(6) In this paragraph, “premises” includes any place vehicle, trailer, container, stall, movable structure, ship or aircraft.
+
+### 2. Powers of an inspector
+
+(1) An inspector entering premises under paragraph 1 may—
+
+- (a) take on to those premises any person, equipment or materials that the inspector considers necessary for the enforcement of these Regulations;
+- (b) open any container;
+- (c) carry out any searches, inspections, measurements and tests;
+- (d) take samples;
+- (e) have access to, and inspect and copy any books, documents or records (in whatever form they are held) relating to these Regulations and remove them to enable them to be copied;
+- (f) photograph or copy anything whose production the inspector has power to require under sub-paragraph (e);
+- (g) photograph anything which the inspector has reasonable cause to believe may be relevant in connection with the enforcement of these Regulations;
+- (h) seize any computers and associated equipment for the purpose of copying documents provided that they are returned as soon as practicable.
+
+(2) Any person who accompanies an inspector in accordance with this paragraph may perform any of the inspector’s functions but only under the supervision of that inspector.
+
+### 3. Power of officer to use reasonable force
+
+An inspector may use reasonable force, if necessary, in the performance of functions under these Regulations.
+
+### 4. Seizure or disposal of products
+
+If any product to which Regulation 396/2005 applies contains a quantity of pesticide residue greater than that permitted under that Regulation, an inspector may—
+
+- (a) seize or dispose of the consignment containing that product, or any part of it, or require the owner or person appearing to be in charge of it to dispose of it; or
+- (b) direct the owner or any person appearing to be in charge of it to take such remedial action as appears to the inspector to be necessary.
+
+### 5. Information notice
+
+An inspector may, by notice served on any person, require that person to provide such information as is specified in the notice in such form and within such period following service of the notice or at such time as is so specified.
+
+### 6. Enforcement and prohibition notices
+
+(1) An inspector may serve a notice on any person who contravenes, or who the inspector has reasonable grounds to suspect may contravene, these Regulations—
+
+- (a) requiring that person to act in accordance with these Regulations; or
+- (b) prohibiting that person from acting in contravention of these Regulations.
+
+(2) The notice must give reasons for serving it and, if appropriate, specify what action should be taken and give time limits.
+
+### 7. Compliance with notices
+
+(1) It is an offence for any person on whom a notice is served under these Regulations to fail to comply with the provisions of that notice.
+
+(2) Such a notice must be complied with at the expense of the person on whom it is served and, if it is not complied with, an inspector may arrange for it to be complied with at the expense of that person.
+
+## SCHEDULE 2 — Revoked instruments
+
+Regulation 13
+
+The following Regulations are revoked—
+
+- (a) the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) Regulations 2005[^f00006];
+- (b) the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) (Amendment) Regulations 2006[^f00007];
+- (c) the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) (Amendment) (No. 2) Regulations 2006[^f00008];
+- (d) the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) (Amendment) (No. 3) Regulations 2006[^f00009];
+- (e) the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) (Amendment) Regulations 2007[^f00010];
+- (f) the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) (Amendment) (No. 2) Regulations 2007[^f00011];
+- (g) the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) (Amendment) (No. 3) Regulations 2007[^f00012];
+- (h) the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) (Amendment) (No. 4) Regulations 2007[^f00013]; and
+- (i) the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) (Amendment) Regulations 2008[^f00014].
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations enforce the provisions of Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/european/regulation/2005/0396) of the European Parliament and of the Council on maximum residue levels of pesticides in or on food and feed of plant and animal origin and amending Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414) (“Regulation 396/2005”).
+
+Regulation 4 designates the Health and Safety Executive as the national authority for the purposes of Article 38 of Regulation 396/2005. Regulation 5 provides that the functions of the member State in Regulation 396/2005, other than those specified in Article 34 (sanctions) and Article 38 (designation of national authorities), are to be performed by the Health and Safety Executive.
+
+Regulation 6 creates an offence of placing on the market as food or feed, or feeding to an animal, any product covered by Annex I to Regulation 396/2005, if that product contains pesticide residue levels in excess of those specified in Article 18(1) of that Regulation as read with Article 20(1). Regulation 7 creates an offence of processing or mixing certain products with a view to placing them on the market as food or feed, or feeding them to animals.
+
+Regulation 8 and Schedule 1 set out powers of inspectors.
+
+Regulation 11 provides that any person guilty of an offence under these Regulations is liable, on summary conviction, to a fine not exceeding the statutory maximum or, on conviction on indictment, to a fine.
+
+A Regulatory Impact Assessment (RIA) was prepared for the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) Regulations 2005 ([S.I. 2005/3286](https://www.legislation.gov.uk/uksi/2005/3286)), which this instrument revokes and replaces. That RIA provides a basis for establishing the effect that this instrument will have on the costs of business and the voluntary sector and is available from the Pesticides Safety Directorate, Room 308, Mallard House, Kings Pool, 3 Peasholme Green, York, YO1 7PX. Copies have been placed in the library of each House of Parliament.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00002]: Footnote: In relation to England by [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811) and in relation to Wales by [S.I. 2005/2766](https://www.legislation.gov.uk/uksi/2005/2766). By virtue of sections 59(1) and 162 of, and paragraphs 28 and 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), functions conferred on the National Assembly for Wales are exercisable by the Welsh Ministers.
+
+[^f00003]: Footnote: In relation to England by [S.I. 1999/2027](https://www.legislation.gov.uk/uksi/1999/2027) and in relation to Wales by [S.I. 2008/1792](https://www.legislation.gov.uk/uksi/2008/1792).
+
+[^f00004]: Footnote: OJ No L 70, 16.3.2005, p 1 as amended by OJ No L 29, 2.2.2006, p 3, OJ No L 58, 1.3.2008, p 1, OJ No L 76, 19.3.2008, p 31 and OJ No L 97, 9.4.2008, p 67.
+
+[^f00005]: Footnote: Paragraph 1A of Schedule 2 to the European Communities Act 1972 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
+
+[^key-dec6e2ca0c0f2f4483f0bd29cdd08688]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/2570/regulation/4) omitted (31.12.2020) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [11](https://www.legislation.gov.uk/uksi/2019/306/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3504fff4e35ae2268ba8809a0b2952c5]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2008/2570/regulation/5) omitted (31.12.2020) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [11](https://www.legislation.gov.uk/uksi/2019/306/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_b938796f-da89-4878-e2d4-de997555eee3]: Textual amendment: Regs. 4, 5 substituted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2019/306/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/306/regulation/4))
+
+[^key-9d059b8da9a84a8b50f47600be5a5833]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2008/2570/regulation/6) substituted (31.12.2020) by [The Pesticides (Maximum Residue Levels) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/557)](https://www.legislation.gov.uk/uksi/2019/557), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/557/regulation/1/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2019/557/regulation/14/2/a) (with [reg. 14(3)-(5)](https://www.legislation.gov.uk/uksi/2019/557/regulation/14/3)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(8)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d5795308154273cea8dc2e054f2f797e]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2008/2570/regulation/6) substituted (31.12.2020) by [The Pesticides (Maximum Residue Levels) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/557)](https://www.legislation.gov.uk/uksi/2019/557), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/557/regulation/1/1), [14(2)(b)](https://www.legislation.gov.uk/uksi/2019/557/regulation/14/2/b) (with [reg. 14(3)-(5)](https://www.legislation.gov.uk/uksi/2019/557/regulation/14/3)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(8)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a3883cc35a60e873d33b2dbd00886c16]: Textual amendment: Words in reg. 8(1) substituted (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2131/schedule/4)
+
+[^key-ec2520108b93beddf179c4592719327b]: Textual amendment: Words in reg. 12(a) substituted (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2131/schedule/4)
+
+[^f00006]: Footnote: [S.I. 2005/3286](https://www.legislation.gov.uk/uksi/2005/3286), as amended by [S.I. 2006/985](https://www.legislation.gov.uk/uksi/2006/985), [2006/1742](https://www.legislation.gov.uk/uksi/2006/1742), [2006/2922](https://www.legislation.gov.uk/uksi/2006/2922), [2007/971](https://www.legislation.gov.uk/uksi/2007/971), [2007/2083](https://www.legislation.gov.uk/uksi/2007/2083), [2007/2998](https://www.legislation.gov.uk/uksi/2007/2998), [2007/3297](https://www.legislation.gov.uk/uksi/2007/3297) and [2008/665](https://www.legislation.gov.uk/uksi/2008/665).
+
+[^f00007]: Footnote: [S.I. 2006/985](https://www.legislation.gov.uk/uksi/2006/985).
+
+[^f00008]: Footnote: [S.I. 2006/1742](https://www.legislation.gov.uk/uksi/2006/1742).
+
+[^f00009]: Footnote: [S.I. 2006/2922](https://www.legislation.gov.uk/uksi/2006/2922).
+
+[^f00010]: Footnote: [S.I. 2007/971](https://www.legislation.gov.uk/uksi/2007/971).
+
+[^f00011]: Footnote: [S.I. 2007/2083](https://www.legislation.gov.uk/uksi/2007/2083).
+
+[^f00012]: Footnote: [S.I. 2007/2998](https://www.legislation.gov.uk/uksi/2007/2998).
+
+[^f00013]: Footnote: [S.I. 2007/3297](https://www.legislation.gov.uk/uksi/2007/3297).
+
+[^f00014]: Footnote: [S.I. 2008/665](https://www.legislation.gov.uk/uksi/2008/665).

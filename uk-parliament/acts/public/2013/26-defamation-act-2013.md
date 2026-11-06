@@ -1,0 +1,479 @@
+---
+title: Defamation Act 2013
+id: ukpga/2013/26
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '2013-04-25'
+text_date: '2022-08-08'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2013/26
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2013/26/pdfs/ukpgaen_20130026_en.pdf
+- http://www.legislation.gov.uk/ukpga/2013/26/pdfs/ukpga_20130026_en.pdf
+- http://www.legislation.gov.uk/ukpga/2013/26/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Defamation Act 2013
+
+> Text as at 2022-08-08.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+Defamation Act 2013
+
+2013 c. 26
+
+An Act to amend the law of defamation.
+
+\[25th April 2013\]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Requirement of serious harm
+
+*Extent: E+W*
+
+### 1. Serious harm[^key-1783293f7913571de7f0afe5a886c45b]
+
+(1) A statement is not defamatory unless its publication has caused or is likely to cause serious harm to the reputation of the claimant.
+
+(2) For the purposes of this section, harm to the reputation of a body that trades for profit is not “serious harm” unless it has caused or is likely to cause the body serious financial loss.
+
+## Defences
+
+### 2. Truth[^key-6c5acfef9b69dd75735b76770812664f]
+
+*Extent: E+W*
+
+(1) It is a defence to an action for defamation for the defendant to show that the imputation conveyed by the statement complained of is substantially true.
+
+(2) Subsection (3) applies in an action for defamation if the statement complained of conveys two or more distinct imputations.
+
+(3) If one or more of the imputations is not shown to be substantially true, the defence under this section does not fail if, having regard to the imputations which are shown to be substantially true, the imputations which are not shown to be substantially true do not seriously harm the claimant's reputation.
+
+(4) The common law defence of justification is abolished and, accordingly, section 5 of the Defamation Act 1952 (justification) is repealed.
+
+### 3. Honest opinion[^key-2884ad8287fe44fc3f3e938621493ee6]
+
+*Extent: E+W*
+
+(1) It is a defence to an action for defamation for the defendant to show that the following conditions are met.
+
+(2) The first condition is that the statement complained of was a statement of opinion.
+
+(3) The second condition is that the statement complained of indicated, whether in general or specific terms, the basis of the opinion.
+
+(4) The third condition is that an honest person could have held the opinion on the basis of—
+
+- (a) any fact which existed at the time the statement complained of was published;
+- (b) anything asserted to be a fact in a privileged statement published before the statement complained of.
+
+(5) The defence is defeated if the claimant shows that the defendant did not hold the opinion.
+
+(6) Subsection (5) does not apply in a case where the statement complained of was published by the defendant but made by another person (“the author”); and in such a case the defence is defeated if the claimant shows that the defendant knew or ought to have known that the author did not hold the opinion.
+
+(7) For the purposes of subsection (4)(b) a statement is a “privileged statement” if the person responsible for its publication would have one or more of the following defences if an action for defamation were brought in respect of it—
+
+- (a) a defence under section 4 (publication on matter of public interest);
+- (b) a defence under section 6 (peer-reviewed statement in scientific or academic journal);
+- (c) a defence under section 14 of the Defamation Act 1996 (reports of court proceedings protected by absolute privilege);
+- (d) a defence under section 15 of that Act (other reports protected by qualified privilege).
+
+(8) The common law defence of fair comment is abolished and, accordingly, section 6 of the Defamation Act 1952 (fair comment) is repealed.
+
+### 4. Publication on matter of public interest[^key-d5e52224a13184f667d47be50bc66ebc]
+
+*Extent: E+W*
+
+(1) It is a defence to an action for defamation for the defendant to show that—
+
+- (a) the statement complained of was, or formed part of, a statement on a matter of public interest; and
+- (b) the defendant reasonably believed that publishing the statement complained of was in the public interest.
+
+(2) Subject to subsections (3) and (4), in determining whether the defendant has shown the matters mentioned in subsection (1), the court must have regard to all the circumstances of the case.
+
+(3) If the statement complained of was, or formed part of, an accurate and impartial account of a dispute to which the claimant was a party, the court must in determining whether it was reasonable for the defendant to believe that publishing the statement was in the public interest disregard any omission of the defendant to take steps to verify the truth of the imputation conveyed by it.
+
+(4) In determining whether it was reasonable for the defendant to believe that publishing the statement complained of was in the public interest, the court must make such allowance for editorial judgement as it considers appropriate.
+
+(5) For the avoidance of doubt, the defence under this section may be relied upon irrespective of whether the statement complained of is a statement of fact or a statement of opinion.
+
+(6) The common law defence known as the Reynolds defence is abolished.
+
+### 5. Operators of websites[^key-1ad679bfc89e0356d41a30b61bb44a10]
+
+*Extent: E+W*
+
+(1) This section applies where an action for defamation is brought against the operator of a website in respect of a statement posted on the website.
+
+(2) It is a defence for the operator to show that it was not the operator who posted the statement on the website.
+
+(3) The defence is defeated if the claimant shows that—
+
+- (a) it was not possible for the claimant to identify the person who posted the statement,
+- (b) the claimant gave the operator a notice of complaint in relation to the statement, and
+- (c) the operator failed to respond to the notice of complaint in accordance with any provision contained in regulations.
+
+(4) For the purposes of subsection (3)(a), it is possible for a claimant to “identify” a person only if the claimant has sufficient information to bring proceedings against the person.
+
+(5) Regulations may—
+
+- (a) make provision as to the action required to be taken by an operator of a website in response to a notice of complaint (which may in particular include action relating to the identity or contact details of the person who posted the statement and action relating to its removal);
+- (b) make provision specifying a time limit for the taking of any such action;
+- (c) make provision conferring on the court a discretion to treat action taken after the expiry of a time limit as having been taken before the expiry;
+- (d) make any other provision for the purposes of this section.
+
+(6) Subject to any provision made by virtue of subsection (7), a notice of complaint is a notice which—
+
+- (a) specifies the complainant's name,
+- (b) sets out the statement concerned and explains why it is defamatory of the complainant,
+- (c) specifies where on the website the statement was posted, and
+- (d) contains such other information as may be specified in regulations.
+
+(7) Regulations may make provision about the circumstances in which a notice which is not a notice of complaint is to be treated as a notice of complaint for the purposes of this section or any provision made under it.
+
+(8) Regulations under this section—
+
+- (a) may make different provision for different circumstances;
+- (b) are to be made by statutory instrument.
+
+(9) A statutory instrument containing regulations under this section may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(10) In this section “**regulations**” means regulations made by the Secretary of State.
+
+(11) The defence under this section is defeated if the claimant shows that the operator of the website has acted with malice in relation to the posting of the statement concerned.
+
+(12) The defence under this section is not defeated by reason only of the fact that the operator of the website moderates the statements posted on it by others.
+
+### 6. Peer-reviewed statement in scientific or academic journal etc[^key-5332f15c335cd8fa44a3e443b57da50d]
+
+(1 (Extent: S) (affected by repeal, see note))[^key-b047600ade4ada692fd60ea589e57db7] The publication of a statement in a scientific or academic journal (whether published in electronic form or otherwise) is privileged if the following conditions are met. *(Extent: S)* *(affected by repeal, see note)*[^key-b047600ade4ada692fd60ea589e57db7]
+
+(2 (Extent: S) (affected by repeal, see note))[^key-b047600ade4ada692fd60ea589e57db7] The first condition is that the statement relates to a scientific or academic matter. *(Extent: S)* *(affected by repeal, see note)*[^key-b047600ade4ada692fd60ea589e57db7]
+
+(3 (Extent: S) (affected by repeal, see note))[^key-b047600ade4ada692fd60ea589e57db7] The second condition is that before the statement was published in the journal an independent review of the statement's scientific or academic merit was carried out by— *(Extent: S)* *(affected by repeal, see note)*[^key-b047600ade4ada692fd60ea589e57db7]
+
+- (a (Extent: S) (affected by repeal, see note))[^key-b047600ade4ada692fd60ea589e57db7] the editor of the journal, and *(Extent: S)* *(affected by repeal, see note)*[^key-b047600ade4ada692fd60ea589e57db7]
+- (b (Extent: S) (affected by repeal, see note))[^key-b047600ade4ada692fd60ea589e57db7] one or more persons with expertise in the scientific or academic matter concerned. *(Extent: S)* *(affected by repeal, see note)*[^key-b047600ade4ada692fd60ea589e57db7]
+
+(4 (Extent: S) (affected by repeal, see note))[^key-b047600ade4ada692fd60ea589e57db7] Where the publication of a statement in a scientific or academic journal is privileged by virtue of subsection (1), the publication in the same journal of any assessment of the statement's scientific or academic merit is also privileged if— *(Extent: S)* *(affected by repeal, see note)*[^key-b047600ade4ada692fd60ea589e57db7]
+
+- (a (Extent: S) (affected by repeal, see note))[^key-b047600ade4ada692fd60ea589e57db7] the assessment was written by one or more of the persons who carried out the independent review of the statement; and *(Extent: S)* *(affected by repeal, see note)*[^key-b047600ade4ada692fd60ea589e57db7]
+- (b (Extent: S) (affected by repeal, see note))[^key-b047600ade4ada692fd60ea589e57db7] the assessment was written in the course of that review. *(Extent: S)* *(affected by repeal, see note)*[^key-b047600ade4ada692fd60ea589e57db7]
+
+(5 (Extent: S) (affected by repeal, see note))[^key-b047600ade4ada692fd60ea589e57db7] Where the publication of a statement or assessment is privileged by virtue of this section, the publication of a fair and accurate copy of, extract from or summary of the statement or assessment is also privileged. *(Extent: S)* *(affected by repeal, see note)*[^key-b047600ade4ada692fd60ea589e57db7]
+
+(6 (Extent: S) (affected by repeal, see note))[^key-b047600ade4ada692fd60ea589e57db7] A publication is not privileged by virtue of this section if it is shown to be made with malice. *(Extent: S)* *(affected by repeal, see note)*[^key-b047600ade4ada692fd60ea589e57db7]
+
+(7 (Extent: S) (affected by repeal, see note))[^key-b047600ade4ada692fd60ea589e57db7] Nothing in this section is to be construed— *(Extent: S)* *(affected by repeal, see note)*[^key-b047600ade4ada692fd60ea589e57db7]
+
+- (a (Extent: S) (affected by repeal, see note))[^key-b047600ade4ada692fd60ea589e57db7] as protecting the publication of matter the publication of which is prohibited by law; *(Extent: S)* *(affected by repeal, see note)*[^key-b047600ade4ada692fd60ea589e57db7]
+- (b (Extent: S) (affected by repeal, see note))[^key-b047600ade4ada692fd60ea589e57db7] as limiting any privilege subsisting apart from this section. *(Extent: S)* *(affected by repeal, see note)*[^key-b047600ade4ada692fd60ea589e57db7]
+
+(8 (Extent: S) (affected by repeal, see note))[^key-b047600ade4ada692fd60ea589e57db7] The reference in subsection (3)(a) to “the editor of the journal” is to be read, in the case of a journal with more than one editor, as a reference to the editor or editors who were responsible for deciding to publish the statement concerned. *(Extent: S)* *(affected by repeal, see note)*[^key-b047600ade4ada692fd60ea589e57db7]
+
+### 7. Reports etc protected by privilege
+
+(1)[^key-e3f20075c13cc695fb575b92a79155b4] For subsection (3) of section 14 of the Defamation Act 1996 (reports of court proceedings absolutely privileged) substitute—
+
+> (3) This section applies to—
+>
+> - (a) any court in the United Kingdom;
+> - (b) any court established under the law of a country or territory outside the United Kingdom;
+> - (c) any international court or tribunal established by the Security Council of the United Nations or by an international agreement;
+>
+> and in paragraphs (a) and (b) “**court**” includes any tribunal or body exercising the judicial power of the State.
+
+(2)[^key-e3f20075c13cc695fb575b92a79155b4] In subsection (3) of section 15 of that Act (qualified privilege) for “public concern” substitute “ public interest ”.
+
+(3)[^key-e3f20075c13cc695fb575b92a79155b4] Schedule 1 to that Act (qualified privilege) is amended as follows.
+
+(4)[^key-e3f20075c13cc695fb575b92a79155b4] For paragraphs 9 and 10 substitute—
+
+> **9.**
+>
+> (1) A fair and accurate copy of, extract from or summary of a notice or other matter issued for the information of the public by or on behalf of—
+>
+> - (a) a legislature or government anywhere in the world;
+> - (b) an authority anywhere in the world performing governmental functions;
+> - (c) an international organisation or international conference.
+>
+> (2) In this paragraph “**governmental functions**” includes police functions.
+>
+> **10.**
+>
+> A fair and accurate copy of, extract from or summary of a document made available by a court anywhere in the world, or by a judge or officer of such a court.
+
+(5)[^key-e3f20075c13cc695fb575b92a79155b4] After paragraph 11 insert—
+
+> **11A.**
+>
+> A fair and accurate report of proceedings at a press conference held anywhere in the world for the discussion of a matter of public interest.
+
+(6)[^key-e3f20075c13cc695fb575b92a79155b4] In paragraph 12 (report of proceedings at public meetings)—
+
+- (a) in sub-paragraph (1) for “in a member State” substitute “ anywhere in the world ”;
+- (b) in sub-paragraph (2) for “public concern” substitute “ public interest ”.
+
+(7)[^key-e3f20075c13cc695fb575b92a79155b4] In paragraph 13 (report of proceedings at meetings of public company)—
+
+- (a) in sub-paragraph (1), for “UK public company” substitute “ listed company ”;
+- (b) for sub-paragraphs (2) to (5) substitute—
+
+  > (2) A fair and accurate copy of, extract from or summary of any document circulated to members of a listed company—
+  >
+  > - (a) by or with the authority of the board of directors of the company,
+  > - (b) by the auditors of the company, or
+  > - (c) by any member of the company in pursuance of a right conferred by any statutory provision.
+  >
+  > (3) A fair and accurate copy of, extract from or summary of any document circulated to members of a listed company which relates to the appointment, resignation, retirement or dismissal of directors of the company or its auditors.
+  >
+  > (4) In this paragraph “**listed company**” has the same meaning as in Part 12 of the Corporation Tax Act 2009 (see section 1005 of that Act).
+
+(8)[^key-e3f20075c13cc695fb575b92a79155b4] In paragraph 14 (report of finding or decision of certain kinds of associations) in the words before paragraph (a), for “in the United Kingdom or another member State” substitute “ anywhere in the world ”.
+
+(9)[^key-d68fe2f8caf448f54a91eeea9ab1ce3c] After paragraph 14 insert— *(Extent: S)* *(affected by repeal, see note)*[^key-c37eb50d99d4d8dc8fdbe3cd71e42d09]
+
+> **14A (Extent: S) (affected by repeal, see note).[^key-c37eb50d99d4d8dc8fdbe3cd71e42d09]**
+>
+> A fair and accurate— *(Extent: S)* *(affected by repeal, see note)*[^key-c37eb50d99d4d8dc8fdbe3cd71e42d09]
+>
+> - (a (Extent: S) (affected by repeal, see note))[^key-c37eb50d99d4d8dc8fdbe3cd71e42d09] report of proceedings of a scientific or academic conference held anywhere in the world, or *(Extent: S)* *(affected by repeal, see note)*[^key-c37eb50d99d4d8dc8fdbe3cd71e42d09]
+> - (b (Extent: S) (affected by repeal, see note))[^key-c37eb50d99d4d8dc8fdbe3cd71e42d09] copy of, extract from or summary of matter published by such a conference. *(Extent: S)* *(affected by repeal, see note)*[^key-c37eb50d99d4d8dc8fdbe3cd71e42d09]
+
+(10)[^key-e3f20075c13cc695fb575b92a79155b4] For paragraph 15 (report of statements etc by a person designated by the Lord Chancellor for the purposes of the paragraph) substitute—
+
+> **15.**
+>
+> (1) A fair and accurate report or summary of, copy of or extract from, any adjudication, report, statement or notice issued by a body, officer or other person designated for the purposes of this paragraph by order of the Lord Chancellor.
+>
+> (2) An order under this paragraph shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(11)[^key-e3f20075c13cc695fb575b92a79155b4] For paragraphs 16 and 17 (general provision) substitute—
+
+> **16.**
+>
+> In this Schedule—
+>
+> - “**court**” includes—
+>   - (a) any tribunal or body established under the law of any country or territory exercising the judicial power of the State;
+>   - (b) any international tribunal established by the Security Council of the United Nations or by an international agreement;
+>   - (c) any international tribunal deciding matters in dispute between States;
+> - “**international conference**” means a conference attended by representatives of two or more governments;
+> - “**international organisation**” means an organisation of which two or more governments are members, and includes any committee or other subordinate body of such an organisation;
+> - “**legislature**” includes a local legislature; and
+> - “**member State**” includes any European dependent territory of a member State.
+
+## Single publication rule
+
+*Extent: E+W*
+
+### 8. Single publication rule[^key-9c9c2701354dbb55dab2deda94bee888]
+
+(1) This section applies if a person—
+
+- (a) publishes a statement to the public (“the first publication”), and
+- (b) subsequently publishes (whether or not to the public) that statement or a statement which is substantially the same.
+
+(2) In subsection (1) “**publication to the public**” includes publication to a section of the public.
+
+(3) For the purposes of section 4A of the Limitation Act 1980 (time limit for actions for defamation etc) any cause of action against the person for defamation in respect of the subsequent publication is to be treated as having accrued on the date of the first publication.
+
+(4) This section does not apply in relation to the subsequent publication if the manner of that publication is materially different from the manner of the first publication.
+
+(5) In determining whether the manner of a subsequent publication is materially different from the manner of the first publication, the matters to which the court may have regard include (amongst other matters)—
+
+- (a) the level of prominence that a statement is given;
+- (b) the extent of the subsequent publication.
+
+(6) Where this section applies—
+
+- (a) it does not affect the court's discretion under section 32A of the Limitation Act 1980 (discretionary exclusion of time limit for actions for defamation etc), and
+- (b) the reference in subsection (1)(a) of that section to the operation of section 4A of that Act is a reference to the operation of section 4A together with this section.
+
+## Jurisdiction
+
+*Extent: E+W*
+
+### 9. Action against a person not domiciled in the UK ...[^key-8e302a9f33ecd2b057fff27807666223][^key-6c02851e78555c82a671ddd25011bac0]
+
+(1) This section applies to an action for defamation against a person who is not domiciled—
+
+- (a) in the United Kingdom;
+- (b)[^key-fe929d3f6b1d1ecc7819f8bd7c9286cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-33e495ffc79a893f0bef6456ded6088e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) A court does not have jurisdiction to hear and determine an action to which this section applies unless the court is satisfied that, of all the places in which the statement complained of has been published, England and Wales is clearly the most appropriate place in which to bring an action in respect of the statement.
+
+(3) The references in subsection (2) to the statement complained of include references to any statement which conveys the same, or substantially the same, imputation as the statement complained of.
+
+(4)[^key-84eeed2039a51f4ba2ccb5722b7c66e9] Sections 41 and 42 of the Civil Jurisdiction and Judgments Act 1982 apply for the purpose of determining whether an individual, corporation or association is regarded as “**domiciled in the United Kingdom**” for the purposes of this section.
+
+(5)[^key-644cfaf67bf37135307899b0797e4aad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Action against a person who was not the author, editor etc[^key-5e5e85d944378946828c965566ba58df]
+
+(1) A court does not have jurisdiction to hear and determine an action for defamation brought against a person who was not the author, editor or publisher of the statement complained of unless the court is satisfied that it is not reasonably practicable for an action to be brought against the author, editor or publisher.
+
+(2) In this section “**author**”, “**editor**” and “**publisher**” have the same meaning as in section 1 of the Defamation Act 1996.
+
+## Trial by jury
+
+*Extent: E+W*
+
+### 11. Trial to be without a jury unless the court orders otherwise[^key-bab78261a210f125b3f12e7dac863791]
+
+(1) In section 69(1) of the Senior Courts Act 1981 (certain actions in the Queen's Bench Division to be tried with a jury unless the trial requires prolonged examination of documents etc) in paragraph (b) omit “libel, slander,”.
+
+(2) In section 66(3) of the County Courts Act 1984 (certain actions in the county court to be tried with a jury unless the trial requires prolonged examination of documents etc) in paragraph (b) omit “libel, slander,”.
+
+## Summary of court judgment
+
+*Extent: E+W*
+
+### 12. Power of court to order a summary of its judgment to be published[^key-c41cf2ae86049f34b527db454a9aaaf1]
+
+(1) Where a court gives judgment for the claimant in an action for defamation the court may order the defendant to publish a summary of the judgment.
+
+(2) The wording of any summary and the time, manner, form and place of its publication are to be for the parties to agree.
+
+(3) If the parties cannot agree on the wording, the wording is to be settled by the court.
+
+(4) If the parties cannot agree on the time, manner, form or place of publication, the court may give such directions as to those matters as it considers reasonable and practicable in the circumstances.
+
+(5) This section does not apply where the court gives judgment for the claimant under section 8(3) of the Defamation Act 1996 (summary disposal of claims).
+
+## Removal, etc of statements
+
+*Extent: E+W*
+
+### 13. Order to remove statement or cease distribution etc[^key-eb65a8849b3f29fa8aae21c26e7b2be1]
+
+(1) Where a court gives judgment for the claimant in an action for defamation the court may order—
+
+- (a) the operator of a website on which the defamatory statement is posted to remove the statement, or
+- (b) any person who was not the author, editor or publisher of the defamatory statement to stop distributing, selling or exhibiting material containing the statement.
+
+(2) In this section “**author**”, “**editor**” and “**publisher**” have the same meaning as in section 1 of the Defamation Act 1996.
+
+(3) Subsection (1) does not affect the power of the court apart from that subsection.
+
+## Slander
+
+*Extent: E+W*
+
+### 14. Special damage[^key-6837a86ba8273205fbc5dc895f03f9a0]
+
+(1) The Slander of Women Act 1891 is repealed.
+
+(2) The publication of a statement that conveys the imputation that a person has a contagious or infectious disease does not give rise to a cause of action for slander unless the publication causes the person special damage.
+
+## General provisions
+
+### 15. Meaning of “publish” and “statement”
+
+In this Act— *(Extent: S)* *(affected by repeal, see note)*[^key-cce1622ffc69315f1799f3721a59e833]
+
+- “publish” and “ *(Extent: S)* *(affected by repeal, see note)*[^key-cce1622ffc69315f1799f3721a59e833]**publication *(Extent: S)* *(affected by repeal, see note)*[^key-cce1622ffc69315f1799f3721a59e833]**”, in relation to a statement, have the meaning they have for the purposes of the law of defamation generally; *(Extent: S)* *(affected by repeal, see note)*[^key-cce1622ffc69315f1799f3721a59e833]
+- “ *(Extent: S)* *(affected by repeal, see note)*[^key-cce1622ffc69315f1799f3721a59e833]**statement *(Extent: S)* *(affected by repeal, see note)*[^key-cce1622ffc69315f1799f3721a59e833]**” means words, pictures, visual images, gestures or any other method of signifying meaning. *(Extent: S)* *(affected by repeal, see note)*[^key-cce1622ffc69315f1799f3721a59e833]
+
+### 16. Consequential amendments and savings etc[^c2178345]
+
+(1)[^key-0657211be7b255238bc422de8a8dfc95] Section 8 of the Rehabilitation of Offenders Act 1974 (defamation actions) is amended in accordance with subsections (2) and (3).
+
+(2)[^key-0657211be7b255238bc422de8a8dfc95] In subsection (3) for “of justification or fair comment or” substitute “ under section 2 or 3 of the Defamation Act 2013 which is available to him or any defence ”.
+
+(3)[^key-0657211be7b255238bc422de8a8dfc95] In subsection (5) for “the defence of justification” substitute “ a defence under section 2 of the Defamation Act 2013 ”.
+
+(4) Nothing in section 1 or 14 affects any cause of action accrued before the commencement of the section in question.
+
+(5) Nothing in sections 2 to 7 or 10 has effect in relation to an action for defamation if the cause of action accrued before the commencement of the section in question. *(Extent: S)* *(affected by repeal, see note)*[^key-77eb94fb8dc68ac353a3df41d2e5468d]
+
+(6) In determining whether section 8 applies, no account is to be taken of any publication made before the commencement of the section.
+
+(7) Nothing in section 9 or 11 has effect in relation to an action for defamation begun before the commencement of the section in question.
+
+(8) In determining for the purposes of subsection (7)(a) of section 3 whether a person would have a defence under section 4 to any action for defamation, the operation of subsection (5) of this section is to be ignored.
+
+### 17. Short title, extent and commencement
+
+(1) This Act may be cited as the Defamation Act 2013.
+
+(2) [^key-e4c8f51dc661eecb0aaa658415dc0e64]...This Act extends to England and Wales only.
+
+(3)[^key-19befaadc6f1d727e522289f9604cbb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Subject to subsection[^key-32e34653cc1b04dde408cd44751357f6] (6), the provisions of this Act come into force on such day as the Secretary of State may by order made by statutory instrument appoint.
+
+(5)[^key-96f8198b315d76d70939c84754836315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Section 15, subsections (4) to (8) of section 16 and this section come into force on the day on which this Act is passed.
+
+## Annotations
+
+[^key-1783293f7913571de7f0afe5a886c45b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/26/section/1) in force at 1.1.2014 by [S.I. 2013/3027](https://www.legislation.gov.uk/uksi/2013/3027), [art. 2](https://www.legislation.gov.uk/uksi/2013/3027/article/2)
+
+[^key-6c5acfef9b69dd75735b76770812664f]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/26/section/2) in force at 1.1.2014 by [S.I. 2013/3027](https://www.legislation.gov.uk/uksi/2013/3027), [art. 2](https://www.legislation.gov.uk/uksi/2013/3027/article/2)
+
+[^key-2884ad8287fe44fc3f3e938621493ee6]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/26/section/3) in force at 1.1.2014 by [S.I. 2013/3027](https://www.legislation.gov.uk/uksi/2013/3027), [art. 2](https://www.legislation.gov.uk/uksi/2013/3027/article/2)
+
+[^key-d5e52224a13184f667d47be50bc66ebc]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/26/section/4) in force at 1.1.2014 by [S.I. 2013/3027](https://www.legislation.gov.uk/uksi/2013/3027), [art. 2](https://www.legislation.gov.uk/uksi/2013/3027/article/2)
+
+[^key-1ad679bfc89e0356d41a30b61bb44a10]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/26/section/5) in force at 1.1.2014 by [S.I. 2013/3027](https://www.legislation.gov.uk/uksi/2013/3027), [art. 2](https://www.legislation.gov.uk/uksi/2013/3027/article/2)
+
+[^key-5332f15c335cd8fa44a3e443b57da50d]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/26/section/6) in force for E.W. at 1.1.2014 by [S.I. 2013/3027](https://www.legislation.gov.uk/uksi/2013/3027), [art. 2](https://www.legislation.gov.uk/uksi/2013/3027/article/2)
+
+[^key-b047600ade4ada692fd60ea589e57db7]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2013/26/section/6) repealed (S.) (8.8.2022) by [Defamation and Malicious Publication (Scotland) Act 2021 (asp 10)](https://www.legislation.gov.uk/asp/2021/10), [ss. 35(4)(a)](https://www.legislation.gov.uk/asp/2021/10/section/35/4/a), [39(2)](https://www.legislation.gov.uk/asp/2021/10/section/39/2); [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+
+[^key-e3f20075c13cc695fb575b92a79155b4]: Commencement: [S. 7(1)-(8)](https://www.legislation.gov.uk/ukpga/2013/26/section/7/1) [(10)](https://www.legislation.gov.uk/ukpga/2013/26/section/7/10) [(11)](https://www.legislation.gov.uk/ukpga/2013/26/section/7/11) in force at 1.1.2014 by [S.I. 2013/3027](https://www.legislation.gov.uk/uksi/2013/3027), [art. 2](https://www.legislation.gov.uk/uksi/2013/3027/article/2)
+
+[^key-d68fe2f8caf448f54a91eeea9ab1ce3c]: Commencement: [S. 7(9)](https://www.legislation.gov.uk/ukpga/2013/26/section/7/9) in force for E.W. at 1.1.2014 by [S.I. 2013/3027](https://www.legislation.gov.uk/uksi/2013/3027), [art. 2](https://www.legislation.gov.uk/uksi/2013/3027/article/2)
+
+[^key-c37eb50d99d4d8dc8fdbe3cd71e42d09]: Textual amendment: [S. 7(9)](https://www.legislation.gov.uk/ukpga/2013/26/section/7/9) repealed (S.) (8.8.2022) by [Defamation and Malicious Publication (Scotland) Act 2021 (asp 10)](https://www.legislation.gov.uk/asp/2021/10), [ss. 35(4)(a)](https://www.legislation.gov.uk/asp/2021/10/section/35/4/a), [39(2)](https://www.legislation.gov.uk/asp/2021/10/section/39/2); [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+
+[^key-9c9c2701354dbb55dab2deda94bee888]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/26/section/8) in force at 1.1.2014 by [S.I. 2013/3027](https://www.legislation.gov.uk/uksi/2013/3027), [art. 2](https://www.legislation.gov.uk/uksi/2013/3027/article/2)
+
+[^key-8e302a9f33ecd2b057fff27807666223]: Commencement: S. 9 in force at 1.1.2014 by [S.I. 2013/3027](https://www.legislation.gov.uk/uksi/2013/3027), [art. 2](https://www.legislation.gov.uk/uksi/2013/3027/article/2)
+
+[^key-6c02851e78555c82a671ddd25011bac0]: Textual amendment: Words in s. 9 heading omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [69(2)](https://www.legislation.gov.uk/uksi/2019/479/regulation/69/2) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fe929d3f6b1d1ecc7819f8bd7c9286cd]: Textual amendment: S. 9(1)(b) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [69(3)(a)](https://www.legislation.gov.uk/uksi/2019/479/regulation/69/3/a) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-33e495ffc79a893f0bef6456ded6088e]: Textual amendment: S. 9(1)(c) and word omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [69(3)(b)](https://www.legislation.gov.uk/uksi/2019/479/regulation/69/3/b) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-84eeed2039a51f4ba2ccb5722b7c66e9]: Textual amendment: S. 9(4) substituted (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [69(4)](https://www.legislation.gov.uk/uksi/2019/479/regulation/69/4) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-644cfaf67bf37135307899b0797e4aad]: Textual amendment: S. 9(5) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [69(5)](https://www.legislation.gov.uk/uksi/2019/479/regulation/69/5) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5e5e85d944378946828c965566ba58df]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2013/26/section/10) in force at 1.1.2014 by [S.I. 2013/3027](https://www.legislation.gov.uk/uksi/2013/3027), [art. 2](https://www.legislation.gov.uk/uksi/2013/3027/article/2)
+
+[^key-bab78261a210f125b3f12e7dac863791]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2013/26/section/11) in force at 1.1.2014 by [S.I. 2013/3027](https://www.legislation.gov.uk/uksi/2013/3027), [art. 2](https://www.legislation.gov.uk/uksi/2013/3027/article/2)
+
+[^key-c41cf2ae86049f34b527db454a9aaaf1]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2013/26/section/12) in force at 1.1.2014 by [S.I. 2013/3027](https://www.legislation.gov.uk/uksi/2013/3027), [art. 2](https://www.legislation.gov.uk/uksi/2013/3027/article/2)
+
+[^key-eb65a8849b3f29fa8aae21c26e7b2be1]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2013/26/section/13) in force at 1.1.2014 by [S.I. 2013/3027](https://www.legislation.gov.uk/uksi/2013/3027), [art. 2](https://www.legislation.gov.uk/uksi/2013/3027/article/2)
+
+[^key-6837a86ba8273205fbc5dc895f03f9a0]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2013/26/section/14) in force at 1.1.2014 by [S.I. 2013/3027](https://www.legislation.gov.uk/uksi/2013/3027), [art. 2](https://www.legislation.gov.uk/uksi/2013/3027/article/2)
+
+[^key-cce1622ffc69315f1799f3721a59e833]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/2013/26/section/15) repealed (S.) (8.8.2022) by [Defamation and Malicious Publication (Scotland) Act 2021 (asp 10)](https://www.legislation.gov.uk/asp/2021/10), [ss. 35(4)(a)](https://www.legislation.gov.uk/asp/2021/10/section/35/4/a), [39(2)](https://www.legislation.gov.uk/asp/2021/10/section/39/2); [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+
+[^c2178345]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2013/26/section/16) partly in force; [s. 16(4)-(8)](https://www.legislation.gov.uk/ukpga/2013/26/section/16/4) in force at Royal Assent, see [s. 17(6)](https://www.legislation.gov.uk/ukpga/2013/26/section/17/6)
+
+[^key-0657211be7b255238bc422de8a8dfc95]: Commencement: [S. 16(1)-(3)](https://www.legislation.gov.uk/ukpga/2013/26/section/16/1) in force at 1.1.2014 by [S.I. 2013/3027](https://www.legislation.gov.uk/uksi/2013/3027), [art. 2](https://www.legislation.gov.uk/uksi/2013/3027/article/2)
+
+[^key-77eb94fb8dc68ac353a3df41d2e5468d]: Textual amendment: [S. 16(5)](https://www.legislation.gov.uk/ukpga/2013/26/section/16/5) repealed (S.) (8.8.2022) by [Defamation and Malicious Publication (Scotland) Act 2021 (asp 10)](https://www.legislation.gov.uk/asp/2021/10), [ss. 35(4)(a)](https://www.legislation.gov.uk/asp/2021/10/section/35/4/a), [39(2)](https://www.legislation.gov.uk/asp/2021/10/section/39/2); [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+
+[^key-e4c8f51dc661eecb0aaa658415dc0e64]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/ukpga/2013/26/section/17/2) repealed (S.) (8.8.2022) by [Defamation and Malicious Publication (Scotland) Act 2021 (asp 10)](https://www.legislation.gov.uk/asp/2021/10), [ss. 35(4)(b)(i)](https://www.legislation.gov.uk/asp/2021/10/section/35/4/b/i), [39(2)](https://www.legislation.gov.uk/asp/2021/10/section/39/2); [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+
+[^key-19befaadc6f1d727e522289f9604cbb9]: Textual amendment: [S. 17(3)](https://www.legislation.gov.uk/ukpga/2013/26/section/17/3) repealed (S.) (8.8.2022) by [Defamation and Malicious Publication (Scotland) Act 2021 (asp 10)](https://www.legislation.gov.uk/asp/2021/10), [ss. 35(4)(b)(ii)](https://www.legislation.gov.uk/asp/2021/10/section/35/4/b/ii), [39(2)](https://www.legislation.gov.uk/asp/2021/10/section/39/2); [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+
+[^key-32e34653cc1b04dde408cd44751357f6]: Textual amendment: Word in [s. 17(4)](https://www.legislation.gov.uk/ukpga/2013/26/section/17/4) substituted (S.) (8.8.2022) by [Defamation and Malicious Publication (Scotland) Act 2021 (asp 10)](https://www.legislation.gov.uk/asp/2021/10), [ss. 35(4)(b)(iii)](https://www.legislation.gov.uk/asp/2021/10/section/35/4/b/iii), [39(2)](https://www.legislation.gov.uk/asp/2021/10/section/39/2); [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+
+[^key-96f8198b315d76d70939c84754836315]: Textual amendment: [S. 17(5)](https://www.legislation.gov.uk/ukpga/2013/26/section/17/5) repealed (S.) (8.8.2022) by [Defamation and Malicious Publication (Scotland) Act 2021 (asp 10)](https://www.legislation.gov.uk/asp/2021/10), [ss. 35(4)(b)(ii)](https://www.legislation.gov.uk/asp/2021/10/section/35/4/b/ii), [39(2)](https://www.legislation.gov.uk/asp/2021/10/section/39/2); [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)

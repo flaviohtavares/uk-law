@@ -1,0 +1,27 @@
+---
+title: The Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019, section 352
+act: The Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019
+section: '352'
+status: revised
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/705/section/352
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019, section 352
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 352. Amendment of Commission Implementing Decision (EU) 2017/2450[^key-48cfa89f1f35a9b036b28bcca149bc1a]
+
+*Extent: E+W+S+N.I.*
+
+Commission Implementing Decision (EU) 2017/2450 authorising the placing on the market of products containing, consisting of, or produced from genetically modified soybean DAS-44406-6, pursuant to Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/eur/2003/1829) of the European Parliament and of the Council on genetically modified food and feed is amended as follows.
+
+## Annotations
+
+[^key-48cfa89f1f35a9b036b28bcca149bc1a]: Commencement: Reg. 352 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

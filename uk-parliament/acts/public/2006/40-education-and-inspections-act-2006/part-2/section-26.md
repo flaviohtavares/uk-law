@@ -1,0 +1,52 @@
+---
+title: Education and Inspections Act 2006, section 26
+act: Education and Inspections Act 2006
+section: '26'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2006/40/section/26
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Education and Inspections Act 2006, section 26
+
+> **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 26. Proposals under section 25: procedure[^key-240801312233a99f6b9662ea9bf9c8b5]
+
+*Extent: E+W*
+
+(1) Regulations may make provision about the publication and determination of proposals under section 25.
+
+(2) The provision that may be made includes provision—
+
+- (a) about the information to be included in, or provided in relation to, the proposals;
+- (b) about consultation on the proposals;
+- (c) about the manner in which proposals are to be published under section 25;
+- (d) for the making of objections to or comments on the proposals;
+- (e) for the withdrawal of proposals in prescribed cases;
+- (f) for the consideration of the proposals by the governing body;
+- (g) enabling the governing body to approve or reject the proposals;
+- (h) enabling the governing body to reject any proposals published in pursuance of a requirement under section 25(5) (“required proposals”) only by a decision made with the support of a prescribed proportion of the governors;
+- (i) for the approval of required proposals given in the prescribed manner by a prescribed proportion of the governors to be treated as approval by the governing body;
+- (j) for the approval of proposals either without modifications or in prescribed cases with modifications of a prescribed kind;
+- (k) as to the manner in which, and time within which, anything authorised or required by the regulations must be done.
+
+(3) Regulations under this section may in prescribed cases—
+
+- (a) require the governing body to ensure that matters relating to—
+  - (i) any transfer which may be required by virtue of subsection (2)(b) of section 27, or
+  - (ii) any payment which might be required by virtue of subsection (4) or (5) of that section,
+
+  are agreed or determined before the proposals are published, and
+- (b) enable or require any such matter to be referred to the adjudicator for determination before the proposals are published.
+
+(4) Regulations under this section may require any prescribed person, in exercising functions under the regulations, to have regard to any guidance given from time to time by the Secretary of State.
+
+## Annotations
+
+[^key-240801312233a99f6b9662ea9bf9c8b5]: Commencement: S. 26 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(e)](https://www.legislation.gov.uk/uksi/2007/935/article/5/e)

@@ -1,0 +1,229 @@
+---
+title: The Civil Enforcement of Traffic Contraventions (Consequential Amendments) (England) Regulations 2018
+id: uksi/2018/488
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2018-04-16'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2018/488
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/488/pdfs/uksiem_20180488_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/488/pdfs/uksi_20180488_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/488/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Enforcement of Traffic Contraventions (Consequential Amendments) (England) Regulations 2018
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2018 No. 488
+
+Road Traffic
+
+The Civil Enforcement of Traffic Contraventions (Consequential Amendments) (England) Regulations 2018
+
+Made
+
+16th April 2018
+
+Laid before Parliament
+
+20th April 2018
+
+Coming into force
+
+18th May 2018
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 73(4) of the Traffic Management Act 2004[^f00001] and by section 4(19) of the London Local Authorities and Transport for London Act 2003[^f00002].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Civil Enforcement of Traffic Contraventions (Consequential Amendments) (England) Regulations 2018 and come into force on 18th May 2018.
+
+## 2. Amendment of Part 1 of Schedule 7 to the Traffic Management Act 2004
+
+(1) Part 1 (parking contraventions) of Schedule 7 to the Traffic Management Act 2004 is amended as follows.
+
+(2) In paragraph 3(2)—
+
+- (a) in paragraph (c) for “regulation 18 or 20 of the Zebra, Pelican and Puffin Pedestrian Crossings Regulations and General Directions 1997 ([S.I. 1997/2400](https://www.legislation.gov.uk/uksi/1997/2400))” substitute “paragraph 1 or 3 of Part 5 of Schedule 14 to the Traffic Signs Regulations and General Directions 2016 ([S.I. 2016/362](https://www.legislation.gov.uk/uksi/2016/362))”; and
+- (b) for paragraph (h) substitute—
+
+  > - (h) an offence under section 36(1) of the Road Traffic Act 1988[^f00003] (failure to comply with traffic sign) of failing to comply with a sign of the type referred to in—
+  >   - (i) item 51 or 53 in the table in Part 2 of Schedule 14 to the Traffic Signs Regulations and General Directions 2016[^f00004], where that sign is placed for the purposes of a signal-controlled crossing facility or a parallel crossing as defined by Schedule 1 to that Instrument; or
+  >   - (ii) paragraph 1 of Part 6 of Schedule 7 to that Instrument (bus stop or bus stand clearway markings).
+
+  .
+
+(3) In paragraph 4(2)—
+
+- (a) after paragraph (b) insert—
+
+  > - (ba) an offence committed in England under section 25(5) of the Road Traffic Regulation Act 1984[^f00005] of contravening paragraph 1 or 3 of Part 5 of Schedule 14 to the Traffic Signs Regulations and General Directions 2016 ([S.I. 2016/362](https://www.legislation.gov.uk/uksi/2016/362));
+
+  ;
+- (b) in paragraph (c) after “offence” insert “committed in Wales”;
+- (c) after paragraph (h) insert—
+
+  > - (ha) an offence committed in England under section 36(1) of the Road Traffic Act 1988 (failure to comply with traffic sign) of failing to comply with a sign of the type referred to in—
+  >   - (i) item 51 or 53 in the table in Part 2 of Schedule 14 to the Traffic Signs Regulations and General Directions 2016, where that sign is placed for the purposes of a signal-controlled crossing facility or a parallel crossing as defined by Schedule 1 to that Instrument; or
+  >   - (ii) paragraph 1 of Part 6 of Schedule 7 to that Instrument (bus stop or bus stand clearway markings);
+
+  ; and
+- (d) in paragraph (i) after “offence” insert “committed in Wales”.
+
+## 3. Amendment of Part 4 of Schedule 7 to the Traffic Management Act 2004
+
+(1) Part 4 (moving traffic contraventions) of Schedule 7 to the Traffic Management Act 2004 is amended as follows.
+
+(2) After paragraph 8 insert—
+
+> **8A. Traffic signs subject to civil enforcement in England**
+>
+> (1) The tables in sub-paragraph (5) specify the traffic signs that are subject to civil enforcement in England.
+>
+> (2) In Table A—
+>
+> - (a) column (1) sets out the description, corresponding to the description in the Traffic Signs Regulations and General Directions 2016 ([S.I. 2016/362](https://www.legislation.gov.uk/uksi/2016/362)), of the requirement, restriction or prohibition conveyed by the sign, and
+> - (b) column (2) sets out the number given to the diagram illustrating the sign in that instrument and the place in that instrument where that diagram appears.
+>
+> (3) In Table B—
+>
+> - (a) column (1) sets out the description, corresponding to the description in the Traffic Signs Regulations and General Directions 2002 ([S.I. 2002/3113](https://www.legislation.gov.uk/uksi/2002/3113))[^f00006], of the requirement, restriction or prohibition conveyed by the sign, and
+> - (b) column (2) sets out the number given to the diagram illustrating the sign in that instrument and the place in that instrument where that diagram appears.
+>
+> (4) References in the tables to any sign include—
+>
+> - (a) any permitted variant of that sign, and
+> - (b) where alternative types are shown, any of those types.
+>
+> (5) The tables are as follows—
+>
+> Table A
+>
+> | (1) Description | (2) Diagram number (with location in the Traffic Signs Regulations and General Directions 2016) |
+> | --- | --- |
+> | Vehicular traffic must proceed in the direction indicated by the arrow | 606 (Schedule 3, Part 2, item 1 and Schedule 14, Part 2, item 42) |
+> | Vehicular traffic must turn ahead in the direction indicated by the arrow | 609 (Schedule 3, Part 2, item 2) |
+> | Vehicular traffic must comply with the requirements described in paragraph 3 of Part 4 of Schedule 3 | 610 (Schedule 3, Part 2, item 3) |
+> | No right turn for vehicular traffic | 612 (Schedule 3, Part 2, item7 and Schedule 14, Part 2, item 43) |
+> | No left turn for vehicular traffic | 613 (Schedule 3, Part 2, item 8 and Schedule 14, Part 2, item 43) |
+> | No U-turns for vehicular traffic | 614 (Schedule 3, Part 2, item 6 and Schedule 14, Part 2, item 43) |
+> | Priority must be given to vehicles from the opposite direction | 615 (Schedule 3, Part 2, item 9) |
+> | No entry for vehicular traffic (when the restriction or prohibition is one that may be indicated by another traffic sign subject to civil enforcement) | 616 (Schedule 3, Part 2, item 10 and Schedule 14, Part 2, item 44) |
+> | All vehicles prohibited except non-mechanically propelled vehicles being pushed by pedestrians | 617 (Schedule 3, Part 2, item 11) |
+> | Entry to and waiting in a pedestrian zone restricted | 618.3B (Schedule 8, Part 2, item 1) |
+> | Entry to and waiting in a pedestrian and cycle zone restricted | 618.3C (Schedule 8, Part 2, item 2) |
+> | Motor vehicles prohibited | 619 (Schedule 3, Part 2, item 12) |
+> | Motor vehicles except solo motor cycles prohibited | 619.1 (Schedule 3, Part 2, item 18) |
+> | Solo motor cycles prohibited | 619.2 (Schedule 3, Part 2, item 20) |
+> | Goods vehicles exceeding the maximum gross weight indicated on the goods vehicle symbol prohibited | 622.1A (Schedule 3, Part 2, item 13) |
+> | One way traffic | 652 (Schedule 9, Part 4, item 5) |
+> | Buses prohibited | 952 (Schedule 3, Part 2, item 17) |
+> | Route for use by buses, pedal cycles and taxis only | 953 (Schedule 3, Part 2, item 33) |
+> | Route for use by tramcars only | 953.1 (Schedule 3, Part 2, item 36) |
+> | Route for use by pedal cycles only | 955 (Schedule 3, Part 2, item 28) |
+> | Route for use by pedal cycles and by pedestrians only | 956 (Schedule 3, Part 2, item 29) |
+> | Route comprising two ways, for use by pedal cycles only and by pedestrians only | 957 (Schedule 3, Part 2, item 32) |
+> | With-flow cycle lane | 959.1 (Schedule 9, Part 4, item 9) |
+> | Contra-flow cycle lane | 960.1 (Schedule 9, Part 4, item 6) |
+> | Marking conveying the requirements in paragraph 11 of Part 7 of Schedule 9 (box junction) | 1043 (Schedule 9, Part 6, item 25) |
+>
+> Table B
+>
+> | (1) Description | (2) Diagram number (with location in the Traffic Signs Regulations and General Directions 2002) |
+> | --- | --- |
+> | Entry to pedestrian zone restricted | 618.2 (Schedule 2) |
+> | Entry to and waiting in pedestrian zone restricted | 618.3 (Schedule 2) |
+> | Entry to and waiting in pedestrian zone restricted (variable message sign) | 618.3A (Schedule 2) |
+
+(3) In paragraph 9, in both the heading and sub-paragraph (1), after “civil enforcement” insert “in Wales”.
+
+(4) In paragraph 10—
+
+- (a) in the heading, for “table” substitute “tables”;
+- (b) in sub-paragraph (1), for “table in paragraph 9(4)” substitute “relevant table”;
+- (c) in sub-paragraph (2), before “table” insert “relevant”; and
+- (d) after sub-paragraph (3), insert—
+
+  > (4) In this paragraph “the relevant table” means—
+  >
+  > - (a) as regards England, Table A or Table B in paragraph 8A(5);
+  > - (b) as regards Wales, the table in paragraph 9(4).
+
+  .
+
+## 4. Amendment of the London Local Authorities and Transport for London Act 2003
+
+(1) Schedule 3 to the London Local Authorities and Transport for London Act 2003 is amended as follows.
+
+(2) In paragraph 1 for “Traffic Signs Regulations and General Directions 2002 ([S.I. 2002 No. 3113](https://www.legislation.gov.uk/uksi/2002/3113)) “(the 2002 Regulations)”” substitute “Traffic Signs Regulations and General Directions 2016 ([S.I. 2016/362](https://www.legislation.gov.uk/uksi/2016/362)) “(the 2016 Regulations)””.
+
+(3) In paragraph 3 for “2002 Regulations” substitute “2016 Regulations”.
+
+(4) For the table in paragraph 4 substitute—
+
+> | (1) Description | (2) Diagram number (with location in the Traffic Signs Regulations and General Directions 2016) |
+> | --- | --- |
+> | Vehicular traffic must proceed in the direction indicated by the arrow | 606 (Schedule 3, Part 2, item 1 and Schedule 14, Part 2, item 42) |
+> | Vehicular traffic must turn ahead in the direction indicated by the arrow | 609 (Schedule 3, Part 2, item 2) |
+> | Vehicular traffic must comply with the requirements described in paragraph 3 of Part 4 of Schedule 3 | 610 (Schedule 3, Part 2, item 3) |
+> | No right turn for vehicular traffic | 612 (Schedule 3, Part 2, item7 and Schedule 14, Part 2, item 43) |
+> | No left turn for vehicular traffic | 613 (Schedule 3, Part 2, item 8 and Schedule 14, Part 2, item 43) |
+> | No U-turns for vehicular traffic | 614 (Schedule 3, Part 2, item 6 and Schedule 14, Part 2, item 43) |
+> | Priority must be given to vehicles from the opposite direction | 615 (Schedule 3, Part 2, item 9) |
+> | No entry for vehicular traffic | 616 (Schedule 3, Part 2, item 10 and Schedule 14, Part 2, item 44) |
+> | All vehicles prohibited except non-mechanically propelled vehicles being pushed by pedestrians | 617 (Schedule 3, Part 2, item 11) |
+> | Entry to and waiting in a pedestrian zone restricted | 618.3B (Schedule 8, Part 2, item 1) |
+> | Entry to and waiting in a pedestrian and cycle zone restricted | 618.3C (Schedule 8, Part 2, item 2) |
+> | Motor vehicles prohibited | 619 (Schedule 3, Part 2, item 12) |
+> | Motor vehicles except solo motor cycles prohibited | 619.1 (Schedule 3, Part 2, item 18) |
+> | Solo motor cycles prohibited | 619.2 (Schedule 3, Part 2, item 20) |
+> | Goods vehicles exceeding the maximum gross weight indicated on the goods vehicle symbol prohibited | 622.1A (Schedule 3, Part 2, item 13) |
+> | One way traffic | 652 (Schedule 9, Part 4, item 5) |
+> | Route for use by buses, pedal cycles and taxis only | 953 (Schedule 3, Part 2, item 33) |
+> | Route for use by tramcars only | 953.1 (Schedule 3, Part 2, item 36) |
+> | Part of the carriageway outside an entrance where vehicles should, or must, not stop | 1027.1 (Schedule 7, Part 4, item 10) |
+> | Marking conveying the requirements in paragraph 11 of Part 7 of Schedule 9 (box junction) | 1043 (Schedule 9, Part 6, item 25) |
+
+Signed by authority of the Secretary of State for Transport
+
+Jesse Norman
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+16th April 2018
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Traffic Signs Regulations and General Directions 2016 ([S.I. 2016/362](https://www.legislation.gov.uk/uksi/2016/362)) revoke and replace with amendments the Traffic Signs Regulations and General Directions 2002 ([S.I. 2002/3113](https://www.legislation.gov.uk/uksi/2002/3113)), the Zebra, Pelican and Puffin Pedestrian Crossings Regulations and General Directions 1997 ([S.I. 1997/2400](https://www.legislation.gov.uk/uksi/1997/2400)) and other instruments (“the revoked instruments”).
+
+These Regulations make consequential amendments to provisions in Acts of Parliament which refer to the revoked instruments. Regulation 2 amends, with respect to England, provisions in Part 1 (parking contraventions) of Schedule 7 to the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18). Regulation 3 amends Part 4 (moving vehicle contraventions) of that Schedule to that Act and regulation 4 amends Schedule 3 to the London Local Authorities and Transport for London Act 2003 (c. iii).
+
+A full regulatory impact assessment has not been prepared as this instrument will have no impact on the costs of business or the voluntary sector.
+
+An Explanatory Memorandum has been prepared for these Regulations and is available alongside this instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
+
+[^f00002]: Footnote: [2003 c. iii](https://www.legislation.gov.uk/ukla/2003/3). Section 4 is brought into force by resolution of a borough council or a decision of Transport for London under sections 1(2) and 3(1) of that Act and notice of such resolution or decision is published in the Gazette (www.thegazette.co.uk) pursuant to section 3(5) of that Act. The list of borough councils which have made such a resolution is available from the Traffic and Technology Division, Department of Transport, Zone 3/27 Great Minster House, 33 Horseferry Road, London SW1P 4DR.
+
+[^f00003]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52). Section 36(1) is amended by paragraph 46 of Schedule 6 to the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
+
+[^f00004]: Footnote: Items 51 and 53 are amended by [S.I. 2017/1086](https://www.legislation.gov.uk/uksi/2017/1086).
+
+[^f00005]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
+
+[^f00006]: Footnote: Although the Traffic Signs Regulations and General Directions 2002 (“the 2002 instrument”) are revoked by regulation 13 and direction 12 of, and Schedule 19 to, the Traffic Signs Regulations and General Directions 2016 (“the 2016 instrument”), regulation 14(2) and (4) of the 2016 instrument treats certain signs prescribed by, and conforming with, the 2002 instrument as prescribed by, and conforming with, the 2016 instrument.

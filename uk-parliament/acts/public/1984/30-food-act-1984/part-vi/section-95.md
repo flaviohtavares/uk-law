@@ -1,0 +1,50 @@
+---
+title: Food Act 1984, section 95
+act: Food Act 1984
+section: '95'
+status: revised
+text_date: '2025-08-18'
+extent: E+W+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1984/30/section/95
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Food Act 1984, section 95
+
+> Text as at 2025-08-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 95. Prosecutions.
+
+*Extent: E+W+N.I.*
+
+(1) No prosecution for an offence under this Act or regulations made under this Act which is triable either summarily or on indictment shall be begun after the expiry of—
+
+- (a) three years from the commission of the offence, or
+- (b) one year from its discovery by the prosecutor,
+
+whichever is the earlier.
+
+(2)[^M_F_a60282e3-77ab-4613-f65b-b1139f2a65b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^M_F_a60282e3-77ab-4613-f65b-b1139f2a65b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^M_F_a60282e3-77ab-4613-f65b-b1139f2a65b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^M_F_a60282e3-77ab-4613-f65b-b1139f2a65b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^M_F_a60282e3-77ab-4613-f65b-b1139f2a65b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^M_F_a60282e3-77ab-4613-f65b-b1139f2a65b3][^c1022500] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^M_F_a60282e3-77ab-4613-f65b-b1139f2a65b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^M_F_a60282e3-77ab-4613-f65b-b1139f2a65b3]: Textual amendment: S. 95(2)-(8) repealed (E.W.S.) by [Food Safety Act 1990 (c. 16, SIF 53:1, 2)](https://www.legislation.gov.uk/ukpga/1990/16), [ss. 54](https://www.legislation.gov.uk/ukpga/1990/16/section/54), [59(4)](https://www.legislation.gov.uk/ukpga/1990/16/section/59/4), [Sch. 5](https://www.legislation.gov.uk/ukpga/1990/16/schedule/5)
+
+    \[Editorial note: Act no longer applies to N.I. by virtue of the repeals made (4.11.1991) by [The Food Safety (Northern Ireland) Order 1991 (S.I. 1991/762)](https://www.legislation.gov.uk/uksi/1991/762), [art. 1(2)](https://www.legislation.gov.uk/uksi/1991/762/article/1/2), [51](https://www.legislation.gov.uk/uksi/1991/762/article/51), [Sch. 4](https://www.legislation.gov.uk/uksi/1991/762/schedule/4)\]
+
+[^c1022500]: Textual amendment: [S. 95(7)](https://www.legislation.gov.uk/ukpga/1984/30/section/95/7) repealed (N.I.) (4.11.1991) by [S.I. 1991/762](https://www.legislation.gov.uk/uksi/1991/762), [art. 51(4)](https://www.legislation.gov.uk/uksi/1991/762/article/51/4), [Sch. 4](https://www.legislation.gov.uk/uksi/1991/762/schedule/4); [S.R. 1991/175](https://www.legislation.gov.uk/nisr/1991/175), [art. 2(2)](https://www.legislation.gov.uk/nisr/1991/175/article/2/2).

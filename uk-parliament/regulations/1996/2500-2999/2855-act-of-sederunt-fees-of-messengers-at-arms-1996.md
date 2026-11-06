@@ -1,0 +1,172 @@
+---
+title: Act of Sederunt (Fees of Messengers-at-Arms) 1996
+id: uksi/1996/2855
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1996-11-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1996/2855
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/2855/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Act of Sederunt (Fees of Messengers-at-Arms) 1996
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1996 No. 2855 (S.217)
+
+COURT OF SESSION, SCOTLAND
+
+Act of Sederunt (Fees of Messengers-at-Arms) 1996
+
+Made
+
+12th November 1996
+
+Coming into force
+
+1st January 1997
+
+The Lords of Council and Session, under and by virtue of the powers conferred on them by section 6 of the Execution of Diligence (Scotland) Act 1926[^f00001], section 5 of the Court of Session Act 1988[^f00002] and of all other powers enabling them in that behalf, do hereby, with the concurrence of the Lord Lyon King of Arms, enact and declare:
+
+## 1. Citation and commencement
+
+(1) This Act of Sederunt may be cited as the Act of Sederunt (Fees of Messengers-at-Arms) 1996 and shall come into force on 1st January 1997.
+
+(2) This Act of Sederunt shall be inserted in the Books of Sederunt.
+
+## 2. Amendment of fees
+
+(1) Subject to sub-paragraph (2) below, the Table of Fees in the Schedule to this Act of Sederunt shall be substituted for the Table in Schedule 1 to the Act of Sederunt (Fees of Messengers-at-Arms) 1994[^f00003] and shall apply to work carried out by a messenger-at-arms on or after the date on which this Act of Sederunt comes into force.
+
+(2) Sub-paragraph (1) above does not affect the fees payable as respects any work so carried out before the date mentioned in that sub-paragraph.
+
+Rodger of Earlsferry
+
+Lord President
+
+I.P.D.
+
+Edinburgh
+
+12th November 1996
+
+## SCHEDULE
+
+Para.2(1)
+
+Table of Fees
+
+|  | Item | Band 1 | Band 2 | Band 3 |
+| --- | --- | --- | --- | --- |
+| 1\. | *Service or intimation of a document* |  |  |  |
+| (a) | Service |  |  |  |
+|  | (i) each person at a different address | £34.50 | £58.50 | £73.85 |
+| address or additional copy required to be served or intimated under the Act of 1987 | (ii) each additional person at the same £11.50 | £11.50 | £11.50 |  |
+| (b) | Postal service | £16.90 | £16.90 | £16.90 |
+| (c) | Postal diligence | £25.55 | £25.55 | £25.55 |
+|  |  |  |  |  |
+| 2\. | *Inhibitions* |  |  |  |
+| (a) | Inhibition only |  |  |  |
+|  | (i) each person at a different address | £36.30 | £58.50 | £73.85 |
+| address | (ii) each additional person at the same £18.80 | £18.80 | £18.80 |  |
+| (b) | Inhibition and service |  |  |  |
+|  | (i) each person at a different address | £47.75 | £69.95 | £85.60 |
+| address | (ii) each additional person at the same £30.40 | £30.40 | £30.40 |  |
+| (c) | Inhibition, service and interdict |  |  |  |
+|  | (i) each person at a different address | £116.00 | £116.00 | £116.00 |
+| address | (ii) each additional person at the same £49.25 | £49.25 | £49.25 |  |
+|  |  |  |  |  |
+| 3\. | *Interdicts* |  |  |  |
+| (a) | Interdict only |  |  |  |
+|  | (i) each person at a different address | £85.60 | £85.60 | £85.60 |
+| address | (ii) each additional person at the same £18.80 | £18.80 | £18.80 |  |
+| (b) | Interdict and service |  |  |  |
+|  | (i) each person at a different address | £97.10 | £97.10 | £97.10 |
+| address | (ii) each additional person at the same £30.40 | £30.40 | £30.40 |  |
+| (c) | Interdict, service and inhibition |  |  |  |
+|  | (i) each person at a different address | £116.00 | £116.00 | £116.00 |
+| address | (ii) each additional person at the same £49.25 | £49.25 | £49.25 |  |
+|  |  |  |  |  |
+| 4\. | *Poindings* |  |  |  |
+| (a) | Serving notice of entry | £6.45 | £6.45 | £6.45 |
+| (b) endeavouring, but being unable, to execute it for whatever reason | Arranging poinding and £48.50 | £48.50 | £48.50 |  |
+| (c) where appraised value is- | Arranging and executing poinding |  |  |  |
+|  | (i) £399 or under | £56.75 | £56.75 | £56.75 |
+|  | (ii) over £399 and up to £1,605 | £87.90 | £87.90 | £87.90 |
+| 10% of the appraised value only | (iii) Over £1,605 and up to £16,156 - |  |  |  |
+| 10% of the first £16,156, 5% thereafter up to £80,771 of the appraised value | (iv) Over £16,156 and up to £80,771 -£16,156, 5% thereafter up to £80,771 and 1% of the appraised value over £80,771 | (v) Over £80,771—10% of the first |  |  |
+| (d) | Reporting poinding | £5.45 | £5.45 | £5.45 |
+|  |  |  |  |  |
+| 5\. | *Poindings of motor vehicles, heavy plant or machinery* |  |  |  |
+| (a) | Arranging and executing poinding where appraised value is— |  |  |  |
+|  | (i) £399 or under | £56.75 | £56.75 | £56.75 |
+|  | (ii) Over £399 and up to £1,775 | £87.90 | £87.90 | £87.90 |
+| 5% of the appraised value only | (iii) Over £1,775 and up to £80,771 - |  |  |  |
+| £80,771, and 1% thereafter of the appraised value | (iv) Over £80,771—5% of the first |  |  |  |
+| (b) | Reporting poinding | £5.45 | £5.45 | £5.45 |
+|  |  |  |  |  |
+| 6\. | *Sequestrations for rent, poinding of ground* |  |  |  |
+| (a) | Arranging for the sequestration or poinding of the ground and endeavouring, but being unable, to execute it for whatever reason | £46.30 | £46.30 | £46.30 |
+| (b) | Arranging and effecting sequestration or poinding of the ground | £85.60 | £85.60 | £85.60 |
+|  |  |  |  |  |
+| 7\. | *Sales* |  |  |  |
+| (a) variation of a warrant of sale | (i) Application for warrant of sale or £10.75 | £10.75 | £10.75 |  |
+| 1(a) or (b) above, as the case may be | (ii) Intimating application—as in item |  |  |  |
+| (b) | (i) Arranging warrant sale, preparing advertisement and giving public notice | £14.00 | £14.00 | £14.00 |
+|  | (ii) Serving copy of warrant of sale and intimating the place and date of sale and if necessary the date of removal of poinded effects—as in item 1(a) or (b) above, as the case may be |  |  |  |
+| (c) | Attending warrant sale alone conducted by auctioneer | £24.35 | £41.25 | £52.10 |
+| (d) | (i) Attending warrant sale with witness and being unable to execute it for whatever reason | £46.30 | £46.30 | £46.30 |
+|  | (ii) Conducting warrant sale with witness where the appraised value is— £399 or under | £54.55 | £54.55 | £54.55 |
+|  | Over £399 | £85.60 | £85.60 | £85.60 |
+|  |  |  |  |  |
+| 8\. | *Ejections* |  |  |  |
+| (a) | Arranging ejection | £46.30 | £46.30 | £46.30 |
+| (b) | Arranging and executing ejection | £71.95 | £71.95 | £71.95 |
+| 9\. | *Taking possession of effects* |  |  |  |
+| (a) | Arranging possession | £46.30 | £46.30 | £46.30 |
+| (b) | Arranging and effecting possession | £85.60 | £85.60 | £85.60 |
+|  |  |  |  |  |
+| 10\. | *Apprehensions* |  |  |  |
+| (a) | Arranging apprehension | £46.30 | £46.30 | £46.30 |
+| (b) | Arranging and apprehending | £85.60 | £85.60 | £85.60 |
+|  |  |  |  |  |
+| 11\. | *Taking possession of children* |  |  |  |
+| (a) | Arranging to take possession | £46.30 | £46.30 | £46.30 |
+| (b) | Taking possession of each child | £85.60 | £85.60 | £85.60 |
+|  |  |  |  |  |
+| 12\. | *Arresting vessels, aircraft and cargo* |  |  |  |
+| (a) | Arranging to arrest | £46.30 | £46.30 | £46.30 |
+| (b) | Arranging and effecting arrestment | £141.50 | £141.50 | £141.50 |
+|  |  |  |  |  |
+| 13\. | *Miscellaneous* |  |  |  |
+| (a) under the Act of 1987 with the exception of reporting a poinding | Making any report or application £10.70 | £10.70 | £10.70 |  |
+| (b) issued under the Act of 1987 | Granting any receipt required to be £5.45 | £5.45 | £5.45 |  |
+| (c) tradesman to be in attendance | Arranging for locksmith or £3.45 | £3.45 | £3.45 |  |
+| (d) | Granting certificate of displenishment or providing any other certificate or report, registering any document or making any application to a court or the creditor | £10.70 | £10.70 | £10.70 |
+| (e) | Executing warrant to open lockfast places | £10.70 | £10.70 | £10.70 |
+| (f) | Time |  |  |  |
+|  | (i) with witness — £17.15 per unit |  |  |  |
+|  | (ii) without witness — £12.80 per unit |  |  |  |
+| (g) | Photocopies |  |  |  |
+|  | (i) first page of document—£1.20 |  |  |  |
+|  | (ii) subsequent pages—per page—£0.55. |  |  |  |
+
+(This note is not part of the Act of Sederunt)
+
+This Act of Sederunt amends the Act of Sederunt (Fees of Messengers-at-Arms) 1994 ([S.I. 1994/391](https://www.legislation.gov.uk/uksi/1994/391)) by increasing the fees payable to Messengers-at-Arms by about 3%. The last increase was in the Act of Sederunt (Fees of Messengers-at-Arms) 1995 ([SI 1995/3094](https://www.legislation.gov.uk/uksi/1995/3094)).
+
+## Annotations
+
+[^f00001]: Footnote: [1926 c. 16](https://www.legislation.gov.uk/ukpga/1926/16).
+
+[^f00002]: Footnote: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
+
+[^f00003]: Footnote: [S.I. 1994/391](https://www.legislation.gov.uk/uksi/1994/391), as amended by [S.I. 1994/3268](https://www.legislation.gov.uk/uksi/1994/3268) and [1995/3094](https://www.legislation.gov.uk/uksi/1995/3094).

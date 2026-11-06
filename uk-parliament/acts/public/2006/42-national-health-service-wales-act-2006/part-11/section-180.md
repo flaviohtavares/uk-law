@@ -1,0 +1,38 @@
+---
+title: National Health Service (Wales) Act 2006, section 180
+act: National Health Service (Wales) Act 2006
+section: '180'
+status: revised-with-pending-changes
+text_date: '2026-03-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2006/42/section/180
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# National Health Service (Wales) Act 2006, section 180
+
+> **Warning: changes not yet applied to this text (24).** Text as at 2026-03-28. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/42
+>
+> Extent: England, Wales.
+
+## 180. Special arrangement as to payment of remuneration
+
+*Extent: E+W*
+
+(1) Subsection (2) applies where the Welsh Ministers consider it appropriate for remuneration in respect of—
+
+- (a) primary medical services or primary dental services,
+- (b) general ophthalmic services, or
+- (c) pharmaceutical services,
+
+to be paid by a particular body.
+
+(2) Where this subsection applies, and the functions of the body do not include the function of paying the remuneration, the Welsh Ministers may by order confer that function on that body.
+
+(3) Any sums required to enable a body to pay the remuneration must, if apart from this section there is no provision authorising the payment of the sums by the Welsh Ministers or out of money provided by Parliament, be paid by them.
+
+(4) If the Welsh Ministers by order so provide with respect to remuneration in respect of such pharmaceutical services or such local pharmaceutical services as may be specified in the order—
+
+- (a) an NHS trust determined in accordance with the order has the function of paying sums so determined to a Local Health Board so determined in respect of the whole or any part of that remuneration, and
+- (b) subsection (3) does not apply with respect to the whole or that part of the remuneration.

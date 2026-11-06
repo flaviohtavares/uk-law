@@ -1,0 +1,19 @@
+---
+title: THE COURT OF PROTECTION RULES 1994, section 33
+act: THE COURT OF PROTECTION RULES 1994
+section: '33'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/3046/section/33
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# THE COURT OF PROTECTION RULES 1994, section 33
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 33. Administration of oaths
+
+The court may direct that an oath be administered to any witness or interpreter in any proceedings before the court.

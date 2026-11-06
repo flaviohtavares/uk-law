@@ -1,0 +1,77 @@
+---
+title: The Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020
+id: uksi/2020/927
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-09-01'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/927
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/927/pdfs/uksiem_20200927_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/927/pdfs/uksi_20200927_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/927/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 927
+
+Social Security
+
+The Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020
+
+Made
+
+1st September 2020
+
+Laid before Parliament
+
+2nd September 2020
+
+Coming into force
+
+23rd September 2020
+
+The Secretary of State for Work and Pensions makes the following Order in exercise of the powers conferred by article 4(1) of the Welfare Reform (Northern Ireland) Order 2015[^f00001].
+
+## 1. Citation and commencement
+
+This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020 and comes into force on 23rd September 2020.
+
+## 2. Date for cessation of transitory provision
+
+The date appointed for the purposes of article 4(1) of the Welfare Reform (Northern Ireland) Order 2015 (transitory provision: date until which the Secretary of State may exercise functions of a Northern Ireland department) is 23rd September 2020.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Justin Tomlinson
+
+Minister of State
+
+Department for Work and Pensions
+
+1st September 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order provides that the Secretary of State may not, on or after 23rd September 2020, by virtue of Article 4(1) of the Welfare Reform (Northern Ireland) Order 2015 ([S.I. 2015/2006 (N.I.1))](https://www.legislation.gov.uk/uksi/2015/2006) exercise the functions of a Northern Ireland department under—
+
+- that Order,
+- the Welfare Reform and Work (Northern Ireland) Order 2016 ([S.I. 2016/999 (N.I. 1)](https://www.legislation.gov.uk/uksi/2016/999)), or
+- other statutory provision relating to social security or child maintenance in Northern Ireland.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, public or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2015/2006](https://www.legislation.gov.uk/uksi/2015/2006). (N.I. 1). Article 4(1) of the Welfare Reform (Northern Ireland) Order 2015 was amended by Article 4 of the Welfare Reform and Work (Northern Ireland) Order 2016 ([S.I. 2016/999 (N.I. 1)](https://www.legislation.gov.uk/uksi/2016/999)).

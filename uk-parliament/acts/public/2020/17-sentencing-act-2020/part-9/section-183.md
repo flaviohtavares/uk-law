@@ -1,0 +1,58 @@
+---
+title: Sentencing Act 2020, section 183
+act: Sentencing Act 2020
+section: '183'
+status: revised-with-pending-changes
+text_date: '2026-10-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2020/17/section/183
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Sentencing Act 2020, section 183
+
+> **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 183. Concurrent and consecutive orders[^key-4b3d86249217e91bfb81017c0d5e0cbf]
+
+*Extent: E+W*
+
+(1) This section applies where a court is dealing with an offender for two or more offences.
+
+(2) If the court makes an order of any of the following kinds in respect of one of the offences—
+
+- (a) a youth rehabilitation order with intensive supervision and surveillance,
+- (b) a youth rehabilitation order with fostering, or
+- (c) any other youth rehabilitation order,
+
+it may not make a youth rehabilitation order of another of those kinds in respect of the other offence, or any of the other offences.
+
+(3) If the court makes—
+
+- (a) two or more youth rehabilitation orders with intensive supervision and surveillance, or
+- (b) two or more youth rehabilitation orders with fostering,
+
+those orders must take effect at the same time (in accordance with section 198).
+
+(4) Subsections (5) to (7) apply where the court includes requirements of the same kind in two or more youth rehabilitation orders.
+
+(5) The court must direct, for each kind of requirement—
+
+- (a) whether the requirements are to be concurrent or consecutive, or
+- (b) if more than two requirements of that kind are imposed, which are to be concurrent and which consecutive.
+
+(6) But the court may not direct that two or more fostering requirements are to be consecutive.
+
+(7) Where the court directs that two or more requirements of the same kind are to be consecutive, the numbers of hours, days or months specified in relation to each of them—
+
+- (a) are to be aggregated, but
+- (b) in aggregate, must not exceed the maximum number which may be specified in relation to any one of them.
+
+(8) For the purposes of subsections (4) to (7), requirements are of the same kind if they fall within the same Part of Schedule 6.
+
+## Annotations
+
+[^key-4b3d86249217e91bfb81017c0d5e0cbf]: Commencement: S. 183 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

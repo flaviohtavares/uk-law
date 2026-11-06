@@ -1,0 +1,132 @@
+---
+title: The Copyright (Public Administration) Regulations 2014
+id: uksi/2014/1385
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-05-19'
+text_date: '2014-06-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/1385
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/1385/pdfs/uksiem_20141385_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1385/pdfs/uksi_20141385_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1385/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Copyright (Public Administration) Regulations 2014
+
+> Text as at 2014-06-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2014 No. 1385
+
+Copyright
+
+The Copyright (Public Administration) Regulations 2014
+
+Made
+
+*19th May* 2014
+
+Coming into force
+
+1st June 2014
+
+The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to matters relating to copyright[^f00002].
+
+In accordance with paragraph 2(2) of Schedule 2 to that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+The Secretary of State, in exercise of the powers conferred by section 2(2) of that Act makes the following Regulations:
+
+## 1. Citation and commencement[^key-4337a6057586eefb130271b3e13c4b7e]
+
+These Regulations may be cited as the Copyright (Public Administration) Regulations 2014 and come into force on 1st June 2014.
+
+## 2. Public administration[^key-90352caf9fcece47d419d775a728523c]
+
+(1) For section 47(2) and (3) of the Copyright, Designs and Patents Act 1988[^f00003] substitute—
+
+> (2) Where material is open to public inspection pursuant to a statutory requirement, copyright in the material is not infringed by an act to which subsection (3A) applies provided that—
+>
+> - (a) the act is done by or with the authority of the appropriate person,
+> - (b) the purpose of the act is—
+>   - (i) to enable the material to be inspected at a more convenient time or place, or
+>   - (ii) to otherwise facilitate the exercise of any right for the purpose of which the statutory requirement is imposed, and
+> - (c) in the case of the act specified in subsection (3A)(c), the material is not commercially available to the public by or with the authority of the copyright owner.
+>
+> (3) Where material which contains information about matters of general scientific, technical, commercial or economic interest is on a statutory register or is open to public inspection pursuant to a statutory requirement, copyright in the material is not infringed by an act to which subsection (3A) applies provided that—
+>
+> - (a) the act is done by or with the authority of the appropriate person,
+> - (b) the purpose of the act is to disseminate that information, and
+> - (c) in the case of the act specified in subsection (3A)(c), the material is not commercially available to the public by or with the authority of the copyright owner.
+>
+> (3A) This subsection applies to any of the following acts—
+>
+> - (a) copying the material,
+> - (b) issuing copies of the material to the public, and
+> - (c) making the material (or a copy of it) available to the public by electronic transmission in such a way that members of the public may access it from a place and at a time individually chosen by them.
+
+(2) For section 48(2) and (3) of the Copyright, Designs and Patents Act 1988 substitute—
+
+> (2) The Crown may, without infringing copyright in the work, do an act specified in subsection (3) provided that—
+>
+> - (a) the act is done for the purpose for which the work was communicated to the Crown, or any related purpose which could reasonably have been anticipated by the copyright owner, and
+> - (b) the work has not been previously published otherwise than by virtue of this section.
+>
+> (3) The acts referred to in subsection (2) are—
+>
+> - (a) copying the work,
+> - (b) issuing copies of the work to the public, and
+> - (c) making the work (or a copy of it) available to the public by electronic transmission in such a way that members of the public may access it from a place and at a time individually chosen by them.
+
+## 3. Repeal of section 118A of the Patents Act 1977[^key-f5cb41a6950a9386ead6c0981e3755b6]
+
+(1) Section 118A of the Patents Act 1977[^f00004] (copyright in documents made available electronically for inspection under section 118(1)) is repealed.
+
+(2) The Patents Act 1977 (Amendment) Regulations 2011[^f00005] (which inserted section 118A into the Patents Act 1977) are revoked.
+
+Younger of Leckie
+
+Parliamentary Under Secretary of State for Business, Innovation and Skills
+
+Department for Business, Innovation and Skills
+
+19th May 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Copyright, Designs and Patents Act 1988 (“the Act”). Article 5(3)(e) of Directive 2001/29 of the European Parliament and of the Council of 22 May 2001 on the harmonisation of certain aspects of copyright and related rights in the information society (OJ No L167, 22.6.2001. p.10) permits Member States to provide for an exception to the copyright and related rights provided under the Directive in the case of use to ensure the proper performance or reporting of administrative proceedings. These Regulations amend the way in which this exception is implemented in the UK.
+
+Regulation 2 amends sections 47 and 48 of the Act. These sections contain exceptions to copyright in respect of the copying and issue to members of the public of documents which are open to public inspection or on an official register and of material which is communicated to the Crown in the course of public business. The amendments extend the exception so as to permit the relevant public bodies to publish the material on the internet so that members of the public may access it on-line.
+
+Regulation 3 repeals section 118A of the Patents Act 1977 (inserted by the Patents Act 1977 (Amendment) Regulations 2011, which amended the Patents Act 1977 to permit documents comprised in patent files to be made available for inspection by the public on-line).
+
+A full impact assessment of the effect that this instrument will have on the cost of business and the voluntary sector is available from the Intellectual Property Office, Concept House, Cardiff Road, Newport, NP10 8QQ and is annexed to the Explanatory Memorandum (together with a transposition note) which is available alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51), section 27(1) and the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), section 3(3) and Part 1 of the Schedule.
+
+[^f00002]: Footnote: [S.1. 1992/707](https://www.legislation.gov.uk/uksi/1992/707) and [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
+
+[^key-4337a6057586eefb130271b3e13c4b7e]: Commencement: Reg. 1 in force at 1.6.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1385/regulation/1)
+
+[^key-90352caf9fcece47d419d775a728523c]: Commencement: Reg. 2 in force at 1.6.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1385/regulation/1)
+
+[^f00003]: Footnote: [1988 c.48](https://www.legislation.gov.uk/ukpga/1988/48).
+
+[^key-f5cb41a6950a9386ead6c0981e3755b6]: Commencement: Reg. 3 in force at 1.6.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1385/regulation/1)
+
+[^f00004]: Footnote: [1977 c 37](https://www.legislation.gov.uk/ukpga/1977/37).
+
+[^f00005]: Footnote: [S.I. 2011/2059](https://www.legislation.gov.uk/uksi/2011/2059).

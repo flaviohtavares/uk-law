@@ -1,0 +1,388 @@
+---
+title: The Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2007
+id: uksi/2007/2501
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-08-20'
+text_date: '2023-05-03'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2007/2501
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/2501/pdfs/uksiem_20072501_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/2501/pdfs/uksi_20072501_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/2501/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2007
+
+> Text as at 2023-05-03.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2007 No. 2501
+
+Political Parties
+
+The Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2007
+
+Made
+
+20th August 2007
+
+Coming into force
+
+1st November 2007
+
+In accordance with section 71A(4) of the Political Parties, Elections and Referendums Act 2000[^f00001] (“the 2000 Act”) and section 15(1) of the Northern Ireland (Miscellaneous Provisions) Act 2006[^f00002] (“the 2006 Act”), the Electoral Commission has been consulted prior to making this Order.
+
+A draft of this Order has been laid before Parliament under section 156(4)(ca) of the 2000 Act[^f00003] and section 15(5) of the 2006 Act and approved by a resolution of each House of Parliament.
+
+The Secretary of State is satisfied that the condition in section 71B(2) of the 2000 Act[^f00004] is met.
+
+Accordingly, the Secretary of State, in exercise of the powers conferred on him by section 15(1) and (2)(a) of the 2006 Act, and sections 71B(1)(a) and (b), 71D(1), 71E(2)(b) and 71E(4)[^f00005] of the 2000 Act and having regard to the definition of “prescribed” in section 71A(4) of the 2000 Act, makes the following Order:
+
+## 1. Citation, commencement and extent[^key-c7f5111d5b686796de486d79bc8abebd]
+
+This Order may be cited as the Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2007 and shall come into force on 1st November 2007.
+
+## 2. Interpretation[^key-edede1c4ae6a00864ecf12340d00e2ba]
+
+In this Order—
+
+- “the 1983 Act” means the Representation of the People Act 1983[^f00006];
+- “the 2000 Act” means the Political Parties, Elections and Referendums Act 2000;
+- “the 2006 Act” means the Northern Ireland (Miscellaneous Provisions) Act 2006;
+- “individual donor” means an individual who is a permissible donor by virtue of—
+  - (a) section 54(2)(a) of the 2000 Act (individuals registered in the electoral register), or
+  - (b) section 71B(1)(a) of that Act (Irish citizen making a donation to a Northern Ireland recipient);
+- “Northern Ireland report” means a report to the Commission which is prepared by a Northern Ireland recipient and contains, or purports to contain, information required to be given by Schedule 6 or 7 to the 2000 Act, but does not include a report required to be prepared by virtue of section 63 of that Act;
+- “prescribed bodies” has the meaning given by article 4(2);
+- “reporting period” has the meaning given by section 62(2) of the 2000 Act in relation to reports prepared pursuant to that section but, in relation to reports which contain, or purport to contain, information required to be given pursuant to Schedule 7 to the 2000 Act, it means each month; and
+- “selected Northern Ireland donation” means a donation made to a Northern Ireland recipient which is selected by the Commission for verification under article 8.
+
+## PART 1
+
+### Extension of categories of permissible donors in relation to Northern Ireland recipients
+
+#### 3. Donations by Irish citizens[^key-34cb00c3c92f1dcf1961f8cdb94c4ce0]
+
+For the purposes of section 71B(1)(a) of the 2000 Act, the prescribed condition in relation to an Irish citizen is that at the time of making a donation to a Northern Ireland recipient he must be eligible to obtain one of the following documents—
+
+- (a) an Irish passport;
+- (b) a certificate of nationality; or
+- (c) a certificate of naturalisation.
+
+#### 4. Donations by Irish bodies[^key-26151be155fbf9f931d5d280a88761bc]
+
+(1) The description or category of bodies prescribed for the purposes of section 71B(1)(b) of the 2000 Act, are such of the bodies set out in paragraph (2) which keep an office in Ireland or Northern Ireland being an office from which the carrying on of one or more of its principal activities is directed.
+
+(2) The prescribed bodies are—
+
+- (a) a company—
+  - (i) appearing on the Register of Companies of Ireland; and
+  - (ii) incorporated within Ireland or another member State;
+- (b) a political party appearing on the Register of Political Parties of Ireland;
+- (c) a trade union registered by the Registrar of Friendly Societies of Ireland;
+- (d) a building society registered by the Central Bank and Financial Services Authority of Ireland;
+- (e) a limited liability partnership registered by the Registrar of Companies of Ireland;
+- (f) a friendly society or industrial and provident society registered by the Registrar of Friendly Societies of Ireland;
+- (g) a trust created in Ireland before 1st November 2007 to which no property has been transferred on or after that date otherwise than by a person who was a permissible donor at the time of the transfer or under the will of a permissible donor;
+- (h) a trust created in Ireland on or after 1st November 2007—
+  - (i) which was created by a person who was a permissible donor at the time the trust was created or by the will of a permissible donor; and
+  - (ii) to which no property has been transferred otherwise than by a person who was a permissible donor at the time of the transfer or under the will of a permissible donor; and
+- (i) any unincorporated association of two or more persons which does not fall within any of the preceding paragraphs but which carries on business or other activities wholly or mainly in Ireland and whose main office is there.
+
+(3) In sub-paragraphs (2)(g) and (h) “permissible donor” means a person who falls within section 71B(1)(a) or (b) of the 2000 Act.
+
+#### 5. Northern Ireland reports[^key-db4368a93bf1123b81b0b4e25c69cfca]
+
+Schedule 1 (which amends the 2000 Act in connection with the recording of donations made to Northern Ireland recipients) has effect.
+
+#### 6. Minor and consequential amendments[^key-94bb09209ce2d7fadb6fcd945775b16e]
+
+Schedule 2 (minor and consequential amendments) has effect.
+
+## PART 2
+
+### Duty of the Commission in relation to Northern Ireland reports[^key-bd50990f48452624e44c6ac2f6fc0891]
+
+#### 7. Steps to be taken by the Commission for the purpose of verifying information given in Northern Ireland reports[^key-2c556025151f81b111fbba244dbcffc4]
+
+For the purposes of section 71D(1) of the 2000 Act the prescribed steps which the Commission must take for the purpose of verifying the information given in Northern Ireland reports [^key-9118365351a7028049c1c16f74d33e46]... are set out in articles 8 and 9.
+
+#### 8. Selection of Northern Ireland donations[^key-fa94d230f3a464f49e172d4d83e07cf3]
+
+(1) In each reporting period, in relation to each Northern Ireland recipient who has provided a Northern Ireland report, the Commission must—
+
+- (a) select for verification 50 per cent of all donations made by individual donors reported by that recipient in accordance with paragraphs (2) and (3); and
+- (b) select for verification every donation which has not been made by an individual donor.
+
+(2) In the case of a Northern Ireland recipient who has reported an odd number of donations from individual donors during any reporting period, the Commission must determine the number of donations from individual donors to be selected for verification by adding one to the number of donations from individual donors reported by that Northern Ireland recipient and dividing the resulting number by two.
+
+(3) In the case of a Northern Ireland recipient who has reported only one donation from an individual donor during any reporting period, the Commission must select that donation for verification.
+
+#### 9. Verification of donations to Northern Ireland recipients[^key-2d2854fc1f2f079bf3530361b4d57105]
+
+(1) The Commission must take the following steps in relation to each selected Northern Ireland donation.
+
+(2) In relation to a Northern Ireland report made in respect of a selected Northern Ireland donation, and any documentation provided with it, the Commission must take reasonable steps to ascertain whether—
+
+- (a) the information provided in the report in relation to that donation is accurate; and
+- (b) any documentation provided with the report in relation to that donation is genuine.
+
+(3) The steps taken by the Commission under paragraph (2) may include, but are not limited to, contacting a relevant body set out in article 11.
+
+#### 10. Disclosure of information relating to a donation which was required to be dealt with in accordance with section 56(2) of the 2000 Act[^key-d82cf9f6f1387099dfdc0759bf402c45]
+
+(1)[^key-34285d142154ff5e3d6cf8d22c3400e5] If, after taking the steps prescribed by articles 8 and 9, the Commission believes on reasonable grounds that a donation to which this article applies and which is[^key-3c91421dabbc8b78cbe1d537c3fe42e5] reported in a Northern Ireland report fell to be dealt with under section 56(2) of the 2000 Act, and that it has not been dealt with in this manner, the Commission must—
+
+- (a) write to the Northern Ireland recipient who provided the report informing him of the Commission’s intention to publish the information in accordance with paragraph (b); and
+- (b) publish the following information—
+  - (i) the name of the Northern Ireland recipient;
+  - (ii) the amount of the donation;
+  - (iii) the date of the donation;
+  - (iv) whether the donation was received from an individual or from a body; and
+  - (v) in the case of a donation received from a body, the type of body which made the donation with reference to article 4(2) or section 54(2) of the 2000 Act.
+
+(2)[^key-a30ade31ab49d337440608df890c747f] This article applies to a donation received by a Northern Ireland recipient which is a donation to which section 71E of the 2000 Act applies.
+
+#### 11. Disclosure of information by the Commission[^key-886038385b3ac2ef2ba6a587e9ec1dae]
+
+The following bodies are prescribed for the purposes of section 71E(2)(b) of the 2000 Act—
+
+- (a) a firm of solicitors in Ireland which has provided a statement in accordance with paragraph 2A(12) of Schedule 6 to the 2000 Act[^f00007];
+- (b) the Central Bank and Financial Services Authority of Ireland;
+- (c) the office of the Certification Officer;
+- (d) the Corporate Officer of the House of Commons;
+- (e) the Corporate Officer of the House of Lords;
+- (f) the office of the Northern Ireland Certification Officer;
+- (g) Companies House (meaning that part of the Department for Business and Trade[^key-38e2a1daec808bb42be0b5b8c1fa89c0] known as the Companies House Executive Agency);
+- (h) the Department of Enterprise, Trade and Investment[^f00008];
+- (i) the Department of Foreign Affairs of Ireland;
+- (j) the Electoral Office for Northern Ireland;
+- (k) the Financial Conduct Authority[^key-230f7e9fda69b9699a81914e46eab4c0];
+- (ka)[^key-c8fab99f797b6f3357ee68e3cfc8dc6e] the Prudential Regulation Authority;
+- (l) the Northern Ireland Assembly Commission;
+- (m) the office of any electoral registration officer;
+- (n) the Registrar of Companies of Ireland;
+- (o) the Registrar of Friendly Societies of Ireland; and
+- (p) the Registrar of Political Parties of Ireland.
+
+Paul Goggins
+
+Minister of State
+
+Northern Ireland Office
+
+20th August 2007
+
+## SCHEDULE 1 — Details to be given in Northern Ireland reports
+
+Article 5
+
+**1.**[^key-33bc9a33dfba8c60813216ab1a3b434e] Schedule 6 to the 2000 Act is amended as follows.
+
+**2.**[^key-72067a99a215708dd5a28701da91ba3a] In paragraph 2 (quarterly reports), in sub-paragraph (1), after “paragraph” insert “2A,”.
+
+**3.**[^key-e1b9dc4ee996e531e76053339c3bda75] After paragraph 2 insert—
+
+> **2A.** In relation to each recordable donation that is an Irish donation a quarterly report must comply with the following requirements of this paragraph.
+>
+> (2) “Irish donation” means a donation made in reliance on section 71B(1)(a) or (b) (extension of categories of permissible donors in relation to Northern Ireland recipients).
+>
+> (3) The report must record the fact that the donation is an Irish donation.
+>
+> (4) In the case of a donation by an Irish citizen the report must also—
+>
+> - (a) give the donor’s full name, and
+> - (b) be accompanied by one of the following documents—
+>   - (i) a copy of the donor’s Irish passport certified by the Department of Foreign Affairs of Ireland;
+>   - (ii) a copy of the donor’s certificate of nationality certified by the Department of Foreign Affairs of Ireland; or
+>   - (iii) a copy of the donor’s certificate of naturalisation certified by the Department of Foreign Affairs of Ireland,
+>
+> - but this sub-paragraph does not apply to a donation in the form of a bequest.
+>
+> (5) In the case of a donation in the form of a bequest the report must also—
+>
+> - (a) state that the donation was received in pursuance of a bequest;
+> - (b) give the full name of the person who made the bequest; and
+> - (c) be accompanied by either one of the documents listed in sub-paragraph (4)(b)(i) to (iii) or a statement by the Department of Foreign Affairs of Ireland that documentation submitted to that Department following the death of the person who made the bequest would have been acceptable in support of an application for an Irish passport had it been submitted when he was alive.
+>
+> (6) In the case of a donation by a company the report must also give—
+>
+> - (a) the company’s registered name;
+> - (b) the address of its registered office; and
+> - (c) the number with which it is registered.
+>
+> (7) In the case of a donation by a political party the report must also give—
+>
+> - (a) the party’s registered name; and
+> - (b) the address of its registered headquarters.
+>
+> (8) In the case of a donation by a trade union the report must also give—
+>
+> - (a) the name of the trade union; and
+> - (b) the address of its head or main office.
+>
+> (9) In the case of a donation by a building society the report must also give—
+>
+> - (a) the name of the society; and
+> - (b) the address of its principal office.
+>
+> (10) In the case of a donation by a limited liability partnership the report must also give—
+>
+> - (a) the partnership’s registered name; and
+> - (b) the address of its registered office.
+>
+> (11) In the case of a donation by a friendly society or industrial and provident society the report must also give—
+>
+> - (a) the name of the society; and
+> - (b) the address of its registered office.
+>
+> (12) In the case of a donation by an unincorporated association the report must also—
+>
+> - (a) give the name of the association;
+> - (b) give the address of its main office in Ireland; and
+> - (c) be accompanied by a statement made by a solicitor currently practising in Ireland confirming the name and address of the association and the fact that it is an unincorporated association.
+>
+> (13) In the case of a donation received in accordance with the terms of a trust the report must also—
+>
+> - (a) state that the donation was received from a trustee;
+> - (b) give the date on which the trust was created;
+> - (c) give the address of the trust’s office; and
+> - (d) give, in relation to any settlor, the information that is required to be given under sub-paragraphs (4) to (12) of this paragraph.
+>
+> (14) “Settlor” means—
+>
+> - (a) the person who created the trust; and
+> - (b) every other person by whom, or under whose will, property has been transferred into the trust.
+>
+> (15) In the case of a trust created before 1st November 2007 sub-paragraph (13)(d)—
+>
+> - (a) does not require the report to give any information in relation to the person who created the trust apart from his name;
+> - (b) does not require the report to give any information in relation to any other person by whom, or under whose will, property has been transferred into the trust before 1st November 2007.
+
+**4.**[^key-d88984ca6d77bcbb85185029ce888774] (1) In paragraph 3 (identity of donors: weekly reports), at the end add—
+
+> (4) This paragraph does not apply in relation to a recordable donation that is an Irish donation (within the meaning given by paragraph 2A(2)).
+
+(2) After that paragraph insert—
+
+> 3A In relation to each recordable donation that is an Irish donation (within the meaning given by paragraph 2A(2)) a weekly report must—
+>
+> - (a) record the fact that the donation is an Irish donation; and
+> - (b) give the name of the donor.
+
+## SCHEDULE 2 — Minor and consequential amendments
+
+Article 6
+
+### Political Parties, Elections and Referendums Act [2000 (c.41)](https://www.legislation.gov.uk/ukpga/2000/41)
+
+**1.**[^key-84f780be1426c039490d98bf0d2d47c6] The 2000 Act is amended as follows.
+
+**2.**[^key-35ce23d8407eb41807ee670a4e87d010] (1) In the provisions set out in paragraph (2) after “paragraph 2” insert “or 2A”.
+
+(2) The provisions are—
+
+- (a) section 54(5)(a);
+- (b) section 54(6);
+- (c) section 56(1); and
+- (d) paragraph 6(3)(a) and 6(4) of Schedule 7.
+
+**3.**[^key-7c9273c80d631e3d8afb80708d399c34] In section 69(2)(b) for “paragraph 2, 3, 6 or 7(a) or (c) of Schedule 6” substitute “paragraph 2, 2A, 3, 3A, 6 or 7(a) or (c) of Schedule 6”.
+
+**4.**[^key-d65666fa9634cf8aec5149895ce75ba7] In paragraph 10(4)(a) and 10(5) of Schedule 7, after “paragraphs 2” insert “, 2A”.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+The Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2007 makes provision about donations to parties registered in the Northern Ireland register and any Northern Ireland regulated donee who is either an individual ordinarily resident in Northern Ireland or a members’ association wholly or mainly consisting of members of a Northern Ireland party (“Northern Ireland recipients”) from 1st November 2007.
+
+The requirements of Part 4 of the Political Parties, Elections and Referendums Act [2000 (c.41)](https://www.legislation.gov.uk/ukpga/2000/41)(“the 2000 Act”) are disapplied in relation to Northern Ireland until 31st October 2007 by virtue of section 11 of the Northern Ireland (Miscellaneous Provisions) Act [2006 (c.33)](https://www.legislation.gov.uk/ukpga/2006/33) (“the 2006 Act”).
+
+From 1st November 2007, Part 4 will apply to Northern Ireland. Consequently, Northern Ireland recipients will be subject to the restrictions on donations and reporting requirements of Part 4 which currently apply to political parties and regulated donees in Great Britain. They will also no longer be able to accept donations from overseas. However, the effect of section 71A and 71B of the 2000 Act, as inserted by the 2006 Act, is to enable Northern Ireland recipients to accept donations from Irish citizens and prescribed Irish bodies which meet prescribed conditions. Part 1 of this Order makes permanent modifications to Part 4 of the 2000 Act to this end. The condition which must be met in relation to Irish citizens is set out in article 3 of this Order. Article 4 sets out the categories of Irish bodies which are able to make donations to Northern Ireland recipients. Schedule 1 to this Order amends Schedule 6 to the 2000 Act to set out the information which must be provided in relation to donations from Irish donors in donation reports which Northern Ireland recipients are required to provide to the Electoral Commission (“the Commission”).
+
+During the period from 1st November 2007 until 31st October 2010 (“the prescribed period”) section 14 of, and Schedule 1 to, the 2006 Act modify the 2000 Act to place a duty on the Commission to verify the information contained in donation reports submitted by Northern Ireland recipients. Part II of this Order sets out the duty of the Commission during the prescribed period. The steps which the Commission must take in relation to donation reports submitted by Northern Ireland recipients are set out in articles 7 to 9 of this Order. The Commission may verify information provided in the donation reports by, for example, checking the register on which an Irish body which has made a donation is listed or contacting the bodies listed in article 11 to whom it is able to disclose information.
+
+Section 71E of the 2000 Act, as inserted by section 14 of and Schedule 1 to the 2006 Act, places a duty of confidentiality on the Commission in relation to information contained in donation reports from Northern Ireland recipients during the prescribed period. Under section 71E(4) of the 2000 Act, the Commission is empowered to release information contained in a Northern Ireland report if it relates to a donation which the Commission believes, on reasonable grounds, was a donation from an impermissible or unidentifiable donor which was required to be dealt with in accordance with section 56(2) of the 2000 Act. Article 10 sets out the requirements in accordance with which such information must be released.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c.41](https://www.legislation.gov.uk/ukpga/2000/41). Sections 71A to C of the Political Parties, Elections and Referendums Act [2000 (c.41)](https://www.legislation.gov.uk/ukpga/2000/41) (“the 2000 Act”) were inserted by section 12 of the Northern Ireland (Miscellaneous Provisions) Act [2006 (c.33)](https://www.legislation.gov.uk/ukpga/2006/33) (“the 2006 Act”).
+
+[^f00002]: Footnote: [2006 c.33](https://www.legislation.gov.uk/ukpga/2006/33).
+
+[^f00003]: Footnote: Section 156(4)(ca) was inserted by section 13(1) of the 2006 Act.
+
+[^f00004]: Footnote: The powers to prescribe bodies under section 71B(1)(b) are limited by section 71B(2) which provides that the Secretary of State must not prescribe a body unless he is satisfied that a body of that description or category would be entitled under Irish law to donate to an Irish political party.
+
+[^f00005]: Footnote: Section 14 of, and Schedule 1 to, the 2006 Act modify the 2000 Act so as to insert sections 71D and E which have effect for the prescribed period.
+
+[^key-c7f5111d5b686796de486d79bc8abebd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+
+[^key-edede1c4ae6a00864ecf12340d00e2ba]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2007/2501/article/2) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+
+[^f00006]: Footnote: [1983 c.2](https://www.legislation.gov.uk/ukpga/1983/2).
+
+[^key-34cb00c3c92f1dcf1961f8cdb94c4ce0]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2007/2501/article/3) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+
+[^key-26151be155fbf9f931d5d280a88761bc]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2007/2501/article/4) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+
+[^key-db4368a93bf1123b81b0b4e25c69cfca]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2007/2501/article/5) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+
+[^key-94bb09209ce2d7fadb6fcd945775b16e]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2007/2501/article/6) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+
+[^key-bd50990f48452624e44c6ac2f6fc0891]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/2007/2501/part/2) title substituted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2018/328/article/10/2)
+
+[^key-2c556025151f81b111fbba244dbcffc4]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2007/2501/article/7) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+
+[^key-9118365351a7028049c1c16f74d33e46]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2007/2501/article/7) omitted (8.3.2018) by virtue of [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2018/328/article/10/3)
+
+[^key-fa94d230f3a464f49e172d4d83e07cf3]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2007/2501/article/8) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+
+[^key-2d2854fc1f2f079bf3530361b4d57105]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2007/2501/article/9) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+
+[^key-d82cf9f6f1387099dfdc0759bf402c45]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2007/2501/article/10) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+
+[^key-34285d142154ff5e3d6cf8d22c3400e5]: Textual amendment: Art. 10 renumbered as art. 10(1) (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [10(4)(a)](https://www.legislation.gov.uk/uksi/2018/328/article/10/4/a)
+
+[^key-3c91421dabbc8b78cbe1d537c3fe42e5]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/2007/2501/article/10/1) inserted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [10(4)(b)](https://www.legislation.gov.uk/uksi/2018/328/article/10/4/b)
+
+[^key-a30ade31ab49d337440608df890c747f]: Textual amendment: [Art. 10(2)](https://www.legislation.gov.uk/uksi/2007/2501/article/10/2) inserted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [10(4)(c)](https://www.legislation.gov.uk/uksi/2018/328/article/10/4/c)
+
+[^key-886038385b3ac2ef2ba6a587e9ec1dae]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2007/2501/article/11) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+
+[^f00007]: Footnote: Paragraph 2A of Schedule 6 is inserted by article 5 of, and Schedule 1 to, this Order.
+
+[^key-38e2a1daec808bb42be0b5b8c1fa89c0]: Textual amendment: Words in [art. 11(g)](https://www.legislation.gov.uk/uksi/2007/2501/article/11/g) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 47](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/47) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+
+[^f00008]: Footnote: The Department was so named by the [Departments (Northern Ireland) Order (1999/283 (N.I.1)](https://www.legislation.gov.uk/nisi/1999/283).
+
+[^key-230f7e9fda69b9699a81914e46eab4c0]: Textual amendment: Words in [art. 11(k)](https://www.legislation.gov.uk/uksi/2007/2501/article/11/k) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 130(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/130/a)
+
+[^key-c8fab99f797b6f3357ee68e3cfc8dc6e]: Textual amendment: [Art. 11(ka)](https://www.legislation.gov.uk/uksi/2007/2501/article/11/ka) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 130(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/130/b)
+
+[^key-33bc9a33dfba8c60813216ab1a3b434e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2007/2501/schedule/1/paragraph/1) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+
+[^key-72067a99a215708dd5a28701da91ba3a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2007/2501/schedule/1/paragraph/2) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+
+[^key-e1b9dc4ee996e531e76053339c3bda75]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2007/2501/schedule/1/paragraph/3) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+
+[^key-d88984ca6d77bcbb85185029ce888774]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2007/2501/schedule/1/paragraph/4) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+
+[^key-84f780be1426c039490d98bf0d2d47c6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2007/2501/schedule/2/paragraph/1) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+
+[^key-35ce23d8407eb41807ee670a4e87d010]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2007/2501/schedule/2/paragraph/2) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+
+[^key-7c9273c80d631e3d8afb80708d399c34]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2007/2501/schedule/2/paragraph/3) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+
+[^key-d65666fa9634cf8aec5149895ce75ba7]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2007/2501/schedule/2/paragraph/4) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)

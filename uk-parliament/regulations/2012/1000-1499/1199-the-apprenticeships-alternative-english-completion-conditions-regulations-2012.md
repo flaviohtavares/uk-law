@@ -1,0 +1,211 @@
+---
+title: The Apprenticeships (Alternative English Completion Conditions) Regulations 2012
+id: uksi/2012/1199
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-04-30'
+text_date: '2020-10-15'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/1199
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/1199/pdfs/uksiem_20121199_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1199/pdfs/uksi_20121199_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1199/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Apprenticeships (Alternative English Completion Conditions) Regulations 2012
+
+> Text as at 2020-10-15.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 1199
+
+Education, England
+
+The Apprenticeships (Alternative English Completion Conditions) Regulations 2012
+
+Made
+
+30th April 2012
+
+Coming into force
+
+1st May 2012
+
+The Secretary of State for Business, Innovation and Skills makes the following Regulations in exercise of the powers conferred by section 1(5) and 262(3) of the Apprenticeships, Skills, Children and Learning Act 2009 [^c21251301].
+
+In accordance with section 262(6) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Apprenticeships (Alternative English Completion Conditions) Regulations 2012 and come into force on the day after the day on which the Regulations are made.
+
+## 2. The alternative English completion conditions
+
+The alternative English completion conditions are the conditions specified in regulation 3, 4 , 4A[^key-0879441599c796d9cce2f3c72ab7945a] or 5.
+
+## 3.
+
+The conditions are that—
+
+- (a) a person (“X”) has completed a course of training for the competencies qualification identified in one of the frameworks specified in the second column of the table in Schedule 1;
+- (b) throughout the duration of that course, X was working in an occupation specified in the first column of that table in relation to that framework—
+  - (i) as a self-employed person; or
+  - (ii) otherwise than for reward; and
+- (c) X meets the requirements specified in that framework for the purpose of the issue of an apprenticeship certificate.
+
+## 4.
+
+(1) The conditions are that—
+
+- (a) a person (“Y”) entered into an apprenticeship agreement in connection with a recognised English apprenticeship framework;
+- (b) Y started a course of training for the competencies qualification identified in that framework;
+- (c) throughout the duration of the first phase of the course, Y was working under the apprenticeship agreement;
+- (d) Y was dismissed by reason of redundancy before completing the course;
+- (e) Y has completed the course within 6 months from the date of such dismissal;
+- (f) throughout the duration of the second phase of the course, Y was working, otherwise than for reward, in connection with that framework; and
+- (g) Y meets the requirements specified in that framework for the purpose of the issue of an apprenticeship certificate.
+
+(2) In paragraph (1)—
+
+- (a) the reference to the first phase of the course is to the period beginning on the day on which the course of training referred to in paragraph (1)(a) was begun and ending on the date of dismissal;
+- (b) the reference to the second phase of the course is to the period beginning on the day following the date of dismissal and ending on the day on which the course of training was completed.
+
+**4A.**[^key-fdce951105ae93315968f2433cd70d7a] (1) The conditions are that—
+
+- (a) a person (“P”) working under an apprenticeship agreement (“the agreement”) was dismissed by reason of redundancy on or after the day on which the Apprenticeships (Alternative English Completion Conditions and Miscellaneous Provisions) (Amendment) (Coronavirus) Regulations 2020 came into force;
+- (b) P had entered into the agreement in connection with a recognised English apprenticeship framework (“the framework”);
+- (c) P had started a course of training (“the course”) for the competencies qualification identified in the framework but was dismissed before completing the course;
+- (d) throughout the duration of the period beginning when P started the course and ending when P was dismissed, P was working under the agreement or a previous relevant agreement;
+- (e) at the beginning of the day on which P was dismissed, P had completed at least 75% of the course;
+- (f) after being dismissed, P completed the course;
+- (g) throughout the duration of the period beginning with the day after the day on which P was dismissed and ending when P completed the course, P was working, otherwise than for reward, in connection with the framework; and
+- (h) P meets the requirements specified in the framework for the purpose of the issue of an apprenticeship certificate.
+
+(2) In paragraph (1)—
+
+- (a) in sub-paragraphs (c) to (g), the references to P being dismissed are to the dismissal referred to in paragraph (1)(a);
+- (b) in sub-paragraph (d), a “relevant agreement” means an agreement entered into by P in connection with a recognised English apprenticeship framework, where that framework was the same as the framework referred to in paragraph (1)(b).
+
+## 5.
+
+The conditions are that—
+
+- (a) in relation to one or more of the sports specified in Schedule 2—
+  - (i) a person (“Z”) has completed a course of training for the competencies qualification for the Sporting Excellence framework; and
+  - (ii) throughout the duration of the course, Z has worked as an athlete, whether for reward or otherwise;
+- (b) Z completed the course of training referred to in paragraph (a) with a view to competing in one or more of the following—
+  - (i) the Olympic games;
+  - (ii) the Winter Olympic games;
+  - (iii) the Paralympic games;
+  - (iv) the Commonwealth games; and
+- (c) Z meets the requirements specified in the Sporting Excellence framework for the purpose of the issue of an apprenticeship certificate.
+
+Norman Lamb
+
+Parliamentary Under Secretary of State for Employment Relations, Consumer and Postal Affairs
+
+Department for Business, Innovation and Skills
+
+## SCHEDULE 1
+
+Regulation 3
+
+| *Specified occupation* | *Framework* |
+| --- | --- |
+| Assistant to the camera crew<br>Broadcast assistant<br>Post-production assistant<br>Post-production runner<br>Production assistant<br>Production runner | Creative and Digital Media (Advanced) |
+| Technical Illustrator<br>Junior Graphic Designer | Design (Advanced) |
+| Venue and stage crew | Live Events and Promotion (Advanced) |
+| Venue and stage crew support | Live Events and Promotion (Intermediate) |
+| Lighting Technician | Technical Theatre (Advanced) |
+| Lighting Technician Assistant | Technical Theatre (Intermediate) |
+| Deckhand within the sea fishing industry<br>Share fisherman within the sea fishing industry | Maritime Occupations (Intermediate) |
+| Merchant Navy (deck)[^key-e6f1e134fe9dc00e616d65dd569e188f]<br>Merchant Navy (engineering)<br>Officer of the watch on merchant vessels of less than 500 gross tonnage (near coastal) including tugs<br>Officer of the watch on merchant vessels of less than 3,000 gross tonnage (near coastal) including tugs | Maritime Occupations (Advanced) |
+
+## SCHEDULE 2
+
+Regulation 5
+
+|  |
+| --- |
+| Aquatics (Diving, Swimming, Synchronised Swimming, Water Polo) |
+| Archery |
+| Athletics |
+| Badminton |
+| Baseball/Softball |
+| Basketball |
+| Biathlon |
+| Bobsleigh & Skeleton |
+| Boccia |
+| Boxing |
+| Bowls |
+| Canoeing |
+| Curling |
+| Cycling |
+| Equestrian |
+| Fencing |
+| Football (5 a side) |
+| Football (7 a side) |
+| Goalball (British Blind Sport) |
+| Golf |
+| Gymnastics |
+| Handball |
+| Hockey |
+| Ice Hockey |
+| Ice Sledge Hockey |
+| Judo |
+| Luge |
+| Modern Pentathlon |
+| Netball |
+| Powerlifting |
+| Rowing |
+| Sailing |
+| Shooting |
+| Sitting Volleyball |
+| Snowsport |
+| Skating (Figure, Short Track, Speed) |
+| Skiing - Alpine |
+| Skiing – Cross Country |
+| Skiing - Freestyle |
+| Skiing – Nordic Combined |
+| Skiing – Ski Jumping |
+| Skiing - Snowboarding |
+| Squash |
+| Table Tennis |
+| Taekwondo |
+| Tennis |
+| Triathlon |
+| Volleyball |
+| Weightlifting |
+| Wheelchair Basketball |
+| Wheelchair Curling |
+| Wheelchair Fencing |
+| Wheelchair Tennis |
+| Wheelchair Rugby |
+| Women's Football |
+| Women's Rugby Union |
+| Wrestling |
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision for circumstances where a person has not entered into an apprenticeship agreement but is working under alternative working arrangements, by specifying the alternative English completion conditions which will entitle them to receive an apprenticeship certificate. They apply in cases where a person works in certain specified occupations as a self-employed person or otherwise than for reward (*regulation 3 and Schedule 1*); where a person has been dismissed by reason of redundancy, so that that person can complete the apprenticeship within 6 months of the date of the redundancy (*regulation 4*); and where an athlete has completed an elite sports framework in respect of a specified sport with a view to participating in the Olympic, Winter Olympic, Paralympic or Commonwealth Games (*regulation 5 and Schedule 2*).
+
+A full impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^c21251301]: Marginal citation: [2009 c.22](https://www.legislation.gov.uk/ukpga/2009/22). See section 264(1) for the definition of “regulations”.
+
+[^key-0879441599c796d9cce2f3c72ab7945a]: Textual amendment: Word in reg. 2 inserted (15.10.2020) by [The Apprenticeships (Alternative English Completion Conditions and Miscellaneous Provisions) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1120)](https://www.legislation.gov.uk/uksi/2020/1120), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1120/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1120/regulation/2/2)
+
+[^key-fdce951105ae93315968f2433cd70d7a]: Textual amendment: Reg. 4A inserted (15.10.2020) by [The Apprenticeships (Alternative English Completion Conditions and Miscellaneous Provisions) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1120)](https://www.legislation.gov.uk/uksi/2020/1120), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1120/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1120/regulation/2/3)
+
+[^key-e6f1e134fe9dc00e616d65dd569e188f]: Textual amendment: Words in Sch. 1 Table inserted (30.7.2013) by [The Apprenticeships (Alternative English Completion Conditions) (Amendment) Regulations 2013 (S.I. 2013/1968)](https://www.legislation.gov.uk/uksi/2013/1968), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1968/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/1968/regulation/2)

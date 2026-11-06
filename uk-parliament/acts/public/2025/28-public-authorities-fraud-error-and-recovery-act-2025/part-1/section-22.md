@@ -1,0 +1,48 @@
+---
+title: Public Authorities (Fraud, Error and Recovery) Act 2025, section 22
+act: Public Authorities (Fraud, Error and Recovery) Act 2025
+section: '22'
+status: revised
+text_date: '2026-10-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2025/28/section/22
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Public Authorities (Fraud, Error and Recovery) Act 2025, section 22
+
+> Text as at 2026-10-26.
+>
+> Extent: England, Wales, Scotland.
+
+## 22. Amount of deductions[^key-a8e07970eb32cc85f4208ecfb425452f][^key-9c271a7df87efd5faa5247b83fdc5859]
+
+*Extent: E+W*
+
+(1) The Minister may make a direct deduction order only if satisfied on the basis of information received by virtue of sections 19 and 21 that the terms of the order—
+
+- (a) will not cause the liable person, any other account holder or a person within subsection (2) to suffer hardship in meeting essential living expenses, and
+- (b) are otherwise fair in all the circumstances.
+
+(2) A person is within this subsection if—
+
+- (a) they live with the liable person, or any other account holder, for some or all of the time, or
+- (b) they are financially dependent on the liable person or any other account holder.
+
+(3) The total amount of deductions to be made under a regular direct deduction order in relation to any period of 28 days must not exceed—
+
+- (a) in a case to which subsection (4) applies, 40% of the relevant amount, and
+- (b) in any other case, 20% of the relevant amount.
+
+(4) This subsection applies in a case where the Minister is satisfied, on the balance of probabilities, that the payable amount to which the regular direct deduction order relates is recoverable from the liable person because the liable person committed fraud.
+
+(5) For the purposes of subsection (3), the “relevant amount” is the amount that the Minister reasonably expects to be credited to the account in question in (or in respect of) a typical month during the period for which the order will have effect, having regard to all statements given to the Minister in relation to the account (see sections 19(2) and 31(1)).
+
+(6) The Minister must ensure that the total amount to be deducted and paid to the Minister under a direct deduction order does not exceed the payable amount to which the order relates.
+
+## Annotations
+
+[^key-a8e07970eb32cc85f4208ecfb425452f]: Commencement: S. 22 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+
+[^key-9c271a7df87efd5faa5247b83fdc5859]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2025/28/section/22) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

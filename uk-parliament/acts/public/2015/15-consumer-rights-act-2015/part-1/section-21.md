@@ -1,0 +1,64 @@
+---
+title: Consumer Rights Act 2015, section 21
+act: Consumer Rights Act 2015
+section: '21'
+status: revised-with-pending-changes
+text_date: '2026-10-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2015/15/section/21
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Consumer Rights Act 2015, section 21
+
+> **Warning: changes not yet applied to this text (18).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/15
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 21. Partial rejection of goods[^key-d678960f054e6b4da7027f5b54f18085]
+
+*Extent: E+W+S+N.I.*
+
+(1) If the consumer has any of the rights mentioned in section 20(1) to (3), but does not reject all of the goods and treat the contract as at an end, the consumer—
+
+- (a) may reject some or all of the goods that do not conform to the contract, but
+- (b) may not reject any goods that do conform to the contract.
+
+(2) If the consumer is entitled to reject the goods in an instalment, but does not reject all of those goods, the consumer—
+
+- (a) may reject some or all of the goods in the instalment that do not conform to the contract, but
+- (b) may not reject any goods in the instalment that do conform to the contract.
+
+(3) If any of the goods form a commercial unit, the consumer cannot reject some of those goods without also rejecting the rest of them.
+
+(4) A unit is a “commercial unit” if division of the unit would materially impair the value of the goods or the character of the unit.
+
+(5) The consumer rejects goods under this section by indicating to the trader that the consumer is rejecting the goods.
+
+(6) The indication may be something the consumer says or does, but it must be clear enough to be understood by the trader.
+
+(7) From the time when a consumer rejects goods under this section—
+
+- (a) the trader has a duty to give the consumer a refund in respect of those goods (subject to subsection (10)), and
+- (b) the consumer has a duty to make those goods available for collection by the trader or (if there is an agreement for the consumer to return rejected goods) to return them as agreed.
+
+(8) Whether or not the consumer has a duty to return the rejected goods, the trader must bear any reasonable costs of returning them, other than any costs incurred by the consumer in returning those goods in person to the place where the consumer took physical possession of them.
+
+(9) Section 20(10) to (17) apply to a consumer's right to receive a refund under this section (and in section 20(13) and (14) references to the contract being treated as at an end are to be read as references to goods being rejected).
+
+(10) That right does not apply—
+
+- (a) if none of section 20(10) to (12) applies,
+- (b) to the extent that anything to which section 20(12) applies cannot be given back in its original state, or
+- (c) to the extent that anything the consumer transferred under the contract cannot be divided so as to give back only the amount, or part of the amount, to which the consumer is entitled.
+
+(11) It may be open to a consumer to claim damages where there is no right to receive a refund, or because of the limits of the right, or instead of a refund.
+
+(12) References in this section to goods conforming to a contract are to be read in accordance with section 19(1) and (2), but they also include the goods conforming to the terms described in section 17.
+
+(13) Where section 20(21)(a) applies the reference in subsection (1) to the consumer treating the contract as at an end is to be read as a reference to the consumer treating the severable obligation as at an end.
+
+## Annotations
+
+[^key-d678960f054e6b4da7027f5b54f18085]: Commencement: S. 21 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

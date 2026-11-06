@@ -1,0 +1,182 @@
+---
+title: The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019
+id: uksi/2019/1030
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2019-06-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2019/1030
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/1030/pdfs/uksiem_20191030_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/1030/pdfs/uksi_20191030_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/1030/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2019 No. 1030
+
+Mental Capacity, England And Wales
+
+The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019
+
+Made
+
+26th June 2019
+
+Laid before Parliament
+
+28th June 2019
+
+Coming into force
+
+31st July 2019
+
+The Lord Chancellor, in exercise of the powers conferred by section 58(3) and (4) of the Mental Capacity Act 2005[^f00001], makes the following Regulations:
+
+## 1. Citation and commencement and interpretation
+
+These Regulations may be cited as the Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 and come into force on 31st July 2019.
+
+**2.** In these Regulations—
+
+- (a) “the 2007 Regulations” means the Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian Regulations 2007[^f00002]; and
+- (b) a reference to a regulation by number alone is a reference to that regulation so numbered in the 2007 Regulations.
+
+## 3. Amendments to the 2007 Regulations
+
+The 2007 Regulations are amended in accordance with regulations 4 to 13.
+
+**4.** In regulation 2 (interpretation)—
+
+- (a) before the definition of “the Act”, insert—
+
+  > - “the 2017 Act” means the Guardianship (Missing Persons) Act 2017[^f00003];
+
+  ;
+- (b) in the definition of “court”, at the end insert “or in relation to proceedings under the 2017 Act the court for the time being designated by the Lord Chancellor under section 23 of the 2017 Act”;
+- (c) after the definition of “court”, insert—
+
+  > - “guardian” has the meaning given in the 2017 Act;
+  > - “guardianship order” has the meaning given in the 2017 Act;”.
+
+**5.** In regulation 30(1) (establishing and maintaining the registers)—
+
+- (a) in sub-paragraph (b), omit “and”;
+- (b) in sub-paragraph (c), at the end insert “and”;
+- (c) after sub-paragraph (c), insert—
+
+  > - (d) the register of guardianship orders,
+
+  .
+
+**6.** In regulation 37 (discharge of any endorsed security)—
+
+- (a) in paragraph (3)(a), omit “or”;
+- (b) after paragraph (3)(a), insert—
+
+  > - (aa) if, in respect of the person on whose behalf S was appointed to act, the court makes a declaration of presumed death under section 2(1) of the Presumption of Death Act 2013[^f00004], until the end of the period of 2 years beginning on the date the court makes the declaration of presumed death; or
+
+  ;
+- (c) after paragraph (5) insert—
+
+  > (6) For the purposes of paragraph (3)(aa), “the court” means the High Court.
+
+  .
+
+**7.** After regulation 37, in the sub-part heading for “Deputies”, at the end insert “and Guardians”.
+
+**8.** In regulation 38 (application for additional time to submit a report)—
+
+- (a) in paragraphs (1) and (2), after “deputy” insert “or a guardian”;
+- (b) in paragraph (4), after “the deputy’s” insert “or the guardian’s”.
+
+**9.** In regulation 39 (content of reports)—
+
+- (a) in paragraph (1), after “a deputy” insert “or a guardian”;
+- (b) in paragraph (4) after “section 16 of the Act” insert “or a guardian under the 2017 Act”;
+- (c) in paragraph (6), after “the deputy” insert “or the guardian”.
+
+**10.** In regulation 40 (power to require final report on termination of appointment)—
+
+- (a) in the heading, for “appointment” substitute “deputy appointment or on expiry, variation or revocation of guardianship order”;
+- (b) in paragraph (1), at the beginning insert “In the case of a deputy,”;
+- (c) after paragraph (1), insert—
+
+  > (1A) In the case of a guardian, this regulation applies where—
+  >
+  > - (a) the period of appointment of the guardian has expired under section 7 of the 2017 Act (period of guardianship);
+  > - (b) the court has made an order varying the guardianship order under section 12 of the 2017 Act (variation of guardianship order);
+  > - (c) the court has made an order revoking the guardianship order under section 13 of the 2017 Act (revocation of guardianship order); or
+  > - (d) the guardianship order has been automatically revoked under section 14 of the 2017 Act (automatic revocation).
+
+  ;
+- (d) in paragraph (2)—
+  - (i) after “the deputy” insert “or the guardian”;
+  - (ii) after “deputy’s death” insert “or the guardian’s death”;
+- (e) in paragraph (4), after “the deputy” insert “or the guardian”;
+- (f) in paragraph (5), after “the deputy” insert “or the guardian”;
+- (g) in paragraph (6), for “his” substitute “the guardian or their” .
+
+**11.** In regulation 41 (power to require information from deputies)—
+
+- (a) in the heading, at the end insert “or guardians”;
+- (b) in paragraph (1)—
+  - (i) in sub-paragraph (a), in paragraph (i), after “a deputy” insert “or a guardian”;
+  - (ii) in sub-paragraph (b)—
+    - (aa) in paragraph (i), after “the deputy” insert “or the guardian”;
+    - (bb) in paragraph (ii), after “the deputy’s” insert “or the guardian’s”;
+- (c) in paragraph (2), after “the deputy” insert “or the guardian”;
+- (d) in paragraph (5), after “the deputy” insert “or the guardian”.
+
+**12.** In regulation 42 (right of deputy to require review of decisions made by the Public Guardian)—
+
+- (a) in the heading, after “deputy” insert “or guardian”;
+- (b) in paragraph (1)—
+  - (i) after “A deputy” insert “or a guardian”;
+  - (ii) after “the deputy” insert “or the guardian”;
+- (c) in paragraphs (2), (4) and (5), after “the deputy” insert “or the guardian”;
+
+**13.** In regulation 43 (applications to the Court of Protection), in the heading omit “of Protection”.
+
+Signed by the authority of the Lord Chancellor
+
+Paul Maynard
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+26th June 2019
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian Regulations 2007 ([S.I. 2007/1253](https://www.legislation.gov.uk/uksi/2007/1253)) (“the 2007 Regulations”) to make provision for the additional functions conferred on the Public Guardian by section 58(2A) of the Mental Capacity Act [2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9) (the “2005 Act”), as inserted by section 17(2) of the Guardianship (Missing Persons) Act [2017 (c. 27)](https://www.legislation.gov.uk/ukpga/2017/27) (“the 2017 Act”).
+
+Regulation 4 amends regulation 2 of the 2007 Regulations to insert definitions from the 2017 Act relevant to the Public Guardian’s function of supervising guardians.
+
+Regulations 5 to 13 of these Regulations amend Part 4 of the 2007 Regulations as follows—
+
+- Regulation 5 extends the Public Guardian’s obligations to establish and maintain registers to guardianship orders.
+- Regulation 6 makes provision for the discharge of security in circumstances where a declaration of presumed death under the Presumption of Death Act [2013 (c. 13)](https://www.legislation.gov.uk/ukpga/2013/13) is made in respect of the person on whose behalf a person was appointed to act.
+- Regulations 6 to 14 extend to guardians the existing provisions which relate to the Public Guardian’s function of supervising deputies.
+
+## Annotations
+
+[^f00001]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9). Section 58(3) and (4) was amended by the Guardianship (Missing Persons) Act [2017 (c. 27)](https://www.legislation.gov.uk/ukpga/2017/27), section 17(1) and (4).
+
+[^f00002]: Footnote: [S.I. 2007/1253](https://www.legislation.gov.uk/uksi/2007/1253), as amended by [S.I. 2007/2161](https://www.legislation.gov.uk/uksi/2007/2161), [S.I. 2009/1884](https://www.legislation.gov.uk/uksi/2009/1884), [S.I. 2010/1063](https://www.legislation.gov.uk/uksi/2010/1063), [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [S.I. 2013/506](https://www.legislation.gov.uk/uksi/2013/506) and [S.I. 2015/899](https://www.legislation.gov.uk/uksi/2015/899). There are other amending instruments not relevant to this S.I.
+
+[^f00003]: Footnote: [2017 c. 27](https://www.legislation.gov.uk/ukpga/2017/27).
+
+[^f00004]: Footnote: [2013 c. 13](https://www.legislation.gov.uk/ukpga/2013/13)

@@ -1,0 +1,347 @@
+---
+title: The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 2006
+id: uksi/2006/714
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-03-13'
+text_date: '2020-12-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2006/714
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/714/pdfs/uksiem_20060714_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/714/pdfs/uksi_20060714_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/714/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 2006
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2006 No. 714
+
+PENSIONS
+
+The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 2006
+
+Made
+
+13th March 2006
+
+Laid before Parliament
+
+16th March 2006
+
+Coming into force in accordance with regulation 1(1)
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by sections 241(8)(c), 242(10), 243(2), 315(2), (4) and (5), and 318(1) of the Pensions Act 2004 [^c1544632].
+
+In accordance with section 317(1) of the Pensions Act 2004 the Secretary of State for Work and Pensions has consulted with such persons as he considers appropriate before making these Regulations.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 2006 and shall come into force on 6th April 2006, immediately prior to the coming into force of Article 2(6) of the Pensions Act 2004 (Commencement No. 8) Order [^c1544633].
+
+(2) In these Regulations—
+
+- “**the Act**” means the Pensions Act 2004;
+- “**the 1995 Act**” means the Pensions Act 1995;
+- “**associated**” shall be construed in accordance with paragraph (4);
+- “**church legislation**” means—
+  - (a) any Measure of the Church Assembly or of the General Synod of the Church of England; or
+  - (b) any order, regulation or other instrument made under, or by virtue of such a Measure;
+- “**connected**” shall be construed in accordance with paragraph (4);
+- “**direct payment paid-up insurance scheme**” means a scheme under which—
+  - (a) no further contributions are payable;
+  - (b) the benefits that may be provided in respect of an individual are determined by reference to the value of the whole or a specified part of the rights under a contract of insurance; and
+  - (c) the benefits in respect of any member are, in accordance with an agreement made between the insurer and the trustees of the scheme (or a subsequent agreement made with any person for the provision of those benefits in respect of the member, by that person), to be paid by the insurer (or that person) directly to the member or to a person entitled to benefits in respect of that member;
+- “**former old code scheme**” means a registered pension scheme which was formerly approved under section 208 of the Income and Corporation Taxes Act 1970 [^c1544634] (approved superannuation funds) and under the provisions of which—
+  - (a) no further contributions are payable; and
+  - (b) the entitlement in respect of each member is to a benefit consisting of a specified fixed amount which may not be altered unless—
+    - (i) the member retires otherwise than at his normal pension age; or
+    - (ii) another person becomes entitled to a benefit in respect of him;
+- “**independently selected**” in relation to a trustee of a scheme or a director of a company which is a trustee of a scheme, means selected as a trustee (or, as the case may, be a director)—
+  - (a) by some or all of the members of the scheme (otherwise than wholly or mainly by members who are directors of companies which are employers in relation to the scheme); or
+  - (b) by an organisation which represents some or all of the members of the scheme (other than wholly or mainly members who are such directors);
+- “insurer” (subject to paragraph (5), means—
+  - (a) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 [^c1544635] (permission to carry on regulated activities) to effect or carry out contracts of long-term insurance;[^key-f4054f8efbc181a3816240b8505b2897]...
+  - (b) [^key-f4054f8efbc181a3816240b8505b2897]...
+- “**registered pension scheme**” has the meaning given in section 150(2) of the Finance Act 2004 [^c1544636] (meaning of pension scheme);
+- “**relevant centralised scheme**” means a scheme in which—
+  - (a) membership is open to employees of more than one employer under a single scheme;
+  - (b) at least two of the employers are not associated or connected; and
+  - (c) in the case of a scheme which has one or more trustee and in which each trustee is a company—
+    - (i) the scheme rules do not provide that the power to appoint or remove all the directors is exercisable solely by one employer; and
+    - (ii) at least one-third of the directors of the company or each of those companies are independent or independently selected; or
+  - (d) in the case of a scheme where at least one of the trustees is not a company, either—
+    - (i) the scheme rules do not provide that the power to appoint or remove all the trustees is exercisable solely by one employer; or
+    - (ii) at least one-third of the trustees are persons who—
+      - (aa) have no legal or beneficial interest in the assets of any of the employers or of the scheme (otherwise than as trustees) and are neither connected nor associated with, any of the employers; and
+      - (bb) have been independently selected;
+- “**relevant executive pension scheme**” means a scheme—
+  - (a) in relation to which the company is the only employer and the sole trustee; and
+  - (b) the members of which are either current or former directors of the company and which includes at least one-third of the current directors;
+- “relevant small occupational pension scheme” means a scheme with fewer than twelve members, where—[^key-8e4eace82183571887b465d106875f28]
+  - (a) all the members are trustees of the scheme and either—
+    - (i) the provisions of the scheme provide that any decision made by the trustees is made by the unanimous agreement of the trustees who are members of the scheme, or
+    - (ii) the scheme has a trustee who is independent in relation to the scheme for the purposes of section 23 of the 1995 Act (power to appoint independent trustees), and is registered in the register maintained by the Authority in accordance with regulations made under subsection (4) of that section; or
+  - (b) all the members are directors of a company which is the sole trustee of the scheme, and either—
+    - (i) the provisions of the scheme provide that any decision made by the company in its capacity as trustee are made by the unanimous agreement of the directors who are members of the scheme, or
+    - (ii) one of the directors of the company is independent in relation to the scheme for the purposes of section 23 of the 1995 Act, and is registered in the register maintained by the Authority in accordance with regulations made under subsection (4) of that section;
+- “**relevant wholly insured scheme**” means a scheme under which there is a sole trustee and all the benefits are secured by contracts of insurance or annuity contracts, some or all of which are with an insurer who—
+  - (a) is, or is connected, with the sole trustee of the scheme; but
+  - (b) is not, and is not connected, with the employer;
+- “**section 615(6) scheme**” means a scheme with such a superannuation fund as is mentioned in section 615(6) of the Income and Corporation Taxes Act 1988 [^c1544638] (exemption from tax in respect of certain pensions);
+- “**small insured scheme**” means a scheme—
+  - (a) with fewer than twelve members; and
+  - (b) in which all the scheme benefits are secured with an insurer under a contract of insurance or annuity contract.
+
+(3) For the purposes of paragraph (2), a director is independent in relation to a scheme only if he—
+
+- (a) has no direct legal or beneficial interest in the assets of any of the employers or of the scheme; and
+- (b) is neither connected, nor associated with, any of the employers.
+
+(4) For the purposes of these Regulations—
+
+- (a) sections 249 and 435 of the Insolvency Act 1986 [^c1544639] (connected and associated persons) shall apply as they apply for the purposes of that Act; and
+- (b) section 74 of the Bankruptcy (Scotland) Act 1985 [^c1544640] (associated persons) shall apply as it applies for the purposes of that Act.
+
+(5) The definition of insurer in paragraph (2) must be read with—
+
+- (a) section 22 of the Financial Services and Markets Act 2000 (the classes of activity and categories of investment); and
+- (b) any relevant order under that section; or
+- (c) Schedule 2 to that Act (regulated activities).
+
+(6) References to “employer” and “employers” in paragraphs (c)(i) and (d) of the definition in paragraph (2) of “relevant centralised scheme” and in paragraph (3) do not include companies which carry on the business of acting as trustee of, or providing administrative services to, the scheme and no other business.
+
+## 2. Exemptions from requirement to have member-nominated trustees
+
+For the purposes of section 241(8)(c) of the Act (requirement for member-nominated trustees) a scheme is of a prescribed description, if the scheme—
+
+- (a) has fewer than two members;
+- (b) is a scheme to which section 22 of the 1995 Act [^c1544641] (independent trustees - circumstances in which following provisions apply) applies;
+- (c) is an occupational pension scheme within the meaning given by section 1 of the Pension Schemes Act 1993 [^c1544642] (categories of pension schemes), but if it is not a registered pension scheme;
+- (d) is a relevant small occupational pension scheme;
+- (e) is a relevant centralised scheme;
+- (f) is a direct payment, paid-up insurance scheme;
+- (g) is a former old code scheme;
+- (h) is a section 615(6) scheme;
+- (i) is set up under section 2 of the Parliamentary and other Pensions Act 1987 [^c1544643] (power to provide for pensions for Members of the House of Commons etc.);
+- (ia)[^key-b61d72339c175cfdba0d2cb15f1ec3dd] is a scheme, provision for which is made by virtue of section 81(3) of the Scotland Act 1998 (remuneration of members of the Parliament and Executive);
+- (j) has been modified under Schedule 5 to the Coal Industry Act 1994 [^c1544644] (pension provision in connection with restructuring);
+- (k) is a scheme where the sole trustee, or all the trustees are independent within the meaning given by section 23(3) of the 1995 Act;
+- (l) is a stakeholder pension scheme within the meaning of section 1 of the Welfare Reform and Pensions Act 1999 [^c1544645] (meaning of “stakeholder pension scheme”);
+- (m) is a small insured scheme;
+- (n) is independent of the employer by virtue of the employer having been dissolved or liquidated prior to 6th April 2005; [^key-91634c42858689831f65bb086cfb6ccb]...
+- (o) is a scheme where the trustee is a body governed by church legislation.
+- (p)[^key-bde0b5aa0879ba3f0ec728fd810140c3] is set up under section 18 of the Government of Wales Act 1998;
+- (q) is designated as an existing scheme by virtue of article 15 of the Railway Pensions (Protection and Designation of Schemes) Order 1994 (designation of existing schemes).
+- (r)[^key-9317633902f7cf26d19235b7816294b0] is established under section 67 of the Pensions Act 2008.
+
+## 3. Prescribed exemptions from requirement to have member-nominated directors of corporate trustees
+
+For the purposes of section 242(10) of the Act (requirement for member-nominated directors of corporate trustees) a scheme is of a prescribed description if the scheme—
+
+- (a) has fewer than two members;
+- (b) is a scheme to which section 22 of the 1995 Act applies;
+- (c) is an occupational pension scheme within the meaning given by section 1 of the Pension Schemes Act 1993, but if it is not a registered pension scheme;
+- (d) is a relevant small occupational pension scheme;
+- (e) is a relevant centralised scheme;
+- (f) is a direct payment, paid-up insurance scheme;
+- (g) is a former old code scheme;
+- (h) is a section 615(6) scheme;
+- (i) is set up under section 2 of the Parliamentary and other Pensions Act 1987;
+- (j) has been modified under Schedule 5 to the Coal Industry Act 1994;
+- (k) is a stakeholder pension scheme within the meaning of section 1 of the Welfare Reform and Pensions Act 1999;
+- (l) is a scheme which is a relevant executive pension scheme in relation to the company;
+- (m) is a scheme where all the directors (or the sole director) of the trustee (or trustees)[^key-62fee8c8a9c70da2f6aed7c03f49d56f] are independent within the meaning given by section 23(3) of the 1995 Act;
+- (n) is a small insured scheme;
+- (o) is independent of the employer by virtue of the employer having been dissolved or liquidated prior to 6th April 2005;
+- (p) is a scheme which is a relevant wholly insured scheme;[^key-1066adaf5877e6e56a6d97a2c49921d1]...
+- (q) is a scheme where the trustee is a body governed by church legislation.
+- (r)[^key-6043643cb09e72ec620d82e4b9005a20] is set up under section 18 of the Government of Wales Act 1998;
+- (s) is designated as an existing scheme by virtue of article 15 of the Railway Pensions (Protection and Designation of Schemes) Order 1994.
+
+## 4. Transitional
+
+In relation to a scheme which has alternative arrangements for the appointment of trustees or directors approved under section 17(1) (exceptions), or 19(1) (corporate trustees: exceptions) of the 1995 Act immediately prior to the date those sections were repealed, the approval of such arrangements shall cease to have effect—
+
+- (a) on the date the approval under regulation 20 of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 1996 [^c1544646] (cessation of approval of appropriate rules and alternative arrangements) would cease to have effect but for the revocation of those Regulations; or
+- (b) on 31st October 2007,
+
+whichever is the earlier.
+
+## 5. Modifications of sections 241 and 242 of the Act
+
+(1) Sections 241 (requirement for member-nominated trustees) and 242 (requirement for member-nominated directors of corporate trustees) of the Act are modified in their application to the cases prescribed in paragraphs (2) to (7)[^key-6ffb3b491263fd833248884a827d427a].
+
+(2) In relation to a scheme where the scheme rules contain provisions requiring that there be more than one-third member-nominated trustees or directors as the case may be, sections 241 and 242 of the Act are modified as if—
+
+- (a) in section 241(1)(a) for “at least one-third of the total number of trustees” there were substituted “the nomination and selection of member-nominated trustees at least in a proportion not less than that proportion set out in the scheme rules”;
+- (b) section 241(4) were omitted;
+- (c) in section 242(1)(a) for “at least one-third of the total number of directors of the company” there were substituted “the nomination and selection of member-nominated directors at least in a proportion not less than that proportion set out in the scheme rules”; and
+- (d) section 242(4) were omitted.
+
+(3) In relation to a scheme where the scheme rules provide that trustees of the scheme may be removed by a vote of the membership, then in relation to any application of that scheme rule, section 241 shall be modified as if subsection (6) were omitted.
+
+(4) In relation to a scheme which has member-nominated trustees or, as the case may be, directors appointed under section 16(1) (requirement for member-nominated trustees) or section 18(1) of the 1995 Act (corporate trustees: member-nominated directors) immediately prior to the date those sections are repealed, sections 241 and 242 of the Act are modified as if—
+
+- (a) in section 241 after subsection (2) there were inserted—
+
+  > (2A) In the case of a scheme which has member-nominated trustees appointed under section 16(1) [^c1544647] of the Pensions Act 1995 immediately prior to the date that section was revoked, “**member-nominated trustees**” includes any member-nominated trustees appointed under that section for the remainder of their term of office under section 16(5).
+
+  ; and
+- (b) in section 242 after subsection (2) there were inserted—
+
+  > (2A) In the case of a scheme which has member-nominated directors appointed under section 18(1) [^c1544648] of the Pensions Act 1995 immediately prior to the date that section was revoked, “**member-nominated directors**” includes any member-nominated directors appointed under that section for the remainder of their term of office under section 18(5).
+
+  .
+
+(5) In relation to a scheme which has arrangements for the appointment of member-nominated trustees or directors approved under sections 17(1) or 19(1) of the 1995 Act, immediately prior to the date those sections are repealed, sections 241 and 242 of the Act are modified as if—
+
+- (a) in section 241 for subsection (3)(a) and (b) there were substituted—
+
+  > - (a) the date the approval under regulation 20 of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 1996 [^c1544649] (cessation of approval of appropriate rules and alternative arrangements) would cease to have effect but for the revocation of those Regulations; or
+  > - (b) 31st October 2007,
+  >
+  >   whichever is the earlier.
+
+  ; and
+- (b) in section 242 for subsection (3)(a) and (b) there were substituted—
+
+  > - (a) the date the approval under regulation 20 of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 1996 (cessation of approval of appropriate rules and alternative arrangements) would cease to have effect but for the revocation of those Regulations; or
+  > - (b) 31st October 2007;
+  >
+  >   whichever is the earlier.
+
+  .
+
+(6) In relation to a scheme which has no active or pensioner members section 241 and 242 of the Act are modified as if for subsection (2)(a) in both sections, there were substituted—
+
+> - (a) are nominated as the result of a process in which at least such deferred members as the trustees determine are eligible to participate, and
+
+.
+
+(7)[^key-16f5569510dde5f5da8b316988dc64aa] In relation to a scheme where—
+
+- (a) every trustee is a company,
+- (b) at least one trustee only has directors who are independent (or a sole director who is independent) within the meaning given by section 23(3) of the 1995 Act, and
+- (c) at least one trustee has one or more directors who are not independent within that meaning,
+
+section 242 of the Act is modified as if after subsection (1), there were inserted—
+
+> (1A) But subsection (1) does not apply to such a company which only has directors who are independent (or a sole director who is independent) within the meaning given by section 23(3) of the Pensions Act 1995.
+
+.
+
+## 6. Revocations
+
+The subordinate legislation specified in column 1 of the Schedule to these Regulations are revoked to the extent specified in column 3.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Stephen C. Timms
+
+Minister of State,
+
+Department for Work and Pensions
+
+## SCHEDULE
+
+Regulation 6
+
+| *Column 1* | *Column 2* | *Column 3* |
+| --- | --- | --- |
+| *Regulations revoked* | *References* | *Extent of revocation* |
+| The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 1996 | S.I. 1996/1216 | The whole of the Regulations |
+| The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1997 | S.I. 1997/786 | Paragraph 5 of Schedule 1, and Schedule 2 to the Regulations (in so far as it relates to the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 1996) |
+| The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1999 | S.I. 1999/3198 | Regulation 7 |
+| The Stakeholder Pension Schemes Regulations 2000 | S.I. 2000/1403 | Regulation 30 |
+| The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 | [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) [^key-cb4dd020f89739bc11562faeaa518115] | Article 524 |
+| The Occupational Pension Schemes (Member-nominated Trustees and Directors) Amendment Regulations 2002 | [S.I. 2002/2327](https://www.legislation.gov.uk/uksi/2002/2327) [^key-42a7492479208d51ca67a2c8eb443507] | The whole of the Regulations |
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision in relation to member-nominated trustees and directors under sections 241 and 242 of the Pensions Act 2004 (c. 35) (“**the Act**”).
+
+Regulation 2 prescribes the types of scheme where the minimum proportion of member-nominated trustees specified in section 241(1) of the Act is not required.
+
+Regulation 3 prescribes the types of scheme where the minimum proportion of member-nominated directors set out under section 242(1) of the Act is not required.
+
+Regulation 4 makes transitional provision in respect of schemes which had existing arrangements approved under sections 17 or 19 of the Pensions Act 1995 prior to the repeal of those sections.
+
+Regulation 5 modifies the provisions of sections 241 and 242 in respect of schemes whose existing scheme rules require a higher proportion of trustees or directors to be member-nominated. It also provides for transitional provisions for schemes that were exempted under the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 1996 (S.I. 1996/1216).
+
+Regulation 6 and the Schedule provide for the revocation of certain provision of subordinate legislation.
+
+An assessment of the impact on business, charities and the voluntary sector of the provisions in these Regulations was included in the Regulatory Impact Assessments that accompanied the Pensions Act 2004. A copy of this assessment has been placed in the libraries of both Houses of Parliament. Copies may be obtained from the Department for Work and Pensions, Regulatory Impact Unit, 2nd Floor, Adelphi, 1-11 John Adam Street, London, WC2N 6HT.
+
+## Annotations
+
+[^c1544632]: Marginal citation: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35). (“**the Act**”) Section 318(1) is cited for meaning there given to “modifications”, “prescribed” and “regulations”.
+
+[^c1544633]: Marginal citation: [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331) (c.141). Article 2(6) prospectively repeals sections 16 to 21 of the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^c1544634]: Marginal citation: [1970 c. 10](https://www.legislation.gov.uk/ukpga/1970/10). That Act was repealed with savings by paragraph 24(1) of Schedule 11 and Schedule 12 to, the [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12) and Schedule 26 to the [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9).
+
+[^c1544635]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-f4054f8efbc181a3816240b8505b2897]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [32(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/32/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c1544636]: Marginal citation: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
+
+[^key-8e4eace82183571887b465d106875f28]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/2) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/2)
+
+[^c1544638]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1). Section 615(6) was amended by paragraph 11 of Schedule 10 to the [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16).
+
+[^c1544639]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). Section 435 was amended by Schedule 27 to the [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^c1544640]: Marginal citation: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66). Section 74 was amended by Schedule 28 to the Civil Partnership Act 2004.
+
+[^c1544641]: Marginal citation: Section 22 was amended by section 36(1) and (2)(a), (b), (c), and (d), and 322(1) of, and paragraphs 34 and 40 of Schedule 12 to, the Act.
+
+[^c1544642]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48). Section 1(1) was amended by section 239 of the Act.
+
+[^c1544643]: Marginal citation: [1987 c. 45](https://www.legislation.gov.uk/ukpga/1987/45). Section 2 was amended by section 2(1) of the Ministerial and other [Pensions and Salaries Act 1991 (c. 5)](https://www.legislation.gov.uk/ukpga/1991/5).
+
+[^key-b61d72339c175cfdba0d2cb15f1ec3dd]: Textual amendment: Reg. 2(ia) inserted (1.9.2009) by [Occupational Pension Schemes (Scottish Parliamentary Pensions Act 2009) Regulations 2009 (S.I. 2009/1906)](https://www.legislation.gov.uk/uksi/2009/1906), [reg. 1](https://www.legislation.gov.uk/uksi/2009/1906/regulation/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/1906/schedule/paragraph/9)
+
+[^c1544644]: Marginal citation: [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21). Schedule 5 was amended by paragraph 64 of Schedule 1 to the [Employment Rights Act 1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^c1544645]: Marginal citation: 1999\. c.30. Section 1 was amended by sections 285 of, and paragraphs 11 and 12 of Schedule 12 to, the Act.
+
+[^key-91634c42858689831f65bb086cfb6ccb]: Textual amendment: Word in reg. 2(n) omitted (6.4.2007) by virtue of [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(3)(a)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/3/a)
+
+[^key-bde0b5aa0879ba3f0ec728fd810140c3]: Textual amendment: Reg. 2(p)(q) inserted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(3)(b)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/3/b)
+
+[^key-9317633902f7cf26d19235b7816294b0]: Textual amendment: Reg. 2(r) added (5.7.2010) by [National Employment Savings Trust (Consequential Provisions) Order 2010 (S.I. 2010/9)](https://www.legislation.gov.uk/uksi/2010/9), [regs. 1](https://www.legislation.gov.uk/uksi/2010/9/article/1),[3](https://www.legislation.gov.uk/uksi/2010/9/regulation/3)
+
+[^key-62fee8c8a9c70da2f6aed7c03f49d56f]: Textual amendment: Words in [reg. 3(m)](https://www.legislation.gov.uk/uksi/2006/714/regulation/3/m) substituted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/22/2)
+
+[^key-1066adaf5877e6e56a6d97a2c49921d1]: Textual amendment: Word in reg. 3(p) omitted (6.4.2007) by virtue of [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(4)(a)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/4/a)
+
+[^key-6043643cb09e72ec620d82e4b9005a20]: Textual amendment: Reg. 3(r)(s) inserted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(4)(b)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/4/b)
+
+[^c1544646]: Marginal citation: [S.I. 1996/1216](https://www.legislation.gov.uk/uksi/1996/1216), the relevant amending instruments are [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786) and [S.I. 2002/2327](https://www.legislation.gov.uk/uksi/2002/2327).
+
+[^key-6ffb3b491263fd833248884a827d427a]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2006/714/regulation/5/1) substituted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [22(3)(a)](https://www.legislation.gov.uk/uksi/2009/615/regulation/22/3/a)
+
+[^c1544647]: Marginal citation: Section 16 is repealed by Part 1 of Schedule 13 to the Act.
+
+[^c1544648]: Marginal citation: Section 18 is repealed by Part 1 of Schedule 13 to the Act.
+
+[^c1544649]: Marginal citation: [S.I. 1996/1216](https://www.legislation.gov.uk/uksi/1996/1216).
+
+[^key-16f5569510dde5f5da8b316988dc64aa]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/uksi/2006/714/regulation/5/7) inserted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [22(3)(b)](https://www.legislation.gov.uk/uksi/2009/615/regulation/22/3/b)
+
+[^key-cb4dd020f89739bc11562faeaa518115]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2006/714/schedule) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(5)(a)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/5/a)
+
+[^key-42a7492479208d51ca67a2c8eb443507]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2006/714/schedule) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(5)(b)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/5/b)

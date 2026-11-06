@@ -1,0 +1,66 @@
+---
+title: Education (No. 2) Act 1986, section 4A
+act: Education (No. 2) Act 1986
+section: 4A
+status: repealed
+text_date: '2026-07-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1986/61/section/4A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Education (No. 2) Act 1986, section 4A
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 4A. Sponsor governors for aided secondary schools.[^c4596321]
+
+*Extent: E+W*
+
+**No longer in force (ended 1996-11-01).**
+
+(1) The instrument of government for any aided secondary school shall, if a direction under this section so requires—
+
+- (a) name as a sponsor of the school a person specified in the direction, and
+- (b) provide for the governing body of the school to include such number of governors appointed by the sponsor, not exceeding four, as is so specified.
+
+(2) A direction under this section in respect of a school, other than a direction under subsection (4) or (5) below—
+
+- (a) may only be given at the request, or with the consent, of the governing body, and
+- (b) may make provision (including the modification of any provision made by or under this Act) as to the time by which a new instrument of government is to be made and the consent and consultation which is to be required before it is made.
+
+(3) A direction under this section varying or revoking a previous direction—
+
+- (a) may only be made after consulting the governing body, and
+- (b) may make provision (including the modification of any provision made by or under this Act) as to the time by which a new instrument of government is to be made and the consent and consultation which is to be required before it is made.
+
+(4) Where proposals approved under section 13 of the Education Act 1980 (establishment and alteration of voluntary schools)—
+
+- (a) provide for a secondary school to be maintained by the local education authority as a voluntary school,
+- (b) name a person as a sponsor of the school, and
+- (c) provide for the governing body of the school to include a specified number of governors, not exceeding four, appointed by the sponsor,
+
+the Secretary of State shall, if he makes an order under section 15 of the Education Act 1944 (classification of schools) directing that the school be an aided school, give a direction under this section for the purpose of implementing the proposals.
+
+(5) Where an order under section 54 of this Act directs that a secondary school be an aided school and the proposals published by the governing body under that section—
+
+- (a) name a person as a sponsor of the school, and
+- (b) provide for the governing body of the school to include a specified number of governors, not exceeding four, appointed by the sponsor,
+
+the Secretary of State shall give a direction under this section for the purpose of implementing the proposals.
+
+(6) Where the instrument of government for any aided secondary school names two or more persons as sponsors of the school—
+
+- (a) the number of governors appointed under the instrument by virtue of this section may not exceed four, and
+- (b) the instrument may not provide for any of those governors to be appointed by two or more sponsors acting jointly.
+
+(7) Where in pursuance of this section the instrument of government for a school names a person as a sponsor of the school, section 4(3)(a) of this Act shall have effect as if it required the instrument to provide for such number of foundation governors as will lead to their outnumbering the other governors by two.
+
+(8) In this section “**direction**” means a direction contained in an order made by the Secretary of State; but section 63(1) of this Act shall not apply to the power of the Secretary of State to make orders under this section.
+
+## Annotations
+
+[^c4596321]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/1986/61/section/4A) inserted (1.1.1994) by [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35), [s. 271(1)](https://www.legislation.gov.uk/ukpga/1993/35/section/271/1); [S.I. 1993/3106](https://www.legislation.gov.uk/uksi/1993/3106), [art. 4](https://www.legislation.gov.uk/uksi/1993/3106/article/4), [Sch.1](https://www.legislation.gov.uk/uksi/1993/3106/schedule/1)

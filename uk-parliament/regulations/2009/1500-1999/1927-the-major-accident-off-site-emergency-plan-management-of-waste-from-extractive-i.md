@@ -1,0 +1,500 @@
+---
+title: The Major Accident Off-Site Emergency Plan (Management of Waste from Extractive Industries) (England and Wales) Regulations 2009
+id: uksi/2009/1927
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-07-16'
+text_date: '2025-02-27'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2009/1927
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/1927/pdfs/uksiem_20091927_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/1927/pdfs/uksi_20091927_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/1927/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Major Accident Off-Site Emergency Plan (Management of Waste from Extractive Industries) (England and Wales) Regulations 2009
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2009 No. 1927
+
+Health And Safety, England And Wales
+
+Environmental Protection, England And Wales
+
+The Major Accident Off-Site Emergency Plan (Management of Waste from Extractive Industries) (England and Wales) Regulations 2009
+
+Made
+
+16th July 2009
+
+Laid before Parliament
+
+21st July 2009
+
+Coming into force
+
+12th August 2009
+
+The Secretary of State is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the environment.
+
+The Secretary of State makes these Regulations—
+
+- (a) in the exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and sections 15(1), (2), (3)(c), (6)(d) and (8), 18(2)(a), 43(2), (3) (4) and (6), 82(3) of, and paragraphs 1(1), 6, 15(1), 16 and 20 of Schedule 3 to, the Health and Safety etc at Work Act 1974[^f00003], (“the 1974 Act”), and
+- (b) independently of any proposals submitted by the Health and Safety Executive under section 11(3) of the 1974 Act.
+
+The Secretary of State has consulted the Health and Safety Executive and such other bodies as appear to the Secretary of State to be appropriate, as required by section 50(1AA)[^f00004] of the 1974 Act.
+
+## 1. Citation, commencement and extent
+
+These Regulations—
+
+- (a) may be cited as the Major Accident Off-Site Emergency Plan (Management of Waste from Extractive Industries) (England and Wales) Regulations 2009;
+- (b) come into force on 12th August 2009; and
+- (c) extend to England and Wales only.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “the 2016 Regulations” means the Environmental Permitting (England and Wales) Regulations 2016;[^key-bae7332502ca59571a4f774dd8253908]
+- “[^key-1d30cc4932c40a8ea203554e16c21dca]**appropriate agency**” means—
+  - (a) in relation to England, the Environment Agency;
+  - (b) in relation to Wales, the Natural Resources Body for Wales;
+- “**appropriate authority**” means—
+  - (a) in relation to England, the Secretary of State;
+  - (b) in relation to Wales, the Welsh Ministers;
+- “Category A mining waste facility” means a mining waste facility which is classified as Category A under Article 9 of the Mining Waste Directive;
+- “competent authority” means, in relation to an area, the fire and rescue authority under the Fire and Rescue Services Act 2004 for that area;[^key-14301f634323d4fe90a6e778c1015a21]
+- “emergency services” means those police, fire and ambulance services who are liable to be required to respond to a major accident, and, where appropriate, Her Majesty’s Coastguard;
+- “[^key-ecb384f9dffe8f5e6ed743ce1e126b50]**EU-derived domestic legislation**” has the meaning given in section 2(2) of the European Union (Withdrawal) Act 2018;
+- “health authority” means—
+  - (a) in relation to England,[^key-cf6ab9399f19db7ae47b339dc7f6bd61] an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^key-2a84592da1f4f56e0245beddabbaedbb], NHS England[^key-452181312dc80f35360d9a653909207c] or Public Health England, an executive agency of the Department of Health and Social Care[^key-bf15d02e304413917422936c21ad48f1];
+  - (b) in relation to Wales, a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006[^f00006];
+- “[^key-eca5cec7810d580d9beef5189d97d5e6]**local authority**” means—
+  - (a) in England outside Greater London—
+    - (i) a district council,
+    - (ii) a county council, or
+    - (iii) the Council of the Isles of Scilly;
+  - (b) in Greater London—
+    - (i) the council of a London borough,
+    - (ii) the Common Council of the City of London,
+    - (iii) the Sub-Treasurer of the Inner Temple, or
+    - (iv) the Under-Treasurer of the Middle Temple;
+  - (c) in Wales—
+    - (i) a county council, or
+    - (ii) a county borough council.
+- “major accident” has the same meaning as in the Mining Waste Directive;
+- “Mining Waste Directive” means Directive [2006/21/EC](https://www.legislation.gov.uk/european/directive/2006/0021)[^f00007] of the European Parliament and of the Council on the management of waste from extractive industries and amending Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) as read in accordance with regulation 2A[^key-6f3cd1be5c127e77784f6d4b624c161a];
+- “mining waste facility” means a “waste facility” as defined in Article 3(15) of the Mining Waste Directive but excludes those facilities mentioned in Article 24(2) or in the first paragraph of Article 24(4) of that Directive;
+- “operator” has the meaning given in regulation 7 of the 2016 Regulations[^key-0fe2ccb849e2485cf7ed5aa9fd7735de];
+- “the public” and “the public concerned” have the same meanings as in the Mining Waste Directive; and
+- “regulator” means—[^key-a2b6aaf05450d76b627b922d0da213ab]
+  - (a) the Natural Resources Body for Wales where that body is the regulator of the mining waste facility under the 2016 Regulations[^key-a8648607193cf6e6bd16e48706d45168];
+  - (b) the Environment Agency, where that body is the regulator of the mining waste facility under the 2016 Regulations;
+- “site” means the whole area under the control of the operator where a mining waste facility is present, and for this purpose two or more areas under the control of the same person and separated only by a road, railway or inland waterway are to be treated as one whole area (and on-site and off-site are to be construed accordingly).
+
+## 2A. Modifications to the Mining Waste Directive[^key-8bf56689ad12353fca9790fba93cc335]
+
+(1) For the purposes of these Regulations, the Mining Waste Directive is to be read in accordance with this regulation.
+
+(2) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, appropriate agency or local authority which, immediately before IP completion day, was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of England or Wales.
+
+(3) Article 2 is to be read as if—
+
+- (a) in paragraph 2(c), the reference to Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) were a reference to that Article read in accordance with regulation 2B;
+- (b) paragraphs 3 and 4 were omitted**.**
+
+(4) Article 3 is to be read as if—
+
+- (a) in point (1), for “Article 1(a) of Directive [75/442/EEC](https://www.legislation.gov.uk/eudr/1975/442)” there were substituted “ Article 3(1) of the Waste Framework Directive, as read with Articles 5 and 6 of that Directive ”;
+- (b) in point (2), for “Article 1(4) of Council Directive [91/689/EEC](https://www.legislation.gov.uk/eudr/1991/689) of 12 December 1991 on hazardous waste” there were substituted “ Article 3(2) of the Waste Framework Directive ”;
+- (c) in point (4), for the words from “the national law” to the end there were substituted “ national law ”;
+- (d) in point (17), for “Directive [67/548/EEC](https://www.legislation.gov.uk/eudr/1967/548) or Directive [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45)” there were substituted “ Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures ”;
+- (e) in point (18), for “Article 2(11) of Directive [96/61/EC](https://www.legislation.gov.uk/eudr/1996/61)” there were substituted “ Article 3(10) of the Industrial Emissions Directive ”;
+- (f) in point (24), for the words from “the national law” to “takes place” there were substituted “ national law ”;
+- (g) in point (26), for the words from “the national law” to “operates” there were substituted “ national law ”;
+- (h) in point (27), for “which a Member State designates” there were substituted “ designated ”.
+
+(5) Article 5 is to be read as if—
+
+- (a) in paragraph 2(a)(iii) and (b), “at Community level” were omitted;
+- (b) in paragraph 3(g), for “Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy in respect of England and Wales”;
+- (c) in paragraph 5, “national or Community” were omitted.
+
+(6) Article 6(2) is to be read as if the words from “Without prejudice” to “92/104/EEC,” were omitted.
+
+(7) Article 7 is to be read as if—
+
+- (a) in paragraph 1, in the second subparagraph, “national or Community” were omitted;
+- (b) in paragraph 2(e), the reference to Directive [85/337/EEC](https://www.legislation.gov.uk/eudr/1985/337) were a reference to the EU-derived domestic legislation which transposed Directive 2011/92/EU of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment in respect of England and Wales;
+- (c) in paragraph 3(b), for “Article 7 of Directive [75/442/EEC](https://www.legislation.gov.uk/eudr/1975/442)” there were substituted “ Article 13 of the Waste Framework Directive ”;
+- (d) in paragraph 4, the third indent were omitted;
+- (e) in paragraph 5, “and Community” were omitted.
+
+(8) Article 10 is to be read as if paragraph 2 were omitted.
+
+(9) Article 11(2)(a) is to be read as if—
+
+- (a) “Community or” were omitted;
+- (b) for “Directives [76/464/EEC](https://www.legislation.gov.uk/eudr/1976/464), [80/68/EEC](https://www.legislation.gov.uk/eudr/1980/68) and [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of England and Wales ”.
+
+(10) Article 12 is to be read as if—
+
+- (a) in paragraph 4, “national or Community” were omitted;
+- (b) in paragraph 5, for the words from “Community” to “2000/60/EC” there were substituted “ assimilated[^key-62e9ddb2fecbdb6021c96f6e0b0f2363] law, in particular the EU-derived domestic legislation which transposed Directive 2000/60/EC in respect of England and Wales ”.
+
+(11) Article 13 is to be read as if—
+
+- (a) in paragraph 1, in the words before point (a)—
+  - (i) “Community” were omitted;
+  - (ii) for “Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of England and Wales ”;
+- (b) in paragraph 3, for “Directives [76/464/EEC](https://www.legislation.gov.uk/eudr/1976/464), [80/68/EEC](https://www.legislation.gov.uk/eudr/1980/68) or [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of England and Wales ”;
+- (c) in paragraph 4, for “Directives [76/464/EEC](https://www.legislation.gov.uk/eudr/1976/464), [80/68/EEC](https://www.legislation.gov.uk/eudr/1980/68) and [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of England and Wales ”;
+- (d) in paragraph 5, in the second sentence—
+  - (i) for “Community” there were substituted “ assimilated[^key-73d3ef76563b8dc0393b0994f8493d68] law ”;
+  - (ii) for “Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) in respect of England and Wales ”.
+
+(12) Article 24(4) is to be read as if, in the first paragraph, in the second indent, “Community or” were omitted.
+
+(13) Annex 3 is to be read as if—
+
+- (a) in the second indent, for “Directive [91/689/EEC](https://www.legislation.gov.uk/eudr/1991/689)” there were substituted “ the Waste Framework Directive ”;
+- (b) in the third indent, for “Directives [67/548/EEC](https://www.legislation.gov.uk/eudr/1967/548) or [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45)” there were substituted “ Regulation [(EC) 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures ”.
+
+## 2B. Modifications to the Water Framework Directive
+
+(1) For the purposes of regulation 2A(3)(a), Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy is to be read as if—
+
+- (a) the reference to “Member States” were a reference to the appropriate authority or appropriate agency;
+- (b) in the words after the final indent, “environmental objectives”—
+  - (i) in relation to the Northumbria River Basin District, means the objectives referred to in the WFD Regulations as applied by regulation 5 of the Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003;
+  - (ii) in relation to the Solway Tweed River Basin District, has the same meaning as in regulation 2 of the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004;
+  - (iii) in relation to a river basin district within the meaning of the WFD Regulations, has the same meaning as in those Regulations.
+
+(2) In paragraph 1(b), “**the WFD Regulations**” means the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017.
+
+## 2C. Modifications to the Waste Framework Directive
+
+(1) In these Regulations, the “**Waste Framework Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851, and read in accordance with this regulation.
+
+(2) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority, appropriate agency or local authority which, immediately before IP completion day, was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of England or Wales.
+
+(3) Article 2 is to be read as if—
+
+- (a) in paragraph 2—
+  - (i) in the words before point (a), for “other Community legislation” there were substitute “ assimilated[^key-29eea2e3ef8751217b09f652f8c20628] law ”;
+  - (ii) in points (b) and (c), for “Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/eur/2002/1774)” there were substituted “ Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) ”;
+  - (iii) in point (d), for the words from “Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21)” to the end there were substituted “ the Mining Waste Directive ”;
+- (b) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted;
+- (c) paragraph 4 were omitted.
+
+(4) Article 5 is to be read as if—
+
+- (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+- (b) after paragraph 1 there were inserted—
+
+  > **1A.** Any decision as to whether a substance or object is a by-product must be made—
+  >
+  > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+  > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+
+  ;
+- (c) paragraphs 2 and 3 were omitted.
+
+(5) Article 6 is to be read as if—
+
+- (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+- (b) after paragraph 1 there were inserted—
+
+  > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
+  >
+  > - (a) in accordance with any regulations or assimilated direct[^key-2ecb3b0ba76e968b9b12c6a309daacbb] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+  > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+
+  ;
+- (c) in paragraph 2—
+  - (i) the first subparagraph were omitted;
+  - (ii) in the second subparagraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
+  - (iii) the third and fourth subparagraphs were omitted;
+- (d) paragraph 3 were omitted;
+- (e) in paragraph 4—
+  - (i) in the first subparagraph—
+    - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the appropriate agency”;
+    - (bb) the second sentence were omitted;
+  - (ii) in the second subparagraph—
+    - (aa) for “Member States” there were substituted “The appropriate agency”;
+    - (bb) “by competent authorities” were omitted.
+
+(6) Article 7 is to be read as if—
+
+- (a) before paragraph 1 there were inserted—
+
+  > **A1.** In this Article, the “list of waste” means the list contained in the Annex to Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eudn/2000/0532), as that list has effect in England or in Wales (as the case may be).
+
+  ;
+- (b) in paragraph 1—
+  - (i) the first and second sentences were omitted;
+  - (ii) for the third sentence there were substituted “The list of waste shall, except as provided in Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/eudn/2000/0532), be binding as regards determination of the waste which is to be considered as hazardous waste or as non-hazardous waste.”;
+- (c) paragraphs 2, 3, 6 and 7 were omitted.
+
+(7) Annex 3 is to be read as if, in entry HP 9, in the second sentence, “in the Member States” were omitted.
+
+## 2D. Modifications to the Industrial Emissions Directive
+
+(1) In regulation 2A(4)(e), the “Industrial Emissions Directive means Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions, read in accordance with paragraphs 2 and 3.
+
+(2) Article 3 is to be read as if—
+
+- (a) in point (1)(a), for the words from “Article 1” to the end there were substituted “ Article 4(78) of Council Directive 2013/59/Euratom laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation ”;
+- (b) in point (10)(b), for “Member State in question” there were substituted “ United Kingdom ”;
+- (c) in point (23), for the words from “point 1” to the end there were substituted “ point 1 of the second subparagraph of Article 2 of Council Directive [2009/158/EC](https://www.legislation.gov.uk/eudr/2009/158) on animal health conditions governing intra-Community trade in, and imports from third countries of, poultry and hatching eggs ”;
+- (d) in point (37), for “Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council of 19 November 2008 on waste” there were substituted “ the Waste Framework Directive, as read with Articles 5 and 6 of that Directive ”;
+- (e) in point (38), for “Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98)” there were substituted “ the Waste Framework Directive ”.
+
+(3) Annex 1 is to be read as if—
+
+- (a) in the words before point 1, the second paragraph were omitted;
+- (b) in point 5.3—
+  - (i) in point (a), in the words before point (i), for “Council Directive [91/271/EEC](https://www.legislation.gov.uk/eudr/1991/271) of 21 May 1991 concerning urban waste-water treatment” there were substituted “ the Urban Waste Water Treatment (England and Wales) Regulations 1994 ”;
+  - (ii) in point (b), in the words before point (i), for “Directive [91/271/EEC](https://www.legislation.gov.uk/eudr/1991/271)” there were substituted “ the Urban Waste Water Treatment (England and Wales) Regulations 1994 ”;
+- (c) in point 5.4, the reference to Council Directive [1999/31/EC](https://www.legislation.gov.uk/eudr/1999/31) of 26 April 1999 on the landfill of waste were a reference to the Landfill Directive;
+- (d) in point 6.9, for “Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31)” there were substituted “ the EU-derived domestic legislation which transposed Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) in respect of England and Wales ”;
+- (e) in point 6.11, for “Directive [91/271/EEC](https://www.legislation.gov.uk/eudr/1991/271)” there were substituted “ the Urban Waste Water Treatment (England and Wales) Regulations 1994 ”.
+
+(4) In paragraph (3)(c), “the Landfill Directive” means Council [Directive 1999/31/EC](https://www.legislation.gov.uk/eudr/1999/0031) on the landfill of waste, as last amended by Directive (EU) 2018/850, and read as if, in Article 2—
+
+- (a) in point (a)—
+  - (i) “‘waste’,” were omitted; and
+  - (ii) for “[Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098)” there were substituted “the Waste Framework Directive”;
+- (b) after point (a) there were inserted—
+
+  > - (aa) “waste” means anything that—
+  >   - (i) is waste within the meaning of Article 3(1) of the Waste Framework Directive, as read with Articles 5 and 6 of that Directive, and
+  >   - (ii) is not excluded from the scope of that Directive by Article 2(1), (2) or (3) of that Directive;
+
+  .
+
+## 3. Application
+
+These Regulations apply in relation to any Category A mining waste facility, save for one which falls within the scope of [Directive 2012/18/EU](https://www.legislation.gov.uk/european/directive/2012/0018)[^key-d6c2f39cbbcbf8dafd628fac3054ceaa] of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances.
+
+## 4. Requirement for off-site emergency plan
+
+(1) This regulation applies where the competent authority receives any off-site emergency plan information from the regulator[^key-1c8abe94928160c255201b2a9f79c55a] in relation to a mining waste facility in the authority’s area[^key-15c23650af0be4c921905d902526f06a] .
+
+(2) The competent authority must draw up an emergency plan (in these Regulations referred to as an “off-site emergency plan”) in respect of that mining waste facility which—
+
+- (a) specifies the measures to be taken off-site in the event of an accident; and
+- (b) is adequate to secure the objectives specified in regulation 5.
+
+(3) If at any time the competent authority considers that it does not have the information necessary to be able to draw up the off-site emergency plan (“necessary information”), it must as soon as is practicable give written notice to the operator of that mining waste facility in compliance with the requirements set out in paragraph (4).
+
+(4) The requirements in this paragraph are—
+
+- (a) the notice must require the operator to provide such additional information as is specified in the notice (“specified additional information”) to the competent authority by the date specified in the notice (“specified date”) which must be at least 30 days from the date on which the notice was given; and
+- (b) where paragraph (9) applies, the notice must be given at least 9 weeks before the date by which that paragraph requires the off-site emergency plan to be drawn up.
+
+(5) The operator must provide the specified additional information to the competent authority by the specified date.
+
+(6) When the competent authority considers that it has the necessary information, it must as soon as practicable give written notice to the regulator to that effect.
+
+(7) If, one month before the date by which paragraph (9) requires the off-site emergency plan to be drawn up, the competent authority considers that the operator has not provided the necessary information, it must give written notice to the operator indicating—
+
+- (a) that the competent authority intends to give a notice to the regulator stating the operator has not provided the necessary information;
+- (b) the date on which the competent authority intends to give that notice which must be at least 15 days after the competent authority gives notice to the operator under this paragraph (“intended date”);
+- (c) that if the operator provides the necessary information before the intended date, the competent authority will not give a notice to the regulator .
+
+(8) If, on the intended date, the competent authority considers that the operator has not provided the necessary information, it must on that date give written notice to that effect to the regulator .
+
+(9) Subject to paragraph (10), the off-site emergency plan must be drawn up by the competent authority no later than six months (or such longer period, not exceeding nine months, as the competent authority may agree with the operator in writing) after the relevant date.
+
+(10) If the competent authority gives a notice under paragraph (8), the duty in paragraph (9) ceases to apply.
+
+(11) The competent authority must consult the operator, the regulator , the Health and Safety Executive, the emergency services and each health authority for the area in the vicinity of the mining waste facility on the preparation of the off-site emergency plan.
+
+(12) The off-site emergency plan must be tested by the competent authority to the extent necessary to ensure that the plan is adequate to secure the objectives specified in regulation 5.
+
+(13) In this regulation—
+
+- “off-site emergency plan information” means information mentioned in the second sentence of the third paragraph of Article 6(3) of the Mining Waste Directive; and
+- “relevant date” means the date the off-site emergency plan information is received by the competent authority.
+
+## 5. Objectives for off-site emergency plan
+
+The objectives for the off-site emergency plan are—
+
+- (a) to contain and control major accidents and other incidents so as to minimise their effects, and in particular to limit damage to human health and the environment;
+- (b) to implement the measures necessary to protect human health and the environment from the effects of major accidents and other incidents;
+- (c) to communicate the necessary information to the public and to the relevant services or authorities in the area;
+- (d) to provide for the rehabilitation, restoration and clean-up of the environment following a major accident.
+
+## 6. Public participation in preparation and review of off-site emergency plan
+
+(1) The competent authority must ensure that the public concerned are given early and effective opportunities to participate in the preparation or review of the off-site emergency plan.
+
+(2) The competent authority must inform the public concerned about any proposed off-site emergency plan, and relevant information must be made available, including, but not limited to, information about the right to participate in the decision-making process and details of the competent authority to which comments and questions may be submitted.
+
+(3) The competent authority must allow a reasonable time frame for the public concerned to express comments, and must take due account of these comments in reaching a decision on the contents of the plan.
+
+## 7. Provision and review of information to the public
+
+(1) Information on safety measures and on the action required in the event of an accident, containing at least the elements listed in paragraph (2), must be provided by the operator to the public concerned free of charge.
+
+(2) The elements are—
+
+- (a) name of the operator and address of the mining waste facility;
+- (b) identification, by position held, of the person providing the information;
+- (c) confirmation that the mining waste facility is subject to these Regulations and, when applicable, that the information relevant to the elements referred to in Article 6(2) of the Mining Waste Directive has been submitted to the competent authority;
+- (d) an explanation in clear and simple terms of the activity or activities undertaken at the site;
+- (e) the common names or the generic names or the general danger classification of the substances and preparations involved at the mining waste facility as well as waste which could give rise to a major accident, with an indication of their principal dangerous characteristics;
+- (f) general information relating to the nature of the major-accident hazards, including their potential effects on the surrounding population and environment;
+- (g) adequate information on how the surrounding population concerned are to be warned and kept informed in the event of a major accident;
+- (h) adequate information on the actions the population concerned should take, and on the behaviour they should adopt, in the event of a major accident;
+- (i) confirmation that the operator is required to make adequate arrangements on-site, in particular liaison with the emergency services, to deal with major accidents and to minimise their effects;
+- (j) a reference to the off-site emergency plan drawn up to cope with any off-site effects from an accident, which should include advice to co-operate with any instructions or requests from the emergency services at the time of an accident;
+- (k) details of where further relevant information can be obtained, subject to any duty of confidentiality which prohibits disclosure.
+
+(3) In preparing the information required to be supplied in accordance with paragraph (1), the operator must consult the competent authority in whose area the mining waste facility is situated but the operator remains responsible for the accuracy, completeness and form of the information so supplied.
+
+(4) The operator must review and where necessary update the information referred to in paragraph (1) at least every three years.
+
+## 8. Provision of information in the event of a major accident
+
+(1) In the event of a major accident, the operator must immediately provide the competent authority with all the information required to help minimise the consequences for human health and to assess and minimise the extent, actual or potential, of the environmental damage.
+
+(2)[^key-9411316d47f1cc37ebdb8763a56820b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-609a5cc3a0731c686b7188ae8d48e31d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Enforcement
+
+(1) To the extent that they would not otherwise do so and excluding any provisions that relate only to Scotland, sections 33 to 42 (provisions as to offences) of the 1974 Act apply, subject to paragraphs (2), (3) and (4) of this regulation and with any necessary modifications, to these Regulations as if they were health and safety regulations for the purposes of that Act, except that those sections do not apply to duties placed on the competent authority under these Regulations.
+
+(2) The enforcing authority for the purposes of these Regulations is not the Health and Safety Executive.
+
+(3) The competent authority is the enforcing authority for the purposes of these Regulations but, for the purposes of regulation 8(1), only to the extent that the duty to provide information mentioned in regulation 8(1) is not otherwise enforceable by the regulator[^key-51ec57e10c702b6439a4a2fd13fc0559] under the 2016 Regulations[^key-1b16ccb4563576b4aed8127d6a04ae19] .
+
+(4) The maximum penalty for an offence under this regulation is—
+
+- (a) on summary conviction, imprisonment for a term not exceeding 3 months or a fine[^M_F_ea950281-5814-4c43-e132-e0edf3a591e4]; and
+- (b) on conviction on indictment, imprisonment for a term not exceeding two years, or a fine, or both.
+
+## 10. Charges and fees payable by operator
+
+(1) A fee is payable by the operator to the competent authority for the performance by the competent authority or on its behalf by the Health and Safety Executive, the regulator[^key-ead397e20b51fd7acbf4b5984e9ea011] , the emergency services or the health authority for the area in the vicinity of the mining waste facility concerned (“the other bodies”) of any function conferred on the competent authority by these Regulations.
+
+(2) The fee in paragraph (1) must not exceed the sum of the costs reasonably incurred by the competent authority and the other bodies for the performance of a function in paragraph (1).
+
+(3) When requiring payment of the fee, the competent authority must send or give to the operator a detailed statement of the work done and costs incurred, including—
+
+- (a) the dates of any visits to the mining waste facility; and
+- (b) the period to which the statement relates.
+
+(4) The fee becomes payable one month after the competent authority has issued the statement in paragraph (3), and is recoverable only as a civil debt.
+
+(5) Any fee payable under this regulation does not include any costs connected with any criminal investigation or prosecution incurred (in either case) from the date any summons is obtained from a Magistrates’ Court.
+
+(6) The competent authority must pay to each of the other bodies any such fee or part of any such fee it recovers as is attributable to work done by that body in performing the functions concerned.
+
+Dan Norris
+
+Parliamentary Under Secretary
+
+Department for Environment, Food and Rural Affairs
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations transpose Directive [2006/21/EC](https://www.legislation.gov.uk/european/directive/2006/0021) of the European Parliament and of the Council on the management of waste from extractive industries and amending Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) (OJ L102, 14.04.2006, p15) (“the Mining Waste Directive”) in respect of the requirements in Article 6 of the Mining Waste Directive concerning the preparation of an off-site (external) emergency plan, which must specify the measures to be taken off-site in the event of an accident. Article 6 applies only to waste facilities that are classified as Category A. Waste facilities are defined in Article 3(15) of the Mining Waste Directive as areas designated for the accumulation or deposit of extractive waste (extractive waste is waste resulting from prospecting, extraction, treatment and storage of minerals and the working of quarries) and these are referred to as mining waste facilities in these Regulations. Mining waste facilities are classified as Category A under the Mining Waste Directive if they contain hazardous waste or dangerous substances, or where failure or incorrect operation of the facility could give rise to a major accident.
+
+Article 6 requires competent authorities to produce an off-site emergency plan. The competent authority for an area is defined as the London Fire and Emergency Planning Authority, a fire and civil defence authority, county council or borough council. A site is defined as the whole area under the control of the operator where a mining waste facility is present *(regulation 2)*.
+
+However, those facilities which are subject to Directive [96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082) on the control of major accident hazards involving dangerous substances (OJ L010, 14.01.97, p 13 amended by Directive [2003/105/EC](https://www.legislation.gov.uk/european/directive/2003/0105), OJ L345, 31.12.2003, p97) (the relevant parts of which are transposed in domestic law by the Control of Major Accident Hazards (COMAH) Regulations 1999 ([S.I. 1999/743](https://www.legislation.gov.uk/uksi/1999/743) as amended by [S.I. 2005/1088](https://www.legislation.gov.uk/uksi/2005/1088)), will continue to be subject to that Directive. Facilities which fall within the scope of Directive [96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082) are excluded from the requirement to produce external emergency plans. As a result, the requirement in the COMAH Regulations for off-site emergency plans will continue to apply to those facilities, but there is no requirement for another off-site emergency plan to be produced under these Regulations *(regulation 3)*.
+
+Operators of mining waste facilities are required to obtain a permit under Article 7 of the Mining Waste Directive. This requirement is given effect to in the Environmental Permitting (England and Wales) Regulations 2007 ([S.I 2007/3538](https://www.legislation.gov.uk/uksi/2007/3538) as amended by [S.I. 2009/1799](https://www.legislation.gov.uk/uksi/2009/1799)). Operators are required to provide information to the Environment Agency under those Regulations in order to obtain a permit, and the Environment Agency is then obliged to send that information to the competent authority. That authority is then obliged to draw up an off-site emergency plan, generally within 6 months, and to consult the specified parties on its preparation. There are provisions for obtaining further information from the operator, for notification to the Environment Agency and for testing of the plan *(regulation 4)*.
+
+The objectives for the plan are set out in regulation 5. The procedures for enabling the public to participate in the preparation or review of the plan are set out in regulation 6, and regulation 7 requires operators to provide information on safety measures and on the action required in the event of an accident to the public, and to review that information.
+
+Regulation 8 places an obligation on operators to provide information to the competent authority in the event of a major accident, and for the competent authority to forward that information on to other EEA States where there are likely to be transboundary effects, in order to minimise the consequences of that accident for both human health and safety and the environment. Regulation 9 makes provision for enforcement, offences and penalties. It provides that the competent authority is responsible for enforcement of the Regulations and that the offence and penalty provisions section 33 to 42 of in the Health and Safety at Work Act 1974 apply subject to limits as to the maximum penalties which are set out in regulation 9(4). Regulation 10 provides for the charging of fees by the competent authority to the operator.
+
+An impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Waste Management Division, Department for Environment, Food and Rural Affairs, Ergon House, Horseferry Road, London, SW1P 2AL and is annexed to the Explanatory Memorandum which is available alongside the instrument on the OPSI website (www.opsi.gov.uk).
+
+## Annotations
+
+[^f00001]: Footnote: The Secretary of State is so designated by [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37). Sections 15(1) and 43(6) were amended by section 116 of, and by paragraphs 4, 6, 12 and 16 of Schedule 15 to, the Employment Protection Act [1975 c. 71](https://www.legislation.gov.uk/ukpga/1975/71). Sections 15(1) and 43(6) were also amended by article 5(2) of, and Schedule 2 to, [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794). Section 15(6) was amended by section 65 of, and by Schedule 12 to, the Criminal Law Act [1977 c. 45](https://www.legislation.gov.uk/ukpga/1977/45). Section 82(3) was amended by section 105(3)(a) of the Railways and Transport Safety Act [2003 c. 20](https://www.legislation.gov.uk/ukpga/2003/20).
+
+[^f00004]: Footnote: Section 50(1AA) was inserted by articles 3, 16(1) and (2) of [SI 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
+
+[^key-bae7332502ca59571a4f774dd8253908]: Textual amendment: Words in reg. 2 substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 31(2)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/31/2/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^key-1d30cc4932c40a8ea203554e16c21dca]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2009/1927/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [15(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/15/2/a) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-14301f634323d4fe90a6e778c1015a21]: Textual amendment: Words in reg. 2 substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 31(2)(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/31/2/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^key-ecb384f9dffe8f5e6ed743ce1e126b50]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2009/1927/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [15(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/15/2/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cf6ab9399f19db7ae47b339dc7f6bd61]: Textual amendment: Words in reg. 2 substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 131](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/131)
+
+[^key-2a84592da1f4f56e0245beddabbaedbb]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1)
+
+[^key-452181312dc80f35360d9a653909207c]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^key-bf15d02e304413917422936c21ad48f1]: Textual amendment: Words in reg. 2 inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(k)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/k) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+
+[^f00006]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^key-eca5cec7810d580d9beef5189d97d5e6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2009/1927/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [15(2)(c)](https://www.legislation.gov.uk/uksi/2019/188/regulation/15/2/c) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)(9)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00007]: Footnote: OJ No L 102, 14.04.2006, p 15.
+
+[^key-6f3cd1be5c127e77784f6d4b624c161a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2009/1927/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [15(2)(d)](https://www.legislation.gov.uk/uksi/2019/188/regulation/15/2/d) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0fe2ccb849e2485cf7ed5aa9fd7735de]: Textual amendment: Words in reg. 2 substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 31(2)(c)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/31/2/c) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^key-a2b6aaf05450d76b627b922d0da213ab]: Textual amendment: Words in reg. 2 inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 327(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/327/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-a8648607193cf6e6bd16e48706d45168]: Textual amendment: Words in reg. 2 substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 31(2)(d)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/31/2/d) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^key-8bf56689ad12353fca9790fba93cc335]: Textual amendment: [Regs. 2A-2D](https://www.legislation.gov.uk/uksi/2009/1927/regulation/2A) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [15(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/15/3) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)(9)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-62e9ddb2fecbdb6021c96f6e0b0f2363]: Textual amendment: Word in [reg. 2A(10)(b)](https://www.legislation.gov.uk/uksi/2009/1927/regulation/2A/10/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 17(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/17/a)
+
+[^key-73d3ef76563b8dc0393b0994f8493d68]: Textual amendment: Word in [reg. 2A(11)(d)(i)](https://www.legislation.gov.uk/uksi/2009/1927/regulation/2A/11/d/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 17(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/17/a)
+
+[^key-29eea2e3ef8751217b09f652f8c20628]: Textual amendment: Word in [reg. 2C(3)(a)(i)](https://www.legislation.gov.uk/uksi/2009/1927/regulation/2C/3/a/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 17(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/17/b)
+
+[^key-2ecb3b0ba76e968b9b12c6a309daacbb]: Textual amendment: Words in [reg. 2C(5)(b)](https://www.legislation.gov.uk/uksi/2009/1927/regulation/2C/5/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 17(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/17/c)
+
+[^key-d6c2f39cbbcbf8dafd628fac3054ceaa]: Textual amendment: Words in reg. 3 substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2018/942/regulation/15)
+
+[^key-1c8abe94928160c255201b2a9f79c55a]: Textual amendment: Word in reg. 4 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 328(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/328/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-15c23650af0be4c921905d902526f06a]: Textual amendment: Words in reg. 4(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 328(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/328/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-9411316d47f1cc37ebdb8763a56820b0]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/uksi/2009/1927/regulation/8/2) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [15(4)](https://www.legislation.gov.uk/uksi/2019/188/regulation/15/4) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-609a5cc3a0731c686b7188ae8d48e31d]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2009/1927/regulation/8/3) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [15(4)](https://www.legislation.gov.uk/uksi/2019/188/regulation/15/4) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-51ec57e10c702b6439a4a2fd13fc0559]: Textual amendment: Word in reg. 9(3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 329](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/329) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-1b16ccb4563576b4aed8127d6a04ae19]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2009/1927/regulation/9/3) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 31(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/31/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^M_F_ea950281-5814-4c43-e132-e0edf3a591e4]: Textual amendment: Words in reg. 9 substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2009/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [Sch. 4 para. 76](https://www.legislation.gov.uk/uksi/2015/1927/schedule/4/paragraph/76)
+
+[^key-ead397e20b51fd7acbf4b5984e9ea011]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2009/1927/regulation/10/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 329](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/329) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

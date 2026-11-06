@@ -1,0 +1,461 @@
+---
+title: Cities and Local Government Devolution Act 2016, section 21
+act: Cities and Local Government Devolution Act 2016
+section: '21'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2016/1/section/21
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Cities and Local Government Devolution Act 2016, section 21
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/1
+>
+> Extent: England, Wales.
+
+## 21. Sub-national transport bodies
+
+*Extent: E+W*
+
+After Part 5 of the Local Transport Act 2008 insert—
+
+> **PART 5A — SUB-NATIONAL TRANSPORT BODIES**
+>
+> **Establishment and constitution of STBs**
+>
+> **102E. Power to establish STBs**
+>
+> (1) The Secretary of State may by regulations establish a sub-national transport body for any area in England outside Greater London.
+>
+> (2) In this Part—
+>
+> - (a) “**STB**” means a sub-national transport body established under this section, and
+> - (b) references to the area of an STB are to the area in England for which the STB is established.
+>
+> (3) Regulations under this section must specify—
+>
+> - (a) the name by which the STB is to be known, and
+> - (b) the area of the STB.
+>
+> (4) The area of an STB must consist of the whole of the area of two or more relevant authorities (whether or not of the same kind).
+>
+> (5) Each of the following is a “**relevant authority**” for the purposes of this Part—
+>
+> - (a) a combined authority;
+> - (b) an ITA;
+> - (c) a county council that comes within subsection (6);
+> - (d) a unitary district council that comes within that subsection;
+> - (e) the Council of the Isles of Scilly.
+>
+> (6) A council comes within this subsection if no part of its area forms part of—
+>
+> - (a) the area of a combined authority, or
+> - (b) an integrated transport area.
+>
+> (7) An STB is to be established as a body corporate.
+>
+> **102F. Requirements in connection with regulations under section 102E**
+>
+> (1) Regulations under section 102E may be made establishing an STB for an area only if the Secretary of State considers that—
+>
+> - (a) its establishment would facilitate the development and implementation of transport strategies for the area, and
+> - (b) the objective of economic growth in the area would be furthered by the development and implementation of such strategies.
+>
+> (2) The reference in subsection (1)(a) to “**transport strategies**”, in relation to the area of an STB, is a reference to strategies for improving—
+>
+> - (a) the exercise of transport functions in the area (whether or not exercisable by the STB), and
+> - (b) the effectiveness and efficiency of transport to, from or within the area.
+>
+> (3) Regulations under section 102E establishing an STB for an area may be made only if—
+>
+> - (a) the constituent authorities have together made a proposal to the Secretary of State for there to be an STB for the area, and
+> - (b) those authorities consent to the making of the regulations.
+>
+> (4) For the purposes of this Part, the constituent authorities of an STB are every relevant authority whose area is within the area, or proposed area, of the STB.
+>
+> (5) Before making a proposal under this section the constituent authorities must consult—
+>
+> - (a) each appropriate authority (if it is not a constituent authority), and
+> - (b) any other persons whom the constituent authorities consider it is appropriate to consult.
+>
+> (6) The Secretary of State may require the constituent authorities to consult any other persons (not already consulted under subsection (5)(b)) whom the Secretary of State considers should be consulted in connection with a proposal under this section.
+>
+> (7) For the purposes of subsection (5), each of the following is an “appropriate authority” if any part of the authority's area adjoins the area of the proposed STB—
+>
+> - (a) a combined authority;
+> - (b) an ITA;
+> - (c) Transport for London;
+> - (d) a county council;
+> - (e) a unitary district council;
+> - (f) a London borough council.
+>
+> **102G. Constitution of STBs**
+>
+> (1) The Secretary of State may by regulations make provision about the constitutional arrangements in relation to an STB.
+>
+> (2) “**Constitutional arrangements**”, in relation to an STB, include arrangements in respect of—
+>
+> - (a) the membership of the STB (including the number and appointment of members of the STB),
+> - (b) the voting powers of members of the STB (including provision for different weight to be given to the vote of different descriptions of member),
+> - (c) the executive arrangements of the STB, and
+> - (d) the functions of any executive body of the STB.
+>
+> (3) Regulations made by virtue of subsection (2)(a) which include provision about the number and appointment of members of the STB must provide—
+>
+> - (a) for the members of the STB to be appointed by the STB's constituent authorities, and
+> - (b) for those members to be appointed from among the elected members of the constituent authorities.
+>
+> (4) Regulations made by virtue of subsection (2)(a) may provide for persons, who are not elected members of the constituent authorities, to be appointed as co-opted members of an STB; but such regulations must provide (by virtue of subsection (2)(b)) for those co-opted members to be non-voting members of the STB.
+>
+> (5) The voting members of an STB may resolve that provision made in accordance with subsection (4) is not to apply (generally or in relation to particular matters) in the case of the STB.
+>
+> (6) In subsection (2)(c) “**executive arrangements**” means—
+>
+> - (a) the appointment of an executive;
+> - (b) the functions of the STB which are the responsibility of an executive;
+> - (c) the functions of the STB which are the responsibility of an executive and which may be discharged by a committee of the STB, by an officer of the STB or by a body other than the STB;
+> - (d) arrangements relating to the review and scrutiny of the discharge of functions;
+> - (e) access to information on the proceedings of an executive of the STB;
+> - (f) the keeping of a record of any arrangements relating to the STB and falling within any of paragraphs (a) to (e).
+>
+> (7) The provision which may be made by regulations by virtue of subsection (2)(d) includes—
+>
+> - (a) provision setting up or dissolving an executive body of an STB, or merging two or more executive bodies of an STB;
+> - (b) provision conferring functions on, or removing functions from, an executive body of an STB;
+> - (c) provision transferring functions of an STB to an executive body of the STB, and transferring functions of an executive body of an STB to the STB.
+>
+> (8) Regulations under this section may authorise an STB to delegate any of its functions to one or more of its constituent authorities (and any such delegation may be made subject to conditions or limitations).
+>
+> (9) Regulations under this section may not provide for the budget of an STB to be agreed otherwise than by the STB.
+>
+> (10) For the purposes of subsections (3) and (4), the “elected members” of a constituent authority—
+>
+> - (a) in the case of a combined authority, are the mayor for the area of the combined authority (if there is one) and those members of the authority who are appointed from among the elected members of the authority's constituent councils (see section 85(1)(b) above as applied by section 104(2) of the Local Democracy, Economic Development and Construction Act 2009);
+> - (b) in the case of an ITA, are those members of the ITA who are appointed from among the elected members of the ITA's constituent councils (see section 85(1)(b) above);
+> - (c) in the case of a county council, a unitary district council or the Council of the Isles of Scilly, are the elected members of the council.
+>
+> **Functions**
+>
+> **102H. General functions**
+>
+> (1) The Secretary of State may by regulations provide for an STB to have any of the following functions in relation to its area—
+>
+> - (a) to prepare a transport strategy for the area (see section 102I);
+> - (b) to provide advice to the Secretary of State about the exercise of transport functions in relation to the area (whether exercisable by the Secretary of State or others);
+> - (c) to co-ordinate the carrying out of transport functions in relation to the area that are exercisable by different constituent authorities, with a view to improving the effectiveness and efficiency in the carrying out of those functions;
+> - (d) if the STB considers that a transport function in relation to the area would more effectively and efficiently be carried out by the STB, to make proposals to the Secretary of State for the transfer of that function to the STB;
+> - (e) to make other proposals to the Secretary of State about the role and functions of the STB.
+>
+> (2) The Secretary of State may by regulations provide for an STB to have other functions of a description set out in the regulations.
+>
+> (3) Regulations under subsection (2) may be made only for functions to be exercisable in relation to the area of the STB that—
+>
+> - (a) relate to transport,
+> - (b) the Secretary of State considers can appropriately be exercised by the STB, and
+> - (c) are not already exercisable in relation to that area by a local authority or a public authority (see instead sections 102J and 102K respectively for a power to transfer such functions to an STB).
+>
+> (4) The Secretary of State may by regulations make further provision about how an STB is to carry out functions that it has under or by virtue of this Part.
+>
+> (5) Regulations under this section in relation to an existing STB may be made only with the consent of the STB.
+>
+> (6) Nothing in this section limits the power of the Secretary of State to confer other functions on an STB under this Part.
+>
+> **102I. Transport strategy of an STB**
+>
+> (1) The transport strategy of an STB is a document containing the STB's proposals for the promotion and encouragement of sustainable, safe, integrated, efficient and economic transport facilities and services to, from and within the area of the STB.
+>
+> (2) The transport facilities and services mentioned in subsection (1) are—
+>
+> - (a) those required to meet the needs of persons (including pedestrians) living or working in, or visiting, the area of the STB, and
+> - (b) those required for the transportation of freight.
+>
+> (3) An STB may include in its transport strategy any other proposals it considers appropriate that relate to transport to, from or within its area.
+>
+> (4) An STB must publish its transport strategy.
+>
+> (5) If an STB revises its transport strategy, the STB must publish the strategy as revised.
+>
+> (6) In preparing or revising its transport strategy an STB must carry out a public consultation.
+>
+> (7) In carrying out a public consultation under subsection (6), the STB must ensure that such of the following persons as the STB considers appropriate (taking into account the proposals to be contained in the strategy) have a reasonable opportunity to respond to the consultation—
+>
+> - (a) the Secretary of State;
+> - (b) a combined authority;
+> - (c) another STB;
+> - (d) an ITA;
+> - (e) a Passenger Transport Executive;
+> - (f) Transport for London;
+> - (g) a person to whom a licence is granted under section 8 of the Railways Act 1993 (licences authorising persons to be operator of railway assets);
+> - (h) Highways England Company Limited;
+> - (i) a local highway authority (within the meaning of the Highways Act 1980);
+> - (j) a county council in England;
+> - (k) a unitary district council;
+> - (l) a London borough council.
+>
+> (8) In preparing or revising its transport strategy an STB must (among other matters) have regard to—
+>
+> - (a) the promotion of economic growth in its area,
+> - (b) the social and environmental impacts in connection with the implementation of the proposals contained in the strategy,
+> - (c) any current national policy relating to transport that has been published by or on behalf of Her Majesty's Government, and
+> - (d) the results of the public consultation mentioned in subsection (6).
+>
+> (9) The Secretary of State must have regard to proposals contained in the transport strategy of an STB that appear to the Secretary of State to further the objective of economic growth in the area of the STB in determining—
+>
+> - (a) national policies relating to transport (so far as relevant in relation to such proposals), and
+> - (b) how such policies are to be implemented in relation to the area of the STB.
+>
+> (10) The constituent authorities of an STB must exercise transport functions with a view to securing the implementation of the proposals contained in the STB's transport strategy.
+>
+> (11) In this Part “**transport strategy**”, in relation to an STB, means the transport strategy prepared or revised by an STB under this section by virtue of the function in section 102H(1)(a).
+>
+> **102J. Exercise of local transport functions**
+>
+> (1) The Secretary of State may by regulations provide for functions that are exercisable by a local authority in an area that is, or is to become, the area of an STB to be exercisable by the STB.
+>
+> (2) Regulations under this section may be made—
+>
+> - (a) only in relation to functions that relate to transport, and
+> - (b) only if the Secretary of State considers that the function can appropriately be exercised by the STB.
+>
+> (3) For the purposes of subsection (2)(a), regulations under this section may be made in respect of a function that relates both to transport and to other matters only so far as the function is exercisable in relation to transport.
+>
+> (4) Regulations under this section may make provision for a function to be exercisable by the STB either generally or subject to such conditions or limitations as may be specified in the regulations.
+>
+> (5) Regulations under this section may make provision—
+>
+> - (a) for a function to be exercisable by the STB instead of by the local authority, or
+> - (b) for a function to be exercisable by the STB concurrently with the local authority.
+>
+> (6) Regulations under this section may be made only with the consent of—
+>
+> - (a) the local authority concerned, and
+> - (b) in the case of regulations made in relation to an existing STB, the STB.
+>
+> (7) In this section “**local authority**” means—
+>
+> - (a) a combined authority;
+> - (b) an ITA;
+> - (c) a Passenger Transport Executive;
+> - (d) a county council in England;
+> - (e) a unitary district council;
+> - (f) the Council of the Isles of Scilly.
+>
+> **102K. Other public authority functions**
+>
+> (1) The Secretary of State may by regulations provide for functions that are exercisable by a public authority in relation to an area that is, or is to become, the area of an STB to be exercisable by the STB.
+>
+> (2) Regulations under this section may be made—
+>
+> - (a) only in relation to functions that relate to transport, and
+> - (b) only if the Secretary of State considers that the function can appropriately be exercised by the STB.
+>
+> (3) For the purposes of subsection (2)(a), regulations under this section may be made in respect of a function that relates both to transport and to other matters only so far as the function is exercisable in relation to transport.
+>
+> (4) Regulations under this section may make provision for a function to be exercisable by the STB either generally or subject to such conditions or limitations as may be specified in the regulations.
+>
+> (5) Regulations under this section may make provision—
+>
+> - (a) for a function to be exercisable by the STB instead of by the public authority, or
+> - (b) for a function to be exercisable by the STB jointly with the public authority.
+>
+> (6) Regulations under this section in relation to an existing STB may be made only with the consent of the STB.
+>
+> (7) In this section—
+>
+> - “**function**” does not include a power to make regulations or other instruments of a legislative character;
+> - “**Minister of the Crown**” has the same meaning as in the Ministers of the Crown Act 1975;
+> - “public authority”—
+>   - (a) includes a Minister of the Crown or a government department;
+>   - (b) does not include a local authority as defined by section 102J.
+>
+> **102L. Funding**
+>
+> (1) The Secretary of State may pay grants to STBs to cover expenditure incurred in the carrying out of their functions.
+>
+> (2) Grants may be paid under this section subject to any conditions the Secretary of State thinks appropriate (including conditions as to repayment).
+>
+> (3) The Secretary of State may by regulations make provision—
+>
+> - (a) for the constituent authorities of an STB to contribute to its costs, and
+> - (b) about the basis on which the amount payable by each constituent authority is to be determined.
+>
+> **General powers etc**
+>
+> **102M. General powers**
+>
+> (1) An STB may do—
+>
+> - (a) anything it considers appropriate for the purposes of the carrying out of any of its functions (its “functional purposes”),
+> - (b) anything it considers appropriate for purposes incidental (whether directly or indirectly) to its functional purposes,
+> - (c) anything it considers to be connected with—
+>   - (i) any of its functions, or
+>   - (ii) anything it may do under paragraph (a) or (b), and
+> - (d) for a commercial purpose, anything which it may do under any of paragraphs (a) to (c) otherwise than for a commercial purpose.
+>
+> (2) Where subsection (1) confers power on an STB to do something, it confers power (subject to section 102N) to do it anywhere in the United Kingdom or elsewhere.
+>
+> (3) Power conferred on an STB by subsection (1) is in addition to, and is not limited by, the other powers of the STB.
+>
+> (4) Where an STB has an executive body established by virtue of section 102G, the STB may delegate to that body its function of taking action under subsection (1) (but not the function of determining what action to take).
+>
+> **102N. Boundaries of power under section 102M**
+>
+> (1) Section 102M(1) does not enable an STB to do anything which it is unable to do by virtue of a post-commencement limitation which is expressed to apply—
+>
+> - (a) to its power under section 102M(1),
+> - (b) to all of its powers, or
+> - (c) to all of its powers but with exceptions that do not include its power under section 102M(1).
+>
+> (2) Section 102M(1) does not authorise an STB to borrow money.
+>
+> (3) Section 102M(1)(a) to (c) do not authorise an STB to charge a person for anything it does otherwise than for a commercial purpose (but see section 93 of the Local Government Act 2003 (power of STBs and other best value authorities to charge for discretionary services)).
+>
+> (4) Section 102M(1)(d) does not authorise an STB to do things for a commercial purpose in relation to a person if a statutory provision requires the STB to do those things in relation to the person.
+>
+> (5) Where under section 102M(1)(d) an STB does things for a commercial purpose, it must do them through—
+>
+> - (a) a company within the meaning given by section 1(1) of the Companies Act 2006, or
+> - (b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014.
+>
+> (6) In this section—
+>
+> - “**post-commencement limitation**” means a prohibition, restriction or other limitation imposed by a statutory provision that—
+>   - (a) is contained in an Act passed after the end of the Session in which the Cities and Local Government Devolution Act 2016 is passed, or
+>   - (b) is contained in an instrument made under an Act and comes into force on or after the commencement of section 21 of that 2016 Act;
+> - “**statutory provision**” means a provision of an Act or of an instrument made under an Act.
+>
+> **102O. Power to make provision supplemental to section 102M**
+>
+> (1) The Secretary of State may by regulations make provision preventing an STB from doing under section 102M(1) anything which is specified, or is of a description specified, in the regulations.
+>
+> (2) The Secretary of State may by regulations provide for the exercise by STBs of the power conferred by section 102M(1) to be subject to conditions, whether generally or in relation to doing anything specified, or of a description specified, in the regulations.
+>
+> (3) Before making regulations under subsection (1) or (2) the Secretary of State must consult—
+>
+> - (a) such representatives of STBs,
+> - (b) such representatives of local government, and
+> - (c) such other persons (if any),
+>
+> as the Secretary of State considers appropriate.
+>
+> (4) Subsection (3) does not apply to regulations under subsection (1) or (2) which are made only for the purpose of amending earlier such regulations—
+>
+> - (a) so as to extend the earlier regulations, or any provision of the earlier regulations, to a particular STB or to STBs of a particular description, or
+> - (b) so that the earlier regulations, or any provision of the earlier regulations, cease to apply to a particular STB or to STBs of a particular description.
+>
+> **102P. Power of direction**
+>
+> (1) The Secretary of State may by regulations confer on an STB a power to give directions to a constituent authority about the exercise of transport functions by the authority in the area of the STB.
+>
+> (2) The power to give a direction by virtue of subsection (1) about the exercise of a function extends only so far as the exercise of the function is relevant to the implementation of the STB's transport strategy.
+>
+> (3) Regulations under this section conferring a power to direct may include provision—
+>
+> - (a) for the power to be given generally or subject to conditions or limitations;
+> - (b) for the power to apply to all transport functions or only to those functions specified or described in the regulations;
+> - (c) about the manner in which directions are to be given;
+> - (d) about the consequences arising if there is a contravention of a direction.
+>
+> (4) Provision under subsection (3)(d) may include provision enabling the STB—
+>
+> - (a) to take any steps it considers appropriate to reverse or modify the effect of a constituent authority exercising a transport function in contravention of the direction, and
+> - (b) to recover any reasonable expenses incurred in taking those steps as a civil debt from the constituent authority.
+>
+> **Boundary and name changes**
+>
+> **102Q. Change to boundaries of an STB's area**
+>
+> (1) The Secretary of State may by regulations change the boundaries of the area of an STB by—
+>
+> - (a) adding the area of a relevant authority to an existing area of an STB, or
+> - (b) removing the area of a constituent authority from an existing area of an STB.
+>
+> (2) Regulations under this section may be made—
+>
+> - (a) only if the constituent authorities have together made a proposal to the Secretary of State for the boundaries to be changed in the manner that would be provided for in the regulations;
+> - (b) in the case of regulations under subsection (1)(a), only if the relevant authority whose area would be added to the area of the STB joins in the making of the proposal;
+> - (c) in the case of regulations under subsection (1)(b), only if the resulting area of the STB meets the condition in section 102E(4).
+>
+> (3) Regulations under this section changing the boundaries of the area of an STB may be made only if the Secretary of State considers that paragraphs (a) and (b) of section 102F(1) would apply in relation to the area as varied by the regulations.
+>
+> (4) Regulations under this section may be made only with the consent of—
+>
+> - (a) the STB, and
+> - (b) in the case of regulations under subsection (1)(a), the relevant authority whose area would be added to the area of the STB.
+>
+> **102R. Change of name**
+>
+> (1) An STB may change its name by a resolution in accordance with this section.
+>
+> (2) The resolution must be considered at a meeting of the STB that is specially convened for the purpose.
+>
+> (3) Particulars of the resolution must be included in the notice of the meeting.
+>
+> (4) The resolution must be passed at the meeting by not less than two-thirds of the members of the STB who vote on it.
+>
+> (5) An STB which changes it name under this section must—
+>
+> - (a) send notice of the change to the Secretary of State, and
+> - (b) publish the notice in such manner as the Secretary of State may direct.
+>
+> (6) A change of name under this section does not affect the rights or obligations of the STB or any other person, or render defective any legal proceedings.
+>
+> (7) Any legal proceedings may be commenced or continued as if there had been no change of name.
+>
+> **Supplementary**
+>
+> **102S. Incidental etc provision**
+>
+> (1) The Secretary of State may by regulations make incidental, consequential, transitional or supplementary provision for the purposes of, or in consequence of, regulations under this Part or for giving full effect to such regulations.
+>
+> (2) Regulations under this Part may make different provision for different STBs or otherwise for different purposes.
+>
+> (3) The provision which may be included by virtue of this section in regulations includes provision for the transfer under the regulations of property, rights and liabilities.
+>
+> (4) The provision which may be included by virtue of subsection (3) in regulations includes provision—
+>
+> - (a) for the creation or imposition by the Secretary of State of new rights or liabilities in respect of anything transferred under the regulations;
+> - (b) for the management or custody of transferred property;
+> - (c) for bodies to make agreements with respect to any property, income, rights, liabilities and expenses of, and any financial relations between, the parties to the agreement.
+>
+> (5) The provision which may be included by virtue of this section in regulations includes provision amending, modifying, repealing or revoking any enactment, whenever passed or made.
+>
+> (6) In this section “**enactment**” includes an enactment comprised in subordinate legislation (within the meaning of the Interpretation Act 1978).
+>
+> **102T. Procedure for regulations under this Part**
+>
+> (1) Regulations under this Part must be made by statutory instrument.
+>
+> (2) A statutory instrument containing regulations under this Part may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+>
+> (3) At the same time as laying a draft of a statutory instrument containing regulations under this Part before Parliament, the Secretary of State must lay before Parliament a report explaining the effect of the regulations and why the Secretary of State considers it appropriate to make the regulations.
+>
+> (4) Subsections (2) and (3) do not apply to a statutory instrument that contains regulations only of the following kinds—
+>
+> - (a) regulations under section 102J that make provision under subsection (4) of that section for a function to be exercisable by an STB for a limited period of time;
+> - (b) regulations under section 102J that make provision under subsection (5)(b) of that section;
+> - (c) regulations under section 102K that make provision under subsection (4) of that section for a function to be exercisable by an STB for a limited period of time;
+> - (d) regulations under section 102K that make provision under subsection (5)(b) of that section;
+> - (e) regulations under section 102O(1) that make provision for the purpose mentioned in section 102O(4)(b);
+> - (f) regulations under section 102O(2) that make provision for that purpose or for imposing conditions on the doing of things for a commercial purpose.
+>
+> (5) A statutory instrument to which subsections (2) and (3) do not apply is subject to annulment by resolution of either House of Parliament.
+>
+> (6) If a draft of regulations under this Part would, apart from this subsection, be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not a hybrid instrument.
+>
+> **102U. Interpretation**
+>
+> In this Part—
+>
+> - “**combined authority**” means a body established as a combined authority under section 103 of the Local Democracy, Economic Development and Construction Act 2009;
+> - “**constituent authority**”, in relation to an STB, has the meaning given by section 102F(4);
+> - “**ITA**” means an Integrated Transport Authority for an integrated transport area in England;
+> - “**Passenger Transport Executive**” means a body which is such an Executive for the purposes of Part 2 of the Transport Act 1968;
+> - “**relevant authority**” has the meaning given by section 102E(5);
+> - “**STB**” has the meaning given by section 102E(2);
+> - “**transport functions**” means any statutory functions relating to transport;
+> - “**transport strategy**” has the meaning given by section 102I(11);
+> - “**unitary district council**” means a district council whose area is not part of the area of a county council.

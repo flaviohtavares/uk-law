@@ -1,0 +1,55 @@
+---
+title: Digital Markets, Competition and Consumers Act 2024, section 265
+act: Digital Markets, Competition and Consumers Act 2024
+section: '265'
+status: not-yet-in-force
+text_date: '2026-10-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2024/13/section/265
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Digital Markets, Competition and Consumers Act 2024, section 265
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 265. Meaning of “initial cooling-off period” and “renewal cooling-off period”[^key-dd8ee1a65b592cba4310c4842e0d7c26]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
+(1) In this Chapter, the “**initial cooling-off period**”, in relation to a subscription contract, means the period—
+
+- (a) beginning with the day the contract is entered into, and
+- (b) ending—
+  - (i) in the case of a contract under which goods are supplied, at the end of the period of 14 days beginning with the day after the day on which the consumer receives the first supply of goods under the contract;
+  - (ii) in any other case, at the end of the period of 14 days beginning with the day after the day on which the contract is entered into.
+
+(2) In this Chapter, a “**renewal cooling-off period**”, in relation to a subscription contract, means a period—
+
+- (a) beginning with the day on which a relevant renewal of the contract occurs, and
+- (b) ending at the end of the period of 14 days beginning with the day after that day.
+
+(3) A “relevant renewal” of a subscription contract occurs for the purposes of subsection (2)—
+
+- (a) when the consumer becomes liable under the contract for a first renewal payment following the end of a concessionary period, or
+- (b) at any time when the consumer becomes liable under the contract for a renewal payment and either—
+  - (i) the consumer will not become liable for the next renewal payment until after the end of the 12-month period, or
+  - (ii) the consumer will not become liable for any further renewal payment but the contract continues beyond the end of the 12-month period.
+
+(4) In subsection (3)—
+
+- (a) in paragraph (a), “**concessionary period**” means a period of time mentioned in section 254(3)(a), and
+- (b) in paragraph (b), the “**12-month period**” means the period of 12 months beginning with the day before the day on which the consumer became liable for the renewal payment.
+
+(5) For the purposes of subsection (1)(b)(i), the first supply of goods under a subscription contract is not to be treated as having taken place until such time as the consumer receives all of the goods that the consumer is due to receive as part of that supply.
+
+(6) This section is subject to such extensions of a cooling-off period as may be provided for by regulations under section 267(1)(c).
+
+## Annotations
+
+[^key-dd8ee1a65b592cba4310c4842e0d7c26]: Commencement: S. 265 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

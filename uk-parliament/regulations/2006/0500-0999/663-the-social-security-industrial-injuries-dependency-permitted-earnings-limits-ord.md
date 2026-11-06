@@ -1,0 +1,76 @@
+---
+title: The Social Security (Industrial Injuries) (Dependency) (Permitted Earnings Limits) Order 2006
+id: uksi/2006/663
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2006-03-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2006/663
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/663/pdfs/uksiem_20060663_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/663/pdfs/uksi_20060663_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/663/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Industrial Injuries) (Dependency) (Permitted Earnings Limits) Order 2006
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2006 No. 663
+
+SOCIAL SECURITY
+
+The Social Security (Industrial Injuries) (Dependency) (Permitted Earnings Limits) Order 2006
+
+Made
+
+9th March 2006
+
+Laid before Parliament
+
+15th March 2006
+
+Coming into force
+
+12th April 2006
+
+The Secretary of State for Work and Pensions makes the following Order in exercise of the powers conferred by paragraph 4(5) of Schedule 7 to the Social Security Contributions and Benefits Act 1992[^f00001]:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Social Security (Industrial Injuries) (Dependency) (Permitted Earnings Limits) Order 2006 and shall come into force on 12th April 2006.
+
+## 2. Increase of earnings limits in respect of dependent children and qualifying young persons
+
+In paragraph 4(4) of Schedule 7[^f00002] of the Social Security Contributions and Benefits Act 1992—
+
+- (a) in paragraph (a), for the amount “£170” substitute the amount “£175”; and
+- (b) in paragraph (b), for the amount “£22” substitute the amount “£23” and for the amount “£170” substitute the amount “£175”.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Stephen C Timms
+
+Minister of State,
+
+Department for Work and Pensions
+
+9th March 2006
+
+(This note is not part of the Order)
+
+Where a disablement pension with unemployability supplement is increased in respect of one or more children or qualifying young persons and the beneficiary is one of two persons who are spouses or civil partners residing together or who are living together as husband and wife or civil partners, paragraph 4(4) of Schedule 7 to the Social Security Contributions and Benefits Act 1992 provides that the increase shall not be payable in respect of the first child or qualifying young person if the other person’s earnings are £170 a week or more and in respect of further children or qualifying young persons for each complete £22 by which the earnings exceed £170. This Order increases the amounts of £170 and £22 to £175 and £23 respectively.
+
+A full regulatory impact assessment has not been produced for this instrument as it has no impact on the costs of business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Paragraph 4 has been amended by section 254(1) of, and Schedule 24 to, the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), section 1(3) of, and Schedule 1 to, the Child Benefit Act [2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6) and S.I. [2005/633](https://www.legislation.gov.uk/uksi/2005/633).
+
+[^f00002]: Footnote: The figures in paragraph 4(4) were substituted by article 2 of S.I. [2005/633](https://www.legislation.gov.uk/uksi/2005/633).

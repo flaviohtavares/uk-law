@@ -1,0 +1,42 @@
+---
+title: Merchant Shipping Act 1995, section 18
+act: Merchant Shipping Act 1995
+section: '18'
+status: revised-with-pending-changes
+text_date: '2026-06-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1995/21/section/18
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Merchant Shipping Act 1995, section 18
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2026-06-23. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/21
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 18. Regulation of registration in British possessions by reference to categories of registries.
+
+*Extent: E+W+S+N.I.*
+
+(1) Her Majesty may by Order in Council make provision for regulating the registration in relevant British possessions of ships other than small ships and fishing vessels by reference to categories of registries established by the Order.
+
+(2) Any such Order may—
+
+- (a) establish different categories of registries to which different restrictions on the registrations of ships in such possessions apply, being restrictions framed by reference to—
+  - (i) ships’ tonnages, or
+  - (ii) types of ships, or
+  - (iii) any other specified matter, or
+  - (iv) any combination of matters falling within one or more of the preceding sub-paragraphs,
+
+  as well as a category of registries to which no such restriction applies;
+- (b) assign any relevant British possession to such one of the categories so established as appears to Her Majesty to be appropriate;
+- (c) provide that, where a relevant British possession has been assigned to a category to which any such restriction on registration as is mentioned in paragraph (a) applies, no ship covered by that restriction shall be registered under the law of that possession;
+- (d) specify circumstances in which ships may be exempted from any provision made by virtue of paragraph (c) above.
+
+(3) Any provision made by virtue of subsection (2)(c) above shall be expressed to be without prejudice to the operation of any provision for the time being in force under the law of any such possession as is mentioned in subsection (2)(c) above by virtue of which the registration of ships in that possession is, or may be, further restricted.
+
+(4) An Order in Council under this section may make such transitional, incidental or supplementary provision as appears to Her Majesty to be necessary or expedient.
+
+(5) In this section “**small ship**” has the meaning given by section 1(2).

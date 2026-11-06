@@ -1,0 +1,45 @@
+---
+title: Corporation Tax Act 2010, section 259
+act: Corporation Tax Act 2010
+section: '259'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/259
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 259
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 259. Profit share agency arrangements
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if, under arrangements to which section 506 of CTA 2009 applies, a person (“**the principal**”) appoints a financial institution as agent.
+
+(2) This Part has effect in relation to the arrangements in accordance with subsections (3) to (9).
+
+(3) The principal is treated as making a loan to the agent.
+
+(4) The amount of the loan is treated as being equal to the money provided by the principal to the agent under the arrangements.
+
+(5) If the arrangements provide that the principal will provide a sum of money to the agent in instalments—
+
+- (a) references to the loan being drawn down over a period of time include references to the principal providing a sum of money to the agent in instalments,
+- (b) references to the date on which the first amount of the loan is drawn down include references to the date on which the first instalment is provided to the agent, and
+- (c) references to the amount drawn down at a given date include references to the value of the instalments provided to the agent at that date.
+
+(6) The capital outstanding on the loan is treated as being equal to the balance of the repayable money provided to the agent.
+
+(7) References to any repayment of the loan include references to any repayment of the money provided to the agent.
+
+(8) References to the beneficial owner of the loan include references to the person beneficially entitled to repayment of the money provided to the agent.
+
+(9) References to the disposal of the whole or any part of the loan include references to the disposal of the right to receive repayment of the whole or any part of the money provided to the agent.
+
+(10) In subsection (1) “**financial institution**” has the same meaning as in Chapter 6 of Part 6 of CTA 2009 (see section 502 of that Act).

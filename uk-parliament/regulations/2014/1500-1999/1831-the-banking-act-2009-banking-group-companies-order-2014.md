@@ -1,0 +1,219 @@
+---
+title: The Banking Act 2009 (Banking Group Companies) Order 2014
+id: uksi/2014/1831
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-07-09'
+text_date: '2025-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/1831
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/1831/pdfs/uksiem_20141831_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1831/pdfs/uksi_20141831_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1831/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Banking Act 2009 (Banking Group Companies) Order 2014
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2014 No. 1831
+
+Financial Services And Markets
+
+The Banking Act 2009 (Banking Group Companies) Order 2014
+
+Made
+
+9th July 2014
+
+Coming into force
+
+1st August 2014
+
+The Treasury make the following Order in exercise of the powers conferred by sections 47, 81D(1) and 259(1) of the Banking Act 2009 [^c22175551].
+
+A draft of this Order has been laid before and approved by resolution of each House of Parliament in accordance with sections 47(5) and 81D(3) of that Act.
+
+## 1. Citation and commencement
+
+This Order may be cited as the Banking Act 2009 (Banking Group Companies) Order 2014, and comes into force on 1st August 2014.
+
+## 2. Interpretation
+
+(1) In this Order—
+
+- “the bank”, in relation to any undertaking, means the bank[^key-4b7ae278ba4fa03209f99c2c62b694d0] [^key-584c025e58f019e0be4b64f3d6c52e1b]... or third country institution in the same group as the undertaking;
+- “**covered bond vehicle**” means a limited liability partnership—
+  - (a) which is a party to a capital market arrangement (within the meaning given in section 72B of the Insolvency Act 1986 [^c22175561]) or a transaction in pursuance of such a capital market arrangement; and
+  - (b) whose trade or business (ignoring any incidental activities) consists wholly or mainly of one or both of the following—
+    - (i) providing guarantees;
+    - (ii) acquiring, owning and managing assets directly or indirectly forming the whole or part of the security for the capital market arrangement;
+- “**financial holding company**” means a company which is—
+  - (a) a financial institution; and
+  - (b) a parent whose subsidiaries are exclusively or mainly—
+    - (i) credit institutions;
+    - (ii) financial institutions;
+    - (iii) investment exchanges;
+    - (iv) investment firms; or
+    - (v) central counterparties;
+- “**financial institution**” has the meaning given by point (26) of Article 4(1) of the Capital Requirements Regulation;
+- “**mixed activity holding company**” means a parent—
+  - (a) whose subsidiaries include at least one—
+    - (i) credit institution;
+    - (ii) investment firm; or
+    - (iii) central counterparty;
+  - (b) which is not itself a credit institution, investment firm or central counterparty; and
+  - (c) which, together with its subsidiaries, constitutes a group which—
+    - (i) fails to meet condition (b)(i) in point 14 of Article 2 of the Supplementary Supervision Directive (condition for group being considered a financial conglomerate that its activities occur mainly in the financial sector);
+    - (ii) if its subsidiaries include a central counterparty or investment exchange, would fail to meet that condition if such entities were financial sector entities for the purposes of Article 3(1) of the Supplementary Supervision Directive;
+- “**parent**” means a parent undertaking within the meaning given by section 1162 of the Companies Act 2006 [^c22175571];
+- “**securitisation company**” means—
+  - (a) a company of a kind mentioned in section 83(2) of the Finance Act 2005 [^c22175581] (meaning of “securitisation company”); or
+  - (b) a company that meets condition A specified in regulation 4 of the Taxation of Securitisation Companies Regulations 2006 [^c22175591] (meaning of “securitisation company”); and
+- “**subsidiary**” means a “subsidiary undertaking” within the meaning given by section 1162 of the Companies Act 2006.
+
+(2) In this article, for the interpretation of “financial holding company”, “financial institution” and “mixed activity holding company”—
+
+- “**the Capital Requirements Regulation**” means Regulation (EU) No. 575/2013 of the European Parliament and of the Council of 26th June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No. 648/2012 [^c22175601] as it[^key-66f10b060cc423238e28c1d569701280] forms part of[^key-3f5be9ed7a3e55f9bfc874d10683b901] assimilated[^key-b6a958f8d41b7e7fcca6ab26a6e23048] law;
+- “**central counterparty**” has the meaning given by section 313(1) of the Financial Services and Markets Act 2000 [^c22175611];
+- “**credit institution**” has the meaning given by point (1) of Article 4(1) of the Capital Requirements Regulation;
+- “**investment firm**” has the meaning given by point (2) of Article 4(1) of the Capital Requirements Regulation; and
+- “**the Supplementary Supervision Directive**” means Directive [2002/87/EC](https://www.legislation.gov.uk/eudr/2002/87) of the European Parliament and of the Council of 16th December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate and amending Council Directives [73/239/EEC](https://www.legislation.gov.uk/eudr/1973/239), [79/267/EEC](https://www.legislation.gov.uk/eudr/1979/267), [92/49/EEC](https://www.legislation.gov.uk/eudr/1992/49), [92/96/EEC](https://www.legislation.gov.uk/eudr/1992/96), [93/6/EEC](https://www.legislation.gov.uk/eudr/1993/6) and 93/22EEC and Directives [98/78/EC](https://www.legislation.gov.uk/eudr/1998/78) and [2000/12/EC](https://www.legislation.gov.uk/eudr/2000/12) of the European Parliament and of the Council [^c22175621].
+
+## 3. Specified conditions
+
+(1) The following conditions are specified for the purposes of section 81D(1) of the Banking Act 2009.
+
+(2) Subject to paragraphs (3) and (4), the undertaking must be—
+
+- (a) a subsidiary of the bank;
+- (b) a parent of the bank; or
+- (c) a group subsidiary.
+
+(3) Where the bank is a subsidiary of a mixed activity holding company (“the MAHC”) and of a financial holding company which is also a subsidiary of the MAHC—
+
+- (a) the MAHC is not a parent for the purposes of paragraph (2)(b); and
+- (b) a group subsidiary which is a subsidiary of the MAHC is not a group subsidiary for the purposes of paragraph (2)(c) unless it is—
+  - (i) a financial institution; or
+  - (ii) a subsidiary of a financial institution which is also a subsidiary of the MAHC.
+
+(4) If the undertaking is a covered bond vehicle or a securitisation company, it must be—
+
+- (a) an investment firm [^c22175631]; or
+- (b) a financial institution.
+
+(5) A company which is a warehouse company within the meaning given by section 83(6) of the Finance Act 2005 or regulation 8 of the Taxation of Securitisation Companies Regulations 2006 is not a securitisation company for the purposes of paragraph (4) unless its business is carried on for the purposes of an existing asset-holding or note-issuing company.
+
+(6) In this article “**group subsidiary**” means a subsidiary of a parent of the bank which is not a parent or subsidiary of the bank.
+
+## 4. Amendment to the Banking Act 2009 (Restriction of Partial Property Transfers) Order 2009
+
+(1) The Banking Act 2009 (Restriction of Partial Property Transfers) Order 2009 [^c22175641] is amended as follows.
+
+(2) In article 1(3) (citation, commencement and interpretation), in the definition of “banking institution”—
+
+- (a) after paragraph (a), insert—
+
+  > - (aa) an investment firm;
+
+  ; and
+- (b) in paragraph (b), after “bank” insert “ or an investment firm ”.
+
+(3) After article 9 (termination rights), insert—
+
+> **9A. Banking Group Companies**
+>
+> (1) A partial property transfer—
+>
+> - (a) to which this Order applies, and
+> - (b) under which the transferor is a relevant company,
+>
+> may not transfer property, rights or liabilities of the company unless the property, rights or liabilities are necessary for the carrying on of relevant business.
+>
+> (2) For these purposes it does not matter whether relevant business has been transferred by a property transfer instrument.
+>
+> (3) In this article—
+>
+> - “**financial institution**” has the meaning given by point (26) of Article 4(1) of Regulation (EU) No. 575/2013 of the European Parliament and of the Council of 26th June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No. 648/2012;
+> - “**relevant business**” means the business, or any part of the business, of a banking institution, recognised central counterparty or other banking group company which is (or, but for the exercise of a stabilisation power, would be) in the same group as the relevant company; and
+> - “**relevant company**” means a company, other than a financial institution, which—
+>   - (a) is a banking group company in relation to which this Order has effect by virtue of section 81C of the Act [^c22175651]; and
+>   - (b) is not a parent undertaking of the banking institution in the same group in respect of which the PRA is satisfied for the purpose of section 81B(2) of the Act [^c22175661] that the general conditions for the exercise of a stabilisation power are met.
+>
+> (4) For the purpose of the definition of “relevant business” undertakings are in the same group if they are group undertakings in respect of each other.
+>
+> (5) Expressions defined in the Companies Act 2006 [^c22175671] have the same meaning in this article as in that Act.
+
+.
+
+David Evenett
+
+Mark Lancaster
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Order)*
+
+This Order specifies conditions which must be met in respect of an undertaking which is in the same group as a bank if it is to be a “**banking group company**” for the purposes of Part 1 of the Banking Act 2009 (c. 1) (“**the Act**”). Section 81B of the Act empowers the Bank of England to exercise a stabilisation power in respect of a banking group company to achieve a transfer to a commercial purchaser or a bridge bank.
+
+For these purposes “**bank**” means a bank (as defined in section 2 of the Act), a building society, an investment firm or a recognised central counterparty which meets the conditions for the exercise of a stabilisation power.
+
+A banking group company may be a parent or subsidiary undertaking of the bank or another company in the same group.
+
+There are excluded from the meaning of “banking group company”—
+
+- — a mixed activity holding company where the bank is a subsidiary of an intermediate financial holding company;
+- — a subsidiary of such a mixed activity holding company, other than a parent or subsidiary of the bank, if it is neither a financial institution nor a subsidiary of a financial institution; and
+- — a covered bond vehicle or securitisation company which is not an investment firm or a financial institution (within the meaning given in Regulation (EU) No. 575/2013 of the European Parliament and of the Council of 26th June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No. 648/2012).
+
+Article 4 amends the Banking Act 2009 (Restriction of Partial Property Transfers) Order 2009 (S.I. 2009/322) to restrict partial property transfers in respect of the property, rights or liabilities of a banking group company (unless it is a financial institution or a parent undertaking of the bank). Such a transfer must be necessary for carrying on the business, or any part of the business, of a banking institution, recognised central counterparty or other banking group company in the same group.
+
+A full impact assessment of the effect that this Order will have on the costs of business and the voluntary sector is available from Her Majesty's Treasury, 1 Horse Guards Road, London SW1A 2HQ or on http://www.hm-treasury.gov.uk/ and is published alongside the Order on http://www.legislation.gov.uk/.
+
+## Annotations
+
+[^c22175551]: Marginal citation: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1). Section 81D was inserted by the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [section 100](https://www.legislation.gov.uk/ukpga/2012/21/section/100).
+
+[^key-4b7ae278ba4fa03209f99c2c62b694d0]: Textual amendment: Words in art. 2(1) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [127](https://www.legislation.gov.uk/uksi/2014/3329/article/127)
+
+[^key-584c025e58f019e0be4b64f3d6c52e1b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1831/article/2/1) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 4 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/4/paragraph/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22175561]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). See paragraph 1 of Schedule 2A to the Act. Section 72B and Schedule 2A were inserted by the [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [section 250](https://www.legislation.gov.uk/ukpga/2002/40/section/250) and Schedule 18.
+
+[^c22175571]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c22175581]: Marginal citation: [2005 c. 7](https://www.legislation.gov.uk/ukpga/2005/7).
+
+[^c22175591]: Marginal citation: [S.I. 2006/3296](https://www.legislation.gov.uk/uksi/2006/3296) as amended by [S.I. 2007/3401](https://www.legislation.gov.uk/uksi/2007/3401) and 2007/3339. There are other amendments not relevant to this Order.
+
+[^c22175601]: Marginal citation: OJ No. L 176, 27.6.2013, p. 1-137. For corrigenda see OJ No. L 208, 2/8/2013, p. 68 and OJ No. L 321,30/11/2013, p. 6.
+
+[^key-66f10b060cc423238e28c1d569701280]: Textual amendment: Words in art. 2(2) inserted (21.12.2018) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/3), [Sch. 4 para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/4/paragraph/4/2/b)
+
+[^key-3f5be9ed7a3e55f9bfc874d10683b901]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1831/article/2/2) substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1)[(2)(g)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/2/g)
+
+[^key-b6a958f8d41b7e7fcca6ab26a6e23048]: Textual amendment: Word in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1831/article/2/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 18](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/18)
+
+[^c22175611]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). The definition of “central counterparty” was inserted by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504). There are other amendments to section 313(1) not relevant to this Order.
+
+[^c22175621]: Marginal citation: OJ No. L 35, 11.2.2003, p. 1-27, as amended by Directive 2011/89/EU (OJ No. L 326, 8.12.2011, p. 113-141) and Directive 2013/36/EU (OJ No. L176, 27.6.2013, p. 338). There are other amendments not relevant to this Order.
+
+[^c22175631]: Marginal citation: By virtue of [S.I. 2014/9999](https://www.legislation.gov.uk/uksi/2014/9999) “investment firm” in the Banking Act 2009 does not include an investment firm of a description given in Article 29 of Directive 2013/36/EU (OJ No. L 176, 27.6.2013, p. 338-436), which is not subject to the initial capital requirement (EUR 730,000) specified in Article 28(2) of that Directive.
+
+[^c22175641]: Marginal citation: [S.I. 2009/322](https://www.legislation.gov.uk/uksi/2009/322), to which there are amendments not relevant to this Order.
+
+[^c22175651]: Marginal citation: [Section 81C](https://www.legislation.gov.uk/uksi/2014/1831/section/81C) was inserted by the Financial Services Act 2012, section 100.
+
+[^c22175661]: Marginal citation: [Section 81B](https://www.legislation.gov.uk/uksi/2014/1831/section/81B) was inserted by the Financial Services Act 2012, section 100.
+
+[^c22175671]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).

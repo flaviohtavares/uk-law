@@ -1,0 +1,27 @@
+---
+title: Court of Session Act 1868, section 95
+act: Court of Session Act 1868
+section: '95'
+status: revised
+text_date: '1994-09-05'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/Vict/31-32/100/section/95
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Court of Session Act 1868, section 95
+
+> Text as at 1994-09-05.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 95. New procedure in place of actions of wakening.[^c567097]
+
+*Extent: E+W+S+N.I.*
+
+Where, according to the existing practice, a cause would require to be wakened in order to its being proceeded with, it shall be competent for any of the parties to enrol such cause before the Lord Ordinary, and to lodge a minute craving a wakening of the cause; and the Lord Ordinary may thereupon direct intimation of such minute to be made to the known agents of the other parties in the cause, or to such parties themselves, and shall direct intimation to be made in the minute book of the Court of Session; and where said parties have no known agents, or are themselves furth of Scotland, the Lord Ordinary shall also appoint edictal intimation thereof to be made by publication in the record of edictal citations; and on the expiration of eight days from the date of such intimation, or from the latest date thereof, and on a certificate being lodged in process under the hand of the agent of the party applying for the wakening, certifying that he has duly intimated the minute in terms of the Lord Ordinary’s interlocutor, the Lord Ordinary may pronounce an interlocutor holding the cause as wakened, and the same may thereafter be proceeded with as wakened accordingly.
+
+## Annotations
+
+[^c567097]: Modification: [Ss. 50–101](https://www.legislation.gov.uk/ukpga/Vict/31-32/100/section/50) repealed (S.) by [Court of Session Act 1988 (c. 36, SIF 36:1)](https://www.legislation.gov.uk/ukpga/1988/36), [s. 52(2)](https://www.legislation.gov.uk/ukpga/1988/36/section/52/2), [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1988/36/schedule/2/part/I) (and re-enacted in part as referred to in Sch. 2 Pt. II of that Act)

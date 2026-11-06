@@ -1,0 +1,52 @@
+---
+title: Road Traffic Regulation Act 1984, section 61
+act: Road Traffic Regulation Act 1984
+section: '61'
+status: revised-with-pending-changes
+text_date: '2026-09-14'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1984/27/section/61
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Road Traffic Regulation Act 1984, section 61
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/27
+>
+> Extent: England, Wales, Scotland.
+
+## 61. Loading areas.
+
+*Extent: E+W+S*
+
+(1) If it appears to the council of a county, metropolitan district or London borough or the Common Council of the City of London[^c13556131] that any land in their area which is not part of a highway has been set apart by the occupier of the land for use as a place where vehicles may be driven and parked for the purpose of being loaded or unloaded in connection with a trade or business carried on on or in the vicinity of the land, the council may, subject to Part III of Schedule 9 to this Act, by an order made with the consent of the owner and the occupier of the land—
+
+- (a) designate the land as an area to which the following provisions of this section apply (in this section referred to as a “loading area”), and
+- (b) specify the trade or business in question.
+
+(2) A council which has made an order in pursuance of subsection (1) above—
+
+- (a) may vary the order by a subsequent order made with the consent of the owner and the occupier of the land to which the order relates;
+- (b) may revoke the order by a subsequent order made with the consent of the owner and the occupier of the loading area in question; and
+- (c) shall revoke the order by a subsequent order if requested in writing to do so by the owner and the occupier of the loading area in question.
+
+(3) An order in pursuance of subsection (1) or (2)(a) above may contain provisions prohibiting the parking, in the loading area to which the order relates, of vehicles of such kinds as are specified in the order, except authorised vehicles, at all times or at times so specified, and may make different provision in pursuance of the preceding provisions of this subsection for different parts of the area; and in this subsection “**authorised vehicle**”, in relation to a loading area, means a goods vehicle (as defined by section 192(1) of the Road Traffic Act 1988[^c13556141]) which is in the area for the purpose of being loaded or unloaded in connection with the trade or business specified in the order designating the area.
+
+(4) Where an order has been made by a council in pursuance of subsection (1) above and, by virtue of paragraph 22(1)(e) of Schedule 9 to this Act, traffic signs are required to be placed on the loading area to which the order relates, a person authorised in that behalf by the council may enter on the loading area for the purpose of placing any such traffic signs and for the purpose of maintaining or removing the signs.
+
+(5) A person who, without reasonable excuse, causes a vehicle to be in any part of a loading area at a time when the parking of it there is prohibited by an order made in pursuance of subsection (1) above shall be guilty of an offence.
+
+(6) References in subsections (2) to (5) above to an order made in pursuance of subsection (1) above include, in the case of such an order which has been varied in pursuance of subsection (2)(a) of this section, references to the order as so varied.
+
+(7) Subsections (3) to (5) of section 44 of the [^c13556151]Local Government (Miscellaneous Provisions) Act 1976 (which contain ancillary provisions for the purposes of Part I of that Act) shall have effect as if this section were included in that Part of that Act.
+
+(8) In this section “**owner**”, in relation to any land, means a person who, either on his own account or as agent or trustee for another person, is receiving the rackrent of the land or would be entitled to receive it if the land were let at a rackrent; and any reference to a traffic sign, in relation to any land which is not a road, includes a reference to any object, device, line or mark which would be a traffic sign (as defined by section 64 of this Act) if the land were a road.
+
+## Annotations
+
+[^c13556131]: Textual amendment: Words substituted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [ss. 1](https://www.legislation.gov.uk/ukpga/1985/51/section/1), [2](https://www.legislation.gov.uk/ukpga/1985/51/section/2), [8(1)](https://www.legislation.gov.uk/ukpga/1985/51/section/8/1), [Sch. 5 para. 4(25)](https://www.legislation.gov.uk/ukpga/1985/51/schedule/5/paragraph/4/25)
+
+[^c13556141]: Textual amendment: Words substituted by [Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1988/54), [s. 4](https://www.legislation.gov.uk/ukpga/1988/54/section/4), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3/paragraph/25/2)
+
+[^c13556151]: Marginal citation: [1976 c. 57](https://www.legislation.gov.uk/ukpga/1976/57)**(81:1).**

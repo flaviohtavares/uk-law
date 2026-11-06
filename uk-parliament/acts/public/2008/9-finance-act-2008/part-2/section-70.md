@@ -1,0 +1,36 @@
+---
+title: Finance Act 2008, section 70
+act: Finance Act 2008
+section: '70'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2008/9/section/70
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2008, section 70
+
+> **Warning: changes not yet applied to this text (12).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/9
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 70. Allowances etc for non-resident nationals of an EEA state
+
+*Extent: E+W+S+N.I.*
+
+(1) In section 278 of ICTA (non-residents eligible for reliefs)—
+
+- (a) in subsection (2)(a), omit “or an EEA national”, and
+- (b) omit subsection (9).
+
+(2) In section 56(3) of ITA 2007 (non-UK residents eligible for personal allowances and tax reductions), before paragraph (a) insert—
+
+> - (za) is a national of an EEA state,
+
+.
+
+(3) Accordingly, omit section 145 of FA 1996 (personal reliefs for non-resident EEA nationals).
+
+(4) The amendments made by this section have effect for the tax year 2008-09 and subsequent tax years.

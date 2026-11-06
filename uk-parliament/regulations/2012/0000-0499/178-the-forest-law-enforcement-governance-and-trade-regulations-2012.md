@@ -1,0 +1,321 @@
+---
+title: The Forest Law Enforcement, Governance and Trade Regulations 2012
+id: uksi/2012/178
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-01-25'
+text_date: '2020-12-31'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2012/178
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/178/pdfs/uksiem_20120178_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/178/pdfs/uksi_20120178_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/178/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Forest Law Enforcement, Governance and Trade Regulations 2012
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2012 No. 178
+
+Customs
+
+The Forest Law Enforcement, Governance and Trade Regulations 2012
+
+Made
+
+25th January 2012
+
+Laid before Parliament
+
+30th January 2012
+
+Coming into force
+
+20th February 2012
+
+The Secretary of State, who is designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to the control of the import and export of goods[^f00002], makes these Regulations in exercise of the powers conferred by section 2(2) of and paragraph 1A of Schedule 2 to that Act[^f00003].
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Secretary of State that it is expedient for any reference in these Regulations to any of the following EU instruments to be construed as a reference to that instrument as amended from time to time—
+
+- (a) Council Regulation [(EC) No 2173/2005](https://www.legislation.gov.uk/european/regulation/2005/2173) on the establishment of a FLEGT licensing scheme for imports of timber into the European Community[^f00004], and
+- (b) [Commission Regulation (EC) No 1024/2008](https://www.legislation.gov.uk/european/regulation/2008/1024) laying down detailed measures for the implementation of Council Regulation [(EC) No 2173/2005](https://www.legislation.gov.uk/european/regulation/2005/2173)[^f00005].
+
+## 1. Title, commencement and interpretation
+
+(1) These Regulations may be cited as the Forest Law Enforcement, Governance and Trade Regulations 2012.
+
+(2) They come into force on 20th February 2012.
+
+(3) In these Regulations—
+
+- “the Act” means the Customs and Excise Management Act 1979[^f00006];
+- “the European Regulations” means—
+  - (a) the FLEGT Regulation, and
+  - (b) [Commission Regulation (EC) No 1024/2008](https://www.legislation.gov.uk/european/regulation/2008/1024) laying down detailed measures for the implementation of the FLEGT Regulation, as amended from time to time;
+- “the FLEGT Regulation” means Council Regulation [(EC) No 2173/2005](https://www.legislation.gov.uk/european/regulation/2005/2173) on the establishment of a FLEGT licensing scheme for imports of timber into the European Community, as amended from time to time;
+- “general customs official” means a general customs official designated under section 3(1) of the Borders, Citizenship and Immigration Act 2009[^f00007];
+- “premises” includes any vehicle, vessel, aircraft, hovercraft, tent or movable structure;
+- “wildlife inspector” has the meaning given in regulation 5.
+
+(4) Terms used in these Regulations that are also used in the European Regulations have the meaning they bear in those Regulations.
+
+## 2 (Extent: E+W+S) (affected by repeal, see note). Competent authority[^key-2864e12a3f0b229841d64318fc6ecaf3]
+
+The Secretary of State is the competent authority for the purposes of the *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-2864e12a3f0b229841d64318fc6ecaf3] European Regulations *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-2864e12a3f0b229841d64318fc6ecaf3]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-2864e12a3f0b229841d64318fc6ecaf3]
+
+## 3. General customs officials[^M_E_9523a391-d847-421a-9dc2-0864263338ee][^key-33e757d3f78d15d5b92e6ff0a05a78a6]
+
+*Extent: E+W+S*
+
+(1) At a place where goods are subject to the control of an HMRC officer, the European Regulations are to be enforced by a general customs official.
+
+(2) In paragraph (1), the reference to goods being subject to the control of an HMRC officer includes control being exercised—
+
+- (a) requiring the goods to be handled, or otherwise dealt with, in accordance with instructions given by an HMRC officer (whether given orally or in any other way); or
+- (b) requiring the goods to be kept in any place specified by an HMRC officer.
+
+(3) In this regulation, “**HMRC officer**” means an officer of Revenue and Customs.
+
+## 3. General customs officials[^M_E_02939302-6d8e-4810-d02c-5a44f808dd5b]
+
+*Extent: N.I.*
+
+At a place where goods are subject to customs supervision within the meaning of [Council Regulation (EEC) No 2913/92](https://www.legislation.gov.uk/european/regulation/1992/2913) establishing the Community Customs Code[^f00008], the European Regulations are to be enforced by a general customs official.
+
+## 4 (Extent: E+W+S) (affected by repeal, see note). Translation into English[^key-b495a59baa33fe4b04bc0899fa5c50d4]
+
+A FLEGT licence covering a shipment must be made available to the Secretary of State in English. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-b495a59baa33fe4b04bc0899fa5c50d4]
+
+## 5. Wildlife inspectors
+
+The Secretary of State may authorise a person in writing to carry out inspections for the purposes of the European Regulations, and such a person is in these Regulations referred to as a “wildlife inspector”.
+
+## 5A. Fee for the verification of a FLEGT licence[^key-bc74058be80500a0c5f1d949d0be6c50]
+
+(1) A person applying for verification of a FLEGT licence by the Secretary of State must pay a fee of £9.60[^key-9f46ab5ddbbac2c36de94a2d1a774dd3].
+
+(2) The fee must be paid—
+
+- (a) in relation to each application,
+- (b) to the Secretary of State, and
+- (c) when the application is made.
+
+## 6. Powers of entry
+
+(1) A wildlife inspector may, on giving reasonable notice, enter premises at any reasonable hour, except premises used wholly or mainly as a private dwellinghouse, for the purpose of enforcing the European Regulations.
+
+(2) The requirement to give notice does not apply—
+
+- (a) where reasonable efforts to agree an appointment have failed;
+- (b) where a wildlife inspector reasonably believes that giving notice would defeat the object of the entry;
+- (c) where a wildlife inspector has a reasonable suspicion of a breach of the European Regulations; or
+- (d) in an emergency.
+
+(3) A wildlife inspector must, if requested to do so, produce a duly authenticated authorisation document.
+
+(4) Paragraph (6) applies where a justice of the peace is satisfied, on sworn information in writing—
+
+- (a) that there are reasonable grounds for a constable to enter premises for the purpose of enforcing the European Regulations; and
+- (b) that any of the conditions in paragraph (5) are met.
+
+(5) The conditions are—
+
+- (a) entry to the premises has been, or is likely to be, refused, and notice of the intention to apply for a warrant has been given to the occupier;
+- (b) asking for admission to the premises, or giving such a notice, would defeat the object of the entry;
+- (c) entry is required urgently; or
+- (d) the premises are unoccupied or the occupier is temporarily absent.
+
+(6) Where this paragraph applies, a justice of the peace may by signed warrant permit a constable to enter and search the premises in question, and seize any timber product on the premises, if necessary by reasonable force.
+
+(7) But the power in paragraph (6) does not extend to premises used wholly or mainly as a private dwellinghouse.
+
+(8) A warrant is valid for three months.
+
+(9) A constable entering premises under this regulation may—
+
+- (a) be accompanied by—
+  - (i (Extent: E+W+S) (affected by repeal, see note))[^key-f8efe370bf766bdecb4387a3334738b7] such other persons as the constable considers necessary, *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f8efe370bf766bdecb4387a3334738b7]
+  - (ii) any representative of the European Commission; and
+- (b) bring on to the premises such equipment as the constable considers necessary.
+
+(10) A constable entering any premises which are unoccupied or from which the occupier is temporarily absent must leave them as effectively secured against unauthorised entry as they were before entry.
+
+(11) In this regulation—
+
+- (a) in Scotland, a reference to a justice of the peace includes a sheriff, and the reference to sworn information in writing is a reference to evidence on oath; and
+- (b) in Northern Ireland, a reference to a justice of the peace is a reference to a lay magistrate, and the reference to sworn information in writing is a reference to a sworn complaint in writing.
+
+## 7. Further powers of wildlife inspectors
+
+(1) A wildlife inspector who has entered premises in exercise of a power under regulation 6 may, at any reasonable hour, exercise the following powers for the purpose of enforcing the European Regulations—
+
+- (a) inspect the premises and any of the following items found on the premises—
+  - (i) any plant, machinery or equipment,
+  - (ii) any container,
+  - (iii) any timber product;
+- (b) have access to, inspect and copy documents or records (in whatever form they are held), and remove them to enable them to be copied;
+- (c) have access to, inspect and check the data on, and operation of, any computer and any associated apparatus used in connection with such documents or records, and require computer records to be produced in a form in which they may be taken away;
+- (d) take samples of timber products;
+- (e) carry out any examination, investigation or test; and
+- (f) take photographs, measurements or recordings.
+
+(2) A wildlife inspector may require any person to provide such assistance or information as may be necessary to enable the inspector to exercise any of the powers conferred by regulation 6 or this regulation.
+
+## 8. Obstruction of wildlife inspectors
+
+Where a wildlife inspector exercises a power under these Regulations, it is an offence—
+
+- (a) intentionally to obstruct an inspector;
+- (b) without reasonable excuse, to fail to give to an inspector any information or assistance that the inspector may reasonably require;
+- (c) knowingly to give false or misleading information to an inspector; or
+- (d) without reasonable excuse, to fail to produce a record or document when reasonably required to do so by an inspector.
+
+## 9. Seized timber products: recovery of costs
+
+(1) Paragraph (2) applies where, for the purpose of enforcing the European Regulations—
+
+- (a) a timber product—
+  - (i) has been seized by a general customs official under section 139[^f00009] of the Act, or
+  - (ii) has been seized by a constable under section 139 of the Act and delivered to a general customs official under subsection (2) of that section; or
+- (b) a timber product has been seized by a constable (other than as mentioned in sub-paragraph (a)) in exercise of a power conferred by or by virtue of—
+  - (i) the Police and Criminal Evidence Act 1984[^f00010],
+  - (ii) the Police and Criminal Evidence (Northern Ireland) Order 1989[^f00011],
+  - (iii) a warrant granted under any other enactment (including these Regulations) or rule of law, or
+  - (iv) any other enactment, or any rule of law, under which the authority of a warrant is not required.
+
+(2) Where this paragraph applies, all costs relating to the holding and subsequent disposal of the timber product in question (including costs of removal, transport, storage, donation, sale or destruction) are recoverable as a debt from any person concerned in the importation of the timber product.
+
+(3) Such costs are recoverable by—
+
+- (a) where paragraph (2) applies by virtue of paragraph (1)(a), a general customs official; or
+- (b) where paragraph (2) applies by virtue of paragraph (1)(b), a constable.
+
+(4) In proceedings for an offence under the Act in connection with the restriction in Article 4(1) of the FLEGT Regulation, the court may make an order requiring any person concerned in the importation of the timber product in question to pay such of the costs mentioned in paragraph (2) as may be specified by the court.
+
+## 10. Power to share information for enforcement purposes
+
+(1) The Commissioners for Her Majesty’s Revenue and Customs may disclose any information in their possession to the Secretary of State for the purpose of the enforcement of the European Regulations.
+
+(2) Paragraph (1) is without prejudice to any other power of the Commissioners to disclose information.
+
+(3) No person, including a servant of the Crown, may disclose any information received from the Commissioners under paragraph (1) if—
+
+- (a) the information relates to a person whose identity is specified in the disclosure or can be deduced from the disclosure;
+- (b) the disclosure is for a purpose other than specified in paragraph (1); and
+- (c) the Commissioners have not given their prior consent to the disclosure.
+
+(4) A person who breaches paragraph (3) is guilty of an offence.
+
+(5) It is a defence for a person charged with an offence under paragraph (4) to prove that the person reasonably believed—
+
+- (a) that the disclosure was lawful; or
+- (b) that the information had already and lawfully been made available to the public.
+
+## 11. Penalties
+
+A person guilty of an offence under regulation 8 or 10(4) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## 12. Modification of penalties under the Act
+
+In the case of an offence committed in connection with the restriction in Article 4(1) of the FLEGT Regulation, sections 50(4)(b) and 170(3)(b)[^f00012] of the Act have effect as if for “7 years” there were substituted “3 years”.
+
+## 13. Review
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the European Regulations are enforced in other member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved in a less burdensome way.
+
+(4)[^key-d4c8d7329670a7c7153461e52de63b56] The first report under this regulation must be published on or before 20th February 2022.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Jim Paice
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, which apply in the United Kingdom, enforce Council Regulation [(EC) No 2173/2005](https://www.legislation.gov.uk/european/regulation/2005/2173) on the establishment of a FLEGT licensing scheme for imports of timber into the European Community (OJ No L 347, 30.12.2005, p.1) (“the FLEGT Regulation”), and [Commission Regulation (EC) No 1024/2008](https://www.legislation.gov.uk/european/regulation/2008/1024) (OJ No L 277, 18.10.2008, p.23) which lays down detailed measures for the implementation of the FLEGT Regulation.
+
+Regulations 2, 3, and 5 provide for designation of the competent authority and enforcing authorities.
+
+Sections 50 and 170 of the Customs and Excise Management Act [1979 (c.2)](https://www.legislation.gov.uk/ukpga/1979/2) prescribe offences for breach of importation restrictions, including in relation to timber products imported in breach of the restriction in the FLEGT Regulation. Enforcement powers for officers of Her Majesty’s Revenue and Customs and the UK Border Agency are contained in that Act, and accordingly are not provided for in these Regulations.
+
+Where those offences are committed in connection with a breach of the restriction in the FLEGT Regulation, regulation 12 modifies the penalties prescribed by the Customs and Excise Management Act 1979 so that the maximum period of imprisonment is 3 years.
+
+Regulations 6 and 7 confer enforcement powers on wildlife inspectors (persons authorised by the Secretary of State) and regulation 6 confers warrant powers on constables. Obstruction of a wildlife inspector is an offence (regulation 8), punishable on summary conviction by a fine not exceeding level 5 on the standard scale.
+
+Regulation 10 provides an information gateway for Her Majesty’s Revenue and Customs, and contains an offence for unlawful disclosure of information, also punishable on summary conviction by a fine not exceeding level 5 on the standard scale.
+
+Regulation 13 requires the Secretary of State to review the operation and effect of these Regulations and publish a report within five years after they come into force and within every five years after that.
+
+A full impact assessment of the effect that this instrument will have on the costs of business is available from www.ialibrary.bis.gov.uk and is published with the Explanatory Memorandum alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00002]: Footnote: [S.I. 1983/1706](https://www.legislation.gov.uk/uksi/1983/1706).
+
+[^f00003]: Footnote: Section 2(2) was amended by the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51), section 27(1)(a), and the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), Part 1 of the Schedule. Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006, and amended by the European Union (Amendment) Act 2008, Part 1 of the Schedule, and [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388).
+
+[^f00004]: Footnote: OJ No L 347, 30.12.2005, p.1.
+
+[^f00005]: Footnote: OJ No L 277, 18.10.2008, p.23.
+
+[^f00006]: Footnote: [1979 c.2](https://www.legislation.gov.uk/ukpga/1979/2).
+
+[^f00007]: Footnote: [2009 c.11](https://www.legislation.gov.uk/ukpga/2009/11).
+
+[^key-2864e12a3f0b229841d64318fc6ecaf3]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/178/regulation/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 (S.I. 2018/1025)](https://www.legislation.gov.uk/uksi/2018/1025), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/2/2) (as amended by [S.I. 2020/1315](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_E_9523a391-d847-421a-9dc2-0864263338ee]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
+
+[^key-33e757d3f78d15d5b92e6ff0a05a78a6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/178/regulation/3) substituted (E.W.S.) (31.12.2020) by [The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 (S.I. 2018/1025)](https://www.legislation.gov.uk/uksi/2018/1025), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/2/3) (as amended by [S.I. 2020/1315](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_E_02939302-6d8e-4810-d02c-5a44f808dd5b]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
+
+[^f00008]: Footnote: OJ No L 302, 19.10.1992, p.1, as last amended by Council Regulation [(EC) No 1186/2009](https://www.legislation.gov.uk/european/regulation/2009/1186) (OJ No L 324, 10.12.2009, p.23). See the definition of supervision by the customs authorities in Article 4(13), and in particular see Article 37.
+
+[^key-b495a59baa33fe4b04bc0899fa5c50d4]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/178/regulation/4) omitted (E.W.S.) (31.12.2020) by virtue of [The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 (S.I. 2018/1025)](https://www.legislation.gov.uk/uksi/2018/1025), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/2/4) (as amended by [S.I. 2020/1315](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bc74058be80500a0c5f1d949d0be6c50]: Textual amendment: Reg. 5A inserted (1.10.2014) by [The Forest Law Enforcement, Governance and Trade (Amendment) (Fees) Regulations 2014 (S.I. 2014/2339)](https://www.legislation.gov.uk/uksi/2014/2339), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2339/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/2339/regulation/2/2)
+
+[^key-9f46ab5ddbbac2c36de94a2d1a774dd3]: Textual amendment: Sum in reg. 5A substituted (1.11.2016) by [The Forest Law Enforcement, Governance and Trade (Amendment) Regulations 2016 (S.I. 2016/940)](https://www.legislation.gov.uk/uksi/2016/940), [regs. 1](https://www.legislation.gov.uk/uksi/2016/940/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/940/regulation/2/2)
+
+[^key-f8efe370bf766bdecb4387a3334738b7]: Textual amendment: [Reg. 6(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/178/regulation/6/9/a/ii) omitted (E.W.S.) (31.12.2020) by virtue of [The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 (S.I. 2018/1025)](https://www.legislation.gov.uk/uksi/2018/1025), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/2/5) (as amended by [S.I. 2020/1315](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00009]: Footnote: Section 139 was amended by the Police (Northern Ireland) Act [1998 (c.32)](https://www.legislation.gov.uk/ukpga/1998/32), paragraph 14 of Schedule 4, and the Criminal Justice Act [1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48), sections 37 and 46.
+
+[^f00010]: Footnote: [1984 c.60](https://www.legislation.gov.uk/ukpga/1984/60).
+
+[^f00011]: Footnote: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341).
+
+[^f00012]: Footnote: Sections 50(4)(b) and 170(3)(b) were amended by the Finance Act [1988 (c.39)](https://www.legislation.gov.uk/ukpga/1988/39), section 12(1) and (6).
+
+[^key-d4c8d7329670a7c7153461e52de63b56]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/uksi/2012/178/regulation/13/4) substituted (1.11.2016) by [The Forest Law Enforcement, Governance and Trade (Amendment) Regulations 2016 (S.I. 2016/940)](https://www.legislation.gov.uk/uksi/2016/940), [regs. 1](https://www.legislation.gov.uk/uksi/2016/940/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/940/regulation/2/3)

@@ -1,0 +1,64 @@
+---
+title: Town and Country Planning Act 1990, section 221
+act: Town and Country Planning Act 1990
+section: '221'
+status: revised-with-pending-changes
+text_date: '2026-10-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1990/8/section/221
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Town and Country Planning Act 1990, section 221
+
+> **Warning: changes not yet applied to this text (816).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/8
+>
+> Extent: England, Wales.
+
+## 221. Power to make different advertisement regulations for different areas.[^c14025071]
+
+*Extent: E+W*
+
+(1) Regulations made for the purposes of section 220 may make different provision with respect to different areas, and in particular may make special provision—
+
+- (a) with respect to conservation areas;
+- (b) with respect to areas defined for the purposes of the regulations as experimental areas, and
+- (c) with respect to areas defined for the purposes of the regulations as areas of special control.
+
+(2) An area may be defined as an experimental area for a prescribed period for the purpose of assessing the effect on amenity or public safety of advertisements of a prescribed description.
+
+(3) An area may be defined as an area of special control if it is—
+
+- (a) a rural area, or
+- (b) an area which appears to the Secretary of State to require special protection on grounds of amenity.
+
+(4) Without prejudice to the generality of subsection (1), the regulations may prohibit the display in an area of special control of all advertisements except advertisements of such classes (if any) as may be prescribed.
+
+(5) Areas of special control for the purposes of regulations under this section may be defined by means of orders made or approved by the Secretary of State in accordance with the provisions of the regulations.
+
+(6) Where the Secretary of State is authorised by the regulations to make or approve any such order as is mentioned in subsection (5), the regulations shall provide—
+
+- (a) for the publication of notice of the proposed order in such manner as may be prescribed,
+- (b) for the consideration of objections duly made to it, and
+- (c) for the holding of such inquiries or other hearings as may be prescribed,
+
+before the order is made or approved.
+
+(7) Subject to subsection (8), regulations made under section 220 may be made so as to apply—
+
+- (a) to advertisements which are being displayed on the date on which the regulations come into force, or
+- (b) to the use for the display of the advertisements of any site which was being used for that purpose on that date.
+
+(8) Any regulations made in accordance with subsection (7) shall provide for exempting from them—
+
+- (a) the continued display of any such advertisements as there mentioned; and
+- (b) the continued use for the display of advertisements of any such site as there mentioned,
+
+during such period as may be prescribed.
+
+(9) Different periods may be prescribed under subsection (8) for the purposes of different provisions of the regulations.
+
+## Annotations
+
+[^c14025071]: Modification: S. 221: power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 171(4)(a)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/a); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art. 3](https://www.legislation.gov.uk/uksi/1993/2762/article/3)

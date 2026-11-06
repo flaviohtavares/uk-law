@@ -1,0 +1,102 @@
+---
+title: The Stamp Duty (Exempt Instruments) (Amendment) Regulations 1999
+id: uksi/1999/2539
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1999-09-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1999/2539
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/2539/pdfs/uksi_19992539_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/2539/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Stamp Duty (Exempt Instruments) (Amendment) Regulations 1999
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1999 No. 2539
+
+TAXES
+
+The Stamp Duty (Exempt Instruments) (Amendment) Regulations 1999
+
+Made
+
+9th September 1999
+
+Laid before the House of Commons
+
+9th September 1999
+
+Coming into force
+
+1st October 1999
+
+The Treasury, in exercise of the powers conferred on them by section 87(2) of the Finance Act 1985[^f00001], hereby make the following Regulations:
+
+## 1. Citation, commencement and effect
+
+These Regulations may be cited as the Stamp Duty (Exempt Instruments) (Amendment) Regulations 1999, shall come into force on 1st October 1999 and shall have effect in relation to instruments executed on or after 1st October 1999.
+
+## 2. Interpretation
+
+In these Regulations “the principal Regulations” means the Stamp Duty (Exempt Instruments) Regulations 1987[^f00002] and “regulation” means a regulation of the principal Regulations.
+
+## 3. Amendments to the principal Regulations
+
+After regulation 1 there shall be inserted the following regulation—
+
+> **1A.** In these Regulations “life policy” means—
+>
+> - (a) any policy of insurance on a human life, or on the happening of a contingency dependent upon a human life, except a policy of insurance for a payment only upon the death of a person otherwise than from a natural cause, or
+> - (b) a grant or contract for the payment of an annuity upon a human life.
+
+**4.** For sub-paragraph (a) of regulation 2(2) there shall be substituted the following sub-paragraph—
+
+> - (a) the following paragraphs of Part III of Schedule 13 to the Finance Act 1999[^f00003]—
+>   - (i) paragraph 16 (conveyance or transfer otherwise than on sale),
+>   - (ii) paragraph 17 (declaration of use or trust),
+>   - (iii) paragraph 18 (dispositions in Scotland);
+
+.
+
+**5.** In the Schedule to the principal Regulations after category M there shall be added the following category—
+
+> **N.** The declaration of any use or trust of or concerning a life policy, or property representing, or benefits arising under, a life policy.
+
+Gordon Brown
+
+Jim Dowd
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+9th September 1999
+
+(This note is not part of the Regulations)
+
+These Regulations make amendments to the Stamp Duty (Exempt Instruments) Regulations 1987 (S.I. [1987/516](https://www.legislation.gov.uk/uksi/1987/516)) (“the principal Regulations”). Both the Regulations and the principal Regulations are made under section 87(2) of the Finance Act [1985 (c. 54)](https://www.legislation.gov.uk/ukpga/1985/54) which provides that instruments which would otherwise be chargeable with fixed stamp duty under any provision specified in regulations shall not be so charged if they are of a kind of instrument specified in regulations and certified to be of that kind.
+
+The amendments add to the categories of instruments specified in the principal Regulations the category of declarations of trust of life policies. The amendments reflect also the replacement of Schedule 1 to the Stamp Act [1891 (c. 39)](https://www.legislation.gov.uk/ukpga/1891/39) by Schedule 13 to the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16).
+
+Regulation 1 provides for commencement, citation and effect, and regulation 2 for interpretation.
+
+Regulation 3 inserts a new regulation 1A in the principal Regulations containing a definition of “life policy” in the principal Regulations.
+
+Regulation 4 amends regulation 2(2)(a) of the principal Regulations so as to reflect the changes effected by the Finance Act 1999 and to add the provision charging fixed stamp duty on declarations of trust to the specified provisions.
+
+Regulation 5 amends the Schedule to the principal Regulations so as to add declarations of life policies to the categories of specified instruments.
+
+## Annotations
+
+[^f00001]: Footnote: [1985 c. 54](https://www.legislation.gov.uk/ukpga/1985/54).
+
+[^f00002]: Footnote: S.I. [1987/516](https://www.legislation.gov.uk/uksi/1987/516).
+
+[^f00003]: Footnote: [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16).

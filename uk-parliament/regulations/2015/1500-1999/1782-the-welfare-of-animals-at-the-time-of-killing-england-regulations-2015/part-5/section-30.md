@@ -1,0 +1,36 @@
+---
+title: The Welfare of Animals at the Time of Killing (England) Regulations 2015, section 30
+act: The Welfare of Animals at the Time of Killing (England) Regulations 2015
+section: '30'
+status: revised
+text_date: '2025-02-27'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2015/1782/section/30
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Welfare of Animals at the Time of Killing (England) Regulations 2015, section 30
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales.
+
+## 30. Offences: general
+
+*Extent: E+W*
+
+(1) It is an offence to contravene, or to cause or permit a person to contravene—
+
+- (a) regulation 5(1) or (2) (requirement for a certificate or temporary certificate);
+- (b) regulation 12 (requirement for a licence);
+- (c) any of paragraphs 3 to 32 of Schedule 1 (additional requirements for slaughterhouses);
+- (d) any of paragraphs 4 to 44 of Schedule 2 (additional requirements for killing animals other than in slaughterhouses);
+- (e) any of paragraphs 2 to 8 of Schedule 3 (additional requirements for killing animals in accordance with religious rites);
+- (f) paragraph 4 or 5 of Schedule 4 (killing animals other than those to which the EU Regulation applies);
+- (g) a provision of the EU Regulation specified in Schedule 5, except where it is not necessary to comply with the provision by virtue of—
+  - (i) an exemption or transitional provision specified in the EU Regulation; or
+  - (ii) a derogation granted by the competent authority under Article 18(3) in relation to a depopulation operation; or
+- (h) until 8th December 2019, any of paragraphs 1 to 7 of Schedule 8, to the extent that they apply by virtue of regulation 45 (transitional provision – slaughterhouses).
+
+(2) It is an offence for a person to fail to comply with an enforcement notice issued under regulation 38.

@@ -1,0 +1,148 @@
+---
+title: The Public Service Vehicles (Traffic Regulation Conditions) Regulations 1986
+id: uksi/1986/1030
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1986-06-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1986/1030
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1986/1030/pdfs/uksi_19861030_en.pdf
+- http://www.legislation.gov.uk/uksi/1986/1030/made/data.pdf
+pending_changes: 5
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Public Service Vehicles (Traffic Regulation Conditions) Regulations 1986
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1986 No. 1030
+
+PUBLIC PASSENGER VEHICLES
+
+The Public Service Vehicles (Traffic Regulation Conditions) Regulations 1986
+
+Made
+
+20th June 1986
+
+Laid before Parliament
+
+23rd June 1986
+
+Coming into Operation
+
+14th July 1986
+
+The Secretary of State for Transport (as respects England), the Secretary of State for Scotland (as respects Scotland) and the Secretary of State for Wales (as respects Wales), in exercise of the powers conferred by sections 5(1) and 60 of the Public Passenger Vehicles Act 1981[^f00001] and sections 7(6), (9) and (11) and 9(3) of the Transport Act 1985, and of all other enabling powers, and after consultation with representative organisations in accordance with section 61(2) of the said Act of 1981[^f00002] and with the Council on Tribunals in accordance with section 10(1) of the Tribunals and Inquiries Act 1971, hereby make the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Public Service Vehicles (Traffic Regulation Conditions) Regulations 1986 and shall come into operation on 14th July 1986.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**Notices and Proceedings**” has the meaning given by regulation 3 of the Public Service Vehicles (Road Service Licences and Express Services) Regulations 1980[^f00003]; and
+- “**traffic authority**” and “**traffic regulation conditions**” have the meanings given by subsections (15) and (1) respectively of section 7.
+
+(2) Any reference to a numbered section is a reference to the section so numbered in the Transport Act 1985.
+
+## 3. Purposes of traffic regulation conditions
+
+Traffic regulation conditions may be determined for the purpose (in addition to those set out in sections 7(6)(a) , (b) and (c)) of regulating the roads to be used and the manoeuvres to be performed when turning a vehicle in the provision of any service.
+
+## 4. Publication
+
+A traffic commissioner shall publish in Notices and Proceedings notice of—
+
+(1) any request for the determination, variation or revocation of traffic regulation conditions except where the traffic commissioner is satisfied that the request should be granted without delay;
+
+(2) the name and address of the person making such a request; and
+
+(3) the determination, variation or revocation of traffic regulation conditions and the date on which the conditions so determined or varied have effect or (if revoked) cease to have effect.
+
+## 5. Requests for Inquiries
+
+The prescribed period for the purposes of subsections (9) and (11) of section 7 shall be 28 days from the date of publication in Notices and Proceedings on notice of—
+
+(1) for subsection (9), the request for determination of the conditions, or
+
+(2) for subsection (11), the determination of the conditions.
+
+## 6. Appeals
+
+(1) An appeal under section 9 shall—
+
+- (a) state the reference number given by the traffic commissioner to the relevant traffic regulation conditions, or, in the case of an appeal against a refusal of a traffic commissioner to determine traffic regulation conditions, the reference number given by him to the request; and
+- (b) state the grounds on which it is made.
+
+(2) Such an appeal shall be made so as to be received by the Secretary of State before the expiry of 28 days commencing with the day immediately following the date on which either—
+
+- (a) notice of the refusal by a traffic commissioner to comply with a request to determine, vary or revoke any traffic regulation conditions is sent to the person making the request; or
+- (b) notice of the determination, variation or revocation of any such conditions is published in Notices and Proceedings.
+
+(3) At the same time as he makes such an appeal, the appellant shall send a copy of that appeal to—
+
+- (a) the traffic commissioner against whose decision the appeal is made;
+- (b) if the traffic commissioner held an inquiry in connection with that decision, any person who attended the inquiry and made representations at it to the traffic commissioner; and
+- (c) any traffic authority (other than the appellant) likely to be affected by the traffic regulation conditions.
+
+(4) Where a traffic commissioner, in reliance on section 7(10), has determined any traffic regulation conditions without first holding an inquiry, then the Secretary of State shall not determine an appeal until either—
+
+- (a) an inquiry has been held; or
+- (b) the period prescribed for the purposes of section 7(11) by regulation 5 of these Regulations has expired without any request for an inquiry being made.
+
+(5) On the determination of an appeal, the Secretary of State shall give notice of his decision, and the reasons for it, to the appellant.
+
+## 7. Requirements for writing and delivery
+
+All notices, requests or appeals mentioned in these Regulations shall be in writing, and any such notices as are referred to in regulation 6(2)(a) or (5) of these Regulations shall be sent to the address last notified to the traffic commissioner in question or (as the case may be) the Secretary of State by the person making the request or appeal as his business address.
+
+## 8. Computation of time
+
+(1) No period of time prescribed in these Regulations shall include Christmas Day, Good Friday or any day which is a bank holiday under the Banking and Financial Dealings Act 1971.
+
+(2) When a request or appeal referred to in regulation 5 or 6(2) of these Regulations is required to be received by a traffic commissioner or the Secretary of State within a period which expires on a day on which the principal office of the recipient is closed for normal business, then that period shall be extended to include the next day on which that office is open for such business.
+
+John Moore
+
+Secretary of State for Transport
+
+20th June 1986
+
+Malcolm Rifkind
+
+Secretary of State for Scotland
+
+19th June 1986
+
+Nicholas Edwards
+
+Secretary of State for Wales
+
+19th June 1986
+
+EXPLANATORY NOTE
+
+Sections 7 to 9 of the Transport Act 1985 provide for the determination and application of traffic regulation conditions which relate to local services subject to registration under the Act. The provisions made by these Regulations relate to—
+
+- (a) purposes, additional to those set out in section 7(6) of the Act, for which such conditions may be made ( regulation 3);
+- (b) the publication of notices regarding conditions by the traffic commissioners (regulation 4);
+- (c) the period in which requests for inquiries must be made to traffic commissioners (regulation 5);
+- (d) appeals to the Secretary of State ( regulation 6); and
+- (e) supplementary provisions regarding requirements for writing and delivery and the computation of periods of time ( regulations 7 and 8).
+
+## Annotations
+
+[^f00001]: Footnote: section 5 was substituted by section 3(2) of the Transport Act 1985 (c.67); section 60 was amended by section 134(2) and Schedule 2, Part II, paragraph 4(18) of that Act.
+
+[^f00002]: Footnote: Section 61(2) was amended by section 135(1) of the Transport Act 1985.
+
+[^f00003]: Footnote: relevant amending instrument is S.I. 1985/1907 .

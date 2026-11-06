@@ -1,0 +1,40 @@
+---
+title: The Net Zero Teesside Order 2024, section 30
+act: The Net Zero Teesside Order 2024
+section: '30'
+status: revised
+text_date: '2026-07-29'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2024/174/section/30
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Net Zero Teesside Order 2024, section 30
+
+> Text as at 2026-07-29.
+>
+> Extent: England, Wales, Scotland.
+
+## 30. Rights under or over streets[^key-85b883344e83e3d3e9d46477910cad89]
+
+*Extent: E+W+S*
+
+(1) Subject to article 21A (supplemental land), the undertaker may[^key-abac13670f0949cd82ad5ed3b1a69271] enter upon and appropriate so much of the subsoil of, or airspace over, any street within the Order land as may be required for the purposes of the authorised development and may use the subsoil or airspace for those purposes or any other purpose ancillary to the authorised development.
+
+(2) Subject to paragraph (3), the undertaker may exercise any power conferred by paragraph (1) in relation to a street without being required to acquire any part of the street or any easement or right in the street.
+
+(3) Paragraph (2) does not apply in relation to—
+
+- (a) any subway or underground building; or
+- (b) any cellar, vault, arch or other construction in, on or under a street which forms part of a building fronting onto the street.
+
+(4) Subject to paragraph (5) any person who is an owner or occupier of land in respect of which the power of appropriation conferred by paragraph (1) is exercised without the undertaker acquiring any part of that person’s interest in the land, and who suffers loss by the exercise of that power, is entitled to compensation to be determined, in case of dispute, under Part 1 (determination of questions of disputed compensation) of the 1961 Act.
+
+(5) Compensation is not payable under paragraph (4) to any person who is an undertaker to whom section 85 (sharing cost of necessary measures) of the 1991 Act applies in respect of measures of which the allowable costs are to be borne in accordance with that section.
+
+## Annotations
+
+[^key-85b883344e83e3d3e9d46477910cad89]: Commencement: Art. 30 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+
+[^key-abac13670f0949cd82ad5ed3b1a69271]: Textual amendment: Words in [art. 30(1)](https://www.legislation.gov.uk/uksi/2024/174/article/30/1) substituted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [10](https://www.legislation.gov.uk/uksi/2025/1143/article/10)

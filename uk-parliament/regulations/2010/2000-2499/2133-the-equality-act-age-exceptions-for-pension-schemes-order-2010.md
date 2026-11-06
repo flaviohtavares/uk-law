@@ -1,0 +1,613 @@
+---
+title: The Equality Act (Age Exceptions for Pension Schemes) Order 2010
+id: uksi/2010/2133
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-08-25'
+text_date: '2019-05-15'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2010/2133
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/2133/pdfs/uksiem_20102133_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/2133/pdfs/uksi_20102133_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/2133/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Equality Act (Age Exceptions for Pension Schemes) Order 2010
+
+> Text as at 2019-05-15.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2010 No. 2133
+
+Equality
+
+Pensions
+
+The Equality Act (Age Exceptions for Pension Schemes) Order 2010
+
+Made
+
+25th August 2010
+
+Laid before Parliament
+
+31st August 2010
+
+Coming into force
+
+1st October 2010
+
+The Secretary of State for Work and Pensions makes the following Order in exercise of the powers conferred by sections 61(8) and 207(1), (2) and (4)(a) of, and paragraph 16 of Schedule 9 to, the Equality Act 2010[^f00001]:
+
+## 1. Citation and commencement[^key-8012be0368807bee4f1746f1f1ea0e47]
+
+This Order may be cited as the Equality Act (Age Exceptions for Pension Schemes) Order 2010 and shall come into force on 1st October 2010.
+
+## 2. Interpretation[^key-1eca2faf428dba3a6002594490fefa08]
+
+(1) In this Order, subject to paragraph (2), “occupational pension scheme” means an occupational pension scheme within the meaning of section 1 of the Pension Schemes Act 1993[^f00002].
+
+(2) In relation to rules, practices, actions or decisions identified at paragraph 1(a) of Schedule 1, “occupational pension scheme” means an occupational pension scheme within the meaning of section 1 of the Pension Schemes Act 1993 under which only retirement-benefit activities within the meaning of section 255(4) of the Pensions Act 2004[^f00003] are carried out.
+
+(3) In this Order, “schemes” means an occupational pension scheme, construed in accordance with paragraphs (1) and (2).
+
+(4) In this Order, in relation to a scheme—
+
+- “abolition date” means the day appointed for the commencement of section 15(1) of the Pensions Act 2007;[^key-0672419339f663a8ea34f77081001e60]
+- “active member” has the meaning given by section 124 of the Pensions Act 1995[^f00004], but in paragraph 8 of Schedule 1 also includes an active member within the meaning of section 151(2) of the Finance Act;
+- “additional state retirement pension” means the additional pension in the Category A retirement pension within the meaning of sections 44 and 45 of the Social Security Contributions and Benefits Act 1992[^f00005];
+- “age related benefit” means benefit provided from a scheme to a member—
+  - (a) on or following the member’s retirement (including early retirement on grounds of ill health or otherwise),
+  - (b) on the member reaching a particular age, or
+  - (c) on termination of the member’s service in an employment;
+- “basic state[^key-dfcaae153eb06f41e71d2f856d2e4d09] retirement pension” means the basic pension in the Category A retirement pension within the meaning of section 44 of the Social Security Contributions and Benefits Act 1992;
+- “block transfer” means a transfer in a single transaction or series of transactions from a scheme of all the sums or assets held for the purposes of, or representing, or derived from—
+  - (a) all accrued rights under a scheme,
+  - (b) contracted-out rights, or
+  - (c) rights which are not contracted-out rights,
+
+  relating to a period of continuous pensionable service (or pensionable service which is treated as continuous) or one or more of a number of separate periods of such pensionable service which relate to a member and at least one other member;
+- “Contracted-out rights” are such rights under, or derived from, an occupational pension scheme as fall within the following categories—[^key-c22e2c4225dd3eb5335152187ed4733f]
+  - (a) entitlement to payment of, or accrued rights to, guaranteed minimum pensions; or
+  - (b) section 9(2B) rights;
+- “death benefit” means benefit payable from a scheme in respect of a member, in consequence of that member’s death;
+- “defined benefits arrangement” has the meaning given by section 152(6) of the Finance Act, but the reference in that section to an arrangement shall be read as referring to an arrangement in respect of a member under a scheme as defined in section 1 of the Pension Schemes Act 1993 rather than in respect of a member under a pension scheme as defined in section 150(1) of the Finance Act;
+- “dependant” means a widow, widower or surviving civil partner, or a dependant as defined in the scheme rules;
+- “early retirement pivot age” means, in relation to age related benefit provided under a scheme, an age specified in the scheme rules (or otherwise determined) as the earliest age at which entitlement arises—
+  - (a) without consent (whether of an employer, trustee or managers of the scheme or otherwise), and
+  - (b) without an actuarial reduction,
+
+  but disregarding any special provision as to early payment on grounds of ill health or otherwise;
+- “the Finance Act” means the Finance Act 2004[^f00006];
+- “guaranteed minimum pension” has the meaning given in section 8(2) of the Pension Schemes Act 1993[^f00007];
+- “late retirement pivot age” means an age specified in the scheme rules (or otherwise determined) above which benefit becomes payable with actuarial enhancement;
+- “lower earnings limit” means the amount specified for the tax year in question in regulations made under section 5(1)(a)(i) of the Social Security Contributions and Benefits Act 1992[^f00008] (earnings limits and thresholds for Class 1 contributions);
+- “member” means any active member, deferred member, or pensioner member, but in paragraph 7 includes any active, deferred or pensioner member within the meaning of section 151(2) to (4) of the Finance Act;
+- “money purchase arrangement” has the meaning given by section 152(2) of the Finance Act, but the reference in that section to an arrangement shall be read as referring to an arrangement in respect of a member under a scheme as defined in section 1 of the Pension Schemes Act 1993 rather than in respect of a member under a pension scheme as defined in section 150(1) of the Finance Act;
+- “non-discrimination rule” means the rule in section 61 of the Equality Act 2010 as it applies to the protected characteristic of age under that Act;
+- “normal pension age” has the meaning given by section 180 of the Pension Schemes Act 1993;
+- “normal retirement age”, in relation to a member, means the age at which workers in the undertaking for which the member worked at the time of the member’s retirement, and who held the same kind of position as the member held at retirement, were normally required to retire;
+- “pensionable pay” means that part of a member’s pay which counts as pensionable pay under the scheme rules;
+- “prospective member” means any person who, under the terms of the person’s employment, or the scheme rules, or both—
+  - (a) is able, at the person’s option, to become a member of the scheme,
+  - (b) shall become so able if the person continues in the same employment for a sufficient period of time,
+  - (c) shall be so admitted to it automatically unless the person makes an election not to become a member, or
+  - (d) may be admitted to it subject to the consent of any person;
+- “protected rights” has the meaning given in section 10 of the Pension Schemes Act 1993 as it had effect immediately prior to the abolition date[^key-a9a6c703f964f7b78c91b3db4ced4546] [^f00009];
+- “redundancy” means being dismissed by reason of redundancy for the purposes of the Employment Rights Act 1996[^f00010];
+- “relevant transfer” has the meaning given in—
+  - (a) regulation 2(1) of the Transfer of Undertakings (Protection of Employment) Regulations 1981[^f00011] (a relevant transfer), or as the case may be,
+  - (b) regulation 2(1) of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^f00012] (a relevant transfer);
+- “section 9(2B) rights” are—
+  - (a) rights to the payment of pensions and accrued rights to pension (other than rights attributable to voluntary contributions) under a scheme contracted-out by virtue of section 9(2B) of the Pension Schemes Act 1993[^f00013], so far as attributable to an earner’s service in contracted-out employment on or after 6th April 1997; and
+  - (b) where a transfer payment has been made to such a scheme, any rights arising under the scheme as a consequence of that payment which are derived directly or indirectly from—
+    - (i) such rights as are referred to in sub-paragraph (a) under another scheme contracted-out by virtue of section 9(2B) of that Act; or
+    - (ii) protected rights under another occupational pension scheme or under a personal pension scheme attributable to payments or contributions in respect of employment on or after 6th April 1997 where the transfer took place before the abolition date[^key-733d6ffa7cac11a78e51d2774d7d21f8] ;
+- “upper earnings limit” means the amount specified for the tax year in question in regulations made under section 5(1)(a)(iii) of the Social Security Contributions and Benefits Act 1992 (earnings limits and thresholds for Class 1 contributions).
+
+(5) In this Order, “registered pension scheme” has the meaning given by section 150(2) of the Finance Act, and references to contributions under a money purchase arrangement shall be construed as including amounts credited to a member’s account whether or not they reflect payments actually made under the scheme.
+
+## 3. Occupational pension schemes: excepted rules, practices, actions and decisions[^key-ced74465848d3660830ec4e1c967c845]
+
+It is not a breach of the non-discrimination rule for the employer, or the trustees or managers of a scheme, to maintain or use in relation to the scheme,
+
+(a)[^key-bb7893f6d81f52771f5dcb9f323704f6] those rules, practices, actions or decisions set out in Schedule 1; or[^key-a0fbd990266ae55c70599b40cf714b57]
+
+(b) rules, practices, actions or decisions as they relate to rights accrued, or benefits payable, in respect of periods of pensionable service prior to 1st December 2006 that would breach the non-discrimination rule but for this paragraph.
+
+## 4. Contributions by employers to personal pension schemes: excepted practices, actions and decisions[^key-afff11d3c275d6bc4c89f9001c1f0b6b]
+
+It is not an age contravention for the employer, in relation to the payment of contributions to any personal pension scheme in respect of a worker, to maintain or use those practices, actions or decisions set out in Schedule 2.
+
+## 5. Unlawfulness of rules, practices, actions or decisions[^key-404e937e37cdad1d36d58a0006e62ab0]
+
+(1) The inclusion of a rule, practice, action or decision in Schedule 1 (Occupational Pension Schemes: excepted rules, practices, actions or decisions) shall not be taken to mean that, but for the exemption in Schedule 1, the use or maintenance by an employer or the trustees or managers of a scheme of the rule, practice, action or decision in relation to the scheme, would be unlawful.
+
+(2) The inclusion of a practice, action or decision in Schedule 2 (Contributions by Employers to Personal Pension Schemes: excepted practices, actions or decisions) shall not be taken to mean that, but for the exemption in Schedule 2, the use or maintenance by an employer of the practice, action or decision in relation to the payment of contributions to a personal pension scheme in respect of a worker, would be unlawful.
+
+## 6. Length of service exceptions[^key-43dbc6ff2768a7f749dac3d404bd3c2e]
+
+(1) Paragraph (2) is subject to paragraph (3).
+
+(2) In addition to the excepted rules, practices, actions or decisions contained in Schedules 1 and 2, none of the following is a breach of the non-discrimination rule or is an age contravention, as applicable—
+
+- (a) any rule, practice, action or decision of the trustees or managers (“A”) of an occupational pension scheme regarding—
+  - (i) admission to that scheme (“admission terms”); or
+  - (ii) the accrual of, or eligibility for, any benefit under the scheme (“benefit terms”),
+
+where the admission terms or the benefit terms put a member (“B”) of the scheme at a disadvantage when compared with another member (“C”) if and to the extent that the disadvantage suffered by B is because B’s length of service with an employer (“D”) in relation to the scheme is less than that of C;
+
+- (b) any rule, practice, action or decision of an employer (“E”) in relation to an occupational pension scheme regarding the admission terms or benefit terms where it puts a member (“F”) of that scheme at a disadvantage when compared with another member (“G”) if and to the extent that the disadvantage suffered by F is because F’s length of service with E is less than that of G; or
+- (c) any practice, action or decision of an employer (“H”) regarding payment of contributions in respect of a worker (“I”) to a personal pension scheme or to a money purchase arrangement (“contribution terms”) where it puts I at a disadvantage when compared with another worker (“J”) if and to the extent that the disadvantage suffered by I is because I’s length of service with H is less than that of J.
+
+(3) Where B’s, or as the case may be, F’s or I’s, length of service exceeds 5 years and a length of service criterion in the admission terms or, as the case may be, the benefit terms or contribution terms, puts B or F or I at a disadvantage—
+
+- (a) where paragraph (2)(a) applies, A—
+  - (i) must ask D to confirm whether the length of service criterion reasonably appears to D to fulfil a business need of D’s undertaking (for example by encouraging the loyalty or motivation, or rewarding the experience, of some or all of his workers); and
+  - (ii) may rely on D’s confirmation;
+- (b) for the purposes of sub-paragraph (a)(i), D must—
+  - (i) calculate B’s length of service;
+  - (ii) provide A with details of B’s length of service; and
+  - (iii) respond to A’s request within a reasonable time;
+- (c) where paragraph (2)(a) or (b) or (c) applies, it must reasonably appear to D or, as the case may be, E or H, that the length of service criterion applies in such a way that it fulfils a business need of his undertaking (for example by encouraging the loyalty or motivation, or rewarding the experience, of some or all of his workers).
+
+(4) When calculating B’s or, as the case may be, F’s or I’s, length of service, D or, as the case may be, E or H, must calculate—
+
+- (a) the length of time the member or worker has been working for that employer doing work which that employer reasonably considers to be at or above a particular level (assessed by reference to the demands made on the member or worker, for example, in terms of effort, skills and decision making); or
+- (b) the length of time the member or worker has been working for that employer in total,
+
+and it is for D or, as the case may be, E or H to decide which of sub-paragraphs (a) or (b) to use.
+
+(5) For the purposes of paragraph (4), D or, as the case may be, E or H, shall calculate the length of time a member or worker has been working for that employer in accordance with sub-paragraphs (4) to (6) of paragraph 10 of Schedule 9 to the Equality Act 2010 (benefits based on length of service) and any reference in those sub-paragraphs to—
+
+- (a) “A” shall be read as if it were a reference to “D” or, as the case may be, “E” or “H”; and
+- (b) “person” (except in the phrase “person other than A”) shall, where paragraph (2)(a) or (b) applies, be read as if it were a reference to “member”.
+
+(6) For the purposes of this article, a “member” shall include a “prospective member”.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Maria Miller
+
+Parliamentary Under-Secretary of State,
+
+Department for Work and Pensions
+
+25th August 2010
+
+## SCHEDULE 1 — Occupational Pension Schemes: Excepted Rules, Practices, Actions and Decisions
+
+Article 3
+
+### 1. Admission to schemes[^key-990253870ebc972043864c35aa3192fd]
+
+In relation to admission to a scheme—
+
+- (a) a minimum or maximum age for admission, including different ages for admission for different groups or categories of worker;
+- (b) a minimum level of pensionable pay for admission where that minimum—
+  - (i) does not exceed one and a half times the lower earnings limit;
+  - (ii) does not exceed an amount calculated by reference to the lower earnings limit where the aim is more or less to reflect the amount of the basic state retirement pension; or
+  - (iii) does not exceed an amount calculated more or less to reflect the amount of the basic state retirement pension plus the additional state retirement pension; or[^key-f4f9f5e7fa0eaa782f1a4cd93ca4742f]
+  - (iv) does not exceed an amount calculated more or less to reflect the amount of the state pension under Part 1 of the Pensions Act 2014.
+
+### 2. The use of age criteria in actuarial calculations[^key-dacd9784d51ccff77ef82f20188d1b65]
+
+The use of age criteria in actuarial calculations in a scheme, for example in the actuarial calculation of—
+
+- (a) any age related benefit commencing before any early retirement pivot age or enhancement of such benefit commencing after any late retirement pivot age;
+- (b) member or employer contributions by or in respect of a member to a scheme; or
+- (c) any age related benefit commuted in exchange for the payment of any lump sum.
+
+### 3. Contributions[^key-08a18787ea31f2dc684d6bb51c0c1758]
+
+Any difference in the rate of member or employer contributions, to a scheme, by or in respect of different members to the extent that this is attributable to any differences in the pensionable pay or, where paragraph 18 applies, different accrual rates of those members.
+
+### 4. Contributions under money purchase arrangements[^key-1c981b7f9e0f0963eb37c17267c67ad1]
+
+Under a money purchase arrangement—
+
+- (a) different rates of member or employer contributions according to the age of the members by or in respect of whom contributions are made where the aim in setting the different rates is—
+  - (i) to equalise the amount of age related benefit in respect of comparable aggregate periods of pensionable service to which members of different ages who are otherwise in a comparable situation will become entitled under the arrangement, or
+  - (ii) to make more nearly equal the amount of the age related benefit, in respect of comparable aggregate periods of pensionable service, to which members of different ages who are otherwise in a comparable situation will become entitled under the arrangement;
+- (b) equal rates of member or employer contributions irrespective of the age of the members by or in respect of whom contributions are made;
+- (c) any limitation on any employer contributions in respect of a member or member contributions by reference to a maximum level of pensionable pay.
+
+### 5. Contributions under defined benefits arrangements[^key-8392ba1ce0d7b4c4f6c638e19cbb8bc2]
+
+Under a defined benefits arrangement, different rates of member or employer contributions according to the age of the members by or in respect of whom contributions are made, to the extent that—
+
+- (a) each year of pensionable service entitles members in a comparable situation to accrue a right to defined benefits based on the same fraction of pensionable pay, and
+- (b) the aim in setting the different rates is to reflect the increasing cost of providing the defined benefits in respect of members as they get older.
+
+**6.**[^key-2001fc2c78377bc4172431cbe5c58eff] Any limitation on employer contributions in respect of a member or member contributions to a defined benefit arrangement by reference to a maximum level of pensionable pay.
+
+### 7. Rules, practices, actions and decisions relating to benefit[^key-425f79bfeb34868718924392fbf97d2c]
+
+(1) Subject to sub-paragraph (4), a minimum age for any member of a scheme to be entitled to a particular age related benefit that is paid in accordance with sub-paragraph (2) and is paid—
+
+- (a) either with or without consent (whether of an employer, the trustees or managers of the scheme or otherwise), and
+- (b) before the early retirement pivot age relevant to that age related benefit.
+
+(2) The age related benefit must—
+
+- (a) be actuarially reduced on the basis that the aim is to reflect that it is paid on a date before the applicable early retirement pivot age; and
+- (b) not be enhanced by crediting the member with any additional periods of pensionable service or additional benefits.
+
+(3) Sub-paragraph (1) shall also apply to different minimum ages for different groups or categories of members.
+
+(4) Sub-paragraph (1) shall not apply to any member who retires on the grounds to which paragraph 8, 9 or 12 apply.
+
+**8.**[^key-b9f56b183040a3b61c466aea525bfd8f] (1) A minimum age for any active or prospective members of a scheme for payment of or entitlement to a particular age related benefit before the early retirement pivot age relevant to that age related benefit where—
+
+- (a) the entitlement to the age related benefit at a minimum age applies to a member who is an active or prospective member of the scheme on 1st December 2006;
+- (b) the age related benefit may be paid, at a minimum age, to the active or prospective member either with or without consent (whether of an employer, the trustees or managers of the scheme or otherwise); and
+- (c) the age related benefit is enhanced in one or more of the ways specified in sub-paragraph (2).
+
+(2) For the purposes of sub-paragraph (1)(c) the specified ways are the enhancement of any age related benefit payable to or in respect of the member calculated in one or more of the following ways—
+
+- (a) by reference to some or all of the years of prospective pensionable service a member would have completed if that member had remained in pensionable service until normal pension age;
+- (b) by reference to a fixed number of years of prospective pensionable service;
+- (c) by making an actuarial reduction which is smaller than if early retirement had been on grounds to which paragraph 7 applies; or
+- (d) by not making any actuarial reduction for early retirement.
+
+(3) Sub-paragraph (1) shall also apply to different minimum ages for different groups or categories of active or prospective members.
+
+**9.**[^key-9e352c9f824645899c1e23a7c4436292] Paragraph 8 shall continue to apply to any member who after 1st December 2006—
+
+- (a) joins a scheme as a result of a block transfer or relevant transfer;
+- (b) joins a scheme as a result of a block transfer or relevant transfer from a scheme to which paragraph (a) applied; or
+- (c) joins a scheme on the basis that it will provide the same benefits as those provided by the scheme to which paragraph 8 applied.
+
+**10.**[^key-2ace1a525809477c7eda0bf80599a5cc] (1) A minimum age for any member of a scheme for payment of or entitlement to a particular age related benefit on the grounds of redundancy where it is enhanced in accordance with sub-paragraph (2) and paid either with or without consent (whether of an employer, the trustees or managers of the scheme or otherwise).
+
+(2) The enhancement of any age related benefit payable to or in respect of a member on the grounds of redundancy where the enhancement is calculated in one or more of the following ways—
+
+- (a) by reference to the years of prospective pensionable service a member would have completed if that member had remained in pensionable service until normal pension age;
+- (b) by reference to a fixed number of years of prospective pensionable service;
+- (c) by making an actuarial reduction which is smaller than if early retirement had been on grounds to which paragraph 7 applies; or
+- (d) by not making any actuarial reduction for early retirement.
+
+(3) Sub-paragraph (1) shall also apply to different minimum ages for different groups or categories of members.
+
+**11.**[^key-2555c41808d9abe82f18e00745798a32] An early retirement pivot age or a late retirement pivot age including—
+
+- (a) different such ages for different groups or categories of member, and
+- (b) any early retirement pivot age or late retirement pivot age for deferred members which is different than for active members.
+
+**12.**[^key-041425ead71843069b642bc3ffc0498c] (1) A minimum age for any member of a scheme for payment of or entitlement to a particular age related benefit on the grounds of ill health where the age related benefit is enhanced in accordance with sub-paragraph (2) and paid either with or without consent (whether of an employer, the trustees or managers of the scheme or otherwise).
+
+(2) The enhancement of any age related benefit payable to or in respect of a member on the grounds of ill health where the enhancement is calculated in one or more of the following ways—
+
+- (a) by reference to some or all of the years of prospective pensionable service a member would have completed if he had remained in pensionable service until normal pension age;
+- (b) by reference to a fixed number of years of prospective pensionable service;
+- (c) by making an actuarial reduction which is smaller than if early retirement had been on the grounds to which paragraph 7 applies; or
+- (d) by not making any actuarial reduction for early retirement.
+
+(3) Sub-paragraph (1) shall also apply to different minimum ages for different groups or categories of members.
+
+**13.**[^key-714ff57e3720db20db825b6cd365da27] (1) The calculation of any death benefit payable in respect of a member—
+
+- (a) by reference to some or all of the years of prospective pensionable service a member would have completed if that member had remained in service until normal pension age; or
+- (b) by reference to a fixed number of years of prospective pensionable service.
+
+(2) Payment after a member’s death of a death benefit calculated by reference to the period remaining in a pension guarantee period.
+
+(3) For the purposes of sub-paragraph (2), a pension guarantee period means a fixed period specified in or permitted by the scheme rules beginning on—
+
+- (a) the date on which the payment of pension to or in respect of the member began, or
+- (b) if specified in the scheme rules, the date of the member’s death on or after normal pension age where payment of pension to or in respect of that member had not begun.
+
+(4) Any difference between the death benefits payable in respect of deferred members who die before normal pension age and the death benefits payable in respect of deferred members who die on or after normal pension age.
+
+**14.**[^key-f0a3947780e04017c53bed141eb04b1f] (1) Any rule, practice, action or decision where—
+
+- (a) the rate of pension to which a pensioner member is entitled is reduced at any time between age 60 and that member’s state pension age[^key-5ca3e4ef10e7f207ef05366c340ec495] (“the reduction date”), by either—
+  - (i) an amount not exceeding the relevant state retirement pension rate at the reduction date, or
+  - (ii) the rate of the pension in payment where on the reduction date the relevant state retirement pension rate is greater than the rate of that pension;
+- (b) from the date a member is entitled to present payment of a pension from a scheme that member is entitled to an additional amount of pension which does not exceed the amount of the basic state retirement pension plus the additional state retirement pension or the state pension under Part 1 of the Pensions Act 2014[^key-eae2024677e3bce41634b8ba9967d0b7] that would be payable at state pension age; or
+- (c) a member who reaches his state pension age is not entitled to, or no longer entitled to, an additional amount of pension which does not exceed the amount of the basic state retirement pension plus the additional state retirement pension or the state pension under Part 1 of the Pensions Act 2014[^key-708a7861c8c94b4db090ead9572411fd] that would be payable at state pension age.
+
+(2) For the purposes of paragraph (1)—
+
+- “relevant state retirement pension rate” has the same meaning as in regulation 4(3)(b) (pensions bridging: pensionable age on or after 6th April 2016) of the Registered Pension Schemes (Bridging Pensions) and Appointed Day Regulations 2016[^key-50de4e5799777ad2195e02747e3ed5c4];
+- “state pension age” means the pensionable age specified in the rules in paragraph 1 of Schedule 4 to the Pensions Act 1995[^f00015].
+
+**15.**[^key-039b9b13d2d756d4f3a488960334af0e] The actuarial reduction of any pension payable from a scheme in consequence of a member’s death to any dependant of the member where that dependant is more than a specified number of years younger than the member.
+
+**16.**[^key-e7792d13e6a499d8a05ac03ed7036350] In relation to pensioner members who have retired from a scheme on ill health grounds, discontinuation of any life assurance cover once any such members reach the normal retirement age which applied to them at the time they retired, or in relation to members to whom no such normal retirement age applied, once such members reach the age of 65.
+
+### 17. Other rules, practices, actions and decisions relating to benefit[^key-66dd32ae340ce7d626f6ca9f91fd23f3]
+
+Any difference in the amount of any age related benefit or death benefit payable under a scheme to or in respect of members with different lengths of pensionable service to the extent that the difference in amount is attributable to their differing lengths of service, provided that, for each year of pensionable service, members in a comparable situation are entitled to accrue a right to benefit based upon the same fraction of pensionable pay.
+
+**18.**[^key-52ae678d25164af568a548f6c637f05e] (1) Any differences in—
+
+- (a) the fraction of pensionable pay at which any age related benefit accrues, or
+- (b) the amount of death benefit,
+
+to or in respect of active or prospective members of a scheme where the differences are attributable to the aim specified in sub-paragraph (2).
+
+(2) The aim referred to in sub-paragraph (1) is that members in a comparable situation will have the right to age related benefit or death benefit equal to the same fraction, proportion or multiple of pensionable pay—
+
+- (a) without regard to each member’s length of pensionable service under the scheme, and
+- (b) provided that each member continues in pensionable service under the scheme until normal pension age.
+
+(3) Any differences in age related benefits which accrue, or entitlement to any death benefits which arises, to or in respect of active or prospective members of a scheme who are in a comparable situation where—
+
+- (a) those differences are attributable to the aim specified in sub-paragraph (2), and
+- (b) the member’s pensionable service under the arrangement ceases before normal pension age.
+
+(4) Where sub-paragraph (1) applies, any limitation on the amount of any age related benefit or death benefit payable from a scheme where the limitation arises from imposing one or both of the following—
+
+- (a) a maximum amount on the age related benefit or death benefit which is equal to a fraction, proportion or multiple of the member’s pensionable pay, or
+- (b) a minimum period of pensionable service.
+
+**19.**[^key-f43302e6b1827526a25e599bba85a29e] Where paragraph 18 applies, different rates of member or employer contributions according to the age of the members by, or in respect of whom, contributions are made, where for each year of pensionable service members in comparable situations accrue different fractions of pensionable pay.
+
+**20.**[^key-e6d09f24d704c8747674928f20c605d3] Any difference in the amount of any age related benefit or death benefit payable from a scheme to or in respect of different members to the extent that the difference in amount is attributable to differences over time in the pensionable pay of those members.
+
+**21.**[^key-307a5b0f11ec7b26409856f2f5eea33f] (1) Any limitation on the amount of any age related benefit or death benefit payable from a scheme where either or both sub-paragraphs (2) and (3) apply.
+
+(2) The limitation results from imposing a maximum number of years of pensionable service by reference to which the age related benefit or death benefit may be calculated.
+
+(3) The limitation arises from imposing a maximum amount on the age related benefit or death benefit which is equal to a fraction, proportion or multiple of a member’s pensionable pay.
+
+**22.**[^key-0593a01beb79a9eb968c506c3ee9f6ad] Any rule, practice, action or decision where any age related benefit or death benefit is only payable from a scheme where a member is entitled to short service benefit under section 71 of the Pension Schemes Act 1993[^f00016] (basic principles as to short service benefit).
+
+**23.**[^key-1185c8f9bf07146637a7530a66799436] When determining a member’s pensionable pay by reference to which any age related benefit or death benefit payable to or in respect of a member is calculated, to exclude from the member’s remuneration an amount which—
+
+- (a) does not exceed one and a half times the lower earnings limit;
+- (b) does not exceed an amount calculated by reference to the lower earnings limit where the aim is more or less to reflect the amount of the basic state retirement pension; or
+- (c) does not exceed an amount calculated more or less to reflect the amount of the basic state retirement pension plus the additional state retirement pension; or[^key-65be19f1e01e240f503dba19c917e243]
+- (d) does not exceed an amount calculated more or less to reflect the amount of the state pension under Part 1 of the Pensions Act 2014.
+
+**24.**[^key-a8151923488c916083a3fe83e47773f7] Any difference in the amount of age related benefit or death benefit payable under a scheme to or in respect of members where the difference is attributable to accrual of age related benefit at a higher fraction of pensionable pay for pensionable pay over the upper earnings limit (and a lower fraction of pensionable pay for pensionable pay under the upper earnings limit) where the aim is to reflect the additional state retirement pension.
+
+**25.**[^key-5317f7c43464ba627e635f26ca205ecd] Any limitation on the amount of any age related benefit or death benefit payable from a scheme where the limitation—
+
+- (a) relates to—
+  - (i) all members who joined or who became eligible to join the scheme on, after or before a particular date; or
+  - (ii) any group or category of members who joined or who became eligible to join the scheme on, after or before a particular date; and
+- (b) results from imposing a maximum level of pensionable pay by reference to which the age related benefit or death benefit may be calculated.
+
+### 26. Closure of schemes[^key-f014fdc8bf40f6c993a62c574a04eab6]
+
+The closure of a scheme, from a particular date, to workers who have not already joined it.
+
+### 27. Closure of sections of schemes[^key-b547be272116057198b9da91ca44a2e8]
+
+(1) The closure of any section of a scheme, from a particular date, to workers who have not already joined it.
+
+(2) For the purposes of paragraph (1)—
+
+- (a) a scheme may be divided into two or more sections, and
+- (b) a section of a scheme shall mean any of the groups in sub-paragraph (3).
+
+(3) A section of a scheme shall mean any of the following—
+
+- (a) any group of members who became eligible to join, or who joined, the scheme on, after or before a particular date on the basis that particular benefits will be provided to or in respect of those members or that a particular level of contributions will be paid in respect of those members; or
+- (b) any group of members who became eligible to join, or who joined, the scheme as a result of a block transfer or relevant transfer.
+
+### 28. Other rules, practices, actions and decisions[^key-38092314636e240ee530fc3990fa35e9]
+
+Increases of pensions in payment which are made to members over 55 but not to members below that age.
+
+**29.**[^key-d0d29b7a0df61bb86a86b7930af22950] Any difference in the rate of increase of pensions in payment for members of different ages to the extent that the aim in setting the different rates is to maintain or more nearly maintain the relative value of members’ pensions.
+
+**30.**[^key-5fddf3bf02139e54de22bb172e2247e7] Any difference in the rate of increase of pensions in payment for members whose pensions have been in payment for different lengths of time to the extent that the aim in setting the different rates is to maintain or more nearly maintain the relative value of members’ pensions.
+
+**31.**[^key-2363130add8bef90f1c19568002f3a33] The application of an age limit for transfer of the value of a member’s accrued rights into or out of a scheme, provided that any such age limit is not more than one year before the member’s normal pension age.
+
+### 32. Registered pension schemes[^key-b3be52aede8707ebe3079ae8137d5175]
+
+Any rules, practices, actions or decisions relating to entitlement to or payment of benefits under a scheme which is a registered pension scheme insofar as compliance is necessary to secure any tax relief or exemption available under Part 4 of the Finance Act or to prevent any charge to tax arising under that Part of that Act, whoever is liable in relation to such charge.
+
+### 33. Length of service exemptions[^key-847bcdc2b88ff67023af30351fa50796][^key-282ea8ef2ba2ab4ae8675612ee32dde6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Contributions by Employers to Personal Pension Schemes: Excepted Practices, Actions or Decisions
+
+Article 4
+
+### 1. Contributions by employers[^key-c65caac5f4f00ff5b400f325bdc3d771]
+
+Different rates of contributions by an employer to a personal pension scheme according to the age of the workers in respect of whom the contributions are made where the aim in setting the different rates is—
+
+- (a) to equalise the amount of age related benefit, derived from contributions made each year by the employer, to which workers of different ages who are otherwise in a comparable situation will become entitled under their personal pension schemes, or
+- (b) to make more nearly equal the amount of the age related benefit, derived from contributions made each year by the employer, to which workers of different ages who are otherwise in a comparable situation will become entitled under their personal pension schemes.
+
+**2.**[^key-c121b88592d18b8f3abc047fb8cd2671] Any difference in the rate of contributions by an employer to a personal pension scheme in respect of different workers to the extent that this is attributable to any differences in remuneration payable to those workers.
+
+**3.**[^key-22e8187300ffbaabf4e86cf8aaa2aa79] Any limitation on any contributions by an employer, to a personal pension scheme, by reference to a maximum level of remuneration.
+
+**4.**[^key-c47a47c0f0fb2892adc4c483ffeb8047] A minimum age for commencement of payment of contributions by an employer to a personal pension scheme in respect of a worker.
+
+**5.**[^key-84358858eb141b54f7fb0f535a07a415] Different minimum ages for commencement of payment of contributions by an employer to a personal pension scheme in respect of different groups or categories of workers.
+
+**6.**[^key-ac20317e67f5dc4ac08c49da43833507] Equal rates of contributions by an employer to a personal pension scheme irrespective of the age of the workers in respect of whom contributions are made.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order contains permitted exceptions for occupational pension schemes to the non-discrimination rule contained in section 61 of Part 5 of the Equality Act 2010 (“The Equality Act”) (work) as it applies to age.
+
+This Order also contains permitted exceptions, relating to employer contributions to personal pension schemes, to the other non-discrimination provisions of Part 5 of the Act as they apply to age.
+
+The non-discrimination provisions in Part 5 of the Equality Act as they apply to age supersede Part 2 of the Employment Equality (Age) Regulations 2006 ([S.I. 2006/1031](https://www.legislation.gov.uk/uksi/2006/1031)) (“the Age Regulations”), now repealed.
+
+The permitted exceptions to Part 2 of the Age Regulations relating to occupational pension schemes, contained in Schedule 2 to those Regulations, are replaced by the provisions of Schedule 1 to this Order for occupational pension schemes as defined by section 1 of the Pension Schemes Act 1993.
+
+The permitted exceptions to Part 2 of the Age Regulations relating to payments by the employer to personal pension schemes, contained in Schedule 2 to those Regulations, and are replaced by the provisions in Schedule 2 to this Order.
+
+Article 3 provides that it is not a breach of the non-discrimination rule to maintain or use those rules, practices, actions or decisions set out in Schedule 1 to this Order.
+
+Article 4 provides that it is not an age contravention to maintain or use those practices, actions or decisions set out in Schedule 2 to this Order.
+
+Article 5 provides that the inclusion of a rule, practice, action or decision in Schedule 1 or 2 shall not be taken to mean, but for that inclusion, the use or maintenance of the rule, practice, action or decision would otherwise be unlawful.
+
+Schedule 1 contains exceptions to the non-discrimination rule for occupational pension schemes.
+
+Schedule 2 contains exceptions to Part 5 of the Equality Act as it relates to age for employers contributing to a personal pension scheme.
+
+An Impact Assessment has not been prepared for this instrument as it has no impact on the costs of business, charities or voluntary bodies.
+
+## Annotations
+
+[^f00001]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
+
+[^key-8012be0368807bee4f1746f1f1ea0e47]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-1eca2faf428dba3a6002594490fefa08]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/2133/article/2) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^f00002]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48); the definition of “occupational pension scheme” in section 1 was substituted by section 239 of the Pensions Act [2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35) and amended by [S.I. 2007/3014](https://www.legislation.gov.uk/uksi/2007/3014).
+
+[^f00003]: Footnote: [2004 c.35](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^key-0672419339f663a8ea34f77081001e60]: Textual amendment: Words in [art. 2(4)](https://www.legislation.gov.uk/uksi/2010/2133/article/2/4) inserted (6.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [24(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/24/a)
+
+[^f00004]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^f00005]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4); section 44 was amended by paragraph 2 of Schedule 4 to the Social Security (Consequential Provisions) Act [1992 (c.6)](https://www.legislation.gov.uk/ukpga/1992/6), Schedule 8 to the Pension Schemes Act 1993, section 128 of the Pensions Act 1995, section 68 of the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14), sections 30 and 35 of the Child Support, Pensions and Social Security Act [2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19), Schedule 1 to the National Insurance Contributions Act [2002 (c.19)](https://www.legislation.gov.uk/ukpga/2002/19), sections 11, 12 and 128 of, and paragraphs 1(1), (2) and (3) of Schedule 1 and paragraphs 5(1) and (2) of Schedule 2 to, the Pensions Act [2007 (c.22)](https://www.legislation.gov.uk/ukpga/2007/22), section 3 the National Insurance Contributions Act [2008 (c.15)](https://www.legislation.gov.uk/ukpga/2008/15), Schedule 8 to the Welfare Reform Act [2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5) and [S.I. 2010/793](https://www.legislation.gov.uk/uksi/2010/793). Section 45 was amended by sections 31 and 35 of the Child Support, Pensions and Social Security Act 2000, section 11 of the Pensions Act 2007 and section 102 of the Pensions Act [2008 (c.30)](https://www.legislation.gov.uk/ukpga/2008/30).
+
+[^key-dfcaae153eb06f41e71d2f856d2e4d09]: Textual amendment: Word in [art. 2(4)](https://www.legislation.gov.uk/uksi/2010/2133/article/2/4) substituted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [35(2)](https://www.legislation.gov.uk/uksi/2015/1985/article/35/2)
+
+[^key-c22e2c4225dd3eb5335152187ed4733f]: Textual amendment: Words in [art. 2(4)](https://www.legislation.gov.uk/uksi/2010/2133/article/2/4) substituted (6.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [24(b)](https://www.legislation.gov.uk/uksi/2011/1246/article/24/b)
+
+[^f00006]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12); there are no relevant amendments or modifications.
+
+[^f00007]: Footnote: The definition of “guaranteed minimum pension” was amended by paragraph 1 of Schedule 1 to [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050).
+
+[^f00008]: Footnote: Section 5 was substituted by paragraph 1 of Schedule 9 to the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30) and amended by sections 7 and 27 of, and Schedule 7 to, the Pensions Act 2007, and section 1 of, and Schedule 2 to, the National Insurance Contributions Act 2008.
+
+[^key-a9a6c703f964f7b78c91b3db4ced4546]: Textual amendment: Words in [art. 2(4)](https://www.legislation.gov.uk/uksi/2010/2133/article/2/4) inserted (6.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [24(c)](https://www.legislation.gov.uk/uksi/2011/1246/article/24/c)
+
+[^f00009]: Footnote: Section 10 was amended by section 151 of the Pensions Act 1995, Schedule 1 to the Social Security Contributions (Transfer of Functions, etc) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2), section 32 of the Welfare Reform Act 1999, Schedule 11 to the Proceeds of Crime Act [2002 (c.29)](https://www.legislation.gov.uk/ukpga/2002/29), section 15 of, and Schedule 4 to, the Pensions Act 2007, and section 106 of the Pensions Act 2008.
+
+[^f00010]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^f00011]: Footnote: [S.I. 1981/1794](https://www.legislation.gov.uk/uksi/1981/1794), revoked by [S.I. 2006/246](https://www.legislation.gov.uk/uksi/2006/246) from 6th April 2006 except in relation to a transfer that took place before that date, with transitional savings.
+
+[^f00012]: Footnote: [S.I. 2006/246](https://www.legislation.gov.uk/uksi/2006/246), to which there are amendments not relevant to this Order.
+
+[^f00013]: Footnote: Section 9(2B) was inserted by section 136 of the Pensions Act 1995, and amended by paragraph 35 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^key-733d6ffa7cac11a78e51d2774d7d21f8]: Textual amendment: Words in [art. 2(4)](https://www.legislation.gov.uk/uksi/2010/2133/article/2/4) inserted (6.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [24(d)](https://www.legislation.gov.uk/uksi/2011/1246/article/24/d)
+
+[^key-ced74465848d3660830ec4e1c967c845]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/2133/article/3) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-bb7893f6d81f52771f5dcb9f323704f6]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2010/2133/article/3) renumbered as art. 3(a) (1.10.2010) by [The Equality Act (Age Exceptions for Pension Schemes) (Amendment) Order 2010 (S.I. 2010/2285)](https://www.legislation.gov.uk/uksi/2010/2285), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2285/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2010/2285/article/2/2/a)
+
+[^key-a0fbd990266ae55c70599b40cf714b57]: Textual amendment: [Art. 3(b)](https://www.legislation.gov.uk/uksi/2010/2133/article/3/b) and word inserted (1.10.2010) by [The Equality Act (Age Exceptions for Pension Schemes) (Amendment) Order 2010 (S.I. 2010/2285)](https://www.legislation.gov.uk/uksi/2010/2285), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2285/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2010/2285/article/2/2/b)
+
+[^key-afff11d3c275d6bc4c89f9001c1f0b6b]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/2133/article/4) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-404e937e37cdad1d36d58a0006e62ab0]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/2133/article/5) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-43dbc6ff2768a7f749dac3d404bd3c2e]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2010/2133/article/6) inserted (1.10.2010) by [The Equality Act (Age Exceptions for Pension Schemes) (Amendment) Order 2010 (S.I. 2010/2285)](https://www.legislation.gov.uk/uksi/2010/2285), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2285/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/2285/article/2/3)
+
+[^key-990253870ebc972043864c35aa3192fd]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/1) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-f4f9f5e7fa0eaa782f1a4cd93ca4742f]: Textual amendment: [Sch. 1 para. 1(b)(iv)](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/1/b/iv) and word inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [35(3)(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/35/3/a)
+
+[^key-dacd9784d51ccff77ef82f20188d1b65]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/2) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-08a18787ea31f2dc684d6bb51c0c1758]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/3) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-1c981b7f9e0f0963eb37c17267c67ad1]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/4) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-8392ba1ce0d7b4c4f6c638e19cbb8bc2]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/6) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-2001fc2c78377bc4172431cbe5c58eff]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/6) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-425f79bfeb34868718924392fbf97d2c]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/8) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-b9f56b183040a3b61c466aea525bfd8f]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/8) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-9e352c9f824645899c1e23a7c4436292]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/9) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-2ace1a525809477c7eda0bf80599a5cc]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/10) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-2555c41808d9abe82f18e00745798a32]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/11) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-041425ead71843069b642bc3ffc0498c]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/12) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-714ff57e3720db20db825b6cd365da27]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/13) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-f0a3947780e04017c53bed141eb04b1f]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/14) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-5ca3e4ef10e7f207ef05366c340ec495]: Textual amendment: Words in [Sch. 1 para. 14(1)(a)](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/14/1/a) substituted (15.5.2019) by [The Equality Act (Age Exceptions for Pension Schemes) (Amendment) Order 2019 (S.I. 2019/879)](https://www.legislation.gov.uk/uksi/2019/879), [arts. 1](https://www.legislation.gov.uk/uksi/2019/879/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/879/article/2/2)
+
+[^key-eae2024677e3bce41634b8ba9967d0b7]: Textual amendment: Words in [Sch. 1 para. 14(1)(b)](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/14/1/b) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [35(3)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/35/3/b)
+
+[^key-708a7861c8c94b4db090ead9572411fd]: Textual amendment: Words in [Sch. 1 para. 14(1)(c)](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/14/1/c) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [35(3)(c)](https://www.legislation.gov.uk/uksi/2015/1985/article/35/3/c)
+
+[^key-50de4e5799777ad2195e02747e3ed5c4]: Textual amendment: Words in [Sch. 1 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/14/2) substituted (15.5.2019) by [The Equality Act (Age Exceptions for Pension Schemes) (Amendment) Order 2019 (S.I. 2019/879)](https://www.legislation.gov.uk/uksi/2019/879), [arts. 1](https://www.legislation.gov.uk/uksi/2019/879/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/879/article/2/3)
+
+[^f00015]: Footnote: Paragraph 1 was amended by paragraph 39 of Schedule 2 to the State Pension Credit Act [2002 (c.16)](https://www.legislation.gov.uk/ukpga/2002/16), paragraph 13 of Schedule 3 to the Welfare Reform Act [2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5), and section 13 of, and Schedule 13 to, the Pensions Act [2007 (c.22)](https://www.legislation.gov.uk/ukpga/2007/22).
+
+[^key-039b9b13d2d756d4f3a488960334af0e]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/15) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-e7792d13e6a499d8a05ac03ed7036350]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/16) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-66dd32ae340ce7d626f6ca9f91fd23f3]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/18) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-52ae678d25164af568a548f6c637f05e]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/18) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-f43302e6b1827526a25e599bba85a29e]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/19) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-e6d09f24d704c8747674928f20c605d3]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/20) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-307a5b0f11ec7b26409856f2f5eea33f]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/21) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-0593a01beb79a9eb968c506c3ee9f6ad]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/22) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^f00016]: Footnote: Section 71 was amended by [S.I.2005/275](https://www.legislation.gov.uk/uksi/2005/275).
+
+[^key-1185c8f9bf07146637a7530a66799436]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/23) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-65be19f1e01e240f503dba19c917e243]: Textual amendment: [Sch. 1 para. 23(d)](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/23/d) and word inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [35(3)(d)](https://www.legislation.gov.uk/uksi/2015/1985/article/35/3/d)
+
+[^key-a8151923488c916083a3fe83e47773f7]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/24) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-5317f7c43464ba627e635f26ca205ecd]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/25) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-f014fdc8bf40f6c993a62c574a04eab6]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/26) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-b547be272116057198b9da91ca44a2e8]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/27) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-38092314636e240ee530fc3990fa35e9]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/28) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-d0d29b7a0df61bb86a86b7930af22950]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/29) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-5fddf3bf02139e54de22bb172e2247e7]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/30) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-2363130add8bef90f1c19568002f3a33]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/31) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-b3be52aede8707ebe3079ae8137d5175]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/32) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-847bcdc2b88ff67023af30351fa50796]: Textual amendment: [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/33) omitted (1.10.2010) by virtue of [The Equality Act (Age Exceptions for Pension Schemes) (Amendment) Order 2010 (S.I. 2010/2285)](https://www.legislation.gov.uk/uksi/2010/2285), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2285/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/2285/article/2/4)
+
+[^key-282ea8ef2ba2ab4ae8675612ee32dde6]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2010/2133/schedule/1/paragraph/33) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-c65caac5f4f00ff5b400f325bdc3d771]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2010/2133/schedule/2/paragraph/2) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-c121b88592d18b8f3abc047fb8cd2671]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2010/2133/schedule/2/paragraph/2) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-22e8187300ffbaabf4e86cf8aaa2aa79]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2010/2133/schedule/2/paragraph/3) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-c47a47c0f0fb2892adc4c483ffeb8047]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2010/2133/schedule/2/paragraph/4) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-84358858eb141b54f7fb0f535a07a415]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2010/2133/schedule/2/paragraph/5) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)
+
+[^key-ac20317e67f5dc4ac08c49da43833507]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2010/2133/schedule/2/paragraph/6) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2133/article/1)

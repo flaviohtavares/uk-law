@@ -1,0 +1,96 @@
+---
+title: The National Minimum Wage (Amendment) Regulations 2015
+id: uksi/2015/1724
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2015-09-27'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2015/1724
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/1724/pdfs/uksiem_20151724_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1724/pdfs/uksi_20151724_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1724/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Minimum Wage (Amendment) Regulations 2015
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2015 No. 1724
+
+Terms And Conditions Of Employment
+
+The National Minimum Wage (Amendment) Regulations 2015
+
+Made
+
+27th September 2015
+
+Coming into force
+
+1st October 2015
+
+A draft of these Regulations was laid before Parliament in accordance with section 51(5) of the National Minimum Wage Act 1998[^f00001] and approved by a resolution of each House of Parliament.
+
+The Secretary of State, in accordance with sections 5(4) and 6(3) of the National Minimum Wage Act 1998, has laid a report before each House of Parliament containing a statement of reasons for the decision to make regulations in the circumstances described in paragraphs (b) and (d) of section 5(4).
+
+The Secretary of State, in exercise of the powers conferred by sections 1(3), 2, 3 and 51 of the National Minimum Wage Act 1998[^f00002], makes the following Regulations.
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the National Minimum Wage (Amendment) Regulations 2015.
+
+(2) These Regulations come into force on 1st October 2015.
+
+## 2. Amendments to the National Minimum Wage Regulations 2015
+
+(1) The National Minimum Wage Regulations 2015[^f00003] are amended as follows.
+
+(2) In regulation 4(1) (national minimum wage rates)—
+
+- (a) for “£6.50” substitute “£6.70”;
+- (b) for “£5.13” substitute “£5.30”;
+- (c) for “£3.79” substitute “£3.87”;
+- (d) for “£2.73” substitute “£3.30”.
+
+(3) In regulation 16(1) (amount for provision of living accommodation) for “£5.08” substitute “£5.35”.
+
+Jo Johnson
+
+Minister of State for Universities and Science
+
+Department for Business, Innovation and Skills
+
+27th September 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the National Minimum Wage Regulations 2015 (“the 2015 Regulations”). These Regulations come into force on 1st October 2015.
+
+Regulation 2(2)(a) increases the rate of the national minimum wage for workers who are aged 21 or over from £6.50 to £6.70 per hour (regulation 4(1)(a) of the 2015 Regulations).
+
+Regulation 2(2)(b) increases the rate for workers who are aged 18 or over (but not yet aged 21) from £5.13 to £5.30 per hour (regulation 4(1)(b) of the 2015 Regulations).
+
+Regulation 2(2)(c) increases the rate for workers who are under the age of 18 from £3.79 to £3.87 per hour (regulation 4(1)(c) of the 2015 Regulations).
+
+The apprenticeship rate applies to workers within regulation 5(1)(a) and (b) of the 2015 Regulations. Regulation 2(2)(d) of these Regulations increases the rate for such workers from £2.73 to £3.30 per hour (regulation 4(1)(d) of the 2015 Regulations).
+
+Regulation 2(3) increases the accommodation amount which is applicable where any employer provides a worker with living accommodation from £5.08 to £5.35 for each day that accommodation is provided (regulation 16(1) of the 2015 Regulations).
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Department for Business, Innovation and Skills and is annexed to the Explanatory Memorandum which is available alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c.39](https://www.legislation.gov.uk/ukpga/1998/39).
+
+[^f00002]: Footnote: Section 3(1A) was inserted by [S.I. 1999/583](https://www.legislation.gov.uk/uksi/1999/583) and amended by [S.I. 2007/2042](https://www.legislation.gov.uk/uksi/2007/2042); section 51(6) and (7) was amended by the Employment Act [2008 (c.24)](https://www.legislation.gov.uk/ukpga/2008/24), sections 9(3) and 20 and Schedule, Part 2.
+
+[^f00003]: Footnote: [S.I. 2015/621](https://www.legislation.gov.uk/uksi/2015/621), amended by [S.I. 2015/971](https://www.legislation.gov.uk/uksi/2015/971).

@@ -1,0 +1,44 @@
+---
+title: Building Act 1984, section 66
+act: Building Act 1984
+section: '66'
+status: revised-with-pending-changes
+text_date: '2026-07-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1984/55/section/66
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Building Act 1984, section 66
+
+> **Warning: changes not yet applied to this text (23).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/55
+>
+> Extent: England, Wales.
+
+## 66. Replacement of earth-closets etc.
+
+*Extent: E+W*
+
+(1) If a building has a sufficient water supply and sewer available, the local authority may, subject to this section, by notice to the owner of the building require that any closets, other than water-closets, provided for, or in connection with, the building shall be replaced by water-closets, notwithstanding that the closets are not insufficient in number and are not prejudicial to health or a nuisance.
+
+(2) A notice under subsection (1)
+
+above shall—
+
+- (a) require the owner to execute the necessary works, or
+- (b) require that the authority themselves shall be allowed to execute them,
+
+and shall state the effect of subsection (3) below.
+
+(3) Where the local authority give a notice under subsection (1) above—
+
+- (a) if it requires the owner to execute the works, the owner is entitled to recover from them one-half of the expenses reasonably incurred by him in the execution of the works, and
+- (b) if it requires that they shall be allowed to execute the works, they are entitled to recover from the owner one-half of the expenses reasonably incurred by them in the execution of the works.
+
+(4) Where the owner of a building proposes to provide it with a water-closet in subsititution for a closet of any other type, the local authority may, if they think fit, agree to pay him a part, not exceeding one-half, of the expenses reasonably incurred in effecting the replacement, notwithstanding that a notice has not been given by them under subsection (1) above.
+
+(5) Sections 99 and 102 below apply in relation to a notice given under subsection (1) above, subject to the following modifications—
+
+- (a) no appeal lies on the ground that the works are unnecessary, and
+- (b) any reference in the said section 99 to the expenses reasonably incurred in executing works is a reference to one-half of those expenses.

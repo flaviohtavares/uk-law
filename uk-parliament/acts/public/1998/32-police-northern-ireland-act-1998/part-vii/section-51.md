@@ -1,0 +1,34 @@
+---
+title: Police (Northern Ireland) Act 1998, section 51
+act: Police (Northern Ireland) Act 1998
+section: '51'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1998/32/section/51
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police (Northern Ireland) Act 1998, section 51
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/32
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 51. The Police Ombudsman for Northern Ireland.
+
+*Extent: N.I.*
+
+(1) For the purposes of this Part there shall be a Police Ombudsman for Northern Ireland.
+
+(2) The person for the time being holding the office of Police Ombudsman for Northern Ireland shall by that name be a corporation sole.
+
+(3) Schedule 3 shall have effect in relation to the Police Ombudsman for Northern Ireland (in this Part referred to as “**the Ombudsman**”).
+
+(4) The Ombudsman shall exercise his powers under this Part in such manner and to such extent as appears to him to be best calculated to secure—
+
+- (a) the efficiency, effectiveness and independence of the police complaints system; and
+- (b) the confidence of the public and of members of the police force in that system.
+
+(5) The Independent Commission for Police Complaints for Northern Ireland is hereby abolished.

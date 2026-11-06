@@ -1,0 +1,29 @@
+---
+title: Income and Corporation Taxes Act 1988, section 299A
+act: Income and Corporation Taxes Act 1988
+section: 299A
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1988/1/section/299A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income and Corporation Taxes Act 1988, section 299A
+
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 299A. Loan linked investments.[^c21588241]
+
+*Extent: E+W+S+N.I.*
+
+[^c23415921]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c21588241]: Textual amendment: [S. 299A](https://www.legislation.gov.uk/ukpga/1988/1/section/299A) inserted (27.7.1993 with application in relation to any case in which the claim for relief is made on or after 16.3.1993) by [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34), [s. 111(1)(4)](https://www.legislation.gov.uk/ukpga/1993/34/section/111/1/4)
+
+[^c23415921]: Textual amendment: [Pt. 7 Ch. 3](https://www.legislation.gov.uk/ukpga/1988/1/part/7/chapter/3) (ss. 289-312), except s. 305A, repealed (6.4.2007 with effect in accordance with s. 1034(1) of the repealing Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [Sch. 1 para. 627](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/627), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with savings in [s. 1034(3)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

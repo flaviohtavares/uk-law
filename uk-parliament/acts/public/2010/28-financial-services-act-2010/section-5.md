@@ -1,0 +1,53 @@
+---
+title: Financial Services Act 2010, section 5
+act: Financial Services Act 2010
+section: '5'
+status: revised
+text_date: '2026-07-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/28/section/5
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Financial Services Act 2010, section 5
+
+> Text as at 2026-07-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 5. Executives' remuneration reports: supplementary
+
+*Extent: E+W+S+N.I.*
+
+(1) Regulations under section 4 may, in particular, make provision as to—
+
+- (a) the information that must be contained in an executives' remuneration report,
+- (b) how information is to be set out in the report, and
+- (c) what is to be the auditable part of the report.
+
+(2) The information that may be required to be contained in an executives' remuneration report includes—
+
+- (a) information corresponding to information that could be required by regulations under section 421 of the Companies Act 2006 to be contained in a directors' remuneration report, and
+- (b) information comparing the remuneration of relevant executives of an authorised person with the remuneration of employees of the authorised person who fall within a prescribed description.
+
+(3) Regulations under section 4 may, in particular, make provision —
+
+- (a) for the filing of executives' remuneration reports with the registrar of companies for any part of the United Kingdom or with the FSA, and
+- (b) for the publication by the FSA of reports filed with it.
+
+(4) Regulations under section 4 may apply any provision made by or under the Companies Act 2006 relating to directors' remuneration reports, subject to such exceptions, adaptations and modifications as the Treasury consider appropriate.
+
+(5) The provisions that may be applied include provisions creating offences; but the regulations may not impose a liability for an offence which is more onerous than the liability for the offence under the applied provision.
+
+(6) Regulations under section 4 may provide that any requirement imposed on an authorised person by the regulations is to be treated for the purposes of prescribed provisions of the Financial Services and Markets Act 2000 as if it had been imposed on the person by a provision of that Act.
+
+(7) For the purposes of section 4 and this section—
+
+- “**authorised person**” has the same meaning as in the Financial Services and Markets Act 2000 (see section 31),
+- “**the FSA**” means the Financial Services Authority,
+- “**group**” has the same meaning as in the Financial Services and Markets Act 2000 (see section 421),
+- “officer”—
+  - (a) in relation to a partnership, means a partner, and
+  - (b) in relation to a body corporate whose affairs are managed by its members, means a member, and
+- “**prescribed**” means specified in, or determined in accordance with, regulations under section 4.

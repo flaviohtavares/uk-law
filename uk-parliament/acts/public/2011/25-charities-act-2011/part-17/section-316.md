@@ -1,0 +1,45 @@
+---
+title: Charities Act 2011, section 316
+act: Charities Act 2011
+section: '316'
+status: revised
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2011/25/section/316
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Charities Act 2011, section 316
+
+> Text as at 2026-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 316. Rules relating to appeals, applications or references
+
+*Extent: E+W*
+
+(1) This section applies in relation to appeals, applications or references to the Tribunal which are mentioned in section 315(2).
+
+(2) The Lord Chancellor may make rules—
+
+- (a) specifying steps which must be taken before appeals, applications or references are made to the Tribunal (and the period within which any such steps must be taken);
+- (b) requiring the Commission to inform persons of their right to appeal or apply to the Tribunal following a final decision, direction or order of the Commission.
+
+(3) Tribunal Procedure Rules may make any other provision regulating the exercise of rights to appeal or to apply to the Tribunal and matters relating to the making of references to it.
+
+(4) Rules under subsection (2) or (3) may confer a discretion on—
+
+- (a) the Tribunal, or
+- (b) any other person.
+
+(5) Rules of the Lord Chancellor under this section—
+
+- (a) are to be made by statutory instrument, and
+- (b) are subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) Rules of the Lord Chancellor under this section may make—
+
+- (a) different provision for different cases, and
+- (b) such supplemental, incidental, consequential or transitional provision or savings as the Lord Chancellor considers appropriate.

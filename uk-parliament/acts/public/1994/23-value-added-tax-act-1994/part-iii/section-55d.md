@@ -1,0 +1,49 @@
+---
+title: Value Added Tax Act 1994, section 55D
+act: Value Added Tax Act 1994
+section: 55D
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1994/23/section/55D
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Value Added Tax Act 1994, section 55D
+
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/23
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 55D. Deposit schemes: liability to account for VAT on deposit amounts[^key-cef52fa6bf6f20aa6c7477eb41f67396]
+
+*Extent: E+W+S+N.I.*
+
+(1) For the purposes of this section, a person makes a “relevant deposit scheme supply” if—
+
+- (a) the person makes the first supply of goods in relation to which a deposit amount is payable (whether or not another person makes a subsequent supply of those goods in relation to which a deposit amount is payable), and
+- (b) that supply is a taxable (but not a zero-rated) supply.
+
+(2) A person who makes relevant deposit scheme supplies is liable to account for and pay the VAT in respect of the deposit amount that, on the applicable assumption, would have been charged in relation to the proportion of the supplies that is determined, in accordance with provision made by or under regulations under subsection (4), as being attributable to goods in respect of which no deposit amount is repaid.
+
+(3) The applicable assumption is that, in the case of those goods, section 55C(3) is ignored and the deposit amount and the price payable for the goods are regarded instead as indistinguishable parts of the consideration for the supply of the goods.
+
+(4) The Commissioners may by regulations make provision about accounting for VAT in relation to designated deposit schemes including, in particular, provision—
+
+- (a) for the making of financial adjustments in connection with the liability to account for and pay VAT under subsection (2);
+- (b) specifying the methods for calculating those adjustments;
+- (c) specifying the methods for determining or estimating the proportion of supplies in respect of which deposit amounts are not repaid;
+- (d) about the manner in which, and the period within which, adjustments are to be made (including adjustments for the correction of errors);
+- (e) specifying the conditions subject to which adjustments are to be made;
+- (f) conferring power on the Commissioners to make provision for the purposes of paragraphs (a) to (e) by means of a notice published in accordance with the regulations.
+
+(5) The power to make regulations under subsection (4) includes power to make (or to enable the Commissioners to make)—
+
+- (a) different provision for different purposes;
+- (b) different provision for different areas;
+- (c) consequential, supplementary, incidental, transitional, transitory or saving provision.
+
+## Annotations
+
+[^key-cef52fa6bf6f20aa6c7477eb41f67396]: Textual amendment: [Ss. 55B-55D](https://www.legislation.gov.uk/ukpga/1994/23/section/55B) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 315](https://www.legislation.gov.uk/ukpga/2023/30/section/315)

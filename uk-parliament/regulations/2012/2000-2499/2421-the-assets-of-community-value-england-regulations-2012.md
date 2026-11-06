@@ -1,0 +1,716 @@
+---
+title: The Assets of Community Value (England) Regulations 2012
+id: uksi/2012/2421
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-09-20'
+text_date: '2017-04-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/2421
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/2421/pdfs/uksiem_20122421_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2421/pdfs/uksi_20122421_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2421/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Assets of Community Value (England) Regulations 2012
+
+> Text as at 2017-04-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 2421
+
+Local Government, England
+
+The Assets of Community Value (England) Regulations 2012
+
+Made
+
+20th September 2012
+
+Coming into force in accordance with regulation 1(1)
+
+In accordance with section 235(6) and (7)(h) of the Localism Act 2011[^f00001], a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+The Secretary of State, in exercise of the powers conferred by sections 87(5), 88(3), 89(4), 89(5), 91(2)(d), 92(5), 95(5)(e) and (j), 95(6), 99(1) and 101(1) of the Localism Act 2011, makes the following Regulations:
+
+## 1. Citation, commencement, application and interpretation[^key-adebfaac7f606bccb2c78ff5576b76d1]
+
+(1) These Regulations may be cited as the Assets of Community Value (England) Regulations 2012 and shall come into force on the day after they are made.
+
+(2) These Regulations apply in relation to England only.
+
+(3) In these Regulations—
+
+- “the Act” means the Localism Act 2011;
+- “compensation review” means a review requested in accordance with regulation 16;
+- “the list”, in relation to a local authority, means the list maintained by the authority of land in that authority’s area that is land of community value, and “listed” and “listing” are to be interpreted accordingly;
+- “listing review” means a review under section 92(2) of the Act (review of local authority’s decision to include land in its list);
+- “neighbouring authority”: a local authority in England is a neighbouring authority in relation to any land if any part of the boundary of that authority’s area is also part of the boundary of the area of the responsible authority;
+- “registrar”, “register” (other than in regulation 4(3)) and “registered estate” have the meaning given in section 132(1) of the Land Registration Act 2002[^f00002];
+- “responsible authority” in relation to any land means the local authority in whose area the land is situated;
+- “a statutory compulsory purchase” in relation to any land, means a a purchase of the land by a purchaser authorised by or under an Act to acquire the land compulsorily (whether or not a purchase pursuant to the authorisation).
+
+(4) For the purposes of these Regulations, land is owned by a single owner if—
+
+- (a) the land is owned by the same person; or
+- (b) in a case not within sub-paragraph (a), the land is held on trusts and was settled on those trusts by the same settlor.
+
+## 2. List of assets of community value[^key-483106d04ca756c3e329aa28e74a2a3f]
+
+A local authority must as soon as practicable after receiving information that enables it to do so make the following amendments to an entry on the list—
+
+- (a) add to the entry—
+  - (i) the information that, during the six weeks beginning with the date of receipt of a notice under section 95(2) of the Act in respect of any of the land to which the entry applies, it has received a request from a community interest group with a local connection to be treated as a potential bidder in relation to land to which the notice relates;
+  - (ii) the name of that community interest group; and
+  - (iii) that restrictions on entering into a relevant disposal of the land to which the notice relates continue to apply during the six months beginning with the date the notice was received, but at the end of that six months will then not apply for a further twelve months;
+- (b) amend or, as the case may be, remove the entry so as to exclude any of the land that has since it was included in the list been the subject of a relevant disposal other than one referred to in section 95(5) of the Act; and
+- (c) remove the entry if—
+  - (i) an appeal against listing is successful, or
+  - (ii) the authority for any reason no longer considers the land to be land of community value.
+
+## 3. Land which may not be listed[^key-47dd77fe61270f572091fe440a6e1101]
+
+A building or other land within a description specified in Schedule 1 is not land of community value (and therefore may not be listed).
+
+## 4. Definition of local connection[^key-5f7d669b42ff5324efbeec65eb810483]
+
+(1) For the purposes of these regulations and section 89(2)(b)(iii) of the Act, a body other than a parish council has a local connection with land in a local authority’s area if—
+
+- (a) the body’s activities are wholly or partly concerned—
+  - (i) with the local authority’s area, or
+  - (ii) with a neighbouring authority’s area;
+- (b) in the case of a body within regulation 5(1)(c), (e) or (f), any surplus it makes is wholly or partly applied—
+  - (i) for the benefit of the local authority’s area, or
+  - (ii) for the benefit of a neighbouring authority’s area; and
+- (c) in the case of a body within regulation 5(1)(c) it has at least 21 local members.
+
+(2) For the purposes of these regulations and section 89(2)(b)(iii) of the Act—
+
+- (a) a parish council has a local connection with land in another parish council’s area if any part of the boundary of the first council’s area is also part of the boundary of the other council’s area; and
+- (b) a parish council has a local connection with land that is in a local authority’s area but is not in any parish council’s area if—
+  - (i) the council’s area is within the local authority’s area, or
+  - (ii) any part of the boundary of the council’s area is also part of the boundary of the local authority’s area.
+
+(3) In paragraph (1)(c), “local member” means a member who is registered, at an address in the local authority’s area or in a neighbouring authority’s area, as a local government elector in the register of local government electors kept in accordance with the provisions of the Representation of the People Acts[^f00003].
+
+## 5. Voluntary or community bodies[^key-3779d0ded78bc418f836ca892c38364c]
+
+(1) For the purposes of section 89(2)(b)(iii) of the Act, but subject to paragraph (2), “a voluntary or community body” means—
+
+- (a) a body designated as a neighbourhood forum pursuant to section 61F of the Town and Country Planning Act 1990[^f00004];
+- (b) a parish council;
+- (c) an unincorporated body—
+  - (i) whose members include at least 21 individuals, and
+  - (ii) which does not distribute any surplus it makes to its members;
+- (d) a charity;
+- (e) a company limited by guarantee which does not distribute any surplus it makes to its members;
+- (f) a co-operative or community benefit society[^key-ce1526b98aba2ed45d80140480fa2b5c] which does not distribute any surplus it makes to its members; or
+- (g) a community interest company[^f00005].
+
+(2) A public or local authority may not be a voluntary or community body, but this does not apply to a parish council.
+
+(3)[^key-c76c9cd375d8584a6ef2adf6ea633067] In this regulation “co-operative or community benefit society” means a registered society within the meaning given by section 1(1) of the Co-operative and Community Benefit Societies Act 2014, other than a society registered as a credit union.
+
+## 6. Contents of community nominations[^key-17386295c903011e68874356049c8dc6]
+
+A community nomination must include the following matters—
+
+- (a) a description of the nominated land including its proposed boundaries;
+- (b) a statement of all the information which the nominator has with regard to—
+  - (i) the names of current occupants of the land, and
+  - (ii) the names and current or last-known addresses of all those holding a freehold or leasehold estate in the land;
+- (c) the nominator’s reasons for thinking that the responsible authority should conclude that the land is of community value; and
+- (d) evidence that the nominator is eligible to make a community nomination.
+
+## 7. Procedure when considering whether to list land[^key-8510ae299733218c10371fda548dfa86]
+
+The responsible authority must decide whether land nominated by a community nomination should be included in the list within eight weeks of receiving the nomination.
+
+**8.**[^key-e83aea034cbd011a12e72853acbaea6d] A local authority which is considering whether land nominated by a community nomination should be included in the list must take all practicable steps to give the information that it is considering listing the land to—
+
+- (a) a parish council if any of the land is in the council’s area;
+- (b) the owner of the land;
+- (c) where the owner is not the freeholder—
+  - (i) the holder of the freehold estate in the land; and
+  - (ii) the holder of any leasehold estate in the land other than the owner; and
+- (d) any lawful occupant of the land.
+
+## 9. Notice of inclusion or removal[^key-dccc2b623e29ad3ff23cca44fd7dcc1a]
+
+A local authority which gives notice under section 91 of the Act must, in addition to the persons specified in that section, give it to—
+
+- (a) where they are not the owner, the holder of the freehold estate in the land and the holder of any leasehold estate in the land, and
+- (b) a parish council if any of the land is in the council’s area.
+
+## 10. Procedure to be followed for listing review[^key-7ad9f06b3d0a2af0239fe6835b037afa]
+
+Where an owner of listed land asks the responsible authority to carry out a listing review, the review is to be carried out in accordance with the procedure set out in Schedule 2.
+
+## 11. Appeal against listing review decision[^key-cb1141376b48fa7ce56c2e847828c5da]
+
+(1) An owner of listed land may appeal to the First-Tier Tribunal against the local authority’s decision on a listing review in respect of the land.
+
+(2) The owner referred to in paragraph (1) may be either the owner who requested the review, or a subsequent owner of part or the whole of the land.
+
+## 12. Community interest groups[^key-aa001a62d6005940f4cc6ab5074de591]
+
+For the purposes of these regulations and section 95(3)(a) of the Act—
+
+- (a) a parish council is a community interest group in relation to land to which a notice under section 95(2) of the Act relates if any of the land is in the council’s area; and
+- (b) a body is a community interest group in relation to any land if the body—
+  - (i) is within one or more of sub-paragraphs (d) to (g) of regulation 5(1); and
+  - (ii) has a local connection with the land.
+
+## 13. Moratorium[^key-c42811bc1e2922811854a916220fc964]
+
+(1) Where the responsible authority receives notice under section 95(2) of the Act in relation to any listed land, an owner of the land may enter into a relevant disposal of any of that land to a community interest group at any time in the eighteen months beginning with the date of receipt of the notice.
+
+(2) Section 95(1) of the Act does not apply to a relevant disposal of listed land in the cases set out in Schedule 3.
+
+## 14. Compensation[^key-11db6d85ea27061aa163e4fafad40717]
+
+(1) An owner or former owner of listed land or of previously listed land, other than an owner or former owner specified in regulation 15, is entitled to compensation from the responsible authority of such amount as the authority may determine where the circumstances in paragraph (2) apply.
+
+(2) The circumstances mentioned in paragraph (1) are that the person making the claim has, at a time when the person was the owner of the land and the land was listed, incurred loss or expense in relation to the land which would be likely not to have been incurred if the land had not been listed.
+
+(3) For the avoidance of doubt, and without prejudice to other types of claim which may be made, the following types of claim may be made—
+
+- (a) a claim arising from any period of delay in entering into a binding agreement to sell the land which is wholly caused—
+  - (i) by relevant disposals of the land being prohibited by section 95(1) of the Act during any part of the relevant six weeks that is on or after the date on which the responsible authority receives notification under section 95(2) of the Act in relation to the land, or
+  - (ii) in a case where the prohibition continues during the six months beginning with that date, by relevant disposals of the land being prohibited during any part of the relevant six months that is on or after that date; and
+- (b) a claim for reasonable legal expenses incurred in a successful appeal to the First-Tier Tribunal against the responsible authority’s decision—
+  - (i) to list the land,
+  - (ii) to refuse to pay compensation, or
+  - (iii) with regard to the amount of compensation offered or paid.
+
+(4) In paragraph (3)(a) “the relevant six weeks” means the six weeks, and “the relevant six months” means the six months, beginning with—
+
+- (a) the date on which the responsible authority receives notification under section 95(2) of the Act in relation to the land, or
+- (b) if earlier, the earliest date on which it would have been reasonable for that notification to have been given by the owner who gave it.
+
+(5) A claim for compensation must—
+
+- (a) be made in writing to the responsible authority;
+- (b) be made before the end of thirteen weeks after the loss or expense was incurred or (as the case may be) finished being incurred;
+- (c) state the amount of compensation sought for each part of the claim; and
+- (d) be accompanied by supporting evidence for each part of the claim.
+
+(6) The responsible authority must give the claimant written reasons for its decisions with respect to a request for compensation.
+
+**15.**[^key-08a16c8f766da7eada13f3bcef3ee11a] The following are not entitled to compensation under regulation 14—
+
+- (a) an authority or other body in respect of loss or expense incurred at a time when it has accounts which are required by section 2 of the Audit Commission Act 1998[^f00007] to be audited in accordance with that Act;
+- (b) a department, authority or other body in respect of loss or expense incurred at a time when section 6 of the National Audit Act 1983[^f00008] (“the 1983 Act”) applies to it; and
+- (c) an authority or body in respect of loss or expense incurred in any of its financial years if its use of resources in that year is examinable under section 7 of the 1983 Act.
+
+## 16. Review by local authority of compensation decision[^key-fb24d915406a3476d24f081cc18ea980]
+
+(1) A person who has under regulation 14 made a claim for compensation may ask the responsible authority concerned to review either or both of its decisions, made in response to that claim, as to—
+
+- (a) whether compensation should be paid to that person, and
+- (b) if compensation is to be paid, the amount of that compensation.
+
+(2) If a request for a compensation review is made in accordance with the provisions of paragraph 2 of Schedule 2, the authority must in accordance with the procedure in Schedule 2 review the decision or decisions of which review is requested.
+
+(3) Where an authority carries out a compensation review, the authority must give written notification to the person who asked for the review of—
+
+- (a) the decision on the review, and
+- (b) the reasons for the decision.
+
+## 17. Appeal against compensation review decision[^key-333f199de39379227a0b2f427b8fa1ab]
+
+Where a local authority has carried out a compensation review, the person who requested the review may appeal to the First-Tier Tribunal against any decision of the authority on the review.
+
+## 18. Duty of local authority regarding restriction entered in the register in respect of listed land[^key-9ce447bfbf12bf5730f5f30ca8ea58a8]
+
+Where a local authority which has caused a restriction in Form QQ[^f00009] to be entered in respect of a registered estate subsequently removes the land to which the registered estate relates from the list, the authority must as soon after doing so as is practicable apply to the registrar for cancellation of the restriction.
+
+## 19. Duties of owners and mortgagees in respect of listed land[^key-638df1841c2c82242583c948d4a08993]
+
+(1) Where listed land is entered in the register on an application for first registration of the land made to the registrar—
+
+- (a) by an owner of the land, or
+- (b) under rule 21 of the Land Registration Rules 2003[^f00010], by a mortgagee in the name of the owner,
+
+the applicant must, as soon as is practicable after the land is entered in the register, inform the responsible authority of that.
+
+(2) A person who as a result of a disposal has become the owner of listed land must as soon as practicable after becoming the owner give the responsible authority—
+
+- (a) information that the disposal has taken place; and
+- (b) full details of—
+  - (i) the name of the person who has become the owner including, where that person is a body corporate subject to registration, its place of registration and registered number; and
+  - (ii) the address of that person.
+
+(3) In this regulation—
+
+- (a) “owner” includes a person who would be an owner as defined in section 107 of the Act—
+  - (i) but for the effect of section 7(1) and (2) of the Land Registration Act 2002[^f00011]; or
+  - (ii) if the disposition to that person had been completed by registration in accordance with section 27(1)[^f00012] of that Act; and
+- (b) “disposal” means a transfer of a freehold estate or a grant or assignment of a leasehold estate in land, including—
+  - (i) a relevant disposal, and
+  - (ii) a binding agreement to make a disposal.
+
+## 20. Amendments to Land Registration Rules[^key-b45907626555b447ca29bd4e472f2e3b]
+
+The Land Registration Rules 2003 are amended as set out in Schedule 4.
+
+## 21. Consequences of non-compliant disposal[^key-29dd5018d19fe6d89f51287a59e0ea77]
+
+(1) Subject to paragraph (2), a disposal of listed land is ineffective if it is a disposal that contravenes section 95(1) of the Act.
+
+(2) Paragraph (1) does not apply if the person making the disposal, having made all reasonable efforts to find out if the land to be disposed of is listed, does not know that it is listed at the time the disposal is entered into.
+
+Signed by the authority of the Secretary of State for the Department for Communities and Local Government
+
+Don Foster
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+20th September 2012
+
+## SCHEDULE 1 — Land which is not of community value (and therefore may not be listed)
+
+Regulation 3
+
+**1.**[^key-7d70ed93d6e7c9fd64a0628a4ddb01c1] (1) Subject to sub-paragraph (5) and paragraph 2, a residence together with land connected with that residence.
+
+(2) In this paragraph, subject to sub-paragraphs (3) and (4), land is connected with a residence if—
+
+- (a) the land, and the residence, are owned by a single owner; and
+- (b) every part of the land can be reached from the residence without having to cross land which is not owned by that single owner.
+
+(3) Sub-paragraph (2)(b) is satisfied where a part of the land cannot be reached from the residence by reason only of intervening land in other ownership on which there is a road, railway, river or canal, provided that the additional requirement in sub-paragraph (4) is met.
+
+(4) The additional requirement referred to in sub-paragraph (3) is that it is reasonable to think that sub-paragraph (2)(b) would be satisfied if the intervening land were to be removed leaving no gap.
+
+(5) Land which falls within sub-paragraph (1) may be listed if—
+
+- (a) the residence is a building that is only partly used as a residence; and
+- (b) but for that residential use of the building, the land would be eligible for listing.
+
+**2.**[^key-a7880a2431de3ef4b5455c0e45ba7f6c] For the purposes of paragraph 1 and this paragraph—
+
+- (a) “residence” means a building used or partly used as a residence;
+- (b) a building is a residence if—
+  - (i) it is normally used or partly used as a residence, but for any reason so much of it as is normally used as a residence is temporarily unoccupied;
+  - (ii) it is let or partly let for use as a holiday dwelling;
+  - (iii) it, or part of it, is a hotel or is otherwise principally used for letting or licensing accommodation to paying occupants; or
+  - (iv) it is a house in multiple occupation as defined in section 77 of the Housing Act 2004[^f00013]; and
+- (c) a building or other land is not a residence if—
+  - (i) it is land on which currently there are no residences but for which planning permission or development consent has been granted for the construction of residences;
+  - (ii) it is a building undergoing construction where there is planning permission or development consent for the completed building to be used as a residence, but construction is not yet complete; or
+  - (iii) it was previously used as a residence but is in future to be used for a different purpose and planning permission or development consent for a change of use to that purpose has been granted.
+
+**3.**[^key-7c78e4015b9d95cec3b15f1896e1d692] Land in respect of which a site licence is required under Part 1 of the Caravan Sites and Control of Development Act 1960[^f00014], or would be so required if paragraphs 1, 4, 5 and 10 to 11A of Schedule 1 to that Act were omitted.
+
+**4.**[^key-306d77db0c9625c6d9d506c3863b27bc] Operational land as defined in section 263 of the Town and Country Planning Act 1990[^f00015].
+
+## SCHEDULE 2 — Procedure for listing review and compensation review
+
+Regulation 10 and regulation 16
+
+### 1. Time for requesting a listing review[^key-ac0d0e962d72f8c123bb39a0a78afa52]
+
+(1) Except as specified in sub-paragraph (2), a request for a listing review must be made in writing before the end of a period of eight weeks beginning with the day on which written notice of inclusion of the land in the list was given by the responsible authority under section 91(2) of the Act, or such longer period as the authority may in writing allow.
+
+(2) Where the authority takes reasonable alternative steps to bring the notice to the attention of the owner in accordance with section 91(2), a request for a listing review must be made before the end of a period of eight weeks beginning with the day on which the authority completes the taking of those steps.
+
+### 2. Time for requesting a compensation review[^key-8ebff493f4c136e748b3f24c0015b03b]
+
+A request for a compensation review must be made in writing before the end of a period of eight weeks beginning with the date on which the responsible authority provides the owner with written notification of its reasons in accordance with regulation 14(6), or such longer period as the authority may in writing allow.
+
+### 3. Procedure for reviews[^key-8a3f21b271569ab60954021f816c1354]
+
+In the following provisions of this Schedule, “the review” means a listing review or a compensation review.
+
+**4.**[^key-eb50113a63a1fcc6fd4bb0703d02acdd] An officer of the authority of appropriate seniority who did not take any part in making the decision to be reviewed (“the reviewer”) shall carry out the review and make the review decision.
+
+**5.**[^key-b3776aa7571104bd6557097b704a3e55] (1) The owner may appoint any representative (whether legally qualified or not) to act on his or her behalf in connection with the review.
+
+(2) The local authority must provide to the representative any document which is required to be sent to the owner, and need not provide that document separately to the owner.
+
+**6.**[^key-ed2c59c6cfe3ac15517575e26e4fdc92] As soon as is practicable following the written request for the review, the authority shall notify the owner of the procedure to be followed in connection with the review.
+
+**7.**[^key-81071b10bd43ab6a637c540bcf9d9db8] (1) An oral hearing must be held at the owner’s written request.
+
+(2) Where no written request for an oral hearing is made by the owner, the authority may decide whether or not to include an oral hearing in the review process.
+
+**8.**[^key-3c4d17fec489d5ba56c8c4457f3973b0] Both the owner and the owner’s representative may make representations to the reviewer orally or in writing or both orally and in writing.
+
+**9.**[^key-83ac74e21b0cea7bc9024972bdede2ff] The authority must complete the review by the end of the period of eight weeks beginning with the date the authority receives the written request for the review, or such longer period as is agreed with the owner in writing.
+
+## SCHEDULE 3 — Relevant disposals to which section 95(1) of the Act does not apply
+
+Regulation 13
+
+**1.**[^key-1bf687411820904090ac50bdc0778816] A disposal pursuant to an order made by a court or by a tribunal established by or under an Act.
+
+**2.**[^key-2eed8b4a06cdd2b7a33f0827d56f3602] (1) A disposal made pursuant to a separation agreement made between spouses or civil partners.
+
+(2) A disposal made pursuant to an agreement—
+
+- (a) made between spouses or civil partners in connection with their separation, or between former spouses or former civil partners, and
+- (b) relating to the care of a child dependent on a party to the agreement.
+
+**3.**[^key-b8e99c7d38b4ce86ed96c3e7dacdf3b5] (1) Any disposal made under, or for the purposes of, any statutory provision relating to incapacity.
+
+(2) In this paragraph—
+
+- (a) “incapacity” includes any of the following (whether temporary or permanent)—
+  - (i) physical impairment,
+  - (ii) mental impairment, and
+  - (iii) lack of, or impairment to, capacity to deal with financial and property matters; and
+- (b) “statutory provision” means any provision contained in an Act or in an instrument made under an Act.
+
+**4.**[^key-3d2a7c7af97c5bed12f534eae39f3ca0] (1) Subject to sub-paragraph (2), a disposal—
+
+- (a) to a particular person in pursuance of a requirement that it should be made to that person under a planning obligation entered into in accordance with section 106 of the Town and Country Planning Act 1990; or
+- (b) made in pursuance of the exercise of a legally enforceable—
+  - (i) option to buy,
+  - (ii) nomination right,
+  - (iii) right of pre-emption, or
+  - (iv) right of first refusal.
+
+(2) A disposal is not within sub-paragraph (1)(a) if it is of land that was listed when the obligation was entered into; and a disposal is not within sub-paragraph (1)(b) if it is of land that was listed when the option or right was granted.
+
+**5.**[^key-75f048c1c3f0d35c78cc6a4fe09a64c8] (1) A disposal by a transferor, “T”, to a former owner, where both the conditions in paragraph (2) are satisfied.
+
+(2) The conditions referred to in paragraph (1) are that—
+
+- (a) the land was acquired by T or by a predecessor in title of T by a purchase that was a statutory compulsory purchase (“the original purchase”); and
+- (b) T has made a first offer of the land to the former owner, in accordance with an obligation to offer back the land to the former owner before disposing of the land on the open market.
+
+(3) In this paragraph—
+
+- (a) “former owner” means—
+  - (i) the person, “P”, from whom the land was acquired under the original purchase; or
+  - (ii) a successor to P; and
+- (b) “successor” means the person on whom the land, had it not been acquired by T or a predecessor of T, would clearly have devolved under P’s will or intestacy, and includes a person who has succeeded, otherwise than by purchase, to adjoining land from which the land was severed by the original purchase.
+
+**6.**[^key-86cd9a012d9ebe4e3136009f32af1901] (1) Disposal in exercise of a power of sale of the land by a person who has that power by way of security for a debt.
+
+(2) The reference in sub-paragraph (1) to a power of sale includes in particular a power implied by virtue of section 101(1)(i) of the Law of Property Act 1925[^f00016].
+
+**7.**[^key-70554c9b8f3984ba6aa7fb9770972928] A disposal pursuant to insolvency proceedings defined as proceedings under the Insolvency Act 1986 or the Insolvency (England and Wales) Rules 2016.
+
+**8.**[^key-1b7a76d5344302679258cec15cb8919b] A disposal of land to a person whose acquisition of the land is a statutory compulsory purchase.
+
+**9.**[^key-4061047a137db33d450eefb41849ad07] A grant of a tenancy of the land pursuant to the provisions of Part 4 of the Agricultural Holdings Act 1986[^f00018].
+
+**10.**[^key-daed694dd1ccc68bf24f57459ee12389] (1) A disposal by one body corporate to another, where the second one is a group undertaking in relation to the first.
+
+(2) In this paragraph, “group undertaking” has the meaning given by section 1161(5) of the Companies Act 2006[^f00019].
+
+**11.**[^key-2d38a6545421f0db802131b0ea5615c0] (1) A part-listed disposal as specified in section 95(5)(e) of the Act where, subject to sub-paragraphs (2) and (3), the following conditions are satisfied with regard to the land which is being disposed of—
+
+- (a) the land is owned by a single owner; and
+- (b) every part of the land can be reached from every other part without having to cross land which is not owned by that single owner.
+
+(2) Sub-paragraph (1)(b) is satisfied where a part of the land cannot be reached from every other part of the land by reason only of intervening land in other ownership on which there is a road, railway, river or canal, provided that the additional requirement in sub-paragraph (3) is met.
+
+(3) The additional requirement referred to in sub-paragraph (2) is that it would be reasonable to think that sub-paragraph (1)(b) would be satisfied if the intervening land were to be removed leaving no gap.
+
+**12.**[^key-7f89c7115222f344b8bab8cad60aa76d] A disposal of a church, together with any land annexed or belonging to it, pursuant to a scheme under Part 6 of the Mission and Pastoral Measure 2011[^f00020].
+
+**13.**[^key-006dd541d548464762adf11bbbd7f08d] (1) A disposal by any person for the purpose of enabling health service provision to continue to be provided on the land.
+
+(2) In this paragraph, “health service provision” means services provided as part of the health service continued under section 1(1) of the National Health Service Act 2006[^f00021].
+
+**14.**[^key-8d2c79a1270f3cc6a8e457cc72b3e62e] (1) A disposal of land to be held for the purposes of—
+
+- (a) subject to sub-paragraph (2), a school as defined in section 4 of the Education Act 1996[^f00022];
+- (b) a 16 to 19 Academy[^f00023]; or
+- (c) an institution within the further education sector as defined in section 91(3) of the Further and Higher Education Act 1992[^f00024].
+
+(2) For the purposes of sub-paragraph (1)(a), “school” does not include an independent school other than one in respect of which Academy arrangements have been entered into by the Secretary of State under section 1 of the Academies Act 2010.
+
+(3) For the purposes of sub-paragraph (2), “independent school” has the meaning given in section 463[^f00025] of the Education Act 1996.
+
+**15.**[^key-0e9ca8ad81335468420ac70d9321e170] A disposal which is subject to a statutory requirement regarding the making of the disposal, where that requirement could not be observed if the requirements of section 95(1) of the Act were complied with.
+
+## SCHEDULE 4 — Amendments to Land Registration Rules
+
+Regulation 20
+
+**1.**[^key-19bd7e73cb8001cffcd95ba1fc86b82b] The Land Registration Rules 2003[^f00026] are amended as follows.
+
+**2.**[^key-7b2a9bd02f6410e35a0306a1e8f1cb82] After rule 27, insert—
+
+> **27A. First registration – where land is or was listed as land of community value**
+>
+> (1) An owner of listed land who applies for first registration of that land, or where rule 21 applies a mortgagee who makes such an application in the name of the owner, must at the same time apply for entry of a restriction in Form QQ in respect of that land.
+>
+> (2) Where a person applies for first registration of land and any of the deeds and documents accompanying the application (in accordance with rule 24(1)(c)) includes a conveyance or lease to the applicant or to a predecessor in title made at any time when the land was listed land, the applicant must in respect of each such conveyance or lease provide a certificate by a conveyancer that the conveyance or lease did not contravene section 95(1) of the Localism Act 2011.
+>
+> (3) In this rule—
+>
+> - (a) “listed land” means land entered in a local authority’s list of assets of community value maintained under section 87(1) of the Localism Act 2011, and
+> - (b) “owner” has the same meaning as in section 107 of the Localism Act 2011, except that it includes a person who would be such an owner but for the effect of section 7(1) and (2) of the Act.
+
+.
+
+**3.**[^key-1ac662f8c38318fa468e75a1a4257c9a] In rule 93[^f00027]—
+
+- (a) in paragraph (w), omit the final “and”, and
+- (b) after paragraph (x) add—
+
+  > - (y) a local authority where it has entered land, the title to which is registered, in its list of assets of community value which it maintains in accordance with section 87(1) of the Localism Act 2011, and is applying for a restriction in form QQ to be entered in the register for that land, and
+  > - (z) a mortgagee under a mortgage falling within section 4(1)(g) of the Act who makes an application for first registration under rule 21, where the estate charged relates to land entered in a local authority’s list of assets of community value maintained under section 87(1) of the Localism Act 2011, and is applying for a restriction in Form QQ to be entered in the register of that estate.
+
+  .
+
+**4.**[^key-01997a08ce58376247753ea9f34e07b4] In rule 94[^f00028], after the end of paragraph (10) add—
+
+> (11) Where a local authority has entered land in its list of assets of community value which it maintains in accordance with section 87(1) of the Localism Act 2011, an application for a restriction in Form QQ must be made—
+>
+> - (a) if that land includes a registered estate the proprietor of which is an owner as defined in section 107 of that Act, as soon as practicable by the local authority in respect of that registered estate unless there is an existing restriction in Form QQ in respect of that estate, or
+> - (b) if the title to the land is unregistered, where required by rule 27A(1).
+
+.
+
+**5.**[^key-e0d160558b06a740169e8fd55c2d03a0] In rule 217(3)[^f00029], for “PP” substitute “QQ”.
+
+**6.**[^key-e14ccbd3660d8168e1842096713693b2] In Schedule 4[^f00030], at the end (after the end of the provision regarding Form PP) add—
+
+> Form QQ (Land included in a list of assets of community value maintained under section 87(1) of the Localism Act 2011)
+>
+> No transfer or lease is to be registered without a certificate signed by a conveyancer that the transfer or lease did not contravene section 95(1) of the Localism Act 2011.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Chapter 3 of Part 5 of the Localism Act 2011 (“the Act”) makes provision for England and Wales in relation to assets of community value, and includes powers for the Secretary of State to make further detailed provision in relation to England. These Regulations, which apply to England only, contain those details and come into force at the same time as commencement of Chapter 3, Part 5 of the Act, to give effect to the assets of community value scheme.
+
+Regulation 1 defines terms used in the Regulations.
+
+Regulation 2 specifies ways in which a local authority must modify an entry on its list of assets of community value.
+
+Regulation 3 introduces Schedule 1, which specifies types of land which may not be listed as an asset of community value.
+
+Regulation 4 defines “local connection” in relation to land, which is a requirement for voluntary or community bodies which wish to nominate land for listing, and for community interest groups in relation to the moratorium rules applying to listed land contained in section 95 of the Act.
+
+Regulation 5 sets out the requirements for a group to qualify as a voluntary or community body, which under section 89(2)(b)(iii) of the Act is eligible to nominate land for listing.
+
+Regulation 6 specifies information which must be included in a community nomination of land to be listed.
+
+Regulation 7 requires a local authority to decide within 8 weeks whether nominated land should be listed.
+
+Regulation 8 specifies people whom a local authority must inform when it is considering whether to list land, and regulation 9 specifies people to whom notice must be given when land is added to or removed from the list (in addition to those specified in section 91 of the Act).
+
+Regulation 10 introduces Schedule 2, which contains the procedure to be followed by a local authority when it carries out a review of its decision to list land.
+
+Regulation 11 gives an owner of land, including both the owner who requested the review and a subsequent owner of the land, the right to appeal to the First-Tier Tribunal against the local authority’s decision on its review of its decision to list the land**.**
+
+Regulation 12 sets out the requirements for a group to qualify as a community interest group, which under section 95(3)(a) of the Act may make a written request to be treated as a potential bidder in relation to the land.
+
+Regulation 13 specifies that a community interest group may enter into a contract to buy listed land during a moratorium period, and introduces Schedule 3 which sets out types of disposal to which the moratorium requirements in section 95(1) of the Act will not apply at all (in addition to those set out in section 95(5) of the Act).
+
+Regulation 14 gives an owner of listed or formerly listed land the right to claim compensation for loss or expense, incurred while the owner of the land, which would be likely not to have been incurred if the land had not been listed. It also sets out procedural requirements for making a compensation claim, and requires local authorities to give owners written reasons for decisions with regard to compensation.
+
+The right to claim compensation does not apply to public and publicly funded owners of land specified in regulation 15.
+
+Regulation 16 gives a person who has claimed compensation the right to require the local authority to review its decision with regard to that claim, and to give reasons for the review decision, and applies the procedural rules in Schedule 2 to compensation reviews.
+
+Regulation 17 gives a person who has requested a compensation review the right to appeal to the First-Tier Tribunal against the local authority’s review decision.
+
+Regulations 18 to 20 contain provisions to safeguard against non-compliance by owners of listed land with the statutory requirements. Requirements regarding application for a restriction on the land register in respect of listed land, and for provision of an independent certificate of compliance to the Land Registrar in certain circumstances, are created by amendment to the Land Registration Rules 2003 (“the 2003 Rules”).
+
+With regard to entry on the land register of a restriction in respect of listed land, regulation 18 requires a local authority to apply in certain circumstances to cancel the restriction.
+
+Regulation 19 creates two duties applying to owners of listed land; firstly that an owner applying for first registration of the land (or a mortgagee applying for first registration on behalf of the owner) must at the same time apply for entry of a restriction on the land register; and secondly that a person who has become an owner of the land following a disposal must inform the local authority of the disposal and provide ownership details.
+
+Regulation 20 introduces Schedule 4, which makes amendments to rules 27, 93, 94, and 217 of, and Schedule 4 to, the 2003 Rules.
+
+Paragraph 2 of Schedule 4 to these Regulations adds a new rule 27A to the 2003 Rules. This requires an owner of listed land applying for first registration of the land in the land register to apply at the same time for a restriction in Form QQ to be entered in the register. The same duty applies to a mortgagee applying for first registration in the owner’s name. At the same time the applicant for first registration must provide with the application a certificate by a conveyancer that any conveyance of lease of the land while it was listed did not contravene section 95(1) of the Act.
+
+Paragraph 3 of Schedule 4 amends rule 93 of the 2003 Rules (which specifies persons who have a sufficient interest to apply for a restriction) by adding a local authority which has listed land and is applying for a restriction to be entered in the register, and a mortgagee who has applied for first registration and for a restriction to be entered with respect to the charged land.
+
+Paragraph 4 of Schedule 4 amends rule 94 of the 2003 Rules (which specifies when an application for a restriction must be made) by adding that where a local authority has listed land, an application for a restriction in Form QQ must be made either by the local authority (unless such a restriction already exists) or in accordance with new rule 27A (by the owner or mortgagee).
+
+Paragraph 6 of Schedule 4 adds the wording for new Form QQ to Schedule 4 of the 2003 Rules (standard forms of restriction) , and paragraph 5 makes a consequential amendment to rule 217.
+
+Regulation 21 provides that a non-compliant disposal will be ineffective, except where the owner making the disposal, having made all reasonable efforts to find out if the land was listed, was unaware that this was the case at the time of the disposal.
+
+## Annotations
+
+[^f00001]: Footnote: [2011 c.20](https://www.legislation.gov.uk/ukpga/2011/20). The power to make regulations under these provisions in relation to Wales is conferred on the Welsh Ministers, *see* the definition of “appropriate authority” in section 108(1) of the Localism Act 2011.
+
+[^key-adebfaac7f606bccb2c78ff5576b76d1]: Commencement: Reg. 1 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00002]: Footnote: [2002 c.9](https://www.legislation.gov.uk/ukpga/2002/9). There have been amendments to section 132 which are not relevant to these Regulations.
+
+[^key-483106d04ca756c3e329aa28e74a2a3f]: Commencement: Reg. 2 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-47dd77fe61270f572091fe440a6e1101]: Commencement: Reg. 3 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-5f7d669b42ff5324efbeec65eb810483]: Commencement: Reg. 4 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00003]: Footnote: *See* in particular section 2 of the Representation of the People Act [1983 (c.2)](https://www.legislation.gov.uk/ukpga/1983/2), inserted by section 1 of the Representation of the People Act [2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2).
+
+[^key-3779d0ded78bc418f836ca892c38364c]: Commencement: Reg. 5 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00004]: Footnote: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8). Section 61F was inserted by paragraphs 1 and 2 of Schedule 9 to the Localism Act 2011, with effect from 6th April 2012, in accordance with article 8(a) of the Localism Act 2011 (Commencement No. 4 and Transitional, Transitory and Saving Provisions) Order 2012, [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628).
+
+[^key-ce1526b98aba2ed45d80140480fa2b5c]: Textual amendment: Words in [reg. 5(1)(f)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/5/1/f) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 32(a)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/32/a)
+
+[^f00005]: Footnote: A community interest company is a company which satisfies the requirements of Part 2 of the Companies (Audit, Investigations and Community Enterprise Act [2004 (c.27)](https://www.legislation.gov.uk/ukpga/2004/27). *See* in particular sections 26, 35 and 36A. There have been amendments to section 26 and a substitution of section 36A which are not significant for these Regulations.
+
+[^key-c76c9cd375d8584a6ef2adf6ea633067]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/5/3) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 32(b)](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/32/b)
+
+[^key-17386295c903011e68874356049c8dc6]: Commencement: Reg. 6 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-8510ae299733218c10371fda548dfa86]: Commencement: Reg. 7 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-e83aea034cbd011a12e72853acbaea6d]: Commencement: Reg. 8 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-dccc2b623e29ad3ff23cca44fd7dcc1a]: Commencement: Reg. 9 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-7ad9f06b3d0a2af0239fe6835b037afa]: Commencement: Reg. 10 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-cb1141376b48fa7ce56c2e847828c5da]: Commencement: Reg. 11 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-aa001a62d6005940f4cc6ab5074de591]: Commencement: Reg. 12 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-c42811bc1e2922811854a916220fc964]: Commencement: Reg. 13 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-11db6d85ea27061aa163e4fafad40717]: Commencement: Reg. 14 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-08a16c8f766da7eada13f3bcef3ee11a]: Commencement: Reg. 15 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00007]: Footnote: [1998 c.18](https://www.legislation.gov.uk/ukpga/1998/18). The accounts to which section 2 applies are specified in Schedule 2 to the 1998 Act, which has been amended from time to time.
+
+[^f00008]: Footnote: [1983 c.44](https://www.legislation.gov.uk/ukpga/1983/44). The list of public bodies to which section 6 applies has been amended from time to time.
+
+[^key-fb24d915406a3476d24f081cc18ea980]: Commencement: Reg. 16 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-333f199de39379227a0b2f427b8fa1ab]: Commencement: Reg. 17 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-9ce447bfbf12bf5730f5f30ca8ea58a8]: Commencement: Reg. 18 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00009]: Footnote: Form QQ is a new form of wording of a restriction added to Schedule 4 to the Land Regulation Rules 2003 ([S.I. 2003/1417](https://www.legislation.gov.uk/uksi/2003/1417)) by paragraph 6 of Schedule 4 to these Regulations.
+
+[^key-638df1841c2c82242583c948d4a08993]: Commencement: Reg. 19 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00010]: Footnote: [2003/1417](https://www.legislation.gov.uk/uksi/2003/1417). *See* footnotes to Schedule 4 for details of previous amendments to this instrument.
+
+[^f00011]: Footnote: [2002 c.9](https://www.legislation.gov.uk/ukpga/2002/9). Section 7 was amended by the Land Registration Act (Amendment) Order 2008 ([S.I. 2008/2872](https://www.legislation.gov.uk/uksi/2008/2872)).
+
+[^f00012]: Footnote: Section 27 was amended by the Commons Registration Act [1965 (c.64)](https://www.legislation.gov.uk/ukpga/1965/64) and by section 157(1) and (4) of the Localism Act 2011, brought into force on 1st April 2012 by article 6(a) of the Localism Act 2011 (Commencement No. 4 and Transitional, Transitory and Saving Provisions) Order 2012 ([S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628)).
+
+[^key-b45907626555b447ca29bd4e472f2e3b]: Commencement: Reg. 20 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-29dd5018d19fe6d89f51287a59e0ea77]: Commencement: Reg. 21 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-7d70ed93d6e7c9fd64a0628a4ddb01c1]: Commencement: Sch. 1 para. 1 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-a7880a2431de3ef4b5455c0e45ba7f6c]: Commencement: Sch. 1 para. 2 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00013]: Footnote: [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34).
+
+[^key-7c78e4015b9d95cec3b15f1896e1d692]: Commencement: Sch. 1 para. 3 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00014]: Footnote: [1960 c.62](https://www.legislation.gov.uk/ukpga/1960/62). Paragraph 11A of Schedule 1 was inserted by section 176 of the Local Government, Planning and Land Act [1980 (c.65)](https://www.legislation.gov.uk/ukpga/1980/65).
+
+[^key-306d77db0c9625c6d9d506c3863b27bc]: Commencement: Sch. 1 para. 4 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00015]: Footnote: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8). Section 263 has been amended by paragraph 7 of Schedule 5 to the Transport Act [2000 (c.38)](https://www.legislation.gov.uk/ukpga/2000/38); by paragraph 23 of Schedule 6, and Part 2 of Schedule 19 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), and by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149).
+
+[^key-ac0d0e962d72f8c123bb39a0a78afa52]: Commencement: Sch. 2 para. 1 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-8ebff493f4c136e748b3f24c0015b03b]: Commencement: Sch. 2 para. 2 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-8a3f21b271569ab60954021f816c1354]: Commencement: Sch. 2 para. 3 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-eb50113a63a1fcc6fd4bb0703d02acdd]: Commencement: Sch. 2 para. 4 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-b3776aa7571104bd6557097b704a3e55]: Commencement: Sch. 2 para. 5 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-ed2c59c6cfe3ac15517575e26e4fdc92]: Commencement: Sch. 2 para. 6 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-81071b10bd43ab6a637c540bcf9d9db8]: Commencement: Sch. 2 para. 7 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-3c4d17fec489d5ba56c8c4457f3973b0]: Commencement: Sch. 2 para. 8 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-83ac74e21b0cea7bc9024972bdede2ff]: Commencement: Sch. 2 para. 9 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-1bf687411820904090ac50bdc0778816]: Commencement: Sch. 3 para. 1 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-2eed8b4a06cdd2b7a33f0827d56f3602]: Commencement: Sch. 3 para. 2 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-b8e99c7d38b4ce86ed96c3e7dacdf3b5]: Commencement: Sch. 3 para. 3 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-3d2a7c7af97c5bed12f534eae39f3ca0]: Commencement: Sch. 3 para. 4 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-75f048c1c3f0d35c78cc6a4fe09a64c8]: Commencement: Sch. 3 para. 5 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-86cd9a012d9ebe4e3136009f32af1901]: Commencement: Sch. 3 para. 6 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00016]: Footnote: [1925 c.20](https://www.legislation.gov.uk/ukpga/1925/20). The application of section 101(1)(i) was affected by the insertion of sub-section (1A) by paragraph 2 of Schedule 5 to the Commonhold and Leasehold Reform Act [2002 (c.15)](https://www.legislation.gov.uk/ukpga/2002/15).
+
+[^key-70554c9b8f3984ba6aa7fb9770972928]: Textual amendment: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2012/2421/schedule/3/paragraph/7) substituted (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (Consequential Amendments and Savings) Rules 2017 (S.I. 2017/369)](https://www.legislation.gov.uk/uksi/2017/369), [rule 1](https://www.legislation.gov.uk/uksi/2017/369/rule/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/369/schedule/2/paragraph/10)
+
+[^key-1b7a76d5344302679258cec15cb8919b]: Commencement: Sch. 3 para. 8 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-4061047a137db33d450eefb41849ad07]: Commencement: Sch. 3 para. 9 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00018]: Footnote: [1986 c.5](https://www.legislation.gov.uk/ukpga/1986/5). Part 4 of this Act makes provision for succession on the death or retirement of a tenant of an agricultural holding.
+
+[^key-daed694dd1ccc68bf24f57459ee12389]: Commencement: Sch. 3 para. 10 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00019]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-2d38a6545421f0db802131b0ea5615c0]: Commencement: Sch. 3 para. 11 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-7f89c7115222f344b8bab8cad60aa76d]: Commencement: Sch. 3 para. 12 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00020]: Footnote: [2011 No. 3](https://www.legislation.gov.uk/ukcm/2011/3). Part 6 of this Measure, which comes into force on 1st July 2012, concerns redundant churches and replaces Part 3 of the Pastoral Measure [1983 No. 1](https://www.legislation.gov.uk/ukcm/1983/1).
+
+[^key-006dd541d548464762adf11bbbd7f08d]: Commencement: Sch. 3 para. 13 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00021]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41). A new version of section 1 is substituted by section 1 of the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7), on a date to be specified by the Secretary of State by order. The new wording of section 1(1) of the 2006 Act is not significantly different for the purposes of these Regulations.
+
+[^key-8d2c79a1270f3cc6a8e457cc72b3e62e]: Commencement: Sch. 3 para. 14 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00022]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Section 4 has been amended by section 51 of, and paragraph 10(b) of Schedule 7 and Schedule 8 to, the Education Act [1997 (c.44)](https://www.legislation.gov.uk/ukpga/1997/44); by section 95(1), (2) and (3) of the Childcare Act [2006 (c.21)](https://www.legislation.gov.uk/ukpga/2006/21); by Part 3 of Schedule 22 to the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32); by paragraph 9(1), (2)(a) and (2)(b) of Schedule 13 to the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21); and by [S.I. 2010/1080](https://www.legislation.gov.uk/uksi/2010/1080).
+
+[^f00023]: Footnote: A “16 to 19 Academy” is an educational institution which meets the requirements of section 1B of the Academies Act [2010 (c.32)](https://www.legislation.gov.uk/ukpga/2010/32). Section 1B was inserted into that Act by section 53(7) of the Education Act 2011, with effect from 1st April 2012 (commenced by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924)).
+
+[^f00024]: Footnote: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13). Amendments to section 91(3) have been made by paragraphs 1 and 13(1) and (3) of Schedule 8 to the Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22).
+
+[^f00025]: Footnote: Section 463 was substituted by section 172 of the Education Act 2002, and has been amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^key-0e9ca8ad81335468420ac70d9321e170]: Commencement: Sch. 3 para. 15 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-19bd7e73cb8001cffcd95ba1fc86b82b]: Commencement: Sch. 4 para. 1 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00026]: Footnote: [S.I. 2003/1417](https://www.legislation.gov.uk/uksi/2003/1417). Rule 27 was amended by [S.I. 2008/1919](https://www.legislation.gov.uk/uksi/2008/1919).
+
+[^key-7b2a9bd02f6410e35a0306a1e8f1cb82]: Commencement: Sch. 4 para. 2 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^key-1ac662f8c38318fa468e75a1a4257c9a]: Commencement: Sch. 4 para. 3 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00027]: Footnote: Rule 93 was amended by [S.I. 2005/1766](https://www.legislation.gov.uk/uksi/2005/1766) and [S.I. 2008/1919](https://www.legislation.gov.uk/uksi/2008/1919).
+
+[^key-01997a08ce58376247753ea9f34e07b4]: Commencement: Sch. 4 para. 4 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00028]: Footnote: Rule 94 was amended by [S.I. 2008/1919](https://www.legislation.gov.uk/uksi/2008/1919).
+
+[^key-e0d160558b06a740169e8fd55c2d03a0]: Commencement: Sch. 4 para. 5 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00029]: Footnote: Rule 217(3) was amended by [S.I. 2008/1919](https://www.legislation.gov.uk/uksi/2008/1919).
+
+[^key-e14ccbd3660d8168e1842096713693b2]: Commencement: Sch. 4 para. 6 in force at 21.9.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1)
+
+[^f00030]: Footnote: New text of Schedule 4 was substituted by [S.I. 2008/1919](https://www.legislation.gov.uk/uksi/2008/1919), and has subsequently been amended by [S.I. 2010/671](https://www.legislation.gov.uk/uksi/2010/671).

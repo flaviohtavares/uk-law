@@ -1,0 +1,42 @@
+---
+title: Finance Act 2012, section 85
+act: Finance Act 2012
+section: '85'
+status: revised
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2012/14/section/85
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2012, section 85
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 85. General annuity business: payments made in pre-1992 accounting periods
+
+*Extent: E+W+S+N.I.*
+
+(1) If—
+
+- (a) a payment in respect of an annuity is made by an insurance company under a group annuity contract made in a pre-1992 accounting period, and
+- (b) the company's liabilities first include an amount in respect of that annuity in a post-1992 accounting period,
+
+the payment is treated for the purposes of section 83(3)(b) as if the contract had been made in a post-1992 accounting period.
+
+(2) If—
+
+- (a) a payment in respect of an annuity is made by a re-insurer under a re-insurance treaty made in a pre-1992 accounting period, and
+- (b) the re-insurer's liabilities first include an amount in respect of that annuity in a post-1992 accounting period,
+
+the payment is, as respects the re-insurer, treated for the purposes of section 83(3)(b) as if the treaty had been made in a post-1992 accounting period.
+
+(3) In this section—
+
+- “**a pre-1992 accounting period**” means an accounting period beginning before 1 January 1992,
+- “**a post-1992 accounting period**” means an accounting period beginning on or after 1 January 1992,
+- “**group annuity contract**” means a contract under which the insurance company undertakes to become liable to pay annuities to or in respect of persons who may subsequently be specified or otherwise ascertained under or in accordance with the contract (whether or not annuities under the contract are also payable to or in respect of persons who are specified or ascertained at the time the contract is made), and
+- “**re-insurance treaty**” means a contract under which one insurance company is obliged to cede, and another (referred to in this section as a “**re-insurer**”) to accept, the whole or part of a risk of a class or description to which the contract relates.

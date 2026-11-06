@@ -1,0 +1,1218 @@
+---
+title: The Wireless Telegraphy (Licence Charges) Regulations 2020
+id: uksi/2020/1068
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-09-30'
+text_date: '2025-10-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2020/1068
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/1068/pdfs/uksi_20201068_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1068/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Wireless Telegraphy (Licence Charges) Regulations 2020
+
+> Text as at 2025-10-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2020 No. 1068
+
+Electronic Communications
+
+The Wireless Telegraphy (Licence Charges) Regulations 2020
+
+Made
+
+30th September 2020
+
+Coming into force
+
+21st October 2020
+
+The Office of Communications (“OFCOM”), in exercise of the powers conferred by sections 12, 13(2) and 122(7) of the Wireless Telegraphy Act 2006[^f00001][^f00002] (“the Act”), make the following Regulations.
+
+Before making these Regulations OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act, and have considered the representations made to them before the time specified in the notice in accordance with section 122(4)(c) of the Act.
+
+## 1. Citation and commencement[^key-243d47efa028f6d6538a42b9c2d0de00]
+
+These Regulations may be cited as the Wireless Telegraphy (Licence Charges) Regulations 2020 and shall come into force on 21st October 2020.
+
+## 2. Interpretation[^key-fdb9942c6c8037eb0d43596f34cdd109]
+
+(1) In these Regulations—
+
+- “the 2000 Regulations” means the Wireless Telegraphy (Broadband Fixed Wireless Access Licences) Regulations 2000[^f00003];
+- “the 2007 Regulations” means the Wireless Telegraphy (Licence Award) (No. 2) Regulations 2007;[^key-70a969c436bbbfa533de65ecceb5ec04]
+- “the 2012 Regulations” means the Wireless Telegraphy (Spectrum Trading) Regulations 2012[^f00004];
+- “the Act” means the Wireless Telegraphy Act 2006;
+- “apparatus” means apparatus for wireless telegraphy;
+- “Band I” means the band 55.750—68.00 MHz, with the exception of the sub-bands 60.750—62.750 MHz and 67.750—67.8375 MHz;
+- “base station” means a station which facilitates or controls communications between a mobile station and—
+  - (a) itself;
+  - (b) another mobile station;
+  - (c) a fixed mobile station; or
+  - (d) any electronic communications network;
+- “channel” means a part of the electromagnetic spectrum intended to be used for a transmission of signals and defined by—
+  - (a) two specified frequency limits;
+  - (b) its centre frequency and the associated bandwidth; or
+  - (c) an indication equivalent to (a) or (b);
+- “co-channel” means apparatus operating in an identical frequency or channel;
+- “core London area” means the area within a circle which has a 22 kilometre radius from Charing Cross, London, which is located at grid square reference TQ 302 805;
+- “cross-polar” means the use of orthogonal polarisation to permit the re-use of identical frequencies or channels in the same area;
+- “earth station” means a radio station situated either on the earth’s surface or within the earth’s atmosphere and is intended for communication with one or more—
+  - (a) radio stations which are situated beyond, or are intended to be situated beyond, the earth’s atmosphere; or
+  - (b) radio stations of the same kind by means of one or more reflecting satellites or other objects in space;
+- “erp” means effective radiated power of transmission;
+- “exclusive basis” means authorised use of a channel which is not shared with any other licensee;
+- “fixed link” means a connection by wireless telegraphy designed for use between two fixed points;
+- “fixed mobile station” means a control point configured to operate in the manner of a mobile station;
+- “Geographic Region” means any one of the Regions A to N as described in Part 1 of the Schedule to the 2000 Regulations;[^key-628aed088033831181b5e01626b8ee4c]
+- “grid square” means a National Grid square of the 2nd series of Landranger maps published by the Ordnance Survey;
+- “heavy congestion area” means such part of the British Islands being in an area listed in Schedule 8 and identified by reference to a grid square which is considered by OFCOM to have a heavily congested use of the electromagnetic spectrum for a specified class of licence;
+- “high population area” means such part of the British Islands being in an area listed in Schedule 5 and identified by reference to a grid square which is considered by OFCOM to have a high proportion of the population;
+- “high usage bands” mean either of UHF Band I and II and the VHF High Band;
+- “hub” means a single fixed site connected to more than one fixed station via wireless telegraphy links operating in the same frequency bands;
+- “large coverage area” means—
+  - (a) in relation to a Coastal Station Radio (International) licence an area within which wireless telegraphy is authorised under a licence condition permitting one or more of—
+    - (i) erp greater than or equal to 24 Watts where antenna height is greater than or equal to 10 metres above mean sea level;
+    - (ii) erp greater than or equal to 10 Watts where antenna height is greater than or equal to 20 metres above mean sea level;
+    - (iii) erp greater than or equal to 5 Watts where antenna height is greater than or equal to 30 metres above mean sea level;
+  - (b) in relation to a Coastal Station Radio (UK) licence an area within which wireless telegraphy is authorised under a licence condition permitting—
+    - (i) erp greater than 5 Watts where antenna height is greater than 10 metres above ground level; or
+    - (ii) erp less than or equal to 5 Watts where antenna height is greater than 30 metres above ground level; and
+  - (c) in relation to any other licence an area within which wireless telegraphy is authorised under a licence condition permitting one or more of—
+    - (i) erp greater than 5 Watts where antenna height is greater than 10 metres above ground level;
+    - (ii) erp less than or equal to 5 Watts where antenna height is greater than 30 metres above ground level;
+    - (iii) transmission within a circular area which has a radius greater than 15 kilometres but less than or equal to 30 kilometres;
+- “licence” means a wireless telegraphy licence;
+- “light congestion area” means such part of the British Islands being in an area listed in Schedule 8 and identified by reference to a grid square which is considered by OFCOM to have a lightly congested use of the electromagnetic spectrum for a specified class of licence;
+- “low population area” means such part of the British Islands being an area listed in Schedule 5 and identified by reference to a grid square which is considered by OFCOM to have a low proportion of the population;
+- “low usage bands” mean the band 133 kHz—147 kHz, the 26.225 MHz band, the 49.49375 MHz band, VHF Band I and the VHF Low Band;
+- “medium congestion area” means such part of the British Islands being in an area listed in Schedule 8 and identified by reference to a grid square which is considered by OFCOM to have a medium level of congested use of the electromagnetic spectrum for a specified class of licence;
+- “medium coverage area” means—
+  - (a) in relation to a Coastal Station Radio (International) licence an area within which wireless telegraphy is authorised under a licence condition permitting one or more of—
+    - (i) erp greater than 10 Watts where antenna height is less than 10 metres above mean sea level;
+    - (ii) erp greater than 7 Watts but less than 24 Watts where antenna height is greater than 5 metres above mean sea level but less than 20 metres above mean sea level;
+    - (iii) erp greater than 3 Watts but less than 10 Watts where antenna height is greater than 10 metres above mean sea level but less than 30 metres above mean sea level;
+    - (iv) erp greater than 1.5 Watts but less than 5 Watts where antenna height is greater than 20 metres above mean sea level;
+    - (v) erp less than 5 Watts where antenna height is greater than 30 metres above mean sea level;
+  - (b) in relation to a Coastal Station Radio (UK) licence an area within which wireless telegraphy is authorised under a licence condition permitting—
+    - (i) erp less than or equal to 5 Watts where antenna height is greater than 10 metres above ground level and less than or equal to 30 metres above ground level; or
+    - (ii) erp greater than 5 Watts where antenna height is less than or equal to 10 metres above ground level; and
+  - (c) in relation to any other licence an area within which wireless telegraphy is authorised under a licence condition permitting one or more of—
+    - (i) erp less than or equal to 5 Watts where antenna height is greater than 10 metres above ground level and less than or equal to 30 metres above ground level;
+    - (ii) erp greater than 5 Watts where antenna height is less than or equal to 10 metres above ground level;
+    - (iii) transmission within a circular area which has a radius greater than 3 kilometres but less than or equal to 15 kilometres;
+- “medium frequency” means that part of the electromagnetic spectrum between 531 kHz and 1602 kHz;
+- “medium population area” means such part of the British Islands being an area listed in Schedule 5 and identified by reference to a grid square which is considered by OFCOM to have a medium proportion of the population;
+- “medium usage bands” mean VHF Band III and the VHF Mid Band;
+- “medium wave broadcasting band” means that part of the electromagnetic spectrum between 526.5 kHz and 1606.5 kHz;
+- “mobile station” means a station (other than a base station) intended to be used while in motion or during halts at unspecified points;
+- “national channel” means a channel which the licensee is authorised to use throughout the United Kingdom;
+- “non-congestion area” means such part of the British Islands being in an area listed in Schedule 8 and identified by reference to a grid square which is considered by OFCOM not to have a congested use of the electromagnetic spectrum for a specified class of licence;
+- “OFCOM” means the Office of Communications;
+- “outer London area” means all of the area, other than the core London area, which is within a circle having a 112 kilometre radius from Charing Cross, London, which is located at grid square reference TQ 302 805;
+- “prescribed payment interval” has the meaning given by regulation 4(1);
+- “prescribed sum” means a fixed sum or a variable sum which is payable to OFCOM under regulation 4(1)(c) or (d);
+- “prescribed time” means the time when a sum is payable to OFCOM under regulation 4(1);
+- “shared basis” means authorised use of a channel which is shared with another licensee;
+- “slot” means the smallest unit of the electromagnetic spectrum used in the construction of a frequency plan, such that all bands, sub-bands, blocks and channels which are used in such plan are integer multiples of the slot size;
+- “small coverage area” means—
+  - (a) in relation to a Coastal Station Radio (International) licence an area within which wireless telegraphy is authorised under a licence condition permitting one or more of—
+    - (i) erp less than or equal to 10 Watts where antenna height is less than or equal to 5 metres above mean sea level;
+    - (ii) erp less than or equal to 7 Watts where antenna height is less than or equal to 10 metres above mean sea level;
+    - (iii) erp less than or equal to 3 Watts where antenna height is less than or equal to 20 metres above mean sea level;
+    - (iv) erp less than or equal to 1.5 Watts where antenna height is less than or equal to 30 metres above mean sea level;
+  - (b) in relation to a Coastal Station Radio (UK) licence an area within which wireless telegraphy is authorised under a licence condition permitting erp less than or equal to 5 Watts where antenna height is less than or equal to 10 metres above ground level; and
+  - (c) in relation to any other licence an area within which wireless telegraphy is authorised under a licence condition permitting one or more of—
+    - (i) erp less than or equal to 5 Watts where antenna height is less than or equal to 10 metres above ground level;
+    - (ii) transmission within a circular area which has a radius less than or equal to 3 kilometres;
+- “station” means a station for wireless telegraphy;
+- “UHF Band I and II” means that part of the electromagnetic spectrum between 410 MHz and 470 MHz;
+- “VHF Band I” means that part of the electromagnetic spectrum between 55.75 MHz and 68.0 MHz;
+- “VHF Band III” means that part of the electromagnetic spectrum between 177.20625 MHz and 207.49375 MHz;
+- “VHF broadcasting band” means that part of the electromagnetic spectrum between 87.5 MHz and 108.0 MHz;
+- “VHF High Band” means that part of the electromagnetic spectrum between 165.04375 MHz and 173.09375 MHz;
+- “VHF Low Band” means that part of the electromagnetic spectrum between 68.08125 MHz and 87.49375 MHz; and
+- “VHF Mid Band” means that part of the electromagnetic spectrum between 137.96250 MHz and 165.04375 MHz.
+
+(2) Where these Regulations provide for the prescribed sum to be calculated by reference to a number of any of the following things—
+
+- (a) base stations;
+- (b) channels;
+- (c) congestion areas;
+- (d) fixed links;
+- (e) grid squares;
+- (f) mobile stations;
+- (g) national channels;
+- (h) population;
+- (i) regional channels;
+- (j) slots;
+- (k) stations,
+
+the number shall be taken to be the number the use of which is authorised by the licence at the pre-scribed time.
+
+(3) In relation to a Transmission of National and Local Radio Broadcasting Services licence and a Community Radio licence, a reference to the licensee’s coverage is a reference to the total population covered by the transmitters which the licensee is authorised to use in the medium wave broadcasting band or the VHF broadcasting band (as the case may be) as specified in the licence granted to the licensee, and “covered” shall be construed accordingly.
+
+(4) In relation to a Coastal Station Radio (International) licence, a Coastal Station Radio (UK) licence, a Coastal Station Radio (International) Area Defined licence and a Coastal Station Radio (UK) Area Defined licence—
+
+- (a) “excluded channels” means—
+  - (i) channels 0 (156.000 MHz), 00 (160.600 MHz), 10 (156.500 MHz), 67 (156.375 MHz) and 73 (156.675 MHz) and the channel on 161.225 MHz, when used solely to assist Her Majesty’s Coastguard, and when used solely to assist the Secretary of State with oil pollution control activities; and
+  - (ii) channels 6 (156.300 MHz), 8 (156.400 MHz), 13 (156.650 MHz), 15 (156.750 MHz), 16 (156.800 MHz), 17 (156.850 MHz), 23 (157.150 and 161.750 MHz), 70 (156.525 MHz), 72 (156.625 MHz), 75 (156.775 MHz), 76 (156.825 MHz), 77 (156.875 MHz), 84 (157.225 and 161.825 MHz) and 86 (157.325 and 161.925 MHz); and
+- (b) a reference to an international maritime channel means a channel specified in the table in Appendix 18 to the 2020 edition of the Radio Regulations.
+
+(5) In relation to a Programme Making and Special Events Fixed Site licence, a Programme Making and Special Events Link licence, a Programme Making and Special Events Low Power licence, a UK Wireless Microphone (Annual) licence and a UK Wireless Microphone (Biennial) licence—
+
+- (a) “area” in relation to a channel specified in such a licence refers to an area with a population coverage below three million individuals;
+- (b) “designated website” means OFCOM’s website address (at www.ofcom.org.uk) or at such other website address as may be notified by OFCOM to persons who, in their opinion, are likely to be affected by any change of address by publishing such a notice on OFCOM’s website, www.ofcom.org.uk;
+- (c) “multi use type (1)” in relation to a channel specified in such a licence refers to a maximum of 60 periods with each such period not exceeding 48 hours;
+- (d) “multi use type (2)” in relation to a channel specified in such a licence refers to a maximum of 480 periods with each such period not exceeding 48 hours;
+- (e) “occasional use” in relation to a channel specified in such a licence refers to a period not exceeding 48 hours;
+- (f) “premium case” means a case where at the applicant’s request a licence is granted or varied outside office hours; and for the purposes of this definition “office hours” means 09.00 to 17.00 hours from Monday to Friday other than on a day which is a bank holiday in England and Wales;
+- (g) “primary” in relation to a channel specified in such a licence refers to use at any time;
+- (h) “programme making” includes the making of a programme for broadcast, the making of a film presentation, advertisement or audio or video tape, and the staging or performance of an entertainment, sporting or other public event;
+- (i) “programme sound link” in relation to a channel specified in such a licence refers to a channel used to transmit the material produced in programme making from a fixed transmission station to a fixed receiving station;
+- (j) “restricted service programme sound link” in relation to a channel specified in such a licence refers to a channel used to transmit the material produced in programme making from a fixed transmission station to a fixed receiving station where the transmission is for a period not exceeding thirty consecutive days;
+- (k) “secondary” in relation to a channel specified in such a licence refers to use when the channel or band is not being used by another licensee under a licence which authorises such use as a primary channel;
+- (l) “shared” in relation to a channel specified in such a licence refers to use at the same time as such a channel may be used by a licensee under another licence; and
+- (m) “variation” in relation to such a licence refers to the addition of a channel to the channel specified in such licence;
+
+and for the purpose of determining “population coverage” as referred to above, reference shall be made as appropriate to—
+
+- (i) the estimated mid-year resident population for England and Wales for 2000 as shown in the “Office for National Statistics Population Estimates Mid-2000 for England and Wales” published in August 2001;
+- (ii) the estimated mid-year resident population for Scotland for 2000 as shown in the “Mid-Year Population Estimates, Scotland” published in June 2001; and
+- (iii) the estimated mid-year resident population for Northern Ireland for 2000 as shown in the “Annual Report of the Registrar General for Northern Ireland” published in November 2001.
+
+(6) In relation to a Satellite (Earth Station Network) licence “network” means a one-way or two-way service from any number of earth station terminals to a single geo-stationary orbit satellite transponder transmitting in the earth to space direction.
+
+(7) In relation to an Aeronautical Station (Aerodrome Surface and Operational Control) licence, an Aeronautical Station (Aeronautical Broadcast) licence, an Aeronautical Station (Aircraft Communications Addressing and Reporting System) licence, an Aeronautical Station (Air/Ground, Aerodrome Flight Information Service and Tower) licence, an Aeronautical Station (Approach) licence, an Aeronautical Station (Area Control) licence, an Aeronautical Station (Offshore) licence and an Aeronautical Station (Very High Frequency Data Link) licence—
+
+- (a) “area service” means a two-way wireless telegraphy service between a ground station and an aircraft which is authorised under a licence within a designated operational coverage in which the horizontal plane is polygonal in shape;
+- (b) “aeronautical broadcast service” means a one-way wireless telegraphy service from a ground station which is authorised under a licence within a designated operational coverage in which the horizontal plane is circular in shape;
+- (c) “circular service” means a two-way wireless telegraphy service from a ground station and an aircraft which is authorised under a licence within a designated operational coverage in which the horizontal plane is circular in shape;
+- (d) “designated operational coverage” means a three-dimensional portion of airspace within which the provision of a wireless telegraphy service is authorised; and
+- (e) “excluded channels” means channels 121.5 MHz, 121.6 MHz and 123.1 MHz.
+
+## 3. Revocation[^key-f91bc4e81c47d71e5f7ded9674bd123f]
+
+The Regulations set out in Schedule 1 are hereby revoked.
+
+## 4. Licence charges and time of payment[^key-931b36d94c6c9552802a1e9063f6e3fd]
+
+(1) Subject to paragraphs (2) to (11) and to regulations 5 to 10[^key-91c96d21602c241a137da7008163386a], there shall be paid to OFCOM by the licensee—
+
+- (a) on the issue of the licence and on the variation of the licence where such variation is prescribed in Schedule 2; and
+- (b) on the last day of the period of twelve, twenty-four, thirty-six or (as the case may be) sixty months prescribed in Schedule 2, if any, in respect of the class of licence in question (the “prescribed payment interval”) and on the last day of each subsequent prescribed payment interval thereafter (the first prescribed payment interval having begun on the day of the issue of the licence) for which the licence continues in force,
+
+in relation to a licence of a class listed in Schedule 2—
+
+- (c) the fixed sum, if any, specified in; and
+- (d) the variable sum, if any, determined in accordance with the provisions of,
+
+that Schedule.
+
+(2) Paragraph (4) shall apply to a licence where—
+
+- (a) the licence is of any class other than:
+  - (i) those listed under the heading “Programme Making and Special Events” in Schedule 2;
+  - (ii) the Self Co-ordinated Links licence class (which is listed under the heading “Fixed Links” in Schedule 2); and
+  - (iii) the Demonstration and Trial licence class (which is listed under the heading “Science and Technology” in Schedule 2); and
+- (b) the sum otherwise payable for such licence is £75 or more per annum.
+
+(3) Paragraph (4) shall apply also to—
+
+- (a) a licence within the Point to Point Fixed Links licence class (which is listed under the heading “Fixed Links” in Schedule 2) where the sum otherwise payable for such licence is less than £75 per annum; and
+- (b) a licence within the Aircraft licence class (which is listed under the heading “Aeronautical” in Schedule 2) where the sum otherwise payable for such licence is £75 or more for a prescribed payment interval.
+
+(4) Where a licence to which this paragraph applies is issued for a period of less than the prescribed payment interval the sum payable shall, subject to paragraph (5), be such sum as represents a proportion of the prescribed sum corresponding to one month of the prescribed payment interval multiplied by the number of complete and part-complete months to the expiry of the licence.
+
+(5) The sum payable in accordance with paragraph (4) shall—
+
+- (a) where such sum represents a fraction of a whole pound sterling be rounded up to the nearest pound sterling;
+- (b) where the licence is of the Shared Access (Low Power) or Shared Access (Medium Power) licence class (listed under the heading “Spectrum Access” in Schedule 2), be subject to a minimum of £32; and
+- (c) otherwise be subject to a minimum of £20.
+
+(6) Paragraph (8) shall apply to a licensee where—
+
+- (a) a prescribed sum is payable by that licensee in respect of a licence under paragraph (1),[^key-489fddc9850d8db86956c1734acd96fd] regulation 6A(1), regulation 7(1), regulation 8(1), regulation 9(1) or regulation 10(1)[^key-fd2a4709fc87ea69e96a533636004bb3];
+- (b) the licence is of one of the following classes—
+  - (i) the classes listed under the heading “Broadcasting” in Schedule 2;
+  - (ii) the classes listed under the heading “Business Radio” in Schedule 2;
+  - (iii) the classes listed under the heading “Fixed Links” in Schedule 2;
+  - (iv) the classes listed under the heading “Public Wireless Networks” in Schedule 2;
+  - (v) the classes listed under the heading “Satellite Services” in Schedule 2;
+  - (vi) the classes Shared Access (Low Power) and Shared Access (Medium Power) listed under the heading “Spectrum Access” in Schedule 2; [^key-aeec31af9d7a418c8d0acf29308cf782]...
+  - (vii) the class “Spectrum Access 28 GHz” under regulation 6A(1) or regulation 7(1)[^key-d4420e6679b51b56f51b8ccfbc317d33]; [^key-b4a1eea9e59c08d00160e8aaac388af9]...
+  - (viii)[^key-ebd94ddf219d610bdf55c9478fb176bd] the class “Spectrum Access Licence 412 MHz Band” under regulation 8(1);
+  - (ix)[^key-a2cbdfbfb338551dde7eba11068c6d20] the class “Spectrum Access Licence 10 MHz Band” under regulation 9(1); or
+  - (x) the class “Spectrum Access Licence 32 MHz Band” under regulation 10(1).
+- (c) the licence is granted for a period of a year or longer; and
+- (d) the prescribed sum due for payment by the licensee is in excess of £100,000.
+
+(7) Paragraph (8) shall also apply to a licensee where—
+
+- (a) prescribed sums are payable by that licensee under paragraph (1) , regulation 6A(1), regulation 7(1), regulation 9(1) or regulation 10(1)[^key-8196cb3667dd5b8772d9b01b3cec7bf8] in respect of more than one licence where all of those licences are of the same class and that class is one of the classes listed in paragraph (6)(b);
+- (b) each of those prescribed sums is due for payment by the licensee at the same prescribed time in accordance with paragraph (1) , regulation 6A(1), regulation 7(1), regulation 9(1) or regulation 10(1)[^key-48d7e4a591b88c2bf23dbcab56b784dc];
+- (c) each of the prescribed sums is in respect of licences granted for a period of a year or longer; and
+- (d) the total of the prescribed sums due for payment by the licensee is in excess of £100,000.
+
+(8) If OFCOM receive notice from a licensee to which this paragraph applies of the licensee’s intention to make payment in ten equal instalments of a sum equal to the prescribed sum referred to in paragraph (6) or equal to the total of the prescribed sums referred to in paragraph (7)(d), the licensee—
+
+- (a) shall not be required to make payment at the prescribed time other than in accordance with this paragraph; and
+- (b) shall make payment of the sum in ten equal instalment payments with the first instalment to be paid to OFCOM on the day which shall be the same day as the prescribed time when the prescribed sum or the prescribed sums were to be paid to OFCOM and each subsequent instalment to be paid on the same day in each of the nine consecutive months thereafter (or in a month in which there is no such day, on the last day of the month).
+
+(9) Where at any time the licensee fails to make payment in accordance with paragraph (8), the total of the outstanding instalment payments shall become immediately due for payment.
+
+(10) No sums shall be payable to OFCOM in respect of the issue of a licence in order to effect a transfer of rights and obligations under a licence to another person under regulation 9(3) of the 2012 Regulations.
+
+(11) For any licence issued in order to effect a transfer under the 2012 Regulations, the prescribed payment interval shall be treated so as to commence and expire at the times when the corresponding prescribed payment interval would have commenced and expired under the licence from which the rights and obligations were transferred had the transfer not been made.
+
+## 5. Concessionary licence charges[^key-a128be40249e50faa0d3ae5d4fa7ecd5]
+
+(1) This regulation applies where a relevant licence is granted to an applicant, or held by a licensee, which—
+
+- (a) is a charity; and
+- (b) has as its object the safety of human life in an emergency.
+
+(2) The sum to be paid by a qualifying charity to OFCOM on the issue of a relevant licence, and on the last day of each of the prescribed payment intervals (if any), shall be one half of the prescribed sum. Where the sum so payable to OFCOM represents a fraction of a whole pound sterling, the sum payable by the qualifying charity shall be rounded up to the nearest whole pound sterling.
+
+(3) In this regulation—
+
+- “charity” means a person who—
+  - (a) being subject to the laws of England and Wales, or Scotland, or Northern Ireland, is a charity within the meaning of paragraph 1(1) of Schedule 6 to the Finance Act 2010;
+  - (b) being subject to the laws of the Isle of Man, is registered as a charity under the Charities Registration and Regulation Act 2019;
+  - (c) being subject to the laws of Guernsey, is a member for the time being of the Association of Guernsey Charities; or
+  - (d) being subject to the laws of Jersey, is registered as a charity under the Charities (Jersey) Law 2014;
+- “qualifying charity” is a body falling within paragraph (1); and
+- “relevant licence” means a licence of one of the following classes—
+  - (a) all of the classes listed under the heading “Aeronautical” in Schedule 2;
+  - (b) all of the classes listed under the heading “Business Radio” in Schedule 2; and
+  - (c) all of the classes listed under the heading “Maritime” in Schedule 2 apart from Ship Radio and Ship Portable Radio.
+
+## 6. Other licence charges[^key-2aa43120c83dfc340b3a0a9e4379785c]
+
+Where a sum is not prescribed by regulations made under section 12 of the Act whether on the issue of a licence or subsequently, there shall be paid to OFCOM such sum as OFCOM may in the particular case determine.
+
+## 6A. Licence Charges payable for the 28 GHz frequency band on 17th April 2023[^key-797908ea6060c961dd1cbfacb4296cad]
+
+(1) On 17th April 2023 each holder of a licence of the Spectrum Access 28 GHz licence class granted under the procedure set out in a notice made under the 2007 Regulations which authorises use of frequencies within the frequency bands 27.8285-28.4445 GHz and 28.8365-29.4525 GHz shall pay to OFCOM the sum specified in paragraph (2).
+
+(2) The sum which must be paid in accordance with paragraph (1) comprises—
+
+- (a) £199.40 for each 2 x 1 MHz channel which is authorised by the licence in Region A as described in Part 1 of the Schedule to the 2000 Regulations;
+- (b) £182.40 for each 2 x 1 MHz channel which is authorised by the licence in Region B as described in Part 1 of the Schedule to the 2000 Regulations;
+- (c) £185.00 for each 2 x 1 MHz channel which is authorised by the licence in Region C as described in Part 1 of the Schedule to the 2000 Regulations;
+- (d) £166.70 for each 2 x 1 MHz channel which is authorised by the licence in Region D as described in Part 1 of the Schedule to the 2000 Regulations;
+- (e) £210.80 for each 2 x 1 MHz channel which is authorised by the licence in Region E as described in Part 1 of the Schedule to the 2000 Regulations;
+- (f) £104.70 for each 2 x 1 MHz channel which is authorised by the licence in Region F as described in Part 1 of the Schedule to the 2000 Regulations;
+- (g) £162.00 for each 2 x 1 MHz channel which is authorised by the licence in Region G as described in Part 1 of the Schedule to the 2000 Regulations;
+- (h) £72.10 for each 2 x 1 MHz channel which is authorised by the licence in Region H as described in Part 1 of the Schedule to the 2000 Regulations;
+- (i) £303.40 for each 2 x 1 MHz channel which is authorised by the licence in Region I as described in Part 1 of the Schedule to the 2000 Regulations;
+- (j) £184.50 for each 2 x 1 MHz channel which is authorised by the licence in Region J as described in Part 1 of the Schedule to the 2000 Regulations;
+- (k) £120.60 for each 2 x 1 MHz channel which is authorised by the licence in Region K as described in Part 1 of the Schedule to the 2000 Regulations;
+- (l) £369.60 for each 2 x 1 MHz channel which is authorised by the licence in Region L as described in Part 1 of the Schedule to the 2000 Regulations;
+- (m) £156.00 for each 2 x 1 MHz channel which is authorised by the licence in Region M as described in Part 1 of the Schedule to the 2000 Regulations;
+- (n) £55.80 for each 2 x 1 MHz channel which is authorised by the licence in Region N as described in Part 1 of the Schedule to the 2000 Regulations; and
+- (o) the amount in pounds sterling calculated in accordance with paragraphs (3) and (4), for each 2 x 1 MHz channel which is authorised by the licence in an area identified in the licence and comprising part of a Geographic Region.
+
+(3) The formula to calculate the amount mentioned in paragraph (2)(o) is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2020/1068)
+
+Where—
+
+- “**S**” means the amount;
+- “**R**” means the sum specified in paragraph (2) for a 2 x 1 MHz channel in the Geographic Region in which the relevant area identified in the licence is located;
+- “**LA**” means the total size of the relevant area identified in the licence and comprising part of a Geographic Region; and
+- “**RA**” means the total size specified in Regulation 7(4) of the Geographic Region in which the relevant area identified in the licence is located.
+
+(4) If the amount calculated in accordance with paragraph (3) is a fraction of a whole number, it shall be rounded to the nearest whole penny.
+
+## 7. Licence charges payable for the 28GHz frequency band for each subsequent payment[^key-80812e2567466d7ee89c82b4b727275e]
+
+(1) On 5th January 2024 and on each anniversary of that date, each holder of a licence of the Spectrum Access 28 GHz licence class granted under the procedure set out in a notice made under the 2000 Regulations or the 2007 Regulations which authorises use of frequencies within the frequency bands 27.8285–28.4445 GHz and 28.8365–29.4525 GHz shall pay to OFCOM the sum specified in paragraph (2).
+
+(2) The sum which must be paid in accordance with paragraph (1) comprises—
+
+- (a) £276.70 for each 2 x 1 MHz channel which is authorised by the licence in Region A as described in Part 1 of the Schedule to the 2000 Regulations;
+- (b) £253.20 for each 2 x 1 MHz channel which is authorised by the licence in Region B as described in Part 1 of the Schedule to the 2000 Regulations;
+- (c) £256.70 for each 2 x 1 MHz channel which is authorised by the licence in Region C as described in Part 1 of the Schedule to the 2000 Regulations;
+- (d) £231.40 for each 2 x 1 MHz channel which is authorised by the licence in Region D as described in Part 1 of the Schedule to the 2000 Regulations;
+- (e) £292.60 for each 2 x 1 MHz channel which is authorised by the licence in Region E as described in Part 1 of the Schedule to the 2000 Regulations;
+- (f) £145.30 for each 2 x 1 MHz channel which is authorised by the licence in Region F as described in Part 1 of the Schedule to the 2000 Regulations;
+- (g) £224.80 for each 2 x 1 MHz channel which is authorised by the licence in Region G as described in Part 1 of the Schedule to the 2000 Regulations;
+- (h) £100.00 for each 2 x 1 MHz channel which is authorised by the licence in Region H as described in Part 1 of the Schedule to the 2000 Regulations;
+- (i) £421.00 for each 2 x 1 MHz channel which is authorised by the licence in Region I as described in Part 1 of the Schedule to the 2000 Regulations;
+- (j) £256.00 for each 2 x 1 MHz channel which is authorised by the licence in Region J as described in Part 1 of the Schedule to the 2000 Regulations;
+- (k) £167.40 for each 2 x 1 MHz channel which is authorised by the licence in Region K as described in Part 1 of the Schedule to the 2000 Regulations;
+- (l) £513.00 for each 2 x 1 MHz channel which is authorised by the licence in Region L as described in Part 1 of the Schedule to the 2000 Regulations;
+- (m) £216.50 for each 2 x 1 MHz channel which is authorised by the licence in Region M as described in Part 1 of the Schedule to the 2000 Regulations;
+- (n) £77.50 for each 2 x 1 MHz channel which is authorised by the licence in Region N as described in Part 1 of the Schedule to the 2000 Regulations; and
+- (o) the amount in pounds sterling calculated in accordance with paragraphs (3) to (5), for each 2 x 1 MHz channel which is authorised by the licence in an area identified in the licence and comprising part of a Geographic Region.
+
+(3) The formula to calculate the amount mentioned in paragraph (2)(o) is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2020/1068)
+
+Where—
+
+- “**S**” means the amount;
+- “**R**” means the sum specified in paragraph (2) for a 2 x 1 MHz channel in the Geographic Region in which the relevant area identified in the licence is located;
+- “**LA**” means the total size of the relevant area identified in the licence and comprising part of a Geographic Region; and
+- “**RA**” means the total size specified in paragraph (4) of the Geographic Region in which the relevant area identified in the licence is located.
+
+(4) The total size of the Geographic Regions in accordance with paragraph (3) is—
+
+- (i) 1,595 square kilometres for Region A
+- (ii) 4,477 square kilometres for Region B;
+- (iii) 13,014 square kilometres for Region C;
+- (iv) 8,172 square kilometres for Region D;
+- (v) 7,465 square kilometres for Region E;
+- (vi) 16,353 square kilometres for Region F;
+- (vii) 13,452 square kilometres for Region G;
+- (viii) 9,414 square kilometres for Region H;
+- (ix) 15,884 square kilometres for Region I;
+- (x) 15,828 square kilometres for Region J;
+- (xi) 24,354 square kilometres for Region K;
+- (xii) 80,257 square kilometres for Region L;
+- (xiii) 21,233 square kilometres for Region M; and
+- (xix) 14,146 square kilometres for Region N.
+
+(5) If the amount calculated in accordance with paragraph (3) is a fraction of a whole number, it shall be rounded to the nearest whole penny.
+
+## 8. Licence charges payable for the 412 MHz frequency band[^key-3dc23e2c699f74032d7f85f2a6a80bd4]
+
+(1) On 31st October 2021 and on each anniversary of that date, each holder of a licence of the Spectrum Access Licence 412 MHz Band licence class shall pay to OFCOM the total sum specified in paragraph (2).
+
+(2) The total sum to be paid is £396,000 for each authorisation under the licence of the use of a 1 MHz national channel within the frequency bands 412.0 – 414.0 MHz and 422.0 to 424.0 MHz.
+
+## 9. Licence charges payable for the 10 GHz frequency band[^key-94d8d1085a4a872a885efa1559f0ffff]
+
+(1) On 17th April 2023 and on each anniversary of that date, each holder of a licence of the Spectrum Access 10 GHz licence class which authorises use of frequencies within the frequency bands 10.125-10.225 GHz and 10.475-10.575 GHz shall pay to OFCOM the sum specified in paragraph (2).
+
+(2) The sum is £5,676 for each authorisation under the licence of the use of a 2 x 1 MHz national channel.
+
+## 10. Licence charges payable for the 32 GHz frequency band
+
+(1) On 17th April 2023 and on each anniversary of that date, each holder of a licence of the Spectrum Access 32 GHz licence class which authorises use of frequencies within the frequency bands 31.815-32.571 GHz and 32.627-33.383 GHz shall pay to OFCOM the sum specified in paragraph (2).
+
+(2) The sum is £3,432 for each authorisation under the licence of the use of a 2 x 1 MHz national channel.
+
+Philip Marnick
+
+Group Director, Spectrum Group
+
+For and by the authority of the Office of Communications
+
+## SCHEDULE 1 — REVOCATIONS[^key-f7c22e34d1068aa1e8b4fba136faa75e]
+
+Regulation 3
+
+| *(1)*<br>*Regulations Revoked* | *(2)*<br>*References* |
+| --- | --- |
+| The Wireless Telegraphy (Licence Charges) Regulations 2011 | [S.I. 2011/1128](https://www.legislation.gov.uk/uksi/2011/1128) |
+| The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2012 | [S.I. 2012/1075](https://www.legislation.gov.uk/uksi/2012/1075) |
+| The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2013 | [S.I. 2013/917](https://www.legislation.gov.uk/uksi/2013/917) |
+| The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2014 | [S.I. 2014/1295](https://www.legislation.gov.uk/uksi/2014/1295) |
+| The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2015 | [S.I. 2015/1334](https://www.legislation.gov.uk/uksi/2015/1334) |
+| The Wireless Telegraphy (Licence Charges) (Amendment) (No 2) Regulations 2015 | [S.I. 2015/1995](https://www.legislation.gov.uk/uksi/2015/1995) |
+| The Wireless Telegraphy (Licence Charges)<br>(Amendment) Regulations 2016 | [S.I. 2016/643](https://www.legislation.gov.uk/uksi/2016/643) |
+
+## SCHEDULE 2 — LICENCE CHARGES AND PAYMENT INTERVALS[^key-b793a262b8ec772f5171fd68769c0f23]
+
+Regulation 4
+
+<table>
+<thead>
+<tr><th colspan="4">The sum payable on the issue of the licence and on the expiry of each prescribed payment interval</th></tr>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th><th>Column 4</th></tr>
+<tr><th>Class of licence</th><th>Fixed sums</th><th>Variable sums</th><th>Prescribed payment interval</th></tr>
+</thead>
+<tbody>
+<tr><th colspan="4">Aeronautical</th></tr>
+<tr><td>Aeronautical Ground Station (Air Traffic/ Ground Movement Control)</td><td>£150</td><td></td><td>12 months</td></tr>
+<tr><td>Aeronautical Ground Station (Air/Ground Communications Services)</td><td>£100</td><td></td><td>12 months</td></tr>
+<tr><td>Aeronautical Ground Station (Airfield Flight Information Service)</td><td>£100</td><td></td><td>12 months</td></tr>
+<tr><td>Aeronautical Ground Station (Operations Control)</td><td>£250</td><td></td><td>12 months</td></tr>
+<tr><td>Aeronautical Ground Station (General Aviation)</td><td>£25</td><td></td><td>12 months</td></tr>
+<tr><td>Aeronautical Ground Station (High Frequency)</td><td>£350</td><td></td><td>12 months</td></tr>
+<tr><td>Aeronautical Ground Station (Offshore Platform)</td><td>£250</td><td></td><td>12 months</td></tr>
+<tr><td>Aeronautical Station (Aerodrome Surface and Operational Control)</td><td></td><td>£116.67 for each authorisation under a licence of use of a 8.33 kHz channel for a base station, provided that excluded channels shall not be taken into account.</td><td>12 months</td></tr>
+<tr><td>Aeronautical Station (Aeronautical Broadcast)</td><td></td><td>(a) For each authorisation under a licence of use of a 8.33 kHz channel for a base station, the appropriate sum payable is that determined in accordance with Part 2 of Schedule 15, provided that—<br>(i) excluded channels shall not be taken into account;<br>(ii) where the appropriate sum is not a multiple of 50, the sum payable is the amount in pounds sterling equal to the nearest lower multiple of 50 and the sum is subject to the maximum and the minimum fees set out in paragraphs (a)(iii) and (a)(iv);<br>(iii) where the appropriate sum arising from paragraph (a)(ii) exceeds £3300, the sum payable is £3300; and<br>(iv) where the appropriate sum arising from paragraph (a)(ii) is less than £75, the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) For each authorisation under a licence of use of a 25 kHz channel for a base station, the appropriate sum payable is three times that determined in accordance with Part 2 of Schedule 15, provided that—<br>(i) excluded channels shall not be taken into account;<br>(ii) where the appropriate sum is not a multiple of 50, the sum payable is the amount in pounds sterling equal to the nearest lower multiple of 50 and the sum is subject to the maximum and the minimum fees set out in paragraphs (b)(iii) and (b)(iv);<br>(iii) where the appropriate sum arising from paragraph (b)(ii) exceeds £9900, the sum payable is £9900; and<br>(iv) where the appropriate sum arising from paragraph (b)(ii) is less than £75, the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td>Aeronautical Station (Aircraft Communications Addressing and Reporting System)</td><td></td><td>(a) For each authorisation under a licence of use of a 8.33 kHz channel for a base station, the appropriate sum payable is that determined in accordance with Part 1 of Schedule 15, provided that—<br>(i) excluded channels shall not be taken into account;<br>(ii) where the appropriate sum is not a multiple of 50, the sum payable is the amount in pounds sterling equal to the nearest lower multiple of 50 and the sum is subject to the maximum and the minimum fees set out in paragraphs (a)(iii) and (a)(iv);<br>(iii) where the appropriate sum arising from paragraph (a)(ii) exceeds £3300, the sum payable is £3300; and<br>(iv) where the appropriate sum arising from paragraph (a)(ii) is less than £75, the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) For each authorisation under a licence of use of a 25 kHz channel for a base station, the appropriate sum payable is three times that determined in accordance with Part 1 of Schedule 15, provided that—<br>(i) excluded channels shall not be taken into account;<br>(ii) where the appropriate sum is not a multiple of 50, the sum payable is the amount in pounds sterling equal to the nearest lower multiple of 50 and the sum is subject to the maximum and the minimum fees set out in paragraphs (b)(iii) and (b)(iv);<br>(iii) where the appropriate sum arising from paragraph (b)(ii) exceeds £9900, the sum payable is £9900; and<br>(iv) where the appropriate sum arising from paragraph (b)(ii) is less than £75, the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td>Aeronautical Station (Air/Ground, Aerodrome Flight Information Service and Tower)</td><td></td><td>(a) For each authorisation under a licence of use of a 8.33 kHz channel for a base station, the appropriate sum payable is that determined in accordance with Part 1 of Schedule 15, where the licence is for an area service, or that determined in accordance with Part 3 of Schedule 15, where the licence is for a circular service, provided that—<br>(i) excluded channels shall not be taken into account;<br>(ii) where the appropriate sum is not a multiple of 50, the sum payable is the amount in pounds sterling equal to the nearest lower multiple of 50 and the sum is subject to the maximum and the minimum fees set out in paragraphs (a)(iii) and (a)(iv);<br>(iii) where the appropriate sum arising from paragraph (a)(ii) exceeds £3300, the sum payable is £3300; and<br>(iv) where the appropriate sum arising from paragraph (a)(ii) is less than £75, the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) For each authorisation under a licence of use of a 25 kHz channel for a base station, the appropriate sum payable is three times that determined in accordance with Part 1 of Schedule 15, where the licence is for an area service, or three times that determined in accordance with Part 3 of Schedule 15, where the licence is for a circular service, provided that—<br>(i) excluded channels shall not be taken into account;<br>(ii) where the appropriate sum is not a multiple of 50, the sum payable is the amount in pounds sterling equal to the nearest lower multiple of 50 and the sum is subject to the maximum and the minimum fees set out in paragraphs (b)(iii) and (b)(iv);<br>(iii) where the appropriate sum arising from paragraph (b)(ii) exceeds £9900, the sum payable is £9900; and<br>(iv) where the appropriate sum arising from paragraph (b)(ii) is less than £75, the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td>Aeronautical Station (Approach)</td><td></td><td>(a) For each authorisation under a licence of use of a 8.33 kHz channel for a base station, the appropriate sum payable is that determined in accordance with Part 1 of Schedule 15, where the licence is for an area service, or that determined in accordance with Part 3 of Schedule 15, where the licence is for a circular service, provided that—<br>(i) excluded channels shall not be taken into account;<br>(ii) where the appropriate sum is not a multiple of 50, the sum payable is the amount in pounds sterling equal to the nearest lower multiple of 50 and the sum is subject to the maximum and the minimum fees set out in paragraphs (a)(iii) and (a)(iv);<br>(iii) where the appropriate sum arising from paragraph (a)(ii) exceeds £3300, the sum payable is £3300; and<br>(iv) where the appropriate sum arising from paragraph (a)(ii) is less than £75, the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) For each authorisation under a licence of use of a 25 kHz channel for a base station, the appropriate sum payable is three times that determined in accordance with Part 1 of Schedule 15, where the licence is for an area service, or three times that determined in accordance with Part 3 of Schedule 15, where the licence is for a circular service, provided that—<br>(i) excluded channels shall not be taken into account;<br>(ii) where the appropriate sum is not a multiple of 50, the sum payable is the amount in pounds sterling equal to the nearest lower multiple of 50 and the sum is subject to the maximum and the minimum fees set out in paragraphs (b)(iii) and (b)(iv);<br>(iii) where the appropriate sum arising from paragraph (b)(ii) exceeds £9900, the sum payable is £9900; and<br>(iv) where the appropriate sum arising from paragraph (b)(ii) is less than £75, the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td>Aeronautical Station (Area Control)</td><td></td><td>(a) For each authorisation under a licence of use of a 8.33 kHz channel for a base station, the appropriate sum payable is that determined in accordance with Part 1 of Schedule 15, where the licence is for an area service, or that determined in accordance with Part 3 of Schedule 15, where the licence is for a circular service, provided that—<br>(i) excluded channels shall not be taken into account;<br>(ii) where the appropriate sum is not a multiple of 50, the sum payable is the amount in pounds sterling equal to the nearest lower multiple of 50 and the sum is subject to the maximum and the minimum fees set out in paragraphs (a)(iii) and (a)(iv);<br>(iii) where the appropriate sum arising from paragraph (a)(ii) exceeds £3300, the sum payable is £3300; and<br>(iv) where the appropriate sum arising from paragraph (a)(ii) is less than £75, the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) For each authorisation under a licence of use of a 25 kHz channel for a base station, the appropriate sum payable is three times that determined in accordance with Part 1 of Schedule 15, where the licence is for an area service, or three times that determined in accordance with Part 3 of Schedule 15, where the licence is for a circular service, provided that—<br>(i) excluded channels shall not be taken into account;<br>(ii) where the appropriate sum is not a multiple of 50, the sum payable is the amount in pounds sterling equal to the nearest lower multiple of 50 and the sum is subject to the maximum and the minimum fees set out in paragraphs (b)(iii) and (b)(iv);<br>(iii) where the appropriate sum arising from paragraph (b)(ii) exceeds £9900, the sum payable is £9900; and<br>(iv) where the appropriate sum arising from paragraph (b)(ii) is less than £75, the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td>Aeronautical Station (High Frequency)</td><td>£350</td><td></td><td>12 months</td></tr>
+<tr><td>Aeronautical Station (Offshore)</td><td></td><td>(a) Where the licence does not authorise the use of one or more associated mobile stations, the appropriate sum payable is £116.67 for each authorisation under a licence of use of a 8.33 kHz channel for a base station, provided that excluded channels shall not be taken into account.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) Where the licence authorises the use of one or more associated mobile stations, the appropriate sum payable is the total of £75 plus £116.67 for each use of a 8.33 kHz channel, provided that excluded channels shall not be taken into account.</td><td>12 months</td></tr>
+<tr><td>Aeronautical Station (Recreational Aviation)</td><td>£75</td><td></td><td>12 months</td></tr>
+<tr><td>Aeronautical Station (Very High Frequency Data Link)</td><td></td><td>(a) For each authorisation under a licence of use of a 25 kHz channel for a base station, the appropriate sum payable is three times that determined in accordance with Part 1 of Schedule 15, provided that—<br>(i) excluded channels shall not be taken into account;<br>(ii) where the appropriate sum is not a multiple of 50, the sum payable is the amount in pounds sterling equal to the nearest lower multiple of 50 and the sum is subject to the maximum and the minimum fees set out in paragraphs (a)(iii) and (a)(iv);<br>(iii) where the appropriate sum arising from paragraph (a)(ii) exceeds £9900, the sum payable is £9900; and<br>(iv) where the appropriate sum arising from paragraph (a)(ii) is less than £75, the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) For each authorisation under a licence of use of a 50 kHz channel for a base station, the appropriate sum payable is six times that determined in accordance with Part 1 of Schedule 15, provided that—<br>(i) excluded channels shall not be taken into account;<br>(ii) where the appropriate sum is not a multiple of 50, the sum payable is the amount in pounds sterling equal to the nearest lower multiple of 50 and the sum is subject to the maximum and the minimum fees set out in paragraphs (b)(iii) and (b)(iv);<br>(iii) where the appropriate sum arising from paragraph (b)(ii) exceeds £19800, the sum payable is £19800; and<br>(iv) where the appropriate sum arising from paragraph (b)(ii) is less than £75, the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td>Aeronautical Radar</td><td>£50</td><td></td><td>12 months</td></tr>
+<tr><td>Aeronautical Navigation Aid Stations</td><td></td><td>£50 for each navigational aid station.</td><td>12 months</td></tr>
+<tr><td>Aircraft</td><td></td><td>(a) £20 for each aircraft which has an approved maximum take-off weight of not more than 3,200 kg.</td><td>36 months</td></tr>
+<tr><td></td><td></td><td>(b) £150 for each aircraft which has an approved maximum take-off weight of more than 3,200 kg but not more than 14,000 kg.</td><td>36 months</td></tr>
+<tr><td></td><td></td><td>(c) £350 for each aircraft which has an approved maximum take-off weight of more than 14,000 kg.</td><td>36 months</td></tr>
+<tr><td>Aircraft (Transportable)</td><td>£15</td><td></td><td>36 months</td></tr>
+<tr><td>Unmanned Aircraft Systems (UAS) Operator Radio Licence</td><td>£75</td><td></td><td>12 months</td></tr>
+<tr><th colspan="4">Amateur Band</th></tr>
+<tr><td>Amateur Radio</td><td></td><td>£20 for each licence that is not applied for electronically; no charge for persons aged 75 years or over.</td><td></td></tr>
+<tr><th colspan="4">Broadcasting</th></tr>
+<tr><td>Restricted Service</td><td></td><td>(a) £40 per day where the erp does not exceed 2 Watts; and<br>(b) where the appropriate sum arising from paragraph (a) exceeds £200, the sum payable is £200.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(c) £40 per day where the erp exceeds 2 Watts; and<br>(d) where the appropriate sum arising from paragraph (c) exceeds £1,200, the sum payable is £1,200.</td><td>12 months</td></tr>
+<tr><td>Transmission of National and Local Radio Broadcasting Services</td><td></td><td>(a) For any number of transmitters in the medium wave broadcasting band—<br>(i) £226, where coverage is of fewer than 100,000 people;<br>(ii) £339 per complete 100,000 people covered, any final group of fewer than 100,000 people being disregarded, where coverage is of 100,000 people or more.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) For any number of transmitters in the VHF broadcasting band—<br>(i) £339, where coverage is of fewer than 100,000 people;<br>(ii) £509 per complete 100,000 people covered, any final group of fewer than 100,000 people being disregarded, where coverage is of 100,000 people or more.</td><td>12 months</td></tr>
+<tr><td>National DTT Multiplexes</td><td>£188,000</td><td></td><td>12 months</td></tr>
+<tr><td>Local TV DTT Multiplex</td><td>£23,900</td><td></td><td>12 months</td></tr>
+<tr><td>Northern Ireland DTT Multiplex</td><td>£3360</td><td></td><td>12 months</td></tr>
+<tr><td>Community Radio</td><td>£250</td><td></td><td>12 months</td></tr>
+<tr><td>Self-help TV</td><td></td><td>£75 for each digital Self-help relay.</td><td>60 months</td></tr>
+<tr><th colspan="4">Business Radio</th></tr>
+<tr><td>Business Radio (GSM-R Railway use)</td><td></td><td>£158,400 for each 2 x 200 kHz channel.</td><td>12 months</td></tr>
+<tr><td>Business Radio (Simple UK)</td><td>£75</td><td></td><td>60 months</td></tr>
+<tr><td>Business Radio (Suppliers Light)</td><td>£75</td><td></td><td>60 months</td></tr>
+<tr><td>Business Radio (Simple Site)</td><td>£75</td><td></td><td>60 months</td></tr>
+<tr><td>Business Radio (Area Defined)</td><td></td><td>For each authorisation under a licence of use of a 6.25 kHz channel for one of the areas set out in Column 1 of Schedule 6 in a high usage band, medium usage band or low usage band, the appropriate sum payable for that area and for that band which is indicated in Column 2, 3, 4, or 5 of Schedule 6, provided that where the total sum payable in respect of a licence is less than £75 then the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td>Business Radio (Technically Assigned)</td><td></td><td>(a) Subject to paragraph (b), for each authorisation under a licence of use of a 6.25 kHz channel in a high usage band, medium usage band or low usage band the appropriate sum payable is that determined in accordance with Parts 1 to 3 of Schedule 7, provided that where the total sum payable in respect of a licence is less than £75 then the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) For each authorisation under a licence of use of a 6.25 kHz channel for only 250 milliseconds in each two seconds or for only 500 milliseconds in each four seconds for each base station in a high usage band, medium usage band or low usage band the appropriate sum payable is one eighth of the sum determined in accordance with Parts 1 to 3 of Schedule 7, provided that where the total sum payable in respect of a licence is less than £75 then the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td>Public Safety Radio<br>(380-385 MHz paired with 390-395 MHz)</td><td></td><td>(a) £15,578 for each channel for the area of Great Britain excluding the core London area and the outer London area.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) £3,647 for each channel in the outer London area.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(c) £107 for each channel in the core London area.</td><td>12 months</td></tr>
+<tr><td>Public Safety Radio (Jersey)</td><td>£610</td><td></td><td>12 months</td></tr>
+<tr><td>Public Safety Radio (Guernsey)</td><td>£378</td><td></td><td>12 months</td></tr>
+<tr><td>Public Safety Radio (Isle of Man)</td><td>£1372</td><td></td><td>12 months</td></tr>
+<tr><th colspan="4">Fixed Links</th></tr>
+<tr><td>Point to Point Security CCTV Services</td><td></td><td>(a) £720 for each hub with a bandwidth less than or equal to 56 MHz.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) £885 for each hub with a bandwidth greater than 56 MHz but less than, or equal to, 140 MHz.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(c) £1,030 for each hub with a bandwidth greater than 140 MHz but less than, or equal to, 250 MHz.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(d) £1,155 for each hub with a bandwidth greater than 250 MHz but less than, or equal to, 308 MHz.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(e) Where a hub listed in paragraphs (a) to (d) is added after the issue of the licence, such sum as represents one-twelfth of the prescribed sum on the issue of the licence, multiplied by the number of complete calendar months beginning with the date of the addition of the hub to the next anniversary of the issue of the licence.</td><td></td></tr>
+<tr><td>Point to Point Fixed Links (exclusive of 71.125—73.125 GHz and 81.125—83.125 GHz</td><td></td><td>(a) Subject to paragraphs (b) and (d), for each co-ordinated two-way fixed link, the appropriate sum calculated in accordance with the formula set out in Part 1 of Schedule 3.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) For each co-ordinated two-way fixed link added after the issue of the licence and where the additional links are operating co-channel and cross-polar, 50 per cent of the prescribed sum specified in paragraph (a).</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(c) For each one-way fixed link, 75 per cent of the prescribed sum specified in paragraph (a).</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(d) Where a temporary co-ordinated two-way or one-way fixed link (other than an additional link referred to in paragraph (b)) is added after the issue of the licence, such sum as represents one-twelfth of the prescribed sum on the issue of the licence, multiplied by the number of complete calendar months beginning with the date of the addition of the link to the next anniversary of the issue of the licence.</td><td></td></tr>
+<tr><td>Point to Point Fixed Links (71.125-73.125 GHz and 81.125-83.125 GHz)</td><td></td><td>(a) £100 for each two-way channel pair with a bandwidth of less than 250 MHz.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) £225 for each 250 MHz of bandwidth within a two-way channel pair, where the two-way channel pair has a bandwidth of 250 MHz or more.</td><td>12 months</td></tr>
+<tr><td>Self Co-ordinated Links</td><td></td><td>£50 for each 71-76 GHz and 81-86 GHz fixed link.</td><td>12 months</td></tr>
+<tr><td>Scanning Telemetry</td><td></td><td>(a) £410 for each 2 x 12.5 kHz channel used at a base station hub which is not subject to national channel arrangements.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) £7,920 for each 2 x 12.5 kHz national channel.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(c) For each 1 x 12.5 kHz channel, 50 per cent of the prescribed sum specified in paragraphs (a) or (b) that would apply to a 2 x 12.5 kHz channel.</td><td>12 months</td></tr>
+<tr><th colspan="4">Fixed Wireless Access</th></tr>
+<tr><td>Fixed Wireless Access (3.5, 3.6, 10 GHz—Guernsey)</td><td>£5,000</td><td></td><td>60 months</td></tr>
+<tr><td>Fixed Wireless Access (3.5, 3.6, 10 GHz—Isle of Man)</td><td>£5,000</td><td></td><td>60 months</td></tr>
+<tr><td>Fixed Wireless Access (3.5, 3.6, 10 GHz—Jersey)</td><td>£5,000</td><td></td><td>60 months</td></tr>
+<tr><td>Spectrum Access (3.9 GHz)</td><td></td><td>(a) £8,436 for each 1 MHz national slot in the 3925.0 MHz to 4009.0 MHz band, where coordination is required with earth stations.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) £2,226 for each 1 MHz national slot in the 3925.0 MHz to 4009.0 MHz band, where coordination is required with earth stations and also with fixed links.</td><td>12 months</td></tr>
+<tr><td>Fixed Wireless Access (5.8 GHz)</td><td></td><td>£1 for each terminal, subject to a minimum fee of £50 for up to 49 terminals.</td><td>12 months</td></tr>
+<tr><td>Fixed Wireless Access (28 GHz Guernsey)</td><td></td><td>(a) £1,800 for each 2 x 112 MHz channel in the 28.0525–28.1645 GHz, paired with 29.0605–29.1725 GHz, bands.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) £1,800 for each 2 x 112 MHz channel in the 28.1925–28.3045 GHz, paired with 29.2005–29.3125 GHz, bands.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(c) £1,800 for each 2 x 112 MHz channel in the 28.3325–28.4445 GHz, paired with 29.3405–29.4525 GHz, bands.</td><td>12 months</td></tr>
+<tr><td>Fixed Wireless Access (28 GHz Isle of Man)</td><td></td><td>(a) £2,133 for each 2 x 112 MHz channel in the 28.0525–28.1645 GHz, paired with 29.0605–29.1725 GHz, bands.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) £2,133 for each 2 x 112 MHz channel in the 28.1925–28.3045 GHz, paired with 29.2005–29.3125 GHz, bands.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(c) £2,133 for each 2 x 112 MHz channel in the 28.3325–28.4445 GHz, paired with 29.3405–29.4525 GHz, bands.</td><td>12 months</td></tr>
+<tr><td>Fixed Wireless Access (28 GHz Jersey)</td><td></td><td>(a) £2,533 for each 2 x 112 MHz channel in the 28.0525–28.1645 GHz, paired with 29.0605–29.1725 GHz, bands.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) £2,533 for each 2 x 112 MHz channel in the 28.1925–28.3045 GHz, paired with 29.2005–29.3125 GHz, bands.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(c) £2,533 for each 2 x 112 MHz channel in the 28.3325–28.4445 GHz, paired with 29.3405–29.4525 GHz, bands.</td><td>12 months</td></tr>
+<tr><th colspan="4">Maritime</th></tr>
+<tr><td>Coastal Station Radio (Marina)</td><td></td><td>£75 for each base station and associated mobile stations for channels 80 (161.625 MHz), M (157.850 MHz) and M2 (161.425 MHz).</td><td>12 months</td></tr>
+<tr><td>Coastal Station Radio (International)</td><td></td><td>(a) For licences to use international maritime channels 9 (156.450 MHz), 11 (156.550 MHz), 12 (156.600 MHz), 14 (156.700 MHz), 68 (156.425 MHz), 69 (156.475 MHz), 71 (156.575 MHz) and 74 (156.725 MHz) for each authorisation under a licence of use of a 6.25 kHz channel for a base station in one of the areas in Column 1 of Schedule 9 for a small coverage area, a medium coverage area or a large coverage area, the appropriate sum payable for those areas which is indicated in Column 2, 3 or 4 of Schedule 9, provided that where the total sum payable in respect of a licence is less than £75 then the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) For licences to use international maritime channels 87 (157.375 MHz) and 88 (157.425 MHz) for each authorisation under a licence of use of a 6.25 kHz channel for a base station £18.75, provided that where the total sum payable in respect of a licence is less than £75 then the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(c) For a licence to use any other international maritime channels £75 for each 2 x 25 kHz channel, provided that excluded channels shall not be taken into account.</td><td>12 months</td></tr>
+<tr><td>Coastal Station Radio (International) Area Defined</td><td></td><td>(a) For licences to use international maritime channels 9 (156.450 MHz), 11 (156.550 MHz), 12 (156.600 MHz), 14 (156.700 MHz), 68 (156.425 MHz), 69 (156.475 MHz), 71 (156.575 MHz) and 74 (156.725 MHz) for each authorisation under a licence of use of a 6.25 kHz channel for one of the areas in Column 1 of Schedule 10 the appropriate sum payable for that area which is indicated in Column 2 of Schedule 10, provided that where the total sum payable in respect of a licence is less than £75 then the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) For licences to use international maritime channels 87 (157.375 MHz) and 88 (157.425 MHz) for each authorisation under a licence of use of a 6.25 kHz channel for an area of the size indicated in Column 1 of Schedule 11 the appropriate sum payable for that area which is indicated in Column 2 of Schedule 11, provided that where the total sum payable in respect of a licence is less than £75 then the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(c) For a licence to use any other international maritime channel for each authorisation under a licence of use of a 2 x 25 kHz channel for an area of the size indicated in Column 1 of Schedule 12 the appropriate sum pay-able for that area which is indicated in Column 2 of Schedule 12, provided that excluded channels shall not be taken into account and that where the total sum payable in respect of a licence is less than £75 then the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td>Coastal Station Radio (UK)</td><td></td><td>For each authorisation under a licence of use of a 6.25 kHz channel for a base station in one of the areas in Column 1 of Schedule 13 for a small coverage area, a medium coverage area or a large coverage area, the appropriate sum payable for those areas which is indicated in Column 2, 3 or 4 of Schedule 13, provided that excluded channels shall not be taken into account and that where the total sum payable in respect of a licence is less than £75 then the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td>Coastal Station Radio (UK) Area Defined</td><td></td><td>For each authorisation under a licence of use of a 6.25 kHz channel for one of the areas in Column 1 of Schedule 14 the appropriate sum payable for that area which is indicated in Column 2 of Schedule 14, provided that excluded channels shall not be taken into account and that where the total sum payable in respect of a licence is less than £75 then the sum payable is £75.</td><td>12 months</td></tr>
+<tr><td>Coastal Station Radio (Training School)</td><td>£20</td><td></td><td></td></tr>
+<tr><td>Differential Global Positioning System</td><td></td><td>£1,000 for each channel per medium frequency station.</td><td>12 months</td></tr>
+<tr><td>Maritime Navigational Aids and Radar</td><td></td><td>£40 for each frequency per navigational aid or radar station.</td><td></td></tr>
+<tr><td>Maritime Radio (Suppliers and Demonstration)</td><td>£75</td><td></td><td>60 months</td></tr>
+<tr><td>Ship Portable Radio</td><td></td><td>£20 for each licence that is not applied for electronically.</td><td></td></tr>
+<tr><td>Ship Radio</td><td></td><td>£20 for each licence that is not applied for electronically.</td><td></td></tr>
+<tr><th colspan="4">Programme Making and Special Events</th></tr>
+<tr><td>Programme Making and Special Events Fixed Site</td><td></td><td>(a) For the issue of a licence—<br>(i) £28 for each channel per site in respect of a single channel talk-back or a single channel radio microphone;<br>(ii) £168 for each channel per site in respect of a multi-channel talk-back, a multi-channel radio microphone or a wideband channel; plus—<br>(iii) in a premium case, £55.</td><td></td></tr>
+<tr><td></td><td></td><td>(b) For the variation of a licence—<br>(i) subject to paragraph (b)(ii), where a channel listed in paragraph (a)(i) or (ii) is added, such sum as represents one-twelfth of the sum payable for the issue of a licence for the type of channel to which the additional channel belongs, multiplied by the number of complete and part-complete calendar months beginning with the day of the addition of the channel to the next anniversary of the issue of the licence;<br>(ii) where the aggregate sum payable for a variation of a licence in this paragraph in any case other than a premium case would otherwise be less than £28, a charge of £28 only; plus—<br>(iii) in a premium case, £55.</td><td></td></tr>
+<tr><td>Programme Making and Special Events Link</td><td></td><td>(a) Subject to paragraph (a)(xlvi), for the issue of a licence—<br>(i) £2.75 for each channel of 12.5 kHz in the band 26–65 MHz for occasional use;<br>(ii) £8.50 for each channel of 12.5 kHz in the band 65–470 MHz for occasional use;<br>(iii) £2.75 for each channel of 12.5 kHz in the band 470—1,000 MHz for occasional use;<br>(iv) £17 for each channel (not being a telemetry or telecommand channel) of 0.5 MHz in the band 1–2 GHz for occasional use;<br>(v) £17 for each telemetry or telecommand channel of 5MHz in the band 1–2 GHz for occasional use;<br>(vi) £28 for each channel of 5 MHz in the band 2–5 GHz for occasional use;<br>(vii) £17 for each channel of 5 MHz in the band 5–8 GHz for occasional use;<br>(viii) £8.50 for each channel of 5 MHz above 8 GHz for occasional use;<br>(ix) £153 for each channel of 12.5 kHz in the band 26–65 MHz for multi use type (1) channels;<br>(x) £472 for each channel of 12.5 kHz in the band 65–470 MHz for multi use type (1) channels;<br>(xi) £153 for each channel of 12.5 kHz in the band 470—1,000 MHz for multi use type (1) channels;<br>(xii) £944 for each channel of 0.5 MHz in the band 1–2 GHz for multi use type (1) channels;<br>(xiii) £1,554 for each channel of 5 MHz in the band 2–5 GHz for multi use type (1) channels;<br>(xiv) £944 for each channel of 5 MHz in the band 5–8 GHz for multi use type (1) channels;<br>(xv) £472 for each channel of 5 MHz above 8 GHz for multi use type (1) channels;<br>(xvi) £990 for each channel of 12.5 kHz in the band 26–65 MHz for multi use type (2) channels;<br>(xvii) £3,060 for each channel of 12.5 kHz in the band 65–470 MHz for multi use type (2) channels;<br>(xviii) £990 for each channel of 12.5 kHz in the band 470—1,000 MHz for multi use type (2) channels;<br>(xix) £6,120 for each channel of 0.5 MHz in the band 1–2 GHz for multi use type (2) channels;<br>(xx) £10,080 for each channel of 5 MHz in the band 2–5 GHz for multi use type (2) channels;<br>(xxi) £6,120 for each channel of 5 MHz in the band 5–8 GHz for multi use type (2) channels;<br>(xxii) £3,060 for each channel of 5 MHz above 8 GHz for multi use type (2) channels;<br>(xxiii) £22 for each primary channel of 12.5 kHz in the band 26–65 MHz for each area;<br>(xxiv) £113 for each primary channel of 12.5 kHz in the band 65–470 MHz for each area;<br>(xxv) £22 for each primary channel of 12.5 kHz in the band 470—1,000 MHz for each area;<br>(xxvi) £130 for each primary channel of 0.5 MHz in the band 1–2 GHz for each area;<br>(xxvii) £225 for each primary channel of 5MHz in the band 2–5 GHz for each area;<br>(xxviii) £130 for each primary channel of 5MHz in the band 5–8 GHz for each area;<br>(xxix) £65 for each primary channel of 5 MHz above 8 GHz for each area;<br>(xxx) £11 for each secondary channel of 12.5 kHz in the band 26–65 MHz for each area;<br>(xxxi) £57 for each secondary channel of 12.5 kHz in the band 65–470 MHz for each area;<br>(xxxii) £11 for each secondary channel of 12.5 kHz in the band 470—1,000 MHz for each area;<br>(xxxiii) £65 for each channel of 0.5 MHz in the band 1–2 GHz for each area;<br>(xxxiv) £113 for each secondary channel of 5 MHz in the band 2–5 GHz for each area;<br>(xxxv) £65 for each secondary channel of 5 MHz in the band 5–8 GHz for each area;<br>(xxxvi) £33 for each secondary channel of 5 MHz above 8 GHz for each area;<br>(xxxvii) £52 for each channel of 12.5 kHz in the band 26–65 MHz for programme sound link use;<br>(xxxviii) £246 for each channel of 0.5 MHz in the band 1517–1525 MHz for programme sound link use;<br>(xxxix) £14 for each channel of 12.5 kHz in the band 26–65 MHz for restricted service programme sound link use;<br>(xl) £43 for each channel of 12.5 kHz in the band 65–470 MHz for restricted service programme sound link use;<br>(xli) £14 for each channel of 12.5 kHz in the band 470—1,000 MHz for restricted service programme sound link use;<br>(xlii) £120 for each channel of 0.5 MHz in the band 1517–1525 MHz for restricted service programme sound link use;<br>(xliii) £12 for each 10 MHz channel in the band 2–5 GHz for each licence for digital wireless camera use;<br>(xliv) £666 for each 10 MHz channel in the band 2–5 GHz for multi use type (1) channels for each licence for digital wireless camera use;<br>(xlv) £4,320 for each 10 MHz channel in the band 2–5 GHz for multi use type (2) channels for each licence for digital wireless camera use;<br>(xlvi) where the aggregate sum payable on the issue of a licence in this paragraph in any case other than a premium case would otherwise be less than £28, a charge of £28 only; plus—<br>(xlvii) in a premium case, £55.</td><td></td></tr>
+<tr><td></td><td></td><td>(b) For the variation of a licence—<br>(i) subject to paragraph (b)(ii), where a channel listed in paragraph (a)(xxiii) to (xxxviii) is added, such sum as represents one-twelfth of the sum payable for the issue of a licence for the type of channel to which the additional channel belongs, multiplied by the number of complete and part-complete calendar months beginning with the day of the addition of the channel to the next anniversary of the issue of the licence;<br>(ii) where the aggregate sum payable for a variation of a licence in this paragraph in any case other than a premium case would otherwise be less than £28, a charge of £28 only; plus—<br>(iii) in a premium case, £55.</td><td></td></tr>
+<tr><td>Programme Making and Special Events Audio Distribution Services</td><td></td><td>(a) £14 for each channel of 12.5 kHz in the band 26–65 MHz.</td><td></td></tr>
+<tr><td></td><td></td><td>(b) £43 for each channel of 12.5 kHz in the band 65–470 MHz.</td><td></td></tr>
+<tr><td></td><td></td><td>(c) £14 for each channel of 12.5 kHz in the band 470—1,000 MHz.</td><td></td></tr>
+<tr><td></td><td></td><td>(d) £120 for each channel of 0.5 MHz in the band 1517–1525 MHz.</td><td></td></tr>
+<tr><td>Programme Making and Special Events Low Power</td><td></td><td>(a) Subject to paragraph (a)(viii), for the issue of a licence—<br>(i) £8.50 for each occasional use channel for a single channel radio microphone;<br>(ii) £472 for each multi use type (1) channel for a single channel radio microphone;<br>(iii) £3,060 for each multi use type (2) channel for a single channel radio microphone;<br>(iv) £70 for each primary single radio microphone for each area;<br>(v) £27 for each secondary single radio microphone for each area;<br>(vi) £51 for each occasional use of a multi-channel radio microphone or a single wideband channel;<br>(vii) £2,831 for each multi use type (1) channel of a multi-channel radio microphone or a single wideband channel;<br>(viii) where the aggregate sum payable on the issue of a licence in this paragraph in any case other than a premium case would otherwise be less than £28, a charge of £28 only; plus—<br>(ix) in a premium case, £55.</td><td></td></tr>
+<tr><td></td><td></td><td>(b) For the variation of a licence—<br>(i) subject to paragraph (b)(ii), where a channel listed in paragraph (a)(iv) to (vii) is added, such sum as represents one-twelfth of the sum payable for the issue of a licence for the type of channel to which the additional channel belongs, multiplied by the number of complete and part-complete calendar months beginning with the day of the addition of the channel to the next anniversary of the issue of the licence;<br>(ii) where the aggregate sum payable for a variation of a licence in this paragraph in any case other than a premium case would otherwise be less than £28, a charge of £28 only; plus—<br>(iii) in a premium case, £55.</td><td></td></tr>
+<tr><td>UK Wireless Microphone (Annual)</td><td></td><td>(a) £75 for each shared multi-channel or wideband channel in the British Islands, where the licensee has applied for the licence using the online facilities for application and payment on the designated website.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) In any case other than that specified in paragraph (a), £85 for each shared multi-channel or wideband channel in the British Islands.</td><td>12 months</td></tr>
+<tr><td>UK Wireless Microphone (Biennial)</td><td></td><td>(a) £135 for each shared multi-channel or wideband channel in the British Islands, where the licensee has applied for the licence using the online facilities for application and payment on the designated website.</td><td>24 months</td></tr>
+<tr><td></td><td></td><td>(b) In any case other than that specified in paragraph (a), £155 for each shared multi-channel or wideband channel in the British Islands.</td><td>24 months</td></tr>
+<tr><th colspan="4">Public Wireless Networks</th></tr>
+<tr><td>Public Wireless Networks (Guernsey)</td><td></td><td>£80 for each 100 kHz channel or slot.</td><td>12 months</td></tr>
+<tr><td>Public Wireless Networks (Jersey)</td><td></td><td>£80 for each 100 kHz channel or slot.</td><td>12 months</td></tr>
+<tr><td>Public Wireless Networks (Isle of Man)</td><td></td><td>£80 for each 100 kHz channel or slot.</td><td>12 months</td></tr>
+<tr><th colspan="4">Satellite Services</th></tr>
+<tr><td>Global Navigation Satellite System (GNSS) Repeaters</td><td>£75</td><td></td><td></td></tr>
+<tr><td>Network 2 GHz</td><td></td><td>(a) For each base station per 2 x 1 MHz in the bands 1980—2010 MHz and 2170—2200 MHz, the appropriate sum payable is: £64,000 in a high population area; £8,025 in a medium population area; and £825 in a low population area.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) For each base station per 2 x 15 MHz in the bands 1980—2010 MHz and 2170—2200 MHz, the appropriate sum payable is: £960,000 in a high population area; £120,375 in a medium population area; and £12,375 in a low population area.</td><td>12 months</td></tr>
+<tr><td>Satellite (Earth Station Network)</td><td>£200</td><td>For each terminal requiring technical coordination by OFCOM £200.</td><td>12 months</td></tr>
+<tr><td>Satellite (Earth Station—Non-Fixed Satellite Service)</td><td>£500</td><td></td><td>12 months</td></tr>
+<tr><td>Satellite (Earth Station—Non-Geostationary)</td><td>£500</td><td></td><td>12 months</td></tr>
+<tr><td>Satellite (Permanent Earth Station)</td><td></td><td>For each site (the area contained within a circle of a radius of 500 metres centred on a point defined by the licensee), the appropriate sum calculated in accordance with the formula set out in Part 1 of Schedule 4.</td><td>12 months</td></tr>
+<tr><td>Satellite (Transportable Earth Station)</td><td></td><td>For each earth station operating in one of the bands specified in columns 2, 3 or 4 of the table in Part 3 to Schedule 4, the appropriate sum payable in accordance with that Part of that Schedule as determined by the power and bandwidth of the earth station.</td><td>12 months</td></tr>
+<tr><td>Satellite (Complementary Ground Components of a Mobile Satellite System)</td><td></td><td>£554,400 for each 2 x 1 MHz national channel in the bands 1980—2010 MHz and 2170—2200 MHz.</td><td>12 months</td></tr>
+<tr><th colspan="4">Science and Technology</th></tr>
+<tr><td>Demonstration and Trial</td><td></td><td>£50 per location each month.</td><td></td></tr>
+<tr><td>Innovation and Research</td><td></td><td>£50 for each station or apparatus per location.</td><td>12 months</td></tr>
+<tr><td>Miscellaneous (a) for up to 12 months</td><td>£20</td><td></td><td></td></tr>
+<tr><td>Miscellaneous (b) for 12 to 60 months</td><td>£50</td><td></td><td></td></tr>
+<tr><td>Ground Probing Radar</td><td>£50</td><td></td><td>36 months</td></tr>
+<tr><td>. . .</td><td>. . .</td><td></td><td>. . .</td></tr>
+<tr><td>Manually Configurable White Space Devices</td><td>£1500</td><td></td><td>12 months</td></tr>
+<tr><td>Enhanced Long Range Navigation (eLoran)</td><td>£200</td><td></td><td>12 months</td></tr>
+<tr><th colspan="4">Spectrum Access</th></tr>
+<tr><td>Spectrum Access (Extremely High Frequency)</td><td>£75</td><td></td><td>60 months</td></tr>
+<tr><td>Local Access</td><td>£950</td><td></td><td></td></tr>
+<tr><td>Shared Access (Low Power)</td><td></td><td>(a) £80 for each authorisation under a licence of use of a 2 x 3.3 MHz channel in the 1800 MHz band.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) £80 for each authorisation under a licence of use of a 10 MHz channel in the 2320-2340 MHz band or 2390-2400 MHz band.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(c) £80 for each 10 MHz channel under a licence of use in the 3.8-4.2 GHz band.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(d) £80 for each authorisation under a licence of use of a 100 MHz channel in the 24.45-27.5 GHz or 40.5-43.5 GHz bands.</td><td>12 months</td></tr>
+<tr><td>Shared Access (Medium Power Rural Areas)</td><td></td><td>(a) £80 for each authorisation under a licence of use of a 2 x 3.3 MHz channel in the 1800 MHz band.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) £80 for each authorisation under a licence of use of a 10 MHz channel in the 2320-2340 MHz band or 2390-2400 MHz band.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(c) £80 for each 10 MHz channel under a licence of use in the 3.8-4.2 GHz band.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(d) £80 for each authorisation under a licence of use of up to a 100 MHz channel in the 24.45-27.5 GHz or 40.5-43.5 GHz bands.</td><td></td></tr>
+<tr><td>Shared Access (Medium Power Urban Areas)</td><td></td><td>(a) £160 for each authorisation under a licence of use of a 2 x 3.3 MHz channel in the 1800 MHz band.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(b) £160 for each 10 MHz channel under a licence of use in the 2320-2340 MHz or 2390-2400 MHz bands.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(c) £160 for each 10 MHz channel under a licence of use in the 3.8-4.2 GHz band.</td><td>12 months</td></tr>
+<tr><td></td><td></td><td>(d) £80 for each authorisation under a licence of use of a 100 MHz channel in the 24.45-27.5 GHz or 40.5-43.5 GHz bands</td><td>12 months</td></tr>
+<tr><td>Spectrum Access Offshore Mobile</td><td>£5000</td><td></td><td>60 months</td></tr>
+</tbody>
+</table>
+
+[^key-9cc0e3f23599fce1f074916965af671f][^key-c95cfa9ea621d8034c61c6a90e8a06ec][^key-beb15f775c2dfe78f9682525174e69a8][^key-0b0e5236813eef7cb7cc5bd1cab8456d][^key-0b0e5236813eef7cb7cc5bd1cab8456d][^key-0b0e5236813eef7cb7cc5bd1cab8456d][^key-702e7e5339f18d300df02623cff66613][^key-2e4cc758c497ae90cbe3703bfc4384d5][^key-e3b82295d54b3ded5d01ef8785691b42][^key-588bd0c74bd7ccbeb55399c275abb32a][^key-66bf0d1f2a1814d6d7ba5db1a1f69104][^key-0438bb5e369498709641362da898a58e][^key-67091a94c6be85bfed3687dcc1138341][^key-6912a0e4e597d330c966882b345ca415]
+
+## SCHEDULE 3 — FORMULA FOR CALCULATING THE APPROPRIATE SUM FOR THE POINT TO POINT FIXED LINKS LICENCE
+
+Schedule 2
+
+### PART 1 — FORMULA
+
+**1.**[^key-cf554e487d1804e2715c6d8bf5e76965] In this Schedule—
+
+- (a) “the appropriate sum” means the amount in pounds sterling, which is payable for a Point to Point Fixed Links licence, calculated in accordance with the formula set out in paragraph 2; and
+- (b) “Availability” means the minimum percentage of time that the fixed link is capable of functioning as set out in the licensee’s licence.
+
+**2.**[^key-e901d48911ec078038851b1d673334b7] The formula is—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2020/1068/images/uksi_20201068_en_001)
+
+- where—
+  - *“AS”* means the appropriate sum;
+  - *“Avf”* means the Availability Factor, being the number in Column 2 of the table set out in Part 5 as determined by the Availability (in per cent) as set out in Column 1 of that table;
+  - *“Bf”* means the Band Factor, being the number in Column 2 of the table set out in Part 2 as determined by the range of frequency band (in GHz), if any, of a fixed link set out in Column 1 of that table in which the licensee’s band falls as declared by the licensee on application for a licence;
+  - *“Bwf”* means the Bandwidth Factor, subject to paragraph 3, being the number corresponding to the bandwidth (in MHz) of a co-ordinated two-way fixed link (or a part thereof) as declared by the licensee on application for a licence;
+  - *“MPL”* means the Minimum Path Length, being the number corresponding to the applicable (depending on the amount of data that can be transmitted over the bandwidth (“the data rate”) or over the channel width for analogue systems) length of the path (in kilometres) specified in Columns 2 and 3 of tables 1 or 2 set out in Part 4 as determined by the range of frequency band (in GHz), if any, of a fixed link set out in Column 1 of those respective tables in which the licensee’s band falls as declared by the licensee on application for a licence;
+  - *“PL”* means the Path Length, being the number corresponding to the distance (in kilometres) between two fixed points of the link as declared by the licensee on application for a licence;
+  - *“Plf”* means the Path Length Factor, being the number in Column 2 of the table set out in Part 3 as determined by the relationship between the PL and the MPL as set out in Column 1 of that table except for the Channel Islands and the Isle of Man, where Plf is 1; and
+  - *“Sp”* means the Spectrum Price, being a fixed sum of £88 per 2 x 1 MHz bandwidth for each co-ordinated two-way fixed link.
+
+**3.**[^key-0c3013df5707ecc92869e0ace7d8eba1] Where the number of the bandwidth (in MHz) of a co-ordinated two-way fixed link (or a part thereof) as set out in the licensee’s licence is less than 1.0, the number of the Bandwidth Factor shall be 1.0.
+
+### PART 2 — BAND FACTOR[^key-2426695470c40ece75b8195fe697fd0c]
+
+| Column 1: Range of frequency band (fb)(in GHz) | Column 2: Band Factor |
+| --- | --- |
+| 1.35 ≤ fb \< 2.69 | 1.0 |
+| 3.60 ≤ fb \< 4.20 | 1.0 |
+| 5.92 ≤ fb \< 7.13 | 0.74 |
+| 7.42 ≤ fb \< 8.50 | 0.74 |
+| 10.70 ≤ fb \< 11.70 | 0.43 |
+| 12.75 ≤ fb \< 15.35 | 0.43 |
+| 17.30 ≤ fb \< 19.70 | 0.30 |
+| 21.20 ≤ fb \< 23.60 | 0.30 |
+| 24.50 ≤ fb \< 29.06 | 0.26 |
+| 31.00 ≤ fb \< 31.80 | 0.26 |
+| 31.80 ≤ fb \< 33.40 | 0.26 |
+| 37.00 ≤ fb \< 39.50 | 0.26 |
+| 49.20 ≤ fb \< 57.00 | 0.17 |
+
+### PART 3 — PATH LENGTH FACTOR[^key-13c1cf6fccaff27727fdc23d849e6f0a]
+
+| Column 1: Relationship between PL and MPL | Column 2: Path Length Factor |
+| --- | --- |
+| MPL ≤ PL | 1 |
+| MPL > PL | Smaller of (MPL / PL)<sup>0.5</sup> and 4 |
+
+### PART 4 — MINIMUM PATH LENGTH[^key-e82bbf3d1626d25697aac114654427e2]
+
+Table 1
+
+| Column 1: Range of frequency band (fb)(in GHz) | Column 2: MPL (km) where the data rate is \< 2 MBit/s or, for analogue systems, where the channel width is \< 2 MHz | Column 3: MPL (km) where the data rate is ≥ 2 MBit/s or, for analogue systems, where the channel width is ≥ 2 MHz |
+| --- | --- | --- |
+| 1.35 ≤ fb \< 2.69 | 0 | 30 |
+
+Table 2
+
+| Column 1: Range of frequency band (fb)(in GHz) | Column 2: MPL (km) where the data rate is \< 140 MBit/s or, for analogue systems, where the channel width is \< 140 MHz | Column 3: MPL (km) where the data rate is ≥ 140 MBit/s or, for analogue systems, where the channel width is ≥ 140 MHz |
+| --- | --- | --- |
+| 3.60 ≤ fb \< 4.20 | 24.5 | 16 |
+| 5.92 ≤ fb \< 7.13 | 24.5 | 16 |
+| 7.42 ≤ fb \< 8.50 | 15.5 | 9.5 |
+| 10.70 ≤ fb \< 11.70 | 10 | 6 |
+| 12.75 ≤ fb \< 15.35 | 9.5 | 5.5 |
+| 17.30 ≤ fb \< 19.70 | 4 | 2.5 |
+| 21.20 ≤ fb \< 23.60 | 4 | 2 |
+| 24.50 ≤ fb \< 29.06 | 3 | 2 |
+| 31.00 ≤ fb \< 31.80 | 0 | 0 |
+| 31.80 ≤ fb \< 33.40 | 2 | 1.5 |
+| 37.00 ≤ fb \< 39.50 | 0 | 0 |
+| 49.20 ≤ fb \< 57.00 | 0 | 0 |
+
+### PART 5 — AVAILABILITY FACTOR[^key-7a358d7e03213e9e71e8ce639fc8ae02]
+
+| Column 1: The percentage of Availability | Column 2: Availability Factor |
+| --- | --- |
+| Availability ≤ 99.9% | 0.7 |
+| 99.9% \< Availability \< 99.99% | 0.7 + (Availability x 100 – 99.9) × (0.3 / 0.09) |
+| 99.99% ≤ Availability | 1.0 + (Availability x 100 – 99.99) × (0.4 / 0.009) |
+
+## SCHEDULE 4 — FEES PAYABLE FOR SATELLITE (PERMANENT EARTH STATION) AND (TRANSPORTABLE EARTH STATION) LICENCES
+
+Schedule 2
+
+### PART 1 — FORMULA FOR CALCULATING THE APPROPRIATE SUM FOR A SATELLITE (PERMANENT EARTH STATION) LICENCE
+
+**1.**[^key-ceb7f47e0f6c2767118d0bdda45a2e05] In this Part, subject to paragraph 3, “the appropriate sum” means the amount in pounds sterling, which is payable for a Satellite (Permanent Earth Station) licence, calculated in accordance with the formula set out in paragraph 2.
+
+**2.**[^key-ee6a67ae4084bc36d6f9e833bb04f250] The formula is—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2020/1068/images/uksi_20201068_en_002)
+
+- where—
+  - *“AS”* means the appropriate sum;
+  - *“bands”* mean the numbers listed in Column 1 of the table set out in Part 2, corresponding to the range of frequency band listed in Column 2 of that table which are authorised by the licence;
+  - *“BF**<sub>band</sub>**”* means the band factor applying to each band, being the number in Column 3 of the table set out in Part 2 corresponding to the band listed in Column 1 of the same table;
+  - *“paths**<sub>band</sub>**”* means the set of those transmission paths authorised by the licence for which the authorised transmission frequency lies within the frequency range of each band as set out in Column 2 of the table set out in Part 2;
+  - *“P**<sub>path</sub>**”* means the authorised peak transmit power (in Watts) at the flange of the antenna of the earth station for each transmission path;
+  - *“BW**<sub>path</sub>**”* means the authorised transmit bandwidth (in MHz) for each transmission path; and
+  - *“transmission path”* means a combination of a satellite earth station transmitter, a satellite receiver, a transmission frequency, and polarisation for which transmissions are authorised by the licence.
+
+**3.**[^key-fd271e0790033a3842446f1bfc2fe138] Where the amount in pounds sterling calculated in accordance with the formula set out in paragraph 2 is less than £500, the appropriate sum shall be £500.
+
+### PART 2 — BAND FACTOR FOR CALCULATING THE APPROPRIATE SUM FOR A SATELLITE (PERMANENT EARTH STATION) LICENCE[^key-466e46563c268a883bac48120dcb206b]
+
+| Column 1: band | Column 2: Range of frequency band (fb) (in GHz) | Column 3: Band factor |
+| --- | --- | --- |
+| 1 | fb \< 5 | 2.33 |
+| 2 | 5 ≤ fb \< 10 | 1.72 |
+| 3 | 10 ≤ fb \< 16 | 1.00 |
+| 4 | 16 ≤ fb \< 24 | 0.70 |
+| 5 | fb ≥ 24 | 0.60 |
+
+### PART 3 — FEES PAYABLE FOR SATELLITE (TRANSPORTABLE EARTH STATION) LICENCES
+
+**4.**[^key-3182eaa43de785d62f507180414240c5] The appropriate sum is the amount in pounds sterling which is payable for each earth station operating in one of the bands specified in Columns 2, 3 or 4 of the table below as determined by the range of p specified in Column 1 of that table in which the licensee’s network falls.
+
+**5.**[^key-02f538ad8eca00f36f0ffe1849c62925] In this Part—
+
+- (a) *“OMP”* means the number corresponding to the number of the Operational Maximum Power (in Watts) as declared by the licensee on application for the earth station licence;
+- (b) *“p”* means the product of *OMP* multiplied by *WBW*; and
+- (c) *“WBW”* means the number corresponding to the number of the widest bandwidth (in MHz) as declared by the licensee on application for the licence.
+
+  | Column 1: Range of p | Column 2: Fee (£) per earth station in the band 5.925–7.075 GHz | Column 3: Fee (£) per earth station in the band 13.78–14.5 GHz | Column 4: Fee (£) per earth station in any of the bands 27.5–27.8185 GHz, 28.4545–28.8265 GHz and 29.4625–30 GHz |
+  | --- | --- | --- | --- |
+  | 0 \< p ≤ = 100 | 500 | 300 | 200 |
+  | 100 \< p ≤ = 2,500 | 2,400 | 1,400 | 800 |
+  | p > 2,500 | 7,400 | 4,300 | 2,600 |
+
+## SCHEDULE 5 — HIGH POPULATION AREAS, MEDIUM POPULATION AREAS AND LOW POPULATION AREAS[^key-909a673f5a36e4ee397df83043f2c77f]
+
+Regulation 2(1)
+
+<table>
+<thead>
+<tr><th></th><th colspan="4">Grid Square References</th></tr>
+</thead>
+<tbody>
+<tr><td><em>High population areas</em></td><td>TQ 000 500</td><td></td><td></td><td></td></tr>
+<tr><td rowspan="12"><em>Medium population areas</em></td><td>NJ 500 000</td><td>SJ 000 500</td><td>SP 500 000</td><td>TA 000 000</td></tr>
+<tr><td>NO 000 000</td><td>SJ 500 500</td><td>SS 500 500</td><td>TF 000 000</td></tr>
+<tr><td>NS 000 500</td><td>SJ 500 000</td><td>ST 000 500</td><td>TG 000 000</td></tr>
+<tr><td>NS 500 500</td><td>SK 000 500</td><td>ST 500 500</td><td>TL 000 500</td></tr>
+<tr><td>NT 000 500</td><td>SK 500 500</td><td>ST 000 000</td><td>TL 000 000</td></tr>
+<tr><td>NW 000 000</td><td>SK 000 000</td><td>SU 000 500</td><td>TL 500 000</td></tr>
+<tr><td>NZ 000 500</td><td>SK 500 000</td><td>SU 500 500</td><td>TM 000 000</td></tr>
+<tr><td>NZ 000 000</td><td>SO 500 500</td><td>SU 000 000</td><td>TQ 500 500</td></tr>
+<tr><td>SD 000 000</td><td>SO 500 000</td><td>SU 500 000</td><td>TQ 000 000</td></tr>
+<tr><td>SD 500 000</td><td>SP 000 500</td><td>SX 000 500</td><td>TQ 500 000</td></tr>
+<tr><td>SE 000 000</td><td>SP 500 500</td><td>SX 500 500</td><td>TR 000 500</td></tr>
+<tr><td>SE 500 000</td><td>SP 000 000</td><td>SZ 000 500</td><td></td></tr>
+<tr><td><em>Low population areas</em></td><td colspan="4">All grid square references for 50 kilometre × 50 kilometre areas other than those listed in this Schedule.</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 6 — CHARGES FOR THE BUSINESS RADIO (AREA DEFINED) LICENCE CLASS FOR EACH 6.25 kHz CHANNEL[^key-1d1c47f0f878ce931114046b14a56b09]
+
+Schedule 2
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th><th>Column 4</th><th>Column 5</th></tr>
+<tr><th>Area</th><th>Charge for high usage band</th><th>Charge for medium usage band</th><th>Charge for low usage band</th><th>Charge for Band I</th></tr>
+</thead>
+<tbody>
+<tr><td><em>United Kingdom</em></td><td>£2,475</td><td>£2,062.50</td><td>£825</td><td>£150</td></tr>
+<tr><td><em>England</em></td><td>£2,068.75</td><td>£1,723.75</td><td>£689.50</td><td>£37.50</td></tr>
+<tr><td><em>Wales</em></td><td>£122.50</td><td>£102.50</td><td>£40.75</td><td>£37.50</td></tr>
+<tr><td><em>Scotland</em></td><td>£213.75</td><td>£177.50</td><td>£71.25</td><td>£37.50</td></tr>
+<tr><td><em>Northern Ireland</em></td><td>£70</td><td>£58.75</td><td>£23.25</td><td>£37.50</td></tr>
+<tr><td><em>High population area</em></td><td>£296.25</td><td>£247.50</td><td>£98.75</td><td>£37.50</td></tr>
+<tr><td><em>Medium population area</em></td><td>£37.50</td><td>£31.25</td><td>£12.50</td><td>£12.50</td></tr>
+<tr><td><em>Low population area</em></td><td>£3.50</td><td>£3</td><td>£1.25</td><td>£1.25</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 7 — CHARGES FOR THE BUSINESS RADIO (TECHNICALLY ASSIGNED) LICENCE CLASS
+
+Schedule 2
+
+### PART 1 — CHARGES FOR EACH 6.25 kHz CHANNEL AUTHORISED IN A HIGH USAGE BAND[^key-c42b0ca016180dffac1c247187999dc3]
+
+<table>
+<thead>
+<tr><th></th><th colspan="2">Small coverage area</th><th colspan="2">Medium coverage area</th><th colspan="2">Large coverage area</th></tr>
+<tr><th>Assignment type</th><th>Exclusive basis</th><th>Shared basis</th><th>Exclusive basis</th><th>Shared basis</th><th>Exclusive basis</th><th>Shared basis</th></tr>
+</thead>
+<tbody>
+<tr><td><em>High population area</em></td><td>£50</td><td>£25</td><td>£185</td><td>£92.50</td><td>£370</td><td>£185</td></tr>
+<tr><td><em>Medium population area</em></td><td>£25</td><td>£18.75</td><td>£50</td><td>£25</td><td>£75</td><td>£37.50</td></tr>
+<tr><td><em>Low population area</em></td><td>£18.75</td><td>£18.75</td><td>£23.75</td><td>£18.75</td><td>£27.50</td><td>£18.75</td></tr>
+</tbody>
+</table>
+
+### PART 2 — CHARGES FOR EACH 6.25 kHz CHANNEL AUTHORISED IN A MEDIUM USAGE BAND[^key-671aa621f8790a95024e5ecc8d69a734]
+
+<table>
+<thead>
+<tr><th></th><th colspan="2">Small Coverage Area</th><th colspan="2">Medium Coverage Area</th><th colspan="2">Large Coverage Area</th></tr>
+<tr><th>Assignment type</th><th>Exclusive basis</th><th>Shared basis</th><th>Exclusive basis</th><th>Shared basis</th><th>Exclusive basis</th><th>Shared basis</th></tr>
+</thead>
+<tbody>
+<tr><td><em>High population area</em></td><td>£25</td><td>£18.75</td><td>£92.50</td><td>£46.25</td><td>£185</td><td>£92.50</td></tr>
+<tr><td><em>Medium population area</em></td><td>£21.25</td><td>£18.75</td><td>£42.50</td><td>£21.25</td><td>£62.50</td><td>£31.25</td></tr>
+<tr><td><em>Low population area</em></td><td>£18.75</td><td>£18.75</td><td>£20</td><td>£18.75</td><td>£22.50</td><td>£18.75</td></tr>
+</tbody>
+</table>
+
+### PART 3 — CHARGES FOR EACH 6.25 kHz CHANNEL AUTHORISED IN A LOW USAGE BAND[^key-f04b9e07d11a2b92ec1b7b23c58b952b]
+
+<table>
+<thead>
+<tr><th></th><th colspan="2">Small Coverage Area</th><th colspan="2">Medium Coverage Area</th><th colspan="2">Large Coverage Area</th></tr>
+<tr><th>Assignment type</th><th>Exclusive basis</th><th>Shared basis</th><th>Exclusive basis</th><th>Shared basis</th><th>Exclusive basis</th><th>Shared basis</th></tr>
+</thead>
+<tbody>
+<tr><td><em>High population area</em></td><td>£18.75</td><td>£18.75</td><td>£18.75</td><td>£18.75</td><td>£18.75</td><td>£18.75</td></tr>
+<tr><td><em>Medium population area</em></td><td>£18.75</td><td>£18.75</td><td>£18.75</td><td>£18.75</td><td>£18.75</td><td>£18.75</td></tr>
+<tr><td><em>Low population area</em></td><td>£18.75</td><td>£18.75</td><td>£18.75</td><td>£18.75</td><td>£18.75</td><td>£18.75</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 8 — HEAVY CONGESTION AREAS, MEDIUM CONGESTION AREAS, LIGHT CONGESTION AREAS AND NON-CONGESTION AREAS[^key-d751720230e8f7e1a2184cbf79cb40a5]
+
+Regulation 2(1)
+
+<table>
+<thead>
+<tr><th></th><th colspan="4">Grid Square References</th></tr>
+</thead>
+<tbody>
+<tr><td><em>Heavy congestion areas</em></td><td>NW 000 000</td><td>TA 000 000</td><td>TF 000 000</td><td>TM 000 000</td></tr>
+<tr><td></td><td>SU 000 000</td><td>TQ 000 000</td><td>HU 000 500</td><td>NZ 500 000</td></tr>
+<tr><td></td><td>SE 500 000</td><td>TG 500 000</td><td>SM 500 000</td><td>NS 000 500</td></tr>
+<tr><td></td><td>NT 000 500</td><td>NZ 000 500</td><td>SC 000 500</td><td>SD 000 500</td></tr>
+<tr><td></td><td>SH 000 500</td><td>SJ 000 500</td><td>NS 500 500</td><td>SU 500 000</td></tr>
+<tr><td></td><td>SW 500 000</td><td>ST 000 500</td><td>TQ 000 500</td><td>TR 000 500</td></tr>
+<tr><td></td><td>SX 000 500</td><td>SZ 000 500</td><td>SS 500 500</td><td>TQ 500 500</td></tr>
+<tr><td></td><td>SX 500 500</td><td>SY 500 500</td><td>XD 500 500</td><td></td></tr>
+<tr><td><em>Medium congestion areas</em></td><td>HU 000 000</td><td>HY 000 000</td><td>NO 000 000</td><td>TG 000 000</td></tr>
+<tr><td></td><td>TR 000 000</td><td>SW 000 000</td><td>ND 000 500</td><td>NJ 500 000</td></tr>
+<tr><td></td><td>NO 500 000</td><td>NW 500 000</td><td>SK 500 000</td><td>TF 500 000</td></tr>
+<tr><td></td><td>SB 000 500</td><td>NT 500 500</td><td>SH 500 500</td><td>SJ 500 500</td></tr>
+<tr><td></td><td>SK 500 500</td><td>TM 500 500</td><td></td><td></td></tr>
+<tr><td><em>Light congestion areas</em></td><td>NK 000 000</td><td>NS 000 000</td><td>NU 000 000</td><td>NZ 000 000</td></tr>
+<tr><td></td><td>SD 000 000</td><td>SS 000 000</td><td>ST 000 000</td><td>NG 500 000</td></tr>
+<tr><td></td><td>NH 500 000</td><td>NX 000 500</td><td>NY 000 500</td><td>SE 000 500</td></tr>
+<tr><td></td><td>TA 000 500</td><td>NH 500 500</td><td>NJ 500 500</td><td>NM 500 500</td></tr>
+<tr><td></td><td>NO 500 500</td><td>NW 500 500</td><td>SS 500 000</td><td>SY 000 500</td></tr>
+<tr><td></td><td>ST 500 500</td><td>SW 500 500</td><td>SZ 500 500</td><td></td></tr>
+<tr><td><em>Non-congestion areas</em></td><td colspan="4">All grid square references for 50 kilometre × 50 kilometre areas other than those listed in this Schedule.</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 9 — CHARGES FOR THE COASTAL STATION RADIO (INTERNATIONAL) LICENCE CLASS FOR INTERNATIONAL MARITIME CHANNELS 9 (156.450 MHz), 11 (156.550 MHz), 12 (156.600 MHz), 14 (156.700 MHz), 68 (156.425 MHz), 69 (156.475 MHz), 71 (156.575 MHz) AND 74 (156.725 MHz) FOR EACH 6.25 kHz CHANNEL[^key-d21cccaf2b67a84b38742d1953966321]
+
+Schedule 2
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th><th>Column 4</th></tr>
+<tr><th>Area</th><th>Charge for Small Coverage Area</th><th>Charge for Medium Coverage Area</th><th>Charge for Large Coverage Area</th></tr>
+</thead>
+<tbody>
+<tr><td><em>Heavy congestion area</em></td><td>£75</td><td>£100</td><td>£125</td></tr>
+<tr><td><em>Medium congestion area</em></td><td>£31.25</td><td>£37.50</td><td>£50</td></tr>
+<tr><td><em>Light congestion area</em></td><td>£18.75</td><td>£18.75</td><td>£25</td></tr>
+<tr><td><em>Non-congestion area</em></td><td>£18.75</td><td>£18.75</td><td>£18.75</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 10 — CHARGES FOR THE COASTAL STATION RADIO (INTERNATIONAL) AREA DEFINED LICENCE CLASS FOR INTERNATIONAL MARITIME CHANNELS 9 (156.450 MHz), 11 (156.550 MHz), 12 (156.600 MHz), 14 (156.700 MHz), 68 (156.425 MHz), 69 (156.475 MHz), 71 (156.575 MHz) AND 74 (156.725 MHz) FOR EACH 6.25 kHz CHANNEL[^key-e374351cce667e5a1a75f88b4b93bf66]
+
+Schedule 2
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th></tr>
+<tr><th>Area</th><th>Charge</th></tr>
+</thead>
+<tbody>
+<tr><td><em>United Kingdom</em></td><td>£2,318.75</td></tr>
+<tr><td><em>Heavy congestion area</em></td><td>£55</td></tr>
+<tr><td><em>Medium congestion area</em></td><td>£21.25</td></tr>
+<tr><td><em>Light congestion area</em></td><td>£11.25</td></tr>
+<tr><td><em>Non-congestion area</em></td><td>£0.00</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 11 — CHARGES FOR THE COASTAL STATION RADIO (INTERNATIONAL) AREA DEFINED LICENCE CLASS FOR INTERNATIONAL MARITIME CHANNELS 87 (157.375 MHz) AND 88 (157.425 MHz) FOR EACH 6.25 kHz CHANNEL[^key-9d23c09d990791fbf165af30dc6ec564]
+
+Schedule 2
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th></tr>
+<tr><th>Size of Licensed Area</th><th>Charge</th></tr>
+</thead>
+<tbody>
+<tr><td><em>1—4 grid squares</em></td><td>£18.75</td></tr>
+<tr><td><em>5—8 grid squares</em></td><td>£37.50</td></tr>
+<tr><td><em>9—12 grid squares</em></td><td>£56.20</td></tr>
+<tr><td><em>13—16 grid squares</em></td><td>£75</td></tr>
+<tr><td><em>17—20 grid squares</em></td><td>£93.75</td></tr>
+<tr><td><em>21—24 grid squares</em></td><td>£112.50</td></tr>
+<tr><td><em>More than 24 grid squares</em></td><td>£125</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 12 — CHARGES FOR THE COASTAL STATION RADIO (INTERNATIONAL) AREA DEFINED LICENCE CLASS FOR INTERNATIONAL MARITIME CHANNELS OTHER THAN CHANNELS 9 (156.450 MHz), 11 (156.550 MHz), 12 (156.600 MHz), 14 (156.700 MHz), 68 (156.425 MHz), 69 (156.475 MHz), 71 (156.575 MHz), 74 (156.725 MHz), 87 (157.375 MHz) AND 88 (157.425 MHz) FOR EACH 2 × 25 kHz CHANNEL[^key-85dca7e668cd7905ec48c37e69920fc6]
+
+Schedule 2
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th></tr>
+<tr><th>Size of Licensed Area</th><th>Charge</th></tr>
+</thead>
+<tbody>
+<tr><td><em>1—4 grid squares</em></td><td>£75</td></tr>
+<tr><td><em>5—8 grid squares</em></td><td>£150</td></tr>
+<tr><td><em>9—12 grid squares</em></td><td>£225</td></tr>
+<tr><td><em>13—16 grid squares</em></td><td>£300</td></tr>
+<tr><td><em>17—20 grid squares</em></td><td>£375</td></tr>
+<tr><td><em>21—24 grid squares</em></td><td>£450</td></tr>
+<tr><td><em>More than 24 grid squares</em></td><td>£500</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 13 — CHARGES FOR THE COASTAL STATION RADIO (UK) LICENCE CLASS FOR EACH 6.25 kHz CHANNEL[^key-2dc4c3daac1e2fe118091068175c1aa7]
+
+Schedule 2
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th><th>Column 3</th><th>Column 4</th></tr>
+<tr><th>Area</th><th>Charge for Small Coverage Area</th><th>Charge for Medium Coverage Area</th><th>Charge for Large Coverage Area</th></tr>
+</thead>
+<tbody>
+<tr><td><em>High population area</em></td><td>£25</td><td>£92.50</td><td>£185</td></tr>
+<tr><td><em>Medium population area</em></td><td>£21.25</td><td>£42.50</td><td>£62.50</td></tr>
+<tr><td><em>Low population area</em></td><td>£18.75</td><td>£20.00</td><td>£22.50</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 14 — CHARGES FOR THE COASTAL STATION RADIO (UK) AREA DEFINED LICENCE CLASS FOR EACH 6.25 kHz CHANNEL[^key-2fb73242507cb300bc4dccb8ee4714b5]
+
+Schedule 2
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th></tr>
+<tr><th>Area</th><th>Charge</th></tr>
+</thead>
+<tbody>
+<tr><td><em>United Kingdom</em></td><td>£2,062.50</td></tr>
+<tr><td><em>High population area</em></td><td>£247.50</td></tr>
+<tr><td><em>Medium population area</em></td><td>£31.25</td></tr>
+<tr><td><em>Low population area</em></td><td>£3.00</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 15 — FORMULAE FOR AERONAUTICAL STATIONS
+
+Schedule 2
+
+### PART 1 — FORMULA FOR CALCULATING THE APPROPRIATE SUM FOR A LICENCE FOR AN AREA SERVICE
+
+**1.**[^key-34eb1a8170ca24c807f308d4fd8a827c] For an area service the appropriate sum is the amount in pounds sterling calculated in accordance with the formula set out in paragraph 2.
+
+**2.**[^key-095e6d81796fbab427238d4b209ebe5c] The formula is—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2020/1068/images/uksi_20201068_en_003)
+
+- where—
+  - “S” means the sum;
+  - “RR” means a reference rate of £3,300, being the fee payable for an authorisation under a licence for use of a 8.33 kHz channel over a surface area of 71,000 square nautical miles;
+  - “SA” means 71,000, being the number corresponding to the surface area (in square nautical miles) of the United Kingdom;
+  - “π” means 3.142;
+  - “h” means the number corresponding to the height (in feet) of the designated operational coverage specified in the licence granted to the licensee; and
+  - “r” means the number corresponding to the radius (in nautical miles) of a circle of equivalent area to the designated operational coverage specified in the licence.
+
+### PART 2 — FORMULA FOR CALCULATING THE APPROPRIATE SUM FOR A LICENCE FOR AN AERONAUTICAL BROADCAST SERVICE
+
+**3.**[^key-9fa72cd18c69907e745a29505436d390] For an aeronautical broadcast service the appropriate sum is the amount in pounds sterling which is the lesser of—
+
+- (a) the sum calculated in accordance with the formula set out in paragraph 4; and
+- (b) the sum calculated in accordance with the formula set out in paragraph 5.
+
+**4.**[^key-17d397568d348c25455f6a8a6dc7b68c] The formula referred to in paragraph 3(a) is—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2020/1068/images/uksi_20201068_en_003)
+
+- where—
+  - “S” means the sum;
+  - “RR” means a reference rate of £3,300, being the fee payable for an authorisation under a licence for use of a 8.33 kHz channel over a surface area of 71,000 square nautical miles;
+  - “SA” means 71,000, being the number corresponding to the surface area (in square nautical miles) of the United Kingdom;
+  - “π” means 3.142;
+  - “h” means the number corresponding to the height (in feet) of the designated operational coverage specified in the licence granted to the licensee; and
+  - “r” means the number corresponding to the radius (in nautical miles) of the designated operational coverage specified in the licence.
+
+**5.**[^key-041661bca1a490c8fa50081ee27f445a] The formula referred to in paragraph 3(b) is—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2020/1068/images/uksi_20201068_en_004)
+
+- where—
+  - “S” means the sum;
+  - “RR” means a reference rate of £3,300, being the fee payable for an authorisation under a licence for use of a 8.33 kHz channel over a surface area of 71,000 square nautical miles;
+  - “SA” means 71,000, being the number corresponding to the surface area (in square nautical miles) of the United Kingdom;
+  - “π” means 3.142; and
+  - “r” means the number corresponding to the radius (in nautical miles) of the designated operational coverage specified in the licence.
+
+### PART 3 — FORMULA FOR CALCULATING THE APPROPRIATE SUM FOR A LICENCE FOR A CIRCULAR SERVICE
+
+**6.**[^key-aa080615827ef9d4ac88c2394254d32b] (1) For a circular service the appropriate sum is the amount in pounds sterling which is the greater of the sums specified in paragraphs 6(2) and 6(3).
+
+(2) The sum specified in this paragraph is the lesser of—
+
+- (a) the sum calculated in accordance with the formula set out in paragraph 4; and
+- (b) the sum calculated in accordance with the formula set out in paragraph 7.
+
+(3) The sum specified in this paragraph is the sum in pounds sterling equal to a quarter of the sum calculated in accordance with the formula set out in paragraph 4.
+
+**7.**[^key-297791112513c784a11193409933ac42] The formula referred to in paragraph 6(2)(b) is—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2020/1068/images/uksi_20201068_en_005)
+
+- where—
+  - “S” means the sum;
+  - “RR” means a reference rate of £3,300, being the fee payable for an authorisation under a licence for use of a 8.33 kHz channel over a surface area of 71,000 square nautical miles;
+  - “SA” means 71,000, being the number corresponding to the surface area (in square nautical miles) of the United Kingdom;
+  - “π” means 3.142; and
+  - “r” means the number corresponding to the radius (in nautical miles) of the designated operational coverage specified in the licence.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and replace the Wireless Telegraphy (Licence Charges) Regulations 2011 ([S.I. 2011/1128](https://www.legislation.gov.uk/uksi/2011/1128) as amended by S.I.s [2012/1075](https://www.legislation.gov.uk/uksi/2012/1075), [2013/917](https://www.legislation.gov.uk/uksi/2013/917), [2014/1295](https://www.legislation.gov.uk/uksi/2014/1295), [2015/1334](https://www.legislation.gov.uk/uksi/2015/1334), [2015/1995](https://www.legislation.gov.uk/uksi/2015/1995) and [2016/643](https://www.legislation.gov.uk/uksi/2016/643)) (“the 2011 Regulations”). These Regulations provide for charges to be paid to the Office of Communications (“OFCOM”) in respect of wireless telegraphy licences granted under section 8 of the Wireless Telegraphy Act [2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36) (“the Act”).
+
+These Regulations set the charges - licence fees - for most classes of wireless telegraphy licence (regulation 4 and Schedule 2). They also provide for pro-rated licence fees, subject to a minimum of £32 in the case of Shared Access licences and otherwise £20, for licences issued for less than one year where the fees for a full year’s licence would otherwise be £75 or more (regulation 4).
+
+For most licence classes the Regulations set the same fees as under the 2011 Regulations, but there are three changes.
+
+The first change is that they introduce fees for new licence classes in Schedule 2: the Local Access, Shared Access (Low Power) and Shared Access (Medium Power) licence classes listed under the heading “Spectrum Access” and the Network 2 GHz licence class listed under the heading “Satellite Services”.
+
+The second change is that, in respect of the Self Co-ordinated Links licence class in Schedule 2, they remove reference to 65 GHz which frequency is no longer available for this licence class.
+
+They also rename two licence classes listed under the heading “Science and Technology” (the Non-Operational Temporary Use licence class, which is renamed the Demonstration and Trial licence class, and the Non-Operational Development licence class, which is renamed the Innovation and Research licence class) (regulation 4(2)(a)(iii) and Schedule 2).
+
+Regulation 5 provides for concessionary fees for certain wireless telegraphy licences held by charities whose object is the safety of human life in an emergency. Regulation 5(3) refers to the Association of Guernsey Charities. Information about the Association of Guernsey Charities is on its website at http://www.charity.org.gg/.
+
+Regulation 6 provides that, where a sum is not prescribed by regulations made under section 12 of the Act, there shall be paid to OFCOM such sum as OFCOM may in the particular case determine.
+
+Copies of the 2nd series of Landranger maps published by the Ordnance Survey, referred to in regulation 2(1), are available from the Ordnance Survey’s website at www.ordnancesurvey.co.uk.
+
+Copies of the Office for National Statistics’ Population Estimates referred to in regulation 2(5) may be obtained from The Office for National Statistics at The Customer Contact Centre, Office for National Statistics, Government Buildings, Cardiff Road, Newport, South Wales NP10 8XG.
+
+Copies of the Radio Regulations referred to in regulation 2(4) may be obtained from The International Telecommunication Union, Place des Nations, 1211 Geneva 20, Switzerland.
+
+A full regulatory impact assessment of the effect that these Regulations will have on the costs to business is available to the public from the OFCOM Library at Riverside House, 2a Southwark Bridge Road, London SE1 9HA (Tel: 020 7981 3000) and on OFCOM’s website at www.ofcom.org.uk. Copies of this assessment have also been placed in the libraries of both Houses of Parliament.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 36](https://www.legislation.gov.uk/ukpga/2006/36)
+
+[^f00002]: Footnote: Sections 12, 13(2) and 122(7) were extended to the Bailiwick of Guernsey by article 2 of the Wireless Telegraphy (Guernsey) Order 2006 ([S.I. 2006/3325](https://www.legislation.gov.uk/uksi/2006/3325)); to the Bailiwick of Jersey by article 2 of the Wireless Telegraphy (Jersey) Order 2006 ([S.I. 2006/3324](https://www.legislation.gov.uk/uksi/2006/3324)); and to the Isle of Man by article 2 of the Wireless Telegraphy (Isle of Man) Order 2007 ([S.I. 2007/278](https://www.legislation.gov.uk/uksi/2007/278)).
+
+[^key-243d47efa028f6d6538a42b9c2d0de00]: Commencement: Reg. 1 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-fdb9942c6c8037eb0d43596f34cdd109]: Commencement: Reg. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^f00003]: Footnote: [S.I. 2000/2039](https://www.legislation.gov.uk/uksi/2000/2039)
+
+[^key-70a969c436bbbfa533de65ecceb5ec04]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/2/1) inserted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/2/a)
+
+[^f00004]: Footnote: [S.I. 2012//2187](https://www.legislation.gov.uk/uksi/2012/2187), amended by [S.I. 2015/1338](https://www.legislation.gov.uk/uksi/2015/1338) and [S.I. 2019/950](https://www.legislation.gov.uk/uksi/2019/950)
+
+[^key-628aed088033831181b5e01626b8ee4c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/2/1) inserted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/2/b)
+
+[^key-f91bc4e81c47d71e5f7ded9674bd123f]: Commencement: Reg. 3 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-931b36d94c6c9552802a1e9063f6e3fd]: Commencement: Reg. 4 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-91c96d21602c241a137da7008163386a]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/1) substituted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/a)
+
+[^key-489fddc9850d8db86956c1734acd96fd]: Textual amendment: Words in [reg. 4(6)(a)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/a) substituted (27.10.2021) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2021 (S.I. 2021/1117)](https://www.legislation.gov.uk/uksi/2021/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1117/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1117/regulation/2/2/a)
+
+[^key-fd2a4709fc87ea69e96a533636004bb3]: Textual amendment: Words in [reg. 4(6)(a)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/a) substituted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/b)
+
+[^key-aeec31af9d7a418c8d0acf29308cf782]: Textual amendment: Word in [reg. 4(6)(b)(vi)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/b/vi) omitted (27.10.2021) by virtue of [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2021 (S.I. 2021/1117)](https://www.legislation.gov.uk/uksi/2021/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1117/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1117/regulation/2/2/b)
+
+[^key-d4420e6679b51b56f51b8ccfbc317d33]: Textual amendment: Words in [reg. 4(6)(b)(vii)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/b/vii) substituted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/c)
+
+[^key-b4a1eea9e59c08d00160e8aaac388af9]: Textual amendment: Word in [reg. 4(6)(b)(vii)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/b/vii) omitted (17.4.2023) by virtue of [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/d)
+
+[^key-ebd94ddf219d610bdf55c9478fb176bd]: Textual amendment: [Reg. 4(6)(b)(viii)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/b/viii) inserted (27.10.2021) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2021 (S.I. 2021/1117)](https://www.legislation.gov.uk/uksi/2021/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1117/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2021/1117/regulation/2/2/d)
+
+[^key-a2cbdfbfb338551dde7eba11068c6d20]: Textual amendment: [Reg. 4(6)(b)(ix)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/b/ix)[(x)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/6/b/x) inserted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(e)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/e)
+
+[^key-8196cb3667dd5b8772d9b01b3cec7bf8]: Textual amendment: Words in [reg. 4(7)(a)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/7/a) substituted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(f)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/f)
+
+[^key-48d7e4a591b88c2bf23dbcab56b784dc]: Textual amendment: Words in [reg. 4(7)(b)](https://www.legislation.gov.uk/uksi/2020/1068/regulation/4/7/b) substituted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(3)(g)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/3/g)
+
+[^key-a128be40249e50faa0d3ae5d4fa7ecd5]: Commencement: Reg. 5 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-2aa43120c83dfc340b3a0a9e4379785c]: Commencement: Reg. 6 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-797908ea6060c961dd1cbfacb4296cad]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2020/1068/regulation/6A) inserted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/4)
+
+[^key-80812e2567466d7ee89c82b4b727275e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1068/regulation/7) substituted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/5)
+
+[^key-3dc23e2c699f74032d7f85f2a6a80bd4]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1068/regulation/8) inserted (27.10.2021) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2021 (S.I. 2021/1117)](https://www.legislation.gov.uk/uksi/2021/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1117/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/1117/regulation/2/3)
+
+[^key-94d8d1085a4a872a885efa1559f0ffff]: Textual amendment: [Regs. 9](https://www.legislation.gov.uk/uksi/2020/1068/regulation/9), [10](https://www.legislation.gov.uk/uksi/2020/1068/regulation/10) inserted (17.4.2023) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2023 (S.I. 2023/400)](https://www.legislation.gov.uk/uksi/2023/400), [regs. 1](https://www.legislation.gov.uk/uksi/2023/400/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2023/400/regulation/2/6)
+
+[^key-f7c22e34d1068aa1e8b4fba136faa75e]: Commencement: Sch. 1 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-b793a262b8ec772f5171fd68769c0f23]: Commencement: Sch. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-9cc0e3f23599fce1f074916965af671f]: Textual amendment: Words in Sch. 2 inserted (13.1.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2024 (S.I. 2024/1318)](https://www.legislation.gov.uk/uksi/2024/1318), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1318/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1318/regulation/2/2)
+
+[^key-c95cfa9ea621d8034c61c6a90e8a06ec]: Textual amendment: Words in Sch. 2 substituted (29.12.2022) by virtue of [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2022 (S.I. 2022/1310)](https://www.legislation.gov.uk/uksi/2022/1310), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1310/regulation/1), [2(2)(3)](https://www.legislation.gov.uk/uksi/2022/1310/regulation/2/2)
+
+[^key-beb15f775c2dfe78f9682525174e69a8]: Textual amendment: Words in Sch. 2 substituted (29.12.2022) by virtue of [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2022 (S.I. 2022/1310)](https://www.legislation.gov.uk/uksi/2022/1310), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1310/regulation/1), [2(4)(5)](https://www.legislation.gov.uk/uksi/2022/1310/regulation/2/4)
+
+[^key-0b0e5236813eef7cb7cc5bd1cab8456d]: Textual amendment: Words in Sch. 2 omitted (13.1.2025) by virtue of [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2024 (S.I. 2024/1318)](https://www.legislation.gov.uk/uksi/2024/1318), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1318/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/1318/regulation/2/3/a)
+
+[^key-702e7e5339f18d300df02623cff66613]: Textual amendment: Words in Sch. 2 inserted (13.1.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2024 (S.I. 2024/1318)](https://www.legislation.gov.uk/uksi/2024/1318), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1318/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/1318/regulation/2/3/b)
+
+[^key-2e4cc758c497ae90cbe3703bfc4384d5]: Textual amendment: Words in Sch. 2 inserted (29.12.2022) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2022 (S.I. 2022/1310)](https://www.legislation.gov.uk/uksi/2022/1310), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1310/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2022/1310/regulation/2/6)
+
+[^key-e3b82295d54b3ded5d01ef8785691b42]: Textual amendment: Words in Sch. 2 inserted (13.10.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2025 (S.I. 2025/1038)](https://www.legislation.gov.uk/uksi/2025/1038), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1038/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/1038/regulation/2/2)
+
+[^key-588bd0c74bd7ccbeb55399c275abb32a]: Textual amendment: Words in Sch. 2 substituted (13.1.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2024 (S.I. 2024/1318)](https://www.legislation.gov.uk/uksi/2024/1318), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1318/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/1318/regulation/2/4)
+
+[^key-66bf0d1f2a1814d6d7ba5db1a1f69104]: Textual amendment: Words in Sch. 2 substituted (13.10.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2025 (S.I. 2025/1038)](https://www.legislation.gov.uk/uksi/2025/1038), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1038/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/1038/regulation/2/3/a)
+
+[^key-0438bb5e369498709641362da898a58e]: Textual amendment: Words in Sch. 2 inserted (13.10.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2025 (S.I. 2025/1038)](https://www.legislation.gov.uk/uksi/2025/1038), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1038/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/1038/regulation/2/3/b)
+
+[^key-67091a94c6be85bfed3687dcc1138341]: Textual amendment: Words in Sch. 2 inserted (13.1.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2024 (S.I. 2024/1318)](https://www.legislation.gov.uk/uksi/2024/1318), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1318/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/1318/regulation/2/5)
+
+[^key-6912a0e4e597d330c966882b345ca415]: Textual amendment: Words in Sch. 2 inserted (13.10.2025) by [The Wireless Telegraphy (Licence Charges) (Amendment) Regulations 2025 (S.I. 2025/1038)](https://www.legislation.gov.uk/uksi/2025/1038), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1038/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2025/1038/regulation/2/4)
+
+[^key-cf554e487d1804e2715c6d8bf5e76965]: Commencement: Sch. 3 para. 1 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-e901d48911ec078038851b1d673334b7]: Commencement: Sch. 3 para. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-0c3013df5707ecc92869e0ace7d8eba1]: Commencement: Sch. 3 para. 3 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-2426695470c40ece75b8195fe697fd0c]: Commencement: Sch. 3 Pt. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-13c1cf6fccaff27727fdc23d849e6f0a]: Commencement: Sch. 3 Pt. 3 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-e82bbf3d1626d25697aac114654427e2]: Commencement: Sch. 3 Pt. 4 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-7a358d7e03213e9e71e8ce639fc8ae02]: Commencement: Sch. 3 Pt. 5 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-ceb7f47e0f6c2767118d0bdda45a2e05]: Commencement: Sch. 4 para. 1 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-ee6a67ae4084bc36d6f9e833bb04f250]: Commencement: Sch. 4 para. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-fd271e0790033a3842446f1bfc2fe138]: Commencement: Sch. 4 para. 3 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-466e46563c268a883bac48120dcb206b]: Commencement: Sch. 4 Pt. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-3182eaa43de785d62f507180414240c5]: Commencement: Sch. 4 para. 4 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-02f538ad8eca00f36f0ffe1849c62925]: Commencement: Sch. 4 para. 5 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-909a673f5a36e4ee397df83043f2c77f]: Commencement: Sch. 5 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-1d1c47f0f878ce931114046b14a56b09]: Commencement: Sch. 6 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-c42b0ca016180dffac1c247187999dc3]: Commencement: Sch. 7 Pt. 1 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-671aa621f8790a95024e5ecc8d69a734]: Commencement: Sch. 7 Pt. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-f04b9e07d11a2b92ec1b7b23c58b952b]: Commencement: Sch. 7 Pt. 3 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-d751720230e8f7e1a2184cbf79cb40a5]: Commencement: Sch. 8 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-d21cccaf2b67a84b38742d1953966321]: Commencement: Sch. 9 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-e374351cce667e5a1a75f88b4b93bf66]: Commencement: Sch. 10 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-9d23c09d990791fbf165af30dc6ec564]: Commencement: Sch. 11 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-85dca7e668cd7905ec48c37e69920fc6]: Commencement: Sch. 12 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-2dc4c3daac1e2fe118091068175c1aa7]: Commencement: Sch. 13 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-2fb73242507cb300bc4dccb8ee4714b5]: Commencement: Sch. 14 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-34eb1a8170ca24c807f308d4fd8a827c]: Commencement: Sch. 15 para. 1 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-095e6d81796fbab427238d4b209ebe5c]: Commencement: Sch. 15 para. 2 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-9fa72cd18c69907e745a29505436d390]: Commencement: Sch. 15 para. 3 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-17d397568d348c25455f6a8a6dc7b68c]: Commencement: Sch. 15 para. 4 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-041661bca1a490c8fa50081ee27f445a]: Commencement: Sch. 15 para. 5 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-aa080615827ef9d4ac88c2394254d32b]: Commencement: Sch. 15 para. 6 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)
+
+[^key-297791112513c784a11193409933ac42]: Commencement: Sch. 15 para. 7 in force at 21.10.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1068/regulation/1)

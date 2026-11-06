@@ -1,0 +1,130 @@
+---
+title: The Assisted Areas Order 1974
+id: uksi/1974/1372
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1974-08-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1974/1372
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1974/1372/pdfs/uksi_19741372_en.pdf
+- http://www.legislation.gov.uk/uksi/1974/1372/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Assisted Areas Order 1974
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1974 No. 1372
+
+INDUSTRIAL DEVELOPMENT
+
+The Assisted Areas Order 1974
+
+Made
+
+12th August 1974
+
+Laid before Parliament
+
+13th August 1974
+
+Coming into Operation
+
+14th August 1974
+
+The Secretary of State in exercise of his powers under section 1(1) and section 8(6) of the Local Employment Act 1972, section 1(4) of the Industry Act 1972 and paragraph 2 of Schedule 2 thereto hereby makes the following Order:—
+
+**1.** (1) This Order may be cited as the Assisted Areas Order 1974 and shall come into operation on 14th August 1974.
+
+(2) The Interpretation Act 1889 shall apply for the interpretation of this Order as it applies for the interpretation of an Act of Parliament.
+
+**2.** The areas described in Part 1 of the Schedule to this Order are hereby designated as special development areas for the purposes of section 1 of the Industry Act 1972.
+
+**3.** The areas described in Part 2 of the Schedule to this Order are hereby specified as development areas for the purpose of the Local Employment Act 1972 and of any other enactment referring to development areas.
+
+**4.** The areas described in Part 3 of the Schedule to this Order are hereby specified as intermediate areas for the purposes of the Local Employment Act 1972 and of any other enactment referring to intermediate areas.
+
+**5.** Where, but for the provisions of this Order, either no grant would be payable under section 1 of the Industry Act 1972 to a person towards approved capital expenditure incurred by that person or no such grant would be payable at the rate of 22 per cent, no grant or no grant at the said rate (as the case may be) shall be made to any person in respect of any such expenditure defrayed before the date on which this Order comes into operation.
+
+**6.** The Intermediate Areas Order 1970, as amended[^f00001] shall have effect subject to the amendments that the Leith Intermediate Area consisting of the employment exchange area of Leith shall be deleted from the Schedule thereto and that the employment exchange areas of Barry, Cardiff, Llantwit Major and Penarth shall be deleted from the description of the South East Wales Intermediate Area in the said Schedule.
+
+**7.** The Intermediate Areas Order 1971 shall have effect subject to the amendment that the employment exchange areas of Edinburgh and Portobello shall be deleted from the Schedule thereto.
+
+**8.** The Derelict Land Clearance Areas Order 1970 as amended[^f00002] shall have effect subject to the amendment that the employment exchange areas of Chesterfield, Clay Cross, Eckington and Staveley shall be deleted from the Schedule thereto.
+
+Michael Meacher
+
+Parliamentary Under-Secretary of State for Industry
+
+12th August 1974
+
+## SCHEDULE
+
+### PART 1 — NEW SPECIAL DEVELOPMENT AREAS
+
+Article 2
+
+The Merseyside Special Development Area being the whole of the Merseyside Development Area and consisting of the area designated by the Skelmersdale New Town (Designation) Order 1961 as varied by the Skelmersdale New Town (Designation) Amendment Order 1969 as the site of a proposed new town, and the employment exchange areas of:—
+
+- Birkenhead Group (Bebington, Birkenhead and Wallasey)
+- Ellesmere Port
+- Hoylake
+- Liverpool Group (Bootle, Crosby, Garston, Kirkby, Liverpool Old Swan, Regent Road (Liverpool) and Walton)
+- Neston
+- Prescot
+- Runcorn
+- St. Helens
+- Widnes
+
+The North West Wales Special Development Area being part of the Welsh Development Area and consisting of the employment exchange areas of:—
+
+- Blaenau Ffestiniog
+- Caernarvon
+- Bangor
+- Bethesda
+- Penygroes
+- Pwllheli
+- Porthmadog
+- Holyhead
+- Amlwch
+- Beaumaris
+- Llangefni
+
+### PART 2 — NEW DEVELOPMENT AREAS
+
+Article 3
+
+The employment exchange areas of Edinburgh, Leith and Portobello and the employment exchange areas of Barry, Cardiff, Llantwit Major and Penarth.
+
+### PART 3 — NEW INTERMEDIATE AREAS
+
+Article 4
+
+The employment exchange areas of Chesterfield, Clay Cross, Eckington and Staveley.
+
+For the purposes of this Schedule the employment exchange areas referred to above are areas for which an employment exchange has been established or maintained for the purposes of the Employment and Training Act 1948 as those areas exist on the date on which this Order comes into force.
+
+EXPLANATORY NOTE
+
+This Order designates the areas described in Part 1 of the Schedule as special development areas for the purposes of section 1 of the Industry Act 1972 in addition to those areas which were so designated by the Special Development Areas Order 1972 (S.I. 1972/1234) and specifies the areas described in Part 2 of the Schedule as development areas for the purposes of the Local Employment Act 1972 and of any other enactment referring to development areas in addition to those areas which were so specified by the Development Areas Order 1966 (S.I. 1966/1032).
+
+The Order also specifies the areas described in Part 3 of the Schedule as intermediate areas for the purposes of the Local Employment Act 1972 and of any other enactment referring to intermediate areas in addition to the areas which were so specified by the Intermediate Areas Order 1970 (S.I. 1970/308), the Intermediate Areas Order 1971 (S.I. 1971/329) and the Intermediate Areas and Derelict Land Clearance Areas Order 1972 (S.I. 1972/421).
+
+The Order contains a provision to the effect that in cases where regional development grant is payable only as a consequence of the Order no such grant shall be made to any person towards approved capital expenditure incurred by that person which has been defrayed before the date on which the Order comes into operation and that in relation to an area which is designated as a special development area by the Order no such grant shall be made at the rate of 22 per cent to any person towards such expenditure defrayed before that date.
+
+The Order amends the Intermediate Areas Order 1970 and the Intermediate Areas Order 1971 by deleting from the Schedules to those Orders the areas which are specified as development areas by this Order.
+
+The Order amends the Derelict Land Clearance Order 1970 (S.I. 1970/309) by deleting from the description of the North Midlands Derelict Land Clearance Area in the Schedule thereto the areas which are specified as intermediate areas by this Order.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. 1972/421 (1972 I, p. 1604).
+
+[^f00002]: Footnote: S.I. 1972/421 (1972 I, p. 1604).

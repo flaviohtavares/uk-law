@@ -1,0 +1,117 @@
+---
+title: The Products of Animal Origin (Third Country Imports) (England) (Amendment) Regulations 2007
+id: uksi/2007/1605
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2007-06-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/1605
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/1605/pdfs/uksiem_20071605_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/1605/pdfs/uksi_20071605_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/1605/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Products of Animal Origin (Third Country Imports) (England) (Amendment) Regulations 2007
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2007 No. 1605
+
+AGRICULTURE, ENGLAND
+
+The Products of Animal Origin (Third Country Imports) (England) (Amendment) Regulations 2007
+
+Made
+
+5th June 2007
+
+Laid before Parliament
+
+6th June 2007
+
+Coming into force
+
+7th June 2007
+
+The Secretary of State is designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community.
+
+Exercising the powers conferred on him by that section, he makes the following Regulations.
+
+## 1. Title, application and commencement
+
+(1) These Regulations may be cited as the Products of Animal Origin (Third Country Imports) (England) (Amendment) Regulations 2007.
+
+(2) These Regulations apply in England and come into force on 7th June 2007.
+
+## 2. Amendment
+
+(1) The Products of Animal Origin (Third Country Imports) (England) Regulations 2006[^f00003] are amended as follows.
+
+(2) In regulation 2 (interpretation), at the appropriate place, insert—
+
+> - “composite product” means a foodstuff intended for human consumption that contains both processed products of animal origin and products of plant origin and includes those products where the processing of primary product is an integral part of the production of the final product, but does not include foodstuffs containing any milk product that is derived from, and treated as provided for, countries not listed in Annex I to Commission Decision [2004/438/EC](https://www.legislation.gov.uk/european/decision/2004/0438) (laying down animal and public health and veterinary certifications conditions for introduction in the Community of heat-treated milk, milk-based products and raw milk intended for human consumption) (OJ No. L92, 12.4.2005, p. 47);
+
+.
+
+(3) In regulation 2 (interpretation), for the definition of “product” substitute—
+
+> - “product” means any product of animal origin listed in Chapter 2, 3, 4, 5, 12, 15, 16, 17, 19, 20, 21, 23, 28, 30, 31, 35, 41, 42, 43, 51 or 97 of the Table in Annex I to Commission Decision [2007/275/EC](https://www.legislation.gov.uk/european/decision/2007/0275) (concerning lists of animals and products to be subject to controls at border inspection posts under Council Directives [91/496/EEC](https://www.legislation.gov.uk/european/directive/1991/0496) and [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078))[^f00004], but does not include—
+>   - (a) composite products and foodstuffs listed in Annex II to Commission Decision [2007/275/EC](https://www.legislation.gov.uk/european/decision/2007/0275); or
+>   - (b) composite products not containing meat or meat products, where less than half of the product is processed product of animal origin, provided that such products are—
+>     - (i) shelf-stable at ambient temperature or have clearly undergone, in their manufacture, a complete cooking or heat treatment process throughout their substance, so that any raw product is denatured;
+>     - (ii) clearly identified as intended for human consumption;
+>     - (iii) securely packaged or sealed in clean containers; and
+>     - (iv) accompanied by a commercial document and labelled in an official language of a member State, so that that document and labelling together give information on the nature, quality and number of packages of the composite products, the country of origin, the manufacturer and the ingredient;
+
+.
+
+(4) For paragraph (8) of regulation 4 (exemption for authorised products and personal imports) substitute—
+
+> (8) In this regulation “meat”, “meat products”, “milk” and “milk products” mean products of those types listed in Chapters 2 and 4 of the Table in the Annex to Commission Decision [2007/275/EC](https://www.legislation.gov.uk/european/decision/2007/0275).
+
+.
+
+(5) In Schedule 1 (import conditions), Part VIII (miscellaneous products), after paragraph 19 insert—
+
+> **20. Composite products**
+>
+> Commission Decision 2007/275 (concerning lists of animals and products to be subject to controls at border inspection posts under Council Directive 91/496 and [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078)) (OJ No. L166, 4.5.2007, p. 9).
+
+.
+
+Ben Bradshaw
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+5th June 2007
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Products of Animal Origin (Third Country Imports) (England) Regulations 2006 ([S.I. 2006/2841](https://www.legislation.gov.uk/uksi/2006/2841)) (“the principal Regulations”). The Regulations give effect to Commission Decision 2007/275 (concerning lists of animals and products to be subject to controls at border inspection posts under Council Directive 91/496 and [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078)) (OJ No. L166, 4.5.2007, p. 9).
+
+Commission Decision [2007/275/EC](https://www.legislation.gov.uk/european/decision/2007/0275) specifies the products of animal origin from third countries to which the principal Regulations and Council Directive [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) (laying down the principles governing the organisation of veterinary checks on products entering the Community from third countries) (OJ No. L24, 30.1.98, p. 9) apply. The products are meat, fish (including shellfish), milk, and products made from these, together with egg products, honey and honey products, composite food products and a large number of animal by-products, including casings, skins, bones and blood.
+
+Regulation 2(2) and (3) extends the ambit of the principal Regulations to cover composite products.
+
+A full impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: [S.I. 2006/2841](https://www.legislation.gov.uk/uksi/2006/2841).
+
+[^f00004]: Footnote: OJ No. L116, 4.5.2007, p. 9.

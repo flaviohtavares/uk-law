@@ -1,0 +1,336 @@
+---
+title: The Motorways Traffic (Scotland) Regulations 1995
+id: uksi/1995/2507
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1995-09-19'
+text_date: '2006-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/uksi/1995/2507
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/2507/data.pdf
+pending_changes: 9
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Motorways Traffic (Scotland) Regulations 1995
+
+> **Warning: changes not yet applied to this text (9).** Text as at 2006-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/1995/2507
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+1995 No.2507 (S.183)
+
+ROAD TRAFFIC
+
+SPECIAL ROADS
+
+The Motorways Traffic (Scotland) Regulations 1995
+
+Made
+
+19th September 1995
+
+Laid before Parliament
+
+27th September 1995
+
+Coming into force
+
+23rd October 1995
+
+The Secretary of State, in exercise of the powers conferred on him by section 17(2) and (3) of the Road Traffic Regulation Act 1984[^f00001], and all other powers enabling him in that behalf, and after consultation with such representative organisations as he thought fit in accordance with section 134(2) of that Act[^f00002], hereby makes the following Regulations:[^key-d1d18fb5b6cd0da4e696b7ce368af5dc]
+
+## 1. Citation, commencement, extent and revocation[^key-1066bb75d2416012c0ac710a4aeecf78]
+
+(1) These Regulations may be cited as the Motorways Traffic (Scotland) Regulations 1995 and shall come into force on 23rd October 1995.
+
+(2) These Regulations shall extend to Scotland only.
+
+(3) The Motorways Traffic (Scotland) Regulations 1964[^f00003] and the Motorways Traffic (Scotland) (Amendment) Regulations 1968[^f00004] are hereby revoked.
+
+## 2. Interpretation[^key-e2dcf8969d64165e4eaa7be2e240f9fa]
+
+(1) In these Regulations—
+
+- “the 1984 Act” means the Road Traffic Regulation Act 1984;
+- “carriageway” means that part of the motorway which—
+  - (a) is provided for the regular passage of vehicular motor traffic along the motorway; and
+  - (b) where a hard shoulder is provided, has the approximate position of its left-hand side, when facing in the direction in which vehicles may be driven in accordance with regulation 5 below, marked with a traffic sign of the type shown in diagrams 1012\\1 or 1012.2 in Schedule 6 to the Traffic Signs Regulations and General Directions 1994[^f00005];
+- “central reservation” means that part of the motorway which separates the carriageway to be used by vehicles travelling in one direction from the carriageway to be used by vehicles travelling in the opposite direction;
+- “emergency layby” means a part of the motorway which is designed take the weight of a vehicle, is adjacent to and situated on the left hand side of the carriageway, when facing in the direction in which vehicles may be driven in accordance with regulation 5 below, and which is marked with a traffic sign of the type shown in Scottish Development Department drawing number W(S)20[^f00006];
+- “excluded traffic” means traffic which is not traffic of Classes I or II;
+- “hard shoulder” means a part of the motorway which is adjacent to and situated on the left-hand side of the carriageway, when facing in the direction in which vehicles may be driven in accordance with regulation 5 below, and which is designed to take the weight of a vehicle;
+- “motorway” means any road or part of a road to which these Regulations apply by virtue of regulation 3 below;
+- “verge” means any part of the motorway which is not a carriageway, a hard shoulder, an emergency layby or a central reservation.
+
+(2) A vehicle shall be treated for the purposes of any provision of these Regulations as being on any part of a motorway specified in that provision if any part of the vehicle (whether it is at rest or not) is on the part of the motorway so specified.
+
+(3) Any provision of these Regulations containing any prohibition or restriction relating to the driving, moving or stopping of a vehicle, or to its remaining at rest, shall be construed as a provision that no person shall use a motorway by driving, moving or stopping the vehicle or by causing or permitting it to be driven or moved or to stop or remain at rest, in contravention of that prohibition or restriction.
+
+(4) In these Regulations references to numbered classes of traffic are references to the classes of traffic set out in Schedule 3 to the Roads (Scotland) Act 1984[^f00007].
+
+## 3. Application[^key-4475400b45a8b4e3a3456f3fb4c7b1d5]
+
+Subject to section 17(5)[^f00008] of the 1984 Act, these Regulations apply to every special road or part of a special road which can be used only by traffic of Classes I or II , except those special roads described in the Schedule to these Regulations[^key-e570fb689222a5586d57158d8cc680d1].
+
+## 4. Vehicles to be driven on the carriageway only[^key-c0bafcd36abbd12041c2913d61da01c7]
+
+Subject to the following provisions of these Regulations, no vehicle shall be driven on any part of the motorway which is not a carriageway.
+
+## 5. Direction of driving[^key-4d32305fbf7714097627301d5f5ee687]
+
+(1) Where there is a traffic sign indicating that there is no entry to a carriageway at a particular place, no vehicle shall be driven or moved on to that carriageway at that place.
+
+(2) Where there is a traffic sign indicating that there is no left or right turn into a carriageway at a particular place, no vehicle shall be so driven or moved as to cause it to turn to the left or (as the case may be) to the right into that carriageway at that place.
+
+(3) Every vehicle on a length of carriageway which is contiguous to a central reservation, shall be driven in such a direction that the central reservation is at all times on the right-hand side of the vehicle.
+
+(4) Where traffic signs are so placed that there is a length of carriageway (being a length which is not contiguous to a central reservation) which can be entered at one end only by vehicles driven in conformity with paragraph (1) of this regulation, every vehicle on that length of carriageway shall be driven in such a direction only as to cause it to proceed away from that end of that length of carriageway towards the other end thereof.
+
+(5) Without prejudice to the foregoing provisions of this regulation, no vehicle which—
+
+- (a) is on a length of carriageway on which vehicles are required by any of the foregoing provisions of this regulation to be driven in one direction only and is proceeding in or facing that direction, or
+- (b) is on any other length of carriageway and is proceeding in or facing one direction,
+
+shall be driven or moved so as to cause it to turn and proceed in or face the opposite direction.
+
+## 6. Restriction on stopping[^key-28c4fb001426dce5a9c539c7c7b371d2]
+
+(1) Subject to the following provisions of this regulation, no vehicle shall stop or remain at rest on the carriageway.
+
+(2) Where it is necessary for a vehicle which is being driven on a carriageway to be stopped while it is on a motorway—
+
+- (a) by reason of a breakdown or mechanical defect or lack of fuel, oil or water, required for the vehicle; or
+- (b) by reason of any accident, illness or other emergency; or
+- (c) to permit any person carried in or on the vehicle to recover or move any object which has fallen on a motorway; or
+- (d) to permit any person carried in or on the vehicle to give help which is required by any other person in any of the circumstances specified in the foregoing provisions of this paragraph,
+
+the vehicle shall, as soon and insofar as is reasonably practicable and safe, be driven or moved off the carriageway on to, and may stop and remain at rest on, any hard shoulder which is contiguous to that carriageway or in an emergency layby.
+
+(3) A vehicle—
+
+- (a) which is at rest on a hard shoulder or in an emergency layby shall so far as is reasonably practicable be allowed to remain at rest there in such a position only that no part of it or of the load carried thereby shall obstruct or be a cause of danger to vehicles using the carriageway;
+- (b) shall not remain at rest on a hard shoulder or in an emergency layby for longer than is necessary in the circumstances or for the purposes specified in paragraph (2) of this regulation.
+
+(4) Nothing in the foregoing provisions of this regulation shall preclude a vehicle from stopping or remaining at rest on a carriageway while it is prevented from proceeding along the carriageway by the presence of any other vehicle or any person or object.
+
+## 7. Restriction on reversing[^key-c8ad738c8646fd8c48792fd7e6111ea1]
+
+No vehicle on a motorway shall be driven or moved backwards except insofar as it is necessary to back the vehicle to enable it to proceed forwards or to be connected to any other vehicle.
+
+## 8. Restriction on the use of hard shoulders or emergency laybys[^key-590a5df11cfe611a61d7216f7f30c8e7]
+
+No vehicle shall be driven or moved or stopped or remain at rest on any hard shoulder or in an emergency layby except in accordance with paragraphs (2) and (3) of regulation 6 above.
+
+## 9. Vehicles not to use the central reservation or verge[^key-c8d18e6a34b65fd3dc7f8a52c5e2bb0f]
+
+No vehicle shall be driven or moved or stopped or remain at rest on a central reservation or verge.
+
+## 10. Vehicles not to be driven by learner drivers[^key-5e76f1c3c99952ea038520eceaf611d6]
+
+(1) No motor vehicle shall be driven on a motorway by a person who is authorised to drive that vehicle only by virtue of his being a holder of a provisional licence under section 97(2) of the Road Traffic Act 1988[^f00009], unless since the date of coming into force of the said provisional licence that person has passed a test prescribed under section 89 of that Act[^f00010] sufficient to entitle him under that Act to be granted a licence, other than a provisional licence, authorising him to drive that vehicle on a road.
+
+(2) Paragraph (1) above does not apply to a large goods vehicle or to a passenger-carrying vehicle.
+
+(3) In this regulation, “large goods vehicle” and “passenger-carrying vehicle” have the meanings given by section 121[^f00011] of the Road Traffic Act 1988.
+
+## 11. Restriction on use of right-hand lane[^key-c51d728edf3dff870cdaa1f616015867]
+
+(1) This regulation applies to—
+
+- (a) a goods vehicle having a maximum laden weight exceeding 7.5 tonnes,
+- (aa)[^key-dafa90d03f80cc58b827767d1a467fa4] a goods vehicle—
+  - (i) having a maximum laden weight exceeding 3.5 tonnes but not exceeding 7.5 tonnes, and
+  - (ii) to which regulation 36B of the Road Vehicles (Construction and Use) Regulations 1986 applies or would apply but for paragraph (14)(a) or (b) of that regulation;
+- (b)[^key-bf5c697df7df6db0dc177da4aba58d16] a passenger vehicle which is constructed or adapted to carry more than eight seated passengers in addition to the driver, the maximum laden weight of which exceeds 7.5 tonnes;
+- (bb)[^key-bd077d87f333163049826a7a9688bb9c] a passenger vehicle—
+  - (i) which is constructed or adapted to carry more than eight seated passengers in addition to the driver, the maximum laden weight of which does not exceed 7.5 tonnes, and
+  - (ii) to which regulation 36A of the Road Vehicles (Construction and Use) Regulations 1986 (Speed limiters) applies or would apply but for paragraph (13)(a) or (b) of that regulation;
+- (c) a motor vehicle drawing a trailer; and
+- (d) a vehicle which is a motor tractor, a light locomotive or a heavy locomotive.
+
+(2) Subject to the provisions of paragraphs (3) and (4) below, no vehicle to which this regulation applies shall be driven, or moved, or stopped, or remain at rest on the right-hand lane of a length of carriageway which has 3 or more traffic lanes at any place where all the lanes are open for use by traffic proceeding in the same direction.
+
+(3) The prohibition contained in paragraph (2) above shall not apply to a vehicle—
+
+- (a) while it is being driven on any right-hand lane such as is mentioned in that paragraph insofar as it is necessary for the vehicle to be driven to enable it to pass another vehicle which is carrying or drawing a load of exceptional width; or
+- (b) so as to prevent that vehicle joining or leaving the motorway by means of a road giving access to or from that motorway on the right hand side of the carriageway.
+
+(4) Nothing in this regulation shall have effect so as to require a vehicle to change lane during a period when it would not be reasonably practicable for it to do so without involving danger or injury to any person or inconvenience to other traffic.
+
+(5)[^key-ec4c18d191067903c6bf1bedc53d8bcf] In this regulation “goods vehicle”, “passenger vehicle” and “maximum laden weight” have the same meanings as in Schedule 6 to the 1984 Act.
+
+## 12. Restrictions affecting animals carried in vehicles[^key-436cb5c5e009e6b7bc243c9a07141742]
+
+The person in charge of any animal which is carried by a vehicle using a motorway shall, so far as is practicable, secure that—
+
+- (a) the animal shall not be removed from, or permitted to leave, the vehicle while the vehicle is on a motorway; and
+- (b) if it escapes from, or it is necessary for it to be removed from, or permitted to leave, the vehicle—
+  - (i) it shall not go or remain on any part of the motorway other than a hard shoulder, an emergency layby or a verge; and
+  - (ii) it shall whilst it is not on, or in, the vehicle be held on a lead or otherwise kept under proper control.
+
+## 13. Use of motorway by excluded traffic[^key-29b2ed0eba3ac64e9a46139b43839308]
+
+(1) Excluded traffic is hereby authorised to use a motorway on the occasions, or in the emergencies, and to the extent, specified in the following provisions of this paragraph, that is to say—
+
+- (a) traffic of Classes III or IV may use a motorway for the maintenance, repair, cleaning or clearance of any part of a motorway or for the erection, laying, placing, maintenance, testing, alteration, repair or removal of any structure, works or apparatus in, on, under or over any part of a motorway;
+- (b) pedestrians may use a motorway—
+  - (i) when it is necessary for them to do so as a result of an accident or emergency or as a result of a vehicle being at rest on a motorway in any of the circumstances specified in paragraph (2) of regulation 6 above, or
+  - (ii) in any other circumstances specified in sub-paragraphs (b), (d), (e) or (f) of paragraph (1) of regulation 14 below.
+
+(2) The Secretary of State may authorise the use of a motorway by any excluded traffic on occasion, or in emergency, or for the purpose of enabling such traffic to cross a motorway, or to secure access to premises abutting on or adjacent to a motorway.
+
+(3) Where by reason of any emergency the use of any road (not being a motorway) by any excluded traffic is rendered impossible or unsuitable, the Chief Constable of Police for the area in which the motorway or any part of the motorway is situated, or any officer of, or above, the rank of superintendent authorised in that behalf by that Chief Constable, may—
+
+- (a) authorise any excluded traffic to use that motorway, or that part of a motorway, as an alternative road for the period during which the use of the other road by such traffic continues to be impossible or unsuitable, and
+- (b) relax any prohibition or restriction imposed by these Regulations insofar as he considers it necessary to do so in connection with the use of that motorway or that part of a motorway by excluded traffic in pursuance of any such authorisation as aforesaid.
+
+## 14. Exceptions and relaxations[^key-d64cd4ce2db95cf25b421cec0a91d10d]
+
+(1) Nothing in the foregoing provisions of these Regulations shall preclude any person from using a motorway otherwise than in accordance with those provisions in any of the following circumstances, that it to say—
+
+- (a) where he does so in accordance with any direction or permission given by a constable in uniform or in accordance with the indication given by a traffic sign;
+- (b) where in accordance with any permission given by a constable, he does so for the purpose of investigating any accident which has occurred on or near a motorway;
+- (c) where it is necessary for him to do so to avoid or prevent an accident or to obtain or give help required as a result of an accident or emergency, and he does so in such manner as to cause as little danger or inconvenience as possible to other traffic on a motorway;
+- (d) where he does so in the exercise of his duty as a constable or as a member of [^key-a915d22f884812b7b22deedce4e3844a]... an ambulance service or as an employee of a relevant authority (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5)) employed for the purposes of that authority[^key-02151a68366117cf830196ec3f7bb601];
+- (da)[^key-52ecc0deef23d575cf9246ad1c83e580] so far as relating to the functions of the Serious Organised Crime Agency which are exercisable in or as regards Scotland and which relate to reserved matters (within the meaning of the Scotland Act 1998), where he does so as a member of the Serious Organised Crime Agency for the purposes of that Agency;
+- (db)[^key-a6b73dd22d444e17bfe427f4d053b1b8] so far as relating to the functions of the Serious Organised Crime Agency which are exercisable in or as regards Scotland and which do not (within the meaning of the Scotland Act 1998) relate to reserved matters, where that person does so as a member of the Serious Organised Crime Agency for the purposes of that Agency;
+- (e) where it is necessary for him to do so to carry out in an efficient manner—
+  - (i) the maintenance, repair, cleaning, clearance, alteration or improvement of any part of the motorway, or
+  - (ii) the removal of any vehicle from any part of a motorway, or
+  - (iii) the erection, laying, placing, maintenance, testing, alteration, repair or removal of any structure, works or apparatus in, on, under or over any part of a motorway; or
+- (f) where it is necessary for him to do so in connection with any inspection, survey, investigation or census which is carried out in accordance with any general or special authority granted by the Secretary of State.
+
+(2) Without prejudice to the foregoing provisions of these Regulations, the Secretary of State may relax any prohibition or restriction imposed by these Regulations.
+
+James Douglas-Hamilton
+
+Minister of State, Scottish Office
+
+St Andrew’s House,
+
+Edinburgh
+
+19th September 1995
+
+## SCHEDULE — SPECIAL ROADS EXCEPTED FROM THE APPLICATION OF THESE REGULATIONS[^key-cf863689515384171c3555addb19412c]
+
+Regulation 3
+
+**1.** The special road authorised to be provided by the Edinburgh-Berwick upon Tweed Trunk Road (A1) Old Craighall Roundabout to East of Haddington Special Road Scheme 1994[^f00004].
+
+**2.** The special road authorised to be provided by the Edinburgh-Berwick upon Tweed Trunk Road (A1) Old Craighall Roundabout to East of Haddington Special Road Scheme (No.2) 1994[^f00005].
+
+**3.**[^key-54c3bf4c275c3819a482167ecd88f40f] The special road authorised to be provided by the A1 Trunk Road (East of Haddington to Dunbar) Special Road Scheme 2000.
+
+(This note is not part of the Regulations)
+
+These Regulations, which re-enact the Motorways Traffic (Scotland) Regulations 1964 and the Motorways Traffic (Scotland) (Amendment) Regulations 1968 with amendments, make provision for the regulation of traffic using special roads provided under the Roads (Scotland) Act 1984 in cases where such roads can only be used by traffic of Classes I and II specified in Schedule 3 to that Act, such special roads being referred to in these Regulations as “motorways”.
+
+Regulation 2 deals with interpretation and includes the definitions of “hard shoulder” and “emergency layby” which are a terms not previously used in Regulations relating to motorways in Scotland.
+
+Regulation 3 provides that the Regulations only apply to special roads which can only be used by traffic of Classes I or II of Schedule 3 to the Roads (Scotland) Act 1984.
+
+The Regulations provide that except in certain specified cases—
+
+- (a) vehicles are to be driven only on the carriageways (regulation 4);
+- (b) one-way driving is to be observed by vehicles using the carriageways (regulation 5);
+- (c) vehicles are not to stop on the carriageways (regulation 6);
+- (d) reversing on the motorway is prohibited (regulation 7);
+- (e) the hard shoulders or emergency laybys are not to be used by vehicles (regulation 8);
+- (f) vehicles are prohibited from being on the central reservations or verges (regulation 9);
+- (g) vehicles are not to be driven on motorways by learner drivers (regulation 10);
+- (h) any goods vehicle having a maximum laden weight exceeding 7.5 tonnes, certain passenger carrying vehicles, any motor vehicle drawing a trailer, and any motor tractor, light locomotive or heavy locomotive are not to use the right-hand lane of a three lane or more carriageway at any place where all lanes are open for use (regulation 11);
+- (i) animals carried in a vehicle are as far as practicable to be kept in the vehicle or, if they are not in the vehicle, are not to go or remain on the motorway other than on the hard shoulder, emergency layby or verge and are to be kept under proper control (regulation 12).
+
+Regulation 13 provides that certain classes of traffic not ordinarily authorised to use motorways may do so in certain specified circumstances and also makes provision for enabling such traffic to be authorised to use a motorway in particular cases.
+
+Regulation 14 provides for certain general exceptions from the provisions of the Regulations and authorises the Secretary of State to relax any prohibition or restriction imposed by the Regulations.
+
+The principal changes from the previous Regulations are:
+
+- restricting the use of hard shoulders or emergency laybys (regulation 8);
+- allowing learner drivers of large goods vehicles and passenger-carrying vehicles to drive on motorways (regulation 10);
+- amending the classes of vehicle which may not use the right-hand lane of a 3 lane carriageway subject to exceptions and adding two further exceptions in “lane gain” situations and in situations where access to and from the motorway is by a road on the right hand side of the carriageway (regulation 11).
+
+## Annotations
+
+[^f00001]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27); section 17(2) was amended by the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22) (“the 1991 Act”), Schedule 8, paragraph 28(3) and by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 4, paragraph 25 and Schedule 8.
+
+[^f00002]: Footnote: Section 134(2) was amended by the Roads (Scotland) Act [1984 (c. 54)](https://www.legislation.gov.uk/ukpga/1984/54), Schedule 7, paragraph 4 and by the 1991 Act, Schedule 8, paragraph 77.
+
+[^key-d1d18fb5b6cd0da4e696b7ce368af5dc]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1995/2507) excluded (1.3.1998) by [The Traffic Signs (Temporary Obstructions) Regulations 1997 (S.I. 1997/3053)](https://www.legislation.gov.uk/uksi/1997/3053), [regs. 1](https://www.legislation.gov.uk/uksi/1997/3053/regulation/1), [18](https://www.legislation.gov.uk/uksi/1997/3053/regulation/18) (with [reg. 17](https://www.legislation.gov.uk/uksi/1997/3053/regulation/17))
+
+[^key-1066bb75d2416012c0ac710a4aeecf78]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+
+[^f00003]: Footnote: [S.I. 1964/1002](https://www.legislation.gov.uk/uksi/1964/1002), amended by [S.I. 1968/960](https://www.legislation.gov.uk/uksi/1968/960).
+
+[^f00004]: Footnote: [S.I. 1968/960](https://www.legislation.gov.uk/uksi/1968/960).
+
+[^key-e2dcf8969d64165e4eaa7be2e240f9fa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/2507/regulation/2) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+
+[^f00005]: Footnote: [S.I. 1994/1519](https://www.legislation.gov.uk/uksi/1994/1519).
+
+[^f00006]: Footnote: Copies of W(S)20 may be obtained free of charge from the Scottish Office Industry Department, Victoria Quay, Edinburgh, EH6 6QQ.
+
+[^f00007]: Footnote: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
+
+[^key-4475400b45a8b4e3a3456f3fb4c7b1d5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/2507/regulation/3) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+
+[^f00008]: Footnote: Section 17(5) was substituted by the 1991 Act, Schedule 8, paragraph 28(4).
+
+[^key-e570fb689222a5586d57158d8cc680d1]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1995/2507/regulation/3) inserted (15.11.1996) by [The Motorways Traffic (Scotland) Amendment Regulations 1996 (S.I. 1996/2664)](https://www.legislation.gov.uk/uksi/1996/2664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/2664/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/1996/2664/regulation/3/a)
+
+[^key-c0bafcd36abbd12041c2913d61da01c7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1995/2507/regulation/4) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+
+[^key-4d32305fbf7714097627301d5f5ee687]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/2507/regulation/5) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+
+[^key-28c4fb001426dce5a9c539c7c7b371d2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/2507/regulation/6) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+
+[^key-c8ad738c8646fd8c48792fd7e6111ea1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/2507/regulation/7) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+
+[^key-590a5df11cfe611a61d7216f7f30c8e7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1995/2507/regulation/8) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+
+[^key-c8d18e6a34b65fd3dc7f8a52c5e2bb0f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1995/2507/regulation/9) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+
+[^key-5e76f1c3c99952ea038520eceaf611d6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1995/2507/regulation/10) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+
+[^f00009]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
+
+[^f00010]: Footnote: Section 89 was amended by the Road Traffic (Driver Licensing and Information Systems) Act [1989 (c. 22)](https://www.legislation.gov.uk/ukpga/1989/22), sections 4 and 6 and by the Road Traffic Act 1991, Schedule 4, paragraph 63.
+
+[^f00011]: Footnote: Part IV which includes section 121 was substituted by the Road Traffic (Driver Licensing and Information Systems) Act 1989, Schedule 2.
+
+[^key-c51d728edf3dff870cdaa1f616015867]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1995/2507/regulation/11) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+
+[^key-dafa90d03f80cc58b827767d1a467fa4]: Textual amendment: [Reg. 11(1)(aa)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/11/1/aa) inserted (1.1.2005) by [The Motorways Traffic (Scotland) (Amendment) (No.2) Regulations 2004 (S.I. 2004/3261)](https://www.legislation.gov.uk/uksi/2004/3261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3261/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2004/3261/regulation/3/2/a)
+
+[^key-bf5c697df7df6db0dc177da4aba58d16]: Textual amendment: [Reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/11/1/b) substituted (1.1.1996) by [The Motorways Traffic (Scotland) Amendment Regulations 1995 (S.I. 1995/3070)](https://www.legislation.gov.uk/uksi/1995/3070), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/3070/regulation/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/1995/3070/regulation/2/1/a)
+
+[^key-bd077d87f333163049826a7a9688bb9c]: Textual amendment: [Reg. 11(1)(bb)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/11/1/bb) inserted (1.1.2005) by [The Motorways Traffic (Scotland) (Amendment) (No.2) Regulations 2004 (S.I. 2004/3261)](https://www.legislation.gov.uk/uksi/2004/3261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3261/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2004/3261/regulation/3/2/b)
+
+[^key-ec4c18d191067903c6bf1bedc53d8bcf]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/11/5) substituted (1.1.1996) by [The Motorways Traffic (Scotland) Amendment Regulations 1995 (S.I. 1995/3070)](https://www.legislation.gov.uk/uksi/1995/3070), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/3070/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1995/3070/regulation/2/2)
+
+[^key-436cb5c5e009e6b7bc243c9a07141742]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1995/2507/regulation/12) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+
+[^key-29b2ed0eba3ac64e9a46139b43839308]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1995/2507/regulation/13) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+
+[^key-d64cd4ce2db95cf25b421cec0a91d10d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1995/2507/regulation/14) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+
+[^key-a915d22f884812b7b22deedce4e3844a]: Textual amendment: Words in [reg. 14(1)(d)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/14/1/d) revoked (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) (No. 2) Order 2005 (S.S.I. 2005/344)](https://www.legislation.gov.uk/ssi/2005/344), [art. 1](https://www.legislation.gov.uk/ssi/2005/344/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/344/schedule/2); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2](https://www.legislation.gov.uk/ssi/2005/392/article/2)
+
+[^key-02151a68366117cf830196ec3f7bb601]: Textual amendment: Words in [reg. 14(1)(d)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/14/1/d) inserted (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) (No. 2) Order 2005 (S.S.I. 2005/344)](https://www.legislation.gov.uk/ssi/2005/344), [art. 1](https://www.legislation.gov.uk/ssi/2005/344/article/1), [sch. 1 para. 17](https://www.legislation.gov.uk/ssi/2005/344/schedule/1/paragraph/17); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2](https://www.legislation.gov.uk/ssi/2005/392/article/2)
+
+[^key-52ecc0deef23d575cf9246ad1c83e580]: Textual amendment: [Reg. 14(1)(da)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/14/1/da) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/11)
+
+[^key-a6b73dd22d444e17bfe427f4d053b1b8]: Textual amendment: [Reg. 14(1)(db)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/14/1/db) inserted (S.) (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments) (Scotland) Order 2006 (S.S.I. 2006/129)](https://www.legislation.gov.uk/ssi/2006/129), [art. 1](https://www.legislation.gov.uk/ssi/2006/129/article/1), [sch. para. 4](https://www.legislation.gov.uk/ssi/2006/129/schedule/paragraph/4)
+
+[^key-cf863689515384171c3555addb19412c]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1995/2507/schedule) inserted (15.11.1996) by [The Motorways Traffic (Scotland) Amendment Regulations 1996 (S.I. 1996/2664)](https://www.legislation.gov.uk/uksi/1996/2664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/2664/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/1996/2664/regulation/3/b)
+
+[^key-54c3bf4c275c3819a482167ecd88f40f]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1995/2507/schedule/paragraph/3) inserted (coming into force in accordance with reg. 1(1) of the amending S.S.I.) by [The Motorways Traffic (Scotland) Amendment Regulations 2004 (S.S.I. 2004/53)](https://www.legislation.gov.uk/ssi/2004/53), [reg. 3](https://www.legislation.gov.uk/ssi/2004/53/regulation/3)

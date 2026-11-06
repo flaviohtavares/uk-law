@@ -1,0 +1,47 @@
+---
+title: Education and Skills Act 2008, section 139
+act: Education and Skills Act 2008
+section: '139'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2008/25/section/139
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Education and Skills Act 2008, section 139
+
+> **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 139. Continuity of the law[^key-fc9ed9e0f40da549e6ed7d81804f5177]
+
+*Extent: E+W*
+
+(1) This section applies where—
+
+- (a) by virtue of one or more amendments made by paragraphs 15 to 24 of Schedule 1, a provision of or made under Chapter 1 of Part 10 of the Education Act 2002 (c. 32) (“the old provision”) that applied in relation to independent schools in England has ceased so to apply, and
+- (b) a provision of or made under this Chapter (“**the new provision**”) re-enacts, with or without modification, the old provision as it so applied.
+
+(2) The amendment or amendments mentioned in subsection (1)(a) and the re-enactment mentioned in subsection (1)(b) do not affect the continuity of the law.
+
+(3) Anything done (including any subordinate legislation made), or having effect as if done, under or for the purposes of the old provision that—
+
+- (a) could have been done under or for the purposes of the new provision (had the new provision then been in force), and
+- (b) is in force or effective immediately before the coming into force of the new provision,
+
+has effect from that time as if done under or for the purposes of the new provision.
+
+(4) Any reference (express or implied) in this Chapter or any other enactment, instrument or document to the new provision is to be construed (so far as the context permits) as including, as respects times, circumstances or purposes in relation to which the old provision had effect, a reference to the old provision.
+
+(5) Any reference (express or implied) in any enactment, instrument or document to the old provision is to be construed (so far as the context permits), as respects times, circumstances and purposes in relation to which the new provision has effect, as being or (according to the context) including a reference to the new provision.
+
+(6) This section has effect subject to any specific transitional provision of or made under this Act.
+
+(7) In this section “**subordinate legislation**” has the same meaning as in the Interpretation Act 1978 (c. 30).
+
+## Annotations
+
+[^key-fc9ed9e0f40da549e6ed7d81804f5177]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2008/25/section/139) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(w)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/w)

@@ -1,0 +1,54 @@
+---
+title: Corporation Tax Act 2009, section 131
+act: Corporation Tax Act 2009
+section: '131'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/4/section/131
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2009, section 131
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 131. Incidental costs of issuing qualifying shares
+
+*Extent: E+W+S+N.I.*
+
+(1) In calculating the profits of a trade carried on by a building society, a deduction is allowed for incidental costs of obtaining finance by means of issuing shares in the society if—
+
+- (a) the shares are qualifying shares for the purposes of section 117(4) of TCGA 1992, and
+- (b) the condition in subsection (2) is met.
+
+(2) The condition is that the amount of any—
+
+- (a) dividend or other distribution, or
+- (b) interest,
+
+payable in respect of the shares is deductible in calculating, for corporation tax purposes, the profits of the society's trade.
+
+(3) But a deduction is not allowed by virtue of subsection (1) so far as the costs fall to be brought into account as debits for the purposes of Part 5 (loan relationships).
+
+(4) “**Incidental costs of obtaining finance**” means expenses—
+
+- (a) which are incurred on fees, commissions, advertising, printing and other incidental matters, and
+- (b) which are incurred wholly and exclusively for the purpose of obtaining the finance, providing security for it or repaying it.
+
+(5) Expenses incurred wholly and exclusively for the purpose of—
+
+- (a) obtaining finance, or
+- (b) providing security for it,
+
+are incidental costs of obtaining the finance even if it is not in fact obtained.
+
+(6) But the following are not incidental costs of obtaining finance—
+
+- (a) sums paid because of losses resulting from movements in the rate of exchange between different currencies,
+- (b) sums paid for the purpose of protecting against such losses,
+- (c) the cost of repaying qualifying shares so far as attributable to their being repayable at a premium or having been issued at a discount, and
+- (d) stamp duty.

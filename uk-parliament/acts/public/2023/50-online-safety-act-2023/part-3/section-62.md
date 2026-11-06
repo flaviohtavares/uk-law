@@ -1,0 +1,82 @@
+---
+title: Online Safety Act 2023, section 62
+act: Online Safety Act 2023
+section: '62'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/50/section/62
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Online Safety Act 2023, section 62
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 62. “Priority content that is harmful to children”[^key-ce36f8ee9d249e7b7ebdcdaf11d4e3ec]
+
+*Extent: E+W+S+N.I.*
+
+(1) “**Priority content that is harmful to children**” means content of any of the following kinds.
+
+(2) Content which is abusive and which targets any of the following characteristics—
+
+- (a) race,
+- (b) religion,
+- (c) sex,
+- (d) sexual orientation,
+- (e) disability, or
+- (f) gender reassignment.
+
+(3) Content which incites hatred against people—
+
+- (a) of a particular race, religion, sex or sexual orientation,
+- (b) who have a disability, or
+- (c) who have the characteristic of gender reassignment.
+
+(4) Content which encourages, promotes or provides instructions for an act of serious violence against a person.
+
+(5) Bullying content.
+
+(6) Content which—
+
+- (a) depicts real or realistic serious violence against a person;
+- (b) depicts the real or realistic serious injury of a person in graphic detail.
+
+(7) Content which—
+
+- (a) depicts real or realistic serious violence against an animal;
+- (b) depicts the real or realistic serious injury of an animal in graphic detail;
+- (c) realistically depicts serious violence against a fictional creature or the serious injury of a fictional creature in graphic detail.
+
+(8) Content which encourages, promotes or provides instructions for a challenge or stunt highly likely to result in serious injury to the person who does it or to someone else.
+
+(9) Content which encourages a person to ingest, inject, inhale or in any other way self-administer—
+
+- (a) a physically harmful substance;
+- (b) a substance in such a quantity as to be physically harmful.
+
+(10) In subsections (2) and (3)—
+
+- (a) “**disability**” means any physical or mental impairment;
+- (b) “**race**” includes colour, nationality, and ethnic or national origins;
+- (c) references to religion include references to a lack of religion.
+
+(11) For the purposes of subsection (3), a person has the characteristic of gender reassignment if the person is proposing to undergo, is undergoing or has undergone a process (or part of a process) for the purpose of reassigning the person’s sex by changing physiological or other attributes of sex, and the reference to gender reassignment in subsection (2) is to be construed accordingly.
+
+(12) For the purposes of subsection (5) content may, in particular, be “bullying content” if it is content targeted against a person which—
+
+- (a) conveys a serious threat;
+- (b) is humiliating or degrading;
+- (c) forms part of a campaign of mistreatment.
+
+(13) In subsection (6) “person” is not limited to a real person.
+
+(14) In subsection (7) “animal” is not limited to a real animal.
+
+## Annotations
+
+[^key-ce36f8ee9d249e7b7ebdcdaf11d4e3ec]: Commencement: S. 62 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)

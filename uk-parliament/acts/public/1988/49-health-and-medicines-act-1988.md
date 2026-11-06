@@ -1,0 +1,1036 @@
+---
+title: Health and Medicines Act 1988
+id: ukpga/1988/49
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1988-11-15'
+text_date: '2022-07-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1988/49
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1988/49/pdfs/ukpga_19880049_en.pdf
+- http://www.legislation.gov.uk/ukpga/1988/49/data.pdf
+pending_changes: 12
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Health and Medicines Act 1988
+
+> **Warning: changes not yet applied to this text (12).** Text as at 2022-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/49
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+*Extent: E+W+S*
+
+Health and Medicines Act 1988
+
+1988 c. 49
+
+An Act to make further provision in relation to the National Health Service, the testing of sight and instruction in matters relating to health and welfare; to amend the Medicines Act 1968 and the Medicines Act 1971 and to empower the Secretary of State to make regulations about HIV testing kits and services.
+
+\[15th November 1988\]
+
+[^c862551]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## The General Practice Finance Corporation etc.
+
+*Extent: E+W+S*
+
+### 1. Vesting of property etc. of Corporation in a company nominated by the Secretary of State and dissolution of Corporation.
+
+(1)[^key-b1ab51098315dcb7f3579c556338fd77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-b1ab51098315dcb7f3579c556338fd77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-b1ab51098315dcb7f3579c556338fd77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-b1ab51098315dcb7f3579c556338fd77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-b1ab51098315dcb7f3579c556338fd77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-b1ab51098315dcb7f3579c556338fd77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-b1ab51098315dcb7f3579c556338fd77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-b1ab51098315dcb7f3579c556338fd77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-b1ab51098315dcb7f3579c556338fd77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-b1ab51098315dcb7f3579c556338fd77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11)[^key-b1ab51098315dcb7f3579c556338fd77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12)[^key-b1ab51098315dcb7f3579c556338fd77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(13)[^key-b1ab51098315dcb7f3579c556338fd77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(14) Schedule 1 to this Act shall have effect for the purpose of supplementing the provisions of this section.
+
+### 2. Powers of Secretary of State.[^key-2bfeec712390e54c289d1504bc5d9fe5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Corporation’s powers pending dissolution.[^key-5238d475d0afb5943e37617ed8303698]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Provisions relating to the successor company
+
+*Extent: E+W+S*
+
+### 4. Treasury guarantees.
+
+(1) At any time when the successor company is wholly owned by the Crown the Treasury may guarantee, in such manner and on such conditions as they think fit, the redemption or repayment of any stock issued or temporary loan raised by the successor company and the payment of interest on any such stock or loan.
+
+(2) Immediately after any guarantee is given under this section the Treasury shall lay a statement of the guarantee before each House of Parliament, and where any sum is issued for fulfilling such a guarantee or a guarantee such as is mentioned in subsection (6) below the Treasury shall, as soon as possible after the end of each financial year beginning with that in which the sum is issued and ending with that in which all liability in respect of the principal of the sum and in respect of interest thereon is finally discharged, lay before each House of Parliament a statement relating to that sum.
+
+(3) Any sums required by the Treasury for fulfilling any guarantee given or treated as given under this section shall be charged on and issued out of the Consolidated Fund.
+
+(4) If any sums are issued in fulfilment of any guarantee given or treated as given under this section, the successor company shall make to the Treasury, at such times and in such manner as the Treasury may from time to time direct, payments of such amounts as the Treasury may direct in or towards repayment of the sums so issued and payments of interest on what is outstanding for the time being in respect of sums so issued at such rates as the Treasury may direct.
+
+(5) Any sums received by the Treasury under this section shall be paid into the Consolidated Fund.
+
+(6) Any guarantee given by the Treasury under section 7 of the [^c862621]National Health Service Act 1966 with respect to a liability of the Corporation which becomes a liability of the successor company by virtue of section 1 above shall be treated as if it were a guarantee given under this section.
+
+(7) Any guarantee given or treated as given under this section shall be extinguished when the successor company ceases to be wholly owned by the Crown.
+
+(8) The successor company shall be regarded for the purposes of this Act as wholly owned by the Crown at any time when each of the issued shares in the company and the whole of any stock issued by it is held by, or by a nominee of, the Secretary of State.
+
+### 5. Statutory accounts of the successor company.
+
+(1) For the purposes of any statutory accounts of the successor company—
+
+- (a) the vesting effected by virtue of section 1 above—
+  - (i) shall be taken to have been a vesting of all the property, rights and liabilities (other than any excepted property, rights and liabilities) to which the Corporation was entitled or subject immediately before the end of the last complete financial year ending before the vesting effected by virtue of section 1 above; and
+  - (ii) shall be taken to have been effected immediately after the end of that year; and
+- (b) the value of any asset and the amount of any liability of the Corporation taken to have been vested in the successor company by virtue of paragraph (a) above shall be taken to be the value or (as the case may be) the amount assigned to that asset or liability for the purposes of the corresponding statement of accounts prepared by the Corporation in respect of that year in pursuance of section 8 of the [^c862631]National Health Service Act 1966.
+
+(2) For the purposes of any statutory accounts of the successor company the amount to be included in respect of any item shall be determined as if anything done by the Corporation (whether by way of acquiring, revaluing or disposing of any asset or incurring, revaluing or discharging any liability, or by carrying any amount to any provision or reserve, or otherwise) had been done by the successor company.
+
+Accordingly (but without prejudice to the generality of the preceding provision) the amount to be included from time to time in any reserves of the successor company as representing its accumulated realised profits shall be determined as if any profits realised and retained by the Corporation had been realised and retained by the successor company.
+
+(3) References in this section to the statutory accounts of the successor company are references to any accounts prepared by the successor company for the purposes of any provision of the Companies Act 2006[^key-d1f81c2f6a041463b0b4966a29419ea2]; and in this section “**complete financial year**” means a financial year ending with 31st March.
+
+### 6. Corporation tax.
+
+(1) Subject to subsection (2) below, if on the day specified under section 1(1) above the successor company is a company limited by shares which is wholly owned by the Crown, it shall be treated for all purposes of corporation tax as if it were the same person as the Corporation.
+
+(2) The successor company shall not by virtue of subsection (1) above be regarded as a body falling within section 170(12) of the Taxation of Chargeable Gains Act 1992[^c862661] (bodies established for carrying on industries or undertakings under national ownership or control).
+
+## Additional powers for financing Health Service
+
+*Extent: E+W+S*
+
+### 7. Extension of powers of Secretary of State for financing the Health Service.[^c862961]
+
+(1)[^c2342061][^c2342271] In order to make more income available for improving the health service (as defined in the National Health Service Act 2006[^key-83d3ce2f42ca5f4b09ff824e0d4bd21d] or the [^c863001]National Health Service (Scotland) Act 1978), the Secretary of State shall have the powers specified in subsection (2) below; but for the avoidance of doubt it is hereby declared that nothing in this section authorises him or any body to which he gives directions under subsection (3) below to disregard any enactment or rule of law or to override any person’s contractual or proprietary rights.
+
+(2)[^c863051][^key-3a8ee8c85e4d58db7e001434cdc6db7d][^key-3edf0da43fe87505f9c0f9fb707931d1][^key-cc42d4205e5d958e3c9306cb41ca7a3f] The powers mentioned in subsection (1) above are powers (exercisable outside as well as within Great Britain)[^c863061]—
+
+- (a) to acquire, produce, manufacture and supply goods;
+- (b) to acquire land by agreement and manage and deal with land;
+- (c) to supply accommodation to any person;
+- (d) to supply services to any person and to provide new services;
+- (e) to provide instruction for any person;
+- (f) to develop and exploit ideas and exploit intellectual property;
+- (g) to do anything whatsoever which appears to him to be calculated to facilitate, or to be conducive or incidental to, the exercise of any power conferred by this subsection; and
+- (h) to make such charge as he considers appropriate for anything that he does in the exercise of any such power and to calculate any such charge on any basis that he considers to be the appropriate commercial basis.
+
+(3) The Secretary of State may give directions (having regard to the existing work of voluntary bodies)—
+
+- (i) for the exercise of any of those powers by any body constituted under [^key-03aae036a7f5b249344f27aa97c4b066]... the [^c863101]National Health Service (Scotland) Act 1978; and
+- (ii) with respect to the manner in which any such body is to exercise any such power;
+
+and it shall be the duty of the body in question to comply with the directions.
+
+(4) The directions may provide that any power to which they relate shall be exercisable subject to any limitations specified in the directions.
+
+(5) The directions may be varied or revoked by subsequent directions.
+
+(6) The Secretary of State shall exercise the powers specified in subsection (2)(c) and (d) above only if and to the extent that he is satisfied that anything which he proposes to do in the exercise of those powers does not fall within section 65 of the National Health Service Act 1977 or section 57 of the National Health Service (Scotland) Act 1978.
+
+(7) The Secretary of State shall exercise the powers specified in subsection (2)(f) above only after consulting (to the extent that it appears to him to be practical) any person who appears to him to have an interest through his own previous research in the ideas or intellectual property in question as to whether he should exercise them and, if so, as to any financial arrangements.
+
+(7A)[^c863191] The power specified in paragraph (g) of subsection (2) above includes power for the Secretary of State—
+
+- (a) to form, or participate in the forming of, companies,
+- (b) to invest in companies (whether by acquiring assets, securities or rights or otherwise), and
+- (c) to provide loans and guarantees and make other kinds of financial provision to or in respect of companies,
+
+where it appears to him that to do so is calculated to facilitate, or to be conducive or incidental to, the exercise of any power conferred by that subsection.
+
+(7B) In subsection (7A) above “**companies**” means companies as defined in section 1(1) of the Companies Act 2006[^key-80ce14de6244bd9745e264075cbbd1c5]; and that subsection is without prejudice to—
+
+- (a) the generality of paragraph (g) of subsection (2) above, and
+- (b) any powers of the Secretary of State exercisable otherwise than by virtue of this section.
+
+(7C)[^key-d9fa4999e891d769304113526c94cceb] The power specified in paragraph (g) of subsection (2) above includes power for the Scottish Ministers—
+
+- (a) to form or participate in forming companies,
+- (b) to—
+  - (i) participate in companies,
+  - (ii) invest in companies (whether by acquiring assets, securities or rights or otherwise),
+  - (iii) provide loans and guarantees and make other kinds of financial provision to or in respect of companies,
+
+  where it appears to them that to do so is calculated to facilitate, or to be conducive or incidental to, the exercise of any power conferred by that subsection.
+
+(7D) In subsection (7C) above “**companies**” means companies as defined in section 1(1) of the Companies Act 2006[^key-18d6763af166f035cf2be6577e299031]; and that subsection is without prejudice to the generality of subsection (2) above.
+
+(8) The Secretary of State shall exercise the powers specified in subsection (2) above only if and to the extent that he is satisfied that anything which he proposes to do—
+
+- (a) will not to a significant extent interfere with the performance by him of any duty imposed on him by the National Health Service Act 2006[^key-8cc19bc39c5d24cbf6ab87bc2b9c8cf7] or the National Health Service (Scotland) Act 1978; and
+- (b) will not to a significant extent operate to the disadvantage of persons seeking or afforded admission or access to accommodation or services at hospitals vested in the Secretary of State for the purposes of his functions under either of those Acts (whether as resident or non-resident patients) otherwise than under section 65 of the National Health Service Act 1977 or section 57 of the National Health Service (Scotland) Act 1978.
+
+(8A)[^key-cd6ccb747441f3fbba9e80bf22bf48dc] The references in subsection (6) and subsection (8) to section 65 of the National Health Service Act 1977 are references to that section prior to its repeal by the National Health Service (Consequential Provisions) Act 2006.
+
+(9) In section 63 of the National Health Service Act 1977 and in section 55 of the National Health Service (Scotland) Act 1978—
+
+- (a) in subsection (1), for the words from “to such extent” to “those charges” there shall be substituted the words “for patients to such extent as he may determine, and may recover such charges as he may determine in respect of such accommodation and calculate them on any basis that he considers to be the appropriate commercial basis”; and
+- (b) subsection (2) shall be omitted.
+
+(10)[^key-a6b4f4d5e92a20792be871c2daa79e57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) The following section shall be substituted for sections 57 and 58 of the [^c863231]National Health Service (Scotland) Act 1978—
+
+> **57. Accommodation and services for private patients.**
+>
+> (1) If the Secretary of State is satisfied, in the case of a health service hospital, that it is reasonable to do so, he may authorise accommodation and services at the hospital in question to be made available, to such extent as he may determine, for patients who give undertakings (or for whom undertakings are given) to pay, in respect of the accommodation and services made available, such charges as the Secretary of State may determine and may make and recover such charges as he may determine in respect of such accommodation and services and calculate them on any basis that he considers to be the appropriate commercial basis; but he shall do so only if and to the extent that he is satisfied that to do so—
+>
+> - (a) will not to a significant extent interfere with the performance by him of any duty imposed on him by this Act to provide accommodation or services of any kind; and
+> - (b) will not to a significant extent operate to the disadvantage of persons seeking or afforded admission or access to accommodation or services at health service hospitals (whether as resident or non-resident patients) otherwise than under this section.
+>
+> (2) The Secretary of State may allow accommodation and services to which an authorisation under subsection (1) above relates to be made available in connection with treatment, in pursuance of arrangements made by a medical practitioner or dental practitioner serving (whether in an honorary or paid capacity) on the staff of a health service hospital for the treatment of private patients of that practitioner.
+>
+> (3) The Secretary of State shall revoke an authorisation under this section only if and to the extent that he is satisfied that sufficient accommodation and facilities for the private practice of medicine and dentistry are otherwise reasonably available (whether privately or at health service hospitals) to meet the reasonable demand for them in the area served by the hospital in question.
+
+(12)[^key-a6b4f4d5e92a20792be871c2daa79e57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(13) In section 98 of the [^c863251]National Health Service (Scotland) Act 1978 (which makes corresponding provision for Scotland) for the words “may be prescribed”, in the second place where they occur, there shall be substituted the words “the Secretary of State may determine”.
+
+(14) The following paragraph shall be added at the end of the sections mentioned in subsection (13)[^key-5cbf9853fd35096f1898e7cc7247864e] above—
+
+> The Secretary of State may calculate charges under this section on any basis that he considers to be the appropriate commercial basis.
+
+.
+
+## Retirement etc.
+
+*Extent: E+W+S*
+
+### 8. Retirement of practitioners.[^key-d41172032ded7fdb7c605489b8025507]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Reduction of pension on re-employment after attaining 65.[^c863321]
+
+Regulation 76 of the [^c863331]National Health Service (Superannuation) Regulations 1980 and Regulation 75 of the [^c863341]National Health Service (Superannuation) (Scotland) Regulations 1980 (under which further employment as a practitioner between the ages of 65 and 70 years in the case of a person who became entitled to a pension as a practitioner on or after attaining the age of 65 years is to be disregarded for the purpose of determining whether his pension is to be reduced) are hereby revoked.
+
+## Dental services, appliances and treatment and the Dental Estimates Board and Scottish Dental Estimates Board
+
+*Extent: E+W+S*
+
+### 10. Dental services.
+
+(1)[^key-4eb6e4605c967ca257fea511a71800c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In section 39 of the [^c863361]National Health Service (Scotland) Act 1978 (medical and dental inspection, supervision and treatment of pupils and young persons)—
+
+- (a) in subsection (1)—
+  - (i) the words “and dental”, in both places where they occur, shall cease to have effect; and
+  - (ii) after the word “supervision” there shall be inserted the words “and treatment”;
+- (b) for subsection (2) there shall be substituted the following subsection—
+
+  > (2) It is also the Secretary of State’s duty to provide, to such extent as he considers necessary to meet all reasonable requirements—
+  >
+  > - (a) for the dental inspection of such pupils and young persons as are mentioned in subsection (1);
+  > - (b) for their dental treatment; and
+  > - (c) for their education in dental health.
+
+  ;
+- (c) in subsection (3), for the words “and dental treatment made available under” there shall be substituted the words “treatment made available under subsection (1) and dental treatment made available for the purposes of”; and
+- (d) in subsection (4)—
+  - (i) the words “and dental” shall cease to have effect; and
+  - (ii) for the words “subsections (1) and (2)” there shall be substituted the words “subsection (1) and for the dental inspection, treatment and education described in subsection (2)”.
+
+### 11. Charges for dental appliances and treatment.
+
+(1)[^key-051c4ac020ae7f3ad23d3e894ca9adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-051c4ac020ae7f3ad23d3e894ca9adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-051c4ac020ae7f3ad23d3e894ca9adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The following subsection shall be inserted after subsection (1) of section 70 of the [^c863381]National Health Service (Scotland) Act 1978—
+
+> (1A) Regulations may provide for the making and recovery in such manner as may be prescribed of charges of amounts calculated in accordance with section 71A in respect of the supply under this Act of dentures and other dental appliances of prescribed descriptions.
+
+(5) In subsection (1) of section 71 of that Act for the words “the amount authorised by this section” there shall be substituted the words “an amount calculated in accordance with section 71A”.
+
+(6) The following section shall be inserted after the said section 71—
+
+> **71A. Calculation of charges for dental appliances and treatment.**
+>
+> (1) Subject to the following provisions of this section, regulations may make such provision as to the amount of any charge—
+>
+> - (a) authorised by section 70(1A) for the supply of dentures or other dental appliances; or
+> - (b) authorised by section 71 for the provision of services,
+>
+> as appears to the Secretary of State to be appropriate.
+>
+> (2) Without prejudice to the generality of subsection (1) above, regulations may provide that any such charge in respect of appliances or services supplied or provided under Part II of this Act—
+>
+> - (a) shall be of an amount equal—
+>   - (i) to the practitioner’s remuneration in respect of the supply or provision; or
+>   - (ii) to any part of that remuneration; or
+> - (b) shall be otherwise calculated by reference to that remuneration.
+>
+> (3) Without prejudice to the generality of subsection (1) above, regulations may provide that any charge which is so authorised in respect of appliances supplied otherwise than under Part II of this Act—
+>
+> - (a) shall be of an amount equal—
+>   - (i) to the remuneration a practitioner would receive for a supply under that Part of equivalent appliances; or
+>   - (ii) to any part of such remuneration; or
+> - (b) shall be otherwise calculated by reference to such remuneration.
+>
+> (4) The charge shall not exceed the amount which the Secretary of State considers to be the cost to the health service of the supply or provision.
+>
+> (5) In this section “**cost to the health service**” does not include—
+>
+> - (a) any fee in respect of a visit by a practitioner to a patient; or
+> - (b) any fee or part of a fee payable by a patient in pursuance of regulations under section 71(2) or section 73(b) or 74(b).
+
+(7) [^key-b5d960fc1d521abbf51e2127486f70ea]... section 71(1) of the [^c863401]National Health Service (Scotland) Act 1978 shall cease to have effect so far as it provides[^key-c746cd1ae576b0170bc9861b72505ddd] that a charge may not be authorised for the clinical examination of a patient and any report on that examination.
+
+(8) In [^key-641dce2a549c3943ae2c7a1dd8a3e390]... paragraph 2(4)(a) of Schedule 11 to the National Health Service (Scotland) Act 1978 for “16” there shall be substituted “18”.
+
+### 12. The Dental Estimates Board and the Scottish Dental Estimates Board—change of name and extension of functions.
+
+(1) [^key-b941f1bd8848b7055ea84e88272aa23f]... the Scottish Dental Estimates Board shall be renamed as “**the Scottish Dental Practice Board**”, and—
+
+- (a) any enactment or instrument passed or made before the coming into force of this section shall have effect as if [^key-83fc9369830329696fddec6fb5464297]... for any reference to the Scottish Dental Estimates Board there were substituted a reference to the Scottish Dental Practice Board; and
+- (b) documents and forms printed or duplicated for use in connection with the performance of the functions of [^key-d8df6ca5dc6bf0813c9f9132099b0fb8]... the Scottish Dental Estimates Board may be used notwithstanding that they refer to that Board[^key-75e5d8d38290c3d0c9201faac5670b1f] , such references being construed as references to [^key-17e2e6fa90003776860c3f0fb1a36e2b]... the Scottish Dental Practice Board.
+
+(2) Section 37 of the National Health Service Act 1977 shall be renumbered so as to become section 37(1) of that Act.
+
+(3) The following subsections shall be inserted—
+
+- (a) after the resulting subsection (1); and
+- (b) after section 4(1) of the National Health Service (Scotland) Act 1978—
+
+  > (1A) Regulations may empower the Dental Practice Board—
+  >
+  > - (a) to direct a dental practitioner to submit to the Board, in relation to treatment which he has carried out or contemplates carrying out or to a description of such treatment specified in the direction, such estimates and information and such radiographs, models or other items as may be prescribed; and
+  > - (b) to direct a dental practitioner not to carry out treatment, or a description of treatment specified in the direction, without first obtaining approval of an estimate from the Board.
+  >
+  > (1B) If regulations include any such provision as is mentioned in subsection (1A)(b) above, regulations shall confer on a dental practitioner in whose case a direction such as is mentioned in that paragraph has been given a right of appeal against the direction to a prescribed person or body, but before making regulations conferring such a right the Secretary of State shall consult such organisations as appear to him to be representative of persons providing general dental services.
+  >
+  > (1C) Regulations may be made authorising or requiring the Dental Practice Board to carry on any such additional activity relating to the provision of general dental services as may be prescribed and, without prejudice to the generality of this subsection, to conduct or commission surveys or other research relating to the provision of such services.
+
+(4)[^c863431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^c863431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## General ophthalmic services, optical appliances and sight-testing
+
+*Extent: E+W+S*
+
+### 13. General ophthalmic services and optical appliances.
+
+(1)[^key-9070cdb08bbb91148f722b440da404f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In sub-paragraph (1) of paragraph 2A [^key-1f543a2cbb695f06da0d2e24daeb1b5d]... and of Schedule 11 to the [^c863451]National Health Service (Scotland) Act 1978 after paragraph (c) (but not as part of it) there shall be added the words “or for which a prescription has been given for a person such as is mentioned in paragraph (a), (b) or (c) above in consequence of a testing of sight (not being a testing of sight under this Act) which took place in prescribed circumstances”.
+
+(3)[^key-c760c8cdfda6ce694fd9b68979df270d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In section 26 of the [^c863471]National Health Service (Scotland) Act 1978 (arrangements for provision of general ophthalmic services) in subsection (1), for the words from “—(a) the” to the end there shall be substituted the words
+
+> the testing by such practitioners and opticians of the sight—
+>
+> - (a) of a child;
+> - (b) of a person whose resources fall to be treated under the regulations as being less than his requirements or as being equal to his requirements; or
+> - (c) of a person of such other description as may be prescribed.
+>
+> (1A) In this section—
+>
+> - “**child**” means—
+> - (a) a person who is under the age of 16 years; or
+> - (b) a person who is under the age of 19 years and receiving qualifying full-time education; and
+>
+> “**qualifying full-time education**” means full-time instruction at a recognised educational establishment or by other means accepted as comparable by the Secretary of State, and for the purposes of this definition—
+>
+> - (i) “**recognised educational establishment**” means an establishment recognised by the Secretary of State as being, or as comparable to, a school, college or university; and
+> - (ii) regulations may prescribe the circumstances in which a person is or is not to be treated as receiving full-time instruction.
+>
+> (1B) Regulations under this section may direct how a person’s resources and requirements are to be calculated and, without prejudice to the generality of this subsection, may direct that they shall be calculated—
+>
+> - (a) by a method set out in the regulations;
+> - (b) by a method described by reference to a method of calculating or estimating income or capital specified in an enactment other than this section or in an instrument made under an Act of Parliament or by reference to such a method but subject to prescribed modifications;
+> - (c) by reference to an amount applicable for the purposes of a payment under an Act of Parliament or an instrument made under an Act of Parliament; or
+> - (d) by reference to the person’s being, or having been, entitled to payment under an Act of Parliament or an instrument made under an Act of Parliament.
+>
+> (1C) Descriptions of persons may be prescribed for the purposes of subsection (1) above by reference to any criterion and, without prejudice to the generality of this subsection, by reference to any of the following criteria—
+>
+> - (a) their age;
+> - (b) the fact that a prescribed person or a prescribed body accepts them as suffering from a prescribed medical condition;
+> - (c) the fact that a prescribed person or a prescribed body accepts that a prescribed medical condition from which they suffer arose in prescribed circumstances;
+> - (d) their receipt of benefit in money or in kind under any enactment or their entitlement to receive any such benefit; and
+> - (e) the receipt of any such benefit by other persons satisfying prescribed conditions or the entitlement of other persons satisfying prescribed conditions to receive such benefits.
+>
+> (1D) Regulations which refer to an Act of Parliament or an instrument made under an Act of Parliament may direct that the reference is to be construed as a reference to that Act or instrument—
+>
+> - (a) as it has effect at the time when the regulations are made; or
+> - (b) both as it has effect at that time and as amended subsequently.
+>
+> (1E) Regulations may provide that a person—
+>
+> - (a) whose sight is tested by a person who provides general ophthalmic services; and
+> - (b) who is shown during the testing or within a prescribed time after it to fall within subsection (1) above,
+>
+> shall be taken for the purposes of the testing to have so fallen immediately before his sight was tested; and the testing shall be treated—
+>
+> - (i) for the purposes of any arrangements under this section;
+> - (ii) for the purposes of remuneration in respect of the testing; and
+> - (iii) for any such other purpose as may be prescribed,
+>
+> as a testing of sight under this Act.
+>
+> (1F) Regulations shall define the services for the provision of which arrangements under this section are to be made and the services so defined are in this Act referred to as “**general ophthalmic services**”.
+
+(5) The following sub-paragraphs shall be substituted for paragraph 2A(3) of Schedule 11 to the [^c863481]National Health Service (Scotland) Act 1978—
+
+> (3) The Secretary of State may by regulations—
+>
+> - (a) provide for himself or a Health Board to contribute to the cost of a testing of sight which he or the Board accepts as having been incurred by a person whose resources fall to be treated under the regulations as exceeding his requirements but only by an amount calculated under the regulations;
+> - (b) provide for payments to be made by him or by a Health Board to meet, or to contribute towards, any cost accepted by him or by the Board as having been incurred (whether by way of charge under this Act or otherwise) for the replacement or repair in prescribed circumstances of optical appliances for which a prescription was given in consequence of a testing of the sight of a person of a prescribed description; and
+> - (c) direct how a person’s resources and requirements are to be calculated and, without prejudice to the generality of this sub-paragraph, give any such direction as to how they are to be calculated as may be given by regulations under section 75A(3).
+>
+> (3A) Descriptions of persons may be prescribed under this paragraph by reference to any criterion and, without prejudice to the generality of this sub-paragraph, by reference to any of the criteria specified in section 75A(2).
+>
+> (3B) Subsection (4) of section 75A shall have effect in relation to regulations under this paragraph as it has effect in relation to regulations under that section.
+
+(6), (7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c863491]
+
+### 14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c863501]
+
+## Remuneration of practitioners etc.
+
+*Extent: E+W+S*
+
+### 15. Remuneration in respect of training.[^c863511]
+
+(1) At the end of [^key-f26f97d1e1af8f1efbe9bc6d87fc2dee]... section 28A of the [^c863531]National Health Service (Scotland) Act 1978 (which makes corresponding provision for Scotland) there shall be added the words “and may include provision for the remuneration of persons providing those services in respect of the instruction of any person in matters relating to those services”.
+
+(2)[^key-e2c8763e35bfe02a3769ed60f2a6e624] At the end of subsection (2)(d) of each of those sections there shall be added the words “or instruction”.
+
+(3) Any determination in relation to remuneration in respect of services under [^key-b17fd7e7eda12dcd4b900d05309f08cd]... Part II of the National Health Service (Scotland) Act 1978 which was made after the passing of this Act but at a time before the coming into force of a provision inserted by section 7 of the [^c863541]Health and Social Security Act 1984 shall be deemed to be validly made if regulations authorising such a determination could have been made had that provision been in force at that time.
+
+### 16. Limits on reimbursement of expenses.
+
+(1)[^c863551] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^c863551] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 85(2) of the National Health Service (Scotland) Act 1978 (restriction in relation to payments by Secretary of State in respect of expenditure attributable to performance by certain bodies of their functions), for the words “sums equal to the expenditure which he determines is attributable to the performance of those functions in that year” there shall be substituted the following paragraphs—
+
+> - (a) such amounts as he may allot for any kind of expenditure attributable to reimbursement of expenses of persons providing services in pursuance of that Part; and
+> - (b) sums equal to any other expenditure attributable to remuneration of persons providing such services.
+
+(4) In section 85A of that Act (financial duties of certain bodies)—
+
+- (a) in subsection (1)(a), after “85(1)” there shall be inserted the words “and, as the case may be, section 85(2)(a)”; and
+- (b) in subsection (6)(c), after “85(1)” there shall be inserted the words “, or, as the case may be, section 85(2)(a)”.
+
+### 17. Arrangements for provision of general medical services, general dental services, general ophthalmic services and pharmaceutical services.
+
+(1) Without prejudice to the generality of section 71, 72, 80 or 83 of the National Health Service (Wales) Act 2006, or section 126 or 129 of the National Health Service Act 2006[^key-ce3494ab9aea22f6a86790ca2f07a8a2] or of section 17P[^key-d1143e6be71e5efa6ea93f42b5c874dd], 25(2), 26(2) or 27(2) of the [^c863621]National Health Service (Scotland) Act 1978, the powers to make regulations conferred by each of those sections include power—
+
+- (a) to make provision as to the investigation (following a complaint or otherwise) of any matter relating to services under the section in question or, in relation to section 17P of the National Health Service (Scotland) Act 1978, primary medical services[^key-0828ef1052849e3e67024ba4f5fd82b0];
+- (b) to specify—
+  - (i) who is to conduct an investigation;
+  - (ii) whether an inquiry may be held in connection with an investigation;
+  - (iii) rights of appeal following a decision or recommendation on an investigation;
+  - (iv) who is to conduct an appeal; and
+  - (v) the procedure to be followed on any investigation, inquiry or appeal;
+- (c) to direct that in prescribed circumstances one or more of the sanctions specified in subsection (2) below shall be available;
+- (d)[^c863631] to make provision for any purposes (whether or not falling within paragraph (a), (b) or (c) above) that appear to the Secretary of State to correspond to the purposes of any provision contained in Part II of the [^c863641]National Health Service (Service Committees and Tribunal) Regulations 1974 or, as the case may be, Part II of the [^c863651]National Health Service (Service Committees and Tribunal) (Scotland) Regulations 1974.
+
+(2) The sanctions mentioned in subsection (1)(c) above are—
+
+- (a) in the case of any person—
+  - (i) recovery of an amount by deduction from his remuneration or otherwise; and
+  - (ii) a warning that he should comply more closely with his obligations under arrangements made in accordance with the relevant regulations or in relation to section 17P of the National Health Service (Scotland) Act 1978, with any requirements placed on him by regulations made under that section[^key-181a31719b3feed7b07fc6e0201fb23a]; and
+- (b) in the case of a dental practitioner or body corporate entitled, by virtue of section 43 of the Dentists Act 1984 (c. 24), to carry on the business of dentistry[^key-60fb24865164998531267dc69390446a], a restriction on his or its[^key-8895ec3e2e807fc74676a18d0270ce14] carrying out treatment or a description of treatment without first obtaining from a body prescribed by the regulations approval of an estimate in relation to it.
+
+(3) Regulations made—
+
+- (a) before the passing of this Act; or
+- (b) after it but before the coming into force of this section,
+
+shall be deemed to be validly made if they could have been validly made had this section been in force.
+
+(3A)[^c863661] This section applies also in relation to additional pharmaceutical services provided under arrangements made in accordance with directions under section 127 of the National Health Service Act 2006 or section 81 of the National Health Service (Wales) Act 2006[^key-eaae53dc1517fbd4e09880657e851c4d] or section 27A of the National Health Service (Scotland) Act 1978.
+
+## Staff
+
+*Extent: E+W+S*
+
+### 18. Transfer of staff from civil service to Health Service.
+
+Where a person becomes an employee of a body constituted under the National Health Service Act 2006 or the National Health Service (Wales) Act 2006 (other than an[^key-c200d844b47ddb9fcfff2ff23120f341] NHS trust or an NHS foundation trust), or the [^c863791]National Health Service (Scotland) Act 1978 [^key-25e94c3a5b24c2ddb848110b9b562ad7]... on direct transfer from employment in the civil service of the State, his period of employment in the civil service of the State at the time of the transfer shall count for the purposes of the Employment Rights Act 1996[^c863811] as a period of employment by the body whose employee he becomes, and the transfer shall not break the continuity of the period of employment or give rise to any right to a redundancy payment.
+
+### 19. Abolition of power of local authorities to charge for their staff’s services to health authorities.
+
+(1) Section 28(4) of the National Health Service Act 1977 shall cease to have effect.
+
+(2) This section shall be deemed to have come into force on 26th November 1987.
+
+(3) No payment shall be made on a claim for payment of charges under section 28(4) of the National Health Service Act 1977 which is submitted on or after 26th November 1987 but the repeal of that subsection by this section does not have effect in relation to a case where such a claim is submitted before that date.
+
+### 20. Instruction of staff in matters relating to health and welfare.
+
+In section 63 of the [^c863821]Health Services and Public Health Act 1968—
+
+- (a) in subsection (6)(a), after the word “section” there shall be inserted the words “and for ancillary administrative purposes,”; and
+- (b) in subsection (8), in paragraph (a) of the definition of “the relevant enactments”, for the words “section 48 of the Education Act 1944, Part III of the National Assistance Act 1948, section 45 of this Act” there shall be substituted the words “, any enactment functions under which for the time being stand referred to committees established in pursuance of section 2 of the [^c863831]Local Authority Social Services Act 1970.”
+
+## Medicines—licence fees
+
+### 21. Fees for licences etc. under Part II of Medicines Act 1968.
+
+(1) The following paragraphs shall be inserted after paragraph (a) of subsection (1) of section 1 of the [^c863841]Medicines Act 1971—
+
+> - (aa) for the payment and recovery of such fees as are prescribed by the regulations in respect of inspections made—
+>   - (i) in connection with applications for the grant, renewal or variation of any such licence; or
+>   - (ii) during the currency of any such licence;
+> - (ab) for the payment and recovery of such annual or other periodic fees (in addition to fees payable by virtue of regulations made under paragraph (aa) above) as are prescribed by the regulations in connection with the holding of any such licence and for the payment and recovery of a penalty for failure to pay a fee so prescribed at the time at which it should have been paid;
+> - (ac) for the calculation of the amount of any annual or other periodic fee payable by virtue of regulations made under paragraph (ab) above by reference to one or more of the following—
+>   - (i) the United Kingdom turnover of a medicinal product or a number of medicinal products to which the licence relates;
+>   - (ii) the United Kingdom turnover of all medicinal products to which licences held by the holder of the licence relate;
+>   - (iii) fees received by the holder of the licence in respect of a medicinal product or a number of medicinal products to which the licence relates;
+>   - (iv) fees received by the holder of the licence in respect of all medicinal products to which licences held by the holder of the licence relate;
+> - (ad) for the amount of any fee payable by virtue of regulations made under paragraph (ab) above to be calculated in such manner as may be specified in the regulations—
+>   - (i) if insufficient evidence is submitted for the calculations that would be required by regulations made under paragraph (ac) above; or
+>   - (ii) if no evidence is submitted for those calculations;
+
+.
+
+(2) In paragraph (b) of that subsection, after the word “refund” there shall be inserted the words “, adjustment, set-off, waiver or reduction”.
+
+(3) The following subsection shall be inserted after that subsection—
+
+> (1A) In subsection (1) above—
+>
+> - “**medicinal product**” includes—
+> - (a) any article or substance in relation to which provisions of Part II of the principal Act have effect by virtue of an order under section 104 or 105 of that Act; and
+> - (b) any medicated feeding stuff, as defined in subsection (3B) of section 130 of the principal Act, which by virtue of an order under subsection (3A) of that section is to be treated as a medicinal product for the purposes of that Act; and
+>
+> - “**United Kingdom turnover**” means the value, as determined under the regulations, of the aggregate of all quantities of a medicinal product, other than quantities which the regulations direct to be excluded from the calculation, which, during a period specified in the regulations—
+> - (a) in the case of a product licence, are sold or supplied in the United Kingdom by the holder of the licence or such other person as may be prescribed by the regulations;
+> - (b) in the case of a manufacturer’s licence, are manufactured or assembled by the holder of the licence in the United Kingdom;
+> - (c) in the case of a wholesale dealer’s licence, are sold by the holder of the licence by way of wholesale dealing in the United Kingdom.
+
+(4) Any regulations which purport to have been made under section 1 of the [^c863851]Medicines Act 1971—
+
+- (a) if they purport to be in force on the day this Act is passed, shall have effect and be deemed always to have had effect; and
+- (b) if they do not purport to be in force on the day this Act is passed shall be deemed to have had effect at all times when they purported to be in force,
+
+as if this section had been in force when they were made.
+
+## Medicines—subordinate legislation
+
+### 22. Construction of references to publications.
+
+(1) The following paragraphs shall be inserted after paragraph (c) of section 103(1) of the [^c863861]Medicines Act 1968—
+
+> - (ca) the International Pharmacopoeia;
+> - (cb) the Cumulative List of Recommended International Nonproprietary Names;
+
+(2) Regulations and orders made under the Medicines Act 1968 before the passing of this Act shall be construed as if section 103(1) of that Act, as originally enacted, had included the paragraphs added by subsection (1) above, but their addition does not extend the meaning of “specified publication”, where that term is used in regulations and orders so made.
+
+(3) References to International Nonproprietary Names in regulations and orders made under that Act before the passing of this Act shall be construed as references to names contained from time to time in the Cumulative List.
+
+(4) In section 103(3) of the Medicines Act 1968 for the words “other than this”, there shall be substituted the words “contained in this Act or in any other”.
+
+(5) Regulations and orders made under that Act before the passing of this Act shall be construed as if—
+
+- (a) section 103(3) of that Act, as originally enacted, had included the words added to it by subsection (4) above; and
+- (b) the power to make them had been exercised in the manner provided by section 103(3).
+
+(6) In section 103(5) after the word “force”, in the second place where it occurs, there shall be inserted the words “, under whatever title,”.
+
+(7) Regulations and orders made under that Act before the passing of this Act shall be construed as if section 103(5), as originally enacted, had included the words added by subsection (6) above.
+
+(8) This section does not alter the meaning of any instrument in respect of a period before the passing of this Act.
+
+## HIV testing kits and services
+
+*Extent: E+W+S*
+
+### 23. HIV testing kits and services.[^c863871]
+
+(1) The Secretary of State may provide by regulations that a person—
+
+- (a) who sells or supplies to another an HIV testing kit or any component part of such a kit;
+- (b) who provides another with HIV testing services; or
+- (c) who advertises such kits or component parts or such services,
+
+shall be guilty of an offence.
+
+(2) The power to make regulations conferred by this section shall be exercisable by statutory instrument, and a statutory instrument made by virtue of this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) The power may be exercised—
+
+- (a) either in relation to all cases to which the power extends, or in relation to all those cases subject to specified exceptions, or in relation to any specified cases or classes of case; and
+- (b) so as to make, as respects the cases in relation to which it is exercised—
+  - (i) the full provision to which the power extends or any less provision (whether by way of exception or otherwise);
+  - (ii) the same provision for all cases in relation to which the power is exercised, or different provision for different cases or different classes of case, or different provision as respects the same case or class of case for different purposes;
+  - (iii) any such provision either unconditionally, or subject to any specified condition,
+
+  and includes power to make such incidental or supplemental provision as the Secretary of State considers appropriate.
+
+(4) If any person contravenes regulations under this section, he shall be liable—
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum; and
+- (b) on conviction on indictment to a fine or to imprisonment for a term of not more than two years, or to both.
+
+(5) Where an offence under this section which is committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(6) In this section—
+
+- “**HIV**” means Human Immunodeficiency Virus of any type;
+- “**HIV testing kit**” means a diagnostic kit the purpose of which is to detect the presence of HIV or HIV antibodies; and
+- “**HIV testing services**” means diagnostic services the purpose of which is to detect the presence of HIV or HIV antibodies in identifiable individuals.
+
+## General and supplementary
+
+### 24. Financial provision.
+
+*Extent: E+W+S*
+
+Any expenses of a Minister of the Crown incurred in consequence of the provisions of this Act shall be paid out of money provided by Parliament.
+
+### 25. Consequential amendments and repeals.
+
+*Extent: E+W+S*
+
+(1) The enactments mentioned in Schedule 2 to this Act shall have effect with the amendments there specified (being amendments consequential on the foregoing provisions of this Act).
+
+(2) The enactments mentioned in Schedule 3 to this Act are repealed to the extent specified in the third column of that Schedule.
+
+### 26. Commencement and transitional.
+
+(1)[^c863881] The provisions of this Act to which this subsection applies shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint, and different days may be appointed in pursuance of this subsection for different provisions or different purposes of the same provision.
+
+(2) Subsection (1) above applies to the following provisions of this Act—
+
+- section 8;
+- section 9;
+- section 11;
+- section 12;
+- section 13;
+- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c863891];
+- section 25(1), so far as it relates to paragraphs 3, 4, 5, 8, 10, 11, 12 and 15 of Schedule 2 to this Act, and to paragraphs 1 and 9 of that Schedule to the extent that they have effect for the purposes of those paragraphs;
+- section 25(2), so far as it relates—
+- (a) to the [^c863901]National Health Service Act 1966;
+- (b) to the [^c863911]Superannuation Act 1972;
+- (c) to sections 37(a), 78(1) and 79(1) of the [^c863921]National Health Service Act 1977 and Schedules 12 and 15 to that Act;
+- (d) to sections 4(1), 70(1) and 71(1) of the [^c863931]National Health Service (Scotland) Act 1978 and Schedules 11 and 16 to that Act;
+- (e) to sections 17 and 19 of the [^c863941]Health Services Act 1980;
+- (f) to the [^c863951]Health and Social Security Act 1984;
+- (g) to the [^c863961]Companies Consolidation (Consequential Provisions) Act 1985.
+
+(3) The provisions of this Act to which this subsection applies shall come into force on the day this Act is passed.
+
+(4) Subsection (3) above applies to the following provisions of this Act—
+
+- section 1 (including Schedule 1) and sections 2 to 6;
+- section 17(3);
+- section 19;
+- section 21;
+- section 22;
+- section 25(2), so far as it relates to section 28(4) of the [^c863971]National Health Service Act 1977;
+- this section;
+- section 27;
+- section 28;
+
+(5) Subject to the foregoing provisions of this section, this Act shall come into force at the end of the period of two months beginning with the day this Act is passed.
+
+(6) The Secretary of State may by regulations made by statutory instrument make—
+
+- (a) such transitional provision;
+- (b) such consequential provision; and
+- (c) such savings,
+
+as he considers necessary or expedient in preparation for or in connection with the coming into force of any provision of this Act or the operation of any enactment which is repealed or amended by a provision of this Act during any period when the repeal or amendment is not wholly in force.
+
+(7) Regulations under this section may modify any enactment contained in this or in any other Act and any instrument made under an Act of Parliament.
+
+(8) A statutory instrument containing regulations under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 27. Northern Ireland.
+
+(1) An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^c863981]Northern Ireland Act 1974 (legislation for Northern Ireland in the interim period) which contains a statement that it is made only for purposes corresponding to the purposes of a provision of this Act to which this subsection applies—
+
+- (a) shall not be subject to sub-paragraphs (4) and (5) of paragraph 1 of that Schedule (affirmative resolution of both Houses of Parliament); but
+- (b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(2) The provisions of this Act to which subsection (1) above applies are sections 7 to 11, section 13, sections 15 to 18 and section 23.
+
+(3) Sections . . . [^c863991], 21 and 22 above and this section extend to Northern Ireland.
+
+(4) Section 26 above extends to Northern Ireland so far as it relates to the provisions mentioned in subsection (3) above and this section.
+
+(5) Subject to the foregoing provisions of this section, this Act does not extend to Northern Ireland.
+
+### 28. Citation.
+
+*Extent: E+W+S*
+
+This Act may be cited as the Health and Medicines Act 1988.
+
+*Extent: E+W+S*
+
+SCHEDULES
+
+## SCHEDULE 1 — Provisions Supplementary to s.1
+
+Section 1.
+
+**1.** Subject to the provisions of an order under section 1(1) above, any agreement made, transaction effected or other thing done by, to or in relation to the Corporation which is in force or effective immediately before the day specified under that subsection shall have effect as from that day as if made, effected or done by, to or in relation to the successor company, in all respects as if the successor company were the same person, in law, as the Corporation; and accordingly references to the Corporation—
+
+- (a) in any agreement (whether or not in writing) and in any deed, bond or instrument;
+- (b) in any process or other document issued, prepared or employed for the purpose of any proceedings before any Court or other tribunal or authority; and
+- (c) in any other document whatever (other than an enactment) relating to or affecting any property, right or liability of the Corporation which vests by virtue of section 1(1) above in the successor company,
+
+shall be taken as from the specified day as referring to the successor company.
+
+**2.** Where immediately before that day there is in force an agreement which—
+
+- (a) confers or imposes on the Corporation any rights or liabilities which vest in the successor company by virtue of section 1(1) above; and
+- (b) refers (in whatever terms and whether expressly or by implication) to a member or officer of the Corporation,
+
+the agreement shall have effect, in relation to anything falling to be done on or after that day, as if for that reference there were substituted a reference to such person as that company may appoint or, in default of appointment, to the officer of that company who corresponds as nearly as may be to the member or officer of the Corporation in question.
+
+**3.** (1) It is hereby declared for the avoidance of doubt that the effect of an order under section 1(1) above in relation to any contract of employment with the Corporation in force immediately before the day specified under that subsection is merely to modify the contract (as from that day) by substituting the successor company as the employer (and not to terminate the contract or vary it in any other way).
+
+(2) Accordingly—
+
+- (a) any period of employment with the Corporation; and
+- (b) any period of employment which would, immediately before the day specified under section 1(1) above, have been treated as such employment,
+
+shall count as employment with the successor company.
+
+## SCHEDULE 2 — Consequential Amendments
+
+Section 25.
+
+### National Health Service Act 1977
+
+**1.**[^key-442919f8e031c94bd2a55a597b236e29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-3f3485ad6b781317c4ec0971315fbb12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c864001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-e480cbd843ba13e2e5aa601938ab7c70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-e480cbd843ba13e2e5aa601938ab7c70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-e480cbd843ba13e2e5aa601938ab7c70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.** (1)[^key-789bb7a53a24a11de9af2ddba70c5d84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-789bb7a53a24a11de9af2ddba70c5d84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-35f22ebfd2f4aad2150d2d9b332bc74b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-35f22ebfd2f4aad2150d2d9b332bc74b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.** (1)[^key-532e0f1594a48805bdb9609e0c224cb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-2c9c0a2b241787aab693c5dfa85295e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-2c9c0a2b241787aab693c5dfa85295e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### National Health Service (Scotland) Act 1978
+
+**9.** The [^c864021]National Health Service (Scotland) Act 1978 shall be amended as follows.
+
+**10.** At the end of the second paragraph of section 23(5) (exclusion of right of appeal against refusal of application to provide general medical services) there shall be added the words “or under section 8 of the Health and Medicines Act 1988 (persons over retiring age) and regulations under that section”.
+
+**11.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c864031]
+
+**12.** In section 70(2) (teaching hospital exemption from dental charges) for “(1)” there shall be substituted “(1A)”.
+
+**13.** In subsection (1)(a) of section 75A (remission and repayment of charges and payment of travelling expenses) after “70(1)” there shall be inserted “or, (1A)”.
+
+**14.** In section 85(1A) (date on which certain allotments to take effect), after the word “above” there shall be inserted the words “or subsection (2)(a) below”.
+
+**15.** (1) The following sub-paragraph shall be substituted for sub-paragraph (1) of paragraph 2 of Schedule 11 (making and recovery of charges)—
+
+> (1) The optical appliances referred to in section 70(1) are glasses and contact lenses, and the charge for glasses and contact lenses which that subsection authorises is a charge of such sum as may be determined by or in accordance with directions given by the Secretary of State.
+
+(2) In sub-paragraph (3) of that paragraph, after “70(1)” there shall be inserted “or (1A)”.
+
+(3) In sub-paragraph (4) for “(1)” there shall be substituted “(1A)”.
+
+## SCHEDULE 3 — Repeals
+
+Section 25.
+
+|  |  |  |
+| --- | --- | --- |
+| 1966 c. 8. | National Health Service Act 1966. | Sections 1 to 9. |
+|  |  | Section 11. |
+|  |  | Section 12(2) and (3). |
+|  |  | The Schedule. |
+| 1968 c. 46. | Health Services and Public Health Act 1968. | Section 63(3). |
+| 1972 c. 11. | Superannuation Act 1972. | In Schedule 6, paragraph 59. |
+| 1977 c. 49. | National Health Service Act 1977. | In section 5(1)(a), the words “and dental”, in both places where they occur, and the words “(and the additional provisions set out in Schedule 1 to this Act have effect in relation to this paragraph)”. |
+|  |  | Section 28(4). |
+|  |  | In section 37(a), the words “the approval of estimates of”. |
+|  |  | Section 58. |
+|  |  | Section 61. |
+|  |  | In section 62, the words “and sections 58 and 61 above”. |
+|  |  | Section 63(2). |
+|  |  | Section 66A. |
+|  |  | In section 78(1), the words “dental or”. |
+|  |  | In section 79(1), paragraph (a) and paragraph (d) and the word “or” immediately preceding it. |
+|  |  | In Schedule 12, in paragraph 2, in sub-paragraph (2), the words “dental or”, and paragraph (ii), paragraph 3(1) and in paragraph 6, the words from “and the reference” to the end. |
+|  |  | In Schedule 15, paragraph 36. |
+| 1978 c. 29. | National Health Service (Scotland) Act 1978. | In section 4(1), the words “the approval of estimates of”. |
+|  |  | In section 39, in subsection (1), the words “and dental”, in both places where they occur, and in subsection (4), the words “and dental”. |
+|  |  | Section 50. |
+|  |  | Section 53. |
+|  |  | In section 54, the words “and sections 50 and 53”. |
+|  |  | Section 55(2). |
+|  |  | Section 58A. |
+|  |  | In section 70(1) the words “dental or”. |
+|  |  | In section 71(1), paragraph (a) and paragraph (d) and the word “or” immediately preceding it. |
+|  |  | In Schedule 11, in paragraph 2, in sub-paragraph (2), the words “dental or” and paragraph (ii), paragraph 3(1) and in paragraph 6, the words from “and the reference” to the end. |
+|  |  | In Schedule 16, paragraph 21. |
+| 1980 c. 53. | Health Services Act 1980. | Sections 10 and 11. |
+|  |  | Sections 17 and 19. |
+| 1984 c. 48. | Health and Social Security Act 1984. | Section 8. |
+|  |  | In Part I of Schedule 1, paragraph 2, and in Part II, paragraph 5. |
+| 1985 c. 9. | Companies Consolidation (Consequential Provisions) Act 1985. | In Schedule 2, the entry relating to the National Health Service Act 1966. |
+
+## Annotations
+
+[^c862551]: Commencement: Act partly in force at Royal Assent see [s. 26(3)(4)](https://www.legislation.gov.uk/ukpga/1988/49/section/26/3/4); Act wholly in force at 31.10.1989.
+
+[^key-b1ab51098315dcb7f3579c556338fd77]: Textual amendment: [S. 1(1)-(13)](https://www.legislation.gov.uk/ukpga/1988/49/section/1/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 9
+
+[^key-2bfeec712390e54c289d1504bc5d9fe5]: Textual amendment: S. 2 omitted (1.4.2004) by virtue of [The Primary Medical Services (Scotland) Act 2004 (Consequential Modifications) Order 2004 (S.I. 2004/957)](https://www.legislation.gov.uk/uksi/2004/957), [art. 1](https://www.legislation.gov.uk/uksi/2004/957/article/1), [Sch. para. 6(2)](https://www.legislation.gov.uk/uksi/2004/957/schedule/paragraph/6/2) and [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4); [S.I. 2004/288](https://www.legislation.gov.uk/uksi/2004/288), [art. 6(2)(h)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/h) (with [art. 7](https://www.legislation.gov.uk/uksi/2004/288/article/7)) (as amended by [S.I. 2004/866](https://www.legislation.gov.uk/uksi/2004/866) and [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925)); [S.I. 2004/480](https://www.legislation.gov.uk/wsi/2004/480), [art. 5(2)(h)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/h) (with [art. 6](https://www.legislation.gov.uk/wsi/2004/480/article/6)) (as amended by [S.I. 2004/1019](https://www.legislation.gov.uk/uksi/2004/1019) and [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345)); [S.I. 2004/288](https://www.legislation.gov.uk/uksi/2004/288), [art. 6(2)(h)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/h) (with [art. 7](https://www.legislation.gov.uk/uksi/2004/288/article/7)) (as amended by [S.I. 2004/866](https://www.legislation.gov.uk/uksi/2004/866) and [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925)); [S.I. 2004/480](https://www.legislation.gov.uk/wsi/2004/480), [art. 5(2)(h)](https://www.legislation.gov.uk/wsi/2004/480/article/5/2/h) (with [art. 6](https://www.legislation.gov.uk/wsi/2004/480/article/6)) (as amended by [S.I. 2004/1019](https://www.legislation.gov.uk/uksi/2004/1019) and [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345))
+
+[^key-5238d475d0afb5943e37617ed8303698]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1988/49/section/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 9
+
+[^c862621]: Marginal citation: [1966 c. 8](https://www.legislation.gov.uk/ukpga/1966/8).
+
+[^c862631]: Marginal citation: [1966 c. 8](https://www.legislation.gov.uk/ukpga/1966/8).
+
+[^key-d1f81c2f6a041463b0b4966a29419ea2]: Textual amendment: Words in s. 5(3) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 154](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/154) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+
+[^c862661]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/1988/49/section/6/2) substituted (6.3.1992 with effect as mentioned in s. 289(1)(2) of the substituting Act) by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [ss. 289](https://www.legislation.gov.uk/ukpga/1992/12/section/289), [290](https://www.legislation.gov.uk/ukpga/1992/12/section/290), [Sch. 10 para.17](https://www.legislation.gov.uk/ukpga/1992/12/schedule/10/paragraph/17) (with [ss. 60](https://www.legislation.gov.uk/ukpga/1992/12/section/60), [101(1)](https://www.legislation.gov.uk/ukpga/1992/12/section/101/1), [201(3)](https://www.legislation.gov.uk/ukpga/1992/12/section/201/3)).
+
+[^c862961]: Modification: S. 7: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/672/article/1/2), [2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^c2342061]: Modification: S. 7(1)-(8) applied (S.) (1.4.1999) by [S.I. 1999/686](https://www.legislation.gov.uk/uksi/1999/686), [art. 5(1)](https://www.legislation.gov.uk/uksi/1999/686/article/5/1), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1999/686/schedule/part/II); s. 7(1)-(8) applied (S.) (1.4.1999) by [S.I. 1999/726](https://www.legislation.gov.uk/uksi/1999/726), [art. 5](https://www.legislation.gov.uk/uksi/1999/726/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1999/726/schedule/part/II); s. 7(1)-(8) applied (S.) (1.4.2000) by [S.S.I. 2000/47](https://www.legislation.gov.uk/ssi/2000/47), [art. 5](https://www.legislation.gov.uk/ssi/2000/47/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/ssi/2000/47/schedule/part/II); s. 7(1)-(8) applied (S.) (6.4.2001) by [S.S.I. 2001/137](https://www.legislation.gov.uk/ssi/2001/137), [art. 5](https://www.legislation.gov.uk/ssi/2001/137/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/ssi/2001/137/schedule/part/II); s. 7(1)-(8) applied (S.) (31.3.2002) by [The NHS Education for Scotland Order 2002 (S.S.I. 2002/103)](https://www.legislation.gov.uk/ssi/2002/103), [art. 6](https://www.legislation.gov.uk/ssi/2002/103/article/6), [Sch. Pt. II](https://www.legislation.gov.uk/ssi/2002/103/schedule/part/II) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2002/103/article/4/4))
+
+[^c2342271]: Modification: S. 7(1)-(7) and (8) applied (S.) (27.6.2002) by [The National Waiting Times Centre Board (Scotland) Order 2002 (S.S.I. 2002/305)](https://www.legislation.gov.uk/ssi/2002/305), [art. 5](https://www.legislation.gov.uk/ssi/2002/305/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/ssi/2002/305/schedule/part/II) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2002/305/article/4/4))
+
+[^key-83d3ce2f42ca5f4b09ff824e0d4bd21d]: Textual amendment: Words in s. 7(1) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 116(a)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/116/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^c863001]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^c863051]: Modification: S. 7(2) applied (E.W.) (5.7.1990) by [National Health Service and Community Care Act 1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 5(8)(9)](https://www.legislation.gov.uk/ukpga/1990/19/section/5/8/9), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/1990/19/schedule/2/paragraph/15); [S.I. 1990/1329](https://www.legislation.gov.uk/uksi/1990/1329), [art. 2(1)](https://www.legislation.gov.uk/uksi/1990/1329/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1990/1329/schedule/1); s. 7(2) applied (S.) (24.7.1990) by [National Health Service (Scotland) Act 1978 (c. 29)](https://www.legislation.gov.uk/ukpga/1978/29), [s. 32](https://www.legislation.gov.uk/ukpga/1978/29/section/32), [Sch. 7A para. 15](https://www.legislation.gov.uk/ukpga/1978/29/schedule/7A/paragraph/15) (as inserted (24.7.1990) by [National Health Service and Community Care Act 1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 32](https://www.legislation.gov.uk/ukpga/1990/19/section/32), [Sch. 6](https://www.legislation.gov.uk/ukpga/1990/19/schedule/6)); [S.I. 1990/1520](https://www.legislation.gov.uk/uksi/1990/1520), [art. 2(b)](https://www.legislation.gov.uk/uksi/1990/1520/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/1990/1520/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/1990/1520/article/3)); s. 7(2) applied (with modifications) (E.W.) (4.1.2000 for E. for specified purposes, otherwise prosp.) by [National Health Service Act 1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49), [s. 18A(5)](https://www.legislation.gov.uk/ukpga/1977/49/section/18A/5) (as inserted (E.W) (4.1.2000 for E. for specified purposes, otherwise prosp.) by [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), [ss. 5](https://www.legislation.gov.uk/ukpga/1999/8/section/5), [67(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/1); [S.I. 1999/2342](https://www.legislation.gov.uk/uksi/1999/2342), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/1999/2342/article/2/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/2342/schedule/2))
+
+[^key-3a8ee8c85e4d58db7e001434cdc6db7d]: Modification: S. 7(2) applied (1.3.2007) by [National Health Service Act 2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41), [s. 277(1)](https://www.legislation.gov.uk/ukpga/2006/41/section/277/1), [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2006/41/schedule/4/paragraph/20)
+
+[^key-3edf0da43fe87505f9c0f9fb707931d1]: Modification: S. 7(2) applied (with modifications) (1.3.2007) by [National Health Service Act 2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41), [ss. 21(5)](https://www.legislation.gov.uk/ukpga/2006/41/section/21/5), [277(1)](https://www.legislation.gov.uk/ukpga/2006/41/section/277/1)
+
+[^key-cc42d4205e5d958e3c9306cb41ca7a3f]: Modification: [S. 7(2)](https://www.legislation.gov.uk/ukpga/1988/49/section/7/2) applied in part by 2006 c. 41, s. 14Z47(1) (as inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/25/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30), [33](https://www.legislation.gov.uk/uksi/2022/734/regulation/33)))
+
+[^c863061]: Textual amendment: Words inserted by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 66(1)](https://www.legislation.gov.uk/ukpga/1990/19/section/66/1), [Sch. 9 para. 34](https://www.legislation.gov.uk/ukpga/1990/19/schedule/9/paragraph/34)
+
+[^key-03aae036a7f5b249344f27aa97c4b066]: Textual amendment: Words in s. 7(3)(i) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 45](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/45); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+
+[^c863101]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^c863191]: Textual amendment: S. 7(7A)(7B) inserted (1.7.2002 (W.), 12.9.2002 (E.), otherwise prosp.) by [2001 c. 15](https://www.legislation.gov.uk/ukpga/2001/15), [ss. 5](https://www.legislation.gov.uk/ukpga/2001/15/section/5), [70(2)](https://www.legislation.gov.uk/ukpga/2001/15/section/70/2) (with [ss. 64(9)](https://www.legislation.gov.uk/ukpga/2001/15/section/64/9), [65(4)](https://www.legislation.gov.uk/ukpga/2001/15/section/65/4)); [S.I. 2002/1475](https://www.legislation.gov.uk/uksi/2002/1475), [art. 2(1)](https://www.legislation.gov.uk/uksi/2002/1475/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2002/1475/schedule/part/1); [S.I. 2002/2363](https://www.legislation.gov.uk/uksi/2002/2363), [art. 3](https://www.legislation.gov.uk/uksi/2002/2363/article/3)
+
+[^key-80ce14de6244bd9745e264075cbbd1c5]: Textual amendment: Words in s. 7(7B) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 99](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/99) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+
+[^key-d9fa4999e891d769304113526c94cceb]: Textual amendment: S. 7(7C)(7D) inserted (17.10.2005) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [ss. 37(2)](https://www.legislation.gov.uk/asp/2005/13/section/37/2), [43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3); [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
+
+[^key-18d6763af166f035cf2be6577e299031]: Textual amendment: Words in s. 7(7D) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 99](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/99) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+
+[^key-8cc19bc39c5d24cbf6ab87bc2b9c8cf7]: Textual amendment: Words in s. 7(8)(a) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 116(c)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/116/c) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^key-cd6ccb747441f3fbba9e80bf22bf48dc]: Textual amendment: S. 7(8A) inserted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 116(d)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/116/d) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^key-a6b4f4d5e92a20792be871c2daa79e57]: Textual amendment: S. 7(10)(12) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+
+[^c863231]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^c863251]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^key-5cbf9853fd35096f1898e7cc7247864e]: Textual amendment: Words in s. 7(14) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 116(e)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/116/e) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^key-d41172032ded7fdb7c605489b8025507]: Textual amendment: S. 8 repealed (1.4.2007) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [s. 43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3), [Sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3); [S.S.I. 2007/218](https://www.legislation.gov.uk/ssi/2007/218), [art. 2](https://www.legislation.gov.uk/ssi/2007/218/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/218/schedule)
+
+[^c863321]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/1988/49/section/9) excluded by [S.I. 1989/1893](https://www.legislation.gov.uk/uksi/1989/1893), [reg. 2](https://www.legislation.gov.uk/uksi/1989/1893/regulation/2) and by [S.I. 1989/2369](https://www.legislation.gov.uk/uksi/1989/2369), [reg. 2](https://www.legislation.gov.uk/uksi/1989/2369/regulation/2)
+
+[^c863331]: Marginal citation: [S.I](https://www.legislation.gov.uk/ukpga/1988/49/section/I). [1980 No. 362](https://www.legislation.gov.uk/ukcm/1980/362).
+
+[^c863341]: Marginal citation: [S.I](https://www.legislation.gov.uk/ukpga/1988/49/section/I). [1980 No. 1177](https://www.legislation.gov.uk/ukcm/1980/1177).
+
+[^key-4eb6e4605c967ca257fea511a71800c0]: Textual amendment: [S. 10(1)](https://www.legislation.gov.uk/ukpga/1988/49/section/10/1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+
+[^c863361]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^key-051c4ac020ae7f3ad23d3e894ca9adc7]: Textual amendment: S. 11(1)-(3) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+
+[^c863381]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^key-b5d960fc1d521abbf51e2127486f70ea]: Textual amendment: Words in s. 11(7) omitted (1.3.2007) by virtue of [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 117(a)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/117/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^c863401]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^key-c746cd1ae576b0170bc9861b72505ddd]: Textual amendment: Words in s. 11(7) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 117(b)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/117/b) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^key-641dce2a549c3943ae2c7a1dd8a3e390]: Textual amendment: Words in [s. 11(8)](https://www.legislation.gov.uk/ukpga/1988/49/section/11/8) omitted (1.3.2007) by virtue of [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 118](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/118) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^key-b941f1bd8848b7055ea84e88272aa23f]: Textual amendment: Words in s. 12(1) repealed (1.4.2006 for E.) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 11 para. 54(a)](https://www.legislation.gov.uk/ukpga/2003/43/schedule/11/paragraph/54/a), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4); [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [arts. 10(2)(i)](https://www.legislation.gov.uk/uksi/2005/2925/article/10/2/i), [11](https://www.legislation.gov.uk/uksi/2005/2925/article/11)
+
+[^key-83fc9369830329696fddec6fb5464297]: Textual amendment: Words in s. 12(1)(a) repealed (1.4.2006 for E.) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 11 para. 54(b)](https://www.legislation.gov.uk/ukpga/2003/43/schedule/11/paragraph/54/b), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4); [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [arts. 10(2)(i)](https://www.legislation.gov.uk/uksi/2005/2925/article/10/2/i), [11](https://www.legislation.gov.uk/uksi/2005/2925/article/11)
+
+[^key-d8df6ca5dc6bf0813c9f9132099b0fb8]: Textual amendment: Words in s. 12(1)(b) repealed (1.4.2006 for E.) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 11 para. 54(c)(i)](https://www.legislation.gov.uk/ukpga/2003/43/schedule/11/paragraph/54/c/i), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4); [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [arts. 10(2)(i)](https://www.legislation.gov.uk/uksi/2005/2925/article/10/2/i), [11](https://www.legislation.gov.uk/uksi/2005/2925/article/11)
+
+[^key-75e5d8d38290c3d0c9201faac5670b1f]: Textual amendment: Words in s. 12(1)(b) substituted (1.4.2006 for E.) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 11 para. 54(c)(ii)](https://www.legislation.gov.uk/ukpga/2003/43/schedule/11/paragraph/54/c/ii); [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 10(2)(i)](https://www.legislation.gov.uk/uksi/2005/2925/article/10/2/i)
+
+[^key-17e2e6fa90003776860c3f0fb1a36e2b]: Textual amendment: Words in s. 12(1)(b) repealed (1.4.2006 for E.) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 11 para. 54(c)(iii)](https://www.legislation.gov.uk/ukpga/2003/43/schedule/11/paragraph/54/c/iii), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4); [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [arts. 10(2)(i)](https://www.legislation.gov.uk/uksi/2005/2925/article/10/2/i), [11](https://www.legislation.gov.uk/uksi/2005/2925/article/11)
+
+[^c863431]: Textual amendment: S. 12(4)(5) repealed (5.2.1994) by 1993 (c. 46), ss. 20, 22(4), Sch.3.
+
+[^key-9070cdb08bbb91148f722b440da404f8]: Textual amendment: [S. 13(1)](https://www.legislation.gov.uk/ukpga/1988/49/section/13/1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+
+[^key-1f543a2cbb695f06da0d2e24daeb1b5d]: Textual amendment: Words in [s. 13(2)](https://www.legislation.gov.uk/ukpga/1988/49/section/13/2) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+
+[^c863451]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^key-c760c8cdfda6ce694fd9b68979df270d]: Textual amendment: [S. 13(3)](https://www.legislation.gov.uk/ukpga/1988/49/section/13/3) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+
+[^c863471]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^c863481]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^c863491]: Textual amendment: S. 13(6)(7) repealed by [Opticians Act 1989 (c. 44, SIF 83:1)](https://www.legislation.gov.uk/ukpga/1989/44), [s. 37(4)](https://www.legislation.gov.uk/ukpga/1989/44/section/37/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/1989/44/schedule/2)
+
+[^c863501]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1988/49/section/14) repealed by [Opticians Act 1989 (c. 44, SIF 83:1)](https://www.legislation.gov.uk/ukpga/1989/44), [s. 37(4)](https://www.legislation.gov.uk/ukpga/1989/44/section/37/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/1989/44/schedule/2)
+
+[^c863511]: Modification: S. 15 amended (*prosp.*) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [ss. 10(3)](https://www.legislation.gov.uk/ukpga/1999/8/section/10/3), [67(2)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/2)
+
+[^key-f26f97d1e1af8f1efbe9bc6d87fc2dee]: Textual amendment: Words in s. 15(1) repealed (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+
+[^c863531]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^key-e2c8763e35bfe02a3769ed60f2a6e624]: Textual amendment: S. 15(2) repealed (1.3.2007 immediately before the National Health Service Act 2006 comes into force) (to the extent that it amends s. 43A of the National Health Service Act 1977) by [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+
+[^key-b17fd7e7eda12dcd4b900d05309f08cd]: Textual amendment: Words in s. 15(3) repealed (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+
+[^c863541]: Marginal citation: [1984 c. 48](https://www.legislation.gov.uk/ukpga/1984/48).
+
+[^c863551]: Textual amendment: [S. 16(1)(2)](https://www.legislation.gov.uk/ukpga/1988/49/section/16/1/2) repealed (28.6.1995 for specified purposes and otherwise 1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [ss. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1995/17/section/5/1/2), [8](https://www.legislation.gov.uk/ukpga/1995/17/section/8), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
+
+[^key-ce3494ab9aea22f6a86790ca2f07a8a2]: Textual amendment: Words in s. 17(1) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 119(a)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/119/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^key-d1143e6be71e5efa6ea93f42b5c874dd]: Textual amendment: Word in s. 17(1) substituted (1.4.2004) by [The Primary Medical Services (Scotland) Act 2004 (Modification of Enactments) Order 2004 (S.S.I. 2004/167)](https://www.legislation.gov.uk/ssi/2004/167), [art. 1](https://www.legislation.gov.uk/ssi/2004/167/article/1), [sch. para. 2(a)(i)](https://www.legislation.gov.uk/ssi/2004/167/schedule/paragraph/2/a/i)
+
+[^c863621]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^key-0828ef1052849e3e67024ba4f5fd82b0]: Textual amendment: Words in s. 17(1)(a) inserted (1.4.2004) by [The Primary Medical Services (Scotland) Act 2004 (Modification of Enactments) Order 2004 (S.S.I. 2004/167)](https://www.legislation.gov.uk/ssi/2004/167), [art. 1](https://www.legislation.gov.uk/ssi/2004/167/article/1), [Sch. para. 2(a)(ii)](https://www.legislation.gov.uk/ssi/2004/167/schedule/paragraph/2/a/ii)
+
+[^c863631]: Modification: S. 17(1)(d): transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/672/article/1/2), [2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^c863641]: Marginal citation: S.I. [1974 No. 455](https://www.legislation.gov.uk/ukcm/1974/455).
+
+[^c863651]: Marginal citation: S.I. [1974 No. 504](https://www.legislation.gov.uk/ukcm/1974/504).
+
+[^key-181a31719b3feed7b07fc6e0201fb23a]: Textual amendment: Words in s. 17(2)(a)(ii) inserted (1.4.2004) by [The Primary Medical Services (Scotland) Act 2004 (Modification of Enactments) Order 2004 (S.S.I. 2004/167)](https://www.legislation.gov.uk/ssi/2004/167), [art. 1](https://www.legislation.gov.uk/ssi/2004/167/article/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/ssi/2004/167/schedule/paragraph/2/b)
+
+[^key-60fb24865164998531267dc69390446a]: Textual amendment: Words in s. 17(2)(b) inserted (2.7.2010) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [s. 43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3), [Sch. 2 para. 3(c)(i)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/3/c/i); [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
+
+[^key-8895ec3e2e807fc74676a18d0270ce14]: Textual amendment: Words in s. 17(2)(b) inserted (2.7.2010) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [s. 43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3), [Sch. 2 para. 3(c)(ii)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/3/c/ii); [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
+
+[^c863661]: Textual amendment: S. 17(3A) inserted (1.4.1998) by [1997 c. 46](https://www.legislation.gov.uk/ukpga/1997/46), [s. 41(10)](https://www.legislation.gov.uk/ukpga/1997/46/section/41/10), [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1997/46/schedule/2/part/I), [para. 64(4)](https://www.legislation.gov.uk/ukpga/1997/46/paragraph/64/4); [S.I. 1998/631](https://www.legislation.gov.uk/uksi/1998/631), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/631/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/631/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1998/631/schedule/2)
+
+[^key-eaae53dc1517fbd4e09880657e851c4d]: Textual amendment: Words in s. 17(3A) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 119(b)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/119/b) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^key-c200d844b47ddb9fcfff2ff23120f341]: Textual amendment: Words in [s. 18](https://www.legislation.gov.uk/ukpga/1988/49/section/18) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 120](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/120) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+
+[^c863791]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^key-25e94c3a5b24c2ddb848110b9b562ad7]: Textual amendment: Words in s. 18 repealed (27.9.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/465/schedule/2)
+
+[^c863811]: Textual amendment: Words in s. 18 substituted (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 240](https://www.legislation.gov.uk/ukpga/1996/18/section/240), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 1 para. 40](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/40) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
+
+[^c863821]: Marginal citation: [1968 c. 46](https://www.legislation.gov.uk/ukpga/1968/46).
+
+[^c863831]: Marginal citation: [1970 c. 42](https://www.legislation.gov.uk/ukpga/1970/42).
+
+[^c863841]: Marginal citation: [1971 c. 69](https://www.legislation.gov.uk/ukpga/1971/69).
+
+[^c863851]: Marginal citation: [1971 c. 69](https://www.legislation.gov.uk/ukpga/1971/69).
+
+[^c863861]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
+
+[^c863871]: Modification: [S. 23](https://www.legislation.gov.uk/ukpga/1988/49/section/23): transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/672/article/1/2), [2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+
+[^c863881]: Modification: Power of appointment conferred by s. 26(1) fully exercised: [S.I. 1988/2107](https://www.legislation.gov.uk/uksi/1988/2107), 1989/111, 337, 826, 1229, 1896, 1984
+
+[^c863891]: Textual amendment: Words repealed by [Opticians Act 1989 (c. 44, SIF 83:1)](https://www.legislation.gov.uk/ukpga/1989/44), [s. 37(4)](https://www.legislation.gov.uk/ukpga/1989/44/section/37/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/1989/44/schedule/2)
+
+[^c863901]: Marginal citation: [1966 c. 8](https://www.legislation.gov.uk/ukpga/1966/8).
+
+[^c863911]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
+
+[^c863921]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
+
+[^c863931]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^c863941]: Marginal citation: [1980 c. 53](https://www.legislation.gov.uk/ukpga/1980/53).
+
+[^c863951]: Marginal citation: [1984 c. 48](https://www.legislation.gov.uk/ukpga/1984/48).
+
+[^c863961]: Marginal citation: [1985 c. 9](https://www.legislation.gov.uk/ukpga/1985/9).
+
+[^c863971]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
+
+[^c863981]: Marginal citation: [1974 c. 28](https://www.legislation.gov.uk/ukpga/1974/28).
+
+[^c863991]: Textual amendment: Words repealed by [Opticians Act 1989 (c. 44, SIF 83:1)](https://www.legislation.gov.uk/ukpga/1989/44), [s. 37(4)](https://www.legislation.gov.uk/ukpga/1989/44/section/37/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/1989/44/schedule/2)
+
+[^key-442919f8e031c94bd2a55a597b236e29]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1988/49/schedule/2/paragraph/1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+
+[^key-3f3485ad6b781317c4ec0971315fbb12]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1988/49/schedule/2/paragraph/2) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+
+[^c864001]: Textual amendment: Sch. 2 para. 3 repealed (10.12.1998) by [1997 c. 46](https://www.legislation.gov.uk/ukpga/1997/46), [s. 41(12)](https://www.legislation.gov.uk/ukpga/1997/46/section/41/12), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1997/46/schedule/3/part/I); [S.I. 1998/2840](https://www.legislation.gov.uk/uksi/1998/2840), [art. 2(3)](https://www.legislation.gov.uk/uksi/1998/2840/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/1998/2840/schedule)
+
+[^key-e480cbd843ba13e2e5aa601938ab7c70]: Textual amendment: [Sch. 2 paras. 4-6](https://www.legislation.gov.uk/ukpga/1988/49/schedule/2/paragraph/4) repealed (1.4.2006 for E., 1.4.2006 for W. for specified purposes) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4); [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 11](https://www.legislation.gov.uk/uksi/2005/2925/article/11); [S.I. 2006/345](https://www.legislation.gov.uk/wsi/2006/345), [art. 7(2)(f)](https://www.legislation.gov.uk/wsi/2006/345/article/7/2/f); [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 11](https://www.legislation.gov.uk/uksi/2005/2925/article/11); [S.I. 2006/345](https://www.legislation.gov.uk/wsi/2006/345), [art. 7(2)(f)](https://www.legislation.gov.uk/wsi/2006/345/article/7/2/f)
+
+[^key-789bb7a53a24a11de9af2ddba70c5d84]: Textual amendment: Sch. 2 para. 7(1) (2) repealed (1.4.2006 for E., 1.4.2006 for W. for specified purposes) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4); [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 11](https://www.legislation.gov.uk/uksi/2005/2925/article/11); [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345), [art. 7(2)(f)](https://www.legislation.gov.uk/uksi/2006/345/article/7/2/f); [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 11](https://www.legislation.gov.uk/uksi/2005/2925/article/11); [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345), [art. 7(2)(f)](https://www.legislation.gov.uk/uksi/2006/345/article/7/2/f); [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 11](https://www.legislation.gov.uk/uksi/2005/2925/article/11); [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345), [art. 7(2)(f)](https://www.legislation.gov.uk/uksi/2006/345/article/7/2/f); [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 11](https://www.legislation.gov.uk/uksi/2005/2925/article/11); [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345), [art. 7(2)(f)](https://www.legislation.gov.uk/uksi/2006/345/article/7/2/f)
+
+[^key-35f22ebfd2f4aad2150d2d9b332bc74b]: Textual amendment: [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/ukpga/1988/49/schedule/2/paragraph/7/3) [(4)](https://www.legislation.gov.uk/ukpga/1988/49/schedule/2/paragraph/7/4) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+
+[^key-532e0f1594a48805bdb9609e0c224cb4]: Textual amendment: [Sch. 2 para. 8(1)](https://www.legislation.gov.uk/ukpga/1988/49/schedule/2/paragraph/8/1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+
+[^key-2c9c0a2b241787aab693c5dfa85295e7]: Textual amendment: Sch. 2 para. 8(2) (3) repealed (1.4.2006 for E., 1.4.2006 for W. for specified purposes) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4); [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 11](https://www.legislation.gov.uk/uksi/2005/2925/article/11); [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345), [art. 7(2)(f)](https://www.legislation.gov.uk/uksi/2006/345/article/7/2/f); [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 11](https://www.legislation.gov.uk/uksi/2005/2925/article/11); [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345), [art. 7(2)(f)](https://www.legislation.gov.uk/uksi/2006/345/article/7/2/f); [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 11](https://www.legislation.gov.uk/uksi/2005/2925/article/11); [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345), [art. 7(2)(f)](https://www.legislation.gov.uk/uksi/2006/345/article/7/2/f); [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925), [art. 11](https://www.legislation.gov.uk/uksi/2005/2925/article/11); [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345), [art. 7(2)(f)](https://www.legislation.gov.uk/uksi/2006/345/article/7/2/f)
+
+[^c864021]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^c864031]: Textual amendment: Sch. 2 para. 11 repealed by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 66(2)](https://www.legislation.gov.uk/ukpga/1990/19/section/66/2), [Sch. 10](https://www.legislation.gov.uk/ukpga/1990/19/schedule/10)

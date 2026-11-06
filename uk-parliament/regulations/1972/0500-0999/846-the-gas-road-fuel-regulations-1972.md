@@ -1,0 +1,95 @@
+---
+title: The Gas (Road Fuel) Regulations 1972
+id: uksi/1972/846
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1972-06-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1972/846
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1972/846/pdfs/uksi_19720846_en.pdf
+- http://www.legislation.gov.uk/uksi/1972/846/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Gas (Road Fuel) Regulations 1972
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1972 No. 846
+
+CUSTOMS AND EXCISE
+
+The Gas (Road Fuel) Regulations 1972
+
+Made
+
+2nd June 1972
+
+Laid before Parliament
+
+8th June 1972
+
+Coming into Operation
+
+3rd July 1972
+
+The Commissioners of Customs and Excise in exercise of the powers conferred on them by section 3 of the Finance Act 1971 and of all other powers enabling them in that behalf, hereby make the following Regulations—
+
+**1.** These Regulations may be cited as the Gas (Road Fuel) Regulations 1972 and shall come into operation on the 3rd July 1972.
+
+**2.** In these Regulations—
+
+- “**Authorised person**” means any person acting under the authority of the Commissioners;
+- “**gas**” means any substance which is gaseous at a temperature of 60° Fahrenheit and under a pressure of one atmosphere and which is for use as fuel in road vehicles.
+
+**3.** The Interpretation Act 1889 shall apply for the interpretation of these Regulations as it applies for the interpretation of an Act of Parliament.
+
+**4.** (1) Any person who intends to sent out, set aside or supply gas shall notify the Commissioners in such form and manner as they may require not later than 7 days before such gas is first sent out, set aside or supplied.
+
+(2) A person who has notified the Commissioners in accordance with sub paragraph (1), shall, within 7 days of any variation arising in such notification, give the Commissioners particulars in writing of that variation.
+
+**5.** Every person required by Regulation 4 to give a notification shall, unless the Commissioners otherwise require, furnish, not later than the 15th day of each month, to the Collector of Customs and Excise in whose Collection that person's premises are situated, on forms provided by the Commissioners, a return of the quantities of gas upon which excise duty has not been paid, which have been sent out, set aside or used as fuel in a road vehicle during the preceding month and at the same time pay to that Collector the excise duty chargeable on the said gas.
+
+**6.** No person shall mix or cause to be mixed gas upon which the duty has been charged with gas upon which the duty has not been charged or with any other substance, save with the authority of the Commissioners and subject to such conditions as they impose.
+
+**7.** Every person required by Regulation 4 to give a notification shall keep books and documents in which are recorded the date, quantity and description of the gas which on each occasion he produces, deals in, supplies, sends out or sets aside.
+
+**8.** A person who owns or possesses any road vehicle constructed or adapted to use gas as fuel for its propulsion shall, if the Commissioners so require, keep books and documents showing in respect of each such vehicle—
+
+- (a) the description, registration mark and number of the vehicle;
+- (b) the date, quantity and description of all gas taken into the vehicle as fuel for its propulsion;
+- (c) the date of, and the distance travelled by the vehicle on, each journey or where the vehicle is used otherwise than in making a journey from place to place, the date and nature of such use,
+
+and shall retain such books and documents for not less than 12 months from the date of the last entry therein, and produce them on demand to an authorised person at all reasonable times for his inspection.
+
+**9.** Save with the permission of the Commissioners, no person shall within 12 months from the date of the last entry therein cancel, obliterate, alter or destroy any book or document required by these Regulations to be kept.
+
+**10.** Every person concerned with the supply or use of gas shall on demand at all reasonable times produce to an authorised person any book or other document relating thereto.
+
+**11.** An authorised person may, at any reasonable time, enter and inspect any premises (other than a private dwelling house) and may examine any gas and may require the occupier of such premises to give such facilities as may be necessary for that purpose.
+
+**12.** An authorised person may at any time examine any road vehicle constructed or adapted to use gas as fuel for its propulsion.
+
+**13.** Every person concerned with the production of, or dealing in gas or owning, possessing, or for the time being in charge of a road vehicle constructed or adapted to use gas as fuel for its propulsion shall on demand by an authorised person furnish such information relating to the supply or use of gas or containers for gas as that authorised person may require.
+
+C. T. Cross
+
+Commissioner of Customs and Excise
+
+Kings Beam House
+
+Mark Lane
+
+London, E.C.3
+
+2nd June 1972
+
+EXPLANATORY NOTE
+
+These Regulations prescribe the procedure to be followed by persons who send out, set aside or supply gas for use as road fuel chargeable with excise duty under section 3 of the Finance Act 1971. In particular they provide for the keeping and production of books and records, the furnishing of returns and information and the payment of excise duty. They also provide for entry upon and inspection of premises (other than a private dwelling house) and examination of gas by authorised persons.

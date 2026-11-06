@@ -1,0 +1,190 @@
+---
+title: The Natural Environment and Rural Communities Act 2006 (Commencement No. 3 and Transitional Provisions) Order 2006
+id: uksi/2006/2541
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2006-09-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2006/2541
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/2541/pdfs/uksi_20062541_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/2541/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Natural Environment and Rural Communities Act 2006 (Commencement No. 3 and Transitional Provisions) Order 2006
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2006 No. 2541 (C.86)
+
+AGRICULTURE
+
+NATURE CONSERVATION
+
+Natural environment, England AND WALES
+
+Rural AFFAIRS, england AND WALES
+
+The Natural Environment and Rural Communities Act 2006 (Commencement No. 3 and Transitional Provisions) Order 2006
+
+Made
+
+*20th* September 2006
+
+The Secretary of State has consulted the Scottish Ministers, the Department of Agriculture and Rural Development in Northern Ireland and the Department of the Environment in Northern Ireland as required by subsections (2), (6)(b), (7)(b) and (8)(b) and (c) of section 107 of the Natural Environment and Rural Communities Act 2006[^f00001];
+
+He makes the following Order in exercise of the powers conferred by that section:
+
+## 1. Citation and interpretation
+
+(1) This Order may be cited as the Natural Environment and Rural Communities Act 2006 (Commencement No. 3 and Transitional Provisions) Order 2006.
+
+(2) In this Order “the 2006 Act” means the Natural Environment and Rural Communities Act 2006.
+
+## 2. Provisions coming into force on 1st October 2006
+
+The following provisions of the 2006 Act come into force on 1st October 2006—
+
+- section 1(4);
+- sections 3 and 4;
+- sections 6 to 8;
+- section 10;
+- section 11, so far as it has not already been commenced;
+- section 12;
+- section 15(1);
+- sections 17 to 25 and Schedule 2;
+- sections 26 to 28 and Schedule 3;
+- section 30;
+- sections 31 to 39 and Schedule 4;
+- sections 40 to 46;
+- sections 48 to 51;
+- section 54 and 55;
+- section 58;
+- section 60;
+- in section 61, subsection (6) and subsection (1) so far as it relates to that subsection;
+- sections 62 to 65;
+- section 87 to 90 and Schedules 8 to 10;
+- sections 91 to 97;
+- section 100;
+- section 101;
+- section 105(1), so far as it has not already been commenced, and the following paragraphs of Schedule 11—
+  - paragraphs 1 to 33;
+  - paragraph 34, so far as it has not already been commenced;
+  - paragraphs 35 to 38;
+  - paragraph 39, so far as it has not already been commenced;
+  - paragraphs 40 to 57;
+  - paragraph 58, so far as it has not already been commenced;
+  - paragraph 59;
+  - paragraphs 60 and 61, so far as they have not already been commenced;
+  - paragraphs 62 to 104;
+  - paragraph 105, so far as it has not already been commenced;
+  - paragraphs 106 to 152;
+  - paragraph 153, so far as it has not already been commenced;
+  - paragraphs 154 to 173;
+- section 105(2), so far as it has not already been commenced and Schedule 12, so far as it has not already been commenced, with the exception of the entry relating to the Transport Act 1968.
+
+## 3. Transitional provisions
+
+(1) The transitional provisions in the Schedule to this Order have effect.
+
+(2) Paragraph (1) comes into force on 1st October 2006.
+
+Barry Gardiner
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+20th September 2006
+
+## SCHEDULE — Transitional provisions
+
+Article 3(1)
+
+**1.** (1) This paragraph makes transitional provision in relation to any reference in subordinate legislation to—
+
+- (a) English Nature;
+- (b) the Nature Conservancy Council for England;
+- (c) the Countryside Agency;
+- (d) the Countryside Commission; or
+- (e) the Development Commission.
+
+(2) For the purpose of anything to be done by any person on or after 1st October 2006, any such reference is to be treated as being a reference to Natural England, unless the context otherwise requires.
+
+(3) Any reference to two or more of the bodies mentioned in sub-paragraph (1) in any list of persons to be consulted is to be treated as being a single reference to Natural England.
+
+**2.** (1) For the purposes of section 15A(2)(b) of the Countryside Act 1968[^f00002], a breach of an agreement entered into by English Nature under section 15 of that Act[^f00003] before 1st October 2006 is to be treated as being a breach of an SSSI agreement.
+
+(2) In this paragraph, “SSSI agreement” has the meaning given to it in section 15A(6) of that Act[^f00004].
+
+**3.** For the purpose of amending or revoking any agreement entered into by English Nature, or any predecessor of English Nature, under section 16 of the National Parks and Access to the Countryside Act 1949[^f00005], Natural England is to be treated as having such powers under that section in relation to England as the Countryside Council for Wales has in relation to Wales.
+
+**4.** For the purpose of amending or revoking any agreement entered into by English Nature, or any predecessor of English Nature, under section 15 of the Countryside Act 1968, Natural England is to be treated as having such powers under that section in relation to England as the Countryside Council for Wales has in relation to Wales.
+
+**5.** For the purpose of amending or revoking any agreement entered into by the Countryside Agency, or any predecessor of the Countryside Agency, under section 39 of the Wildlife and Countryside Act 1981[^f00006], Natural England is to be treated as having such powers under that section in relation to England as the Countryside Council for Wales has in relation to Wales.
+
+**6.** (1) Any list published by the Secretary of State in accordance with section 74 of the Countryside and Rights of Way Act 2000[^f00007] in relation to England is to be treated as having been published in accordance with section 41(1) of the 2006 Act.
+
+(2) Any list published by the National Assembly for Wales in accordance with section 74 of the Countryside and Rights of Way Act 2000 in relation to Wales is to be treated as having been published in accordance with section 42(1) of the 2006 Act.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Article 2 of this Order brings into force certain provisions of the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16) (“the Act”) on 1st October 2006.
+
+Article 3 and the Schedule contain transitional provisions.
+
+Detailed explanation of the provisions can be found in the Explanatory Notes for the Act, which are available from The Stationery Office, PO Box 29, Norwich NR3 1GN (or online at www.opsi.gov.uk).
+
+NOTE AS TO EARLIER COMMENCEMENT ORDERS
+
+(This note is not part of the Order)
+
+The following provisions of the Natural Environment and Rural Communities Act 2006 have been brought into force by commencement order made before the date of this Order.
+
+| Provision | Date of Commencement | S.I. No. |
+| --- | --- | --- |
+| Section 1 (partially) | 2nd May 2006 | [2006/1176](https://www.legislation.gov.uk/uksi/2006/1176) |
+| Section 2 | 2nd May 2006 | [2006/1176](https://www.legislation.gov.uk/uksi/2006/1176) |
+| Section 5 | 2nd May 2006 | [2006/1176](https://www.legislation.gov.uk/uksi/2006/1176) |
+| Section 9 | 2nd May 2006 | [2006/1176](https://www.legislation.gov.uk/uksi/2006/1176) |
+| Section 11 (partially) | 2nd May 2006 | [2006/1176](https://www.legislation.gov.uk/uksi/2006/1176) |
+| Sections 13 and 14 | 2nd May 2006 | [2006/1176](https://www.legislation.gov.uk/uksi/2006/1176) |
+| Section 15 (partially) | 2nd May 2006 | [2006/1176](https://www.legislation.gov.uk/uksi/2006/1176) |
+| Section 16 | 2nd May 2006 | [2006/1176](https://www.legislation.gov.uk/uksi/2006/1176) |
+| Section 29 | 2nd May 2006 | [2006/1176](https://www.legislation.gov.uk/uksi/2006/1176) |
+| Section 47 | 31st May 2006 | [2006/1382](https://www.legislation.gov.uk/uksi/2006/1382) |
+| Sections 52 and 53 | 31st May 2006 | [2006/1382](https://www.legislation.gov.uk/uksi/2006/1382) |
+| Sections 56 and 57 | 31st May 2006 | [2006/1382](https://www.legislation.gov.uk/uksi/2006/1382) |
+| Sections 66 to 71 (in relation to England only) | 2nd May 2006 | [2006/1176](https://www.legislation.gov.uk/uksi/2006/1176) |
+| Sections 78 to 86 | 31st May 2006 | [2006/1382](https://www.legislation.gov.uk/uksi/2006/1382) |
+| Section 98 | 2nd May 2006 | [2006/1176](https://www.legislation.gov.uk/uksi/2006/1176) |
+| Section 105(1) (partially) | 2nd May 2006 | [2006/1176](https://www.legislation.gov.uk/uksi/2006/1176) |
+| Section 105(2) (partially) (in relation to England only) | 2nd May 2006 | [2006/1176](https://www.legislation.gov.uk/uksi/2006/1176) |
+| Schedule 1 | 2nd May 2006 | [2006/1176](https://www.legislation.gov.uk/uksi/2006/1176) |
+| Schedules 5 to 7 | 31st May 2006 | [2006/1382](https://www.legislation.gov.uk/uksi/2006/1382) |
+| Schedule 11, paragraphs 34, 39, 58, 60 to 61, 105 and 153 (all partially) | 2nd May 2006 | [2006/1176](https://www.legislation.gov.uk/uksi/2006/1176) |
+| Schedule 12 (partially) | 2nd May 2006 | [2006/1176](https://www.legislation.gov.uk/uksi/2006/1176) |
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 16](https://www.legislation.gov.uk/ukpga/2006/16).
+
+[^f00002]: Footnote: [1968 c.41](https://www.legislation.gov.uk/ukpga/1968/41). Section 15A was inserted by the Countryside and Rights of Way Act [2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37), section 75(4); it is amended by the commencement by this Order of the Natural Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16), section 105 and Schedule 11, paragraph 49.
+
+[^f00003]: Footnote: [1968 c.41](https://www.legislation.gov.uk/ukpga/1968/41). Section 15 was amended by the Nature Conservancy Council Act [1973 (c.54)](https://www.legislation.gov.uk/ukpga/1973/54), section 1(1)(b) and Schedule 1, paragraph 9, the Wildlife and Countryside Act [1981 (c.69)](https://www.legislation.gov.uk/ukpga/1981/69), sections 72(8) and 73 and Schedule 17, Part I, the Environmental Protection Act [1990 (c.43)](https://www.legislation.gov.uk/ukpga/1990/43), section 132 and Schedule 9, paragraph 4(2), and section 162(2) and Schedule 16, Part VI, the Natural Heritage (Scotland) Act [1991 (c.28)](https://www.legislation.gov.uk/ukpga/1991/28), section 4 and Schedule 2, paragraph 3, the Countryside and Rights of Way Act [2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37), section 73(4) and Schedule 8, paragraph 1, and section 75(3), and the Abolition of Feudal Tenure etc. (Scotland) Act [2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), section 76 and Schedule 12, Part 1, paragraph 29; it is further amended by the commencement by this Order of the Natural Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16), section 105(1) and Schedule 11, paragraph 48.
+
+[^f00004]: Footnote: Section 15A(6) is inserted by the commencement by this Order of the Natural Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16), section 105(1) and Schedule 11, paragraph 49.
+
+[^f00005]: Footnote: [1949 c.97](https://www.legislation.gov.uk/ukpga/1949/97). Section 16 was amended by the Nature Conservancy Council Act [1973 (c.54)](https://www.legislation.gov.uk/ukpga/1973/54), section 1(1)(b) and (7) and Schedule 1, paragraph 1, and the Natural Heritage (Scotland) Act [1991 (c.28)](https://www.legislation.gov.uk/ukpga/1991/28), section 4(6) and Schedule 2, paragraph 1(3); it is further amended by the commencement by this Order of the Natural Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16), section 105(1) and Schedule 11, paragraph 14.
+
+[^f00006]: Footnote: [1981 c.69](https://www.legislation.gov.uk/ukpga/1981/69). Section 39 was amended by the [Local Government Act 1985(c.51)](https://www.legislation.gov.uk/ukpga/1985/51), section 7 and Schedule 3, paragraph 7, and section 102(2) and Schedule 17, the Norfolk and Suffolk Broads Act [1988 (c.4)](https://www.legislation.gov.uk/ukpga/1988/4), section 2(5) and Schedule 3, Part 1, paragraph 31(2), the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), section 120 and Schedule 24, the Countryside and Rights of Way Act [2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37), sections 96 and 102 and Schedule 16, Part IV; it is further amended by the commencement by this Order of the Natural Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16), section 105(1) and Schedule 11, paragraph 87.
+
+[^f00007]: Footnote: [2000 c.37](https://www.legislation.gov.uk/ukpga/2000/37).

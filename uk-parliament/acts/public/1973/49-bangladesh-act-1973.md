@@ -1,0 +1,165 @@
+---
+title: Bangladesh Act 1973
+id: ukpga/1973/49
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1973-07-25'
+text_date: '2009-10-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1973/49
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1973/49/pdfs/ukpga_19730049_en.pdf
+- http://www.legislation.gov.uk/ukpga/1973/49/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Bangladesh Act 1973
+
+> Text as at 2009-10-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Bangladesh Act 1973
+
+1973 c.49
+
+An Act to make provision in connection with the establishment of Bangladesh as an independent Republic within the Commonwealth.
+
+\[25th July 1973\]
+
+## 1. Operation of existing law.
+
+(1) All law to which this subsection applies, whether being a rule of law or a provision of an Act of Parliament or of any other enactment or instrument whatsoever, which was in force on 23rd March 1956 (when Pakistan became a Republic) or was passed or made before that date and came into force thereafter shall, unless and until provision to the contrary is made by Parliament or some other authority having power in that behalf, have the same operation in relation to Bangladesh, and persons and things belonging to or connected with Bangladesh, as it would have if Bangladesh were part of those of Her Majesty’s dominions which are not colonies.
+
+(2) Subsection (1) of this section applies to law of, or of any part of, the United Kingdom, the Channel Islands and the Isle of Man, and, in relation only to any enactment of the Parliament of the United Kingdom or any Order in Council made by virtue of any such enactment whereby any such enactment applies in relation to Bangladesh, to law of any other country or territory to which that enactment or Order extends.
+
+(3) The Schedule to this Act shall have effect in relation to the enactments mentioned therein.
+
+(4) This section shall be deemed to have had effect from 4th February 1972.
+
+## 2. Nationality.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c702870]
+
+## 3. Power to make consequential adaptations.
+
+(1) Her Majesty may by Order in Council make such adaptations in any Act of Parliament passed before this Act, or in any instrument having effect under any such Act, as appear to Her Majesty to be necessary or expedient in consequence of Bangladesh having become an independent Republic within the Commonwealth.
+
+(2) An Order in Council under this section—
+
+- (a) may be made so as to have effect from 4th February 1972 or any later date,
+- (b) may contain such transitional or other incidental or supplemental provisions as appear to Her Majesty to be necessary or expedient,
+- (c) may be varied or revoked by a subsequent Order in Council, and
+- (d) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) No Order in Council shall be made under this section after the end of the period of three years beginning with the day on which this Act is passed.
+
+## 4. Short title.
+
+This Act may be cited as the Bangladesh Act 1973.
+
+## SCHEDULE — Modification of Enactments
+
+Section 1.
+
+### Armed Forces
+
+**1.**[^key-012221c5246674db88c2b333e76dd015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.** In the [^c702875]Visiting Forces Act 1952, at the end of section 1(1)(*a*) (countries to which that Act applies) there shall be added the words “Bangladesh or”; and, until express provision with respect to Bangladesh is made by Order in Council under section 8 of that Act (application to visiting forces of law relating to home forces), any such Order for the time being in force shall be deemed to apply to visiting forces of Bangladesh.
+
+**3.** (1)[^c702876] In section 84(2) of the [^c702877]Offices, Shops and Railway Premises Act 1963 (exclusion of application to visiting forces), before the words “and any country” there shall be inserted the word “Bangladesh”.
+
+(2)[^c702878] In section 78(2) of the [^c702879]Offices and Shop Premises Act (Northern Ireland) 1966 (exclusion of application to visiting forces), before the words “and any country” there shall be inserted the word “Bangladesh”.
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c702880]
+
+### Diplomatic immunities
+
+**4.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c702881]
+
+### Financial
+
+**5.**[^c702882] In section 2(4) of the [^c702883]Import Duties Act 1958, before the words “together with” there shall be inserted the word “Bangladesh”.
+
+### Ships
+
+**6.**[^c702887] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c702888]
+
+**8.** In the [^c702889]Whaling Industry (Regulation) Act 1934, the expression “**British ship to which this Act applies**” shall not include a British ship registered in Bangladesh.
+
+### Films
+
+**9.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c702890]
+
+### Companies
+
+**10.** (1) Where a register of members of a company is kept in Bangladesh under section 119 of the [^c702891]Companies Act 1948 or section 116 of the [^c702892]Companies Act (Northern Ireland) 1960, it shall not be treated as improperly kept by reason only that, at any time after 3rd February 1972 and before 1st September 1974, it includes members resident in Pakistan.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c702893]
+
+### Commonwealth Institute
+
+**11.**[^c702897] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Medical, dental and veterinary qualifications
+
+**12.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c702898]
+
+**13.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c702899]
+
+**14.** For the purposes of the continued registration in the Commonwealth list contained in the register of veterinary surgeons kept under the [^c702900]Veterinary Surgeons Act 1966 of a person holding a qualification granted in Bangladesh (whether before or after 4th February 1972), Bangladesh shall be treated as always having been within the Commonwealth.
+
+## Annotations
+
+[^c702870]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1973/49/section/2) repealed by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [Sch. 9](https://www.legislation.gov.uk/ukpga/1981/61/schedule/9)
+
+[^key-012221c5246674db88c2b333e76dd015]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/1973/49/schedule/paragraph/1) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+
+[^c702875]: Marginal citation: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
+
+[^c702876]: Modification: The text of Sch. para. 3(1) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1. 2. 1991.
+
+[^c702877]: Marginal citation: [1963 c. 41](https://www.legislation.gov.uk/ukpga/1963/41)
+
+[^c702878]: Modification: The text of Sch. para. 3(2) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1. 2. 1991.
+
+[^c702879]: Marginal citation: [1966 c. 26 (N.I.)](https://www.legislation.gov.uk/apni/1966/26)
+
+[^c702880]: Textual amendment: [Sch. para. 3(3)](https://www.legislation.gov.uk/ukpga/1973/49/schedule/paragraph/3/3) repealed by [Statute Law (Repeals) Act 1977 (c. 18)](https://www.legislation.gov.uk/ukpga/1977/18), [Sch. 1 Pt. XIII](https://www.legislation.gov.uk/ukpga/1977/18/schedule/1/part/XIII)
+
+[^c702881]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/1973/49/schedule/paragraph/4) repealed by [International Organisations Act 1981 (c. 9, SIF 68:1)](https://www.legislation.gov.uk/ukpga/1981/9), [Sch.](https://www.legislation.gov.uk/ukpga/1981/9/schedule)
+
+[^c702882]: Modification: The text of Sch. para. 5 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1. 2. 1991.
+
+[^c702883]: Marginal citation: [1958 c. 6](https://www.legislation.gov.uk/ukpga/1958/6)
+
+[^c702887]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/1973/49/schedule/paragraph/6) repealed (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/1), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 12](https://www.legislation.gov.uk/ukpga/1995/21/schedule/12) (with [ss. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/1995/21/schedule/14/paragraph/1))
+
+[^c702888]: Textual amendment: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/1973/49/schedule/paragraph/7) repealed by [Statute Law (Repeals) Act 1977 (c. 18)](https://www.legislation.gov.uk/ukpga/1977/18), [Sch. 1 Pt. XV](https://www.legislation.gov.uk/ukpga/1977/18/schedule/1/part/XV)
+
+[^c702889]: Marginal citation: [1934 c. 49](https://www.legislation.gov.uk/ukpga/1934/49).
+
+[^c702890]: Textual amendment: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/1973/49/schedule/paragraph/9) repealed by [Films Act 1985 (c. 21, SIF 45A)](https://www.legislation.gov.uk/ukpga/1985/21), [Sch. 2](https://www.legislation.gov.uk/ukpga/1985/21/schedule/2)
+
+[^c702891]: Marginal citation: [1948 c. 38](https://www.legislation.gov.uk/ukpga/1948/38).
+
+[^c702892]: Marginal citation: [1960 c. 22 (N.I.)](https://www.legislation.gov.uk/apni/1960/22)
+
+[^c702893]: Textual amendment: [Sch. para. 10(2)](https://www.legislation.gov.uk/ukpga/1973/49/schedule/paragraph/10/2) repealed by [Statute Law (Repeals) Act 1977 (c. 18)](https://www.legislation.gov.uk/ukpga/1977/18), [Sch. 1 Pt. XIII](https://www.legislation.gov.uk/ukpga/1977/18/schedule/1/part/XIII)
+
+[^c702897]: Textual amendment: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/1973/49/schedule/paragraph/11) repealed (7.1.2003) by [2002 c. 39](https://www.legislation.gov.uk/ukpga/2002/39), [ss. 3](https://www.legislation.gov.uk/ukpga/2002/39/section/3), [4(2)](https://www.legislation.gov.uk/ukpga/2002/39/section/4/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2002/39/schedule/3)
+
+[^c702898]: Textual amendment: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/1973/49/schedule/paragraph/12) repealed by [Medical Act 1983 (c. 54, SIF 83:1)](https://www.legislation.gov.uk/ukpga/1983/54), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1983/54/schedule/7/part/I)
+
+[^c702899]: Textual amendment: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/1973/49/schedule/paragraph/13) repealed by [Dentists Act 1983 (c. 38, SIF 83:1)](https://www.legislation.gov.uk/ukpga/1983/38), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1983/38/schedule/3/part/I)
+
+[^c702900]: Marginal citation: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36).

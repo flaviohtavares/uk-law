@@ -1,0 +1,68 @@
+---
+title: The Free Zone (Liverpool) Designation (Variation) Order 1999
+id: uksi/1999/3122
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1999-11-19'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1999/3122
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/3122/pdfs/uksi_19993122_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/3122/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Free Zone (Liverpool) Designation (Variation) Order 1999
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1999 No. 3122
+
+CUSTOMS AND EXCISE
+
+The Free Zone (Liverpool) Designation (Variation) Order 1999
+
+Made
+
+19th November 1999
+
+Coming into force
+
+30th November 1999
+
+The Treasury, in exercise of the powers conferred on them by section 100A(4)(a)(ii) of the Customs and Excise Management Act 1979[^f00001] and of all other powers enabling them in that behalf, and with the agreement of the Mersey Docks and Harbour Company[^f00002], hereby make the following Order:
+
+**1.** This Order may be cited as the Free Zone (Liverpool) Designation (Variation) Order 1999 and shall come into force on 30th November 1999.
+
+**2.** The area designated a free zone by the Free Zone (Liverpool) Designation Order 1991[^f00003] shall be varied so as to consist of an area of 337.01 hectares in the County of Merseyside, comprising 77.87 hectares in the Metropolitan Borough of Wirral and 259.14 hectares in the Metropolitan Borough of Sefton, shown enclosed by a red line on maps (being of a scale of 1:2500), entitled Freeport Docks Plan Sheet No. 10 and Freeport Docks Plan Sheet No. 11 respectively, signed by a Collector of Customs and Excise and dated 2nd January 1998.
+
+**3.** The maps referred to in article 2 above shall be kept by the Commissioners at their Headquarters, New King’s Beam House, 22 Upper Ground, London SE1 9PJ (and copies thereof at the offices of the Mersey Docks and Harbour Company) in substitution for the maps referred to in article 2 of the Free Zone (Liverpool) Designation Order 1991.
+
+Bob Ainsworth
+
+David Jamieson
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+19th November 1999
+
+(This note is not part of the Order)
+
+This Order varies the area designated a free zone by the Free Zone (Liverpool) Designation Order 1991 by increasing it from 281 hectares to 337.01 hectares, 77.87 hectares of which are located within the Metropolitan Borough of Wirrall and 259.14 hectares of which are located within the Metropolitan Borough of Sefton.
+
+The revised area within the Metropolitan Borough of Wirral consists of the areas known as Vittoria Dock Complex, Cavendish Quay, Bidston Dock, West Float (north side) and East Float (north side). The effect of the variation is to extend the free zone westwards to incorporate the land and quayside area at Bidston Dock and to extend the free zone northwards to incorporate the land and quayside areas on the northern side of West and East Float.
+
+The revised area within the Metropolitan Borough of Sefton consists of the areas known as Seaforth Dock, Gladstone Dock, Alexandra Dock, Langton Dock, Brocklebank Dock and Canada Dock. The effect of the variation is to extend the free zone eastwards to incorporate an area of land located on the eastern side of Regent Road.
+
+## Annotations
+
+[^f00001]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2); section 100A was introduced by section 8 of and Schedule 4 to the Finance Act [1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43).
+
+[^f00002]: Footnote: The Mersey Docks and Harbour Company was appointed the responsible authority by article 3 of the Free Zone (Liverpool) Designation Order 1991 (S.I. [1991/1738](https://www.legislation.gov.uk/uksi/1991/1738)).
+
+[^f00003]: Footnote: S.I. [1991/1738](https://www.legislation.gov.uk/uksi/1991/1738).

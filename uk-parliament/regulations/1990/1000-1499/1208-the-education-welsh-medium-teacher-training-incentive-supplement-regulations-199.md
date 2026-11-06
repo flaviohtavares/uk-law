@@ -1,0 +1,147 @@
+---
+title: The Education (Welsh Medium Teacher Training Incentive Supplement) Regulations 1990
+id: uksi/1990/1208
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1990-05-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1990/1208
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1990/1208/pdfs/uksi_19901208_en.pdf
+- http://www.legislation.gov.uk/uksi/1990/1208/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Welsh Medium Teacher Training Incentive Supplement) Regulations 1990
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1990 No. 1208
+
+EDUCATION, ENGLAND AND WALES
+
+The Education (Welsh Medium Teacher Training Incentive Supplement) Regulations 1990
+
+Made
+
+30th May 1990
+
+Laid before Parliament
+
+18th June 1990
+
+Coming into force
+
+1st September 1990
+
+In exercise of the powers conferred on the Secretary of State by sections 50 and 63(3) and (4) of the Education (No. 2) Act 1986[^f00001], the Secretary of State for Wales hereby makes the following Regulations:–
+
+## 1. Citation and operation
+
+These Regulations may be cited as the Education (Welsh Medium Teacher Training Incentive Supplement) Regulations 1990 and shall come into force on 1st September 1990.
+
+## 2. Revocation
+
+The Education (Welsh Medium Teacher Training Incentive Supplement) Regulations 1988[^f00002] are hereby revoked.
+
+## 3. Interpretation
+
+In these Regulations:
+
+- “training supplement” means a grant made in pursuance of these Regulations;
+- “holder” means a person in receipt of a training supplement;
+- “qualified teacher” means a person who, in pursuance of the Regulations[^f00003] relating to the employment of teachers from time to time in force under section 218 of the Education Reform Act 1988[^f00004], is qualified to be employed as a teacher at a school to which that section applies;
+- “course of initial teacher training” means a course for the initial training of teachers in schools which has been approved by the Secretary of State under paragraph 2(2)(a) of Schedule 5 to the Education (Teachers) Regulations 1989.
+
+## 4. Payment of Training Supplements by the Secretary of State
+
+The Secretary of State is hereby authorised, subject to and in accordance with these Regulations, to pay training supplements to persons to facilitate and encourage their training as teachers to teach subjects in the Welsh language as well as in the English language.
+
+## 5. Conditions for payment of training supplements
+
+(1) A training supplement shall not be paid to a person who has previously completed a course of initial teacher training.
+
+(2) A training supplement shall not be paid to a person unless:–
+
+- (a) the conditions of regulation 7 of these Regulations are fulfilled;
+- (b) he satisfies the Secretary of State that he intends, on becoming a qualified teacher, to seek appointment in a school maintained by a local education authority in Wales or a grant-maintained school formerly maintained by such an authority; and
+- (c) he applies in such form at such time and supplying such particulars as the Secretary of State may determine.
+
+## 6. Further conditions
+
+(1) The Secretary of State may from time to time determine further conditions on the fulfilment of which the making of any payment in pursuance of these Regulations shall be dependent.
+
+(2) Where conditions have been determined in pursuance of this regulation, no grant shall be payable unless such conditions have been fulfilled.
+
+(3) The Secretary of State may determine to withdraw or vary conditions determined in pursuance of this regulation.
+
+## 7. Courses for which training supplements are tenable
+
+A training supplement shall neither be paid to a person nor be tenable by him except in respect of a full-time course being a course of initial teacher training leading to the degree of Bachelor of Education or to a Post-Graduate Certificate of Education:–
+
+- (a) provided by an establishment in England or Wales named by the Secretary of State;
+- (b) beginning on or after 1st September 1990; and
+- (c) designed to prepare persons to teach subjects in the Welsh language as well as in the English language to pupils in schools.
+
+## 8. Duration of training supplements
+
+(1) Subject as hereinafter provided, a training supplement shall be payable for the period ordinarily required for the completion of the course in respect of which it is granted, less such part, if any, as the holder is excused from attending.
+
+(2) If the authorities of the establishment at which a training supplement is tenable refuse to allow a holder to complete his course, his training supplement shall terminate forthwith.
+
+(3) If, by reason of ill health or otherwise, the holder does not, or does not reasonably expect to, complete his course within the period ordinarily required, the Secretary of State may extend the period for which the training supplement is payable.
+
+(4) If, after consultation with the authorities of the establishment at which a training supplement is tenable, the Secretary of State is satisfied that a holder has:–
+
+- (a) abandoned the course in respect of which it is held; or
+- (b) by his conduct shown himself to be unfitted either to hold a training supplement or for employment as a teacher;
+
+he shall terminate the training supplement.
+
+(5) If the holder fails to furnish any information reasonably requested by the Secretary of State, or in response to such a request:–
+
+- (a) has furnished information which he knows to be false in a material particular; or
+- (b) has recklessly furnished information which is false in a material particular,
+
+the Secretary of State may terminate the training supplement or suspend it in whole or in part; and, where he has so suspended a training supplement, he may subsequently either restore it from such date as he thinks fit or terminate it.
+
+## 9. Amount and payment of training supplement
+
+(1) A training supplement shall be payable at a rate not exceeding £1,200.
+
+(2) A training supplement may be paid in a lump sum or by instalments in either case at such time as the Secretary of State considers appropriate.
+
+David Hunt
+
+Secretary of State for Wales
+
+30th May 1990
+
+(This note is not part of the Regulations)
+
+These Regulations which revoke and replace the Education (Welsh Medium Teacher Training Incentive Supplement) Regulations 1988 empower the Secretary of State to pay training supplements to persons undergoing training as teachers to facilitiate and encourage their training to teach subjects in Welsh as well as in English (regulation 4). This note briefly explains the Regulations and the main changes from the earlier ones.
+
+To be eligible for a supplement, a person must not previously have completed a course of initial teacher training, must have been accepted for the course and must satisfy the Secretary of State of his commitment to teaching in schools in Wales, (not just secondary schools as in the earlier Regulations).
+
+Claims for payment of a supplement are to be made in such form and with such particulars as the Secretary of State may determine (regulation 5).
+
+The Secretary of State may determine further conditions, or amend such further conditions, on the fulfilment of which the payment of a supplement shall be dependent (regulation 6).
+
+The supplements are tenable only in respect of full-time courses of initial teacher training leading to the degree of Bachelor of Education or to a Post-Graduate Certificate of Education, designed to prepare persons to teach subjects in Welsh as well as in English (regulation 7). Under the earlier Regulations supplements were tenable only in respect of courses leading to a Post-Graduate Certificate of Education.
+
+A supplement is for the normal duration of the course in respect of which it is granted but, in certain circumstances, the period may be extended or payment of the supplement may be suspended or terminated (regulation 8). Under the earlier Regulations the supplement was paid at the fixed rate of £1,200. Under the current Regulations it is to be paid at a rate not exceeding that amount (regulation 9).
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c. 61](https://www.legislation.gov.uk/ukpga/1986/61).
+
+[^f00002]: Footnote: S.I. [1988/1365](https://www.legislation.gov.uk/uksi/1988/1365).
+
+[^f00003]: Footnote: The Regulations currently in force are the Education (Teachers) Regulations 1989 (S.I. [1989/1319](https://www.legislation.gov.uk/uksi/1989/1319)), amended by S.I. [1989/1541](https://www.legislation.gov.uk/uksi/1989/1541).
+
+[^f00004]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).

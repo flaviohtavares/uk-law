@@ -1,0 +1,222 @@
+---
+title: The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021
+id: uksi/2021/465
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2021-04-13'
+text_date: '2026-01-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2021/465
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/465/pdfs/uksiem_20210465_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/465/pdfs/uksi_20210465_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/465/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021
+
+> Text as at 2026-01-19.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2021 No. 465
+
+Companies
+
+The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021
+
+Made
+
+13th April 2021
+
+Laid before Parliament
+
+15th April 2021
+
+Coming into force
+
+6th May 2021
+
+It appears to the Secretary of State that the Financial Reporting Council Limited[^f00001]—
+
+- (a) is a body having an interest in, and having satisfactory procedures directed to, monitoring compliance by issuers of transferable securities with accounting requirements imposed by Part 6 rules[^f00002] in relation to periodic accounts and reports produced by such issuers;
+- (b) is otherwise a fit and proper body to be appointed to exercise the functions mentioned at section 14(2) of the Companies (Audit, Investigations and Community Enterprise) Act 2004[^f00003];
+- (c) will exercise its functions as a prescribed body in accordance with the requirements of this Order;
+- (d) is a person having an interest in, and having satisfactory procedures directed to, securing compliance by companies with the requirements of the Companies Act 2006[^f00004] relating to accounts and reports;
+- (e) is a person having satisfactory procedures for receiving and investigating complaints about companies’ annual accounts and reports;
+- (f) is otherwise a fit and proper person to be authorised for the purposes of section 456(1)[^f00005] of the Companies Act 2006; and
+- (g) will exercise its functions as an authorised person in accordance with the requirements of this Order.
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 14(1), (5), (8) and (10) and 18A(1) and (3)[^f00006] of the Companies (Audit, Investigations and Community Enterprise) Act 2004 and sections 457(1), (2), (5) and (6)[^f00007] and 1292(1)(b) and (c) of the Companies Act 2006.
+
+## 1. Citation, commencement and interpretation[^key-557967853db8412cecd2c634c0d58dc8]
+
+(1) This Order may be cited as the Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021.
+
+(2) This Order comes into force on the 21st day after the day on which it is laid.
+
+(3) In this Order—
+
+- “DGTR sourcebook” means the Disclosure Guidance and Transparency Rules sourcebook made by the Financial Conduct Authority[^f00008] under the Financial Services and Markets Act 2000, as it has effect from time to time[^key-429001d9509013cf336ddb66d6331363];
+- “the 2004 Act” means the Companies (Audit, Investigations and Community Enterprise) Act 2004;
+- “the 2006 Act” means the Companies Act 2006;
+- “the FRC” means the Financial Reporting Council Limited;
+- “LLPs” means limited liability partnerships.
+
+## 2. Appointment in relation to issuers[^key-9f44d3ade5c62079b9835db93e8dbeda]
+
+(1) The FRC is appointed to exercise the functions mentioned in section 14(2) of the 2004 Act in respect of any issuer of transferable securities admitted to trading on a UK regulated market which is a body corporate.
+
+(2) In paragraph (1), “issuer” does not include a person which is not required to comply with the reporting requirements of Section 1 of Chapter 4 (annual financial report) and Section 2 of Chapter 4 (half-yearly financial reports) of the DGTR sourcebook by virtue of—
+
+- (a) rule 4.4.1, rule 4.4.2 (exemptions) and TP 1.19 (exemption for certain large debt securities issuers) of the DGTR sourcebook, [^key-2725d8870c48e3e1d95259e44e72340c]...
+- (aa)[^key-c2f797ae2d9493d214c02d7041e03224] applicable rules made by the Financial Conduct Authority by virtue of Part 3 of the Public Offers and Admissions to Trading Regulations 2024, as they have effect from time to time, or
+- (b)[^key-dd0ed5c8293c29e63fc45392f46de03a] applicable rules in—
+  - (i) the UK Listing Rules sourcebook made by the Financial Conduct Authority under the Financial Services and Markets Act 2000, as it has effect from time to time, or
+  - (ii) the DGTR sourcebook.
+
+## 3. Appointment in relation to accounts[^key-ba607c3c429aa9d0930908b570818048]
+
+The FRC is appointed to exercise the functions mentioned in section 14(2) of the 2004 Act under this Order only in respect of the periodic accounts and reports required to be produced under Section 1 of Chapter 4 (annual financial report) and Section 2 of Chapter 4 (half-yearly financial reports) of the DGTR sourcebook.
+
+## 4. Authorisation[^key-b51c5bddb09f7dba72f17e24e531a932]
+
+The FRC is authorised for the purposes of section 456 of the 2006 Act (application to court in respect of defective accounts or reports).
+
+## 5. Requirements for recording decisions[^key-79c8839d6964ed185b7e074e68555db6]
+
+The FRC must have satisfactory arrangements for—
+
+- (a) recording decisions made in connection with the functions it exercises by virtue of its appointment under articles 2 and 3 and its authorisation under article 4 of this Order; and
+- (b) the safekeeping of all material records.
+
+## 6. Consequential amendments[^key-b421b93f8b1b537cbef308f4a6d47e9e]
+
+(1) The Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008[^f00009], which apply the 2006 Act to LLPs, are amended in accordance with paragraphs (2) to (5).
+
+(2) In regulation 23, as it applies subsection (1)(b) of section 456 of the 2006 Act (application to court in respect of defective accounts, strategic report or energy and carbon report) to LLPs, for “Conduct Committee” substitute “Financial Reporting Council Limited”.
+
+(3) In regulation 24, as it applies sections 458 (disclosure of information by tax authorities), 459 (power of the Conduct Committee to require documents, information and explanations), 460 (restrictions on disclosure of information obtained under compulsory powers) and 461 (permitted disclosure of information obtained under compulsory powers) of the 2006 Act to LLPs, for “Conduct Committee” wherever these words occur, substitute “Financial Reporting Council Limited”.
+
+(4) In regulation 32, as it applies section 474 of the 2006 Act (minor definitions) to LLPs, omit the definition of “Conduct Committee”.
+
+(5) In regulation 46, as it applies subsection (2)(b) of section 524 of the 2006 Act (information to be given to accounting authorities) to LLPs, for “Conduct Committee” substitute “Financial Reporting Council Limited”.
+
+**7.**[^key-b34ff0caacb8ad909bada60254326062][^key-b421b93f8b1b537cbef308f4a6d47e9e] In the Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Directors’ Reports) (Authorised Person) Order 2012[^f00010], omit all articles except articles 1 and 6.
+
+## 8. Exemption from liability[^key-64b8bfc091c4d0db06475fd8368f658d]
+
+In regulation 2 of the Companies (Bodies Concerned with Auditing Standards etc) (Exemption from Liability) Regulations 2016[^f00011]—
+
+- (a) in paragraph (1)—
+  - (i) omit sub-paragraph (b) and the “and” preceding it;
+  - (ii) in the closing words, for “paragraphs (2) and (3)” substitute “paragraph (2)”;
+- (b) in paragraph (2), for “subsection 2(a) to (d), (ea), (eb), (ec) and (f) to (t) of section 16” substitute “subsection 2(a) to (t) of section 16”;
+- (c) omit paragraph (3).
+
+## 9. Application and transitional provisions[^key-381a520c0b6daece6a16c813e8a4065b]
+
+(1) Articles 2 and 3 of this Order apply in respect of periodic accounts and reports relating to financial years beginning on or after 20th January 2007.
+
+(2) Anything which—
+
+- (a) has been done by or in relation to the body known as the Conduct Committee of the FRC in connection with any of the functions referred to in this Order; and
+- (b) is in effect immediately before this Order comes into force,
+
+is to be treated as if done by or in relation to the FRC.
+
+(3) Anything which—
+
+- (a) relates to any of the functions referred to in this Order; and
+- (b) is in the process of being done by or in relation to the body known as the Conduct Committee of the FRC immediately before this Order comes into force,
+
+may be continued by or in relation to the FRC.
+
+Callanan
+
+Parliamentary Under Secretary of State
+
+Department for Business, Energy and Industrial Strategy
+
+13th April 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order appoints and authorises the Financial Reporting Council Limited (“the FRC”) for certain purposes under the Companies (Audit, Investigations and Community Enterprise) Act 2004 (“the 2004 Act”) and the Companies Act 2006 (“the 2006 Act”). It also applies an exemption of liability to the FRC under s18A of the 2004 Act. The Order applies to the whole of the United Kingdom.
+
+Article 2 appoints the FRC to exercise the functions described in section 14(2) of the 2004 Act. These functions include keeping certain periodic accounts and reports under review and informing the Financial Conduct Authority of any conclusions the FRC reaches as regards those accounts and reports.
+
+Article 3 appoints the FRC to exercise the functions described in section 14(2) of the 2004 Act to periodic accounts and reports that fall within the definitions of accounts within the Disclosure Guidance and Transparency Rules Sourcebook.
+
+Article 4 authorises the FRC for the purposes of section 456 of the 2006 Act i.e. authorises the FRC to apply to the court for a declaration in respect of defective accounts or reports.
+
+Article 5 imposes a record keeping requirement onto the FRC in relation to the functions conferred by this Order.
+
+Articles 6 and 7 make consequential amendments to the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008 and to the Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Directors’ Reports) (Authorised Person) Order 2012.
+
+Article 8 amends the Companies (Bodies Concerned with Auditing Standards etc) (Exemption from Liability) Regulations 2016 to apply the exemption from liability contained in section 18A(3) and (4) of the 2004 Act to the FRC.
+
+Article 9 provides application and transitional provisions.
+
+These Regulations refer to a sourcebook made by the Financial Conduct Authority under the Financial Services and Markets Act 2000. Sourcebooks made by the Financial Conduct Authority are available on https://www.handbook.fca.org.uk/handbook and copies of the rules referred to can be obtained from the Financial Conduct Authority, 12 Endeavour Square, London E20 1JN, where they are also available for inspection.
+
+An impact assessment has not been produced for this instrument, as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: A company registered in England and Wales with number 02486368.
+
+[^f00002]: Footnote: Defined in section 103(1) of the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8); section 103 was substituted by [S.I. 2005/1433](https://www.legislation.gov.uk/uksi/2005/1433). There are other amendments not relevant to this Order.
+
+[^f00003]: Footnote: [2004 c. 27](https://www.legislation.gov.uk/ukpga/2004/27). Section 14(2) was amended by section 1272 of, and paragraph 14 of Schedule 15 to, the Companies Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), and paragraph 103 of Schedule 18 (2) to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00004]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^f00005]: Footnote: Section 456 is amended by [S.I. 2013/1970](https://www.legislation.gov.uk/uksi/2013/1970) and [2019/685](https://www.legislation.gov.uk/uksi/2019/685).
+
+[^f00006]: Footnote: Section 18A was inserted by section 38 of the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26).
+
+[^f00007]: Footnote: Section 457 has been amended by [S.I. 2019/685](https://www.legislation.gov.uk/uksi/2019/685) and [2013/1970](https://www.legislation.gov.uk/uksi/2013/1970).
+
+[^key-557967853db8412cecd2c634c0d58dc8]: Commencement: Art. 1 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
+
+[^f00008]: Footnote: An electronic copy of the relevant chapter, Chapter 4 (periodic financial reporting), of the sourcebook can be found at https://www.handbook.fca.org.uk/handbook/DTR/4/?view=chapter. A printed copy of the modules or the sourcebook can also be obtained from The Stationary Office (https://www.tsoshop.co.uk/bookstore.asp?FO=1350564).
+
+[^key-429001d9509013cf336ddb66d6331363]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/465/article/1/3) substituted (19.1.2026) by [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 37(2)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/37/2); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+
+[^key-9f44d3ade5c62079b9835db93e8dbeda]: Commencement: Art. 2 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
+
+[^key-2725d8870c48e3e1d95259e44e72340c]: Textual amendment: Word in [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2021/465/article/2/2/a) omitted (19.1.2026) by virtue of [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 37(3)(a)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/37/3/a); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+
+[^key-c2f797ae2d9493d214c02d7041e03224]: Textual amendment: [Art. 2(2)(aa)](https://www.legislation.gov.uk/uksi/2021/465/article/2/2/aa) inserted (19.1.2026) by [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 37(3)(b)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/37/3/b); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+
+[^key-dd0ed5c8293c29e63fc45392f46de03a]: Textual amendment: [Art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2021/465/article/2/2/b) substituted (19.1.2026) by [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 37(3)(c)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/37/3/c); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+
+[^key-ba607c3c429aa9d0930908b570818048]: Commencement: Art. 3 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
+
+[^key-b51c5bddb09f7dba72f17e24e531a932]: Commencement: Art. 4 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
+
+[^key-79c8839d6964ed185b7e074e68555db6]: Commencement: Art. 5 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
+
+[^key-b421b93f8b1b537cbef308f4a6d47e9e]: Commencement: Art. 6 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
+
+[^f00009]: Footnote: [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911). This instrument is relevantly amended by [S.I. 2012/1439](https://www.legislation.gov.uk/uksi/2012/1439), [S.I. 2018/1155](https://www.legislation.gov.uk/uksi/2018/1155) and [S.I. 2021/153](https://www.legislation.gov.uk/uksi/2021/153).
+
+[^key-b34ff0caacb8ad909bada60254326062]: Commencement: Art. 7 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
+
+[^f00010]: Footnote: [S.I. 2012/1439](https://www.legislation.gov.uk/uksi/2012/1439), as amended by [S.I. 2019/145](https://www.legislation.gov.uk/uksi/2019/145) and [2019/685](https://www.legislation.gov.uk/uksi/2019/685).
+
+[^key-64b8bfc091c4d0db06475fd8368f658d]: Commencement: Art. 8 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)
+
+[^f00011]: Footnote: [S.I. 2016/571](https://www.legislation.gov.uk/uksi/2016/571), as amended by [S.I. 2019/177](https://www.legislation.gov.uk/uksi/2019/177).
+
+[^key-381a520c0b6daece6a16c813e8a4065b]: Commencement: Art. 9 in force at 6.5.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2)

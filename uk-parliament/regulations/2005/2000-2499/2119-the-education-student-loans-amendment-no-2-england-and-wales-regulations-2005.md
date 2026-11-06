@@ -1,0 +1,156 @@
+---
+title: The Education (Student Loans) (Amendment) (No. 2) (England and Wales) Regulations 2005
+id: uksi/2005/2119
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2005-07-27'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/2119
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/2119/pdfs/uksiem_20052119_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2119/pdfs/uksi_20052119_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2119/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Student Loans) (Amendment) (No. 2) (England and Wales) Regulations 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2005 No. 2119
+
+EDUCATION, ENGLAND AND WALES
+
+The Education (Student Loans) (Amendment) (No. 2) (England and Wales) Regulations 2005
+
+Made
+
+27th July 2005
+
+Laid before Parliament
+
+8th August 2005
+
+Coming into force
+
+31st August 2005
+
+The Secretary of State for Education and Skills, in exercise of the powers conferred upon her by section 1(1), (2) and (7) and paragraph 1 of Schedule 2 to the Education (Student Loans) Act 1990[^f00001] hereby makes the following Regulations:
+
+## 1. Citation, commencement, application and interpretation
+
+These Regulations may be cited as the Education (Student Loans) (Amendment) (No. 2) (England and Wales) Regulations 2005 and shall come into force on 31st August 2005.
+
+**2.** These Regulations do not apply in or as regards Scotland[^f00002].
+
+**3.** In these Regulations “the Principal Regulations” means the Education (Student Loans) Regulations 1998[^f00003].
+
+## 4. Amendment of the Principal Regulations
+
+The Principal Regulations are amended in accordance with these Regulations.
+
+**5.** (1) Regulation 3 is amended in accordance with this regulation.
+
+(2) After the definition of “metropolitan police district”, insert—
+
+> - “old academic year” means an academic year beginning on or after 1st August 2004 but before 1st July 2005;
+> - “old loan” means a loan the maximum amount of which is the maximum amount of loan that would have been payable under these Regulations had they not been amended by the Education (Student Loans) (Amendment) Regulations 2005[^f00004];
+> - “new academic year” means an academic year beginning on or after 1st August 2005 but before 1st July 2006;
+
+.
+
+**6.** (1) Regulation 4 is amended in accordance with this regulation.
+
+(2) After paragraph (1), insert—
+
+> (1A) Subject to paragraphs (1C) and (2), a person shall be eligible for an old loan in relation to an old academic year if—
+>
+> - (a) he attended throughout that academic year—
+>   - (i) a full-time course; or
+>   - (ii) a full-time or a part-time course for the initial training of teachers which is designated by or under regulations made by virtue of section 1(2)(b) and (3)(c) of the Education Act 1962;
+> - (b) in a new academic year, he—
+>   - (i) continues to attend the course referred to in sub-paragraph (a); or
+>   - (ii) is attending a further course of study which is a full-time or a part-time course for the initial training of teachers which is designated by or under regulations made by virtue of section 1(2)(b) and (3)(c) of the Education Act 1962;
+> - (c) he is a person mentioned in paragraph 6A of Schedule 1; and
+> - (d) he has entered into an agreement for the loan before 1st August 2006.
+>
+> (1B) For the purposes of paragraph (1A)(c) above, the reference to “the course” in paragraph 6A of Schedule 1 is to be treated as a reference to the course referred to in paragraph (1A)(a)(i) or (ii).
+>
+> (1C) Paragraph (1A) shall not apply to a person who would have been eligible for a loan under paragraph (1) had he applied for that loan before 1st August 2005.
+
+.
+
+**7.** (1) Schedule 1 is amended in accordance with this regulation.
+
+(2) After paragraph 6, insert—
+
+> **6A.** A person who is a national of a member State of the European Community—
+>
+> - (a) who has been ordinarily resident throughout the three-year period preceding the first day of the course in the United Kingdom and Islands;
+> - (b) who, where he is a national of the United Kingdom, has a right to be treated no less favourably than a national of another member State by virtue of having exercised a Community right of free movement; and
+> - (c) who, in a case where his ordinary residence in sub-paragraph (a) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the European Economic Area immediately prior to the period of ordinary residence in sub-paragraph (a).
+
+.
+
+**8.** (1) Schedule 2 is amended in accordance with this regulation.
+
+(2) In paragraph 1 after the definition of “lender”, insert—
+
+> - “old loan” and “new academic year” have the meaning given in regulation 3(1) of the Education (Student Loans) Regulations 1998;
+
+.
+
+(3) In paragraph 4 for “the borrower” in the first place it occurs, substitute—
+
+> Subject to paragraph 4A, the borrower
+
+.
+
+(4) After paragraph 4, insert—
+
+> **4A.** If the loan which is the subject of the loan agreement is an old loan and the borrower had completed the course in respect of which he applied for that loan before he entered into the loan agreement, the borrower must make the first repayment in April 2007 unless—
+>
+> - (a) the borrower defers repayment under paragraph 9;
+> - (b) the lender cancels the borrower’s loan under paragraph 12; or
+> - (c) paragraph 13 or 13A applies.
+
+.
+
+(5) After paragraph 13, insert—
+
+> **13A.** If when the borrower takes out an old loan, he has already entered into an agreement for a loan in relation to a further course of study for a new academic year, the lender will not ask him to make any or any more repayments under the loan agreement for the old loan until he begins to repay the loan taken out in relation to the further course of study. The number of repayments for the old loan will then be the same as for the new loan.
+
+.
+
+Bill Rammell
+
+Minister of State
+
+Department for Education and Skills
+
+27th July 2005
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Education (Student Loans) Regulations 1998 (the “1998 Regulations”) by creating a new category of students who are eligible for loans under those Regulations. The 1998 Regulations, made under the Education (Student Loans) Act 1990, govern mortgage style repayment loans. These loans are, for the most part, only available to those students who started their courses before 1st August 1998 or who are attending a further course immediately after having completed a course they commenced prior to 1st August 1998.
+
+Regulation 6 sets out the time limit for applying for loans under the 1998 Regulations in respect of an academic year beginning on or after 1st August 2004 but before 1st July 2005. Regulation 8 amends the terms of loans taken out on or after 31st August 2005.
+
+These Regulations do not apply in or as regards Scotland.
+
+A Regulatory Impact Assessment has not been produced for this instrument as it has no impact on the costs of business.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 6](https://www.legislation.gov.uk/ukpga/1990/6), amended by the Education (Student Loans) Act [1996 (c. 9)](https://www.legislation.gov.uk/ukpga/1996/9), section 1(1) and the Schedule, by the Education Act 1996, Schedule 37 paragraph 98 and Schedule 38, and by the Education (Student Loans) Act [1998 (c. 1)](https://www.legislation.gov.uk/ukpga/1998/1), sections 1 to 3. The entire Act was repealed on 13th August 1998 by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 44(2) and Schedule 4, subject to transitional and saving provisions in the Teaching and Higher Education Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998 (S.I. [1998/2004](https://www.legislation.gov.uk/uksi/1998/2004)). The saving provisions include provision for making subordinate legislation after the date of repeal.
+
+[^f00002]: Footnote: The Secretary of State’s functions under the Education (Student Loans) Act 1990 were transferred, in or as regards Scotland, to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), read with article 3 of and paragraph 11 of Schedule 1 to the Scotland Act 1998 (Functions Exercisable in or as Regards Scotland) Order 1999 (S.I. [1999/1748](https://www.legislation.gov.uk/uksi/1999/1748)).
+
+[^f00003]: Footnote: S.I. [1998/211](https://www.legislation.gov.uk/uksi/1998/211), as amended, in relation to England and Wales, by S.I. [2000/1804](https://www.legislation.gov.uk/uksi/2000/1804); there are other amending instruments but none is relevant here.
+
+[^f00004]: Footnote: S.I. [2005/1718](https://www.legislation.gov.uk/uksi/2005/1718).

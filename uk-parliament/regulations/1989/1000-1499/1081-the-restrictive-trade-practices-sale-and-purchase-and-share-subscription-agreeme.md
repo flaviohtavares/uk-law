@@ -1,0 +1,142 @@
+---
+title: The Restrictive Trade Practices (Sale and Purchase and Share Subscription Agreements) (Goods) Order 1989
+id: uksi/1989/1081
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1989-06-29'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1989/1081
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1989/1081/pdfs/uksi_19891081_en.pdf
+- http://www.legislation.gov.uk/uksi/1989/1081/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Restrictive Trade Practices (Sale and Purchase and Share Subscription Agreements) (Goods) Order 1989
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1989 No. 1081
+
+RESTRICTIVE TRADE PRACTICES
+
+The Restrictive Trade Practices (Sale and Purchase and Share Subscription Agreements) (Goods) Order 1989
+
+Made
+
+29th June 1989
+
+Coming into force
+
+30th June 1989
+
+Whereas a draft of this Order has been approved by resolution of each House of Parliament pursuant to section 2(5) of the Restrictive Trade Practices Act 1977[^f00001]; Now, therefore, the Secretary of State, in exercise of the powers conferred on him by section 2(3) of the said Act of 1977, hereby makes the following Order:—
+
+## 1. Citation and Commencement
+
+(1) This Order may be cited as the Restrictive Trade Practices (Sale and Purchase and Share Subscription Agreements) (Goods) Order 1989 and shall come into force on the day after the day on which it is made.
+
+## 2. Interpretation
+
+In this Order—
+
+- “the Act of 1976” means the Restrictive Trade Practices Act 1976[^f00002];
+- “acquired enterprise” means a company in which shares are acquired or a business an interest in which is acquired;
+- “business” means any undertaking which is, or any part of an undertaking which part is—
+  - (a) carried on as a going concern for gain or reward; or
+  - (b) carried on as a going concern in the course of which goods or services are supplied otherwise than free of charge;
+- “company” means a company as defined in section 735 of the Companies Act 1985[^f00003] and an oversea company as defined in section 744 of that Act;
+- “contract of employment” means a contract of service whether it is express or implied and (if it is express) whether it is oral or in writing;
+- “goods” has the same meaning as in section 43(1) of the Act of 1976;
+- “group” means a group of interconnected bodies corporate within the meaning of section 43(1) of the Act of 1976;
+- “member of the issuing company” is to be construed in accordance with section 22 of the Companies Act 1985;
+- “purchaser” means a person acquiring shares in a company, or acquiring an interest in a business, whether for cash or otherwise;
+- “relevant restriction” means a restriction described in section 6(1) of the Act of 1976;
+- “services” has the same meaning as in section 20 of the Act of 1976.
+
+## 3. Sale and Purchase Agreements
+
+(1) This article applies to an agreement made on or after the date on which this Order comes into force—
+
+- (a) the parties to which include a person (the “vendor”) who agrees to transfer shares in a company or the whole of his interest in a business to a purchaser;
+- (b) under which, in the case of an agreement for the transfer of shares in a company, more than 50 per cent in nominal value of the issued share capital of that company is transferred or agreed to be transferred to one purchaser or to more than one purchaser each of which is a member of the same group;
+- (c) under which no relevant restriction in respect of any of the matters described in section 6(1)(a) or (b) of the Act of 1976 is accepted by a person; and
+- (d) under which no relevant restriction in respect of any of the matters described in section 6(1)(c) to (f) of that Act is accepted by a person other than such a person as is described in paragraph (2) below.
+
+(2) Persons by whom a relevant restriction may be accepted for the purpose of paragraph (1)(d) above are—
+
+- (a) any vendor;
+- (b) any member of the same group as any vendor; and
+- (c) any individual; other than a body corporate or unincorporate which is also a purchaser under the agreement in question, or a member of the same group as such a body.
+
+**4.** (1) In determining whether an agreement to which article 3 applies is an agreement to which the Act of 1976 applies by virtue of section 6 of that Act, no account shall be taken of any relevant restriction—
+
+- (a) which is accepted for a period not exceeding that permitted under paragraph (2) below; and
+- (b) which limits the extent to which the person accepting the restriction may compete with the acquired enterprise, or may be engaged or interested in, disclose information to, or otherwise assist any business which so competes.
+
+(2) For the purpose of paragraph (1)(a) above, a permitted period is:—
+
+- (a) a period of 5 years beginning with the date of the agreement; or
+- (b) in the case of restrictions accepted by an individual who is to have a contract of employment with or a contract for the supply of services to the acquired enterprise, the purchaser, or a member of the same group as the purchaser, a period beginning with the date of the agreement and ending 2 years after the date of expiry or termination of the contract; whichever ends the later.
+
+## 5. Share Subscription Agreements
+
+This article applies to an agreement made on or after the date on which this Order comes into force—
+
+- (a) which provides for a person (the “subscriber”) to subscribe (whether or not in cash) for shares in a company (the “issuing company”);
+- (b) under which no relevant restriction in respect of any of the matters described in section 6(1)(a) or (b) of the Act of 1976 is accepted by a person; and
+- (c) under which no relevant restriction in respect of any of the matters described in section 6(1)(c) to (f) of that Act is accepted by a body corporate or unincorporate.
+
+**6.** (1) In determining whether an agreement to which article 5 applies is an agreement to which the Act of 1976 applies by virtue of section 6 of that Act, no account shall be taken of any relevant restriction—
+
+- (a) which is accepted for a period not exceeding that permitted under paragraph (2) below; and
+- (b) which limits the extent to which the person accepting the restriction may compete with the issuing company, or may be engaged or interested in, disclose information to, or otherwise assist any business which so competes.
+
+(2) For the purpose of paragraph (1)(a) above, a permitted period is:—
+
+- (a) a period of 5 years beginning with the date of the agreement; or
+- (b) in the case of restrictions accepted—
+  - (i) by a member of the issuing company, a period beginning with the date of the agreement and ending 2 years after the date on which that person ceases to be a member; or
+  - (ii) by an individual who is to have a contract of employment with or a contract for the supply of services to the issuing company, a period beginning with the date of the agreement and ending 2 years after the date of expiry or termination of the contract, whichever ends the later.
+
+Francis Maude
+
+Parliamentary Under-Secretary of State for Corporate Affairs,
+
+Department of Trade and Industry
+
+29th June 1989
+
+(This note is not part of the Order)
+
+The Restrictive Trade Practices Act 1976 requires that restrictive agreements between two or more persons carrying on business in the United Kingdom in the supply of goods be furnished to the Director General of Fair Trading for registration.
+
+This Order exempts from the registration requirements of the 1976 Act agreements for the sale and purchase of shares in a company or of a business (“Sale and purchase agreements”) and agreements for the subscription of shares in a company (“Share subscription agreements”) provided that the agreements satisfy certain conditions.
+
+In the case of sale and purchase agreements the main conditions are (articles 3 and 4)—
+
+- (a) that more than 50 per cent in nominal value of the issued share capital of the company be transferred to one purchaser or to more than one where they are all members of the same group of companies, or (as the case may be) that the whole of the vendor’s interest in a business be transferred to one or more purchasers;
+- (b) that the agreements only contain registerable restrictions of the type described in section 6(1)(c) to (f) of the 1976 Act;
+- (c) that such restrictions only be accepted by vendors, their associated companies, or by individuals (save that bodies corporate or unincorporate cannot accept such restrictions where they are also purchasers under the agreement in question);
+- (d) that the restrictions to be disregarded only limit the extent to which the persons accepting them may compete with the company or business which is the subject of the sale, or be involved in or assist any business which so competes; and
+- (e) that the restrictions to be disregarded only be operative for a period not exceeding 5 years beginning with the date of the agreement or a period beginning with the date of the agreement and ending 2 years after the date of expiry or termination of the relevant employment or services contract, whichever is the later.
+
+In the case of share subscription agreements the main conditions are (articles 5 and 6)—
+
+- (a) that the agreements only contain registerable restrictions of the type described in section 6(1)(c) to (f) of the 1976 Act;
+- (b) that such restrictions only be accepted by individuals;
+- (c) that the restrictions to be disregarded only limit the extent to which the persons accepting them may compete with the issuing company or be involved in or assist any business which so competes; and
+- (d) that the restrictions to be disregarded only be operative for a period not exceeding 5 years beginning with the date of the agreement or a period beginning with the date of the agreement and ending 2 years after the relevant person ceases to be a member of the issuing company or after the date of expiry or termination of the relevant employment or services contract, whichever is the later.
+
+## Annotations
+
+[^f00001]: Footnote: [1977 c. 19](https://www.legislation.gov.uk/ukpga/1977/19).
+
+[^f00002]: Footnote: [1976 c. 34](https://www.legislation.gov.uk/ukpga/1976/34).
+
+[^f00003]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).

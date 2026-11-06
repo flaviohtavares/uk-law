@@ -1,0 +1,308 @@
+---
+title: The Financial Services and Markets Act 2000 (Stakeholder Products) Regulations 2004
+id: uksi/2004/2738
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-11-16'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2004/2738
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/2738/pdfs/uksiem_20042738_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/2738/pdfs/uksi_20042738_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/2738/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Stakeholder Products) Regulations 2004
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2004 No. 2738
+
+FINANCIAL SERVICES AND MARKETS
+
+The Financial Services and Markets Act 2000 (Stakeholder Products) Regulations 2004
+
+Made
+
+16th November 2004
+
+Laid before Parliament
+
+16th November 2004
+
+Coming into force
+
+6th April 2005
+
+The Treasury, in exercise of the powers conferred upon them by section 428 of the Financial Services and Markets Act 2000 [^c5276441] and article 52B(3) [^c5276451] of the Financial Services and Markets Act 2000 (Regulated Activities) Order [^c5276461] hereby make the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Financial Services and Markets 2000 (Stakeholder Products) Regulations 2004 and come into force on 6th April 2005.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 2000 Act**” means the Financial Services and Markets Act 2000;
+- “**account-holder**” means the holder of a deposit account;
+- “**Bank of England base rate**” means the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank of England is willing to enter into transactions for providing short-term liquidity in the money markets;
+- [^key-87a6f3d3cbf0bf375060836e3dee82ea]...
+- “**relevant contract of insurance**” means a contract of insurance—
+  - (a) which, or any part of which, is one or more of the following kinds—
+    - (i) life and annuity,
+    - (ii) linked long-term, and
+  - (b) which is carried out by an insurer who has permission, as the case may be, under—
+    - (i) Part 4 of the 2000 Act, [^key-a4dd33b2d8919c0df1c0e1aa576ad03c]...
+    - (ii) [^key-a4dd33b2d8919c0df1c0e1aa576ad03c]...
+  - (c) is not a with-profits policy and does not include rights in a with-profits fund;
+- “**deposit account**” means a deposit account with a deposit-taker and includes a share account with a building society within the meaning of the Building Societies Act 1986 [^c5276471];
+- “**deposit-taker**” means—
+  - (a) a person who has permission under Part 4 of the 2000 Act to accept deposits, [^key-92185a2e39c19d45ee867cd0be05e0dc]...
+  - (b) [^key-92185a2e39c19d45ee867cd0be05e0dc]...
+- “dilution levy” has the meaning given by the Financial Conduct Authority Handbook made by the Financial Conduct Authority under the[^key-16cb7e7e12798058da806a0c463ac684] 2000 Act;
+- “**insurer**” means—
+  - (a) a person who has permission under Part 4 of the 2000 Act to effect or carry out contracts of insurance, [^key-94baa1ba46e70101d23ac659d0cdc686]...
+  - (b) [^key-94baa1ba46e70101d23ac659d0cdc686]...
+- “**investor**” means a member of a collective investment scheme which complies with regulation 5 or an underlying fund which complies with regulation 6 as the case may be;
+- “**investment property**” means the scheme property of a collective investment scheme which complies with regulation 5 or an underlying fund which complies with regulation 6 as the case may be;
+- “**investment scheme**” means a collective investment scheme which complies with regulation 5 or a linked long-term contract which complies with regulation 6 as the case may be;
+- “land and buildings” means interests in any land or buildings which satisfy the conditions in paragraph 5.6.18 of the Collective Investment Schemes Sourcebook made by the Financial Conduct Authority under the[^key-126ec91e68c973220280ed5c123ec8ea] 2000 Act;
+- “**linked long-term contract**” means a contract of long-term insurance as specified in paragraph 3 of Part 2 of Schedule 1 to the principal Order;
+- “[^key-21d94297ff6314fb724c959c9c9558c8]**manager**” means—
+  - ((a)) the operator of a relevant collective investment scheme which is an authorised contractual scheme;
+  - ((b)) the manager of any other relevant collective investment scheme; or
+  - ((c)) the insurer of a relevant linked long-term contract;
+- “[^key-0ecffb5331a952c0ffb5400c72d72c49]**operator**”, in relation to an authorised contractual scheme, has the meaning given in section 237(2) of the 2000 Act;
+- “**the principal Order**” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001;
+- “**relevant collective investment scheme**” means an authorised unit trust scheme, an authorised contractual scheme,[^key-0d3d7d6da89bddde28903aa3ab89047f] an authorised open-ended investment company or a recognised scheme, as the case may be, as defined in section 237(3) of the 2000 Act;
+- “**relevant investments**” means—
+  - (a) shares issued by a company wherever incorporated and officially listed on a recognised stock exchange;
+  - (b) units in a relevant collective investment scheme where a substantial proportion of the scheme property is invested, directly or indirectly, in shares, as defined in paragraph (a) or land and buildings; and
+  - (c) rights under a contract of insurance where a substantial proportion of the assets of the funds held in respect of that contract are invested, directly or indirectly, in shares as set out in sub-paragraph (a) or land and buildings;
+- “**relevant linked long-term contract**” means a linked long-term contract which meets the conditions and characteristics specified in regulation 6(1);
+- “**units**” means the rights or interests (however described) of the members of a relevant collective investment scheme.
+
+(2) The definitions of “**deposit-taker**” and “**insurer**” in paragraph (1) must be read with—
+
+- (a) section 22 of the 2000 Act,
+- (b) any relevant order under that section, and
+- (c) Schedule 2 to that Act.
+
+## 3. Meaning of stakeholder product
+
+These Regulations specify kinds of investment for the purposes of sub-paragraph (c) of the definition of “**stakeholder product**” in article 52B(3) of the principal Order and accordingly an investment of one of these kinds is a stakeholder product for the purposes of article 52B of that Order.
+
+## 4. Certain deposit accounts
+
+A deposit account (“**the account**”) is a stakeholder product if the following conditions are fulfilled—
+
+- (a) the minimum amount which an account-holder may deposit on a single occasion is £10, except where the deposit-taker permits a smaller payment;
+- (b) the deposit-taker permits payment to the account by any of the following means, at the option of the account-holder[^key-2da51b38cc6819dd4db55b41fc7d549e]—
+  - (i) cash;
+  - (ii) cheque;
+  - (iii)[^key-b5524a7946abc56792650b722c17dbf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv) standing order;
+  - (v) direct credit (other than standing order),
+
+  excluding payments by credit card or debit card or any combination including a payment by credit card or debit card;
+- (c) interest accrues on the account on a daily basis at a rate that is not less than the Bank of England base rate minus 1 per cent. per annum (“**the interest rate**”);
+- (d) when the Bank of England base rate increases, the interest rate must be raised within one month of the date of that increase;
+- (e) on the instructions of the account holder, any cash and interest held in the account is transferred or paid to the account holder within a period which may not exceed seven days (“**withdrawal instructions**”); and
+- (f) there is no limitation on the frequency with which an account holder may issue withdrawal instructions.
+
+## 5. Units in certain collective investment schemes
+
+Units in a relevant collective investment scheme are a stakeholder product where that scheme has the characteristics, and complies with the conditions, set out in regulation 7.
+
+## 6. Rights under certain linked long-term contracts
+
+(1) Rights under a linked long-term contract are a stakeholder product where the insurer ensures that the fund held in respect of that contract (“**the underlying fund**”)—
+
+- (a) has the characteristics and complies with the conditions set out in regulation 7; and
+- (b) where the investment returns are smoothed, complies with the conditions set out in regulation 8.
+
+(2) For the purposes of this regulation and regulations 8 and 9, investment returns are smoothed when the insurer offers the product on the basis that the amount in respect of the investment returns earned from time to time by the underlying funds to be attributed under the contract to the policyholder will be managed and attributed with a view to reducing the volatility of such returns over given periods, and “**smoothing**”, “**smoothed**” and “**unsmoothed**” are to be construed accordingly.
+
+## 7. Characteristics and conditions applicable to certain stakeholder products
+
+(1) The characteristics in relation to an investment scheme are—
+
+- (a) no more than 60 per cent. in value of the investment property, calculated in accordance with paragraph (3), consists of relevant investments;
+- (b) the investment property should be selected and managed having regard to the need to achieve a balance between—
+  - (i) the opportunity for the investor to benefit from growth in the value of investments generally; and
+  - (ii) control of the risk of loss of value in the investment; and
+- (c) the manager has regard to—
+  - (i) the need for diversification of the investment property, in so far as appropriate to the circumstances of the investment scheme; and
+  - (ii) the suitability for the purposes of the scheme of any investment option proposed.
+
+(2) The conditions with which the investment scheme must comply are—
+
+- (a) the minimum amount which an investor may contribute to the investment scheme on a single occasion is £20, except where the manager permits a smaller amount;
+- (b) the manager must permit payment to the investment scheme by any of the following means, at the option of the investor[^key-5393945553e63ce1d335743ad1f5fd16]—
+  - (i) cheque;
+  - (ii) direct debit;
+  - (iii) standing order;
+  - (iv) direct credit (other than standing order),
+
+  and excluding payments by cash, credit card or debit card or any combination including a payment by cash, credit card or debit card;
+- (c) the value of an investor’s rights in the investment scheme and the value of the investment property may be reduced in the circumstances and to the extent set out in regulation 9; and
+- (d) where the stakeholder product consists of—
+  - (i) units in a relevant collective investment scheme, it must be a requirement of that scheme that the purchase and sale price of those units shall, at any given time, not differ from each other and that price must be made available to the public on a daily basis;
+  - (ii) rights under a relevant linked long-term contract which are expressed as shares in funds, it must be a requirement of that contract that the purchase and sale price of those shares shall, at any given time, not differ from each other and that price must be made available to the public on a daily basis.
+
+(3) For the purposes of the calculation set out in paragraph (1)(a), the following provisions apply—
+
+- (a) where any of the investment property is invested in units in a relevant collective investment scheme, only such of the assets of that scheme as are invested, directly or indirectly, in relevant investments shall be taken into account; and
+- (b) the calculation shall be taken as an average over a period of 3 months.
+
+(4) When calculating the average over a period of 3 months for the purposes of paragraph (3)(b) (“the average”), where the manager has specified under paragraph (5) that the calculation is to be carried out weekly or monthly—
+
+- (a) where the average is to be calculated weekly, it is to be carried out on such day of the week (“**the specified day**”) as has been so specified by the manager (except that, where that day is not a working day, the average is to be calculated on the next working day), and the average on each subsequent day prior to the next specified day is to be taken to be the average on the previous specified day; and
+- (b) where the average is to be calculated monthly, it is to be so calculated on such day in each month (“**the specified day**”) as has been so specified by the manager (except that, where that date is not a working day, the average is to be calculated on the next working day), and the average on each subsequent day prior to the next specified date is to be taken to be the average on the previous specified date.
+
+(5) For the purposes of paragraph (3)(b)—
+
+- (a) the frequency, which must be daily, weekly or monthly, with which the average is to be calculated; and
+- (b) where the average is to be calculated using weekly or monthly figures, that day of the week or, as the case may be, the date in the month on which it is to take place,
+
+must be specified in writing by the manager; and the specification may not be amended during the period of 12 months after the date on which it is made.
+
+(6) Where, following the calculation under paragraph (4), the average value of the investment property comprises more than 60 per cent. of relevant investments, the manager must take steps to bring that average value within the limit prescribed in regulation 7(1)(a) as soon as reasonably practicable and in any event within 3 months.
+
+## 8. Additional conditions applicable to smoothed linked long-term contracts
+
+The conditions under this paragraph are—
+
+- (a) the manager must make available, to each investor who is also a policyholder or to anyone else requesting it, the information necessary to enable a person making such a request properly to understand the essential elements of the insurer’s commitment under the terms of the policy;
+- (b) the manager must make available, to each investor and anyone else requesting it, information on its policy on and charges for smoothing;
+- (c) no payment may be made or property attributed from the underlying fund to any person other than an investor, except for permitted reductions in the investor’s rights and investment property in accordance with regulation 9;
+- (d) the manager must manage the underlying fund with the aim of attributing to each investor on the maturity or surrender of his rights under the linked long-term contract a value that falls within a target range which is notified to each investor before he enters into the linked long-term contract;
+- (e) except as provided for in paragraph (f), there is no guarantee of the value of an investor’s rights under the linked long-term contract;
+- (f) the manager may guarantee that, on the death of an investor, the value of an investor’s rights under the linked long-term contract are no more than 101 per cent .of the total of the value of the units allocated to that contract.
+
+## 9. Permitted reductions in investor’s rights and investment property
+
+(1) The value of an investor’s rights in an investment scheme may be reduced in the circumstances, and to the extent, set out in paragraphs (3) to (5).
+
+(2) The value of the investment property may be reduced in the circumstances, and to the extent, set out in paragraph (9).
+
+(3) To the extent that an investor’s rights in an investment scheme are represented by a fund allocated to him to the exclusion of other investors, the value of those rights may be reduced by the making of deductions from that fund no greater than, at the choice of the manager—
+
+- (a) the relevant percentage of its value for each day on which it is held; or
+- (b) the proportion attributable to the investor’s fund of the relevant percentage of the value of the investment property for each day on which the investor’s fund is held for the purposes of the scheme.
+
+(4) To the extent that an investor’s rights in an investment scheme are represented by a share of funds held for the purposes of the scheme, the amount of that share not being determined by reference to a discretion exercisable by any person, the value of those rights may be reduced by the making of deductions from that share no greater than, at the choice of the manager—
+
+- (a) the relevant percentage of its value for each day on which it is held; or
+- (b) the proportion attributable to the investor’s share of the relevant percentage of the value of the investment property for each day on which the investor’s share is held for the purposes of the scheme.
+
+(5) To the extent that an investor’s rights are represented by rights under a linked long-term contract to which regulations 6(1)(b) and 8 apply, the value of those rights may be reduced by the making of deductions from those rights no greater than, at the choice of the manager—
+
+- (a) the relevant percentage of the value of the investor’s rights under the contract; or
+- (b) the proportion attributable to the investor’s rights of the relevant percentage of the value of the underlying fund for each day on which the investor has rights under the contract.
+
+(6) When calculating the value of the rights of an investor for the purposes of paragraphs (3) to (5) above, where the manager has specified under paragraph (7) that such rights are to be valued weekly or monthly—
+
+- (a) where such rights are to be valued weekly, they are to be valued on such day of the week (“**the specified day**”) as has been so specified by the manager (except that, where that day is not a working day, the rights are to be valued on the next working day), and the value of the rights on each subsequent day prior to the next specified day is to be taken to be the value of the rights on the previous specified day; and
+- (b) where the rights are to be valued monthly, they are to be valued on such date in each month (“**the specified date**”) as has been so specified by the manager (except that, where that date is not a working day, the rights are to be valued on the next working day), and the value of the rights on each subsequent day prior to the next specified date is to be taken to be the value of the rights on the previous specified date.
+
+(7) For the purposes of paragraphs (3) to (5)—
+
+- (a) the frequency, which must be daily, weekly or monthly, with which rights are to be valued; and
+- (b) where valuation is to take place weekly or monthly, the day of the week or, as the case may be, the date in the month on which it is to take place,
+
+must be specified in writing by the manager; and the specification may not be amended during the period of 12 months after the date on which it is made.
+
+(8) For the purposes of paragraphs (3) to (5), “**the relevant percentage**” means—
+
+- (a) during the period of 10 years beginning with the day on which the first contribution is made by the investor to the investment scheme or linked long-term contract (as the case may be), 3/730 per cent.;
+- (b) otherwise 1/365 per cent.
+
+(9) The value of the investment property may be reduced—
+
+- (a) where any stamp duty, stamp duty reserve tax, value added tax or other charge (including any dilution levy) are incurred by the manager directly or indirectly in or consequent upon the sale or purchase of investments held for the purposes of the investment scheme, by the amount of those charges;
+- (b) where any amount of tax is paid or anticipated to be payable in respect of income received or capital gains realised by the manager in respect of investments held for the purposes of the investment scheme, by the amount so deducted or anticipated;
+- (c) where any charges or expenses are incurred by the manager directly or indirectly in maintaining or repairing any land or building in which the investment property is invested or in connection with the collection of rent, service charge or other sum due under the terms of a lease from occupiers of any land or building in which the investment property is invested, by the amount of those charges or expenses;
+- (d) where any charges or expenses are incurred by the manager directly or indirectly in complying with an order of the court or any similar requirements imposed by law, by the amount of those charges or expenses;
+- (e) to the extent that the manager incurs any expenses in complying with a requirement—
+  - (i) to arrange for the investor to receive a copy of the annual report and accounts issued to investors by any company, unit trust, open-ended investment company or other entity in which the investment scheme is invested directly or indirectly (“the relevant entities”), [^key-ad27b3b4d59d32a0dc6d282851a7d38a]...
+  - (ia)[^key-61ecd3a6100d52ba8646fe280f039cca] to arrange for the investor to receive a copy of the annual report and accounts issued to investors by the manager of an authorised contractual scheme in which the investment scheme is invested directly or indirectly, or to receive any other information issued to investors by the manager of such a scheme, or
+  - (ii) to arrange for the investor to attend, vote or receive any other information issued to investors by the relevant entities,
+
+  by the amount of such of those expenses; and
+- (f) in respect of a linked long-term contract referred to in regulation 6 which is subject to smoothing, by the amount of the charges or expenses incurred by the manager in providing funds to smooth investment returns but only when the provision of such funds is in accordance with the manager’s stated policy on smoothing.
+
+(10) Where the value of the investment property is reduced by reference to an amount of charges or expenses referred to in paragraph (9), then, for the purposes of calculating any reduction in the investor’s rights under paragraphs (3), (4) or (5), the value of those rights is to be calculated after the deductions of any such amount.
+
+(11) Where an investment scheme is brought to an end by a manager and the investor takes up a transfer facility to another investment scheme, the relevant percentage for the purposes of paragraphs (3) to (5) shall be the same as that which would have been applied under or in respect of the original investment scheme as if the original investment scheme were continuing, notwithstanding any rules of the new investment scheme.
+
+Jim Murphy
+
+John Heppell
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations define the term “**stakeholder product**” for the purposes of article 52B of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (S.I. 2001/544, as inserted by S.I. 2004/2737).
+
+Regulation 4 provides that a deposit account will be a stakeholder product provided that it complies with certain requirements as to the minimum deposit, the time allowed for withdrawals, the interest payable, the frequency of withdrawals and the methods of making deposits.
+
+Regulation 5 provides that units in a collective investment scheme will be a stakeholder product provided that the scheme complies with certain requirements set out in regulation 7.
+
+Regulation 6 provides that rights in linked long-term contracts will be a stakeholder product provided that the fund held in respect of the contract complies with certain requirements set out in regulation 7 and, where the investment returns are smoothed, regulation 8.
+
+Regulation 7 sets out the requirements applicable to units in collective investment schemes and rights in a linked long-term fund.
+
+Regulation 8 sets out the additional requirements to be satisfied where the returns under a linked long-term contract are smoothed.
+
+Regulation 9 sets out the detailed requirements for the charge cap applicable to stakeholder collective investment schemes and linked long-term funds.
+
+## Annotations
+
+[^c5276441]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^c5276451]: Marginal citation: Article 52B was inserted by [S.I. 2004/2737](https://www.legislation.gov.uk/uksi/2004/2737) and confers a power on the Treasury (by reason of paragraph 25(1)(c) of Schedule 2 to the 2000 Act) to specify by regulations investments which qualify as stakeholder products.
+
+[^c5276461]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), as amended by [S.I. 2001/3544](https://www.legislation.gov.uk/uksi/2001/3544), [S.I](https://www.legislation.gov.uk/uksi/2001/3544/section/I). 2002/682, [S.I. 2002/1310](https://www.legislation.gov.uk/uksi/2002/1310), [S.I](https://www.legislation.gov.uk/uksi/2002/1310/section/I). 2002/1776, [S.I. 2002/1777](https://www.legislation.gov.uk/uksi/2002/1777), [S.I](https://www.legislation.gov.uk/uksi/2002/1777/section/I). 2003/1475, [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476), [S.I](https://www.legislation.gov.uk/uksi/2003/1476/section/I). 2003/2822 and [S.I. 2004/1610](https://www.legislation.gov.uk/uksi/2004/1610).
+
+[^key-87a6f3d3cbf0bf375060836e3dee82ea]: Textual amendment: Words in reg. 2(1) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 98(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/98/a)
+
+[^key-a4dd33b2d8919c0df1c0e1aa576ad03c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/2/1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 50(a)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/50/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c5276471]: Marginal citation: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53) as amended by the [Building Societies Act 1997 (c. 32)](https://www.legislation.gov.uk/ukpga/1997/32) and [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
+
+[^key-92185a2e39c19d45ee867cd0be05e0dc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/2/1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 50(b)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/50/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-16cb7e7e12798058da806a0c463ac684]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 98(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/98/b)
+
+[^key-94baa1ba46e70101d23ac659d0cdc686]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/2/1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 50(c)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/50/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-126ec91e68c973220280ed5c123ec8ea]: Textual amendment: Words in reg. 2(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 98(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/98/c)
+
+[^key-21d94297ff6314fb724c959c9c9558c8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/2/1) substituted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/12/2/a) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^key-0ecffb5331a952c0ffb5400c72d72c49]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/2/1) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/12/2/b) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^key-0d3d7d6da89bddde28903aa3ab89047f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/2/1) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [12(2)(c)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/12/2/c) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^key-2da51b38cc6819dd4db55b41fc7d549e]: Textual amendment: Words in [reg. 4(b)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/4/b) substituted (6.4.2005) by [The Financial Services and Markets Act 2000 (Stakeholder Products) (Amendment) Regulations 2005 (S.I. 2005/594)](https://www.legislation.gov.uk/uksi/2005/594), [regs. 1](https://www.legislation.gov.uk/uksi/2005/594/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2005/594/regulation/2/2/a)
+
+[^key-b5524a7946abc56792650b722c17dbf4]: Textual amendment: [Reg. 4(b)(iii)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/4/b/iii) omitted (6.4.2005) by virtue of [The Financial Services and Markets Act 2000 (Stakeholder Products) (Amendment) Regulations 2005 (S.I. 2005/594)](https://www.legislation.gov.uk/uksi/2005/594), [regs. 1](https://www.legislation.gov.uk/uksi/2005/594/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2005/594/regulation/2/2/b)
+
+[^key-5393945553e63ce1d335743ad1f5fd16]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/2004/2738/regulation/7/2/b) substituted (6.4.2005) by [The Financial Services and Markets Act 2000 (Stakeholder Products) (Amendment) Regulations 2005 (S.I. 2005/594)](https://www.legislation.gov.uk/uksi/2005/594), [regs. 1](https://www.legislation.gov.uk/uksi/2005/594/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/594/regulation/2/3)
+
+[^key-ad27b3b4d59d32a0dc6d282851a7d38a]: Textual amendment: Word in reg. 9(9)(e)(i) omitted (6.6.2013) by virtue of [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/12/3) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+
+[^key-61ecd3a6100d52ba8646fe280f039cca]: Textual amendment: Reg. 9(9)(e)(ia) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/12/3) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))

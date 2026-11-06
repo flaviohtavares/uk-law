@@ -1,0 +1,903 @@
+---
+title: The Care Quality Commission (Registration) Regulations 2009
+id: uksi/2009/3112
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-11-26'
+text_date: '2023-11-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2009/3112
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/3112/pdfs/uksiem_20093112_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/3112/pdfs/uksi_20093112_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/3112/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Care Quality Commission (Registration) Regulations 2009
+
+> Text as at 2023-11-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2009 No. 3112
+
+National Health Service, England
+
+Social Care, England
+
+Public Health, England
+
+The Care Quality Commission (Registration) Regulations 2009
+
+Made
+
+26th November 2009
+
+Laid before Parliament
+
+30th November 2009
+
+Coming into force
+
+1st April 2010
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 10(2), 13(1), 16(a), 17(1), 20, 30(3), 39(1) and (4), 41(1), 42, 65(1) and (3), 89 and 161(3) and (4) of the Health and Social Care Act 2008[^f00001].
+
+In accordance with section 20(8) of the Act, the Secretary of State has consulted such persons as he considers appropriate.
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement[^key-d45793e4f15a59e2d736c5e230e017e0]
+
+These Regulations may be cited as the Care Quality Commission (Registration) Regulations 2009 and shall come into force on 1st April 2010.
+
+### 2. Interpretation[^key-aec44ed99198f7af8642e068324523ec]
+
+In these Regulations—
+
+- “the Act” means the Health and Social Care Act 2008;
+- “health service body” means an English NHS body[^f00002], or NHS Blood and Transplant[^key-50c26c34435fd7133f87671847ae8935];
+- “[^key-4070aad91d6b16cf4865c32574ca5f02]**local authority**” has the same meaning as in section 2B of the National Health Service Act 2006;
+- “registered manager” means, in respect of a regulated activity, a person registered with the Commission under Chapter 2 of Part 1 of the Act as a manager in respect of that activity;
+- “registered person” means, in respect of a regulated activity, the person who is the service provider or a registered manager in respect of that activity;
+- “relevant address” means—
+  - (a) where the service provider is registered to carry on the regulated activity to which the enforcement action relates from one address, that address; or
+  - (b) where the service provider is registered to carry on the regulated activity from more than one address, any of those addresses to which the enforcement action is relevant;
+- “service provider” means, in respect of a regulated activity, a person registered with the Commission under Chapter 2 of Part 1 of the Act as a service provider in respect of that activity;
+- “service user” means a person who receives services provided in the carrying on of a regulated activity.
+
+## PART 2 — REGISTRATION
+
+### 3. Register of regulated activities[^key-6022d67d465fcda355a023b52de5bb85]
+
+The Commission must establish and maintain a register containing such information as appears to the Commission to be necessary to keep the public informed about the identity of registered persons and their carrying on of regulated activities.
+
+### 4. Persons to be regarded as the person carrying on a regulated activity[^key-0e81a1d75e61d5018159bbe6ad0a2c31]
+
+(1) For the purposes of Chapter 2 of Part 1 of the Act (registration in respect of the provision of health or social care), the following provisions apply.
+
+(2) Where a regulated activity is carried on by a person (A) and one or more other persons who are—
+
+- (a) individuals; and
+- (b) employees of A for the purpose of carrying on the regulated activity,
+
+A is to be regarded as the person who carries on the regulated activity.
+
+(3) For the purposes of paragraph (2), a person is an employee of A where that person—
+
+- (a) is employed by A under a contract of service, an apprenticeship, a contract for services or otherwise than under a contract (including under a carer agreement); or
+- (b) has been granted practising privileges by A.
+
+(4) Where the provision of services under arrangements between a body of trustees established for the purpose of providing services to meet the health or social care needs of a named beneficiary and a provider of such services falls to be regarded as a regulated activity, it is the provider and not the body of trustees which shall be regarded as the person who carries on that regulated activity.
+
+(5) In this regulation—
+
+- (a) “carer agreement” has the same meaning as in the Adult Placement Schemes (England) Regulations 2004[^f00005]; and
+- (b) “practising privileges” means the grant, by a person managing a hospital (as defined in section 275 of the National Health Service Act 2006[^f00006]), to a registered medical practitioner[^f00007] of permission to practise as a medical practitioner in that hospital.
+
+### 5. Registered manager condition[^key-46b42320850074cfe8fee4ba94258b22]
+
+(1) Subject to paragraph (2), for the purposes of section 13(1) of the Act, the registration of a service provider in respect of a regulated activity must be subject to a registered manager condition where the service provider is—
+
+- (a) a body of persons corporate or unincorporate; or
+- (b) an individual who—
+  - (i) is not a fit person to manage the carrying on of the regulated activity, or
+  - (ii) is not, or does not intend to be, in full-time day to day charge of the carrying on of the regulated activity.
+
+(2) Paragraph (1)(a) does not apply where the service provider is a health service body.
+
+(3) A service provider (P) is not a fit person to manage the carrying on of a regulated activity unless P—
+
+- (a) is of good character;
+- (b) is physically and mentally fit to manage the carrying on of the regulated activity;
+- (c) has the necessary qualifications, skills and experience to do so; and
+- (d) is able to supply to the Commission, or arrange for the availability of, information relating to themselves specified in Schedule 1.
+
+### 6. Cancellation of registration[^key-b705bbcfac8782e9f6133d911fcd0a3f]
+
+(1) The grounds specified for the purposes of section 17(1)(e) of the Act as grounds on which the Commission may cancel the registration of a registered person in respect of a regulated activity are that the registered person—
+
+- (a) has made a statement which is false or misleading in a material respect, or provided false information, in relation to any application for—
+  - (i) registration, or
+  - (ii) the variation or removal of a condition in relation to their registration;
+- (b) has failed to pay any fees payable under provision under section 85 of the Act; or
+- (c) if the registered person is a service provider, is not, and has not been for a continuous period of 12 months ending with the date of the decision to cancel registration, carrying on that regulated activity.
+
+## PART 3 — PUBLICATION OF INFORMATION AND EXPLANATIONS
+
+### 7. Publication of information relating to enforcement action[^key-c88c37b7d371e5cd2ad4af180d293d00]
+
+(1) Except in the circumstances specified in paragraphs 5 to 7 of Part 1 of Schedule 2, the Commission must publish the information prescribed in that Part of that Schedule in the time prescribed in paragraph 8 of that Part.  
+
+(2) The Commission may publish the information prescribed in Part 2 of Schedule 2 subject, in the case of the information prescribed in paragraph 13, to the conditions specified in sub-paragraph (2) of that paragraph.
+
+### 8. Exemptions from the requirement to notify bodies of certain matters[^key-04eb71ed7a061ccdfe7a9de78325c02b]
+
+Section 39(1) of the Act does not apply to—
+
+- (a) a notice to a person who applies for registration as a registered person given under—
+  - (i) section 26(2) or (3) of the Act (notice of proposals), or
+  - (ii) section 28(1) or (3) of the Act (notice of decisions);
+- (b) a notice of proposal given under section 26(4)(c) or (d) of the Act, or a notice of decision given under section 28(3) of the Act, which—
+  - (i) relates to the variation or removal of any condition for the time being in force in relation to a registration or the imposition of an additional condition in relation to a registration, and
+  - (ii) appears to the Commission not to have a material impact on the regulated activity being carried on;
+- (c) a notice of proposal given under section 26(5) of the Act or a notice of decision given under section 28(3) of the Act to refuse an application by the registered person under section 19(1) of the Act; and
+- (d) a warning notice given under section 29 of the Act which appears to the Commission not to have a material impact on the regulated activity being carried on.
+
+### 9. Notification[^key-b378dd605514102611c4fec0c3626fd6][^key-2bc163b4858a1364b5840a510957aced]
+
+(1) The integrated care board[^key-f778084a9bbe779a3817434a4b5cdf2f] or English local authority that is required to be given—
+
+- (a) notice of an application for an order for cancellation of the registration of a registered person under section 30 of the Act; or
+- (b) a copy of a notice under section 39 of the Act,
+
+is to be determined in accordance with paragraphs (2) to (8).
+
+(2) Where the application under section 30 of the Act, or the notice of which a copy is required to be given under section 39 of the Act, is in respect of a regulated activity that involves, or is connected with, the provision of health care, the Commission must give notice or a copy of the notice to the relevant integrated care board.
+
+(3) Where the application under section 30 of the Act, or the notice of which a copy is required to be given under section 39 of the Act, is in respect of a regulated activity that involves, or is connected with, the provision of social care, the Commission must give notice or a copy of the notice to the relevant local authority.
+
+(4) Subject to paragraph (6), the relevant integrated care board is any integrated care board in whose area the regulated activity is being carried on.
+
+(5) Subject to paragraph (6), the relevant local authority is any local authority in whose area the regulated activity is being carried on.
+
+(6) Where a registered service provider is carrying on a regulated activity from more than one set of premises, and a notice of which a copy is required to be given under section 39 of the Act is in respect of the carrying on of a regulated activity from particular premises—
+
+- (a) the relevant integrated care board is any integrated care board in whose area those particular premises are situated; and
+- (b) the relevant local authority is any local authority in whose area those particular premises are situated.
+
+(6A)[^key-c8908e81c1c39291ddbe252ed674ca15] Notice of an application under section 30(1) of the Act must be given to NHS England[^key-7580b30e5f2660de7909a94607194c17] under section 30(3)(za) of the Act if the application is in respect of a regulated activity that involves, or is connected, with the provision of health care.
+
+(6B) A copy of a notice must be given to NHS England under section 39(1)(za) of the Act if the notice is in respect of a regulated activity that involves, or is connected, with the provision of health care.
+
+(7)[^key-07492d0f2e63c6ef8fdf7a28fbb9b163] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-07492d0f2e63c6ef8fdf7a28fbb9b163] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Power to require an explanation[^key-3923e97c346b4d05b70983e2e222797e]
+
+(1) Where the Commission considers an explanation of a relevant matter[^f00008] necessary or expedient for the purposes of any of its regulatory functions, the persons specified in paragraph (3) must, if so requested, provide an explanation of that matter to the Commission or to persons authorised by it.
+
+(2) Explanations required under paragraph (1) must be provided at such times and such places as may be specified by the Commission.
+
+(3) The persons referred to in paragraph (1) are—
+
+- (a) a person carrying on a regulated activity;
+- (b) a chair, director or employee of a person carrying on a regulated activity;
+- (c) an English NHS body;
+- (d) a member of an English NHS body other than an NHS foundation trust;
+- (e) a member of a committee or sub-committee of an English NHS body other than an NHS foundation trust;
+- (f) a member of a committee or sub-committee of the board of directors of an NHS foundation trust;
+- (g) an employee of an English NHS body other than one falling within sub-paragraph (b);
+- (h) a local authority;
+- (i) a member or officer of a local authority;
+- (j) a member of a committee or sub-committee of a local authority or a member of a joint committee of two or more local authorities;
+- (k) an elected mayor of a local authority within the meaning given in section 39 of the Local Government Act 2000[^f00009];
+- (l) a person (other than a person prescribed in sub-paragraphs (b) to (k)) who is assisting in the carrying on of a regulated activity;
+- (m) a person providing equipment or premises to a registered person;
+- (n) a chair, director or employee of a person providing equipment or premises to a registered person; and
+- (o) a person (other than a person prescribed in sub-paragraph (n)) who is assisting a person providing equipment or premises to a registered person.
+
+## PART 4 — REGISTRATION REQUIREMENTS
+
+### 11. General[^key-621015b9a533a3a43ed3c2d1992a4e2e]
+
+A registered person must, insofar as they are applicable, comply with the requirements specified in regulations 12 to 20 in relation to any regulated activity in respect of which they are registered.
+
+### 12. Statement of purpose[^key-785be5f535ccc7335d59b9135597b9b4]
+
+(1) The registered person must give the Commission a statement of purpose containing the information listed in Schedule 3.
+
+(2) The registered person must keep under review and, where appropriate, revise the statement of purpose.
+
+(3) The registered person must provide written details of any revision to the statement of purpose to the Commission within 28 days of any such revision.
+
+### 13. Financial position[^key-22d09d03da21f52f9873699e6c5aabb6]
+
+(1) Subject to paragraph (2), the service provider must take all reasonable steps to carry on the regulated activity in such a manner as to ensure the financial viability of the carrying on of that activity for the purposes of—
+
+- (a) achieving the aims and objectives set out in the statement of purpose; and
+- (b) meeting the registration requirements prescribed pursuant to section 20 of the Act.
+
+(2) This regulation does not apply where the service provider is—
+
+- (a) an English local authority; or
+- (b) a health service body.
+
+### 14. Notice of absence[^key-2ff6f9839b4ea49977a430f50bbe15a5]
+
+(1) Subject to paragraphs (7) and (8), where—
+
+- (a) the service provider, if the provider is the person in day to day charge of the carrying on of the regulated activity; or
+- (b) the registered manager,
+
+proposes to be absent from carrying on or managing the regulated activity for a continuous period of 28 days or more, the registered person must give notice in writing to the Commission of the proposed absence.
+
+(2) Except in the case of an emergency, the notice referred to in paragraph (1) must be given no later than 28 days before the proposed absence commences or within such shorter period as may be agreed with the Commission and must contain the following information in relation to the proposed absence—
+
+- (a) its length or expected length;
+- (b) the reason for it;
+- (c) the arrangements which have been made for the management of the carrying on of the regulated activity during the period of absence;
+- (d) the name, address and qualifications of the person who will be responsible for the management of the carrying on of the regulated activity during that absence;
+- (e) in the case of the absence of the registered manager, the arrangements that have been, or are proposed to be, made for appointing another person to manage the carrying on of the regulated activity during that absence, including the proposed date by which the appointment is to be made.
+
+(3) Where the absence referred to in paragraph (1) arises as the result of an emergency, the registered person must give notice of the absence to the Commission within 5 working days of its occurrence specifying the matters set out in paragraph (2)(a) to (e).
+
+(4) Where—
+
+- (a) the service provider, if the provider is the person in day to day charge of the carrying on of the regulated activity; or
+- (b) the registered manager,
+
+has been absent for a continuous period of 28 days or more, and the Commission has not been given notice of the absence, the registered person shall forthwith give notice in writing to the Commission specifying the matters set out in paragraph (2)(a) to (e).
+
+(5) The registered person must notify the Commission of the return to duty of the service provider or (as the case may be) the registered manager not later than 7 working days after the date of that return.
+
+(6) In this regulation “working day” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday in England and Wales within the meaning of the Banking and Financial Dealings Act 1971[^f00010].
+
+(7) Subject to paragraph (8), this regulation does not apply where the service provider is a health service body.
+
+(8) Where the service provider is a health service body and is subject to a registered manager condition pursuant to regulation 5 or section 12(3) or (5) of the Act, this regulation shall have effect in relation any absence, proposed absence or return to duty of that registered manager.
+
+### 15. Notice of changes[^key-f59b4864014caf0ce986897f2f3f1971]
+
+(1) Subject to paragraph (2), the registered person must give notice in writing to the Commission, as soon as it is reasonably practicable to do so, if any of the following events takes place or is proposed to take place—
+
+- (a) a person other than the registered person carries on or manages the regulated activity;
+- (b) a registered person ceases to carry on or manage the regulated activity;
+- (c) the name of a registered person (where that person is an individual) changes;
+- (d) where the service provider is a partnership, any change in the membership of the partnership;
+- (e) where the service provider is a body other than a partnership—
+  - (i) a change in the name or address of the body,
+  - (ii) a change of director, secretary or other similar officer of the body, or
+  - (iii) a change of nominated individual;
+- (f) where the service provider is—
+  - (i) an individual, the appointment of a trustee in bankruptcy in relation to that individual, or
+  - (ii) a company or partnership, the appointment of a receiver, manager, liquidator or provisional liquidator in relation to that company or partnership.
+
+(2) Paragraph (1)(e)(ii) does not apply where the service provider is a health service body.
+
+(3) In this regulation, “nominated individual” means the individual who is employed as a director, manager or secretary of the body and whose name has been notified to the Commission as being the person who is responsible for supervising the management of the carrying on of the regulated activity by that body.
+
+### 16. Notification of death of service user[^key-21ac016c9f07409755a1f8f098800f7e]
+
+(1) Except where paragraph (2) applies, the registered person must notify the Commission without delay of the death of a service user—
+
+- (a) whilst services were being provided in the carrying on of a regulated activity; or
+- (b)[^key-880a40b23704b48ff462a8397a3e1328] which has, or may have, resulted from the carrying on of a regulated activity.
+
+(2)[^key-d6a3e1f3c04b332d5b45d41b17250ac4] Subject to paragraph (4), where the service provider is a health service body, a local authority exercising public health functions (within the meaning of the National Health Service Act 2006)[^key-3cd13ccdf529bd48b4779326e44ea2ff] or a provider of primary medical services, the registered person must notify the Commission without delay of the death of a service user where the death—
+
+- (a) either—
+  - (i) occurred whilst services were being provided in the carrying on of a regulated activity,
+  - (ii) has, or may have, resulted from the provision of services by a health service body , or local authority exercising public health functions (within the meaning of the National Health Service Act 2006),[^key-511195a3db3a5834bf311ce5ed84be37] in the course of carrying on a regulated activity, or
+  - (iii) has, or may have, resulted from the provision of primary medical services in the course of carrying on a regulated activity and those services were provided within the period of two weeks prior to the death of the service user; and
+- (b) cannot, in the reasonable opinion of the registered person, be attributed to the course which that service user’s illness or medical condition would naturally have taken if that service user was receiving appropriate care and treatment.
+
+(3) Notification of the death of a service user must include a description of the circumstances of the death.
+
+(4) Paragraph (2) does not apply if, and to the extent that, the registered person has reported the death to NHS England.
+
+(4A)[^key-bf3f5f9a20d43a07d4a28dcdd53e3733] For the purposes of paragraph (4), where a person has reported a death to the NHS Commissioning Board Authority, established under Article 2 of the NHS Commissioning Board Authority (Establishment and Constitution) Order 2011, before the establishment of NHS England, that report is to be treated as having been made to NHS England.
+
+(5) This regulation does not apply where regulation 17 applies.
+
+(6)[^key-ea709513a6d39566ce73938f458ece04] In paragraph (2), “provider of primary medical services” means a person who provides primary medical services pursuant to one of the following sections of the National Health Service Act 2006—
+
+- (a)[^key-728903c752a841633bdab3dc6583a5e0] section 3A (power of integrated care boards as to commissioning certain health services),
+- (b) section 83(2)(b) (primary medical services),
+- (c) section 84 (general medical services contracts),
+- (d) section 92 (arrangements for the provision of primary medical services),
+
+and provision of primary medical services shall be construed accordingly.
+
+### 17. Notification of death or unauthorised absence of a service user who is detained or liable to be detained under the Mental Health Act 1983[^key-0e41d1796cf1cec36e40c149bc02066a]
+
+(1) The registered person must notify the Commission without delay of the death in any location[^key-8a62fe5b22ea0305d74bd0102d17d3f9] or unauthorised absence from a relevant location of a service user who is liable to be detained by the registered person—
+
+- (a) under the Mental Health Act 1983[^f00012] (“the 1983 Act”); or
+- (b) pursuant to an order or direction made under another enactment (which applies in relation to England), where that detention takes effect as if the order or direction were made pursuant to the provisions of the 1983 Act.
+
+(2) Notification of the death of a service user must include a description of the circumstances of the death.
+
+(2A)[^key-82ef9a2cf4aa152d9a3576009fc261d3] The registered person must notify the Commission without delay of the return to a relevant location after a period of unauthorised absence of a service user whose absence is required to be notified under paragraph (1).
+
+(3) In this regulation—
+
+- (a) references to persons “liable to be detained” include a community patient who has been recalled to hospital in accordance with section 17E of the 1983 Act[^f00013], but do not include a patient who has been conditionally discharged and not recalled to hospital in accordance with section 42[^f00014], 73[^f00015] or 74[^f00016] of the 1983 Act;
+- (b) “community patient” has the same meaning as in section 17A of the 1983 Act[^f00017];
+- (c) “hospital” means a hospital within the meaning of Part 2 of that Act[^f00018]; and
+- (ca)[^key-4be745d24aa10b9b402baecc6324f51d] “relevant location” means a location used to provide secure psychiatric services under a contract with an English NHS body or the Secretary of State; and
+- (d)[^key-2ef8e54042aa382db08774847d99d14f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Notification of other incidents[^key-223e235baf7f197f50c1db0d20c4e0b1]
+
+(1) Subject to paragraphs (3) and (4), the registered person must notify the Commission without delay of the incidents specified in paragraph (2) which occur whilst services are being provided in the carrying on of a regulated activity, or as a consequence of the carrying on of a regulated activity.
+
+(2) The incidents referred to in paragraph (1) are—
+
+- (a) any injury to a service user which, in the reasonable opinion of a health care professional, has resulted in—
+  - (i) an impairment of the sensory, motor or intellectual functions of the service user which is not likely to be temporary,
+  - (ii) changes to the structure of a service user’s body,
+  - (iii) the service user experiencing prolonged pain or prolonged psychological harm, or
+  - (iv) the shortening of the life expectancy of the service user;
+- (b) any injury to a service user which, in the reasonable opinion of a health care professional, requires treatment by that, or another, health care professional in order to prevent—
+  - (i) the death of the service user, or
+  - (ii) an injury to the service user which, if left untreated, would lead to one or more of the outcomes mentioned in sub-paragraph (a);
+- (c)[^key-bef6b24f3f7765234cf013235b37f5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-bef6b24f3f7765234cf013235b37f5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) any abuse or allegation of abuse in relation to a service user;
+- (f) any incident which is reported to, or investigated by, the police;
+- (g) any event which prevents, or appears to the service provider to be likely to threaten to prevent, the service provider’s ability to continue to carry on the regulated activity safely, or in accordance with the registration requirements, including—
+  - (i) an insufficient number of suitably qualified, skilled and experienced persons being employed for the purposes of carrying on the regulated activity,
+  - (ii) an interruption in the supply to premises owned or used by the service provider for the purposes of carrying on the regulated activity of electricity, gas, water or sewerage where that interruption has lasted for longer than a continuous period of 24 hours,
+  - (iii) physical damage to premises owned or used by the service provider for the purposes of carrying on the regulated activity which has, or is likely to have, a detrimental effect on the treatment or care provided to service users, and
+  - (iv) the failure, or malfunctioning, of fire alarms or other safety devices in premises owned or used by the service provider for the purposes of carrying on the regulated activity where that failure or malfunctioning has lasted for longer than a continuous period of 24 hours,
+- (h)[^key-46d7d9398a26e8b424f292d0c0241000] any placement of a service-user under the age of eighteen in a psychiatric unit whose services are intended for persons over that age where that placement has lasted for longer than a continuous period of 48 hours.
+
+(3) Paragraph (2)(f) does not apply where the service provider is an English NHS body.
+
+(4) Where the service provider is a health service body, paragraph (1) does not apply if, and to the extent that, the registered person has reported the incident to NHS England.
+
+(4ZA)[^key-c032ac968394e02854a324775ee60a2e] For the purposes of paragraph (4), where a person has reported an incident to the NHS Commissioning Board Authority, established under Article 2 of the NHS Commissioning Board Authority (Establishment and Constitution) Order 2011, before the establishment of NHS England, that report is to be treated as having been made to NHS England.
+
+(4A)[^key-1d418d369a4901c2658c11488bd9be4b] The registered person must notify the Commission of the following events, which occur whilst services are being provided in the carrying on of a regulated activity, or as a consequence of the carrying on of a regulated activity—
+
+- (a) any request to a supervisory body made pursuant to Part 4 of Schedule A1 to the 2005 Act by the registered person for a standard authorisation;
+- (b) any application made to a court in relation to depriving a service user of their liberty pursuant to section 16(2)(a) of the 2005 Act.
+
+(4B) Any notification required to be given in respect of an event in paragraph (4A) shall be given once the outcome of the request or application is known or, if the request or application is withdrawn, at the point of withdrawal and shall include a statement as to—
+
+- (a) the date and nature of the request or application;
+- (b) whether the request or application was preceded by the use of an urgent authorisation, within the meaning of paragraph 9 of Schedule A1 to the 2005 Act;
+- (c) the outcome of the request or application or reason for its withdrawal; and
+- (d) the date of the outcome or withdrawal.
+
+(5) In this regulation—
+
+- (a) “the 2005 Act” means the Mental Capacity Act 2005[^f00019];
+- (b) “abuse”, in relation to a service user, means—
+  - (i) sexual abuse,
+  - (ii) physical or psychological ill-treatment,
+  - (iii) theft, misuse or misappropriation of money or property, or
+  - (iv) neglect and acts of omission which cause harm or place at risk of harm;
+- (c) “health care professional” means a person who is registered as a member of any profession to which section 60(2) of the Health Act 1999[^f00020] applies;
+- (d) “registration requirements” means any requirements or conditions imposed on the registered person by or under Chapter 2 of Part 1 of the Act;
+- (e) “standard authorisation” has the meaning given under Part 4 of Schedule A1 to the 2005 Act;
+- (f) “supervisory body” has the meaning given in paragraph 180 (in relation to a hospital in England) or paragraph 182 (in relation to a care home) of Schedule A1 to the 2005 Act;
+- (g) for the purposes of paragraph (2)(a)—
+  - (i) “prolonged pain” and “prolonged psychological harm” means pain or harm which a service user has experienced, or is likely to experience, for a continuous period of at least 28 days, and
+  - (ii) a sensory, motor or intellectual impairment is not temporary if such an impairment has lasted, or is likely to last, for a continuous period of at least 28 days.
+
+### 19. Fees etc.[^key-266f8b752be1cdc0886e476e78d80871]
+
+(1) Where a service user will be responsible for paying the costs of their care or treatment (either in full or partially), the registered person must provide a statement to the service user, or to a person acting on the service user’s behalf—
+
+- (a) specifying the terms and conditions in respect of the services to be provided to the service user, including as to the amount and method of payment of fees; and
+- (b) including, where applicable, the form of contract for the provision of services by the service provider.
+
+(2) The statement referred to in paragraph (1) must be—
+
+- (a) in writing; and
+- (b) as far as reasonably practicable, provided prior to the commencement of the services to which the statement relates.
+
+### 20. Requirements relating to termination of pregnancies[^key-1df0c371e7f25bd7dd2b7c9f51a8512b]
+
+(1) This regulation applies to a registered person who—
+
+- (a) carries on or manages the regulated activity consisting of the termination of pregnancies; and
+- (b) is not an English NHS body.
+
+(2) The registered person must ensure that, unless two certificates of opinion have been received in respect of the service user—
+
+- (a) no termination of pregnancy is carried out; and
+- (b) no fee is demanded or accepted from a service user.
+
+(3) The registered person must ensure that a certificate of opinion in respect of a service user undergoing termination of a pregnancy is completed and included with the service user’s medical record.
+
+(4) The registered person must ensure that no termination of pregnancy is undertaken after the 20th week of gestation, unless—
+
+- (a) the service user is treated by persons who are suitably qualified, skilled and experienced in the late termination of pregnancy; and
+- (b) appropriate procedures are in place to deal with any medical emergency which occurs during or as a result of the termination.
+
+(5) The registered person must ensure that no termination of a pregnancy is undertaken after the 24th week of gestation.
+
+(6) The registered person must ensure that a register of service users undergoing a termination of pregnancy is maintained, which is—
+
+- (a) completed in respect of each service user at the time the termination is undertaken; and
+- (b) retained for a period of not less than 3 years beginning on the date of the last entry.
+
+(7) The registered person must ensure that a record is maintained of the total numbers of terminations of pregnancies undertaken.
+
+(8) The registered person must ensure that the record referred to in paragraph (7) (which may be in paper or electronic form) is—
+
+- (a) accurate;
+- (b) kept securely and can be located promptly when required;
+- (c) retained for an appropriate period of time; and
+- (d) securely destroyed when it is appropriate to do so.
+
+(9) The registered person must ensure that notice in writing is sent to the Chief Medical Officer of the Department of Health and Social Care[^key-bd70f25ac46d244df5ed152dc2925191] of each termination of pregnancy[^f00021].
+
+(10) If the registered person—
+
+- (a) receives information concerning the death of a service user who has undergone termination of a pregnancy during the period of 12 months ending on the date on which the information is received; and
+- (b) has reason to believe that the service user’s death may be associated with the termination,
+
+the registered person must give notice in writing to the Commission of that information, within the period of 14 days beginning on the day on which the information is received.
+
+(11) The registered person must prepare and implement appropriate procedures to ensure that foetal tissue is treated with respect.
+
+(12) In this regulation, “certificate of opinion” means a certificate required by regulations made under section 2(1) of the Abortion Act 1967[^f00022].
+
+## PART 5 — OTHER MISCELLANEOUS REQUIREMENTS
+
+### 21. Death of service provider[^key-321d5d7ccb2650dbe340ba4c2c2de3ad]
+
+(1) Where the service provider is a partnership and a partner dies, the surviving partner shall without delay notify the Commission of the death in writing.
+
+(2) Where the service provider is an individual and that individual dies, that individual’s personal representative must notify the Commission in writing—
+
+- (a) without delay of the death; and
+- (b) within 28 days of the date of death of their intentions regarding the future carrying on of the regulated activity.
+
+(3) The personal representative of the deceased service provider may carry on the regulated activity without being registered in respect of it—
+
+- (a) for a period not exceeding 28 days; and
+- (b) for any future period as may be determined in accordance with paragraph (4).
+
+(4) The Commission may extend the period specified in paragraph (3)(a) by such further period, not exceeding one year, as the Commission shall determine, and shall notify any such determination to the personal representative in writing.
+
+(5) The personal representative of the deceased service provider shall appoint a person to take full-time day to day charge of the carrying on of the regulated activity during any period in which, in accordance with paragraph (3), they carry on the regulated activity without being registered in respect of it.
+
+### 22. Appointment of liquidators[^key-5bd3828bd43805dd61c870b2821ba983]
+
+(1) Any person to whom paragraph (2) applies must—
+
+- (a) notify the Commission of their appointment and the reasons for their appointment;
+- (b) appoint a manager to manage the regulated activity in any cases where there is not a registered manager; and
+- (c) before the end of the period of 28 days beginning with the date of their appointment, notify the Commission of their intentions regarding the future carrying on of the regulated activity.
+
+(2) This paragraph applies to any person appointed as—
+
+- (a) a receiver or manager of the property of the relevant company[^f00023];
+- (b) the liquidator or provisional liquidator of a relevant company; or
+- (c) the trustee in bankruptcy of a relevant individual[^f00024].
+
+### 22A. Form of notifications to the Commission[^key-821f2b6fc4340911cb2247b69d8c8f3c]
+
+Notifications made pursuant to regulations 14 to 18 and 21 and 22 must be made using the forms provided by the Commission for this purpose.
+
+## PART 6 — COMPLIANCE, GUIDANCE AND OFFENCES
+
+### 23. Compliance with regulations[^key-99ed217a4ddf152549c1778b083bf9fd]
+
+Where there is more than one registered person in respect of a regulated activity, or in respect of that activity as carried on at or from particular premises, anything which is required under these Regulations to be done by the registered person shall, if done by one of the registered persons, not be required to be done by any of the other registered persons.
+
+### 24. Guidance[^key-84f93ecaeb8a8d2457246b8591a88985]
+
+(1) For the purposes of compliance with the requirements set out in these Regulations, the registered person must have regard to guidance issued by the Commission in relation to the requirements set out in Part 4 of these Regulations.
+
+(2) For the purposes of paragraph (1), “guidance” means the guidance referred to in section 23 of the Act.
+
+### 25. Offences[^key-6cf0a88df2fc810a467c9187f4d7dec8]
+
+(1) A contravention of, or failure to comply with, any of the provisions of regulations 12 and 14 to 20 shall be an offence.
+
+(2) A person guilty of an offence under paragraph (1) is liable, on summary conviction, to a fine not exceeding level 4 on the standard scale.
+
+### 26. Penalty notices[^key-9bb0a302bd69187b0e720e06d684a78d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 7 — REVIEW[^key-8a34ce3b80f71726317fd5d5e9e1b8dd]
+
+### 27. Review
+
+(1) Before 1st October 2017, the Secretary of State must—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+Signed by authority of the Secretary of State for Health
+
+Mike O’Brien
+
+Minister of State,
+
+Department of Health
+
+26th November 2009
+
+## SCHEDULE 1 — INFORMATION REQUIRED IN RESPECT OF A SERVICE PROVIDER WHO PROPOSES TO MANAGE THE CARRYING ON OF A REGULATED ACTIVITY
+
+Regulation 5
+
+**1.**[^key-d38eb4bf40e19acbbdce50ffd69144e9] Proof of identity including a recent photograph.
+
+**2.**[^key-8ad4400af05f38306951939c0e736d3f] Where the certificate is required for a purpose referred to in—
+
+- (a) section 113A(2)(b) of the Police Act 1997[^f00025], a criminal record certificate issued under section 113A of that Act together with, after the appointed day and where applicable, relevant information relating to children or vulnerable adults; or
+- (b) section 113B(2)(b) of the Police Act 1997, an enhanced criminal record certificate issued under section 113B of that Act together with, where applicable, suitability information relating to children or vulnerable adults.
+
+**3.**[^key-acff9604b348007f1d7ef2b3a002393e] Satisfactory evidence of conduct in previous employment concerned with the provision of services relating to—
+
+- (a) health or social care; or
+- (b) children or vulnerable adults.
+
+**4.**[^key-2bc339a081a5a0c1b6bfe1cbc7690cd8] Where a person (P) has been previously employed in a position whose duties involved work with children or vulnerable adults, satisfactory verification, so far as reasonably practicable, of the reason why P’s employment in that position ended.
+
+**5.**[^key-4940056f69a49bd0fda8cc44aee85966] Satisfactory documentary evidence of any relevant qualification.
+
+**6.**[^key-39f374d81ea4bd824967505564e3aba4] A full employment history, together with a satisfactory written explanation of any gaps in employment.
+
+**7.**[^key-9d6c9f2d36a0198a15d4e5df95c5ac7d] Satisfactory information about any physical or mental health conditions which are relevant to the person’s ability to manage the carrying on of the regulated activity.
+
+**8.**[^key-49123bb5071c9ea3ee0bdf29bab93aa1] For the purposes of this Schedule—
+
+- (a) “the appointed day” means the day on which section 30 of the Safeguarding Vulnerable Groups Act 2006[^f00026] comes into force;
+- (b) “relevant information relating to children or vulnerable adults” has the same meaning as in section 31(2) and (3) of that Act;
+- (c) “satisfactory” means satisfactory in the opinion of the Commission; and
+- (d) “suitability information relating to children or vulnerable adults” means the information specified in sections 113BA and 113BB respectively of the Police Act 1997[^f00027].
+
+## SCHEDULE 2 — PUBLICATION OF INFORMATION RELATING TO ENFORCEMENT ACTION
+
+Regulation 7
+
+### PART 1 — INFORMATION RELATING TO ENFORCEMENT ACTION WHICH MUST BE PUBLISHED
+
+**1.**[^key-361104f9cb29da2449111a56bd68ac39] In relation to the cancellation or suspension of a registered person’s registration under section 17, 18, 30 or 31 of the Act, the prescribed information, subject to paragraph 5, is—
+
+- (a) a description of the regulated activity to which the cancellation or suspension relates;
+- (b) the name of the service provider in respect of that regulated activity;
+- (c) where the cancellation or suspension relates to a registered manager, the name of the registered manager;
+- (d) an explanation of why the registration has been cancelled or suspended and, where applicable, the period of suspension; and
+- (e) the relevant address.
+
+**2.**[^key-c6538e43b05bdcf53827915c36409836] In relation to the conviction of any person in respect of an offence under Part 1 of the Act, except an offence under section 76 (disclosure of confidential personal information: offence), the prescribed information, subject to paragraph 6, is—
+
+- (a) a description of the offence;
+- (b) a description of the regulated activity that the person so convicted is carrying on, or involved in carrying on;
+- (c) the name of the service provider in respect of that regulated activity;
+- (d) where the person convicted is the registered manager, the name of the registered manager; and
+- (e) the relevant address.
+
+**3.**[^key-fff4975269c3ddcdd0738a597624ba9c] (1) This paragraph applies to a decision under section 12(5) of the Act to vary or remove a condition for the time being in force in relation to a person’s registration, or to impose an additional condition, which—
+
+- (a) takes effect from the time when the notice is given in accordance with section 31 of the Act; or
+- (b) appears to the Commission to have a material impact on the regulated activity being carried on.
+
+(2) The prescribed information, subject to paragraph 5, in cases to which this paragraph applies is—
+
+- (a) a description of the regulated activity that the variation or removal of a condition, or the imposition of an additional condition, relates to;
+- (b) the name of the service provider in respect of that regulated activity;
+- (c) where the decision relates to a condition in respect of a registered manager, the name of the registered manager;
+- (d) a description of the condition being varied, removed or imposed and, where applicable, the variation or removal;
+- (e) an explanation of why the decision was taken; and
+- (f) the relevant address.
+
+**4.**[^key-b04bc2ee2558a2fc3118e88b66091d1a] In relation to the payment by any person of a penalty in accordance with a penalty notice issued under section 86 of the Act other than in respect of an offence under section 63(7), 64(4) or 65(4) of that Act, the prescribed information, subject to paragraph 7, is—
+
+- (a) a description of the fixed penalty offence;
+- (b) a description of the regulated activity that the person given the penalty notice was carrying on or involved in carrying on;
+- (c) the name of the service provider in respect of that regulated activity;
+- (d) where the penalty notice is given to a registered manager, the name of the registered manager; and
+- (e) the relevant address.
+
+**5.**[^key-850f9fad346402dceff25cc8ec8e2c42] Paragraphs 1 and 3 do not apply, and the information prescribed in that paragraph must not be published, where an appeal is brought under section 32 of the Act and the First-tier Tribunal has directed that the Commission’s decision is not, or is to cease, to have effect, or the order made by a justice of peace is to cease to have effect.
+
+**6.**[^key-3d41a7ac041f3154128209149392618a] Paragraph 2 does not apply, and the information prescribed in that paragraph must not be published, where an appeal is brought against a conviction for an offence under Part 1 of the Act and the conviction is quashed.
+
+**7.**[^key-30c2abe949ae9803a661bf8a43b5798b] Paragraph 4 does not apply, and the information prescribed in that paragraph must not be published, where a penalty notice is withdrawn in accordance with regulations made under section 87(1)(e) of the Act after the penalty has been paid but before publication of the information prescribed in paragraph 4.
+
+**8.**[^key-c0ce076c9718437d45ed12a5d0299600] (1) The time prescribed for information required to be published under paragraphs 1 and 3 where no appeal is brought under section 32 of the Act is within the period starting immediately after the end of the period of 28 days referred to in section 32(2) of the Act and ending 4 months after service on the person of the notice of the Commission’s decision or the date of the order under section 30 of the Act.
+
+(2) The time prescribed for information required to be published under paragraphs 1 and 3 where an appeal is brought under section 32 of the Act is within 3 months of the determination or abandonment of the appeal.
+
+(3) The time prescribed for information required to be published under paragraph 2 where no appeal is brought against a conviction is within the period starting immediately after the end of the period of 28 days after the date of the conviction and ending 4 months after the date of the conviction.
+
+(4) The time prescribed for information required to be published under paragraph 2 where an appeal is brought against a conviction is within 3 months of the determination or abandonment of the appeal.
+
+(5) The time prescribed for information to be published under paragraph 4 is within 3 months of the date of payment of the penalty.
+
+### PART 2 — INFORMATION RELATING TO ENFORCEMENT ACTION WHICH MAY BE PUBLISHED
+
+**9.**[^key-2cc31772959839f8f6b3a4272cd973b2] In relation to a conviction in respect of an offence under Part 1 of the Act, except an offence under section 76, the prescribed information is the penalty imposed.
+
+**10.**[^key-39916b980d49847b0288866d3bd1bd33] In relation to decisions under section 12(5) of the Act which do not fall within paragraph 3(1), the prescribed information is the information listed in paragraph 3(2)(a) to (f).
+
+**11.**[^key-7f0f045d8137138a1ef174280a10f557] Where a person who is not a registered person is convicted of an offence under Part 1 of the Act, except an offence under section 76, the prescribed information is the name of, and such other details as the Commission considers relevant about, the individual convicted of the offence.
+
+**12.**[^key-310a3cf58926c41e17ac4e10de3de36d] In relation to the payment by any person of a penalty in accordance with a penalty notice issued under section 86 of the Act in respect of an offence under section 63(7), 64(4) or 65(4) of that Act, which is committed in connection with the carrying on of a regulated activity, the prescribed information is the information listed in paragraph 4(a) to (e).
+
+**13.**[^key-08a5f7372f650aebc707d51a9a069ece] (1) In relation to a warning notice given under section 29 of the Act, the prescribed information is—
+
+- (a) a description of the regulated activity to which the warning notice relates;
+- (b) the name of the service provider in respect of that regulated activity;
+- (c) where the warning notice is given to a registered manager, the name of the registered manager;
+- (d) a description of the conduct which appears to the Commission to constitute a failure to comply with the relevant requirements and a description of the requirements concerned; and
+- (e) the relevant address.
+
+(2) Before publishing the information prescribed under sub-paragraph (1), the Commission must—
+
+- (a) provide the person to whom the notice was given an opportunity to make representations to the Commission relating to the matters dealt with in the notice; and
+- (b) take any such representations into account when determining whether to publish the prescribed information.
+
+## SCHEDULE 3 — INFORMATION TO BE INCLUDED IN THE STATEMENT OF PURPOSE
+
+Regulation 12
+
+**1.**[^key-286ba9850da06927203fbcc530724428] The aims and objectives of the service provider in carrying on the regulated activity.
+
+**2.**[^key-08b0a946aaf64abf6ddb960cced6ad37] The kinds of services provided for the purposes of the carrying on of the regulated activity and the range of service users’ needs which those services are intended to meet.
+
+**3.**[^key-8e3b047fc34e8db66977f7edac9d9475] The following information—
+
+- (a) in relation to the service provider and any registered manager—
+  - (i) full name,
+  - (ii) business address,
+  - (iii) business telephone number,
+  - (iv) electronic mail address where available; and
+- (b) in relation to the registered person—
+  - (i) the address to which the Commission may send any document, notice or other communication required to be delivered by these Regulations or the Act, and
+  - (ii) where the registered person consents to service by such means, an electronic mail address to which the Commission may send any document, notice or other communication required to be delivered by these Regulations or the Act.
+
+**4.**[^key-56301ba0714e6a4573e133f5b7c45373] The legal status of the service provider.
+
+**5.**[^key-d7bb8b5aed85bc7c27e007f6d41609b7] Details of the locations at which the services provided for the purposes of the regulated activity are carried on.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, which are to come into force on 1st April 2010, are made under the Health and Social Care Act 2008 (“the Act”) and apply in relation to regulated activities carried on in England. Part 1 of the Act establishes the Care Quality Commission (“the Commission”) and provides for the registration of persons carrying on a regulated activity.
+
+Part 1 of the Regulations contains provisions relating to citation, commencement and interpretation (regulations 1 and 2).
+
+Part 2 of the Regulations contains provisions relating to registration. Regulation 3 requires the Commission to keep a register of persons registered with the Commission under Chapter 2 of Part 1 of the Act as a service provider or a manager in respect of a regulated activity and regulation 4 contains details of the persons to be regarded as carrying on the regulated activity for the purposes of Chapter 2 of Part 1 of the Act (registration in respect of the provision of health or social care). Regulation 5 (and Schedule 1) sets out the circumstances in which the registration of a service provider is to be subject to a registered manager condition. Regulation 6 specifies the grounds on which the Commission may cancel a service provider’s registration pursuant to section 17(1)(e) of the Act.
+
+Part 3 contains provisions relating to the publication of information and explanations. Regulation 7 (and Schedule 2) prescribe information relating to enforcement action that the Commission must publish and the time by which it must be published, and information that the Commission may publish. Regulation 8 prescribes cases in which copies of notices of proposals given under section 26 of the Act, notices of decisions given under section 28 of the Act and warning notices given under section 29 of the Act do not need to be given to persons listed in section 39 of the Act. Regulation 9 defines which Primary Care Trust, local authority and Strategic Health Authority is required to be notified by the Commission of an application for an order for cancellation of the registration of a service provider under section 30 of the Act or given a copy of a notice referred to in section 39(2) of the Act. Regulation 10 enables the Commission to require the persons prescribed to provide an explanation of a relevant matter to the Commission, or to persons authorised by it, in circumstances where the Commission considers the explanation necessary or expedient for the purposes of its regulatory functions. It also gives the Commission power to require the explanation to be given at such times and such places as it specifies.
+
+Part 4 contains registration requirements. Regulation 11 provides that a registered person must comply with the requirements contained in regulations 12 to 20 in so far as they apply to an activity in respect of which they are registered. Regulation 12 provides that the registered person must give to the Commission a statement of purpose containing the information set out in Schedule 3 and regulation 13 contains provision as to the financial viability of a service provider (excluding English local authorities or a health service body). Regulations 14 and 15 require the giving of notices to the Commission in relation to the absence of a registered person and in relation to certain changes affecting the carrying on of the regulated activity. Regulations 16 and 17 prescribe the circumstances in which notification of the death of a service user must be given to the Commission (and regulation 17 also requires notification of the unauthorised absence of a service user who is liable to be detained under the Mental Health Act 1983) and regulation 18 prescribes the incidents, occurring whilst services are being provided in the carrying on of a regulated activity, or as a consequence of the carrying on of a regulated activity, which must be notified to the Commission. Regulation 19 deals with information to be given to service users in relation to fees for care or treatment. Regulation 20 contains requirements relating to a registered person who carries on the regulated activity of termination of pregnancies.
+
+Part 5 contains other miscellaneous requirements. Regulation 21 deals with the notification to be given to the Commission where a service provider dies. Regulation 22 contains provisions which apply where a liquidator or similar person has been appointed in relation to the carrying on of a regulated activity.
+
+Part 6 contains provisions relating to compliance, guidance and offences. Regulation 23 deals with who is responsible for complying with the Regulations in circumstances where there is more than one registered person in respect of a regulated activity. Regulation 24 states that, for the purposes of compliance with the Regulations, a registered person must take account of guidance issued by the Commission under section 23 of the Act. Regulation 25 provides that a breach of certain of the requirements in the Regulations is to be an offence punishable, on summary conviction, with a fine not exceeding level 4 on the standard scale.
+
+An impact assessment of the effect that this instrument will have on the costs and benefits to the service provider in question, together with an Equality Screening Assessment was published alongside a draft Statutory Instrument entitled the Health and Social Care Act 2008 (Regulated Activities) Regulations 2009 and is available on the Department of Health website at http://dh.gov.uk/en/Publicationsandstatistics/Legislation/index.htm.
+
+## Annotations
+
+[^f00001]: Footnote: [2008 c.14](https://www.legislation.gov.uk/ukpga/2008/14). “Prescribed” and “regulations” are defined in section 97(1) of the Act.
+
+[^key-d45793e4f15a59e2d736c5e230e017e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-aec44ed99198f7af8642e068324523ec]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/3112/regulation/2) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^f00002]: Footnote: “English NHS body” is defined in section 97(1) of the Act.
+
+[^key-50c26c34435fd7133f87671847ae8935]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2009/3112/regulation/2) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 134(2)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/134/2/a)
+
+[^key-4070aad91d6b16cf4865c32574ca5f02]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2009/3112/regulation/2) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 134(2)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/134/2/b)
+
+[^key-6022d67d465fcda355a023b52de5bb85]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/3112/regulation/3) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-0e81a1d75e61d5018159bbe6ad0a2c31]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/3112/regulation/4) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^f00005]: Footnote: [S.I. 2004/2071](https://www.legislation.gov.uk/uksi/2004/2071) to which there are amendments not relevant to these Regulations.
+
+[^f00006]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^f00007]: Footnote: The definition of “registered medical practitioner” in Schedule 1 to the Interpretation Act [1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30) has been substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), Schedule 1, paragraph 10 with effect from 16th November 2009.
+
+[^key-46b42320850074cfe8fee4ba94258b22]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/3112/regulation/5) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-b705bbcfac8782e9f6133d911fcd0a3f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/3112/regulation/6) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-c88c37b7d371e5cd2ad4af180d293d00]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/3112/regulation/7) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-04eb71ed7a061ccdfe7a9de78325c02b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/3112/regulation/8) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-b378dd605514102611c4fec0c3626fd6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/3112/regulation/9) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-2bc163b4858a1364b5840a510957aced]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/3112/regulation/9) heading substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 134(3)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/134/3/a)
+
+[^key-f778084a9bbe779a3817434a4b5cdf2f]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+
+[^key-c8908e81c1c39291ddbe252ed674ca15]: Textual amendment: [Reg. 9(6A)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/9/6A)[(6B)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/9/6B) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 134(3)(f)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/134/3/f)
+
+[^key-7580b30e5f2660de7909a94607194c17]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^key-07492d0f2e63c6ef8fdf7a28fbb9b163]: Textual amendment: [Reg. 9(7)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/9/7)[(8)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/9/8) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 134(3)(g)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/134/3/g)
+
+[^key-3923e97c346b4d05b70983e2e222797e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/3112/regulation/10) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^f00008]: Footnote: See section 65(2) of the Act for the definition of “relevant matter”.
+
+[^f00009]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22); section 39 has been amended by section 66 of the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28).
+
+[^key-621015b9a533a3a43ed3c2d1992a4e2e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/3112/regulation/11) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-785be5f535ccc7335d59b9135597b9b4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/3112/regulation/12) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-22d09d03da21f52f9873699e6c5aabb6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/3112/regulation/13) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-2ff6f9839b4ea49977a430f50bbe15a5]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/3112/regulation/14) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^f00010]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-f59b4864014caf0ce986897f2f3f1971]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2009/3112/regulation/15) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-21ac016c9f07409755a1f8f098800f7e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2009/3112/regulation/16) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-880a40b23704b48ff462a8397a3e1328]: Textual amendment: [Reg. 16(1)(b)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/16/1/b) substituted (1.10.2012) by [The Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 (S.I. 2012/921)](https://www.legislation.gov.uk/uksi/2012/921), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/b), [3(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/3/a)
+
+[^key-d6a3e1f3c04b332d5b45d41b17250ac4]: Textual amendment: [Reg. 16(2)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/16/2) substituted (1.10.2012) by [The Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 (S.I. 2012/921)](https://www.legislation.gov.uk/uksi/2012/921), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/b), [3(b)](https://www.legislation.gov.uk/uksi/2012/921/regulation/3/b)
+
+[^key-3cd13ccdf529bd48b4779326e44ea2ff]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/16/2) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 134(4)(a)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/134/4/a/i)
+
+[^key-511195a3db3a5834bf311ce5ed84be37]: Textual amendment: Words in [reg. 16(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/16/2/a/ii) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 134(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/134/4/a/ii)
+
+[^key-bf3f5f9a20d43a07d4a28dcdd53e3733]: Textual amendment: [Reg. 16(4A)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/16/4A) inserted (1.10.2012) by [The NHS Commissioning Board Authority (Abolition and Transfer of Staff, Property and Liabilities) and the Health and Social Care Act 2012 (Consequential Amendments) Order 2012 (S.I. 2012/1641)](https://www.legislation.gov.uk/uksi/2012/1641), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b), [Sch. 3 para. 11(3)](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/11/3)
+
+[^key-ea709513a6d39566ce73938f458ece04]: Textual amendment: [Reg. 16(6)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/16/6) inserted (1.10.2012) by [The Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 (S.I. 2012/921)](https://www.legislation.gov.uk/uksi/2012/921), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/b), [3(c)](https://www.legislation.gov.uk/uksi/2012/921/regulation/3/c)
+
+[^key-728903c752a841633bdab3dc6583a5e0]: Textual amendment: [Reg. 16(6)(a)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/16/6/a) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 134(4)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/134/4/b)
+
+[^key-0e41d1796cf1cec36e40c149bc02066a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2009/3112/regulation/17) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-8a62fe5b22ea0305d74bd0102d17d3f9]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/17/1) inserted (18.6.2012) by [The Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 (S.I. 2012/921)](https://www.legislation.gov.uk/uksi/2012/921), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a), [4(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/4/a)
+
+[^f00012]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20).
+
+[^key-82ef9a2cf4aa152d9a3576009fc261d3]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/17/2A) inserted (18.6.2012) by [The Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 (S.I. 2012/921)](https://www.legislation.gov.uk/uksi/2012/921), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a), [4(b)](https://www.legislation.gov.uk/uksi/2012/921/regulation/4/b)
+
+[^f00013]: Footnote: Section 17E was inserted by the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12) (“the 2007 Act”), section 32(2).
+
+[^f00014]: Footnote: Section 42 was amended by the 2007 Act, sections 40(2) and 55 and Schedule 11, Part 8.
+
+[^f00015]: Footnote: Section 73 was amended by the 2007 Act, section 4(9) and [S.I. 2001/3712](https://www.legislation.gov.uk/uksi/2001/3712) and [2008/2833](https://www.legislation.gov.uk/uksi/2008/2833).
+
+[^f00016]: Footnote: Section 74 was amended by the Crime (Sentences) Act [1997 (c. 43)](https://www.legislation.gov.uk/ukpga/1997/43), Schedule 4, paragraphs 12(10) to (12), the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), section 295 and [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833).
+
+[^f00017]: Footnote: Section 17A was inserted by section 32(2) of the 2007 Act.
+
+[^f00018]: Footnote: *See* sections 34(2) and 145(1) of the 1983 Act; relevant amendments were made by the Care Standards Act 2000, Schedule 4, paragraph 9 and by the National Health Service (Consequential Provisions) Act [2006 (c.43)](https://www.legislation.gov.uk/ukpga/2006/43), Schedule 1, paragraph 70(c).
+
+[^key-4be745d24aa10b9b402baecc6324f51d]: Textual amendment: [Reg. 17(3)(ca)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/17/3/ca) inserted (18.6.2012) by [The Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 (S.I. 2012/921)](https://www.legislation.gov.uk/uksi/2012/921), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a), [4(c)](https://www.legislation.gov.uk/uksi/2012/921/regulation/4/c)
+
+[^key-2ef8e54042aa382db08774847d99d14f]: Textual amendment: [Reg. 17(3)(d)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/17/3/d) omitted (18.6.2012) by virtue of [The Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 (S.I. 2012/921)](https://www.legislation.gov.uk/uksi/2012/921), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a), [4(d)](https://www.legislation.gov.uk/uksi/2012/921/regulation/4/d)
+
+[^key-223e235baf7f197f50c1db0d20c4e0b1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2009/3112/regulation/18) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-bef6b24f3f7765234cf013235b37f5a7]: Textual amendment: Reg. 18(2)(c)(d) omitted (18.6.2012) by virtue of [The Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 (S.I. 2012/921)](https://www.legislation.gov.uk/uksi/2012/921), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a), [5(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/5/a)
+
+[^key-46d7d9398a26e8b424f292d0c0241000]: Textual amendment: [Reg. 18(2)(h)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/18/2/h) inserted (1.4.2013) by [The Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 (S.I. 2012/921)](https://www.legislation.gov.uk/uksi/2012/921), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/c), [5(b)](https://www.legislation.gov.uk/uksi/2012/921/regulation/5/b)
+
+[^key-c032ac968394e02854a324775ee60a2e]: Textual amendment: [Reg. 18(4ZA)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/18/4ZA) inserted (1.10.2012) by [The NHS Commissioning Board Authority (Abolition and Transfer of Staff, Property and Liabilities) and the Health and Social Care Act 2012 (Consequential Amendments) Order 2012 (S.I. 2012/1641)](https://www.legislation.gov.uk/uksi/2012/1641), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b), [Sch. 3 para. 11(5)](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/11/5)
+
+[^key-1d418d369a4901c2658c11488bd9be4b]: Textual amendment: [Reg. 18(4A)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/18/4A)[(4B)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/18/4B) inserted (18.6.2012) by [The Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 (S.I. 2012/921)](https://www.legislation.gov.uk/uksi/2012/921), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a), [5(c)](https://www.legislation.gov.uk/uksi/2012/921/regulation/5/c)
+
+[^f00019]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9). Schedule A1 was inserted by Schedule 7 to the Mental Health Act [2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12).
+
+[^f00020]: Footnote: [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8). Section 60(2) was amended by the Health and Social Care Act 2008, Schedule 8, paragraph 1(3) and Schedule 15, Part 2 and by [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253) and [254](https://www.legislation.gov.uk/uksi/2002/254).
+
+[^key-266f8b752be1cdc0886e476e78d80871]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2009/3112/regulation/19) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-1df0c371e7f25bd7dd2b7c9f51a8512b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2009/3112/regulation/20) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-bd70f25ac46d244df5ed152dc2925191]: Textual amendment: Words in [reg. 20(9)](https://www.legislation.gov.uk/uksi/2009/3112/regulation/20/9) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(m)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/m) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+
+[^f00021]: Footnote: See section 4 of the Abortion Act [1967 (c.87)](https://www.legislation.gov.uk/ukpga/1967/87) which requires such notice to be given by the medical practitioner carrying out the termination. For relevant amendments see: [S.I. 2002/887](https://www.legislation.gov.uk/uksi/2002/887).
+
+[^f00022]: Footnote: The Regulations made under section 2 are [S.I. 1991/499](https://www.legislation.gov.uk/uksi/1991/499). Relevant amending instrument is [S.I. 2002/887](https://www.legislation.gov.uk/uksi/2002/887).
+
+[^key-321d5d7ccb2650dbe340ba4c2c2de3ad]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2009/3112/regulation/21) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-5bd3828bd43805dd61c870b2821ba983]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2009/3112/regulation/22) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^f00023]: Footnote: See section 41(3) of the Act for the definitions of “company” and “relevant company”.
+
+[^f00024]: Footnote: See section 41(3) of the Act for the definition of “relevant individual”.
+
+[^key-821f2b6fc4340911cb2247b69d8c8f3c]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/uksi/2009/3112/regulation/22A) inserted (18.6.2012) by [The Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 (S.I. 2012/921)](https://www.legislation.gov.uk/uksi/2012/921), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a), [6](https://www.legislation.gov.uk/uksi/2012/921/regulation/6)
+
+[^key-99ed217a4ddf152549c1778b083bf9fd]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2009/3112/regulation/23) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-84f93ecaeb8a8d2457246b8591a88985]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2009/3112/regulation/24) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-6cf0a88df2fc810a467c9187f4d7dec8]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2009/3112/regulation/25) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-9bb0a302bd69187b0e720e06d684a78d]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/2009/3112/regulation/26) revoked (18.6.2012) by [The Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 (S.I. 2012/921)](https://www.legislation.gov.uk/uksi/2012/921), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a), [7](https://www.legislation.gov.uk/uksi/2012/921/regulation/7)
+
+[^key-8a34ce3b80f71726317fd5d5e9e1b8dd]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2009/3112/part/7) inserted (18.6.2012) by [The Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 (S.I. 2012/921)](https://www.legislation.gov.uk/uksi/2012/921), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a), [8](https://www.legislation.gov.uk/uksi/2012/921/regulation/8)
+
+[^key-d38eb4bf40e19acbbdce50ffd69144e9]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/3112/schedule/1/paragraph/1) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-8ad4400af05f38306951939c0e736d3f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2009/3112/schedule/1/paragraph/2) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^f00025]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50). Sections 113A and 113B were inserted by the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), section 163(2), and amended by the Safeguarding Vulnerable Groups Act [2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), Schedule 9, Part 2, paragraphs 14(1), (2) and (3).
+
+[^key-acff9604b348007f1d7ef2b3a002393e]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2009/3112/schedule/1/paragraph/3) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-2bc339a081a5a0c1b6bfe1cbc7690cd8]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2009/3112/schedule/1/paragraph/4) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-4940056f69a49bd0fda8cc44aee85966]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2009/3112/schedule/1/paragraph/5) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-39f374d81ea4bd824967505564e3aba4]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2009/3112/schedule/1/paragraph/6) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-9d6c9f2d36a0198a15d4e5df95c5ac7d]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2009/3112/schedule/1/paragraph/7) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-49123bb5071c9ea3ee0bdf29bab93aa1]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2009/3112/schedule/1/paragraph/8) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^f00026]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47).
+
+[^f00027]: Footnote: Sections 113BA and 113BB were inserted into the Police Act 1997 by the Safeguarding Vulnerable Groups Act 2006, section 63(1), Schedule 9, Part 2, paragraph 14(1) and (4).
+
+[^key-361104f9cb29da2449111a56bd68ac39]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/3112/schedule/2/paragraph/1) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-c6538e43b05bdcf53827915c36409836]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/3112/schedule/2/paragraph/2) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-fff4975269c3ddcdd0738a597624ba9c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2009/3112/schedule/2/paragraph/3) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-b04bc2ee2558a2fc3118e88b66091d1a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2009/3112/schedule/2/paragraph/4) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-850f9fad346402dceff25cc8ec8e2c42]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2009/3112/schedule/2/paragraph/5) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-3d41a7ac041f3154128209149392618a]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2009/3112/schedule/2/paragraph/6) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-30c2abe949ae9803a661bf8a43b5798b]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2009/3112/schedule/2/paragraph/7) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-c0ce076c9718437d45ed12a5d0299600]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2009/3112/schedule/2/paragraph/8) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-2cc31772959839f8f6b3a4272cd973b2]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2009/3112/schedule/2/paragraph/9) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-39916b980d49847b0288866d3bd1bd33]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2009/3112/schedule/2/paragraph/10) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-7f0f045d8137138a1ef174280a10f557]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2009/3112/schedule/2/paragraph/11) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-310a3cf58926c41e17ac4e10de3de36d]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2009/3112/schedule/2/paragraph/12) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-08a5f7372f650aebc707d51a9a069ece]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2009/3112/schedule/2/paragraph/13) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-286ba9850da06927203fbcc530724428]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2009/3112/schedule/3/paragraph/1) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-08b0a946aaf64abf6ddb960cced6ad37]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2009/3112/schedule/3/paragraph/2) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-8e3b047fc34e8db66977f7edac9d9475]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2009/3112/schedule/3/paragraph/3) substituted (18.6.2012) by [The Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 (S.I. 2012/921)](https://www.legislation.gov.uk/uksi/2012/921), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a), [9](https://www.legislation.gov.uk/uksi/2012/921/regulation/9)
+
+[^key-56301ba0714e6a4573e133f5b7c45373]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2009/3112/schedule/3/paragraph/4) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)
+
+[^key-d7bb8b5aed85bc7c27e007f6d41609b7]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2009/3112/schedule/3/paragraph/5) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3112/regulation/1)

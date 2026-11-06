@@ -1,0 +1,107 @@
+---
+title: Border Security, Asylum and Immigration Act 2025, section 48
+act: Border Security, Asylum and Immigration Act 2025
+section: '48'
+status: revised
+text_date: '2026-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2025/31/section/48
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Border Security, Asylum and Immigration Act 2025, section 48
+
+> Text as at 2026-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 48. Extension of prohibition on employment to other working arrangements[^key-e414c36de6385c6cbf39abdbac288d5d][^key-606047a6e6faf6cfbadeee9d574f026d]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Immigration, Asylum and Nationality Act 2006 is amended as follows.
+
+(2) In the italic heading before section 15, after “Employment” insert “and other working arrangements”.
+
+(3) Before section 15, after the italic heading insert—
+
+> **14A. Application of sections 15 to 24 to other working arrangements**
+>
+> (1) In sections 15 to 24, a reference to a person employing another person includes a reference to—
+>
+> - (a) a person (“**person A**”) engaging an individual (“individual A”) under a worker’s contract,
+> - (b) a person (“**person B**”) engaging an individual sub-contractor (“individual B”), and
+> - (c) an online matching service (“**person C**”) providing the details of an individual who is a service provider (“individual C”) to potential clients or customers.
+>
+> (2) Accordingly—
+>
+> - (a) references in sections 15 to 24 to employment include engagement of the kind mentioned in paragraph (a) or (b) of subsection (1) or the provision of details as mentioned in paragraph (c) of that subsection;
+> - (b) references in those sections to an employer include person A, person B or person C;
+> - (c) references in those sections to an employee include individual A, individual B or individual C.
+>
+> (3) In this section—
+>
+> - “**worker’s contract**” means a contract, other than a contract of service or apprenticeship, under which—
+>   - (a) individual A undertakes to do or perform personally work or services for person A or another person (whether or not that other person is specified in the contract), and
+>   - (b) person A is neither a client nor customer of any profession or business undertaking carried on by individual A;
+> - “**individual sub-contractor**” means an individual (“individual B”) who has entered into a contract with person B to provide work or services in circumstances where person B has entered into a contract with a third party to provide, or arrange for the provision of, the work or services but individual B has not;
+> - “**online matching service**” means a person who, in the course of a business—
+>   - (a) keeps a register of service providers for the purpose of matching them with potential clients or customers,
+>   - (b) provides an online service by which potential clients or customers can submit enquiries for the purpose of being matched with suitable service providers, and
+>   - (c) charges a fee or commission in return for making such matches;
+> - “**service provider**” means a person providing, or seeking to provide, work or services for remuneration.
+>
+> (4) Subsection (1)(a), and subsection (2) so far as it has effect in consequence of subsection (1)(a), do not apply if and to the extent that—
+>
+> - (a) under the worker’s contract, individual A undertakes to do or perform personally work or services for a person other than person A (whether or not that other person is specified in the contract), and
+> - (b) the status of a person for whom individual A does or performs work or services under the contract is that of a client or customer of a profession or business undertaking carried on by individual A.
+>
+> (5) In this section a reference to a contract includes a contract that is express or implied and (if it is express) whether oral or in writing.
+>
+> (6) This section is subject to subsection (2) of section 15A (which provides for subsection (1)(a) of that section not to apply in relation to an online matching service).
+
+(4) After section 15 insert—
+
+> **15A. Extension of liability under section 15**
+>
+> (1) Subsection (4) applies where a person (“**A**”)—
+>
+> - (a) employs an individual to provide work or services, or
+> - (b) is contracted to provide, or arrange for the provision of, work or services and enters into a contract under which another person is to provide, or arrange for the provision of, the work or services (or part of the work or services).
+>
+> (2) The reference in subsection (1)(a) to A employing an individual does not include A doing so as mentioned in section 14A(1)(c) (online matching services).
+>
+> (3) Subsection (4) also applies where—
+>
+> - (a) a person (“**A**”) is an online matching service who provides the details of another person who is a service provider to potential clients or customers, and
+> - (b) as a result of being matched by person A, the service provider enters into a contract with a client or customer for the provision of work or services.
+>
+> (4) For the purposes of section 15, and where this would not otherwise be the case, A is to be treated as employing any individual (“**B**”) who personally provides the work or services (or any part of the work or services), including where—
+>
+> - (a) A is not in a contractual relationship with B, or
+> - (b) A does not know that B is providing the work or services (or part of the work or services).
+>
+> (5) Subsection (4) applies where A is contracted to provide, or arrange for the provision of, the work or services regardless of whether that contract is the first or any other contract in a chain of contracts to provide, or arrange for the provision of, the work or services (or part of the work or services).
+>
+> (6) This section does not affect the liability of any other employer under section 15.
+>
+> (7) In sections 15, 16, 17, 23 and 24 a reference to a person employing another person includes a reference to a person who is treated as doing so by virtue of subsection (4); and references in those sections to employment, employers and employees are to be construed accordingly.
+>
+> (8) In this section “**online matching service**” and “**service provider**” have the same meaning as in section 14A.
+
+(5) In section 25—
+
+- (a) in paragraph (b), at the beginning insert “subject to sections 14A and 15A,”,
+- (b) in paragraph (b), omit from “whether” to the end of the paragraph, and
+- (c) after that paragraph insert—
+
+  > - (ba) a reference to a contract includes a contract that is express or implied and (if it is express) whether oral or in writing,
+
+  .
+
+## Annotations
+
+[^key-e414c36de6385c6cbf39abdbac288d5d]: Commencement: S. 48 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+
+[^key-606047a6e6faf6cfbadeee9d574f026d]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2025/31/section/48) in force at 1.10.2026 by [S.I. 2026/683](https://www.legislation.gov.uk/uksi/2026/683), [reg. 2](https://www.legislation.gov.uk/uksi/2026/683/regulation/2)

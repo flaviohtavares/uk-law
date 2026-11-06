@@ -1,0 +1,210 @@
+---
+title: The Notification of Deaths Regulations 2019
+id: uksi/2019/1112
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-07-10'
+text_date: '2024-09-09'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2019/1112
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/1112/pdfs/uksiem_20191112_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/1112/pdfs/uksi_20191112_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/1112/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Notification of Deaths Regulations 2019
+
+> Text as at 2024-09-09.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2019 No. 1112
+
+Medical Profession, England And Wales
+
+Coroners, England And Wales
+
+The Notification of Deaths Regulations 2019
+
+Made
+
+10th July 2019
+
+Laid before Parliament
+
+15th July 2019
+
+Coming into force
+
+1st October 2019
+
+The Lord Chancellor makes the following Regulations in exercise of the powers conferred by section 18(1) of the Coroners and Justice Act 2009 [^c23808691].
+
+In accordance with section 18(2) of that Act, the Lord Chancellor has consulted the Secretary of State for Health and Social Care and the Chief Coroner.
+
+## 1. Citation, commencement and interpretation[^key-7182a3fa1fd3aae59afa08ac4101550c][^key-05538d0dcd3aaa57198e068f507d4054]
+
+(1) These Regulations may be cited as the Notification of Deaths Regulations 2019 and come into force on 1st October 2019.
+
+(2)[^key-17005b70674a419b6e82f2674471be71] In these regulations—
+
+- “**attending practitioner**”, in relation to a deceased person, means a registered medical practitioner who attended the deceased person before their death;
+- “**relevant senior coroner**”, in relation to a death, means the senior coroner appointed for the coroner area in which the body of the deceased person lies.
+
+## 2. Duty to notify a relevant senior coroner of a death[^key-df0a9d805a8a97021ec52c478390886e]
+
+(1) A registered medical practitioner must notify the relevant senior coroner of a person's death if—
+
+- (a) the registered medical practitioner comes to know of the death on or after the coming into force of these Regulations; and
+- (b) at least one of the circumstances described in regulation 3(1) applies.
+
+(2)[^key-ff2b5406c228cfd2335fdadb81352ba3] But the duty in paragraph (1) does not apply if the registered medical practitioner reasonably believes that—
+
+- (a) the relevant senior coroner has already been notified of the death under these Regulations; or
+- (b) a referral has been made to the relevant senior coroner under regulation 3(1)(b)(ii) or 10(1) of the Medical Certificate of Cause of Death Regulations 2024.
+
+## 3. Circumstances in which the duty to notify arises[^key-5c61806e835298d0a84d72387fb8dcfa]
+
+(1) The circumstances are—
+
+- (a) the registered medical practitioner suspects that that the person's death was due to—
+  - (i) poisoning, including by an otherwise benign substance;
+  - (ii) exposure to or contact with a toxic substance;
+  - (iii) the use of a medicinal product, controlled drug or psychoactive substance;
+  - (iv) violence;
+  - (v) trauma or injury;
+  - (vi) self-harm;
+  - (vii) neglect, including self-neglect;
+  - (viii) the person undergoing a treatment or procedure of a medical or similar nature; or
+  - (ix) an injury or disease attributable to any employment held by the person during the person's lifetime;
+- (b) the registered medical practitioner suspects that the person's death was unnatural but does not fall within any of the circumstances listed in sub-paragraph (a);
+- (c) the registered medical practitioner—
+  - (i) is an attending practitioner[^key-2ae56dd20b368086603feb11f647b92b] in relation to the deceased person; but
+  - (ii) despite taking reasonable steps to determine the cause of death, considers that the cause of death is unknown;
+- (d) the registered medical practitioner suspects that the person died while in custody or otherwise in state detention [^c23808711];
+- (e) the registered medical practitioner reasonably believes that there is no attending practitioner[^key-a2a3bb8baaab09561428a806b1bd7c8b] in relation to the deceased person;
+- (f)[^key-3ae0d166af7bfc41aba54c93b2bd588d] the registered medical practitioner reasonably believes that—
+  - (i) there is an attending practitioner in relation to the deceased person; but
+  - (ii) an attending practitioner is not available within a reasonable time of the person's death to prepare and sign an attending practitioner’s certificate;
+- (g) the registered medical practitioner, after taking reasonable steps to ascertain the identity of the deceased person, is unable to do so.
+
+(2) In this regulation—
+
+- [^key-a6e27b9c830910d4c8a9142f54bd2136]...
+- “[^key-8375e9ead65a80c269664e70cba323fc]**attending practitioner’s certificate**” has the meaning given in regulation 2(1) of the Medical Certificate of Cause of Death Regulations 2024;
+- [^key-0463782b677fb956837a316ba1f93587]...
+- “**controlled drug**” has the same meaning as in the Misuse of Drugs Act 1971 [^c23808721];
+- “**employment**” means any employment, whether paid or unpaid, including—
+  - (a) work under a contract for services or as an office holder; and
+  - (b) work experience provided pursuant to a training course or in the course of training for employment;
+- “medicinal product” has the same meaning given by regulation 2 of the Human Medicines Regulations 2012 [^c23808731];
+- “**psychoactive substance**” has the same meaning as in the Psychoactive Substances Act 2016 [^c23808741].
+
+## 4. Notifying the relevant senior coroner[^key-67d56beed617e6441b8570087a1442e1]
+
+(1) A registered medical practitioner who must notify a relevant senior coroner of a person's death under regulation 2(1) must do so as soon as is reasonably practicable after the duty arises.
+
+(2) If at that time there are exceptional circumstances to justify doing so, the registered medical practitioner may notify a relevant senior coroner orally, otherwise the registered medical practitioner must notify the relevant senior coroner in writing.
+
+(3) When notifying a relevant senior coroner, a registered medical practitioner must provide such of the following information as is known to the registered medical practitioner—
+
+- (a) the registered medical practitioner's—
+  - (i) full name;
+  - (ii) postal address;
+  - (iii) telephone number; and
+  - (iv) email address;
+- (b) the deceased person's—
+  - (i) full name;
+  - (ii) date of birth;
+  - (iii) sex;
+  - (iv) address or usual place of residence;
+  - (v) occupation;
+- (c) the name and address of—
+  - (i) the deceased person's next of kin; or
+  - (ii) where there is no next of kin, the person responsible for the body of the deceased person;
+- (d) the circumstances in regulation 3(1) which apply to the death;
+- (e) the place of death;
+- (f) the date and time of death;
+- (g) where the deceased person was under the age of 18, the name and address of—
+  - (i) a parent of the deceased person; or
+  - (ii) another person who had parental responsibility for the deceased person;
+- (h)[^key-346c7e33fcd3b2884c2da375b1b45878] if the registered medical practitioner is not an attending practitioner in relation to the deceased person, the name of any registered medical practitioner who is.
+
+(4) When notifying a relevant senior coroner, a registered medical practitioner, in addition to providing the information specified in paragraph (3)—
+
+- (a) must provide any further information the registered medical practitioner considers to be relevant; and
+- (b) may provide any other information.
+
+(5) A registered medical practitioner who notifies a relevant senior coroner orally under paragraph (2) must, as soon as reasonably practicable afterwards, confirm in writing to the relevant senior coroner the information given orally.
+
+(6) In this regulation, “**consultant medical practitioner**” means a registered medical practitioner who is listed in the Specialist Register of the General Medical Council.
+
+Signed by authority of the Lord Chancellor
+
+Edward Argar
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+*(This note is not part of the Regulations)*
+
+These Regulations impose a duty on registered medical practitioners to notify a senior coroner of a person's death under certain circumstances. The senior coroner to be notified is the senior coroner appointed for the area in which the body of the deceased person lies (the “relevant senior coroner”).
+
+Regulation 2 provides that the duty applies where the registered medical practitioner comes to know of the death on or after the coming into force of these Regulations and at least one of the circumstances set out in regulation 3 applies in relation to the death.
+
+But the duty does not apply if the registered medical practitioner reasonably believes that the relevant senior coroner has already been notified of the death under these Regulations.
+
+Regulation 3 describes the circumstances referred to in regulation 2.
+
+Regulation 4 sets out the requirements which apply when notifying the relevant senior coroner. This regulation provides when the coroner must be notified, how the coroner may be notified and what information must be given to the relevant senior coroner.
+
+An impact assessment has not been produced for these Regulations as no impact, or no significant impact, on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^c23808691]: Marginal citation: [2009 c. 25](https://www.legislation.gov.uk/ukpga/2009/25); [section 18](https://www.legislation.gov.uk/ukpga/2009/25/section/18) was amended by [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378).
+
+[^key-7182a3fa1fd3aae59afa08ac4101550c]: Commencement: Reg. 1 in force at 1.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1112/regulation/1)
+
+[^key-05538d0dcd3aaa57198e068f507d4054]: Textual amendment: Word in [reg. 1](https://www.legislation.gov.uk/uksi/2019/1112/regulation/1) heading substituted (9.9.2024) by [The Cremation, Coroners and Notification of Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/668)](https://www.legislation.gov.uk/uksi/2024/668), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/668/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2024/668/regulation/4/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/668/regulation/5))
+
+[^key-17005b70674a419b6e82f2674471be71]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1112/regulation/1/2) substituted (9.9.2024) by [The Cremation, Coroners and Notification of Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/668)](https://www.legislation.gov.uk/uksi/2024/668), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/668/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2024/668/regulation/4/2/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/668/regulation/5))
+
+[^key-df0a9d805a8a97021ec52c478390886e]: Commencement: Reg. 2 in force at 1.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1112/regulation/1)
+
+[^key-ff2b5406c228cfd2335fdadb81352ba3]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/1112/regulation/2/2) substituted (9.9.2024) by [The Cremation, Coroners and Notification of Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/668)](https://www.legislation.gov.uk/uksi/2024/668), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/668/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2024/668/regulation/4/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/668/regulation/5))
+
+[^key-5c61806e835298d0a84d72387fb8dcfa]: Commencement: Reg. 3 in force at 1.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1112/regulation/1)
+
+[^key-2ae56dd20b368086603feb11f647b92b]: Textual amendment: Words in [reg. 3(1)(c)(i)](https://www.legislation.gov.uk/uksi/2019/1112/regulation/3/1/c/i) substituted (9.9.2024) by [The Cremation, Coroners and Notification of Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/668)](https://www.legislation.gov.uk/uksi/2024/668), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/668/regulation/1/1), [4(4)(a)(i)](https://www.legislation.gov.uk/uksi/2024/668/regulation/4/4/a/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/668/regulation/5))
+
+[^c23808711]: Marginal citation: For the definition of “state detention”, see [section 48](https://www.legislation.gov.uk/ukpga/2009/25/section/48) of the Coroners and Justice Act 2009.
+
+[^key-a2a3bb8baaab09561428a806b1bd7c8b]: Textual amendment: Words in [reg. 3(1)(e)](https://www.legislation.gov.uk/uksi/2019/1112/regulation/3/1/e) substituted (9.9.2024) by [The Cremation, Coroners and Notification of Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/668)](https://www.legislation.gov.uk/uksi/2024/668), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/668/regulation/1/1), [4(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/668/regulation/4/4/a/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/668/regulation/5))
+
+[^key-3ae0d166af7bfc41aba54c93b2bd588d]: Textual amendment: [Reg. 3(1)(f)](https://www.legislation.gov.uk/uksi/2019/1112/regulation/3/1/f) substituted (9.9.2024) by [The Cremation, Coroners and Notification of Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/668)](https://www.legislation.gov.uk/uksi/2024/668), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/668/regulation/1/1), [4(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/668/regulation/4/4/a/iii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/668/regulation/5))
+
+[^key-a6e27b9c830910d4c8a9142f54bd2136]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/1112/regulation/3/2) omitted (9.9.2024) by virtue of [The Cremation, Coroners and Notification of Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/668)](https://www.legislation.gov.uk/uksi/2024/668), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/668/regulation/1/1), [4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2024/668/regulation/4/4/b/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/668/regulation/5))
+
+[^key-8375e9ead65a80c269664e70cba323fc]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/1112/regulation/3/2) inserted (9.9.2024) by [The Cremation, Coroners and Notification of Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/668)](https://www.legislation.gov.uk/uksi/2024/668), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/668/regulation/1/1), [4(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/668/regulation/4/4/b/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/668/regulation/5))
+
+[^key-0463782b677fb956837a316ba1f93587]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/1112/regulation/3/2) omitted (9.9.2024) by virtue of [The Cremation, Coroners and Notification of Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/668)](https://www.legislation.gov.uk/uksi/2024/668), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/668/regulation/1/1), [4(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/668/regulation/4/4/b/iii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/668/regulation/5))
+
+[^c23808721]: Marginal citation: [1971 (c. 38)](https://www.legislation.gov.uk/ukpga/1971/38).
+
+[^c23808731]: Marginal citation: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
+
+[^c23808741]: Marginal citation: [2016 (c. 2)](https://www.legislation.gov.uk/ukpga/2016/2).
+
+[^key-67d56beed617e6441b8570087a1442e1]: Commencement: Reg. 4 in force at 1.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1112/regulation/1)
+
+[^key-346c7e33fcd3b2884c2da375b1b45878]: Textual amendment: [Reg. 4(3)(h)](https://www.legislation.gov.uk/uksi/2019/1112/regulation/4/3/h) substituted (9.9.2024) by [The Cremation, Coroners and Notification of Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/668)](https://www.legislation.gov.uk/uksi/2024/668), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/668/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2024/668/regulation/4/5) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/668/regulation/5))

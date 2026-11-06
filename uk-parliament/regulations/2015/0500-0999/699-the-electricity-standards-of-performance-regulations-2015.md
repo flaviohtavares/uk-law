@@ -1,0 +1,1034 @@
+---
+title: The Electricity (Standards of Performance) Regulations 2015
+id: uksi/2015/699
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-03-13'
+text_date: '2024-11-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2015/699
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/699/pdfs/uksi_20150699_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/699/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electricity (Standards of Performance) Regulations 2015
+
+> Text as at 2024-11-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2015 No. 699
+
+Electricity
+
+The Electricity (Standards of Performance) Regulations 2015
+
+Made
+
+13th March 2015
+
+Coming into force
+
+1st April 2015
+
+The Gas and Electricity Markets Authority[^f00001] (the “Authority”) makes the following Regulations in exercise of the powers conferred by sections 39, 39A, 39B, 42A and 60 of the Electricity Act 1989[^f00002] (“the Act”).
+
+In accordance with section 40B(1) of the Act[^f00003], the Authority has considered the results of research to discover the views of a representative sample of persons likely to be affected by these Regulations.
+
+In accordance with section 40B(4) of the Act, the Authority has consulted Citizens Advice and Citizens Advice Scotland, electricity licence holders, and persons and bodies appearing to be representative of persons likely to be affected by these Regulations.
+
+The Secretary of State has consented to making these Regulations in accordance with sections 39(1), 39A(1) and 39B(3) and (5) of the Act.
+
+## PART 1 — General
+
+### 1. Citation, commencement and transitional provisions[^key-7431a17a0493a799dcabbe809cec8d07]
+
+(1) These Regulations may be cited as the Electricity (Standards of Performance) Regulations 2015 and come into force on 1st April 2015.
+
+(2) Where, in relation to any occasion upon which a regulation would otherwise apply, the applicable date falls before the date on which these Regulations come into force, the Electricity (Standards of Performance) Regulations 2010[^f00004] continue to apply to the exclusion of these Regulations.
+
+### 2. Revocation[^key-a6db7392793158306eddad3cf6e8be26]
+
+The instruments listed in column 1 of Schedule 1 to these Regulations (which have the references in column 2) are revoked to the extent indicated in column 3 of that Schedule.
+
+### 3. General interpretation[^key-74d08ea82ddaf3e005eb87fcd50170ed]
+
+(1) In these Regulations, unless the context otherwise requires—
+
+- “the Act” means the Electricity Act 1989;
+- “applicable date” means, in relation to each occasion on which a regulation applies, the day on which that regulation first applies, or, where a prescribed period in a paragraph of a regulation is expressed in hours, the time on that day when that regulation first applies;
+- “appropriate meter” has the meaning given in paragraph 1(6) of Schedule 7 to the Act;
+- “the Authority” means the Gas and Electricity Markets Authority established under section 1 of the Utilities Act 2000[^f00005];
+- “consumer advocacy body” means the National Association of Citizens Advice Bureaux or Consumer Scotland[^key-115e5853c7bdb00ed91357b0865d94c8];
+- “customer” means an owner or occupier of premises in Great Britain who is supplied or requires to be supplied with electricity, and includes an electricity supplier where it is acting on behalf of such a person;
+- “designated electricity distributor” means an electricity distributor in whose licence Section B of the standard conditions of distribution licences is in effect but only to the extent that the electricity distributor is undertaking activities within its distribution services area;
+- “directly connected”, in relation to premises, means so connected to an electricity distributor’s distribution system that the final connection to the premises is from that system;
+- “distribution low voltage” means a nominal voltage not exceeding 1,000 volts;
+- “distribution services area” means, in relation to a designated electricity distributor, the area specified as such by the Authority under:
+  - (a) standard condition 2 (Application of Section C) of the licensee’s electricity distribution licence in the form in which that licence was in force on 31st May 2008; or
+  - (b) standard condition 3 (Application of the Section B standard conditions) of the licensee’s electricity distribution licence in the form in which that licence was in force on 31st March 2015; or
+  - (c) standard condition 3 (Application of the Section B standard conditions) of the electricity distribution licence on or after 1st April 2015;
+- “distributor’s fuse” means the fusible cut-out or automatic switching device of the electricity distributor for disconnecting the supply to the customer’s premises situated nearest to the appropriate meter for the customer’s premises and on the distributor’s side thereof;
+- “domestic customer” means a customer supplied or requiring to be supplied with electricity at domestic premises (but excluding such customer insofar as the customer is supplied or requires to be supplied at premises other than domestic premises);
+- “domestic premises” means premises at which a supply is taken or to be taken wholly or mainly for domestic purposes;
+- [^key-a0030b4913b02b1ecf14a9b0bc0dffee]...
+- “non-domestic customer” means any customer other than a domestic customer;
+- “pay” includes crediting the account of the customer for charges incurred or to be incurred in respect of the supply or in respect of the provision of any electricity meter, electric line or electrical plant, and “payment” is construed accordingly;
+- “[^key-2dfadedde5b0a151fa99224d60ffddcb]**prescribed cap**” means the amount in column 4 of Part 1A of Schedule 2, opposite the reference to that paragraph of the regulation in column 1 of Part 1A of that Schedule, or such other amount as adjusted by virtue of regulation 21A;”, and
+- “prescribed period” in relation to any paragraph of these Regulations means the period in column 2 of Part 1 of Schedule 2 opposite the reference to that paragraph in column 1 of that Part;
+- “prescribed sum” means, where the customer is a domestic customer the amount in column 3 of Part 1 of Schedule 2, or where the customer is a non-domestic customer the amount in column 4 of Part 1 of Schedule 2 or such other sum calculated in accordance with regulation 21A[^M_F_08b9e6e5-d81a-4940-fb0f-f8ca47129fd1], in either case opposite the reference to that paragraph of the regulation in column 1 of Part 1 of that Schedule;
+- “Priority Services Register” means a list established and maintained by an electricity distributor which contains the details of Priority Services Register Customers;
+- “Priority Services Register Customer” means a domestic customer who—
+  - (a) is of pensionable age, disabled or chronically sick; and
+  - (b) due to special communication needs or dependency on electricity for medical reasons, requires certain information and advice about interruptions in the supply of electricity to the customer’s premises; and
+  - (c) has either—
+    - (i) personally asked the licensee to add the customer’s name to the Priority Services Register; or
+    - (ii) had a person acting on the customer’s behalf ask for the customer’s name to be added to it; or
+    - (iii) had a relevant supplier ask for the customer’s name to be added to it;
+- “relevant operator” means the relevant electricity distributor or the electricity distributor[^key-136b5c8d007b34e48d6442facb69d5e7]
+- “relevant supplier” means an electricity supplier in whose licence Section D of the standard conditions of electricity supply licences had effect immediately prior to 1st August 2007 but only to the extent that the supplier is undertaking activities within its supply services area;
+- “specified time” means—
+  - (a) unless sub-paragraph (b) applies, a part (which has been specified by the relevant operator) of a day (which has also been so specified by the relevant operator) within the prescribed period from the applicable date, being either—
+    - (i) a part which falls either wholly before one o’clock in the afternoon or wholly after noon; or
+    - (ii) a part not exceeding two hours; or
+  - (b) such part of a day (whether or not within that period) as is requested by the customer and agreed with the relevant operator, such agreement not to be unreasonably withheld, provided that—
+    - (i) a part of a day may be a specified time for the purpose of a regulation notwithstanding that it was requested, agreed or specified prior to the time at which that regulation first applied; and
+    - (ii) the relevant operator is not obliged to agree a part of a day that is less than two hours;
+- “standard conditions of electricity distribution licences” means such conditions as may be determined by the Secretary of State for electricity distribution licences pursuant to section 33(1) of the Utilities Act 2000[^f00006], including any amendment or modification made to those standard conditions in accordance with the Act, the Utilities Act 2000 or the Energy Act 2004[^f00007], and a reference in a provision relating to electricity distributors to a numbered standard condition is a reference to the standard condition bearing that number in the standard conditions of electricity distribution licences;
+- “supply services area” means, in relation to a relevant supplier, the area specified or described pursuant to standard condition 3 of the standard conditions of electricity supply licences as incorporated in that electricity supplier’s licence immediately prior to 1st August 2007; and
+- “working hours” means the period between the times specified in Part 2 of Schedule 2.
+
+(2) For the purposes of these Regulations—
+
+- (a) where more than one person is a customer in respect of particular premises, a notice given by a relevant operator to one person who is a customer in respect of those premises is a sufficient notice to any other person who is a customer in respect of those premises at the time at which the notice is given;
+- (b) where a person is a customer in respect of more than one set of premises, a reference in a regulation to “customer” is a reference to that person in respect of each of the premises at which the person is a customer to which the regulation applies;
+- (c) any reference to the dispatch by a relevant operator of an explanation or reply within a particular period does not require that the explanation or reply (if in writing) is received by the customer within that period and is satisfied if the relevant operator provides the explanation or reply orally to the customer within that period;
+- (d) any reference to a customer (except in relation to the entitlement to any payment due from a relevant operator under these Regulations) includes any person having apparent authority to represent the customer;
+- (e) any reference to a customer does not include any person who is supplied otherwise than through an appropriate meter (as prescribed in regulations made under paragraph 1(1A) of Schedule 7 to the Act[^f00008]); and
+- (f) any customer identified as being a Priority Services Register Customer, and who experiences a qualifying interruption, is entitled to an automatic payment from the customer’s electricity distributor of the prescribed sum in respect of regulations 5, 6, 7 and 8, where no exemptions under those regulations apply.
+
+## PART 2 — Supply Restoration Standards of Performance for Electricity Distributors
+
+### 4. Supply Restoration Standards of Performance for Electricity Distributors[^key-8ad55f29e927caa9a121fef7985beb6b]
+
+(1) In this regulation and regulations 5, 6, 7, 8 and 9—
+
+- “[^key-d04c97158982d32b6b2b2075b46479b4]*category 1 severe weather conditions*” means—
+- (a) conditions in which no less than eight times the daily mean faults at distribution higher voltage on the designated electricity distributor’s distribution system at distribution higher voltage in a 24-hour period are caused by weather predominantly related to lightning; or
+- (b) conditions in which no less than eight times the daily mean faults at distribution higher voltage but fewer than thirteen times the daily mean faults at distribution higher voltage on the designated electricity distributor’s distribution system at distribution higher voltage in a 24-hour period are caused by weather not predominantly related to lightning;
+- “[^key-bb62776c369231af2c4f208e1cebe142]*category 2 severe weather conditions*” means conditions in which no less than thirteen times the daily mean faults at distribution higher voltage on the designated electricity distributor’s distribution system at distribution higher voltage in a 24-hour period are caused by weather not predominantly related to lightning;
+- [^key-65b45db9c528e4bc9eb72483198e3325]...
+- [^key-65b45db9c528e4bc9eb72483198e3325]...
+- “distribution higher voltage” means any nominal voltage of more than 1,000 volts up to and including 132 kilovolts in England and Wales and up to but excluding 132 kilovolts in Scotland;
+- “eight times the daily mean faults at distribution higher voltage” means, for each designated electricity distributor, the number in column 2 in the Table in Part 3 of Schedule 2 opposite the reference to that distributor in column 1;
+- “relevant electricity distributor”, in relation to any customer, means—
+  - (a) the electricity distributor to whose distribution system that customer’s premises are directly connected; or
+  - (b) where that distributor is entitled to rely on the exemption described at paragraph (9) of regulation 9 and has so notified the other electricity distributor to whom that paragraph refers, that other electricity distributor;
+- “relevant period” means the prescribed period commencing at the earlier of—
+  - (a) the first time at which an electricity distributor is informed by a customer that the supply to that customer’s premises has been discontinued; or
+  - (b) the first time at which an electricity distributor is informed by a person other than that customer or is otherwise made aware by the operation of any automatic system operated by that distributor of circumstances in which regulation 5(1), 6(1), 7(1), 7(2) or 7(3) applies or may reasonably be expected to apply to premises including the customer’s premises;
+- “thirteen times the daily mean faults at distribution higher voltage” means, for each designated electricity distributor, the number in column 3 in the table in Part 3 of Schedule 2 opposite the reference to that distributor in column 1;
+- [^key-65b45db9c528e4bc9eb72483198e3325]...
+- [^key-65b45db9c528e4bc9eb72483198e3325]...
+
+(2)[^key-c5904bf37b94d583d2f4c246de08c5bb] For the purposes of calculating and making compensation payments under regulations 5, 6, 7 and 8, where supply is interrupted to a directly connected premises, and the relevant electricity distributor is not a designated electricity distributor, that interruption is deemed to have been caused by the same category of event applicable to the designated electricity distributor in whose distribution services area that relevant electricity distributor operates.
+
+### 5. Supply restoration: normal conditions[^key-553917a50bfaf6a21545b184c1357478]
+
+(1) This paragraph applies to a relevant electricity distributor where the supply to a customer’s premises is interrupted as a result of a failure of, fault in or damage to that distributor’s distribution system (except where regulation 11 applies).
+
+(2) Where paragraph (1) applies, that distributor must, except in any of the circumstances described in paragraph (3), pay the prescribed sum to the customer—
+
+- (a) where the supply is not restored to the customer’s premises within the relevant period; and
+- (b) in respect of each succeeding period of 12 hours upon the expiry of which the supply is not restored.
+
+(3) The circumstances described in this paragraph are—
+
+- (a) each of the circumstances described in regulation 6 and regulation 9; and
+- (b) where the supply to the customer’s premises is interrupted as a result of a failure of, fault in or damage to the relevant electricity distributor’s distribution system resulting from category 1 or 2[^key-71f0c074db6d601426ac95c29ed235cd] severe weather conditions.
+
+### 6. Supply restoration: normal conditions – 5,000 or more customers’ premises interrupted[^key-728f9ce456416be967bee537ac2bc5a3]
+
+(1) This paragraph applies to a relevant electricity distributor where the supply to 5,000 or more customers’ premises is interrupted as a result of a single failure of, fault in or damage to that distributor’s distribution system.
+
+(2) Where paragraph (1) applies, that distributor must, except in any of the circumstances described in paragraph (3)(a) and (3)(b), pay the prescribed sum to any customer whose premises are included within the 5,000 or more customers’ premises referred to in paragraph (1)—
+
+- (a) where the supply is not restored to the customer’s premises within the relevant period; and
+- (b) in respect of each succeeding period of 12 hours upon the expiry of which the supply is not restored,
+
+up to the prescribed cap[^key-924bc6ecaeaddc67c404c290b9fc95b1] per customer.
+
+(3) The circumstances described in this paragraph are—
+
+- (a) each of the circumstances described in regulation 9, with the exception of regulation 9(8)(b), 9(8)(c) and 9(8)(e);
+- (b) where the supply to the customer’s premises is interrupted as a result of a failure of, fault in or damage to the relevant electricity distributor’s distribution system resulting from category 1 or 2[^key-8dd4c948b517c6f6750862018b674f5c] severe weather conditions.
+
+### 7. Supply restoration: severe weather conditions[^key-46bdd7a0e535e553bc9779fe391eedc2]
+
+(1) This paragraph applies to a relevant electricity distributor where the supply to a customer’s premises is interrupted as a result of a failure of, fault in or damage to that distributor’s distribution system resulting from category 1 severe weather conditions (except where regulation 11 applies).
+
+(2) This paragraph applies to a relevant electricity distributor where the supply to a customer’s premises is interrupted as a result of a failure of, fault in or damage to that distributor’s distribution system resulting from category 2 severe weather conditions (except where regulation 11 applies).
+
+(3)[^key-7cafc9ba60a882b6ba8e620691aad0e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Where paragraph (1) applies, that distributor must, except in each of the circumstances described in regulation 9, pay the prescribed sum to the customer—
+
+- (a) where the supply is not restored to the customer’s premises within the relevant period; and
+- (b) in respect of each succeeding period of 6[^key-779f1581b3ac5e0e753036c690720969] hours upon the expiry of which the supply is not restored,
+
+up to the prescribed cap[^key-1c6e583f8653fbbd5bef597f7c89cdc8] per customer.
+
+(5) Where paragraph (2) applies, that distributor must, except in each of the circumstances described in regulation 9, pay the prescribed sum to the customer—
+
+- (a) where the supply is not restored to the customer’s premises within the relevant period; and
+- (b) in respect of each succeeding period of 6[^key-c24120df4114b69f580e52c4c61106d6] hours upon the expiry of which the supply is not restored,
+
+up to the prescribed cap[^key-8cef49210d4ae40cbb1a8af7b6cbdac2] per customer.
+
+(6)[^key-d67082193750b83fe591412f1289da48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-b714777911845b415a664f6feb1e5922] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Supply restoration: rota disconnection[^key-8f2b5f962c19396defc2fd9aa1059f75]
+
+(1) This paragraph applies to a relevant electricity distributor where supply to a customer’s premises is interrupted as a result of rota disconnection on that distributor’s distribution system resulting from a failure of, fault in or damage to that distributor’s distribution system.
+
+(2) Where paragraph (1) applies, that distributor must, except in any of the circumstances described in regulation 9, pay the prescribed sum to the customer where the supply is not restored to the customer’s premises within the prescribed period.
+
+(3) For the purposes of paragraphs (1) and (2)—
+
+- (a) “rota disconnection” means the deliberate disconnection of customers’ electricity supplies by the relevant electricity distributor for a set duration on a rota basis so as to reduce the demand for electricity to the level of capacity that is available;
+- (b) where there is more than one interruption that relates to the same rota disconnection event, supply is deemed not to have been restored to a customer’s premises within the prescribed period if the total length of those interruptions is greater than or equal to the prescribed period.
+
+(4) Where there are one or more interruptions that relate to the same rota disconnection event and the total length of those interruptions is not greater than or equal to the prescribed period but is equal to or greater than 3 hours, then that is deemed to be one period of interruption for the purposes of regulation 10(1) subject to the other provisions of regulation 10.
+
+### 9. Exemptions from the normal and severe weather restoration standards[^key-5086565a061deea88c861b8ee68cb59c]
+
+(1) The circumstances described in this regulation are those set out in paragraphs (2) to (11).
+
+(2) It was not reasonable in all the circumstances for the relevant electricity distributor to be aware that the supply had not been restored.
+
+(3) That—
+
+- (a) the premises to which the supply was interrupted are situated on an island;
+- (b) the supply to premises on that island is normally provided through an electric line situated on or under the sea bed;
+- (c) the failure, fault or damage occurred in that part of the electric line that is situated below the high-water mark of spring tides; and
+- (d) no alternative means is normally available to the relevant electricity distributor to supply the premises on that island.
+
+(4) The customer at premises at which the supply was interrupted was not a Priority Services Register Customer and, within a period of three months from the date upon which the supply was restored to those premises, the relevant electricity distributor to whose network the customer’s premises are connected has—
+
+- (a) despite its reasonable endeavours, been unable to identify the customer to whom compensation in respect of the circumstance referred to in regulation 5(1), 6(1), 7(1), 7(2)[^key-787b94ea66414426ad395314bbe2ff4f]... or 8(1) was due; or
+- (b) not received a claim for compensation from the customer in respect of the circumstance referred to in regulation 5(1), 6(1), 7(1), 7(2)[^key-97bd3d845e5f3feb0e900af75eccaa4c]... or 8(1).
+
+(5) The customer informs the relevant electricity distributor before the contravention time that the customer does not wish that distributor to take any action, or any further action in relation to the matter.
+
+(6) The customer agrees with the relevant electricity distributor that the action taken by that distributor before the contravention time may be treated as the taking by the distributor of the action required by the regulation and, where the action taken by the distributor includes a promise to perform any action (whether before or after the contravention time), the distributor duly performs that promise.
+
+(7) The failure of, fault in, or damage to the relevant electricity distributor’s distribution system, or that distributor’s inability to take the action required by the regulation in relation to such failure, fault, or damage before the contravention time, was the result of an event for which emergency regulations have been made under Part 2 of the Civil Contingencies Act 2004[^f00009].
+
+(8) It was not reasonably practicable for the relevant electricity distributor to take the action required by the regulation before the contravention time as a result of—
+
+- (a) industrial action by the employees of that distributor;
+- (b) the act or default of a person other than an officer, employee or agent of the relevant electricity distributor or any other electricity distributor, or of a person acting on behalf of an agent thereof;
+- (c) the inability of that distributor to obtain any necessary access to any premises (which may include its own premises);
+- (d) the existence of circumstances by reason of which that distributor could reasonably expect that if it took the action it would or would be likely to be in breach of an enactment (including any directions given by the Secretary of State under section 96 of the Act[^f00010]); or
+- (e) circumstances of an exceptional nature beyond the control of the relevant electricity distributor (other than severe weather or the effects of severe weather or those circumstances set out in sub-paragraphs (8)(a) to (d) of this regulation),
+
+and the relevant electricity distributor had in each case taken all such steps as it was reasonable to take both to prevent the circumstances from occurring and to prevent them from having that effect.
+
+(9) Where the interruption of supply to the customer’s premises would not have occurred but for a failure of, fault in or damage to the distribution system of another electricity distributor.
+
+(10) The relevant electricity distributor reasonably considers that the information given by the customer is frivolous or vexatious.
+
+(11) The customer has committed an offence under paragraph 6 of Schedule 6 to the Act[^f00011] and the action taken or not taken by the relevant electricity distributor was in exercise of its powers under that paragraph.
+
+(12) In this regulation—
+
+- “contravention time” means—
+  - (a) in relation to regulation 5, the expiry of the relevant period referred to in paragraph (2)(a) and (where applicable) of each period referred to in paragraph (2)(b) of that regulation;
+  - (b) in relation to regulation 6, the expiry of the relevant period referred to in paragraph (2)(a) and (where applicable) of each period referred to in paragraph (2)(b) of that regulation;
+  - (c) in relation to regulation 7, the expiry of the relevant periods referred to in paragraphs 4(a) and 5(a)[^key-aacf96a1793f855d84c74173a3d53203] and (where applicable) of each period referred to in paragraphs 4(b) and 5(b)[^key-e56c011a73ec99b39fc2e07b82b27a18] of that regulation; and
+  - (d) in relation to regulation 8, the expiry of the prescribed period referred to in paragraph (2) of that regulation; and
+- “distributor” includes (where the case requires) a reference to more than one distributor.
+
+### 10. Supply restoration: multiple interruptions[^key-48f28306780aeb126183373daf400b0b]
+
+(1) This regulation applies to an electricity distributor where the supply to a customer’s premises that are directly connected to that electricity distributor’s distribution system is interrupted for four periods, each of not less than three hours, during a relevant year.
+
+(2) For the purposes of paragraph (1)—
+
+- (a) where successive interruptions are caused by or arise during actions taken by any electricity distributor to effect temporary or permanent restoration of the supply to those premises or to other premises affected by the event that caused the interruption of supply to the premises, any temporary restoration of supply for a period not exceeding three minutes is ignored in calculating the period of the interruption;
+- (b) the period of an interruption is deemed to start at the first time at which the distributor—
+  - (i) is informed by a customer that the supply to the customer’s premises has been interrupted; or
+  - (ii) is informed by a person other than the customer or is otherwise made aware by the operation of any automatic system operated by the distributor of circumstances in which the supply to the customer’s premises has been interrupted or may reasonably be expected to have been interrupted; and
+- (c) an interruption in any of the circumstances described in paragraph (3) is not treated as an interruption.
+
+(3) The circumstances described in this paragraph are—
+
+- (a) within the period of three hours after the interruption began—
+  - (i) the customer informed the distributor that the customer did not wish the distributor to take any action or any further action;
+  - (ii) the customer agreed with the electricity distributor that the action taken by the distributor before the expiry of that period should be treated as the taking by the distributor of the action required to cause the interruption to cease and, where that action included a promise to perform any action (whether within or after the expiry of that period) the distributor duly performed that promise; or
+  - (iii) it was not reasonably practicable for an electricity distributor to take the action required to cause the interruption to cease as a result of the existence of circumstances by reason of which the distributor could reasonably have expected that if it took that action it would have been or would be likely to have been in breach of an enactment (including any directions given by the Secretary of State under section 96 of the Act);
+- (b) the distributor had given to the customer prior notice of its intention or any other electricity distributor’s intention to interrupt the supply to the customer’s premises;
+- (c) the interruption was a result of a failure of, fault in or damage to either the transmission system to which the electricity distributor’s distribution system or another electricity distributor’s distribution system was connected or a generating station connected to that transmission system;
+- (d) the interruption was a result of a failure of, fault in or damage to a generating station connected to the distributor’s distribution system or another electricity distributor’s distribution system;
+- (e) the interruption was one where regulation 5, 6, 7, 8 or 11 applies;
+- (f) the interruption was a result of the act or default of the electricity supplier to the premises or of the customer;
+- (g) the cause of the interruption resulted in the interruption of supply to more than 500,000 customers in Great Britain as notified by the Authority to the distributor; or
+- (h) the interruption, or the inability of an electricity distributor to take the action required in order to cause the interruption to cease before the expiry of the period of three hours after the interruption began, was the result of an event for which emergency regulations have been made under Part 2 of the Civil Contingencies Act 2004.
+
+(4) Where this regulation applies, the distributor must, except in any of the circumstances described in paragraph (5), pay the prescribed sum to the customer.
+
+(5) The circumstances referred to in paragraph (4) are—
+
+- (a) that the electricity distributor has not received a claim for compensation from the customer within a period of three months after the expiry of the relevant year in which this regulation applies;
+- (b) that the interruptions as a result of which this regulation applies were not all in respect of the supply to the same premises; or
+- (c) that the customer (or where more than one person is the customer, at least one such person) was not the customer at the premises to which the supply was interrupted on the occasion of each of the interruptions as a result of which this regulation applies.
+
+(6) In this regulation, “relevant year” means a period of 12 months commencing on 1st April.
+
+## PART 3 — Other Individual Standards of Performance for Electricity Distributors
+
+### 11. Distributor’s fuse[^key-b2c53479687ac4a070f5e7fc0b4d581c]
+
+(1) This regulation applies to an electricity distributor where that distributor is informed by a telephone call, text message or email made by a customer whose premises are directly connected to that distributor’s distribution system that, or of circumstances suggesting that, the distributor’s fuse has operated so as to disconnect the supply to those premises.
+
+(2) For the purposes of paragraph (1)—
+
+- (a) where information is received by the distributor outside working hours it is deemed to have been received at the commencement of the next following period of working hours; and
+- (b) without prejudice to sub-paragraph (a), the information is deemed to be received by the distributor when it is received at the distributor’s specified contact points for receiving such information.
+
+(3) Where, within the prescribed period from the applicable date, an appropriate person fails to attend at the premises where the distributor’s fuse is situated for the purpose of replacing or reinstating that fuse and restoring the supply, the distributor must, except in any of the circumstances described in paragraph (4), pay to the customer the prescribed sum.
+
+(4) The circumstances referred to in paragraph (3) are—
+
+- (a) each of the circumstances described in regulation 20;
+- (b) that the customer requested the distributor not to restore the supply; and
+- (c) that the distributor’s fuse had not operated so as to disconnect the supply.
+
+(5) In this regulation, “appropriate person” means a person employed or authorised by the distributor to restore the supply where the distributor’s fuse has operated.
+
+### 12. Notice of supply interruption[^key-63cf182aa8cc5e1d0d4f870ad79b0b0e]
+
+(1) Paragraph (4) applies to an electricity distributor where, for an authorised purpose, that distributor interrupts the supply to a customer’s premises that are directly connected to its distribution system.
+
+(2) Paragraph (5) applies to an electricity distributor where, for an authorised purpose, that distributor interrupts the supply to a customer’s premises that are directly connected to the distribution system of another electricity distributor.
+
+(3) Paragraph (6) applies to an electricity distributor where that distributor has received notice from another electricity distributor within the prescribed period under paragraph (5) that supplies to a customer’s premises that are directly connected to its distribution system will be interrupted or are expected to be interrupted for an authorised purpose by another electricity distributor.
+
+(4) Where this paragraph applies and the distributor—
+
+- (a) has failed to give to the customer prior notice of not less than the prescribed period, stating the day on which the supply is or is expected to be interrupted; or
+- (b) interrupts the supply on a day other than a day stated in the notice,
+
+the distributor must, except in any of the circumstances described in paragraph (7), pay to the customer the prescribed sum.
+
+(5) Where this paragraph applies and the distributor—
+
+- (a) has failed to give the other electricity distributor prior notice of not less than the prescribed period, stating the day upon which the supply is or is expected to be interrupted, for onward transmission to the customer; or
+- (b) interrupts the supply on a day other than a day stated in the notice;
+
+the distributor must, except in any of the circumstances described in paragraph (7), pay to the customer the prescribed sum.
+
+(6) Where this paragraph applies and the distributor has failed to give the customer prior notice of not less than the prescribed period, stating the day on which supply is expected to be interrupted, the distributor must, except in any of the circumstances prescribed in paragraph (7), pay to the customer the prescribed sum.
+
+(7) The circumstances described in this paragraph are—
+
+- (a) each of the circumstances described in paragraphs (3), (6) and (7) of regulation 20;
+- (b) that the interruption was caused by the removal of a temporary supply that had been installed following an interruption of supply to the customer’s premises while supply was being restored to the premises; and
+- (c) that the distributor to whose distribution system the customer’s premises are directly connected has not received a claim for compensation from the customer in respect of any failure referred to in paragraphs (4), (5) and (6) within a period of one month from the applicable date.
+
+(8) In this regulation, “authorised purpose”, in relation to an electricity distributor, means testing or any other planned purpose connected with the carrying on of the activities that the distributor is authorised by its licence to carry on in relation to its electric lines and electrical plant (other than the distributor’s fuse).
+
+### 13. Voltage complaint[^key-cab0fb73e8a1b7a9a92037cabb60dfef]
+
+(1) This regulation applies to an electricity distributor where that distributor is notified by a customer whose premises are directly connected to its distribution system that—
+
+- (a) the customer believes that the supply to the premises is being or has been given at a voltage outside the limits of the permitted variations; or
+- (b) an event has occurred in relation to the supply and a distributor might reasonably expect the cause of the event to have been a supply given at a voltage outside the limits of the permitted variations.
+
+(2) Where paragraph (3) applies, and the distributor fails within the prescribed period from the applicable date to offer to the customer to visit the customer’s premises to investigate the matter during a specified time, the distributor must, except in any of the circumstances described in paragraph (5), pay to the customer the prescribed sum.
+
+(3) This paragraph applies where the distributor is reasonably satisfied that it is unable to provide an explanation of the probable reason for the matter notified under paragraph (1) without visiting the customer’s premises.
+
+(4) Where this regulation applies and the distributor—
+
+- (a) where paragraph (3) applies, fails to visit the customer’s premises during the specified time, it must pay to the customer the prescribed sum; or
+- (b) where paragraph (3) does not apply, fails to dispatch to the customer an explanation of the probable reason for the matter notified under paragraph (1) within the prescribed period from the receipt of the notification, it must pay to the customer the prescribed sum,
+
+except in either case in any of the circumstances described in paragraph (5).
+
+(5) The circumstances described in this paragraph are each of the circumstances described in regulation 20 provided that, in relation to paragraph (6) of that regulation, the distributor gave the customer not less than one working day’s prior warning (whether or not in writing) that it would be unable to visit during the specified time or the circumstances in which that paragraph applied occurred at a time when it was not reasonably practicable to give such a warning.
+
+(6) In this regulation, “permitted variations” has the same meaning as in regulations made under section 29 of the Act[^f00012].
+
+## PART 4 — Individual Standards of Performance for Relevant Suppliers
+
+### 14. Charges and payments[^key-181587b3a4278e80151e8c19d1b55d63]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Individual Standards of Performance for Electricity Suppliers
+
+### 15. Meter disputes[^key-c9f6c40155319b139769722a7dfd6c73]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Pre-payment meters[^key-90407df71a3fb5fd19d51408b5614c76][^key-9ccf098271e365c27d2525c3faf038d8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 6 — Common Obligations
+
+### 17. Appointments[^key-922c5f5bd6f0eb9bcc3f177a0214257b]
+
+(1) This regulation applies where—
+
+- (a) the customer informs the relevant operator that the customer wishes the relevant operator to visit the customer’s premises; or
+- (b) the relevant operator informs the customer that the relevant operator wishes to visit the customer’s premises,
+
+being in either case a visit in connection with the activities that the relevant operator is required or authorised to carry on under its licence and that requires access to be afforded to its representative or for which it would otherwise be reasonable to expect the customer to be present.
+
+(2) But this regulation does not apply to a visit arising out of the application of the Electricity (Connection Standards of Performance) Regulations 2015[^f00013].
+
+(3) Where this regulation applies and the relevant operator fails within a reasonable period from the applicable date to offer a timed appointment, the relevant operator must, except in any of the circumstances described in paragraph (6)—
+
+- (a)[^key-b68fbe8f196cdab2b3b9b2adc6da4fd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) pay to the customer the prescribed sum which applies if the relevant operator is a distributor.
+
+(4) Where this regulation applies and the relevant operator fails to keep a timed appointment, the relevant operator must, except in any of the circumstances described in paragraph (6)—
+
+- (a)[^key-7a7e0458d5f8420bc2afbae87ec8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) pay to the customer the prescribed sum which applies if the relevant operator is a distributor.
+
+(5) Where a timed appointment is made for more than one purpose, the relevant operator is not required to pay more than one prescribed sum under paragraph (4)(a) or (b) in respect of that timed appointment.
+
+(6) The circumstances described in this paragraph are—
+
+- (a) each of the circumstances described in regulation 20, provided that, in paragraph (6) of that regulation, the relevant operator gave the customer not less than one working day’s prior warning (whether or not in writing) that it would be unable to keep the timed appointment or the circumstances referred to in that paragraph occurred at a time when it was not reasonably practicable to give such a warning;
+- (b) that the visit is for the purpose of responding to information received under regulations 11 or 13[^key-4f5624347fcc92a3b7c3ca8c6ee008ac]; and
+- (c) that the visit is wholly or mainly in connection with disconnecting the premises in exercise of the power contained in paragraph 2(1) of Schedule 6 to the Act[^f00014].
+
+(7) In this regulation, “timed appointment” means an appointment to make a visit to a customer’s premises commencing—
+
+- (a) unless sub-paragraph (b) applies, during a part (which has been specified by the relevant operator) of a day (that has also been so specified) within a reasonable period from the applicable date, having regard to the purpose of the visit, being either—
+  - (i) a part that falls either wholly before one o-clock in the afternoon; or
+  - (ii) wholly after noon, or a part not exceeding two hours; or
+- (b) during such part of a day as is requested by the customer and agreed with the relevant operator, such agreement not to be unreasonably withheld, provided that the relevant operator is not obliged to agree a part of a day that is less than two hours.
+
+### 18. Disputes[^key-db8a363d3419a2793404add6f2c82e60]
+
+Schedule 3 sets out the practice and procedure to be followed in connection with the determination of any dispute under section 39 or 39A of the Act[^f00015], or any provision of these Regulations, which is referred to the Authority under section 39B(1) of the Act[^f00016].
+
+### 19. Payments[^key-c565efb33f0e589d0a4d06ade3ca3606]
+
+(1) Paragraph (4) applies where an electricity distributor is obliged under any of regulations 5 to 8 and 12 to make a payment to a customer whose premises are directly connected to the distribution system of another electricity distributor.
+
+(2) Paragraph (5) applies—
+
+- (a) where an electricity distributor is obliged to make a payment to a customer whose premises are directly connected to its distribution system under any of regulations 5 to 8, 10, 11, 12, 13 and 17; or
+- (b) where an electricity distributor receives a payment from another electricity distributor for onward transmission to a customer whose premises are directly connected to its network.
+
+(3)[^key-c024286098bbefacdf6bdcfc85d7988e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Where this paragraph applies and the distributor fails to make the payment to the customer or to the other distributor for onward transmission to the customer of the sum to which he is entitled, in either case as soon as is reasonably practicable in relation to regulation 7 and within the prescribed period from the applicable date in relation to any other regulations, the distributor must, except in any of the circumstances described in paragraph (7), pay the prescribed sum to the customer or that other distributor for onward transmission to the customer.
+
+(5) Where this paragraph applies and the distributor fails to make the payment to the customer or the customer’s electricity supplier for onward transmission to the customer of the sum to which the customer is entitled, in either case as soon as is reasonably practicable in relation to regulation 7 and within the prescribed period from the applicable date in relation to any other regulation, the distributor must, except in any of the circumstances described in paragraph (7), pay the prescribed sum to the customer.
+
+(6)[^key-dcc6a8bc6c862f4a515f2012c2f7b898] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) The circumstances described in this paragraph are—
+
+- (a) each of the circumstances described in regulation 20; and
+- (b) that there is a genuine dispute between the relevant operator and the customer as to whether the relevant operator is obliged to make the payment.
+
+(8) Where a relevant operator is required to make a payment under these Regulations—
+
+- (a) in relation to any premises at which more than one person is a customer, a payment to any one or more of the customers in respect of those premises is a complete discharge of the obligation of the relevant operator to make the payment to all the customers of those premises;
+- (b) nothing in, or done by a relevant operator in consequence of, these Regulations determines who is beneficially entitled to any payment made in pursuance of these Regulations; and
+- (c) nothing in these Regulations permits a relevant operator to make a payment other than by means of—
+  - (i) a cheque or cash; [^key-b0d5f1e977f8b4e969ecdf86681f3491]...
+  - (ii) a credit to the account of the customer for charges incurred or to be incurred in respect of the supply or the provision of any electricity meter, electric line, or electrical plant ; or[^key-d7ef878a660a37e8a94c27e25329170b].
+  - (iii)[^key-c58cb30f641f258488869b92eaefe324] bank transfer
+
+(9) Where all or part of the prescribed sum is paid by an electricity distributor to a customer under these Regulations, such a payment does not prejudice that distributor from recovering that payment (or part of that payment) from another electricity distributor where that other distributor is found to be wholly or partly responsible for the liability arising under these Regulations.
+
+### 20. Exemptions[^key-ea6d08a3de74edee7d856328dfa17c4d]
+
+(1) The circumstances described in this regulation are those set out in paragraphs (2) to (4) and (6) to (8).
+
+(2) The customer informs the relevant operator before the contravention time that the customer does not wish the relevant operator to take any action, or any further action, in relation to the matter.
+
+(3) The customer agrees with the relevant operator that the action taken by the relevant operator before the contravention time may be treated as the taking by the relevant operator of the action required by the regulation and, where the action taken by the relevant operator includes a promise to perform any action (whether before or after the contravention time), the relevant operator duly performs that promise.
+
+(4) Where information is or is required to be provided by the customer to the relevant operator, the information is provided to an address or by use of a telephone number other than the address or telephone number that the relevant operator has advised the customer is appropriate for receipt of information of that type or, in the case of information given by telephone for the purpose of regulation 13(1)[^key-5d69881a900571b722aad9154be3eab4], was given outside such reasonable hours as the relevant operator has advised the customer are the hours during which the telephone number will be available for the receipt of information of that type.
+
+(5) For the purposes of paragraph (4), the relevant operator may advise the customer by publishing the address, the telephone number, or the hours in such a manner as may be appropriate for the purpose of bringing the advice to the attention of customers likely to be affected by it.
+
+(6) It was not reasonably practicable for the relevant operator to take the action required by the regulation before the contravention time as a result of—
+
+- (a) severe weather conditions;
+- (b) industrial action by the employees of the relevant operator;
+- (c) the act or default of a person other than an officer, employee or agent of the relevant operator, or of a person acting on behalf of an agent thereof;
+- (d) the inability of the relevant operator to obtain any necessary access to any premises (which may include its own premises);
+- (e) the existence of circumstances by reason of which the relevant operator could reasonably expect that if it took the action it would or would be likely to be in breach of an enactment (including any directions given by the Secretary of State under section 96 of the Act[^f00017]);
+- (f) the effects of an event for which emergency regulations have been made under Part 2 of the Civil Contingencies Act 2004[^f00018]; or
+- (g) other circumstances of an exceptional nature beyond the control of the relevant operator,
+
+and the relevant operator had in each case taken all such steps as it was reasonable to take both to prevent the circumstances from occurring and to prevent them from having that effect.
+
+(7) The relevant operator reasonably considers that the information given by the customer is frivolous or vexatious.
+
+(8) The customer has—
+
+- (a) committed an offence under paragraph 6 of Schedule 6[^f00019] or paragraph 11 of Schedule 7 to the Act; or
+- (b) failed to pay any charges due to the relevant operator after receiving a notice under paragraph 2(2) of Schedule 6[^f00020] to the Act,
+
+and the action taken or not taken by the relevant operator was in exercise of its powers under that paragraph.
+
+(9) In this regulation, “contravention time” means—
+
+- (a) in relation to regulation 12, the time at which the supply was interrupted; and
+- (b) in relation to any other regulation, the time at which, if this regulation did not apply, the relevant operator would become liable to pay the prescribed sum to the customer.
+
+### 21. Timing of notification[^key-40de00def0b32ae1d3f20dca606fa3d6]
+
+For the purpose of regulation 13[^key-8f84a0141e4d50c0796ba06632d894cd], where the requirements of paragraph (1) of any of those regulations are satisfied after 4pm on a working day or at any time on any other day, they are deemed to have been satisfied on the next following working day.
+
+### 21A. Indexation of prescribed caps and prescribed sums[^key-7aee6042b713f0d3e29a77267f0592b0]
+
+(1) The prescribed sums for each financial year beginning with 1 April 2024 are calculated by—
+
+- (a) adjusting the sums specified in columns 3 and 4 of Part 1 of Schedule 2 by the percentage increase or decrease in the CPIH index published for the month of January preceding the financial year for which the adjustment is made in comparison to the CPIH index published for the month of January 2023; and
+- (b) rounding the resulting figure to the nearest £5.
+
+(2) In the calculation of prescribed caps for each financial year beginning with 1 April 2024, the sums in column 2 of Part 1A of Schedule 2 are adjusted by—
+
+- (a) the percentage increase or decrease in the CPIH index published for the month of January preceding the financial year for which the adjustment is made in comparison to the CPIH index published for the month of January 2023; and
+- (b) rounding the resulting figure to the nearest £5.
+
+(3) In this regulation, “**CPIH index**” means the consumer prices index including owner occupiers’ housing costs (all items) published by the Office for National Statistics.
+
+### 22. Notice of rights[^key-9eeb5005d4bc617f38e8994bbdcfb6df]
+
+(1) In respect of the rights prescribed for the benefit of customers under regulations 5, 6, 7, 8, 9, 10, 11, 12, 13 and 17 to 21, an electricity distributor must prepare and from time to time revise a statement describing those rights and the effect of section 39A(5) of the Act[^f00021] in a form that is standardised with that of other electricity distributors and has a content that the electricity distributor could reasonably expect would be within the understanding of customers to which the statement relates and must—
+
+- (a) give a copy of the statement, and of any revision of the statement, to the Authority and to the consumer advocacy bodies, before it sends it to the electricity suppliers referred to in sub-paragraph (b);
+- (b) at least once in any period of 12 months dispatch to each electricity supplier that supplies electricity to premises that are directly connected to the electricity distributor’s distribution system for onward transmission to the electricity supplier’s customers a copy of the statement (in the form current at the time that it is provided);
+- (c) make a copy of the statement (in its current form) available on its website and for inspection by any person at any premises of or occupied by the electricity distributor open to the public in the normal course of the electricity distributor’s business during the normal opening hours of the premises; and
+- (d) dispatch a copy of the statement (in its current form) to any person who requests it.
+
+(2)[^key-c21c19db57d160fe68bf5d1bbfd51786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A relevant operator may prepare a separate statement for domestic and non-domestic customers.
+
+(4)[^key-ce8d4ac02339cc97afa2be5201b7c10e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-2fc360e62ad0f3bca8e464f54a039eb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 7 — Overall Standards of Performance
+
+### 23. Information to be given to customers about overall performance[^key-22e4c84408428d9b2fd3adada3c29352]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+The seal of the Gas and Electricity Markets Authority here affixed is authenticated by the signature of
+
+Dermot Nolan
+
+A member of the Authority
+
+12th March 2015
+
+I consent
+
+Matthew Hancock
+
+Minister of State
+
+Department of Energy and Climate Change
+
+13th March 2015
+
+## SCHEDULE 1 — REVOCATIONS[^key-9bfe5444a6e1a1ae3eee383053797bda]
+
+Regulation 2
+
+| *(1)*<br>*Regulations revoked* | *(2)*<br>*References* | *(3)*<br>*Extent of revocation* |
+| --- | --- | --- |
+| The Electricity (Standards of Performance) Regulations 2010 | [S.I. 2010/698](https://www.legislation.gov.uk/uksi/2010/698) | The whole of the Regulations, subject to regulation 1 of these Regulations. |
+| The Electricity (Standards of Performance) (Amendment) Regulations 2010 | [S.I. 2010/2131](https://www.legislation.gov.uk/uksi/2010/2131) | The whole of the Regulations. |
+| The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 | [S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631) | Schedule 1, paragraph 25. |
+
+## SCHEDULE 2 — Data for the Purpose of Calculating Payments
+
+Regulations 3 and 4
+
+### PART 1 — Prescribed Periods and Prescribed Sums Applicable to all Relevant Operators[^key-034dc9ded4501f1bbae1abaf306ff448]
+
+| *(1)*<br>*Regulation* | *(2)*<br>*Prescribed period* | *(3)*<br>*Prescribed sum domestic customers(£)* | *(4)*<br>*Prescribed sum*<br>*non-domestic customers(£)* |
+| --- | --- | --- | --- |
+| 5(2)(a)[^key-280227882f69ad7f0fe08290c6756599] | 12 hours | 90 | 175 |
+| 5(2)(b) | 12 hours | 40 | 40 |
+| 6(2)(a) | 24 hours | 90 | 175 |
+| 6(2)(b) | 12 hours | 40 | 40 |
+| 7(4)(a) | 24 hours | 80 | 80 |
+| 7(4)(b) | 6 hours | 40 | 40 |
+| 7(5)(a) | 48 hours | 80 | 80 |
+| 7(5)(b) | 6 hours | 40 | 40 |
+| 8(2) | 24 hours | 90 | 175 |
+| 10(4) | a relevant year | 90 | 90 |
+| 11(3) | three hours on a working day, four hours on any other day | 35 | 35 |
+| 12(4) | 2 days | 35 | 70 |
+| 12(5) | 5 days | 35 | 70 |
+| 12(6) | 2 days | 35 | 70 |
+| 13(2) | 7 working days | 35 | 35 |
+| 13(4)(a) | not applicable | 35 | 35 |
+| 13(4)(b) | 5 working days | 35 | 35 |
+| 17(3)(b) | not applicable | 35 | 35 |
+| 17(4)(b) | not applicable | 35 | 35 |
+| 19(4) | 10 working days | 35 | 35 |
+| 19(5) | 10 working days | 35 | 35 |
+
+### Part 1A — Prescribed caps applicable to all electricity distributors[^key-15a71ba308066e67c9756a64b13e6ac8]
+
+| *(1)*<br>*Regulation* | *(2)*<br>*Sum* | *(3)*<br>*Multiplier* | *(4)*<br>*Prescribed Cap* |
+| --- | --- | --- | --- |
+| 6(2)(b) | 90 | 4 | £360 |
+| 7(4)(b) | 80 | 25 | £2000 |
+| 7(5)(b) | 80 | 25 | £2000 |
+
+### PART 2[^key-5f3e740db7430aaef2f27a3ba9b5fc2b]
+
+7.00 am and 7.00 pm on each working day and 9.00 am and 5.00 pm on any other day.
+
+### PART 3[^key-317d510da12d82800e844350361228f5]
+
+This table sets out, for each designated electricity distributor, eight and thirteen times the mean daily faults at distribution higher voltage[^key-450f5eb7467180a2306cfa938f5e8346]....
+
+| *(1)*<br>*Designated electricity distributor* | *(2)*<br>*Eight times the mean daily faults at distribution higher voltage* | *(3)*<br>*Thirteen times the mean daily faults at distribution*<br>*higher voltage* |
+| --- | --- | --- |
+| ENWL[^key-cfc7d09af31c1419d416d4e8d3588979] | 55 | 89 |
+| NPGN | 37 | 60 |
+| NPGY | 42 | 68 |
+| WMID | 68 | 111 |
+| EMID | 54 | 88 |
+| SWALES | 43 | 70 |
+| SWEST | 71 | 115 |
+| LPN | 17 | 28 |
+| SPN | 66 | 107 |
+| EPN | 94 | 152 |
+| SPD | 72 | 116 |
+| SPMW | 66 | 108 |
+| SSEH | 67 | 109 |
+| SSES | 78 | 127 |
+
+## SCHEDULE 3 — Standards of Performance – Practice and Procedure for Determinations
+
+Regulation 18
+
+### Determination of disputes
+
+**1.**[^key-e02263cd12b8ea98927b33575be84d3b] (1) This Schedule applies where a dispute to which regulation 18 applies has arisen under any provision of these Regulations between a relevant operator and a customer or between relevant operators.
+
+(2) A dispute to which this Schedule applies—
+
+- (a) may be referred to the Authority by any party or, with the agreement of any party, by a consumer advocacy body; and
+- (b) on such reference, must be determined by order made by the Authority.
+
+(3) In making an order under this Schedule, the Authority must include in the order the reasons for reaching its decision with respect to a dispute.
+
+### Timetable for the determination of individual disputes
+
+**2.**[^key-f8fe2379dfac35ecfe07ea79209a3588] (1) The Authority must determine a dispute to which this Schedule applies before the end of eighty working days from the date when the dispute was referred to the Authority.
+
+(2) If the Authority is satisfied that there are good reasons for departing from the requirements of sub-paragraph (1), the period in which a dispute may be determined may be extended with the consent of the referring party or parties.
+
+### Procedure for the determination of individual disputes
+
+**3.**[^key-6f3e76457d3f5a649f60d61fc3ef796c] (1) Where an individual dispute is referred to the Authority, the Authority must, at the outset, send to the parties a notice of procedure for the determination of individual disputes.
+
+(2) The notice under sub-paragraph (1) must—
+
+- (a) set out a timetable by which each part of the procedure for the determination of individual disputes under this Schedule is to take place; and
+- (b) provide a list of any documentation or other evidence that the Authority has received in connection with the dispute and inform the parties that such documentation or other evidence may be disclosed to other parties to the dispute unless it is specifically classed as confidential by the party to whom it belongs before the date expressly stated in the notice;
+- (c) inform the parties of any specific information that the Authority is requesting as part of the written statement prepared in accordance with paragraph 7; and
+- (d) explain the manner in which the Authority intends to publish the determination decision.
+
+(3) Upon receipt of a notice under sub-paragraph (1), the parties to the dispute must provide the Authority with—
+
+- (a) the information specified in sub-paragraph (2)(c);
+- (b) any other information that they consider relevant to the dispute.
+
+(4) If the Authority decides it is necessary to obtain third-party advice in relation to technical issues or any other issues that may arise during the determination, it must request it and inform the parties to the dispute of that request and indicate in writing how that request will affect the timetable outlined in the notice issued under sub-paragraph (1).
+
+(5) At any time after receiving a written statement the Authority may, if it considers it appropriate to do so, request an oral hearing in accordance with paragraph 9.
+
+(6) If the Authority is satisfied that it has sufficient information to determine a dispute, it must prepare a draft determination statement containing the submissions of the parties and then send that statement to the parties for comment.
+
+(7) When the Authority has received comments from the parties, and is satisfied that it has sufficient information to make the determination decision, it must prepare and then issue to the parties a final determination statement.
+
+(8) The parties must, within one week of receiving a final determination statement, notify the Authority of any issue or information within that statement that should be excluded because such issue or information is of a confidential nature.
+
+(9) The Authority must, upon receipt of any notification under sub-paragraph (8), make the necessary adjustments to the final determination statement and then publish that statement on its website in accordance with sub-paragraph (2)(d).
+
+### Determination of multiple disputes
+
+**4.**[^key-5d178123c70910fb80c4b5a805259810] (1) The Authority may, if it considers it appropriate to do so, consolidate into one or more categories (in each case a ‘consolidated group’) similar or related disputes for the purposes of determining those disputes.
+
+(2) A determination made by the Authority for one or more consolidated groups applies, in respect of each consolidated group, to each individual dispute in that group.
+
+### Timetable for determination of multiple disputes
+
+**5.**[^key-547c034528123506093615fd281fe33e] (1) The Authority, when determining disputes falling within a consolidated group, must determine those disputes before the end of six months from the date when they were consolidated into that group by the Authority under paragraph 4.
+
+(2) If the Authority is satisfied that there are good reasons for departing from the requirements of sub-paragraph (1), the period in which disputes falling within a consolidated group may be determined may be extended by notice to the representatives of any such group nominated under paragraph 10.
+
+### Procedure for the determination of multiple disputes
+
+**6.**[^key-8b49ce811f1693d3334011e901ab5598] (1) Where the Authority considers it appropriate to consolidate disputes under paragraph 4, the Authority must send to the parties a notice of procedure for the determination of those disputes.
+
+(2) The notices under sub-paragraph (1) must—
+
+- (a) set out a timetable by which each part of the procedure for the determination of multiple disputes under this Schedule is to take place;
+- (b) provide a list of any documentation or other evidence that the Authority has received in connection with the dispute and inform the parties that such documentation or other evidence may be disclosed to other parties to the dispute unless it is specifically classed as confidential by the party to whom it belongs before the date expressly stated in the notice;
+- (c) inform the parties of any specific information that the Authority is requesting in accordance with paragraph 11; and
+- (d) explain the manner in which the Authority intends to publish the determination decision.
+
+(3) Upon receipt of a notice under sub-paragraph (1), the parties to the dispute must provide the Authority with—
+
+- (a) the information specified in sub-paragraph (2)(c); and
+- (b) any other information that they consider relevant to the dispute.
+
+(4) Upon receipt of the information provided in accordance with sub-paragraph (3), the Authority may, if it considers it fitting to do so, prepare a list of consolidated groups and then consult as to whether those consolidated groups are appropriate.
+
+(5) When consulting under sub-paragraph (4), the Authority must—
+
+- (a) publish and explain its proposals in a manner which it believes will bring them to the attention of persons most likely to be affected; and
+- (b) invite those persons to comment to the Authority within a period from the publication of the proposals that is specified therein.
+
+(6) Upon receipt of responses to the consultation under sub-paragraph (5), the Authority must have regard to those responses before finalising the consolidated groups.
+
+(7) When the Authority has decided on the consolidated groups for the purpose of determining multiple disputes, it must appoint customer representatives as required by paragraph 10.
+
+(8) Following the appointment of the customer representatives for the consolidated groups, those customer representatives and the relevant operators must prepare a written statement.
+
+(9) Upon receipt of the written statements, the Authority may decide that it is necessary to obtain third-party advice in relation to technical issues or any other issues that may arise during the determination. If third-party advice is requested, then the Authority must inform the customer representatives and the relevant operators of that request and indicate in writing how that request affects the timetable outlined in the notice issued under sub-paragraph (1).
+
+(10) At any time after receiving the written statement the Authority may request an oral hearing in accordance with paragraph 9.
+
+(11) If the Authority is satisfied that it has the necessary information, it must prepare a draft determination statement containing the submissions of the customer representatives and the relevant operators and then send that statement to the customer representatives and the relevant operators for comment.
+
+(12) When the Authority has received comments from the customer representatives and the relevant operators, and is satisfied that it has sufficient information to make the determination decision, it must issue a final determination statement for a consolidated group or each consolidated group where there is more than one.
+
+(13) The customer representatives and the relevant operators must within one week of receiving a final determination statement notify the Authority of any issue or information within that statement that should be excluded because such issue or information is of a confidential nature.
+
+(14) The Authority must, upon receipt of any notification under sub-paragraph (13), make the necessary adjustments to the final determination statement and then publish that statement on its website in accordance with what it has set out under sub-paragraph (2)(d).
+
+### Written statements
+
+**7.**[^key-fd58db94675efbb1a0247e918203e686] (1) The Authority may, by notice, ask any party to a dispute to produce a written statement with respect to a matter specified in the notice.
+
+(2) The power to ask for the production of a written statement includes power to specify the time and place at which it is to be produced.
+
+(3) No person is to be compelled under this paragraph to produce a written statement with respect to any matter about which they could not be compelled to give evidence in civil proceedings in the High Court or Court of Session.
+
+(4) The Authority may make copies of a document produced to it under this paragraph.
+
+### Production of documents and other evidence
+
+**8.**[^key-323794065d5b9b187d87f2fb078a8490] (1) The Authority may, by notice, ask a party to a dispute to produce such documentation (including other evidence), in such form and at such time as it directs, as the Authority may reasonably require to enable it to make the determination decision.
+
+(2) The power to ask for the production of a document is a power to ask for its production—
+
+- (a) at the time and place specified in the notice; and
+- (b) in a legible form.
+
+(3) No person is to be compelled under this paragraph to produce a document that they could not be compelled to produce in civil proceedings in the High Court or Court of Session.
+
+(4) The Authority may make copies of a document produced to it under this paragraph.
+
+### Oral hearings
+
+**9.**[^key-0f5ab9bebe185540651ca681a4a473fc] (1) For the purposes of this Schedule, an oral hearing may be held, and evidence may be heard at such a hearing from any party to a dispute.
+
+(2) The Authority may, by notice, request any party to a dispute—
+
+- (a) to attend at a time and place specified in the notice; and
+- (b) at that time and place, to give evidence to any person appointed by the Authority to conduct the oral hearing.
+
+(3) At any oral hearing, the Authority may request the customer or a person attending the hearing as a representative of the relevant operator to give evidence or make representations or observations.
+
+(4) If any party fails to attend a hearing to be subjected to a requirement under sub-paragraph (3), the Authority may determine the dispute without hearing their evidence, representations, or observations.
+
+(5) No person is to be compelled under this paragraph to give evidence which they could not be compelled to give in civil proceedings in the High Court or Court of Session.
+
+### Customer representatives for multiple disputes
+
+**10.**[^key-61dc46883db4bffb269ae85441561cfa] (1) Where disputes are consolidated into categories under paragraph 4, the Authority must nominate one or more customers to be representatives of each consolidated group.
+
+(2) A customer nominated to be a representative of a consolidated group under this paragraph may only become a representative if he consents to do so.
+
+### Collection of information in multiple disputes
+
+**11.**[^key-efde1fe6a7ef2acfd8464509baf6fc62] (1) The Authority may by notice ask any customer who is a party to a dispute falling within a consolidated group to produce such information with respect to a matter specified in the notice as the Authority may reasonably require to enable it to make the determination decision.
+
+(2) The power to require the production of information under this paragraph includes the power to specify the time and place at which it is to be produced.
+
+(3) No person is to be compelled under this paragraph to produce information with respect to any matter about which they could not be compelled to give evidence in civil proceedings in the High Court or Court of Session.
+
+### Payment to customers
+
+**12.**[^key-e4061738d5b504f6cd419677f837a881] An order determining a dispute does not (where there is more than one customer at the premises) determine who is beneficially entitled to any payment required to be made by the order.
+
+### Set–off
+
+**13.**[^key-9d8ee1e2bdba706028e6e27c2c6a041b] Where a dispute is determined by an order requiring a relevant operator to make a payment to the customer and the relevant operator fails to make that payment, the customer may set off the amount so ordered to be paid against any charges that are owed by the customer to the relevant operator.
+
+### Costs
+
+**14.**[^key-8a1f4e9b5e2bf5e621dbd22b750ed02a] (1) An order determining a dispute may include a provision requiring the relevant operator or the customer to pay a sum in respect of the costs or expenses incurred by the Authority.
+
+(2) In including in an order under sub-paragraph (1) any such provision as to costs, the Authority must have regard to the conduct and means of the parties and any other relevant circumstances.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+These Regulations revoke and re-enact the provisions of the Electricity (Standards of Performance) Regulations 2010 with modifications introducing a number of changes in the standards of performance arrangements. These changes were consulted on by the Office of Gas and Electricity Markets as part of the electricity distribution price control review completed in November 2014.
+
+The Regulations prescribe the sums that electricity suppliers and distributors must pay to a customer by way of compensation for failure to meet specified standards of performance in respect of the services to be provided by such suppliers or distributors, subject to certain exemptions. The sum payable may differ between domestic and non-domestic customers, between standards and between suppliers and distributors.
+
+The standards of performance applying to electricity distributors provide prescribed timeframes for supply restoration to premises in normal and severe weather conditions, supply restoration in the case of multiple interruptions and in cases where supply is interrupted due to operation of the distributor’s fuse. The standards also require estimates for connection and prior notice of planned supply interruptions to be provided within a prescribed timeframe and cover complaints relating to voltage levels.
+
+There are specific standards for electricity suppliers relating to a notification for a change in method of payment or query as to an account by a customer, and in respect of notifications to a supplier that a meter may be operating outside the margins of error or where a pre-payment meter is not operating so as to permit a supply to be given.
+
+There are common standards for both electricity distributors and suppliers in respect of making and keeping appointments, making payments to customers required under these Regulations, and preparing and making available a statement describing customer’s rights under these Regulations.
+
+The main changes in the new Regulations are:
+
+- reducing the normal weather standard contravention period from 18 hours to 12 hours;
+- aligning the regulatory treatment of “one-off” exception events by removing certain exemptions in recognition of how such events are treated under the interruptions;
+- automating payments to Priority Services Register Customers who have experienced a qualifying interruption in respect of regulations 5, 6, 7, and 8,where no exemptions under those regulations apply;
+- updating the compensation levels attached to the standards to take account of inflation; and
+- updating the thresholds for normal and severe weather conditions.
+
+The Electricity (Standards of Performance) Regulations 2010 are revoked (regulation 2 and Schedule 1) subject to the transitional provision in regulation 1 of these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: The Gas and Electricity Markets Authority was established by section 1(1) of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^f00002]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29): section 39 was amended by section 54(1) of, paragraphs 24 and 32 of Schedule 6 to, and Schedule 8 to the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27); section 39A was inserted by section 54(2) of the Utilities Act 2000; section 39B was inserted by section 54(2) of the Utilities Act 2000 and amended by paragraph 52(1) and (2) of Schedule 9 to the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22) and by paragraph 5 of Schedule 1 to the Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 ([S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631)); section 42A was inserted by section 21 of the Competition and Service (Utilities) Act [1992 (c.43)](https://www.legislation.gov.uk/ukpga/1992/43) and substituted by section 58 of the Utilities Act 2000; and sections 39 and 60 were modified by section 3(2) of the Utilities Act 2000.
+
+[^f00003]: Footnote: Section 40B was inserted by section 56 of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27) and amended by paragraph 5 of Schedule 1 to the Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order ([S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631)).
+
+[^key-7431a17a0493a799dcabbe809cec8d07]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^f00004]: Footnote: [S.I. 2010/698](https://www.legislation.gov.uk/uksi/2010/698), amended by [S.I. 2010/2131](https://www.legislation.gov.uk/uksi/2010/2131), [2014/631](https://www.legislation.gov.uk/uksi/2014/631).
+
+[^key-a6db7392793158306eddad3cf6e8be26]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-74d08ea82ddaf3e005eb87fcd50170ed]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^f00005]: Footnote: [2000 c.27](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^key-115e5853c7bdb00ed91357b0865d94c8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/3/1) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(1)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/1/a)
+
+[^key-a0030b4913b02b1ecf14a9b0bc0dffee]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/3/1) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(a)(i)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/a/i) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+
+[^key-2dfadedde5b0a151fa99224d60ffddcb]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/3/1) inserted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(1)(b)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/1/b)
+
+[^M_F_08b9e6e5-d81a-4940-fb0f-f8ca47129fd1]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/3/1) inserted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(1)(c)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/1/b)
+
+[^key-136b5c8d007b34e48d6442facb69d5e7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/3/1) substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(a)(ii)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/a/ii) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+
+[^f00006]: Footnote: [2000 c.27](https://www.legislation.gov.uk/ukpga/2000/27); section 33(1) was amended by paragraph 20 of Schedule 19 to, and Part 1 of Schedule 23 to the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20), section 7(7) of the Climate Change and Sustainable Energy Act [2006 (c.19)](https://www.legislation.gov.uk/ukpga/2006/19), paragraph 13 of Schedule 5 to the Energy Act [2008 (c.32)](https://www.legislation.gov.uk/ukpga/2008/32), paragraph 12 of the Schedule to the Energy Act [2010 (c.27)](https://www.legislation.gov.uk/ukpga/2010/27), sections 22(7), 77(5) and 98(9) of the Energy Act [2011 (c.16)](https://www.legislation.gov.uk/ukpga/2011/16), sections 65(2) and 142(2) of the Energy Act [2013 (c.32)](https://www.legislation.gov.uk/ukpga/2013/32), [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704)
+
+[^f00007]: Footnote: [2004 c.20](https://www.legislation.gov.uk/ukpga/2004/20).
+
+[^f00008]: Footnote: Paragraph 1(1A) was inserted by paragraph 3(2) of Schedule 5 to the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27)
+
+[^key-8ad55f29e927caa9a121fef7985beb6b]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-d04c97158982d32b6b2b2075b46479b4]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/4/1) substituted (1.11.2024) by [The Electricity (Standards of Performance) (Amendment) Regulations 2024 (S.I. 2024/984)](https://www.legislation.gov.uk/uksi/2024/984), [regs. 1](https://www.legislation.gov.uk/uksi/2024/984/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/984/regulation/2/2/a)
+
+[^key-bb62776c369231af2c4f208e1cebe142]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/4/1) substituted (1.11.2024) by [The Electricity (Standards of Performance) (Amendment) Regulations 2024 (S.I. 2024/984)](https://www.legislation.gov.uk/uksi/2024/984), [regs. 1](https://www.legislation.gov.uk/uksi/2024/984/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/984/regulation/2/2/b)
+
+[^key-65b45db9c528e4bc9eb72483198e3325]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2015/699/regulation/4) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/2/a)
+
+[^key-c5904bf37b94d583d2f4c246de08c5bb]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/699/regulation/4/2) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/2/b)
+
+[^key-553917a50bfaf6a21545b184c1357478]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-71f0c074db6d601426ac95c29ed235cd]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/2015/699/regulation/5/3/b) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/3)
+
+[^key-728f9ce456416be967bee537ac2bc5a3]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-924bc6ecaeaddc67c404c290b9fc95b1]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2015/699/regulation/6/2) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/4)
+
+[^key-8dd4c948b517c6f6750862018b674f5c]: Textual amendment: Words in [reg. 6(3)(b)](https://www.legislation.gov.uk/uksi/2015/699/regulation/6/3/b) substituted (1.11.2024) by [The Electricity (Standards of Performance) (Amendment) Regulations 2024 (S.I. 2024/984)](https://www.legislation.gov.uk/uksi/2024/984), [regs. 1](https://www.legislation.gov.uk/uksi/2024/984/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/984/regulation/2/3)
+
+[^key-46bdd7a0e535e553bc9779fe391eedc2]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-7cafc9ba60a882b6ba8e620691aad0e2]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/3) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/5/a)
+
+[^key-779f1581b3ac5e0e753036c690720969]: Textual amendment: Word in [reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/4/b) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/5/b/i)
+
+[^key-1c6e583f8653fbbd5bef597f7c89cdc8]: Textual amendment: Words in [reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/4/b) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/5/b/ii)
+
+[^key-c24120df4114b69f580e52c4c61106d6]: Textual amendment: Word in [reg. 7(5)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/5) substituted (1.11.2024) by [The Electricity (Standards of Performance) (Amendment) Regulations 2024 (S.I. 2024/984)](https://www.legislation.gov.uk/uksi/2024/984), [regs. 1](https://www.legislation.gov.uk/uksi/2024/984/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/984/regulation/2/4/a)
+
+[^key-8cef49210d4ae40cbb1a8af7b6cbdac2]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/5) substituted (1.11.2024) by [The Electricity (Standards of Performance) (Amendment) Regulations 2024 (S.I. 2024/984)](https://www.legislation.gov.uk/uksi/2024/984), [regs. 1](https://www.legislation.gov.uk/uksi/2024/984/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/984/regulation/2/4/b)
+
+[^key-d67082193750b83fe591412f1289da48]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/6) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/5/a)
+
+[^key-b714777911845b415a664f6feb1e5922]: Textual amendment: [Reg. 7(7)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/7) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/5/a)
+
+[^key-8f2b5f962c19396defc2fd9aa1059f75]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-5086565a061deea88c861b8ee68cb59c]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-787b94ea66414426ad395314bbe2ff4f]: Textual amendment: Words in [reg. 9(4)(a)](https://www.legislation.gov.uk/uksi/2015/699/regulation/9/4/a) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(6)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/6/a)
+
+[^key-97bd3d845e5f3feb0e900af75eccaa4c]: Textual amendment: Words in [reg. 9(4)(b)](https://www.legislation.gov.uk/uksi/2015/699/regulation/9/4/b) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(6)(b)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/6/b)
+
+[^f00009]: Footnote: [2004 c.36](https://www.legislation.gov.uk/ukpga/2004/36).
+
+[^f00010]: Footnote: Section 96 was amended by [S.I. 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400).
+
+[^f00011]: Footnote: Schedule 6 was substituted by section 51(2) of, and Schedule 4 to, the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^key-aacf96a1793f855d84c74173a3d53203]: Textual amendment: Words in [reg. 9(12)(c)](https://www.legislation.gov.uk/uksi/2015/699/regulation/9/12/c) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(6)(c)(i)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/6/c/i)
+
+[^key-e56c011a73ec99b39fc2e07b82b27a18]: Textual amendment: Words in [reg. 9(12)(c)](https://www.legislation.gov.uk/uksi/2015/699/regulation/9/12/c) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/6/c/ii)
+
+[^key-48f28306780aeb126183373daf400b0b]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-b2c53479687ac4a070f5e7fc0b4d581c]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-63cf182aa8cc5e1d0d4f870ad79b0b0e]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-cab0fb73e8a1b7a9a92037cabb60dfef]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^f00012]: Footnote: Section 29 was amended by paragraph 30 of Schedule 6 to the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27) and sections 94(1) and 147(3) of, and paragraph 10 of Schedule 19 to, the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20).
+
+[^key-181587b3a4278e80151e8c19d1b55d63]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/699/regulation/14) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+
+[^key-c9f6c40155319b139769722a7dfd6c73]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/699/regulation/15) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+
+[^key-90407df71a3fb5fd19d51408b5614c76]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/699/regulation/16) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+
+[^key-9ccf098271e365c27d2525c3faf038d8]: Commencement: Reg. 16 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-922c5f5bd6f0eb9bcc3f177a0214257b]: Commencement: Reg. 17 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^f00013]: Footnote: [S.I. 2015/698](https://www.legislation.gov.uk/uksi/2015/698)
+
+[^key-b68fbe8f196cdab2b3b9b2adc6da4fd4]: Textual amendment: [Reg. 17(3)(a)](https://www.legislation.gov.uk/uksi/2015/699/regulation/17/3/a) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+
+[^key-7a7e0458d5f8420bc2afbae87ec8a4d5]: Textual amendment: [Reg. 17(4)(a)](https://www.legislation.gov.uk/uksi/2015/699/regulation/17/4/a) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+
+[^key-4f5624347fcc92a3b7c3ca8c6ee008ac]: Textual amendment: Words in [reg. 17(6)(b)](https://www.legislation.gov.uk/uksi/2015/699/regulation/17/6/b) substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+
+[^f00014]: Footnote: Schedule 6 was substituted by section 51(2) of, and Schedule 4 to, the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27); paragraph 2 was amended by section 24 of the Energy Act [2011 (c.16)](https://www.legislation.gov.uk/ukpga/2011/16).
+
+[^key-db8a363d3419a2793404add6f2c82e60]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^f00015]: Footnote: Section 39 was amended by section 54(1) of, and paragraphs 24 and 32 of Schedule 6 to, and Schedule 8 to, the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27); section 39A was inserted by section 54(2) of the Utilities Act 2000.
+
+[^f00016]: Footnote: Section 39B was inserted by section 54(2) of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27) and amended by paragraph 52 of Schedule 9 to the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22) and [S.I. 2014/636](https://www.legislation.gov.uk/uksi/2014/636).
+
+[^key-c565efb33f0e589d0a4d06ade3ca3606]: Commencement: Reg. 19 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-c024286098bbefacdf6bdcfc85d7988e]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/uksi/2015/699/regulation/19/3) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+
+[^key-dcc6a8bc6c862f4a515f2012c2f7b898]: Textual amendment: [Reg. 19(6)](https://www.legislation.gov.uk/uksi/2015/699/regulation/19/6) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+
+[^key-b0d5f1e977f8b4e969ecdf86681f3491]: Textual amendment: Word in [reg. 19(8)(c)(i)](https://www.legislation.gov.uk/uksi/2015/699/regulation/19/8/c/i) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(7)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/7/a)
+
+[^key-d7ef878a660a37e8a94c27e25329170b]: Textual amendment: Words in [reg. 19(8)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/699/regulation/19/8/c/ii) inserted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(7)(b)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/7/b)
+
+[^key-c58cb30f641f258488869b92eaefe324]: Textual amendment: [Reg. 19(8)(c)(iii)](https://www.legislation.gov.uk/uksi/2015/699/regulation/19/8/c/iii) inserted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(7)(c)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/7/c)
+
+[^key-ea6d08a3de74edee7d856328dfa17c4d]: Commencement: Reg. 20 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-5d69881a900571b722aad9154be3eab4]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2015/699/regulation/20/4) substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(d)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/d) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+
+[^f00017]: Footnote: Section 96 was amended by [S.I. 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400).
+
+[^f00018]: Footnote: [2004 c.36](https://www.legislation.gov.uk/ukpga/2004/36).
+
+[^f00019]: Footnote: Schedule 6 was substituted by section 51(2) of, and Schedule 4 to, the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^f00020]: Footnote: Schedule 6 was substituted by section 51(2) of, and Schedule 4 to, the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27); paragraph 2 was amended by section 24 of the Energy Act [2011 (c.16)](https://www.legislation.gov.uk/ukpga/2011/16).
+
+[^key-40de00def0b32ae1d3f20dca606fa3d6]: Commencement: Reg. 21 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-8f84a0141e4d50c0796ba06632d894cd]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2015/699/regulation/21) substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(e)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/e) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+
+[^key-7aee6042b713f0d3e29a77267f0592b0]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2015/699/regulation/21A) inserted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(8)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/8)
+
+[^key-9eeb5005d4bc617f38e8994bbdcfb6df]: Commencement: Reg. 22 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^f00021]: Footnote: Section 39A was inserted by section 54(2) of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^key-c21c19db57d160fe68bf5d1bbfd51786]: Textual amendment: [Reg. 22(2)](https://www.legislation.gov.uk/uksi/2015/699/regulation/22/2) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+
+[^key-ce8d4ac02339cc97afa2be5201b7c10e]: Textual amendment: [Reg. 22(4)](https://www.legislation.gov.uk/uksi/2015/699/regulation/22/4) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+
+[^key-2fc360e62ad0f3bca8e464f54a039eb0]: Textual amendment: [Reg. 22(5)](https://www.legislation.gov.uk/uksi/2015/699/regulation/22/5) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+
+[^key-22e4c84408428d9b2fd3adada3c29352]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2015/699/regulation/23) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+
+[^key-9bfe5444a6e1a1ae3eee383053797bda]: Commencement: Sch. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-034dc9ded4501f1bbae1abaf306ff448]: Commencement: Sch. 2 Pt. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-280227882f69ad7f0fe08290c6756599]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/699/schedule/2/part/1) Table substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(9)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/9)
+
+[^key-15a71ba308066e67c9756a64b13e6ac8]: Textual amendment: [Sch. 2 Pt. 1A](https://www.legislation.gov.uk/uksi/2015/699/schedule/2/part/1A) inserted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(10)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/10)
+
+[^key-5f3e740db7430aaef2f27a3ba9b5fc2b]: Commencement: Sch. 2 Pt. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-317d510da12d82800e844350361228f5]: Commencement: Sch. 2 Pt. 3 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-450f5eb7467180a2306cfa938f5e8346]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2015/699/schedule/2/part/3) Table omitted (1.11.2024) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2024 (S.I. 2024/984)](https://www.legislation.gov.uk/uksi/2024/984), [regs. 1](https://www.legislation.gov.uk/uksi/2024/984/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/984/regulation/2/5)
+
+[^key-cfc7d09af31c1419d416d4e8d3588979]: Textual amendment: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2015/699/schedule/2/part/3) Table substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(11)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/11)
+
+[^key-e02263cd12b8ea98927b33575be84d3b]: Commencement: Sch. 3 para. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-f8fe2379dfac35ecfe07ea79209a3588]: Commencement: Sch. 3 para. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-6f3e76457d3f5a649f60d61fc3ef796c]: Commencement: Sch. 3 para. 3 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-5d178123c70910fb80c4b5a805259810]: Commencement: Sch. 3 para. 4 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-547c034528123506093615fd281fe33e]: Commencement: Sch. 3 para. 5 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-8b49ce811f1693d3334011e901ab5598]: Commencement: Sch. 3 para. 6 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-fd58db94675efbb1a0247e918203e686]: Commencement: Sch. 3 para. 7 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-323794065d5b9b187d87f2fb078a8490]: Commencement: Sch. 3 para. 8 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-0f5ab9bebe185540651ca681a4a473fc]: Commencement: Sch. 3 para. 9 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-61dc46883db4bffb269ae85441561cfa]: Commencement: Sch. 3 para. 10 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-efde1fe6a7ef2acfd8464509baf6fc62]: Commencement: Sch. 3 para. 11 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-e4061738d5b504f6cd419677f837a881]: Commencement: Sch. 3 para. 12 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-9d8ee1e2bdba706028e6e27c2c6a041b]: Commencement: Sch. 3 para. 13 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+
+[^key-8a1f4e9b5e2bf5e621dbd22b750ed02a]: Commencement: Sch. 3 para. 14 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)

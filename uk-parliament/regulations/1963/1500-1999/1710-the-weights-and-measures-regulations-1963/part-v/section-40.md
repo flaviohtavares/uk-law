@@ -1,0 +1,20 @@
+---
+title: The Weights and Measures Regulations 1963, section 40
+act: The Weights and Measures Regulations 1963
+section: '40'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1963/1710/section/40
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Weights and Measures Regulations 1963, section 40
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+**40.** Avoirdupois weights of the flat-circular type shall—
+
+- (a) if made of iron, only be made in purported values from 4 pounds to 4 ounces inclusive;
+- (b) if not made of iron, only be made in purported values from 4 pounds to half a dram inclusive, and the weights in each set shall be of similar shape and proportional dimensions.

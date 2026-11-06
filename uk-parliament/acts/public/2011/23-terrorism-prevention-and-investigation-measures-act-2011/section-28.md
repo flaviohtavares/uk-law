@@ -1,0 +1,67 @@
+---
+title: Terrorism Prevention and Investigation Measures Act 2011, section 28
+act: Terrorism Prevention and Investigation Measures Act 2011
+section: '28'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2011/23/section/28
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Terrorism Prevention and Investigation Measures Act 2011, section 28
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/23
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 28. Notices
+
+*Extent: E+W+S+N.I.*
+
+(1) In a case where the Secretary of State serves a TPIM notice, a revival notice or an extension notice on an individual, the Secretary of State must, by a further notice, give the following information to the individual—
+
+- (a) the period for which the TPIM notice will be in force;
+- (b) the day on which the TPIM notice comes, or came, into force; and
+- (c) the day on which the TPIM notice will expire;
+
+and, in the case of a revival or extension notice, “**TPIM notice**” means the TPIM notice which is revived or extended by that notice.
+
+(2) An individual is not bound by—
+
+- (a) a TPIM notice,
+- (b) a revival notice, or
+- (c) a variation notice insofar as it gives notice of a variation that is neither a relaxation or removal of measures, nor a variation with the individual's consent,
+
+unless the notice is served personally on the individual.
+
+(3) An individual is not bound by an extension notice unless the notice is—
+
+- (a) served personally on the individual, and
+- (b) so served before the TPIM notice to which it relates would otherwise expire.
+
+(4) Any of the following notices must be served on the individual to whom the notice relates—
+
+- (a) a revocation notice;
+- (b) a variation notice insofar as subsection (2)(c) does not apply to it;
+- (c) a confirmation notice.
+
+(5) Any of the following notices may be proved by the production of a document purporting to be certified by the Secretary of State as a true copy of the notice—
+
+- (a) a TPIM notice;
+- (b) an extension notice;
+- (c) a revocation notice;
+- (d) a revival notice;
+- (e) a variation notice;
+- (f) a confirmation notice.
+
+(6) But that does not prevent the proof of such a notice in other ways.
+
+(7) In this section—
+
+- “**confirmation notice**” means a notice given under subsection (1);
+- “**extension notice**” means a notice under section 5(2);
+- “**revival notice**” has the same meaning as in section 13(6);
+- “**revocation notice**” has the same meaning as in section 13(1);
+- “**variation notice**” has the same meaning as in section 12(1).

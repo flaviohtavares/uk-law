@@ -1,0 +1,57 @@
+---
+title: Modern Slavery Act 2015, section 53
+act: Modern Slavery Act 2015
+section: '53'
+status: revised-with-pending-changes
+text_date: '2026-09-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2015/30/section/53
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Modern Slavery Act 2015, section 53
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/30
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 53. Overseas domestic workers
+
+*Extent: E+W+S+N.I.*
+
+(1) Immigration rules must make provision for leave to remain in the United Kingdom to be granted to an overseas domestic worker—
+
+- (a) who has been determined to be a victim of slavery or human trafficking, and
+- (b) in relation to whom such other requirements are met as may be provided for by the rules.
+
+(2) Immigration rules must make provision as to the conditions on which such leave is to be granted, and must in particular provide—
+
+- (a) that the leave is to be for the purpose of working as a domestic worker in a private household;
+- (b) for a person who has such leave to be able to change employer (subject to paragraph (a)).
+
+(3) Immigration rules may specify a maximum period for which a person may have leave to remain in the United Kingdom by virtue of subsection (1).
+
+If they do so, the specified maximum period must not be less than 6 months.
+
+(4) For the purposes of this section an overseas domestic worker has been determined to be a victim of slavery or human trafficking if a public authority has determined that he or she is such a victim—
+
+- (a) under regulations made under section 50(2)(b), or
+- (b) where no such regulations apply, under arrangements identified in the immigration rules.
+
+(5) The Secretary of State must issue guidance to persons having functions under the Immigration Acts about the exercise of those functions in relation to an overseas domestic worker who may be a victim of slavery or human trafficking.
+
+(6) The guidance must provide for a period during which no enforcement action should be taken against such an overseas domestic worker in respect of his or her—
+
+- (a) remaining in the United Kingdom beyond the time limited by his or her leave to enter or remain, or
+- (b) breaching a condition of that leave relating to his or her employment,
+
+if he or she did so because of the matters relied on as slavery or human trafficking.
+
+(7) In this section—
+
+- “**enforcement action**” has the meaning given by section 24A of the Immigration Act 1971;
+- “**immigration rules**” has the same meaning as in that Act;
+- “**overseas domestic worker**” means a person who, under the immigration rules, has (or last had) leave to enter or remain in the United Kingdom as—
+  - (a) a domestic worker in a private household, or
+  - (b) a private servant in a diplomatic household.

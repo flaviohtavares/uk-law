@@ -1,0 +1,19 @@
+---
+title: The Prisons and Young Offenders Institutions (Scotland) Rules 1994, section 48
+act: The Prisons and Young Offenders Institutions (Scotland) Rules 1994
+section: '48'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/1931/section/48
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Prisons and Young Offenders Institutions (Scotland) Rules 1994, section 48
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 48. Prisoners' correspondence
+
+Subject to rules 49 to 52, a prisoner may send and receive letters and packages by means of the postal service or otherwise.

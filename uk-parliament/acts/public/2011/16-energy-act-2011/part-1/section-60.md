@@ -1,0 +1,65 @@
+---
+title: Energy Act 2011, section 60
+act: Energy Act 2011
+section: '60'
+status: revised
+text_date: '2022-12-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/2011/16/section/60
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2011, section 60
+
+> Text as at 2022-12-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 60. Sanctions for the purposes of Scottish tenants' energy efficiency improvements regulations[^key-75609f745ecb3c7b2f74d1b480141f19]
+
+*Extent: S*
+
+(1) Scottish tenants' energy efficiency improvements regulations may include provision for the purpose of securing compliance with requirements imposed on landlords by or under the regulations.
+
+(2) Provision falling within subsection (1) includes, in particular, provision for a tenant to apply to a court or tribunal for a ruling that a landlord has not complied with a requirement imposed by or under the regulations.
+
+(3) Where the regulations make provision for a tenant to make an application such as is mentioned in subsection (2), the provision may, in particular, include provision—
+
+- (a) as to the jurisdiction of the court or tribunal to which an application may be made;
+- (b) as to the grounds on which an application may be made;
+- (c) as to the procedure for making an application (including any fee which may be payable);
+- (d) as to the powers of the court or tribunal to which an application is made (including as to expenses which may be awarded);
+- (e) as to how any sum payable in pursuance of a decision of the court or tribunal is to be recoverable.
+
+(4) Where the regulations make provision for a tenant to make an application such as is mentioned in subsection (2), the regulations must also include provision for a right of appeal by the tenant or landlord against any decision of a court or tribunal on an application.
+
+(5) Provision falling within subsection (4) includes, in particular, provision—
+
+- (a) as to the jurisdiction of the court or tribunal to which an appeal may be made;
+- (b) as to the grounds on which an appeal may be made;
+- (c) as to the procedure for making an appeal (including any fee which may be payable);
+- (d) suspending the effect of the decision being appealed against, pending determination of the appeal;
+- (e) as to the powers of the court or tribunal to which an appeal is made;
+- (f) as to how any sum payable in pursuance of a decision of the court or tribunal is to be recoverable.
+
+(6) The provision referred to in subsection (5)(e) includes provision conferring on the court or tribunal to which an appeal is made power—
+
+- (a) to confirm the decision;
+- (b) to quash the decision;
+- (c) to make a different decision;
+- (d) to remit the decision or any matter relating to the decision to the person who made it;
+- (e) to award expenses.
+
+(7) If the Scottish Ministers consider it appropriate for the purpose of, or in consequence of, any provision falling within—
+
+- (a) subsection (3)(a), (c), (d) or (e), or
+- (b) subsection (5)(a), (c), (e) or (f),
+
+Scottish tenants' energy efficiency improvements regulations may revoke or amend any subordinate legislation if the provision making the revocation or amendment would be within the legislative competence of the Scottish Parliament if it were included in an Act of that Parliament.
+
+(8) In this section “**subordinate legislation**” has the meaning given in section 21(1) of the Interpretation Act 1978, except that it includes any instrument made under an Act of the Scottish Parliament.
+
+## Annotations
+
+[^key-75609f745ecb3c7b2f74d1b480141f19]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2011/16/section/60) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)

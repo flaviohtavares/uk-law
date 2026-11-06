@@ -1,0 +1,77 @@
+---
+title: Corporation Tax Act 2010, section 421
+act: Corporation Tax Act 2010
+section: '421'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/421
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 421
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 421. The amount of the income: the basic amount
+
+*Extent: E+W+S+N.I.*
+
+(1) This section determines the amount of the income under section 417 when a qualifying change in the interest of the partner company in a business of leasing plant or machinery occurs on any day (“**the relevant day**”).
+
+(2) The amount of the income is found by—
+
+- (a) applying the formula in subsection (3) to give the basic amount, and
+- (b) making such adjustment to the basic amount as is required in accordance with section 422 or 423.
+
+(3) The formula is—
+
+[formula: see source](https://www.legislation.gov.uk/ukpga/2010/4)
+
+(4) In this section “**PM**” has the meaning given by section 400, but—
+
+- (a) reading any reference in that section to the relevant company as a reference to the partnership, and
+- (b) reading the reference in section 400(4) to an associated company as a reference to a qualifying company (see subsection (7)).
+
+(5) In this section “**TWDV**” means the sum of—
+
+- (a) the total amount of unrelieved qualifying expenditure in single asset pools for the new chargeable period that would be carried forward in the pools from the old chargeable period under section 59 of CAA 2001 (unrelieved qualifying expenditure),
+- (b) the total amount of unrelieved qualifying expenditure in class pools for the new chargeable period that would be carried forward in the pools from the old chargeable period under that section, and
+- (c) the amount of unrelieved qualifying expenditure in the main pool for the new chargeable period that would be carried forward in the pool from the old chargeable period under that section.
+
+(6) For the purposes of subsection (5)—
+
+- (a) it is to be assumed that the chargeable period (within the meaning of CAA 2001) of the partnership ends on the relevant day (“the old chargeable period”) and a new one begins on the following day (“the new chargeable period”), and
+- (b)[^key-625a0e80baf39369b478ef970cd173f5] in calculating the amounts of unrelieved qualifying expenditure mentioned in subsection (5)(a) to (c), any part of those amounts that is relevant new expenditure is to be left out of account.
+
+(6A)[^key-2aa3baeb160c05e2dbf684af7a101f26] Relevant new expenditure” means—
+
+- (a) expenditure attributable to plant or machinery acquired by the partnership on the relevant day except for plant or machinery acquired on that day from a qualifying company, and
+- (b) expenditure incurred on the relevant day but attributable to plant or machinery acquired by the partnership before that day.
+
+(6B) In subsection (6A)—
+
+- (a) “ **acquired** ” includes brought into use or made available for use for the first time for the purposes of the business, and
+- (b) a reference to anything acquired or incurred includes anything treated as acquired or treated as incurred.
+
+(7) In this section “**qualifying company**” means each of the following—
+
+- (a) the partner company,
+- (b) any company which is an associated company of the partner company on the relevant day,
+- (c) any other corporate partner in relation to whose interest in the business there is a qualifying change on the relevant day,
+- (d) any other corporate partner in relation to which there is a qualifying change of ownership on the relevant day, and
+- (e) any company which is an associated company of any other corporate partner mentioned in paragraph (c) or (d) on the relevant day.
+
+(8) For the purposes of subsection (7) “**any other corporate partner**” means a company which—
+
+- (a) carries on the business at the start of the relevant day, and
+- (b) is within the charge to corporation tax in respect of the business.
+
+## Annotations
+
+[^key-625a0e80baf39369b478ef970cd173f5]: Textual amendment: S. 421(6)(b) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 15(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/15/2)
+
+[^key-2aa3baeb160c05e2dbf684af7a101f26]: Textual amendment: S. 421(6A)(6B) inserted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 15(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/15/3)

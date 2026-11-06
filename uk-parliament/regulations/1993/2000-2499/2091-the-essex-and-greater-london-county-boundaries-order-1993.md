@@ -1,0 +1,185 @@
+---
+title: The Essex and Greater London (County Boundaries) Order 1993
+id: uksi/1993/2091
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1993-08-27'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1993/2091
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1993/2091/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Essex and Greater London (County Boundaries) Order 1993
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1993 No. 2091
+
+LOCAL GOVERNMENT, ENGLAND AND WALES
+
+CHANGES IN LOCAL GOVERNMENT AREAS
+
+The Essex and Greater London (County Boundaries) Order 1993
+
+Made
+
+27th August 1993
+
+Laid before Parliament
+
+7th September 1993
+
+Coming into force
+
+for the purposes referred to in article 1(2)
+
+1st December 1994
+
+for all other purposes
+
+1st April 1995
+
+The Secretary of State, in exercise of his powers under sections 51(2) and 67(4) of the Local Government Act 1972[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Order which gives effect, with modifications, to proposals submitted to him under sections 47, 48(1) and 51(1) of that Act, more than six weeks before the making of this Order, by the Local Government Boundary Commission for England:
+
+## 1. Citation and commencement
+
+(1) This Order may be cited as the Essex and Greater London (County Boundaries) Order 1993.
+
+(2) This Order shall come into force on 1st December 1994 for any purpose set out in regulation 4(1) of the Local Government Area Changes Regulations 1976[^f00002].
+
+(3) For all other purposes, this Order shall come into force on 1st April 1995.
+
+## 2. Interpretation
+
+In this Order—
+
+- “district” includes a London borough;
+- “Essex” means the county of Essex, and “Epping Forest” means the district of that name in that county;
+- “Redbridge” means the London borough of Redbridge;
+- “electoral division” means an electoral division of the county of Essex[^f00003];
+- “the map” means one or more of the 3 maps prepared by the Department of the Environment, marked “Maps of the Essex and Greater London (County Boundaries) Order 1993”, and deposited in accordance with regulation 5 of the Local Government Area Changes Regulations 1976; and
+- “ward” means a ward of the district from or to which an area is transferred[^f00004]. Transfers from Essex (Epping Forest) to Greater London (Redbridge)
+
+**3.** Each area which is marked as shown in column 1 of the following Table on the map indicated in column 2 shall be transferred from Essex, from Epping Forest, and from the ward mentioned in column 3 to—
+
+- (a) Greater London;
+- (b) Redbridge;
+- (c) the ward mentioned in column 4; and to
+- (d) the Redbridge petty sessional area and the Eastern London coroner’s district.
+
+  **TABLE**
+
+  <table>
+  <thead>
+  <tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th><th><em>(4)</em></th></tr>
+  <tr><th><em>Area marked—</em></th><th><em>On map—</em></th><th><em>Transferred from Essex, from Epping Forest, and from the following ward—</em></th><th><em>To Greater London, to Redbridge, and to the following ward—</em></th></tr>
+  </thead>
+  <tbody>
+  <tr><td>D</td><td>2</td><td>Buckhurst Hill East</td><td>Bridge</td></tr>
+  <tr><td>A &amp; B</td><td>2</td><td>Buckhurst Hill West</td><td>Monkhams</td></tr>
+  <tr><td>E</td><td>2</td><td>Chigwell Village</td><td>Fairlop</td></tr>
+  <tr><td>E1</td><td>2</td><td>Chigwell Village</td><td>Bridge</td></tr>
+  <tr><td>H, K &amp; O</td><td>3</td><td>Grange Hill</td><td>Fairlop</td></tr>
+  </tbody>
+  </table>
+
+## 4. Transfers from Greater London (Redbridge) to Essex (Epping Forest)
+
+The areas which are marked as shown in column 1 of the following table on the map indicated in column 2 shall be transferred from Greater London, from Redbridge and from the ward mentioned in column 3 to—
+
+- (a) Essex;
+- (b) Epping Forest;
+- (c) the ward and electoral division mentioned in column 4; and to
+- (d) the Epping Forest and Ongar petty sessional division and the Essex No. 1 coroner’s district.
+
+  **TABLE**
+
+  <table>
+  <thead>
+  <tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th><th><em>(4)</em></th></tr>
+  <tr><th><em>Area marked—</em></th><th><em>On map—</em></th><th><em>Transferred from Greater London, Redbridge and from the following ward—</em></th><th><em>To Essex, Epping Forest, and to the following—</em></th></tr>
+  </thead>
+  <tbody>
+  <tr><td>A &amp; B<br>C</td><td>1<br>2</td><td>Monkhams</td><td>Buckhurst Hill West ward<br>Buckhurst Hill electoral division</td></tr>
+  <tr><td>F</td><td>2</td><td>Fairlop</td><td>Chigwell Village ward<br>Chigwell electoral division</td></tr>
+  <tr><td>G, J, L, M &amp; N</td><td>3</td><td>Fairlop</td><td>Grange Hill ward<br>Buckhurst Hill electoral division</td></tr>
+  </tbody>
+  </table>
+
+## 5. Town and Country Planning
+
+(1) In this article, “provision” means a provision of a development plan (as defined in section 336(1) of the Town and Country Planning Act 1990[^f00005]).
+
+(2) Any provision applying to an area transferred by this Order shall continue to apply to that area, notwithstanding the transfer, until replaced by a provision which so applies, and which is expressed to supersede the preserved provision.
+
+Signed by authority of the Secretary of State
+
+Tony Baldry
+
+Parliamentary Under Secretary of State
+
+Department of the Environment
+
+27th August 1993
+
+(This note is not part of the Order)
+
+This Order transfers areas between Greater London and Essex, affecting the boundaries of the London borough of Redbridge, and of the Essex district of Epping Forest.
+
+Most changes are in the vicinity of Buckhurst Hill and Grange Hill.
+
+Consequential changes to local government electoral areas, petty sessional divisions and coroners' districts are made.
+
+No parishes are affected.
+
+The map and table forming part of this note (Pages 4 and 5) give a general guide to the areas affected.
+
+Prints of the detailed maps (described in article 2) may be inspected at all reasonable times at the offices of the council for each borough or district affected, and additionally at the offices of the Secretary of State for the Environment located in 2, Marsham Street, London SW1P 3EB.
+
+In approximate terms, the parts of Essex transferred to Greater London have a total area of 40 hectares, and 780 inhabitants, and the parts of Greater London transferred to Essex have a total area of 1 hectare and a population of 26.
+
+The Local Government Area Changes Regulations 1976 contain general provisions regarding the effect of orders such as this one.
+
+## 1. TABLE SHOWING MAIN CHANGES EFFECTED
+
+Transfers—
+
+From Epping Forest to Redbridge of—
+
+Area located to west of River Roding and south of Station Way and London Transport Station, including Cherry Tree Rise, Hawthorn Road, Bush Road, and playing and sports fields.
+
+**2.** Area located to west of River Roding and south of sewage works containing short stretch of M11.
+
+**3.** Dwellings in Amanda Close and part of adjacent works.
+
+**4.** Area containing Hainault Railway Depot.
+
+Realignments of boundary between Essex (Epping Forest) and Greater London (Redbridge) in the following areas
+
+- (i) Southdale;
+- (ii) Limes Avenue;
+- (iii) Northern boundary of Claybury Hospital;
+- (iv) Beresford Drive/Kings Avenue;
+- (v) High Road Buckhurst Hill/Knighton Lane; and
+- (vi) Epping New Road.
+
+[image: see source](https://www.legislation.gov.uk/uksi/1993/2091/images/uksi_19932091_en_001)
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^f00002]: Footnote: S.I. [1976/246](https://www.legislation.gov.uk/uksi/1976/246), amended by S.I. [1978/247](https://www.legislation.gov.uk/uksi/1978/247).
+
+[^f00003]: Footnote: Every non-metropolitan county is divided into electoral divisions for the purposes of the election of county councillors (section 6(2)(a) of the Local Government Act 1972).
+
+[^f00004]: Footnote: Every district is divided into wards for the purposes of the election of district councillors (section 6(2)(b) and (c) of the Local Government Act 1972).
+
+[^f00005]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). This definition was amended by the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), Schedule 4, paragraph 34.

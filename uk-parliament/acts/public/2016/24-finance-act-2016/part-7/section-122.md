@@ -1,0 +1,63 @@
+---
+title: Finance Act 2016, section 122
+act: Finance Act 2016
+section: '122'
+status: revised-with-pending-changes
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2016/24/section/122
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2016, section 122
+
+> **Warning: changes not yet applied to this text (12).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/24
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 122. VAT: power to provide for persons to be eligible for refunds
+
+*Extent: E+W+S+N.I.*
+
+In Part 2 of VATA 1994 (reliefs, exemptions and repayments), after section 33D insert—
+
+> **33E. Power to extend refunds of VAT to other persons**
+>
+> (1) This section applies where—
+>
+> - (a) VAT is chargeable on—
+>   - (i) the supply of goods or services to a specified person,
+>   - (ii) the acquisition of any goods from another member State by a specified person, or
+>   - (iii) the importation of any goods from a place outside the member States by a specified person, and
+> - (b) the supply, acquisition or importation is not for the purpose of—
+>   - (i) any business carried on by the person, or
+>   - (ii) a supply by the person which, by virtue of section 41A, is treated as a supply in the course or furtherance of a business.
+>
+> (2) If and to the extent that the Treasury so direct, the Commissioners shall, on a claim made by the specified person at such time and in such form and manner as the Commissioners may determine, refund to the person the amount of the VAT so chargeable.
+>
+> This is subject to subsection (3) below.
+>
+> (3) A specified person may not make a claim under subsection (2) above unless it has been agreed with the Treasury that, in the circumstances specified in the agreement, the amount of the person's funding is to be reduced by all or part of the amount of the VAT so chargeable.
+>
+> (4) A claim under subsection (2) above in respect of a supply, acquisition or importation must be made on or before the relevant day.
+>
+> (5) The “relevant day” is—
+>
+> - (a) in the case of a person who is registered, the last day on which the person may make a return under this Act for the prescribed accounting period containing the last day of the financial year in which the supply is made or the acquisition or importation takes place;
+> - (b) in the case of a person who is not registered, the last day of the period of 3 months beginning immediately after the end of the financial year in which the supply is made or the acquisition or importation takes place.
+>
+> (6) Subsection (7) applies where goods or services supplied to, or acquired or imported by, a specified person otherwise than for the purpose of—
+>
+> - (a) any business carried on by the person, or
+> - (b) a supply falling within subsection (1)(b)(ii) above,
+>
+> cannot be conveniently distinguished from goods or services supplied to, or acquired or imported by, the person for such a purpose.
+>
+> (7) The amount to be refunded under this section is such amount as remains after deducting from the whole of the VAT chargeable on any supply to, or acquisition or importation by, the specified person such proportion of that VAT as appears to the Commissioners to be attributable to the carrying on of the business or (as the case may be) the making of the supply.
+>
+> (8) In this section, “**specified person**” means a person specified in an order made by the Treasury.
+>
+> (9) An order under subsection (8) may make transitional provision or savings.
+>
+> (10) References in this section to VAT do not include any VAT which, by virtue of an order under section 25(7), is excluded from credit under section 25.

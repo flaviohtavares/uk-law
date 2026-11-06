@@ -1,0 +1,804 @@
+---
+title: The Social Fund Maternity and Funeral Expenses (General) Regulations 2005
+id: uksi/2005/3061
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-11-02'
+text_date: '2026-07-16'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/3061
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/3061/pdfs/uksiem_20053061_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/3061/pdfs/uksi_20053061_301118_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/3061/pdfs/uksi_20053061_300914_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/3061/pdfs/uksi_20053061_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/3061/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Fund Maternity and Funeral Expenses (General) Regulations 2005
+
+> Text as at 2026-07-16.
+
+2005 No. 3061
+
+SOCIAL SECURITY
+
+The Social Fund Maternity and Funeral Expenses (General) Regulations 2005
+
+Made
+
+2nd November 2005
+
+Laid before Parliament
+
+8th November 2005
+
+Coming into force
+
+5th December 2005
+
+The Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 138(1)(a) and (4) and 175(1), (3) and (4) of the Social Security Contributions and Benefits Act 1992 [^c1351409], and of all other powers enabling him in that behalf, and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it [^c1351410], hereby makes the following Regulations:[^key-3ed983028b8386493aff9ac3602f686b]
+
+## PART I — GENERAL
+
+### 1. Citation and commencement
+
+(1) These Regulations may be cited as the Social Fund Maternity and Funeral Expenses (General) Regulations 2005 and shall come into force on 5th December 2005.
+
+### 2. Revocation
+
+The Regulations specified in the Schedule are revoked to the extent specified there.
+
+### 3. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Social Security Contributions and Benefits Act 1992;
+- "the 1995 Act" means the Jobseekers Act 1995;[^key-91e5d55e9cf463efecf4b7bbced37573]
+- “the 2007 Act ” means the Welfare Reform Act 2007;
+- “the 2012 Act” means the Welfare Reform Act 2012;
+- “the Employment and Support Allowance Regulations” means the Employment and Support Allowance Regulations 2008;[^key-4dfe94e70ec29da04bcd2331a6050e9d]
+- “**the Income Support Regulations**” means the Income Support (General) Regulations 1987 [^c1351411];
+- “**the Jobseeker's Allowance Regulations**” means the Jobseeker's Allowance Regulations 1996 [^c1351412];
+- “**absent parent**” means a parent of a child who has died where—
+  - (a) that parent was not living in the same household with the child at the date of that child's death; and
+  - (b) that child had his home, at the date of death, with a person who was responsible for that child for the purposes of Part IX of the Act;
+- “adoption agency” has the meaning given in section 2 of the Adoption and Children Act 2002;[^key-e086fde5eb7633feed50713eb957fdd3]
+- “adoption order” means an order made under section 46 of the Adoption and Children Act 2002;
+- “**child**” means a person under the age of 16 or a young person within the meaning of regulation 14 of the Income Support Regulations [^c1351413]or, as the case may be, of regulation 76 of the Jobseeker's Allowance Regulations [^c1351414];
+- “child arrangements order” means a child arrangements order as defined in section 8(1) of the Children Act 1989 which consists of, or includes, arrangements relating to either or both of the following—[^key-fef724955de0d3bbb4fc2a506d78e13a]
+  - (i) with whom the child is to live, and
+  - (ii) when the child is to live with any person;
+- “**child tax credit**” means a child tax credit under section 8 of the Tax Credits Act 2002 [^c1351415];
+- “**claimant**” means a person claiming a social fund payment in respect of maternity or funeral expenses;
+- “**close relative**” means a parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, step-parent, step-son, step-son-in-law, step-daughter, step-daughter-in-law, brother, brother-in-law, sister or sister-in-law;
+- “**confinement**” means labour resulting in the birth[^key-b86acec29ef0bf799bd613dfe4003e07] of a living child, or labour after 24 weeks of pregnancy resulting in the birth of a child whether alive or dead;
+- “[^key-faed726cc9aee9c198218897a9ab6452] *(Extent: S)* *(affected by repeal, see note)*[^key-31ec60fd995643dbd2eb1e0d553c0021]**couple *(Extent: S)* *(affected by repeal, see note)*[^key-31ec60fd995643dbd2eb1e0d553c0021]**” means— *(Extent: S)* *(affected by repeal, see note)*[^key-31ec60fd995643dbd2eb1e0d553c0021]
+  - (a) two people who are married to, or civil partners of, each other and are members of the same household; or *(Extent: S)* *(affected by repeal, see note)*[^key-31ec60fd995643dbd2eb1e0d553c0021]
+  - (b) two people who are not married to, or civil partners of, each other but are living together *(Extent: S)* *(affected by repeal, see note)*[^key-31ec60fd995643dbd2eb1e0d553c0021] as if they were a married couple or civil partners[^key-6a6a05eabb5bea422272fa56f019c216] *(Extent: S)* *(affected by repeal, see note)*[^key-31ec60fd995643dbd2eb1e0d553c0021]; *(Extent: S)* *(affected by repeal, see note)*[^key-31ec60fd995643dbd2eb1e0d553c0021]
+- “ *(Extent: S)***family *(Extent: S)***” means— *(Extent: S)*
+  - (a) a couple and any children who are members of the same household and for whom at least one of the couple is responsible; *(Extent: S)*
+  - (b) a person who is not a member of a couple and any children who are members of the same household and for whom that person is responsible; *(Extent: S)*
+  - (c) except where the claimant is in receipt of universal credit,[^key-085fddd552b774545b1a381795567d9d] *(Extent: S)* persons who are members of a polygamous marriage who are members of the same household and any children who are also members of the same household and for whom a member of the polygamous marriage is responsible; *(Extent: S)*
+- [^key-ee3179a207581d1c81e8b09453350e99]...
+- [^key-7fa841f5462fac6e555b915411495406]...
+- “ **funeral payment** ” has the meaning given in regulation 7(1);
+- “guardian” means a person appointed as a guardian or special guardian under section 5 or 14A of the Children Act 1989;
+- “**health professional**” means—
+  - (a) a registered medical practitioner, or
+  - (b) a registered nurse or registered midwife;
+- “ **immediate family member** ” means a parent, son or daughter;
+- “ **income-based jobseeker's allowance** ” has the same meaning as it has in the Jobseekers Act 1995 by virtue of section 1(4) of that Act [^c1351418] ;
+- “income-related employment and support allowance” means an income-related allowance under Part 1 of the Welfare Reform Act 2007 (employment and support allowance);[^key-3c9c08575c24f69a472fb5b2998041b8]
+- “ **occupational pension scheme** ” has the same meaning as in the Pension Schemes Act 1993 [^c1351419] ;
+- “owner-occupier loan payments” means loan payments made under the Loans for Mortgage Interest Regulations 2017;[^key-2ea424267faadd09e20b508b3765caaf]
+- “ **partner** ” means where a person—
+  - (a) is a member of a couple, the other member of that couple;
+  - (b) is married polygamously to two or more members of his household, any such member except that paragraph (b) does not apply where the claimant is in receipt of universal credit,[^key-92cedef6a99dda09fcef23f15693589d];
+- “parental order” means an order made under section 30 of the Human Fertilisation and Embryology Act 1990 or section 54 or section 54A[^key-16c75cc41d9269a234db58a3f86b42fc] of the Human Fertilisation and Embryology Act 2008;
+- “ **person affected by a trade dispute** ” means a person—
+  - (a) to whom section 126 of the Act applies; or
+  - (b) to whom that section would apply if a claim for income support were made by or in respect of him;
+- “placed for adoption” has the meaning given in section 18 of the Adoption and Children Act 2002;
+- “ **prescribed time for claiming** ” means the appropriate period during which a Sure Start Maternity Grant or, as the case may be, a funeral payment, may be claimed pursuant to regulation 19 of, and Schedule 4 to, the Social Security (Claims and Payments) Regulations 1987 [^c1351420] ;
+- “qualifying order” has the meaning given in regulation 3A(6);
+- [^key-9c686f2fb5cada01a8fe837174673222] ...
+- “ **responsible person** ” has the meaning given in regulation 7(1);
+- “ **still-born child** ”, in relation to England and Wales, has the same meaning as in section 12 of the Births and Deaths Registration Act 1926 [^c1351421] and, in relation to Scotland, has the same meaning as in section 56(1) of the Registration of Births, Deaths and Marriages (Scotland) Act 1965 [^c1351422] ;
+- “ **Sure Start Maternity Grant** ” is to be construed in accordance with regulation 5;
+- “universal credit” means universal credit under Part 1 of the[^key-f911182e76eeca992073c86afd917815] 2012 Act;
+- “ **working tax credit** ” means a working tax credit under section 10 of the Tax Credits Act 2002.
+
+(1A)[^key-afbc57b9150a5da60f9fb3be2d3935bb] References in these Regulations to—
+
+- (a) section 5, 8, 10 or 14A of the Children Act 1989,
+- (b) section 2, 18, 46 or 66 of the Adoption and Children Act 2002,
+
+are to be construed as including a reference to a provision (if any) in legislation which has equivalent effect in Scotland, Northern Ireland, the Channel Islands or the Isle of Man.
+
+(2) For the purposes of Part III of these Regulations, persons shall be treated as members of the same household where—
+
+- (a) they are married to each other, or in a civil partnership with each other, and are living in the same care establishment, or
+- (b) they were partners immediately before at least one of them moved permanently into such an establishment,
+
+and at least one of them is resident in a care establishment as at the date of death of the person in respect of whom a funeral payment is claimed.
+
+(3) In paragraph (2), “ **care establishment** ” means—
+
+- (a) a care home,
+- (b) an Abbeyfield Home, or
+- (c) an independent hospital,
+
+as defined in regulation 2(1) [^c1351423] of the Income Support Regulations or regulation 2(1) of the Employment and Support Allowance Regulations[^key-6e38ea0ffc27426ccaf0b594d724a982].
+
+(4) For the purposes of these Regulations—
+
+- (a) persons are to be treated as not being members of the same household in the circumstances set out in regulation 16(2) and (3)(a), (b) and (d) of the Income Support Regulations, in regulation 156 of the Employment and Support Allowance Regulations[^key-d45d29761641b699ca336dabb8cbc91e] [^c1351424] or, as the case may be, in regulation 78(2) and (3)(a) to (c) of the Jobseeker's Allowance Regulations;
+- (b) except where the claimant is in receipt of universal credit,[^key-c0a4741e49bd97b991bf26d3d9d37da9] a person shall be treated as a member of a polygamous marriage where, during the subsistence of that marriage, a party to it is married to more than one person and the ceremony of marriage took place under the law of a country which permits polygamy.
+
+(5)[^key-e8e419f3a9988d5c2ac5854b9a776527] For the purposes of these Regulations, a person being treated as entitled to a benefit has the meaning given to it in regulation 2(2)(aa) of the Loans for Mortgage Interest Regulations 2017.
+
+### 3A. Provision against double payment: Sure Start Maternity Grants[^key-e4946fda71ce243e365220be003c8212]
+
+(1) In this regulation—
+
+- (a) “C” is the child in respect of whom a Sure Start Maternity Grant has been claimed;
+- (b) “first grant” is a first Sure Start Maternity Grant or a Best Start Grant[^key-9584729dfe4d25d6df85987ed7f49a2e] in respect of C;
+- (c) “second grant” is a second Sure Start Maternity Grant in respect of C. *(affected by repeal, see note)*[^key-ea9d33e466c6663d291f27ee729f83a8]
+
+  “subsequent grant” is, in respect of C—
+
+  - (i) a second or subsequent Sure Start Maternity Grant; or
+  - (ii) if a Best Start Grant has been given, a first Sure Start Maternity Grant;
+- (d) “Best Start Grant” is a grant given to a qualifying individual under Regulations made under section 32 of the Social Security (Scotland) Act 2018 in connection with having, or expecting to have, a new baby in the family.
+
+(2) Subject to paragraph (3), a subsequent[^key-1cc32bd8a4a7e62c0b74356b69da67c5] grant may not be awarded if a first grant has been awarded.
+
+(3) A subsequent[^key-9a2183bdf855216a2a3fdb693078d8e3] grant may be awarded to a person (“P”) if the following conditions are satisfied.
+
+(4) The first condition is that P—
+
+- (a) alone, or together with another person, has been granted a qualifying order; or
+- (b) falls within regulation 5(3)(b), (d), (e) or (f).
+
+(5) The second condition is that P—
+
+- (a) has not already received a first grant; or
+- (b) was not, at the time a first grant was claimed, a member of the family of a person to whom a first grant has been paid.
+
+(6) A qualifying order is one of the following types of order—
+
+- (a) an adoption order;
+- (b) a parental order;
+- (c) a child arrangements[^key-bab3024b6e11321f21cc1cdd7093556f] order.
+
+### 4. Provision against double payment: funeral payments
+
+(1) Subject to paragraph (2), no funeral payment shall be made under these Regulations if such a payment, or an award of funeral expense assistance given in accordance with regulations made under section 34 of the Social Security (Scotland) Act 2018,[^key-b9b21e432cd85d5ce6e817206a1220ba] has already been made in respect of any funeral expenses arising from the death of the same person.
+
+(2) A further funeral payment may be made in respect of any funeral expenses arising from the death of a person in respect of which such a payment has already been made where—
+
+- (a) the decision pursuant to which the funeral payment was awarded has been revised; and
+- (b) the further amount of the award as revised, together with the amount of the funeral payment already paid in respect of the death of that person, does not exceed the amount of any funeral payment which may be awarded pursuant to regulation 9.
+
+(3)[^key-c973163eedd1939efcd38d2278ecf262] No funeral payment may be made under these Regulations for an item or service for which payment has been received under The Social Fund (Children’s Funeral Fund for England) Regulations 2019, unless the amount paid under those Regulations is less that the total amount charged for the item or service, in which case a payment may be made for an amount not exceeding the remainder of the amount charged.
+
+## PART II — PAYMENTS FOR MATERNITY EXPENSES IN ENGLAND AND WALES[^key-d40ca2217677873806fafa3bec9fdde7]
+
+### 4A. Persons to be treated as responsible for children[^key-5540421715f609d114cb2d6fe78f5738]
+
+(1) For the purposes of this Part, subject to paragraph (4), a person (“P”) is to be treated as responsible for a child if paragraph (2) or (3) applies.
+
+(2) This paragraph applies if—
+
+- (a) P is receiving child benefit in respect of the child, unless P is a child in respect of whom another person is receiving child benefit; or
+- (b) no one is receiving child benefit in respect of the child but the child usually lives with P.
+
+(3) This paragraph applies   where P is receiving child benefit in respect of a child who is in receipt of child benefit in respect of another child in which case P is to be treated as responsible for both children.
+
+(4) P is not to be treated as responsible for a child if the child is—
+
+- (a) being looked after by a local authority within the meaning of section 22 of the Children Act 1989, or section 93 of the Children (Scotland) Act 1995, or section 74 of the Social Services and Well-being (Wales) Act 2014,[^key-3b7e3262464000d4261e2c36919eb40a] unless the child usually lives with P; or
+- (b) detained in custody pending trial or sentence upon conviction or under a sentence imposed by a court.
+
+### 5. Entitlement[^key-8b32a5d4d484947bd9062dab7c2c3392]
+
+(1) Subject to regulations 5A and 6[^key-7e661655ae021cece7075d63e1f6be04], a payment of £500 to meet maternity expenses (referred to in these Regulations as a “Sure Start Maternity Grant”) shall be made in respect of a child or still-born child where the following conditions are satisfied.
+
+(2) The first condition is that the claimant or the claimant’s partner has, in respect of the date of the claim for a Sure Start Maternity Grant, been awarded—
+
+- (a) income support;
+- (b) state pension credit;
+- (c) an income-based jobseeker’s allowance;
+- (d) working tax credit where the disability element or the severe disability element of working tax credit as specified in regulation 20(1)(b) and (f) of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 is included in the award;
+- (e) child tax credit which includes an individual element or a disability element referred to in section 9(3) of the Tax Credits Act 2002[^key-195857a21a6f8b3d4f5c84da0321d5c3]; [^key-df0567effd26a516d2133d0dce36bbbd] ...
+- (f) an income-related employment and support allowance; [^key-a9bdd3b3263356fffcf9a71c552c75cc]...[^key-3d8c630e7b5a601f67515ce7a023dfef]
+- (g) universal credit; or[^key-4374ba2f1e694d515b99ef5cec59c1a3]
+- (h) owner-occupier loan payments and is treated as entitled to a benefit specified in sub-paragraphs (a) to (c) and (f).
+
+(3) The second condition is that—
+
+- (a) the claimant or, if the claimant is a member of a family, one of the family is pregnant or has given birth to a child or a still-born child;
+- (b)[^key-8c9796e37f6e5f07c218f772a5c9c030] the child’s parents are not partners at the date of the claim and the claimant—
+  - (i) is the parent (but not the mother) of the child (who must not exceed the age of twelve months at the date of the claim), or is responsible for that parent, and
+  - (ii) is responsible for the child;
+- (c) the claimant or the claimant’s partner—
+  - (i) has been granted a qualifying order in respect of a child who does not exceed the age of twelve months at the date of the claim, and
+  - (ii) is responsible for the child;
+- (d) the claimant or the claimant’s partner—
+  - (i) has been appointed the guardian of a child who does not exceed the age of twelve months at the date of the claim, and
+  - (ii) is responsible for the child;
+- (e) a child who does not exceed the age of twelve months at the date of the claim has been placed for adoption with the claimant or the claimant’s partner by an adoption agency and the claimant or the claimant’s partner is responsible for the child; or
+- (f) the claimant or the claimant’s partner has adopted a child who does not exceed the age of twelve months at the date of the claim and that adoption falls within section 66(1)(c) to (e) of the Adoption and Children Act 2002 (meaning of adoption).
+
+(4)[^key-e0665a7e79455330936ed5b24a2b65fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The third *(Extent: E+W)*[^key-4ead87d5d69df2103ab85d722665c5b4] condition is that the claim is made within the prescribed time for claiming a Sure Start Maternity Grant.
+
+(6)[^key-826e17943d19a5a8704ffc595bd22d6d] The fourth *(Extent: E+W)*[^key-2348643036a2f796e6c883293dce7d1b] condition is that the claimant lives in England or Wales.
+
+### 5A. Entitlement where another member of the claimant’s family is under the age of 16[^key-4cd6ccdef965f63a3ac6fe841ae0d9ae]
+
+(1) In this regulation—
+
+- (a) “C” means the child or still-born child in respect of whom a Sure Start Maternity Grant is claimed; and
+- (b) “existing member of the family” has the meaning given in paragraph (2) or, as the case may be, (3).
+
+(2) Where a parent of C (“P”) is under the age of 20 and a member of the claimant’s family, “existing member of the family” means any member of the claimant’s family who is also a child of P, apart from C or any other child born as a result of the same pregnancy as C.
+
+(3) In any other case, “existing member of the family” means any member of the claimant’s family apart from—
+
+- (a) C;
+- (b) any other child born as a result of the same pregnancy as C;
+- (c) any child whose parent is under the age of 20 and a member of the claimant’s family;[^key-2a4b92b8b70d854ea869e1f62d517ab0]
+- (d) any child—
+  - (i) who was not, at the time of the child’s birth, a child of the claimant (or, where the claimant has a partner at the date of claim, the claimant’s partner); and
+  - (ii) whose age, at the time that the claimant (or, where the claimant has a partner at the date of claim, the claimant’s partner) first became responsible for that child, exceeded 12 months.
+
+(4) Subject to the following provisions of this regulation, a Sure Start Maternity Grant shall not be awarded if, at the date of claim, any existing member of the family is under the age of 16.
+
+(5) Where C is one of two or more children—
+
+- (a) born or still-born as a result of the same pregnancy, or
+- (b) (if the claim is made before the confinement in a case where regulation 5(3)(a) applies) who are expected to be born as a result of the same pregnancy,
+- (c) the number of Sure Start Maternity Grants to be awarded is to be determined in accordance with paragraphs (6) and (7).
+
+(6) Where at the date of claim no existing member of the family is under the age of 16 a Sure Start Maternity Grant is to be awarded in respect of each of the children mentioned in paragraph (5).
+
+(7) Where at the date of claim any existing member of the family is under the age of 16 then—
+
+- (a) where each of those existing members of the family under the age of 16 was born as a result of separate pregnancies, a Sure Start Maternity Grant is to be awarded for all but one of the children mentioned in paragraph (5); and
+- (b) where two or more of those existing members of the family under the age of 16 were born as a result of a single pregnancy, the number of Sure Start Maternity Grants to be awarded in respect of the children mentioned in paragraph (5) is the number of children mentioned in paragraph (5) minus the maximum number of existing members of the family born as a result of a single pregnancy.
+
+*Extent: E+W*
+
+(8)[^key-4c45dca9cfe8241176dd6253985ad265] A Sure Start Maternity Grant shall be awarded if—
+
+- (a) at the date of claim, any existing member of the family is under the age of 16;
+- (b) the claimant is a person to whom paragraph (9) or (10) applies;
+- (c) no Sure Start Maternity Grant has been awarded to the claimant—
+  - (i) where the claimant is a person to whom paragraph (9) applies, on or after 15th August 2021;
+  - (ii) where the claimant is a person to whom paragraph (10) applies, on or after 24th February 2022; and
+- (d) the other conditions for entitlement to the grant are satisfied.
+
+(9 (Extent: E+W)) This paragraph applies where the claimant is— *(Extent: E+W)*
+
+- (a (Extent: E+W)) a person who is granted leave in accordance with the immigration rules made under section 3(2) of the Immigration Act 1971 (“ *(Extent: E+W)***the 1971 Act *(Extent: E+W)***”) by virtue of— *(Extent: E+W)*
+  - (i (Extent: E+W)) Appendix Afghan Relocations and Assistance Policy of those rules; or *(Extent: E+W)*
+  - (ii (Extent: E+W)) the previous scheme for locally-employed staff in Afghanistan (sometimes referred to as the ex-gratia scheme); or *(Extent: E+W)*
+- (b (Extent: E+W)) a person in Great Britain not coming within sub-paragraph (a) who left Afghanistan in connection with the collapse of the Afghan government that took place on 15th August 2021. *(Extent: E+W)*
+
+(10 (Extent: E+W)) This paragraph applies where the claimant is a person who was residing in Ukraine immediately before 1st January 2022, who left Ukraine in connection with the Russian invasion which took place on 24th February 2022 and who — *(Extent: E+W)*
+
+- (a (Extent: E+W)) has a right of abode in the United Kingdom within the meaning given in section 2 of the 1971 Act; *(Extent: E+W)*
+- (b (Extent: E+W)) has been granted leave in accordance with immigration rules made under section 3(2) of the 1971 Act; *(Extent: E+W)*
+- (c (Extent: E+W)) has been granted, or is deemed to have been granted, leave outside those rules; or *(Extent: E+W)*
+- (d (Extent: E+W)) does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of the 1971 Act. *(Extent: E+W)*
+
+### 6. Persons affected by a trade dispute
+
+(1) Where the claimant or the claimant's partner is a person affected by a trade dispute, a Sure Start Maternity Grant shall be made only if—
+
+- (a) in the case where the claimant or the claimant's partner is in receipt of income support or income-based jobseeker's allowance, the trade dispute has, at the date of the claim for that payment, continued for not less than six weeks; or
+- (b) in the case where the claimant or the claimant's partner is in receipt of—
+  - (i) working tax credit where the disability element or the severe disability element of working tax credit as specified in regulation 20(1)(b) and (f) of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 is included in the award, or
+  - (ii) child tax credit which includes an individual element or a disability element referred to in section 9(3) of the Tax Credits Act 2002[^key-29f5333a1dc8b64e44e426ef99859d4c],
+
+  the “relevant claim” was made before the beginning of the trade dispute.
+
+(2) In paragraph (1)(b), the relevant claim means the claim in respect of which a tax credit of the type referred to in head (i) or (ii) of that sub-paragraph was awarded.
+
+## PART III — PAYMENTS FOR FUNERAL EXPENSES in England and Wales[^key-792f9c174ea842f82356b8171b32a795]
+
+### 7. Funeral payments: entitlement
+
+(1) In these Regulations—
+
+- (a) “**funeral payment**” means a social fund payment to meet funeral expenses of a deceased person;
+- (b) “**responsible person**” means the person who accepts responsibility for the funeral expenses.
+
+(2) Subject to regulation 8, a funeral payment shall be made where each of the conditions referred to in paragraphs (3) to (9A)[^key-b57ffb50743379107b2e7f339c6ce85c] is satisfied.
+
+(3) The first condition is that, in respect of the date of the claim for a funeral payment, the responsible person or his partner is a person to whom paragraph (4) applies.
+
+(4) This paragraph applies to a person—
+
+- (a) who has an award of—
+  - (i) income support,
+  - (ii) state pension credit,
+  - (iii) income-based jobseeker's allowance,
+  - (iv) working tax credit where the disability element or the severe disability element of working tax credit as specified in regulation 20(1)(b) and (f) of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 is included in the award,
+  - (v) child tax credit which includes an individual element or a disability element referred to in section 9(3) of the Tax Credits Act 2002[^key-105afa82a1465ea13692e539851e683a],
+  - (vi) housing benefit, [^key-78173de169abbe482402170fb39b615c]...
+  - (vii)[^key-85244dd73f82f3eaa52964ba7b1e0a36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (viii)[^key-6bd89ab84300bcaabf0e4ee47bfdab9c] income-related employment and support allowance; [^key-ec052595546438f1f08e5a405ba53b97]...
+- (ix)[^key-b1a6de265df6881a45d783da59ceaf8b] universal credit; or[^key-65d9eb47a60b426f63a2b5f4a674decf]
+- (x) owner-occupier loan payments and is treated as entitled to a benefit specified in sub-paragraphs (i) to (iii) and (viii).
+- (b)[^key-f8aae28ae438f82c2f368d18dd27d6b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The second condition is that the deceased was ordinarily resident in the United Kingdom at the date of his death.
+
+(6) The third condition is that the claim is made within the prescribed time for claiming a funeral payment.
+
+(7) The fourth condition is that the claimant is the responsible person or the partner of the responsible person.
+
+(8) The fifth condition is that—
+
+- (a) the responsible person was the partner of the deceased at the date of death; or
+- (b) in a case where the deceased was a child and—
+  - (i) there is no absent parent, or
+  - (ii) there is an absent parent who, or whose partner, is a person to whom paragraph (4) applied as at the date of death,
+
+  the responsible person was the person, or the partner of the person, responsible for that child for the purposes of Part IX of the Act as at the date of death; or
+- (c) in a case where the deceased was a still-born child, the responsible person was a parent, or the partner of a parent, of that still-born child as at the date when the child was still-born; or
+- (d) in a case where the deceased had no partner and neither sub-paragraph (b) nor (c) applies, the responsible person was an immediate family member of the deceased and it is reasonable for the responsible person to accept responsibility for those expenses; or
+- (e) in a case where the deceased had no partner and none of sub-paragraphs (b), (c) and (d) applies, the responsible person was either—
+  - (i) a close relative of the deceased, or
+  - (ii) a close friend of the deceased,
+
+  and it is reasonable for the responsible person to accept responsibility for the funeral expenses.
+
+(9) The sixth condition is that the funeral takes place—
+
+- (a) in a case where paragraph (10) applies, in a member State of the European Union, Iceland, Liechtenstein, Norway, Switzerland or the United Kingdom[^key-0758b9cdca6b1d7320bf9310bc92a083];
+- (b) in any other case, in the United Kingdom.
+
+(9A)[^key-cc330a52463d649aa36b844763d3cf0c] The seventh condition is that the claimant lives in England and Wales.
+
+(10)[^key-2ffa6c6eb7f221dc7c59bdc7a105c555] This paragraph applies where the responsible person or the responsible person's partner is—
+
+- (a) a qualified person within the meaning of regulation 6(1)(b) (worker) or (c) (self-employed person) of the Immigration (European Economic Area) Regulations 2016 (the EEA Regulations);
+- (b) a person who retains the status referred to in sub-paragraph (a) pursuant to regulation 6(2) or (4) of the EEA Regulations;
+- (c) a person who is a family member of a person referred to in sub-paragraph (a) or (b) within the meaning of regulation 7(1) of the EEA Regulations; or
+- (d) a person who has a right to reside permanently in the United Kingdom by virtue of regulation 15(1)(c), (d) or (e) of the EEA Regulations;
+- (e) a person granted indefinite leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 by virtue of Appendix EU to the immigration rules made under section 3(2) of that Act.
+
+(11)[^key-47d9f60445f1a681dce5471a92abdb91] References in this regulation to the Immigration (European Economic Area) Regulations 2016 are to be read with Schedule 4 to the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) Regulations 2020.
+
+### 8. Funeral payments: supplementary
+
+(1) Subject to paragraph (2), the claimant shall not be entitled to a funeral payment where the responsible person is an immediate family member, a close relative or a close friend of the deceased and—
+
+- (a) there are one or more immediate family members of the deceased;
+- (b) one or more of those immediate family members or their partners are not persons to whom regulation 7(4) applied as at the date of death; and
+- (c) any of the immediate family members referred to in sub-paragraph (b) was not estranged from the deceased at the date of his death.
+
+(2) Paragraph (1) shall not apply to disentitle the claimant from a funeral payment where the immediate family member who meets the description specified in sub-paragraph (c) of that paragraph is at the date of death—
+
+- (a) a person who has not attained the age of 18;
+- (b)[^key-cc309d7a4cd52da090d3a706338c560d] a qualifying young person within the meaning of section 142 of the Act (child and qualifying young person);
+- (bb)[^key-807e5ff3b94a848335e56fc2539221e8] a qualifying young person under section 10(5) (prescription of qualifying young person) of the Welfare Reform Act 2012;
+- (c) a person who has attained the age of 18 but not the age of 19 and who is attending a full-time course of advanced education, as defined in regulation 61 of the Income Support Regulations, or, as the case may be, a person aged 19 or over but under pensionable age who is attending a full-time course of study, as defined in that regulation, at an educational establishment;
+- (d) a person in receipt of asylum support under section 95 of the Immigration and Asylum Act 1999 [^c1351432];
+- (e) a member of, and fully maintained by, a religious order;
+- (f) being detained in a prison, remand centre or youth custody institution and either that immediate family member or his partner is a person to whom regulation 7(4) applied immediately before that immediate family member was so detained;
+- (ff)[^key-01e491d1c66e202ce112f2c7798116f2] a person resident in a care establishment within the meaning of regulation 3(3), whose accommodation and care costs are met in whole or in part by a local authority within the meaning of the Local Government Act 1972 or the Local Government etc (Scotland) Act 1994;
+- (g) a person who is regarded as receiving free in-patient treatment within the meaning of the Social Security (Hospital In-Patients) Regulations 1975 [^c1351433], or the Social Security (Hospital In-Patients) Regulations (Northern Ireland) 1975 [^c1351434], and either that immediate family member or his partner is a person to whom regulation 7(4) applied immediately before that immediate family member was first regarded as receiving such treatment; or
+- (h) a person ordinarily resident outside the United Kingdom.
+
+(3) Paragraphs (4) to (8) apply for the purposes of regulation 7(8)(d) and (e).
+
+(4) The deceased shall be treated as having had no partner where the deceased had a partner at the date of death and—
+
+- (a) no claim for funeral expenses is made by the partner in respect of the death of the deceased; and
+- (b) that partner dies before the date upon which the deceased's funeral takes place.
+
+(5) Whether it is reasonable for the responsible person to accept responsibility for meeting the expenses of a funeral shall be determined by the nature and extent of his contact with the deceased.
+
+(6) Paragraph (7) applies (subject to paragraph (8)) in a case where the deceased had one or more close relatives.
+
+(7) If, on comparing the nature and extent of any close relative's contact with the deceased and the nature and extent of the responsible person's contact with the deceased, any such close relative was—
+
+- (a) in closer contact with the deceased than the responsible person,
+- (b) in equally close contact with the deceased and neither that close relative nor his partner, if he has one, is a person to whom regulation 7(4) applies,
+
+the claimant shall not be entitled to a funeral payment.
+
+(8) However paragraph (7) shall not apply where the close relative who was in—
+
+- (a) closer contact with the deceased than the responsible person, or (as the case may be)
+- (b) equally close contact with the deceased,is at the date of death of a description specified in any of sub-paragraphs (a) to (h) of paragraph (2).
+
+(9) In a case where the responsible person is the partner of the person who was a close relative, immediate family member or (as the case may be) close friend of the deceased, references in the preceding provisions of this regulation, and in regulation 7(8)(d) and (e), to the responsible person are to be construed as references to the responsible person's partner.
+
+### 9. Amount of funeral payment
+
+(1) A funeral payment shall be an amount sufficient to meet any relevant expenditure less any amount which falls to be deducted under regulation 10.
+
+(2) In paragraph (1), “**relevant expenditure**” means any costs to which paragraph (3) applies which fall to be met or have been met by the responsible person (or a person acting on behalf of the responsible person), inclusive of any available discount on those costs allowed by the funeral director or by any other person who arranges the funeral.
+
+(3) This paragraph applies to the following costs—
+
+- (a) where the deceased is buried—
+  - (i)[^key-7233112fe542c310cc484de1e66ccafa] the necessary costs of obtaining a new burial plot for the deceased and a right of burial in that plot, whether or not that right is exclusive
+  - (ii) the fees levied in respect of a burial by the authority or person responsible for the provision and maintenance of cemeteries for the area where the burial takes place, and[^key-05a9d46c83bca28a2e31ee8d629c24a7] the fees levied by a private grave-digger, in so far as it is necessary to incur those fees;
+- (b) where the deceased is cremated—
+  - (i) the fees levied in respect of a cremation by the authority or person responsible for the provision and maintenance of crematoria for the area where the cremation takes place in so far as it is necessary to incur those fees;
+  - (ii)[^key-00dca48a7275313ed95fbe0b37dc77c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^key-00dca48a7275313ed95fbe0b37dc77c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv) the fee payable for the removal of any device as defined for the purposes of the Active Implantable Medical Devices Regulations 1992[^c1351435] save that, where that removal is carried out by a person who is not a registered medical practitioner, no more than £20 shall be met in respect of that fee;
+- (ba)[^key-4d8314a1c8163a2c608aa7fe44d49f04] the cost of obtaining any medical reference, report or other documentation required in connection with the disposal of the body of the deceased, whether by burial, cremation or otherwise;
+- (c) the cost of obtaining any documentation, production of which is necessary in order to release any assets of the deceased which may be deducted from a funeral payment pursuant to regulation 10;
+- (d) where the deceased died at home or away from home and it is necessary to transport the deceased within the United Kingdom in excess of 80 kilometres (approximately 50 miles) to the funeral director's premises or to the place of rest, the reasonable cost of transport in excess of 80 kilometres;
+- (e) where transport is provided by a vehicle for the coffin and bearers and by one additional vehicle, from the funeral director's premises or the place of rest to the funeral and—
+  - (i) the distance travelled, in the case of a funeral which consists of a burial where no costs have been incurred under sub-paragraph (a)(i) above, exceeds 80 kilometres; or
+  - (ii) the distance travelled, in the case of any other funeral, necessarily exceeds 80 kilometres,
+
+  the reasonable cost of the transport provided, other than the cost in respect of the first 80 kilometres of the distance travelled;
+- (f) the necessary cost of one return journey for the responsible person, either for the purpose of making arrangements for, or for attendance at, the funeral; and
+- (g) any other funeral expenses which shall not exceed £1,000[^key-95d4f2d720d8f884cc9153808cbe067c] in any case.
+
+(4) Paragraphs (2) and (3) have effect subject to the following provisions.
+
+(5) Paragraph (3)(a) does not apply to costs in connection with burial of the deceased's ashes (where he was cremated).
+
+(6) All references to 80 kilometres shall be construed as applying to—
+
+- (a) in a case to which paragraph (3)(d) applies, the combined distance from the funeral director's premises or the deceased's place of rest to the place of death and of the return journey;
+- (b) in a case to which paragraph (3)(e) applies, the combined distance from the funeral director's premises or the deceased's place of rest to the funeral and of the return journey.
+
+(7) The cost of items and services referred to in paragraph (3)(a), (b), (d) and (e) shall not include any element in the cost of those items and services which relates to a requirement of the deceased's religious faith.
+
+(8) Paragraph (3)(e)(i) includes costs only to the extent that, together with the costs referred to under paragraph (3)(a)(ii), they do not exceed the costs which would have been incurred under—
+
+- (a) paragraph (3)(a)(i) and (ii), and
+- (b) where appropriate, paragraph (3)(e)(ii),
+
+if it had been necessary to purchase for the deceased a new burial plot with a right of burial in that plot, whether or not that right is exclusive[^key-6de95876a6661b3b228ba495ba8ed99e].
+
+(9) Paragraph (3)(f) includes costs only to the extent that they do not exceed the costs which would have been incurred in respect of a return journey from the home of the responsible person to the location where the necessary costs of a burial or, as the case may be, cremation referred to in paragraph (3)(a) or (b) would have been incurred.
+
+(10) Where items and services have been provided on the death of the deceased under a pre-paid funeral plan or under any analogous arrangement—
+
+- (a) no funeral payment shall be made in respect of items or services referred to in paragraph (3) which have been provided under such a plan or arrangement; and
+- (b) paragraph (3)(g) shall have effect in relation to that particular claim as if for the sum “£1,000[^key-317acfbccb8da1f8bd5c3c403f52fe35]", there were substituted the sum “£120”.
+
+### 10. Deductions from an award of a funeral payment
+
+(1) There shall be deducted from the amount of any award of funeral payment which would otherwise be payable—
+
+- (a) subject to paragraph (1A)[^key-d002b053804a0f0e67ff35bdc3efc31a] the amount of any assets of the deceased which are available to the responsible person (on application or otherwise) or any other member of his family without probate or letters of administration, or (in Scotland) confirmation, having been granted;
+- (b) the amount of any lump sum due to the responsible person or any other member of his family on the death of the deceased by virtue of any insurance policy, occupational pension scheme or burial club, or any analogous arrangement;
+- (c)[^key-f2e5d7eba59536aa4b850f794bb2d1a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) the amount of any funeral grant, made out of public funds, in respect of the death of a person who was entitled to a war disablement pension;
+- (e) in relation to a pre-paid funeral plan or any analogous arrangement—
+  - (i) where the plan or arrangement had not been paid for in full prior to the death of the deceased, the amount of any sum payable under that plan or arrangement in order to meet the deceased's funeral expenses;
+  - (ii) where the plan or arrangement had been paid for in full prior to the death of the deceased, the amount of any allowance paid under that plan or arrangement in respect of funeral expenses.
+
+(1A)[^key-1b94244cef24ba5a701f11820f0efe59] For the purposes of regulation 10(1)(a), arrears of the following benefits payable to the deceased as at the date of death are excluded from the assets of the deceased—
+
+- (a) attendance allowance under Part 3 of the Act;
+- (b)[^key-a8924e0fec162c728272684a22e29606] bereavement support payment under section 30 of the Pensions Act 2014;
+- (c) carer’s allowance under Part 3 of the Act;
+- (cza)[^key-80ec9b6d73b6e214bfd5bef4db2d81ea] carer’s allowance supplement under section 81 of the Social Security (Scotland) Act 2018;
+- (ca)[^key-8b6a4f695e4101cd9157bf11d6e1ccf5] carer support [^key-c96a4ab474f484a658e07693c1e945c3]... under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
+- (d) child benefit under Part 9 of the Act;
+- (e) child tax credit under section 8 of the Tax Credits Act 2002;
+- (f) council tax benefit under Part 7 of the Act;
+- (g) disability living allowance under Part 3 of the Act;
+- (h) employment and support allowance under—
+  - (i) Part 1 of the 2007 Act as amended by Schedule 3, and Part 1 of Schedule 14, to the 2012 Act (to remove references to an income-related allowance); or
+  - (ii) Part 1 of the 2007 Act as it has effect apart from the amendments made by Schedule 3, and Part 1 of Schedule 14, to the 2012 Act ;
+- (i) exceptionally severe disablement allowance under Part 5 of the Act;
+- (j) guardian’s allowance under Part 3 of the Act;
+- (k) housing benefit under Part 7 of the Act;
+- (l) incapacity benefit under Part 2 of the Act;
+- (m) income support under Part 7 of the Act;
+- (n) industrial death benefit under Part 5 of the Act;
+- (o) industrial injuries disablement benefit under Part 5 of the Act;
+- (p) jobseeker’s allowance under—
+  - (i) the 1995 Act as amended by Part 1 of Schedule 14 to the 2012 Act (to remove references to an income-based allowance); or
+  - (ii) the 1995 Act as it has effect apart from the amendments made by Part 1 of Schedule 14 to the 2012 Act ;
+- (q) maternity allowance under Part 2 of the Act;
+- (r) personal independence payment under Part 4 of the 2012 Act ;
+- (s) reduced earnings allowance under Part 5 of the Act;
+- (t) severe disablement allowance under Part 3 of the Act;
+- (u) state pension credit under section 1 of the State Pension Credit Act 2002;
+- (v) state retirement pension under Parts 2 or 3 of the Act;
+- (va)[^key-a444b89b43a9f8e58c6b343c6a855e41] a state pension under Part 1 of the Pensions Act 2014;
+- (w) universal credit under Part 1 of the 2012 Act ;
+- (x) war disablement pension under an instrument specified in section 639(2) of the Income Tax (Earnings and Pensions) Act 2003 in respect of the death or disablement of any person;
+- (y) war widow’s pension under an instrument specified in section 639(2) of the Income Tax (Earnings and Pensions) Act 2003 in respect of the death or disablement of any person;
+- (z) war widower’s pension under an instrument specified in section 639(2) of the Income Tax (Earnings and Pensions) Act 2003 in respect of the death or disablement of any person;
+- (aa) widowed mother’s allowance under Part 2 of the Act;
+- (bb) widowed parent’s allowance under Part 2 of the Act;
+- (cc) widow’s pension under Part 2 of the Act;
+- (dd) winter fuel payment under Part 8 of the Act;
+- (ee) working tax credit under section 10 of the Tax Credits Act 2002;[^key-1c5d257666630d85190182c85187e07b]
+- (eea) young carer grant under the Carer’s Assistance (Young Carer Grants) (Scotland) Regulations 2019;
+- (ff)[^key-a57ec33afc1df8906db6dfc4bd91bb96] armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011;[^key-33023a0837e8d5b6456284a846d237c1]
+- (gg) any disability assistance given in accordance with regulations made under section 31 of the Social Security (Scotland) Act 2018.
+
+(2)[^key-f8579cb0f7aa5ea98070675affc71a02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-b8aefa5f3101931e45629fb715620ed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+igned by authority of the Secretary of State for Work and Pensions
+
+James Plaskitt
+
+Parliamentary Under-Secretary of State,
+
+Department for Work and Pensions
+
+## SCHEDULE — Revocations
+
+Regulation 2
+
+| **Name of Regulations** | **S.I. Number** | **Extent of revocation** |
+| --- | --- | --- |
+| The Social Security (Care Homes and Independent Hospitals) Regulations 2005 | 2005/2687 | Regulation 10 |
+| The Social Fund Maternity and Funeral Expenses (General) Amendment Regulations 2004 | 2004/2536 | The whole Regulations |
+| The Social Security (Miscellaneous Amendments) ( No. 2) Regulations 2004 | 2004/1141 | Regulation 8 |
+| The Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) ( No. 3) Regulations 2003 | 2003/1731 | Regulation 6(6) |
+| The Social Fund Maternity and Funeral Expenses (General) Amendment ( No. 2) Regulations 2003 | 2003/1570 | The whole Regulations |
+| The Social Fund Maternity and Funeral Expenses (General) Amendment Regulations 2003 | 2003/471 | The whole Regulations |
+| The Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) Regulations 2003 | 2003/455 | Paragraph 2 of Schedule 4 |
+| The State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 | 2002/3019 | Regulation 31(1) and (2) |
+| The Social Fund (Miscellaneous Amendments) Regulations 2002 | 2002/2323 | Regulation 3 |
+| The Social Fund Maternity and Funeral Expenses (General) Amendment ( No. 2) Regulations 2002 | 2002/470 | The whole Regulations |
+| The Social Fund Maternity and Funeral Expenses (General) Amendment Regulations 2002 | 2002/79 | The whole Regulations |
+| The Social Fund Maternity and Funeral Expenses (General) Amendment Regulations 2001 | 2001/3023 | The whole Regulations |
+| The Social Security Amendment (Capital Disregards and Recovery of Benefits) Regulations 2001 | 2001/1118 | Regulation 3 |
+| The Social Fund Maternity and Funeral Expenses (General) Amendment Regulations 2000 | 2000/528 | The whole Regulations |
+| The Social Fund Maternity and Funeral Expenses (General) Amendment Regulations 1999 | 1999/3266 | The whole Regulations |
+| The Social Security and Child Support (Tax Credits) Consequential Amendments Regulations 1999 | 1999/2566 | The references to the Social Fund Maternity and Funeral Expenses (General) Regulations 1987 in Parts 1 and 2 of Schedule 2 |
+| The Social Fund Maternity and Funeral Expenses (General) Amendment Regulations 1997 | 1997/2538 | The whole Regulations |
+| The Social Security (Social Fund and Claims and Payments) (Miscellaneous Amendments) Regulations 1997 | 1997/792 | Regulations 1(2), 2 to 7 and 9 |
+| The Social Fund Maternity and Funeral Expenses (General) Amendment Regulations 1996 | 1996/1443 | The whole Regulations |
+| The Social Fund Maternity and Funeral Expenses (General) Amendment Regulations 1995 | 1995/1229 | The whole Regulations |
+| The Social Fund Maternity and Funeral Expenses (General) Amendment Regulations 1994 | 1994/506 | The whole Regulations |
+| The Social Fund Maternity and Funeral Expenses (General) Amendment Regulations 1992 | 1992/2149 | The whole Regulations |
+| The Social Fund (Miscellaneous Amendments) Regulations 1990 | 1990/580 | Regulations 5 to 7 |
+| The Social Fund Maternity and Funeral Expenses (General) Amendment Regulations 1989 | 1989/379 | The whole Regulations |
+| The Social Fund Maternity and Funeral Expenses (General) Amendment Regulations 1988 | 1988/36 | The whole Regulations |
+| The Social Fund Maternity and Funeral Expenses (General) Regulations 1987 | 1987/481 | The whole Regulations |
+
+*(This note is not part of the Regulations)*
+
+These Regulations revoke and replace, with a few minor changes, the Social Fund Maternity and Funeral Expenses (General) Regulations 1987 and provisions amending those Regulations. They make provisions under section 138(1)(a) of the Social Security Contributions and Benefits Act 1992 for payments to be made out of the social fund to meet maternity expenses and funeral expenses (referred to in the Regulations as “ **Sure Start Maternity Grants** ” and “funeral payments” respectively).
+
+In Part I, regulations 1 and 3 are formal and contain interpretation provisions. Regulation 2 revokes the 1987 Regulations and amending provisions. Regulation 4 provides that two payments shall not be made in respect of the same expenses.
+
+Part II deals with maternity payments. Regulation 5 prescribes the circumstances in which such payments are to be made and the appropriate amount. Regulation 6 sets out special rules on entitlement which apply to persons affected by a trade dispute.
+
+Part III makes provision for funeral payments. Regulations 7 and 8 set out the circumstances in which funeral payments are to be made. Regulation 9 prescribes how the amount of a funeral payment is to be arrived at. Regulation 10 prescribes certain deductions from such a payment.
+
+A regulatory impact assessment has not been produced for this instrument as it has no impact on the costs of business.
+
+## Annotations
+
+[^c1351409]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 138(4) is an interpretation provision and is cited because of the meaning ascribed to the word “prescribed”. Section 175(1) and (4) was amended by section 2 of, and Schedule 3, paragraph 29(1), (2) and (4) to, the [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^c1351410]: Marginal citation: *See* [section 173(1)(b)](https://www.legislation.gov.uk/uksi/2005/3061/section/173/1/b) of the [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^key-3ed983028b8386493aff9ac3602f686b]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2005/3061) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii), [16(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+
+[^key-91e5d55e9cf463efecf4b7bbced37573]: Textual amendment: Words in reg. 3(1) inserted (1.4.2013) by [The Social Fund (Maternity and Funeral Expenses) Amendment Regulations 2013 (S.I. 2013/247)](https://www.legislation.gov.uk/uksi/2013/247) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/247/regulation/1/2) , [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/247/regulation/2/2/a)
+
+[^key-4dfe94e70ec29da04bcd2331a6050e9d]: Textual amendment: Words in reg. 3(1) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554) , [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b) , [8(2)(a)(i)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/8/2/a/i)
+
+[^c1351411]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967) .
+
+[^c1351412]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207) .
+
+[^key-e086fde5eb7633feed50713eb957fdd3]: Textual amendment: Words in reg. 3(1) inserted (13.12.2010) by [Social Fund Maternity Grant Amendment Regulations 2010 (S.I. 2010/2760)](https://www.legislation.gov.uk/uksi/2010/2760) , [regs. 1](https://www.legislation.gov.uk/uksi/2010/2760/regulation/1) , [2(2)(b)](https://www.legislation.gov.uk/uksi/2010/2760/regulation/2/2/b)
+
+[^c1351413]: Marginal citation: Relevant amending instruments are [S.I. 1988/1445](https://www.legislation.gov.uk/uksi/1988/1445) and 2001/3070.
+
+[^c1351414]: Marginal citation: A relevant amending instrument is [S.I. 2001/3070](https://www.legislation.gov.uk/uksi/2001/3070) .
+
+[^key-fef724955de0d3bbb4fc2a506d78e13a]: Textual amendment: Words in reg. 3 substituted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2014/852/article/12/2)
+
+[^c1351415]: Marginal citation: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21) .
+
+[^key-b86acec29ef0bf799bd613dfe4003e07]: Textual amendment: Word in reg. 3(1) substituted (13.12.2010) by [Social Fund Maternity Grant Amendment Regulations 2010 (S.I. 2010/2760)](https://www.legislation.gov.uk/uksi/2010/2760) , [regs. 1](https://www.legislation.gov.uk/uksi/2010/2760/regulation/1) , [2(2)(a)](https://www.legislation.gov.uk/uksi/2010/2760/regulation/2/2/a)
+
+[^key-faed726cc9aee9c198218897a9ab6452]: Textual amendment: Words in reg. 3(1) substituted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/37)
+
+[^key-31ec60fd995643dbd2eb1e0d553c0021]: Textual amendment: Words in reg. 3(1) substituted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 26](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/26)
+
+[^key-6a6a05eabb5bea422272fa56f019c216]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2005/3061/regulation/3/1) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 81](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/81)
+
+[^key-085fddd552b774545b1a381795567d9d]: Textual amendment: Words in reg. 3(1) inserted (1.4.2013) by [The Social Fund (Maternity and Funeral Expenses) Amendment Regulations 2013 (S.I. 2013/247)](https://www.legislation.gov.uk/uksi/2013/247) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/247/regulation/1/2) , [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/247/regulation/2/2/b)
+
+[^key-ee3179a207581d1c81e8b09453350e99]: Textual amendment: Words in reg. 3(1) omitted (6.4.2017) by virtue of [The Social Fund (Amendment) Regulations 2017 (S.I. 2017/271)](https://www.legislation.gov.uk/uksi/2017/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/271/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2017/271/regulation/3/2)
+
+[^key-7fa841f5462fac6e555b915411495406]: Textual amendment: Words in reg. 3 omitted (2.4.2018) by virtue of [The Social Fund Funeral Expenses Amendment Regulations 2018 (S.I. 2018/61)](https://www.legislation.gov.uk/uksi/2018/61), [regs. 1](https://www.legislation.gov.uk/uksi/2018/61/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/61/regulation/4)
+
+[^c1351418]: Marginal citation: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18) . Section 1(4) was amended by section 59 of, and paragraph 2 of Schedule 7 to, the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) .
+
+[^key-3c9c08575c24f69a472fb5b2998041b8]: Textual amendment: Words in reg. 3(1) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554) , [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b) , [8(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/8/2/a/ii)
+
+[^c1351419]: Marginal citation: c. 48.
+
+[^key-2ea424267faadd09e20b508b3765caaf]: Textual amendment: Words in reg. 3(1) inserted by S.I. 2017/725, Sch. 5 para. 9(2)(a) (as inserted) (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(18)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)
+
+[^key-92cedef6a99dda09fcef23f15693589d]: Textual amendment: Words in reg. 3(1) inserted (1.4.2013) by [The Social Fund (Maternity and Funeral Expenses) Amendment Regulations 2013 (S.I. 2013/247)](https://www.legislation.gov.uk/uksi/2013/247) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/247/regulation/1/2) , [2(2)(c)](https://www.legislation.gov.uk/uksi/2013/247/regulation/2/2/c)
+
+[^key-16c75cc41d9269a234db58a3f86b42fc]: Textual amendment: Words in reg. 3(1) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/2)
+
+[^c1351420]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968) . [S.I. 1997/792](https://www.legislation.gov.uk/uksi/1997/792) is a relevant amending instrument.
+
+[^key-9c686f2fb5cada01a8fe837174673222]: Textual amendment: Words in reg. 3 omitted (22.4.2014) by virtue of [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2014/852/article/12/2)
+
+[^c1351421]: Marginal citation: [1926 c. 48](https://www.legislation.gov.uk/ukpga/1926/48) . Section 12 was amended by section 1 of the Still- [Birth (Definition) Act 1992 (c. 29)](https://www.legislation.gov.uk/ukpga/1992/29) .
+
+[^c1351422]: Marginal citation: [1965 c. 49](https://www.legislation.gov.uk/ukpga/1965/49) . Section 56(1) was amended by section 1 of the Still-Birth (Definition) Act 1992.
+
+[^key-f911182e76eeca992073c86afd917815]: Textual amendment: Words in reg. 3(1) inserted (1.4.2013) by [The Social Fund (Maternity and Funeral Expenses) Amendment Regulations 2013 (S.I. 2013/247)](https://www.legislation.gov.uk/uksi/2013/247) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/247/regulation/1/2) , [2(2)(d)](https://www.legislation.gov.uk/uksi/2013/247/regulation/2/2/d)
+
+[^key-afbc57b9150a5da60f9fb3be2d3935bb]: Textual amendment: Reg. 3(1A) inserted (13.12.2010) by [Social Fund Maternity Grant Amendment Regulations 2010 (S.I. 2010/2760)](https://www.legislation.gov.uk/uksi/2010/2760) , [regs. 1](https://www.legislation.gov.uk/uksi/2010/2760/regulation/1) , [2(3)](https://www.legislation.gov.uk/uksi/2010/2760/regulation/2/3)
+
+[^c1351423]: Marginal citation: [S.I. 2005/2687](https://www.legislation.gov.uk/uksi/2005/2687) is a relevant amending instrument.
+
+[^key-6e38ea0ffc27426ccaf0b594d724a982]: Textual amendment: Words in reg. 3(3) added (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554) , [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b) , [8(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/8/2/b)
+
+[^key-d45d29761641b699ca336dabb8cbc91e]: Textual amendment: Words in reg. 3(4)(a) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554) , [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b) , [8(2)(c)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/8/2/c)
+
+[^c1351424]: Marginal citation: Regulation 16(3)(c) was revoked by regulation 2(2) of, and paragraph 1 of Schedule 1 to, [S.I. 1992/3147](https://www.legislation.gov.uk/uksi/1992/3147) .
+
+[^key-c0a4741e49bd97b991bf26d3d9d37da9]: Textual amendment: Words in reg. 3(4)(b) inserted (1.4.2013) by [The Social Fund (Maternity and Funeral Expenses) Amendment Regulations 2013 (S.I. 2013/247)](https://www.legislation.gov.uk/uksi/2013/247) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/247/regulation/1/2) , [2(3)](https://www.legislation.gov.uk/uksi/2013/247/regulation/2/3)
+
+[^key-e8e419f3a9988d5c2ac5854b9a776527]: Textual amendment: Reg. 3(5) inserted by S.I. 2017/725, Sch. 5 para. 9(2)(b) (as inserted) (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(18)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)
+
+[^key-e4946fda71ce243e365220be003c8212]: Textual amendment: Regs. 3A, 4 substituted (13.12.2010) for reg. 4 by [Social Fund Maternity Grant Amendment Regulations 2010 (S.I. 2010/2760)](https://www.legislation.gov.uk/uksi/2010/2760) , [regs. 1](https://www.legislation.gov.uk/uksi/2010/2760/regulation/1) , [2(4)](https://www.legislation.gov.uk/uksi/2010/2760/regulation/2/4)
+
+[^key-9584729dfe4d25d6df85987ed7f49a2e]: Textual amendment: Words in reg. 3A(1)(b) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Social Security (Scotland) Act 2018 (Best Start Grants) (Consequential Modifications and Saving) Order 2018 (S.I. 2018/1138)](https://www.legislation.gov.uk/uksi/2018/1138), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2018/1138/article/3/2/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1138/regulation/4))
+
+[^key-ea9d33e466c6663d291f27ee729f83a8]: Textual amendment: Reg. 3A(1)(c)(d) substituted for reg. 3A(1)(c) (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Social Security (Scotland) Act 2018 (Best Start Grants) (Consequential Modifications and Saving) Order 2018 (S.I. 2018/1138)](https://www.legislation.gov.uk/uksi/2018/1138), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2018/1138/article/3/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1138/regulation/4))
+
+[^key-1cc32bd8a4a7e62c0b74356b69da67c5]: Textual amendment: Word in reg. 3A(2) substituted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Social Security (Scotland) Act 2018 (Best Start Grants) (Consequential Modifications and Saving) Order 2018 (S.I. 2018/1138)](https://www.legislation.gov.uk/uksi/2018/1138), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2018/1138/article/3/2/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1138/regulation/4))
+
+[^key-9a2183bdf855216a2a3fdb693078d8e3]: Textual amendment: Word in reg. 3A(3) substituted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Social Security (Scotland) Act 2018 (Best Start Grants) (Consequential Modifications and Saving) Order 2018 (S.I. 2018/1138)](https://www.legislation.gov.uk/uksi/2018/1138), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2018/1138/article/3/2/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1138/regulation/4))
+
+[^key-bab3024b6e11321f21cc1cdd7093556f]: Textual amendment: Words in reg. 3A(6)(c) substituted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [12(3)](https://www.legislation.gov.uk/uksi/2014/852/article/12/3)
+
+[^key-b9b21e432cd85d5ce6e817206a1220ba]: Textual amendment: Words in reg. 4(1) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Social Security (Scotland) Act 2018 (Funeral Expense Assistance and Early Years Assistance) (Consequential Modifications and Savings) Order 2019 (S.I. 2019/1060)](https://www.legislation.gov.uk/uksi/2019/1060), [art. 3(2)](https://www.legislation.gov.uk/uksi/2019/1060/article/3/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2019/1060/article/4))
+
+[^key-c973163eedd1939efcd38d2278ecf262]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2005/3061/regulation/4/3) inserted (23.7.2019) by [The Social Fund (Childrens Funeral Fund for England) Regulations 2019 (S.I. 2019/1064)](https://www.legislation.gov.uk/uksi/2019/1064), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1064/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/1064/regulation/7/2)
+
+[^key-d40ca2217677873806fafa3bec9fdde7]: Textual amendment: Words in Pt. II heading inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Social Security (Scotland) Act 2018 (Best Start Grants) (Consequential Modifications and Saving) Order 2018 (S.I. 2018/1138)](https://www.legislation.gov.uk/uksi/2018/1138), [art. 3(3)](https://www.legislation.gov.uk/uksi/2018/1138/article/3/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1138/regulation/4))
+
+[^key-5540421715f609d114cb2d6fe78f5738]: Textual amendment: Reg. 4A inserted (24.1.2011) by [Social Fund Maternity Grant Amendment Regulations 2011 (S.I. 2011/100)](https://www.legislation.gov.uk/uksi/2011/100), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/100/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/100/regulation/2/2)
+
+[^key-3b7e3262464000d4261e2c36919eb40a]: Textual amendment: Words in reg. 4A(4)(a) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [art. 10](https://www.legislation.gov.uk/uksi/2017/901/article/10), [reg. 1](https://www.legislation.gov.uk/uksi/2017/901/regulation/1)
+
+[^key-8b32a5d4d484947bd9062dab7c2c3392]: Textual amendment: Reg. 5 substituted (13.12.2010) by [Social Fund Maternity Grant Amendment Regulations 2010 (S.I. 2010/2760)](https://www.legislation.gov.uk/uksi/2010/2760), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2760/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2010/2760/regulation/2/5)
+
+[^key-7e661655ae021cece7075d63e1f6be04]: Textual amendment: Words in reg. 5(1) substituted (24.1.2011) by [Social Fund Maternity Grant Amendment Regulations 2011 (S.I. 2011/100)](https://www.legislation.gov.uk/uksi/2011/100), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/100/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2011/100/regulation/2/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/100/regulation/3))
+
+[^key-195857a21a6f8b3d4f5c84da0321d5c3]: Textual amendment: Words in reg. 5(2)(e) substituted (6.4.2017) by [The Social Fund (Amendment) Regulations 2017 (S.I. 2017/271)](https://www.legislation.gov.uk/uksi/2017/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/271/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2017/271/regulation/3/3)
+
+[^key-df0567effd26a516d2133d0dce36bbbd]: Textual amendment: Word in reg. 5(2) omitted (1.4.2013) by virtue of [The Social Fund (Maternity and Funeral Expenses) Amendment Regulations 2013 (S.I. 2013/247)](https://www.legislation.gov.uk/uksi/2013/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/247/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2013/247/regulation/2/4/a)
+
+[^key-a9bdd3b3263356fffcf9a71c552c75cc]: Textual amendment: Word in reg. 5(2) omitted by S.I. 2017/725, Sch. 5 para. 9(3)(a) (as inserted) (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(18)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)
+
+[^key-3d8c630e7b5a601f67515ce7a023dfef]: Textual amendment: Reg. 5(2)(g) added (1.4.2013) by [The Social Fund (Maternity and Funeral Expenses) Amendment Regulations 2013 (S.I. 2013/247)](https://www.legislation.gov.uk/uksi/2013/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/247/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2013/247/regulation/2/4/b)
+
+[^key-4374ba2f1e694d515b99ef5cec59c1a3]: Textual amendment: Reg. 5(2)(h) inserted by S.I. 2017/725, Sch. 5 para. 9(3)(b) (as inserted) (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(18)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)
+
+[^key-8c9796e37f6e5f07c218f772a5c9c030]: Textual amendment: Reg. 5(3)(b) substituted (24.1.2011) by [Social Fund Maternity Grant Amendment Regulations 2011 (S.I. 2011/100)](https://www.legislation.gov.uk/uksi/2011/100), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/100/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2011/100/regulation/2/3/b)
+
+[^key-e0665a7e79455330936ed5b24a2b65fb]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/uksi/2005/3061/regulation/5/4) omitted (8.6.2023) by virtue of [The Social Fund Maternity and Funeral Expenses (General) and Social Security (Claims and Payments) (Amendment) Regulations 2023 (S.I. 2023/545)](https://www.legislation.gov.uk/uksi/2023/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/545/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/545/regulation/3/2/a)
+
+[^key-4ead87d5d69df2103ab85d722665c5b4]: Textual amendment: Word in [reg. 5(5)](https://www.legislation.gov.uk/uksi/2005/3061/regulation/5/5) substituted (8.6.2023) by [The Social Fund Maternity and Funeral Expenses (General) and Social Security (Claims and Payments) (Amendment) Regulations 2023 (S.I. 2023/545)](https://www.legislation.gov.uk/uksi/2023/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/545/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/545/regulation/3/2/b)
+
+[^key-826e17943d19a5a8704ffc595bd22d6d]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/2005/3061/regulation/5/6) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Social Security (Scotland) Act 2018 (Best Start Grants) (Consequential Modifications and Saving) Order 2018 (S.I. 2018/1138)](https://www.legislation.gov.uk/uksi/2018/1138), [art. 3(4)](https://www.legislation.gov.uk/uksi/2018/1138/article/3/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1138/regulation/4))
+
+[^key-2348643036a2f796e6c883293dce7d1b]: Textual amendment: Word in [reg. 5(6)](https://www.legislation.gov.uk/uksi/2005/3061/regulation/5/6) substituted (8.6.2023) by [The Social Fund Maternity and Funeral Expenses (General) and Social Security (Claims and Payments) (Amendment) Regulations 2023 (S.I. 2023/545)](https://www.legislation.gov.uk/uksi/2023/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/545/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2023/545/regulation/3/2/c)
+
+[^key-4cd6ccdef965f63a3ac6fe841ae0d9ae]: Textual amendment: Reg. 5A substituted (13.8.2012) by [The Social Fund Maternity Grant Amendment Regulations 2012 (S.I. 2012/1814)](https://www.legislation.gov.uk/uksi/2012/1814), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1814/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/1814/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/1814/regulation/3))
+
+[^key-2a4b92b8b70d854ea869e1f62d517ab0]: Textual amendment: Reg. 5A(3)(d) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/3/2)
+
+[^key-4c45dca9cfe8241176dd6253985ad265]: Textual amendment: [Reg. 5A(8)-(10)](https://www.legislation.gov.uk/uksi/2005/3061/regulation/5A/8) inserted (E.W.) (8.6.2023) by [The Social Fund Maternity and Funeral Expenses (General) and Social Security (Claims and Payments) (Amendment) Regulations 2023 (S.I. 2023/545)](https://www.legislation.gov.uk/uksi/2023/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/545/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2023/545/regulation/3/3)
+
+[^key-29f5333a1dc8b64e44e426ef99859d4c]: Textual amendment: Words in reg. 6(1)(b)(ii) substituted (6.4.2017) by [The Social Fund (Amendment) Regulations 2017 (S.I. 2017/271)](https://www.legislation.gov.uk/uksi/2017/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/271/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2017/271/regulation/3/3)
+
+[^key-792f9c174ea842f82356b8171b32a795]: Textual amendment: Words in [Pt. III](https://www.legislation.gov.uk/uksi/2005/3061/part/III) heading inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Social Security (Scotland) Act 2018 (Funeral Expense Assistance and Early Years Assistance) (Consequential Modifications and Savings) Order 2019 (S.I. 2019/1060)](https://www.legislation.gov.uk/uksi/2019/1060), [art. 3(3)](https://www.legislation.gov.uk/uksi/2019/1060/article/3/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2019/1060/article/4))
+
+[^key-b57ffb50743379107b2e7f339c6ce85c]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2005/3061/regulation/7/2) substituted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Social Security (Scotland) Act 2018 (Funeral Expense Assistance and Early Years Assistance) (Consequential Modifications and Savings) Order 2019 (S.I. 2019/1060)](https://www.legislation.gov.uk/uksi/2019/1060), [art. 3(4)(a)](https://www.legislation.gov.uk/uksi/2019/1060/article/3/4/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2019/1060/article/4))
+
+[^key-105afa82a1465ea13692e539851e683a]: Textual amendment: Words in reg. 7(4)(a)(v) substituted (6.4.2017) by [The Social Fund (Amendment) Regulations 2017 (S.I. 2017/271)](https://www.legislation.gov.uk/uksi/2017/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/271/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2017/271/regulation/3/3)
+
+[^key-78173de169abbe482402170fb39b615c]: Textual amendment: Word in reg. 7(4)(a)(vi) omitted (27.10.2008) by virtue of [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [8(4)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/8/4/a)
+
+[^key-85244dd73f82f3eaa52964ba7b1e0a36]: Textual amendment: Reg. 7(4)(a)(vii) omitted (1.4.2013) by virtue of [The Social Fund (Maternity and Funeral Expenses) Amendment Regulations 2013 (S.I. 2013/247)](https://www.legislation.gov.uk/uksi/2013/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/247/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2013/247/regulation/2/5/a)
+
+[^key-6bd89ab84300bcaabf0e4ee47bfdab9c]: Textual amendment: Reg. 7(4)(a)(viii) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [8(4)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/8/4/b)
+
+[^key-ec052595546438f1f08e5a405ba53b97]: Textual amendment: Word in reg. 7(4)(a) omitted by S.I. 2017/725, Sch. 5 para. 9(4)(a) (as inserted) (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(18)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)
+
+[^key-b1a6de265df6881a45d783da59ceaf8b]: Textual amendment: Reg. 7(4)(a)(ix) added (1.4.2013) by [The Social Fund (Maternity and Funeral Expenses) Amendment Regulations 2013 (S.I. 2013/247)](https://www.legislation.gov.uk/uksi/2013/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/247/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2013/247/regulation/2/5/b)
+
+[^key-65d9eb47a60b426f63a2b5f4a674decf]: Textual amendment: Reg. 7(4)(a)(x) inserted by S.I. 2017/725, Sch. 5 para. 9(4)(b) (as inserted) (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(18)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)
+
+[^key-f8aae28ae438f82c2f368d18dd27d6b9]: Textual amendment: Reg. 7(4)(b) omitted (1.4.2013) by virtue of [The Social Fund (Maternity and Funeral Expenses) Amendment Regulations 2013 (S.I. 2013/247)](https://www.legislation.gov.uk/uksi/2013/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/247/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2013/247/regulation/2/5/c)
+
+[^key-0758b9cdca6b1d7320bf9310bc92a083]: Textual amendment: Words in [reg. 7(9)(a)](https://www.legislation.gov.uk/uksi/2005/3061/regulation/7/9/a) substituted (E.W.) (15.2.2021) by [The Social Fund Funeral Expenses Payment (Amendment) Regulations 2021 (S.I. 2021/65)](https://www.legislation.gov.uk/uksi/2021/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/65/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/65/regulation/2/2)
+
+[^key-cc330a52463d649aa36b844763d3cf0c]: Textual amendment: [Reg. 7(9A)](https://www.legislation.gov.uk/uksi/2005/3061/regulation/7/9A) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Social Security (Scotland) Act 2018 (Funeral Expense Assistance and Early Years Assistance) (Consequential Modifications and Savings) Order 2019 (S.I. 2019/1060)](https://www.legislation.gov.uk/uksi/2019/1060), [art. 3(4)(b)](https://www.legislation.gov.uk/uksi/2019/1060/article/3/4/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2019/1060/article/4))
+
+[^key-2ffa6c6eb7f221dc7c59bdc7a105c555]: Textual amendment: [Reg. 7(10)](https://www.legislation.gov.uk/uksi/2005/3061/regulation/7/10) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [62(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/62/2/a)
+
+[^key-47d9f60445f1a681dce5471a92abdb91]: Textual amendment: [Reg. 7(11)](https://www.legislation.gov.uk/uksi/2005/3061/regulation/7/11) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [62(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/62/2/b)
+
+[^key-cc309d7a4cd52da090d3a706338c560d]: Textual amendment: Reg. 8(2)(b) substituted (10.4.2006) by [Social Security (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/588)](https://www.legislation.gov.uk/uksi/2006/588), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2006/588/regulation/1/7), [6](https://www.legislation.gov.uk/uksi/2006/588/regulation/6)
+
+[^key-807e5ff3b94a848335e56fc2539221e8]: Textual amendment: Reg. 8(2)(bb) inserted (1.4.2013) by [The Social Fund (Maternity and Funeral Expenses) Amendment Regulations 2013 (S.I. 2013/247)](https://www.legislation.gov.uk/uksi/2013/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/247/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2013/247/regulation/2/6)
+
+[^c1351432]: Marginal citation: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^key-01e491d1c66e202ce112f2c7798116f2]: Textual amendment: Reg. 8(2)(ff) inserted (2.4.2018) by [The Social Fund Funeral Expenses Amendment Regulations 2018 (S.I. 2018/61)](https://www.legislation.gov.uk/uksi/2018/61), [regs. 1](https://www.legislation.gov.uk/uksi/2018/61/regulation/1), [5](https://www.legislation.gov.uk/uksi/2018/61/regulation/5)
+
+[^c1351433]: Marginal citation: [S.I. 1975/555](https://www.legislation.gov.uk/uksi/1975/555); the relevant amending instrument is [S.I. 1992/2595](https://www.legislation.gov.uk/uksi/1992/2595).
+
+[^c1351434]: Marginal citation: S.R. [1975 No. 109](https://www.legislation.gov.uk/ukcm/1975/109) (N.I.); the relevant amending instrument is S.R. [1992 No. 453](https://www.legislation.gov.uk/ukcm/1992/453).
+
+[^key-7233112fe542c310cc484de1e66ccafa]: Textual amendment: Reg. 9(3)(a)(i) substituted (2.4.2018) by [The Social Fund Funeral Expenses Amendment Regulations 2018 (S.I. 2018/61)](https://www.legislation.gov.uk/uksi/2018/61), [regs. 1](https://www.legislation.gov.uk/uksi/2018/61/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2018/61/regulation/6/a)
+
+[^key-05a9d46c83bca28a2e31ee8d629c24a7]: Textual amendment: Word in [reg. 9(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2005/3061/regulation/9/3/a/ii) substituted (9.7.2020) by [The Social Fund and Social Security (Claims and Payments) (Amendment) Regulations 2020 (S.I. 2020/600)](https://www.legislation.gov.uk/uksi/2020/600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/600/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/600/regulation/2/2)
+
+[^key-00dca48a7275313ed95fbe0b37dc77c7]: Textual amendment: Reg. 9(3)(b)(ii)(iii) omitted (2.4.2018) by virtue of [The Social Fund Funeral Expenses Amendment Regulations 2018 (S.I. 2018/61)](https://www.legislation.gov.uk/uksi/2018/61), [regs. 1](https://www.legislation.gov.uk/uksi/2018/61/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2018/61/regulation/6/b)
+
+[^c1351435]: Marginal citation: [S.I. 1992/3146](https://www.legislation.gov.uk/uksi/1992/3146).
+
+[^key-4d8314a1c8163a2c608aa7fe44d49f04]: Textual amendment: Reg. 9(3)(ba) inserted (2.4.2018) by [The Social Fund Funeral Expenses Amendment Regulations 2018 (S.I. 2018/61)](https://www.legislation.gov.uk/uksi/2018/61), [regs. 1](https://www.legislation.gov.uk/uksi/2018/61/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2018/61/regulation/6/c)
+
+[^key-95d4f2d720d8f884cc9153808cbe067c]: Textual amendment: Sum in reg. 9(3)(g) substituted (8.4.2020) by [The Social Fund Funeral Expenses Payment (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/405)](https://www.legislation.gov.uk/uksi/2020/405), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/405/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/405/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/405/regulation/3))
+
+[^key-6de95876a6661b3b228ba495ba8ed99e]: Textual amendment: Words in reg. 9(8) substituted (2.4.2018) by [The Social Fund Funeral Expenses Amendment Regulations 2018 (S.I. 2018/61)](https://www.legislation.gov.uk/uksi/2018/61), [regs. 1](https://www.legislation.gov.uk/uksi/2018/61/regulation/1), [6(d)](https://www.legislation.gov.uk/uksi/2018/61/regulation/6/d)
+
+[^key-317acfbccb8da1f8bd5c3c403f52fe35]: Textual amendment: Sum in reg. 9(10)(b) substituted (8.4.2020) by [The Social Fund Funeral Expenses Payment (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/405)](https://www.legislation.gov.uk/uksi/2020/405), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/405/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/405/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/405/regulation/3))
+
+[^key-d002b053804a0f0e67ff35bdc3efc31a]: Textual amendment: Words in reg. 10(1)(a) inserted (1.4.2013) by [The Social Fund (Maternity and Funeral Expenses) Amendment Regulations 2013 (S.I. 2013/247)](https://www.legislation.gov.uk/uksi/2013/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/247/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2013/247/regulation/2/7)
+
+[^key-f2e5d7eba59536aa4b850f794bb2d1a4]: Textual amendment: Reg. 10(1)(c) omitted (2.4.2018) by virtue of [The Social Fund Funeral Expenses Amendment Regulations 2018 (S.I. 2018/61)](https://www.legislation.gov.uk/uksi/2018/61), [regs. 1](https://www.legislation.gov.uk/uksi/2018/61/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/61/regulation/7)
+
+[^key-1b94244cef24ba5a701f11820f0efe59]: Textual amendment: Reg. 10(1A) inserted (1.4.2013) by [The Social Fund (Maternity and Funeral Expenses) Amendment Regulations 2013 (S.I. 2013/247)](https://www.legislation.gov.uk/uksi/2013/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/247/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2013/247/regulation/2/8)
+
+[^key-a8924e0fec162c728272684a22e29606]: Textual amendment: Reg. 10(1A)(b) substituted (6.4.2017 coming into force in accordance with art. 1-3) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [24](https://www.legislation.gov.uk/uksi/2017/422/article/24)
+
+[^key-80ec9b6d73b6e214bfd5bef4db2d81ea]: Textual amendment: [Reg. 10(1A)(cza)](https://www.legislation.gov.uk/uksi/2005/3061/regulation/10/1A/cza) inserted (16.7.2026) by [The Social Security (Scotland) Act 2018 (Disability and Carer Benefits) (Consequential Amendments) Order 2026 (S.I. 2026/679)](https://www.legislation.gov.uk/uksi/2026/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/679/article/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2026/679/article/5/a)
+
+[^key-8b6a4f695e4101cd9157bf11d6e1ccf5]: Textual amendment: [Reg. 10(1A)(ca)](https://www.legislation.gov.uk/uksi/2005/3061/regulation/10/1A/ca) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [16](https://www.legislation.gov.uk/uksi/2023/1218/article/16)
+
+[^key-c96a4ab474f484a658e07693c1e945c3]: Textual amendment: Word in [reg. 10(1A)(ca)](https://www.legislation.gov.uk/uksi/2005/3061/regulation/10/1A/ca) omitted (15.3.2026) by virtue of [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [19](https://www.legislation.gov.uk/uksi/2026/246/article/19)
+
+[^key-a444b89b43a9f8e58c6b343c6a855e41]: Textual amendment: Reg. 10(1A)(va) inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [27](https://www.legislation.gov.uk/uksi/2015/1985/article/27)
+
+[^key-1c5d257666630d85190182c85187e07b]: Textual amendment: [Reg. 10(1A)(eea)](https://www.legislation.gov.uk/uksi/2005/3061/regulation/10/1A/eea) inserted (16.7.2026) by [The Social Security (Scotland) Act 2018 (Disability and Carer Benefits) (Consequential Amendments) Order 2026 (S.I. 2026/679)](https://www.legislation.gov.uk/uksi/2026/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/679/article/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2026/679/article/5/b)
+
+[^key-a57ec33afc1df8906db6dfc4bd91bb96]: Textual amendment: Reg. 10(1A)(ff) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591) , [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2) , [Sch. para. 32(2)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/32/2)
+
+[^key-33023a0837e8d5b6456284a846d237c1]: Textual amendment: [Reg. 10(1A)(gg)](https://www.legislation.gov.uk/uksi/2005/3061/regulation/10/1A/gg) and semi-colon inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2024/919/article/10/2)
+
+[^key-f8579cb0f7aa5ea98070675affc71a02]: Textual amendment: Reg. 10(2) omitted (2.4.2018) by virtue of [The Social Fund Funeral Expenses Amendment Regulations 2018 (S.I. 2018/61)](https://www.legislation.gov.uk/uksi/2018/61), [regs. 1](https://www.legislation.gov.uk/uksi/2018/61/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/61/regulation/7)
+
+[^key-b8aefa5f3101931e45629fb715620ed8]: Textual amendment: Reg. 10(3) omitted (2.4.2018) by virtue of [The Social Fund Funeral Expenses Amendment Regulations 2018 (S.I. 2018/61)](https://www.legislation.gov.uk/uksi/2018/61), [regs. 1](https://www.legislation.gov.uk/uksi/2018/61/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/61/regulation/7)

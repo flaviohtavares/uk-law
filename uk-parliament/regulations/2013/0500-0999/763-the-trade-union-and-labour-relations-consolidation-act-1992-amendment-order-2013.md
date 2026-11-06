@@ -1,0 +1,102 @@
+---
+title: The Trade Union and Labour Relations (Consolidation) Act 1992 (Amendment) Order 2013
+id: uksi/2013/763
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2013-03-27'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2013/763
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/763/pdfs/uksiem_20130763_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/763/pdfs/uksi_20130763_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/763/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Trade Union and Labour Relations (Consolidation) Act 1992 (Amendment) Order 2013
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2013 No. 763
+
+Terms And Conditions Of Employment
+
+The Trade Union and Labour Relations (Consolidation) Act 1992 (Amendment) Order 2013
+
+Made
+
+27th March 2013
+
+Coming into force
+
+6th April 2013
+
+The Secretary of State makes this Order in exercise of the powers conferred by sections 197(1)(a) and 286(2) of the Trade Union and Labour Relations (Consolidation) Act 1992[^f00001].
+
+In accordance with sections 197(2) and 286(4) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation and commencement
+
+This Order may be cited as the Trade Union and Labour Relations (Consolidation) Act 1992 (Amendment) Order 2013 and comes into force on 6th April 2013.
+
+## 2. Application
+
+(1) The amendments made by paragraphs (2) and (3) of article 3 below apply to proposals to dismiss as redundant 100 or more employees at one establishment within a period of 90 days or less which are made on or after 6th April 2013.
+
+(2) The amendment made by paragraph (4) of article 3 below applies to proposals to dismiss as redundant 20 or more employees at one establishment within a period of 90 days or less which are made on or after 6th April 2013.
+
+## 3. Amendments to the Trade Union and Labour Relations (Consolidation) Act 1992
+
+(1) The Trade Union and Labour Relations (Consolidation) Act 1992[^f00002] is amended as follows.
+
+(2) In section 188 (length of period between beginning of consultation and the first dismissal taking effect), in paragraph (a) of subsection (1A), for “90 days” substitute “45 days”.
+
+(3) In section 193 (length of period between notifying the Secretary of State and the first dismissal taking effect), in paragraph (b) of subsection (1), for “90 days” substitute “45 days”.
+
+(4) For section 282 (short term employment), substitute—
+
+> **282. Fixed term employment**
+>
+> (1) In this section, “fixed term contract” means a contract of employment that, under its provisions determining how it will terminate in the normal course, will terminate—
+>
+> - (a) on the expiry of a specific term,
+> - (b) on the completion of a particular task, or
+> - (c) on the occurrence or non-occurrence of any other specific event other than the attainment by the employee of any normal and bona fide retiring age in the establishment for an employee holding the position held by him.
+>
+> (2) The provisions of Chapter II of Part IV (procedure for handling redundancies) do not apply to employment under a fixed term contract unless—
+>
+> - (a) the employer is proposing to dismiss the employee as redundant; and
+> - (b) the dismissal will take effect before the expiry of the specific term, the completion of the particular task or the occurrence or non-occurrence of the specific event (as the case may be).
+
+.
+
+Jo Swinson
+
+Parliamentary Under Secretary of State for Employment Relations and Consumer Affairs
+
+Department for Business, Innovation and Skills
+
+27th March 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order relates to the implementation of Council Directive [1998/59/EC](https://www.legislation.gov.uk/european/directive/1998/0059) on the approximation of the laws of the Member States relating to collective redundancies (“the Directive”). It amends provisions relating to collective redundancies in the Trade Union and Labour Relations (Consolidation) Act 1992 (“the 1992 Act”).
+
+Article 3 amends the 1992 Act. Paragraph (2) amends section 188 to reduce from 90 to 45 the minimum number of days which must elapse before the first dismissal can take effect in cases where the employer is proposing to dismiss 100 or more employees as redundant within a period of 90 days or less. Paragraph (3) amends section 193 to reduce from 90 to 45 days the minimum period of notice before the first dismissal takes effect which the employer must give to the Secretary of State in cases where the employer is proposing to dismiss 100 or more employees as redundant within a period of 90 days or less.
+
+Paragraph (4) amends section 282 to exclude the expiry of fixed term contracts from the provisions dealing with collective redundancies in the 1992 Act. The expiry of a fixed term contract will not be excluded from the provisions dealing with collective redundancies if the employer is proposing to dismiss the employee as redundant (as defined in section 195) and the dismissal will take effect before the point at which it was agreed in the contract that it would expire. This point could be on the expiry of a specific period of time. Alternatively, it could be on the completion of a particular task such as a research project or on the occurrence (or non-occurrence) of an event such as external funding for a particular role coming to an end.
+
+An impact assessment of the effect that this instrument will have on the costs to business and the voluntary sector are attached to the Explanatory Memorandum which is available alongside the instrument on www.legislation.gov.uk. Copies have also been placed in the Libraries of both Houses of Parliament.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c.52](https://www.legislation.gov.uk/ukpga/1992/52).
+
+[^f00002]: Footnote: [1992 c.52](https://www.legislation.gov.uk/ukpga/1992/52); section 188(1A) was inserted by [S.I. 1995/2587](https://www.legislation.gov.uk/uksi/1995/2587). Section 193(1) was inserted by [S.I. 2006/2387](https://www.legislation.gov.uk/uksi/2006/2387). Section 282(2) was inserted by section 240 of and paragraph 56 of Schedule 1 to the Employment Rights Act [1996 (c.18)](https://www.legislation.gov.uk/ukpga/1996/18)

@@ -1,0 +1,403 @@
+---
+title: The Excise Goods (Export Shops) Regulations 2000
+id: uksi/2000/645
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2000-03-08'
+text_date: '2024-12-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2000/645
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/645/pdfs/uksi_20000645_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/645/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Excise Goods (Export Shops) Regulations 2000
+
+> Text as at 2024-12-23.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2000 No. 645
+
+CUSTOMS AND EXCISE
+
+The Excise Goods (Export Shops) Regulations 2000
+
+Made
+
+8th March 2000
+
+Laid before Parliament
+
+9th March 2000
+
+Coming into force
+
+1st April 2000
+
+The Commissioners of Customs and Excise, in exercise of the powers conferred upon them by sections 93(1), (2)(a), and (3), 100G and 100H of the Customs and Excise Management Act 1979[^f00001], section 1 of the Finance (No. 2) Act 1992[^f00002] and of all other powers enabling them in that behalf, hereby make the following regulations:[^M_C_377e94b5-c935-4dbb-a778-ce825ca6a4b3]
+
+## PART I — PRELIMINARY
+
+### 1. Citation and commencement[^key-a1200aff61c52247f97fa0cdd8a3853a]
+
+These Regulations may be cited as the Excise Goods (Export Shops) Regulations 2000 and shall come into force on 1st April 2000.
+
+### 2. Application[^key-9c1f063ccce30b3102c2587dc6f31307]
+
+(1) These Regulations apply to any excise warehouse from which excise goods may be supplied to entitled passengers without payment of excise duty.
+
+(2) An excise warehouse to which these Regulations apply shall be known as an “export shop”.
+
+### 3. Interpretation[^key-ebf9fa5388e93737d9931920e30b540e]
+
+In these Regulations–
+
+- “the 1988 Regulations” means the Excise Warehousing (Etc.) Regulations 1988[^f00003];
+- “the 1999 Regulations” means the Warehousekeepers and Owners of Warehoused Goods Regulations 1999[^f00004];
+- “authorized warehousekeeper” has the meaning given in the 1999 Regulations;
+- “entitled passenger” means a person holding a relevant transport document who is travelling to their destination from or via the port, airport or international railway station or terminal where the export shop is situated.[^key-423c01dbe61e5a7ba3fd96ae9a30fcf6]
+- “excise goods” means goods, other than hydrocarbon oil[^f00006], of a class or description subject to any duty of excise;
+- “export shop” has the meaning given in regulation 2 above;
+- “international railway journey” means a journey on board a railway vehicle from Great Britain to any other country or territory;[^key-ce80a6d457b5b95c8b37af52b5d99840]
+- “international railway station or terminal” means a railway station or rail terminal from which an international railway journey may be made and includes the terminal area at Folkestone serving the tunnel linking England and France;
+- “passenger” means a person holding a transport document for travel by sea, air or rail who intends to travel from the port, airport or international railway station or terminal where the export shop is situated;[^key-cef2ffc27f778f87b3c3b352eeacc10c]
+- “relevant transport document” means a transport document for a voyage, flight or international railway journey to a destination outside the United Kingdom, other than the Isle of Man, but does not include a transport document for a journey from a port, airport or international railway station or terminal in Northern Ireland to a destination in the European Union to which Council Directive 2008/118 EC applies.[^key-bcd35b64c4af3fb8a67d891777fad52a]
+
+## PART II — AUTHORIZED WAREHOUSEKEEPERS
+
+### 4. Conditions[^key-56ba4fec5516bb48a181845ebaa39433]
+
+(1) In any case where the Commissioners approve the occupier of an export shop as an authorized warehousekeeper the following additional conditions shall apply.
+
+(2) The authorized warehousekeeper shall give the Commissioners not less than thirty days notice in writing of his intention to cease using any excise warehouse he occupies as an export shop.
+
+(3) Where it is impracticable to give thirty days notice of intention to cease using any excise warehouse as an export shop the authorized warehousekeeper shall give such notice as is reasonably practicable.
+
+### 5. Revocation[^key-2a6838264cc9690acab5315c8114777c]
+
+Without prejudice to regulation 4 of the 1999 Regulations, if the Commissioners are notified that an authorized warehousekeeper intends to cease using any excise warehouse as an export shop they shall–
+
+- (a) if the authorized warehousekeeper will no longer occupy any excise warehouse, revoke his approval and registration as an authorized warehousekeeper with effect from the date upon which he intends to cease using his excise warehouse as an export shop, or
+- (b) in any other case, revoke with effect from that date his approval and registration as an authorized warehousekeeper in respect of the excise warehouse that he intends to cease using as an export shop.
+
+## PART III — EXPORT SHOPS
+
+### 6. Application of the 1988 Regulations[^key-e217925fbbd04f2bc1838145b4c1a896]
+
+The following provisions of the 1988 Regulations shall not apply to export shops–
+
+- paragraph (6) of regulation 11;
+- paragraph (5)(a) of regulation 12;
+- regulations 13 and 14;
+- paragraphs (a), (b), (e) and (f) of regulation 15;
+- regulation 16;
+- except for paragraph (4), regulation 17;
+- regulations 18 and 19;
+- paragraph (2) of regulation 21;
+- paragraph (2) of regulation 22;
+- regulations 26 and 27;
+- paragraph (1) of regulation 29;
+- Schedule 1;
+- paragraph (h) in Schedule 2;
+- Schedule 3.
+
+### 7. Storage of excise goods[^key-e7da4924e7ad863221442cdcc90a6826]
+
+(1) The authorized warehousekeeper shall clearly identify and differentiate any excise goods that he intends to supply to passengers who are not entitled passengers from those excise goods that he intends to supply to entitled passengers.
+
+(2) If the Commissioners notify an authorized warehousekeeper in writing that they are satisfied that the supplies of excise goods he intends to make at a port, airport or international railway station or terminal[^key-e057dd7d4a46bb968958e518355e23f9] will predominantly be to entitled passengers he shall not be required to comply with paragraph (1) above in relation to excise goods in any export shop he occupies at that port, airport or international railway station or terminal.
+
+(3) Any notification given in accordance with paragraph (2) above shall not apply to excise goods of any class or description specified in a notice published by the Commissioners and not withdrawn by a further notice.
+
+### 8. Supplying passengers with excise goods[^key-06cef2432d634dc13d0b6f0695541aff]
+
+(1) The authorized warehousekeeper shall not supply a person with excise goods from his export shop unless that person satisfies the warehousekeeper that he is a passenger by producing a relevant transport document[^key-9cb6118d0f488372aa3bc711b7e34a96] and such additional documents as the warehousekeeper may require.
+
+(2) The authorized warehousekeeper shall not supply a passenger with excise goods unless the passenger immediately carries those goods away from the export shop.
+
+(3) Paragraph (2) above shall not apply to any supply in respect of which the requirements set out in the Schedule below are complied with.
+
+(4) For the purposes of this regulation the Commissioners may, in a notice published by them and not withdrawn by a further notice, specify the type or description of transport documents and the type or description of any additional documents that an authorized warehousekeeper may require a person to produce for the purposes of paragraph (1) above.
+
+### 9. Removal[^key-a9d32c04868107bd19f081b3dcf71933]
+
+(1) Excise goods shall not be removed from an export shop except–
+
+- (a) in compliance with regulation 8 above, or
+- (b) in accordance with this regulation.
+
+(2) An authorized warehousekeeper may remove excise goods from his export shop to any other export shop that he occupies provided that both export shops are situated in the same port, airport or international railway station or terminal[^key-757da3d2d2dc1ba48200b0a0f4898af5].
+
+(3) An authorized warehousekeeper may remove excise goods from his export shop to an excise warehouse that is not an export shop if there has been no excise duty point in respect of those goods.
+
+(4) The Commissioners may, subject to such conditions and restrictions as they see fit to impose, permit an authorized warehousekeeper to remove excise goods from his export shop for such purpose as they may approve.
+
+### 10. Privileges of an authorized warehousekeeper[^key-ed0507142021f84aaee8287a47fee86b]
+
+The privileges afforded to an authorized warehousekeeper–
+
+- (a) by paragraph (2)(c) of regulation 11 of the 1999 Regulations (except for removal in accordance with regulation 9 above), and
+- (b) by paragraph (3) of regulation 11 of the 1999 Regulations,
+
+shall not apply in relation to excise goods kept in an export shop.
+
+## PART IV — EXCISE DUTY POINTS, PAYMENT OF DUTY AND RETURNS
+
+### 11. Excise duty points[^key-3bfa2ec228e3500d803a496c020da055]
+
+(1) Subject to paragraph (2) below, the excise duty point for excise goods that are deposited in an export shop shall be the time when those goods were, in accordance with regulation 10 of the 1988 Regulations, deemed to be warehoused in that export shop.
+
+(2) Paragraph (1) above shall not apply–
+
+- (a) to excise goods that are intended for supply only to entitled passengers; or
+- (b) to excise goods (other than goods specified in accordance with regulation 7(3) above) that are intended for supply to passengers by an authorized warehousekeeper to whom regulation 7(2) above applies.
+
+(3) Subject to paragraph (4) below, where the excise duty point prescribed by paragraph (1) above does not apply to excise goods deposited in an export shop the excise duty point for those goods shall be the time of their removal from that export shop.
+
+(4) For the purposes of paragraph (3) above, any removal of excise goods that–
+
+- (a)[^key-e9c187435700a7c299937ec8a1f983ea] takes place in the course of a supply of excise goods to an entitled passenger who—
+  - (i) leaves the United Kingdom with those goods, or
+  - (ii) returns those goods to the export shop from where the goods were supplied,
+- (b) takes place in accordance with regulation 9(2) or (3) above, or
+- (c) is authorized in accordance with regulation 9(4) above and is not subject to a condition that the excise duty on those goods shall be paid before removal,
+
+shall be disregarded.
+
+(5) The person liable to pay the duty at the excise duty point shall be–
+
+- (a)[^key-21b6af40dee2c628717e2a3a42a422ff] the entitled passenger to whom the goods were supplied, providing that passenger—
+  - (i) does not leave the United Kingdom with those goods, and
+  - (ii) does not return the goods to the export shop from where the goods were supplied, and
+- (b) in any other case, the authorized warehousekeeper.
+
+### 12. Payment—approval of arrangements[^key-927f3c5f5498cf640b90f0012f1c186f]
+
+(1) An authorized warehousekeeper may elect to make payment by means of a direct debit.
+
+(2) Before electing to make payment by direct debit the authorized warehousekeeper shall make application to the Commissioners for approval of the direct debit arrangements.
+
+(3) Where the Commissioners are satisfied with those arrangements they shall approve them in writing.
+
+(4) An authorized warehousekeeper whose arrangements have been approved shall immediately notify the Commissioners of any change in any information given to them for the purpose of approving those arrangements.
+
+(5) The Commissioners may for reasonable cause revoke any approval granted under this regulation.
+
+(6) Whenever a payment is due to be made by direct debit the authorized warehousekeeper shall ensure that he has sufficient funds in his account to satisfy the claim for payment.
+
+### 13. Payments and returns[^key-98c08dcdf83deec9f7f6579894d973d8]
+
+(1) Except in the case of an authorized warehousekeeper whose payment arrangements have been approved in accordance with regulation 12 above, the person liable to pay the duty at the excise duty point shall pay that duty to the Commissioners at or before the excise duty point.
+
+(2) The Excise Duties (Deferred Payment) Regulations 1992[^f00007] shall not apply to any payment to which a person may become liable by virtue of these Regulations.
+
+(3) On or before the tenth day of each month every authorized warehousekeeper whose payment arrangements have been approved in accordance with regulation 12 above shall furnish a return to the Commissioners showing the amounts that he is liable to pay to the Commissioners–
+
+- (a) in accordance with paragraph (4) below (“the advance payment”), and
+- (b) as excise duty due from him by virtue of any excise duty point in the preceding month (“the normal payment”).
+
+(4) The amount of the advance payment shall be either–
+
+- (a) an amount that the authorized warehousekeeper and the Commissioners agree, or
+- (b) in the absence of an agreement the amount of excise duty that would be due from the authorized warehousekeeper if the excise duty point for all the excise goods in his export shop were the day on which he makes the return.
+
+(5) An agreement made for the purposes of paragraph (4) above–
+
+- (a) shall specify the amount that will be payable each month for twelve consecutive months;
+- (b) may be ended by either party giving one month’s notice to the other party; and
+- (c) may, if both parties agree, be varied at any time.
+
+(6) On or after the day specified for payment in the payment arrangements approved in accordance with regulation 12 above the Commissioners shall claim payment of an amount calculated in accordance with paragraph (7) below.
+
+(7) The amount of payment to be claimed under paragraph (6) above shall be
+
+- the advance payment then due,
+- plus the normal payment then due,
+- minus the advance payment (if any) made in the preceding month, but if the result of this calculation is nil or negative the Commissioners shall not make a claim for payment under the direct debit arrangements.
+
+(8) If the authorized warehousekeeper has ceased to use his excise warehouse as an export shop the Commissioners shall repay the advance payment after deducting the amount of any excise duty for which he may be liable.
+
+(9) For the purposes of paragraph (3) above, if the tenth day of the month falls on a day that is a Saturday, Sunday, Christmas Day, Boxing Day, New Year’s Day, Good Friday or Easter Monday the tenth day of the month shall be treated as being the next day that is not one of those days.
+
+### 14. Returns—supplementary provisions[^key-daa569de976619ca78ac733f42974fde]
+
+(1) A person who is not required by regulation 13(3) above to furnish returns to the Commissioners shall furnish returns in accordance with paragraph (2) below.
+
+(2) In any case to which paragraph (1) above applies every person from whom any excise duty is due shall at or before the excise duty point furnish a return to the Commissioners showing the amounts that he is liable to pay to them as excise duty.
+
+(3) Subject to paragraph (4) below, any return required to be furnished in accordance with these Regulations shall be made on a form issued by the Commissioners.
+
+(4) If, for any reason, the person liable to furnish a return has not been issued with a form he shall make his return in the form specified in a notice published by the Commissioners and not withdrawn by a further notice.
+
+(5) Any return required to be furnished in accordance with these Regulations shall be furnished to the Commissioners at the address printed on the form issued by the Commissioners or, as the case may require, shown on the form specified in the notice published by the Commissioners.
+
+(6) Every person required to furnish a return in accordance with these Regulations shall ensure that the information contained in that return is true and complete.
+
+A.R. Rawsthorne
+
+Commissioner of Customs and Excise
+
+New King’s Beam House,
+
+22 Upper Ground,
+
+LONDON,
+
+SE1 9PJ
+
+## SCHEDULE — SUPPLY OF PRE-ORDERED EXCISE GOODS
+
+(Regulation 8(3))
+
+**1.**[^key-39d5796a1a95f6c42c56e27d5b64e61c] In this Schedule–
+
+- “approved place” means a place approved by the Commissioners for the collection of excise goods to which this Schedule applies;
+- “qualifying ticket” means a transport document valid for travel by sea, air or rail from the port, airport or international railway station or terminal where the export shop is situated;[^key-7e0885fb6efd71e8a8c7762f9ee88eb1]
+
+**2.**[^key-2382dfb2b258ff7a8055a2b071e16d3d] An order for the supply of excise goods must be placed with the authorized warehousekeeper by a passenger who is not an entitled passenger.
+
+**3.**[^key-78d3b1ed19087aa0e96ee07d5c106be9] The passenger must hold a qualifying ticket.
+
+**4.**[^key-cc68e08f493000ffc180adff7f00e64c] The passenger must place his order before he travels, and travel from the port, airport or international railway station or terminal[^key-f14bd637f921000d11f497536cb76e74] where the export shop at which his order was placed is situated.
+
+**5.**[^key-3c29840e8eb5d42ca9e006d34e0f4046] Subject to paragraph 7 below, the passenger must collect his order in person–
+
+- (a) from the export shop where he placed his order; or
+- (b) from an approved place within a port, airport or international railway station or terminal[^key-5586e5dcb50798ba4867ed60e746430e] to which he has travelled using his qualifying ticket.
+
+**6.**[^key-7d3583106c47ae11d5ba992c6e31eda5] Subject to paragraph 7 below, the passenger shall not be allowed to collect the excise goods he ordered unless, by producing such documents as the authorized warehousekeeper may require, he satisfies the warehousekeeper that he is the passenger who placed the order.
+
+**7.**[^key-9025558d6c38130661e7b7468c9f093e] If the authorized warehousekeeper is satisfied that due to some fortuitous event or due to some misadventure that has befallen the passenger it is impracticable for the passenger to collect his order in person he may permit a person acting on behalf of the passenger to collect the passenger’s excise goods.
+
+**8.**[^key-b7a7a0e8dca3c90a0099b050302e9faf] In any case to which paragraph 7 above applies, the authorized warehousekeeper shall keep a record of–
+
+- (a) the name and address of the passenger,
+- (b) the circumstances that made it impracticable for the passenger to collect his order in person, and
+- (c) the name and address of the person acting on behalf of the passenger.
+
+(This note is not part of the Regulations)
+
+These Regulations come into force on 1st April 2000.
+
+## Purpose of the Regulations
+
+These Regulations apply to excise warehouses from which excise goods may be supplied to passengers making voyages or flights to destinations outside the area covered by the European Union’s arrangements for excise duty. They regulate the supply of duty free excise goods to those passengers and the supply of duty paid excise goods to passengers making journeys to destinations within the European Union (including passengers making domestic journeys).
+
+## Content of the Regulations
+
+Regulations 1, 2 and 3 are concerned with citation, commencement, application and interpretation of the Regulations. An excise warehouse to which these Regulations apply is to be known as an “export shop”.
+
+Regulation 4 prescribes additional conditions of approval that apply to an authorized warehousekeeper who occupies an export shop.
+
+Regulation 5 regulates the revocation of an authorized warehousekeeper’s approval when he ceases to occupy an export shop.
+
+Regulation 6 provides that some of the requirements that apply to excise warehouses by virtue of the Excise Warehousing (Etc.) Regulations 1988 (S.I. [1988/809](https://www.legislation.gov.uk/uksi/1988/809)) do not apply to export shops.
+
+Regulation 7 regulates the storage of excise goods in export shops.
+
+Regulation 8 sets out the conditions for the supply of excise goods to passengers. It requires these goods to be carried away immediately unless the conditions set out in the Schedule for the supply of pre-ordered excise goods are met.
+
+Regulation 9 regulates the removal of excise goods from export shops.
+
+Regulation 10 places restrictions on the privileges afforded to an authorized warehousekeeper in relation to excise goods in his export shop.
+
+Regulation 11 fixes excise duty points for excise goods held in an export shop and specifies the person liable to pay the duty at the excise duty point.
+
+Regulation 12 provides for the approval of arrangements for payment to be made by means of a direct debit.
+
+Regulations 13 and 14 regulate payment procedures and the making of returns.
+
+The Schedule provides for a pre-ordering arrangement, including conditions and restrictions.
+
+## Annotations
+
+[^f00001]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2); section 1(1) defines “the Commissioners”, “ excise duty point”, “excise warehouse”, “occupier”, and “warehoused ”; section 93(2)(a) was amended by section 11(1) of, and paragraph 2 of Schedule 8 to, the Finance Act [1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35); section 93(1) and (3) was amended by section 3 of, and paragraph 2 of Schedule 2 to the Finance (No. 2) Act [1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48); sections 100G and 100H were inserted by section 11(3) of, and Schedule 4 to, the Finance Act [1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31); section 100H was amended by sections 1(5) and 3(1) of, and paragraph 6 of Schedule 1 and paragraph 4 of Schedule 2 to, the Finance (No. 2) Act 1992.
+
+[^f00002]: Footnote: [1992 c. 48](https://www.legislation.gov.uk/ukpga/1992/48).
+
+[^M_C_377e94b5-c935-4dbb-a778-ce825ca6a4b3]: Modification: Regulations modified (1.5.2004) by [The Excise Duty Points (Etc.) (New Member States) Regulations 2004 (S.I. 2004/1003)](https://www.legislation.gov.uk/uksi/2004/1003), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1), [7](https://www.legislation.gov.uk/uksi/2004/1003/regulation/7)
+
+[^key-a1200aff61c52247f97fa0cdd8a3853a]: Commencement: Reg. 1 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-9c1f063ccce30b3102c2587dc6f31307]: Commencement: Reg. 2 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-ebf9fa5388e93737d9931920e30b540e]: Commencement: Reg. 3 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^f00003]: Footnote: S.I. [1988/809](https://www.legislation.gov.uk/uksi/1988/809), amended by S.I. [1995/1046](https://www.legislation.gov.uk/uksi/1995/1046).
+
+[^f00004]: Footnote: S.I. [1999/1278](https://www.legislation.gov.uk/uksi/1999/1278).
+
+[^key-423c01dbe61e5a7ba3fd96ae9a30fcf6]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2000/645/regulation/3) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [20(2)(a)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/20/2/a)
+
+[^f00006]: Footnote: “Hydrocarbon oil” is defined in section 1(2) of the Hydrocarbon Oil Duties Act [1979 (c. 5)](https://www.legislation.gov.uk/ukpga/1979/5) which Act, by section 27(2), is to be construed as one Act with the Customs and Excise Management Act [1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2).
+
+[^key-ce80a6d457b5b95c8b37af52b5d99840]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2000/645/regulation/3) inserted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [20(2)(b)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/20/2/b)
+
+[^key-cef2ffc27f778f87b3c3b352eeacc10c]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2000/645/regulation/3) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [20(2)(c)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/20/2/c)
+
+[^key-bcd35b64c4af3fb8a67d891777fad52a]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2000/645/regulation/3) inserted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [20(2)(d)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/20/2/d)
+
+[^key-56ba4fec5516bb48a181845ebaa39433]: Commencement: Reg. 4 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-2a6838264cc9690acab5315c8114777c]: Commencement: Reg. 5 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-e217925fbbd04f2bc1838145b4c1a896]: Commencement: Reg. 6 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-e7da4924e7ad863221442cdcc90a6826]: Commencement: Reg. 7 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-e057dd7d4a46bb968958e518355e23f9]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2000/645/regulation/7/2) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [20(3)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/20/3)
+
+[^key-06cef2432d634dc13d0b6f0695541aff]: Commencement: Reg. 8 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-9cb6118d0f488372aa3bc711b7e34a96]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2000/645/regulation/8/1) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [20(4)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/20/4)
+
+[^key-a9d32c04868107bd19f081b3dcf71933]: Commencement: Reg. 9 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-757da3d2d2dc1ba48200b0a0f4898af5]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2000/645/regulation/9/2) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [20(5)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/20/5)
+
+[^key-ed0507142021f84aaee8287a47fee86b]: Commencement: Reg. 10 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-3bfa2ec228e3500d803a496c020da055]: Commencement: Reg. 11 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-e9c187435700a7c299937ec8a1f983ea]: Textual amendment: [Reg. 11(4)(a)](https://www.legislation.gov.uk/uksi/2000/645/regulation/11/4/a) substituted (23.12.2024) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/3/a)
+
+[^key-21b6af40dee2c628717e2a3a42a422ff]: Textual amendment: [Reg. 11(5)(a)](https://www.legislation.gov.uk/uksi/2000/645/regulation/11/5/a) substituted (23.12.2024) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/3/b)
+
+[^key-927f3c5f5498cf640b90f0012f1c186f]: Commencement: Reg. 12 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-98c08dcdf83deec9f7f6579894d973d8]: Commencement: Reg. 13 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^f00007]: Footnote: S.I. [1992/3152](https://www.legislation.gov.uk/uksi/1992/3152), amended by S.I. [1996/2537](https://www.legislation.gov.uk/uksi/1996/2537).
+
+[^key-daa569de976619ca78ac733f42974fde]: Commencement: Reg. 14 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-39d5796a1a95f6c42c56e27d5b64e61c]: Commencement: Sch. para. 1 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-7e0885fb6efd71e8a8c7762f9ee88eb1]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2000/645/schedule/paragraph/1) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [20(6)(a)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/20/6/a)
+
+[^key-2382dfb2b258ff7a8055a2b071e16d3d]: Commencement: Sch. para. 2 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-78d3b1ed19087aa0e96ee07d5c106be9]: Commencement: Sch. para. 3 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-cc68e08f493000ffc180adff7f00e64c]: Commencement: Sch. para. 4 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-f14bd637f921000d11f497536cb76e74]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2000/645/schedule/paragraph/4) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [20(6)(b)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/20/6/b)
+
+[^key-3c29840e8eb5d42ca9e006d34e0f4046]: Commencement: Sch. para. 5 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-5586e5dcb50798ba4867ed60e746430e]: Textual amendment: Words in [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2000/645/schedule/paragraph/5/b) substituted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [20(6)(c)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/20/6/c)
+
+[^key-7d3583106c47ae11d5ba992c6e31eda5]: Commencement: Sch. para. 6 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-9025558d6c38130661e7b7468c9f093e]: Commencement: Sch. para. 7 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)
+
+[^key-b7a7a0e8dca3c90a0099b050302e9faf]: Commencement: Sch. para. 8 in force at 1.4.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1)

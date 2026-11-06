@@ -1,0 +1,105 @@
+---
+title: The Non-Domestic Rating Contributions (Amendment) (England) Regulations 2006
+id: uksi/2006/3167
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2006-11-28'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2006/3167
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/3167/pdfs/uksiem_20063167_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/3167/pdfs/uksi_20063167_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/3167/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Non-Domestic Rating Contributions (Amendment) (England) Regulations 2006
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2006 No. 3167
+
+rating and valuation, england
+
+The Non-Domestic Rating Contributions (Amendment) (England) Regulations 2006
+
+Made
+
+28th November 2006
+
+Laid before Parliament
+
+4th December 2006
+
+Coming into force
+
+31st December 2006
+
+The Secretary of State, in exercise of the powers conferred by section 143(1) and (2) of, and paragraphs 4 and 6 of Schedule 8 to, the Local Government Finance Act 1988[^f00001], makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Non-Domestic Rating Contributions (Amendment) (England) Regulations 2006 and shall come into force on 31st December 2006.
+
+## 2. Amendment of the Non-Domestic Rating Contributions (England) Regulations 1992
+
+The Non-Domestic Rating Contributions (England) Regulations 1992[^f00002] are amended as follows in relation to financial years beginning on or after 1st April 2007.
+
+## 3. Rules for the calculation of non-domestic rating contributions
+
+In Schedule 1—
+
+- (a) in paragraph 1(4), for “2006” substitute “2007”; and
+- (b) in paragraph 4(4), for “2006” substitute “2007”.
+
+## 4. Assumptions relating to provisional amounts
+
+In Schedule 2—
+
+- (a) in paragraph 2(12), for “0.998” substitute “0.991”; and
+- (b) for the table in paragraph 8(1) substitute—
+
+  > | Name or description of authority | Percentage |
+  > | --- | --- |
+  > | The council of a metropolitan district | 0.9 |
+  > | The council of a non-metropolitan district which has the functions of a county council | 0.7 |
+  > | The council of a non-metropolitan district which does not have the functions of a county council | 0.4 |
+  > | The council of an inner London borough and the Common Council of the City of London | 1.0 |
+  > | The council of an outer London borough | 1.0 |
+  > | The Council of the Isles of Scilly and the Isle of Wight Council | 0.7 |
+
+  .
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Phil Woolas
+
+Minister of State
+
+Department for Communities and Local Government
+
+28th November 2006
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Under Part II of Schedule 8 to the Local Government Finance Act 1988 (“the 1988 Act”), billing authorities are required to pay amounts (called non-domestic rating contributions) to an account held by the Secretary of State (“the national non-domestic rating pool”). The national non-domestic rating pool is subsequently distributed to authorities under the rules in Part III of Schedule 8 to the 1988 Act. Payments into the national non-domestic rating pool in respect of the provisional amount of the non-domestic rating contributions are made during the financial year. Final calculations and adjustments of those contributions are made after the year ends.
+
+These Regulations amend the rules contained in the Non-Domestic Rating Contributions (England) Regulations 1992 (“the 1992 Regulations”) for the calculation of non-domestic rating contributions and the assumptions to be made in calculating the provisional amount of the non-domestic rating contributions for financial years beginning on or after 1st April 2007. They make amendments in relation to—
+
+- (a) the offset for a special authority (the definition of “special authority” is given in section 144(6) of the 1988 Act) in paragraph 1(4) of Schedule 1 to the 1992 Regulations (regulation 3(a));
+- (b) the national cost of collection figure in paragraph 4(4) of that Schedule (regulation 3(b));
+- (c) the buoyancy factor (which is one of the assumptions billing authorities use in calculating the provisional amount) in paragraph 2(12) of Schedule 2 to the 1992 Regulations (regulation 4(a)); and
+- (d) the losses in collection percentages in paragraph 8(1) of that Schedule (regulation 4(b)).
+
+## Annotations
+
+[^f00001]: Footnote: [1988. c.41](https://www.legislation.gov.uk/ukpga/1988/41). These powers are devolved, in relation to Wales, to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), *see* the reference to the Local Government Finance Act 1988 in Schedule 1.
+
+[^f00002]: Footnote: [S.I. 1992/3082](https://www.legislation.gov.uk/uksi/1992/3082). Relevant amendments are made by [S.I. 1993/1496](https://www.legislation.gov.uk/uksi/1993/1496) and [3082](https://www.legislation.gov.uk/uksi/1993/3082), [1994/1431](https://www.legislation.gov.uk/uksi/1994/1431) and [3139](https://www.legislation.gov.uk/uksi/1994/3139), [1995/3181](https://www.legislation.gov.uk/uksi/1995/3181), [1996/3245](https://www.legislation.gov.uk/uksi/1996/3245), [1997/3031](https://www.legislation.gov.uk/uksi/1997/3031), [1998/3038](https://www.legislation.gov.uk/uksi/1998/3038), [1999/3275](https://www.legislation.gov.uk/uksi/1999/3275), [2000/3208](https://www.legislation.gov.uk/uksi/2000/3208), [2001/3944](https://www.legislation.gov.uk/uksi/2001/3944), [2002/3021](https://www.legislation.gov.uk/uksi/2002/3021), [2003/3130](https://www.legislation.gov.uk/uksi/2003/3130), [2004/3234](https://www.legislation.gov.uk/uksi/2004/3234) and [2005/3333](https://www.legislation.gov.uk/uksi/2005/3333).

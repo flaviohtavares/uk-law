@@ -1,0 +1,73 @@
+---
+title: Legal Services Act 2007, section 21
+act: Legal Services Act 2007
+section: '21'
+status: revised-with-pending-changes
+text_date: '2025-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2007/29/section/21
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Legal Services Act 2007, section 21
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/29
+>
+> Extent: England, Wales, Scotland.
+
+## 21. Regulatory arrangements[^c20624861][^key-f6200cfc3aa64d460a54df953516e319]
+
+*Extent: E+W*
+
+(1) In this Act references to the “**regulatory arrangements**” of a body are to—
+
+- (a) its arrangements for authorising persons to carry on reserved legal activities,
+- (b) its arrangements (if any) for authorising persons to provide immigration advice or immigration services,
+- (c) its practice rules,
+- (d) its conduct rules,
+- (e) its disciplinary arrangements in relation to regulated persons (including its discipline rules),
+- (f) its qualification regulations,
+- (g) its indemnification arrangements,
+- (h) its compensation arrangements,
+- (i) any of its other rules or regulations (however they may be described), and any other arrangements, which apply to or in relation to regulated persons, other than those made for the purposes of any function the body has to represent or promote the interests of persons regulated by it, and
+- (j) its licensing rules (if any), so far as not within paragraphs (a) to (i),
+
+(whether or not those arrangements, rules or regulations are contained in, or made under, an enactment).
+
+(2) In this Act—
+
+- “**compensation arrangements**”, in relation to a body, means arrangements to provide for grants or other payments for the purposes of relieving or mitigating losses or hardship suffered by persons in consequence of—
+  - (a) negligence or fraud or other dishonesty on the part of any persons whom the body has authorised to carry on activities which constitute a reserved legal activity, or of employees of theirs, in connection with their activities as such authorised persons, and
+  - (b) failure, on the part of regulated persons, to account for money received by them in connection with their activities as such regulated persons;
+- “**conduct rules**”, in relation to a body, means any rules or regulations (however they may be described) as to the conduct required of regulated persons;
+- “**discipline rules**”, in relation to a body, means any rules or regulations (however they may be described) as to the disciplining of regulated persons;
+- “**indemnification arrangements**”, in relation to a body, means arrangements for the purpose of ensuring the indemnification of those who are or were regulated persons against losses arising from claims in relation to any description of civil liability incurred by them, or by employees or former employees of theirs, in connection with their activities as such regulated persons;
+- “**practice rules**”, in relation to a body, means any rules or regulations (however they may be described) which govern the practice of regulated persons;
+- “**qualification regulations**”, in relation to a body, means—
+  - (a) any rules or regulations relating to—
+    - (i) the education and training which persons must receive, or
+    - (ii) any other requirements which must be met by or in respect of them,
+
+    (in order for them to be authorised by the body to carry on an activity which is a reserved legal activity,
+  - (b) any rules or regulations relating to—
+    - (i) the education and training which persons must receive, or
+    - (ii) any other requirements which must be met by or in respect of them,
+
+    (in order for them to be authorised by the body to provide immigration advice or immigration services, and
+  - (c) any other rules or regulations relating to the education and training which regulated persons must receive or any other requirements which must be met by or in respect of them,
+
+  (however they may be described).
+
+(3) In this section “**regulated persons**”, in relation to a body, means any class of persons which consists of or includes—
+
+- (a) persons who are authorised by the body to carry on an activity which is a reserved legal activity;
+- (b) persons who are not so authorised, but are employees of a person who is so authorised.
+
+(4) In relation to an authorised person other than an individual, references in subsection (2) and (3) to employees of the person include managers of the person.
+
+## Annotations
+
+[^c20624861]: Commencement: S. 21 partly in force: s. 21 not in force at Royal Assent see s. 211; s. 21(1)(a)-(i)(2)-(4) in force at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/b/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
+
+[^key-f6200cfc3aa64d460a54df953516e319]: Commencement: S. 21 in force at 1.10.2011 so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/a)

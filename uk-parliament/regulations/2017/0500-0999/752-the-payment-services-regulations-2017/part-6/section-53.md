@@ -1,0 +1,38 @@
+---
+title: The Payment Services Regulations 2017, section 53
+act: The Payment Services Regulations 2017
+section: '53'
+status: revised-with-pending-changes
+text_date: '2026-04-28'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2017/752/section/53
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Payment Services Regulations 2017, section 53
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/uksi/2017/752
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 53. Information for the payer on individual payment transactions
+
+*Extent: E+W+S+N.I.*
+
+(1) The payer's payment service provider under a framework contract must provide to the payer the information specified in paragraph (2) in respect of each payment transaction on paper or on another durable medium at least once per month free of charge.
+
+(2) The information is—
+
+- (a) a reference enabling the payer to identify the payment transaction and, where appropriate, information relating to the payee;
+- (b) the amount of the payment transaction in the currency in which the payer's payment account is debited or in the currency used for the payment order;
+- (c) the amount of any charges for the payment transaction and, where applicable, a breakdown of the amounts of such charges, or the interest payable by the payer;
+- (d) where applicable, the exchange rate used in the payment transaction by the payer's payment service provider and the amount of the payment transaction after that currency conversion; and
+- (e) the debit value date or the date of receipt of the payment order.
+
+(3) A framework contract may include a condition that the payer may require the information specified in paragraph (2) be provided or made available periodically at least once a month, free of charge and in an agreed manner which enables the payer to store and reproduce the information unchanged.
+
+(4) Paragraph (1) does not require a payment service provider to provide information where—
+
+- (a) the information has been, or is to be, provided or made available as required by the payer under a condition of the type referred to in paragraph (3); or
+- (b) more than one month has passed since information was last provided, but there are no payment transactions in respect of which the payment service provider has not previously provided or made available information in accordance with paragraph (1) or as required by the payer under a condition of the type referred to in paragraph (3).

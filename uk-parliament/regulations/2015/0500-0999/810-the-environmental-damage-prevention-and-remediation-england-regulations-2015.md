@@ -1,0 +1,1365 @@
+---
+title: The Environmental Damage (Prevention and Remediation) (England) Regulations 2015
+id: uksi/2015/810
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-03-19'
+text_date: '2026-07-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/810
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/810/pdfs/uksiem_20150810_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/810/pdfs/uksi_20150810_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/810/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environmental Damage (Prevention and Remediation) (England) Regulations 2015
+
+> Text as at 2026-07-16.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 810
+
+Environmental Protection, England
+
+The Environmental Damage (Prevention and Remediation) (England) Regulations 2015
+
+Made
+
+19th March 2015
+
+Laid before Parliament
+
+23rd March 2015
+
+Coming into force
+
+19th July 2015
+
+[^c22465811][^c22465821]The Secretary of State has been designated in respect of the environment for the purposes of section 2(2) of the European Communities Act 1972 (“**the 1972 Act**”) and makes these Regulations in exercise of the powers conferred by that section, as read with paragraph 1A of Schedule 2 to the 1972 Act, and section 14A(2)(a) of the Interpretation Act 1978 .
+
+These Regulations make provision for a purpose mentioned in section 2(2) of, and paragraph 1A of Schedule 2 to, the 1972 Act and it appears to the Secretary of State that it is expedient for references to EU instruments in these Regulations (other than references to Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) of the European Parliament and of the Council on environmental liability with regard to the prevention and remedying of environmental damage [^c22465831]) to be construed as references to those instruments as amended from time to time.[^key-97465949c93de04bfb16229d8ced8d6b]
+
+## PART 1 — Introductory Provisions
+
+### 1. Title, commencement and application
+
+(1) These Regulations may be cited as the Environmental Damage (Prevention and Remediation) (England) Regulations 2015 and come into force on 19th July 2015.
+
+(2) They apply in relation to England and the areas specified in regulation 6.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**activity**” means any economic activity, whether public or private and whether or not carried out for profit;
+- “**baselines**” means the baselines from which the breadth of the territorial sea is measured for the purposes of the Territorial Sea Act 1987 [^c22465841];
+- “**Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060)**” means Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy [^c22465851];
+- “**Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035)**” means Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) of the European Parliament and of the Council on environmental liability with regard to the prevention and remedying of environmental damage;
+- “**enforcing authority**” means the person or body responsible for enforcing these Regulations, in accordance with regulation 10 or 11;
+- “**local authority**” means (except in relation to a local authority in Wales)[^key-528414e056ec37d00fc0c786e3164054]—
+  - (a) where there is a unitary authority for a local government area, that authority;
+  - (b) where there is not a unitary authority—
+    - (i) in a metropolitan district, the council of that district;
+    - (ii) in a non-metropolitan county, the district council;
+    - (iii) in each London borough, the council of that borough;
+    - (iv) in the City of London, the Common Council;
+    - (v) on the Isles of Scilly, the Council of the Isles of Scilly;
+- “**marine waters**” means waters classified as marine waters pursuant to Directive [2008/56/EC](https://www.legislation.gov.uk/european/directive/2008/0056) of the European Parliament and of the Council establishing a framework for Community action in the field of marine environmental policy [^c22465861];
+- “**natural habitat**” means—
+  - (a) the habitats of species mentioned in Article 4(2) of, or Annex I to, Council Directive [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) on the conservation of wild birds [^c22465871] or listed in Annex II to Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora [^c22465881];
+  - (b) the natural habitats listed in Annex I to Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043); and
+  - (c) the breeding sites or resting places of the species listed in Annex IV to Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043);
+- “**natural resources**” means—
+  - (a) a protected species;
+  - (b) a natural habitat;
+  - (c) a species or habitat on a site of special scientific interest by reason of which the site has been notified under section 28 of the Wildlife and Countryside Act 1981 [^c22465891];
+  - (d) water; and
+  - (e) land;
+- “**operator**” means the person who operates or controls an activity, including the holder of a permit or authorisation relating to that activity, or the person registering or notifying an activity for the purposes of any enactment;
+- “**protected species**” means a species of a kind mentioned in Article 4(2) of Council Directive [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) or listed in Annex I to that Directive or Annexes II and IV to Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043);
+- “**remediation notice**” means a notice served in accordance with regulation 20(2);
+- “**responsible operator**” means the operator in relation to an activity that has caused environmental damage;
+- “**the Scottish zone**” has the meaning it has in the Scotland Act 1998 [^c22465901];
+- “**services**” means the functions performed by natural resources which benefit other natural resources or the public;
+- “**site of special scientific interest**” has the same meaning as in the Wildlife and Countryside Act 1981 [^c22465911].
+- “the Welsh zone” has the same meaning as in section 158(1) of the Government of Wales Act 2006.[^key-334cac73b09dbfecd9c2ac69d79e1065]
+
+(2) Unless otherwise defined in these Regulations, expressions used in Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) have the same meaning in these Regulations.
+
+### 3. References to EU instruments[^key-a9415b98ddfeb7b5dbf2e0014cfd5d9a]
+
+(1) For the purposes of these Regulations, a reference in any EU instrument referred to in these Regulations—
+
+- (a) to the “European Union” or otherwise to the area to which that instrument applies is to be taken to include the United Kingdom;
+- (b) to a “Member State” is to be taken to include the United Kingdom.
+
+### 4. Meaning of “environmental damage”
+
+(1) These Regulations apply in relation to the prevention and remediation of environmental damage; and environmental damage is damage, as specified in this regulation, to—
+
+- (a) a protected species or natural habitat, or a site of special scientific interest;
+- (b) surface water or groundwater;
+- (c) marine waters; or
+- (d) land.
+
+(2) Environmental damage to a protected species or natural habitat or a site of special scientific interest means damage of a kind specified in Schedule 1.
+
+(3) Environmental damage to surface water means damage to a surface water body classified as such pursuant to Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) such that—
+
+- (a) a biological quality element listed in Annex V to that Directive,
+- (b) the level of a chemical listed in the legislation in Annex IX or a chemical listed in Annex X to that Directive, or
+- (c) a physicochemical quality element listed in Annex V to that Directive,
+
+changes sufficiently to lower the status of the water body in accordance with Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) (whether or not the water body is in fact reclassified as being of lower status).
+
+(4) Environmental damage to groundwater means any damage to a body of groundwater such that its conductivity, level or concentration of pollutants changes sufficiently to lower its status for the purposes of Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) (and, in relation to pollutants, for the purposes of Directive [2006/118/EC](https://www.legislation.gov.uk/european/directive/2006/0118) of the European Parliament and of the Council on the protection of groundwater against pollution and deterioration [^c22465921]), whether or not the body of groundwater is in fact reclassified as being of lower status.
+
+(5) Environmental damage to marine waters means damage to marine waters such that their environmental status is significantly adversely affected.
+
+(6) Environmental damage to land means contamination of land by substances, preparations, organisms or micro-organisms, where that damage results in a significant risk of adverse effects on human health.
+
+### 5. Environmental damage to which these Regulations apply
+
+(1) These Regulations apply in relation to environmental damage if it is caused by an activity mentioned in Schedule 2.
+
+(2) In the case of environmental damage to a protected species or natural habitat or a site of special scientific interest, these Regulations also apply in relation to environmental damage caused by any other activity if the operator—
+
+- (a) intended to cause environmental damage; or
+- (b) was negligent as to whether environmental damage would be caused.
+
+### 6. Areas of application
+
+(1) Environmental damage is relevant for the purposes of these Regulations only if the damage, of a type specified in the first column of the following table, occurs in an area specified in the second column of that table in relation to damage of that type.
+
+<table>
+<tfoot>
+<tr><td colspan="2"><sup>1</sup> These areas do not include areas that form part of Northern Ireland, Scotland or Wales or the territorial sea adjacent to the Isle of Man, Jersey or Guernsey; and for these purposes—</td></tr>
+<tr><td colspan="2">(i) “<strong>Wales</strong>” has the meaning given by section 158(1) of the Government of Wales Act 2006 ;</td></tr>
+<tr><td colspan="2">(ii) “<strong>Scotland</strong>” has the meaning given by section 126(1) of the Scotland Act 1998; and</td></tr>
+<tr><td colspan="2">(iii) “<strong>Northern Ireland</strong>” has the meaning given by section 98 of the Northern Ireland Act 1998 .</td></tr>
+</tfoot>
+<tbody>
+<tr><th><em>Type of damage</em></th><th><em>Area in which these Regulations apply</em></th></tr>
+<tr><td>Damage to surface water or groundwater</td><td>England and all waters up to one nautical mile seaward from the baselines in England.</td></tr>
+<tr><td rowspan="5">Damage to marine waters</td><td>All marine waters within any of the following descriptions—</td></tr>
+<tr><td>(a) marine waters up to one nautical mile seaward from the baselines in England so far as not already addressed as damage to surface water or groundwater;</td></tr>
+<tr><td>(b) marine waters from one nautical mile seaward from the baselines in England, extending to the outermost reach of the area where the United Kingdom exercises jurisdictional rights, in accordance with UNCLOS;</td></tr>
+<tr><td>(c) marine waters beyond 12 nautical miles from the baselines in Wales, and marine waters beyond 12 nautical miles from the baselines in Northern Ireland, in each case extending to the outermost reach of the area where the United Kingdom exercises jurisdictional rights, in accordance with UNCLOS;</td></tr>
+<tr><td>(d) marine waters up to the limit of the exclusive economic zone which lies within the Scottish zone, or which lies outside the Scottish zone, but is nearer to any point on the baselines from which the breadth of the territorial sea adjacent to Scotland is measured than to any point on the baselines in any other part of the United Kingdom.</td></tr>
+<tr><td>Damage in a site of special scientific interest</td><td>England</td></tr>
+<tr><td>Damage to a protected species or natural habitat</td><td>England, the seabed out to the limits of the continental shelf<sup>1</sup>, and anywhere within marine waters, other than the seabed, out to the limits of the exclusive economic zone<sup>1</sup>.</td></tr>
+<tr><td>Damage to land</td><td>England</td></tr>
+</tbody>
+</table>
+
+[^key-ae4b5c37c5324cbaeb103fe67ae06c90][^c22465931][^c22465941][^key-a85da924ed5e8a175eed7ddf86a90acd]
+
+(2) In the table in paragraph (1)—
+
+- “**the continental shelf**” means the areas designated by Order in Council under section 1(7) of the Continental Shelf Act 1964 [^c22465951];
+- “**the exclusive economic zone**” means the areas designated by the Exclusive Economic Zone Area Order 2013 [^c22465961]; and
+- “**UNCLOS**” means the United Nations Convention on the Law of the Sea, which opened for signature on 10th December 1982 [^c22465971].
+
+### 7. Other legislation
+
+(1) These Regulations are without prejudice to any other enactment concerning damage to the environment.
+
+(2) They are without prejudice to the right of an operator to limit liability in accordance with the Convention on Limitation of Liability for Maritime Claims 1976 [^c22465981].
+
+### 8. Exemptions
+
+(1) These Regulations do not apply in relation to—
+
+- (a) damage that occurred before 1st March 2009 [^c22465991] (but see also paragraph (2));
+- (b) damage that occurs or occurred after that date, or is or was threatened after that date, but is caused by an incident, event or emission that took place before that date; or
+- (c) damage caused by an incident, event or emission that takes or took place after that date, if it derives from an activity that took place and finished before that date.
+
+(2) Paragraph (1) applies in relation to damage to marine waters as if, in sub-paragraph (a), for “1st March 2009” there were substituted “ 19th July 2015 ”.
+
+(3) These Regulations do not apply in relation to environmental damage caused by—
+
+- (a) an act of terrorism;
+- (b) an exceptional natural phenomenon, provided the operator of the activity concerned took all reasonable precautions to protect against damage being caused by such an event;
+- (c) activities the sole purpose of which is to protect against natural disasters;
+- (d) an incident in respect of which liability or compensation falls within the scope of—
+  - (i) the International Convention of 27th November 1992 on Civil Liability for Oil Pollution Damage [^c22466001];
+  - (ii) the International Convention of 27th November 1992 on the Establishment of an International Fund for Compensation for Oil Pollution Damage [^c22466011]; or
+  - (iii) the International Convention on Civil Liability for Bunker Oil Pollution Damage 2001 [^c22466021];
+- (e) activities the main purpose of which is to serve national defence or international security;
+- (f) radioactivity from an activity covered by the Treaty establishing the European Atomic Energy Community or caused by an incident or activity in respect of which liability or compensation falls within the scope of the Paris Convention of 29th July 1960 on Third Party Liability in the Field of Nuclear Energy and the Brussels Supplementary Convention of 31st January 1963; or
+- (g) any activity carried out in the course of commercial sea fishing if all legislation relating to that fishing was complied with.
+
+(4) These Regulations only apply to environmental damage caused by pollution of a diffuse character if it is possible to establish a causal link between the damage and specific activities.
+
+### 9. Exclusion from damage to water
+
+(1) Where all the conditions in paragraph (2) are satisfied, damage to water does not include—
+
+- (a) damage caused by new modifications to the physical characteristics of a surface water body;
+- (b) an alteration to the level of a body of groundwater pursuant to Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060); or
+- (c) deterioration from high status to good status of a body of surface water resulting from new sustainable human development activities where Article 4(7) of that Directive is complied with.
+
+(2) The conditions are that—
+
+- (a) all practicable steps are taken to mitigate the adverse impact on the status of the body of water;
+- (b) the reasons for these modifications or alterations are specifically set out and explained in the river basin management plan required under Article 13 of Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) and the objectives are reviewed every six years;
+- (c) the reasons for these modifications or alterations are of overriding public interest, or the result of the damage is outweighed by the benefits of the new modifications or alterations to human health, to the maintenance of human safety or to sustainable development; and
+- (d) the beneficial objectives served by those modifications or alterations cannot, for reasons of technical feasibility or disproportionate cost, be achieved by other means.
+
+### 9A. Nutrient significant sewage disposal works: environmental damage[^key-08915a3f146b7262ddfe9b8933068b64]
+
+(1) This regulation applies where a sewerage undertaker whose sewerage system includes a nutrient significant plant fails to secure that the plant is able to meet the related nutrient pollution standard by the upgrade date.
+
+(2) Any excess nutrient pollution is to be treated for the purposes of these regulations as damage to the related habitats site that is environmental damage caused by an activity of the sewerage undertaker that—
+
+- (a) requires a permit under the Environmental Permitting (England and Wales) Regulations 2016, and
+- (b) falls within Schedule 2.
+
+(3) In paragraph (2)—
+
+- “**excess nutrient pollution**”, in relation to a nutrient significant plant and a related nutrient pollution standard, means the amount by which the total nutrient pollution discharged in treated effluent by the plant during the period—
+  - (a) beginning with the upgrade date, and
+  - (b) ending with the day the plant first meets the related nutrient pollution standard,
+
+  exceeds the total nutrient pollution that it would have discharged in treated effluent during that period had it met the related nutrient pollution standard on and after the upgrade date;
+- “**total nutrient pollution**” means—
+  - (a) in relation to the nitrogen nutrient pollution standard, total nitrogen, and
+  - (b) in relation to the phosphorus nutrient pollution standard, total phosphorus.
+
+(4) Where—
+
+- (a) the nutrient significant plant referred to in paragraph (1) is a plant that discharges treated effluent into a catchment permitting area (see section 96G of the Water Industry Act 1991), and
+- (b) the sewerage undertaker has failed to comply with a condition in the environmental permit for the plant imposed in pursuance of subsection (3)(b) of that section,
+
+the definition of “excess nutrient pollution” in paragraph (3) is subject to the following modifications.
+
+(5) In a case where the condition relates to the total nutrient pollution discharged by the plant specifically, references in that definition to the “upgrade date” are to be read as the “applicable date”.
+
+(6) In a case where the condition relates to the total nutrient pollution discharged by all plants that discharge into the associated catchment area, that definition is to be read as if—
+
+- (a) in the words before paragraph (a), after “by the plant” there were inserted “and all other plants that discharged into the associated catchment area for that plant”,
+- (b) in paragraph (a), for “upgrade date” there were substituted “applicable date”, and
+- (c) in the words after paragraph (b)—
+  - (i) for “that it” there were substituted “that both it and those other plants”, and
+  - (ii) for “upgrade date” there were substituted “applicable date”.
+
+(7) For the purposes of paragraph (3) as modified by paragraph (5) or (6), the “applicable date” is to be determined in accordance with section 96G(6)(a) of the Water Industry Act 1991.
+
+(8) It is for the Environment Agency to determine the excess nutrient pollution discharged by a plant and in doing so the Environment Agency may have regard to—
+
+- (a) the concentration of total nitrogen or concentration of total phosphorus determined for the purposes of section 96F of the Water Industry Act 1991 (see in particular subsection (5) of that section), and
+- (b) the volume of treated effluent discharged by the plant, as determined by the Environment Agency.
+
+(9) Schedule 2ZA sets out modifications of these regulations that apply where this regulation applies.
+
+(10) In this regulation—
+
+- “**related habitats site**”, in relation to a nutrient significant plant, means the habitats site by reference to which the associated catchment area is designated under section 96C of the Water Industry Act 1991;
+- “**sewerage system**”, in relation to a sewerage undertaker, has the meaning given by section 17BA(7) of the Water Industry Act 1991.
+
+(11) For the purposes of this regulation, the following terms have the meanings given by section 96L of the Water Industry Act 1991—
+
+- “associated catchment area”;
+- “catchment permitting area”;
+- “environmental permit”;
+- “habitats site”;
+- “nitrogen nutrient pollution standard”;
+- “nutrient significant plant”;
+- “phosphorus nutrient pollution standard”;
+- “plant”;
+- “related nutrient pollution standard”;
+- “sensitive catchment area”;
+- “treated effluent”;
+- “upgrade date”;
+
+and references to a nutrient significant plant meeting the related nutrient pollution standard are to be read in accordance with section 96F(1) or (2) of that Act.
+
+### 10. Enforcing authorities under the Environmental Permitting (England and Wales) Regulations 2016[^key-1e36d2d898916a3450035137d0fc4f2c]
+
+(1) These Regulations are to be enforced in accordance with this regulation if the damage is caused by an activity that requires a permit or registration under the Environmental Permitting (England and Wales) Regulations 2016[^key-5a489c9d33d19e81b743888e3b4b7a44].
+
+(2)[^key-7e57989789e3cbba713eea06acc76950] If the Environment Agency or the Natural Resources Body for Wales is responsible for granting the permit, these Regulations are to be enforced—
+
+- (a) if the damage is to marine waters in the Welsh zone, or to a natural habitat or protected species or a site of special scientific interest in those waters, by the Welsh Ministers;
+- (b) in any other case, by the Environment Agency.
+
+(3) If the local authority is responsible for granting the permit—
+
+- (a) Part 2 is to be enforced by a[^key-2b3ae5d33b5d89b19c587907de24ee9e] local authority;
+- (b) Part 3 is to be enforced by—
+  - (i) the local authority, if the damage is to land;
+  - (ii) the Environment Agency, if the damage is to surface water or groundwater;
+  - (iii) the Marine Management Organisation, if the damage is to marine waters, or to a natural habitat or protected species or a site of special scientific interest within those waters, out to 12 nautical miles from the baselines in England;
+  - (iv)[^key-3325236e2d121f556213c90caa88521f] the Secretary of State, if the damage is to marine waters lying beyond 12 nautical miles from the baselines in England, other than any lying in the Welsh zone, or to a natural habitat or protected species or a site of special scientific interest in those waters;
+  - (v) Natural England, if the damage is to a natural habitat or a protected species or a site of special scientific interest on land or in surface water or groundwater.
+- (vi)[^key-438e7c6613a98c357e336e57a5b71e51] the Welsh Ministers, if the damage is to marine waters in the Welsh zone, or to a natural habitat or protected species or a site of special scientific interest, in those waters.
+
+(4)[^key-06aa0315429213cd9502b1027363e614] If a local authority in Wales is responsible for granting the permit, these Regulations are to be enforced—
+
+- (a) if the damage is to marine waters in the Welsh zone, or to a natural habitat or protected species or a site of special scientific interest in those waters, by the Welsh Ministers;
+- (b) in any other case, by the Environment Agency.
+
+(5) In this regulation, “local authority in Wales” means a county council or a county borough council in Wales.
+
+### 11. Enforcing authorities in other cases
+
+(1)[^key-753ef06d2bfcdd0b773a3482b7e13db2] If the damage caused is caused by an activity that does not require a permit or registration under the Environmental Permitting (England and Wales) Regulations 2016, these Regulations are to be enforced in accordance with the provisions set out in the table in Schedule 2A.
+
+(2) For the purposes of Schedule 2A[^key-cf333f570e2db8fb4e520ccc7ee66e67] —
+
+- “**installation abandonment measures**” means any measures taken in connection with the abandonment of—
+  - (a) an offshore installation within the meaning of Part 4 of the Petroleum Act 1998 [^c22466041], or submarine pipeline within the meaning of that Part, or
+  - (b) a carbon storage installation, within the meaning of section 30 of the Energy Act 2008 [^c22466051],
+
+  in either case, whether or not the measures are taken in pursuance of an abandonment programme under Part 4 of the Petroleum Act 1998, or under that Part as it applies by virtue of section 30 of the Energy Act 2008;
+- “**sea**” includes—
+  - (a) any area of land submerged at mean high water spring tide; and
+  - (b) each of the following, so far as the tide flows at mean high water spring tide—
+    - (i) the waters of every estuary or arm of the sea; and
+    - (ii) the waters of any channel, bay or river;
+- “**specified marine activity**” means—
+  - (a) an activity for which a licence under section 3 of the Petroleum Act 1998 or section 2 of the Petroleum (Production) Act 1934 [^c22466061] (licences to search for and get petroleum) is (or was) required;
+  - (b) constructing or maintaining a pipeline in respect of any part of which an authorisation (within the meaning of Part 3 [^c22466071] of the Petroleum Act 1998) is in force;
+  - (c) establishing or maintaining an offshore installation (within the meaning of Part 4 [^c22466081] of the Petroleum Act 1998);
+  - (d) taking any installation abandonment measures;
+  - (e) an activity for which a licence under section 4 or 18 of the Energy Act 2008 [^c22466091] (gas unloading, storage and recovery and carbon dioxide storage) is required;
+  - (f) an activity (other than any specified in paragraphs (a) to (e)) which—[^key-593bb88c94a4e580ff8132ce586d3c7b]
+    - (i) is carried out in the Scottish zone or in an area outside the Scottish zone, but nearer to any point on the baselines from which the breadth of the territorial sea adjacent to Scotland is measured than to any point on the baselines in any other part of the United Kingdom; and
+    - (ii) relates to a matter which is a reserved matter by virtue of section D2 in Part 2 of Schedule 5 to the Scotland Act 1998 (oil and gas);
+  - (g) an activity (other than any specified in paragraphs (a) to (e)) which—
+    - (i) is carried out in the Welsh zone; and
+    - (ii) relates to a matter which is a reserved matter by virtue of section D2 in Part D2 of Schedule 7A to the Government of Wales Act 2006 (oil and gas).
+
+### 12. Enforcement
+
+(1) If there is more than one type of environmental damage, so that there is more than one enforcing authority, these Regulations are to be enforced by any or all of the enforcing authorities.
+
+(2) An enforcing authority may appoint any other enforcing authority to act on its behalf.
+
+(3) The Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under these Regulations.
+
+## PART 2 — Preventing Environmental Damage
+
+### 13. Preventing environmental damage
+
+(1) An operator of an activity that causes an imminent threat of environmental damage, or an imminent threat of damage where there are reasonable grounds to believe that the damage will become environmental damage, must immediately—
+
+- (a) take all practicable steps to prevent the damage; and
+- (b) (unless the threat has been eliminated) notify all relevant details to the enforcing authority appearing to the operator to be the appropriate one.
+
+(2) The enforcing authority may (whether or not notification has been given under sub-paragraph (1)) serve a notice on an operator that—
+
+- (a) describes a threat of a kind mentioned in paragraph (1);
+- (b) specifies the measures required to prevent the damage; and
+- (c) requires the operator to take those measures, or measures at least equivalent to them, within the period specified in the notice.
+
+(3) Failure to comply with paragraph (1), or with a notice served under paragraph (2), is an offence.
+
+### 14. Preventing further environmental damage
+
+(1) An operator of an activity that has caused environmental damage, or has caused damage where there are reasonable grounds to believe that the damage is or will become environmental damage, must immediately—
+
+- (a) take all practicable steps to prevent further damage; and
+- (b) notify all relevant details to the enforcing authority appearing to the operator to be the appropriate one.
+
+(2) The enforcing authority may (whether or not notification has been given under paragraph (1)) serve a notice on an operator that—
+
+- (a) describes damage of a kind mentioned in paragraph (1);
+- (b) requires the operator to provide additional information on any damage that has occurred;
+- (c) specifies the measures required to prevent further damage; and
+- (d) requires the operator to take those measures, or measures at least equivalent to them, within the period specified in the notice.
+
+(3) Failure to comply with paragraph (1), or with a notice served under paragraph (2), is an offence.
+
+### 15. Action by the enforcing authority
+
+Any duty in this Part on the operator of an activity may be carried out by the enforcing authority instead of the operator—
+
+- (a) in an emergency;
+- (b) if the operator cannot be ascertained; or
+- (c) if the operator fails to comply with a notice under regulation 13(2) or 14(2).
+
+### 16. Following instructions from a public authority
+
+When an operator acts in accordance with the instructions of a public authority and, as a result, causes or threatens to cause environmental damage, and accordingly action is taken under regulations 13, 14 or 15, the operator may recover the costs of actions under any of those regulations from that public authority, unless the instructions related to an emission or incident caused by the operator's own activities.
+
+## PART 3 — Remediation
+
+### 17. Assessment of damage
+
+Where damage has been caused and there are reasonable grounds for believing that it is, or may be, environmental damage, the enforcing authority must establish whether or not it is environmental damage.
+
+### 18. Determining liability to remediate
+
+(1) If the enforcing authority establishes that the damage is environmental damage, it must notify the responsible operator—
+
+- (a) that the damage is environmental damage;
+- (b) that the responsible operator's activity was a cause of the environmental damage;
+- (c) that the responsible operator must submit proposals, within a time specified by the enforcing authority, for measures that will achieve the remediation of the environmental damage in accordance with Schedule 3; and
+- (d) that the responsible operator has a right to appeal.
+
+(2) The enforcing authority may withdraw the notification if it is satisfied that the notification should not have been served or that an appeal against the notice is likely to succeed.
+
+### 18A. Reporting by enforcing authorities[^key-51ff65cd15456a72f40bf92b657737cc]
+
+(1) Where an enforcing authority has served a responsible operator with notification under regulation 18(1) after the coming into force of this regulation, the enforcing authority must, as soon as reasonably practicable, notify the Secretary of State of the relevant environmental damage.
+
+(2) The notification provided to the Secretary of State under paragraph (1) must contain the following information—
+
+- (a) the type of environmental damage, according to the categorisations set out in regulation 4(1)(a) to (d),
+- (b) the date on which the environmental damage occurred or was discovered, and
+- (c) the activity which caused the environmental damage, according to the list set out in Schedule 2, except in cases where regulation 5(2) applies.
+
+(3) The Secretary of State may require an enforcing authority to provide such other information in relation to the environmental damage as the Secretary of State may reasonably request.
+
+### 19. Appeals against liability to remediate
+
+(1) A person served with notification under regulation 18 may appeal against that notification by giving notice of appeal to the Secretary of State.
+
+(2) Notice of appeal must be served within 28 days of service of the notification under regulation 18 unless the time limit is extended by the Secretary of State.
+
+(3) The grounds of appeal are that—
+
+- (a) the operator's activity was not a cause of the environmental damage;
+- (b) the enforcing authority has acted unreasonably in deciding that the damage is environmental damage;
+- (c) the environmental damage resulted from compliance with an instruction from a public authority (except an instruction relating to an emission or incident caused by the operator's own activities);
+- (d)[^key-e5e9cd881366f32c9f8164c1cd2adea5][^key-fc900a123fc8d04137553176595c8f92][^key-2035a3834ffc4589df68ab849d7fe15b] the responsible operator was not at fault or negligent, and the environmental damage was caused by an emission or event expressly authorised by, and fully in accordance with the conditions of a permit listed in Schedule 4;
+- (e) the responsible operator was not at fault or negligent, and the environmental damage was caused by an emission or activity, or any manner of using a product in the course of an activity, that the operator demonstrates was not considered likely to cause environmental damage according to the state of scientific and technical knowledge at the time when the emission was released or the activity took place; or
+- (f) the environmental damage was the result of an act of a third party and occurred despite the fact that the responsible operator took all appropriate safety measures.
+
+(4) Schedule 5 contains procedures for the appeal.
+
+(5) The person deciding the appeal may confirm or quash the notice.
+
+### 20. Remediation notices
+
+(A1)[^key-224e4ff39d582cad65e68bd4a1753df8] Where a responsible operator has received a notice from the enforcing authority under regulation 18, it must without delay identify potential remedial measures in accordance with Schedule 3 and submit them in writing to the enforcing authority for its approval.
+
+(1) Once it receives the proposals from the responsible operator (or, if a proposal is not received within the specified time limit, at any time after the time limit has expired), the enforcing authority—
+
+- (a) must, so far as is practicable, consult—
+  - (i) any person who has notified an enforcing authority under regulation 29; and
+  - (ii) any person on whose land the remedial measures will be carried out; and
+- (b) may consult any other person appearing to the enforcing authority to be necessary.
+
+(2) Following consultation the enforcing authority must serve a notice on the responsible operator that specifies—
+
+- (a) the damage;
+- (b) the measures necessary for remediation of the damage, together with the reasons;
+- (c) the period within which those measures must be taken;
+- (d) any additional monitoring or investigative measures that the responsible operator must carry out during remediation; and
+- (e) the right of appeal against the notice.
+
+(3) Failure to comply with a remediation notice is an offence.
+
+### 21. Appeal against a remediation notice
+
+(1) A responsible operator may appeal against a remediation notice on the grounds that its contents are unreasonable by giving notice of appeal to the Secretary of State.
+
+(2) An appeal may only be brought against those parts of the remediation notice that specify requirements which are different from proposals submitted by the responsible operator in accordance with a notification under regulation 18(1)(c).
+
+(3) Notice of appeal must be served within 28 days of service of the remediation notice unless the time limit is extended by the Secretary of State.
+
+(4) Schedule 5 contains procedures for the appeal.
+
+(5) The Secretary of State or the person appointed by the Secretary of State to deal with the appeal—
+
+- (a) may confirm, vary or quash the notice;
+- (b) must give written notification of the final decision and the reasons for it; and
+- (c) may, if appropriate, add further compensatory remediation requirements necessitated by the lapse of time since the remediation notice was served.
+
+(6) A remediation notice need not be complied with pending determination of an appeal unless the person hearing the appeal directs otherwise.
+
+### 22. Further provisions on remediation notices
+
+An enforcing authority may serve further remediation notices at any time while remediation is being carried out or, if remediation has not been achieved, at the end of the remediation period, requiring further or different remediation.
+
+### 23. Action by the enforcing authority
+
+Once it has established that, in its opinion, damage is environmental damage, the enforcing authority may carry out any reasonable works—
+
+- (a) at any time if a responsible operator cannot be identified;
+- (b) if a responsible operator fails to comply with a remediation notice, whether or not an appeal is pending; or
+- (c) if the responsible operator is not required to carry out remediation under these Regulations.
+
+## PART 4 — Administration, Enforcement and Review
+
+### 24. Costs when the enforcing authority acts instead of the operator
+
+(1) An operator liable to carry out works under Part 2 is liable for the reasonable costs incurred by the enforcing authority in taking any reasonable action under regulation 15.
+
+(2) The responsible operator is liable for the reasonable costs of the enforcing authority for any action taken under regulation 23(a) or (b).
+
+### 25. Costs concerned with administration
+
+(1) An operator liable to carry out works under Part 2 is liable for the reasonable costs incurred by the enforcing authority in preparing any notice under Part 2, or in ensuring compliance with that Part.
+
+(2) The responsible operator is liable for the costs incurred by the enforcing authority under Part 3 of—
+
+- (a) assessing whether the damage is environmental damage;
+- (b) establishing who is the responsible operator;
+- (c) establishing what remediation is appropriate;
+- (d) carrying out necessary consultation; and
+- (e) monitoring the remediation, both during and after the work.
+
+(3) In paragraph (2) “**costs**” means costs that are justified by the need to ensure the proper and effective enforcement of these Regulations.
+
+### 26. Proceedings for costs by an enforcing authority
+
+No proceedings for the recovery of costs may be commenced by the enforcing authority under these Regulations after a period of five years has elapsed since the later of—
+
+- (a) the completion of the measures to which the proceedings relate; or
+- (b) the identification of the operator liable to carry out the measures.
+
+### 27. Costs recoverable from owner to be a charge on premises
+
+(1) Where any costs are recoverable under these Regulations by an enforcing authority from a person who is the owner of any premises and the enforcing authority serves a notice on that person under this regulation—
+
+- (a) the costs carry interest, at such reasonable rate as the authority may determine, from the date of service of the notice until the whole amount is paid; and
+- (b) subject to the provisions of this regulation, the costs and accrued interest are a charge on the premises.
+
+(2) A notice served under this regulation must—
+
+- (a) specify the amount of the costs that the enforcing authority claims is recoverable;
+- (b) state the effect of paragraph (1) and the rate of interest determined by the enforcing authority under that paragraph; and
+- (c) state the effect of paragraphs (4) and (5).
+
+(3) On the date on which an enforcing authority serves a notice on a person under this regulation the authority must also serve a copy of the notice on every other person who, to the knowledge of the authority, has an interest in the premises capable of being affected by the charge.
+
+(4) Subject to any order under paragraph (6)(b) or (c), the amount of any costs specified in a notice under this regulation and the accrued interest is a charge on the premises (until the costs and interest are recovered)—
+
+- (a) as from the end of the period of 21 days beginning with the date of service of the notice; or
+- (b) where an appeal is brought under paragraph (5), as from the final determination or withdrawal of the appeal.
+
+(5) A person served with a notice or a copy of a notice under this regulation may appeal against the notice to the county court within the period of 21 days beginning with the date of service.
+
+(6) On an appeal under paragraph (5) the court may—
+
+- (a) confirm the notice without modification;
+- (b) order that the notice is to have effect with the substitution of a different amount for the amount originally specified in it; or
+- (c) order that the notice is to be of no effect.
+
+(7) An enforcing authority has, for the purpose of enforcing a charge under this regulation, all the same powers and remedies under the Law of Property Act 1925 [^c22466101], and otherwise, as if it were a mortgagee by deed having powers of sale and lease, of accepting surrenders of leases and of appointing a receiver.
+
+(8) In this regulation, “**owner**”, in relation to any premises, means a person (other than a mortgagee not in possession) who, whether in that person's own right or as trustee for any other person, is entitled to receive the rack rent of the premises or, where the premises are not let at a rack rent, would be so entitled if they were so let.
+
+### 28. Recovery of costs from other persons
+
+An operator who incurs liability under these Regulations (whether in carrying out work or in payment to the enforcing authority) may recover all or some of those costs from any other person who also caused the damage.
+
+### 29. Requests for action by interested parties
+
+(1) Any person—
+
+- (a) who is affected or likely to be affected by environmental damage, or
+- (b) who otherwise has a sufficient interest,
+
+may notify the appropriate enforcing authority of any environmental damage which is being, or has been, caused, or of which there is an imminent threat.
+
+(2) A notification must be accompanied by—
+
+- (a) a statement explaining the way in which the notifier will be affected by the damage, or the reason that the notifier has a sufficient interest; and
+- (b) sufficient information to enable the enforcing authority to identify the location and nature of the incident.
+
+(3) The enforcing authority must consider the notification and inform the notifier as to the action, if any, that it intends to take.
+
+(4) Before taking any decision the enforcing authority must, if practicable—
+
+- (a) notify the operator concerned of the notification and the accompanying information; and
+- (b) invite the operator to submit comments on them.
+
+(5) Paragraphs (3) and (4) do not apply if, in the opinion of the enforcing authority—
+
+- (a) the notifier is not likely to be affected or does not have a sufficient interest;
+- (b) the information provided does not disclose any environmental damage or threat of environmental damage; or
+- (c) as a result of the urgency of the situation, it is not practicable for the enforcing authority to comply with those paragraphs.
+
+### 30. Grant of and compensation for rights of entry etc.
+
+(1) Any person whose consent is required before any works required by these Regulations may be carried out must grant, or join in granting, such rights in relation to any land or water as will enable the operator, or a person acting on behalf of the operator, to carry out that work.
+
+(2) A person who grants, or joins in granting, any rights as required by paragraph (1) is, on making an application in accordance with Schedule 6, entitled to compensation from the operator determined in accordance with that Schedule.
+
+### 31. Powers of authorised persons
+
+(1) Enforcing authorities may authorise persons for the purposes of enforcing these Regulations.
+
+(2) The powers in section 108 of the Environment Act 1995 [^c22466111] apply in relation to these Regulations, and the powers of persons authorised by the Environment Agency in that section are exercisable by persons authorised by any enforcing authority.
+
+(3) Those powers are extended to all areas to which these Regulations apply.
+
+(4) In addition, a person authorised by the Secretary of State enforcing these Regulations in relation to the sea may at any time board and inspect—
+
+- (a) a ship or marine installation in the United Kingdom territorial waters adjacent to England; or
+- (b) a United Kingdom ship (within the meaning of section 1(3) of the Merchant Shipping Act 1995 [^c22466121]) or a marine installation in the renewable energy zone (as defined in section 84 of the Energy Act 2004 [^c22466131]).
+
+(5) For the purposes of exercising the powers in this regulation, the authorised person may require a ship or marine installation—
+
+- (a) to stop; or
+- (b) to do anything else that will facilitate the boarding of that or any other ship or marine installation.
+
+(6) An authorised person who has boarded a ship or marine installation may, for the purposes of disembarking from the ship or installation, require that or any other ship or marine installation—
+
+- (a) to stop; or
+- (b) to do anything else that will enable the authorised person, and any person accompanying that person, to disembark.
+
+(7) An authorised person may require any person on board a vessel or marine installation to afford such facilities and assistance with respect to matters under that person's control as the authorised person considers would facilitate the exercise of any power conferred by this regulation.
+
+(8) It is an offence to fail to comply with instructions given under this regulation, or knowingly to provide false or misleading information.
+
+### 32. Provision of information to the enforcing authority
+
+(1) An enforcing authority may require an operator to provide such information as it may reasonably require for the purpose of enabling the enforcing authority to carry out its functions under these Regulations.
+
+(2) Failure to provide information required in accordance with paragraph (1) is an offence.
+
+### 33. Enforcement
+
+No enforcement action may be taken under these Regulations after the end of the period of 30 years starting with the date of the emission, event or incident concerned.
+
+### 34. Penalties[^key-9899b5a87cb5b97b5ab12219b1e4f7fd]
+
+(1) A person guilty of an offence under these Regulations is liable—
+
+- (a) on summary conviction, to a fine or to imprisonment for a term not exceeding three months or both;
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or both.
+
+(2) Where a body corporate is guilty of an offence under these Regulations and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of—
+
+- (a) any director, manager, secretary or other similar person of the body corporate, or
+- (b) any person who was purporting to act in any such capacity,
+
+that person is guilty of the offence as well as the body corporate.
+
+(3) For the purposes of paragraph (2), “**director**”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+### 35. Review
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review, the Secretary of State must, so far as is reasonable, have regard to how Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) which is implemented by these Regulations, is implemented in other member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations;
+- (b) assess the extent to which those objectives have been achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with 19th July 2015.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+## PART 5 — Revocations
+
+### 36. Revocations
+
+The following Regulations are revoked— the Environmental Damage (Prevention and Remediation) Regulations 2009 [^c22466141]; the Environmental Damage (Prevention and Remediation) (Amendment) Regulations 2009 [^c22466151]; the Environmental Damage (Prevention and Remediation) (Amendment) Regulations 2010 [^c22466161].
+
+Dan Rogerson
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+## SCHEDULE 1 — Damage to Protected Species, Natural Habitats and Sites of Special Scientific Interest
+
+Regulation 4(2)
+
+### 1. Damage to a protected species or natural habitat
+
+In the case of a protected species or natural habitat (other than damage to a site of special scientific interest, to which paragraph 4 applies) the damage must be such that it has a significant adverse effect on reaching or maintaining the favourable conservation status of the protected species or natural habitat, taking into account—
+
+- (a) the conservation status at the time of the damage;
+- (b) the services provided by the amenities they produce;
+- (c) their capacity for natural regeneration;
+- (d) the number of individuals, their density or the area covered;
+- (e) the role of the particular individuals or of the damaged area in relation to the species or to the habitat conservation and the rarity of the species or habitat assessed at the relevant level, whether local, regional , national or in their natural range[^key-ec7ce9391c57c321c9684b4e7c0f66e1];
+- (f) the capacity of the species for propagation, its viability, or the capacity of the habitat for natural regeneration; and
+- (g) the capacity of the species or habitat, within a short time of the damage being caused, to recover to a condition that leads to its state at the time of the damage or better without any intervention other than increased protection measures.
+
+### 2. Conservation status of natural habitats
+
+(1) A habitat's conservation status is the sum of the influences acting on that habitat and its typical species that may affect its long-term natural distribution, structure and functions as well as the long-term survival of its typical species.
+
+(2) The conservation status of a habitat is favourable if—
+
+- (a) the natural range and areas covered within that natural range are stable or increasing;
+- (b) the specific structure and functions which are necessary for the long-term maintenance of the natural habitat exist and are likely to continue to exist for the foreseeable future; and
+- (c) the conservation status of its typical species is favourable.
+
+### 3. Conservation status of species
+
+(1) The conservation status of a species is the sum of the influences acting on the species concerned that may affect the long-term distribution and abundance of its populations.
+
+(2) The conservation status is favourable if—
+
+- (a) the population dynamics data on the species indicate that it is maintaining itself on a long-term basis as a viable component of its natural habitat;
+- (b) the natural range of the species is neither being reduced nor is likely to be reduced for the foreseeable future; and
+- (c) there is, and will probably continue to be, a sufficiently large habitat to maintain its populations on a long-term basis.
+
+### 4. Sites of special scientific interest
+
+(1) In the case of a site of special scientific interest, the damage must be to—
+
+- (a) the species or habitats notified under section 28 of the Wildlife and Countryside Act 1981; or
+- (b) a protected species or natural habitat.
+
+(2) The damage must have an adverse effect on the integrity of the site (that is, the coherence of its ecological structure and function, across its whole area, that enables it to sustain the habitat, complex of habitats or the levels of populations of the species affected).
+
+### 5. Express authorisation[^key-3019a40fb331978985254f91811df8e8]
+
+(1) Damage to a protected site or natural habitat and damage to a site of special scientific interest do not include damage caused by an act expressly authorised by the relevant authorities in accordance with—
+
+- (a) the Conservation (Natural Habitats, &c.) Regulations 1994;
+- (b) the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001;
+- (c) the Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007;
+- (d) the Conservation of Habitats and Species Regulations 2010;
+- (e) the Conservation of Habitats and Species Regulations 2017;
+- (f) the Conservation of Offshore Marine Habitats and Species Regulations 2017.
+
+(2) Damage to sites of special scientific interest does not include, in the case of a site that is not a European site, damage caused by an act expressly authorised by the relevant authorities in accordance with Part 2 of the Wildlife and Countryside Act 1981.
+
+(3) In sub-paragraph (2), “European site” has the same meaning as in regulation 8 of the Conservation of Habitats and Species Regulations 2017[^key-31b73fbd2829e020e1f144d32ff6bd0f].
+
+## SCHEDULE 2 — Activities causing damage
+
+Regulation 5(1)
+
+### 1. Operations to which this Schedule applies
+
+This Schedule lists the activities for which there is liability under regulation 5(1).
+
+### 1A. Interpretation[^key-9157ecb6797e43a01766c6879474ae44]
+
+A reference in this Schedule to an activity being authorised, prohibited or managed pursuant to, or subject to a permit or registration under, a Directive includes, after IP completion day, any activity authorised, prohibited or managed pursuant to, or subject to a permit or registration under, any assimilated[^key-ce04db8a1bd85eac5c6568e0da031bd3] law which transposed that Directive.
+
+### 2. Operation of permitted installations
+
+The operation of installations subject to permit in pursuance of—
+
+- (a) Council Directive [96/61/EC](https://www.legislation.gov.uk/eudr/1996/61) concerning integrated pollution prevention and control [^c22466211];
+- (b) Directive [2008/1/EC](https://www.legislation.gov.uk/eudr/2008/1) of the European Parliament and of the Council concerning integrated pollution prevention and control [^c22466221] (all activities listed in Annex I to that Directive with the exception of installations or parts of installations used for research, development and testing of new products and processes); or
+- (c) Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control) [^c22466231].
+
+### 3. Waste management operations
+
+(1) Waste management operations, including the collection, transport, recovery and disposal of waste and hazardous waste, including the supervision of such operations and after-care of disposal sites, subject to permit or registration in pursuance of—
+
+- (a) Council Directive [75/439/EEC](https://www.legislation.gov.uk/eudr/1975/439) on the disposal of waste oils [^c22466241];
+- (b) Council Directive [75/442/EEC](https://www.legislation.gov.uk/eudr/1975/442) on waste [^c22466251];
+- (c) Council Directive [91/689/EEC](https://www.legislation.gov.uk/eudr/1991/689) on hazardous waste [^c22466261];
+- (d) Directive [2006/12/EC](https://www.legislation.gov.uk/eudr/2006/12) of the European Parliament and of the Council on waste [^c22466271]; or
+- (e) Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste [^c22466281] [^key-5424e12ccc5e6d633cef2b1d2ae222f2]....
+
+(2) The operation of—
+
+- (a) landfill sites under Council Directive [1999/31/EC](https://www.legislation.gov.uk/eudr/1999/31) on the landfill of waste [^c22466291]; or
+- (b) incineration plants under—
+  - (i) Directive [2000/76/EC](https://www.legislation.gov.uk/eudr/2000/76) of the European Parliament and of the Council on the incineration of waste [^c22466301]; or
+  - (ii) Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control).
+
+(3) The activities to which these Regulations apply do not include the spreading of sewage sludge from urban waste water treatment plants, treated to an approved standard, for agricultural purposes.
+
+### 4. Mining waste
+
+The management of extractive waste under Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) of the European Parliament and of the Council on the management of waste from extractive industries [^c22466311].
+
+### 5. Discharges requiring authorisation
+
+(1) All discharges into the inland surface water that require prior authorisation in pursuance of—
+
+- (a) Council Directive [76/464/EEC](https://www.legislation.gov.uk/eudr/1976/464) on pollution caused by certain dangerous substances discharged into the aquatic environment of the Community [^c22466321]; or
+- (b) Directive [2006/11/EC](https://www.legislation.gov.uk/eudr/2006/11) of the European Parliament and of the Council on pollution caused by certain dangerous substances discharged into the aquatic environment of the Community [^c22466331].
+
+(2) All discharges of substances into groundwater that required prior authorisation in pursuance of—
+
+- (a) Council Directive [80/68/EEC](https://www.legislation.gov.uk/eudr/1980/68) on the protection of groundwater against pollution caused by certain dangerous substances [^c22466341];
+- (b) Directive [2006/118/EC](https://www.legislation.gov.uk/eudr/2006/118) of the European Parliament and of the Council on the protection of groundwater against pollution and deterioration [^c22466351].
+
+(3) All discharges or injections of pollutants into surface water or groundwater that require a permit, authorisation or registration under Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60).
+
+### 6. Water abstraction and impoundment
+
+Water abstraction and impoundment of water subject to prior authorisation in pursuance of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60).
+
+### 7. Dangerous substances, plant protection products and biocidal products
+
+Manufacture, use, storage, processing, filling, release into the environment and onsite transport of—
+
+- (a) dangerous substances as defined in Article 2(2) of Council Directive [67/548/EEC](https://www.legislation.gov.uk/eudr/1967/548) on the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous substances [^c22466361];
+- (b) hazardous substances as defined in Article 3 of Regulation [(EC) No. 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures [^c22466371];
+- (c) dangerous preparations as defined in Article 2(2) of Directive [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45) of the European Parliament and of the Council concerning the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations [^c22466381];
+- (d) plant protection products (which has the same meaning as in Article 2(1) of Regulation [(EC) No. 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market [^c22466391]; and
+- (e) biocidal products as defined in Article 2(1)(a) of Directive [98/8/EC](https://www.legislation.gov.uk/eudr/1998/8) of the European Parliament and of the Council concerning the placing of biocidal products on the market [^c22466401], or as defined in Article 3(1)(a) of Regulation (EU) No. 528/2012 of the European Parliament and of the Council concerning the making available on the market and use of biocidal products [^c22466411].
+
+### 8. Transport
+
+Transport by road, rail, inland waterways, sea or air of dangerous goods or polluting goods as defined in—
+
+- (a) Annex A to Council Directive [94/55/EC](https://www.legislation.gov.uk/eudr/1994/55) on the approximation of the laws of the Member States with regard to the transport of dangerous goods by road [^c22466421];
+- (b) the Annex to Council Directive [96/49/EC](https://www.legislation.gov.uk/eudr/1996/49) on the approximation of the laws of the Member States with regard to the transport of dangerous goods by rail [^c22466431];
+- (c) Council Directive [93/75/EEC](https://www.legislation.gov.uk/eudr/1993/75) concerning minimum requirements for vessels bound for or leaving Community ports and carrying dangerous or polluting goods [^c22466441];
+- (d) Directive [2002/59/EC](https://www.legislation.gov.uk/eudr/2002/59) of the European Parliament and of the Council establishing a Community vessel traffic monitoring and information system [^c22466451]; and
+- (e) Directive [2008/68/EC](https://www.legislation.gov.uk/eudr/2008/68) of the European Parliament and of the Council on the inland transport of dangerous goods [^c22466461].
+
+### 9. Genetically modified organisms
+
+(1) Any contained use, including transport, involving genetically modified organisms (including genetically modified micro-organisms as defined by Council Directive [90/219/EEC](https://www.legislation.gov.uk/eudr/1990/219) on the contained use of genetically modified micro-organisms) [^c22466471] excluding precision bred plants within the meaning of section 1, as read with section 2(1), of the Genetic Technology (Precision Breeding) Act 2023.[^key-d2dcb2feffdba506f392ac395bab62b2]
+
+(2) Any deliberate release into the environment, transport and placing on the market of genetically modified organisms as defined by Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18) of the European Parliament and of the Council on the deliberate release into the environment of genetically modified organisms [^c22466481] excluding precision bred plants within the meaning of section 1, as read with section 2(1), of the Genetic Technology (Precision Breeding) Act 2023.
+
+### 10. Transboundary shipment of waste
+
+Transboundary shipment of waste within, into or out of the Community or into or out of the United Kingdom[^key-1fe171ac1555024965a2c08360cde713], requiring an authorisation or prohibited under—
+
+- (a) Council Regulation [(EEC) No. 259/93](https://www.legislation.gov.uk/eur/1993/259) on the supervision and control of shipments of waste within, into and out of the European Community [^c22466491]; or
+- (b) Regulation [(EC) No. 1013/2006](https://www.legislation.gov.uk/eur/2006/1013) of the European Parliament and of the Council on shipments of waste [^c22466501].
+
+### 11. Operation of carbon dioxide storage sites
+
+The operation of storage sites pursuant to Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) of the European Parliament and of the Council on the geological storage of carbon dioxide [^c22466511].
+
+## Schedule 2ZA — Modifications where regulation 9A applies[^key-458306b620c85bc5d10442cc963ecd17]
+
+Regulation 9A
+
+**1.** In relation to anything that is treated as environmental damage by regulation 9A, these regulations apply with the following modifications.
+
+**2.** Regulation 17 does not apply.
+
+**3.** Regulation 18 applies as if—
+
+- (a) the opening words of paragraph (1) provided “Where excess nutrient pollution is treated as environmental damage by regulation 9A(2), the enforcing authority must notify the responsible operator—”;
+- (b) for paragraph (a) there were substituted—
+
+  > - (a) of the environmental damage;
+
+  .
+
+**4.** Regulation 18A applies with the omission of paragraph (2).
+
+**5.** Regulation 19(3) applies as if for paragraphs (a) to (e) (but not the “or” immediately following paragraph (e)) there were substituted—
+
+> - (a) the responsible operator did not fail to secure that the nutrient significant plant in question is able to meet the related nutrient pollution standard by the upgrade date;
+> - (b) the determination by the Environment Agency of the excess nutrient pollution mentioned in regulation 9A(2) was unreasonable;
+
+.
+
+**6.** Regulation 25(2) applies as if—
+
+- (a) for paragraph (a) there were substituted—
+
+  > - (a) determining the excess nutrient pollution mentioned in regulation 9A(2);
+
+  ;
+- (b) paragraph (b) were omitted.
+
+## SCHEDULE 2A — Enforcing authority: activities not requiring a permit or registration under the Environmental Permitting (England and Wales) Regulations 2016[^key-0e7700de140e2f4c11efecc07e1d4220]
+
+Regulation 11(1)
+
+<table>
+<thead>
+<tr><th>Type of environmental damage (in bold) and (where limited) area of environmental damage</th><th>Enforcing authority</th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="2">(1)<br>For the definition of “specified marine activity”, see regulation 11(2).</td></tr>
+<tr><td colspan="2">(2)<br>For the definition of “sea”, see regulation 11(2).</td></tr>
+</tfoot>
+<tbody>
+<tr><td>Damage to <strong>land</strong>.</td><td>The local authority</td></tr>
+<tr><td>Damage to <strong>surface water or groundwater</strong>.</td><td>The Environment Agency</td></tr>
+<tr><td>Damage to <strong>marine waters</strong> out to 12 nautical miles from the baselines in England.</td><td>The Marine Management Organisation</td></tr>
+<tr><td>Damage to <strong>marine waters</strong> beyond 12 nautical miles from (a) the baselines in England, or (b) the baselines in Northern Ireland, extending to the outermost reach of the area where the United Kingdom exercises jurisdictional rights.</td><td>The Secretary of State</td></tr>
+<tr><td>(a) within the Welsh zone; or</td><td>(a) if the damage was caused by anything done in the course of, or for the purpose of, a specified marine activity; or</td></tr>
+<tr><td>(b) within the Scottish zone, or outside the Scottish zone, but nearer to any point on the baselines from which the breadth of the territorial sea adjacent to Scotland is measured than to any point on the baselines in any other part of the United Kingdom.</td><td>(a) in relation to the exercise of powers under Part 2 of these Regulations only, if the damage was caused by an activity relating to a matter which is a reserved matter by virtue of—<br>(i) in the case of marine waters within the Welsh zone, section E3 in Part 2 of Schedule 7A to the Government of Wales Act 2006 (marine transport);<br>(ii) in any other case, section E3 in Part 2 of Schedule 5 to the Scotland Act 1998 (marine transport).<br>(2) In a case not falling within paragraph (1)(a) or (b) above—<br>(a) where the marine waters are within the Welsh zone, the Welsh Ministers;<br>(b) otherwise, the Scottish Ministers.</td></tr>
+<tr><td>Damage to <strong>a protected species or natural habitat or a site of special scientific interest</strong> on land.</td><td>Natural England</td></tr>
+<tr><td>Damage to <strong>a protected species or natural habitat or a site of special scientific interest</strong> in water, but not in the sea.</td><td>The Environment Agency</td></tr>
+<tr><td>Damage to <strong>a protected species or natural habitat or a site of special scientific interest</strong> on any other part of the continental shelf or in the sea up to the limit of the exclusive economic zone.</td><td>(1) The Environment Agency, if the damage is due to an activity authorised by the Environment Agency.<br>(2) In any other case, the Secretary of State.</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 3 — Remediation
+
+Regulation 18(1)(c)
+
+### PART 1 — Remediation of Damage to Natural Resources other than Land
+
+#### 1. Application of Part 1
+
+This Part relates to remediation of damage to natural resources other than land.
+
+#### 2. Risk to human health
+
+Remediation must remove any significant risk to human health.
+
+#### 3. Objective
+
+The objective of remediation is to achieve the same level of natural resources or services as would have existed if the damage had not occurred.
+
+#### 4. Primary and complementary remediation
+
+(1) The remediation must consist of such primary remediation or complementary remediation or both as will achieve the objective.
+
+(2) Primary remediation is any remedial measure which returns the damaged natural resources or impaired services to, or towards, the state that would have existed if the damage had not occurred (and for this purpose natural recovery is a permitted form of primary remediation in appropriate cases).
+
+(3) Complementary remediation is any remedial measure taken in relation to natural resources or services to compensate for the fact that primary remediation does not result in fully restoring the damaged natural resources or impaired services to the state that would have existed if the damage had not occurred.
+
+#### 5. Compensatory remediation
+
+(1) In addition compensatory remediation must be provided to compensate for interim losses of natural resources or services that occur from the date of damage until remediation has achieved its objective; and in this paragraph “**interim losses**” means losses which result from the fact that the damaged natural resources or services are not able to perform their ecological functions or provide services to other natural resources or to the public until the primary or complementary remediation has been carried out.
+
+(2) Compensatory remediation does not include financial compensation.
+
+#### 6. Choice of remediation
+
+The remediation options must be evaluated using best available methods, and based on—
+
+- (a) the effect of each option on public health and safety;
+- (b) the cost of implementing the option;
+- (c) the likelihood of success of each option;
+- (d) the extent to which each option will prevent future damage and avoid collateral damage as a result of implementing the option;
+- (e) the extent to which each option benefits each component of the natural resources or services;
+- (f) the extent to which each option takes account of relevant social, economic and cultural concerns and other relevant factors specific to the locality;
+- (g) the length of time it will take for the restoration of the environmental damage to be effective;
+- (h) the extent to which each option achieves the restoration of the site of the environmental damage; and
+- (i) the geographical linkage to the damaged site.
+
+#### 7. Identification of complementary and compensatory remediation
+
+(1) If possible, complementary and compensatory remedial measures must provide natural resources or services of the same type, quality and quantity as those damaged.
+
+(2) Where this is not possible, similar but different natural resources or services must be provided (for example, by offsetting a reduction in the quality of natural resources or services by increasing their quantity).
+
+(3) Where the provision of similar natural resources or services is not possible, different natural resources or services may be provided and the remedial measures must have the same monetary valuation as the lost natural resources or services.
+
+(4) If valuation of the lost natural resources or services is practicable, but valuation of the remedial measures cannot be made within a reasonable time or at a reasonable cost, then remedial measures may be provided the cost of which (instead of monetary valuation) is equivalent to the value of the lost natural resources or services.
+
+(5) In the case of complementary remediation at a new site, where possible and appropriate this site should be geographically linked to the damaged site.
+
+#### 8. Options
+
+(1) When evaluating the different identified remedial options, primary remedial measures that do not fully restore the damaged water or protected species or natural habitat to its state at the time of the incident, or that restore it more slowly, may be decided on (for example, when the equivalent natural resources or services could be provided elsewhere at a lower cost).
+
+(2) This decision can be taken only if the natural resources or services foregone as a result of the decision are compensated for by increasing complementary or compensatory actions to provide a similar level of natural resources or services.
+
+(3) The enforcing authority may at any time decide that no further remedial measures need be taken if—
+
+- (a) the remedial measures already taken have removed any significant risk of adversely affecting human health, water or protected species and natural habitats; and
+- (b) the cost of the remedial measures needed for restoration to its state before the incident would be disproportionate to the environmental benefits to be obtained.
+
+### PART 2 — Remediation of Damage to Land
+
+#### 9. Remediation of damage to land
+
+(1) This Part applies in relation to damage to land.
+
+(2) The remediation must ensure, as a minimum, that the relevant contaminants are removed, controlled, contained or diminished so that the land, taking account of its lawful current use or any planning permission in existence at the time of the damage, no longer poses any significant risk of adverse effects on human health.
+
+(3) The presence of such risks must be assessed through risk-assessment procedures taking into account the characteristic and function of the soil, the type and concentration of the harmful substances, preparations, organisms or micro-organisms, their risk and the possibility of their dispersal.
+
+(4) Natural recovery is a permitted form of remediation in appropriate cases.
+
+## SCHEDULE 4 — Permits etc.
+
+Regulation 19(3)(d)
+
+**1.** The following are permits for the purposes of regulation 19(3)(d) in so far as they relate to an activity in Schedule 2—
+
+- (a) a permit granted under the Environmental Permitting (England and Wales) Regulations 2016[^key-a5117d04d912dc5f84ffc97725dd9b55] or a registration under those Regulations;
+- (b) a marine licence granted under Part 4 of the Marine and Coastal Access Act 2009 [^c22466521];
+- (c) an ordinary or emergency drought order or a drought permit under the Water Resources Act 1991 [^c22466531];
+- (d) a water abstraction or impoundment licence under the Water Resources Act 1991;
+- (e) an authorisation of, or permission for, a plant protection product granted, or deemed to be granted, in accordance with Regulation [(EC) No. 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market;
+- (f) a consent for the deliberate release of genetically modified organisms granted by the Secretary of State under section 111(1) of the Environmental Protection Act 1990 [^c22466541] or a consent given in any other member State for the placing of a genetically modified organism on the market as a product or in a product in accordance with Directive [2001/18/EC](https://www.legislation.gov.uk/european/directive/2001/0018) of the European Parliament and of the Council on the deliberate release into the environment of genetically modified organisms [^c22466551]; and
+- (g) an authorisation given in any member State in accordance with Article 7 or 19 of Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) of the European Parliament and of the Council on genetically modified food and feed [^c22466561].
+
+## SCHEDULE 5 — Procedures for Appeals
+
+Regulations 19(4) and 21(4)
+
+### PART 1 — General
+
+**1.** In this Schedule, the “**appointed person**” means the person appointed by the Secretary of State in accordance with paragraph 10 of Part 2.
+
+### PART 2 — Appeals When the Secretary of State is Not the Enforcing Authority
+
+**2.** This Part applies when the Secretary of State is not the enforcing authority.
+
+**3.** Notification of appeal must contain—
+
+- (a) a copy of the notification or remediation notice appealed against; and
+- (b) the grounds of appeal.
+
+**4.** When notification is received—
+
+- (a) the Secretary of State must send a copy of the notification of appeal to the enforcing authority; and
+- (b) the enforcing authority must—
+  - (i) immediately send a copy to any person who appears to it to have a particular interest in the subject matter of the appeal; and
+  - (ii) notify the Secretary of State of the persons to whom a copy has been sent.
+
+**5.** The Secretary of State must notify the appellant of the time limit within which the appellant must provide in writing—
+
+- (a) a statement of case; and
+- (b) all relevant correspondence.
+
+**6.** When these are received, the Secretary of State must send all the documents to the enforcing authority, giving the enforcing authority a time limit within which it must provide a written response.
+
+**7.** At the same time the Secretary of State must notify any person notified under paragraph 4(b)(i) of the time limit under paragraph 5 and invite that person to make representations before that date.
+
+**8.** The Secretary of State must then decide whether further evidence is needed, and give directions accordingly.
+
+**9.** The Secretary of State must then decide whether or not the appeal must be dealt with by written procedure or whether a hearing must be held.
+
+**10.** The Secretary of State must then refer the appeal to a person appointed by the Secretary of State to deal with the appeal, and specify to the appointed person the decision made under paragraph 9.
+
+**11.** Following the conclusion of the appeal by the appointed person, the appointed person must decide the appeal or, if so directed by the Secretary of State at any stage before the decision is made, make a recommendation to the Secretary of State, who must decide the appeal.
+
+**12.** The person deciding the appeal may make such order as to the costs of the parties (including parties who make representations) as appears to that person to be fit.
+
+### PART 3 — Appeals When the Secretary of State is the Enforcing Authority
+
+**13.** If the Secretary of State is the enforcing authority, the procedures in Part 2 of this Schedule apply except that—
+
+- (a) the Secretary of State must appoint an appointed person as soon as notification of appeal is received;
+- (b) the appointed person must carry out the functions of the Secretary of State specified in paragraphs 4 to 9;
+- (c) the notification under paragraph 4(b)(ii) must be made to the appointed person; and
+- (d) the appointed person must in all cases decide the appeal.
+
+## SCHEDULE 6 — Compensation
+
+Regulation 30(2)
+
+### 1. Compensation for grant of rights
+
+This Schedule prescribes—
+
+- (a) the period within which a person who grants, or joins in granting, any rights pursuant to regulation 30 may apply for compensation for the grant of those rights;
+- (b) the manner in which, and the person to whom, such an application may be made; and
+- (c) the manner of determining such compensation, for determining the amount of such compensation and for making supplemental provision relating to such compensation.
+
+### 2. Interpretation
+
+In this Schedule—
+
+- “**the grantor**” means the person who grants, or joins in granting, any right; and
+- “**relevant interest**” means an interest in land out of which a right has been granted or which is bound by a right granted.
+
+### 3. Period for making an application
+
+An application for compensation must be made before the expiry of a period of 12 months beginning with the later of—
+
+- (a) the date of the grant of the rights in respect of which compensation is claimed; or
+- (b) where there is an appeal against the notice in relation to which those rights were granted, the date on which the appeal is determined or withdrawn.
+
+### 4. Manner of making an application
+
+(1) An application for compensation must be made in writing and delivered at or sent by pre-paid post to the last known address for correspondence of the person to whom the right was granted.
+
+(2) The application must contain—
+
+- (a) a copy of the grant of rights in respect of which the grantor is applying for compensation and of any plans attached to such grant;
+- (b) a description of the exact nature of any interest in land in respect of which compensation is applied for; and
+- (c) a statement of the amount of compensation applied for, distinguishing the amounts applied for under each of sub-paragraphs (a) to (e) of paragraph 5 and showing how the amount applied for under each sub-paragraph has been calculated.
+
+### 5. Loss and damage for which compensation is payable
+
+Compensation is payable for loss and damage of the following descriptions—
+
+- (a) any depreciation in the value of any relevant interest to which the grantor is entitled which results from the grant of the right;
+- (b) loss or damage, in relation to any relevant interest to which the grantor is entitled, which—
+  - (i) is attributable to the grant of the right or the exercise of it;
+  - (ii) does not consist of depreciation in the value of that interest; and
+  - (iii) is loss or damage for which the grantor would have been entitled to compensation by way of compensation for disturbance, if that interest had been acquired compulsorily under the Acquisition of Land Act 1981 [^c22466571], in pursuance of a notice to treat served on the date on which the grant of the right was made;
+- (c) damage to any interest in land to which the grantor is entitled which is not a relevant interest and which results from the grant of the right or from the exercise of it;
+- (d) any loss or damage sustained by the grantor, other than in relation to any interest in land to which the grantor is entitled, which is attributable to the grant of the right or the exercise of it; and
+- (e) the amount of any valuation and legal costs reasonably incurred by the grantor in granting the right and in the preparation of the application for compensation and the negotiation of the amount of such compensation.
+
+### 6. Basis on which compensation is assessed
+
+(1) The rules set out in section 5 of the Land Compensation Act 1961 [^c22466581] (rules for assessing compensation) have effect, so far as applicable and subject to any necessary modifications, for the purpose of assessing any compensation as they have effect for the purpose of assessing compensation for the compulsory acquisition of an interest in land.
+
+(2) Where the relevant interest in respect of which any compensation is to be assessed is subject to a mortgage—
+
+- (a) the compensation must be assessed as if the interest were not subject to the mortgage;
+- (b) no compensation is payable in respect of the interest of the mortgagee (as distinct from the interest which is subject to the mortgage); and
+- (c) any compensation payable in respect of the interest that is subject to the mortgage must be paid to the mortgagee or, if there is more than one mortgagee, to the first mortgagee and must, in either case, be applied as if it were proceeds of sale.
+
+### 7. Determination of disputes
+
+(1) Any question of disputed compensation must be referred to and determined by the Upper Tribunal.
+
+(2) In relation to the determination of any such question the provisions of section 4 [^c22466591] of the Land Compensation Act 1961 apply as if—
+
+- (a) the reference in sub-section (A1) of that section to section 1 of that Act were a reference to sub-paragraph (1) of this paragraph; and
+- (b) references to the acquiring authority were references to the person to whom the rights were granted.
+
+*(This note is not part of the Regulations)*
+
+[^c22466601][^c22466611]These Regulations revoke and replace the Environmental Damage (Prevention and Remediation) Regulations 2009 (S.I. 2009/153), as amended by numerous subsequent instruments (“**the 2009 Regulations**”). The Regulations continue to implement Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) of the European Parliament and of the Council on environmental liability with regard to the prevention and remedying of environmental damage (“Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035)”) and now also implement the changes to that Directive introduced by Article 38 of Directive 2013/30/EU of the European Parliament and of the Council on the safety of offshore oil and gas operations and amending Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) (“Directive 2013/30/EU”).
+
+The Regulations apply in England and in specified marine waters and the seabed (regulations 1 and 6). They specify the types of damage to a protected species or natural habitat, a site of special scientific interest, water or land which constitute “**environmental damage**” for the purposes of the Regulations (regulation 4) and the types of activity causing environmental damage to which the Regulations apply (regulation 5). There are certain exemptions and exclusions from the application of the Regulations (regulations 8 and 9). The Regulations also specify the authorities whose function it is to enforce the Regulations (regulations 10 to 12).
+
+Part 2 of the Regulations deals with prevention of environmental damage (regulations 13 and 14), including action which may be taken by an enforcing authority (regulation 15).
+
+Under Part 3, which deals with remediation, the enforcing authority has a duty to establish whether environmental damage has occurred (regulation 17). It must then serve a notice on the operator whose activities were the cause of the damage, requiring them to submit proposals for remedial measures (regulation 18). A remediation notice must then be served, specifying the measures to be taken (regulation 20). Failure to comply with a remediation notice is an offence. Part 3 also sets out the procedure for appealing against notices (regulations 19 and 21).
+
+Part 4 provides for an enforcing authority to recover its costs in certain cases (regulations 24 to 27). It enables third parties to notify the enforcing authority of damage caused or being caused, or of which there is an imminent threat (regulation 29) and provides for the payment of compensation to third parties in certain circumstances (regulation 30). It sets out the powers of persons authorised by enforcing authorities (regulation 31) and the penalties for offences under the Regulations (regulation 34). A person who is guilty of an offence under the Regulations is liable—
+
+- (c) on summary conviction, to a fine, or imprisonment for a term not exceeding three months or both; or
+- (d) on conviction on indictment, to a fine or imprisonment for a term not exceeding two years or both.
+
+The Secretary of State is required to review the operation of the Regulations periodically (regulation 35).
+
+These Regulations revoke three instruments which amended the 2009 Regulations (regulation 36).
+
+These Regulations make minor editorial changes to the 2009 Regulations. The list of EU legislation in Schedule 2 by reference to which activities attracting strict liability are specified is now more comprehensive, although the nature of the activities captured in this list is not affected. References to all EU instruments, other than Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035), are now references to those instruments as amended from time to time (regulation 3).
+
+Changes of substance are made for three purposes.
+
+[^c22466621]Firstly, they reflect the extension by Article 38 of Directive 2013/30/EU to the definition of ‘environmental damage’. This now includes include damage to the environmental status of marine waters as defined in Directive [2008/56/EC](https://www.legislation.gov.uk/european/directive/2008/0056) of the European Parliament and of the Council establishing a framework for Community action in the field of marine environmental policy , such that that status is significantly adversely affected. Regulation 8 now provides temporal limitations in relation to damage to marine waters; regulations 10 and 11 specify the enforcing authorities for damage to marine waters.
+
+Secondly, references in the 2009 Regulations to “renewable energy zone” are updated to “exclusive economic zone”, in consequence of the Exclusive Economic Zone Order 2013 (S.I. 2013/3161).
+
+Thirdly, regulation 35 imposes a new requirement on the Secretary of State to review the operation and effect of the Regulations and publish a report within five years after they come into force and within every five years after that.
+
+A full impact assessment of the effect these Regulations will have on the costs of business, the voluntary sector and the public sector is available from the Energy Development Unit, Offshore Oil & Gas Environment and Decommissioning Branch, Department of Energy and Climate Change, 3 Whitehall Place, London SW1A 2AW and, along with other Regulations transposing Directive 2013/30/EU, is published with the Explanatory Memorandum alongside the Regulations on www.legislation.gov.uk.
+
+An updated transposition note setting out how these Regulations continue to transpose the provisions of Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) and a transposition note setting out the implementation of Directive 2013/30/EU are available at www.gov.uk/government/publications.
+
+## Annotations
+
+[^c22465811]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006.
+
+[^c22465821]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30). Section 14A was inserted by section 59(1) and (2) of the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24).
+
+[^c22465831]: Marginal citation: OJ No. L 143, 30.4.2004, p.56; last amended by Directive 2013/30/EU of the European Parliament and of the Council (OJ No. L 178, 28.6.2013, p.66).
+
+[^key-97465949c93de04bfb16229d8ced8d6b]: Modification: Regulations power to amend, repeal or revoke conferred (26.12.2023) by [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56), [s. 91N(3)](https://www.legislation.gov.uk/ukpga/1991/56/section/91N/3) (as inserted by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 168(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/168/1), [255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)))
+
+[^c22465841]: Marginal citation: [1987 c.49](https://www.legislation.gov.uk/ukpga/1987/49). See [S.I. 2014/1353](https://www.legislation.gov.uk/uksi/2014/1353).
+
+[^c22465851]: Marginal citation: OJ No. L 327, 22.12.2000, p.1; last amended by Commission Directive 2014/101/EU (OJ No. L 311, 31.10.2014, p.32).
+
+[^key-528414e056ec37d00fc0c786e3164054]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/810/regulation/2/1) inserted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/3/a)
+
+[^c22465861]: Marginal citation: OJ No. L 164, 25.6.2008, p.19.
+
+[^c22465871]: Marginal citation: OJ No. L 20, 26.1.2010, p.7; amended by Council Directive 2013/17/EU (OJ No. L 158, 10.6.2013, p.193).
+
+[^c22465881]: Marginal citation: OJ No. L 206, 22.7.1992, p.7; last amended by Council Directive 2013/17/EU (OJ No. L 158, 10.6.2013, p.193).
+
+[^c22465891]: Marginal citation: [1981 c.69](https://www.legislation.gov.uk/ukpga/1981/69). Section 28 was substituted by paragraph 1 of Schedule 9 to the [Countryside and Rights of Way Act 2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37) and amended by paragraph 79 of Schedule 11 to the [Natural Environment and Rural Communities Act 2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16) and paragraph 2(1) and (2) of Schedule 13 to the [Marine and Coastal Access Act 2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^c22465901]: Marginal citation: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46). The term “the Scottish zone” is defined by section 126(1). [The Scottish Adjacent Waters Boundaries Order 1999 (S.I. 1999/1126)](https://www.legislation.gov.uk/uksi/1999/1126) made under section 126(2) defines the boundaries between waters which are to be treated as internal waters or territorial waters, or waters within British fishery limits, adjacent to Scotland and those which are not.
+
+[^c22465911]: Marginal citation: *See* section 52, amended by paragraph 5(1) and (2) of Schedule 9 to the [Countryside and Rights of Way Act 2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37).
+
+[^key-334cac73b09dbfecd9c2ac69d79e1065]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/810/regulation/2/1) inserted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/3/b)
+
+[^key-a9415b98ddfeb7b5dbf2e0014cfd5d9a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/810/regulation/3) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/458/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22465921]: Marginal citation: OJ No. L 372, 27.12.2006, p.19; amended by Commission Directive 2014/80/EU (OJ No. L 182, 21.6.2014, p.52).
+
+[^key-ae4b5c37c5324cbaeb103fe67ae06c90]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/810/regulation/6/1) substituted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2015 (S.I. 2015/1391)](https://www.legislation.gov.uk/uksi/2015/1391), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1391/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1391/regulation/2/2/b)
+
+[^c22465931]: Marginal citation: [2006 c.32](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^c22465941]: Marginal citation: [1998 c.47](https://www.legislation.gov.uk/ukpga/1998/47).
+
+[^key-a85da924ed5e8a175eed7ddf86a90acd]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/810/regulation/6/1) table inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2015 (S.I. 2015/1391)](https://www.legislation.gov.uk/uksi/2015/1391), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1391/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1391/regulation/2/2/a)
+
+[^c22465951]: Marginal citation: [1964 c.29](https://www.legislation.gov.uk/ukpga/1964/29). Areas are currently designated under section 1(7) by [S.I. 2013/3162](https://www.legislation.gov.uk/uksi/2013/3162) (which revoked [S.I. 2000/3062](https://www.legislation.gov.uk/uksi/2000/3062) and 2001/3670, subject to a saving in respect of the Continental Shelf (Designation of Areas) Orders 1964 to 1982). Section 1(7) was amended by paragraph 1 of Schedule 3 to the [Oil and Gas (Enterprise) Act 1982 (c.23)](https://www.legislation.gov.uk/ukpga/1982/23) and by section 103 of the [Energy Act 2011 (c.16)](https://www.legislation.gov.uk/ukpga/2011/16).
+
+[^c22465961]: Marginal citation: [S.I. 2013/3161](https://www.legislation.gov.uk/uksi/2013/3161).
+
+[^c22465971]: Marginal citation: The Convention entered into force on 16th November 1994. It was approved on behalf of the European Community by Council Decision 98/392/EC concerning the conclusion by the European Community of the United Nations Convention of 10th December 1982 on the Law of the Sea and the Agreement of 28th July 1994 relating to the implementation of Part XI thereof (OJ No. L 179, 23.6.1998, p.1).
+
+[^c22465981]: Marginal citation: The Convention is set out in Schedule 7 to the [Merchant Shipping Act 1995 (c.21)](https://www.legislation.gov.uk/ukpga/1995/21), amended by [S.I. 1998/1258](https://www.legislation.gov.uk/uksi/1998/1258).
+
+[^c22465991]: Marginal citation: This is the date on which [S.I. 2009/153](https://www.legislation.gov.uk/uksi/2009/153), which is revoked and replaced by these Regulations, came into force.
+
+[^c22466001]: Marginal citation: Implemented by the Merchant Shipping Act 1995.
+
+[^c22466011]: Marginal citation: Implemented by the Merchant Shipping Act 1995.
+
+[^c22466021]: Marginal citation: The Convention was implemented by amendments to the Merchant Shipping Act 1995 made by [S.I. 2006/1244](https://www.legislation.gov.uk/uksi/2006/1244).
+
+[^key-08915a3f146b7262ddfe9b8933068b64]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2015/810/regulation/9A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 170(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/170/2), [255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^key-1e36d2d898916a3450035137d0fc4f2c]: Textual amendment: Words in reg. 10 heading substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 90(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/90/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^key-5a489c9d33d19e81b743888e3b4b7a44]: Textual amendment: Words in reg. 10(1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 90(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/90/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^key-7e57989789e3cbba713eea06acc76950]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2015/810/regulation/10/2) substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/4/2)
+
+[^key-2b3ae5d33b5d89b19c587907de24ee9e]: Textual amendment: Word in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2015/810/regulation/10/3) substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/4/3/a)
+
+[^key-3325236e2d121f556213c90caa88521f]: Textual amendment: [Reg. 10(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2015/810/regulation/10/3/b/iv) substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/4/3/b/i)
+
+[^key-438e7c6613a98c357e336e57a5b71e51]: Textual amendment: [Reg. 10(3)(b)(vi)](https://www.legislation.gov.uk/uksi/2015/810/regulation/10/3/b/vi) inserted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/4/3/b/ii)
+
+[^key-06aa0315429213cd9502b1027363e614]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/uksi/2015/810/regulation/10/4)[(5)](https://www.legislation.gov.uk/uksi/2015/810/regulation/10/5) inserted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/4/4)
+
+[^key-753ef06d2bfcdd0b773a3482b7e13db2]: Textual amendment: Reg. 11(1) substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/5/2)
+
+[^key-cf333f570e2db8fb4e520ccc7ee66e67]: Textual amendment: Words in reg. 11(2) substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/5/3/a)
+
+[^c22466041]: Marginal citation: [1998 c.17](https://www.legislation.gov.uk/ukpga/1998/17). The definition of “**offshore installation**” for the purposes of Part 4 of that Act is contained in section 44 of that Act. Section 44 was amended by paragraph 11 of Schedule 1 to the [Energy Act 2008 (c.32)](https://www.legislation.gov.uk/ukpga/2008/32).
+
+[^c22466051]: Marginal citation: [2008 c.32](https://www.legislation.gov.uk/ukpga/2008/32). Section 30 was amended by section 107(1) and (4) of the [Energy Act 2011 (c.16)](https://www.legislation.gov.uk/ukpga/2011/16) and by [S.I. 2011/2453](https://www.legislation.gov.uk/uksi/2011/2453).
+
+[^c22466061]: Marginal citation: [1934 c.36](https://www.legislation.gov.uk/ukpga/1934/36). The Act was repealed by Part 1 of Schedule 5 to the Petroleum Act 1998.
+
+[^c22466071]: Marginal citation: Part 3 was amended by the [Energy Act 2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20), [sections 151(5)](https://www.legislation.gov.uk/ukpga/2004/20/section/151/5) and 197(9) and Schedule 23, Part 1; the Energy Act 2008, sections 36, 78(3) and (4) and 108, Schedule 1, paragraph 9, and Schedule 6; the Energy Act 2011, Schedule 2 paragraphs 8, 9, 10, 12, 13, 14 and 15; the [Marine and Coastal Access Act 2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23), [section 112(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/112/1) and Schedule 8, paragraph 7; and by [S.I. 2000/1937](https://www.legislation.gov.uk/uksi/2000/1937), 2004/2043, 2007/290 and 2011/2305 and 2704.
+
+[^c22466081]: Marginal citation: Part 4 was amended by the Energy Act 2008, sections 36, 72(1) to (8), 73(1) to (6), 74(1), 107, 108 and Schedule 1, paragraphs 10 and 11, Schedule 5, paragraphs 6, 7, 9, 10 and 11, and Schedule 6; and by the Marine and Coastal Access Act 2009, section 112(1) and Schedule 8, paragraph 8.
+
+[^c22466091]: Marginal citation: Section 18 was amended by [S.I. 2011/224](https://www.legislation.gov.uk/uksi/2011/224) and 2435.
+
+[^key-593bb88c94a4e580ff8132ce586d3c7b]: Textual amendment: Words in reg. 11(2) substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/5/3/b)
+
+[^key-51ff65cd15456a72f40bf92b657737cc]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2015/810/regulation/18A) inserted (18.10.2019) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2019 (S.I. 2019/1285)](https://www.legislation.gov.uk/uksi/2019/1285), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1285/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1285/regulation/2)
+
+[^key-e5e9cd881366f32c9f8164c1cd2adea5]: Modification: [Reg. 19(3)(d)](https://www.legislation.gov.uk/uksi/2015/810/regulation/19/3/d) excluded (temp.) (28.7.2025) by [The Environment Agency (Holme Styes Reservoir) Drought Order 2025 (S.I. 2025/926)](https://www.legislation.gov.uk/uksi/2025/926), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/926/article/1/b), [4](https://www.legislation.gov.uk/uksi/2025/926/article/4)
+
+[^key-fc900a123fc8d04137553176595c8f92]: Modification: [Reg. 19(3)(d)](https://www.legislation.gov.uk/uksi/2015/810/regulation/19/3/d) excluded (temp.) (4.9.2025) by [The Environment Agency (Holme Styes Reservoir) Drought (No. 2) Order 2025 (S.I. 2025/997)](https://www.legislation.gov.uk/uksi/2025/997), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/997/article/1/b), [4](https://www.legislation.gov.uk/uksi/2025/997/article/4)
+
+[^key-2035a3834ffc4589df68ab849d7fe15b]: Modification: [Reg. 19(3)(d)](https://www.legislation.gov.uk/uksi/2015/810/regulation/19/3/d) excluded (temp.) (3.12.2025) by [The South East Water Limited (River Ouse and Shell Brook) Drought Order 2025 (S.I. 2025/1266)](https://www.legislation.gov.uk/uksi/2025/1266), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/1266/article/1/b), [8](https://www.legislation.gov.uk/uksi/2025/1266/article/8)
+
+[^key-224e4ff39d582cad65e68bd4a1753df8]: Textual amendment: Reg. 20(A1) inserted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [6](https://www.legislation.gov.uk/uksi/2017/1177/regulation/6)
+
+[^c22466101]: Marginal citation: [1925 c.20](https://www.legislation.gov.uk/ukpga/1925/20).
+
+[^c22466111]: Marginal citation: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25). Section 108 was amended by Schedule 3 to the [Pollution Prevention and Control Act 1999 (c.24)](https://www.legislation.gov.uk/ukpga/1999/24); [S.I. 2000/1973](https://www.legislation.gov.uk/uksi/2000/1973); [section 55(6) to (9)](https://www.legislation.gov.uk/uksi/2015/810/section/55/6) of the Anti-social [Behaviour Act 2003 (c.38)](https://www.legislation.gov.uk/ukpga/2003/38); [S.I. 2010/675](https://www.legislation.gov.uk/uksi/2010/675); [paragraph 3](https://www.legislation.gov.uk/uksi/2015/810/paragraph/3) of Part 1 of Schedule 2 to the [Protection of Freedoms Act 2012 (c.9)](https://www.legislation.gov.uk/ukpga/2012/9); and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755). There are other amendments which are not relevant to these Regulations.
+
+[^c22466121]: Marginal citation: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^c22466131]: Marginal citation: [2004 c.20](https://www.legislation.gov.uk/ukpga/2004/20). Section 84 was amended by paragraph 4 of Part 1 of Schedule 4 to the [Marine and Coastal Access Act 2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^key-9899b5a87cb5b97b5ab12219b1e4f7fd]: Modification: [Reg. 34](https://www.legislation.gov.uk/uksi/2015/810/regulation/34) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)
+
+[^c22466141]: Marginal citation: [S.I. 2009/153](https://www.legislation.gov.uk/uksi/2009/153), amended by [S.I. 2009/3275](https://www.legislation.gov.uk/uksi/2009/3275), 2010/587, 675 and 2221; 2011/556, 988, 1043 and 2131; 2012/630 and 2897; and 2013/755.
+
+[^c22466151]: Marginal citation: [S.I. 2009/3275](https://www.legislation.gov.uk/uksi/2009/3275).
+
+[^c22466161]: Marginal citation: [S.I. 2010/587](https://www.legislation.gov.uk/uksi/2010/587).
+
+[^key-ec7ce9391c57c321c9684b4e7c0f66e1]: Textual amendment: Words in [Sch. 1 para. 1(e)](https://www.legislation.gov.uk/uksi/2015/810/schedule/1/paragraph/1/e) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/458/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3019a40fb331978985254f91811df8e8]: Textual amendment: Sch. 1 para. 5 substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/1177/regulation/7) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/1177/regulation/9))
+
+[^key-31b73fbd2829e020e1f144d32ff6bd0f]: Textual amendment: Words in Sch. 1 para. 5(3) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [reg. 11(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/11/2)
+
+[^key-9157ecb6797e43a01766c6879474ae44]: Textual amendment: Sch. 2 para. 1A inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2019/458/regulation/7/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [12(4)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/12/4))
+
+[^key-ce04db8a1bd85eac5c6568e0da031bd3]: Textual amendment: Word in [Sch. 2 para. 1A](https://www.legislation.gov.uk/uksi/2015/810/schedule/2/paragraph/1A) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 34](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/34)
+
+[^c22466211]: Marginal citation: OJ No. L 257, 10.10.1996, p.26; repealed by Directive 2008/1/EC of the European Parliament and of the Council (OJ No. L 24, 29.1.2008, p.8).
+
+[^c22466221]: Marginal citation: OJ No. L 24, 29.1.2008, p.8; amended by Directive 2009/31/EC of the European Parliament and of the Council (OJ No. L 140, 5.6.2009, p.114) and repealed by Directive 2010/75/EU on industrial emissions (integrated pollution prevention and control) (OJ No. L 334, 17.12.2010, p.17).
+
+[^c22466231]: Marginal citation: OJ No. L 334, 17.12.2010, p.17.
+
+[^c22466241]: Marginal citation: OJ No. L 194, 25.7.1975, p.23; repealed by Directive 2008/98/EC of the European Parliament and of the Council (OJ No. L 312, 22.11.2008, p.3).
+
+[^c22466251]: Marginal citation: OJ No. L 194, 25.7.1975, p.39; repealed by Directive 2006/12/EC of the European Parliament and of the Council (OJ No. L 114, 27.4.2006, p.9).
+
+[^c22466261]: Marginal citation: OJ No. L 337, 31.12.1991, p.20; repealed by Directive 2008/98/EC.
+
+[^c22466271]: Marginal citation: OJ No. L 114, 27.4.2006, p.9; repealed by Directive 2008/98/EC.
+
+[^c22466281]: Marginal citation: OJ No. L 312, 22.11.2008, p.3; last amended by Commission Regulation (EU) No. 1357/2014 (OJ No. L 365, 19.12.2014, p.89).
+
+[^key-5424e12ccc5e6d633cef2b1d2ae222f2]: Textual amendment: Words in Sch. 2 para. 3(1)(e) omitted (17.9.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2018/942/regulation/24)
+
+[^c22466291]: Marginal citation: OJ No. L 182, 16.7.1999, p.1; last amended by Council Directive 2011/97/EU (OJ No. L 328, 10.12.2011, p.49).
+
+[^c22466301]: Marginal citation: OJ No. L 332, 28.12.2000, p.91, as corrected in OJ No. L 145, 31.5.2001, p.52; repealed by Directive 2010/75/EU of the European Parliament and of the Council (OJ No. L 334, 17.12.2010, p.17).
+
+[^c22466311]: Marginal citation: OJ No. L 102, 11.4.2006, p.15; last amended by Regulation (EC) No. 596/2009 of the European Parliament and of the Council (OJ No. L 188, 18.7.2009, p.14).
+
+[^c22466321]: Marginal citation: OJ No. L 129, 18.5.1976, p.23; repealed by Directive 2006/11/EC of the European Parliament and of the Council (OJ No. L 64, 4.3.2006, p.52).
+
+[^c22466331]: Marginal citation: OJ No. L 64, 4.3.2006, p.52.
+
+[^c22466341]: Marginal citation: OJ No. L 20, 26.1.1980, p.43; repealed by Directive 2000/60/EC of the European Parliament and of the Council (OJ No. L 327, 22.12.2000, p.1).
+
+[^c22466351]: Marginal citation: OJ No. L 372, 27.12.2006, p.19; amended by Commission Directive 2014/80/EU (OJ No. L 182, 21.6.2014, p.52).
+
+[^c22466361]: Marginal citation: OJ No. L 196, 16.8.1967, p.1; last amended by Council Directive 2013/21/EU (OJ No. L 158, 10.6.2013, p.240).
+
+[^c22466371]: Marginal citation: OJ No. L 353, 31.12.2008, p.1; last amended by Commission Regulation (EU) No. 758/2013 (OJ No. L 216, 10.8.2013, p.1).
+
+[^c22466381]: Marginal citation: OJ No. L 200, 30.7.1999, p.1; last amended by Council Directive 2013/21/EU.
+
+[^c22466391]: Marginal citation: OJ No. L 309, 24.11.2009, p.1; last amended by Regulation (EU) No. 652/2014 of the European Parliament and of the Council (OJ No. L 189, 27.6.2014, p.1).
+
+[^c22466401]: Marginal citation: OJ No. L 123, 24.4.1998, p.1; repealed by Regulation (EU) No. 528/2012 of the European Parliament and of the Council (OJ No. L 167, 27.6.2012, p.1).
+
+[^c22466411]: Marginal citation: OJ No. L 167, 27.6.2012, p.1; last amended by Regulation (EU) No. 334/2014 of the European Parliament and of the Council (OJ No. L 103, 5.4.2014, p.22).
+
+[^c22466421]: Marginal citation: OJ No. L 319, 12.12.1994, p.7; repealed by Directive 2008/68 of the European Parliament and of the Council (OJ No. L 260, 30.9.2008, p.13).
+
+[^c22466431]: Marginal citation: OJ No. L 235, 17.9.1996, p.25; repealed by Directive 2008/68.
+
+[^c22466441]: Marginal citation: OJ No. L 247, 5.10.1993, p.19; last amended by Directive 2002/84/EC of the European Parliament and of the Council (OJ No. L 324, 29.11.2002, p.53); repealed by Directive 2002/59/EC of the European Parliament and of the Council (OJ No. L 208, 5.8.2002, p.10).
+
+[^c22466451]: Marginal citation: OJ No. L 208, 5.8.2002, p.10; last amended by Commission Directive 2014/100/EU (OJ No. L 308, 29.10.2014, p.82).
+
+[^c22466461]: Marginal citation: OJ No. L 260, 30.9.2008, p.13; last amended by Commission Directive 2014/103/EU (OJ No. L 335, 22.11.2014, p.15).
+
+[^c22466471]: Marginal citation: OJ No. L 117, 8.5.1990, p.1; repealed by Directive 2009/41/EC of the European Parliament and of the Council (OJ No. L 125, 21.5.2009, p.75).
+
+[^key-d2dcb2feffdba506f392ac395bab62b2]: Textual amendment: Words in [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2015/810/schedule/2/paragraph/9/2) inserted (13.11.2025) by [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [Sch. 5 para. 14(2)](https://www.legislation.gov.uk/uksi/2025/581/schedule/5/paragraph/14/2)
+
+[^c22466481]: Marginal citation: OJ No. L 106, 17.4.2001, p.1; last amended by Directive 2008/27/EC of the European Parliament and of the Council (OJ No. L 81, 20.3.2008, p.45).
+
+[^key-1fe171ac1555024965a2c08360cde713]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2015/810/schedule/2/paragraph/10) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2019/458/regulation/7/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22466491]: Marginal citation: OJ No. L 30, 6.2.1993, p.1.
+
+[^c22466501]: Marginal citation: OJ No. L 190, 12.7.2006, p.1; last amended by Commission Regulation (EU) No. 1234/2014 (OJ No. L 332, 19.11.2014, p.15).
+
+[^c22466511]: Marginal citation: OJ No. L 140, 5.6.2009, p.114; amended by Directive 2011/92/EU of the European Parliament and of the Council 23(OJ No. L 26, 28.1.2012, p.1).
+
+[^key-458306b620c85bc5d10442cc963ecd17]: Textual amendment: [Sch. 2ZA](https://www.legislation.gov.uk/uksi/2015/810/schedule/2ZA) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 170(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/170/3), [255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^key-0e7700de140e2f4c11efecc07e1d4220]: Textual amendment: Sch. 2A inserted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [8](https://www.legislation.gov.uk/uksi/2017/1177/regulation/8), [Sch.](https://www.legislation.gov.uk/uksi/2017/1177/schedule)
+
+[^key-a5117d04d912dc5f84ffc97725dd9b55]: Textual amendment: Words in Sch. 4 para. 1(a) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 90(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/90/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^c22466521]: Marginal citation: [2009 c.23](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^c22466531]: Marginal citation: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57). *See* section 73, as amended by paragraph 139 of Schedule 22 to the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25) and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
+
+[^c22466541]: Marginal citation: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43).
+
+[^c22466551]: Marginal citation: OJ No. L106, 17.4.2001, p.1; last amended by Directive 2008/27/EC of the European Parliament and of the Council (OJ No. L 81, 20.3.2008, p.45).
+
+[^c22466561]: Marginal citation: OJ No. L 268, 18.10.2003, p.1; last amended by Regulation (EC) No. 298/2008 of the European Parliament and of the Council (OJ No. L 97, 9.4.2008, p.64).
+
+[^c22466571]: Marginal citation: [1981 c.67](https://www.legislation.gov.uk/ukpga/1981/67).
+
+[^c22466581]: Marginal citation: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33). Section 5 was amended by paragraph 1 of Schedule 15 and Part 3 of Schedule 19 to the [Planning and Compensation Act 1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
+
+[^c22466591]: Marginal citation: Section 4 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
+
+[^c22466601]: Marginal citation: OJ No. L 143, 30.4.2004, p.56.
+
+[^c22466611]: Marginal citation: OJ No. L 178, 28.6.2013, p.66.
+
+[^c22466621]: Marginal citation: OJ No. L 164, 25.6.2008, p.19.

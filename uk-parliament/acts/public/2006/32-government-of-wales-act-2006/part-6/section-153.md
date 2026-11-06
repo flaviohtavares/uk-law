@@ -1,0 +1,59 @@
+---
+title: Government of Wales Act 2006, section 153
+act: Government of Wales Act 2006
+section: '153'
+status: revised-with-pending-changes
+text_date: '2026-09-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2006/32/section/153
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Government of Wales Act 2006, section 153
+
+> **Warning: changes not yet applied to this text (24).** Text as at 2026-09-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/32
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 153. Power to vary retrospective decisions[^c16543171]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies where any court or tribunal decides—
+
+- (a) that an Assembly Measure or Act of the Senedd[^key-60edd79c70d763519861630d1afb7962], or any provision of an Assembly Measure or Act of the Senedd, is outside the Senedd's legislative competence,
+- (b) that any provision of subordinate legislation made, or purporting to be made, under an Assembly Measure or Act of the Senedd is outside the powers under which it was, or purported to be, made, or
+- (c) that any provision of subordinate legislation made, or purporting to be made, by the Welsh Ministers, the First Minister or the Counsel General is outside the powers under which it was, or purported to be, made.
+
+(2) The court or tribunal may make an order—
+
+- (a) removing or limiting any retrospective effect of the decision, or
+- (b) suspending the effect of the decision for any period and on any conditions to allow the defect to be corrected.
+
+(3) In determining whether to make an order under this section, the court or tribunal must (among other things) have regard to the extent to which persons who are not parties to the proceedings would otherwise be adversely affected by the decision.
+
+(4) Where a court or tribunal is considering whether to make an order under this section, it must order notice (or intimation) of that fact to be given to the persons specified in subsection (5) (unless a party to the proceedings).
+
+(5) The persons mentioned in subsection (4) are—
+
+- (a) in relation to proceedings in England and Wales, the Attorney General and the Counsel General,
+- (b) in relation to proceedings in Scotland, the Advocate General for Scotland, and
+- (c) in relation to proceedings in Northern Ireland, the Advocate General for Northern Ireland.
+
+(6) A person to whom notice (or intimation) is given in pursuance of subsection (4) may take part as a party in the proceedings, so far as they relate to the making of the order.
+
+(7) In deciding any question as to costs or expenses, the court or tribunal may—
+
+- (a) take account of any additional expense which it considers that any party to the proceedings has incurred as a result of the participation of any person in pursuance of subsection (6), and
+- (b) award the whole or part of the additional expense as costs or expenses to the party who incurred it (whether or not it makes an order under this section and whatever the terms of any such order it does make).
+
+(8) Any power to make provision for regulating the procedure before any court or tribunal includes power to make provision for the purposes of this section including, in particular, provision for determining the manner in which and the time within which any notice (or intimation) is to be given.
+
+(9) In subsection (1) “**made**” includes confirmed or approved.
+
+## Annotations
+
+[^c16543171]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
+
+[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))

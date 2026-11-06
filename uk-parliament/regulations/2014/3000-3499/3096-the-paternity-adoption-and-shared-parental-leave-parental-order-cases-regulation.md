@@ -1,0 +1,848 @@
+---
+title: The Paternity, Adoption and Shared Parental Leave (Parental Order Cases) Regulations 2014
+id: uksi/2014/3096
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-11-28'
+text_date: '2026-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2014/3096
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/3096/pdfs/uksiem_20143096_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/3096/pdfs/uksi_20143096_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/3096/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Paternity, Adoption and Shared Parental Leave (Parental Order Cases) Regulations 2014
+
+> Text as at 2026-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2014 No. 3096
+
+Terms And Conditions Of Employment
+
+The Paternity, Adoption and Shared Parental Leave (Parental Order Cases) Regulations 2014
+
+Made
+
+28th November 2014
+
+Coming into force
+
+1st December 2014
+
+A draft of these Regulations was laid before Parliament in accordance with section 236(3) of the Employment Rights Act 1996[^f00001] and approved by a resolution of each House of Parliament.
+
+The Secretary of State, in exercise of the powers conferred by sections 47C(2), 75A(1), (2), (2A), (2B), (3), (6), and (7), 75B(1), (2), (3), (3A), (4), (7) and (8), 75C(1) and (2), 75D, 75G(1) to (6), 75H(1), (4), (7) to (14) and (16), 75I(1), (4) and (5), section 75J, 75K(1), (6) and (7), 80A(5)(aa), 80B(1), (2), (4A) and (5), 80C(1) and (6), 80D(1), 80E and 99 of the Employment Rights Act 1996[^f00002], makes the Regulations.
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement[^key-f32c9810a4d9ae79c01c4f2b4959e356]
+
+These Regulations may be cited as the Paternity, Adoption and Shared Parental Leave (Parental Order Cases) Regulations 2014 and come into force on 1st December 2014.
+
+### 2. Interpretation[^key-dce838bdb7ec8a3fba24ee59eb9a568d]
+
+In these Regulations—
+
+- “Curtailment Regulations” means the Maternity and Adoption Leave (Curtailment of Statutory Rights to Leave) Regulations 2014[^f00003];
+- “intended parent”, in relation to a child, means a person who, on the day of the child’s birth—[^key-7b20d3ab88668602e07e17409bc10584]
+  - (a) applies, or intends to apply during the period of 6 months beginning with that day—
+    - (i) with another person for an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child; or
+    - (ii) as the sole applicant for an order under section 54A of that Act in respect of the child; and
+  - (b) expects the court to make such an order in respect of the child;
+- “Leave Regulations” means the Paternity and Adoption Leave Regulations 2002[^f00004];
+- [^key-740112ef2e90ff1b85ba7dcd19a6f24a]...
+- [^key-b64678e0567a1da53bd0ffca007dd00f]...
+- “paternity leave (adoption)” means paternity leave under regulation 8 of the Leave Regulations;
+- “section 54 parental order parent” means a person—[^key-7c00825283f9ba0228965cc8fd710e6b]
+  - (a) on whose application the court has made an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of a child; or
+  - (b) who is an intended parent of a child by reference to an application or intended application for such an order;
+- “section 54A parental order parent” means a person—
+  - (a) on whose application the court has made an order under section 54A of the Human Fertilisation and Embryology Act 2008 in respect of a child; or
+  - (b) who is an intended parent of a child by reference to an application or intended application for such an order;
+- “statutory adoption leave” means ordinary adoption leave under section 75A of the Employment Rights Act 1996 or additional adoption leave under section 75B of that Act;
+- “SPL Regulations” means the Shared Parental Leave Regulations 2014[^f00006].
+
+### 3. Application of the Leave Regulations to Parental Order Parents[^key-67856ac1753d84d00d8892f8ee73955f]
+
+(1)[^key-6f00b12d383fb546aa4058da5df82268] The provisions of the Leave Regulations, in so far as they apply to paternity leave (adoption) apply to section 54 parental order parents with the modifications set out in Part 2 of these Regulations.
+
+(2) The provisions of the Leave Regulations, in so far as they apply to statutory adoption leave, apply to—
+
+- (a) section 54 parental order parents; and
+- (b) section 54A parental order parents,
+
+with the modifications set out in Part 2 of these Regulations.
+
+### 4. Application of the Curtailment Regulations to Parental Order Parents[^key-30b103becde88cee53c10e94fe64af91]
+
+The provisions of the Curtailment Regulations in so far as they apply to the curtailment of statutory adoption leave, apply to section 54[^key-19cf6e1c79ae6e8cf3501d7cf453ac78] parental order parents with the modifications set out in Part 3 of these Regulations.
+
+### 5. Application of the SPL Regulations to Parental Order Parents[^key-9c0446b4c892876105097cd8b32f7d84]
+
+The provisions of the SPL Regulations in so far as they apply to shared parental leave (adoption), apply to section 54[^key-8e48be18d25891173ba55362384d91c7] parental order parents with the modifications set out in Part 4 of these Regulations.
+
+## PART 2 — PARENTAL ORDER PARENTS: PATERNITY AND ADOPTION LEAVE
+
+**6.**[^key-291447a078fab7df53b400574ad0d3d5] Regulation 2 (interpretation) of the Leave Regulations as they apply to section 54 parental order parents and section 54A parental order parents[^key-a4c168ae47385369b29a20bce2857eb8] shall read as if—
+
+- (a) in paragraph (1)—
+  - (i) the definitions of “adopter” and “child” were omitted;
+  - (ii) in the definition of “partner”, the words “a child’s mother or adopter” were “Parent A” and the words “mother or adopter”, in both places, were “Parent A”;
+  - (iii) there were, in the appropriate places alphabetically, the following definitions—
+
+    > - “intended parent”, in relation to a child, means a person who, on the day of the child’s birth—[^key-906d2bffe1cde61c587b800ce2ea07f8]
+    >   - (a) applies, or intends to apply during the period of 6 months beginning with that day—
+    >     - (i) with another person for an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child; or
+    >     - (ii) as the sole applicant for an order under section 54A of that Act in respect of the child; and
+    >   - (b) expects the court to make such an order in respect of the child;
+    > - “Parent A” in relation to a child, means the section 54[^key-245f75d0a08b491a2b678a03e63afc31] parental order parent who has elected to be Parent A;
+    > - [^key-217350a0aca34a1aed5c77fe5f5b3ab6]...
+    > - [^key-217350a0aca34a1aed5c77fe5f5b3ab6]...
+    > - “parental statutory declaration” means a statutory declaration stating that the person making the declaration—[^key-b464105454125f91b32d18f3824e9a6a]
+    >   - (a) has applied, or intends to apply—
+    >     - (i) under section 54 of the Human Fertilisation and Embryology Act 2008 with another person; or
+    >     - (ii) under section 54A of that Act, alone,
+    >
+    >     for a parental order under that section in respect of the child within the time limit for making such an application; and
+    >   - (b) expects the court to make such an order in respect of the child;
+    > - “section 54 parental order parent” means a person—[^key-c898ff7d8d1a7ce5cbb31de1fa3b0fd8]
+    >   - (a) on whose application the court has made an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of a child; or
+    >   - (b) who is an intended parent of a child by reference to an application or intended application for such an order;
+    > - “section 54A parental order parent” means a person—
+    >   - (a) on whose application the court has made an order under section 54A of the Human Fertilisation and Embryology Act 2008 in respect of a child; or
+    >   - (b) who is an intended parent of a child by reference to an application or intended application for such an order;
+    > - “shared parental leave” means leave under section 75E or 75G of the Employment Rights Act 1996;
+- (b) in paragraph (2)—
+  - (i) the words “a child’s mother or adopter” were “Parent A”;
+  - (ii) the words “the mother’s or adopter’s” were “Parent A’s”;
+- (c) the words of paragraph (4) were—
+
+  > a section 54[^key-9d5070f97b9c29588230037577dfe1fc] parental order parent elects to be Parent A in relation to a child if he agrees with the other section 54 parental order parent of the child that he, and not the other section 54 parental order parent, will be Parent A
+
+  .
+
+**7.**[^key-4f0a689976e6760091539dd4121355fe] Regulation 3 (application) of the Leave Regulations as they apply to section 54[^key-303f4b3b402b2e0baa81b7638ee7f4b2] parental order parents shall read as if—
+
+- (a) paragraph (1) were omitted;
+- (b) the words of paragraph (2) were—
+
+  > The provisions in relation to paternity leave under regulation 8 and in relation to adoption leave under regulation 15 have effect in relation to children whose expected week of birth begins on or after 5th April 2015.
+- (c) in paragraphs (3) and (6), the words “8th December 2002” were “1st December 2014”.
+
+**7A.**[^key-ff3bfc81b5923369ecbbc61835fc0261] Regulation 3 (application) of the Leave Regulations as they apply to section 54A parental order parents shall read as if—
+
+- (a) paragraph (1) were omitted;
+- (b) the words of paragraph (2) were—
+
+  > The provisions in relation to adoption leave under regulation 15 have effect in relation to children whose expected week of birth begins on or after the last day of the period of 120 days beginning with the day on which the Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 comes into force.
+
+  ; and
+- (c) in paragraphs (3) and (6), the words “8th December 2002” were “on or after the day on which the Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 comes into force”.
+
+**8.**[^key-c3239c6a0a2daa3fb7d5e5b2dd18f9d3] In regulation 4 (entitlement to paternity leave: birth), paragraph (1A)[^f00007] of the Leave Regulations, as they apply to section 54[^key-b4ae825e261d8256eb04cbe88ae0645b] parental order parents, shall read as if the words of that paragraph were—
+
+> An employee is not entitled to be absent from work under paragraph (1) if the employee—
+>
+> - (a)[^key-55ecfd2d9b1f6596f2d6ed830d3938de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (b) meets the criteria for entitlement to paternity leave under regulation 8; or
+> - (c) meets the criteria for entitlement to adoption leave under regulation 15.
+
+**9.**[^key-fcda9d41fd31338f398291256eac1c51][^key-00c2a601991b33a5bba050eb30636b23] In regulation 8 (entitlement to paternity leave: adoption) of the Leave Regulations as they apply to section 54[^key-56cb13ace8fe3b927c37411c7ac2f8fa] parental order parents—
+
+- (a) paragraph (1) shall read as if the words “the child’s adopter” were “Parent A”;
+- (b)[^key-bfe7ba09ae8d2a8c8475257ae54bd39b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) paragraph (2)(b) shall read as if—
+  - (i) the words “the child’s adopter” were “Parent A”;
+  - (ii) the word “and” were omitted;
+- (d) paragraph (2)(c) shall read as if—
+  - (i) the words “the adopter” were “Parent A”;
+  - (ii) the full stop were omitted;
+  - (iii) there were inserted after that paragraph—
+
+    > and
+    >
+    > - (d) is a section 54 parental order parent[^key-c2d299f487891ecafbc0eb62fb09a433] of the child.
+
+    ;
+- (e) paragraph (4) shall read as if the words of that paragraph were—
+
+  > An employee shall be treated as having satisfied the condition in paragraph (2)(b) if he would have satisfied it but for the fact that Parent A has died.
+
+  ;
+- (f) paragraph (5) shall read as if the words of that paragraph were—
+
+  > An employee shall be treated as having satisfied the condition in paragraph (2)(c) if he would have satisfied it but for the fact that the child was stillborn after 24 weeks of pregnancy or has died.
+- (g) paragraph (6) shall read as if the words of that paragraph were—
+
+  > An employee’s entitlement to leave under this regulation shall not be affected by the birth or expected birth of more than one child as a result of the same pregnancy.
+
+  ;
+- (h)[^key-250a59ee1cc18346aa7ca507353320e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^key-ec8ccb3a06bc67d738ddc86af2f5e5f5] In regulation 9 (options in respect of leave under regulation 8) of the Leave Regulations as they apply to section 54[^key-8464bda1e8eb7927cbc5e3dab9786184] parental order parents—
+
+- (a)[^key-656f3e4076ebbc9c43f3f58ddaf2aa76] paragraph (2) shall read as if the words of that paragraph were—
+
+  > The leave may only be taken during the period which begins on the date on which the child was born and ends—
+  >
+  > - (a) except in the case referred to in sub-paragraph (b), 52 weeks after that date;
+  > - (b) in a case where the child is born before the first day of the expected week of its birth, 52 weeks after that day.
+
+  ;
+- (b) paragraph (3) shall read as if the words of that paragraph were—
+
+  > Subject to paragraph (2), an employee may choose to begin a period of leave under regulation 8 on—
+  >
+  > - (a) the date on which the child is born;
+  > - (b) the date falling such number of days after the date on which the child is born as the employee may specify in a notice under regulation 10; or
+  > - (c) a predetermined date, specified in a notice under that regulation, which is later than the first day of the expect week of the child’s birth.
+
+  .
+
+**11.**[^key-040df8021db1457d863f4b05e6684a19][^key-3ca0a6b6acf9fa68eeab579657c1599d] Regulation 10 (notice and evidential requirements for leave under regulation 8) of the Leave Regulations as they apply to section 54 parental order parents shall read as if the words of that regulation were—
+
+> **10.** (1) An employee must give their employer—
+>
+> - (a) notice of their entitlement to take leave in respect of a child under regulation 8 which specifies the expected week of the child’s birth, and
+> - (b) a declaration in writing that—
+>   - (i) the employee satisfies the conditions in regulation 8(2)(b) and(c), and
+>   - (ii) the employee and Parent A are section 54 parental order parents of the child.
+>
+> (2) The employee must also give their employer, on each occasion that a period of leave is chosen in accordance with regulation 9—
+>
+> - (a) a notice that specifies the start day and date of the period of leave and its duration, and
+> - (b) a declaration in writing that the purpose of that period of leave will be that specified in regulation 8(1).
+>
+> (3) The notice and declaration in paragraph (1) must be given in or before the 15th week before the expected week of the child’s birth or, if it is not reasonably practicable to do so, as soon as is reasonably practicable.
+>
+> (4) The notice and declaration in paragraph (2) must be given at least 28 days before—
+>
+> - (a) the first day of the expected week of the child’s birth, where the option in regulation 9(3)(a) is chosen;
+> - (b) the date falling the specified number of days after the first day of the expected week of the child’s birth, where the option in regulation 9(3)(b) is chosen;
+> - (c) the predetermined date, where the option in regulation 9(3)(b) is chosen;
+>
+> or, if it is not reasonably practicable to do so, as soon as is reasonably practicable.
+>
+> (5) An employee who has previously given notice under paragraph (2)(a) or (8) or this paragraph may—
+>
+> - (a) vary the day or date chosen as the day or date on which a period of leave will begin or end, or
+> - (b) cancel the period of leave chosen,
+>
+> provided that notice of the variation or cancellation is given to the employer in accordance with paragraph (6).
+>
+> (6) A notice under paragraph (5) must be given by whichever is the earlier of at least 28 days before—
+>
+> - (a) the original day or date referred to in paragraph (7)(a), or
+> - (b) the new day or date referred to in paragraph (7)(b),
+>
+> or, if it is not reasonably practicable to do so, as soon as is reasonably practicable.
+>
+> (7) For the purposes of—
+>
+> - (a) paragraph (6)(a), where a notice has previously been given under either paragraph (2)(a), (5) or (8), the original day or date is—
+>   - (i) the first day of the expected week of the child’s birth, where the option in regulation 9(3)(a) was chosen in that notice;
+>   - (ii) the date falling the specified number of days after the first day of the expected week of the child’s birth, where the option in regulation 9(3)(b) was chosen in that notice;
+>   - (iii) the predetermined date specified in that notice, where the option in regulation 9(3)(c) was chosen;
+> - (b) paragraph (6)(b), the new day or date is—
+>   - (i) the first day of the expected week of the child’s birth, where the option in regulation 9(3)(a) is chosen in the notice of variation;
+>   - (ii) the date falling the specified number of days after the first day of the expected week of the child’s birth, where the option in regulation 9(3)(c) is chosen in the notice of variation;
+>   - (iii) the predetermined date specified in the notice of variation, where the option in regulation 9(3)(c) is chosen.
+>
+> (8) In a case where—
+>
+> - (a) the employee has chosen to begin a period of leave on a particular predetermined date, and
+> - (b) the child is not born on or before that date,
+>
+> the employee must vary the choice of date by substituting a later predetermined date or exercising an alternative option under regulation 9(3) and must give the employer notice of the variation as soon as is reasonably practicable.
+>
+> (9) Where a notice is given under paragraph (5) or (8) which varies the days or dates of a period of leave, a declaration under paragraph (2)(b) in relation to that period must be given at the same time as that notice.
+>
+> (10) An employee must give their employer a further notice, as soon as reasonably practicable after the child’s birth, of the date on which the child was born.
+>
+> (11) Any notice under paragraph (1)(a), (2)(a), (5), (8) or (10) must be given in writing, if the employer so requests.
+
+**12.**[^key-0df62f6612148d0e7286e9e715b57f14] In regulation 11 (commencement of leave under regulation 8) of the Leave Regulations, as they apply to section 54[^key-e4c193a03d225ec889c8968fcf661098] parental order parents—
+
+- (a) paragraph (1) shall read as if the words “10(5) or (8)[^key-fd674b585d56a9c22e573327eae16dcc]” were “10(4) or (5)”;
+- (b) paragraph (2)(a) shall read as if the words “the child is placed with the adopter” were “the child is born”.
+
+**12A.**[^key-450534b3383575cc88c002d11bc30b24] In regulation 11A (change in circumstances) of the Leave Regulations as they apply to section 54 parental order parents—
+
+- (a) in paragraph (2), for sub-paragraphs (a), (b) and (c) substitute—
+
+  > - (a) the employee does not apply for an order under section 54 of the Human Fertilisation and Embryology Act 2008 within the time limit set by subsection (3) of that section,
+  > - (b) the employee’s application for an order under that section for the child is refused, withdrawn or otherwise terminated without the order being granted and any time for an appeal or a new application has expired, or
+  > - (c) the child dies.
+
+  ;
+- (b) in paragraph (4), for sub-paragraphs (a), (b) and (c) substitute—
+
+  > - (a) in a case falling within paragraph (2)(a), the week during which the time limit in section 54(3) of the Human Fertilisation and Embryology Act 2008 for an application for an order under that section for the child expires;
+  > - (b) in a case falling within paragraph (2)(b), the week in which the employee’s application for an order under that section is refused, withdrawn or otherwise terminated without the order being granted;
+  > - (c) in a case falling within paragraph (2)(c), the week during which the child dies.
+
+  ;
+- (c) in paragraph (6), for “10(4)(b)” substitute “10(5)(b)”.
+
+**13.**[^key-e981a2273d5e5de8b5045f66be1a5a40] In regulation 15 (entitlement to ordinary adoption leave) of the Leave Regulations, as they apply to section 54[^key-4ef74920179001f8725da55390572c6d] parental order parents—
+
+- (a) paragraph (2) shall read as if the words of that paragraph were—
+
+  > The conditions referred to in paragraph (1) are that the employee—
+  >
+  > - (a) is one of the child’s section 54[^key-2823a0376d14bb4a7572eaa52305bcab] parental order parents; and
+  > - (b) has elected to be Parent A.
+- (b) paragraph (4) shall read as if the words of that paragraph were—
+
+  > An employee’s entitlement to leave under this regulation shall not be affected by the birth or expected birth of more than one child as a result of the same pregnancy.
+
+  .
+
+**13A.**[^key-def45b1850feb6141e11f07dce2e3bc9] In regulation 15 (entitlement to ordinary adoption leave) of the Leave Regulations, as they apply to section 54A parental order parents—
+
+- (a) paragraph (1)(a) shall read as if the word “conditions” were “condition”;
+- (b) paragraph (2) shall read as if the words of that paragraph were—
+
+  > The condition referred to in paragraph (1) is that the employee is a child’s section 54A parental order parent.
+
+  ;
+- (c) paragraph (4) shall read as if the words of that paragraph were—
+
+  > An employee’s entitlement to leave under this regulation shall not be affected by the birth or expected birth of more than one child as a result of the same pregnancy.
+
+**14.**[^key-dba25b670b07166f25092e92d8cdea61] Regulations 16 (options in respect of ordinary adoption leave) and 17 (notice and evidential requirements for ordinary adoption leave) of the Leave Regulations as they apply to section 54 parental order parents and section 54A parental order parents[^key-57a345366a972b696d0b01ed209274e9] shall read as if the wording of those regulations were—
+
+> **16. Commencement of ordinary adoption leave**
+>
+> (1) Except in a case referred to in paragraph (2), an employee’s period of ordinary adoption leave begins on the day on which the child is born.
+>
+> (2) In a case where the employee is at work on the date on which the child is born the employee’s leave begins on the day after that date.
+>
+> **17. Notice and evidential requirements for ordinary adoption leave**
+>
+> (1) An employee must give the employer notice of their intention to take ordinary adoption leave in respect of a child specifying the expected week of the child’s birth.
+>
+> (2) The notice provided for in paragraph (1) must be given to the employer in or before the 15th week before the expected week of the child’s birth.
+>
+> (3) Where an employer requests it, an employee must also provide the employer with a parental statutory declaration.
+>
+> (4) An employer who is given notice under paragraph (1) of the employee’s intention to take ordinary adoption leave must notify the employee within 28 days of the receipt of the notice of the date on which the period of additional adoption leave to which the employee will be entitled (if the employee satisfies the conditions in regulation 20(1)) after the employee’s period of ordinary adoption leave ends.
+>
+> (5) The notification provided for in paragraph (4) must be given to the employee within 28 days of the date on which the employer received that notice.
+>
+> (6) An employee must give the employer a further notice, as soon as reasonably practicable after the child’s birth, of the date on which the child was born.
+>
+> (7) Notices under paragraphs (1) and (6) must be given in writing, if the employer so requests.
+
+.
+
+**15.**[^key-74ebdaef005aeea001add1c2c7bb3a90] In regulation 18 (duration and commencement of ordinary adoption leave) of the Leave Regulations as they apply to section 54 parental order parents and section 54A parental order parents[^key-cb00001cefe247a86027654e5f139b1b]—
+
+- (a) The heading shall read as if the words “commencement of” were omitted;
+- (b) Paragraph (1) is unnumbered; and
+- (c) paragraphs (2) and (3) were omitted.
+
+**16.**[^key-ed2ce880630735cd7327b22dae943955] In regulation 20 (additional adoption leave: entitlement, duration and commencement) of the Leave Regulations as they apply to section 54[^key-6f492a4540308fa8efd19588c54e0ff5] parental order parents, paragraph (1)(a) shall read as if the words of that sub-paragraph were “the employee is Parent A”.
+
+**16A.**[^key-7fa6e2d1eccce04f0be6da0f555b1fd7] In regulation 20 (additional adoption leave: entitlement duration and commencement) of the Leave Regulations as they apply to section 54A parental order parents, paragraph (1)(a) shall read as if the words of that sub-paragraph were “the employee is a section 54A parental order parent in respect of that child.”
+
+**17.**[^key-678c5b63468f07f0d1f9af12a99d91eb] In regulation 22 (disrupted placement in the course of adoption leave) of the Leave Regulations as they apply to section 54[^key-0d27d9cc8517cdf909d7bcb5f3169fca] parental order parents—
+
+- (a) paragraph (1) shall read as if the words of that paragraph were—
+
+  > This regulation applies where—
+  >
+  > - (a)[^key-819555391f6c383a47dc6e218cdcd2f1] the employee does not apply for an order under section 54 of the Human Fertilisation and Embryology Act 2008 within the time limit set by subsection (3) of that section;
+  > - (b) the employee’s application for an order under that section for the child is refused, withdrawn or otherwise terminated without the order being granted and any time for an appeal or a new application has expired; or
+  > - (c) the child dies.
+
+  ;
+- (b) paragraph (3) shall read as if—
+  - (i) in paragraph (a) the words from “the person with whom” to the end were “the time limit in section 54(3) of the Human Fertilisation and Embryology Act 2008 for an application for an order under that section[^key-d4b3c59e0e6cf8650936582cec399c59] for the child expires;”;
+  - (ii) in paragraph (b) the words “paragraph (1)(b)(i)” to the end were “paragraph (1)(b), the week in which the employee’s application for an order under that section[^key-5b58cbcb07942ea4d7e05d7390e11bce] is refused, withdrawn or otherwise terminated without the order being granted;”;
+  - (iii) in paragraph (c) the words “paragraph (1)(b)(ii)” to the end were “paragraph (1)(c), the week during which the child dies”;
+- (c) paragraph (3A) is omitted in relation to any time on or after the date on which that paragraph comes into force[^f00008].
+
+**17A.**[^key-a7a389d11358ec64c01d085b0537cc76] In regulation 22 (disrupted placement in the course of adoption leave) of the Leave Regulations as they apply to section 54A parental order parents—
+
+- (a) paragraph (1) shall read as if the words of that paragraph were—
+
+  > This regulation applies where—
+  >
+  > - (a) the employee does not apply for an order under section 54A of the Human Fertilisation and Embryology Act 1998 within the time limit set by subsection (2) of that section;
+  > - (b) the employee’s application for an order under that section for the child is refused, withdrawn or otherwise terminated without the order being granted and any time limit for an appeal or new application has expired; or
+  > - (c) the child dies.
+
+  ;
+- (b) paragraph (3) shall read as if—
+  - (i) in paragraph (a), the words from “the person with whom” to the end were “the time limit in section 54A(2) of the Human Fertilisation and Embryology Act 2008 for an application for an order under that section for the child expires;”;
+  - (ii) in paragraph (b), the words “paragraph (1)(b)(i)” to the end were “paragraph (1)(b), the week in which the employee’s application for an order under that section is refused, withdrawn or otherwise terminated without the order being granted;”;
+  - (iii) in paragraph (c), the words “paragraph (1)(b)(ii)” to the end were “paragraph (1)(c), the week during which the child dies”; and
+- (c) paragraph (3A) shall be treated as omitted.
+
+**17B.**[^key-56d13bf3cc1fa650c742f64fbe7ac0a1] In regulation 23 (redundancy during adoption leave) of the Leave Regulations as they apply to parental order parents, paragraph (1B) shall read as if the words “is placed with the employee for adoption” were “was born”.
+
+## PART 3 — PARENTAL ORDER PARENTS: CURTAILMENT
+
+**18.**[^key-71ed8a5bfa2ec5c23cb4d1b5501fa946] Regulation 2(2) (application) of the Curtailment Regulations as they apply to section 54[^key-8411789341f614ac265152167553e0ed] parental order parents shall read as if the words in that regulation were—
+
+> Part 3 of these Regulations has effect only in relation to children whose expected week of birth begins on or after 5th April 2015.
+
+.
+
+**19.**[^key-a1d3509727de2570c40998355faf3a1c] Regulation 3 (interpretation) of the Curtailment Regulations as they apply to section 54[^key-816a641f81975f0034405fd49165c15a] parental order parents shall read as if in paragraph (1)—
+
+- (a) the definition of “A” read—
+
+  > - means in relation to C, the parental order parent of C who has elected to be Parent A in respect of C in accordance with regulation 2(4) of the Paternity and Adoption Leave Regulations 2002[^f00009];
+- (b) the definition of “AP” read—
+
+  > - means the parental order parent of C who is married to, or is the civil partner or partner of, A;
+- (c) there were, in the appropriate places alphabetically, the following definitions—
+
+  > - “intended parent”, in relation to a child, means a person who, on the day of the child’s birth—
+  >   - (a) applies, or intends to apply during the period of 6 months beginning with that day, with another person for a parental order in respect of the child, and
+  >   - (b) expects the court to make a parental order on that application in respect of the child;
+  > - “parental order” means an order under section 54(1) of the Human Fertilisation and Embryology Act 2008;
+  > - “parental order parent” means a person—
+  >   - (a) on whose application the court has made a parental order in respect of the child, or
+  >   - (b) who is an intended parent of a child;
+
+  .
+
+## PART 4 — PARENTAL ORDER PARENTS: SHARED PARENTAL LEAVE
+
+**20.**[^key-a887f6fd3bf8562569cb33d4116372af] In regulation 2 (application) of the SPL Regulations as they apply to section 54[^key-603a5d4e61d192b50f6c3fe530d13cc7] parental order parents—
+
+- (a) paragraph (1) is omitted;
+- (b) paragraph (2) shall read as if the words in that paragraph were—
+- (c) “The provisions relating to shared parental leave in Part 3 have effect only in relation to children whose expected week of birth begins on or after 5th April 2015.”.
+
+**21.**[^key-b7a6496f5c7bfedcecdf4e09a0cffb02] Regulation 3 (interpretation) of the SPL Regulations as they apply to section 54[^key-199f95ab9df0071f264d24bedce67fff] parental order parents shall read as if in paragraph (1)—
+
+- (a) the definition of “A” read—
+
+  > - means in relation to C, the parental order parent of C who has elected be Parent A in respect of C in accordance with regulation 2(4) of the Paternity and Adoption Leave Regulations 2002 [^f00010];
+
+  ;
+- (b) the definition of “AP” read—
+
+  > - means the parental order parent of C who at the date of C’s birth is married to, or the civil partner or the partner of, A;
+
+  ;
+- (c) there were, in the appropriate places alphabetically, the following definitions—
+
+  > - “intended parent”, in relation to a child, means a person who, on the day of the child’s birth—[^key-9a585983c237bfb374cce4d7905cd057]
+  >   - (a) applies, or intends to apply during the period of 6 months beginning with that day, with another person for a parental order in respect of the child; and
+  >   - (b) expects the court to make a parental order on that application in respect of the child;
+  > - “parental order” means an order under section 54(1) of the Human Fertilisation and Embryology Act 2008;
+  > - “parental order parent” means a person—
+  >   - (a) on whose application the court has made a parental order[^f00011] in respect of the child, or
+  >   - (b) who is an intended parent[^f00012] of a child;
+  > - “parental statutory declaration” means a statutory declaration stating that the person making the declaration—
+  >   - (a) has applied, or intends to apply, under section 54 of the Human Fertilisation and Embryology Act 2008 with another person for a parental order in respect of the child within the time limit for making such an application; and
+  >   - (b) expects the court to make a parental order on that application in respect of the child;
+
+  .
+
+### Shared Parental Leave (Adoption)
+
+**22.**[^key-9212ad0829bfaa0211118ee036f228fd] In regulation 20 (adopter’s entitlement to shared parental leave) of the SPL Regulations as they apply to section 54[^key-a258815e5e8519d94c599c642b1edd80] parental order parents—
+
+- (a) paragraphs (2)(b) and (3)(b) shall read as if the words “at the date of the placement for adoption of C” were “at the date of C’s birth”;
+- (b) paragraph (4) shall read as if the words of that paragraph were—
+
+  > Entitlement under paragraph (1) is not affected by the number of children born or expected as a result of the same pregnancy.
+
+  .
+
+**23.**[^key-ecfbfd25cc467f79e70073ef85a78eb3] In regulation 21 (adopter’s partner’s entitlement to shared parental leave) of the SPL Regulations as they apply to section 54[^key-c96fd3790a31b6934be196bb399c95f3] parental order parents—
+
+- (a) paragraphs (2)(b) and (3)(b) shall read as if the words “at the date of the placement for adoption of C” were “at the date of C’s birth”;
+- (b) paragraph (4) shall read as if the words of that paragraph were—
+
+  > Entitlement under paragraph (1) is not affected by the number of children born or expected as a result of the same pregnancy.
+
+  .
+
+**24.**[^key-f59d905f3dbebbe5656f89539561711b] Regulation 23 (periods when shared parental leave may be taken (adoption)) of the SPL Regulations as they apply to section 54[^key-322015afc9e8ffd25943144138d2c716] parental order parents shall read as if the words of paragraph (1) were—
+
+> Shared parental leave may be taken at any time within the period which begins on the date C is born (or where more than one child is born as a result of the same pregnancy, the date on which the first child is born) and ends on the day before C’s first birthday.
+
+.
+
+**25.**[^key-39b3b337e533972b7768b1f6ca75d70b] In regulation 24 (adopter’s notice of entitlement and intention to take shared parental leave) of the SPL Regulations as they apply to section 54[^key-6b88fd9be9432ab31a9ee1ca48d60c36] parental order parents—
+
+- (a) paragraph (2) shall read as if—
+  - (i) the words of sub-paragraph (c) were—
+
+    > the expected week of birth for C and C’s date of birth (except as provided for in paragraph (5));
+
+    ;
+  - (ii) the words of sub-paragraph (d) were—
+
+    > if the parental order has been granted, the date on which it was granted
+
+    ;
+- (b) paragraph (3) shall read as if there were inserted after sub-paragraph (b)—
+
+  > - (c) a parental statutory declaration signed by A.
+
+  ;
+- (c) paragraph (5) shall read as if the words in that paragraph were—
+
+  > (5) Where a notice is given under paragraph (1) before C is born, A must give notice of C’s date of birth as soon as reasonably practicable after the birth of C and in any event before the first period of shared parental leave to be taken by A.
+
+  ;
+- (d) it shall read as if after paragraph (6) there were inserted—
+
+  > (7) A is only required to supply a parental statutory declaration in accordance with paragraph (3)(c) if—
+  >
+  > - (a) A has not obtained a parental order for C, and
+  > - (b) A has not already supplied such a declaration to his employer.
+
+  .
+
+**26.**[^key-dc0ee0f27fd08aecf869b7e89f2d155e] In regulation 25 (adopter’s partner’s notice of entitlement and intention to take shared parental leave) of the SPL Regulations, as they apply to section 54[^key-6ae6a8a9d844fa09636f494e248fd4c7] parental order parents—
+
+- (a) paragraph (2) shall read as if—
+  - (i) the words in sub-paragraph (c) were—
+
+    > C’s expected week of birth and, where known, C’s date of birth (except as provided for in paragraph (4));
+
+    ;
+  - (ii) the words of sub-paragraph (d) were—
+
+    > if the parental order has been granted, the date on which it was granted
+
+    ;
+- (b) paragraph (3) shall read as if there were inserted after sub-paragraph (a)(iv)—
+
+  > - (v) A and AP are the parental order parents of the child
+
+  ;
+- (c) paragraph (4) shall read as if the words of that paragraph were—
+
+  > (4) Where a notice is given under paragraph (1) before C is born, AP must give C’s date of birth to AP’s employer as soon as reasonably practicable after the birth of C and, in any event, before the first period of shared parental leave to be taken by AP.
+
+  .
+
+**27.**[^key-32414daf263e7ecd7a049c83ac52ad87] In regulation 26 (supplementary evidence (adoption)) of the SPL Regulations as they apply to section 54 parental order[^key-b479317eef71ce3c99765789ac6b12cc] parents—
+
+- (a) paragraph (1)(a) shall read as if the words in that paragraph were replaced by—
+
+  > if available, evidence in the form of a parental order;
+
+  ;
+- (b) paragraph (2)(a) shall read as if the words of that paragraph were replaced by—
+
+  > if available, evidence in the form of a parental order;
+
+  ;
+
+**28.**[^key-698d466395e442c833abaf2019b952e8] In regulation 28 (period of leave notice (adoption)) of the SPL Regulations as they apply to section 54[^key-f34ae1d4e775471d1a44c0b2f38230e2] parental order parents, paragraph (4)(c) shall read as if the words in that paragraph were—
+
+> if given before C is born—
+>
+> - (i) contain a start date for the leave which is the day on which C is born or which is expressed as a number of days following the date of C’s birth;
+> - (ii) contain an end date expressed as a number of days following the date of C’s birth.
+
+.
+
+**29.**[^key-cf804a7d35b2d34dc62e504be923c596] In regulation 32 (limit on number of period of leave notices or variations (adoption)) of the SPL Regulations as they apply to section 54[^key-9ecd22d058663cc44912bd0780a1e30d] parental order parents, paragraph (2)(b) shall read as if the words “being placed earlier or later than the date expected” in that paragraph were “being born earlier or later than the expected week of birth”.
+
+**30.**[^key-03eaf87470db0fb403b067721b132bc3] In regulation 34 (entitlement to shared parental leave in the event of a disrupted placement or the death of adopter, adopter’s partner or child) of the SPL Regulations as they apply to section 54[^key-e126dcd638efc3b9c6fc69a660e3b067] parental order parents—
+
+- (a) paragraph (a) shall read as if the word “or” were omitted;
+- (b) paragraph (b) shall read as if the words of that paragraph were—
+
+  > A and AP do not apply for a parental order for C within the time limit in section 54(3) of the Human Fertilisation and Embryology Act 2008 for making such an application;
+
+  ;
+- (c) it shall read as if after paragraph (b) there were inserted—
+
+  > or
+  >
+  > - (c) A and AP’s application for a parental order for C is refused, withdrawn or otherwise terminated without the order being granted and any time limit for an appeal or new application has expired.
+
+  .
+
+**31.**[^key-1eca854d94865a4eaf28e2e9f4448dfb] In regulation 35 (continuity of employment test) of the SPL Regulations as they apply to section 54[^key-6ed92e9572167a0c41751e729f73e7e2] parental order parents—
+
+- (a) shall read as if after paragraph (2) there were inserted—
+
+  > (2A) Where Part 3 applies and C is born earlier than the relevant week and an employee would have satisfied the condition in sub-paragraph (a) of paragraph (1) if the employee’s employment had continued until the end of the week immediately preceding that week, the employee must be treated as having satisfied that condition.
+
+  ;
+- (b) paragraph (3) shall read as if the words of that paragraph were—
+
+  > In this regulation “relevant week” means the week immediately preceding the 14th week before the expected week of birth.
+
+  .
+
+**32.**[^key-eedc9d8f136925ae5fba69e4e4f7e0c5] Regulation 36 (employment and earnings test) of the SPL Regulations as they apply to section 54[^key-33bec17d1c6c7699eb0364d3b736ad7b] parental order parents shall read as if the definition of “calculation week” in paragraph (5) were—
+
+> - “calculation week” means the expected week of birth.
+
+.
+
+**32A.**[^key-0e399b238d5135a4fd39dd821b2042ce] In regulation 39 (redundancy during shared parental leave) of the SPL Regulations as they apply to parental order parents, sub-paragraph (1B)(b) shall read as if the words “placed with the employee for adoption” were “born”.
+
+**33.**[^key-80f4bcbabf7cd69a40656579ba1567ba] In the Schedule (shared parental leave in special circumstances) of the SPL Regulations as they apply to section 54[^key-559f5f6fded0061e61f29c5874d8a2e5] parental order parents—
+
+- (a) paragraph 10 (entitlement to shared parental leave in the event of a disrupted placement or the death of a child) shall read as if—
+  - (i) in sub-paragraphs (1) and (2) the words “is returned after being placed for adoption” were “the parental order does not proceed”;
+  - (ii) the words “C’s return or” were omitted;
+  - (iii) in the amendment of regulation 32(1) set out in paragraph (6), the words “is returned after being placed for adoption” were replaced by “the parental order does not proceed”;
+- (b) it shall read as if after paragraph (6) there is inserted—
+
+  > (6A) In this paragraph a parental order does not proceed if—
+  >
+  > - (a) A and AP have not made an application for a parental order for C within the time limit for such an application under section 54(3) of the Human Fertilisation and Embryology Act 2008; or
+  > - (b) an application made for a parental order in respect of C is refused, withdrawn or otherwise terminated and any time limit for an appeal or new application has expired.
+
+  ;
+- (c) paragraph (7) shall read as if the words of that sub-paragraph were—
+
+  > Where more than one child is born of the same pregnancy, a reference in this paragraph relating to the death of C must be construed as a reference to the last of those children to die.
+
+  .
+
+Jo Swinson
+
+Parliamentary Under Secretary of State for Employment Relations and Consumer Affairs
+
+Department for Business, Innovation and Skills
+
+28th November 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide new rights to paternity and adoption leave, to curtail adoption leave and to shared parental leave in respect of cases which involve a person who has applied with another person for a parental order under section 54 of the Human Fertilisation and Embryology Act 2008 or intends to apply for such an order. Under this section a court may make an order providing for a child of a surrogate mother to be treated as the child of the applicants for the order if certain conditions are satisfied.
+
+These Regulations should be read in conjunction with the Employment Rights Act 1996 (Application of sections 75A, 75B, 75G, 75H, 80A and 80B to Parental Order Cases) Regulations 2014. They should also be read in conjunction with the Paternity and Adoption Leave Regulations 2002 ([S.I. 2002/2788](https://www.legislation.gov.uk/uksi/2002/2788)), the Maternity and Adoption Leave (Curtailment of Statutory Rights to Leave) Regulations 2014 ([S.I. 2014/3052](https://www.legislation.gov.uk/uksi/2014/3052)) and the Shared Parental Leave Regulations 2014 ([S.I. 2014/3050](https://www.legislation.gov.uk/uksi/2014/3050)) which they modify.
+
+A separate impact assessment has not been prepared for these Regulations. These Regulations are part of a package of legislative measures and the relevant impact assessment is the *Modern Workplaces: shared parental leave and pay administration consultation impact assessment* which was published in February 2013. A copy of that impact assessment can be obtained from the Department for Business, Innovation and Skills, Labour Market Directorate, 1 Victoria Street, London, SW1H 0ET. Copies have also been placed in the libraries of both Houses of Parliament.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18). Section 236(3) was amended by the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26), Schedule 4, Part 3, paragraphs 5 and 42, the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), Schedule 7, paragraphs 24 and 49, the Work and Families Act [2006(c. 18)](https://www.legislation.gov.uk/uksi/2006/18), Schedule 1, paragraphs 29 and 44, and the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), section 117(2); there are other amending instruments but none is relevant.
+
+[^f00002]: Footnote: Section 47C was inserted by the Employment Relations Act [1999 (c.26)](https://www.legislation.gov.uk/ukpga/1999/26), schedule 4, part 3, paragraphs 5 and 8. Paragraphs (ba) and (ca) were inserted into section 47(2) by the Employment Act 2002, Schedule 7, paragraphs 24 and 26, and paragraph (ca) was substituted by the Work and Families Act 2006, Schedule 1, paragraph 30, and amended by the Children and Families Act 2014, Schedule 7, paragraphs 29 and 31. Paragraph (bb) was inserted into section 47C(2) by the Children and Families Act 2014, Schedule 7, paragraphs 29 and 31; there are other amending instruments but none is relevant. Sections 75A to 75D were inserted by the Employment Act 2002, section 3. Section 75A(2A) was inserted by the Work and Families Act 2006, schedule 1, paragraph 33. Section 75A(2A) was amended by, and section 75A(2B) was inserted by, the Children and Families Act 2014, section 118(1) and (4); there are other amending instruments but none is relevant. Subsection (3) of section 75B was substituted by the Work and Families Act 2006, Schedule 1, paragraph 34. Subsection (3)(a) of section 75B was amended by, and subsections (3)(aa) and (3A) were inserted by, section 118(5) of the Children and Families Act 2014. Section 75A and 75B are applied to parental order parents and modified by [S.I. 2014/3095](https://www.legislation.gov.uk/uksi/2014/3095). Section 75D(1A) was inserted by the Children and Families Act 2014, section 122(3). Sections 75G to 75K were inserted by the Children and Families Act 2014, section 117(1). Sections 75G and 75H are applied to parental order parents and modified by S.I. 2014. Sections 80A to 80E were inserted by the Employment Act 2002, section 1. Section 80B(4A) was inserted by the Children and Families Act 2014, section 118(7). Sections 80A and 80B are applied to parental order parents and modified by [S.I. 2014/3095](https://www.legislation.gov.uk/uksi/2014/3095), Schedule 2. Section 99 was substituted by the Employment Relations Act 1999, Schedule 4, part 3, paragraphs 5 and 16. Subsection (3)(aa) was inserted by the Children and Families Act 2014, section 127(2)(b). Paragraphs (ba) and (ca) were inserted into section 99(3) by the Employment Act 2002, Schedule 7, paragraphs 24 and 33, and paragraph (ca) was substituted by the Work and Families Act 2006, Schedule 1, paragraph 41, and amended by the Children and Families Act 2014, Schedule 7, paragraphs 29 and 39. Paragraph (bb) was inserted into section 99(3) by the Children and Families Act [2014 (c.6)](https://www.legislation.gov.uk/ukpga/2014/6), sections Schedule 7, paragraphs 29 and 39.
+
+[^key-f32c9810a4d9ae79c01c4f2b4959e356]: Commencement: Reg. 1 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-dce838bdb7ec8a3fba24ee59eb9a568d]: Commencement: Reg. 2 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^f00003]: Footnote: [S.I. 2014/3052](https://www.legislation.gov.uk/uksi/2014/3052).
+
+[^key-7b20d3ab88668602e07e17409bc10584]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3096/regulation/2) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/2/a)
+
+[^f00004]: Footnote: [S.I. 2002/2788](https://www.legislation.gov.uk/uksi/2002/2788); as amended by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275); [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114); [S.I. 2006/2014](https://www.legislation.gov.uk/uksi/2006/2014); [S.I. 2008/1966](https://www.legislation.gov.uk/uksi/2008/1966); [S.I. 2011/1740](https://www.legislation.gov.uk/uksi/2011/1740); [S.I. 2014/2112](https://www.legislation.gov.uk/uksi/2014/2112).
+
+[^key-740112ef2e90ff1b85ba7dcd19a6f24a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3096/regulation/2) omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/2/b)
+
+[^key-b64678e0567a1da53bd0ffca007dd00f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3096/regulation/2) omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(2)(c)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/2/c)
+
+[^key-7c00825283f9ba0228965cc8fd710e6b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3096/regulation/2) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(2)(d)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/2/d)
+
+[^f00006]: Footnote: [S.I. 2014/3050](https://www.legislation.gov.uk/uksi/2014/3050).
+
+[^key-67856ac1753d84d00d8892f8ee73955f]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/3096/regulation/3) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(3)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/3)
+
+[^key-6f00b12d383fb546aa4058da5df82268]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/3096/regulation/3/1) modified (18.2.2026) by [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)(e)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2/e), [9(1)](https://www.legislation.gov.uk/uksi/2026/15/regulation/9/1)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/9/3)
+
+[^key-30b103becde88cee53c10e94fe64af91]: Commencement: Reg. 4 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-19cf6e1c79ae6e8cf3501d7cf453ac78]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2014/3096/regulation/4) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/4)
+
+[^key-9c0446b4c892876105097cd8b32f7d84]: Commencement: Reg. 5 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-8e48be18d25891173ba55362384d91c7]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2014/3096/regulation/5) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(5)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/5)
+
+[^key-291447a078fab7df53b400574ad0d3d5]: Commencement: Reg. 6 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-a4c168ae47385369b29a20bce2857eb8]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2014/3096/regulation/6) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(6)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/6/a)
+
+[^key-906d2bffe1cde61c587b800ce2ea07f8]: Textual amendment: Words in [reg. 6(a)(iii)](https://www.legislation.gov.uk/uksi/2014/3096/regulation/6/a/iii) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(6)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/6/b/i)
+
+[^key-245f75d0a08b491a2b678a03e63afc31]: Textual amendment: Words in [reg. 6(a)(iii)](https://www.legislation.gov.uk/uksi/2014/3096/regulation/6/a/iii) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/6/b/ii)
+
+[^key-217350a0aca34a1aed5c77fe5f5b3ab6]: Textual amendment: Words in [reg. 6(a)(iii)](https://www.legislation.gov.uk/uksi/2014/3096/regulation/6/a/iii) omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/6/b/iii)
+
+[^key-b464105454125f91b32d18f3824e9a6a]: Textual amendment: Words in [reg. 6(a)(iii)](https://www.legislation.gov.uk/uksi/2014/3096/regulation/6/a/iii) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(6)(b)(v)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/6/b/v)
+
+[^key-c898ff7d8d1a7ce5cbb31de1fa3b0fd8]: Textual amendment: Words in [reg. 6(a)(iii)](https://www.legislation.gov.uk/uksi/2014/3096/regulation/6/a/iii) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(6)(b)(iv)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/6/b/iv)
+
+[^key-9d5070f97b9c29588230037577dfe1fc]: Textual amendment: Words in [reg. 6(c)](https://www.legislation.gov.uk/uksi/2014/3096/regulation/6/c) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(6)(c)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/6/c)
+
+[^key-4f0a689976e6760091539dd4121355fe]: Commencement: Reg. 7 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-303f4b3b402b2e0baa81b7638ee7f4b2]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2014/3096/regulation/7) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(7)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/7)
+
+[^key-ff3bfc81b5923369ecbbc61835fc0261]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2014/3096/regulation/7A) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(8)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/8)
+
+[^key-c3239c6a0a2daa3fb7d5e5b2dd18f9d3]: Commencement: Reg. 8 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^f00007]: Footnote: Paragraph (1A) was inserted by [S.I. 2014/2112](https://www.legislation.gov.uk/uksi/2014/2112).
+
+[^key-b4ae825e261d8256eb04cbe88ae0645b]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2014/3096/regulation/8) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(9)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/9)
+
+[^key-55ecfd2d9b1f6596f2d6ed830d3938de]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2014/3096/regulation/8) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [14](https://www.legislation.gov.uk/uksi/2026/15/regulation/14) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
+
+[^key-fcda9d41fd31338f398291256eac1c51]: Commencement: Reg. 9 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-00c2a601991b33a5bba050eb30636b23]: Modification: Reg. 9 modified (18.2.2026) by [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)(e)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2/e), [9(1)](https://www.legislation.gov.uk/uksi/2026/15/regulation/9/1)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/9/3)
+
+[^key-56cb13ace8fe3b927c37411c7ac2f8fa]: Textual amendment: Words in reg. 9 inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(10)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/10/a)
+
+[^key-bfe7ba09ae8d2a8c8475257ae54bd39b]: Textual amendment: Reg. 9(b) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [8(a)](https://www.legislation.gov.uk/uksi/2026/15/regulation/8/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
+
+[^key-c2d299f487891ecafbc0eb62fb09a433]: Textual amendment: Words in reg. 9(d)(iii) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(10)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/10/b)
+
+[^key-250a59ee1cc18346aa7ca507353320e0]: Textual amendment: Reg. 9(h) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [8(b)](https://www.legislation.gov.uk/uksi/2026/15/regulation/8/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
+
+[^key-ec8ccb3a06bc67d738ddc86af2f5e5f5]: Commencement: Reg. 10 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-8464bda1e8eb7927cbc5e3dab9786184]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2014/3096/regulation/10) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(11)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/11)
+
+[^key-656f3e4076ebbc9c43f3f58ddaf2aa76]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2014/3096/regulation/10) substituted (8.3.2024 immediately after S.I. 2024/329, Pts. 1, 2 come into force) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [22](https://www.legislation.gov.uk/uksi/2024/329/regulation/22) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+
+[^key-040df8021db1457d863f4b05e6684a19]: Modification: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/3096/regulation/11) modified (18.2.2026) by [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)(e)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2/e), [9(1)](https://www.legislation.gov.uk/uksi/2026/15/regulation/9/1)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/9/3)
+
+[^key-3ca0a6b6acf9fa68eeab579657c1599d]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/3096/regulation/11) substituted (8.3.2024 immediately after S.I. 2024/329, Pts. 1, 2 come into force) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [23](https://www.legislation.gov.uk/uksi/2024/329/regulation/23) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+
+[^key-0df62f6612148d0e7286e9e715b57f14]: Commencement: Reg. 12 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-e4c193a03d225ec889c8968fcf661098]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2014/3096/regulation/12) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(13)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/13)
+
+[^key-fd674b585d56a9c22e573327eae16dcc]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2014/3096/regulation/12) substituted (8.3.2024 immediately after S.I. 2024/329, Pts. 1, 2 come into force) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [24](https://www.legislation.gov.uk/uksi/2024/329/regulation/24) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+
+[^key-450534b3383575cc88c002d11bc30b24]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/2014/3096/regulation/12A) inserted (8.3.2024 immediately after S.I. 2024/329, Pts. 1, 2 come into force) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [25](https://www.legislation.gov.uk/uksi/2024/329/regulation/25) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+
+[^key-e981a2273d5e5de8b5045f66be1a5a40]: Commencement: Reg. 13 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-4ef74920179001f8725da55390572c6d]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2014/3096/regulation/13) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(14)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/14/a)
+
+[^key-2823a0376d14bb4a7572eaa52305bcab]: Textual amendment: Words in [reg. 13(a)](https://www.legislation.gov.uk/uksi/2014/3096/regulation/13/a) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(14)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/14/b)
+
+[^key-def45b1850feb6141e11f07dce2e3bc9]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2014/3096/regulation/13A) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(15)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/15)
+
+[^key-dba25b670b07166f25092e92d8cdea61]: Commencement: Reg. 14 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-57a345366a972b696d0b01ed209274e9]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2014/3096/regulation/14) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(16)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/16)
+
+[^key-74ebdaef005aeea001add1c2c7bb3a90]: Commencement: Reg. 15 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-cb00001cefe247a86027654e5f139b1b]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2014/3096/regulation/15) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(17)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/17)
+
+[^key-ed2ce880630735cd7327b22dae943955]: Commencement: Reg. 16 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-6f492a4540308fa8efd19588c54e0ff5]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2014/3096/regulation/16) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(18)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/18)
+
+[^key-7fa6e2d1eccce04f0be6da0f555b1fd7]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2014/3096/regulation/16A) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(19)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/19)
+
+[^key-678c5b63468f07f0d1f9af12a99d91eb]: Commencement: Reg. 17 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-0d27d9cc8517cdf909d7bcb5f3169fca]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2014/3096/regulation/17) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(20)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/20/a)
+
+[^key-819555391f6c383a47dc6e218cdcd2f1]: Textual amendment: Words in [reg. 17(a)](https://www.legislation.gov.uk/uksi/2014/3096/regulation/17/a) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(20)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/20/b)
+
+[^key-d4b3c59e0e6cf8650936582cec399c59]: Textual amendment: Words in [reg. 17(b)(i)](https://www.legislation.gov.uk/uksi/2014/3096/regulation/17/b/i) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(20)(c)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/20/c)
+
+[^key-5b58cbcb07942ea4d7e05d7390e11bce]: Textual amendment: Words in [reg. 17(b)(ii)](https://www.legislation.gov.uk/uksi/2014/3096/regulation/17/b/ii) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(20)(d)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/20/d)
+
+[^f00008]: Footnote: Paragraph (3A) was inserted by [S.I. 2014/3206](https://www.legislation.gov.uk/uksi/2014/3206).
+
+[^key-a7a389d11358ec64c01d085b0537cc76]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2014/3096/regulation/17A) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(21)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/21)
+
+[^key-56d13bf3cc1fa650c742f64fbe7ac0a1]: Textual amendment: [Reg. 17B](https://www.legislation.gov.uk/uksi/2014/3096/regulation/17B) inserted (6.4.2025) by virtue of [The Neonatal Care Leave and Miscellaneous Amendments Regulations 2025 (S.I. 2025/375)](https://www.legislation.gov.uk/uksi/2025/375), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/375/regulation/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2025/375/regulation/22/2) (with [reg. 2(7)](https://www.legislation.gov.uk/uksi/2025/375/regulation/2/7))
+
+[^key-71ed8a5bfa2ec5c23cb4d1b5501fa946]: Commencement: Reg. 18 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-8411789341f614ac265152167553e0ed]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2014/3096/regulation/18) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(22)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/22)
+
+[^key-a1d3509727de2570c40998355faf3a1c]: Commencement: Reg. 19 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-816a641f81975f0034405fd49165c15a]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2014/3096/regulation/19) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(23)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/23)
+
+[^f00009]: Footnote: Regulation 2(4) as modified by regulation 6 of these Regulations.
+
+[^key-a887f6fd3bf8562569cb33d4116372af]: Commencement: Reg. 20 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-603a5d4e61d192b50f6c3fe530d13cc7]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/2014/3096/regulation/20) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(24)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/24)
+
+[^key-b7a6496f5c7bfedcecdf4e09a0cffb02]: Commencement: Reg. 21 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-199f95ab9df0071f264d24bedce67fff]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2014/3096/regulation/21) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(25)(a)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/25/a)
+
+[^f00010]: Footnote: Regulation 2(4) as modified by regulation 6 of these Regulations.
+
+[^key-9a585983c237bfb374cce4d7905cd057]: Textual amendment: Words in [reg. 21(c)](https://www.legislation.gov.uk/uksi/2014/3096/regulation/21/c) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(25)(b)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/25/b)
+
+[^f00011]: Footnote: “parental order” is defined in section 75G(6A) of the Employment Rights Act [1996 (c.18)](https://www.legislation.gov.uk/ukpga/1996/18) as modified by [S.I. 2014/3095](https://www.legislation.gov.uk/uksi/2014/3095).
+
+[^f00012]: Footnote: “intended parent” is defined in section 75G(6A) of the Employment Rights Act [1996 (c.18)](https://www.legislation.gov.uk/ukpga/1996/18) as modified by [S.I. 2014/3095](https://www.legislation.gov.uk/uksi/2014/3095).
+
+[^key-9212ad0829bfaa0211118ee036f228fd]: Commencement: Reg. 22 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-a258815e5e8519d94c599c642b1edd80]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2014/3096/regulation/22) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(26)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/26)
+
+[^key-ecfbfd25cc467f79e70073ef85a78eb3]: Commencement: Reg. 23 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-c96fd3790a31b6934be196bb399c95f3]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2014/3096/regulation/23) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(27)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/27)
+
+[^key-f59d905f3dbebbe5656f89539561711b]: Commencement: Reg. 24 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-322015afc9e8ffd25943144138d2c716]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/uksi/2014/3096/regulation/24) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(28)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/28)
+
+[^key-39b3b337e533972b7768b1f6ca75d70b]: Commencement: Reg. 25 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-6b88fd9be9432ab31a9ee1ca48d60c36]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2014/3096/regulation/25) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(29)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/29)
+
+[^key-dc0ee0f27fd08aecf869b7e89f2d155e]: Commencement: Reg. 26 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-6ae6a8a9d844fa09636f494e248fd4c7]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/2014/3096/regulation/26) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(30)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/30)
+
+[^key-32414daf263e7ecd7a049c83ac52ad87]: Commencement: Reg. 27 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-b479317eef71ce3c99765789ac6b12cc]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/2014/3096/regulation/27) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(31)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/31)
+
+[^key-698d466395e442c833abaf2019b952e8]: Commencement: Reg. 28 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-f34ae1d4e775471d1a44c0b2f38230e2]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2014/3096/regulation/28) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(32)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/32)
+
+[^key-cf804a7d35b2d34dc62e504be923c596]: Commencement: Reg. 29 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-9ecd22d058663cc44912bd0780a1e30d]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/uksi/2014/3096/regulation/29) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(33)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/33)
+
+[^key-03eaf87470db0fb403b067721b132bc3]: Commencement: Reg. 30 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-e126dcd638efc3b9c6fc69a660e3b067]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/uksi/2014/3096/regulation/30) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(34)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/34)
+
+[^key-1eca854d94865a4eaf28e2e9f4448dfb]: Commencement: Reg. 31 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-6ed92e9572167a0c41751e729f73e7e2]: Textual amendment: Words in [reg. 31](https://www.legislation.gov.uk/uksi/2014/3096/regulation/31) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(35)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/35)
+
+[^key-eedc9d8f136925ae5fba69e4e4f7e0c5]: Commencement: Reg. 32 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-33bec17d1c6c7699eb0364d3b736ad7b]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/2014/3096/regulation/32) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(36)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/36)
+
+[^key-0e399b238d5135a4fd39dd821b2042ce]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/2014/3096/regulation/32A) inserted (6.4.2025) by [The Neonatal Care Leave and Miscellaneous Amendments Regulations 2025 (S.I. 2025/375)](https://www.legislation.gov.uk/uksi/2025/375), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/375/regulation/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2025/375/regulation/22/3) (with [reg. 2(7)](https://www.legislation.gov.uk/uksi/2025/375/regulation/2/7))
+
+[^key-80f4bcbabf7cd69a40656579ba1567ba]: Commencement: Reg. 33 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3096/regulation/1)
+
+[^key-559f5f6fded0061e61f29c5874d8a2e5]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/2014/3096/regulation/33) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9(37)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9/37)

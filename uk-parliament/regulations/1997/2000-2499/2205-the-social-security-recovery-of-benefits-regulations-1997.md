@@ -1,0 +1,402 @@
+---
+title: The Social Security (Recovery of Benefits) Regulations 1997
+id: uksi/1997/2205
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1997-09-10'
+text_date: '2026-10-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1997/2205
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/2205/pdfs/uksi_19972205_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1997/2205/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Recovery of Benefits) Regulations 1997
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/1997/2205
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1997 No. 2205
+
+SOCIAL SECURITY
+
+The Social Security (Recovery of Benefits) Regulations 1997
+
+Made
+
+10th September 1997
+
+Laid before Parliament
+
+15th September 1997
+
+Coming into force
+
+6th October 1997
+
+The Secretary of State for Social Security, in exercise of the powers conferred by section 189(4), (5) and (6) of the Social Security Administration Act 1992[^c1675378] and sections 4(9), 14(2), (3) and (4), 16(1) and (2), 18, 19, 21(3), 23(1), (2), (5) and (7), 29 and 32 of, and paragraphs 4 and 8 of Schedule 1 to, the Social Security (Recovery of Benefits) Act 1997[^c1675379], and of all other powers enabling her in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Security (Recovery of Benefits) Regulations 1997 and shall come into force on 6th October 1997.
+
+(2) In these Regulations—
+
+- “the 1992 Act" means the Social Security Administration Act 1992;
+- “the 1997 Act" means the Social Security (Recovery of Benefits) Act 1997;
+- “commencement day" means the day these Regulations come into force;
+- “compensator" means a person making a compensation payment;
+- “[^key-28611e9eedbd0ed8f88dfef5eedf3bee]**Compensation Recovery Unit**” means the Compensation Recovery Unit, part of the Department for Work and Pensions, at Wear View House, 1 Eden Street West, Sunderland, SR1 3EY.
+
+(3) A reference in these Regulations to a numbered section or Schedule is a reference, unless the context otherwise requires, to that section of or Schedule to the 1997 Act.
+
+## 2. Exempted trusts and payments
+
+(1) The following trusts are prescribed for the purposes of paragraph 4 of Schedule 1:
+
+- (a) the Macfarlane Trust established on 10th March 1988 partly out of funds provided by the Secretary of State to the Haemophilia Society for the relief of poverty or distress among those suffering from haemophilia;
+- (b) the Macfarlane (Special Payments) Trust established on 29th January 1990 partly out of funds provided by the Secretary of State, for the benefit of certain persons suffering from haemophilia;
+- (c) the Macfarlane (Special Payments) (No. 2) Trust established on 3rd May 1991 partly out of funds provided by the Secretary of State for the benefit of certain persons suffering from haemophilia and other beneficiaries;
+- (d) the Eileen Trust established on 29th March 1993 out of funds provided by the Secretary of State for the benefit of persons eligible for payment in accordance with its provisions.
+- (e)[^key-4a0b70d7184ba960b18c1a28e0a4dc6f] a trust established out of funds provided by the Secretary of State in respect of persons who suffered, or who are suffering, from variant Creutzfeldt-Jakob disease for the benefit of persons eligible for interim payments in accordance with its provisions;
+- (f) a trust established out of funds provided by the Secretary of State in respect of persons who suffered, or who are suffering, from variant Creutzfeldt-Jakob disease for the benefit of persons eligible for payments, other than interim payments, in accordance with its provisions.
+- (g)[^key-1100312c2596781f0046df5463909e74] the UK Asbestos Trust established on 10th October 2006, for the benefit of certain persons suffering from asbestos-related diseases.
+- (h) the EL Scheme Trust established on 23rd November 2006, for the benefit of certain persons suffering from asbestos-related diseases.
+
+(2) The following payments are prescribed for the purposes of paragraph 8 of Schedule 1:
+
+- (a) any payment to the extent that it is made—
+  - (i) in consequence of an action under the Fatal Accidents Act 1976 [^c1675380]; or
+  - (ii) in circumstances where, had an action been brought, it would have been brought under that Act;
+- (b) any payment to the extent that it is made in respect of a liability arising by virtue of section 1 of the Damages (Scotland) Act 1976 [^c1675381];
+- (c) any payment made under the Vaccine Damage Payments Act 1979 [^c1675382] to or in respect of the injured person;
+- (d) any award of compensation made to or in respect of the injured person under the Criminal Injuries Compensation Act 1995 [^c1675383] or by the Criminal Injuries Compensation Board under the Criminal Injuries Compensation Scheme 1990 or any earlier scheme;
+- (e) any compensation payment made by British Coal in accordance with the NCB Pneumoconiosis Compensation Scheme set out in the Schedule to an agreement made on the 13th September 1974 between the National Coal Board, the National Union of Mine Workers, the National Association of Colliery Overmen Deputies and Shot-firers and the British Association of Colliery Management;
+- (f) any payment made to the injured person in respect of sensorineural hearing loss where the loss is less than 50 dB in one or both ears;
+- (g) any contractual amount paid to an employee by an employer of his in respect of a period of incapacity for work;
+- (h) any payment made under the National Health Service (Injury Benefits) Regulations 1995 [^c1675384] or the National Health Service (Scotland) (Injury Benefits) Regulations 1974 [^c1675385];
+- (i) any payment made by or on behalf of the Secretary of State for the benefit of persons eligible for payment in accordance with the provisions of a scheme established by him on 24th April 1992 or, in Scotland, on 10th April 1992;[^key-b1f3edbff52a9569dbdecda4ae37d832]
+- (j)[^key-1e0cebda198b47507ba835fda22a12f9] any payment made from the Skipton Fund, the ex-gratia payment scheme administered by the Skipton Fund Limited, incorporated on 25th March 2004, for the benefit of certain persons suffering from hepatitis C and other persons eligible for payment in accordance with the scheme’s provisions.
+- (k)[^key-7c397dfda2ca639608d785ac0a794e51] any payment made from the London Bombings Relief Charitable Fund, the company limited by guarantee (number 5505072) and registered charity of that name established on 11th July 2005 for the purpose of (amongst other things) relieving sickness, disability or financial need of victims (including families or dependants of victims) of the terrorist attacks carried out in London on 7th July 2005.
+- (l)[^key-6d159cae0e33c2ac305708132588606c] any payment made by MFET Limited, a company limited by guarantee (number 7121661) of that name, established for the purpose in particular of making payments in accordance with arrangements made with the Secretary of State to persons who have acquired HIV as a result of treatment by the NHS with blood or blood products.
+- (m)[^key-754fac2a519097ff0cf1697aaaad2b9e] any payment made from the Caxton Foundation, the charitable trust of that name established on 28th March 2011 out of funds provided by the Secretary of State for the benefit of certain persons suffering from hepatitis C and other persons eligible for payment in accordance with its provisions.
+- (n)[^key-e4576dc66d2553ca0155bb047dc4dd8a] any payment made from the Scottish Infected Blood Support Scheme administered by the Common Services Agency (constituted by section 10 of the National Health Service (Scotland) Act 1978).
+- (o)[^key-272516cd7e06ef713f1b84ef1d84106b] any payment made from a scheme established or approved by the Secretary of State, or trust established with funds provided by the Secretary of State, for the purpose of providing compensation in respect of a person having been infected from contaminated blood products;
+- (p) any payment made under or by a trust, established for the purpose of giving relief and assistance to disabled persons whose disabilities were caused by the fact that during their mother’s pregnancy she had taken a preparation containing the drug known as Thalidomide, and which is approved by the Secretary of State.
+- (q)[^key-7c9597473c9e2dba78c506d1b52bb259] any payment of victims’ payments, or of a lump sum, under the Victims’ Payments Regulations 2020.
+- (r)[^key-2176ea4cca2a0a45b90bf60ae0fc3776] any payment made under the Windrush Compensation Scheme (Expenditure) Act 2020.
+- (s)[^key-a97250ac87533d9d9d90214850b405c8] any payment made for the purpose of providing compensation or support in respect of the fire on 14th June 2017 at Grenfell Tower;
+- (t) any payment made by the Post Office or the Secretary of State for the purpose of providing compensation or support which is—
+  - (i) in connection with the failings of the Horizon system; or
+  - (ii) otherwise payable following the judgment in *Bates and Others v Post Office Ltd* ((No. 3) “Common Issues”);[^key-16c21a6cbfbd92342dc7b63dbc0577f1]
+- (u) any payment that is made under the Lesbian, Gay, Bisexual and Transgender Financial Recognition Scheme administered under the authority of the Secretary of State for Defence;[^key-5e8e8a98329b46736d42d6814e8eae04]
+- (v) any payment that is made under the Mother and Baby Institutions Payment Scheme established by the Irish Government under section 5 of the Irish Mother and Baby Institutions Payment Scheme Act 2023.
+
+(3)[^key-b9ffd7a4dadbf8756d137fecbe6ac18e] In this regulation—
+
+- “**the Horizon system**” means any version of the computer system used by the Post Office known as Horizon, Horizon Legacy, Horizon Online or HNG-X;
+- “**the Post Office**” means Post Office Limited (registered number 02154540).
+
+## 3. Information to be provided by the compensator
+
+The following information is prescribed for the purposes of section 23(1):
+
+- (a) the full name and address of the injured person;
+- (b) where known, the date of birth or national insurance number of that person, or both if both are known;
+- (c) where the liability arises, or is alleged to arise, in respect of an accident or injury, the date of the accident or injury;
+- (d) the nature of the accident, injury or disease; and
+- (e) where known, and where the relevant period [^c1675386] may include a period prior to 6th April 1994, whether, at the time of the accident or injury or diagnosis of the disease, the person was employed under a contract of service, and, if he was, the name and address of his employer at that time and the person’s payroll number.
+
+## 4. Information to be provided by the injured person
+
+The following information is prescribed for the purposes of section 23(2):
+
+- (a) whether the accident, injury or disease resulted from any action taken by another person, or from any failure of another person to act, and, if so, the full name and address of that other person;
+- (b) whether the injured person has claimed or may claim a compensation payment, and, if so, the full name and address of the person against whom the claim was or may be made;
+- (c) the amount of any compensation payment and the date on which it was made;
+- (d) the listed benefits claimed, and for each benefit the date from which it was first claimed and the amount received in the period beginning with that date and ending with the date the information is sent;
+- (e) in the case of a person who has received statutory sick pay during the relevant period and prior to 6th April 1994, the name and address of any employer who made those payments to him during the relevant period and the dates the employment with that employer began and ended; and
+- (f) any changes in the medical diagnosis relating to the condition arising from the accident, injury or disease.
+
+## 5. Information to be provided by the employer
+
+The following information is prescribed for the purposes of section 23(5):
+
+- (a) the amount of any statutory sick pay the employer has paid to the injured person since the first day of the relevant period and before 6th April 1994;
+- (b) the date the liability to pay such statutory sick pay first arose and the rate at which it was payable;
+- (c) the date on which such liability terminated; and
+- (d) the causes of incapacity for work during any period of entitlement to statutory sick pay during the relevant period and prior to 6th April 1994.
+
+## 6. Provision of information
+
+A person required to give information to the Secretary of State under regulations 3 to 5 shall do so by sending it to the Compensation Recovery Unit not later than 14 days after—
+
+- (a) where he is a person to whom regulation 3 applies, the date on which he receives a claim for compensation from the injured person in respect of the accident, injury or disease;
+- (b) where he is a person to whom regulation 4 or 5 applies, the date on which the Secretary of State requests the information from him.
+
+## 7. Application for a certificate of recoverable benefits
+
+(1) The following particulars are prescribed for the purposes of section 21(3)(a) (particulars to be included in an application for a certificate of recoverable benefits):
+
+- (a) the full name and address of the injured person;
+- (b) the date of birth and, where known, the national insurance number of that person;
+- (c) where the liability arises or is alleged to arise in respect of an accident or injury, the date of the accident or injury;
+- (d) the nature of the accident, injury or disease;
+- (e) where the person liable, or alleged to be liable, in respect of the accident, injury or disease, is the employer of the injured person, or has been such an employer, the information prescribed by regulation 5.
+
+(2) An application for a certificate of recoverable benefits is to be treated for the purposes of the 1997 Act as received by the Secretary of State on the day on which it is received by the Compensation Recovery Unit, or if the application is received after normal business hours, or on a day which is not a normal business day at that office, on the next such day.
+
+## 8. Payments into court
+
+(1) Subject to the provisions of this regulation, where a party to an action makes a payment into court which, had it been paid directly to another party to the action (“the relevant party"), would have constituted a compensation payment—
+
+- (a) the making of that payment shall be treated for the purposes of the 1997 Act as the making of a compensation payment;
+- (b) a current certificate of recoverable benefits shall be lodged with the payment; and
+- (c) where the payment is calculated under section 8, the compensator must give the relevant party the information specified in section 9(1), instead of the person to whom the payment is made.
+
+(2) The liability under section 6(1) to pay an amount equal to the total amount of the recoverable benefits shall not arise until the person making the payment into court has been notified that the whole or any part of the payment into court has been paid out of court to or for the relevant party.
+
+(3) Where a payment into court in satisfaction of his claim is accepted by the relevant party in the initial period, then as respects the compensator in question, the relevant period shall be taken to have ended, if it has not done so already, on the day on which the payment into court (or if there were two or more such payments, the last of them) was made.
+
+(4) Where, after the expiry of the initial period, the payment into court is accepted in satisfaction of the relevant party’s claim by consent between the parties, the relevant period shall end, if it has not done so already, on the date on which application to the court for the payment is made.
+
+(5) Where, after the expiry of the initial period, payment out of court is made wholly or partly to or for the relevant party in accordance with an order of the court and in satisfaction of his claim, the relevant period shall end, if it has not done so already, on the date of that order.
+
+(6) In paragraphs (3), (4) and (5), “the initial period" means the period of 21 days after the receipt by the relevant party to the action of notice of the payment into court having been made.
+
+(7) Where a payment into court is paid out wholly to or for the party who made the payment (otherwise than to or for the relevant party to the action) the making of the payment into court shall cease to be regarded as the making of a compensation payment.
+
+(8) A current certificate of recoverable benefits in paragraph (1) means one that is in force as described in section 4(4).
+
+## 9. Reduction of compensation: complex cases
+
+(1) This regulation applies where—
+
+- (a) a compensation payment in the form of a lump sum (an “earlier payment") has been made to or in respect of the injured person; and
+- (b) subsequently another such payment ( a “later payment") is made to or in respect of the same injured person in consequence of the same accident, injury or disease.
+
+(2) In determining the liability under section 6(1) arising in connection with the making of the later payment, the amount referred to in that subsection shall be reduced by any amount paid in satisfaction of that liability as it arose in connection with the earlier payment.
+
+(3) Where—
+
+- (a) a payment made in satisfaction of the liability under section 6(1) arising in connection with an earlier payment is not reflected in the certificate of recoverable benefits in force at the time of a later payment, and
+- (b) in consequence, the aggregate of payments made in satisfaction of the liability exceeds what it would have been had that payment been so reflected,
+
+the Secretary of State shall pay the compensator who made the later payment an amount equal to the excess.
+
+(4) Where—
+
+- (a) a compensator receives a payment under paragraph (3), and
+- (b) the amount of the compensation payment made by him was calculated under section 8,
+
+then the compensation payment shall be recalculated under section 8, and the compensator shall pay the amount of the increase (if any) to the person to whom the compensation payment was made.
+
+(5) Where both the earlier payment and the later payment are made by the same compensator, he may—
+
+- (a) aggregate the gross amounts of the payments made by him;
+- (b) calculate what would have been the reduction made under section 8(3) if that aggregate amount had been paid at the date of the last payment on the basis that—
+  - (i) so much of the aggregate amount as is attributable to a head of compensation listed in column (1) of Schedule 2 shall be taken to be the part of the gross amount which is attributable to that head, and
+  - (ii) the amount of any recoverable benefits shown against any head in column (2) of that Schedule shall be taken to be the amount determined in accordance with the most recent certificate of recoverable benefits;
+- (c) deduct from that reduction calculated under sub-paragraph (b) the amount of the reduction under section 8(3) from any earlier payment; and
+- (d) deduct from the latest gross payment the net reduction calculated under sub-paragraph (c) (and accordingly the latest payment may be nil).
+
+(6) Where the Secretary of State is making a refund under paragraph (3), he shall send to the compensator (with the refund) and to the person to whom the compensation payment was made a statement showing—
+
+- (a) the total amount that has already been paid by that compensator to the Secretary of State;
+- (b) the amount that ought to have been paid by that compensator; and
+- (c) the amount to be repaid to that compensator by the Secretary of State.
+
+(7) Where the reduction of a compensation payment is recalculated by virtue of paragraph (4) or (5) the compensator shall give notice of the calculation to the injured person.
+
+## 10. Structured settlements
+
+(1) This regulation applies where—
+
+- (a) in final settlement of an injured person’s claim, an agreement is entered into—
+  - (i) for the making of periodical payments (whether of an income or capital nature); or
+  - (ii) for the making of such payments and lump sum payments; and
+- (b) apart from the provisions of this regulation, those payments would fall to be treated for the purposes of the 1997 Act as compensation payments.
+
+(2) Where this regulation applies, the provisions of the 1997 Act and these Regulations shall be modified in the following way—
+
+- (a) the compensator in question shall be taken to have made on that day a single compensation payment;
+- (b) the relevant period in the case of the compensator in question shall be taken to end (if it has not done so already) on the day of settlement;
+- (c) payments under the agreement referred to in paragraph (1)(a) shall be taken not to be compensation payments;
+- (d) paragraphs (5) and (7) of regulation 11 shall not apply.
+
+(3) Where any further payment falls to be made to or in respect of the injured person otherwise than under the agreement in question, paragraph (2) shall be disregarded for the purpose of determining the end of the relevant period in relation to that further payment.
+
+(4) In any case where—
+
+- (a) the person making the periodical payments (“the secondary party") does so in pursuance of arrangements entered into with another (“the primary party") (as in a case where the primary party purchases an annuity for the injured person from the secondary party), and
+- (b) apart from those arrangements, the primary party would have been regarded as the compensator,
+
+then for the purposes of the 1997 Act, the primary party shall be regarded as the compensator and the secondary party shall not be so regarded.
+
+(5) In this regulation “the day of settlement" means—
+
+- (a) if the agreement referred to in paragraph (1)(a) is approved by a court, the day on which that approval is given; and
+- (b) in any other case, the day on which the agreement is entered into.
+
+## 11. Adjustments
+
+(1) Where the conditions specified in subsection (1) and paragraphs (a) and (b) of subsection (2) of section 14 are satisfied, the Secretary of State shall pay the difference between the amount that has been paid and the amount that ought to have been paid to the compensator.
+
+(2) Where the conditions specified in subsection (1) and paragraphs (a) and (b) of subsection (3) of section 14 are satisfied, the compensator shall pay the difference between the total amounts paid and the amount that ought to have been paid to the Secretary of State.
+
+(3) Where the Secretary of State is making a refund under paragraph (1), or demanding payment of a further amount under paragraph (2), he shall send to the compensator (with the refund or demand) and to the person to whom the compensation payment was made a statement showing—
+
+- (a) the total amount that has already been paid to the Secretary of State;
+- (b) the amount that ought to have been paid; and
+- (c) the difference, and whether a repayment by the Secretary of State or a further payment to him is required.
+
+(4) This paragraph applies where—
+
+- (a) the amount of the compensation payment made by the compensator was calculated under section 8; and
+- (b) the Secretary of State has made a payment under paragraph (1).
+
+(5) Where paragraph (4) applies, the amount of the compensation payment shall be recalculated under section 8 to take account of the fresh certificate of recoverable benefits and the compensator shall pay the amount of the increase (if any) to the person to whom the compensation payment was made.
+
+(6) This paragraph applies where—
+
+- (a) the amount of the compensation payment made by the compensator was calculated under section 8;
+- (b) the compensator has made a payment under paragraph (2); and
+- (c) the fresh certificate of recoverable benefits issued after the review or appeal was required as a result of the injured person or other person to whom the compensation payment was made supplying to the compensator information knowing it to be incorrect or insufficient with the intent of enhancing the compensation payment calculated under section 8, and the compensator supplying that information to the Secretary of State without knowing it to be incorrect or insufficient.
+
+(7) Where paragraph (6) applies, the compensator may recalculate the compensation payment under section 8 to take account of the fresh certificate of recoverable benefits and may require the repayment to him by the person to whom he made the compensation payment of the difference (if any) between the payment made and the payment as so recalculated.
+
+## 12. Transitional provisions
+
+(1) In relation to a compensation payment to which by virtue of section 2 the 1997 Act applies and subject to paragraph (2), a certificate of total benefit issued under Part IV of the 1992 Act shall be treated on or after the commencement date as a certificate of recoverable benefits issued under the 1997 Act and the amount of total benefit treated as that of recoverable benefits.
+
+(2) Paragraph (1) shall not apply to a certificate of total benefit which specifies an amount in respect of disability living allowance without specifying whether that amount was, or is likely to be, paid wholly by way of the care component or the mobility component or (if not wholly one of them) specifying the relevant amount for each component.
+
+(3)[^key-b21d299e1ae3b249348f8cdc04fac270] Any appeal under section 98 of the 1992 Act made on or after 6th October 1997 which has not been determined before 29th November 1999 shall be referred to an appeal tribunal constituted in accordance with paragraph (3I) below.
+
+(3A) Any appeal duly made before 6th October 1997 which has not been referred to a medical appeal tribunal or a social security appeal tribunal shall be referred to and determined by an appeal tribunal constituted in accordance with paragraph (3I) below.
+
+(3B) Any appeal duly made before 6th October 1997 and referred to a medical appeal tribunal shall be determined by an appeal tribunal constituted in accordance with paragraph (3I) below which shall determine all issues.
+
+(3C) Any appeal duly made before 6th October 1997 and referred to a social security appeal tribunal shall be determined by an appeal tribunal which shall consist of a legally qualified panel member and in making its determination, the appeal tribunal shall be bound by any decision of a medical appeal tribunal to which a question under section 98(5) of the 1992 Act was referred.
+
+(3D) An appeal tribunal constituted in accordance with paragraph (3I) below shall completely rehear any appeal made under section 98 of the 1992 Act which stands adjourned immediately before 29th November 1999.
+
+(3E) Where a Commissioner holds that the decision of a medical appeal tribunal or a social security appeal tribunal on an appeal made before 6th October 1997 was erroneous in law and refers the case to an appeal tribunal, that appeal tribunal shall be constituted in accordance with paragraph (3I) below and shall determine all issues in accordance with the Commissioner’s direction.
+
+(3F) Regulation 11 of the Social Security (Recoupment) Regulations 1990 (“the 1990 Regulations”) and regulation 12 of those Regulations shall have effect in relation to any appeal under section 98 of the 1992 Act made on or after 6th October 1997 with the modification that for the word “chairman” in each place in which it occurs there were substituted the words “legally qualified panel member”
+
+(3G) Regulation 13 of the 1990 Regulations shall have effect in relation to any appeal under section 98 of the 1992 Act made on or after 6th October 1997.
+
+(3H) Any other transitional question arising from an appeal made under section 98 of the 1992 Act in consequence of the coming into force of the Social Security and Child Support (Decisions and Appeals) Regulations 1999 (“the 1999 Regulations”) shall be determined by a legally qualified panel member who may for this purpose give such directions consistent with these regulations as are necessary.
+
+(3I) For the purposes of paragraphs (3) to (3B) and (3E) above an appeal tribunal shall be constituted under Chapter I of Part I of the Social Security Act 1998 as though the appeal were made under section 11(1)(b) of the 1997 Act.
+
+(3J) In this regulation, “legally qualified panel member” has the meaning it bears in regulation 1(3) of the 1999 Regulations.
+
+(4) Paragraph (5) applies where—
+
+- (a) an amount has been paid to the Secretary of State under section 82(1)(b) of the 1992 Act,
+- (b) liability arises on or after the commencement day to make a payment under section 6(1), and
+- (c) the compensation payments which give rise to the liability to make both payments are to or in respect of the same injured person in consequence of the same accident, injury or disease.
+
+(5) Where this paragraph applies, the liability under section 6 shall be reduced by the payment (or aggregate of the payments, if more than one) described in paragraph (4)(a).
+
+(6) Where–
+
+- (a) a payment into court has been made on a date prior to the commencement day but the initial period, as defined in section 93(6) of the 1992 Act, in relation to that payment, expires on or after the commencement day; and
+- (b) the payment into court is accepted by the other party to the action in the initial period,
+
+that payment into court shall be treated as a compensation payment to which the 1992 Act, and not the 1997 Act, applies.
+
+(7) Where a payment into court has been made prior to the commencement day, remains in court on that day and paragraph (6) does not apply, that payment into court shall be treated as a payment to which the 1997 Act applies, but paragraph (1) (b) and (c) of regulation 8 shall not apply.
+
+Signed by authority of the Secretary of State for Social Security.
+
+Patricia Hollis
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+(This note is not part of the Regulations)
+
+The Social Security (Recovery of Benefits) Act 1997 provides for a reformed scheme for the Secretary of State to recover amounts equal to certain social security benefits from persons making compensation payments to or in respect of persons who have suffered an accident, injury or disease.
+
+These Regulations make provision in connection with that scheme as follows:
+
+**a)** specified payments are exempted from being compensation payments under the Act (regulation 2);
+
+**b)** information requirements (regulations 3 to 6);
+
+**c)** applications for certificates of recoverable benefits (regulation 7);
+
+**d)** the application of the scheme to payments into court (regulation 8), multiple compensation payments (regulation 9), and structured settlements (regulation 10);
+
+**e)** adjustment following reviews and appeals (regulation 11);
+
+**f)** transitional provisions (regulation 12).
+
+The total costs to business of reform of the scheme are estimated to be between £54 million and £79 million. These costs were identified by means of a Compliance Cost Assessment (CCA) published in January 1996. Copies of the CCA are available from the Department of Social Security, Branch IMB3, 6th Floor, Adelphi, 1–11 John Adam Street, London WC2 6HT.
+
+## Annotations
+
+[^c1675378]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5); [section 189(4)](https://www.legislation.gov.uk/uksi/1997/2205/section/189/4), (5) and (6) is applied by section 30(4) of the Social Security (Recovery of Benefits) Act 1997.
+
+[^c1675379]: Marginal citation: [1997 c.27](https://www.legislation.gov.uk/ukpga/1997/27). Section 29 is cited for the definitions of “prescribed" and “regulations".
+
+[^key-28611e9eedbd0ed8f88dfef5eedf3bee]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2205/regulation/1/2) substituted (29.6.2023) by [The Social Security and Universal Credit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/543)](https://www.legislation.gov.uk/uksi/2023/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/543/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/543/regulation/2)
+
+[^key-4a0b70d7184ba960b18c1a28e0a4dc6f]: Textual amendment: Reg. 2(1)(e) - Reg. 2(1)(f) added (12.4.2001) by [The Social Security Amendment (Capital Disregards and Recovery of Benefits) Regulations 2001 (S.I. 2001/1118)](https://www.legislation.gov.uk/uksi/2001/1118), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1118/regulation/1), [4](https://www.legislation.gov.uk/uksi/2001/1118/regulation/4)
+
+[^key-1100312c2596781f0046df5463909e74]: Textual amendment: Reg. 2(1)(g) - Reg. 2(1)(h) inserted (12.3.2007) by [Social Security (Recovery of Benefits) (Amendment) Regulations 2007 (S.I. 2007/357)](https://www.legislation.gov.uk/uksi/2007/357), [regs. 1](https://www.legislation.gov.uk/uksi/2007/357/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/357/regulation/2/2)
+
+[^c1675380]: Marginal citation: [1976 c.30](https://www.legislation.gov.uk/ukpga/1976/30).
+
+[^c1675381]: Marginal citation: [1976 c.13](https://www.legislation.gov.uk/ukpga/1976/13).
+
+[^c1675382]: Marginal citation: [1979 c.17](https://www.legislation.gov.uk/ukpga/1979/17).
+
+[^c1675383]: Marginal citation: [1995 c.53](https://www.legislation.gov.uk/ukpga/1995/53).
+
+[^c1675384]: Marginal citation: [S.I. 1995/866](https://www.legislation.gov.uk/uksi/1995/866).
+
+[^c1675385]: Marginal citation: [S.I. 1974/1838](https://www.legislation.gov.uk/uksi/1974/1838).
+
+[^key-b1f3edbff52a9569dbdecda4ae37d832]: Textual amendment: Words in reg. 2(2)(i) substituted (12.5.2004) by [Social Security (Miscellaneous Amendments) (No.2) Regulations 2004 (S.I. 2004/1141)](https://www.legislation.gov.uk/uksi/2004/1141), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1141/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2004/1141/regulation/7/a)
+
+[^key-1e0cebda198b47507ba835fda22a12f9]: Textual amendment: Reg. 2(2)(j) inserted (12.5.2004) by [Social Security (Miscellaneous Amendments) (No.2) Regulations 2004 (S.I. 2004/1141)](https://www.legislation.gov.uk/uksi/2004/1141), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1141/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2004/1141/regulation/7/b)
+
+[^key-7c397dfda2ca639608d785ac0a794e51]: Textual amendment: Reg. 2(2)(k) added (12.12.2005) by [Income-related Benefits (Amendment) (No.2) Regulations 2005 (S.I. 2005/3391)](https://www.legislation.gov.uk/uksi/2005/3391), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3391/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2005/3391/regulation/6/2)
+
+[^key-6d159cae0e33c2ac305708132588606c]: Textual amendment: Reg. 2(2)(l) added (6.4.2010) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2010 (S.I. 2010/641)](https://www.legislation.gov.uk/uksi/2010/641), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/641/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2010/641/regulation/5)
+
+[^key-754fac2a519097ff0cf1697aaaad2b9e]: Textual amendment: Reg. 2(2)(m) added (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2011/2425/regulation/11)
+
+[^key-e4576dc66d2553ca0155bb047dc4dd8a]: Textual amendment: Reg. 2(2)(n) added (3.4.2017) by [The Social Security (Scottish Infected Blood Support Scheme) Regulations 2017 (S.I. 2017/329)](https://www.legislation.gov.uk/uksi/2017/329), [regs. 1](https://www.legislation.gov.uk/uksi/2017/329/regulation/1), [2](https://www.legislation.gov.uk/uksi/2017/329/regulation/2)
+
+[^key-272516cd7e06ef713f1b84ef1d84106b]: Textual amendment: Reg. 2(2)(o)(p) added (23.10.2017) by [The Social Security (Infected Blood and Thalidomide) Regulations 2017 (S.I. 2017/870)](https://www.legislation.gov.uk/uksi/2017/870), [regs. 1](https://www.legislation.gov.uk/uksi/2017/870/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/870/regulation/4)
+
+[^key-7c9597473c9e2dba78c506d1b52bb259]: Textual amendment: [Reg. 2(2)(q)](https://www.legislation.gov.uk/uksi/1997/2205/regulation/2/2/q) inserted (29.5.2020) by [The Victims Payments Regulations 2020 (S.I. 2020/103)](https://www.legislation.gov.uk/uksi/2020/103), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/103/regulation/1/3), [27(1)](https://www.legislation.gov.uk/uksi/2020/103/regulation/27/1)
+
+[^key-2176ea4cca2a0a45b90bf60ae0fc3776]: Textual amendment: [Reg. 2(2)(r)](https://www.legislation.gov.uk/uksi/1997/2205/regulation/2/2/r) inserted (1.1.2022) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2021 (S.I. 2021/1405)](https://www.legislation.gov.uk/uksi/2021/1405), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1405/regulation/1), [9](https://www.legislation.gov.uk/uksi/2021/1405/regulation/9)
+
+[^key-a97250ac87533d9d9d90214850b405c8]: Textual amendment: [Reg. 2(2)(s)](https://www.legislation.gov.uk/uksi/1997/2205/regulation/2/2/s)[(t)](https://www.legislation.gov.uk/uksi/1997/2205/regulation/2/2/t) inserted (9.7.2023) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2023 (S.I. 2023/640)](https://www.legislation.gov.uk/uksi/2023/640), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/640/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2023/640/regulation/9/a)
+
+[^key-16c21a6cbfbd92342dc7b63dbc0577f1]: Textual amendment: [Reg. 2(2)(u)](https://www.legislation.gov.uk/uksi/1997/2205/regulation/2/2/u) inserted (28.2.2025) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2025 (S.I. 2025/44)](https://www.legislation.gov.uk/uksi/2025/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/44/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2025/44/regulation/4/2)
+
+[^key-5e8e8a98329b46736d42d6814e8eae04]: Textual amendment: [Reg. 2(2)(v)](https://www.legislation.gov.uk/uksi/1997/2205/regulation/2/2/v) inserted (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2026/1063/regulation/2)
+
+[^key-b9ffd7a4dadbf8756d137fecbe6ac18e]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/1997/2205/regulation/2/3) inserted (9.7.2023) by [The Social Security (Income and Capital Disregards) (Amendment) Regulations 2023 (S.I. 2023/640)](https://www.legislation.gov.uk/uksi/2023/640), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/640/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2023/640/regulation/9/b)
+
+[^c1675386]: Marginal citation: The term “the relevant period" is defined in section 3 of the 1997 Act.
+
+[^key-b21d299e1ae3b249348f8cdc04fac270]: Textual amendment: Reg. 12(3) - Reg. 12(3J) substituted for reg. 12(3) (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 1](https://www.legislation.gov.uk/uksi/1999/3178/regulation/1), [Sch. 17](https://www.legislation.gov.uk/uksi/1999/3178/schedule/17)

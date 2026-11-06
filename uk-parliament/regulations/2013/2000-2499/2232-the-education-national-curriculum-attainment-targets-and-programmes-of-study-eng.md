@@ -1,0 +1,267 @@
+---
+title: The Education (National Curriculum)(Attainment Targets and Programmes of Study)(England) Order 2013
+id: uksi/2013/2232
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-09-05'
+text_date: '2024-06-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/2232
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/2232/pdfs/uksiem_20132232_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2232/pdfs/uksi_20132232_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2232/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (National Curriculum)(Attainment Targets and Programmes of Study)(England) Order 2013
+
+> Text as at 2024-06-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 2232
+
+Education, England
+
+The Education (National Curriculum)(Attainment Targets and Programmes of Study)(England) Order 2013
+
+Made
+
+5th September 2013
+
+Laid before Parliament
+
+11th September 2013
+
+Coming into force
+
+1st September 2014
+
+This Order is made in exercise of the powers conferred by sections 87(3)(a) and (b) and (5) and 210(7) of the Education Act 2002[^f00001].
+
+In accordance with sections 96(2), (3) and (4) of that Act, the Secretary of State for Education gave notice of the proposal to the bodies and persons mentioned in those subsections and gave them a reasonable opportunity of submitting evidence and representations as to the issues arising.
+
+In accordance with section 96(5), the Secretary of State published a draft of the proposed order and the associated documents, and a summary of the views expressed.
+
+In accordance with section 96(6), the Secretary of State allowed a period of not less than one month beginning with the publication of the draft of the proposed order for the submission of further evidence and representations as to the issues arising.
+
+The Secretary of State now makes the following Order:
+
+## 1. Citation, commencement and application[^key-0e6bb3e68f0eb1fd3f347983a5da206a]
+
+(1) This Order may be cited as the Education (National Curriculum)(Attainment Targets and Programmes of Study)(England) Order 2013 and comes into force on 1st September 2014.
+
+(2) This Order applies in relation to England only.
+
+## 2. Interpretation[^key-cd70d6e786df5d6a68ecb493d9e74b71]
+
+In this Order—
+
+- (aa)[^key-1e17987792f784f8e2e6648c187531c2] “the engagement model” means the document published by the Department for Education on 15th April 2024[^key-362ebcb8ccee277da73294ec85dbb2d5] entitled “The engagement model”;
+- (a) “the Framework Document” means the Document published by the Department for Education on 2nd December 2014[^key-fdfde7bf56254b2241ff528fa067780f] entitled “The National Curriculum in England – Framework Document”; and
+- (b)[^key-2048005c39d149dadc04b3942a37a279] “NC standards of attainment” means the National Curriculum standards of attainment described in any document (other than the pre-key stage standards document for key stage 1, the pre-key stage standards document for key stage 2 and the engagement model) published by the Department for Education pursuant to an order made under section 87(3)(a) or (b) of the Education Act 2002 for the foundation subjects, setting out any attainment targets and programmes of study for each of those subjects;
+- (c) “the pre-key stage standards for key stage 1” means the standards set out in the document published by the Department for Education on 15th April 2024[^key-20d10ba272925ef00f6b68c0a2f62f5b] entitled “Pre-key stage 1: pupils working below the national curriculum assessment standard”;
+- (d) “the pre-key stage standards for key stage 2” means the standards set out in the document published by the Department for Education on 23rd July 2020 entitled “Pre-key stage 2: pupils working below the national curriculum assessment standard”;
+- (e) “the relevant key stage” means—
+  - (i) the first key stage, where section 82(1)(a) of the Education Act 2002 applies to a pupil;
+  - (ii) the second key stage, where section 82(1)(b) of the Education Act 2002 applies to a pupil;
+- (f) “special educational needs” is to be interpreted in accordance with section 20(1) of the Children and Families Act 2014.
+
+## 3. Specification of attainment targets and programmes of study[^key-7b4cb8ac8fdf529d616f949d2c23ad04]
+
+(1) Subject to articles 5 and 6, in relation to any pupil who is in the first key stage[^f00003] on or after 1st August 2014, it is directed that the provisions relating to attainment targets and programmes of study[^f00004] set out in the Framework Document have effect for the purposes of specifying attainment targets and the programme of study for the first key stage in relation to English, mathematics, science, art and design, computing, design and technology, geography, history, music and physical education.
+
+(2) Subject to articles 5 and 6, in relation to any pupil who is in the second key stage on or after 1st August 2014, it is directed that the provisions relating to attainment targets and programmes of study set out in the Framework Document have effect for the purposes of specifying attainment targets and the programme of study for the second key stage in relation to English, mathematics, science, art and design, computing, design and technology, a foreign language, geography, history, music and physical education.
+
+(3) [^key-6bf551763573236d3b63c208f85ced8e]... In relation to any pupil who is in the third key stage on or after 1st August 2014, it is directed that the provisions relating to attainment targets and programmes of study set out in the Framework Document have effect for the purposes of specifying attainment targets and the programme of study for the third key stage in relation to English, mathematics, science, art and design, citizenship, computing, design and technology, geography, history, a modern foreign language, music and physical education.
+
+(4) In relation to any pupil who is in the fourth key stage on or after 1st August 2014, it is directed that the provisions relating to programmes of study set out in the Framework Document have effect for the purposes of specifying the programme of study for the fourth key stage in relation to citizenship, computing and physical education.
+
+(5)[^key-6fbd2c93d06c5cf699f784b986cf12dd] In relation to any pupil who is in the first year of the fourth key stage on or after 1st August 2015 but before 1st August 2016, it is directed that the provisions relating to programmes of study set out in the Framework Document have effect for the purposes of specifying the programme of study for the fourth key stage in relation to English and mathematics.
+
+(6) In relation to any pupil who is in the fourth key stage on or after 1st August 2016, it is directed that the provisions relating to programmes of study set out in the Framework Document have effect for the purposes of specifying the programme of study for the fourth key stage in relation to English and mathematics.
+
+(7)[^key-555b0afcf87ab0d21c25bf15957e12e0] In relation to a pupil in the first year of the fourth key stage on or after 1st August 2016 but before 1st August 2017, it is directed that the provisions relating to programmes of study set out in the Framework Document have effect for the purposes of specifying the programme of study for the fourth key stage in relation to science.
+
+(8) In relation to a pupil in the fourth key stage on or after 1st August 2017, it is directed that the provisions relating to programmes of study set out in the Framework Document have effect for the purposes of specifying the programme of study for the fourth key stage in relation to science.
+
+**4.**[^key-3c812a5056488dc8c7cb2a1ebd6102f3] For the purposes of this Order, the examples and other passages printed within square brackets or indicated as being “non-statutory” in the Framework Document (which serve to illustrate the programmes of study described or relate to background information) do not form part of the provisions relating to attainment targets and the programmes of study referred to in article 3.
+
+**5.**[^key-e421984db6b16e200e82fae8db6c72fd] (1) In relation to any pupil who—
+
+- (a) is in the first key stage;
+- (b) has special educational needs;
+- (c) is working at a standard below the NC standards of attainment for the first key stage; and
+- (d) is engaged in the study of English reading, English writing or mathematics,
+
+the pre-key stage standards for key stage 1 must be used for the purposes of specifying the attainment targets of that pupil in each subject referred to in sub-paragraph (d) that that pupil is studying.
+
+(2) In relation to any pupil who—
+
+- (a) is in the second key stage;
+- (b) has special educational needs;
+- (c) is working at a standard below the NC standards of attainment for the second key stage; and
+- (d) is engaged in the study of English reading, English writing or mathematics,
+
+the pre-key stage standards for key stage 2 must be used for the purposes of specifying the attainment targets of that pupil in each subject referred to in sub-paragraph (d) that that pupil is studying.
+
+(3) In relation to any pupil who—
+
+- (a) is in the first or second key stage;
+- (b) has special educational needs;
+- (c) during the relevant key stage, is working at a standard below the NC standards of attainment for the relevant key stage; and
+- (d) is not engaged in the study of English reading, English writing or mathematics,
+
+the engagement model must be used for the purposes of specifying the attainment targets by way of specifying the achievements and progress of that pupil in the areas of engagement identified in the engagement model.
+
+(4) In relation to any pupil—
+
+- (a) who is in the first key stage; and
+- (b) to whom paragraph (1) or (3) applies,
+
+there is no requirement to specify attainment targets in relation to science, art and design, computing, design and technology, geography, history, music and physical education.
+
+(5) In relation to any pupil—
+
+- (a) who is in the second key stage; and
+- (b) to whom paragraph (2) or (3) applies,
+
+there is no requirement to specify attainment targets in relation to science, art and design, computing, design and technology, a foreign language, geography, history, music and physical education.
+
+## 6. Revocation and savings[^key-aaa5770829c0b515300340443d5cf85d]
+
+(1) Subject to paragraphs (2) and (3), the instruments set out in column 1 of the Schedule are revoked.
+
+(2) The Education (National Curriculum)(Attainment Targets and Programmes of Study in English)(England) Order 2000[^f00006], the Education (National Curriculum)(Attainment Targets and Programmes of Study in Mathematics)(England) Order 2000[^f00007] and the Education (National Curriculum)(Attainment Targets and Programmes of Study in Science in respect of the First, Second, Third and Fourth Key Stages)(England)(No 2) Order 2004[^f00008] continue to have effect in relation to any pupil who—
+
+- (a) is in the final year of the first key stage before 1st August 2015 for the purposes of specifying the attainment targets and programmes of study for the first key stage in relation to English, mathematics and science;
+- (b) is in the final year of the second key stage before 1st August 2015 for the purposes of specifying the attainment targets and programmes of study for the second key stage in relation to English, mathematics and science; [^key-e52d09782124039a579909c0153c3eb2]...
+- (c) is in the fourth key stage before 1st August 2016[^key-021182042b6de9e1ba7912c0565e4cae] for the purposes of specifying the programmes of study for the fourth key stage in relation to science ; or[^key-c1463ada5f21d152f65181fb0d6f3bf0]
+- (d) is in the final year of the fourth key stage on or after 1st August 2016 but before 1st August 2017 for the purposes of specifying the programme of study for the fourth key stage in relation to science.
+
+(3)[^key-61ce836f4a1817581e892ee293d54f34] The Education (National Curriculum)(Attainment Targets and Programmes of Study in English in respect of the Third and Fourth Key Stages)(England) Order 2008 and the Education (National Curriculum)(Attainment Targets and Programmes of Study in Mathematics in respect of the Third and Fourth Key Stages)(England) Order 2008 continue to have effect in relation to any pupil who—
+
+- (a) is in the fourth key stage before 1st August 2015 for the purposes of specifying the programme of study for the fourth key stage in relation to English and mathematics; or
+- (b) is in the final year of the fourth key stage on or after 1st August 2015 but before 1st August 2016 for the purposes of specifying the programme of study for the fourth key stage in relation to English and mathematics.
+
+Elizabeth Truss
+
+Parliamentary Under Secretary of State
+
+Department for Education
+
+5th September 2013
+
+## SCHEDULE — INSTRUMENTS REVOKED[^key-1056fa41810ce68fda3f869f913b0b74]
+
+Article 6
+
+| *Column 1*<br>*Instruments revoked* | *Column 2*<br>*References* |
+| --- | --- |
+| Education (National Curriculum)(Attainment Targets and Programmes of Study in Music)(England) Order 2000 | [SI 2000/1597](https://www.legislation.gov.uk/uksi/2000/1597) |
+| Education (National Curriculum)(Attainment Targets and Programmes of Study in Mathematics)(England) Order 2000 | [SI 2000/1598](https://www.legislation.gov.uk/uksi/2000/1598) |
+| Education (National Curriculum)(Attainment Targets and Programmes of Study in Information and Communication Technology)(England) Order 2000 | [SI 2000/1601](https://www.legislation.gov.uk/uksi/2000/1601) |
+| Education (National Curriculum)(Attainment Targets and Programmes of Study in Art and Design)(England) Order 2000 | [SI 2000/1602](https://www.legislation.gov.uk/uksi/2000/1602) |
+| Education (National Curriculum)(Attainment Targets and Programmes of Study in English)(England) Order 2000 | [SI 2000/1604](https://www.legislation.gov.uk/uksi/2000/1604) |
+| Education (National Curriculum)(Attainment Targets and Programmes of Study in Geography)(England) Order 2000 | [SI 2000/1605](https://www.legislation.gov.uk/uksi/2000/1605) |
+| Education (National Curriculum)(Attainment Targets and Programmes of Study in History)(England) Order 2000 | [SI 2000/1606](https://www.legislation.gov.uk/uksi/2000/1606) |
+| Education (National Curriculum)(Attainment Targets and Programmes of Study in Physical Education)(England) Order 2000 | [SI 2000/1607](https://www.legislation.gov.uk/uksi/2000/1607) |
+| Education (National Curriculum)(Attainment Targets and Programmes of Study in Design and Technology in respect of the First, Second and Third Key Stages)(England) (No 2) Order 2004 | [SI 2004/1794](https://www.legislation.gov.uk/uksi/2004/1794) |
+| Education (National Curriculum)(Attainment Targets and Programmes of Study in Science in respect of the First, Second, Third and Fourth Key Stages)(England)(No 2) Order 2004 | [SI 2004/1800](https://www.legislation.gov.uk/uksi/2004/1800) |
+| Education (National Curriculum)(Attainment Targets and Programme of Study in Art and Design in respect of the Third Key Stage)(England) Order 2008 | [SI 2008/1752](https://www.legislation.gov.uk/uksi/2008/1752) |
+| Education (National Curriculum)(Attainment Targets and Programmes of Study in Citizenship in respect of the Third and Fourth Key Stages)(England) Order 2008 | [SI 2008/1753](https://www.legislation.gov.uk/uksi/2008/1753) |
+| Education (National Curriculum)(Attainment Targets and Programme of Study in Design and Technology in respect of the Third Key Stage)(England) Order 2008 | [SI 2008/1754](https://www.legislation.gov.uk/uksi/2008/1754) |
+| Education (National Curriculum)(Attainment Targets and Programmes of Study in English in respect of the Third and Fourth Key Stages)(England) Order 2008 | [SI 2008/1755](https://www.legislation.gov.uk/uksi/2008/1755) |
+| Education (National Curriculum)(Attainment Targets and Programme of Study in Geography in respect of the Third Key Stage)(England) Order 2008 | [SI 2008/1756](https://www.legislation.gov.uk/uksi/2008/1756) |
+| Education (National Curriculum)(Attainment Targets and Programme of Study in History in respect of the Third Key Stage)(England) Order 2008 | [SI 2008/1757](https://www.legislation.gov.uk/uksi/2008/1757) |
+| Education (National Curriculum)(Attainment Targets and Programmes of Study in Information and Communication Technology in respect of the Third and Fourth Key Stages)(England) Order 2008 | [SI 2008/1758](https://www.legislation.gov.uk/uksi/2008/1758) |
+| Education (National Curriculum)(Attainment Targets and Programmes of Study in Mathematics in respect of the Third and Fourth Key Stages)(England) Order 2008 | [SI 2008/1759](https://www.legislation.gov.uk/uksi/2008/1759) |
+| Education (National Curriculum)(Attainment Targets and Programme of Study in Modern Foreign Languages in respect of the Third Key Stage)(England) Order 2008 | [SI 2008/1760](https://www.legislation.gov.uk/uksi/2008/1760) |
+| Education (National Curriculum)(Attainment Targets and Programme of Study in Music in respect of the Third Key Stage)(England) Order 2008 | [SI 2008/1761](https://www.legislation.gov.uk/uksi/2008/1761) |
+| Education (National Curriculum)(Attainment Targets and Programmes of Study in Physical Education in respect of the Third and Fourth Key Stages)(England) Order 2008 | [SI 2008/1762](https://www.legislation.gov.uk/uksi/2008/1762) |
+| Education (National Curriculum)(Attainment Targets and Programme of Study in Science in respect of the Third Key Stage)(England) Order 2008 | [SI 2008/1763](https://www.legislation.gov.uk/uksi/2008/1763) |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision for a new National Curriculum from 2014 by giving effect to the Framework Document, which contains new programmes of study and attainment targets for core and other foundation subjects at all four key stages (except that there are no attainment targets at key stage 4).
+
+It also provides for the revocation of those Orders (listed in the Schedule) which contain the current programmes of study and attainment targets for each core and other foundation subject at all four key stages.
+
+The exceptions to the revocation are in respect of the core subjects (mathematics, English and science) for pupils who are in the final year of the first key stage, the final year of the second key stage or the fourth key stage before 1st August 2015, to whom the Framework Document does not apply.
+
+The attainment targets in the P Level Document (instead of the Framework Document) apply to a pupil with special educational needs who is doing a core or other foundation subject in the first, second or third key stage on or after 1st August 2014 and during the relevant key stage is working at a level described within the P Level Document.
+
+A copy of the Framework Document can be accessed at this weblink:
+
+www.gov.uk/dfe/nationalcurriculum
+
+A printed copy of the Framework Document can also be inspected at the Department for Education, Sanctuary Buildings, Great Smith Street, London SW1P 3BT, on request.
+
+A copy of the P Level Document can be accessed at this weblink:
+
+http://education.gov.uk/schools/teachingandlearning/curriculum/g00227592/p-scale
+
+A printed copy of the P Level Document can also be inspected at the Department for Education, Sanctuary Buildings, Great Smith Street, London SW1P 3BT, on request.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). Section 87(5) was amended by sections 48, 103(2), paragraph 10(1) and (5) of Schedule 1 and Part 1 of Schedule 3 to the Childcare Act [2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), and by sections 174, 192 and paragraphs 31, 35(1) and (2) of Schedule 12 to the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22).
+
+[^key-0e6bb3e68f0eb1fd3f347983a5da206a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2232/article/1) in force at 1.9.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2232/article/1/1)
+
+[^key-cd70d6e786df5d6a68ecb493d9e74b71]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2232/article/2) in force at 1.9.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2232/article/1/1)
+
+[^key-1e17987792f784f8e2e6648c187531c2]: Textual amendment: [Art. 2(aa)](https://www.legislation.gov.uk/uksi/2013/2232/article/2/aa) inserted (1.9.2021) by [The Education (National Curriculum Assessment Arrangements, Attainment Targets and Programmes of Study) and (Pupil Information and School Performance Information) (Amendment) (England) Regulations 2020 (S.I. 2020/844)](https://www.legislation.gov.uk/uksi/2020/844), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/844/regulation/1/3), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/844/regulation/7/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2020/844/schedule)
+
+[^key-362ebcb8ccee277da73294ec85dbb2d5]: Textual amendment: Words in [art. 2(aa)](https://www.legislation.gov.uk/uksi/2013/2232/article/2/aa) substituted (1.6.2024) by [The Education (Pupil Information, School Performance Information and National Curriculum Attainment Targets and Programmes of Study) (England) (Amendment) Regulations 2024 (S.I. 2024/577)](https://www.legislation.gov.uk/uksi/2024/577), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/577/regulation/1/2), [4(2)(i)](https://www.legislation.gov.uk/uksi/2024/577/regulation/4/2/i)
+
+[^key-fdfde7bf56254b2241ff528fa067780f]: Textual amendment: Words in [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2232/article/2/a) substituted (1.8.2016) by [The Education (National Curriculum) (Attainment Targets and Programmes of Study) (England) (Amendment) (No. 3) Order 2014 (S.I. 2014/3285)](https://www.legislation.gov.uk/uksi/2014/3285), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3285/article/1/2), [3](https://www.legislation.gov.uk/uksi/2014/3285/article/3)
+
+[^key-2048005c39d149dadc04b3942a37a279]: Textual amendment: [Art. 2(b)-(f)](https://www.legislation.gov.uk/uksi/2013/2232/article/2/b/f) substituted for [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2232/article/2/b) (1.9.2020 for specified purposes, 1.9.2021 in so far as not already in force) by [The Education (National Curriculum Assessment Arrangements, Attainment Targets and Programmes of Study) and (Pupil Information and School Performance Information) (Amendment) (England) Regulations 2020 (S.I. 2020/844)](https://www.legislation.gov.uk/uksi/2020/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/844/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/844/regulation/1/3), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/844/regulation/7/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2020/844/schedule)
+
+[^key-20d10ba272925ef00f6b68c0a2f62f5b]: Textual amendment: Words in [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2232/article/2/c) substituted (1.6.2024) by [The Education (Pupil Information, School Performance Information and National Curriculum Attainment Targets and Programmes of Study) (England) (Amendment) Regulations 2024 (S.I. 2024/577)](https://www.legislation.gov.uk/uksi/2024/577), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/577/regulation/1/2), [4(2)(ii)](https://www.legislation.gov.uk/uksi/2024/577/regulation/4/2/ii)
+
+[^key-7b4cb8ac8fdf529d616f949d2c23ad04]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2232/article/3) in force at 1.9.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2232/article/1/1)
+
+[^f00003]: Footnote: “Key stage” is defined in section 76 of the Education Act 2002.
+
+[^f00004]: Footnote: “Attainment targets” and “programmes of study” are defined in section 76 of the Education Act 2002.
+
+[^key-6bf551763573236d3b63c208f85ced8e]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2013/2232/article/3/3) omitted (1.9.2020) by virtue of [The Education (National Curriculum Assessment Arrangements, Attainment Targets and Programmes of Study) and (Pupil Information and School Performance Information) (Amendment) (England) Regulations 2020 (S.I. 2020/844)](https://www.legislation.gov.uk/uksi/2020/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/844/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/844/regulation/7/3)
+
+[^key-6fbd2c93d06c5cf699f784b986cf12dd]: Textual amendment: [Art. 3(5)](https://www.legislation.gov.uk/uksi/2013/2232/article/3/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2232/article/3/6) inserted (1.9.2014) by [The Education (National Curriculum)(Attainment Targets and Programmes of Study)(England)(Amendment)(No. 2) Order 2014 (S.I. 2014/1941)](https://www.legislation.gov.uk/uksi/2014/1941), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1941/article/1/1), [4](https://www.legislation.gov.uk/uksi/2014/1941/article/4)
+
+[^key-555b0afcf87ab0d21c25bf15957e12e0]: Textual amendment: [Art. 3(7)](https://www.legislation.gov.uk/uksi/2013/2232/article/3/7)[(8)](https://www.legislation.gov.uk/uksi/2013/2232/article/3/8) inserted (1.9.2015) by [The Education (National Curriculum) (Attainment Targets and Programmes of Study) (England) (Amendment) (No. 3) Order 2014 (S.I. 2014/3285)](https://www.legislation.gov.uk/uksi/2014/3285), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3285/article/1/1), [4](https://www.legislation.gov.uk/uksi/2014/3285/article/4)
+
+[^key-3c812a5056488dc8c7cb2a1ebd6102f3]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2013/2232/article/4) in force at 1.9.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2232/article/1/1)
+
+[^key-e421984db6b16e200e82fae8db6c72fd]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2013/2232/article/5) substituted (1.9.2020 for specified purposes, 1.9.2021 in so far as not already in force) by [The Education (National Curriculum Assessment Arrangements, Attainment Targets and Programmes of Study) and (Pupil Information and School Performance Information) (Amendment) (England) Regulations 2020 (S.I. 2020/844)](https://www.legislation.gov.uk/uksi/2020/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/844/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/844/regulation/1/3), [7(4)](https://www.legislation.gov.uk/uksi/2020/844/regulation/7/4), [Sch.](https://www.legislation.gov.uk/uksi/2020/844/schedule)
+
+[^key-aaa5770829c0b515300340443d5cf85d]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2013/2232/article/6) in force at 1.9.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2232/article/1/1)
+
+[^f00006]: Footnote: [SI 2000/1604](https://www.legislation.gov.uk/uksi/2000/1604).
+
+[^f00007]: Footnote: [SI 2000/1598](https://www.legislation.gov.uk/uksi/2000/1598).
+
+[^f00008]: Footnote: [SI 2004/1800](https://www.legislation.gov.uk/uksi/2004/1800).
+
+[^key-e52d09782124039a579909c0153c3eb2]: Textual amendment: Word in [art. 6(2)(b)](https://www.legislation.gov.uk/uksi/2013/2232/article/6/2/b) omitted (1.9.2015) by virtue of [The Education (National Curriculum) (Attainment Targets and Programmes of Study) (England) (Amendment) (No. 3) Order 2014 (S.I. 2014/3285)](https://www.legislation.gov.uk/uksi/2014/3285), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3285/article/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/3285/article/5/a)
+
+[^key-021182042b6de9e1ba7912c0565e4cae]: Textual amendment: Words in [art. 6(2)(c)](https://www.legislation.gov.uk/uksi/2013/2232/article/6/2/c) substituted (1.9.2015) by [The Education (National Curriculum) (Attainment Targets and Programmes of Study) (England) (Amendment) (No. 3) Order 2014 (S.I. 2014/3285)](https://www.legislation.gov.uk/uksi/2014/3285), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3285/article/1/1), [5(b)(i)](https://www.legislation.gov.uk/uksi/2014/3285/article/5/b/i)
+
+[^key-c1463ada5f21d152f65181fb0d6f3bf0]: Textual amendment: [Art. 6(2)(d)](https://www.legislation.gov.uk/uksi/2013/2232/article/6/2/d) and word inserted (1.9.2015) by [The Education (National Curriculum) (Attainment Targets and Programmes of Study) (England) (Amendment) (No. 3) Order 2014 (S.I. 2014/3285)](https://www.legislation.gov.uk/uksi/2014/3285), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3285/article/1/1), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2014/3285/article/5/b/ii)
+
+[^key-61ce836f4a1817581e892ee293d54f34]: Textual amendment: [Art. 6(3)](https://www.legislation.gov.uk/uksi/2013/2232/article/6/3) substituted (1.9.2014) by [The Education (National Curriculum)(Attainment Targets and Programmes of Study)(England)(Amendment)(No. 2) Order 2014 (S.I. 2014/1941)](https://www.legislation.gov.uk/uksi/2014/1941), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1941/article/1/1), [6](https://www.legislation.gov.uk/uksi/2014/1941/article/6)
+
+[^key-1056fa41810ce68fda3f869f913b0b74]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2013/2232/schedule) in force at 1.9.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2232/article/1/1)

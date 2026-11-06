@@ -1,0 +1,35 @@
+---
+title: Merchant Shipping Act 1995, section 187
+act: Merchant Shipping Act 1995
+section: '187'
+status: revised-with-pending-changes
+text_date: '2026-06-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1995/21/section/187
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Merchant Shipping Act 1995, section 187
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2026-06-23. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/21
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 187. Damage or loss: apportionment of liability.
+
+*Extent: E+W+S+N.I.*
+
+(1) Where, by the fault of two or more ships, damage or loss is caused to one or more of those ships, to their cargoes or freight, or to any property on board, the liability to make good the damage or loss shall be in proportion to the degree in which each ship was in fault.
+
+(2) If, in any such case, having regard to all the circumstances, it is not possible to establish different degrees of fault, the liability shall be apportioned equally.
+
+(3) This section applies to persons other than the owners of a ship who are responsible for the fault of the ships, as well as to the owners of a ship and where, by virtue of any charter or demise, or for any other reason, the owners are not responsible for the navigation and management of the ship, this section applies to the charterers or other persons for the time being so responsible instead of the owners.
+
+(4) Nothing in this section shall operate so as to render any ship liable for any loss or damage to which the fault of the ship has not contributed.
+
+(5) Nothing in this section shall affect the liability of any person under a contract of carriage or any contract, or shall be construed as imposing any liability upon any person from which he is exempted by any contract or by any provision of law, or as affecting the right of any person to limit his liability in the manner provided by law.
+
+(6) In this section “**freight**” includes passage money and hire.
+
+(7) In this section references to damage or loss caused by the fault of a ship include references to any salvage or other expenses, consequent upon that fault, recoverable at law by way of damages.

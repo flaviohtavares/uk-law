@@ -1,0 +1,81 @@
+---
+title: Energy Act 2023, section 297
+act: Energy Act 2023
+section: '297'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/52/section/297
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2023, section 297
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 297. Habitats: reducing effects of offshore oil or gas activities etc[^key-1f54b8a13f7385edb5b0eb991859f7f8][^key-f778c5dae1f9298c21c6ee5b76389ab3]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State may, by regulations, make provision requiring the Secretary of State to take into account the implications for relevant sites when deciding whether, or how, to carry out a function (including a function under other regulations under this section) which relates to—
+
+- (a) offshore oil and gas activities, or
+- (b) offshore production or storage of gas.
+
+(2) The Secretary of State may, by regulations, make provision—
+
+- (a) prohibiting a specified description of activities from being carried out unless the consent of the Secretary of State has been obtained, and
+- (b) requiring a person who has obtained such a consent to carry out any activity to which the consent relates in accordance with the consent (and any conditions to which the consent is subject).
+
+(3) The Secretary of State may, by regulations, make provision preventing a specified description of licence from being granted unless the Secretary of State has or Scottish Ministers have—
+
+- (a) carried out a specified description of assessment, and
+- (b) confirmed that the outcome of that assessment does not prevent the licence from being granted.
+
+(4) The Secretary of State may, by regulations, make provision—
+
+- (a) authorising the Secretary of State to give a person directions to take steps, or to refrain from taking steps, and
+- (b) requiring a person given such a direction to comply with it.
+
+(5) The Secretary of State may make regulations under subsection (2), (3) or (4) only if the Secretary of State considers that the regulations would contribute to the protection of relevant sites from adverse effects of—
+
+- (a) offshore oil and gas activities, or
+- (b) offshore production or storage of gas.
+
+(6) For the purposes of regulations made under another provision of this section, “**relevant site**” has the meaning determined in accordance with the regulations; and those regulations—
+
+- (a) must be framed so that relevant sites consist of natural habitats or habitats of species;
+- (b) may, where they are framed by reference to provision made by other legislation, be framed so as to include natural habitats or habitats of species that are likely to fall within that provision of that other legislation.
+
+(7) Regulations under this section may—
+
+- (a) make provision about the meaning which any expression used in this section is to have for the purposes of regulations under this section;
+- (b) confer functions on any person (including a function of giving advice in relation to the application or exercise of any other function, whether exercisable by that or another person, under regulations under this section);
+- (c) provide for the modification or revocation of any consent given under regulations under subsection (2);
+- (d) provide for the charging of fees;
+- (e) authorise, or restrict or prohibit, the supply or keeping of information (including authorisation of the supply or keeping of information that would not otherwise be permitted);
+- (f) create criminal offences or impose civil penalties (but see subsection (8));
+- (g) make other provision for the purpose of securing compliance with requirements imposed by or under regulations under this section.
+
+(8) Regulations under this section may not provide—
+
+- (a) for a criminal offence to be punishable with imprisonment or, on summary conviction, to a fine exceeding the statutory maximum;
+- (b) for a civil penalty of a fixed amount to exceed £2,500 or of a variable amount to exceed £50,000.
+
+(9) Where regulations under this section provide for the imposition of a civil penalty, they must also include provision for a right of appeal against the imposition of the penalty.
+
+(10) Regulations under this section are subject to the affirmative procedure.
+
+(11) In this section—
+
+- “**licence**” means anything (however described) which permits a person to do something;
+- “**specified**” means specified in regulations under this section.
+
+## Annotations
+
+[^key-1f54b8a13f7385edb5b0eb991859f7f8]: Commencement: S. 297 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+
+[^key-f778c5dae1f9298c21c6ee5b76389ab3]: Commencement: [S. 297](https://www.legislation.gov.uk/ukpga/2023/52/section/297) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/i)

@@ -1,0 +1,237 @@
+---
+title: The Care and Support (Assessment) Regulations 2014
+id: uksi/2014/2827
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-10-06'
+text_date: '2023-11-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2014/2827
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/2827/pdfs/uksiem_20142827_en_002.pdf
+- http://www.legislation.gov.uk/uksi/2014/2827/pdfs/uksiem_20142827_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2014/2827/pdfs/uksiem_20142827_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2827/pdfs/uksi_20142827_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2827/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Care and Support (Assessment) Regulations 2014
+
+> Text as at 2023-11-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2014 No. 2827
+
+Social Care, England
+
+The Care and Support (Assessment) Regulations 2014
+
+Made
+
+6th October 2014
+
+Laid before Parliament
+
+27th October 2014
+
+Coming into force in accordance with regulation 1(1)
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 12(1) and (2), 65(1) and 125(7) and (8) of the Care Act 2014[^f00001].
+
+## 1. Citation, commencement and interpretation[^key-185b1d23cbb1ffaafb36757b63435567]
+
+(1) These Regulations may be cited as the Care and Support (Assessment) Regulations 2014 and come into force immediately after section 12(1) of the Care Act 2014 comes fully into force[^f00002].
+
+(2) In these Regulations—
+
+- “the Act” means the Care Act 2014;
+- “assessment” means—
+  - (a) a needs assessment[^f00003];
+  - (b) a child’s needs assessment[^f00004];
+  - (c) a carer’s assessment[^f00005];
+  - (d) a child’s carer’s assessment[^f00006];
+  - (e) a young carer’s assessment[^f00007];
+- “supported self-assessment” has the meaning given by regulation 2(1).
+
+## 2. Supported self-assessment[^key-d020009a12ef56acbdf919700bad77d1]
+
+(1) A supported self-assessment is an assessment carried out jointly by the local authority[^f00008] and the individual to whom it relates.
+
+(2) A local authority proposing to carry out an assessment must ascertain whether the individual to whom the assessment is to relate wishes the assessment to be a supported self-assessment.
+
+(3) A supported self-assessment must be carried out if the individual concerned is an adult and—
+
+- (a) wishes the assessment to be a supported self-assessment; and
+- (b) has the capacity[^f00009] to take part in a supported self-assessment.
+
+(4) A supported self-assessment may be carried out if the individual concerned is a child and—
+
+- (a) wishes the assessment to be a supported self-assessment;
+- (b) has the capacity, and is competent, to take part in a supported self-assessment; and
+- (c) the local authority believes it appropriate for a self-supported assessment to be carried out having regard to all the circumstances.
+
+(5) To facilitate the carrying out of the assessment a local authority must provide an individual taking part in a supported self-assessment with any relevant information it may have—
+
+- (a) about that individual; and
+- (b) providing the consent condition in paragraph (6) is met, in the case of—
+  - (i) a carer’s assessment, about the adult needing care[^f00010];
+  - (ii) a child’s carer’s assessment, about the child needing care;
+  - (iii) a young carer’s assessment, about the adult needing care, if the local authority believes it is appropriate for the young carer to have that information having regard to all the circumstances.
+
+(6) The consent condition referred to in paragraph (5)(b) is met if—
+
+- (a) the adult or child needing care has capacity or is competent to agree to the information in paragraph (5)(b) being provided and does so agree, or
+- (b) the adult or child needing care does not have capacity or is not competent so to agree but the local authority is satisfied that providing the information in paragraph (5)(b) would be in the best interests of the adult or child needing care.
+
+(7) The information must be provided in a format which is accessible to the individual to whom it is given.
+
+## 3. Assessment – general requirements[^key-2676d8fa34319fc0f64e18478dc0c337]
+
+(1) A local authority must carry out an assessment in a manner which—
+
+- (a) is appropriate and proportionate to the needs and circumstances of the individual to whom it relates; and
+- (b) ensures that the individual is able to participate in the process as effectively as possible.
+
+(2) In seeking to ensure that an assessment is carried out in an appropriate and proportionate manner, a local authority must have regard to—
+
+- (a) the wishes and preferences of the individual to whom it relates;
+- (b) the outcome the individual seeks from the assessment; and
+- (c) the severity and overall extent of the individual’s needs.
+
+(3) In a case where the level of the individual’s needs fluctuates, the local authority must take into account the individual’s circumstances over such period as it considers necessary to establish accurately the individual’s level of needs.
+
+(4) A local authority must give information about the assessment process—
+
+- (a) to the individual whose needs are being assessed; or
+- (b) in the case of a child’s needs assessment or a young carer’s assessment, if the child or young carer is not competent or lacks capacity to understand the assessment process, to all parents[^f00011] of that child or young carer.
+
+(5) The information must be provided prior to the assessment wherever practicable, and in a format which is accessible to the individual to whom it is given.
+
+## 4. Impact on the individual’s family etc[^key-5797e3ed6859ffe4862f5a59c5b1749a]
+
+(1) A local authority carrying out an assessment must consider the impact of the needs of the individual to whom the assessment relates on—
+
+- (a) any person who is involved in caring for the individual; and
+- (b) any person the local authority considers to be relevant.
+
+(2) Where a local authority considers that any person would benefit from the provision of information and advice relating to care and support for individuals or support for carers, it must advise that person how to obtain such information and advice.
+
+(3) If it appears to a local authority carrying out an assessment that a child is involved in providing care to any individual, the local authority must—
+
+- (a) consider the impact of the needs of the individual concerned on the child’s well-being, welfare, education and development; and
+- (b) identify whether any of the tasks which the child is performing for the individual are inappropriate for the child to perform having regard to all the circumstances.
+
+## 5. Training, expertise and consultation[^key-e589a4717a4cb6e4b8007137dd6aecf2]
+
+(1) A local authority must ensure that any person (other than in the case of a supported self-assessment, the individual to whom it relates) carrying out an assessment—
+
+- (a) has the skills, knowledge and competence to carry out the assessment in question; and
+- (b) is appropriately trained.
+
+(2) A local authority carrying out an assessment must consult a person who has expertise in relation to the condition or other circumstances of the individual whose needs are being assessed in any case where it considers that the needs of the individual concerned require it to do so.
+
+(3) Such consultation may take place before, or during, the carrying out of the assessment.
+
+## 6. Requirement for specialist expertise – deafblind individuals[^key-cd59f4e1cfbc0ca59820f4f84e613efe]
+
+(1) An assessment which relates to an individual who is deafblind must be carried out by a person who has specific training and expertise relating to individuals who are deafblind.
+
+(2) A local authority must facilitate the carrying out of the assessment by providing any person carrying out such an assessment with any relevant information which it may have—
+
+- (a) about the individual whose needs are being assessed; and
+- (b) in the case of—
+  - (i) a carer’s assessment, about the adult needing care;
+  - (ii) a child’s carer’s assessment, about the child needing care;
+  - (iii) a young carer’s assessment, about the adult needing care.
+
+(3) In this regulation, an individual is “deafblind” if the individual has combined sight and hearing impairment which causes difficulties with communication, access to information and mobility.
+
+## 7. NHS Continuing Healthcare[^key-6d3cba133fac676f4db729fac9e52653]
+
+(1) Where it appears to a local authority carrying out a needs assessment that the individual to whom the assessment relates may be eligible for NHS continuing healthcare[^f00012], the local authority must refer the individual to the relevant body.
+
+(2) Where it appears to a local authority carrying out a child’s needs assessment that the child may, after becoming 18, be eligible for NHS continuing healthcare, the local authority must refer the individual to the relevant body.
+
+(3) In performing its duties under this regulation, a local authority must have regard to the National Framework for NHS Continuing Healthcare and NHS-funded Nursing Care issued by the Secretary of State and dated 1st March 2018[^key-07a29f809e4fc72df58954d41aee4105].
+
+(4) The “relevant body” means NHS England[^key-d4dc7d404b890c497e44cfff4aeafbbe] or an integrated care board[^key-602678e6ae9a00e9a5faf35c84cd6771] as the case may be, which appears to the local authority to have responsibility for the individual by reason of regulation 20(2) of the National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) Regulations 2012 [^f00016].
+
+Signed by authority of the Secretary of State for Health.
+
+Dan Poulter
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+6th October 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Sections 9 and 10 of the Care Act 2014 impose duties on a local authority to assess an adult’s needs for care and support, and a carer’s needs for support, by carrying out a needs assessment or a carer’s assessment. These Regulations make further provision about such assessments.
+
+The Regulations also apply to an assessment carried out under that Act in relation to the likely care and support needs of a child on becoming an adult (a child’s needs assessment), the likely support needs of a young carer on becoming an adult (a young carer’s assessment) and the support needs of an adult carer of a child (a child’s carer’s assessment).
+
+Regulation 2 makes provision for supported self-assessment, where the individual to whom the assessment relates and the local authority carry out the assessment jointly. Regulation 3 makes provision about the manner in which assessments are carried out, and regulation 4 imposes requirements on local authorities relating to persons involved in the care of the individual whose needs are being assessed, including where it appears that any child is involved in providing care to any individual.
+
+Regulation 5 makes provision about the training and expertise of persons carrying out assessments, and regulation 6 makes specific provision about training and expertise in connection with the assessment of individuals who are deafblind. Regulation 7 requires the local authority to make a referral to the health service where it appears that the individual whose needs are being assessed may have a need for NHS Continuing Healthcare.
+
+A separate impact assessment has not been prepared for these Regulations. These Regulations are part of a package of legislative measures and the relevant impact assessment can be requested via careactconsultation@dh.gsi.gov.uk or Department of Health, Richmond House, 79 Whitehall, London SW1A 2NS and is available online at http://www.gov.uk/government/organisations/department-of-health.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 c.23](https://www.legislation.gov.uk/ukpga/2014/23) (“the Act”). The powers to make regulations is exercisable by the Secretary of State - *see* section 125(1).
+
+[^key-185b1d23cbb1ffaafb36757b63435567]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
+
+[^f00002]: Footnote: Section 12(1) was commenced for the purpose of making regulations by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473).
+
+[^f00003]: Footnote: *See* section 9 of the Act.
+
+[^f00004]: Footnote: *See* section 58 of the Act.
+
+[^f00005]: Footnote: *See* section 10 of the Act.
+
+[^f00006]: Footnote: *See* section 60 of the Act.
+
+[^f00007]: Footnote: *See* section 63 of the Act.
+
+[^key-d020009a12ef56acbdf919700bad77d1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2827/regulation/2) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
+
+[^f00008]: Footnote: *See* section 1(4) of the Act for the meaning of “local authority”; the definition is limited to local authorities in England.
+
+[^f00009]: Footnote: A reference to having or lacking capacity is to be interpreted in accordance with the Mental Capacity Act [2005 (c.9)](https://www.legislation.gov.uk/ukpga/2005/9), *see* section 80(2) of the Act.
+
+[^f00010]: Footnote: *See* section 10(3) of the Act for the meaning of “adult needing care”.
+
+[^key-2676d8fa34319fc0f64e18478dc0c337]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/2827/regulation/3) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
+
+[^f00011]: Footnote: *See* section 58(6) of the Act for the meaning of “parent”.
+
+[^key-5797e3ed6859ffe4862f5a59c5b1749a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/2827/regulation/4) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
+
+[^key-e589a4717a4cb6e4b8007137dd6aecf2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/2827/regulation/5) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
+
+[^key-cd59f4e1cfbc0ca59820f4f84e613efe]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2827/regulation/6) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
+
+[^key-6d3cba133fac676f4db729fac9e52653]: Commencement: Reg. 7 in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2827/regulation/1/1)
+
+[^f00012]: Footnote: *See* section 12(10) of the Act for the meaning of “NHS continuing healthcare”.
+
+[^key-07a29f809e4fc72df58954d41aee4105]: Textual amendment: Words in reg. 7(3) substituted (1.10.2018) by [The Responsibilities and Standing Rules, and Care and Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/283)](https://www.legislation.gov.uk/uksi/2018/283), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/283/regulation/1/4), [4](https://www.legislation.gov.uk/uksi/2018/283/regulation/4)
+
+[^key-d4dc7d404b890c497e44cfff4aeafbbe]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^key-602678e6ae9a00e9a5faf35c84cd6771]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+
+[^f00016]: Footnote: [S.I. 2012/2996](https://www.legislation.gov.uk/uksi/2012/2996).

@@ -1,0 +1,314 @@
+---
+title: The Plant Breeders' Rights (Naming and Fees) Regulations 2006
+id: uksi/2006/648
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-03-07'
+text_date: '2020-12-31'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2006/648
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/648/pdfs/uksiem_20060648_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/648/pdfs/uksi_20060648_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/648/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Plant Breeders' Rights (Naming and Fees) Regulations 2006
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2006 No. 648
+
+PLANT BREEDERS' RIGHTS
+
+The Plant Breeders' Rights (Naming and Fees) Regulations 2006
+
+Made
+
+7th March 2006
+
+Laid before Parliament
+
+10th March 2006
+
+Coming into force
+
+31st March 2006
+
+The Secretary of State for Environment, Food and Rural Affairs and the National Assembly for Wales, acting jointly, make the following Regulations in exercise of the powers conferred by sections 18(1) and (2), 28, 29 and 48(1)(b) of the Plant Varieties Act 1997[^f00001] and now vested in them[^f00002], with the consent of the Scottish Ministers[^f00003] and the Department of Agriculture and Rural Development[^f00004].
+
+In accordance with section 48(5) of that Act they have consulted with such organisations as appear to them to be representative of persons likely to be substantially affected by the following Regulations.
+
+## 1. Title and commencement
+
+These Regulations may be cited as the Plant Breeders' Rights (Naming and Fees) Regulations 2006 and come into force on 31st March 2006.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “the 1997 Act” means the Plant Varieties Act 1997;
+- “the 1978 Regulations” means the Plant Breeders' Rights Regulations 1978[^f00005];
+- “the 1998 Regulations” means the Plant Breeders' Rights Regulations 1998[^f00006]; and
+- “plant breeders' rights” means rights which may be granted in accordance with Part I of the 1997 Act.
+
+## 3. Selection of names for plant varieties
+
+*Extent: E+W+S+N.I.*
+
+(1) An applicant for a grant of plant breeders' rights shall, when so required by the Controller and within such time as he may direct, propose a name for the plant variety in respect of which his application is made.
+
+(2) The Controller shall not accept a name proposed in pursuance of paragraph (1) or (3) unless he is satisfied that the name is suitable [^key-ae327c11ec02f5f8741efa177b3f0b23]...
+
+(2A)[^key-a2aa77450c98e8cbb3c411a7c07ace54] In determining whether a name is suitable the Controller must consider—
+
+- (a) whether the use of the name in the United Kingdom is precluded by a prior right;
+- (b) whether the use of the name may commonly cause its users difficulties as regards recognition or reproduction;
+- (c) whether the name is identical to, or may be confused with, a name under which another variety of the same or a closely related species —
+  - (i) is entered in any other official register of plants, or
+  - (ii) has been marketed in the territory of a Member of the Union for the Protection of New Varieties of Plants,
+
+  and, if so, whether that other variety remains in existence and whether its denomination has acquired special significance;
+- (d) whether the name is liable to give offence or otherwise be contrary to public policy;
+- (e) whether the name is liable to mislead or cause confusion concerning the characteristics, the value or the identity of the variety or of the breeder;
+- (f) whether the variety is the same as a variety which has been registered in, or marketed in the territory of a Member of the Union for the Protection of New Varieties of Plants or a State which provides equivalent protection under a different name.
+
+(2B) In deciding the issues specified in paragraph (2A), the Controller must apply the rules set out in regulations 3A to 3G.
+
+(3) If the Controller does not accept a name proposed for a plant variety in accordance with paragraph (2) he shall inform the applicant of the reason for its rejection and require that the applicant propose within such time as the Controller may specify another name for the plant variety.
+
+(4) Any person may object to the name proposed for a plant variety as being unsuitable[^key-21e550d2e4d04217b08db14f737ab38d]... and may make representations to the Controller within such time as the Controller shall specify in the notice of his proposed decision to allow an application for the grant of plant breeders' rights published by him in accordance with regulation 5(1) of the 1998 Regulations.
+
+(5) Before accepting a name for a plant variety the Controller shall consider any representations which are made to him in accordance with paragraph (4).
+
+(6) If an applicant for a grant of plant breeders' rights fails to propose a name in accordance with the requirements of this regulation the Controller shall not be obliged to take any further steps in relation to the application until those requirements (except as regards the time allowed for compliance) have been complied with.
+
+(7) If, after the service by the Controller on the applicant of a notice informing him of the consequences of a continued failure to comply with any requirement of this regulation, the applicant has not complied with such requirement, within such time, not being less than 14 days, specified in the notice, the application shall be deemed to have been abandoned.
+
+(8) An applicant for a grant of plant breeders' rights or a holder of plant breeders' rights may at any time propose to the Controller a name for the plant variety in respect of which the application is made or plant breeders' rights have been granted in substitution for the name already proposed or accepted for that plant variety and, if the Controller is satisfied that the name proposed is suitable [^key-7f3c46e1a3c71f55eda0362d85ee2fee]...—
+
+- (a) he shall publish in the gazette and in such manner as appears to him to be necessary or desirable a notice of that proposed name;
+- (b) any person may object to the name as being unsuitable[^key-bb29829290a762d523cd33a3c6a629a0]... and may make representations to the Controller within such time as the Controller shall specify in the notice published under sub-paragraph (a); and
+- (c) before accepting the name, the Controller shall consider any representations which are made to him.
+
+(9) In this regulation—
+
+- (a) “name” includes any designation; and
+- (b) “the gazette” means the gazette published under section 34 of the Plant Varieties and Seeds Act 1964[^f00011].
+
+## 3A. Selection of plant variety names: prior rights[^key-654a698561c8ef749f9b47ba83ee9bd1]
+
+(1) This regulation applies for the purposes of regulation 3(2A)(a).
+
+(2) The Controller must not accept the proposed name as suitable if the Controller has been notified of a registered trademark which is identical or similar to the proposed name and which relates to goods which are identical or similar to the plant variety for which the name is proposed, unless the Controller is satisfied that consent of the proprietor of the registered trademark has been obtained.
+
+(3) The proposed name must not be accepted as suitable by the Controller if—
+
+- (a) the proposed name contains a protected geographical indication or designation of origin, and
+- (b) the use of the proposed name would infringe the protection conferred by registration on goods which are identical to or comparable with the plant variety concerned.
+
+(4) In this Regulation—
+
+- “**registered trademark**” means those trademarks registered in the United Kingdom;
+- “**protected geographical indication or designation of origin**” means designation of origin or geographical indication registered in the United Kingdom.
+
+## 3B. Selection of plant variety names: appellation or codes
+
+(1) This regulation applies for the purposes of regulation 3(2A)(b).
+
+(2) If a proposed name is not in the form of a code, the Controller must not accept it as suitable, on the grounds that it may commonly cause its users difficulties as regards recognition or reproduction, if it—
+
+- (a) consists of a single letter;
+- (b) consists of, or contains as a separate element, a series of letters not forming a word readily pronounceable by a person who speaks only English;
+- (c) contains a number;
+- (d) consists of three or more words or elements, unless the words taken together make it easily recognisable or reproducible;
+- (e) consists of or contains an excessively long word or element;
+- (f) contains a punctuation mark or other symbol, an upper and lower case mixture, subscript or superscript, or a design.
+
+(3) If a proposed name is in the form of a code, the Controller must not accept it as suitable, on the ground that it may commonly cause its users difficulties as regards recognition or reproduction, if it—
+
+- (a) consists of a number or numbers only;
+- (b) consists of a single letter;
+- (c) contains more than ten letters, or letters and numbers;
+- (d) contains more than four alternating groups of a letter or letters and a number or numbers;
+- (e) contains a punctuation mark or other symbol, subscript, superscript or a design.
+
+## 3C. Exceptions to regulation 3B
+
+(1) Regulation 3B(2)(b) does not require the Controller to refuse to accept a proposed name as suitable if the series of letters concerned is an established abbreviation, provided that any such established abbreviation is limited to a maximum of two sets of three characters each, located at each end of the proposed name.
+
+(2) Regulation 3B(2)(c) does not require the Controller to refuse to accept a proposed name as suitable if—
+
+- (a) the number concerned is an integral part of the name, or
+- (b) the number indicates that the variety is or will be one of a numbered series of varieties related through their breeding history.
+
+(3) Regulation 3B(2)(f) does not require the Controller to refuse to accept a proposed name as suitable on the grounds of a mixture of upper and lower case letters, if the first letter is upper case and the remainder are lower case.
+
+(4) Regulation 3B(3)(a) does not require the Controller to refuse to accept a proposed name as suitable if the number or numbers indicate inbred lines or similar specific types of variety.
+
+## 3D. Declaration on application as to nature of proposed name
+
+(1) An applicant for a grant of plant breeders' rights must declare whether the proposed name for the plant variety is a code.
+
+(2) If the applicant does not make such a declaration, the Controller is to presume that the proposed name is not a code.
+
+## 3E. Selection of plant variety names: identical or confusing names
+
+(1) This regulation applies for the purposes of regulation 3(2A)(c).
+
+(2) In determining whether a proposed name may be confused with another name of a plant variety of a description mentioned in regulation 3(2A)(c), the Controller must regard such confusion as likely to arise if the difference between the proposed name and the name of a variety of a closely related species—
+
+- (a) consists only of a difference of a single letter or digit, or the transposition of two letters;
+- (b) consists only of a difference in accents on letters in the names.
+
+(3) If the Controller regards such confusion as likely to arise, he may not accept the proposed name as suitable.
+
+## 3F. Exceptions to regulation 3E
+
+(1) Regulation 3E(2)(a) does not prevent a proposed name from being acceptable if the single letter is prominent in a way that makes the proposed name clearly distinct from that of any other plant variety which is already registered in the United Kingdom or in the territory of another Member of the Union for the Protection of New Varieties of Plants.
+
+(2) Differences of two or more letters for the purposes of regulation 3E(2)(a) are not to be regarded as confusing unless the difference results from the transposition of the letters in question.
+
+(3) A difference of a single digit in an appellation (where digits are permitted in that name) is not to be regarded as confusing for the purposes of regulation 3E(2)(a).
+
+## 3G. Selection of plant variety names: liability to mislead or cause confusion
+
+(1) This Regulation applies for the purposes of regulation 3(2A)(e).
+
+(2) The Controller must not accept a proposed name as suitable, on the ground that it is liable to mislead or cause confusion, if he considers that—
+
+- (a) it conveys the false impression that the variety has a particular characteristic or value;
+- (b) it conveys the false impression that the variety is related to, or derived from, another specific variety;
+- (c) it refers to a specific characteristic or value in a way which conveys the false impression that only that variety possesses it, when other varieties of the same species may possess the same characteristic or value;
+- (d) by reason of its similarity to a well-known trading name other than a registered trademark or variety denomination, it suggests that the variety is another variety, or conveys a false impression concerning the identity of the applicant, the person responsible for the maintenance of the variety or the breeder;
+- (e) it consists of or contains—
+  - (i) comparatives or superlatives;
+  - (ii) the botanical or common names of species within the group either of agricultural plants species or vegetable species to which the variety belongs;
+  - (iii) the name of a natural or legal person, or a reference to such a name, so as to convey a false impression concerning the identity of the applicant, the person responsible for the maintenance of the variety or the breeder;
+- (f) it includes a geographical name that would be likely to deceive the public as to the characteristics or the value of the variety.
+
+## 4. Payment of fees
+
+(1) The Controller may charge any person a fee in respects of costs the Controller reasonably incurs in—
+
+- (a) carrying out tests on or examination of a plant variety which is the subject of an application for a grant of plant breeders' rights or having such tests or examinations carried out on his behalf; or
+- (b) purchasing a report of a test or examination for such a plant variety from an authority in another country whose functions include the testing of plant varieties.
+
+(2) The Controller may charge any person a fee in respect of costs the Controller reasonably incurs in the administration of plant breeders' rights for a plant variety including in relation to—
+
+- (a) an application for the grant of plant breeders' rights;
+- (b) an application for a compulsory licence;
+- (c) an application to extend, limit, vary or revoke a compulsory licence;
+- (d) making representations to the Controller as provided for in the 1997 Act or in the 1998 Regulations;
+- (e) attending to be heard by the Controller or by a person appointed by him; and
+- (f) the examination or inspection of any documents, records or material.
+
+(3) The Controller shall specify the date on which a fee shall be due.
+
+(4) If a fee has not been paid by the date specified under paragraph (3), the Controller is not obliged to take any further steps in relation to the matter in respect of which the fee is payable until the fee has been paid.
+
+(5) If a fee payable under regulation 4(1)(a) or 4(2)(a) remains unpaid after the expiry of 28 days beginning with the date of service by the Controller on the applicant of a notice informing him that continued failure to pay the fee may result in his application being refused, the Controller may refuse the application.
+
+## 5. Revocation, supplemental and transitional provisions about names
+
+(1) The following regulations are revoked—
+
+- (a) the 1978 Regulations;
+- (b) the Plant Breeders' Rights (Fees) Regulations 1998[^f00012]; and
+- (c) the Plant Breeders' Rights (Fees) (Amendment) Regulations 2002[^f00013].
+
+(2) In the 1998 Regulations, for paragraph (c) of the definition of “relevant legislation” substitute—
+
+> - (c) regulation 3 of the Plant Breeders' Rights (Naming and Fees) Regulations 2006
+
+.
+
+(3) In sections 19 and 20 of the 1997 Act, references to names registered under section 18 of that Act shall include names accepted pursuant to these Regulations.
+
+(4) All proceedings relating to naming which have been commenced under the 1978 Regulations and which have not been concluded at the date these Regulations come into force shall be treated as having been commenced under these Regulations.
+
+Bach
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+Signed on behalf of the National Assembly for Wales
+
+D. Elis-Thomas
+
+Presiding Officer
+
+We consent.
+
+Ross Finnie
+
+A member of the Scottish Executive
+
+The Department of Agriculture and Rural Development hereby consents to the foregoing Order.
+
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 14th February 2006
+
+D. Small
+
+Senior Officer of the
+
+Department of Agriculture and Rural Development
+
+(This note is not part of the Regulations)
+
+The Regulations revoke the Plant Breeders' Rights Regulations 1978 (S.I. [1978/294](https://www.legislation.gov.uk/uksi/1978/294)) (“the 1978 Regulations”) (*regulation 5(1))*. They replace regulation 18 of the 1978 Regulations with revised provisions for the selection of names for plant varieties which are the subject of applications for plant breeders' rights under Part I of the Plant Varieties Act [1997 (c. 66)](https://www.legislation.gov.uk/ukpga/1997/66). In particular they—
+
+- (a) introduce a requirement for the Controller of Plant Variety Rights, in deciding whether to accept a proposed name, to have regard to the suitability criteria set out in Article 63 of Council Regulation [(EC) No 2100/94](https://www.legislation.gov.uk/european/regulation/1994/2100) of 27 July 1994 on Community plant variety rights (O.J. L 227, 1.9.1994, p.1) as last amended by Council Regulation [(EC) No 873/2004](https://www.legislation.gov.uk/european/regulation/2004/0873) of 29 April 2004 (O.J. L 162, 30.4.2004, p. 38) and Commission Regulation [(EC) No 930/2000](https://www.legislation.gov.uk/european/regulation/2000/0930) of 4 May 2000 which establishes implementing rules on the suitability of the denominations of varieties of agricultural plant species and vegetable species (O.J. L 108, 5.5.2000, p.3) as amended by Commission Regulation [(EC) No 1831/2004](https://www.legislation.gov.uk/european/regulation/2004/1831) of 21 October 2004 (O.J. L 321, 22.10.2004, p.29) (*regulation 3(2)*); and
+- (b) update the procedural provisions in the 1978 Regulations for approving the name *(regulations 3(1) and 3(3)-(9)).*
+
+The Regulations enable the Controller to charge a fee for costs reasonably incurred in respect of specified matters relating to plant breeders' rights arising under the Plant Varieties Act 1997 *(regulation 4)*.
+
+They also:
+
+- (a) revoke the Plant Breeders' Rights (Fees) Regulations 1998 (S.I. [1998/1021](https://www.legislation.gov.uk/uksi/1998/1021)) and the Plant Breeders' Rights (Fees) (Amendment) Regulations 2002 (S.I. [2002/1677](https://www.legislation.gov.uk/uksi/2002/1677)) (*regulation 5 (1)*);
+- (b) amend the Plant Breeders' Rights Regulations 1998 (S.I. [1998/1027](https://www.legislation.gov.uk/uksi/1998/1027)) *(regulation 5(2))*; and
+- (c) make transitional and supplemental provisions for naming *(regulations 5(3) and 5(4))*.
+
+A regulatory impact assessment has not been prepared for this instrument, as it has no impact on the costs of businesses, charities or voluntary bodies.
+
+## Annotations
+
+[^f00001]: Footnote: [1997 c. 66](https://www.legislation.gov.uk/ukpga/1997/66); see section 49(1) for the definition of “the Ministers”.
+
+[^f00002]: Footnote: By virtue of articles 2 and 4 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)) the functions of the Secretary of State for Wales under, *inter alia*, sections 18, 28 and 29 of the Plant Varieties Act 1997 and the functions of the Ministers under, *inter alia*, section 48 of that Act, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales and by virtue of article 2(1) of, and the Schedule to, the Transfer of Functions (Agriculture and Food) Order 1999 (S.I. [1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)) the remaining functions of the Secretary of State for Wales under the Plant Varieties Act 1997 were transferred to the Minister of Agriculture, Fisheries and Food. By virtue of article 2(5) of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. [2002/794](https://www.legislation.gov.uk/uksi/2002/794)) those functions of the Minister of Agriculture, Fisheries and Food under the Plant Varieties Act 1997 exercisable jointly with one or more named Secretaries of State were transferred to the Secretary of State for Environment, Food and Rural Affairs.
+
+[^f00003]: Footnote: By virtue of article 3 of, and paragraph 3 of Schedule 8 to, the Scotland Act 1998 (Cross-Border Public Authorities)(Adaptation of Functions etc.) Order 1999 (S.I. [1999/1747](https://www.legislation.gov.uk/uksi/1999/1747)), the Secretary of State for Scotland ceased to be among the “Ministers” who, acting jointly, may exercise any function under, *inter alia,* sections 18, 28, 29 and 48 of the Plant Varieties Act 1997 and such functions became exercisable only with the consent of the Scottish Ministers.
+
+[^f00004]: Footnote: By virtue of article 8(4) of the Northern Ireland Act 1998 (Modification of Enactments) Order 2002 (S.I. [2002/2843](https://www.legislation.gov.uk/uksi/2002/2843)), the Secretary of State for Northern Ireland ceased to be among the “Ministers” who, acting jointly, may exercise any function under, *inter alia,* sections 18, 28, 29 and 48 of the Plant Varieties Act 1997 and such functions became exercisable only with the consent of the Department of Agriculture and Rural Development.
+
+[^f00005]: Footnote: S.I. [1978/294](https://www.legislation.gov.uk/uksi/1978/294), amended by S.I. [1998/1027](https://www.legislation.gov.uk/uksi/1998/1027); there are other amending instruments but none is relevant.
+
+[^f00006]: Footnote: S.I. [1998/1027](https://www.legislation.gov.uk/uksi/1998/1027).
+
+[^key-ae327c11ec02f5f8741efa177b3f0b23]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2006/648/regulation/3/2) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2019/204/regulation/19/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a2aa77450c98e8cbb3c411a7c07ace54]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2006/648/regulation/3/2A)[(2B)](https://www.legislation.gov.uk/uksi/2006/648/regulation/3/2B) inserted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2019/204/regulation/19/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-21e550d2e4d04217b08db14f737ab38d]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2006/648/regulation/3/4) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [19(4)](https://www.legislation.gov.uk/uksi/2019/204/regulation/19/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7f3c46e1a3c71f55eda0362d85ee2fee]: Textual amendment: Words in [reg. 3(8)](https://www.legislation.gov.uk/uksi/2006/648/regulation/3/8) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [19(5)(a)](https://www.legislation.gov.uk/uksi/2019/204/regulation/19/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bb29829290a762d523cd33a3c6a629a0]: Textual amendment: Words in [reg. 3(8)(b)](https://www.legislation.gov.uk/uksi/2006/648/regulation/3/8/b) omitted (31.12.2020) by virtue of [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [19(5)(b)](https://www.legislation.gov.uk/uksi/2019/204/regulation/19/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00011]: Footnote: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14).
+
+[^key-654a698561c8ef749f9b47ba83ee9bd1]: Textual amendment: Regs. 3A-3G inserted (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [19(6)](https://www.legislation.gov.uk/uksi/2019/204/regulation/19/6) (as amended by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(7)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00012]: Footnote: S.I. [1998/1021](https://www.legislation.gov.uk/uksi/1998/1021) as amended by S.I. [2002/1677](https://www.legislation.gov.uk/uksi/2002/1677).
+
+[^f00013]: Footnote: S.I. [2002/1677](https://www.legislation.gov.uk/uksi/2002/1677).

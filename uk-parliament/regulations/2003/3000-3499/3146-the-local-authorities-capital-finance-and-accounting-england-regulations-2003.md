@@ -1,0 +1,2061 @@
+---
+title: The Local Authorities (Capital Finance and Accounting) (England) Regulations 2003
+id: uksi/2003/3146
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-12-03'
+text_date: '2026-03-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2003/3146
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/3146/pdfs/uksi_20033146_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/3146/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Authorities (Capital Finance and Accounting) (England) Regulations 2003
+
+> Text as at 2026-03-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2003 No. 3146
+
+LOCAL GOVERNMENT, ENGLAND
+
+The Local Authorities (Capital Finance and Accounting) (England) Regulations 2003
+
+Made
+
+3rd December 2003
+
+Laid before Parliament
+
+10th December 2003
+
+Coming into force
+
+for the purposes of regulations 1 and 2
+
+1st January 2004
+
+for all other purposes
+
+1st April 2004
+
+The Secretary of State, in exercise of the powers conferred upon him by sections 3, 7(3)(c), 8(3), 9(3), 10, 11, 15(1)(b), 16(2), 21, 23(2) and 123(1) and (2) of, and paragraph 4 of Schedule 1 to, the Local Government Act 2003[^f00001], hereby makes the following Regulations:
+
+## PART 1 — PRELIMINARY
+
+### 1. Citation, commencement, application and interpretation[^key-359c144b0e9e2619169690f124582a31]
+
+(1) These Regulations may be cited as the Local Authorities (Capital Finance and Accounting) (England) Regulations 2003 and shall come into force for the purposes of regulations 1 and 2 on 1st January 2004 and for all other purposes on 1st April 2004.
+
+(2)[^key-3998ba983b7eeb49109b5923b36cc6ef] Regulations 2 to 26, 27(2), 32 to 34 and the Schedule apply only in relation to local authorities in England.
+
+(3) Regulations 2 to 6, 8, 9, 10(3) to (6), 12 to 22, 23(d) to (f), 24, 27(1), (3) to (5),[^key-93bf456fe629077afe33a16379953bfe] 28, 29, 32 and 33 shall not apply to parish councils and charter trustees.
+
+(3A)[^key-2afc0fab85bffac774c0741e22c68fd1] Regulations 27(1), (3) to (5), 28 and 29 shall not apply to any person or body which is—
+
+- (a) a local authority for the purposes of section 21 by virtue of subsection (6)(b), (d), (e), (g), (h), (k) or (l) of that section, or
+- (b) a Mayoral development corporation established under Chapter 2 of Part 8 of the Localism Act 2011.
+
+(4) In these Regulations, unless the context indicates otherwise, any reference to a Part, section or Schedule is a reference to a Part or section of, or Schedule to, the Local Government Act 2003.
+
+(5) In these Regulations—
+
+- “the 1993 Act” means the Leasehold Reform, Housing and Urban Development Act 1993;[^key-a1bb0b07cedd4268b28f07a154451607]
+- “affordable housing” and “provision of affordable housing” have the meaning given in[^key-db096c1d94a6080c7a7a88c5ac79c22b] regulation 18[^key-c13f3571cb9893a0138ebe262b92de7f];
+- “associates” has the same meaning as in section 135 of the 1993 Act (disposals of dwelling-houses by local authorities);
+- “available capital allowance” has the meaning given in regulation 15;[^key-2573b78f6f4de2f77587857eb13fc35f]
+- [^key-2036958c5dafbfcfbeb242d63c83a062]...
+- “CIPFA” means the body—
+  - (a) constituted by Royal Charter on 6th January 1959 and originally named “The Institute of Municipal Treasurers and Accountants”;
+  - (b) whose name was changed to “The Chartered Institute of Public Finance and Accountancy” by Royal Charter on 24th October 1973; and
+  - (c) registered with the Charity Commissioners of England and Wales (number 231060);
+- “debt-free authority” means a local authority which has no money outstanding by way of borrowing other than disregarded borrowing;
+- “disregarded borrowing” has the same meaning as that term had on 31st March 2004 in regulation 65 of the Local Authorities (Capital Finance) Regulations 1997 (capital receipts of debt-free authorities)[^f00003];
+- “dwelling” means any building or part of a building which is occupied as a dwelling, or is a hostel providing accommodation for persons who, for the purposes of Part VII of the Housing Act 1996 (homelessness)[^f00004], are homeless, or persons who have a special need for accommodation arising from physical or mental disability, age, infirmity or other special social disability or disadvantage;
+- “dwelling-house” has the same meaning as in section 135 of the 1993 Act;[^key-26f80e24095943d427d064e36d0b945f]
+- “EEAUCITS” has the same meaning as in section 237 of the Financial Services and Markets Act 2000[^key-dcff862fdac09eb7b82b6c4672666ca9]
+- “housing land” means any land, house or other building in relation to which the local authority is, or has been immediately before disposal of it, subject to the duty under section 74 of the Local Government and Housing Act 1989 (duty to keep Housing Revenue Account)[^f00005];
+- “introductory tenant” has the same meaning as in Chapter 1 of Part V of the Housing Act 1996 (introductory tenancies);[^key-d9ed8a9287c33da1cd44f590f29600b8]
+- “long lease” means a lease for a term of years certain exceeding 21 years other than a lease which is terminable before the end of that term by notice given by or to the landlord;
+- [^key-8597c88a02dca0d357b7d2ce4b3936f6]...
+- [^M_F_336a7e09-e43f-4e7b-a0b1-1d096861e691]...
+- “the National Association of Local Councils” means the unincorporated association of that name which was established in 1947[^f00006];
+- “notifiable allowance” means the amount notified by the local authority to the Secretary of State in compliance with regulation 3 of the Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No.2) Regulations 2012;[^key-a729c0c224e951a1e96f45fffd8e9eb1]
+- “poolable amount” means the sum of the specified amounts calculated from capital receipts received by the local authority in the financial year[^key-15e05696ed2adba55f1a9167f16644cc] and the sub-liability calculated for the financial year;
+- “qualifying disposal” means a disposal of an interest in housing land which is a qualifying disposal for the purposes of section 135 or 136 of the 1993 Act[^key-5b8f8ff6aaafa773af3a23aa478ba0f3] (disposals of dwelling-houses by local authorities)[^f00007]; [^key-65f816bd1c3f9a7f52e0d43407db305e]...
+- [^key-413012a63e3732d2ab51d7d37c450594]...
+- “relevant commencement date” means the time at which regulation 5 of the Local Government (Miscellaneous Amendments) (EU Exit) Regulations 2018 comes into force;[^key-615ab58273792acdd269e738fd0c6f51]
+- “relevant period” means the period beginning with the relevant commencement date and ending immediately before the time at which the five[^key-9345b392bd62a0f5aa148bb1382c9a5e] year anniversary of the relevant commencement date falls;
+- “relevant disposal period” means the period of five years ending with the date of the disposal;[^key-a6bc9be9e1a66e6bce0b700dbde85a61]
+- [^key-95277f64610183e85977e11db444935f]...
+- “relevant UCITS” means—[^key-4a096c4d444d9f755334f401c3c72722]
+  - (a) a UKUCITS; or
+  - (b) during the relevant period, an EEAUCITS which was recognised under section 264 of the Financial Services and Markets Act 2000 immediately prior to the relevant commencement date; or
+  - (c) during the relevant period, a sub-fund of an EEAUCITS which—
+    - (i) is a recognised scheme for the purposes of Part 17 of the Financial Services and Markets Act 2000 by virtue of regulation 62(1) of the Collective Investment Schemes (Amendment etc.)(EU Exit) Regulations 2019, and
+    - (ii) meets the conditions in regulation 63(3) of the Collective Investment Schemes (Amendment etc.)(EU Exit) Regulations 2019; or[^key-ee76c7d1c234b6944594265f0ebb15e9]
+  - (d) an EEA UCITS which is a recognised scheme under section 271A or 272 of the Financial Services and Markets Act 2000, or
+  - (e) an EEA UCITS—
+    - (i) to which Article 4(1)(aa) of [Regulation 2017/1131](https://www.legislation.gov.uk/european/regulation/2017/1131) of the European Parliament and of the Council of 14th June 2017 on Money Market Funds applies, and
+    - (ii) which is marketed in accordance with Chapter 3 of Part 6 of the Alternative Investment Fund Managers Regulations 2013;
+- “secure tenant” has the same meaning as in Part IV of the Housing Act 1985 (secure tenancies and rights of secure tenants);
+- “securitisation transaction” means a disposal for consideration by a local authority of all or part of its interest in specified revenues, where disposal includes both sale and assignment;[^key-01f4e98073445db3e6704de383f886a8]
+- “shared ownership lease” means a lease of a dwelling granted on payment of a premium calculated by reference to a percentage of the market value of the dwelling;[^key-afedafa781bd397f7598effe19cba013]
+- “small scale disposal” means a disposal by a local authority of an interest in housing land to any person where—
+  - (a) the Secretary of State has given consent to the disposal under section 32 (power to dispose of land held for the purposes of Part II) or 43 (consent required for certain disposals not within section 32) of the Housing Act 1985;
+  - (b) he has given that consent subject to the conditions that the local authority—
+    - (i) takes reasonable steps to ascertain whether the majority of secure tenants and introductory tenants who would be affected by the disposal are not opposed to it; and
+    - (ii) is satisfied that, at the time of the disposal, the majority of those tenants are not likely to be opposed to the disposal;
+
+    and
+  - (c) the aggregate of the following, namely—
+    - (i) the number of dwelling-houses included in the disposal; and
+    - (ii) the number of dwelling-houses which, within the relevant disposal period, have been previously disposed of by the authority to that person, or that person and any associates of his taken together,
+
+    is not more than 499,
+- but for the purposes of this definition, a disposal of any dwelling-house shall be disregarded if at the time of the disposal the local authority’s interest in the dwelling-house is or was subject to a long lease; and
+- [^key-2036958c5dafbfcfbeb242d63c83a062]...
+- “the Society of Local Council Clerks” means the registered trade union of that name (Trade Union reference 1200T) which was established in 1972;
+- “specified amount” means the amount calculated in accordance with regulation 14;[^key-78c1c7e2fc5668eb2238612335bf560c]
+- “sub-fund” means a sub-fund of a UCITS within the meaning of section 237(4) of the Financial Services and Markets Act 2000;[^key-46ed092fbfb7fb2066f7db558538a326]
+- “sub-liability” means the amount (“K”)[^key-98d402c866bd00e06223b32eb3a1d8b9] calculated in accordance with [^key-19fde808a779c40fe559a2585247913f]... paragraph 13[^key-acac8ae9185472ddda6e2dc8983ced93] of the Schedule; [^key-e244e466260c5a9513c1e89dd020b005]...
+- “the 2011-2012 buy back reduction” means the amount calculated in compliance with regulation 3 of the Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No 2) Regulations 2012;
+- “UCITS” has the same meaning as in section 236A of the Financial Services and Markets Act 2000; and[^key-14d157c7b81e8aa93617cf0731d6d977]
+- “UKUCITS” has the same meaning as in section 237 of the Financial Services and Markets Act 2000.
+
+## PART 2 — BORROWING
+
+### 2. Code of practice[^key-a99097488c376b06a447aac240179de6]
+
+In complying with their duties under section 3(1) and (2) (duty to determine affordable borrowing limit), a local authority and the Mayor of London shall have regard to the code of practice entitled the “Prudential Code for Capital Finance in Local Authorities” published by CIPFA, as amended or reissued from time to time[^f00008].
+
+## PART 3 — CREDIT ARRANGEMENTS
+
+### TRANSACTIONS WHICH ARE CREDIT ARRANGEMENTS[^key-11cc2bae2062d4fc4149095b029e15c9]
+
+#### 2A. Securitisation transactions
+
+A securitisation transaction must be treated as a transaction falling within section 7(2)(a).
+
+### TRANSACTIONS WHICH ARE NOT CREDIT ARRANGEMENTS
+
+#### 3. Liabilities that do not arise from capital expenditure[^key-b161a86bf97885e608ebe94e91029734]
+
+(1) The liabilities of a local authority specified in paragraph (2) are liabilities specified for the purposes of section 7(3)(c) (exclusion of certain liabilities from definition of “qualifying liabilities”).
+
+(2) The liabilities specified for the purposes of paragraph (1) are liabilities that do not arise from a transaction which results in the local authority being required, in accordance with proper practices, to recognise a non-current asset which is not a financial asset[^key-5b9e599a8d429206d516e2ee2365ca43] in any balance sheet.
+
+#### 4. Retirement benefits[^key-878d99be35f41b6f84a0b984386f9903]
+
+(1) Liabilities for retirement benefits appropriated to a pension reserve in accordance with proper practices are liabilities specified for the purposes of section 7(3)(c).
+
+(2)[^key-0986fba518dd86ca2d15a07de6d75122] For the purposes of paragraph (1) and regulation 30, “retirement benefits” means benefits payable pursuant to statutory requirements under an arrangement accounted for as a defined benefit pension plan or as other long-term employee benefits (as defined in accordance with proper practices).[^key-db8140e298c7951e8a2118186a23e137]
+
+### SUPPLEMENTARY PROVISION
+
+#### 5. Varied transactions[^key-cb46c617f88ed7f771aae96327ca3684]
+
+For the purposes of Chapter 1 of Part 1 (capital finance etc.), a local authority shall be taken to have entered into a credit arrangement where—
+
+- (a) on or after 1st April 2004, it enters into a transaction (“the new transaction”) which varies a transaction entered into previously, whether before, on or after 1st April 2004 (“the earlier transaction”);
+- (b) the earlier transaction did not result in the local authority being taken to have entered into a credit arrangement; and
+- (c) the local authority would, if it had entered into the earlier transaction as varied by the new transaction on—
+  - (i) the date on which the earlier transaction was entered into; or
+  - (ii) if later, 1st April 2004,
+
+  be taken to have entered into a credit arrangement,
+
+and the date on which it is taken to have entered into the credit arrangement by virtue of this regulation is the date on which it enters into the new transaction.
+
+### COST OF CREDIT ARRANGEMENTS
+
+#### 6. Calculation of cost of credit arrangements[^key-780ca854d3c9e317dc883ded8906b5f4][^key-10f382f9e703907c412d51b6c341e04e]
+
+For the purposes of section 8(2) (entry into a credit arrangement or variation to be treated as the borrowing of an amount equal to the cost of the arrangement or variation), the cost of a credit arrangement or variation of a credit arrangement is—
+
+- (a) in the case of a securitisation transaction, an amount equal to the value of the consideration received by the authority as a result of that transaction, or
+- (b) in all other cases, the amount of the liability in respect of that arrangement or variation which is shown, in accordance with proper practices, in the authority’s accounts.
+
+## PART 4 — CAPITAL RECEIPTS
+
+### SUMS TO BE TREATED AS CAPITAL RECEIPTS
+
+#### 7. Repayment of loan etc. to a local authority[^key-876d895fe3a8ce1f114245ae21bffc89]
+
+(1) For the purposes of Chapter 1 of Part 1 (capital finance etc), the sums referred to in paragraph (2), paid on or after 1st April 2004, shall be treated as capital receipts.
+
+(2) Subject to paragraphs (3) and (4)[^key-c6512a7fd8eeb1dd89eff601b197ffaa], the sums referred to for the purposes of paragraph (1) are sums paid to a local authority as repayment of any loan, grant or other financial assistance given by the local authority for such a purpose that, if the giving of that financial assistance had been expenditure incurred at the time of the repayment, it would have constituted capital expenditure[^f00017].
+
+(3) Where the financial assistance referred to in paragraph (2) is a loan given by a parish council or charter trustees, any sums paid to the local authority as repayment of that loan shall not be treated as capital receipts.
+
+(4)[^key-1f976f763929d5ba349f272b6b417212] A sum paid to a local authority to redeem a bond on its maturity or for the purchase of a bond does not constitute repayment of a loan or other financial assistance.
+
+#### 7A. Bonds[^key-1f223ec813676dcd9d586e3bdf53ea86]
+
+(1) Subject to paragraph (2), for the purposes of Chapter 1 of Part 1, a sum received by a local authority in respect of—
+
+- (a) the redemption on maturity of a bond, or
+- (b) the disposal of a bond,
+
+must be treated as a capital receipt.
+
+(2) Paragraph (1) applies only if—
+
+- (a) the acquisition of the bond was prior to 1st April 2012, and
+- (b) expenditure on the acquisition was treated as capital expenditure.
+
+#### 8. Disposal of mortgage portfolio[^key-3a51121a7a775912556b0973d84b1d7a]
+
+For the purposes of Chapter 1 of Part 1, a sum received by a local authority on or after 1st April 2004 in respect of the disposal of the authority’s rights and obligations as mortgagee of any housing land which, apart from this regulation, would not be a capital receipt, shall be treated as a capital receipt.
+
+#### 9. Payment made to redeem landlord’s share[^key-bb87ac12ac7f7e6f126aefd94f4afc83]
+
+For the purposes of Chapter 1 of Part 1, where an interim or final payment is made to a local authority, on or after 1st April 2004, in accordance with Schedule 6A to the Housing Act 1985 (redemption of landlord’s share)[^f00018], the sum received by the authority shall be treated as a capital receipt if, apart from this regulation, it would not be a capital receipt.
+
+#### 9A. Social HomeBuy receipts[^key-b52306676ae4e0455dbf3faeb4fc81c4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9B. Securitisation transaction receipts[^key-145d36b8b039583340101e86d6d56969]
+
+For the purposes of Chapter 1 of Part 1, any sum received as consideration by a local authority as the result of a securitisation transaction which, apart from this regulation, would not be a capital receipt, must be treated as a capital receipt.
+
+### SUMS NOT TO BE TREATED AS CAPITAL RECEIPTS
+
+#### 10. Capital receipts not exceeding £10,000[^key-4f9fdc6cabf7ecdb9d85ac3ba4b293b0]
+
+(1) [^key-14d884de5c59c35eb91351456e75b83d]... A sum received by a local authority which, apart from this regulation, would be a capital receipt by virtue of section 9(1) shall not be treated for the purposes of Chapter 1 of Part 1 as a capital receipt if the aggregate of all sums received or to be received by the authority in respect of the disposal of an interest in a capital asset, for which the sum is paid, does not exceed £10,000.
+
+(2) A sum received by a local authority which, apart from this regulation, would be treated as a capital receipt by virtue of regulation 7, shall not be treated for the purposes of Chapter 1 of Part 1 as a capital receipt if the aggregate of all sums received or to be received by the authority as repayment of a loan, grant or other financial assistance, for which the sum is paid, does not exceed £10,000.
+
+(3) A sum received by a local authority which, apart from this regulation, would be treated as a capital receipt by virtue of regulation 8, shall not be treated for the purposes of Chapter 1 of Part 1 as a capital receipt if the aggregate of all sums received or to be received by the authority in respect of the disposal of the authority’s rights and obligations, for which the sum is paid, does not exceed £10,000.
+
+(4) A sum received by a local authority which, apart from this regulation, would be treated as a capital receipt by virtue of regulation 9, shall not be treated for the purposes of Chapter 1 of Part 1 as a capital receipt if the aggregate of all sums received or to be received by the authority in respect of redemption of the landlord’s share, for which the sum is paid, does not exceed £10,000.
+
+(5) [^key-6d1b65529e82e67c5f9202b5416b2913]... A notional capital receipt[^f00019] which, apart from this regulation, would be treated as a capital receipt received by a local authority by virtue of regulation 22(5), shall not be treated for the purposes of Chapter 1 of Part 1 as a capital receipt if the aggregate of all sums received or to be received by the authority in respect of the disposal of the interest in housing land, for which the notional capital receipt is determined, does not exceed £10,000.
+
+(6) In paragraphs (1) and (5), “all sums received or to be received by the authority” include the amount of all notional capital receipts determined in respect of the disposal.
+
+(7)[^key-ae88f9490c02076313308165ed162082] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 11. Operating and finance leases[^key-cd75cafc01fd9be7a30e402c112a1ee4]
+
+A sum received by a local authority—
+
+- (a) under any arrangement which is treated, in accordance with proper practices, as an operating lease or a finance lease;
+- (b) which, apart from this regulation, would be a capital receipt; and
+- (c) which, in accordance with proper practices, is to be credited to a revenue account,
+
+shall not be treated for the purposes of Chapter 1 of Part 1 as a capital receipt.
+
+### POOLING OF RECEIPTS
+
+#### 12. Pooling of receipts from housing land[^M_F_1af41acf-1051-4543-8992-0833717c1dc5]
+
+(1) The local authority must use capital receipts to pay the poolable amount in respect of each financial year[^key-d88b47ee5fb295aab5d8874a838f6ba2] to the Secretary of State on or before the following dates (“the due date”)—
+
+- (a) 30th April in the following financial year;[^key-c2f7a489e2a160709b3b60c6b7fef5e1] or
+- (b) if later, such date as is notified to the local authority by the Secretary of State.
+
+(2) Where the poolable amount paid to the Secretary of State has been incorrectly calculated by the local authority, the local authority must—
+
+- (a) pay any outstanding amount to the Secretary of State (including any interest payable under regulation 13); or
+- (b) offset any amount paid in excess of the poolable amount against any further poolable amount payable to the Secretary of State under this regulation.
+
+#### 13. Interest on late payments
+
+(1) The local authority must use capital receipts, which it derived from the disposal of housing land, to pay interest to the Secretary of State in accordance with the following provisions of this regulation.
+
+(2) Where the local authority does not pay part or all of the poolable amount to the Secretary of State by the due date, the local authority shall pay interest to the Secretary of State on the unpaid part amount of the poolable amount.
+
+(3) The interest shall be calculated on any unpaid amount at the applicable rate[^key-cb30003ea46b042b3914d9d3916eceb0] on a day to day basis compounded with yearly[^key-63b0b43057d8c943accf0c4a4e4f3b20] rests.
+
+(4) Where interest is payable by virtue of paragraph (2), the interest on the unpaid amount shall be calculated for the period starting on the day after the due date and ending on the date of the payment of the unpaid amount.
+
+(5) The local authority must pay to the Secretary of State any interest, payable in respect of any unpaid amount, on the date on which it pays the unpaid amount.
+
+(6) In this regulation—
+
+- “applicable rate” means whichever is the higher of—[^key-e9e0d90d277d737a4cee6476f912f408]
+  - (a) 1%; and
+  - (b) 1% above base rate;
+- “base rate” means the base rate for the time being quoted by the reference banks or, where there is for the time being more than one such rate, the rate which, when the base rate quoted by each bank is ranked in descending sequence of seven, is fourth in the sequence; and
+- “reference banks” means the seven largest persons for the time being who—
+  - (i) have permission under Part IV of the Financial Services and Markets Act 2000 (permission to carry on regulated activities) to accept deposits;
+  - (ii) are incorporated in the United Kingdom and carry on there a regulated activity of accepting deposits; and
+  - (iii) quote a base rate in sterling,
+- and for the purpose of this definition the size of any person at any time is to be determined by reference to the gross assets denominated in sterling by that person, together with any subsidiary (as defined in section 1159 of the Companies Act 2006), as shown in the audited end-of-year accounts last published before that time.
+
+#### 14. Specified amount[^key-f28fbe117e4649661e89d7265ba3f67e]
+
+(1)[^key-e9501ea6a703d0b27a63b4a4c34fbcce] This regulation applies to the following capital receipts arising from the disposal of housing land prior to 1st April 2012—
+
+- (a) amounts received by the local authority as mortgagee of any housing land;
+- (b) amounts received on or after 1st April 2006, in relation to the disposal of the authority’s rights and obligations as mortgagee of any dwelling; and
+- (c) amounts received pursuant to the enforcement of a covenant contained in a conveyance of a freehold or grant of a leasehold in compliance with section 155 of the Housing Act 1985 (repayment of the right to buy discount).
+
+(2)[^key-a9cabb21daf9dd5ea6f8b3fa45874129] Where this regulation applies, the specified amount is an amount equal to 75% of the capital receipt in relation to the disposal of housing land.
+
+(3)[^key-e6da37bf2a9f1c840fb7dcd90346ab9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15. Capital receipt treated as reduced[^key-97ab8408b9f3c8d88c119178c632aad2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 16. Available capital allowance[^key-97ab8408b9f3c8d88c119178c632aad2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 16A. Available Social HomeBuy allowance[^M_F_1af41acf-1051-4543-8992-0833717c1dc5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 16B. Total Social HomeBuy allowance[^M_F_1af41acf-1051-4543-8992-0833717c1dc5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 17. Total capital allowance[^key-97ab8408b9f3c8d88c119178c632aad2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 18. Provision of affordable housing[^key-97ab8408b9f3c8d88c119178c632aad2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 19. Regeneration projects[^key-97ab8408b9f3c8d88c119178c632aad2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 20. Capital receipts reduced by costs of buying back dwellings in the preceding year[^M_F_1af41acf-1051-4543-8992-0833717c1dc5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 20A. Capital receipts reduced by consideration for former new town assets[^M_F_1af41acf-1051-4543-8992-0833717c1dc5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 21. Transitional reductions for debt-free authorities[^M_F_1af41acf-1051-4543-8992-0833717c1dc5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 22. Non-money receipts[^key-537460c90b426998e850eaff03302fee]
+
+(1) Subject to paragraphs (2) to (4), where on or after 1st April 2004 a local authority makes a disposal, other than a qualifying disposal or a small scale disposal[^key-a882846b3f6447b89d75beb7b1f85d75], of an interest in housing land—
+
+- (a) which is a disposal of the kind mentioned in section 9(1) (capital receipt) and the consideration for the disposal does not consist wholly of money payable to the authority; or
+- (b) in respect of which the authority receives otherwise than in the form of money any consideration which, if received in that form, would be a capital receipt under section 9,
+
+the authority shall determine the amount (the “notional capital receipt”) which would have been the capital receipt if the consideration for the disposal had been wholly in money payable to the authority.
+
+(2) Where money is payable to the authority in respect of the disposal, the notional capital receipt shall be determined by deducting the amount of that money from the amount which would have been the capital receipt if the consideration for the disposal had been wholly in money payable to the authority.
+
+(3) Where the consideration for the disposal, or part of the consideration, consists of —
+
+- (a) the grant of a right to the local authority to nominate a person either to occupy any dwelling or to acquire the freehold of, or a leasehold interest in, any dwelling; or
+- (b) an undertaking given to the local authority to allow only a person of a particular description to occupy any dwelling or acquire the freehold of, or a leasehold interest in, any dwelling,
+
+the amount of the notional capital receipt in respect of that consideration or that part of the consideration, as the case may be, shall be treated as nil.
+
+(4) For the purposes of determining the notional capital receipt for a disposal, the consideration for the disposal shall be deemed to be received by the authority at the time that the authority makes the disposal.
+
+(5) For the purposes of Chapter 1 of Part 1, a notional capital receipt shall be treated as a capital receipt and the amount specified in regulation 12(4) shall be calculated accordingly.
+
+### MISCELLANEOUS
+
+#### 23. Use of capital receipts[^key-5e8b18bddc2fa10ee3d2fa2b86d2a7fa]
+
+Capital receipts may only be used for one or more of the following purposes—
+
+- (a) to meet capital expenditure;
+- (b) to repay the principal of any amount borrowed;
+- (c) to pay a premium charged in relation to any amount borrowed;
+- (d) to meet any liability in respect of credit arrangements, other than any liability which, in accordance with proper practices, must be charged to a revenue account;
+- (e) to meet the [^key-d814af1b248d6c7bf695736b417f3492]... costs of or incidental to a disposal of an interest in housing land; or
+- (f) to make a payment to the Secretary of State under regulation 12, 13, the Schedule or pursuant to any agreement made under section 11(6) of the Local Government Act 2003;[^key-1c4bc4d17bb9e5fe4c7a80a8a98e18a4]; [^key-a048fb4fbbc27a7515e86991a1569506]...
+- (g)[^key-c84ec38d7b63d780702af79dfb938989] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^key-4773ce425576292fb9493d321d05d0ef] to meet the costs of or incidental to a disposal of an interest in land other than housing land, provided these do not exceed 4% of the capital receipt arising from the disposal; [^key-dda472a00735b85a30f6d4be03562e95]...
+- (i) to make all or part of a payment to a person, where the obligation to make that payment arises on the disposal of an asset, as a result of an agreement made at the time of the acquisition of that asset, or in relation to such an agreement;[^key-638c9359701dcff7e8673eabcb03e9c5] [^key-123e3fb15d4f450c2581af44e418bf80]...
+- (j) where receipts are received on or after 1st April 2012, to make a back payment (within the meaning of regulation 30A(2) or regulation 30AA(2) as the case may be[^key-de3a27b4b74525bdcb3ae18fdf5f8c8a]) in respect of unequal pay where the liability arises in the circumstances specified in regulation 30A(3) or 30AA(3) as the case may be[^key-1f67465029a42f4427cfa5f3d18ac58a];or[^key-c43d2b07374416f77e1e4334d8b924f2]
+- (k) in the case of a Mayoral development corporation established under Chapter 2 of Part 8 of the Localism Act 2011, to meet any liability to pay corporation tax.
+
+## PART 5 — SUPPLEMENTARY
+
+### 24. Guidance[^key-553637c37c53d074dedb0429e7c6a8df]
+
+In carrying out its functions under Chapter 1 of Part 1, a local authority shall have regard to the code of practice contained in the document entitled “Treasury Management in the Public Services: Code of Practice and Cross-Sectoral Guidance Notes” published by CIPFA, as amended or reissued from time to time[^f00031].
+
+### 25. Expenditure to be capital expenditure[^key-28914f243b964375428e3c561e06b62f]
+
+(1) For the purposes of Chapter 1 of Part 1 the following expenditure of a local authority, incurred on or after 1st April 2004, shall be treated as being capital expenditure insofar as it is not capital expenditure by virtue of section 16(1) —
+
+- (a) expenditure incurred on the acquisition or preparation of a computer program, including expenditure on the acquisition of a right to use the program, if the authority acquire or prepare the program for use for a period of at least one year for any purpose relevant to its functions;
+- (b) subject to paragraph (2), the giving of a loan, grant or other financial assistance to any person, whether for use by that person or by a third party, towards expenditure which would, if incurred by the authority, be capital expenditure;
+- (c) the repayment of any grant or other financial assistance given to the local authority for the purposes of expenditure which is capital expenditure;
+- (d) subject to paragraph (3),[^key-b957bf7e4d8a14a5242efaf906f1c4c8] the acquisition of share capital [^key-587b6f8018d24fe9baadc25c0de1cc33]... in any body corporate; [^key-8cb3fed32eda351d909db2fe6ac58e37]...
+- (e) expenditure incurred on works to any land or building in which the local authority does not have an interest, which would be capital expenditure if the local authority had an interest in that land or building ; and[^key-784d6945b2a94e623b0843dd0c40d182]
+- (ea)[^key-7a0fbeef43bd8b12ea3684431edcc209] expenditure incurred on the acquisition, production or construction of assets for use by, or disposal to, a person other than the local authority which would be capital expenditure if those assets were acquired, produced or constructed for use by the local authority; and
+- (f) the payment of any levy by a local authority under section 136 of the Leasehold Reform Housing and Urban Development Act 1993 (levy on disposals).
+
+(2) Where the expenditure referred to in paragraph (1)(b) is a loan given by a parish council or charter trustees to any person, it shall not be treated as being capital expenditure by virtue of this regulation.
+
+(3)[^key-9bc588f282399d1c0ad912560b949e63] Where the expenditure referred to in paragraph (1)(d) is—
+
+- (a)[^key-fb31b8edd3acd1b7e3498325922fb30e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-a9dc4e50a1fbc2e7b5c6b9208f2592fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-ad417c36818b449e95914bff2d751180] an investment in the shares of a company to which Part 12 of the Corporation Tax Act 2010[^key-ec5423b98ae50b87487ddbffc88e2465] (Real Estate Investment Trusts) applies ;[^key-90427b07305ea421bdd02735e66b989c] [^key-a27f5f8e736f22f77cf43881a2ce3c39]...
+- (d)[^key-4cd87271a92a4792e29c992331a89e42] the acquisition of shares in an investment scheme approved by the Treasury under section 11(1) of the Trustee Investments Act 1961 (local authority investment schemes),or[^key-bb153d5c10639d71e7c0eb45c683e435]
+- (e) an investment in a relevant UCITS,
+
+it shall not be treated as being capital expenditure by virtue of this regulation.
+
+### 26. Expenditure not to be capital expenditure[^key-89b670f7c662f22edbb505515b59f890]
+
+Expenditure incurred by a local authority on the giving of loans, grants or other financial assistance—
+
+- (a) to an officer of the authority pursuant to the terms and conditions of his employment; or
+- (b) in connection with the appointment of a person as an officer of the authority, to that person,
+
+in so far as, apart from this regulation, it would be capital expenditure, shall be treated for the purposes of Chapter 1 of Part 1 as not being capital expenditure.
+
+## PART 6 — REVENUE PROVISION
+
+### 27. Duty to make revenue provision[^key-7f1fa571691ae4a8bff761205bbcbe42]
+
+(1) During the financial year beginning on 1st April 2025 and every subsequent financial year, a local authority—
+
+- (a) subject to paragraphs (3) and (4), must charge to a revenue account a minimum amount (“minimum revenue provision”) for that financial year in respect of all capital expenditure financed by debt and incurred by the local authority in that year or any financial year prior to that year, and
+- (b) may charge to a revenue account any amount in addition to the minimum revenue provision, in respect of any capital expenditure financed by debt and incurred by the local authority in that year or any financial year prior to that year.
+
+(2) During the financial year beginning on 1st April 2024 and every subsequent financial year, a parish council or charter trustees may charge to a revenue account any amount in respect of capital expenditure financed by debt and incurred by the parish council or the charter trustees, as the case may be, in that year.
+
+(3) Where a local authority incurs capital expenditure financed by debt during a financial year, the authority may charge the minimum revenue provision in respect of that expenditure to a revenue account for—
+
+- (a) the following financial year, or
+- (b) in relation to an asset, if later, the financial year immediately after the financial year in which the asset first becomes available for use.
+
+(4) A local authority may choose not to charge minimum revenue provision to a revenue account in respect of the financing by debt of a loan given by that authority to any person or body, where—
+
+- (a) the loan is treated as capital expenditure in accordance with regulation 25(1)(b),
+- (b) the loan is not a commercial loan, and
+- (c) the local authority has not recognised, in accordance with proper practices, any expected or actual credit loss in respect of that loan.
+
+(5) In this regulation—
+
+- “a commercial loan” is a loan given—
+  - (a) as an investment for financial return, or
+  - (b) towards expenditure which would, if incurred by the authority, be an investment for financial return;
+- “an investment for financial return” is an investment which is made primarily to generate financial return.
+
+### 28. Determination of minimum revenue provision[^key-089f603f9049954cb6fae86ed412dafa]
+
+(1)[^key-329ce7b45662663b67dc04d5a562b4f4] A local authority shall determine for the current financial year an amount of minimum revenue provision which it considers to be prudent.
+
+(2)[^key-b247d772700c28e73de04c5890517ea4] The amount determined under paragraph (1) must include an amount equal to any expected or actual credit loss which—
+
+- (a) relates to a loan given by the local authority to any person or body on or after 7th May 2024, and
+- (b) is recognised by the authority during the current financial year in accordance with proper practices.
+
+(3) A local authority may reduce the amount specified in paragraph (2) by deducting—
+
+- (a) any amount of minimum revenue provision the local authority has already charged to a revenue account in respect of the financing of the loan, and
+- (b) any amount of receipts, capital or otherwise, used to repay the principal of any amount borrowed to finance that loan.
+
+(4)[^key-b5f7c6873feb68ae6068d80808383064] Subject to paragraph (5), a local authority must not reduce its determination of what would otherwise be a prudent amount by the value of any capital receipts used, or to be used, by the authority in accordance with regulation 23(b) or (d) in the financial year to which the determination relates.
+
+(5) Where paragraph (6) applies, the authority may reduce its determination of what would otherwise be a prudent amount—
+
+- (a) in respect of the financing of a loan, by deducting any amount of the capital receipts—
+  - (i) received in respect of that loan during the financial year, and
+  - (ii) used to repay the principal of any amount borrowed to finance that loan;
+- (b) in respect of the financing of a capital asset to which a lease arrangement relates, by deducting any amount of the capital receipts—
+  - (i) received under that arrangement during the financial year, and
+  - (ii) used to meet any liability in respect of that arrangement, other than any liability which, in accordance with proper practices, must be charged to a revenue account.
+
+(6) This paragraph applies where—
+
+- (a) a local authority has—
+  - (i) incurred expenditure through the giving of a loan which is treated as capital expenditure in accordance with regulation 25(1)(b),
+  - (ii) received loan repayments in respect of that loan which are treated as capital receipts in accordance with regulation 7, and
+  - (iii) determined that it will charge minimum revenue provision in respect of the financing of that loan, or
+- (b) a local authority—
+  - (i) has received sums under an arrangement which is treated, in accordance with proper practices, as a finance lease, and
+  - (ii) those sums are treated for the purposes of Chapter 1 of Part 1 (capital finance etc) as capital receipts.
+
+(7) The capital receipts specified in paragraph (5)—
+
+- (a) may not be used to reduce the amount specified in paragraph (2);
+- (b) despite section 9(4) (“capital receipt”), must actually be received by the authority.
+
+### 29. Past deficiencies in minimum revenue provision[^key-423e30f8a6a68b968f23cf08712a4366][^key-54ac99624822816209bc367c60ce2257]
+
+(1) Where in any financial year beginning before 1st April 2007, the amount of minimum revenue provision charged by a local authority to a revenue account is less than the amount required for that year (whether by reason of an error in the calculation of that amount or otherwise)—
+
+- (a) if the local authority has not made a charge to a revenue account on or after 1st April 2004 to correct the insufficient provision, the amount so charged shall be treated as correct and shall not be reconsidered in any circumstances; or
+- (b) if the local authority has made a charge to a revenue account on or after 1st April 2004 to correct the insufficient provision, the local authority may, in a financial year beginning before 1st April 2010, record in a revenue account a credit no greater in value than the amount of that charge.
+
+(2) Any local authority which treats any amount as correct under paragraph (1)(a) shall include a note to that effect in its statement of accounts for a financial year ending no later than 31st March 2010.
+
+(3) Any local authority which records a credit in a revenue account under paragraph (1)(b) shall include a note to that effect in its statement of accounts for the year in which the credit is recorded.
+
+(4) In this regulation, “minimum revenue provision”—
+
+- (a) in relation to financial years beginning before 1st April 2004, has the same meaning as was given in relation to those years in section 63(1) of the Local Government and Housing Act 1989 prior to its repeal; and
+- (b) in relation to subsequent financial years, has the meaning given in regulation 27.
+
+## PART 7 — ACCOUNTS
+
+### 29A. Accounting for capital expenditure[^key-222d72b75a86fa279e0725fc460d520e]
+
+Where expenditure of a local authority—
+
+- (a) is expenditure which falls to be capitalised in accordance with proper practices (“capital expenditure”); or
+- (b) is treated as being capital expenditure by virtue of regulations made, or a direction given, under section 16(2),
+
+that expenditure need not be charged to a revenue account of the local authority.
+
+### 30. Retirement benefits[^key-96b88cd8b0ff1d384a3242c8610a32b9][^key-1c4a98023ae8fd7ab62e77b51174519e]
+
+(1)[^key-37d4b77245db5e2ce6002eb81c777734] For a financial year beginning on or after 1st April 2004, a local authority shall charge to a revenue account an amount equal to the retirement benefits payments and contributions to pension funds which are payable for that financial year in accordance with the statutory requirements mentioned in[^key-7d29d51ecc768936d879c17a285b1806] regulation 4(2).
+
+(2)[^key-7ce823a5f62bd8a98d459e50053d3e18] In relation to any person or body which is a local authority for the purposes of section 21 by virtue of subsection (6)(b), (e), (g), (h), (k) or (l) of that section, this regulation has effect as if the reference in paragraph (1) to 1st April 2004 were a reference to 1st April 2015.
+
+### 30A. Back payment following unequal pay[^key-9ec2d4e450d452829d4d5f7cefadb014]
+
+(1) For the purposes of this regulation—
+
+- (a) a reference to an employee of a local authority includes a reference to a former employee, an officer or a former officer of the authority;
+- (b) a reference to the contract under which an employee was or is employed includes a reference to the terms of appointment under which an officer held or holds office; and
+- (c) an employee of a local authority received unequal pay when the amount of pay he received from the authority for work done by him during a particular period is less than the appropriate amount of pay for that work done during that period.
+
+(2) In this regulation—
+
+- “appropriate amount of pay”, in relation to an employee of a local authority, means the amount of pay to which the employee is entitled in accordance with any equality clause deemed to be included, by virtue of section 1(1) of the Equal Pay Act 1970, in the contract under which he was or is employed;
+- “back payment” means a payment of arrears of remuneration made by a local authority, for work—
+  - (a) done by an employee of the authority;
+  - (b) in respect of which the employee received unequal pay; and
+  - (c) done before the employee first receives any increase in pay as a result of receiving that unequal pay,
+
+  which is paid to the employee, or part of which is paid to the employee (“the net payment”) and part of which is paid to another person on behalf of the employee (“relevant deductions”), because the employee received unequal pay for that work; and
+- “social security costs” means any contributions by a local authority to any state social security or pension scheme, fund or arrangement.
+
+(3) Where a local authority—
+
+- (a) is required by an employment tribunal or a court to make a back payment;
+- (b)
+  - (i) considers that it is probable that an employment tribunal or a court will require it to make a back payment; and
+  - (ii) is able to make a reasonable estimate of the amount of such back payment;
+- (c) has reached an agreement or otherwise determined to make a back payment; or
+- (d)
+  - (i) considers that it is probable that it will reach an agreement or otherwise determine to make a back payment; and
+  - (ii) is able to make a reasonable estimate of the amount of such back payment,
+
+paragraph (4) shall apply.
+
+(4) Where this paragraph applies, the authority need not charge to a revenue account an amount in respect of—
+
+- (a) the back payment; or
+- (b) social security costs or other costs incurred by the authority in relation to that back payment,
+
+until the date on which the authority must pay that back payment, or the net payment, to the employee (as required by the tribunal or court or in accordance with the agreement or determination, as the case may be).
+
+(5)[^key-b8cc76257c5d2aac27866690f48345f6] Subject to paragraph (6), this regulation ceases to have effect on 1st April 2018[^key-02b0db1caf17e7cb8c0217d3856852f7].
+
+(6) Where paragraph (4) applies to an amount, it continues to apply until the date on which the payment is actually made, whether or not the date is on or after 1st April 2018[^key-9526bc4ffca2578e1ae81716a78e8f0d].
+
+### 30AA. Back payments following unequal pay – further temporary accounting treatment[^key-448658a87248f9258fc7c069afe03e77]
+
+(1) For the purposes of this regulation—
+
+- (a) a reference to an employee of a local authority (“E”) includes a reference to a former employee, an officer or a former officer of that authority;
+- (b) a reference to the contract under which E was or is employed includes a reference to the terms of appointment under which an officer held or holds office; and
+- (c) E received unequal pay when the amount of pay E received from the authority for work done by E during a particular period is less than the appropriate amount of pay for that work done during that period.
+
+(2) In this regulation—
+
+- “appropriate amount of pay”, in relation to E, means the amount of pay to which E is entitled in accordance with any sex equality clause deemed to be included, by virtue of section 66(1) of the Equality Act 2010, in the contract under which E was or is employed;
+- “back payment” means a payment of arrears of remuneration made by a local authority, for work—
+  - (a) done by E;
+  - (b) in respect of which E received unequal pay; and
+  - (c) done before E first receives any increase in pay as a result of receiving that unequal pay,
+
+  which is paid to E, or part of which is paid to E (“the net payment”) and part of which is paid to another person on behalf of E (“relevant deductions”), because E received unequal pay for that work; and
+- “social security costs” means any contributions by a local authority to any state social security or pension scheme, fund or arrangement.
+
+(3) Where a local authority—
+
+- (a) is required by an employment tribunal or a court to make a back payment;
+- (b)
+  - (i) considers that it is probable that an employment tribunal or a court will require it to make a back payment; and
+  - (ii) is able to make a reasonable estimate of the amount of such back payment;
+- (c) has reached an agreement or otherwise determined to make a back payment; or
+- (d)
+  - (i) considers that it is probable that it will reach an agreement or otherwise determine to make a back payment; and
+  - (ii) is able to make a reasonable estimate of the amount of such back payment,
+
+paragraph (4) applies.
+
+(4) Where this paragraph applies, the authority need not charge to a revenue account an amount in respect of—
+
+- (a) the back payment; or
+- (b) social security costs or other costs incurred by the authority in relation to that back payment,
+
+until the date on which the authority must pay that back payment, or the net payment, to the employee (as required by the tribunal or court or in accordance with the agreement or determination, as the case may be).
+
+(5) Subject to paragraph (6), this regulation ceases to have effect on 1st April 2020.
+
+(6) Where paragraph (4) applies to an amount, it continues to apply until the date on which the payment is actually made, whether or not the date is on or after 1st April 2020.
+
+### 30B. Early repayment of loans – premiums and discounts at 31st March 2007[^key-227014d32fc013a73b687e4358ad8ccb]
+
+(1) This regulation applies where—
+
+- (a) before 1st April 2007 a local authority repays a loan of money before the date on which the authority is required, in accordance with the terms of the loan, to fully repay the whole or the remaining part of it;
+- (b) as a consequence of such early repayment—
+  - (i) the authority is required to pay a premium to the lender of the loan or is required, in accordance with proper practices, to account for an amount in respect of a premium as if it were required to pay such a premium; or
+  - (ii) the lender of the loan gives the authority a discount on the loan or the authority is required, in accordance with proper practices, to account for an amount in respect of a discount as if the lender had given the authority such a discount; and
+- (c)
+  - (i) in the case of a premium, an amount in respect of the premium included, in accordance with proper practices, in the authority’s balance sheet at 1st April 2007 is less than the amount so included immediately before that date;
+  - (ii) in the case of a discount, an amount in respect of the discount included, in accordance with proper practices, in the authority’s balance sheet at 1st April 2007 is less than the amount so included immediately before that date.
+
+(2) This regulation does not apply in relation to an amount in respect of a discount where, before 1st April 2007, a local authority credited the total amount of the discount to a revenue account in accordance with proper practices or with proper accounting practices which the authority was required to follow at that time.
+
+(2A)[^key-88e6ff8b8202d3f77926b1a6d430eb9d] This regulation does not apply to any person or body which is a local authority for the purposes of section 21 by virtue of subsection (6)(b), (e), (g), (h), (k) or (l) of that section.
+
+(3) Subject to paragraphs (4) and (5), where this regulation applies, in each relevant year, the amount that a local authority shall charge to a revenue account for that year in respect of the premium or credit to a revenue account for that year in respect of the discount, as the case may be—
+
+- (a) in the case of a premium, shall be an amount which is the same as or greater than the amount calculated in accordance with the formula specified in paragraph (6);
+- (b) in the case of a discount, shall be an amount which is the same as or less than the amount calculated in accordance with that formula.
+
+(4) In the case of a premium, where, in relation to a relevant year, the result of the calculation of the formula specified in paragraph (6) is nil, the authority shall not charge any amount to a revenue account for that year in respect of the premium.
+
+(5) By the end of the final year, the total amount charged by the authority to a revenue account in respect of the premium or credited by the authority to a revenue account in respect of the discount shall equal the amount of the premium or the discount, as the case may be.
+
+(6) The formula specified for the purposes of paragraphs (3) and (4) is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2003/3146)
+
+where—
+
+- “A” is—
+  - (a) in the case of a premium, the amount in respect of the premium included in the local authority’s balance sheet immediately before 1st April 2007 less the amount in respect of the premium included in the authority’s balance sheet at 1st April 2007;
+  - (b) in the case of a discount, the amount in respect of the discount included in the local authority’s balance sheet immediately before 1st April 2007 less the amount in respect of the discount included in the authority’s balance sheet at 1st April 2007;
+- “B” is the total of—
+  - (a) in the case of a premium—
+    - (i) any amounts charged to a revenue account before the current year, by virtue of this regulation, in respect of the premium; and
+    - (ii) any capital receipts used on or after 1st April 2007 to pay any part of the premium;
+  - (b) in the case of a discount, any amounts credited to a revenue account before the current year, by virtue of this regulation, in respect of the discount; and
+- “C” is the number of financial years from the current year to the final year inclusive.
+
+(7) In this regulation, any reference to an amount included in an authority’s balance sheet shall, if no such amount was included, be construed as a reference to nil.
+
+(8) In this regulation—
+
+- “current year” means the financial year for which the local authority is calculating the amount to charge or credit to its revenue account in accordance with this regulation;
+- “final year” means—
+  - (a) in the case of a premium—
+    - (i) the financial year in which the whole or the remaining part of the loan would have been due to be fully repaid in accordance with the terms of the loan if the loan had not been repaid before that financial year; or
+    - (ii) if later, the financial year in which the whole or the remaining part of any replacement loan (or, if more than one, the replacement loan which is due to be fully repaid last) is due to be fully repaid in accordance with the terms of the replacement loan;
+  - (b) in the case of a discount—
+    - (i) the financial year in which the whole or the remaining part of the loan would have been due to be fully repaid in accordance with the terms of the loan if the loan had not been repaid before that financial year; or
+    - (ii) if earlier, the financial year which ends on 31st March 2016;
+- “relevant year” means the financial year which begins on 1st April 2007 and each subsequent financial year until, and including, the final year; and
+- “replacement loan” means any loan of money to the local authority some or all of which the authority treats, for accounting purposes, as a replacement for some or all of the loan referred to in sub-paragraph (a) of paragraph (1).
+
+### 30C. Early repayment of loans – premiums and discounts after 31st March 2007
+
+(1) This regulation applies where—
+
+- (a) a local authority repays a loan of money on or after 1st April 2007 but before the date on which the authority is required, in accordance with the terms of the loan, to fully repay the whole or the remaining part of it;
+- (b)[^key-2c47b601cb3567b464a7a12c64a0d7ea] as a consequence of such early repayment—
+  - (i) the authority is required to pay a premium to the lender of the loan or is required, in accordance with proper practices, to account for an amount in respect of a premium as if it were required to pay such a premium; or
+  - (ii) the lender of the loan gives the authority a discount on the loan or the authority is required, in accordance with proper practices, to account for an amount in respect of a discount as if the lender had given the authority such a discount; and
+- (c) the authority is not required, in accordance with proper practices, to include an amount in respect of the premium or the discount, as the case may be, in its balance sheet on or after 1st April 2007.
+
+(2) Subject to paragraphs (3) and (4), where this regulation applies, in the initial year and in each subsequent financial year until, and including, the final year, the amount that the authority shall charge to a revenue account for that year in respect of the premium or credit to a revenue account for that year in respect of the discount, as the case may be—
+
+- (a) in the case of a premium, shall be an amount which is the same as or greater than the amount calculated in accordance with the formula specified in paragraph (5);
+- (b) in the case of a discount, shall be an amount which is the same as or less than the amount calculated in accordance with that formula.
+
+(3) In the case of a premium, where, in relation to a financial year referred to in paragraph (2), the result of the calculation of the formula specified in paragraph (5) is nil, the authority shall not charge any amount to a revenue account for that year in respect of the premium.
+
+(4) By the end of the final year, the total amount charged by the authority to a revenue account in respect of the premium or credited by the authority to a revenue account in respect of the discount shall equal the amount of the premium or the discount, as the case may be.
+
+(5) The formula specified for the purposes of paragraphs (2) and (3) is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2003/3146)
+
+where—
+
+- “D” is the amount of the premium or the amount of the discount, as the case may be;
+- “E” is the total of—
+  - (a) in the case of a premium—
+    - (i) any amounts charged to a revenue account before the current year, by virtue of this regulation, in respect of the premium; and
+    - (ii) any capital receipts used to pay any part of the premium;
+  - (b) in the case of a discount, any amounts credited to a revenue account before the current year, by virtue of this regulation, in respect of the discount; and
+- “F” is the number of financial years from the current year to the final year inclusive.
+
+(5A)[^key-af39579729c52e85f288d89c27fa208f] In relation to any person or body which is a local authority for the purposes of section 21 by virtue of subsection (6)(b), (e), (g), (h), (k) or (l) of that section, this regulation has effect as if the references in paragraph (1)(a) and (c) to 1st April 2007 were references to 1st April 2015.
+
+(6) In this regulation—
+
+- “current year” means the financial year for which the local authority is calculating the amount to charge or credit to its revenue account in accordance with this regulation;
+- “final year” means—
+  - (a) in the case of a premium—
+    - (i) the financial year in which the whole or the remaining part of the loan would have been due to be fully repaid in accordance with the terms of the loan if the loan had not been repaid before that financial year; or
+    - (ii) if later, the financial year in which the whole or the remaining part of any replacement loan (or, if more than one, the replacement loan which is due to be fully repaid last) is due to be fully repaid in accordance with the terms of the replacement loan;
+  - (b) in the case of a discount—
+    - (i) the financial year in which the whole or the remaining part of the loan would have been due to be fully repaid in accordance with the terms of the loan if the loan had not been repaid before that financial year; or
+    - (ii) if earlier, the ninth financial year after the initial year (counting the financial years, immediately following the initial year, consecutively);
+- “initial year” means the financial year in which the loan is repaid; and[^key-c1fd26b5cd3b81c8e89bdcbd75409488]
+- “replacement loan” means any loan of money to the local authority some or all of which the authority treats, for accounting purposes, as a replacement for some or all of the loan referred to in sub-paragraph (a) of paragraph (1).
+
+### 30D. Interest on loans given by local authorities
+
+(1) Where—
+
+- (a) on or after 1st April 2007, a local authority gives a loan to a person;
+- (b) the authority, in accordance with proper practices, includes an amount in respect of that loan in its balance sheet at the end of the financial year in which the loan is given (“the loan year”); and
+- (c) the amount referred to in sub-paragraph (b) is less than the amount of the loan outstanding at the end of the loan year,
+
+paragraph (3) shall apply.
+
+(2) Where—
+
+- (a) a local authority gave a loan to a person before 1st April 2007 and the whole or any remaining part of the loan is outstanding on or after 1st April 2007;
+- (b) the authority, in accordance with proper practices, includes an amount in respect of that loan in its balance sheet at the end of the financial year which began on 1st April 2007 (“the 2007 financial year”); and
+- (c) the amount referred to in sub-paragraph (b) is less than the amount of the loan outstanding at the end of the 2007 financial year,
+
+paragraph (3) shall apply.
+
+(3) Where this paragraph applies, the amount of the interest, if any, in respect of the loan, which the local authority credits to its revenue account—
+
+- (a)
+  - (i) where the loan was given on or after 1st April 2007, in the loan year; or
+  - (ii) where the loan was given before 1st April 2007, in the 2007 financial year; and
+- (b) in each subsequent year until, and including, the financial year in which the whole or any remaining part of the loan is fully repaid,
+
+shall be the amount of the interest, if any, which it is due to receive in that year in accordance with the loan agreement for that loan.
+
+(4)[^key-9131b5b8305f45173d0747a0aa443fed] In relation to any person or body which is a local authority for the purposes of section 21 by virtue of subsection (6)(b), (e), (g), (h), (k) or (l) of that section, this regulation has effect as if—
+
+- (a) the references in paragraphs (1)(a), (2)(a) and (b) and (3)(a) to “1st April 2007” were references to “1st April 2015”; and
+- (b) the references in paragraphs (2)(c) and (3)(a) to “2007 financial year” were references to “2015 financial year”.
+
+### 30E. Interest on stepped interest rate loans taken out by local authorities[^key-694450de46452fe0d66bc350692fdeae]
+
+(1) This regulation applies where on any day before 9th November 2007 a local authority had taken out a stepped interest rate loan.
+
+(2) The local authority shall charge to a revenue account for each financial year beginning with the financial year ending on 31st March 2008 and ending with the last financial year in which the loan agreement subsists—
+
+- (a) the amount of the interest, if any, which it is due to pay in that financial year in accordance with the loan agreement; or
+- (b) an amount calculated in accordance with the accounting practices identified in regulation 31.
+
+(3) In this regulation, “stepped interest rate loan” means a loan taken out by a local authority at an interest rate which increases in one or more increments during the period for which the loan agreement subsists.
+
+(4)[^key-b896c919e045908124dc8eb7c42c25f8] In relation to any person or body which is a local authority for the purposes of section 21 by virtue of subsection (6)(b), (e), (g), (h), (k) or (l) of that section, this regulation has effect as if the reference in paragraph (2) to 31st March 2008 were a reference to 31st March 2016.
+
+### 30F. Financial guarantees given by local authorities
+
+(1) This regulation applies where on any day before 9th November 2007 a local authority had given a financial guarantee on behalf of another person.
+
+(2) The amount the local authority charges to a revenue account with respect to the guarantee for each financial year beginning with the financial year ending on 31st March 2008 and ending with the last financial year in which the risk guaranteed subsists shall be calculated either—
+
+- (a) in accordance with proper practices for the financial year beginning on 1st April 2006; or
+- (b) in accordance with the accounting practices identified in regulation 31.
+
+(3)[^key-350d41393e8f59b47b3ca874b8a475a5] In relation to any person or body which is a local authority for the purposes of section 21 by virtue of subsection (6)(b), (e), (g), (h), (k) or (l) of that section, this regulation has effect as if the reference in paragraph (2) to 31st March 2008 were a reference to 31st March 2016 and as if the reference in sub-paragraph (2)(a) to 1st April 2006 were a reference to 1st April 2015.
+
+### 30G. Impairment of certain investments[^key-f04e0263fbef443669b365d911592eb8]
+
+(1) Where, in relation to a relevant investment, in accordance with proper practices—
+
+- (a) an impairment loss is recognised in a revenue account of the authority for the financial year beginning on 1st April 2008;
+- (b) an impairment loss is recognised in a revenue account of the authority for the financial year beginning on 1st April 2009; or
+- (c) the value of an impairment loss recognised in a revenue account of the authority for the financial year beginning on 1st April 2008 is increased in a revenue account of the authority for the financial year beginning on 1st April 2009,
+
+the local authority may credit to a revenue account for the year in which the loss is recognised, or increased in value, any amount up to the amount of the loss.
+
+(2) A local authority which under paragraph (1) credits an amount to a revenue account for the financial year beginning on 1st April 2008 may debit an amount of up to the value of that credit to a revenue account for the financial year beginning on 1st April 2009.
+
+(3) Subject to paragraph (6), where—
+
+- (a) under paragraph (1) a local authority credits an amount to a revenue account for the financial year beginning on 1st April 2008; and
+- (b) in accordance with proper practices—
+  - (i) the value of the impairment loss that credit relates to is reduced in the financial year beginning on 1st April 2009, and
+  - (ii) the authority credits an amount to a revenue account for that year to recognise that reduction,
+
+the local authority must debit to a revenue account for the financial year beginning on 1st April 2009 an amount equal to the credit mentioned in sub-paragraph (b)(ii).
+
+(4) Subject to paragraph (6), where—
+
+- (a) under paragraph (1) a local authority credits an amount to a revenue account for the year beginning on 1st April 2008; and
+- (b) in accordance with proper practices, the authority credits or has credited any amount to a revenue account before 1st April 2009 in respect of interest on the relevant investment not received on or before the date of the event giving rise to the impairment loss,
+
+the local authority must debit to a revenue account for the financial year beginning on 1st April 2008 an amount equal to the total of the amounts mentioned in sub-paragraph (b).
+
+(5) Subject to paragraph (6), where—
+
+- (a) under paragraph (1) a local authority credits an amount to a revenue account for the year beginning on 1st April 2008 or 1st April 2009; and
+- (b) in accordance with proper practices, the authority credits or has credited any amount to a revenue account before 1st April 2010 in respect of interest on the relevant investment not received on or before the date of the event giving rise to the impairment loss,
+
+to the extent it has not debited an amount under paragraph (4) in respect of the interest, the local authority must debit to a revenue account for the financial year beginning on 1st April 2009 an amount equal to the total of the amounts mentioned in sub-paragraph (b).
+
+(6) A local authority need not under paragraphs (3) to (5) debit to a revenue account a total amount that exceeds the total amount it has credited under paragraph (1).
+
+(7) In paragraph (6), the reference to the total amount credited under paragraph (1) is a reference to that amount as reduced by a debit under paragraph (2).
+
+(8) Where under paragraph (1) a local authority credits an amount to a revenue account, it must debit to a revenue account for the financial year beginning on 1st April 2010 an amount equal to the value of that credit to the extent the credit has not been reversed by debits under paragraphs (2) to (5).
+
+(9) In this regulation, a relevant investment is a local authority investment—
+
+- (a) in a bank;
+- (b) affected by an event in the period commencing on 1st April 2008 and ending on 26th November 2008,
+
+other than an investment of the type described in section 17(1)(e).
+
+### 30H. Short-term accumulating compensated absences[^key-e0b0c19b8f16b70cafa7647ddfc6574e]
+
+(1)[^key-97951bcef8d89234cd5dc70865708063] Where, in accordance with proper practices, a local authority includes an amount in respect of a liability for short-term accumulating compensated absences in its balance sheet, the authority must not charge to a revenue account an amount in respect of that liability until the date on which the liability ceases or is discharged.
+
+(2)[^key-25671607243d7037bbfe7bcf4ec6d108] In relation to any person or body which is a local authority for the purposes of section 21 by virtue of subsection (6)(b), (e), (g), (h), (k) or (l) of that section, this regulation only applies to an amount in respect of a liability for short-term accumulating compensated absences recorded on a balance sheet for a financial year beginning on or after 1st April 2015.
+
+### 30I. Lease classification[^key-75770b108420747e5a6a36ef6b243db3]
+
+(1) Where, on or after 1st April 2009, a local authority receives money under an arrangement—
+
+- (a) which is in existence on, and is not treated according to proper practices as a finance lease at, 31st March 2010, and
+- (b) all or part of that arrangement will be treated according to proper practices as a finance lease on or after 1st April 2010,
+
+the money received under that arrangement may be accounted for in accordance with proper practices applying to that arrangement on 31st March 2010.
+
+(2) Where, on or after 1st April 2009, a local authority receives money under an arrangement—
+
+- (a) which is in existence on, and is not treated according to proper practices as an operating lease at, 31st March 2010, and
+- (b) all or part of that arrangement will be treated according to proper practices as an operating lease on or after 1st April 2010,
+
+the money received under that arrangement may be accounted for in accordance with proper practices applying to that arrangement on 31st March 2010.
+
+### 30J. Special accounting provision in respect of non-domestic rating liabilities[^key-0c7ed74114bb8915b05ccc9445e154e4]
+
+(1) In this regulation—
+
+- “authority” means—
+  - (a) a relevant billing authority; or
+  - (b) a relevant precepting authority;
+- “non-domestic rating income” has the same meaning as in the Non-Domestic Rating (Rates Retention) Regulations 2013;
+- “relevant billing authority” means a billing authority in England within the meaning of section 1(2)(a) of the Local Government Finance Act 1992 other than a billing authority in relation to which paragraph 1A (special provision for calculation of surplus or deficit in respect of specified years) of Schedule 4 to the Non-Domestic Rating (Rates Retention) Regulations 2013 has effect;
+- “relevant precepting authority” means a major precepting authority within the meaning of section 39 of the Local Government Finance Act 1992 other than a police and crime commissioner; and
+- “relevant provision” means provision made by an authority to recognise amounts to be repaid to ratepayers as a consequence of an alteration to a list in accordance with regulations made under section 55 of the Local Government Finance Act 1988 in respect of a day in a financial year prior to the year beginning on 1st April 2013.
+
+(2) Where, in accordance with proper practices, a relevant billing authority is required to recognise a relevant provision in a revenue account for the financial year beginning on 1st April 2013, it may credit to a revenue account an amount equal to 80% of the amount of the relevant provision.
+
+(3) Where, in accordance with proper practices, a relevant precepting authority is required to recognise a relevant provision in a revenue account for the financial year beginning on 1st April 2013, it may credit to a revenue account an amount equal to 80% of the amount found in accordance with paragraph (4).
+
+(4) The amount found in accordance with this paragraph is—
+
+- (a) the sum of the relevant provision that the relevant precepting authority is required to recognise in a revenue account for the financial year beginning on 1st April 2013; less
+- (b) the sum of any amount it is required to recognise in a revenue account as part of that provision as a consequence of the share of non-domestic rating income it received from a billing authority in relation to which paragraph 1A of Schedule 4 to the Non-Domestic Rating (Rates Retention) Regulations 2013 has effect.
+
+(5) An authority which credits an amount to a revenue account under paragraph (2) or (3) must debit an amount equal to 25% of that amount to a revenue account in relation to each of the financial years beginning on 1st April 2014, 1st April 2015, 1st April 2016 and 1st April 2017.
+
+### 30K. Fair value gains and losses of pooled investment funds[^key-023a7b967d0480f89bd67c9c18b65754]
+
+(1) In this regulation—
+
+- “administering authority” means an administering authority as defined in Schedule 1 to the Local Government Pension Scheme Regulations 2013;
+- “fair value” means the fair value of an investment as determined in accordance with proper practices;
+- “fair value gain or loss” means a change in the fair value of an investment;
+- “pooled investment fund” means—
+  - (a) [^key-eb6bf9969170c787c15d36a1569c1e0d]...
+  - (b) a collective investment scheme as defined in section 235(1) of the Financial Services and Markets Act 2000; [^key-802f3778e8e9ed6d276c752517363554]...
+  - (c) an investment scheme approved by the Treasury under section 11(1) of the Trustee Investments Act 1961 (local authority investment schemes); or[^key-1e3f8673640cbb6620f4dd42ba7e465d]
+  - (d) a relevant UCITS.
+
+(2) Where a local authority—
+
+- (a) invests in a pooled investment fund (other than in its capacity as an administering authority in relation to a pension fund), and
+- (b) a fair value gain or loss experienced on the authority’s investment in that pooled investment fund would otherwise be charged to a revenue account by that local authority in accordance with proper practices,
+
+paragraph (3) applies.
+
+(3) Where this paragraph applies, the authority—
+
+- (a) must not charge to a revenue account an amount in respect of that fair value gain or loss; and
+- (b) must charge that amount to an account established, charged and used solely for the purpose of recognising fair value gains and losses in accordance with this regulation.
+
+(4) Paragraph (3) does not apply in respect of—
+
+- (a) an impairment loss in relation to the authority’s investment in a pooled investment fund as recognised in a revenue account of the authority in accordance with proper practices; or
+- (b) a sale or other disposal of the whole or any part of the authority’s investment in a pooled investment fund.
+
+(5)[^key-98986ff7e512b531fc433ea871a1f372] This regulation applies in relation to accounts prepared for financial years falling within the period—
+
+- (a) beginning with 1st April 2018 and ending with 31st March 2025;
+- (b) beginning with 1st April 2025 and ending with 31st March 2029, in respect of an investment mentioned in paragraph (2)(a) that was made before 1st April 2024.
+
+### 30L. Deficit relating to schools budget[^key-f6d18f4bfa3ef5ff7c859412a14d8c3a]
+
+(1) This regulation applies in relation to accounts prepared for the financial years falling within the period beginning with 1st April 2020 and ending with[^key-751c56b63a0c85631a974a61fd92af43] 31st March 2028[^key-1a7727cee90e87e82db4c4d8b066b909].
+
+(2) In this regulation—
+
+- “Dedicated Schools Grant” means the grant of that name paid to a local authority by the Secretary of State under section 14 of the Education Act 2002;
+- “schools budget” has the meaning given in section 45A(2) of the School Standards and Framework Act 1998;
+- “sixth form grant” means a grant of that name paid to a local authority by the Secretary of State under section 14 of the Education Act 2002 in respect of sixth form pupils.
+
+(3) Where a local authority has a deficit in respect of its schools budget for a financial year falling within the period beginning with 1st April 2020 and ending with[^key-ddc6cc8eeb406921cca87fb4e57a3a3a] 31st March 2028[^key-b9261d0fd1123e443fdc1f9b06762e33], the authority—
+
+- (a) must not charge to a revenue account an amount in respect of that deficit; and
+- (b) must charge the amount of the deficit, calculated in accordance with paragraph (4) or (5), to an account established, charged and used solely for the purpose of recognising deficits in respect of its schools budget.
+
+(4) A local authority has a deficit in respect of its schools budget for the financial year beginning on 1st April 2020 if—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2003/3146/images/uksi_20033146_en_epp_081.gif)
+
+where—
+
+- A is the amount of the authority’s expenditure incurred on the schools budget for the financial year beginning on 1st April 2020, recognised in accordance with proper practices;
+- B is the amount of the authority’s accumulated outstanding deficit, if any, in respect of the schools budget, recognised in the authority’s accounts relating to the financial year beginning on 1st April 2019, in accordance with proper practices;
+- C is the amount, if any, that the authority transfers from its general fund in respect of its schools budget expenditure in the financial year beginning on 1st April 2020;
+- D is the amount of the authority’s Dedicated Schools Grant in the financial year beginning on 1st April 2020, recognised in accordance with proper practices;
+- E is the amount of the authority’s accumulated surplus, if any, in respect of the schools budget, recognised in the authority’s accounts relating to the financial year beginning on 1st April 2019, in accordance with proper practices;
+- F is the amount of the authority’s sixth form grant in the financial year beginning on 1st April 2020, recognised in accordance with proper practices.
+
+(5) An authority has a deficit in respect of its school budget for a financial year falling within the period beginning with 1st April 2021 and ending with[^key-c28c79a8e6a5addf56fc31420b251ff4] 31st March 2028[^key-c3180fe8b9c8a795286004d376b49aa7] if—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2003/3146/images/uksi_20033146_en_epp_082.gif)
+
+where—
+
+- G is the amount of the authority’s expenditure incurred on the schools budget for the financial year to which the accounts relate, recognised in accordance with proper practices;
+- H is the amount, if any, that the authority transfers from its general fund in respect of its schools budget expenditure in the financial year to which the accounts relate;
+- I is the amount of the authority’s Dedicated Schools Grant in the financial year to which the accounts relate, recognised in accordance with proper practices;
+- J is the amount of the authority’s accumulated surplus, if any, in respect of the schools budget, carried forward from the preceding financial year, recognised in accordance with proper practices;
+- K is the amount of the authority’s sixth form grant in the financial year to which the accounts relate, recognised in accordance with proper practices.
+
+### 30M. Accounting for infrastructure assets[^key-c8b8120460fab61e8eee0c3bcb562ded]
+
+(1) This regulation applies in relation to a statement of accounts prepared by a local authority in accordance with section 3(3) of the Local Audit and Accountability Act 2014—
+
+- (a) which relates to a financial year beginning on or before 1st April 2028[^key-e8da405decc4585ddff16725ce5d3b7a]; and
+- (b) in respect of which a certificate has not been entered under section 20(2)(a) of that Act.
+
+(2) When preparing a statement of accounts to which this regulation applies, a local authority is not required to make any prior period adjustment to the balances of that statement of accounts in respect of infrastructure assets.
+
+(3) Where a local authority replaces a component of an infrastructure asset, for the purposes of determining the carrying amount to be derecognised in respect of that component (“**the relevant amount**”) the local authority shall either—
+
+- (a) determine the relevant amount as nil; or
+- (b) calculate the relevant amount in accordance with the accounting practices identified in regulation 31.
+
+(4) If a local authority determines the relevant amount in accordance with paragraph (3)(a), it must include a note to that effect in its statement of accounts for the year in relation to which that determination is made.
+
+(5) In this regulation—
+
+- “**carrying amount**” means the amount at which an asset is recognised after deducting any accumulated depreciation and impairment losses;
+- “**derecognised**” means that all or part of an asset or liability is removed from an authority’s balance sheet;
+- “**infrastructure asset**” means an asset owned by a local authority, which there is no prospect of the authority selling or using for any purpose other than that for which it was created, and which forms part of the infrastructure of the authority’s area;
+- “**prior period adjustment**” means a correction of a material accounting error within a local authority’s statement of accounts for a previous financial year.
+
+### 31. Proper practices[^key-5e1f683126a0327c07b10a3713aa035e]
+
+For the purposes of section 21(2) (accounting practices) the accounting practices contained in the following codes of practice and guide are proper practices—
+
+- (a) “[^key-93f6ecbce0a7347f629bdc19563b8d8d]...Code of Practice on Local Authority Accounting in the United Kingdom” published by CIPFA, as amended or reissued from time to time[^f00040];
+- (b)[^key-abe08be023044ceb8e37be58ae2f5ef2] “Service Reporting Code of Practice for Local Authorities” published by CIPFA, as amended or reissued from time to time; [^key-bb1899f1dd8b5154c1e2fe59228f84e7]...
+- (c)[^key-83749d5c773bcfb4c49c87f802650672] in relation only to those authorities which are Category 2 authorities within the meaning of regulation 2(1) of the Accounts and Audit Regulations 2015, and which are not internal drainage boards, “Governance and Accountability for Local Councils: A Practitioners’ Guide (England) March 2014” published jointly by the National Association of Local Councils and the Society for Local Council Clerks, as amended or reissued from time to time; and
+- (d) in relation only to internal drainage boards, “Governance and Accountability in Internal Drainage Boards in England: a Practitioners’ Guide 2006” published by the Association of Drainage Authorities and the Department for Environment, Food and Rural Affairs, as amended or reissued from time to time.
+
+## PART 8 — MISCELLANEOUS PROVISIONS
+
+### 32. Local authorities for the purposes of Part 1 of the Local Government Act 2003 – levying bodies[^key-57316368f496df29946e92baebead43b]
+
+The following levying bodies, within the meaning of section 74 of the Local Government Finance Act 1988 (levies)[^f00043], are specified for the purposes of section 23(1)(o) (local authorities for the purposes of Part 1)—
+
+- (a) the Broads Authority[^f00044];
+- (b) the Lee Valley Regional Park Authority[^f00045];
+- (c) a National Park authority[^f00046];
+- (d) the London Pensions Fund Authority[^f00047]; and
+- (e) the South Yorkshire Pensions Authority[^f00048].
+
+### 33. Use of amounts set aside under the Local Government and Housing Act 1989[^key-128331f0baf398c51d76997d2187fe52]
+
+(1) Subject to paragraph (4),[^key-27e80f457cf6ffd2d39688f21e5d2c81] any local authority—
+
+- (a) whose credit ceiling on 31st March 2004, as determined under Part III of Schedule 3 to the Local Government and Housing Act 1989 (provisions supplementing Part IV – credit ceiling)[^f00049], was a negative amount; and
+- (b) who was a debt-free authority on that date,
+
+may treat the whole or part of[^key-759c459647fd71b48c391b915b87508c] the amount specified in paragraph (2) as if it were a capital receipt to which regulation 23 applies.
+
+(2) Subject to paragraph (3), the amount specified is the amount which was, on 31st March 2004, the amount set aside by the authority (whether voluntarily or pursuant to a requirement under Part IV of the Local Government and Housing Act 1989 (revenue accounts and capital finance of local authorities)) as provision to meet credit liabilities.
+
+(3) The amount specified in paragraph (2) shall not exceed the amount by which the local authority’s credit ceiling on 31st March 2004 was less than nil.
+
+(4)[^key-cac4ca533fcde671343b8145878288aa] Any decision to treat the whole or part of the amount specified in paragraph (2) as if it were a capital receipt, by virtue of paragraph (1), shall be made by the local authority before 1st October 2005.
+
+(5) Any amount treated as if it were a capital receipt, by virtue of paragraph (1), shall be treated as if it were received during the financial year beginning on 1st April 2004.
+
+### 34. Loans to qualifying local government bodies[^key-ad3b50f198bd1b74d4b35cd4e338c78c]
+
+For the purposes of paragraph 4 of Schedule 1 (loans by parish councils and charter trustees) any local authority which is a local authority for the purposes of Part 1 or Schedule 1 is specified as a qualifying local government body.
+
+Signed by authority of the First Secretary of State
+
+Nick Raynsford
+
+Minister of State,
+
+Office of the Deputy Prime Minister
+
+3rd December 2003
+
+## SCHEDULE — Calculation of the sub-liability[^key-a59677aceff0b8728d0e5d71b94b92ef]
+
+Regulation 1(5)
+
+**1.** (1) This Schedule applies to capital receipts derived from dwellings disposed of by the local authority on or after 1st April 2012—
+
+- (a) under Part V of the Housing Act 1985;
+- (b) to a secure tenant for an amount that is less than the market value of the dwelling; or
+- (c) by a grant of a shared ownership lease to a tenant of the local authority where—
+  - (i) a premium (which is a portion of the market value of the disposed dwelling) was paid and that portion exceeded 50% of the market value of the disposed dwelling; or
+  - (ii) within 2 years of the grant of the shared ownership lease, a premium is paid to acquire a further portion of the disposed dwelling so that the total portion of the market value of the disposed dwelling owned by the tenant is more than 50%.
+
+(2) This Schedule does not apply to capital receipts derived from the disposal of dwellings that are the subject of an agreement made under section 80B of the Local Government and Housing Act 1989.
+
+**2.** In this Schedule—
+
+- “available buy back allowance” is an amount calculated in accordance with paragraph 3(2);
+- “assumed debt” is an amount calculated in accordance with paragraph 4A;[^key-a049bcb733fbbfe481bb1489f66380e6]
+- “attributable debt” means the amount of debt associated with a dwelling subject to the duty under section 74 of the Local Government and Housing Act 1989 (duty to keep a housing revenue account) set out in “the table of debt associated with HRA properties” dated 31st March 2013 which is published on the website of GOV.UK and deposited at the Department’s principal office;
+- “buy back allowance” is an amount calculated in accordance with paragraph 3;
+- “local authority share cap” is an amount calculated in accordance with paragraph 4B;[^key-926728689d555a50babb90caf940f7e9]
+- “London authorities” means—
+  - (i) a London borough council; and
+  - (ii) the Common Council of the City of London;
+- “pooling period” means one of the following periods—[^key-f729ba727aa66409d3ab6d741a0bf012]
+  - (a) a quarter beginning before 1st April 2021;
+  - (b) a financial year beginning on or after 1st April 2021;
+- “pooling period 1” means the period from 1st April 2012 to 30th June 2012;
+- “previous financial year” means the financial year before the relevant financial year;[^key-350daccc3b5afaeeb652b839284606e1]
+- “quarter” means one of the following periods—
+  - (a) 1st April to 30th June;
+  - (b) 1st July to 30th September;
+  - (c) 1st October to 31st December;
+  - (d) 1st January to 31st March;
+- [^key-577db01f8eabd69f3f4cc0de0de52f1e]...
+- “relevant financial year” means, in relation to the calculation of the sub-liability, the financial year to which the calculation relates;
+- [^key-c733c36d5b7f12c505c8defe05d680c1]...
+- “transaction cost” means in relation to—
+  - (i) London authorities, £2850:
+  - (ii) local authorities that are not London authorities, £1300.
+
+**3.** (1) The buy back allowance for the relevant financial year[^key-6da2dae3722b6574e0039f553f532573] means 50% of the relevant costs of buying back a relevant interest in the relevant financial year where—
+
+- (a) “relevant costs” means the expenditure incurred by the authority in the relevant financial year including administrative and incidental costs; and
+- (b) “relevant interest” means a freehold or leasehold interest in a dwelling—
+  - (i) that has previously been disposed of by the authority, another authority, a new town corporation, a housing action trust or an urban development corporation;
+  - (ii) that was not acquired pursuant to a compulsory purchase order; and
+  - (iii) was not acquired from a body of persons corporate or unincorporate.
+
+(2) The available buy back allowance in respect of a relevant financial year is calculated as follows—[^key-6da2dae3722b6574e0039f553f532573][^key-af27cd436c1137627b586cf72248109b]
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2003/3146)
+
+.
+
+**4.** In this Schedule—
+
+- A means the total receipts received from the disposal of dwellings in the relevant financial year[^key-2bf79ee4dc95f92a70c725ac446a013b];
+- A\* means the value of A in the previous financial year[^key-88f6b629d0abea510b88d60a11d594d3];
+- B means the total of the attributable debt associated with the dwellings disposed of from 1st April 2012 to the last day of the relevant financial year;
+- C means the total of the assumed debt for each pooling period[^key-3359a32243fdc664d1dc12cd0ec26e59] from pooling period 1[^key-d71d977a97810a02170f8c712a826bcf] to the relevant financial year;
+- D means the local authority share cap for the relevant financial year;
+- E means the total transaction cost calculated in accordance with paragraph 5;
+- E\* means the total transaction cost for the previous financial year;
+- F has the meaning set out in paragraph 11, except for the[^key-21f3bbb1be09f13b203b1ea5439593d8] pooling periods[^key-c8c3e9c8d6043c1100a7a9e703b0579b] during the period 1 April 2012 to 31 March 2013 where the value of F shall be the amount calculated as F on the due date for each of those pooling periods.
+- F\* means the value of F for the previous financial year;
+- F\*\* means the total of the value of F for each pooling period[^key-ddfbd3839b060a168b9e306926e636bd] from pooling period 1[^key-011e3ed0f6e4c446b56af416b97b5d82] to the previous financial year;
+- F\*\*\* has the meaning set out in paragraph 6;
+- G has the meaning set out in paragraph 8;
+- G\*means the value for G in the previous financial year;
+- H means the transaction cost;
+- I means the number of disposals of dwellings during the relevant financial year;
+- J means deductible buy back allowance for the relevant financial year and is calculated in accordance with paragraph 12;
+- J\* means the value of J for the previous financial year;
+- K means the sub-liability for the relevant financial year and is calculated in accordance with paragraph 13;
+- K\* means the value of K for the previous financial year;
+- L is calculated in accordance with paragraph 10;
+- L\* means the value of L for the previous financial year;
+- L\*\* has the meaning set out in paragraph 9(1);[^key-a102a258161e1d910d8cf588ae86d1b2]
+- M has the meaning set out in paragraph 7 ; and[^key-2c576b948f38d4497fca08f0a0e5597b]
+- N\* means the assumed debt for the previous financial year;[^key-62b8f646154aa51ca1b8d1314c0c3eb1]
+- O\* means the local authority share cap for the previous financial year;
+- P has the meanings set out in paragraph 9(2) and (4);[^key-aeb25c34aa3dc9a03a0a59a978ce4ae4]
+- P\* means the value of P for the previous financial year.
+
+**4A.**[^key-a40895ec0efecc196653dc61f5116b97] Subject to paragraph 4C,[^key-dc3ef3efc3ffba73971f7e224be2f265] the assumed debt is—
+
+- (a) in the financial year beginning on 1st April 2021, the amount of debt assumed to be associated with a local authority in that year as set out in Table A in this Schedule; and
+- (b) in each subsequent financial year—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2003/3146)
+
+**4B.** Subject to paragraph 4D,[^key-56e64839c7159b36977a69a053e79a99] the local authority share cap is—
+
+- (a) in the financial year beginning on 1st April 2021, the amount attributable to an authority set out in Table B in this Schedule; and
+- (b) in each subsequent financial year—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2003/3146)
+
+.
+
+**4C.**[^key-463a45501f56bc95bf6840ad8d1759ce] (1) This paragraph applies to North Yorkshire Council, Somerset Council and Westmorland and Furness Council.
+
+(2) The assumed debt is—
+
+- (a) in the financial year beginning on 1st April 2023, the amount of debt assumed to be associated with a local authority in that year as set out in Table AA in this Schedule; and
+- (b) in each subsequent financial year —N\* × 1.01.
+
+(3) The local authority share cap is—
+
+- (a) in the financial year beginning on 1st April 2023, the amount attributable to an authority set out in Table BB in this Schedule; and
+- (b) in each subsequent financial year—O\* × 1.01.
+
+**5.** E (the total transaction cost) means—
+
+[formula: HxI](https://www.legislation.gov.uk/uksi/2003/3146)
+
+.
+
+**6.** F\*\*\* means—
+
+[formula: B-C](https://www.legislation.gov.uk/uksi/2003/3146)
+
+except where [formula: see source](https://www.legislation.gov.uk/uksi/2003/3146) is less than zero, F\*\*\* means—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2003/3146)
+
+.
+
+**7.** M means [formula: see source](https://www.legislation.gov.uk/uksi/2003/3146)
+
+**8.** G means—
+
+- (a)[^key-296a19bf4aa67d49c3219082ce4882da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) [^key-9e95a583132dd6a38c902cb046df9ab5]...
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2003/3146)
+
+  .
+
+**9.**[^key-c47d9af468bd070fc6a9623053230c4d] (1) L\*\* means—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2003/3146)
+
+(2) Subject to sub-paragraph (3),[^key-fbf5bf410fcd1b7a8eb199af28b31417] P means—
+
+- (a) in the financial year beginning on 1st April 2021, 77,988,112.73;
+- (b) in each subsequent financial year—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2003/3146)
+
+(3)[^key-e1d09663d11d8e35e74887acbfe36248] In the case of North Yorkshire Council, Somerset Council and Westmorland and Furness Council, P means—
+
+- (a) in the financial year beginning on 1st April 2023, 79,555,673.79;
+- (b) in each subsequent financial year—P\* × 1.01.
+
+.
+
+**10.** L means—
+
+- (a)[^key-90ec83f161afad67b97ae2b982a3a34e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) [^key-a77f6a8db97c77af3da14b30ebd97fa3]...
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2003/3146)
+
+  .
+
+**11.** F means—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2003/3146)
+
+except where [formula: see source](https://www.legislation.gov.uk/uksi/2003/3146) is greater than [formula: see source](https://www.legislation.gov.uk/uksi/2003/3146), F means—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2003/3146)
+
+.
+
+**12.** J means an amount of the available buy back allowance that does not exceed—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2003/3146)
+
+except where [formula: see source](https://www.legislation.gov.uk/uksi/2003/3146) is less than zero, J means zero.
+
+**13.** K means—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2003/3146)
+
+except where [formula: see source](https://www.legislation.gov.uk/uksi/2003/3146) is less than zero, K means—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2003/3146)
+
+.
+
+Table A – Assumed debt for each quarter in a year[^key-80e3c85b933243abad1af8f3d2b95766]
+
+| Authority | Financial year 2021-22 (£) |
+| --- | --- |
+| Adur | 121,501.92 |
+| Arun | 154,866.00 |
+| Ashfield | 223,586.81 |
+| Ashford | 226,722.39 |
+| Babergh | 183,694.98 |
+| Barking and Dagenham | 437,460.99 |
+| Barnet | 406,060.42 |
+| Barnsley | 920,875.76 |
+| [^key-bfdaf2c36ec7aadd5656db4946f2d02d]. . . | [^key-bfdaf2c36ec7aadd5656db4946f2d02d]. . . |
+| Basildon | 445,232.82 |
+| Bassetlaw | 295,007.26 |
+| Birmingham | 3,177,505.20 |
+| Blackpool | 218,231.83 |
+| Bolsover | 321,921.94 |
+| Bournemouth Christchurch and Poole | 280,828.78 |
+| Brent | 326,902.80 |
+| Brentwood | 133,393.70 |
+| Brighton & Hove | 295,270.41 |
+| Bristol | 465,342.02 |
+| Broxtowe | 231,776.69 |
+| Bury | 816,843.05 |
+| Cambridge | 443,177.32 |
+| Camden | 787,065.94 |
+| Cannock Chase | 261,853.19 |
+| Canterbury | 213,673.00 |
+| Castle Point | 73,949.58 |
+| Central Bedfordshire | 312,731.01 |
+| Charnwood | 244,915.27 |
+| Cheltenham | 95,303.52 |
+| Cheshire West and Chester | 640,495.66 |
+| Chesterfield | 433,463.76 |
+| City of London | 37,679.87 |
+| City of York | 446,134.60 |
+| Colchester | 276,328.10 |
+| Cornwall | 228,279.83 |
+| Crawley | 500,994.25 |
+| Croydon | 493,371.27 |
+| Dacorum | 697,462.93 |
+| Darlington | 264,974.47 |
+| Dartford | 164,937.47 |
+| Derby | 661,899.62 |
+| Doncaster | 837,251.17 |
+| Dover | 172,164.15 |
+| Dudley | 1,293,022.83 |
+| Ealing | 339,902.21 |
+| East Devon | 156,993.07 |
+| East Riding | 700,597.96 |
+| East Suffolk | 171,928.90 |
+| Eastbourne | 83,791.70 |
+| Enfield | 319,155.58 |
+| Epping Forest | 365,205.77 |
+| Exeter | 102,772.22 |
+| Fareham | 108,512.40 |
+| Folkestone and Hythe | 116,558.79 |
+| Gateshead | 1,358,442.25 |
+| Gosport | 109,552.45 |
+| Gravesham | 222,830.17 |
+| Great Yarmouth | 177,431.34 |
+| Greenwich | 489,596.44 |
+| Guildford | 371,600.55 |
+| Hackney | 238,601.47 |
+| Hammersmith and Fulham | 389,597.53 |
+| Haringey | 492,679.19 |
+| Harlow | 421,248.80 |
+| [^key-5f325673da924546d630e4b8e6cb3810]. . . | [^key-5f325673da924546d630e4b8e6cb3810]. . . |
+| Harrow | 209,583.78 |
+| Havering | 318,422.68 |
+| High Peak | 190,099.89 |
+| Hillingdon | 446,945.81 |
+| Hinckley and Bosworth | 200,221.60 |
+| Hounslow | 397,517.95 |
+| Ipswich | 285,544.27 |
+| Islington | 740,259.63 |
+| Kensington and Chelsea | 333,813.49 |
+| Kingston upon Hull | 988,413.41 |
+| Kingston upon Thames | 224,335.94 |
+| Kirklees | 763,213.87 |
+| Lambeth | 622,385.34 |
+| Lancaster | 361,077.12 |
+| Leeds | 2,232,621.80 |
+| Leicester | 603,374.30 |
+| Lewes | 138,336.33 |
+| Lewisham | 202,345.86 |
+| Lincoln | 184,690.60 |
+| Luton | 258,421.48 |
+| Manchester | 962,910.28 |
+| Mansfield | 265,824.60 |
+| Medway Towns | 87,036.36 |
+| Melton | 93,497.31 |
+| Mid Devon | 96,747.13 |
+| Mid Suffolk | 156,340.12 |
+| Milton Keynes | 491,774.91 |
+| New Forest | 294,767.63 |
+| Newark and Sherwood | 307,475.13 |
+| Newcastle upon Tyne | 1,454,616.23 |
+| Newham | 377,991.90 |
+| North East Derbyshire | 496,343.87 |
+| North Kesteven | 216,480.80 |
+| North Northamptonshire | 422,261.02 |
+| North Tyneside | 1,071,143.29 |
+| North Warwickshire | 188,579.70 |
+| North West Leicestershire | 251,520.81 |
+| Northumberland | 416,855.05 |
+| Norwich | 470,484.81 |
+| Nottingham | 924,230.54 |
+| Nuneaton | 268,249.85 |
+| Oadby & Wigston | 60,711.45 |
+| Oldham | \-3,107.63 |
+| Oxford City | 442,269.24 |
+| Portsmouth | 343,180.46 |
+| Reading | 400,823.58 |
+| Redbridge | 150,455.65 |
+| Redditch | 296,808.31 |
+| [^key-0288962c28be4077dbf589e09e26145e]. . . | [^key-0288962c28be4077dbf589e09e26145e]. . . |
+| Rotherham | 1,020,513.09 |
+| Rugby | 249,810.92 |
+| Runnymede | 196,165.06 |
+| Salford | 56,817.91 |
+| Sandwell | 1,504,657.58 |
+| [^key-7e00af74d7e30d2dffb02c20d308d0d5]. . . | [^key-7e00af74d7e30d2dffb02c20d308d0d5]. . . |
+| [^key-d5298d0282e245475296859fe6ba9071]. . . | [^key-d5298d0282e245475296859fe6ba9071]. . . |
+| Sheffield | 1,207,881.23 |
+| Shropshire | 274,963.07 |
+| Slough | 340,266.55 |
+| Solihull | 547,623.09 |
+| [^key-9220614e33f9c90bf3ff1e341fe59bef]. . . | [^key-9220614e33f9c90bf3ff1e341fe59bef]. . . |
+| South Cambridgeshire | 407,718.64 |
+| South Derbyshire | 186,144.15 |
+| South Holland | 208,059.98 |
+| South Kesteven | 376,252.60 |
+| South Tyneside | 1,125,930.45 |
+| Southampton | 375,193.06 |
+| Southend-on-Sea | 200,002.51 |
+| Southwark | 891,989.48 |
+| St Albans | 375,638.28 |
+| Stevenage | 428,687.55 |
+| Stockport | 883,258.96 |
+| Stoke-on-Trent | 550,670.65 |
+| Stroud | 175,802.47 |
+| Sutton | 268,536.85 |
+| Swindon | 306,768.45 |
+| Tamworth | 236,922.62 |
+| Tandridge | 137,672.93 |
+| Tendring | 118,827.28 |
+| Thanet | 52,208.15 |
+| Thurrock | 368,682.80 |
+| Tower Hamlets | 278,674.37 |
+| Uttlesford | 178,281.22 |
+| Waltham Forest | 288,537.06 |
+| Wandsworth | 812,153.97 |
+| Warwick | 449,176.82 |
+| Waverley | 368,222.67 |
+| Wealden | 122,106.72 |
+| Welwyn Hatfield | 601,654.37 |
+| West Lancashire | 561,957.76 |
+| West Northamptonshire | 580,800.18 |
+| Westminster | 493,992.90 |
+| Wigan | 2,131,858.94 |
+| Wiltshire | 220,606.38 |
+| Winchester | 315,490.53 |
+| Woking | 193,706.96 |
+| Wokingham | 199,206.04 |
+| Wolverhampton | 1,065,452.06 |
+
+Table AA[^key-23669833c419e65c22851bf6ea4963a6]
+
+| Authority | Financial year 2023-24 (£) |
+| --- | --- |
+| North Yorkshire | 553,283.65 |
+| Somerset | 326,762.96 |
+| Westmorland and Furness | 220,885.97 |
+
+Table B – Local authority share cap for each quarter in a year[^key-16c45f7c1867f366e0e9eb08fc8fda32]
+
+| Authority | Financial year 2021-22 (£) |
+| --- | --- |
+| Adur | 128,167.99 |
+| Arun | 132,079.04 |
+| Ashfield | 236,715.31 |
+| Ashford | 206,977.25 |
+| Babergh | 139,126.13 |
+| Barking and Dagenham | 553,630.35 |
+| Barnet | 745,590.60 |
+| Barnsley | 709,950.38 |
+| [^key-7884b4edebca4419f88c39daeb52f3e6]. . . | [^key-7884b4edebca4419f88c39daeb52f3e6]. . . |
+| Basildon | 439,046.76 |
+| Bassetlaw | 236,713.97 |
+| Birmingham | 2,648,001.97 |
+| Blackpool | 357,932.42 |
+| Bolsover | 193,051.82 |
+| Bournemouth Christchurch and Poole | 389,450.36 |
+| Brent | 556,793.45 |
+| Brentwood | 160,784.57 |
+| Brighton & Hove | 525,932.88 |
+| Bristol | 900,023.15 |
+| Broxtowe | 177,698.91 |
+| Bury | 601,079.44 |
+| Cambridge | 483,252.66 |
+| Camden | 2,019,791.79 |
+| Cannock Chase | 222,897.46 |
+| Canterbury | 229,893.28 |
+| Castle Point | 64,288.70 |
+| Central Bedfordshire | 218,359.10 |
+| Charnwood | 280,621.01 |
+| Cheltenham | 168,330.18 |
+| Cheshire West and Chester | 502,868.20 |
+| Chesterfield | 394,178.19 |
+| City of London | 149,589.89 |
+| City of York | 502,564.36 |
+| Colchester | 215,950.48 |
+| Cornwall | 464,689.29 |
+| Crawley | 439,568.51 |
+| Croydon | 857,823.71 |
+| Dacorum | 664,427.59 |
+| Darlington | 267,618.46 |
+| Dartford | 172,657.05 |
+| Derby | 528,146.66 |
+| Doncaster | 853,986.53 |
+| Dover | 125,259.63 |
+| Dudley | 978,990.73 |
+| Ealing | 647,909.92 |
+| East Devon | 184,141.73 |
+| East Riding | 558,986.84 |
+| East Suffolk | 135,518.30 |
+| Eastbourne | 119,862.20 |
+| Enfield | 581,668.68 |
+| Epping Forest | 357,685.51 |
+| Exeter | 180,883.14 |
+| Fareham | 83,354.09 |
+| Folkestone and Hythe | 93,482.51 |
+| Gateshead | 1,177,667.44 |
+| Gosport | 118,434.75 |
+| Gravesham | 222,692.39 |
+| Great Yarmouth | 155,673.04 |
+| Greenwich | 988,867.61 |
+| Guildford | 294,818.67 |
+| Hackney | 1,386,199.19 |
+| Hammersmith and Fulham | 898,753.34 |
+| Haringey | 736,148.55 |
+| Harlow | 423,113.61 |
+| [^key-2f7238b9f457b285db2be79b77a8b8f8]. . . | [^key-2f7238b9f457b285db2be79b77a8b8f8]. . . |
+| Harrow | 330,166.53 |
+| Havering | 463,375.67 |
+| High Peak | 166,253.15 |
+| Hillingdon | 498,778.37 |
+| Hinckley and Bosworth | 177,066.65 |
+| Hounslow | 839,043.23 |
+| Ipswich | 240,161.65 |
+| Islington | 1,611,323.41 |
+| Kensington and Chelsea | 494,889.65 |
+| Kingston upon Hull | 664,969.75 |
+| Kingston upon Thames | 293,883.31 |
+| Kirklees | 858,005.92 |
+| Lambeth | 1,422,189.56 |
+| Lancaster | 304,854.29 |
+| Leeds | 2,450,179.39 |
+| Leicester | 725,562.12 |
+| Lewes | 172,309.32 |
+| Lewisham | 820,611.82 |
+| Lincoln | 225,591.59 |
+| Luton | 277,413.42 |
+| Manchester | 1,088,197.60 |
+| Mansfield | 202,070.09 |
+| Medway Towns | 112,486.65 |
+| Melton | 64,462.05 |
+| Mid Devon | 98,501.90 |
+| Mid Suffolk | 134,278.55 |
+| Milton Keynes | 355,448.22 |
+| New Forest | 244,575.80 |
+| Newark and Sherwood | 188,791.27 |
+| Newcastle upon Tyne | 1,102,721.41 |
+| Newham | 756,445.92 |
+| North East Derbyshire | 274,422.35 |
+| North Kesteven | 170,629.47 |
+| North Northamptonshire | 325,764.92 |
+| North Tyneside | 798,533.64 |
+| North Warwickshire | 136,847.90 |
+| North West Leicestershire | 252,939.42 |
+| Northumberland | 594,384.95 |
+| Norwich | 467,525.99 |
+| Nottingham | 887,966.30 |
+| Nuneaton | 249,063.00 |
+| Oadby & Wigston | 65,141.12 |
+| Oldham | 119,477.82 |
+| Oxford City | 656,422.01 |
+| Portsmouth | 395,246.44 |
+| Reading | 385,564.44 |
+| Redbridge | 247,590.32 |
+| Redditch | 330,810.31 |
+| [^key-4a7164d13278159085bfa8633b4a9bdd]. . . | [^key-4a7164d13278159085bfa8633b4a9bdd]. . . |
+| Rotherham | 812,153.49 |
+| Rugby | 209,978.15 |
+| Runnymede | 185,563.65 |
+| Salford | 87,250.52 |
+| Sandwell | 1,149,500.98 |
+| [^key-3b7c56dfde9ac2d7301458d4674a1c1d]. . . | [^key-3b7c56dfde9ac2d7301458d4674a1c1d]. . . |
+| [^key-8d3659ffc0439115a649dab17029f35f]. . . | [^key-8d3659ffc0439115a649dab17029f35f]. . . |
+| Sheffield | 1,423,534.79 |
+| Shropshire | 248,747.82 |
+| Slough | 351,607.38 |
+| Solihull | 599,562.14 |
+| [^key-40323afa132f4c53c7932cf1f6dd4330]. . . | [^key-40323afa132f4c53c7932cf1f6dd4330]. . . |
+| South Cambridgeshire | 202,190.86 |
+| South Derbyshire | 132,792.19 |
+| South Holland | 183,226.03 |
+| South Kesteven | 341,076.00 |
+| South Tyneside | 863,711.96 |
+| Southampton | 494,472.86 |
+| Southend-on-Sea | 235,373.93 |
+| Southwark | 1,816,559.92 |
+| St Albans | 398,068.64 |
+| Stevenage | 367,885.88 |
+| Stockport | 917,765.35 |
+| Stoke-on-Trent | 562,413.38 |
+| Stroud | 196,450.29 |
+| Sutton | 307,995.25 |
+| Swindon | 309,416.61 |
+| Tamworth | 178,165.09 |
+| Tandridge | 159,330.12 |
+| Tendring | 130,994.81 |
+| Thanet | 83,576.03 |
+| Thurrock | 439,693.01 |
+| Tower Hamlets | 740,233.45 |
+| Uttlesford | 181,362.89 |
+| Waltham Forest | 558,187.18 |
+| Wandsworth | 1,097,179.82 |
+| Warwick | 409,529.79 |
+| Waverley | 323,488.62 |
+| Wealden | 142,467.71 |
+| Welwyn Hatfield | 574,039.94 |
+| West Lancashire | 345,820.52 |
+| West Northamptonshire | 457,055.32 |
+| Westminster | 1,241,590.14 |
+| Wigan | 1,603,927.75 |
+| Wiltshire | 286,863.65 |
+| Winchester | 325,208.77 |
+| Woking | 228,339.41 |
+| Wokingham | 124,528.22 |
+| Wolverhampton | 919,699.30 |
+
+Table BB[^key-6532bf240456f02e655a69ceda6c3634]
+
+| Authority | Financial year 2023-24 (£) |
+| --- | --- |
+| North Yorkshire | 658,195.63 |
+| Somerset | 285,289.81 |
+| Westmorland and Furness | 184,982.56 |
+
+(This note is not part of the Regulations)
+
+These Regulations make provisions for capital finance and accounts under Part 1 of the Local Government Act 2003 (“the 2003 Act”). The capital finance provisions in and under Part IV of the Local Government and Housing Act 1989 (including the Local Authorities (Capital Finance) Regulations 1997) are repealed or revoked, as the case may be, on or before 1st April 2004 by virtue of the 2003 Act, with savings and transitional provisions (*see* the Local Government Act 2003 (Commencement No. 1 and Transitional Provisions and Savings) Order 2003).
+
+These Regulations apply only in relation to local authorities in England. Some of the provisions do not apply in relation to parish councils and charter trustees (**regulation 1**).
+
+**Regulation 2** requires a local authority and the Mayor of London to have regard to the “Prudential Code for Capital Finance in Local Authorities” when determining, under section 3 of the 2003 Act, how much money they can afford to borrow.
+
+**Regulations 3 and 4** make provision excluding certain liabilities from the definition of “qualifying liabilities”, under section 7 of the 2003 Act, so that certain transactions are not credit arrangements.
+
+**Regulation 5** makes provision for varied transactions to be credit arrangements and **regulation 6** sets out how the cost of credit arrangements are to be calculated.
+
+**Regulations 7 to 11** provide for certain sums received by a local authority to be treated, or not to be treated, as capital receipts.
+
+**Regulation 12** makes provision requiring a specified amount of capital receipts from disposals of housing land, other than qualifying disposals, to be paid to the Secretary of State. This is subject to certain reductions (**regulations 14 to 21**). Interest is payable (out of capital receipts) to the Secretary of State on late payments of the specified amount (**regulation 13**). **Regulation 22** provides for the calculation of notional capital receipts where the consideration for a disposal of housing land does not consist wholly of money.
+
+**Regulation 23** provides that capital receipts may only be used for specified purposes.
+
+In carrying out its capital finance functions, a local authority must have regard to the code of practice in “Treasury Management in the Public Services: Code of Practice and Cross-Sectoral Guidance Notes” (**regulation 24**).
+
+**Regulations 25 and 26** provide for expenditure which is, and which is not, to be treated as capital expenditure for the purposes of Chapter 1 of Part 1 of the 2003 Act.
+
+**Regulation 27** provides that local authorities must charge to a revenue account a minimum amount (“minimum revenue provision”), and may charge to a revenue account an additional amount, in respect of the financing of capital expenditure. The minimum revenue provision is calculated in accordance with **regulations 28 to 29**. Parish councils and charter trustees may charge to a revenue account any amount in respect of the financing of capital expenditure (**regulation 27(2)**).
+
+**Regulation 30** requires a local authority to charge to a revenue account for a financial year an amount equal to retirement benefits payments and contributions to pension funds payable for that year.
+
+For the purposes of the definition of “proper practices” in section 21 of the 2003 Act, **regulation 31** identifies certain documents that contain accounting practices.
+
+**Regulation 32** specifies certain levying bodies that are to be local authorities for the purposes of Part 1 of the 2003 Act.
+
+Under **regulation 33**, a debt-free local authority with a negative credit ceiling on 31st March 2004, may use the amount, which on that date was the amount it set aside as provision to meet credit liabilities under the Local Government and Housing Act 1989, as if it were a capital receipt to which regulation 23 applies. The amount may not exceed the amount by which the authority’s credit ceiling was less than nil.
+
+Any local authority which is a local authority for the purposes of Part 1 of, or Schedule 1 to, the 2003 Act is specified by **regulation 34** as a qualifying local government body for the purposes of paragraph 4 of Schedule 1 (loans by parish councils and charter trustees).
+
+The following documents may be obtained either by post from CIPFA, 3 Robert Street, London WC2N 6RL or from their website at www.cipfa.org.uk/shop:
+
+- (a) The “Prudential Code for Capital Finance in Local Authorities”;
+- (b) The “Treasury Management in the Public Services: Code of Practice and Cross-Sectoral Guidance Notes”;
+- (c) “A Statement of Recommended Practice: Code of Practice on Local Authority Accounting in the United Kingdom”; and
+- (d) “Best Value Accounting Code of Practice”.
+
+“Governance and Accountability in Local Councils in England and Wales: A Practitioners' Guide 2003 Edition” may be obtained by post from the Society of Local Council Clerks, 1 The Crescent, Taunton, Somerset TA1 4EA.
+
+The Item 8 Credit and Item 8 Debit (General) Determination 2003-2004 may be obtained by post from ODPM, Local Housing Authority Division, Zone 2/J3, Eland House, Bressenden Place, London SW1E 5DU.
+
+A full regulatory impact assessment has not been produced for this instrument, as it has no impact on the costs of businesses, charities or voluntary bodies.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26).
+
+[^key-359c144b0e9e2619169690f124582a31]: Commencement: Reg. 1 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^key-3998ba983b7eeb49109b5923b36cc6ef]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/2) substituted (1.4.2015) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2015 (S.I. 2015/341)](https://www.legislation.gov.uk/uksi/2015/341), [regs. 1](https://www.legislation.gov.uk/uksi/2015/341/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/341/regulation/2/2/a)
+
+[^key-93bf456fe629077afe33a16379953bfe]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/3) inserted (1.4.2025) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2024 (S.I. 2024/478)](https://www.legislation.gov.uk/uksi/2024/478), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/478/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/478/regulation/2/2/a)
+
+[^key-2afc0fab85bffac774c0741e22c68fd1]: Textual amendment: [Reg. 1(3A)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/3A) substituted (1.4.2025) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2024 (S.I. 2024/478)](https://www.legislation.gov.uk/uksi/2024/478), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/478/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/478/regulation/2/2/b)
+
+[^key-a1bb0b07cedd4268b28f07a154451607]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) inserted (16.12.2004) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) (No. 2) Regulations 2004 (S.I. 2004/3055)](https://www.legislation.gov.uk/uksi/2004/3055), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/2/a)
+
+[^key-db096c1d94a6080c7a7a88c5ac79c22b]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) inserted (1.4.2006) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2006 (S.I. 2006/521)](https://www.legislation.gov.uk/uksi/2006/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/521/regulation/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2006/521/regulation/2/1/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/521/regulation/1/3))
+
+[^key-c13f3571cb9893a0138ebe262b92de7f]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) replaced (14.6.2012) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No.3) Regulations 2012 (S.I. 2012/1324)](https://www.legislation.gov.uk/uksi/2012/1324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1324/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2012/1324/regulation/3)
+
+[^key-2573b78f6f4de2f77587857eb13fc35f]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) inserted (1.4.2006) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2006 (S.I. 2006/521)](https://www.legislation.gov.uk/uksi/2006/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/521/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2006/521/regulation/2/1/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/521/regulation/1/3))
+
+[^key-2036958c5dafbfcfbeb242d63c83a062]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) omitted (1.4.2012) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/711)](https://www.legislation.gov.uk/uksi/2012/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/711/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2012/711/regulation/4/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/711/regulation/10))
+
+[^f00003]: Footnote: [S.I. 1997/319](https://www.legislation.gov.uk/uksi/1997/319); regulation 65 was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649). There are other amendments to regulation 65 but none is relevant. [S.I. 1997/319](https://www.legislation.gov.uk/uksi/1997/319) will be revoked on 1st April 2004 by virtue of the repeal of Part IV of the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42) under which it was made. *See* [S.I. 2003/2938 (C. 107)](https://www.legislation.gov.uk/uksi/2003/2938).
+
+[^f00004]: Footnote: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52); Part VII was amended by sections 117 and 169 of, and paragraph 116 of Schedule 14 and Schedule 16 to, the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), sections 5 to 12 of, paragraphs 2 and 7 to 21 of Schedule 1 and Schedule 2 to, the Homelessness Act [2002 (c. 7)](https://www.legislation.gov.uk/ukpga/2002/7), and paragraphs 89 to 92 of Schedule 3 to the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38). There are other amendments to Part VII that are not relevant to these Regulations.
+
+[^key-26f80e24095943d427d064e36d0b945f]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) inserted (16.12.2004) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) (No. 2) Regulations 2004 (S.I. 2004/3055)](https://www.legislation.gov.uk/uksi/2004/3055), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/2/b)
+
+[^key-dcff862fdac09eb7b82b6c4672666ca9]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) inserted (31.12.2020) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2019 (S.I. 2019/396)](https://www.legislation.gov.uk/uksi/2019/396), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/396/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2019/396/regulation/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00005]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42); section 74 was amended by section 222 of, and paragraph 24(2) of Schedule 18 to, the Housing Act 1996.
+
+[^key-d9ed8a9287c33da1cd44f590f29600b8]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) inserted (16.12.2004) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) (No. 2) Regulations 2004 (S.I. 2004/3055)](https://www.legislation.gov.uk/uksi/2004/3055), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/2/c)
+
+[^key-8597c88a02dca0d357b7d2ce4b3936f6]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) omitted (1.6.2024) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/602)](https://www.legislation.gov.uk/uksi/2024/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/602/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/602/regulation/2/2/a)
+
+[^M_F_336a7e09-e43f-4e7b-a0b1-1d096861e691]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) omitted (1.4.2012) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2012 (S.I. 2012/265)](https://www.legislation.gov.uk/uksi/2012/265), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2012/265/regulation/3/c) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/4))
+
+[^f00006]: Footnote: The National Association of Local Councils' current address is 109 Great Russell Street, London WC1B 3LD and their website address is www.nalc.gov.uk.
+
+[^key-a729c0c224e951a1e96f45fffd8e9eb1]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) inserted (1.4.2012) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/711)](https://www.legislation.gov.uk/uksi/2012/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/711/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2012/711/regulation/4/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/711/regulation/10))
+
+[^key-15e05696ed2adba55f1a9167f16644cc]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2021/611/regulation/3/a) (with [reg. 7(1)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/1))
+
+[^key-5b8f8ff6aaafa773af3a23aa478ba0f3]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) substituted (16.12.2004) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) (No. 2) Regulations 2004 (S.I. 2004/3055)](https://www.legislation.gov.uk/uksi/2004/3055), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/1/1), [2(d)(i)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/2/d/i)
+
+[^f00007]: Footnote: [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28); section 135 was amended by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325). There are other amendments to section 135 and amendments to section 136 that are not relevant to these Regulations.
+
+[^key-65f816bd1c3f9a7f52e0d43407db305e]: Textual amendment: Word in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) omitted (16.12.2004) by virtue of [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) (No. 2) Regulations 2004 (S.I. 2004/3055)](https://www.legislation.gov.uk/uksi/2004/3055), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/1/1), [2(d)(ii)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/2/d/ii)
+
+[^key-413012a63e3732d2ab51d7d37c450594]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) omitted (30.6.2021) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2021/611/regulation/3/b) (with [reg. 7(1)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/1))
+
+[^key-615ab58273792acdd269e738fd0c6f51]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) inserted (31.12.2020) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2019 (S.I. 2019/396)](https://www.legislation.gov.uk/uksi/2019/396), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/396/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2019/396/regulation/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9345b392bd62a0f5aa148bb1382c9a5e]: Textual amendment: Word in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) substituted (1.6.2024) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/602)](https://www.legislation.gov.uk/uksi/2024/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/602/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/602/regulation/2/2/b)
+
+[^key-a6bc9be9e1a66e6bce0b700dbde85a61]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) inserted (16.12.2004) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) (No. 2) Regulations 2004 (S.I. 2004/3055)](https://www.legislation.gov.uk/uksi/2004/3055), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/1/1), [2(e)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/2/e)
+
+[^key-95277f64610183e85977e11db444935f]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) omitted (30.6.2021) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2021/611/regulation/3/c) (with [reg. 7(1)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/1))
+
+[^key-4a096c4d444d9f755334f401c3c72722]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) inserted (31.12.2020) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2019 (S.I. 2019/396)](https://www.legislation.gov.uk/uksi/2019/396), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/396/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2019/396/regulation/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ee76c7d1c234b6944594265f0ebb15e9]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) inserted (1.6.2024) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/602)](https://www.legislation.gov.uk/uksi/2024/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/602/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/602/regulation/2/2/c)
+
+[^key-01f4e98073445db3e6704de383f886a8]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) inserted (1.4.2012) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2012 (S.I. 2012/265)](https://www.legislation.gov.uk/uksi/2012/265), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/3), [3(c)](https://www.legislation.gov.uk/uksi/2012/265/regulation/3/c) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/4))
+
+[^key-afedafa781bd397f7598effe19cba013]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) inserted (1.4.2012) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/711)](https://www.legislation.gov.uk/uksi/2012/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/711/regulation/1/2), [4(e)](https://www.legislation.gov.uk/uksi/2012/711/regulation/4/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/711/regulation/10))
+
+[^key-78c1c7e2fc5668eb2238612335bf560c]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) inserted (1.4.2012) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/711)](https://www.legislation.gov.uk/uksi/2012/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/711/regulation/1/2), [4(f)](https://www.legislation.gov.uk/uksi/2012/711/regulation/4/f) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/711/regulation/10))
+
+[^key-46ed092fbfb7fb2066f7db558538a326]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) inserted (31.12.2020) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2019 (S.I. 2019/396)](https://www.legislation.gov.uk/uksi/2019/396), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/396/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2019/396/regulation/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-98d402c866bd00e06223b32eb3a1d8b9]: Textual amendment: Word in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) inserted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [3(d)(i)](https://www.legislation.gov.uk/uksi/2021/611/regulation/3/d/i) (with [reg. 7(1)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/1))
+
+[^key-19fde808a779c40fe559a2585247913f]: Textual amendment: Word in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) omitted (30.6.2021) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [3(d)(ii)](https://www.legislation.gov.uk/uksi/2021/611/regulation/3/d/ii) (with [reg. 7(1)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/1))
+
+[^key-acac8ae9185472ddda6e2dc8983ced93]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) substituted (13.8.2013) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No.2) Regulations 2013 (S.I. 2013/1751)](https://www.legislation.gov.uk/uksi/2013/1751), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1751/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2013/1751/regulation/3)
+
+[^key-e244e466260c5a9513c1e89dd020b005]: Textual amendment: Word in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) omitted (31.12.2020) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2019 (S.I. 2019/396)](https://www.legislation.gov.uk/uksi/2019/396), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/396/regulation/1/2), [3(e)](https://www.legislation.gov.uk/uksi/2019/396/regulation/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-14d157c7b81e8aa93617cf0731d6d977]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/5) inserted (31.12.2020) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2019 (S.I. 2019/396)](https://www.legislation.gov.uk/uksi/2019/396), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/396/regulation/1/2), [3(f)](https://www.legislation.gov.uk/uksi/2019/396/regulation/3/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a99097488c376b06a447aac240179de6]: Commencement: Reg. 2 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^f00008]: Footnote: The current issue of this code of practice was published in London in 2003. ISBN 0 85299 989 5.
+
+[^key-11cc2bae2062d4fc4149095b029e15c9]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2003/3146/regulation/2A) and sub-part heading inserted (1.4.2012) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2012 (S.I. 2012/265)](https://www.legislation.gov.uk/uksi/2012/265), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/3), [4(1)](https://www.legislation.gov.uk/uksi/2012/265/regulation/4/1) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/4))
+
+[^key-b161a86bf97885e608ebe94e91029734]: Commencement: Reg. 3 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^key-5b9e599a8d429206d516e2ee2365ca43]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/3/2) substituted (31.3.2012) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2012 (S.I. 2012/265)](https://www.legislation.gov.uk/uksi/2012/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/265/regulation/4/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/4))
+
+[^key-878d99be35f41b6f84a0b984386f9903]: Commencement: Reg. 4 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^key-0986fba518dd86ca2d15a07de6d75122]: Modification: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/4/2) modified (31.3.2010) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2010 (S.I. 2010/454)](https://www.legislation.gov.uk/uksi/2010/454), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/454/regulation/1/1/a), [3(2)](https://www.legislation.gov.uk/uksi/2010/454/regulation/3/2)
+
+[^key-db8140e298c7951e8a2118186a23e137]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/4/2) substituted (1.4.2010) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2010 (S.I. 2010/454)](https://www.legislation.gov.uk/uksi/2010/454), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/454/regulation/1/1/b), [3(1)](https://www.legislation.gov.uk/uksi/2010/454/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/454/regulation/3/2))
+
+[^key-cb46c617f88ed7f771aae96327ca3684]: Commencement: Reg. 5 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^key-780ca854d3c9e317dc883ded8906b5f4]: Commencement: Reg. 6 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^key-10f382f9e703907c412d51b6c341e04e]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/3146/regulation/6) substituted (1.4.2012) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2012 (S.I. 2012/265)](https://www.legislation.gov.uk/uksi/2012/265), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2012/265/regulation/4/3) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/4))
+
+[^key-876d895fe3a8ce1f114245ae21bffc89]: Commencement: Reg. 7 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^key-c6512a7fd8eeb1dd89eff601b197ffaa]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/7/2) substituted (1.4.2012) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2012 (S.I. 2012/265)](https://www.legislation.gov.uk/uksi/2012/265), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/3), [5(1)(a)](https://www.legislation.gov.uk/uksi/2012/265/regulation/5/1/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/4))
+
+[^f00017]: Footnote: *See* section 16 (“capital expenditure”) and regulations 25 and 26.
+
+[^key-1f976f763929d5ba349f272b6b417212]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/7/4) inserted (1.4.2012) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2012 (S.I. 2012/265)](https://www.legislation.gov.uk/uksi/2012/265), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/3), [5(1)(b)](https://www.legislation.gov.uk/uksi/2012/265/regulation/5/1/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/4))
+
+[^key-1f223ec813676dcd9d586e3bdf53ea86]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2003/3146/regulation/7A) substituted (1.4.2012) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2012 (S.I. 2012/265)](https://www.legislation.gov.uk/uksi/2012/265), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2012/265/regulation/5/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/4))
+
+[^key-3a51121a7a775912556b0973d84b1d7a]: Commencement: Reg. 8 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^key-bb87ac12ac7f7e6f126aefd94f4afc83]: Commencement: Reg. 9 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^f00018]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68); Schedule 6A was inserted by section 117(2) of, and Schedule 16 to, the Leasehold Reform, Housing and Urban Development Act [1993 (c. 28)](https://www.legislation.gov.uk/ukpga/1993/28). There are amendments to Schedule 6A that are not relevant to these Regulations.
+
+[^key-b52306676ae4e0455dbf3faeb4fc81c4]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2003/3146/regulation/9A) omitted (1.4.2012) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/711)](https://www.legislation.gov.uk/uksi/2012/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/711/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2012/711/regulation/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/711/regulation/10))
+
+[^key-145d36b8b039583340101e86d6d56969]: Textual amendment: [Reg. 9B](https://www.legislation.gov.uk/uksi/2003/3146/regulation/9B) inserted (1.4.2012) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2012 (S.I. 2012/265)](https://www.legislation.gov.uk/uksi/2012/265), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2012/265/regulation/6) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/4))
+
+[^key-4f9fdc6cabf7ecdb9d85ac3ba4b293b0]: Commencement: Reg. 10 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^key-14d884de5c59c35eb91351456e75b83d]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/10/1) omitted (1.4.2012) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/711)](https://www.legislation.gov.uk/uksi/2012/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/711/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2012/711/regulation/6/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/711/regulation/10))
+
+[^key-6d1b65529e82e67c5f9202b5416b2913]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/10/5) omitted (1.4.2012) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/711)](https://www.legislation.gov.uk/uksi/2012/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/711/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2012/711/regulation/6/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/711/regulation/10))
+
+[^f00019]: Footnote: *See* regulation 22 for meaning of “notional capital receipt”.
+
+[^key-ae88f9490c02076313308165ed162082]: Textual amendment: [Reg. 10(7)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/10/7) omitted (1.4.2012) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/711)](https://www.legislation.gov.uk/uksi/2012/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/711/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2012/711/regulation/6/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/711/regulation/10))
+
+[^key-cd75cafc01fd9be7a30e402c112a1ee4]: Commencement: Reg. 11 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^M_F_1af41acf-1051-4543-8992-0833717c1dc5]: Textual amendment: Regs. 12-19 substituted for regs. 12-21 (1.4.2012) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/711)](https://www.legislation.gov.uk/uksi/2012/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/711/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2012/711/regulation/7) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/711/regulation/10))
+
+[^key-d88b47ee5fb295aab5d8874a838f6ba2]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/12/1) substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2021/611/regulation/4/a) (with [reg. 7(1)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/1))
+
+[^key-c2f7a489e2a160709b3b60c6b7fef5e1]: Textual amendment: [Reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/12/1/a) substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2021/611/regulation/4/b) (with [reg. 7(1)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/1))
+
+[^key-cb30003ea46b042b3914d9d3916eceb0]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/13/3) substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [5(a)(i)](https://www.legislation.gov.uk/uksi/2021/611/regulation/5/a/i) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/2))
+
+[^key-63b0b43057d8c943accf0c4a4e4f3b20]: Textual amendment: Word in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/13/3) substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2021/611/regulation/5/a/ii) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/2))
+
+[^key-e9e0d90d277d737a4cee6476f912f408]: Textual amendment: Words in [reg. 13(6)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/13/6) inserted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2021/611/regulation/5/b) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/2))
+
+[^key-f28fbe117e4649661e89d7265ba3f67e]: Commencement: Reg. 14 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^key-e9501ea6a703d0b27a63b4a4c34fbcce]: Textual amendment: [Reg. 14(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/14/1) substituted (1.4.2013) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2013 (S.I. 2013/476)](https://www.legislation.gov.uk/uksi/2013/476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/476/regulation/1/3), [3(1)(a)](https://www.legislation.gov.uk/uksi/2013/476/regulation/3/1/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2013/476/regulation/7))
+
+[^key-a9cabb21daf9dd5ea6f8b3fa45874129]: Textual amendment: [Reg. 14(2)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/14/2) substituted (1.4.2013) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2013 (S.I. 2013/476)](https://www.legislation.gov.uk/uksi/2013/476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/476/regulation/1/3), [3(1)(b)](https://www.legislation.gov.uk/uksi/2013/476/regulation/3/1/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2013/476/regulation/7))
+
+[^key-e6da37bf2a9f1c840fb7dcd90346ab9c]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/14/3) omitted (1.4.2013) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2013 (S.I. 2013/476)](https://www.legislation.gov.uk/uksi/2013/476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/476/regulation/1/3), [3(1)(c)](https://www.legislation.gov.uk/uksi/2013/476/regulation/3/1/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2013/476/regulation/7))
+
+[^key-97ab8408b9f3c8d88c119178c632aad2]: Textual amendment: [Regs. 15-19](https://www.legislation.gov.uk/uksi/2003/3146/regulation/15) omitted (1.4.2013) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2013 (S.I. 2013/476)](https://www.legislation.gov.uk/uksi/2013/476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/476/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2013/476/regulation/3/2) (with [reg. 7](https://www.legislation.gov.uk/uksi/2013/476/regulation/7))
+
+[^key-537460c90b426998e850eaff03302fee]: Commencement: Reg. 22 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^key-a882846b3f6447b89d75beb7b1f85d75]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/22/1) inserted (16.12.2004) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) (No. 2) Regulations 2004 (S.I. 2004/3055)](https://www.legislation.gov.uk/uksi/2004/3055), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2004/3055/regulation/5)
+
+[^key-5e8b18bddc2fa10ee3d2fa2b86d2a7fa]: Commencement: Reg. 23 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^key-d814af1b248d6c7bf695736b417f3492]: Textual amendment: Word in [reg. 23(e)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/23/e) omitted (1.4.2010) by virtue of [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2010 (S.I. 2010/454)](https://www.legislation.gov.uk/uksi/2010/454), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/454/regulation/1/1/b), [4(a)](https://www.legislation.gov.uk/uksi/2010/454/regulation/4/a)
+
+[^key-1c4bc4d17bb9e5fe4c7a80a8a98e18a4]: Textual amendment: Words in [reg. 23(f)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/23/f) substituted (30.9.2012) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 4) Regulations 2012 (S.I. 2012/2269)](https://www.legislation.gov.uk/uksi/2012/2269), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2269/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2012/2269/regulation/5)
+
+[^key-a048fb4fbbc27a7515e86991a1569506]: Textual amendment: Word in [reg. 23(f)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/23/f) omitted (1.4.2010) by virtue of [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2010 (S.I. 2010/454)](https://www.legislation.gov.uk/uksi/2010/454), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/454/regulation/1/1/b), [4(b)](https://www.legislation.gov.uk/uksi/2010/454/regulation/4/b)
+
+[^key-c84ec38d7b63d780702af79dfb938989]: Textual amendment: [Reg. 23(g)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/23/g) omitted (1.4.2012) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/711)](https://www.legislation.gov.uk/uksi/2012/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/711/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2012/711/regulation/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/711/regulation/10))
+
+[^key-4773ce425576292fb9493d321d05d0ef]: Textual amendment: [Reg. 23(h)(i)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/23/h/i) inserted (1.4.2010) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2010 (S.I. 2010/454)](https://www.legislation.gov.uk/uksi/2010/454), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/454/regulation/1/1/b), [4(c)](https://www.legislation.gov.uk/uksi/2010/454/regulation/4/c)
+
+[^key-dda472a00735b85a30f6d4be03562e95]: Textual amendment: Word in [reg. 23(h)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/23/h) omitted (31.3.2013) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2013 (S.I. 2013/476)](https://www.legislation.gov.uk/uksi/2013/476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/476/regulation/1/2), [5(1)(a)](https://www.legislation.gov.uk/uksi/2013/476/regulation/5/1/a)
+
+[^key-638c9359701dcff7e8673eabcb03e9c5]: Textual amendment: [Reg. 23(i)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/23/i) and word substituted for full stop (31.3.2013) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2013 (S.I. 2013/476)](https://www.legislation.gov.uk/uksi/2013/476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/476/regulation/1/2), [5(1)(b)](https://www.legislation.gov.uk/uksi/2013/476/regulation/5/1/b)
+
+[^key-123e3fb15d4f450c2581af44e418bf80]: Textual amendment: Word in [reg. 23(i)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/23/i) omitted (1.5.2017 with application in relation to a financial year commencing on or after 1.4.2016) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2017 (S.I. 2017/536)](https://www.legislation.gov.uk/uksi/2017/536), [regs. 1](https://www.legislation.gov.uk/uksi/2017/536/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/536/regulation/2/2/a)
+
+[^key-de3a27b4b74525bdcb3ae18fdf5f8c8a]: Textual amendment: Words in [reg. 23(j)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/23/j) inserted (19.12.2018) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2018 (S.I. 2018/1207)](https://www.legislation.gov.uk/uksi/2018/1207), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1207/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2018/1207/regulation/3/a)
+
+[^key-1f67465029a42f4427cfa5f3d18ac58a]: Textual amendment: Words in [reg. 23(j)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/23/j) inserted (19.12.2018) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2018 (S.I. 2018/1207)](https://www.legislation.gov.uk/uksi/2018/1207), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1207/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2018/1207/regulation/3/b)
+
+[^key-c43d2b07374416f77e1e4334d8b924f2]: Textual amendment: [Reg. 23(k)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/23/k) and word inserted (1.5.2017 with application in relation to a financial year commencing on or after 1.4.2016) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2017 (S.I. 2017/536)](https://www.legislation.gov.uk/uksi/2017/536), [regs. 1](https://www.legislation.gov.uk/uksi/2017/536/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/536/regulation/2/2/b)
+
+[^key-553637c37c53d074dedb0429e7c6a8df]: Commencement: Reg. 24 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^f00031]: Footnote: The current issue of this document was published in London in 2001. ISBN 0 85299 943 7.
+
+[^key-28914f243b964375428e3c561e06b62f]: Commencement: Reg. 25 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^key-b957bf7e4d8a14a5242efaf906f1c4c8]: Textual amendment: Words in [reg. 25(1)(d)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/25/1/d) inserted (1.4.2004) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2004 (S.I. 2004/534)](https://www.legislation.gov.uk/uksi/2004/534), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/534/regulation/1/1), [5(1)(a)(i)](https://www.legislation.gov.uk/uksi/2004/534/regulation/5/1/a/i)
+
+[^key-587b6f8018d24fe9baadc25c0de1cc33]: Textual amendment: Words in [reg. 25(1)(d)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/25/1/d) omitted (1.4.2012) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2012 (S.I. 2012/265)](https://www.legislation.gov.uk/uksi/2012/265), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/3), [7(a)](https://www.legislation.gov.uk/uksi/2012/265/regulation/7/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/4))
+
+[^key-8cb3fed32eda351d909db2fe6ac58e37]: Textual amendment: Word in [reg. 25(1)(d)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/25/1/d) omitted (1.4.2004) by virtue of [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2004 (S.I. 2004/534)](https://www.legislation.gov.uk/uksi/2004/534), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/534/regulation/1/1), [5(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2004/534/regulation/5/1/a/ii)
+
+[^key-784d6945b2a94e623b0843dd0c40d182]: Textual amendment: [Reg. 25(1)(f)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/25/1/f) and word added (1.4.2004) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2004 (S.I. 2004/534)](https://www.legislation.gov.uk/uksi/2004/534), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/534/regulation/1/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2004/534/regulation/5/1/b)
+
+[^key-7a0fbeef43bd8b12ea3684431edcc209]: Textual amendment: [Reg. 25(1)(ea)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/25/1/ea) substituted (31.3.2012) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2012 (S.I. 2012/265)](https://www.legislation.gov.uk/uksi/2012/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2012/265/regulation/7/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/4))
+
+[^key-9bc588f282399d1c0ad912560b949e63]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/25/3) added (1.4.2004) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2004 (S.I. 2004/534)](https://www.legislation.gov.uk/uksi/2004/534), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/534/regulation/1/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2004/534/regulation/5/1/c)
+
+[^key-fb31b8edd3acd1b7e3498325922fb30e]: Textual amendment: [Reg. 25(3)(a)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/25/3/a) omitted (1.6.2024) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/602)](https://www.legislation.gov.uk/uksi/2024/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/602/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/602/regulation/2/3)
+
+[^key-a9dc4e50a1fbc2e7b5c6b9208f2592fe]: Textual amendment: [Reg. 25(3)(b)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/25/3/b) omitted (1.4.2012) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2012 (S.I. 2012/265)](https://www.legislation.gov.uk/uksi/2012/265), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/3), [7(c)](https://www.legislation.gov.uk/uksi/2012/265/regulation/7/c) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/4))
+
+[^key-ad417c36818b449e95914bff2d751180]: Textual amendment: [Reg. 25(3)(c)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/25/3/c) and word inserted (1.4.2007) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2007 (S.I. 2007/573)](https://www.legislation.gov.uk/uksi/2007/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/573/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2007/573/regulation/2/b)
+
+[^key-ec5423b98ae50b87487ddbffc88e2465]: Textual amendment: Words in [reg. 25(3)(c)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/25/3/c) substituted (31.12.2020) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2019 (S.I. 2019/396)](https://www.legislation.gov.uk/uksi/2019/396), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/396/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2019/396/regulation/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-90427b07305ea421bdd02735e66b989c]: Textual amendment: Word in [reg. 25(3)(c)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/25/3/c) substituted for comma (1.4.2010) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2010 (S.I. 2010/454)](https://www.legislation.gov.uk/uksi/2010/454), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/454/regulation/1/1/b), [5(a)](https://www.legislation.gov.uk/uksi/2010/454/regulation/5/a)
+
+[^key-a27f5f8e736f22f77cf43881a2ce3c39]: Textual amendment: Word in [reg. 25(3)(c)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/25/3/c) omitted (31.12.2020) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2019 (S.I. 2019/396)](https://www.legislation.gov.uk/uksi/2019/396), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/396/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2019/396/regulation/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4cd87271a92a4792e29c992331a89e42]: Textual amendment: [Reg. 25(3)(d)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/25/3/d) inserted (1.4.2010) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2010 (S.I. 2010/454)](https://www.legislation.gov.uk/uksi/2010/454), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/454/regulation/1/1/b), [5(b)](https://www.legislation.gov.uk/uksi/2010/454/regulation/5/b)
+
+[^key-bb153d5c10639d71e7c0eb45c683e435]: Textual amendment: [Reg. 25(3)(e)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/25/3/e) and word inserted (31.12.2020) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2019 (S.I. 2019/396)](https://www.legislation.gov.uk/uksi/2019/396), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/396/regulation/1/2), [4(d)](https://www.legislation.gov.uk/uksi/2019/396/regulation/4/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-89b670f7c662f22edbb505515b59f890]: Commencement: Reg. 26 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^key-7f1fa571691ae4a8bff761205bbcbe42]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2003/3146/regulation/27) substituted (1.4.2025) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2024 (S.I. 2024/478)](https://www.legislation.gov.uk/uksi/2024/478), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/478/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/478/regulation/2/3)
+
+[^key-089f603f9049954cb6fae86ed412dafa]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2003/3146/regulation/28) substituted (31.3.2008) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2008 (S.I. 2008/414)](https://www.legislation.gov.uk/uksi/2008/414), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/414/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2008/414/regulation/4/1)
+
+[^key-329ce7b45662663b67dc04d5a562b4f4]: Textual amendment: Reg. 28 renumbered as reg. 28(1) (7.5.2024) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2024 (S.I. 2024/478)](https://www.legislation.gov.uk/uksi/2024/478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/478/regulation/1/3), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/478/regulation/2/4/a)
+
+[^key-b247d772700c28e73de04c5890517ea4]: Textual amendment: [Reg. 28(2)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/28/3) inserted (7.5.2024) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2024 (S.I. 2024/478)](https://www.legislation.gov.uk/uksi/2024/478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/478/regulation/1/3), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/478/regulation/2/4/b)
+
+[^key-b5f7c6873feb68ae6068d80808383064]: Textual amendment: [Reg. 28(4)-(7)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/28/4) inserted (1.4.2025) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2024 (S.I. 2024/478)](https://www.legislation.gov.uk/uksi/2024/478), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/478/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2024/478/regulation/2/4/c)
+
+[^key-423e30f8a6a68b968f23cf08712a4366]: Commencement: Reg. 29 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^key-54ac99624822816209bc367c60ce2257]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/uksi/2003/3146/regulation/29) substituted (31.3.2008) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2008 (S.I. 2008/414)](https://www.legislation.gov.uk/uksi/2008/414), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/414/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2008/414/regulation/4/2)
+
+[^key-222d72b75a86fa279e0725fc460d520e]: Textual amendment: [Reg. 29A](https://www.legislation.gov.uk/uksi/2003/3146/regulation/29A) inserted (1.4.2007) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2007 (S.I. 2007/573)](https://www.legislation.gov.uk/uksi/2007/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/573/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2007/573/regulation/4)
+
+[^key-96b88cd8b0ff1d384a3242c8610a32b9]: Commencement: Reg. 30 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^key-1c4a98023ae8fd7ab62e77b51174519e]: Modification: [Reg. 30](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30) applied by [S.I. 2004/1778](https://www.legislation.gov.uk/uksi/2004/1778), [art. 23A](https://www.legislation.gov.uk/uksi/2004/1778/article/23A) (as inserted (25.6.2009) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) (Amendment) Order 2009 (S.I. 2009/1578)](https://www.legislation.gov.uk/uksi/2009/1578), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2009/1578/article/1/b), [2](https://www.legislation.gov.uk/uksi/2009/1578/article/2))
+
+[^key-37d4b77245db5e2ce6002eb81c777734]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30/1) renumbered as reg. 30(1) (1.4.2015) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2015 (S.I. 2015/341)](https://www.legislation.gov.uk/uksi/2015/341), [regs. 1](https://www.legislation.gov.uk/uksi/2015/341/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2015/341/regulation/2/3/a)
+
+[^key-7d29d51ecc768936d879c17a285b1806]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30) substituted (31.3.2010) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2010 (S.I. 2010/454)](https://www.legislation.gov.uk/uksi/2010/454), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/454/regulation/1/1/a), [3(3)](https://www.legislation.gov.uk/uksi/2010/454/regulation/3/3)
+
+[^key-7ce823a5f62bd8a98d459e50053d3e18]: Textual amendment: [Reg. 30(2)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30/2) inserted (1.4.2015) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2015 (S.I. 2015/341)](https://www.legislation.gov.uk/uksi/2015/341), [regs. 1](https://www.legislation.gov.uk/uksi/2015/341/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2015/341/regulation/2/3/b)
+
+[^key-9ec2d4e450d452829d4d5f7cefadb014]: Textual amendment: [Reg. 30A](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30A) inserted (30.3.2007) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2007 (S.I. 2007/573)](https://www.legislation.gov.uk/uksi/2007/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/573/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2007/573/regulation/5/2)
+
+[^key-b8cc76257c5d2aac27866690f48345f6]: Textual amendment: [Reg. 30A(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30A/5)[(6)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30A/6) inserted (1.4.2010) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2010 (S.I. 2010/454)](https://www.legislation.gov.uk/uksi/2010/454), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/454/regulation/1/1/b), [6](https://www.legislation.gov.uk/uksi/2010/454/regulation/6)
+
+[^key-02b0db1caf17e7cb8c0217d3856852f7]: Textual amendment: Words in [reg. 30A(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30A/5) substituted (1.4.2013) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2013 (S.I. 2013/476)](https://www.legislation.gov.uk/uksi/2013/476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/476/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2013/476/regulation/6)
+
+[^key-9526bc4ffca2578e1ae81716a78e8f0d]: Textual amendment: Words in [reg. 30A(6)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30A/6) substituted (1.4.2013) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2013 (S.I. 2013/476)](https://www.legislation.gov.uk/uksi/2013/476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/476/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2013/476/regulation/6)
+
+[^key-448658a87248f9258fc7c069afe03e77]: Textual amendment: [Reg. 30AA](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30AA) inserted (19.12.2018) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2018 (S.I. 2018/1207)](https://www.legislation.gov.uk/uksi/2018/1207), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1207/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2018/1207/regulation/4)
+
+[^key-227014d32fc013a73b687e4358ad8ccb]: Textual amendment: [Regs. 30B-30D](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30B) inserted (1.4.2007) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2007 (S.I. 2007/573)](https://www.legislation.gov.uk/uksi/2007/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/573/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2007/573/regulation/6)
+
+[^key-88e6ff8b8202d3f77926b1a6d430eb9d]: Textual amendment: [Reg. 30B(2A)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30B/2A) inserted (1.4.2015) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2015 (S.I. 2015/341)](https://www.legislation.gov.uk/uksi/2015/341), [regs. 1](https://www.legislation.gov.uk/uksi/2015/341/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/341/regulation/2/4)
+
+[^key-2c47b601cb3567b464a7a12c64a0d7ea]: Textual amendment: [Reg. 30C(1)(b)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30C/1/b) substituted (31.3.2008) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2008 (S.I. 2008/414)](https://www.legislation.gov.uk/uksi/2008/414), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/414/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2008/414/regulation/5/a)
+
+[^key-af39579729c52e85f288d89c27fa208f]: Textual amendment: [Reg. 30C(5A)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30C/5A) inserted (1.4.2015) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2015 (S.I. 2015/341)](https://www.legislation.gov.uk/uksi/2015/341), [regs. 1](https://www.legislation.gov.uk/uksi/2015/341/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/341/regulation/2/5)
+
+[^key-c1fd26b5cd3b81c8e89bdcbd75409488]: Textual amendment: Words in [reg. 30C(6)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30C/6) substituted (31.3.2008) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2008 (S.I. 2008/414)](https://www.legislation.gov.uk/uksi/2008/414), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/414/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2008/414/regulation/5/b)
+
+[^key-9131b5b8305f45173d0747a0aa443fed]: Textual amendment: [Reg. 30D(4)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30D/4) inserted (1.4.2015) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2015 (S.I. 2015/341)](https://www.legislation.gov.uk/uksi/2015/341), [regs. 1](https://www.legislation.gov.uk/uksi/2015/341/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2015/341/regulation/2/6)
+
+[^key-694450de46452fe0d66bc350692fdeae]: Textual amendment: [Regs. 30E](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30E), [30F](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30F) inserted (31.3.2008) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2008 (S.I. 2008/414)](https://www.legislation.gov.uk/uksi/2008/414), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/414/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2008/414/regulation/6)
+
+[^key-b896c919e045908124dc8eb7c42c25f8]: Textual amendment: [Reg. 30E(4)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30E/4) inserted (1.4.2015) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2015 (S.I. 2015/341)](https://www.legislation.gov.uk/uksi/2015/341), [regs. 1](https://www.legislation.gov.uk/uksi/2015/341/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2015/341/regulation/2/7)
+
+[^key-350d41393e8f59b47b3ca874b8a475a5]: Textual amendment: [Reg. 30F(3)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30F/3) inserted (1.4.2015) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2015 (S.I. 2015/341)](https://www.legislation.gov.uk/uksi/2015/341), [regs. 1](https://www.legislation.gov.uk/uksi/2015/341/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2015/341/regulation/2/8)
+
+[^key-f04e0263fbef443669b365d911592eb8]: Textual amendment: [Reg. 30G](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30G) inserted (31.3.2009) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2009 (S.I. 2009/321)](https://www.legislation.gov.uk/uksi/2009/321), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/321/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2009/321/regulation/3)
+
+[^key-e0b0c19b8f16b70cafa7647ddfc6574e]: Textual amendment: [Reg. 30H](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30H) inserted (1.4.2010) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2010 (S.I. 2010/454)](https://www.legislation.gov.uk/uksi/2010/454), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/454/regulation/1/1/b), [7](https://www.legislation.gov.uk/uksi/2010/454/regulation/7)
+
+[^key-97951bcef8d89234cd5dc70865708063]: Textual amendment: [Reg. 30H](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30H/1) renumbered as reg. 30H(1) (1.4.2015) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2015 (S.I. 2015/341)](https://www.legislation.gov.uk/uksi/2015/341), [regs. 1](https://www.legislation.gov.uk/uksi/2015/341/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2015/341/regulation/2/9/a)
+
+[^key-25671607243d7037bbfe7bcf4ec6d108]: Textual amendment: [Reg. 30H(2)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30H/2) inserted (1.4.2015) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2015 (S.I. 2015/341)](https://www.legislation.gov.uk/uksi/2015/341), [regs. 1](https://www.legislation.gov.uk/uksi/2015/341/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2015/341/regulation/2/9/b)
+
+[^key-75770b108420747e5a6a36ef6b243db3]: Textual amendment: [Reg. 30I](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30I) inserted (1.4.2010) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2010 (S.I. 2010/454)](https://www.legislation.gov.uk/uksi/2010/454), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/454/regulation/1/1/b), [8](https://www.legislation.gov.uk/uksi/2010/454/regulation/8)
+
+[^key-0c7ed74114bb8915b05ccc9445e154e4]: Textual amendment: [Reg. 30J](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30J) inserted (30.6.2014) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2014 (S.I. 2014/1375)](https://www.legislation.gov.uk/uksi/2014/1375), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1375/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2014/1375/regulation/3)
+
+[^key-023a7b967d0480f89bd67c9c18b65754]: Textual amendment: [Reg. 30K](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30K) inserted (19.12.2018) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2018 (S.I. 2018/1207)](https://www.legislation.gov.uk/uksi/2018/1207), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1207/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2018/1207/regulation/5)
+
+[^key-eb6bf9969170c787c15d36a1569c1e0d]: Textual amendment: Words in [reg. 30K(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30K/1) omitted (1.6.2024) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/602)](https://www.legislation.gov.uk/uksi/2024/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/602/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/602/regulation/2/4)
+
+[^key-802f3778e8e9ed6d276c752517363554]: Textual amendment: Word in [reg. 30K(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30K/1) omitted (31.12.2020) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2019 (S.I. 2019/396)](https://www.legislation.gov.uk/uksi/2019/396), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/396/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2019/396/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1e3f8673640cbb6620f4dd42ba7e465d]: Textual amendment: Words in [reg. 30K(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30K/1) inserted (31.12.2020) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2019 (S.I. 2019/396)](https://www.legislation.gov.uk/uksi/2019/396), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/396/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2019/396/regulation/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-98986ff7e512b531fc433ea871a1f372]: Textual amendment: [Reg. 30K(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30K/5) substituted (23.4.2025) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2025 (S.I. 2025/422)](https://www.legislation.gov.uk/uksi/2025/422), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/422/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/422/regulation/3)
+
+[^key-f6d18f4bfa3ef5ff7c859412a14d8c3a]: Textual amendment: [Reg. 30L](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30L) inserted (29.11.2020) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2020 (S.I. 2020/1212)](https://www.legislation.gov.uk/uksi/2020/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1212/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1212/regulation/2)
+
+[^key-751c56b63a0c85631a974a61fd92af43]: Textual amendment: Words in [reg. 30L(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30L/1) substituted (31.1.2023) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1328)](https://www.legislation.gov.uk/uksi/2022/1328), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1328/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2022/1328/regulation/2/a)
+
+[^key-1a7727cee90e87e82db4c4d8b066b909]: Textual amendment: Words in [reg. 30L(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30L/1) substituted (31.3.2026) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2026 (S.I. 2026/171)](https://www.legislation.gov.uk/uksi/2026/171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/171/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/171/regulation/2)
+
+[^key-ddc6cc8eeb406921cca87fb4e57a3a3a]: Textual amendment: Words in [reg. 30L(3)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30L/3) substituted (31.1.2023) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1328)](https://www.legislation.gov.uk/uksi/2022/1328), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1328/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/1328/regulation/2/b)
+
+[^key-b9261d0fd1123e443fdc1f9b06762e33]: Textual amendment: Words in [reg. 30L(3)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30L/3) substituted (31.3.2026) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2026 (S.I. 2026/171)](https://www.legislation.gov.uk/uksi/2026/171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/171/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/171/regulation/2)
+
+[^key-c28c79a8e6a5addf56fc31420b251ff4]: Textual amendment: Words in [reg. 30L(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30L/5) substituted (31.1.2023) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1328)](https://www.legislation.gov.uk/uksi/2022/1328), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1328/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2022/1328/regulation/2/c)
+
+[^key-c3180fe8b9c8a795286004d376b49aa7]: Textual amendment: Words in [reg. 30L(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30L/5) substituted (31.3.2026) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2026 (S.I. 2026/171)](https://www.legislation.gov.uk/uksi/2026/171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/171/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/171/regulation/2)
+
+[^key-c8b8120460fab61e8eee0c3bcb562ded]: Textual amendment: [Reg. 30M](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30M) inserted (25.12.2022) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2022 (S.I. 2022/1232)](https://www.legislation.gov.uk/uksi/2022/1232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1232/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/1232/regulation/2)
+
+[^key-e8da405decc4585ddff16725ce5d3b7a]: Textual amendment: Word in [reg. 30M(1)(a)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/30M/1/a) substituted (23.4.2025) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2025 (S.I. 2025/422)](https://www.legislation.gov.uk/uksi/2025/422), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/422/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/422/regulation/4)
+
+[^key-5e1f683126a0327c07b10a3713aa035e]: Commencement: Reg. 31 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^key-93f6ecbce0a7347f629bdc19563b8d8d]: Textual amendment: Words in [reg. 31(a)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/31/a) omitted (1.4.2010) by virtue of [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) Regulations 2010 (S.I. 2010/454)](https://www.legislation.gov.uk/uksi/2010/454), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/454/regulation/1/1/b), [9](https://www.legislation.gov.uk/uksi/2010/454/regulation/9)
+
+[^f00040]: Footnote: The current issue of this code of practice was published in London in 2003. ISBN 0 85299 981 X.
+
+[^key-abe08be023044ceb8e37be58ae2f5ef2]: Textual amendment: [Reg. 31(b)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/31/b) substituted (31.3.2012) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2012 (S.I. 2012/265)](https://www.legislation.gov.uk/uksi/2012/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2012/265/regulation/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/265/regulation/1/4))
+
+[^key-bb1899f1dd8b5154c1e2fe59228f84e7]: Textual amendment: Word in [reg. 31(b)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/31/b) omitted (1.4.2015) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2015 (S.I. 2015/341)](https://www.legislation.gov.uk/uksi/2015/341), [regs. 1](https://www.legislation.gov.uk/uksi/2015/341/regulation/1), [2(10)(a)](https://www.legislation.gov.uk/uksi/2015/341/regulation/2/10/a)
+
+[^key-83749d5c773bcfb4c49c87f802650672]: Textual amendment: [Reg. 31(c)(d)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/31/c/d) substituted for [reg. 31(c)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/31/c) (1.4.2015) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2015 (S.I. 2015/341)](https://www.legislation.gov.uk/uksi/2015/341), [regs. 1](https://www.legislation.gov.uk/uksi/2015/341/regulation/1), [2(10)(b)](https://www.legislation.gov.uk/uksi/2015/341/regulation/2/10/b)
+
+[^key-57316368f496df29946e92baebead43b]: Commencement: Reg. 32 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^f00043]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41); there are amendments to section 74 which are not relevant to these Regulations.
+
+[^f00044]: Footnote: The Broads Authority was established by section 1 of the Norfolk and Suffolk Broads Act [1988 (c. 4)](https://www.legislation.gov.uk/ukpga/1988/4).
+
+[^f00045]: Footnote: The Lee Valley Regional Park Authority was established by the [Lee Valley Regional Park Act 1966 (c. xli)](https://www.legislation.gov.uk/ukla/1966/41).
+
+[^f00046]: Footnote: National Park authorities are established under section 63 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^f00047]: Footnote: The London Pensions Fund Authority was established by [S.I. 1989/1815](https://www.legislation.gov.uk/uksi/1989/1815).
+
+[^f00048]: Footnote: The South Yorkshire Pensions Authority was established by [S.I. 1987/2110](https://www.legislation.gov.uk/uksi/1987/2110).
+
+[^key-128331f0baf398c51d76997d2187fe52]: Commencement: Reg. 33 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^key-27e80f457cf6ffd2d39688f21e5d2c81]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/33/1) inserted (16.12.2004) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) (No. 2) Regulations 2004 (S.I. 2004/3055)](https://www.legislation.gov.uk/uksi/2004/3055), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/1/1), [7(a)(i)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/7/a/i)
+
+[^f00049]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
+
+[^key-759c459647fd71b48c391b915b87508c]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/33/1) inserted (16.12.2004) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) (No. 2) Regulations 2004 (S.I. 2004/3055)](https://www.legislation.gov.uk/uksi/2004/3055), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/1/1), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/7/a/ii)
+
+[^key-cac4ca533fcde671343b8145878288aa]: Textual amendment: [Reg. 33(4)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/33/4)[(5)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/33/5) added (16.12.2004) by [The Local Authorities (Capital Finance and Accounting) (Amendment) (England) (No. 2) Regulations 2004 (S.I. 2004/3055)](https://www.legislation.gov.uk/uksi/2004/3055), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2004/3055/regulation/7/b)
+
+[^key-ad3b50f198bd1b74d4b35cd4e338c78c]: Commencement: Reg. 34 in force at 1.1.2004 for specified purposes and 1.4.2004 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3146/regulation/1/1)
+
+[^key-a59677aceff0b8728d0e5d71b94b92ef]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2003/3146/schedule) substituted (1.4.2013) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2013 (S.I. 2013/476)](https://www.legislation.gov.uk/uksi/2013/476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/476/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2013/476/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/2013/476/schedule) (with [reg. 7](https://www.legislation.gov.uk/uksi/2013/476/regulation/7))
+
+[^key-a049bcb733fbbfe481bb1489f66380e6]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/2) substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/2/a) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3)[(4)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/4)[(6)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/6)[(7)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/7))
+
+[^key-926728689d555a50babb90caf940f7e9]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/2) substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/2/b) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3)[(5)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/5)[(7)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/7))
+
+[^key-f729ba727aa66409d3ab6d741a0bf012]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/2) inserted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(2)(f)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/2/f) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-350daccc3b5afaeeb652b839284606e1]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/2) substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/2/c) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-577db01f8eabd69f3f4cc0de0de52f1e]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/2) omitted (30.6.2021) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(2)(d)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/2/d) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-c733c36d5b7f12c505c8defe05d680c1]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/2) omitted (30.6.2021) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(2)(e)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/2/e) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-6da2dae3722b6574e0039f553f532573]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/3): the words "relevant financial year" substituted for "relevant quarter" (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/3/a) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3)) \[Editorial note: For technical reasons the editorial team has been unable to carry out this substitution where the relevant words occur in formulas contained in image files.\]
+
+[^key-af27cd436c1137627b586cf72248109b]: Textual amendment: [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/3/2): the words "previous financial year" substituted for "previous quarter" (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/3/b) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3)) \[Editorial note: For technical reasons the editorial team has been unable to carry out this substitution where the relevant words occur in formulas contained in image files.\]
+
+[^key-2bf79ee4dc95f92a70c725ac446a013b]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/4) substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/4/a) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-88f6b629d0abea510b88d60a11d594d3]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/4) substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(4)(b)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/4/b) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-3359a32243fdc664d1dc12cd0ec26e59]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/4) substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(4)(c)(i)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/4/c/i) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-d71d977a97810a02170f8c712a826bcf]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/4) substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/4/c/ii) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-21f3bbb1be09f13b203b1ea5439593d8]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3146/schedule) substituted (13.8.2013) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) (No.2) Regulations 2013 (S.I. 2013/1751)](https://www.legislation.gov.uk/uksi/2013/1751), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1751/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2013/1751/regulation/4)
+
+[^key-c8c3e9c8d6043c1100a7a9e703b0579b]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/4) substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(4)(d)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/4/d) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-ddfbd3839b060a168b9e306926e636bd]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/4) substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(4)(e)(i)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/4/e/i) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-011e3ed0f6e4c446b56af416b97b5d82]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/4) substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/4/e/ii) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-a102a258161e1d910d8cf588ae86d1b2]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/4) substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(4)(f)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/4/f) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-2c576b948f38d4497fca08f0a0e5597b]: Textual amendment: Word in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/4) inserted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(4)(g)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/4/g) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-62b8f646154aa51ca1b8d1314c0c3eb1]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/4) inserted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(4)(h)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/4/h) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-aeb25c34aa3dc9a03a0a59a978ce4ae4]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/4) substituted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2023/187/article/7/2)
+
+[^key-a40895ec0efecc196653dc61f5116b97]: Textual amendment: [Sch. paras. 4A](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/4A), [4B](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/4B) inserted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/5) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-dc3ef3efc3ffba73971f7e224be2f265]: Textual amendment: Words in [Sch. para. 4A](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/4A) inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2023/187/article/7/3)
+
+[^key-56e64839c7159b36977a69a053e79a99]: Textual amendment: Words in [Sch. para. 4B](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/4B) inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(4)](https://www.legislation.gov.uk/uksi/2023/187/article/7/4)
+
+[^key-463a45501f56bc95bf6840ad8d1759ce]: Textual amendment: [Sch. para. 4C](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/4C) inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(5)](https://www.legislation.gov.uk/uksi/2023/187/article/7/5)
+
+[^key-296a19bf4aa67d49c3219082ce4882da]: Textual amendment: [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/8/a) omitted (30.6.2021) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(6)(a)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/6/a) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-9e95a583132dd6a38c902cb046df9ab5]: Textual amendment: Words in [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/8/b) omitted (30.6.2021) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(6)(b)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/6/b) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-c47d9af468bd070fc6a9623053230c4d]: Textual amendment: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/9) substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(7)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/7) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-fbf5bf410fcd1b7a8eb199af28b31417]: Textual amendment: Words in [Sch. para. 9(2)](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/9/2) inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(6)(a)](https://www.legislation.gov.uk/uksi/2023/187/article/7/6/a)
+
+[^key-e1d09663d11d8e35e74887acbfe36248]: Textual amendment: [Sch. para. 9(3)](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/9/3) inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(6)(b)](https://www.legislation.gov.uk/uksi/2023/187/article/7/6/b)
+
+[^key-90ec83f161afad67b97ae2b982a3a34e]: Textual amendment: [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/10/a) omitted (30.6.2021) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(8)(a)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/8/a) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-a77f6a8db97c77af3da14b30ebd97fa3]: Textual amendment: Words in [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/2003/3146/schedule/paragraph/10/b) omitted (30.6.2021) by virtue of [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [6(8)(b)](https://www.legislation.gov.uk/uksi/2021/611/regulation/6/8/b) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3))
+
+[^key-80e3c85b933243abad1af8f3d2b95766]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2003/3146/schedule) Table A substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2021/611/schedule/1) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3)[(4)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/4)[(6)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/6)[(7)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/7))
+
+[^key-bfdaf2c36ec7aadd5656db4946f2d02d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3146/schedule) Table A omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(7)(a)](https://www.legislation.gov.uk/uksi/2023/187/article/7/7/a)
+
+[^key-5f325673da924546d630e4b8e6cb3810]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3146/schedule) Table A omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(7)(b)](https://www.legislation.gov.uk/uksi/2023/187/article/7/7/b)
+
+[^key-0288962c28be4077dbf589e09e26145e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3146/schedule) Table A omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(7)(c)](https://www.legislation.gov.uk/uksi/2023/187/article/7/7/c)
+
+[^key-7e00af74d7e30d2dffb02c20d308d0d5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3146/schedule) Table A omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(7)(d)](https://www.legislation.gov.uk/uksi/2023/187/article/7/7/d)
+
+[^key-d5298d0282e245475296859fe6ba9071]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3146/schedule) Table A omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(7)(e)](https://www.legislation.gov.uk/uksi/2023/187/article/7/7/e)
+
+[^key-9220614e33f9c90bf3ff1e341fe59bef]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3146/schedule) Table A omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(7)(f)](https://www.legislation.gov.uk/uksi/2023/187/article/7/7/f)
+
+[^key-23669833c419e65c22851bf6ea4963a6]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2003/3146/schedule) Table AA inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(8)](https://www.legislation.gov.uk/uksi/2023/187/article/7/8)
+
+[^key-16c45f7c1867f366e0e9eb08fc8fda32]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2003/3146/schedule) Table B substituted (30.6.2021) by [The Local Authorities (Capital Finance and Accounting) (England) (Amendment) Regulations 2021 (S.I. 2021/611)](https://www.legislation.gov.uk/uksi/2021/611), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/611/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/611/schedule/2) (with [reg. 7(3)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/3)[(5)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/5)[(7)](https://www.legislation.gov.uk/uksi/2021/611/regulation/7/7))
+
+[^key-7884b4edebca4419f88c39daeb52f3e6]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3146/schedule) Table B omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(9)(a)](https://www.legislation.gov.uk/uksi/2023/187/article/7/9/a)
+
+[^key-2f7238b9f457b285db2be79b77a8b8f8]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3146/schedule) Table B omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(9)(b)](https://www.legislation.gov.uk/uksi/2023/187/article/7/9/b)
+
+[^key-4a7164d13278159085bfa8633b4a9bdd]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3146/schedule) Table B omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(9)(c)](https://www.legislation.gov.uk/uksi/2023/187/article/7/9/c)
+
+[^key-3b7c56dfde9ac2d7301458d4674a1c1d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3146/schedule) Table B omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(9)(d)](https://www.legislation.gov.uk/uksi/2023/187/article/7/9/d)
+
+[^key-8d3659ffc0439115a649dab17029f35f]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3146/schedule) Table B omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(9)(e)](https://www.legislation.gov.uk/uksi/2023/187/article/7/9/e)
+
+[^key-40323afa132f4c53c7932cf1f6dd4330]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3146/schedule) Table B omitted (1.4.2023) by virtue of [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(9)(f)](https://www.legislation.gov.uk/uksi/2023/187/article/7/9/f)
+
+[^key-6532bf240456f02e655a69ceda6c3634]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2003/3146/schedule) Table BB inserted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [7(10)](https://www.legislation.gov.uk/uksi/2023/187/article/7/10)

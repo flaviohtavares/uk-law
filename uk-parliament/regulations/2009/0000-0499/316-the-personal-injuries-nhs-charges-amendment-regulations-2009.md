@@ -1,0 +1,199 @@
+---
+title: The Personal Injuries (NHS Charges) Amendment Regulations 2009
+id: uksi/2009/316
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-02-18'
+text_date: '2009-05-04'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2009/316
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/316/pdfs/uksiem_20090316_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/316/pdfs/uksi_20090316_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/316/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Personal Injuries (NHS Charges) Amendment Regulations 2009
+
+> Text as at 2009-05-04.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2009 No. 316
+
+National Health Service, England And Wales
+
+The Personal Injuries (NHS Charges) Amendment Regulations 2009
+
+Made
+
+18th February 2009
+
+Laid before Parliament
+
+23rd February 2009
+
+Coming into force
+
+1st April 2009
+
+The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 153(2) and (5), 160(1) to (3) and 195(1) and (2) of the Health and Social Care (Community Health and Standards) Act 2003[^f00001].
+
+In accordance with section 195(3) of that Act the Secretary of State has consulted the Welsh Ministers.
+
+## 1. Citation, commencement, application and interpretation[^key-fef4789dd29a66a8eb2be7ae2ba13532]
+
+(1) These Regulations may be cited as the Personal Injuries (NHS Charges) Amendment Regulations 2009 and shall come into force on 1st April 2009.
+
+(2) These Regulations apply in relation to England and Wales.
+
+(3) In these Regulations—
+
+- “certificate” means a certificate of NHS charges issued under section 151 of the Health and Social Care (Community Health and Standards) Act 2003;
+- “the principal Regulations” means the Personal Injuries (NHS Charges) (Amounts) Regulations 2007[^f00002];
+- “the 2006 Regulations” means the Personal Injuries (NHS Charges) (General) and Road Traffic (NHS Charges) (Amendment) Regulations 2006[^f00003].
+
+## 2. Amendment of the principal Regulations[^key-8ceb453f3776f20e093f9dd03eed48c0]
+
+The principal Regulations are amended in accordance with Schedule 1.
+
+## 3. Amendment of the 2006 Regulations[^key-ffbf63240179cbf923e29e977d7dc6d7]
+
+The 2006 Regulations are amended in accordance with Schedule 2.
+
+## 4. Saving[^key-55d6c358e7afb311ca779565ba03330b]
+
+Notwithstanding regulation 2, the principal Regulations shall continue to have effect in respect of a certificate relating to an injury which occurred before 1st April 2009 as if the amendments made under paragraph 1(b) to (e)[^key-ebc2f789495a7ce435e8efe6e05dd6ab] of Schedule 1 had not been made.
+
+Signed by authority of the Secretary of State for Health.
+
+Ben Bradshaw
+
+Minister of State,
+
+Department of Health
+
+18th February 2009
+
+## SCHEDULE 1 — AMENDMENT OF THE PRINCIPAL REGULATIONS
+
+Regulation 2
+
+### 1. Amendment of regulation 2[^key-61b1198c721bd6aaaa900edff3740c8c]
+
+In regulation 2 of the principal Regulations (amount of NHS charges)—
+
+- (a) in paragraph (1) for “regulation 3” substitute “regulations 3 and 3A”;
+- (b) in paragraph (1)(a) for “£165” substitute “£171”;
+- (c) in paragraph (1)(b)(i) for “£547” substitute “£566”;
+- (d) in paragraph (1)(b)(ii) for “£672” substitute “£695”; and
+- (e) in paragraph (4) for “£40,179” substitute “£41,545”.
+
+### 2. Amendment of regulation 3[^key-19a472cace8768a42777e8ed16a47770]
+
+After regulation 3 (amount of NHS Charges: further provision) of the principal Regulations insert—
+
+> **3A. Amount of NHS charges: reduction in respect of overseas visitors’ charges**
+>
+> (1) This regulation applies to a certificate where the amount to be specified in the certificate is determined under section 153 of the Act on or after 1st April 2009.
+>
+> (2) This paragraph applies where—
+>
+> - (a) a charge has been made in respect of an injured person in accordance with regulation 2(1) of the National Health Service (Charges to Overseas Visitors) Regulations 1989[^f00004] for the provision of NHS treatment[^f00005] at a hospital; and
+> - (b) the compensation payment made to or in respect of that injured person includes an amount in respect of the charge referred to in sub-paragraph (a).
+>
+> (3) Where paragraph (2) applies, the amount for the purpose of section 153(2) to be specified in relation to NHS treatment at a hospital in the certificate which relates to the compensation payment referred to in paragraph (2)(b) shall be £0.
+
+.
+
+## SCHEDULE 2 — AMENDMENT OF THE 2006 REGULATIONS
+
+Regulation 3
+
+### 1. Amendment of regulation 1[^key-acc31971083aef782cce3f4a7ef8ca72]
+
+In regulation 1(3) of the 2006 Regulations (citation, commencement, application and interpretation) insert the following definitions in the appropriate alphabetical position—
+
+> - “the 1989 Regulations” means the National Health Service (Charges to Overseas Visitors) Regulations 1989;
+> - “overseas visitors’ charge” means a charge in accordance with regulation 2(1) of the 1989 Regulations for the provision of NHS treatment at a hospital.
+
+.
+
+### 2. Amendment of regulation 2[^key-ac3e0436287153521803227465465cd0]
+
+In regulation 2(1)(f) of the 2006 Regulations (application for a certificate of NHS charges) after “made” insert “, whether that payment includes an amount in respect of an overseas visitors’ charge and, if so, documentary evidence of payment of that amount”.
+
+### 3. Amendment of regulation 5[^key-bf8c92e97550eb5be309bbc625cc2836]
+
+In regulation 5 of the 2006 Regulations (information to be provided in relation to an injured person) —
+
+- (a) in paragraph (1) for “(g)” substitute “(h)”;
+- (b) at the end of paragraph (3)(f)(ii) omit “and”;
+- (c) after paragraph (3)(g) insert—
+
+  > - (h) whether the claim for compensation includes payment of an overseas visitors’ charge.
+
+  ;
+- (d) in paragraph (4)(d) omit “and”; and
+- (e) after paragraph (4)(e) insert—
+
+  > - (f) whether an overseas visitors’ charge has been made in respect of the injured person.
+
+  .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Personal Injuries (NHS Charges) (Amounts) Regulations 2007 (“the principal Regulations”) which make provision about the charges payable under the scheme for the recovery of NHS charges in cases where an injured person who receives a compensation payment in respect of injury has received National Health Service treatment or ambulance services (“NHS charges”).
+
+The Regulations also amend the Personal Injuries (NHS Charges) (General) and Road Traffic (NHS Charges) (Amendment) Regulations 2006 (“the 2006 Regulations”) which make further provision as to various matters in connection with the scheme on NHS charges.
+
+Amendments made to the principal Regulations by regulation 2 and Schedule 1 increase the charges in respect of injuries which occur on or after 1st April 2009. Where the injured person is provided with NHS ambulance services, the charge is increased from £165 to £171 for each occasion. Where the injured person receives NHS treatment, but is not admitted to hospital, the charge is increased from £547 to £566. The daily charge for NHS in-patient treatment is increased from £672 to £695. The maximum charge in respect of an injury is increased from £40,179 to £41,545.
+
+Regulation 2 and Schedule 1 also amend the principal Regulations to make provision for the amount of the NHS charges to be reduced to nil in respect of NHS hospital treatment where a charge for the provision of that treatment has been made in respect of the injured person under the National Health Service (Charges to Overseas Visitors) Regulations 1989 and the compensation payment includes an amount for this charge. This applies to determinations of NHS charges under section 153 of the Health and Social Care (Community Health and Standards) Act 2003 which take place on or after 1st April 2009.
+
+Regulation 3 and Schedule 2 amend the 2006 Regulations to add to the list of information to be provided by certain classes of persons under the scheme on NHS charges.
+
+Regulation 4 is a saving provision which maintains the current charges for injuries occurring before 1st April 2009.
+
+A full Impact Assessment has not been prepared for these Regulations as a negligible impact on business, charities or voluntary bodies is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c.43](https://www.legislation.gov.uk/ukpga/2003/43) (“the 2003 Act”). By section 167(1) the powers are exercisable in relation to England and Wales by the Secretary of State. *See* section 168 for the definition of “prescribed”. Section 195 was amended by Schedule 4 to the National Health Service (Consequential Provisions) Act [2006 (c.43)](https://www.legislation.gov.uk/ukpga/2006/43) and by [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407).
+
+[^key-fef4789dd29a66a8eb2be7ae2ba13532]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/316/regulation/1) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
+
+[^f00002]: Footnote: [S.I. 2007/115](https://www.legislation.gov.uk/uksi/2007/115), amended by [S.I. 2008/252](https://www.legislation.gov.uk/uksi/2008/252).
+
+[^f00003]: Footnote: [S.I. 2006/3388](https://www.legislation.gov.uk/uksi/2006/3388).
+
+[^key-8ceb453f3776f20e093f9dd03eed48c0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/316/regulation/2) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
+
+[^key-ffbf63240179cbf923e29e977d7dc6d7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/316/regulation/3) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
+
+[^key-55d6c358e7afb311ca779565ba03330b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/316/regulation/4) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
+
+[^key-ebc2f789495a7ce435e8efe6e05dd6ab]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2009/316/regulation/4) substituted (4.5.2009) by [The Personal Injuries (NHS Charges) Amendment (No. 2) Regulations 2009 (S.I. 2009/834)](https://www.legislation.gov.uk/uksi/2009/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/834/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/834/regulation/2)
+
+[^key-61b1198c721bd6aaaa900edff3740c8c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/316/schedule/1/paragraph/1) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
+
+[^key-19a472cace8768a42777e8ed16a47770]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2009/316/schedule/1/paragraph/2) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
+
+[^f00004]: Footnote: [S.I. 1989/306](https://www.legislation.gov.uk/uksi/1989/306), amended by [S.I. 1991/438](https://www.legislation.gov.uk/uksi/1991/438), [2000/602](https://www.legislation.gov.uk/uksi/2000/602) and [2004/696](https://www.legislation.gov.uk/uksi/2004/696); there are other amending instruments but none is relevant.
+
+[^f00005]: Footnote: *See* section 150(7) of the 2003 Act for the definition of “NHS treatment”.
+
+[^key-acc31971083aef782cce3f4a7ef8ca72]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/316/schedule/2/paragraph/1) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
+
+[^key-ac3e0436287153521803227465465cd0]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/316/schedule/2/paragraph/2) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
+
+[^key-bf8c92e97550eb5be309bbc625cc2836]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2009/316/schedule/2/paragraph/3) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)

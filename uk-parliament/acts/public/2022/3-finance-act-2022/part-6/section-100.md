@@ -1,0 +1,49 @@
+---
+title: Finance Act 2022, section 100
+act: Finance Act 2022
+section: '100'
+status: revised
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2022/3/section/100
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2022, section 100
+
+> Text as at 2026-03-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 100. Power to make temporary modifications of taxation of employment income
+
+*Extent: E+W+S+N.I.*
+
+(1) The Treasury may by regulations modify Part 3, 4 or 5 of ITEPA 2003 so as to provide that a liability to income tax that would otherwise arise does not arise.
+
+(2) Regulations under this section—
+
+- (a) may be made only if the Treasury considers that the modifications contained in the regulations are necessary or desirable for the purpose of addressing circumstances arising as a result of a disaster or emergency;
+- (b) must provide for the modifications to cease to have effect at the end of such period as is specified (and different periods may be specified in relation to different modifications).
+
+(3) Regulations under this section—
+
+- (a) must specify the disaster or emergency in respect of which they are made;
+- (b) may only specify a disaster or emergency which the Treasury considers to be of national significance.
+
+(4) The period specified under subsection (2)(b) in relation to a modification—
+
+- (a) must be no longer than the Treasury considers necessary for the purpose mentioned in subsection (2)(a);
+- (b) must in any event end before the last day of the tax year following the tax year in which the modification first takes effect.
+
+(5) The expiry of a modification contained in regulations under this section in relation to a disaster or emergency is not to be taken as preventing the making of provision to the same or similar effect in further regulations under this section in relation to that (or another) disaster or emergency.
+
+(6) Regulations under this section may—
+
+- (a) make different provision for different cases;
+- (b) make retrospective provision;
+- (c) make incidental or supplemental provision;
+- (d) make consequential provision (which may include provision modifying any provision of the Income Tax Acts).
+
+(7) In this section, “**specified**” means specified in the regulations.

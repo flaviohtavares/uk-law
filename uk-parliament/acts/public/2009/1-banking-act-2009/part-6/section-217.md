@@ -1,0 +1,68 @@
+---
+title: Banking Act 2009, section 217
+act: Banking Act 2009
+section: '217'
+status: revised-with-pending-changes
+text_date: '2026-01-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/1/section/217
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Banking Act 2009, section 217
+
+> **Warning: changes not yet applied to this text (7).** Text as at 2026-01-19. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 217. Backing assets[^key-653eddb849782c373947cfd886b49832]
+
+*Extent: E+W+S+N.I.*
+
+(1) Banknote regulations must require authorised banks to have backing assets.
+
+(2) “**Backing assets**” means assets of a kind specified by banknote regulations; and the regulations may, in particular, specify—
+
+- (a) banknotes issued by the Bank of England,
+- (b) current coins of the United Kingdom, and
+- (c) funds in a specified kind of account held with the Bank of England or with another specified institution or class of institution.
+
+(3) The regulations must—
+
+- (a) require banknote rules to include provision for determining the value of backing assets to be held,
+- (b) require backing assets in the form of banknotes to be held either—
+  - (i) by the Bank of England, or
+  - (ii) at one or more locations approved by the Bank of England, and
+- (c) require backing assets held in the form of coins to be held at one or more locations approved by the Bank of England.
+
+(4) The regulations may make other provision about backing assets; including, in particular—
+
+- (a) provision requiring a proportion of a bank's backing assets to consist of assets of a specified kind;
+- (b) provision about the manner in which backing assets may or must be held;
+- (c) provision about ownership of and interests in backing assets;
+- (d) provision permitting backing assets to be held by an agent of an authorised bank.
+
+(5) Banknote regulations may make provision about the treatment of backing assets in relation to insolvency; in particular, the regulations may—
+
+- (a) modify or disapply a provision or rule of law about insolvency;
+- (b) protect backing assets from being treated in the same way as other assets of the bank;
+- (c) provide for banknotes to be exchanged by bearers within a specified period;
+- (d) allow the Treasury to extend the period for exchange;
+- (e) provide for exchange to be funded from backing assets;
+- (f) provide for the Bank of England to acquire or control a bank's backing assets for the purpose of administering arrangements for exchange.
+
+(6) In subsection (5) a reference to “**insolvency**” includes a reference to—
+
+- (a) liquidation,
+- (b) bank insolvency,
+- (c) administration,
+- (d) bank administration,
+- (e) receivership,
+- (f) a composition between a bank and its creditors,
+- (g) a scheme of arrangement of a bank's affairs, and
+- (h) a process under the law of a country or territory outside the United Kingdom which the Treasury identify, in banknote regulations, as serving a similar purpose to any of the processes listed in paragraphs (a) to (g).
+
+## Annotations
+
+[^key-653eddb849782c373947cfd886b49832]: Commencement: S. 217 in force at 12.11.2009 for specified purposes and 23.11.2009 in so far as not already in force by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [arts. 2](https://www.legislation.gov.uk/uksi/2009/3000/article/2), [3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)

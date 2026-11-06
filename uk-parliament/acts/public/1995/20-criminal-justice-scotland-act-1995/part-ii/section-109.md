@@ -1,0 +1,31 @@
+---
+title: Criminal Justice (Scotland) Act 1995, section 109
+act: Criminal Justice (Scotland) Act 1995
+section: '109'
+status: repealed
+text_date: '1997-08-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1995/20/section/109
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice (Scotland) Act 1995, section 109
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 109. Order in Council as regards taking of action in designated country.
+
+*Extent: S*
+
+**No longer in force (ended 1996-04-01).**
+
+(1) Her Majesty may by Order in Council make such provision in connection with the taking of action in a designated country in consequence of the making of a restraint order, confiscation order or suspended forfeiture order under this Act or a forfeiture order under any other enactment as appears to Her Majesty to be expedient.
+
+(2) Without prejudice to the generality of subsection (1) above, the provision contained in an Order in Council made under this section may include a direction that in such circumstances as may be specified proceeds arising out of action taken in a designated country with a view to satisfying a confiscation order which are retained there shall nevertheless be treated as reducing the amount payable under the confiscation order to such extent as may be specified.
+
+(3) An Order in Council under this section may amend or apply, with or without modifications, any enactment.
+
+(4) Subsections (1)(b), (3) and (5) of section 106 of this Act shall apply in respect of Orders in Council under this section as they apply in respect of Orders in Council under that section.

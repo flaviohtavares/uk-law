@@ -1,0 +1,800 @@
+---
+title: Contempt of Court Act 1981
+id: ukpga/1981/49
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1981-07-27'
+text_date: '2026-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1981/49
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1981/49/pdfs/ukpga_19810049_en.pdf
+- http://www.legislation.gov.uk/ukpga/1981/49/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Contempt of Court Act 1981
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/49
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Contempt of Court Act 1981
+
+1981 c. 49
+
+An Act to amend the law relating to contempt of court and related matters.
+
+\[27th July 1981\][^c8107831][^c8107841]
+
+## Strict liability
+
+### 1. The strict liability rule.
+
+In this Act “**the strict liability rule**” means the rule of law whereby conduct may be treated as a contempt of court as tending to interfere with the course of justice in particular legal proceedings regardless of intent to do so.
+
+### 2. Limitation of scope of strict liability.
+
+(1) The strict liability rule applies only in relation to publications, and for this purpose “**publication**” includes any speech, writing, programme included in a cable programme service[^c8107851] or other communication in whatever form, which is addressed to the public at large or any section of the public.
+
+(2) The strict liability rule applies only to a publication which creates a substantial risk that the course of justice in the proceedings in question will be seriously impeded or prejudiced.
+
+(3) The strict liability rule applies to a publication only if the proceedings in question are active within the meaning of this section at the time of the publication.
+
+(4) Schedule 1 applies for determining the times at which proceedings are to be treated as active within the meaning of this section.
+
+(5)[^c8107861] In this section “**programme service**” has the same meaning as in the Broadcasting Act 1990.
+
+### 3. Defence of innocent publication or distribution.
+
+(1) A person is not guilty of contempt of court under the strict liability rule as the publisher of any matter to which that rule applies if at the time of publication (having taken all reasonable care) he does not know and has no reason to suspect that relevant proceedings are active.
+
+(2) A person is not guilty of contempt of court under the strict liability rule as the distributor of a publication containing any such matter if at the time of distribution (having taken all reasonable care) he does not know that it contains such matter and has no reason to suspect that it is likely to do so.
+
+(3) The burden of proof of any fact tending to establish a defence afforded by this section to any person lies upon that person.
+
+(4) [^c21524191]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Contemporary reports of proceedings.
+
+(1) Subject to this section a person is not guilty of contempt of court under the strict liability rule in respect of a fair and accurate report of legal proceedings held in public, published contemporaneously and in good faith.
+
+(2) In any such proceedings the court may, where it appears to be necessary for avoiding a substantial risk of prejudice to the administration of justice in those proceedings, or in any other proceedings pending or imminent, order that the publication of any report of the proceedings, or any part of the proceedings, be postponed for such period as the court thinks necessary for that purpose.
+
+(2A)[^c8108011] Where in proceedings for any offence which is an administration of justice offence for the purposes of section 54 of the [^c8108021] Criminal Procedure and Investigations Act 1996 (acquittal tainted by an administration of justice offence) it appears to the court that there is a possibility that (by virtue of that section) proceedings may be taken against a person for an offence of which he has been acquitted, subsection (2) of this section shall apply as if those proceedings were pending or imminent.
+
+(3) For the purposes of subsection (1) of this section [^c22555941]. . . a report of proceedings shall be treated as published contemporaneously—
+
+- (a) in the case of a report of which publication is postponed pursuant to an order under subsection (2) of this section, if published as soon as practicable after that order expires;
+- (b)[^key-9f3c68af628f0c757aedbc6b10e6d97e] in the case of a report of allocation or sending proceedings of which publication is permitted by virtue only of subsection (6) of section 52A of the Crime and Disorder Act 1998 (“ **the 1998 Act** ”), if published as soon as practicable after publication is so permitted;
+- (c) in the case of a report of an application of which publication is permitted by virtue only of sub-paragraph (5) or (7) of paragraph 3 of Schedule 3 to the 1998 Act, if published as soon as practicable after publication is so permitted.
+
+(4) [^c21524201]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Discussion of public affairs.
+
+A publication made as or as part of a discussion in good faith of public affairs or other matters of general public interest is not to be treated as a contempt of court under the strict liability rule if the risk of impediment or prejudice to particular legal proceedings is merely incidental to the discussion.
+
+### 6. Savings.
+
+Nothing in the foregoing provisions of this Act—
+
+- (a) prejudices any defence available at common law to a charge of contempt of court under the strict liability rule;
+- (b) implies that any publication is punishable as contempt of court under that rule which would not be so punishable apart from those provisions;
+- (c) restricts liability for contempt of court in respect of conduct intended to impede or prejudice the administration of justice.
+
+### 7. Consent required for institution of proceedings.
+
+*Extent: E+W+N.I.*
+
+Proceedings for a contempt of court under the strict liability rule (other than Scottish proceedings) shall not be instituted except by or with the consent of the Attorney General or on the motion of a court having jurisdiction to deal with it.
+
+## Other aspects of law and procedure
+
+### 8. Confidentiality of jury’s deliberations: Scotland and Northern Ireland.[^key-7030a7d61b112054d25f986bf8b46f16]
+
+(1 (Extent: E+W) (affected by repeal, see note))[^key-61bfc16e243dd04243ca29f23ee9ba0c] In Scotland and Northern Ireland, *(Extent: S+N.I.)*[^key-3d338f0ae266a742b9a7aad35023ca62] *(Extent: E+W)* *(affected by repeal, see note)*[^key-61bfc16e243dd04243ca29f23ee9ba0c] Subject to *(Extent: E+W)* *(affected by repeal, see note)*[^key-61bfc16e243dd04243ca29f23ee9ba0c] subsections (1A) and (2)[^key-40fbed56ac6ee1a583d93bcecbc9de5d] *(Extent: E+W)* *(affected by repeal, see note)*[^key-61bfc16e243dd04243ca29f23ee9ba0c] below, it is a contempt of court to obtain, disclose or solicit any particulars of statements made, opinions expressed, arguments advanced or votes cast by members of a jury in the course of their deliberations in any legal proceedings. *(Extent: E+W)* *(affected by repeal, see note)*[^key-61bfc16e243dd04243ca29f23ee9ba0c]
+
+*Extent: S*
+
+(1A (Extent: E+W) (affected by repeal, see note))[^key-d5c8a05bfaa394fac06d372ae554b59a][^key-61bfc16e243dd04243ca29f23ee9ba0c] This section does not apply to the disclosure of any particulars made in accordance with leave granted under section 8A(1) or to the publication of any particulars so disclosed. *(Extent: E+W)* *(affected by repeal, see note)*[^key-61bfc16e243dd04243ca29f23ee9ba0c]
+
+(2 (Extent: E+W) (affected by repeal, see note))[^key-61bfc16e243dd04243ca29f23ee9ba0c] This section does not apply to any disclosure of any particulars— *(Extent: E+W)* *(affected by repeal, see note)*[^key-61bfc16e243dd04243ca29f23ee9ba0c]
+
+- (a (Extent: E+W) (affected by repeal, see note))[^key-61bfc16e243dd04243ca29f23ee9ba0c] in the proceedings in question for the purpose of enabling the jury to arrive at their verdict, or in connection with the delivery of that verdict, or *(Extent: E+W)* *(affected by repeal, see note)*[^key-61bfc16e243dd04243ca29f23ee9ba0c]
+- (b (Extent: E+W) (affected by repeal, see note))[^key-61bfc16e243dd04243ca29f23ee9ba0c] in evidence in any subsequent proceedings for an offence alleged to have been committed in relation to the jury in the first mentioned proceedings, *(Extent: E+W)* *(affected by repeal, see note)*[^key-61bfc16e243dd04243ca29f23ee9ba0c]
+
+or to the publication of any particulars so disclosed. *(Extent: E+W)* *(affected by repeal, see note)*[^key-61bfc16e243dd04243ca29f23ee9ba0c]
+
+(3 (Extent: E+W) (affected by repeal, see note))[^key-61bfc16e243dd04243ca29f23ee9ba0c] Proceedings for a contempt of court under this section (other than Scottish proceedings) shall not be instituted except by or with the consent of the Attorney General or on the motion of a court having jurisdiction to deal with it. *(Extent: E+W)* *(affected by repeal, see note)*[^key-61bfc16e243dd04243ca29f23ee9ba0c]
+
+### 8A. Research into juries[^key-178c4d8a1e46c64647b417f7546b22d9]
+
+*Extent: S*
+
+(1) The Lord Justice General may, for the purposes of research into juries in solemn proceedings, grant leave to a person to obtain, disclose, solicit or publish particulars of—
+
+- (a) statements made,
+- (b) opinions expressed,
+- (c) arguments advanced, or
+- (d) votes cast,
+
+by members of a jury in the course of their deliberations in such proceedings.
+
+(2) Leave under subsection (1) may be—
+
+- (a) granted subject to conditions,
+- (b) withdrawn or amended either generally or in relation to any particular matter.
+
+### 9. Use of tape recorders.[^key-2e6b98123850bc5eb4935ed531ed979e][^key-65ab5019dd719f3618d1abeaf10b7667][^key-270338965be062747f35a0fa2c284902][^key-ab5640b9614d59b00636f62de5b39f24][^key-c3802a19987819bd9363b265c2438d28][^key-1cb08082ad5d26682cf5911a2fe1a3d5][^key-f11da1aa018bb56359a5bfe6d750b32f]
+
+(1) Subject to subsection (4) below, it is a contempt of court—
+
+- (a) to use in court, or bring into court for use, any tape recorder or other instrument for recording sound, except with the leave of the court;
+- (b) to publish a recording of legal proceedings made by means of any such instrument, or any recording derived directly or indirectly from it, by playing it in the hearing of the public or any section of the public, or to dispose of it or any recording so derived, with a view to such publication;
+- (c) to use any such recording in contravention of any conditions of leave granted under paragraph (a).
+- (d)[^key-6d40c671ddb670f721e6ef658f91adb4] to publish or dispose of any recording in contravention of any conditions of leave granted under subsection (1A).
+
+(1A)[^key-89d3c0cb84ca9378bcc51997046ced4b] In the case of a recording of Supreme Court proceedings, subsection (1)(b) does not apply to its publication or disposal with the leave of the Court.
+
+(2) Leave under paragraph (a) of subsection (1) , or under subsection (1A),[^key-65a7590afe52dd852eb2a3863801c6bf] may be granted or refused at the discretion of the court, and if granted—[^key-49abff723882f7b56dbc727b5f24f176]
+
+- (a) may, in the case of leave under subsection (1)(a),
+
+  be granted subject to such conditions as the court thinks proper with respect to the use of any recording made pursuant to the leave and;
+- (b)[^key-c4705595cfde43cb97008ef5cda8da4f] may, in the case of leave under subsection (1A), be granted subject to such conditions as the Supreme Court thinks proper with respect to publication or disposal of any recording to which the leave relates; and
+
+where leave has been granted the court may at the like discretion withdraw or amend it either generally or in relation to any particular part of the proceedings.
+
+(3) Without prejudice to any other power to deal with an act of contempt under paragraph (a) of subsection (1), the court may order the instrument, or any recording made with it, or both, to be forfeited; and any object so forfeited shall (unless the court otherwise determines on application by a person appearing to be the owner) be sold or otherwise disposed of in such manner as the court may direct.
+
+(4) This section does not apply to the making or use of sound recordings for purposes of official transcripts of proceedings.
+
+(4A)[^key-16bf629b04c5f0091b8aca60589cb0c9] This section does not apply to anything done in accordance with a direction under section 85A of the Courts Act 2003 (remote observation and recording of court and tribunal proceedings).
+
+(5 (Extent: E+W))[^key-59506ddd2874ad49097aa7c9672be7ed] See section 32 of the Crime and Courts Act 2013 for power to provide for further exceptions. *(Extent: E+W)*
+
+### 10. Sources of information.
+
+No court may require a person to disclose, nor is any person guilty of contempt of court for refusing to disclose, the source of information contained in a publication for which he is responsible, unless it be established to the satisfaction of the court that disclosure is necessary in the interests of justice or national security or for the prevention of disorder or crime.
+
+### 11. Publication of matters exempted from disclosure in court.
+
+In any case where a court (having power to do so) allows a name or other matter to be withheld from the public in proceedings before the court, the court may give such directions prohibiting the publication of that name or matter in connection with the proceedings as appear to the court to be necessary for the purpose for which it was so withheld.
+
+### 12. Offences of contempt of magistrates’ courts.[^c8108261]
+
+*Extent: E+W+N.I.*
+
+(1) A magistrates’ court has jurisdiction under this section to deal with any person who—
+
+- (a) wilfully insults the justice or justices, any witness before or officer of the court or any solicitor or counsel having business in the court, during his or their sitting or attendance in court or in going to or returning from the court; or
+- (b) wilfully interrupts the proceedings of the court or otherwise misbehaves in court.
+
+(2)[^c8108271][^c8108281] In any such case the court may order any officer of the court, or any constable, to take the offender into custody and detain him until the rising of the court; and the court may, if it thinks fit, commit the offender to custody for a specified period not exceeding one month or impose on him a fine not exceeding £2,500[^c8108291], or both.
+
+(2A)[^c8108301] A fine imposed under subsection (2) above shall be deemed, for the purposes of any enactment, to be a sum adjudged to be paid by a conviction.
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c8108311]
+
+(4) A magistrates’ court may at any time revoke an order of committal made under subsection (2) and, if the offender is in custody, order his discharge.
+
+(5) Section 123 of the Sentencing Code[^key-3574f0dd5d6cdba1c16cdf43c273ca56][^c8108321] (limit on fines in respect of young persons) and the following provisions of the [^c8108331]Magistrates’ Courts Act 1980 apply in relation to an order under this section as they apply in relation to a sentence on conviction or finding of guilty of an offence ; and those provisions of the Magistrates’ Courts Act 1980 are[^c8108341] sections 75 to 91 (enforcement); section 108 (appeal to Crown Court); section 136 (overnight detention in default of payment); and section 142(1) (power to rectify mistakes).
+
+### 13. Legal Aid[^M_E_8fbfa740-fd44-461c-d2cf-10515193c78a][^c8108351]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Penalties for contempt and kindred offences
+
+### 14. Proceedings in England and Wales.[^c8108801]
+
+*Extent: E+W+N.I.*
+
+(1) In any case where a court has power to commit a person to prison for contempt of court and (apart from this provision) no limitation applies to the period of committal, the committal shall (without prejudice to the power of the court to order his earlier discharge) be for a fixed term, and that term shall not on any occasion exceed two years in the case of committal by a superior court, or one month in the case of committal by an inferior court.
+
+(2)[^c8108811] In any case where an inferior court has power to fine a person for contempt of court and (apart from this provision) no limit applies to the amount of the fine, the fine shall not on any occasion exceed £2,500[^c8108821].
+
+(2A)[^c8108831] A fine imposed under subsection (2) above shall be deemed, for the purposes of any enactment, to be a sum adjudged to be paid by a conviction.
+
+(2A)[^c8108841] In the exercise of jurisdiction to commit for contempt of court or any kindred offence the court shall not deal with the offender by making an order under section 60 of the Powers of Criminal Courts (Sentencing) Act 2000[^c8108851] (an attendance centre order) if it appears to the court, after considering any available evidence, that he is under 17 years of age.
+
+(3) [^c8108861]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Each of the superior courts shall have the like power to make a hospital order or guardianship order under section 37 of the[^c8108871] [^c8108881]Mental Health Act 1983 or an interim hospital order under[^c8108891] section 38 of that Act in the case of a person suffering from mental disorder within the meaning of that Act[^c21524241] who could otherwise be committed to prison for contempt of court as the Crown Court has under that section in the case of a person convicted of an offence.
+
+(4A)[^c8108921] Each of the superior courts shall have the like power to make an order under section 35 of the said Act of 1983[^c8108931] (remand for report on accused’s mental condition) where there is reason to suspect that a person who could be committed to prison for contempt of court is suffering from mental disorder within the meaning of that Act as the Crown Court has under that section in the case of an accused person within the meaning of that section.
+
+(4A)[^c8108941] For the purpose of the preceding provisions of this section the county court *(Extent: E+W+S)*[^key-52b3d9e190536099893d7614cc1358e6] shall be treated as a superior court and not as an inferior court.
+
+(4B)[^key-6da40370a7df04f69b4edd8ac1733f67] The preceding provisions of this section do not apply to the family court, but—
+
+- (a) this is without prejudice to the operation of section 31E(1)(a) of the Matrimonial and Family Proceedings Act 1984 (family court has High Court's powers) in relation to the powers of the High Court that are limited or conferred by those provisions of this section, and
+- (b) section 31E(1)(b) of that Act (family court has county court's powers) does not apply in relation to the powers of the county court that are limited or conferred by those provisions of this section.
+
+(5)[^c8108951] The enactments specified in Part III of Schedule 2 shall have effect subject to the amendments set out in that Part, being amendments relating to the penalties and procedure in respect of certain offences of contempt in coroner’s courts, county courts and magistrates’ courts.
+
+### 15. Penalties for contempt of court in Scottish proceedings.[^c8109081]
+
+*Extent: E+W+S*
+
+(1) In Scottish proceedings, when a person is committed to prison for contempt of court the committal shall (without prejudice to the power of the court to order his earlier discharge) be for a fixed term.
+
+(2) The maximum penalty which may be imposed by way of imprisonment or fine for contempt of court in Scottish proceedings shall be two years’ imprisonment or a fine or both, except that—
+
+- (a) where the contempt is dealt with by the sheriff in the course of or in connection with proceedings other than criminal proceedings on indictment, such penalty shall not exceed three months’ imprisonment or a fine of level 4 on the standard scale[^c8109091] or both; and
+- (b) where the contempt is dealt with by the district court, such penalty shall not exceed sixty days’ imprisonment or a fine of level 4 on the standard scale or both.
+
+(3)[^c8109111] The following provisions of the Criminal Procedure (Scotland) Act 1995 shall apply in relation to persons found guilty of contempt of court in Scottish proceedings as they apply in relation to persons convicted of offences—
+
+- (a) in every case, section 207 (restrictions on detention of young offenders);
+- (b) in any case to which paragraph (b) of subsection (2) above does not apply, sections 58, 59 and 61 (persons suffering from mental disorder);
+
+and in any case to which the said paragraph (b) does apply, subsection (5) below shall have effect.
+
+(5) Where a person is found guilty by a district court of contempt of court and it appears to the court that he may be suffering from mental disorder, it shall remit him to the sheriff in the manner provided by section 7(9) and (10) of the Criminal Procedure (Scotland) Act 1995[^c8109121] and the sheriff shall, on such remit being made, have the like power to make an order under section 58(1) of the said Act in respect of him as if he had been convicted by the sheriff of an offence, or in dealing with him may exercise the like powers as the court making the remit.
+
+(6)[^c8109141] For the purposes of section 22 of the Prisons (Scotland) Act 1989[^c8109151] (release on licence of prisoners serving determinate sentences) a penalty of a period of imprisonment imposed for contempt of court shall be treated as a sentence of imprisonment with the meaning of that Act.
+
+### 16. Enforcement of fines imposed by certain superior courts.[^c8109271]
+
+*Extent: E+W+N.I.*
+
+(1) Payment of a fine for contempt of court imposed by a superior court, other than the Crown Court or one of the courts specified in subsection (4) below, may be enforced upon the order of the court—
+
+- (a) in like manner as a judgment of the High Court for the payment of money; or
+- (b) in like manner as a fine imposed by the Crown Court.
+
+(2) Where payment of a fine imposed by any court falls to be enforced as mentioned in paragraph (a) of subsection (1)—
+
+- (a) the court shall, if the fine is not paid in full forthwith or within such time as the court may allow, certify to Her Majesty’s Remembrancer the sum payable;
+- (b) Her Majesty’s Remembrancer shall thereupon proceed to enforce payment of that sum as if it were due to him as a judgment debt; . . . [^c8109281]
+- (c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c8109291]
+
+(3) Where payment of a fine imposed by any court falls to be enforced as mentioned in paragraph (b) of subsection (1), the provisions of sections 130 to 132 of the Sentencing Code[^key-340c55a937529fccee604eb2c8e9b520] shall apply as they apply to a fine imposed by the Crown Court.
+
+(4) Subsection (1) of this section does not apply to fines imposed by the criminal division of the Court of Appeal or by the Supreme Court[^c21524381] on appeal from that division.
+
+(5) The Fines Act 1833 shall not apply to a fine to which subsection (1) of this section applies.
+
+(6)[^c8109311] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Disobedience to certain orders of magistrates’ courts.
+
+*Extent: E+W*
+
+(1) The powers of a magistrates’ court under subsection (3) of section 63 of the [^c8109321]Magistrates’ Courts Act 1980 (punishment by fine or committal for disobeying an order to do anything other than the payment of money or to abstain from doing anything) may be exercised either of the court’s own motion or by order on complaint.
+
+(2) In relation to the exercise of those powers the provisions of the Magistrates’ Court Act 1980 shall apply subject to the modifications set out in Schedule 3 to this Act.
+
+## Supplemental
+
+### 18. Northern Ireland.
+
+*Extent: E+W+N.I.*
+
+(1) In the application of this Act to Northern Ireland references to the Attorney General shall be construed as references to the Attorney General for Northern Ireland.
+
+(2) In their application to Northern Ireland, sections 12, 13, 14 and 16 of this Act shall have effect as set out in Schedule 4.
+
+### 19. Interpretation.
+
+In this Act—
+
+- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c8109331]
+- “**court**” includes any tribunal or body exercising the judicial power of the State, and “**legal proceedings**” shall be construed accordingly;
+- “**publication**” has the meaning assigned by subsection (1) of section 2, and “publish” (except in section 9) shall be construed accordingly;
+- “**Scottish proceedings**” means proceedings before any court, including the Court Martial Appeal Court[^c21524271], [^key-becd85efc996e217a7366c4abc0849cc]... and the Employment Appeal Tribunal, sitting in Scotland, and includes proceedings before the Supreme Court[^c21524401] in the exercise of any appellate jurisdiction over proceedings in such a court;
+- “**the strict liability rule**” has the meaning assigned by section 1;
+- “**superior court**” means the Supreme Court[^c21524421] the Court of Appeal, the High Court, the Crown Court, the Court Martial Appeal Court, [^key-becd85efc996e217a7366c4abc0849cc]... the Employment Appeal Tribunal and any other court exercising in relation to its proceedings powers equivalent to those of the High Court [^c21524441]. . . .
+
+### 20. Tribunals of Inquiry.
+
+(1) In relation to any tribunal to which the [^c8109341]Tribunals of Inquiry (Evidence) Act 1921 applies, and the proceedings of such a tribunal, the provisions of this Act (except subsection (3) of section 9) apply as they apply in relation to courts and legal proceedings; and references to the course of justice or the administration of justice in legal proceedings shall be construed accordingly.
+
+(2) The proceedings of a tribunal established under the said Act shall be treated as active within the meaning of section 2 from the time when the tribunal is appointed until its report is presented to Parliament.
+
+### 21. Short title, commencement and extent.
+
+(1) This Act may be cited as the Contempt of Court Act 1981.
+
+(2)[^c8109351] The provisions of this Act relating to legal aid in England and Wales shall come into force on such day as the Lord Chancellor may appoint by order made by statutory instrument; and the provisions of this Act relating to legal aid in Scotland and Northern Ireland shall come into force on such day or days as the Secretary of State may so appoint.
+
+Different days may be appointed under this subsection in relation to different courts.
+
+(3) Subject to subsection (2), this Act shall come into force at the expiration of the period of one month beginning with the day on which it is passed.
+
+(4) Sections 7, 8(3), 12, 13(1) to (3), 14, 16, 17 and 18, Parts I and III of Schedule 2 and Schedules 3 and 4 of this Act do not extend to Scotland.
+
+(5) This Act, except sections 15 and 17 and Schedules 2 and 3, extends to Northern Ireland.
+
+SCHEDULES
+
+## SCHEDULE 1 — Times when Proceedings are Active for Purposes of Section 2
+
+Section 2.
+
+### Preliminary
+
+**1.** In this Schedule “**criminal proceedings**” means proceedings against a person in respect of an offence, not being appellate proceedings or proceedings commenced by motion for committal or attachment in England and Wales or Northern Ireland; and “**appellate proceedings**” means proceedings on appeal from or for the review of the decision of a court in any proceedings.
+
+*Extent: S*
+
+**1ZA.**[^c21524531] Proceedings under the Double Jeopardy (Scotland) Act 2011 (asp 16) are criminal proceedings for the purposes of this Schedule.
+
+**1A.**[^c21524341][^c21524321] In paragraph 1 the reference to an offence includes a service offence within the meaning of the Armed Forces Act 2006.
+
+**2.** Criminal, appellate and other proceedings are active within the meaning of section 2 at the times respectively prescribed by the following paragraphs of this Schedule; and in relation to proceedings in which more than one of the steps described in any of those paragraphs is taken, the reference in that paragraph is a reference to the first of those steps.
+
+### Criminal proceedings
+
+**3.** Subject to the following provisions of this Schedule, criminal proceedings are active from the relevant initial step specified in paragraph 4 or 4A[^c8109361] until concluded as described in paragraph 5.
+
+**4.** The initial steps of criminal proceedings are:—
+
+- (a) arrest without warrant;
+- (b) the issue, or in Scotland the grant, of a warrant for arrest;
+- (c) the issue of a summons to appear, or in Scotland the grant of a warrant to cite;
+- (d) the service of an indictment or other document specifying the charge;
+- (e) except in Scotland, oral charge;
+- (f)[^c21524551] the making of an application under section 2(2) (tainted acquittals), 3(3)(b) (admission made or becoming known after acquittal), 4(3)(b) (new evidence), 11(3) (eventual death of injured person) or 12(3) (nullity of previous proceedings) of the Double Jeopardy (Scotland) Act 2011 (asp 16).
+
+**4A.**[^c8109371] Where as a result of an order under section 54 of the Criminal Procedure and Investigations Act 1996 (acquittal tainted by an administration of justice offence) proceedings are brought against a person for an offence of which he has previously been acquitted, the initial step of the proceedings is a certification under subsection (2) of that section; and paragraph 4 has effect subject to this.
+
+**5.** Criminal proceedings are concluded—
+
+- (a) by acquittal or, as the case may be, by sentence;
+- (b) by any other verdict, finding, order or decision which puts an end to the proceedings;
+- (c) by discontinuance or by operation of law;
+- (d)[^c21524571] where the initial steps of the proceedings are as mentioned in paragraph 4(f)—
+  - (i) by refusal of the application;
+  - (ii) if the application is granted and within the period of 2 months mentioned in section 6(3) of the Double Jeopardy (Scotland) Act 2011 (asp 16) a new prosecution is brought, by acquittal or, as the case may be, by sentence in the new prosecution.
+
+**6.** The reference in paragraph 5(a) to sentence includes any order or decision consequent on conviction or finding of guilt which disposes of the case, either absolutely or subject to future events, and a deferment of sentence under Chapter 1 of Part 2 of the Sentencing Code[^key-90bee700502125a3f698860a8e41d93a], section 219 or 432 of the [^c8109421]Criminal Procedure (Scotland) Act 1975 or Article 14 of the [^c8109431]Treatment of Offenders (Northern Ireland) Order 1976.
+
+**7.** Proceedings are discontinued within the meaning of paragraph 5(c)—
+
+- (a) in England and Wales or Northern Ireland, if the charge or summons is withdrawn or a *nolle prosequi* entered;
+- (aa)[^c8109441] in England and Wales, if they are discontinued by virtue of section 23 of the Prosecution of Offences Act 1985;
+- (ab)[^key-e4c8046103422767a3bd4c39fbbf35c3] in England and Wales, if they are discontinued by virtue of paragraph 11 of Schedule 17 to the Crime and Courts Act 2013 (deferred prosecution agreements);
+- (b) in Scotland, if the proceedings are expressly abandoned by the prosecutor or are deserted *simpliciter*;
+- (c) in the case of proceedings in [^key-e8ed498e7a6c899df3ad4fd6d0629ea6]... Northern Ireland commenced by arrest without warrant, if the person arrested is released, otherwise than on bail, without having been charged;
+- (ca)[^key-0806ca9253cdc4f32ff923805df2004e] in the case of proceedings in England and Wales commenced by arrest without warrant, if the person arrested is notified that the person is not to be prosecuted (whether under section 34(5C), 37(6B), 37B(5), 37CA(6), 41(11), 42(13), 43(21) or 44(10) of the Police and Criminal Evidence Act 1984 or otherwise);
+- (d)[^c21524591] where the initial steps of the proceedings are as mentioned in paragraph 4(f) and the application is granted, if no new prosecution is brought within the period of 2 months mentioned in section 6(3) of the Double Jeopardy (Scotland) Act 2011 (asp 16).
+
+**8.** [^c21524331]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.** Criminal proceedings in England and Wales or Northern Ireland cease to be active if an order is made for the charge to lie on the file, but become active again if leave is later given for the proceedings to continue.
+
+**9A.**[^c8109451] Where proceedings in England and Wales have been discontinued by virtue of section 23 of the Prosecution of Offences Act 1985, but notice is given by the accused under subsection (7) of that section to the effect that he wants the proceedings to continue, they become active again with the giving of that notice.
+
+**10.** Without prejudice to paragraph 5(b) above, criminal proceedings against a person cease to be active—
+
+- (a) if the accused is found to be under a disability such as to render him unfit to be tried or unfit to plead or, in Scotland, is found to be insane in bar of trial; or
+- (b) if a hospital order is made in his case under section 51(5) of the Mental Health Act 1983[^c8109461] or Article 57(5) of the Mental Health (Northern Ireland) Order 1986[^c8109471] or, in Scotland, where an assessment order or a treatment order ceases to have effect by virtue of sections 52H or 52R respectively of the Criminal Procedure (Scotland) Act 1995[^c21524221],
+
+but become active again if they are later resumed.
+
+**11.** Criminal proceedings against a person which become active on the issue or the grant of a warrant for his arrest cease to be active at the end of the period of twelve months beginning with the date of the warrant unless he has been arrested within that period, but become active again if he is subsequently arrested.
+
+### Other proceedings at first instance
+
+**12.** Proceedings other than criminal proceedings and appellate proceedings are active from the time when arrangements for the hearing are made or, if no such arrangements are previously made, from the time the hearing begins, until the proceedings are disposed of or discontinued or withdrawn; and for the purposes of this paragraph any motion or application made in or for the purposes of any proceedings, and any pre-trial review in the county court, is to be treated as a distinct proceeding.
+
+**13.** In England and Wales or Northern Ireland arrangements for the hearing of proceedings to which paragraph 12 applies are made within the meaning of that paragraph—
+
+- (a) in the case of proceedings in the High Court for which provision is made by rules of court for setting down for trial, when the case is set down;
+- (b) in the case of any proceedings, when a date for the trial or hearing is fixed.
+
+**14.** In Scotland arrangements for the hearing of proceedings to which paragraph 12 applies are made within the meaning of that paragraph—
+
+- (a) in the case of an ordinary action in the Court of Session or in the sheriff court, when the Record is closed;
+- (b) in the case of a motion or application, when it is enrolled or made;
+- (c) in any other case, when the date for a hearing is fixed or a hearing is allowed.
+
+### Appellate proceedings
+
+**15.**[^c8109491] Appellate proceedings are active from the time when they are commenced—
+
+- (a) by application for leave to appeal or apply for review, or by notice of such an application;
+- (b) by notice of appeal or of application for review;
+- (c) by other originating process, until disposed of or abandoned, discontinued or withdrawn.
+
+**16.** Where, in appellate proceedings relating to criminal proceedings, the court—
+
+- (a) remits the case to the court below; or
+- (b) orders a new trial or a*venire de novo*, or in Scotland grants authority to bring a new prosecution,
+
+any further or new proceedings which result shall be treated as active from the conclusion of the appellate proceedings.
+
+## SCHEDULE 2 — Amendments
+
+Sections 13, 14.
+
+### Part I — . . .[^c8109501]
+
+*Extent: E+W+N.I.*
+
+### Part II — Legal Aid (Scotland) Act 1967 (c. 43)[^c8109521][^c8109511]
+
+**1.** In section 1, in subsection (2), after “provide,” there shall be inserted the words “and subject to subsection (7A) below,”.
+
+**2.** In section 1, after subsection (7) there shall be inserted the following subsection:—
+
+> (7A) In any case where a person is liable to be dealt with for contempt of court during the course of or in connection with any proceedings he may be given legal aid and the provisions made by or under this Act in relation to legal aid in summary criminal proceedings shall apply, with any necessary modifications, in such a case, but—
+>
+> - (a) sections 1(6) and (6A) and 2(5) of this Act shall not so apply; and
+> - (b) the court granting legal aid may order in any case that the legal aid to be given shall consist of representation by counsel only or, in a court where solicitors have a right of audience, by a solicitor only; and (notwithstanding anything contained in section 6(1) of this Act) the court may assign for the purpose any counsel or solicitor who is within the precincts of the court at the time when the order is made.
+
+.
+
+### Part III — Coroners Act 1887, County Courts Act 1959, Attachment of Earnings Act 1971 and Magistrates’ Court Act 1980
+
+*Extent: E+W+N.I.*
+
+#### Coroners Act 1887 (c. 71)
+
+**1.** [^c21524211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2—5.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c8109541]
+
+#### Attachment of Earnings Act 1971 (c. 32)
+
+**6.**[^c8109551] In section 23, after subsection (1) there shall be inserted the following subsection:—
+
+> (1A) In any case where the judge has power to make an order of imprisonment under subsection (1) for failure to attend, he may, in lieu of or in addition to making that order, order the debtor to be arrested and brought before the court either forthwith or at such time as the judge may direct.
+
+#### Magistrates’ Courts Act 1980 (c. 43)
+
+**7.**[^c8109561] In section 97, in subsection (4), for the words “7 days” there shall be substituted “one month” and at the end of the subsection there shall be added the words “or impose on him a fine not exceeding £500, or both”.
+
+## SCHEDULE 3 — Application of Magistrates’ Courts Act 1980 to Civil Contempt Proceedings Under Section 63(3)[^c21524511]
+
+*Extent: E+W*
+
+Section 17.
+
+**1.** (1) Where the proceedings are taken of the court’s own motion the provisions of the Act listed in this sub-paragraph shall apply as if a complaint had been made against the person against whom the proceedings are taken, and subject to the modifications specified in sub-paragraphs (2) and (3) below. The enactments so applied are:—
+
+- section 51 (issue of summons)
+- section 53(1) and (2) (procedure on hearing)
+- section 54 (adjournment)
+- section 55 (non-appearance of defendant)
+- section 97(1) (summons to witness)
+- section 101 (onus of proving exceptions etc.)
+- section 121(1) and (3)(a) (constitution and place of sitting of court)
+- section 123 (defect in process).
+
+(2) In section 55, in subsection (1) for the words “the complainant appears but the defendant does not” there shall be substituted the words “the defendant does not appear”, and in subsection (2) the words “**if the complaint has been substantiated on oath, and**” shall be omitted.
+
+(3) In section 123, in subsections (1) and (2) the words “**adduced on behalf of the prosecutor or complainant**” shall be omitted.
+
+**2.** Where the proceedings are taken by way of complaint for an order, section 127 of the Act (limitation of time) shall not apply to the complaint.
+
+**3.** Whether the proceedings are taken of the court’s own motion or by way of complaint for an order, subsection (3) of section 55 shall apply as if the following words were added at the end of the subsection:— “ or, having been arrested under section 47 of the Family Law Act 1996 in connection with the matter of the complaint, is at large after being remanded under subsection (7)(b) or (10) of that section. ”[^c8109571].
+
+## SCHEDULE 4 — Sections 12, 13, 14 and 16 as Applied to Northern Ireland
+
+*Extent: E+W+N.I.*
+
+Section 18.
+
+### 12. Offences of contempt of magistrates’ courts.
+
+(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c8109581]
+
+(2) Paragraph 26 of Schedule 1 to the Criminal Justice (Northern Ireland) [^c8109591]Order 1980 is repealed.
+
+### 13. Legal aid.[^M_F_86231a05-e1f0-449a-c6a8-c5bad6d8a180]
+
+(1) In any case where—
+
+- (a) a person is liable to be committed or fined—
+  - (i) by a magistrates’ court under Article 160 of the Magistrates’ Courts (Northern Ireland) Order 1981[^c8109631];
+  - (ii) by a county court under Article 55 of the [^c8109641] County Courts (Northern Ireland) Order 1980; or
+  - (iia)[^c8109651] by a magistrates’ court or the Crown Court under section 18 of the Criminal Procedure and Investigations Act 1996; or.
+
+- (iii) by any superior court for contempt in the face of that or any other court; and
+- (b) it appears to the court that it is desirable in the interests of justice that he should have legal aid and that he has not sufficient means to enable him to obtain that aid;
+
+the court may order that he shall be given legal aid for the purposes of the proceedings.
+
+(2) Unless the court orders that the legal aid to be given under this section shall consist of representation by counsel only or, in any court where solicitors have a right of audience, by a solicitor only, legal aid under this section shall consist of representation by a solicitor and counsel assigned by the court; and the court may assign for the purpose any counsel or solicitor who is within the precincts of the court at the time when the order is made.
+
+(3) If on a question of granting a person legal aid under this section there is a doubt whether his means are sufficient to enable him to obtain legal aid or whether it is desirable in the interests of justice that he should have legal aid, the doubt shall be resolved in favour of granting him legal aid.
+
+(4) Articles 32, 33, 36 and 40 of the [^c8109661] Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 shall apply in relation to legal aid under this section as they apply in relation to legal aid under Part III of that Order as if any legal aid under this section were given in pursuance of a certificate under Article 29 of that Order.
+
+(5) This section is without prejudice to any other enactment by virtue of which legal aid may be granted in or for purposes of civil or criminal proceedings.
+
+### 14. Proceedings in Northern Ireland.
+
+(1) In any case where a court has power to commit a person to prison for contempt of court and (apart from this provision) no limitation applies to the period of committal, the committal shall (without prejudice to the power of the court to order his earlier discharge) be for a fixed term, and that term shall not on any occasion exceed two years in the case of committal by a superior court, or one month in the case of committal by an inferior court.
+
+(2)[^c8109991] In any case where an inferior court has power to fine a person for contempt of court and (apart from this provision) no limit applies to the amount of the fine, the fine shall not on any occasion exceed £2500[^c8110001].
+
+(2A)[^c8110011] A fine imposed under subsection (2) above shall be deemed, for the purposes of any enactment, to be a sum adjudged to be paid by a conviction.
+
+(3)[^c8110021] . . . [^c8110031]. . ..
+
+(4) Each of the superior courts shall have the like power to make a hospital order or guardianship order under Article 44 of the Mental Health (Northern Ireland) Order 1986 or an interim hospital order under article 45 of that order,[^c8110041] in the case of a person suffering from mental disorder who could otherwise be committed to prison for contempt of court as the Crown Court has under that Article in the case of a person convicted of an offence.
+
+(4A)[^c8110061] Each of the superior courts shall have the like power to make an order under Article 42 of the said Order of 1986 where there is reason to suspect that a person who could be committed to prison for contempt of court is suffering from mental illness or severe mental impairment as the Crown Court has under that Article in the case of an accused person within the meaning of that Article.
+
+(4A)[^c8110071] For the purposes of the preceding provisions of this section a county court shall be treated as a superior court and not as an inferior court.
+
+(5) In subsections (1) and (2) of section 20 of the [^c8110081]Coroners Act (Northern Ireland) 1959, for the words “ten pounds” there shall be substituted “£200” and in section 34 of that Act for the words “twenty-five pounds” there shall be substituted “£500”.
+
+(6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c8110091]
+
+(7) In Article 55 of the County Courts (Northern Ireland) [^c8110101]Order 1980, in paragraph (2), for the words “not exceeding £50” there shall be substituted “not exceeding £500” and for the words “any period” there shall be substituted “a specified period”.
+
+### 16. Enforcement of fines imposed by superior courts.
+
+Section 35 of the [^c8110111]Criminal Justice Act (Northern Ireland) 1945 shall apply to fines imposed for contempt of court by any superior court other than the Crown Court as it applies to fines imposed by the Crown Court.
+
+## Annotations
+
+[^c8107831]: Commencement: Act not in force at Royal Assent. Act partly in force at 27.8.1981 see [s.21(2)(3)](https://www.legislation.gov.uk/ukpga/1981/49/section/21/2/3).
+
+[^c8107841]: Modification: By [Criminal Justice Act 1991 (c. 53, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/53), [s. 101(1)](https://www.legislation.gov.uk/ukpga/1991/53/section/101/1), [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/1991/53/schedule/12/paragraph/23); [S.I. 1991/2208](https://www.legislation.gov.uk/uksi/1991/2208), [art. 2(1)](https://www.legislation.gov.uk/uksi/1991/2208/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2208/schedule/1) it is provided (14.10.1991) that in relation to any time before the commencement of s. 70 of that 1991 Act (which came into force on 1.10.1992 by [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2)) references in any enactment amended by that 1991 Act, to youth courts shall be construed as references to juvenile courts.
+
+[^c8107851]: Textual amendment: Words substituted by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 203(1)](https://www.legislation.gov.uk/ukpga/1990/42/section/203/1), [Sch. 20 para. 31(1)(a)](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/31/1/a): words were previously added by Broadcasting Act 1984 (c. 46 SIF 96), s. 57(1), Sch. 5 para. 39(1)
+
+[^c8107861]: Textual amendment: [S. 2(5)](https://www.legislation.gov.uk/ukpga/1981/49/section/2/5) inserted by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 203(1)](https://www.legislation.gov.uk/ukpga/1990/42/section/203/1), [Sch. 20](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20), [para. 31(1)(b)](https://www.legislation.gov.uk/ukpga/1990/42/paragraph/31/1/b)
+
+[^c21524191]: Textual amendment: [S. 3(4)](https://www.legislation.gov.uk/ukpga/1981/49/section/3/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/1) Group 4
+
+[^c8108011]: Textual amendment: S. 4(2A) inserted (E.W.,N.I.) (4.7.1996 with effect as mentioned in [s. 54(4)(7)(8)](https://www.legislation.gov.uk/ukpga/1996/25/section/54/4/7/8) of the amending Act) by [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25), [ss. 54(4)(7)(8)](https://www.legislation.gov.uk/ukpga/1996/25/section/54/4/7/8), [57(3)](https://www.legislation.gov.uk/ukpga/1996/25/section/57/3) (with [s. 78(1)](https://www.legislation.gov.uk/ukpga/1996/25/section/78/1)); [S.I. 1997/1504](https://www.legislation.gov.uk/uksi/1997/1504)
+
+[^c8108021]: Marginal citation: [1996 c. 00](https://www.legislation.gov.uk/ukpga/1996/).
+
+[^c22555941]: Textual amendment: Words in s. 4(3) repealed (4.9.1996 so far as consequential on ss. 1, 5, 6, 12, 13, 16 of the repealing Act and 1.4.1999 so far as consequential on ss. 14, 15, 17, Sch. 1 of the repealing Act and 28.2.2000 (E.W.) so far as not already in force and 31.3.2001 (S.) so far as not already in force and 6.1.2010 (N.I.) so far as not already in force) by [1996 c. 31](https://www.legislation.gov.uk/ukpga/1996/31), [s. 16](https://www.legislation.gov.uk/ukpga/1996/31/section/16) {Sch. 2} (with s. 20(2)); [S.I. 1999/817](https://www.legislation.gov.uk/uksi/1999/817), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/817/article/2/b); [S.I. 2000/222](https://www.legislation.gov.uk/uksi/2000/222), [art. 3(b)](https://www.legislation.gov.uk/uksi/2000/222/article/3/b); [S.S.I. 2001/98](https://www.legislation.gov.uk/ssi/2001/98), [art. 3(a)(b)(i)](https://www.legislation.gov.uk/ssi/2001/98/article/3/a/b/i); [S.I. 2009/2858](https://www.legislation.gov.uk/uksi/2009/2858), [art. 3(d)](https://www.legislation.gov.uk/uksi/2009/2858/article/3/d)
+
+[^key-9f3c68af628f0c757aedbc6b10e6d97e]: Textual amendment: S. 4(3)(b)(c) substituted for s. 4(3)(b) (18.6.2012) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 53](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/53); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 3(d)(iv)](https://www.legislation.gov.uk/uksi/2012/1320/article/3/d/iv) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/6/2))
+
+[^c21524201]: Textual amendment: S. 4(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/1) Group 4
+
+[^key-7030a7d61b112054d25f986bf8b46f16]: Textual amendment: Words in s. 8 heading inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 74(4)](https://www.legislation.gov.uk/ukpga/2015/2/section/74/4), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/59) (with [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/4/a))
+
+[^key-61bfc16e243dd04243ca29f23ee9ba0c]: Textual amendment: S. 8 repealed (E.W.) (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/74/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/59) (with [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/4/a))
+
+[^key-3d338f0ae266a742b9a7aad35023ca62]: Textual amendment: Words in s. 8(1) inserted (S.N.I.) (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 74(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/74/3), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/59) (with [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/4/a))
+
+[^key-40fbed56ac6ee1a583d93bcecbc9de5d]: Textual amendment: Words in [s. 8(1)](https://www.legislation.gov.uk/ukpga/1981/49/section/8/1) substituted (S.) (1.1.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 67(2)(a)](https://www.legislation.gov.uk/asp/2025/12/section/67/2/a), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(d)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/d)
+
+[^key-d5c8a05bfaa394fac06d372ae554b59a]: Textual amendment: [S. 8(1A)](https://www.legislation.gov.uk/ukpga/1981/49/section/8/1A) inserted (S.) (1.1.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 67(2)(b)](https://www.legislation.gov.uk/asp/2025/12/section/67/2/b), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(d)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/d)
+
+[^key-178c4d8a1e46c64647b417f7546b22d9]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/1981/49/section/8A) inserted (S.) (1.1.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 67(3)](https://www.legislation.gov.uk/asp/2025/12/section/67/3), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(d)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/d)
+
+[^key-2e6b98123850bc5eb4935ed531ed979e]: Modification: S. 9: power to exclude conferred (E.W.) (15.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 32(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2013/22/section/32/2/b), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/32/6)); [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(f)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/f)
+
+[^key-65ab5019dd719f3618d1abeaf10b7667]: Modification: S. 9 excluded (E.W.) (30.10.2013) by [The Court of Appeal (Recording and Broadcasting) Order 2013 (S.I. 2013/2786)](https://www.legislation.gov.uk/uksi/2013/2786), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2786/article/1), [4](https://www.legislation.gov.uk/uksi/2013/2786/article/4)
+
+[^key-270338965be062747f35a0fa2c284902]: Modification: S. 9 excluded (E.W.) (27.5.2016) by [The Crown Court (Recording) Order 2016 (S.I. 2016/612)](https://www.legislation.gov.uk/uksi/2016/612), [arts. 1](https://www.legislation.gov.uk/uksi/2016/612/article/1), [4](https://www.legislation.gov.uk/uksi/2016/612/article/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/612/article/3))
+
+[^key-ab5640b9614d59b00636f62de5b39f24]: Modification: S. 9 excluded (E.W.) (20.6.2020) by [The Crown Court (Recording and Broadcasting) Order 2020 (S.I. 2020/637)](https://www.legislation.gov.uk/uksi/2020/637), [arts. 1](https://www.legislation.gov.uk/uksi/2020/637/article/1), [4](https://www.legislation.gov.uk/uksi/2020/637/article/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2020/637/article/3))
+
+[^key-c3802a19987819bd9363b265c2438d28]: Modification: S. 9 excluded (temp.) (E.W.) (24.7.2020) by [The Competition Appeal Tribunal (Coronavirus) (Recording and Broadcasting) Order 2020 (S.I. 2020/801)](https://www.legislation.gov.uk/uksi/2020/801), [arts. 1](https://www.legislation.gov.uk/uksi/2020/801/article/1), [4-8](https://www.legislation.gov.uk/uksi/2020/801/article/4) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/801/article/9))
+
+[^key-1cb08082ad5d26682cf5911a2fe1a3d5]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/1981/49/section/9) excluded (E.W.) (11.2.2022) by [The Competition Appeal Tribunal (Recording and Broadcasting) Order 2022 (S.I. 2022/156)](https://www.legislation.gov.uk/uksi/2022/156), [arts. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1), [4-9](https://www.legislation.gov.uk/uksi/2022/156/article/4)
+
+[^key-f11da1aa018bb56359a5bfe6d750b32f]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/1981/49/section/9) excluded (E.W.) (24.10.2023) by [The Courts (Prescribed Recordings) Order 2023 (S.I. 2023/1124)](https://www.legislation.gov.uk/uksi/2023/1124), [arts. 1](https://www.legislation.gov.uk/uksi/2023/1124/article/1), [4](https://www.legislation.gov.uk/uksi/2023/1124/article/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2023/1124/article/3))
+
+[^key-6d40c671ddb670f721e6ef658f91adb4]: Textual amendment: S. 9(1)(d) inserted (25.6.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 31(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/31/4), [61(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/6)
+
+[^key-89d3c0cb84ca9378bcc51997046ced4b]: Textual amendment: S. 9(1A) inserted (25.6.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/31/2), [61(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/6)
+
+[^key-65a7590afe52dd852eb2a3863801c6bf]: Textual amendment: Words in s. 9(2) inserted (25.6.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 31(3)(a)](https://www.legislation.gov.uk/ukpga/2013/22/section/31/3/a), [61(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/6)
+
+[^key-49abff723882f7b56dbc727b5f24f176]: Textual amendment: Words in s. 9(2) substituted (25.6.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 31(3)(b)](https://www.legislation.gov.uk/ukpga/2013/22/section/31/3/b), [61(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/6)
+
+[^key-c4705595cfde43cb97008ef5cda8da4f]: Textual amendment: S. 9(2)(b) and word inserted (25.6.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 31(3)(c)](https://www.legislation.gov.uk/ukpga/2013/22/section/31/3/c), [61(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/6)
+
+[^key-16bf629b04c5f0091b8aca60589cb0c9]: Textual amendment: [S. 9(4A)](https://www.legislation.gov.uk/ukpga/1981/49/section/9/4A) inserted (28.4.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 198(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/198/4), [208(4)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/aa)
+
+[^key-59506ddd2874ad49097aa7c9672be7ed]: Textual amendment: S. 9(5) inserted (E.W.) (15.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 32(8)](https://www.legislation.gov.uk/ukpga/2013/22/section/32/8), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(f)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/f)
+
+[^c8108261]: Extent: In its application to Northern Ireland, s. 12 has effect as set out in Sch. 4, see s. 18
+
+[^c8108271]: Modification: S. 12(2): power to amend conferred (E.W.) by [Magistrates' Courts Act 1980 (c. 43, SIF 82)](https://www.legislation.gov.uk/ukpga/1980/43), [s. 143(2)](https://www.legislation.gov.uk/ukpga/1980/43/section/143/2)(*f*), Sch. 6A as inserted by [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [Sch. 5](https://www.legislation.gov.uk/ukpga/1982/48/schedule/5) and substituted (1.10.1992) by [Criminal Justice Act 1991 (c. 53, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/53), [s. 17(3)](https://www.legislation.gov.uk/ukpga/1991/53/section/17/3), [Sch. 4 Pt. IV](https://www.legislation.gov.uk/ukpga/1991/53/schedule/4/part/IV) (with [s. 28](https://www.legislation.gov.uk/ukpga/1991/53/section/28)); [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2).
+
+[^c8108281]: Modification: S. 12(2) amended (E.W.) (1.10.1992) by [Criminal Justice Act 1991 (c. 53, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/53), [s. 100](https://www.legislation.gov.uk/ukpga/1991/53/section/100), [Sch. 11 para. 29(1)(2)](https://www.legislation.gov.uk/ukpga/1991/53/schedule/11/paragraph/29/1/2); [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2).
+
+[^c8108291]: Textual amendment: Words in s. 12(2) substituted (E.W.) (1.10.1992) by [Criminal Justice Act 1991 (c. 53, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/53), [ss. 17(3)](https://www.legislation.gov.uk/ukpga/1991/53/section/17/3), [102(2)](https://www.legislation.gov.uk/ukpga/1991/53/section/102/2), [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1991/53/schedule/4/part/I) (with [s. 28](https://www.legislation.gov.uk/ukpga/1991/53/section/28)); [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2).
+
+[^c8108301]: Textual amendment: S. 12(2A) inserted (E.W.) (1.10.1992) by [Criminal Justice Act 1991 (c. 53, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/53), [s. 17(3)](https://www.legislation.gov.uk/ukpga/1991/53/section/17/3), [Sch. 4 Pt. V](https://www.legislation.gov.uk/ukpga/1991/53/schedule/4/part/V) (with [s. 28](https://www.legislation.gov.uk/ukpga/1991/53/section/28)); [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2) and substituted (E.W.)(20.9.1993) by [1993 c. 36](https://www.legislation.gov.uk/ukpga/1993/36), [s. 65(3)](https://www.legislation.gov.uk/ukpga/1993/36/section/65/3), [Sch. 3 para. 6(4)](https://www.legislation.gov.uk/ukpga/1993/36/schedule/3/paragraph/6/4); [S.I. 1993/1968](https://www.legislation.gov.uk/uksi/1993/1968), [art. 2(2)](https://www.legislation.gov.uk/uksi/1993/1968/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1993/1968/schedule/2).
+
+[^c8108311]: Textual amendment: S. 12(3) repealed by [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 78](https://www.legislation.gov.uk/ukpga/1982/48/section/78), [Sch. 16](https://www.legislation.gov.uk/ukpga/1982/48/schedule/16)
+
+[^key-3574f0dd5d6cdba1c16cdf43c273ca56]: Textual amendment: Words in s. 12(5) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 65](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/65) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^c8108321]: Textual amendment: Words in s. 12(5) inserted (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/165/1), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 9 para. 83(a)](https://www.legislation.gov.uk/ukpga/2000/6/schedule/9/paragraph/83/a)
+
+[^c8108331]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^c8108341]: Textual amendment: Words in s. 12(5) substituted (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/165/1), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 9 para. 83(b)](https://www.legislation.gov.uk/ukpga/2000/6/schedule/9/paragraph/83/b)
+
+[^M_E_8fbfa740-fd44-461c-d2cf-10515193c78a]: Extent: In its application to Northern Ireland, s. 13 has effect as set out in Sch. 4, see s. 18.
+
+[^c8108351]: Textual amendment: S. 13 repealed by [Legal Aid Act 1988 (c. 34, SIF 77:1)](https://www.legislation.gov.uk/ukpga/1988/34), [s. 45](https://www.legislation.gov.uk/ukpga/1988/34/section/45), [Sch. 6](https://www.legislation.gov.uk/ukpga/1988/34/schedule/6) (and repealed (N.I.) (prosp.) by Access to [Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/uksi/2003/435), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/435/article/1/2), [49](https://www.legislation.gov.uk/uksi/2003/435/article/49), [Sch. 5](https://www.legislation.gov.uk/uksi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/uksi/2003/435/article/45))) (see also Sch. 4 to this Act)
+
+[^c8108801]: Extent: In its application to Northern Ireland, s. 14 has effect as set out in Sch. 4, see s. 18.
+
+[^c8108811]: Modification: S. 14(2): power to amend conferred (E.W.) by [Magistrates' Courts Act 1980 (c. 43, SIF 82)](https://www.legislation.gov.uk/ukpga/1980/43), [s. 143(2)](https://www.legislation.gov.uk/ukpga/1980/43/section/143/2)(*f*), Sch. 6A as inserted by [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 48](https://www.legislation.gov.uk/ukpga/1982/48/section/48), [Sch. 5](https://www.legislation.gov.uk/ukpga/1982/48/schedule/5) and substituted (E.W.) (1.10.1992) by [Criminal Justice Act 1991 (c. 53, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/53), [s. 17(3)](https://www.legislation.gov.uk/ukpga/1991/53/section/17/3), [Sch. 4 Pt. IV](https://www.legislation.gov.uk/ukpga/1991/53/schedule/4/part/IV) (with [s. 28](https://www.legislation.gov.uk/ukpga/1991/53/section/28)); [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2).
+
+[^c8108821]: Textual amendment: Words in s. 14(2) substituted (E.W.) (1.10.1992) by [Criminal Justice Act 1991 (c. 53, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/53), [s. 17(3)](https://www.legislation.gov.uk/ukpga/1991/53/section/17/3), [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1991/53/schedule/4/part/I); [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2).
+
+[^c8108831]: Textual amendment: S. 14(2A) commencing "Section 18 of the Criminal Justice Act 1991..." inserted (E.W.) (1.10.1992) by [Criminal Justice Act 1991 (c. 53, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/53), [s. 17(3)](https://www.legislation.gov.uk/ukpga/1991/53/section/17/3), [Sch. 4 Pt. V para. 3](https://www.legislation.gov.uk/ukpga/1991/53/schedule/4/part/V/paragraph/3) (with [s. 28](https://www.legislation.gov.uk/ukpga/1991/53/section/28)); [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2) and substituted (20.9.1993) by [1993 c. 36](https://www.legislation.gov.uk/ukpga/1993/36), [s. 65(3)](https://www.legislation.gov.uk/ukpga/1993/36/section/65/3), [Sch. 3 para. 6(5)](https://www.legislation.gov.uk/ukpga/1993/36/schedule/3/paragraph/6/5); [S.I. 1993/1968](https://www.legislation.gov.uk/uksi/1993/1968), [art. 2(2)](https://www.legislation.gov.uk/uksi/1993/1968/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1993/1968/schedule/2)..
+
+[^c8108841]: Textual amendment: S. 14(2A) commencing "In the exercise of jurisdiction..." inserted (24.5.1983) by [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [Sch. 14 para. 60](https://www.legislation.gov.uk/ukpga/1982/48/schedule/14/paragraph/60)
+
+[^c8108851]: Textual amendment: Words in s. 14(2A) (inserted by the Criminal Justice Act 1982) inserted (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165](https://www.legislation.gov.uk/ukpga/2000/6/section/165), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 9 para. 84](https://www.legislation.gov.uk/ukpga/2000/6/schedule/9/paragraph/84)
+
+[^c8108861]: Textual amendment: S. 14(3) repealed by [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [Sch. 16](https://www.legislation.gov.uk/ukpga/1982/48/schedule/16)
+
+[^c8108871]: Textual amendment: Words substituted by [Mental Health Act 1983 (c. 20, SIF 85)](https://www.legislation.gov.uk/ukpga/1983/20), [Sch. 4 para. 57](https://www.legislation.gov.uk/ukpga/1983/20/schedule/4/paragraph/57)(*a*)
+
+[^c8108881]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
+
+[^c8108891]: Textual amendment: Words inserted by [Mental Health (Amendment) Act 1982 (c. 51, SIF 85)](https://www.legislation.gov.uk/ukpga/1982/51), [Sch. 3 para. 59](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/59)(*a*)
+
+[^c21524241]: Textual amendment: Words in s. 14(4) and the first subsection (4A) substituted (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2007/12/schedule/1/paragraph/19); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1900/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/1900/schedule))
+
+[^c8108921]: Textual amendment: S. 14(4A): first (4A) inserted (30.9.1983) by [Mental Health (Amendment) Act 1982 (c. 51, SIF 85)](https://www.legislation.gov.uk/ukpga/1982/51), [Sch. 3 para. 60](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/60)
+
+[^c8108931]: Textual amendment: Words substituted (30.9.1983) by [Mental Health Act 1983 (c. 20, SIF 85)](https://www.legislation.gov.uk/ukpga/1983/20), [Sch. 4 para. 57](https://www.legislation.gov.uk/ukpga/1983/20/schedule/4/paragraph/57)(*b*)
+
+[^c8108941]: Textual amendment: S. 14(4A): second (4A) inserted by [County Courts (Penalties for Contempt) Act 1983 (c. 45, SIF 39:3)](https://www.legislation.gov.uk/ukpga/1983/45) (Royal Assent 13.5.1983), ss. 1, 2
+
+[^key-52b3d9e190536099893d7614cc1358e6]: Textual amendment: Words in s. 14 substituted (E.W.S.) (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^key-6da40370a7df04f69b4edd8ac1733f67]: Textual amendment: S. 14(4B) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 53](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/53); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+
+[^c8108951]: Editorial: The text of ss. 3(4), 4(4), 14(5), 16(6), Sch. 2 Pt.II and Pt. III paras. 1, 6 and 7 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c8109081]: Modification: [S. 15](https://www.legislation.gov.uk/ukpga/1981/49/section/15) excluded (25.4.2000) by [1999 c. 17](https://www.legislation.gov.uk/ukpga/1999/17) ss. 3(5), 4(6), 5(12), Sch. 3 Pt. IV para. 23(3) (with s. 15); [S.I. 2000/880](https://www.legislation.gov.uk/uksi/2000/880), [art. 2](https://www.legislation.gov.uk/uksi/2000/880/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/880/schedule/2)
+
+[^c8109091]: Textual amendment: Words in [s. 15(2)](https://www.legislation.gov.uk/ukpga/1981/49/section/15/2) substituted (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 5](https://www.legislation.gov.uk/ukpga/1995/40/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 4 paras. 36(2)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/4/paragraph/36/2), [99](https://www.legislation.gov.uk/ukpga/1995/40/schedule/4/paragraph/99)
+
+[^c8109111]: Textual amendment: [s. 15(3)](https://www.legislation.gov.uk/ukpga/1981/49/section/15/3) substituted (1.4.1996) for s. 15(3)(4) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 5](https://www.legislation.gov.uk/ukpga/1995/40/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 4 para. 36(3)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/4/paragraph/36/3)
+
+[^c8109121]: Textual amendment: Words in [s. 15(5)](https://www.legislation.gov.uk/ukpga/1981/49/section/15/5) substituted (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 5](https://www.legislation.gov.uk/ukpga/1995/40/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 4 para. 36(4)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/4/paragraph/36/4)
+
+[^c8109141]: Textual amendment: [S. 15(6)](https://www.legislation.gov.uk/ukpga/1981/49/section/15/6) inserted by [Criminal Justice (Scotland) Act 1987 (c. 41, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1987/41), [ss. 47(4)(a)](https://www.legislation.gov.uk/ukpga/1987/41/section/47/4/a), [70(1)](https://www.legislation.gov.uk/ukpga/1987/41/section/70/1), [Sch. 1 para. 19(1)(2)](https://www.legislation.gov.uk/ukpga/1987/41/schedule/1/paragraph/19/1/2) and repealed (S.) (1.10.1993) by [1993 c. 9](https://www.legislation.gov.uk/ukpga/1993/9), [s. 47(3)](https://www.legislation.gov.uk/ukpga/1993/9/section/47/3), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1993/9/schedule/7/part/I) (with [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/1993/9/schedule/6/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/1993/9/schedule/6/paragraph/2)); [S.I. 1993/2050](https://www.legislation.gov.uk/uksi/1993/2050), [art. 3(4)](https://www.legislation.gov.uk/uksi/1993/2050/article/3/4).
+
+[^c8109151]: Textual amendment: Words substituted by [Prisons (Scotland) Act 1989 (c. 45, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1989/45), [s. 45(1)](https://www.legislation.gov.uk/ukpga/1989/45/section/45/1), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/1989/45/schedule/2/paragraph/18)
+
+[^c8109271]: Extent: In its application to Northern Ireland, s. 16 has effect as set out in Sch. 4, see s. 18.
+
+[^c8109281]: Textual amendment: Word repealed (1.1.1982) by [Supreme Court Act 1981 (c. 54)](https://www.legislation.gov.uk/ukpga/1981/54), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/54/schedule/7)
+
+[^c8109291]: Textual amendment: S. 16(2)(c) repealed (1.1.1982) by [Supreme Court Act 1981 (c. 54)](https://www.legislation.gov.uk/ukpga/1981/54), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/54/schedule/7)
+
+[^key-340c55a937529fccee604eb2c8e9b520]: Textual amendment: Words in [s. 16(3)](https://www.legislation.gov.uk/ukpga/1981/49/section/16/3) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 66](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/66) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^c21524381]: Textual amendment: Words in s. 16(4) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 35(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/35/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+
+[^c8109311]: Textual amendment: S. 16(6) repealed (E.W.S) (22.8.1996) by [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17), [ss. 45](https://www.legislation.gov.uk/ukpga/1996/17/section/45), [46](https://www.legislation.gov.uk/ukpga/1996/17/section/46), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/17/schedule/3/part/I) (with [s. 38](https://www.legislation.gov.uk/ukpga/1996/17/section/38))
+
+[^c8109321]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^c8109331]: Textual amendment: Definition inserted by [Cable and Broadcasting Act 1984 (c. 46, SIF 96)](https://www.legislation.gov.uk/ukpga/1984/46), [s. 57(1)](https://www.legislation.gov.uk/ukpga/1984/46/section/57/1), [Sch. 5 para. 39(2)](https://www.legislation.gov.uk/ukpga/1984/46/schedule/5/paragraph/39/2) and repealed by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 203(1)(3)](https://www.legislation.gov.uk/ukpga/1990/42/section/203/1/3), [Sch. 20 para. 31(2)](https://www.legislation.gov.uk/ukpga/1990/42/schedule/20/paragraph/31/2), [Sch. 21](https://www.legislation.gov.uk/ukpga/1990/42/schedule/21)
+
+[^c21524271]: Textual amendment: Words in S. 19 substituted (28.3.2009 for specified purposes otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 91](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/91); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+
+[^key-becd85efc996e217a7366c4abc0849cc]: Textual amendment: Words in s. 19 repealed (10.3.2013) by [The Competition Act 1998 (Consequential Provisions) Order 2013 (S.I. 2013/294)](https://www.legislation.gov.uk/uksi/2013/294), [arts. 1](https://www.legislation.gov.uk/uksi/2013/294/article/1), [2](https://www.legislation.gov.uk/uksi/2013/294/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/294/schedule)
+
+[^c21524401]: Textual amendment: Words in s. 19 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 35(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/35/3); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+
+[^c21524421]: Textual amendment: Words in s. 19 inserted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 35(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/35/3); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+
+[^c21524441]: Textual amendment: Words in s. 19 repealed (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 35(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/35/3), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)(f)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d/f)
+
+[^c8109341]: Marginal citation: [1921 c. 7](https://www.legislation.gov.uk/ukpga/1921/7).
+
+[^c8109351]: Modification: Power of appointment conferred by s. 21(2) not exercised
+
+[^c21524531]: Textual amendment: [Sch. 1 para. 1ZA](https://www.legislation.gov.uk/ukpga/1981/49/schedule/1/paragraph/1ZA) inserted (S.) (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 2](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/2); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+
+[^c21524341]: Modification: [Sch. 1 para. 1A](https://www.legislation.gov.uk/ukpga/1981/49/schedule/1/paragraph/1A) modified (24.4.2009 for specified purposes otherwise 31.10.2009) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [205](https://www.legislation.gov.uk/uksi/2009/1059/article/205), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/20)
+
+[^c21524321]: Textual amendment: [Sch. 1 para. 1A](https://www.legislation.gov.uk/ukpga/1981/49/schedule/1/paragraph/1A) inserted (28.3.2009 for specified purposes otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 92](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/92); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+
+[^c8109361]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1981/49/schedule/1/paragraph/3) inserted (E.W.,N.I.) (4.7.1996 with effect as mentioned in [s. 54(4)(7)(8)](https://www.legislation.gov.uk/ukpga/1996/25/section/54/4/7/8) of the amending Act) by [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25), [ss. 54(4)(7)(8)](https://www.legislation.gov.uk/ukpga/1996/25/section/54/4/7/8), [57(4)](https://www.legislation.gov.uk/ukpga/1996/25/section/57/4) (with [s. 78(1)](https://www.legislation.gov.uk/ukpga/1996/25/section/78/1)); [S.I. 1997/1019](https://www.legislation.gov.uk/uksi/1997/1019), [art. 2](https://www.legislation.gov.uk/uksi/1997/1019/article/2); [S.I. 1997/1504](https://www.legislation.gov.uk/uksi/1997/1504), [art. 2](https://www.legislation.gov.uk/uksi/1997/1504/article/2)
+
+[^c21524551]: Textual amendment: [Sch. 1 para. 4(f)](https://www.legislation.gov.uk/ukpga/1981/49/schedule/1/paragraph/4/f) inserted (S.) (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 3](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/3); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+
+[^c8109371]: Textual amendment: [Sch. 1 para. 4A](https://www.legislation.gov.uk/ukpga/1981/49/schedule/1/paragraph/4A) inserted (E.W.,N.I.) (4.7.1996 with effect as mentioned in [s. 54(4)(7)(8)](https://www.legislation.gov.uk/ukpga/1996/25/section/54/4/7/8) of the amending Act) by [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25), [ss. 54(4)(7)(8)](https://www.legislation.gov.uk/ukpga/1996/25/section/54/4/7/8), [57(4)](https://www.legislation.gov.uk/ukpga/1996/25/section/57/4) (with [s. 78(1)](https://www.legislation.gov.uk/ukpga/1996/25/section/78/1)); [S.I. 1997/1019](https://www.legislation.gov.uk/uksi/1997/1019), [art. 2](https://www.legislation.gov.uk/uksi/1997/1019/article/2); [S.I. 1997/1504](https://www.legislation.gov.uk/uksi/1997/1504), [art. 2](https://www.legislation.gov.uk/uksi/1997/1504/article/2)
+
+[^c21524571]: Textual amendment: [Sch. 1 para. 5(d)](https://www.legislation.gov.uk/ukpga/1981/49/schedule/1/paragraph/5/d) inserted (S.) (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 4](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/4); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+
+[^key-90bee700502125a3f698860a8e41d93a]: Textual amendment: Words in Sch. 1 para. 6 substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 67](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/67) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^c8109421]: Marginal citation: [1975 c. 21](https://www.legislation.gov.uk/ukpga/1975/21).
+
+[^c8109431]: Marginal citation: [S.I. 1976/226 (N.I. 4)](https://www.legislation.gov.uk/nisi/1976/226).
+
+[^c8109441]: Textual amendment: Sch. 1 para. 7(*aa*) inserted (E.W.) by [Prosecution of Offences Act 1985 (c. 23, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1985/23), [s. 31(5)](https://www.legislation.gov.uk/ukpga/1985/23/section/31/5), [Sch. 1 Pt. I para. 4](https://www.legislation.gov.uk/ukpga/1985/23/schedule/1/part/I/paragraph/4)
+
+[^key-e4c8046103422767a3bd4c39fbbf35c3]: Textual amendment: Sch. 1 para. 7(ab) inserted (24.2.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 17 para. 34](https://www.legislation.gov.uk/ukpga/2013/22/schedule/17/paragraph/34) (with [Sch. 17 para. 39](https://www.legislation.gov.uk/ukpga/2013/22/schedule/17/paragraph/39)); [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+
+[^key-e8ed498e7a6c899df3ad4fd6d0629ea6]: Textual amendment: Words in [Sch. 1 para. 7(c)](https://www.legislation.gov.uk/ukpga/1981/49/schedule/1/paragraph/7/c) omitted (14.3.2018) by virtue of [The Policing and Crime Act 2017 (Consequential Amendments) Regulations 2018 (S.I. 2018/226)](https://www.legislation.gov.uk/uksi/2018/226), [regs. 1](https://www.legislation.gov.uk/uksi/2018/226/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/226/regulation/4/2/a) (with [reg. 14](https://www.legislation.gov.uk/uksi/2018/226/regulation/14))
+
+[^key-0806ca9253cdc4f32ff923805df2004e]: Textual amendment: [Sch. 1 para. 7(ca)](https://www.legislation.gov.uk/ukpga/1981/49/schedule/1/paragraph/7/ca) inserted (14.3.2018) by [The Policing and Crime Act 2017 (Consequential Amendments) Regulations 2018 (S.I. 2018/226)](https://www.legislation.gov.uk/uksi/2018/226), [regs. 1](https://www.legislation.gov.uk/uksi/2018/226/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/226/regulation/4/2/b) (with [reg. 14](https://www.legislation.gov.uk/uksi/2018/226/regulation/14))
+
+[^c21524591]: Textual amendment: Sch. 1 para. 7(d) inserted (S.) (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 5](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/5); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+
+[^c21524331]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1981/49/schedule/1/paragraph/8) repealed (28.3.2009 for specified purposes otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)) ; [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+
+[^c8109451]: Textual amendment: [Sch. 1 para. 9A](https://www.legislation.gov.uk/ukpga/1981/49/schedule/1/paragraph/9A) inserted (E.W.) by [Prosecution of Offences Act 1985 (c. 23, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1985/23), [s. 31(5)](https://www.legislation.gov.uk/ukpga/1985/23/section/31/5), [Sch. 1 Pt. I para. 5](https://www.legislation.gov.uk/ukpga/1985/23/schedule/1/part/I/paragraph/5)
+
+[^c8109461]: Textual amendment: Words substituted by [Mental Health Act 1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20), [Sch. 4 para. 57](https://www.legislation.gov.uk/ukpga/1983/20/schedule/4/paragraph/57)(*c*)
+
+[^c8109471]: Textual amendment: Words substituted by [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595), [art. 136(1)](https://www.legislation.gov.uk/nisi/1986/595/article/136/1), [Sch. 5 Pt. II](https://www.legislation.gov.uk/nisi/1986/595/schedule/5/part/II)
+
+[^c21524221]: Textual amendment: Words in [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/ukpga/1981/49/schedule/1/paragraph/10/b) substituted (S.) (27.9.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/11/2)
+
+[^c8109491]: Modification: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/1981/49/schedule/1/paragraph/15) excluded (25.4.2000) by [1999 c. 17](https://www.legislation.gov.uk/ukpga/1999/17), [ss. 3(4)](https://www.legislation.gov.uk/ukpga/1999/17/section/3/4), [4(6)](https://www.legislation.gov.uk/ukpga/1999/17/section/4/6), [5(12)](https://www.legislation.gov.uk/ukpga/1999/17/section/5/12), [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/17/schedule/3), [Pt. IV](https://www.legislation.gov.uk/ukpga/1999/17/part/IV), [para. 23(3)](https://www.legislation.gov.uk/ukpga/1999/17/paragraph/23/3); [S.I. 2000/880](https://www.legislation.gov.uk/uksi/2000/880), [art. 2](https://www.legislation.gov.uk/uksi/2000/880/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/880/schedule/2)
+
+[^c8109501]: Textual amendment: [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1981/49/schedule/2/part/I) repealed by [Legal Aid Act 1988 (c. 34, SIF 77:1)](https://www.legislation.gov.uk/ukpga/1988/34), [s. 45](https://www.legislation.gov.uk/ukpga/1988/34/section/45), [Sch. 6](https://www.legislation.gov.uk/ukpga/1988/34/schedule/6)
+
+[^c8109521]: Modification: The text of ss. 3(4), 4(4), 14(5), 16(6), Sch. 2 Pt.II and Pt. III paras. 1, 6 and 7 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c8109511]: Textual amendment: [Sch. 2 Pt. II](https://www.legislation.gov.uk/ukpga/1981/49/schedule/2/part/II) repealed (S.) by [Legal Aid (Scotland) Act 1986 (c. 47, SIF 77:2)](https://www.legislation.gov.uk/ukpga/1986/47), [s. 45(3)](https://www.legislation.gov.uk/ukpga/1986/47/section/45/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/1986/47/schedule/5)
+
+[^c21524211]: Textual amendment: [Sch 2 Pt. 3 para. 1](https://www.legislation.gov.uk/ukpga/1981/49/schedule/2/part/3/paragraph/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/1) Group 4
+
+[^c8109541]: Textual amendment: [Sch. 2 Pt. III paras. 2–5](https://www.legislation.gov.uk/ukpga/1981/49/schedule/2/part/III/paragraph/2) repealed by [County Courts Act 1984 (c. 28, SIF 34)](https://www.legislation.gov.uk/ukpga/1984/28), [s. 148(3)](https://www.legislation.gov.uk/ukpga/1984/28/section/148/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1984/28/schedule/4)
+
+[^c8109551]: Modification: The text of ss. 3(4), 4(4), 14(5), 16(6), Sch. 2 Pt.II and Pt. III paras. 1, 6 and 7 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c8109561]: Modification: The text of ss. 3(4), 4(4), 14(5), 16(6), Sch. 2 Pt.II and Pt. III paras. 1, 6 and 7 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+
+[^c21524511]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1981/49/schedule/3) applied (5.4.2010) by [The Criminal Procedure Rules 2010 (S.I. 2010/60)](https://www.legislation.gov.uk/uksi/2010/60), [rule 22](https://www.legislation.gov.uk/uksi/2010/60/rule/22).8
+
+[^c8109571]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1981/49/schedule/3/paragraph/3) substituted (1.10.1997) by [1996 c. 27](https://www.legislation.gov.uk/ukpga/1996/27), [s. 66(1)](https://www.legislation.gov.uk/ukpga/1996/27/section/66/1), [Sch. 8 Pt. III para. 50](https://www.legislation.gov.uk/ukpga/1996/27/schedule/8/part/III/paragraph/50) (with [Sch. 9 paras. 9](https://www.legislation.gov.uk/ukpga/1996/27/schedule/9/paragraph/9), [10](https://www.legislation.gov.uk/ukpga/1996/27/schedule/9/paragraph/10)); [S.I. 1997/1892](https://www.legislation.gov.uk/uksi/1997/1892), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/1997/1892/article/3/1/b)
+
+[^c8109581]: Textual amendment: [Sch. 4 s. 12(1)](https://www.legislation.gov.uk/ukpga/1981/49/schedule/4/section/12/1) repealed by [S.I. 1981/1675](https://www.legislation.gov.uk/uksi/1981/1675), (N.I. 26), Sch. 7
+
+[^c8109591]: Marginal citation: [S.I. 1980/704 (N.I. 6)](https://www.legislation.gov.uk/nisi/1980/704).
+
+[^M_F_86231a05-e1f0-449a-c6a8-c5bad6d8a180]: Textual amendment: S. 13 as it applies to N.I. repealed (prosp.) by Access to [Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/uksi/2003/435), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/435/article/1/2), [49](https://www.legislation.gov.uk/uksi/2003/435/article/49), [Sch. 5](https://www.legislation.gov.uk/uksi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/uksi/2003/435/article/45))
+
+[^c8109631]: Textual amendment: Words substituted by [S.I. 1981/1675](https://www.legislation.gov.uk/uksi/1981/1675), (N.I. 26), Sch. 6 para. 61
+
+[^c8109641]: Marginal citation: [S.I. 1980/397 (N.I. 3)](https://www.legislation.gov.uk/nisi/1980/397).
+
+[^c8109651]: Textual amendment: Sch. 4: s. 13(1)(a)(iia) inserted (N.I.) (4.7.1996 with application in relation to alleged offences into which no criminal investigation has begun before 1.4.1997) by [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/1996/25/section/1/3), [18(11)](https://www.legislation.gov.uk/ukpga/1996/25/section/18/11), [79(4)](https://www.legislation.gov.uk/ukpga/1996/25/section/79/4), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/1996/25/schedule/4/paragraph/11) (with [s. 78(1)](https://www.legislation.gov.uk/ukpga/1996/25/section/78/1)); [S.I. 1997/682](https://www.legislation.gov.uk/uksi/1997/682), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1997/682/article/2/1/a)
+
+[^c8109661]: Marginal citation: [S.I. 1981/228 (N.I. 8)](https://www.legislation.gov.uk/nisi/1981/228).
+
+[^c8109991]: Modification: Power to amend conferred by [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703), [art. 17(2)(c)](https://www.legislation.gov.uk/nisi/1984/703/article/17/2/c), [Sch. 5](https://www.legislation.gov.uk/nisi/1984/703/schedule/5)
+
+[^c8110001]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1981/49/schedule/4): amount in s. 14(2) substituted (9.1.1995) by [S.I. 1994/2795 (N.I. 15)](https://www.legislation.gov.uk/nisi/1994/2795), [art. 3(5)](https://www.legislation.gov.uk/nisi/1994/2795/article/3/5), [Sch. 1](https://www.legislation.gov.uk/nisi/1994/2795/schedule/1); [S.R. 1994/446](https://www.legislation.gov.uk/nisr/1994/446), [art. 2](https://www.legislation.gov.uk/nisr/1994/446/article/2)
+
+[^c8110011]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1981/49/schedule/4): s. 14(2A) inserted (1.1.1998) by [S.I. 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160), [art. 29(6)](https://www.legislation.gov.uk/nisi/1996/3160/article/29/6), [Sch. 3 para. 4](https://www.legislation.gov.uk/nisi/1996/3160/schedule/3/paragraph/4); [S.R. 1997/523](https://www.legislation.gov.uk/nisr/1997/523), [art. 2(K)](https://www.legislation.gov.uk/nisr/1997/523/article/2/K)
+
+[^c8110021]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1981/49/schedule/4): para. 14(3) repealed (31.1.1999) by [S.I. 1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504), [art. 65(2)](https://www.legislation.gov.uk/nisi/1998/1504/article/65/2), [Sch. 6](https://www.legislation.gov.uk/nisi/1998/1504/schedule/6); [S.R. 1999/25](https://www.legislation.gov.uk/nisr/1999/25), [art. 2](https://www.legislation.gov.uk/nisr/1999/25/article/2)
+
+[^c8110031]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1981/49/schedule/4): words in s. 14(3) repealed (1.1.1998) by [S.I. 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160), [art. 58(3)](https://www.legislation.gov.uk/nisi/1996/3160/article/58/3), [Sch.7](https://www.legislation.gov.uk/nisi/1996/3160/schedule/7); [S.R. 1997/523](https://www.legislation.gov.uk/nisr/1997/523), [art. 2(h)](https://www.legislation.gov.uk/nisr/1997/523/article/2/h)
+
+[^c8110041]: Textual amendment: Words substituted by [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595), [art. 136(1)](https://www.legislation.gov.uk/nisi/1986/595/article/136/1), [Sch. 5 Pt. II](https://www.legislation.gov.uk/nisi/1986/595/schedule/5/part/II)
+
+[^c8110061]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1981/49/schedule/4): first s. 14(4A) inserted by [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595), [art. 136(1)](https://www.legislation.gov.uk/nisi/1986/595/article/136/1), [Sch. 5 Pt. II](https://www.legislation.gov.uk/nisi/1986/595/schedule/5/part/II)
+
+[^c8110071]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1981/49/schedule/4): second s. 14(4A) inserted by [County Courts (Penalties for Contempt) Act 1983 (c. 45, SIF 39:3)](https://www.legislation.gov.uk/ukpga/1983/45), [s. 1](https://www.legislation.gov.uk/ukpga/1983/45/section/1)
+
+[^c8110081]: Marginal citation: [1959 c. 15 (N.I.)](https://www.legislation.gov.uk/apni/1959/15)
+
+[^c8110091]: Textual amendment: [Sch. 4 s. 14(6)](https://www.legislation.gov.uk/ukpga/1981/49/schedule/4/section/14/6) repealed by [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675), [Sch. 7](https://www.legislation.gov.uk/nisi/1981/1675/schedule/7)
+
+[^c8110101]: Marginal citation: [S.I. 1980/397 (N.I. 3)](https://www.legislation.gov.uk/nisi/1980/397).
+
+[^c8110111]: Marginal citation: [1945 c. 15 (N.I.)](https://www.legislation.gov.uk/apni/1945/15)

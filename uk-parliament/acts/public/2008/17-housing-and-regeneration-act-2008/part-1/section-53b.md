@@ -1,0 +1,54 @@
+---
+title: Housing and Regeneration Act 2008, section 53B
+act: Housing and Regeneration Act 2008
+section: 53B
+status: revised-with-pending-changes
+text_date: '2026-05-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2008/17/section/53B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing and Regeneration Act 2008, section 53B
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 53B. Tax consequences of transfers under section 53A[^M_F_c150a4bd-bc48-4e51-8ffc-cce66cbcf4ef]
+
+*Extent: E+W*
+
+(1) The Treasury may by regulations make provision for varying the way in which a relevant tax has effect from time to time in relation to—
+
+- (a) any property, rights or liabilities transferred in accordance with a transfer scheme under section 53A, or
+- (b) anything done for the purposes of, or in relation to, or in consequence of, the transfer of any property, rights or liabilities in accordance with such a transfer scheme.
+
+(2) The provision that may be made under subsection (1)(a) includes, in particular, provision for—
+
+- (a) a tax provision not to apply, or to apply with modifications, in relation to any property, rights or liabilities transferred;
+- (b) any property, rights or liabilities transferred to be treated in a specified way for the purposes of a tax provision;
+- (c) the Secretary of State to be required or permitted, with the consent of the Treasury, to determine, or to specify the method for determining, anything which needs to be determined for the purposes of any tax provision so far as relating to any property, rights or liabilities transferred.
+
+(3) The provision that may be made under subsection (1)(b) includes, in particular, provision for—
+
+- (a) a tax provision not to apply, or to apply with modifications, in relation to anything done for the purposes of, or in relation to, or in consequence of, the transfer;
+- (b) anything done for the purposes of, or in relation to, or in consequence of, the transfer to have or not to have a specified consequence or be treated in a specified way;
+- (c) the Secretary of State to be required or permitted, with the consent of the Treasury, to determine, or to specify the method for determining, anything which needs to be determined for the purposes of any tax provision so far as relating to anything done for the purposes of, or in relation to, or in consequence of, the transfer.
+
+(4) In this section—
+
+- “relevant tax” means income tax, corporation tax, capital gains tax, stamp duty, stamp duty land tax or stamp duty reserve tax;
+- “tax provision” means a provision of an enactment about a relevant tax.
+
+(5) References in this section to the transfer of property, rights or liabilities in accordance with a transfer scheme under section 53A include references to—
+
+- (a) the creation of interests, rights or liabilities under the scheme, and
+- (b) the modification of interests, rights or liabilities under the scheme,
+
+(and “transferred”, in relation to property, rights or liabilities, is to be read accordingly).
+
+## Annotations
+
+[^M_F_c150a4bd-bc48-4e51-8ffc-cce66cbcf4ef]: Textual amendment: Ss. 53A, 53B inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2015/7/section/31/2), [57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e)

@@ -1,0 +1,72 @@
+---
+title: The School Admissions Code (Appointed Day) (England) Order 2010
+id: uksi/2010/302
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2010-02-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2010/302
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/302/pdfs/uksi_20100302_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/302/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The School Admissions Code (Appointed Day) (England) Order 2010
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2010 No. 302
+
+Education, England
+
+The School Admissions Code (Appointed Day) (England) Order 2010
+
+Made
+
+8th February 2010
+
+The Secretary of State for Children, Schools and Families makes the following Order in exercise of the powers conferred by section 85(5) of the School Standards and Framework Act 1998[^f00001]:
+
+## 1. Citation and application
+
+(1) This Order may be cited as the School Admissions Code (Appointed Day) (England) Order 2010.
+
+(2) This Order applies in relation to England only.
+
+## 2. Appointed Day
+
+The day appointed for the coming into force of the School Admissions Code (a copy of a draft of which was laid before each House of Parliament on 10th December 2009) is 10th February 2010.
+
+Diana Johnson
+
+Parliamentary Under Secretary of State for Schools
+
+Department for Children, Schools and Families
+
+8th February 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order appoints 10<sup>th</sup> February 2010 as the day on which the School Admissions Code (“the Code”) issued under sections 84 and 85 of the School Standards and Framework Act 1998 (“the SSFA 1998”) by the Secretary of State for Children, Schools and Families, comes into force.
+
+The Code replaces the previous School Admissions Code which came into force on 10th February 2009 and applies only in relation to England.
+
+The Code imposes requirements and includes guidelines setting out aims, objectives and other matters in relation to the arrangements for admission to maintained schools. (It applies to Academies by virtue of their funding agreements).
+
+Under section 84(3) of the SSFA 1998, it is the duty of local education authorities, the governing bodies of maintained schools, admission forums, appeal panels and the schools adjudicator when exercising functions under Chapter 1 of Part 3 of the SSFA 1998 to act in accordance with any relevant provisions of the Code. In addition, any other person, when exercising any function for the purpose of the discharge by a local education authority or the governing body of a maintained school of functions under that Chapter, must act in accordance with any relevant provisions of the Code.
+
+The revised version of the Code reflects changes that arose out of the Rose Review of the primary curriculum in England, completed in April 2009. Paragraph 2.65 of the Code has been amended to require admission authorities to provide for the admission of all children in the September following their fourth birthday. The Code also requires admission authorities to make it clear to parents that they may request part or full-time classes for such children, until they reach compulsory school age. These amendments will allow more choice and flexibility for parents when deciding on the dates on which their children should enter primary school. Consequential amendments have been made to paragraph 2.69 of the Code which deals with deferred entry to primary schools.
+
+Copies of the Code (ISBN 9780117067226) may be purchased from TSO (PO Box 29, Norwich, NR3 1GN, telephone orders 0870 600 5522, fax orders 0870 600 5533, text phone 0870 240 3701, e-mail customer.service@tso.co.uk, internet http//www.tsoshop.co.uk) and from TSO shops and accredited agents, or downloaded free of charge from the Department for Children, Schools and Families website: www.dcsf.gov.uk/sacode.
+
+## Annotations
+
+[^f00001]: Footnote: [1998. c.31](https://www.legislation.gov.uk/ukpga/1998/31). Section 85 was amended by section 40 of the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40).

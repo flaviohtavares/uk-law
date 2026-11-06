@@ -1,0 +1,55 @@
+---
+title: Osteopaths Act 1993, section 24
+act: Osteopaths Act 1993
+section: '24'
+status: revised-with-pending-changes
+text_date: '2025-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1993/21/section/24
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Osteopaths Act 1993, section 24
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/21
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 24. Interim suspension powers of the Professional Conduct Committee and the Health Committee.
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies where—
+
+- (a) an allegation against a registered osteopath has been referred under section 20, or by virtue of any rule made under section 26(2)(a), to the Professional Conduct Committee or the Health Committee and the Committee has not reached a decision on the matter; or
+- (b) the Professional Conduct Committee or the Health Committee reaches a relevant decision on any such allegation.
+
+(2) The Committee concerned may, if it is satisfied that it is necessary to do so in order to protect members of the public, order the Registrar to suspend the registration of the osteopath concerned.
+
+(3) An order under subsection (2) (an “interim suspension order”) shall cease to have effect—
+
+- (a) in a case falling within subsection (1)(a), when the Committee reaches a decision in respect of the allegation in question; and
+- (b) in a case falling within subsection (1)(b)—
+  - (i) if there is no appeal against the decision, when the period for appealing expires; or
+  - (ii) if there is an appeal against the decision, when the appeal is withdrawn or otherwise disposed of.
+
+(4) Before making an interim suspension order, the Committee shall give the osteopath in question an opportunity to appear before it and to argue his case against the making of the proposed order.
+
+(5) At any such hearing the osteopath shall be entitled to be legally represented.
+
+(6) Where an interim suspension order has been made, the osteopath concerned may appeal against it to the appropriate court.
+
+(7) Any such appeal must be brought before the end of the period of 28 days beginning with the date on which the order appealed against is made.
+
+(8) On an appeal under subsection (6) the court may terminate the suspension.
+
+(9) On such an appeal the decision of the court shall be final.
+
+(10) In this section—
+
+- “**the appropriate court**” means—
+  - (a) in the case of an osteopath whose registered address is in Scotland, the Court of Session;
+  - (b) in the case of an osteopath whose registered address is in Northern Ireland, the High Court of Justice in Northern Ireland; and
+  - (c) in any other case, the High Court of Justice in England and Wales;
+- “**relevant decision**” means an order under section 22(4)(c) or (d), or an order under section 23(2)(b).

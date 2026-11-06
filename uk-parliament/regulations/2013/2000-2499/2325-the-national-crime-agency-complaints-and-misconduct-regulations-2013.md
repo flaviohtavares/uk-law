@@ -1,0 +1,2967 @@
+---
+title: The National Crime Agency (Complaints and Misconduct) Regulations 2013
+id: uksi/2013/2325
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-09-09'
+text_date: '2018-01-08'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/2325
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/2325/pdfs/uksiem_20132325_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2325/pdfs/uksi_20132325_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2325/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Crime Agency (Complaints and Misconduct) Regulations 2013
+
+> Text as at 2018-01-08.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 2325
+
+National Crime Agency
+
+The National Crime Agency (Complaints and Misconduct) Regulations 2013
+
+Made
+
+9th September 2013
+
+Laid before Parliament
+
+16th September 2013
+
+Coming into force
+
+7th October 2013
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 26C(1), (2) and (7) and 105(4) and (5) of the Police Reform Act 2002[^f00001].
+
+In accordance with section 24 of the Police Reform Act 2002, the Secretary of State has consulted with the Independent Police Complaints Commission, such persons as appear to the Secretary of State to represent the views of police and crime commissioners, the Mayor’s Office for Policing and Crime, the Common Council, the Association of Chief Police Officers and such other persons as she thinks fit.
+
+In accordance with section 63(3)(b) of the Police Act 1996[^f00002], the Secretary of State supplied a draft of these Regulations to the Police Advisory Board of England and Wales and has taken into consideration their representations before making these Regulations.
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and extent[^key-d118479f33527a40a33fab9ee1d8ccbb]
+
+(1) These Regulations may be cited as the National Crime Agency (Complaints and Misconduct) Regulations 2013 and come into force on 7th October 2013.
+
+(2) These Regulations extend to England and Wales.
+
+### 2. Interpretation[^key-5eabe71c107ba3f2d68b53c796fe23a4]
+
+(1) In these Regulations—
+
+- “the 2002 Act” means the Police Reform Act 2002;
+- “the 2013 Act” means the Crime and Courts Act 2013[^f00003];
+- “appropriate authority” means—
+  - (a) in relation to a person serving with the NCA, or in relation to any complaint, conduct matter or investigation relating to the conduct of such a person—
+    - (i) if that person is the Director General, the Permanent Secretary to the Home Office; and
+    - (ii) if that person is an NCA Officer, the Director General; and
+  - (b) in relation to a death or serious injury (DSI) matter—
+    - (i) if the relevant officer is the Director General, the Permanent Secretary to the Home Office; and
+    - (ii) if the relevant officer is an NCA officer, the Director General,
+
+  but in relation to a person who has been seconded to the NCA to serve as an NCA officer under paragraph 13 of Schedule 1 to the 2013 Act—
+
+  - (a) in a case of a person serving with the police, references to the appropriate authority mean the appropriate authority as defined in section 29(1) of the 2002 Act; and
+  - (b) in any other case, references to the appropriate authority are references to the person who but for the secondment would have direction and control of the person who has been seconded;
+- “bank holiday” means a day which is a bank holiday under the Banking and Financial Dealings Act 1971[^f00004] in England and Wales;
+- [^key-385ea5538fd52cde2f70b8fbb766464d]...
+- “complainant” shall be construed in accordance with regulation 8(2);
+- “complaint” has the same meaning as in regulation 8;
+- “conduct” includes acts, omissions, statements and decisions (whether actual, alleged or inferred);
+- “conduct matter” has the same meaning as in regulation 8;
+- “death or serious injury matter” or “DSI matter” has the same meaning as in regulation 8;
+- “Director General” has the same meaning as in section 16 of the 2013 Act;
+- “disciplinary proceedings” in relation to the Director General or an NCA officer means any proceedings or management process in accordance with which the conduct of a person is considered in order to determine whether it is misconduct or gross misconduct and if so whether, as a result, any action is to be taken in relation to it;
+- “HMIC” means Her Majesty’s Inspectors of Constabulary;
+- “investigator” means a person appointed or designated to investigate under regulations 41 to 44;
+- “IOPC” means the Independent Office for Police Conduct;[^key-043790e8af750d01d108f016797c3a2f]
+- “IOPC DG” means the Director General of the Independent Office for Police Conduct;
+- “local resolution”, in relation to a complaint, means the handling of that complaint in accordance with a procedure which—
+  - (a) does not involve a formal investigation; and
+  - (b) is laid down in regulation 26 for complaints which it has been decided, in accordance with regulation 24, to subject to local resolution;
+- “NCA” means the National Crime Agency;
+- “NCA friend” means a person chosen by the person concerned in accordance with regulation 53;
+- “NCA officer” means—
+  - (a) an NCA officer appointed under paragraph 9 of Schedule 1 to the 2013 Act;
+  - (b) a person who has been seconded to the NCA to serve as an NCA officer under paragraph 13 of Schedule 1 to the 2013 Act; and
+  - (c) an NCA special;
+- “NCA special” has the same meaning as in paragraph 15 of Schedule 1 to the 2013 Act;
+- “NCA standards” means the behaviours and standards in accordance with which an NCA officer is required to comply under NCA conduct and performance policies;
+- “person complained against”, in relation to a complaint, means the person whose conduct is the subject-matter of the complaint;
+- “recordable conduct matter” means a conduct matter that is required to be recorded by the appropriate authority under regulation 28 or 29 or has been so recorded;
+- “relevant appeal body” means a body within the meaning of regulation 83(1);
+- “relevant offence” means—
+  - (a) an offence for which the sentence is fixed by law, or
+  - (b) an offence for which a person of 18 years or over (not previously convicted) may be sentenced to imprisonment for a term of seven years (or might be so sentenced but for the restrictions imposed by section 33 of the Magistrates’ Courts Act 1980[^f00005]);
+- “relevant officer”, in relation to a DSI matter, means the Director General or an NCA officer—
+  - (a) who arrested the person who has died or suffered serious injury;
+  - (b) in whose custody that person was at the time of the death or serious injury; or
+  - (c) with whom that person had the contact in question,
+
+and where there is more than one such person it means the one who so dealt with the person who died or suffered serious injury last before the death or serious injury occurred (but where it cannot be determined which of the Director General or any NCA officer who dealt with a person last before a death or serious injury occurred, the most senior of them).
+
+- “senior officer” means an NCA officer of at least Grade 1;
+- “serious injury” means a fracture, a deep cut, a deep laceration or an injury causing damage to an internal organ or the impairment of any bodily function;
+- “trade union” has the same meaning as in sections 1 and 119 of the Trade Union and Labour Relations (Consolidation) Act 1992[^f00006];
+- “unsatisfactory performance proceedings”, in relation to the Director General or an NCA officer, means any proceedings or management process in accordance with which the performance of the Director General or an NCA officer is considered in order to determine whether it is unsatisfactory or whether, as a result, any action is to be taken in relation to it;
+- “working day” means any day other than a Saturday or Sunday or a day which is a bank holiday or public holiday in England and Wales.
+
+(2) In relation to a person who has been seconded to the NCA to serve as an NCA officer under paragraph 13 of Schedule 1 to the 2013 Act, the appropriate authority may arrange for the Permanent Secretary to the Home Office or the Director General to carry out the functions of the appropriate authority as if the person in relation to whom the complaint or other matter relates was an NCA officer otherwise than by virtue of having been seconded to the NCA under paragraph 13 of Schedule 1 to the 2013 Act.
+
+### 3. Revocation and transitional provisions[^key-a8a57384eaf8e2bd74e0da1e56869249]
+
+(1) Subject to paragraphs (2) and (3), the agreement made under section 26A of the 2002 Act shall cease to have effect.
+
+(2) Paragraph (3) applies to a matter which came to the attention of the preceding appropriate authority before 7th October 2013.
+
+(3) In relation to a matter to which this paragraph applies—
+
+- (a) nothing in these Regulations shall apply;
+- (b) the agreement made under section 26A of the 2002 Act shall continue to have effect in relation to that matter; and
+- (c) the functions of the preceding appropriate authority shall be carried out—
+  - (i) by the Permanent Secretary to the Home Office instead of by the Chairman of the Serious Organised Crime Agency acting with at least one ordinary member, or
+  - (ii) by the Director General instead of by the Director General of the Serious Organised Crime Agency.
+
+(4) In this regulation—
+
+- (a) “preceding appropriate authority”, in relation to a member of the staff of the Serious Organised Crime Agency, means—
+  - (i) if the staff member is the Director General of the Serious Organised Crime Agency or another ex-officio member, or a Deputy Director, the Chairman of the Serious Organised Crime Agency acting with at least one ordinary member, or
+  - (ii) in any other case, the Director General of the Serious Organised Crime Agency;
+- (b) references to the “Serious Organised Crime Agency”, “Director General of the Serious Organised Crime Agency”, “ex-officio member”, “ordinary member”, “Deputy Director” and “Chairman of the Serious Organised Crime Agency” have the same meanings as in section 1 of and Schedule 1 to the Serious Organised Crime and Police Act 2005[^f00007].
+
+## PART 2 — Complaints and Misconduct
+
+### 4. Application: general[^key-fd62503291a9793b90c7783dad0e65c4]
+
+These Regulations shall apply for the purposes of conferring functions on the IOPC DG[^key-12059179ccdc9e0a6cc611e1acb79b28] in relation to the exercise of functions by the Director General and any NCA officer.
+
+### 5. Application of the 2002 Act[^key-a9c5f944f235c333cb1cc90c1e1b3494]
+
+(1) Sections 9 (the Independent Office for Police Conduct[^key-10c560a706f497f43d3a18b977be7939]), 19 (use of investigatory powers by or on behalf of the IOPC DG), 22 (power of the IOPC DG to issue guidance), 24 (consultation on regulations) and any regulations made under section 27 (conduct of the Office’s[^key-d335ed36df61ed6adb42b2ea316f1a00] staff) of, and Schedule 2 to, the 2002 Act shall apply to the Director General and an NCA officer with the following modifications.
+
+(2) Section 22 of the 2002 Act shall apply as if—
+
+- (a) for subsection (1) there were substituted—
+
+  > (1) The IOPC DG may issue guidance—
+  >
+  > - (a) to the Permanent Secretary to the Home Office;
+  > - (b) to the Director General; and
+  > - (c) to any other person the IOPC DG[^key-d06ebb7d082576c7a7903c97508dfc2d] sees fit,
+  >
+  > concerning the exercise or performance, by the persons to whom the guidance is issued, of any of the powers or duties specified in subsection (2)
+
+  ;
+- (b) in subsection (2)(b)(iii) for “persons serving with the police” there were substituted “the Director General or NCA officers”;
+- (c) for subsection (3) there were substituted—
+
+  > (3) Before issuing any guidance under this section, the IOPC DG shall consult with—
+  >
+  > - (a) the Permanent Secretary to the Home Office;
+  > - (b) the Director General; and
+  > - (c) any other person the IOPC DG sees fit.
+
+  .
+
+(3) Section 24 of the 2002 Act shall apply as if—
+
+- (a) at the end of paragraph (a) there were inserted “and the NCA”; and
+- (b) paragraphs (b), (ba), (bb) and (c) were omitted.
+
+### 6. General functions of the IOPC DG under these Regulations[^key-dc29d164df027a30945ca8cc842b438d]
+
+(1) The functions of the IOPC DG shall be—
+
+- (a) to secure the maintenance by the IOPC DG itself, and by the permanent Secretary to the Home Office and Director General, of suitable arrangements with respect to the matters mentioned in paragraph (2);
+- (b) to keep under review all arrangements maintained with respect to those matters;
+- (c) to secure that arrangements maintained with respect to those matters comply with the requirements of the provisions of these Regulations, are efficient and effective and contain and manifest an appropriate degree of independence;
+- (d) to secure that public confidence is established and maintained in the existence of suitable arrangements with respect to those matters and with the operation of the arrangements that are in fact maintained with respect to those matters;
+- (e) to make such recommendations, and to give such advice, for the modification of the arrangements maintained with respect to those matters, and also with respect to the practice of the NCA in relation to other matters, as appear, from the carrying out by the IOPC DG of the IOPC DG’s[^key-b7c8426029859cc1b54bccdf1cab445b] other functions, to be necessary or desirable.
+
+(2) Those matters are—
+
+- (a) the handling of complaints made about the conduct of the Director General or an NCA officer;
+- (b) the recording of matters from which it appears that there may have been conduct by such persons which constitutes or involves the commission of a criminal offence or behaviour justifying disciplinary proceedings;
+- (c) the recording of matters from which it appears that a person has died or suffered serious injury during, or following, contact with the Director General or an NCA officer;
+- (d) the manner in which any such complaints or any such matters as are mentioned in paragraph (b) or (c) are investigated or otherwise handled and dealt with.
+
+(3) It shall be the duty of the IOPC DG—
+
+- (a) to exercise the powers and perform the duties conferred on the IOPC DG by the following provisions of these Regulations in the manner that the IOPC DG considers best calculated for the purpose of securing the proper carrying out of the IOPC DG’s functions under paragraph (1); and
+- (b) to secure that arrangements exist which are conducive to, and facilitate, the reporting of misconduct by persons in relation to whose conduct the IOPC DG has functions.
+
+(4) It shall also be the duty of the IOPC DG—
+
+- (a) to enter into arrangements with the chief inspector of constabulary for the purpose of securing co-operation, in the carrying out of their respective functions, between the IOPC DG and the inspectors of the constabulary; and
+- (b) to provide those inspectors with all such assistance and co-operation as may be required by those arrangements, or as otherwise appears to the IOPC DG to be appropriate, for facilitating the carrying out by those inspectors of their functions.
+
+(4A)[^key-f95bf9adf3292fdc73023fe3f48093af] In carrying out functions under these Regulations the IOPC DG shall have regard to any advice provided to the IOPC DG by the IOPC (see regulation 6A(1)(a)).
+
+(5) Subject to the other provisions of these Regulations, the IOPC DG may do anything which appears to the IOPC DG to be calculated to facilitate, or is incidental or conducive to, the carrying out of the IOPC DG’s functions under these Regulations.
+
+(6) The IOPC[^key-c1eb0a40d67bf7a4685566e484deca45] may, in connection with the making of any recommendation or the giving of any advice to any person for the purpose of carrying out the IOPC DG’s functions under paragraph (1)(c), (d) or (e) impose any such charge on that person for anything done by the IOPC DG for the purposes of, or in connection with, the carrying out of that function as the IOPC DG thinks fit.
+
+### 6A. General Functions of the IOPC under these Regulations[^key-ac1270ecfe2b0cd87a040d1086f1bf2c]
+
+(1) The functions of the IOPC are—
+
+- (a) to provide support and advice to the IOPC DG in the carrying out of the IOPC DG’s functions under these Regulations; and
+- (b) to monitor and review the carrying out of such functions.
+
+(2) The IOPC is to perform its functions under these Regulations for the general purpose of improving the way in which the IOPC DG’s functions are carried out (including by encouraging the efficient and effective use of resources in the carrying out of those functions).
+
+(3) In carrying out its functions under these Regulations the IOPC must in particular have regard to public confidence in the existence of suitable arrangements with respect to the matters mentioned in regulation 6(2) and with the operation of the arrangements that are in fact maintained with respect to those matters.
+
+(4) The IOPC may do anything which appears to it to be calculated to facilitate, or is incidental to, the carrying out of its functions under these Regulations.
+
+### 6B. Efficiency etc. in exercise of functions
+
+The IOPC DG and the IOPC must carry out their functions under these Regulations efficiently and effectively.
+
+### 7. Reports to the Secretary of State[^key-c01262aa5107695771f5b332db6d0d93]
+
+(1)[^key-40943b3b880e9a1891fcba5df0f8a955] As soon as practicable after the end of each of the IOPC’s financial years, the IOPC DG and the IOPC shall jointly make a report to the Secretary of State on the carrying out of their functions under these Regulations during that year.
+
+(2) The IOPC DG shall also make such reports to the Secretary of State about matters relating generally to the carrying out of the IOPC DG’s functions under these Regulations as the Secretary of State may, from time to time, require.
+
+(3) The IOPC DG may, from time to time, make such other reports to the Secretary of State as the IOPC DG considers appropriate for drawing the Secretary of State’s attention to matters which—
+
+- (a) have come to the IOPC DG’s[^key-d68d49199c2a53dc30cc503692c178ac] notice; and
+- (b) are matters that the IOPC DG considers should be drawn to the Secretary of State’s attention by reason of their gravity or of other exceptional circumstances.
+
+(4) The IOPC DG shall prepare such reports containing advice and recommendations as the IOPC DG thinks appropriate for the purpose of carrying out the IOPC DG’s function under regulation 6(1)(e) (general functions of the IOPC DG).
+
+(5) Where the Secretary of State receives any report under this regulation, the Secretary of State shall—
+
+- (a) in the case of every annual report under paragraph (1), and
+- (b) in the case of any other report, if and to the extent that the Secretary of State considers it appropriate to do so,
+
+lay a copy of the report before Parliament and cause the report to be published.
+
+(6) The IOPC shall send a copy of every annual report under paragraph (1), and the IOPC DG shall send a copy of[^key-b236ed9f35565a099cdca162aaee50d1] every report under paragraph (3)—
+
+- (a) to the Permanent Secretary to the Home Office;
+- (b) to the Director General; and
+- (c) to the NCA.
+
+(7) The IOPC DG shall send a copy of every report under paragraph (4) to—
+
+- (a) the Secretary of State;
+- (b) the Permanent Secretary to the Home Office;
+- (c) the Director General; and
+- (d) the NCA.
+
+(8) The IOPC DG shall send a copy of every report under paragraph (3) or (4) to such of the persons (in addition to those specified in the preceding paragraphs) who—
+
+- (a) are referred to in the report, or
+- (b) appear to the IOPC DG otherwise to have a particular interest in its contents,
+
+as the IOPC DG thinks fit.
+
+### 8. Complaints, matters and persons to which these Regulations apply[^key-b94c876772cb59adcbb9831a8aa033b3]
+
+(1) In these Regulations references to a complaint are references (subject to the following provisions of this regulation) to any complaint about the conduct of the Director General or an NCA officer (whether in writing or otherwise) by—
+
+- (a) a member of the public who claims to be the person in relation to whom the conduct took place;
+- (b) a member of the public not falling within sub-paragraph (a) who claims to have been adversely affected by the conduct;
+- (c) a member of the public who claims to have witnessed the conduct;
+- (d) a person acting on behalf of a person falling within any of sub-paragraphs (a) to (c).
+
+(2) References in these Regulations, in relation to anything which is or purports to be a complaint, to the complainant are references—
+
+- (a) except in the case of anything which is or purports to be a complaint falling within paragraph (1)(d), to the person by whom the complaint or purported complaint was made; and
+- (b) in that case, to the person on whose behalf the complaint or purported complaint was made,
+
+but where any person is acting on another’s behalf for the purposes of any complaint or purported complaint, anything that is to be or may be done under these Regulations or in relation to the complainant may be done instead by or in relation to the person acting on the complainant’s behalf.
+
+(3) Subject to paragraph (4), references in these Regulations, in relation to any conduct or anything purporting to be a complaint about any conduct, to a member of the public include references to the Director General and an NCA officer (whether at the time of the conduct or at any subsequent time).
+
+(4) In these Regulations references, in relation to any conduct or anything purporting to be a complaint about any conduct, to a member of the public do not include references to the Director General or an NCA officer (“the relevant person”) where—
+
+- (a) at the time when the conduct is supposed to have taken place, the person whose conduct would otherwise than under this paragraph have given rise to the complaint was—
+  - (i) in relation to the Director General, an NCA officer, or
+  - (ii) in relation to an NCA officer, the Director General or another NCA officer; and
+- (b) the relevant person was on duty in that person’s capacity as the Director General or an NCA officer.
+
+(5) For the purposes of these Regulations, a person is adversely affected if that person suffers any form of loss or damage, distress or inconvenience, if the person is put in danger or is otherwise unduly put at risk of being adversely affected.
+
+(6) In these Regulations “conduct matter” means (subject to the following provisions of this regulation, section 28A of the 2002 Act and any regulations made under it, and any regulations made by virtue of section 23(2)(d) of the 2002 Act) any matter which is not and has not been the subject of a complaint but in the case of which there is an indication (whether from the circumstances or otherwise) that the Director General or an NCA officer may have—
+
+- (a) committed a criminal offence; or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings.
+
+(7) In these Regulations “death or serious injury matter” (or “DSI matter” for short) means (subject to section 28A of the 2002 Act and any regulations made under it) any circumstances (other than those which are or have been the subject of a complaint or which amount to a conduct matter)—
+
+- (a) in or in consequence of which a person has died or has sustained serious injury; and
+- (b) in relation to which the requirements of either paragraph (8) or (9) are satisfied.
+
+(8) The requirements of this paragraph are that at the time of the death or serious injury the person—
+
+- (a) had been arrested by the Director General or an NCA officer and had not been released from that arrest; or
+- (b) was otherwise detained in the custody of the Director General or an NCA officer.
+
+(9) The requirements of this paragraph are that—
+
+- (a) at or before the time of the death or serious injury the person had contact (of whatever kind, and whether direct or indirect) with the Director General or an NCA officer who was acting in the execution of the Director General’s or NCA officer’s duties; and
+- (b) there is an indication that the contact may have caused (whether directly or indirectly) or contributed to the death or serious injury.
+
+(10) In paragraph (7) the reference to a person includes the Director General or an NCA officer, but in relation to such a person “contact” in paragraph (9) does not include contact that the person has whilst acting in the execution of that person’s duties.
+
+(11) The complaints that are complaints for the purposes of these Regulations by virtue of paragraph (1)(b) do not, except in a case falling within paragraph (12), include any made by or on behalf of a person who claims to have been adversely affected as a consequence only of having seen or heard the conduct, or any of the alleged effects of the conduct.
+
+(12) A case falls within this paragraph if—
+
+- (a) it was only because the person in question was physically present, or sufficiently nearby, when the conduct took place or the effects occurred that the person was able to see or hear the conduct or its effects; or
+- (b) the adverse effect is attributable to, or was aggravated by, the fact that the person in relation to whom the conduct took place was already known to the person claiming to have suffered the adverse effect.
+
+(13) For the purposes of this regulation a person shall be taken to have witnessed conduct if, and only if—
+
+- (a) the person’s knowledge of that conduct was acquired in a manner which would make that person a competent witness capable of giving admissible evidence of that conduct in criminal proceedings; or
+- (b) the person has possession or control of anything which would in any such proceedings constitute admissible evidence of that conduct.
+
+(14) For the purposes of these Regulations a person falling within paragraph 1(a) to (c) shall not be taken to have authorised another person to act on that person’s behalf unless—
+
+- (a) the person so acting is for the time being designated for the purposes of this regulation by the IOPC DG as a person through whom complaints may be made, or is of a description of persons so designated; or
+- (b) the person so acting has been given, and is able to produce, the written consent of the person on whose behalf the person is taking action.
+
+### 9. General duties of the Permanent Secretary, Director General and inspectors[^key-1444e7f6ae2c438875e5b129726405b1]
+
+(1) It shall be the duty of—
+
+- (a) the Permanent Secretary to the Home Office,
+- (b) the Director General, and
+- (c) HMIC carrying out its functions in relation to the NCA,
+
+to ensure that they are each kept informed, in relation to the NCA, about all matters falling within paragraph (2).
+
+(2) Those matters are—
+
+- (a) matters with respect to which any provision of these Regulations has effect;
+- (b) anything which is done under or for the purposes of any such provision; and
+- (c) any obligations to act or refrain from acting that have arisen by or under these Regulations but have not yet been complied with, or have been contravened.
+
+(3) Paragraph (4) applies in a case where it appears to the Permanent Secretary to the Home Office that—
+
+- (a) an obligation to act or refrain from acting has arisen by or under these Regulations;
+- (b) that obligation is an obligation of the Director General; and
+- (c) the Director General has not yet complied with that obligation, or has contravened it.
+
+(4) The Permanent Secretary to the Home Office may direct the Director General to take such steps as the Permanent Secretary thinks appropriate.
+
+(5) The Director General must comply with any direction given under paragraph (4).
+
+(6) Where—
+
+- (a) the Permanent Secretary to the Home Office requires the Director General or the chief officer of a police force to provide an NCA officer or a member of a police force for appointment under regulation 41, 42 or 43; or
+- (b) the Director General requires the chief officer of a police force to provide a member of that force for appointment under any of those regulations,
+
+it shall be the duty of the Director General or the chief officer to whom the requirement is addressed to comply with it.
+
+(7) It shall be the duty of—
+
+- (a) the Permanent Secretary to the Home Office, and
+- (b) the Director General,
+
+to provide the IOPC DG and every member of the IOPC’s[^key-330db4814f18428a0522a5a30219da82] staff with all such assistance as the IOPC DG or that member of staff may reasonably require for the purposes of, or in connection with, the carrying out of any investigation by the IOPC DG under these Regulations.
+
+(8) It shall be the duty of—
+
+- (a) the Permanent Secretary to the Home Office; and
+- (b) the Director General,
+
+to ensure that a person appointed under regulation 41, 42 or 43 to carry out an investigation is given all such assistance and co-operation in the carrying out of that investigation as that person may reasonably require.
+
+(9) The duties imposed by paragraphs (7) and (8) on the Permanent Secretary to the Home Office and Director General have effect—
+
+- (a) irrespective of whether the investigation relates to the conduct of a person who is or has been an NCA officer; and
+- (b) irrespective of who has the person appointed to carry out the investigation under that person’s direction and control,
+
+but a chief officer of a third force may be required to give assistance and co-operation under paragraph (8) only with the approval of the chief officer of the force to which the person who requires it belongs.
+
+(10) In paragraph (9) “third force”, in relation to an investigation, means a police force other than—
+
+- (a) the force to which the person carrying out the investigation belongs; or
+- (b) the force to which the person whose conduct is under investigation belonged at the time of the conduct,
+
+and where the person whose conduct is under investigation was an NCA officer at the time of the conduct, “third force” means any police force other than the force to which the person carrying out the investigation belongs.
+
+(11) Where the person who requires assistance and co-operation under paragraph (8) is an NCA officer, a chief officer of a third force may be required to give that assistance and co-operation only with the approval of the Director General.
+
+(12) Where—
+
+- (a) the person carrying out an investigation is not an NCA officer; and
+- (b) the person whose conduct is under investigation was not an NCA officer at the time of the conduct,
+
+the NCA may be required to give assistance and co-operation under paragraph (8) only with the approval of the relevant directing officer.
+
+(13) In paragraph (12) “the relevant directing officer”, in a case where the person who requires assistance and co-operation belongs to a police force, means the chief officer of that force.
+
+### 10. Payment for assistance with investigations[^key-e45bf4b98f65397a2c96d2af6daa5f43]
+
+(1) This regulation applies where—
+
+- (a) a police force is required to provide assistance in connection with an investigation under these Regulations; or
+- (b) a police force is required to provide the IOPC DG with assistance in connection with an investigation.
+
+(2) For the purposes of this regulation—
+
+- (a) assistance is required to be provided by a police force in connection with an investigation under these Regulations if the chief officer of that force complies with a requirement under regulation 9(6) that is made in connection with—
+  - (i) an investigation relating to the conduct of a person who, at the time of the conduct, was the Director General or an NCA officer; or
+  - (ii) an investigation of a DSI matter in relation to which the relevant officer was, at the time of the death or serious injury, the Director General or an NCA officer.
+
+(3) Where the assistance is required to be provided by a police force to the appropriate authority, the appropriate authority shall pay to the local policing body maintaining that force such contribution (if any) towards the costs of the assistance—
+
+- (a) as may be agreed between them; or
+- (b) in the absence of an agreement, as may be determined in accordance with any arrangements which—
+  - (i) have been agreed to by local policing bodies generally and the appropriate authority; and
+  - (ii) are for the time being in force with respect to the making of contributions towards the costs of assistance provided, in connection with investigations under these Regulations; or
+- (c) in the absence of any such arrangements, as may be determined by the Secretary of State.
+
+(4) Where the assistance is required to be provided by a police force to the IOPC DG, the IOPC[^key-160925e7729b3c2e9437d234843cf2ae] shall pay to the local policing body maintaining that force such contribution (if any) towards the costs of the assistance—
+
+- (a) as may be agreed between the IOPC DG and that body; or
+- (b) in the absence of an agreement, as may be determined in accordance with any arrangements which—
+  - (i) have been agreed to by the local policing bodies generally and the IOPC DG; and
+  - (ii) are for the time being in force with respect to the making of contributions towards the costs of assistance provided, in connection with investigations under these Regulations, to the IOPC DG; or
+- (c) in the absence of any such arrangements, as may be determined by the Secretary of State.
+
+(5) This regulation shall have effect in relation to cases in which assistance is to be provided by the Permanent Secretary to the Home Office or the Director General as if—
+
+- (a) the reference in paragraph (3)(b) to local policing bodies generally included a reference to the NCA; and
+- (b) the reference in paragraph (4)(b) to local policing bodies generally were a reference to the NCA.
+
+### 11. Provision of information to the IOPC DG[^key-b8b44d899d4a017c1898265400d32371]
+
+(1) It shall be the duty of the Director General or an NCA officer—
+
+- (a) to provide the IOPC DG with all such information and documents specified or described in a notification given by the IOPC DG to the Director General or an NCA officer; and
+- (b) to produce or deliver up to the IOPC DG all such evidence and other things so specified or described,
+
+as appear to the IOPC DG to be required by the IOPC DG for the purposes of the carrying out of any of the IOPC DG’s functions.
+
+(2) Anything falling to be provided, produced or delivered up by any person in pursuance of a requirement imposed under paragraph (1) must be provided, produced or delivered up in such form, in such manner and within such period as may be specified in—
+
+- (a) the notification imposing the requirement; or
+- (b) in any subsequent notification given by the IOPC DG to that person for the purposes of this paragraph.
+
+(3) Nothing in this regulation shall require the Director General or an NCA officer—
+
+- (a) to provide the IOPC DG with any information or document, or to produce or deliver up any other thing, before the earliest time at which it is practicable for the Director General or an NCA officer to do so; or
+- (b) to provide, produce or deliver up anything at all in a case in which it never becomes practicable for the Director General or an NCA officer to do so.
+
+(4) A requirement imposed by any notification under this regulation may authorise or require information or documents to which it relates to be provided to the IOPC DG electronically.
+
+(5) Where the IOPC DG or any person acting on the IOPC DG’s behalf obtains information from the Director General or an NCA officer in the course of performing a function under these Regulations, that information—
+
+- (a) may not be used for any purpose other than in the performance of a function under these Regulations or as otherwise prescribed by law; and
+- (b) may not be disclosed except as permitted under these Regulations or as otherwise prescribed by law.
+
+### 12. Inspection of premises on behalf of the IOPC DG[^key-0d4b28bf05009aa823cc1ecb3caf8c15]
+
+(1) Where—
+
+- (a) the IOPC DG requires—
+  - (i) the Permanent Secretary to the Home Office, or
+  - (ii) the Director General,
+
+  to allow a person nominated for the purpose by the IOPC DG to have access to any premises occupied for the purpose of the NCA and to documents or other things on those premises; and
+- (b) the requirement is imposed for any of the purposes mentioned in paragraph (2),
+
+it shall be the duty of the Permanent Secretary or the Director General to secure that the required access is allowed to the nominated person.
+
+(2) Those purposes are—
+
+- (a) the purposes of any examination by the IOPC DG of the efficiency and effectiveness of the arrangements made by the NCA for handling complaints or dealing with recordable conduct matters or DSI matters;
+- (b) the purposes of any investigation by the IOPC DG under these Regulations or of any investigation carried out under the IOPC DG’s supervision or management.
+
+(3) A requirement imposed under this regulation for the purposes mentioned in paragraph (2)(a) must be notified to the Permanent Secretary or Director General at least 48 hours before the time at which access is required.
+
+(4) Where—
+
+- (a) a requirement imposed under this regulation for the purposes mentioned in paragraph (2)(a) requires access to any premises, document or thing to be allowed to any person; and
+- (b) there are reasonable grounds for not allowing that person to have the required access at the time at which access is sought,
+
+the obligation to secure that the required access is allowed shall have effect as an obligation to secure that the access is allowed to that person at the earliest practicable time after there cease to be any such grounds as that person may specify.
+
+(5) The provisions of this regulation are in addition to, and without prejudice to—
+
+- (a) the rights of entry, search and seizure that are or may be conferred on—
+  - (i) a person designated for the purposes of regulation 44 (investigations by the IOPC DG [^key-63af10f91e6a1c47429ce99697a011e2]...); or
+  - (ii) any person who otherwise acts on behalf of the IOPC DG,
+
+  in that person’s capacity as a constable or as a person with the powers and privileges of a constable; or
+- (b) the obligations of the Permanent Secretary to the Home Office and Director General under regulations 9 and 11.
+
+### 13. Duty to keep the complainant informed[^key-9708e5d171ea6d7733a6b05ef583883b]
+
+(1) Subject to regulation 16 (exceptions to the duty to keep the complainant informed and to provide information for other persons), in any case in which there is an investigation of a complaint in accordance with the provisions of these Regulations—
+
+- (a) by the IOPC DG; or
+- (b) under the IOPC DG’s management,
+
+it shall be the duty of the IOPC DG to provide the complainant with all such information as will keep the complainant properly informed, while the investigation is being carried out and subsequently, of all the matters mentioned in paragraph (4).
+
+(2) Subject to regulation 16, in any case in which there is an investigation of a complaint in accordance with the provisions of these Regulations—
+
+- (a) by the appropriate authority on its own behalf; or
+- (b) under the supervision of the IOPC DG,
+
+it shall be the duty of the appropriate authority to provide the complainant with all such information as will keep the complainant properly informed, while the investigation is being carried out and subsequently, of all the matters mentioned in paragraph (4).
+
+(3) Where paragraph (2) applies, it shall be the duty of—
+
+- (a) the IOPC DG to give the appropriate authority all such directions as the IOPC DG considers appropriate for securing that that authority complies with its duty under that paragraph; and
+- (b) the appropriate authority to comply with any direction given to it under this paragraph.
+
+(4) The matters of which the complainant must be kept properly informed are—
+
+- (a) the progress of the investigation;
+- (b) any provisional findings of the person carrying out the investigation;
+- (c) whether any report has been submitted under regulation 57 (final reports on investigations: complaints, conduct matters and certain DSI matters);
+- (d) the action (if any) that is taken in respect of any of the matters dealt with in any such report; and
+- (e) the outcome of any action.
+
+(5) It shall be the duty of a person appointed to carry out an investigation under these Regulations to provide the IOPC DG or, as the case may be, the appropriate authority with all such information as the IOPC DG or that authority may reasonably require for the purpose of performing its duty under this regulation.
+
+### 14. Duty to provide information for other persons[^key-5d0be724fdc6eeb9d3858c9ecc28777a]
+
+(1) A person has an interest in being kept properly informed about the handling of a complaint, recordable conduct matter or DSI matter which is the subject of an investigation in accordance with the provisions of these Regulations if—
+
+- (a) it appears to the IOPC DG or to an appropriate authority that that person is a person falling within paragraph (2) or (3); and
+- (b) that person has indicated consent to the provision of information in accordance with this regulation and that consent has not been withdrawn.
+
+(2) A person falls within this paragraph if, in the case of a complaint or recordable conduct matter, that person—
+
+- (a) is a relative of a person whose death is the alleged result from the conduct complained of, or to which the recordable conduct matter relates;
+- (b) is a relative of a person whose serious injury is the alleged result from that conduct and that person is incapable of making a complaint; or
+- (c) has suffered serious injury as the alleged result of that conduct.
+
+(3) A person falls within this paragraph if, in the case of a DSI matter, that person—
+
+- (a) is a relative of a person who has died;
+- (b) is a relative of a person who has suffered serious injury and that person is incapable of making a complaint; or
+- (c) is the person who has suffered serious injury.
+
+(4) A person who does not fall within paragraph (2) or (3) has an interest in being kept properly informed about the handling of a complaint, conduct matter or DSI matter if—
+
+- (a) the IOPC DG or the appropriate authority consider that that person has an interest in the handling of the complaint, recordable conduct matter or DSI matter which is sufficient to make it appropriate for information to be provided to that person in accordance with this regulation; and
+- (b) that person has indicated consent to the provision of information in accordance with this regulation.
+
+(5) In relation to a complaint, this regulation confers no rights on the complainant.
+
+(6) A person who has an interest in being kept properly informed about the handling of a complaint, conduct matter or DSI matter is referred to in this regulation as an “interested person”.
+
+(7) Subject to regulation 16 (exceptions to the duty to keep the complainant informed and to provide information for other persons), in any case in which there is an investigation of a complaint, recordable conduct matter or DSI matter in accordance with the provisions of these Regulations—
+
+- (a) by the IOPC DG; or
+- (b) under the IOPC DG’s management,
+
+it shall be the duty of the IOPC DG to provide the interested person with all such information as will keep the interested person properly informed, while the investigation is being carried out and subsequently, of all the matters mentioned in paragraph (10).
+
+(8) Subject to regulation 16, in any case in which there is an investigation of a complaint, recordable conduct matter or DSI matter in accordance with the provisions of these Regulations—
+
+- (a) by the appropriate authority on its own behalf, or
+- (b) under the supervision of the IOPC DG,
+
+it shall be the duty of the appropriate authority to provide the interested person with all such information as will keep the interested person properly informed, while the investigation is being carried out and subsequently, of all the matters mentioned in paragraph (10).
+
+(9) Where paragraph (8) applies, it shall be the duty of—
+
+- (a) the IOPC DG to give the appropriate authority all such directions as the IOPC DG considers appropriate for securing that that authority complies with its duty under that paragraph; and
+- (b) the appropriate authority to comply with any direction given to it under this paragraph.
+
+(10) The matters of which the interested person must be kept properly informed are—
+
+- (a) the progress of the investigation;
+- (b) any provisional findings of the person carrying out the investigation;
+- (c) whether the IOPC DG or the appropriate authority has made a determination under regulation 34 (procedure where conduct matter is revealed during investigation of a DSI matter);
+- (d) whether any report has been submitted under regulation 66 (final reports on investigations: complaints, conduct matters and certain DSI matters) and regulation 69 (final reports on investigations: other DSI matters);
+- (e) the action (if any) the IOPC DG has taken in respect of any of the matters dealt with in any such report; and
+- (f) the outcome of any action.
+
+(11) Regulation 13(5) (duty to keep the complainant informed) applies for the purposes of this regulation as it applies for the purposes of that regulation.
+
+(12) In this regulation “relative” means any spouse, partner, parent or adult child.
+
+### 15. Manner in which duties to provide information are to be performed[^key-4535c6a2f15adaf10e42910b068837f1]
+
+(1) For the purposes of regulations 13 and 14 (duties to keep complainant and other persons informed), the manner in which the IOPC DG or, as the case may be, an appropriate authority shall perform the duties imposed by those regulations is as follows.
+
+(2) The IOPC DG, in a case falling within regulation 13(1) or 14(7) (investigation of a complaint, conduct matter or DSI matter by or under the management of the IOPC DG), shall inform the complainant or, as the case may be, the interested person—
+
+- (a) of the progress of the investigation promptly and in any event—
+  - (i) if there has been no previous notification, within four weeks of the start of the investigation; and
+  - (ii) in any other case, within four weeks of the previous notification;
+- (b) of any provisional findings of the person carrying out the investigation as frequently as the IOPC DG determines to be appropriate in order for the complainant to be kept properly informed.
+
+(3) An appropriate authority, in a case falling within regulation 13(2) or 14(8) (investigation of a complaint, conduct matter or DSI matter by an appropriate authority on its own behalf or under the supervision of the IOPC DG), shall inform the complainant or the interested person (as the case may be)—
+
+- (a) of the progress of the investigation promptly and in any event—
+  - (i) if there has been no previous notification, within four weeks of the start of the investigation; and
+  - (ii) in any other case, within four weeks of the previous notification.
+- (b) of any provisional findings of the person carrying out the investigation as frequently as the appropriate authority determines to be appropriate in order for the complainant to be kept properly informed.
+
+(4) When an investigation has been completed, each complainant and interested person shall be notified—
+
+- (a) of the date on which the final report under regulation 66 (final reports on investigations: complaints, conduct matters and certain DSI matters) is likely to be submitted; and
+- (b) of the date on which the notification under regulation 67(11) or 68(12) (action by the IOPC DG or appropriate authority in response to an investigation report) is likely to be given.
+
+(5) In performing the duties imposed by regulations 13(1) and (2), 14(7) and (8), 67(11) or 68(12), the IOPC DG or, as the case may be, the appropriate authority shall determine whether it is appropriate to offer, or to accede to a request for, a meeting with a complainant or, as the case may be, an interested person.
+
+(6) As soon as practicable after any such meeting the IOPC DG or, as the case may be, the appropriate authority shall send to the complainant or interested person a written record of the meeting and an account of how any concerns of that person will be addressed.
+
+(7) As soon as practicable after the conclusion of any disciplinary proceedings or unsatisfactory performance proceedings that are taken in respect of the matters dealt with in any report submitted under regulation 57, the appropriate authority shall notify any complainant and any interested person of the outcome of those proceedings, including the fact and outcome of any appeal against the outcome of the proceedings.
+
+(8) If the IOPC DG or, as the case may be, the appropriate authority, considers that an investigation has made minimal or no progress since the previous notification, then the next notification may be made by any means that in the opinion of the IOPC DG or, as the case may be, the appropriate authority is suitable.
+
+(9) Any notification under this regulation shall be given in writing, except in a case where the notification is given at a meeting held in consequence of a determination under paragraph (5) or it is given by means other than writing in accordance with paragraph (8).
+
+### 16. Exceptions to the duty to keep the complainant informed and to provide information for other persons[^key-15f69c68d611aeb3d588f3ea464d4e9d]
+
+(1) Subject to paragraph (2), the duties mentioned in regulation 13(1) and (2) (duty to keep the complainant informed), regulation 14(7) and (8) (duty to provide information for other persons), regulation 67(11) and regulation 68(12) (action by the IOPC DG or appropriate authority in response to an investigation report) shall not apply in circumstances where in the opinion of the IOPC DG, or, as the case may be, of the appropriate authority, the non-disclosure of information is necessary for the purpose of—
+
+- (a) preventing the premature or inappropriate disclosure of information that is relevant to, or may be used in, any actual or prospective criminal proceedings;
+- (b) preventing the disclosure of information in any circumstances in which its non-disclosure—
+  - (i) is in the interests of national security;
+  - (ii) is for the purposes of the prevention or detection of crime, or the apprehension or prosecution of offenders;
+  - (iii) is required on proportionality grounds; or
+  - (iv) is otherwise necessary in the public interest.
+
+(2) The IOPC DG or, as the case may be, the appropriate authority shall not conclude that the non-disclosure of information is necessary under paragraph (1) unless the IOPC DG or, as the case may be, the appropriate authority[^key-5ebf39b55c0375227dce6f5666ec4370] is satisfied that—
+
+- (a) there is a real risk of the disclosure of that information causing an adverse effect; and
+- (b) that adverse effect would be significant.
+
+(3) Without prejudice to the generality of paragraph (1), the IOPC DG or, as the case may be, the appropriate authority shall consider whether the non-disclosure of information is justified under that paragraph in circumstances where—
+
+- (a) that information is relevant to, or may be used in, any actual or prospective disciplinary proceedings or unsatisfactory performance proceedings;
+- (b) the disclosure of that information may lead to the contamination of the evidence of witnesses during such proceedings;
+- (c) the disclosure of that information may prejudice the welfare or safety of any third party;
+- (d) that information constitutes criminal intelligence.
+
+## PART 3 — Handling of complaints
+
+### 17. Duties to preserve evidence relating to complaints[^key-06551b7abd6a62ee6f960060a6a54fcb]
+
+(1) Where a complaint is made about the conduct of the Director General, it shall be the duty of the Permanent Secretary to the Home Office to secure that all such steps as are appropriate for the purposes of these Regulations are taken, both initially and from time to time, for obtaining and preserving evidence relating to the conduct complained of.
+
+(2) Where—
+
+- (a) a complaint is made to the Director General about the conduct of an NCA officer; or
+- (b) the Director General becomes aware that a complaint about the conduct of an NCA officer has been made to the IOPC DG or the Permanent Secretary to the Home Office,
+
+the Director General shall take all such steps as appear to be appropriate for the purposes of these Regulations for obtaining and preserving evidence relating to the conduct complained of.
+
+(3) The Director General’s duty under paragraph (2) must be performed as soon as practicable after the complaint is made or, as the case may be, the Director General becomes aware of it.
+
+(4) After that, the Director General shall be under a duty, until satisfied that it is no longer necessary to do so, to continue to take the steps which from time to time appear to the Director General to be appropriate for the purposes of these Regulations for obtaining and preserving evidence relating to the conduct complained of.
+
+(5) It shall be the duty of the Permanent Secretary to the Home Office to comply with all such directions as may be given by the IOPC DG in relation to the performance of the Permanent Secretary’s duty under paragraph (1).
+
+(6) It shall be the duty of the Director General to take all such specific steps for obtaining or preserving evidence relating to any conduct that is the subject-matter of a complaint as the Director General may be directed to take for the purposes of this regulation by the Permanent Secretary to the Home Office.
+
+### 18. Initial handling and recording of complaints[^key-f4e8bf58d12c0b942d13524946ab4f3c]
+
+(1) Where a complaint is made to the IOPC DG, the IOPC DG shall give notification of the complaint to the appropriate authority.
+
+(2) But the IOPC DG need not give that notification if the IOPC DG considers that there are exceptional circumstances that justify it not being given.
+
+(3) Where a complaint is made to the Permanent Secretary to the Home Office, the Permanent Secretary shall—
+
+- (a) determine whether or not the Permanent Secretary is the appropriate authority; and
+- (b) if the Permanent Secretary determines that the appropriate authority is another person, give notification of the complaint to that person.
+
+(4) Where a complaint is made to the Director General, the Director General shall—
+
+- (a) determine whether or not the Director General is the appropriate authority; and
+- (b) if the Director General determines that the appropriate authority is another person, give notification of the complaint to that person.
+
+(5) Where the IOPC DG, the Permanent Secretary to the Home Office or the Director General gives notification of a complaint under any of paragraphs (1) to (4), the person who gave the notification shall notify the complainant that the notification has been given and of what it contained.
+
+(6) Where—
+
+- (a) the Permanent Secretary to the Home Office determines, in the case of any complaint made to the Permanent Secretary, that the Permanent Secretary is the appropriate authority;
+- (b) the Director General determines, in the case of any complaint made to the Director General, that the Director General is the appropriate authority; or
+- (c) a complaint is notified to the Permanent Secretary to the Home Office or the Director General under this paragraph,
+
+the Permanent Secretary or the Director General shall record the complaint.
+
+(7) Nothing in this regulation shall require the notification or recording by any person of any complaint about any conduct if—
+
+- (a) that person is satisfied that the subject-matter of the complaint has been, or is already being, dealt with by means of criminal or disciplinary proceedings against the person whose conduct it was; or
+- (b) the complaint has been withdrawn.
+
+(8) Nothing in this regulation shall require the recording by any person of any complaint about any conduct if that person considers that the complaint falls within a description of complaints specified in regulation 20 **(**recording of complaints).
+
+### 19. Copies of complaints etc[^key-d0f3f50f5c8e424d5be91fd039569bf4]
+
+(1) Where a complaint is recorded under regulation 18(6), the appropriate authority shall—
+
+- (a) supply to the complainant a copy of the record made of that complaint; and
+- (b) subject to paragraphs (2) to (4), supply to the person complained against a copy of the complaint.
+
+(2) A copy of a complaint supplied under this regulation may be in a form which keeps anonymous the identity of the complainant or of any other person.
+
+(3) An appropriate authority may decide not to supply such a copy of a complaint if it is of the opinion that to do so—
+
+- (a) might prejudice any criminal investigation or pending proceedings; or
+- (b) would otherwise be contrary to the public interest.
+
+(4) Where an appropriate authority decides not to supply such a copy, it shall keep that decision under regular review.
+
+### 20. Recording of complaints[^key-8fab7fe3e9da334dba807721c4e9967a]
+
+(1) For the purposes of regulation 18(8) (descriptions of complaint not required to be recorded) the complaints set out in paragraph (2) are hereby specified.
+
+(2) Those complaints are complaints in the case of which the appropriate authority considers that—
+
+- (a) the matter is already the subject of a complaint made by or on behalf of the same complainant;
+- (b) the complaint discloses neither the name and address of the complainant nor that of any other interested person and it is not reasonably practicable to ascertain such a name or address;
+- (c) the complaint is vexatious, oppressive or otherwise an abuse of the procedures for dealing with complaints;
+- (d) the complaint is repetitious; or
+- (e) the complaint is fanciful.
+
+(3) For the purposes of paragraph (2)(d) a complaint is repetitious if, and only if—
+
+- (a) it concerns substantially the same conduct as a previous conduct matter or it is substantially the same as a previous complaint made by or on behalf of the same complainant;
+- (b) it contains no fresh allegations which significantly affect the account of the conduct complained of;
+- (c) no fresh evidence, being evidence which was not reasonably available at the time the previous complaint was made, is tendered in support of it; and
+- (d) as respects the previous complaint or conduct matter, either—
+  - (i) the complaint was locally resolved in accordance the provisions in regulation 26;
+  - (ii) the complaint was handled otherwise than in accordance with these Regulations or no action was taken in relation to it, in accordance with regulation 23(2) or (3) (disapplication of requirements of these Regulations);
+  - (iii) the IOPC DG gave the appropriate authority a direction under regulation 38 (power to discontinue an investigation);
+  - (iv) the appropriate authority disapplied the requirements of these Regulations in accordance with regulation 38(13)(b);
+  - (v) the complainant gave such notification as is mentioned in regulation 39(1); or
+  - (vi) the requirements of regulation 58(9) or 59(11) (determination by the appropriate authority of what action to take) were complied with.
+
+(4) For the purposes of paragraph (2)(e) a complaint is fanciful if, and only if, no reasonable person could lend any credence to it.
+
+### 21. Failures to notify or record a complaint[^key-d33f1a0e09b794fc2293a65752c07ca5]
+
+(1) This regulation applies where anything which is or purports to be a complaint in relation to which regulation 18 has effect is received by the Permanent Secretary to the Home Office or the Director General (whether in consequence of having been made directly or of a notification under that regulation).
+
+(2) If the Permanent Secretary to the Home Office or the Director General decides not to take action under regulation 18 for notifying or recording the whole or any part of what has been received, the Permanent Secretary to the Home Office or the Director General shall notify the complainant of the following matters—
+
+- (a) the decision to take no action and, if that decision relates to only part of what was received, the part in question;
+- (b) the grounds on which the decision was made; and
+- (c) that complainant’s right to appeal against that decision under this regulation.
+
+(3) Subject to paragraph 4,the complainant shall have a right of appeal to the IOPC DG against any failure by the Permanent Secretary to the Home Office or the Director General to make a determination under regulation 18 or to notify or record anything under that regulation.
+
+(4) The complainant has no right of appeal under paragraph (3) if—
+
+- (a) by virtue of regulation 18(7), there is no requirement to record the complaint; or
+- (b) the appeal relates to a failure by the Permanent Secretary to the Home Office.
+
+(5) On an appeal under this regulation, the IOPC DG shall—
+
+- (a) determine whether any action under regulation 18 should have been taken in the case in question; and
+- (b) if the IOPC DG finds in the complainant’s favour, give such directions as the IOPC DG considers appropriate to the Permanent Secretary to the Home Office or the Director General as to the action to be taken for making a determination, or for notifying or recording what was received,
+
+and it shall be the duty of the Permanent Secretary to the Home Office or the Director General to comply with any directions given under sub-paragraph (b).
+
+(6) Directions under paragraph (5)(b) may require action taken in pursuance of the directions to be treated as taken in accordance with any such provision of regulation 18 as may be specified in the direction.
+
+(7) The IOPC DG —
+
+- (a) shall give notification to the Permanent Secretary to the Home Office or the Director General and the complainant of any determination made by it under this regulation; and
+- (b) shall give notification to the complainant of any direction given by it under this regulation to the Permanent Secretary to the Home Office or the Director General.
+
+### 22. Reference of complaints to the IOPC DG[^key-54c5a8f48a0e0eca336e3b9702552835]
+
+(1) It shall be the duty of the appropriate authority to refer a complaint to the IOPC DG if—
+
+- (a) the complaint is one alleging that the conduct complained of has resulted in death or serious injury;
+- (b) the complaint does not fall within sub-paragraph (a) but is one alleging conduct which constitutes—
+  - (i) a serious assault, as defined in guidance issued by the IOPC DG[^f00008];
+  - (ii) a serious sexual offence, as defined in guidance issued by the IOPC DG;
+  - (iii) serious corruption, as defined in guidance issued by the IOPC DG;
+  - (iv) a criminal offence or behaviour which is liable to lead to disciplinary proceedings and which in either case was aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance by the IOPC DG;
+  - (v) a relevant offence;
+- (c) the complaint arises from the same incident as one in which any conduct falling within sub-paragraph (a) or (b) is alleged; or
+- (d) the complaint is one in respect of which the IOPC DG notifies the appropriate authority that the IOPC DG requires the complaint in question to be referred to the IOPC DG for the IOPC DG’s consideration.
+
+(2) In a case where there is no obligation under paragraph (1) to make a reference, the appropriate authority may refer a complaint to the IOPC DG if that authority considers that it would be appropriate to do so by reason of—
+
+- (a) the gravity of the subject-matter of the complaint; or
+- (b) any exceptional circumstances.
+
+(3) In a case in which a reference under paragraph (1) or (2) is neither made nor required to be made, the Permanent Secretary to the Home Office may refer a complaint to the IOPC DG if—
+
+- (a) it is one in relation to which the Director General is the appropriate authority; and
+- (b) the Permanent Secretary considers that it would be appropriate to do so by reason of—
+  - (i) the gravity of the subject-matter of the complaint; or
+  - (ii) any exceptional circumstances.
+
+(4) Where a complaint is required to be referred to the IOPC DG under paragraph (1)(a), (b) or (c), notification of the complaint shall be given to the IOPC DG—
+
+- (a) without delay and in any event not later than the end of the day following the day on which it first becomes clear to the appropriate authority that the complaint is one to which that sub-paragraph applies; and
+- (b) in such manner as the IOPC DG specifies.
+
+(5) Where a complaint is required to be referred to the IOPC DG under paragraph (1)(d), notification of the complaint shall be given to the IOPC DG—
+
+- (a) without delay and in any event not later than the end of the day following the day on which the IOPC DG notifies the appropriate authority that the complaint is to be referred; and
+- (b) in such manner as the IOPC DG specifies.
+
+(6) Subject to paragraph (8), the following powers—
+
+- (a) the power of the IOPC DG by virtue of paragraph (1)(d) to require a complaint to be referred to the IOPC DG; and
+- (b) the power of the Permanent Secretary to the Home Office or the Director General to refer a complaint to the IOPC DG under paragraph (2) or (3),
+
+shall each be exercisable at any time irrespective of whether the complaint is already being investigated by any person or has already been considered by the IOPC DG.
+
+(7) The Permanent Secretary to the Home Office or the Director General who refers a complaint to the IOPC DG under this regulation shall give a notification of the making of the reference—
+
+- (a) to the complainant; and
+- (b) except in a case where it appears to the Permanent Secretary to the Home Office or the Director General that to do so might prejudice a possible future investigation of the complaint, to the person complained against.
+
+(8) A complaint that has already been referred to the IOPC DG under this regulation on a previous occasion—
+
+- (a) shall not be required to be referred again under this regulation unless the IOPC DG so directs; and
+- (b) shall not be referred in exercise of any power conferred by this regulation unless the IOPC DG consents.
+
+### 23. Duties of the IOPC DG on references under regulation 22[^key-4abf7d3c41c6d7f9a822052a2539e8e1]
+
+(1) It shall be the duty of the IOPC DG in the case of every complaint referred to the IOPC DG by the Permanent Secretary to the Home Office or the Director General, to determine whether or not it is necessary for the complaint to be investigated.
+
+(2) Where the IOPC DG determines under this regulation that it is not necessary for a complaint to be investigated, the IOPC DG may, if the IOPC DG thinks fit, refer the complaint back to the appropriate authority to be dealt with by that authority in accordance with regulation 24.
+
+(3) Where the IOPC DG refers a complaint back under paragraph (2), the IOPC DG shall give a notification of the making of the reference back—
+
+- (a) to the complainant; and
+- (b) except in a case where it appears to the IOPC DG that to do so might prejudice a possible future investigation of the complaint, to the person complained against.
+
+### 24. Handling of complaints by the appropriate authority[^key-578ba8fc35c88c1f70089ae839db573d]
+
+(1) This regulation applies where a complaint has been recorded by the appropriate authority.
+
+(2) But this regulation does not apply to a complaint if it is one that has been, or must be, referred to the IOPC DG under regulation 22, unless the complaint is for the time being—
+
+- (a) referred back to the authority under regulation 23; or
+- (b) the subject of a determination under regulation 38.
+
+(3) Subject to regulation 25, the appropriate authority shall determine whether or not the complaint is suitable for being subjected to local resolution.
+
+(4) If the appropriate authority determines that the complaint is suitable for being subjected to local resolution, it shall make arrangements for it to be so subjected.
+
+(5) If the appropriate authority determines that the complaint is not so suitable, it shall make arrangements for the complaint to be investigated by the authority on its own behalf.
+
+(6) A determination that a complaint is suitable for being subjected to local resolution may not be made unless—
+
+- (a) the appropriate authority is satisfied that the conduct complained of (even if it were proved) would not justify the bringing of any criminal or disciplinary proceedings against the person whose conduct is complained of; and
+- (b) the appropriate authority is satisfied that the conduct complained of (even if it were proved) would not involve the infringement of a person’s rights under Article 2 or 3 of the Convention (within the meaning of the Human Rights Act 1998[^f00009]).
+
+(7) In a case where this regulation applies to a complaint by virtue of paragraph (2)(b), a determination that the complaint is suitable for being subjected to local resolution may not be made unless the IOPC DG approves the determination.
+
+(8) No more than one application may be made to the IOPC DG for the purposes of paragraph (9) in respect of the same complaint.
+
+(9) Paragraph (9) (where applicable) is in addition to paragraphs (6) to (8).
+
+### 25. Disapplication of requirements of these Regulations[^key-b29ea0837661d0f8969d6e74ff82ee3c]
+
+(1) If, in a case in which regulation 24 applies, the appropriate authority considers—
+
+- (a) that it should handle the complaint otherwise than in accordance with these Regulations or should take no action in relation to it; and
+- (b) that the complaint falls within a description of complaints specified in paragraph (7),
+
+the appropriate authority may handle the complaint in whatever manner (if any) that authority thinks fit.
+
+(2) But, in a case where regulation 24 applies by virtue of regulation 24(2)(a) or (b), the appropriate authority may not handle the complaint in whatever manner (if any) the authority thinks fit unless—
+
+- (a) the authority applies to the IOPC DG, in accordance with these Regulations, for permission to so handle the complaint; and
+- (b) the IOPC DG gives permission.
+
+(3) An application under paragraph (2) for permission to handle a complaint in whatever manner (if any) an appropriate authority thinks fit shall be in writing and shall be accompanied by—
+
+- (a) a copy of the complaint;
+- (b) an explanation of the appropriate authority’s reasons for making the application; and
+- (c) copies of any other documents or material in the possession of the appropriate authority which are relevant to the complaint.
+
+(4) The appropriate authority shall supply any further information requested by the IOPC DG for the purpose of considering an application by that authority made under paragraph (1).
+
+(5) Where such an application is made to the IOPC DG, the IOPC DG shall—
+
+- (a) consider the application and determine whether to grant the permission applied for; and
+- (b) notify the IOPC DG’s decision to the appropriate authority and the complainant.
+
+(6) Where an application is made under this paragraph in respect of any complaint, the appropriate authority shall not, while the application is being considered by the IOPC DG, take any action in accordance with the provisions of these Regulations (other than under regulation 17) in relation to that complaint.
+
+(7) For the purposes of paragraph (1)(b), the description of complaints are any one in relation to which the appropriate authority considers that—
+
+- (a) more than 12 months have elapsed between the incident, or the latest incident, giving rise to the complaint and the making of the complaint and either that no good reason for the delay has been shown or that injustice would be likely to be caused by the delay;
+- (b) the matter is already the subject of a complaint made by or on behalf of the same complainant;
+- (c) the complaint discloses neither the name and address of the complainant nor that of any other interested person and it is not reasonably practicable to ascertain such a name or address;
+- (d) the complaint is vexatious, oppressive or otherwise an abuse of the procedures for dealing with complaints;
+- (e) the complaint is repetitious, as defined in regulation 20(3); or
+- (f) it is not reasonably practicable to complete the investigation of the complaint or any other procedures under these Regulations.
+
+(8) For the purposes of paragraph (7)(f) it is not reasonably practicable to complete the investigation of a complaint or any other procedures under these Regulations if, and only if—
+
+- (a) it is not reasonably practicable to communicate with the complainant or a person acting on his behalf; or
+- (b) it is not reasonably practicable to complete a satisfactory investigation in consequence of—
+  - (i) a refusal or failure, on the part of the complainant, to make a statement or afford other reasonable assistance for the purposes of the investigation; or
+  - (ii) the lapse of time since the event or events forming the subject-matter of the complaint.
+
+(9) In this regulation any reference to action not being reasonably practicable shall include a reference to action which it does not appear reasonably practicable to take within a period which is reasonable in all the circumstances of the case.
+
+(10) Before deciding to handle a complaint in whatever manner (if any) it thinks fit in accordance with paragraph (1), the appropriate authority shall—
+
+- (a) write to the complainant at the complainant’s last known address—
+  - (i) inviting the complainant to make representations in relation to the matter; and
+  - (ii) allowing the complainant a period of 28 days, commencing on the day after the date of the letter, to do so; and
+- (b) have regard to any representations made by the complainant.
+
+(11) The appropriate authority shall notify the complainant—
+
+- (a) that the appropriate authority has decided to handle the complaint as permitted by paragraph (1) (in a case where the appropriate authority is not required to apply for permission under paragraph (2) to so handle the complaint); or
+- (b) about the making of the application under paragraph (2) (in a case where the appropriate authority makes such an application).
+
+(12) Where the complaint is to be handled in whatever manner (if any) the appropriate authority thinks fit (whether or not the IOPC DG’s permission is needed), the authority—
+
+- (a) shall not be required by virtue of any of the provisions of these Regulations (other than regulation 17) to take any action in relation to the complaint; and
+- (b) may handle the complaint in whatever manner it thinks fit, or take no action in relation to the complaint, and for the purposes of handling the complaint may take any step that it could have taken, or would have been required to take, if it were not proceeding in accordance with this regulation.
+
+(13) Where the appropriate authority applies to the IOPC DG under paragraph (2) and the IOPC DG determines that no permission should be granted—
+
+- (a) the IOPC DG shall refer the matter back to the appropriate authority for the making of a determination under regulation 24(3); and
+- (b) the authority shall then make that determination.
+
+(14) No more than one application may be made to the IOPC DG under this regulation in respect of the same complaint.
+
+(15) The complainant shall have a right of appeal to the relevant appeal body against any decision by the appropriate authority under this regulation to handle the complaint otherwise than in accordance with these Regulations or to take no action in relation to it.
+
+(16) But the complainant has no right of appeal in a case in which the appeal relates to a decision for which the IOPC DG has given permission under this regulation.
+
+(17) On an appeal under this paragraph, subject to paragraphs (18) and (19), the relevant appeal body shall—
+
+- (a) determine whether any decision taken by the appropriate authority under this regulation should have been taken in the case in question; and
+- (b) if the relevant appeal body finds in the complainant’s favour, give such directions as the relevant appeal body thinks appropriate to the Permanent Secretary to the Home Office or the Director General as to the action to be taken for handling the complaint in accordance with these Regulations or handling it otherwise than in accordance with these Regulations;
+
+and it shall be the duty of the Permanent Secretary to the Home Office or the Director General to comply with any directions given under sub-paragraph (b).
+
+(18) Paragraph (17) does not apply in a case where the Director General is—
+
+- (a) the person in respect of whose decision the appeal is made under this regulation, and
+- (b) the relevant appeal body in relation to the appeal.
+
+(19) In such a case—
+
+- (a) the appeal shall determine whether any decision taken by the appropriate authority under this paragraph should have been taken in the case in question; and
+- (b) if the appeal finds in the complainant’s favour, the Director General must take such action as the Director General thinks appropriate for handling the complaint in accordance with these Regulations or handling it otherwise than in accordance with these Regulations.
+
+### 26. Local resolution of complaints[^key-8269612b2be89ef19596c5968fc9103b]
+
+(1) The arrangements made by the appropriate authority for subjecting any complaint to local resolution may include the appointment of a person who is an NCA officer to secure the local resolution of the complaint.
+
+(2) The procedures that are to be available for dealing with a complaint which is to be subjected to local resolution are, subject to the provisions of this regulation, any procedures which are approved by the IOPC DG.
+
+(3) Where it appears to the appointed person that the complaint had in fact already been satisfactorily dealt with at the time it was brought to his notice, the appointed person may, subject to any representation by the complainant, treat it as having been locally resolved.
+
+(4) The appointed person shall as soon as practicable give the complainant and the person complained against an opportunity to comment on the complaint.
+
+(5) The appointed person shall not, for the purpose of locally resolving a complaint, tender on behalf of the person complained against an apology for that person’s conduct unless the person complained against has agreed to the apology.
+
+(6) Where a complaint has been dealt with by way of local resolution, a record shall be made as soon as practicable of the outcome of the procedure and a copy of the record sent to the complainant and the person complained against.
+
+(7) At the time of sending a copy of the record of outcome to the complainant under paragraph (6), the appropriate authority shall notify the complainant in writing of the complainant’s right of appeal against that outcome under regulation 27 (appeals relating to complaints dealt with other than by investigation), unless paragraph (2) of that regulation applies.
+
+(8) In this regulation, “the appointed person” means a person appointed under paragraph (1) to secure the local resolution of a complaint.
+
+(9) A statement made by any person for the purposes of the local resolution of any complaint shall not be admissible in any subsequent criminal, civil or disciplinary proceedings except to the extent that it consists of an admission relating to a matter that has not been subjected to local resolution.
+
+(10) If, after attempts have been made to resolve a complaint using local resolution, it appears to the appropriate authority—
+
+- (a) that the resolution of the complaint in that manner is impossible; or
+- (b) that the complaint is, for any other reason, not suitable for such resolution,
+
+it shall make arrangements for the complaint to be investigated by that authority on its own behalf.
+
+(11) The local resolution of any complaint shall be discontinued if—
+
+- (a) any arrangements are made under paragraph (9);
+- (b) the IOPC DG notifies the appropriate authority that the IOPC DG requires the complaint to be referred to the IOPC DG under regulation 22; or
+- (c) the complaint is so referred otherwise than in pursuance of such a notification.
+
+(12) A person who has participated in any attempt to resolve a complaint using local resolution shall be disqualified for appointment under any provision of these Regulations to investigate that complaint, or to assist with the carrying out of the investigation of that complaint.
+
+### 27. Appeals relating to complaints dealt with other than by investigation[^key-380b24d6855827f52859e205177c8786]
+
+(1) The complainant shall have a right of appeal to the relevant appeal body against the outcome of any complaint that is—
+
+- (a) subjected to local resolution; or
+- (b) handled otherwise than in accordance with these Regulations.
+
+(2) On an appeal under this regulation, subject to paragraphs (3) and (4), the relevant appeal body shall—
+
+- (a) determine whether the outcome of the complaint is a proper outcome; and
+- (b) if the relevant appeal body finds in the complainant’s favour, give such directions as the relevant appeal body thinks appropriate to the appropriate authority as to the action to be taken in relation to the complaint’
+
+and it shall be the duty of the appropriate authority to comply with any directions given under paragraph (b).
+
+(3) Paragraph (2) does not apply in a case where the Director General is the relevant appeal body in relation to the appeal.
+
+(4) In such a case—
+
+- (a) the appeal shall determine whether the outcome of the complaint is a proper outcome; and
+- (b) if the appeal finds in the complainant’s favour, the Director General must take such action as the Director General thinks appropriate in relation to the complaint.
+
+## PART 4 — Handling of conduct matters
+
+### 28. Conduct matters arising in civil proceedings[^key-93062fc23ffb5c7191a8e2c7aea8e674]
+
+(1) This regulation applies where—
+
+- (a) the Permanent Secretary to the Home Office and the Director General has received notification (whether or not under this regulation) that civil proceedings relating to any matter have been brought by a member of the public against the Secretary of State, NCA or Director General, or it otherwise appears to the appropriate authority that such proceedings are likely to be so brought; and
+- (b) it appears to the Permanent Secretary to the Home Office and the Director General (whether at the time of the notification or at any time subsequently) that those proceedings involve or would involve a conduct matter.
+
+(2) The Permanent Secretary to the Home Office or Director General—
+
+- (a) shall consider whether it is the appropriate authority in relation to the conduct matter in question; and
+- (b) if it is not, shall notify the person who is the appropriate authority about the proceedings, or the proposal to bring them, and about the circumstances that make it appear as mentioned in paragraph (1)(b).
+
+(3) Where the Permanent Secretary to the Home Office or Director General determines for the purposes of this paragraph that one of them is the appropriate authority in relation to any conduct matter, the appropriate authority shall determine whether the matter is one which that authority is required to refer to the IOPC DG under regulation 32 or is one which it would be appropriate to so refer.
+
+(4) In a case where the appropriate authority determines that the matter is one which it is required to refer to the IOPC DG under regulation 32, or is one which it would be appropriate to so refer, it shall record the matter.
+
+(5) In any other case, the appropriate authority shall determine whether the matter is repetitious within the meaning of regulation 30.
+
+(6) In a case where the appropriate authority determines that the matter is not repetitious within the meaning of regulation 30, it shall record the matter.
+
+(7) In any other case, the appropriate authority may (but need not) record the matter.
+
+(8) In a case where the appropriate authority—
+
+- (a) records a matter under this regulation; and
+- (b) is not required to refer the matter to the IOPC DG under regulation 32 and does not do so,
+
+the appropriate authority may deal with the matter in such other manner (if any) as it may determine.
+
+(9) Nothing in paragraph (4) or (6) shall require the appropriate authority to record any conduct matter if it is satisfied that the matter has been, or is already being, dealt with by means of criminal or disciplinary proceedings against the person to whose conduct the matter relates.
+
+(10) For the purposes of this regulation civil proceedings involve a conduct matter if—
+
+- (a) they relate to such a matter; or
+- (b) they are proceedings that relate to a matter in relation to which a conduct matter, or evidence of a conduct matter, is or may be relevant.
+
+### 29. Recording etc. of conduct matters in other cases[^key-dd52bb7a88dbd77be9bb956fbace94a7]
+
+(1) This paragraph applies where—
+
+- (a) a conduct matter comes (otherwise than as mentioned in regulation 28) to the attention of the Permanent Secretary to the Home Office and the Director General; and
+- (b) it appears to the appropriate authority that the conduct involved in that matter falls within paragraph (2).
+
+(2) Conduct falls within this paragraph if (assuming it to have taken place)—
+
+- (a) it appears to have resulted in the death of any person or in serious injury to any person;
+- (b) a member of public has been adversely affected by it; or
+- (c) it is of a description specified in paragraph (3).
+
+(3) The following descriptions of conduct are specified for the purposes of paragraph (2)—
+
+- (a) a serious assault, as defined in guidance issued by the IOPC DG;
+- (b) a serious sexual offence, as defined in guidance issued by the IOPC DG;
+- (c) serious corruption, as defined in guidance issued by the IOPC DG;
+- (d) a criminal offence or behaviour which is liable to lead to disciplinary proceedings and which in either case was aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance by the IOPC DG;
+- (e) a relevant offence;
+- (f) conduct whose gravity or other exceptional circumstances make it appropriate to record the matter in which the conduct is involved; or
+- (g) conduct which is alleged to have taken place in the same incident as one in which conduct within sub-paragraph (a) to (f) is alleged.
+
+(4) The appropriate authority must determine whether the matter is one which it is required to refer to the IOPC DG under regulation 32 or is one which it would be appropriate to so refer.
+
+(5) In a case in which the appropriate authority determines that the matter is one which it is required to refer to the IOPC DG under regulation 32, or is one which it would be appropriate to so refer, it shall record the matter.
+
+(6) In any other case, the appropriate authority shall determine whether the matter is repetitious within the meaning of regulation 30.
+
+(7) In a case where the appropriate authority determines that the matter is not repetitious within the meaning of regulation 30, it shall record the matter.
+
+(8) In any other case, the appropriate authority may (but need not) record the matter.
+
+(9) In a case where the appropriate authority—
+
+- (a) records a matter under this regulation; and
+- (b) is not required to refer the matter to the IOPC DG under regulation 32 and does not do so,
+
+the appropriate authority may deal with the matter in such other manner (if any) as it may determine.
+
+(10) Nothing in paragraph (5) or (7) shall require the appropriate authority to record any conduct matter if it is satisfied that the matter has been, or is already being, dealt with by means of criminal or disciplinary proceedings against the person to whose conduct the matter relates.
+
+(11) If it appears to the IOPC DG that—
+
+- (a) any matter that has come to the IOPC DG’s attention is a recordable conduct matter; but
+- (b) the matter has not been recorded by the appropriate authority,
+
+the IOPC DG may direct the appropriate authority to record that matter; and it shall be the duty of that authority to comply with the direction.
+
+### 30. Conduct matters not required to be recorded[^key-e16eb1833934d148b8339a98e6c252f9]
+
+For the purposes of regulations 28(5) and 29(6), a conduct matter is repetitious only if—
+
+- (a) it concerns substantially the same conduct as a previous complaint or conduct matter;
+- (b) there is no fresh indication in respect of that matter that the Director General or an NCA officer may have committed a criminal offence or behaved in a manner which would justify the bringing of disciplinary proceedings;
+- (c) there is no fresh evidence in respect of that matter which was not reasonably available at the time the previous complaint was made or the previous conduct matter was recorded; and
+- (d) as respects the previous complaint or conduct matter, either—
+  - (i) the complaint was locally resolved in accordance with the provisions of regulation 26;
+  - (ii) the complaint was handled otherwise than in accordance with these Regulations or no action was taken in relation to it, in accordance with regulation 25 (disapplication of requirements of these Regulations);
+  - (iii) the IOPC DG gave the appropriate authority a direction under regulation 64 (power to discontinue an investigation);
+  - (iv) the appropriate authority disapplied the requirements of these Regulations in accordance with regulation 64(15)(b);
+  - (v) the complainant gave such notification as is mentioned in regulation 40(1); or
+  - (vi) the requirements of regulations 67(9) or 68(11) (determination by the appropriate authority of what action to take) were complied with.
+
+### 31. Duties to preserve evidence relating to conduct matters[^key-22974c0f5fd7102d0703593a1c5ffb7a]
+
+(1) Where a recordable conduct matter that relates to the conduct of the Director General comes to the attention of the Permanent Secretary of the Home Office, it shall be the duty of the Permanent Secretary to secure that all such steps as are appropriate for the purposes of these Regulations are taken, both initially and from time to time after that, for obtaining and preserving evidence relating to that matter.
+
+(2) Where the Director General becomes aware of any recordable conduct matter relating to the conduct of an NCA officer, it shall be the Director General’s duty to take all such steps as appear to be appropriate for the purposes of these Regulations for obtaining and preserving evidence relating to that matter.
+
+(3) The Director General’s duty under paragraph (2) must be performed as soon as practicable after the Director General becomes aware of the matter in question.
+
+(4) After that, the Director General shall be under a duty, until it is satisfied that it is no longer necessary to do so, to continue to take the steps from time to time appearing to the Director General to be appropriate for the purposes of these Regulations for obtaining and preserving evidence relating to the matter.
+
+(5) It shall be the duty of the Permanent Secretary to the Home Office to comply with all such directions as may be given by the IOPC DG in relation to the performance of any duty imposed by virtue of paragraph (1).
+
+(6) It shall be the duty of the Director General to take all such specific steps for obtaining or preserving evidence relating to any recordable conduct matter as the Director General may be directed to take for the purposes of this regulation by the Permanent Secretary to the Home Office or by the IOPC DG.
+
+### 32. Reference of conduct matters to the IOPC DG[^key-9fa43e3a78200b601c1100c94c43e485]
+
+(1) It shall be the duty of the Permanent Secretary to the Home Office or Director General to refer a recordable conduct matter to the IOPC DG if, in a case (whether or not falling within regulation 28 (conduct matters arising in civil proceedings)) in which the Permanent Secretary or Director General is the appropriate authority—
+
+- (a) that matter relates to any incident or circumstances in or in consequence of which any person has died or suffered serious injury;
+- (b) that matter is of a description specified in paragraph (2); or
+- (c) the IOPC DG notifies the appropriate authority that the IOPC DG requires that matter to be referred to the IOPC DG for the IOPC DG’s consideration.
+
+(2) Any matter which relates to conduct falling within the following descriptions is specified for the purposes of paragraph (1)(b)—
+
+- (a) a serious assault, as defined in guidance issued by the IOPC DG
+- (b) a serious sexual offence, as defined in guidance issued by the IOPC DG;
+- (c) serious corruption, as defined in guidance issued by the IOPC DG;
+- (d) a criminal offence or behaviour which is liable to lead to disciplinary proceedings and which in either case was aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance by the IOPC DG;
+- (e) a relevant offence; or
+- (f) conduct which is alleged to have taken place in the same incident as one in which conduct within sub-paragraphs (a) to (e) is alleged.
+
+(3) In any case where there is no obligation under paragraph (1) to make a reference, the appropriate authority may refer a recordable conduct matter to the IOPC DG if that authority considers that it would be appropriate to do so by reason of—
+
+- (a) the gravity of the matter; or
+- (b) any exceptional circumstances.
+
+(4) In a case in which a reference under paragraphs (1) or (2) is neither made nor required to be made, the Permanent Secretary to the Home Office may refer any recordable conduct matter to the IOPC DG if—
+
+- (a) it is one in relation to which the Director General is the appropriate authority; and
+- (b) the Permanent Secretary considers that it would be appropriate to do so by reason of—
+  - (i) the gravity of the matter; or
+  - (ii) any exceptional circumstances.
+
+(5) Where there is an obligation under this regulation to refer any matter to the IOPC DG, it must be referred in such manner as the IOPC DG specifies and—
+
+- (a) if the matter falls within paragraph (1)(a) or (b), without delay and in any event not later than the end of the day following the day on which it first becomes clear to the appropriate authority that the conduct matter is one to which that sub-paragraph applies; and
+- (b) if the matter falls within paragraph (1)(c), without delay and in any event not later than the end of the day following the day on which the IOPC DG notifies the appropriate authority that the conduct matter is to be referred.
+
+(6) Subject to paragraph (8), the following powers—
+
+- (a) the power of the IOPC DG by virtue of paragraph (1)(c) to require a matter to be referred to it; and
+- (b) the power of the Permanent Secretary to the Home Office and the Director General to refer any matter to the IOPC DG under paragraph (3) or (4),
+
+shall each be exercisable at any time irrespective of whether the matter is already being investigated by any person or has already been considered by the IOPC DG.
+
+(7) Where—
+
+- (a) the Permanent Secretary to the Home Office or the Director General refers a matter to the IOPC DG under this regulation; and
+- (b) the Permanent Secretary to the Home Office or (as the case may be) the Director General does not consider that to do so might prejudice a possible future investigation of that matter,
+
+it shall give a notification of the making of the reference to the person to whose conduct that matter relates.
+
+(8) A matter that has already been referred to the IOPC DG under this regulation on a previous occasion—
+
+- (a) shall not be required to be referred again under this regulation unless the IOPC DG so directs; and
+- (b) shall not be referred in exercise of any power conferred by this regulation unless the IOPC DG consents.
+
+### 33. Duties of the IOPC DG on references under regulation 28[^key-445f36fdb710ad3d27cec68bf3fec78f]
+
+(1) It shall be the duty of the IOPC DG, in the case of every recordable conduct matter referred to the IOPC DG by the Permanent Secretary to the Home Office and the Director General under regulation 32 (reference of conduct matters to the IOPC DG), to determine whether or not it is necessary for the matter to be investigated.
+
+(2) Where the IOPC DG determines under this regulation that it is not necessary for a recordable conduct matter referred by the appropriate authority to be investigated, the IOPC DG may if the IOPC DG thinks fit refer the matter back to the appropriate authority to be dealt with by that authority in such manner (if any) as that authority may determine.
+
+(3) Where the IOPC DG —
+
+- (a) refers a matter back to the appropriate authority under this regulation; and
+- (b) does not consider that to do so might prejudice a possible future investigation of that matter,
+
+the IOPC DG shall give a notification of the making of the reference to the person to whose conduct that matter relates.
+
+## PART 5 — Handling of Death and Serious Injury (DSI) Matters
+
+### 34. Duty to record DSI matters[^key-1392d44caecd9c7074843ba885bf9f4b]
+
+(1) Where a DSI matter comes to the attention of the Permanent Secretary to the Home Office or Director General who is the appropriate authority in relation to that matter, it shall be the duty of the appropriate authority to record that matter.
+
+(2) If it appears to the IOPC DG—
+
+- (a) that any matter that has come to the IOPC DG’s attention is a DSI matter; but
+- (b) that that matter has not been recorded by the appropriate authority,
+
+the IOPC DG may direct the appropriate authority to record that matter and it shall be the duty of that authority to comply with the direction.
+
+### 35. Duty to preserve evidence relating to DSI matters[^key-e73bd1a0a5a3297fb017995a63f999d8]
+
+(1) Where—
+
+- (a) a DSI matter comes to the attention of the Permanent Secretary to the Home Office, and
+- (b) the relevant officer in relation to that matter is the Director General,
+
+it shall be the duty of the Permanent Secretary to secure that all such steps as are appropriate for the purposes of these Regulations are taken, both initially and from time to time, for obtaining and preserving evidence relating to that matter.
+
+(2) Where—
+
+- (a) the Director General becomes aware of a DSI matter; and
+- (b) the relevant officer in relation to that matter is an NCA officer,
+
+it shall be the duty of the Director General to take all such steps as appear to be appropriate for the purposes of these Regulations for obtaining and preserving evidence relating to that matter.
+
+(3) The Director General’s duty under paragraph (2) must be performed as soon as practicable after the Director General becomes aware of the matter in question.
+
+(4) After that, the Director General shall be under a duty, until the Director General is satisfied that it is no longer necessary to do so, to continue to take the steps from time to time as appear to be appropriate for the purposes of these Regulations for obtaining and preserving evidence relating to the matter.
+
+(5) It shall be the duty of the Permanent Secretary to the Home Office to comply with all such directions as may be given by the IOPC DG in relation to the performance of any duty imposed under paragraph (1).
+
+(6) It shall be the duty of the Director General to take all such specific steps for obtaining or preserving evidence relating to any DSI matter as the Director General may be directed to take for the purposes of this regulation by the Permanent Secretary to the Home Office or by the IOPC DG.
+
+### 36. Reference of DSI matters to the IOPC DG[^key-f0487b7e73bbac24bfc64321a7aa30c7]
+
+(1) It shall be the duty of the appropriate authority to refer a DSI matter to the IOPC DG.
+
+(2) A DSI matter shall be referred to the IOPC DG in such manner as the IOPC DG specifies and—
+
+- (a) in a case where the IOPC DG directs that the matter be referred to it, without delay and in any event not later than the end of the day following the day on which the IOPC DG so directs;
+- (b) in any other case, without delay and in any event not later than the end of the day following the day on which the matter first comes to the attention of the appropriate authority.
+
+(3) A matter that has already been referred to the IOPC DG under this regulation on a previous occasion shall not be required to be referred again under this regulation unless the IOPC DG so directs.
+
+### 37. Duties of IOPC DG on references under regulation 36[^key-4b9c2124e487ba7af0eb5a0699b96f30]
+
+(1) It shall be the duty of the IOPC DG, in the case of every DSI matter referred to the IOPC DG by the Permanent Secretary to the Home Office and the Director General, to determine whether or not it is necessary for the matter to be investigated.
+
+(2) Where the IOPC DG determines under this regulation that it is not necessary for a DSI matter to be investigated, the IOPC DG may if the IOPC DG thinks fit refer the matter back to the appropriate authority to be dealt with by it in such manner (if any) as that authority may determine.
+
+## PART 6 — Investigations and Subsequent Proceedings
+
+### 38. Power of the IOPC DG to determine the form of an investigation[^key-b422959d5b3332680eec3504ba17bca0]
+
+(1) This regulation applies where—
+
+- (a) a complaint, recordable conduct matter or DSI matter is referred to the IOPC DG; and
+- (b) the IOPC DG determines that it is necessary for the complaint or matter to be investigated.
+
+(2) It shall be the duty of the IOPC DG to determine the form which the investigation should take.
+
+(3) In making a determination under paragraph (2) the IOPC DG shall have regard to the following factors—
+
+- (a) the seriousness of the case; and
+- (b) the public interest.
+
+(4) The only forms which the investigation may take in accordance with a determination made under this regulation are an investigation by—
+
+- (a) the appropriate authority on its own behalf;
+- (b) the appropriate authority under the supervision of the IOPC DG;
+- (c) the appropriate authority under the management of the IOPC DG;
+- (d) the IOPC DG.
+
+(5) The IOPC DG may at any time make a further determination under this regulation to replace an earlier one.
+
+(6) Where a determination under this regulation replaces an earlier determination under this regulation, or relates to a complaint or matter in relation to which the appropriate authority has already begun an investigation on its own behalf, the IOPC DG may give—
+
+- (a) the appropriate authority; and
+- (b) any person previously appointed to carry out the investigation,
+
+such directions as the IOPC DG considers appropriate for the purpose of giving effect to the new determination.
+
+(7) It shall be the duty of a person to whom a direction is given under paragraph (6) to comply with it.
+
+(8) The IOPC DG shall notify the appropriate authority of any determination that the IOPC DG makes under this regulation in relation to a particular complaint, recordable conduct matter or DSI matter.
+
+### 39. Appointment of persons to carry out investigations[^key-15ff8c1304b706df12808e68861844c8]
+
+No person shall be appointed to carry out an investigation under regulation 41, 42 or 43 (investigation by the appropriate authority on its own behalf, supervised and managed investigations)—
+
+- (a) unless that person has an appropriate level of knowledge, skills and experience to plan and manage the investigation;
+- (b) if that person works, directly or indirectly, under the management of the person whose conduct is being investigated;
+- (c) in a case where the person concerned is a senior officer, if that person is the Director General;
+- (d) if that person’s involvement in the role could reasonably give rise to a concern as to whether that person could act impartially under these Regulations.
+
+### 40. Withdrawn complaints[^key-f3f87be8c7ab6d89a6fc68b9977134d7]
+
+(1) If an appropriate authority receives from a complainant notification in writing signed by the complainant or by a solicitor or other authorised agent on the complainant’s behalf to the effect either—
+
+- (a) that the complainant withdraws the complaint; or
+- (b) that the complainant does not wish any further steps to be taken in consequence of the complaint,
+
+then the appropriate authority shall forthwith record the withdrawal or the fact that the complainant does not wish any further steps to be taken, as the case may be, and subject to the following provisions of this regulation, these Regulations shall cease to apply in respect of that complaint.
+
+(2) Where a complainant gives such notification as is mentioned in paragraph (1) to the IOPC DG but, so far as is apparent to the IOPC DG, has not sent that notification to the appropriate authority, then—
+
+- (a) the IOPC DG shall send a copy of the notification to the appropriate authority;
+- (b) that appropriate authority shall record the withdrawal or the fact that the complainant does not wish any further steps to be taken, as the case may be; and
+- (c) subject to the following provisions of this regulation, these Regulations shall cease to apply in respect of that complaint.
+
+(3) Where a complainant gives such notification as is mentioned in paragraph (1) to an appropriate authority, or where the appropriate authority receives a copy of a notification under paragraph (2), and it relates to a complaint—
+
+- (a) which was referred to the IOPC DG under regulation 22 (reference of complaints to the IOPC DG) and which has not been referred back to the appropriate authority under regulation 23 (duties of the IOPC DG on references under regulation 22); or
+- (b) which the appropriate authority knows is currently the subject of an appeal to the IOPC DG under regulation 21(3), 25(15), 27(1), 64(19) or 71(2),
+
+then the appropriate authority shall notify the IOPC DG that it has recorded the withdrawal of the complaint or the fact that the complainant does not wish any further steps to be taken, as the case may be.
+
+(4) In a case falling within paragraph (3)(a), the IOPC DG shall determine whether it is in the public interest for the complaint to be treated as a recordable conduct matter, and shall notify the appropriate authority of the IOPC DG’s decision.
+
+(5) In a case falling within paragraph (3)(b), the appropriate authority shall—
+
+- (a) determine whether it is in the public interest for the complaint to be treated as a recordable conduct matter; and
+- (b) notify the IOPC DG of its determination and the reasons for that determination.
+
+(6) Where a determination is made that a complaint is to be treated as a recordable conduct matter, then the provisions of these Regulations shall apply to that matter.
+
+(7) Where a complainant gives such notification as is mentioned in paragraph (1) to an appropriate authority, or where the appropriate authority receives a copy of a notification under paragraph (2), and that notification relates to a complaint which does not fall within paragraph (3), then—
+
+- (a) the appropriate authority shall determine whether it is in the public interest for the complaint to be treated as a recordable conduct matter;
+- (b) if the complaint is to be treated as a recordable conduct matter, the provisions of these Regulations shall apply to that matter;
+- (c) if the complaint is not to be treated as a recordable conduct matter, the provisions of these Regulations shall cease to apply in respect of that complaint.
+
+(8) In a case where—
+
+- (a) a complaint has been subjected to an investigation by the appropriate authority on its own behalf;
+- (b) the complaint is currently subject to an appeal to the IOPC DG under regulation 71; and
+- (c) the appropriate authority has notified the IOPC DG under paragraph (5)(b) that it has determined that the complaint is not to be treated as a recordable conduct matter,
+
+the IOPC DG shall consider whether it is in the public interest for that determination to be reversed, and if so the IOPC DG shall instruct the appropriate authority to reverse the decision.
+
+(9) Where a complainant indicates a wish to withdraw the complaint or the wish that no further steps are to be taken in consequence of the complaint, but the complainant fails to provide a notification to that effect in writing signed by or on behalf of the complainant, then—
+
+- (a) in the case of an indication received by the appropriate authority, the authority shall take the steps set out in paragraph (10);
+- (b) in the case of an indication received by the IOPC DG, the IOPC DG shall refer the matter to the appropriate authority which shall take the steps set out in paragraph (10).
+
+(10) Those steps are—
+
+- (a) the appropriate authority shall write to the complainant to ascertain whether the complainant wishes to withdraw the complaint or does not wish any further steps to be taken in consequence of the complaint;
+- (b) if the complainant indicates the wish to withdraw the complaint or does not wish any further steps to be taken in consequence of the complaint, or if the complainant fails to reply within a period of 28 days commencing on the day after the date of the written communication under sub-paragraph (a), the appropriate authority shall treat the indication as though it had been received in writing signed by the complainant;
+- (c) if the complainant indicates the wish not to withdraw the complaint, or the wish for further steps to be taken in consequence of the complaint, the appropriate authority shall start or resume the investigation as the case may be.
+
+(11) Subject to paragraph (12), the appropriate authority shall notify the person complained against if—
+
+- (a) it records the withdrawal of a complaint or the fact that the complainant does not wish any further steps to be taken;
+- (b) it determines that a complaint shall be treated as a recordable conduct matter;
+- (c) the IOPC DG determines that a complaint shall be treated as a recordable conduct matter;
+- (d) the IOPC DG instructs it to reverse a decision not to treat a complaint as a recordable conduct matter;
+- (e) the provisions of these Regulations cease to apply in respect of a complaint.
+
+(12) Nothing in paragraph (11) shall require the appropriate authority to make a notification if it has previously decided under regulation 19 (copies of complaints etc.) not to notify the person complained against of the complaint because it is of the opinion that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
+
+### 41. Investigations by the appropriate authority on its own behalf[^key-6bd9a54efb86bf7a8e5767f49d63efcb]
+
+(1) This regulation applies if the appropriate authority is required by virtue of—
+
+- (a) any determination made by that authority under regulation 24(3) (whether following the recording of a complaint or on a reference back under regulation 23(2)) or under regulation 26(9); or
+- (b) any determination made by the IOPC DG under regulation 38 (power of the IOPC DG to determine the form of an investigation),
+
+to make arrangements for a complaint, recordable conduct matter or DSI matter to be investigated by the appropriate authority on its own behalf.
+
+(2) This regulation also applies if—
+
+- (a) a determination falls to be made by that authority under regulation 28(8), 29(9) or 33(2) in relation to any recordable conduct matter or under regulation 37(2) in relation to any DSI matter; and
+- (b) the appropriate authority determines that it is necessary for the matter to be investigated by the authority on its own behalf.
+
+(3) Subject to paragraph (4), it shall be the duty of the appropriate authority to appoint—
+
+- (a) an NCA officer; or
+- (b) a person serving with the police,
+
+to investigate the complaint or matter.
+
+(4) The person appointed under this regulation to investigate any complaint or matter—
+
+- (a) in the case of an investigation relating to any conduct of the Director General; or
+- (b) in relation to which the relevant officer is the Director General,
+
+must not be an NCA officer.
+
+### 42. Investigations supervised by the IOPC DG[^key-565821866e398079691358d97528f475]
+
+(1) This regulation applies where the IOPC DG has determined that the IOPC DG should supervise the investigation by the appropriate authority of any complaint or recordable conduct matter or DSI matter.
+
+(2) On being given notice of that determination, the appropriate authority shall, if it has not already done so, appoint—
+
+- (a) an NCA officer; or
+- (b) a person serving with the police,
+
+to investigate the complaint or matter.
+
+(3) The IOPC DG may require that no appointment is made under paragraph (2) unless the IOPC DG has given notice to the appropriate authority that the IOPC DG approves the person whom that authority proposes to appoint.
+
+(4) Where a person has already been appointed to investigate the complaint or matter, or is selected under this paragraph for appointment, and the IOPC DG is not satisfied with that person, the IOPC DG may require the appropriate authority, as soon as reasonably practicable after being required to do so—
+
+- (a) to select another person falling within paragraph (2) to investigate the complaint or matter; and
+- (b) to notify the IOPC DG of the person selected.
+
+(5) Where a selection made in pursuance of a requirement under paragraph (4) has been notified to the IOPC DG, the appropriate authority shall appoint that person to investigate the complaint or matter if, but only if, the IOPC DG notifies the authority that the IOPC DG approves the appointment of that person.
+
+(6) The person appointed under this regulation to investigate any complaint or matter—
+
+- (a) in the case of an investigation relating to any conduct of the Director General; or
+- (b) in relation to which the relevant officer is the Director General,
+
+must not be an NCA officer.
+
+(7) Subject to paragraphs (8) and (9), the person appointed to investigate the complaint or matter shall comply with any reasonable requirements as to the conduct of the investigation which may be imposed by the IOPC DG as appear to it to be necessary.
+
+(8) Where at any stage of an investigation of a complaint, recordable conduct matter or DSI matter the possibility of criminal proceedings arises, the IOPC DG shall not, under paragraph (7), impose any requirement relating to the obtaining or preservation of evidence of a criminal offence without first obtaining the consent of the Director of Public Prosecutions.
+
+(9) The IOPC DG shall not, under paragraph (7), impose any requirement relating to the resources to be made available by the Director General for the purposes of an investigation without first consulting the Director General and having regard to any representations the Director General may make.
+
+### 43. Investigations managed by the IOPC DG[^key-08d3372dbf3e3503c34f2c1cff75bf88]
+
+(1) This regulation applies where the IOPC DG has determined that the IOPC DG should manage the investigation by the appropriate authority of any complaint, recordable conduct matter or DSI matter.
+
+(2) Paragraphs (2) to (6) of regulation 42 (investigations supervised by the IOPC DG) shall apply as they apply in the case of an investigation which the IOPC DG has determined is one that the IOPC DG should supervise.
+
+(3) The person appointed to investigate the complaint or matter shall, in relation to that investigation, be under the direction and control of the IOPC DG.
+
+### 44. Investigations by the IOPC DG itself[^key-41fb96160bf2ae100bfcec18bf4f7714]
+
+(1) This regulation applies where the IOPC DG has determined that the IOPC DG should [^key-eb00eb7dcb9ccf86dae9c420fc7315bd]... carry out the investigation of a complaint or recordable conduct matter or DSI matter.
+
+(2)[^key-cd9d549cd99d60e53b7d3c6c3e7120b4] The IOPC DG shall designate both—
+
+- (a) a person to take charge of the investigation; and
+- (b) such members of the IOPC’s staff as are required by the IOPC DG to assist the person designated to take charge of the investigation.
+
+(2A) The person designated under paragraph (2) to take charge of an investigation shall be—
+
+- (a) the IOPC DG acting personally; or
+- (b) a person who is authorised to exercise the function of taking charge of the investigation on behalf of the IOPC DG by virtue of paragraph 6A of Schedule 2 to the 2002 Act (delegation of Director General’s functions).
+
+(3) A person[^key-83f97f79c5675e1860174d435a54d0ba] who—
+
+- (a) is designated under paragraph (2) in relation to any investigation; but
+- (b) does not already, by virtue of section 97(8) (police officers engaged on service outside their force) of the Police Act 1996[^f00010] have all the powers and privileges of a constable throughout England and Wales and the adjacent United Kingdom waters,
+
+shall for the purposes of the carrying out of the investigation and all purposes connected with it, have all those powers and privileges throughout England and Wales and those waters.
+
+(4) A person designated under paragraph (2)[^key-6756c84cae0a6182cbf2a833976a8868] who is not a constable shall not, as a result of paragraph (3), be treated as being in police service for the purposes of—
+
+- (a) section 280 (police service) of the Trade Union and Labour Relations (Consolidation) Act 1992[^f00011]; or
+- (b) section 200 (police officers) of the Employment Rights Act 1996[^f00012].
+
+(5) References in this regulation to the powers and privileges of a constable—
+
+- (a) are references to any power or privilege conferred by or under any enactment (including one passed after the making of these Regulations) on a constable; and
+- (b) shall have effect as if every such power were exercisable, and every such privilege existed, throughout England and Wales and the adjacent United Kingdom waters (whether or not that is the case apart from this paragraph).
+
+(6) In this regulation “United Kingdom waters” means the sea and other waters within the seaward limits of the United Kingdom’s territorial sea.
+
+### 45. Combining and splitting investigations[^key-3b992becaf8da0cec42a43c8f919e917]
+
+(1) An appropriate authority which is carrying out an investigation on its own behalf may—
+
+- (a) combine that investigation with another such investigation; or
+- (b) split that investigation into two or more such separate investigations,
+
+if it considers that it is more efficient and effective, or is otherwise in the public interest, to do so.
+
+(2) Subject to paragraph (3), where the IOPC DG is supervising, managing or , under paragraph 19 of Schedule 3 to the 2002 Act has designated a person to carry out, an investigation[^key-7387cde8f57cb142e399e31ba502b66f], the IOPC DG may—
+
+- (a) combine that investigation with another investigation; or
+- (b) split that investigation into two or more separate investigations,
+
+if the IOPC DG considers that it is more efficient and effective, or is otherwise in the public interest, to do so.
+
+(3) The IOPC DG shall not take any action under paragraph (2) in relation to a supervised or managed investigation except after consultation with the appropriate authority.
+
+(4) Nothing in this regulation shall prevent the IOPC DG from determining that—
+
+- (a) where an investigation is split into two or more separate investigations, those investigations may take different forms;
+- (b) two or more separate investigations which take different forms (including an investigation being carried out by the appropriate authority on its own behalf) may be combined into a single investigation.
+
+### 46. Relinquishing the IOPC DG’s supervision or management of an investigation[^key-da4b919093dd4cd9d797fcb29a5d1b05]
+
+(1) This regulation applies where the IOPC DG relinquishes—
+
+- (a) the management of an investigation in favour of a supervised investigation or an investigation by the appropriate authority on its own behalf; or
+- (b) the supervision of an investigation in favour of an investigation by the appropriate authority on its own behalf.
+
+(2) Where this regulation applies, and subject to paragraph (3), the IOPC DG shall—
+
+- (a) notify the appropriate authority, the complainant, any interested person within the meaning of regulation 14 (duty to provide information for other persons) and the person complained against of the IOPC DG’s decision, and the reasons for that decision; and
+- (b) send to the appropriate authority any documentation and evidence gathered during the IOPC DG’s investigations as will assist the appropriate authority to carry out its functions under these Regulations.
+
+(3) Nothing in paragraph (2)(a) shall require the IOPC DG to make a notification to the person complained against if the IOPC DG is of the opinion that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
+
+### 47. Circumstances in which an investigation or other procedure may be suspended[^key-f17ef843fe0bace5925124450a38514b]
+
+(1) The IOPC DG may suspend any investigation or other procedure under these Regulations which would, if it were to continue, prejudice any criminal investigation or proceedings.
+
+(2) An appropriate authority may, subject to paragraph (3), suspend any investigation or other procedure under these Regulations which would, if it were to continue, prejudice any criminal investigation or proceedings.
+
+(3) The IOPC DG may direct that any investigation or other procedure under these Regulations which is liable to be suspended under paragraph (2) shall continue if the IOPC DG is of the view that it is in the public interest to make such a direction.
+
+(4) The IOPC DG shall consult the appropriate authority before making such a direction.
+
+### 48. Resumption of investigation after criminal proceedings[^key-0c91b117a7bfb588fa5e8208185ad025]
+
+(1) Where the whole or part of the investigation of a complaint has been suspended until the conclusion of criminal proceedings, and the complainant has failed to indicate after the conclusion of those proceedings that the complainant wishes the investigation to start or be resumed, the IOPC DG or, as the case may be, appropriate authority shall take the steps set out in paragraph (2).
+
+(2) The IOPC DG or appropriate authority shall take all reasonable steps to contact the complainant to ascertain whether the complainant wants the investigation to start or be resumed as the case may be.
+
+(3) If the complainant indicates the wish for the investigation to start or be resumed, the IOPC DG or appropriate authority shall start or resume the investigation as the case may be.
+
+(4) If the complainant indicates that the complainant does not want the investigation to start or be resumed, or if the complainant fails to reply within a period of 28 days commencing on the day after the date of a letter sent to the complainant by the IOPC DG or appropriate authority, the IOPC DG or appropriate authority as the case may be shall determine whether it is in the public interest for the complaint to be treated as a recordable conduct matter.
+
+(5) If the IOPC DG or appropriate authority determines that it is not in the public interest for the complaint to be treated as a recordable conduct matter, the provisions of these Regulations shall cease to apply to the complaint.
+
+(6) If the IOPC DG or appropriate authority determines that it is in the public interest for the complaint to be treated as a recordable conduct matter, the provisions of these Regulations shall apply to the matter.
+
+(7) Subject to paragraph (8), the IOPC DG or appropriate authority shall notify the person complained against if paragraph (5) or (6) applies.
+
+(8) Nothing in paragraph (7) shall require the IOPC DG or appropriate authority to make a notification if the IOPC DG or appropriate authority[^key-608a6c26f4946650b62f946839d4dccc] is of the opinion that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
+
+### 49. Special procedure: assessment of seriousness of conduct under investigation[^key-37417621425b2ac8d5bbb6aceb7ce348]
+
+(1) If, during the course of an investigation of a complaint, it appears to the person investigating or, in the case of an investigation by a designated person under regulation 44 the IOPC DG,[^key-1874630775ad85afe2d6daa0fd0c32f7] that there is an indication that a person to whose conduct the investigation relates may have—
+
+- (a) committed a criminal offence; or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
+
+the person investigating or, in the case of an investigation by a designated person under regulation 44 the IOPC DG, must certify the investigation as one subject to special requirements.
+
+(2) If the person investigating a complaint certifies the investigation as one subject to special requirements, the person must, as soon as is reasonably practicable after doing so, make a severity assessment in relation to the conduct of the person concerned to which the investigation relates.
+
+(3) The person investigating a recordable conduct matter must make a severity assessment in relation to the conduct to which the investigation relates—
+
+- (a) as soon as is reasonably practicable after that person’s appointment or designation; or
+- (b) in the case of a matter recorded in accordance with regulations 65(5) or 70(2), as soon as is reasonably practicable after it is so recorded.
+
+(4) For the purposes of this regulation a “severity assessment”, in relation to conduct, means an assessment as to whether the conduct, if proved, would amount to misconduct or gross misconduct.
+
+(5) An assessment under this regulation may only be made after consultation with the appropriate authority.
+
+(6) On completing an assessment under this regulation, the person investigating the complaint or matter must give a notification to the person concerned that complies with paragraph (7).
+
+(7) The notification must be in writing and state—
+
+- (a) the conduct that is the subject matter of the allegation and how that conduct is alleged to fall below the NCA standards;
+- (b) that there is to be an investigation into the matter and the identity of the investigator;
+- (c) the investigator’s assessment of whether that conduct, if proved, would amount to misconduct or gross misconduct;
+- (d) that the person concerned has the right to seek advice from the Trade Union or any other body representing the interests of the person concerned and of the effect of regulation 53(1) to (3); and
+- (e) the effect of paragraph (8) and regulation 50 (duty to consider submissions from person whose conduct is being investigated).
+
+(8) The person concerned or NCA friend shall have such a period as determined by the NCA, starting with the day after which the notice is given under paragraph (7) (unless this period is extended by the investigator) to provide any relevant statement or relevant document as the case may be.
+
+(9) Paragraph (6) does not apply for so long as the person investigating the complaint or matter considers that giving the notification might prejudice—
+
+- (a) the investigation; or
+- (b) any other investigation (including, in particular, a criminal investigation).
+
+(10) Where the person investigating a complaint or matter has made a severity assessment and considers it appropriate to do so, the person may revise the assessment.
+
+(11) On revising a severity assessment, the person investigating the complaint or matter must, as soon as practicable, give the person concerned further written notice of the assessment of whether the conduct, if proved, would amount to misconduct or gross misconduct as the case may be and the reason for that assessment.
+
+(12) The notice whether given in accordance with paragraph (6) or (11) shall be—
+
+- (a) given to the person concerned in person;
+- (b) left with some person at, or sent by recorded delivery to, the last known address of the person concerned; or
+- (c) given to him in person by that person’s NCA friend where the NCA friend has agreed with the appropriate authority to deliver the notice.
+
+(13) In this regulation and regulations 50 to 53—
+
+- “the person concerned” means—
+  - (a) in relation to an investigation of a complaint, the person in respect of whom it appears to the person investigating that there is the indication mentioned in paragraph (1);
+  - (b) in relation to an investigation of a recordable conduct matter, the person to whose conduct the investigation relates;
+- “relevant document” means a document relating to any complaint or matter under investigation and includes such a document containing suggestions as to lines of inquiry to be pursued or witnesses to be interviewed;
+- “relevant statement” means an oral or written statement relating to any complaint or matter under investigation.
+
+### 50. Duty to consider submissions from person whose conduct is being investigated[^key-b18d7e4c351d5a85cec11e7edd9ae11b]
+
+(1) This paragraph applies to—
+
+- (a) an investigation of a complaint that has been certified under regulation 49(1) as one subject to special requirements; or
+- (b) an investigation of a recordable conduct matter.
+
+(2) If before the expiry of the appropriate time limit notified in pursuance of regulation 49(8)—
+
+- (a) the person concerned provides the person investigating the complaint or matter with a relevant statement or a relevant document; or
+- (b) an NCA friend provides that person with a relevant document,
+
+that person must consider the statement or document.
+
+### 51. Interview of person whose conduct is being investigated[^key-0810d9baa1d9f51a3eafc4878c646aa0]
+
+(1) This paragraph applies to an investigation to which regulation 50(1)(a) or (b) applies.
+
+(2) Where an investigator wishes to interview the person concerned as part of his investigation, he shall, if reasonably practicable, agree a date and time for the interview with the person concerned.
+
+(3) Where no date and time is agreed under paragraph (1), the investigator shall specify a date and time for the interview.
+
+(4) Where a date and time is specified under paragraph (2) and—
+
+- (a) the person concerned or that person’s NCA friend will not be available at that time; and
+- (b) the person concerned proposes an alternative time which satisfies paragraph (5),
+
+the interview shall be postponed to the time proposed by the person concerned.
+
+(5) An alternative time must—
+
+- (a) be reasonable; and
+- (b) fall before the end of the period of 5 working days beginning with the first working day after the day specified by the investigator.
+
+(6) The person concerned shall be given written notice of the date, time and place of the interview.
+
+(7) The investigator shall, in advance of the interview, provide the person concerned with such information as the investigator considers appropriate in the circumstances of the case to enable the person concerned to prepare for the interview.
+
+(8) The person concerned shall attend the interview.
+
+(9) An NCA friend may not answer any questions asked of the person concerned during the interview.
+
+### 52. Duty to provide certain information to appropriate authority[^key-9d24d1e36f7665ec89da7a8462aeeefb]
+
+(1) This paragraph applies during the course of an investigation to which regulation 50(1)(a) or (b) applies.
+
+(2) The person investigating the complaint or matter must supply the appropriate authority with such information in that person’s possession as the authority may reasonably request for the purpose mentioned in paragraph (3).
+
+(3) That purpose is determining whether—
+
+- (a) the person concerned should be, or should remain, suspended from that person’s appointment as an NCA officer; or
+- (b) in relation to a person who has been seconded to the NCA to serve as an NCA officer, the secondment of the person concerned should cease to have effect, or continue to cease to have effect.
+
+### 53. NCA friend[^key-32dd684f33d538bc435c999e1b3413c5]
+
+(1) The person concerned may choose—
+
+- (a) an NCA officer; or
+- (b) an official of a trade union,
+
+who is not otherwise involved in the matter to act as that person’s NCA friend.
+
+(2) An NCA friend may—
+
+- (a) provide any relevant document to the investigator in accordance with regulation 50(2)(b);
+- (b) accompany the person concerned to any interview conducted under regulation 51;
+- (c) advise the person concerned throughout proceedings under these Regulations; and
+- (d) make representations to the IOPC DG concerning any aspect of the proceedings under these Regulations.
+
+### 54. Interview of the Director General or an NCA officer during certain investigations[^key-1cb5bff3ab94a6c09b4fe60291a62168]
+
+(1) This regulation applies to an investigation of a complaint, recordable conduct matter or DSI matter which—
+
+- (a) is carried out by the appropriate authority under the management of the IOPC DG; or
+- (b) is carried out by a person designated under regulation 44[^key-3280db529ddb1072561942121b9a505e].
+
+(2) Paragraph (3) prescribes the procedure to be followed in connection with an interview which—
+
+- (a) is held with the Director General or an NCA officer during the course of the investigation by the person investigating the complaint or matter; and
+- (b) is not within regulation 51.
+
+(3) Where a relevant investigator wishes to interview the Director General or an NCA officer as part of an investigation, the relevant investigator shall—
+
+- (a) give written notice to the Director General or NCA officer that the interview will take place in accordance with this regulation; and
+- (b) if reasonably practicable, agree a date and time for the interview with the Director General or NCA officer.
+
+(4) Where no date and time is agreed under paragraph (3), the relevant investigator shall specify a date and time for the interview.
+
+(5) Where a date and time is specified under paragraph (4) and—
+
+- (a) the Director General, the NCA officer or the Director General’s or NCA officer’s accompanying person will not be available at that time; and
+- (b) the Director General or NCA officer proposes an alternative time which satisfies paragraph (6),
+
+the interview shall be postponed to the time proposed by the Director General or NCA officer.
+
+(6) An alternative time must—
+
+- (a) be reasonable; and
+- (b) fall before the end of the period of 5 working days beginning with the first working day after the day specified by the relevant investigator.
+
+(7) The Director General or NCA officer shall be given written notice of the date, time and place of the interview.
+
+(8) The relevant investigator shall, in advance of the interview, provide the Director General or NCA officer with such information as the relevant investigator considers appropriate in the circumstances of the case to enable the serving officer to prepare for the interview.
+
+(9) The Director General or NCA officer shall attend the interview.
+
+(10) An accompanying person may not answer any questions asked of the Director General or NCA officer during the interview.
+
+(11) Where an accompanying person is an NCA officer, the Director General shall permit the accompanying person to use a reasonable amount of duty time for the purposes of this regulation.
+
+(12) Nothing in this regulation shall apply to an interview of any person—
+
+- (a) in relation to an investigation of a complaint, in respect of whom it appears to the investigator that there is a relevant indication; or
+- (b) in relation to an investigation of a recordable conduct matter, to whose conduct the investigation relates.
+
+(13) Nothing in this regulation prevents or restricts the holding of interviews to which this regulation does not apply during the course of any investigation under these Regulations.
+
+(14) In this regulation—
+
+- “accompanying person” means any person nominated by the NCA officer and who is not otherwise involved in the matter;
+- “relevant indication” means an indication that a person to whose conduct the investigation relates may have—
+  - (a) committed a criminal offence; or
+  - (b) behaved in a manner which would justify the bringing of disciplinary proceedings;
+- “relevant investigator” means a person appointed or designated to investigate under regulations 43 or 44.
+
+### 55. Restrictions on proceedings pending the conclusion of an investigation[^key-cee85287c34adc5e922411febf4e5706]
+
+(1) No criminal or disciplinary proceedings shall be brought in relation to any matter which is the subject of an investigation in accordance with the provisions of these Regulations until—
+
+- (a) the appropriate authority has certified the case as a special case under regulation 57(3) or 60(3); or
+- (b) a report on that investigation has been submitted to the IOPC DG or to the appropriate authority under regulation 66 or 69 or, in the case of an investigation under regulation 44 by the IOPC DG acting personally, a report has been completed by the IOPC DG[^key-52cf644fb66637d9c0ec09ec4beffcb2].
+
+(2) Nothing in this regulation shall prevent the bringing of criminal or disciplinary proceedings in respect of any conduct at any time after the discontinuance of the investigation in accordance with the provisions of these Regulations which relate to that conduct.
+
+(3) The restrictions imposed by this regulation in relation to the bringing of criminal proceedings shall not apply to the bringing of criminal proceedings by the Director of Public Prosecutions in any case in which it appears to him that there are exceptional circumstances which make it undesirable to delay the bringing of such proceedings.
+
+### 56. Accelerated procedure in special cases[^key-1424c7c4001e179a4b302ee07a79026b]
+
+(1) If, at any time before the completion of the investigation, the person investigating a complaint or recordable conduct matter or, in the case of an investigation by a designated person under regulation 44 the IOPC DG,[^key-121e3888fea5de6d02d034cd0507f03a] believes that the appropriate authority would, on consideration of the matter, be likely to consider that the special conditions are satisfied, the person investigating[^key-fadc6d6ab3f700076010b2c2c40f7e4e] shall proceed in accordance with the following provisions of this paragraph.
+
+(2) If the person was appointed under regulation 41, the person shall submit to the appropriate authority—
+
+- (a) a statement of that person’s belief and the grounds for it; and
+- (b) a written report on the investigation to that point,
+
+and if the person was appointed following a determination made by the IOPC DG under regulation 38 he shall send a copy of the statement and the report to the IOPC DG.
+
+(3) If the person was appointed under regulation 42 or 43 or designated under regulation 44, the person shall submit to the appropriate authority—
+
+- (a) a statement of the belief referred to in paragraph (1)[^key-124150caaedb2a7268a4d1229a2ac743] and the grounds for it; and
+- (b) a written report on the investigation to that point,
+
+and shall send a copy of the statement and the report to the IOPC DG.
+
+(4) A person submitting a report under this regulation shall not be prevented by any obligation of secrecy imposed by any rule of law or otherwise from including all such matters in the report as that person thinks fit.
+
+(5) A statement and report may be submitted under this regulation whether or not a previous statement and report have been submitted, but a second or subsequent statement and report may be submitted only if the person submitting them has grounds to believe that the appropriate authority will reach a different determination under regulation 57(2) or 60(2).
+
+(6) After submitting a report under this regulation, the person investigating the complaint or recordable conduct matter shall continue his investigation to such extent as that person considers appropriate.
+
+(7) The special conditions are that—
+
+- (a) there is sufficient evidence, in the form of written statements or other documents, to establish on the balance of probabilities that conduct to which the investigation relates constitutes gross misconduct; and
+- (b) it is in the public interest for the person whose conduct it is to cease to be an NCA officer without delay.
+
+(8) In regulations 57 to 62 “special report” means a report submitted under this regulation.
+
+### 57. Investigations managed or carried out by IOPC DG: action by appropriate authority[^key-e528401fe058a2ec3e582a11495ec2b3]
+
+(1) This regulation applies where—
+
+- (a) a statement and special report on an investigation carried out under the management of the IOPC DG; or
+- (b) a statement and special report on an investigation carried out by a person designated by the IOPC DG,
+
+are submitted to the appropriate authority under regulation 56(3).
+
+(2) The appropriate authority shall determine whether the special conditions are satisfied.
+
+(3) If the appropriate authority determines that the special conditions are satisfied then, unless it considers that the circumstances are such as to make it inappropriate to do so, it shall—
+
+- (a) certify the case as a special case for the purposes of procedures for the taking of disciplinary proceedings in respect of the conduct of the Director General or an NCA officer; and
+- (b) take such steps as are required by those procedures in relation to a case so certified.
+
+(4) The appropriate authority shall notify the IOPC DG of a certification under paragraph (3).
+
+(5) If the appropriate authority determines—
+
+- (a) that the special conditions are not satisfied; or
+- (b) that, although those conditions are satisfied, the circumstances are such as to make it inappropriate at present to bring disciplinary proceedings,
+
+it shall submit to the IOPC DG a memorandum under this paragraph.
+
+(6) The memorandum required to be submitted under paragraph (5) is one which—
+
+- (a) notifies the IOPC DG of its determination that those conditions are not satisfied or (as the case may be) that they are so satisfied but the circumstances are such as to make it inappropriate at present to bring disciplinary proceedings; and
+- (b) (in either case) sets out its reasons for so determining.
+
+(7) In this regulation “special conditions” has the meaning given by regulation 56(7).
+
+### 58. Investigations managed or carried out by IOPC DG: action by IOPC DG[^key-1fcd7f3f5cc8907d8444de365ad9255f]
+
+(1) On receipt of a notification under regulation 57(4), the IOPC DG shall give a notification—
+
+- (a) in the case of a complaint, to the complainant and to every person entitled to be kept properly informed in relation to the complaint under regulation 14; and
+- (b) in the case of a recordable conduct matter, to every person entitled to be kept properly informed in relation to that matter under that regulation.
+
+(2) The notification required by paragraph (1) is one setting out—
+
+- (a) the findings of the special report;
+- (b) the appropriate authority’s determination under regulation 57(2); and
+- (c) the action that the appropriate authority is required to take as a consequence of that determination.
+
+(3) Regulation 16 (exceptions to the duty to keep the complainant informed and to provide information for other persons) shall have effect in relation to the duties imposed on the IOPC DG by paragraph (1) as they have effect in relation to the duties imposed on the IOPC DG by that regulation.
+
+(4) Except so far as may be otherwise prohibited by regulation 16, the IOPC DG shall be entitled (notwithstanding any obligation of secrecy imposed by any rule of law or otherwise) to discharge the duty to give a person mentioned in paragraph (1) notification of the findings of the special report by sending that person a copy of that report.
+
+**59.**[^key-d940ecc637f5860bb4505e4c0c9235aa] (1) On receipt of a memorandum under regulation 57(5), the IOPC DG shall—
+
+- (a) consider the memorandum;
+- (b) determine, in the light of that consideration, whether or not to make a recommendation under regulation 62; and
+- (c) if the IOPC DG thinks fit to do so, make a recommendation under that regulation.
+
+(2) If the IOPC DG determines not to make a recommendation under regulation 62, the IOPC DG shall notify the appropriate authority and the person investigating the complaint or matter of the IOPC DG’s determination.
+
+### 60. Other investigations: action by appropriate authority[^key-40d1b27e21eda38e2ebf17dbefe9fa93]
+
+(1) This paragraph applies where—
+
+- (a) a statement and a special report on an investigation carried out by an appropriate authority on its own behalf; or
+- (b) a statement and a special report on an investigation carried out under the supervision of the IOPC DG,
+
+are submitted to the appropriate authority under regulation 56(2) or (3).
+
+(2) The appropriate authority shall determine whether the special conditions are satisfied.
+
+(3) If the appropriate authority determines that the special conditions are satisfied then, unless it considers that the circumstances are such as to make it inappropriate to do so, it shall—
+
+- (a) certify the case as a special case for the purposes of procedures for the taking of disciplinary proceedings in respect of the conduct of the Director General or an NCA officer; and
+- (b) take such steps as are required by those procedures in relation to a case so certified.
+
+(4) Where the statement and report were required under regulation 56(2) to be copied to the IOPC DG, the appropriate authority shall notify the IOPC DG of a certification under paragraph (3).
+
+(5) If the appropriate authority determines—
+
+- (a) that the special conditions are not satisfied; or
+- (b) that, although those conditions are satisfied, the circumstances are such as to make it inappropriate at present to bring disciplinary proceedings,
+
+it shall notify the person investigating the complaint or matter of its determination.
+
+(6) In this regulation “special conditions” has the meaning given by regulation 56(7).
+
+**61.**[^key-2da03f2aad3dc0daa78db507be8dc4f6] (1) If the appropriate authority certifies a case under regulation 60(3), it shall give a notification—
+
+- (a) in the case of a complaint, to the complainant and to every person entitled to be kept properly informed in relation to the complaint under regulation 14; and
+- (b) in the case of a recordable conduct matter, to every person entitled to be kept properly informed in relation to that matter under that regulation.
+
+(2) The notification required by paragraph (1) is one setting out—
+
+- (a) the findings of the report;
+- (b) the authority’s determination under regulation 60(2); and
+- (c) the action that the authority is required to take in consequence of that determination.
+
+(3) Regulation 16 (exceptions to the duty to keep the complainant informed and to provide information for other persons) shall have effect in relation to the duties imposed on the appropriate authority by paragraph (1) as they have effect in relation to the duties imposed on the appropriate authority by that regulation.
+
+(4) Except so far as may be otherwise prohibited by regulation 16, the appropriate authority shall be entitled (notwithstanding any obligation of secrecy imposed by any rule of law or otherwise) to discharge the duty to give a person mentioned in paragraph (1) notification of the findings of the special report by sending that person a copy of that report.
+
+### 62. Special cases: recommendation or direction of IOPC DG[^key-4aa466bdb3ca67a2000a8cff5cd1a69c]
+
+(1) Where the appropriate authority has submitted, or is required to submit, a memorandum to the IOPC DG under regulation 57(5), the IOPC DG may make a recommendation to the appropriate authority that it should certify the case under regulation 57(3).
+
+(2) If the IOPC DG determines to make a recommendation under this regulation, the IOPC DG shall give a notification—
+
+- (a) in the case of a complaint, to the complainant and to every person entitled to be kept properly informed in relation to the complaint under regulation 14; and
+- (b) in the case of a recordable conduct matter, to every person entitled to be kept properly informed in relation to that matter under that regulation.
+
+(3) The notification required by paragraph (2) is one setting out—
+
+- (a) the findings of the special report; and
+- (b) the IOPC DG’s recommendation under this regulation.
+
+(4) Regulation 16 (exceptions to the duty to keep the complainant informed and to provide information for other persons) shall have effect in relation to the duties imposed on the IOPC DG by paragraph (2) as they have effect in relation to the duties imposed on the IOPC DG by that regulation.
+
+(5) Except so far as may be otherwise prohibited by regulation 16, the IOPC DG shall be entitled (notwithstanding any obligation of secrecy imposed by any rule of law or otherwise) to discharge the duty to give a person mentioned in paragraph (2) notification of the findings of the special report by sending that person a copy of the report.
+
+(6) It shall be the duty of the appropriate authority to notify the IOPC DG whether it accepts the recommendation and (if it does) to certify the case and proceed accordingly.
+
+(7) If, after the IOPC DG has made a recommendation under this regulation, the appropriate authority does not certify the case under regulation 57(3)—
+
+- (a) the IOPC DG may direct the appropriate authority so to certify it; and
+- (b) it shall be the duty of the appropriate authority to comply with any such direction and proceed accordingly.
+
+(8) Where the IOPC DG gives the appropriate authority a direction under this regulation, the IOPC DG shall supply the appropriate authority with a statement of the IOPC DG’s reasons for doing so.
+
+(9) The IOPC DG may at any time withdraw a direction given under this regulation.
+
+(10) The appropriate authority shall keep the IOPC DG informed of whatever action it takes in response to a recommendation or direction.
+
+**63.**[^key-4ef76efce8feb1e5a911dc855706ebf5] (1) Where—
+
+- (a) the IOPC DG makes a recommendation under regulation 62 in the case of an investigation of a complaint; and
+- (b) the appropriate authority notifies the IOPC DG that the recommendation has been accepted,
+
+the IOPC DG shall notify the complainant and every person entitled to be kept properly informed in relation to the complaint under regulation 14 of that fact and of the steps that have been, or are to be, taken by the appropriate authority to give effect to it.
+
+(2) Where in the case of an investigation of a complaint the appropriate authority—
+
+- (a) notifies the IOPC DG that it does not accept the recommendation made by the IOPC DG under regulation 62; or
+- (b) fails to certify the case under 57(3) and to proceed accordingly,
+
+it shall be the duty of the IOPC DG to determine what (if any) further steps to take under regulation 62.
+
+(3) It shall be the duty of the IOPC DG to notify the complainant and every person entitled to be kept properly informed in relation to the complaint under regulation 14—
+
+- (a) of any determination under paragraph (2) not to take further steps under regulation 62; and
+- (b) where the IOPC DG determines under that paragraph to take further steps under that paragraph, of the outcome of the taking of those steps.
+
+### 64. Power to discontinue an investigation[^key-7cf62baf8fb10664e5534274ef93b6e9]
+
+(1) The IOPC DG may by order require the discontinuance of the investigation of a complaint or matter if (whether on the application of the appropriate authority or otherwise) it appears to the IOPC DG that—
+
+- (a) the complaint or matter is of a description specified in paragraph (9); and
+- (b) discontinuance of the investigation is within the IOPC DG’s power.
+
+(2) The appropriate authority that is investigating a complaint or matter may discontinue the investigation if it appears to that authority that—
+
+- (a) the complaint or matter is of a description specified in paragraph (9); and
+- (b) discontinuance of the investigation is not within the IOPC DG’s power.
+
+(3) Before discontinuing an investigation or applying to the IOPC DG for an order requiring the discontinuance of an investigation, an appropriate authority shall—
+
+- (a) write to the complainant at his last known address—
+  - (i) inviting the complainant to make representations in relation to the matter; and
+  - (ii) allowing the complainant a period of 28 days, commencing on the day after the date of the letter, to do so; and
+- (b) have regard to any representations made by the complainant.
+
+(4) Any application by an appropriate authority to the IOPC DG for an order that it discontinue an investigation shall be in writing and shall be accompanied by—
+
+- (a) a copy of the complaint; and
+- (b) a memorandum from the appropriate authority containing a summary of the investigation undertaken so far and explaining the reasons for the application to discontinue the investigation.
+
+(5) The appropriate authority shall—
+
+- (a) send the complainant a copy of any such application on the same day as the day on which the application is sent to the IOPC DG; and
+- (b) supply any further information requested by the IOPC DG for the purpose of considering that application.
+
+(6) The IOPC DG shall not require the discontinuance of an investigation in a case where there has been no application to do so by the appropriate authority unless the IOPC DG has consulted with that authority.
+
+(7) Before requiring the discontinuance of an investigation under paragraph (1) in a case where there has been no application to do so by the appropriate authority, or discontinuing an investigation [^key-ed95203a0c93d6f05ed91bc6265f75e2]... under paragraph (12), the IOPC DG shall—
+
+- (a) write to the complainant at the complainant’s last known address—
+  - (i) inviting the complainant to make representations in relation to the matter; and
+  - (ii) allowing the complainant a period of 28 days, commencing on the day after the date of the letter, to do so; and
+- (b) have regard to any representations made by the complainant.
+
+(8) For the purposes of this paragraph—
+
+- (a) discontinuance of the investigation of a complaint is within the IOPC DG’s power if—
+  - (i) the investigation is being undertaken by the appropriate authority on its own behalf and the complaint is one required to be referred to the IOPC DG under regulation 22; or
+  - (ii) the investigation is under the supervision or management of the IOPC DG;
+- (b) discontinuance of the investigation of a matter other than a complaint is within the IOPC DG’s power if the investigation is under the supervision or management of the IOPC DG.
+
+(9) For the purposes of paragraphs (1) and (2), a specified complaint or matter is one—
+
+- (a) in which the complainant refuses to co-operate to the extent that the relevant body considers that it is not reasonably practicable to continue the investigation;
+- (b) which the appropriate authority has determined is suitable for local resolution;
+- (c) which the relevant body considers is vexatious, oppressive or otherwise an abuse of the procedures for dealing with complaints, conduct matters or DSI matters;
+- (d) which is repetitious, as defined in regulation 20(3) or 30; or
+- (e) which the relevant body otherwise considers is such as to make it not reasonably practicable to proceed with the investigation.
+
+(10) For the purposes of paragraph (9) “relevant body” means—
+
+- (a) the IOPC DG, in a case where discontinuance is within the IOPC DG’s power in accordance with paragraph (8); and
+- (b) the appropriate authority, in any other case.
+
+(11) The IOPC DG shall not discontinue any investigation that is being carried out in accordance with regulation 44 except in any cases where the complaint, conduct matter or DSI matter under investigation falls within paragraph (9).
+
+(12) Where the IOPC DG makes an order under this regulation or discontinues an investigation being carried out in accordance with regulation 44, the IOPC DG shall give notification of the discontinuance—
+
+- (a) to the appropriate authority;
+- (b) to every person entitled to be kept properly informed in relation to the subject matter of the investigation under regulation 14; and
+- (c) in a case where the investigation that is discontinued is an investigation of a complaint, to the complainant.
+
+(13) Where the appropriate authority discontinues an investigation under paragraph (2), the appropriate authority shall give notification of the discontinuance—
+
+- (a) to every person entitled to be kept properly informed in relation to the investigation under regulation 14; and
+- (b) in a case where the investigation that is discontinued is an investigation of a complaint, to the complainant.
+
+(14) Where an investigation of a complaint, recordable conduct matter or DSI matter is discontinued in accordance with an order under paragraph (1)—
+
+- (a) the IOPC DG may give the appropriate authority directions in accordance with paragraph (15);
+- (b) the IOPC DG may [^key-93593db9030bdd6100cabed3ad7c8584]... take any such steps of a description specified in paragraph (18) (with the exception of the step in paragraph (18)(c)) as the IOPC DG considers appropriate for purposes connected with the discontinuance of the investigation; and
+- (c) subject to the preceding paragraphs, neither the appropriate authority nor the IOPC DG shall take any further action in accordance with the provisions of these Regulations in relation to that complaint or matter.
+
+(15) A direction given to an appropriate authority by the IOPC DG under paragraph (14)(a) may—
+
+- (a) require the appropriate authority to produce an investigation report on the discontinued investigation under regulation 66 and to take any subsequent steps under these Regulations;
+- (b) where the investigation concerned a complaint, require the appropriate authority to disapply the requirements of these Regulations as respects that complaint;
+- (c) in a case within paragraph (9)(b), require the appropriate authority to subject the complaint to local resolution;
+- (d) direct the appropriate authority to handle the matter in whatever manner (if any) that authority thinks fit.
+
+(16) The appropriate authority shall comply with any directions given to it under paragraph (15).
+
+(17) Where an investigation of a complaint, recordable conduct matter or DSI matter is discontinued in accordance with paragraph (2)—
+
+- (a) the appropriate authority may take any such steps of a description specified in paragraph (18) it considers appropriate for purposes connected with the discontinuance of the investigation; and
+- (b) subject to the preceding paragraphs, neither the appropriate authority nor the IOPC DG shall take any further action in accordance with the provisions of these Regulations in relation to that complaint or matter.
+
+(18) For the purposes of paragraphs (14)(b) and (17)(a), the steps are—
+
+- (a) to produce an investigation report on the discontinued investigation and take any subsequent steps under these Regulations;
+- (b) where the investigation concerned a complaint, to disapply the requirements of these Regulations as respects that complaint;
+- (c) to subject the complaint to local resolution;
+- (d) to handle the matter in whatever manner the appropriate authority or (as the case may be) the IOPC DG thinks fit.
+
+(19) The complainant shall have a right of appeal to the relevant appeal body against any decision by the appropriate authority under paragraph (2) to discontinue the investigation of the complaint.
+
+(20) On an appeal under this regulation, subject to paragraphs (21) and (22), the relevant appeal body shall—
+
+- (a) determine whether any decision taken by the appropriate authority under this regulation should have been taken in the case in question; and
+- (b) if the relevant appeal body finds in the complainant’s favour, give such directions as the relevant appeal body thinks appropriate to the Permanent Secretary to the Home Office and the Director General as to the action to be taken for investigating the complaint;
+
+and it shall be the duty of the Permanent Secretary to the Home Office and the Director General to comply with any directions given under paragraph (b).
+
+(21) Paragraph (20) does not apply in a case where the Director General is—
+
+- (a) the person in respect of whose decision an appeal is made under this regulation, and
+- (b) the relevant appeal body in relation to the appeal.
+
+(22) In such a case—
+
+- (a) the appeal shall determine whether any decision taken by the appropriate authority under this paragraph should have been taken in the case in question; and
+- (b) if the appeal finds in the complainant’s favour, the Director General must take such action as the Director General thinks appropriate for investigating the complaint.
+
+### 65. Procedure where conduct matter is revealed during investigation of DSI matter[^key-a69ae2ecb9656ab322ffe6ba60afe7a8]
+
+(1) If during the course of an investigation of a DSI matter it appears to a person appointed under regulation 43 [^key-f3ac9d2c6fdca6e8c674a563220a47eb]... that there is an indication that the Director General or an NCA officer (“the person whose conduct is in question”) may have—
+
+- (a) committed a criminal offence; or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
+
+the appointed or designated person shall make a submission to that effect to the IOPC DG.
+
+(2) If, after considering a submission under paragraph (1), the IOPC DG determines that there is such an indication, the IOPC DG shall—
+
+- (a) notify the appropriate authority in relation to the DSI matter and (if different) the appropriate authority in relation to the person whose conduct is in question of the IOPC DG’s determination; and
+- (b) send to it (or each of them) a copy of the submission under paragraph (1).
+
+(2A)[^key-e933f9f6d896722dc7feb11445a57aa2] If during the course of an investigation of a DSI matter being carried out by a person designated under regulation 44 the IOPC DG determines that there is an indication that the Director General or an NCA officer (“the person whose conduct is in question”) may have—
+
+- (a) committed a criminal offence; or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
+
+the IOPC DG shall proceed under paragraph (2B).
+
+(2B) The IOPC DG shall—
+
+- (a) prepare a record of the determination;
+- (b) notify the appropriate authority in relation to the DSI matter and (if different) the appropriate authority in relation to the person whose conduct is in question of the determination; and
+- (c) send to it (or each of them) a copy of the record of the determination prepared under paragraph (a).
+
+(3) If during the course of an investigation of a DSI matter it appears to a person appointed under regulation 41 or 42 that there is an indication that the Director General or an NCA officer (“the person whose conduct is in question”) may have—
+
+- (a) committed a criminal offence; or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
+
+the appointed person shall make a submission to that effect to the appropriate authority in relation to the DSI matter.
+
+(4) If, after considering a submission under paragraph (3), the appropriate authority determines that there is such an indication, it shall—
+
+- (a) if it is not the appropriate authority in relation to the person whose conduct is in question, notify that other authority of its determination and send to that authority a copy of the submission under paragraph (3); and
+- (b) notify the IOPC DG of its determination and send to the IOPC DG a copy of the submission under paragraph (3).
+
+(5) Where the appropriate authority in relation to the person whose conduct is in question—
+
+- (a) is notified of a determination by the IOPC DG under paragraph (2) or (2B)[^key-4edf8d40ee75aeb9b0ffed92a7b2c6c9];
+- (b) (in a case where it is also the appropriate authority in relation to the DSI matter) makes a determination under paragraph (4); or
+- (c) (in a case where it is not the appropriate authority in relation to the DSI matter) is notified by that other authority of a determination by it under paragraph (4),
+
+it shall record the matter under regulation 29 as a conduct matter.
+
+(6) Where a DSI matter is recorded under regulation 29 as a conduct matter by virtue of paragraph (5)—
+
+- (a) the person investigating the DSI matter shall (subject to any determination made by the IOPC DG under regulation 38(5)) continue the investigation as if appointed or designated to investigate the conduct matter; and
+- (b) the other provisions of these Regulations shall apply in relation to that matter accordingly.
+
+## PART 7 — Reports and Recommendations
+
+### 66. Final reports on investigations: complaints, conduct matters and certain DSI matters[^key-320ace8ebe99d1e9ab54397269e09462]
+
+(1) This regulation applies on the completion of an investigation of—
+
+- (a) a complaint; or
+- (b) a conduct matter.
+
+(2) A person appointed under regulation 41 (investigations by the appropriate authority on its own behalf) shall submit a report on that person’s investigation to the appropriate authority.
+
+(3) A person appointed under regulation 42 (investigations supervised by the IOPC DG) or 43 (investigations managed by the IOPC DG) shall—
+
+- (a) submit a report on that investigation to the IOPC DG; and
+- (b) send a copy of that report to the appropriate authority.
+
+(4) In relation to a matter that was formerly a DSI matter but has been recorded as a conduct matter in pursuance of regulation 65(5), the references in paragraphs (2) and (3) of this regulation to the appropriate authority are references to—
+
+- (a) the appropriate authority in relation to the DSI matter; and
+- (b) (where different) the appropriate authority in relation to the person whose conduct is in question.
+
+(5) A person designated under regulation 44 (investigations by the IOPC DG [^key-a4541adc375617ca47080286a57ea40a]...) as the person in charge of an investigation shall—[^key-76305dab3677e7f81dd9771821878978]
+
+- (a) submit a report to the IOPC DG; or
+- (b) where the person in charge of the investigation is the IOPC DG acting personally, complete a report on the investigation.
+
+(6) A person submitting or, in the case of an investigation under regulation 44 by the IOPC DG personally, completing[^key-b3c40b6be971af9ee7dffc52a8a88a9d] a report under this regulation shall not be prevented by any obligation of secrecy imposed by any rule of law or otherwise from including all such matters in that person’s report as that person thinks fit.
+
+(7) For the purposes of a report on an investigation under regulation 50(1)(a) or (b) (special procedure cases), on completion of the investigation the report shall—
+
+- (a) provide an accurate summary of the evidence;
+- (b) attach or refer to any relevant documents; and
+- (c) indicate the investigator’s opinion as to whether there is a case to answer in respect of misconduct or gross misconduct or whether there is no case to answer.
+
+(8) A person who has submitted or, in the case of an investigation under regulation 44 by the IOPC DG personally, completed[^key-9f0634a474e45ae88c14065edc6aacf5] a report under this regulation on an investigation within regulation 51(1)(a) or (b) must supply the appropriate authority with such copies of further documents or other items in that person’s possession as the authority may request.
+
+(9) The appropriate authority may only make a request in respect of a copy of a document or other item if the authority—
+
+- (a) considers that the document or item is of relevance to the investigation, and
+- (b) requires a copy of the document or the item for either or both of the purposes mentioned in paragraph (10).
+
+(10) Those purposes are—
+
+- (a) complying with any obligation which the authority has in respect of any disciplinary proceedings in relation to any person to whose conduct the investigation related;
+- (b) ensuring that any such person receives a fair hearing at any disciplinary proceedings in respect of any such conduct of that person.
+
+### 67. Action by the IOPC DG in response to an investigation report under regulation 66[^key-8dd506b1616693e8642991147abbb2eb]
+
+(1) This regulation applies where—
+
+- (a) a report on an investigation carried out under the management of the IOPC DG is submitted to the IOPC DG under paragraph (3) of regulation 66 (final reports on investigations: complaints, conduct matters and certain DSI matters); or
+- (b) a report on an investigation carried out by a person designated by the IOPC DG is submitted to it or is otherwise completed[^key-13d42063ddf47fb551e0fbdbedcd5f07] under paragraph (5) of that regulation.
+
+(2) On receipt of the report or on its completion by the IOPC DG[^key-066bd58a99c17f1990c141da81e3130d], the IOPC DG—
+
+- (a) if it appears that the appropriate authority has not already been sent a copy of the report, shall send a copy of the report to that authority;
+- (b) shall determine whether the conditions set out in paragraphs (3) and (4) are satisfied in respect of the report;
+- (c) if the IOPC DG determines that those conditions are so satisfied, shall notify the Director of Public Prosecutions of the determination and send that person a copy of the report; and
+- (d) shall notify the appropriate authority and the persons mentioned in paragraph (7) of the IOPC DG’s determination under paragraph (b) and of any action taken by the IOPC DG under paragraph (c).
+
+(3) The first condition is that the report indicates that a criminal offence may have been committed by a person to whose conduct the investigation related.
+
+(4) The second condition is that the circumstances are such that, in the opinion of the IOPC DG, it is appropriate for the matters dealt with in the report to be considered by the Director of Public Prosecutions.
+
+(5) The Director of Public Prosecutions shall notify the IOPC DG of any decision of the Director to take, or not to take, action in respect of the matters dealt with in any report a copy of which has been sent to the Director under paragraph (2)(c).
+
+(6) It shall be the duty of the IOPC DG to notify the persons mentioned in paragraph (7) if criminal proceedings are brought against any person by the Director of Public Prosecutions in respect of any matters dealt with in a report copied to the Director under paragraph (2)(c).
+
+(7) The persons are—
+
+- (a) in the case of a complaint, the complainant and every person entitled to be kept properly informed in relation to the complaint under regulation 14 (duty to provide information for other persons); and
+- (b) in the case of a recordable conduct matter, every person entitled to be kept properly informed in relation to that matter under that regulation.
+
+(8) On receipt of the report, the IOPC DG shall also notify the appropriate authority that it must determine—
+
+- (a) whether any person to whose conduct the investigation related has a case to answer in respect of misconduct or gross misconduct or has no case to answer;
+- (b) whether or not any such person’s performance is unsatisfactory;
+- (c) what action (if any) the authority is required to, or will in its discretion, take in respect of the matters dealt with in the report; and
+- (d) what other action (if any) the authority will in its discretion take in respect of those matters.
+
+(9) On receipt of a notification under paragraph (8) the appropriate authority shall make those determinations and submit a memorandum to the IOPC DG which—
+
+- (a) sets out the determinations the authority has made; and
+- (b) if the appropriate authority has decided in relation to any person whose conduct is the subject-matter of the report that disciplinary proceedings or unsatisfactory performance proceedings should not be brought against that person, sets out its reasons for so deciding.
+
+(10) On receipt of a memorandum under paragraph (9), the IOPC DG shall—
+
+- (a) consider the memorandum and whether the appropriate authority has made the determinations under paragraph (9)(a) that the IOPC DG considers appropriate in respect of the matters dealt with in the report;
+- (b) determine, in the light of the IOPC DG’s consideration of those matters, whether or not to make recommendations under regulation 73 (duties with respect to disciplinary proceedings); and
+- (c) make such recommendations (if any) under that regulation as the IOPC DG thinks fit.
+
+(11) On the making of a determination under paragraph (10)(b) the IOPC DG shall give a notification—
+
+- (a) in the case of a complaint, to the complainant and to every person entitled to be kept properly informed in relation to the complaint under regulation 13 (duty to keep the complainant informed); and
+- (b) in the case of a recordable conduct matter, to every person entitled to be kept properly informed in relation to that matter under regulation 14 (duty to provide information for other persons).
+
+(12) The notification required by paragraph (11) is one setting out—
+
+- (a) the findings of the report;
+- (b) the IOPC DG’s determination under paragraph (10)(b); and
+- (c) the action which the appropriate authority is to be recommended to take as a consequence of the determination.
+
+(13) Regulation 16 (exceptions to the duty to keep the complainant informed and to provide information for other persons) shall have effect in relation to the duties imposed on the IOPC DG by paragraph (11) of this regulation as they have effect in relation to the duties imposed on the IOPC DG by regulations 13 and 14.
+
+(14) Subject to regulation 16, the IOPC DG shall be entitled (notwithstanding any obligation of secrecy imposed by any rule of law or otherwise) to discharge the duty to give a person mentioned in paragraph (11) notification of the findings of the report by sending that person a copy of the report.
+
+(15) In relation to a DSI matter in respect of which a determination has been made under regulation 65(2) , (2A)[^key-bd94338f18bca0cbfbe8e7846b12de25] or (4) (procedure where conduct matter is revealed during investigation of DSI matter), the references in this regulation to the appropriate authority are references to the appropriate authority in relation to the person whose conduct is in question.
+
+### 68. Action by the appropriate authority in response to an investigation report under regulation 66[^key-cec3ba90727406869257cdd24ec4752b]
+
+(1) This regulation applies where—
+
+- (a) a report of an investigation is submitted to the appropriate authority in accordance with regulation 66(2) (final reports on investigations: complaints, conduct matters and certain DSI matters); or
+- (b) a copy of a report of an investigation carried out under the supervision of the IOPC DG is sent to the appropriate authority in accordance with regulation 66(3).
+
+(2) On receipt of the report or (as the case may be) the copy, the appropriate authority—
+
+- (a) shall determine whether the conditions set out in paragraphs (3) and (4) are satisfied in respect of the report;
+- (b) if it determines that those conditions are so satisfied, shall notify the Director of Public Prosecutions of the determination and send the Director a copy of the report; and
+- (c) shall notify the persons mentioned in paragraph (7) of its determination under paragraph (a) and of any action taken by it under paragraph (b).
+
+(3) The first condition is that the report indicates that a criminal offence may have been committed by a person to whose conduct the investigation related.
+
+(4) The second condition is that the circumstances are such that, in the opinion of the appropriate authority, it is appropriate for the matters dealt with in the report to be considered by the Director of Public Prosecutions.
+
+(5) The Director of Public Prosecutions shall notify the appropriate authority of any decision of the Director to take, or not to take, action in respect of the matters dealt with in any report a copy of which has been sent to the Director under paragraph (2)(b).
+
+(6) It shall be the duty of the appropriate authority to notify the persons mentioned in paragraph (7) if criminal proceedings are brought against any person by the Director of Public Prosecutions in respect of any matters dealt with in a report copied to the Director under paragraph (2)(b).
+
+(7) The persons are—
+
+- (a) in the case of a complaint, the complainant and every person entitled to be kept properly informed in relation to the complaint under regulation 14 (duty to provide information for other persons); and
+- (b) in the case of a recordable conduct matter, every person entitled to be kept properly informed in relation to that matter under that regulation.
+
+(8) In the case of a report falling within paragraph (1)(b) which relates to a recordable conduct matter, the appropriate authority shall also notify the IOPC DG of its determination under paragraph (2)(a).
+
+(9) On receipt of such a notification that the appropriate authority has determined that the conditions in paragraph (3) and (4) are not satisfied in respect of the report, the IOPC DG—
+
+- (a) shall make the IOPC DG’s own determination as to whether those conditions are so satisfied; and
+- (b) if it determines that they are so satisfied, shall direct the appropriate authority to notify the Director of Public Prosecutions of the IOPC DG’s determination and to send the Director a copy of the report.
+
+(10) It shall be the duty of the appropriate authority to comply with any direction given to it under paragraph (9).
+
+(11) On receipt of the report or (as the case may be) of the copy, the appropriate authority shall note the contents of the report and determine—
+
+- (a) whether any person to whose conduct the investigation related has a case to answer in respect of their conduct or has no case to answer;
+- (b) whether or not any such person’s performance is unsatisfactory;
+- (c) what action (if any) the authority is required to, or will in its discretion, take in respect of the matters dealt with in the report; and
+- (d) what other action (if any) the authority will in its discretion take in respect of those matters.
+
+(12) On the making of the determinations under paragraph (11) the appropriate authority shall give a notification—
+
+- (a) in the case of a complaint, to the complainant and to every person entitled to be kept properly informed in relation to the complaint under regulation 13 (duty to keep complainant informed); and
+- (b) in the case of a recordable conduct matter, to every person entitled to be kept properly informed in relation to that matter under regulation 14 (duty to provide information for other persons).
+
+(13) The notification required by paragraph (12) is one setting out—
+
+- (a) the findings of the report;
+- (b) the determinations the authority has made under paragraph (11);
+- (c) the complainant’s right of appeal under regulation 71 (appeals with respect to an investigation).
+
+(14) Regulation 16 (exceptions to the duty to keep the complainant informed and to provide information for other persons) shall have effect in relation to the duties imposed on the appropriate authority by paragraph (12) of this regulation as it has effect in relation to the duties imposed on the appropriate authority by regulations 13 and 14.
+
+(15) Subject to regulation 16, the appropriate authority shall be entitled (notwithstanding any obligation of secrecy imposed by any rule of law or otherwise) to discharge the duty to give a person mentioned in paragraph (12) notification of the findings of the report by sending that person a copy of the report.
+
+(16) In relation to a DSI matter in respect of which a determination has been made under regulation 65(2) or (4) (procedure where conduct matter is revealed during investigation of DSI matter), the references in this regulation to the appropriate authority are references to the appropriate authority in relation to the person whose conduct is in question.
+
+### 69. Final reports on investigations: other DSI matters[^key-0c34959885c7b10f4b911fa46f90a503]
+
+(1) This regulation applies on the completion of an investigation of a DSI matter in respect of which neither the IOPC DG nor the appropriate authority has made a determination under regulation 65(2) , (2A)[^key-29e85df0364708fcbbfce9e97ec00e2a] or (4) (procedure where a conduct matter is revealed during investigation of a DSI matter).
+
+(2) The person investigating shall—
+
+- (a) submit a report on the investigation to the IOPC DG; and
+- (b) send a copy of that report to the appropriate authority.
+
+(2A)[^key-0655dc2a096fd6ff28369369edd1e4ef] Paragraph (2)(a) does not apply where the person investigating is the IOPC DG carrying out an investigation personally under regulation 44, but the IOPC DG shall complete a report on the investigation.
+
+(3) A person submitting a report under paragraph (2) or completing one under paragraph (2A)[^key-73994e9df478219b19477bd65e83c71c] shall not be prevented by any obligation of secrecy imposed by any rule of law or otherwise from including all such matters in his report as that person thinks fit.
+
+(4) On receipt of the report (or on its completion by the IOPC DG)[^key-83ea7f8404256ea8cf0e233bd45aed06], the IOPC DG shall determine whether the report indicates that the Director General or an NCA officer may have—
+
+- (a) committed a criminal offence; or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings.
+
+### 70. Action by the IOPC DG in response to an investigation report under regulation 69[^key-51cf3161db9f1c9a56a0e66f9cf905cf]
+
+(1) If the IOPC DG determines under regulation 69(4) that the report indicates that the Director General or an NCA officer may have—
+
+- (a) committed a criminal offence; or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
+
+it shall notify the appropriate authority in relation to the person whose conduct is in question of the IOPC DG’s determination and, if it appears that the authority has not already been sent a copy of the report, send a copy of the report to that authority.
+
+(2) Where the appropriate authority in relation to the person whose conduct is in question is notified of a determination by the IOPC DG under paragraph (1), it shall record the matter under regulation 29 (recording etc. of conduct matters in other cases) as a conduct matter.
+
+(3) Where a DSI matter is recorded under regulation 29 as a conduct matter by virtue of paragraph (2)—
+
+- (a) the person investigating the DSI matter shall (subject to any determination made by the IOPC DG under regulation 38(5)) investigate the conduct matter as if appointed or designated to do so; and
+- (b) the other provisions of these Regulations shall apply in relation to that matter accordingly.
+
+(4) If the IOPC DG determines under regulation 69(4) that there is no indication in the report that the Director General or an NCA officer may have—
+
+- (a) committed a criminal offence; or
+- (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
+
+it shall make such recommendations or give such advice under regulation 6(1)(e) (general functions of the IOPC DG) as the IOPC DG considers necessary or desirable.
+
+(5) Paragraph (4) does not affect any power of the IOPC DG to make recommendations or give advice under regulation 6(1)(e) in other cases (whether arising under these Regulations or otherwise).
+
+### 71. Appeals with respect to an investigation[^key-3bc0e55c64ddcb6d27567161f57e9370]
+
+(1) This regulation applies where a complaint has been subjected to—
+
+- (a) an investigation by the appropriate authority on its own behalf; or
+- (b) an investigation under the supervision of the IOPC DG.
+
+(2) The complainant shall have the following rights of appeal to the relevant appeal body—
+
+- (a) a right to appeal on the grounds that the complainant has not been provided with adequate information—
+  - (i) about the findings of the investigation; or
+  - (ii) about any determination of the appropriate authority relating to the taking (or not taking) of action in respect of any matters dealt with in the report on the investigation;
+- (b) a right to appeal against the findings of the investigation;
+- (c) a right of appeal against any determination by the appropriate authority that a person to whose conduct the investigation related has a case to answer or that such a person’s performance is, or is not, unsatisfactory in respect of that person’s conduct or has no case to answer;
+- (d) a right of appeal against any determination by the appropriate authority relating to the taking (or not taking) of action in respect of any matters dealt with in the report; and
+- (e) a right of appeal against any determination by the appropriate authority under regulation 68(2)(a) as a result of which it is not required to send the Director of Public Prosecutions a copy of the report,
+
+and it shall be the duty of relevant appeal body to notify the appropriate authority, every person entitled to be kept properly informed in relation to the complaint under regulation 14 and the person complained against of any appeal brought under this regulation (except that the duty to notify the appropriate authority does not apply where that authority is the relevant appeal body).
+
+(3) In paragraph (2)—
+
+- (a) references to the findings of an investigation do not include a reference to findings on a report submitted under regulation 56 (accelerated procedure in special cases); and
+- (b) references to the report of an investigation do not include a reference to a report submitted under that regulation.
+
+(4) On the bringing of an appeal under this regulation, the IOPC DG may require the person investigating to submit a memorandum to the IOPC DG which—
+
+- (a) sets out whether the appropriate authority has determined that a person to whose conduct the investigation related has a case to answer in respect of misconduct or gross misconduct or has no case to answer;
+- (b) sets out whether the appropriate authority has determined any such person’s performance is, or is not, unsatisfactory;
+- (c) sets out what action (if any) the appropriate authority has determined that it is required to or will, in its discretion, take in respect of the matters dealt with in the report;
+- (d) if the appropriate authority has decided in relation to a person to whose conduct the investigation related that disciplinary proceedings or unsatisfactory performance proceedings should not be brought against that person, sets out its reasons for so deciding; and
+- (e) if the appropriate authority made a determination under regulation 68(2)(a) as a result of which it is not required to send the Director of Public Prosecutions a copy of the report, sets out the reasons for that determination,
+
+and it shall be the duty of the person investigating to comply with any requirement under this paragraph.
+
+(5) Where the IOPC DG so requires on the bringing of any appeal under this regulation in the case of an investigation by the appropriate authority on its own behalf, the appropriate authority shall provide the IOPC DG with a copy of the report of the investigation.
+
+(6) On an appeal under this regulation, the relevant appeal body shall determine such of the following as it considers appropriate in the circumstances—
+
+- (a) whether the complainant has been provided with adequate information about the matters mentioned in paragraph (2)(a);
+- (b) whether the findings of the investigation need to be reconsidered;
+- (c) whether the appropriate authority—
+  - (i) has made such a determination as is mentioned in paragraph (4)(a) or (b) that the relevant appeal body considers to be appropriate in respect of matters dealt with in the report; and
+  - (ii) has determined that it is required to or will, in its discretion, take the action (if any) that the relevant appeal body considers to be so appropriate; and
+- (d) whether the conditions set out in regulation 68(3) and (4) are satisfied in respect of the report.
+
+(7) If, on an appeal under this regulation, the relevant appeal body determines that the complainant has not been provided with adequate information about any matter—
+
+- (a) in a case where the IOPC DG is the relevant appeal body, the IOPC DG shall give the appropriate authority all such directions as the IOPC DG considers appropriate for securing that the complainant is properly informed; and
+- (b) in a case where the appropriate authority is the relevant appeal body, that authority shall take steps as it considers appropriate for securing that the complainant is properly informed.
+
+(8) Nothing in paragraph (7)(a) shall authorise the IOPC DG to require the disclosure of any information the disclosure of which to the appellant has been or is capable of being withheld by virtue of any provision in regulation 16.
+
+(9) If, on an appeal under this regulation, the IOPC DG determines that the findings of the investigation need to be reconsidered in a case where the IOPC DG is the relevant appeal body the IOPC DG shall either—
+
+- (a) review those findings without an immediate further investigation; or
+- (b) direct that the complaint be re-investigated; and
+
+in a case where the appropriate authority is the relevant appeal body, that authority shall re-investigate the complaint.
+
+(10) If, on an appeal under this regulation, the relevant appeal body determines that the appropriate authority has not made a determination as to whether there is a case for a person to whose conduct the investigation related to answer that the relevant appeal body considers appropriate, or determines that the appropriate authority has not made a determination as to whether a person’s performance is or is not unsatisfactory, or determines that the appropriate authority has not determined that it is required to or will, in its discretion, take the action in respect of the matters dealt with in the report that the relevant appeal body considers appropriate—
+
+- (a) paragraph (11) applies if the IOPC DG is the relevant appeal body; or
+- (b) paragraph (12) applies if the Director General is the relevant appeal body.
+
+(11) The IOPC DG shall—
+
+- (a) determine, in the light of that determination, whether or not to make recommendations under regulation 73 (duties with respect to disciplinary proceedings); and
+- (b) make such recommendations (if any) under that regulation as the IOPC DG thinks fit.
+
+(12) The Director General shall take such action as the Director General considers appropriate in relation to the bringing of disciplinary or unsatisfactory performance proceedings in respect of the matters dealt with in the report.
+
+(13) If proceedings are brought by virtue of paragraph (11), it shall be the duty of the appropriate authority to ensure that they are proceeded with to a proper conclusion.
+
+(14) If, on an appeal under this regulation, the relevant appeal body determines that the conditions set out in regulation 68(3) and (4) are satisfied in respect of the report, in a case where the IOPC DG is the relevant appeal body it shall direct the appropriate authority to, or in a case where the appropriate authority is the relevant appeal body it shall—
+
+- (a) notify the Director of Public Prosecutions of the determination, and
+- (b) send the Director a copy of the report.
+
+(15) The relevant appeal body shall give notification of any determination under this regulation—
+
+- (a) to the appropriate authority (unless it is the relevant appeal body);
+- (b) to the complainant;
+- (c) to every person entitled to be kept properly informed in relation to the complaint under regulation 14 (duty to provide information for other persons); and
+- (d) except in a case where it appears to the relevant appeal body that to do so might prejudice any proposed review or re-investigation of the complaint, to the person complained against.
+
+(16) In a case where the IOPC DG is the relevant appeal body, the IOPC DG shall also give notification of any directions given to a person under this regulation—
+
+- (a) to the complainant;
+- (b) to every person entitled to be kept properly informed in relation to the complaint under regulation 14 (duty to provide information for other persons); and
+- (c) except in a case where it appears to the IOPC DG that to do so might prejudice any proposed review or re-investigation of the complaint, to the person complained against.
+
+(17) It shall be the duty of the appropriate authority to comply with any directions given to it under this regulation.
+
+### 72. Reviews and re-investigations following an appeal[^key-a1ae63249bbeed57f5df7dadce199d15]
+
+(1) On a review under regulation 71(9)(a) (appeals with respect to an investigation) of the findings of an investigation the powers of the IOPC DG shall be, according to the IOPC DG’s determination on that review, to do one or more of the following—
+
+- (a) to uphold the findings in whole or in part;
+- (b) to give the appropriate authority such directions as the IOPC DG[^key-181e30cffe9b575cbdac13b54ffe045b] sees fit—
+  - (i) as to the carrying out by the appropriate authority of its own review of the findings;
+  - (ii) as to the information to be provided to the complainant; and
+  - (iii) generally as to the handling of the matter in future,
+- (c) to direct that the complaint be re-investigated.
+
+(2) Where the IOPC DG directs under regulation 71 or paragraph (1) that a complaint be re-investigated, the IOPC DG shall make a determination of the form that the re-investigation should take.
+
+(3) Paragraphs (3) to (7) of regulation 38 (power of the IOPC DG to determine the form of an investigation) shall apply in relation to a determination under paragraph (2) as they apply in the case of a determination under that regulation.
+
+(4) The other provisions of these Regulations (including this paragraph) shall apply in relation to any re-investigation in pursuance of a direction under regulation 71(9) or paragraph (1) of this regulation as they apply in relation to any investigation in pursuance of a determination under regulation 38.
+
+(5) The IOPC DG shall give notification of any determination made by the IOPC DG under this regulation—
+
+- (a) to the appropriate authority,
+- (b) to the complainant;
+- (c) to every person entitled to be kept properly informed in relation to the complaint under regulation 14 (duty to provide information for other persons); and
+- (d) except in a case where it appears to the IOPC DG that to do so might prejudice any proposed re-investigation of the complaint, to the person complained against.
+
+(6) The IOPC DG shall also give notification of any directions given to the person investigating under this regulation—
+
+- (a) to the complainant;
+- (b) to every person entitled to be kept properly informed in relation to the complaint under regulation 14 (duty to provide information for other persons); and
+- (c) except in a case where it appears to the IOPC DG that to do so might prejudice any proposed review or re-investigation of the complaint, to the person complained against.
+
+### 73. Duties with respect to disciplinary proceedings[^key-1dc88e2669e3d6443f1e0564ed2d2a6b]
+
+(1) This regulation applies where, in the case of any investigation, the appropriate authority—
+
+- (a) has given, or is required to give, a notification under regulation 68(12) (action by the appropriate authority in response to an investigation report under regulation 66) of the action it is required to or will, in its discretion, take in relation to the matters dealt with in any report of the investigation; or
+- (b) has submitted, or is required to submit, a memorandum to the IOPC DG under regulation 67 (action by the IOPC DG in response to an investigation report under regulation 66) or 71 (appeals with respect to an investigation) setting out the action that it is required to or will, in the IOPC DG’s discretion, take in relation to those matters.
+
+(2) Subject to regulation 55 (restrictions on proceedings pending the conclusion of an investigation) and to any recommendations or directions under the following provisions of this regulation, it shall be the duty of the appropriate authority—
+
+- (a) to take the action which has been or is required to be notified or, as the case may be, which is or is required to be set out in the memorandum; and
+- (b) in a case where that action consists of or includes the bringing of disciplinary proceedings, to secure that those proceedings, once brought, are proceeded with to a proper conclusion.
+
+(3) Where this regulation applies by virtue of paragraph (1)(b), the IOPC DG may make a recommendation to the appropriate authority in respect of the Director General or an NCA officer—
+
+- (a) that the person has a case to answer in respect of misconduct or gross misconduct or has no case to answer in relation to the conduct to which the investigation related;
+- (b) that the person’s performance is unsatisfactory;
+- (c) that disciplinary proceedings or unsatisfactory performance proceedings of the form specified in the recommendation are brought against that person in respect of the conduct, efficiency or effectiveness to which the investigation related;
+- (d) that any disciplinary proceedings or unsatisfactory performance proceedings brought against that person are modified so as to deal with such aspects of that conduct, efficiency or effectiveness as may be so specified,
+
+and it shall be the duty of the appropriate authority to notify the IOPC DG whether it accepts the recommendation and (if it does) to set out in the notification the steps that it is proposing to take to give effect to it.
+
+(4) If, after the IOPC DG has made a recommendation under this regulation, the appropriate authority does not take steps to secure that full effect is given to the recommendation—
+
+- (a) the IOPC DG may direct the appropriate authority to take steps for that purpose; and
+- (b) it shall be the duty of the appropriate authority to comply with the direction.
+
+(5) A direction under paragraph (4) may, to such extent as the IOPC DG thinks fit, set out the steps to be taken by the appropriate authority in order to give effect to the recommendation.
+
+(6) Where the IOPC DG gives the appropriate authority a direction under this regulation, the IOPC DG shall supply the appropriate authority with a statement of the IOPC DG’s reasons for doing so.
+
+(7) Where disciplinary proceedings or unsatisfactory performance proceedings have been brought in accordance with a recommendation or direction under this regulation, it shall be the duty of the authority to ensure that they are proceeded with to a proper conclusion.
+
+(8) The IOPC DG may at any time withdraw a direction given under this regulation, and paragraph (7) shall not impose any obligation in relation to any time after the withdrawal of the direction.
+
+(9) The appropriate authority shall keep the IOPC DG informed—
+
+- (a) in a case in which this regulation applies by virtue of paragraph (1)(b), of whatever action it takes in pursuance of its duty under paragraph (2); and
+- (b) in every case of a recommendation or direction under this regulation, of whatever action it takes in response to that recommendation or direction.
+
+### 74. Information for complainant about disciplinary recommendations[^key-55ddb5f1d1b1b9a5d4d6f1b820cb86ee]
+
+(1) Where—
+
+- (a) the IOPC DG makes recommendations under regulation 73 in the case of an investigation of a complaint; and
+- (b) the appropriate authority notify the IOPC DG that the recommendations have been accepted,
+
+the IOPC DG shall notify the complainant and every person entitled to be kept properly informed in relation to the complaint under regulation 14 of that fact and of the steps that have been, or are to be taken, by the appropriate authority to give effect to it.
+
+(2) Where in the case of an investigation of a complaint the appropriate authority—
+
+- (a) notifies the IOPC DG that it does not (either in whole or in part) accept recommendations made by the IOPC DG under regulation 73; or
+- (b) fails to take steps to give full effect to any such recommendations,
+
+it shall be the duty of the IOPC DG to determine what if any further steps to take under that paragraph.
+
+(3) It shall be the duty of the IOPC DG to notify the complainant and every person entitled to be kept properly informed in relation to the complaint under regulation 14—
+
+- (a) of any determination under paragraph (2) not to take further steps under regulation 73; and
+- (b) where the IOPC DG determines under that paragraph to take further steps under that paragraph, of the outcome of the taking of those steps.
+
+## PART 8 — General
+
+### 75. Complaints or conduct matters concerning a person who has subsequently ceased to be the Director General or an NCA officer[^key-900c8df2fcad26538df91f2518ea691a]
+
+Where a complaint or conduct matter relates to the conduct of a person who has ceased to be the Director General or an NCA officer since the time of the conduct, then these Regulations shall apply in relation to such a person as if they did not include any requirement for an appropriate authority to determine whether disciplinary proceedings should be brought against a person whose conduct is the subject-matter of a report.
+
+### 76. Complaints or conduct matters concerning a person whose identity is unascertained[^key-99df6fbd6dd7aa3765808d84143dec41]
+
+(1) Where a complaint or conduct matter relates to the conduct of a person whose identity is unascertained at the time at which the complaint is made or the conduct matter is recorded, or whose identity is not ascertained during or subsequent to, the investigation of the complaint or recordable conduct matter, then these Regulations shall apply in relation to such a person as if it did not include—
+
+- (a) any requirement for the person complained against to be given a notification or an opportunity to make representations;
+- (b) any requirement for the IOPC DG or the appropriate authority to determine whether a criminal offence may have been committed by the person whose conduct has been the subject-matter of an investigation, or to take any action in relation to such a determination;
+- (c) any requirement for an appropriate authority to determine whether disciplinary proceedings should be brought against a person whose conduct is the subject-matter of a report.
+
+(2) Where the identity of such a person is subsequently ascertained, the IOPC DG and appropriate authority shall take such action in accordance with these Regulations as they see fit, regardless of any previous action taken under these Regulations as modified above.
+
+### 77. Notification of actions and decisions[^key-1b23b25a13aa822ee973ab3d616fd7a0]
+
+(1) So far as not covered by regulations 67(11) and (12) and 71(15) and (16) (notifications by the IOPC DG in relation to recommending disciplinary proceedings), where the IOPC DG takes any action or decisions in consequence of the IOPC DG having received a memorandum under regulation 67(9) or regulation 71(4), the IOPC DG shall notify such action or decisions, together with an explanation of the IOPC DG’s reasons for having taken them, to—
+
+- (a) the appropriate authority;
+- (b) the complainant and any other interested person within the meaning of regulation 14(6);
+- (c) subject to paragraph (3), the person complained against.
+
+(2) Without prejudice to the generality of paragraph (1), the IOPC DG shall include in any notification under that paragraph a statement as to whether the IOPC DG intends to participate in any disciplinary proceedings.
+
+(3) The IOPC DG may decide not to give such a notification and explanation to the person complained against if the IOPC DG is of the opinion that that notification might prejudice any criminal investigation, pending proceedings, or review of the complaint.
+
+### 78. Keeping of records[^key-a34b59760f02cd97c4f0ed1cf0d11bd2]
+
+The appropriate authority shall keep records, in such form as the IOPC DG shall determine, of—
+
+- (a) every complaint and purported complaint that is made to it;
+- (b) every conduct matter recorded by it under regulation 28 (conduct matters arising in civil proceedings) or 29 (recording etc. of conduct matters in other cases);
+- (c) every DSI matter recorded by it under regulation 34 (duty to record DSI matters);
+- (d) every exercise of a power or performance of a duty under these Regulations.
+
+### 79. Register to be kept by the IOPC DG[^key-e9c54e226c4b6c045a395716ff4b78f1]
+
+(1) The IOPC DG shall establish and maintain a register of all information supplied to the IOPC DG by the appropriate authority under these Regulations.
+
+(2) Subject to paragraph (3), the IOPC DG may publish or otherwise disclose to any person any information held on the register provided that the publication or disclosure is necessary for or conducive to the purpose of—
+
+- (a) learning lessons from the handling of, or demonstrating the thoroughness and effectiveness of, local resolutions, investigations by the IOPC DG or managed or supervised investigations;
+- (b) raising public awareness of the complaints system; or
+- (c) improving the complaints system.
+
+(3) Information may not be published or disclosed in circumstances where in the opinion of the IOPC DG the non-disclosure of information is necessary for a purpose mentioned in regulation 16(1)(a) or (b) (exceptions to the duty to keep the complainant informed and to provide information for other persons).
+
+### 80. Delegation of powers and duties by the Director General[^key-f3a4147dc65513863d7c7678044683b6]
+
+(1) Subject to the remaining paragraphs of this regulation, the Director General may delegate all or any of the powers or duties conferred or imposed on the Director General by or under these Regulations to such an NCA officer as is mentioned in paragraph (2).
+
+(2) That officer is—
+
+- (a) a senior officer, in the case of a complaint or conduct matter concerning the conduct of a senior officer; and
+- (b) in any other case, an officer of at least Grade 2.
+
+(3) The Director General shall not, in any particular case, delegate any power or duty under paragraph (1) to a person whose involvement in the role could reasonably give rise to a concern as to whether that person could act impartially under these Regulations, whether because the person has acted as investigating officer in the case or otherwise.
+
+(4) The Director General may delegate all or any of the Director General’s powers or duties in relation to the local resolution of complaints under these Regulations to any NCA officer.
+
+### 81. Manner and time limits of notifications[^key-5c5f422cbd3975b9d064f1d1a46fe68c]
+
+(1) Any notification to be given under these Regulations shall—
+
+- (a) unless otherwise specified in these Regulations or determined in guidance issued by the IOPC DG, be given in writing;
+- (b) unless otherwise specified in these Regulations, be made within such period as the IOPC DG may determine in guidance.
+
+(2) No time limit mentioned in these Regulations or determined by the IOPC DG shall apply in any case where exceptional circumstances prevent that time limit being complied with.
+
+### 82. Appeals[^key-3e1ea744cf0c65a43f2a47def8725227]
+
+(1) This regulation applies to an appeal under any of the following provisions of these Regulations—
+
+- (a) regulation 21(3) (appeal against a failure to notify or record a complaint);
+- (b) regulation 25(15) (appeal against a decision to handle a complaint otherwise than in accordance with these Regulations or take no action in relation to it);
+- (c) regulation 27(1) (appeal against the outcome of a complaint subjected to local resolution or handled otherwise than in accordance with these Regulations);
+- (d) paragraph 64(19) (appeal against a decision to discontinue an investigation); and
+- (e) regulation 71(2) (appeal in relation to an investigation).
+
+(2) Where the Permanent Secretary to the Home Office or the Director General notifies the complainant of a decision which is or may be capable of appeal under any of the provisions in paragraph (1), the Permanent Secretary or the Director General shall at the same time notify the complainant in writing of—
+
+- (a) the existence of the right of appeal;
+- (b) the identity of the relevant appeal body or, in a case to which regulation 21(3) applies, the fact that the appeal is to the IOPC DG;
+- (c) where the appropriate authority has determined that the IOPC DG is the relevant appeal body, the sub-paragraph of regulation 83(2) relied upon in making that determination;
+- (d) where the appropriate authority has determined that the Director General is the relevant appeal body, the fact that there is no right of appeal to the IOPC DG; and
+- (e) the time limit for making an appeal mentioned in paragraph (3).
+
+(3) Subject to paragraphs (4) and (5), an appeal shall be made within a period of 28 days commencing on the day after the date of the letter giving notification under paragraph (2).
+
+(4) For the purposes of the time period mentioned in paragraph (3), the following shall be left out of account—
+
+- (a) any time elapsing between the appeal being received by the IOPC DG under regulation 83(3) and being forwarded to the appropriate authority under that paragraph;
+- (b) any time elapsing between the appeal being received by the appropriate authority under regulation 83(5) and being forwarded to the IOPC DG under that paragraph.
+
+(5) The relevant appeal body or, in a case of an appeal under regulation 21(3), the IOPC DG may extend the time period mentioned in paragraph (3) in any case where it is satisfied that by reason of the special circumstances of the case it is just to do so.
+
+(6) Subject to paragraph (7), an appeal shall be made in writing and shall state—
+
+- (a) details of the complaint;
+- (b) the date on which the complaint was made;
+- (c) the Permanent Secretary to the Home Office or the Director General whose decision is the subject of the appeal;
+- (d) the grounds for the appeal; and
+- (e) the date on which notification was given under paragraph (2).
+
+(7) Where the relevant appeal body or, in the case of an appeal under regulation 21(3), the IOPC DG receives an appeal which fails to comply with one or more of the requirements mentioned in paragraph (6), it may decide to proceed as if those requirements had been complied with.
+
+(8) Where the IOPC DG receives an appeal the IOPC DG shall—
+
+- (a) in the case of an appeal under regulation 21(3), notify the Permanent Secretary to the Home Office or the Director General concerned of the appeal as soon as reasonably practicable; and
+- (b) in that or any other case, request any information from any person which the IOPC DG considers necessary to dispose of the appeal.
+
+(9) Any person receiving a request under paragraph (8)(b) shall supply to the IOPC DG the information requested.
+
+(10) The relevant appeal body or, in the case of an appeal under regulation 21(3), the IOPC DG shall determine the outcome of the appeal as soon as practicable.
+
+(11) The relevant appeal body or, in the case of an appeal under regulation 21(3), the IOPC DG shall notify the complainant of the reasons for its determination, and the IOPC DG—
+
+- (a) in the case of an appeal under the said regulation, shall also notify the Permanent Secretary to the Home Office or the Director General; and
+- (b) in a case where the IOPC DG is the relevant appeal body, shall also notify the appropriate authority.
+
+(12) In the case of an appeal other than one under regulation 21(3)—
+
+- (a) where the IOPC DG is the relevant appeal body—
+  - (i) the IOPC DG shall notify the complainant of any direction the IOPC DG gives to the appropriate authority as to the future handling of the complaint; and
+  - (ii) subject to paragraph (13), the appropriate authority shall notify the person complained against of any such direction;
+- (b) where the Director General is the relevant appeal body, the Director General shall notify the complainant and the person complained against of the action that he proposes to take in relation to the complaint.
+
+(13) An appropriate authority may decide not to make a notification under paragraph (12)(a)(ii) if it is of the opinion that to do so might prejudice any criminal investigation or pending proceedings or would otherwise be contrary to the public interest.
+
+### 83. Relevant appeal body[^key-88b4e4660785e28a5bcdf8d5b6012e87]
+
+(1) The relevant appeal body in relation to an appeal is—
+
+- (a) the IOPC DG, in a case where the relevant complaint falls within a description of a complaint specified in paragraph (2);
+- (b) the Director General in any other case.
+
+(2) Complaints to which this paragraph applies are any complaint—
+
+- (a) about the conduct of a senior officer;
+- (b) in the case of which the appropriate authority is unable to satisfy itself, from the complaint alone, that the conduct complained of (if it were proved)—
+  - (i) would not justify the bringing of criminal or misconduct proceedings against a person serving with the police; or
+  - (ii) would not involve the infringement of a person’s rights under Article 2 or 3 of the Convention (within the meaning of the Human Rights Act 1998[^f00013]);
+- (c) that has been, or must be, referred to the IOPC DG under regulation 22;
+- (d) arising from the same incident as a complaint to which sub-paragraph (a), (b) or (c) applies;
+- (e) to any part of which sub-paragraph (a), (b), (c) or (d) applies.
+
+(3) Where an appeal is made to the IOPC DG and the appropriate authority is the relevant appeal body in relation to the appeal, the IOPC DG must—
+
+- (a) forward the appeal to the appropriate authority; and
+- (b) notify the person who made the appeal that—
+  - (i) the appropriate authority is the relevant appeal body; and
+  - (ii) the appeal has been forwarded.
+
+(4) In an appeal to which paragraph (3) applies, the appeal is taken to have been—
+
+- (a) made to the appropriate authority; and
+- (b) so made at the time when it is forwarded to the appropriate authority.
+
+(5) Where an appeal is made to the appropriate authority and the IOPC DG is the relevant appeal body in relation to the appeal, the appropriate authority must—
+
+- (a) forward the appeal to the IOPC DG; and
+- (b) notify the person who made the appeal that—
+  - (i) the IOPC DG is the relevant appeal body; and
+  - (ii) the appeal has been forwarded.
+
+(6) In an appeal to which paragraph (5) applies, the appeal is taken to have been—
+
+- (a) made to the IOPC DG; and
+- (b) so made at the time when it is forwarded to the IOPC DG.
+
+(7) In this regulation—
+
+- “appeal” mean an appeal under regulation 25(15), 27(1), 64(19) or 71(2);
+- “relevant complaint”, in relation to an appeal, means the complaint to which the appeal relates.
+
+Jeremy Browne
+
+Minister of State
+
+Home Office
+
+9th September 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of these Regulations)
+
+These Regulations provide for the basis on which the Independent Police Complaints Commission has oversight of complaints and other matters relating to the conduct of a National Crime Agency officer (“NCA officer”), including the Director General of the National Crime Agency.
+
+The statutory framework in accordance with which the Commission has oversight of police conduct is set out in Part 2 of, and Schedule 3 to, the Police Reform Act 2002 (“the 2002 Act”). The Commission was established by the 2002 Act to provide an effective and independent means of overseeing the investigation of complaints and alleged misconduct relating to the actions of the police. These Regulations are made under section 26C of the 2002 Act and make provision which broadly reflects existing arrangements in accordance with which the Commission has oversight of the police, but with modifications in parts where it is necessary to reflect differences between the NCA and the police.
+
+Part 1 contains introductory provision and an interpretation provision (regulation 2); this includes a definition of the appropriate authority, which performs a number of investigative functions under the framework established by these Regulations. The appropriate authority is ordinarily the Permanent Secretary to the Home Office or the Director General of the National Crime Agency; their respective role is determined by the nature of the complaint or other matter which is being investigated.
+
+Part 2 contains provision which sets out the broad basis on which the Commission has oversight of complaints and misconduct relating to the NCA. It makes provision to apply specific sections of Part 2 of the 2002 Act with modifications (regulation 5), and sets out the general functions of the Commission and the reporting requirements which apply to it (regulations 6 and 7). Regulation 8 defines the matters which may be the subject of an investigation under these Regulations (a complaint, conduct matter or death or serious injury (or DSI) matter). Regulations 9 to 12 set out the general duties of the appropriate authority, payment for assistance (e.g. in a case where the police assists with an investigation), the provision of information by the NCA to the Commission and requirements in relation to onward disclosure of such information and the inspection of NCA premises by the Commission.
+
+Regulations 13 to 16 make provision for keeping complainants and other interested persons informed about investigations, and includes provision about the manner in which these requirements are fulfilled and exceptions to them.
+
+Part 3 contains provision about the handling of complaints. It imposes duties to preserve evidence (regulation 17), handling and recording of complaints (regulations 18 to 21), the cases in which complaints are referred to the Commission (regulations 22 and 23) and the handling of complaints by the appropriate authority (regulations 24 to 26). There are prescribed appeal rights in certain cases (Regulation 27).
+
+Part 4 contains provision about the handling of conduct matters. It imposes duties in relation to the identification and recording of conduct matters (regulations 28 to 30), preservation of evidence (regulation 31) and the cases in which conduct matters are referred to the Commission (regulations 32 and 33).
+
+Part 5 contains provision about the handling of DSI matters. It imposes duties to record DSI matters and preserve evidence (regulations 34 and 35) and the reference of DSI matters to the Commission and its corresponding duties on a referral to it (regulations 36 and 37).
+
+Part 6 contains provision governing the basis on which the Commission determines the form of an investigation in a matter referred to it (regulation 38), ranging from investigations carried out by the appropriate authority on its own behalf (regulation 41) or supervised or managed by the Commission (regulations 42 or 43) to investigations carried out by the Commission itself (regulation 44). There is also provision governing the appointment of investigators (regulation 39) the processes which apply in specific cases (e.g. withdrawn complaints or the resumption of an investigation following the conclusion of relevant criminal proceedings (regulations 40 and 45 to 48).
+
+Part 6 also contains provision governing a special procedure which applies in a case in which a conduct matter is revealed during the course of the investigation of a complaint (regulations 49 to 53), the Commission’s powers to interview witnesses (regulation 54), restrictions on certain proceedings during an investigation (regulation 55) and an accelerated procedure in cases where gross misconduct is identified during an investigation into a complaint or conduct matter (regulations 56 to 63). This Part also contains provision governing the discontinuance of an investigation (regulation 64) and the procedure in cases where a conduct matter is revealed during an investigation into a DSI matter (regulation 65).
+
+Part 7 sets out the basis governing the submission of investigation reports, the actions which the Commission or the appropriate authority are required to take, the prescribed appeal rights in relation to an investigation and the availability of a review or reinvestigation following an appeal (regulations 66 to 72). Regulation 73 sets out the duties on the appropriate authority with respect to disciplinary proceedings (e.g. following a recommendations made by the Commission) and the information which is required to be provided to complainants about such proceedings (regulation 74).
+
+Part 8 contains provision about a number of general matters including appeal processes and which person may hear an appeal (regulations 82 and 83).
+
+An impact assessment has not been prepared for this instrument as no impact on businesses, charities, voluntary bodies or the public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30). Relevant amendments were made by paragraphs 1, 9 and 10 of Schedule 12 to the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), paragraphs 1 and 2 of Schedule 23 to the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), Schedules 14 and 16 to the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13) and sections 1 to 3 of the Police Complaints and Conduct) Act [2012 (c. 22)](https://www.legislation.gov.uk/ukpga/2012/22). Section 26C was inserted by section 11(6) of the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
+
+[^f00002]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16). Section 63(3)(b) was substituted by paragraphs 68 and 78 of Schedule 4 to the Serious Organised Crime Act 2005; there have been further amendments to section 63 that are not relevant for these purposes.
+
+[^key-d118479f33527a40a33fab9ee1d8ccbb]: Commencement: Reg. 1 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-5eabe71c107ba3f2d68b53c796fe23a4]: Commencement: Reg. 2 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^f00003]: Footnote: [2013 c. 22](https://www.legislation.gov.uk/ukpga/2013/22).
+
+[^f00004]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-385ea5538fd52cde2f70b8fbb766464d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2325/regulation/2) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(4)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/4/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-043790e8af750d01d108f016797c3a2f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2325/regulation/2) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(4)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/4/d) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^f00005]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^f00006]: Footnote: [1992 c.52](https://www.legislation.gov.uk/ukpga/1992/52).
+
+[^key-a8a57384eaf8e2bd74e0da1e56869249]: Commencement: Reg. 3 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^f00007]: Footnote: [2005 c. 15](https://www.legislation.gov.uk/ukpga/2005/15). Paragraph 1(4) of Schedule 1 was amended by article 13 of, and paragraphs 1 and 27 of Schedule 15 to, the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 ([S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)). Paragraph 4(d) was amended by article 3(2) of, and paragraph 54(1) and (2) of Schedule 2 to, the Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 ([S.I. 2012/2404](https://www.legislation.gov.uk/uksi/2012/2404)); paragraph 4(ea) was inserted by article 3(2) of, and paragraph 54(1) and (3) of Schedule 2 to, that Order.
+
+[^key-fd62503291a9793b90c7783dad0e65c4]: Commencement: Reg. 4 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-12059179ccdc9e0a6cc611e1acb79b28]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/2325) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 30(2)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/2/a) (with [regs. 30(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-a9c5f944f235c333cb1cc90c1e1b3494]: Commencement: Reg. 5 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-10c560a706f497f43d3a18b977be7939]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/5/1) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(5)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/5/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-d335ed36df61ed6adb42b2ea316f1a00]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/5/1) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(5)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/5/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-d06ebb7d082576c7a7903c97508dfc2d]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/2325) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 30(2)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/2/c) (with [regs. 30(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-dc29d164df027a30945ca8cc842b438d]: Commencement: Reg. 6 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-b7c8426029859cc1b54bccdf1cab445b]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/2325) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 30(2)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/2/d) (with [regs. 30(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-f95bf9adf3292fdc73023fe3f48093af]: Textual amendment: [Reg. 6(4A)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/6/4A) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(6)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/6/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-c1eb0a40d67bf7a4685566e484deca45]: Textual amendment: Word in [reg. 6(6)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/6/6) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(6)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/6/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-ac1270ecfe2b0cd87a040d1086f1bf2c]: Textual amendment: [Regs. 6A](https://www.legislation.gov.uk/uksi/2013/2325/regulation/6A), [6B](https://www.legislation.gov.uk/uksi/2013/2325/regulation/6B) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(7)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/7) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-c01262aa5107695771f5b332db6d0d93]: Commencement: Reg. 7 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-40943b3b880e9a1891fcba5df0f8a955]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/7/1) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(8)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/8/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-d68d49199c2a53dc30cc503692c178ac]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/2325) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 30(2)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/2/b) (with [regs. 30(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-b236ed9f35565a099cdca162aaee50d1]: Textual amendment: Words in [reg. 7(6)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/7/6) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(8)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/8/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-b94c876772cb59adcbb9831a8aa033b3]: Commencement: Reg. 8 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-1444e7f6ae2c438875e5b129726405b1]: Commencement: Reg. 9 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-330db4814f18428a0522a5a30219da82]: Textual amendment: Word in [reg. 9(7)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/9/7) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(9)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/9) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-e45bf4b98f65397a2c96d2af6daa5f43]: Commencement: Reg. 10 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-160925e7729b3c2e9437d234843cf2ae]: Textual amendment: Word in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/10/4) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(10)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/10) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-b8b44d899d4a017c1898265400d32371]: Commencement: Reg. 11 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-0d4b28bf05009aa823cc1ecb3caf8c15]: Commencement: Reg. 12 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-63af10f91e6a1c47429ce99697a011e2]: Textual amendment: Word in [reg. 12(5)(a)(i)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/12/5/a/i) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(11)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/11) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-9708e5d171ea6d7733a6b05ef583883b]: Commencement: Reg. 13 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-5d0be724fdc6eeb9d3858c9ecc28777a]: Commencement: Reg. 14 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-4535c6a2f15adaf10e42910b068837f1]: Commencement: Reg. 15 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-15f69c68d611aeb3d588f3ea464d4e9d]: Commencement: Reg. 16 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-5ebf39b55c0375227dce6f5666ec4370]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/16/2) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(12)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/12) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-06551b7abd6a62ee6f960060a6a54fcb]: Commencement: Reg. 17 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-f4e8bf58d12c0b942d13524946ab4f3c]: Commencement: Reg. 18 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-d0f3f50f5c8e424d5be91fd039569bf4]: Commencement: Reg. 19 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-8fab7fe3e9da334dba807721c4e9967a]: Commencement: Reg. 20 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-d33f1a0e09b794fc2293a65752c07ca5]: Commencement: Reg. 21 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-54c5a8f48a0e0eca336e3b9702552835]: Commencement: Reg. 22 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^f00008]: Footnote: Guidance issued by the Commission under section 22 of the 2002 Act in January 2013.
+
+[^key-4abf7d3c41c6d7f9a822052a2539e8e1]: Commencement: Reg. 23 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-578ba8fc35c88c1f70089ae839db573d]: Commencement: Reg. 24 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^f00009]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
+
+[^key-b29ea0837661d0f8969d6e74ff82ee3c]: Commencement: Reg. 25 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-8269612b2be89ef19596c5968fc9103b]: Commencement: Reg. 26 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-380b24d6855827f52859e205177c8786]: Commencement: Reg. 27 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-93062fc23ffb5c7191a8e2c7aea8e674]: Commencement: Reg. 28 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-dd52bb7a88dbd77be9bb956fbace94a7]: Commencement: Reg. 29 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-e16eb1833934d148b8339a98e6c252f9]: Commencement: Reg. 30 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-22974c0f5fd7102d0703593a1c5ffb7a]: Commencement: Reg. 31 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-9fa43e3a78200b601c1100c94c43e485]: Commencement: Reg. 32 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-445f36fdb710ad3d27cec68bf3fec78f]: Commencement: Reg. 33 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-1392d44caecd9c7074843ba885bf9f4b]: Commencement: Reg. 34 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-e73bd1a0a5a3297fb017995a63f999d8]: Commencement: Reg. 35 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-f0487b7e73bbac24bfc64321a7aa30c7]: Commencement: Reg. 36 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-4b9c2124e487ba7af0eb5a0699b96f30]: Commencement: Reg. 37 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-b422959d5b3332680eec3504ba17bca0]: Commencement: Reg. 38 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-15ff8c1304b706df12808e68861844c8]: Commencement: Reg. 39 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-f3f87be8c7ab6d89a6fc68b9977134d7]: Commencement: Reg. 40 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-6bd9a54efb86bf7a8e5767f49d63efcb]: Commencement: Reg. 41 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-565821866e398079691358d97528f475]: Commencement: Reg. 42 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-08d3372dbf3e3503c34f2c1cff75bf88]: Commencement: Reg. 43 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-41fb96160bf2ae100bfcec18bf4f7714]: Commencement: Reg. 44 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-eb00eb7dcb9ccf86dae9c420fc7315bd]: Textual amendment: Word in [reg. 44(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/44/1) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(13)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/13/a) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+
+[^key-cd9d549cd99d60e53b7d3c6c3e7120b4]: Textual amendment: [Reg. 44(2)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/44/2)[(2A)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/44/2A) substituted for [reg. 44(2)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/44/2) (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(13)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/13/b) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+
+[^key-83f97f79c5675e1860174d435a54d0ba]: Textual amendment: Word in [reg. 44(3)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/44/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(13)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/13/c) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+
+[^f00010]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16).
+
+[^key-6756c84cae0a6182cbf2a833976a8868]: Textual amendment: Words in [reg. 44(4)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/44/4) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(13)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/13/d) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+
+[^f00011]: Footnote: [1992 c.52](https://www.legislation.gov.uk/ukpga/1992/52).
+
+[^f00012]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^key-3b992becaf8da0cec42a43c8f919e917]: Commencement: Reg. 45 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-7387cde8f57cb142e399e31ba502b66f]: Textual amendment: Words in [reg. 45(2)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/45/2) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(14)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/14) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-da4b919093dd4cd9d797fcb29a5d1b05]: Commencement: Reg. 46 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-f17ef843fe0bace5925124450a38514b]: Commencement: Reg. 47 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-0c91b117a7bfb588fa5e8208185ad025]: Commencement: Reg. 48 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-608a6c26f4946650b62f946839d4dccc]: Textual amendment: Words in [reg. 48(8)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/48/8) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(15)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/15) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-37417621425b2ac8d5bbb6aceb7ce348]: Commencement: Reg. 49 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-1874630775ad85afe2d6daa0fd0c32f7]: Textual amendment: Words in [reg. 49(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/49/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(16)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/16) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-b18d7e4c351d5a85cec11e7edd9ae11b]: Commencement: Reg. 50 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-0810d9baa1d9f51a3eafc4878c646aa0]: Commencement: Reg. 51 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-9d24d1e36f7665ec89da7a8462aeeefb]: Commencement: Reg. 52 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-32dd684f33d538bc435c999e1b3413c5]: Commencement: Reg. 53 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-1cb5bff3ab94a6c09b4fe60291a62168]: Commencement: Reg. 54 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-3280db529ddb1072561942121b9a505e]: Textual amendment: Words in [reg. 54(1)(b)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/54/1/b) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(17)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/17) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-cee85287c34adc5e922411febf4e5706]: Commencement: Reg. 55 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-52cf644fb66637d9c0ec09ec4beffcb2]: Textual amendment: Words in [reg. 55(1)(b)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/55/1/b) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(18)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/18) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-1424c7c4001e179a4b302ee07a79026b]: Commencement: Reg. 56 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-121e3888fea5de6d02d034cd0507f03a]: Textual amendment: Words in [reg. 56(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/56/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(19)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/19/a/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-fadc6d6ab3f700076010b2c2c40f7e4e]: Textual amendment: Word in [reg. 56(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/56/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(19)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/19/a/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-124150caaedb2a7268a4d1229a2ac743]: Textual amendment: Words in [reg. 56(3)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/56/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(19)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/19/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-e528401fe058a2ec3e582a11495ec2b3]: Commencement: Reg. 57 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-1fcd7f3f5cc8907d8444de365ad9255f]: Commencement: Reg. 58 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-d940ecc637f5860bb4505e4c0c9235aa]: Commencement: Reg. 59 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-40d1b27e21eda38e2ebf17dbefe9fa93]: Commencement: Reg. 60 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-2da03f2aad3dc0daa78db507be8dc4f6]: Commencement: Reg. 61 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-4aa466bdb3ca67a2000a8cff5cd1a69c]: Commencement: Reg. 62 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-4ef76efce8feb1e5a911dc855706ebf5]: Commencement: Reg. 63 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-7cf62baf8fb10664e5534274ef93b6e9]: Commencement: Reg. 64 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-ed95203a0c93d6f05ed91bc6265f75e2]: Textual amendment: Word in [reg. 64(7)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/64/7) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(20)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/20) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-93593db9030bdd6100cabed3ad7c8584]: Textual amendment: Word in [reg. 64(14)(b)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/64/14/b) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(20)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/20) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-a69ae2ecb9656ab322ffe6ba60afe7a8]: Commencement: Reg. 65 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-f3ac9d2c6fdca6e8c674a563220a47eb]: Textual amendment: Words in [reg. 65(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/65/1) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(21)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/21/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-e933f9f6d896722dc7feb11445a57aa2]: Textual amendment: [Reg. 65(2A)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/65/2A)[(2B)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/65/2B) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(21)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/21/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-4edf8d40ee75aeb9b0ffed92a7b2c6c9]: Textual amendment: Words in [reg. 65(5)(a)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/65/5/a) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(21)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/21/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-320ace8ebe99d1e9ab54397269e09462]: Commencement: Reg. 66 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-a4541adc375617ca47080286a57ea40a]: Textual amendment: Words in [reg. 66(5)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/66/5) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(22)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/22/a/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-76305dab3677e7f81dd9771821878978]: Textual amendment: Words in [reg. 66(5)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/66/5) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(22)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/22/a/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-b3c40b6be971af9ee7dffc52a8a88a9d]: Textual amendment: Words in [reg. 66(6)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/66/6) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(22)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/22/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-9f0634a474e45ae88c14065edc6aacf5]: Textual amendment: Words in [reg. 66(8)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/66/8) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(22)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/22/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-8dd506b1616693e8642991147abbb2eb]: Commencement: Reg. 67 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-13d42063ddf47fb551e0fbdbedcd5f07]: Textual amendment: Words in [reg. 67(1)(b)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/67/1/b) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(23)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/23/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-066bd58a99c17f1990c141da81e3130d]: Textual amendment: Words in [reg. 67(2)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/67/2) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(23)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/23/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-bd94338f18bca0cbfbe8e7846b12de25]: Textual amendment: Word in [reg. 67(15)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/67/15) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(23)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/23/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-cec3ba90727406869257cdd24ec4752b]: Commencement: Reg. 68 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-0c34959885c7b10f4b911fa46f90a503]: Commencement: Reg. 69 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-29e85df0364708fcbbfce9e97ec00e2a]: Textual amendment: Words in [reg. 69(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/69/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(24)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/24/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-0655dc2a096fd6ff28369369edd1e4ef]: Textual amendment: [Reg. 69(2A)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/69/2A) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(24)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/24/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-73994e9df478219b19477bd65e83c71c]: Textual amendment: Words in [reg. 69(3)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/69/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(24)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/24/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-83ea7f8404256ea8cf0e233bd45aed06]: Textual amendment: Words in [reg. 69(4)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/69/4) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(24)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/24/d) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-51cf3161db9f1c9a56a0e66f9cf905cf]: Commencement: Reg. 70 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-3bc0e55c64ddcb6d27567161f57e9370]: Commencement: Reg. 71 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-a1ae63249bbeed57f5df7dadce199d15]: Commencement: Reg. 72 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-181e30cffe9b575cbdac13b54ffe045b]: Textual amendment: Words in [reg. 72(1)(b)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/72/1/b) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [30(25)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/30/25) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-1dc88e2669e3d6443f1e0564ed2d2a6b]: Commencement: Reg. 73 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-55ddb5f1d1b1b9a5d4d6f1b820cb86ee]: Commencement: Reg. 74 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-900c8df2fcad26538df91f2518ea691a]: Commencement: Reg. 75 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-99df6fbd6dd7aa3765808d84143dec41]: Commencement: Reg. 76 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-1b23b25a13aa822ee973ab3d616fd7a0]: Commencement: Reg. 77 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-a34b59760f02cd97c4f0ed1cf0d11bd2]: Commencement: Reg. 78 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-e9c54e226c4b6c045a395716ff4b78f1]: Commencement: Reg. 79 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-f3a4147dc65513863d7c7678044683b6]: Commencement: Reg. 80 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-5c5f422cbd3975b9d064f1d1a46fe68c]: Commencement: Reg. 81 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-3e1ea744cf0c65a43f2a47def8725227]: Commencement: Reg. 82 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^key-88b4e4660785e28a5bcdf8d5b6012e87]: Commencement: Reg. 83 in force at 7.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2325/regulation/1/1)
+
+[^f00013]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).

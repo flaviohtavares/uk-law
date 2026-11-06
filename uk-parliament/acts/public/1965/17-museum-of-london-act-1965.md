@@ -1,0 +1,316 @@
+---
+title: Museum of London Act 1965
+id: ukpga/1965/17
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1965-06-02'
+text_date: '2008-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1965/17
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1965/17/pdfs/ukpga_19650017_en.pdf
+- http://www.legislation.gov.uk/ukpga/1965/17/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Museum of London Act 1965
+
+> Text as at 2008-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Museum of London Act 1965
+
+1965 c. 17
+
+An Act to establish a Board of Governors of the Museum of London; to transfer to them the collections of the London Museum and of the Guildhall Museum and the benefit of certain funds; to define the functions of that Board, and to provide for purposes connected with the matters aforesaid.
+
+\[2nd June 1965\][^c656909][^c656910]
+
+## 1. Board of Governors of Museum of London.
+
+(1) There shall be a body to be called the Board of Governors of the Museum of London (hereafter in this Act referred to as “**the Board**”) who shall exercise and perform the functions assigned to them by this Act.
+
+(2) The Board shall consist of eighteen members (hereafter in this Act referred to as “**governors**”) of whom—
+
+- (a)[^c656911] nine[^c656912] shall be appointed by the Greater London Authority[^key-c130a87ec0cd2537c8de36be2f4eb0b9];
+- (b)[^c656911] nine shall be appointed by the Corporation of the City of London (hereafter in this Act referred to as “**the Corporation**”); . . . [^c656915]
+- (c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c656915]
+
+(3) The incidental provisions contained in the Schedule to this Act shall have effect with respect to the Board.
+
+## 2. Transfer to Board of collections of London and Guildhall Museums and benefit of certain funds.
+
+(1)[^c656917] On such day as may, with the agreement of the Corporation and the Greater London Council, be appointed for the purposes of this section by the Secretary of State by order made by statutory instrument (hereafter in this Act referred to as “**the appointed day**”) the following objects, namely,—
+
+- (a) all objects which at the beginning of that day form part of the collections of the organisation known as the London Museum and are then vested in the Trustees of the London Museum; and
+- (b) all objects which at the beginning of that day form part of the collections of the organisation known as the Guildhall Museum and are then vested in the Corporation,
+
+shall, by virtue of this section and without further assurance, vest in the Board.
+
+(2) As regards anything falling to be done after the appointed day—
+
+- (a) the will of John George Joicey (which contains provision for the application of the income of certain funds, which are now vested in the official custodian for charities, in the purchase of objects for the London Museum) shall have effect as if the said provision were one for the application of the said income in the purchase of objects for addition to the collections vested in the Board by virtue of the foregoing subsection; and
+- (b) the scheme contained in the Schedule to the order made on the 14th May 1956 in the Chancery Division of the High Court for the administration of the charitable trusts created by the wills of Henry Thomas Mackenzie Bell and Helena Teresa Maria Bell (which scheme contains provision for the use of the funds representing the assets and property subject to the scheme, which funds are now vested in the official custodian for charities, and any income thereof for the purpose of maintaining and adding to the collections in the London Museum) shall have effect as if the said provision were one for the use of the said funds and income for the purpose of maintaining and adding to the collections vested in the Board as aforesaid.
+
+(3) On the appointed day—
+
+- (a) such rights, powers and duties in relation to any object vested in the Board by subsection (1) above as immediately before that day are exercisable by or incumbent upon the Trustees of the London Museum or, as the case may be, the Corporation; and
+- (b) such rights, powers and duties in relation to the funds mentioned in the last foregoing subsection as immediately before that day are exercisable by or incumbent upon the said Trustees,
+
+shall instead be exercisable by or incumbent upon the Board.
+
+## 3. General functions of Board.[^c656918]
+
+(1) So far as practicable and subject to the following provisions of this Act, it shall be the duty of the Board—
+
+- (a) to care for, preserve and add to the objects in their collections;
+- (b) to secure that those objects are exhibited to the public and made available to persons seeking to inspect them in connection with study or research; and
+- (c) generally to promote understanding and appreciation of historic and contemporary London and of its society and culture, both by means of their collections and by such other means as they consider appropriate.
+
+(2) The board may, subject to the provisions of this Act, do all such things as they think necessary or expedient for those purposes and their functions under this Act.
+
+(3) Without prejudice to the generality of subsection (2) above, for the purposes mentioned in subsection (1) above the Board may—
+
+- (a) provide archaeological services and undertake archaeological investigations and research in connection with land in London, publish information concerning such investigations and research and promote the provision of such services and the undertaking of such investigations and research and the publishing of such information;
+- (b) subject to subsection (4) below, acquire or dispose of any land or any estate or interest in land.
+
+(4) The Board shall not acquire or dispose of any land or any estate or interest in land without the consent of the Greater London Authority[^key-71cb1420038efe9cb32acfaac5bb7ce0] and the Corporation and such consent may be given subject to such conditions as the Greater London Authority and the Corporation consider appropriate.
+
+(5) In this section “ **London** ” includes all Greater London and the surrounding region.
+
+## 4. Keeping of collections.
+
+(1) The Board shall take steps to acquire premises for the purpose of maintaining their collections therein and holding exhibitions therein of their collections, or so much of those collections as from time to time they think fit, being premises situate within Greater London[^key-2b901cf7eedbf83cc1ddfb7e12ee4d0d] and, so long as they are held by the Board, to be known as the Museum of London.
+
+(2) Subject to the following provisions of this Act, it shall be the duty of the Board, as soon as practicable after they have acquired such premises as aforesaid, to keep the objects comprised in their collections in those premises, or, if those premises cease to be held by the Board, in other premises within Greater London[^key-92e806a54fff16a34e0ccbb55ca9b0d0] held by them.
+
+(3) Nothing in the foregoing provisions of this section is to be taken as precluding the Board from exhibiting any of the objects comprised in their collections at any place, wherever situate, other than such premises as are mentioned in the last foregoing subsection, or from removing any of those objects for any purpose, other than exhibition, connected with the administration of any such premises as are so mentioned or the care of their collections.
+
+(4) Where it appears to the Board that any objects comprised in their collections cannot conveniently be kept within any such premises as are mentioned in subsection (2) above, they may store those objects at such other premises, wherever situate, as appear to the Board to be suitable.
+
+(5)[^c656919] The Board may make such charges as they may determine for admission to any such premises as are mentioned in subsection (2) above.
+
+## 5. Power of Board to acquire and dispose of objects.
+
+(1) Subject to the following provisions of this Act, the Board shall have power to acquire any objects which in their opinion it is desirable to add to their collections.
+
+(2) Subject to aforesaid, the Board may sell, exchange, give away or otherwise dispose of any object vested in them and comprised in their collections if the object is a duplicate of another such object or is for any other reason not, in their opinion, required for retention in those collections.
+
+(3) The powers conferred by the last foregoing subsection shall not be exercisable as respects an object except with the approval of the exercise of those powers as respects that object of not less than two-thirds of the governors for the time being.
+
+(4) Where an object has become vested in the Board subject to any trust or condition, the powers conferred by subsection (2) above shall not be exercisable as respects that object in a manner inconsistent with that trust or condition.
+
+## 6. Power of Board to lend objects.
+
+(1) Any object vested in the Board may be lent by them, subject to the provisions of this section, on such terms and conditions as they think fit, to any person for any purpose, whether the purpose is to be carried out in the United Kingdom or elsewhere.
+
+(2) In exercising the power conferred by the foregoing subsection in the case of any object, the Board shall have regard to the interests of students and other persons visiting the collections vested in the Board, to the physical condition and degree of rarity of the object, and to any risks to which the object is likely to be exposed.
+
+## 7. Transfer of objects to and from other organisations.
+
+(1)[^c656923] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^c656923] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The power conferred by section 6 of the Museums and Galleries Act 1992[^c656925] shall not be exercisable by the Board[^c656926] as respects an object except with the approval of the exercise of that power as respects that object of not less than two-thirds of the governors for the time being.
+
+(4)[^c656923] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Use of premises occupied or managed by the Board.[^c656928]
+
+(1) The Board may use the premises known as the Museum of London for any educational or cultural purpose whether or not connected with the Board’s functions under this Act.
+
+(2) The Board may allow any premises occupied or managed by them to be used by other persons (for payment or otherwise) for purposes not connected with the Board’s functions under this Act if the Board are satisfied that to do so would not conflict with those functions.
+
+## 9. Employment of staff
+
+(1) There shall be a Director of the Museum of London who shall be appointed by the Board with the approval of the Greater London Authority[^key-284ad49e9f6157881a034a629c004c36], and the Corporation[^c656929], shall, subject to the provisions of this and the next following section, hold office on such terms and subject to such conditions as the Greater London Authority, and the Corporation may jointly direct, and shall be responsible to the Board for the care of all property in the possession of the Board and for the general administration of the collections vested in the Board and any place where those collections are kept and for the administration of any services provided by the Board in the exercise of their functions[^c656931].
+
+(2) The Board, with the consent of the Corporation, shall, from amongst the officers of the Corporation, appoint persons who shall, while remaining officers of the Corporation, act as secretary and as treasurer of the Board, and persons appointed under this subsection shall so act on such terms and such conditions as may be agreed between the Board and the Corporation, except that no salaries, allowances or other remuneration shall be paid to them by the Board, but in respect of their service to the Board, there shall be due to the Corporation from the Board such sums as the Corporation and the Board may agree.
+
+(3) The Board may, subject to the consent of the Greater London Authority[^key-066ba667ca2fb8468b78acec56bcf321], and the Corporation as to numbers and without prejudice to the provisions of the last foregoing subsection, appoint such officers and such servants as the Board think fit; and any officer and any servant appointed under this subsection shall, subject to the provisions of this and the next following section, hold office on such terms and subject to such conditions as the Corporation may direct.
+
+(4) There shall be paid to the Director of the Museum of London and to any officers and servants appointed under the last foregoing subsection such salaries, allowances and other remuneration as the Corporation, with the approval of the Greater London Authority[^key-82435d5653550270c85d2aa7518292c5] . . . [^c656933] may determine; and in making a determination under this section, the Corporation shall have regard to any recommendations that may be made by the Board.
+
+## 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c656934]
+
+## 11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c656937]
+
+## 12. Substitution, in certain devises and bequests, of board in place of London Museum and Guildhall Museum.
+
+Any devise or bequest contained in a testamentary disposition executed before the appointed day, being a devise or bequest which comes into effect on or after that day and would, if this Act had not been passed, have operated to vest any interest in the Trustees of the London Museum or, for the purposes of the Guildhall Museum, in the Corporation, shall, in the absence of any contrary intention expressed in that or any other testamentary disposition made by the testator, have effect so as to vest that interest in the Board in place of, as the case may be, those Trustees or the Corporation.
+
+## 13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c656938]
+
+## 14. Application of moneys received by the Board.
+
+(1) Moneys received by the Board, otherwise than—
+
+- (a) under . . . [^c656939] the next following section of this Act; or
+- (b) in respect of the disposal of objects vested in them and comprised in their collections; or
+- (c) by way of gift or bequest (including moneys received by virtue of section 2(2) of this Act), or[^c656940]
+- (d) under section 4 of the [^c656941]Museum of London Act 1986
+
+shall not, except with the approval of the Greater London Authority[^key-7c2b14bd203576bd812cf266408d89c8], and the Corporation[^c656942], be applied by the Board otherwise than in defraying expenses of the general administration of their collections and of any place where those collections are, or any part thereof is, kept.
+
+(2) Moneys received by the Board in a way mentioned in subsection (1)(b) above shall not be applied by them, except with the approval of the Greater London Authority[^key-b70cb3a754e0c1003e93f8259f56c289], and the Corporation, otherwise than in the exercise of the power conferred on the Board by section 5(1) of this Act.
+
+(3) Any interest received by the Board on the investment of any moneys received by the Board in any way shall be treated, for the purposes of the foregoing provisions of this section, as forming part of moneys received in that way.
+
+(4) Nothing in the foregoing provisions of this section shall be taken as authorising the application by the Board of any moneys received by them by way of gift or bequest in a manner inconsistent with any condition attached to the gift or bequest.
+
+## 15. †Financing of expenditure of Board by Corporation and reimbursement by Secretary of State and Greater London Council.[^c656944]
+
+(1) The Board shall from time to time submit to the Greater London Authority,[^key-3df777ed5c674eaaa63c269cb7e95851] and the Corporation[^c656945], an estimate of the expenditure which, during the period to which the estimate relates, the Board propose to incur in carrying this Act into effect, being expenditure which they propose should be defrayed in accordance with the provisions of this section; and such an estimate shall specify the matters in respect of which it is proposed that the expenditure to which it relates should be incurred, and the amount proposed to be incurred in respect of those matters.
+
+(2) Expenditure incurred in accordance with an estimate submitted under the foregoing subsection shall, if the estimate is approved by the Greater London Authority[^key-f75fd4d6768fe9ce9f557f8dac80eff5], and the Corporation, be defrayed in the first instance by the Corporation, but the Corporation and the Greater London Authority[^key-f710766d94da1a82f852d77cf0563572] may make payments to the Board in respect of such part of the expenditure incurred or to be incurred as aforesaid or in respect of such expenditure of a particular description as the Corporation or (as the case may be) the Greater London Authority[^key-054cd19504608ba06d3646f62cc2d42e] may determine, and in that event that part of such expenditure, or, as the case may be, such expenditure of that description, shall be defrayed by the Board themselves instead of by the Corporation.
+
+(3) Subject to subsection (4) the total of the payments made by the Greater London Authority under subsection (2) shall equal the total expended by the Corporation under that subsection.
+
+(4) In the case of particular amounts paid in respect of particular expenses, the Corporation and the Greater London Authority may agree that subsection (3) has effect so that the proportion of expenditure paid for by the Greater London Authority is other than one-half.
+
+## 16. Interpretation.
+
+(1) In this Act—
+
+- “**the appointed day**” has the meaning assigned to that expression by section 2(1) of this Act;
+- “**the Board**” has the meaning assigned to that expression by section 1(1) of this Act;
+- “**the Corporation**” has the meaning assigned to that expression by section 1(2) of this Act;
+- “**Corporation of the City of London**” means the mayor and commonalty and citizens of the City of London.
+
+(2) Any right, power or duty which by any provision of this Act is exercisable by or incumbent upon the Corporation shall be exercisable by or incumbent upon the common council of the City of London on behalf of the Corporation.
+
+(3) Any reference in this Act to any other enactment shall be construed as a reference to that enactment as amended by any other Act.
+
+## 17. Short title
+
+This Act may be cited as the Museum of London Act 1965.
+
+## SCHEDULE — Incidental Provisions with respect to the Board
+
+Section 1.
+
+**1.** The Board shall be a body corporate with perpetual succession and a common seal.
+
+**2.** (1) A governor . . . [^c656949], shall be appointed to hold office for a period of not more than four years[^key-74d3fed6243c43e32623dc9ea9c1fa0e].
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c656950]
+
+**3.** (1) There shall be a chairman of the Board and . . . [^c656951], he shall be appointed by the governors from amongst their number to hold office as chairman for such period as they may determine.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c656952]
+
+**4.** (1) A governor may resign his office at any time by notice in writing given, if he was appointed by virtue of section 1(2)(a) of this Act, to the Greater London Authority[^key-c2f80a2520b31a90bdf0b270b0a72818], or, if he was appointed by virtue of section 1(2)(b) thereof, to the Corporation[^c656953]; and a governor (not being the chairman of the Board) who gives a notice under the foregoing provisions of this paragraph shall forthwith after doing so give a copy of the notice to the chairman of the Board.
+
+(2) A governor appointed by virtue of section 1(2)(b) of this Act who is, at the time of his appointment a member of the Common Council of the City of London[^c656954], shall vacate his office if at any time thereafter he ceases to be a member of that body.
+
+**5.** (1) A person appointed to fill the place of a governor which becomes vacant before the end of that governor’s term of office shall hold office so long only as the vacating governor would have held office.
+
+(2) Where the place of a governor becomes vacant before the end of his term of office and the unexpired portion of his term of office is less than six months, the vacancy need not be filled.
+
+**6.** A person who has held office as a governor shall be eligible for reappointment.
+
+**7.** Subject to the foregoing provisions of this Schedule, the Board may determine their own quorum and procedure.
+
+**8.** The Board may act notwithstanding a vacancy amongst the governors, and no act of the Board shall be deemed to be invalid by reason only of a defect in the appointment of any of the governors.
+
+**9.** The application of the seal of the Board shall be authenticated by the signatures of the chairman of the Board or some other governor authorised by the Board to authenticate the application of their seal and of the secretary or some other person authorised by the Board to act in his stead in that behalf.
+
+## Annotations
+
+[^c656909]: Modification: Functions of the Secretary of State under this Act transferred by [S.I. 1979/907](https://www.legislation.gov.uk/uksi/1979/907), 1981/207, 1983/879, 1984/1814, 1986/600, 1992/1311 and as from 29.4.1986 to 3.7.1992 exercisable by the Lord President of the Council by virtue of [S.I. 1986/600](https://www.legislation.gov.uk/uksi/1986/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/1986/600/article/2/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1986/600/schedule/1/part/I) and as from 3.7.1992 again exercisable by the Secretary of State (or no longer exercisable by the Lord President in the case of functions exercisable by him concurrently with the Secretary of State) by virtue of [S.I. 1992/1311](https://www.legislation.gov.uk/uksi/1992/1311), [art. 3(1)](https://www.legislation.gov.uk/uksi/1992/1311/article/3/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1992/1311/schedule/1/part/I); references to the Secretary of State from 29.4.1986 to 3.7.1992 and from 3.7.1992 to be construed accordingly by virtue of [S.I. 1986/600](https://www.legislation.gov.uk/uksi/1986/600), [art. 7(1)](https://www.legislation.gov.uk/uksi/1986/600/article/7/1) and 1992/1311, art. 11(4).
+
+[^c656910]: Commencement: Act wholly in force at Royal Assent.
+
+[^c656911]: Modification: S. 1(2)(a)(b) amended by [Museum of London Act 1986 (c.8, SIF87)](https://www.legislation.gov.uk/ukpga/1986/8), [s.1(1)(2)](https://www.legislation.gov.uk/ukpga/1986/8/section/1/1/2).
+
+[^c656912]: Textual amendment: Words substituted by virtue of [Museum of London Act 1986 (c. 8, SIF 78)](https://www.legislation.gov.uk/ukpga/1986/8), [s. 1](https://www.legislation.gov.uk/ukpga/1986/8/section/1).
+
+[^key-c130a87ec0cd2537c8de36be2f4eb0b9]: Textual amendment: Words in [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1965/17/section/1/2/a) substituted (6.4.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 45(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/45/1), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/2007/24/section/45/3)); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/582/article/2/b)
+
+[^c656915]: Textual amendment: S. 1(2)(c) and the word “and” immediately preceding it repealed by [Museum of London Act 1986 (c. 8, SIF 78)](https://www.legislation.gov.uk/ukpga/1986/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/1986/8/section/7/3), [Sch.](https://www.legislation.gov.uk/ukpga/1986/8/schedule)
+
+[^c656917]: Modification: [S. 2(1)](https://www.legislation.gov.uk/ukpga/1965/17/section/2/1): 1.6.1975 appointed by [S.I. 1975/614](https://www.legislation.gov.uk/uksi/1975/614), [art. 2](https://www.legislation.gov.uk/uksi/1975/614/article/2).
+
+[^c656918]: Textual amendment: S. 3 substituted by [Museum of London Act 1986 (c. 8, SIF78)](https://www.legislation.gov.uk/ukpga/1986/8), [s. 2(1)](https://www.legislation.gov.uk/ukpga/1986/8/section/2/1).
+
+[^key-71cb1420038efe9cb32acfaac5bb7ce0]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/ukpga/1965/17/section/3/4) substituted (6.4.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 48(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/48/1), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/582/article/2/c)
+
+[^key-2b901cf7eedbf83cc1ddfb7e12ee4d0d]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/ukpga/1965/17/section/4/1) substituted (15.7.2004) by [Regulatory Reform (Museum of London) (Location of Premises) Order 2004 (S.I. 2004/1939)](https://www.legislation.gov.uk/uksi/2004/1939), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1939/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/1939/article/2/2)
+
+[^key-92e806a54fff16a34e0ccbb55ca9b0d0]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/ukpga/1965/17/section/4/2) substituted (15.7.2004) by [Regulatory Reform (Museum of London) (Location of Premises) Order 2004 (S.I. 2004/1939)](https://www.legislation.gov.uk/uksi/2004/1939), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1939/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2004/1939/article/2/3)
+
+[^c656919]: Textual amendment: S. 4(5) inserted by [City of London (Various Powers) Act 1979 (c. xxiv)](https://www.legislation.gov.uk/ukla/1979/24), [s. 18](https://www.legislation.gov.uk/ukla/1979/24/section/18).
+
+[^c656923]: Textual amendment: [S. 7(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1965/17/section/7/1/2/4) repealed (1.9.1992) by [Museums and Galleries Act 1992 (c. 44)](https://www.legislation.gov.uk/ukpga/1992/44), [s. 11(2)(3)](https://www.legislation.gov.uk/ukpga/1992/44/section/11/2/3), [Sch. 8 Pt. II para. 11(a)](https://www.legislation.gov.uk/ukpga/1992/44/schedule/8/part/II/paragraph/11/a), [Sch. 9](https://www.legislation.gov.uk/ukpga/1992/44/schedule/9); [S. I. 1992/1874](https://www.legislation.gov.uk/uksi/1992/1874), [art.2](https://www.legislation.gov.uk/uksi/1992/1874/article/2)
+
+[^c656925]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/ukpga/1965/17/section/7/3) substituted (1.9.1992) by [Museums and Galleries Act 1992 (c. 44)](https://www.legislation.gov.uk/ukpga/1992/44), [s. 11(2)](https://www.legislation.gov.uk/ukpga/1992/44/section/11/2), [Sch. 8 Pt. II para. 11(b)(i)](https://www.legislation.gov.uk/ukpga/1992/44/schedule/8/part/II/paragraph/11/b/i); [S.I. 1992/1874](https://www.legislation.gov.uk/uksi/1992/1874), [art. 2](https://www.legislation.gov.uk/uksi/1992/1874/article/2)
+
+[^c656926]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/ukpga/1965/17/section/7/3) inserted (1.9.1992) by [Museums and Galleries Act 1992 (c. 44)](https://www.legislation.gov.uk/ukpga/1992/44), [s. 11(2)](https://www.legislation.gov.uk/ukpga/1992/44/section/11/2), [Sch. 8 Pt. II para. 11(b)(ii)](https://www.legislation.gov.uk/ukpga/1992/44/schedule/8/part/II/paragraph/11/b/ii); [S.I. 1992/1874](https://www.legislation.gov.uk/uksi/1992/1874), [art. 2](https://www.legislation.gov.uk/uksi/1992/1874/article/2)
+
+[^c656928]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1965/17/section/8) substituted by [Museum of London Act 1986 (c. 8, SIF78)](https://www.legislation.gov.uk/ukpga/1986/8), [s. 2(2)](https://www.legislation.gov.uk/ukpga/1986/8/section/2/2)
+
+[^key-284ad49e9f6157881a034a629c004c36]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/ukpga/1965/17/section/9/1) substituted (6.4.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 48(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/48/2), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7) (with [s. 48(3)](https://www.legislation.gov.uk/ukpga/2007/24/section/48/3)); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/582/article/2/c)
+
+[^c656929]: Textual amendment: Words substituted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 43(3)(6)](https://www.legislation.gov.uk/ukpga/1985/51/section/43/3/6)
+
+[^c656931]: Textual amendment: Words added by [Museum of London Act 1986 (c. 8, SIF 78)](https://www.legislation.gov.uk/ukpga/1986/8), [s. 2(3)](https://www.legislation.gov.uk/ukpga/1986/8/section/2/3)
+
+[^key-066ba667ca2fb8468b78acec56bcf321]: Textual amendment: Words in [s. 9(3)](https://www.legislation.gov.uk/ukpga/1965/17/section/9/3) substituted (6.4.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 48(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/48/2), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7) (with [s. 48(3)](https://www.legislation.gov.uk/ukpga/2007/24/section/48/3)); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/582/article/2/c)
+
+[^key-82435d5653550270c85d2aa7518292c5]: Textual amendment: Words in [s. 9(4)](https://www.legislation.gov.uk/ukpga/1965/17/section/9/4) substituted (6.4.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 48(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/48/2), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7) (with [s. 48(3)](https://www.legislation.gov.uk/ukpga/2007/24/section/48/3)); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/582/article/2/c)
+
+[^c656933]: Textual amendment: Words repealed by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 102](https://www.legislation.gov.uk/ukpga/1985/51/section/102), [Sch. 17](https://www.legislation.gov.uk/ukpga/1985/51/schedule/17)
+
+[^c656934]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1965/17/section/10) repealed by [S.I. 1977/1341](https://www.legislation.gov.uk/uksi/1977/1341), [Sch. 6 Pt. I](https://www.legislation.gov.uk/uksi/1977/1341/schedule/6/part/I)
+
+[^c656937]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/1965/17/section/11) repealed (1.8.1993) by [1993 c. 10](https://www.legislation.gov.uk/ukpga/1993/10), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/1993/10/section/98/2), [99(1)](https://www.legislation.gov.uk/ukpga/1993/10/section/99/1), [Sch.7](https://www.legislation.gov.uk/ukpga/1993/10/schedule/7).
+
+[^c656938]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1965/17/section/13) repealed by [Museum of London Act 1986 (c. 8, SIF 78)](https://www.legislation.gov.uk/ukpga/1986/8), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/8/schedule/2)
+
+[^c656939]: Textual amendment: Words repealed by [Museum of London Act 1986 (c. 8, SIF 78)](https://www.legislation.gov.uk/ukpga/1986/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/1986/8/section/7/3), [Sch.](https://www.legislation.gov.uk/ukpga/1986/8/schedule)
+
+[^c656940]: Textual amendment: Words inserted by [Museum of London Act 1986 (c. 8, SIF 78)](https://www.legislation.gov.uk/ukpga/1986/8), [s. 4(4)](https://www.legislation.gov.uk/ukpga/1986/8/section/4/4)
+
+[^c656941]: Marginal citation: [1986 c. 8](https://www.legislation.gov.uk/ukpga/1986/8) (**78**).
+
+[^key-7c2b14bd203576bd812cf266408d89c8]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukpga/1965/17/section/14/1) substituted (6.4.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 47(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/47/1), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/582/article/2/c)
+
+[^c656942]: Textual amendment: Words substituted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 43(3)(6)](https://www.legislation.gov.uk/ukpga/1985/51/section/43/3/6)
+
+[^key-b70cb3a754e0c1003e93f8259f56c289]: Textual amendment: Words in [s. 14(2)](https://www.legislation.gov.uk/ukpga/1965/17/section/14/2) substituted (6.4.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 47(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/47/1), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/582/article/2/c)
+
+[^c656944]: Modification: Unreliable marginal note
+
+[^key-3df777ed5c674eaaa63c269cb7e95851]: Textual amendment: S. 15(3)(4) substituted for s. 15(3) (6.4.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 47(5)](https://www.legislation.gov.uk/ukpga/2007/24/section/47/5), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/582/article/2/c)
+
+[^c656945]: Textual amendment: Words substituted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 43(3)(6)](https://www.legislation.gov.uk/ukpga/1985/51/section/43/3/6)
+
+[^key-f75fd4d6768fe9ce9f557f8dac80eff5]: Textual amendment: Words in s. 15(2) substituted (6.4.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 47(4)(a)](https://www.legislation.gov.uk/ukpga/2007/24/section/47/4/a), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/582/article/2/c)
+
+[^key-f710766d94da1a82f852d77cf0563572]: Textual amendment: Words in s. 15(2) inserted (6.4.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 47(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/47/4/b), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/582/article/2/c)
+
+[^key-054cd19504608ba06d3646f62cc2d42e]: Textual amendment: Words in s. 15(2) inserted (6.4.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 47(4)(c)](https://www.legislation.gov.uk/ukpga/2007/24/section/47/4/c), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/582/article/2/c)
+
+[^c656949]: Textual amendment: Words repealed by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 102](https://www.legislation.gov.uk/ukpga/1985/51/section/102), [Sch. 17](https://www.legislation.gov.uk/ukpga/1985/51/schedule/17).
+
+[^key-74d3fed6243c43e32623dc9ea9c1fa0e]: Textual amendment: Words in [Sch. para. 2(1)](https://www.legislation.gov.uk/ukpga/1965/17/schedule/paragraph/2/1) substituted (23.12.2007) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 46(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/46/1), [59(5)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/5) (with [s. 46(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/46/2))
+
+[^c656950]: Textual amendment: Sch. paras. 2(2), 3(2) repealed by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 102](https://www.legislation.gov.uk/ukpga/1985/51/section/102), [Sch. 17](https://www.legislation.gov.uk/ukpga/1985/51/schedule/17).
+
+[^c656951]: Textual amendment: Words repealed by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 102](https://www.legislation.gov.uk/ukpga/1985/51/section/102), [Sch. 17](https://www.legislation.gov.uk/ukpga/1985/51/schedule/17).
+
+[^c656952]: Textual amendment: [Sch. paras. 2(2)](https://www.legislation.gov.uk/ukpga/1965/17/schedule/paragraph/2/2), [3(2)](https://www.legislation.gov.uk/ukpga/1965/17/schedule/paragraph/3/2) repealed by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 102](https://www.legislation.gov.uk/ukpga/1985/51/section/102), [Sch. 17](https://www.legislation.gov.uk/ukpga/1985/51/schedule/17).
+
+[^key-c2f80a2520b31a90bdf0b270b0a72818]: Textual amendment: Words in [Sch. para. 4(1)](https://www.legislation.gov.uk/ukpga/1965/17/schedule/paragraph/4/1) substituted (6.4.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 45(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/45/2), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/2007/24/section/45/3)); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/582/article/2/b)
+
+[^c656953]: Textual amendment: Words substituted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51) s. 43(5)(a)(6).
+
+[^c656954]: Textual amendment: Words substituted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 43(5)(b)(6)](https://www.legislation.gov.uk/ukpga/1985/51/section/43/5/b/6).

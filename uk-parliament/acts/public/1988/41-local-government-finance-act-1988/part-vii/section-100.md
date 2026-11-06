@@ -1,0 +1,57 @@
+---
+title: Local Government Finance Act 1988, section 100
+act: Local Government Finance Act 1988
+section: '100'
+status: revised-with-pending-changes
+text_date: '2026-10-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1988/41/section/100
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government Finance Act 1988, section 100
+
+> **Warning: changes not yet applied to this text (93).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
+>
+> Extent: England, Wales, Scotland.
+
+## 100. Power to designate authorities.
+
+*Extent: E+W*
+
+**May not be in force at this date. Check the source.**
+
+(1) As regards a chargeable financial year the Secretary of State may designate a charging authority if in his opinion—
+
+- (a) the amount calculated by it in relation to the year under section 95(4) above is excessive, or
+- (b) there is an excessive increase in the amount so calculated over the amount calculated by it in relation to the preceding financial year under section 95(4).
+
+(2) As regards a chargeable financial year the Secretary of State may designate a relevant precepting authority if in his opinion—
+
+- (a) the aggregate amount of precepts issued by it for the year is excessive, or
+- (b) there is an excessive increase in that aggregate over the aggregate amount of precepts issued by it for the preceding financial year.
+
+(3) For the purposes of this Part each of the following is a relevant precepting authority—
+
+- (a) a county council,
+- (b) a metropolitan county police authority,
+- (c) the Northumbria Police Authority,
+- (d) a metropolitan county fire and civil defence authority, and
+- (e) the London Fire and Civil Defence Authority.
+
+(4) A decision whether to designate an authority shall be made in accordance with principles determined by the Secretary of State and, in the case of an authority falling within any of the classes specified in subsection (5) below, those principles shall be the same either for all authorities falling within that class or for all of them which respectively have and have not been designated under this Part as regards the preceding financial year.
+
+(5) The classes are—
+
+- (a) county councils,
+- (b) councils of metropolitan districts,
+- (c) councils of non-metropolitan districts,
+- (d) councils of inner London boroughs,
+- (e) councils of outer London boroughs,
+- (f) metropolitan county police authorities and the Northumbria Police Authority, and
+- (g) metropolitan county fire and civil defence authorities.
+
+(6) In construing subsection (1) above any calculation for which another has been substituted at the time designation is proposed shall be ignored.
+
+(7) In construing subsection (2) above any precept for which another has been substituted at the time designation is proposed shall be ignored.

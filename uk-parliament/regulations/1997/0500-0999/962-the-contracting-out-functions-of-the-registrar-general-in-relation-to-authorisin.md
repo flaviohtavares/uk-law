@@ -1,0 +1,97 @@
+---
+title: The Contracting Out (functions of the Registrar General in relation to authorising re-registration of births) Order 1997
+id: uksi/1997/962
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1997-03-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1997/962
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/962/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Contracting Out (functions of the Registrar General in relation to authorising re-registration of births) Order 1997
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1997 No. 962
+
+CONTRACTING OUT
+
+The Contracting Out (functions of the Registrar General in relation to authorising re-registration of births) Order 1997
+
+Made
+
+17th March 1997
+
+Coming into force
+
+18th March 1997
+
+Whereas, this being an Order relating to the functions of the Registrar General, the Chancellor of the Exchequer has, pursuant to section 69(3) of the Deregulation and Contracting Out Act 1994[^f00001], consulted the Registrar General,
+
+Whereas a draft of this Order has been laid before Parliament and approved by a resolution of each House of Parliament under section 77(2) of that Act,
+
+Now therefore the Chancellor of the Exchequer, in exercise of the powers conferred by sections 69(2) and 77(1) of that Act and of all other powers enabling him in that behalf, hereby makes the following Order—
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Contracting Out (functions of the Registrar General in relation to authorising re-registration of births) Order 1997.
+
+(2) This Order shall come into force on the day after the day on which it is made.
+
+(3) In this Order—
+
+- (a) “the 1953 Act” means the Births and Deaths Registration Act 1953[^f00002];
+- (b) “the 1987 Regulations” means the Registration of Births and Deaths Regulations 1987[^f00003]; and
+- (c) “the Registrar General” means the Registrar General for England and Wales appointed under section 1 of the Registration Service Act 1953[^f00004].
+
+## 2. Contracting out of functions of the Registrar General in relation to authorising re-registration of births
+
+(1) This Order applies to the functions of the Registrar General which are conferred by the enactments mentioned in paragraph (2) of this article.
+
+(2) The enactments are—
+
+- (a) in the 1953 Act—
+  - (i) paragraphs (a), (b) and (c) of subsection (1) of section 10A[^f00005]; and
+  - (ii) subsections (1) and (2) of section 14[^f00006], except in so far as those provisions apply in relation to births at sea[^f00007]; and
+- (b) in the 1987 Regulations—
+  - (i) regulation 18, in so far as it applies to births which are re-registered in accordance with paragraphs (a), (b) or (c) of subsection (1) of section 10A of the 1953 Act;
+  - (ii) paragraph (a) of regulation 19;
+  - (iii) regulation 24;
+  - (iv) sub-paragraph (b) of paragraph (4) of regulation 55, in so far as it applies to clerical errors relating to an entry required to be made by regulations 20, 22 and 23; and
+  - (v) sub-paragraph (b) of paragraph (5) of regulation 56, in so far as it applies to clerical errors relating to an entry required to be made by regulations 20, 22 and 23.
+
+(3) Any function of the Registrar General to which this Order applies may be exercised by, or by employees of, such person (if any) as may be authorised in that behalf by the Registrar General.
+
+Kenneth Clarke
+
+Chancellor of the Exchequer
+
+17th March 1997
+
+(This note is not part of the Order)
+
+This Order makes provision to enable the Registrar General for England and Wales to authorise another person to exercise his functions in relation to authorising the re-registration of births to add the name of a child’s father where the parents are not married, or on legitimation of a child.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40).
+
+[^f00002]: Footnote: [1953 c. 20](https://www.legislation.gov.uk/ukpga/1953/20).
+
+[^f00003]: Footnote: S.I. [1987/2088](https://www.legislation.gov.uk/uksi/1987/2088). Relevant amendments have been made by S.I. [1989/497](https://www.legislation.gov.uk/uksi/1989/497), S.I. [1991/2275](https://www.legislation.gov.uk/uksi/1991/2275) and S.I. [1994/1948](https://www.legislation.gov.uk/uksi/1994/1948).
+
+[^f00004]: Footnote: [1953 c. 37](https://www.legislation.gov.uk/ukpga/1953/37).
+
+[^f00005]: Footnote: Section 10A was inserted by section 93(2) of the Children Act 1975, substituted by section 25 of the Family Law Reform Act 1987 and amended by section 108 of and paragraph 6 of Schedule 12 to the Children Act 1989.
+
+[^f00006]: Footnote: Section 14(1) and (2) has been amended by section 1(2) of the Legitimation (Re-registration of Birth) Act 1957; section 108(1) of and paragraph 13 of Schedule 3 to the Children Act 1975, and section 33(1) of and paragraph 16(a) of Schedule 2 to the Family Law Reform Act 1987.
+
+[^f00007]: Footnote: By virtue of section 14(4).

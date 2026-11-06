@@ -1,0 +1,223 @@
+---
+title: The Civil Enforcement of Parking Contraventions Designation (No. 2) Order 2020
+id: uksi/2020/946
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-09-02'
+text_date: '2025-07-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2020/946
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/946/pdfs/uksiem_20200946_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/946/pdfs/uksi_20200946_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/946/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Enforcement of Parking Contraventions Designation (No. 2) Order 2020
+
+> Text as at 2025-07-29.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2020 No. 946
+
+Road Traffic, England
+
+The Civil Enforcement of Parking Contraventions Designation (No. 2) Order 2020
+
+Made
+
+2nd September 2020
+
+Laid before Parliament
+
+8th September 2020
+
+Coming into force
+
+29th September 2020
+
+This Order is made in exercise of the powers conferred by paragraph 8(1) of Part 2 of Schedule 8 and paragraph 3(1) of Schedule 10 to the Traffic Management Act 2004[^f00001].
+
+Hampshire County Council, East Sussex County Council, the Council of the City of Stoke-on-Trent and Surrey County Council have each applied to the Secretary of State for an order to be made in exercise of those powers, in respect of part of its respective area.
+
+The Secretary of State has consulted the Chief Constables of the Hampshire, East Sussex, Staffordshire and Surrey Police, in accordance with the requirements of paragraph 8(3) of Part 2 of Schedule 8 and paragraph 3(4) of Schedule 10 to that Act.
+
+Accordingly, the Secretary of State[^f00002] makes this Order.
+
+## 1. Citation and commencement[^key-cf08418c1b705d47150ac9137fe487a3]
+
+This Order may be cited as the Civil Enforcement of Parking Contraventions Designation (No. 2) Order 2020 and comes into force on 29th September 2020.
+
+## 2. Interpretation[^key-3744f9cbbeef906bbf83037cfb29b093]
+
+In this Order—
+
+- “grid reference” means Ordnance Survey National Grid reference point; and
+- “strategic road network” means the highways for which Highways England Company Limited[^f00003] is the highway authority by virtue of the Appointment of a Strategic Highways Company Order 2015[^f00004].
+
+## 3. Designation of civil enforcement area and special enforcement area[^key-f73defbcf6fef8fd2232318b4ccd1307]
+
+(1) The Secretary of State designates each of the areas mentioned in paragraph (2) as—
+
+- (a) a civil enforcement area for parking contraventions; and
+- (b) a special enforcement area.
+
+(2) The areas are—
+
+- (a) in the area of Hampshire County Council, the whole of the area of Gosport Borough Council;
+- (b) in the area of East Sussex County Council, the whole of the area of the District of Rother;
+- (c) the part of the area of the Council of the City of Stoke-on-Trent specified in Schedule 1; and
+- (d) the part of the area of Surrey County Council specified in Schedule 2.
+
+## 4. Revocation[^key-e679f2cf6074f56ac26c688d80f14cbf]
+
+The following Orders are revoked—
+
+- (a) the Road Traffic (Permitted Parking Area and Special Parking Area) (City of Stoke-on-Trent) Order 2001[^f00005];
+- (b) the Road Traffic (Permitted Parking Area and Special Parking Area) (County of Surrey) (District of Mole Valley) Order 2004[^f00006];
+- (c) the Road Traffic (Permitted Parking Area and Special Parking Area) (County of Surrey) (Borough of Guildford) Order 2004[^f00007];
+- (d) the Road Traffic (Permitted Parking Area and Special Parking Area) (County of Surrey) (Borough of Reigate and Banstead) Order 2004[^f00008];
+- (e) the Road Traffic (Permitted Parking Area and Special Parking Area) (County of Surrey) (Borough of Runnymede) Order 2004[^f00009];
+- (f) the Road Traffic (Permitted Parking Area and Special Parking Area) (County of Surrey) (Borough of Epsom and Ewell) Order 2005[^f00010];
+- (g) the Road Traffic (Permitted Parking Area and Special Parking Area) (County of Surrey) (Borough of Spelthorne) Order 2005[^f00011];
+- (h) the Road Traffic (Permitted Parking Area and Special Parking Area) (County of Surrey) (Borough of Woking) Order 2005[^f00012];
+- (i) the Road Traffic (Permitted Parking Area and Special Parking Area) (County of Surrey) (Borough of Elmbridge) Order 2005[^f00013];
+- (j) the Road Traffic (Permitted Parking Area and Special Parking Area) (County of Surrey) (Borough of Surrey Heath) Order 2006[^f00014];
+- (k) the Road Traffic (Permitted Parking Area and Special Parking Area) (County of Surrey) (District of Tandridge) Order 2006[^f00015]; and
+- (l) the Road Traffic (Permitted Parking Area and Special Parking Area) (County of Surrey) (Borough of Waverley) Order 2007[^f00016].
+
+Signed by authority of the Secretary of State for Transport
+
+Vere
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+2nd September 2020
+
+## SCHEDULE 1 — The part of the area of the Council of the City of Stoke-on-Trent designated as a civil enforcement area for parking contraventions and special enforcement area[^key-8bed11fdf94669866a66708c0dfd8f6c]
+
+Article 3(2)(c)
+
+[^key-8bed11fdf94669866a66708c0dfd8f6c]
+
+The whole of the area of the Council of the City of Stoke-on-Trent except—
+
+- (a) the A50 for the whole of its length within the City from grid reference SJ8784643700 to SJ9441241467, excluding its associated slip roads; and
+- (b) the A500 for the whole of its length within the City from grid reference SJ8640846909 to SJ8593242391, excluding its associated slip roads.
+
+## SCHEDULE 2 — The part of the area of Surrey County Council designated as a civil enforcement area for parking contraventions and special enforcement area
+
+Article 3(2)(d)
+
+**1.**[^key-b428561734e54c9c0862aa554944b71c] The whole of the area of Surrey County Council except—
+
+- (a) the roads forming the parts of the strategic road network listed in paragraph 2; and
+- (b) the roads owned by, or under the control of, the Secretary of State for Defence listed in paragraph 3.
+
+### 2. Roads on the strategic road network[^key-ea3d3f89b313267950b6769b6f73d6d3]
+
+(1) The M3 motorway and its associated slip roads for the whole of its length within the County from grid reference TQ103703 to the boundary with the area of Hampshire County Council at grid reference SU866581.
+
+(2)[^key-712444351a280c1ebe60f7203b2806fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The A316 and its associated slip roads from the boundary with the London Borough of Hounslow at grid reference TQ108706 to its junction with the M3 motorway at grid reference TQ103703.
+
+(4) The M25 motorway and its associated slip roads for the whole of its length within the County from the boundary with the area of Kent County Council at grid reference TQ428546 to the boundary with the London Borough of Hillingdon at grid reference TQ036753.
+
+(5) The M23 motorway and its associated slip roads for the whole of its length within the County from the boundary with the area of West Sussex County Council at grid reference TQ305416 to its merging points with the A23 near the northern boundary of the County at grid reference TQ289545.
+
+(6)[^key-f509b742a7a5efdad162ecbb4a8a4ede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) The A3 and its associated slip roads for the whole of its length within the County from the boundary with the Royal Borough of Kingston upon Thames at grid reference TQ178654 to the boundary with the area of Hampshire County Council at grid reference SU871339.
+
+### 3. Roads owned by or under the control of Secretary of State for Defence[^key-de1c51ba536b2e118d3ac78ced9f3bdf]
+
+All roads owned by, or under the control of, the Secretary of State for Defence within the County including—
+
+- (a) Aisne Road from grid reference SU910583 to SU911582;
+- (b) Alma Gardens from grid reference—
+  - (i) SU909578 to SU913577; and
+  - (ii) SU910579 to SU913578;
+- (c) Canada Road from grid reference SU909577 to SU910576;
+- (d) Cyprus Road from grid reference SU908576 to SU910580;
+- (e) Dettingen Road from grid reference SU913577 to SU914579;
+- (f) Epsom Close from grid reference SU872617 to SU872619;
+- (g) Keogh Close from grid reference SU897545 to SU900545;
+- (h) Malta Road from grid reference SU909578 to SU910578;
+- (i) Minorca Avenue from grid reference SU910584 to SU911585;
+- (j) Newfoundland Road from grid reference SU905577 to SU911577;
+- (k) Normandy Close from grid reference SU910576 to SU910577;
+- (l) Overlord Close from grid reference SU870616 to SU870617; and
+- (m) Union Road from grid reference SU909576 to SU909577.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order designates part of the area of each of Hampshire County Council, East Sussex County Council, the Council of the City of Stoke-on-Trent and Surrey County Council as a civil enforcement area for parking contraventions, and as a special enforcement area, for the purposes of Part 6 of the Traffic Management Act 2004.
+
+An impact assessment has not been produced as no impact on the private or voluntary sectors is foreseen. An Explanatory Memorandum is available alongside the instrument on www.legislation.gov.uk .
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
+
+[^f00002]: Footnote: The Secretary of State is the “appropriate national authority” as regards England for the purposes of Part 6 of the Traffic Management Act [2004 (c.18)](https://www.legislation.gov.uk/ukpga/2004/18), by virtue of section 92 of that Act.
+
+[^key-cf08418c1b705d47150ac9137fe487a3]: Commencement: Art. 1 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
+
+[^key-3744f9cbbeef906bbf83037cfb29b093]: Commencement: Art. 2 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
+
+[^f00003]: Footnote: Incorporated in England and Wales under company number 9346363.
+
+[^f00004]: Footnote: [S.I. 2015/376](https://www.legislation.gov.uk/uksi/2015/376).
+
+[^key-f73defbcf6fef8fd2232318b4ccd1307]: Commencement: Art. 3 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
+
+[^key-e679f2cf6074f56ac26c688d80f14cbf]: Commencement: Art. 4 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
+
+[^f00005]: Footnote: [S.I. 2001/3059](https://www.legislation.gov.uk/uksi/2001/3059).
+
+[^f00006]: Footnote: [S.I. 2004/914](https://www.legislation.gov.uk/uksi/2004/914).
+
+[^f00007]: Footnote: [S.I. 2004/1278](https://www.legislation.gov.uk/uksi/2004/1278).
+
+[^f00008]: Footnote: [S.I. 2004/1285](https://www.legislation.gov.uk/uksi/2004/1285).
+
+[^f00009]: Footnote: [S.I. 2004/2616](https://www.legislation.gov.uk/uksi/2004/2616).
+
+[^f00010]: Footnote: [S.I. 2005/388](https://www.legislation.gov.uk/uksi/2005/388).
+
+[^f00011]: Footnote: [S.I. 2005/403](https://www.legislation.gov.uk/uksi/2005/403).
+
+[^f00012]: Footnote: [S.I. 2005/1645](https://www.legislation.gov.uk/uksi/2005/1645).
+
+[^f00013]: Footnote: [S.I. 2005/3407](https://www.legislation.gov.uk/uksi/2005/3407).
+
+[^f00014]: Footnote: [S.I. 2006/851](https://www.legislation.gov.uk/uksi/2006/851).
+
+[^f00015]: Footnote: [S.I. 2006/2319](https://www.legislation.gov.uk/uksi/2006/2319).
+
+[^f00016]: Footnote: [S.I. 2007/664](https://www.legislation.gov.uk/uksi/2007/664).
+
+[^key-8bed11fdf94669866a66708c0dfd8f6c]: Commencement: Sch. 1 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
+
+[^key-b428561734e54c9c0862aa554944b71c]: Commencement: Sch. 2 para. 1 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
+
+[^key-ea3d3f89b313267950b6769b6f73d6d3]: Commencement: Sch. 2 para. 2 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
+
+[^key-712444351a280c1ebe60f7203b2806fc]: Textual amendment: [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2020/946/schedule/2/paragraph/2/2) omitted (29.7.2025) by virtue of [The Civil Enforcement of Parking Contraventions Designation (No. 2) (Amendment) and the Civil Enforcement of Parking Contraventions Designation (County of Cambridgeshire) (Huntingdonshire District) Order 2025 (S.I. 2025/788)](https://www.legislation.gov.uk/uksi/2025/788), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/788/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2025/788/article/4/2)
+
+[^key-f509b742a7a5efdad162ecbb4a8a4ede]: Textual amendment: [Sch. 2 para. 2(6)](https://www.legislation.gov.uk/uksi/2020/946/schedule/2/paragraph/2/6) omitted (29.7.2025) by virtue of [The Civil Enforcement of Parking Contraventions Designation (No. 2) (Amendment) and the Civil Enforcement of Parking Contraventions Designation (County of Cambridgeshire) (Huntingdonshire District) Order 2025 (S.I. 2025/788)](https://www.legislation.gov.uk/uksi/2025/788), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/788/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2025/788/article/4/2)
+
+[^key-de1c51ba536b2e118d3ac78ced9f3bdf]: Commencement: Sch. 2 para. 3 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)

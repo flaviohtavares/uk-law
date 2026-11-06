@@ -1,0 +1,115 @@
+---
+title: The Social Security (Airmen's Benefits) Regulations 1975
+id: uksi/1975/494
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1975-03-24'
+text_date: '2010-10-01'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1975/494
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1975/494/pdfs/uksi_19750494_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1975/494/pdfs/uksi_19750494_en.pdf
+- http://www.legislation.gov.uk/uksi/1975/494/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Social Security (Airmen's Benefits) Regulations 1975
+
+> Text as at 2010-10-01.
+
+1975 No. 494
+
+SOCIAL SECURITY
+
+The Social Security (Airmen'S Benefits) Regulations 1975
+
+Made
+
+24th March 1975
+
+Laid before Parliament
+
+26th March 1975
+
+Coming into Operation
+
+6th April 1975
+
+The Secretary of State for Social Services, in exercise of the powers conferred upon her by section 129(1) of the Social Security Act 1975 and all other powers enabling her in that behalf, without having referred any proposals on the matter to the National Insurance Advisory Committee since it appears to her that by reason of urgency it is inexpedient to do so, hereby makes the following regulations:—[^key-81926f8558eafbbe099f17ee2827c04b]
+
+## 1. Citation, commencement and interpretation
+
+(1) These regulations may be cited as the Social Security (Airmen's Benefits) Regulations 1975, and shall come into operation on 6th April 1975.
+
+(2) In these regulations, unless the context otherwise requires—
+
+- “**the Act**” means the Social Security Act 1975;
+- “[^key-23e5e912d3f5420be0eeae9c5f662279]**the Welfare Reform Act**” means the Welfare Reform Act 2007;
+- “**airman**” means a person who is, or has been, employed under a contract of service either as a pilot, commander, navigator or other member of the crew of any aircraft, or in any other capacity on board any aircraft where—
+  - (a) the employment in that other capacity is for the purposes of the aircraft or its crew or of any passengers or cargo or mails carried thereby; and
+  - (b) the contract is entered into in the United Kingdom with a view to its performance (in whole or in part) while the aircraft is in flight;
+
+  but does not include a person in so far as his employment is as a serving member of the forces (as defined in regulation 1(2) of the Social Security (Contributions) Regulations 1975[^f00001]), unless he is serving or undergoing training or instruction in any of the forces mentioned in Part I of Schedule 5 to those regulations (except the regular naval, military or air forces of the Crown) for a continuous period not exceeding 72 consecutive hours;
+- “**employed as aircrew**” means employed as pilot, commander, navigator or other member of the crew of any aircraft;
+
+and other expressions have the same meanings as in the Act.
+
+(3) Any reference in these regulations to any provision made by or contained in any enactment or instrument shall, except in so far as the context otherwise requires, be construed as a reference to that provision as amended or extended by any enactment or instrument and as including a reference to any provision which it re-enacts or replaces, or which may re-enact or replace it, with or without modification.
+
+(4) The rules for the construction of Acts of Parliament contained in the Interpretation Act 1889 shall apply for the purposes of the interpretation of these regulations as they apply for the purposes of the interpretation of an Act of Parliament.
+
+## 2. Removal of disqualification in the case of airmen for receiving benefit while absent from Great Britain
+
+(1) Any person who is or has been employed as aircrew, or who is or has been under contract to travel at his employer's expense for the purpose of commencing such employment, shall not, by reason of his being absent from Great Britain (but subject to the provisions of any regulations made under section 20(2)(a) (disqualification through misconduct) of the Act or section 18(1) of the Welfare Reform Act[^key-0bcc9d7b7a1407ca68598d66362cd6df]) be disqualified on any day for receiving incapacity benefit[^key-cc1b587b82d4d86e89ce2c6ea00fba9e], employment and support allowance[^key-601b531968f9fd7dc832eeb0656f4c5d] or severe disablement allowance[^key-8213cd09cb36f28a820cd9bad534b46c] if, in respect of such day or days, he has been left outside Great Britain or his employment has been terminated or he has not commenced such employment—
+
+- (a) on account of any hurt or injury received, or any illness suffered, by him while so employed or under contract so to travel; or
+- (b) in consequence of any action taken, while he is or was so employed or under contract so to travel, for the purpose of preventing infection.
+
+(2) Where by virtue of this regulation a person is not disqualified on any day for receiving incapacity benefit[^key-2ccc67b5c13f8b413caa7b2838bbbe16], employment and support allowance[^key-e044acf20287e21786eb776c094cb4f1] or severe disablement allowance[^key-27c826644d25340bee5c31ceea35ca30], although absent from Great Britain, he shall be deemed to be incapable of work or to have limited capability for work as defined in section 1(4) of the Welfare Reform Act[^key-9494bcfaba364647c6b6349beb20c212] by reason of some specific disease or bodily or mental disablement on any such day.
+
+## 3. Application of the Act and regulations
+
+The provisions relating to benefit (other than industrial injuries benefit) of the Act and of the regulations made thereunder, and the Jobseekers Act 1995 and regulations made thereunder[^key-28a59695dbb3f391d2cc689af6fcf9b5] and Part 1 of the Welfare Reform Act and regulations made under it[^key-61347cf7ce657a4850ea7939d51a8253] shall, so far as they are not inconsistent with the provisions of these regulations, apply to an airman with this modification, that where an airman is, on account of his being outside the United Kingdom by reason of his employment as an airman, unable to perform an act required to be done either forthwith or on the happening of a certain event or within a specified time, he shall be deemed to have complied therewith if he performs the act as soon as is reasonably practicable, although after the happening of the event or the expiration of the specified time.
+
+Barbara Castle
+
+Secretary of State for Social Services
+
+EXPLANATORY NOTE
+
+These Regulations modify and amplify the general provisions relating to benefit (other than industrial injuries benefit) of the Social Security Act 1975 and the regulations made thereunder, in their application to persons who are or have been employed under a contract of service on board aircraft. They remove, in certain circumstances, the statutory disqualification for the receipt of benefit for periods of absence from Great Britain (regulation 2), and provide for the extension, in certain circumstances, in the case of an airman employed as such outside the United Kingdom, of the time within which certain acts have to be performed for the purpose of the provisions of Part I of the Act and of regulations relating to benefit (regulation 3).
+
+In so far as these regulations are made under the power conferred by section 129(1) of the Act, they only replace provisions of previous Regulations with new provisions to the same effect, and therefore, by virtue of section 167(2)(c) of the Act, are made without being laid before Parliament in draft under section 167(1) of the Act.
+
+## Annotations
+
+[^key-81926f8558eafbbe099f17ee2827c04b]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1975/494) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii)[(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+
+[^key-23e5e912d3f5420be0eeae9c5f662279]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1975/494/regulation/1/2) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [65(2)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/65/2)
+
+[^f00001]: Footnote: (1975 I, p. 1516).
+
+[^key-0bcc9d7b7a1407ca68598d66362cd6df]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1975/494/regulation/2/1) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [65(3)(a)(i)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/65/3/a/i)
+
+[^key-cc1b587b82d4d86e89ce2c6ea00fba9e]: Textual amendment: Words in reg. 2(1) substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/1995/829/regulation/3/a) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-601b531968f9fd7dc832eeb0656f4c5d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1975/494/regulation/2/1) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [65(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/65/3/a/ii)
+
+[^key-8213cd09cb36f28a820cd9bad534b46c]: Textual amendment: Words in reg. 2(1) substituted (29.11.1984) by [The Social Security (Severe Disablement Allowance) Regulations 1984 (S.I. 1984/1303)](https://www.legislation.gov.uk/uksi/1984/1303), [regs. 1](https://www.legislation.gov.uk/uksi/1984/1303/regulation/1), [14](https://www.legislation.gov.uk/uksi/1984/1303/regulation/14)
+
+[^key-2ccc67b5c13f8b413caa7b2838bbbe16]: Textual amendment: Words in reg. 2(2) substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/1995/829/regulation/3/b) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-e044acf20287e21786eb776c094cb4f1]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1975/494/regulation/2/2) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [65(3)(b)(i)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/65/3/b/i)
+
+[^key-27c826644d25340bee5c31ceea35ca30]: Textual amendment: Words in reg. 2(2) substituted (29.11.1984) by [The Social Security (Severe Disablement Allowance) Regulations 1984 (S.I. 1984/1303)](https://www.legislation.gov.uk/uksi/1984/1303), [regs. 1](https://www.legislation.gov.uk/uksi/1984/1303/regulation/1), [14](https://www.legislation.gov.uk/uksi/1984/1303/regulation/14)
+
+[^key-9494bcfaba364647c6b6349beb20c212]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1975/494/regulation/2/2) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [65(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/65/3/b/ii)
+
+[^key-28a59695dbb3f391d2cc689af6fcf9b5]: Textual amendment: Words in reg. 3 inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [9](https://www.legislation.gov.uk/uksi/1996/1345/regulation/9)
+
+[^key-61347cf7ce657a4850ea7939d51a8253]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1975/494/regulation/3) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [65(4)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/65/4)

@@ -1,0 +1,309 @@
+---
+title: The Smoke Control Areas (Authorised Fuels) Regulations 1991
+id: uksi/1991/1282
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1991-05-30'
+text_date: '1991-05-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1991/1282
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1991/1282/data.pdf
+pending_changes: 82
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Smoke Control Areas (Authorised Fuels) Regulations 1991
+
+> **Warning: changes not yet applied to this text (82).** Text as at 1991-05-30. See https://www.legislation.gov.uk/changes/affected/uksi/1991/1282
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+**Not yet in force.**
+
+1991 No. 1282
+
+CLEAN AIR
+
+The Smoke Control Areas (Authorised Fuels) Regulations 1991
+
+Made
+
+30th May 1991
+
+Laid before Parliament
+
+6th June 1991
+
+Coming into force
+
+1st July 1991
+
+The Secretary of State for the Environment as respects England andWales and the Secretary of State for Scotland as respects Scotland, inexercise of the powers conferred by sections 11(2) and 34(1)[^f00001]of the Clean Air Act 1956[^f00002] and of all other powers enabling them in that behalf,hereby make the following Regulations:
+
+## 1. Citation and commencement[^key-4858c95c572032393deff1879c2bd6f2]
+
+These Regulations may be cited as the Smoke Control Areas (Authorised Fuels) Regulations 1991 and shall come into force on 1st July 1991.
+
+## 2. Authorised fuels for the purposes of the Clean Air Act 1956[^key-e1932b0404e181472c0f9be3c4c6ac8c]
+
+Anthracite, semi-anthracite, electricity, gas, low volatile steamcoals and the fuels described in Schedule 1 are declared to beauthorised fuels for the purposes of the Clean Air Act 1956.
+
+## 3. Revocations and savings[^key-13b136ba5347b8c4db5028cd19870ad0]
+
+(1) The Regulations listed in Schedule 2 are revoked.
+
+(2) Fuel manufactured before 1st July 1991 which immediately before thatdate was authorised fuel for the purposes of the Clean Air Act 1956shall continue to be authorised fuel for those purposes notwithstandingthe revocation of the Regulations listed in Schedule 2.
+
+Michael Heseltine
+
+Secretary of State for the Environment
+
+30th May 1991
+
+Michael Forsyth
+
+Minister of State, Scottish Office
+
+23rd May 1991
+
+## SCHEDULE 1 — AUTHORISED FUELS
+
+Regulation 2
+
+**1.**[^key-4bc30c0183eca4d193be1deaff9fb936] Ancit 40 and Ancit 60 briquettes, manufactured by Coal ProductsLimited at Aberaman, Mid Glamorgan, which—
+
+- (a) comprise anthracite and coke breeze (as to approximately 75 per centof the total weight) and coking coal (as to the remaining weight);
+- (b) were manufactured from those constituents by a process involvingheat treatment, roll-pressing and further heat treatment at about400°C;
+- (c) are unmarked cushion-shaped briquettes and have an average weight of40 grammes (Ancit 40) or 60 grammes (Ancit 60); and
+- (d) have a sulphur content not exceeding 1.5 per cent of the totalweight.
+
+**2.**[^key-13f5af10d55f53098e01b402eb9eda30] Anthracine N20 briquettes, manufactured by Agglonord,Agglomération du Nord, at Oignies, France, which—
+
+- (a) comprise anthracite (as to approximately 95 per cent of the totalweight) and starch as binder (as to the remaining weight);
+- (b) were manufactured from those constituents by a process involvingroll-pressing and heat treatment at about 150°C;
+- (c) are ovoids marked with one arrow and have an average weight of 20grammes; and
+- (d) have a sulphur content not exceeding 0.8 per cent of the totalweight.
+
+**3.**[^key-8bd88e8083a8a2f18b8eb4bd46580711] Anthranor briquettes, manufactured by Agglonord,Agglomération du Nord, at Oignies, France, which—
+
+- (a) comprise anthracite (as to approximately 95 per cent of the totalweight) and starch asbinder (as to the remaining weight);
+- (b) were manufactured from those constituents by a process involvingroll-pressing and heattreatment at about 150°C;
+- (c) are cushion-shaped briquettes with rounded corners and have anaverage weight of 30 grammes; and
+- (d) have a sulphur content not exceeding 0.8 per cent of the totalweight.
+
+**4.**[^key-758c07f2ed9961ad08d32222faa87825] Antrex briquettes, manufactured by Agglonord, Agglomérationdu Nord, at Oignies, France, which—
+
+- (a) comprise anthracite;
+- (b) were manufactured from the anthracite by a process involvingroll-pressing and heat treatment at about 180°C;
+- (c) are pillow-shaped ovoids with three small grooves on one side andhave an average weight of 40 grammes; and
+- (d) have a sulphur content not exceeding 1 per cent of the total weight.
+
+**5.**[^key-87a1092ee44e52017c85aa72bf63a5de] Centurion briquettes, manufactured by Greystone Heating MarketingLimited at Hamilton, Lanarkshire, which—
+
+- (a) comprise anthracite (as to approximately 90 per cent of the totalweight) and molasses and phosphoric acid as binder (as to the remainingweight);
+- (b) were manufactured from those constituents by a process involvingroll-pressing and heat treatment at about 250°C;
+- (c) are unmarked ovoids and have an average weight of 35 grammes; and
+- (d) have a sulphur content not exceeding 1.5 per cent of the totalweight.
+
+**6.**[^key-28d9d4b695cb7a15036b51ef9b4bf82a] Clean Flame briquettes, manufactured by Taybrite Limited atLlanelli, Dyfed, which—
+
+- (a) comprise a blend of anthracite and semi-anthracite coal (as toapproximately 94.5 per cent of the total weight) and hard grade bitumenbinder (as to the remaining weight);
+- (b) were manufactured from those constituents by a process involvingroll-pressing and heat treatment at about 250°C;
+- (c) are unmarked pillow-shaped briquettes and have an average weight of100 grammes; and
+- (d) have a sulphur content not exceeding 1.5 per cent of the totalweight.
+
+**7.**[^key-a634353326422fdaf608aad018dd2535] Coalite manufactured by Coalite Products Limited at Bolsover, nearChesterfield, Derbyshire and at Grimethorpe, Yorkshire using a lowtemperature carbonisation process.
+
+**8.**[^key-d1b16c3c0084b7308417cdb3d301dd38] Coke manufactured by—
+
+- (a) Coal Products Limited at Avenue Coking and Chemical Works,Wingerworth, near Chesterfield, Derbyshire and sold as“Sunbrite” or“Beacon Beans”;
+- (b) Monckton Coke & Chemical Company Limited at Royston, near Barnsley,South Yorkshire and sold as“Sunbrite” or“Monckton Boiler Beans”;
+- (c) Association Cooperative Zelandaise de Carbonisation at Sluiskil, theNetherlands and sold as“Dutch (Sluiskil) Coke Doubles”.
+
+**9.**[^key-66bce0596591eccf1f03776de3e71f3f] Extracite briquettes, manufactured by Sophia-Jacoba Handelsgesellschaft mbH at Hückelhoven, Germany, which—
+
+- (a) comprise anthracite duff (as to approximately 95.5 per cent of thetotal weight) and ammonium lignosulphonate lye as binder (as to theremaining weight);
+- (b) were manufactured from those constituents by a process involvingroll-pressing and heattreatment at about 260°C;
+- (c) are cushion-shaped briquettes with a silvery appearance and aremarked with the letters“S” and“J” and have an average weight of 40 grammes; and
+- (d) have a sulphur content of approximately 1.2 per cent of the totalweight.
+
+**10.**[^key-e25742fa807407e454cb7890a80c0aae] Fireglo briquettes, manufactured by Les Combustibles de Normandie atCaen, France, and by La Société Rouennaise de Defumage atRouen, France, which—
+
+- (a) comprise washed Welsh duffs (as to approximately 92 per cent of thetotal weight) and coal pitch binder (as to the remaining weight);
+- (b) were manufactured from those constituents by a process involvingroll-pressing and heattreatment at about 330°C;
+- (c) are ovoids with three lines on one side and are smooth on the otherside and have anaverage weight of 30 grammes; and
+- (d) have a sulphur content not exceeding 0.8 per cent of the totalweight.
+
+**11.**[^key-28ce5525a3ccbbfd7337071f0023e35a] Flamelite pellets, manufactured by Alfred McAlpine Energy Limited atRheola Works, Resolven, West Glamorgan, which—
+
+- (a) comprise pre-mixed anthracite duff and filter cake combined with afixed proportion of starch-based binder;
+- (b) were manufactured from those constituents by a process involvingextrusion and heat treatment at about 100°C;
+- (c) are unmarked pellets approximately 25mm in diameter and between 20mmand 35mm in length; and
+- (d) have a sulphur content not exceeding 1 per cent of the total weight.
+
+**12.**[^key-8bd4548d39d53f07cec7af4e6d8bcfe3] Homefire briquettes, manufactured by Coal Products Limited atCoventry, Warwickshire, which—
+
+- (a) comprise crushed bituminous coal;
+- (b) were manufactured from the coal by a process involving heattreatment at about 450°C and extrusion;
+- (c) are unmarked hexagonal briquettes and have an average weight of 200grammes; and
+- (d) have a sulphur content not exceeding 1.5 per cent of the totalweight.
+
+**13.**[^key-25cd8bba2b940cb60a85cd7e1916699d] Maxibrite briquettes, manufactured by Maxibrite Limited atLlantrisant, Mid Glamorgan, which—
+
+- (a) comprise anthracite fines (as to approximately 99 per cent of thetotal weight) and bitumenas binder (as to the remaining weight);
+- (b) were manufactured from those constituents by a process involvingroll-pressing and heattreatment at between 270°C and 300°C;
+- (c) are cushion-shaped briquettes marked with the letter“M” and have an average weight of 35 grammes; and
+- (d) have a sulphur content of approximately 1 per cent of the totalweight.
+
+**14.**[^key-e2dfc1bae342bcf20dbd73fdc733b0a3] New Taybrite briquettes, manufactured by Taybrite Limited atLlanelli, Dyfed, which—
+
+- (a) comprise anthracite fines (as to approximately 94 per cent of thetotal weight) and bitumen as binder (as to the remaining weight);
+- (b) were manufactured from those constituents by a process involvingagglomeration with steam, roll-pressing and heat treatment at about280°C;
+- (c) are cushion-shaped briquettes imprinted with a flame motif and havean average weight of 47 grammes; and
+- (d) have a sulphur content of approximately 1 per cent of the totalweight.
+
+**15.**[^key-49c3a06cc74b153d27dfb75cf9eee401] Phurnacite briquettes, manufactured by Coal Products Limited atImmingham BriquettingWorks, Immingham, Humberside, which—
+
+- (a) comprise anthracite duff (as to approximately 85 per cent of thetotal weight) and molassesand phosphoric acid as binder (as to theremaining weight);
+- (b) were manufactured from those constituents by a process involvingroll-pressing and heattreatment at about 300°C;
+- (c) are ovoid-shaped briquettes with two parallel indented lines runninglongitudinally around the briquette and have an average weight of 40grammes; and
+- (d) have a sulphur content not exceeding 1.5 per cent of the totalweight.
+
+**16.**[^key-68bd930ce47192b518f991734b593786] Pureheat ovoids, manufactured by Applied Industrial MaterialsCorporation (AIMCOR) at Rotterdam, the Netherlands, which—
+
+- (a) comprise petroleum coke (as to 60 to 75 per cent of the totalweight), bituminous coal (as to 10 to 20 per cent of the total weight),limestone (as to 6 to 10 per cent of the total weight) and a coal tarpitch binder (as to the remaining weight);
+- (b) were manufactured from those constituents by a process involvingroll-pressing, carboni-sation for 30 minutes at 550°C to 600°Cand hardening in sand at about 500°C for a further 30 minutes;
+- (c) are ovoids with two indentations on one side and one indentation onthe other side running parallel to the longest side and have an averageweight of 90 grammes; and
+- (d) have a sulphur content not exceeding 1.5 per cent of the totalweight.
+
+**17.**[^key-21ca05ff13c5f7de268c57b152b767c5] Sovereign briquettes, manufactured by the Monckton Coke & ChemicalCompany Limited at Royston, near Barnsley, South Yorkshire,which—
+
+- (a) comprise anthracite (as to approximately 75 per cent of the totalweight), coal and reactivecoke (as to approximately 21 per cent of thetotal weight) and cold-setting resin binder (as to the remainingweight);
+- (b) were manufactured from those constituents by a process involvingextrusion;
+- (c) are unmarked hexagonal briquettes and have an average weight of 130grammes; and
+- (d) have a sulphur content not exceeding 2 per cent of the total weight.
+
+**18.**[^key-9891db1747eca10fde16111b532858e0] Supertherm briquettes, manufactured by Thermac Fuels Limited atShildon, County Durham, which—
+
+- (a) comprise a blend (in the proportion of 19:1) of anthracite andmedium volatile coal (as to approximately 93 per cent of the totalweight) and cold-setting organic binder (as to the remaining weight);
+- (b) were manufactured from those constituents by a process involvingroll-pressing;
+- (c) are unmarked ovoids and have an average weight of 160 grammes; and
+- (d) have a sulphur content not exceeding 1.5 per cent of the totalweight.
+
+**19.**[^key-12d33226139fb4d6767a32e70f9fcc54] Thermac briquettes, manufactured by Thermac Fuels Limited atShildon, County Durham, which—
+
+- (a) comprise anthracite (as to approximately 90 per cent of the totalweight) and cold-setting organic binder (as to the remaining weight);
+- (b) were manufactured from those constituents by a process involvingroll-pressing;
+- (c) are unmarked pillow-shaped briquettes and have an average weight of48 grammes; and
+- (d) have a sulphur content not exceeding 1.5 per cent of the totalweight.
+
+**20.**[^key-355e63767667b9700dcc64b8014608ec] Thermobrite briquettes and Thermaglow briquettes, manufactured byVolkseigener Betrieb Gaskombinat“Fritz Selbmann” Schwarze Pumpe at Lauchhammer, Germany, which—
+
+- (a) comprise milled lignite;
+- (b) were manufactured from the lignite by a process involving extrusion,drying and heat treatment at a temperature greater than 900°C;
+- (c) are unmarked briquettes which are produced in three sizes:Thermobrite or Thermaglow Large, Thermobrite or Thermaglow Doubles andThermobrite or Thermaglow Beans; and
+- (d) have a sulphur content not exceeding 2 per cent of the total weight.
+
+## SCHEDULE 2 — REVOCATIONS
+
+Regulation 3
+
+### England and Wales
+
+| *Regulations revoked* | *Reference* |
+| --- | --- |
+| The Smoke Control Areas (Authorised Fuels) Regulations 1956 | S.I. [1956/2023](https://www.legislation.gov.uk/uksi/1956/2023) |
+| The Smoke Control Areas (Authorised Fuels) Regulations 1963 | S.I. [1963/1275](https://www.legislation.gov.uk/uksi/1963/1275) |
+| The Smoke Control Areas (Authorised Fuels) (No. 2) Regulations 1965 | S.I. [1965/1951](https://www.legislation.gov.uk/uksi/1965/1951) |
+| The Smoke Control Areas (Authorised Fuels) Regulations 1969 | S.I. [1969/1798](https://www.legislation.gov.uk/uksi/1969/1798) |
+| The Smoke Control Areas (Authorised Fuels) (No. 2) Regulations 1970 | S.I. [1970/1545](https://www.legislation.gov.uk/uksi/1970/1545) |
+| The Smoke Control Areas (Authorised Fuels) Regulations 1971 | S.I. [1971/1004](https://www.legislation.gov.uk/uksi/1971/1004) |
+| The Smoke Control Areas (Authorised Fuels) (No. 2) Regulations 1971 | S.I. [1971/1199](https://www.legislation.gov.uk/uksi/1971/1199) |
+| The Smoke Control Areas (Authorised Fuels) (No. 3) Regulations 1971 | S.I. [1971/1875](https://www.legislation.gov.uk/uksi/1971/1875) |
+| The Smoke Control Areas (Authorised Fuels) (No. 4) Regulations 1971 | S.I. [1971/2135](https://www.legislation.gov.uk/uksi/1971/2135) |
+| The Smoke Control Areas (Authorised Fuels) Regulations 1978 | S.I. [1978/99](https://www.legislation.gov.uk/uksi/1978/99) |
+| The Smoke Control Areas (Authorised Fuels) Regulations 1981 | S.I. [1981/192](https://www.legislation.gov.uk/uksi/1981/192) |
+| The Smoke Control Areas (Authorised Fuels) Regulations 1982 | S.I. [1982/639](https://www.legislation.gov.uk/uksi/1982/639) |
+| The Smoke Control Areas (Authorised Fuels) Regulations 1985 | S.I. [1985/1812](https://www.legislation.gov.uk/uksi/1985/1812) |
+| The Smoke Control Areas (Authorised Fuels) (No. 2) Regulations 1986 | S.I. [1986/1480](https://www.legislation.gov.uk/uksi/1986/1480) |
+| The Smoke Control Areas (Authorised Fuels) (No. 2) Regulations 1987 | S.I. [1987/2159](https://www.legislation.gov.uk/uksi/1987/2159) |
+| The Smoke Control Areas (Authorised Fuels) Regulations 1988 | S.I. [1988/1607](https://www.legislation.gov.uk/uksi/1988/1607) |
+| The Smoke Control Areas (Authorised Fuels) Regulations 1990 | S.I. [1990/319](https://www.legislation.gov.uk/uksi/1990/319) |
+
+### Scotland
+
+| *Regulations revoked* | *Reference* |
+| --- | --- |
+| The Smoke Control Areas (Authorised Fuels) (Scotland) Regulations 1982 | S.I. [1982/449](https://www.legislation.gov.uk/uksi/1982/449) |
+| The Smoke Control Areas (Authorised Fuels) (Scotland) Regulations 1986 | S.I. [1986/892](https://www.legislation.gov.uk/uksi/1986/892) |
+| The Smoke Control Areas (Authorised Fuels) (Scotland) Regulations 1988 | S.I. [1988/1270](https://www.legislation.gov.uk/uksi/1988/1270) |
+
+(This note is not part of the Regulations)
+
+Section 11 of the Clean Air Act 1956 makes the occupier of abuilding within a smoke control area guilty of an offence if smoke isemitted from the chimney of that building unless it can be proved thatthe emission of smoke was caused solely by the use of an authorisedfuel. These Regulations revoke all previous authorised fuel Regulationsand specify all fuels which are currently authorised fuels for thepurposes of the 1956 Act. The specified fuels are authorised for use inany part of Great Britain. Although most of the fuels in theseRegulations have previously been authorised fuels, there have beenchanges in the way in which the fuels are described in many cases. Thedescriptions reflect current manufacturing methods.
+
+Ancit 40 and 60 briquettes, anthracite, electricity, Extracite briquettes, Flamelite pellets, gas, low volatile steam coals, Maxibrite and New Taybritebriquettes continue to be authorised for use in any part of GreatBritain. Anthracine N20, Antrex, Fireglo, Sovereign, Thermac, Thermaglowand Thermobrite briquettes were only previously authorised for use inEngland and Wales but may now also be used in Scotland. Centurionbriquettes and semi-anthracite were only previously authorised for usein Scotland but may now also be used in England and Wales.
+
+Anthranor, Clean Flame, Phurnacite and Supertherm briquettes and Pureheat ovoids are authorised for use for the first time in any part of Great Britain.
+
+Homefire briquettes, Sunbrite, Beacon Beans, Monckton Boiler Beans,Dutch (Sluiskil) Coke Doubles and Coalite are authorised for use in anypart of Great Britain by name for the first time.
+
+Fuel which was manufactured before 1st July 1991 and which was authorised by Regulations revoked by these Regulations may be used notwithstanding the revocation.
+
+## Annotations
+
+[^f00001]: Footnote: See the definition of“authorised fuel”and“the Minister” in section 34(1) of the Clean Air Act 1956. The powers of the Ministeras respects England and Wales are now vested in the Secretary of Stateby virtue of S.I. [1970/1681](https://www.legislation.gov.uk/uksi/1970/1681).
+
+[^f00002]: Footnote: [1956 c. 52](https://www.legislation.gov.uk/ukpga/1956/52).
+
+[^key-4858c95c572032393deff1879c2bd6f2]: Commencement: Reg. 1 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-e1932b0404e181472c0f9be3c4c6ac8c]: Commencement: Reg. 2 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-13b136ba5347b8c4db5028cd19870ad0]: Commencement: Reg. 3 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-4bc30c0183eca4d193be1deaff9fb936]: Commencement: Sch. 1 para. 1 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-13f5af10d55f53098e01b402eb9eda30]: Commencement: Sch. 1 para. 2 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-8bd88e8083a8a2f18b8eb4bd46580711]: Commencement: Sch. 1 para. 3 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-758c07f2ed9961ad08d32222faa87825]: Commencement: Sch. 1 para. 4 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-87a1092ee44e52017c85aa72bf63a5de]: Commencement: Sch. 1 para. 5 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-28d9d4b695cb7a15036b51ef9b4bf82a]: Commencement: Sch. 1 para. 6 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-a634353326422fdaf608aad018dd2535]: Commencement: Sch. 1 para. 7 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-d1b16c3c0084b7308417cdb3d301dd38]: Commencement: Sch. 1 para. 8 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-66bce0596591eccf1f03776de3e71f3f]: Commencement: Sch. 1 para. 9 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-e25742fa807407e454cb7890a80c0aae]: Commencement: Sch. 1 para. 10 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-28ce5525a3ccbbfd7337071f0023e35a]: Commencement: Sch. 1 para. 11 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-8bd4548d39d53f07cec7af4e6d8bcfe3]: Commencement: Sch. 1 para. 12 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-25cd8bba2b940cb60a85cd7e1916699d]: Commencement: Sch. 1 para. 13 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-e2dfc1bae342bcf20dbd73fdc733b0a3]: Commencement: Sch. 1 para. 14 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-49c3a06cc74b153d27dfb75cf9eee401]: Commencement: Sch. 1 para. 15 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-68bd930ce47192b518f991734b593786]: Commencement: Sch. 1 para. 16 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-21ca05ff13c5f7de268c57b152b767c5]: Commencement: Sch. 1 para. 17 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-9891db1747eca10fde16111b532858e0]: Commencement: Sch. 1 para. 18 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-12d33226139fb4d6767a32e70f9fcc54]: Commencement: Sch. 1 para. 19 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)
+
+[^key-355e63767667b9700dcc64b8014608ec]: Commencement: Sch. 1 para. 20 in force at 1.7.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/1282/regulation/1)

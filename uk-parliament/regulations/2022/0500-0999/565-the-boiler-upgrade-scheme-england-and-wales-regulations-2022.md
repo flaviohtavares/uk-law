@@ -1,0 +1,1467 @@
+---
+title: The Boiler Upgrade Scheme (England and Wales) Regulations 2022
+id: uksi/2022/565
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2022-05-22'
+text_date: '2026-04-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2022/565
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/565/pdfs/uksiem_20220565_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/565/pdfs/uksi_20220565_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/565/data.pdf
+pending_changes: 5
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Boiler Upgrade Scheme (England and Wales) Regulations 2022
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/uksi/2022/565
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2022 No. 565
+
+Energy, England And Wales
+
+The Boiler Upgrade Scheme (England and Wales) Regulations 2022
+
+Made
+
+22nd May 2022
+
+Coming into force
+
+23rd May 2022
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 100 and 104(2) of the Energy Act 2008[^f00001]. In accordance with section 105(3)[^f00002] of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament. In accordance with section 148A of the Government of Wales Act 2006[^f00003] the Secretary of State has consulted the Welsh Ministers.
+
+## PART 1 — Introductory provisions
+
+### 1. Citation, commencement and extent[^key-7f83a6808dd02a96e9b7a1e96edc1d7b]
+
+(1) These Regulations may be cited as the Boiler Upgrade Scheme (England and Wales) Regulations 2022 and come into force on the day after the day on which they are made.
+
+(2) These Regulations extend to England and Wales only.
+
+### 2. Interpretation[^key-6445a176e0bd6d38c30dacaac877fe59]
+
+(1) In these Regulations—
+
+- “[^key-8daeeaab0303284717567210b0c5de12]**air-to-air heat pump**” means a plant which generates heat using a thermodynamic cycle by transferring energy stored in the form of heat in the air and uses that energy to heat air for the purposes of space heating;
+- “[^key-c45e4598f17aea67e3bef9dad8035b75]**air-to-water heat pump**” means a plant[^f00004] which generates heat using a thermodynamic cycle by transferring energy stored in the form of heat in the air and uses that energy to heat a liquid for the purposes of space heating;
+- “[^key-ebbb9ae2f839737878a5894195473fc1]**boiler upgrade grant**” means the grant, the value of which has been published under regulation 13(1), (4) or (5) which is payable by the Authority to an installer under these Regulations;
+- “**boiler upgrade voucher**” has the meaning given in regulation 15(1);
+- “**biomass boiler**” means a plant which—
+  - (a) is designed and installed to burn solid biomass[^f00006] to provide heat,
+  - (b) is designed to minimise direct heat loss to the immediate area in which it is installed,
+  - (c) is not capable of providing heat to a property without using a liquid to deliver that heat, and
+  - (d) is not designed to generate heat for the purpose of cooking food where that function is not able to be controlled independently of the heating or hot water[^key-303fcb2bcfeac38d9e511863e001e658];
+- “**building**” means a roofed , permanent[^key-cbfdb3b6bad8ab2aca4ecf691b91e066] construction having walls, for which energy is used to condition the indoor climate, and reference to a building includes reference to a building unit in that building;
+- “**building unit**” means a section, floor or apartment within a building which is designed or altered to be used separately;
+- “**commencement date**” means the day on which these Regulations come into force;
+- “**commissioned**”, in relation to a plant, means the completion of such procedures and tests as constitute, at the time they are undertaken, the usual industry standards and practices for that type of plant which demonstrate that it is capable of operating and generating heat;
+- “**connected person**”, in relation to an installer, means any person connected to them within the meaning of section 1122 of the Corporation Tax Act 2010[^f00007];
+- “**consumer code**” means a code of practice for the purpose of consumer protection approved by the Secretary of State under regulation 4(1)(j);[^key-4b08d2dbf85eb3dccfcdb37267127392]
+- “**eligible plant**” has the meaning given in regulation 8;
+- “**eligible property**” has the meaning given in regulation 5;
+- “**energy performance certificate**” has the meaning given in regulation 2(1) of the EPB Regulations;
+- “**the EPB Regulations**” means the Energy Performance of Buildings (England and Wales) Regulations 2012[^f00009];
+- “**financial year**” means—
+  - (a) the period beginning with the commencement date and ending with 31st March 2023, or
+  - (b) any subsequent 12 month period beginning with 1st April and ending with the following 31st March;
+- “**grant application**” has the meaning given in regulation 14(1);
+- “**grant change notice**” has the meaning given in regulation 13(4);
+- “[^key-0338af49b28e8cc9f4b94f97bc0c9bbd]**grant from public funds**” means a grant made by a public authority or by any person distributing funds on behalf of a public authority;
+- “**ground source heat pump**” means a plant which generates heat using a thermodynamic cycle by transferring energy stored in the form of heat from the ground, including water in the ground or surface water or both, and uses that energy to heat a liquid for the purposes of space heating[^key-924ba2bbd5aa492478c8338178a583f5];
+- “**heat network**” means a network that, by distributing a liquid or a gas, enables the transfer of thermal energy for the purpose of supplying heating, cooling or hot water to two or more properties (and includes any appliance the main purpose of which is to heat or cool the liquid or gas);
+- “**heat pump**” means a plant which is an air-to-air heat pump or an air-to-water heat pump[^key-c4a10c3744846ab26d9de6af00b7013e] or a ground source heat pump or any combination of the three[^key-c1534b6c02edc8677e582b4a10014e6d];
+- “[^key-3be337dcf919fd189f36b2de33b40f40]**installer**” means a person who is certified by the Microgeneration Certification Scheme or a subsequent version of the Microgeneration Certification Scheme, approved by the Secretary of State under regulation 4(1A);
+- “**installer obligation**” means an obligation specified in regulation 17;
+- “**mains gas**” means a supply of the kind mentioned in section 5(1)(b) of the Gas Act 1986[^f00011];
+- “**Microgeneration Certification Scheme**”means the scheme under that name operated by the MCS Service Company Ltd (a company registered in England and Wales with company number 07759366);
+- “**new-build property**” means an eligible property that meets the requirements set out in regulation 7;
+- “**non-residential building**” means a building or building unit which is used—
+  - (a) for the purposes of a trade, profession or vocation,
+  - (b) as an office (whether or not for the purposes of a trade, profession or vocation),
+  - (c) for educational purposes, or
+  - (d) for religious purposes,
+
+  and which is not in use as, or as part of, a dwelling house;
+- “**NOx**” means oxides of nitrogen;
+- “**off-gas grid property**” means a property that is not attached to a heat network and—
+  - (a) is not fuelled by mains gas,
+  - (b) there is no record of a gas meter point at the property, and
+  - (c) is not a new-build property;
+- “**original heating system**” has the meaning given in regulation 5(1)(c)(ii);
+- “**PM**” means particulate matter;
+- “properly made”—
+  - (a) in the case of a grant application, means an application which provides the information required by regulation 14(3), and in relation to which any information specified in a notice issued in accordance with regulation 14(4) or (5) has been received by the Authority,
+  - (b) in relation to a redemption application, means an application which provides the information required by regulation 16(3), and in relation to which any information required by a notice issued in accordance with regulation 16(4) has been received by the Authority;
+- “**quarter**” means a period of three months beginning with 1st January, 1st April, 1st July, or 1st October;
+- “**recommendation report**” has the meaning given in regulation 4(1) of the EPB Regulations;
+- “**redemption application**” has the meaning given in regulation 16(1);
+- “**related property**”, in relation to an eligible property, [^key-c0f223d754ef8f4bd5cefaf4eb5260b3]... means any building or swimming pool which is used by, or available for the use of, an owner or occupier of that property [^key-02047d71bdaebb16e48655fee071e229]...;
+- “**relevant installation standard**” has the meaning given in paragraph 2 of Schedule 4;
+- “**relevant financial year**” means a financial year beginning with—
+  - (a) the commencement date,
+  - (b) 1st April 2023,[^key-63fac6b0abda17e34813aed0930e7ef1]
+  - (c) 1st April 2024,
+  - (d) 1st April 2025,
+  - (e) 1st April 2026,[^key-5fcdace38691538e987cf9680449f026]
+  - (f) 1st April 2027,
+  - (g) 1st April 2028, or
+  - (h) 1st April 2029;
+- “**the Scheme**” has the meaning given in regulation 3;
+- “**supplementary appliance**” means a heating appliance installed in an eligible property that is not fuelled by fossil fuel
+- “**UKAS**” means the United Kingdom Accreditation Service, a company limited by guarantee and incorporated in England and Wales under number 3076190;
+- “[^key-181e85c14285a13cba0753f4f09a8711]**urban area**” means an area classified as urban in the “2021 rural-urban classification of output areas” published by the Office for National Statistics in August 2025[^f00006];
+
+(2) For the purposes of these Regulations, an energy performance certificate for a property is “valid” if—
+
+- (a) it was entered on the register required to be maintained under regulation 27(1) of the EPB Regulations no more than 10 years before the date on which it is relied on for the purposes of a grant application in relation to that property, and
+- (b) no other energy performance certificate for the property has since been entered on the register.
+
+(3) Where there is more than one owner of a property, then any reference in these Regulations to the owner of the property includes any person who is an owner of the property.
+
+(4)[^key-d401ef9acad636c30d21ca7595a4d018] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) For the purposes of these Regulations, a property does not cease to be “fuelled by mains gas” if the supply meter point in relation to the property is capped or clamped, where “**supply meter point**” has the meaning given in the Uniform Network Code (as defined in section 36C(7) of the Gas Act 1986)[^f00013].
+
+### 3. The Boiler Upgrade Scheme[^key-384cf4eda8959172bca6008f7462f65a]
+
+A scheme to be known as the Boiler Upgrade Scheme, which is a scheme to facilitate and encourage the use of heat pumps and biomass boilers in the space and water heating of certain properties (“**the Scheme**”), is established by these Regulations.
+
+### 4. Approval of standards or schemes by the Secretary of State[^key-9c1c0516d9219c1ae640b5702ffbc60f]
+
+(1) The Secretary of State must approve—
+
+- (a)[^key-ea7a53c741883127e49911ee64610e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) one or more standards for heat pumps for the purposes of regulation 9(1)(c),
+- (c) one or more standards[^key-e8ac576375c73e1c24a0fedfbb71d10e] for the purposes of regulation 9(1)(d),
+- (d) one or more standards for biomass boilers for the purposes of regulation 10(1)(c),
+- (e) a standard for the purposes of paragraph 1 of Schedule 1,
+- (f) a standard for the purposes of paragraph 2 of Schedule 1,
+- (g) a standard in relation to NOx emissions and a standard in relation to PM emissions for the purposes of paragraph 3(a) of Schedule 1,
+- (h) one or more installation standards for—
+  - (i) biomass boilers, and
+  - (ii) heat pumps,
+
+  for the purposes of paragraph 2(a) of Schedule 4, [^key-3d5dabebfb66ee5dc16b818312a55608]... and[^key-024d56b58d5db9775beb0895f1da738d]
+- (i)[^key-d82b53cd2ea6733665229f30192bb44f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^key-e5b1c17ea499583961889cbcd8ee3d3b] one or more codes of practice for consumer protection for the purpose of the definition of “consumer code” in regulation 2(1).
+
+(1A)[^key-09306f6255de7e555d8256a2325af3d8] The Secretary of State may approve a subsequent version of the Microgeneration Certification Scheme for the purpose of the definition of “installer” in regulation 2(1).
+
+(2) The Secretary of State may withdraw the approval of any standard or scheme under paragraph (1) or (1A)[^key-bbbf4bcbb5a7c8da5c0a13b4a3506e48].
+
+(3) The Secretary of State must—
+
+- (a) publish the details of the standards or schemes first approved under paragraph (1) before the end of the commencement date to have effect from that date,
+- (b) publish the details of any subsequent standard or scheme which is approved under paragraph (1) or (1A)[^key-c78bf2e72b08d03e7f7aad21a4eeed5f], and the date from which it is approved, and
+- (c) where the approval of a standard or scheme is withdrawn under paragraph (2), publish that fact together with the date on which it ceased to be approved.
+
+## PART 2 — Eligible properties
+
+### 5. Eligible properties[^key-2fa4f3bf5d555f4857c8416a2818357d]
+
+(1) For the purposes of these Regulations, a property is an eligible property where—
+
+- (a) it is a building,
+- (b) it is not social housing,
+- (c) if it has had any heating system installed, and was, or will be, first occupied or used[^key-01696bcc553e861f8eaf60cfcf6ae6a3] before the date on which the relevant eligible plant is commissioned—
+  - (i)[^key-d90eba6f982f1cf40eee3b2818aad31d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) the system providing space heating or water heating (if water heating is present)[^key-53b51b07ca82edfdf89c98ae764baaff][^key-15665a13d68f1c47d98906acd2c14891]..., of the property prior to the installation and commissioning of the eligible plant (the “original heating system”) is—
+    - (aa) fuelled by fossil fuel[^f00014], or
+    - (bb) an electric heating system, and
+  - (iii)[^key-81f0aa0badb4dd3d5c80fcbb74c73f3d] there has not been a previous grant from public funds for a heat pump or biomass boiler at the same address, and
+  - (iv) there has not been a previous installation of a heat pump, or biomass boiler at the property as a measure promoted by an electricity or gas supplier for the purpose of achieving their home-heating cost reduction obligation under section 41B of the Electricity Act 1989 or section 33BD of the Gas Act 1986, and
+  - (v)[^key-9d1bd1026f5c2fd4ccc44411d30701c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-a6a7ca3e88e65122e72d099430971fde] if it has not had any heating system installed before the date on which the relevant eligible plant is commissioned, and it will be first occupied or used on or after the date on which the relevant eligible plant is commissioned, it meets the requirements in regulation 7 (requirements for new-build properties).
+
+(2) For the purposes of this regulation—
+
+- (a) “**electric heating system**” means a heating system which provides heat generated wholly or mainly from electricity, but does not include a heat pump,
+- (aa)[^key-9caf34ad291ae53939a8d5379b1f1f7c] “**grant from public funds**” has the meaning given in regulation 2(1),
+- (b) “**relevant eligible plant**”, in relation to a property, means the eligible plant which is installed in relation to that property,
+- (c) “**social housing**” has the meaning given in section 68 of the Housing and Regeneration Act 2008[^f00015].
+
+### 6. Insulation requirements[^key-6bc897f559fe348790e1eb16f16e808b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Requirements for new-build properties[^key-f9eb5b0c3cac9f2b6f6eec084de3a06d]
+
+(1)[^key-d97d451ff833933181e287fc7ba35e35] A property meets the requirements in this regulation where the building—
+
+- (a) was built principally with the use of the labour or resources of the first owner (including where the resource was a loan which the first owner was liable to repay), [^key-c22b64fe2b17642fdef4f820239b414d]...
+- (b) has not, while it was built or at any subsequent time been owned wholly or partly by a person who is not an individual , and[^key-dc7997f17dee9d9c1eb90b70fbf16311]
+- (c)[^key-5d16acf4a57e69f7b56565bdaa1fbe0f] is not part of an excluded property development.
+
+(2)[^key-ad0ea70c69e5e6e9c3b4875ceea211ab] In this regulation—
+
+- “**excluded property development**” means a development of multiple buildings constructed on a plot acquired from a person who decided or offered the plans or specifications to which the buildings were wholly or mainly built.
+
+## PART 3 — Eligible plant
+
+### 8. Eligible plant[^key-7710ea07aea9a25ff17d7e73c91413de]
+
+(1) For the purposes of these Regulations, subject to regulation 9A,[^key-6f7130cd8dd2225df77cc34ba779695d] a heat pump is an eligible plant where—
+
+- (a) it meets the requirements for heat pumps set out in regulation 9(1), and
+- (b) once installed—
+  - (i) it meets the suitability criteria in relation to the eligible property [^key-91140b21ba00800fa43ea85d82d3676a]... for which it is installed, determined in accordance with regulation 9(2), and
+  - (ii) it is first commissioned no more than 120 days before the date on which the grant application is properly made, unless the Authority has made a decision to extend this period under paragraph (3)[^key-28a9d062d45011fc22d53478bad51fba].
+
+(2) For the purposes of these Regulations, subject to regulation 11, a biomass boiler is an eligible plant where—
+
+- (a) it meets the requirements for biomass boilers set out in regulation 10(1), and
+- (b) once installed—
+  - (i) it meets the suitability criteria in relation to the eligible property, [^key-cb4a6b50c3a6d974dac2c98d0e423f81]... for which it is installed, determined in accordance with regulation 10(2), and
+  - (ii) it is first commissioned no more than 120 days before the date on which the grant application is properly made, unless the Authority has made a decision to extend this period under paragraph (3)[^key-18e7fdad4282b53873760f1b1e1bae6b].
+
+(3)[^key-c95f0450317a2662e91919f370f0b8e5] The Authority may by notice extend the period specified in paragraph (1)(b)(ii) or (2)(b)(ii) where—
+
+- (a) that period has been exceeded, or is likely to be exceeded, following a decision by the Authority under regulation 15(7), 15(8), 16(8), 21(1), 23 or 25(5), and
+- (b) it is satisfied that it is reasonable to do so.
+
+### 9. Requirements for heat pumps[^key-3271d9c14363adb7a6eaa31bbefc632d]
+
+(1) A heat pump meets the requirements in this paragraph where—
+
+- (a) no part of the heat pump which generates heat, other than the ground loop in the case of a subsequent heat pump installation in relation to a shared ground loop system, was used before the plant was first commissioned,
+- (b)[^key-8a3cf7200a78d394dca0ac897e381421] it has a capacity of—
+  - (i) no more than 45 kilowatt thermal; or
+  - (ii) no more than 300 kilowatt thermal, in the case of a shared ground loop system only; or
+  - (iii) no more than a combined capacity of 70 kilowatt thermal, if it is installed in combination with one or more additional heat pumps,
+- (c) it meets the requirements set out in the standards for heat pumps approved by the Secretary of State under regulation 4(1)(b) which are applicable when the plant is first commissioned,
+- (d)[^key-825a0db46e34199f49056f1663285e81] if it is an air-to-water heat pump, or a ground source heat pump, it has a seasonal coefficient of performance of at least 2.8, determined in accordance with the standard approved by the Secretary of State under regulation 4(1)(c) which is applicable when the plant is first commissioned, and
+- (e) it uses a compressor which is driven by electricity, [^key-498924adb8012173d992891635f3c076]...
+- (f)[^key-21597acbdb0a5ebd927cd6551759ffce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) [^key-1d506c5116bd93d6c5f8775a8639e7d3]A heat pump meets the suitability criteria in relation to the eligible property ... for which it is installed where—
+
+- (a) it provides heating—
+  - (i) solely to that property, or to both that property and any related property, and
+  - (ii)[^key-3a88c15ed7285f7a9e4a9dd53b11ceea] for the purpose of space heating—
+    - (aa) if it is an air-to-water heat pump, or a ground source heat pump, using liquid as a medium to deliver that heat, or
+    - (bb) if it is an air-to-air heat pump, using air as a medium to deliver that heat,
+- (b)[^key-c7ac7b23bbee329344f025c74878f633] it is capable of meeting the full space heating and hot water heating demands of that property, whether alone or in combination with supplementary appliances that are not biomass boilers,
+- (ba)[^key-aa690f31d16915727c23448d9cb8735f] it has sufficient kilowatt thermal capacity to meet the full space heating demand for the eligible property alone, whether or not it is installed alongside a supplementary appliance, and
+- (c)[^key-db4e867a6304c82d7fb932e820ac7ead] it replaces the heat generating components of the original heating system installed in that property (where applicable), other than any supplementary appliance.
+
+(3) For the purposes of paragraph (1)—
+
+- (a) “**ground loop**”, in relation to a shared ground loop system, means the equipment which absorbs energy stored in the form of heat in the ground, including heat in water in the ground, or in surface water,
+- (b) “**shared ground loop system**” means a system in which a ground loop provides heat energy through a hydraulic connection to two or more ground source heat pumps,
+- (c) “**subsequent heat pump installation**”, in relation to a shared ground loop system, means the installation of a second or subsequent ground source heat pump as part of an existing shared ground loop system.
+
+(4) For the purposes of paragraph (2) and regulation 10(2), “**hot water**” means hot water which is intended for the personal use of the individuals who use or occupy the eligible property [^key-4ea51be7ae7efb08bd8929880d8aa9fa]... and does not include hot water used for the purposes of—
+
+- (a) space heating,
+- (b) heating a swimming pool, or
+- (c) carrying out a process.
+
+### 9A. Properties in relation to which an air-to-air heat pump is not an eligible plant[^key-9a1bbb4af1695ad0bb2c973d1bae6755]
+
+An air-to-air heat pump is not an eligible plant in relation to a non-residential building.
+
+### 10. Requirements for biomass boilers[^key-3968935309bdb29ff6551c6692aba6ec]
+
+(1) A biomass boiler meets the requirements in this paragraph where—
+
+- (a) no part of the biomass boiler which generates heat was used before the plant is first commissioned,
+- (b) it has a capacity of no more than 45 kilowatt thermal,
+- (c) it meets the requirements set out in the standards for biomass boilers approved by the Secretary of State under regulation 4(1)(d) which are applicable when the plant was first commissioned,
+- (d) an emissions certificate that meets the requirements set out in Schedule 1 (requirements for emissions certificates)—
+  - (i) has been issued for the plant,
+  - (ii) has been issued for a plant of the same make, model and installation capacity as the plant, or
+  - (iii) specifies the plant as being in the same type-testing range as a plant for which an emissions certificate has been issued (see paragraph 1(m) of Schedule 1),
+- (e)[^key-b1288b4662be1b64d9aab9d3387ecd88] if the biomass boiler has a cooking function that is not able to be controlled independently of the heating or hot water function.
+
+(2) A biomass boiler meets the suitability criteria in relation to the eligible property [^key-05e2a7ec539bb335d30d2d907511aab1]... in which it is installed where—
+
+- (a) it provides heating—
+  - (i) solely to that property, or to both that property and any related property, and
+  - (ii) for the purpose of space heating and hot water heating, using liquid as a medium for delivering that heat,
+- (b) it is capable of meeting the full space heating and hot water heating demands of that property, and
+- (c) it replaces the heat generating components of the original heating system installed in the eligible property (where applicable), other than any—
+  - (i) supplementary electric heater, including any immersion heater,
+  - (ii) circulation pump, or
+  - (iii) solar thermal collector.
+
+### 11. Properties in relation to which biomass boilers are not eligible plant[^key-5d64b37cd44c0bec654154dc7567ccab]
+
+A biomass boiler is not an eligible plant in relation to a property, where the property—
+
+- (a) is in an urban area,
+- (b) is fuelled by mains gas, or
+- (c) falls within regulation 5(1)(d) and meets the requirements in regulation 7 (new-build properties).
+
+## PART 4 — Boiler upgrade grants
+
+### 12. Determination and publication of budget allocation[^key-0df1ac1236a6af018cef0f8611bc5814]
+
+(1) The Secretary of State—
+
+- (a) must publish the total budget allocation for boiler upgrade vouchers before the end of the period of 14 days beginning with the commencement date,
+- (b) must determine and publish the budget allocation for boiler upgrade vouchers for a relevant financial year before—
+  - (i) in the case of the relevant financial year beginning with the commencement date, the end of the period of 14 days beginning with that date;
+  - (ii) in the case of any other relevant financial year, the beginning of that financial year, and
+- (c) may determine and publish a budget allocation for boiler upgrade vouchers for a quarter of a relevant financial year before the beginning of that quarter.
+
+(2) The Authority must publish the total value of boiler upgrade vouchers issued, at least once in every quarter of each relevant financial year.
+
+(3) For the purposes of paragraph (2), “**boiler upgrade vouchers issued**” means boiler upgrade vouchers which have been issued and have not—
+
+- (a) expired in accordance with regulation 15(2), or
+- (b) been revoked in accordance with regulation 16(8) or 21.
+
+### 13. Determination and publication of boiler upgrade grant values[^key-c1718c6df25b868bf7449929d7e515c7]
+
+(1)[^key-4085ddc25cc647bf4d5e856c51116bf2] The Secretary of State must determine and publish the values of the boiler upgrade grants, for one set of grant categories contained in Schedule 1A within 14 days of the day on which the Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026[^key-028bcbd9b5665a784bf62e42339cd4e9] come into force.
+
+(2) The Secretary of State may review the value of a boiler upgrade grant, having regard to such matters as the Secretary of State considers relevant, and may as a result of such a review—
+
+- (a) increase or decrease the value of the boiler upgrade grant, or
+- (b) determine that the value of the boiler upgrade grant remains unchanged.
+
+(2A)[^key-041d769e31bf2dad4f57e21cb8a7fec1] The Secretary of State may review the categories of boiler upgrade grant, having regard to such matters as the Secretary of State considers relevant, and as a result of such a review, may—
+
+- (a) determine that the published grant categories are to be replaced by an alternative set of grant categories and publish the values of the boiler upgrade grant for the alternative set of grant categories contained in Schedule 1A, or
+- (b) determine that the same set of grant categories available should remain unchanged,
+
+(2B) The Secretary of State may only determine and publish the values of one set of grant categories contained in Schedule 1A at any one time.
+
+(3) For the purposes of paragraph (2) and (2A),[^key-bc4994b144baa0766b2935a6b689b015] the matters to which the Secretary of State may have regard include—
+
+- (a) the number of boiler upgrade vouchers issued in relation to the installation of eligible plant,
+- (b) a change in the market price of eligible plant or in the cost of installation of eligible plant,
+- (c) any other factor which is likely, in the opinion of the Secretary of State, to affect—
+  - (i) the number of grant applications, or
+  - (ii) the cost of installing or running eligible plant.
+
+(4) Where the value of a boiler upgrade grant is increased or decreased as a result of a review described in paragraph (2), the Secretary of State must publish a notice (a “grant change notice”) specifying—
+
+- (a) the new value of the boiler upgrade grant, and
+- (b) the date on which that new value will take effect, which must be a date at least 28 days after the date on which the grant change notice is published.
+
+(5)[^key-ae1828b44236db01e3282aef98ad6be0] Where the set of grant categories is replaced as a result of a review described in paragraph (2A), the Secretary of State must publish a notice (a “grant category change notice”) specifying—
+
+- (a) the new set of grant categories that will be available,
+- (b) the values of the boiler upgrade grants for those grant categories, and
+- (c) the date on which the new set of grant categories will take effect, which must be a date at least 28 days after the date on which the grant change notice is published.
+
+### 14. Grant applications[^key-37bd953052c9eff05a249f10024e77ad]
+
+(1) An installer may make an application to the Authority for a boiler upgrade grant (a “grant application”) in relation to the installation of an eligible plant—
+
+- (a) for an eligible property, [^key-484f088297edefcad6ed335477561913]...
+- (b)[^key-3642ef5263f94385c5f4591261c34319] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+provided that the conditions in paragraph (2) are met.
+
+(2) The conditions in this paragraph are that—
+
+- (a) the owner of the property—
+  - (i) consents to the installer making the grant application,
+  - (ii) will become the owner of the eligible plant on completion of the installation,
+  - (iii) has not received a grant from public funds in respect of any of the costs of the purchase or installation of the eligible plant, [^key-61be788fa703ed5c3e47fac8fbcf8834]...
+  - (iv)[^key-fa61dea08b90fe7628486f7b02cdac2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (v)[^key-426f5bf889961a5509e3a7c417fc661d] has not received a previous grant from public funds for a heat pump or a biomass boiler installed at the same address, and[^key-e2482a00d01c877d81aca4e9f169c66c]
+  - (vi)[^key-4bf54a6e594c49372f88a947d53c2b95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (vii) if the property owner does not occupy the property, has informed the tenant (if any) of the impact of the installation of the eligible plant,
+- (b) the installation of the eligible plant is not a measure promoted by an electricity or gas supplier for the purpose of achieving their home-heating cost reduction obligation under section 41B of the Electricity Act 1989[^f00018] or section 33BD of the Gas Act 1986[^f00019],
+- (ba)[^key-15a0ab2a4a256976ea69ee1426747b5b] there has been no previous installation of a heat pump, or biomass boiler at the property as a measure promoted by an electricity or gas supplier for the purpose of achieving their home-heating cost reduction obligation under section 41B of the Electricity Act 1989 or section 33BD of the Gas Act 1986,
+- (c) a boiler upgrade grant has not previously been paid to an installer in accordance with regulation 16(6)(b) in relation to the installation of any eligible plant in the property, [^key-74a0143427983ed1ffa4280f787170d9]...
+- (ca)[^key-f9aa32caca6a21a24b0e777491e6c45d] the installer has deducted the value of the boiler upgrade voucher for which the application is being made from the total amount quoted to the property owner in relation to the installation of the eligible plant, and
+- (d) if the installer is paid the boiler upgrade grant in accordance with regulation 16(6)(b), it will be used by the installer solely to fund the installation of the eligible plant.
+
+(3) A grant application must be in writing, in such form as the Authority may require, and include—
+
+- (a) the information specified in Schedule 2 (information required for grant application), and
+- (b) confirmation, given by the installer, that the condition in paragraph (2)(c) is met, and the information provided under sub-paragraph (a) is accurate to the best of their knowledge and belief.
+
+(4) The Authority must give the owner of the property a notice which—
+
+- (a) specifies, for the purposes of determining the grant application, the information required from the owner of the property, which may include confirming that owner is aware of, and consents to the grant application,
+- (b) specifies the period within which the information required in sub-paragraph (a) must be provided, and
+- (c) informs the owner that failure to provide the requested information within that period may result in the grant application being rejected.
+
+(5) Where the Authority considers that further information from the installer is necessary for the purpose of determining a grant application, it may by notice—
+
+- (a) specify further information which the installer is required to provide within 14 days beginning with the date the notice is issued, and
+- (b) inform the installer that failure to provide the requested information within that period may result in the grant application being rejected.
+
+(6) The Authority may by notice extend the period specified in a notice under paragraph (4)(b) or (5)(b) where it is satisfied that it is reasonable to do so.
+
+(7) For the purposes of paragraph (4), where there is more than one owner of the eligible property [^key-f0e1da17e69006c8814bb8cb223fa08c]...—
+
+- (a) the Authority may request information, and confirmation of the matters referred to in paragraph (2)(a), from any person who is an owner of the eligible property,
+- (b) any information or confirmation so requested may be provided by one of the owners of the eligible property on behalf of one or more of the other owners, provided that any confirmation requested is provided by or on behalf of every owner, and
+- (c) where one owner provides confirmation on behalf of another owner, the confirmation must state that they have authority to provide that confirmation on behalf of that other owner.
+
+(8)[^key-c627cf444dee22f1214241f4a0b5aa2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-b3396832bc4b7d840660a2b881daadc6] An installer may withdraw a grant application made under paragraph (1) at any time before the Authority determines the application and issues a boiler upgrade voucher under regulation 15.
+
+### 15. Determination of grant applications[^key-ea216c15e4a78b3acb0e13c811a73946]
+
+(1) Subject to paragraphs (4) to (7), regulation 20(5) (refusal of subsequent grant applications), and regulation 21 (revocation of vouchers), where a grant application is properly made, the Authority must issue a notice (a “boiler upgrade voucher”) to the installer which specifies—
+
+- (a) the date on which the boiler upgrade voucher is issued,
+- (b) the date on which the boiler upgrade voucher expires if it has not already been—
+  - (i) redeemed in accordance with regulation 16(6), or
+  - (ii) revoked in accordance with regulation 16(8) or 21,
+- (c) the unique identifier of the boiler upgrade voucher,
+- (d)[^key-601d2416d0a48ffce18bd72067ea8848] which category of boiler upgrade grant contained in Schedule 1A the boiler upgrade voucher relates to,
+- (e) the address of the property, and the installer to which the boiler upgrade voucher relates,
+- (f) the name, address, email address, and telephone number of the owner of the property to which the boiler upgrade voucher relates, and
+- (g) the value of the boiler upgrade grant which will be paid to the installer if they make a valid application to redeem the boiler upgrade voucher on or before the date on which it expires.
+
+(2) For the purposes of paragraph (1)—
+
+- (a) a boiler upgrade voucher relating to the installation of an air-to-water heat pump or an air-to-air heat pump,[^key-50f76d68595537e1f4f88b03848824d5] or a biomass boiler expires at the end of the day which falls at the end of the period of three months which begins with the date on which it is issued, and
+- (b) a boiler upgrade voucher relating to the installation of a ground source heat pump expires at the end of—
+  - (i) the day which falls at the end of the period of six months which begins with the date on which it is issued, or
+  - (ii) 31st March 2030[^key-b61bf4234ec7d0b7f138af1021d1a53b],
+
+  whichever is the earlier.
+
+(3) For the purposes of paragraph (1)(g), the value of a boiler upgrade grant is the current value of the boiler upgrade grant, for the eligible plant that is specified in the boiler upgrade voucher in accordance with paragraph (1)(d), which is published under regulation 13(1) , (4) or (5)[^key-18cabe41bdf69b7ca7a93db392650d0f] (as the case may be)—
+
+- (a) in a case where the grant application is considered as an outstanding application in accordance with paragraph (6), on the date on which the boiler upgrade voucher is issued,
+- (b) in any other case, on the date on which the grant application is properly made.
+
+(4) The Authority must consider properly made grant applications in the order in which they are received by it, and must not issue a boiler upgrade voucher without the written consent of the Secretary of State—
+
+- (a) in a relevant financial year, where—
+  - (i) the total value of boiler upgrade vouchers already issued in that financial year is equal to, or exceeds, the budget allocation for that financial year, or
+  - (ii) the total value of boiler upgrade vouchers issued in that financial year would exceed the budget allocation for that financial year if that boiler upgrade voucher was issued, or
+- (b) in a quarter in respect of which the Secretary of State has published a budget allocation in accordance with regulation 12(1)(c), where the total value of boiler upgrade vouchers already issued in that quarter is equal to, or exceeds, the budget allocation for that quarter.
+
+(5) For the purposes of paragraph (4)—
+
+- (a) the budget allocation for a relevant financial year means the budget allocation published in accordance with regulation 12(1)(b) in respect of that year,
+- (b) the total value of boiler upgrade vouchers issued does not include the value of any boiler upgrade voucher which has—
+  - (i) expired in accordance with paragraph (2), or
+  - (ii) been revoked in accordance with regulation 16(8) or 21.
+
+(6) Following any decrease in the total value of boiler upgrade vouchers issued in a relevant financial year or a quarter (as the case may be), as a result of the expiry or revocation of a boiler upgrade voucher within the relevant financial year or the quarter in which it was issued, the Authority must proceed to consider outstanding grant applications in the order in which they were received.
+
+(7) The Authority must refuse to issue a boiler upgrade voucher—
+
+- (a) where it considers that the grant application does not comply with regulation 14(1),
+- (b) where it is not satisfied that the conditions in regulation 14(2) are met in relation to the grant application, or
+- (c) after 31st December 2029[^key-ad0387184deecb20396586c9c2227a3b].
+
+(8) The Authority may refuse to issue a boiler upgrade voucher where—
+
+- (a) it considers that the installer will not comply with one or more of the installer obligations,
+- (b) it refused a previous grant application made by the installer or a connected person, or withheld payment of a boiler upgrade grant from the installer or a connected person in accordance with regulation 20, on the ground that information contained in a previous grant application was incorrect or misleading in a material particular,
+- (c) the owner of the property has failed to provide the information specified in a notice given under regulation 14(4) within the period specified under regulation 14(4)(b) or (6), as applicable,
+- (d) the installer has failed to provide the information specified in a notice given under regulation 14(5) within the period specified in regulation 14(5)(b) or (6), as applicable,
+- (e) a voucher previously issued to the installer or a connected person was revoked, other than at the request of the installer or the connected person (as the case may be), or
+- (f) the Authority is satisfied, having received notification from a relevant body, that the installation or operation of the eligible plant is or will be in breach of any provision of legislation or of a consumer code, of which the installer is a member.
+
+(9) For the purposes of paragraph (8)(f), “**relevant body**” means a court, tribunal, or public authority responsible for enforcing the legislative provision, the Microgeneration Certification Scheme [^key-678d54e08cdb49969d6d379a8f2845da]... or a consumer code, of which the installer is a member.
+
+(10) Where the Authority refuses to issue a boiler upgrade voucher, it must send a notice to the installer specifying—
+
+- (a) the reason for the refusal, and
+- (b) details of the installer’s right of review under regulation 25.
+
+### 16. Redemption applications[^key-83207136ba6c46babce050db1d465e43]
+
+(1) An installer who—
+
+- (a) has been issued a boiler upgrade voucher, and
+- (b) has installed the eligible plant for the eligible property [^key-9b071523377f954fbba0935d7e3acfd9]... as specified in that voucher, and commissioned the eligible plant,
+
+may make an application to the Authority to redeem the boiler upgrade voucher (a “redemption application”) after the plant is first commissioned and before the boiler upgrade voucher expires.
+
+(2)[^key-e509c56ea3caf86900897f712faf717f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A redemption application must be in writing, in such form as the Authority may require, and include—
+
+- (a) the information specified in Schedule 3 (information required for redemption application),
+- (b) evidence that the eligible plant meets the certification requirements in Schedule 4 (certification requirements), and
+- (c) confirmation, given by the installer, that the information provided under sub-paragraph (a) and (b) is accurate to the best of their knowledge and belief.
+
+(4) Where the Authority considers that further information from the installer is necessary for the purpose of determining a redemption application, it may by notice—
+
+- (a) specify further information which the installer is required to provide within 14 days beginning with the date the notice is issued, and
+- (b) inform the installer that failure to provide the requested information within that period may result in the redemption application being rejected.
+
+(4A)[^key-545195648a8d1879ad6e754113b4790f] The Authority may, as soon as reasonably practicable, undertake an audit of the information provided in order to determine a redemption application.
+
+(5) The Authority may by notice extend the period specified in a notice under paragraph (4)(a) where it is satisfied that it is reasonable to do so.
+
+(6) Subject to paragraph (7), regulation 20 (power to withhold grant payment in the case of non-compliance), and regulation 21 (revocation of vouchers), where the Authority is satisfied that a redemption application has been properly made, it must—
+
+- (a) notify the installer that their redemption application has been approved, and
+- (b) make a payment to the installer of the amount of boiler upgrade grant which was notified to them under regulation 15(1)(g) (“the grant amount”).
+
+(7) The Authority must refuse a redemption application where approval of the redemption application would result in more than one boiler upgrade grant being paid in accordance with paragraph (6) in relation to the same eligible property.
+
+(8) Where the Authority is not satisfied that the redemption application has been properly made, it may refuse that application and revoke the boiler upgrade voucher.
+
+(9) Where the Authority refuses a redemption application it must, within 14 days of making that decision, send a notice to the installer—
+
+- (a) notifying them of that decision;
+- (b) specifying the reason for the refusal;
+- (c) notifying them of their right of review under regulation 25.
+
+## PART 5 — Compliance and enforcement
+
+### 17. Obligations on installers[^key-0b72230e566db03d47cb9b59926159ca]
+
+(1) An installer who has made a grant application that has not been refused by the Authority, or been issued a boiler upgrade voucher[^key-030d80c558509432c9582c60643b18a4] must —
+
+- (a) retain a copy of any information relied on when making the grant application and any redemption application for six years from the date on which the grant application or the redemption application (as the case may be) was made,
+- (b) if they become aware that any of the information provided in support of the grant application or any redemption application—
+  - (i) was incorrect at the time it was relied on, or
+  - (ii) has materially changed since it was relied on such that, had the application been made after the change, it would not comply with the requirements in these Regulations,
+
+  notify the Authority of that fact no more than 14 days after becoming so aware,
+- (c) provide to the Authority, within 14 days of a request by the Authority, any information which the installer holds in relation to the installation to which the boiler upgrade voucher relates and which the Authority requires in order to discharge its functions under these Regulations.
+- (d)[^key-bb35fd27a86141261508b3679b66c1e1] not request or accept payment of the deducted amount in regulation 14(2)(ca) unless the grant application is refused by the Authority or the boiler upgrade voucher is revoked in accordance with regulation 16(8) or 21.
+
+(2) Paragraph (1) applies regardless of whether the boiler upgrade voucher has—
+
+- (a) expired in accordance with regulation 15(2),
+- (b) been redeemed in accordance with regulation 16(6), or
+- (c) been revoked in accordance with regulation 16(8) or 21.
+
+### 18. Inspection of property[^key-0c3743afe5ba2f4cc2a50eb964394bb1]
+
+(1) The Authority or its authorised agent may request access at any reasonable hour to inspect a property to which a boiler upgrade voucher relates to do any one or more of the following—
+
+- (a) verify an eligible plant,
+- (b) verify that a property is an eligible property [^key-60a75f162fac90cec9e9160baad9cec4]...,
+- (c) take photographs, measurements, or video or audio recordings in relation to that verification,
+- (d) ensure that there is no contravention of these Regulations.
+
+(2) The request referred to in paragraph (1) must be made by a notice to the owner of the property which—
+
+- (a) specifies the reason for the proposed inspection,
+- (b) is given to the owner no less than two days before the proposed inspection is to take place, and
+- (c) informs the owner of their right to refuse the request.
+
+(3) Paragraph (1) applies regardless of whether the boiler upgrade voucher has—
+
+- (a) expired in accordance with regulation 15(2),
+- (b) been redeemed in accordance with regulation 16(6), or
+- (c) been revoked in accordance with regulation 16(8) or 21.
+
+### 19. Power to temporarily withhold grant payment during investigation[^key-92313c0aee70639247c99e8c51a52102]
+
+(1) Where the Authority has reasonable grounds to suspect that—
+
+- (a) an installer—
+  - (i) has failed or is failing to comply with an installer obligation, or
+  - (ii) has been issued a voucher, or has been paid a boiler upgrade grant, as a result of the provision of information which was incorrect in a material particular,
+- (b) the person who is specified in a boiler upgrade voucher as an installer is not an installer,
+- (c) the property specified in a boiler upgrade voucher is not an eligible property [^key-36b50c737fa9f173d75f9848630f7a79]... , or[^key-d270bc62d98cf4c943d439ac7019d3d7]
+- (d)[^key-dcd7d05746917914a5e68d5b15820b9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) the plant specified in a boiler upgrade voucher is not eligible, or not eligible in relation to the property specified in the voucher,
+
+and it requires time to investigate, it may decide to withhold one or more payments of a boiler upgrade grant which would otherwise be payable to the installer, pending the outcome of that investigation.
+
+(2) For the purposes of paragraph (1), the Authority is deemed to have reasonable grounds to suspect the matters mentioned in paragraph (1)(a) or (b) if it receives notification from the Microgeneration Certification Scheme [^key-246a3c1babdb51bb38a8f3cdaaacd48b]... or a consumer code that the installer is under investigation by them for breach of a requirement of the Microgeneration Certification Scheme [^key-755f65b0f91c3a19252b2d7bad970eaa]... or the consumer code.
+
+(3) Within 14 days of a decision to withhold a payment of a boiler upgrade grant under paragraph (1), the Authority must send a notice to the installer which specifies—
+
+- (a) which of the grounds in paragraph (1)(a) to (e) apply,
+- (b) the boiler upgrade grant payment which will be withheld and the next steps in the investigation,
+- (c) where applicable, the information the installer must provide to the Authority,
+- (d) the date by which the information mentioned in sub-paragraph (c) must be provided, and
+- (e) the consequences of the installer failing to provide the information mentioned in sub-paragraph (d) by the date specified.
+
+(4) The Authority’s investigation must be commenced and completed as soon as is reasonably practicable, and immediately on conclusion of its investigation the Authority must inform the installer of—
+
+- (a) the outcome of the investigation, and
+- (b) the action the Authority proposes to take under this Part, if any.
+
+(5) Where the Authority concludes that none of the grounds in paragraph (1)(a) to (e) is satisfied, it must make payment of any grant withheld during the course of its investigation.
+
+(6) Within three months of sending a notice under paragraph (3), the Authority must either make payment in accordance with paragraph (5) or must send the installer a notice under regulation 20, 21, or 22.
+
+### 20. Power to withhold grant payment in the case of non-compliance[^key-83fde17c386bdb83ccd52f493b9c3cbd]
+
+(1) Where the Authority is satisfied that—
+
+- (a) an installer—
+  - (i) has failed or is failing to comply with an installer obligation, or
+  - (ii) has been issued a voucher, or has been paid a boiler upgrade grant, as a result of the provision of information which was incorrect in a material particular,
+- (b) the person who is specified in a boiler upgrade voucher as the installer is not an installer,
+- (c) the property specified in a boiler upgrade voucher is not an eligible property [^key-99ec2c73fb79de47e2e4a357e89db59a]... , or[^key-b2c92c3c39439717bf22eecd15374a1d]
+- (d)[^key-e6f8e25f1ff74ac7c02911d585717513] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) the plant specified in a boiler upgrade voucher is not eligible, or not eligible in relation to the property specified in the voucher,
+
+it may decide to withhold one or more boiler upgrade grant payments which would otherwise be payable to the installer.
+
+(2) Within 14 days of a decision to withhold a payment of a boiler upgrade grant under paragraph (1), the Authority must send a notice to the installer specifying—
+
+- (a) which of the grounds in paragraph (1)(a) to (e) apply,
+- (b) where there has been a failure to comply with an installer obligation, the respect in which the Authority is satisfied that the installer has failed or is failing to comply with that obligation,
+- (c) where the installer has been issued a boiler upgrade voucher as a result of the provision of information which was incorrect in a material particular, details of the respect in which the information was incorrect,
+- (d) the number, and total value, of boiler upgrade grant payments the Authority intends to withhold,
+- (e) where applicable, the steps that the installer must take to satisfy the Authority that it is complying with the installer obligation,
+- (f) where applicable, the steps that the installer must take to satisfy the Authority that, notwithstanding the provision of information which was incorrect in a material particular, the Authority should not withhold the boiler upgrade grant payments,
+- (g) where applicable, the information the installer must provide to the Authority,
+- (h) the date by which the steps referred to in sub-paragraph (e) or (f) must be completed, or the information mentioned in sub-paragraph (g) must be provided, which must be within 14 days beginning with the date the notice is issued, and
+- (i) the consequences of the installer failing to take the steps referred to in sub-paragraph (e) or (f), or to provide the information mentioned in sub-paragraph (g), by the date specified.
+
+(3) The Authority may extend the time specified in the notice in accordance with paragraph (2)(h) where it is satisfied that it is reasonable to do so.
+
+(4) Where the Authority is satisfied that the installer has taken the steps specified in the notice in accordance with paragraph (2)(e) or (f), or provided the information specified in the notice in accordance with paragraph (2)(g), as applicable, within the time specified, it must notify that installer that the boiler upgrade grant payments will not be withheld in accordance with this regulation.
+
+(5) Where the Authority is not satisfied as described in paragraph (4), the Authority—
+
+- (a) must notify the installer of that fact,
+- (b) may revoke a boiler upgrade voucher, and
+- (c) may refuse any subsequent grant application by that installer or by a connected person.
+
+### 21. Revocation of vouchers[^key-47ff148e378fd4fc3551a4299ac768d1]
+
+(1) The Authority may revoke a boiler upgrade voucher—
+
+- (a) where it is no longer satisfied that the conditions in regulation 14(2) are met in relation to the boiler upgrade voucher,
+- (b) where it is no longer satisfied that any information required by a notice given under regulation 14(4) in relation to the boiler upgrade voucher is accurate,
+- (c) where it is satisfied that the installer to whom it has issued the boiler upgrade voucher—
+  - (i) has failed or is failing to comply with an installer obligation, or
+  - (ii) has been issued the voucher as a result of the provision of information which was incorrect in a material particular,
+- (d) where it is satisfied that—
+  - (i) the person who is specified in the boiler upgrade voucher as the installer is not an installer,
+  - (ii) the property specified in the boiler upgrade voucher is not an eligible property [^key-20f0a09deacab9ced5315ad54adbd9ba]... , or[^key-abb95c50975454fd976ac83c578f1d04]
+  - (iii)[^key-6bc5119689a0af12ff687d4846b97b3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv) the plant specified in the boiler upgrade voucher is not eligible, or not eligible in relation to the property specified in the voucher, or
+- (e) at the request of the installer.
+
+(2) Where the Authority is satisfied as set out in paragraph (1)(c) or (d)(i), it may also revoke all other boiler upgrade vouchers issued to the installer.
+
+(3) Within 14 days of a decision to revoke the boiler upgrade voucher under paragraph (1), the Authority must send a notice to the installer specifying—
+
+- (a) where paragraph (1)(a) or (b) applies—
+  - (i) the respect in which the Authority is satisfied that the condition is no longer met, or the information is no longer accurate, and
+  - (ii) where applicable, the steps that the installer must take to satisfy the Authority that the condition is met or the information is accurate,
+- (b) where paragraph (1)(c)(i) applies—
+  - (i) the respect in which the Authority is satisfied that the installer has failed or is failing to comply with the installer obligation, and
+  - (ii) where applicable, the steps that the installer must take to satisfy the Authority that it is complying with the installer obligation,
+- (c) where paragraph (1)(c)(ii) applies—
+  - (i) details of the respect in which the information was incorrect, and
+  - (ii) where applicable, the steps that the installer must take to satisfy the Authority that, notwithstanding the provision of incorrect information, the boiler upgrade voucher should not be revoked,
+- (d) where paragraph (1)(c) or (d)(i) applies, details of any other boiler upgrade vouchers issued to the installer that the Authority has decided to revoke under paragraph (2),
+- (e) where paragraph (1)(d) applies, details of the respect in which the Authority is satisfied as to the matters described in paragraph (1)(d)(i), (ii), (iii) or (iv) (as applicable),
+- (f) where applicable, any further information the installer must provide to the Authority,
+- (g) the date by which the steps referred to in sub-paragraph (a)(ii), (b)(ii) or (c)(ii) must be completed, or the information mentioned in sub-paragraph (f) must be provided, which must be within 14 days beginning with the date the notice is issued,
+- (h) the consequences of the installer failing to take the steps referred to in sub-paragraph (a)(ii), (b)(ii) or (c)(ii), or to provide the information mentioned in sub-paragraph (f), by the date specified, and
+- (i) where paragraph (1)(a), (b), (c) or (d) applies, details of the installer’s right of review under regulation 25.
+
+(4) The Authority may extend the time specified in the notice in accordance with paragraph (3)(g) where it is satisfied that it is reasonable to do so.
+
+(5) Where the Authority is satisfied that the installer has taken the steps specified in the notice in accordance with sub-paragraph (a)(ii), (b)(ii) or (c)(ii) or provided the information specified in the notice in accordance with sub-paragraph (f), as applicable, within the time specified, it must notify that installer that the boiler upgrade voucher will not be revoked in accordance with this regulation.
+
+(6) Where the Authority revokes a boiler upgrade voucher in accordance with this regulation, regulation 16(8) or 20(5) it—
+
+- (a) must update the register, maintained under regulation 28, accordingly, and
+- (b) may refuse any subsequent grant application by that installer or by a connected person, except where paragraph (1)(e) applies (installer request to revoke).
+
+### 22. Repayment notices and offsetting[^key-eb6a5def123e42fa42439f70db47f545]
+
+(1) Where the Authority is satisfied that an installer has received payments under these Regulations which—
+
+- (a) exceed the amount to which the installer was entitled under these Regulations,
+- (b) were paid whilst there was a failure by the installer to comply with an installer obligation, or following such a failure, or
+- (c) were paid as a result of the provision of information by the installer which was incorrect in a material particular,
+
+it may take one of the actions set out in paragraph (2).
+
+(2) The actions in this paragraph are that the Authority may—
+
+- (a) require the installer to repay an amount in relation to some or all of those payments, or
+- (b) offset an amount in relation to some or all of those payments against future payments to the installer under these Regulations.
+
+(3) Before taking either of the actions set out in paragraph (2), the Authority must send a notice to the installer specifying—
+
+- (a) the amount it is seeking to recover,
+- (b) the basis on which that amount is calculated,
+- (c) whether the amount must be repaid or will be offset,
+- (d) where applicable, the date by which the amount must be repaid, which must be not less than 28 days after the date on which the notice is sent, and
+- (e) details of the installer’s right of review under regulation 25.
+
+(4) Subject to regulation 25(7), where an installer, who is required to repay an amount under this regulation fails, to make payment in full by the date specified under paragraph (3)(d), the Authority may recover any outstanding amount as a civil debt.
+
+### 23. Revocation of sanctions[^key-7fb71cababcebffb5aa991512428e6c4]
+
+(1) The Authority may at any time revoke a sanction imposed in accordance with any of regulations 16(8) and 20 to 22 if it is satisfied that—
+
+- (a) there was an error involved in the original imposition of the sanction, or
+- (b) it is just and equitable in the particular circumstances of the case to do so.
+
+(2) Within 14 days of a decision to revoke a sanction, the Authority must send a notice to the installer specifying—
+
+- (a) the sanction which has been revoked, and
+- (b) the reason for the revocation.
+
+(3) Where a sanction is revoked, the Authority must, where applicable, update the register maintained under regulation 28.
+
+### 24. Application of this Part in relation to persons who are not or cease to be installers[^key-540a5406d7639f08397a85b14c79edcd]
+
+(1) If a person who has made a grant application that has not been refused by the Authority, or[^key-f445daceb2affc88e6d1c810a9ee4c5d] to whom a boiler upgrade voucher has been issued ceases to be an installer, any installer obligations, and the requirement to comply with those obligations, continue to apply to that person as if they were an installer.
+
+(2) If any person who makes an application under regulation 14 or 16 is not, or ceases to be, an installer, the Authority may commence or continue compliance or enforcement action under this Part in relation to any breach of these Regulations by them, and they are an installer for the purposes of any such action.
+
+## PART 6 — Additional powers and functions of the Authority
+
+### 25. Right of review[^key-1db635c0a7e1ce8505524b02733b7f40]
+
+(1) Any installer, or person who has made an application as an installer, affected by a decision made by the Authority in exercise of its functions under these Regulations (other than a decision made in accordance with regulation 19, 20(1) or this regulation) may have that decision reviewed by the Authority.
+
+(2) An application for review must be made by notice in such format as the Authority may require and must—
+
+- (a) be received by the Authority within 28 days of the date of notification of the decision to be reviewed,
+- (b) specify the decision which that person wishes to be reviewed,
+- (c) specify the grounds and evidence upon which the application is made, and
+- (d) be signed by or on behalf of the person making the application.
+
+(3) A person who has made an application in accordance with paragraph (2) must provide the Authority with such information as the Authority may reasonably request in order to discharge its functions under this regulation, provided any information requested is in that person’s possession.
+
+(4) A review under this regulation may not be carried out by any person who was involved in the decision which is being reviewed.
+
+(5) On review the Authority may—
+
+- (a) revoke or vary its decision,
+- (b) confirm its decision,
+- (c) vary any sanction it has imposed (including modifying any date specified for the purposes of regulation 22(3)(d)), or
+- (d) replace any sanction it has imposed with one or more alternative sanctions.
+
+(6) Within 21 days of the Authority’s decision on a review, it must send a notice to the installer or former installer (as the case may be), and to any other person who is in the Authority’s opinion affected by its decision, setting out its decision with reasons.
+
+(7) Where an application is made under paragraph (1) for a decision to be reviewed, that decision will be suspended until a decision is made under paragraph (5).
+
+### 26. Reliance on information provided to the Authority[^key-dd4b09d3c6ad5f99f4ac2e39321e8533]
+
+(1) When exercising any functions under these Regulations, the Authority may—
+
+- (a) treat any information or confirmation provided to it—
+  - (i) by an installer in support of a grant application or a redemption application,
+  - (ii) by a property owner or any other person in relation to a grant application or a redemption application,
+
+  as conclusive as to the matters to which they relate, unless the Authority has reason to believe that any such information or confirmation is not accurate,
+- (b) verify any information provided by an installer against any information on the register required to be maintained under regulation 27(1) of the EPB Regulations, the Microgeneration Installation Database or an approved register, and any other information available to the Authority,
+- (c) treat inclusion of a plant on the Microgeneration Installation Database or an approved register as evidence that the plant has been certified on the basis that the plant is installed in accordance with a relevant installation standard, and
+- (d) treat any information about a plant on the Microgeneration Installation Database or an approved register as conclusive as to the matters to which it relates.
+
+(2) For the purposes of this regulation—
+
+- (a) “**Microgeneration Installation Database**” means the database of installations maintained by the Microgeneration Certification Scheme,
+- (b) the Secretary of State—
+  - (i) may approve one or more registers for the purposes of paragraph (1)(b), (c) and (d),
+  - (ii) must publish the details of any register which is approved, and the date from which it is approved, and
+  - (iii) where any register ceases to be approved, must publish that fact together with the date on which it ceased to be approved,
+
+  and “**approved register**” means a register which is approved by the Secretary of State in accordance with sub-paragraph (b)(i).
+
+### 27. The Authority’s power to disclose information[^key-b003722fbd29f0b50bf00bbb0805bf63]
+
+(1) The Authority may disclose relevant information to another person for the purpose of facilitating the exercise by the Authority of any function it has under or by virtue of these Regulations.
+
+(2) This regulation does not limit the circumstances in which information may otherwise lawfully be disclosed by the Authority under any other enactment or rule of law.
+
+(3) For the purposes of this regulation, “**relevant information**” means information provided in accordance with these Regulations by a person who makes a grant application or a person who owns a property which is the subject of a grant application.
+
+### 28. Duty to maintain register[^key-639559384c84d055047da704f8828530]
+
+The Authority must maintain a register of—
+
+- (a) grant applications,
+- (b) redemption applications,
+- (c) issued boiler upgrade vouchers,
+- (d) redeemed boiler upgrade vouchers.
+
+and must ensure, so far as practicable, that entries in the register are accurate and up to date.
+
+### 29. Publication of guidance[^key-1b16c0dac122c879c6006447bd494782]
+
+The Authority must publish procedural guidance to installers in connection with the administration of the Scheme.
+
+### 30. Reporting obligations[^key-720a4bfb614e7de94998c568bd24b0f7]
+
+(1) The Authority must provide monthly reports to the Secretary of State, in such manner and form as the Secretary of State may request, containing the following information—
+
+- (a) in relation to each boiler upgrade grant which was paid during the period covered by the report—
+  - (i) the information provided to the Authority in support of the related grant application in accordance with regulation 14(3)(a), and
+  - (ii) the information provided to the Authority in support of the related redemption application in accordance with regulation 16(3)(a), and
+- (b) such other information as the Authority holds and the Secretary of State may require in relation to grant applications and issued boiler upgrade vouchers.
+
+(2) Each monthly report must cover a calendar month, and must be provided to the Secretary of State within seven working days of the end of that month.
+
+(3) The Authority must provide the following reports to the Secretary of State, in such manner and form as the Secretary of State may request, containing the information specified in paragraph (1)(a) and (b) in aggregate form—
+
+- (a) a report, provided by 31st August 2022, for the period beginning with the commencement date and ending with 31st July 2022,
+- (b) quarterly reports in accordance with paragraph (4),
+- (c) annual reports, for each relevant financial year, by 31st July following the end of each relevant financial year.
+
+(4) The quarterly reports must cover a three month period beginning with 1st August, 1st November, 1st February or 1st May, with the first beginning with 1st August 2022 and the last beginning with 1st February 2030[^key-abe4d46ed5adca86c5a8ec9f2c549270], and be provided by no later than one month after the end of the relevant three month period.
+
+(5) The Authority must publish each quarterly and annual report by no later than the date on which it is provided to the Secretary of State.
+
+(6) Any information which includes personal data (within the meaning of section 3(2) of the Data Protection Act 2018[^f00020]) relating to the owner of a property, and which is required to be, reported or published by or under this regulation, must be reported or published (as the case may be) in anonymised form.
+
+(7) For the purposes of paragraph (7), “**anonymised form**” means that the data is in a form calculated to prevent the data from being identified as relating to a particular person or property.
+
+### 31. Additional information to be provided to the Secretary of State[^key-cee7b95279e1430e36c8785aa4f116e9]
+
+(1) On request by the Secretary of State, the Authority must provide to the Secretary of State in such manner and form and by such date as the Secretary of State may request such additional information as the Authority may hold in relation to the performance of its functions under these Regulations.
+
+(2) For the avoidance of doubt, the information which the Secretary of State may request under paragraph (1) includes personal data (within the meaning of section 3(2) of the Data Protection Act 2018[^f00021]), that would otherwise be anonymised under regulation 30(6).
+
+### 32. Provision of information to the Authority[^key-bf461c170f3bb2efd19e10126e5f4780]
+
+(1) This regulation applies where—
+
+- (a) the Authority requests information from—
+  - (i) an installer,
+  - (ii) a person who has made an application as an installer, or
+  - (iii) an owner,
+- (b) an installer, a person who has made an application as an installer, or an owner is required to provide information or confirmation to the Authority under these Regulations.
+
+(2) The information or confirmation must be provided within such time and in such manner and form as the Authority may reasonably request and must be accurate to the best knowledge and belief of the person required to provide it.
+
+(3) The costs of providing the information are to be borne, where applicable, by—
+
+- (a) the installer,
+- (b) the person who has made an application as an installer, or
+- (c) the owner, where paragraph (1)(a)(iii) applies.
+
+### 33. Notices[^key-d190067f5d4c37261fc7e3cbd81c685b]
+
+(1) Any notice or notification required to be given or issued under these Regulations must be in writing and may be sent by electronic means, including by sending it to an email address provided by the addressee for the purposes of these Regulations.
+
+(2) Any such notice or notification required to be given to or issued to or served on an installer or the owner of a property (“**P**”) may be given by—
+
+- (a) delivering or sending it to, or leaving it at—
+  - (i) P’s registered office, P’s principal place of activity, or P’s home address (as applicable), or
+  - (ii) another address provided by P for the purposes of these Regulations, or
+- (b) electronic means, including by sending it to an email address provided by P for the purposes of these Regulations.
+
+Callanan
+
+Parliamentary Under Secretary of State
+
+Department for Business, Energy and Industrial Strategy
+
+22nd May 2022
+
+## SCHEDULE 1 — Requirements for emissions certificates
+
+Regulation 10(1)(d)
+
+**1.**[^key-0674bb8c309d47e3fff6f8993e31681c] An emissions certificate meets the requirements in this Schedule where it is issued by a testing laboratory which is accredited by UKAS to the standard approved by the Secretary of State under regulation 4(1)(e) (“the laboratory accreditation standard”) at the time of testing, and contains the following information—
+
+- (a) the name and address of the testing laboratory by which tests have been carried out,
+- (b) the name and signature of the person authorised by the testing laboratory to issue the certificate,
+- (c) the date of issue of the certificate together with a certificate reference number,
+- (d) the date of the accreditation of the testing laboratory to the laboratory accreditation standard, and the accreditation number,
+- (e) the name, model, manufacturer and installation capacity of the plant tested,
+- (f) the date of the testing,
+- (g) confirmation that—
+  - (i) emissions of NOx and PM have been tested on the same occasion,
+  - (ii) the testing was in accordance with the requirements set out in paragraph 2 or 3,
+  - (iii) the test was carried out at no less than 85% of the installation capacity of the plant,
+- (h) confirmation that when tested as specified in sub-paragraph (g)—
+  - (i) emissions of PM from the plant did not exceed 30 grams of PM per gigajoule net heat input, and
+  - (ii) emissions of NOx did not exceed 150 grams of NOx per gigajoule net heat input,
+
+  where “**net heat input**” means the rate of heat, expressed as the amount of heat over time, which is supplied to the plant by the fuel used, based on the net calorific value of that fuel,
+- (i) the actual emissions of PM and NOx measured when the plant was tested as specified in sub-paragraph (g),
+- (j) a list of—
+  - (i) the types of fuel used during the testing, and
+  - (ii) the types of fuel which can be used so as to ensure that the emission limits referred to in sub-paragraph (h) are not exceeded,
+- (k) the moisture content of the fuel used during testing and the maximum moisture content which can be used so as to ensure that the emission limits referred to in sub-paragraph (h) are not exceeded,
+- (l) a statement indicating whether or not the plant tested was a manually stoked natural draught plant,
+- (m) a list of plants, other than the plant tested, in the type-testing range of plants for the certificate, if any.
+
+**2.**[^key-83ca00af7e9580a69fc0dd60d89816c5] For the purposes of paragraph 1(g)(ii) the requirements in this paragraph are that testing is carried out in accordance with the provisions relevant to emissions of PM and NOx in the standard approved by the Secretary of State under regulation 4(1)(f).
+
+**3.**[^key-90e721a7c46a7035e6be5157eaa87e06] For the purposes of paragraph 1(g)(ii) the requirements in this paragraph are that—
+
+- (a) testing is carried out in accordance with the standards approved by the Secretary of State under regulation 4(1)(g) in relation to—
+  - (i) NOx emissions, and
+  - (ii) PM emissions,
+- (b) the emissions of PM represent the average of at least three measurements of emissions of PM, each of at least 30 minutes duration, and
+- (c) the value for NOx emissions is derived from the average of measurements made throughout the PM emission tests.
+
+## SCHEDULE 1A — Sets of Grant Categories[^key-63a891a5a618def84e1dc4879d752386]
+
+regulation 2, 13 and 15
+
+**1.** This Schedule specifies the sets of grant categories that may be published by the Secretary of State under regulation 13.
+
+Table 1[^key-33ff8ddd60b140406f5a6a9ef0e08061]
+
+Set 1
+
+| Column 1 | Column 2: A boiler upgrade grant for the installation of— |
+| --- | --- |
+| 1 | An air-to-water heat pump |
+| 2 | An air-to-air heat pump |
+| 3 | A ground source heat pump |
+| 4 | A biomass boiler |
+
+Table 2[^key-ae63c9a36b08cf8bffa848a4286627c7]
+
+Set 2
+
+| Column 1 | Column 2: A boiler upgrade grant for the installation of— |
+| --- | --- |
+| 1 | An air-to-water heat pump in a new-build property |
+| 2 | An air-to-air heat pump in a new-build property |
+| 3 | A ground source heat pump in a new-build property |
+| 4 | An air-to-water heat pump in a property that is not a new-build property |
+| 5 | An air-to-air heat pump in a property that is not a new-build property |
+| 6 | A ground source heat pump in a property that is not a new-build property |
+| 7 | A biomass boiler in a property that is not a new-build property |
+
+Table 3[^key-7fb1e6f87be4b6c01f5bcf7ee96f5a2d]
+
+Set 3
+
+| Column 1 | Column 2: A boiler upgrade grant for the installation of— |
+| --- | --- |
+| 1 | An air-to-water heat pump in a property that is not an off-gas grid property |
+| 2 | An air-to-air heat pump in a property that is not an off-gas grid property |
+| 3 | A ground source heat pump in a property that is not an off-gas grid property |
+| 4 | An air-to-water heat pump in an off-gas grid property that is replacing a coal heating system |
+| 5 | An air-to-water heat pump in an off-gas grid property that is replacing a liquefied petroleum gas heating system |
+| 6 | An air-to-water heat pump in an off-gas grid property that is replacing an oil heating system |
+| 7 | An air-to-water heat pump in an off-gas grid property that is replacing a fossil fuel hybrid system |
+| 8 | An air-to-water heat pump in an off-gas grid property that is replacing an electric heating system that is not a heat pump |
+| 9 | An air-to-water heat pump in an off-gas grid property that is replacing any other fossil fuel heating system that is not covered by row 4 to 8 of this Table |
+| 10 | An air-to-air heat pump in an off-gas grid property that is replacing a coal heating system |
+| 11 | An air-to-air heat pump in an off-gas grid property that is replacing a liquefied petroleum gas heating system |
+| 12 | An air-to-air heat pump in an off-gas grid property that is replacing an oil heating system |
+| 13 | An air-to-air heat pump in an off-gas grid property that is replacing a fossil fuel hybrid system |
+| 14 | An air-to-air heat pump in an off-gas grid property that is replacing an electric heating system that is not a heat pump |
+| 15 | An air-to-air heat pump in an off-gas grid property that is replacing any other fossil fuel heating system that is not covered by row 10 to 14 of this Table |
+| 16 | A ground source heat pump in an off-gas grid property that is replacing a coal heating system |
+| 17 | A ground source heat pump in an off-gas grid property that is replacing a liquefied petroleum gas heating system |
+| 18 | A ground source heat pump in an off-gas grid property that is replacing an oil heating system |
+| 19 | A ground source heat pump in an off-gas grid property that is replacing a fossil fuel hybrid system |
+| 20 | A ground source heat pump in an off-gas grid property that is replacing an electric heating system that is not a heat pump |
+| 21 | A ground source heat pump in an off-gas grid property that is replacing any other fossil fuel heating system that is not covered by row 16 to 20 of this Table |
+| 22 | A biomass boiler in an off-gas grid property replacing a coal heating system |
+| 23 | A biomass boiler in an off-gas grid property replacing a liquefied petroleum gas heating system |
+| 24 | A biomass boiler in an off-gas grid property replacing an oil heating system |
+| 25 | A biomass boiler in an off-gas grid property replacing a fossil fuel hybrid system |
+| 26 | A biomass boiler in an off-gas grid property replacing an electric heating system that is not a heat pump |
+| 27 | A biomass boiler in an off-gas grid property replacing any other fossil fuel heating system that is not covered by row 22 to 26 of this Table |
+
+Table 4[^key-37f85c9b7fb30a2d66b030c26980dc29]
+
+Set 4
+
+| Column 1 | Column 2: A boiler upgrade grant for the installation of— |
+| --- | --- |
+| 1 | An air-to-water heat pump in a property that is not an off-gas grid property and not a new-build property |
+| 2 | An air-to-air heat pump in a property that is not an off-gas grid property and not a new-build property |
+| 3 | A ground source heat pump in a property that is not an off-gas grid property and not a new-build property |
+| 4 | An air-to-water heat pump in a new-build property |
+| 5 | An air-to-air heat pump in a new-build property |
+| 6 | A ground source heat pump in a new-build property |
+| 7 | An air-to-water heat pump in an off-gas grid property that is replacing a coal heating system |
+| 8 | An air-to-water heat pump in an off-gas grid property that is replacing a liquefied petroleum gas heating system |
+| 9 | An air-to-water heat pump in an off-gas grid property that is replacing an oil heating system |
+| 10 | An air-to-water heat pump in an off-gas grid property that is replacing a fossil fuel hybrid system |
+| 11 | An air-to-water heat pump in an off-gas grid property that is replacing an electric heating system that is not a heat pump |
+| 12 | An air-to-water heat pump in an off-gas grid property that is replacing any other fossil fuel heating system that is not covered by row 7 to 11 of this Table |
+| 13 | An air-to-air heat pump in an off-gas grid property that is replacing a coal heating system |
+| 14 | An air-to-air heat pump in an off-gas grid property that is replacing a liquefied petroleum gas heating system |
+| 15 | An air-to-air heat pump in an off-gas grid property that is replacing an oil heating system |
+| 16 | An air-to-air heat pump in an off-gas grid property that is replacing a fossil fuel hybrid system |
+| 17 | An air-to-air heat pump in an off-gas grid property that is replacing an electric heating system that is not a heat pump |
+| 18 | An air-to-air heat pump in an off-gas grid property that is replacing any other fossil fuel heating system that is not covered by row 13 to 17 of this Table |
+| 19 | A ground source heat pump in an off-gas grid property that is replacing a coal heating system |
+| 20 | A ground source heat pump in an off-gas grid property that is replacing a liquefied petroleum gas heating system |
+| 21 | A ground source heat pump in an off-gas grid property that is replacing an oil heating system |
+| 22 | A ground source heat pump in an off-gas grid property that is replacing a fossil fuel hybrid system |
+| 23 | A ground source heat pump in an off-gas grid property that is replacing an electric heating system that is not a heat pump |
+| 24 | A ground source heat pump in an off-gas grid property that is replacing any other fossil fuel heating system that is not covered by row 19 to 23 of this Table |
+| 25 | A biomass boiler in an off-gas grid property replacing a coal heating system |
+| 26 | A biomass boiler in an off-gas grid property replacing a liquefied petroleum gas heating system |
+| 27 | A biomass boiler in an off-gas grid property replacing an oil heating system |
+| 28 | A biomass boiler in an off-gas grid property replacing a fossil fuel hybrid system |
+| 29 | A biomass boiler in an off-gas grid property replacing an electric heating system that is not a heat pump |
+| 30 | A biomass boiler in an off-gas grid property replacing any other fossil fuel heating system that is not covered by row 25 to 29 of this Table |
+
+**2.** For the purposes of this Schedule, a “**fossil fuel hybrid system**” means a heating system that comprises of two or more plants that are all powered by fossil fuel.
+
+## SCHEDULE 2 — Information required for grant application
+
+Regulation 14(3)(a)
+
+**1.**[^key-b9a99baa78ab63e4925a20ddc278c6a8] This Schedule specifies the information that must be provided in support of a grant application.
+
+**2.**[^key-bd40acfd854d9b8475a7252bea42b349] The information is—
+
+- (a) the installer’s name, any trading or other name by which the installer is commonly known, and registered office (where applicable) or principal place of activity, and company registration number (where applicable),
+- (b) the installer’s certification number in relation to the Microgeneration Certification Scheme, or a subsequent version of the Microgeneration Certification Scheme[^key-cd6ae60ed015f35c8ae3903d68787e69], under which they are certified,
+- (c) the name of the consumer code of which the installer is a member, and the membership or certification number of the consumer code of which the installer is a member[^key-754210c1adc43f111f1dd4b5535ad566],
+- (d) where the grant application is made on behalf of the installer by an individual, information to enable the Authority to satisfy itself—
+  - (i) as to the identity of that individual, and
+  - (ii) that the individual has authority from the installer to make the grant application,
+- (e) details of a bank account in the installer’s name which accepts pound sterling deposits in the United Kingdom,
+- (f) details of the property, including—
+  - (i) the address,
+  - (ii) whether it has had any heating system installed and was, or will be first occupied or used[^key-a125085a1b29eaf1fe8eb7a920959e7a] before the date on which the eligible plant was, or is to be, commissioned,
+  - (iii) in the case of a grant application relating to the installation of a biomass boiler, whether it is—
+    - (aa) in an urban area
+    - (bb)[^key-105f29188fbb8a2eb2ae976b690bdd7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (cc) falls within regulation 5(1)(d) and meets the requirements in regulation 7 (new-build properties),
+  - (iv) whether—
+    - (aa) it is an eligible property [^key-ae3522b6fd8ecf6648d59c434d15d6da]...
+    - (bb)[^key-dd6a054712de3a8d94ca6a110c8454a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^key-3099ae86a44d4775957e08dbe99cce66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h) details of the original heating system in relation to the property (where applicable),
+- (ha)[^key-dd27e07c2b96de62a531ba5268609e46] whether the property is fuelled by mains gas,
+- (i) details of the eligible plant to be installed in the property, including whether it is an air-to-water heat pump, air-to-air heat pump[^key-74e49aeea677423a02f7926fd5344635], a ground source heat pump, or a biomass boiler,
+- (ia)[^key-8a3e5ae6da311d9eb62c6e0b85cd4cb2] details of any supplementary appliance installed or retained in the property, where applicable,
+- (j)[^key-eb425f9eec5ffd16871893ba4fd85198] where the property—
+  - (i) has a valid energy performance certificate, the unique reference number for the valid energy performance certificate for the property, or
+  - (ii) does not have a valid energy performance certificate—
+    - (aa) the unique reference number for an expired energy performance certificate for the property (if any) where required by the Authority, and
+    - (bb) any other information that the Authority may require to verify any information provided under this Schedule,
+- (k) details of the quote provided by the installer to the owner of the property for the installation of the eligible plant,
+- (l) the name, address, email address (if available), and telephone number of the owner of the property, and
+- (m) such other information, or declarations from the installer, as the Authority may require to enable it to determine the grant application.
+
+**3.**[^key-d1a7aba57519f1fd0ffc7846a101485c] In this Schedule, an “expired energy performance certificate” is an energy performance certificate that has passed its validity period given in regulation 9(2)(a) of the EPB Regulations, but remains listed on the register maintained under regulation 27(1) of the EPB Regulations.
+
+## SCHEDULE 3 — Information required for redemption application
+
+Regulation 16(3)(a)
+
+**1.**[^key-060090d58d6eca6bdba35657e7fe8317] This Schedule specifies the information that must be provided in support of a redemption application.
+
+**2.**[^key-bb5b8ec4c521641535826a783d9668a7] The information is—
+
+- (a) the unique reference number under which the eligible plant is certified under the Microgeneration Certification Scheme [^key-9f0a6a3f6dd676d679eae3fdcea0cf32]...,
+- (b) the unique identifier of the boiler upgrade voucher,
+- (c) the name of the manufacturer, the model, and the serial number of the eligible plant installed for the eligible property [^key-867e2163ef97f2982a7b7efd058e6f17]...,
+- (d) where the eligible plant installed was a biomass boiler, the biomass emissions certificate,
+- (da)[^key-cee99f1eece86638205c122c5b8f90fe] the date that the eligible plant was commissioned,
+- (e)[^key-afa57c252a4399dfcc39d4cdba75b17e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
+- (f) such other information as the Authority may require to enable it to determine the redemption application.
+
+## SCHEDULE 4 — Certification requirements
+
+Regulation 16(3)(b)
+
+**1.**[^key-35b95029630b08063b3b72558924ccb2] A plant meets the requirements in this Schedule where it is certified under—
+
+- (a) the Microgeneration Certification Scheme as installed in accordance with a relevant installation standard in that scheme [^key-ec241d3613f24e7b337aa422cec33d2d]...
+- (b)[^key-6ed49bcba15c0365ecce4ea0a16e5788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-3b071c0cb23f6ea46ab026da4df07dcd] For the purposes of paragraph 1(a), “**relevant installation standard**” in relation to a plant means an installation standard which—
+
+- (a) is approved by the Secretary of State under regulation 4(1)(h), and
+- (b) is in force when the plant is first commissioned.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, which apply in England and Wales, establish the Boiler Upgrade Scheme (“**the Scheme**”).
+
+The Scheme is a renewable heat incentive scheme to facilitate and encourage the use of heat pumps and biomass boilers to provide space and water heating in domestic properties and small non-domestic properties. To that extent the Scheme replaces the Domestic Renewable Heat Incentive Scheme, set out in the Domestic Renewable Heat Incentive Scheme Regulations 2014 ([S.I. 2014/928](https://www.legislation.gov.uk/uksi/2014/928)) which closes to new applicants, with some exceptions, on 31st March 2022.
+
+The Scheme supports the installation of heat pumps and biomass boilers through a grant mechanism provided that they do not replace an existing renewable heating system.
+
+These Regulations confer functions on the Gas and Electricity Markets Authority (“**the Authority**”) in relation to the administration of the Scheme.
+
+Part 2 prescribes eligible properties for the purposes of the Scheme. In brief, these are buildings including building units (other than social housing):
+
+- (a) which either meet certain insulation requirements or are new build properties, and
+- (b) where the existing heating system in the property is fuelled by fossil fuel or is a heating system which provides heat generated wholly or mainly from electricity (other than a heat pump).
+
+Part 3 prescribes the eligible plant which may be installed for eligible properties under the Scheme, namely air source heat pumps, ground source heat pumps, and biomass boilers, where the plant is first commissioned on or after 1st April 2022. However, a biomass boiler may not be installed under the Scheme for an eligible property which is in an urban area and fuelled by mains gas, or which is a new-build property.
+
+Part 4 sets out the budget control mechanism for the Scheme, and provides for the Secretary of State to determine and publish: the total budget for the Scheme, the budget allocation for boiler upgrade vouchers for each of the financial years 2022/23, 2023/24 and 2024/25, and the value of boiler upgrade vouchers for each of the types of eligible plant. The value of the boiler upgrade grants may be reviewed by the Secretary of State during the lifetime of the Scheme. Part 4 provides for a certified installer who installs an eligible plant for an eligible property, or a property to which regulation 14(1)(b) applies, to apply to the Authority for a boiler upgrade voucher. The voucher is time-limited, and entitles the installer to be paid the relevant boiler upgrade grant on completion of the installation, provided that a valid application to redeem the voucher is made before the voucher expires. However, the Authority may not issue a boiler upgrade voucher after 31st December 2024.
+
+Part 5 deals with compliance and enforcement. It places obligations on installers in relation to the provision of information to the Authority, and enables the Authority to take action in the event that an installer fails to comply with such an obligation or has been issued a boiler upgrade voucher on the basis of information which was incorrect in a material particular. Part 5 enables the Authority to withhold boiler upgrade grant payments, to revoke vouchers and to require repayment of a grant in certain circumstances.
+
+Part 6 sets out the additional powers and functions of the Authority under the Scheme. It enables any installer or former installer to apply to the Authority for a review of any decision affecting them. It requires the Authority to publish guidance to installers, and requires the Authority to maintain a register of grant applications and grants paid, and to make monthly reports to the Secretary of State on the operation of the Scheme.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Department for Business, Energy and Industrial Strategy at 1 Victoria Street, London, SW1H 0ET and is published with the Explanatory Memorandum alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32). Section 100 was amended by section 51 of the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7) and by [S.I. 2011/2195](https://www.legislation.gov.uk/uksi/2011/2195).
+
+[^f00002]: Footnote: Section 105 (Parliamentary control of subordinate legislation) was amended by section 51 of the Infrastructure Act 2015 which inserted subsections (3A) to (3I) concerning provisions which require the affirmative resolution procedure.
+
+[^f00003]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Section 148A, which was added by section 55(1) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), requires the Secretary of State to consult the Welsh Ministers before establishing a renewable energy incentive scheme under section 100 of the Energy Act 2008 (the “**2008 Act**”) that applies in Wales, but not in relation to any levy in connection with such a scheme.
+
+[^key-7f83a6808dd02a96e9b7a1e96edc1d7b]: Commencement: Reg. 1 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-6445a176e0bd6d38c30dacaac877fe59]: Commencement: Reg. 2 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-8daeeaab0303284717567210b0c5de12]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/2/1) inserted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/3/2) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-c45e4598f17aea67e3bef9dad8035b75]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/565/regulation/2) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/390/regulation/3/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^f00004]: Footnote: And see section 100(3) of the 2008 Act for the definition of “plant”.
+
+[^key-ebbb9ae2f839737878a5894195473fc1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/2/1) substituted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/524/regulation/3/3) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^f00006]: Footnote: And see section 100(3) of the 2008 Act for the definition of “biomass”.
+
+[^key-303fcb2bcfeac38d9e511863e001e658]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/2/1) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2024/524/regulation/3/4) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-cbfdb3b6bad8ab2aca4ecf691b91e066]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2022/565/regulation/2) inserted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2026/390/regulation/3/4) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^f00007]: Footnote: [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4).
+
+[^key-4b08d2dbf85eb3dccfcdb37267127392]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/2/1) substituted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2024/524/regulation/3/5) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^f00009]: Footnote: [S.I. 2012/3118](https://www.legislation.gov.uk/uksi/2012/3118), as amended by [S.I. 2013/10](https://www.legislation.gov.uk/uksi/2013/10), [181](https://www.legislation.gov.uk/uksi/2013/181) and [603](https://www.legislation.gov.uk/uksi/2013/603), [2014/880](https://www.legislation.gov.uk/uksi/2014/880), [2015/609](https://www.legislation.gov.uk/uksi/2015/609) and [1681](https://www.legislation.gov.uk/uksi/2015/1681), [2016/284](https://www.legislation.gov.uk/uksi/2016/284) and [888](https://www.legislation.gov.uk/uksi/2016/888), [2017/368](https://www.legislation.gov.uk/uksi/2017/368), [2018/362](https://www.legislation.gov.uk/uksi/2018/362), [2020/1422](https://www.legislation.gov.uk/uksi/2020/1422), and [2021/370](https://www.legislation.gov.uk/uksi/2021/370) and [439](https://www.legislation.gov.uk/uksi/2021/439).
+
+[^key-0338af49b28e8cc9f4b94f97bc0c9bbd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/2/1) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/3/2) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-924ba2bbd5aa492478c8338178a583f5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/565/regulation/2) inserted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2026/390/regulation/3/5) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-c4a10c3744846ab26d9de6af00b7013e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/565/regulation/2) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2026/390/regulation/3/6/a) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-c1534b6c02edc8677e582b4a10014e6d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/565/regulation/2) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [3(6)(b)](https://www.legislation.gov.uk/uksi/2026/390/regulation/3/6/b) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-3be337dcf919fd189f36b2de33b40f40]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/565/regulation/2) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2026/390/regulation/3/7) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^f00011]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 5 was substituted by section 3 of the Gas Act 1995, and sub-section (1)(b) was amended by [S.I. 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400).
+
+[^key-c0f223d754ef8f4bd5cefaf4eb5260b3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/2/1) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2024/524/regulation/3/7) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-02047d71bdaebb16e48655fee071e229]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/565/regulation/2) omitted (28.4.2026) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2026/390/regulation/3/8) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-63fac6b0abda17e34813aed0930e7ef1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/2/1) substituted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2024/524/regulation/3/8) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-5fcdace38691538e987cf9680449f026]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/565/regulation/2) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2026/390/regulation/3/9) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-181e85c14285a13cba0753f4f09a8711]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/565/regulation/2) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [3(10)](https://www.legislation.gov.uk/uksi/2026/390/regulation/3/10) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-d401ef9acad636c30d21ca7595a4d018]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2022/565/regulation/2/4) omitted (28.4.2026) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [3(11)](https://www.legislation.gov.uk/uksi/2026/390/regulation/3/11) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^f00013]: Footnote: Section 36C(7) was inserted by section 81(1) of the Energy Act [2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16). See paragraph A4.1.1 of the Transportation Principal Document of the Uniform Network Code, issued on 24th July 2020, for the definition of “supply meter point”. Copies of that document are available at www.gasgovernance.co.uk/TPD. Hard copies are not available.
+
+[^key-384cf4eda8959172bca6008f7462f65a]: Commencement: Reg. 3 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-9c1c0516d9219c1ae640b5702ffbc60f]: Commencement: Reg. 4 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-ea7a53c741883127e49911ee64610e42]: Textual amendment: [Reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2022/565/regulation/4/1/a) omitted (28.4.2026) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [4(a)(i)](https://www.legislation.gov.uk/uksi/2026/390/regulation/4/a/i) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-e8ac576375c73e1c24a0fedfbb71d10e]: Textual amendment: Words in [reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2022/565/regulation/4/1/c) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2026/390/regulation/4/a/ii) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-3d5dabebfb66ee5dc16b818312a55608]: Textual amendment: Word in [reg. 4(1)(h)](https://www.legislation.gov.uk/uksi/2022/565/regulation/4/1/h) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2024/524/regulation/4/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-024d56b58d5db9775beb0895f1da738d]: Textual amendment: Word in [reg. 4(1)(h)](https://www.legislation.gov.uk/uksi/2022/565/regulation/4/1/h) inserted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2026/390/regulation/4/a/iii) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-d82b53cd2ea6733665229f30192bb44f]: Textual amendment: [Reg. 4(1)(i)](https://www.legislation.gov.uk/uksi/2022/565/regulation/4/1/i) omitted (28.4.2026) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [4(a)(iv)](https://www.legislation.gov.uk/uksi/2026/390/regulation/4/a/iv) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-e5b1c17ea499583961889cbcd8ee3d3b]: Textual amendment: Reg. 4(1)(j) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2024/524/regulation/4/c) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-09306f6255de7e555d8256a2325af3d8]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/uksi/2022/565/regulation/4/1A) inserted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2026/390/regulation/4/b) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-bbbf4bcbb5a7c8da5c0a13b4a3506e48]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2022/565/regulation/4/2) inserted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2026/390/regulation/4/c) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-c78bf2e72b08d03e7f7aad21a4eeed5f]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2022/565/regulation/4/3/b) inserted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [4(d)](https://www.legislation.gov.uk/uksi/2026/390/regulation/4/d) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-2fa4f3bf5d555f4857c8416a2818357d]: Commencement: Reg. 5 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-01696bcc553e861f8eaf60cfcf6ae6a3]: Textual amendment: Words in reg. 5(1)(c) substituted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [5(a)(i)](https://www.legislation.gov.uk/uksi/2024/524/regulation/5/a/i) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-d90eba6f982f1cf40eee3b2818aad31d]: Textual amendment: Reg. 5(1)(c)(i) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2024/524/regulation/5/a/ii) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-53b51b07ca82edfdf89c98ae764baaff]: Textual amendment: Words in [reg. 5(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/565/regulation/5/1/c/ii) inserted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [5(a)(i)](https://www.legislation.gov.uk/uksi/2026/390/regulation/5/a/i) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-15665a13d68f1c47d98906acd2c14891]: Textual amendment: Words in [reg. 5(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/565/regulation/5/1/c/ii) omitted (28.4.2026) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2026/390/regulation/5/a/ii) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^f00014]: Footnote: See section 100(3) of the 2008 Act for the definition of “fossil fuel”.
+
+[^key-81f0aa0badb4dd3d5c80fcbb74c73f3d]: Textual amendment: Reg. 5(1)(c)(iii)-(v) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [5(a)(iii)](https://www.legislation.gov.uk/uksi/2024/524/regulation/5/a/iii) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-9d1bd1026f5c2fd4ccc44411d30701c9]: Textual amendment: [Reg. 5(1)(c)(v)](https://www.legislation.gov.uk/uksi/2022/565/regulation/5/1/c/v) omitted (28.4.2026) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2026/390/regulation/5/b) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-a6a7ca3e88e65122e72d099430971fde]: Textual amendment: Reg. 5(1)(d) substituted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2024/524/regulation/5/b) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-9caf34ad291ae53939a8d5379b1f1f7c]: Textual amendment: Reg. 5(2)(aa) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2024/524/regulation/5/c) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^f00015]: Footnote: [2008 c. 17](https://www.legislation.gov.uk/ukpga/2008/17).
+
+[^key-6bc897f559fe348790e1eb16f16e808b]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/565/regulation/6) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/524/regulation/6) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-f9eb5b0c3cac9f2b6f6eec084de3a06d]: Commencement: Reg. 7 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-d97d451ff833933181e287fc7ba35e35]: Textual amendment: Reg. 7 renumbered as reg. 7(1) (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2024/524/regulation/7/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-c22b64fe2b17642fdef4f820239b414d]: Textual amendment: Word in reg. 7(1)(a) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2024/524/regulation/7/b) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-dc7997f17dee9d9c1eb90b70fbf16311]: Textual amendment: Word in reg. 7(1)(b) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2024/524/regulation/7/c) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-5d16acf4a57e69f7b56565bdaa1fbe0f]: Textual amendment: Reg. 7(1)(c) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [7(d)](https://www.legislation.gov.uk/uksi/2024/524/regulation/7/d) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-ad0ea70c69e5e6e9c3b4875ceea211ab]: Textual amendment: Reg. 7(2) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [7(e)](https://www.legislation.gov.uk/uksi/2024/524/regulation/7/e) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-7710ea07aea9a25ff17d7e73c91413de]: Commencement: Reg. 8 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-6f7130cd8dd2225df77cc34ba779695d]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/8/1) inserted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/390/regulation/6) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-91140b21ba00800fa43ea85d82d3676a]: Textual amendment: Words in [reg. 8(1)(b)(i)](https://www.legislation.gov.uk/uksi/2022/565/regulation/8/1/b/i) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [8(a)(i)](https://www.legislation.gov.uk/uksi/2024/524/regulation/8/a/i) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-28a9d062d45011fc22d53478bad51fba]: Textual amendment: Words in [reg. 8(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/565/regulation/8/1/b/ii) substituted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2024/524/regulation/8/a/ii) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-cb4a6b50c3a6d974dac2c98d0e423f81]: Textual amendment: Words in [reg. 8(2)(b)(i)](https://www.legislation.gov.uk/uksi/2022/565/regulation/8/2/b/i) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [8(b)(i)](https://www.legislation.gov.uk/uksi/2024/524/regulation/8/b/i) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-18e7fdad4282b53873760f1b1e1bae6b]: Textual amendment: Words in [reg. 8(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/565/regulation/8/2/b/ii) substituted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2024/524/regulation/8/b/ii) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-c95f0450317a2662e91919f370f0b8e5]: Textual amendment: Reg. 8(3) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [8(c)](https://www.legislation.gov.uk/uksi/2024/524/regulation/8/c) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-3271d9c14363adb7a6eaa31bbefc632d]: Commencement: Reg. 9 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-8a3cf7200a78d394dca0ac897e381421]: Textual amendment: [Reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2022/565/regulation/9/1/b) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [7(a)(i)](https://www.legislation.gov.uk/uksi/2026/390/regulation/7/a/i) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-825a0db46e34199f49056f1663285e81]: Textual amendment: [Reg. 9(1)(d)](https://www.legislation.gov.uk/uksi/2022/565/regulation/9/1/d) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2026/390/regulation/7/a/ii) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-498924adb8012173d992891635f3c076]: Textual amendment: Word in [reg. 9(1)(e)](https://www.legislation.gov.uk/uksi/2022/565/regulation/9/1/e) omitted (28.4.2026) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [7(a)(iii)](https://www.legislation.gov.uk/uksi/2026/390/regulation/7/a/iii) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-21597acbdb0a5ebd927cd6551759ffce]: Textual amendment: [Reg. 9(1)(f)](https://www.legislation.gov.uk/uksi/2022/565/regulation/9/1/f) omitted (28.4.2026) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [7(a)(iv)](https://www.legislation.gov.uk/uksi/2026/390/regulation/7/a/iv) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-1d506c5116bd93d6c5f8775a8639e7d3]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2022/565/regulation/9/2) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [9(1)(b)](https://www.legislation.gov.uk/uksi/2024/524/regulation/9/1/b) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-3a88c15ed7285f7a9e4a9dd53b11ceea]: Textual amendment: [Reg. 9(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/565/regulation/9/2/a/ii) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [7(b)(i)](https://www.legislation.gov.uk/uksi/2026/390/regulation/7/b/i) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-c7ac7b23bbee329344f025c74878f633]: Textual amendment: [Reg. 9(2)(b)](https://www.legislation.gov.uk/uksi/2022/565/regulation/9/2/b) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [7(b)(ii)](https://www.legislation.gov.uk/uksi/2026/390/regulation/7/b/ii) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-aa690f31d16915727c23448d9cb8735f]: Textual amendment: [Reg. 9(2)(ba)](https://www.legislation.gov.uk/uksi/2022/565/regulation/9/2/ba) inserted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [7(b)(iii)](https://www.legislation.gov.uk/uksi/2026/390/regulation/7/b/iii) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-db4e867a6304c82d7fb932e820ac7ead]: Textual amendment: [Reg. 9(2)(c)](https://www.legislation.gov.uk/uksi/2022/565/regulation/9/2/c) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [7(b)(iv)](https://www.legislation.gov.uk/uksi/2026/390/regulation/7/b/iv) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-4ea51be7ae7efb08bd8929880d8aa9fa]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2022/565/regulation/9/4) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [9(1)(c)](https://www.legislation.gov.uk/uksi/2024/524/regulation/9/1/c) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-9a1bbb4af1695ad0bb2c973d1bae6755]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2022/565/regulation/9A) inserted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2026/390/regulation/8) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-3968935309bdb29ff6551c6692aba6ec]: Commencement: Reg. 10 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-b1288b4662be1b64d9aab9d3387ecd88]: Textual amendment: Reg. 10(1)(e) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2024/524/regulation/10/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-05e2a7ec539bb335d30d2d907511aab1]: Textual amendment: Words in reg. 10(2) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2024/524/regulation/10/b) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-5d64b37cd44c0bec654154dc7567ccab]: Commencement: Reg. 11 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-0df1ac1236a6af018cef0f8611bc5814]: Commencement: Reg. 12 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-c1718c6df25b868bf7449929d7e515c7]: Commencement: Reg. 13 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-4085ddc25cc647bf4d5e856c51116bf2]: Textual amendment: Reg. 13(1) substituted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2024/524/regulation/11/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-028bcbd9b5665a784bf62e42339cd4e9]: Textual amendment: Word in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/13/1) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2026/390/regulation/9) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-041d769e31bf2dad4f57e21cb8a7fec1]: Textual amendment: Reg. 13(2A)(2B) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2024/524/regulation/11/b) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-bc4994b144baa0766b2935a6b689b015]: Textual amendment: Words in reg. 13(3) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2024/524/regulation/11/c) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-ae1828b44236db01e3282aef98ad6be0]: Textual amendment: Reg. 13(5) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [11(d)](https://www.legislation.gov.uk/uksi/2024/524/regulation/11/d) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-37bd953052c9eff05a249f10024e77ad]: Commencement: Reg. 14 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-484f088297edefcad6ed335477561913]: Textual amendment: Word in [reg. 14(1)(a)](https://www.legislation.gov.uk/uksi/2022/565/regulation/14/1/a) omitted (28.4.2026) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2026/390/regulation/10/a) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-3642ef5263f94385c5f4591261c34319]: Textual amendment: Reg. 14(1)(b) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2024/524/regulation/12/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-61be788fa703ed5c3e47fac8fbcf8834]: Textual amendment: Word in reg. 14(2)(a)(iii) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2024/524/regulation/12/b) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-fa61dea08b90fe7628486f7b02cdac2a]: Textual amendment: Reg. 14(2)(a)(iv) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [12(c)](https://www.legislation.gov.uk/uksi/2024/524/regulation/12/c) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-426f5bf889961a5509e3a7c417fc661d]: Textual amendment: Reg. 14(2)(a)(v)-(vii) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [12(d)](https://www.legislation.gov.uk/uksi/2024/524/regulation/12/d) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-e2482a00d01c877d81aca4e9f169c66c]: Textual amendment: Word in [reg. 14(2)(a)(v)](https://www.legislation.gov.uk/uksi/2022/565/regulation/14/2/a/v) inserted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [10(b)(i)](https://www.legislation.gov.uk/uksi/2026/390/regulation/10/b/i) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-4bf54a6e594c49372f88a947d53c2b95]: Textual amendment: [Reg. 14(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2022/565/regulation/14/2/a/vi) omitted (28.4.2026) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [10(b)(ii)](https://www.legislation.gov.uk/uksi/2026/390/regulation/10/b/ii) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^f00018]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 41B was inserted by the Energy Act [2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), Part 1, Chapter 4, section 69.
+
+[^f00019]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 33BD was inserted by the Energy Act [2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), Part 1, Chapter 4, section 68.
+
+[^key-15a0ab2a4a256976ea69ee1426747b5b]: Textual amendment: Reg. 14(2)(ba) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [12(e)](https://www.legislation.gov.uk/uksi/2024/524/regulation/12/e) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-74a0143427983ed1ffa4280f787170d9]: Textual amendment: Word in [reg. 14(2)(c)](https://www.legislation.gov.uk/uksi/2022/565/regulation/14/2/c) omitted (28.4.2026) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [10(c)](https://www.legislation.gov.uk/uksi/2026/390/regulation/10/c) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-f9aa32caca6a21a24b0e777491e6c45d]: Textual amendment: [Reg. 14(2)(ca)](https://www.legislation.gov.uk/uksi/2022/565/regulation/14/2/ca) inserted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [10(d)](https://www.legislation.gov.uk/uksi/2026/390/regulation/10/d) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-f0e1da17e69006c8814bb8cb223fa08c]: Textual amendment: Words in reg. 14(7) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [12(f)](https://www.legislation.gov.uk/uksi/2024/524/regulation/12/f) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-c627cf444dee22f1214241f4a0b5aa2a]: Textual amendment: Reg. 14(8) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [12(g)](https://www.legislation.gov.uk/uksi/2024/524/regulation/12/g) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-b3396832bc4b7d840660a2b881daadc6]: Textual amendment: Reg. 14(9) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [12(h)](https://www.legislation.gov.uk/uksi/2024/524/regulation/12/h) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-ea216c15e4a78b3acb0e13c811a73946]: Commencement: Reg. 15 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-601d2416d0a48ffce18bd72067ea8848]: Textual amendment: [Reg. 15(1)(d)](https://www.legislation.gov.uk/uksi/2022/565/regulation/15/1/d) substituted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2024/524/regulation/13/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-50f76d68595537e1f4f88b03848824d5]: Textual amendment: Words in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2022/565/regulation/15/2/a) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [11(a)(i)](https://www.legislation.gov.uk/uksi/2026/390/regulation/11/a/i) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-b61bf4234ec7d0b7f138af1021d1a53b]: Textual amendment: Word in [reg. 15(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/565/regulation/15/2/b/ii) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [11(a)(ii)](https://www.legislation.gov.uk/uksi/2026/390/regulation/11/a/ii) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-18cabe41bdf69b7ca7a93db392650d0f]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2022/565/regulation/15/3) substituted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [13(c)](https://www.legislation.gov.uk/uksi/2024/524/regulation/13/c) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-ad0387184deecb20396586c9c2227a3b]: Textual amendment: Word in [reg. 15(7)(c)](https://www.legislation.gov.uk/uksi/2022/565/regulation/15/7/c) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2026/390/regulation/11/b) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-678d54e08cdb49969d6d379a8f2845da]: Textual amendment: Words in [reg. 15(9)](https://www.legislation.gov.uk/uksi/2022/565/regulation/15/9) omitted (28.4.2026) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2026/390/regulation/11/c) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-83207136ba6c46babce050db1d465e43]: Commencement: Reg. 16 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-9b071523377f954fbba0935d7e3acfd9]: Textual amendment: Words in reg. 16(1)(b) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2024/524/regulation/14/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-e509c56ea3caf86900897f712faf717f]: Textual amendment: Reg. 16(2) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2024/524/regulation/14/b) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-545195648a8d1879ad6e754113b4790f]: Textual amendment: Reg. 16(4A) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [14(c)](https://www.legislation.gov.uk/uksi/2024/524/regulation/14/c) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-0b72230e566db03d47cb9b59926159ca]: Commencement: Reg. 17 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-030d80c558509432c9582c60643b18a4]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/17/1) substituted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2024/524/regulation/15) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-bb35fd27a86141261508b3679b66c1e1]: Textual amendment: [Reg. 17(1)(d)](https://www.legislation.gov.uk/uksi/2022/565/regulation/17/1/d) inserted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2026/390/regulation/12) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-0c3743afe5ba2f4cc2a50eb964394bb1]: Commencement: Reg. 18 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-60a75f162fac90cec9e9160baad9cec4]: Textual amendment: Words in [reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/2022/565/regulation/18/1/b) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/524/regulation/16) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-92313c0aee70639247c99e8c51a52102]: Commencement: Reg. 19 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-36b50c737fa9f173d75f9848630f7a79]: Textual amendment: Words in [reg. 19(1)(c)](https://www.legislation.gov.uk/uksi/2022/565/regulation/19/1/c) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [17(a)](https://www.legislation.gov.uk/uksi/2024/524/regulation/17/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-d270bc62d98cf4c943d439ac7019d3d7]: Textual amendment: Word in [reg. 19(1)(c)](https://www.legislation.gov.uk/uksi/2022/565/regulation/19/1/c) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [17(b)](https://www.legislation.gov.uk/uksi/2024/524/regulation/17/b) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-dcd7d05746917914a5e68d5b15820b9f]: Textual amendment: [Reg. 19(1)(d)](https://www.legislation.gov.uk/uksi/2022/565/regulation/19/1/d) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [17(c)](https://www.legislation.gov.uk/uksi/2024/524/regulation/17/c) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-246a3c1babdb51bb38a8f3cdaaacd48b]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2022/565/regulation/19/2) omitted (28.4.2026) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2026/390/regulation/13/a) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-755f65b0f91c3a19252b2d7bad970eaa]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2022/565/regulation/19/2) omitted (28.4.2026) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2026/390/regulation/13/b) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-83fde17c386bdb83ccd52f493b9c3cbd]: Commencement: Reg. 20 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-99ec2c73fb79de47e2e4a357e89db59a]: Textual amendment: Words in [reg. 20(1)(c)](https://www.legislation.gov.uk/uksi/2022/565/regulation/20/1/c) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2024/524/regulation/18/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-b2c92c3c39439717bf22eecd15374a1d]: Textual amendment: Word in [reg. 20(1)(c)](https://www.legislation.gov.uk/uksi/2022/565/regulation/20/1/c) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2024/524/regulation/18/b) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-e6f8e25f1ff74ac7c02911d585717513]: Textual amendment: [Reg. 20(1)(d)](https://www.legislation.gov.uk/uksi/2022/565/regulation/20/1/d) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [18(c)](https://www.legislation.gov.uk/uksi/2024/524/regulation/18/c) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-47ff148e378fd4fc3551a4299ac768d1]: Commencement: Reg. 21 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-20f0a09deacab9ced5315ad54adbd9ba]: Textual amendment: Words in [reg. 21(1)(d)(ii)](https://www.legislation.gov.uk/uksi/2022/565/regulation/21/1/d/ii) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [19(a)](https://www.legislation.gov.uk/uksi/2024/524/regulation/19/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-abb95c50975454fd976ac83c578f1d04]: Textual amendment: Word in [reg. 21(1)(d)(ii)](https://www.legislation.gov.uk/uksi/2022/565/regulation/21/1/d/ii) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [19(b)](https://www.legislation.gov.uk/uksi/2024/524/regulation/19/b) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-6bc5119689a0af12ff687d4846b97b3e]: Textual amendment: [Reg. 21(1)(d)(iii)](https://www.legislation.gov.uk/uksi/2022/565/regulation/21/1/d/iii) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [19(c)](https://www.legislation.gov.uk/uksi/2024/524/regulation/19/c) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-eb6a5def123e42fa42439f70db47f545]: Commencement: Reg. 22 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-7fb71cababcebffb5aa991512428e6c4]: Commencement: Reg. 23 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-540a5406d7639f08397a85b14c79edcd]: Commencement: Reg. 24 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-f445daceb2affc88e6d1c810a9ee4c5d]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/24/1) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2024/524/regulation/20) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-1db635c0a7e1ce8505524b02733b7f40]: Commencement: Reg. 25 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-dd4b09d3c6ad5f99f4ac2e39321e8533]: Commencement: Reg. 26 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-b003722fbd29f0b50bf00bbb0805bf63]: Commencement: Reg. 27 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-639559384c84d055047da704f8828530]: Commencement: Reg. 28 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-1b16c0dac122c879c6006447bd494782]: Commencement: Reg. 29 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-720a4bfb614e7de94998c568bd24b0f7]: Commencement: Reg. 30 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-abe4d46ed5adca86c5a8ec9f2c549270]: Textual amendment: Word in [reg. 30(4)](https://www.legislation.gov.uk/uksi/2022/565/regulation/30/4) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2026/390/regulation/14) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^f00020]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).
+
+[^key-cee7b95279e1430e36c8785aa4f116e9]: Commencement: Reg. 31 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^f00021]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).
+
+[^key-bf461c170f3bb2efd19e10126e5f4780]: Commencement: Reg. 32 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-d190067f5d4c37261fc7e3cbd81c685b]: Commencement: Reg. 33 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-0674bb8c309d47e3fff6f8993e31681c]: Commencement: Sch. 1 para. 1 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-83ca00af7e9580a69fc0dd60d89816c5]: Commencement: Sch. 1 para. 2 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-90e721a7c46a7035e6be5157eaa87e06]: Commencement: Sch. 1 para. 3 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-63a891a5a618def84e1dc4879d752386]: Textual amendment: Sch. 1A inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2024/524/regulation/22) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-33ff8ddd60b140406f5a6a9ef0e08061]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2022/565/schedule/1A) Table 1 substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2026/390/regulation/15/a) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-ae63c9a36b08cf8bffa848a4286627c7]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2022/565/schedule/1A) Table 2 substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2026/390/regulation/15/b) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-7fb1e6f87be4b6c01f5bcf7ee96f5a2d]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2022/565/schedule/1A) Table 3 substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [15(c)](https://www.legislation.gov.uk/uksi/2026/390/regulation/15/c) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-37f85c9b7fb30a2d66b030c26980dc29]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2022/565/schedule/1A) Table 4 substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [15(d)](https://www.legislation.gov.uk/uksi/2026/390/regulation/15/d) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-b9a99baa78ab63e4925a20ddc278c6a8]: Commencement: Sch. 2 para. 1 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-bd40acfd854d9b8475a7252bea42b349]: Commencement: Sch. 2 para. 2 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-cd6ae60ed015f35c8ae3903d68787e69]: Textual amendment: Words in [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2022/565/schedule/2/paragraph/2/b) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [16(2)(a)](https://www.legislation.gov.uk/uksi/2026/390/regulation/16/2/a) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-754210c1adc43f111f1dd4b5535ad566]: Textual amendment: Words in [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2022/565/schedule/2/paragraph/2/c) substituted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [23(a)](https://www.legislation.gov.uk/uksi/2024/524/regulation/23/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-a125085a1b29eaf1fe8eb7a920959e7a]: Textual amendment: Words in [Sch. 2 para. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2022/565/schedule/2/paragraph/2/f/ii) substituted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [23(b)](https://www.legislation.gov.uk/uksi/2024/524/regulation/23/b) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-105f29188fbb8a2eb2ae976b690bdd7a]: Textual amendment: [Sch. 2 para. 2(f)(iii)(bb)](https://www.legislation.gov.uk/uksi/2022/565/schedule/2/paragraph/2/f/iii/bb) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [23(c)](https://www.legislation.gov.uk/uksi/2024/524/regulation/23/c) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-ae3522b6fd8ecf6648d59c434d15d6da]: Textual amendment: Word in [Sch. 2 para. 2(f)(iv)(aa)](https://www.legislation.gov.uk/uksi/2022/565/schedule/2/paragraph/2/f/iv/aa) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [23(d)](https://www.legislation.gov.uk/uksi/2024/524/regulation/23/d) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-dd6a054712de3a8d94ca6a110c8454a4]: Textual amendment: [Sch. 2 para. 2(f)(iv)(bb)](https://www.legislation.gov.uk/uksi/2022/565/schedule/2/paragraph/2/f/iv/bb) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [23(e)](https://www.legislation.gov.uk/uksi/2024/524/regulation/23/e) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-3099ae86a44d4775957e08dbe99cce66]: Textual amendment: [Sch. 2 para. 2(g)](https://www.legislation.gov.uk/uksi/2022/565/schedule/2/paragraph/2/g) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [23(f)](https://www.legislation.gov.uk/uksi/2024/524/regulation/23/f) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-dd27e07c2b96de62a531ba5268609e46]: Textual amendment: [Sch. 2 para. 2(ha)](https://www.legislation.gov.uk/uksi/2022/565/schedule/2/paragraph/2/ha) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [23(g)](https://www.legislation.gov.uk/uksi/2024/524/regulation/23/g) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-74e49aeea677423a02f7926fd5344635]: Textual amendment: Words in [Sch. 2 para. 2(i)](https://www.legislation.gov.uk/uksi/2022/565/schedule/2/paragraph/2/i) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [16(2)(b)](https://www.legislation.gov.uk/uksi/2026/390/regulation/16/2/b) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-8a3e5ae6da311d9eb62c6e0b85cd4cb2]: Textual amendment: [Sch. 2 para. 2(ia)](https://www.legislation.gov.uk/uksi/2022/565/schedule/2/paragraph/2/ia) inserted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [16(2)(c)](https://www.legislation.gov.uk/uksi/2026/390/regulation/16/2/c) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-eb425f9eec5ffd16871893ba4fd85198]: Textual amendment: [Sch. 2 para. 2(j)](https://www.legislation.gov.uk/uksi/2022/565/schedule/2/paragraph/2/j) substituted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [16(2)(d)](https://www.legislation.gov.uk/uksi/2026/390/regulation/16/2/d) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-d1a7aba57519f1fd0ffc7846a101485c]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/565/schedule/2/paragraph/3) inserted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2026/390/regulation/16/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-060090d58d6eca6bdba35657e7fe8317]: Commencement: Sch. 3 para. 1 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-bb5b8ec4c521641535826a783d9668a7]: Commencement: Sch. 3 para. 2 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-9f0a6a3f6dd676d679eae3fdcea0cf32]: Textual amendment: Words in [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/uksi/2022/565/schedule/3/paragraph/2/a) omitted (28.4.2026) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2026/390/regulation/17) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-867e2163ef97f2982a7b7efd058e6f17]: Textual amendment: Words in [Sch. 3 para. 2(c)](https://www.legislation.gov.uk/uksi/2022/565/schedule/3/paragraph/2/c) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [24(a)](https://www.legislation.gov.uk/uksi/2024/524/regulation/24/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-cee99f1eece86638205c122c5b8f90fe]: Textual amendment: Sch. 3 para. 2(da) inserted (8.5.2024) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [24(b)](https://www.legislation.gov.uk/uksi/2024/524/regulation/24/b) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-afa57c252a4399dfcc39d4cdba75b17e]: Textual amendment: [Sch. 3 para. 2(e)](https://www.legislation.gov.uk/uksi/2022/565/schedule/3/paragraph/2/e) omitted (8.5.2024) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/524)](https://www.legislation.gov.uk/uksi/2024/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2), [24(c)](https://www.legislation.gov.uk/uksi/2024/524/regulation/24/c) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25))
+
+[^key-35b95029630b08063b3b72558924ccb2]: Commencement: Sch. 4 para. 1 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)
+
+[^key-ec241d3613f24e7b337aa422cec33d2d]: Textual amendment: Word in [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/uksi/2022/565/schedule/4/paragraph/1/a) omitted (28.4.2026) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2026/390/regulation/18/a) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-6ed49bcba15c0365ecce4ea0a16e5788]: Textual amendment: [Sch. 4 para. 1(b)](https://www.legislation.gov.uk/uksi/2022/565/schedule/4/paragraph/1/b) omitted (28.4.2026) by virtue of [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2026/390/regulation/18/b) (with [reg. 19](https://www.legislation.gov.uk/uksi/2026/390/regulation/19))
+
+[^key-3b071c0cb23f6ea46ab026da4df07dcd]: Commencement: Sch. 4 para. 2 in force at 23.5.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/565/regulation/1/1)

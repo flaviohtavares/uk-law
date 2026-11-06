@@ -1,0 +1,245 @@
+---
+title: The INSPIRE (Amendment) Regulations 2012
+id: uksi/2012/1672
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-07-01'
+text_date: '2012-08-01'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2012/1672
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/1672/pdfs/uksiem_20121672_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1672/pdfs/uksi_20121672_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1672/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The INSPIRE (Amendment) Regulations 2012
+
+> Text as at 2012-08-01.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2012 No. 1672
+
+Environmental Protection
+
+Public Sector Information
+
+The INSPIRE (Amendment) Regulations 2012
+
+Made
+
+1st July 2012
+
+Laid before Parliament
+
+5th July 2012
+
+Coming into force
+
+1st August 2012
+
+The Secretary of State, who is designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to the environment[^f00002], makes the following Regulations in exercise of the powers conferred under section 2(2) of that Act.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the INSPIRE (Amendment) Regulations 2012 and come into force on 1st August 2012.
+
+## 2. Amendment of the INSPIRE Regulations 2009
+
+The INSPIRE Regulations 2009[^f00003] are amended in accordance with the following provisions of these Regulations.
+
+## 3. Amendment of regulation 2
+
+In regulation 2 (interpretation), in paragraph (1), after the definition of “discovery service” insert—
+
+> - “interoperability” means the possibility for spatial data sets to be combined, and for services to interact, without repetitive manual intervention, in such a way that the result is coherent and the added value of the data sets and services is enhanced;
+
+.
+
+## 4. Amendment of regulation 6
+
+In regulation 6 (metadata)—
+
+- (a) in paragraph (2), after sub-paragraph (a) insert—
+
+  > - (aa) (where the metadata relates to a spatial data set corresponding to the themes listed in Annex I to the Directive or to a spatial data service relating to such a data set) the conformity of that data set or data service with the requirements as to interoperability set out in regulation 6A;
+
+  ;
+- (b) after paragraph (2) insert—
+
+  > (2A) The information in paragraph (2)(aa) regarding conformity with requirements as to interoperability must be included from the date by which the requirements in question apply.
+
+  ; and
+- (c) in paragraph (5), for “24th December” substitute “3rd December”.
+
+## 5. Insertion of regulation 6A
+
+After regulation 6 insert—
+
+> **6A. Interoperability**
+>
+> (1) A public authority or a third party must ensure that the following are available in accordance with paragraph (2)—
+>
+> - (a) any spatial data set for which that authority or third party is responsible and which corresponds to the themes listed in Annex I to the Directive; and
+> - (b) any spatial data service for which that authority or third party is responsible and which relates to a data set described in sub-paragraph (a).
+>
+> (2) The spatial data sets and spatial data services described in paragraph (1) must be available as follows—
+>
+> - (a) newly collected or extensively restructured spatial data sets and spatial data services relating to those data sets—
+>   - (i) must be available in conformity with the interoperability requirements (Annex I, original) by 23rd November 2012, and
+>   - (ii) must be available in conformity with the interoperability requirements (Annex I, including new code list requirements) by 4th February 2013; and
+> - (b) spatial data sets and spatial data services not described in sub-paragraph (a) and still in use—
+>   - (i) must be available in conformity with the interoperability requirements (Annex I, original) by 23rd November 2017, and
+>   - (ii) must be available in conformity with the interoperability requirements (Annex I, including new code list requirements) by 4th February 2018.
+>
+> (3) Spatial data sets may be made available in conformity through—
+>
+> - (a) the adaptation of existing data sets; or
+> - (b) the transformation services specified in regulation 7(2)(d).
+>
+> (4) In this regulation—
+>
+> - (a) “the interoperability requirements (Annex I, original)” means the requirements of Commission Regulation (EU) No 1089/2010 implementing Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) of the European Parliament and of the Council as regards interoperability of spatial data sets and services[^f00004], in its original form as adopted on 23rd November 2010; and
+> - (b) “the interoperability requirements (Annex I, including new code list requirements)” means the requirements of Commission Regulation (EU) No 1089/2010 implementing Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) as regards interoperability of spatial data sets and services[^f00005].
+
+.
+
+## 6. Amendment of regulation 7
+
+In regulation 7 (network services)—
+
+- (a) after paragraph (1) insert—
+
+  > (1A) The requirement in paragraph (1) applies from 3rd December 2013 in relation to spatial data sets corresponding to the themes listed in Annex III to the Directive and to spatial data services relating to those data sets (even if metadata relating to those data sets or data services have been created before that date).
+
+  ;
+- (b) after paragraph (2) insert—
+
+  > (2A) Discovery services must enable a search according to the criterion in paragraph (3)(ca) regarding conformity with requirements as to interoperability from the date by which the requirements in question apply.
+
+  ;
+- (c) in paragraph (3), after sub-paragraph (c) insert—
+
+  > - (ca) (in the case of a spatial data set corresponding to the themes listed in Annex I to the Directive or a spatial data service relating to such a data set) the degree of conformity with the requirements as to interoperability set out in regulation 6A;
+
+  ;
+- (d) after paragraph (3) insert—
+
+  > (3A) In the case of a spatial data set corresponding to the themes listed in Annex I to the Directive or a spatial data service relating to such a data set, from the date by which any particular requirements as to interoperability set out in regulation 6A apply, the transformation services specified in sub-paragraph (d) of paragraph (2) must be combined with the other services specified in that paragraph in such a way as to enable all those services to be operated in conformity with those requirements.
+
+  ; and
+- (e) omit paragraph (5).
+
+## 7. Amendment of regulation 8
+
+In regulation 8 (linking to a network), for paragraph (3) substitute—
+
+> (3) The conditions are—
+>
+> - (a) metadata have been created in accordance with regulation 6 and the Metadata Regulation (if on the date in question metadata were required to be created by regulation 6);
+> - (b) services have been established and are operated in accordance with regulation 7 and [Commission Regulation (EC) No 976/2009](https://www.legislation.gov.uk/european/regulation/2009/0976) implementing Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) as regards the Network Services[^f00006]; and
+> - (c) (in the case of a spatial data set corresponding to the themes listed in Annex I to the Directive or a spatial data service relating to such a data set) there is conformity with the applicable requirements as to interoperability set out in regulation 6A (if on the date in question conformity with those requirements is required by that regulation).
+
+.
+
+## 8. Amendment of regulation 11
+
+In regulation 11 (enforcement and appeals in relation to public access)—
+
+- (a) in paragraph (2)—
+  - (i) omit sub-paragraph (i), and
+  - (ii) for sub-paragraph (j) substitute—
+
+    > - (j) section 61[^f00007] (appeal proceedings).
+
+    ; and
+- (b) omit paragraph (10).
+
+## 9. Amendment of regulation 12
+
+In regulation 12 (data-sharing between public authorities etc.), in paragraph (7)(b), for “member State” substitute “EEA state”.
+
+## 10. Amendment of regulation 14
+
+In regulation 14 (coordination and monitoring), for paragraph (3)(a) substitute—
+
+> - (a) ensuring compliance with the requirements of—
+>   - (i) regulation 6 (metadata),
+>   - (ii) regulation 6A (interoperability), and
+>   - (iii) regulation 7 (network services), except regulation 7(4)(c); and
+
+.
+
+## 11. Addition of regulation 15
+
+After regulation 14 add—
+
+> **15. Review**
+>
+> (1) The Secretary of State must from time to time—
+>
+> - (a) carry out a review of these Regulations;
+> - (b) set out the conclusions of the review in a report; and
+> - (c) publish the report.
+>
+> (2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the Directive is implemented in other member States.
+>
+> (3) The report must in particular—
+>
+> - (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations;
+> - (b) assess the extent to which those objectives are achieved; and
+> - (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+>
+> (4) The first report under this regulation must be published before the end of the period of five years beginning on 1st August 2012.
+>
+> (5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+.
+
+Taylor of Holbeach
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+1st July 2012
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make amendments to the INSPIRE Regulations 2009 ([S.I. 2009/3157](https://www.legislation.gov.uk/uksi/2009/3157)), which implement Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) (OJ No L 108, 25.4.2007, p.1) (“the Directive”) which concerns the creation and operation of national and European Union infrastructures relating to spatial information for the purposes of EU environmental policies and other policies or activities which may have an impact on the environment.
+
+Certain provisions of the Directive regarding conformity of spatial data sets and services with interoperability requirements were not previously transposed as the implementing rules setting out those requirements had not been made. Commission Regulation (EU) No 1089/2010 (OJ No L 323, 8.12.2010, p.11) sets out those requirements in respect of spatial data sets which correspond to the themes listed in Annex I to the Directive (and spatial data services relating to such data sets), and these Regulations amend the INSPIRE Regulations accordingly (regulations 4, 5, 6, 7 and 10).
+
+Regulation 8 makes amendments to modifications of the Freedom of Information Act [2000 (c.36)](https://www.legislation.gov.uk/ukpga/2000/36) consequential on the abolition of the Information Tribunal.
+
+Regulation 11 makes an amendment requiring the Secretary of State to review the operation and effect of the INSPIRE Regulations and publish a report within five years after 1st August 2012 and within every five years after that.
+
+The transposition note previously prepared in connection with the Directive has been updated, and is available at http://data.gov.uk/location/inspire/ or from the Department for Environment, Food and Rural Affairs, Ergon House, Horseferry Road, London SW1P 2AL.
+
+A separate impact assessment has not been produced for this instrument as the impact assessment prepared for the INSPIRE Regulations 2009 included the full cost of implementation, including costs arising from the interoperability requirements. That impact assessment is available, together with the Explanatory Memorandum, alongside this instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51), section 27(1)(a), and the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), Part 1 of the Schedule.
+
+[^f00002]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
+
+[^f00003]: Footnote: [S.I. 2009/3157](https://www.legislation.gov.uk/uksi/2009/3157).
+
+[^f00004]: Footnote: OJ No L 323, 8.12.2010, p.11.
+
+[^f00005]: Footnote: As amended by Commission Regulation (EU) No 102/2011 (OJ No L 31, 5.2.2011, p.13).
+
+[^f00006]: Footnote: OJ No L 274, 20.10.2009, p.9, as amended by Commission Regulation (EU) No 1088/2010 (OJ No L 323, 8.12.2010, p.1).
+
+[^f00007]: Footnote: Section 61 of the Freedom of Information Act [2000 (c.36)](https://www.legislation.gov.uk/ukpga/2000/36) was amended by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).

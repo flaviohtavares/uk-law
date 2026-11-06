@@ -1,0 +1,112 @@
+---
+title: The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1991
+id: uksi/1991/455
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1991-02-28'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1991/455
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1991/455/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1991
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1991 No. 455
+
+ROAD TRAFFIC
+
+The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1991
+
+Made
+
+28th February 1991
+
+Laid before Parliament
+
+7th March 1991
+
+Coming into force
+
+1st April 1991
+
+The Secretary of State for Transport, in exercise of the powers conferred by sections 45 and 46 of the Road Traffic Act 1988[^f00001] and the Department of Transport (Fees) Order 1988[^f00002], and of all other enabling powers, and after consultation with representative organisations in accordance with section 195(2) of that Act, hereby makes the following Regulations:
+
+**1.** These Regulations may be cited as the Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1991 and shall come into force on 1st April 1991.
+
+**2.** The Motor Vehicles (Tests) Regulations 1981[^f00003] shall be further amended in accordance with the provisions of these Regulations.
+
+**3.** In the Regulations specified in column 1 of the Table below for the amounts specified in column 2 of the Table there shall be substituted the amounts specified in column 3 of the Table.
+
+**TABLE**
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+<tr><th><em>Regulation</em></th><th><em>Existing Amount</em></th><th><em>Substituted Amount</em></th></tr>
+</thead>
+<tbody>
+<tr><td>20(1)(b)(i)</td><td>£38.00</td><td>£40.60</td></tr>
+<tr><td>20(1)(b)(ii)</td><td>£26.50</td><td>£28.30</td></tr>
+<tr><td>20(2A)</td><td>£24.50</td><td>£26.00</td></tr>
+<tr><td></td><td>£18.00</td><td>£19.10</td></tr>
+<tr><td>23(2)(a)</td><td>£8.25</td><td>£8.80</td></tr>
+</tbody>
+</table>
+
+**4.** In Regulation 20(4) for the Table there shall be substituted the following Table—
+
+> TABLE
+>
+> **FEES RELATING TO THE RE-EXAMINATION OF VEHICLES IN CLASS VI**
+>
+> <table>
+> <thead>
+> <tr><th><em>Column 1</em></th><th><em>Column 2</em></th><th><em>Column 3</em></th></tr>
+> <tr><th><em>Description of Vehicle</em></th><th><em>Normal Fee</em></th><th><em>Saturday Fee</em></th></tr>
+> </thead>
+> <tbody>
+> <tr><td>Vehicles in Class VI constructed or adapted to carry more than 12 passengers</td><td>(a) £20.00, if the vehicle is submitted for a further examination within 14 days of the date of the issue of the notice of refusal of a test certificate, or</td><td>(a) £33.00 in the circumstances described in paragraph (a) of the entry in column 2, or</td></tr>
+> <tr><td></td><td>(b) £40.60 in any other case.</td><td>(b) £66.60 in any other case</td></tr>
+> <tr><td>Other vehicles in Class VI</td><td>(a) £ 14.20, it the vehicle is submitted for a further examination within 14 days of the date of the issue of the notice of refusal of a test certificate, or</td><td>(a) £23.70, in the circumstances described in paragraph (a) of the entry in column 2, or</td></tr>
+> <tr><td></td><td>(b) £28.30, in any other case.</td><td>(b) £47.40, in any other case.</td></tr>
+> </tbody>
+> </table>
+
+Signed by authority of the Secretary of State for Transport
+
+Christopher Chope
+
+Parliamentary Under Secretary of State,
+
+Department of Transport
+
+28th February 1991
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Motor Vehicles (Tests) Regulations 1981 (“the 1981 Regulations”) in relation to Class VI vehicles (Public Service Vehicles other than those of a type specified in regulation 5(3)) as follows.
+
+- (a) The fee payable for an examination under regulation 12 of the 1981 Regulations of a vehicle constructed or adapted to carry more than 12 passengers is increased from £38.00 to £40.60 and where the appointment for such an examination is, at the applicant’s request, on a Saturday, the supplement to the normal fee is increased from £24.50 to £26.00.
+- (b) The fee payable for a re-examination of such a vehicle within 14 days of the date of the issue of the notice of refusal of a test certificate, is increased from £18.75 to £20.00 and where the appointment for such a re-examination is, at the applicant’s request, on a Saturday, the supplement to the normal fee is increased from £12.25 to £13.00.
+- (c) The fee payable for a re-examination of such a vehicle later than 14 days from the issue of the notice of refusal is increased from £38.00 to £40.60 and where the appointment for such a re-examination is, at the applicant’s request, on a Saturday, the supplement to the normal fee is increased from £24.50 to £26.00.
+- (d) The fee payable for an examination under regulation 12 of the 1981 Regulations of a vehicle in any other case is increased from £26.50 to £28.30 and where the appointment for such an examination is, at the applicant’s request, on a Saturday, the supplement to the normal fee is increased from £18.00 to £19.10.
+- (e) The fee payable for a re-examination of such a vehicle within 14 days of the date of the issue of the notice of the refusal of a test certificate, is increased from £13.25 to £14.20 and where the appointment for such a re-examination is, at the applicant’s request, on a Saturday, the supplement to the normal fee is increased from £9.00 to £9.50.
+- (f) The fee payable for a re-examination of such a vehicle later than 14 days from the issue of the notice of refusal is increased from £26.50 to £28.30 and where the appointment for such a re-examination Is, at the applicant’s request, on a Saturday, the supplement to the normal fee is increased from £18.00 to £19.10.
+- (g) The fee payable for the issue of a duplicate test certificate is increased from £8.25 to £8.80.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
+
+[^f00002]: Footnote: [S.I. 1988/643](https://www.legislation.gov.uk/uksi/1988/643), which was made under section 102 of the Finance (No. 2) Act [1987 (c. 51)](https://www.legislation.gov.uk/ukpga/1987/51).The relevant reference in [S.I. 1988/643](https://www.legislation.gov.uk/uksi/1988/643) is item 1 of Table III of Schedule 1.
+
+[^f00003]: Footnote: [S.I. 1981/1694](https://www.legislation.gov.uk/uksi/1981/1694); relevant amending instruments are [S.I. 1984/401](https://www.legislation.gov.uk/uksi/1984/401), [1986/372](https://www.legislation.gov.uk/uksi/1986/372), [1988/339](https://www.legislation.gov.uk/uksi/1988/339) and [989](https://www.legislation.gov.uk/uksi/1988/989), [1989/321](https://www.legislation.gov.uk/uksi/1989/321) and [1694](https://www.legislation.gov.uk/uksi/1989/1694), [1990/449](https://www.legislation.gov.uk/uksi/1990/449) and [628](https://www.legislation.gov.uk/uksi/1990/628), and [1991/253](https://www.legislation.gov.uk/uksi/1991/253).

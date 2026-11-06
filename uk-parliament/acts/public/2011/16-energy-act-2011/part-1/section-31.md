@@ -1,0 +1,49 @@
+---
+title: Energy Act 2011, section 31
+act: Energy Act 2011
+section: '31'
+status: revised
+text_date: '2022-12-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2011/16/section/31
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2011, section 31
+
+> Text as at 2022-12-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 31. Delegation and conferring of functions[^key-fe7130c536c633541e08ddc226ed03db]
+
+*Extent: E+W+S*
+
+(1) The Secretary of State may by order provide for the following functions conferred on the Secretary of State to be exercisable instead by a public body specified in the order—
+
+- (a) any function exercisable in connection with the scheme established by the framework regulations;
+- (b) any function exercisable under the framework regulations by virtue of section 6(4);
+- (c) any function under regulations made under section 16.
+
+(2) If the function of issuing a code of practice for the purposes of the scheme is specified in an order by virtue of subsection (1)(a), a draft of the code must be approved by the Secretary of State before the Secretary of State lays the draft before Parliament under section 39(2).
+
+(3) If the function of revoking a code of practice issued for the purposes of the scheme is specified in an order by virtue of subsection (1)(a), the code must not be revoked without the approval of the Secretary of State.
+
+(4) The Secretary of State may by order make provision conferring administration functions on—
+
+- (a) the Secretary of State;
+- (b) a public body specified in the order.
+
+(5) For the purposes of subsection (4) administration functions are functions in connection with the administration of any provision in licences under section 7 or 7A of the Gas Act 1986 or section 6(1)(c) or (d) of the Electricity Act 1989 made by virtue of section 17(3) of this Act.
+
+(6) An order made by virtue of subsection (1) or (4)(b) may provide for—
+
+- (a) different functions to be exercisable by different public bodies;
+- (b) the same function to be exercisable by different public bodies in relation to different areas.
+
+(7) The Secretary of State may make payments to any public body specified in an order made by virtue of subsection (1).
+
+## Annotations
+
+[^key-fe7130c536c633541e08ddc226ed03db]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2011/16/section/31) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(vii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/vii)

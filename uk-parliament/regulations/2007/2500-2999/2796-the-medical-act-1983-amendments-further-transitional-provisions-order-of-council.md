@@ -1,0 +1,133 @@
+---
+title: The Medical Act 1983 Amendments (Further Transitional Provisions) Order of Council 2007
+id: uksi/2007/2796
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2007-09-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/2796
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/2796/pdfs/uksiem_20072796_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/2796/pdfs/uksi_20072796_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/2796/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Medical Act 1983 Amendments (Further Transitional Provisions) Order of Council 2007
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2007 No. 2796
+
+health care and associated professions
+
+doctors
+
+The Medical Act 1983 Amendments (Further Transitional Provisions) Order of Council 2007
+
+Made
+
+24th September 2007
+
+Laid before Parliament
+
+25th September 2007
+
+Coming into force
+
+19th October 2007
+
+At the Council Chamber, Whitehall, the 24th day of September 2007
+
+By the Lords of Her Majesty’s Most Honourable Privy Council
+
+Their Lordships make the following Order in exercise of the powers conferred upon them by article 92(1) of the Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006[^f00001].
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Medical Act 1983 Amendments (Further Transitional Provisions) Order of Council 2007 and shall come into force on 19th October 2007.
+
+(2) In this Order—
+
+- “the Act” means the Medical Act 1983[^f00002];
+- “the Amending Order” means the Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006; and
+- “the Fraud or Error Rules” means the Rules scheduled to the General Medical Council (Fraud or Error in Relation to Registration) Rules Order of Council 2005[^f00003], as in force on 18th October 2007.
+
+(3) Words and expressions used both in article 3 or 4 and in the Act bear the meanings they bear in the Act.
+
+## 2. Transitional provision pending the introduction of new requirements for the register of medical practitioners
+
+Pending the coming into force of article 8(b)(i) of the Amending Order (which relates to amendments to section 30 of the Act), section 30(3) of the Act[^f00004] (which contains general provisions relating to the register) shall apply as if for “Each Register” there were substituted “The Register”.
+
+## 3. Transitional provisions relating to fraud or error cases
+
+(1) Subject to paragraph (2), any allegation that an entry in the register has been fraudulently procured or incorrectly made that is being dealt with under section 39 of the Act[^f00005] (which relates to fraud or error in relation to registration) on 18th October 2007 shall thereafter be dealt with under section 39 of the Act as substituted on 19th October 2007 by the Amending Order.
+
+(2) If, in a case where it appears to the Registrar that a person’s entry in the register may have been—
+
+- (a) incorrectly made but not fraudulently procured, and the Registrar has, prior to 19th October 2007, written to the person in accordance with rule 4(1) of the Fraud or Error Rules; or
+- (b) fraudulently procured, and the Registrar has, prior to 19th October 2007, referred the matter to the President in accordance with rule 5(1) of the Fraud or Error Rules,
+
+that case shall be dealt with under sections 39 and 40 of the Act[^f00006], as in force on 18th October 2007, and the Fraud or Error Rules.
+
+## 4. Transitional provisions relating to section 44A cases
+
+(1) Subject to paragraph (2)(b), where a matter is being dealt with under section 44A(2) of the Act[^f00007] (effect of disqualification or conviction on registration) on 18th October 2007, that matter shall thereafter be dealt with under section 44B(1) of the Act[^f00008] (provision of information in respect of fitness to practise matters).
+
+(2) If, before 19th October 2007, the Registrar has decided—
+
+- (a) not to register a person by virtue of section 44A(1) of the Act; or
+- (b) to remove a person’s name from the register pursuant to section 44A(2) of the Act,
+
+that Act as in force on 18th October 2007 shall apply for the purposes of any appeal against that decision.
+
+(3) If, before 19th October 2007, a Fitness to Practise Panel is seized of a matter that may give rise to a direction under section 44A(4), section 44A(4) shall continue to apply as regards that matter notwithstanding its repeal by virtue of the Amending Order.
+
+## 5. Transitional provision relating to Schedule 3A
+
+Pending the coming into force of article 69 of the Amending Order (new section 44C of the Act), in Schedule 3A to the Act[^f00009] (registration appeals), in paragraph 1 (interpretation), paragraph (b) of the definition of “person making the decision” shall apply as if, for “44, 44B or 44C” there were substituted “44 or 44B”.
+
+Judith Simpson
+
+Clerk of the Privy Council
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order of the Privy Council contains transitional provisions relating to the provisions of the Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 which are to come into force on 19th October 2007. These transitional provisions relate to sundry amendments to the Medical Act 1983 (“the Act”).
+
+Article 2 makes a temporary change to the wording of section 30(3) of the Act to take account of the abolition of the register of medical practitioners with limited registration: this change is necessary because a revised version of section 30(3) to be introduced by the Medical Act 1983 (Amendment) Order 2002 has not yet been brought into force.
+
+Article 3 deals with outstanding fraud or error cases in relation to registration under the Act. Cases will be dealt with under the new arrangements unless they have reached specified stages under the old arrangements.
+
+Article 4 deals with outstanding cases relating to section 44A(1), (2) or (4) of the Act (as section 44A is being repealed). Under section 44A(2), the Registrar had powers to remove a person from the register if he withheld specified types of fitness to practise information from the Registrar at the time of registration. If the Registrar has taken a decision to remove a person under section 44A(2) before 19th October 2007, any appeal has to be processed under the old arrangements; otherwise, the matter has to be dealt with under the new arrangements set out in the new section 44B of the Act. Similarly, if registration has been refused for one of the specified fitness to practise reasons before 19th October 2007, any appeal has to be processed under the old arrangements.
+
+Section 44A(4) of the Act gave Fitness to Practise Panels certain powers to direct suspension of a registrant in cases where another regulatory body has found that his fitness to practise is impaired. Notwithstanding its repeal, these powers are retained in cases where a Fitness to Practise Panel is already seized of a matter that may give rise to such a direction.
+
+Article 5 makes a temporary change to a definition to take into account the fact that the new section 44C of the Act, which relates to indemnity arrangements, has not yet been brought into force.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
+
+[^f00002]: Footnote: [1983 c.54](https://www.legislation.gov.uk/ukpga/1983/54).
+
+[^f00003]: Footnote: [S.I. 2005/401](https://www.legislation.gov.uk/uksi/2005/401).
+
+[^f00004]: Footnote: Section 30(3) is to be substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), and thereafter amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914), on dates to be appointed.
+
+[^f00005]: Footnote: On 18th October 2007 section 39 will be as inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
+
+[^f00006]: Footnote: In so far as is relevant to the provisions of this Order, on 18th October 2007 section 40 will be as inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
+
+[^f00007]: Footnote: Section 44A was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
+
+[^f00008]: Footnote: Section 44B is to be inserted by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) on 19th October 2007.
+
+[^f00009]: Footnote: Schedule 3A was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).

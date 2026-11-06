@@ -1,0 +1,148 @@
+---
+title: The Education (Acquisition of Grant–maintained Status) (Transitional Functions) Regulations 1993
+id: uksi/1993/3072
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1993-12-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1993/3072
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1993/3072/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Acquisition of Grant–maintained Status) (Transitional Functions) Regulations 1993
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1993 No. 3072
+
+EDUCATION, ENGLAND AND WALES
+
+The Education (Acquisition of Grant–maintained Status) (Transitional Functions) Regulations 1993
+
+Made
+
+7th December 1993
+
+Laid before Parliament
+
+10th December 1993
+
+Coming into force
+
+1st January 1994
+
+In exercise of the powers conferred on the Secretary of State by section 301(6) of, and paragraphs 1 and 4 of Schedule 4 to, the Education Act 1993[^f00001], the Secretary of State for Education, as respects England, and the Secretary of State for Wales, as respects Wales, hereby make the following Regulations:
+
+## PART I — GENERAL
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Education (Acquisition of Grant– maintained Status) (Transitional Functions) Regulations 1993 and shall come into force on 1st January 1994.
+
+### 2. Interpretation
+
+In these Regulations—
+
+- “the 1993 Act” means the Education Act 1993; and
+- “new governing body” shall be interpreted in accordance with section 34(2) of the 1993 Act.
+
+## PART II — CONTRACTS OF EMPLOYMENT
+
+### 3. Application of Part II
+
+(1) This Part of these Regulations shall apply with respect to the exercise by the new governing body of a grant–maintained school of their powers under paragraph 2(a) of Schedule 4 to the 1993 Act to enter into a contract with a person for his employment as a member of staff at the school on or after the implementation date.
+
+(2) In this regulation, “implementation date” means the date specified as the proposed date of implementation in the proposals for acquisition of grant–maintained status published in relation to the school under section 32 of the 1993 Act.
+
+### 4. Appointment of a prospective head teacher or deputy head teacher
+
+(1) This regulation applies to the exercise by the new governing body of a grant maintained school of their powers to enter into a contract of employment to which this Part of these Regulations applies where the person concerned is to be employed as the head or deputy head teacher of the school.
+
+(2) Before entering into any such contract with any person, the new governing body shall comply with the following provisions of this regulation with respect to the person’s appointment to the post of head teacher or, as the case may be, deputy head teacher.
+
+(3) The new governing body shall advertise the vacancy in such publications circulating throughout England and Wales as they consider appropriate.
+
+(4) The new governing body shall appoint a selection panel consisting of at least three of their members for the purpose of performing the functions conferred on the panel under paragraphs (5) and (6) below; and it shall be the duty of the new governing body to secure that the selection panel carry out the functions imposed on them under those paragraphs.
+
+(5) The selection panel shall—
+
+- (a) interview such applicants for the post as they think fit; and
+- (b) where they consider that it is appropriate to do so, recommend to the new governing body for appointment one of the applicants interviewed by them.
+
+(6) Where—
+
+- (a) the selection panel are unable to agree on a person to recommend to the new governing body of a grant–maintained school, or the new governing body do not approve their recommendation; and
+- (b) the new governing body (whether or not they re–advertise the vacancy in accordance with paragraph (3) above) request the panel to repeat the steps mentioned in paragraph (5) above,
+
+the panel shall repeat the steps mentioned in that paragraph.
+
+### 5. Appointment of staff other than the head teacher and deputy head teacher
+
+(1) This regulation applies to the exercise by the new governing body of a grant– maintained school of their powers to enter into a contract of employment to which this Part of these Regulations applies where the person concerned is to be employed otherwise than as the head or deputy head teacher of the school.
+
+(2) Before entering into any such contract with any person, the new governing body shall comply with the following provisions of this regulation with respect to the person’s appointment.
+
+(3) Subject to paragraph (4) below, the new governing body shall, before determining to appoint any person, consider any advice given by—
+
+- (a) any person who has been appointed by the new governing body to be the head teacher of the school from a date beginning on or after the implementation date; or
+- (b) if there is no such person, the existing head teacher of the school.
+
+(4) The new governing body may delegate to the person referred to in paragraph (3)(a) above or, if there is no such person, the person referred to in paragraph (3)(b) above the function of selecting a person to be considered by them for appointment; and in those circumstances paragraph (3) above shall not apply.
+
+(5) Subject to paragraph (6) below, before appointing any person to a teaching post at the school the new governing body shall, unless they decide to fill the vacancy by the appointment of a person who is already employed to work at the school, advertise the vacancy as they think fit.
+
+(6) Where the new governing body advertise a vacancy in accordance with paragraph (5) above, they shall not be required to appoint a person who has applied for the vacancy in response to their advertisement.
+
+### 6. Form of contract of employment
+
+Any contract of employment to which this Part of these Regulations applies shall be in writing.
+
+## PART III — PROVISION OF INFORMATION
+
+### 7. Information which may be requested by the new governing body
+
+(1) For the purposes of paragraph 4(1) of Schedule 4 to the 1993 Act, the information which may be requested by the new governing body of a grant–maintained school is—
+
+- (a) any information held by the existing governing body of the school or, as the case may be, the local education authority by whom the school is maintained relating to the persons employed to work at the school;
+- (b) any information so held relating to any property (including premises) held or used for the purposes of the school;
+- (c) any information so held relating to expenditure by the existing governing body of any sums made available to them in respect of the school’s budget share for the financial year in which the request is made;
+- (d) any information so held relating to any contract entered into, or proposed to be entered into, by the existing governing body or (as the case may be) the local education authority which would or might bind the new governing body when the school becomes grant–maintained; and
+- (e) any information held by the existing governing body of the school relating to the pupils at the school, including in particular the names and addresses of their parents.
+
+(2) In this regulation—
+
+- “financial year” means a period of twelve months ending with 31st March; and
+- “school’s budget share” shall be interpreted in accordance with section 51(2)(b) of the Education Reform Act 1988[^f00002].
+
+John Patten
+
+Secretary of State for Education
+
+3rd December 1993
+
+John Redwood
+
+Secretary of State for Wales
+
+7th December 1993
+
+(This note is not part of the Regulations)
+
+These Regulations make provision as to the exercise by the new governing body of a grant–maintained school of their powers before the implementation date of proposals for the acquisition of grant–maintained status.
+
+Part II of the Regulations makes provision as to the circumstances, manner and conditions of the exercise by the new governing body of their powers to enter into contracts for the employment of teachers and other staff. Part II makes separate provision with respect to the employment of a head or deputy head teacher (regulation 4) and the employment of other staff (regulation 5).
+
+Part III of the Regulations makes provision as to the categories of information with which the existing governing body of a school, or the local education authority which maintains it, may be required to provide the new governing body of the school under paragraph 4 of Schedule 4 to the Education Act 1993
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35).
+
+[^f00002]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).

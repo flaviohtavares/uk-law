@@ -1,0 +1,106 @@
+---
+title: The Aviation Security (Amendment) (EU Exit) Regulations 2020
+id: uksi/2020/798
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-07-22'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/798
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/798/pdfs/uksiem_20200798_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/798/pdfs/uksi_20200798_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/798/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Aviation Security (Amendment) (EU Exit) Regulations 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 798
+
+Exiting The European Union
+
+Civil Aviation
+
+The Aviation Security (Amendment) (EU Exit) Regulations 2020
+
+Sift requirements satisfied
+
+14th July 2020
+
+Made
+
+22nd July 2020
+
+Laid before Parliament
+
+24th July 2020
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State, in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018[^f00001], makes the following Regulations.
+
+The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdrawal) Act 2018 (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Aviation Security (Amendment) (EU Exit) Regulations 2020 and come into force immediately before IP completion day.
+
+## 2. Amendment of Aviation Security (Amendment etc.) (EU Exit) Regulations 2019
+
+Regulation 125 of the Aviation Security (Amendment etc.) (EU Exit) Regulations 2019[^f00002] is amended as follows—
+
+- (a) for paragraph (2) substitute—
+
+  > (2) In point 12.0.1.1, omit the final sentence.
+
+  ;
+- (b) after paragraph (2) insert—
+
+  > (2A) For point 12.0.2.1 substitute—
+  >
+  > > - 12.0.2.1 Designated security equipment may only be installed if it has either been approved or exempted from approval by the appropriate authority.
+  >
+  > .
+
+  ;
+- (c) after paragraph (2A) insert—
+
+  > (2B) Omit points 12.0.2.2, 12.0.2.3, 12.0.2.4, 12.0.2.5, 12.0.3, 12.0.4 and 12.0.5.
+
+  ;
+- (d) in paragraph (24), for “12-M” substitute “12-O”.
+
+Signed by authority of the Secretary of State for Transport
+
+Rachel Maclean
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+22nd July 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made in the exercise of the powers in section 8(1) of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(a), (d) and (g)) arising from the withdrawal of the United Kingdom from the European Union.
+
+[EU Regulation 2015/1998](https://www.legislation.gov.uk/european/regulation/2015/1998) prescribes detailed aviation security requirements for the implementation of common basic standards. These Regulations amend the Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (“the 2019 Regulations”) to ensure that retained EU law will operate effectively in light of the amendments to [EU Regulation 2015/1998](https://www.legislation.gov.uk/european/regulation/2015/1998) since the 2019 Regulations were made.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+An Explanatory Memorandum is published alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Section 8 was amended by section 27 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
+
+[^f00002]: Footnote: [S.I. 2019/547](https://www.legislation.gov.uk/uksi/2019/547).

@@ -1,0 +1,27 @@
+---
+title: Further and Higher Education Act 1992, section 56I
+act: Further and Higher Education Act 1992
+section: 56I
+status: revised-with-pending-changes
+text_date: '2026-07-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1992/13/section/56I
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Further and Higher Education Act 1992, section 56I
+
+> **Warning: changes not yet applied to this text (28).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/13
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 56I. Appointment by YPLA of members of sixth form college governing body[^key-c8dcf3d836860828be852d78617e88d5]
+
+*Extent: E+W*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-c8dcf3d836860828be852d78617e88d5]: Textual amendment: S. 56I repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 34](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/34); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

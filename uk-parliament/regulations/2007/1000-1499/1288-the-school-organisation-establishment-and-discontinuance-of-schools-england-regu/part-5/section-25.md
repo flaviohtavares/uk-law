@@ -1,0 +1,43 @@
+---
+title: The School Organisation (Establishment and Discontinuance of Schools) (England) Regulations 2007, section 25
+act: The School Organisation (Establishment and Discontinuance of Schools) (England) Regulations 2007
+section: '25'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/1288/section/25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The School Organisation (Establishment and Discontinuance of Schools) (England) Regulations 2007, section 25
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 25. Provision for notification of decisions
+
+(1) The local education authority must notify the following persons of each decision under paragraph 8 of Schedule 2 to the Act, or determination under paragraph 21(3) of that Schedule, together with their reasons—
+
+- (a) the proposers;
+- (b) subject to paragraph (5), each objector;
+- (c) the Secretary of State;
+- (d) where proposals include provision for 14-16 education or sixth form education, the Learning and Skills Council for England;
+- (e) the Diocesan Board of Education for any diocese of the Church of England any part of which is comprised in the area of the local education authority;
+- (f) the bishop of a diocese of the Roman Catholic Church any part of which is comprised in the area of the local education authority;
+- (g) where the proposals concern a special school—
+  - (i) the relevant Primary Care Trust for the area in which the school is situated, and
+  - (ii) the NHS trust or NHS foundation trust responsible for hospital or other provision in the area in which the school is situated; and
+- (h) the adjudicator.
+
+(2) In the case of any determination made by an authority pursuant to paragraph 19 of Schedule 2 to the Act, the authority must notify the governing body of the school which is the subject of the proposals and the Secretary of State.
+
+(3) The authority must notify the persons referred to in sub-paragraphs (a) to (c) of paragraph (1) if they refer any proposals or matter to the adjudicator under paragraph 10, 11 or 13 of Schedule 2 to the Act (or pursuant to a direction under paragraph 12 of that Schedule).
+
+(4) The adjudicator must notify the persons referred to in sub-paragraphs (1)(a) to (g) and the local education authority of each decision, together with his reasons.
+
+(5) Where objections to a proposal take the form of a petition (that is to say a document containing the text of one objection signed by more than one objector) the local education authority or the adjudicator as the case may be may comply with paragraph (1) (b) by—
+
+- (a) notifying the person (if any) who appears to them or him to have arranged for the petition to be sent to the local education authority; or
+- (b) if there is no such person, notifying the objector whose name appears first on the petition.
+
+(6) Where proposals have been sent to the authority or adjudicator as the case may be, they or he must notify the proposers or the local education authority, as the case may be, if any further proposals sent to them or him appear to them or him, pursuant to paragraph 9 (2) of Schedule 2 to the Act, to be related.

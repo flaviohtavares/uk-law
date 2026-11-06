@@ -1,0 +1,835 @@
+---
+title: The Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003
+id: uksi/2003/2613
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2003-10-06'
+text_date: '2010-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2003/2613
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/2613/pdfs/uksi_20032613_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/2613/data.pdf
+pending_changes: 165
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003
+
+> **Warning: changes not yet applied to this text (165).** Text as at 2010-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2003/2613
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2003 No. 2613
+
+COUNCIL TAX, ENGLAND
+
+RATING AND VALUATION, ENGLAND
+
+The Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003
+
+Made
+
+6th October 2003
+
+Laid before Parliament
+
+15th October 2003
+
+Coming into force
+
+5th November 2003
+
+The Secretary of State, in exercise of the powers conferred on him by sections 143(1) and (2) and 146(6) of, and paragraphs 1, 2(2)(ga), (gc), (ge), and (h) and 6A of Schedule 9 to, the Local Government Finance Act 1988[^f00001] and sections 113(1) and (2) and 116(1) of, and paragraphs 1, 2(4)(e), (g), (i) and (j), 4(4) and (5), and 14(1) and (2) of Schedule 2 and paragraph 6(1) and (2) of Schedule 3 to, the Local Government Finance Act 1992[^f00002], and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^key-5f9bfdf9fb0077a63efb87e38c23638f]
+
+## 1. Citation, commencement and interpretation[^key-6ad5eb5f1d7ca6262087619a453dbc00]
+
+(1) These Regulations may be cited as the Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003 and shall come into force on 5th November 2003.
+
+(2)[^key-f7cd797c1331cccb6f5e18075105ca7a] In these Regulations—
+
+- “the Act” means the Local Government Finance Act 1992;
+- “the 1988 Act” means the Local Government Finance Act 1988;
+- “the Administration Regulations” means the Council Tax (Administration and Enforcement) Regulations 1992[^f00003];
+- “appropriate levying body” in relation to a billing authority, means a passenger transport authority, the Broads Authority or the Environment Agency, insofar as the authority or agency has power—
+  - (a) to issue a levy to the billing authority, or
+  - (b) to issue a levy to a county council which has power to issue a precept to the billing authority;
+- “authorised person” means a person to whom an authorisation is given by a billing authority to exercise any functions relating to the administration of council tax or to the collection of non-domestic rates, as the case may be, by the Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996[^f00004];
+- “billing authority” means an English billing authority;
+- “[^key-3128689fd85426358e356df846ab377a]BRS” means a business rate supplement within the meaning of section 1(1) of the BRS Act;
+- “the BRS Act” means the Business Rate Supplements Act 2009;
+- “BRS authority” means a billing authority which is, in respect of the relevant year, required by the BRS Act and any regulations made under that Act to collect sums which are payable by way of BRS by ratepayers in its area;
+- “the Collection Regulations” means the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^f00005];
+- [^key-2ed494c831a97614b0da5ca68baef543]...
+- “council tax demand notice” means a demand notice within the meaning of Part 5 of the Administration Regulations which is served by a billing authority or any authorised person;
+- “fire and rescue functions” means the functions in Part 2 (functions of fire and rescue authorities) of the Fire and Rescue Services Act 2004;
+- “local precepting authority” means an authority specified in section 39(2)(c) to (e) of the Act;
+- “major precepting authority” has the meaning given by section 39(1) of the Act;
+- “rate demand notice” means a demand notice within the meaning of Part 2 of the Collection Regulations which is served by a billing authority or any authorised person (including such a notice served pursuant to Part 2 of the Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990[^f00006] (joint owners and occupiers));
+- “the relevant year”, in relation to a notice, means the financial year to which the demand for payment made by the notice relates; and
+- “rural settlement authority” means a billing authority which has, in respect of the relevant year, identified one or more rural settlements for that year in a list compiled under section 42A(2) of the 1988 Act[^f00007].
+
+(3) Any reference in these Regulations to the relevant valuation band in relation to a dwelling is a reference to the valuation band shown as applicable to the dwelling [^key-f6b077316d337909118bcee7c9eceb89]...
+
+- (a)[^key-212f0e3eedd777cc3df5d45ebd50c12b] in the billing authority’s valuation list; or
+- (b) if a new valuation list is due to come into force for the relevant year under section 22B(2)(a) or (3)(a) of the Act, as the case may be,
+  - (i) except in a case to which paragraph (4) applies, in the list proposed to be compiled as the new list, “the proposed list”, by the listing officer and sent to the billing authority under section 22B(7) of the Act;
+  - (ii) in a case to which paragraph (4) applies, in information which for the purposes of this paragraph is relevant information.
+
+(4)[^key-8f1682e183abd5604afe407a313e4448] This paragraph applies where the listing officer supplies the authority with information relating to property shown in the proposed list (including information relating to the application to such property of article 3 or 4 of the Council Tax (Chargeable Dwellings) Order 1992); and such information is relevant information for the purposes of paragraph (3) to the extent that it differs from information contained in the proposed list.
+
+## 2. Application of Regulations[^key-838a2f00329f483294b8254a17f02c76]
+
+These Regulations apply in relation to council tax demand notices and rate demand notices served by an English billing authority or an authorised person on behalf of such a billing authority in relation to financial years beginning on or after 1st April 2004 and, accordingly, the Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 1993[^f00008], shall not have effect in relation to any such notice.
+
+## 3. Content of demand notices, etc[^key-f076b7b6219a903ba77b5238062b01e0]
+
+(1) Subject to paragraph (2) and (2A), a council tax demand notice shall contain the matters specified in Schedule 1.
+
+(2) Without prejudice to regulation 18(2) of the Administration Regulations, a council tax demand notice which is served on a person—
+
+- (a) after the end of the relevant year; and
+- (b) at the same time as a council tax demand notice relating to another financial year not then ended is served on him;
+
+need not contain the matter specified in paragraph 24[^key-21b54f2a89eb31b3564636e41b4e3c9a] of Schedule 1.
+
+(3) A rate demand notice—
+
+- (a) served by a billing authority or an authorised person on behalf of the billing authority, other than the Common Council or a rural settlement authority, shall contain the matters mentioned in Part 1 of Schedule 2;
+- (b) served by a rural settlement authority or an authorised person on behalf of the rural settlement authority, shall contain the matters mentioned in that Part as modified by Part 2; [^key-40cdf3f3a8e737d2dcf0b4d0b482abbf]...
+- (c) served by the Common Council or an authorised person on behalf of the Common Council, shall contain the matters mentioned in Part 3 ; and[^key-8260790ca8f92402c7456b2954d10348]
+- (d)[^key-5751a71f4eea7de9c1e9919e2804fc04] served by a BRS authority or an authorised person on behalf of the BRS authority on a person liable to pay BRS to the authority, shall contain the matters mentioned in Part 1 of Schedule 2 as modified by Part 2A or, where the BRS authority concerned is the Common Council, the matters mentioned in Part 3 of Schedule 2 as modified by Part 3A.
+
+(4) Subject to paragraph (5), a billing authority must when it serves a council tax demand notice supply to the person on whom the notice is served the information mentioned in Part 1 of Schedule 3, and must when it serves a rate demand notice supply to the person on whom the notice is served the information mentioned in Part 2 of that Schedule; and Part 3 of that Schedule shall have effect for the purposes of both Parts 1 and 2.
+
+(5) Paragraph (4) does not apply when a council tax demand notice or a rate demand notice is served after the end of the relevant year.
+
+(6) Nothing in this regulation requires a notice to be given on a single sheet of paper, but if more than one sheet is used, the sheets shall be issued together, whether or not attached, as to comprise one notice.
+
+## 4. Invalid notices[^key-49d3a898e4afc6ba556d064f15ecd8a3]
+
+(1) Where—
+
+- (a) a council tax demand notice is invalid because it does not comply with regulation 3(1);
+- (b) the failure to comply was due to a mistake; and
+- (c) the amounts required to be paid under the notice were demanded in accordance with Part 5 of the Administration Regulations;
+
+the requirement to pay those amounts shall apply as if the notice were valid.
+
+(2) Where—
+
+- (a) a rate demand notice is invalid because it does not comply with sub-paragraph (a) of paragraph (3) of regulation 3, or as the case may be, sub-paragraph (b) or (c) of that paragraph;
+- (b) the failure to comply was due to a mistake; and
+- (c) the amounts required to be paid under the notice were demanded in accordance with Part 2 of the Collection Regulations;
+
+the requirement to pay those amounts shall apply as if the notice were valid.
+
+(3) Where a requirement to pay an amount under an invalid notice subsists by virtue of paragraph (1) or (2), the billing authority shall as soon as practicable after the mistake is discovered issue to the liable person or ratepayer concerned a statement of the matters which were not contained in the notice and which should have been so contained.
+
+## 5. Supply of information by precepting authorities[^key-317331f204acfbc1c264b19cebf5e953]
+
+(1) In order that a billing authority may fulfil its obligations under regulation 3—
+
+- (a) every appropriate major precepting authority other than a county council shall, subject to paragraphs (6) and (7), when it issues a precept to a billing authority for a year, supply the billing authority with the information specified in paragraph (2);
+- (b) every appropriate major precepting authority which is a county council shall, subject to paragraphs (6) and (7), when it issues a precept to a billing authority for a year, supply the billing authority with the information specified in paragraphs (2) and (3);
+- (c) every appropriate local precepting authority shall, subject to paragraphs (6) to (8), when it issues a precept to a billing authority for a year, supply the billing authority with the information specified in paragraph (4); and
+- (d) the Greater London Authority shall, subject to paragraphs (6) and (7) when it issues a precept to a billing authority for a year, supply the billing authority with the information specified in paragraph (5).
+
+(2) The information is information as regards the precepting authority and the precept concerned, as to—
+
+- (i) paragraph 3 of Part 1 of Schedule 3;
+- (ii) paragraphs 5 and 6 of that Part as though the words “precepting authority” were substituted for the words “billing authority” and the words “its precept issued” were substituted for the words “council tax set”; and
+- (b) the estimate mentioned in paragraph 1 of that Part.
+
+(3) The information is information as regards the county council and the precept concerned, as to—
+
+- (a) the amount taken into account in making its estimate under section 43(2)(a) of the Act for any levy or special levy (as the case may be); and
+- (b) the name of every appropriate levying body which has issued a levy to it that was taken into account in calculating the amount of the precept, together with the amount of the levy and information as to whether any of it was not treated as special expenses of the council.
+
+(4) The information is information as regards the precepting authority and the precept concerned, as to—
+
+- (a) the estimates for the relevant year and the previous year made for the purposes of the calculations required by section 50 of the Act; and
+- (b) a statement of the amount of the precept (if any) issued for the relevant year by each relevant local precepting authority.
+
+(5) The information is information, as regards the Authority and the precept concerned, as to—
+
+- (a) the matters mentioned in—
+  - (i) paragraph 4 of Part 1 of Schedule 3;
+  - (ii) paragraphs 5 and 6 of that Part as though the words “Greater London Authority” were substituted for the words “billing authority”; and
+- (b) the estimate mentioned in paragraph 2 of that Part.
+
+(6) Information need not be supplied when a substitute precept is issued to a billing authority if it is not one which would require the billing authority to set a substitute amount or amounts under section 31 of the Act; but if in such a case the billing authority subsequently notifies the precepting authority that it has set or proposes to set an amount or amounts for council tax by reference to the substitute precept, the precepting authority shall subject to paragraphs (7) and (8), supply that information as regards the substitute precept as soon as practicable after that notification is given.
+
+(7) Information need not be supplied as regards the issue of a substitute precept for a financial year insofar as it would be repetitive of information given in respect of the preceding financial year on the occasion of the issue of the earlier precept for the first-mentioned financial year.
+
+(8) Information need not be supplied by a local precepting authority if, by virtue of the proviso to the definition of “relevant precepting authority” in paragraph 4 of Part 3 of Schedule 3, it would not fall to be supplied by the billing authority when it serves a demand notice.
+
+## 6. Supply of information by levying bodies[^key-77d3e5c77ce339d0df67983eb9d67f8e]
+
+(1) In order that a billing authority may fulfil its obligations under regulation 3, every appropriate levying body shall—
+
+- (a) when it first issues to a county council a levy for a year, supply the billing authorities to which that county council has power to issue a precept and in whose areas the body carries out functions, the information specified in paragraph (6);
+- (b) when it first issues to a billing authority a levy for a year, supply to that authority the information specified in paragraph (6).
+
+(2) In order that a billing authority may fulfil its obligations under regulation 3, an appropriate levying body shall, after it has first issued a levy to a county council for a year, supply any billing authority to which paragraph (1) does not apply, but which notifies the body that it has set or proposes to set an amount or amounts of council tax by reference to the levy, with the information specified in paragraph (6).
+
+(3) In order that a billing authority may fulfil the obligations under regulation 3, subject to paragraph (6), an appropriate levying body shall, after it has issued a substitute levy for a year, supply any billing authority which notifies the body that it has set or proposes to set an amount or amounts of council tax by reference to the levy, with the information specified in paragraph (6).
+
+(4) The circumstances in which an amount of council tax is to be treated as set by reference to a levy for the purposes of paragraphs (2) and (3) include the setting of the amount by reference to an amount included in a precept, where the amount is attributable to a levy.
+
+(5) Information shall be supplied under paragraph (2) or (3) as soon as is reasonably practicable after the notification is given.
+
+(6) The information is a statement by the levying body as regards the levy concerned, as to—
+
+- (a) the estimate, made for the purpose of calculating the amount of any levy issued to the billing authority or (as the case may be) to a county council which, as regards the billing authority, is a relevant precepting authority, of the aggregate of its gross expenditure for the relevant year for the services administered by it;
+- (b) the estimate, made for the purpose of calculating the amount of any levy issued to the billing authority or (as the case may be) to a county council which, as regards the billing authority, is a relevant precepting authority, of the aggregate of its gross expenditure for the preceding year for the services administered by it;
+- (c) the amount of the levy for the relevant year;
+- (d) the amount of the levy, if any, for the preceding year;
+- (e) the reasons, in the opinion of the levying body for the difference, if any, between the amounts—
+  - (i) stated in accordance with paragraphs (a) and (b); and
+  - (ii) stated in accordance with paragraphs (c) and (d).
+
+(7) Information need not be supplied as regards a substitute levy for a financial year insofar as it would be repetitive of information given in respect of the preceding financial year on the occasion of the issue of the earlier levy for the first-mentioned financial year.
+
+Signed by authority of the First Secretary of State
+
+Nick Raynsford
+
+Minister of State,
+
+Office of the Deputy Prime Minister
+
+6th October 2003
+
+## SCHEDULE 1 — MATTERS TO BE CONTAINED IN COUNCIL TAX DEMAND NOTICES[^key-236c9bf25f0cea8279317c32b6e766c2]
+
+Regulation 3(1)
+
+### 1. Interpretation
+
+(1) In this Schedule—
+
+- “applicable band” means the relevant valuation band which applies to the dwelling for the relevant year;
+- “dwelling” means the dwelling to which the demand notice relates;
+- “following year” means the financial year following the relevant year;
+- “preceding year” means the financial year preceding the relevant year;
+- “relevant amounts” means the amounts and precepts (as the case may be) referred to in paragraphs 7 to 9; and
+- “relevant function” means any function exercised in relation to the area in which the dwelling is situated by—
+  - (a) the billing authority, or
+  - (b) a major precepting authority which has power to issue a precept to the billing authority,
+
+  but does not include a function which is exercised by an authority by reason only of arrangements made between that authority and another authority.
+
+(2) Unless otherwise stated, a matter specified in this Schedule is specified for—
+
+- (a) the relevant year; and
+- (b) where relevant to the matter—
+  - (i) the applicable band, and
+  - (ii) the category of dwellings which includes the dwelling.
+
+### 2. General matters
+
+The name (if any) of the person to whom the notice is issued.
+
+**3.** The date the notice is issued.
+
+**4.** The period to which the notice relates.
+
+**5.** The address of the dwelling.
+
+**6.** The applicable band.
+
+### 7. Amount of council tax
+
+The amount set by the billing authority under section 30 of the Act (amounts for different categories of dwellings).
+
+**8.** Any precept issued to the billing authority by a major precepting authority under section 40(2)(a) of the Act (issue of precepts by major precepting authorities).
+
+**9.** The amount calculated by the billing authority under section 36 of the Act (calculation of tax for different valuation bands), or where paragraph 10 applies the following matters instead—
+
+- (a) the name of the local precepting authority;
+- (b) such amount of—
+  - (i) the precept, or
+  - (ii) the anticipated precept,
+
+  referred to in paragraph 10 as is payable in respect of a dwelling in the applicable band and in the category of dwellings which includes the dwelling; and
+- (c) the amount calculated under section 36 of the Act less the amount mentioned in sub-paragraph (b).
+
+**10.** This paragraph applies where—
+
+- (a) a local precepting authority has issued a precept to the billing authority under section 41 of the Act (issue of precepts by local precepting authorities), or
+- (b) the billing authority anticipates such a precept.
+
+### 11. Comparisons with the preceding year
+
+Subject to paragraph 12, the percentage change in each of the relevant amounts from the preceding year to the relevant year expressed to one decimal place.
+
+**12.** Paragraph 13 applies instead of paragraph 11 where the authority exercising a relevant function as at 1st April in the relevant year is different from the authority that exercised that function as at 1st April in the preceding year.
+
+**13.** Where this paragraph applies, the matters are—
+
+- (a) an explanation of why a different authority is exercising the function as at 1st April in the relevant year;
+- (b) the relevant amounts which were included in demand notices issued (whether by the billing authority or another billing authority) for—
+  - (i) the preceding year, and
+  - (ii) the relevant valuation band and the category of dwellings which at that time included the dwelling; and
+- (c) the percentage change in—
+  - (i) the amount set under section 30 of the Act for the preceding year, and the relevant valuation band and the category of dwellings which at that time included the dwelling; and
+  - (ii) the amount set under section 30 of the Act for the relevant year, the applicable band and the category of dwellings which include the dwelling;
+
+  expressed to one decimal place.
+
+**14.** The matters in paragraph 13(a) and (b) may be included in the demand notice as a footnote to the matter in paragraph 13(c).
+
+**15.** Where the relevant valuation band which applied to the dwelling for the preceding year is different from the applicable band, paragraphs 11 and 13(b) and (c) apply as if the applicable band applied for that year.
+
+### 16. Discounts and reductions
+
+The days (if any) when the amount payable under the notice was calculated by reference to—
+
+- (a) section 11 of the Act (discounts),
+- (b) the Council Tax (Reductions for Disabilities) Regulations 1992,
+- (c) the Council Tax Benefit Regulations 2006[^f00009],
+- (d) the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00010],
+- (e) a determination made under section 11A of the Act[^f00011] (discounts: special provision for England), or
+- (f) a reduction made under section 13A of the Act[^f00012] (billing authority’s power to reduce amount of tax payable).
+
+**17.** Where paragraph 16(a), (e) or (f) applies—
+
+- (a) the reasons for the discount or reduction and its amount;
+- (b) a statement that if at any time before the end of the following year the person to whom the notice is issued has reason to believe that the amount of council tax payable—
+  - (i) is not subject to any discount or reduction, or
+  - (ii) is subject to a discount or reduction of a smaller amount,
+
+  he must notify the billing authority of his belief within a period of 21 days beginning on the day on which he first had that belief; and
+- (c) a statement that if the person fails without reasonable excuse to comply with paragraph (b) the authority may impose on him the penalty which is specified in paragraph 1(2) of Schedule 3 to the Act.
+
+**18.** Where paragraph 16(b), (c) or (d) applies, the reduction which is applicable.
+
+### 19. Amount to be paid under the notice
+
+Any amount credited against the amount of council tax which would otherwise be payable.
+
+**20.** Any penalty or overpayment of council tax benefit that is being recovered under the notice.
+
+**21.** Where—
+
+- (a) the notice requires the payment of an amount of council tax for any financial year preceding the relevant year, and
+- (b) the person to whom the notice is issued has not previously been issued with a notice requiring the payment of that amount,
+
+a statement of the amount.
+
+**22.** The amount required to be paid under the notice, the instalments or other payments required to be paid and the manner in which those payments may be made.
+
+### 23. Contact details
+
+A statement of the address and telephone number to which any enquiries may be directed.
+
+### 24. Explanatory notes
+
+Explanatory notes, which must include—
+
+- (a) a general indication of the principles relevant to the compilation of the billing authority’s valuation list;
+- (b) a general indication of the circumstances in which—
+  - (i) a dwelling may be an exempt dwelling for the purposes of Part 1 of the Act,
+  - (ii) an amount may be subject to a discount under section 11 or under a determination made under section 11A of the Act,
+  - (iii) a person may be an eligible person for the purposes of the Council Tax (Reductions for Disabilities) Regulations 1992,
+  - (iv) a person may be entitled to council tax benefit,
+  - (v) a person may be eligible for a reduction under section 13A of the Act;
+- (c) a statement of the procedures to be followed—
+  - (i) by a person who wishes to dispute any matter shown in the billing authority’s valuation list in relation to the dwelling, or
+  - (ii) by a person aggrieved as mentioned in section 16(1) of the Act.
+
+## SCHEDULE 2 — MATTERS TO BE CONTAINED IN RATE DEMAND NOTICES[^key-c513fafa9c19183d474be20d46b6a9bc]
+
+Regulation 3(3)
+
+### PART 1
+
+**1.** A statement of the address and description of each hereditament to which the notice relates (“relevant hereditament”).
+
+**2.** A statement of the rateable value shown for each relevant hereditament in the authority’s local non-domestic rating list.
+
+**3.** A statement of the non-domestic rating multipliers calculated for the relevant year for England in accordance with Part 1 of Schedule 7 to the 1988 Act.
+
+**4.** Where an order under section 45(4A) of the 1988 Act is or will be in force on any day in the relevant year, a statement of the days (if any) on which, for the purposes of calculating the payments required to be made under the notice, it was understood or assumed that the conditions mentioned in section 45(1) of the 1988 Act were or would be fulfilled in relation to any relevant hereditament, and a statement that as regards those days the chargeable amount is reduced by the proportion provided for in the order as compared with the amount it would be if the ratepayer were in occupation of the hereditament.
+
+**5.** Where section 45A applies to any relevant hereditament on any day in the relevant year, a statement that as regards those days the chargeable amount is zero under that section and a statement of the amount by which the aggregate amount demanded under the notice is reduced as compared with the amount which would have been demanded if section 45(4) applied to the calculation of the chargeable amount for those days.
+
+**6.** A statement of the days (if any) on which, for the purposes of calculating the payments required to be made under the notice it was understood or assumed that—
+
+- (a) the chargeable amount would fall to be calculated under section 43(4A) or (5) of the 1988 Act,
+- (b) the chargeable amount would fall to be calculated by reference to section 44(2) and (2A) of the 1988 Act as substituted by section 44A(7) or (9) of that Act, or
+- (c) rules under section 47(1)(a) or 57A(3)(a) of the 1988 Act would apply,
+
+together with a statement of the manner in which the chargeable amount for those days was calculated and of the amount by which the aggregate amount demanded under the notice is reduced as compared with the amount which would have been demanded if section 43(4), without modification, and (so far as is relevant) section 44(2) without substitution, applied to the calculation of the chargeable amount for those days.
+
+**7.** Explanatory notes either in the following terms or substantially similar terms—
+
+> EXPLANATORY NOTES[^key-0c3da5a6a7d418f7baa80338415209ae]
+>
+> Non-Domestic Rates
+>
+> Non-Domestic Rates, or business rates, collected by local authorities are the way that those who occupy non-domestic property contribute towards the cost of local services. Except in the City of London, where special arrangements apply, the rates are pooled by central government and redistributed to local authorities as part of the annual formula grant settlement. The money, together with revenue from council tax payers, revenue support grant provided by the Government and certain other sums, is used to pay for the services provided by your local authority and other local authorities in your area.
+>
+> Rateable Value
+>
+> Apart from properties that are exempt from Business Rates, each non-domestic property has a rateable value which is set by the valuation officers of the Valuation Office Agency (VOA), an agency of Her Majesty’s Revenue and Customs. They draw up and maintain a full list of all rateable values, available on their website at www.voa.gov.uk. The rateable value of your property is shown on the front of this bill. This broadly represents the yearly rent the property could have been let for on the open market on a particular date. For the revaluation that came into effect on 1st April 2010, this date was set as 1st April 2008.
+>
+> The valuation officer may alter the value if circumstances change. The ratepayer (and certain others who have an interest in the property) can appeal against the value shown in the list if they believe it is wrong. Further information about the grounds on which appeals may be made and the process for doing so can be found on the VOA website or from your local valuation office.
+>
+> National Non-Domestic Rating Multiplier
+>
+> The local authority works out the business rates bill by multiplying the rateable value of the property by the appropriate multiplier. There are two multipliers; the standard non-domestic rating multiplier and the small business non-domestic rating multiplier. The former is higher to pay for small business rate relief. Except in the City of London where special arrangements apply, the Government sets the multipliers for each financial year for the whole of England according to formulae set by legislation. Between revaluations the multipliers change each year in line with inflation and to take account of the cost of small business rate relief. In the year of revaluation the multipliers are rebased to account for overall changes to total rateable value and to ensure that the revaluation does not raise extra money for Government. The current multipliers are shown on the front of this bill.
+>
+> Revaluation 2010 and Transitional Arrangements
+>
+> All rateable values are reassessed every five years at a general revaluation. The current rating list is based on the 2010 revaluation. Five-yearly revaluations make sure each ratepayer pays their fair contribution and no more, by ensuring that the share of the national rates bill paid by any one ratepayer reflects changes over time in the value of their property relative to others. Revaluation does not raise extra money for Government.
+>
+> Whilst the 2010 revaluation will not increase the amount of rates collected nationally, within this overall picture, over a million properties will see their business rate liabilities reduced and some ratepayers will see increases.
+>
+> For those that would otherwise see significant increases in their rates liability, the Government has put in place a £2 billion transitional relief scheme to limit and phase in changes in rate bills as a result of the 2010 revaluation. To help pay for the limits on increases in bills, there also have to be limits on reductions in bills. Under the transition scheme, limits continue to apply to yearly increases and decreases until the full amount is due (rateable value times the appropriate multiplier). The scheme applies only to the bill based on a property at the time of the revaluation. If there are any changes to the property after 1st April 2010, transitional arrangements will not normally apply to the part of a bill that relates to any increase in rateable value due to those changes. Changes to your bill as a result of other reasons (such as because of changes to the amount of small business rate relief) are not covered by the transitional arrangements.
+>
+> The transitional arrangements are applied automatically and are shown on the front of this bill. Further information about transitional arrangements and other reliefs may be obtained from \[insert name of billing authority\] or the website www.mybusinessrates.gov.uk.
+>
+> More information on revaluation 2010 can be found at www.voa.gov.uk.
+>
+> Unoccupied Property Rating
+>
+> Business rates will not be payable in the first three months that a property is empty. This is extended to six months in the case of certain industrial properties. After this period rates are payable in full unless the unoccupied property rate has been reduced by the Government by order. In most cases the unoccupied property rate is zero for properties owned by charities and community amateur sports clubs. In addition, there are a number of exemptions from the unoccupied property rate. Full details on exemptions can be obtained from the local authority. If the unoccupied property rate for the financial year has been reduced by order, it will be shown on the front of this bill.
+>
+> Partly Occupied Property Relief
+>
+> A ratepayer is liable for the full non-domestic rate whether a property is wholly occupied or only partly occupied. Where a property is partly occupied for a short time, the local authority has discretion in certain cases to award relief in respect of the unoccupied part. Full details can be obtained from the local authority.
+>
+> Small Business Rate Relief
+>
+> This relief is only available to ratepayers who apply to their local authority and who occupy either—
+>
+> - (a) one property, or
+> - (b) one main property and other additional properties providing those additional properties each have a rateable value which does not exceed £2,599.
+>
+> The rateable value of the property mentioned in (a), or the aggregate rateable value of all the properties mentioned in (b), must not exceed £17,999 outside London or £25,499 in London on each day for which relief is being sought. If the rateable value, or aggregate rateable value, increases above those levels, relief will cease from the day of the increase.
+>
+> Ratepayers who satisfy these conditions will have the bill for their sole or main property calculated using the lower small business non-domestic rating multiplier rather than the national non-domestic rating multiplier that is used to calculate the liability of other businesses.
+>
+> In addition, if the sole or main property is shown on the rating list with a rateable value which does not exceed £12,000, the ratepayer will receive a percentage reduction in their rates bill for this property of up to a maximum of 50% for a property with a rateable value of not more than £6,000.
+>
+> If an application for relief is granted, provided the ratepayer continues to satisfy the conditions for relief which apply at the relevant time as regards the property and the ratepayer, they will not need to re-apply for relief in each new valuation period.
+>
+> Certain changes in circumstances will need to be notified to the local authority by the ratepayer (other changes will be picked up by the local authority). The changes which must be notified are—
+>
+> - (a) the ratepayer taking up occupation of a property they did not occupy at the time of making their application for relief, and
+> - (b) an increase in the rateable value of a property occupied by the ratepayer in an area other than the area of the local authority which granted the relief.
+>
+> Notification of these changes must be given to the local authority within 4 weeks of the day after the day on which the change happened. If this happens, there will be no interruption to the ratepayer’s entitlement to the relief. A notification that the ratepayer has taken up occupation of an additional property must be by way of a fresh application for relief; notice of an increase in rateable value must be given in writing.
+>
+> Full details on the eligibility criteria and on how to apply for this relief are available from the local authority.
+>
+> Charity and Community Amateur Sports Club (CASC) Relief
+>
+> Charities and registered CASCs are entitled to 80% relief where the property is occupied by the charity or the CASC, and is wholly or mainly used for the charitable purposes of the charity (or of that and other charities), or for the purposes of the CASC (or of that and other CASCs).
+>
+> The local authority has discretion to give further relief on the remaining bill. Full details can be obtained from the local authority.
+>
+> Non-Profit Making Organisation Relief
+>
+> The local authority has discretion to give relief to non-profit making organisations. Full details can be obtained from the local authority.
+>
+> Hardship Relief
+>
+> The local authority has discretion to give relief in special circumstances. Full details can be obtained from the local authority.
+>
+> Deferred payment of 2009/10 rates liabilities
+>
+> Ratepayers in 2009/10 were able to defer payment of 3% of their 2009/10 rates bill and, where applicable, 60% of the increase in that bill due to the ending of the 2005 rating list transitional relief scheme. The right to apply for deferral has now ended. For those ratepayers who applied for this scheme, the deferred amount to be collected in 2010/11 and 2011/12 will be included in the bills for each of those years respectively.
+>
+> Rating advisers
+>
+> Ratepayers do not have to be represented in discussions about their rateable value or their rates bill. Appeals against rateable values can be made free of charge. However, ratepayers who do wish to be represented should be aware that members of the Royal Institution of Chartered Surveyors (RICS – website www.rics.org) and the Institute and Revenues and Rating (IRRV – website www.irrv.org.uk) are qualified and are regulated by rules of professional conduct designed to protect the public from misconduct. Before you employ a rating adviser, you should check that they have the necessary knowledge and expertise, as well as appropriate indemnity insurance. Take great care and, if necessary, seek further advice before entering into any contract.
+
+.
+
+### PART 2 — Modification of Part 1 in Relation to Rural Settlement Authorities
+
+In relation to rural settlement authorities, Part 1 shall have effect as if—
+
+- (a) in paragraph 6(a) for “section 43(4A) or (5)” there were substituted “section 43(5) or (6A)”, and
+- (b) at the end of the Explanatory Notes set out in paragraph 7, there were added the following—
+
+  > Rate relief for businesses in rural areas
+  >
+  > Certain types of properties in a rural settlement with a population below 3,000 may be entitled to relief. The property must be the only general store, the only post office or a food shop and have a rateable value of less than £8,500[^key-d0b73d346a56730600144c14674dfae1], or the only public house or the only petrol station and have a rateable value of less than £12,500[^key-48a0737e6260e3b2bd3cce36df67805f]. The property has to be occupied. An eligible ratepayer is entitled to relief at 50% of the full charge whilst the local authority also has discretion to give further relief on the remaining bill.
+  >
+  > In addition, the local authority can give relief on certain other occupied property in a rural settlement where the rateable value is less than £16,500[^key-2f616995ea9961d072281f68cfba184c].
+  >
+  > Full details can be obtained from the local authority.
+
+  .
+
+### PART 2A — Modification of Part 1 in Relation to BRS Authorities[^key-74f3be925957045c3f8987275c7b70c0]
+
+**1.** In relation to BRS authorities, Part 1 shall have effect as if—
+
+- (a) after paragraph 6 there were inserted—
+
+  > **6A.** For each BRS (if any) comprised in the total amount demanded under the notice, the matters mentioned in paragraphs 6B to 6E.
+  >
+  > **6B.** A statement of the address and description of each relevant hereditament in relation to which the ratepayer is liable to BRS.
+  >
+  > **6C.** A statement of the amount of the multiplier for the BRS for the relevant year which, in accordance with section 5 of, and Schedule 1 to, the BRS Act (Information to be included in a prospectus for a BRS), is set out in the final prospectus published by the levying authority which has imposed the BRS on the ratepayer concerned (“relevant levying authority”).
+  >
+  > **6D.** A statement of the amount of the total amount demanded under the notice in respect of the relevant year which is payable by way of BRS for each relevant hereditament in relation to which the ratepayer is liable to BRS.
+  >
+  > **6E.** A statement of the manner in which the amount mentioned in paragraph 6D has—
+  >
+  > - (a) been calculated pursuant to section 13 of the BRS Act (chargeable amount); or
+  > - (b) where the relevant levying authority has set rules under section 15 of the BRS Act (BRS relief), been determined in accordance with those rules.
+
+  ; and
+- (b) in the Explanatory Notes set in out in paragraph 7, after the note headed “Non-Domestic Rates” and before the note headed “Rateable Value” there were inserted the following—
+
+  > Business Rate Supplements
+  >
+  > The Business Rate Supplements Act 2009 enables levying authorities - county councils, unitary district councils and, in London, the Greater London Authority - to levy a supplement on the business rate to support additional projects aimed at economic development of the area. Business Rate Supplements (BRS) are not applicable to properties with a rateable value of £50,000 or below, and authorities have discretion to increase that threshold. The total maximum BRS which may be levied by a levying authority is 2p per pound of rateable value. Levying authorities have the power to apply such reliefs to the BRS as they think appropriate and in such cases must include an explanation of the rules for the application of those reliefs in the final prospectus for the BRS.
+  >
+  > These/this business rate supplement/s is/are being levied by \[insert name of levying authority\] in relation to \[insert name of project/s to which BRS relates\] project/s. Further information may be found in the BRS project prospectus, \[title of final prospectus\].
+
+  .
+
+### PART 3 — Special authorities
+
+**1.** The matters mentioned in paragraphs 1, 2, 4, 5 and 6 of Part 1.
+
+**2.** A statement of the non-domestic rating multipliers set by the Common Council for the relevant year in accordance with Part 2 of Schedule 7 to the 1988 Act.
+
+**3.** Explanatory notes either in the following terms or substantially similar terms—
+
+> EXPLANATORY NOTES[^key-c7d3c1ff9054348133b913a7edbdf844]
+>
+> Non-Domestic Rates
+>
+> Non-Domestic Rates, or business rates, collected by local authorities are the way that those who occupy non-domestic property contribute towards the cost of local services. Except in the City of London, where special arrangements apply, the rates are pooled by central government and redistributed to local authorities as part of the annual formula grant settlement. The money, together with revenue from council tax payers, revenue support grant provided by the Government and certain other sums, is used to pay for the services provided by your local authority and other local authorities in your area.
+>
+> Rateable Value
+>
+> Apart from properties that are exempt from Business Rates, each non-domestic property has a rateable value which is set by the valuation officers of the Valuation Office Agency (VOA), an agency of Her Majesty’s Revenue and Customs. They draw up and maintain a full list of all rateable values, available on their website at www.voa.gov.uk. The rateable value of your property is shown on the front of this bill. This broadly represents the yearly rent the property could have been let for on the open market on a particular date. For the revaluation that came into effect on 1st April 2010, this date was set as 1st April 2008.
+>
+> The valuation officer may alter the value if circumstances change. The ratepayer (and certain others who have an interest in the property) can appeal against the value shown in the list if they believe it is wrong. Further information about the grounds on which appeals may be made and the process for doing so can be found on the VOA website or from your local valuation office.
+>
+> Special arrangements for the City of London
+>
+> As indicated above, because of its special circumstances – notably its very small resident population – the Common Council of the City of London can set its own rate – or multiplier – and retain part of the proceeds to help pay for the services it provides. It may set this rate, subject to certain constraints, at a higher or lower level than the rate which applies outside the City of London. The amount it must pay into the central pool (as described above) is reduced by the amount, if any, which the Government believes is reasonable for it to retain for that financial year. These arrangements ensure that the City of London ratepayers and council tax payers each bear an appropriate share of the cost of providing the services which benefit them.
+>
+> The City of London Rating Multiplier
+>
+> There are two multipliers; the standard non-domestic rating multiplier and the small business non-domestic rating multiplier. The former is higher to pay for small business rate relief. The City sets the multipliers for each financial year according to formulae set by legislation.
+>
+> Revaluation 2010 and Transitional Arrangements
+>
+> All rateable values are reassessed every five years at a general revaluation. The current rating list is based on the 2010 revaluation. Five-yearly revaluations make sure each ratepayer pays their fair contribution and no more, by ensuring that the share of the national rates bill paid by any one ratepayer reflects changes over time in the value of their property relative to others. Revaluation does not raise extra money for Government.
+>
+> Whilst the 2010 revaluation will not increase the amount of rates collected nationally, within this overall picture, over a million properties will see their business rate liabilities reduced and some ratepayers will see increases.
+>
+> For those that would otherwise see significant increases in their rates liability, the Government has put in place a £2 billion transitional relief scheme to limit and phase in changes in rate bills as a result of the 2010 revaluation. To help pay for the limits on increases in bills, there also have to be limits on reductions in bills. Under the transition scheme, limits continue to apply to yearly increases and decreases until the full amount is due (rateable value times the appropriate multiplier). The scheme applies only to the bill based on a property at the time of the revaluation. If there are any changes to the property after 1st April 2010, transitional arrangements will not normally apply to the part of a bill that relates to any increase in rateable value due to those changes. Changes to your bill as a result of other reasons (such as because of changes to the amount of small business rate relief) are not covered by the transitional arrangements.
+>
+> The transitional arrangements are applied automatically and are shown on the front of this bill. Further information about transitional arrangements and other reliefs may be obtained from \[insert name of billing authority\] or the website www.mybusinessrates.gov.uk.
+>
+> More information on revaluation 2010 can be found at www.voa.gov.uk.
+>
+> Unoccupied Property Rating
+>
+> Business rates will not be payable in the first three months that a property is empty. This is extended to six months in the case of certain industrial properties. After this period rates are payable in full unless the unoccupied property rate has been reduced by the Government by order. In most cases the unoccupied property rate is zero for properties owned by charities and community amateur sports clubs. In addition, there are a number of exemptions from the unoccupied property rate. Full details on exemptions can be obtained from the local authority. If the unoccupied property rate for the financial year has been reduced by order, it will be shown on the front of this bill.
+>
+> Partly Occupied Property Relief
+>
+> A ratepayer is liable for the full non-domestic rate whether a property is wholly occupied or only partly occupied. Where a property is partly occupied for a short time, the local authority has discretion in certain cases to award relief in respect of the unoccupied part. Full details can be obtained from the local authority.
+>
+> Small Business Rate Relief
+>
+> This relief is only available to ratepayers who apply to their local authority and who occupy either—
+>
+> - (a) one property, or
+> - (b) one main property and other additional properties providing those additional properties each have a rateable value which does not exceed £2,599.
+>
+> The rateable value of the property mentioned in (a), or the aggregate rateable value of all the properties mentioned in (b), must not exceed £17,999 outside London or £25,499 in London on each day for which relief is being sought. If the rateable value, or aggregate rateable value, increases above those levels, relief will cease from the day of the increase.
+>
+> Ratepayers who satisfy these conditions will have the bill for their sole or main property calculated using the lower small business non-domestic rating multiplier rather than the national non-domestic rating multiplier that is used to calculate the liability of other businesses.
+>
+> In addition, if the sole or main property is shown on the rating list with a rateable value which does not exceed £12,000, the ratepayer will receive a percentage reduction in their rates bill for this property of up to a maximum of 50% for a property with a rateable value of not more than £6,000.
+>
+> If an application for relief is granted, provided the ratepayer continues to satisfy the conditions for relief which apply at the relevant time as regards the property and the ratepayer, they will not need to re-apply for relief in each new valuation period.
+>
+> Certain changes in circumstances will need to be notified to the local authority by the ratepayer (other changes will be picked up by the local authority). The changes which must be notified are—
+>
+> - (a) the ratepayer taking up occupation of a property they did not occupy at the time of making their application for relief, and
+> - (b) an increase in the rateable value of a property occupied by the ratepayer in an area other than the area of the local authority which granted the relief.
+>
+> Notification of these changes must be given to the local authority within 4 weeks of the day after the day on which the change happened. If this happens, there will be no interruption to the ratepayer’s entitlement to the relief. A notification that the ratepayer has taken up occupation of an additional property must be by way of a fresh application for relief; notice of an increase in rateable value must be given in writing.
+>
+> Full details on the eligibility criteria and on how to apply for this relief are available from the local authority.
+>
+> Charity and Community Amateur Sports Club (CASC) Relief
+>
+> Charities and registered CASCs are entitled to 80% relief where the property is occupied by the charity or the CASC, and is wholly or mainly used for the charitable purposes of the charity (or of that and other charities), or for the purposes of the CASC (or of that and other CASCs).
+>
+> The local authority has discretion to give further relief on the remaining bill. Full details can be obtained from the local authority.
+>
+> Non-Profit Making Organisation Relief
+>
+> The local authority has discretion to give relief to non-profit making organisations. Full details can be obtained from the local authority.
+>
+> Hardship Relief
+>
+> The local authority has discretion to give relief in special circumstances. Full details can be obtained from the local authority.
+>
+> Deferred payment of 2009/10 rates liabilities
+>
+> Ratepayers in 2009/10 were able to defer payment of 3% of their 2009/10 rates bill and, where applicable, 60% of the increase in that bill due to the ending of the 2005 rating list transitional relief scheme. The right to apply for deferral has now ended. For those ratepayers who applied for this scheme, the deferred amount to be collected in 2010/11 and 2011/12 will be included in the bills for each of those years respectively.
+>
+> Rating advisers
+>
+> Ratepayers do not have to be represented in discussions about their rateable value or their rates bill. Appeals against rateable values can be made free of charge. However, ratepayers who do wish to be represented should be aware that members of the Royal Institution of Chartered Surveyors (RICS – website www.rics.org) and the Institute and Revenues and Rating (IRRV – website www.irrv.org.uk) are qualified and are regulated by rules of professional conduct designed to protect the public from misconduct. Before you employ a rating adviser, you should check that they have the necessary knowledge and expertise, as well as appropriate indemnity insurance. Take great care and, if necessary, seek further advice before entering into any contract.
+
+.
+
+### PART 3A — Modification of Part 3 in Relation to BRS[^key-20a37fa9766b4710fd47610aa84a48a7]
+
+**1.** In relation to the Common Council where the relevant year is a year in which the Common Council is a BRS authority, Part 3 shall have effect as if—
+
+- (a) after paragraph 2 there were inserted—
+
+  > **2A.** For each BRS (if any) comprised in the total amount demanded under the notice, the matters mentioned in paragraphs 2B to 2E.
+  >
+  > **2B.** A statement of the address and description of each relevant hereditament in relation to which the ratepayer is liable to BRS.
+  >
+  > **2C.** A statement of the amount of the multiplier for the BRS for the relevant year which, in accordance with section 5 of, and Schedule 1 to, the BRS Act (Information to be included in a prospectus for a BRS), is set out in the final prospectus published by the levying authority which has imposed the BRS on the ratepayer concerned (“relevant levying authority”).
+  >
+  > **2D.** A statement of the amount of the total amount demanded under the notice in respect of the relevant year which is payable by way of BRS for each relevant hereditament in relation to which the ratepayer is liable to BRS.
+  >
+  > **2E.** A statement of the manner in which the amount mentioned in paragraph 2D has—
+  >
+  > - (a) been calculated pursuant to section 13 of the BRS Act (chargeable amount); or
+  > - (b) where the relevant levying authority has set rules under section 15 of the BRS Act (BRS relief), been determined in accordance with those rules.
+
+  ; and
+- (b) in the Explanatory Notes set in out in paragraph 3, after the note headed “Non-Domestic Rates” and before the note headed “Rateable Value” there were inserted the following—
+
+  > Business Rate Supplements
+  >
+  > The Business Rate Supplements Act 2009 enables levying authorities - county councils, unitary district councils and, in London, the Greater London Authority - to levy a supplement on the business rate to support additional projects aimed at economic development of the area. Business Rate Supplements (BRS) are not applicable to properties with a rateable value of £50,000 or below, and authorities have discretion to increase that threshold. The total maximum BRS which may be levied by a levying authority is 2p per pound of rateable value. Levying authorities have the power to apply such reliefs to the BRS as they think appropriate and in such cases must include an explanation of the rules for the application of those reliefs in the final prospectus for the BRS.
+  >
+  > These/this business rate supplement/s is/are being levied by \[insert name of levying authority\] in relation to \[insert name of project/s to which BRS relates\] project/s. Further information may be found in the BRS project prospectus, \[title of final prospectus\].
+
+  .
+
+## SCHEDULE 3 — INFORMATION TO BE SUPPLIED WITH NOTICES
+
+Regulation 3(4)
+
+### PART 1 — Information to be Supplied with Council Tax Demand Notices
+
+**1.**[^key-1e9490ecd3f1ab908b4fe18e45b4c1d8] A statement, for both the relevant year and the previous financial year of the estimate made by—
+
+- (a) the billing authority;
+- (b) each relevant precepting authority except the Greater London Authority; and
+- (c) each relevant levying body,
+
+of its gross expenditure, expressed as an aggregate amount for all classes of services administered by it.
+
+**2.**[^key-f6c678d19d29684dd72971f64c24392d] In relation to a London billing authority, the estimate for the relevant year and the previous financial year, made by the Greater London Authority (“the Authority”) of the aggregate gross expenditure of each constituent body for services administered by that body.
+
+**3.**[^key-7e618fd83ce2ce3443a7982a768b41c2] A statement, for both the relevant year and the previous financial year of the amount calculated by—
+
+- (a) the billing authority; and
+- (b) each relevant precepting authority except the Greater London Authority
+
+as the amount of its budget requirement.
+
+**4.**[^key-da8760248e7684b49c4a6eb48e0bf42c] In relation to a London billing authority, the amount calculated under section 85(8) (consolidated budget requirements of the Greater London Authority) of the 1999 Act for both the relevant year and the preceding year.
+
+**5.**[^key-420fd3b6e8cda87b6a2b7f604535b736] A statement of the reasons, in the opinion of the billing authority, for the difference, if any, between the amounts stated in accordance with paragraphs 1 and 3 or 2 and 4 for the relevant year and the previous financial year.
+
+**6.**[^key-dc70c6a9c442877e451d508b7d12607e] A statement of the effect, in the opinion of the billing authority, of—
+
+- (a) its budget requirement; and
+- (b) its estimate of its aggregate gross expenditure for services administered by the authority,
+
+upon the level of council tax set for the relevant year.
+
+**7.**[^key-edbe78385d7654167aab71d7408d3825] A statement of the effect, in the opinion of each relevant precepting authority of its—
+
+- (a) budget requirement;
+- (b) estimate of its aggregate gross expenditure for services administered by it
+
+upon the level of its precept issued for the relevant year.
+
+**8.**[^key-58f915d749ffa6c8832fd5d3ef0197bc] Where an amount is being recovered under the notice concerned in respect of a penalty but the person to whom the notice is issued has not previously been informed of the ground on which the penalty is imposed, a statement of that ground.
+
+### PART 2 — Information to be supplied with Rate Demand Notices
+
+**1.**[^key-961d4b4facef5fb06b3dfc48000a8fb9] The information mentioned in paragraphs 1 to 5 of Part 1.
+
+### PART 3 — Interpretation, etc
+
+**1.**[^key-0a6d098429f89cb695cf521090ca6c19] For the purposes of paragraphs 1 and 2 of Part 1, the gross expenditure of an authority or body in respect of a service for a year is the sum of all items of the authority charged to a revenue account for the year attributable to that service, but does not include allowances for contingencies or contributions to financial reserves.
+
+**2.**[^key-05d738f0e4d4a0c323c830461ba9368b] The estimates for the relevant year and for the preceding year, to be supplied pursuant to paragraphs 1 and 2 of Part 1 are—
+
+- (a) as regards the billing authority, estimates made for the purposes of the calculations required by section 32 of the Act;
+- (b) as regards a relevant major precepting authority, estimates made for the purposes of the calculations required by section 43 of the Act or section 85 of the 1999 Act;
+- (c) as regards a relevant local precepting authority, estimates made for the purposes of the calculations required by section 50 of the Act; and
+- (d) as regards a relevant levying body, estimates made for the purpose of calculating the amount of any levy issued to the billing authority or (as the case may be) to a county council which, as regards the billing authority, is a relevant major precepting authority.
+
+**3.**[^key-e80b887f4f24241eb116a06e98c5d569] For the purposes of paragraphs 3 and 4 of Part 1, references to an authority’s budget requirement are references to the amount calculated by the authority under section 32(4) of the Act or, as the case may be, section 43(4) or section 50(4) of the Act or section 85 of the 1999 Act.
+
+**4.**[^key-a09cb510bf6bf974f0c8d2d14171d2e6] In this Schedule—
+
+- “the 1999 Act” means the Greater London Authority Act 1999;
+- “constituent body” has the same meaning as in section 85(3) of the 1999 Act;
+- “London billing authority” means the council of a London borough and the Common Council;
+- “relevant levying body” means an appropriate levying body which—
+  - (a) has issued a levy to the billing authority for the relevant year which was taken into account when the authority made the calculations required by section 32 of the Act; or
+  - (b) has issued a levy to a county council for the relevant year, which was taken into account when the council made the calculations required by section 43 of the Act; and
+- “relevant precepting authority” means a precepting authority which has issued a precept to the billing authority for the relevant year; and “relevant local precepting authority” and “relevant major precepting authority” shall be construed accordingly; except that in paragraphs 1, 3 and 7[^key-e878807357e342f90dc8155a3b3a0d57] of Part 1, “relevant precepting authority” does not include—
+  - (a) where the amount of the precept in question does not exceed £100,000, [^key-574ad487c29ed269b714d1fe11c57407]... the sub-treasurer of the Inner Temple or the under-treasurer of the Middle Temple,
+  - (aa) a parish council unless—[^key-804b232a65400e8c235c54c4589ea954]
+    - (i) the amount of the precept in question is £140,000 or more, and
+    - (ii) any part of the dwelling to which the notice relates is within the area of the parish council,
+  - (c) the chairman of a parish meeting or charter trustees.
+
+(This note is not part of the Regulations)
+
+These Regulations replace with the substantive changes mentioned below and minor drafting changes, the Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 1993 as regards England only and with respect to financial years beginning on or after 1st April 2004.
+
+A council tax demand notice must, among other matters, identify the dwelling to which it relates, specify the valuation band applicable to the dwelling and explain, by reference to any discounts, reductions and benefit assumed to be applicable, how the amount required to be paid has been calculated (regulation 3(1) and Schedule 1). It must include information as to the amount of council tax for the relevant year calculated by the billing authority for itself and by each major precepting authority and the total amount of council tax. Billing authorities must also include information as to the annual percentage changes in council tax between the previous year and the relevant year. This should be done for the separate amounts of council tax calculated by the billing authority for itself and by each major precepting authority, and the total amount.
+
+Three substantive changes to the Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 1993 are contained in Schedule 1.
+
+Where a billing authority provides a statement on the demand notice of the per dwelling amount in respect of any local precept taken into account in the calculations of the council tax payable for that dwelling in accordance with paragraph 8 of Schedule 1 to the Regulations and a statement of the amount calculated by the billing authority in accordance with section 36 of the Local Government Finance Act 1992 less the per dwelling amount of any local precept, it need not provide a statement of the amount calculated by the billing authority in accordance with section 36 of the Local Government Finance Act 1992.
+
+Where such statements are provided, statements as to the annual percentage changes in council tax between the previous year and the relevant year shall be given for the per dwelling amount of the local precept and for the amount calculated in accordance with section 36 of the Local Government Finance Act 1992 less the per dwelling amount of any local precept, rather than a statement as to the annual percentage changes in council tax between the previous year and the relevant year for the total amount calculated in accordance with section 36 of the Local Government Finance Act 1992.
+
+Where the dwelling is in a different valuation band in the relevant year from the preceding year, paragraph 7(4) of Schedule 1 requires the relevant percentage differences to be shown between the amounts calculated in the relevant year and the preceding year for the band the dwelling is in in the relevant year.
+
+A rate demand notice must identify the hereditament to which it relates (including its rateable value), explain how the amount required to be paid has been calculated and contain explanatory notes (regulation 3(3) and Schedule 2.)
+
+Further information must accompany council tax demand notices and rate demand notices (regulation 3(4) and Schedule 3). This will, amongst other matters, give a simple breakdown of the gross expenditure of the billing authority and of relevant precepting authorities and levying bodies for the year to which the notice relates and the previous financial year.
+
+Where a council tax demand notice or rate demand notice is invalid because it fails to contain the requisite matters, the demand for payments under it will remain effective provided that payments were properly calculated (regulation 4). In such cases, the billing authority must give the council tax payer or ratepayer (as the case may be) a correct statement of the relevant matters.
+
+In order to enable a billing authority to include the prescribed matters in its demand notices, or to supply the further information mentioned above when it serves the notices, the Regulations require precepting authorities and levying bodies concerned to supply the billing authority with appropriate information (regulations 5 and 6).
+
+## Annotations
+
+[^f00001]: Footnote: [1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41). These powers are devolved, in relation to Wales, to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)); *see* the reference to the Local Government Finance Act 1988 in Schedule 1. Paragraphs 2(2)(ga), (gc) and (ge) of Schedule 9 were inserted by the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), section 139 and Schedule 5, paragraph 44. Paragraph 6A of Schedule 9 was added by the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), section 117(1) and Schedule 13, paragraph 87.
+
+[^f00002]: Footnote: [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14). These powers are devolved, in relation to Wales, to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)); *see* the reference to the Local Government Finance Act 1992 in Schedule 1.
+
+[^key-5f9bfdf9fb0077a63efb87e38c23638f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2003/2613) excluded (30.12.2009) by [The Council Tax (Demand Notices) (England) Regulations 2009 (S.I. 2009/3193)](https://www.legislation.gov.uk/uksi/2009/3193), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3193/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2009/3193/regulation/1/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/3193/regulation/1/2))
+
+[^key-6ad5eb5f1d7ca6262087619a453dbc00]: Commencement: Reg. 1 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^key-f7cd797c1331cccb6f5e18075105ca7a]: Modification: Reg. 1(2) modified (31.7.2009 in relation to the financial years beginning on 1.4.2010 and on 1.4.2011) by [The Non-Domestic Rating (Deferred Payments) (England) Regulations 2009 (S.I. 2009/1597)](https://www.legislation.gov.uk/uksi/2009/1597), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/1597/regulation/4)
+
+[^f00003]: Footnote: S.I. [1992/613](https://www.legislation.gov.uk/uksi/1992/613); relevant amending instruments are S.I. [1992/3008](https://www.legislation.gov.uk/uksi/1992/3008), [1993/196](https://www.legislation.gov.uk/uksi/1993/196), [1994/505](https://www.legislation.gov.uk/uksi/1994/505), [1997/393](https://www.legislation.gov.uk/uksi/1997/393), [2003/768](https://www.legislation.gov.uk/uksi/2003/768), [2003/2211](https://www.legislation.gov.uk/uksi/2003/2211).
+
+[^f00004]: Footnote: S.I. [1996/1880](https://www.legislation.gov.uk/uksi/1996/1880).
+
+[^key-3128689fd85426358e356df846ab377a]: Textual amendment: Words in reg. 1(2) inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/2)
+
+[^f00005]: Footnote: S.I. [1989/1058](https://www.legislation.gov.uk/uksi/1989/1058); relevant amending instruments are S.I. [1991/141](https://www.legislation.gov.uk/uksi/1991/141), [1992/1512](https://www.legislation.gov.uk/uksi/1992/1512), [1993/616](https://www.legislation.gov.uk/uksi/1993/616), [1993/774](https://www.legislation.gov.uk/uksi/1993/774), [1993/1493](https://www.legislation.gov.uk/uksi/1993/1493), [2003/2210](https://www.legislation.gov.uk/uksi/2003/2210).
+
+[^key-2ed494c831a97614b0da5ca68baef543]: Textual amendment: Words in reg. 1(2) omitted (1.4.2008) by virtue of [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2008 (S.I. 2008/387)](https://www.legislation.gov.uk/uksi/2008/387), [regs. 1](https://www.legislation.gov.uk/uksi/2008/387/regulation/1), [3](https://www.legislation.gov.uk/uksi/2008/387/regulation/3)
+
+[^f00006]: Footnote: S.I. [1990/145](https://www.legislation.gov.uk/uksi/1990/145); relevant amending instruments are S.I. [1993/616](https://www.legislation.gov.uk/uksi/1993/616), [1993/894](https://www.legislation.gov.uk/uksi/1993/894).
+
+[^f00007]: Footnote: Section 42A of the Local Government Finance Act 1988 was inserted by the Local Government and Rating Act 1997, s.1 and Schedule 1, paragraph 1.
+
+[^key-f6b077316d337909118bcee7c9eceb89]: Textual amendment: Words in reg. 1(3) omitted (25.12.2003) by virtue of [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2003 (S.I. 2003/3081)](https://www.legislation.gov.uk/uksi/2003/3081), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/3/2)
+
+[^key-212f0e3eedd777cc3df5d45ebd50c12b]: Textual amendment: Words in reg. 1(3)(a)(b) inserted (25.12.2003) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2003 (S.I. 2003/3081)](https://www.legislation.gov.uk/uksi/2003/3081), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/3/2)
+
+[^key-8f1682e183abd5604afe407a313e4448]: Textual amendment: Reg. 1(4) inserted (25.12.2003) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2003 (S.I. 2003/3081)](https://www.legislation.gov.uk/uksi/2003/3081), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/3/2)
+
+[^key-838a2f00329f483294b8254a17f02c76]: Commencement: Reg. 2 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^f00008]: Footnote: S.I. [1993/191](https://www.legislation.gov.uk/uksi/1993/191); relevant amending or modifying instruments are S.I. [1992/23](https://www.legislation.gov.uk/uksi/1992/23), [1995/121](https://www.legislation.gov.uk/uksi/1995/121), [1996/1880](https://www.legislation.gov.uk/uksi/1996/1880), [1997/394](https://www.legislation.gov.uk/uksi/1997/394), [1998/47](https://www.legislation.gov.uk/uksi/1998/47), [2000/5](https://www.legislation.gov.uk/uksi/2000/5), [2001/3554](https://www.legislation.gov.uk/uksi/2001/3554), [2002/180](https://www.legislation.gov.uk/uksi/2002/180).
+
+[^key-f076b7b6219a903ba77b5238062b01e0]: Commencement: Reg. 3 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^key-21b54f2a89eb31b3564636e41b4e3c9a]: Textual amendment: Word in reg. 3(2) substituted (1.4.2008) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2008 (S.I. 2008/387)](https://www.legislation.gov.uk/uksi/2008/387), [regs. 1](https://www.legislation.gov.uk/uksi/2008/387/regulation/1), [4](https://www.legislation.gov.uk/uksi/2008/387/regulation/4)
+
+[^key-40cdf3f3a8e737d2dcf0b4d0b482abbf]: Textual amendment: Word in reg. 3(3)(b) revoked (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/3/a)
+
+[^key-8260790ca8f92402c7456b2954d10348]: Textual amendment: Word in reg. 3(3)(c) substituted for full stop (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/3/b)
+
+[^key-5751a71f4eea7de9c1e9919e2804fc04]: Textual amendment: Reg. 3(3)(d) inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/3/c)
+
+[^key-49d3a898e4afc6ba556d064f15ecd8a3]: Commencement: Reg. 4 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^key-317331f204acfbc1c264b19cebf5e953]: Commencement: Reg. 5 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^key-77d3e5c77ce339d0df67983eb9d67f8e]: Commencement: Reg. 6 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^key-236c9bf25f0cea8279317c32b6e766c2]: Textual amendment: Sch. 1 substituted (1.4.2008) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2008 (S.I. 2008/387)](https://www.legislation.gov.uk/uksi/2008/387), [reg. 1](https://www.legislation.gov.uk/uksi/2008/387/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/387/schedule/part/1)
+
+[^f00009]: Footnote: [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29); section 88 was amended by S.I. [2002/155](https://www.legislation.gov.uk/uksi/2002/155). Section 89 was amended by S.I. [2000/1435](https://www.legislation.gov.uk/uksi/2000/1435) and S.I. [2002/155](https://www.legislation.gov.uk/uksi/2002/155).
+
+[^f00010]: Footnote: [1992 (c. 19)](https://www.legislation.gov.uk/ukpga/1992/19)
+
+[^f00011]: Footnote: S.I. [1993/22](https://www.legislation.gov.uk/uksi/1993/22).
+
+[^f00012]: Footnote: S.I. [1992/554](https://www.legislation.gov.uk/uksi/1992/554) to which there are amendments not relevant to these Regulations.
+
+[^key-c513fafa9c19183d474be20d46b6a9bc]: Textual amendment: Sch. 2 substituted (1.4.2008) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2008 (S.I. 2008/387)](https://www.legislation.gov.uk/uksi/2008/387), [reg. 1](https://www.legislation.gov.uk/uksi/2008/387/regulation/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2008/387/schedule/part/2)
+
+[^key-0c3da5a6a7d418f7baa80338415209ae]: Textual amendment: Sch. 2 Pt. 1 para. 7: Explanatory Notes substituted (1.4.2010) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2010 (S.I. 2010/140)](https://www.legislation.gov.uk/uksi/2010/140), [regs. 1](https://www.legislation.gov.uk/uksi/2010/140/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/140/regulation/3)
+
+[^key-d0b73d346a56730600144c14674dfae1]: Textual amendment: Sum in Sch. 2 Pt. 2 substituted (1.4.2010) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2010 (S.I. 2010/140)](https://www.legislation.gov.uk/uksi/2010/140), [regs. 1](https://www.legislation.gov.uk/uksi/2010/140/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2010/140/regulation/4/a)
+
+[^key-48a0737e6260e3b2bd3cce36df67805f]: Textual amendment: Sum in Sch. 2 Pt. 2 substituted (1.4.2010) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2010 (S.I. 2010/140)](https://www.legislation.gov.uk/uksi/2010/140), [regs. 1](https://www.legislation.gov.uk/uksi/2010/140/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2010/140/regulation/4/b)
+
+[^key-2f616995ea9961d072281f68cfba184c]: Textual amendment: Sum in Sch. 2 Pt. 2 substituted (1.4.2010) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2010 (S.I. 2010/140)](https://www.legislation.gov.uk/uksi/2010/140), [regs. 1](https://www.legislation.gov.uk/uksi/2010/140/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2010/140/regulation/4/c)
+
+[^key-74f3be925957045c3f8987275c7b70c0]: Textual amendment: Sch. 2 Pt. 2A inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/4/a)
+
+[^key-c7d3c1ff9054348133b913a7edbdf844]: Textual amendment: Sch. 2 Pt. 3 para. 3: Explanatory Notes substituted (1.4.2010) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2010 (S.I. 2010/140)](https://www.legislation.gov.uk/uksi/2010/140), [regs. 1](https://www.legislation.gov.uk/uksi/2010/140/regulation/1), [5](https://www.legislation.gov.uk/uksi/2010/140/regulation/5)
+
+[^key-20a37fa9766b4710fd47610aa84a48a7]: Textual amendment: Sch. 2 Pt. 3A inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/4/b)
+
+[^key-1e9490ecd3f1ab908b4fe18e45b4c1d8]: Commencement: Sch. 3 Pt. 1 para. 1 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^key-f6c678d19d29684dd72971f64c24392d]: Commencement: Sch. 3 Pt. 1 para. 2 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^key-7e618fd83ce2ce3443a7982a768b41c2]: Commencement: Sch. 3 Pt. 1 para. 3 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^key-da8760248e7684b49c4a6eb48e0bf42c]: Commencement: Sch. 3 Pt. 1 para. 4 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^key-420fd3b6e8cda87b6a2b7f604535b736]: Commencement: Sch. 3 Pt. 1 para. 5 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^key-dc70c6a9c442877e451d508b7d12607e]: Commencement: Sch. 3 Pt. 1 para. 6 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^key-edbe78385d7654167aab71d7408d3825]: Commencement: Sch. 3 Pt. 1 para. 7 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^key-58f915d749ffa6c8832fd5d3ef0197bc]: Commencement: Sch. 3 Pt. 1 para. 8 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^key-961d4b4facef5fb06b3dfc48000a8fb9]: Commencement: Sch. 3 Pt. 2 para. 1 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^key-0a6d098429f89cb695cf521090ca6c19]: Commencement: Sch. 3 Pt. 3 para. 1 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^key-05d738f0e4d4a0c323c830461ba9368b]: Commencement: Sch. 3 Pt. 3 para. 2 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^key-e80b887f4f24241eb116a06e98c5d569]: Commencement: Sch. 3 Pt. 3 para. 3 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^key-a09cb510bf6bf974f0c8d2d14171d2e6]: Commencement: Sch. 3 Pt. 3 para. 4 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+
+[^key-e878807357e342f90dc8155a3b3a0d57]: Textual amendment: Words in Sch. 3 Pt. 3 para. 4 substituted (25.12.2003) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2003 (S.I. 2003/3081)](https://www.legislation.gov.uk/uksi/2003/3081), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2003/3081/regulation/6)
+
+[^key-574ad487c29ed269b714d1fe11c57407]: Textual amendment: Words in Sch. 3 Pt. 3 para. 4 omitted (31.1.2007 in relation to financial years beginning on or after 1.4.2007) by virtue of [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [7(5)(a)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/7/5/a)
+
+[^key-804b232a65400e8c235c54c4589ea954]: Textual amendment: Words in Sch. 3 Pt. 3 para. 4 inserted (31.1.2007 in relation to financial years beginning on or after 1.4.2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [7(5)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/7/5/b)

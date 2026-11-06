@@ -1,0 +1,316 @@
+---
+title: The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012
+id: uksi/2012/2598
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-10-17'
+text_date: '2025-07-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/2598
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/2598/pdfs/uksi_20122598_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2598/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012
+
+> Text as at 2025-07-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2012 No. 2598
+
+Police
+
+The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012
+
+Made
+
+17th October 2012
+
+Coming into force in accordance with Article 1(2) and (3)
+
+Her Majesty, in exercise of the powers conferred upon Her by section 168 of the Serious Organised Crime and Police Act 2005[^f00001], section 66(4) of the Safeguarding Vulnerable Groups Act 2006[^f00002] and section 118 of the Protection of Freedoms Act 2012[^f00003], is pleased, by and with the advice of Her Privy Council, to make the following Order:
+
+## 1. Citation and commencement[^key-91f2cb1d543001f8cd39c5829c2cc2f3]
+
+(1) This Order may be cited as the Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012.
+
+(2) This Order comes into force on the day after the day on which it is made.
+
+(3) However—
+
+- (a) a provision as follows does not have effect in the Island until the day it comes into force in England and Wales—
+  - (i) one extended by paragraph (1) of article 4 (subject to the modifications specified in Schedule 1 of this Order); and
+  - (ii) one in a Part extended by paragraphs (2) to (5) of article 4 (subject to the modifications specified in Schedules 2 to 5 of this Order); and
+- (b) paragraph (4) of Schedule 1 has effect in the Island when the provisions of article 4(3) to (6) have effect in the Island.
+
+## 2. Interpretation[^key-1b7122dabd41ef3224ba16a53cb19668]
+
+In this Part—
+
+- “the 2012 Act” means the Protection of Freedoms Act 2012; and
+- “the Island” means the Isle of Man and its adjacent territorial sea.
+
+## 3. Amendment of the Police Act 1997 (Criminal Records) (Isle of Man) Order 2010[^key-33d37307ccb551521a290a31f670faa4]
+
+(1) The Police Act 1997 (Criminal Records) (Isle of Man) Order 2010[^f00004] is amended as follows.
+
+(2) In article 1(4) for “upon the ending of the second transitional period” substitute “on such day as the Department of Home Affairs of the Isle of Man may by Order appoint”.
+
+(3) In article 2 the definitions of “the first transitional period” and “the second transitional period” are omitted.
+
+(4) Articles 6, 7 and 8 and Schedule 3 are revoked.
+
+## 4. Extension of certain provisions of 2012 Act to the Island[^key-8e5e42508a5190740cce5109d0548c91]
+
+(1) The following sections of the 2012 Act extend to the Island subject to the modifications specified in Schedule 1—
+
+- (a) section 79 (restriction on information provided to certain persons);
+- (b) section 80 (minimum age for applications for certificates or to be registered);
+- (c) section 82 (enhanced criminal record certificates: additional safeguards);
+- (d) section 83 (updating certificates);
+- (e) section 84 (criminal conviction certificates: conditional cautions);
+- (f) section 87 (formation and constitution of DBS);
+- (g) section 88 (transfer of functions to DBS and dissolution of ISA); and
+- (h) section 89 (orders under section 88).
+
+(2) Part 6 of Schedule 9 (Safeguarding of vulnerable groups) to the 2012 Act extends to the Island subject to the modifications specified in Schedule 2.
+
+(3) Part 7 of Schedule 9 (Criminal records) to the 2012 Act extends to the Island subject to the modifications specified in Schedule 3.
+
+(4) Part 5 of Schedule 10 (Safeguarding of vulnerable groups) to the 2012 Act extends to the Island to the extent that it repeals the following provisions of the Police Act 1997—[^key-775e36d23b0d950f8ec44b90e80898e0]
+
+- (a) section 113BA(2)(b) to (d);
+- (b) section 113BB(2)(b) to (d).
+
+(5) Part 6 of Schedule 10 (Criminal records) to the 2012 Act extends to the Island subject to the modifications specified in Schedule 5.
+
+## 5. Subordinate legislation made under extended provisions[^key-b5d48aae1c449130b6eec322e5356775]
+
+Any order or regulations made by the Secretary of State under the provisions extended to the Island by this Order shall not have effect in the Island unless, before making the order or regulations, the Secretary of State has consulted the Department of Home Affairs of the Island.
+
+Richard Tilbrook
+
+Clerk of the Privy Council
+
+## SCHEDULE 1 — Modifications to provisions of Part 5 of the Protection of Freedoms Act 2012
+
+Article 4(1)
+
+**1.**[^key-eae54a340bbcc32016f046e98e3f7399] In section 79 (restriction of information provided to certain persons)—
+
+- (a) omit subsection (1);
+- (b) in subsection (3) for “120AB” substitute “120ZA”.
+
+**2.**[^key-4d3e56f86e6c6308c072f73bd8c0d1c9] In section 80 (minimum age for applicants for certificates or to be registered)—
+
+- (a) in the heading omit “or to be registered”;
+- (b) omit subsection (2).
+
+**3.**[^key-fb718b2d50d901907a483f713b53d49a] In section 82 (enhanced criminal record certificates: additional safeguards), in subsection (3)(a), in the inserted definition of “relevant chief officer”, after “under subsection (4)” insert “and the Chief Constable of the Isle of Man Constabulary”.
+
+**4.**[^key-052c98d5a2cbcc53d5432f2584393dd0] After section 84 insert the following section—
+
+> **84A.** Consequential amendments, repeals and revocations
+>
+> (1) Schedule 10 (consequential amendments) has effect.
+>
+> (2) The provisions listed in Schedule 10 are repealed or (as the case may be) revoked to the extent specified.
+
+.
+
+**5.**[^key-a58fbb623c21cf24aa42783243dd5d8b] In section 87 (formation and constitution of DBS) omit subsection (3).
+
+**6.**[^key-35a51a99be548ae975800b427621512c] In section 88 (transfer of functions to DBS and dissolution of ISA) for subsection (2) substitute—
+
+> (2) The Secretary of State may by order transfer to DBS any functions of the Secretary of Sate under, or in connection with, Part 5 of the Police Act 1997 (criminal records).
+
+.
+
+**7.**[^key-be17921245557ef91e8e26c49126022b] In section 89 (orders under section 88)—
+
+- (a) omit subsections (2) to (4);
+- (b) for subsection (5) substitute—
+
+  > (5) In this section “enactment” does not include an Act or a Statutory Document within the meaning of those terms under the Interpretation Act 1976 (an Act of Tynwald (c.20)).
+
+  .
+
+## SCHEDULE 2 — Modifications to Part 6 of Schedule 9 to the 2012 Act
+
+Article 4(2)
+
+**1.**[^key-e250f93c78508179b1c4b9b104b84077] Omit paragraphs 36 and 37.
+
+**2.**[^key-3f369295759f4f7b0ac2f5cb44cc8e89] Omit paragraphs 40 to 42.
+
+**3.**[^key-097e714d311f6059af75fa60a2903ded] Omit paragraphs 43 to 103.
+
+## SCHEDULE 3 — Modifications to Part 7 of Schedule 9 to the 2012 Act
+
+Article 4(3)
+
+**1.**[^key-cb0052b303335c584a929ab97ec1d6cf] In paragraph 109[^f00005]—
+
+- (a) in sub-paragraph (2)(b) for “, 117A” substitute “or 117A”;
+- (b) in sub-paragraph (3), in the inserted subsection (3A)—
+  - (i) for the first reference to “Secretary of State” substitute “Department of Home Affairs of the Isle of Man”;
+  - (ii) after “fingerprints” insert “for transmission to the Secretary of State”.
+
+**2.**[^key-367df39d2f19347371258daf78cc2792] In paragraph 110—
+
+- (a) for sub-paragraph (2) substitute—
+
+  > (2) In subsection (1A)(a) after “certificate” insert “, or the provision of update information under section 116A”.
+
+  ;
+- (b) for subparagraph (5) substitute—
+
+  > (5) In subsection (4) after “certificate” insert “, or the provision of update information under section 116A”.
+
+  ;
+- (c) for sub-paragraph (6) substitute—
+
+  > (6) In subsection (8) after “certificate” insert “, or the provision of update information under section 116A.
+
+  .
+
+**3.**[^key-19a924a30ac1c2e425db79372dad08bd] For paragraph 112 substitute—
+
+> **112.** (1) Section 120 (registered persons) is amended as follows.
+>
+> (2) In subsection (2), after paragraph (a) insert “and”.
+
+.
+
+**4.**[^key-cd7c9c68890d41578c0c2e4a066d3673] Omit paragraphs 113 and 114.
+
+**5.**[^key-265e4e8b3e874473f426f5e159e125a6] Omit paragraphs 119 to 129.
+
+## SCHEDULE 4 — Modifications of Part 5 of Schedule 10 to the 2012 Act[^key-d81081711e2dbf0d4d8679ba82a85db8]
+
+**No longer in force.**
+
+Article 4(4)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 5 — Modifications to Part 6 of Schedule 10 to the 2012 Act[^key-adabf6951f9c806c118475526a3fb9cb]
+
+Article 4(5)
+
+[^key-adabf6951f9c806c118475526a3fb9cb]
+
+For Part 6 substitute—
+
+> **PART 6 — CRIMINAL RECORDS**
+>
+> | Short title | Extent of repeal[^f00007] |
+> | --- | --- |
+> | Police Act 1997 | Section 113A(4) |
+> |  | In section 113B— |
+> |  | - (a) in subsection (4), the words “, in the chief officer’s opinion”, |
+> |  | - (a) subsections (5) and (6), and |
+> |  | - (a) in subsection (9), the definition of “relevant police force”. |
+> |  | In section 119B— |
+> |  | - (a) subsection (5)(a), and |
+> |  | - (a) in subsection (5)(c), the words from “or disclosed” to the end. |
+> |  | In section 124— |
+> |  | - (a) in subsection (4)(b), the words “(5) or”, and |
+> |  | - (a) subsection (5). |
+> |  | In subsection 124A(1)(c), the words “or registered person”. |
+> | Safeguarding Vulnerable Groups Act 2006 | In Schedule 9, paragraph 14(5) and (6). |
+
+.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Police Act 1997 (Criminal Records) (The Isle of Man) Order 2010 ([SI 2010/764](https://www.legislation.gov.uk/uksi/2010/764)) (“the 2010 Order”) by extending provisions of the Protection of Freedoms Act 2012 (“the 2012 Act”) to The Isle of Man, subject to the modifications specified in Schedules 1 to 5.
+
+The 2010 Order extended Part 5 of the Police Act [1997 (c.50)](https://www.legislation.gov.uk/ukpga/1997/50) (“the 1997 Act”) to the Island subject to modifications. It also extended to the Island provisions of the Armed Forces Act [2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52) and the Safeguarding Vulnerable Groups Act 2005 (“the 2006 Act”) that contained amendments to Part 5, subject to modifications. Part 5 of the 1997 Act makes provision for the Secretary of State to issue 3 levels of certificate – a criminal conviction certificate (section 112), a criminal record certificate (section 113A) and an enhanced criminal record certificate (section 113B).
+
+Article 3 directly amends the 2010 Order to remove references to the transitional periods and related modifications to the 1997 Act which were as a result of the phased implementation of monitoring under the 2006 Act. Monitoring is repealed by the 2012 Act and therefore the transitional periods are no longer required. This Article also permits the coming into force of article 4(2)(d) to the 2010 Order (the extension of the repeal of section 113E of the 1997 Act) by order of the Island’s Department of Home Affairs of the (“the Home Department”) and amends the definition of “caution”, “chief officer” and “police force” in section 120 of the 1997 Act as extended to the Isle of Man.
+
+The 2012 Act amends the 1997 Act in accordance with the recommendations of the Mason Review “A Common Sense Approach” (Home Office, 2011). Article 4 gives effect to the Schedules which contain the amendments provisions found in the 2012 Act.
+
+Section 79 modifies sections 113A and 113B to remove the requirement that the Secretary of State, acting through the Criminal Records Bureau (“the CRB”), must send specified information to the registered body in addition to the applicant. This will permit an applicant to make appropriate representations to the CRB regarding any information or the contents of a certificate which the applicant disputes.
+
+A minimum age of 16 is set by section 80 for an applicant requesting a certificate under sections 112, 113A, 113B, 114 and 116 of the 1997 Act.
+
+Additional safeguards are inserted into section 113B by section 82 which substitutes a higher test of disclosure in respect of non-conviction information which should be disclosed in enhanced criminal records certificates and requires CRB to ask the Chief Constable of Island’s Constabulary to decide whether information held in the Island should be disclosed. Section 117 of the 1997 Act is also amended to allow an application for a certificate, or other person, who disputes the accuracy of information contained in the certificate to make written representations to the Secretary of State for a new certificate and section 117A is inserted to permit an applicant to dispute non-conviction information disclosed by a relevant chief officer by way of application to the independent monitor appointed under section 119B.
+
+Section 83 inserts section 116A into the 1997 Act, which introduces a procedure for updating certificates on a continuous basis. Where a person applies for a certificate, that applicant may subscribe to updating arrangements on an annual basis on payment of an annual fee. In response to a request for “up-date information”, the CRB will advise the applicant, or any other person authorised to request an update, either that there is no new information that should be included or that a new certificate should be applied for. The Home Department is also given a power to require an applicant to give their fingerprints to verify their identity against the identity of a person in respect of whom the Secretary of State has been provided information.
+
+Section 112 of the 1997 Act is amended by section 84 to provide that a criminal conviction certificate must also include details of any unspent conditional cautions, which were introduced in the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44). Access to the Disclosure and Barring Service (“the DBS”) is also facilitated by sections 87 to 89 of the 2012 Act, which permit the Secretary of State’s functions under Part 5 of the 1997 Act to be transferred to the DBS and the dissolution of the Independent Safeguarding Authority.
+
+An informal Keeling Schedule setting out the provisions of the 2012 Act as they extend to the Island is published on the Ministry of Justice website to assist the reader at www.justice.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2005 c. 15](https://www.legislation.gov.uk/ukpga/2005/15).
+
+[^f00002]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47).
+
+[^f00003]: Footnote: [2012 c. 9](https://www.legislation.gov.uk/ukpga/2012/9).
+
+[^key-91f2cb1d543001f8cd39c5829c2cc2f3]: Commencement: Art. 1 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^key-1b7122dabd41ef3224ba16a53cb19668]: Commencement: Art. 2 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^key-33d37307ccb551521a290a31f670faa4]: Commencement: Art. 3 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^f00004]: Footnote: [S.I. 2010/764](https://www.legislation.gov.uk/uksi/2010/764).
+
+[^key-8e5e42508a5190740cce5109d0548c91]: Commencement: Art. 4 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^key-775e36d23b0d950f8ec44b90e80898e0]: Textual amendment: [Art. 4(4)(a)(b)](https://www.legislation.gov.uk/uksi/2012/2598/article/4/4) and words substituted for words (10.7.2025) by [The Safeguarding Vulnerable Groups Act 2006 (Isle of Man) Order 2025 (S.I. 2025/824)](https://www.legislation.gov.uk/uksi/2025/824), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/824/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/824/article/3/2)
+
+[^key-b5d48aae1c449130b6eec322e5356775]: Commencement: Art. 5 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^key-eae54a340bbcc32016f046e98e3f7399]: Commencement: Sch. 1 para. 1 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^key-4d3e56f86e6c6308c072f73bd8c0d1c9]: Commencement: Sch. 1 para. 2 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^key-fb718b2d50d901907a483f713b53d49a]: Commencement: Sch. 1 para. 3 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^key-052c98d5a2cbcc53d5432f2584393dd0]: Commencement: Sch. 1 para. 4 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^key-a58fbb623c21cf24aa42783243dd5d8b]: Commencement: Sch. 1 para. 5 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^key-35a51a99be548ae975800b427621512c]: Commencement: Sch. 1 para. 6 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^key-be17921245557ef91e8e26c49126022b]: Commencement: Sch. 1 para. 7 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^key-e250f93c78508179b1c4b9b104b84077]: Commencement: Sch. 2 para. 1 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^key-3f369295759f4f7b0ac2f5cb44cc8e89]: Commencement: Sch. 2 para. 2 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^key-097e714d311f6059af75fa60a2903ded]: Commencement: Sch. 2 para. 3 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^key-cb0052b303335c584a929ab97ec1d6cf]: Commencement: Sch. 3 para. 1 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^f00005]: Footnote: Paragraphs 109, 110 and 112 of Part 7 of Schedule 9 to the 2012 Act, respectively, amend sections 118, 119 and 120 of the Police Act [1997 (c.50)](https://www.legislation.gov.uk/ukpga/1997/50), which were extended, with modifications, by [S.I. 2010/764](https://www.legislation.gov.uk/uksi/2010/764) and which, by modification of the 2012 Act, are further modified by this Schedule. For the purposes of this Order, the relevant earlier modifications are in Schedule 1 to [S.I. 2010/764](https://www.legislation.gov.uk/uksi/2010/764).
+
+[^key-367df39d2f19347371258daf78cc2792]: Commencement: Sch. 3 para. 2 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^key-19a924a30ac1c2e425db79372dad08bd]: Commencement: Sch. 3 para. 3 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^key-cd7c9c68890d41578c0c2e4a066d3673]: Commencement: Sch. 3 para. 4 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^key-265e4e8b3e874473f426f5e159e125a6]: Commencement: Sch. 3 para. 5 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^key-d81081711e2dbf0d4d8679ba82a85db8]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2012/2598/schedule/4) omitted (10.7.2025) by virtue of [The Safeguarding Vulnerable Groups Act 2006 (Isle of Man) Order 2025 (S.I. 2025/824)](https://www.legislation.gov.uk/uksi/2025/824), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/824/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/824/article/3/3)
+
+[^key-adabf6951f9c806c118475526a3fb9cb]: Commencement: Sch. 5 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+
+[^f00007]: Footnote: These provisions were previously extended, with modifications, by [S.I. 2010/764](https://www.legislation.gov.uk/uksi/2010/764).

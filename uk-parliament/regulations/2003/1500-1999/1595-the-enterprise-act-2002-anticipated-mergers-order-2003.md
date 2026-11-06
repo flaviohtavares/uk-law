@@ -1,0 +1,123 @@
+---
+title: The Enterprise Act 2002 (Anticipated Mergers) Order 2003
+id: uksi/2003/1595
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-06-17'
+text_date: '2024-05-24'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2003/1595
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/1595/pdfs/uksi_20031595_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/1595/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Enterprise Act 2002 (Anticipated Mergers) Order 2003
+
+> Text as at 2024-05-24.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2003 No. 1595
+
+COMPETITION
+
+The Enterprise Act 2002 (Anticipated Mergers) Order 2003
+
+Made
+
+17th June 2003
+
+Coming into force
+
+20th June 2003
+
+Whereas the Secretary of State laid a draft of this Order before Parliament;
+
+And whereas the said draft as so laid has been approved by a resolution of each House of Parliament;
+
+Now, therefore, the Secretary of State, in exercise of the powers conferred upon her by sections 34 and 124(2) and 124(3) of the Enterprise Act 2002 [^c5051881] hereby makes the following Order:[^key-26b69e63241ec7df75db69256fd96c5f][^key-5a1859741983282b0289fb13d6c09f89]
+
+## 1. Citation, commencement and interpretation
+
+This Order may be cited as the Enterprise Act 2002 (Anticipated Mergers) Order 2003 and shall come into force on 20th June 2003.
+
+## 2.
+
+In this Order—
+
+- “**the Act**” means the Enterprise Act 2002;
+- “**reference**” means a reference under Part 3 of the Act which relates to arrangements which are in progress or in contemplation; and
+- “**notice**” means a notice under section 42(2) or 59(2)[^key-f5c4aad1a1e616c958658d68df733b32] of the Act which relates to such arrangements.
+
+## 3. Supplementary provision in relation to anticipated mergers
+
+Sections 27 and 29 of the Act shall apply in relation to references and notices with the following modifications:
+
+- (a) in section 27, for subsections (5) and (6) there shall be substituted the following subsections:
+
+  > (5) The decision-making authority may, for the purposes of a reference, treat successive events to which this subsection applies as if they will occur simultaneously on the date on which the latest of the events will occur.
+  >
+  > (6) Subsection (5) applies to successive events—
+  >
+  > - (a) which consist of—
+  >   - (i) one or more than one event which has occurred within the period of two years before the date of the reference; and
+  >   - (ii) one or more than one event which will occur;
+  > - (b) which are events which have occurred or will occur under or in consequence of the same arrangements or transactions, or successive arrangements or transactions between the same parties or interests; and
+  > - (c) by virtue of each of which, under or in consequence of the arrangements or the transaction or transactions concerned, any enterprises cease as between themselves to be distinct enterprises.
+
+  ; and
+- (b) in section 29, for subsections (1) to (4) there shall be substituted;
+
+  > (1) Where an enterprise will be brought under the control of a person or group of persons in the course of two or more transactions (in this section a “series of transactions”) to which subsection (2) applies, those transactions may, if the decision-making authority considers it appropriate, be treated for the purposes of a reference as if they will occur simultaneously on the date on which the latest of them will occur.
+  >
+  > (2) This subsection applies to—
+  >
+  > - (a) any transaction which has occurred or which will occur and which—
+  >   - (i) enables that person or group of persons directly or indirectly to control or materially to influence the policy of any person carrying on the enterprise;
+  >   - (ii) enables that person or group of persons to do so to a greater degree; or
+  >   - (iii) is a step (whether direct or indirect) towards enabling that person or group of persons to do so; and
+  > - (b) any transaction which has occurred or which will occur and by virtue of which that person or group of persons acquires a controlling interest in the enterprise or, where the enterprise is carried on by a body corporate, in that body corporate.
+  >
+  > (3) Where a series of transactions includes a transaction falling within subsection (2)(b), any transaction occurring after the occurrence of that transaction is to be disregarded for the purposes of subsection (1).
+  >
+  > (4) Where the period within which any relevant transactions have occurred exceeds two years before the date of the reference, the relevant transactions that may be treated as mentioned in subsection (1) are any of those transactions that have occurred within the period of two years.
+  >
+  > (4A) In subsection (4) “**relevant transactions**” means transactions which have occurred and which are transactions in the series of transactions.
+
+  .
+
+## 4.
+
+In the case of any reference where the CMA[^key-c4e0d0bb1d249b8367df62132ca2e91e] exercises its discretion under section 27(5) or 29(1) of the Act (as substituted by this Order) section 36(2)(a) and (b) of the Act shall have effect as if the words “**or has resulted**” were inserted after “ result ”.
+
+Gerry Sutcliffe,
+
+Parliamentary Under-Secretary of State for
+
+Employment Relations, Competition and Consumers,
+
+Department of Trade and Industry
+
+*(This note is not part of the Order)*
+
+This Order makes provision about the operation of sections 27 and 29 of the Enterprise Act 2002 (“**the Act**”) in relation to anticipated mergers and public interest intervention notices relating to them. It provides that sections 27 and 29 of the Act apply in relation to such cases, but with certain modifications. The modifications permit one or more events or transactions which have occurred over a period of two years before the date of reference to be aggregated by the decision-making authorities under the Act (OFT, the Secretary of State, and the Competition Commission) with future events or transactions that are in progress or in contemplation for the purposes of deciding whether a merger qualifies for investigation by virtue of Part 3 of the Act.
+
+## Annotations
+
+[^c5051881]: Marginal citation: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^key-26b69e63241ec7df75db69256fd96c5f]: Modification: Order modified (E.W.) (29.12.2004) by [The Water Mergers (Modification of Enactments) Regulations 2004 (S.I. 2004/3202)](https://www.legislation.gov.uk/uksi/2004/3202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/10/2)
+
+[^key-5a1859741983282b0289fb13d6c09f89]: Modification: Order applied (with modifications) (24.5.2024) by [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), [Sch. 6A para. 2](https://www.legislation.gov.uk/ukpga/2002/40/schedule/6A/paragraph/2) (as inserted by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/3) (with [s. 130(2)(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2/3)))
+
+[^key-f5c4aad1a1e616c958658d68df733b32]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2003/1595/article/2) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/6/2) (with [Sch. 4 para. 25](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/25)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c4e0d0bb1d249b8367df62132ca2e91e]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2003/1595/article/4) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/11) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))

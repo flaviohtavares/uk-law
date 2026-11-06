@@ -1,0 +1,1277 @@
+---
+title: The Transfer of Undertakings (Protection of Employment) Regulations 2006
+id: uksi/2006/246
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2006-02-06'
+text_date: '2026-10-05'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2006/246
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/246/pdfs/uksiem_20060246_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/246/pdfs/uksi_20060246_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/246/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Transfer of Undertakings (Protection of Employment) Regulations 2006
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/uksi/2006/246
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2006 No. 246
+
+TERMS AND CONDITIONS OF EMPLOYMENT
+
+The Transfer of Undertakings (Protection of Employment) Regulations 2006
+
+Made
+
+6th February 2006
+
+Laid before Parliament
+
+7th February 2006
+
+Coming into force
+
+6th April 2006
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred upon him by section 2(2) of the European Communities Act 1972[^f00001] (being a Minister designated for the purposes of that section in relation to rights and obligations relating to employers and employees on the transfer or merger of undertakings, businesses or parts of businesses[^f00002]) and section 38 of the Employment Relations Act 1999[^f00003].[^key-eee1e793da3c7ef5ba7b3f05fc6c2edf][^key-85480b5ff101a843de1a1008a9d3b585][^key-d0474daa601fba28049069b9d4b1491c][^key-1e18946068d7c03a941b184ef131cce8][^key-1e18946068d7c03a941b184ef131cce8][^key-28a88e31c2046b51b37fc3872e7b6f5d][^key-7eb24d694674eab74498a869a1346e41][^key-411131b23a86b436a6ba52881c87015d][^key-0c4cc686c9c7f3d20ccfb138c61b320e][^key-ff10940df52a4fe1e59155a97bfbcff4][^key-82f744ef32b5767838b7829809a24d2d][^key-dca7102eef92cbcce2b16d019ffa22c0][^key-c001a444e2a2ce589b090a2237e67274][^key-98468435b35524f736a33483f82b7582][^key-69eafb67a4ac9215a2b0270ffdc028b0][^key-937461532bde7b2e8b0cc7f1c3afc1aa][^key-0bc88f5acbcaf400227fd0d13c9f4a10][^key-74c3251788f325c0646075341d9a406f][^key-f965b1f76e488829154c6745f81c3f2c][^key-0c5c51fe038b6d09649fd49487c71e35][^key-c27f79f2c6e993d5b8c639d0791fc230][^key-53763fa6a227e43109a16d259791c229][^key-ba21344b2d457c5832f77e9b04de0159][^key-9a954f925b9f1652ff8955463057ff20][^key-2e5f86118383d4624a8d38c884e82ea2][^key-d9d3b846d5a2d83a34f129a85cfa4157][^key-9dbc75deea66d171a0abf27a2b29e3ef][^key-1e55193a2632020863eb28b238a60455][^key-8ee7d59b6526f8e4931b8a4bce54a9d3][^key-c231c6ef9aab4ca0ffff65c1fc4b76c1][^key-63c81e68a6705795d9a20caa7a91dbba][^key-2a25089c2a492d830a6cc726d26321f2][^key-3c081310ea4be4acb908b315a3b11082][^key-4573953ab5cbc7e82b3450c85c3e9593][^key-cd8c7cf0667fb8ab43e11bd0e0aeeea0]
+
+## 1. Citation, commencement and extent[^key-eccca2e40a54a9b1f4775940fdf56e8d]
+
+(1) These Regulations may be cited as the Transfer of Undertakings (Protection of Employment) Regulations 2006.
+
+(2) These Regulations shall come into force on 6 April 2006.
+
+(3) These Regulations shall extend to Northern Ireland, except where otherwise provided.
+
+## 2. Interpretation[^key-b6ae1a94adf53b12eaf921dc9e9ec141]
+
+(1) In these Regulations—
+
+- “assigned” means assigned other than on a temporary basis;
+- “collective agreement”, “collective bargaining” and “trade union” have the same meanings respectively as in the 1992 Act;
+- “contract of employment” means any agreement between an employee and his employer determining the terms and conditions of his employment;
+- references to “contractor” in regulation 3 shall include a sub-contractor;
+- “employee” means any individual who works for another person whether under a contract of service or apprenticeship or otherwise but does not include anyone who provides services under a contract for services and references to a person’s employer shall be construed accordingly;
+- “insolvency practitioner” has the meaning given to the expression by Part XIII of the Insolvency Act 1986[^f00004];
+- references to “organised grouping of employees” shall include a single employee;
+- “recognised” has the meaning given to the expression by section 178(3) of the 1992 Act;
+- “relevant transfer” means a transfer or a service provision change to which these Regulations apply in accordance with regulation 3 and “transferor” and “transferee” shall be construed accordingly and in the case of a service provision change falling within regulation 3(1)(b), “the transferor” means the person who carried out the activities prior to the service provision change and “the transferee” means the person who carries out the activities as a result of the service provision change;
+- “the 1992 Act” means the Trade Union and Labour Relations (Consolidation) Act 1992[^f00005];
+- “the 1996 Act” means the Employment Rights Act 1996[^f00006];
+- “the 1996 Tribunals Act” means the Employment Tribunals Act 1996[^f00007];
+- “the 1981 Regulations” means the Transfer of Undertakings (Protection of Employment) Regulations 1981[^f00008].
+
+(2) For the purposes of these Regulations the representative of a trade union recognised by an employer is an official or other person authorised to carry on collective bargaining with that employer by that trade union.
+
+(3) In the application of these Regulations to Northern Ireland the Regulations shall have effect as set out in Schedule 1.
+
+## 3. A relevant transfer[^key-c4467c3985a1f61662e31a58c97afe7a]
+
+(1) These Regulations apply to—
+
+- (a) a transfer of an undertaking, business or part of an undertaking or business situated immediately before the transfer in the United Kingdom to another person where there is a transfer of an economic entity which retains its identity;
+- (b) a service provision change, that is a situation in which—
+  - (i) activities cease to be carried out by a person (“a client”) on his own behalf and are carried out instead by another person on the client’s behalf (“a contractor”);
+  - (ii) activities cease to be carried out by a contractor on a client’s behalf (whether or not those activities had previously been carried out by the client on his own behalf) and are carried out instead by another person (“a subsequent contractor”) on the client’s behalf; or
+  - (iii) activities cease to be carried out by a contractor or a subsequent contractor on a client’s behalf (whether or not those activities had previously been carried out by the client on his own behalf) and are carried out instead by the client on his own behalf,
+
+  and in which the conditions set out in paragraph (3) are satisfied.
+
+(2) In this regulation “economic entity” means an organised grouping of resources which has the objective of pursuing an economic activity, whether or not that activity is central or ancillary.
+
+*Extent: E+W+S*
+
+(2A)[^key-89108b48bdd11bddde268fae0a78b253] References in paragraph (1)(b) to activities being carried out instead by another person (including the client) are to activities which are fundamentally the same as the activities carried out by the person who has ceased to carry them out.
+
+(3) The conditions referred to in paragraph (1)(b) are that—
+
+- (a) immediately before the service provision change—
+  - (i) there is an organised grouping of employees situated in Great Britain which has as its principal purpose the carrying out of the activities concerned on behalf of the client;
+  - (ii) the client intends that the activities will, following the service provision change, be carried out by the transferee other than in connection with a single specific event or task of short-term duration; and
+- (b) the activities concerned do not consist wholly or mainly of the supply of goods for the client’s use.
+
+(4) Subject to paragraph (1), these Regulations apply to—
+
+- (a) public and private undertakings engaged in economic activities whether or not they are operating for gain;
+- (b) a transfer or service provision change howsoever effected notwithstanding—
+  - (i) that the transfer of an undertaking, business or part of an undertaking or business is governed or effected by the law of a country or territory outside the United Kingdom or that the service provision change is governed or effected by the law of a country or territory outside Great Britain;
+  - (ii) that the employment of persons employed in the undertaking, business or part transferred or, in the case of a service provision change, persons employed in the organised grouping of employees, is governed by any such law;
+- (c) a transfer of an undertaking, business or part of an undertaking or business (which may also be a service provision change) where persons employed in the undertaking, business or part transferred ordinarily work outside the United Kingdom.
+
+(5)[^M_C_9881192f-8365-4297-de50-2a5ed70e467b][^key-5593e839369c6fd09401c3757faa908a][^key-4143a4265ba00f3a1ee55893982107e2][^key-150536fc6dee18f57f66e20c1111d1ae][^key-157d7886e60a88620ccca2b0e7d59d9f] An administrative reorganisation of public administrative authorities or the transfer of administrative functions between public administrative authorities is not a relevant transfer.
+
+(6) A relevant transfer—
+
+- (a) may be effected by a series of two or more transactions; and
+- (b) may take place whether or not any property is transferred to the transferee by the transferor.
+
+(7) Where, in consequence (whether directly or indirectly) of the transfer of an undertaking, business or part of an undertaking or business which was situated immediately before the transfer in the United Kingdom, a ship within the meaning of the Merchant Shipping Act 1995[^f00009] registered in the United Kingdom ceases to be so registered, these Regulations shall not affect the right conferred by section 29 of that Act (right of seamen to be discharged when ship ceases to be registered in the United Kingdom) on a seaman employed in the ship.
+
+## 4. Effect of relevant transfer on contracts of employment[^key-fc2f80806ce9eabd780da3e721fe0561]
+
+(1) Except where objection is made under paragraph (7), a relevant transfer shall not operate so as to terminate the contract of employment of any person employed by the transferor and assigned to the organised grouping of resources or employees that is subject to the relevant transfer, which would otherwise be terminated by the transfer, but any such contract shall have effect after the transfer as if originally made between the person so employed and the transferee.
+
+(2) Without prejudice to paragraph (1), but subject to paragraph (6), and regulations 8 and 15(9), on the completion of a relevant transfer—
+
+- (a) all the transferor’s rights, powers, duties and liabilities under or in connection with any such contract shall be transferred by virtue of this regulation to the transferee; and
+- (b) any act or omission before the transfer is completed, of or in relation to the transferor in respect of that contract or a person assigned to that organised grouping of resources or employees, shall be deemed to have been an act or omission of or in relation to the transferee.
+
+(3) Any reference in paragraph (1) to a person employed by the transferor and assigned to the organised grouping of resources or employees that is subject to a relevant transfer, is a reference to a person so employed immediately before the transfer, or who would have been so employed if he had not been dismissed in the circumstances described in regulation 7(1), including, where the transfer is effected by a series of two or more transactions, a person so employed and assigned or who would have been so employed and assigned immediately before any of those transactions.
+
+(4 (Extent: E+W+S))[^key-4445d61ecc6592108479d29e814ed212] Subject to regulation 9, any purported variation of a contract of employment that is, or will be, transferred by paragraph (1), is void if the sole or principal reason for the variation is the transfer. *(Extent: E+W+S)*
+
+(5 (Extent: E+W+S)) Paragraph (4) does not prevent a variation of the contract of employment if— *(Extent: E+W+S)*
+
+- (a (Extent: E+W+S)) the sole or principal reason for the variation is an economic, technical, or organisational reason entailing changes in the workforce, provided that the employer and employee agree that variation; or *(Extent: E+W+S)*
+- (b (Extent: E+W+S)) the terms of that contract permit the employer to make such a variation. *(Extent: E+W+S)*
+
+(5A (Extent: E+W+S)) In paragraph (5), the expression “changes in the workforce” includes a change to the place where employees are employed by the employer to carry on the business of the employer or to carry out work of a particular kind for the employer (and the reference to such a place has the same meaning as in section 139 of the 1996 Act). *(Extent: E+W+S)*
+
+(5B (Extent: E+W+S)) Paragraph (4) does not apply in respect of a variation of the contract of employment in so far as it varies a term or condition incorporated from a collective agreement, provided that— *(Extent: E+W+S)*
+
+- (a (Extent: E+W+S)) the variation of the contract takes effect on a date more than one year after the date of the transfer; and *(Extent: E+W+S)*
+- (b (Extent: E+W+S)) following that variation, the rights and obligations in the employee’s contract, when considered together, are no less favourable to the employee than those which applied immediately before the variation. *(Extent: E+W+S)*
+
+(5C (Extent: E+W+S)) Paragraphs (5) and (5B) do not affect any rule of law as to whether a contract of employment is effectively varied. *(Extent: E+W+S)*
+
+(6) Paragraph (2) shall not transfer or otherwise affect the liability of any person to be prosecuted for, convicted of and sentenced for any offence.
+
+(7)[^key-773aa7de821540cbfb3854fca61f28e6][^key-130d7c215d621647e68f2d2c38eeb2a0] Paragraphs (1) and (2) shall not operate to transfer the contract of employment and the rights, powers, duties and liabilities under or in connection with it of an employee who informs the transferor or the transferee that he objects to becoming employed by the transferee.
+
+(8)[^key-773aa7de821540cbfb3854fca61f28e6][^key-130d7c215d621647e68f2d2c38eeb2a0] Subject to paragraphs (9) and (11), where an employee so objects, the relevant transfer shall operate so as to terminate his contract of employment with the transferor but he shall not be treated, for any purpose, as having been dismissed by the transferor.
+
+(9) Subject to regulation 9, where a relevant transfer involves or would involve a substantial change in working conditions to the material detriment of a person whose contract of employment is or would be transferred under paragraph (1), such an employee may treat the contract of employment as having been terminated, and the employee shall be treated for any purpose as having been dismissed by the employer.
+
+(10) No damages shall be payable by an employer as a result of a dismissal falling within paragraph (9) in respect of any failure by the employer to pay wages to an employee in respect of a notice period which the employee has failed to work.
+
+(11) Paragraphs (1), (7), (8) and (9) are without prejudice to any right of an employee arising apart from these Regulations to terminate his contract of employment without notice in acceptance of a repudiatory breach of contract by his employer.
+
+## 4A. Effect of relevant transfer on contracts of employment which incorporate provisions of collective agreements[^key-eb3ca25eef0c7eba65d2321aa55823de]
+
+*Extent: E+W+S*
+
+(1) Where a contract of employment, which is transferred by regulation 4(1), incorporates provisions of collective agreements as may be agreed from time to time, regulation 4(2) does not transfer any rights, powers, duties and liabilities in relation to any provision of a collective agreement if the following conditions are met—
+
+- (a) the provision of the collective agreement is agreed after the date of the transfer; and
+- (b) the transferee is not a participant in the collective bargaining for that provision.
+
+(2) For the purposes of regulation 4(1), the contract of employment has effect after the transfer as if it does not incorporate provisions of a collective agreement which meet the conditions in paragraph (1).
+
+## 5. Effect of relevant transfer on collective agreements[^key-ae32953643b525426c017f965c4f437d]
+
+Where at the time of a relevant transfer there exists a collective agreement made by or on behalf of the transferor with a trade union recognised by the transferor in respect of any employee whose contract of employment is preserved by regulation 4(1) above, then—
+
+- (a) without prejudice to sections 179 and 180 of the 1992 Act (collective agreements presumed to be unenforceable in specified circumstances) that agreement, in its application in relation to the employee, shall, after the transfer, have effect as if made by or on behalf of the transferee with that trade union, and accordingly anything done under or in connection with it, in its application in relation to the employee, by or in relation to the transferor before the transfer, shall, after the transfer, be deemed to have been done by or in relation to the transferee; and
+- (b) any order made in respect of that agreement, in its application in relation to the employee, shall, after the transfer, have effect as if the transferee were a party to the agreement.
+
+## 6. Effect of relevant transfer on trade union recognition[^key-3d903814e3df5e4e73d3004e2d196299]
+
+(1) This regulation applies where after a relevant transfer the transferred organised grouping of resources or employees maintains an identity distinct from the remainder of the transferee’s undertaking.
+
+(2) Where before such a transfer an independent trade union is recognised to any extent by the transferor in respect of employees of any description who in consequence of the transfer become employees of the transferee, then, after the transfer—
+
+- (a) the trade union shall be deemed to have been recognised by the transferee to the same extent in respect of employees of that description so employed; and
+- (b) any agreement for recognition may be varied or rescinded accordingly.
+
+## 7. Dismissal of employee because of relevant transfer[^key-3eeed0fbaaf53d4f01104b763184653d]
+
+(1 (Extent: E+W+S) (affected by repeal, see note))[^key-c7125f25a08702bdf9f0d9f45add2d5a] Where either before or after a relevant transfer, any employee of the transferor or transferee is dismissed, that employee shall be treated for the purposes of Part X of the *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c7125f25a08702bdf9f0d9f45add2d5a] 1996 Act *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c7125f25a08702bdf9f0d9f45add2d5a] (unfair dismissal) as unfairly dismissed if the sole or principal reason for his dismissal is— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c7125f25a08702bdf9f0d9f45add2d5a]
+
+- (a (Extent: E+W+S) (affected by repeal, see note))[^key-c7125f25a08702bdf9f0d9f45add2d5a] the transfer itself; or *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c7125f25a08702bdf9f0d9f45add2d5a]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^key-c7125f25a08702bdf9f0d9f45add2d5a] a reason connected with the transfer that is not an economic, technical or organisational reason entailing changes in the workforce. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c7125f25a08702bdf9f0d9f45add2d5a]
+
+(2 (Extent: E+W+S) (affected by repeal, see note))[^key-c7125f25a08702bdf9f0d9f45add2d5a] This paragraph applies where the sole or principal reason for the dismissal is a reason connected with the transfer that is an economic, technical or organisational reason entailing changes in the workforce of either the transferor or the transferee before or after a relevant transfer. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c7125f25a08702bdf9f0d9f45add2d5a]
+
+(3 (Extent: E+W+S) (affected by repeal, see note))[^key-c7125f25a08702bdf9f0d9f45add2d5a] Where paragraph (2) applies— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c7125f25a08702bdf9f0d9f45add2d5a]
+
+- (a (Extent: E+W+S) (affected by repeal, see note))[^key-c7125f25a08702bdf9f0d9f45add2d5a] paragraph (1) shall not apply; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c7125f25a08702bdf9f0d9f45add2d5a]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^key-c7125f25a08702bdf9f0d9f45add2d5a] without prejudice to the application of section 98(4) of the *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c7125f25a08702bdf9f0d9f45add2d5a] 1996 Act *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c7125f25a08702bdf9f0d9f45add2d5a] (test of fair dismissal), the dismissal shall, for the purposes of sections 98(1) and 135 of that Act (reason for dismissal), be regarded as having been for redundancy where section 98(2)(c) of that Act applies, or otherwise for a substantial reason of a kind such as to justify the dismissal of an employee holding the position which that employee held. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c7125f25a08702bdf9f0d9f45add2d5a]
+
+(1 (Extent: E+W+S)) Where either before or after a relevant transfer, any employee of the transferor or transferee is dismissed, that employee is to be treated for the purposes of Part 10 of the 1996 Act (unfair dismissal) as unfairly dismissed if the sole or principal reason for the dismissal is the transfer. *(Extent: E+W+S)*
+
+(2 (Extent: E+W+S)) This paragraph applies where the sole or principal reason for the dismissal is an economic, technical or organisational reason entailing changes in the workforce of either the transferor or the transferee before or after a relevant transfer. *(Extent: E+W+S)*
+
+(3 (Extent: E+W+S)) Where paragraph (2) applies— *(Extent: E+W+S)*
+
+- (a (Extent: E+W+S)) paragraph (1) does not apply; *(Extent: E+W+S)*
+- (b (Extent: E+W+S)) without prejudice to the application of section 98(4) of the 1996 Act (test of fair dismissal), for the purposes of sections 98(1) and 135 of that Act (reason for dismissal)— *(Extent: E+W+S)*
+  - (i (Extent: E+W+S)) the dismissal is regarded as having been for redundancy where section 98(2)(c) of that Act applies; or *(Extent: E+W+S)*
+  - (ii (Extent: E+W+S)) in any other case, the dismissal is regarded as having been for a substantial reason of a kind such as to justify the dismissal of an employee holding the position which that employee held. *(Extent: E+W+S)*
+
+(3A (Extent: E+W+S)) In paragraph (2), the expression “changes in the workforce” includes a change to the place where employees are employed by the employer to carry on the business of the employer or to carry out work of a particular kind for the employer (and the reference to such a place has the same meaning as in section 139 of the 1996 Act). *(Extent: E+W+S)*
+
+(4) The provisions of this regulation apply irrespective of whether the employee in question is assigned to the organised grouping of resources or employees that is, or will be, transferred.
+
+(5) Paragraph (1) shall not apply in relation to the dismissal of any employee which was required by reason of the application of section 5 of the Aliens Restriction (Amendment) Act 1919[^f00010] to his employment.
+
+(6) Paragraph (1) shall not apply in relation to a dismissal of an employee if the application of section 94 of the 1996 Act to the dismissal of the employee is excluded by or under any provision of the 1996 Act, the 1996 Tribunals Act or the 1992 Act.
+
+## 8. Insolvency[^key-e69d23527a6d8fc87fe9f069e4ffb34e]
+
+(1) If at the time of a relevant transfer the transferor is subject to relevant insolvency proceedings paragraphs (2) to (6) apply.
+
+(2) In this regulation “relevant employee” means an employee of the transferor—
+
+- (a) whose contract of employment transfers to the transferee by virtue of the operation of these Regulations; or
+- (b) whose employment with the transferor is terminated before the time of the relevant transfer in the circumstances described in regulation 7(1).
+
+(3) The relevant statutory scheme specified in paragraph (4)(b) (including that sub-paragraph as applied by paragraph 5 of Schedule 1) shall apply in the case of a relevant employee irrespective of the fact that the qualifying requirement that the employee’s employment has been terminated is not met and for those purposes the date of the transfer shall be treated as the date of the termination and the transferor shall be treated as the employer.
+
+(4) In this regulation the “relevant statutory schemes” are—
+
+- (a) Chapter VI of Part XI of the 1996 Act;
+- (b) Part XII of the 1996 Act.
+
+(5) Regulation 4 shall not operate to transfer liability for the sums payable to the relevant employee under the relevant statutory schemes.
+
+(6) In this regulation “relevant insolvency proceedings” means insolvency proceedings which have been opened in relation to the transferor not with a view to the liquidation of the assets of the transferor and which are under the supervision of an insolvency practitioner.
+
+(7) Regulations 4 and 7 do not apply to any relevant transfer where the transferor is the subject of bankruptcy proceedings or any analogous insolvency proceedings which have been instituted with a view to the liquidation of the assets of the transferor and are under the supervision of an insolvency practitioner.
+
+## 9. Variations of contract where transferors are subject to relevant insolvency proceedings[^key-0bc0fd209b4f1bddc72fa03ad41eb1c6]
+
+(1) If at the time of a relevant transfer the transferor is subject to relevant insolvency proceedings these Regulations shall not prevent the transferor or transferee (or an insolvency practitioner) and appropriate representatives of assigned employees agreeing to permitted variations.
+
+(2) For the purposes of this regulation “appropriate representatives” are—
+
+- (a) if the employees are of a description in respect of which an independent trade union is recognised by their employer, representatives of the trade union; or
+- (b) in any other case, whichever of the following employee representatives the employer chooses—
+  - (i) employee representatives appointed or elected by the assigned employees (whether they make the appointment or election alone or with others) otherwise than for the purposes of this regulation, who (having regard to the purposes for, and the method by which they were appointed or elected) have authority from those employees to agree permitted variations to contracts of employment on their behalf;
+  - (ii) employee representatives elected by assigned employees (whether they make the appointment or election alone or with others) for these particular purposes, in an election satisfying requirements identical to those contained in regulation 14 except those in regulation 14(1)(d).
+
+(3) An individual may be an appropriate representative for the purposes of both this regulation and regulation 13 provided that where the representative is not a trade union representative he is either elected by or has authority from assigned employees (within the meaning of this regulation) and affected employees (as described in regulation 13(1)).
+
+(4) In section 168 of the 1992 Act (time off for carrying out trade union duties) in subsection (1), after paragraph (c) there is inserted—
+
+> , or
+>
+> - (d) negotiations with a view to entering into an agreement under regulation 9 of the Transfer of Undertakings (Protection of Employment) Regulations 2006 that applies to employees of the employer, or
+> - (e) the performance on behalf of employees of the employer of functions related to or connected with the making of an agreement under that regulation.
+
+.
+
+(5) Where assigned employees are represented by non-trade union representatives—
+
+- (a) the agreement recording a permitted variation must be in writing and signed by each of the representatives who have made it or, where that is not reasonably practicable, by a duly authorised agent of that representative; and
+- (b) the employer must, before the agreement is made available for signature, provide all employees to whom it is intended to apply on the date on which it is to come into effect with copies of the text of the agreement and such guidance as those employees might reasonably require in order to understand it fully.
+
+(6) A permitted variation shall take effect as a term or condition of the assigned employee’s contract of employment in place, where relevant, of any term or condition which it varies.
+
+(7) In this regulation—
+
+- “assigned employees” means those employees assigned to the organised grouping of resources or employees that is the subject of a relevant transfer;
+- “permitted variation” is a variation to the contract of employment of an assigned employee where—
+  - (a) the sole or principal reason for it is the transfer itself or a reason connected with the transfer that is not an economic, technical or organisational reason entailing changes in the workforce; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-b63bb80fa93fee54a60a7d78ed5303b0]
+
+    the sole or principal reason for the variation is the transfer and not a reason referred to in regulation 4(5)(a); and *(Extent: E+W+S)*
+  - (b) it is designed to safeguard employment opportunities by ensuring the survival of the undertaking, business or part of the undertaking or business that is the subject of the relevant transfer;
+- “relevant insolvency proceedings” has the meaning given to the expression by regulation 8(6).
+
+## 10. Pensions[^key-9bd65dfeabaefd88b3a8a66a1c9917a3][^key-f95119f133508058aa71aa8c0977a3cc][^key-ff343ab8b2dfbf99e55464deb05cb97c][^key-7f412881ad5c75ad85054c9298c66995][^key-1c626929640cd4868453d28009eb7b37][^key-fb81439a808d6b8d243dc68a05230009][^key-659d5233c75a96c1976b294278a7941b]
+
+(1) Regulations 4 and 5 shall not apply—
+
+- (a) to so much of a contract of employment or collective agreement as relates to an occupational pension scheme within the meaning of the Pension Schemes Act 1993[^f00011]; or
+- (b) to any rights, powers, duties or liabilities under or in connection with any such contract or subsisting by virtue of any such agreement and relating to such a scheme or otherwise arising in connection with that person’s employment and relating to such a scheme.
+
+(2) For the purposes of paragraphs (1) and (3), any provisions of an occupational pension scheme which do not relate to benefits for old age, invalidity or survivors shall not be treated as being part of the scheme.
+
+(3) An employee whose contract of employment is transferred in the circumstances described in regulation 4(1) shall not be entitled to bring a claim against the transferor for—
+
+- (a) breach of contract; or
+- (b) constructive unfair dismissal under section 95(1)(c) of the 1996 Act,
+
+arising out of a loss or reduction in his rights under an occupational pension scheme in consequence of the transfer, save insofar as the alleged breach of contract or dismissal (as the case may be) occurred prior to the date on which these Regulations took effect.
+
+## 11. Notification of Employee Liability Information[^key-3739dd83d0146d96400fb77066056fe5][^key-21fba4126ae95513e1561efa4839735c][^key-ca6edf5f046fb272b80e663960abefdf][^key-5b34042c51e29c0478ff948629a38b77]
+
+(1) The transferor shall notify to the transferee the employee liability information of any person employed by him who is assigned to the organised grouping of resources or employees that is the subject of a relevant transfer —
+
+- (a) in writing; or
+- (b) by making it available to him in a readily accessible form.
+
+(2) In this regulation and in regulation 12 “employee liability information” means—
+
+- (a) the identity and age of the employee;
+- (b) those particulars of employment that an employer is obliged to give to an employee pursuant to section 1 of the 1996 Act;
+- (c) information of any—
+  - (i) disciplinary procedure taken against an employee;
+  - (ii) grievance procedure taken by an employee,
+
+  within the previous two years, in circumstances where a Code of Practice issued under Part IV of the[^key-027c774b013bd79319b7d0140c036809] Trade Union and Labour Relations (Consolidation) Act 1992 which relates exclusively or primarily to the resolution of disputes applies;
+- (d) information of any court or tribunal case, claim or action—
+  - (i) brought by an employee against the transferor, within the previous two years;
+  - (ii) that the transferor has reasonable grounds to believe that an employee may bring against the transferee, arising out of the employee’s employment with the transferor; and
+- (e) information of any collective agreement which will have effect after the transfer, in its application in relation to the employee, pursuant to regulation 5(a).
+
+(3) Employee liability information shall contain information as at a specified date not more than fourteen days before the date on which the information is notified to the transferee.
+
+(4) The duty to provide employee liability information in paragraph (1) shall include a duty to provide employee liability information of any person who would have been employed by the transferor and assigned to the organised grouping of resources or employees that is the subject of a relevant transfer immediately before the transfer if he had not been dismissed in the circumstances described in regulation 7(1), including, where the transfer is effected by a series of two or more transactions, a person so employed and assigned or who would have been so employed and assigned immediately before any of those transactions.
+
+(5) Following notification of the employee liability information in accordance with this regulation, the transferor shall notify the transferee in writing of any change in the employee liability information.
+
+(6) A notification under this regulation shall be given not less than fourteen days *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-19e55a6b559c3ee73a58bd4443cb64b8] 28 days *(Extent: E+W+S)* before the relevant transfer or, if special circumstances make this not reasonably practicable, as soon as reasonably practicable thereafter.
+
+(7) A notification under this regulation may be given—
+
+- (a) in more than one instalment;
+- (b) indirectly, through a third party.
+
+## 12. Remedy for failure to notify employee liability information[^key-d825ef46220707d4b9f36992d31d3206][^key-21fba4126ae95513e1561efa4839735c][^key-ca6edf5f046fb272b80e663960abefdf][^key-5b34042c51e29c0478ff948629a38b77]
+
+(1) On or after a relevant transfer, the transferee may present a complaint to an employment tribunal that the transferor has failed to comply with any provision of regulation 11.
+
+(2) An employment tribunal shall not consider a complaint under this regulation unless it is presented—
+
+- (a) before the end of the period of six[^key-dfaffdc4c02361ee2b9b18392bac767b] months beginning with the date of the relevant transfer;
+- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of six[^key-74a78c6b7036aa79c74979d90f740fde] months.
+
+(2A)[^key-d6e7f725aae032e156becd98532e0418] Regulation 16A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
+
+(3) Where an employment tribunal finds a complaint under paragraph (1) well-founded, the tribunal—
+
+- (a) shall make a declaration to that effect; and
+- (b) may make an award of compensation to be paid by the transferor to the transferee.
+
+(4) The amount of the compensation shall be such as the tribunal considers just and equitable in all the circumstances, subject to paragraph (5), having particular regard to—
+
+- (a) any loss sustained by the transferee which is attributable to the matters complained of; and
+- (b) the terms of any contract between the transferor and the transferee relating to the transfer under which the transferor may be liable to pay any sum to the transferee in respect of a failure to notify the transferee of employee liability information.
+
+(5) Subject to paragraph (6), the amount of compensation awarded under paragraph (3) shall be not less than £500 per employee in respect of whom the transferor has failed to comply with a provision of regulation 11, unless the tribunal considers it just and equitable, in all the circumstances, to award a lesser sum.
+
+(6) In ascertaining the loss referred to in paragraph (4)(a) the tribunal shall apply the same rule concerning the duty of a person to mitigate his loss as applies to any damages recoverable under the common law of England and Wales, Northern Ireland or Scotland, as applicable.
+
+(7) Sections 18A to 18C[^key-7ce7f6725026b50f04fc7cd8dee7aec0] of the 1996 Tribunals Act (conciliation) shall apply to the right conferred by this regulation and to proceedings under this regulation as it applies to the rights conferred by that Act and the employment tribunal proceedings mentioned in that Act.
+
+## 13. Duty to inform and consult representatives[^key-fd3c233be72364af9dbe5322719daa45][^key-21fba4126ae95513e1561efa4839735c][^key-ca6edf5f046fb272b80e663960abefdf][^key-5b34042c51e29c0478ff948629a38b77][^key-95b09c1cdbeac1652a263f85743176a8]
+
+(1) In this regulation and regulations 13A *(Extent: E+W+S)*[^key-c833a6d79849aa8ff767993ed7169b68] 14 and 15 references to affected employees, in relation to a relevant transfer, are to any employees of the transferor or the transferee (whether or not assigned to the organised grouping of resources or employees that is the subject of a relevant transfer) who may be affected by the transfer or may be affected by measures taken in connection with it; and references to the employer shall be construed accordingly.
+
+(2) Long enough before a relevant transfer to enable the employer of any affected employees to consult the appropriate representatives of any affected employees, the employer shall inform those representatives of—
+
+- (a) the fact that the transfer is to take place, the date or proposed date of the transfer and the reasons for it;
+- (b) the legal, economic and social implications of the transfer for any affected employees;
+- (c) the measures which he envisages he will, in connection with the transfer, take in relation to any affected employees or, if he envisages that no measures will be so taken, that fact; and
+- (d) if the employer is the transferor, the measures, in connection with the transfer, which he envisages the transferee will take in relation to any affected employees who will become employees of the transferee after the transfer by virtue of regulation 4 or, if he envisages that no measures will be so taken, that fact.
+
+(2A (Extent: E+W+S))[^key-b21d799ca73d8e4f89de3f5b4f2272f5] Where information is to be supplied under paragraph (2) by an employer— *(Extent: E+W+S)*
+
+- (a (Extent: E+W+S)) this must include suitable information relating to the use of agency workers (if any) by that employer; and *(Extent: E+W+S)*
+- (b (Extent: E+W+S)) “ *(Extent: E+W+S)***suitable information relating to the use of agency workers *(Extent: E+W+S)***” means— *(Extent: E+W+S)*
+  - (i (Extent: E+W+S)) the number of agency workers working temporarily for and under the supervision and direction of the employer; *(Extent: E+W+S)*
+  - (ii (Extent: E+W+S)) the parts of the employer's undertaking in which those agency workers are working; and *(Extent: E+W+S)*
+  - (iii (Extent: E+W+S)) the type of work those agency workers are carrying out. *(Extent: E+W+S)*
+
+(3) For the purposes of this regulation the appropriate representatives of any affected employees are—
+
+- (a) if the employees are of a description in respect of which an independent trade union is recognised by their employer, representatives of the trade union; or
+- (b) in any other case, whichever of the following employee representatives the employer chooses—
+  - (i) employee representatives appointed or elected by the affected employees otherwise than for the purposes of this regulation, who (having regard to the purposes for, and the method by which they were appointed or elected) have authority from those employees to receive information and to be consulted about the transfer on their behalf;
+  - (ii) employee representatives elected by any affected employees, for the purposes of this regulation, in an election satisfying the requirements of regulation 14(1).
+
+(4) The transferee shall give the transferor such information at such a time as will enable the transferor to perform the duty imposed on him by virtue of paragraph (2)(d).
+
+(5) The information which is to be given to the appropriate representatives shall be given to each of them by being delivered to them, or sent by post to an address notified by them to the employer, or (in the case of representatives of a trade union) sent by post to the trade union at the address of its head or main office.
+
+(6) An employer of an affected employee who envisages that he will take measures in relation to an affected employee, in connection with the relevant transfer, shall consult the appropriate representatives of that employee with a view to seeking their agreement to the intended measures.
+
+(7) In the course of those consultations the employer shall—
+
+- (a) consider any representations made by the appropriate representatives; and
+- (b) reply to those representations and, if he rejects any of those representations, state his reasons.
+
+(8) The employer shall allow the appropriate representatives access to any affected employees and shall afford to those representatives such accommodation and other facilities as may be appropriate.
+
+(9) If in any case there are special circumstances which render it not reasonably practicable for an employer to perform a duty imposed on him by any of paragraphs (2) to (7), he shall take all such steps towards performing that duty as are reasonably practicable in the circumstances.
+
+(10) Where—
+
+- (a) the employer has invited any of the affected employee to elect employee representatives; and
+- (b) the invitation was issued long enough before the time when the employer is required to give information under paragraph (2) to allow them to elect representatives by that time,
+
+the employer shall be treated as complying with the requirements of this regulation in relation to those employees if he complies with those requirements as soon as is reasonably practicable after the election of the representatives.
+
+(11) If, after the employer has invited any affected employees to elect representatives, they fail to do so within a reasonable time, he shall give to any affected employees the information set out in paragraph (2).
+
+(12) The duties imposed on an employer by this regulation shall apply irrespective of whether the decision resulting in the relevant transfer is taken by the employer or a person controlling the employer.
+
+## 13A. Variation to the duty to inform and consult where no appropriate representatives[^key-ca6edf5f046fb272b80e663960abefdf][^key-5b34042c51e29c0478ff948629a38b77][^key-19fb21f7b8f6c939ec47a3f0535b171b][^key-a2caddca749509796115b506c3baf17a]
+
+(1) This regulation applies if, at the time when the employer is required to give information under regulation 13(2)—
+
+- (a)[^key-f37c414f88708373acdbbbd13d58640d] at least one of the following conditions is satisfied—
+  - (i) the employer employs fewer than 50 employees;
+  - (ii) there are fewer than 10 transferring employees.
+- (b) there are no appropriate representatives within the meaning of regulation 13(3); and
+- (c) the employer has not invited any of the affected employees to elect employee representatives.
+
+(1A)[^key-90b972c73c9dacf7712fb3c19eb14326] For the purposes of paragraph (1)(a)(ii), “**transferring employees**” means the employees who work for the transferor and who are to be (or are likely to be) transferred to the transferee’s employment under a relevant transfer.
+
+(2) The employer may comply with regulation 13 by performing any duty which relates to appropriate representatives as if each of the affected employees were an appropriate representative.
+
+## 14. Election of employee representatives[^key-774a3ae8901feb3f1a223bed5a9df691][^key-21fba4126ae95513e1561efa4839735c][^key-ca6edf5f046fb272b80e663960abefdf][^key-5b34042c51e29c0478ff948629a38b77]
+
+(1) The requirements for the election of employee representatives under regulation 13(3) are that—
+
+- (a) the employer shall make such arrangements as are reasonably practicable to ensure that the election is fair;
+- (b) the employer shall determine the number of representatives to be elected so that there are sufficient representatives to represent the interests of all affected employees having regard to the number and classes of those employees;
+- (c) the employer shall determine whether the affected employees should be represented either by representatives of all the affected employees or by representatives of particular classes of those employees;
+- (d) before the election the employer shall determine the term of office as employee representatives so that it is of sufficient length to enable information to be given and consultations under regulation 13 to be completed;
+- (e) the candidates for election as employee representatives are affected employees on the date of the election;
+- (f) no affected employee is unreasonably excluded from standing for election;
+- (g) all affected employees on the date of the election are entitled to vote for employee representatives;
+- (h) the employees entitled to vote may vote for as many candidates as there are representatives to be elected to represent them or, if there are to be representatives for particular classes of employees, may vote for as many candidates as there are representatives to be elected to represent their particular class of employee;
+- (i) the election is conducted so as to secure that—
+  - (i) so far as is reasonably practicable, those voting do so in secret; and
+  - (ii) the votes given at the election are accurately counted.
+
+(2) Where, after an election of employee representatives satisfying the requirements of paragraph (1) has been held, one of those elected ceases to act as an employee representative and as a result any affected employees are no longer represented, those employees shall elect another representative by an election satisfying the requirements of paragraph (1)(a), (e), (f) and (i).
+
+## 15. Failure to inform or consult[^key-0e05457ec7a2aa98cdb40ed8dfff479d][^key-21fba4126ae95513e1561efa4839735c][^key-ca6edf5f046fb272b80e663960abefdf][^key-5b34042c51e29c0478ff948629a38b77]
+
+(1) Where an employer has failed to comply with a requirement of regulation 13 or regulation 14, a complaint may be presented to an employment tribunal on that ground—
+
+- (a) in the case of a failure relating to the election of employee representatives, by any of his employees who are affected employees;
+- (b) in the case of any other failure relating to employee representatives, by any of the employee representatives to whom the failure related;
+- (c) in the case of failure relating to representatives of a trade union, by the trade union; and
+- (d) in any other case, by any of his employees who are affected employees.
+
+(2) If on a complaint under paragraph (1) a question arises whether or not it was reasonably practicable for an employer to perform a particular duty or as to what steps he took towards performing it, it shall be for him to show—
+
+- (a) that there were special circumstances which rendered it not reasonably practicable for him to perform the duty; and
+- (b) that he took all such steps towards its performance as were reasonably practicable in those circumstances.
+
+(3) If on a complaint under paragraph (1) a question arises as to whether or not an employee representative was an appropriate representative for the purposes of regulation 13, it shall be for the employer to show that the employee representative had the necessary authority to represent the affected employees except where the question is whether or not regulation 13A applied *(Extent: E+W+S)*[^key-d7a68df540ae4ebf7123241534a5096d].
+
+*Extent: E+W+S*
+
+(3A)[^key-d009b7dbd0c2a0546119c8b06ab5f738] If on a complaint under paragraph (1), a question arises as to whether or not regulation 13A applied, it is for the employer to show that the conditions in sub-paragraphs (a) and (b) of regulation 13A(1) applied at the time referred to in regulation 13A(1).
+
+(4) On a complaint under paragraph (1)(a) it shall be for the employer to show that the requirements in regulation 14 have been satisfied.
+
+(5) On a complaint against a transferor that he had failed to perform the duty imposed upon him by virtue of regulation 13(2)(d) or, so far as relating thereto, regulation 13(9), he may not show that it was not reasonably practicable for him to perform the duty in question for the reason that the transferee had failed to give him the requisite information at the requisite time in accordance with regulation 13(4) unless he gives the transferee notice of his intention to show that fact; and the giving of the notice shall make the transferee a party to the proceedings.
+
+(6) In relation to any complaint under paragraph (1), a failure on the part of a person controlling (directly or indirectly) the employer to provide information to the employer shall not constitute special circumstances rendering it not reasonably practicable for the employer to comply with such a requirement.
+
+(7) Where the tribunal finds a complaint against a transferee under paragraph (1) well-founded it shall make a declaration to that effect and may order the transferee to pay appropriate compensation to such descriptions of affected employees as may be specified in the award.
+
+(8) Where the tribunal finds a complaint against a transferor under paragraph (1) well-founded it shall make a declaration to that effect and may—
+
+- (a) order the transferor, subject to paragraph (9), to pay appropriate compensation to such descriptions of affected employees as may be specified in the award; or
+- (b) if the complaint is that the transferor did not perform the duty mentioned in paragraph (5) and the transferor (after giving due notice) shows the facts so mentioned, order the transferee to pay appropriate compensation to such descriptions of affected employees as may be specified in the award.
+
+(9) The transferee shall be jointly and severally liable with the transferor in respect of compensation payable under sub-paragraph (8)(a) or paragraph (11).
+
+(10) An employee may present a complaint to an employment tribunal on the ground that he is an employee of a description to which an order under paragraph (7) or (8) relates and that—
+
+- (a) in respect of an order under paragraph (7), the transferee has failed, wholly or in part, to pay him compensation in pursuance of the order;
+- (b) in respect of an order under paragraph (8), the transferor or transferee, as applicable, has failed, wholly or in part, to pay him compensation in pursuance of the order.
+
+(11) Where the tribunal finds a complaint under paragraph (10) well-founded it shall order the transferor or transferee as applicable to pay the complainant the amount of compensation which it finds is due to him.
+
+(12) An employment tribunal shall not consider a complaint under paragraph (1) or (10) unless it is presented to the tribunal before the end of the period of six[^key-bcec62960ffaf0f9d35b6e110097f421] months beginning with—
+
+- (a) in respect of a complaint under paragraph (1), the date on which the relevant transfer is completed; or
+- (b) in respect of a complaint under paragraph (10), the date of the tribunal’s order under paragraph (7) or (8),
+
+or within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of the period of six[^key-b19c04fce4ae4ae7782b739d357fb516] months.
+
+(13)[^key-5ead1de2a168249ffc19c49017325d07] Regulation 16A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (12).
+
+## 16. Failure to inform or consult: supplemental[^key-045fb210bf0df9210bd385afefeb709b][^key-21fba4126ae95513e1561efa4839735c][^key-ca6edf5f046fb272b80e663960abefdf][^key-5b34042c51e29c0478ff948629a38b77]
+
+(1) Section 205(1) of the 1996 Act (complaint to be sole remedy for breach of relevant rights) and sections 18A to 18C[^key-4d382f7517ca4920f293d5d593df4681] of the 1996 Tribunals Act (conciliation) shall apply to the rights conferred by regulation 15 and to proceedings under this regulation as they apply to the rights conferred by those Acts and the employment tribunal proceedings mentioned in those Acts.
+
+(2) An appeal shall lie and shall lie only to the Employment Appeal Tribunal on a question of law arising from any decision of, or arising in any proceedings before, an employment tribunal under or by virtue of these Regulations; and section 11(1) of the Tribunals and Inquiries Act 1992[^f00013] (appeals from certain tribunals to the High Court) shall not apply in relation to any such proceedings.
+
+(3) “Appropriate compensation” in regulation 15 means such sum not exceeding thirteen weeks' pay for the employee in question as the tribunal considers just and equitable having regard to the seriousness of the failure of the employer to comply with his duty.
+
+(4) Sections 220 to 228 of the 1996 Act shall apply for calculating the amount of a week’s pay for any employee for the purposes of paragraph (3) and, for the purposes of that calculation, the calculation date shall be—
+
+- (a) in the case of an employee who is dismissed by reason of redundancy (within the meaning of sections 139 and 155 of the 1996 Act) the date which is the calculation date for the purposes of any entitlement of his to a redundancy payment (within the meaning of those sections) or which would be that calculation date if he were so entitled;
+- (b) in the case of an employee who is dismissed for any other reason, the effective date of termination (within the meaning of sections 95(1) and (2) and 97 of the 1996 Act) of his contract of employment;
+- (c) in any other case, the date of the relevant transfer.
+
+## 16A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-cf393e8c0da44f02c0c892af0ee06878]
+
+(1) This regulation applies where these Regulations provide for it to apply for the purposes of a provision in these Regulations (“a relevant provision”).
+
+(2) In this regulation—
+
+- (a) Day A is the day on which the worker concerned complies with the requirement in subsection (1) of section 18A of the Employment Tribunals Act 1996 (requirement to contact ACAS before instituting proceedings) in relation to the matter in respect of which the proceedings are brought, and
+- (b) Day B is the day on which the worker concerned receives or, if earlier, is treated as receiving (by virtue of regulations made under subsection (11) of that section) the certificate issued under subsection (4) of that section.
+
+(3) In working out when the time limit set by a relevant provision expires the period beginning with the day after Day A and ending with Day B is not to be counted.
+
+(4) If the time limit set by a relevant provision would (if not extended by this paragraph) expire during the period beginning with Day A and ending one month after Day B, the time limit expires instead at the end of that period.
+
+(5) Where an employment tribunal has power under these Regulations to extend the time limit set by a relevant provision, the power is exercisable in relation to that time limit as extended by this regulation.
+
+## 17. Employers' Liability Compulsory Insurance[^key-2bb905a1cb42f008b5184a644d882d89]
+
+(1) Paragraph (2) applies where—
+
+- (a) by virtue of section 3(1)(a) or (b) of the Employers' Liability (Compulsory Insurance) Act 1969[^f00014] (“the 1969 Act”), the transferor is not required by that Act to effect any insurance; or
+- (b) by virtue of section 3(1)(c) of the 1969 Act, the transferor is exempted from the requirement of that Act to effect insurance.
+
+(2) Where this paragraph applies, on completion of a relevant transfer the transferor and the transferee shall be jointly and severally liable in respect of any liability referred to in section 1(1) of the 1969 Act, in so far as such liability relates to the employee’s employment with the transferor.
+
+## 18. Restriction on contracting out[^key-ec3bb94effa7dd4ce60c0bf4dd01f36a]
+
+Section 203 of the 1996 Act (restrictions on contracting out) shall apply in relation to these Regulations as if they were contained in that Act, save for that section shall not apply in so far as these Regulations provide for an agreement (whether a contract of employment or not) to exclude or limit the operation of these Regulations.
+
+## 19. Amendment to the 1996 Act[^key-412a61e371abd7c6e8a3b06ea7a8fc36]
+
+In section 104 of the 1996 Act (assertion of statutory right) in subsection (4)—
+
+- (a) the word “and” at the end of paragraph (c) is omitted; and
+- (b) after paragraph (d), there is inserted—
+
+  > , and
+  >
+  > - (e) the rights conferred by the Transfer of Undertakings (Protection of Employment) Regulations 2006.
+
+  .
+
+## 20. Repeals, revocations and amendments[^key-82d4721f564ea9eefbfcd4aa6c20e8a5]
+
+(1) Subject to regulation 21, the 1981 Regulations are revoked.
+
+(2) Section 33 of, and paragraph 4 of Schedule 9 to, the Trade Union Reform and Employment Rights Act 1993[^f00015] are repealed.
+
+(3) Schedule 2 (consequential amendments) shall have effect.
+
+## 21. Transitional provisions and savings[^key-079d547c94d37a983bec06d89d38fb24]
+
+(1) These Regulations shall apply in relation to—
+
+- (a) a relevant transfer that takes place on or after 6 April 2006;
+- (b) a transfer or service provision change, not falling within sub-paragraph (a), that takes place on or after 6 April 2006 and is regarded by virtue of any enactment as a relevant transfer.
+
+(2) The 1981 Regulations shall continue to apply in relation to—
+
+- (a) a relevant transfer (within the meaning of the 1981 Regulations) that took place before 6 April 2006;
+- (b) a transfer, not falling within sub-paragraph (a), that took place before 6 April 2006 and is regarded by virtue of any enactment as a relevant transfer (within the meaning of the 1981 Regulations).
+
+(3) In respect of a relevant transfer that takes place on or after 6 April 2006, any action taken by a transferor or transferee to discharge a duty that applied to them under regulation 10 or 10A of the 1981 Regulations shall be deemed to satisfy the corresponding obligation imposed by regulations 13 and 14 of these Regulations, insofar as that action would have discharged those obligations had the action taken place on or after 6 April 2006.
+
+(4) The duty on a transferor to provide a transferee with employee liability information shall not apply in the case of a relevant transfer that takes place on or before 19 April 2006.
+
+(5) Regulations 13, 14, 15 and 16 shall not apply in the case of a service provision change that is not also a transfer of an undertaking, business or part of an undertaking or business that takes place on or before 4 May 2006.
+
+(6) The repeal of paragraph 4 of Schedule 9 to the Trade Union Reform and Employment Rights Act 1993 does not affect the continued operation of that paragraph so far as it remains capable of having effect.
+
+Gerry Sutcliffe
+
+Parliamentary Under Secretary of State for Employment Relations and Consumer Affairs
+
+Department of Trade and Industry
+
+## SCHEDULE 1 — APPLICATION OF THE REGULATIONS TO NORTHERN IRELAND
+
+Regulation 2
+
+**1.**[^key-1c677184569cfa08e029fe2e4df5aada] These Regulations shall apply to Northern Ireland, subject to the modifications in this Schedule.
+
+**2.**[^key-af8329d6002e64ce813d944c78ec1e95] Sub-paragraph (1)(b) of regulation 3 and any other provision of these Regulations insofar as it relates to that sub-paragraph shall not apply to Northern Ireland.
+
+**3.**[^key-cd710dea4c4c5c47865f3f90a90fa613] Any reference in these Regulations—
+
+- (a) to an employment tribunal shall be construed as a reference to an Industrial Tribunal; and
+- (b) to the Employment Appeal Tribunal shall be construed as a reference to the Court of Appeal.
+
+**4.**[^key-6fb26a4ec4ea8a55815b62b53c5de81f] For the words from “Paragraph (1)” to “the 1992 Act” in regulation 7(6) there is substituted—
+
+> - Paragraph (1) shall not apply in relation to a dismissal of an employee if the application of Article 126 of the Employment Rights (Northern Ireland) Order 1996[^f00016] to the dismissal of the employee is excluded by or under any provision of that Order, the Industrial Tribunals (Northern Ireland) Order 1996[^f00017] or the 1992 Act insofar as it extends to Northern Ireland, the Industrial Relations (Northern Ireland) Order 1992[^f00018] or the Trade Union and Labour Relations (Northern Ireland) Order 1995[^f00019]
+
+.
+
+**5.**[^key-3094847c6729481c6033331cfad5c826] For the words from “In this Regulation” to “Part XII of the 1996 Act” in regulation 8(4) there is substituted—
+
+> - In this Regulation the “relevant statutory schemes” are—
+>   - (a) Chapter VI of Part XII of the Employment Rights (Northern Ireland) Order 1996 (“the 1996 Order”);
+>   - (b) Part XIV of the 1996 Order
+
+.
+
+**6.**[^key-285b4bd037c359746344d930dcb18487] For paragraph (4) of regulation 9 there is substituted—
+
+> - In article 92 of the 1996 Order (time off for carrying out trade union duties) in paragraph (1), for the full stop at the end of sub-subparagraph (c) there is inserted—
+>
+>   > - (d) negotiations with a view to entering into an agreement under regulation 9 of the Transfer of Undertakings (Protection of Employment) Regulations 2006 that applies to employees of the employer, or
+>   > - (e) the performance on behalf of employees of the employer of functions related to or connected with the making of an agreement under that regulation.
+>
+>   .
+
+**7.**[^key-288ce2aac59c3df516a0460d41d50abf] For the words from “Paragraph (2)” to “the employee’s employment with the transferor” in regulation 17 there is substituted—
+
+> Paragraph (2) applies where—
+>
+> - (a) by virtue of article 7(a), 7(aa) or 7(b) of the Employers' Liability (Defective Equipment and Compulsory Insurance) (Northern Ireland) Order 1972[^f00020] (“the 1972 Order”), the transferor is not required by that Order to effect any insurance; or
+> - (b) by virtue of article 7(c) of the 1972 Order, the transferor is exempted from the requirement of that Order to effect insurance.
+>
+> (2) Where this paragraph applies, on completion of a relevant transfer the transferor and the transferee shall be jointly and severally liable in respect of any liability referred to in article 5(1) of the 1972 Order, in so far as such liability relates to the employee’s employment with the transferor
+
+.
+
+**8.**[^key-cbc0cc54450b37d6ff11d1dac846b639] In regulation 2—
+
+- (a) for “the 1992 Act” where it first occurs there is substituted “the Industrial Relations (Northern Ireland) Order 1992”;
+- (b) for “Part XIII of the Insolvency Act 1986” there is substituted “Article 3 of the Insolvency (Northern Ireland) Order 1989”; and
+- (c) for “section 178(3) of the 1992 Act” there is substituted “Article 39(2) of the Industrial Relations (Northern Ireland) Order 1992”.
+
+**9.**[^key-0792b36b4e210c8268cce8f0de964fa2] In regulation 5 for “sections 179 and 180 of the 1992 Act” there is substituted “Article 26 of the [Industrial Relations (NI) Order 1992 No.807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807)”.
+
+**10.**[^key-5a4a8763d473f7b1bd1baee3dc2e4345] (1) In regulation 10 for “the Pensions Schemes Act 1993” there is substituted “the Social Security Pensions (Northern Ireland) Order 1975[^f00022]”.
+
+(2)[^M_F_294b31ab-9cd2-4f44-e14e-f4c9356676b2] In regulation 11 for paragraph (2)(c) there is substituted—
+
+> - (c) information of any—
+>   - (i) disciplinary procedure taken against an employee in circumstances where the Employment (Northern Ireland) Order 2003 (Dispute Resolution) Regulations (Northern Ireland) 2004 apply,
+>   - (ii) grievance procedure taken by an employee where a Code of Practice issued under Part XI of the Industrial Relations (Northern Ireland) Order 1992 which relates exclusively or primarily to the resolution of disputes applies,
+>
+>   where such procedure was taken within the previous two years;
+
+.
+
+(3)[^key-6b77df04c0ace876a7567facd975135e] In regulation 12—
+
+- (a) for “Sections 18A to 18C[^key-009daaf2e00608f2d9e3ff41a38ad970] of the 1996 Tribunals Act” there is substituted “Articles 20A to 20C[^key-d93cf11039427f011876d572538361b3] of the Industrial Tribunals (Northern Ireland) Order 1996”; and
+- (b) for any reference to “Act” there is substituted “Order”.
+
+(4) In regulation 16—
+
+- (a) for “sections 18A to 18C[^key-c7b04944c5f150036dad274750f5ef48] of the 1996 Tribunals Act” there is substituted “Articles 20A to 20C[^key-a1fe0b7a5e423bf824b3ba39a5990dc0] of the [Industrial Tribunals (NI) Order 1996 No.1921 (NI 18)](https://www.legislation.gov.uk/nisi/1996/1921)”; and
+- (b) for any reference to “those Acts” there is substituted a reference to “those Orders”.
+
+*Extent: N.I.*
+
+(4A)[^key-cc7ad0e95fab262702e1bf239f401c44] In regulation 16A—
+
+- (a) in paragraph (2)(a) for the words “subsection (1) of section 18A of the Employment Tribunals Act 1996 (requirement to contact ACAS before instituting proceedings)” substitute “paragraph (1) of Article 20A of the Industrial Tribunals (Northern Ireland) Order 1996 (requirement to contact the Labour Relations Agency before instituting proceedings)”;
+- (b) in paragraph (2)(b) for the words “(by virtue of regulations made under subsection (11) of that section) the certificate issued under subsection (4) of that section” substitute “(by virtue of regulations made under paragraph (11) of that Article) the certificate issued under paragraph (4) of that Article”.
+
+(5)[^key-b123661c2f6a41473ebe8acfafe08e5c] In regulation 18—
+
+- (a) for the reference to “that Act” there is substituted “that Order”;
+- (b) for the reference to “section” there is substituted “Article”.
+
+(6) In regulation 19—
+
+- (a) for any reference to “subsection” there is substituted “paragraph”; and
+- (b) for any reference to “paragraph” there is substituted “sub-paragraph”.
+
+(7) In paragraph (3)(b) of regulation 7 for any reference to “that Act” there is substituted “that Order”.
+
+**11.**[^key-0f0a245ea0b682adbd6acdd60d8b30f4] For a reference to a provision of the 1996 Act in column one of Table 1 there is substituted the corresponding reference to the Employment Rights (Northern Ireland) Order 1996 in column two of Table 1—
+
+Table 1
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th></tr>
+<tr><th><em><strong>Provision of the Employment Rights Act 1996</strong></em></th><th><em><strong>Equivalent Provision in the Employment Rights (Northern Ireland) Order 1996</strong></em></th></tr>
+</thead>
+<tbody>
+<tr><td>Part X</td><td>Part XI</td></tr>
+<tr><td>Section 98(4)</td><td>Article 130(4)</td></tr>
+<tr><td>Section 98(1)</td><td>Article 130(1)</td></tr>
+<tr><td>Section 135</td><td>Article 170</td></tr>
+<tr><td>Section 98(2)(c)</td><td>Article 130(2)(c)</td></tr>
+<tr><td>Section 95(1)(c)</td><td>Article 127(1)(c)</td></tr>
+<tr><td>Section 1</td><td>Article 33</td></tr>
+<tr><td>Section 205(1)</td><td>Article 247(1)</td></tr>
+<tr><td>Sections 220-228</td><td>Articles 16-24</td></tr>
+<tr><td>Section 139</td><td>Article 174</td></tr>
+<tr><td>Section 155</td><td>Article 190</td></tr>
+<tr><td>Section 95(1)</td><td>Article 127(1)</td></tr>
+<tr><td>Section 95(2)</td><td>Article 127(2)</td></tr>
+<tr><td>Section 97</td><td>Article 129</td></tr>
+<tr><td>Section 203</td><td>Article 245</td></tr>
+<tr><td>Section 104</td><td>Article 135</td></tr>
+</tbody>
+</table>
+
+[^key-973cc381741178cc6ad91a5cc6ef5782][^key-62ac103c7c9074e594d0e47e8a1a728e]
+
+**12.**[^key-2008d1e4f3a1d1cb8a32f1486c4b0ea4] Any expression used in this Schedule which is defined in the Interpretation Act (Northern Ireland) 1954[^f00024] shall have the meaning assigned by that Act.
+
+## SCHEDULE 2 — CONSEQUENTIAL AMENDMENTS
+
+Regulation 20
+
+### References to the 1981 Regulations
+
+**1.**[^key-2c48df8a8892b22248da6dc15a0ead07] In the following provisions, for “Transfer of Undertakings (Protection of Employment) Regulations 1981” or “Transfer of Undertakings (Protection of Employment) Regulations 1981 ([S.I. 1981/1794](https://www.legislation.gov.uk/uksi/1981/1794))” there is substituted “Transfer of Undertakings (Protection of Employment) Regulations 2006”—
+
+- (a) section 2(2) of the Property Services Agency and Crown Suppliers Act 1990[^f00025];
+- (b) paragraph 8 of Schedule 1 to the New Roads and Street Works Act 1991[^f00026];
+- (c) paragraph 5 of Schedule 1 to the Ports Act 1991[^f00027];
+- (d) section 9(1) of the Export and Investment Guarantees Act 1991[^f00028];
+- (e) section 168(1)(c) of the Trade Union and Labour Relations (Consolidation) Act 1992[^f00029];
+- (f) paragraph 8 of Schedule 2 to the Roads (Northern Ireland) Order 1993[^f00030];
+- (g) paragraph 6 of Schedule 1 to the Ports (Northern Ireland) Order 1994[^f00031];
+- (h) section 129(1)(b) of the Education Act 2002[^f00032];
+- (i) section 102(8) of the Local Government Act 2003[^f00033];
+- (j) sections 3(6)(a) and 32(6)(b) of, and paragraph 12(1) of Schedule 3 to, the Horserace Betting and Olympic Lottery Act 2004[^f00034];
+- (k) section 90(4) of the Clean Neighbourhoods and Environment Act 2005[^f00035];
+- (l) section 39(5) of the Equality Act 2006.
+
+### Industrial Training Act 1982
+
+**2.**[^key-893f6100ff077ec5919cb34ffe057fba] (1) Section 3B of the Industrial Training Act 1982[^f00036] (transfer of staff employed by industrial training boards) is amended as follows.
+
+(2) In subsection (2), for “Transfer of Undertakings (Protection of Employment) Regulations 1981” there is substituted “Transfer of Undertakings (Protection of Employment) Regulations 2006”.
+
+(3) In subsection (3)(a), for “within the meaning of those Regulations” there is substituted “to which those Regulations apply”.
+
+### Ordnance Factories and Military Services Act 1984
+
+**3.**[^key-a9d8afa62785d117b33837afc6997d5d] (1) Paragraph 2 of Schedule 2 to the Ordnance Factories and Military Services Act 1984[^f00037] (application of 1981 Regulations to ordnance factories transfer schemes) is amended as follows.
+
+(2) In sub-paragraph (1), for the words from “for” to the end there is substituted “for a transfer that is a relevant transfer for the purposes of the 2006 regulations”.
+
+(3) In sub-paragraphs (2) and (6), for “1981 regulations”, in both places where it occurs, there is substituted “2006 regulations”.
+
+(4) In sub-paragraph (3) for the words from “the 1981 regulations” to the end there is substituted “the 2006 regulations as if, immediately before the appointed day, they were employed in the entity subject to the transfer”.
+
+(5) In sub-paragraph (4)(b)–
+
+- (a) for “with the undertaking or part” there is substituted “with the entity subject to the transfer”, and
+- (b) for the words from “the 1981 regulations” to “or part” there is substituted “the 2006 regulations as if he were employed in the entity subject to the transfer”.
+
+(6) In sub-paragraph (7), for the definition of “the 1981 regulations” there is substituted—
+
+> - “the 2006 regulations” means the Transfer of Undertakings (Protection of Employment) Regulations 2006.
+
+### Dockyard Services Act 1986
+
+**4.**[^key-89f41c79e9c7dedba6bda48c8e3be02a] (1) Section 1 of the Dockyard Services Act 1986[^f00038] (transfer of persons engaged in dockyard services) is amended as follows.
+
+(2) In subsection (4)–
+
+- (a) for the words from the beginning to “Regulations 1981” there is substituted “The Transfer of Undertakings (Protection of Employment) Regulations 2006”,
+- (b) for the words from “an undertaking” to “those Regulations” there is substituted “an undertaking to whose transfer those Regulations apply”, and
+- (c) for the words from “a part” to “a business” there is substituted “a part of that undertaking to whose transfer those Regulations apply”.
+
+(3) In subsection (5)–
+
+- (a) for the words from the beginning to “Regulations 1981” there is substituted “The Transfer of Undertakings (Protection of Employment) Regulations 2006”,
+- (b) for “regulation 10”, in both places where it occurs, there is substituted “regulation 13”, and
+- (c) for “regulation 11” there is substituted “regulations 15 and 16”.
+
+### Dartford-Thurrock Crossing Act 1988
+
+**5.**[^key-fabbf1062185d000c6c2519399ec9332] (1) Schedule 5 to the Dartford-Thurrock Crossing Act 1988[^f00039] (transfers of staff) is amended as follows.
+
+(2) In paragraphs 3(1) and 4, for “the Employment Transfer Regulations”, in both places where it occurs, there is substituted “the Transfer of Undertakings (Protection of Employment) Regulations 2006”.
+
+(3) In paragraph 4, for “Regulation 7” there is substituted “Regulation 10”.
+
+(4) In paragraph 6—
+
+- (a) in sub-paragraph (2), for “this Schedule”, in both places where it occurs, there is substituted “Part 1 of this Schedule”, and
+- (b) after that sub-paragraph there is inserted—
+
+  > (3) Expressions used in Part 2 of this Schedule to which a meaning is given by the Transfer of Undertakings (Protection of Employment) Regulations 2006 have the same meaning in Part 2 of this Schedule.
+
+### Atomic Weapons Establishment Act 1991
+
+**6.**[^key-86c27e39b74ce69db0a57208b3682a4b] (1) Section 2 of the Atomic Weapons Establishment Act 1991[^f00040] (provisions applying to the transfer of certain employees) is amended as follows.
+
+(2) In subsection (1)—
+
+- (a) for the words from the beginning to “Regulations 1981” there is substituted “The Transfer of Undertakings (Protection of Employment) Regulations 2006”, and
+- (b) for the words from “an undertaking” to “those Regulations” there is substituted “an undertaking to whose transfer those Regulations apply”.
+
+(3) In subsection (2), for the words from “a part” to “a business” there is substituted “a part of that undertaking to whose transfer those Regulations apply”.
+
+### Railways Act 1993
+
+**7.**[^key-5d94aa82aa0f426166ec3ad93cc36d4d] In section 151 of the Railways Act 1993[^f00041] (general interpretation), in subsection (6), for the words from “the Transfer” to the end there is substituted “the Transfer of Undertakings (Protection of Employment) Regulations 2006, in their application in relation to a relevant transfer within the meaning of those regulations”.
+
+### Employment Tribunals Act 1996
+
+**8.**[^key-d5f1dff6614c5ac2071d3c3916133e29] In section 4 of the Employment Tribunals Act 1996[^f00042] (composition of a tribunal), in subsection (3)(ca), for the words from “regulation 11(5)” to “Regulations 1981” there is substituted “regulation 15(10) of the Transfer of Undertakings (Protection of Employment) Regulations 2006”.
+
+### Industrial Tribunals (Northern Ireland) Order 1996
+
+**9.**[^key-d1d32ae1fa1f9add9463396212c52c8a] In Article 6 of the Industrial Tribunals (Northern Ireland) Order 1996[^f00043] (composition of a tribunal), in paragraph (3)(ab), for the words from “regulation 11(5)” to “Regulations 1981” there is substituted “regulation 15(10) of the Transfer of Undertakings (Protection of Employment) Regulations 2006”.
+
+### Employment Rights Act 1996
+
+**10.**[^key-3f7917a73aeeaa9922e82b2e1e097e58] In each of the following provisions of the Employment Rights Act 1996[^f00044], for the words from “Regulations 10” to “Regulations 1981” there is substituted “regulations 9, 13 and 15 of the Transfer of Undertakings (Protection of Employment) Regulations 2006”—
+
+- (a) section 47(1)(a) and (1A);
+- (b) section 61(1)(a);
+- (c) section 103(1)(a) and (2).
+
+### Employment Rights (Northern Ireland) Order 1996
+
+**11.**[^key-c70219152fe8a2d7f377edaf3a6631c3] In each of the following provisions of the Employment Rights (Northern Ireland) Order 1996[^f00045] for the words from “Regulations 10” to “Regulations 1981” there is substituted “regulations 9, 13 and 15 of the Transfer of Undertakings (Protection of Employment) Regulations 2006”—
+
+- (a) Article 70(1)(a) and (1A);
+- (b) Article 89(1)(a);
+- (c) Article 134(1)(a) and (2).
+
+### Income Tax (Earnings and Pensions) Act 2003
+
+**12.**[^key-f4ee15d2c7e330db781770129ae6db1b] (1) The Income Tax (Earnings and Pensions) Act 2003[^f00046] is amended as follows.
+
+(2) In section 498 (no charge on shares ceasing to be subject to share incentive plan in certain circumstances), in subsection (2)(c), for the words from “a transfer” to the end there is substituted “a relevant transfer within the meaning of the Transfer of Undertakings (Protection of Employment) Regulations 2006”.
+
+(3) In Schedule 2 (approved share incentive plans), in paragraph 32(2)(c), for the words from “a transfer” to the end there is substituted “a relevant transfer within the meaning of the Transfer of Undertakings (Protection of Employment) Regulations 2006”.
+
+### Pensions Act 2004
+
+**13.**[^key-2ddb7509d76d6e0a74efc06fe8162df4] (1) Section 257 of the Pensions Act 2004[^f00047] (conditions for pension protection) is amended as follows.
+
+(2) In subsection (1), for paragraph (a) there is substituted—
+
+> - (a) there is a relevant transfer within the meaning of the TUPE regulations,
+
+.
+
+(3) Subsection (6) is omitted.
+
+(4) In subsection (8), in the definition of the “TUPE Regulations”, for the words from “Transfer” to the end there is substituted “Transfer of Undertakings (Protection of Employment) Regulations 2006”.
+
+### Energy Act 2004
+
+**14.**[^key-d59c1351106d04b957ba2be2e49347bb] (1) Paragraph 10 of Schedule 5 to the Energy Act 2004[^f00048] (supplementary provisions about nuclear transfer schemes) is amended as follows.
+
+(2) In sub-paragraphs (1), (2) and (3), in each place where it occurs, for “1981 regulations” there is substituted “2006 regulations”.
+
+(3) In sub-paragraph (1)—
+
+- (a) after “an undertaking”, in both places where it occurs, there is inserted “or business”, and
+- (b) for “that undertaking or part” there is substituted “that undertaking or business or that part of an undertaking or business”.
+
+(4) After sub-paragraph (1), there is inserted—
+
+> (1A) The 2006 regulations apply to a service provision change—
+>
+> - (a) in accordance with a nuclear transfer scheme, or
+> - (b) in accordance with a modification agreement,
+>
+> as if (in so far as that would not otherwise be the case) the references in those regulations to the transferor were references to the person by whom the activities affected by the service provision change were carried out immediately before the coming into force of the service provision change.
+
+(5) In sub-paragraph (2), after “a transfer” there is inserted “(or service provision change)”.
+
+(6) In sub-paragraph (3), after “transfer”, in both places where it occurs, there is inserted “(or service provision change)”.
+
+(7) In sub-paragraph (4), for the definition of “undertaking” there is substituted—
+
+> - references to a service provision change are references to a service provision change falling within regulation 3(1)(b) of the 2006 regulations.
+
+(This note is not part of the Regulations)
+
+These Regulations implement Council Directive [2001/23/EC](https://www.legislation.gov.uk/european/directive/2001/0023) (“the Directive”) on the approximation of the law relating to business transfers. They revoke the Transfer of Undertakings (Protection of Employment) Regulations 1981 (“the 1981 Regulations”). The provisions introduced by these regulations are similar to those included in the 1981 Regulations. They also include provisions taking advantage of certain policy options conferred by the Directive.
+
+To the extent that the Regulations implement the Directive, they are made under section 2(2) of the European Communities Act 1972. To the extent that they relate to the treatment of employees, and related matters, in relation to a service provision change (in circumstances other than those to which the Directive applies), they are made under section 38 of the Employment Relations Act 1999 (“the 1999 Act”).
+
+These Regulations apply to the UK. However to the extent that they are made under section 38 of the 1999 Act they do not apply to Northern Ireland (paragraph 2 of Schedule 1).
+
+The Regulations make provision for the treatment of employees, and related matters, on the transfer of an undertaking or business or a service provision change.
+
+The principal provisions of the Regulations provide as follows—
+
+(1) Regulation 3 defines a transfer to which these Regulations apply (described as a relevant transfer). The two categories of relevant transfer (which are not mutually exclusive) are the transfer of an undertaking or business to another person and a service provision change.
+
+(2) Regulation 4 provides that a relevant transfer shall not operate to terminate the contract of employment of a person employed by the transferor and assigned to the organised grouping of resources or employees subject to a relevant transfer but that any such contract shall have effect after the transfer as if originally made between the person so employed and the transferee. The transferor’s powers, duties, rights and liabilities under or in connection with that employment contract shall transfer to the transferee. A variation to that employment contract by reason of the transfer is prohibited but that shall not prevent the employer and his employee from agreeing a variation to the contract for a reason unconnected with the transfer or a reason connected with the transfer that is an economic, technical or organisational reason entailing changes in the workforce.
+
+(3) Regulation 5 provides that a collective agreement made by a transferor with a recognised trade union shall, after the transfer, have effect as if made by the transferee with that trade union. Regulation 6 provides for the transfer of recognition of an independent trade union.
+
+(4) Regulation 7 provides that the dismissal of an employee by reason of the transfer is unlawful but that a dismissal for a reason connected with the transfer that is an economic technical or organisational reason entailing changes in the workforce is potentially lawful.
+
+(5) Regulation 8 applies where, at the time of the transfer, the transferor is subject to relevant insolvency proceedings, as defined in regulation 8(6). It provides that certain of an employer’s pre-existing debts to employees do not pass to the transferee but are instead met by the National Insurance Fund.
+
+(6) Regulation 9 provides greater scope for the transferee to vary, subject to certain requirements, the terms and conditions of employment of transferring employees in circumstances where the transferor is subject to relevant insolvency proceedings.
+
+(7) Regulation 10 provides that regulations 4 and 5 shall not apply to so much of a contract of employment or collective agreement as relates to any provision of an occupational pension scheme relating to old age, survivors or invalidity benefits.
+
+(8) Regulation 11 provides that the transferor shall provide employee liability information in respect of employees assigned to the organised grouping of resources or employees that is subject to a relevant transfer to the transferee in advance of a relevant transfer.
+
+(9) Regulation 12 provides a remedy to a transferee for the failure of a transferor to comply with regulation 11.
+
+(10) Regulation 13 imposes a duty on an employer to provide information to appropriate representatives of affected employees about a relevant transfer and measures he envisages taking in respect of it, long enough before a relevant transfer to enable the employer to consult those representatives with a view to seeking their agreement to the intended measures. Regulation 14 makes provision for the election of employee representatives where there is no recognised independent trade union. Regulations 15 and 16 provide a remedy for a failure of an employer to comply with regulations 13 or 14.
+
+(11) Regulation 21 provides that these Regulations shall apply to a relevant transfer that takes place on or after 6 April 2006 whilst the 1981 Regulations will apply to a transfer to which the 1981 Regulations applied that took place before 6 April 2006.
+
+(12) Schedule 1 provides modifications in the application of the Regulations to Northern Ireland.
+
+(13) Schedule 2 provides amendments consequential on these Regulations.
+
+(14) A Regulatory Impact Assessment of the effect these Regulations will have on business costs, and Transposition Notes showing how Council Directive [2001/23/EC](https://www.legislation.gov.uk/european/directive/2001/0023) has been implemented in the United Kingdom are available to the public, free of charge, from the Employment Relations Directorate, TUPE Unit, 3<sup>rd</sup> Floor, Department of Trade and Industry, 1 Victoria Street, London SW1H 0ET, and from the DTI website on the links shown below. Copies of each have also been placed in both Houses of Parliament.
+
+http://www.dti.gov.uk/er/individual/tupe\_transposition\_note\_2006.pdf and
+
+http://www.dti.gov.uk/er/individual/tupe\_ria\_2006.pdf
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00002]: Footnote: See the European Communities (Designation) (No.2) Order 1977 ([S.I. 1977/1718](https://www.legislation.gov.uk/uksi/1977/1718)).
+
+[^f00003]: Footnote: [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26).
+
+[^key-eee1e793da3c7ef5ba7b3f05fc6c2edf]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (21.12.2007) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2007/17/schedule/4/paragraph/7) (with [s. 6(9)](https://www.legislation.gov.uk/ukpga/2007/17/section/6/9)); [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546), [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule)
+
+[^key-85480b5ff101a843de1a1008a9d3b585]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (29.9.2008 at 8.00 a.m.) by [The Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008 (S.I. 2008/2546)](https://www.legislation.gov.uk/uksi/2008/2546), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2), [27](https://www.legislation.gov.uk/uksi/2008/2546/article/27)
+
+[^key-d0474daa601fba28049069b9d4b1491c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (1.10.2008) by [Regulatory Enforcement and Sanctions Act 2008 (c. 13)](https://www.legislation.gov.uk/ukpga/2008/13), [s. 76(1)](https://www.legislation.gov.uk/ukpga/2008/13/section/76/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2008/13/schedule/2/paragraph/1) (with [Sch. 2 paras. 4-6](https://www.legislation.gov.uk/ukpga/2008/13/schedule/2/paragraph/4)); [S.I. 2008/2371](https://www.legislation.gov.uk/uksi/2008/2371), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2371/article/2/a)
+
+[^key-1e18946068d7c03a941b184ef131cce8]: Modification: Regulations applied (with modifications) (30.3.2009 at 8.00 a.m.) by [The Amendments to Law (Resolution of Dunfermline Building Society) Order 2009 (S.I. 2009/814)](https://www.legislation.gov.uk/uksi/2009/814), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2), [4](https://www.legislation.gov.uk/uksi/2009/814/article/4)
+
+[^key-28a88e31c2046b51b37fc3872e7b6f5d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (12.11.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 62(8)](https://www.legislation.gov.uk/ukpga/2009/20/section/62/8), [148(3)(a)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/a)
+
+[^key-7eb24d694674eab74498a869a1346e41]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (with modifications) (1.1.2010) by [The Northern Rock plc Transfer Order 2009 (S.I. 2009/3226)](https://www.legislation.gov.uk/uksi/2009/3226), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2009/3226/article/1/2/b), [12](https://www.legislation.gov.uk/uksi/2009/3226/article/12)
+
+[^key-411131b23a86b436a6ba52881c87015d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (10.2.2010) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/234/article/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2010/234/schedule/2/paragraph/11)
+
+[^key-0c4cc686c9c7f3d20ccfb138c61b320e]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (28.9.2010) by [William Simpson’s Home (Transfer of Property etc.) (Scotland) Act 2010 (asp 12)](https://www.legislation.gov.uk/asp/2010/12), [ss. 1(2)](https://www.legislation.gov.uk/asp/2010/12/section/1/2), [5(2)](https://www.legislation.gov.uk/asp/2010/12/section/5/2)
+
+[^key-ff10940df52a4fe1e59155a97bfbcff4]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (31.8.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 166(6)](https://www.legislation.gov.uk/mwa/2011/4/section/166/6), [178(3)](https://www.legislation.gov.uk/mwa/2011/4/section/178/3); [S.I. 2011/2011](https://www.legislation.gov.uk/wsi/2011/2011), [art. 2(s)](https://www.legislation.gov.uk/wsi/2011/2011/article/2/s)
+
+[^key-82f744ef32b5767838b7829809a24d2d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 218(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/218/4), [240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l)
+
+[^key-dca7102eef92cbcce2b16d019ffa22c0]: Modification: Regulations applied (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 193(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/193/4), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(z)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/z) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+
+[^key-c001a444e2a2ce589b090a2237e67274]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 212(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/212/4), [240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l)
+
+[^key-98468435b35524f736a33483f82b7582]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) modified (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [6](https://www.legislation.gov.uk/uksi/2012/246/article/6) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
+
+[^key-69eafb67a4ac9215a2b0270ffdc028b0]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 16 para. 64](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/64); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+
+[^key-937461532bde7b2e8b0cc7f1c3afc1aa]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) modified (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 128(5)](https://www.legislation.gov.uk/ukpga/2011/20/section/128/5), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+
+[^key-0bc88f5acbcaf400227fd0d13c9f4a10]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 8 para. 2(2)](https://www.legislation.gov.uk/nia/2014/8/schedule/8/paragraph/2/2) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+
+[^key-74c3251788f325c0646075341d9a406f]: Modification: Regulations extended (1.8.2014) by [2005 asp 6](https://www.legislation.gov.uk/asp/2005/6), [s. 230(6)(14)](https://www.legislation.gov.uk/asp/2005/6/section/230/6) (as inserted by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 10](https://www.legislation.gov.uk/asp/2013/12/section/10), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)))
+
+[^key-f965b1f76e488829154c6745f81c3f2c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (12.12.2014) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7](https://www.legislation.gov.uk/nia/2014/12/section/7), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/3/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3))
+
+[^key-0c5c51fe038b6d09649fd49487c71e35]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (1.4.2015) by [Legal Aid and Coroners' Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/2/2) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(d)](https://www.legislation.gov.uk/nisr/2015/193/article/2/d)
+
+[^key-c27f79f2c6e993d5b8c639d0791fc230]: Modification: Regulations applied in part (26.11.2015) by [Local Government (Wales) Act 2015 (anaw 6)](https://www.legislation.gov.uk/anaw/2015/6), [ss. 10(6)](https://www.legislation.gov.uk/anaw/2015/6/section/10/6), [46(2)](https://www.legislation.gov.uk/anaw/2015/6/section/46/2)
+
+[^key-53763fa6a227e43109a16d259791c229]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (20.2.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/nia/2016/4/schedule/2/paragraph/5/3)
+
+[^key-ba21344b2d457c5832f77e9b04de0159]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (3.10.2016) by [The Water and Sewerage Undertakers (Exit from Non-household Retail Market) Regulations 2016 (S.I. 2016/744)](https://www.legislation.gov.uk/uksi/2016/744), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/744/regulation/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2016/744/schedule/1/paragraph/9)
+
+[^key-9a954f925b9f1652ff8955463057ff20]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) excluded (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2017/524/schedule/3/paragraph/19)
+
+[^key-2e5f86118383d4624a8d38c884e82ea2]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (1.10.2018) by [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 46(2)](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/46/2) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
+
+[^key-d9d3b846d5a2d83a34f129a85cfa4157]: Modification: Regulations applied (31.12.2020) by Regulation (EC) No. 1370/2007, Art. 4(4b) (as inserted by [The Regulation (EC) No 1370/2007 (Public Service Obligations in Transport) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/504](https://www.legislation.gov.uk/uksi/2020/504)), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/504/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2020/504/regulation/7/c) (with [reg. 16](https://www.legislation.gov.uk/uksi/2020/504/regulation/16)))
+
+[^key-9dbc75deea66d171a0abf27a2b29e3ef]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied in part (1.4.2021) by [The Mid Wales Corporate Joint Committee Regulations 2021 (S.I. 2021/342)](https://www.legislation.gov.uk/wsi/2021/342), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/342/regulation/1/2), [Sch. para. 14](https://www.legislation.gov.uk/wsi/2021/342/schedule/paragraph/14)
+
+[^key-1e55193a2632020863eb28b238a60455]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied in part (1.4.2021) by [The South West Wales Corporate Joint Committee Regulations 2021 (S.I. 2021/352)](https://www.legislation.gov.uk/wsi/2021/352), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2), [Sch. para. 14](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/14)
+
+[^key-8ee7d59b6526f8e4931b8a4bce54a9d3]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied in part (1.4.2021) by [The South East Wales Corporate Joint Committee Regulations 2021 (S.I. 2021/343)](https://www.legislation.gov.uk/wsi/2021/343), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/343/regulation/1/2), [Sch. para. 14](https://www.legislation.gov.uk/wsi/2021/343/schedule/paragraph/14)
+
+[^key-c231c6ef9aab4ca0ffff65c1fc4b76c1]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied in part (1.4.2021) by [The North Wales Corporate Joint Committee Regulations 2021 (S.I. 2021/339)](https://www.legislation.gov.uk/wsi/2021/339), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/339/regulation/1/2), [Sch. para. 14](https://www.legislation.gov.uk/wsi/2021/339/schedule/paragraph/14)
+
+[^key-63c81e68a6705795d9a20caa7a91dbba]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/5/2) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+
+[^key-2a25089c2a492d830a6cc726d26321f2]: Modification: Regulations applied (E.W.) (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 54(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/54/5), [255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^key-3c081310ea4be4acb908b315a3b11082]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 57(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/57/5), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+
+[^key-4573953ab5cbc7e82b3450c85c3e9593]: Modification: Regulations: power to apply or modify conferred (15.7.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 34 para. 4(3)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/4/3); [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
+
+[^key-cd8c7cf0667fb8ab43e11bd0e0aeeea0]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/246) applied (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2026/833/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/3/2)
+
+[^key-eccca2e40a54a9b1f4775940fdf56e8d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/246/regulation/1) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-b6ae1a94adf53b12eaf921dc9e9ec141]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/246/regulation/2) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00004]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); section 388, which explains the meaning of acting as insolvency practitioner, was amended by the Insolvency Act [2000 (c. 39)](https://www.legislation.gov.uk/ukpga/2000/39) sections 4(1), 4(2)(a), 4(2)(b), 4(2)(c), the Bankruptcy (Scotland) Act 1993 section 11(1), [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [S.I. 2002/1240](https://www.legislation.gov.uk/uksi/2002/1240) and [S.I. 2002/2708](https://www.legislation.gov.uk/uksi/2002/2708).
+
+[^f00005]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
+
+[^f00006]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^f00007]: Footnote: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17) ; section 18, which defines conciliation, was amended by the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8) sections 1(2)(a), 11(1), 15 and Schedule 1, the National Minimum Wage Act [1998 (c. 39)](https://www.legislation.gov.uk/ukpga/1998/39) sections 24 and 30(1), the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22) sections 24(2), 53 and Schedule 7, the Employment Relations Act [2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24) section 57(1) and Schedule 1, [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833), [S.I. 1999/3323](https://www.legislation.gov.uk/uksi/1999/3323), [S.I. 2000/1299](https://www.legislation.gov.uk/uksi/2000/1299), [S.I. 2000/1551](https://www.legislation.gov.uk/uksi/2000/1551), [S.I. 2001/1107](https://www.legislation.gov.uk/uksi/2001/1107), [S.I. 2002/2034](https://www.legislation.gov.uk/uksi/2002/2034), [S.I. 2003/1660](https://www.legislation.gov.uk/uksi/2003/1660), [S.I. 2003/1661](https://www.legislation.gov.uk/uksi/2003/1661), [S.I. 2003/1673](https://www.legislation.gov.uk/uksi/2003/1673), [S.I. 2003/3049](https://www.legislation.gov.uk/uksi/2003/3049), [S.I. 2004/2326](https://www.legislation.gov.uk/uksi/2004/2326), [S.I. 2004/1713](https://www.legislation.gov.uk/uksi/2004/1713) and [S.I. 2004/3426](https://www.legislation.gov.uk/uksi/2004/3426).
+
+[^f00008]: Footnote: [S.I. 1981/1794](https://www.legislation.gov.uk/uksi/1981/1794), amended by the Dock Work Act [1989 (c. 13)](https://www.legislation.gov.uk/ukpga/1989/13) section 7(2), the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19) sections 33, 51 and Schedule 10, the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8) section 1(2)(a), [S.I. 1987/442](https://www.legislation.gov.uk/uksi/1987/442). [S.I. 1995/2587](https://www.legislation.gov.uk/uksi/1995/2587), [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [S.I. 1999/1925](https://www.legislation.gov.uk/uksi/1999/1925) and [S.I. 1999/2402](https://www.legislation.gov.uk/uksi/1999/2402).
+
+[^key-c4467c3985a1f61662e31a58c97afe7a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/246/regulation/3) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-89108b48bdd11bddde268fae0a78b253]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2006/246/regulation/3/2A) inserted (E.W.S.) (31.1.2014) by [The Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 2014 (S.I. 2014/16)](https://www.legislation.gov.uk/uksi/2014/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2014/16/regulation/5/1) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/5/2))
+
+[^M_C_9881192f-8365-4297-de50-2a5ed70e467b]: Modification: Reg. 3(5) excluded (E.W.) (31.3.2009) by [The Local Government (Structural Changes) (Further Transitional Arrangements and Staffing) Regulations 2009 (S.I. 2009/486)](https://www.legislation.gov.uk/uksi/2009/486), [regs. 1](https://www.legislation.gov.uk/uksi/2009/486/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2009/486/regulation/7/1)
+
+[^key-5593e839369c6fd09401c3757faa908a]: Modification: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2006/246/regulation/3/5) excluded (W.) (1.4.2010) by [The Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 (S.I. 2010/630)](https://www.legislation.gov.uk/uksi/2010/630), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2010/630/article/5/4) (with [arts. 5(6)](https://www.legislation.gov.uk/uksi/2010/630/article/5/6), [8](https://www.legislation.gov.uk/uksi/2010/630/article/8))
+
+[^key-4143a4265ba00f3a1ee55893982107e2]: Modification: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2006/246/regulation/3/5) excluded (E.) (1.4.2010) by [The Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 (S.I. 2010/630)](https://www.legislation.gov.uk/uksi/2010/630), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2010/630/article/9/4) (with [arts. 9(6)](https://www.legislation.gov.uk/uksi/2010/630/article/9/6), [12](https://www.legislation.gov.uk/uksi/2010/630/article/12))
+
+[^key-150536fc6dee18f57f66e20c1111d1ae]: Modification: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2006/246/regulation/3/5) excluded (E.W.) (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2018/1128/regulation/10) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+
+[^key-157d7886e60a88620ccca2b0e7d59d9f]: Modification: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2006/246/regulation/3/5) excluded (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [7](https://www.legislation.gov.uk/uksi/2026/1011/article/7)
+
+[^f00009]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^key-fc2f80806ce9eabd780da3e721fe0561]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/246/regulation/4) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-4445d61ecc6592108479d29e814ed212]: Textual amendment: [Reg. 4(4)-(5C)](https://www.legislation.gov.uk/uksi/2006/246/regulation/4/4) substituted for reg. 4(4)(5) (E.W.S.) (31.1.2014) by [The Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 2014 (S.I. 2014/16)](https://www.legislation.gov.uk/uksi/2014/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2014/16/regulation/6/1) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/6/2))
+
+[^key-773aa7de821540cbfb3854fca61f28e6]: Modification: [Reg. 4(7)](https://www.legislation.gov.uk/uksi/2006/246/regulation/4/7)[(8)](https://www.legislation.gov.uk/uksi/2006/246/regulation/4/8) excluded (E.) (1.4.2010) by [The Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 (S.I. 2010/630)](https://www.legislation.gov.uk/uksi/2010/630), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2), [9(7)](https://www.legislation.gov.uk/uksi/2010/630/article/9/7)[(8)](https://www.legislation.gov.uk/uksi/2010/630/article/9/8) (with [arts. 9(6)](https://www.legislation.gov.uk/uksi/2010/630/article/9/6), [12](https://www.legislation.gov.uk/uksi/2010/630/article/12))
+
+[^key-130d7c215d621647e68f2d2c38eeb2a0]: Modification: [Reg. 4(7)](https://www.legislation.gov.uk/uksi/2006/246/regulation/4/7)[(8)](https://www.legislation.gov.uk/uksi/2006/246/regulation/4/8) excluded (W.) (1.4.2010) by [The Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 (S.I. 2010/630)](https://www.legislation.gov.uk/uksi/2010/630), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2010/630/article/5/7)[(8)](https://www.legislation.gov.uk/uksi/2010/630/article/5/8) (with [arts. 5(6)](https://www.legislation.gov.uk/uksi/2010/630/article/5/6), [8](https://www.legislation.gov.uk/uksi/2010/630/article/8))
+
+[^key-eb3ca25eef0c7eba65d2321aa55823de]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2006/246/regulation/4A) inserted (E.W.S.) (31.1.2014) by [The Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 2014 (S.I. 2014/16)](https://www.legislation.gov.uk/uksi/2014/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2014/16/regulation/7/1) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/7/2))
+
+[^key-ae32953643b525426c017f965c4f437d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/246/regulation/5) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-3d903814e3df5e4e73d3004e2d196299]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/246/regulation/6) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-3eeed0fbaaf53d4f01104b763184653d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/246/regulation/7) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-c7125f25a08702bdf9f0d9f45add2d5a]: Textual amendment: [Reg. 7(1)-(3A)](https://www.legislation.gov.uk/uksi/2006/246/regulation/7/1) substituted for reg. 7(1)-(3) (E.W.S.) (31.1.2014) by [The Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 2014 (S.I. 2014/16)](https://www.legislation.gov.uk/uksi/2014/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/1/2), [8(1)](https://www.legislation.gov.uk/uksi/2014/16/regulation/8/1) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/8/2))
+
+[^f00010]: Footnote: [1919 c. 92](https://www.legislation.gov.uk/ukpga/1919/92); section 5 was amended by the Former Enemy Aliens (Disabilities Removal) Act 1925 section 1 and Schedule 2, the Merchant Shipping Act 1970 section 100(3) and Schedule 5 and the Merchant Shipping Act 1995 section 314 and Schedule 12.
+
+[^key-e69d23527a6d8fc87fe9f069e4ffb34e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/246/regulation/8) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-0bc0fd209b4f1bddc72fa03ad41eb1c6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/246/regulation/9) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-b63bb80fa93fee54a60a7d78ed5303b0]: Textual amendment: Words in [reg. 9(7)](https://www.legislation.gov.uk/uksi/2006/246/regulation/9/7) substituted (E.W.S.) (31.1.2014) by [The Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 2014 (S.I. 2014/16)](https://www.legislation.gov.uk/uksi/2014/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/1/2), [9(1)](https://www.legislation.gov.uk/uksi/2014/16/regulation/9/1) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/9/2))
+
+[^key-9bd65dfeabaefd88b3a8a66a1c9917a3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/246/regulation/10) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-f95119f133508058aa71aa8c0977a3cc]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/246/regulation/10) applied (with modifications) (1.4.2013) by [The Transfer of Undertakings (Protection of Employment) (Transfers of Public Health Staff) Regulations 2013 (S.I. 2013/278)](https://www.legislation.gov.uk/uksi/2013/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/278/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/278/regulation/4)
+
+[^key-ff343ab8b2dfbf99e55464deb05cb97c]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/246/regulation/10) applied (with modifications) (11.6.2021) by [The Transfer of Undertakings (Protection of Employment) (Transfer of Staff to the Civil Aviation Authority) Regulations 2021 (S.I. 2021/595)](https://www.legislation.gov.uk/uksi/2021/595), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/595/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2021/595/regulation/4/1) (with [reg. 2](https://www.legislation.gov.uk/uksi/2021/595/regulation/2))
+
+[^key-7f412881ad5c75ad85054c9298c66995]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/246/regulation/10) applied (with modifications) (1.10.2021) by [The Transfer of Undertakings (Protection of Employment) (Transfer of Public Health England Staff) Regulations 2021 (S.I. 2021/975)](https://www.legislation.gov.uk/uksi/2021/975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/975/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2021/975/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/uksi/2021/975/regulation/2))
+
+[^key-1c626929640cd4868453d28009eb7b37]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/246/regulation/10) applied (with modifications) (24.12.2021) by [The Transfer of Undertakings (Protection of Employment) (Transfer of Staff to the Office for Environmental Protection) Regulations 2021 (S.I. 2021/1353)](https://www.legislation.gov.uk/uksi/2021/1353), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1353/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2021/1353/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/uksi/2021/1353/regulation/2))
+
+[^key-fb81439a808d6b8d243dc68a05230009]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/246/regulation/10) applied (with modifications) (21.10.2022) by [The Transfer of Undertakings (Protection of Employment) (Transfer of Staff to the Scottish Courts and Tribunals Service) Regulations 2022 (S.I. 2022/1012)](https://www.legislation.gov.uk/uksi/2022/1012), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1012/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2022/1012/regulation/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2022/1012/regulation/2))
+
+[^key-659d5233c75a96c1976b294278a7941b]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/246/regulation/10) applied (with modifications) (17.3.2025) by [The Transfer of Undertakings (Protection of Employment) (Transfer of Staff to the Civil Nuclear Police Authority) Regulations 2025 (S.I. 2025/114)](https://www.legislation.gov.uk/uksi/2025/114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/114/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2025/114/regulation/4)
+
+[^f00011]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48); section 1, which defines occupational pension scheme, was amended by the Welfare Reform & Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) section 18 and Schedule 2, the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) section 239 and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
+
+[^key-3739dd83d0146d96400fb77066056fe5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/246/regulation/11) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-21fba4126ae95513e1561efa4839735c]: Modification: [Regs. 11-16](https://www.legislation.gov.uk/uksi/2006/246/regulation/11) applied (1.4.2013) by [The Transfer of Undertakings (Protection of Employment) (Transfers of Public Health Staff) Regulations 2013 (S.I. 2013/278)](https://www.legislation.gov.uk/uksi/2013/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/278/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2013/278/regulation/5)
+
+[^key-ca6edf5f046fb272b80e663960abefdf]: Modification: [Regs. 11-16](https://www.legislation.gov.uk/uksi/2006/246/regulation/11) applied (1.10.2021) by [The Transfer of Undertakings (Protection of Employment) (Transfer of Public Health England Staff) Regulations 2021 (S.I. 2021/975)](https://www.legislation.gov.uk/uksi/2021/975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/975/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2021/975/regulation/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2021/975/regulation/2))
+
+[^key-5b34042c51e29c0478ff948629a38b77]: Modification: [Regs. 11-16](https://www.legislation.gov.uk/uksi/2006/246/regulation/11) applied (21.10.2022) by [The Transfer of Undertakings (Protection of Employment) (Transfer of Staff to the Scottish Courts and Tribunals Service) Regulations 2022 (S.I. 2022/1012)](https://www.legislation.gov.uk/uksi/2022/1012), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1012/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2022/1012/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2022/1012/regulation/2))
+
+[^key-027c774b013bd79319b7d0140c036809]: Textual amendment: Words in [reg. 11(2)(c)](https://www.legislation.gov.uk/uksi/2006/246/regulation/11/2/c) substituted (6.4.2009) by [The Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 2009 (S.I. 2009/592)](https://www.legislation.gov.uk/uksi/2009/592), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/592/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2009/592/regulation/2/2)
+
+[^key-19e55a6b559c3ee73a58bd4443cb64b8]: Textual amendment: Words in [reg. 11(6)](https://www.legislation.gov.uk/uksi/2006/246/regulation/11/6) substituted (E.W.S.) (31.1.2014) by [The Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 2014 (S.I. 2014/16)](https://www.legislation.gov.uk/uksi/2014/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/1/2), [10(1)](https://www.legislation.gov.uk/uksi/2014/16/regulation/10/1) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/10/2))
+
+[^key-d825ef46220707d4b9f36992d31d3206]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/246/regulation/12) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-dfaffdc4c02361ee2b9b18392bac767b]: Textual amendment: Word in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2006/246/regulation/12/2/a) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 13(2)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/13/2/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+
+[^key-74a78c6b7036aa79c74979d90f740fde]: Textual amendment: Word in [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/2006/246/regulation/12/2/b) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 13(2)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/13/2/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+
+[^key-d6e7f725aae032e156becd98532e0418]: Textual amendment: [Reg. 12(2A)](https://www.legislation.gov.uk/uksi/2006/246/regulation/12/2A) inserted (20.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) (No. 2) Order 2014 (S.I. 2014/853)](https://www.legislation.gov.uk/uksi/2014/853), [arts. 1](https://www.legislation.gov.uk/uksi/2014/853/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/853/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/853/article/3))
+
+[^key-7ce7f6725026b50f04fc7cd8dee7aec0]: Textual amendment: Words in [reg. 12(7)](https://www.legislation.gov.uk/uksi/2006/246/regulation/12/7) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/37)
+
+[^key-fd3c233be72364af9dbe5322719daa45]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2006/246/regulation/13) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-95b09c1cdbeac1652a263f85743176a8]: Modification: [Reg. 13](https://www.legislation.gov.uk/uksi/2006/246/regulation/13) excluded (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/833/regulation/3/3)
+
+[^key-c833a6d79849aa8ff767993ed7169b68]: Textual amendment: Word in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2006/246/regulation/13/1) inserted (E.W.S.) (31.1.2014) by [The Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 2014 (S.I. 2014/16)](https://www.legislation.gov.uk/uksi/2014/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2014/16/regulation/11/1) (with [reg. 11(5)](https://www.legislation.gov.uk/uksi/2014/16/regulation/11/5))
+
+[^key-b21d799ca73d8e4f89de3f5b4f2272f5]: Textual amendment: [Reg. 13(2A)](https://www.legislation.gov.uk/uksi/2006/246/regulation/13/2A) inserted (E.W.S.) (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/29)
+
+[^key-19fb21f7b8f6c939ec47a3f0535b171b]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2006/246/regulation/13A) inserted (E.W.S.) (31.1.2014) by [The Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 2014 (S.I. 2014/16)](https://www.legislation.gov.uk/uksi/2014/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/11/2) (with [reg. 11(5)](https://www.legislation.gov.uk/uksi/2014/16/regulation/11/5))
+
+[^key-a2caddca749509796115b506c3baf17a]: Textual amendment: Words in [reg. 13A](https://www.legislation.gov.uk/uksi/2006/246/regulation/13A) heading substituted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/9/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2023/1426/regulation/8))
+
+[^key-f37c414f88708373acdbbbd13d58640d]: Textual amendment: [Reg. 13A(1)(a)](https://www.legislation.gov.uk/uksi/2006/246/regulation/13A/1/a) substituted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/9/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2023/1426/regulation/8))
+
+[^key-90b972c73c9dacf7712fb3c19eb14326]: Textual amendment: [Reg. 13A(1A)](https://www.legislation.gov.uk/uksi/2006/246/regulation/13A/1A) inserted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/9/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2023/1426/regulation/8))
+
+[^key-774a3ae8901feb3f1a223bed5a9df691]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2006/246/regulation/14) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-0e05457ec7a2aa98cdb40ed8dfff479d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2006/246/regulation/15) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-d7a68df540ae4ebf7123241534a5096d]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2006/246/regulation/15/3) inserted (E.W.S.) (31.1.2014) by [The Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 2014 (S.I. 2014/16)](https://www.legislation.gov.uk/uksi/2014/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2014/16/regulation/11/3) (with [reg. 11(5)](https://www.legislation.gov.uk/uksi/2014/16/regulation/11/5))
+
+[^key-d009b7dbd0c2a0546119c8b06ab5f738]: Textual amendment: [Reg. 15(3A)](https://www.legislation.gov.uk/uksi/2006/246/regulation/15/3A) inserted (E.W.S.) (31.1.2014) by [The Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 2014 (S.I. 2014/16)](https://www.legislation.gov.uk/uksi/2014/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2014/16/regulation/11/4) (with [reg. 11(5)](https://www.legislation.gov.uk/uksi/2014/16/regulation/11/5))
+
+[^key-bcec62960ffaf0f9d35b6e110097f421]: Textual amendment: Word in [reg. 15(12)](https://www.legislation.gov.uk/uksi/2006/246/regulation/15/12) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 13(3)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/13/3/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+
+[^key-b19c04fce4ae4ae7782b739d357fb516]: Textual amendment: Word in [reg. 15(12)](https://www.legislation.gov.uk/uksi/2006/246/regulation/15/12) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 13(3)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/13/3/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+
+[^key-5ead1de2a168249ffc19c49017325d07]: Textual amendment: [Reg. 15(13)](https://www.legislation.gov.uk/uksi/2006/246/regulation/15/13) inserted (20.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) (No. 2) Order 2014 (S.I. 2014/853)](https://www.legislation.gov.uk/uksi/2014/853), [arts. 1](https://www.legislation.gov.uk/uksi/2014/853/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/853/article/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/853/article/3))
+
+[^key-045fb210bf0df9210bd385afefeb709b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2006/246/regulation/16) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-4d382f7517ca4920f293d5d593df4681]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2006/246/regulation/16/1) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/38)
+
+[^f00013]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53); section 11(1) was amended by the Sea Fish (Conservation) Act [1992 (c. 60)](https://www.legislation.gov.uk/ukpga/1992/60) section 9, the Special Educational Needs and Disability Act [2001 (c. 10)](https://www.legislation.gov.uk/ukpga/2001/10) section 42(1) and Schedule 8 and [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
+
+[^key-cf393e8c0da44f02c0c892af0ee06878]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2006/246/regulation/16A) inserted (20.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) (No. 2) Order 2014 (S.I. 2014/853)](https://www.legislation.gov.uk/uksi/2014/853), [arts. 1](https://www.legislation.gov.uk/uksi/2014/853/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/853/article/2/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/853/article/3))
+
+[^key-2bb905a1cb42f008b5184a644d882d89]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2006/246/regulation/17) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00014]: Footnote: [1969 c. 57](https://www.legislation.gov.uk/ukpga/1969/57).
+
+[^key-ec3bb94effa7dd4ce60c0bf4dd01f36a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2006/246/regulation/18) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-412a61e371abd7c6e8a3b06ea7a8fc36]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2006/246/regulation/19) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-82d4721f564ea9eefbfcd4aa6c20e8a5]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2006/246/regulation/20) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00015]: Footnote: [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19).
+
+[^key-079d547c94d37a983bec06d89d38fb24]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2006/246/regulation/21) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-1c677184569cfa08e029fe2e4df5aada]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/1) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-af8329d6002e64ce813d944c78ec1e95]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/2) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-cd710dea4c4c5c47865f3f90a90fa613]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/3) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-6fb26a4ec4ea8a55815b62b53c5de81f]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/4) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00016]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919).
+
+[^f00017]: Footnote: [S.I. 1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921).
+
+[^f00018]: Footnote: [S.I. 1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807).
+
+[^f00019]: Footnote: [S.I. 1995/1980 (N.I. 12)](https://www.legislation.gov.uk/nisi/1995/1980).
+
+[^key-3094847c6729481c6033331cfad5c826]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/5) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-285b4bd037c359746344d930dcb18487]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/6) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-288ce2aac59c3df516a0460d41d50abf]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/7) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00020]: Footnote: [S.I. 1992/963 (N.I. 6)](https://www.legislation.gov.uk/nisi/1992/963).
+
+[^key-cbc0cc54450b37d6ff11d1dac846b639]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/8) substituted (6.4.2006) by [The Service Provision Change (Protection of Employment) Regulations (Northern Ireland) 2006 (S.R. 2006/177)](https://www.legislation.gov.uk/nisr/2006/177), [regs. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1), [20(2)(a)](https://www.legislation.gov.uk/nisr/2006/177/regulation/20/2/a) (with [reg. 21](https://www.legislation.gov.uk/nisr/2006/177/regulation/21))
+
+[^key-0792b36b4e210c8268cce8f0de964fa2]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/9) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-5a4a8763d473f7b1bd1baee3dc2e4345]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/10) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00022]: Footnote: [S.I. 1995/1503 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/1503).
+
+[^M_F_294b31ab-9cd2-4f44-e14e-f4c9356676b2]: Textual amendment: Sch. 1 para. 10(2) substituted (3.4.2011) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/163)](https://www.legislation.gov.uk/nisr/2011/163), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2011/163/regulation/1/2), [2](https://www.legislation.gov.uk/nisr/2011/163/regulation/2)
+
+[^key-6b77df04c0ace876a7567facd975135e]: Textual amendment: [Sch. 1 para. 10(3)](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/10/3) substituted (6.4.2006) by [The Service Provision Change (Protection of Employment) Regulations (Northern Ireland) 2006 (S.R. 2006/177)](https://www.legislation.gov.uk/nisr/2006/177), [regs. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1), [20(2)(b)](https://www.legislation.gov.uk/nisr/2006/177/regulation/20/2/b) (with [reg. 21](https://www.legislation.gov.uk/nisr/2006/177/regulation/21))
+
+[^key-009daaf2e00608f2d9e3ff41a38ad970]: Textual amendment: Words in [Sch. 1 para. 10(3)(a)](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/10/3/a) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 39(a)](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/39/a)
+
+[^key-d93cf11039427f011876d572538361b3]: Textual amendment: Words in [Sch. 1 para. 10(3)(a)](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/10/3/a) substituted (27.1.2020) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/15)](https://www.legislation.gov.uk/nisr/2020/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/15/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2020/15/regulation/3)
+
+[^key-c7b04944c5f150036dad274750f5ef48]: Textual amendment: Words in [Sch. 1 para. 10(4)(a)](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/10/4/a) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 39(b)](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/39/b)
+
+[^key-a1fe0b7a5e423bf824b3ba39a5990dc0]: Textual amendment: Words in [Sch. 1 para. 10(4)(a)](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/10/4/a) substituted (27.1.2020) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/15)](https://www.legislation.gov.uk/nisr/2020/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/15/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2020/15/regulation/4)
+
+[^key-cc7ad0e95fab262702e1bf239f401c44]: Textual amendment: [Sch. 1 para. 10(4A)](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/10/4A) inserted (27.1.2020) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/15)](https://www.legislation.gov.uk/nisr/2020/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/15/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2020/15/regulation/5)
+
+[^key-b123661c2f6a41473ebe8acfafe08e5c]: Textual amendment: [Sch. 1 para. 10(5)-(7)](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/10/5) inserted (6.4.2006) by [The Service Provision Change (Protection of Employment) Regulations (Northern Ireland) 2006 (S.R. 2006/177)](https://www.legislation.gov.uk/nisr/2006/177), [regs. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1), [20(2)(c)](https://www.legislation.gov.uk/nisr/2006/177/regulation/20/2/c) (with [reg. 21](https://www.legislation.gov.uk/nisr/2006/177/regulation/21))
+
+[^key-0f0a245ea0b682adbd6acdd60d8b30f4]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/11) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^key-973cc381741178cc6ad91a5cc6ef5782]: Textual amendment: Words in [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/11) Table 1 substituted (6.4.2006) by [The Service Provision Change (Protection of Employment) Regulations (Northern Ireland) 2006 (S.R. 2006/177)](https://www.legislation.gov.uk/nisr/2006/177), [regs. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1), [20(2)(d)(i)](https://www.legislation.gov.uk/nisr/2006/177/regulation/20/2/d/i) (with [reg. 21](https://www.legislation.gov.uk/nisr/2006/177/regulation/21))
+
+[^key-62ac103c7c9074e594d0e47e8a1a728e]: Textual amendment: Words in [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/11) Table 1 substituted (6.4.2006) by [The Service Provision Change (Protection of Employment) Regulations (Northern Ireland) 2006 (S.R. 2006/177)](https://www.legislation.gov.uk/nisr/2006/177), [regs. 1](https://www.legislation.gov.uk/nisr/2006/177/regulation/1), [20(2)(d)(ii)](https://www.legislation.gov.uk/nisr/2006/177/regulation/20/2/d/ii) (with [reg. 21](https://www.legislation.gov.uk/nisr/2006/177/regulation/21))
+
+[^key-2008d1e4f3a1d1cb8a32f1486c4b0ea4]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2006/246/schedule/1/paragraph/12) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00024]: Footnote: [1954 c. 33 (N.I)](https://www.legislation.gov.uk/apni/1954/33).
+
+[^key-2c48df8a8892b22248da6dc15a0ead07]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/1) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00025]: Footnote: [1990 c. 12](https://www.legislation.gov.uk/ukpga/1990/12).
+
+[^f00026]: Footnote: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22).
+
+[^f00027]: Footnote: [1991 c. 52](https://www.legislation.gov.uk/ukpga/1991/52).
+
+[^f00028]: Footnote: [1991 c. 67](https://www.legislation.gov.uk/ukpga/1991/67).
+
+[^f00029]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
+
+[^f00030]: Footnote: [S.I. 1993/3160 (N.I. 15)](https://www.legislation.gov.uk/nisi/1993/3160).
+
+[^f00031]: Footnote: [S.I. 1994/2809 (N.I. 16)](https://www.legislation.gov.uk/nisi/1994/2809).
+
+[^f00032]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^f00033]: Footnote: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26)
+
+[^f00034]: Footnote: [2004 c. 25](https://www.legislation.gov.uk/ukpga/2004/25).
+
+[^f00035]: Footnote: [2005 c. 16](https://www.legislation.gov.uk/ukpga/2005/16).
+
+[^key-893f6100ff077ec5919cb34ffe057fba]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/2) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00036]: Footnote: [1982 c. 10](https://www.legislation.gov.uk/ukpga/1982/10).
+
+[^key-a9d8afa62785d117b33837afc6997d5d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/3) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00037]: Footnote: [1984 c. 59](https://www.legislation.gov.uk/ukpga/1984/59).
+
+[^key-89f41c79e9c7dedba6bda48c8e3be02a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/4) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00038]: Footnote: [1986 c. 52](https://www.legislation.gov.uk/ukpga/1986/52).
+
+[^key-fabbf1062185d000c6c2519399ec9332]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/5) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00039]: Footnote: [1988 c. 20](https://www.legislation.gov.uk/ukpga/1988/20).
+
+[^key-86c27e39b74ce69db0a57208b3682a4b]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/6) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00040]: Footnote: [1991 c. 46](https://www.legislation.gov.uk/ukpga/1991/46).
+
+[^key-5d94aa82aa0f426166ec3ad93cc36d4d]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/7) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00041]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
+
+[^key-d5f1dff6614c5ac2071d3c3916133e29]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/8) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00042]: Footnote: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17).
+
+[^key-d1d32ae1fa1f9add9463396212c52c8a]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/9) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00043]: Footnote: [S.I. 1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921).
+
+[^key-3f7917a73aeeaa9922e82b2e1e097e58]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/10) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00044]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^key-c70219152fe8a2d7f377edaf3a6631c3]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/11) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00045]: Footnote: [S.I. 1999/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1999/1919).
+
+[^key-f4ee15d2c7e330db781770129ae6db1b]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/12) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00046]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1).
+
+[^key-2ddb7509d76d6e0a74efc06fe8162df4]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/13) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00047]: Footnote: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^key-d59c1351106d04b957ba2be2e49347bb]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/14) in force at 6.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2)
+
+[^f00048]: Footnote: [2004 c. 20](https://www.legislation.gov.uk/ukpga/2004/20).

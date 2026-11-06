@@ -1,0 +1,884 @@
+---
+title: The Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) Regulations 2013
+id: uksi/2013/218
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-01-31'
+text_date: '2024-01-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/218
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/218/pdfs/uksiem_20130218_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/218/pdfs/uksi_20130218_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/218/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) Regulations 2013
+
+> Text as at 2024-01-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 218
+
+National Health Service, England
+
+Social Care, England
+
+Public Health, England
+
+The Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) Regulations 2013
+
+Made
+
+31st January 2013
+
+Laid before Parliament
+
+8th February 2013
+
+Coming into force in accordance with regulation 1(2) to (4)
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 9DA(5), 9J, 9JA and 105(2) of the Local Government Act 2000[^f00001], sections 244(2), (2ZA), (2ZB), (2ZC), (2ZE) and (3), 245(2) to (4A), 247(2) and 272(7) and (8) of, and paragraph 7B(1) and (2) of Schedule 1 to, the National Health Service Act 2006[^f00002], sections 81(5) and 235(2)(a) of the Localism Act 2011[^f00003] and sections 194(12) and 304(9) and (10) of the Health and Social Care Act 2012[^f00004].
+
+## PART 1 — GENERAL
+
+### 1. Citation, commencement and interpretation[^key-eb13b0c03753d5b1c63114c1bde79adc]
+
+(1) These Regulations may be cited as the Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) Regulations 2013.
+
+(2) Subject to paragraphs (3) and (4), these Regulations come into force on 1st April 2013.
+
+(3) Regulations 24(b)(ii), 26(7)(b) and 27(5)(b) come into force at the same time as the first set of regulations under section 130 of the 2012 Act (health special administration regulations) come into force.
+
+(4) Regulation 19(3), and regulation 19(4)(b) in so far as it inserts paragraph 7 of Schedule 2 to the Community Right to Challenge (Expressions of Interest and Excluded Services) (England) Regulations 2012, comes into force on 1st October 2015[^key-289c01bbfd8fe364754ae7f838e1004b].
+
+(5) In these Regulations—
+
+- “the 1972 Act” means the Local Government Act 1972[^f00005];
+- “the 2006 Act” means the National Health Service Act 2006;
+- “the 2012 Act” means the Health and Social Care Act 2012.
+
+## PART 2 — HEALTH AND WELLBEING BOARDS
+
+### 2. Interpretation[^key-368407b752d8e6c36257da1eadee5290]
+
+In this Part, “the 1989 Act” means the Local Government and Housing Act 1989[^f00006].
+
+### 3. Modification of section 101 of the 1972 Act[^key-13436426e33d00f02f4c2766268969a9]
+
+(1) Section 101 of the 1972 Act (arrangements for discharge of functions by local authorities)[^f00007] applies in relation to a Health and Wellbeing Board[^f00008] with the following modifications.
+
+(2) For subsection (2) substitute—
+
+> (2) Where any functions may be discharged by a Health and Wellbeing Board by virtue of any enactment, other than section 196(2) of the 2012 Act (other functions of health and wellbeing boards) then, unless the local authority which established the Board otherwise directs, the Board may arrange for the discharge of any of those functions by a sub-committee of the Board.
+>
+> (2A) Where any functions may be discharged by a Health and Wellbeing Board by virtue of section 196(2) of the 2012 Act, then—
+>
+> - (a) unless the authority which established the Board otherwise directs, the Board may arrange for the discharge of any of those functions by a sub-committee of the Board or an officer of the authority; and
+> - (b) unless the Board otherwise directs, the sub-committee may arrange for the discharge of any of those functions by an officer of the authority.
+
+.
+
+(3) In subsection (4), at the beginning insert “Subject to section 196(1) (other functions of Health and Wellbeing Boards)”.
+
+### 4. Modification of section 102 of the 1972 Act[^key-927169be7478c8f9fc589b1685806dbf]
+
+(1) Section 102 of the 1972 Act (appointment of committees)[^f00009] applies in relation to a Health and Wellbeing Board with the following modifications.
+
+(2) Subsection (2) applies subject to the provisions of section 194(2) to (9) of the 2012 Act (membership of health and wellbeing boards).
+
+(3) After subsection (4A), insert—
+
+> (4B) A Health and Wellbeing Board may appoint one or more sub-committees of the Board to advise the Board with respect to any matter relating to the discharge of functions by the Board.
+
+.
+
+### 5. Disapplication of section 104(1) of the 1972 Act[^key-b810a9c3f9a7bdf58d84cdfc854cf259]
+
+(1) Section 104(1) of the 1972 Act (disqualification for membership of committees and joint committees)[^f00010] does not apply in relation to a Health and Wellbeing Board, a sub-committee of such a Board or a joint sub-committee of two or more such Boards.
+
+(2) Paragraph (1) does not apply, in so far as it relates to a person disqualified by virtue of section 80(1)(b) or (d) or section 81A[^key-03cec4fcf568d626c816b2fd5f1ac944] of the 1972 Act for being elected or being a member of a local authority (disqualification by reason of bankruptcy , criminal conviction or sexual offences etc[^key-c01e9c9fc63289491c21e2200d027fa6])[^f00011].
+
+### 6. Modification of section 13 of the 1989 Act[^key-7d9c1be117c4d240601ed4723f1d60b2]
+
+Section 13 of the 1989 Act (voting rights of members of certain committees: England and Wales)[^f00012] applies in relation to a Health and Wellbeing Board with the modification that after subsection (1) there were inserted—
+
+> (1A) A person who is a member of a Health and Wellbeing Board, a sub-committee of such a Board, or a joint sub-committee of two or more such Boards, shall not be treated as a non-voting member of that Board or sub-committee by virtue of subsection (1), unless the local authority which established the Board otherwise directs.
+>
+> (1B) Before making a direction under subsection (1A), the local authority must consult the Health and Wellbeing Board.
+
+.
+
+### 7. Disapplication of sections 15 and 16 of, and Schedule 1 to, the 1989 Act[^key-e28e47b81e9dce2d294cfa0b295d97f3]
+
+The following provisions of the 1989 Act do not apply to a Health and Wellbeing Board, a sub-committee of such a Board or a joint sub-committee of two or more such Boards—
+
+- (a) section 15 (duty to allocate seats to political parties);
+- (b) section 16 (duty to give effect to allocations); and
+- (c) Schedule 1 (political balance on local authority committees etc.)[^f00013].
+
+## PART 3 — LOCAL AUTHORITY PUBLIC HEALTH FUNCTIONS
+
+### 8. Interpretation[^key-8a1525b78412827ad15bac81264a8444]
+
+(1) In this Part—
+
+- “health professional” means a member of a profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002[^f00014];
+- “height measure” means a stadiometer on which a person stands to be measured by means of a vertical rule and a sliding horizontal rod or paddle;
+- [^key-574b7ffb8812c83158c7a3fd23d0d37e]...
+- “parent” includes any person who has parental responsibility for, or has care of, the child concerned and, in determining whether a person has care of the child, any absence of the child at a hospital or boarding school and any other temporary absence shall be disregarded;
+- “parental responsibility” has the same meaning as in section 3 of the Children Act 1989[^f00015];
+- “personal information” means the information prescribed in regulation 9;
+- “process” and “processed” are to be interpreted in accordance with the meaning of “processing” in section 1(1) of the Data Protection Act 1998[^f00016];
+- “registered dietitian” means a person who is registered in Part 4 of the register maintained by the Health Professions Council under article 5 of the Health Professions Order 2001[^f00017];
+- “scales” means an electronic device on which a person stands to be weighed;
+- “weighing and measuring exercise” means the arrangements under which a local authority provides for the weighing and measuring of children in attendance at any school in the exercise of its functions under paragraph 7A(1) or (2) of Schedule 1 to the 2006 Act[^f00018].
+
+### 9. Personal information[^key-ef1916b00176ec3745db594509e1499d]
+
+The following information relating to a child to whom a weighing and measuring exercise relates, in these Regulations referred to as personal information, is prescribed pursuant to paragraph 7B(1)(a) and paragraph 7B(1)(d) of Schedule 1 to the 2006 Act (information relating to children prescribed for the purposes of disclosure and processing)—
+
+- (a) name and address of the child,
+- (b) date of birth of the child,
+- (c) sex of the child,
+- (d) name and reference number of the child’s school,
+- (e) ethnicity of the child, and
+- (f) NHS number of the child.
+
+### 10. Person carrying out the weighing or measuring[^key-6dca2be29b828f092be9ab2355aaa24a]
+
+Where a local authority[^f00019] provides for a weighing and measuring exercise, personal information relating to the children concerned may be disclosed for the purposes of that exercise—
+
+- (a) by the local authority to the person carrying out the weighing or measuring of the children on behalf of the local authority; and
+- (b) by the proprietor of the school concerned to the local authority or to the person carrying out the weighing or measuring of the children on behalf of the local authority.
+
+### 11. Conditions for weighing and measuring children[^key-e9e3096ef9413729fe40b3ab3a7476a6]
+
+(1) Where the conditions in paragraph (2) are met—
+
+- (a) a child may be weighed and measured as part of a weighing and measuring exercise, and
+- (b) a local authority may further process the resulting information and any personal information relating to that child, in accordance with these Regulations.
+
+(2) The conditions are—
+
+- (a) the child to be weighed and measured is able and willing to stand unaided on scales and under a height measure;
+- (b) a parent of the child has not withdrawn the child from participation in the weighing and measuring exercise;
+- (c) the weighing and measuring exercise is conducted in a room or screened area where information on the measurements is secure and cannot be seen or heard by anyone who is not assisting in the conduct of the exercise or overseeing it; and
+- (d) the arrangements for the weighing and measuring exercise are managed on behalf of the local authority by a registered medical practitioner, a registered nurse or a registered dietitian.
+
+### 12. Parental involvement[^key-480a195a9bb7064b2aca2b7c32400f4f]
+
+In providing for a weighing and measuring exercise, each local authority must take steps—
+
+- (a) to give each parent of a child to whom the exercise relates a reasonable opportunity to withdraw their child from participation in the exercise; and
+- (b) to ensure that, during the conduct of the weighing and measuring exercise, no child whose parent has withdrawn that child from participation in the exercise is weighed or measured.
+
+### 13. Processing of information by local authorities[^key-2ffb3febaa39a70d42f37db1c85f5116]
+
+(1) This paragraph applies to information resulting from a weighing and measuring exercise and personal information relating to the children to whom that exercise relates.
+
+(2) Information to which paragraph (1) applies may be further processed by or on behalf of the local authority which provided for the exercise, with a view to disclosing such information to any person to be used for the purposes of research, monitoring, audit or the planning of services, or for any purpose connected with public health, subject to the condition that the information may be disclosed only in a form in which no individual child can be identified.
+
+### 14. Disclosure of information to parents etc.[^key-b2d79627cabff0a59ecc10a05728e851]
+
+Information resulting from the weighing and measuring of a child who has participated in a weighing and measuring exercise which has been conducted in accordance with these Regulations, together with any personal information necessary to identify the child concerned, may be further processed by or on behalf of the local authority concerned with a view to the information being—
+
+- (a) communicated to a parent of the child to whom the information relates, together with advisory material relating to the weight of children;
+- (b) used for the purpose of providing advice and assistance to a parent of the child to whom the information relates with the aim of promoting and assisting improvement of the child’s health;
+- (c) disclosed by the local authority to a health professional who is in a position to provide the advice and assistance referred to in sub-paragraph (b) and to offer any related treatment to the child.
+
+### 15. Disclosure of information to NHS England[^key-e71a3d9cae39526b02f9873c23947207][^key-afd4fcc3242f99b3c12e32c8808925b0]
+
+(1) Information resulting from a weighing and measuring exercise which has been conducted in accordance with these Regulations, together with personal information relating to the children concerned, shall be disclosed to NHS England by the local authority which provided for that exercise and may be further processed by or on behalf of the authority for that purpose.
+
+(2) Information disclosed under paragraph (1) to NHS England may be further processed by NHS England—
+
+- (a) for use by NHS England for the purposes of surveillance, research, monitoring, audit or the planning of health services; and
+- (b) for disclosure in accordance with regulation 16.
+
+(3) The information which must be disclosed under paragraph (1) shall include—
+
+- (a) the date on which the weighing and measuring exercise took place;
+- (b) the height and weight of each child who participated in the weighing and measuring exercise, together with—
+  - (i) the personal information of a description specified in regulation 9(a) to (d) relating to the child concerned, and
+  - (ii) where such information is available to the local authority, the personal information of a description specified in regulation 9(e) to (f) relating to that child;
+- (c) supplementary information relating to the administration of the weighing and measuring exercise including—
+  - (i) the rate of participation in the weighing and measuring exercise among children who were invited to take part in the exercise; and
+  - (ii) the arrangements for communicating the results of the exercise to the parents of children concerned.
+
+### 16. Onward processing of information by NHS England[^key-a1c7d3831328404aa33d817b54588a4f]
+
+Information which has been obtained by NHS England under regulation 15(1), including information which has been further processed in accordance with regulation 15(2)(a), may be disclosed by NHS England to—
+
+- (a) the Department of Health and Social Care[^key-d55f1c93403a1c7fb04be9927bfe4793] [^key-52068c45eb56e9bdad1adcc1004b250a]...;
+- (b) the local authority which provided for the weighing and measuring exercise, where the information which is disclosed to the local authority concerned is derived from that exercise;
+- (c) any other person, with a view to enabling further processing of the information for the purposes of research, monitoring, audit or the planning of services, or for any purpose connected with public health, subject to the condition that the information may be disclosed only in a form in which no individual child can be identified.
+
+### 17. Guidance[^key-7717f4791d359e345bfeb50f07b673b9]
+
+(1) This regulation applies to the exercise of any function in relation to—
+
+- (a) the conduct of a weighing and measuring exercise; or
+- (b) the processing of any resulting information or of personal information relating to the children concerned.
+
+(2) Where a local authority or a person acting on its behalf, or NHS England, exercises any function to which this regulation applies, they must each have regard to such guidance as may be given from time to time by the Secretary of State.
+
+### 18. Revocation[^key-22fc9c4f4dcdd1865a1c3f20cc4af536]
+
+The National Child Measurement Programme Regulations 2008[^f00020] are revoked.
+
+### 19. Amendment of the Community Right to Challenge (Expressions of Interest and Excluded Services) (England) Regulations 2012[^key-381b57fc6319cbfc6938b30653316880][^key-3accd81704abb08934bb300079f0761f]
+
+(1)[^key-381b57fc6319cbfc6938b30653316880] The Community Right to Challenge (Expressions of Interest and Excluded Services) (England) Regulations 2012[^f00021] are amended as follows.
+
+(2)[^key-381b57fc6319cbfc6938b30653316880] In regulation 4(2) (excluded services) for “2 and 3” substitute “2, 3 and 5”.
+
+(3)[^key-33f1cd70a28036c8f74f1f023787b8b8] After regulation 4(2) insert—
+
+> (3) Paragraph 7 of Schedule 2 ceases to have effect on 30th September 2016[^key-1b2f138334e2f2bf924a5fc224f82de8].
+
+.
+
+(4) In Schedule 2 (excluded services)—
+
+- (a)[^key-381b57fc6319cbfc6938b30653316880] in paragraph 1, before the definition of “health services” insert the following definition—
+
+  > - “integrated care board[^key-5fa3e27360fff2aab06d7b6c1d8a2c64]” means a body established under section 14D of the National Health Service Act 2006[^f00022];
+
+  ; and
+- (b)[^key-3accd81704abb08934bb300079f0761f][^key-7f60fcd46076886876b584e8276d806e] after paragraph 4 insert—
+
+  > **5.** A relevant service provided by or on behalf of a relevant authority in the exercise of any of its functions under sections 2B and 111 of, and paragraphs 1 to 7B and 13 of Schedule 1 to, the National Health Service Act 2006[^f00023], except a service specified in paragraph 6.
+  >
+  > **6.** A relevant service provided by a relevant authority in exercise of the Secretary of State’s functions under sections 2A and 2B of the National Health Service Act 2006[^f00024], in so far as it consists of the provision of such information and advice to an integrated care board as the authority considers necessary or appropriate, with a view to protecting and improving the health of the people in the authority’s area.
+  >
+  > **7.** A relevant service provided by or on behalf of a relevant authority in respect of children aged under five years, in so far as it consists of the provision of health visiting services for the purpose of reviewing the development of the children concerned and for the promotion of their health and welfare, or the provision of other health services for that purpose.
+
+  .
+
+## PART 4 — HEALTH SCRUTINY BY LOCAL AUTHORITIES
+
+### 20. Interpretation[^key-0d41612df6976e427d56d64f315aa380]
+
+(1) In this Part—
+
+- “the 2000 Act” means the Local Government Act 2000;
+- “a responsible person” means a relevant NHS body or a relevant health service provider[^f00025];
+- “joint overview and scrutiny committee”, except in regulation 34, means an overview and scrutiny committee appointed under regulation 30;
+- “joint scrutiny arrangements” means arrangements made under regulation 30(1) or (5);
+- “local authority” includes—
+  - (a) the Council of the Isles of Scilly and,
+  - (b) in regulations 22(5), 28(1)(b), 30(1), 31 and 32, a council for a district in a county for which there is a county council[^f00026];
+- “[^key-5c7ed5b8258df06f9572f2b8ea5aa5c8]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
+- “relevant functions” means functions under regulations 21 to 23, 26 and 27;
+- [^key-d345430fce83e971f25cca6b0d6fcd99]...
+
+(2) For the purposes of the definition of “relevant NHS body” in section 244(3) of the 2006 Act, the NHS bodies[^f00028] prescribed in relation to a local authority are—
+
+- (a) NHS England[^key-e91313909924f2f665a58e7b5f45067f];
+- (b) an integrated care board which arranges the provision of services to persons residing in the area of the authority; or
+- (c) an NHS trust or NHS foundation trust which provides services to persons residing in the area of the authority.
+
+(3) For the purposes of paragraph (b) of the definition of “relevant health service provider” in section 244(3) of the 2006 Act, the description of body or person prescribed, in relation to a local authority, is a body or person, other than an NHS trust or NHS foundation trust, which provides any relevant services to persons residing in the area of the local authority.
+
+(4) In paragraph (3), “relevant services” means the services referred to in paragraph (a) of the definition of “relevant health service provider” in section 244(3) of the 2006 Act.
+
+### 21. Review and scrutiny[^key-a7107b57ca3341b6a5595e1cbf59bdc5]
+
+(1) A local authority may review and scrutinise any matter relating to the planning, provision and operation of the health service[^f00029] in its area.
+
+(2) In carrying out the review and scrutiny of a particular matter, the local authority must—
+
+- (a) invite interested parties to comment on the matter; and
+- (b) take account of relevant information available to it and, in particular, relevant information provided to it by a Local Healthwatch organisation[^f00030] or Local Healthwatch contractor (“a referrer”) when that referrer refers a matter falling within paragraph (1) to the authority.
+
+(3) Where a matter falling within paragraph (1) is referred to the local authority by a referrer, the local authority must—
+
+- (a) acknowledge receipt of the referral within 20 working days beginning with the date on which the referral was made; and
+- (b) keep the referrer informed of any action taken in relation to the matter.
+
+(4) Otherwise, the procedure of review and scrutiny is to be determined by the local authority.
+
+(5) For the purposes of this regulation, a matter is referred by a referrer if it is referred in the carrying-on of activities specified in section 221(2) of the 2007 Act[^f00031] (patient and public involvement in health and social care) under arrangements made under section 221(1) of that Act (health and social services: Local Healthwatch) or Local Healthwatch arrangements.
+
+(6) In this regulation—
+
+- “the 2007 Act” means the Local Government and Public Involvement in Health Act 2007[^f00032];
+- “Local Healthwatch arrangements” has the meaning given by section 222 of the 2007 Act[^f00033] (arrangements under section 221(1): Local Healthwatch organisations);
+- “Local Healthwatch contractor” has the meaning given by section 223 of the 2007 Act[^f00034] (prescribed provision to be included in arrangements under section 221(1));
+- “working day” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday (in England) under the Banking and Financial Dealings Act 1971[^f00035].
+
+### 22. Reports and recommendations[^key-2140aa57d854fe0c8d450a5cd87c95fb]
+
+(1) A local authority (“A”) may make reports and recommendations to a responsible person on any matter it has reviewed or scrutinised under regulation 21.
+
+(2) Where A has made arrangements for the discharge of relevant functions of A by a body specified in paragraph (3), that body may, in addition to making reports and recommendations under paragraph (1), make reports and recommendations to the local authority or local authorities which appointed that body, on any matter it has reviewed or scrutinised under regulation 21.
+
+(3) The bodies specified for the purposes of paragraph (2) are—
+
+- (a) an overview and scrutiny committee of A;
+- (b) a joint overview and scrutiny committee appointed by A and one or more other local authorities;
+- (c) a committee or sub-committee of A.
+
+(4) Where a committee of A has made arrangements for the discharge of relevant functions of A by a sub-committee, that sub-committee may, in addition to making reports and recommendations under paragraph (1), make reports and recommendations to A and to the committee which appointed that sub-committee, on any matter it has reviewed or scrutinised under regulation 21.
+
+(5) Where A has made arrangements for the discharge of its relevant functions by—
+
+- (a) another local authority (“B”) pursuant to arrangements made under section 101(1)(b) of the 1972 Act (arrangements for discharge of functions by local authorities), or
+- (b) an overview or scrutiny committee of B pursuant to regulation 28(1)(b),
+
+B or that committee may, in addition to making reports and recommendations under paragraph (1), make reports and recommendations to A on any matter it has reviewed or scrutinised under regulation 21.
+
+(6) Reports and recommendations made under this regulation must include—
+
+- (a) an explanation of the matter reviewed or scrutinised;
+- (b) a summary of the evidence considered;
+- (c) a list of the participants involved in the review or scrutiny; and
+- (d) an explanation of any recommendations on the matter reviewed or scrutinised.
+
+(7) Where a local authority requests a response from a responsible person to whom it has made a report or recommendation, that person must respond in writing within 28 days of the request.
+
+### 23. Consultation by responsible persons[^key-4d214c4502a4a6762fcadda92a40b5b8]
+
+(1) Subject to paragraphs (2) and (12) and regulation 24, where a responsible person (“R”) has under consideration any proposal for a substantial development of the health service in the area of a local authority (“the authority”), or for a substantial variation in the provision of such service, R must—
+
+- (a) consult the authority;
+- (b) when consulting, provide the authority with—
+  - (i) the proposed date by which R intends to make a decision as to whether to proceed with the proposal; and
+  - (ii) the date by which R requires the authority to provide any comments under paragraph (4);
+- (c) inform the authority of any change to the dates provided under paragraph (b); and
+- (d) publish those dates, including any change to those dates.
+
+(2) Paragraph (1) does not apply to any proposals on which R is satisfied that a decision has to be taken without allowing time for consultation because of a risk to safety or welfare of patients or staff.
+
+(3) In a case such as is referred to in paragraph (2), R must notify the authority immediately of the decision taken and the reason why no consultation has taken place.
+
+(4) Subject to regulation 30(5) (joint committees) and any directions under regulation 32 (directions as to arrangements for discharge of health scrutiny functions), the authority may make comments on the proposal consulted on by the date or changed date provided by R under paragraph (1)(b)(ii) or (c).
+
+(5) Where the authority’s comments under paragraph (4) include a recommendation to R and R disagrees with that recommendation—
+
+- (a) R must notify the authority of the disagreement;
+- (b) R and the authority must take such steps as are reasonably practicable to try to reach agreement in relation to the subject of the recommendation; and
+- (c) in a case where the duties of R under this regulation are being discharged by the responsible commissioner pursuant to paragraph (12), the authority and the responsible commissioner must involve R in the steps specified in sub-paragraph (b).
+
+(5A)[^key-1b4e8d76b1f2e6f20f4b597f19efadd2] R must take into consideration any direction given to it under paragraph 3(1) of Schedule 10A to the 2006 Act when discharging its duties under this regulation.
+
+(6)[^key-4ec46d965568beedad1cdafeb86690c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-4ec46d965568beedad1cdafeb86690c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-4ec46d965568beedad1cdafeb86690c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-4ec46d965568beedad1cdafeb86690c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-4ec46d965568beedad1cdafeb86690c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11)[^key-4ec46d965568beedad1cdafeb86690c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12) In a case where R is a service provider and the proposal relates to services which an integrated care board or NHS England is responsible for arranging the provision of—
+
+- (a) the functions of R under this regulation must be discharged by the responsible commissioner on behalf of R; and
+- (b) references to R in this regulation (other than in paragraph (5)(c)) are to be treated as references to the responsible commissioner.
+
+(13) Where the functions of R under this regulation fall to be discharged by more than one body under paragraph (12)(a), the duties of those bodies under that paragraph may be discharged by those bodies jointly or by one or more of those bodies on behalf of those bodies.
+
+(14) In this regulation—
+
+- “service provider” means an NHS trust, an NHS foundation trust or a relevant health service provider;
+- “the responsible commissioner” means the integrated care board or integrated care boards[^key-bbfaaa2e439ffe90bdc339274ccf5d5b] or NHS England, as the case may be, responsible for arranging the provision of the services to which the proposal relates.
+
+### 24. Exemptions from duty to consult[^key-c36444431225ea3966fd5c7014dd3110]
+
+Regulation 23 does not apply to—
+
+- (a)[^key-c36444431225ea3966fd5c7014dd3110] any proposal to establish or dissolve an NHS trust or integrated care board, or to vary the constitution of such an integrated care board[^key-710b153567f0bc4aa5ed051d357019a9] (unless the establishment, dissolution or variation involves a substantial development or variation as referred to in regulation 23(1)); or
+- (b) any proposals contained in—
+  - (i)[^key-c36444431225ea3966fd5c7014dd3110] a trust special administrator’s report or draft report under section 65F or 65I of the 2006 Act[^f00036] (trust special administrators: reports and draft reports); or
+  - (ii)[^key-0c957a25406ee666e9d699732f2e4a1c] recommendations by a health special administrator on the action which should be taken in relation to a company subject to a health special administration order under section 128 of the 2012 Act (health special administration orders).
+
+### 25. Decisions and directions by Secretary of State or NHS England[^key-900b92c56d1b087a22e5c6c895e42471]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26. Information to be provided by responsible person[^key-b47d3f8b7e75ede1b64f8ac9f21e2fe6]
+
+(1)[^key-b47d3f8b7e75ede1b64f8ac9f21e2fe6] Subject to paragraphs (3) and (7), a responsible person must provide a local authority with such information about the planning, provision and operation of health services in the area of that authority as the authority may reasonably require in order to discharge its relevant functions.
+
+(2)[^key-b47d3f8b7e75ede1b64f8ac9f21e2fe6] Where a responsible person provides, or arranges for the provision of, services to persons residing within the area of several local authorities, its duty under paragraph (1) will be satisfied if it provides information to the joint overview and scrutiny committee of those authorities.
+
+(3)[^key-b47d3f8b7e75ede1b64f8ac9f21e2fe6] Nothing in paragraph (1) requires the provision of—
+
+- (a) confidential information which relates to and identifies a living individual, unless at least one of the conditions specified in paragraph (4) applies; or
+- (b) any other information the disclosure of which is prohibited by or under any enactment, unless paragraph (5) applies.
+
+(4)[^key-b47d3f8b7e75ede1b64f8ac9f21e2fe6] The conditions referred to in paragraph (3)(a) are—
+
+- (a) the information is or can be disclosed in a form from which the identity of the individual cannot be ascertained; or
+- (b) the individual consents to the information being disclosed.
+
+(5)[^key-b47d3f8b7e75ede1b64f8ac9f21e2fe6] This paragraph applies where—
+
+- (a) the prohibition on the disclosure of information arises because the information is capable of identifying an individual; and
+- (b) the information is or can be disclosed in a form from which the identity of the individual cannot be ascertained.
+
+(6)[^key-b47d3f8b7e75ede1b64f8ac9f21e2fe6] In a case where the disclosure of information is prohibited by paragraph (3), the local authority may require the person holding the information to put the information in a form from which the identity of the individual concerned cannot be identified in order that the information may be disclosed.
+
+(7) Paragraph (1) does not apply in relation to—
+
+- (a)[^key-b47d3f8b7e75ede1b64f8ac9f21e2fe6] information contained in, or relating to, a trust special administrator’s report or draft report under sections 65F or 65I of the 2006 Act;
+- (b)[^key-9a0bb8e0c52e51aade690a68260dad4e] information contained in, or relating to, recommendations by a health special administrator on the action which should be taken in relation to a company subject to a health special administration order under section 128 of the 2012 Act.
+
+### 27. Obtaining information and explanations[^key-d063d984b47909d97e561a2a1c62654b]
+
+(1)[^key-d063d984b47909d97e561a2a1c62654b] Subject to paragraph (5), a local authority may require any member[^f00037] or employee[^f00038] of a responsible person to attend before the authority to answer such questions as appear to the authority to be necessary for discharging its relevant functions.
+
+(2)[^key-d063d984b47909d97e561a2a1c62654b] Subject to paragraphs (3) and (4), it is the duty of any such member or employee to comply with any such requirement.
+
+(3)[^key-d063d984b47909d97e561a2a1c62654b] The local authority may not require a person to attend in accordance with paragraph (1) unless reasonable notice of the intended date of attendance has been given to that person.
+
+(4)[^key-d063d984b47909d97e561a2a1c62654b] Nothing in paragraph (1) requires any person to answer any question put to that person by the local authority—
+
+- (a) to the extent that the answer requires the provision of information of a type specified in regulation 26(3) (unless within an exception under regulation 26(4) or (5)); or
+- (b) if that person would be entitled to refuse to answer in, or for the purposes of, proceedings in a court in England and Wales.
+
+(5) A local authority may not require a member or employee of a responsible person to attend before it to answer questions in relation to—
+
+- (a)[^key-d063d984b47909d97e561a2a1c62654b] a trust special administrator’s report or draft report under sections 65F or 65I of the 2006 Act;
+- (b)[^key-078ea5c7410a334f1aaafc369da3b6c4] a health special administration order under section 128 of the 2012 Act, or recommendations by a health special administrator on the action which should be taken in relation to a company subject to such an order.
+
+### 28. Discharge of health scrutiny functions by overview and scrutiny committees[^key-6b447a550d82c6f0c4ab1344e1705dea]
+
+(1) A local authority (“A”) may arrange for its relevant functions to be discharged by—
+
+- (a) an overview and scrutiny committee of A;
+- (b) in the circumstances set out in paragraph (2), an overview and scrutiny committee of another local authority (“B”).
+
+(2) The circumstances referred to paragraph (1)(b) are where A considers that the overview and scrutiny committee of B would be better placed than A to undertake A’s relevant functions and B agrees to the discharge of those functions by its committee.
+
+### 29. Restrictions on arrangements for discharge of health scrutiny functions under section 101 of the 1972 Act[^key-cd4f7f095c882f3b77eba29ddab5440a]
+
+(1)[^key-07cfcbaab717a4da185e78dead2b66af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The following provisions of section 101 of the 1972 Act do not apply with respect to the discharge by a local authority of its relevant functions—
+
+- (a) subsection (1)(a) (arrangements for discharge of functions by local authorities), in so far as it relates to an officer of the authority;
+- (b) subsection (5) (discharge of functions by two or more local authorities jointly);
+- (c) subsection (13)[^f00040] (extended meaning of “local authority”), except in so far as it relates to the Common Council of the City of London.
+
+### 30. Joint committees[^key-49a30c5a6a99398b01c12d5f31a6f118]
+
+(1) Subject to paragraph (5), two or more local authorities may appoint a joint committee (“a joint overview and scrutiny committee”) of those authorities and arrange for relevant functions in relation to any (or all) of those authorities to be exercisable by the joint committee subject to such terms and conditions as the authorities may consider appropriate.
+
+(2) The provisions of section 9FA(1) to (12) of the 2000 Act[^f00041] (overview and scrutiny committees: supplementary) apply to a joint overview and scrutiny committee as they apply to an overview and scrutiny committee within the meaning of section 9F of that Act[^f00042] (overview and scrutiny committees: functions), but subject to the modification that subsection (5) applies as though the words “Subject to any provision made by or under paragraphs 6 to 8 of Schedule A1 and to section 20(6) of the Police and Justice Act 2006,” were omitted.
+
+(3) Section 246 of, and Schedule 17 to, the 2006 Act[^f00043] (overview and scrutiny committees: exempt information) and Schedule 11 to the National Health Service (Wales) Act 2006[^f00044] (exempt information relating to health services) shall apply to a joint overview and scrutiny committee as if it were a committee of each of the local authorities which appointed it.
+
+(4)[^key-f583b6c86290ddbcbd6e631740338411] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Where a responsible person consults more than one local authority pursuant to regulation 23, those local authorities must appoint a joint overview and scrutiny committee for the purposes of the consultation and only that joint overview and scrutiny committee may—
+
+- (a) make comments on the proposal consulted on pursuant to regulation 23(4);
+- (b) require the provision of information about the proposal under regulation 26; or
+- (c) require a member or employee of a responsible person to attend before it under regulation 27 to answer questions in connection with the consultation.
+
+(6) A joint overview and scrutiny committee may not discharge any functions other than relevant functions in accordance with this regulation.
+
+### 31. Co-option[^key-b3a46bebaca9d9916008520d1e40f727]
+
+(1) A county council may arrange for one or more of the members of an overview and scrutiny committee of the council of a district comprised in the area of that county council to be appointed as—
+
+- (a) a member of an overview and scrutiny committee of the county council or another local authority, for the purposes of relevant functions exercisable by the committee in relation to the county council; or
+- (b) a member of an overview and scrutiny committee of the county council, for the purposes of relevant functions exercisable by the committee in relation to another local authority.
+
+(2) A county council making arrangements for an appointment under paragraph (1)(a) or (b) may specify that the appointment is—
+
+- (a) for the life of the overview and scrutiny committee; or
+- (b) until such time as it decides to terminate the appointment; or
+- (c) for the review or scrutiny of a particular matter.
+
+(3) In this regulation, references to an overview and scrutiny committee of a county council include references to a joint overview and scrutiny committee of the council and another local authority.
+
+### 32. Directions to local authorities[^key-747be6532bcd45feb4e40febc0f19395]
+
+The Secretary of State may direct a local authority—
+
+- (a) to make arrangements of any description within regulations 28(1)(b), 30 and 31 (discharge of health scrutiny functions by overview and scrutiny committees, joint overview and scrutiny committees and co-option); and
+- (b) to comply with such requirements in connection with the arrangements as the Secretary of State may direct.
+
+### 33. Revocations and consequential amendment[^key-3cc4c1ed56dc03d440efc6263199b475]
+
+(1) The following Regulations are revoked—
+
+- (a) the Local Authority (Overview and Scrutiny Committees Health Scrutiny Functions) Regulations 2002[^f00045];
+- (b) the Local Authority (Overview and Scrutiny Committees Health Scrutiny Functions) Amendment Regulations 2004[^f00046].
+
+(2) After regulation 9(7) of the Local Authorities (Committee System) (England) Regulations 2012[^f00047], there is inserted—
+
+> (7A) In paragraph (7) the reference to “information” does not include information in respect of which provision may be made in exercise of the power conferred by section 244(2)(d) or (e) of the National Health Service Act 2006.
+
+### 34. Saving and transitional provision[^key-519af34a4d3c3fecdb63d2f358029fd5]
+
+(1) Where a relevant committee has reviewed or scrutinised a matter under regulation 2 of the Local Authority (Overview and Scrutiny Committees Health Scrutiny Functions) Regulations 2002 (“the 2002 Regulations”) before the relevant date but, as at that date, has yet to make a report or recommendation under regulation 3 of those Regulations, the health scrutiny authority may make a report or recommendation on that matter under regulation 22 of these Regulations.
+
+(2) Where before the relevant date a local NHS body, other than an NHS foundation trust, had under consideration a proposal to which regulation 4(1) of the 2002 Regulations applied, but as at the relevant date had not consulted the relevant committee—
+
+- (a) if the body was a Primary Care Trust or Strategic Health Authority, NHS England or clinical commissioning group which is responsible from the relevant date for arranging the services to which the proposal relates, or
+- (b) if the body was an NHS trust or NHS foundation trust, that trust,
+
+  must consult the health scrutiny authority in accordance with regulation 23 of these Regulations.
+
+(3) This paragraph applies where—
+
+- (a) a relevant committee has been consulted by a local NHS body pursuant to regulation 4(1) of the 2002 Regulations before the relevant date;
+- (b) the date specified under regulation 4(4) of the 2002 Regulations (“the specified date”) is on or after the relevant date; and
+- (c) the relevant committee has not made comments on the proposal by the relevant date.
+
+(4) Where paragraph (3) applies—
+
+- (a) the health scrutiny authority may make comments under regulation 23(4), as if the specified date was the date referred to in that paragraph, to—
+  - (i) if the local NHS body was a Primary Care Trust or Strategic Health Authority, the relevant body; or
+  - (ii) if the local NHS body was an NHS trust, that trust; and
+- (b) regulation 23(1) and regulations 23(5) to (14) and 25 apply in relation to the consultation and proposal, as if the relevant body had consulted the authority under regulation 23(1).
+
+(5) This paragraph applies where—
+
+- (a) a relevant committee has been consulted by a local NHS body pursuant to regulation 4(1) of the 2002 Regulations before the relevant date;
+- (b) the relevant committee has made comments on the proposals by the relevant date; and
+- (c) the local NHS body has not made a decision on the proposal by the relevant date.
+
+(6) Where paragraph (5) applies, regulations 23(5) to (14) and 25 apply in relation to the consultation and proposal, as if—
+
+- (a) the health scrutiny authority had made comments on the proposal;
+- (b) the relevant body (if the local NHS body was a Primary Care Trust or Strategic Health Authority) or the NHS trust (if the local NHS body was such a trust) had consulted the authority under regulation 23(1).
+
+(7) This paragraph applies where a relevant committee has before the relevant date referred a matter to the Secretary of State under regulation 4(5) or (7) of the 2002 Regulations, but the Secretary of State has not made a decision on that referral by that date.
+
+(8) Where paragraph (7) applies, the Secretary of State may make a decision and, the Secretary of State and NHS England may give directions, in accordance with regulation 25, as if the referral had been made by a health scrutiny authority under regulation 23(9).
+
+(9) This paragraph applies where an NHS foundation trust has consulted a relevant committee under regulation 4A(2) of the 2002 Regulations before the relevant date, but—
+
+- (a) the date specified under regulation 4A(3) is on or after the relevant date and the committee has not made comments on the proposal by that date; or
+- (b) the relevant committee has made comments on the proposal before the relevant date, but the trust has not made an application to Monitor by the relevant date.
+
+(10) Where paragraph (9) applies, regulation 4A of the 2002 Regulations continues to apply in relation to the proposal, as if the health scrutiny authority were the relevant committee.
+
+(11) For the purposes of this regulation—
+
+- “local NHS body” has the meaning given in the 2002 Regulations;
+- “health scrutiny authority”, in relation to a relevant committee, means—
+  - (a) the local authority or authorities which arranged for the discharge of functions under the 2002 Regulations by the relevant committee; or
+  - (b) any other person or body who exercises relevant functions of the authority or authorities under these Regulations;
+- “relevant body or bodies” in relation to a proposal, means the clinical commissioning group or groups or NHS England responsible for arranging the provision of the services which are the subject of the proposal;
+- “relevant committee” means an overview and scrutiny committee or joint overview and scrutiny committee which exercised functions under the 2002 Regulations;
+- “relevant date” means 1st April 2013.
+
+Signed by the authority of the Secretary of State for Health.
+
+Anna Soubry
+
+Parliamentary Under-Secretary of State for Health,
+
+Department of Health
+
+31st January 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in relation to Health and Wellbeing Boards established under section 194 of the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”) (Part 2), local authority public health functions (Part 3) and review and scrutiny of the local health service by local authorities (Part 4).
+
+Part 2 modifies provisions in primary legislation relating to a committee appointed under section 102 of the Local Government Act [1972 (c.70)](https://www.legislation.gov.uk/ukpga/1972/70) (“the 1972 Act”) in so far as those provisions relate to Health and Wellbeing Boards and provides that certain provisions do not apply to Health and Wellbeing Boards. The modification and disapplication provisions also apply to sub-committees of Health and Wellbeing Boards and joint sub-committees of such boards.
+
+Regulation 3 modifies section 101(2) of the 1972 Act to enable certain functions of Health and Wellbeing Boards to be carried out by a sub-committee of a Health and Wellbeing Board and for functions of Health and Wellbeing Boards under section 196(2) of the 2012 Act to be carried out by a sub-committee of the Board or an officer of the local authority. The modification will also enable a sub-committee of the Board to arrange for functions under section 196(2) of the 2012 Act to be carried out by an officer of the authority.
+
+Regulation 4 makes provision for section 102(2) of the 1972 Act to apply subject to section 194(2) to (9) of the 2012 Act and modifies section 102 to allow a Health and Wellbeing Board to appoint a sub-committee to advise the Board.
+
+Regulation 5(1) disapplies section 104(1) of the 1972 Act in so far as that provision relates to Health and Wellbeing Boards, a sub-committee of such a Board, or a joint sub-committee of two or more such Boards so as to remove the restrictions which would prevent certain local authority officers from being members of Health and Wellbeing Boards.
+
+Regulation 5(2) provides that regulation 5(1) does not apply in so far as it relates to section 80(1)(b) and (d) of the 1972 Act.
+
+Regulation 6 modifies section 13(1) of the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42) (“the 1989 Act”) so as to enable all members of Health and Wellbeing Boards to vote in a section 102 committee meeting unless the local authority directs otherwise.
+
+Regulation 7 disapplies the political balance requirements as set out in sections 15 and 16 of, and Schedule 1 to the 1989 Act, which apply to local authorities in relation to appointments to committees and sub-committees under section 102 of the 1972 Act in so far as those provisions relate to Health and Wellbeing Boards, a sub-committee of such a Board or a joint sub-committee of two or more such Boards.
+
+Part 3 makes provision for the weighing and measuring of children in attendance at schools under arrangements provided for by local authorities. These weighing and measuring exercises are collectively known as the National Child Measurement Programme. This Part also provides for the processing of the resulting information, including the processing of personal information relating to the children concerned.
+
+Personal information relating to children participating in a weighing and measuring exercise is prescribed under regulation 9 and may be disclosed to the person carrying out the weighing and measuring exercise (regulation 10). The meaning of “weighing and measuring exercise” is defined in regulation 8.
+
+Regulation 11 sets out the conditions subject to which children may be weighed and measured and provides that the resulting information and any personal information relating to the children concerned may be processed where those conditions are met.
+
+Regulation 12 makes provision for parents to have an opportunity to “opt-out” their child from the National Child Measurement Programme.
+
+Regulation 13 provides that a local authority may disclose information resulting from a weighing and measuring exercise, and personal information relating to the children concerned, for the purposes of research, monitoring, audit or the planning of services or for any purpose connected with public health. Such information may only be disclosed in a form in which no individual child can be identified.
+
+Regulation 14 provides for the disclosure of information resulting from the weighing and measuring exercise about an individual child to the child’s parents, or to a health professional, with a view to the information being used to help the child concerned to improve its health.
+
+Local authorities are required to forward specified information resulting from the weighing and measuring exercise together with personal information relating to the children concerned to the Health and Social Care Information Centre (regulation 15), referred to in these Regulations as “the Information Centre” (regulation 8). This information may be further processed by the Information Centre for the purposes of surveillance, research, monitoring, audit or the planning of health services and for onward disclosure in accordance with regulation 16 to the Department of Health, local authorities or any other person, subject to the conditions in that regulation.
+
+Regulation 17 requires any person carrying out functions in relation to weighing and measuring or in relation to the processing of information, to have regard to guidance issued by the Secretary of State.
+
+The National Child Measurement Programme Regulations 2008, under which Primary Care Trusts carried out the weighing and measuring of children in schools, are revoked (regulation 18).
+
+Regulation 19 amends the Community Right to Challenge (Expressions of Interest and Excluded Services) (England) Regulations 2012 (“the principal Regulations”).
+
+Regulation 4 of and Schedule 2 to the principal Regulations are amended to set out additional services which are excluded from a right whereby certain bodies may submit an expression of interest in providing or assisting in providing services on behalf of specified authorities (“relevant authorities”) in the exercise of any of those relevant authorities’ functions in relation to England (regulation 19(4) of these Regulations). These additional services are services relating to the exercise of the public health functions of local authorities (paragraph 5 of Schedule 2 to the principal Regulations); the public health advice services which are provided by local authorities to clinical commissioning groups (paragraph 6 of Schedule 2 to the principal Regulations); and (with effect from 1st April 2015) health visiting and related services for children under five (paragraph 7 of Schedule 2 to the principal Regulations).
+
+The services specified in paragraph 5 of Schedule 2 to the principal Regulations are excluded from the right only until 1st April 2014 (regulation 19(2) of these Regulations); and the services specified in paragraph 7 of that Schedule are excluded from the right from the date on which the exclusion takes effect (1st April 2015) until 1st April 2016 (regulation 19(3) of these Regulations).
+
+Part 4 makes provision in relation to the health scrutiny functions of local authorities. Section 244 of the National Health Service Act [2006 (c.41)](https://www.legislation.gov.uk/ukpga/2006/41) (“the 2006 Act”) confers a power to make regulations on review and scrutiny of matters relating to the health service (“health scrutiny”) by local authorities. The 2012 Act made various changes to the system of health scrutiny. This included provision for health scrutiny functions to be conferred on local authorities directly with powers to enable those authorities to make various arrangements for the discharge of those functions, including discharge by overview and scrutiny committees. Part 4 makes provision accordingly.
+
+Regulation 21 enables a local authority to review and scrutinise matters relating to the planning, provision and operation of the health service in its area. It sets out duties that the local authority must discharge in carrying out such review and scrutiny. Regulation 21 also sets out duties that apply where a matter is referred to a local authority by a Local Healthwatch organisation or a representative of such an organisation.
+
+Regulation 22 enables a local authority to make reports and recommendations to certain NHS bodies and certain providers of health services (“responsible persons”) on matters reviewed or scrutinised by it and imposes duties on those persons to respond where the local authority so requests. Where a committee, sub-committee or another local authority is discharging health scrutiny functions of a local authority (“the first local authority”), regulation 22 enables that committee, sub-committee or other local authority to make reports and recommendations to the first local authority. It sets out information which must be included in a report or recommendation.
+
+Regulation 23 deals with consultation of local authorities by responsible persons on proposals (“relevant proposals”) for substantial developments of the health service or for substantial variations in the provision of the health service. The duty does not apply where a responsible person is of the view that there is insufficient time for consultation because of a risk to the safety or welfare of patients or staff. Regulation 23 also requires a local authority and responsible person to take steps to try to reach agreement in relation to any recommendations made by a local authority in relation to a relevant proposal. It enables a local authority to report on relevant proposals to the Secretary of State in certain circumstances. It also provides for the duties, under regulation 23, of a responsible person who is a provider of services to be discharged by a clinical commissioning group or groups or the National Health Service Commissioning Board (“the Board”) responsible for arranging the provision of services to which the relevant proposal relates.
+
+Regulation 24 sets out proposals to which the duty to consult under regulation 23 does not apply.
+
+Regulation 25 enables the Secretary of State to give Directions to the Board and the Board to give Directions to a clinical commissioning group in relation to proposals on which the local authority has reported to the Secretary of State.
+
+Regulation 26 imposes duties on responsible persons to provide a local authority with information about the planning, provision and operation of health services in the area of the authority as it may reasonably require to discharge its health scrutiny functions.
+
+Regulation 27 requires persons who are members or employees of responsible persons to comply with requests by local authorities to attend before them to answer questions which the authorities consider necessary for discharging their health scrutiny functions.
+
+Regulation 28 enables a local authority to make arrangements for the discharge of its health scrutiny functions by an overview and security committee of its or of another local authority in certain circumstances.
+
+Regulation 29 disapplies, in relation to health scrutiny functions of local authorities, various provisions of section 101 of the 1972 Act which relates to arrangements by a local authority for the discharge of its functions by a committee, sub-committee or officer of the authority or by another local authority. The effect of the disapplication is to prevent local authorities from making certain of those arrangements in relation to specified health scrutiny functions. This includes—
+
+- disapplication of section 101 in relation to the function of making reports to the Secretary of State on relevant proposals under regulation 23;
+- disapplication of section 101(1)(a) in relation to health scrutiny functions, in so far as it relates to an officer;
+- disapplication of section 101(5) which enables two or more local authorities to discharge their functions jointly. Joint arrangements are provided for in regulation 30.
+
+Regulation 30 enables local authorities to appoint a joint committee for the discharge of health scrutiny functions and requires local authorities to do so in certain circumstances.
+
+Regulation 31 enables a county council to arrange for members of an overview and scrutiny committee of its district councils to be appointed to their own overview and scrutiny committee (“co-option”).
+
+Regulation 32 enables the Secretary of State to direct local authorities to make arrangements for the discharge of their health scrutiny functions by overview and scrutiny committees, joint overview and scrutiny committees or to make arrangements for co-option.
+
+Regulation 33 revokes—
+
+- the Local Authority (Overview and Scrutiny Committees Health Scrutiny Functions) Regulations 2002 (“the 2002 Regulations”);
+- the Local Authority (Overview and Scrutiny Committees Health Scrutiny Functions) Amendment Regulations 2004.
+
+It also makes a consequential amendment to the Local Authorities (Committee System) (England) Regulations 2012.
+
+Regulation 34 makes transitional and saving provision in relation to matters outstanding under the 2002 Regulations as at the date of commencement of these Regulations.
+
+A full Impact Assessment has not been produced for this instrument as no or no significant impact on the private sector or civil society organisations is foreseen. A full impact assessment has been produced in relation to the relevant provisions of the 2012 Act and a copy is available at http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsLegislation/DH\_123583.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22) (“the 2000 Act”). Sections 9DA, 9J and 9JA were inserted by paragraph 1 of Schedule 2 to the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20) (“the 2011 Act”). There are no relevant amendments to section 105 of the 2000 Act.
+
+[^f00002]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41) (“the 2006 Act”). Section 244 is amended by section 121(4) of the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28) (“the 2007 Act”), paragraphs 73 and 74 of Schedule 3 to the 2011 Act and section 190(1) to (7) of the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”). Section 245 is amended by section 127(3) of the 2007 Act, paragraphs 73 and 75 of Schedule 3 to the 2011 Act and section 191(1) to (5) of the 2012 Act. Section 247 is amended by section 191(10) to (13) of the 2012 Act. Paragraph 7B of Schedule 1 to the 2006 Act is inserted by section 143(1) of the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14) (“the 2008 Act”) and is amended by section 17(2) and (8) of the 2012 Act. The powers conferred by the 2006 Act which are exercised in making these Regulations are exercisable by the Secretary of State only in relation to England by virtue of section 271(1) of the 2006 Act.
+
+[^f00003]: Footnote: [2011 c.20](https://www.legislation.gov.uk/ukpga/2011/20).
+
+[^f00004]: Footnote: [2012 c.7](https://www.legislation.gov.uk/ukpga/2012/7).
+
+[^key-eb13b0c03753d5b1c63114c1bde79adc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/218/regulation/1) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^key-289c01bbfd8fe364754ae7f838e1004b]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/4) substituted (31.3.2015) by [The Local Authorities (Public Health Functions and Entry to Premises by Local Healthwatch Representatives) and Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) (Amendment) Regulations 2015 (S.I. 2015/921)](https://www.legislation.gov.uk/uksi/2015/921), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/921/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2015/921/regulation/4/a)
+
+[^f00005]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^key-368407b752d8e6c36257da1eadee5290]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/218/regulation/2) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^f00006]: Footnote: [1989 c.42](https://www.legislation.gov.uk/ukpga/1989/42).
+
+[^key-13436426e33d00f02f4c2766268969a9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/218/regulation/3) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^f00007]: Footnote: There are no relevant amendments to section 101 of the 1972 Act.
+
+[^f00008]: Footnote: Established under section 194 of the 2012 Act.
+
+[^key-927169be7478c8f9fc589b1685806dbf]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/218/regulation/4) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^f00009]: Footnote: Relevant amendments were made by paragraph 25 of Schedule 11 to the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42) and by [S.I. 2001/1517](https://www.legislation.gov.uk/uksi/2001/1517).
+
+[^key-b810a9c3f9a7bdf58d84cdfc854cf259]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/218/regulation/5) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^f00010]: Footnote: There are no relevant amendments to section 104.
+
+[^key-03cec4fcf568d626c816b2fd5f1ac944]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/5/2) inserted (28.6.2022) by [Local Government (Disqualification) Act 2022 (c. 17)](https://www.legislation.gov.uk/ukpga/2022/17), [ss. 1(6)(a)](https://www.legislation.gov.uk/ukpga/2022/17/section/1/6/a), [6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2) (with [s. 5](https://www.legislation.gov.uk/ukpga/2022/17/section/5))
+
+[^key-c01e9c9fc63289491c21e2200d027fa6]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/5/2) substituted (28.6.2022) by [Local Government (Disqualification) Act 2022 (c. 17)](https://www.legislation.gov.uk/ukpga/2022/17), [ss. 1(6)(b)](https://www.legislation.gov.uk/ukpga/2022/17/section/1/6/b), [6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2) (with [s. 5](https://www.legislation.gov.uk/ukpga/2022/17/section/5))
+
+[^f00011]: Footnote: Section 80(1)(b) was amended by [S.I. 2012/2404](https://www.legislation.gov.uk/uksi/2012/2404). There are no relevant amendments to section 80(1)(d).
+
+[^key-7d9c1be117c4d240601ed4723f1d60b2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/218/regulation/6) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^f00012]: Footnote: There are no relevant amendments to section 13.
+
+[^key-e28e47b81e9dce2d294cfa0b295d97f3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/218/regulation/7) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^f00013]: Footnote: Schedule 1 was amended by the Education Act [1993 (c.35)](https://www.legislation.gov.uk/ukpga/1993/35), section 307, Schedule 19, paragraph 157 and Schedule 21, by the Police and Magistrates’ Court Act [1994 (c.29)](https://www.legislation.gov.uk/ukpga/1994/29), section 93, Schedule 4, paragraph 44 and Schedule 9, by the Local Government etc (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), section 180(2) and Schedule 14, by the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), section 120, Schedule 7, paragraph 2(8), Schedule 10, paragraph 31(5) and Schedule 24, by the Countryside and Rights of Way Act [2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37), Schedule 13, paragraph 4(7), by the Children Act [2004 (c.31)](https://www.legislation.gov.uk/ukpga/2004/31), sections 55(4) and 64, and Schedule 5, by the Local Democracy, Economic Development and Construction Act [2009 (c.20)](https://www.legislation.gov.uk/ukpga/2009/20), Schedule 6, paragraph 81 and by the Marine and Coastal Access Act [2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23), section 321, Schedule 14, paragraphs 12 and 15, and Schedule 22.
+
+[^key-8a1525b78412827ad15bac81264a8444]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/218/regulation/8) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^f00014]: Footnote: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17); section 25(3) was amended by paragraph 17 of Schedule 10 to the 2008 Act, by paragraph 56(b) of Schedule 17 to the 2012 Act, and by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^key-574b7ffb8812c83158c7a3fd23d0d37e]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2013/218/regulation/8) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 46(2)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/46/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^f00015]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00016]: Footnote: [1998 c.29](https://www.legislation.gov.uk/ukpga/1998/29). Section 1(1) of the Data Protection Act 1998 was amended by section 68(2) of the Freedom of Information Act [2000 (c.36)](https://www.legislation.gov.uk/ukpga/2000/36).
+
+[^f00017]: Footnote: [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254).
+
+[^f00018]: Footnote: Paragraph 7A of Schedule 1 to the 2006 Act is inserted by section 143(1) of the 2008 Act and is amended by section 17(2) and (7) of the 2012 Act.
+
+[^key-ef1916b00176ec3745db594509e1499d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/218/regulation/9) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^key-6dca2be29b828f092be9ab2355aaa24a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/218/regulation/10) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^f00019]: Footnote: *See* section 579 of the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56) for the meaning of “local authority”, which is applied to paragraph 7A(1) and (2) of Schedule 1 to the 1996 Act by virtue of paragraph 7A(4) of that Schedule.
+
+[^key-e9e3096ef9413729fe40b3ab3a7476a6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/218/regulation/11) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^key-480a195a9bb7064b2aca2b7c32400f4f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/218/regulation/12) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^key-2ffb3febaa39a70d42f37db1c85f5116]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/218/regulation/13) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^key-b2d79627cabff0a59ecc10a05728e851]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/218/regulation/14) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^key-e71a3d9cae39526b02f9873c23947207]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/218/regulation/15) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^key-afd4fcc3242f99b3c12e32c8808925b0]: Textual amendment: Words in [regs. 15-17](https://www.legislation.gov.uk/uksi/2013/218/regulation/15) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 46(3)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/46/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+
+[^key-a1c7d3831328404aa33d817b54588a4f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/218/regulation/16) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^key-d55f1c93403a1c7fb04be9927bfe4793]: Textual amendment: Words in [reg. 16(a)](https://www.legislation.gov.uk/uksi/2013/218/regulation/16/a) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(x)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/x) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+
+[^key-52068c45eb56e9bdad1adcc1004b250a]: Textual amendment: Words in [reg. 16(a)](https://www.legislation.gov.uk/uksi/2013/218/regulation/16/a) omitted (1.10.2021) by virtue of [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2021/974/regulation/7/2)
+
+[^key-7717f4791d359e345bfeb50f07b673b9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/218/regulation/17) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^key-22fc9c4f4dcdd1865a1c3f20cc4af536]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/218/regulation/18) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^f00020]: Footnote: [S.I. 2008/3080](https://www.legislation.gov.uk/uksi/2008/3080).
+
+[^key-381b57fc6319cbfc6938b30653316880]: Commencement: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2013/218/regulation/19/1)[(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/19/2)[(4)(a)](https://www.legislation.gov.uk/uksi/2013/218/regulation/19/4/a) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^key-3accd81704abb08934bb300079f0761f]: Commencement: [Reg. 19(4)(b)](https://www.legislation.gov.uk/uksi/2013/218/regulation/19/4/b) in force at 1.4.2013 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^f00021]: Footnote: [S.I. 2012/1313](https://www.legislation.gov.uk/uksi/2012/1313).
+
+[^key-33f1cd70a28036c8f74f1f023787b8b8]: Commencement: [Reg. 19(3)](https://www.legislation.gov.uk/uksi/2013/218/regulation/19/3) in force at 1.10.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/4) (as amended by [S.I. 2015/921](https://www.legislation.gov.uk/uksi/2015/921), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/921/regulation/4/a))
+
+[^key-1b2f138334e2f2bf924a5fc224f82de8]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2013/218/regulation/19/3) substituted (31.3.2015) by [The Local Authorities (Public Health Functions and Entry to Premises by Local Healthwatch Representatives) and Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) (Amendment) Regulations 2015 (S.I. 2015/921)](https://www.legislation.gov.uk/uksi/2015/921), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/921/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2015/921/regulation/4/b)
+
+[^key-5fa3e27360fff2aab06d7b6c1d8a2c64]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/218) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+
+[^f00022]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41); section 14D is inserted by section 25 of the 2012 Act.
+
+[^key-7f60fcd46076886876b584e8276d806e]: Commencement: [Reg. 19(4)(b)](https://www.legislation.gov.uk/uksi/2013/218/regulation/19/4/b) in force at 1.10.2015 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/4) (as amended by [S.I. 2015/921](https://www.legislation.gov.uk/uksi/2015/921), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/921/regulation/4/a))
+
+[^f00023]: Footnote: Section 2B of the National Health Service Act 2006 (“the 2006 Act”) is inserted by section 12 of the 2012 Act; section 111 of the 2006 Act is amended by section 29(1) and (2) of the 2012 Act; paragraphs 1 to 7B and 13 of Schedule 1 to the 2006 Act are amended by section 17(2) to (8) and section 17(13) of the 2012 Act.
+
+[^f00024]: Footnote: Section 2A of the 2006 Act is inserted by section 11 of the 2012 Act; the Secretary of State’s functions under sections 2A and 2B of the 2006 Act may be exercisable by a relevant authority by virtue of regulations made under section 6C(1) of the 2006 Act, as inserted by section 18 of the 2012 Act.
+
+[^key-0d41612df6976e427d56d64f315aa380]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/218/regulation/20) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^f00025]: Footnote: *See* section 244(3) of the 2006 Act for the meaning of “relevant NHS body” and “relevant health service provider”. Subsection (3) is substituted by section 190(1) and (4) of the 2012 Act.
+
+[^f00026]: Footnote: S*ee* section 275 of the 2006 Act for the meaning of “local authority”. *See* also [S.I. 1981/1473](https://www.legislation.gov.uk/uksi/1981/1473) which had the effect of extending the 2006 Act to the Isles of Scilly and has effect in part as if made under section 278 of the 2006 Act by virtue of paragraph 1 of Schedule 2 to the National Health Service (Consequential Provisions) Act [2006 (c.43)](https://www.legislation.gov.uk/ukpga/2006/43).
+
+[^key-5c7ed5b8258df06f9572f2b8ea5aa5c8]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2013/218/regulation/20/1) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [58(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/58/2/b)
+
+[^key-d345430fce83e971f25cca6b0d6fcd99]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2013/218/regulation/20/1) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [58(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/58/2/a)
+
+[^f00028]: Footnote: *See* section 275 of the 2006 Act for the meaning of “NHS body”. The definition was inserted by paragraph 138 of Schedule 4 to the 2012 Act.
+
+[^key-e91313909924f2f665a58e7b5f45067f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/218) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^key-a7107b57ca3341b6a5595e1cbf59bdc5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2013/218/regulation/21) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^f00029]: Footnote: *See* sections 244(4) and 275 of the 2006 Act for the meaning of “the health service” in this Part of the Regulations.
+
+[^f00030]: Footnote: *See* section 222 of the 2007 Act as to Local Healthwatch organisations. Section 222 is amended by section 183 of the 2012 Act.
+
+[^f00031]: Footnote: Section 221(2) is amended by section 182(1) to (4) of the 2012 Act.
+
+[^f00032]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28) (“the 2007 Act”).
+
+[^f00033]: Footnote: *See* section 222(2B) which is substituted by section 183(2) of the 2012 Act, and the definition of “local authority” in section 229(1) of the 2007 Act.
+
+[^f00034]: Footnote: Section 223 is amended by section 184 of the 2012 Act. The definition of “Local Healthwatch contractor” is inserted by section 184(1) and (6) of that Act – *see* section 223(3).
+
+[^f00035]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-2140aa57d854fe0c8d450a5cd87c95fb]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2013/218/regulation/22) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^key-4d214c4502a4a6762fcadda92a40b5b8]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2013/218/regulation/23) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^key-1b4e8d76b1f2e6f20f4b597f19efadd2]: Textual amendment: [Reg. 23(5A)](https://www.legislation.gov.uk/uksi/2013/218/regulation/23/5A) inserted (31.1.2024) by [The Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) (Amendment and Saving Provision) Regulations 2024 (S.I. 2024/16)](https://www.legislation.gov.uk/uksi/2024/16), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2024/16/regulation/1/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/16/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/16/regulation/3))
+
+[^key-4ec46d965568beedad1cdafeb86690c2]: Textual amendment: [Reg. 23(6)-(11)](https://www.legislation.gov.uk/uksi/2013/218/regulation/23/6) omitted (31.1.2024) by virtue of [The Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) (Amendment and Saving Provision) Regulations 2024 (S.I. 2024/16)](https://www.legislation.gov.uk/uksi/2024/16), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2024/16/regulation/1/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/16/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/16/regulation/3))
+
+[^key-bbfaaa2e439ffe90bdc339274ccf5d5b]: Textual amendment: Words in [reg. 23(14)](https://www.legislation.gov.uk/uksi/2013/218/regulation/23/14) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [59(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/59/2)
+
+[^key-c36444431225ea3966fd5c7014dd3110]: Commencement: [Reg. 24(a)](https://www.legislation.gov.uk/uksi/2013/218/regulation/24/a)[(b)(i)](https://www.legislation.gov.uk/uksi/2013/218/regulation/24/b/i) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^key-710b153567f0bc4aa5ed051d357019a9]: Textual amendment: Words in [reg. 24(a)](https://www.legislation.gov.uk/uksi/2013/218/regulation/24/a) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [59(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/59/3)
+
+[^f00036]: Footnote: Sections 65F and 65I were inserted by section 16 of the Health Act [2009 (c.21)](https://www.legislation.gov.uk/ukpga/2009/21). Section 65F was amended by section 176(1) and (2) of, and paragraphs 1 and 15 of Schedule 14 to, the 2012 Act. Section 65I was amended by section 176(8) of, and paragraphs 1 and 18 of Schedule 14 to, the 2012 Act.
+
+[^key-0c957a25406ee666e9d699732f2e4a1c]: Commencement: [Reg. 24(b)(ii)](https://www.legislation.gov.uk/uksi/2013/218/regulation/24/b/ii) comes into force in accordance with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/3)
+
+[^key-900b92c56d1b087a22e5c6c895e42471]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/2013/218/regulation/25) omitted (31.1.2024) by virtue of [The Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) (Amendment and Saving Provision) Regulations 2024 (S.I. 2024/16)](https://www.legislation.gov.uk/uksi/2024/16), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2024/16/regulation/1/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2024/16/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/16/regulation/3))
+
+[^key-b47d3f8b7e75ede1b64f8ac9f21e2fe6]: Commencement: [Reg. 26(1)-(6)(7)(a)](https://www.legislation.gov.uk/uksi/2013/218/regulation/26/1) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^key-9a0bb8e0c52e51aade690a68260dad4e]: Commencement: [Reg. 26(7)(b)](https://www.legislation.gov.uk/uksi/2013/218/regulation/26/7/b) comes into force in accordance with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/3)
+
+[^key-d063d984b47909d97e561a2a1c62654b]: Commencement: [Reg. 27(1)-(4)](https://www.legislation.gov.uk/uksi/2013/218/regulation/27/1), [(5)(a)](https://www.legislation.gov.uk/uksi/2013/218/regulation/27/5/a) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^f00037]: Footnote: *See* section 244(3A) and (3B) of the 2006 Act for the meaning of “member”. Subsections (3A) and (3B) were inserted by section 190(1) and (5) of the 2012 Act.
+
+[^f00038]: Footnote: *See* section 244(3B) as to an employee of a body which is a member of a clinical commissioning group or relevant health service provider.
+
+[^key-078ea5c7410a334f1aaafc369da3b6c4]: Commencement: [Reg. 27(5)(b)](https://www.legislation.gov.uk/uksi/2013/218/regulation/27/5/b) comes into force in accordance with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/3)
+
+[^key-6b447a550d82c6f0c4ab1344e1705dea]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2013/218/regulation/28) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^key-cd4f7f095c882f3b77eba29ddab5440a]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2013/218/regulation/29) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^key-07cfcbaab717a4da185e78dead2b66af]: Textual amendment: [Reg. 29(1)](https://www.legislation.gov.uk/uksi/2013/218/regulation/29/1) omitted (31.1.2024) by virtue of [The Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) (Amendment and Saving Provision) Regulations 2024 (S.I. 2024/16)](https://www.legislation.gov.uk/uksi/2024/16), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2024/16/regulation/1/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2024/16/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/16/regulation/3))
+
+[^f00040]: Footnote: Subsection (13) was amended by paragraph 15 of Schedule 14 to the Local Government Act 1985, section 332(1) of the Greater London Authority Act 1999, paragraphs 10 and 19 of Schedule 6 to the Local Democracy, Economic Development and Construction Act 2009, paragraphs 1 and 9 of Schedule 13 to the 2007 Act and Schedule 13 to the Education Reform Act 1988.
+
+[^key-49a30c5a6a99398b01c12d5f31a6f118]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2013/218/regulation/30) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^f00041]: Footnote: Section 9FA was inserted by paragraph 1 of Schedule 2 to the 2011 Act.
+
+[^f00042]: Footnote: Section 9F was inserted by paragraph 1 of Schedule 2 to the 2011 Act.
+
+[^f00043]: Footnote: Section 246 is amended by paragraphs 6 and 9 of Schedule 1 to the Health Act 2009, paragraphs 73 and 76 of Schedule 3 to the 2011 Act and section 191(6), to (9) of the 2012 Act. Schedule 17 is amended by section 208(6) of the 2012 Act.
+
+[^f00044]: Footnote: [2006 c.42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^key-f583b6c86290ddbcbd6e631740338411]: Textual amendment: [Reg. 30(4)](https://www.legislation.gov.uk/uksi/2013/218/regulation/30/4) omitted (31.1.2024) by virtue of [The Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) (Amendment and Saving Provision) Regulations 2024 (S.I. 2024/16)](https://www.legislation.gov.uk/uksi/2024/16), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2024/16/regulation/1/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2024/16/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/16/regulation/3))
+
+[^key-b3a46bebaca9d9916008520d1e40f727]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2013/218/regulation/31) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^key-747be6532bcd45feb4e40febc0f19395]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2013/218/regulation/32) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^key-3cc4c1ed56dc03d440efc6263199b475]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2013/218/regulation/33) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)
+
+[^f00045]: Footnote: [S.I. 2002/3048](https://www.legislation.gov.uk/uksi/2002/3048), as amended by [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696), [2004/1427](https://www.legislation.gov.uk/uksi/2004/1427), [2006/562](https://www.legislation.gov.uk/uksi/2006/562), [2008/528](https://www.legislation.gov.uk/uksi/2008/528), [2010/720](https://www.legislation.gov.uk/uksi/2010/720) and [2012/1641](https://www.legislation.gov.uk/uksi/2012/1641).
+
+[^f00046]: Footnote: [S.I. 2004/1427](https://www.legislation.gov.uk/uksi/2004/1427).
+
+[^f00047]: Footnote: [S.I. 2012/1020](https://www.legislation.gov.uk/uksi/2012/1020).
+
+[^key-519af34a4d3c3fecdb63d2f358029fd5]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2013/218/regulation/34) in force at 1.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2)

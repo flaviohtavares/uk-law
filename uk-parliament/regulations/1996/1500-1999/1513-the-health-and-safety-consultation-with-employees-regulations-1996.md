@@ -1,0 +1,344 @@
+---
+title: The Health and Safety (Consultation with Employees) Regulations 1996
+id: uksi/1996/1513
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1996-06-10'
+text_date: '2026-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1996/1513
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/1513/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health and Safety (Consultation with Employees) Regulations 1996
+
+> Text as at 2026-10-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1996 No. 1513
+
+HEALTH AND SAFETY
+
+The Health and Safety (Consultation with Employees) Regulations 1996
+
+Made
+
+10th June 1996
+
+Laid before Parliament
+
+1st July 1996
+
+Coming into force
+
+1st October 1996
+
+The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to consultation with employees on health and safety at work, in exercise of the powers conferred on him by the said section 2(2) and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
+
+## 1. Citation, extent and commencement[^key-ca14126735e0df8c06619f0ce5e0d32d]
+
+These Regulations, which extend to Great Britain, may be cited as the Health and Safety (Consultation with Employees) Regulations 1996 and shall come into force on 1st October 1996.
+
+## 2. Interpretation[^key-945edd21a6d86531a9bfcea712e2e15e]
+
+(1) In these Regulations, unless the context otherwise requires—
+
+- “the 1974 Act” means the Health and Safety at Work etc. Act 1974[^f00003];
+- “the 1977 Regulations” means the Safety Representatives and Safety Committees Regulations 1977[^f00004];
+- “employee” has the meaning assigned to it by section 53(1) of the 1974 Act but shall not include a person employed as a domestic servant in a private household; and “employer” shall be construed accordingly;
+- “the relevant statutory provisions” has the meaning assigned to it by section 53(1) of the 1974 Act;
+- “representatives of employee safety” shall be construed in accordance with regulation 4(1)(b);
+- “safety representative” has the meaning assigned to it by regulation 2(1) of the 1977 Regulations;
+- “workplace” means, in relation to an employee, any place or places where that employee is likely to work or which he is likely to frequent in the course of his employment or incidentally to it and, in relation to a representative of employee safety, any place or places where the employees he represents are likely so to work or frequent.
+
+(2) Any reference in these Regulations to consulting employees directly or consulting representatives of employee safety is a reference to consulting them pursuant to regulation 3 and regulation 4(1)(a) or (b), as the case may be.
+
+(3) Unless the context otherwise requires, any reference in these Regulations to—
+
+- (a) a numbered regulation or schedule is a reference to the regulation or schedule in these Regulations so numbered; and
+- (b) a numbered paragraph is a reference to the paragraph so numbered in the regulation or schedule in which the reference appears.
+
+## 3. Duty of employer to consult[^key-37d7d4bca19b44db13644cd41dbd66da]
+
+Where there are employees who are not represented by safety representatives under the 1977 Regulations, the employer shall consult those employees in good time on matters relating to their health and safety at work and, in particular, with regard to—
+
+- (a) the introduction of any measure at the workplace which may substantially affect the health and safety of those employees;
+- (b) his arrangements for appointing or, as the case may be, nominating persons in accordance with regulations 7(1) and 8(1)(b) of the Management of Health and Safety at Work Regulations 1999[^key-8e1e37f905b27ee00ae24b1af1717ada] or article 13(3)(b) of the Regulatory Reform (Fire Safety) Order 2005[^key-e964983ac0dba319fa9933805bc7ae2e] or regulation 12(3)(b) of the Fire Safety (Scotland) Regulations 2006[^key-07303f98027408a7f54173f9cd5f84d0];
+- (c) any health and safety information he is required to provide to those employees by or under the relevant statutory provisions;
+- (d) the planning and organisation of any health and safety training he is required to provide to those employees by or under the relevant statutory provisions; and
+- (e) the health and safety consequences for those employees of the introduction (including the planning thereof) of new technologies into the workplace.
+
+## 4. Persons to be consulted[^key-1bb5500cb60ab35f7601d3fb2088fcf7]
+
+(1) The consultation required by regulation 3 is consultation with either—
+
+- (a) the employees directly; or
+- (b) in respect of any group of employees, one or more persons in that group who were elected, by the employees in that group at the time of the election, to represent that group for the purposes of such consultation (and any such persons are in these Regulations referred to as “representatives of employee safety”).
+
+(2) Where an employer consults representatives of employee safety he shall inform the employees represented by those representatives of—
+
+- (a) the names of those representatives; and
+- (b) the group of employees represented by those representatives.
+
+(3) An employer shall not consult a person as a representative of employee safety if—
+
+- (a) that person has notified the employer that he does not intend to represent the group of employees for the purposes of such consultation;
+- (b) that person has ceased to be employed in the group of employees which he represents;
+- (c) the period for which that person was elected has expired without that person being re-elected; or
+- (d) that person has become incapacitated from carrying out his functions under these regulations;
+
+and where pursuant to this paragraph an employer discontinues consultation with that person he shall inform the employees in the group concerned of that fact.
+
+(4) Where an employer who has been consulting representatives of employee safety decides to consult employees directly he shall inform the employees and the representatives of that fact.
+
+## 5. Duty of employer to provide information[^key-83925e04df2b14974b025d0d3ae2b27c]
+
+(1) Where an employer consults employees directly he shall, subject to paragraph (3), make available to those employees such information, within the employer’s knowledge, as is necessary to enable them to participate fully and effectively in the consultation.
+
+(2) Where an employer consults representatives of employee safety he shall, subject to paragraph (3), make available to those representatives such information, within the employer’s knowledge, as is—
+
+- (a) necessary to enable them to participate fully and effectively in the consultation and in the carrying out of their functions under these Regulations;
+- (b) contained in any record which he is required to keep by regulation 12 of the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013[^key-a24b7a74e9d1982f123a1e6012127c30] and which relates to the workplace or the group of employees represented by those representatives.
+
+(3) Nothing in paragraph (1) or (2) shall require an employer to make available any information—
+
+- (a) the disclosure of which would be against the interests of national security;
+- (b) which he could not disclose without contravening a prohibition imposed by or under any enactment;
+- (c) relating specifically to an individual, unless he has consented to its being disclosed;
+- (d) the disclosure of which would, for reasons other than its effect on health or safety, cause substantial injury to the employer’s undertaking or, where the information was supplied to him by some other person, to the undertaking of that other person; or
+- (e) obtained by the employer for the purpose of bringing, prosecuting or defending any legal proceedings;
+
+or to provide or allow the inspection of any document or part of a document which is not related to health or safety.
+
+## 6. Functions of representatives of employee safety[^key-316f7efd864a28c129963a0c37ded800]
+
+Where an employer consults representatives of employee safety each of those representatives shall, for the period for which that representative is so consulted, have the following functions—
+
+- (a) to make representations to the employer on potential hazards and dangerous occurrences at the workplace which affect, or could affect, the group of employees he represents;
+- (b) to make representations to the employer on general matters affecting the health and safety at work of the group of employees he represents and, in particular, on such matters as he is consulted about by the employer under regulation 3; and
+- (c) to represent the group of employees he represents in consultations at the workplace with inspectors appointed under section 19(1) of the 1974 Act.
+
+## 7. Training, time off and facilities for representatives of employee safety and time off for candidates[^key-46a1b5637fb0847d8a707354f28a52e1]
+
+(1) Where an employer consults representatives of employee safety, he shall—
+
+- (a) ensure that each of those representatives is provided with such training in respect of that representative’s functions under these Regulations as is reasonable in all the circumstances and the employer shall meet any reasonable costs associated with such training including travel and subsistence costs; and
+- (b) permit each of those representatives to take such time off with pay during that representative’s working hours as shall be necessary for the purpose of that representative performing his functions under these Regulations or undergoing any training pursuant to paragraph (1)(a).
+
+(2) An employer shall permit a candidate standing for election as a representative of employee safety reasonable time off with pay during that person’s working hours in order to perform his functions as such a candidate.
+
+(3) Schedule 1 (pay for time off) and Schedule 2 (provisions as to employment tribunals[^M_F_30350cc1-5783-4d96-d3e0-bfb28f2e1179]) shall have effect.
+
+(4) An employer shall provide such other facilities and assistance as a representative of employee safety may reasonably require for the purpose of carrying out his functions under these Regulations.
+
+## 8. Amendment of the Employment Rights Act 1996[^key-a3295db089511c8b97317fa8313d6439]
+
+In sections 44(1) (health and safety cases: right not to suffer detriment) and 100(1) (health and safety cases: unfair dismissal) of the Employment Rights Act 1996[^f00007], after paragraph (b) insert—
+
+> - (ba) the employee took part (or proposed to take part) in consultation with the employer pursuant to the Health and Safety (Consultation with Employees) Regulations 1996 or in an election of representatives of employee safety within the meaning of those Regulations (whether as a candidate or otherwise),
+
+.
+
+## 9. Exclusion of civil liability[^key-760a76e7d56315747a060ee3e753f8d0]
+
+Breach of a duty imposed by these Regulations shall, subject to regulation 7(3) and Schedule 2, not confer any right of action in any civil proceedings.
+
+## 10. Application of health and safety legislation[^key-7050054ba91a249e0f08a2ac82c0e656]
+
+Sections 16 to 21, 23, 24, 26, 28, 33, 34, 36 to 39, 42(1) to (3) and 46 of the 1974 Act, the Health and Safety (Enforcing Authority) Regulations 1989[^f00008] and the Health and Safety (Training for Employment) Regulations 1990[^f00009] shall apply as if any references therein to health and safety regulations or to the relevant statutory provisions included references to these Regulations.
+
+## 11. Application to the Crown and armed forces[^key-8202a3593fc3719ec072d60613bdbcd0]
+
+(1) Section 48 of the 1974 Act shall, subject to paragraph (2), apply in respect of these Regulations as it applies in respect of regulations made under Part I of that Act.
+
+(2) These Regulations shall apply in respect of members of the armed forces of the Crown subject to the following—
+
+- (a) references to “representatives of employee safety”(in regulation 4(1)(b) and elsewhere) shall, in respect of any group of employees, be references to one or more persons in that group who were appointed by the employer to represent that group for the purposes of such consultation;
+- (b) references to “elected” and “re-elected” in regulation 4(3)(c) shall be, respectively, references to “appointed” and “re-appointed”; and
+- (c) regulation 7(1)(b), (2) and (3) shall not apply.
+
+## 12. Disapplication to sea-going ships[^key-994cd536148a694c9a6bf7d5d59403d9]
+
+These Regulations shall not apply to or in relation to the master or crew of a sea-going ship or to the employer of such persons in respect of the normal ship-board activities of a ship’s crew under the direction of the master.
+
+## 13. Amendment of the 1977 Regulations[^key-c7b2018edb13273583e4742fbb3f5a89]
+
+In regulation 3(1) of the 1977 Regulations the words “, except in the case of employees employed in a mine within the meaning of section 180 of the Mines and Quarries Act 1954 which is a coal mine” shall be omitted.
+
+John Selwyn Gummer
+
+Secretary of State for the Environment
+
+## SCHEDULE 1 — PAY FOR TIME OFF
+
+Regulation 7(3)
+
+**1.**[^key-2364a54305d8505845e3733fa48bdbe8] Subject to paragraph 3 below, where a person is permitted to take time off in accordance with regulation 7(1)(b) or 7(2), his employer shall pay him—
+
+- (a) where the person’s remuneration for the work he would ordinarily have been doing during that time does not vary with the amount of work done, as if he had worked at that work for the whole of that time;
+- (b) where the person’s remuneration for that work varies with the amount of work done, an amount calculated by reference to the average hourly earnings for that work (ascertained in accordance with paragraph 2).
+
+**2.**[^key-7f9b1501d03eb8ef43580afbb26e8e1a] The average hourly earnings referred to in paragraph 1(b) are the average hourly earnings of the person concerned or, if no fair estimate can be made of those earnings, the average hourly earnings for work of that description of persons in comparable employment with the same employer or, if there are no such persons, a figure of average hourly earnings which is reasonable in all the circumstances.
+
+**3.**[^key-8925c6c4d188006cd72c59ad258401c9] Any payment to a person by an employer in respect of a period of time off—
+
+- (a) if it is a payment which discharges any liability which the employer may have under sections 168 or 169 of the Trade Union and Labour Relations (Consolidation) Act 1992[^f00010], in respect of that period, shall also discharge his liability in respect of the same period under regulation 7(1)(b) or 7(2);
+- (b) if it is a payment under any contractual obligation, shall go towards discharging the employer’s liability in respect of the same period under regulation 7(1)(b) or 7(2);
+- (c) if it is a payment under regulation 7(1)(b) or 7(2), shall go towards discharging any liability of the employer to pay contractual remuneration in respect of the same period.
+
+## SCHEDULE 2 — PROVISIONS AS TO EMPLOYMENT TRIBUNALS[^M_F_068f4390-3b69-4db1-b801-fbe523938e2a]
+
+Regulation 7(3)
+
+**1.**[^key-845b7652add66e3ed5d558d8c16efdc4] An employment tribunal[^M_F_4c10ce4c-e3d0-44ec-c76f-92489e0fdd92] shall have jurisdiction to determine complaints in accordance with the following provisions of this Schedule.
+
+**2.**[^key-394cc04628cc533c2e2739b4aa5e4560] A person (referred to in this Schedule as the “complainant”) may present a complaint to an employment tribunal[^M_F_f5d5944a-6515-455c-e94c-d92d465aa189] that—
+
+- (a) his employer has failed to permit him to take time off in accordance with regulation 7(1)(b) or 7(2); or
+- (b) his employer has failed to pay him in accordance with regulation 7(1)(b) or 7(2) and Schedule 1.
+
+**3.**[^key-7a83b07cf1e320b674de03b7b69cb53f] Subject to paragraph 3A an employment tribunal[^key-5d67ab668b86056bc895d589fdcc8e1a] shall not consider a complaint under paragraph 2 unless it is presented within six[^key-bc142516e76fc9dd2a36933fda95d44f] months of the date when the failure occurred or within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented within the period of six months.
+
+**3A.**[^key-1e1f29d4e092ad7a327a15a15098116f] (1) In this paragraph—
+
+- (a) Day A is the day on which the worker concerned complies with the requirement in subsection (1) of section 18A of the Employment Tribunals Act 1996 (requirement to contact ACAS before instituting proceedings) in relation to the matter in respect of which the proceedings are brought, and
+- (b) Day B is the day on which the worker concerned receives or, if earlier, is treated as receiving (by virtue of regulations made under subsection (11) of that section) the certificate issued under subsection (4) of that section.
+
+(2) In working out when the six[^key-2561c9c66860e3d1d65d614a840e7ada] month time limit set by paragraph 3 expires the period beginning with the day after Day A and ending with Day B is not to be counted.
+
+(3) If the six[^key-b7f16554d63b949a2bcaf44b27f5aaa1] month time limit set by paragraph 3 would (if not extended by this sub-paragraph) expire during the period beginning with Day A and ending one month after Day B, the time limit expires instead at the end of that period.
+
+(4) The power conferred on the employment tribunal by paragraph 3 to extend the six[^key-b0a0545bab051f2de6fe654929310c49] month time limit set by that paragraph is exercisable in relation to that time limit as extended by this paragraph.
+
+**4.**[^key-fbacdb19600fb9ce57a7926bfa0f8ee6] Where an employment tribunal[^M_F_3ab9c808-8086-40b6-fd22-189ac0888f30] finds a complaint under paragraph 2(a) well-founded the tribunal shall make a declaration to that effect and may make an award of compensation to be paid by the employer to the complainant which shall be of such amount as the tribunal considers just and equitable in all the circumstances having regard to the employer’s default in failing to permit time off to be taken by the complainant and to any loss sustained by the complainant which is attributable to the matters complained of.
+
+**5.**[^key-3814d51f788f7e1be3fbe00ea403e1f2] Where on a complaint under paragraph 2(b) an employment tribunal[^M_F_58664e7c-fb32-48f5-a58b-e911124e1e38] finds that the employer has failed to pay the complainant the whole or part of the amount required to be paid in accordance with regulation 7(1)(b) or 7(2) and Schedule 1, the tribunal shall order the employer to pay the complainant the amount which it finds due to him.
+
+(This note is not part of the Regulations)
+
+These Regulations provide for further implementation, within Great Britain, of Articles 10, 11 and 12 of Council Directive [89/391/EEC](https://www.legislation.gov.uk/european/directive/1989/0391) (“the Framework Directive”, OJ No. L183, 29.6.89, p.1) on the introduction of measures to encourage improvements in the health and safety of employees at work. The Safety Representatives and Safety Committees Regulations 1977 (S.I. [1977/500](https://www.legislation.gov.uk/uksi/1977/500) as amended by S.I. [1992/2051](https://www.legislation.gov.uk/uksi/1992/2051)) already implement those Articles in cases where employees are represented by safety representatives appointed by a trade union recognised by their employer. These Regulations require employers to consult either their employees directly or representatives elected by their employees where there are employees not represented by safety representatives appointed by trade unions under the 1977 Regulations. The need for this further implementation of those Articles in the Framework Directive arises from the judgment of the European Court of Justice in cases C382/92 and C383/92, Commission of the European Communities v. United Kingdom of Great Britain and Northern Ireland (\[1994\] I.C.R. 664) which, although the judgment was in respect of other Directives, established the principle that rights to consultation had to be accorded to all employees and could not be limited to those employees who were represented by a trade union recognised by their employer.
+
+Regulation 3 requires employers to consult their employees in good time on matters relating to their health and safety at work and, in particular, on certain specific issues.
+
+Regulation 4 provides that consultation must be either with the employees directly or, in respect of any group of employees, with representatives elected by that group.
+
+Regulation 5 requires an employer to make certain information available to those whom he consults.
+
+Regulation 6 sets out the functions of elected representatives of employee safety who are consulted by their employer.
+
+Regulation 7 gives such representatives the right to a reasonable amount of training, paid for by their employer, and to time off with pay for such training and for carrying out their functions. Candidates for election are also given the right to time off with pay. Pay for time off is calculated in accordance with rules set out in Schedule 1. Jurisdiction is conferred on industrial tribunals to adjudicate on claims arising out of such rights (Schedule 2).
+
+Regulation 8 amends the Employment Rights Act 1996 to protect an employee who takes part in consultation with an employer under these Regulations, or who takes part in an election, in cases of dismissal or other detriment arising out of such participation.
+
+Regulation 9 excludes civil liability for breach of a duty imposed by these Regulations.
+
+Regulation 10 applies certain provisions of health and safety legislation (including enforcement provisions) so that they operate in respect of these Regulations.
+
+Regulation 11 applies these Regulations to the Crown subject to modifications in respect of the armed forces of the Crown.
+
+Regulation 12 disapplies these Regulations to the master or crew of sea-going ships.
+
+Regulation 13 amends the 1977 Regulations so that they apply in respect of employees working in mines.
+
+A copy of the compliance cost assessment prepared in respect of these Regulations can be obtained from the Health and Safety Executive, Rose Court, 2 Southwark Bridge, London SE1 9HS. A copy has been placed in the Library of each House of Parliament.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1996/266](https://www.legislation.gov.uk/uksi/1996/266).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^key-ca14126735e0df8c06619f0ce5e0d32d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^key-945edd21a6d86531a9bfcea712e2e15e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1996/1513/regulation/2) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^f00003]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
+
+[^f00004]: Footnote: S.I. [1977/500](https://www.legislation.gov.uk/uksi/1977/500) as amended by S.I. [1992/2051](https://www.legislation.gov.uk/uksi/1992/2051).
+
+[^key-37d7d4bca19b44db13644cd41dbd66da]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1996/1513/regulation/3) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^key-8e1e37f905b27ee00ae24b1af1717ada]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/uksi/1996/1513/regulation/3/b) substituted (29.12.1999) by [The Management of Health and Safety at Work 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
+
+[^key-e964983ac0dba319fa9933805bc7ae2e]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/uksi/1996/1513/regulation/3) substituted (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [41(2)](https://www.legislation.gov.uk/uksi/2005/1541/article/41/2) (with [arts. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49), [51](https://www.legislation.gov.uk/uksi/2005/1541/article/51)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
+
+[^key-07303f98027408a7f54173f9cd5f84d0]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/uksi/1996/1513/regulation/3/b) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) (No. 2) Order 2006 (S.S.I. 2006/457)](https://www.legislation.gov.uk/ssi/2006/457), [art. 1](https://www.legislation.gov.uk/ssi/2006/457/article/1), [sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2006/457/schedule/1/paragraph/3)
+
+[^key-1bb5500cb60ab35f7601d3fb2088fcf7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1996/1513/regulation/4) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^key-83925e04df2b14974b025d0d3ae2b27c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1996/1513/regulation/5) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^key-a24b7a74e9d1982f123a1e6012127c30]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/1996/1513/regulation/5/2/b) substituted (1.10.2013) by [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (S.I. 2013/1471)](https://www.legislation.gov.uk/uksi/2013/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/3), [18(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) Table 2 (with [reg. 19](https://www.legislation.gov.uk/uksi/2013/1471/regulation/19))
+
+[^key-316f7efd864a28c129963a0c37ded800]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1996/1513/regulation/6) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^key-46a1b5637fb0847d8a707354f28a52e1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1996/1513/regulation/7) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^M_F_30350cc1-5783-4d96-d3e0-bfb28f2e1179]: Textual amendment: Words in Regulations substituted (1.8.1998) by [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2), [17(1)](https://www.legislation.gov.uk/ukpga/1998/8/section/17/1); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
+
+[^key-a3295db089511c8b97317fa8313d6439]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1996/1513/regulation/8) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^f00007]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^key-760a76e7d56315747a060ee3e753f8d0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1996/1513/regulation/9) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^key-7050054ba91a249e0f08a2ac82c0e656]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1996/1513/regulation/10) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^f00008]: Footnote: S.I. [1989/1903](https://www.legislation.gov.uk/uksi/1989/1903).
+
+[^f00009]: Footnote: S.I. [1990/1380](https://www.legislation.gov.uk/uksi/1990/1380).
+
+[^key-8202a3593fc3719ec072d60613bdbcd0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1996/1513/regulation/11) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^key-994cd536148a694c9a6bf7d5d59403d9]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1996/1513/regulation/12) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^key-c7b2018edb13273583e4742fbb3f5a89]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1996/1513/regulation/13) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^key-2364a54305d8505845e3733fa48bdbe8]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1996/1513/schedule/1/paragraph/1) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^key-7f9b1501d03eb8ef43580afbb26e8e1a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1996/1513/schedule/1/paragraph/2) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^key-8925c6c4d188006cd72c59ad258401c9]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1996/1513/schedule/1/paragraph/3) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^f00010]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
+
+[^M_F_068f4390-3b69-4db1-b801-fbe523938e2a]: Textual amendment: Words in Regulations substituted (1.8.1998) by [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2), [17(1)](https://www.legislation.gov.uk/ukpga/1998/8/section/17/1); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
+
+[^key-845b7652add66e3ed5d558d8c16efdc4]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1996/1513/schedule/2/paragraph/1) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^M_F_4c10ce4c-e3d0-44ec-c76f-92489e0fdd92]: Textual amendment: Words in Regulations substituted (1.8.1998) by [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2), [17(1)](https://www.legislation.gov.uk/ukpga/1998/8/section/17/1); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
+
+[^key-394cc04628cc533c2e2739b4aa5e4560]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1996/1513/schedule/2/paragraph/2) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^M_F_f5d5944a-6515-455c-e94c-d92d465aa189]: Textual amendment: Words in Regulations substituted (1.8.1998) by [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2), [17(1)](https://www.legislation.gov.uk/ukpga/1998/8/section/17/1); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
+
+[^key-7a83b07cf1e320b674de03b7b69cb53f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1996/1513/schedule/2/paragraph/3) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^key-5d67ab668b86056bc895d589fdcc8e1a]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1996/1513/schedule/2/paragraph/3) substituted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/17)
+
+[^key-bc142516e76fc9dd2a36933fda95d44f]: Textual amendment: Word in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1996/1513/schedule/2/paragraph/3) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 5(1)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/5/1); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+
+[^key-1e1f29d4e092ad7a327a15a15098116f]: Textual amendment: [Sch. 2 para. 3A](https://www.legislation.gov.uk/uksi/1996/1513/schedule/2/paragraph/3A) inserted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/18)
+
+[^key-2561c9c66860e3d1d65d614a840e7ada]: Textual amendment: Word in [Sch. 2 para. 3A(2)](https://www.legislation.gov.uk/uksi/1996/1513/schedule/2/paragraph/3A/2) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/5/2/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+
+[^key-b7f16554d63b949a2bcaf44b27f5aaa1]: Textual amendment: Word in [Sch. 2 para. 3A(3)](https://www.legislation.gov.uk/uksi/1996/1513/schedule/2/paragraph/3A/3) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/5/2/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+
+[^key-b0a0545bab051f2de6fe654929310c49]: Textual amendment: Word in [Sch. 2 para. 3A(4)](https://www.legislation.gov.uk/uksi/1996/1513/schedule/2/paragraph/3A/4) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 5(2)(c)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/5/2/c); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+
+[^key-fbacdb19600fb9ce57a7926bfa0f8ee6]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1996/1513/schedule/2/paragraph/4) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^M_F_3ab9c808-8086-40b6-fd22-189ac0888f30]: Textual amendment: Words in Regulations substituted (1.8.1998) by [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2), [17(1)](https://www.legislation.gov.uk/ukpga/1998/8/section/17/1); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
+
+[^key-3814d51f788f7e1be3fbe00ea403e1f2]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1996/1513/schedule/2/paragraph/5) in force at 1.10.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1513/regulation/1)
+
+[^M_F_58664e7c-fb32-48f5-a58b-e911124e1e38]: Textual amendment: Words in Regulations substituted (1.8.1998) by [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2), [17(1)](https://www.legislation.gov.uk/ukpga/1998/8/section/17/1); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)

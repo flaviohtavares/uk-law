@@ -1,0 +1,157 @@
+---
+title: The Health Protection (Coronavirus, Travel from South Africa) (England) Regulations 2020
+id: uksi/2020/1644
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-12-23'
+text_date: '2021-01-15'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2020/1644
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/1644/pdfs/uksiem_20201644_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1644/pdfs/uksi_20201644_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1644/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health Protection (Coronavirus, Travel from South Africa) (England) Regulations 2020
+
+> Text as at 2021-01-15.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2020 No. 1644
+
+Public Health, England
+
+Transport, England
+
+The Health Protection (Coronavirus, Travel from South Africa) (England) Regulations 2020
+
+Made
+
+at 8.38 p.m. on 23rd December 2020
+
+Laid before Parliament
+
+29th December 2020
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 45B, 45F(2) and 45P(2) of the Public Health (Control of Disease) Act 1984 [^c24408771].
+
+## 1. Citation, commencement, interpretation and application[^key-f6add8f9ecc0bb9b48df9845f69e5bfe][^key-de844a55e706e05eb53b93c7bd22defe]
+
+(1) These Regulations may be cited as the Health Protection (Coronavirus, Travel from South Africa) (England) Regulations 2020.
+
+(2) Regulations 1, 3 and 4 come into force at 9.00 p.m. on 23rd December 2020.
+
+(3) Regulation 2 comes into force at 9.00 a.m. on 24th December 2020.
+
+(4) In these Regulations, “**the International Travel Regulations**” means the Health Protection (Coronavirus, International Travel) (England) Regulations 2020 [^c24408781].
+
+(5) These Regulations apply in relation to England only.
+
+## 2. Prohibition on the arrival of aircraft travelling directly from South Africa[^key-529d4712977332e1c7ff259c3031ff60]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the International Travel Regulations[^key-782d18fd9477469dbecc2b5f684efe60][^key-cb51c09d064a3402120e42e4f31b1573]
+
+(1) The International Travel Regulations are amended as follows.
+
+(2) In regulation 3 (requirement to provide information), after paragraph (10), insert—
+
+> (10A) Paragraph (10) does not apply in relation to a person who has, at any time in the period beginning with the 10th day before the date of their arrival in England, departed from or transited through a country or territory listed in Schedule B1.
+
+.
+
+(3) In regulation 4 (requirement to self-isolate)—
+
+- (a) in paragraph (1)(b), after “transited through a non-exempt country or territory” insert—
+
+  > , or
+  >
+  > - (c) is residing with another person (“B”), and B has arrived in England from a country or territory listed in Schedule B1 or has, within the period beginning with the 10th day before the date of B's arrival in England, departed from or transited through a country or territory listed in Schedule B1
+
+  ;
+- (b) in paragraph (3)—
+  - (i) in sub-paragraph (a), for “or (c)” substitute “ , (c) or (d) ”;
+  - (ii) in sub-paragraph (c), after “arranged under that paragraph” insert—
+
+    > , or
+    >
+    > - (d) where P is a person described in paragraph (1)(c) (residing with another person, “B”), at the address at which P is residing with B
+
+    ;
+- (c) after paragraph (7), insert—
+
+  > (7A) Where P is a person described in paragraph (1)(c) (residing with another person, “B”), P must self-isolate until the end of the period during which B is required to self-isolate.
+
+  ;
+- (d) after paragraph (13A), insert—
+
+  > (14) Paragraphs (13) and (13A) do not apply in relation to—
+  >
+  > - (a) a person who has, at any time in the period beginning with the 10th day before the date of their arrival in England, departed from or transited through a country or territory listed in Schedule B1, or
+  > - (b) a person residing with a person described in sub-paragraph (a).
+
+  .
+
+(4) After Schedule A1, insert—
+
+> **SCHEDULE B1 — Countries and territories subject to additional measures**
+>
+> Regulations 3 and 4
+>
+> South Africa
+
+.
+
+## 4. Transitional and saving provision[^key-137996bb1e3b56a7da4212b760703dd7][^key-faddb3681e59105fc3383eb66d365997]
+
+In relation to any person who arrived in England on or after 10th July 2020 but before 9.00 p.m. on 23rd December 2020, or any person residing with such a person, the International Travel Regulations apply as if the amendments made by regulation 3 had not been made.
+
+Signed by authority of the Secretary of State for Transport
+
+Robert Courts
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+*(This note is not part of the Regulations)*
+
+These Regulations prohibit the arrival in England of aircraft travelling directly from South Africa and amend the Health Protection (Coronavirus, International Travel) (England) Regulations 2020 (S.I. 2020/568) to—
+
+- (a) remove exemptions from the requirement to self-isolate and the requirement to complete a Passenger Locator Form for people who have arrived in England from South Africa or who have arrived in England from elsewhere and, during the 10 days preceding their arrival in England, have been in or transited through South Africa (“South Africa arrivals”);
+- (b) exclude South Africa arrivals and members of their household from the “Test to Release” regime;
+- (c) require people residing with South Africa arrivals to self-isolate.
+
+An impact assessment has not been produced for this instrument. An explanatory memorandum has been published alongside this instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^c24408771]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Part 2A was inserted by section 129 of the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).
+
+[^key-f6add8f9ecc0bb9b48df9845f69e5bfe]: Commencement: Reg. 1 in force at made date at 9.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1/2)
+
+[^key-de844a55e706e05eb53b93c7bd22defe]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1) in force at 23.12.2020 at 9.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1/2)
+
+[^c24408781]: Marginal citation: [S.I. 2020/568](https://www.legislation.gov.uk/uksi/2020/568), amended by [S.I. 2020/691](https://www.legislation.gov.uk/uksi/2020/691), 724, 799, 805, 813, 819, 841, 866, 890, 913, 959, 980, 1013, 1039, 1070, 1076, 1094, 1129, 1161, 1190, 1227, 1238, 1277, 1292, 1323, 1337, 1360, 1424, 1517 and 1595.
+
+[^key-529d4712977332e1c7ff259c3031ff60]: Textual amendment: Reg. 2 omitted (15.1.2021 at 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/47)](https://www.legislation.gov.uk/uksi/2021/47), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/47/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/47/regulation/3)
+
+[^key-782d18fd9477469dbecc2b5f684efe60]: Commencement: Reg. 3 in force at made date at 9.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1/2)
+
+[^key-cb51c09d064a3402120e42e4f31b1573]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1644/regulation/3) in force at 23.12.2020 at 9.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1/2)
+
+[^key-137996bb1e3b56a7da4212b760703dd7]: Commencement: Reg. 4 in force at made date at 9.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1/2)
+
+[^key-faddb3681e59105fc3383eb66d365997]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1644/regulation/4) in force at 23.12.2020 at 9.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1644/regulation/1/2)

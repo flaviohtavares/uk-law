@@ -1,0 +1,399 @@
+---
+title: The Social Security (Persons From Abroad) Miscellaneous Amendments Regulations 1996
+id: uksi/1996/30
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1996-01-11'
+text_date: '2014-01-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1996/30
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/30/pdfs/uksi_19960030_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1996/30/data.pdf
+pending_changes: 4
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Persons From Abroad) Miscellaneous Amendments Regulations 1996
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2014-01-01. See https://www.legislation.gov.uk/changes/affected/uksi/1996/30
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1996 No. 30
+
+SOCIAL SECURITY
+
+The Social Security (Persons From Abroad) Miscellaneous Amendments Regulations 1996
+
+Made
+
+11th January 1996
+
+Laid before Parliament
+
+11th January 1996
+
+Coming into force
+
+5th February 1996
+
+The Secretary of State for Social Security, in exercise of powers conferred upon him by sections 64(1), 68(4)(c)(i), 70(4), 71(6), 123(1), 124(1), 128(1), 129(1), 130(1) and (2), 131(1) and (3), 135, 137(1) and (2)(a) and (i) and 175(1) and (3) to (5) of the Social Security Contributions and Benefits Act 1992[^c1771281] and section 5(1)(r) of the Social Security Administration Act 1992[^c1771282] and of all other powers enabling him in that behalf, and so far as they relate to housing benefit and council tax benefit after consultation with organisations appearing to him to be representative of the authorities concerned[^c1771283], and after reference to the Social Security Advisory Committee[^c1771284], hereby makes the following Regulations:—
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Security (Persons From Abroad) Miscellaneous Amendments Regulations 1996 and shall come into force on 5th February 1996.
+
+(2)[^key-45cc081cd2040fb993cc9b77341d69e1] In these Regulations, unless the context otherwise requires —
+
+- [^c1771285]“the Attendance Allowance Regulations" means the Social Security (Attendance Allowance) Regulations 1991;
+- [^c1771286]“the Council Tax Benefit Regulations" means the Council Tax Benefit (General) Regulations 1992;
+- [^c1771287]“the Disability Living Allowance Regulations" means the Social Security (Disability Living Allowance) Regulations 1991;
+- [^c1771288]“the Disability Working Allowance Regulations" means the Disability Working Allowance (General) Regulations 199;1
+- [^c1771289]“the Family Credit Regulations" means the Family Credit (General) Regulations 1987;
+- [^c1771290]“the Housing Benefit Regulations" means the Housing Benefit (General) Regulations 1987;
+- [^c1771291]“the Invalid Care Allowance Regulations" means the Social Security (Invalid Care Allowance) Regulations 1976;
+- [^c1771292]“the Income Support Regulations" means the Income Support (General) Regulations 1987;
+- [^c1771293]“the Payments on Account, Overpayments and Recovery Regulations" means the Social Security (Payments on account, Overpayments and Recovery) Regulations 1988;
+- [^c1771294]“the Severe Disablement Allowance Regulations" means the Social Security (Severe Disablement Allowance) Regulations 1984.
+
+## Amendment of regulation 2 of the Attendance Allowance Regulations
+
+## 2.
+
+In regulation 2 of the Attendance Allowance Regulations (conditions as to residence and presence in Great Britain) —
+
+- (a) after paragraph (1)(a)(i) there shall be inserted—
+
+  > - (ia) subject to paragraph (1A), his right to reside or remain in Great Britain is not subject to any limitation or condition, and; and
+- (b) after paragraph (1) there shall be inserted—
+
+  > (1A) For the purposes of paragraph (1)(a)(ia), a person’s right to reside or remain in Great Britain is not to be treated as if it were subject to a limitation or condition if—
+  >
+  > - (a) he is a person recorded by the Secretary of State as a refugee within the definition in Article 1 of the Convention relating to the Status of Refugees done at Geneva on 28th July 1951 [^c1771295], as extended by Article 1(2) of the Protocol relating to the Status of Refugees done at New York on 31st January 1967; [^c1771296]
+  > - (b) he is a person who has been granted exceptional leave outside the provisions of the immigration rules within the meaning of the Immigration Act 1971 [^c1771297] to remain in the United Kingdom by the Secretary of State;
+  > - (c) he is a national, or a member of the family of a national, of a State contracting party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993; [^c1771298]
+  > - (d) he is a person who is—
+  >   - (i) lawfully working in Great Britain and is a national of a State with which the Community has concluded an Agreement under article 238 [^c1771299] of the Treaty establishing the European Community [^c1771300] providing, in the field of social security, for the equal treatment of workers who are nationals of the signatory State and their families, or
+  >   - (ii) a member of the family of, and living with, such a person; or
+  > - (e) he is a person in respect of whom there is an Order in Council under section 179 of the Social Security Administration Act 1992 [^c1771301] giving effect to a reciprocal agreement which, for the purposes of attendance allowance, has the effect that periods of presence or residence in another country are to be treated as periods of presence or residence in Great Britain..
+
+## 3. Amendment of regulation 4A of the Council Tax Benefit Regulations[^key-ad13a024c4a40d1cc92bac9f455c7a10]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Amendment of regulation 2 of the Disability Living Allowance Regulations
+
+## 4.
+
+In regulation 2 of the Disability Living Allowance Regulations [^c1771306] (conditions as to residence and presence in Great Britain)—
+
+- (a) after paragraph (1)(a)(i) there shall be inserted—
+
+  > - (ia) subject to paragraph (1A), his right to reside or remain in Great Britain is not subject to any limitation or condition, and;
+
+  and
+- (b) after paragraph (1) there shall be inserted—
+
+  > (1A) For the purposes of paragraph (1)(a)(ia), a person’s right to reside or remain in Great Britain is not to be treated as if it were subject to a limitation or condition if—
+  >
+  > - (a) he is a person recorded by the Secretary of State as a refugee within the definition in Article 1 of the Convention relating to the Status of Refugees done at Geneva on 28th July 1951 [^c1771307], as extended by Article 1(2) of the Protocol relating to the Status of Refugees done at New York on 31st January 1967; [^c1771308]
+  > - (b) he is a person who has been granted exceptional leave outside the provisions of the immigration rules within the meaning of the Immigration Act 1971 [^c1771309] to remain in the United Kingdom by the Secretary of State;
+  > - (c) he is a national, or a member of the family of a national, of a State contracting party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993; [^c1771310]
+  > - (d) he is a person who is—
+  >   - (i) lawfully working in Great Britain and is a national of a State with which the Community has concluded an Agreement under article 238 [^c1771311] of the Treaty establishing the European Community [^c1771312] providing, in the field of social security, for the equal treatment of workers who are nationals of the signatory State and their families, or
+  >   - (ii) a member of the family of, and living with, such a person; or
+  > - (e) he is a person in respect of whom there is an Order in Council under section 179 of the Administration Act 1992 giving effect to a reciprocal agreement which, for the purposes of disability living allowance, has the effect that periods of presence or residence in another country are to be treated as periods of presence or residence in Great Britain..
+
+## Amendment of regulation 5 of the Disability Working Allowance Regulations
+
+## 5.
+
+In regulation 5 of the Disability Working Allowance Regulations (circumstances in which a person is treated as being or as not being in Great Britain)—
+
+- (a) after paragraph (1)(a) there shall be inserted—
+
+  > - (aa) subject to paragraph (1A), his right to reside or remain in Great Britain is not subject to any limitation or condition; and; and
+- (b) after paragraph (1) there shall be inserted—
+
+  > (1A) For the purposes of paragraph (1)(aa), a person’s right to reside or remain in Great Britain is not to be treated as if it were subject to a limitation or condition if—
+  >
+  > - (a) he is a person recorded by the Secretary of State as a refugee within the definition in Article 1 of the Convention relating to the Status of Refugees done at Geneva on 28th July 1951 [^c1771313], as extended by Article 1(2) of the Protocol relating to the Status of Refugees done at New York on 31st January 1967; [^c1771314]
+  > - (b) he is a person who has been granted exceptional leave outside the provisions of the immigration rules within the meaning of the Immigration Act 1971 [^c1771315] to remain in the United Kingdom by the Secretary of State;
+  > - (c) he is a national, or a member of the family of a national, of a State contracting party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993; [^c1771316] or
+  > - (d) he is a person who is—
+  >   - (i) lawfully working in Great Britain and is a national of a State with which the Community has concluded an Agreement under article 238 [^c1771317] of the Treaty establishing the European Community [^c1771318] providing, in the field of social security, for the equal treatment of workers who are nationals of the signatory State and their families, or
+  >   - (ii) a member of the family of, and living with, such a person..
+
+## 6. Amendment of regulation 3 of the Family Credit Regulations
+
+In regulation 3 of the Family Credit Regulations [^c1771319] (circumstances in which a person is treated as being or as not being in Great Britain)—
+
+- (a) after paragraph (1)(a) there shall be inserted—
+
+  > - (aa) subject to paragraph (1A), his right to reside or remain in Great Britain is not subject to any limitation or condition, and; and
+- (b) after paragraph (1) there shall be inserted—
+
+  > (1A) For the purposes of paragraph (1)(aa), a person’s right to reside or remain in Great Britain is not to be treated as if it were subject to a limitation or condition if—
+  >
+  > - (a) he is a person recorded by the Secretary of State as a refugee within the definition in Article 1 of the Convention relating to the Status of Refugees done at Geneva on 28th July 1951 [^c1771320], as extended by Article 1(2) of the Protocol relating to the Status of Refugees done at New York on 31st January 1967; [^c1771321]
+  > - (b) he is a person who has been granted exceptional leave outside the provisions of the immigration rules within the meaning of the Immigration Act 1971 [^c1771322] to remain in the United Kingdom by the Secretary of State;
+  > - (c) he is a national, or a member of the family of a national, of a State contracting party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993; [^c1771323] or
+  > - (d) he is a person who is—
+  >   - (i) lawfully working in Great Britain and is a national of a State with which the Community has concluded an Agreement under article 238 [^c1771324] of the Treaty establishing the European Community [^c1771325] providing, in the field of social security, for the equal treatment of workers who are nationals of the signatory State and their families, or
+  >   - (ii) a member of the family of, and living with, such a person..
+
+## 7. Amendment of regulation 7A of the Housing Benefit Regulations[^key-f131e03319b1819940f670e8d746a296]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendment of the Income Support Regulations
+
+(1) The Income Support Regulations shall be amended in accordance with the following paragraphs of this regulation.
+
+(2) In regulation 21(3) [^c1771330] in the definition of “person from abroad", after sub-paragraph (h) there shall be added—
+
+> ; or
+>
+> - (i) has been given leave to enter, or remain in, the United Kingdom by the Secretary of State upon an undertaking given by another person or persons in writing in pursuance of immigration rules within the meaning of the Immigration Act 1971 [^c1771331], , to be responsible for his maintenance and accommodation; and he has not been resident in the United Kingdom for a period of at least 5 years beginning from the date of entry or the date on which the undertaking was given in respect of him, whichever date is the later; or
+> - (j) while he is a person to whom any of the definitions in sub-paragraphs (a) to (i) applies in his case, submits a claim to the Secretary of State, which is not finally determined, for asylum under the Convention;. [^c1771332]
+
+(3) In regulation 70 (urgent cases)—
+
+- (a) for sub-paragraph (c) of paragraph (3) there shall be substituted—
+
+  > (c) is a person to whom sub-paragraph (i) of that definition (sponsored immigrant) applies and the person or persons who gave the undertaking to provide for his maintenance and accommodation has, as the case may be have, died;;
+- (b) sub-paragraphs (e) to (j) of paragraph (3) [^c1771333] shall be omitted;
+- (c) for sub-paragraph (a) of paragraph (3A) [^c1771334] there shall be substituted—
+
+  > - (a) is an asylum seeker when he submits on his arrival (other than on his re-entry) in the United Kingdom from a country outside the Common Travel Area a claim for asylum to the Secretary of State that it would be contrary to the United Kingdom’s obligations under the Convention for him to be removed from, or required to leave, the United Kingdom and that claim is recorded by the Secretary of State as having been made; or
+  > - (aa) becomes, while present in Great Britain, an asylum seeker when—
+  >   - (i) the Secretary of State makes a declaration to the effect that the country of which he is a national is subject to such a fundamental change in circumstances that he would not normally order the return of a person to that country, and
+  >   - (ii) he submits, within a period of 3 months from the day that declaration was made, a claim for asylum to the Secretary of State under the Convention relating to the Status of Refugees, and
+  >   - (iii) his claim for asylum under that Convention is recorded by the Secretary of State as having been made; and;
+- (d) for sub-paragraph (b) of paragraph (3A) there shall be substituted—
+
+  > - (b) ceases to be an asylum seeker—
+  >   - (i) in the case of a claim for asylum which, on or after 5th February 1996, is recorded by the Secretary of State as having been determined (other than on appeal) or abandoned, on the date on which it is so recorded, or
+  >   - (ii) in the case of a claim for asylum which is recorded as determined before 5th February 1996 and in respect of which there is either an appeal pending on 5th February 1996 or an appeal is made within the time limits specified in rule 5 of the Asylum Appeals (Procedure) Rules 1993 [^c1771335], on the date on which that appeal is determined.; and
+- (e) in paragraph (3B), at the end there shall be added—
+
+  > ; and “the Common Travel Area" means the United Kingdom, the Channel Islands, the Isle of Man and the Republic of Ireland collectively...
+
+(4) In regulation 71 (applicable amounts in urgent cases), sub-paragraphs (b) to (f) of paragraph (2) shall be omitted.
+
+## 9. Amendment of regulation 9 of the Invalid Care Allowance Regulations
+
+In regulation 9 of the Invalid Care Allowance Regulations [^c1771336] (conditions relating to residence and presence in Great Britain)—
+
+- (a) after paragraph (1)(a) shall be inserted—
+
+  > - (aa) subject to paragraph (1A), his right to reside or remain in Great Britain is not subject to any limitation or condition, and; and
+- (b) after paragraph (1) there shall be inserted—
+
+  > (1A) For the purposes of paragraph (1)(aa), a person’s right to reside or remain in Great Britain is not to be treated as if it were subject to a limitation or condition if—
+  >
+  > - (a) he is a person recorded by the Secretary of State as a refugee within the definition in Article 1 of the Convention relating to the Status of Refugees done at Geneva on 28th July 1951 [^c1771337], as extended by Article 1(2) of the Protocol relating to the Status of Refugees done at New York on 31st January 1967; [^c1771338]
+  > - (b) he is a person who has been granted exceptional leave outside the provisions of the immigration rules within the meaning of the Immigration Act 1971 [^c1771339] to remain in the United Kingdom by the Secretary of State;
+  > - (c) he is a national, or a member of the family of a national, of a State contracting party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993; [^c1771340] or
+  > - (d) he is a person who is—
+  >   - (i) lawfully working in Great Britain and is a national of a State with which the Community has concluded an Agreement under article 238 [^c1771341] of the Treaty establishing the European Community [^c1771342] providing, in the field of social security, for the equal treatment of workers who are nationals of the signatory State and their families, or
+  >   - (ii) a member of the family of, and living with, such a person..
+
+## 10. Amendment of regulation 2 of the Payments on Account, Overpayments and Recovery Regulations[^key-9b3338f11cef90cf6b70dea6e85d2f63]
+
+In regulation 2 of the Payments on Account, Overpayments and Recovery Regulations [^c1771343] (making of interim payments) —
+
+- (a) in paragraph (1), at the beginning there shall be inserted the words “Subject to paragraph (1A),";
+- (b) after paragraph (1) there shall be inserted—
+
+  > (1A) Paragraph (1) shall not apply pending the determination of an appeal unless the Secretary of State is of the opinion that there is entitlement to benefit..
+
+## 11. Amendment of regulation 3 of the Severe Disablement Allowance Regulations
+
+In regulation 3 of the Severe Disablement Allowance Regulations [^c1771344] (conditions relating to residence and presence)—
+
+- (a) after paragraph (1)(a)(i) there shall be inserted—
+
+  > - (ia) subject to paragraph (1B), his right to reside or remain in Great Britain is not subject to any limitation or condition, and; and
+- (b) after paragraph (1A) there shall be inserted—
+
+  > (1B) For the purposes of paragraph (1)(a)(ia), a person’s right to reside or remain in Great Britain is not to be treated as if it were subject to a limitation or condition if—
+  >
+  > - (a) he is a person recorded by the Secretary of State as a refugee within the definition in Article 1 of the Convention relating to the Status of Refugees done at Geneva on 28th July 1951 [^c1771345], as extended by Article 1(2) of the Protocol relating to the Status of Refugees done at New York on 31st January 1967; [^c1771346]
+  > - (b) he is a person who has been granted exceptional leave outside the provisions of the immigration rules within the meaning of the Immigration Act 1971 [^c1771347] to remain in the United Kingdom by the Secretary of State;
+  > - (c) he is a national, or a member of the family of a national, of a State contracting party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993; [^c1771348] or
+  > - (d) he is a person who is—
+  >   - (i) lawfully working in Great Britain and is a national of a State with which the Community has concluded an Agreement under article 238 [^c1771349] of the Treaty establishing the European Community [^c1771350] providing, in the field of social security, for the equal treatment of workers who are nationals of the signatory State and their families, or
+  >   - (ii) a member of the family of, and living with, such a person..
+
+## 12. Saving
+
+(1)[^key-52835807cbd79ac22d5931e1e1584fff] Where, before the coming into force of these Regulations, a person who becomes an asylum seeker under regulation 4A(5)(a)(i) of the Council Tax Benefit Regulations, regulation 7A(5)(a)(i) of the Housing Benefit Regulations or regulation 70(3A)(a) of the Income Support Regulations, as the case may be, is entitled to benefit under any of those Regulations, those provisions of those Regulations as then in force shall continue to have effect (both as regards him and as regards persons who are members of his family at the coming into force of these Regulations)[^key-a14acfc72bc14b031e4538bc1c20c57f] as if regulations 3(a) and (b), 7(a) and (b) or 8(2) and (3)(c), as the case may be, of these Regulations had not been made.
+
+(2) Where, before the coming into force of these Regulations, a person, in respect of whom an undertaking was given by another person or persons to be responsible for his maintenance and accommodation, claimed benefit to which he is entitled, or is receiving benefit, under the Council Tax Benefit Regulations, the Housing Benefit Regulations or the Income Support Regulations, as the case may be, those Regulations as then in force shall have effect as if regulations 3, 7 or 8, as the case may be, of these Regulations had not been made.
+
+(3)[^key-f411e80c7579344663e46ba49cd3280e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Social Security.
+
+Roger Evans
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Social Security (Attendance Allowance) Regulations 1991 (S.I. 1991/2740), the Council Tax Benefit (General) Regulations 1992 (S.I. 1992/1814), the Social Security (Disability Living Allowance) Regulations 1991 (S.I. 1991/2890), the Disability Working Allowance (General) Regulations 1991 (S.I. 1991/2887), the Family Credit (General) Regulations 1987 (S.I. 1987/1973), the Housing Benefit (General) Regulations 1987 (S.I. 1987/1971), the Social Security (Invalid Care Allowance) Regulations 1976 (S.I. 1976/409), the Income Support (General) Regulations 1987 (S.I. 1987/1967), the Social Security (Payments on account, Overpayments and Recovery) Regulations 1988 (S.I. 1988/664) and the Social Security (Severe Disablement Allowance) Regulations 1984 (S.I. 1984/1303).
+
+These Regulations exclude a person from entitlement to certain non-contributory benefits if his right to reside or remain in Great Britain is subject to any limitation or condition (regulations 2, 4, 5, 6, 9, and 11); make provision regarding interim payments in the course of an appeal (regulation 10); make provision in respect of asylum seekers and sponsored immigrants who, except in certain circumstances, are denied income related benefits (regulations 3, 7 and 8); and make saving provisions (regulation 12).
+
+These Regulations do not impose a charge on business.
+
+The Report of the Social Security Advisory Committee dated 8th December 1995 on the proposals referred to them, together with a statement showing the extent to which these Regulations give effect to the Report and in so far as they do not give effect to it, the reasons why not, are contained in Command Paper Cm. 3062, published by Her Majesty’s Stationery Office.
+
+## Annotations
+
+[^c1771281]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4); [sections 123(1)(e)](https://www.legislation.gov.uk/uksi/1996/30/section/123/1/e) and 131 of the Social Security Contributions and Benefits Act 1992 were substituted by the [Local Government Finance Act 1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14), [section 103](https://www.legislation.gov.uk/ukpga/1992/14/section/103) and Schedule 9, paragraphs 1(1) and 4. Section 137(1) which is an interpretation provision is cited because of the meaning assigned to the word "prescribed".
+
+[^c1771282]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^c1771283]: Marginal citation: *See* the [Social Security Administration Act 1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5), [section 176(1)](https://www.legislation.gov.uk/ukpga/1992/5/section/176/1).
+
+[^c1771284]: Marginal citation: *See* the [Social Security Administration Act 1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5), [section 172(1)](https://www.legislation.gov.uk/ukpga/1992/5/section/172/1).
+
+[^key-45cc081cd2040fb993cc9b77341d69e1]: Modification: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/30/regulation/1/2) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+
+[^c1771285]: Marginal citation: [S.I. 1991/2740](https://www.legislation.gov.uk/uksi/1991/2740), to which there are amendments not relevant to this regulation.
+
+[^c1771286]: Marginal citation: [S.I. 1992/1814](https://www.legislation.gov.uk/uksi/1992/1814), to which there are amendments not relevant to this regulation.
+
+[^c1771287]: Marginal citation: [S.I. 1991/2890](https://www.legislation.gov.uk/uksi/1991/2890), to which there are amendments not relevant to this regulation.
+
+[^c1771288]: Marginal citation: [S.I. 1991/2887](https://www.legislation.gov.uk/uksi/1991/2887), to which there are amendments not relevant to this regulation.
+
+[^c1771289]: Marginal citation: [S.I. 1987/1973](https://www.legislation.gov.uk/uksi/1987/1973), to which there are amendments not relevant to this regulation.
+
+[^c1771290]: Marginal citation: [S.I. 1987/1971](https://www.legislation.gov.uk/uksi/1987/1971), to which there are amendments not relevant to this regulation.
+
+[^c1771291]: Marginal citation: [S.I. 1976/409](https://www.legislation.gov.uk/uksi/1976/409), to which there are amendments not relevant to this regulation.
+
+[^c1771292]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967), to which there are amendments not relevant to this regulation.
+
+[^c1771293]: Marginal citation: [S.I. 1988/664](https://www.legislation.gov.uk/uksi/1988/664), to which there are amendments not relevant to this regulation.
+
+[^c1771294]: Marginal citation: [S.I. 1984/1303](https://www.legislation.gov.uk/uksi/1984/1303), to which there are amendments not relevant to this regulation.
+
+[^c1771295]: Marginal citation: Cmd. 9171.
+
+[^c1771296]: Marginal citation: Cmnd. 3906.
+
+[^c1771297]: Marginal citation: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^c1771298]: Marginal citation: OJ No. L 1, 3.1.1994, p.7.
+
+[^c1771299]: Marginal citation: [Article 238](https://www.legislation.gov.uk/uksi/1996/30/article/238) was amended by article G(84) of the Treaty on European Union.
+
+[^c1771300]: Marginal citation: The title of the Treaty of Rome was amended by Article G(1) of the Treaty on European Union.
+
+[^c1771301]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^key-ad13a024c4a40d1cc92bac9f455c7a10]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1996/30/regulation/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^c1771306]: Marginal citation: [Regulation 2](https://www.legislation.gov.uk/uksi/1996/30/regulation/2) was amended by [S.I. 1993/1939](https://www.legislation.gov.uk/uksi/1993/1939).
+
+[^c1771307]: Marginal citation: Cmd. 9171.
+
+[^c1771308]: Marginal citation: Cmnd. 3906.
+
+[^c1771309]: Marginal citation: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^c1771310]: Marginal citation: OJ No. L 1, 3.1.1994, p.7.
+
+[^c1771311]: Marginal citation: [Article 238](https://www.legislation.gov.uk/uksi/1996/30/article/238) was amended by article G(84) of the Treaty on European Union.
+
+[^c1771312]: Marginal citation: The title of the Treaty of Rome was amended by Article G(1) of the Treaty on European Union.
+
+[^c1771313]: Marginal citation: Cmd. 9171.
+
+[^c1771314]: Marginal citation: Cmnd. 3906.
+
+[^c1771315]: Marginal citation: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^c1771316]: Marginal citation: OJ No. L 1, 3.1.1994, p.7.
+
+[^c1771317]: Marginal citation: [Article 238](https://www.legislation.gov.uk/uksi/1996/30/article/238) was amended by article G(84) of the Treaty on European Union.
+
+[^c1771318]: Marginal citation: The title of the Treaty of Rome was amended by Article G(1) of the Treaty on European Union.
+
+[^c1771319]: Marginal citation: [Regulation 3](https://www.legislation.gov.uk/uksi/1996/30/regulation/3) was amended by [S.I. 1991/2742](https://www.legislation.gov.uk/uksi/1991/2742).
+
+[^c1771320]: Marginal citation: Cmd. 9171.
+
+[^c1771321]: Marginal citation: Cmnd. 3906.
+
+[^c1771322]: Marginal citation: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^c1771323]: Marginal citation: OJ No. L 1, 3.1.1994, p.7.
+
+[^c1771324]: Marginal citation: [Article 238](https://www.legislation.gov.uk/uksi/1996/30/article/238) was amended by article G(84) of the Treaty on European Union.
+
+[^c1771325]: Marginal citation: The title of the Treaty of Rome was amended by Article G(1) of the Treaty on European Union.
+
+[^key-f131e03319b1819940f670e8d746a296]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1996/30/regulation/7) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^c1771330]: Marginal citation: [Paragraph 3](https://www.legislation.gov.uk/uksi/1996/30/paragraph/3) was amended by [S.I. 1990/547](https://www.legislation.gov.uk/uksi/1990/547), 1991/236, 1992/3147, 1993/315, 1994/1807 and 2139 and 1995/516.
+
+[^c1771331]: Marginal citation: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77) as amended by the [British Nationality Act 1981 (c.61)](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^c1771332]: Marginal citation: The Convention relating to the Status of Refugees done at Geneva on 28th July 1951 and the Protocol to that Convention.
+
+[^c1771333]: Marginal citation: Sub-paragraph (d) of paragraph (3) was omitted by [S.I. 1993/1679](https://www.legislation.gov.uk/uksi/1993/1679).
+
+[^c1771334]: Marginal citation: Paragraph (3A) was inserted by [S.I. 1993/1679](https://www.legislation.gov.uk/uksi/1993/1679).
+
+[^c1771335]: Marginal citation: [S.I. 1993/1661](https://www.legislation.gov.uk/uksi/1993/1661).
+
+[^c1771336]: Marginal citation: [Regulation 9](https://www.legislation.gov.uk/uksi/1996/30/regulation/9) was amended by [S.I. 1977/342](https://www.legislation.gov.uk/uksi/1977/342) and 1991/2742.
+
+[^c1771337]: Marginal citation: Cmd. 9171.
+
+[^c1771338]: Marginal citation: Cmnd. 3906.
+
+[^c1771339]: Marginal citation: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^c1771340]: Marginal citation: OJ No. L 1, 3.1.1994, p.7.
+
+[^c1771341]: Marginal citation: [Article 238](https://www.legislation.gov.uk/uksi/1996/30/article/238) was amended by article G(84) of the Treaty on European Union.
+
+[^c1771342]: Marginal citation: The title of the Treaty of Rome was amended by Article G(1) of the Treaty on European Union.
+
+[^key-9b3338f11cef90cf6b70dea6e85d2f63]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/1996/30/regulation/10) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+
+[^c1771343]: Marginal citation: [Regulation 2](https://www.legislation.gov.uk/uksi/1996/30/regulation/2) was amended by [S.I. 1991/2742](https://www.legislation.gov.uk/uksi/1991/2742) and 1993/650.
+
+[^c1771344]: Marginal citation: [Regulation 3](https://www.legislation.gov.uk/uksi/1996/30/regulation/3) was amended by [S.I. 1991/1747](https://www.legislation.gov.uk/uksi/1991/1747), 1992/704 and 1994/2947.
+
+[^c1771345]: Marginal citation: Cmd. 9171.
+
+[^c1771346]: Marginal citation: Cmnd. 3906.
+
+[^c1771347]: Marginal citation: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^c1771348]: Marginal citation: OJ No. L 1, 3.1.1994, p.7.
+
+[^c1771349]: Marginal citation: [Article 238](https://www.legislation.gov.uk/uksi/1996/30/article/238) was amended by article G(84) of the Treaty on European Union.
+
+[^c1771350]: Marginal citation: The title of the Treaty of Rome was amended by Article G(1) of the Treaty on European Union.
+
+[^key-52835807cbd79ac22d5931e1e1584fff]: Modification: Reg. 12(1) modified (24.7.1996) by [Asylum and Immigration Act 1996 (c. 49)](https://www.legislation.gov.uk/ukpga/1996/49), [s. 13(3)](https://www.legislation.gov.uk/ukpga/1996/49/section/13/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1996/49/schedule/1/paragraph/5)
+
+[^key-a14acfc72bc14b031e4538bc1c20c57f]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/1996/30/regulation/12/1) inserted (3.4.2000) by [The Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000 (S.I. 2000/636)](https://www.legislation.gov.uk/uksi/2000/636), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/636/regulation/1/1), [12(11)(a)](https://www.legislation.gov.uk/uksi/2000/636/regulation/12/11/a) (with [reg. 12(11)(b)](https://www.legislation.gov.uk/uksi/2000/636/regulation/12/11/b))
+
+[^key-f411e80c7579344663e46ba49cd3280e]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/1996/30/regulation/12/3) revoked (3.4.2000) by [The Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000 (S.I. 2000/636)](https://www.legislation.gov.uk/uksi/2000/636), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/636/regulation/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2000/636/regulation/13/2) (with [reg. 12(10)](https://www.legislation.gov.uk/uksi/2000/636/regulation/12/10))

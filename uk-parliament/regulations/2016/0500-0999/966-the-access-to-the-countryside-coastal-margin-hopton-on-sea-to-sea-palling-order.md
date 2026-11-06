@@ -1,0 +1,83 @@
+---
+title: The Access to the Countryside (Coastal Margin) (Hopton-on-Sea to Sea Palling) Order 2016
+id: uksi/2016/966
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2016-09-29'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2016/966
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/966/pdfs/uksi_20160966_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/966/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Access to the Countryside (Coastal Margin) (Hopton-on-Sea to Sea Palling) Order 2016
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2016 No. 966
+
+Countryside, England
+
+The Access to the Countryside (Coastal Margin) (Hopton-on-Sea to Sea Palling) Order 2016
+
+Made
+
+29th September 2016
+
+Coming into force in accordance with article 1(1)
+
+The Secretary of State makes this Order in exercise of the powers conferred by section 3A(10) of the Countryside and Rights of Way Act 2000[^f00001].
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Access to the Countryside (Coastal Margin) (Hopton-on-Sea to Sea Palling) Order 2016 and comes into force on the day after the day on which it is made.
+
+(2) In this Order, “the Act” means the National Parks and Access to the Countryside Act 1949[^f00002].
+
+## 2. End of access preparation period
+
+(1) In relation to land which is coastal margin as a result of the relevant approval, the day appointed as the day on which the access preparation period[^f00003] ends is 23rd October 2016.
+
+(2) In this article—
+
+- “the relevant approval” means the approval by the Secretary of State[^f00004] under section 52(1) of the Act[^f00005] of the relevant report on 1st September 2015;
+- “the relevant report” means the report entitled “Coastal Access Hopton-on-Sea to Sea Palling” submitted by Natural England to the Secretary of State under sections 51 and 55A of the Act[^f00006] on 29th September 2014[^f00007].
+
+Thérèse Coffey
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+29th September 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order appoints the day on which the access preparation period ends in relation to land which is coastal margin as a result of the approval by the Secretary of State of Natural England’s proposals contained in a report relating to coastal access along the long-distance route in Norfolk from Hopton-on-Sea to Sea Palling. A copy of the Secretary of State’s notice of approval is available at www.gov.uk or may be obtained by writing to the Commons and Access Implementation Team at the Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR.
+
+An impact assessment has not been prepared in respect of this Order because the assumptions underlying the Order were reflected in the impact assessment which was prepared for the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23). It is available at www.gov.uk, or may be obtained by writing to the Commons and Access Implementation Team at the Department for Environment, Food and Rural Affairs at the address given above.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37); section 3A was inserted by the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), section 303(5).
+
+[^f00002]: Footnote: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97).
+
+[^f00003]: Footnote: The term “access preparation period” is defined in section 3A(10) of the Countryside and Rights of Way Act 2000.
+
+[^f00004]: Footnote: The functions of the Secretary of State under sections 51 and 52 of the National Parks and Access to the Countryside Act 1949 were originally vested in the Minister of Town and Country Planning in relation to England and Wales (see section 114(1) of that Act). The Minister of Town and Country Planning was renamed the Minister of Local Government and Planning by the Transfer of Functions (Minister of Health and Minister of Local Government and Planning) (No. 1) Order 1951 ([S.I. 1951/142](https://www.legislation.gov.uk/uksi/1951/142)), and was further renamed the Minister of Housing and Local Government by the Minister of Local Government and Planning (Change of Style and Title) Order 1951 ([S.I. 1951/1900](https://www.legislation.gov.uk/uksi/1951/1900)). The Minister of Land and Natural Resources Order 1965 ([S.I. 1965/143](https://www.legislation.gov.uk/uksi/1965/143)) transferred (so far as relevant) the functions of the Minister of Housing and Local Government to the Minister of Land and Natural Resources. The Ministry of Land and Natural Resources was dissolved by the Ministry of Land and Natural Resources (Dissolution) Order 1967 ([S.I. 1967/156](https://www.legislation.gov.uk/uksi/1967/156)) and the functions of that Minister (so far as relevant) were transferred to the Minister of Housing and Local Government. The Ministry of Housing and Local Government was dissolved, and the functions of that Minister were transferred to the Secretary of State, by the Secretary of State for the Environment Order 1970 ([S.I. 1970/1681](https://www.legislation.gov.uk/uksi/1970/1681)).
+
+[^f00005]: Footnote: Section 52(1) was amended by the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), Schedule 11, Part 1, paragraph 10(f).
+
+[^f00006]: Footnote: Section 51 was amended by the Countryside Act [1968 (c. 41)](https://www.legislation.gov.uk/ukpga/1968/41), section 21(2), the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), Schedule 30, the Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43), Schedule 8, paragraph 1(7), the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 10, paragraph 2(5), the Countryside and Rights of Way Act 2000, Schedule 5, Part 2, paragraph 12 and Schedule 7, paragraph 1, and the Natural Environment and Rural Communities Act 2006, Schedule 11, Part 1, paragraph 10(e). Section 55A was inserted by the Marine and Coastal Access Act 2009, section 302(1).
+
+[^f00007]: Footnote: The Hopton-on-Sea to Sea Palling report is available at www.gov.uk or may be obtained by writing to Coastal Access Delivery Team (Norfolk), Natural England, Eastbrook, Shaftesbury Road, Cambridge, CB2 8DR.

@@ -1,0 +1,707 @@
+---
+title: The Recognised Auction Platforms Regulations 2011
+id: uksi/2011/2699
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2011-11-10'
+text_date: '2023-07-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/2699
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/2699/pdfs/uksiem_20112699_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2699/pdfs/uksi_20112699_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2699/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Recognised Auction Platforms Regulations 2011
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-07-11. See https://www.legislation.gov.uk/changes/affected/uksi/2011/2699
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 2699
+
+Financial Services And Markets
+
+The Recognised Auction Platforms Regulations 2011
+
+Made
+
+10th November 2011
+
+Laid before Parliament
+
+11th November 2011
+
+Coming into force
+
+for the purpose of regulations 6, 10 and Schedule 1
+
+18th June 2012
+
+for the purpose of the remaining regulations
+
+12th December 2011
+
+The Treasury are a government department designated [^c21103001] for the purposes of section 2(2) of the European Communities Act 1972 [^c21103011] in relation to measures relating to the operation of regulated markets and clearing or settlement systems and in relation to insider dealing and market manipulation.
+
+The Treasury, in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972, make the following Regulations.[^key-ad2bc936086633c3a818a483240c63b7]
+
+## PART 1 — General
+
+### 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Recognised Auction Platforms Regulations 2011.
+
+(2) These Regulations come into force—
+
+- (a) for the purpose of regulations 1 to 5, 7 to 9 and 11 to 24 of, and Schedules 2 and 3 to, the Regulations, on 12th December 2011;
+- (b) for the purpose of regulations 6 and 10 of, and Schedule 1 to, the Regulations, on 18th June 2012.
+
+(3) In these Regulations—
+
+- “**the Act**” means the Financial Services and Markets Act 2000 [^c21103021];
+- “**auction platform**” means a platform on which auctions of emissions allowances are held in accordance with the UK auctioning regulations[^key-420e939a90a07882d5395e5a2ed0f58d];
+- “auction recognition requirements” mean the requirements set out in Part 5 of these Regulations together with any requirements contained in the UK auctioning regulations[^key-04d853cd5ded426ed8f7f487d1031be4];
+- “the Authority” means the FCA;[^key-ed848e952996a38e570644fa8665df65]
+- “**bid**” means an offer in an auction of emission allowances to acquire a given volume of allowances at a specified price;
+- “**emission allowance**” means an allowance to emit one tonne of carbon dioxide equivalent during a specified period,
+  - ((a)) [^key-970a0bc725d8c0d10f402893d39a74f2]which is valid for the purposes of meeting the requirements of the emission allowance trading directive, and which is transferable in accordance with the provisions of that directive , or[^key-1b8dc87d217d39aa177326127361704a]
+  - ((b)) created under article 18 of the trading scheme order and transferable in accordance with that order;
+- “**emission allowance trading directive**” means Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowances trading within the Community [^c21103031];
+- “**emission allowance auctioning regulation**” means Commission Regulation (EU) No 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances pursuant to the emission allowance trading directive [^c21103041];
+- “**recognised investment exchange**” means an investment exchange other than an overseas investment exchange in relation to which a recognition order has been made under section 290(1)(a);
+- “**recognised auction platform**” means a recognised investment exchange in relation to which a recognition order is in force;
+- “**recognition order**” means an order made under regulation 2;
+- “trading scheme order” means the Greenhouse Gas Emissions Trading Scheme Order 2020;[^key-6926663fc48a4fcd7c93241bd5a16024]
+- “UK auctioning regulations” means the Greenhouse Gas Emissions Trading Scheme Auctioning Regulations 2021.
+
+(4) In these Regulations—
+
+- (a) unless the contrary intention appears, expressions which are also used in the Financial Services and Markets Act 2000 have the same meaning as in that Act;
+- (b) expressions which are also used in the trading scheme order[^key-98034171f10a2a963ea01cd3465ecb5c] or the UK auctioning regulations[^key-03d0930f67e8545f5a7458590ee889e4] have the same meaning as in that directive or regulations[^key-571d70da79f11a80439823fe36fded30]; and
+- (c) reference to a numbered section, unless otherwise stated, is a reference to a section in the Act.
+
+## PART 2 — Recognised Auction Platforms
+
+### 2. Recognition orders
+
+(1) A recognised investment exchange may apply to the Authority for an order declaring it to be a recognised auction platform for the purposes of these Regulations.
+
+(2) The application must be made in such manner as the Authority may direct and must, to the extent required by the Authority, be accompanied by—
+
+- (a) a copy of the rules for the auction platform;
+- (b) a copy of any guidance for the auction platform issued by the applicant;
+- (c) particulars of the way in which the exchange satisfies the auction recognition requirements; and
+- (d) such other information as the Authority may reasonably require for the purpose of determining the application.
+
+(3) If it appears to the Authority that the applicant satisfies the auction recognition requirements, the Authority may make a recognition order declaring the applicant to be a recognised auction platform.
+
+(4) At any time after receiving an application and before determining it, the Authority may require the applicant to provide such further information as it reasonably considers necessary to enable it to determine the application.
+
+(5) Information which the Authority requires in connection with an application must be provided in such form, or verified in such manner, as the Authority may direct.
+
+(6) Different directions may be given, or requirements imposed, by the Authority with respect to different applications.
+
+(7) In considering an application, the Authority may have regard to any information which it considers relevant to the application.
+
+(8) The application must be determined by the Authority before the end of the period of six months beginning with the date on which it receives the completed application.
+
+(9) A recognition order must specify a date on which it is to come into effect.
+
+### 3. Authority's power to give directions
+
+(1) This regulation applies if it appears to the Authority that a recognised auction platform—
+
+- (a) has failed, or is likely to fail, to satisfy the auction recognition requirements; or
+- (b) has failed to comply with any other obligation imposed on it by or under these Regulations.
+
+(2) The Authority may direct the body to take specified steps for the purpose of securing the body's compliance with—
+
+- (a) the auction recognition requirements; or
+- (b) any obligation of the kind in question.
+
+(3) Those steps may include—
+
+- (a) the granting to the Authority of access to the premises of the auction platform for the purpose of inspecting—
+  - (i) those premises; or
+  - (ii) any documents on the premises which appear to the Authority to be relevant for the purpose mentioned in paragraph (2);
+- (b) the suspension of the carrying on of any regulated activity by the auction platform for the period specified in the direction.
+
+(4) A direction under this regulation is enforceable, on the application of the Authority, by an injunction or, in Scotland, by an order for specific performance under section 45 of the Court of Session Act 1988 [^c21103051].
+
+(5) The fact that a rule made by a recognised auction platform has been altered in response to a direction given by the Authority does not prevent it from being subsequently altered or revoked by the auction platform.
+
+### 4. Revoking recognition
+
+(1) A recognition order may be revoked by an order made by the Authority at the request, or with the consent, of the recognised auction platform.
+
+(2) If it appears to the Authority that a recognised auction platform—
+
+- (a) is failing, or has failed, to satisfy the auction recognition requirements;
+- (b) has not carried on the business of an auction platform during the period of twelve months beginning with the day on which the recognition order declaring it to be a recognised auction platform took effect in relation to it;
+- (c) has not carried on the business of an auction platform at any time during the period of six months ending with the relevant day; or
+- (d) has failed, or is likely to fail, to comply with any obligation imposed on it by these Regulations, or by the emission allowance auctioning regulation,
+
+it may make an order revoking the recognition order which declared that body to be a recognised auction platform, even though that body does not wish the order to be made.
+
+(3) Where the Authority makes a revocation order under section 297 in relation to a recognised investment exchange which is also a recognised auction platform, the Authority shall also make an order revoking the recognition order which declared that body to be a recognised auction platform.
+
+(4) The “relevant day”, for the purposes of paragraph (2)(c), is the day on which the power to make an order under paragraph (1) is exercised.
+
+(5) An order under this regulation (“a revocation order”) must specify the date on which it is to take effect.
+
+(6) In the case of a revocation order made under paragraph (2) or (3), the specified date must not be earlier than the end of the period of three months beginning with the day on which the order is made.
+
+(7) An order under paragraph (1) or (2) does not affect that body's recognition as a recognised investment exchange.
+
+### 5. Procedure
+
+(1) Before refusing to make a recognition order, giving a direction under regulation 3 or making a revocation order under regulation 4, the Authority must—
+
+- (a) give written notice of its intention to do so to the body which would be affected by the proposed refusal, direction or revocation order;
+- (b) take such steps as it considers reasonably practicable to bring the notice to the attention of members (if any) of that body; and
+- (c) publish the notice in such manner as it thinks appropriate for bringing it to the attention of other persons who are, in its opinion, likely to be affected.
+
+(2) A notice under paragraph (1) must—
+
+- (a) state why the Authority intends to refuse to make the recognition order, to give the direction or to make the revocation order; and
+- (b) draw attention to the right to make representations conferred by paragraph (3).
+
+(3) Before the end of the period for making representations—
+
+- (a) the body which would be affected by the proposed refusal, direction or revocation order,
+- (b) any member of that body, and
+- (c) any other person who is likely to be affected by the proposed refusal, direction or revocation order,
+
+may make representations to the Authority.
+
+(4) The period for making representations is—
+
+- (a) two months beginning—
+  - (i) with the date on which the notice is served on the body which would be affected by the proposed refusal, direction or revocation order; or
+  - (ii) if later, with the date on which the notice is published; or
+- (b) such longer period as the Authority may allow in the particular case.
+
+(5) In deciding whether to—
+
+- (a) refuse a recognition order,
+- (b) give a direction, or
+- (c) make a revocation order,
+
+the Authority must have regard to any representations made in accordance with paragraph (3).
+
+(6) When the Authority has decided whether to refuse a recognition order, give the proposed direction or make the proposed revocation order, it must—
+
+- (a) give written notice of its decision[^key-625e5bda24644ce0779b91e14d5e6e96] to the body affected by its decision;
+- (b) if it has decided to refuse a recognition order, give a direction or make a revocation order, take such steps as it considers reasonably practicable for bringing its decision to the attention of members of the body or of other persons who are, in the Authority's opinion, likely to be affected.
+
+(7) If the Authority considers it essential to do so, it may give a direction under regulation 3—
+
+- (a) without following the procedure set out in this regulation; or
+- (b) if the Authority has begun to follow that procedure, regardless of whether the period for making representations has expired.
+
+(8) If the Authority has, in relation to a particular matter, followed the procedure set out in paragraphs (1) to (5), it need not follow it again if, in relation to that matter, it decides to take action other than that specified in its notice under paragraph (1).
+
+### 5A. Power to impose civil penalties[^key-98886759ff6042d8a0f3a67005e5df4c]
+
+(1) If the Authority considers that a recognised auction platform has contravened any requirement in regulation 17, 18(8), 19(1) or (2), or 37 of the UK auctioning regulations[^key-aa43706264772033b1f091a2a3f23c1c], it may impose upon on the auction platform a penalty of such amount as it considers appropriate, and for this purpose, “appropriate” means effective, proportionate and dissuasive.
+
+(2) The Authority must not impose a penalty on a person under paragraph (1) where there are reasonable grounds for it to be satisfied that the person took all reasonable steps and exercised all due diligence to ensure that the requirement was complied with.
+
+(3) In deciding whether a person has failed to comply with the requirements referred to in paragraph (1), the Authority must consider whether the person concerned followed any relevant guidance issued by the Authority.
+
+(4) If the Authority is entitled to impose a penalty on a person under this regulation in respect of a particular matter, it may, instead of imposing a penalty in respect of that matter, publish a statement censuring the person.
+
+(5) A penalty under this regulation is payable to the Authority.
+
+### 5B. Procedure for civil penalties
+
+(1) If the Authority proposes to take action against a person under regulation 5A, it must give that person a warning notice.
+
+(2) A warning notice about a proposal to impose a penalty must state the amount of the proposed penalty.
+
+(3) A warning notice about a proposal to publish a statement must set out the terms of the proposed statement.
+
+(4) If the Authority decides to take action against a person under regulation 5A, it must without delay give the person a decision notice.
+
+(5) A decision notice about the imposition of a penalty must state the amount of the penalty.
+
+(6) A decision notice about the publication of a statement must set out the terms of the statement.
+
+(7) If the Authority decides to take action against a person under regulation 5A, that person may refer the matter to the Tribunal.
+
+(8) In this regulation “the Tribunal” has the meaning given in section 417 of the Act.
+
+(9) Sections 387, 389 to 391, 393 and 394 of the Act apply to notices given in accordance with this regulation.
+
+(10) Section 388 of the Act applies to notices given in accordance with this regulation and references in subsection (1)(e)(i) of that section to “any right to have a matter referred to the Tribunal which is given by this Act” shall include a right to have a matter referred to the Tribunal under this regulation.
+
+**5C.**[^key-1099b3e82151bb381d34c0447f6cae84] (1) The Authority must in respect of each of its financial years pay to the Treasury any amounts received by it during the year by way of penalties imposed under regulation 5A.
+
+(2) The Treasury may give directions to the Authority as to how the Authority is to comply with its duty under paragraph (1).
+
+(3) The directions may in particular—
+
+- (a) specify the time when any payment is required to be made to the Treasury, and
+- (b) require the Authority to provide the Treasury at specified times with information relating to penalties that the Authority has imposed under regulation 5A.
+
+(4) The Treasury must pay into the Consolidated Fund any sums received by them under this regulation.
+
+### 6. Market abuse regime applicable from July 2016 to January 2018 in relation to auctioned products other than financial instruments[^key-a6e5dfe8468ce1d889283a8ae0104fad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Application of certain provisions of the Act with modifications
+
+In its application to a recognised investment exchange that is also a recognised auction platform, Part 18 (recognised investment exchanges clearing houses and CSDs[^key-ab7dc9cab7e93c2e0e9798e905d9624a]) of the Act, apart from Chapter 3A [^c21103061], has effect with the modifications set out in Schedule 2.
+
+### 8. Application of Chapter 3A of Part 18 of the Act with modifications[^key-cabbb8364fff141fc00ca1cc83db7ba5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — The Authority
+
+### 9. Functions of the Authority
+
+(1) The Authority is to have the functions conferred on it by these Regulations or by the UK auctioning regulations[^key-002cbc6d9f6d47801897fe3c3f72a821].
+
+(2) Reference in an enactment to—
+
+- (a) functions conferred on the Authority by or under the Act (or any part of it), or
+- (b) functions of the Authority,
+
+includes a reference to functions conferred on the Authority by these Regulations or by the UK auctioning regulations.
+
+## PART 4 — Amendments to secondary legislation
+
+### 10. Amendment of the Financial Services and Markets Act 2000 (Prescribed Markets and Qualifying Investments) Order 2001[^M_F_2d945647-a24c-4fe6-cf96-8207d874841f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Amendment of the Money Laundering Regulations 2007[^key-173677771c2085741f85bbb0ff2c78b3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Auction Recognition Requirements
+
+### 12. Interpretation
+
+In this Part—
+
+- “**bidders**” means persons who have been admitted to bid at auctions conducted by the recognised auction platform;
+- “**investor**” means any person making a bid at an auction conducted by a recognised auction platform, and any person on whose behalf such a bid is made.
+
+### 13. Method of satisfying auction recognition requirements
+
+(1) In considering whether a recognised auction platform or applicant satisfies the auction recognition requirements, the Authority may—
+
+- (a) treat compliance by the auction platform or applicant with the recognition requirements applying to it as a recognised investment exchange as conclusive evidence that the auction platform or applicant satisfies any equivalent auction recognition requirements applying to it under these Regulations, taking into account any arrangements that would be necessary to meet the auction recognition requirements, and
+- (b) take into account all relevant circumstances including the constitution of the person concerned.
+
+(2) Without prejudice to the generality of paragraph (1), a recognised auction platform or applicant may satisfy auction recognition requirements by making arrangements for functions to be performed on its behalf by any other person.
+
+(3) Where a recognised auction platform or applicant makes arrangements of the kind mentioned in paragraph (2) the arrangements do not affect the responsibility imposed by these Regulations on the recognised auction platform or applicant to satisfy the auction recognition requirements, but it is in addition an auction recognition requirement applying to the recognised auction platform or applicant that the person who performs (or is to perform) the functions is a fit and proper person who is able and willing to perform them.
+
+### 14. Financial resources
+
+(1) The auction platform must have financial resources sufficient for the proper performance of its functions as a recognised auction platform.
+
+(2) In considering whether this requirement is satisfied, the Authority must (without prejudice to the generality of regulation 13(1)) take account of all the circumstances, including the auction platform's connection with any person, and any activity carried on by the auction platform, whether or not it is an exempt activity.
+
+### 15. Suitability
+
+(1) The auction platform must be a fit and proper person to perform the functions of a recognised auction platform.
+
+(2) In considering whether this requirement is satisfied, the Authority may (without prejudice to the generality of regulation 13(1)) take into account all the circumstances, including the auction platform's connection with any person.
+
+(3) The persons who effectively direct the business and operations of the auction platform must be of sufficiently good repute and sufficiently experienced to ensure the sound and prudent management and operation of the auction platform.
+
+(4) The persons who are in a position to exercise significant influence over the management of the auction platform, whether directly or indirectly, must be suitable.
+
+### 16. Systems and controls
+
+(1) The auction platform must ensure that the systems and controls used in the performance of its functions are adequate, and appropriate for the scale and nature of its business.
+
+(2) Paragraph (1) applies in particular to systems and controls concerning—
+
+- (a) the transmission of information;
+- (b) the assessment, mitigation and management of risks to the performance of the auction platform's functions;
+- (c) the monitoring of bids made by, and transactions effected by, bidders at auctions conducted by the auction platform;
+- (d) the technical operation of the auction platform, including contingency arrangements for disruption to its facilities;
+- (e) the operation of the arrangements mentioned in regulation 17(2)(d) below; and
+- (f) (where relevant) the safeguarding and administration of assets belonging to users of the auction platform's facilities.
+
+### 17. Safeguards for investors
+
+(1) The auction platform must ensure that business conducted at auctions or otherwise by means of its facilities is conducted in an orderly manner and so as to afford proper protection to investors.
+
+(2) Without prejudice to the generality of paragraph (1), the auction platform must ensure that—
+
+- (a) access to the auction platform's facilities, including access to bid at auctions conducted by the auction platform, is subject to criteria designed to protect the orderly functioning of—
+  - (i) such auction, and
+  - (ii) the interests of investors;
+- (b) it has transparent and non-discretionary rules and procedures—
+  - (i) to provide for fair and orderly auctions, and
+  - (ii) to establish objective criteria for the efficient execution of transactions;
+- (c) appropriate arrangements are made for relevant information to be made available to participants in auctions conducted by the auction platform;
+- (d) satisfactory arrangements are made for securing the timely discharge (whether by performance, compromise or otherwise) of the rights and liabilities of the parties to transactions executed under systems operated by the auction platform;
+- (e) satisfactory arrangements are made for recording transactions executed by bidders at auctions conducted by the auction platform and any other transactions which are cleared or to be cleared by means of its facilities;
+- (f) appropriate arrangements are made to—
+  - (i) identify conflicts between the interests of the auction platform, its owners and operators and the interests of bidders, investors and other persons who make use of its facilities or the interests of any market operated by the auction platform in its capacity as a recognised investment exchange;
+  - (ii) manage such conflicts so as to avoid adverse consequences for the operation of the auctions conducted by, or markets operated by, the auction platform in its capacity as a recognised investment exchange and for the persons who use its facilities;
+- (g) appropriate measures (including the monitoring of transactions executed under systems operated by the auction platform) are adopted to reduce the extent to which the auction platform's facilities can be used for a purpose connected with market abuse or financial crime, and to facilitate their detection and monitor their influence; and
+- (h) where the auction platform's facilities include making provision for the safeguarding and administration of assets belonging to users of those facilities, satisfactory arrangements are made for that purpose.
+
+(3) In paragraph (2)(c), “**relevant information**” means information on the terms of the emission allowance, and the terms on which it will be offered for sale at auction.
+
+### 18. Promotion and maintenance of standards
+
+(1) The auction platform must be able and willing to promote and maintain high standards of integrity and fair dealing in the carrying on of regulated activities by persons in the course of using the facilities provided by the auction platform.
+
+(2) The auction platform must be able and willing to co-operate, by the sharing of information or otherwise, with the Authority, with any other authority, body or person having responsibility in the United Kingdom for the supervision or regulation of any regulated activity or other financial service or with an overseas regulator within the meaning of section 195.
+
+### 19. Rules and consultation
+
+(1) The auction platform must ensure that appropriate procedures are adopted for it to make rules, for keeping the rules under review and for amending them.
+
+(2) The procedures must include procedures for consulting users of the auction platform's facilities in appropriate cases.
+
+(3) The auction platform must consult users of its facilities on any arrangements it proposes to make for dealing with penalty income in accordance with regulation 22(3).
+
+### 20. Access to auctions
+
+(1) The auction platform must make transparent and non-discriminatory rules, based on objective criteria, governing access to auctions conducted by it or other facilities offered by it.
+
+(2) In particular those rules must specify the obligations for bidders, investors and other persons who make use of its facilities arising from—
+
+- (a) the constitution and administration of the auction platform;
+- (b) rules relating to bids made at auctions conducted by the auction platform, or other transactions executed under systems operated by the auction platform;
+- (c) its professional standards for staff of any bidders; and
+- (d) the rules and procedures for clearing and settlement of transactions executed by bidders.
+
+(3) Rules of the auction platform about access to bid at auctions conducted by it must permit the auction platform to give access only to those persons who are eligible to be given access to bid directly in auctions under regulation 16 of the UK auctioning regulations[^key-266f1277db177f0e44261a8047db7186].
+
+(4) Rules under this regulation must enable—
+
+- (a)[^key-bb559177c09a717237edb7349ae55faf] investment firms [^key-e1d34163e31367015a01ee8fdfd065a9]..., which—
+  - (i) have permission under Part 4A of the Financial Services and Markets Act 2000 to carry on regulated activities relating to investment services and activities, bidding on their own account or on behalf of their clients; and
+  - (ii) would require authorisation under [Directive 2014/65/EU](https://www.legislation.gov.uk/european/directive/2014/0065) of the European Parliament and of the Council on markets in financial instruments if they had their head office in an EEA state;
+- (aa)[^key-2758e87044c3cfe96df04b4156d85d74] investment firms which—
+  - (i) satisfy the condition in sub-paragraph (a)(i); and
+  - (ii) are authorised under [Directive 2014/65/EU](https://www.legislation.gov.uk/european/directive/2014/0065) of the European Parliament and of the Council on markets in financial instruments as amended from time to time;
+- (b) credit institutions [^key-461bcbb37579ce9666f8986cf85b2fda]..., which—
+  - (i) have permission under Part 4A of the Financial Services and Markets Act 2000 to carry on the regulated activity of accepting deposits, bidding on their own account or on behalf of their clients; and
+  - (ii) would require authorisation under [Directive 2013/36/EU](https://www.legislation.gov.uk/european/directive/2013/0036) of the European Parliament and of the Council on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms if they had their head office in an EEA state,
+- (ba)[^key-0ebb61ee1030a0a129b79310891bb3d9] credit institutions which—
+  - (i) satisfy the condition in sub-paragraph (b)(i); and
+  - (ii) are authorised under [Directive 2013/36/EU](https://www.legislation.gov.uk/european/directive/2013/0036) of the European Parliament and of the Council on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms as amended from time to time;
+
+[^key-d45094d95ab3e7ea8de85c9d58f518d6]... to apply for access to bid in auctions conducted by the auction platform [^key-38e42bdcaf22fcf8519d36ec9a8f20b7]....
+
+(5) The auction platform must make arrangements regularly to provide the Authority with a list of bidders.
+
+(6) The auction platform may refuse access to its facilities on legitimate commercial grounds.
+
+(7) This regulation is without prejudice to the generality of regulation 17.
+
+### 21. Choice of settlement facilities
+
+(1) The rules of the auction platform must permit a bidder to use whatever settlement facility that person chooses for a transaction.
+
+(2) Paragraph (1) only applies where—
+
+- (a) such links and arrangements exist between the chosen settlement facility and any other settlement facility as are necessary to ensure the efficient and economic settlement of the transaction, and
+- (b) the auction platform is satisfied that the smooth and orderly functioning of the auction platform will be maintained.
+
+### 22. Discipline
+
+(1) The auction platform must have—
+
+- (a) effective arrangements (which include the monitoring of transactions executed under systems operated by the auction platform) for monitoring and enforcing compliance with its rules;
+- (b) effective arrangements for monitoring and enforcing compliance with the arrangements made by it as mentioned in regulation 17(2)(d); and
+- (c) effective arrangements for monitoring transactions effected under systems operated by the auction platform in order to identify disorderly trading conditions.
+
+(2) Arrangements made pursuant to paragraph (1) must include procedures for—
+
+- (a) investigating complaints made to the auction platform about the conduct of persons in the course of using the auction platform's facilities; and
+- (b) the fair, independent and impartial resolution of appeals against decisions of the auction platform.
+
+(3) Where arrangements made pursuant to paragraph (1) include provision for requiring the payment of financial penalties, they must include arrangements for ensuring that any amount so paid is applied only in one or more of the following ways—
+
+- (a) towards meeting expenses incurred by the auction platform in the course of the investigation of the breach in respect of which the penalty is paid, or in the course of any appeal against the decision of the auction platform in relation to that breach;
+- (b) for the benefit of users of the auction platform's facilities;
+- (c) for charitable purposes.
+
+### 23. Complaints
+
+(1) The auction platform must have effective arrangements for the investigation and resolution of complaints arising in connection with the performance of, or failure to perform, any of its regulatory functions.
+
+(2) But paragraph (1) does not extend to—
+
+- (a) complaints about the content of rules made by the platform, or
+- (b) complaints about a decision against which the complainant has the right to appeal under procedures of the kind mentioned in regulation 22(2)(b).
+
+(3) The arrangements must include arrangements for a complaint to be fairly and impartially investigated by a person independent of the auction platform, and for that person to report on the result of the investigation to the auction platform and to the complainant.
+
+(4) The arrangements must confer on the person mentioned in paragraph (3) the power to recommend, if that person considers it appropriate, that the auction platform—
+
+- (a) makes a compensatory payment to the complainant,
+- (b) remedies the matter complained of,
+
+or takes both of these steps.
+
+(5) Sub-paragraph (3) is not to be taken as preventing the platform from making arrangements for the initial investigation of a complaint to be conducted by the platform.
+
+## PART 6 — Review
+
+### 24. Review
+
+(1) The Treasury must from time to time—
+
+- (a) carry out a review of regulations 2 to 23,
+- (b) set out the conclusions of the review in a report, and
+- (c) publish the report.
+
+(2)[^key-cc630efbe143f22c8c2e2154553e9487] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by regulations 2 to 23,
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the last day on which any of regulations 2 to 23 come into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Michael Fabricant
+
+Brooks Newmark
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## SCHEDULE 1 — Modifications of the Act for the purposes of Articles 37 to 43 of the emission allowance auctioning regulation[^key-76e57657cad67679de37cd151e6be3a7]
+
+**No longer in force.**
+
+Regulation 6
+
+### 1. The Authority's powers[^key-76e57657cad67679de37cd151e6be3a7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Modifications of Part 8 of the Act[^key-76e57657cad67679de37cd151e6be3a7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Other modifications of the Act[^key-76e57657cad67679de37cd151e6be3a7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**22.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**23.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**24.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Modifications of Part 18 of the Act in relation to recognised auction platforms
+
+Regulation 7
+
+**1.** In section 285(2), reference to the exchange's business as an investment exchange includes a reference to its business as an auction platform.
+
+**2.** In section 291(3), reference to the obligations to which the body is subject under or by virtue of the Act is to be read as including a reference to the obligations to which it is subject under these Regulations or under the UK auctioning regulations[^key-91c1e6c3325c4f3570ab83a3242d1f41].
+
+**3.** In section 292A [^c21103141]—
+
+- (a) in subsection (1) reference to a recognition order is to be read as including a reference to a recognition order under regulation 2 of these Regulations;
+- (b) in subsections (2) and (4) references to the management of the exchange are to be read as including references to the management of the auction platform.
+
+**4.** In section 293, in subsection (6)(a), reference to transactions effected on the exchange is to be read as including a reference to transactions effected on the auction platform.
+
+**5.**[^key-901c19fa980b94ee410bfabab5d3fb6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.** In section 299(2), reference to whether the body concerned should remain a recognised body is to be read as including whether it should remain a recognised auction platform.
+
+**7.** In section 300—
+
+- (a) in subsection (1)(a), reference to a recognition order under section 290 is to be read as including a reference to a recognition order under regulation 2 of these Regulations;
+- (b) in subsection (4), reference to the rules of an investment exchange is to be read as including a reference to rules made in relation to an auction platform.
+
+**8.** In section 301F(4), reference to any financial market operated by the recognised investment exchange is to be read as including a reference to any auction platform operated by it.
+
+**9.** Sections 290A and 300A to 300E[^key-0f67cedd5e373424512be78b918cda9c] do not apply to a recognised investment exchange in its capacity as a recognised auction platform.
+
+## SCHEDULE 3 — Modifications of Chapter 3A of Part 18 of the Act in relation to recognised auction platforms and EEA market operators of auction platforms[^key-a8e2f8722cb00fc0f47b86a393a56269]
+
+**No longer in force.**
+
+Regulation 8
+
+**1.**[^key-a8e2f8722cb00fc0f47b86a393a56269] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-a8e2f8722cb00fc0f47b86a393a56269] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-a8e2f8722cb00fc0f47b86a393a56269] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-a8e2f8722cb00fc0f47b86a393a56269] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement the obligations in Articles 35, 36 and 43 of Commission Regulation (EU) 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances (OJ L 302/1, 18.11.2010) (“**the emission allowance auctioning regulation**”) to ensure that UK law implementing provisions of the Directive [2004/39/EC](https://www.legislation.gov.uk/european/directive/2004/0039) of the European Parliament and of the Council on markets in financial instruments of 21 April 2004 (OJ L 145, 20.4.2004, p1) in relation to regulated markets, and of Directive [2003/6/EC](https://www.legislation.gov.uk/european/directive/2003/0006) of the European Parliament and of the Council on insider dealing and market manipulation of 28 January 2003 (OJ L 96, 12.4.2003, p16), and EU measures on money laundering and terrorist financing apply to auction platforms auctioning emission allowances under the emission allowance auctioning regulation.
+
+Regulation 2 sets out the procedure for applications to be recognised as a recognised auction platform. Only recognised investment exchanges will be eligible to make such an application.
+
+Regulation 3 gives the Financial Services Authority (“**the Authority**”) power to make directions in relation to a recognised auction platform where that platform appears to the Authority to be failing to comply with the auction recognition requirements or other obligations applying to it.
+
+Regulation 4 provides for the revocation of a recognition order made under regulation 2.
+
+Regulation 5 provides for the procedure to be followed where the Authority refuses to make a recognition order, or proposes to give a direction under regulation 3 or to make a revocation order under regulation 4.
+
+Regulation 6 of, and Schedule 1 to, the Regulations apply the provisions of Part 8 (penalties for market abuse) of the Financial Services and Markets Act 2000 (“**the Act**”) to auction platforms with the modifications set out in the Schedule.
+
+Regulation 7 of, and Schedule 2 to, the Regulations ensure that the provisions in Part 18 (recognised investment exchanges and clearing houses) of the Act will apply to a recognised investment exchange which is also a recognised auction platform with the modifications which are set out in Schedule 2.
+
+Regulation 8 of, and Schedule 3 to, the Regulations modify the provisions of Chapter 3A (passport rights) of Part 18 of the Act in their application to recognised auction platforms, and EEA operators of auction platforms.
+
+Regulation 9 ensures that any reference in legislation to functions of the Authority under the Act is understood to include the functions given to the Authority under these Regulations or under the emission allowance auctioning regulation. This ensures that the powers given to the Authority for the performance of its functions under the Act will also apply in relation to the performance of its functions under these Regulations or under the emission allowance auctioning regulation.
+
+Regulation 10 amends the Financial Services and Markets Act 2000 (Prescribed Markets and Qualifying Investments) Order 2001 to prescribe auction platforms and make emission allowances qualifying investments for the purposes of Part 8 (penalties for market abuse) of the Act.
+
+Regulation 11 amends the Money Laundering Regulations 2007 (“**the 2007 Regulations**”) so that specific provisions of the 2007 Regulations apply to an auction platform auctioning certain emissions allowances. The effect of the amendments is that an auction platform is a “**relevant person**” for the purposes of regulations 20 and 21 of the 2007 Regulations, and must have in place policies and procedures in order to prevent activities related to money laundering and terrorist financing, and take appropriate measures to train employees in that regard. An auction platform is also a “**relevant person**” for the purposes of Parts 4 (supervision) and 5 (enforcement) of the 2007 Regulations, so that the powers of the relevant supervisory authority and enforcement authorities may be exercised in relation to a platform. The Authority is the supervisor for auction platforms, responsible for monitoring their compliance with certain provisions of the emission allowance auctioning regulation and of the 2007 Regulations. It may impose a civil penalty on an auction platform which breaches the anti-money laundering and terrorist financing requirements of the emission allowance auctioning regulation the requirements of the 2007 Regulations to which it is subject. It is also an offence for an auction platform to breach those requirements.
+
+Part 5 of the Regulations set out the requirements which will have to be satisfied by any recognised investment exchange which wishes to be recognised as a recognised auction platform. Regulation 12 contains definitions relevant to Part 5. Regulation 13 indicates the factors which the Authority may take into account in assessing compliance with the requirements in Part 5. Those requirements are set out in detail in regulations 14 to 23, and cover matters ranging from the financial resources required by an auction platform to the arrangements it must have for investigating complaints.
+
+Regulation 24 requires the Treasury to review the operation and effect of these Regulations within five years after they come into force and within every five years after that. Following a review it will fall to the Treasury to consider whether the Regulations should remain as they are, or be revoked or be amended. A further instrument would be needed to revoke the Regulations or to amend them.
+
+An Impact Assessment of the effect that these Regulations will have on the costs of business and the voluntary sector is available on HM Treasury's website (hm-treasury.gov.uk) and is published with the Explanatory Memorandum alongside these Regulations on the legislation.gov.uk website.
+
+## Annotations
+
+[^c21103001]: Marginal citation: [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661); [S.I. 2004/2642](https://www.legislation.gov.uk/uksi/2004/2642).
+
+[^c21103011]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51); and by section 3 of, and the Schedule to, the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). By virtue of the amendment of section 1(2) made by section 1 of the [European Economic Area Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) to implement obligations of the United Kingdom created by or arising under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073, OJ L 1, 3.11.1994, p. 3) and the Protocol adjusting that Agreement signed at Brussels on 17th March 1993 (Cm 2183, OJ L 1, 3.1.1994, p. 572).
+
+[^key-ad2bc936086633c3a818a483240c63b7]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2011/2699): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^c21103021]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-420e939a90a07882d5395e5a2ed0f58d]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/3) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/a/i)
+
+[^key-04d853cd5ded426ed8f7f487d1031be4]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/3) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/a/ii)
+
+[^key-ed848e952996a38e570644fa8665df65]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/3) inserted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2013/642/article/6/a)
+
+[^key-970a0bc725d8c0d10f402893d39a74f2]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/3) renumbered (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/a/iii/aa)
+
+[^key-1b8dc87d217d39aa177326127361704a]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/3) inserted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/a/iii/bb)
+
+[^c21103031]: Marginal citation: OJ L 275 p 32, 25.10.2003.
+
+[^c21103041]: Marginal citation: OJ L 302 p 1, 18.11.2010.
+
+[^key-6926663fc48a4fcd7c93241bd5a16024]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/3) inserted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/a/iv)
+
+[^key-98034171f10a2a963ea01cd3465ecb5c]: Textual amendment: Words in [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/4/b) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(b)(i)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/b/i)
+
+[^key-03d0930f67e8545f5a7458590ee889e4]: Textual amendment: Words in [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/4/b) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/b/ii)
+
+[^key-571d70da79f11a80439823fe36fded30]: Textual amendment: Words in [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/4/b) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/b/iii)
+
+[^c21103051]: Marginal citation: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
+
+[^key-625e5bda24644ce0779b91e14d5e6e96]: Textual amendment: Words in reg. 5(6)(a) substituted (20.7.2012) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2012 (S.I. 2012/1906)](https://www.legislation.gov.uk/uksi/2012/1906), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1906/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2012/1906/article/8/2)
+
+[^key-98886759ff6042d8a0f3a67005e5df4c]: Textual amendment: Regs. 5A, 5B inserted (20.7.2012) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2012 (S.I. 2012/1906)](https://www.legislation.gov.uk/uksi/2012/1906), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1906/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2012/1906/article/8/3)
+
+[^key-aa43706264772033b1f091a2a3f23c1c]: Textual amendment: Words in [reg. 5A(1)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/5A/1) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/3)
+
+[^key-1099b3e82151bb381d34c0447f6cae84]: Textual amendment: [Reg. 5C](https://www.legislation.gov.uk/uksi/2011/2699/regulation/5C) inserted (1.4.2013) by [The Payment to Treasury of Penalties Regulations 2013 (S.I. 2013/429)](https://www.legislation.gov.uk/uksi/2013/429), [regs. 1](https://www.legislation.gov.uk/uksi/2013/429/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2013/429/regulation/2/6)
+
+[^key-a6e5dfe8468ce1d889283a8ae0104fad]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2011/2699/regulation/6) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/4)
+
+[^key-ab7dc9cab7e93c2e0e9798e905d9624a]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2011/2699/regulation/7) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/37) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^c21103061]: Marginal citation: Chapter 3A was inserted into the Act by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
+
+[^key-cabbb8364fff141fc00ca1cc83db7ba5]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/2699/regulation/8) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/4)
+
+[^key-002cbc6d9f6d47801897fe3c3f72a821]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2011/2699/regulation/9) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/5)
+
+[^M_F_2d945647-a24c-4fe6-cf96-8207d874841f]: Textual amendment: Reg. 10 omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/6)
+
+[^key-173677771c2085741f85bbb0ff2c78b3]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2011/2699/regulation/11) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/6)
+
+[^key-266f1277db177f0e44261a8047db7186]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/3) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(7)(a)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/7/a)
+
+[^key-bb559177c09a717237edb7349ae55faf]: Textual amendment: [Reg. 20(4)(a)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4/a)[(b)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4/b) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(7)(b)(i)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/7/b/i)
+
+[^key-e1d34163e31367015a01ee8fdfd065a9]: Textual amendment: Words in [reg. 20(4)(a)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4/a) omitted (19.5.2021) by virtue of [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/513/regulation/2/2/a)
+
+[^key-2758e87044c3cfe96df04b4156d85d74]: Textual amendment: [Reg. 20(4)(aa)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4/aa) inserted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/513/regulation/2/2/b)
+
+[^key-461bcbb37579ce9666f8986cf85b2fda]: Textual amendment: Words in [reg. 20(4)(b)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4/b) omitted (19.5.2021) by virtue of [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/513/regulation/2/2/c)
+
+[^key-0ebb61ee1030a0a129b79310891bb3d9]: Textual amendment: [Reg. 20(4)(ba)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4/ba) inserted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2021/513/regulation/2/2/d)
+
+[^key-d45094d95ab3e7ea8de85c9d58f518d6]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(7)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/7/b/ii/aa)
+
+[^key-38e42bdcaf22fcf8519d36ec9a8f20b7]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4) omitted (19.5.2021) by virtue of [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2021/513/regulation/2/2/e)
+
+[^key-cc630efbe143f22c8c2e2154553e9487]: Textual amendment: [Reg. 24(2)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/24/2) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(8)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/8)
+
+[^key-76e57657cad67679de37cd151e6be3a7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2699/schedule/1) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(9)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/9)
+
+[^key-91c1e6c3325c4f3570ab83a3242d1f41]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2011/2699/schedule/2/paragraph/2) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(10)(a)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/10/a)
+
+[^c21103141]: Marginal citation: Section 292A was inserted by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [regulation 3(2)](https://www.legislation.gov.uk/uksi/2007/126/regulation/3/2), [Schedule 2](https://www.legislation.gov.uk/uksi/2007/126/schedule/2), [paragraphs 1](https://www.legislation.gov.uk/uksi/2007/126/paragraph/1) and 5.
+
+[^key-901c19fa980b94ee410bfabab5d3fb6b]: Textual amendment: Sch. 2 para. 5 omitted (10.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2013/642/article/6/b)
+
+[^key-0f67cedd5e373424512be78b918cda9c]: Textual amendment: Words in [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2011/2699/schedule/2/paragraph/9) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(10)(b)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/10/b)
+
+[^key-a8e2f8722cb00fc0f47b86a393a56269]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2011/2699/schedule/3) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(11)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/11)

@@ -1,0 +1,289 @@
+---
+title: The Marine Licensing (Register of Licensing Information) Regulations 2011
+id: uksi/2011/424
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-02-09'
+text_date: '2026-08-09'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2011/424
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/424/pdfs/uksiem_20110424_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/424/pdfs/uksi_20110424_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/424/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Marine Licensing (Register of Licensing Information) Regulations 2011
+
+> Text as at 2026-08-09.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2011 No. 424
+
+Environmental Protection
+
+Licensing (marine)
+
+Marine Pollution
+
+The Marine Licensing (Register of Licensing Information) Regulations 2011
+
+Made
+
+9th February 2011
+
+Laid before Parliament
+
+17th February 2011
+
+Coming into force
+
+6th April 2011
+
+The Secretary of State, as the appropriate licensing authority under section 113(2)(a), (4)(a), (6)(a) and (8) of the Marine and Coastal Access Act 2009[^f00001], makes the following Regulations in exercise of the powers conferred by sections 101(2)[^f00002] and (3) and 316(1) of that Act.
+
+## 1. Citation and commencement
+
+These Regulations—
+
+- (a) may be cited as the Marine Licensing (Register of Licensing Information) Regulations 2011; and
+- (b) come into force on 6th April 2011.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- (a) “the Act” means the Marine and Coastal Access Act 2009;
+- (b) a reference to an application is a reference to an application for a marine licence, but in regulations 4 to 12 does not include an application submitted and subsequently withdrawn;
+- (c) “co-ordinates” means—
+  - (i) co-ordinates of latitude and longitude on the World Geodetic System 1984, or
+  - (ii) co-ordinates on the National Grid used by the Ordnance Survey.
+
+(2) A reference in these Regulations to a numbered item is a reference to that numbered item in section 66(1) of the Act (which identifies licensable marine activities).
+
+## 3. Application
+
+These Regulations apply in relation to any area, and any licensable marine activity carried on in that area, for which the Secretary of State is the appropriate licensing authority under section 113 of the Act[^f00003] (and references in these Regulations to “the licensing authority” are to be read accordingly).
+
+## 4. The register and prescribed particulars
+
+(1) The register may be kept in any form.
+
+(2) The register must contain the particulars prescribed in these Regulations.
+
+(3) Regulation 5 prescribes particulars relating to all applications and marine licences.
+
+(4) Regulations 6 to 12 prescribe additional particulars relating to particular types of applications and marine licences.
+
+(5) Regulations 13 and 14 prescribe particulars relating to variations, revocations, suspensions and transfers of marine licences.
+
+(6) Regulations 15 to 17 prescribe particulars relating to convictions, other enforcement action and remedial action.
+
+(7) The licensing authority must include in the register the particulars prescribed by regulations 5 to 14 as soon as reasonably practicable after receiving or generating the information in question.
+
+(8) In this regulation, “the register” means the register of licensing information maintained under section 101 of the Act by the Secretary of State as the appropriate licensing authority.
+
+## 5. General particulars for applications and marine licences
+
+The particulars relating to all applications and all marine licences are—
+
+- (a) the date the application was made;
+- (b) the application reference number or licence number issued by the licensing authority;
+- (c) the application reference number or licence number of any other application or licence that the licensing authority considers is related to the application or licence in question;
+- (d) the name and address of the applicant or licence holder;
+- (e) the name and address of any agent, contractor or sub-contractor proposed to be engaged in the activity to which the application or licence relates;
+- (f) any marine plan area[^f00004] to which the application or licence relates;
+- (g) the dates of commencement and expiry of the licence (as sought, in the case of an application, and as granted, in the case of a licence);
+- (h) the date the licence was granted;
+- (i) details of any conditions subject to which the licence was granted;
+- (j) details supplied with the application of any studies of the potential environmental and human health effects of the activity to be licensed;
+- (k) details of any information supplied, article produced, or the result of any investigation, examination or test carried out, under section 67(4) of the Act (power to require applicant to supply information etc) or any such information, article or result otherwise supplied or produced as part of the application.
+
+## 6. Deposit of substances or objects
+
+(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 1, 2, 3, 14 or 15[^key-af480c790be6df3c8a55666681d0c535] (deposit of substances or objects).
+
+(2) The additional particulars are—
+
+- (a) the description, composition and quantity of the substance or object to be deposited;
+- (b) the name and description of any vehicle, vessel, aircraft, marine structure or floating container from which the deposit is to be made, and, in the case of any vessel, its registration number and country of registration;
+- (c) the co-ordinates at which the deposit is to be made;
+- (d) where the activity takes places within item 1(c), the coordinates of the structure on land from which the deposit is to be made;
+- (e) where the activity falls within item 3, the co-ordinates at which the loading is to take place;
+- (f) in the case of a deposit for the purpose of disposal, details of any alternative methods of disposal considered by the applicant and the reason for seeking to deposit the substance or object in the sea.
+
+## 7. Scuttling
+
+(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 4, 5, 6, 16 or 17[^key-995bc30f9877cfe766b916374a8e8ca7] (scuttling of vessels or floating containers).
+
+(2) The additional particulars are—
+
+- (a) the intended date of the scuttling;
+- (b) the name of the vessel or floating container to be scuttled and, in the case of any vessel, its registration number and country of registration;
+- (c) the co-ordinates at which the vessel or floating container is to be scuttled;
+- (d) a description of any cargo of the vessel or floating container by reference to its composition and quantity.
+
+## 8. Construction, alteration or improvement of works
+
+(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 7 or 18[^key-8566e9186b7776795fd49d5ce3fd69c9] (construction, alteration or improvement of works).
+
+(2) The additional particulars are—
+
+- (a) a description of the works to be carried out, and the dates on or between which the works are to be carried out;
+- (b) the co-ordinates at which the construction, alteration or improvement of works is to take place.
+
+## 9. Use of vehicle etc to remove substances or objects from sea bed
+
+(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 8 or 19[^key-507b54a3f3eebcd857e1643d35c4a992] (use of vehicle, vessel etc to remove substances or objects from the sea bed).
+
+(2) The additional particulars are—
+
+- (a) a description of the substance or object to be removed from the sea bed;
+- (b) the name and description of any vehicle, vessel, aircraft, marine structure or floating container intended to be used to remove the substance or object from the sea bed, and, in the case of any vessel, its registration number and country of registration;
+- (c) the co-ordinates from which the object or substance is to be removed;
+- (d) the reason for seeking to remove the substance or object from the sea bed;
+- (e) details of any alternative methods of removal considered by the applicant.
+
+## 10. Dredging
+
+(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 9 or 20[^key-d65fb289bed92a867caf588d551d003f] (dredging).
+
+(2) The additional particulars are—
+
+- (a) details of the type of dredging to be carried out;
+- (b) the co-ordinates at which the dredging is to be carried out;
+- (c) any information held by the licensing authority as to the contamination of the material to be dredged.
+
+## 11. Deposit or use of explosives
+
+(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 10 or 21[^key-87b1db967e4f33f4118de819b3d81c43] (deposit or use of explosive substance or article).
+
+(2) The additional particulars are—
+
+- (a) the co-ordinates at which the explosive substance or article is to be deposited or used;
+- (b) a description, including its quantity, of that explosive substance or article;
+- (c) details of the purpose of the deposit or use of that explosive substance or article.
+
+## 12. Incineration or loading vehicle etc for incineration
+
+(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 11, 12, 13, 22 or 23[^key-a1c691d2bea924cddc4d44f6b912aaa9] (incineration of substances or objects or loading of vehicle, vessel etc for incineration).
+
+(2) The additional particulars are—
+
+- (a) a description of the substance or object to be incinerated, together with its composition and quantity;
+- (b) the name and description of any vehicle, vessel, aircraft, marine structure or floating container on which the incineration is to take place or which is to be loaded, and, in the case of any vessel, its registration number and country of registration;
+- (c) the co-ordinates at which the incineration is to take place;
+- (d) where the activity falls within item 13, the co-ordinates at which the loading is to take place;
+- (e) details of any alternatives to incineration considered by the applicant and the reason for seeking to incinerate the substance or object.
+
+## 13. Variation, revocation or suspension of marine licences
+
+The particulars in relation to any variation, revocation or suspension of a marine licence are—
+
+- (a) the licence number;
+- (b) the date of the variation, revocation or suspension;
+- (c) the reason for the variation, revocation or suspension;
+- (d) in the case of a variation, details of the variation.
+
+## 14. Transfer of licences
+
+The particulars in relation to any transfer of a marine licence are—
+
+- (a) the licence number;
+- (b) the name and address of the person to whom the licence has been transferred;
+- (c) the date of the transfer.
+
+## 15. Convictions
+
+(1) The particulars in relation to any conviction for any offence under Part 4 of the Act are—
+
+- (a) the provision of that Act under which the person has been convicted;
+- (b) the marine licence number (where applicable);
+- (c) the name and address of the person convicted;
+- (d) the date of the offence;
+- (e) the reason for the prosecution;
+- (f) the court where the case was heard;
+- (g) the date of conviction;
+- (h) any penalty imposed by the court.
+
+(2) In paragraph (1), “conviction” does not include a conviction that has been overturned on appeal.
+
+## 16. Other enforcement action
+
+(1) The particulars in relation to any enforcement action taken in relation to Part 4 of the Act are—
+
+- (a) the marine licence number (where applicable);
+- (b) the name and address of the person against whom the enforcement action was taken;
+- (c) the type of enforcement action taken;
+- (d) the date of the offence or other activity in relation to which the enforcement action was taken;
+- (e) the reason for the enforcement action.
+
+(2) In paragraph (1), “enforcement action” means the issue of a compliance notice, remediation notice, stop notice, or emergency safety notice[^f00005], but does not include any such notice that has been overturned on appeal.
+
+## 17. Remedial action
+
+The particulars relating to any works carried out by the licensing authority under section 106 of the Act are—
+
+- (a) the marine licence number (if applicable);
+- (b) the date of the works;
+- (c) the type of works undertaken;
+- (d) the co-ordinates at which the works were carried out;
+- (e) the reason for the works.
+
+Richard Benyon
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+9th February 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+This instrument prescribes the particulars of the matters required by section 101 of the Marine and Coastal Access Act 2009 (“the Act”) to be contained in the register of information maintained by the Secretary of State as a licensing authority. Section 66 of the Act identifies licensable marine activities.
+
+Regulation 5 prescribes the particulars that must be included in the register relating to applications and licences. Regulations 6 to 12 prescribe additional particulars relating to particular types of applications and licences. Regulations 13 and 14 prescribe particulars relating to variations, revocations, suspensions and transfers of licences. Regulations 15 to 17 prescribe particulars relating to convictions, other enforcement action and remedial action.
+
+Section 101(5) of the Act prohibits inclusion in the register of certain information on the grounds of national security or commercial confidentiality. See paragraph 7 of Schedule 9 to the Act for transitional provisions relating to the register maintained under section 14 of the Food and Environment Protection Act 1985[^f00006].
+
+The Licensing Policy Team at the Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR can be contacted in relation to the availability of the register.
+
+A full impact assessment of the effects that this instrument will have on the costs of business, the voluntary sector and the public sector is available from Defra’s Licensing Policy Team at the above address and from Defra’s website at www.defra.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^f00002]: Footnote: Section 101(2) requires that the register required to be maintained by the licensing authority under subsection (1) must contain prescribed particulars relating to certain matters. Subsection (9) provides that ‘prescribed’ means prescribed in regulations made under section 101.
+
+[^f00003]: Footnote: Under section 113(2)(a), (4)(a), (6)(a) and (8), the Secretary of State is the appropriate licensing authority as respects anything done in the course of carrying on certain activities in the Scottish offshore region, Wales and the Welsh inshore region, Northern Ireland and the Northern Ireland inshore region, and in relation to any other area not mentioned in subsection (2), (4) or (6). See section 322(1) for definitions of those regions.
+
+[^f00004]: Footnote: See section 51(1) of the Marine and Coastal Access Act 2009.
+
+[^key-af480c790be6df3c8a55666681d0c535]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/6/1) substituted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [15](https://www.legislation.gov.uk/uksi/2026/676/article/15)
+
+[^key-995bc30f9877cfe766b916374a8e8ca7]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/7/1) substituted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [16](https://www.legislation.gov.uk/uksi/2026/676/article/16)
+
+[^key-8566e9186b7776795fd49d5ce3fd69c9]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/8/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [17](https://www.legislation.gov.uk/uksi/2026/676/article/17)
+
+[^key-507b54a3f3eebcd857e1643d35c4a992]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/9/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [18](https://www.legislation.gov.uk/uksi/2026/676/article/18)
+
+[^key-d65fb289bed92a867caf588d551d003f]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/10/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [19](https://www.legislation.gov.uk/uksi/2026/676/article/19)
+
+[^key-87b1db967e4f33f4118de819b3d81c43]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/11/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [20](https://www.legislation.gov.uk/uksi/2026/676/article/20)
+
+[^key-a1c691d2bea924cddc4d44f6b912aaa9]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/12/1) substituted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [21](https://www.legislation.gov.uk/uksi/2026/676/article/21)
+
+[^f00005]: Footnote: See section 115(1) of the Marine and Coastal Access Act 2009 for definitions of these terms.
+
+[^f00006]: Footnote: [1985 c. 48](https://www.legislation.gov.uk/ukpga/1985/48).

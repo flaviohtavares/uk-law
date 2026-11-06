@@ -1,0 +1,35 @@
+---
+title: Copyright, Designs and Patents Act 1988, section 83
+act: Copyright, Designs and Patents Act 1988
+section: '83'
+status: revised-with-pending-changes
+text_date: '2025-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1988/48/section/83
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Copyright, Designs and Patents Act 1988, section 83
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2025-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/48
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 83. Infringement of right by possessing or dealing with infringing article.
+
+*Extent: E+W+S+N.I.*
+
+(1) The right conferred by section 80 (right to object to derogatory treatment of work) is also infringed by a person who—
+
+- (a) possesses in the course of a business, or
+- (b) sells or lets for hire, or offers or exposes for sale or hire, or
+- (c) in the course of a business exhibits in public or distributes, or
+- (d) distributes otherwise than in the course of a business so as to affect prejudicially the honour or reputation of the author or director,
+
+an article which is, and which he knows or has reason to believe is, an infringing article.
+
+(2) An “**infringing article**” means a work or a copy of a work which—
+
+- (a) has been subjected to derogatory treatment within the meaning of section 80, and
+- (b) has been or is likely to be the subject of any of the acts mentioned in that section in circumstances infringing that right.

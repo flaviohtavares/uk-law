@@ -1,0 +1,58 @@
+---
+title: Civil Aviation Act 1982, section 65
+act: Civil Aviation Act 1982
+section: '65'
+status: revised-with-pending-changes
+text_date: '2024-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1982/16/section/65
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Civil Aviation Act 1982, section 65
+
+> **Warning: changes not yet applied to this text (29).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/16
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 65. Grant and refusal of air transport licences.
+
+*Extent: E+W+S+N.I.*
+
+(1) An application for the grant of an air transport licence must be made in writing to the CAA and contain such particulars with respect to such matters as the CAA may specify in a notice published in the prescribed manner; and where an application is made for the grant of an air transport licence the CAA shall either grant a licence to the applicant in the terms requested in the application or in those terms with such modifications as the CAA thinks fit or refuse to grant a licence.
+
+(2) The CAA shall refuse to grant an air transport licence in pursuance of an application if it is not satisfied that —
+
+- (a) the applicant is, having regard to—
+  - (i) his and his employees’ experience in the field of aviation and his and their past activities generally, and
+  - (ii) where the applicant is a body corporate, the experience in the field of aviation and the past activities generally of the persons appearing to the CAA to control that body,
+
+  a fit person to operate aircraft under the authority of the licence which, apart from this subsection, the CAA considers should be granted to him in pursuance of the application; or
+- (b) the resources of the applicant and the financial arrangements made by him are adequate for discharging his actual and potential obligations in respect of the business activities in which he is engaged (if any) and in which he may be expected to engage if he is granted the licence which, apart from this subsection, the CAA connsiders should be granted to him in pursuance of the application.
+
+(3) If the CAA is not satisfied that an applicant for an air transport licence is—
+
+- (a) a United Kingdom national; or
+- (b) a body which is incorporated under the law of any part of the United Kingdom or the law of a relevant overseas territory [^c2541581]. . . and is controlled by United Kingdom nationals,
+
+it shall refuse to grant a licence in pursuance of his application unless the Secretary of State consents to the grant of the licence; and where the CAA proposes to refuse to grant a licence by reason only of the preceding provisions of this subsection it shall be the duty of the CAA to give the Secretary of State notice of the proposal and to postpone its decision on the application until the Secretary of State’s consent is given or refused.
+
+(4) Nothing in the provisions of subsections (2) and (3) above shall be construed as prejudicing the CAA’s power in its discretion to refuse an air transport licence otherwise than in pursuance of any of those provisions.
+
+(5) An air transport licence may contain such terms as the CAA thinks fit; and (without prejudice to the generality of the CAA’s power to decide those terms) the terms may—
+
+- (a) be or include terms settled by a person other than the CAA and include provision for any of the terms to have effect with such modifications as the CAA or another person may from time to time determine; and
+- (b) include terms as to the charges which are to be made and the goods, services and other benefits which are and are not to be furnished by any person whatsoever under or in connection with any contract which includes provision for the making available of accommodation on flights to which the licence relates.
+
+(6) If the holder of a current air transport licence applies for the grant of another air transport licence in continuation of or in substitution for the current licence and does so not later than such time before the expiration of the term of the current licence as the CAA may specify in a notice published in the prescribed manner, then, unless the appliction is withdrawn and without prejudice to the CAA’s power to revoke, suspend or vary the current licence, the current licence shall not cease to be in force by reason only of the expiration of that term—
+
+- (a) until the CAA gives its decision on the application;
+- (b) if in pursuance of the application the CAA decides to refuse a licence or to grant a licence otherwise than in the terms requested in the application, until the expiration of the time during which an appeal to the Secretary of State against the decision may be brought in pursuance of regulations made by virtue of section 67(5) below and, if such an appeal is brought, until the appeal is determined or abandoned;
+- (c) if such an appeal against a decision to refuse a licence or to grant one otherwise than in the terms aforesaid is successful, until the date when the licence granted in consequence of the appeal comes into force.
+
+(7) A notice published in pursuance of subsection (1) or subsection (6) above may be altered or cancelled by subsequent notice published in pursuance of that subsection.
+
+## Annotations
+
+[^c2541581]: Textual amendment: Words in [s. 65(3)(b)](https://www.legislation.gov.uk/ukpga/1982/16/section/65/3/b) repealed (8.11.1995) by [1995 c. 44](https://www.legislation.gov.uk/ukpga/1995/44), [s. 1](https://www.legislation.gov.uk/ukpga/1995/44/section/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1995/44/schedule/1/part/II)

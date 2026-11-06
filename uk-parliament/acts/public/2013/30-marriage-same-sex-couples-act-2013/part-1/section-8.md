@@ -1,0 +1,46 @@
+---
+title: Marriage (Same Sex Couples) Act 2013, section 8
+act: Marriage (Same Sex Couples) Act 2013
+section: '8'
+status: revised
+text_date: '2022-04-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2013/30/section/8
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Marriage (Same Sex Couples) Act 2013, section 8
+
+> Text as at 2022-04-28.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 8. Power to allow for marriage of same sex couples in Church in Wales[^key-60b9998ab9253e04d07ef2c0cd3316ee]
+
+*Extent: E+W*
+
+(1) This section applies if the Lord Chancellor is satisfied that the Governing Body of the Church in Wales has resolved that the law of England and Wales should be changed to allow for the marriage of same sex couples according to the rites of the Church in Wales.
+
+(2) The Lord Chancellor must, by order, make such provision as the Lord Chancellor considers appropriate to allow for the marriage of same sex couples according to the rites of the Church in Wales.
+
+(3) The provision that may be made by an order under this section includes provision amending England and Wales legislation.
+
+(4) In making an order under this section, the Lord Chancellor must have regard to the terms of the resolution of the Governing Body mentioned in subsection (1).
+
+(5) If it appears to the Lord Chancellor—
+
+- (a) that a reference in this section to the Governing Body has ceased to be appropriate by reason of a change in the governance arrangements of the Church in Wales, the reference has effect as a reference to such person or persons as the Lord Chancellor thinks appropriate; or
+- (b) that a reference in this section to a resolution has ceased to be appropriate for that reason, the reference has effect as a reference to such decision or decisions as the Lord Chancellor thinks appropriate.
+
+(6) In Schedule 7 to the Constitutional Reform Act 2005 (functions of the Lord Chancellor which may not be transferred under the Ministers of the Crown Act 1975), in paragraph 4, at the end of Part A insert—
+
+> **Marriage (Same Sex Couples) Act 2013**
+>
+> - Section 8
+
+.
+
+## Annotations
+
+[^key-60b9998ab9253e04d07ef2c0cd3316ee]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/30/section/8) in force at 13.3.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/93/article/3/d)

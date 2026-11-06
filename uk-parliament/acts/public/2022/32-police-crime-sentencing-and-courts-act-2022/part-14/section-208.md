@@ -1,0 +1,95 @@
+---
+title: Police, Crime, Sentencing and Courts Act 2022, section 208
+act: Police, Crime, Sentencing and Courts Act 2022
+section: '208'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2022/32/section/208
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police, Crime, Sentencing and Courts Act 2022, section 208
+
+> **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 208. Commencement[^key-2bd3cb32f0b6ebbd6df9b6ff16785b43]
+
+*Extent: E+W+S+N.I.*
+
+(1) Except as provided by subsections (4) and (5), this Act comes into force on such day as the Secretary of State may by regulations made by statutory instrument appoint.
+
+(2) Regulations under subsection (1) may appoint different days for different purposes or areas.
+
+(3) Subsection (1) is subject to sections 34, 161 and 166.
+
+(4) The following provisions of this Act come into force on the day on which this Act is passed—
+
+- (a) section 4 for the purposes of making regulations;
+- (b) sections 8 to 12 (and Schedules 1 and 2) for the purposes of making regulations;
+- (c) section 13;
+- (d) section 14 for the purposes of making regulations;
+- (e) section 19 for the purposes of issuing guidance;
+- (f) section 20 for the purposes of making regulations;
+- (g) sections 22 and 23;
+- (h) sections 24 to 26 for the purposes of making regulations;
+- (i) section 31;
+- (j) section 32 for the purposes of issuing guidance;
+- (k) sections 34 to 36;
+- (l) section 71;
+- (m) section 72;
+- (n) section 82 for the purposes of making regulations;
+- (o) section 90 for the purposes of making regulations;
+- (p) section 132;
+- (q) sections 140 to 143;
+- (r) section 161(1) so far as relating to Part 2 of Schedule 17 (and that Part of that Schedule) for the purposes of making regulations;
+- (s) section 161(2) to (9);
+- (t) sections 163 and 164;
+- (u) section 165 for the purposes of issuing guidance and making regulations;
+- (v) section 166;
+- (w) section 167(2) to (4);
+- (x) section 189;
+- (y) section 190 for the purposes of making an order;
+- (z) section 191;
+- (aa) sections 198 and 199;
+- (ab) section 202;
+- (ac) this Part other than section 204 and Schedule 21.
+
+(5) The following provisions of this Act come into force at the end of the period of two months beginning with the day on which this Act is passed—
+
+- (a) section 2;
+- (b) section 3;
+- (c) sections 47 and 50;
+- (d) section 51 (and Schedule 5);
+- (e) sections 52 and 53;
+- (f) section 54;
+- (g) section 58;
+- (h) section 59;
+- (i) sections 83 to 88 (and Schedule 8);
+- (j) sections 122 and 123;
+- (k) section 124 (and Schedule 12);
+- (l) sections 125 to 128;
+- (m) sections 130 and 131;
+- (n) section 135;
+- (o) section 138;
+- (p) sections 144 to 148;
+- (q) sections 150 and 151;
+- (r) section 153 (and Schedule 14);
+- (s) section 154 (and Schedule 15);
+- (t) sections 157 to 160 (and Schedule 16);
+- (u) section 161(1) so far as relating to Parts 1, 4 and 5 of Schedule 17 (and those Parts of that Schedule);
+- (v) section 162;
+- (w) sections 184 to 188 (and Schedule 19);
+- (x) sections 196 and 197;
+- (y) section 200 (and Schedule 20);
+- (z) section 201(1);
+- (aa) section 204 (and Schedule 21).
+
+(6) The Secretary of State may by regulations made by statutory instrument make transitional, transitory or saving provision in connection with the coming into force of any provision of this Act.
+
+## Annotations
+
+[^key-2bd3cb32f0b6ebbd6df9b6ff16785b43]: Commencement: S. 208 in force at Royal Assent, see [s. 208(4)(ac)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/ac)

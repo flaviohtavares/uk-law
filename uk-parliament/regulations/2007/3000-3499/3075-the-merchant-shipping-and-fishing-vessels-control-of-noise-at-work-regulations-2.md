@@ -1,0 +1,514 @@
+---
+title: The Merchant Shipping and Fishing Vessels (Control of Noise at Work) Regulations 2007
+id: uksi/2007/3075
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-10-25'
+text_date: '2026-04-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2007/3075
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/3075/pdfs/uksiem_20073075_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/3075/pdfs/uksi_20073075_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/3075/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping and Fishing Vessels (Control of Noise at Work) Regulations 2007
+
+> Text as at 2026-04-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2007 No. 3075
+
+MERCHANT SHIPPING
+
+The Merchant Shipping and Fishing Vessels (Control of Noise at Work) Regulations 2007
+
+Made
+
+25th October 2007
+
+Laid before Parliament
+
+31st October 2007
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 [^c18960871] in relation to measures relating to the safety of ships and the health and safety of persons on them [^c18960881]:
+
+The Secretary of State, in exercise of the powers conferred by section 2(2) of that Act, sections 85(1), (3), (5), (6) and (7) and 86(1) of the Merchant Shipping Act 1995 [^c18960891], and having consulted the persons referred to in section 86(4) [^c18960901] of that Act, makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Control of Noise at Work) Regulations 2007 and shall come into force on 23rd February 2008, except that—
+
+- (a) in relation to noise arising from the provision of music and entertainment on ships, these Regulations shall come into force on 6th April 2008; and
+- (b) in relation to sea-going ships regulation 7(4) and (5) shall come into force on 6th April 2011*.*
+
+## 2. Interpretation
+
+(1) In these Regulations–
+
+- “**the Act**” means the Merchant Shipping Act 1995;
+- “**daily noise exposure level**” is the time weighted average of the noise exposure levels for a nominal eight hour working day as defined by international standard ISO 1999: 1990, point 3.6 and it covers all noise at work, including impulsive noise;
+- “**employer**” means a person by whom a worker is employed on a ship under a contract of employment;
+- “**exposure limit value**” means the level of daily or weekly exposure for any worker which must not be exceeded, save as set out in regulation 13;
+- “**General Duties Regulations**” means the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997 [^c18960911];
+- [^key-188f8a9d26f390d799bea25f78bc9552]...
+- “**health and safety**” includes the occupational health and safety of persons whilst on board a ship and whilst boarding or leaving the ship;
+- “**health surveillance**” means assessment of the state of health of a worker so as to provide early diagnosis of any loss of hearing due to noise and to preserve the hearing function;
+- “**impulsive noise**” means a noise event of short duration which occurs as an isolated event or as one of a series of events with a repetition rate of less than 15 per second.
+- “**MCA**” means the Maritime and Coastguard Agency, an executive agency of the Department for Transport;
+- “**Merchant Shipping Notice**” means a Notice described as such and issued by the MCA;
+- “**noise**” means any audible sound;
+- “**the Provision and Use of Work Equipment Regulations**” means the Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) Regulations 2006 [^c18960921];
+- “**peak sound pressure**” is the maximum value of the “C” – frequency weighted instantaneous noise pressure;
+- “**the risk assessment**” means, except where the context otherwise requires, a risk assessment carried out in compliance with regulation 6 of these Regulations;
+- “ship” includes hovercraft;[^key-2713583dfb88034698b5440a23faf829]
+- “**surveyor of ships**” has the meaning given by section 256(9) of the Act;
+- “**United Kingdom ship**” means a ship which—
+  - (a) is a United Kingdom ship within the meaning of section 85(2) of the Act; or
+  - (b) [^key-188f8a9d26f390d799bea25f78bc9552]...
+  - (c) is a hovercraft registered under the Hovercraft Act 1968;
+- “**United Kingdom waters**” means the sea or other waters within the seaward limits of the territorial sea of the United Kingdom;
+- “**weekly noise exposure level**” is the time-weighted average of the daily noise exposure levels of a nominal week of five eight hour working days as defined by international standard ISO 1999:1990, point 3.6 (note 2).
+
+(2) In these Regulations a reference to the provision of music and entertainment on ships is a reference to ships where live or recorded music is played or any other form of entertainment is provided where such music or entertainment is or is likely to expose workers on that ship to noise levels exceeding the lower exposure action values.
+
+(3) In these Regulations any reference to—
+
+- (a) a particular Merchant Shipping Notice includes a reference to any document amending or replacing that Notice; and
+- (b) an ISO standard includes a reference to any document amending that publication;
+
+which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice.
+
+(4)[^key-4627fa5d249ceec5be9a54a798cb3290] In the application of these Regulations to a hovercraft, a reference to the master of a ship includes a reference to the captain of that hovercraft.
+
+## 3. Meaning of “worker”
+
+(1) In these Regulations, “**worker**” means any person employed under a contract of employment, including a trainee or apprentice other than a person who is training in a vessel which is being used—
+
+- (a) to provide instruction in the principles of responsibility, resourcefulness, loyalty and team endeavour and to advance education in the art of seamanship; or
+- (b) to provide instruction in navigation and seamanship for yachtsmen,
+
+and which is operating under a relevant code.
+
+(2) In paragraph (1) “**relevant code**” means—
+
+- (a) the Large Commercial Yacht Code as set out in Merchant Shipping Notice No. 1792(M), issued by the MCA;
+- (b) the Code of Practice for the Safety of Small Commercial Sailing Vessels [^c18960931];
+- (c) the Code of Practice for the Safety of Small Commercial Motor Vessels [^c18960941]; or
+- (d) the Code of Practice for the Safety of Small Vessels in Commercial Use for Sport or Pleasure Operating from a Nominated Departure Point [^c18960951].
+
+(3) In paragraph (2) each reference to a Code includes a reference to any document containing an amendment or replacement of that Code which is considered by the Secretary of State to be relevant from time to time.
+
+## 4. Application
+
+(1) Without prejudice to regulation 5 of the General Duties Regulations and subject to paragraphs (2) to (6), these Regulations apply in relation to United Kingdom ships.
+
+(2) Where—
+
+- (a) a ship is being used in the course of public service activities or activities for the purpose of civil protection services; and
+- (b) characteristics peculiar to those activities inevitably conflict with a provision of these Regulations,
+
+that provision does not apply in relation to that ship to the extent of that conflict.
+
+(3) To the extent that a provision of these Regulations does not apply in relation to a ship because of paragraph (2) there is in relation to that ship a duty on the employer to ensure, so far as is reasonably practicable, the health and safety of workers who are or who are likely to be exposed to risks from noise as a result of their work.
+
+(4) The provisions of the General Duties Regulations and the Provision and Use of Work Equipment Regulations 2006 shall continue to apply to activities to which these Regulations apply; where these Regulations contain more stringent or specific provisions then such provisions shall apply.
+
+(5) This regulation (other than paragraph (1)) and regulations 18 and 20 apply in relation to ships which are not United Kingdom ships, when they are in United Kingdom waters.
+
+(6) These regulations shall not apply to activities to which the Control of Noise at Work Regulations 2005 [^c18960961] or the Control of Noise at Work (Northern Ireland) Regulations 2006 [^c18960971] apply.
+
+(7) In paragraph (2)—
+
+- “**civil protection services**” includes the fire and rescue and ambulance services and search and rescue services provided by any other person;
+- “**public service activities**” includes the activities of the armed forces, HM Coastguard, HM Revenue and Customs, immigration officers, police, prison officers and the security and intelligence services.
+
+## 5. Exposure limit values and exposure action values
+
+(1) The lower exposure action values are—
+
+- (a) a daily or weekly personal noise exposure of 80 dB (A-weighted); and
+- (b) a peak sound pressure of 135 dB (C-weighted).
+
+(2) The upper exposure action values are—
+
+- (a) a daily or weekly personal noise exposure of 85 dB (A-weighted); and
+- (b) a peak sound pressure of 137 dB (C-weighted).
+
+(3) The exposure limit values are—
+
+- (a) a daily or weekly personal noise exposure of 87 dB (A weighted); and
+- (b) a peak sound pressure of 140 dB (C-weighted).
+
+(4) Subject to paragraph (5), where, as a result of activities, the exposure of an employee to noise varies markedly from day to day, an employer may use weekly personal noise exposure in place of daily noise exposure for the purpose of compliance with these Regulations.
+
+(5) Where an employer uses weekly noise exposure levels in accordance with paragraph (4) appropriate measures must be taken in order to reduce the risk associated with the relevant activities to as low as is reasonably practicable.
+
+(6) In applying the lower and upper exposure action values, no account shall be taken of attenuation provided by individual hearing protectors provided by the employer to be worn by the worker.
+
+(7) In applying the exposure limit values, account shall be taken of attenuation provided by individual hearing protectors provided by the employer to be worn by the worker.
+
+## 6. Assessment of risks
+
+(1) The employer shall assess the level of noise to which workers are exposed as part of the risk assessment required by regulation 7 of the General Duties Regulations.
+
+(2) The risk assessment—
+
+- (a) shall use methods which are adapted to the prevailing conditions, including—
+  - (i) the characteristics of the noise to be measured;
+  - (ii) the length of exposure;
+  - (iii) ambient factors; and
+  - (iv) the characteristics of the measuring apparatus, including the accuracy of the measuring equipment determined in accordance with metrological practice;
+- (b) shall determine, in accordance with paragraphs (6) and (7) respectively of regulation 5, whether the exposure action values and the exposure limit values are exceeded;
+- (c) may use sampling which is representative of the personal exposure of workers as a method of determining risk; and
+- (d) if necessary, shall be based on measurement of level of noise to which workers are likely to be exposed.
+
+(3) Without prejudice to the generality of regulation 7 of the General Duties Regulations, in carrying out the risk assessment the employer shall consider—
+
+- (a) the level, type and duration of exposure to noise, including any exposure to impulsive noise;
+- (b) the exposure limit values and the exposure action values specified in regulation 5;
+- (c) the effects of noise on the health and safety of workers or groups of workers whose health is at particular risk from such exposure;
+- (d) so far as practicable, the effects on health and safety of workers resulting from the interaction between noise and the use of ototoxic substances and between noise and vibration;
+- (e) any indirect effects on workers' health and safety resulting from interactions between noise and audible warning signals or other sounds that need to be observed in order to reduce risks;
+- (f) any information on noise emissions provided by manufacturers of work equipment;
+- (g) the availability of alternative work equipment designed to reduce the emission of noise;
+- (h) the extension of exposure to noise beyond normal working hours;
+- (i) appropriate information obtained following health surveillance, including, where possible, published information; and
+- (j) the availability of personal hearing protectors with adequate attenuation characteristics.
+
+(4) The employer shall ensure that the risk assessment—
+
+- (a) is planned and carried out by the persons appointed in accordance with regulation 14 of the General Duties Regulations;
+- (b) records—
+  - (i) the significant findings of the risk assessment as soon as practicable after the risk assessment is made or changed; and
+  - (ii) the measures the employer has taken or intends to take to comply with regulations 7, 8 and 9 of these Regulations;
+
+  so as to permit consultation as required by these Regulations;
+- (c) is reviewed—
+  - (i) at suitable intervals;
+  - (ii) if there are any significant changes in working condition which affect its validity; or
+  - (iii) if the results of a health surveillance indicate that a further risk assessment is necessary; and
+- (d) is retained by him.
+
+## 7. Elimination or control of exposure to noise in the workplace
+
+(1) The employer shall ensure that the risks arising from exposure to noise which are identified by the risk assessment are either—
+
+- (a) eliminated at their source; or
+- (b) reduced to a level which is as low as is reasonably practicable.
+
+(2) If the risk assessment shows that the upper exposure action values are exceeded, the employer shall establish and implement a programme of technical or organisational measures (or both) which is appropriate to that activity to reduce the exposure of workers to noise..
+
+(3) Actions taken by an employer to comply with paragraphs (1) and (2) shall be based on the principles in regulation 5 of the General Duties Regulations; such actions shall take into consideration—
+
+- (a) other working methods that reduce exposure to noise;
+- (b) choice of appropriate work equipment emitting the least possible noise, taking account of the work to be done;
+- (c) the design and layout of workplaces and workstations;
+- (d) suitable and sufficient information and training for workers, such that work equipment may be used correctly, in order to reduce their exposure to noise to as low as is reasonably practicable;
+- (e) reduction of noise by technical means such as;
+  - (i) reducing airborne noise by use of methods such as shields, enclosures or sound-absorbent coverings; and
+  - (ii) reducing structure-borne noise by damping or isolation;
+- (f) appropriate maintenance programmes for work equipment, the workplace and workplace systems; and
+- (g) organisation of work schedules so as to limit the duration and intensity of exposure to noise and provide adequate rest periods.
+
+(4) The employer shall ensure that workers are not exposed to noise exceeding the exposure limit values specified in regulation 5(3).
+
+(5) Following implementation of the organisational and technical measures taken in accordance with paragraph (2) if exposures above the exposure limit value are detected, the employer shall—
+
+- (a) take such action as is necessary to reduce exposure to noise below the exposure limit value;
+- (b) identify the reasons why the limit has been exceeded; and
+- (c) amend the measures taken in accordance with paragraph (2) to ensure that the limit is not exceeded again.
+
+(6) Noise in accommodation and rest spaces shall be reduced to a level compatible with their purpose and use.
+
+(7) The employer shall adapt measures which are taken in accordance with this regulation to workers who are particularly sensitive to noise.
+
+(8) The employers shall consult the workers concerned or their representatives on the measures to be taken to comply with this regulation.
+
+## 8. Hearing protection
+
+(1) Without prejudice to the provisions in regulation 7, an employer shall make personal hearing protectors available to any worker who is or is likely to be exposed to noise above a lower exposure action value.
+
+(2) Without prejudice to the provisions in regulation 7, an employer shall ensure, so far as is reasonably practicable, that all workers who are exposed to noise which is at or above an upper exposure action value shall use personal hearing protectors.
+
+(3) If in any area of the ship under the control of the employer a worker is likely to be exposed to noise at or above an upper exposure action value for any reason, the employer shall ensure that—
+
+- (a) the area is demarcated and identified by means of the sign specified for the purpose of indicating that ear protection must be worn in paragraph 3.3 of Annex II to Merchant Shipping Notice 1763; and
+- (b) access to the area is restricted where this is practicable and the risk from exposure justifies it.
+
+(4) Any personal hearing protectors provided in accordance with this regulation shall be selected by the employer so as to eliminate the risk to hearing or to reduce the risk to as low a level as is reasonably practicable; such personal hearing protectors shall comply with the requirements of the Merchant Shipping and Fishing Vessels (Personal Protective Equipment) Regulations 1999 [^c18960981].
+
+## 9. Worker information and training
+
+(1) If the risk assessment indicates that workers are exposed to noise at or above the lower exposure action value the employer shall provide those workers and their representatives with suitable and sufficient information, instruction and training.
+
+(2) Information, instruction and training provided in accordance with paragraph (1) shall include—
+
+- (a) the nature of such risks;
+- (b) the measures taken to implement these Regulations in order to eliminate or reduce to as low as is reasonably practicable the risks from noise, including the circumstances in which such measures apply;
+- (c) the exposure limit values and the exposure action values;
+- (d) the results of the risk assessment carried out in accordance with regulation 6 together with an explanation of the significance and potential of such risks;
+- (e) the correct use of hearing protectors;
+- (f) the circumstances in which workers are entitled to health surveillance under these Regulations;
+- (g) safe working practices to minimise exposure to noise;
+- (h) how to detect and report signs of hearing damage; and
+- (i) the importance of detecting and reporting signs of hearing damage.
+
+## 10. Health surveillance
+
+(1) If the risk assessment indicates that there is a risk to the health of his workers who are, or are likely to be, exposed to noise, the employer shall ensure that such workers are kept under health surveillance in accordance with paragraph (2).
+
+(2) Health surveillance shall be provided by the employer as follows—
+
+- (a) where a worker is exposed to noise above the upper exposure action values, such worker shall be entitled to have his hearing examined by a doctor or by a suitably qualified person under the supervision of a doctor; and
+- (b) where workers are exposed to noise above the lower exposure action values, where the risk assessment required by regulation 6 indicates a risk to health, such workers shall be entitled to preventative audiometric testing.
+
+(3) Where, as a result of health surveillance a worker is found to have identifiable hearing damage a doctor or such specialist as a doctor considers appropriate, shall assess whether the damage is likely to be the result of exposure to noise at work.
+
+(4) If it is found in accordance with paragraph (3) that hearing damage is likely to have been the result of exposure to noise at work the employer shall—
+
+- (a) ensure that the worker is informed by a doctor or other suitably qualified person of the result of the health surveillance which relates to him personally;
+- (b) review the risk assessment concerned;
+- (c) review the measures taken to comply with regulations 7 and 8 taking into account any advice given by a doctor, occupational healthcare professional or the MCA;
+- (d) consider assigning the worker to alternative work where there is no risk of further exposure to noise, when advised to do so by a doctor or an occupational health care professional;
+- (e) ensure continued health surveillance and provide for a review of the health of any other employee who has been similarly exposed..
+
+(5) The employer shall ensure that a health record is made and maintained in respect of each worker who undergoes health surveillance in accordance with these Regulations, the record being in a suitable form and containing a summary of the results of the health surveillance carried out.
+
+(6) The employer shall—
+
+- (a) on reasonable notice being given, allow a worker access to his personal health records;
+- (b) keep the health records available in a suitable form;
+- (c) at the request of a worker, make available the health records to any person specified by the worker; and
+- (d) provide the Secretary of State with such copies of the health records as the Secretary of State may require.
+
+(7) The employer shall pay the costs of health surveillance carried out in order to comply with this regulation.
+
+## 11. Consultation with workers
+
+In consulting with workers in accordance with regulation 20 of the General Duties Regulations, workers or their representatives shall be consulted on matters covered by regulations 6 to 10 of these Regulations and in particular on—
+
+- (a) the assessment of risk under the provisions of regulation 6;
+- (b) measures taken to eliminate or reduce risks arising from exposure to noise in accordance with regulation 7; and
+- (c) the choice of individual hearing protectors in accordance with regulation 8.
+
+## 12. Persons on whom duties are imposed
+
+(1) Where a person on whom a duty is imposed by any of the preceding provisions of these Regulations does not have control of the matter to which that provision relates because that person does not have responsibility for the operation of the ship, that duty also extends to any other person who has control of that matter.
+
+(2) It shall be the duty of every worker performing activities to which these Regulations apply to—
+
+- (a) make full and proper use of all clothing and equipment with which he has been provided by the employer in pursuance of these Regulations; and
+- (b) to give effect to all instructions and training with which he has been provided under regulation 9.
+
+## 13. Exemptions
+
+(1) The Secretary of State may grant an exemption from compliance with regulations 7(4) and (5) and 8(1) and (2) in respect of work on a particular ship where because of the nature of the work the full and proper use of personal hearing protectors would be likely to cause a greater risk to health or safety than not using such protectors.
+
+(2) The Secretary of State may not grant an exemption under paragraph (1) unless—
+
+- (a) he has consulted with—
+  - (i) the employer or other person having control of the matter in question;
+  - (ii) such medical bodies as he considers appropriate; and
+  - (iii) the workers concerned or their representatives; and
+- (b) health surveillance has been increased to a level considered appropriate by the Secretary of State.
+
+(3) Any exemption granted under this regulation shall–
+
+- (a) be in writing;
+- (b) be accompanied by conditions which guarantee, taking into account the special circumstances, that the resulting risks are reduced to as low as reasonably practicable;
+- (c) be valid for a maximum period of four years; and
+- (d) be withdrawn as soon as the Secretary of State is satisfied that it is no longer justified.
+
+## 14. Offences and penalties
+
+(1) A person who fails to comply with regulation 6, 7 or 10 is guilty of an offence and liable –
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum, or
+- (b) on conviction on indictment to imprisonment for a term not exceeding two years or a fine (or both).
+
+(2) A person who fails to comply with regulation 8 is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(3) A person who fails to comply with regulation 11 is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(4) A person who fails to comply with regulation 9 or contravenes regulation 22 is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(5) A worker who fails to comply with the obligations in regulation 12(2) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+(6) Section 146(1) of the Act (enforcement of fines) applies to any fine imposed for an offence under paragraphs (1) to (4) of this regulation as if the reference to proceedings against the owner or master of a ship for an offence under Chapter 2 were a reference to proceedings against any person for an offence under those paragraphs.
+
+## 15. Offences by body corporate
+
+(1) Where a body corporate is guilty of an offence under these Regulations and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in such a capacity, he as well as the body corporate is guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, the preceding paragraph shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(3) Where an offence under these Regulations committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, a partner, that partner as well as the partnership is guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+## 16. Onus of proving what is reasonably practicable
+
+In any proceedings for an offence under these Regulations consisting of a failure to comply with a duty or requirement to do something so far as is reasonably practicable, it shall be for the defendant to prove that it was not reasonably practicable to do more than was in fact done to satisfy the duty or requirement.
+
+## 17. Detention of a United Kingdom ship
+
+(1) Where a surveyor of ships is satisfied that there is or has been a failure by an employer or other person referred to in regulation 12(1) to comply in relation to any United Kingdom ship with the preceding requirements of these Regulations, that ship is liable to be detained until a surveyor of ships is satisfied that those requirements are complied with.
+
+(2) A surveyor of ships may permit a ship which is liable to be detained under paragraph (1) to proceed to sea for the purposes of proceeding to the nearest appropriate repair yard.
+
+(3) A ship shall not be delayed or detained unreasonably under this regulation.
+
+(4) Where a ship is detained because in relation to it there has been a failure to comply with the requirements of these Regulations, and that failure has ceased, a person having power to detain the ship shall, at the request of the owner or master, immediately release the ship—
+
+- (a) if no proceedings for an offence arising from the failure in question are instituted within the period of seven days beginning with the day on which the ship is detained;
+- (b) if proceedings for an offence arising from the failure in question, having been instituted within that period, are concluded without the employer or other person having control of the matter in question being convicted;
+- (c) if either—
+  - (i) the sum of £30,000 is paid to the Secretary of State by way of security, or
+  - (ii) security which, in the opinion of the Secretary of State, is satisfactory and is for an amount not less than £30,000 is given to the Secretary of State,
+
+  by or on behalf of the employer or other person having control of the matter in question;
+- (d) where the employer or other person having control of the matter in question is convicted of an offence arising from the failure in question, if any costs or expenses ordered to be paid by him, and any fine imposed on him, have been paid; or
+- (e) the release is ordered by a court or tribunal referred to in article 292 of the United Nations Convention on the Law of the Sea 1982 [^c18960991], and any bond or other financial security ordered by such court or tribunal is posted.
+
+(5) The Secretary of State shall repay any sum paid in pursuance of paragraph (4)(c) or release any security so given—
+
+- (a) if no proceedings for an offence arising from the failure in question are instituted within the period of seven days beginning with the day on which the sum is paid; or
+- (b) if proceedings for an offence arising from the failure in question, having been instituted within that period, are concluded without the employer or other person having control of the matter in question being convicted.
+
+(6) Where a sum has been paid, or security has been given, by any person in pursuance of paragraph (4)(c) above and the employer or other person having control of the matter in question is convicted of an offence arising from the failure in question, the sum so paid or the amount made available under the security shall be applied as follows—
+
+- (a) first in payment of any costs or expenses ordered by the court to be paid by the employer or other person having control of the matter in question; and
+- (b) next in payment of any fine imposed by the court, and any balance shall be repaid to the first-mentioned person.
+
+(7) Section 145 of the Act (interpretation of section 144) applies for the purposes of paragraphs (4) to (6) as if –
+
+- (a) references to the master or owner of the ship were references to the employer or other person having control of the matter in question; and
+- (b) references to an offence under section 131 were references to an offence arising from the failure in question.
+
+## 18. Inspection and other measures in respect of ships registered outside the United Kingdom
+
+(1) When a ship which is not a United Kingdom ship is in United Kingdom waters, a relevant inspector may inspect that ship to ascertain whether the standards required in relation to United Kingdom ships by these Regulations are met in relation to that ship.
+
+(2) Where a surveyor of ships is satisfied that the standards required in relation to United Kingdom ships by these Regulations are not met in relation to a ship which is not a United Kingdom ship but is in United Kingdom waters, that surveyor of ships may—
+
+- (a) send a report to the government of the State whose flag the ship is entitled to fly, and a copy thereof to the Director General of the International Labour Office; and
+- (b) where conditions on board are clearly hazardous to health or safety, take such measures as are necessary to ensure those conditions are rectified.
+
+(3) A ship to which paragraph (2)(b) applies is liable to be detained until a surveyor of ships is satisfied that those conditions are rectified.
+
+(4) A surveyor of ships may permit a ship which is liable to be detained under paragraph (3) to proceed to sea for the purposes of proceeding to the nearest appropriate repair yard.
+
+(5) If any of the measures specified in paragraph (2)(b) or (3) are taken, the surveyor of ships shall immediately notify the nearest maritime, consular or diplomatic representative of the State whose flag the ship is entitled to fly.
+
+(6) A ship shall not in the exercise of the power under this regulation be delayed or detained unreasonably.
+
+(7) In paragraph (1), “**relevant inspector**” means a person mentioned in paragraph (a), (b) or (c) of section 258(1) of the Act [^c18961001].
+
+## 19. Application of powers of inspectors in relation to Government ships[^key-3c170f5cadcd266e57446e8a3e2ea8d3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 20. Enforcement of detention
+
+(1) Section 284 of the Act applies where a ship is liable to be detained under these Regulations as if—
+
+- (a) references to detention of a ship under the Act were references to detention of the ship in question under these Regulations; and
+- (b) subsection (7) were omitted.
+
+(2) Where a ship is liable to be detained under these Regulations, the person detaining the ship shall serve on the master of the ship a detention notice which shall—
+
+- (i) state that a surveyor of ships is of the opinion that in relation to that ship there is a failure to comply with the requirements of these Regulations;
+- (ii) specify the matters which, in the opinion of the surveyor of ships, have the effect that in relation to that ship those requirements are not met; and
+- (iii) require the terms of the notice to be complied with until the ship is released by any person mentioned in section 284(1) of the Act.
+
+## 21. Right of appeal and compensation[^key-eb5cea03321d2276fa51c03701925c90]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 22. Prohibition on Levy
+
+No charge in respect of anything done or provided in pursuance of any specific requirement of these Regulations shall be levied or permitted to be levied on any worker.
+
+Signed by authority of the Secretary of State for Transport
+
+Jim Fitzpatrick
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement Council Directive [2003/10/EC](https://www.legislation.gov.uk/european/directive/2003/0010) (OJ No L 042, 15.2.2003, p.38) on the minimum health and safety requirements regarding the exposure of workers to the risks arising from physical agents (noise) (seventeenth individual Directive within the meaning of Article 16(1) of Directive [89/391/EEC](https://www.legislation.gov.uk/european/directive/1989/0391)). They apply to United Kingdom ships wherever they may be and non-United Kingdom ships in United Kingdom waters. The Regulations impose duties on employers to protect workers who may be exposed to risk from exposure to noise at work.
+
+The Regulations make provision for—
+
+- (a) action values and limit values for daily and weekly exposure to noise (*regulation 5*);
+- (b) risk assessment (*regulation 6*);
+- (c) elimination or, where elimination is not reasonably practicable, reduction of exposure to noise;
+- (d) actions to be taken at action values and limit values;
+- (e) prohibition on exceeding limit values (*regulation 7*);
+- (f) provision of individual hearing protection (*regulation 8*);
+- (g) information, instruction and training (*regulation 9*);
+- (h) health surveillance (*regulation 10*);
+- (i) consultation with workers (*regulation 11*);
+- (j) the grant of exemptions by the Secretary of State *(regulation 13);* and
+- (k) offences, detention, inspection and penalties *(regulations 12 and 14 to 21)*.
+
+These Regulations are made under the powers in the Merchant Shipping Act 1995 except in respect of their application to Government ships where the power is provided by section 2(2) of the European Communities Act 1972.
+
+Copies of British Standard BS EN ISO 1999:1990 are obtainable from British Standards Institution, BSI House, 389 Chiswick High Road, London W4 4AL.
+
+A Regulatory Impact Assessment and a Transposition Note have been prepared and a copy has been placed in the Library of each House of Parliament. Copies can be obtained from the Maritime and Coastguard Agency, Spring Place, 105 Commercial Road, Southampton, SO15 1EG (telephone number 02380 329100).
+
+Merchant Shipping Notices can be obtained from Mail Marketing (Scotland), Unit 6, Bloomsgrove Industrial Estate, Norton Street, Nottingham, NG7 3JG (telephone 0115 901 3336; fax 0115 901 3334; e-mail orders: mca@promo-solution.com). They may also be accessed via the Maritime and Coastguard Agency's website http://www.mcga.gov.uk.
+
+## Annotations
+
+[^c18960871]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68)
+
+[^c18960881]: Marginal citation: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595)
+
+[^c18960891]: Marginal citation: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21);
+
+[^c18960901]: Marginal citation: [Sections 85](https://www.legislation.gov.uk/uksi/2007/3075/section/85) and 86 of the Merchant Shipping Act 1995 were amended by the [Merchant Shipping and Maritime Security Act 1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), [section 8](https://www.legislation.gov.uk/ukpga/1997/28/section/8)
+
+[^c18960911]: Marginal citation: [S.I. 1997/2962](https://www.legislation.gov.uk/uksi/1997/2962) amended by [S.I. 1998/2411](https://www.legislation.gov.uk/uksi/1998/2411) and [S.I. 2001/54](https://www.legislation.gov.uk/uksi/2001/54)
+
+[^key-188f8a9d26f390d799bea25f78bc9552]: Textual amendment: Words in reg. 2(1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+
+[^c18960921]: Marginal citation: [S.I. 2006/2183](https://www.legislation.gov.uk/uksi/2006/2183)
+
+[^key-2713583dfb88034698b5440a23faf829]: Textual amendment: Words in reg. 2(1) inserted (26.4.2010) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1110)](https://www.legislation.gov.uk/uksi/2010/1110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/1/3), [2(a)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/2/a)
+
+[^key-4627fa5d249ceec5be9a54a798cb3290]: Textual amendment: Reg. 2(4) inserted (26.4.2010) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1110)](https://www.legislation.gov.uk/uksi/2010/1110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/1/3), [2(b)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/2/b)
+
+[^c18960931]: Marginal citation: Published by the Stationery Office in 1993 (ISBN 0-11-551184-9).
+
+[^c18960941]: Marginal citation: Published by the Stationery Office in 1993 (ISBN 0-11-551185-7).
+
+[^c18960951]: Marginal citation: Published by the Stationery Office in 1999 (ISBN 9-11-551812-6).
+
+[^c18960961]: Marginal citation: [S.I. 2005/1643](https://www.legislation.gov.uk/uksi/2005/1643).
+
+[^c18960971]: Marginal citation: S.R. (NI) [2006 No. 1](https://www.legislation.gov.uk/ukcm/2006/1).
+
+[^c18960981]: Marginal citation: [S.I. 1999/2205](https://www.legislation.gov.uk/uksi/1999/2205)
+
+[^c18960991]: Marginal citation: Cmnd. 8941.
+
+[^c18961001]: Marginal citation: [Section 258(1)](https://www.legislation.gov.uk/uksi/2007/3075/section/258/1) was amended by the [Merchant Shipping and Maritime Security Act 1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), [sections 9](https://www.legislation.gov.uk/ukpga/1997/28/section/9) and 29(2), Schedule 1 paragraph 4 and Schedule 9 Part I.
+
+[^key-3c170f5cadcd266e57446e8a3e2ea8d3]: Textual amendment: Reg. 19 omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+
+[^key-eb5cea03321d2276fa51c03701925c90]: Textual amendment: Reg. 21 omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)

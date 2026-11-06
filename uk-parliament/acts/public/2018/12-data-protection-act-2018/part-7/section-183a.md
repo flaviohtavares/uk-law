@@ -1,0 +1,51 @@
+---
+title: Data Protection Act 2018, section 183A
+act: Data Protection Act 2018
+section: 183A
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2018/12/section/183A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Data Protection Act 2018, section 183A
+
+> **Warning: changes not yet applied to this text (7).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/12
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 183A. Protection of prohibitions and restrictions etc on processing: relevant enactments[^key-e0bccd6b1e4e022c2e677ed1bdb9d8d1]
+
+*Extent: E+W+S+N.I.*
+
+(1) A relevant enactment or rule of law which imposes a duty, or confers a power, to process personal data does not override a requirement under the main data protection legislation relating to the processing of personal data.
+
+(2) Subsection (1) does not apply—
+
+- (a) to a relevant enactment forming part of the main data protection legislation, or
+- (b) to the extent that an enactment makes express provision to the contrary referring to this section or to the main data protection legislation (or a provision of that legislation).
+
+(3) Subsection (1) does not prevent a duty or power to process personal data from being taken into account for the purpose of determining whether it is possible to rely on an exception to a requirement under the main data protection legislation that is available where there is such a duty or power.
+
+(4) In this section—
+
+- “**the main data protection legislation**” means the data protection legislation other than provision of or made under—
+  - (a) Chapter 6 or 8 of the UK GDPR, or
+  - (b) Parts 5 to 7 of this Act;
+- “**relevant enactment**” means an enactment so far as passed or made on or after 20th August 2025[^key-63330d56a2e81707f9cd5b177a000af0];
+- “**requirement**” includes a prohibition or restriction.
+
+(5) The reference in subsection (1) to an enactment or rule of law which imposes a duty, or confers a power, to process personal data is a reference to an enactment or rule of law which, directly or indirectly, requires or authorises the processing of personal data, including (for example)—
+
+- (a) by authorising one person to require another person to process personal data, or
+- (b) by removing restrictions on processing personal data,
+
+and the references in subsection (3) to a duty or power are to be read accordingly.
+
+## Annotations
+
+[^key-e0bccd6b1e4e022c2e677ed1bdb9d8d1]: Textual amendment: S. 183A and cross-heading inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 106(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/106/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/k)
+
+[^key-63330d56a2e81707f9cd5b177a000af0]: Textual amendment: Words in [s. 183A(4)](https://www.legislation.gov.uk/ukpga/2018/12/section/183A/4) substituted (29.1.2026) by [The Data (Use and Access) Act 2025 (Commencement No. 6 and Transitional and Saving Provisions) Regulations 2026 (S.I. 2026/82)](https://www.legislation.gov.uk/uksi/2026/82), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2026/82/regulation/12/2)

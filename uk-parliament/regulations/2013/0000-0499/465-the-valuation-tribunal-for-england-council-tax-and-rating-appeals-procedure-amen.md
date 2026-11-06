@@ -1,0 +1,161 @@
+---
+title: The Valuation Tribunal for England (Council Tax and Rating Appeals) (Procedure) (Amendment) Regulations 2013
+id: uksi/2013/465
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2013-03-01'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2013/465
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/465/pdfs/uksiem_20130465_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/465/pdfs/uksi_20130465_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/465/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Valuation Tribunal for England (Council Tax and Rating Appeals) (Procedure) (Amendment) Regulations 2013
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2013 No. 465
+
+Council Tax, England
+
+Rating And Valuation, England
+
+The Valuation Tribunal for England (Council Tax and Rating Appeals) (Procedure) (Amendment) Regulations 2013
+
+Made
+
+1st March 2013
+
+Laid before Parliament
+
+6th March 2013
+
+Coming into force
+
+1st April 2013
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 143(1) and (2) of, and paragraphs A19, 8 and 11 of Schedule 11 to, the Local Government Finance Act 1988[^f00001], and after consultation with the Administrative Justice and Tribunals Council in accordance with paragraph 24 of Schedule 7 to the Tribunals, Courts and Enforcement Act 2007[^f00002]:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Valuation Tribunal for England (Council Tax and Rating Appeals) (Procedure) (Amendment) Regulations 2013 and come into force on 1st April 2013.
+
+## 2. Amendment of the Valuation Tribunal for England (Council Tax and Rating Appeals) (Procedure) Regulations 2009
+
+(1) The Valuation Tribunal for England (Council Tax and Rating Appeals) (Procedure) Regulations 2009[^f00003] are amended as follows.
+
+(2) In regulation 10 (striking out proceedings) after paragraph (8) insert—
+
+> (9) The functions of the VTE under paragraphs (2), (3)(a) and (4) and under regulation 37, so far as they relate to the striking out of proceedings in a section 16 appeal, may be discharged on behalf of the VTE by the clerk of the VTE or by any other member of the VTE’s staff.
+>
+> (10) In paragraph (9), “VTE’s staff” means the staff provided to the VTE by (or under arrangements made by) the VTS.
+
+.
+
+(3) In regulation 17(3)(a) (evidence and submissions)—
+
+- (i) at the end of sub-paragraph (iii) omit “or”;
+- (ii) at the end of sub-paragraph (iv) omit “and”;
+- (iii) after sub-paragraph (iv) insert—
+
+  > - (v) under paragraph 15A of Schedule 2 to the 1992 Act; or
+  > - (vi) under section 131 of the Welfare Reform Act 2012[^f00004] for purposes relating to council tax; and
+
+  .
+
+(4) After regulation 20 (interpretation of Part 3) insert—
+
+> **20A. Notices of appeal - section 16 appeals**
+>
+> (1) A section 16 appeal shall be initiated by giving written notice of appeal to the VTE.
+>
+> (2) A notice of appeal in the case of a section 16 appeal shall include the following particulars—
+>
+> - (a) full name and address of the appellant;
+> - (b) the address of the relevant chargeable dwelling[^f00005], if different from the address referred to in sub-paragraph (a);
+> - (c) the date on which the written notice under section 16(4)(a) of the 1992 Act was served and the name of the authority on which it was served;
+> - (d) the date, if applicable, on which the appellant was notified by the authority in accordance with section 16(7)(a) or (b) of the 1992 Act;
+> - (e) the grounds on which the appellant is aggrieved;
+> - (f) brief reasons why the appellant considers that the decision or calculation made by the authority was incorrect; and
+> - (g) where the appellant has also made an appeal to the First-tier Tribunal in accordance with the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001[^f00006] and the appeal raises common issues of fact with the appeal made under section 16 of the 1992 Act, a statement to that effect.
+
+.
+
+(5) In regulation 36(2) (notice of decisions)—
+
+- (a) after sub-paragraph (a) insert—
+
+  > - (aa) in the case of a section 16 appeal, notification of the right to request a written statement of reasons, where those written reasons have not already been provided;
+
+  ;
+- (b) in sub-paragraph (c) for “such right” substitute “right referred to in sub-paragraph (aa) or (b)”.
+
+(6) In regulation 37 (reasons for the decision)—
+
+- (a) in paragraph (1) for “As soon” substitute “Subject to paragraph (3) as soon”;
+- (b) after paragraph (2) insert—
+
+  > (3) In the case of a section 16 appeal the VTE Panel may give reasons for a decision which disposes of proceedings—
+  >
+  > - (a) orally at a hearing; or
+  > - (b) in a written statement of reasons to each party.
+  >
+  > (4) Unless the VTE Panel has already provided a written statement of reasons under paragraph (3)(b), a party may request the VTE Panel to provide such written statement following a decision which finally disposes of all issues in the proceedings.
+  >
+  > (5) A request under paragraph (4) must be made within two weeks beginning with the date on which the VTE Panel sent or otherwise provided to the party a decision notice relating to the decision which finally disposes of all issues in the proceedings.
+  >
+  > (6) If a party makes a request in accordance with paragraphs (4) and (5) the VTE Panel must send a written statement of reasons to each party within two weeks beginning with the date on which the request was made or as soon as reasonably practicable after the end of that period.
+  >
+  > (7) Where a request under paragraph (4) is made in writing, it shall be treated, for the purposes of paragraphs (5) and (6), as having been made on the date it is received by the VTE.
+
+  .
+
+(7) In regulation 38 (orders other than consent orders) after paragraph (7) insert—
+
+> (7A) After dealing with an appeal against imposition of a CT penalty, the VTE may by order require a penalty to be quashed.
+
+.
+
+(8) In regulation 43(2) at the end insert “or, in the case of a section 16 appeal, within two weeks of the date on which written reasons for the decision are given in accordance with regulation 37(6), if later”.
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Nick Boles
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+1st March 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Valuation Tribunal for England (Council Tax and Rating Appeals) (Procedure) Regulations 2009 ([S.I. 2009/2269](https://www.legislation.gov.uk/uksi/2009/2269)) (the 2009 Regulations) set out the procedures to be followed in connection with appeals relating to council tax or non-domestic rating under certain provisions, including appeals under section 16 of the Local Government Finance Act 1992 (council tax appeals). These Regulations amend the 2009 Regulations.
+
+Regulation 2(2) amends regulation 10 of the 2009 Regulations so as to give the VTE power to delegate its function of striking out cases in certain circumstances. Regulation 2(3) amends regulation 17 to provide for the use of information supplied to the VTE under certain data sharing powers. Regulation 2(4) inserts a new regulation 20A to prescribe the method for initiating a section 16 appeal and the particulars required to be included in the notice of appeal. Regulation 2(6) amends regulation 37 (reasons for the decision) to provide that written reasons in a section 16 appeal only need to be given on request and regulation 2(5) makes a consequential amendment to regulation 36 (notification of decision). Regulation 2(7) amends regulation 38 to make provision for the quashing of penalties and regulation 2(8) provides for an extended period of appeal to the High Court in certain cases.
+
+An impact assessment has not been produced for these Regulations as no impact on the private or voluntary sectors is foreseen and the impact on the public sector is minimal.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Relevant amendments to Schedule 11 were made by the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), section 219(1) and Schedule 15 and by the Local Government Finance Act [2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), Schedule 4.
+
+[^f00002]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
+
+[^f00003]: Footnote: [S.I. 2009/2269](https://www.legislation.gov.uk/uksi/2009/2269) amended by [S.I. 2011/434](https://www.legislation.gov.uk/uksi/2011/434).
+
+[^f00004]: Footnote: [2012 c. 15](https://www.legislation.gov.uk/ukpga/2012/15).
+
+[^f00005]: Footnote: See section 4 of the Local Government Finance Act 1992 for meaning of “chargeable dwelling”.
+
+[^f00006]: Footnote: [S.I. 2001/1002](https://www.legislation.gov.uk/uksi/2001/1002). Relevant amendments were made by [S.I. 2008/2683](https://www.legislation.gov.uk/uksi/2008/2683).

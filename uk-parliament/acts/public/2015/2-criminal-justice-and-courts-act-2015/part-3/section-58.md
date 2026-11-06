@@ -1,0 +1,56 @@
+---
+title: Criminal Justice and Courts Act 2015, section 58
+act: Criminal Justice and Courts Act 2015
+section: '58'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2015/2/section/58
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice and Courts Act 2015, section 58
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/2
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 58. Rules against inducements to make personal injury claims[^key-4d8b3d1fa8c5fb93616918280958d0a1]
+
+*Extent: E+W*
+
+(1) A regulated person is in breach of this section if—
+
+- (a) the regulated person offers another person a benefit or is treated as doing so under subsection (4),
+- (b) the offer of the benefit is an inducement to make a claim in civil proceedings for—
+  - (i) damages for personal injury or death, or
+  - (ii) damages arising out of circumstances involving personal injury or death, and
+- (c) the benefit is not related to the provision of legal services in connection with the claim.
+
+(2) An offer of a benefit to another person is an inducement to make a claim if the offer of the benefit—
+
+- (a) is intended to encourage the person to make a claim or to seek advice from a regulated person with a view to making a claim, or
+- (b) is likely to have the effect of encouraging the person to do so.
+
+(3) An offer of a benefit may be an inducement to make a claim regardless of—
+
+- (a) when or by what means the offer is made,
+- (b) whether the receipt of the benefit pursuant to the offer is subject to conditions,
+- (c) when the benefit may be received pursuant to the offer, or
+- (d) whether the benefit may be received by the person to whom the offer is made or by a third party.
+
+(4) If a person other than a regulated person offers a benefit in accordance with arrangements made by or on behalf of a regulated person—
+
+- (a) the regulated person is to be treated as offering the benefit, and
+- (b) the offer of the benefit is to be treated as satisfying subsection (2)(a) if the arrangements were intended to encourage people to make claims or seek advice from a regulated person with a view to making a claim.
+
+(5) The Lord Chancellor may by regulations make provision as to the circumstances in which a benefit is related to the provision of legal services in connection with a claim, including provision about benefits relating to—
+
+- (a) fees to be charged in respect of the legal services,
+- (b) expenses which are or would be necessarily incurred in connection with the claim, or
+- (c) insurance to cover legal costs and expenses in connection with the claim.
+
+## Annotations
+
+[^key-4d8b3d1fa8c5fb93616918280958d0a1]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2015/2/section/58) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/48)

@@ -1,0 +1,117 @@
+---
+title: The Microbiological Research Authority (Establishment and Constitution) Order 1994
+id: uksi/1994/603
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1994-03-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/603
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/603/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Microbiological Research Authority (Establishment and Constitution) Order 1994
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1994 No. 603
+
+NATIONAL HEALTH SERVICE, ENGLAND AND WALES
+
+The Microbiological Research Authority (Establishment and Constitution) Order 1994
+
+Made
+
+8th March 1994
+
+Laid before Parliament
+
+8th March 1994
+
+Coming into force
+
+1st April 1994
+
+The Secretary of State, in exercise of powers conferred on her by sections 11(1), (2) and (4) and 126(4) of, and paragraph 9(7)(b) of Schedule 5 to, the National Health Service Act 1977[^f00001] and all other powers enabling her in that behalf, and after consultation, in accordance with section 11(5) of that Act, with such bodies as she recognises as representing officers who in her opinion are likely to be transferred or affected by transfers in pursuance of the Order, hereby makes the following Order:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Microbiological Research Authority (Establishment and Constitution) Order 1994 and shall come into force on 1st April 1994.
+
+(2) In this Order—
+
+- “the Act” means the National Health Service Act 1977;
+- “the Authority” means the Microbiological Research Authority established by this Order;
+- “the Board” means the Public Health Laboratory Service Board constituted in accordance with section 5(5) of, and Part I of Schedule 3 to, the Act[^f00002].
+
+## 2. Establishment of the Microbiological Research Authority
+
+There is hereby established a special health authority which shall be known as the Microbiological Research Authority.
+
+## 3. Functions of the Authority
+
+(1) Subject to and in accordance with such directions as the Secretary of State may give to the Authority[^f00003], the Authority shall perform on behalf of the Secretary of State —
+
+- (a) such of her functions with respect to the powers conferred by section 5(2)(c) of the Act[^f00004] as are specified in paragraph (2) of this article;
+- (b) such other of those functions as she may direct the Authority to perform on her behalf; and
+- (c) her functions under section 5(2A) so far as they relate to the functions mentioned in sub-paragraphs (a) and (b) of this paragraph.
+
+(2) The functions referred to in paragraph (1) of this article are—
+
+- (a) to provide such advice and assistance as may be required by bodies exercising functions on behalf of the Crown for the protection of persons against microbiological hazards;
+- (b) to conduct research and development with a view to maintaining and enhancing technological capacity to provide that advice and assistance.
+
+## 4. Constitution of the Authority
+
+(1) The Authority shall consist of—
+
+- (a) the Chairman;
+- (b) not less than five nor more than ten other members who are not officers of the Authority;
+- (c) the chief officer of the Authority; and
+- (d) not more than two other members who are officers of the Authority.
+
+(2) The members mentioned in paragraph (1)(b) above shall include not less than two persons with experience in industry.
+
+## 5. Transfer of staff
+
+Any officer of the Board who was, immediately before 1st April 1994, employed at its Centre for Applied Microbiology and Research, Porton Down, Salisbury, Wiltshire SP4 0JG shall, on the date of the coming into force of this Order, be transferred to the Authority, and the contract of employment between each such officer and the Board shall be modified so as to substitute the Authority as the employer in the place of the Board.
+
+## 6. Enforceability of rights
+
+Any right which was, immediately before 1st April 1994, enforceable by or against the Board as respects the exercise of its functions in connection with the Centre for Applied Microbiology and Research shall on or after that date be enforceable by or against the Authority instead of the Board.
+
+## 7. Remuneration of members
+
+The Authority is hereby specified for the purposes of paragraph 9(7)(b) of Schedule 5 to the Act (definition of “relevant authority” for purposes of paying remuneration to members of health authorities).
+
+Signed by authority of the Secretary of State for Health
+
+Tom Sackville
+
+Parliamentary Under-Secretary of State
+
+Department of Health
+
+8th March 1994
+
+(This note is not part of the Order)
+
+This Order provides for the establishment and constitution of a special health authority, to be known as the Microbiological Research Authority (“the Authority”) to exercise certain functions of the Secretary of State, formerly exercised by the Public Health Laboratory Service Board, under the National Health Service Act 1977 in connection with the provision of a microbiological service.
+
+Article 2 of the Order establishes the Microbiological Research Authority, the functions of which are set out in article 3. Provision is also made for the constitution of the Authority (article 4), for the transfer of staff to the Authority (article 5), for the enforcement of rights by, and liabilities against, the Authority (article 6), and for the remuneration of members of the Authority who are not also its officers (article 7).
+
+## Annotations
+
+[^f00001]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49); section 11 was amended by paragraph 31 of Schedule 1 to the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53) and by Schedule 10 to the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”); section 126(4) was amended by section 65(2) of the 1990 Act; paragraph 9(7) was inserted in Schedule 5 by paragraph 7(2) of Schedule 1 to the 1990 Act.
+
+[^f00002]: Footnote: Schedule 3 was amended by sections 1(4) and 2 of the Public Health Laboratory Service Act [1979 (c. 23)](https://www.legislation.gov.uk/ukpga/1979/23).
+
+[^f00003]: Footnote: See, in particular, sections 13, 17 and 18 of the National Health Service Act [1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49); sections 13 and 18 were amended by paragraphs 22, 28 and 92 of Schedule 1 to the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53) and by Schedule 10 to the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”); section 17 was substituted by paragraph 2 of Schedule 3 to the Health and Social Security Act [1984 (c. 48)](https://www.legislation.gov.uk/ukpga/1984/48) and amended by sections 3(4) and 12(2) of the 1990 Act.
+
+[^f00004]: Footnote: Subsection (2)(c) of section 5 was amended, and subsection (2A) was inserted, by section 1 of the Public Health Laboratory Service Act [1979 (c. 23)](https://www.legislation.gov.uk/ukpga/1979/23).

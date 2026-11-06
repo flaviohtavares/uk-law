@@ -1,0 +1,69 @@
+---
+title: Police, Crime, Sentencing and Courts Act 2022, section 106
+act: Police, Crime, Sentencing and Courts Act 2022
+section: '106'
+status: not-yet-in-force
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2022/32/section/106
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police, Crime, Sentencing and Courts Act 2022, section 106
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 106. Arrest for failure to comply[^key-5c2d294e99beb28db094ff16fa4e3033]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) If a constable has reasonable grounds for believing that the offender has failed without reasonable excuse to comply with any of the conditions attached to a diversionary caution, the constable may arrest the offender without warrant.
+
+(2) A person arrested under this section must be—
+
+- (a) charged with the offence in question, or
+- (b) released without charge.
+
+(3) A person released without charge under subsection (2)(b) must be—
+
+- (a) released on bail if—
+  - (i) the release is to enable a decision to be made as to whether the offender should be charged with the offence, and
+  - (ii) the pre-conditions for bail are satisfied, or
+- (b) in any other case, released without bail (with or without any variation in the conditions attached to the caution).
+
+(4) Subsection (2) also applies in the case of—
+
+- (a) a person who, having been released on bail under subsection (3)(a), returns to a police station to answer bail or is otherwise in police detention at a police station;
+- (b) a person who, having been released on bail under section 30A of the 1984 Act (bail elsewhere than at police station) as applied by section 107 below, attends at a police station to answer bail or is otherwise in police detention at a police station;
+- (c) a person who is arrested under section 30D or 46A of the 1984 Act (power of arrest for failure to answer to police bail) as applied by section 107 below.
+
+(5) Where a person is released on bail under subsection (3)(a), the custody officer must inform the person that the release is to enable a decision to be made as to whether the person should be charged with the offence in question.
+
+(6) A person arrested under this section, or any other person in whose case subsection (2) applies, may be kept in police detention—
+
+- (a) to enable the person to be dealt with in accordance with that subsection, or
+- (b) where applicable, to enable the power under section 47(4A) of the 1984 Act (power of custody officer to appoint a different or additional time for answering to police bail), as applied by section 107 below, to be exercised.
+
+If the person is not in a fit state to be dealt with in that way, or to enable that power to be exercised, they may be kept in police detention until they are.
+
+(7) The power under subsection (6)(a) includes power to keep the person in police detention if it is necessary to do so for the purpose of investigating whether the person has failed, without reasonable excuse, to comply with any of the conditions attached to the diversionary caution.
+
+(8) Subsections (2) and (3) must be complied with as soon as practicable after the person arrested arrives at the police station or, in the case of a person arrested at the police station, as soon as practicable after the arrest.
+
+(9) Subsection (2) does not require a person who—
+
+- (a) falls within subsection (4)(a) or (b), and
+- (b) is in police detention in relation to a matter other than the diversionary caution,
+
+to be released if the person is liable to be kept in detention in relation to that other matter.
+
+(10) In subsection (3)(a)(ii), the reference to the pre-conditions for bail is to be read in accordance with section 50A of the 1984 Act.
+
+## Annotations
+
+[^key-5c2d294e99beb28db094ff16fa4e3033]: Commencement: S. 106 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

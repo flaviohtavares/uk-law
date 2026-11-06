@@ -1,0 +1,44 @@
+---
+title: Coroners and Justice Act 2009, section 88
+act: Coroners and Justice Act 2009
+section: '88'
+status: revised-with-pending-changes
+text_date: '2026-03-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/25/section/88
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Coroners and Justice Act 2009, section 88
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-03-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/25
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 88. Conditions for making order
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies where an application is made for a witness anonymity order to be made in relation to a witness in criminal proceedings.
+
+(2) The court may make such an order only if it is satisfied that Conditions A to C below are met.
+
+(3) Condition A is that the proposed order is necessary—
+
+- (a) in order to protect the safety of the witness or another person or to prevent any serious damage to property, or
+- (b) in order to prevent real harm to the public interest (whether affecting the carrying on of any activities in the public interest or the safety of a person involved in carrying on such activities, or otherwise).
+
+(4) Condition B is that, having regard to all the circumstances, the effect of the proposed order would be consistent with the defendant receiving a fair trial.
+
+(5) Condition C is that the importance of the witness's testimony is such that in the interests of justice the witness ought to testify and—
+
+- (a) the witness would not testify if the proposed order were not made, or
+- (b) there would be real harm to the public interest if the witness were to testify without the proposed order being made.
+
+(6) In determining whether the proposed order is necessary for the purpose mentioned in subsection (3)(a), the court must have regard (in particular) to any reasonable fear on the part of the witness—
+
+- (a) that the witness or another person would suffer death or injury, or
+- (b) that there would be serious damage to property,
+
+if the witness were to be identified.

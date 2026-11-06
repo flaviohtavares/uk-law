@@ -1,0 +1,1049 @@
+---
+title: The Child Support (Miscellaneous Amendments) Regulations 1998
+id: uksi/1998/58
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1998-01-15'
+text_date: '1999-06-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1998/58
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/58/pdfs/uksi_19980058_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1998/58/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support (Miscellaneous Amendments) Regulations 1998
+
+> Text as at 1999-06-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1998 No. 58
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+SOCIAL SECURITY
+
+The Child Support (Miscellaneous Amendments) Regulations 1998
+
+Made
+
+15th January 1998
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+Whereas a draft of this instrument was laid before Parliament in accordance with section 52(2) of the Child Support Act 1991[^f00001], and approved by a resolution of each House of Parliament:
+
+Now, therefore, the Secretary of State for Social Security, in exercise of the powers conferred by sections 12(2), 14(1) and (3), 16(1), 21, 28A(3), 28G(4), 29, 32(1), 42, 43(1), 51, 52(4) and 54[^f00002] of, and paragraphs 1, 4, 5, 6, 8, 11 and 14 of Schedule 1, paragraphs 2, 6 and 10 of Schedule 4A, and paragraphs 2, 3, 4, 5 and 6 of Schedule 4B to, the Child Support Act 1991 and of all other powers enabling her in that behalf, after consultation with the Council on Tribunals in accordance with section 8 of the Tribunals and Inquiries Act 1992[^f00003], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-c67744d6a3c9c8caa6b0eab90f1fb809]
+
+(1) These Regulations may be cited as the Child Support (Miscellaneous Amendments) Regulations 1998.
+
+(2) Subject to paragraph (3), these regulations shall come into force on the first commencement day.
+
+(3) Regulations 14, 39(3), 44, 45, 47, 49, 52, 54, 55 and paragraph (5) of regulation 56 shall come into force on the second commencement day.
+
+(4) In these Regulations, unless the context otherwise requires—
+
+- “Appeal Regulations” means the Child Support Appeal Tribunals (Procedure) Regulations 1992[^f00004];
+- “Collection and Enforcement Regulations” means the Child Support (Collection and Enforcement) Regulations 1992[^f00005];
+- “Departure Direction Regulations” means the Child Support Departure Direction and Consequential Amendments Regulations 1996[^f00006];
+- “first commencement day” means 19th January 1998;
+- “Information, Evidence and Disclosure Regulations” means the Child Support (Information, Evidence and Disclosure) Regulations 1992[^f00007];
+- “Maintenance Assessment Procedure Regulations” means the Child Support (Maintenance Assessment Procedure) Regulations 1992[^f00008];
+- “Maintenance Assessments and Special Cases Regulations” means the Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^f00009];
+- “second commencement day” means 6th April 1998.
+
+## 2. Amendment of regulation 1 of the Appeal Regulations[^key-3f88c3573039882017cfe7436734670a]
+
+In paragraph (2) of regulation 1 of the Appeal Regulations (citation, commencement and interpretation)—
+
+- (a) the definition of “Central Office” shall be omitted;
+- (b) at the end of sub-paragraph (dd) in the definition of “party to the proceedings”, there shall be added the words “or to a referral”.
+
+## 3. Amendment of regulation 3 of the Appeal Regulations[^key-6765024225d3747b882d57ee39658730]
+
+(1) Regulation 3 of the Appeal Regulations (making an appeal or application and time limits) shall be amended in accordance with the following provisions of this regulation.
+
+(2) In paragraph (11A) the words “at the Central Office” shall be omitted.
+
+(3) In paragraph (11B)—
+
+- (a) for the words “paragraph (9)” there shall be substituted the words “paragraphs (9) or (10)”;
+- (b) for the words “in the Central Office” there shall be substituted the words “by the clerk to the tribunal”.
+
+## 4. Amendment of regulation 5 of the Appeal Regulations[^key-981402f1cb87495146378eb8d8388ab2]
+
+In paragraph (1) of regulation 5 of the Appeal Regulations (directions), after the words “and may” there shall be inserted the words “,subject to paragraph (3),”.
+
+## 5. Amendment of regulation 11 of the Appeal Regulations[^key-b8cd11c3615be6fe4859f674f2a02bdc]
+
+In paragraph (1) of regulation 11 of the Appeal Regulations (hearings), the word “application” wherever it appears shall be omitted.
+
+## 6. Amendment of regulation 12 of the Collection and Enforcement Regulations[^key-f3553aa101aaa83039260818b70e39f8]
+
+After paragraph (3) of regulation 12 of the Collection and Enforcement Regulations (amount to be deducted by employer) there shall be inserted the following paragraph—
+
+> (3A) Where on any pay-day the liable person receives a payment of earnings covering a period longer than the period by reference to which the normal deduction rate is set, the employer shall, subject to paragraph (2), make a deduction from the net earnings paid to that liable person on that pay-day of an amount which is in the same proportion to the normal deduction rate as that longer period is to the period by reference to which that normal deduction rate is set.
+
+.
+
+## 7. Amendment of regulation 8 of the Departure Direction Regulations[^key-ce5f808dcb3527420a2cbcd537523487]
+
+(1) Regulation 8 of the Departure Direction Regulations (procedure in relation to the determination of an application) shall be amended in accordance with the following provisions of this regulation.
+
+(2) In paragraph (1), after the words “Secretary of State shall” there shall be inserted the words “, unless he is satisfied on the information or evidence available to him that a departure direction is unlikely to be given”.
+
+(3) After paragraph (4) there shall be inserted the following paragraph—
+
+> (4A) Where the provisions of paragraph (1) have not been complied with because the Secretary of State was satisfied on the information or evidence available to him that a departure direction was unlikely to be given, but on further consideration of the application he is minded to give a departure direction in that case, he shall, before doing so, comply with the provisions of this regulation.
+
+.
+
+## 8. Substitution of regulation 9 of the Departure Direction Regulations[^key-abaf201e7e084e14ef8ffe31335b481f]
+
+For regulation 9 of the Departure Direction Regulations (departure directions and persons in receipt of income support or income-based jobseeker’s allowance) there shall be substituted the following regulation—
+
+> **9. Departure directions and persons in receipt of income support, income-based jobseeker’s allowance, family credit or disability working allowance**
+>
+> (1) The costs referred to in regulations 13 to 18 shall not constitute special expenses where they are or were incurred—
+>
+> - (a) by an absent parent to or in respect of whom income support or income-based jobseeker’s allowance is or was in payment at the date on which any departure direction given in response to that application would take effect;
+> - (b) by a person with care to or in respect of whom income support, income-based jobseeker’s allowance, family credit or disability working allowance is or was in payment at the date on which any departure direction given in response to that application would take effect; or
+> - (c) by a person with care where, at the date on which any departure direction given in response to that application would take effect, income support or income-based jobseeker’s allowance is or was in payment to or in respect of the absent parent of the child or children in relation to whom the maintenance assessment in question is made.
+>
+> (2) A transfer shall not constitute a transfer of property for the purposes of paragraph 3(1)(b) or 4(1)(b) of Schedule 4B to the Act, or of regulations 21 and 22, where the application is made—
+>
+> - (a) by an absent parent to or in respect of whom income support or income-based jobseeker’s allowance is or was in payment at the date on which any departure direction given in response to that application would take effect;
+> - (b) by a person with care and, at the date on which any departure direction given in response to that application would take effect, income support or income-based jobseeker’s allowance is or was in payment to or in respect of the absent parent of the child or children in relation to whom the maintenance assessment in question is made.
+>
+> (3) A case shall not constitute a case under regulations 23 to 29 where the application is made—
+>
+> - (a) by an absent parent to or in respect of whom income support or income-based jobseeker’s allowance is or was in payment at the date on which any departure direction given in response to that application would take effect;
+> - (b) by an absent parent where, at the date on which any departure direction given in response to that application would take effect, income support, income-based jobseeker’s allowance, family credit or disability working allowance is or was in payment to or in respect of the person with care of the child or children in relation to whom the maintenance assessment in question is made;
+> - (c) by a person with care where, at the date on which any departure direction given in response to that application would take effect, income support or income-based jobseeker’s allowance is or was in payment to or in respect of the absent parent of the child or children in relation to whom the maintenance assessment is made.
+
+.
+
+## 9. Amendment of regulation 11 of the Departure Direction Regulations[^key-fe32826328c56f7fc233b71d890eacd4]
+
+In regulation 11 of the Departure Direction Regulations (departure application and review under section 17 of the Act), for the words “of the Act is” there shall be substituted the words “of the Act would be”.
+
+## 10. Insertion of regulation 11A into the Departure Direction Regulations[^key-5b70fe5f26e3dfc0749fc2c8deb3f81b]
+
+After regulation 11 of the Departure Direction Regulations (departure application and review under section 17 of the Act) there shall be inserted the following regulation—
+
+> **11A. Meaning of “current assessment” for the purposes of the Act**
+>
+> Where—
+>
+> - (a) an application under section 28A of the Act has been made in respect of a current assessment;
+> - (b) after the making of that application that current assessment has been reviewed under section 16, 17, 18 or 19 of the Act, whether or not that review was initiated by a reference under section 28B(4) of the Act; and
+> - (c) following that review, a fresh maintenance assessment has been made—
+>   - (i) the effective date of which is the same as the effective date of that current assessment; or
+>   - (ii) which takes effect on the correct date applicable to that current assessment in circumstances where that current assessment has been reviewed on grounds which include the ground that its effective date was incorrect,
+>
+>   references to the current assessment in sections 28B(3), 28C(2)(a) and 28F(5) of, and in paragraph 8 of Schedule 4A and paragraphs 2, 3 and 4 of Schedule 4B to, the Act shall have effect as if they were references to that fresh maintenance assessment.
+
+.
+
+## 11. Amendment of regulation 15 of the Departure Direction Regulations[^key-bc6bff856327d8e978120f27a5487d8a]
+
+(1) Regulation 15 of the Departure Direction Regulations (illness or disability) shall be amended in accordance with the following provisions of this regulation.
+
+(2) At the beginning of paragraphs (3) and (4), there shall be inserted the words “Subject to paragraph (4A),”.
+
+(3) After paragraph (4), there shall be inserted the following paragraph—
+
+> (4A) Paragraphs (3) and (4) shall not apply where the dependant of an applicant is adjudged eligible for either of the allowances referred to in paragraph (4) and in all the circumstances of the case the Secretary of State considers that the costs being met by the applicant in respect of the items listed in paragraph (1) shall constitute special expenses for the purposes of paragraph 2(2) of Schedule 4B to the Act without the deductions in paragraph (3) being made.
+
+.
+
+## 12. Amendment of regulation 17 of the Departure Direction Regulations[^key-4058c12b555aee8c11ad7797680c5f74]
+
+(1) Regulation 17 of the Departure Direction Regulations (pre-1993 financial commitments) shall be amended in accordance with the following provisions of this regulation.
+
+(2) In paragraph (1)—
+
+- (a) in sub-paragraph (a), for the words “a court order or” there shall be substituted the words “a maintenance order or a written” and the word “and” at the end shall be omitted;
+- (b) after sub-paragraph (a), there shall be inserted the following sub-paragraph—
+
+  > - (aa) at least one of the children referred to in sub-paragraph (a) is a child in respect of whom the current assessment was made; and
+
+  .
+
+(3) Paragraph (2) shall be omitted.
+
+## 13. Amendment of regulation 18 of the Departure Direction Regulations[^key-8e57705c72f43e5da74503660bc21905]
+
+(1) Regulation 18 of the Departure Direction Regulations (costs incurred in supporting certain children) shall be amended in accordance with the following provisions of this regulation.
+
+(2) In paragraph (1), after the words “part of his family” there shall be inserted the words “and who was, at the date on which any departure direction given in response to an application under this regulation would take effect, living in the same household as that parent”.
+
+(3) In paragraph (2)—
+
+- (a) for sub-paragraph (a), there shall be substituted the following sub-paragraph—
+
+  > - (a) the child became a relevant child prior to 5th April 1993 and has remained a relevant child for the whole of the period from that date to the date on which any departure direction given in response to an application under this regulation would take effect;
+
+  ;
+- (b) for sub-paragraph (b), there shall be substituted the following sub-paragraph—
+
+  > - (b) subject to paragraph (7)—
+  >   - (i) the liability of the absent parent of a relevant child to pay maintenance to or for the benefit of that child under a maintenance order, a written maintenance agreement or a maintenance assessment; or
+  >   - (ii) any deduction from benefit under section 43 of the Act in place of payment of child support maintenance to or for the benefit of that child,
+  >
+  >   is less than the amount specified in paragraph (4), or there is no such liability or deduction; and
+
+  .
+
+(4) In paragraph (3)—
+
+- (a) at the beginning, there shall be inserted the words “Subject to paragraph (7A),”;
+- (b) after the words “paragraph (2)(b)” there shall be inserted the words “(i) or any deduction from benefit mentioned in paragraph (2)(b)(ii)”;
+- (c) after the words “no such liability” there shall be inserted the words “or deduction”.
+
+(5) In paragraph (4)—
+
+- (a) at the beginning there shall be inserted the words “Subject to paragraphs (4A) and (4B),”;
+- (b) in sub-paragraph (b), after the words “and (c)” there shall be inserted the word “of” and at the end there shall be inserted the word “and”;
+- (c) for sub-paragraph (c), there shall be substituted the following sub-paragraph—
+
+  > - (c) except where the family includes other children of the parent, an amount equal to the income support family premium—
+  >   - (i) specified in sub-paragraph (a) of paragraph 3 of that Schedule where, if the applicant were a claimant, the rate of income support family premium specified in that sub-paragraph would be applicable to him; or
+  >   - (ii) specified in paragraph 3(b) in all other cases.
+
+  ;
+- (d) sub-paragraph (d) shall be omitted.
+
+(6) After paragraph (4), there shall be inserted the following paragraphs—
+
+> (4A) Where day to day care of the relevant child is shared between the current partner of the person making an application under this regulation and the other parent of that child, the amounts referred to in paragraph (4) shall be reduced by the proportion of those amounts which is the same as the proportion of the week in respect of which the child is not living in the same household as the applicant.
+>
+> (4B) Where an application under paragraph (1) is made in respect of more than one relevant child and the family does not include any other children of the parent, the amount applicable under sub-paragraph (c) of paragraph (4) in respect of each relevant child shall be calculated by dividing the amount referred to in that sub-paragraph by the number of relevant children in respect of whom that application is made.
+
+.
+
+(7) In paragraph (6), at the end of sub-paragraph (d), there shall be added the words “or the aggregate of those amounts where paragraph (7A) applies to that partner.”.
+
+(8) In paragraph (7), after the words “paragraph (2)(b)” there shall be inserted “(i)”.
+
+(9) After paragraph (7) there shall be inserted the following paragraph—
+
+> (7A) Where an application is made in respect of relevant children of different parents, a separate calculation shall be made in accordance with paragraphs (3) and (4) in respect of each relevant child or group of relevant children who have the same parents and the amount constituting special expenses referred to in paragraph (1) shall be the aggregate of the amounts calculated in accordance with paragraph (3) in respect of each such relevant child or group of relevant children.
+
+.
+
+(10) For sub-paragraph (a) of paragraph (8), there shall be substituted the following sub-paragraph—
+
+> - (a) a child who is not the child of a particular person is a part of that person’s family where—
+>   - (i) that child is the child of a current partner of that person; or
+>   - (ii) that child is the child of a former partner of that person and lives in the same household as the applicant for every night of each week;
+
+.
+
+## 14. Further amendment of regulation 18 of the Departure Direction Regulations[^key-b3fbea1b2a059cff137b1171837175c5]
+
+For sub-paragraph (c) of paragraph (4) of regulation 18 of the Departure Direction Regulations, there shall be substituted the following sub-paragraph—
+
+> - (c) except where the family includes other children of the parent, an amount equal to the income support family premium specified in paragraph 3(1)(b) of that Schedule that would be payable if the parent were a claimant.
+
+.
+
+## 15. Amendment of regulation 22 of the Departure Direction Regulations[^key-4682b858a9b64d5c95b47e7d75dd4421]
+
+In paragraph (1) of regulation 22 of the Departure Direction Regulations (value of a transfer of property and its equivalent weekly value for a case falling within paragraph 3 of Schedule 4B to the Act), after the words “in lieu of” there shall be inserted the words “periodical payments of”.
+
+## 16. Amendment of regulation 23 of the Departure Direction Regulations[^key-4c4bcd0b15bbe06937507877e3b2c9c1]
+
+Paragraph (3) of regulation 23 of the Departure Direction Regulations (assets capable of producing income or higher income) shall be omitted.
+
+## 17. Amendment of regulation 25 of the Departure Direction Regulations[^key-c4d45a843c4540c2de41c3dcb751b772]
+
+(1) Regulation 25 of the Departure Direction Regulations (life-style inconsistent with declared income) shall be amended in accordance with the following provisions of this regulation.
+
+(2) In paragraph (1), the word “maintenance” shall be omitted.
+
+(3) For paragraph (2), there shall be substituted the following paragraph—
+
+> (2) Paragraph (1) shall not apply where the Secretary of State is satisfied that the life-style of the non-applicant is paid for—
+>
+> - (a) out of capital belonging to him; or
+> - (b) by his partner, unless the non-applicant is able to influence or control the amount of income received by that partner.
+
+.
+
+(4) In paragraph (3), for “(2)(b)(ii)” there shall be substituted “(2)(b)”.
+
+## 18. Amendment of regulation 32 of the Departure Direction Regulations[^key-cb69974327a0eeb463fdad1fec9ad3c6]
+
+(1) Regulation 32 of the Departure Direction Regulations (effective date of a departure direction) shall be amended in accordance with the following provisions of this regulation.
+
+(2) In paragraph (3), for the words “paragraph (6)” there shall be substituted the words “paragraphs (3A) and (6)”.
+
+(3) After paragraph (3), there shall be inserted the following paragraph—
+
+> (3A) Where an application is determined in accordance with regulation 14 and is one to which paragraph (7) of that regulation applies, a departure direction given in response to that application shall take effect—
+>
+> - (a) from the first day of the maintenance period immediately following the date on which the absent parent and the parent with care have agreed the pattern of contact for the future is to commence; or
+> - (b) where no such date has been so agreed, from the first day of the maintenance period immediately following the date upon which the departure direction is given.
+
+.
+
+## 19. Insertion of regulation 34A into the Departure Direction Regulations[^key-e168b2cbc19af689a05f4b2f60024374]
+
+After regulation 34 of the Departure Direction Regulations (cancellation of a departure direction on recognition of an error), there shall be inserted the following regulation—
+
+> **34A. Correction of accidental errors in departure directions**
+>
+> (1) Subject to paragraphs (3) and (4), accidental errors in any departure direction made by the Secretary of State or record of such a departure direction may, at any time, be corrected by the Secretary of State and a correction made to, or to the record of, that departure direction shall be deemed to be part of that direction or of that record.
+>
+> (2) Where the Secretary of State has made a correction under the provisions of paragraph (1), he shall immediately notify the persons who were notified of the departure direction that has been corrected, so far as that is reasonably practicable.
+>
+> (3) In determining whether the time limit specified in section 28H(3) of the Act has been complied with, there shall be disregarded any day falling before the day on which notification was given or sent under paragraph (2).
+>
+> (4) The power to correct errors under this regulation shall not be taken to limit any other powers to correct errors that are exercisable apart from these Regulations.
+
+.
+
+## 20. Amendment of regulation 37 of the Departure Direction Regulations[^key-db5c219c5f8504bcf0beb4d9645bb197]
+
+(1) Regulation 37 of the Departure Direction Regulations (effect of a departure direction in respect of special expenses—exempt income), shall be amended in accordance with the following provisions of this regulation.
+
+(2) In paragraph (1), after the words “shall be increased by” there shall be inserted the words “the amount specified in that departure direction being the whole or part of”.
+
+(3) In paragraph (4), for the words “repayment of” there shall be substituted the words “the whole or part of the amount required to repay”.
+
+## 21. Amendment of regulation 39 of the Departure Direction Regulations[^key-38949581758a497ca578f48bb197a482]
+
+For sub-paragraph (b) of paragraph (1) of regulation 39 of the Departure Direction Regulations (effect of a departure direction in respect of a transfer of property), there shall be substituted the following sub-paragraph—
+
+> - (b) subject to sub-paragraph (c) and paragraphs (2) and (3), the fresh maintenance assessment made in consequence of the direction shall be the lower of—
+>   - (i) the amount, calculated in accordance with the provisions of paragraphs 1 to 5 and 7 to 10 of Part I of Schedule 1 to the Act, as modified in a case to which it applies by sub-paragraph (a) where that sub-paragraph is applicable to the case in question, reduced by the amount specified in that departure direction being the whole or part of the equivalent weekly value of the property transferred as determined in accordance with regulation 22; or
+>   - (ii) where the provisions of paragraph 6 of Schedule 1 to the Act (protected income) apply, the amount, calculated in accordance with the provisions of Part I of Schedule 1 to the Act, as modified in a case to which it applies by sub-paragraph (a) where that sub-paragraph is applicable to the case in question;
+
+.
+
+## 22. Amendment of regulation 40 of the Departure Direction Regulations[^key-7db83e6f15ec411316a9a7b61ad3f3bd]
+
+In paragraphs (2) to (5) of regulation 40 of the Departure Direction Regulations (effect of a departure direction in respect of additional cases), after the words “shall be increased by” wherever they occur, there shall be inserted the words “the amount specified in that departure direction, being the whole or part of”.
+
+## 23. Amendment of regulation 41 of the Departure Direction Regulations[^key-f449227c9fe678b3bb555bb45fa7a5da]
+
+(1) Regulation 41 of the Departure Direction Regulations (child support maintenance payable where effect of a departure direction would be to decrease an absent parent’s assessable income) shall be amended in accordance with the following provisions of this regulation.
+
+(2) For paragraph (3), there shall be substituted the following paragraph—
+
+> (3) There shall be determined the amount that would be payable under a maintenance assessment made in accordance with the provisions of Part I of Schedule 1 to the Act which would be in force at the date any departure direction referred to in paragraph (1) would take effect if it were to be given.
+
+.
+
+(3) For paragraph (4) there shall be substituted the following paragraph—
+
+> (4) The revised amount for the purposes of regulation 7 (rejection of application on completion of a preliminary consideration) and regulation 31 (refusal to give a departure direction under section 28F(4) of the Act) shall be the lowest of the following amounts—
+>
+> - (a) the amount calculated in accordance with paragraph (2);
+> - (b) the amount determined in accordance with paragraph (3);
+> - (c) where the provisions of paragraph 6 of Schedule 1 to the Act (protected income) as modified in a case to which they apply by the provisions of regulation 38 (effect of a departure direction in respect of special expenses—protected income) would apply if a departure direction were given, the amount payable under those provisions,
+>
+> and the Secretary of State may apply regulation 7 and shall apply regulation 31 in relation to the current amount and the revised amount as so construed.
+
+.
+
+(4) In paragraph (5), the words “Subject to paragraph (7),” shall be omitted.
+
+(5) Paragraph (7) shall be omitted.
+
+(6) In paragraph (8), for the words “paragraphs (1) to (7)” there shall be substituted the words “paragraphs (1) to (6)”.
+
+## 24. Amendment of regulation 42 of the Departure Direction Regulations[^key-4a7a24067d58bca2cb1c68838d1e30f5]
+
+(1) Regulation 42 of the Departure Direction Regulations (application of regulation 41 where there is a transfer of property falling within paragraph 3 of Schedule 4B to the Act) shall be amended in accordance with the following provisions of this regulation.
+
+(2) For paragraph (1) there shall be substituted the following paragraphs—
+
+> (1) Where an absent parent applies for a departure direction on the grounds that the case falls within both paragraph 2 of Schedule 4B to the Act (special expenses) and paragraph 3 of that Schedule (property or capital transfers), regulation 41 shall be applied subject to the modifications set out in paragraphs (1A) to (3).
+>
+> (1A) In paragraph (1) of regulation 41, the reference to a departure direction shall be construed as a reference to any departure direction that would be given if the application had been made solely on the grounds that the case falls within paragraph 2 of Schedule 4B to the Act, and the reference to the absent parent’s assessable income shall be construed as a reference to the assessable income calculated in consequence of such a direction.
+
+.
+
+(3) For paragraph (3), there shall be substituted the following paragraph—
+
+> (3) For the purposes of this regulation, the revised amount for the purposes of regulations 7 and 31 shall be—
+>
+> - (a) subject to sub-paragraph (b), the lower of the amounts specified in sub-paragraphs (a) and (b) of paragraph (4) of regulation 41, subject to paragraph (2) of this regulation, less the amount determined in accordance with regulation 22 (value of a transfer of property and its equivalent weekly value for a case falling within paragraph 3 of Schedule 4B to the Act);
+> - (b) where the amount specified in sub-paragraph (c) of paragraph(4) of regulation 41 is lower than the amount determined in accordance with sub-paragraph (a), that amount.
+
+.
+
+(4) In paragraph (4), after the words “following that direction shall be” there shall be inserted the words “determined by the child support officer as being”.
+
+## 25. Insertion of regulation 42A into the Departure Direction Regulations[^key-931177dd45df2d778ad9328f7136bf2b]
+
+After regulation 42 of the Departure Direction Regulations there shall be inserted the following regulation—
+
+> **42A. Application of regulation 41 where the case falls within paragraph 2 and paragraph 5 of Schedule 4B to the Act**
+>
+> (1) Where an absent parent applies for a departure direction on the grounds that the case falls within both paragraph 5 of Schedule 4B to the Act (additional cases) and paragraph 2 of that Schedule (special expenses), and the conditions set out in paragraph (1) of regulation 41 are satisfied, the amount of child support maintenance payable shall be determined in accordance with paragraphs (2) to (6).
+>
+> (2) The application shall in the first instance be treated as an application (an “additional cases application”) made solely on the grounds that the case falls within paragraph 5 of Schedule 4B to the Act, and a determination shall be made as to whether a departure direction would be given in response to that application.
+>
+> (3) Following the determination mentioned in paragraph (2), the application shall be treated as an application (a “special expenses application”) made solely on the grounds that the case falls within paragraph 2 of Schedule 4B to the Act, and the provisions of regulation 41 shall be applied to the special expenses application, subject to the provisions of paragraphs (4) to (6).
+>
+> (4) Where no departure direction would be given in response to the additional cases application, the provisions of regulation 41 shall be applied to determine the amount of child support maintenance payable.
+>
+> (5) Where a departure direction would be given in response to the additional cases application, the provisions of regulation 41 shall be applied to determine the amount of child support maintenance payable, subject to the modification set out in paragraph (6).
+>
+> (6) For paragraph (3) of regulation 41 there shall be substituted the following paragraph—
+>
+> > (3) There shall be determined the amount that would be payable under the maintenance assessment made in consequence of the direction that would be given in response to the additional cases application mentioned in paragraph (2) of regulation 42A which would be in force at the date any departure direction referred to in paragraph (1) would take effect if it were to be given.
+>
+> .
+>
+> (7) Where—
+>
+> - (a) a departure direction has been given in a case where regulation 41 has been applied and an application is then made on the grounds that the case falls within paragraph 5 of Schedule 4B to the Act; or
+> - (b) a departure direction has been given on the grounds that the case falls within paragraph 5 of Schedule 4B to the Act, an application is then made on the grounds that the case falls within paragraph 2 of that Schedule, and the conditions set out in paragraph (1) of regulation 41 are satisfied,
+>
+> the case shall be treated as a case which falls within paragraph (1), and the date of the later application treated as the date on which both applications were made.
+>
+> (8) Where a departure direction is given in accordance with the provisions of paragraph (7), the earlier direction shall cease to have effect from the date the later direction has effect.
+
+.
+
+## 26. Amendment of regulation 43 of the Departure Direction Regulations[^key-9d94228ad7fac70f702be0be450c6709]
+
+In paragraph (2) of regulation 43 of the Departure Direction Regulations (maintenance assessment following a departure direction for certain cases falling within regulation 22 of the Maintenance Assessments and Special Cases Regulations)—
+
+- (a) for the word “lower” there shall be substituted the word “lowest”;
+- (b) after sub-paragraph (b), there shall be inserted the following sub-paragraph—
+
+  > - (c) where the provisions of paragraph 6 of Schedule 1 to the Act (protected income) apply, as modified in a case to which they apply by the provisions of regulation 38 (effect of a departure direction in respect of special expenses—protected income) or, as the case may be, regulation 40(6),(8) or (10) (effect of a departure direction in respect of additional cases), the amount calculated as payable under those provisions.
+
+  .
+
+## 27. Amendment of regulation 44 of the Departure Direction Regulations[^key-bb68626323e7ba08afb7d5138d8d892b]
+
+In paragraph (5) of regulation 44 of the Departure Direction Regulations (maintenance assessment following a departure direction where there is a phased maintenance assessment), for the words “paragraphs (1) to (3)” there shall be substituted the words “paragraphs (1) and (3)”.
+
+## 28. Amendment of regulation 46 of the Departure Direction Regulations[^key-27ef0c82090e18b88a07275521bb5cc0]
+
+At the end of sub-paragraph (b) of regulation 46 of the Departure Direction Regulations (special case—departure direction having effect from the date earlier than effective date of current assessment), there shall be added the words “or, where regulation 11A (meaning of “current assessment” for the purposes of the Act) applies, in respect of the fresh maintenance assessment referred to in that regulation”.
+
+## 29. Insertion of regulation 46A into the Departure Direction Regulations[^key-5c51374007d606198944408548c7ec30]
+
+After regulation 46 of the Departure Direction Regulations there shall be inserted the following regulation—
+
+> **46A. Cases to which regulation 11A applies**
+>
+> (1) A case where the conditions set out in paragraphs (a) to (c) of regulation 11A (meaning of “current assessment” for the purposes of the Act) are satisfied shall be treated as a special case for the purposes of the Act.
+>
+> (2) Where a case falls within paragraph (1), references to “the current assessment” and “the current amount” in these Regulations shall, subject to paragraph (3), be construed as including reference to the fresh maintenance assessment referred to in regulation 11A.
+>
+> (3) Paragraph (2) shall not apply to references to “the current assessment” in regulation 32, with the exception of the reference in paragraph (1)(a) of that regulation, and in regulations 46, 49 and 50.
+
+.
+
+## 30. Amendment of regulation 68 of the Departure Direction Regulations[^key-979b91dde18634b040f6bf729cd089a2]
+
+Paragraph (2) of regulation 68 of the Departure Direction Regulations (amendment of the Maintenance Assessments and Special Cases Regulations) is hereby revoked.
+
+## 31. Amendment of the Schedule to the Departure Direction Regulations[^key-02772f59b7d57c2edf9f8bada32af5ed]
+
+(1) The Schedule to the Departure Direction Regulations (equivalent weekly value of a transfer of property) shall be amended in accordance with the following provisions of this regulation.
+
+(2) In the Table—
+
+- (a) before the column headed “8.0%”, there shall be inserted the following column—
+
+  > | *7.0%* |
+  > | --- |
+  > | 0.02058 |
+  > | 0.01064 |
+  > | 0.00733 |
+  > | 0.00568 |
+  > | 0.00469 |
+  > | 0.00403 |
+  > | 0.00357 |
+  > | 0.00322 |
+  > | 0.00295 |
+  > | 0.00274 |
+  > | 0.00256 |
+  > | 0.00242 |
+  > | 0.00230 |
+  > | 0.00220 |
+  > | 0.00211 |
+  > | 0.00204 |
+  > | 0.00197 |
+  > | 0.00191 |
+
+  ;
+- (b) between the columns headed “10.0%” and “12.0%” there shall be inserted the following column—
+
+  > | *11.0%* |
+  > | --- |
+  > | 0.02135 |
+  > | 0.01123 |
+  > | 0.00787 |
+  > | 0.00620 |
+  > | 0.00520 |
+  > | 0.00455 |
+  > | 0.00408 |
+  > | 0.00374 |
+  > | 0.00347 |
+  > | 0.00327 |
+  > | 0.00310 |
+  > | 0.00296 |
+  > | 0.00285 |
+  > | 0.00275 |
+  > | 0.00267 |
+  > | 0.00261 |
+  > | 0.00255 |
+  > | 0.00250 |
+
+  .
+
+(3) In paragraph 4, for the words “maintenance that was” there shall be substituted the words “the periodical payments of maintenance which were”.
+
+(4) Paragraph 5 shall be omitted.
+
+## 32. Amendment of regulation 3 of the Information, Evidence and Disclosure Regulations[^key-2ae6ad7d0efcde9abdb078b7636d778f]
+
+In paragraph (2) of regulation 3 of the Information, Evidence and Disclosure Regulations (purposes for which information or evidence may be required)—
+
+- (a) in sub-paragraph (d), for the word “or” there shall be substituted the word “and”;
+- (b) in sub-paragraph (p), for the words “assessable or disposable income” there shall be substituted the words “any application made under the Act or any question arising in connection with such an application”.
+
+## 33. Amendment of regulation 8 of the Information, Evidence and Disclosure Regulations[^key-f6b5e9ed89536ff655e9951443ceecbf]
+
+(1) Regulation 8 of the Information, Evidence and Disclosure Regulations (disclosure of information to a court or tribunal) shall be amended in accordance with the following provisions of this regulation.
+
+(2) In paragraph (1), for the words “or to the benefit Acts” there shall be substituted the words “, to the benefit Acts or to the Jobseekers Act 1995[^f00010]”.
+
+(3) After paragraph (2) there shall be added the following paragraph—
+
+> (3) The Secretary of State or a child support officer may disclose information held by them for the purposes of the Act to a court in any case where—
+>
+> - (a) that court has exercised any power it has to make, vary or revive a maintenance order or to vary a maintenance agreement; and
+> - (b) such disclosure is made for the purposes of any proceedings before that court in relation to that maintenance order or that maintenance agreement or for the purposes of any matters arising out of those proceedings.
+
+.
+
+## 34. Amendment of regulation 9A of the Information, Evidence and Disclosure Regulations[^key-d54ad4d3d4a5290dc326b12ac5b6fa40]
+
+In sub-paragraph (c)(ii) of paragraph (2) of regulation 9A of the Information, Evidence and Disclosure Regulations (disclosure of information to other persons), for the words “with that application on behalf of that person” there shall be substituted the words “on behalf of that person with any matters arising in connection with the determination of that application”.
+
+## 35. Amendment of regulation 8A of the Maintenance Assessment Procedure Regulations[^key-b857e899102fa99803025d442f45cbc0]
+
+For paragraph (4) of regulation 8A of the Maintenance Assessment Procedure Regulations (amount of an interim maintenance assessment) there shall be substituted the following paragraph—
+
+> (4) Where a child support officer is unable to ascertain the income of other members of the family of an absent parent so that the disposable income of that absent parent can be calculated in accordance with regulation 12(1)(a) of the Maintenance Assessments and Special Cases Regulations, the amount of the Category B interim maintenance assessment shall be the maintenance assessment calculated in accordance with Part I of Schedule 1 to the Act on the assumption that the provisions of paragraph 6 of that Schedule do not apply to the absent parent.
+
+.
+
+## 36. Amendment of regulation 8D of the Maintenance Assessment Procedure Regulations[^key-5aa7a74fce1b5217ebb2e6ee7dc8984c]
+
+After paragraph (1) of regulation 8D of the Maintenance Assessment Procedure Regulations (miscellaneous provisions in relation to interim maintenance assessments) there shall be inserted the following paragraph—
+
+> (1A) The reference in paragraph (1) to a maintenance assessment calculated in accordance with Part I of Schedule 1 to the Act shall include a maintenance assessment falling within regulation 30A(2).
+
+.
+
+## 37. Amendment of regulation 9 of the Maintenance Assessment Procedure Regulations[^key-699d855a237809c87c9669880e4dd33e]
+
+In paragraph (14) of regulation 9 of the Maintenance Assessment Procedure Regulations (cancellation of an interim maintenance assessment), for the words “on which the cancelled interim maintenance assessment ceased to have effect” there shall be substituted the words “set by the child support officer under paragraph (12) on which the cancellation referred to in that paragraph took effect”.
+
+## 38. Insertion of regulation 10A into the Maintenance Assessment Procedure Regulations[^key-910401d947242f2021b147b203512c61]
+
+After regulation 10 of the Maintenance Assessment Procedure Regulations (notification of a new or a fresh maintenance assessment), there shall be inserted the following regulation—
+
+> **10A. Notification of increase or reduction in the amount of a maintenance assessment**
+>
+> (1) Where, in a case falling within paragraph (2B) of regulation 22 of the Maintenance Assessments and Special Cases Regulations (multiple applications relating to an absent parent)[^f00011], a child support officer has increased or reduced one or more of the other maintenance assessments referred to in that paragraph following the making of the fresh assessment referred to in sub-paragraph (c) of that paragraph, he shall, so far as that is reasonably practicable, immediately notify the relevant persons in respect of whom each maintenance assessment so increased or reduced was made of—
+>
+> - (a) the making of that fresh assessment;
+> - (b) the amount of the increase or reduction in that maintenance assessment; and
+> - (c) the date on which that increase or reduction shall take effect,
+>
+> and the notification shall include information as to the provisions of section 18 of the Act.
+>
+> (2) Except where a person gives written permission to the Secretary of State that the information in relation to him mentioned in sub-paragraphs (a) and (b) below may be conveyed to other persons, any document given or sent under the provisions of paragraph (1) shall not contain—
+>
+> - (a) the address of any person other than the recipient of the document in question (other than the address of the office of the child support officer concerned) or any other information the use of which could reasonably be expected to lead to any such person being located;
+> - (b) any other information the use of which could reasonably be expected to lead to any person, other than a qualifying child or a relevant person, being identified.
+
+.
+
+## 39. Amendment of regulation 17 of the Maintenance Assessment Procedure Regulations[^key-608d3e5fde5a2d16fe0dedea699f19e3][^key-ebc557595e4ce58e058d9d5fc67e6add]
+
+(1)[^key-608d3e5fde5a2d16fe0dedea699f19e3] Regulation 17 of the Maintenance Assessment Procedure Regulations (intervals between periodical reviews and notice of a periodical review) shall be amended in accordance with the following provisions of this regulation.
+
+(2)[^key-608d3e5fde5a2d16fe0dedea699f19e3] In paragraph (2), for the words “the period between the effective date of the assessment that has been reviewed” to the end there shall be substituted the words
+
+> - the period between the effective date of the fresh assessment following the latest review carried out under sub-paragraph (a) or (b) and whichever is the later of—
+>   - (aa) the effective date of the assessment falling within sub-paragraph (a) of paragraph (1); or
+>   - (bb) the effective date of the assessment made following the review referred to in sub-paragraph (b) or (c) of paragraph (1).
+
+.
+
+(3)[^key-ebc557595e4ce58e058d9d5fc67e6add] For paragraph (6), there shall be substituted the following paragraph—
+
+> (6) The provisions of paragraph (5) shall not apply in relation to—
+>
+> - (a) any person to or in respect of whom income support or income-based jobseeker’s allowance is payable;
+> - (b) a person with care where income support or income-based jobseeker’s allowance is payable to or in respect of the absent parent;
+> - (c) an absent parent or parent with care to whom regulation 10A of the Maintenance Assessments and Special Cases Regulations applies; or
+> - (d) a parent with care where that regulation applies to the absent parent.
+
+.
+
+## 40. Amendment of regulation 30A of the Maintenance Assessment Procedure Regulations[^key-5d8f7a31e899defd551bfabe6f22cc4d]
+
+In paragraph (3) of regulation 30A of the Maintenance Assessment Procedure Regulations (effective dates of new maintenance assessments in particular cases), for the words “child support officer” there shall be substituted the words “Secretary of State”.
+
+## 41. Amendment of paragraph 6 of Schedule 2 to the Maintenance Assessment Procedure Regulations[^key-52154a917fcaec818a99e4f3d2456191]
+
+(1) Paragraph 6 of Schedule 2 to the Maintenance Assessment Procedure Regulations (maintenance assessment in force: subsequent application for a maintenance assessment in respect of additional children) shall be amended in accordance with the following provisions of this regulation.
+
+(2) For sub-paragraphs (1) and (2) there shall be substituted the following sub-paragraph—
+
+> (1) Where there is in force a maintenance assessment made in response to an application under section 4 of the Act by an absent parent or person with care and that assessment is not in respect of all of the absent parent’s children who are in the care of the person with care with respect to whom that assessment was made—
+>
+> - (a) if that absent parent or that person with care makes an application under section 4 of the Act with respect to the children in respect of whom the assessment currently in force was made and the additional child or one or more of the additional children in the care of that person with care who are children of that absent parent, an assessment made in response to that application shall replace the assessment currently in force;
+> - (b) if that absent parent or that person with care makes an application under section 4 of the Act in respect of an additional qualifying child or additional qualifying children of that absent parent in the care of that person with care, that application shall be treated as an application for a maintenance assessment in respect of all the qualifying children concerned and the assessment made shall replace the assessment currently in force.
+
+.
+
+(3) In sub-paragraph (3)—
+
+- (a) after the words “and the person with care” there shall be inserted the words “or the absent parent”;
+- (b) for the words “children of the absent parent who are in her care”, wherever they occur, there shall be substituted the words “children of that absent parent who are in the care of that person with care”.
+
+## 42. Amendment of regulation 1 of the Maintenance Assessments and Special Cases Regulations[^key-4ed5566be79c65c18b163cef13aeec16]
+
+(1) Regulation 1 of the Maintenance Assessments and Special Cases Regulations (citation, commencement and interpretation) shall be amended in accordance with the following provisions of this regulation.
+
+(2) In paragraph (2)—
+
+- (a) after the definition of “day to day care” there shall be inserted the following definition—
+
+  > - “Departure Direction and Consequential Amendments Regulations” means the Child Support Departure Direction and Consequential Amendments Regulations 1996[^f00012];
+
+  ;
+- (b) at the end of the definition of “employed earner” there shall be added the words “except that it shall include a person gainfully employed in Northern Ireland”;
+- (c) in the definition of “occupational pension scheme”, for the words “section 66(1) of the Social Security Pensions Act 1975” there shall be substituted the words “section 1 of the Pension Schemes Act 1993[^f00013]”;
+- (d) at the end of the definition of “relevant week” there shall be added—
+
+  > - except that where, under paragraph 15 of Schedule 1 to the Act, a child support officer makes separate maintenance assessments in respect of different periods in a particular case, because he is aware of one or more changes of circumstances which occurred after the date which is applicable to that case under paragraphs (a) to (f), the relevant week for the purposes of each separate maintenance assessment made to take account of each such change of circumstances, shall be the period of 7 days immediately preceding the date on which notification was given to the Secretary of State of the change of circumstances relevant to that separate maintenance assessment;
+
+  ;
+- (e) at the end of the definition of “self-employed earner” there shall be added the words “except that it shall include a person gainfully employed in Northern Ireland otherwise than in employed earner’s employment (whether or not he is also employed in such employment)”.
+
+(3) At the end of sub-paragraph (a) of paragraph (2A) there shall be added the words “and the amount of income to which each tax rate applies shall be determined on the basis that the ratio of that amount to the full amount of the income to which each tax rate applies is the same as the ratio of the proportionate part of that personal relief to the full personal relief”.
+
+## 43. Amendment of regulation 2 of the Maintenance Assessments and Special Cases Regulations[^key-fb22006f3b7bdbcc25149fe3b9d37a89]
+
+In paragraph (1) of regulation 2 of the Maintenance Assessments and Special Cases Regulations (calculation or estimation of amounts), for the words “falls to be taken into account for the purposes of these Regulations” there shall be substituted the words “is to be considered in connection with any calculation made under these Regulations”.
+
+## 44. Amendment of regulation 3 of the Maintenance Assessments and Special Cases Regulations[^key-dc5e75e96ee4d5a2ef89731b9e3cf26a]
+
+For sub-paragraph (c) of paragraph (1) of regulation 3 of the Maintenance Assessments and Special Cases Regulations (calculation of AG) there shall be substituted the following sub-paragraph—
+
+> - (c) an amount equal to the amount specified in paragraph 3(1)(b) of the relevant Schedule.
+
+.
+
+## 45. Amendment of regulation 6 of the Maintenance Assessments and Special Cases Regulations[^key-f708224a6092f9123a83faab93e5d330]
+
+In paragraph (2)(b) of regulation 6 of the Maintenance Assessments and Special Cases Regulations (the additional element), for “3(1)(c)(i)” there shall be substituted “3(1)(c)”.
+
+## 46. Amendment of Regulation 9 of the Maintenance Assessments and Special Cases Regulations[^key-4ba5c39764e81ab70a82da2d849c3b69]
+
+(1) Regulation 9 of the Maintenance Assessments and Special Cases Regulations (exempt income: calculation or estimation of E) shall be amended in accordance with the following provisions of this regulation.
+
+(2) For head (ii) of paragraph (1)(c) there shall be substituted the following head—
+
+> - (ii) if he were a claimant, the rate of income support family premium specified in sub-paragraph (a) of paragraph 3 of the relevant Schedule would be applicable to him because he is a lone parent and no premium is applicable to him under paragraph 11 of that Schedule,
+
+.
+
+(3) In paragraph (1)(f), for the words “but he is not a lone parent as defined in regulation 2(1) of the Income Support Regulations” there shall be substituted the words “but he is not a parent to whom sub-paragraph (c) applies”.
+
+## 47. Further amendment of regulation 9 of the Maintenance Assessments and Special Cases Regulations[^key-7bcdd45bad46b561e75ba98e28ea6b80]
+
+(1) Regulation 9 of the Maintenance Assessments and Special Cases Regulations shall be further amended in accordance with the following provisions of this regulation.
+
+(2) In paragraph (1)—
+
+- (a) sub-paragraph (c) shall be omitted;
+- (b) in sub-paragraph (f), the words “but he is not a parent to whom sub-paragraph (c) applies” shall be omitted.
+
+(3) In paragraph (2)(c)(iv) after “paragraph 3” there shall be inserted “(1)”.
+
+## 48. Amendment of regulation 11 of the Maintenance Assessments and Special Cases Regulations[^key-ae20718865d2236d15e96136a892640e]
+
+In paragraph (1) of regulation 11 of the Maintenance Assessments and Special Cases Regulations (protected income)—
+
+- (a) for sub-paragraph (c) there shall be substituted the following sub-paragraph—
+
+  > - (c) where, if the absent parent were a claimant, the rate of income support family premium specified in sub-paragraph (a) of paragraph 3 of the relevant Schedule would be applicable to him because he is a lone parent and no premium is applicable to him under paragraph 11 of that Schedule, an amount equal to the amount specified in that sub-paragraph;
+
+  ;
+- (b) in sub-paragraph (f), for the words “but he is not a lone parent as defined in regulation 2(1) of the Income Support Regulations” there shall be substituted the words “but he is not a parent to whom sub-paragraph (c) applies”.
+
+## 49. Further amendment of regulation 11 of the Maintenance Assessments and Special Cases Regulations[^key-f004078e1d4f5662feb1e9cf278927e3]
+
+(1) Regulation 11 of the Maintenance Assessments and Special Cases Regulations shall be further amended in accordance with the following provisions of this regulation.
+
+(2) In paragraph (1)—
+
+- (a) sub-paragraph (c) shall be omitted;
+- (b) in sub-paragraph (f), the words “but he is not a parent to whom sub-paragraph (c) applies” shall be omitted.
+
+(3) In paragraph (3), for the words “sub-paragraphs (c) or (f)” there shall be substituted the words “sub-paragraph (f)”.
+
+## 50. Amendment of regulation 15 of the Maintenance Assessments and Special Cases Regulations[^key-2e8d0add30bd7826dd2525059eee394e]
+
+At the end of paragraph (3) of regulation 15 of the Maintenance Assessments and Special Cases Regulations (amount of housing costs) there shall be added—
+
+> - but, where that other person does not make those payments in circumstances where head (a) of paragraph 4(2) of Schedule 3 applies, the eligible housing costs of that parent shall include the housing costs for which, because of that failure to pay, that parent is treated as responsible under that head.
+
+.
+
+## 51. Amendment of regulation 16 of the Maintenance Assessments and Special Cases Regulations[^key-85ac5c2384048b55fc649425233f2707]
+
+In paragraph (1) of regulation 16 of the Maintenance Assessments and Special Cases Regulations (weekly amount of housing costs)—
+
+- (a) for the words “Where a parent pays housing costs” there shall be substituted the words “Where housing costs are payable by a parent”;
+- (b) in sub-paragraph (c), for the words “the amount which he pays” there shall be substituted the words “the amount payable”.
+
+## 52. Amendment of regulation 19 of the Maintenance Assessments and Special Cases Regulations[^key-5eddcb7d2a1c4b4ac1fc11acc60d4d93]
+
+Paragraph (2)(c) of regulation 19 of the Maintenance Assessments and Special Cases Regulations (both parents are absent) shall be omitted.
+
+## 53. Amendment of regulation 22 of the Maintenance Assessments and Special Cases Regulations[^key-617903a673c9dca602c6ab8d0152046d]
+
+After paragraph (2A) of regulation 22 of the Maintenance Assessments and Special Cases Regulations (multiple applications relating to an absent parent) there shall be inserted the following paragraphs—
+
+> (2B) Where—
+>
+> - (a) a case is treated as a special case for the purposes of the Act by virtue of paragraph (1);
+> - (b) more than one maintenance assessment is in force in respect of the absent parent; and
+> - (c) any of those assessments is reviewed under section 16, 17, 18 or 19 of the Act and a fresh assessment is to be made,
+>
+> the formula set out in paragraph (2) or, as the case may be, paragraph (2ZA) shall be applied to calculate or estimate the amount of child support maintenance payable under that fresh assessment.
+>
+> (2C) Where a maintenance assessment falls within sub-paragraph (b) of paragraph (2B) but it is not reviewed under any of the provisions set out in sub-paragraph (c) of that paragraph, the formula set out in paragraph (2) or, as the case may be, paragraph (2ZA) shall be applied to determine whether that maintenance assessment should be increased or reduced as a result of the making of a fresh assessment under sub-paragraph (c) and any increase or reduction shall take effect from the effective date of that fresh assessment.
+
+.
+
+## 54. Amendment of regulation 26 of the Maintenance Assessments and Special Cases Regulations[^key-4097e6061a7b69f11f9967f3bc94678f]
+
+In head (ii) of sub-paragraph (b) of paragraph (1) of regulation 26 of the Maintenance Assessments and Special Cases Regulations (cases where child support maintenance is not to be payable), for “11(1)(c) or (f)” there shall be substituted “11(1)(f)”.
+
+## 55. Amendment of regulation 28 of the Maintenance Assessments and Special Cases Regulations[^key-16ba6679cfcc06f256eaf83caf2b2225]
+
+In sub-paragraph (b) of paragraph (1) of regulation 28 of the Maintenance Assessments and Special Cases Regulations (amount payable where absent parent is in receipt of income support or other prescribed benefit), for “3(a) or (b)” there shall be substituted “3(1)(a) or (b)”.
+
+## 56. Amendment of Schedule 1 to the Maintenance Assessments and Special Cases Regulations[^key-bc3626e5db6a305882de9aa1e5670454][^key-b65d5f02633fe362f3389a6efdc1e22d]
+
+(1)[^key-bc3626e5db6a305882de9aa1e5670454] Schedule 1 to the Maintenance Assessments and Special Cases Regulations (calculation of N and M) shall be amended in accordance with the following provisions of this regulation.
+
+(2)[^key-bc3626e5db6a305882de9aa1e5670454] In paragraph 1(2)—
+
+- (a) at the end of head (a) there shall be added—
+
+  > except any such payment which is made in respect of housing costs and those housing costs are included in the calculation of the exempt or protected income of the absent parent under regulation 9(1) (b) or, as the case may be, regulation 11(1) (b)
+
+  ;
+- (b) at the end of head (h) there shall be added—
+
+  > except any such allowance which is made in respect of housing costs and those housing costs are included in the calculation of the exempt or protected income of the absent parent under regulation 9(1)(b) or, as the case may be, regulation 11(1)(b)
+
+  .
+
+(3)[^key-bc3626e5db6a305882de9aa1e5670454] In paragraph 3(5)—
+
+- (a) at the beginning of head (b) there shall be inserted the words “subject to head (bb),”;
+- (b) after head (b) there shall be inserted the following head—
+
+  > - (bb) where taxable earnings are determined over a period of less or more than one year, the amount of earnings to which each tax rate applies shall be reduced or increased in the same proportion to that which the period represented by the chargeable earnings bears to the period of one year;
+
+  .
+
+(4)[^key-bc3626e5db6a305882de9aa1e5670454] In paragraph 15, for the words “except payments or other amounts which are excluded from the definition of “earnings” by virtue of paragraph 1(2)” there shall be substituted the words
+
+> - except payments or other amounts which—
+>   - (a) are excluded from the definition of “earnings” by virtue of paragraph 1(2);
+>   - (b) are excluded from the definition of “the relevant income of a child” by virtue of paragraph 23; or
+>   - (c) are the share of housing costs attributed by virtue of paragraph (3) of regulation 15 to any former partner of the parent of the qualifying child in respect of whom the maintenance assessment is made and are paid to that parent.
+
+.
+
+(5)[^key-b65d5f02633fe362f3389a6efdc1e22d] In paragraph 20(b), for “3(1)(c)(i)” there shall be substituted “3(1)(c)”.
+
+(6)[^key-bc3626e5db6a305882de9aa1e5670454] In paragraph 23(b), for the words “in respect of” there shall be substituted the word “to”.
+
+## 57. Amendment of Schedule 2 to the Maintenance Assessment and Special Cases Regulations[^key-de5885a4b119518146f1116e0be84ab8]
+
+At the end of paragraphs 25 and 44 of Schedule 2 to the Maintenance Assessments and Special Cases Regulations (amounts to be disregarded when calculating or estimating N and M) there shall be added the words “of Schedule 1.”.
+
+## 58. Amendment of Schedule 3 to the Maintenance Assessments and Special Cases Regulations[^key-dff573f12b4d8e19cb1131e4f03e13dd]
+
+(1) Schedule 3 to the Maintenance Assessments and Special Cases Regulations (eligible housing costs) shall be amended in accordance with the following provisions of this regulation.
+
+(2) In paragraph 1—
+
+- (a) for the words “the following payments” there shall be substituted the words “the following amounts payable”;
+- (b) in sub-paragraphs (a) and (k), for the words “payments of, or by way of,” there shall be substituted the words “amounts payable by way of”;
+- (c) for sub-paragraph (b) there shall be substituted the following sub-paragraph—
+
+  > - (b) amounts payable by way of mortgage interest;
+
+  ;
+- (d) in sub-paragraphs (c) and (d), for the words “interest payments” there shall be substituted the words “amounts payable by way of interest”;
+- (e) in sub-paragraphs (e) to (j), (l), (n) and (p), for the word “payments” there shall be substituted the words “amounts payable”;
+- (f) in sub-paragraph (q), for the word “payment” there shall be substituted the words “amount payable”;
+- (g) in sub-paragraph (r)—
+  - (i) for the word “payments” where it first appears there shall be substituted the words “amounts payable”;
+  - (ii) for the words “payments made by the employer deducting the payment in question” there shall be substituted the words “any amounts deductible by the employer”;
+- (h) for sub-paragraph (t) there shall be substituted the following sub-paragraph—
+
+  > - (t) amounts payable in respect of a loan taken out to pay off another loan but only to the extent that it was incurred in respect of amounts eligible to be taken into account as housing costs by virtue of other provisions of this Schedule.
+
+  .
+
+(3) In paragraph 3—
+
+- (a) in sub-paragraphs (2) and (2A), for the words “makes periodical payments” there shall be substituted the words “is liable to make periodical payments” and for the words “the amount of those payments” there shall be substituted the words “those amounts payable”;
+- (b) in sub-paragraph (3)—
+  - (i) for the words “certain payments made” there shall be substituted the words “certain amounts payable”;
+  - (ii) for the words “the weekly amount of any other payments which are made” there shall be substituted the words “any other amounts payable”;
+- (c) in sub-paragraphs (4) and (5) for the words “premiums paid” wherever they occur there shall be substituted the words “premiums payable”;
+- (d) in sub-paragraph (6)(b) for the word “payments” there shall be substituted the words “amounts payable”.
+
+## 59. Transitional provisions[^key-8c4be82fd28f30b0a9032153e320e5a2][^key-d415ef3e3237060f0ff7f0ef4dd2d2ee]
+
+(1) A decision with respect to a maintenance assessment in force on the first commencement day shall not be superseded by a decision under section 17 of the Child Support Act 1991 (“the Act") solely to give effect to regulation 42(2)(d), regulation 50 or regulation 56(2).
+
+(2) The regulations specified in paragraph (1) shall apply to a fresh maintenance assessment made by virtue of—
+
+- (a) a revision under section 16 of the Act of a decision with respect to a maintenance assessment; or
+- (b) a decision under section 17 of the Act which supersedes a decision with respect to a maintenance assessment,
+
+as from whichever is the later of—
+
+- (i) the date as from which that revision or, as the case may be, supersession takes effect; or
+- (ii) the first day of the first maintenance period which begins on or after the first commencement day, as the case may be.
+
+(3) A decision with respect to a maintenance assessment in force on the second commencement day shall not be superseded by a decision under section 17 of the Act solely to give effect to regulations 44, 45, 47, 49, 52, 54, 55 and 56(5).
+
+(4) The regulations specified in paragraph (3) shall apply to a fresh maintenance assessment made by virtue of—
+
+- (a) a revision under section 16 of the Act of a decision with respect to a maintenance assessment; or
+- (b) a decision under section 17 of the Act which supersedes a decision with respect to a maintenance assessment,
+
+as from whichever is the later of—
+
+- (i) the date as from which that revision or, as the case may be, supersession takes effect; or
+- (ii) the first day of the first maintenance period which begins on or after the second commencement day, as the case may be.
+
+Signed by authority of the Secretary of State for Social Security.
+
+Patricia Hollis
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+15th January 1998
+
+(This note is not part of the Regulations)
+
+These Regulations amend various regulations made under the Child Support Act 1991.
+
+The Child Support Appeal Tribunals (Procedure) Regulations 1992 are amended to remove the obligation on clerks to tribunals to ask the parties whether they want an oral hearing of an application on certain limited technical grounds to set aside a decision (regulation 5).
+
+The Child Support (Collection and Enforcement) Regulations 1992 are amended to make provision for the appropriate amount of a deduction to be made when a person is paid in advance (regulation 6).
+
+The Child Support Departure Direction and Consequential Amendments Regulations 1996 are amended in the following respects—
+
+- (a) regulation 8 is amended to provide for notification of an application for a departure direction not to be given to other interested persons where the Secretary of State is satisfied a direction is unlikely to be given (regulation 7);
+- (b) regulation 11A is inserted to make provision for a departure direction to be considered against an assessment which has been made following a review of the assessment in force at the time of the application for that direction (regulation 10);
+- (c) regulation 15 is amended to allow the Secretary of State to consider an application for a departure direction in respect of the cost of illness or disability of the absent parent’s dependant without deducting from the amount applied for any financial assistance, including benefits, payable in respect of the illness or disability (regulation 11);
+- (d) regulation 18 is amended to allow account to be taken in the calculation of the costs incurred in supporting step children of deductions made from benefit in lieu of maintenance where the absent parent is on income support or income-based jobseeker’s allowance; and to take account of the abolition of income support lone parent premium and of the higher rate of family premium for lone parents (regulation 13);
+- (e) regulation 34A is inserted to make provision for the correction of accidental errors in departure directions (regulation 19);
+- (f) regulations 37, 39 and 40 are amended to make it clear that a departure direction can be given for less than the full amount which might have been applicable in the particular case (regulations 20–22).
+
+The Child Support (Information, Evidence and Disclosure) Regulations 1992 are amended to make provision for disclosure of information to courts in connection with proceedings relating to a maintenance order or maintenance agreement (regulation 33).
+
+Regulation 17 of the Child Support (Maintenance Assessment Procedure) Regulations 1992 is amended to provide for the calculation of the date on which a periodical review shall be undertaken in cases where more than one review has taken place since the assessment made on the last periodical review (regulation 39).
+
+The provisions for calculation of exempt and protected income in the Child Support (Maintenance Assessments and Special Cases) Regulations 1992 are amended to reflect the removal of income support lone parent premium and of the higher rate of income support family premium for lone parents (regulations 44 to 49 and 55); and to make clear that where housing costs are shared and the other party does not pay his share, the parent can be allowed the full amount of the housing costs if he pays the other party’s share (regulation 50).
+
+Other amendments are of a minor technical or consequential nature.
+
+These Regulations impose no costs on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48). Sections 28A to 28I of and Schedules 4A and 4B to the Child Support Act 1991 were inserted by sections 1 to 9 of the Child Support Act 1995 ([1995 c. 34)](https://www.legislation.gov.uk/ukpga/1995/34).
+
+[^f00002]: Footnote: Section 54 is cited because of the meaning ascribed to the word “prescribed”.
+
+[^f00003]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
+
+[^key-c67744d6a3c9c8caa6b0eab90f1fb809]: Commencement: Reg. 1 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^f00004]: Footnote: S.I. [1992/2641](https://www.legislation.gov.uk/uksi/1992/2641); relevant amending instruments are S.I. [1995/1045](https://www.legislation.gov.uk/uksi/1995/1045), [1996/2450](https://www.legislation.gov.uk/uksi/1996/2450), [1996/2907](https://www.legislation.gov.uk/uksi/1996/2907), [1996/3196](https://www.legislation.gov.uk/uksi/1996/3196) and [1997/827](https://www.legislation.gov.uk/uksi/1997/827).
+
+[^f00005]: Footnote: S.I. [1992/1989](https://www.legislation.gov.uk/uksi/1992/1989).
+
+[^f00006]: Footnote: S.I. [1996/2907](https://www.legislation.gov.uk/uksi/1996/2907).
+
+[^f00007]: Footnote: S.I. [1992/1812](https://www.legislation.gov.uk/uksi/1992/1812); relevant amending instruments are S.I. [1995/1045](https://www.legislation.gov.uk/uksi/1995/1045), [1995/3261](https://www.legislation.gov.uk/uksi/1995/3261), [1996/1945](https://www.legislation.gov.uk/uksi/1996/1945) and [1996/2907](https://www.legislation.gov.uk/uksi/1996/2907).
+
+[^f00008]: Footnote: S.I. [1992/1813](https://www.legislation.gov.uk/uksi/1992/1813); relevant amending instruments are S.I. [1993/913](https://www.legislation.gov.uk/uksi/1993/913), [1994/227](https://www.legislation.gov.uk/uksi/1994/227), [1995/123](https://www.legislation.gov.uk/uksi/1995/123), [1995/1045](https://www.legislation.gov.uk/uksi/1995/1045), [1995/3261](https://www.legislation.gov.uk/uksi/1995/3261), [1996/1345](https://www.legislation.gov.uk/uksi/1996/1345) and [1996/3196](https://www.legislation.gov.uk/uksi/1996/3196).
+
+[^f00009]: Footnote: [S.I.1992/1815](https://www.legislation.gov.uk/uksi/1992/1815); relevant amending instruments are S.I. [1993/913](https://www.legislation.gov.uk/uksi/1993/913), [1994/227](https://www.legislation.gov.uk/uksi/1994/227), [1995/1045](https://www.legislation.gov.uk/uksi/1995/1045), [1995/3261](https://www.legislation.gov.uk/uksi/1995/3261), [1995/3265](https://www.legislation.gov.uk/uksi/1995/3265), [1996/481](https://www.legislation.gov.uk/uksi/1996/481), [1996/1345](https://www.legislation.gov.uk/uksi/1996/1345), [1996/1803](https://www.legislation.gov.uk/uksi/1996/1803), [1996/1945](https://www.legislation.gov.uk/uksi/1996/1945), [1996/2907](https://www.legislation.gov.uk/uksi/1996/2907) and [1996/3196](https://www.legislation.gov.uk/uksi/1996/3196).
+
+[^key-3f88c3573039882017cfe7436734670a]: Commencement: Reg. 2 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-6765024225d3747b882d57ee39658730]: Commencement: Reg. 3 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-981402f1cb87495146378eb8d8388ab2]: Commencement: Reg. 4 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-b8cd11c3615be6fe4859f674f2a02bdc]: Commencement: Reg. 5 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-f3553aa101aaa83039260818b70e39f8]: Commencement: Reg. 6 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-ce5f808dcb3527420a2cbcd537523487]: Commencement: Reg. 7 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-abaf201e7e084e14ef8ffe31335b481f]: Commencement: Reg. 8 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-fe32826328c56f7fc233b71d890eacd4]: Commencement: Reg. 9 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-5b70fe5f26e3dfc0749fc2c8deb3f81b]: Commencement: Reg. 10 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-bc6bff856327d8e978120f27a5487d8a]: Commencement: Reg. 11 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-4058c12b555aee8c11ad7797680c5f74]: Commencement: Reg. 12 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-8e57705c72f43e5da74503660bc21905]: Commencement: Reg. 13 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-b3fbea1b2a059cff137b1171837175c5]: Commencement: Reg. 14 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-4682b858a9b64d5c95b47e7d75dd4421]: Commencement: Reg. 15 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-4c4bcd0b15bbe06937507877e3b2c9c1]: Commencement: Reg. 16 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-c4d45a843c4540c2de41c3dcb751b772]: Commencement: Reg. 17 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-cb69974327a0eeb463fdad1fec9ad3c6]: Commencement: Reg. 18 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-e168b2cbc19af689a05f4b2f60024374]: Commencement: Reg. 19 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-db5c219c5f8504bcf0beb4d9645bb197]: Commencement: Reg. 20 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-38949581758a497ca578f48bb197a482]: Commencement: Reg. 21 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-7db83e6f15ec411316a9a7b61ad3f3bd]: Commencement: Reg. 22 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-f449227c9fe678b3bb555bb45fa7a5da]: Commencement: Reg. 23 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-4a7a24067d58bca2cb1c68838d1e30f5]: Commencement: Reg. 24 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-931177dd45df2d778ad9328f7136bf2b]: Commencement: Reg. 25 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-9d94228ad7fac70f702be0be450c6709]: Commencement: Reg. 26 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-bb68626323e7ba08afb7d5138d8d892b]: Commencement: Reg. 27 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-27ef0c82090e18b88a07275521bb5cc0]: Commencement: Reg. 28 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-5c51374007d606198944408548c7ec30]: Commencement: Reg. 29 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-979b91dde18634b040f6bf729cd089a2]: Commencement: Reg. 30 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-02772f59b7d57c2edf9f8bada32af5ed]: Commencement: Reg. 31 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-2ae6ad7d0efcde9abdb078b7636d778f]: Commencement: Reg. 32 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-f6b5e9ed89536ff655e9951443ceecbf]: Commencement: Reg. 33 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^f00010]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^key-d54ad4d3d4a5290dc326b12ac5b6fa40]: Commencement: Reg. 34 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-b857e899102fa99803025d442f45cbc0]: Commencement: Reg. 35 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-5aa7a74fce1b5217ebb2e6ee7dc8984c]: Commencement: Reg. 36 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-699d855a237809c87c9669880e4dd33e]: Commencement: Reg. 37 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-910401d947242f2021b147b203512c61]: Commencement: Reg. 38 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^f00011]: Footnote: Paragraph (2B) is inserted by regulation 53.
+
+[^key-608d3e5fde5a2d16fe0dedea699f19e3]: Commencement: Reg. 39(1)(2) in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-ebc557595e4ce58e058d9d5fc67e6add]: Commencement: Reg. 39(3) in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-5d8f7a31e899defd551bfabe6f22cc4d]: Commencement: Reg. 40 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-52154a917fcaec818a99e4f3d2456191]: Commencement: Reg. 41 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-4ed5566be79c65c18b163cef13aeec16]: Commencement: Reg. 42 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^f00012]: Footnote: S.I. [1996/2907](https://www.legislation.gov.uk/uksi/1996/2907).
+
+[^f00013]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
+
+[^key-fb22006f3b7bdbcc25149fe3b9d37a89]: Commencement: Reg. 43 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-dc5e75e96ee4d5a2ef89731b9e3cf26a]: Commencement: Reg. 44 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-f708224a6092f9123a83faab93e5d330]: Commencement: Reg. 45 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-4ba5c39764e81ab70a82da2d849c3b69]: Commencement: Reg. 46 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-7bcdd45bad46b561e75ba98e28ea6b80]: Commencement: Reg. 47 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-ae20718865d2236d15e96136a892640e]: Commencement: Reg. 48 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-f004078e1d4f5662feb1e9cf278927e3]: Commencement: Reg. 49 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-2e8d0add30bd7826dd2525059eee394e]: Commencement: Reg. 50 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-85ac5c2384048b55fc649425233f2707]: Commencement: Reg. 51 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-5eddcb7d2a1c4b4ac1fc11acc60d4d93]: Commencement: Reg. 52 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-617903a673c9dca602c6ab8d0152046d]: Commencement: Reg. 53 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-4097e6061a7b69f11f9967f3bc94678f]: Commencement: Reg. 54 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-16ba6679cfcc06f256eaf83caf2b2225]: Commencement: Reg. 55 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-bc3626e5db6a305882de9aa1e5670454]: Commencement: Reg. 56(1)-(4)(6) in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-b65d5f02633fe362f3389a6efdc1e22d]: Commencement: Reg. 56(5) in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-de5885a4b119518146f1116e0be84ab8]: Commencement: Reg. 57 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-dff573f12b4d8e19cb1131e4f03e13dd]: Commencement: Reg. 58 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-8c4be82fd28f30b0a9032153e320e5a2]: Commencement: Reg. 59 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+
+[^key-d415ef3e3237060f0ff7f0ef4dd2d2ee]: Textual amendment: [Reg. 59](https://www.legislation.gov.uk/uksi/1998/58/regulation/59) substituted (1.6.1999) by [The Social Security Act 1998 (Commencement No. 7 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1510)](https://www.legislation.gov.uk/uksi/1999/1510), [arts. 3(1)](https://www.legislation.gov.uk/uksi/1999/1510/article/3/1), [45](https://www.legislation.gov.uk/uksi/1999/1510/article/45)

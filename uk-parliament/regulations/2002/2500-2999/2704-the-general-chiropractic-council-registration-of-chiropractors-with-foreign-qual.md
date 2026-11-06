@@ -1,0 +1,236 @@
+---
+title: The General Chiropractic Council (Registration of Chiropractors with Foreign Qualifications) Rules Order of Council 2002
+id: uksi/2002/2704
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2002-10-10'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2002/2704
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/2704/pdfs/uksi_20022704_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/2704/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The General Chiropractic Council (Registration of Chiropractors with Foreign Qualifications) Rules Order of Council 2002
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2002 No. 2704
+
+CHIROPRACTORS
+
+The General Chiropractic Council (Registration of Chiropractors with Foreign Qualifications) Rules Order of Council 2002
+
+Made
+
+10th October 2002
+
+Coming into force
+
+6th November 2002
+
+At the Council Chamber, Whitehall, the 10th day of October 2002
+
+By the Lords of Her Majesty’s Most Honourable Privy Council
+
+Whereas in pursuance of sections 3(2) and (6), 6(2) to (4), 14(4) and 35(2) of the Chiropractors Act 1994 ( “the Act”)[^c9627151], and of all other powers enabling it in that behalf, the General Chiropractic Council has made the General Chiropractic Council (Registration of Chiropractors with Foreign Qualifications) Rules 2002 as set out in the Schedule to this Order:
+
+And whereas by sections 35(1) and 36 of the Act such Rules shall not have effect until approved by the Privy Council:
+
+Now, therefore, Their Lordships, having taken the Rules into consideration, are pleased to, and do hereby, approve them.
+
+This Order may be cited as the General Chiropractic Council (Registration of Chiropractors with Foreign Qualifications) Rules Order of Council 2002 and shall come into force on 6th November 2002.
+
+A. K. Galloway
+
+Clerk of the Privy Council
+
+## SCHEDULE — THE GENERAL CHIROPRACTIC COUNCIL (REGISTRATION OF CHIROPRACTORS WITH FOREIGN QUALIFICATIONS) RULES 2002
+
+The General Chiropractic Council, in exercise of its powers under sections 3(2) and (6), 6(2) to (4), 14(4) and 35(2) of the Chiropractors Act 1994 [^c9627161], and of all other powers enabling it in that behalf, hereby makes the following Rules:
+
+### PART I — General
+
+#### 1. Citation and commencement
+
+These Rules may be cited as the General Chiropractic Council (Registration of Chiropractors with Foreign Qualifications) Rules 2002, and shall come into force on 6th November 2002.
+
+#### 2. Interpretation, etc
+
+In these Rules—
+
+- “the 1999 Rules” means the General Chiropractic Council (Registration) Rules 1999 [^c9627171];
+- “the Act” means the Chiropractors Act 1994;
+- “applicant” means an applicant for registration as a fully registered chiropractor;
+- “the Council” means the General Chiropractic Council;
+- [^key-9214cf9a0a2b449d3d437d09ad6c7db2]...
+- “foreign qualification” means a qualification in chiropractic granted by an institution outside the United Kingdom;
+- “relevant recognised qualification” means a foreign qualification which has been recognised under section 14(3) of the Act;
+- “relevant unrecognised qualification” means a foreign qualification which has not been recognised under section 14(3) of the Act, but which was awarded to the applicant—
+  - (a) following completion of a course of education or training in chiropractic normally requiring not less than 4,800 hours of study, tuition and clinical experience in chiropractic to be undertaken; or
+  - (b) following completion of—
+    - (i) a first degree in human science, and
+    - (ii) a course of education or training in chiropractic normally requiring not less than 2,200 hours of study, tuition and clinical experience in chiropractic to be undertaken.
+
+#### 3. Particulars in the register
+
+Where a person is registered as a fully registered chiropractor by virtue of Part II or III of these Rules, the register shall contain a note to that effect, in addition (so far as relevant) to the matters referred to in rule 3(1) of the 1999 Rules.
+
+### PART II — Applications by chiropractors with foreign qualifications[^key-15688d9faf597caf8b3bc944b46adae9]
+
+#### 4. Application of Part II
+
+This Part applies where an applicant is a person who—
+
+- (a) has a relevant recognised qualification or a relevant unrecognised qualification, and[^key-a80e700f69c4a7a7ed20967123b2086f]
+- (b) does not have a recognised qualification granted by an institution within the United Kingdom, [^key-73faf631fa703bed5d32298642a6ddba]...
+- (c)[^key-73faf631fa703bed5d32298642a6ddba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+and references in this Part to an application shall be construed accordingly.
+
+#### 5. Treatment of foreign qualifications
+
+(1) The Registrar shall, in considering an application by an applicant who has a relevant unrecognised qualification but not a relevant recognised qualification, treat the applicant as having a recognised qualification upon being satisfied that he has reached the required standard of proficiency and [^key-09d46f64531e825ea302085765a0083d]... has a satisfactory command of the English language.
+
+(2) The Registrar may [^key-bbd9e031d1a17bcca6e8dbd5811b5d8e]... in considering an application by an applicant who has a relevant recognised qualification, before registering the applicant, require the applicant to satisfy him that he has a satisfactory command of the English language.
+
+(3)[^key-cc411fffce83b6f7e8e5514fc3853d4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. Required standard of proficiency
+
+(1) In[^key-bc4efa25a8b55ccb3b7b244762b64ffb][^key-90dd1bc6e338b329a8b02447bde0469f] determining whether an applicant has reached the required standard of proficiency for the purposes of rule 5(1), the Registrar shall require the applicant to take a test of competence under this rule.
+
+(1A)[^key-c5a26d53a8d36ec9e311239accaa0eb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The test of competence shall comprise a written or oral test (or both) covering the following heads (or such part of them as the Registrar considers appropriate) for the purposes of determining whether the applicant meets the required standard of proficiency in relation to them—
+
+- (a) knowledge and understanding of the ethical basis and holistic nature of the practice of chiropractic;
+- (b) medical and scientific knowledge relevant to the practice of chiropractic;
+- (c) clinical assessment, including physical examination before and during treatment, interview and case history;
+- (d) diagnosis and clinical impression;
+- (e) the selection of appropriate treatment;
+- (f) the delivery of treatment and evaluation of the response to treatment;
+- (g) the giving of advice concerning treatment, treatment dependence, minimisation of recurrence or the need for further treatment, and related matters;
+- (h) the obtaining of consent to treatment;
+- (i) communication with other chiropractors, general medical practitioners and other health professionals, including assessment of the need for second opinions or for referrals; and
+- (j) record keeping.
+
+(3) The test of competence may if the Registrar so requires include a test requiring a practical demonstration by the applicant.
+
+(4) The test of competence shall be conducted by examiners appointed by the Council, who shall be fully registered chiropractors of not less than 5 years’ experience who have successfully completed a course of training approved by the General Council in the methods of assessing a person undergoing a test of competence under this rule or under rule 6 of the General Chiropractic Council (Registration During Transitional Period) Rules 1999 [^c9627181]; and any person appointed for the purpose of rule 6(4) of those Rules shall be deemed to be appointed also for the purposes of this rule.
+
+#### 7. Satisfactory command of English language
+
+In satisfying himself whether the applicant has a satisfactory command of the English language for the purposes of rule 5, the Registrar may require him to take a test, conducted orally or in writing (or both), in order to determine whether he has sufficient ability in spoken and written English to enable him to practice chiropractic in the United Kingdom safely and competently.
+
+#### 8. Applications
+
+(1) The 1999 Rules (including the provisions relating to the payment of fees) shall apply to an application for registration to which this Part applies, subject to the modifications with respect to the form of application and the provision of documents and other evidence which are made in this rule.
+
+(2) An application shall be in Form A set out in the Schedule.
+
+(3) An application shall, instead of being accompanied by the particulars required by rule 4(2)(d) of the 1999 Rules, be accompanied by the particulars specified in that Form A.
+
+(4) Where an application is made by an applicant who has a relevant unrecognised qualification but not a relevant recognised qualification, the application shall, instead of being accompanied by evidence of a recognised qualification under rule 4(2)(c) of the 1999 Rules, be accompanied by evidence acceptable to the Registrar that the applicant holds the relevant unrecognised qualification.
+
+### PART III — Cases where the applicant is treated as having a recognised qualification by virtue of section 14(10)(a) of the Act[^key-653b4c288b0d71cc625574a1bdd0b9ed]
+
+**No longer in force.**
+
+#### 9. Application and interpretation of Part III[^key-653b4c288b0d71cc625574a1bdd0b9ed]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10. Applications[^key-653b4c288b0d71cc625574a1bdd0b9ed]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 11. Evidence of good character and health: Directive cases[^key-653b4c288b0d71cc625574a1bdd0b9ed]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 12. Evidence of good character and health: non-Directive cases[^key-653b4c288b0d71cc625574a1bdd0b9ed]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 13. Additional conditions[^key-653b4c288b0d71cc625574a1bdd0b9ed]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE
+
+### FORM A
+
+[image: see source](https://www.legislation.gov.uk/uksi/2002/2704/images/uksi_20022704_en_sld_001)
+
+[image: see source](https://www.legislation.gov.uk/uksi/2002/2704/images/uksi_20022704_en_sld_002)
+
+[image: see source](https://www.legislation.gov.uk/uksi/2002/2704/images/uksi_20022704_en_sld_003)
+
+[image: see source](https://www.legislation.gov.uk/uksi/2002/2704/images/uksi_20022704_en_sld_004)
+
+[image: see source](https://www.legislation.gov.uk/uksi/2002/2704/images/uksi_20022704_en_sld_005)
+
+[image: see source](https://www.legislation.gov.uk/uksi/2002/2704/images/uksi_20022704_en_sld_006)
+
+[image: see source](https://www.legislation.gov.uk/uksi/2002/2704/images/uksi_20022704_en_sld_007)
+
+[image: see source](https://www.legislation.gov.uk/uksi/2002/2704/images/uksi_20022704_en_sld_008)
+
+[image: see source](https://www.legislation.gov.uk/uksi/2002/2704/images/uksi_20022704_en_sld_009)
+
+[image: see source](https://www.legislation.gov.uk/uksi/2002/2704/images/uksi_20022704_en_sld_010)
+
+### FORM B[^key-2ed6f526289451350f38426575d85d0e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*(This note is not part of the Order)*
+
+This Order, which is made under the Chiropractors Act 1994, approves Rules made by the General Chiropractic Council in respect of registration on the basis of qualifications awarded outside the United Kingdom. Part II of the Rules relate to qualifications to which European Community law does not apply but which have been recognised under section 14(3) of the Act, or, which have not been so recognised, but the holder of which satisfies the Registrar, under section 3(6), that he has reached the required standard of proficiency. Part III of the Rules relates to registration of applicants relying on Community law, principally those who have a qualification awarded in another EEA State or Switzerland to whom Directive [89/48/EEC](https://www.legislation.gov.uk/european/directive/1989/0048) applies. As indicated in these Rules, The General Chiropractic Council (Registration) Rules 1999 (S.I. 1999/1856) also apply to applications for registration on the basis of qualifications awarded outside the United Kingdom.
+
+## Annotations
+
+[^c9627151]: Marginal citation: [1994 c. 17](https://www.legislation.gov.uk/ukpga/1994/17).
+
+[^c9627161]: Marginal citation: [1994 c. 17](https://www.legislation.gov.uk/ukpga/1994/17).
+
+[^c9627171]: Marginal citation: Approved by (and printed in) [S.I. 1999/1856](https://www.legislation.gov.uk/uksi/1999/1856).
+
+[^key-9214cf9a0a2b449d3d437d09ad6c7db2]: Textual amendment: Words in [Sch. rule 2](https://www.legislation.gov.uk/uksi/2002/2704/schedule/rule/2) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 7 para. 13(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/paragraph/13/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [15](https://www.legislation.gov.uk/uksi/2020/1394/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-15688d9faf597caf8b3bc944b46adae9]: Textual amendment: Sch. Pt. 2 heading substituted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 7 para. 13(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/paragraph/13/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [15](https://www.legislation.gov.uk/uksi/2020/1394/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a80e700f69c4a7a7ed20967123b2086f]: Textual amendment: Word in Sch. rule 4(a) inserted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 7 para. 13(c)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/paragraph/13/c/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [15](https://www.legislation.gov.uk/uksi/2020/1394/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-73faf631fa703bed5d32298642a6ddba]: Textual amendment: Sch. rule 4(c) and word omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 7 para. 13(c)(ii)](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/paragraph/13/c/ii) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [15](https://www.legislation.gov.uk/uksi/2020/1394/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-09d46f64531e825ea302085765a0083d]: Textual amendment: Words in Sch. rule 5(1) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 7 para. 13(d)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/paragraph/13/d/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [15](https://www.legislation.gov.uk/uksi/2020/1394/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bbd9e031d1a17bcca6e8dbd5811b5d8e]: Textual amendment: Words in Sch. rule 5(2) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 7 para. 13(d)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/paragraph/13/d/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [15](https://www.legislation.gov.uk/uksi/2020/1394/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cc411fffce83b6f7e8e5514fc3853d4e]: Textual amendment: Sch. rule 5(3) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 7 para. 13(d)(ii)](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/paragraph/13/d/ii) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [15](https://www.legislation.gov.uk/uksi/2020/1394/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bc4efa25a8b55ccb3b7b244762b64ffb]: Textual amendment: Word in Sch. rule 6(1) substituted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 7 para. 13(e)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/paragraph/13/e/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [15](https://www.legislation.gov.uk/uksi/2020/1394/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-90dd1bc6e338b329a8b02447bde0469f]: Textual amendment: Words in Sch. rule 6(1) substituted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [229(5)(a)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/229/5/a)
+
+[^key-c5a26d53a8d36ec9e311239accaa0eb6]: Textual amendment: Sch. rule 6(1A) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 7 para. 13(e)(ii)](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/paragraph/13/e/ii) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [15](https://www.legislation.gov.uk/uksi/2020/1394/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c9627181]: Marginal citation: Approved by (and printed in) [S.I. 1999/1857](https://www.legislation.gov.uk/uksi/1999/1857).
+
+[^key-653b4c288b0d71cc625574a1bdd0b9ed]: Textual amendment: Sch. Pt. 3 omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 7 para. 13(f)](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/paragraph/13/f) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [15](https://www.legislation.gov.uk/uksi/2020/1394/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2ed6f526289451350f38426575d85d0e]: Textual amendment: Sch. Form B omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 7 para. 13(g)](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/paragraph/13/g) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [15](https://www.legislation.gov.uk/uksi/2020/1394/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

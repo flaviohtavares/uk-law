@@ -1,0 +1,49 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 112
+act: Income Tax (Trading and Other Income) Act 2005
+section: '112'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/112
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 112
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 112. Meaning of “animal”, “herd”, “production herd” etc.
+
+*Extent: E+W+S+N.I.*
+
+(1) In this Chapter—
+
+- (a) “**animal**” means any animal or other living creature,
+- (b) “**herd**” includes a flock and any other collection of animals (however named), and
+- (c) “**production herd**” means, in relation to a farmer, a herd of animals of the same species (irrespective of breed) kept by the farmer wholly or mainly for the products obtainable from the living animal which the animals produce for the farmer to sell.
+
+(2) For this purpose “**the products obtainable from the living animal**” means—
+
+- (a) the young of the animal, or
+- (b) any other product obtainable from the animal without slaughtering it.
+
+(3) For the purposes of this Chapter the general rule is that immature animals kept in a production herd are not part of the herd.
+
+(4) There is an exception to this rule if—
+
+- (a) the nature of the land on which the herd is kept means that animals which die or cease to be part of the herd can be replaced only by animals bred and reared on the land,
+- (b) the immature animals in question are bred in the herd and are maintained in the herd for the purpose of replacing other animals, and
+- (c) it is necessary to maintain the immature animals for that purpose.
+
+(5) In that case the immature animals are part of the herd for the purposes of this Chapter, but only so far as they are required to prevent a fall in the numbers of the herd.
+
+(6) References in this Chapter to an animal being added to a herd include references to an immature animal that is not part of the herd reaching maturity.
+
+(7) This Chapter applies—
+
+- (a) in relation to animals kept singly as it applies in relation to herds, and
+- (b) in relation to shares in animals as it applies in relation to animals themselves.

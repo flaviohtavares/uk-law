@@ -1,0 +1,107 @@
+---
+title: Finance Act 1988, section 51
+act: Finance Act 1988
+section: '51'
+status: revised-with-pending-changes
+text_date: '2024-02-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1988/39/section/51
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 1988, section 51
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2024-02-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/39
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 51. Restriction of relief.
+
+*Extent: E+W+S+N.I.*
+
+(1) The Taxes Act 1988 shall have effect, and be deemed always to have had effect, with the following amendments, namely—
+
+- (a) in section 289(12)(b), the substitution of the words “sections 290A, 293” for the words “ sections 293 ”; and
+- (b) the insertion after section 290 of the following section—
+
+  > **290A. Restriction of relief where amounts raised exceed permitted maximum.**
+  >
+  > (1) Where—
+  >
+  > - (a) a company raises any amount through the issue of eligible shares after 15th March 1988; and
+  > - (b) the aggregate of that amount and of all other amounts (if any) so raised within the period mentioned in subsection (2) below exceeds £500,000,
+  >
+  > the relief shall not be given in respect of the excess.
+  >
+  > (2) The period referred to in subsection (1) above is—
+  >
+  > - (a) the period of 6 months ending with the date of the issue of the shares; or
+  > - (b) the period beginning with the preceding 6th April and ending with the date of that issue,
+  >
+  > whichever is the longer.
+  >
+  > (3) In determining the aggregate mentioned in subsection (1) above, no account shall be taken of any amount—
+  >
+  > - (a) which is subscribed by a person other than an individual who qualifies for relief; or
+  > - (b) as respects which relief is precluded by section 290 or this section.
+  >
+  > (4) Where—
+  >
+  > - (a) at any time within the relevant period, the company in question or any of its subsidiaries carries on any trade or part of a trade in partnership, or as a party to a joint venture, with one or more other persons; and
+  > - (b) that other person, or at least one of those other persons, is a company,
+  >
+  > the reference to £500,000 in subsection (1) above shall have effect as if it were a reference to—
+  >
+  > [formula: see source](https://www.legislation.gov.uk/ukpga/1988/39)
+  >
+  > where A is the total number of companies (apart from the company in question or any of its subsidiaries) which, during the relevant period, are members of any such partnership or parties to any such joint venture.
+  >
+  > (5) Where this section precludes the giving of relief on claims in respect of shares issued to two or more individuals, the available relief shall be divided between them in proportion to the amounts which have been respectively subscribed by them for the shares to which their claims relate and which would, apart from this section, be eligible for relief.
+  >
+  > (6) Where—
+  >
+  > - (a) in the case of a company falling within subsection (2)(a) of section 293, the qualifying trade or each of the qualifying trades is a trade to which subsection (7) below applies;
+  > - (b) in the case of a company falling within subsection (2)(b)(i) of that section, the subsidiary or each of the subsidiaries is a dormant subsidiary or exists wholly, or substantially wholly, for the purpose of carrying on one or more qualifying trades which or each of which is a trade to which subsection (7) below applies; or
+  > - (c) in the case of a company falling within subsection (2)(b)(ii) of that section, the requirements mentioned in each of paragraphs (a) and (b) above are satisfied,
+  >
+  > subsections (1) and (4) above shall have effect as if for the amount there specified there were substituted £5 million.
+  >
+  > (7) This subsection applies to a trade if it consists, wholly or substantially wholly, of operating or letting ships, other than oil rigs or pleasure craft, and—
+  >
+  > - (a) every ship operated or let by the company carrying on the trade is beneficially owned by the company;
+  > - (b) every ship beneficially owned by the company is registered in the United Kingdom;
+  > - (c) throughout the relevant period the company is solely responsible for arranging the marketing of the services of its ships; and
+  > - (d) the conditions mentioned in section 297(7) are satisfied in relation to every letting by the company.
+  >
+  > (8) Where—
+  >
+  > - (a) any of the requirements mentioned in paragraphs (a) to (c) of subsection (7) above are not satisfied in relation to any ships; or
+  > - (b) any of the conditions referred to in paragraph (d) of that subsection are not satisfied in relation to any lettings,
+  >
+  > the trade shall not thereby be precluded from being a trade to which that subsection applies if the operation or letting of those ships, or, as the case may be, those lettings do not amount to a substantial part of the trade.
+  >
+  > (9) The Treasury may by order amend any of the foregoing provisions of this section by substituting a different amount for the amount for the time being specified there.
+  >
+  > (10) Where—
+  >
+  > - (a) the issue of the eligible shares is made in pursuance of a prospectus published, or an offer in writing made, before 15th March 1988;
+  > - (b) the shares are issued after that date and before 6th April 1988; and
+  > - (c) subsection (6) above does not apply,
+  >
+  > subsections (1) and (4) above shall have effect as if for the amount there specified there were substituted £1 million.
+  >
+  > (11) In this section—
+  >
+  > - “**let**” means let on charter and “**letting**” shall be construed accordingly;
+  > - “**oil rig**” and “**pleasure craft**” have the same meanings as in section 297;
+  > - “**prospectus**” has the meaning given by section 744 of the Companies Act 1985 or Article 2(3) of the Companies (Northern Ireland) Order 1986.
+
+(2) Schedule 5 to the [^c13527461]Finance Act 1983 shall be deemed always to have had effect as if—
+
+- (a) in paragraph 2(7), for the words “paragraphs 5” there had been substituted the words “ paragraphs 3A, 5 ”; and
+- (b) the provisions set out in subsection (1)(b) above had been inserted, with any necessary modifications, after paragraph 3 as paragraph 3A.
+
+## Annotations
+
+[^c13527461]: Marginal citation: [1983 c. 28](https://www.legislation.gov.uk/ukpga/1983/28).

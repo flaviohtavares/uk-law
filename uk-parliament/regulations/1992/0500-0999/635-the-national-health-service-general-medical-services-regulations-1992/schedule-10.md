@@ -1,0 +1,2152 @@
+---
+title: The National Health Service (General Medical Services) Regulations 1992, SCHEDULE 10
+act: The National Health Service (General Medical Services) Regulations 1992
+section: schedule-10
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1992/635/schedule/10
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (General Medical Services) Regulations 1992, SCHEDULE 10
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## SCHEDULE 10 — DRUGS AND OTHER SUBSTANCES NOT TO BE PRESCRIBED FOR SUPPLY UNDER PHARMACEUTICAL SERVICES
+
+- 10\. 10 Cleaning and Disinfecting Solution
+- 10\. 10 Rinsing and Neutralising Solution
+- 10 Day Slimmer Tablets
+- 10 Hour Capsules
+- 4711 Cologne
+- Abidec Capsules
+- Acarosan Foam
+- Acarosan Moist Powder
+- Acnaveen Bar
+- Acne Aid Bar
+- Actal Suspension
+- Actal Tablets
+- Actifed Compound Linctus
+- Actifed Expectorant
+- Actifed Linctus with Codeine
+- Actifed Syrup
+- Actifed Tablets
+- Actomite
+- Actonorm Gel
+- Actonorm Powder
+- Actonorm Tablets
+- Actron Tablets
+- Adult Cough Balsam (Cupal)
+- Adult Meltus Cough and Catarrh Linctus
+- Adult Tonic Mixture (Thornton and Ross)
+- Afrazine Nasal Drops
+- Afrazine Nasal Spray
+- Afrazine Paediatric Nasal Drops
+- Agarol Emulsion
+- Agiolax Granules
+- Airbal Breathe Easy Vapour Inhaler
+- AL Tablets
+- Alagbin Tablets
+- Alcin Tablets
+- Aletres Cordial (Potters)
+- Alexitol Sodium Suspension 360 mg/5 ml
+- Alexitol Sodium Tablets
+- Algipan Tablets
+- Alka-Donna Suspension
+- Alka-Donna Tablets
+- Alka-Donna P Mixture
+- Alka-Donna P Tablets
+- Alka Mints
+- Alka-Seltzer Tablets
+- Alket Powders
+- All Fours Cough Mixture (Harwood)
+- All Fours Mixture (Glynwed Wholesale Chemists)
+- All Fours Mixture (Roberts Laboratories)
+- Allbee with C Capsules
+- Allbee with C Elixir
+- Almasilate Tablets 500 mg
+- Almazine Tablets 1 mg
+- Almazine Tablets 2.5 mg
+- Almay Aftersun Soother
+- Almay Face Powder
+- Aloin Tablets 40 mg
+- Alophen Pills
+- Alpine Tea
+- Alprazolam Tablets 0.25 mg
+- Alprazolam Tablets 0.5 mg
+- Alprazolam Tablets 1 mg
+- Altacaps
+- Altacite Suspension
+- Altacite Plus Tablets
+- Altacite Tablets
+- Altelave Liquid
+- Aludrox Gel
+- Aludrox Suspension
+- Aludrox MH Suspension
+- Aludrox SA Suspension
+- Aludrox Tablets
+- Aluhyde Tablets
+- Aluminium Hydroxide and Silicone Suspension
+- Aluminium Phosphate Gel
+- Aluminium Phosphate Tablets 400 mg
+- Alupent Expectorant Mixture
+- Alupent Expectorant Tablets
+- Aluphos Gel
+- Aluphos Tablets
+- Alupram Tablets 2 mg
+- Alupram Tablets 5 mg
+- Alupram Tablets 10 mg
+- Aluzyme Tablets
+- Alzed Tablets
+- AMI-10 Rinsing and Storage Solution
+- Amiclear Contact Lens Cleanser Tablets
+- Amidose Saline Solution 30 ml
+- Amin-Aid
+- Amisyn Tablets
+- Ammonia and Ipecacuanha Mixture BP
+- Ammonium Chloride and Morphine Mixture BP
+- Amplex Mouthwash
+- Amplex Mint Capsules
+- Amplex Original Capsules
+- Anadin Analgesic Capsules Maximum Strength
+- Anadin Analgesic Tablets
+- Anadin Extra Analgesic Tablets
+- Anadin Paracetamol Tablets
+- Anadin Tablets Soluble
+- Andrews Liver Salts Effervescent Powder
+- Andrews Liver Salts (Diabetic Formula) Effervescent Powder
+- Andursil Liquid
+- Andursil Tablets
+- Anestan Bronchial Tablets
+- Aneurone Mixture
+- Angiers Junior Aspirin Tablets
+- Angiers Junior Paracetamol Tablets
+- Anorvit Tablets
+- Antasil Liquid
+- Antasil Tablets
+- Antistin-Privine Nasal Drops
+- Antistin-Privine Nasal Spray
+- Antitussive Linctus (Cox)
+- Antoin Tablets
+- Antussin Liquid (Sterling Winthrop)
+- Anxon Capsules 15 mg
+- Anxon Capsules 30 mg
+- Anxon Capsules 45 mg
+- Aperient Tablets (Brome and Schimmer)
+- Aperient Tablets (Kerbina)
+- Apodorm Tablets 2.5 mg
+- Apodorm Tablets 5 mg
+- APP Stomach Powder
+- APP Stomach Tablets
+- Arocin Capsules
+- Ascorbef Tablets
+- Ascorbic Acid and Hesperidin Capsules (Regent Laboratories)
+- Asilone Orange Tablets
+- Asilone Tablets
+- Askit Powders
+- Askit Tablets
+- Aspergum Chewing Gum Tablets 227 mg
+- Aspirin Chewing-Gum Tablets 227 mg
+- Aspirin Tablets, Effervescent Soluble 300 mg
+- Aspirin Tablets, Effervescent Soluble 500 mg
+- Aspirin Tablets, Slow (Micro-Encapsulated) 648 mg
+- Aspro Clear Extra Tablets
+- Aspro Clear Tablets
+- Aspro Extra Strength Tablets 500 mg
+- Aspro Junior Tablets
+- Aspro Microfined Tablets
+- Aspro Paraclear Tablets
+- Aspro Paraclear Junior Tablets
+- Asthma Tablets (Cathay)
+- Astroplast Analgesic Capsules
+- Atensine Tablets 2 mg
+- Atensine Tablets 5 mg
+- Atensine Tablets 10 mg
+- Ativan Tablets 1 mg
+- Ativan Tablets 2.5 mg
+- Atrixo
+- Aveeno Bar
+- Aveeno Bar Oilated
+- Aveeno Baby
+- Aveenobar
+- Ayrtons Macleans Formula Tablets
+- B Complex Capsules (Rodale)
+- B Complex Super Capsules (Rodale)
+- B Extra Tablets (British Chemotherapeutic Products)
+- Babezone Syrup
+- Baby Chest Rub Ointment (Cupal)
+- Babylix Syrup
+- Babysafe Tablets
+- Badedas Bath Gelee
+- Balm of Gilead (Robinsons)
+- Balm of Gilead Cough Mixture (Wicker Herbal Stores)
+- Balm of Gilead Liquid (Culpeper)
+- Balm of Gilead Mixture (Potters)
+- Banfi Hungarian Hair Tonic
+- Banimax Tablets
+- Barker’s Liquid of Life Solution
+- Barker’s Liquid of Life Tablets
+- Barkoff Cough Syrup
+- Barnes-Hind Cleaning and Soaking Solution
+- Barnes-Hind Intensive Cleaner
+- Barnes-Hind No. 4 Cleaner
+- Barnes-Hind Wetting and Soaking Solution
+- Bausch and Lomb Cleaning Tablets
+- Bausch and Lomb Daily Lens Cleaner
+- Bausch and Lomb Saline Solution
+- Bayer Aspirin Tablets 300 mg
+- BC500 Tablets
+- BC500 with Iron Tablets
+- BC500 Vitamin Sachets Effervescent
+- Becosym Forte Tablets
+- Becosym Syrup
+- Becosym Tablets
+- Becotab Tablets
+- Beecham CoughCaps
+- Beechams Day Nurse Capsules
+- Beechams Day Nurse Syrup
+- Beechams Catarrh Capsules
+- Beechams Night Nurse Capsules
+- Beechams Night Nurse Syrup
+- Beechams Pills
+- Beechams Powders
+- Beechams Powders Capsule Form
+- Beechams Powders Mentholated
+- Beechams Powders Tablet Form
+- Beehive Balsam
+- Bekovit Tablets
+- Belladonna and Ephedrine Mixture, Paediatric, BPC
+- Bellocarb Tablets
+- Benadon Tablets 20 mg
+- Benadon Tablets 50 mg
+- Benafed Linctus
+- Benerva Compound Tablets
+- Benerva Injection 25 mg/ml
+- Benerva Injection 100 mg/ml
+- Benerva Tablets 3 mg
+- Benerva Tablets 10 mg
+- Benerva Tablets 25 mg
+- Benerva Tablets 50 mg
+- Benerva Tablets 100 mg
+- Benerva Tablets 300 mg
+- Bengers Food
+- Bengue’s Balsam
+- Benylin Chesty Cough Linctus
+- Benylin Children’s Cough Linctus
+- Benylin Day and Night Cold Treatment
+- Benylin Decongestant Linctus
+- Benylin Dry Cough Linctus
+- Benylin Expectorant
+- Benylin Fortified Linctus
+- Benylin Mentholated Cough and Decongestant Linctus
+- Benylin Paediatric
+- Benylin with Codeine
+- Benzedrex Inhaler
+- Benzoin Inhalation BP
+- Bepro Cough Syrup
+- Bergasol Ultra Protection Tanning Lotion
+- Best Royal Jelly Capsules
+- Biactol Anti-Bacterial Face Wash
+- Bile Beans Formula 1 Pill
+- Biocare GLA Complex Tablets
+- Biocare Efaplex Linseed/GLA Blend Capsules
+- Bioflavonoid C Capsules
+- Bioscal Hair Formula
+- Bio-Strath Drops
+- Bio-Strath Elixir
+- Biovital Vitamin Tonic
+- Biovital Tablets
+- Birley’s Antacid Powder
+- Bis-Mag Lozenges
+- Bis-Peps Tablets
+- Bisma-Calna Cream
+- Bisma-Rex Powder
+- Bisma-Rex Tablets
+- Bismag Antacid Powder
+- Bismag Tablets
+- Bismuth Compound Lozenges BPC
+- Bismuth Dyspepsia Lozenges
+- Bismuth Pepsin and Pancreatin Tablets
+- Bismuth, Soda and Pepsin Mixture
+- Bisodol Antacid Powder
+- Bisodol Extra Tablets
+- Bisodol Tablets
+- Bisolvomycin Capsules
+- Bisolvon Elixir
+- Bisolvon Tablets
+- Blackcurrant Cough Elixir (Thornton and Ross)
+- Blackcurrant Syrup Compound (Beben)
+- Blandax Suspension
+- Blavig Tablets
+- Blood Tonic Mixture (Thompsons)
+- Boldolaxine Tablets
+- Bonemeal Calfos, Vit A Ester, Vit D Tablets
+- Bonomint Chewing Gum
+- Bonomint Tablets
+- Booth’s Cough and Catarrh Elixir
+- Boots Baby Oil
+- Boots Cold Relief Powder for Solution
+- Boots Compound Laxative Syrup of Figs
+- Boots Cough Relief for Adults
+- Boots Glycerin and Blackcurrant Soothing Cough Relief
+- Boots Hard Lens Soaking Solution
+- Boots Hard Lens Wetting Solution
+- Boots Health Salts
+- Boots Indigestion Plus Mixture
+- Boots Indigestion Powder
+- Boots No. 7 Vitamin E Skin Cream
+- Boots Orange Drink
+- Boots Soft Lens Comfort Solution
+- Boots Soft Lens Soaking Solution
+- Boots Soya Milk
+- Boots Vapour Rub Ointment
+- Boston Lens Cleaning Solution
+- Boston Lens Wetting and Soaking Solution
+- Box’s Balm of Gilead Cough Mixture
+- Bravit Capsules
+- Bravit Tablets
+- Breoprin Tablets 648 mg
+- Brewers Yeast Tablets (3M Health Care)
+- Brewers Yeast-Super B Tablets (Rodale)
+- Brewers Yeast Tablets (Phillips Yeast Products)
+- Bricanyl Compound Tablets
+- Bricanyl Expectorant
+- Brogans Cough Mixture
+- Brogans Cough Syrup
+- Bromazepam Tablets 1.5 mg
+- Bromazepam Tablets 3 mg
+- Bromazepam Tablets 6 mg
+- Bromhexine Hydrochloride Elixir 4 mg/5 ml
+- Bromhexine Hydrochloride Tablets 8 mg
+- Bronalin Expectorant
+- Bronalin Paediatric Cough Syrup
+- Bronchial and Cough Mixture (Worthington Walter)
+- Bronchial Balsam (Cox)
+- Bronchial Catarrh Syrup (Rusco)
+- Bronchial Cough Mixture (Evans Medical)
+- Bronchial Emulsion (Three Flasks) (Thornton and Ross)
+- Bronchial Emulsion AS Extra Strong (Ayrton Saunders)
+- Bronchial Mixture (Rusco)
+- Bronchial Mixture Extra Strong (Cox)
+- Bronchial Mixture Sure Shield Brand
+- Bronchial Tablets (Leoren)
+- Bronchialis Mist Liquid (Industrial Pharmaceutical Services)
+- Bronchialis Mist Nig Double Strength (Phillip Harris Medical)
+- Bronchisan Childrens Cough Syrup
+- Bronchisan Cough Syrup
+- Broncholia Mixture
+- Bronchotone Solution
+- Bronkure Cough and Bronchitis Mixture (Jacksons)
+- Brontus Syrup
+- Brontus Syrup for Children
+- Brontussin Cough Suppressant Mixture
+- Brooklax Tablets
+- Brotizolam Tablets 0.125 mg
+- Brotizolam Tablets 0.25 mg
+- Bufferin Tablets
+- Buttercup Baby Cough Linctus
+- Buttercup Syrup
+- Buttercup Syrup Honey and Lemon
+- Cabdrivers Adult Linctus
+- Cabdrivers Diabetic Linctus
+- Cabdrivers Nasal Decongestant Tablets
+- Cadbury’s Coffee Compliment
+- Cafadol Tablets
+- Caffeine and Dextrose Tablets
+- Calamage
+- Calcimax Syrup
+- Calcinate Tablets
+- Calcium Syrup (Berk Pharmaceuticals)
+- California Syrup of Figs
+- Calpol Six Plus Suspension
+- Calpol Tablets
+- Calsalettes Sugar Coated Tablets
+- Calsalettes Uncoated Tablets
+- Camfortix Linctus P1
+- Canderel Intense Sweetner Spoonful
+- Cantaflour
+- Capramin Tablets
+- Carbellon Tablets
+- Carisoma Compound Tablets
+- Carnation Coffeemate
+- Carnation Instant Build-Up
+- Carnation Slender Meal Replacement (A11 Flavours)
+- Carrzone Powder
+- Carters Little Pills
+- Cascara Evacuant Liquid Mixture
+- Cascara Tablets BP
+- Castellan No. 10 Cough Mixture
+- Catarrh and Bronchial Syrup (Thornton and Ross)
+- Catarrh Cough Syrup (Boots)
+- Catarrh-Ex Tablets
+- Catarrh Mixture (Herbal Laboratories)
+- Catarrh Syrup for Children (Boots)
+- Catarrh Tablets (Cathay)
+- Ce-Cobalin Syrup
+- Ceeyees Tablets
+- Celaton Rejuvenation Tablets
+- Celaton CH3 Strong and Calm Tablets
+- Celaton CH3 Triplus Tablets
+- Celaton CH3 + Ease and Vitality Tablets
+- Celaton Whole Wheat Germ Capsules
+- Celavit 1 Powder
+- Celavit 2 Powder
+- Celavit 3 Powder
+- Celevac Granules
+- Centrax Tablets 10mg
+- Cephos Powders
+- Cephos Tablets
+- Charabs Tablets
+- Charvita Tablets
+- Cheroline Cough Linctus
+- Cherry Bark Cough Syrup Children’s (Loveridge)
+- Cherry Bark Linctus Adults (Loveridge)
+- Cherry Cough Balsam (Herbal Laboratories)
+- Cherry Cough Linctus (Savory and Moore)
+- Cherry Cough Mixture (Rusco)
+- Cherry Flavoured Extract of Malt (Distillers)
+- Chest and Cough Tablets (Brome and Schimmer)
+- Chest and Cough Tablets (Kerbina)
+- Chest and Throat Tablets No. 8,000 (English Grains)
+- Chest Pills (Brome and Schimmer)
+- Chest Tablets (Kerbina)
+- Chesty Cough Syrup (Scott and Bowne)
+- Chilblain Tablets (Boots)
+- Child’s Cherry Flavoured Linctus (Cupal)
+- Children’s Blackcurrant Cough Syrup (Rusco)
+- Children’s Cherry Cough Syrup (Thornton and Ross)
+- Children’s Cough Linctus (Ransoms)
+- Children’s Cough Mixture (Beecham)
+- Children’s Cough Mixture (Loveridge)
+- Children’s Cough Syrup (Ayrton Saunders)
+- Children’s Cough Syrup (Cox)
+- Children’s Cough Syrup (Evans Medical)
+- Children’s Cough Syrup (Thornbers)
+- Children’s Medicine Liquid (Hall's)
+- Children’s Phensic Tablets
+- Children’s Wild Cherry Cough Linctus (Evans Medical)
+- Chilvax Tablets
+- Christy’s Rich Lanolin
+- Christy’s Skin Emulsion
+- Chocolate Laxative Tablets (Isola)
+- Chocovite Tablets
+- Cidal
+- Cidex Longlife
+- Cidex Sterilising Solution
+- Cinnamon Essence Medicinal Mixture (Langdale)
+- Cinnamon Tablets Medicinal (Langdale)
+- Cinota Drops
+- Citrosan Powder
+- Claradin Effervescent Tablets
+- Clarkes Blood Mixture
+- Clean and Soak
+- Cleansing Herb Dried (Potters)
+- Cleansing Herbs (Brome and Schimmer)
+- Cleansing Herbs Powder (Dorwest)
+- Clerz Lubricating and Rewetting Eye Drops
+- Clorazepate Dipotassium Capsules 7.5mg
+- Clorazepate Dipotassium Capsules 15mg
+- Clorazepate Dipotassium Tablets 15mg
+- Co-op Aspirin Tablets BP 300mg
+- Co-op Bronchial Mixture
+- Co-op Halibut Liver Oil Capsules BP
+- Co-op Paracetamol Tablets BP 500mg
+- Co-op Soluble Aspirin Tablets BP 300mg
+- Cobalin H Injection 250 mcg/ml
+- Cobalin H Injection 1000 mcg/ml
+- Cobalin Injection 100 mcg/ml
+- Cobalin Injection 250 mcg/ml
+- Cobalin Injection 500 mcg/ml
+- Cobalin Injection 1000 mcg/ml
+- Coda-Med Tablets
+- Cod Liver Oil and Creosote Capsules (5 Oval) (R P Scherer)
+- Cod Liver Oil and Creosote Capsules (10 Oval) (R P Scherer)
+- Cod Liver Oil Caps 10 Minims (Woodward)
+- Cod Liver Oil High Potency Capsules (R P Scherer)
+- Cod Liver Oil with Malt Extract and Hypophosphite Syrup (Distillers)
+- Cod Liver Oil 0.3ml Capsules (R P Scherer)
+- Cod Liver Oil 0.6ml Capsules (R P Scherer)
+- Codalax
+- Codalax Forte
+- Codanin Analgesic Tablets
+- Codis Soluble Tablets
+- Codural Tablets
+- Cojene Tablets
+- Cold and Influenza Capsules (Regent Laboratories)
+- Cold and Influenza Mixture (Boots)
+- Cold and Influenza Mixture (Davidson)
+- Cold and Influenza Mixture (Rusco)
+- Cold and Influenza Mixture (Thornton and Ross)
+- Cold Relief (Blackcurrant Flavour) Granular Powder (Boots)
+- Cold Relief Capsules (Scott and Bowne)
+- Cold Relief Tablets (Boots)
+- Cold Tablets (Roberts)
+- Coldrex Powder
+- Coldrex Tablets
+- Colgard Emergency Essence (Lane Health Products)
+- Colgate Dental Cream with MFP Fluoride
+- Colgate Disclosing Tablets
+- Collins Elixir
+- Colocynth and Jalap Tablets Compound BPC 1963
+- Colocynth Compound Pills BPC 1963
+- Cologel Liquid
+- Communion Wafers
+- Complan
+- Comploment Continus Tablets
+- Compound Fig Elixir BP
+- Compound Rhubarb Oral Powder BP
+- Compound Rhubarb Tincture BP
+- Compound Syrup of Glycerophosphates BPC 1963
+- Compound Syrup of Hypophosphites BPC 1963
+- Comtrex Capsules
+- Comtrex Liquid
+- Comtrex Tablets
+- Concavit Capsules
+- Concavit Drops
+- Concavit Injection
+- Concavit Syrup
+- Congreves Balsamic Elixir
+- Constipation Herb Dried (Potters)
+- Constipation Herbs (Hall's)
+- Constipation Herbs (Mixed Herbs) (Brome and Schimmer)
+- Constipation Mixture No. 105 (Potters)
+- Contac 400 Capsules
+- Contactaclean Cleaning Solution
+- Contactasoak Disinfecting and Soaking Solution
+- Contactasol 02 Care Solution
+- Contactasol Complete Care All-In-One Solution
+- Contactasol Wetting Solution
+- Copholco Cough Syrup
+- Copholcoids
+- Coppertone Apres Plage Aftersun Milk
+- Corrective Tablets (Ayrton Saunders)
+- Correctol Tablets
+- Cosalgesic Tablets
+- Cosylan Syrup
+- Coterpin Syrup
+- Cough and Bronchitis Mixture (Davidson)
+- Cough and Cold Mixture (Beecham)
+- Cough Balsam (Abernethy's)
+- Cough Balsam (Thornbers)
+- Cough Expectorant Elixir (Regent Laboratories)
+- Cough Linctus (Sanderson's)
+- Cough Linctus Alcoholic (Thomas Guest)
+- Cough Linctus for Children (Boots)
+- Cough Medicine for Infants and Children Solution (Boots)
+- Cough Mixture (Tingles)
+- Cough Mixture Adults (Thornton and Ross)
+- Cough Mixture Adults (Wicker Herbal Stores)
+- Cough Syrup Best (Diopharm)
+- Cough Tablets (Kerbina)
+- Country Basket Rice Cakes
+- Covermark Removing Cream
+- Covonia Bronchial Balsam Linctus
+- Cow and Gate Babymeals Stage One
+- Cow and Gate Baby Milk Plus
+- Cow and Gate Premium Baby Food
+- Cox Pain Tablets
+- Crampex Tablets
+- Cranberry Juice
+- Cream of Magnesia Tablets 300 mg
+- Cremaffin Emulsion
+- Creosote Bronchial Mixture (Loveridge)
+- Crookes One-a-Day Multivitamins with Iron
+- Crookes One-a-Day Multivitamins without Iron
+- Croupline Cough Syrup (Roberts)
+- Cupal Health Salts
+- Cupal Nail Bite Lotion
+- Cupanol Over Six Paracetamol Suspension
+- Cuticura Medicated Foam Bath
+- Cuticura Talcum Powder
+- Cyanocobalamin Solution (any strength)
+- Cyanocobalamin Tablets (any strength)
+- Cytacon Liquid
+- Cytacon Tablets
+- Cytamen 250 Injection
+- Cytamen 1000 Injection
+- Dakin’s Golden Vitamin Malt Syrup
+- Dalivit Capsules
+- Dalivit Syrup
+- Dalmane Capsules 15 mg
+- Dalmane Capsules 30 mg
+- Dansac Skin Lotion
+- Davenol Linctus
+- Daxaids Tablets
+- Day-Vits Multivitamin and Mineral Tablets
+- Dayovite
+- De Witt’s Analgesic Pills
+- De Witt’s Antacid Powder
+- De Witt’s Antacid Tablets
+- De Witt’s Baby Cough Syrup
+- De Witt’s Cough Syrup
+- De Witt’s PL Pills
+- Deakin and Hughes Cough and Cold Healer Mixture
+- Deakin’s Fever and Inflammation Remedy Mixture
+- Delax Emulsion
+- Delimon
+- Deltasoralen Bath Lotion
+- Dentakit Toothache First Aid Kit
+- Derbac Soap
+- Dermacolor Cleansing Cream
+- Dermacolor Cleansing Lotion
+- Dermacolor Cleansing Milk
+- Desiccated Liver Tablets
+- Desiccated Liver USNF Tablets
+- Detox Tablets (Hursdrex)
+- Dextrogesic Tablets
+- Dextromethorphan Hydrobromide Solution 3.75 mg/5 ml
+- Dextromethorphan Hydrobromide Solution 7.5 mg/5 ml
+- Dextromethorphan Hydrobromide Syrup 6.6 mg/5 ml
+- Dextromethorphan Hydrobromide Syrup 13.5 mg/5 ml
+- Dextropropoxyphene and Paracetamol Dispersible Tablets
+- Dextropropoxyphene and Paracetamol Soluble Tablets
+- DF 118 Elixir
+- DF 118 Injection
+- DF 118 Tablets
+- DGL 1 Suspension
+- DGL 2 Suspension
+- DGT 1 Tablets
+- DGT 2 Tablets
+- Diabetic Bronal Syrup
+- Dialar Forte Syrup 5 mg/5 ml
+- Dialar Syrup 2 mg/5 ml
+- Dialume Capsules 500 mg
+- Diazepam Capsules, Slow 10 mg
+- Diazepam Elixir 5 mg/5ml
+- Dietade Diabetic Jam
+- Dietade Diabetic Marmalade
+- Dietade Diabetic Squash
+- Dietade Fruit Sugar
+- Dietade Jelly Crystals
+- Digesprin Antacid Tablets
+- Digestells Lozenges
+- Dihydroxyaluminium Sodium Carbonate Tablets
+- Dijex Liquid
+- Dijex Tablets
+- Dimotane Expectorant
+- Dimotane Expectorant DC
+- Dimotane with Codeine Elixir
+- Dimotane with Codeine Paediatric Elixir
+- Dimotapp Elixir
+- Dimotapp Elixir Paediatric
+- Dimotapp LA Tablets
+- Dimotapp P Tablets
+- Dimyril Linctus
+- Dinnefords Gripe Mixture
+- Disprin Extra Tablets
+- Disprin Solmin Tablets
+- Disprin Tablets
+- Disprinex Tablets
+- Disprol Tablets
+- Distalgesic Soluble Tablets
+- Distalgesic Tablets
+- Do-Do Linctus
+- Do-Do Tablets
+- Dolasan Tablets
+- Doloxene Capsules
+- Doloxene Compound Pulvules
+- Dolvan Tablets
+- Dorbanex Capsules
+- Dorbanex Liquid
+- Dorbanex Liquid Forte
+- Dormonoct Tablets 1 mg
+- Dr Brandreth’s Pills
+- Dr D E Jongh’s Cod Liver Oil with Malt Extract and Vitamins Fortified Syrup
+- Dr William’s Pink Pills
+- Drastin Tablets
+- Dristan Decongestant Tablets with Antihistamine
+- Dristan Nasal Spray
+- Droxalin Tablets
+- Dry Cough Linctus (Scott and Bowne)
+- Dual-Lax Extra Strong Tablets
+- Dual-Lax Tablets
+- Dulca Tablets
+- Dulcodos Tablets
+- Dulco-Lax Suppositories
+- Dulco-Lax Tablets
+- Duo-Gastritis Mixture (Baldwin's)
+- Duphalac Syrup
+- Duralin Capsules Extra Strength
+- Duralin Tablets
+- Duttons Cough Mixture
+- Dynese Aqueous Suspension
+- Dynese Tablets
+- D001 Capsules
+- D002 Capsules
+- D004 Capsules
+- D006 Capsules
+- D007 Capsules
+- D009 Capsules
+- D010 Capsules
+- D011 Capsules
+- D012 Capsules
+- D013 Capsules
+- D014 Capsules
+- D017 Capsules
+- D018 Capsules
+- D019 Capsules
+- D020 Capsules
+- D021 Capsules
+- D024 Capsules
+- D029 Capsules
+- D030 Capsules
+- D031 Capsules
+- D032 Capsules
+- D033 Capsules
+- D034 Capsules
+- D036 Capsules
+- Ecdilyn Syrup
+- Educol Tablets
+- Efamol
+- Efamol Capsules
+- Efamol Marine Capsules
+- Efamol Oil
+- Efamol Plus Capsules
+- Efamol PMP
+- Efamolia Night Cream
+- Effer-C Tablets
+- Effico Syrup
+- Eldermint Cough Mixture (Herbal Laboratories)
+- Elgydium Toothpaste
+- Elizabeth Arden Flawless Finish
+- Elizabeth Arden Sunblock Cream Factor 15
+- Elizabeth Arden Sunscience Superblock Cream SPF 34
+- Elkamol Tablets
+- Emulave
+- Emuwash
+- Endet Powders
+- Ener-G Gluten-free and Soya-free Macaroon Cookies
+- Ener-G Gluten-free Rice Peanut-Butter Cookies
+- Ener-G Gluten-free Rice Walnut Cookies
+- Ener-G Low-Protein and Gluten-free Egg Replacer
+- Energen Starch Reduced Crispbread
+- Engran HP Tablets
+- Engran Tablets
+- Eno Fruit Salts
+- EP Tablets
+- EPOC Capsules
+- Equagesic Tablets
+- Eskornade Spansule Capsules
+- Eskornade Syrup
+- Eso-Col Cold Treatment Tablets
+- Euhypnos Capsules 10mg
+- Euhypnos Elixir 10mg/5ml
+- Euhypnos Forte Capsules 20mg
+- Evacalm Tablets 2mg
+- Evacalm Tablets 5mg
+- Evans Cough Balsam
+- Evening Primrose Oil
+- Evening Primrose Oil Capsules
+- Evident Disclosing Cream
+- Ex-Lax Chocolate Laxative Tablets
+- Ex-Lax Pills
+- Expectorant Cough Mixtures (Beecham)
+- Expulin Cough Linctus
+- Expulin Paediatric Cough Linctus
+- Expurhin Paediatric Decongestant
+- Extil Compound Linctus
+- Extravite Tablets
+- Extren Tablets
+- Exyphen Elixir
+- E001 Capsules
+- E015 Capsules
+- E018 Capsules
+- E021 Capsules
+- E031 Capsules
+- E032 Capsules
+- Fabrol Granules
+- Fade Out Skin Lightening Cream
+- Fairy Household Liquid
+- Falcodyl Linctus
+- Falkamin
+- Fam Lax Tablets
+- Famel Expectorant
+- Famel Linctus
+- Famel Original Linctus
+- Family Cherry Flavoured Linctus (Cupal)
+- Family Herbal Pills
+- Farex Fingers
+- Farleys Rusks
+- Father Pierre’s Monastery Herbs
+- Fe-Cap C Capsules
+- Feac Tablets
+- Feen-a-Mint Tablets
+- Fefol-Vit Spansules
+- Femerital Tablets
+- Feminax Tablets
+- Fendamin Tablets
+- Fennings Adult Cooling Powders
+- Fennings Children’s Cooling Powders
+- Fennings Little Healers Pills
+- Fennings Mixture
+- Fennings Soluble Junior Aspirin Tablets
+- Fenox Nasal Drops
+- Fenox Nasal Spray
+- Ferfolic Tablets
+- Fergluvite Tablets
+- Ferraplex B Tablets
+- Ferrlecit Tablets/Dragees
+- Ferrograd C Tablets
+- Ferrol
+- Ferrol Compound Mixture
+- Ferromyn B Elixir
+- Ferromyn B Tablets
+- Ferrous Gluconate Compound Tablets
+- Fesovit Spansules
+- Fesovit Z Spansules
+- Fibre Biscuits
+- Fine Fare Aspirin Tablets 300mg
+- Fine Fare Hot Lemon Powders
+- Flar Capsules
+- Flavelix Syrup
+- Flexcare Soft Lens Solution
+- Flexsol Solution
+- Flora Margarine
+- Floradix Formula Liquid
+- Floradix Tablets
+- Floral Arbour Tablets (Cathay)
+- Flucaps
+- Flunitrazepam Tablets 1mg
+- Fluralar Capsules 15mg
+- Fluralar Capsules 30mg
+- Flurazepam Capsules 15mg
+- Flurazepam Capsules 30mg
+- Flurazepam Hydrochloride Capsules 15mg
+- Flurazepam Hydrochloride Capsules 30mg
+- Flu-Rex Tablets
+- Flurex Bedtime Cold Remedy
+- Flurex Capsules
+- Flurex Decongestant Inhalant Capsules
+- Flurex Hot Lemon Concentrate
+- Flurex Tablets
+- Folped
+- Formulix
+- Forprin Tablets
+- Fortagesic Tablets
+- Fortison Low Sodium
+- Fortral Capsules 50mg
+- Fortral Injection
+- Fortral Suppositories
+- Fortral Tablets 25mg
+- Fortral Tablets 50mg
+- Fortris Solution
+- Fosfor Syrup
+- Franol Expectorant
+- Franolyn Sed Liquid
+- Frisium Capsules 5mg
+- Frisium Capsules 10mg
+- Frisium Capsules 20mg
+- Fybranta Tablets
+- Fynnon Calcium Aspirin Tablets
+- Fynnon Salt
+- G Brand Linctus
+- Galake Tablets
+- Gale’s Honey
+- Galfer-Vit Capsules
+- Galloway’s Baby Cough Linctus
+- Galloway’s Bronchial Cough Care
+- Galloway’s Bronchial Expectorant
+- Galloway’s Cough Syrup
+- Gamophen
+- Gastalar Tablets
+- Gastric Ulcer Tablets No.1001
+- Gastrils Pastilles
+- Gastritabs
+- Gastrovite Tablets
+- Gatinar Syrup
+- Gaviscon Granules
+- Gelusil Lac Powder
+- Gelusil Tablets
+- Genasprin Tablets
+- Genatosan
+- Gentian Acid Mixture with Nux Vomica
+- Gentian Alkaline Mixture with Nux Vomica
+- Gentian and Rhubarb Mixture BPC
+- Georges Vapour Rub Ointment
+- Geriplex Capsules
+- Gevral Capsules
+- Gevral Tablets
+- GF Brand Baking Powder
+- GF Brand Banana Cake
+- GF Brand Chocolate Nut Cookies
+- GF Brand Cooking Crumbs
+- GF Brand Date and Walnut Cake
+- GF Brand English Style Mustard
+- GF Brand Fruit Bran Biscuits
+- GF Brand Ginger Cake
+- GF Brand Ginger Cookies
+- GF Brand Gluten-free Coconut Cookies
+- GF Brand Gluten-free Maize Biscuits with Chocolate
+- GF Brand Gluten-free Maize Biscuits with Hazelnut
+- GF Brand Gluten-free Pastry Mix
+- GF Brand Gluten-free Thin Wafer Bread
+- GF Brand Gravy Mix
+- GF Brand Hot Breakfast Cereal
+- GF Brand Lemon Cake
+- GF Brand Muesli
+- GF Brand Muesli Fruit Biscuits
+- GF Dietary Low Protein Pizza Mix with Tomato Topping Mix and Baking Dish
+- GF Dietary Low Protein Vegetable Burgers in Low Protein Sauce
+- GF Dietary Low Protein Vegetable Casserole
+- Givitol Capsules
+- Gladlax Tablets
+- Glemony Balsam (Baldwin's)
+- Glenco Elixir
+- Gluca-Seltzer Effervescent Powder
+- Glucodin
+- Glycerin Honey and Lemon Cough Mixture (Isola)
+- Glycerin Honey and Lemon Linctus (Boots)
+- Glycerin Honey and Lemon Linctus with Ipecacuanha (Boots)
+- Glycerin Lemon and Honey and Ipecacuanha (Thomas Guest)
+- Glycerin Lemon and Honey Linctus (Rusco)
+- Glycerin Lemon and Honey Syrup (Cupal)
+- Glycerin Lemon and Honey Syrup (Thomas Guest)
+- Glycerin Lemon and Honey Syrup (Waterhouse)
+- Glycerin Lemon and Ipecacuanha Cough Mixture (Isola)
+- Glykola Elixir
+- Glykola Infants Elixir
+- Goat’s Milk Spray Dried Powder
+- Golden Age Vitamin and Mineral Capsules
+- Golden Health Tablets (Kerbina)
+- Golden Health Tablets (Brome and Schimmer)
+- Gon Tablets
+- Gonfalcon Tablets
+- Grangewood Insomnia Tablets
+- Granogen
+- Granose Liquid Soya Milk
+- Granoton Emulsion
+- Gregovite C Tablets
+- GS Tablets
+- Guaiphenesin Syrup (any strength)
+- Guanor Expectorant
+- H-Pantoten Tablets
+- Hactos Chest and Cough Mixture (Thomas Hubert)
+- Halaurant Syrup
+- Halcion Tablets 0·125mg
+- Halcion Tablets 0·25mg
+- Haliborange Syrup
+- Haliborange Tablets
+- Halibut Liver Oil A and D Capsules (Rodale)
+- Halin Tablets
+- Halocaps Inhalant Capsules
+- Halycitrol Emulsion
+- Hayphryn Nasal Spray
+- Head and Shoulders Shampoo
+- Health Salts (Wicker Herbal Stores)
+- Health Tonic Mixture (Hall's)
+- Healtheries Rice Crispbread
+- Healthilife Sunflower Seed Oil Capsules 500mg
+- Heart Shape Indigestion Tablets
+- Hedamol Capsules
+- Hedex Plus Capsules
+- Hedex Seltzer Granules
+- Hedex Soluble Granules
+- Hedex Tablets
+- Heinz Weight Watcher Baked Beans
+- Hemingways Catarrh Syrup
+- Hemoplex Injection
+- Hepacon B12 Injection
+- Hepacon Liver Extract Injection
+- Hepacon-Plex
+- Hepacon B-Forte Injection
+- Hepanorm Tablets
+- Herbal Aperient Tablets (Cathay)
+- Herbal Aperient Tablets (Kerbina)
+- Herbal Bronchial Cough Tablets (English Grains)
+- Herbal Laxative Naturtabs
+- Herbal Pile Tablets
+- Herbal Quiet Nite Sleep Naturtabs
+- Herbal Syrup (Baldwin's)
+- Herbalene Herbs
+- Hermesetas (blue)
+- Hermesetas Gold
+- Hermesetas Light
+- Hermesetas Liquid Sweetener
+- Hermesetas Sprinkle Sweet
+- Hexidin Solution
+- Hi-g-ah Tea
+- Hi-pro Liver Tablets
+- Hill’s Adult Balsam
+- Hill’s Junior Balsam
+- Hip C Rose Hip Syrup
+- Histalix Expectorant
+- Honey and Molasses Cough Mixture (Lane Health Products)
+- Hot Blackcurrant Cold Remedy (Beechams)
+- Hot Lemon Cold Remedy (Beechams)
+- Hot Lemon Cold Treatment (Scott and Bowne)
+- Hot Measure Solution (Reckitt and Colman)
+- Hydrocare Boiling/Rinsing Solution
+- Hydrocare Cleaning and Soaking Solution
+- Hydrocare Preserved Saline Solution
+- Hydrocare Protein Remover Tablets
+- Hydroclean Solution
+- Hydron Europe Cleaning Solution
+- Hydron Europe Comfort Soaking Solution
+- Hydron Europe Solusal
+- Hydron Europe Solution Comfort
+- Hydrosoak Disinfecting and Soaking Solution
+- Hydrosol Comfort Solution
+- Hypon Tablets
+- Iberet 500 Tablets
+- Iberol Tablets
+- ICC Analgesic Tablets
+- Iliadin Mini Nasal Drops
+- Iliadin Mini Paediatric Nasal Drops
+- Imarale Agba Suspension
+- Imarale Omode Suspension
+- Importal
+- Inabrin Tablets 200mg
+- Indian Brandy Solution
+- Indigestion Mixture (Boots)
+- Indigestion Mixture (Thornton and Ross)
+- Indigestion Mixture (William Ransom)
+- Indigo Indigestion Lozenges
+- Infra-Care Baby Bath
+- Influenza and Cold Mixture 2315 (Wright Layman and Umney)
+- Inhalit Liquid Inhalation
+- Innoxa Finishing Touch Loose Powder
+- Innoxa Moisturised Liquid Make-Up
+- Inoven Caplets
+- Iodinated Glycerol Elixir 60 mg/5 ml
+- Iodised Vitamin Capsules
+- Iodo-Ephedrine Mixture
+- Ipecacuanha Pills 20 mg
+- Ipecacuanha and Morphine Mixture BP
+- Ipecacuanha and Squill Linctus Paediatric BPC
+- Ipsel Hygienic Babysalve
+- Irofol C
+- Iron and Brewers Yeast Tablets (3M Health Care)
+- Iron and Vitamin Tablets (Davidson)
+- Iron Formula Tablets (Rodale)
+- Iron Jelloids Tablets
+- Iron Tonic Tablets (Boots)
+- Ironorm Capsules
+- Ironorm Tonic
+- Ironplan Capsules
+- Ivy Tablets (Ayrton Saunders)
+- Jaap’s Health Salts
+- Jacksons All Fours Cough Mixture
+- Jacksons Febrifuge
+- Jambomins Tablets
+- Jenners Suspension
+- Jenners Tablets
+- Jochem Hormone Hair Preparation
+- Johnson and Johnson Baby Bath
+- Johnson and Johnson Baby Cream
+- Johnson and Johnson Baby Lotion
+- Johnson and Johnson Baby Oil
+- Johnson and Johnson Baby Powder
+- Johnson and Johnson Baby Shampoo
+- Jolen Creme Bleach
+- Jordans Crunchy Bar
+- Junamac
+- Jung Junipah Tablets
+- Junior Cabdrivers Linctus
+- Junior Disprin Tablets
+- Junior Disprol Suspension
+- Junior Disprol Tablets
+- Junior Ex-Lax Chocolate Tablets
+- Junior Lemsip Powder
+- Junior Meltus Cough and Catarrh Linctus
+- Junior Mucron Liquid
+- Junior Paraclear Tablets
+- Junior Tablets (Rodale)
+- Juno-Junipah Mineral Salts
+- Juvel Elixir
+- Juvel Tablets
+- Jevela Gluten-Free Sage and Onion Stuffing Mix
+- Karvol Capsules
+- Kelsoak 2 Solution
+- Kelvinol 2 Wetting Solution
+- Kenco Instant Decaffeinated Coffee
+- Kendales Adult Cough Syrup
+- Kendales Cherry Linctus
+- Kest Tablets
+- Ketazolam Capsules 15 mg
+- Ketazolam Capsules 30 mg
+- Ketazolam Capsules 45 mg
+- Keybells Linctus of Glycerine, Lemon and Ipecacuanha
+- Kingo Cough Syrup
+- Koladex Tablets
+- Kolanticon Tablets
+- Kolanticon Wafers
+- Kolantyl Gel
+- Krauses Cough Linctus
+- Kruschen Salts
+- Kuralax Herbs
+- Labiton Kola Tonic
+- Laboprin Tablets
+- Lac Bismuth Mixture
+- Lactaid Lactase enzyme for milk drops
+- Lactaid Lactase enzyme tablets
+- Lactaid Lactose reduced skimmed and whole milk UHT
+- Lacto Calamine
+- Laevoral
+- Lamberts Evening Primrose Oil 250mg Capsules
+- Lamberts Evening Primrose Oil 500mg Capsules
+- Lamberts Evening Primrose Oil 1000mg Capsules
+- Lamberts L-Threonine 500mg Capsules
+- Lamberts Protein Deficiency Formula Capsules
+- Lance B and C Tablets
+- Lane’s Cut-a-Cough
+- Lane’s Laxative Herb Tablets
+- Lane’s Sage and Garlic Catarrh Remedy
+- Lantigen B
+- Lavender Bath
+- Laxaliver Pills
+- Laxatabs Leoren
+- Laxipurg Tablets
+- Laxoberal Elixir
+- LC 65 Cleaning Solution
+- Lederplex Capsules
+- Lederplex Liquid
+- Lejfibre Biscuit
+- Lem-Plus Hot Lemon Drink
+- Lemeze Cough Syrup
+- Lemon Eno Powder
+- Lemon Flu-Cold Concentrated Syrup
+- Lemon Glycerine and Honey Cough Syrup Compound (Carter Bond)
+- Lemon Glycerine and Honey Lung Mixture (Whitehall Laboratories)
+- Lemon Glycerine and Ipecac Cough Syrup Compound (Carter Bond)
+- Lemon Juice, Glycerine and Honey A S Syrup (Ayrton Saunders)
+- Lemon Linctus 1-472
+- Lemsip Expectorant
+- Lemsip Linctus
+- Lemsip Powder
+- Lendormin Tablets 0.125 mg
+- Lendormin Tablets 0.25 mg
+- Lensept Solution
+- Lensine 5 All in One Solution
+- Lensplus Sterile Saline Spray
+- Lensrins Solution
+- Leoren Tonic Tablets
+- Lexotan Tablets 1.5 mg
+- Lexotan Tablets 3 mg
+- Lexotan Tablets 6 mg
+- Libraxin Tablets
+- Librium Capsules 5 mg
+- Librium Capsules 10 mg
+- Librium Tablets 5 mg
+- Librium Tablets 10 mg
+- Librium Tablets 25 mg
+- Librofem Tablets
+- Lightning Cough Remedy Solution (Potters)
+- Limbitrol Capsules “5”
+- Limbitrol Capsules “10”
+- Linctifed Expectorant
+- Linctifed Expectorant Paediatric
+- Linctoid C
+- Linituss
+- Linoleic Acid
+- Linus Vitamin C Powder
+- Lipoflavonoid Capsules
+- Lipotriad Capsules
+- Lipotriad Liquid
+- Liqufruta Blackcurrant Cough Medicine
+- Liqufruta Honey and Lemon Cough Medicine
+- Liqufruta Medica
+- Liqufruta Medica Garlic Flavoured Cough Medicine
+- Liquid Formula (Food Concentrate) (Rodale)
+- Liquid Paraffin and Phenolphthalein Emulsion BP
+- Liquid Paraffin Emulsion with Cascara BPC
+- Liquifilm Wetting Solution
+- Listerine Antiseptic Mouthwash
+- Listermint Mouthwash
+- Liver Herbs (Hall's)
+- Livibron Mixture
+- Loasid Tablets
+- Lobak Tablets
+- Lofthouse’s Original Fisherman’s Friend Honey Cough Syrup
+- London Herb and Spice Herbal Tea Bags
+- Loramet Capsules 1 mg
+- Loramet Tablets 0.5 mg
+- Loramet Tablets 1 mg
+- Lotussin Cough Syrup
+- L-Threonine Capsules
+- L-Threonine Tablets
+- Lucozade
+- Luma Bath Salts
+- Lung Balsam (Rusco)
+- Lyons Ground Coffee Beans
+- Lypsyl Lemon
+- Lypsyl Mint
+- Lypsyl Original
+- Lysaldin
+- M and B Children’s Cough Linctus
+- Maalox Concentrate Suspension
+- Maalox Plus Tablets
+- Mackenzies Smelling Salts
+- Maclean Indigestion Power
+- Maclean Indigestion Tablets
+- Macleans Toothpaste
+- Magaldrate Tablets
+- Mainstay Pure Cod Liver Oil
+- Male Gland Double Strength Supplement Tablets
+- Male Sex Hormone Tablets (Diopharm)
+- Malinal Plus Tablets
+- Malinal Suspension 500 mg/5 ml
+- Malinal Tablets 500 mg
+- Malt Extract with Cod Liver Oil and Chemical Food (Distillers)
+- Malt Extract with Cod Liver Oil BPC and Hypophosphites (Distillers)
+- Malt Extract with Cod Liver Oil BPC Soft Extract (Jeffreys Miller)
+- Malt Extract with Haemoglobin and Vitamins Syrup (Distillers)
+- Malt Extract with Halibut Liver-Oil Syrup (Distillers)
+- Mandarin Tablets
+- Manna Herbal Rheumapainaway Tablets
+- Marvel
+- Matthew Cough Mixture
+- Maturaplus Tablets
+- Max Factor Face Powder
+- Max Factor Pan-Stik
+- Maxivits Tablets
+- Medathlon Aspirin Tablets 300 mg
+- Medazepam Capsules 5 mg
+- Medazepam Capsules 10 mg
+- Medex Elixir
+- Mediclean Soft Lens Solution
+- Medilax Tablets
+- Medipain Tablets
+- Medised Suspension
+- Medised Tablets
+- Medisoak Soft Lens Solution
+- Meditus Syrup
+- Medocodene Tablets
+- Meggeson Dyspepsia Tablets
+- Melissin Syrup
+- Melo Brand Glycerin Lemon and Honey with Ipecac
+- Meloids Lozenges
+- Menthacol Liquid
+- Menthells Pellet/Pill
+- Menthol and Benzoin Inhalation BP
+- Menthol and Eucalyptus (M in P) Pastilles (Thomas Guest)
+- Menthol Inhalation
+- Mentholated Balsam (Loveridge)
+- Mentholated Balsam (Savory and Moore)
+- Mentholated Balsam (Wright Layman and Umney)
+- Mentholated Balsam Mixture (Pilsworth Manufacturing)
+- Mentholatum Balm
+- Mentholatum Nasal Inhaler
+- Metatone
+- Methylcisteine Tablets 100 mg
+- Micaveen
+- Midro-Tea Power
+- Milgard Baby Cleansing Milk
+- Milk of Magnesia Tablets
+- Mil-Par Suspension
+- Milupa 7 Cereal Breakfast
+- Milupa Aptamil Baby Milk
+- Milupa Camomile Infant Drink
+- Milupa Fennel Variety Infant Drink
+- Milupa Harvest Muesli Breakfast
+- Milupa Modified Yoghurt
+- Milupa Special Formula HN25
+- Minadex Syrup
+- Minamino Syrup
+- Minivits Tablets
+- Minoxidil Cream
+- Minoxidil Lotion
+- Minoxidil Ointment
+- Minoxidil Solution (for external use)
+- Mira Flow Cleaning Solution
+- Mira Flow Soft Lens Solution
+- Mira Soak Lens Soaking Solution
+- Mira Sol Soft Lens Solution
+- Mitchell’s Wool Fat Soap
+- Modifast Nutritionally Complete Supplemented Fasting Formula
+- Mogadon Capsules 5 mg
+- Mogadon Tablets 5 mg
+- Moorland Indigestion Tablets
+- Morning Glory Tablets
+- Morny Lavender Talc
+- Mrs Cullen’s Lemsoothe Powder
+- Mrs Cullen’s Powders
+- Mu-Cron Tablets
+- Mucodyne Capsules
+- Mucodyne Syrup
+- Mucodyne Forte Syrup
+- Mucodyne Forte Tablets
+- Mucodyne Paediatric Syrup
+- Mucofalk Sachets
+- Mucolex Syrup
+- Mucolex Tablets
+- Mucron Liquid
+- Muflin Linctus
+- Multi-Vitamin Tablets (English Grains)
+- Multivitamin Capsules (Regent Laboratories)
+- Multivitamin Tablets (Approved Prescription Services)
+- Multivitamin Tablets (Chemipharm)
+- Multivitamin Tablets (Evans Medical)
+- Multivitamin Tablets (UAC International)
+- Multivitamin with Mineral Capsules (Potters)
+- Multivitamin with Minerals Tablets (Chemipharm)
+- Multivite Pellets
+- Multone Tablets
+- My Baby Cough Syrup
+- Mycolactine Tablets
+- Mylanta Liquid
+- Mylanta Tablets
+- Myolgin Tablets
+- N Tonic Syrup (Cupal)
+- N-300 Capsules
+- Napoloids Tablets
+- Napsalgesic Tablets
+- Natex 12A Tablets
+- Natural Bran
+- Natural Herb Laxative Tablets (Brome and Schimmer)
+- Natural Herb Laxative Tablets (Kerbina)
+- Natural Herb Tablets (Dorwest)
+- Natural Herb Tablets (Kerbina)
+- Natural Herb Tablets (Lane)
+- Naturavite Tablets
+- Naudicelle
+- Neo-Cytamen Injection 250 mcg/ml
+- Neo-Cytamen Injection 1000 mcg/ml
+- Neoklenz Powder
+- Neophyrn Nasal Drops
+- Neophyrn Nasal Spray
+- Nescafe Instant Coffee
+- Nestle Nativa HA
+- Nethaprin Expectorant
+- Neuro Phosphates
+- Neurodyne Capsules
+- Neutradol Concentrated Air Deodoriser
+- Neutradonna Powder
+- Neutradonna Sed Powder
+- Neutradonna Sed Tablets
+- Neutradonna Tablets
+- Neutrogena Soap
+- Neutrolactis Tablets
+- New Formula Beechams Powders Capsules
+- New Life Herbs
+- New Life Tablets
+- Newton’s Children’s Cough Treatment
+- Newton’s Cough Mixture for Adults
+- Nezcaam Syrup
+- Nicobrevin
+- Nicorette
+- Nicorette Plus
+- Nilbite
+- Nirolex Expectorant Linctus
+- Nitrados Tablets 5 mg
+- Nitrazepam Capsules 5 mg
+- Nivea
+- No 177 Tablets (Leoren)
+- Nobrium Capsules 5 mg
+- Nobrium Capsules 10 mg
+- Nocold Tablets
+- Noctamid Tablets 0·5 mg
+- Noctamid Tablets 1 mg
+- Noctesed Tablets 5 mg
+- Noradran Bronchial Syrup
+- Norgesic Tablets
+- Normax Capsules
+- Normison Capsules 10 mg
+- Normison Capsules 20 mg
+- Norvits Syrup
+- Noscapine Linctus BP
+- Novasil Antacid Tablets
+- Novasil Antacid Viscous Suspension
+- Nucross Coconut Oil
+- Nulacin Tablets
+- Nurodol Tablets
+- Nurofen Tablets 200 mg
+- Nurofen Soluble Tablets
+- Nurse Sykes Bronchial Balsam
+- Nurse Sykes Powders
+- Nu-Soft Baby Oil
+- Nux Vomica Acid Mixture
+- Nux Vomica Alkaline Mixture
+- Nux Vomica Elixir BPC
+- Nylax Tablets
+- Octovit Tablets
+- Oilatum Bar
+- Oilatum Soap
+- Olbas Oil
+- Omeiri Iron Tonic Tablets
+- Omilcaf Suspension
+- Onadox 118 Tablets
+- One Gram C Capsule
+- Opas Powder
+- Opas Tablets
+- Opobyl Bailly Pills
+- Oral B Plaque Check Disclosing Tablets
+- Orange and Halibut Vitamins (Kirby Warrick Pharmaceuticals)
+- Organidin Elixir
+- Organidin Solution
+- Organidin Tablets
+- Original Indigestion Tablets (Boots)
+- Orovite Elixir
+- Orovite Tablets
+- Orovite 7
+- Orthoxicol Syrup
+- Ostermilk Complete Formula
+- Ostermilk Two Milk Powder
+- Otrivine Nasal Drops 0·05%
+- Otrivine Nasal Drops 0·1%
+- Otrivine Nasal Spray 0·1%
+- Otrivine-Antistin Nasal Drops
+- Otrivine-Antistin Nasal Spray
+- Overnight Bedtime Cold Medicine
+- Owbridge’s Cough Mixture
+- Oxanid Tablets 10 mg
+- Oxanid Tablets 15 mg
+- Oxanid Tablets 30 mg
+- Oxymetazoline Hydrochloride Nasal Drops 0·025%
+- Oxymetazoline Hydrochloride Nasal Drops 0·05%
+- Oxymetazoline Hydrochloride Nasal Spray 0·05%
+- Oxysept 1 Disinfecting Solution
+- Oxysept 2 Rinsing, Neutralising and Storing Solution
+- Ozium 500 Air Sanitizer
+- Ozium 1500 Air Sanitizer
+- Ozium 3000
+- Pacidal Tablets
+- Paedo-Sed Syrup
+- Pain Relief Tablets (Cox)
+- Pain Relief Tablets (Davidson)
+- Pameton Tablets
+- Panacron Nasal Spray
+- Panacron Tablets
+- Panadeine Co Tablets
+- Panadeine Forte Tablets
+- Panadeine Soluble Effervescent Tablets
+- Panadeine Tablets
+- Panadol Caplets
+- Panadol Extra Tablets
+- Panadol Junior Sachets
+- Panadol Soluble Tablets
+- Panadol Tablets
+- Panaleve Junior
+- Panasorb Tablets
+- Panets Tablets
+- Pango Pain Paracetamol Codeine Tablets (Cupal)
+- Pantene Hair Tonic
+- Papain Compound Tablets
+- Paprika Tablets (Kerbina)
+- Para-Seltzer Effervescent Tablets
+- Paracetamol and Caffeine Capsules
+- Paracetamol and Caffeine Tablets
+- Paracetamol DC Tablets
+- Paracetamol Tablets Soluble (Boots)
+- Paracetamol Tablets, Sorbitol Basis 500 mg
+- Paracets Tablets 500 mg
+- Paraclear Tablets
+- Paracodol Capsules
+- Paracodol Tablets
+- Paradeine R Tablets
+- Paragesic Effervescent Tablets
+- Parahypon Tablets
+- Parake Tablets
+- Paralgin Tablets
+- Paramin Capsules
+- Paramol Tablets
+- Paranorm Cough Syrup
+- Pardale Tablets
+- Parenamps Intramuscular Injection
+- Pastilaids Pastilles
+- Pavacol Cough Syrup
+- Paxadon Tablets
+- Paxalgesic Tablets
+- Paxidal Tablets
+- Paynocil Tablets
+- PEM Linctus
+- Penetrol Inhalant
+- Pentazocine-Aspirin Compound Tablets
+- Peplax Peppermint Flavoured Laxative Tablets
+- Peppermint Indigestion Tablets (Boots)
+- Pepto-Bismol Suspension
+- Pernivit Tablets
+- Persomnia Tablets
+- Petrolagar Emulsion Plain
+- Petrolagar Emulsion with Phenolphthalein
+- PF Plus Tablets
+- Pharmacin Capsules
+- Pharmacin Effervescent Plus C Tablets
+- Pharmacin Effervescent Tablets 325 mg
+- Pharmaton Capsules
+- Pharmidone Tablets
+- Phenergan Compound Expectorant Linctus
+- Phenolphthalein Compound Pills BPC
+- Phenolphthalein Compound Tablets BPC 1963
+- Phenolphthalein Tablets BP
+- Phensedyl Cough Linctus
+- Phensic Tablets
+- Phensic 2 Tablets
+- Phenylephrine Hydrochloride Nasal Drops 0·25%
+- Phenylephrine Hydrochloride Nasal Spray 0.5%
+- Phillips Iron Tonic Tablets
+- Phillips Tonic Yeast Tablets
+- Phillips' Toothpaste
+- Phisoderm
+- Pholcolix Syrup
+- Pholcomed D Linctus
+- Pholcomed Diabetic Forte Linctus
+- Pholcomed Expectorant
+- Pholcomed Forte Linctus
+- Pholcomed Linctus
+- Pholcomed Pastilles
+- Pholtex Syrup
+- Pholtussa Mixture
+- Phosferine Liquid
+- Phosferine Multi-Vitamin Liquid
+- Phosferine Tablets
+- Phyllosan Tablets
+- Physeptone Linctus
+- Pile Mixture (Ayrton Saunders)
+- Pile Tablets (Ayrton Saunders)
+- Pine Catarrh Drops Lozenges
+- Piz Buin Children’s Balm SPF 8
+- Piz Buin Creme Factor 6
+- Piz Buin Creme Factor 8
+- Piz Buin Lip Protection Stick SPF 8
+- Piz Buin SPF 6 Lotion
+- Piz Buin SPF 8 Lotion
+- Plax Anti-Plaque Pre-Brushing Rinse
+- Plenamin Super
+- Plenivite with Iron Tablets
+- Pliagel Soft Lens Solution
+- Plurivite M Tablets
+- Plurivite Tablets
+- Poli-grip Denture Fixative Cream
+- Polyalk Gel
+- Polyalk Tablets
+- Polyvite Capsules
+- Potaba + 6 Capsules
+- Potaba + 6 Tablets
+- Potassium Bromide and Nux Vomica Mixture BPC 1963
+- Powdered Bran Tablets 2 g
+- Power Plus Super Multivitamin and Mineral Capsules
+- Power GLA 65 (Borage Oil) Capsules
+- Powerin Tablets
+- PP Tablets
+- PR Tablets
+- Prazepam Tablets 10 mg
+- PRD 200 Tablets 600 mg
+- Preflex Solution
+- Pregnadon Tablets
+- Pregnavite Forte Tablets
+- Premit Tablets 20 mg
+- Prenatal Dri-Kaps Capsules
+- Prenatol Anti Stretch Mark Cream
+- Primes Premiums Tablets
+- Priory Cleansing Herbs Powder
+- Procol Capsules
+- Proctofibe Tablets
+- Prodexin Tablets
+- Proflex Tablets 200 mg
+- Progress Powder
+- Propain Tablets
+- Pro-Plus He-Vite Elixir
+- Proteolised Liver Tablets
+- Pro-Vitamin A Capsules (Rodale)
+- Pru Sen Tablet Bar
+- Prymecare Tablets for Soft and Gas Permeable Lenses
+- Prymeclean Cleaning Solution for Soft Lenses
+- Prymesoak Soaking Solution for Soft Lenses
+- Pulmo Bailly Liquid
+- Purgoids Tablets
+- Pyridoxine Tablets, Slow 100 mg
+- Quick Action Cough Cure (Brian C Spencer)
+- Quiet Life Tablets
+- Rabenhorst Tomato Juice
+- Raspberry Tablets No. B039
+- Rayglo Chest Rub Ointment
+- Rayglo Laxative Tablets
+- Reactivan Tablets
+- Red Catarrh Pastilles (Baldwin)
+- Redelan Effervescent Tablets
+- Redoxon Adult Multivitamin Tablets
+- Redoxon C Effervescent Tablets 1 g
+- Redoxon C Tablets 25 mg
+- Redoxon C Tablets 50 mg
+- Redoxon C Tablets 200 mg
+- Redoxon C Tablets 250 mg
+- Redoxon C Tablets 500 mg
+- Redoxon Children’s Multivitamin Tablets
+- Redoxon Effervescent Tablets 1 g
+- Regaine
+- Regina Royal Jelly Capsules
+- Reg-U-Lett Tablets
+- Relanium Tablets 2 mg
+- Relanium Tablets 5 mg
+- Relanium Tablets 10 mg
+- Relcol Tablets
+- Remnos Tablets 5 mg
+- Remnos Tablets 10 mg
+- Rennie Tablets
+- Rennie Gold Tablets
+- Rennie Plus Tablets
+- Resolve Granules
+- Respaton
+- Rheumavit Tablets
+- Rhuaka Herbal Syrup
+- Rhuaka Tablets
+- Rhubarb and Soda Mixture Ammoniated BP
+- Rhubarb Compound Mixture BPC
+- Rhubarb Mixture Compound Paediatric BPC
+- Ribena
+- Riddovydrin Liquid
+- Rinurel Linctus
+- Rinurel Tablets
+- Rite-Diet Diabetic Cherry Cake
+- Rite-Diet Diabetic Fruit Cake
+- Rite-Diet Gluten-Free Baking Powder
+- Rite-Diet Gluten-Free Biscuits (chocolate chip cookies; half-coated chocolate biscuit; half covered chocolate digestive biscuit; custard cream biscuit; Lincoln biscuit; shortcake biscuit; sultana biscuit; soya bran)
+- Rite-Diet Gluten-Free Canned Rich Fruit Cake
+- Rite-Diet Gluten-Free Crunchy Bars
+- Rite-Diet Gluten-Free Muesli Cookies
+- Rite-Diet Macaroni in Mushroom Sauce, Low Protein/Gluten Free
+- Rite-Diet Spaghetti with Tomato Sauce, Low Protein/Gluten-Free
+- Robaxisal Forte Tablets
+- Roberts Aspirin and Caffeine Tablets
+- Robinsons Baby Rice
+- Robitussin AC Liquid
+- Robitussin Cough Soother
+- Robitussin Cough Soother Junior Formula
+- Robitussin Expectorant
+- Robitussin Expectorant Plus
+- Robitussin Liquid
+- Robitussin Plus Liquid
+- Robitussin Syrup
+- RoC Compact Cleanser
+- RoC Eye Make-Up Remover Lotion
+- RoC Foundation Cream
+- RoC Vitamin Cream
+- Rock Salmon Cough Mixture
+- Rohypnol Tablets 1 mg
+- Roscorbic Effervescent Tablets
+- Roscorbic Tablets 25 mg
+- Roscorbic Tablets 50 mg
+- Roscorbic Tablets 200 mg
+- Roscorbic Tablets 500 mg
+- Rose Hip C-100 Capsules
+- Rose Hip C-200 Capsules
+- Rose Hip Tablets (English Grains)
+- Rose Hip Tablets (Potters)
+- Rose Hip Tablets (Roberts)
+- Rosemary Bath
+- Rosmax Syrup
+- Roter Tablets
+- Rovigon
+- Rubelix Syrup
+- Rubraton B Elixir
+- Ruby Tonic Tablets (Jacksons)
+- Rum Cough Elixir
+- Ruthmol
+- Rutin Plus Tablets (Gerard)
+- Safapryn Tablets
+- Safapryn-Co Tablets
+- Safflower Seed Oil
+- Sainsbury’s Aspirin Tablets 300 mg
+- Sainsbury’s Cold Powders with Blackcurrant
+- Sainsbury’s Hot Lemon Powders
+- Sainsbury’s Indigestion Tablets
+- Sainsbury’s Junior Soluble Aspirin Tablets
+- Sainsbury’s Paracetamol Tablets 500 mg
+- Sainsbury’s Soluble Aspirin Tablets
+- St Clement’s Fruit Juice Concentrate
+- Salzone Syrup
+- Salzone Tablets 500 mg
+- Sanatogen Junior Vitamins Tablets
+- Sanatogen Multivitamins Plus Iron (Formula One) Tablets
+- Sanatogen Multivitamins Tablets
+- Sanatogen Nerve Tonic Powder
+- Sanatogen Selected Multivitamins Plus Iron (Formula Two) Tablets
+- Sanatogen Tonic
+- Sancos Compound Linctus
+- Sancos Syrup
+- Savant Tablets
+- Savlon Baby Care Baby Bath
+- Savlon Baby Care Cream
+- Savlon Baby Care Lotion
+- Savlon Baby Care Oil
+- Savlon Baby Care Powder
+- Savlon Baby Care Shampoo
+- Savlon Baby Care Soap
+- Saxin
+- SBL Junior Cough Linctus
+- SBL Soothing Bronchial Linctus
+- Schar Gluten Free Sponge Cake
+- Scholl Foot Refresher Spray
+- Scott’s Cod Liver Oil Capsules
+- Scott’s Emulsion
+- Scott’s Husky Biscuits
+- Seaweed Vitamin A Ester BP and Vitamin D BP Capsules (Regent Laboratories)
+- Sebbix Shampoo
+- Seclodin Capsules
+- Sedazin Tablets 1 mg
+- Sedazin Tablets 2.5 mg
+- Selora Sodium-free Salt Substitute
+- Selsun Soft Conditioner
+- Senlax Tablets
+- Senna Laxative Tablets (Boots)
+- Senna Tablets (Potters)
+- Senokot Tablets
+- Senotabs Tablets
+- Sensodyne Toothpaste
+- Serenid D Tablets 10 mg
+- Serenid D Tablets 15 mg
+- Serenid Forte Capsules 30 mg
+- Sertin Tablets
+- Setamol Soluble Tablets
+- Setlers Extra Strength Tablets
+- Setlers Liquid
+- Setlers Tablets
+- Seven Seas Cod Liver Oil
+- Seven Seas Formula 70 Multivitamin Multimineral Capsules
+- Seven Seas Malt and Cod Liver Oil
+- Seven Seas Orange Syrup and Cod Liver Oil
+- Seven Seas Pure Cod Liver Oil Capsules
+- Seven Seas Start Right Cod Liver Oil for Babies
+- Sidros Tablets
+- Silk-Lax Tablets
+- Siloxyl Suspension
+- Siloxyl Tablets
+- Simeco Suspension
+- Simeco Tablets
+- Simple Hair Conditioner
+- Simple Shampoo
+- Simple Soap
+- Sine-Off Tablets
+- Sinitol Capsules
+- Sinutab Tablets
+- Sionon Sweetner
+- Skin Glow Capsules
+- SMA Gold Cap Powder and Ready-to-Feed
+- SMA Powder and Concentrated Liquid
+- Snufflebabe Vapour Rub
+- Soaclens Solution
+- Softtab Soft Lens Care Tablets
+- Solis Capsules 2 mg
+- Solis Capsules 5 mg
+- Solis Capsules 10 mg
+- Solmin Tablets
+- Solpadeine Capsules
+- Solpadeine Forte Tablets
+- Solpadeine Tablets Effervescent
+- Solprin Tablets
+- Soluble Aspirin Tablets for Children (Boots)
+- Soluble Phensic Tablets
+- Solusol Solution
+- Somnite Suspension 2.5 mg/5 ml
+- Somnite Tablets 5 mg
+- Soquette Soaking Solution
+- Sovol Liquid
+- Sovol Tablets
+- Soya Powder and Nicotinamide Tablets
+- Special Stomach Powder (Halls)
+- Spectraban 4 Lotion
+- SPHP Tablets
+- Squill Linctus Opiate BP (Gee’s Linctus)
+- Squill Linctus Opiate, Paediatric, BP
+- Squire’s Soonax Tablets
+- SR2310 Expectorant
+- SR Toothpaste (Gibbs)
+- Staffords Mild Aperient Tablets
+- Staffords Strong Aperient Tablets
+- Steri-Clens Solution
+- Steri-Solve Soft Lens Solution
+- Sterling Health Salts Effervescent
+- Sterling Indigestion Tablets
+- Sterling Paracetamol Tablets
+- Sterogyl Alcoholic Solution
+- Stomach Aids Tablets
+- Stomach Mixture (Herbal Laboratories)
+- Stomach Mixture H138 (Southon Laboratories)
+- Stomach Powder (Diopharm)
+- Stomach Tablets (Ulter)
+- Street’s Cough Mixture
+- Strengthening Mixture (Hall's)
+- Stress B Supplement Tablets
+- Strychnine and Iron Mixture BPC 1963
+- Strychnine Mixture BPC 1963
+- Stute Diabetic Blackcurrant Jam
+- Stute Diabetic Marmalade
+- Sudafed Co Tablets
+- Sudafed Expectorant
+- Sudafed Linctus
+- Sunerven Tablets
+- Super Plenamins Tablets
+- Super Yeast + C Tablets
+- Superdrug Health Salts
+- Surbex-T Tablets
+- Surem Capsules 5 mg
+- Surem Capsules 10 mg
+- Surelax Laxative Tablets
+- Sweetex
+- Sylopal Suspension
+- Sylphen Tablets
+- Syn-Ergel
+- Syndol Tablets
+- Syrtussar Cough Syrup
+- T-Zone Decongestant Tablets
+- Tabasan Tablets
+- Tablets No. B006
+- Tablets No. B011
+- Tablets No. B015
+- Tablets No. B024
+- Tablets No. B025
+- Tablets No. B029
+- Tablets No. B034
+- Tablets No. B035
+- Tablets No. B036
+- Tablets No. B037
+- Tablets No. B038
+- Tablets No. B040
+- Tablets No. B041
+- Tablets No. B045
+- Tablets No. B048
+- Tablets No. B070
+- Tablets No. 268A (Potters)
+- Tablets to Formula A10
+- Tablets to Formula A11
+- Tablets to Formula A18
+- Tablets to Formula A19
+- Tablets to Formula A20
+- Tablets to Formula A22
+- Tablets to Formula A23
+- Tablets to Formula A31
+- Tablets to Formula A32
+- Tablets to Formula A33
+- Tablets to Formula A45
+- Tablets to Formula A51
+- Tablets to Formula A63
+- Tablets to Formula A67
+- Tablets to Formula A68
+- Tablets to Formula A69
+- Tablets to Formula A70
+- Tablets to Formula A71
+- Tablets to Formula A105
+- Tablets to Formula A111
+- Tablets to Formula A114
+- Tablets to Formula A120
+- Tablets to Formula A147
+- Tablets to Formula A157
+- Tablets to Formula A158
+- Tablets to Formula A161
+- Tablets to Formula A162
+- Tablets to Formula A164
+- Tablets to Formula A165
+- Tablets to Formula A166
+- Tablets to Formula A167
+- Tablets to Formula A169
+- Tablets to Formula A175
+- Tablets to Formula A183
+- Tablets to Formula A184
+- Tablets to Formula A190
+- Tablets to Formula A195
+- Tablets to Formula A202
+- Tablets to Formula A203
+- Tablets to Formula A213
+- Tablets to Formula A221
+- Tablets to Formula A244
+- Tablets to Formula A245
+- Tablets to Formula A246
+- Tablets to Formula A247
+- Tablets to Formula A248
+- Tablets to Formula A249
+- Tablets to Formula A250
+- Tablets to Formula A264
+- Tablets to Formula A266
+- Tablets to Formula A270
+- Tablets to Formula A271
+- Tablets to Formula A272
+- Tablets to Formula A273
+- Tablets to Formula A274
+- Tablets to Formula A275
+- Tablets to Formula A276
+- Tablets to Formula A277
+- Tablets to Formula A298
+- Tablets to Formula A301
+- Tablets to Formula A316
+- Tablets to Formula BA6
+- Tablets to Formula B10
+- Tablets to Formula B15
+- Tablets to Formula B18
+- Tablets to Formula B19
+- Tablets to Formula B20
+- Tablets to Formula B21
+- Tablets to Formula B22
+- Tablets to Formula B25
+- Tablets to Formula B26
+- Tablets to Formula B29
+- Tablets to Formula B41
+- Tablets to Formula B48
+- Tablets to Formula B51
+- Tablets to Formula B56
+- Tablets to Formula B58
+- Tablets to Formula B64
+- Tablets to Formula B65
+- Tablets to Formula B66
+- Tablets to Formula B67
+- Tablets to Formula B68
+- Tablets to Formula B70
+- Tablets to Formula B71
+- Tablets to Formula B72
+- Tablets to Formula B73
+- Tablets to Formula B74
+- Tablets to Formula B75
+- Tablets to Formula B76
+- Tablets to Formula B77
+- Tablets to Formula B78
+- Tablets to Formula B79
+- Tablets to Formula B80
+- Tablets to Formula B81
+- Tablets to Formula B82
+- Tablets to Formula B83
+- Tablets to Formula B85
+- Tablets to Formula B86
+- Tablets to Formula B87
+- Tablets to Formula B90
+- Tablets to Formula B91
+- Tablets to Formula B93
+- Tablets to Formula B94
+- Tablets to Formula B96
+- Tablets to Formula B98
+- Tablets to Formula B100
+- Tablets to Formula B102
+- Tablets to Formula B104
+- Tablets to Formula B117
+- Tablets to Formula B118
+- Tablets to Formula B120
+- Tablets to Formula B122
+- Tablets to Formula B124
+- Tablets to Formula B128
+- Tablets to Formula B141
+- Tablets to Formula B143
+- Tablets to Formula B145
+- Tablets to Formula B148
+- Tablets to Formula B156
+- Tablets to Formula B157
+- Tablets to Formula B158
+- Tablets to Formula B160
+- Tablets to Formula B163
+- Tablets to Formula B169
+- Tablets to Formula B178
+- Tablets to Formula B180
+- Tablets to Formula B181
+- Tablets to Formula B182
+- Tablets to Formula B190
+- Tablets to Formula B193
+- Tablets to Formula B207
+- Tablets to Formula B209
+- Tablets to Formula B210
+- Tablets to Formula B211
+- Tablets to Formula B212
+- Tablets to Formula B213
+- Tablets to Formula B214
+- Tablets to Formula B215
+- Tablets to Formula B216
+- Tablets to Formula B217
+- Tablets to Formula B218
+- Tablets to Formula B222
+- Tablets to Formula B223
+- Tablets to Formula B224
+- Tablets to Formula B225
+- Tablets to Formula B227
+- Tablets to Formula B228
+- Tablets to Formula B231
+- Tablets to Formula B234
+- Tablets to Formula B235
+- Tablets to Formula B236
+- Tablets to Formula B243
+- Tablets to Formula B248
+- Tablets to Formula B250
+- Tablets to Formula B251
+- Tablets to Formula B252
+- Tabmint Anti-Smoking Chewing Gum Tablets
+- Tancolin Childrens Cough Linctus
+- Tedral Expectorant
+- Temazepam Gelthix Capsules
+- Temazepam Planpak
+- Tensium Tablets 2 mg
+- Tensium Tablets 5 mg
+- Tensium Tablets 10 mg
+- Tercoda Elixir
+- Tercolix Elixir
+- Terpalin Elixir
+- Terperoin Elixir
+- Terpoin Antitussive
+- Terrabron
+- Three Noughts Cough Syrup
+- Tidmans Bath Sea Salt
+- Timotei Herbal Shampoo
+- Titan Hard Cleanser
+- Tixylix Cough Linctus
+- Tolu Solution BP
+- Tolu Compound Linctus Paediatric BP
+- Tolu Syrup BP
+- Tonatexa Mixture
+- Tonic Tablets (Thomas Guest)
+- Tonic Wines
+- Tonivitan A and D Syrup
+- Tonivitan B Syrup
+- Tonivitan Capsules
+- Top C Tablets
+- Toptabs
+- Total All Purpose Solution
+- Totavit D R Capsules
+- Totolin Paediatric Cough Syrup
+- Tramil Capsules
+- Trancoprin Tablets
+- Transclean Cleaning Solution
+- Transdrop
+- Transoak Solution
+- Transol Solution
+- Tranxene Capsules 7.5 mg
+- Tranxene Capsules 15 mg
+- Tranxene Tablets 15 mg
+- Triocos Linctus
+- Triogesic Elixir
+- Triogesic Tablets
+- Triominic Syrup
+- Triominic Tablets
+- Triopaed Linctus
+- Triotussic Suspension
+- Triovit Tablets
+- Triple Action Cold Relief Tablets
+- Tritamyl Gluten-Free Bread Mix
+- Tropium Capsules 5 mg
+- Tropium Capsules 10 mg
+- Tropium Tablets 5 mg
+- Tropium Tablets 10 mg
+- Tropium Tablets 25 mg
+- Trufree Crispbran
+- Tudor Rose Bay Rhum
+- Tums Tablets
+- Tusana Linctus
+- Tussifans Syrup
+- Tussimed Liquid
+- Two-A-Day Iron Jelloids Tablets
+- Tymasil
+- Tysons Catarrh Syrup
+- Udenum Gastric Vitamin Powder
+- Ultracach Analgesic Capsules
+- Ultradal Antacid Stomach Tablets
+- Ultralief Tablets
+- Uncoated Tablets to Formula A323
+- Uncoated Tablets to Formula A325
+- Unichem Baby Oil
+- Unichem Chesty Cough Linctus
+- Unichem Children’s Dry Cough Linctus
+- Unichem Cold Relief Capsules
+- Unichem Dry Cough Linctus
+- Uniflu Tablets
+- Unigesic Capsules
+- Unigest Tablets
+- Unisomnia Tablets 5 mg
+- United Skin Care Programme (Uni Derm; Uni-Salve; Uni-Wash)
+- Vagisil Feminine Powder
+- Valium Capsules 2 mg
+- Valium Capsules 5 mg
+- Valium Syrup 2 mg/5 ml
+- Valium Tablets 2 mg
+- Valium Tablets 5 mg
+- Valium Tablets 10 mg
+- Valonorm Tonic Solution
+- Valrelease Capsules
+- Vanamil Tablets
+- Vapex Inhalant
+- Vaseline Intensive Care Lotion
+- Vaseline Intensive Care Lotion Herbal and Aloe
+- Veganin Tablets
+- Veno’s Adult Formula Cough Mixture
+- Veno’s Cough Mixture
+- Veno’s Honey and Lemon Cough Mixture
+- Veracolate Tablets
+- Verdiviton Elixir
+- Vervain Compound Tablets
+- Vi-Daylin Syrup
+- Vicks Coldcare Capsules
+- Vicks Cremacoat Syrup
+- Vicks Cremacoat Syrup with Doxylamine Succinate
+- Vicks Cremacoat Syrup with Guaiphenesin
+- Vicks Cremacoat Syrup with Paracetamol and Dextromethorphan
+- Vicks Daymed
+- Vicks Formula 44 Cough Mixture
+- Vicks Inhaler
+- Vicks Medinite
+- Vicks Pectorex Solution
+- Vicks Sinex Nasal Spray
+- Vicks Vapo-Lem Powder Sachets
+- Vicks Vapour Rub
+- Videnal Tablets
+- Vigour Aids Tablets
+- Vigranon B Complex Tablets
+- Vigranon B Syrup
+- Vikelp Coated Tablets
+- Vikonon Tablets
+- Villescon Liquid
+- Villescon Tablets
+- Virvina Elixir
+- Visclair Tablets
+- Vita Diem Multi Vitamin Drops
+- Vita-Six Capsules
+- Vitalin Tablets
+- Vitamin and Iron Tonic (Epitone) Solution
+- Vitamin A and D Capsules BPC 1968 (Regent Laboratories)
+- Vitamin A Ester and Vitamin D2 Capsules (Regent Laboratories)
+- Vitamin A Ester Capsules (Regent Laboratories)
+- Vitamin A Ester Conc, Alpha Tocopheral Acetate Nat Capsules (Regent Laboratories)
+- Vitamin A 4500 Units and Vitamin D2 Capsules (Regent Laboratories)
+- Vitamin A 6000 Units and Vitamin D2 Capsules (Regent Laboratories)
+- Vitamin A, C and D Tablets (Approved Prescription Services)
+- Vitamin A, D and C Tablets (Regent Laboratories)
+- Vitamin B Complex Tablets (English Grains)
+- Vitamin B Complex with Brewer’s Yeast Tablets (English Grains)
+- Vitamin B1 Dried Yeast Powder (Distillers)
+- Vitamin B1 Yeast Tablets (Distillers)
+- Vitamin B12 Tablets 0.01 mg
+- Vitamin B12 Tablets 0.025 mg
+- Vitamin B12 Tablets 0.05 mg
+- Vitamin B12 Tablets 0.10 mg
+- Vitamin B12 Tablets 0.25 mg
+- Vitamin B12 Tablets 0.5 mg
+- Vitamin B12 Tablets 1 mg
+- Vitamin C Tablets Effervescent 1 g
+- Vitamin Capsules (Regent Laboratories)
+- Vitamin Malt Extract with Orange Juice (Distillers)
+- Vitamin Mineral Capsules (Regent Laboratories)
+- Vitamin Tablets No. B077
+- Vitamin Tablets No. B081
+- Vitamin Tablets No. B084
+- Vitaminised Iron and Yeast Tablets (Kirby Warrick Pharmaceuticals)
+- Vitanorm Malt Extract
+- Vitanorm Malt Extract Syrup
+- Vitsafe’s CF Kaps Tablets
+- Vitasafe’s WCF Kaps Tablets
+- Vitathorne Chilblain Tablets
+- Vitatrop Tablets
+- Vitavel Powder for Syrup
+- Vitavel Solution
+- Vitepron Tablets
+- Vitorange Tablets
+- Vitrite Multi-Vitamin Syrup
+- Vykmin Fortified Capsules
+- W L Tablets
+- Wallachol Syrup
+- Wallachol Tablets
+- Wate-on Emulsion
+- Wate-on Emulsion Super
+- Wate-on Tablets
+- Wate-on Tablets Super
+- Wate-on Tonic
+- Waterhouses All Fours
+- Wines
+- Woodwards Nursery Cream
+- Wrights Glucose with Vitamin D Powder
+- Wrights Vaporizing Fluid
+- Xanax Tablets 0.25 mg
+- Xanax Tablets 0.5 mg
+- Xanax Tablets 1.0 mg
+- Yeast and B12 Tablets (English Grains)
+- Yeast Plus Tablets (Thomas Guest)
+- Yeast-Vite Tablets
+- Yellow Phenolphthalein Tablets (any strength)
+- Zactirin Tablets
+- Zefringe Sachets
+- Zendium Toothpaste
+- Zubes Expectorant Cough Syrup
+- Zubes Original Cough Mixture
+- Zyriton Expectorant Linctus

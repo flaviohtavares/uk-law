@@ -1,0 +1,67 @@
+---
+title: Police, Crime, Sentencing and Courts Act 2022, section 146
+act: Police, Crime, Sentencing and Courts Act 2022
+section: '146'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2022/32/section/146
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police, Crime, Sentencing and Courts Act 2022, section 146
+
+> **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 146. Sentences and offences in respect of which polygraph condition may be imposed[^key-64ae95414c79ab0debb6a94734b5c43f]
+
+*Extent: E+W*
+
+In section 28 of the Offender Management Act 2007 (application of polygraph condition)—
+
+- (a) in subsection (3), for paragraphs (a) to (g) substitute—
+
+  > - (a) a life sentence within the meaning of Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 (see section 34(2) of that Act), or
+  > - (b) a fixed-term sentence within the meaning of Chapter 6 of Part 12 of the Criminal Justice Act 2003 (see section 237 of that Act) of a term of 12 months or more.
+
+  ;
+- (b) in subsection (4), for the words from “means—” to the end substitute
+
+  > means an offence specified in any one or more of—
+  >
+  > - (a) Schedule 3 to the Sexual Offences Act 2003 (sexual offences attracting notification requirements),
+  > - (b) Part 2 of Schedule 15 to the Criminal Justice Act 2003 (sexual offences under the law of England and Wales specified for certain purposes),
+  > - (c) paragraphs 1 to 21 of Schedule 16 to that Act (sexual offences under the law of Scotland specified for certain purposes), as that Schedule had effect immediately before its repeal on 14 July 2008, and
+  > - (d) Part 2 of Schedule 17 to that Act (sexual offences under the law of Northern Ireland specified for certain purposes), as that Schedule had effect immediately before its repeal on 14 July 2008.
+
+  ;
+- (c) after subsection (4) insert—
+
+  > (4ZA) In determining for the purposes of subsection (4) whether an offence is specified in Schedule 3 to the Sexual Offences Act 2003, any limitation in that Schedule referring to the circumstances of a particular case (including the sentence imposed) is to be disregarded.
+
+  ;
+- (d) in subsection (4A) (inserted by the Counter-Terrorism and Sentencing Act 2021), omit paragraph (b) (but not the final “or”);
+- (e) in subsection (4B) (also so inserted), omit paragraph (a);
+- (f) after subsection (4B) insert—
+
+  > (4C) A sentence in respect of a service offence is to be treated for the purposes of this section as if it were a sentence in respect of the corresponding offence.
+  >
+  > (4D) In subsection (4C)—
+  >
+  > - (a) “**service offence**” means an offence under—
+  >   - (i) section 42 of the Armed Forces Act 2006,
+  >   - (ii) section 70 of the Army Act 1955 or the Air Force Act 1955, or
+  >   - (iii) section 42 of the Naval Discipline Act 1957;
+  > - (b) “**corresponding offence**” means—
+  >   - (i) in relation to an offence under section 42 of the Armed Forces Act 2006, the corresponding offence under the law of England and Wales within the meaning of that section;
+  >   - (ii) in relation to an offence under section 70 of the Army Act 1955 or the Air Force Act 1955, the corresponding civil offence within the meaning of that Act;
+  >   - (iii) in relation to an offence under section 42 of the Naval Discipline Act 1957, the civil offence within the meaning of that section.
+  >
+  > (4E) Section 48 of the Armed Forces Act 2006 (supplementary provisions relating to ancillary service offences) applies for the purposes of subsection (4D)(b)(i) above as it applies for the purposes of the provisions of that Act referred to in subsection (3)(b) of that section.
+
+## Annotations
+
+[^key-64ae95414c79ab0debb6a94734b5c43f]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2022/32/section/146) in force at 28.6.2022, see [s. 208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)

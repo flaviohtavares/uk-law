@@ -1,0 +1,368 @@
+---
+title: The Judicial Pensions (Additional Voluntary Contributions) Regulations 2017
+id: uksi/2017/512
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-03-30'
+text_date: '2023-07-05'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2017/512
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/512/pdfs/uksiem_20170512_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/512/pdfs/uksi_20170512_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/512/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Judicial Pensions (Additional Voluntary Contributions) Regulations 2017
+
+> Text as at 2023-07-05.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2017 No. 512
+
+Public Service Pensions
+
+The Judicial Pensions (Additional Voluntary Contributions) Regulations 2017
+
+Made
+
+30th March 2017
+
+Coming into force in accordance with regulation 1
+
+The Lord Chancellor makes these Regulations in exercise of the powers conferred by the following provisions of the Public Service Pensions Act 2013[^f00001]: sections 1(1) (as read with paragraph 2 of Schedule 1), and (2)(b), 2(1) (as read with paragraph 2(1) of Schedule 2), 3(1), (2) and (3), 4(1) and (3), 5(1) and (2) (as read with section 8(1)(b)), and Schedule 3.
+
+In accordance with section 3(5) of that Act, these Regulations are made with the consent of the Treasury.
+
+The Lord Chancellor has had regard to the matters referred to in section 5(3) of that Act.
+
+In accordance with section 21 of and paragraph 2(2) of Schedule 2 to that Act, the Lord Chancellor has consulted the Secretary of State and representatives of such persons as appear to the Lord Chancellor likely to be affected by these regulations.
+
+A draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament in accordance with sections 24(1)(c) and 32(2)(a) of that Act.
+
+## 1. Citation and commencement[^key-851cd91844af6402fdc83cfe8d27a045]
+
+These Regulations may be cited as the Judicial Pensions (Additional Voluntary Contributions) Regulations 2017 and come into force on 1st April 2017 or, if later, the day after the day on which they are made.
+
+## 2. Interpretation[^key-a81babf26304030935439173580f41a5]
+
+(1)[^key-d8fcd55f0f6680eea4750c06ba192dc6] In these Regulations –
+
+- “the 2004 Act” means the Finance Act 2004[^f00002];
+- “the 2015 regulations” means the Judicial Pensions Regulations 2015[^f00003];
+- “the 2022 Regulations” means the Judicial Pensions Regulations 2022;[^key-2003d86afd721d55ad58ff4f3f056d32]
+- “the 2015 scheme” means the judicial pension scheme created by the 2015 regulations;
+- “the 2022 Scheme” means the Judicial pension scheme created by the 2022 Regulations;
+- “[^key-fae690be36cc54bdea5dd813a45b7b95]**active member**” has the meaning given in paragraph (2);
+- “AVC member” means an active member who has given a notice under regulation 6(2);
+- “AVC scheme” means the scheme established under regulation 3;
+- “authorised provider” has the same meaning as in section 1(9) of the Superannuation Act 1972[^f00004];
+- “Judicial Pension Board” means the Judicial Pension Board established by regulation 6(1) of the 2015 regulations in accordance with regulations 7 and 8 of those regulations;
+- “judicial pension scheme” means the 2015 scheme or the scheme constituted by the Judicial Pensions (Additional Voluntary Contributions) Regulations 1995[^f00005];
+- “normal minimum pension age” has the same meaning as in section 279(1) (other definitions) of the 2004 Act;
+- “pensionable service” has the same meaning as in Chapter 2 of Part 4 of the 2015 regulations;
+- “qualifying recognised overseas pension scheme” has the meaning given in section 169(2) of the 2004 Act[^f00006];
+- “registered scheme” means a pension scheme that is a registered pension scheme under Chapter 2 of Part 4 of the 2004 Act;
+- “AVC scheme assets” means the total value of A minus B, where—
+  - A is the sum of the realisable value of the investments made by the scheme manager with the contributions paid by the AVC member, plus any transfer value accepted under regulation 10; and
+  - B is the sum of—
+    - (i) any amount deducted for tax under regulation 15;
+    - (ii) the fees or charges of an authorised provider in relation to the investments made by the scheme manager defrayed in accordance with regulation 16; and
+    - (iii) any amount that has already been transferred out of the AVC scheme under regulation 14.
+- “scheme contributions” means the total of payments made under regulation 9(2)(a), (b) and (c);
+- “scheme manager” has the meaning given in regulation 4;
+- “tax year” has the meaning given in section 4(2) of the Income Tax Act 2007[^f00007] (as applied by section 989 of that Act).
+
+(2)[^key-48dbb4c1d4949b630cc9c58e97c78c99] In these Regulations, “**active member**” means a person who—
+
+- (a) is in pensionable service under the 2015 Scheme or the 2022 Scheme;
+- (b) would have been in pensionable service under the 2015 Scheme in the period beginning with 1st April 2015 and ending with 31st March 2022 if—
+  - (i) a legacy scheme election had not been made in respect of the person under section 40 of the Public Service Pensions and Judicial Offices Act 2022 (“PSPJOA 2022”); or
+  - (ii) an immediate detriment remedy had not been obtained in relation to the person’s remediable service in a judicial office; or
+- (c) is a relevant fee-paid judge with relevant service.
+
+(3) A person who satisfies—
+
+- (a) paragraph (2)(b) is an “active member” for the period of their remediable service;
+- (b) paragraph (2)(c) is an “active member” for the period of their relevant service.
+
+(4) For the purpose of paragraph (2)(b), an “immediate detriment remedy” has been obtained in relation to a person’s remediable service if either of the conditions in section 68(2) or (3) of PSPJOA 2022 is met.
+
+(5) In paragraph (2)—
+
+- “**a legacy scheme election**” has the meaning given in section 40 of PSPJOA 2022;
+- “**relevant fee-paid judge**” has the meaning given in section 103 of PSPJOA 2022;
+- “**relevant service**” has the meaning given in regulation 29(2) of the Judicial Pensions (Remediable Service etc.) Regulations 2023;
+- “**remediable service**” has the meaning given in section 39 of PSPJOA 2022.
+
+## 3. Establishment and scope[^key-b0a67920fc7c1575d0af3e999b1fa2ee]
+
+An additional voluntary contributions scheme is established as a defined contributions scheme for the judiciary.
+
+## 4. Administration[^key-ac3a0bc5ec3d83f6d09f080c415d18d2]
+
+(1) The Lord Chancellor is the scheme manager for the AVC scheme and any statutory pension scheme that is connected with it.
+
+(2) The AVC scheme is to be administered in accordance with these Regulations.
+
+(3) The scheme manager is responsible for managing and administering the AVC scheme and any statutory pension scheme that is connected with it.
+
+(4) Before exercising any discretion under these Regulations, the scheme manager must obtain a recommendation from the Judicial Pension Board.
+
+(5) If the scheme manager exercises any discretion under these Regulations contrary to a recommendation made by the Judicial Pension Board, the scheme manager must provide written reasons for doing so to the Judicial Pension Board and to the AVC member to whom the discretion relates.
+
+(6) The scheme manager and the Judicial Pension Board may agree that paragraphs (4) and (5) do not apply to specific discretions or in specific circumstances.
+
+(7) The scheme manager may delegate any functions under these Regulations.
+
+## 5. Pension board[^key-eb89e36384f48018a4f4395021b4cfaf]
+
+(1) The Judicial Pension Board is responsible for assisting the scheme manager—
+
+- (a) to secure compliance with—
+  - (i) these Regulations;
+  - (ii) any other legislation relating to the governance and administration of the AVC scheme and of any statutory pension scheme that is connected with it; and
+  - (iii) any requirements imposed by the Pensions Regulator in relation to the AVC scheme and any statutory pension scheme that is connected with it; and
+- (b) in the performance of the scheme manager’s functions under these Regulations.
+
+(2) The Judicial Pension Board may determine its own procedures.
+
+## 6. Membership[^key-028492904d74df249ab0a7225551bef2]
+
+(1) Membership of the AVC scheme is only open to active members.
+
+(2) An active member becomes an AVC member by giving valid notice in writing to the scheme manager.
+
+(3) A notice under paragraph (2) is a valid notice if it contains such information as the scheme manager may specify.
+
+(4) The scheme manager must only specify such information under paragraph (3) as the scheme manager may require for the purposes of carrying out functions under these Regulations or the AVC scheme.
+
+(5) If a person ceases to be an active member they also cease to be an AVC member.
+
+## 7. Further information[^key-18db79aaa22130f1c0cecbc85ca87d32]
+
+An AVC member must, if requested by the scheme manager, provide or authorise to be provided such information as is requested by the scheme manager—
+
+- (a) relating to the AVC member’s medical history and state of health; or
+- (b) about any benefits which the AVC member may have which are derived from a registered scheme (including information about any such benefits which have been transferred to another scheme, whether or not in the United Kingdom) and which relates to benefits accrued other than through contributions to a judicial pension scheme.
+
+## 8. Disclosure of information[^key-c5e29fb529732992e6a9de0798f5dd92]
+
+In order to establish or ensure compliance with the 2004 Act the scheme manager may disclose any financial information obtained under regulation 6 or 7(b) to —
+
+- (a) the Commissioners for Her Majesty’s Revenue and Customs (or to the officers of the Commissioners for Her Majesty’s Revenue and Customs); or
+- (b) any authorised provider, or the servants or agents of that provider, who is, or may be, concerned in the investment of the funds or the provision of benefits under the AVC scheme.
+
+## 9. Contributions[^key-225efff3d27ee2d00378286b3eab45b5]
+
+(1) An AVC member must from time to time, as required by the scheme manager, instruct the scheme manager by notice in writing as to the level and form of contributions that the AVC member wishes to make.
+
+(2) An AVC member may contribute to the AVC scheme by way of —
+
+- (a) lump sum payments made from time to time of the same or a different amount;
+- (b) regular payments of the same amount; or
+- (c) a combination of lump sum and regular payments,
+
+and in any case payment must be made by way of a deduction from the AVC member’s salary or fees.
+
+(3) A notice under paragraph (1) must specify—
+
+- (a) in the case of a regular payment, the amount of each regular payment or, if expressed as a percentage of salary or fees, that percentage;
+- (b) in the case of a lump sum, the amount of the contribution.
+
+(4) An AVC member’s scheme contributions in any tax year must not exceed that amount which, when aggregated with all contributions to any other registered scheme in the same tax year, bring the AVC member’s total contributions for that tax year up to the maximum amount of relief as calculated under section 190 of the 2004 Act[^f00008].
+
+## 10. Transfers in[^key-b0cc725df8aaec63577179ebe6b0a78f]
+
+(1) At any time before the AVC member’s normal minimum pension age, an AVC member may make, or arrange to be made, a payment representing the cash equivalent of the AVC member’s accrued rights in any other registered scheme or a qualifying recognised overseas pension scheme to be invested in the scheme.
+
+(2) A payment under paragraph (1) from a registered scheme may be accepted by the scheme manager only if the administrator of the registered scheme certifies that the payment is a recognised transfer as defined in section 169 of the 2004 Act[^f00009].
+
+## 11. Investment of funds[^key-694cad447a5f8e1d15588730b28bb14d]
+
+(1) The scheme manager must, as soon as reasonably practicable, invest an AVC member’s scheme contributions made under regulation 9 and any transfer payment accepted under regulation 10 with an authorised provider for the purpose of providing benefits under regulation 12.
+
+(2) Where the authorised provider offers more than one type of investment the AVC member must elect that those sums be paid into particular types of investments.
+
+(3) The scheme manager is not required to give effect to an election made under paragraph (2) if it is not reasonably practicable to do so.
+
+(4) The investments made in respect of an AVC member with the authorised provider may be realised and reinvested with the authorised provider at the request of the AVC member, in such amounts, at such times, and in such manner as may be specified by the scheme manager with the approval of the authorised provider.
+
+(5) The scheme manager may require an authorised provider to surrender the whole or part of the value of the sums referred to in paragraph (1).
+
+(6) The scheme manager must re-invest a sum surrendered under paragraph (5) in accordance with paragraph (1).
+
+## 12. Benefits which may be provided[^key-8b04572b69ecc1d5802688054101b460]
+
+(1) The AVC member is entitled to the benefits attributable to the AVC scheme assets.
+
+(2) The scheme manager must provide only benefits authorised by or under Chapter 3 of Part 4 of the 2004 Act.
+
+(3) Where the AVC member wishes, from time to time, to take benefits under the AVC scheme the AVC member must give notice in writing to the scheme manager.
+
+(4) A notice under paragraph (3) must specify—
+
+- (a) the proportion of the AVC member’s benefits referred to in paragraph (1) to which the notice relates;
+- (b) the AVC member’s preference as to the benefits to be provided under paragraph (2) in relation to that proportion; and
+- (c) if the AVC member wishes a combination of benefits to be provided, what proportion of the AVC scheme assets the AVC member wishes to be allocated to each type of benefit.
+
+## 13. Death in service[^key-cb5d41e169cc80bc3e00a9456042056c]
+
+(1) Where an AVC member is an active member at the date of their death, any lump sum payable under the AVC scheme must be paid to the person (if any) nominated by that AVC member for the purposes of this paragraph by notice in writing to the scheme manager.
+
+(2) If no such nomination is made, the scheme manager must pay the lump sum to the personal representatives of the AVC member.
+
+## 14. Transfers out[^key-c3394306fa157d9361b4491e29cf05cd]
+
+(1) An AVC member may cease to be a member of the AVC scheme in relation to all or part of the AVC scheme assets at any time before those assets are used under regulation 12 by requesting the scheme manager (in such manner as may, subject to Chapters 1 and 2 of Part 4ZA of the Pension Schemes Act 1993[^f00010] or to Chapters 1 and 2 of Part 4ZA of the Pension Schemes (Northern Ireland) Act 1993[^f00011], be specified by the scheme manager) to take one of the actions in paragraphs (2)(a) to (d).
+
+(2) The actions are—
+
+- (a) to transfer all or part of the AVC scheme assets to any other registered scheme or a qualifying recognised overseas pension scheme in which the person is participating (provided that the other pension scheme is willing and able to accept such a transfer value);
+- (b) to use all or part of the AVC scheme assets to purchase one or more insurance policies of the type described in section 95(2)(c) of the Pension Schemes Act 1993 or section 91(2)(c) of the Pension Schemes (Northern Ireland) Act 1993;
+- (c) to pay the AVC member the value of the AVC scheme assets if the AVC member’s pensionable service, together with any service whilst an AVC member of another registered scheme from which a transfer value has been paid to the AVC scheme or the 2015 scheme, is less than 2 years;
+- (d) to use all or part of the AVC scheme assets in any other way which is not an unauthorised payment within the meaning of section 160(5) of the 2004 Act[^f00012].
+
+## 15. Tax[^key-43caa5cb4a5ce84dddd16e97e325e9d4]
+
+Whenever the scheme manager is liable to pay any tax in respect of any payment made to the AVC member under these Regulations, the scheme manager shall deduct sums equal in total to such tax from the realisable value of any investments made by the authorised provider with the AVC member’s scheme contributions and any transfer payment accepted in relation to the AVC member’s accrued rights under regulation 10.
+
+## 16. Administrative expenses[^key-07f5a78dcc44b69e8f96a299338c1c43]
+
+Any administrative expenses incurred by the authorised provider by virtue of acting as such under these Regulations may be defrayed, to the extent agreed by the scheme manager, out of the realisable value of any investments made by the authorised provider in respect of the AVC member under regulation 11.
+
+## 17. Consequential amendment[^key-c9cbb5764c7dff143de4ee9577f5c355]
+
+For the definition of “Judicial Additional Voluntary Contributions Scheme” in regulation 140 of the 2015 regulations substitute—
+
+> - “Judicial Additional Voluntary Contributions Scheme*”* means the additional voluntary contribution scheme constituted under Part 2 of the Judicial Pensions (Additional Voluntary Contributions) Regulations 1995 or the additional voluntary contribution scheme constituted by the Judicial Pensions (Additional Voluntary Contributions) Regulations 2017;”.
+
+## 18. Determination of questions[^key-337da50e1281d7613f43e9f3ab5d60c3]
+
+(1) Any question arising under the AVC scheme is to be determined by the scheme manager.
+
+(2) The scheme manager must, in consultation with the Judicial Pension Board, establish a procedure for the determination of disputes relating to AVC members or other persons with an interest in the AVC scheme.
+
+(3) A procedure established under paragraph (2) must meet the requirements of section 50 (requirement for dispute resolution arrangements) of the Pensions Act 1995[^f00013].
+
+Elizabeth Truss
+
+Lord Chancellor
+
+30th March 2017
+
+We consent
+
+David Evennett
+
+Andrew Griffiths
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+29th March 2017
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the payment by members of the pension scheme constituted under the Judicial Pensions Regulations 2015 ([S.I. 2015/182](https://www.legislation.gov.uk/uksi/2015/182)) of additional voluntary contributions. The Regulations will apply to persons who hold the judicial offices specified in the Public Service Pensions Act 2013 (Judicial Offices) Order 2015 ([S.I. 2015/580](https://www.legislation.gov.uk/uksi/2015/580)), which includes some offices with a jurisdiction exercised exclusively in relation to Scotland.
+
+Regulation 3 provides for the establishment and scope of the scheme.
+
+Regulations 4 and 5 make provision about the administration of the scheme (and in particular that it will be managed by the Lord Chancellor and that the Judicial Pension Board is to exercise equivalent functions in relation to this scheme).
+
+Regulations 6 to 11 make provision about participation in the scheme including who may become a member of the scheme, the information required to be provided by such members and its use and the manner in which contributions can be made to the scheme.
+
+Regulation 12 makes provision about the benefits which may be provided.
+
+Regulation 13 determines what may be done with a lump sum in the event of the death of a member.
+
+Regulation 14 makes provision as to transfers out of the scheme.
+
+Regulation 15 and 16 make provision as to deduction for tax and administrative expenses.
+
+Regulation 17 makes a consequential amendment to the 2015 regulations.
+
+Regulation 18 provides for how questions that might arise under this AVC scheme are to be dealt with.
+
+A full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2013 c. 25](https://www.legislation.gov.uk/ukpga/2013/25).
+
+[^key-851cd91844af6402fdc83cfe8d27a045]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+
+[^key-a81babf26304030935439173580f41a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/512/regulation/2) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+
+[^key-d8fcd55f0f6680eea4750c06ba192dc6]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/512/regulation/2) renumbered as reg. 2(1) (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/2/2/a)
+
+[^f00002]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
+
+[^f00003]: Footnote: [S.I. 2015/182](https://www.legislation.gov.uk/uksi/2015/182).
+
+[^key-2003d86afd721d55ad58ff4f3f056d32]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/512/regulation/2) inserted (1.4.2022) by [The Judicial Pensions Regulations 2022 (S.I. 2022/319)](https://www.legislation.gov.uk/uksi/2022/319), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4), [Sch. 3 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2022/319/schedule/3/paragraph/5/2/a) (with [reg. 120](https://www.legislation.gov.uk/uksi/2022/319/regulation/120))
+
+[^key-fae690be36cc54bdea5dd813a45b7b95]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/512/regulation/2/1) substituted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/2/2/b)
+
+[^f00004]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11); section 1(9) was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) Part. 3, article 106(3) and the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), Schedule 18(2), paragraph 35.
+
+[^f00005]: Footnote: [S.I. 1995/639](https://www.legislation.gov.uk/uksi/1995/639), as amended by [S.I. 1996/52](https://www.legislation.gov.uk/uksi/1996/52), [2000/342](https://www.legislation.gov.uk/uksi/2000/342), [2005/2506](https://www.legislation.gov.uk/uksi/2005/2506), [2005/3325](https://www.legislation.gov.uk/uksi/2005/3325), [2006/747](https://www.legislation.gov.uk/uksi/2006/747), [2007/1898](https://www.legislation.gov.uk/uksi/2007/1898), [2012/516](https://www.legislation.gov.uk/uksi/2012/516), and the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8).
+
+[^f00006]: Footnote: Amended by the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) Part 1, Chapter 4, section 53(5)(a).
+
+[^f00007]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
+
+[^key-48dbb4c1d4949b630cc9c58e97c78c99]: Textual amendment: [Reg. 2(2)-(5)](https://www.legislation.gov.uk/uksi/2017/512/regulation/2/2) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/2/2/c)
+
+[^key-b0a67920fc7c1575d0af3e999b1fa2ee]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/512/regulation/3) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+
+[^key-ac3a0bc5ec3d83f6d09f080c415d18d2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/512/regulation/4) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+
+[^key-eb89e36384f48018a4f4395021b4cfaf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/512/regulation/5) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+
+[^key-028492904d74df249ab0a7225551bef2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/512/regulation/6) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+
+[^key-18db79aaa22130f1c0cecbc85ca87d32]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/512/regulation/7) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+
+[^key-c5e29fb529732992e6a9de0798f5dd92]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/512/regulation/8) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+
+[^key-225efff3d27ee2d00378286b3eab45b5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2017/512/regulation/9) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+
+[^f00008]: Footnote: Part of section 190 was repealed by the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29).
+
+[^key-b0cc725df8aaec63577179ebe6b0a78f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2017/512/regulation/10) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+
+[^f00009]: Footnote: Amended by the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), Schedule 10, paragraph 36, Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), Schedule 16(2), paragraph 66(a) and (b), Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), Part 1, Chapter 4, section 53(3), (4), (5), (6) and (7), Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), Schedule 1(7), paragraph 92, Schedule 7, paragraph 23(a), and the Taxation of Pensions Act [2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), Schedule 1(1), paragraph 8, Schedule 1(7), paragraph 92 and Schedule 2(1), paragraph 4.
+
+[^key-694cad447a5f8e1d15588730b28bb14d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2017/512/regulation/11) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+
+[^key-8b04572b69ecc1d5802688054101b460]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2017/512/regulation/12) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+
+[^key-cb5d41e169cc80bc3e00a9456042056c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2017/512/regulation/13) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+
+[^key-c3394306fa157d9361b4491e29cf05cd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2017/512/regulation/14) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+
+[^f00010]: Footnote: [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8); Part 4, Chapters 4 and 5 were renumbered as Part 4ZA Chapters 1 and 2 by Part 1 of Schedule 4 to the Pension Schemes Act [2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8).
+
+[^f00011]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); Part 4, Chapters 4 and 5 were renumbered as Part 4ZA chapters 1 and 2 by paragraph 50 of Part 2 of Schedule 4 to the Pension Schemes Act [2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8).
+
+[^f00012]: Footnote: Sections 160(2) and (4) relevant to this definition were amended by the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25) and the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
+
+[^key-43caa5cb4a5ce84dddd16e97e325e9d4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2017/512/regulation/15) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+
+[^key-07f5a78dcc44b69e8f96a299338c1c43]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2017/512/regulation/16) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+
+[^key-c9cbb5764c7dff143de4ee9577f5c355]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2017/512/regulation/17) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+
+[^key-337da50e1281d7613f43e9f3ab5d60c3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2017/512/regulation/18) in force at 1.4.2017 in accordance with, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/512/regulation/1)
+
+[^f00013]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26) Section 50 was substituted by section 273 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) and section 16 of the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22)

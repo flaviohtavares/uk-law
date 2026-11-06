@@ -1,0 +1,189 @@
+---
+title: The Equality Act 2010 (Work on Ships and Hovercraft) Regulations 2011
+id: uksi/2011/1771
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-07-18'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2011/1771
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/1771/pdfs/uksiem_20111771_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1771/pdfs/uksi_20111771_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1771/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Equality Act 2010 (Work on Ships and Hovercraft) Regulations 2011
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2011 No. 1771
+
+Equality
+
+Employment And Training
+
+The Equality Act 2010 (Work on Ships and Hovercraft) Regulations 2011
+
+Made
+
+18th July 2011
+
+Coming into force
+
+1st August 2011
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 81, 207(1) and (4)(b) and 212(1) [^c20951391] of the Equality Act 2010 [^c20951401].
+
+In accordance with section 208(4), (5)(c) and (8) of that Act, a draft of these Regulations was laid before, and approved by a resolution of, each House of Parliament.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Equality Act 2010 (Work on Ships and Hovercraft) Regulations 2011 and come into force fourteen days after the day on which they are made.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Equality Act 2010;
+- “**British citizen**” has the same meaning as in the British Nationality Act 1981 [^c20951411];
+- “**designated state**” means the countries of the African, Caribbean and Pacific Group of States, the Kingdom of Morocco, Montenegro, the Most Serene Republic of San Marino, the People's Democratic Republic of Algeria, the Principality of Andorra, the Republic of Albania, the Republic of Croatia, the Republic of Macedonia, the Republic of Tunisia, the Republic of Turkey, the Russian Federation or the Swiss Confederation;
+- “**United Kingdom ship**” means a ship registered in the United Kingdom under Part II of the Merchant Shipping Act 1995 [^c20951421], and
+- “**United Kingdom waters**” means the sea or other waters within the seaward limits of the territorial sea of the United Kingdom.
+
+(2) For the purposes of regulations 3(3)(c) and 4(2)(b)—
+
+- (a) the legal relationship of the seafarer's employment is located within Great Britain if the contract under which the seafarer is employed—
+  - (i) was entered into in Great Britain; or
+  - (ii) takes effect in Great Britain,
+- (b) whether the legal relationship of the seafarer's employment retains a sufficiently close link with Great Britain is to be determined by reference to all relevant factors including—
+  - (i) where the seafarer is subject to tax;
+  - (ii) where the employer or principal is incorporated;
+  - (iii) where the employer or principal is established;
+  - (iv) where the ship or hovercraft on which the seafarer works is registered.
+
+## 3. Application of Part 5 of the Act to seafarers working wholly or partly in Great Britain and adjacent waters
+
+(1) Part 5 of the Act applies to a seafarer who works wholly or partly within Great Britain (including United Kingdom waters adjacent to Great Britain) if the seafarer is on—
+
+- (a) a United Kingdom ship and the ship's entry in the register maintained under section 8 of the Merchant Shipping Act 1995 specifies a port in Great Britain as the ship's port of choice, or
+- (b) a hovercraft registered in the United Kingdom and operated by a person whose principal place of business, or ordinary residence, is in Great Britain.
+
+(2) Part 5 of the Act, except in relation to the protected characteristic of marriage and civil partnership, also applies to a seafarer who works wholly or partly within Great Britain (including United Kingdom waters adjacent to Great Britain) and who is on—
+
+- (a) a ship registered in or entitled to fly the flag of an EEA State other than the United Kingdom, or
+- (b) a hovercraft registered in an EEA State [^key-55efe08c7d0bf6dfe147e553b1650451]...,
+
+if paragraph (3) applies.
+
+(3) This paragraph applies if—
+
+- (a) the ship or hovercraft is in United Kingdom waters adjacent to Great Britain,
+- (b) the seafarer is a British citizen, or a national of an EEA State [^key-55efe08c7d0bf6dfe147e553b1650451]... or of a designated state, and
+- (c) the legal relationship of the seafarer's employment is located within Great Britain or retains a sufficiently close link with Great Britain.
+
+## 4. Application of Part 5 of the Act to seafarers working wholly outside Great Britain and adjacent waters
+
+(1) Part 5 of the Act applies to a seafarer who works wholly outside Great Britain and United Kingdom waters adjacent to Great Britain if the seafarer is on—
+
+- (a) a United Kingdom ship and the ship's entry in the register maintained under section 8 of the Merchant Shipping Act 1995 specifies a port in Great Britain as the ship's port of choice, or
+- (b) a hovercraft registered in the United Kingdom and operated by a person whose principal place of business, or ordinary residence, is in Great Britain,
+
+and paragraph (2) applies.
+
+(2) This paragraph applies if—
+
+- (a) the seafarer is a British citizen, or a national of an EEA State [^key-7cf1e7762052df461a3b303106670808]... or of a designated state, and
+- (b) the legal relationship of the seafarer's employment is located within Great Britain or retains a sufficiently close link with Great Britain.
+
+## 5. Differentiation in relation to pay
+
+It is not a contravention of section 39(1)(b) or (2)(a) or 41(1)(a) of the Act, as applied by regulations 3 and 4, for an employer or principal to offer to pay or to pay a person (A) at a lower rate than that at which the employer or principal offers to pay or pays another person (B) because A is of a different nationality from B, if—
+
+- (a) A—
+  - (i) applied for work as a seafarer, or
+  - (ii) was recruited as a seafarer,
+
+  outside Great Britain, and
+- (b) A is not—
+  - (i) a British Citizen,
+  - (ii) a national of an[^key-2691f66cca75775f7a56777f959666ee] EEA State, or
+  - (iii) a national of a designated state.
+
+## 6. Review
+
+(1) Before the end of each review period, the Secretary of State must—
+
+- (a) carry out a review of regulations 3 to 5,
+- (b) set out the conclusions of the review in a report, and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how—
+
+- (a) Council Directive [2000/43/EC](https://www.legislation.gov.uk/european/directive/2000/0043) of 29 June 2000 implementing the principle of equal treatment between persons irrespective of racial or ethnic origin [^c20951431],
+- (b) Council Directive [2000/78/EC](https://www.legislation.gov.uk/european/directive/2000/0078) of 27 November 2000 establishing a general framework of equal treatment in employment and occupation [^c20951441], and
+- (c) Directive [2006/54/EC](https://www.legislation.gov.uk/european/directive/2006/0054) of the European Parliament and of the Council of 5 July 2006 on the implementation of the principle of equal opportunities and equal treatment of men and women in matters of employment and occupation (recast) [^c20951451],
+
+are implemented in other member States in relation to work on ships and hovercraft and seafarers.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by applying Part 5 of the Act to work on ships and hovercraft and seafarers,
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved by imposing less regulation.
+
+(4) “**Review period**” means—
+
+- (a) the period of five years beginning with the day on which these Regulations come into force, and
+- (b) subject to paragraph (5), each successive period of five years.
+
+(5) If a report under this regulation is published before the last day of the review period to which it relates, the following review period is to begin with the day on which that report is published.
+
+Signed by authority of the Secretary of State for Transport
+
+Mike Penning
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+*(This note is not part of the Regulations)*
+
+These Regulations prescribe the circumstances in which Part 5 of the Equality Act 2010 (c.15) (Work) applies to seafarers working on United Kingdom ships and hovercraft (*regulations 3(1) and 4*), or on ships and hovercraft from other EEA States (*regulation 3(2) and (3)*).
+
+The Regulations provide that it is not unlawful to differentiate in relation to pay where a person applied for work as a seafarer outside Great Britain or was recruited as a seafarer outside Great Britain and is not a British Citizen or a national of another EEA State or designated state *(regulation 5).*
+
+These Regulations require the Secretary of State to review the operation and effect of these Regulations and publish a report setting out the conclusions of that review within five years after they come into force and within every five years after that. Following a review it will fall to the Secretary of State to consider whether the Regulations should remain as they are, or be revoked or be amended. A further instrument will be needed to revoke these Regulations or to amend them *(regulation 6).*
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Department for Transport, Great Minster House, 76 Marsham Street, London SW1P 4DR, and is annexed to the Explanatory Memorandum which is available alongside these Regulations at www.legislation.gov.uk. A copy has been placed in the library of each House.
+
+## Annotations
+
+[^c20951391]: Marginal citation: *See* the definition of “prescribed”.
+
+[^c20951401]: Marginal citation: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
+
+[^c20951411]: Marginal citation: [1981 c.61](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^c20951421]: Marginal citation: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^key-55efe08c7d0bf6dfe147e553b1650451]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2011/1771/regulation/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1771/regulation/3/3) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 22(2)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/22/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7cf1e7762052df461a3b303106670808]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2011/1771/regulation/4/2/a) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 22(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/22/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2691f66cca75775f7a56777f959666ee]: Textual amendment: Word in [reg. 5(b)(ii)](https://www.legislation.gov.uk/uksi/2011/1771/regulation/5/b/ii) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 22(4)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/22/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20951431]: Marginal citation: O.J. No. L.180, 19.7.2000, p.22.
+
+[^c20951441]: Marginal citation: O.J. L. 303, 2.12.2000, p.16.
+
+[^c20951451]: Marginal citation: O.J. L. 204, 26.7.2006 p.23.

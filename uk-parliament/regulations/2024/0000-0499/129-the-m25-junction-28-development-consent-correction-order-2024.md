@@ -1,0 +1,97 @@
+---
+title: The M25 Junction 28 Development Consent (Correction) Order 2024
+id: uksi/2024/129
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2024-02-06'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2024/129
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2024/129/pdfs/uksi_20240129_en.pdf
+- http://www.legislation.gov.uk/uksi/2024/129/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The M25 Junction 28 Development Consent (Correction) Order 2024
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2024 No. 129
+
+Infrastructure Planning
+
+The M25 Junction 28 Development Consent (Correction) Order 2024
+
+Made
+
+6th February 2024
+
+Coming into force
+
+7th February 2024
+
+The M25 Junction 28 Development Consent Order 2022[^f00001] (“**the 2022 Order**”) which granted development consent within the meaning of the Planning Act 2008[^f00002] (“**the Act**”) contains correctable errors within the meaning of paragraph 1 of Schedule 4 to the Act.
+
+In accordance with paragraph 1(5)(a) of Schedule 4 to the Act, before the end of the relevant period as defined in paragraph 1(6)(a) of Schedule 4 to the Act, the Secretary of State received a written request from the applicant[^f00003] for the correction of errors and omissions in the 2022 Order.
+
+In accordance with paragraph 1(7) of Schedule 4 to the Act, the Secretary of State has informed the local planning authority for the area in which the land to which the 2022 Order relates is situated as the relevant planning authority, that the request has been received.
+
+The Secretary of State, in exercise of the powers conferred by section 119 of, and paragraph 1(4) and (8) of Schedule 4 to, the Act, makes the following Order:
+
+## 1. Citation and commencement
+
+This Order may be cited as the M25 Junction 28 Development Consent (Correction) Order 2024 and comes into force on 7th February 2024.
+
+## 2. Corrections
+
+The M25 Junction 28 Development Consent Order 2022 is corrected as set out in the table in the Schedule to this Order, where—
+
+- (a) column 1 sets out where the correction is to be made;
+- (b) column 2 sets out how the correction is to be made; and
+- (c) column 3 sets out the text to be substituted, inserted or omitted.
+
+Signed by authority of the Secretary of State for Transport
+
+Gareth Leigh
+
+Head of Transport and Works Act Orders Unit
+
+Department for Transport
+
+6th February 2024
+
+## SCHEDULE
+
+Article 2
+
+| *(1)*<br>*Where the correction is to be made* | *(2)*<br>*How the correction is to be made* | *(3)*<br>*Text to be substituted, inserted or omitted (if any)* |
+| --- | --- | --- |
+| Article 2 (interpretation) – definition of “CEMP” | After “requirement 4” for “(construction environmental management plans)” substitute | “(construction environmental management plan)” |
+| Article 9(1) (consent to transfer benefit of Order) | For “Subject to paragraph (4),” substitute | “Subject to paragraphs (4) and (5),” |
+| Article 10(1) (application of the 1991 Act) | After “Part 3” insert | “(street works in England and Wales)” |
+| Article 11(2) (construction and maintenance of new, altered or diverted streets and other structures) | After “the altered or diverted part of the highway” delete “must, be” and substitute | “must be” |
+| Article 11(3) (construction and maintenance of new, altered or diverted streets and other structures) | After “to the reasonable satisfaction of the street” for “authority,” substitute | “authority” |
+| Schedule 2 (requirements), paragraph 1 (interpretation), definition of “Preliminary Environmental Design” | For “certified by the Secretary of State as the Preliminary Environmental Design for the purposes of this Order” substitute | “comprised within Figure 2.2 of the Environmental Statement” |
+| Schedule 2 (requirements), requirement 3(3) (detailed design) | After “design of the bridges and” insert | “any significant” |
+| Schedule 9 (protective provisions), Part 7 (for the protection of Transport for London), paragraph 71 (Interpretation), definition of “Commuted Sum” | After “of this Part” insert | “and that calculation must take into account any savings to Transport for London’s future highways assets maintenance costs arising from the carrying out of the authorised development” |
+| Schedule 10 (document to be certified) | The row relating to the document “Outline Landscape and Ecology Management and Monitoring Plan”, in column (2) for “R010029/APP/6.3” substitute | “TR010029/APP/6.3” |
+| Schedule 10 (documents to be certified) | The row relating to the document “Preliminary Environmental Design” omit | The entire row |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order corrects errors and omissions in the M25 Junction 28 Development Consent Order 2022, a development consent order made under the Planning Act 2008, following a request under paragraph 1(5)(a) of Schedule 4 to that Act.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2022/573](https://www.legislation.gov.uk/uksi/2022/573).
+
+[^f00002]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). Paragraph 1 of Schedule 4 was amended by section 128(2) of, and paragraph 70 of Schedule 13 and Part 20 of Schedule 25 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20). There are other amendments to paragraph 1 that are not relevant to this Order.
+
+[^f00003]: Footnote: The term “applicant” is defined in paragraph 4 of Schedule 4 to the Act.

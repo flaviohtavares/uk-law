@@ -1,0 +1,74 @@
+---
+title: The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019, section 156
+act: The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019
+section: '156'
+status: revised
+text_date: '2021-08-03'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/775/section/156
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019, section 156
+
+> Text as at 2021-08-03.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 156. Insertion of new regulation 196A (major safety review by the licensing authority)[^key-35b861a016d9bae49cc4092985834b36][^key-be46233b99c9e5ecf11e9c677d34a7a0]
+
+*Extent: E+W+S+N.I.*
+
+After regulation 196 insert[^key-f65f4e566f8845fafd4bb76ab99ea440] substitute—
+
+> **...[^key-d8ceb175f5cea67bc0a930953bf2bac8]**
+>
+> **196A. Major safety review by the licensing authority[^key-414e5c7fb2fba14c360f757eacf8120d]**
+>
+> (1) The licensing authority may conduct a major safety review where—
+>
+> - (a) on the basis of concerns resulting from the evaluation of data from pharmacovigilance activities it considers—
+>   - (i) suspending or revoking a UK marketing authorisation or traditional herbal registration of a medicinal product or in respect of a class of medicinal products,
+>   - (ii) prohibiting the supply of a medicinal product or a class of medicinal products,
+>   - (iii) refusing the renewal of a UK marketing authorisation or traditional herbal registration, or
+>   - (iv) action is necessary to vary a UK marketing authorisation or traditional herbal registration or a class of such authorisations or registrations, including to impose new conditions; or
+> - (b) it is informed by a holder that, on the basis of safety concerns, the holder has—
+>   - (i) interrupted the sale or supply, or offer of sale or supply, of the product to which a UK marketing authorisation or traditional herbal registration relates,
+>   - (ii) taken action to have that product's authorisation or registration cancelled or intends to do so, or
+>   - (iii) not applied for the renewal of that product's authorisation or registration.
+>
+> (2) If the licensing authority conducts a review under paragraph (1), it must—
+>
+> - (a) announce the initiation of that review on the UK web-portal as soon as reasonably practicable;
+> - (b) include in that announcement—
+>   - (i) an outline of its reasons for conducting a major safety review, the medicinal products concerned and, where applicable, the active substances concerned, and
+>   - (ii) the proposed structure and time-scale of the review;
+> - (c) notify a holder if the product to which that holder's authorisation or registration relates is within the scope of the review; and
+> - (d) publish the outcome of that review, including any recommendations it is making, or action it is proposing to take, as soon as reasonably practicable after the conclusion of that review.
+>
+> (3) A holder who is notified under paragraph (2)(c)—
+>
+> - (a) must provide to the licensing authority such information as the licensing authority notifies that holder it requires, within such time period as the licensing authority specifies; and
+> - (b) may, where such information contains confidential data relevant to the subject matter of the review, because the data relates to a manufacturing process or trade secret, notify the licensing authority that that data is provided in confidence.
+>
+> (4) Where the licensing authority proposes that action should be taken in respect of any UK marketing authorisation or traditional herbal registration—
+>
+> - (a) during the conduct of the major safety review, because urgent action is necessary to protect public health; or
+> - (b) upon the conclusion of such a review,
+>
+> it may exercise its powers under Part 5 or 7 (as the case may be) in relation to that authorisation or registration.
+
+.
+
+## Annotations
+
+[^key-35b861a016d9bae49cc4092985834b36]: Commencement: Reg. 156 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-be46233b99c9e5ecf11e9c677d34a7a0]: Textual amendment: Reg. 156 heading substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 124(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/124/a)
+
+[^key-f65f4e566f8845fafd4bb76ab99ea440]: Textual amendment: Words in reg. 156 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 124(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/124/b)
+
+[^key-d8ceb175f5cea67bc0a930953bf2bac8]: Textual amendment: Words in reg. 156 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 124(c)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/124/c/i)
+
+[^key-414e5c7fb2fba14c360f757eacf8120d]: Textual amendment: Words in reg. 156 renumbered (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 124(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/124/c/ii)

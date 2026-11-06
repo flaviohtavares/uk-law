@@ -1,0 +1,1031 @@
+---
+title: The Marriage of Same Sex Couples (Conversion of Civil Partnership) Regulations 2014
+id: uksi/2014/3181
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-11-29'
+text_date: '2021-07-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2014/3181
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/3181/pdfs/uksiem_20143181_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/3181/pdfs/uksi_20143181_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/3181/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Marriage of Same Sex Couples (Conversion of Civil Partnership) Regulations 2014
+
+> Text as at 2021-07-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2014 No. 3181
+
+Registration Of Births, Deaths And Marriages, Etc. England And Wales
+
+The Marriage of Same Sex Couples (Conversion of Civil Partnership) Regulations 2014
+
+Made
+
+29th November 2014
+
+Coming into force
+
+10th December 2014
+
+The Secretary of State, in exercise of the powers conferred by sections 9(1), (2), (4), (5) and 18(4)(a) and (c) of the Marriage (Same Sex Couples) Act 2013[^f00001], makes the following Regulations:
+
+In accordance with section 18(2)(b) and (c) of that Act a draft of these Regulations was laid before and approved by a resolution of each House of Parliament.
+
+## PART 1 — Introductory[^key-64b372adb5af8b214ffc1914c01110b8]
+
+*Extent: E+W+N.I.*
+
+### 1. Citation and commencement[^key-e9c393478491c5216fe1bd58fa9f8cba]
+
+These Regulations may be cited as the Marriage of Same Sex Couples (Conversion of Civil Partnership) Regulations 2014 and come into force on 10th December 2014.
+
+### 2. Interpretation[^key-91c84b97d1041b3a2e9555b577f5f360]
+
+In these Regulations—
+
+- “the 1949 Act” means the Marriage Act 1949[^f00002];
+- “the 2004 Act” means the Civil Partnership Act 2004[^f00003];
+- “the 2013 Act” means the Marriage (Same Sex Couples) Act 2013;
+- “appropriate fee” means the fee set out in the Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016;[^key-f2fc390c49b2fb846f72be6707ceb41b]
+- “authorised person”, in relation to a conversion in a country or territory outside the United Kingdom, means a person authorised by the commanding officer of any of Her Majesty’s forces in that country or territory to conduct that conversion or conversions generally;
+- “civil partnership” (except in the definition of “convertible Northern Ireland civil partnership”)[^key-74a4bc661ac5cb554d34210c5e6e3932] means a civil partnership which —[^key-a284a7a761ddecd62b52f8ebec217a53]
+  - (a) is between two people who are of the same sex, and
+  - (b) is either an England and Wales civil partnership, or a civil partnership within section 9(3) of the 2013 Act ,[^key-42e425e606b7f1e4365aa98620179e05]
+
+    and, in Parts 3 and 4 of these Regulations, also includes a convertible Northern Ireland civil partnership between two people who are of the same sex;
+- “civil partnership register” means—
+  - (i) in the case of an England and Wales civil partnership, the register referred to in section 30(4) of the 2004 Act;
+  - (ii) in the case of a civil partnership registered in accordance with the Civil Partnership (Registration Abroad and Certificates) Order 2005, the register referred to in article 16 of that Order[^f00004];
+  - (iii) in the case of a civil partnership registered in accordance with the Civil Partnership (Armed Forces) Order 2005[^f00005], the register referred to in article 2(2) of the Service Departments Registers Order 1959[^f00006];
+- “conversion” means the conversion of a civil partnership into a marriage under section 9 of the 2013 Act and, in Parts 3 and 4 of these Regulations and in the definition of “authorised person” in this regulation, also includes the conversion of a convertible Northern Ireland civil partnership into a marriage[^key-41e704a3ed4839e1794d994ae68385b2];
+- “conversion declaration”—
+  - (i) in Part 2 of these Regulations, has the meaning given in regulation 3(2);
+  - (ii) in Part 3 of these Regulations, has the meaning given in regulation 32(1);
+  - (iii) in Part 4 of these Regulations, has the meaning given in regulation 39(1);
+- “conversion register” has the meaning given in regulation 22(1);
+- “convertible Northern Ireland civil partnership” means—[^key-e4624863a82ac1a906a0a5900961453a]
+  - (a) a civil partnership formed by two people registering as civil partners of each other in Northern Ireland under Part 4 of the Civil Partnership Act 2004,
+  - (b) a civil partnership formed by two people registering as civil partners of each other under the Civil Partnership (Registration Abroad and Certificates) Order 2005 (registration at British consular premises abroad) if Northern Ireland was the relevant part (as defined by article 4(5) of the Order) of the United Kingdom, or
+  - (c) a civil partnership formed by two people registering as civil partners of each other under the Civil Partnership (Armed Forces) Order 2005 (registration abroad where at least one party has armed-forces connection) if Northern Ireland was the part of the United Kingdom identified under article 5 of the Order;
+- “England and Wales civil partnership” has the same meaning as in section 9(7) of the 2013 Act;
+- “Her Majesty’s forces” has the same meaning as in the Armed Forces Act 2006[^f00007];
+- “local authority” means—
+  - (i) a county council in England;
+  - (ii) a district council in England for an area without a county council;
+  - (iii) a London borough council;
+  - (iv) the Common Council of the City of London;
+  - (v) the Council of the Isles of Scilly;
+  - (vi) a county or county borough council in Wales;
+- “occupation” includes rank or profession;[^key-05f39a2ae1f5b36157f89a8b44659b51]
+- “register office” means a register office provided under section 10 of the Registration Service Act 1953[^f00008];
+- “registration authority” has the same meaning as in section 28 of the 2004 Act;
+- “registration district” means a registration district within the meaning of section 5 of the Registration Service Act 1953[^f00009];
+- “registration officer” has the same meaning as in paragraph 6 of Schedule 6 to the 2013 Act;
+- “relevant civilian” means a person who is a relevant civilian for the purposes of Part 3 of Schedule 6 to the 2013 Act and any Order in Council made under that Part;
+- “United Kingdom national” has the same meaning as in paragraph 15 of Schedule 6 to the 2013 Act.
+
+## PART 2 — Conversion in England and Wales
+
+### 3. Conversion declaration[^key-c5cb30eccf7332179ea6ce19cd1b7180]
+
+(1) The parties to a civil partnership are to be regarded as having converted their civil partnership to a marriage when, having followed one of the procedures mentioned in regulation 5—
+
+- (a) at the invitation of the superintendent registrar, and in the presence of the superintendent registrar and of each other, each of them has signed the conversion declaration; and
+- (b) the superintendent registrar has also signed the conversion declaration in the presence of the parties.
+
+(2) In this Part of these Regulations, “conversion declaration”, in relation to a conversion, means a document containing—
+
+- (a) the information recorded by the superintendent registrar in accordance with regulation 4(1);
+- (b) a declaration in the following terms: “I solemnly and sincerely declare that we are in a civil partnership with each other and I know of no legal reason why we may not convert our civil partnership into a marriage. I understand that on signing this document we will be converting our civil partnership into a marriage and you will thereby become my lawful wife \[*or* husband\].”; and
+- (c) a declaration that the party believes that all of the information and evidence given for the purposes of the conversion is true.
+
+(3) As well as signing the conversion declaration as mentioned in paragraph (1)(a), the parties may, if they wish, say the words of the declaration in paragraph (2)(b) to each other in the presence of the superintendent registrar.
+
+### 4. Information to be provided to Superintendent Registrar[^key-963a798cce9456c0ebdb362392994fd5]
+
+(1) Before the parties to a civil partnership may convert their civil partnership into a marriage, the information in paragraphs (2) , (3) and (where relevant) (4B)[^key-e80f6fffeed0d3289ca76f99f61ddc75] must be provided by the parties in accordance with regulations 6, 7, 8, 9 or 10 (as the case may be) and recorded by the superintendent registrar on the conversion declaration in accordance with this regulation (subject to paragraphs (4D) and (5))[^key-97000ecc206f14eff0d20566a012df6e].
+
+(2) Each party must provide the following details pertaining to that party—
+
+- (a) forenames;
+- (b) surname;
+- (c) date of birth;
+- (d) sex;
+- (e)[^key-f0b566ca57cb2c9eb49d585908995f0c] current occupation or, if the party has no current occupation, former occupation (if any);
+- (f) address; and
+- (g)[^key-ae01b2ae675945a56b89a28338f60a01] subject to paragraphs (4) to (4D), each parent’s—
+  - (i) forenames and surname, and
+  - (ii) current occupation or, if the parent has no current occupation or has died, former occupation (if any).
+
+(3) The parties must jointly provide details of—
+
+- (a) the date and place of the formation of the parties’ civil partnership;
+- (b) the place at which it is proposed that the conversion declaration will be made.
+
+(4)[^key-ef377104eba4d70780b1679eb30c2706] Paragraph (4A) applies where—
+
+- (a) a party wishes the conversion declaration to record details about one or more step-parents of that party (“the nominated step-parents”) in addition to or instead of details about any parent of that party (“the relevant parent”),
+- (b) the party provides the superintendent registrar with the details required by paragraph (4B),
+- (c) those details are provided together with instructions about whether the party wishes those details to be recorded in addition to or instead of details of the relevant parent, and
+- (d) the condition in paragraph (4C) is satisfied.
+
+(4A) The superintendent registrar must—
+
+- (a) record on the conversion declaration the details provided under paragraph (4)(b) in respect of each of the nominated step-parents, in accordance with the instructions provided under paragraph (4)(c),
+- (b) record the word “step-parent” after the surname of each of the nominated step-parents on the conversion declaration,
+- (c) if informed that any of the nominated step-parents has died, record the word “deceased” after the word “step-parent” recorded after the step-parent’s name under sub-paragraph (b), and
+- (d) if provided with the former occupation of any of the nominated step-parents and informed that the step-parent has or had retired from that occupation, record the word “retired” after that occupation.
+
+(4B) The details required by this paragraph, for the purposes of paragraph (4), are the following in respect of each of the nominated step-parents—
+
+- (a) the step-parent’s forenames and surname, and
+- (b) the step-parent’s current occupation or, if the step-parent has no current occupation or has died, former occupation (if any).
+
+(4C) The condition in this paragraph is that recording on the conversion declaration, in accordance with the party’s wishes, the details about every step-parent whose details the party wishes the conversion declaration to record would not result in the details of more than four individuals in total being recorded on the conversion declaration as parents or step-parents of that party.
+
+(4D) Where the superintendent registrar is required by paragraph (4A) to record details about one or more step-parents of a party instead of details about a parent of the party, paragraph (2) does not require the party to provide any details about that parent.
+
+(4E) Where the superintendent registrar records details on the conversion declaration about the parent of a party and is informed that the parent has died, the superintendent registrar must record the word “deceased” after that parent’s name.
+
+(4F) Where the superintendent registrar records a party’s former occupation on the conversion declaration and is informed that the party has retired from that occupation, the superintendent registrar must record the word “retired” after that occupation.
+
+(4G) Where the superintendent registrar records the former occupation of a party’s parent on the conversion declaration and is informed that the parent has or had retired from that occupation, the superintendent registrar must record the word “retired” after that occupation.
+
+(5) Where it appears to the superintendent registrar that a party is unable to provide certain of the details required by paragraph (2), the superintendent registrar may convert the civil partnership without those details if it is reasonable to do so.
+
+(6) The superintendent registrar must record the date on which the information required by this regulation to be recorded on the conversion declaration[^key-b7f46a8b779be51ec869bfd9440237a1] is recorded on the conversion declaration.
+
+(7)[^key-9e3abf4458d103fae24a8766144b92e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-c3677e62f1813b1eb319ade4164ba532] In this regulation a “step-parent” of a party means a step-parent of that party who is or has been married to, or the civil partner of, a parent of that party.
+
+### 5. Conversion procedures[^key-462ead5b6db9162eca2430885fb81fbc]
+
+The parties to a civil partnership may convert their civil partnership into a marriage in accordance with, as applicable—
+
+- (a) the standard procedure (regulation 6);
+- (b) the procedure for housebound persons (regulation 7);
+- (c) the procedure for detained persons (regulation 8);
+- (d) the special procedure (which is for cases where a person is seriously ill and is not expected to recover) (regulation 9); or
+- (e) the two stage procedure (regulations 10 to 12).
+
+### 6. Standard procedure for conversion[^key-e99689b8c97fc0fc266449eb529a27b6]
+
+(1) For the parties to a civil partnership to convert their civil partnership into a marriage in accordance with the standard procedure—
+
+- (a) they must attend together in person before the superintendent registrar of a registration district to provide the information required by regulation 4(2) , (3) and (where relevant) (4B)[^key-dce32a81975b000ab9cea4843695986b];
+- (b) each party must give the superintendent registrar the evidence specified in Schedule 1 relating to the name, address and date of birth of that party;
+- (c) the parties must jointly give the superintendent registrar the evidence specified in Schedule 1 relating to the formation of their civil partnership; and
+- (d)[^key-f92fe8efe03a718c3b892735532e71d0] the parties must pay the appropriate fee to the superintendent registrar.
+
+(2) A conversion in accordance with the standard procedure must take place at a register office or any other premises provided by the local authority for the exercise of the superintendent registrar’s functions (not being premises approved for the solemnization of marriages under section 46A of the 1949 Act[^f00011]).
+
+### 7. Procedure for housebound persons[^key-4f57843b186ea1f8e76cebc61c03c69c]
+
+(1) This regulation applies if the parties to a civil partnership wish to convert their civil partnership into a marriage at the place where one of them is housebound.
+
+(2) A person is housebound at any place if, in relation to that person, a statement is made by a registered medical practitioner that, in his or her opinion—
+
+- (a) because of illness or disability, that person ought not to move or be moved from the place where he or she is at the time the statement is made; and
+- (b) it is likely to be the case for at least the following three months that because of the illness or disability that person ought not to move or be moved from that place.
+
+(3) The procedure under which the parties may convert their civil partnership into a marriage is the same as the standard procedure, except that—
+
+- (a) the details and evidence required by regulation 6(1)(a) to (c) must be accompanied by a statement made under paragraph (2) (a “medical statement”), which must have been made not more than 14 days before the day on which the medical statement is received by the superintendent registrar;
+- (b) the superintendent registrar must attend the parties together at the place at which one of the civil partners is housebound in order to convert the civil partnership;
+- (c) if the conversion does not take place within three months after the date on which the medical statement was made, the superintendent registrar may require the civil partners to provide a new medical statement before any conversion in accordance with the procedure for housebound persons;
+- (d) the fact that the superintendent registrar has received the medical statement must be recorded in the conversion register; and
+- (e)[^key-559cbe7fee4e88d7d03f31099240371a] the parties must pay the appropriate fee to the superintendent registrar.
+
+(4) A medical statement may not be made in relation to a person who is detained as described in regulation 8.
+
+### 8. Procedure for detained persons[^key-0561a1fcdd8e363e9d056787bcf5a604]
+
+(1) This regulation applies if the parties to a civil partnership wish to convert their civil partnership into a marriage at the place where one of them is detained.
+
+(2) “Detained” means detained—
+
+- (a) as a patient in a hospital (but otherwise than by virtue of section 2, 4, 5, 35, 36 or 136 of the Mental Health Act 1983[^f00012] (short term detentions)), or
+- (b) in a prison or other place to which the Prison Act 1952[^f00013] applies.
+
+(3) The procedure under which the parties may convert their civil partnership into a marriage is the same as the standard procedure, except that—
+
+- (a) the details and evidence required under regulation 6(1)(a) to (c) must be accompanied by a supporting statement, which must have been made not more than 21 days before the day on which the supporting statement is received by the superintendent registrar;
+- (b) the superintendent registrar must attend the parties together at the place identified in the supporting statement in order to convert the civil partnership;
+- (c) if the conversion of the civil partnership does not take place within three months after the day on which the supporting statement was made, the superintendent registrar may require the parties to provide a new supporting statement before any conversion in accordance with the procedure for detained persons;
+- (d) the fact that the superintendent registrar has received the supporting statement must be recorded in the conversion register; and
+- (e)[^key-72f7c6eafb23021f9a4757768fa8ad46] the parties must pay the appropriate fee to the superintendent registrar.
+
+(4) A supporting statement, in relation to a detained person, is a statement made by the responsible authority which—
+
+- (a) identifies the establishment where the person is detained; and
+- (b) states that the responsible authority has no objection to the superintendent registrar attending the establishment to convert the person’s civil partnership into a marriage.
+
+(5) “The responsible authority” means—
+
+- (a) if the person is detained in a hospital, the hospital’s managers;
+- (b) if the person is detained in a prison or other place to which the Prison Act 1952 applies, the governor or other officer for the time being in charge of that prison or other place.
+
+(6) “Patient” and “hospital” have the same meaning as in Part 2 of the Mental Health Act 1983, and “managers” in relation to a hospital, has the same meaning as in section 145(1) of that Act[^f00014].
+
+### 9. The special procedure[^key-8ffa801fa8f47ff6b77fe8d485a53ebc]
+
+(1) This regulation applies if the parties to a civil partnership wish to convert their civil partnership into a marriage under the special procedure, which applies where one of the parties is seriously ill and is not expected to recover.
+
+(2) For the parties to convert their civil partnership into a marriage in accordance with the special procedure, one of them must—
+
+- (a) attend in person before the superintendent registrar of a registration district to provide the details required by regulation 4(2) , (3) and (where relevant) (4B)[^key-eb315683f4894acfdf22206480fcf977] in respect of both parties;
+- (b) provide such evidence as the superintendent registrar may require in order to be satisfied—
+  - (i) of the name, address and date of birth of each of the parties;
+  - (ii) of the formation of their civil partnership;
+  - (iii) that one of the parties—
+    - (aa) is seriously ill and is not expected to recover;
+    - (bb) cannot be moved to a register office in England and Wales; and
+    - (cc) understands the nature and purport of signing the conversion declaration; and
+- (c)[^key-77c6e3ada105e12971a2e59e84d6d6f1] pay the appropriate fee to the superintendent registrar.
+
+(3) The certificate of a registered medical practitioner is sufficient evidence of any or all of the matters referred to in paragraph (2)(b)(iii).
+
+(4) The superintendent registrar must attend the parties at any place at which the seriously ill party referred to in paragraph (2)(b)(iii) is present in order to convert the civil partnership.
+
+(5) A conversion in accordance with the special procedure must take place within one month of the date recorded by the superintendent registrar in accordance with regulation 4(6).
+
+(6) The fact that the conversion was carried out in accordance with the special procedure must be recorded in the conversion register.
+
+### 10. The two stage procedure[^key-a8ca1e2842f88cf50f4cd866ab8e0f97]
+
+(1) This regulation and regulation 11 or 12, as the case may be, apply if the parties to a civil partnership wish to convert their civil partnership into a marriage at one of the places mentioned in regulation 11(1) or 12(1).
+
+(2) For the parties to convert their civil partnership into a marriage in accordance with this regulation and regulation 11 or 12—
+
+- (a) they must attend together in person before the superintendent registrar of a registration district to provide the information required by regulation 4(2) , (3) and (where relevant) (4B)[^key-b18fa064ad455bd47c91724d0e80cb23];
+- (b) each party must give the superintendent registrar the evidence specified in Schedule 1 relating to the name, address and date of birth of that party;
+- (c) they must jointly give the superintendent registrar the evidence specified in Schedule 1 relating to the formation of their civil partnership; and
+- (d) they must pay to the superintendent registrar the appropriate fee[^key-ed216d5ac88f99952d3109071ae3329a].
+
+(3) A conversion in accordance with this regulation and regulation 11 or 12, as the case may be, must take place within one year of the date recorded by the superintendent registrar in accordance with regulation 4(6).
+
+### 11. Conversion on secular premises[^key-dc18ac6b502b8bf2138035591fdfed4e]
+
+(1) This regulation applies if the parties to a civil partnership wish to convert their civil partnership into a marriage—
+
+- (a) in a register office (otherwise than in accordance with the standard procedure in regulation 6); or
+- (b) on premises approved for the solemnization of marriages under section 46A of the 1949 Act[^f00015] (“approved premises”).
+
+(2) The superintendent registrar referred to in regulation 10(2) must either—
+
+- (a) if the conversion is to take place in the superintendent registrar’s registration district, arrange with the parties, on payment by the parties of the fee for a conversion on secular premises (in addition to the fee payable under regulation 10(2)(d)), to attend at a place mentioned in paragraph (1) to sign the conversion declaration in accordance with regulation 3(1); or
+- (b) if the conversion is to take place in a different registration district, notify the parties and the superintendent registrar of that registration district that the requirements of regulation 10(2) are met in respect of the parties to the civil partnership.
+
+(3) On receipt of a notification under paragraph (2)(b), and on payment by the parties of the fee for a conversion on secular premises, the superintendent registrar of the registration district in which the conversion is to take place must arrange with the parties to attend at a place mentioned in paragraph (1) to sign the conversion declaration in accordance with regulation 3(1).
+
+(4) No religious service may be used at a conversion in accordance with this regulation.
+
+(5)[^key-c2ca724b9c2043973f1f239cf610c278] The fee for a conversion on secular premises referred to in paragraph (2)(a) and (3)—
+
+- (a) is payable to the superintendent registrar of the registration district in which the conversion is to take place; and
+- (b) is of an amount to be determined by the authority as reasonably representing all the costs to it of providing a superintendent registrar to attend at the conversion.
+
+(6) In this regulation,
+
+- “authority” means the local authority in whose area the register office or approved premises are situated.
+
+### 12. Conversion on religious premises[^key-1786248778a25863725955e98e30515f]
+
+(1) This regulation applies if the parties to a civil partnership wish to convert their civil partnership into a marriage—
+
+- (a) in a building registered for the solemnization of marriages of same sex couples under section 43A of the 1949 Act[^f00016], and in which a ceremony under section 46 of the 1949 Act[^f00017] is to be held in respect of the marriage immediately following the conversion;
+- (b) (except where regulations 7, 8 or 9 apply), at a place at which a ceremony according to the usages of the Jews or the Society of Friends under section 46 of the 1949 Act is to be held in respect of the marriage immediately following the conversion; or
+- (c) where at least one of the parties to a proposed conversion is a qualified person within the meaning of section 68(2) of the 1949 Act[^f00018], in a naval, military or air force chapel registered for the solemnization of marriages of same sex couples under section 70A of the 1949 Act[^f00019], and in which a ceremony under section 46 of the 1949 Act is to be held in respect of the marriage immediately following the conversion.
+
+(2) If the superintendent registrar referred to in regulation 10(2) is satisfied that the requirements section 46(1C)[^f00020] of the 1949 Act are met, the superintendent registrar must either—
+
+- (a) if the conversion is to take place in the superintendent registrar’s registration district, arrange with the parties, on payment by the parties of the appropriate[^key-11f89ef8d52e1198961e0d3705846ee3] fee for a conversion on religious premises (in addition to the fee payable under regulation 10(2)(d)), to attend at a place mentioned in paragraph (1) to sign the conversion declaration in accordance with regulation 3(1); or
+- (b) if the conversion is to take place in a different registration district, notify the parties and the superintendent registrar of that registration district that the requirements of regulation 10(2) and section 46(1C) of the 1949 Act are met in respect of the parties to the civil partnership.
+
+(3) On receipt of a notification under paragraph (2)(b), and on payment by the parties of the appropriate[^key-bd53ac768d803db65764dbe517462a88] fee for a conversion on religious premises, the superintendent registrar of the registration district in which the conversion is to take place must arrange with the parties to attend at a place mentioned in paragraph (1) to sign the conversion declaration in accordance with regulation 3(1).
+
+(4)[^key-c05a2d30b0aaa0fbb7c7b70a8c945709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The superintendent registrar (referred to in regulation 10(2) or in regulation 12(3), or both) may require—
+
+- (a) the relevant governing authority to produce evidence relating to the consent referred to in section 46(1C) of the 1949 Act; and
+- (b) the trustees or governing body of the relevant religious organisation to provide written confirmation that a ceremony under section 46 of the 1949 Act is to be held in respect of the marriage immediately following the conversion.
+
+(6) In determining if a person is a qualified person for the purposes of paragraph (1)(c), the “relevant date” for the purposes of section 68 of the 1949 Act is the date of the conversion.
+
+(7) In this regulation, “relevant governing authority” and “relevant religious organisation” have the same meaning as in section 46(1D) of the 1949 Act.
+
+### 13. Conversion followed by religious ceremony[^key-ffb853f90011825f3362601b72307d74]
+
+Where a conversion (following the procedures set out in regulations 7, 8, 9 or 10 and 12) is immediately to be followed by a ceremony under section 46 of the 1949 Act, the certificate of the parties’ marriage to be produced under section 46(1) is the signed conversion declaration.
+
+### 14. Ceremonies[^key-6cb864274942d10de1fe5bf1771ddf79]
+
+(1) A local authority may provide a service or ceremony following a conversion in such form as may be agreed with the parties, and on payment of an amount determined by the local authority as reasonably representing all the costs to it of providing the service or ceremony.
+
+(2) No religious service may be used at a service or ceremony under paragraph (1).
+
+### 15. Waiver of fees[^key-d5a505c6cf21ba70f028c79c23fc236a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^key-2b64eb2e23606b4ff3477530050ee545] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Verification and amendment of contents of conversion declaration[^key-25275a61f695edf46024269e93da1b4f]
+
+(1) Before the conversion declaration is signed by the parties, the superintendent registrar must confirm with the parties that the information entered on the declaration is complete and correct and if it is not, amend it as necessary.
+
+(2) Any amendment of the information on the conversion declaration must be initialled by the party to whom that information relates.
+
+(3) Where either of the parties sign the conversion declaration by making a mark or by signing in characters other than those used in the English or Welsh languages, the superintendent registrar must enter against the mark or signature the words “The mark (or signature) of...” inserting the forenames and surname of the party.
+
+### 18. Duty to register marriage resulting from conversion[^key-4ef3b58ed28802efdf18998ab93766e8]
+
+(1) As soon as practicable after the conversion declaration is signed, the superintendent registrar who has signed the conversion declaration in accordance with regulation 3(1)(b) must register the following details in the conversion register—
+
+- (a) the date and place of registration of the marriage (see paragraph (2));
+- (b) the date from which the marriage is to be treated as having subsisted by virtue of section 9(6) of the 2013 Act[^f00021];
+- (c) the condition of each of the parties, which is to be registered as ‘civil partner’;
+- (d) subject to paragraph (3G),[^key-e39a6cbe5df8e230f309bac9a38dcf8a] the following details pertaining to each of the parties—
+  - (i) forenames;
+  - (ii) surname;
+  - (iii)[^key-91edb5df78993dd9af413dcf5a440228] date of birth;
+  - (iv) current occupation or, where the party has no current occupation, former occupation (if any);
+  - (v) address; and
+  - (vi)[^key-dcd79448972648588330bacda231076c] subject to paragraphs (3) to (3C), each parent’s—
+    - (aa) forenames and surname, and
+    - (bb) current occupation or, if the parent has no current occupation or has died, former occupation (if any).
+
+(2) In paragraph (1)(a), the date and place of registration of the marriage means the date on, and place at which the conversion declaration is signed, whether or not the marriage was registered on that date and at that place.
+
+(3)[^key-28c8b9f381d32b4169789b00e0340a2c] Paragraph (3A) applies where—
+
+- (a) a party wishes the conversion register to record details about one or more step-parents of that party (“the nominated step-parents”) in addition to or instead of details about any parent of that party (“the relevant parent”), and
+- (b) the conditions in paragraphs (3B) and (3C) are satisfied.
+
+(3A) The superintendent registrar must—
+
+- (a) register in the conversion register the details provided under paragraph (3B)(a) in respect of each of the nominated step-parents, in accordance with the party’s wishes communicated under paragraph (3B)(b),
+- (b) enter the word “step-parent” after each step-parent’s surname in the conversion register,
+- (c) if informed that any of the nominated step-parents has died, enter the word “deceased” after the word “step-parent” entered after the step-parent’s surname under sub-paragraph (b), and
+- (d) if provided with the former occupation of any of the nominated step-parents and informed that the step-parent has or had retired from that occupation, enter the word “retired” after that occupation.
+
+(3B) The condition in this paragraph is that the superintendent registrar—
+
+- (a) is provided with the following details in respect of each of the nominated step-parents—
+  - (i) forenames and surname, and
+  - (ii) current occupation or, if the step-parent has no current occupation or has died, former occupation, and
+- (b) is informed whether the party wishes those details to be recorded in addition to or instead of the details of the relevant parent.
+
+(3C) The condition in this paragraph is that registering in the conversion register, in accordance with the party’s wishes, the details about every step-parent whose details the party wishes the register to record would not result in the details of more than four individuals in total being registered in the conversion register as parents or step-parents of that party.
+
+(3D) Where the superintendent registrar registers details in the conversion register about the parent of a party and is informed that the parent has died, the superintendent registrar must enter the word “deceased” after that parent’s name.
+
+(3E) Where the superintendent registrar registers a party’s former occupation in the conversion register and is informed that the party has retired from that occupation, the superintendent registrar must enter the word “retired” after that occupation.
+
+(3F) Where the superintendent registrar registers the former occupation of a party’s parent in the conversion register and is informed that the parent has or had retired from that occupation, the superintendent registrar must enter the word “retired” after that occupation.
+
+(3G) The superintendent registrar may omit any of the details required by paragraph (1)(d) from the conversion register where the details were not recorded on the conversion declaration and have not subsequently been provided by a party for the purposes of this regulation.
+
+(4) The parties to the conversion are entitled, once the marriage has been registered, to a certified copy of the entry relating to it in the conversion register on payment, to the superintendent registrar, of the appropriate fee[^key-f3c2fefba466ad389128721686483591].
+
+(5) A superintendent registrar must not register any marriage resulting from a conversion to which he or she is a party.
+
+(6)[^key-7f3f3530227b212b380ee21cb87f024e] In this regulation a “step-parent” of a party means a step-parent of that party who is or has been married to, or the civil partner of, a parent of that party.
+
+### 19. Completion of declaration and registration in Welsh[^key-ec6f546afb50275aafea652660435b21]
+
+The conversion declaration and the conversion register must be completed in English, and may also be completed in Welsh if—
+
+- (a) the civil partners both so elect, and provide the required details in both languages;
+- (b) the conversion takes place in Wales; and
+- (c) the superintendent registrar by whom the conversion is completed can understand and write Welsh.
+
+### 20. Verification of information and evidence[^key-f973eb90230012fd1f964ea3ea27da79]
+
+(1) A superintendent registrar may obtain from the persons mentioned in paragraph (2), information relating to persons seeking to convert a civil partnership for the purposes mentioned in paragraph (3).
+
+(2) The persons from whom information may be obtained are—
+
+- (a) the superintendent registrar of any registration district in England and Wales;
+- (b) any registration authority;
+- (c) the Registrar General.
+
+(3) The purposes for which information may be obtained are—
+
+- (a) to verify the formation and existence of the civil partnership;
+- (b) to verify any of the information and evidence provided by the civil partners.
+
+(4) A superintendent registrar may interview each of the persons seeking to convert a civil partnership into a marriage individually.
+
+(5) Nothing in this regulation limits any other power under which information may be disclosed or obtained.
+
+### 21. Duty to annotate civil partnership records[^key-1cde868082ef2d0f322e1cb06d5883b9]
+
+(1) As soon as practicable after a marriage is registered in accordance with regulation 18(1), or the Registrar General is notified of a conversion under Part 3 or 4 of these Regulations, the Registrar General must ensure that any records of the civil partnership held by the Registrar General (which does not include the indexes made under regulation 17(1) of the Civil Partnership (Registration Provisions) Regulations 2005[^f00022]), are annotated with the date and place of the conversion.
+
+(2) After a marriage is registered in accordance with regulation 18(1), or the Registrar General is notified of a conversion under Part 3 or 4 of these Regulations, the Registrar General or a registration authority may not issue any of the certified copies [^key-d33681204185295f7536be65552eff8a]... within paragraph (3) relating to a civil partnership that has been converted into a marriage, unless the copies [^key-363e925abbc65c72efd4a952bf2350af]... include the annotation made under paragraph (1).
+
+(3) Paragraph (2) applies to—
+
+- (a) any certified copy [^key-817ea4caa82aea1f6274664c03b15f25]... of an entry in the civil partnership register issued pursuant to regulation 13 of the Civil Partnership (Registration Provisions) Regulations 2005[^f00023];
+- (b) any certified copy [^key-d91b045efd801b4babbe8a02032693fd]... of an entry in the civil partnership register issued pursuant to regulation 14 of the Civil Partnership (Registration Provisions) Regulations 2005;
+- (c) any certified copy of a civil partnership document issued pursuant to article 14(3) of the Civil Partnership (Registration Abroad and Certificates) Order 2005[^f00024].
+
+### 22. The conversion register[^key-03ec8deaf1b3f655161967d074224520]
+
+(1) The Registrar General must provide a system for keeping any records that relate to conversions and are required by this Part of these Regulations to be made (“the conversion register”).
+
+(2) That system may, in particular, enable those records to be kept together with other records kept by the Registrar General.
+
+### 23. Searches of indexes of conversion records kept by the Registrar General and issue of copies[^key-9807210a9165ec242cd1f7aa2e0a3e65]
+
+(1) The Registrar General must cause indexes of all entries in the conversion register to be made and to be kept in the General Register Office.
+
+(2) Any person is entitled to search the indexes of the conversion register at any time when the General Register Office is open for that purpose, and to have a certified copy of any entry in the conversion register, on payment to the Registrar General of the appropriate fee[^key-0b4ac76abbc0821b606987bbfc87733b].
+
+(3) The Registrar General must cause all certified copies given in the General Register Office to be sealed or stamped with the seal of that Office.
+
+(4) Any certified copy stamped with the seal of the General Register Office is to be received in evidence of the marriage to which it relates without any further proof of the entry.
+
+(5) No certified copy purporting to have been given by the General Register Office is to be of any force or effect unless it is sealed or stamped in accordance with paragraph (3).
+
+(6) For the purpose of discharging the duty in paragraph (1), and the duty in section 65(1) of the 1949 Act[^f00025] (duty to keep an index of entries in the marriage register and certified copies of entries in marriage register books[^key-54686a8f6726364142b8e396703782d1]), the Registrar General may keep a joint index of entries in the conversion register and entries in the marriage register and certified copies of entries in marriage register books[^key-f9718da9bbac775899e34ea6f7b8964d].
+
+### 24. Searches of indexes of conversion records kept by the superintendent registrar and issue of copies[^key-80f68970f07db4c00c14b56a05a17a90]
+
+(1) Every superintendent registrar must cause indexes of entries in the conversion register relating to all conversions registered in the superintendent registrar’s registration district to be made and to be kept with other records in the register office.
+
+(2) Any person is entitled at any time when the register office is required to be open for the transaction of public business to search the indexes, and to have a certified copy of any entry in the conversion register, on payment to the superintendent registrar of the appropriate fee[^key-1deb682ecf14e172f1ab689798f3df02].
+
+(3) The superintendent registrar must sign all certified copies given in accordance with paragraph (2).
+
+(4) Any certified copy signed by the superintendent registrar is to be received in evidence of the marriage to which it relates without any further proof of the entry.
+
+(5) No certified copy purporting to have been given by the superintendent registrar is to be of any force or effect unless it is signed in accordance with paragraph (3).
+
+(6) For the purpose of discharging the duty in paragraph (1), and the duty in section 64(1) of the 1949 Act[^f00026] (duty to keep an index of entries in the marriage register and certified copies of entries in marriage register books[^key-6932a20f8e21f36469e9cc6b3f8593d6]), the superintendent registrar may keep a joint index of entries in the conversion register and entries in the marriage register and certified copies of entries in marriage register books[^key-923b696a73146e39e08ab80b436c6df7].
+
+### 25. Retention of documents relating to conversions[^key-26e6233a70a69dbe2bd58de0d86b8c2f]
+
+A superintendent registrar must—
+
+- (a) forward the conversion declarations to the Registrar General at such time as the Registrar General may require; and
+- (b) retain all other information and any medical or supporting statements provided to or obtained by the superintendent registrar in connection with a conversion, or proposed conversion, for a minimum period of 5 years.
+
+### 26. Duties of the superintendent registrar[^key-a4fc9c141d64fbb806243736a23d99b7]
+
+(1) A superintendent registrar must immediately report any offence, or suspected offence, under the Perjury Act 1911[^f00027] or the Forgery and Counterfeiting Act 1981[^f00028] to the Registrar General in writing and must deliver to the Registrar General such documents in the superintendent registrar’s possession relating to the offence as the Registrar General may require.
+
+(2) Nothing in this regulation limits any other power or duty under which offences, or suspected offences may be reported by the superintendent registrar.
+
+### 27. Correction of errors generally[^key-8e907acc8a5b4a4e3774255a21a21601]
+
+(1) An error in the conversion register may only be corrected in accordance with regulation 28 if the entry in the conversion register is complete.
+
+(2) For the purpose of these Regulations, an entry in the conversion register is complete when the superintendent registrar has discharged the duty under regulation 18(1) (duty to register marriage resulting from conversion).
+
+### 28. Correction of errors[^key-bd5b72e1ff55d79a699dcf167fdae997]
+
+If—
+
+- (a) one of the parties to the marriage or a superintendent registrar discovers any error in an entry in the conversion register which is complete, they must report it to the Registrar General giving such information as the Registrar General may require;
+- (b) the Registrar General receives from one of the parties to the marriage or from a superintendent registrar satisfactory evidence relating to an error caused by the superintendent registrar when the information was recorded in the conversion register, the Registrar General may correct it, or may authorise the superintendent registrar to correct it, but the corrected entry is only to show the information as corrected;
+- (c) the Registrar General receives from one of the parties to the marriage or from a superintendent registrar satisfactory evidence relating to an error caused by one of the parties when providing information to the superintendent registrar, the Registrar General may correct it, or may authorise the superintendent registrar to correct it, by making a marginal note to show the correct information, but the original entry must remain unchanged after that correction.
+
+## PART 3 — Consular Conversions[^key-f988d2aa116d2b805c51db2941f8b491]
+
+*Extent: E+W+N.I.*
+
+### 29. Countries or territories in which consular conversions may take place[^key-4360559fc1a39c7d3287a8444f7cd3ed]
+
+A registration officer may facilitate the conversion of a civil partnership, where at least one of the parties is a United Kingdom national, in those countries or territories outside the United Kingdom which have notified the Secretary of State in writing that there is no objection to such conversions taking place in that country or territory and which have not subsequently revoked that notice.
+
+### 30. Conversion[^key-f09060677a9d49f504058dc24eba7b2c]
+
+(1) The parties to a civil partnership are to be regarded as having converted their civil partnership into a marriage under this Part when—
+
+- (a) the parties have completed the procedure mentioned in regulation 31;
+- (b) at the invitation of the registration officer and in the presence of the registration officer and of each other, each of the parties has signed the conversion declaration; and
+- (c) the registration officer has also signed the conversion declaration in the presence of the parties.
+
+(2) No religious service is to be used at a conversion under this Part.
+
+(3) As well as signing the conversion declaration, the parties may, if they wish, say the words of the declaration in regulation 32(d) to each other in the presence of the registration officer.
+
+(4)[^key-e80f3c397a59112da24fd19f51d930e4] A conversion under this Part of a convertible Northern Ireland civil partnership is effective only if the signing of the conversion declaration as mentioned in paragraph (1)(b) and (c) takes place before the end of the 3 years beginning with the day the Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 come into force.
+
+### 31. Conversion procedure[^key-c45b63f8107c126833d67aa13da4cfc7]
+
+Before the parties to a civil partnership can convert their civil partnership into a marriage under this Part, they must—
+
+- (a) attend together in person before the registration officer in consular premises;
+- (b) give the registration officer the details required to complete the conversion declaration;
+- (c) provide a certified copy of the entry in the civil partnership register made on the formation of their civil partnership or, if the conversion is of a convertible Northern Ireland civil partnership, a document issued under section 155(3)(b) of the Civil Partnership Act 2004 relating to the registration of their civil partnership[^key-eed18085c68f0fb3075918f5453c8792]; and
+- (d) provide such evidence as may be required by the registration officer to satisfy the registration officer of the details provided in the conversion declaration.
+
+### 32. Conversion declaration[^key-48434b9f24664eac4606b95583ed6e70]
+
+In this Part of these Regulations, the “conversion declaration” means a document containing—
+
+- (a) the following details pertaining to each of the parties—
+  - (i) forenames;
+  - (ii) surname;
+  - (iii) nationality;
+  - (iv) date of birth;
+  - (v) sex;
+  - (vi) address;
+- (b) the date and place of the formation of the civil partnership;
+- (c) a statement to the effect that the party has had, for the period of 28 days ending on the day on which the conversion declaration is signed, their usual residence within the consular district of the registration officer;
+- (d) a declaration in the following terms: “I solemnly and sincerely declare that we are in a civil partnership with each other and I know of no legal reason why we may not convert our civil partnership into a marriage. I understand that on signing this document we will be converting our civil partnership into a marriage and you will thereby become my lawful wife \[*or* husband\]”; and
+- (e) a declaration that the party believes all of the information and evidence given for the purposes of the conversion declaration is true.
+
+### 33. Duty to register conversions[^key-34ff68c4b8e33c79a19c5000ab6bc001]
+
+(1) The registration officer for the consular district, nominated for such purposes by the Secretary of State, must maintain a register, in which each registration officer must register the details included pursuant to regulation 32(a) and (b) on every conversion declaration signed by him or her in accordance with regulation 30(1)(c).
+
+(2) Every nominated registration officer must, at such times as are determined by the Secretary of State, send to the Registrar General for England and Wales a copy of any entry in the register made since that information was last sent, and if there has been no entry over the relevant time period, confirmation of that fact.
+
+(3) A certified copy of any entry in the register must be provided to any person upon request and on payment of the appropriate fee[^f00029], by the Secretary of State until such time as a certified copy is available from the Registrar General for England and Wales and, at all other times, by the Registrar General for England and Wales upon payment of the same fee as would be charged for a copy of an entry in the conversion register in the custody of the Registrar General for England and Wales.
+
+(4)[^key-cbae4d761aa95425265227b8a8550c27] Where the Registrar General for England and Wales receives under paragraph (2) a copy of an entry relating to—
+
+- (a) the conversion of a convertible Northern Ireland civil partnership into a marriage, or
+- (b) the conversion, under Part 4 of the Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020, of a marriage into a civil partnership,
+
+the Registrar General for England and Wales must send a certified copy of the entry to the Registrar General for Northern Ireland.
+
+(5) A copy of an entry sent to the Registrar General for Northern Ireland under paragraph (4)(a) is a marriage registration record for the purposes of Article 35 of the Marriage (Northern Ireland) Order 2003.
+
+(6) A copy of an entry sent to the Registrar General for Northern Ireland under paragraph (4)(b) is a civil partnership registration record for the purposes of section 155 of the Civil Partnership Act 2004.
+
+### 34. Power to dispense with requirements[^key-a79148f8b791c84c013cfa4c5ea2d522]
+
+(1) If the Secretary of State is satisfied that there are good reasons why the requirement as to residence in regulation 32(c) cannot be complied with, the Secretary of State may authorise the registration officer to amend this part of the conversion declaration to reduce the residence period.
+
+(2) The Secretary of State must notify the registration officer in writing of the decision to authorise the reduction of the residence period and provide a statement of reasons for the decision.
+
+(3) If the Secretary of State authorises the registration officer to amend the conversion declaration in accordance with paragraph (1), the registration officer must record the good reasons referred to in paragraph (1) and initial the amendment made to the conversion declaration.
+
+## PART 4 — Armed Forces Conversions[^key-870979a2d0d188db70e04be6e25711eb]
+
+*Extent: E+W+N.I.*
+
+### 35. Interpretation of this Part[^key-1e98af66cf230504e63674db41521fcb]
+
+In this Part of these Regulations—
+
+- (a) a reference to a country or territory includes a reference to the waters of a country or territory;
+- (b) a reference to Her Majesty’s forces serving in a country or territory includes a reference to such forces serving in a ship in the waters of a country or territory;
+- (c) A reference to a relevant civilian employed in a country or territory includes a reference to such a civilian employed in a ship in the waters of a country or territory.
+
+### 36. Countries or territories in which armed forces conversions may take place[^key-a10ba4877dbb80cb2b2a31207d77d31c]
+
+(1) An authorised person may facilitate the conversion of a civil partnership in those countries or territories outside the United Kingdom which have notified the Secretary of State in writing that there is no objection to such conversions taking place in that country or territory and which have not subsequently revoked that notice, where at least one of the parties to the civil partnership is—
+
+- (a) a member of Her Majesty’s forces serving in the country or territory in which it is proposed they convert their civil partnership;
+- (b) a relevant civilian who is employed in that country or territory; or
+- (c) a child of a person falling within sub-paragraph (a) or (b), and whose home is with that person in that country or territory.
+
+(2) In a case where one person (“P”) treats, or has treated, another person (“C”), as a child of the family in relation to—
+
+- (a) a marriage to which P is or was a party; or
+- (b) a civil partnership to which P is or was a party;
+
+C is to be regarded for the purposes of paragraph (1)(c) as the child of P.
+
+### 37. Conversion[^key-83edb80c9f6397c09ae669a787fd7cc2]
+
+(1) The parties to a civil partnership are to be regarded as having converted their civil partnership into a marriage under this Part when—
+
+- (a) the parties have completed the procedure mentioned in regulation 38;
+- (b) at the invitation of the authorised person and in the presence of the authorised person and of each other, each of the parties has signed the conversion declaration; and
+- (c) the authorised person has also signed the conversion declaration in the presence of the parties.
+
+(2) As well as signing the conversion declaration, the parties may, if they wish, say the words of the declaration in regulation 39(c) to each other in the presence of the authorised person.
+
+(3)[^key-216b5562e7462455d7bf7c2ac973e5e7] A conversion under this Part of a convertible Northern Ireland civil partnership is effective only if the signing of the conversion declaration as mentioned in paragraph (1)(b) and (c) takes place before the end of the 3 years beginning with the day the Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 come into force.
+
+### 38. Conversion procedure[^key-d6fbd3b12228715a258a86b7bd579372]
+
+Before the parties to a civil partnership can convert their civil partnership into a marriage under this Part, they must—
+
+- (a) attend together in person before the authorised person;
+- (b) give the authorised person the details required to complete the conversion declaration;
+- (c) provide a certified copy of the entry in the civil partnership register made on the formation of their civil partnership or, if the conversion is of a convertible Northern Ireland civil partnership, a document issued under section 155(3)(b) of the Civil Partnership Act 2004 relating to the registration of their civil partnership[^key-0bec285a21efb6ffbce3ed241a54d842];
+- (d) provide such evidence as may be required by the authorised person to satisfy the authorised person of the details provided in the conversion declaration.
+
+### 39. Conversion declaration[^key-9ddbc5bc38aa6457b95a534ee38eab09]
+
+In this Part of these Regulations, the “conversion declaration” means a document containing—
+
+- (a) the following details pertaining to each of the parties—
+  - (i) forenames;
+  - (ii) surname;
+  - (iii) nationality;
+  - (iv) date of birth;
+  - (v) sex;
+  - (vi) address;
+  - (vii) in respect of each of the parties to the civil partnership who falls within one of the descriptions in regulation 36(1)—
+    - (aa) where that person is a member of Her Majesty’s forces serving in the country or territory in which the conversion is proposed to take place, the name and location of the unit in which that person is serving;
+    - (bb) where that person is a relevant civilian employed in that country or territory, the name and location of the post where that person is employed;
+    - (cc) where the person falls within the description in regulation 36(1)(c) (but does not fall within either sub-paragraph (a) or (b) of regulation 36(1)), the information referred to in sub-paragraph (aa) or (bb) (as the case may be) about each of that person’s parents who falls within the description in regulation 36(1)(a) or (b).
+- (b) the date and place of the formation of the civil partnership;
+- (c) a declaration in the following terms: “I solemnly and sincerely declare that we are in a civil partnership with each other and I know of no legal reason why we may not convert our civil partnership into a marriage. I understand that on signing this document we will be converting our civil partnership into a marriage and you will thereby become my lawful wife \[*or* husband\]”; and
+- (d) a declaration that the party believes all of the information and evidence given for the purposes of the conversion declaration is true.
+
+### 40. Conversion followed by religious ceremony[^key-6b2e6fa0806111e2b811296b693d271f]
+
+*Extent: E+W*
+
+Where a conversion under this Part is immediately to be followed by a ceremony under section 46 of the 1949 Act[^f00030], the certificate of the parties’ marriage to be produced under section 46(1) is the signed conversion declaration.
+
+## PART 5 — Consequential amendments
+
+**41.**[^key-767045045782cee5e469cec32f1d9cf6] Schedule 2 (which amends subordinate legislation in consequence of these Regulations) has effect.
+
+James Brokenshire
+
+Minister of State
+
+Home Office
+
+## SCHEDULE 1
+
+Regulation 6
+
+**1.**[^key-2957554bac6b7f0a6ebfdd8d6640b633] The evidence which must be provided for the purposes of regulations 6(1)(b), 7 and 8 (evidence of name, address and date of birth of each of the civil partners) is as follows—
+
+- (a) to establish name and date of birth, one of the following documents must be provided:
+  - (i) United Kingdom birth certificate (together with another piece of evidence listed in this paragraph to establish current name, if changed since birth);
+  - (ii) valid passport;
+  - (iii)[^key-e66e4bf44913dbcbeacb0e8c568e3ec9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv) valid travel document issued in the United Kingdom at the discretion of the Secretary of State to persons who have been formally and, in the view of the Secretary of State, unreasonably, refused a passport by the authorities in their own countries and who have—
+    - (aa) been granted limited leave to enter or remain or humanitarian protection on rejection of a claim for asylum or for recognition as a stateless person; or
+    - (bb) been granted indefinite leave to remain;
+  - (v) valid travel document issued pursuant to Article 28 of the Convention relating to the Status of Refugees done at Geneva on 28th July 1951[^f00031];
+  - (vi) valid travel document issued pursuant to Article 28 of the Stateless Convention;
+  - (vii) valid driving licence with photograph (full or provisional issued by the United Kingdom, Isle of Man or Channel Islands);
+  - (viii) valid HM Forces identity card issued by the United Kingdom;
+  - (ix) valid registration card within the meaning of section 26A(1) of the Immigration Act 1971[^f00032];
+  - (x) valid biometric immigration document within the meaning of section 5(1)(a) of the UK Borders Act 2007[^f00033];
+  - (xi) if none of the documents listed in (i) to (x) are available, such other document as the Registrar General determines it is reasonable to accept in the particular circumstances of the case.
+- (b) To establish address, one of the following documents must be provided:
+  - (i) utility bill dated no more than three months before the date on which it is received by the superintendent registrar;
+  - (ii) bank or building society statement dated no more than one month before the date on which it is received by the superintendent registrar;
+  - (iii) council tax bill dated no more than one year before the date on which it is received by the superintendent registrar;
+  - (iv) valid United Kingdom driving licence (full or provisional issued by the United Kingdom, Isle of Man or Channel Islands) (whether or not it was also provided under paragraph (a));
+  - (v) if none of the documents listed in (i) to (iv) are available, such other document as the Registrar General determines it is reasonable to accept in the particular circumstances of the case.
+
+**2.**[^key-db2a904c43e8e9251a1b5f1d566f40ef] In this Schedule—
+
+- (a) “claim for asylum” means a claim within the meaning of section 94(1) of the Immigration and Asylum Act 1999[^f00034];
+- (b) “humanitarian protection” means protection granted in accordance with paragraph 339C of the immigration rules;
+- (c) “immigration rules” means the rules for the time being laid down as mentioned in section 3(2) of the Immigration Act 1971[^f00035];
+- (d) “indefinite leave to remain” means leave to remain in the United Kingdom given in accordance with the provisions of the Immigration Act 1971 or the immigration rules which is not limited as to duration;
+- (e) “limited leave to enter or remain” means leave to enter or remain in the United Kingdom given in accordance with the provisions of the Immigration Act 1971 or the immigration rules which is limited as to duration;
+- (f) “Stateless Convention” means the Convention relating to the Status of Stateless Persons done at New York on 28th September 1954[^f00036];
+- (g) “stateless person” has the same meaning as in Article 1 of the Stateless Convention;
+- (h) “travel document” means a document which is not a passport, allowing a person to travel outside the United Kingdom.
+
+**3.**[^key-17cf9e85a89f890e3986ba9cb54ac5a0] The evidence which must be provided for the purposes of regulations 6(1)(c), 7 and 8, to establish the formation of the civil partnership, is a certified copy of the entry in the civil partnership register made on the formation of the civil partnership.
+
+## SCHEDULE 2 — Consequential Amendments
+
+Regulation 41
+
+**1.**[^key-2040eafffb39f22326f118d82b2f1752] (1) The Civil Partnership (Registration Provisions) Regulations 2005[^f00037] are amended as follows.
+
+(2) In regulation 15 (access to civil partnership records), before paragraph (6), insert—
+
+> (5A) Where a civil partnership is converted into a marriage under section 9 of the Marriage (Same Sex Couples) Act 2013, no certified copy or certified extract of the entry relating to it in the civil partnership register may be issued unless it is annotated in accordance with regulations made under that section.
+
+**2.**[^key-4187a025a9061ef9d1dc7253c25499b7] (1) The Civil Partnership (Registration Abroad and Certificates) Order 2005[^f00038] is amended as follows.
+
+(2) In article 14 (transmission of documents to UK), before paragraph (4), insert—
+
+> (3A) Where a civil partnership is converted into a marriage under section 9 of the Marriage (Same Sex Couples) Act 2013, no certified copy of a civil partnership document received by him under paragraph (1) may be issued by the Registrar General for England and Wales unless it is annotated in accordance with regulations made under that section.
+
+.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations establish the procedure for converting civil partnerships formed under the law of England and Wales into marriages, pursuant to section 9 of the Marriage (Same Sex Couples) Act 2013.
+
+Part 2 of the Regulations governs conversions to be carried out in England and Wales, which may follow one of five different procedures listed in regulation 5. These are the standard procedure, separate procedures for people who are housebound, detained, or seriously ill and not expected to recover, and a ‘two stage’ procedure for those who wish to convert their civil partnership in certain different locations.
+
+Regulation 3 specifies the declarations that civil partners must make, and the point at which a civil partnership is converted into a marriage. Regulation 4 sets out the information that must be supplied by the parties before a conversion.
+
+Regulations 6 to 12 explain the procedural requirements that must be followed by couples seeking to convert their civil partnerships in accordance with one of the procedures listed in regulation 5. Regulations 11 and 12 list the places at which a conversion in accordance with the two stage procedure may take place, and impose additional requirements in the case of conversions which are to take place on religious premises.
+
+Regulation 14 empowers local authorities to provide secular services or ceremonies following conversions.
+
+Regulations 15 and 16 make provision for the waiver and reduction of fees where the civil partnership that is to be converted into a marriage was formed prior to 29th March 2014 (the first date on which marriages of same sex couples could take place in England and Wales). No fee is payable for a conversion that takes place before 10th December 2015 in accordance with the standard procedure, or the procedures for housebound, detained and seriously ill people. The fee for a conversion under the two stage procedure will be reduced by £45 where the conversion takes place before 10th December 2015.
+
+Regulation 18 requires the superintendent registrar to register specified details in relation to a marriage resulting from a conversion, and entitles the parties to a certified copy of the register entry as soon as the conversion has been registered. Regulation 19 enables the declaration and the register entry to be completed in Welsh as well as in English.
+
+Regulation 20 gives the superintendent registrar power to verify the information and evidence provided by the civil partners with other superintendent registrars and registration authorities, and with the Registrar General.
+
+Regulation 21 requires the Registrar General to annotate civil partnership records held by him or her to show the date and place of the conversion. The Registrar General holds the civil partnership register for England and Wales, and also receives copies of consular and armed forces register entries. Once the civil partnership has been converted into a marriage, any certified copy or certified extract of the civil partnership register entry issued by the Registrar General must show that the civil partnership has been converted.
+
+Regulation 22 imposes a duty on the Registrar General to establish a register of conversions. Regulations 23 and 24 impose duties on the Registrar General and superintendent registrars respectively to create indexes of conversions, to permit any person to search the indexes and to provide certified copies of entries in the conversion register on payment of a fee.
+
+Regulations 27 and 28 specify how corrections to the conversion register are to be made.
+
+Part 3 of the Regulations establishes a procedure for the conversion of civil partnerships by consular registration officers in third countries where that country has given consent for conversions to take place. Regulations 30 and 31 explain the procedure the parties must follow to convert their civil partnership under this Part. Regulation 32 sets out the contents of the conversion declaration which the two parties must sign to convert the civil partnership. This includes a requirement that the parties have been resident for the preceding 28 days in the consular district of the registration officer. This period can be reduced where there is good reason to do so by the Secretary of State in accordance with regulation 34. Regulation 33 makes provision for registers of conversion declarations to be kept, copies to be sent to the Registrar General for England and Wales and for certified copies of entries to be obtained.
+
+Part 4 of these Regulations sets out the procedure for be followed for armed forces conversions overseas, which are those conversions carried out in respect of a couple at least one of whom is a member of Her Majesty’s armed forces serving in the country or territory or is a person subject to service discipline or is a child of such a person who lives with them. Regulations 37 and 38 explain the procedure the parties must follow to convert their civil partnership under this Part. Regulation 39 sets out the contents of the conversion declaration which the two parties must sign to convert the civil partnership. No provision is made under Part 4 for the registration of conversions, which will be carried out in accordance with arrangements made under the Registration of Births, Deaths and Marriages (Special Provisions) Act 1957.
+
+Schedule 1 lists the evidence that must be provided by the civil partners when seeking to convert their civil partnership into a marriage under Part 2 of the Regulations, to verify their names, addresses, dates of birth and the formation of the civil partnership.
+
+Schedule 2 contains amendments to other statutory instruments, in consequence of the duty in regulation 21 to show details of the conversion on certified copies of the civil partnership register entry after the conversion is complete.
+
+A full impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2013 c. 30](https://www.legislation.gov.uk/ukpga/2013/30).
+
+[^key-64b372adb5af8b214ffc1914c01110b8]: Modification: [Pt. 1](https://www.legislation.gov.uk/uksi/2014/3181/part/1) extended (Northern Ireland) (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [31(1)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/31/1)
+
+[^key-e9c393478491c5216fe1bd58fa9f8cba]: Commencement: Reg. 1 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-91c84b97d1041b3a2e9555b577f5f360]: Commencement: Reg. 2 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^f00002]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76).
+
+[^f00003]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^key-f2fc390c49b2fb846f72be6707ceb41b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3181/regulation/2) inserted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/3/2)
+
+[^key-74a4bc661ac5cb554d34210c5e6e3932]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3181/regulation/2) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [31(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/31/3/a/i)
+
+[^key-a284a7a761ddecd62b52f8ebec217a53]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3181/regulation/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [37(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/37/2)
+
+[^key-42e425e606b7f1e4365aa98620179e05]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3181/regulation/2) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [31(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/31/3/a/ii)
+
+[^f00004]: Footnote: [S.I. 2005/2761](https://www.legislation.gov.uk/uksi/2005/2761). Article 16 was amended by article 4(a) of [S.I. 2012/3063](https://www.legislation.gov.uk/uksi/2012/3063).
+
+[^f00005]: Footnote: [S.I. 2005/3188](https://www.legislation.gov.uk/uksi/2005/3188).
+
+[^f00006]: Footnote: [S.I. 1959/406](https://www.legislation.gov.uk/uksi/1959/406). Article 2(2) was amended by article 2(3) of [S.I. 2005/3186](https://www.legislation.gov.uk/uksi/2005/3186).
+
+[^key-41e704a3ed4839e1794d994ae68385b2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3181/regulation/2) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [31(3)(b)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/31/3/b)
+
+[^key-e4624863a82ac1a906a0a5900961453a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3181/regulation/2) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [31(3)(c)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/31/3/c)
+
+[^f00007]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
+
+[^key-05f39a2ae1f5b36157f89a8b44659b51]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3181/regulation/2) inserted (E.W.) (4.5.2021) by [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/2)
+
+[^f00008]: Footnote: [1953 c. 37](https://www.legislation.gov.uk/ukpga/1953/37); section 10(1) and (3) was amended by section 251 of, and paragraph 41 of Schedule 29 to, the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^f00009]: Footnote: Section 5(1) was amended by section 251 of, and paragraph 41 of Schedule 29 to, the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^key-c5cb30eccf7332179ea6ce19cd1b7180]: Commencement: Reg. 3 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-963a798cce9456c0ebdb362392994fd5]: Commencement: Reg. 4 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-e80f6fffeed0d3289ca76f99f61ddc75]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/4/1) substituted (4.5.2021) by [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/3/a/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/440/regulation/3))
+
+[^key-97000ecc206f14eff0d20566a012df6e]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/4/1) inserted (4.5.2021) by [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/3/a/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/440/regulation/3))
+
+[^key-f0b566ca57cb2c9eb49d585908995f0c]: Textual amendment: [Reg. 4(2)(e)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/4/2/e) substituted (4.5.2021) by [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/3/b/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/440/regulation/3))
+
+[^key-ae01b2ae675945a56b89a28338f60a01]: Textual amendment: [Reg. 4(2)(g)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/4/2/g) substituted (4.5.2021) by [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/3/b/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/440/regulation/3))
+
+[^key-ef377104eba4d70780b1679eb30c2706]: Textual amendment: [Reg. 4(4)-(4G)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/4/4) substituted for [reg. 4(4)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/4/4) (4.5.2021) by [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/3/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/440/regulation/3))
+
+[^key-b7f46a8b779be51ec869bfd9440237a1]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/4/6) substituted (4.5.2021) by [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/3/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/440/regulation/3))
+
+[^key-9e3abf4458d103fae24a8766144b92e8]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/4/7) omitted (4.5.2021) by virtue of [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/3/e)
+
+[^key-c3677e62f1813b1eb319ade4164ba532]: Textual amendment: [Reg. 4(8)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/4/8) inserted (4.5.2021) by [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(3)(f)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/3/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/440/regulation/3))
+
+[^key-462ead5b6db9162eca2430885fb81fbc]: Commencement: Reg. 5 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-e99689b8c97fc0fc266449eb529a27b6]: Commencement: Reg. 6 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-dce32a81975b000ab9cea4843695986b]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/6/1/a) substituted (4.5.2021) by [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/440/regulation/3))
+
+[^key-f92fe8efe03a718c3b892735532e71d0]: Textual amendment: [Reg. 6(1)(d)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/6/1/d) substituted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/3/3)
+
+[^f00011]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76); section 46A was inserted by section 1(2) of the Marriage Act [1994 (c. 34)](https://www.legislation.gov.uk/ukpga/1994/34). There are amendments to the section, not relevant here.
+
+[^key-4f57843b186ea1f8e76cebc61c03c69c]: Commencement: Reg. 7 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-559cbe7fee4e88d7d03f31099240371a]: Textual amendment: [Reg. 7(3)(e)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/7/3/e) substituted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/3/4)
+
+[^key-0561a1fcdd8e363e9d056787bcf5a604]: Commencement: Reg. 8 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^f00012]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20). There are amendments to all sections referred to, none relevant here.
+
+[^f00013]: Footnote: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52).
+
+[^key-72f7c6eafb23021f9a4757768fa8ad46]: Textual amendment: [Reg. 8(3)(e)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/8/3/e) substituted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 3(5)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/3/5)
+
+[^f00014]: Footnote: The definition of “managers” in section 145(1) was amended by section 2(1) of, and paragraph 107(14)(b) of Schedule 1 to, the Health Authorities Act [1995 (c. 17)](https://www.legislation.gov.uk/ukpga/1995/17); article 3 of, and paragraph 13(13)(ii) of Schedule 1 to, the References to Health Authorities Order 2007 ([S.I. 2007/961](https://www.legislation.gov.uk/uksi/2007/961)); section 2 of, and paragraph 70(d) of Schedule 1 to, the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43); and section 55(2) of, and paragraph 31(1)(a) of Schedule 5 to, the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7).
+
+[^key-8ffa801fa8f47ff6b77fe8d485a53ebc]: Commencement: Reg. 9 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-eb315683f4894acfdf22206480fcf977]: Textual amendment: Words in [reg. 9(2)(a)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/9/2/a) substituted (4.5.2021) by [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/440/regulation/3))
+
+[^key-77c6e3ada105e12971a2e59e84d6d6f1]: Textual amendment: [Reg. 9(2)(c)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/9/2/c) substituted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 3(6)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/3/6)
+
+[^key-a8ca1e2842f88cf50f4cd866ab8e0f97]: Commencement: Reg. 10 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-b18fa064ad455bd47c91724d0e80cb23]: Textual amendment: Words in [reg. 10(2)(a)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/10/2/a) substituted (4.5.2021) by [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/440/regulation/3))
+
+[^key-ed216d5ac88f99952d3109071ae3329a]: Textual amendment: Words in [reg. 10(2)(d)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/10/2/d) substituted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 3(7)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/3/7)
+
+[^key-dc18ac6b502b8bf2138035591fdfed4e]: Commencement: Reg. 11 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^f00015]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76); section 46A was inserted by section 1(2) of the Marriage Act [1994 (c. 34)](https://www.legislation.gov.uk/ukpga/1994/34). There are amendments to the section, not relevant here.
+
+[^key-c2ca724b9c2043973f1f239cf610c278]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/11/5) substituted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 3(7)(a)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/3/7/a)
+
+[^key-1786248778a25863725955e98e30515f]: Commencement: Reg. 12 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^f00016]: Footnote: Section 43A was inserted by section 4(2) of, and paragraph 2 of Schedule 1 to, the Marriage (Same Sex Couples) Act 2013.
+
+[^f00017]: Footnote: Section 46 was amended by section 17(4) of, and paragraph 13 of Schedule 7 to, the Marriage (Same Sex Couples) Act 2013.
+
+[^f00018]: Footnote: The definition of ‘qualified person’ in section 68(2) of the 1949 Act was amended by section 20 of, and paragraph 8 of Schedule 3 to, and by section 28(2) of, and Part 1 of Schedule 5 to, the Armed Forces Act [1981 (c. 55)](https://www.legislation.gov.uk/ukpga/1981/55); and by section 34 of, and paragraph 31(a) of Schedule 6 to, the Armed Forces Act [2001 (c. 19)](https://www.legislation.gov.uk/ukpga/2001/19).
+
+[^f00019]: Footnote: Section 70A was inserted by section 6(4) of the Marriage (Same Sex Couples) Act 2013.
+
+[^f00020]: Footnote: Section 46(1C) was inserted by section 17 of, and paragraph 13 of Schedule 7 to, the Marriage (Same Sex Couples) Act [2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30).
+
+[^key-11f89ef8d52e1198961e0d3705846ee3]: Textual amendment: Word in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/12/2/a) inserted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 3(8)(a)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/3/8/a)
+
+[^key-bd53ac768d803db65764dbe517462a88]: Textual amendment: Word in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/12/3) inserted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 3(8)(b)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/3/8/b)
+
+[^key-c05a2d30b0aaa0fbb7c7b70a8c945709]: Textual amendment: [Reg. 12(4)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/12/4) omitted (5.10.2016) by virtue of [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 3(8)(c)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/3/8/c)
+
+[^key-ffb853f90011825f3362601b72307d74]: Commencement: Reg. 13 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-6cb864274942d10de1fe5bf1771ddf79]: Commencement: Reg. 14 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-d5a505c6cf21ba70f028c79c23fc236a]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/3181/regulation/15) omitted (5.10.2016) by virtue of [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 3(9)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/3/9)
+
+[^key-2b64eb2e23606b4ff3477530050ee545]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/3181/regulation/16) omitted (5.10.2016) by virtue of [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 3(9)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/3/9)
+
+[^key-25275a61f695edf46024269e93da1b4f]: Commencement: Reg. 17 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-4ef3b58ed28802efdf18998ab93766e8]: Commencement: Reg. 18 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^f00021]: Footnote: [2013 c. 30](https://www.legislation.gov.uk/ukpga/2013/30). Section 9(6) provides that where a civil partnership is converted into a marriage under section 9, the resulting marriage is to be treated as having subsisted since the date the civil partnership was formed.
+
+[^key-e39a6cbe5df8e230f309bac9a38dcf8a]: Textual amendment: Words in [reg. 18(1)(d)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/18/1/d) inserted (4.5.2021) by [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(7)(a)(i)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/7/a/i)
+
+[^key-91edb5df78993dd9af413dcf5a440228]: Textual amendment: [Reg. 18(1)(d)(iii)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/18/1/d/iii)[(iv)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/18/1/d/iv) substituted (4.5.2021) by [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/7/a/ii)
+
+[^key-dcd79448972648588330bacda231076c]: Textual amendment: [Reg. 18(1)(d)(vi)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/18/1/d/vi) substituted (4.5.2021) by [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(7)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/7/a/iii)
+
+[^key-28c8b9f381d32b4169789b00e0340a2c]: Textual amendment: [Reg. 18(3)-(3G)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/18/3) substituted for [reg. 18(3)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/18/3) (4.5.2021) by [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/7/b)
+
+[^key-f3c2fefba466ad389128721686483591]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/18/4) substituted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 3(10)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/3/10)
+
+[^key-7f3f3530227b212b380ee21cb87f024e]: Textual amendment: [Reg. 18(6)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/18/6) inserted (4.5.2021) by [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(7)(c)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/7/c)
+
+[^key-ec6f546afb50275aafea652660435b21]: Commencement: Reg. 19 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-f973eb90230012fd1f964ea3ea27da79]: Commencement: Reg. 20 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-1cde868082ef2d0f322e1cb06d5883b9]: Commencement: Reg. 21 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^f00022]: Footnote: [S.I. 2005/3176](https://www.legislation.gov.uk/uksi/2005/3176).
+
+[^key-d33681204185295f7536be65552eff8a]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/21/2) omitted (4.5.2021) by virtue of [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(8)(a)(i)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/8/a/i)
+
+[^key-363e925abbc65c72efd4a952bf2350af]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/21/2) omitted (4.5.2021) by virtue of [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/8/a/ii)
+
+[^key-817ea4caa82aea1f6274664c03b15f25]: Textual amendment: Words in [reg. 21(3)(a)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/21/3/a) omitted (4.5.2021) by virtue of [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/8/b)
+
+[^f00023]: Footnote: Regulation 2 of [S.I. 2005/3176](https://www.legislation.gov.uk/uksi/2005/3176) provides that “certified copy” means a copy of an entry in the civil partnership register which contains all of the information recorded in that entry; and “certified extract” means a copy of an entry in the civil partnership register which does not include the addresses of the civil partners as recorded in that entry.
+
+[^key-d91b045efd801b4babbe8a02032693fd]: Textual amendment: Words in [reg. 21(3)(b)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/21/3/b) omitted (4.5.2021) by virtue of [The Marriage and Civil Partnership (Conversion of Civil Partnership and Fees) (Amendment) Regulations 2021 (S.I. 2021/440)](https://www.legislation.gov.uk/uksi/2021/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/440/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2021/440/regulation/2/8/b)
+
+[^f00024]: Footnote: [S.I. 2005/2761](https://www.legislation.gov.uk/uksi/2005/2761).
+
+[^key-03ec8deaf1b3f655161967d074224520]: Commencement: Reg. 22 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-9807210a9165ec242cd1f7aa2e0a3e65]: Commencement: Reg. 23 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-0b4ac76abbc0821b606987bbfc87733b]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/23/2) substituted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 3(11)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/3/11)
+
+[^f00025]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76). There are amendments to section 65(2) and (4), not relevant here.
+
+[^key-54686a8f6726364142b8e396703782d1]: Textual amendment: Words in [reg. 23(6)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/23/6) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 66(2)(a)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/66/2/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+
+[^key-f9718da9bbac775899e34ea6f7b8964d]: Textual amendment: Words in [reg. 23(6)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/23/6) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 66(2)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/66/2/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+
+[^key-80f68970f07db4c00c14b56a05a17a90]: Commencement: Reg. 24 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-1deb682ecf14e172f1ab689798f3df02]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/24/2) substituted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 3(12)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/3/12)
+
+[^f00026]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76). There are amendments to section 64(2), not relevant here.
+
+[^key-6932a20f8e21f36469e9cc6b3f8593d6]: Textual amendment: Words in [reg. 24(6)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/24/6) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 66(3)(a)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/66/3/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+
+[^key-923b696a73146e39e08ab80b436c6df7]: Textual amendment: Words in [reg. 24(6)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/24/6) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 66(3)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/66/3/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+
+[^key-26e6233a70a69dbe2bd58de0d86b8c2f]: Commencement: Reg. 25 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-a4fc9c141d64fbb806243736a23d99b7]: Commencement: Reg. 26 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^f00027]: Footnote: [1911 c. 6](https://www.legislation.gov.uk/ukpga/1911/6).
+
+[^f00028]: Footnote: [1981 c. 45](https://www.legislation.gov.uk/ukpga/1981/45).
+
+[^key-8e907acc8a5b4a4e3774255a21a21601]: Commencement: Reg. 27 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-bd5b72e1ff55d79a699dcf167fdae997]: Commencement: Reg. 28 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-f988d2aa116d2b805c51db2941f8b491]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/2014/3181/part/3) extended (Northern Ireland) (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [31(1)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/31/1)
+
+[^key-4360559fc1a39c7d3287a8444f7cd3ed]: Commencement: Reg. 29 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-f09060677a9d49f504058dc24eba7b2c]: Commencement: Reg. 30 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-e80f3c397a59112da24fd19f51d930e4]: Textual amendment: [Reg. 30(4)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/30/4) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [31(4)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/31/4)
+
+[^key-c45b63f8107c126833d67aa13da4cfc7]: Commencement: Reg. 31 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-eed18085c68f0fb3075918f5453c8792]: Textual amendment: Words in [reg. 31(c)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/31/c) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [31(5)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/31/5)
+
+[^key-48434b9f24664eac4606b95583ed6e70]: Commencement: Reg. 32 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-34ff68c4b8e33c79a19c5000ab6bc001]: Commencement: Reg. 33 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^f00029]: Footnote: The fee for a certified copy provided by the Secretary of State is prescribed by Order under the Consular Fees Act [1980 (c. 23)](https://www.legislation.gov.uk/ukpga/1980/23).
+
+[^key-cbae4d761aa95425265227b8a8550c27]: Textual amendment: [Reg. 33(4)-(6)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/33/4) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [31(6)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/31/6)
+
+[^key-a79148f8b791c84c013cfa4c5ea2d522]: Commencement: Reg. 34 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-870979a2d0d188db70e04be6e25711eb]: Modification: [Pt. 4](https://www.legislation.gov.uk/uksi/2014/3181/part/4) (except reg. 40) extended (Northern Ireland) (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [31(1)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/31/1)
+
+[^key-1e98af66cf230504e63674db41521fcb]: Commencement: Reg. 35 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-a10ba4877dbb80cb2b2a31207d77d31c]: Commencement: Reg. 36 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-83edb80c9f6397c09ae669a787fd7cc2]: Commencement: Reg. 37 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-216b5562e7462455d7bf7c2ac973e5e7]: Textual amendment: [Reg. 37(3)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/37/3) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [31(7)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/31/7)
+
+[^key-d6fbd3b12228715a258a86b7bd579372]: Commencement: Reg. 38 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-0bec285a21efb6ffbce3ed241a54d842]: Textual amendment: Words in [reg. 38(c)](https://www.legislation.gov.uk/uksi/2014/3181/regulation/38/c) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [31(8)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/31/8)
+
+[^key-9ddbc5bc38aa6457b95a534ee38eab09]: Commencement: Reg. 39 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-6b2e6fa0806111e2b811296b693d271f]: Commencement: Reg. 40 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^f00030]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76); section 46 was amended by section 17(4) of, and paragraph 13 of Schedule 7 to, the Marriage (Same Sex Couples) Act 2013.
+
+[^key-767045045782cee5e469cec32f1d9cf6]: Commencement: Reg. 41 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-2957554bac6b7f0a6ebfdd8d6640b633]: Commencement: Sch. 1 para. 1 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-e66e4bf44913dbcbeacb0e8c568e3ec9]: Textual amendment: [Sch. 1 para. 1(a)(iii)](https://www.legislation.gov.uk/uksi/2014/3181/schedule/1/paragraph/1/a/iii) omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [40(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/40/2)
+
+[^f00031]: Footnote: United Nations, Treaty Series, volume 189 at page 137.
+
+[^f00032]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). Section 26A was inserted by section 148 of the Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41); and subsection (1) was amended by article 2 of [S.I. 2008/1693](https://www.legislation.gov.uk/uksi/2008/1693).
+
+[^f00033]: Footnote: [2007 c. 30](https://www.legislation.gov.uk/ukpga/2007/30).
+
+[^key-db2a904c43e8e9251a1b5f1d566f40ef]: Commencement: Sch. 1 para. 2 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^f00034]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^f00035]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). There are amendments to section 3, not relevant here.
+
+[^f00036]: Footnote: United Nations, Treaty Series, volume 360 at page 117.
+
+[^key-17cf9e85a89f890e3986ba9cb54ac5a0]: Commencement: Sch. 1 para. 3 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^key-2040eafffb39f22326f118d82b2f1752]: Commencement: Sch. 2 para. 1 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^f00037]: Footnote: [S.I. 2005/3176](https://www.legislation.gov.uk/uksi/2005/3176).
+
+[^key-4187a025a9061ef9d1dc7253c25499b7]: Commencement: Sch. 2 para. 2 in force at 10.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3181/regulation/1)
+
+[^f00038]: Footnote: [S.I. 2005/2761](https://www.legislation.gov.uk/uksi/2005/2761).

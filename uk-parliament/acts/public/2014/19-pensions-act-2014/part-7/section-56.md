@@ -1,0 +1,50 @@
+---
+title: Pensions Act 2014, section 56
+act: Pensions Act 2014
+section: '56'
+status: revised-with-pending-changes
+text_date: '2026-04-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/19/section/56
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pensions Act 2014, section 56
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/19
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 56. Commencement
+
+*Extent: E+W+S+N.I.*
+
+(1) This Act comes into force on such day or days as the Secretary of State may by order appoint, subject as follows.
+
+(2) The following come into force on the day on which this Act is passed—
+
+- (a) section 29;
+- (b) section 51;
+- (c) this Part.
+
+(3) The following come into force at the end of the period of 2 months beginning with the day on which this Act is passed—
+
+- (a) Part 3 ;
+- (b) sections 34 and 35;
+- (c) section 41;
+- (d) sections 47 and 48;
+- (e) paragraph 30(2) of Schedule 13.
+
+(4) Part 1 comes into force on 6 April 2016, so far as not brought into force earlier by an order under subsection (1).
+
+(5) The Secretary of State may by order—
+
+- (a) amend subsection (4) so as to replace the reference to 6 April 2016 with a later date, and
+- (b) make corresponding amendments in Part 1 or any enactment amended by it.
+
+(6) Section 52 comes into force on such day or days as the Treasury may by order appoint.
+
+(7) An order under subsection (1) or (6) may appoint different days for different purposes.
+
+(8) The Secretary of State may by order make transitional, transitory or saving provision in connection with the coming into force of any provision of this Act.

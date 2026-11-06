@@ -1,0 +1,145 @@
+---
+title: The Goods Vehicles (Plating and Testing) (Amendment) Regulations 2001
+id: uksi/2001/1650
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2001-05-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2001/1650
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/1650/pdfs/uksi_20011650_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/1650/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Goods Vehicles (Plating and Testing) (Amendment) Regulations 2001
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2001 No. 1650
+
+ROAD TRAFFIC
+
+The Goods Vehicles (Plating and Testing) (Amendment) Regulations 2001
+
+Made
+
+2nd May 2001
+
+Laid before Parliament
+
+3rd May 2001
+
+Coming into force
+
+28th May 2001
+
+The Secretary of State for the Environment, Transport and the Regions, in exercise of the powers conferred by sections 49, 51(1) and 53(5) of the Road Traffic Act 1988[^f00001] and by virtue of the Department of Transport (Fees) Order 1988[^f00002], and of all other powers enabling him in that behalf, and after consultation with representative organisations in accordance with section 195(2) of that Act, hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Goods Vehicles (Plating and Testing) (Amendment) Regulations 2001 and shall come into force on 28th May 2001.
+
+## 2. Preliminary
+
+The Goods Vehicles (Plating and Testing) Regulations 1988[^f00003] shall be further amended as follows.
+
+## 3. Amendments relating to fees
+
+(1) In regulation 12, in paragraph (3), for the Table there shall be substituted the following Table—
+
+> TABLE
+>
+> | Description of vehicle | Fee (£) |
+> | --- | --- |
+> | Motor vehicle with 2 axles | 38 |
+> | Motor vehicle with 3 axles | 40 |
+> | Motor vehicle with 4 or more axles | 42 |
+> | Trailer with 1 axle | 19.50 |
+> | Trailer with 2 axles | 20.50 |
+> | Trailer with 3 or more axles | 21.50 |
+
+(2) In the regulations specified in column (1) of the following Table for the amounts specified in column (2) there shall be substituted the amounts specified in column (3).
+
+TABLE
+
+<table>
+<thead>
+<tr><th>(1)</th><th>(2)</th><th><em>(3)</em></th></tr>
+<tr><th>Regulation</th><th>Existing amount (£)</th><th>Substituted amount (£)</th></tr>
+</thead>
+<tbody>
+<tr><td>12(4)</td><td>21</td><td>21.50</td></tr>
+<tr><td></td><td>13</td><td>13.50</td></tr>
+<tr><td>12(4A)</td><td>7</td><td>7.50</td></tr>
+<tr><td>16(1)</td><td>19</td><td>19.50</td></tr>
+<tr><td></td><td>10</td><td>10.50</td></tr>
+<tr><td>16(3)</td><td>19</td><td>19.50</td></tr>
+<tr><td></td><td>10</td><td>10.50</td></tr>
+<tr><td>16(4)</td><td>10</td><td>10.50</td></tr>
+<tr><td></td><td>6.50</td><td>7</td></tr>
+<tr><td>16(4A)</td><td>4</td><td>4.50</td></tr>
+<tr><td>16(5)</td><td>21</td><td>21.50</td></tr>
+<tr><td></td><td>13</td><td>13.50</td></tr>
+<tr><td>16(5A)</td><td>7</td><td>7.50</td></tr>
+<tr><td>34(1)</td><td>14</td><td>14.50</td></tr>
+<tr><td>34(2)</td><td>8.40</td><td>8.50</td></tr>
+<tr><td>37B(2)</td><td>14</td><td>14.50</td></tr>
+<tr><td>39(3)(b)(ii)</td><td>1.50</td><td>2</td></tr>
+<tr><td>41(1)</td><td>10</td><td>10.50</td></tr>
+</tbody>
+</table>
+
+Signed by authority of the Secretary of State
+
+Larry Whitty
+
+Parliamentary Under Secretary of State,
+
+Department of the Environment, Transport and the Regions
+
+2nd May 2001
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Goods Vehicles (Plating and Testing) Regulations 1988 (“the 1988 Regulations”).
+
+Regulation 3 makes extensive amendments relating to fees.
+
+The fee payable on an application for a first examination or periodical test undergoes the changes shown in the Table below (with the percentage increase shown in brackets). However, where the appointment for such an examination or test is, at the applicant’s request, “out of hours”, the supplement to the normal fee is increased by 2.4% from £21 to £21.50 in the case of a motor vehicle and by 3.8% from £13 to £13.50 in the case of a trailer. Where the vehicle testing station appointed for such an examination or test is, at the applicant’s request, not one provided by the Secretary of State, the supplement or, in a case which is “out of hours”, further supplement, is increased by 7.1% from £7 to £7.50 in the case of a motor vehicle. There is no change in the case of a trailer, which remains at £3.50.
+
+The fee for a re-test or further re-test within 14 days after the first examination or earlier re-test is increased by 2.6% from £19 to £19.50 in the case of a motor vehicle and by 5% from £10 to £10.50 in the case of a trailer. However, where the appointment for such a re-test is, at the applicant’s request “out of hours”, the supplement to the normal fee is increased by 5% from £10 to £10.50 in the case of a motor vehicle and by 7.7% from £6.50 to £7 in the case of a trailer. Where the vehicle testing station appointed for such a re-test or further re-test is, at the applicant’s request, not one provided by the Secretary of State, the supplement or, in a case which is “out of hours”, further supplement, is increased by 12.5% from £4 to £4.50 in the case of a motor vehicle. There is no change in the case of a fee for a trailer, which remains at £2.
+
+**TABLE**
+
+| Description of vehicle | Old Fee (£) | New Fee (£) |
+| --- | --- | --- |
+| Motor vehicle with 2 axles | 37 | 38 (2.7%) |
+| Motor vehicle with 3 axles | 38.50 | 40 (3.9%) |
+| Motor vehicle with 4 or more axles | 40.50 | 42 (3.7%) |
+| Trailer with 1 axle | 19 | 19.50 (2.6%) |
+| Trailer with 2 axles | 20 | 20.50 (2.5%) |
+| Trailer with 3 or more axles | 21 | 21.50 (2.4%) |
+
+The fee payable on a request for an amendment to a plating certificate following a notifiable alteration or for a re-examination where a particular in the certificate is or may be no longer applicable is increased by 3.6% from £14 to £14.50. However where an appointment for a re-examination following a notifiable alteration or with a view to amendment of a plating certificate is, at the applicant’s request, “out of hours”, the supplement to the normal fee is increased by 1.2% from £8.40 to £8.50. Where the vehicle testing station appointed for such a re-examination is, at the applicant’s request, not one provided by the Secretary of State, the supplement or, in a case which is “out of hours”, further supplement, is increased by 12.5% from £4 to £4.50 in the case of a motor vehicle. In the case of a trailer the fee remains unchanged at £2.
+
+The fee payable for the alteration of the plated weights (or any of the plated weights) for a vehicle without an examination is increased by 3.6% from £14 to £14.50.
+
+Where an applicant for an examination cannot or does not propose to proceed with the examination and gives the Secretary of State notice under regulation 39(3)(b)(ii) that no other examination of the same kind is required the fee payable is increased by 33.3% from £1.50 to £2.
+
+A regulatory impact assessment has been prepared and copies can be obtained from the Department of Environment, Transport and the Regions, Zone 2/05, Great Minster House, 76 Marsham Street, London SW1P 4DR (Telephone: 020 7944 2467). A copy has been placed in the library of each House of Parliament.
+
+Copies of the statutory instruments referred to in these Regulations can be obtained from the Stationery Office.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52). Section 49 and 51 were amended by the Road Traffic Act [1991 (c. 41)](https://www.legislation.gov.uk/ukpga/1991/41), Schedule 4, paragraph 54 and Schedule 8.
+
+[^f00002]: Footnote: [S.I. 1988/643](https://www.legislation.gov.uk/uksi/1988/643), which was made under section 102 of the Finance (No. 2) Act [1987 (c. 51)](https://www.legislation.gov.uk/ukpga/1987/51). The relevant amending instrument is [S.I. 1995/1684](https://www.legislation.gov.uk/uksi/1995/1684) and the relevant entry in Table III of Schedule 1 is item 3.
+
+[^f00003]: Footnote: [S.I. 1988/1478](https://www.legislation.gov.uk/uksi/1988/1478); relevant amending instruments are [S.I. 1989/1693](https://www.legislation.gov.uk/uksi/1989/1693), [1990/448](https://www.legislation.gov.uk/uksi/1990/448), [1992/2447](https://www.legislation.gov.uk/uksi/1992/2447), [1993/2048](https://www.legislation.gov.uk/uksi/1993/2048) and [3013](https://www.legislation.gov.uk/uksi/1993/3013), [1997/82](https://www.legislation.gov.uk/uksi/1997/82) and [263](https://www.legislation.gov.uk/uksi/1997/263), [1998/1671](https://www.legislation.gov.uk/uksi/1998/1671) and [2000/1433](https://www.legislation.gov.uk/uksi/2000/1433).

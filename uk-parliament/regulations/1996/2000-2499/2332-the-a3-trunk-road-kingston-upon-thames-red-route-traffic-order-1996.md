@@ -1,0 +1,421 @@
+---
+title: The A3 Trunk Road (Kingston Upon Thames) Red Route Traffic Order 1996
+id: uksi/1996/2332
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1996-09-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1996/2332
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/2332/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The A3 Trunk Road (Kingston Upon Thames) Red Route Traffic Order 1996
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1996 No. 2332
+
+ROAD TRAFFIC
+
+The A3 Trunk Road (Kingston Upon Thames) Red Route Traffic Order 1996
+
+Made
+
+9th September 1996
+
+Coming into force
+
+16th September 1996
+
+The Traffic Director for London, in accordance with a direction given to him by the Secretary of State for Transport under section 58(1) of the Road Traffic Act 1991[^f00001] and in exercise of the powers conferred on the Secretary of State by section 6 of the Road Traffic Regulation Act 1984[^f00002], and of all other enabling powers, hereby makes the following Order:—
+
+## 1. Commencement and citation
+
+This Order may be cited as the A3 Trunk Road (Kingston Upon Thames) Red Route Traffic Order 1996, and shall come into force on 16th September 1996.
+
+## 2. Interpretation
+
+In this Order—
+
+- (a) a reference to an article or a schedule followed by a number is a reference to the article of, or the schedule to, this Order so numbered;
+- (b) “carriageway” has the same meaning as in section 329(1) of the Highways Act 1980[^f00003];
+- (c) causing includes permitting;
+- (d) “disabled person”, “disabled person’s badge” and “disabled person’s vehicle” have the same meanings as in regulation 2(1) of the Local Authorities' Traffic Orders (Exemptions for Disabled Persons) (England and Wales) Regulations 1986[^f00004], and “relevant position” in relation to a disabled person’s badge has the same meaning as in regulation 2A of those regulations;
+- (e) “the trunk road red route” means the lengths of road specified in column 2 of the table in schedule 1;
+- (f) “vehicle” includes part of a vehicle; and
+- (g) an entry in column *(3), (4)*or *(5)*of an item in a schedule to this order applies to that column in subsequent items in that schedule.
+
+## 3. General prohibition of stopping
+
+(1) Subject to the provisions of paragraphs (2) and (3) of this article, and of articles 4, 5, 6, 7, 8 and 9, no person shall cause any vehicle to stop in the trunk road red route during the restricted hours.
+
+(2) Subject to the provisions of paragraph (3) of this article, and of articles 5(1), 8 and 9, no person shall cause any vehicle to stop at any time in any lengths of the trunk road red route specified in schedule 4.
+
+(3) The controls specified in paragraphs (1) and (2) of this article do not apply in respect of any area of the trunk road red route specified in schedule 2A.
+
+(4) In this article “the restricted hours” means, in relation to a length of the trunk road red route specified in an item in column *(2)*of the table in schedule 1, the hours specified in that item in column *(3)*of that table.
+
+## 4. Exemptions for parking
+
+The controls specified in article 3(1) do not apply in respect of a person causing a vehicle to be parked at the edge of the carriageway on a length of road specified in an item in column *(2)*of the table in schedule 2B during the hours specified in column *(3)*in that item for a period not exceeding the period specified in column *(4)*in that item, provided that not less than the period specified in column *(5)*in that item has elapsed since the vehicle was last parked on any part of the same length of road.
+
+## 5. Miscellaneous exemptions for parking
+
+(1) Licensed taxi cabs: The controls specified in article 3(1) and (2) do not apply in respect of a person causing a vehicle being used under a licence under section 6 of the Metropolitan Public Carriage Act 1869[^f00005] to be parked at the edge of the carriageway on a length of road specified in schedule 2D.
+
+(2) Coaches: The controls specified in article 3(1) do not apply in respect of a person causing a motor vehicle constructed or adapted to carry more than 8 passengers (exclusive of the driver) or a local bus (as defined in article 8(4)) not so constructed or adapted, to be parked at the edge of the carriageway on a length of road specified in an item in column *(2)*of the table in schedule 2E during the hours specified in column *(3)*in that item for a period not exceeding the period specified in column *(4)*in that item, provided that not less than the period specified in column *(5)*in that item has elapsed since the vehicle was last parked on any part of the same length of road.
+
+(3) Doctors' vehicles: The controls specified in article 3(1) do not apply in respect of a person causing a vehicle to be parked at the edge of the carriageway on a length of road specified in an item in column *(2)*of the table in schedule 2F during the hours specified in column *(3)*in that time, provided that—
+
+- (a) there is displayed in the windscreen of the vehicle a badge issued by, or with the authority of, the Traffic Director for London to a medical practitioner, and which specifies—
+  - (i) the name of the person to whom it was issued, and
+  - (ii) the premises in relation to which it applies; and
+- (b) the vehicle was parked by, or with the permission of, the person whose name is specified on the badge and for so long only as the person who parked the vehicle is engaged in work at the premises specified on the badge.
+
+(4) Solo motor bicycles: The controls specified in article 3(1) do not apply in respect of a person causing a motor bicycle without a side-car to be parked at the edge of the carriageway on a length of road specified in an item in column *(2)*of the table in schedule 2G during the hours specified in column *(3)*in that item.
+
+## 6. Exemptions for loading and unloading
+
+The controls specified in article 3(1) do not apply in respect of a person causing a vehicle which is being loaded or unloaded to stop at the edge of the carriageway on a length of road specified in an item in column *(2)*of the tables in schedules 3A and 3B during the hours specified in column *(3)*in that item for as long as is needed to load or unload the vehicle or 20 minutes, whichever is the less, provided that not less than 20 minutes has elapsed since the vehicle was last parked on any part of the same length of road.
+
+## 7. Exemptions for disabled persons
+
+(1) The controls specified in article 3(1) do not apply in respect of a person causing a vehicle which displays a disabled person’s badge in the relevant position to park at the edge of the carriageway on a length of road specified in an item in column *(2)*of the table in schedule 2B during the hours specified in column *(3)*in that item.
+
+(2) The controls specified in article 3(1) do not apply in respect of a person causing a vehicle which displays a disabled person’s badge in the relevant position to park at the edge of the carriageway on a length of road specified in an item in column *(2)*of the table in schedule 2C during the hours specified in column *(3)*in that item.
+
+(3) The controls specified in article 3(1) do not apply in respect of a person causing a vehicle which displays a disabled person’s badge in the relevant position, and a parking disc on which is shown the time at which the period of parking began, to park at the edge of the carriageway on a length of road specified in an item in column *(2)*of the table in schedule 3A during the hours specified in column *(3)*in that item, for a period of up to 3 hours not being a period separated by an interval of less than 1 hour from a previous period when that vehicle was parked in that length of road.
+
+## 8. Exemptions at bus stops and stands
+
+(1) The controls specified in article 3(1) and (2) do not apply in respect of a person causing a vehicle to which this article applies to stop at a bus stop (being an area of road bounded by a traffic sign which includes the words “bus stop”) for so long only as may be required to enable passengers to get on or off the vehicle or, in the case of a vehicle being used to provide a local service, for so long only as may be required for a change of crew.
+
+(2) The controls specified in article 3(1) and (2) do not apply in respect of a person causing a vehicle being used to provide a local service to stop at a bus stand (being an area of road bounded by a traffic sign which includes the words “bus stand”) for so long only as may be required for timetabling reasons.
+
+(3) This article applies—
+
+- (a) before 1st January 1997 to
+  - (i) a public service vehicle used for the provision of a local service or a scheduled express service,
+  - (ii) a school bus, and
+  - (iii) a works bus; and
+- (b) after 31st December 1996 to
+  - (i) a motor vehicle constructed or adapted to carry more than 8 passengers (exclusive of the driver), and
+  - (ii) a local bus not so constructed or adapted.
+
+(4) In this article “local bus”, “local service”, “scheduled express service”, “school bus” and “works bus” have the meanings given to those expressions in regulation 4 of the Traffic Signs Regulations and General Directions 1994[^f00006].
+
+## 9. Other exemptions
+
+(1) The controls specified in article 3(1) and (2) do not apply in respect of a person causing a vehicle to stop if that person is—
+
+- (a) required by law to cause the vehicle to stop or not to proceed;
+- (b) obliged to stop the vehicle so as to avoid an accident;
+- (c) prevented from proceeding in the vehicle by circumstances beyond the person’s control;
+- (d) getting or giving help in consequence of an accident or an emergency, or otherwise taking action for public safety;
+- (e) opening or closing a gate or other barrier at the entrance to premises to which the vehicle is being driven or from which it has emerged if it is not reasonably practicable to cause the vehicle to stop elsewhere for the purpose;
+- (f) using the vehicle for fire brigade, ambulance or police purposes;
+- (g) using the vehicle in connection with the removal of any obstruction to traffic;
+- (h) using the vehicle in connection with the maintenance, improvement or reconstruction of any length of road specified in schedule 1;
+  - (i) using the vehicle under a licence under section 6 of the Metropolitan Public Carriage Act 1869 to stop for so long only as may be required to enable a passenger to get on or off the vehicle; or
+- (j) using a disabled person’s vehicle which displays a disabled person’s badge in the relevant position to stop for so long only as may be required to enable a disabled person to get on or off the vehicle.
+
+(2) The controls specified in article 3(1) and (2) do not apply in respect of a vehicle which bears the Royal Mail livery which is waiting at the edge of a carriageway for as long as may be necessary for the purpose of collecting or delivering letters in pursuance of any statutory duty of the Post Office to collect or deliver letters.
+
+(3) The controls specified in article 3(1) and (2) do not apply to anything done with the permission or at the direction of a police constable in uniform or a traffic warden.
+
+## 10. Revocation of existing Orders
+
+(1) The Kingston Upon Thames (Waiting and Loading Restriction) (No. 1) Traffic Order 1994 as amended and the A3 Trunk Road (Kingston Upon Thames) Red Route Experimental Traffic Order 1995[^f00007] are hereby revoked, in so far as their provisions relate to any part of the trunk road red route.
+
+Signed in accordance with a direction from the Secretary of State for Transport.
+
+Derek Turner
+
+Traffic Director for London
+
+9 September 1996
+
+## SCHEDULE 1
+
+Articles 2 and 3(1)
+
+The Trunk Road Red Route.
+
+**Table**
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+<tr><th><em>Item</em></th><th><em>Length of Road</em></th><th><em>Restricted Hours</em></th></tr>
+</thead>
+<tbody>
+<tr><td>1.</td><td>A3, Kingston Vale and Robin Hood Way—west side, from a point opposite the common boundary of Nos. 21 and 23 Robin Hood Way to the boundary with the London Borough of Wandsworth.</td><td>7am—7pm Monday–Saturday Inclusive</td></tr>
+<tr><td>2.</td><td>A3, Kingston Vale and Robin Hood Way—east side, from a point 14 metres north of the common boundary of Nos. 12 and 14 Robin Hood Way to the boundary with the London Borough of Wandsworth.</td></tr>
+<tr><td>3.</td><td>Robin Hood Way—west side service road, between a point 2 metres north of the southern flank wall of No. 23 Robin Hood Way and its junction with A3, Robin Hood Way.</td></tr>
+<tr><td>4.</td><td>Robin Hood Way—east side service road, between its junction with A3 Robin Hood Way and a point opposite the Common Boundary of Nos. 2 and 4 Robin Hood Way.</td></tr>
+<tr><td>5.</td><td>Ace Parade—from the junction with Hook Rise South to the junction with Elmcroft Drive.</td></tr>
+<tr><td>6.</td><td>Tolworth Rise South—from the common boundary of Nos. 112 and 114 Tolworth Rise South, including the southbound slip from A3, Kingston Bypass to its junction with Tolworth Roundabout.</td></tr>
+<tr><td>7.</td><td>Hook Rise North service road fronting Nos. 342 to 320 Hook Rise North—from its junction with A3, Kingston Bypass, to its junction with Fullers Way North.</td></tr>
+<tr><td>8.</td><td>Tolworth Rise North—northbound slip road from its junction with Tolworth Roundabout to A3, Kingston Bypass.</td></tr>
+<tr><td>9.</td><td>Hook Rise North—northbound slip road from A3, Kingston Bypass to its junction with Tolworth Roundabout.</td></tr>
+<tr><td>10.</td><td>Hook Rise North—eastbound slip road from Hook Roundabout, between its junction with Hook Roundabout and a point 40 metres south east of the eastern kerbline of Hook Roundabout, measured along the southern kerbline of Hook Rise North.</td></tr>
+<tr><td>11.</td><td>Hook Rise South—westbound slip road from A3, Kingston Bypass to Hook Roundabout and that part of the service road fronting Nos. 333 Hook Rise South and Nos. 1 and 2 Elmcroft Drive, between a point 20 metres south east of the common boundary of No. 333 Hook Rise South and No. 1 Elmcroft Drive and its junction with Hook Road.</td></tr>
+<tr><td>12.</td><td>Hook Rise South—southbound slip road between its junction with Tolworth Roundabout and a point 25 metres south west of the south western kerbline of Tolworth Roundabout, measured along the north west kerbline of Hook Rise South.</td></tr>
+<tr><td>13.</td><td>Malden Way, north west side—service road, between a point opposite the south western flank wall of No. 187 Malden Way and a point 5 metres north east of a point opposite the south western flank wall of No. 171 Malden Way, including the eastern slip road leading from South Lane to the A3 and the western slip road leading from the A3 to South Lane.</td></tr>
+<tr><td>14.</td><td>Malden Way, south east side—service road, between a point opposite the common boundary of Nos. 244 and 246 Malden Way and its junction with South Lane, including the eastern slip road leading from the A3, Malden Way to South Lane and the western slip road leading from South Lane to the A3, Malden Way.</td></tr>
+<tr><td></td><td>Tolworth Rise North, service road</td></tr>
+<tr><td>15.</td><td>Between a point opposite the common boundary of Nos. 143 and 145 Tolworth Rise North and a point 5 metres north east of the common boundary of Nos. 157 and 159 Tolworth Rise North, including the junction with Highfield Road and the exit from the A3 Tolworth Rise North to Highfield Road.</td></tr>
+<tr><td>16.</td><td>Between the common boundary of Nos. 213 and 215 Tolworth Rise North and a point opposite the north eastern flank wall of Perak Court, including the junction with Elmbridge Avenue and the exit from the A3 Tolworth Rise North to Elmbridge Avenue.</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2A
+
+Article 3(3)
+
+Lengths of the trunk road red route to which the prohibitions and restrictions specified in article 3(1) and (2) do not apply.
+
+**Table**
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th></tr>
+<tr><th><em>Item</em></th><th><em>Length of Road</em></th></tr>
+</thead>
+<tbody>
+<tr><td></td><td>No items.</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2B
+
+Articles 4 and 7(1)
+
+Lengths of the trunk road red route on which there are exemptions for parking and disabled person’s vehicles.
+
+**Table**
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th><th><em>(4)</em></th><th><em>(5)</em></th></tr>
+<tr><th><em>Item</em></th><th><em>Length of Road</em></th><th><em>Restricted Hours</em></th><th><em>Maximum Period of Parking</em></th><th><em>Minimum Interval</em></th></tr>
+</thead>
+<tbody>
+<tr><td>1.</td><td>Ace Parade—east side, between a point opposite the common boundary of Nos. 8 and 9 Ace Parade and a point opposite the common boundary of Nos. 17 and 18 Ace Parade.</td><td>7am–7pm Monday–Saturday Inclusive</td><td>1 hour</td><td>2 hours</td></tr>
+<tr><td>2.</td><td>Ace Parade—west side, between a point 1 metre south west of the common boundary of Nos. 10 and 11 Ace Parade and a point opposite the common boundary of Nos. 17 and 18 Ace Parade.</td></tr>
+<tr><td>3.</td><td>Tolworth Rise South—westbound slip road to Tolworth Roundabout, between a point opposite the common boundary of Nos. 12 and 14 Tolworth Rise South and a point opposite the common boundary of Nos. 34 and 36 Tolworth Rise South.</td><td>7am–4pm Monday–Saturday</td><td>1 hour</td><td>2 hours</td></tr>
+<tr><td></td><td>Hook Rise North, eastbound slip road at Tolworth Roundabout, north west side</td><td>10am–4pm Monday–Saturday Inclusive</td><td>1 hour</td><td>2 hours</td></tr>
+<tr><td>4.</td><td>Between a point 3.5 metres south west of the common boundary of Nos. 40 and 42 Hook Rise North and 7 metres north of that point.</td></tr>
+<tr><td>5.</td><td>Between a point 4 metres south west of the common boundary of Nos. 44 and 46 Hook Rise North and a point 7 metres north east of that point.</td><td>10am–4pm Monday–Saturday Inclusive</td><td>1 hour</td><td>2 hours</td></tr>
+<tr><td>6.</td><td>Between a point 1.5 metres south west of the common boundary of Nos. 30 and 32 Hook Rise North and 5.5 metres north east of that point.</td></tr>
+<tr><td>7.</td><td>Between a point 3.5 metres south west of the common boundary of Nos. 26 and 28 Hook Rise North and 7 metres north east of that point.</td></tr>
+<tr><td>8.</td><td>Between a point 4.5 metres south west of the common boundary of Nos. 10 and 12 Hook Rise North and 9 metres north east of that point.</td></tr>
+<tr><td>9.</td><td>Between a point 2.5 metres south west of the common boundary of Nos. 6 and 8 Hook Rise North and 6 metres north east of that point.</td></tr>
+<tr><td></td><td>Tolworth Rise North, eastbound slip road from Tolworth Roundabout, north west side</td></tr>
+<tr><td>10.</td><td>Between a point 3 metres south west of the common boundary of Nos. 39 and 41 Tolworth Rise North and 7 metres north east of that point.</td></tr>
+<tr><td>11.</td><td>Between a point 4 metres south west of the common boundary of Nos. 47 and 49 Tolworth Rise North and 8 metres north east of that point.</td></tr>
+<tr><td>12.</td><td>Between a point 3.5 metres south west of the common boundary of Nos. 55 and 57 Tolworth Rise North and 7 metres north east of that point.</td></tr>
+<tr><td>13.</td><td>Between a point 3.5 metres south west of the common boundary of Nos. 59 and 61 Tolworth Rise North and 7 metres north east of that point.</td></tr>
+<tr><td>14.</td><td>Between a point 2.5 metres south west of the common boundary of Nos. 67 and 69 Tolworth Rise North and 6.5 metres north east of that point</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2C
+
+Article 7(2)
+
+Length of the trunk road red route on which there are exemptions for parking by disabled persons' vehicles only.
+
+**Table**
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+<tr><th><em>Item</em></th><th><em>Length of Road</em></th><th><em>Restricted Hours</em></th></tr>
+</thead>
+<tbody>
+<tr><td>1.</td><td>Robin Hood Way—west side service road, west side, between a point 2 metres north of the southern flank wall of No. 23 Robin Hood Way and a point 2 metres north of the common boundary of Nos. 21 and 23 Robin Hood Way.</td><td>7am–7pm Monday–Saturday Inclusive</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2D
+
+Article 5(1)
+
+Lengths of the trunk road red route on which there are exemptions for licensed taxi cabs only.
+
+**Table**
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th></tr>
+<tr><th><em>Item</em></th><th><em>Length of Road</em></th></tr>
+</thead>
+<tbody>
+<tr><td></td><td>No items.</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2E — Lengths of the trunk road red route on which there are exemptions for coaches only.
+
+Article 5(2)
+
+**Table**
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th><th><em>(4)</em></th><th><em>(5)</em></th></tr>
+<tr><th><em>Item</em></th><th><em>Length of Road</em></th><th><em>Restricted Hours</em></th><th><em>Maximum Period of Parking</em></th><th><em>Minimum Interval</em></th></tr>
+</thead>
+<tbody>
+<tr><td></td><td>No items.</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2F
+
+Article 5(3)
+
+Lengths of the trunk road red route on which there are exemptions for doctors' vehicles.
+
+**Table**
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+<tr><th><em>Item</em></th><th><em>Length of Road</em></th><th><em>Restricted Hours</em></th></tr>
+</thead>
+<tbody>
+<tr><td></td><td>No items.</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2G — Lengths of the trunk road red route on which there are exemptions for solo motor bicycles only.
+
+Article 5(4)
+
+**Table**
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+<tr><th><em>Item</em></th><th><em>Length of Road</em></th><th><em>Restricted Hours</em></th></tr>
+</thead>
+<tbody>
+<tr><td></td><td>No items.</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 3A
+
+Article 6 and 7(3)
+
+Lengths of the trunk road red route on which there are exemptions for loading or unloading and for disabled persons' vehicles
+
+**Table**
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+<tr><th><em>Item</em></th><th><em>Length of Road</em></th><th><em>Restricted Hours</em></th></tr>
+</thead>
+<tbody>
+<tr><td>1.</td><td>Hook Rise North—service road fronting Nos. 320 to 342 Hook Rise North, north side, between a point opposite the common boundary of Nos. 332 and 334 and a point 1 metre east of the common boundary of Nos. 328 and 330 Hook Rise North.</td><td>7am–7pm Monday–Saturday Inclusive</td></tr>
+<tr><td>2.</td><td>Ace Parade—east side, between a point 4 metres south west of the common boundary of Nos. 5 and 6 Ace Parade and a point opposite the common boundary of Nos. 8 and 9 Ace Parade.</td></tr>
+<tr><td></td><td>3.</td><td>A3 Robin Hood Way, London Bound Carriageway, west side—between a point 2 metres south of the common boundary of Nos. 5 and 7 Robin Hood Way and a point 3 metres north of the common boundary of Nos. 3 and 5 Robin Hood Way.</td></tr>
+<tr><td>4.</td><td>Hook Rise South—slip to Hook Road Roundabout, south side between a point 4 metres north west of the common boundary of Nos. 365 and 363 and 8.5 metres south east of that point.</td><td>10am–4pm Monday–Saturday Inclusive</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 3B — Lengths of the trunk road red route on which there are exemptions for loading or unloading.
+
+Article 6
+
+**Table**
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+<tr><th><em>Item</em></th><th><em>Length of Road</em></th><th><em>Restricted Hours</em></th></tr>
+</thead>
+<tbody>
+<tr><td></td><td>No items.</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 4
+
+Article 3(2)
+
+Lengths of the trunk road red route on which stopping is prohibited at all times.
+
+**Table**
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th></tr>
+<tr><th><em>Item</em></th><th><em>Length of Road</em></th></tr>
+</thead>
+<tbody>
+<tr><td>1.</td><td>A3 Robin Hood Way—north bound carriageway, east side between a point opposite the common boundary of Nos. 21 and 23 Robin Hood Way and its junction with Kingston Vale.</td></tr>
+<tr><td></td><td>A3 Robin Hood Way—northbound carriageway, west side</td></tr>
+<tr><td>2.</td><td>Between a point opposite the common boundary of Nos. 21 and 23 Robin Hood Way and a point 2 metres south of the common boundary of Nos. 5 and 7 Robin Hood Way.</td></tr>
+<tr><td>3.</td><td>Between a point 3 metres north of the common boundary of Nos. 3 and 5 Robin Hood Way and its junction with Kingston Vale.</td></tr>
+<tr><td>4.</td><td>A3 Robin Hood Way—Esher bound carriageway between its junction with Kingston Vale and a point 14 metres north of the common boundary of Nos. 12 and 14 Robin Hood Way.</td></tr>
+<tr><td>5.</td><td>Robin Hood Way—east side, service road fronting Nos. 2 to 62 Robin Hood Way between its junction with A3, Robin Hood Way and a point opposite the common boundary of Nos. 2 and 4 Robin Hood Way.</td></tr>
+<tr><td>6.</td><td>Robin Hood Way—east side service road, between its junction with A3 Robin Hood Way and a point opposite the Common Boundary of Nos. 2 and 4 Robin Hood Way.</td></tr>
+<tr><td>7.</td><td>Robin Hood Way—west side, service road fronting Nos. 21 to 67 Robin Hood Way west side, between its junction with A3, Robin Hood Way and a point 2 metres north of the common boundary of Nos. 21 and 23 Robin Hood Way.</td></tr>
+<tr><td>8.</td><td>Robin Hood Way—west side, service road fronting Nos. 21 to 67 Robin Hood Way east side, between its junction with A3, Robin Hood Way and a point 1 metre north of the southern flank wall of No. 23.</td></tr>
+<tr><td>9.</td><td>A3, Kingston Vale—north-west side (London bound carriageway), between its junction with Robin Hood Way and the borough with London Borough of Wandsworth.</td></tr>
+<tr><td>10.</td><td>A3, Kingston Vale—south-east side (Esher bound carriageway), between the borough boundary with London Borough of Wandsworth and its junction with Robin Hood Way.</td></tr>
+<tr><td>11.</td><td>Ace Parade—north west side, between its junction with Hook Rise South and a point 1 metre south of the common boundary of Nos. 10 and 11 Ace Parade.</td></tr>
+<tr><td>12.</td><td>Ace Parade, between its junction with Elmcroft Drive and a point opposite the common boundary of Nos. 17 and 19 Ace Parade.</td></tr>
+<tr><td>13.</td><td>Hook Rise North—London bound on-slip road from Hook Roundabout between its junction with Hook Roundabout and 40 metres south east of the eastern kerbline of Hook Roundabout, measured along the southern kerbline of Hook Rise North.</td></tr>
+<tr><td>Hook Rise North—slip road from A3, Kingston Bypass to Tolworth Roundabout, north west side</td></tr>
+<tr><td>14.</td><td>Between its junction with A3, Kingston Bypass and a point 5 metres north east of the common boundary of Nos. 48 and 46 Hook Rise North.</td></tr>
+<tr><td>15.</td><td>Between a point 5 metres south west of the common boundary of Nos. 4 and 6 Hook Rise North and its junction with Tolworth Roundabout.</td></tr>
+<tr><td>16.</td><td>Hook Rise North—slip road from A3, Kingston Bypass to Tolworth Roundabout, south east side, between its junction with A3, Kingston Bypass and its junction with Tolworth Roundabout.</td></tr>
+<tr><td>17.</td><td>Hook Rise North—service road fronting Nos. 342 to 320 Hook Rise North, north side, between its junction with A3, Kingston Bypass and a point opposite the common boundary of Nos. 342 and 340 Hook Rise North.</td></tr>
+<tr><td>18.</td><td>Hook Rise North—service road fronting Nos. 342 to 320 Hook Rise North, south side, between its junction with A3, Kingston Bypass and Fullers Way North.</td></tr>
+<tr><td>19.</td><td>Hook Rise South—southbound on-slip road from Tolworth Roundabout, between its junction with Tolworth roundabout and 25 metres south west of the south western kerbline of Tolworth Roundabout, measured along the north west kerbline of Hook Rise South.</td></tr>
+<tr><td>20.</td><td>Hook Rise South—slip road to Hook Roundabout and part of the service road fronting Nos. 333 Hook Rise South and Nos. 1 and 2 Elmcroft Drive, north side, between its junction with Hook Roundabout and a point 22 metres south east of the common boundary of No. 333 Hook Rise South and No. 1 Elmcroft Drive.</td></tr>
+<tr><td>21.</td><td>Hook Rise South—slip road to Hook Roundabout and part of the service road fronting Nos. 333 Hook Rise South and Nos. 1 and 2 Elmcroft Drive, south side, between a point 19 metres south east of the common boundary of No. 333 Hook Rise South and 1 Elmcroft Drive and a point 4.5 metres south east of the common boundary of Nos. 365 and 363 Hook Rise South.</td></tr>
+<tr><td>22.</td><td>Malden Way—north west side, service road, between a point opposite the south western flank wall of No. 187 Malden Way and a point 5 metres north east of a point opposite the south western flank wall of No. 171 Malden Way, including the eastern slip road leading from South Lane to the A3 and the western slip road leading from the A3 to South Lane.</td></tr>
+<tr><td>22.</td><td>Malden Way—south east side, service road, between a point opposite the common boundary of Nos. 244 and 246 Malden Way and its junction with South Lane, including the eastern slip road leading from the A3, Malden Way to South Lane and the western slip road leading from South Lane to the A3, Malden Way.</td></tr>
+<tr><td>Tolworth Rise North—north west side</td></tr>
+<tr><td>24.</td><td>Between its junction with Tolworth Roundabout and a point 9 metres south west of the south west flank wall of No. 35 Tolworth Rise North.</td></tr>
+<tr><td>25.</td><td>Between a point 2 metres north east of the common boundary of Nos. 109 and 111 Tolworth Rise North and its junction with Warren Drive North.</td></tr>
+<tr><td>26.</td><td>Between a point 3.5 metres south west of the common boundary of Nos. 85 and 83 Tolworth Rise North and a point 2 metres north east of the common boundary of Nos. 87 and 89 Tolworth Rise North.</td></tr>
+<tr><td>27.</td><td>Tolworth Rise North—south east side, between its junction with Tolworth Roundabout and its junction with A3, Kingston Bypass.</td></tr>
+<tr><td></td><td>Tolworth Rise North, service road</td></tr>
+<tr><td>28.</td><td>Between a point opposite the common boundary of Nos. 143 and 145 Tolworth Rise North and a point 5 metres north east of the common boundary of Nos. 157 and 159 Tolworth Rise North, including the junction with Highfield Road and the exit from the A3 Tolworth Rise North to Highfield Road.</td></tr>
+<tr><td>29.</td><td>Between the common boundary of Nos. 213 and 215 Tolworth Rise North and a point opposite the north eastern flank wall of Perak Court, including the junction with Elmbridge Avenue and the exit from the A3 Tolworth Rise North to Elmbridge Avenue.</td></tr>
+<tr><td>30.</td><td>Tolworth Rise South—north west side, between its junction with Tolworth Roundabout and a point opposite the common boundary of Nos. 112 and 114 Tolworth Rise South.</td></tr>
+<tr><td></td><td>Tolworth Rise South—south east side</td></tr>
+<tr><td>31.</td><td>Between a point opposite the common boundary of Nos. 112 and 114 Tolworth Rise South and a point opposite the common boundary of Nos. 34 and 36 Tolworth Rise North.</td></tr>
+<tr><td>32.</td><td>Between its junction with Tolworth Roundabout and a point opposite the common boundary of Nos. 12 and 14 Tolworth Rise South.</td></tr>
+</tbody>
+</table>
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 40](https://www.legislation.gov.uk/ukpga/1991/40).
+
+[^f00002]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
+
+[^f00003]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^f00004]: Footnote: S.I. [1986/178](https://www.legislation.gov.uk/uksi/1986/178) as amended by S.I. [1991/2709](https://www.legislation.gov.uk/uksi/1991/2709).
+
+[^f00005]: Footnote: [1869 c. 115](https://www.legislation.gov.uk/ukpga/1869/115).
+
+[^f00006]: Footnote: S.I. [1994/1519](https://www.legislation.gov.uk/uksi/1994/1519).
+
+[^f00007]: Footnote: S.I. [1995/339](https://www.legislation.gov.uk/uksi/1995/339).

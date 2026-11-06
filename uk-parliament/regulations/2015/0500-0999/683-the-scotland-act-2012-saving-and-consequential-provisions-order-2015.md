@@ -1,0 +1,115 @@
+---
+title: The Scotland Act 2012 (Saving and Consequential Provisions) Order 2015
+id: uksi/2015/683
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-03-17'
+text_date: '2015-12-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/683
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/683/pdfs/uksiem_20150683_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/683/pdfs/uksi_20150683_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/683/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Scotland Act 2012 (Saving and Consequential Provisions) Order 2015
+
+> Text as at 2015-12-16.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 683
+
+Constitutional Law
+
+Devolution, Scotland
+
+The Scotland Act 2012 (Saving and Consequential Provisions) Order 2015
+
+Made
+
+17th March 2015
+
+Laid before Parliament
+
+18th March 2015
+
+Coming into force in accordance with article 1
+
+The Secretary of State makes the following Order in exercise of the powers conferred by section 42(1), (2) and (4) of the Scotland Act 2012[^f00001]:
+
+## 1. Citation and commencement[^key-fafc2f4d2ec3baeaa9ccac760abfdbb9]
+
+This Order may be cited as the Scotland Act 2012 (Saving and Consequential Provisions) Order 2015 and comes into force immediately after sections 1 and 3 of the Scotland Act 2012[^f00002] (administration of, and supplementary and transitional provision about, Scottish Parliament elections) come into force.
+
+## 2. Saving provision[^key-8b1d3166f36772bcc76f244b6428ef0a]
+
+Articles 3 to 9 of this Order and sections 1 and 3 of the Scotland Act 2012 have no effect for the purposes of any election for which the date of poll is on or before 4th April 2016.
+
+## 3. Consequential provision[^key-fc7ca90abdf2d7ecf68486c655f2526c]
+
+In Schedule 1 to the Scotland Act 1998 (Agency Arrangements) (Specification) Order 1999[^f00003] (functions of a Minister of the Crown which may be exercised on behalf of that Minister under agency arrangements with the Scottish Ministers), omit paragraphs 4 and 13 to 19.
+
+**4.**[^key-3a68de7f43eff33a083655bbe024ceff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-3a68de7f43eff33a083655bbe024ceff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-3a68de7f43eff33a083655bbe024ceff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-3a68de7f43eff33a083655bbe024ceff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-3a68de7f43eff33a083655bbe024ceff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-3a68de7f43eff33a083655bbe024ceff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+David Mundell
+
+Parliamentary Under Secretary of State
+
+Scotland Office
+
+Dover House,
+
+London
+
+17th March 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision in consequence of, and in connection with, the commencement of sections 1 and 3 of the Scotland Act [2012 (c.11)](https://www.legislation.gov.uk/ukpga/2012/11). Those sections will (subject to some exceptions) transfer from the Secretary of State to the Scottish Ministers responsibility for making provision about the conduct of elections for, and the return of members to, the Scottish Parliament.
+
+Article 2 provides for that transfer of responsibility not to apply to elections which have a date of poll on or before 4th April 2016 (5th April being the earliest possible date of the next ordinary general election to the Scottish Parliament). Elections with polls before then will continue to be governed by the pre-commencement arrangements.
+
+Article 3 revokes spent provisions which previously permitted the Secretary of State to enter into agency arrangements with the Scottish Ministers for the performance of some elections functions. Once the functions are transferred to the Scottish Ministers (or, in the case of determining the terms and conditions for loans of equipment, are removed by article 6 of this Order) these arrangements, and the provision underpinning them, will be unnecessary.
+
+Article 6 removes provision in the Scottish Parliament (Elections etc.) Order 2010 ([S.I. 2010/2999](https://www.legislation.gov.uk/uksi/2010/2999)) on the loan of equipment as that provision would cease to be appropriate once sections 1 and 3 of the 2012 Act are commenced.
+
+Articles 4, 5, 7, 8 and 9 make other consequential amendments to that Order to reflect the transfer of responsibility to the Scottish Ministers, for example: ensuring that references to the Secretary of State in some legislation that that Order applies are instead read as references to the Scottish Ministers; that subordinate legislation made by the Scottish Ministers is subject to procedure in the Scottish Parliament and not in Parliament; that payments are made to and from the Scottish Consolidated Fund rather than the Consolidated Fund; and to remove the requirement for HM Treasury to consent to subordinate legislation concerning the charges of returning officers.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2012 c.11](https://www.legislation.gov.uk/ukpga/2012/11).
+
+[^key-fafc2f4d2ec3baeaa9ccac760abfdbb9]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1) in force at 1.7.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1)
+
+[^f00002]: Footnote: Sections 1 and 3 are to come into force on 1st July 2015 in accordance with [S.I. 2015/682](https://www.legislation.gov.uk/uksi/2015/682).
+
+[^key-8b1d3166f36772bcc76f244b6428ef0a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/683/article/2) in force at 1.7.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1)
+
+[^key-fc7ca90abdf2d7ecf68486c655f2526c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/683/article/3) in force at 1.7.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1)
+
+[^f00003]: Footnote: [S.I. 1999/1512](https://www.legislation.gov.uk/uksi/1999/1512), to which there are amendments not relevant to this Order.
+
+[^key-3a68de7f43eff33a083655bbe024ceff]: Textual amendment: [Arts. 4-9](https://www.legislation.gov.uk/uksi/2015/683/article/4) revoked (16.12.2015) by [The Scottish Parliament (Elections etc.) Order 2015 (S.S.I. 2015/425)](https://www.legislation.gov.uk/ssi/2015/425), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/425/article/1/1), [sch. 9 para. 6](https://www.legislation.gov.uk/ssi/2015/425/schedule/9/paragraph/6) (with [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/425/article/1/2), [93(2)](https://www.legislation.gov.uk/ssi/2015/425/article/93/2))

@@ -1,0 +1,27 @@
+---
+title: The Building Society Insolvency (Scotland) Rules 2010, section 20
+act: The Building Society Insolvency (Scotland) Rules 2010
+section: '20'
+status: revised
+text_date: '2013-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/uksi/2010/2584/section/20
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Society Insolvency (Scotland) Rules 2010, section 20
+
+> Text as at 2013-04-01.
+>
+> Extent: Scotland.
+
+## 20. Limited disclosure[^key-c60549e7af2eea77fc68d8b2e5108ede]
+
+*Extent: S*
+
+Without prejudice to any other means of restricting disclosure, the building society liquidator may also apply to the court for an order limiting disclosure of the names, addresses and claims of persons who were depositors of the building society and who, at the time of making the statement of affairs, still have a claim against the building society in respect of those deposits.
+
+## Annotations
+
+[^key-c60549e7af2eea77fc68d8b2e5108ede]: Commencement: Rule 20 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

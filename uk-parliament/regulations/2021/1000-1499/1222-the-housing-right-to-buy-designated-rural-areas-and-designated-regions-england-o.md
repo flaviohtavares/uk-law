@@ -1,0 +1,135 @@
+---
+title: The Housing (Right to Buy) (Designated Rural Areas and Designated Regions) (England) Order 2021
+id: uksi/2021/1222
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2021-11-01'
+text_date: '2022-12-12'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2021/1222
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/1222/pdfs/uksiem_20211222_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/1222/pdfs/uksi_20211222_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/1222/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Housing (Right to Buy) (Designated Rural Areas and Designated Regions) (England) Order 2021
+
+> Text as at 2022-12-12.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2021 No. 1222
+
+Housing, England
+
+The Housing (Right to Buy) (Designated Rural Areas and Designated Regions) (England) Order 2021
+
+Made
+
+1st November 2021
+
+Laid before Parliament
+
+2nd November 2021
+
+Coming into force
+
+29th November 2021
+
+The Secretary of State makes the following Order in exercise of the powers conferred by section 157(1)(c) and (3) of the Housing Act 1985[^f00001].
+
+## 1. Citation, commencement, interpretation and application[^key-7c18c7c6bccf944c308ccb44e1c8e1c8]
+
+(1) This Order may be cited as the Housing (Right to Buy) (Designated Rural Areas and Designated Regions) (England) Order 2021 and comes into force on 29th November 2021.
+
+(2) In this Order—
+
+- (a) “the Act” means the Housing Act 1985; and
+- (b) “the 2016 Order” means the Housing (Right to Buy) (Designated Rural Areas and Designated Regions) (England) Order 2016[^f00002].
+
+(3) This Order applies to England only.
+
+## 2. Designated rural areas[^key-57d8e0e803a64e0cded5eded0987f6b6]
+
+The areas specified in the Schedule are designated as rural areas for the purposes of section 157 of the Act.
+
+## 3. Designated regions[^key-c257f7f8314cb2edd4a3e18d110c0ed5]
+
+In relation to a dwelling house which is situated in a rural area designated by article 2 and listed in—
+
+- (a) paragraph 1 of the Schedule, the region designated (for the purposes of section 157(3) of the Act) is the district of South Somerset;
+- (b) paragraph 2 of the Schedule, the region designated (for the purposes of section 157(3) of the Act) is the district of West Lindsey; and
+- (c) paragraph 3 of the Schedule, the region designated (for the purposes of section 157(3) of the Act) is the district of Wyre Forest[^key-63ac4e8f35bb80e26ef69450a7abc225].
+
+## 4. Revocation of Article 8 of the 2016 Order[^key-8d405fc0071ef7ff9e64287878bb226b]
+
+In the 2016 Order, article 8 is revoked.
+
+Signed by authority of the Secretary of State for Levelling Up, Housing and Communities
+
+Christopher Pincher
+
+Minister of State
+
+Department for Levelling Up, Housing and Communities
+
+1st November 2021
+
+## SCHEDULE — Designation of rural areas
+
+Article 2
+
+**1.**[^key-59c0bc8dbf47b963ea1d27ac49de16e9] In the district of South Somerset the parishes of Abbas and Templecombe, Alford, Aller, Ash, Ashill, Babcary, Barrington, Barton St. David, Barwick, Beercrocombe, Bratton Seymour, Brewham, Broadway, Chaffcombe, Charlton Horethorne, Charlton Mackrell, Charlton Musgrove, Chillington, Chilthorne Domer, Chilton Cantelo, Chiselborough, Closworth, Combe St Nicholas, Compton Dundon, Compton Pauncefoot, Corton Denham, Cricket St Thomas, Cucklington, Cudworth, Curry Mallet, Curry Rivel, Dinnington, Donyatt, Dowlish Wake, Drayton, East Chinnock, East Coker, Fivehead, Hambridge and Westport, Hardington Mandeville, Haselbury Plucknett, Henstridge, High Ham, Hinton St. George, Holton, Horsington, Horton, Ilchester, Ilton, Isle Abbotts, Isle Brewers, Keinton Mandeville, Kingsbury Episcopi, Kingsdon, Kingstone, Kingweston, Knowle St. Giles, Limington, Long Load, Long Sutton, Lopen, Lovington, Maperton, Marston Magna, Merriott, Misterton, Montacute, Muchelney, Mudford, North Barrow, North Cadbury, North Cheriton, North Perrott, Norton sub Hamdon, Odcombe, Pen Selwood, Pitcombe, Pitney, Puckington, Queen Camel, Rimpton, Seavington St Mary, Seavington St Michael, Shepton Beauchamp, Shepton Montague, South Barrow, South Cadbury, Sparkford, Stocklinch, Stoke sub Hamdon, Stoke Trister, Tatworth and Forton, Tintinhull, Wambrook, Wayford, West and Middle Chinnock, West Camel, West Coker, West Crewkerne, Whitelackington, Winsham, Yarlington and Yeovilton.
+
+**2.**[^key-3df58fad7dce0bad6ec0e2ae313ec02b] In the district of West Lindsey the parishes of Aisthorpe, Apley, Bardney, Barlings, Bigby, Bishop Norton, Blyborough, Blyton, Brampton, Brattleby, Broadholme, Brocklesby, Broxholme, Bullington, Burton, Buslingthorpe, Caenby, Cammeringham, Cold Hanworth, Corringham, East Ferry, East Stockwith, Faldingworth, Fenton, Fillingham, Fiskerton, Friesthorpe, Fulnetby, Gate Burton, Glentham, Glentworth, Goltho, Grange de Lings, Grasby, Grayingham, Great Limber, Hackthorn, Hardwick, Harpswell, Heapham, Hemswell, Hemswell Cliff, Holton cum Beckering, Ingham, Keelby, Kettlethorpe, Kexby, Knaith, Laughton, Legsby, Linwood, Lissington, Marton, Middle Rasen, Newball, Newton on Trent, Normanby by Spital, North Carlton, North Kelsey, Northorpe, Osgodby, Owersby, Owmby-by-Spital, Pilham, Rand, Reepham, Riby, Riseholme, Saxby, Scampton, Scothern, Scotton, Searby cum Owmby, Snarford, Snelland, Snitterby, Somerby, South Carlton, South Kelsey, Spridlington, Springthorpe, Stainfield, Stainton by Langworth, Stow, Sturton by Stow, Sudbrooke, Thonock, Thorpe in the Fallows, Toft Newton, Torksey, Upton, Waddingham, Walkerith, West Firsby, West Rasen, Wickenby, Wildsworth, Willingham and Willoughton.
+
+**3.**[^key-67bee7a9075d233aafbdb71a45ff37ac] In the district of Wyre Forest[^key-64fd2efdadab1ebab19dd5656398f136] the parishes of Broome, Chaddesley Corbett, Churchill and Blakedown, Kidderminster Foreign, Ribbesford, Rock, Rushock, Stone, and Upper Arley.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order designates the parishes listed in the Schedule to the Order as rural areas under section 157(1)(c) of the Housing Act 1985 (“the Act”), and provides for the regions of South Somerset, West Lindsey and Wyre to be designated regions under section 157(3) of the Act in relation to dwelling-houses situated in the designated rural areas falling within those districts.
+
+Where a dwelling-house in a designated rural area is sold under the right to buy, the vendor may—
+
+- (a) impose a covenant requiring its consent to any further disposal unless it is an exempted disposal under section 160 of the Act, however that consent cannot be withheld if the disposal is to a person who has throughout the preceding 3 years had their only or principal home or place of work in a designated region which, or part of which, is comprised in the designated rural area (see section 157(1) to (3) of the Act); or
+- (b) reserve a right of pre-emption if the Secretary of State or, if the vendor is a housing association, the Regulator of Social Housing, consents (see section 156A(8) of the Act).
+
+Similar covenants as to consent or rights of pre-emption may be imposed in relation to dwelling-houses in the areas designated by this Order that are sold voluntarily under section 32 of the Act (see section 37 of the Act).
+
+This Order also revokes Article 8 of the Housing (Right to Buy) (Designated Rural Areas and Designated Regions) (England) Order 2016 ([SI 2016/587](https://www.legislation.gov.uk/uksi/2016/587)) as this is now obsolete.
+
+A full impact assessment has not been produced for this instrument as no significant impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68). Section 157(1) was amended by Part 4 of Schedule 18 to the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), paragraph 9 of Part 1 of Schedule 15 to the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37) and section 188(2)(a) of the Housing Act [2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34). Section 157(3) was amended by section 126(3) of the Housing Act [1988 (c. 50)](https://www.legislation.gov.uk/ukpga/1988/50). There are other amendments to section 157 which are not relevant to this Order.
+
+[^key-7c18c7c6bccf944c308ccb44e1c8e1c8]: Commencement: Art. 1 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
+
+[^f00002]: Footnote: [S.I. 2016/587](https://www.legislation.gov.uk/uksi/2016/587).
+
+[^key-57d8e0e803a64e0cded5eded0987f6b6]: Commencement: Art. 2 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
+
+[^key-c257f7f8314cb2edd4a3e18d110c0ed5]: Commencement: Art. 3 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
+
+[^key-63ac4e8f35bb80e26ef69450a7abc225]: Textual amendment: Words in [art. 3(c)](https://www.legislation.gov.uk/uksi/2021/1222/article/3/c) substituted (12.12.2022) by [The Housing (Right to Buy) (Designated Rural Areas and Designated Regions) (England) Order 2022 (S.I. 2022/1171)](https://www.legislation.gov.uk/uksi/2022/1171), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1171/article/1/1), [4](https://www.legislation.gov.uk/uksi/2022/1171/article/4)
+
+[^key-8d405fc0071ef7ff9e64287878bb226b]: Commencement: Art. 4 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
+
+[^key-59c0bc8dbf47b963ea1d27ac49de16e9]: Commencement: Sch. para. 1 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
+
+[^key-3df58fad7dce0bad6ec0e2ae313ec02b]: Commencement: Sch. para. 2 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
+
+[^key-67bee7a9075d233aafbdb71a45ff37ac]: Commencement: Sch. para. 3 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
+
+[^key-64fd2efdadab1ebab19dd5656398f136]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/1222/schedule/paragraph/3) substituted (12.12.2022) by [The Housing (Right to Buy) (Designated Rural Areas and Designated Regions) (England) Order 2022 (S.I. 2022/1171)](https://www.legislation.gov.uk/uksi/2022/1171), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1171/article/1/1), [4](https://www.legislation.gov.uk/uksi/2022/1171/article/4)

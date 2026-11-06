@@ -1,0 +1,88 @@
+---
+title: Economic Crime and Corporate Transparency Act 2023, section 91
+act: Economic Crime and Corporate Transparency Act 2023
+section: '91'
+status: revised
+text_date: '2026-06-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/56/section/91
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Economic Crime and Corporate Transparency Act 2023, section 91
+
+> Text as at 2026-06-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 91. Protecting information on the register[^key-ee363daf994708f05f121fa8792e12ff][^key-875dd6653a75e4e11cfb689b5c4d747f]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Companies Act 2006 is amended as follows.
+
+(2) In section 790ZF (protection of information as to usual residential address of PSCs), omit subsection (3).
+
+(3) In section 1087 (material not available for public inspection)—
+
+- (a) in subsection (1) for paragraph (e) substitute—
+
+  > - (e) the following—
+  >   - (i) any application or other document delivered to the registrar under regulations under section 1088 (regulations protecting material), other than information provided by virtue of section 1088(5);
+  >   - (ii) any information which regulations under section 1088 require not to be made available for public inspection;
+
+  ;
+- (b) for subsection (2) substitute—
+
+  > (2) Where subsection (1), or a provision referred to in subsection (1), imposes a restriction by reference to material deriving from a particular description of document (or part of a document), that does not affect the availability for public inspection of the same information contained in material derived from another description of document (or part of a document) in relation to which no such restriction applies.
+
+(4) For section 1088 substitute—
+
+> **1088. Power to make regulations protecting material**
+>
+> (1) The Secretary of State may by regulations make provision requiring the registrar, on application—
+>
+> - (a) not to make available for public inspection any information on the register relating to an individual;
+> - (b) to refrain from disclosing information on the register relating to an individual except in specified circumstances;
+> - (c) not to make available for public inspection any address on the register that is not information to which paragraph (a) applies;
+> - (d) to refrain from disclosing any such address except in specified circumstances.
+>
+> (2) The Secretary of State may by regulations make provision requiring the registrar—
+>
+> - (a) not to make available for public inspection any information on the register relating to an individual;
+> - (b) to refrain from disclosing information on the register relating to an individual except in specified circumstances.
+>
+> (3) Regulations under subsection (1) may make provision as to—
+>
+> - (a) who may make an application;
+> - (b) the grounds on which an application may be made;
+> - (c) the information to be included in and documents to accompany an application;
+> - (d) the notice to be given of an application and of its outcome;
+> - (e) how an application is to be determined;
+> - (f) the duration of, and procedures for revoking, any restrictions on the making of information available for public inspection or its disclosure.
+>
+> (4) Provision under subsection (3)(e) or (f) may in particular provide for a question to be referred to a person other than the registrar for the purposes of determining the application or revoking the restrictions.
+>
+> (5) Regulations under subsection (1)(a) or (c) may provide that information is not to be made unavailable for public inspection unless the person to whom it relates provides such alternative information as may be specified.
+>
+> (6) The circumstances that may be specified under subsection (1)(b) or (d) or (2)(b) by way of an exception to a restriction on disclosure include circumstances where the court has made an order, in accordance with the regulations, authorising disclosure.
+>
+> (7) Regulations under subsection (1)(b) or (2)(b) may not require the registrar to refrain from disclosing information under—
+>
+> - (a) sections 243 or 244 (or those sections as applied by section 790ZF) (residential address information);
+> - (b) section 1087C(1) (disclosure of date of birth information);
+> - (c) any provision of regulations under section 1046 corresponding to provision mentioned in paragraph (a) or (b);
+> - (d) section 1110F (general powers of disclosure by the registrar).
+>
+> (8) Regulations under subsection (1)(d) may not require the registrar to refrain from disclosing information under section 1110F (general powers of disclosure by the registrar).
+>
+> (9) Regulations under this section may in particular confer a discretion on the registrar.
+>
+> (10) Regulations under this section are subject to affirmative resolution procedure.
+
+## Annotations
+
+[^key-ee363daf994708f05f121fa8792e12ff]: Commencement: S. 91 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+
+[^key-875dd6653a75e4e11cfb689b5c4d747f]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2023/56/section/91) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z33)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z33)

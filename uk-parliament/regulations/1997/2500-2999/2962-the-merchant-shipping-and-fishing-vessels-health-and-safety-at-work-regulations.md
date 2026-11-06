@@ -1,0 +1,1024 @@
+---
+title: The Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997
+id: uksi/1997/2962
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1997-12-13'
+text_date: '2026-04-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1997/2962
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/2962/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997
+
+> Text as at 2026-04-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1997 No. 2962
+
+MERCHANT SHIPPING
+
+The Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997
+
+Made
+
+13th December 1997
+
+Laid before Parliament
+
+17th December 1997
+
+Coming into force
+
+31st March 1998
+
+Whereas the Secretary of State is a Minister designated[^f00001] for the purpose of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the safety of ships, and the health and safety of persons on them;
+
+And whereas, in so far as the following Regulations are made in the exercise of powers conferred by section 85 of the Merchant Shipping Act 1995[^f00003], the Secretary of State has in pursuance of subsection (4) of section 86 of that Act consulted persons he considers will be affected as mentioned in that subsection:
+
+Now, therefore, the Secretary of State, in exercise of the powers conferred by the said section 2(2) of the European Communities Act 1972, and by sections 85(1)(a) and (b), (3), (5) to (7) and 86(1) of the Merchant Shipping Act 1995 and of all other powers enabling him on that behalf, hereby makes the following Regulations:[^key-7265d44606e10549cfcb11deed2c44d5][^key-25dace472070260a353d1d85be61ab2d]
+
+## Part I
+
+### 1. Citation, commencement and revocations[^key-74657e7f17e1764e0982b58b5a8ec38b]
+
+(1) These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997 and shall come into force on 31 March 1998.
+
+(2) The following Regulations are hereby revoked—
+
+- (i) The Merchant Shipping (Safety Officials and Reporting of Accidents and Dangerous Occurrences) Regulations 1982[^f00004];
+- (ii) The Merchant Shipping (Safety Officials and Reporting of Accidents and Dangerous Occurrences) (Amendment) Regulations 1984[^f00005];
+- (iii) The Merchant Shipping (Health and Safety: General Duties) Regulations 1984[^f00006];
+- (iv) The Merchant Shipping (Health and Safety: General Duties) (Amendment) Regulations 1988[^f00007];
+- (v) The Merchant Shipping (Safety Officials and Reporting of Accidents and Dangerous Occurrences) (Amendment) Regulations 1994[^f00008];
+
+### 2. Interpretation[^key-467c8b6c6ec0c664857a29525bdd24b5]
+
+(1) In these Regulations, except where the context otherwise requires, any reference to—
+
+- (a) a numbered regulation is a reference to the regulation bearing that number in these Regulations; and
+- (b) a numbered paragraph or subparagraph is a reference to the paragraph or, as the case may be, subparagraph bearing that number in the regulation in which the reference appears.
+
+(2) In these Regulations, except where the context otherwise requires—
+
+- “the Act” means the Merchant Shipping Act 1995;
+- “the 1996 Act” means the Employment Rights Act 1996[^f00009];
+- “the Code” means the “Code of Safe Working Practices for Merchant Seafarers” published by the Maritime and Coastguard Agency, an executive agency of the Department for Transport, in September 2015, including any subsequent amendment, revision or replacement of that Code which the Secretary of State considers relevant from time to time and which is notified in a Marine Information Notice, described as such and issued by the Maritime and Coastguard Agency;[^key-4f78e7946714b5a47cd299bd3ef47fc7]
+- “Company”, in relation to a ship to which these Regulations apply, means the owner of the ship or any other organisation or person such as the manager, or bareboat charterer, who has assumed the responsibility for operation of the ship from the owner;
+- “competent person” means a person who has sufficient training and experience or knowledge and other qualities, to enable him properly to undertake the duty imposed under the relevant provision in these Regulations, and in the case of a safety officer, has in addition a minimum of two years consecutive sea service since attaining the age of 18, which, in the case of a safety officer on board a tanker, shall include at least six months service in such a ship;
+- “contract of employment” means a contract of employment, whether express or implied, and if express, whether oral or in writing;
+- “Declaration of Maritime Labour Compliance” means, in relation to a ship, the Part 1 and Part 2 documents drawn up and issued in accordance with the MLC, in the forms corresponding to the relevant models given in Appendix A5-II of the MLC and having the contents, duration and validity specified in Regulation 5.1.3 and Standard A5.1.3 of the MLC;[^key-06e89868a7ae8bc0c258ed48dbb04c44]
+- [^key-7f794ab36625516f76e3ff28abb8060a]...
+- “elected representative” means any person elected to represent a group of workers for the purposes of consultation with the employer on health and safety matters under regulation 20;
+- “employer” means a person by whom a worker is employed under a contract of employment;
+- “fishing vessel owner” means the owner of the fishing vessel or any other organisation or person such as the manager, agent or bareboat charterer, who has assumed the responsibility for the operation of the vessel from the owner and who, on assuming such responsibility, has agreed to take over the duties and responsibilities imposed on fishing vessel owners in accordance with the Work in Fishing Convention, regardless of whether any other organisation or person fulfils certain of the duties or responsibilities on behalf of the fishing vessel owner;[^key-2c555cb652e0e2595a84f59ec5de2fcf]
+- “given birth” means delivered a living child or, after twenty-four weeks of pregnancy, a stillborn child;
+- “health and safety” includes the occupational health and safety of persons whilst on board the ship and whilst boarding or leaving the ship;
+- “Marine Guidance Note” means a notice described as such and issued by the Maritime and Coastguard Agency, an executive agency of the Department for Transport, and any reference to a particular Marine Guidance Note includes a reference to a Marine Guidance Note amending or replacing that Note which is considered by the Secretary of State to be relevant from time to time;[^key-fc2af20923713c33039c3cf4ee9aada5]
+- “Maritime Labour Certificate” and “interim Maritime Labour Certificate” mean, in relation to a ship, a certificate of that name issued in accordance with the MLC, in a form corresponding to the relevant model given in Appendix A5-II of the MLC and having the contents, duration and validity specified in Regulation 5.1.3 and Standard A5.1.3 of the MLC;
+- “master” includes the skipper of a fishing vessel;
+- “Merchant Shipping Notice” means a notice described as such and issued by the Maritime and Coastguard Agency, an executive agency of the Department for Transport, and any reference to a particular Merchant Shipping Notice includes a reference to a Merchant Shipping Notice amending or replacing that Notice which is considered by the Secretary of State to be relevant from time to time;[^key-4e14e2bc4f97e61758108f466f64ec4e]
+- “the MLC” means the Maritime Labour Convention adopted on 23rd February 2006 by the General Conference of the International Labour Organization;[^key-ac10d01d4d993d45cdd0ad02fd217096]
+- “new or expectant mother” means a worker who is either pregnant, or has given birth within the previous six months, or is breast-feeding;
+- “pleasure vessel” means—[^key-bd3575f94c0cb6b00b0632591518261a]
+  - (a) any vessel which at the time it is being used is—
+    - (i)
+      - (aa) in the case of a vessel wholly owned by an individual or individuals, used only for the sport or pleasure of the owner or the immediate family or friends of the owner; or
+      - (bb) in the case of a vessel owned by a body corporate, used only for sport or pleasure and on which the persons on board are employees or officers of the body corporate, or their immediate family or friends; and
+    - (ii) on a voyage or excursion which is one for which the owner does not receive money for or in connection with operating the vessel or carrying any person, other than as a contribution to the direct expenses of the operation of the vessel incurred during the voyage or excursion; or
+  - (b) any vessel wholly owned by or on behalf of a members’ club formed for the purpose of sport or pleasure which, at the time it is being used, is used only for the sport or pleasure of members of that club or their immediate family, and for the use of which any charges levied are paid into club funds and applied for the general use of the club,
+
+  where, in the case of any vessel referred to in paragraphs (a) or (b), no other payments are made by or on behalf of users of the vessel, other than by the owner; and in this definition “immediate family” means, in relation to an individual, the spouse or civil partner of the individual, and a relative of the individual or the individual’s spouse or civil partner; and “relative” means brother, sister, ancestor or lineal descendant;;
+- “public service vessel” means any vessel operated by and on behalf of a public body while it is carrying out the authorised functions of that body;
+- “relevant inspector” means a person mentioned in paragraphs (a), (b) or (c) of section 258(1) of the Act;
+- “sail training vessel” means a sailing vessel which is being used either—
+  - (a) to provide instruction in the principles of responsibility, resourcefulness, loyalty and team endeavour and to advance education in the art of seamanship; or
+  - (b) to provide instruction in navigation and seamanship for yachtsmen;
+
+  and is operating under a statutory code[^key-3bfbd9f79d90ed07144fb8618d8256d2];
+- “seafarer” means any person, including a master, who is employed or engaged or works in any capacity on board a ship[^key-10f821750d2c4707863c486eb4a35190] [^key-56d234bb5a9f80fa42d9d3a47377a309]... and whose normal place of work is on such a ship;
+- “sea-going” means—
+  - (a) in relation to a United Kingdom ship which is not a fishing vessel, that the ship is—
+    - (i) a ship which operates outside the waters specified as Category A, B, C and D waters in Merchant Shipping Notice 1837(M);
+    - (ii) a ship to which the Merchant Shipping (Survey and Certification) Regulations 1995 apply and in respect of which no exemption granted under regulation 2(2) of those Regulations applies;
+    - (iii) a ship which is a large vessel within the meaning of regulation 3(1) of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 in respect of which a certificate of compliance has been issued in accordance with regulation 9 of those Regulations; or[^key-3f8c098f952a4d1b61778e8afef9ac9f]
+    - (iv) a high speed craft in respect of which a permit to operate outside waters of Categories A, B, C or D has been issued in accordance with regulation 14 of the Merchant Shipping (High Speed Craft) Regulations 2022[^key-f86f80747ffa0bfb45ddefc417d7eeda];
+  - (b) in relation to a fishing vessel which is a United Kingdom ship or a ship which is not a United Kingdom ship, that the ship operates outside the waters specified as Category A, B, C and D waters in Merchant Shipping Notice 1837(M);
+- “shipowner” means—
+  - (a) in relation to a ship which has a valid Maritime Labour Certificate or interim Maritime Labour Certificate, the person identified as the shipowner on that Certificate;
+  - (b) in relation to any other ship other than a fishing vessel[^key-83c263adb47b47fd58a4a9737a4f377e], the owner of the ship or, if different, any other organisation or person such as the manager, or the bareboat charterer, that has assumed the responsibility for the operation of the ship from the owner;
+- “statutory Code” means–[^key-85c8db1e4c0649bbde6b925f9524ef12]
+  - The Code of Practice for the Safety of Small Commercial Sailing Vessels;
+  - The Code of Practice for the Safety of Small Commercial Motor Vessels; or
+  - The Code of Practice for Safety of Large Commercial Sailing and Motor Vessels;
+- [^key-3d7fcca3e8beefcc5a4228ffcef62eb9]...
+- “trainees and apprentices” does not include persons who are training in a sail training vessel;
+- “United Kingdom ship” means a ship which—
+  - (a) is a United Kingdom ship within the meaning of section 85(2) of the Act; or
+  - (b) [^key-b7d85bf310ac03c22aa8bbd0be6b8992]...
+  - (c) is a hovercraft registered under the Hovercraft Act 1968[^f00012];
+- “worker” means any person employed by an employer under a contract of employment, including trainees or apprentices;
+- “Work in Fishing Convention” means the convention adopted at Geneva on 14th June 2007 by the International Labour Organisation[^key-d36f0786e5a9b94f7e6f4d7a56984d2a].
+
+(3)[^key-9c68e0eec90ebeaa2ec84034bcf718bd] Subject to paragraph (2), words and expressions used in the Regulations have the same meaning as in Council Directive 89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements in the health and safety of workers at work , as it had effect immediately before IP completion day.
+
+### 3. Application[^key-bb4357625e54a81184c80b1a7b38452d]
+
+(1) These Regulations shall apply to all activities of workers on [^key-2b9495fc26a9d4f424c305226c66fb0b]... ships except when—
+
+- (a) the activity of a worker is on a public service vessel or a vessel engaged in search and rescue; and
+- (b) characteristics of that activity inevitably conflict with a provision of these Regulations,
+
+and in such a case there shall be a duty on the employer so far as is reasonably practicable to ensure the health and safety of the worker when performing that activity.
+
+(1A)[^key-9fc6beca6e322d69a72f50207a11bc8e] As regards Group A ships, Group B ships and Group C ships—
+
+- (a) the following provisions, insofar as they apply to workers, also apply to seafarers who are not workers and, insofar as they apply to employers, also apply to shipowners—
+  - (i) regulation 4(1)(a);
+  - (ii) regulation 5(1);
+  - (iii) regulation 7;
+  - (iv) regulation 12(1) and (2);
+  - (v) regulation 16(1)(b)(iii);
+  - (vi) regulation 18(b) and (c);
+  - (vii) regulation 19(1)(b)(ii);
+  - (viii) regulation 20;
+- (b) in relation to seafarers who are not workers, any obligation imposed by the provisions mentioned in paragraph (a) that would, by virtue of that paragraph, otherwise apply to employers and shipowners applies to shipowners only.
+
+(1B)[^key-f42df857b02757c9c539ee977adf6eeb] As regards Group D and Group E ships—
+
+- (a) the following provisions insofar as they apply to workers, also apply to seafarers who are not workers and insofar as they apply to employers, also apply to fishing vessel owners—
+  - (i) regulation 4(1)(a),
+  - (ii) regulation 5(1),
+  - (iii) regulation 7,
+  - (iv) regulation 12(1) and 12(2), and
+  - (v) regulation 20.
+- (b) in relation to seafarers who are not workers, any obligations imposed by the provisions mentioned in paragraph (a), to the extent that they would, by virtue of that paragraph, apply to employers and fishing vessel owners, apply to fishing vessel owners only.
+
+(2)[^key-5401024dea5fd72ea7d0e7c288123478] Part II of these Regulations applies as follows—
+
+- (a) all of the provisions , with the exception of regulation 12A,[^key-5fce228c5c6fa776e3d0e5ae4286fb8e] apply to Group A ships and, [^key-0473fbff7d5cf5f1ff3f563844b73d4a]..., to Group D ships;
+- (b) regulations 4, 5, 7 and 12 apply to Group C ships.
+
+(2A)[^key-548d8a64a30e97bef0a637cef54a3c0e] Regulation 12A applies to all United Kingdom ships except—
+
+- (a)[^key-92f4eeab3cdca4b01ee11d1cdff61e99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) pleasure vessels; and
+- (c) any vessel to which—
+  - (i) the Merchant Shipping (Passenger Ships) (Safety Code for UK Categorised Waters) Regulations 2010, or
+  - (ii) the Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010,
+
+    apply.
+
+(3) Part III of these Regulations applies as follows—
+
+- (a) regulation 13 applies to Group A ships, Group C ships and Group D ships;
+- (b) regulation 13A applies [^key-e259e33d91e69964d6c401fbe8ce8e06]... to Group A ships and Group D ships[^key-c3ecfb07d619779285fe614773f624a8].
+
+(4) Part IV of these Regulations applies as follows—
+
+- (a) all of the provisions apply to Group A ships;
+- (b) regulations 15 and 19 apply to Group C ships; and
+- (c) regulations 14, 19 and 20 apply to Group D ships.
+
+(5) The provisions in Part V of these Regulations apply to Group A and Group D ships only.
+
+(6) Part VI of these Regulations applies as follows—
+
+- (a) all of the provisions other than regulations 27, 28, 28A, 28B and 29 apply to Group A ships;
+- (b) regulations 28A, 28B and 30 apply to Group B ships;
+- (c) regulations 22, 24 to 26, 27A and 27B apply to Group C ships;
+- (d) all of the provisions other than regulations 27A to 28B apply to Group D ships;
+- (e) regulations 28, 29 and 30 apply to Group E ships.
+
+(7) In this regulation—
+
+- (a) subject to paragraph (8), a “Group A” ship is a United Kingdom ship which is not a fishing vessel, wherever it may be;
+- (b) subject to paragraphs (8) and (9), a “Group B” ship is a sea-going ship which is not a fishing vessel and which is not a United Kingdom ship, which is in United Kingdom waters, where—
+  - (i) the MLC has come into force for the State whose flag the ship is entitled to fly; and
+  - (ii) the ship carries—
+    - (aa) a Maritime Labour Certificate to which a Declaration of Maritime Labour Compliance is attached; or
+    - (bb) an interim Maritime Labour Certificate.
+- (c) subject to paragraphs (8) and (9), a “Group C” ship is a sea-going ship which is not a fishing vessel and which is not a United Kingdom ship, which is in United Kingdom waters, where—
+  - (i) the MLC has not come into force for the State whose flag the ship is entitled to fly; or
+  - (ii) the MLC has come into force for the State whose flag the ship is entitled to fly, but the ship does not carry—
+    - (aa) a Maritime Labour Certificate to which a Declaration of Maritime Labour Compliance is attached; or
+    - (bb) an interim Maritime Labour Certificate.
+- (d) a “Group D” ship is a fishing vessel which is a United Kingdom ship, wherever it may be;
+- (e) a “Group E” ship is a fishing vessel which is in United Kingdom waters and is not a United Kingdom ship.
+
+(8) The following ships are not Group A, Group B or Group C ships—
+
+- (a) pleasure vessels;
+- (b) ships of traditional build; and
+- (c) warships or naval auxiliaries.
+
+(9) Vessels which are not ordinarily engaged in commercial activities are not Group B or Group C ships.
+
+## Part II — General duties
+
+### 4. Persons on whom duties are imposed[^key-e5ec5c491ee4c81774f3d2c067d93928]
+
+(1) It shall be the duty of every—
+
+- (a) employer; and
+- (b) any other [^key-4fe9dcd2c325f9deda7c6dafa7edb83d]... person upon whom a duty is imposed by these Regulations,
+
+to comply with the provisions of these Regulations.
+
+(2) Where a person in paragraph (1) does not have control of the matter to which the regulation relates because he does not have responsibility for the operation of the ship, then any duty imposed by that regulation shall also extend to any [^key-757dabf352d8a7885c9d2e557ff3b594]... person who has control of that matter.
+
+### 5. General duties[^key-39c0ceb6cdbe8faed59198630031cac0][^key-88364180a28cf8a31335ac25cf5e2b67]
+
+(1) The employer shall ensure the health and safety of workers and other persons so far as is reasonably practicable, having regard to[^key-b5536421ea15116847598c14454438fa] the following principles—
+
+- (a) the avoidance of risks, which among other things include the combating of risks at source and the replacement of dangerous practices, substances or equipment by non-dangerous or less dangerous practices, substances or equipment;
+- (b) the evaluation of unavoidable risks and the taking of action to reduce them;
+- (c) adoption of work patterns and procedures which take account of the capacity of the individual, especially in respect of the design of the workplace and the choice of work equipment, with a view in particular to alleviating monotonous work and to reducing any consequent adverse effect on workers' health and safety;
+- (d) adaptation of procedures to take account of new technology and other changes in working practices, equipment, the working environment and any other factors which may affect health and safety;
+- (e) adoption of a coherent approach to management of the vessel or undertaking, taking account of health and safety at every level of the organisation;
+- (f) giving collective protective measures priority over individual protective measures; and
+- (g) the provision of appropriate and relevant information and instruction for workers.
+
+(2) Without prejudice to the generality of the duty[^key-9487ee275362ea5a547d25f3bf718f93] under paragraph (1), the matters to which those duty extend shall include in particular—
+
+- (a) provision and maintenance of plant, machinery and equipment and systems of work that are, so far as is reasonably practicable, safe and without risk to health;
+- (b) arrangements for ensuring, so far as is reasonably practicable, safety and absence of risk to health in connection with the use, handling, stowage and transport of articles and substances;
+- (c) such arrangements as are appropriate, having regard to the nature of, and the substances used in, the activities and and size of the operation, for the effective planning, organisation, control, monitoring and review of preventive and protective measures;
+- (d) provision of such information, instruction, training and supervision as is necessary to ensure the health and safety of workers and that of other persons aboard ship who may be affected by their acts or omissions;
+- (e) maintenance of all places of work in the ship in a condition that is, so far as is reasonably practicable, safe and without risk to health;
+- (f) arrangements to ensure, so far as is reasonably practicable, that no person has access to any area of the ship to which it is necessary to restrict access on grounds of health and safety unless the individual concerned has received adequate and appropriate health and safety instruction;
+- (g) provision and maintenance of an environment for persons aboard ship that is, so far as is reasonably practicable, safe and without risk to health;
+- (h) collaboration with any other persons covered by regulation 4 to protect, so far as is reasonably practicable, the health and safety of all authorised persons aboard the ship or engaged in loading or unloading activities in relation to that ship.
+
+### 6. Health and safety policy[^key-8fea015f69ffe9e21aec38e97fa79b95]
+
+(1) Subject to paragraph (2), a written statement shall be prepared and, as often as may be appropriate, revised, of the employer’s general policy with respect to health and safety and the organisation and arrangements for the time being in force for carrying out that policy, and this and any revisions to it shall be brought to the notice of the workers.
+
+(2) The written statement referred to in paragraph (1) shall not apply where five or less workers in aggregate are employed by the same employer, or by associated employers, in a United Kingdom ship.
+
+(3) For the purposes of this regulation associated employers shall be interpreted in accordance with section 231 of the 1996 Act.
+
+### 7. Risk assessment[^key-96143800ea4a9367373e341720496d92]
+
+(1) A suitable and sufficient assessment shall be made of the risks of the health and safety of workers arising in the normal course of their activities or duties, for the purpose of identifying—
+
+- (a) groups of workers at particular risk in the performance of their duties; and
+- (b) the measures to be taken to comply with the employer’s duties under these Regulations,
+
+and any significant findings of the assessment and any revision of it shall be brought to the notice of workers.
+
+(2) This assessment shall extend to the risks to the health and safety of other persons on board ship in so far as they may be affected by the acts and omissions of the employer.
+
+(3) The assessment referred to in paragraphs (1) and (2) shall be reviewed if—
+
+- (a) there is reason to suspect that it is no longer valid; or
+- (b) there has been a significant change in the matters to which it relates,
+
+and where such a review identifies a need for any changes to procedures or practices, those changes shall be made.
+
+(4) Every employer and every self-employed person on board ship shall inform the Company of any relevant risks to health and safety arising out of or in connection with the conduct of his own undertaking.
+
+(4A)[^key-74cdbc089c803f8db475c1af91bd1a31] When conducting the assessment required by paragraphs (1) and (2), or a review required by paragraph (3), a shipowner must have regard to the statistical information and associated advice referred to in Marine Guidance Note 484(M).
+
+(5) Measures shall be taken, and if necessary protective equipment supplied, to ensure an improvement in the health and safety of workers and other persons in respect of those risks identified.
+
+(6) Workers shall be informed of the measures taken for their protection.
+
+### 8. New or expectant mothers[^key-03e340cce6103ad4757e42fae81616f8]
+
+(1) Where—
+
+- (a) the workers include women with potential for child-bearing; and
+- (b) the work is of a kind which could involve risk, by reason of her condition, to the health and safety of a new or expectant mother, or to that of her baby, from any process or working conditions, or physical, biological or chemical agents, including those specified in Annex A and B of Merchant Shipping Notice 1890 (M+F)[^key-9aa8e3c9fc125332b4b38c89b6cf7fa3]
+
+the assessment required by regulation 7(1) shall include the assessment of such risk.
+
+(2) Where, in the case of an individual worker, any other action required to be taken by the employer under these Regulations would not avoid the risk referred to in paragraph (1), if it is reasonable to do so, and would avoid such risk, her working conditions or hours of work shall be altered.
+
+(3) If it is not reasonable to alter the working conditions or hours of work, or if it would not avoid such risk, the employer shall, without prejudice to the rights of an employee under sections 66 to 68 of the 1996 Act, suspend the worker from work for so long as is necessary to avoid such risk.
+
+(4) In paragraphs (1) to (3) references to risk, in relation to risk from any infectious or contagious disease are references to a level of risk at work which is in addition to the level to which a new or expectant mother may be expected to be exposed outside the workplace.
+
+### 9. Night work[^key-9e13f4e8e9559bb4bdd52099bfa1f93f]
+
+(1) Where—
+
+- (a) a new or expectant mother works at night; and
+- (b) a certificate from a registered medical practitioner or registered midwife shows that it is necessary for her health or safety that she should not be at work for any period of such work identified in the certificate,
+
+the worker shall be offered suitable alternative daytime work, if any is available.
+
+(2) Subject to paragraph (1), where no such alternative daytime work is available the worker shall, without prejudice to the rights of an employee under sections 66 to 68 of the 1996 Act, be suspended from her work for so long as is necessary for her health or safety.
+
+### 10. Notification of pregnancy[^key-a43b4aa73f793120f079c0b967879f7a]
+
+(1) Nothing in paragraphs (2) or (3) of regulation 8 shall require any action to be taken in relation to a worker until she has notified the employer or the Company, as the case may be, in writing that she is pregnant, has given birth within the previous six months or is breast-feeding.
+
+(2) Nothing in paragraph (2) or (3) of regulation 8 or in regulation 9 shall require action to be maintained in relation to a worker—
+
+- (a) in a case—
+  - (i) to which regulation 8(2) or (3) relates, and
+  - (ii) where the worker has notified her employer that she is pregnant,
+
+  where she has failed, within a reasonable time of being requested to do so in writing by her employer, to produce for the employer’s inspection a certificate from a registered medical practitioner or a registered midwife showing that she is pregnant;
+- (b) once the employer knows that she is no longer a new or expectant mother; or
+- (c) if the employer cannot establish whether she remains a new or expectant mother.
+
+### 11. Health surveillance[^key-cab807a513b9802e2b94c353596de96b]
+
+Workers shall be provided with such health surveillance as is appropriate having regard to the risks to their health and safety which are identified by the assessment undertaken in accordance with regulation 7.
+
+### 11A. Reporting of occupational diseases[^key-36259350653199fa2c7b308e63ed1737]
+
+(1) Subject to paragraph (2), this regulation applies where an employer receives a written report from a medical practitioner which indicates that a seafarer who works or who has worked on a ship has (or has had) a disease listed in the table in Merchant Shipping Notice 1850(M).
+
+(2) This regulation does not apply where the entry in the table in Merchant Shipping Notice 1850(M) for the disease which the seafarer has (or has had) refers to an activity or a particular form or description of an activity, and that seafarer is not (and was not) involved in that activity (or that particular form or description of the activity) when working on that ship.
+
+(3) The employer must—
+
+- (a) have regard to the International Labour Organization guidance concerning the protection of workers’ personal data referred to in Merchant Shipping Notice 1850(M);
+- (b) complete a form in the form specified in that Notice in respect of the seafarer; and
+- (c) send the completed form to the address specified in that Notice.
+
+(4) In this regulation—
+
+- “fully registered person” and “licence to practice” have the meanings given in section 55(1) of the Medical Act 1983;
+- “medical practitioner” means—
+  - (a) in the case of a practitioner ordinarily resident in the United Kingdom, a fully registered person who holds a licence to practise; and
+  - (b) in the case of a practitioner not ordinarily resident in the United Kingdom, a person entitled to practise as such in the country or territory in which that practitioner is ordinarily resident.
+
+### 12. Capabilities and training[^key-76b5daa76ce9b530fa701928d2c82568]
+
+(1) In entrusting tasks to workers, account shall be taken of their capabilities as regards health and safety.
+
+(2) Workers shall be provided with adequate and appropriate health and safety training and instruction—
+
+- (a) before being assigned to shipboard duties;
+- (b) on their being exposed to new or increased risks because of—
+  - (i) being transferred or given a change of responsibilities,
+  - (ii) the introduction of new equipment or a change to equipment already in use,
+  - (iii) the introduction of new technology, or
+  - (iv) the introduction of new shipboard practices, a new system of work or a change to a system of work already in use.
+
+(3) The training referred to in paragraph (2) shall—
+
+- (a) be repeated periodically where appropriate;
+- (b) be adapted to take account of any new or changed risks to the health or safety of the workers concerned; and
+- (c) take place during the working hours of the worker concerned.
+
+(4) Every person carrying on the activity of an employment agency whose employee is to carry out work aboard a ship to which these Regulations apply shall be provided by the Company with information on—
+
+- (a) any special occupational qualifications required by workers to carry out their work safely;
+- (b) the specific features of the jobs to be filled by those workers (in so far as those features are likely to affect their health and safety); and
+- (c) any health surveillance required to be provided to workers under these or other relevant regulations,
+
+and the employment agency concerned shall ensure that the information so provided is given to the said workers.
+
+### 12A. Code of Safe Working Practices[^key-1b093e54bcaa339b28fecfb8419e4ea7]
+
+The Company must ensure that there are sufficient copies of the Code on board a ship so that it is easily accessible and readily available to all workers and seafarers who are not workers.
+
+## Part III — Duties of the Company
+
+### 13. Co-ordination[^key-84a4400e592b213454124e9a509800b4]
+
+Where there are workers on board a United Kingdom ship not employed by the Company, the Company shall—
+
+- (a) consult every other employer of those workers regarding the arrangements for health and safety required under regulation 5(2)(c);
+- (b) co-ordinate arrangements for the protection of all workers and the prevention of risk to their health and safety; and
+- (c) ensure that all workers are informed of the significant and relevant findings of the risk assessment carried out under regulation 7, and of the arrangements for their protection referred to in sub-paragraph (b).
+
+### 13A. Extension of duties in other Regulations as regards seafarers who are not workers[^key-c91a075d308a5b0aba123d8c794b6ef8]
+
+(1) This regulation applies if—
+
+- (a) a duty is owed by an employer to a worker on a ship in respect of a risk concerning workplace health and safety by virtue of one or more provisions in any of the Regulations listed in the Schedule; and
+- (b) at least one seafarer who is not a worker is exposed to that risk.
+
+(2) The shipowner must, so far as is reasonably practicable and appropriate, ensure that any action taken by any person to discharge a duty referred to in paragraph (1)(a) in respect of that risk as regards workers is also taken as regards seafarers who are not workers.
+
+## Part IV — Special responsibility for health and safety and consultation with workers
+
+### 14. Protective and preventive services[^key-936297f4f9dfc8c01b5f208c99dfb881]
+
+(1) One or more competent persons shall be appointed by the employer in order to provide such protective and preventive services for the undertaking as are necessary to enable him to comply with the requirements of these Regulations.
+
+(2) Where there is no competent person available within the undertaking, the employer shall employ an external person who is a competent person.
+
+(3) If he is a competent person, the employer may appoint himself to undertake the responsibilities specified in paragraph (1).
+
+(4) The number of persons appointed under paragraph (1) shall be sufficient in number to carry out the requirements of these Regulations, and the appropriate persons shall have the necessary time, resources and means, to carry out their duties.
+
+### 15. Appointment of safety officers[^key-95be0540c80aaaf6af93ebc93d5577c1]
+
+(1) This regulation and regulations 16 to 18 below apply to sea-going ships in which five or more seafarers are working[^key-b2506af2bbf4462617e103528f4d6266].
+
+(2) In every ship to which this regulation applies, the Company shall appoint a competent person as safety officer.
+
+(3) The Secretary of State may grant exemptions from the provisions in paragraphs (1) and (2) for classes of cases or individual cases on such terms (if any) as he may specify in the exemption and may, subject to giving reasonable notice, alter or cancel any such exemption.
+
+### 16. Duties of safety officers[^key-72f93774835a73d04d34cd539b247375]
+
+(1) Subject to paragraph (2), it shall be the duty of the safety officer (having had regard to the International Labour Organization guidance concerning the protection of workers’ personal data specified in Merchant Shipping Notice 1850(M))[^key-2e8b83e74d9c169d8b90e557ba7f55b7] to use his best endeavours to—
+
+- (a) improve the standard of safety consciousness among the crew and ensure that the provisions of the Code and safety instructions, rules and guidance for the ship relating to health and safety are complied with;
+- (b) investigate, so far as is reasonably practicable,
+  - (i) every accident involving death or serious injury, as defined in the Merchant Shipping (Accident Reporting and Investigation) Regulations 2012,[^key-f5c06067752c8f924c774f9fb27f46b1]
+  - (ii) all potential hazards to health and safety, and
+  - (iii) all reasonable complaints by workers about health and safety,
+
+  and making recommendations to the master to prevent the recurrence of such an accident or to remove any hazard, provided that the duty to investigate shall not extend to accidents arising from a casualty to the ship;
+- (c) ensure that health and safety inspections of each accessible part of the ship are carried out at least once every three months and more frequently if there have been substantial changes in the conditions of work;
+- (d) make representations and, where appropriate, recommendations to the master, about any deficiency in the ship in respect of—
+  - (i) any legislative requirement relating to health and safety,
+  - (ii) any relevant Merchant Shipping Notice, or
+  - (iii) any provision of the Code,
+
+  and also suggest whether those representations and recommendations should be passed by the master on to the employer or other person who has control of the matter;
+- (e) maintain a record of every accident involving death, major or serious injury and every dangerous occurrence, and make it available on request to any elected representative, to the master and to any person duly authorised by the Secretary of State;
+- (f) stop any work which he observes in progress and reasonably believes may cause a serious accident, and immediately inform the master or the master’s deputy who shall decide when work can safety be resumed.
+
+(2) Nothing in this regulation shall require a safety officer to take any action at a time when emergency action to safeguard life or the ship is being taken.
+
+### 17. Election of safety representatives and safety committees[^key-e7c04882a9212e85df28f71eade211df]
+
+(1) In every ship to which this regulation applies, and where there is no existing arrangement under the Safety Representatives and Safety Committee Regulations 1977[^f00017] or the Safety Representatives and Safety Committees Regulations (Northern Ireland) 1979[^key-30ae56dd49191575b9abe4f962efc38f] the Company shall make rules for the election and appointment of safety representatives.
+
+(2) In every election for a safety representative the candidate receiving most votes shall be elected, provided that no safety representative shall be appointed who has less than two years' consecutive sea service since attaining the age of 18, which in the case of a safety representative on board a tanker shall include at least six months' service in such a ship.
+
+(3) The appointment of a safety representative shall terminate—
+
+- (a) on that person ceasing to be employed in the ship; or
+- (b) from the date on which that person resigns from that position or on which another duly elected person is elected in his place.
+
+(4) [^key-85c21157d9676a84748a0b68936183fa]... The Company shall appoint a safety committee which shall include the master as chairman, the safety officer and every safety representative, and may also include any other person appointed under regulation 14(1).
+
+(5) The appointment of every person under regulations 14(1), 15(2) and 17(1) and the appointment of any of those persons onto a safety committee shall be recorded in writing.
+
+### 18. Powers of safety representatives and safety committees[^key-43624b82ea3304c0c36f62fe4fd88be6]
+
+Safety representatives and safety committees may—
+
+- (a) participate, subject to the concurrence of the safety officer, in any of the investigations or inspections carried out by the safety officer under regulation 16, or after notification to the master or his deputy, undertake similar investigations or inspections themselves, whether or not such investigations or inspections have already been carried out by the safety officer;
+- (b) make representations to the employer on potential hazards and dangerous occurrences at the workplace which affect, or could affect, workers on the ship;
+- (c) make representations to the master and the employer on general matters affecting the health and safety of workers on the ship and, in particular, on such matters as those on which the employer carries out consultation under regulation 20;
+- (d) request the safety officer to carry out any occupational health and safety inspection they consider necessary and to report the findings to them.
+
+### 19. Duties of the Company and master[^key-dd1397a8c69cd828dda63ad889756943]
+
+(1) It shall be the duty of the Company and master, in co-ordination with the employer, to facilitate the work of any person appointed under regulations 14(1), 15(2) and 17(1) in carrying out their health and safety functions, and in particular to—
+
+- (a) provide for use by them a copy of the Code (where appropriate), and access to any necessary information, documents and similar material including relevant legislation and Merchant Shipping Notices;
+- (b) provide them with relevant information about—
+  - (i) the risks and measures for protection identified under regulation 7,
+  - (ii) factors known, or suspected, by them to affect the health and safety of the workers on board the ship, and
+  - (iii) arrangements for fire-fighting, first aid and other emergency procedures;
+- (c) ensure that those persons have the necessary resources and means to carry out their functions and duties;
+- (d) allow any of those persons such absence from ship duties without loss of pay as may be necessary to enable them to fulfil their functions, or to undertake any necessary training in health and safety matters;
+- (e) receive at any reasonable time, representations about health and safety from the safety officer, safety representatives or the safety committee, discuss their representations with them and implement any agreed measures as soon as may be reasonable and practicable.
+
+(2) Where no safety officer is appointed under regulation 15, the Company shall (having had regard to the International Labour Organization guidance concerning the protection of workers’ personal data specified in Merchant Shipping Notice 1850(M))[^key-be681879018fdd1e3a9d483578d5b5b7] maintain a record of every accident involving death, major or serious injury, and every dangerous occurrence and make it available on request to any worker and any person duly authorised by the Secretary of State.
+
+### 20. Consultation with workers[^key-70ce225bb78492e9e67f722d46ecd422]
+
+(1) Workers or their elected representatives shall be consulted in advance and in good time by the employer, and in the case of sub-paragraphs (c) and (d) where applicable by the Company, on all matters relating to their health and safety, and in particular on—
+
+- (a) the arrangements for appointing a competent person under regulation 14 to provide protective and preventive services for the undertaking;
+- (b) the findings of the risk assessment;
+- (c) arrangements for health and safety training under regulation 12;
+- (d) the introduction of new technology.
+
+(2) Employers shall allow workers or their elected representatives to make representations about health and safety, and shall implement any agreed measures as soon as may be reasonable and practicable.
+
+(3) Workers or their elected representatives shall be given access by the employer and, where applicable by the Company, to any relevant information about—
+
+- (a) health and safety matters from inspection agencies and health and safety authorities; and
+- (b) every accident involving death, major or serious injury, and every dangerous occurrence.
+
+(4) Elected representatives shall be given adequate time off work without loss of pay in order to exercise their rights and functions under this regulation, and shall be provided with appropriate training.
+
+(5) Workers or their elected representatives shall not be placed at a disadvantage (whether economic or otherwise) because of their activities under this regulation.
+
+## Part V — General duties of workers
+
+### 21. General duties of workers[^key-c70d4816c4a2e99da1a8a69349f0adb2]
+
+(1) It shall be the duty of every worker or seafarer[^key-efad83cdbbd689272c699ebc9df9d97c] aboard a ship to which these Regulations apply—
+
+- (a) to take reasonable care for the health and safety of himself and of any other person aboard ship who may be affected by his acts or omissions; and
+- (b) as regards any duty or requirement imposed on the Company, his employer or any other person by these Regulations and the Act or any regulation or rule made thereunder, with regard to health and safety, to co-operate with that person so far as is necessary to enable that duty or requirement to be performed or complied with.
+
+(2) No worker or seafarer shall—
+
+- (a) use any machinery, equipment, dangerous substance, transport equipment, means of production or safety device provided by his employer or the Company other than in accordance with any relevant training or instructions which have been received or provided by the employer or the Company in compliance with these Regulations; or
+- (b) disconnect, change or remove or otherwise interfere with any safety device provided by the employer or the Company.
+
+(3) Every worker or seafarer shall immediately inform the master or the safety officer or another competent person appointed under regulation 14(1) of any matter which may reasonably be considered to represent a deficiency in the Company’s protection arrangements for the health and safety of persons on board the ship.
+
+(4) Every worker or seafarer shall immediately inform his employer, the safety officer or other competent person—
+
+- (a) of any work situation which he reasonably considers to represent a serious and immediate danger to health and safety; and
+- (b) of any matter which he reasonably considers to represent a deficiency in the employer’s protection arrangements for health and safety.
+
+## Part VI — Prohibitions, penalties, inspections and detentions
+
+### 22. Prohibition on levy[^key-e5d591100ec081fe38e64ecc17314ae6]
+
+No charge in respect of anything done or provided in pursuance of any specific requirement of these Regulations shall be levied or permitted to be levied on any worker.
+
+### 23. Duty not to interfere with or misuse certain things[^key-e337ff878bc2e60f3e6993d699e01eaa]
+
+No person shall intentionally or recklessly interfere with or misuse anything provided in the interests of health and safety aboard a United Kingdom ship in pursuance of these Regulations or the Act or any regulation or rule made thereunder.
+
+### 24. Penalties[^key-26e81f272684ead39128f87e1b889227]
+
+(1) Any contravention of regulation 5 or 13A[^key-f8046128ed9b6b2521dd0013ce7ef5e7] of these Regulations shall be an offence punishable on summary conviction by a fine not exceeding the statutory maximum or, on conviction on indictment, by imprisonment for a term not exceeding two years or a fine, or both.
+
+(2) Any contravention of regulation 14 shall be guilty of an offence punishable on summary conviction of a fine not exceeding level 5 on the standard scale.
+
+(3) Any contravention of regulation 6, 7, 16, 17, 20 or 21 of these Regulations shall be an offence punishable on summary conviction by a fine not exceeding level 4 on the standard scale.
+
+(4) Any contravention of regulation 8, 9, 11, 11A,[^key-74c987c48b0012f1dedc8aa5d7faddaa] 12, 12A,[^key-cdd34577ec129400833251c281ffa05f] 13, 22 or 23 of these Regulations shall be an offence punishable on summary conviction by a fine not exceeding level 3 on the standard scale.
+
+(5)
+
+- (a) Any Company which—
+  - (i) fails to appoint a safety officer in accordance with regulation 15, or
+  - (ii) fails to carry out any of the duties specified in regulation 19,
+
+  shall be guilty of an offence punishable on summary conviction of a fine not exceeding level 5 on the standard scale.
+- (b) Any master who fails to carry out any of the duties specified in regulation 19 shall be guilty of an offence punishable on summary conviction by a fine not exceeding level 3 on the standard scale.
+
+(6)[^key-19edf177972a2498a669999073c95f35] It is a defence for a person charged with contravention of regulation 12A to show that all reasonable precautions were taken and all due diligence exercised to avoid commission of the offence.
+
+### 25. Offences by body corporate[^key-eee08f7f8912de7fc22b3e0baccc0d07]
+
+(1) Where a body corporate is guilty of an offence under any of these Regulations and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, the preceding paragraph shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(3)[^key-e5b1111161380ab08b25f2d47a77075e] Where an offence under any of these Regulations committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership is guilty of an offence and liable to be proceeded against and punished accordingly.
+
+### 26. Onus of proving what is reasonably practicable[^key-79c4a5f942a4447f1216644a8775a6e0]
+
+In any proceedings for an offence under any of these Regulations consisting of a failure to comply with a duty or requirement to do something so far as is reasonably practicable, it shall be for the defendant to prove that it was not reasonably practicable to do more than was in fact done to satisfy the duty or requirement.
+
+### 27. Inspection and detention of a United Kingdom fishing vessel[^key-f5f026132f11b411bbd0b1b55011308e][^key-8230b1b1f08c3c53cfe722cc90d51460]
+
+A relevant inspector may inspect any fishing vessel which is a[^key-8115734d6b8d3daabe7555d3f83ccf4e] United Kingdom ship and if he is satisfied that there has been a failure to comply in relation to that ship with the requirements of these Regulations may detain the ship until the health and safety of all workers and other persons aboard ship is secured, but shall not in the exercise of these powers detain or delay the ship unreasonably.
+
+### 27A. Inspection of United Kingdom ships and non-United Kingdom ships without MLC documentation[^key-261423f0847edcf489d482c3a036b261]
+
+(1) For the purpose of checking compliance with these Regulations, a relevant inspector (or, in the case of a United Kingdom ship, a proper officer as defined in section 313(1) of the Act (definitions)) may at all reasonable times go on board a ship and inspect the ship, its equipment, any articles on it and any document carried on it.
+
+(2) Section 258(1A), (3) and (5) of the Act (powers to inspect ships and their equipment, etc.) applies in relation to paragraph (1) as if references in those subsections to “subsection (1) above” and “this section” were references to paragraph (1).
+
+(3) Sections 259(1), (2), (5), (7) and (9) to (12) and 260(1) and (2) of the Act (powers of inspectors in relation to premises and ships, and supplementary provisions) apply in relation to the inspection of a ship to which this regulation applies for the purpose of checking compliance with these Regulations as if—
+
+- (a) references in those sections to “this Act” were to these Regulations;
+- (b) for section 259(1)(b) there were substituted a reference to any ship to which this regulation applies;
+- (c) in section 259(2)(h)(iii) the words “or any instrument made under it” were omitted; and
+- (d) in section 259(5) the reference to “subsections (2) and (4) above for the purposes of Chapter II of Part VI” were to “subsection (2) above”, and the reference to “those subsections” were to “that subsection”.
+
+(4) Any Regulations made under section 259(8) or section 260(3) of the Act apply for the purposes of the provisions of those sections as applied by paragraphs (2) and (3) as they apply for the purposes of the Act.
+
+(5) Sections 261 to 266 of the Act (improvement notices and prohibition notices) apply for the purposes of these Regulations as if the meaning of “the relevant statutory provisions” in section 261(4) included these Regulations.
+
+### 27B. Detention of United Kingdom ships and non-United Kingdom ships without MLC documentation
+
+(1) Where a relevant inspector has clear grounds for believing that—
+
+- (a) a ship to which this regulation applies does not comply with these Regulations; and
+- (b)
+  - (i) the conditions on board are clearly hazardous to the safety, health or security of seafarers; or
+  - (ii) the non-compliance represents a serious breach or the latest in a series of repeated breaches of these Regulations or the requirements of the MLC (including the rights of seafarers referred to in Articles III and IV of the MLC which are secured by it),
+
+that ship is liable to be detained.
+
+(2) The power under this regulation to detain a ship may be exercised as regards a United Kingdom ship wherever it may be, but as regards a ship which is not a United Kingdom ship may only be exercised if the ship in question is—
+
+- (a) in a port or shipyard in the United Kingdom; or
+- (b) at an offshore terminal in United Kingdom waters.
+
+(3) A person having powers to detain a ship may permit a ship which is liable to be detained under this regulation to proceed to sea for the purpose of proceeding to the nearest appropriate repair yard available.
+
+(4) Section 284 of the Act (enforcing detention of a ship) applies where a ship is liable to be detained under this regulation as if—
+
+- (a) references to the owner of a ship were to the shipowner under these Regulations;
+- (b) references to detention of a ship under the Act were references to detention of the ship in question under this regulation; and
+- (c) subsection (7) were omitted.
+
+(5) Where a ship is liable to be detained under this regulation, the person detaining the ship must serve on the master of the ship a detention notice which—
+
+- (a) states the grounds for the detention; and
+- (b) requires the terms of the notice to be complied with until the ship is released by any person mentioned in section 284(1) of the Act.
+
+(6) Where a ship other than a United Kingdom ship is detained, the Secretary of State must immediately inform the consul or diplomatic representative of the State whose flag the ship is entitled to fly or the appropriate maritime authorities of that State, and invite them to send a representative to attend the ship.
+
+(7) Where a ship is detained under this regulation and all of the grounds for detention have ceased to apply, a person having power to detain the ship must, at the request of the shipowner or master, immediately release the ship—
+
+- (a) if no proceedings for an offence under these Regulations are instituted within the period of seven days beginning with the day on which the ship is detained;
+- (b) if proceedings for an offence under these Regulations, having been instituted within that period, are concluded without a person being convicted;
+- (c) if either—
+  - (i) the sum of £30,000 is paid to the Secretary of State by way of security; or
+  - (ii) security which, in the opinion of the Secretary of State, is satisfactory and is for an amount not less than £30,000 is given to the Secretary of State,
+
+  by or on behalf of the shipowner or master;
+- (d) where a person is convicted of an offence under these Regulations, if any costs or expenses ordered to be paid by that person, and any fine imposed on that person, have been paid; or
+- (e) if the release is ordered by a court or tribunal referred to in article 292 of the United Nations Convention on the Law of the Sea, and any bond or other financial security ordered by such court or tribunal is posted.
+
+(8) The Secretary of State must repay any sum paid in pursuance of paragraph (7)(c) or release any security so given—
+
+- (a) if no proceedings for an offence under these Regulations are instituted within the period of seven days beginning with the day on which the sum is paid or the security is given; or
+- (b) if proceedings for such an offence, having been instituted within that period, are concluded without a person being convicted.
+
+(9) Where a sum has been paid, or security has been given, by any person in pursuance of paragraph (7)(c) and a person is convicted of an offence under these Regulations, the sum so paid or the amount made available under the security must be applied as follows—
+
+- (a) first in payment of any costs or expenses ordered by the court to be paid by the person convicted; and
+- (b) next in payment of any fine imposed by the court,
+
+and any balance must be repaid to the first-mentioned person.
+
+(10) Section 145 of the Act (interpretation of references in section 144 to the institution of proceedings or their conclusion) applies for the purposes of paragraphs (7) and (8) as if—
+
+- (a) references to the owner of a ship were to the shipowner under these Regulations; and
+- (b) references to an offence under section 131 were references to an offence under these Regulations.
+
+### 28. Inspection and detention and other measures in respect of fishing vessels registered outside the United Kingdom[^key-bbcfa6ebc666a244edfcd266eef965a0][^key-709d0c22e4384e8f4205c7a75fc7f3af]
+
+(1) A relevant inspector may inspect any fishing vessel which is not a United Kingdom ship[^key-bb4ad74f77747e09ea01372c4f11e214] when the ship is in a United Kingdom port, and if satisfied that the ship does not conform to the standards required of United Kingdom ships by these Regulations, may—
+
+- (a) send a report to the government of the country in which the ship is registered, and a copy thereof to the Director General of the International Labour Office; and
+- (b) where conditions on board are clearly hazardous to health and safety—
+  - (i) take such measures as are necessary to rectify those conditions, or
+  - (ii) detain the ship,
+
+  provided that the measures specified in sub-paragraph (a) and (b) may be taken only when the ship has called at a United Kingdom port in the normal course of business for operational reasons.
+
+(2) If either of the measures specified in paragraphs (1)(b) are taken, the relevant inspector shall forthwith notify the nearest maritime, consular or diplomatic representative of the State whose flag the ship is entitled to fly.
+
+(3) The relevant inspector shall not in exercise of his power under this regulation detain or delay the ship unreasonably.
+
+### 28A. Inspection of non-United Kingdom ships with MLC documentation[^key-6ca4f4c499deca530fbc86b7f2c233cc]
+
+(1) A relevant inspector may—
+
+- (a) review the ship’s Maritime Labour Certificate and Declaration of Maritime Labour Compliance or the ship’s interim Maritime Labour Certificate; and
+- (b) where Standard A5.2.1 of the MLC applies, carry out a more detailed inspection in accordance with that Standard.
+
+(2) Where a relevant inspector has power to inspect a ship under paragraph (1)(b), regulation 27A applies to the relevant inspector as if—
+
+- (a) in paragraphs (1) and (3), for the words “checking compliance with these Regulations” there were substituted “carrying out an inspection under regulation 28A(1)(b)”; and
+- (b) in paragraph (3), for the words “to which this regulation applies” in both places where they appear there were substituted “to which regulation 28A(1)(b) applies”.
+
+### 28B. Detention of non-United Kingdom ships with MLC documentation
+
+(1) Where a relevant inspector inspects the ship under regulation 28A(1)(b) and has clear grounds for believing that—
+
+- (a) one or more of the requirements of Regulation 4.3 and Standard A4.3 of the MLC (health and safety protection and accident prevention) have not been complied with; and
+- (b)
+  - (i) the conditions on board are clearly hazardous to the safety, health or security of seafarers; or
+  - (ii) the non-compliance represents a serious breach or the latest in a series of repeated breaches of the requirements of the MLC (including the rights of seafarers referred to in Articles III and IV of the MLC which are secured by it);
+
+the ship is liable to be detained.
+
+(2) The power under this regulation to detain a ship may only be exercised if the ship in question is—
+
+- (a) in a port or shipyard in the United Kingdom; or
+- (b) at an offshore terminal in United Kingdom waters.
+
+(3) A person having powers to detain a ship may permit a ship which is liable to be detained under this regulation to proceed to sea for the purpose of proceeding to the nearest appropriate repair yard available.
+
+(4) Where a ship is liable to be detained under paragraph (1), section 284 of the Act (enforcing detention of a ship) has effect in relation to that ship as if—
+
+- (a) references to the owner of a ship were to the shipowner under these Regulations;
+- (b) references to detention of a ship under the Act were references to detention of the ship in question under these Regulations; and
+- (c) subsection (7) were omitted.
+
+(5) Where a ship is detained under this regulation the Secretary of State must immediately inform the consul or diplomatic representative of the State whose flag the ship is entitled to fly, or the appropriate maritime authorities of that State, and invite them to send a representative to attend the ship.
+
+(6) Where a ship is detained under this regulation and all the grounds for detention have ceased to apply, a person having power to detain the ship must, at the request of the shipowner or master, immediately release the ship.
+
+### 29. Enforcement of detention[^key-830f724eca59553071b2990c48123ef1]
+
+Where a ship is liable to be detained under these Regulations (other than under regulation 27B or 28B)[^key-986be12306e8a66a99019685643b2532], section 284(1) to (5) and (8) of the Act (which relates to the detention of the ship) shall apply as if for the words “this Act”, wherever they appear, there were substituted “the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997”.
+
+### 30. Compensation[^key-8ca8532d2d2cfb53ce96982150fa6338]
+
+Sections 96 and 97 of the Act (Arbitration and Compensation) shall apply in relation to a detention notice or order under these Regulations as they apply to a detention notice under section 95(3) of the Act, and in such application, “relevant inspector” means a person making an inspection under these Regulations.
+
+## Part VII — Review[^key-5314f03511bc99c0df6b9786e01e0479]
+
+### 31. Review
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the MLC is implemented in other member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which this regulation comes into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Signed by authority of the Secretary of State for Transport
+
+Glenda Jackson
+
+Parliamentary Under-Secretary of State,
+
+Department of the Environment, Transport and the Regions
+
+13th December 1997
+
+## SCHEDULE — Merchant Shipping Health and Safety Regulations containing duties in respect of workers which regulation 13A extends to all seafarers[^key-867d016fdad179a8fc67e6748a193800]
+
+Regulation 13A
+
+- The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Electromagnetic Fields) Regulations 2016[^key-24ba2bb649350f3c1f0929e5b1fdcda1]
+- The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Artificial Optical Radiation) Regulations 2010
+- The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Asbestos) Regulations 2010
+- The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Work at Height) Regulations 2010
+- The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Chemical Agents) Regulations 2010
+- The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Biological Agents) Regulations 2010
+- The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Carcinogens and Mutagens) Regulations 2007
+- The Merchant Shipping and Fishing Vessels (Control of Vibration at Work) Regulations 2007
+- The Merchant Shipping and Fishing Vessels (Control of Noise at Work) Regulations 2007
+- The Merchant Shipping and Fishing Vessels (Lifting Operations and Lifting Equipment) Regulations 2006
+- The Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) Regulations 2006
+- The Merchant Shipping and Fishing Vessels (Safety Signs and Signals) Regulations 2001
+- The Merchant Shipping and Fishing Vessels (Personal Protective Equipment) Regulations 1999
+- The Merchant Shipping and Fishing Vessels (Manual Handling Operations) Regulations 1998
+- The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Employment of Young Persons) Regulations 1998
+
+(This note is not part of the Regulations)
+
+**1.** These Regulations (“the Regulations”) give effect as respects shipping activities in the United Kingdom to—
+
+- (a) Council Directive [89/391/EEC](https://www.legislation.gov.uk/european/directive/1989/0391) on the introduction of measures to encourage improve ments in the safety and health of workers at work *(OJ No. L 183, 29.6.89, p. 1)*;
+- (b) Council Directive [91/383/EEC](https://www.legislation.gov.uk/european/directive/1991/0383) supplementing the measures to encourage improvements in the safety and health at work of workers with a fixed-duration employment relationship or a temporary employment relationship *(OJ No. L206 29.7.91 p. 19)*, and
+- (c) Council Directive [92/85/EEC](https://www.legislation.gov.uk/european/directive/1992/0085) on the introduction of measures to encourage improvements in the safety and health at work of pregnant workers and workers who have recently given birth or are breastfeeding *(OJ No. L. 348 28.11.92, p. 1)*.
+
+**2.** The Regulations revoke and replace The Merchant Shipping (Health and Safety: General Duties) Regulations 1984 *([SI 1984/408](https://www.legislation.gov.uk/uksi/1984/408))*, and The Merchant Shipping (Safety Officials and Reporting of Accidents and Dangerous Occurrences) Regulations 1982 *([SI 1982/987](https://www.legislation.gov.uk/uksi/1982/987))*, which gave effect in part to The Merchant Shipping (Minimum Standards) Convention 1976 *(International Labour Organisation Convention 147) (Cmnd. 7183) (regulation 1(2))).*
+
+**3.** The Regulations apply to all United Kingdom ships (other than a public service vessel or ship involved in search and rescue) (regulation 3(1)). Ships which are not United Kingdom ships but are in United Kingdom waters are subject to the regulations covering inspection and detention *(regulations 3(2), and 28–30)*. The Regulations do not apply if The Management of Health and Safety at Work Regulations 1992 *([SI 1992/2051](https://www.legislation.gov.uk/uksi/1992/2051))* cover the matter *(regulation 3(3)).*
+
+**4.** An obligation is placed on the employer to comply with the requirements of the Regulations as well as on any person specifically named in the provision. There is facility to extend the employer’s duty to another person if the employer is not in control of the particular matter because he does not have responsibility for the operation of the ship *(regulation 4(1) and (2)).*
+
+**5.** A general duty to ensure the health and safety of workers, which includes provision and maintenance of safe plant and equipment, safe arrangements for handling, storage, and transportation of articles, provision of safety information, training and supervision, restriction on access and collaboration between duty-holders, is imposed *(regulation 5)*.
+
+**6.** An up to date health and safety policy statement must be written down and supplied to workers *(regulation 6)*; risk assessments must be made and drawn to the notice of workers *(regulation 7)*; health surveillance appropriate to the risk must be provided *(regulation 11).*
+
+**7.** The particular risks of a new or expectant mother must be included in the risk assessment, and her working conditions or hours must be altered if necessary. If that is impossible she shall be suspended subject to her overriding statutory rights regarding the offer of alternative work and remuneration *(regulations 8 and 9)*. Notification that the worker is a new or expectant mother is necessary for her rights under these Regulations to accrue *(regulation 10)*.
+
+**8.** The capability and training of a worker shall be ascertained and taken into account before a task is assigned to him, and adequate and appropriate training supplied to him *(regulation 12)*.
+
+**9.** Competent persons are to be appointed to enable the employer to provide protective and preventative services *(regulation 14)*. On sea-going ships (other than fishing vessels) safety officers are to be appointed *(regulation 15)* and their duties are set down *(regulation 16)*. Companies which are not the employers are required to consult the employers and to co-ordinate health and safety arrangements *(regulation 13)*.
+
+**10.** Rules for the election of safety representatives and safety committees and their powers as well as the duties of the Company and master in this regard are also provided for *(regulations 17 to 19)*.
+
+**11.** Workers or their elected representatives shall be consulted by employers, given access to specific information, allowed facility time and not placed at a career disadvantage; employers must implement health and safety measures agreed with representatives as soon as is reasonably practicable *(regulation 20)*.
+
+**12.** Workers are required to take care of themselves and other workers, and to inform the employer, master, safety officer or other competent person of any deficiency or danger *(regulation 21)*.
+
+**13.** No charge arising from the requirements of these Regulations may be levied on a worker *(regulation 22)*and no person shall recklessly interfere or misuse anything provided in the interests of health and safety *(regulation 23)*.
+
+**14.** Contravention of each separate duty provided for in this regulation is a criminal offence and punishable in accordance with the appropriate maximum penalty set out in regulation 24.
+
+**15.** Provision is made for corporate offences *(regulation 25)*and the burden of showing that failure to comply with a duty in these Regulations was not reasonably practicable is on the defendant *(regulation 26)*.
+
+**16.** Inspection and detention of United Kingdom and non-United Kingdom ships are separately provided for *(regulations 26 and 27)*, and sections in the Merchant Shipping Act 1995 dealing with arbitration and compensation are applied *(regulation 30)*.
+
+**17.** These Regulations are made under the powers contained in the Merchant Shipping Act 1995 except in respect of their application to Government ships *(regulation 2(2))*and in respect of the provision of benefits to new or expectant mothers contained in Regulations 8 and 9, where the power is provided by section 2(2) of the European Communities Act 1972.
+
+**18.** Merchant Shipping Notices are obtainable from EROS Marketing Support services, Unit B, Imber Court Trading Estate, Orchard Lane, East Molesey, Surrey KT8 0BN (tel: 0181-957 5008) and the Code of Safe Working Practices for Merchant Seamen is obtainable from the Stationery Office Publications Centre, PO Box 276, London SW8 5DT (tel: 0171-873 0011).
+
+**19.** A copy of the compliance cost assessment for these Regulations can be obtained from the Marine Information Centre of the Marine Safety Agency, Spring Place, 105 Commercial Road, Southampton SO15 1EG.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); by virtue of the amendment of section 1(2) of the European Communities Act by section 1 of the European Economic Area Act [1993 (c. 5)](https://www.legislation.gov.uk/ukpga/1993/5) regulations may be made under section 2(2) of the European Communities Act to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993 (Cm 2183).
+
+[^f00003]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21); sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997(c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), section 8, and are applied to hovercraft by the Hovercraft (Application and Enactments) Order 1989 ([S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350)).
+
+[^key-7265d44606e10549cfcb11deed2c44d5]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1997/2962) continued (24.11.2006) by [The Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) Regulations 2006 (S.I. 2006/2183)](https://www.legislation.gov.uk/uksi/2006/2183), [reg. 4(8)](https://www.legislation.gov.uk/uksi/2006/2183/regulation/4/8)
+
+[^key-25dace472070260a353d1d85be61ab2d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1997/2962) applied (6.4.2010) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Work at Height) Regulations 2010 (S.I. 2010/332)](https://www.legislation.gov.uk/uksi/2010/332), [regs. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2010/332/regulation/5/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2010/332/regulation/4))
+
+[^key-74657e7f17e1764e0982b58b5a8ec38b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^f00004]: Footnote: [S.I. 1982/876](https://www.legislation.gov.uk/uksi/1982/876).
+
+[^f00005]: Footnote: [S.I. 1984/93](https://www.legislation.gov.uk/uksi/1984/93).
+
+[^f00006]: Footnote: [S.I. 1984/408](https://www.legislation.gov.uk/uksi/1984/408).
+
+[^f00007]: Footnote: [S.I. 1988/1396](https://www.legislation.gov.uk/uksi/1988/1396).
+
+[^f00008]: Footnote: [S.I. 1994/2014](https://www.legislation.gov.uk/uksi/1994/2014).
+
+[^key-467c8b6c6ec0c664857a29525bdd24b5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^f00009]: Footnote: [1996 c. 19](https://www.legislation.gov.uk/ukpga/1996/19).
+
+[^key-4f78e7946714b5a47cd299bd3ef47fc7]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2/2) substituted (20.10.2015) by [The Merchant Shipping (Code of Safe Working Practices) (Amendments and Revocation) Regulations 2015 (S.I. 2015/1692)](https://www.legislation.gov.uk/uksi/2015/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1692/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1692/regulation/2/2)
+
+[^key-06e89868a7ae8bc0c258ed48dbb04c44]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2/2) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/2/a)
+
+[^key-7f794ab36625516f76e3ff28abb8060a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2/2) omitted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2c555cb652e0e2595a84f59ec5de2fcf]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2/2) inserted (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/7/2/a)
+
+[^key-fc2af20923713c33039c3cf4ee9aada5]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2/2) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/2/b)
+
+[^key-4e14e2bc4f97e61758108f466f64ec4e]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2/2) substituted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/2/c)
+
+[^key-ac10d01d4d993d45cdd0ad02fd217096]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2/2) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/2/d)
+
+[^key-bd3575f94c0cb6b00b0632591518261a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2/2) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/2/e)
+
+[^key-3bfbd9f79d90ed07144fb8618d8256d2]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2/2) inserted (30.10.1998) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Employment of Young Persons) Regulations 1998 (S.I. 1998/2411)](https://www.legislation.gov.uk/uksi/1998/2411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1), [17(a)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/17/a)
+
+[^key-10f821750d2c4707863c486eb4a35190]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2/2) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(2)(f)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/2/f)
+
+[^key-56d234bb5a9f80fa42d9d3a47377a309]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2/2) omitted (31.12.2018) by virtue of [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/7/2/b)
+
+[^key-3f8c098f952a4d1b61778e8afef9ac9f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2/2) substituted (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+
+[^key-f86f80747ffa0bfb45ddefc417d7eeda]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2/2) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/3) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+
+[^key-83c263adb47b47fd58a4a9737a4f377e]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2/2) inserted (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [7(2)(c)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/7/2/c)
+
+[^key-85c8db1e4c0649bbde6b925f9524ef12]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2/2) inserted (30.10.1998) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Employment of Young Persons) Regulations 1998 (S.I. 1998/2411)](https://www.legislation.gov.uk/uksi/1998/2411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1), [17(b)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/17/b)
+
+[^key-3d7fcca3e8beefcc5a4228ffcef62eb9]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2/2) omitted (13.10.2014) by virtue of [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(2)(g)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/2/g)
+
+[^key-b7d85bf310ac03c22aa8bbd0be6b8992]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2/2) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+
+[^f00012]: Footnote: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59).
+
+[^key-d36f0786e5a9b94f7e6f4d7a56984d2a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/2/2) inserted (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [7(2)(d)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/7/2/d)
+
+[^key-9c68e0eec90ebeaa2ec84034bcf718bd]: Textual amendment: Reg. 2(3) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/4/2/b) (as amended by [S.I. 2020/1000](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1000/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bb4357625e54a81184c80b1a7b38452d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1997/2962/regulation/3) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-2b9495fc26a9d4f424c305226c66fb0b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/3/1) omitted (13.10.2014) by virtue of [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/3)
+
+[^key-9fc6beca6e322d69a72f50207a11bc8e]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/3/1A) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/4)
+
+[^key-f42df857b02757c9c539ee977adf6eeb]: Textual amendment: [Reg. 3(1B)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/3/1B) inserted (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/7/3/a)
+
+[^key-5401024dea5fd72ea7d0e7c288123478]: Textual amendment: [Reg. 3(2)-(9)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/3/2) substituted for [reg. 3(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/3/2) (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/5)
+
+[^key-5fce228c5c6fa776e3d0e5ae4286fb8e]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/3/2/a) inserted (20.10.2015) by [The Merchant Shipping (Code of Safe Working Practices) (Amendments and Revocation) Regulations 2015 (S.I. 2015/1692)](https://www.legislation.gov.uk/uksi/2015/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1692/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2015/1692/regulation/2/3/a)
+
+[^key-0473fbff7d5cf5f1ff3f563844b73d4a]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/3/2/a) omitted (31.12.2018) by virtue of [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/7/3/b)
+
+[^key-548d8a64a30e97bef0a637cef54a3c0e]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/3/2A) inserted (20.10.2015) by [The Merchant Shipping (Code of Safe Working Practices) (Amendments and Revocation) Regulations 2015 (S.I. 2015/1692)](https://www.legislation.gov.uk/uksi/2015/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1692/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/1692/regulation/2/4)
+
+[^key-92f4eeab3cdca4b01ee11d1cdff61e99]: Textual amendment: [Reg. 3(2A)(a)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/3/2A/a) omitted (31.12.2018) by virtue of [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [7(3)(c)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/7/3/c)
+
+[^key-e259e33d91e69964d6c401fbe8ce8e06]: Textual amendment: Word in [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/3/3/b) omitted (31.12.2018) by virtue of [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [7(3)(d)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/7/3/d)
+
+[^key-c3ecfb07d619779285fe614773f624a8]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/3/3/b) inserted (31.12.2018) by [The Merchant Shipping (Work in Fishing Convention) (Consequential Provisions) Regulations 2018 (S.I. 2018/1109)](https://www.legislation.gov.uk/uksi/2018/1109), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/1/2), [7(3)(d)](https://www.legislation.gov.uk/uksi/2018/1109/regulation/7/3/d)
+
+[^key-e5ec5c491ee4c81774f3d2c067d93928]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1997/2962/regulation/4) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-4fe9dcd2c325f9deda7c6dafa7edb83d]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/4/1/b) deleted (30.10.1998) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Employment of Young Persons) Regulations 1998 (S.I. 1998/2411)](https://www.legislation.gov.uk/uksi/1998/2411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1), [17(d)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/17/d)
+
+[^key-757dabf352d8a7885c9d2e557ff3b594]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/4/2) deleted (30.10.1998) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Employment of Young Persons) Regulations 1998 (S.I. 1998/2411)](https://www.legislation.gov.uk/uksi/1998/2411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1), [17(d)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/17/d)
+
+[^key-39c0ceb6cdbe8faed59198630031cac0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1997/2962/regulation/5) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-88364180a28cf8a31335ac25cf5e2b67]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/1997/2962/regulation/5) saved (6.4.2010) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Work at Height) Regulations 2010 (S.I. 2010/332)](https://www.legislation.gov.uk/uksi/2010/332), [regs. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/332/regulation/4)
+
+[^key-b5536421ea15116847598c14454438fa]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/5/1) substituted (12.2.2001) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Amendment) Regulations 2001 (S.I. 2001/54)](https://www.legislation.gov.uk/uksi/2001/54), [regs. 1](https://www.legislation.gov.uk/uksi/2001/54/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2001/54/regulation/2/3)
+
+[^key-9487ee275362ea5a547d25f3bf718f93]: Textual amendment: Word in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/5/2) substituted (30.10.1998) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Employment of Young Persons) Regulations 1998 (S.I. 1998/2411)](https://www.legislation.gov.uk/uksi/1998/2411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1), [17(e)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/17/e)
+
+[^key-8fea015f69ffe9e21aec38e97fa79b95]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/2962/regulation/6) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-96143800ea4a9367373e341720496d92]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1997/2962/regulation/7) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-74cdbc089c803f8db475c1af91bd1a31]: Textual amendment: [Reg. 7(4A)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/7/4A) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/6)
+
+[^key-03e340cce6103ad4757e42fae81616f8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1997/2962/regulation/8) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-9aa8e3c9fc125332b4b38c89b6cf7fa3]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/8/1/b) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9e13f4e8e9559bb4bdd52099bfa1f93f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1997/2962/regulation/9) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-a43b4aa73f793120f079c0b967879f7a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1997/2962/regulation/10) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-cab807a513b9802e2b94c353596de96b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1997/2962/regulation/11) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-36259350653199fa2c7b308e63ed1737]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/1997/2962/regulation/11A) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/7)
+
+[^key-76b5daa76ce9b530fa701928d2c82568]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1997/2962/regulation/12) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-1b093e54bcaa339b28fecfb8419e4ea7]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/1997/2962/regulation/12A) inserted (20.10.2015) by [The Merchant Shipping (Code of Safe Working Practices) (Amendments and Revocation) Regulations 2015 (S.I. 2015/1692)](https://www.legislation.gov.uk/uksi/2015/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1692/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/1692/regulation/2/5)
+
+[^key-84a4400e592b213454124e9a509800b4]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1997/2962/regulation/13) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-c91a075d308a5b0aba123d8c794b6ef8]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/1997/2962/regulation/13A) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/8)
+
+[^key-936297f4f9dfc8c01b5f208c99dfb881]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1997/2962/regulation/14) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-95be0540c80aaaf6af93ebc93d5577c1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1997/2962/regulation/15) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-b2506af2bbf4462617e103528f4d6266]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/15/1) substituted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/9)
+
+[^key-72f93774835a73d04d34cd539b247375]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1997/2962/regulation/16) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-2e8b83e74d9c169d8b90e557ba7f55b7]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/16/1) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/10)
+
+[^key-f5c06067752c8f924c774f9fb27f46b1]: Textual amendment: Words in [reg. 16(1)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/16/1/b/i) substituted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/11)
+
+[^key-e7c04882a9212e85df28f71eade211df]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1997/2962/regulation/17) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^f00017]: Footnote: [S.I. 1977/500](https://www.legislation.gov.uk/uksi/1977/500).
+
+[^key-30ae56dd49191575b9abe4f962efc38f]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/17/1) inserted (30.10.1998) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Employment of Young Persons) Regulations 1998 (S.I. 1998/2411)](https://www.legislation.gov.uk/uksi/1998/2411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1), [17(f)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/17/f)
+
+[^key-85c21157d9676a84748a0b68936183fa]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/17/4) omitted (13.10.2014) by virtue of [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/12)
+
+[^key-43624b82ea3304c0c36f62fe4fd88be6]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1997/2962/regulation/18) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-dd1397a8c69cd828dda63ad889756943]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1997/2962/regulation/19) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-be681879018fdd1e3a9d483578d5b5b7]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/19/2) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/13)
+
+[^key-70ce225bb78492e9e67f722d46ecd422]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1997/2962/regulation/20) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-c70d4816c4a2e99da1a8a69349f0adb2]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1997/2962/regulation/21) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-efad83cdbbd689272c699ebc9df9d97c]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/1997/2962/regulation/21) substituted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(14)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/14)
+
+[^key-e5d591100ec081fe38e64ecc17314ae6]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1997/2962/regulation/22) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-e337ff878bc2e60f3e6993d699e01eaa]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1997/2962/regulation/23) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-26e81f272684ead39128f87e1b889227]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1997/2962/regulation/24) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-f8046128ed9b6b2521dd0013ce7ef5e7]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/24/1) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(15)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/15)
+
+[^key-74c987c48b0012f1dedc8aa5d7faddaa]: Textual amendment: Word in [reg. 24(4)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/24/4) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(16)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/16)
+
+[^key-cdd34577ec129400833251c281ffa05f]: Textual amendment: Word in [reg. 24(4)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/24/4) inserted (20.10.2015) by [The Merchant Shipping (Code of Safe Working Practices) (Amendments and Revocation) Regulations 2015 (S.I. 2015/1692)](https://www.legislation.gov.uk/uksi/2015/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1692/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2015/1692/regulation/2/6)
+
+[^key-19edf177972a2498a669999073c95f35]: Textual amendment: [Reg. 24(6)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/24/6) added (20.10.2015) by [The Merchant Shipping (Code of Safe Working Practices) (Amendments and Revocation) Regulations 2015 (S.I. 2015/1692)](https://www.legislation.gov.uk/uksi/2015/1692), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1692/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2015/1692/regulation/2/7)
+
+[^key-eee08f7f8912de7fc22b3e0baccc0d07]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1997/2962/regulation/25) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-e5b1111161380ab08b25f2d47a77075e]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/25/3) inserted (30.10.1998) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Employment of Young Persons) Regulations 1998 (S.I. 1998/2411)](https://www.legislation.gov.uk/uksi/1998/2411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1), [17(g)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/17/g)
+
+[^key-79c4a5f942a4447f1216644a8775a6e0]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1997/2962/regulation/26) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-f5f026132f11b411bbd0b1b55011308e]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1997/2962/regulation/27) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-8230b1b1f08c3c53cfe722cc90d51460]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/1997/2962/regulation/27) heading substituted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(17)(b)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/17/b)
+
+[^key-8115734d6b8d3daabe7555d3f83ccf4e]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/1997/2962/regulation/27) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(17)(a)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/17/a)
+
+[^key-261423f0847edcf489d482c3a036b261]: Textual amendment: [Regs. 27A](https://www.legislation.gov.uk/uksi/1997/2962/regulation/27A), [27B](https://www.legislation.gov.uk/uksi/1997/2962/regulation/27B) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(18)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/18)
+
+[^key-bbcfa6ebc666a244edfcd266eef965a0]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1997/2962/regulation/28) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-709d0c22e4384e8f4205c7a75fc7f3af]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/1997/2962/regulation/28) heading substituted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(19)(b)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/19/b)
+
+[^key-bb4ad74f77747e09ea01372c4f11e214]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/1997/2962/regulation/28) substituted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(19)(a)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/19/a)
+
+[^key-6ca4f4c499deca530fbc86b7f2c233cc]: Textual amendment: [Regs. 28A](https://www.legislation.gov.uk/uksi/1997/2962/regulation/28A), [28B](https://www.legislation.gov.uk/uksi/1997/2962/regulation/28B) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/20)
+
+[^key-830f724eca59553071b2990c48123ef1]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1997/2962/regulation/29) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-986be12306e8a66a99019685643b2532]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/uksi/1997/2962/regulation/29) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(21)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/21)
+
+[^key-8ca8532d2d2cfb53ce96982150fa6338]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1997/2962/regulation/30) in force at 31.3.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/2962/regulation/1/1)
+
+[^key-5314f03511bc99c0df6b9786e01e0479]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/1997/2962/part/7) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(22)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/22)
+
+[^key-867d016fdad179a8fc67e6748a193800]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1997/2962/schedule) inserted (13.10.2014) by [The Merchant Shipping (Maritime Labour Convention) (Health and Safety) (Amendment) Regulations 2014 (S.I. 2014/1616)](https://www.legislation.gov.uk/uksi/2014/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/1/2), [2(23)](https://www.legislation.gov.uk/uksi/2014/1616/regulation/2/23)
+
+[^key-24ba2bb649350f3c1f0929e5b1fdcda1]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/1997/2962/schedule) inserted (21.11.2016) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Electromagnetic Fields) Regulations 2016 (S.I. 2016/1026)](https://www.legislation.gov.uk/uksi/2016/1026), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1026/regulation/1), [24(2)](https://www.legislation.gov.uk/uksi/2016/1026/regulation/24/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/1026/regulation/4))

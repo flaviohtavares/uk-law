@@ -1,0 +1,73 @@
+---
+title: Planning and Infrastructure Act 2025, section 42
+act: Planning and Infrastructure Act 2025
+section: '42'
+status: revised-with-pending-changes
+text_date: '2026-11-04'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2025/34/section/42
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Planning and Infrastructure Act 2025, section 42
+
+> **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 42. Fees for certain services[^key-3150898829dede947aeb205032cb3e0d]
+
+*Extent: E+W*
+
+After section 23 of the Transport and Works Act 1992 insert—
+
+> **23A. Fees for certain services in connection with orders**
+>
+> (1) The appropriate national authority may by regulations make provision for, or in connection with, the charging of fees to applicants under section 6 by prescribed public authorities, in relation to the provision of relevant services.
+>
+> (2) A “**relevant service**” means any advice, information or other assistance (including a response to a consultation) provided, whether or not to an applicant under section 6, in connection with—
+>
+> - (a) an application under section 6, or
+> - (b) any other prescribed matter relating to an order, or proposed order, under section 1 or 3.
+>
+> (3) Regulations made under subsection (1) may, in particular, make provision—
+>
+> - (a) about when a fee (including a supplementary fee) may, and may not, be charged;
+> - (b) about the amount which may be charged;
+> - (c) about what may, and may not, be taken into account in calculating the amount charged;
+> - (d) about when a fee charged is payable;
+> - (e) about the recovery of fees charged;
+> - (f) about waiver, reduction or repayment of fees;
+> - (g) about the effect of paying or failing to pay fees charged (including provision permitting a prescribed public authority to withhold a relevant service that it would otherwise be required to provide under an enactment until any outstanding fees for that service are paid);
+> - (h) for the supply of information for any purpose of the regulations;
+> - (i) conferring a function, including a function involving the exercise of a discretion, on any person.
+>
+> (4) A prescribed public authority must have regard to—
+>
+> - (a) any guidance published by the Secretary of State in relation to the exercise of the authority’s functions under regulations made under this section by the Secretary of State;
+> - (b) any guidance published by the Welsh Ministers in relation to the exercise of the authority’s functions under regulations made under this section by the Welsh Ministers.
+>
+> (5) Regulations under this section may make—
+>
+> - (a) different provision for different purposes or areas;
+> - (b) incidental, consequential, supplementary, transitional or transitory provision or savings.
+>
+> (6) Regulations under this section are to be made by statutory instrument.
+>
+> (7) A statutory instrument containing regulations made by the Secretary of State under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (8) A statutory instrument containing regulations made by the Welsh Ministers under this section is subject to annulment in pursuance of a resolution of Senedd Cymru.
+>
+> (9) In this section—
+>
+> - “**appropriate national authority**” means—
+>   - (a) in relation to England and cross-border orders, the Secretary of State, and
+>   - (b) in relation to Wales but not cross-border orders, the Welsh Ministers;
+> - “**cross-border order**” means an order under section 1 or 3 that has effect both in England and in Wales;
+> - “**prescribed**” means prescribed by regulations made by the appropriate national authority under this section;
+> - “**public authority**” means any person certain of whose functions are of a public nature.
+
+## Annotations
+
+[^key-3150898829dede947aeb205032cb3e0d]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2025/34/section/42) in force at 18.2.2026, see [s. 118(1)(x)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/x)

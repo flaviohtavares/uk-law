@@ -1,0 +1,336 @@
+---
+title: The Adoption and Children Act Register Regulations 2014
+id: uksi/2014/1492
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-06-09'
+text_date: '2019-05-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2014/1492
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/1492/pdfs/uksiem_20141492_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1492/pdfs/uksi_20141492_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1492/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Adoption and Children Act Register Regulations 2014
+
+> Text as at 2019-05-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2014 No. 1492
+
+Children And Young Persons, England
+
+The Adoption and Children Act Register Regulations 2014
+
+Made
+
+9th June 2014
+
+Laid before Parliament
+
+18th June 2014
+
+Coming into force
+
+25th July 2014
+
+The Secretary of State for Education, makes the following Regulations in exercise of the powers conferred by sections 125(1), (1A) and (4), 128(1), (2) and (5), 129(2A), and (3) and 140(7) and (8) of the Adoption and Children Act 2002[^f00001].
+
+## 1. Citation and commencement[^key-b13a9ef0b4d3b9747a6e55e2612ca449]
+
+These Regulations may be cited as the Adoption and Children Act Register Regulations 2014 and come into force on 25th July 2014.
+
+## 2. Interpretation[^key-79a32c625ccc7aaaa6e4aa1fb14e60d9]
+
+(1) In these Regulations—
+
+- “the Act” means the Adoption and Children Act 2002;
+- “the 2005 Regulations” means the Adoption Agencies Regulations 2005[^f00002]; and
+- “Part 1 of the register”, “Part 2 of the register” and “Part 3 of the register” have the meanings given in regulation 3.
+
+(2) Where the Secretary of State has made arrangements with an organisation under section 126(1) of the Act, references to “the Secretary of State” must be read as references to “the registration organisation”.
+
+## 3. The Adoption and Children Act Register[^key-952a2f6d16a37a59d9e486906c9d88b3]
+
+The register[^f00003] may contain—
+
+- (a) the information in Schedule 1A to the 2005 Regulations about children who an adoption agency or a Welsh, Scottish or Northern Irish adoption agency is satisfied are suitable for adoption[^f00004] (“Part 1 of the register”);
+- (b) the information in paragraphs 1 to 12 and 14 to 20 of Schedule 1A to the 2005 Regulations about children for whom a local authority in England is considering adoption[^f00005] (“Part 2 of the register”); and
+- (c) the information in Schedule 4B to the 2005 Regulations about prospective adopters who an adoption agency or a Welsh, Scottish or Northern Irish adoption agency is satisfied are suitable to adopt a child[^f00006] (“Part 3 of the register”).
+
+## 4. Information to be provided for entry in Part 2 of the register[^key-0e2d5a8ccbd5146a6f41d7cece6cb167]
+
+(1)[^key-d7df2f9534e0b7c4fd55635f65870f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Where an adoption agency provides information for entry in Part 2 of the register, the agency must confirm to the Secretary of State that it is considering adoption for that child.
+
+(3) Where an adoption agency becomes aware of any changes to the information provided under this regulation, the agency must notify the Secretary of State of those changes as soon as is reasonably practicable.
+
+(4) An adoption agency which has provided information about a child to the Secretary of State under this regulation must notify the Secretary of State when the agency has decided to place that child under section 22C(5) of the Children Act 1989[^f00007] with a local authority foster parent who has been approved as a prospective adopter following consideration in accordance with section 22C(9B)(c)[^f00008] of that Act.
+
+## 5. Retention of information[^key-0780250e905dd8fe40f44aee72e48a1b]
+
+(1) As soon as reasonably practicable after being notified about a child under regulation 19A(3) of the 2005 Regulations, the Secretary of State must remove from Part 1 of the register any information relating to that child.
+
+(2) As soon as reasonably practicable after being notified about a child under regulation 4(4) the Secretary of State must remove from Part 2 of the register any information relating to that child.
+
+(3) As soon as reasonably practicable after being notified about a prospective adopter under regulation 30G(3) of the 2005 Regulations, the Secretary of State must remove from Part 3 of the register any information relating to that prospective adopter.
+
+(4) Subject to paragraphs (1) to (3) information contained in the register must only be retained for as long as is necessary in all the circumstances.
+
+(5) The Secretary of State must ensure that the information contained in the register is at all times kept in secure conditions and in particular that all appropriate measures are taken to prevent the theft, unauthorised disclosure, loss or destruction of that information.
+
+## 6. Disclosure of information[^key-728f45ad0b9f1dfe321e40ccd9b44d42]
+
+Any information contained in the register may be disclosed—
+
+- (a) to a Welsh, Scottish or Northern Irish adoption agency, for the purpose of assisting that agency to find adopters with whom it would be appropriate for a particular child to be placed;
+- (b) to a Welsh, Scottish or Northern Irish adoption agency, for the purpose of assisting that agency to find a child appropriate for adoption by a particular prospective adopter;
+- (c) for the purpose of enabling the information to be entered in a register which is maintained in respect of Wales, Scotland or Northern Ireland and which contains information about children who are suitable for adoption or prospective adopters who are suitable to adopt a child;
+- (d) to a person holding an inquiry under sections 3 and 4 of the Children Act 2004[^f00009] (inquiries held by the Children’s Commissioner) or under the Inquiries Act 2005[^f00010] for the purposes of such an inquiry;
+- (e) subject to the provisions of sections 29(7) and 32(3) of the Local Government Act 1974[^f00011] (investigations and disclosure), to the Commission for Local Administration in England, for the purpose of any investigation conducted in accordance with Part 3 of that Act;
+- (f) to an officer of the Children and Family Court Advisory and Support Service[^f00012] or a Welsh family proceedings officer[^f00013] for the purposes of the discharge of the officer’s duties under the Act;
+- (g) to a court for the purposes of making an order under the Act or the Children Act 1989;
+- (h) to the person who provides the web based information service supported and funded by the Department for Education for the purposes of providing information to the public about adoption and the adoption process in England.
+
+## 7. Amendments to the Adoption Agencies Regulations 2005[^key-0543c4b5cd36a85aab4fbf3984a5f30e]
+
+The 2005 Regulations are amended as follows.
+
+**8.**[^key-76bad3aa3f5c3a8e55b73cb8e08b8ae6] In regulation 2 (interpretation)—
+
+- (a) omit the definition of “the Adoption Register”; and
+- (b) at the end insert—
+
+  > (2) Where the Secretary of State has made arrangements with an organisation under section 126(1) of the Act, references in regulations 19A and 30G to “the Secretary of State” must be read as references to “the registration organisation”.
+
+  .
+
+**9.**[^key-f6b31b9fdf2ce873552fd55734be46ba] For regulation 19A substitute—
+
+> **19A. Information to be provided for entry in Part 1 of the register**
+>
+> (1) Where an adoption agency—
+>
+> - (a) decides, in accordance with regulation 19, that a child should be placed for adoption, and
+> - (b) has not identified particular prospective adopters with whom it is considering placing the child for adoption,
+>
+> the agency must provide the information about the child listed in Schedule 1A to the Secretary of State for entry in Part 1 of the register, as defined in regulation 3(a) of the Adoption and Children Act Register Regulations 2014, as soon as possible and in any event no later than three months after that decision.
+>
+> (2) Where an adoption agency becomes aware of any changes to the information provided under this regulation it must notify the Secretary of State of those changes as soon as is reasonably practicable.
+>
+> (3) An adoption agency must notify the Secretary of State when the agency has decided to place a child under regulation 33.
+
+.
+
+**10.**[^key-a9341795ad56f2cd3c6e09d4b365c50c] For regulation 30G substitute—
+
+> **30G. Information to be provided for entry in Part 3 of the register**
+>
+> (1) This regulation applies where—
+>
+> - (a) an adoption agency has, in accordance with regulation 30B, determined that a prospective adopter is suitable to adopt a child;
+> - (b) the agency has not identified a particular child who it is considering placing with that prospective adopter, and
+> - (c) the agency has obtained the written consent of the prospective adopter
+>
+> but does not apply in a section 83 case.
+>
+> (2) The agency must provide the information listed in Schedule 4B about a prospective adopter to the Secretary of State for inclusion in Part 3 of the register, as defined in regulation 3(c) of the Adoption and Children Act Register Regulations 2014, as soon as possible and in any event no later than three months after a determination referred to in paragraph (1)(a).
+>
+> (3) The agency must notify the Secretary of State when the agency has decided to place a particular child with the prospective adopter under regulation 33.
+
+.
+
+**11.**[^key-fc541bdbd1d039e25a257f9e3dc736e5] After Schedule 1 insert—
+
+> **SCHEDULE 1A — Information about children suitable for adoption**
+>
+> Regulation 19A(1)
+>
+> **1.** The full name of the child (“C”) and the name by which the C is known if different.
+>
+> **2.** C’s age and date of birth.
+>
+> **3.** C’s gender.
+>
+> **4.** C’s nationality.
+>
+> **5.** C’s racial origin.
+>
+> **6.** The local authority area in which C lives.
+>
+> **7.** C’s first language and details of any other languages spoken.
+>
+> **8.** C’s religious persuasion if any (including details of any baptism, confirmation or equivalent ceremonies) and whether C practises their religion.
+>
+> **9.** The first language of any parent of C and details of any additional languages spoken by C’s parent.
+>
+> **10.** C’s legal status including whether C is accommodated by a local authority, subject to an interim care order, a full care order, freed for adoption under section 18 of the Adoption Act 1976[^f00014] or will be subject to a placement order.
+>
+> **11.** The name and address of the adoption agency providing the information about C.
+>
+> **12.** The name and telephone number of C’s social worker.
+>
+> **13.** Confirmation of the decision by the adoption agency’s decision maker that C should be placed for adoption and the date of that decision and of any placement order.
+>
+> **14.** Whether the adoption agency intends to place C for adoption with C’s siblings and if so the full name and date of birth of each sibling to be placed.
+>
+> **15.** Details of any geographical considerations in relation to C’s placement.
+>
+> **16.** Details of any planned contact between C and any other person.
+>
+> **17.** Details of any qualities that the adoption agency are looking for in a family to meet the needs of C.
+>
+> **18.** C’s state of health including C’s physical, emotional and mental health and any anticipated future problems.
+>
+> **19.** C’s health history including, so far as is practicable, C’s family health history.
+>
+> **20.** C’s relevant past experience of neglect, physical abuse or sexual abuse.
+>
+> **21.** Details of any adoption support needs that C has been assessed as having under section 4 of the Act (including those relating to C’s health) and any adoption support services[^f00015] already being provided by the local authority or that the local authority has agreed to provide.
+
+.
+
+**12.**[^key-9aac31080b00472dd70016829a0aefd6] After Schedule 4A insert—
+
+> **SCHEDULE 4B — Information about prospective adopters who are suitable to adopt a child**
+>
+> Regulation 30G(2)
+>
+> **1.** The full name of the prospective adopter (“P”) and the name by which P is known if different.
+>
+> **2.** P’s gender.
+>
+> **3.** P’s date of birth.
+>
+> **4.** P’s nationality.
+>
+> **5.** P’s address including the local authority area.
+>
+> **6.** P’s racial origin.
+>
+> **7.** P’s religious persuasion if any (including details of any baptism, confirmation or equivalent ceremonies) and whether P practises their religion.
+>
+> **8.** P’s first language and details of any additional languages spoken.
+>
+> **9.** P’s current occupation and hours of work.
+>
+> **10.** P’s proposed employment arrangements for after the placement.
+>
+> **11.** Details of other members of P’s household (including any children of P whether or not resident in the household).
+>
+> **12.** Details of any adults not living in P’s household who have responsibility for any of P’s children on a regular basis.
+>
+> **13.** Details of any pets that P has.
+>
+> **14.** Details about P’s home and the neighbourhood in which P lives.
+>
+> **15.** Details of any recommendation of the adoption panel as to the children that P is suitable to adopt including the number and the maximum number where applicable, the gender and age range.
+>
+> **16.** The name and address of the adoption agency providing the information about P.
+>
+> **17.** The name and telephone number of P’s social worker.
+>
+> **18.** P’s views about contact with C’s birth family.
+>
+> **19.** P’s views about the health and past experience of children that might be placed with them.
+
+.
+
+Edward Timpson
+
+Parliamentary Under Secretary of State
+
+Department for Education
+
+9th June 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made under the Adoption and Children Act 2002 (“the Act”) which was amended by section 7 of and Schedule 1 to the Children and Families Act 2014. They come into force on 25th July 2014.
+
+Regulation 3 provides that the register consists of information about children who are suitable for adoption (Part 1), information about children for whom a local authority in England is considering adoption (Part 2) and information about prospective adopters who are suitable to adopt a child (Part 3).
+
+Regulation 4 prescribes the information that must be provided where an adoption agency is considering adoption for a child and provides information for inclusion in Part 2 of the register.
+
+Regulation 5 provides that information must only be retained in the register for as long as necessary, prescribes when information must be removed from the register, that information in the register is kept secure and that appropriate measures are taken to prevent theft, unauthorised disclosure, loss or destruction of the information.
+
+Regulation 6 provides for the disclosure of information from the register and prescribes when and to whom information from the register can be disclosed.
+
+Regulations 8 to 12 amend the Adoption Agencies Regulations 2005.
+
+Regulation 9 substitutes a new regulation 19A that prescribes the information that adoption agencies must provide about children that are suitable for adoption for inclusion in Part 1 of the register.
+
+Regulation 10 substitutes a new regulation 30G that prescribes the information that adoption agencies must provide about prospective adopters who are suitable to adopt a child for inclusion in Part 3 of the register. It also provides that the prospective adopter’s consent must be given in writing.
+
+A full regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c.38](https://www.legislation.gov.uk/ukpga/2002/38). Sections 125, 128 and 129 were amended by the Children and Families Act [2014 (c.6)](https://www.legislation.gov.uk/ukpga/2014/6) (“the 2014 Act”). See section 144(1) for the definition of “regulations” and section 131(1)(b) for thedefinition of “prescribed”.
+
+[^key-b13a9ef0b4d3b9747a6e55e2612ca449]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+
+[^key-79a32c625ccc7aaaa6e4aa1fb14e60d9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/1492/regulation/2) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+
+[^f00002]: Footnote: [S.I. 2005/389](https://www.legislation.gov.uk/uksi/2005/389); amended by [S.I. 2005/3482](https://www.legislation.gov.uk/uksi/2005/3482), [2007/603](https://www.legislation.gov.uk/uksi/2007/603), [2009/1892](https://www.legislation.gov.uk/uksi/2009/1892), [2009/1895](https://www.legislation.gov.uk/uksi/2009/1895), [2010/1172](https://www.legislation.gov.uk/uksi/2010/1172), [2011/589](https://www.legislation.gov.uk/uksi/2011/589), [2012/1410](https://www.legislation.gov.uk/uksi/2012/1410), [2013/235](https://www.legislation.gov.uk/uksi/2013/235), [2013/985](https://www.legislation.gov.uk/uksi/2013/985) and [2014/852](https://www.legislation.gov.uk/uksi/2014/852).
+
+[^key-952a2f6d16a37a59d9e486906c9d88b3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/1492/regulation/3) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+
+[^f00003]: Footnote: See section 125 of the Act for the meaning of “the register”.
+
+[^f00004]: Footnote: See section 131(2)(a) and (2A)(a) of the 2002 Act for the definition of “suitable for adoption”.
+
+[^f00005]: Footnote: See section 22C(9A) of the Children Act [1989 (c.41)](https://www.legislation.gov.uk/ukpga/1989/41) (inserted by section 2(3) of the 2014 Act) for the meaning of “considering adoption”.
+
+[^f00006]: Footnote: See section 131(2)(b) and (2A)(b) of the 2002 Act for the definition of “suitable to adopt a child”.
+
+[^key-0e2d5a8ccbd5146a6f41d7cece6cb167]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/1492/regulation/4) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+
+[^key-d7df2f9534e0b7c4fd55635f65870f36]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1492/regulation/4/1) omitted (1.5.2019) by virtue of [The Children’s Homes etc. Inspection Fees, Childcare Fees, Adoption and Children Act Register (Amendment) Regulations 2019 (S.I. 2019/835)](https://www.legislation.gov.uk/uksi/2019/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/835/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2019/835/regulation/8)
+
+[^f00007]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00008]: Footnote: Section 22C was inserted by section 8(1) of the Children and Young Persons Act [2008 (c.23)](https://www.legislation.gov.uk/ukpga/2008/23) and amended by section 2 of the 2014 Act.
+
+[^key-0780250e905dd8fe40f44aee72e48a1b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/1492/regulation/5) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+
+[^key-728f45ad0b9f1dfe321e40ccd9b44d42]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/1492/regulation/6) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+
+[^f00009]: Footnote: [2004 c.31](https://www.legislation.gov.uk/ukpga/2004/31).
+
+[^f00010]: Footnote: [2005 c.12](https://www.legislation.gov.uk/ukpga/2005/12). Section 1 (power to establish inquiry) was amended by section 160(1), 163 and Schedule 10 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00011]: Footnote: [1974 c.7](https://www.legislation.gov.uk/ukpga/1974/7). Section 32(3) was amended by section 184(1) of the Local Government Planning and Land Act [1980 (c.65)](https://www.legislation.gov.uk/ukpga/1980/65) and section 182 of and Schedule 12 to the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28).
+
+[^f00012]: Footnote: See Chapter 2 of the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43).
+
+[^f00013]: Footnote: See section 37 of the Children Act [2004 (c.31)](https://www.legislation.gov.uk/ukpga/2004/31) for the definition of “family proceedings officer”.
+
+[^key-0543c4b5cd36a85aab4fbf3984a5f30e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/1492/regulation/7) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+
+[^key-76bad3aa3f5c3a8e55b73cb8e08b8ae6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/1492/regulation/8) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+
+[^key-f6b31b9fdf2ce873552fd55734be46ba]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/1492/regulation/9) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+
+[^key-a9341795ad56f2cd3c6e09d4b365c50c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/1492/regulation/10) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+
+[^key-fc541bdbd1d039e25a257f9e3dc736e5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/1492/regulation/11) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+
+[^f00014]: Footnote: [1976 c.36](https://www.legislation.gov.uk/ukpga/1976/36). Section 18 was repealed by Schedule 5 to the 2002 Act except in so far as it continues to have effect in respect of orders made under section 18 by virtue of paragraph 7(1) of Schedule 4 to the 2002 Act.
+
+[^f00015]: Footnote: See section 2(6) of the 2002 Act for the definition of “adoption support services”.
+
+[^key-9aac31080b00472dd70016829a0aefd6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/1492/regulation/12) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)

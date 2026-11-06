@@ -1,0 +1,131 @@
+---
+title: The Agricultural or Forestry Tractors and Tractor Components (Type Approval) (Amendment) Regulations 2001
+id: uksi/2001/1710
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2001-05-03'
+text_date: '2001-05-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2001/1710
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/1710/pdfs/uksi_20011710_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/1710/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Agricultural or Forestry Tractors and Tractor Components (Type Approval) (Amendment) Regulations 2001
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2001-05-25. See https://www.legislation.gov.uk/changes/affected/uksi/2001/1710
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2001 No. 1710
+
+TRACTORS
+
+The Agricultural or Forestry Tractors and Tractor Components (Type Approval) (Amendment) Regulations 2001
+
+Made
+
+3rd May 2001
+
+Laid before Parliament
+
+4th May 2001
+
+Coming into force
+
+25th May 2001
+
+The Secretary of State, being a Minister designated[^c15563021] for the purposes of section 2(2) of the European Communities Act 1972[^c15563031] in relation to any type approval scheme for agricultural or forestry tractors and their components, in exercise of the powers conferred upon him by section 2(2) of that Act hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Agricultural or Forestry Tractors and Tractor Components (Type Approval) (Amendment) Regulations 2001 and shall come into force on 25th May 2001.
+
+(2) In these Regulations—
+
+- “the 1988 Regulations" means the Agricultural or Forestry Tractors and Tractor Components (Type Approval) Regulations 1988 [^c15563041]; and
+- “the 2000 Regulations" means the Agricultural or Forestry Tractors and Tractor Components (Type Approval) Regulations 2000 [^c15563051].
+
+## 2. Amendments to the 1988 Regulations
+
+In column 1 of Part A of Schedule 2 [^c15563061] to the 1988 Regulations—
+
+- (a) at the end of the entry relating to Council Directive [89/173/EEC](https://www.legislation.gov.uk/european/directive/1989/0173), the words “ and as amended by Commission Directive [2000/1/EC](https://www.legislation.gov.uk/european/directive/2000/0001) (O.J. No. L21, 26.1.00, p. 16) ”[^c15563071] shall be inserted:
+- (b) after the entry relating to Council Directive [89/173/EEC](https://www.legislation.gov.uk/european/directive/1989/0173) there shall be added—
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | Directive [2000/25/EC](https://www.legislation.gov.uk/european/directive/2000/0025) of the European Parliament and of the Council | Engine emissions of gaseous and particulate pollutants | O.J. No. L173, 12.07.00, p. 1 |
+- (c) with effect from 30th June 2001—
+  - (i) at the end of the entry relating to Council Directive [86/298/EEC](https://www.legislation.gov.uk/european/directive/1986/0298), the words “ and as amended by Commission Directive [2000/19/EC](https://www.legislation.gov.uk/european/directive/2000/0019) (O.J. No. L94, 14.4.00, p. 31) ” shall be inserted;
+  - (ii) at the end of the entry relating to Council Directive [87/402/EEC](https://www.legislation.gov.uk/european/directive/1987/0402), the words “ and as amended by Commission Directive [2000/22/EC](https://www.legislation.gov.uk/european/directive/2000/0022) (O.J. No. L107, 4.5.00, p.26) ” shall be inserted;
+- (d) with effect from 1st October 2001, at the end of the entry relating to Council Directive [75/322/EEC](https://www.legislation.gov.uk/european/directive/1975/0322), the words “ and as amended by Commission Directive [2000/2/EC](https://www.legislation.gov.uk/european/directive/2000/0002) (O.J. No. L21, 26.1.00, p. 23) ” shall be inserted; and
+- (e) with effect from 30th June 2002 at the end of the entry relating to Council Directive [75/322/EEC](https://www.legislation.gov.uk/european/directive/1975/0322) the words “ and by Commission Directive [2001/3/EC](https://www.legislation.gov.uk/european/directive/2001/0003) (O.J. No. L28, 30.01.01, p. 1) ” shall be inserted.
+
+## 3. Amendments to the 2000 Regulations
+
+In column 1 of Part A of the Schedule which the 2000 Regulations [^c15563081] substitute, with effect from 1st October 2004, for Schedule 2 to the 1988 Regulations—
+
+- (a) at the end of the entry relating to Council Directive [75/322/EEC](https://www.legislation.gov.uk/european/directive/1975/0322), the words “ and as amended by Commission Directive [2000/2/EC](https://www.legislation.gov.uk/european/directive/2000/0002) (O.J. No. L21, 26.1.00, p. 23) and by Commission Directive [2001/3/EC](https://www.legislation.gov.uk/european/directive/2001/0003) (O.J. No. L28, 30.01.01, p. 1) ” shall be inserted;
+- (b) at the end of the entry relating to Council Directive [86/298/EEC](https://www.legislation.gov.uk/european/directive/1986/0298), the words “ and as amended by Commission Directive [2000/19/EC](https://www.legislation.gov.uk/european/directive/2000/0019) (O.J. No. L94, 14.4.00, p. 31) ” shall be inserted;
+- (c) at the end of the entry relating to Council Directive [87/402/EEC](https://www.legislation.gov.uk/european/directive/1987/0402), the words “ and as amended by Commission Directive [2000/22/EC](https://www.legislation.gov.uk/european/directive/2000/0022) (O.J. No. L107, 4.5.00, p. 26) ” shall be inserted;
+- (d) at the end of the entry relating to Council Directive [89/173/EEC](https://www.legislation.gov.uk/european/directive/1989/0173), the words “ and as amended by Commission Directive [2000/1/EC](https://www.legislation.gov.uk/european/directive/2000/0001) (O.J. No. L21, 26.1.00, p. 16) ” shall be inserted; and
+- (e) after the entry relating to Council Directive [89/173/EEC](https://www.legislation.gov.uk/european/directive/1989/0173), there shall be added—
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | Directive [2000/25/EC](https://www.legislation.gov.uk/european/directive/2000/0025) of the European Parliament and Council | Engine emissions of gaseous and particulate pollutants | O.J. No. L173, 12.07.00, p. 1 |
+
+Signed by authority of the Secretary of State forthe Environment, Transport and the Regions
+
+Larry Whitty
+
+Parliamentary Under-Secretary of State,
+
+Department of the Environment, Transport and the Regions
+
+3rd May 2001
+
+*(This note is not part of the Regulations)*
+
+These Regulations, which apply throughout the United Kingdom, further amend Schedule 2 to the Agricultural or Forestry Tractors and Tractor Components (Type Approval) Regulations 1988 which specifies the Community Directives establishing type approval requirements with respect to the design, construction, equipment and marking of tractors and tractor components.
+
+The Regulations also incorporate these changes into the Schedule which will be substituted for Schedule 2 to the 1988 Regulations by the Agricultural or Forestry Tractors and Tractor Components (Type Approval) (Amendment) Regulations 2000 with effect from 1st October 2004.
+
+The Regulations implement—
+
+Commission Directive [2000/1/EC](https://www.legislation.gov.uk/european/directive/2000/0001), on the coming into force of the Regulations;
+
+Directive [2000/25/EC](https://www.legislation.gov.uk/european/directive/2000/0025) of the European Parliament and Council, on the coming into force of the Regulations;
+
+Commission Directive [2000/19/EC](https://www.legislation.gov.uk/european/directive/2000/0019), with effect from 30th June 2001;
+
+Commission Directive [2000/22/EC](https://www.legislation.gov.uk/european/directive/2000/0022), with effect from 30th June 2001;
+
+Commission Directive [2000/2/EC](https://www.legislation.gov.uk/european/directive/2000/0002), with effect from 1st October 2001;
+
+Commission Directive [2001/3/EC](https://www.legislation.gov.uk/european/directive/2001/0003), with effect from 30th June 2002;
+
+## Annotations
+
+[^c15563021]: Marginal citation: [S.I. 1992/1711](https://www.legislation.gov.uk/uksi/1992/1711).
+
+[^c15563031]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c15563041]: Marginal citation: [S.I. 1988/1567](https://www.legislation.gov.uk/uksi/1988/1567); amended by [S.I. 1989/2275](https://www.legislation.gov.uk/uksi/1989/2275), 1990/2336, 1992/80 and 2000/828.
+
+[^c15563051]: Marginal citation: [S.I. 2000/828](https://www.legislation.gov.uk/uksi/2000/828).
+
+[^c15563061]: Marginal citation: Substituted with effect from 1st January 2001 by [S.I. 2000/828](https://www.legislation.gov.uk/uksi/2000/828), [regulation 4(3)](https://www.legislation.gov.uk/uksi/2000/828/regulation/4/3) and Schedule 3.
+
+[^c15563071]: Marginal citation: A corrigendum was issued O.J. No. L104, 29.4.00, p. 89.
+
+[^c15563081]: Marginal citation: See regulation 4(4) and Schedule 4.

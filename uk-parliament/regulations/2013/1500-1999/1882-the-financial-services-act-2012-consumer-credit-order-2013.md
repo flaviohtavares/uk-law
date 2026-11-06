@@ -1,0 +1,441 @@
+---
+title: The Financial Services Act 2012 (Consumer Credit) Order 2013
+id: uksi/2013/1882
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-07-25'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/1882
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/1882/pdfs/uksiem_20131882_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1882/pdfs/uksi_20131882_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1882/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services Act 2012 (Consumer Credit) Order 2013
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 1882
+
+Financial Services And Markets
+
+The Financial Services Act 2012 (Consumer Credit) Order 2013
+
+Made
+
+25th July 2013
+
+Coming into force in accordance with article 1
+
+In accordance with section 116(1) of the Financial Services Act 2012 [^c21870561], a draft of this Order has been laid before Parliament and approved by a resolution of each House.
+
+In accordance with section 107(5) of the Financial Services Act 2012, the Department of Enterprise, Trade and Investment in Northern Ireland has consented to the provisions of this Order which are made by virtue of section 107(2)(i).
+
+The Treasury make the following Order in exercise of the powers conferred by sections 107 and 115(2) of the Financial Services Act 2012:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Financial Services Act 2012 (Consumer Credit) Order 2013 and comes into force—
+
+- (a) on the day after the day on which it is made, for the purpose of the FCA—
+  - (i) preparing and issuing statements of policy or altering or replacing a statement of policy;
+  - (ii) making determinations under the 1974 Act;
+  - (iii) preparing and issuing information sheets under the 1974 Act;
+  - (iv) giving notices, directions or certificates under the 1974 Act;
+  - (v) imposing requirements under the 1974 Act;
+- (b) in so far as it is not already in force, on 1st April 2014.
+
+(2) In this Order, “**the 1974 Act**” means the Consumer Credit Act 1974 [^c21870571].
+
+## 2. Functions of the FCA under the 1974 Act
+
+References in FSMA 2000 [^c21870581] to the FCA's functions under FSMA 2000 are to be treated as including the FCA's functions under the 1974 Act resulting from this Order.
+
+## 3. Application of provisions of FSMA 2000 in connection with failure to comply with the 1974 Act
+
+(1) The following provisions of FSMA 2000 apply in relation to a requirement imposed by or under the provisions of Parts 2, 4, 5 and 6 to 12 of the 1974 Act (“a relevant requirement”) with the modifications specified.
+
+(2) Section 1L (supervision, monitoring and enforcement) [^c21870591] applies as if—
+
+- (a) in subsection (1) the reference to “supervising authorised persons” included a reference to determining whether authorised persons are complying with relevant requirements;
+- (b) in subsection (2), the reference to requirements imposed by or under FSMA 2000 in a case where the FCA is the appropriate regulator for the purposes of Part 14 of FSMA 2000 (disciplinary measures) [^c21870601] included a reference to relevant requirements.
+
+(3)[^key-27e38a5e5c0d5a4d7bdd5003475cc73b] In Part 5—
+
+- (a) sections 66 (disciplinary powers), 67 (disciplinary measures: procedure and right to refer to Tribunal) and 68 (publication) apply; and
+- (b) section 66A (misconduct: action by the FCA) applies as if the reference in subsection (4)(a) to a requirement imposed by or under FSMA 2000 included a reference to a relevant requirement.
+
+(4) Part 9 (hearings and appeals) [^c21870641] applies as if in section 133 (proceedings before Tribunal: general provision) [^c21870651]—
+
+- (a) the references to decisions under sections 66 (disciplinary powers), 205 (public censure) [^c21870661], 206 (financial penalties) [^c21870671] and 206A (suspending permission to carry on regulated activities etc.) [^c21870681] of FSMA 2000 were references to decisions under those sections as applied by this Order;
+- (b) the references to a reference or appeal to the Tribunal includes a reference to a reference or appeal to the Tribunal under FSMA 2000 as applied by this Order.
+
+(5) Part 11 (information gathering and investigations) [^c21870691] (with the exception of section 169 (investigations etc. in support of overseas regulator) [^c21870701]) applies as if—
+
+- (a) the reference in section 165(4) (regulators' power to require information: authorised persons etc.) to functions conferred on the FCA by or under FSMA 2000 included a reference to functions conferred on it by this Order;
+- (b) the reference in section 167(1) (appointment of persons to carry out general investigations) to a good reason included a good reason by virtue of the functions conferred on the FCA by this Order;
+- (c) in section 168 (appointment of persons to carry out investigations in particular cases)—
+  - (i) subsection (1) included a reference to an offence under the 1974 Act;
+  - (ii) subsection (4) included a reference to circumstances suggesting that a person may have failed to comply with a relevant requirement (excluding circumstances suggesting that an offence under the 1974 Act may have been committed).
+
+(6)[^key-eabf9e8d5f48267def0e6d72ad8719b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Part 14 (disciplinary measures) applies (with the exception of sections 210 (statements of policy) [^c21870721] and 211 (statements of policy: procedure) [^c21870731]) as if in section 204A (meaning of “**relevant requirement**” and “**appropriate regulator**”) [^c21870741]—
+
+- (a) in subsection (2), the definition of “relevant requirement” included a relevant requirement;
+- (b) in subsection (6), the reference to any other requirement imposed by or under the Act included a relevant requirement.
+
+(8) Section 380 (injunctions) [^c21870751] applies as if the reference in subsection (6)(a)(i) to a requirement imposed by or under FSMA 2000 included a reference to a relevant requirement.
+
+(9) Section 382 (restitution orders) [^c21870761] applies as if the reference in subsection (9)(a)(i) to a requirement imposed by or under FSMA 2000 included a reference to a relevant requirement.
+
+(10) Section 384 (power of FCA or PRA to require restitution) [^c21870771] applies as if the reference in subsection (7)(a) to a relevant requirement imposed by or under FSMA 2000 included a reference to a relevant requirement; and accordingly sections 385 (warning notices) [^c21870781] and 386 (decision notices) [^c21870791] apply where there has been a contravention of a requirement under section 384 as applied by this Order.
+
+(11) Part 26 (notices) [^c21870801] applies as if—
+
+- (a) in section 391 (publication) [^c21870811], the references in subsection (1ZB) to warning notices given under sections 67 (disciplinary measures: procedure and right to refer to Tribunal) and 207 (proposal to take disciplinary measures) [^c21870821] of FSMA 2000 were to warning notices given under those sections as applied by this Order;
+- (b) in section 392 (application of sections 393 and 394) [^c21870831], the references to a warning notice and a decision notice given under any of the provisions specified in that section included a warning notice and a decision notice given under any of those provisions as applied by this Order.
+
+(12) Part 27 (offences) [^c21870841] applies as if—
+
+- (a) references to an offence under FSMA 2000 included an offence under that Act as applied by this Order;
+- (b) in section 401 (proceedings for offences) [^c21870851], in subsection (1), the definition of “offence” included an offence under the 1974 Act.
+
+## 4. Statements of policy
+
+(1) The FCA must prepare and issue a statement of its policy with respect to—
+
+- (a) the imposition of penalties, suspensions , conditions, limitations[^key-284af53e291703b2504e912c7a595d93] or restrictions imposed under sections 66 (disciplinary powers), 205 (public censure), 206 (financial penalties) and 206A (suspending permission to carry on regulated activities etc.) of FSMA 2000 as applied by article 3;
+- (b) the amount of penalties imposed under sections 66 and 206 of FSMA 2000 as so applied;
+- (c) the period for which suspensions , conditions, limitations[^key-85ebf8e7e69a9774c942ef0814092208] or restrictions imposed under sections 66 and 206A of FSMA 2000 as so applied are to have effect.
+
+(2) The FCA's policy in determining what the amount of a penalty should be, or what the period for which a suspension , condition, limitation[^key-029d5426d68eabebbe2ef5c1922a355a] or restriction is to have effect should be, must include having regard to—
+
+- (a) the seriousness of the failure in question in relation to the nature of the requirement concerned;
+- (b) the extent to which that failure was deliberate or reckless; and
+- (c) whether the person against whom the action is to be taken is an individual.
+
+(3) The FCA may at any time alter or replace a statement issued by it under this article.
+
+(4) If a statement issued under this article is altered or replaced by the FCA, the FCA must issue the altered or replacement statement.
+
+(5) The FCA must, without delay, give the Treasury a copy of any statement which it publishes under this article.
+
+(6) A statement by the FCA issued under this article must be published by the FCA in the way appearing to the FCA to be best calculated to bring it to the attention of the public.
+
+(7) In exercising, or deciding whether to exercise, its powers under section 66, 205, 206 or 206A of FSMA 2000 as applied by article 3 in the case of any particular contravention, the FCA must have regard to any statement published by it under this article and in force at the time when the contravention in question occurred.
+
+## 5. Statements of policy: procedure
+
+(1) Before the FCA issues a statement under article 4, the FCA must publish a draft of the proposed statement in the way appearing to it to be best calculated to bring it to the attention of the public.
+
+(2) The draft must be accompanied by notice that representations about the proposal may be made to the FCA within a specified time.
+
+(3) Before issuing the proposed statement, the FCA must have regard to any representations made in accordance with paragraph (2).
+
+(4) If the FCA issues the proposed statement it must publish an account, in general terms, of—
+
+- (a) the representations made to it in accordance with paragraph (2); and
+- (b) its response to them.
+
+(5) If the statement differs from the draft published under paragraph (1) in a way which is, in the opinion of the FCA, significant, the FCA must (in addition to complying with paragraph (4)) publish details of the difference.
+
+(6) This article also applies to a proposal to alter or replace a statement.
+
+## 6. Disciplinary measures: criminal proceedings and conviction under the 1974 Act
+
+A person may not be convicted of an offence under the 1974 Act in respect of an act or omission in a case where the FCA has exercised its powers under section 66, 205, 206 or 206A of FSMA 2000 in relation to that person in respect of that act or omission.
+
+## 7. Amendments to the 1974 Act
+
+(1) The 1974 Act is amended as follows.
+
+(2) In section 49 (prohibition of canvassing debtor-creditor agreements off trade premises) [^c21870861] for “OFT” in each place substitute “ FCA ”.
+
+(3) In section 60 (form and content of agreements) [^c21870871]—
+
+- (a) in subsection (1)—
+  - (i) for “Secretary of State” in each place substitute “ Treasury ”;
+  - (ii) for “him” in the first place it occurs substitute “ them ”;
+- (b) in subsection (3), for “OFT” in each place substitute “ FCA ”;
+- (c) in subsection (4), for “OFT” substitute “ FCA ”.
+
+(4) In section 64(4) (duty to give notice of cancellation rights) [^c21870881], for “OFT” in each place substitute “ FCA ”.
+
+(5) In section 74(3) (exclusion of certain agreements from Part 5) [^c21870891], for “OFT” in each place substitute “ FCA ”.
+
+(6) In the heading of section 86A (OFT to prepare information sheets on arrears and default) [^c21870901], for “OFT” substitute “ FCA ”.
+
+(7) In section 86A—
+
+- (a) in subsection (1), for “OFT shall prepare, and give general notice of,” substitute “ FCA shall prepare and issue ”;
+- (b) in subsection (5), for “general notice of it is given” substitute “ it is issued ”;
+- (c) for subsection (6), substitute—
+
+  > (6) If the FCA revises an information sheet after it has been issued, it shall issue the revised information sheet.
+
+  ;
+- (d) in subsection (7), for “general notice of it is given” substitute “ it is issued ”.
+
+(8) In section 101 (right to terminate hire agreement) [^c21870911]—
+
+- (a) in subsection (8)—
+  - (i) for “OFT” in each place substitute “ FCA ”;
+  - (ii) omit “by notice to the applicant”;
+- (b) in subsection (8A)—
+  - (i) for “OFT” substitute “ FCA ”;
+  - (ii) omit “by general notice”.
+
+(9) In section 113(2) (Act not to be evaded by use of security) [^c21870921], for “OFT” substitute “ FCA ”.
+
+(10) In section 123(6) (restrictions on taking and negotiating instruments), for “Secretary of State” substitute “ Treasury ”.
+
+(11) In section 159(8)(a) (correction of wrong information) [^c21870931], for “OFT” substitute “ FCA ”.
+
+(12) In section 160 (alternative procedure for business consumers) [^c21870941], for “OFT” in each place substitute “ FCA ”.
+
+(13) In section 161 (enforcement authorities) [^c21870951], in subsection (3), for “OFT” substitute “ FCA ”.
+
+(14) In the heading of section 166 (notification of convictions and judgments to OFT) [^c21870961], for “OFT” substitute “ FCA ”.
+
+(15) In section 166(a)—
+
+- (a) for “OFT under” substitute “ FCA under the Financial Services and Markets Act 2000 or ”;
+- (b) for “OFT's” substitute “FCA's”.
+
+(16) In section 170 (no further sanctions for breach of Act) [^c21870971]—
+
+- (a) in subsection (1), after “except to the extent (if any) expressly provided for by or under this Act” insert “ or by or under the Financial Services and Markets Act 2000 by virtue of an order made under section 107 of the Financial Services Act 2012 ”;
+- (b) in subsection (2), for “OFT” substitute “ FCA ”.
+
+(17) In section 178 (local Acts), for “Secretary of State” in each place substitute “ Treasury ”.
+
+(18) In section 181(1) (power to alter monetary limits etc.) [^c21870981], for “Secretary of State” substitute “ Treasury ”.
+
+(19) In section 182 (regulations and orders) [^c21870991], for “Secretary of State” in each place substitute “ Treasury ”.
+
+(20) In section 183 (determinations etc. by the OFT) [^c21871001]—
+
+- (a) in the heading, for “OFT” substitute “ FCA ”;
+- (b) in subsection (1), for “OFT” substitute “ FCA ”.
+
+(21) In section 188(4) (examples of use of new terminology), for “Secretary of State” substitute “ Treasury ”.
+
+(22) In section 189 (definitions) [^c21871011]—
+
+- (a) in subsection (1)—
+  - (i) after the definition of “exempt agreement” insert—
+
+    > “**FCA**” means the Financial Conduct Authority;
+
+    ;
+  - (ii) omit the definition of “general notice”;
+  - (iii) omit the definition of “OFT”;
+  - (iv) in the definition of “regulations”, for “Secretary of State” substitute “ Treasury ”;
+- (b) in subsection (5), for “OFT” in each place substitute “ FCA ”.
+
+## 8. Application of provisions of the 1974 Act in relation to failure to comply with FSMA 2000
+
+(1) The following provisions of the 1974 Act apply in relation to the commission or suspected commission of a relevant offence with the modifications specified.
+
+(2) Section 162 (powers of entry and inspection) [^c21871021] applies as if a reference to “a breach of any provision of or under this Act” included a reference to a relevant offence [^c21871031].
+
+(3) Section 163 (compensation for loss) applies in connection with the powers of a duly appointed officer of an enforcement authority as if the reference to “an offence under this Act” in subsection (1) included a reference to a relevant offence.
+
+(4) Section 164 (power to make test purchases etc.) applies as if—
+
+- (a) in subsection (1), the reference to “determining whether any provisions made by or under this Act are being complied with” included a reference to determining whether a relevant offence is being committed;
+- (b) in subsection (4), the reference to “proceedings under this Act” included a reference to proceedings for a relevant offence.
+
+(5) Section 165 (obstruction of authorised persons) [^c21871041] applies as if—
+
+- (a) in subsection (1)(a), the reference to “acting in pursuance of this Act” included a reference to acting in pursuance of FSMA 2000 so far as relating to a relevant offence;
+- (b) in subsection (1)(c), the reference to “performing his functions under this Act” included a reference to performing functions under FSMA 2000 in relation to a relevant offence.
+
+(6) Section 174A (powers to require provision of information or documents etc.) applies where a relevant authority (as defined in subsection (5)) is performing functions under FSMA 2000 in relation to a relevant offence.
+
+## 9. Functions of local weights and measures authorities and the Department of Enterprise, Trade and Investment in Northern Ireland under FSMA 2000
+
+(1) Local weights and measures authorities may institute proceedings in England and Wales for a relevant offence.
+
+(2) The Department of Enterprise, Trade and Investment in Northern Ireland may institute proceedings in Northern Ireland for a relevant offence.
+
+## 10. Consequential amendments to other legislation
+
+(1) In section 174(2) of the Water Act 1989 (general restrictions on disclosure of information) [^c21871051], in paragraph (e), after “the Financial Services and Markets Act 2000” insert “ , by or under the Consumer Credit Act 1974 ”.
+
+(2) In section 59(3) of the Coal Industry Act 1994 (information to be kept confidential by the Authority) [^c21871061], in paragraph (b), after “the Financial Services and Markets Act 2000” insert “ , the Consumer Credit Act 1974 ”.
+
+(3) In section 105(4) of the Utilities Act 2000 [^c21871071] (general restrictions on disclosure of information), in paragraph (da) [^c21871081], after “the Financial Services and Markets Act 2000” insert “ or the Consumer Credit Act 1974 ”.
+
+(4) In the Companies Act 2006 [^c21871091]—
+
+- (a) in Part 2 of Schedule 2 (specified descriptions of disclosure), in section (A) (United Kingdom) [^c21871101], in paragraph 37, after paragraph (a) insert—
+
+  > - (aa) the Consumer Credit Act 1974;
+
+  ;
+- (b) in Part 2 of Schedule 11A (specified descriptions of disclosures for the purposes of section 1224A) [^c21871111], in paragraph 52, after paragraph (a) insert—
+
+  > - (aa) the Consumer Credit Act 1974;
+
+  .
+
+David Evennett
+
+Stephen Crabb
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Order)*
+
+This Order makes provision in connection with the transfer of responsibility for the regulation of consumer credit from the Office of Fair Trading to the Financial Conduct Authority (the FCA) from 1 April 2014.
+
+Article 2 provides that references in the Financial Services and Markets Act 2000 (FSMA 2000) to the FCA's functions under FSMA 2000 are to be treated as including references to the FCA's functions under the Consumer Credit Act 1974 (the 1974 Act).
+
+Article 3 applies certain provisions of FSMA 2000 to failure to comply with requirements of the 1974 Act. These provisions ensure that the FCA is able to use its FSMA 2000 powers to investigate and take appropriate action in relation to contraventions of the 1974 Act.
+
+Article 4 provides for the FCA to issue a statement of policy setting out its policies in relation to the exercise of its powers under sections 66, 205, 206 and 206A of FSMA 2000 (covering disciplinary powers, public censure, financial penalties and suspending permission to carry on regulated activities) to contraventions of the 1974 Act.
+
+Article 5 sets out the procedure relevant to FCA statements of policy prepared further to article 4.
+
+Article 6 provides that a person may not be convicted of an offence under the 1974 Act in relation to an act or omission in cases where the FCA has already exercised its powers under section 66, 205, 206 or 206A of FSMA 2000 in relation to that act or omission.
+
+Article 7 makes a number of amendments to the 1974 Act to reflect the fact that the FCA will be responsible for regulating consumer credit (rather than the Office of Fair Trading).
+
+Article 8 applies certain provisions of the 1974 Act to contraventions of certain provisions of FSMA 2000. These provisions ensure that where a duly appointed officer of a local weights and measures authority (commonly known as trading standards) or the Department of Enterprise, Trade and Investment in Northern Ireland (both an “enforcement authority” under the 1974 Act) considers that a relevant offence under FSMA 2000 (as defined by section 107(4)(b) of the Financial Services Act 2012) may have been committed in relation to consumer credit, that officer may use certain 1974 Act powers to investigate.
+
+Article 9 provides for trading standards bodies to institute proceedings in England and Wales for a relevant offence.
+
+Article 9 also provides for the Department of Enterprise, Trade and Investment in Northern Ireland to institute proceedings in Northern Ireland for such offences.
+
+Article 10 makes consequential amendments to other enactments.
+
+A full impact assessment of the effect that this Order will have on the costs of business and the voluntary sector is available from Her Majesty's Treasury, 1 Horse Guards Road, London SW1A 2HQ or on www.hm-treasury.gov.uk and is published alongside the Order on www.legislation.gov.uk.
+
+## Annotations
+
+[^c21870561]: Marginal citation: [2012 c.21](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^c21870571]: Marginal citation: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39).
+
+[^c21870581]: Marginal citation: “FSMA 2000” is defined in section 117(1) of the Financial Services Act 2012.
+
+[^c21870591]: Marginal citation: Inserted by the Financial Services Act 2012, section 6.
+
+[^c21870601]: Marginal citation: Part 14 was amended by the [Financial Services Act 2010 (c.28)](https://www.legislation.gov.uk/ukpga/2010/28), [sections 9](https://www.legislation.gov.uk/ukpga/2010/28/section/9), [10](https://www.legislation.gov.uk/ukpga/2010/28/section/10) and Schedule 2, paragraphs 1, 13, 18, 19 and 20 and the Financial Services Act 2012, Schedule 9, paragraphs 1, and 10 to 18.
+
+[^key-27e38a5e5c0d5a4d7bdd5003475cc73b]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/3) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2016/163/article/7/2)
+
+[^c21870641]: Marginal citation: Part 9 was amended by the Financial Services Act 2012, section 23, and [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).
+
+[^c21870651]: Marginal citation: Section 133 was substituted (together with new sections 133A and 133B) for the original s.133 by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22), and amended by the Financial Services Act 2012, section 23, and [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388).
+
+[^c21870661]: Marginal citation: Section 205 was amended by the Financial Services Act 2012, Schedule 9, paragraphs 1 and 11.
+
+[^c21870671]: Marginal citation: Section 206 was amended by the Financial Services Act 2010. section 10, and the Financial Services Act 2012, Schedule 9, paragraphs 1 and 12.
+
+[^c21870681]: Marginal citation: Section 206A was amended by the Financial Services Act 2010, section 9, and the Financial Services Act 2012, Schedule 9, paragraphs 1 and 13.
+
+[^c21870691]: Marginal citation: Part 11 was amended by the [Criminal Justice Act 2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), [Schedule 26](https://www.legislation.gov.uk/ukpga/2003/44/schedule/26), [paragraph 54(1)](https://www.legislation.gov.uk/ukpga/2003/44/paragraph/54/1) and (2), the Counter-[Terrorism Act 2008 (c.28)](https://www.legislation.gov.uk/ukpga/2008/28), [Schedule 7](https://www.legislation.gov.uk/ukpga/2008/28/schedule/7), [paragraph 33(3)](https://www.legislation.gov.uk/ukpga/2008/28/paragraph/33/3), the Financial Services Act 2010, section 18 and Schedule 2, paragraphs 1 and 15 to 17, the Financial Services Act 2012, Schedule 12, paragraphs 1 to 15, and Schedule 18, paragraphs 1 and 8, and [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090), 2005/1433, 2007/126, 2011/1043, 2011/2382, 2012/2554.
+
+[^c21870701]: Marginal citation: Amended by the Financial Services Act 2012 Schedule 12, paragraph 9.
+
+[^key-eabf9e8d5f48267def0e6d72ad8719b3]: Textual amendment: [Art. 3(6)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/6) omitted (31.12.2020) by virtue of [The Consumer Credit (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1038)](https://www.legislation.gov.uk/uksi/2018/1038), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1038/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2018/1038/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21870721]: Marginal citation: Section 210 was amended by the Financial Services Act 2010, Schedule 2, paragraphs 1 and 20, and the Financial Services Act 2012, Schedule 9, paragraphs 1 and 17.
+
+[^c21870731]: Marginal citation: Section 211 was amended by the Financial Services Act 2012, Schedule 9, paragraphs 1 and 18.
+
+[^c21870741]: Marginal citation: Inserted by the Financial Services Act 2012, Schedule 9, paragraphs 1 and 10.
+
+[^c21870751]: Marginal citation: Amended by the Financial Services Act 2012, Schedule 9, paragraphs 1 and 19.
+
+[^c21870761]: Marginal citation: Amended by the Financial Services Act 2012, Schedule 9, paragraphs 1 and 21.
+
+[^c21870771]: Marginal citation: Section 384 was amended by the Financial Services Act 2012, Schedule 9, paragraphs 1 and 23, and [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
+
+[^c21870781]: Marginal citation: Section 385 was amended by the Financial Services Act 2012, Schedule 9, paragraphs 1 and 24.
+
+[^c21870791]: Marginal citation: Section 386 was amended by the Financial Services Act 2012, Schedule 9, paragraphs 1 and 25.
+
+[^c21870801]: Marginal citation: Part 26 was amended by the [Regulation of Investigatory Powers Act 2000 (c.23)](https://www.legislation.gov.uk/ukpga/2000/23), [Schedule 4](https://www.legislation.gov.uk/ukpga/2000/23/schedule/4), [paragraph 11](https://www.legislation.gov.uk/ukpga/2000/23/paragraph/11), the Financial Services Act 2010, section 13 and Schedule 2, paragraphs 1, 28 and 29, the Financial Services Act 2012, sections 17, 18, 19, 24, Schedule 8, paragraphs 1, and 37, Schedule 9, paragraphs 1 and 26 to 35, and Schedule 13, paragraph 8, and by S.I. 2005/ 381, 2005/1433, 2007/126, 2007/1973, 2009/534, 2010/22 and 2012/916.
+
+[^c21870811]: Marginal citation: Section 391 was amended by the Financial Services Act 2010, sections 13 and 24 and Schedule 2, paragraphs 1 and 28, the Financial Services Act 2012, Schedule 9, paragraphs 1 and 30, and [S.I. 2012/916](https://www.legislation.gov.uk/uksi/2012/916) and 2013/1388.
+
+[^c21870821]: Marginal citation: Section 207 was amended by the Financial Services Act 2010, Schedule 2, paragraphs 1 and 18, and the Financial Services Act 2012, Schedule 9 paragraphs 1 and 14.
+
+[^c21870831]: Marginal citation: Section 392 was amended by the Financial Services Act 2010, Schedule 2, paragraphs 1 and 29, the Financial Services Act 2012, section 18, Schedule 8, paragraphs 1 and 37, Schedule 9, paragraphs 1 and 31, and Schedule 13, paragraph 8, and [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388).
+
+[^c21870841]: Marginal citation: Part 27 was amended by the Enterprise Act 2002, Schedule 25, paragraph 40, the Counter Terrorism Act 2008, Schedule 7, paragraph 33(4), the Financial Services Act 2012, section 95 and Schedule 9, paragraphs 1 and 36 to 40, and [S.I. 2012/2554](https://www.legislation.gov.uk/uksi/2012/2554).
+
+[^c21870851]: Marginal citation: Section 401 was amended by the Enterprise Act 2002, Schedule 25, paragraph 40, and the Financial Services Act 2012, Schedule 9, paragraphs 1 and 38.
+
+[^key-284af53e291703b2504e912c7a595d93]: Textual amendment: Words in art. 4(1)(a) inserted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [7(3)(a)(i)](https://www.legislation.gov.uk/uksi/2016/163/article/7/3/a/i)
+
+[^key-85ebf8e7e69a9774c942ef0814092208]: Textual amendment: Words in art. 4(1)(c) inserted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [7(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/163/article/7/3/a/ii)
+
+[^key-029d5426d68eabebbe2ef5c1922a355a]: Textual amendment: Words in art. 4(2) inserted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2016/163/article/7/3/b)
+
+[^c21870861]: Marginal citation: Amended by the Enterprise Act 2002, Schedule 25, paragraph 6(1) and (22).
+
+[^c21870871]: Marginal citation: Amended by the Enterprise Act 2002, Schedule 25, paragraph 6(1) and (23), and [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010).
+
+[^c21870881]: Marginal citation: Amended by the Enterprise Act 2002, Schedule 25, paragraph 6(1) and (24).
+
+[^c21870891]: Marginal citation: Amended by the Enterprise Act 2002, Schedule 25, paragraph 6(1) and (25)(a), and [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010).
+
+[^c21870901]: Marginal citation: Inserted by the [Consumer Credit Act 2006 (c.14)](https://www.legislation.gov.uk/ukpga/2006/14), [section 8](https://www.legislation.gov.uk/ukpga/2006/14/section/8).
+
+[^c21870911]: Marginal citation: Amended by the Enterprise Act 2002, Schedule 25, paragraph 6(1) and (26), the Consumer Credit Act 2006, section 63, and [S.I.1998/997](https://www.legislation.gov.uk/uksi/1998/997).
+
+[^c21870921]: Marginal citation: Amended by the Enterprise Act 2002, Schedule 25, paragraph 6(1) and (27).
+
+[^c21870931]: Marginal citation: Amended by the Enterprise Act 2002, Schedule 25, paragraph 6(1) and (30).
+
+[^c21870941]: Marginal citation: Amended by the [Data Protection Act 1998 (c.29)](https://www.legislation.gov.uk/ukpga/1998/29), [section 62](https://www.legislation.gov.uk/ukpga/1998/29/section/62) of and Schedule 14, paragraph 20, and the Enterprise Act 2002, Schedule 25, paragraph 6(1) and (31).
+
+[^c21870951]: Marginal citation: Amended by the [Local Government, Planning and Land Act 1980 (c.65)](https://www.legislation.gov.uk/ukpga/1980/65), [Schedule 4](https://www.legislation.gov.uk/ukpga/1980/65/schedule/4), [paragraph 10](https://www.legislation.gov.uk/ukpga/1980/65/paragraph/10), and Schedule 34, Part 4, and the Enterprise Act 2002, Schedule 25, paragraph 6(1) and (32).
+
+[^c21870961]: Marginal citation: Amended by the Enterprise Act 2002, Schedule 25, paragraph 6(1) and (34).
+
+[^c21870971]: Marginal citation: Amended by the Enterprise Act 2002, Schedule 25, paragraph 6(1) and (35).
+
+[^c21870981]: Marginal citation: Amended by the Consumer Credit Act 2006, section 53.
+
+[^c21870991]: Marginal citation: Amended by the Consumer Credit Act 2006, section 58, and [S.I. 2009/1835](https://www.legislation.gov.uk/uksi/2009/1835).
+
+[^c21871001]: Marginal citation: Substituted by the Consumer Credit Act 2006, section 64.
+
+[^c21871011]: Marginal citation: Amended by the [Sale of Goods Act 1979 (c.54)](https://www.legislation.gov.uk/ukpga/1979/54), [Schedule 2](https://www.legislation.gov.uk/ukpga/1979/54/schedule/2), [paragraph 18](https://www.legislation.gov.uk/ukpga/1979/54/paragraph/18), the [Local Government Act 1985 (c.51)](https://www.legislation.gov.uk/ukpga/1985/51), [Schedule 17](https://www.legislation.gov.uk/ukpga/1985/51/schedule/17), the [Building Societies Act 1986 (c.53)](https://www.legislation.gov.uk/ukpga/1986/53), [Schedule 18](https://www.legislation.gov.uk/ukpga/1986/53/schedule/18), [paragraph 10(4)](https://www.legislation.gov.uk/ukpga/1986/53/paragraph/10/4), the [Electricity Act 1989 (c.29)](https://www.legislation.gov.uk/ukpga/1989/29), [Schedule 16](https://www.legislation.gov.uk/ukpga/1989/29/schedule/16), [paragraph 17(1)](https://www.legislation.gov.uk/ukpga/1989/29/paragraph/17/1) and (3), the [Age of Legal Capacity (Scotland) Act 1991 (c.50)](https://www.legislation.gov.uk/ukpga/1991/50), [Schedule 2](https://www.legislation.gov.uk/ukpga/1991/50/schedule/2), the [Friendly Societies Act 1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40), [Schedule 22](https://www.legislation.gov.uk/ukpga/1992/40/schedule/22), [Part 1](https://www.legislation.gov.uk/ukpga/1992/40/part/1), the [Local Government (Wales) Act 1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19), [Schedule 16](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16), [paragraph 45](https://www.legislation.gov.uk/ukpga/1994/19/paragraph/45), and Schedule 18, the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), [Schedule 13](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13), [paragraph 94](https://www.legislation.gov.uk/ukpga/1994/39/paragraph/94), the Enterprise Act 2002, Schedule 25, paragraphs 5(1) and 6(1) and (38), and Schedule 26, the Consumer Credit Act 2006, sections 1, 5, 18, 23, 24, 25, 27, 51, 58 and Schedule 4, the [Charities Act 2011 (c.25)](https://www.legislation.gov.uk/ukpga/2011/25), [Schedule 7](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7), [paragraph 29](https://www.legislation.gov.uk/ukpga/2011/25/paragraph/29), and [S.I. 1992/231](https://www.legislation.gov.uk/uksi/1992/231), 2001/3649, 2004/3236, 2006/242, 2008/2826, 2009/1835 and 2010/1010.
+
+[^c21871021]: Marginal citation: Amended by the Enterprise Act 2002, Schedule 25, paragraph 6(1) and (33), and the Consumer Credit Act 2006, section 51 and Schedule 4.
+
+[^c21871031]: Marginal citation: “Relevant offence” is defined in the Financial Services Act 2012, section 107.
+
+[^c21871041]: Marginal citation: Inserted by the Consumer Credit Act 2006, section 51.
+
+[^c21871051]: Marginal citation: [1989 c.15](https://www.legislation.gov.uk/ukpga/1989/15). Amended by the Financial Services Act 2012, Schedule 18, paragraph 61, and [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649). There are other amending instruments but none is relevant to this Order.
+
+[^c21871061]: Marginal citation: [1994 c.21](https://www.legislation.gov.uk/ukpga/1994/21). Amended by the Financial Services Act 2012, Schedule 18, paragraph 80. There are other mending instruments but none is relevant to this Order.
+
+[^c21871071]: Marginal citation: [2000 c.27](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^c21871081]: Marginal citation: Inserted by [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555) and amended by the Financial Services Act 2012, Schedule 18, paragraph 89.
+
+[^c21871091]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c21871101]: Marginal citation: Substituted by [S.I. 2009/1208](https://www.legislation.gov.uk/uksi/2009/1208). Amended by the Financial Services Act 2012, Schedule 18, paragraphs 110 and 123(1) and (3). There are other amending instruments but none is relevant to this Order.
+
+[^c21871111]: Marginal citation: Inserted by [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494). Amended by the Financial Services Act 2012, Schedule 18, paragraphs 110 and 124(1) and (3). There are other amending instruments but none is relevant to this Order.

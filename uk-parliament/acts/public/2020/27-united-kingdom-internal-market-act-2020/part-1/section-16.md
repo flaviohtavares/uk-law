@@ -1,0 +1,86 @@
+---
+title: United Kingdom Internal Market Act 2020, section 16
+act: United Kingdom Internal Market Act 2020
+section: '16'
+status: revised-with-pending-changes
+text_date: '2026-02-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2020/27/section/16
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# United Kingdom Internal Market Act 2020, section 16
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-02-19. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/27
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 16. Interpretation of other expressions used in Part 1[^key-2c95db0e095e624030353e49affa9446]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies for the purposes of this Part.
+
+(2) “**Goods**” means any tangible movable, or corporeal moveable, thing (including any packaging or label), but not water or gas that is not offered for sale in a limited volume or set quantity.
+
+(3) Goods are to be regarded as “produced in” a part of the United Kingdom (if not wholly produced there) if the most recent significant production step which is a regulated step has occurred there.
+
+(4) A production step occurring in a part of the United Kingdom is “**regulated**” for the purposes of subsection (3) if —
+
+- (a) it is the subject of any statutory requirement in that part of the United Kingdom, or
+- (b) it is a step that could materially affect a person's ability to sell the goods without contravening—
+  - (i) any relevant requirement for the purposes of the mutual recognition principle for goods, or
+  - (ii) any statutory requirement that is excluded from being a relevant requirement by section 4(1),
+
+  that would be applicable to a sale of the goods in that part of the United Kingdom (being a sale of a kind for which the goods are being produced).
+
+(5) A production step is “**significant**” for the purposes of subsection (3) if it is significant in terms of the character of the goods being produced and the purposes for which they are to be sold or used (but see subsections (6) and (7)).
+
+(6) A production step falling within any of the following descriptions is not significant (whether or not it is regulated)—
+
+- (a) activities carried out specifically to ensure goods do not deteriorate before being sold (such as maintaining them at or below a particular temperature);
+- (b) activities carried out solely for purposes relevant to their presentation for sale (such as cleaning or pressing fabrics or sorting different coloured items for packaging together);
+- (c) activities involving a communication of any kind with a regulatory or trade body (such as registering the goods or notifying the goods or anything connected with them or their production);
+- (d) activities carried out for the purpose of testing or assessing any characteristic of the goods (such as batch testing a pharmaceutical product).
+
+(7) A production step involving the packaging, labelling or marking of goods is not significant (whether or not it is regulated) unless the step is fundamental to the character of the goods and the purposes for which they are to be sold or used.
+
+(8) Goods are “imported into” a part of the United Kingdom only if they are imported into that part from outside the United Kingdom.
+
+For this purpose the Isle of Man is outside the United Kingdom.
+
+(9) Goods are to be regarded as imported—
+
+- (a) for goods brought by sea, when the ship carrying them enters the limits of the port at which they are discharged;
+- (b) for goods brought by air, when they are unloaded;
+- (c) for goods brought by land, when they enter the United Kingdom.
+
+In this subsection “**port**” and “**ship**” have the same meaning as in the Customs and Excise Management Act 1979 (see section 1 of that Act).
+
+(10) Goods produced in, or imported into, a part of the United Kingdom (“the original part of the United Kingdom”) which are—
+
+- (a) exported to a place outside the United Kingdom, and
+- (b) re-imported back into any other part of the United Kingdom,
+
+are, despite the re-importation, to continue to be regarded as goods produced in, or imported into, the original part of the United Kingdom.
+
+(11) A reference (however expressed) to the production of anything includes—
+
+- (a) cultivation, harvesting and similar activities (in relation to plants or fungi) and
+- (b) rearing, keeping, handling, killing and similar activities (in relation to livestock or other animals).
+
+(12) A reference (however expressed) to law in a part of the United Kingdom is a reference to—
+
+- (a) the law of England and Wales as it applies in (or in relation to) England,
+- (b) the law of England and Wales as it applies in (or in relation to) Wales,
+- (c) the law of Scotland, or
+- (d) the law of Northern Ireland.
+
+(13) “**Contravening**” includes failing to comply.
+
+(14) “**Statutory requirement**” has the meaning given by section 3(8).
+
+## Annotations
+
+[^key-2c95db0e095e624030353e49affa9446]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2020/27/section/16) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)

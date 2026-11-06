@@ -1,0 +1,68 @@
+---
+title: Subsidy Control Act 2022, section 16
+act: Subsidy Control Act 2022
+section: '16'
+status: revised-with-pending-changes
+text_date: '2024-01-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2022/23/section/16
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Subsidy Control Act 2022, section 16
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/23
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 16. Export performance[^key-7e633d15d7638568413e922727bc918c][^key-35cc3be9f7523c2b4290ae5c9be7517a]
+
+*Extent: E+W+S+N.I.*
+
+(1) A subsidy that is contingent in law or in fact, whether solely or as one of several other conditions, upon export performance relating to goods or services is prohibited by this section.
+
+(2) But this section does not prohibit a subsidy in the form of—
+
+- (a) short-term export credit insurance against risks that are not marketable risks, or
+- (b) an export credit, export credit guarantee or insurance programme that is permissible in accordance with the SCM Agreement.
+
+(3) In this section—
+
+- “**export credit insurance**” means insurance against commercial or political risks relating to the payment obligations of public or non-public customers in export transactions;
+- “**marketable risks**” means risks relating to the payment obligations of public or non-public customers in marketable risk countries;
+- “**marketable risk country**” means (subject to subsection (4))—
+  - (a) the United Kingdom,
+  - (b) a member State of the European Union,
+  - (c) Australia,
+  - (d) Canada,
+  - (e) Iceland,
+  - (f) Japan,
+  - (g) New Zealand,
+  - (h) Norway,
+  - (i) Switzerland, and
+  - (j) the United States of America;
+- “**short-term export credit insurance**” means export credit insurance with a risk period of less than two years;
+- “**the SCM Agreement**” means the Agreement on Subsidies and Countervailing Measures, contained in Annex 1A to the Marrakesh Agreement Establishing the World Trade Organization, done at Marrakesh on 15 April 1994 (read with any adjustments necessary for context).
+
+(4) A marketable risk country is to be treated for the purposes of this section as not being a marketable risk country if regulations made by the Secretary of State provide for the marketable risk country to be so treated.
+
+(5) The Secretary of State may make regulations under subsection (4) in respect of a marketable risk country only if satisfied that there is a lack of sufficient private market capacity because of—
+
+- (a) a significant contraction of private credit insurance capacity,
+- (b) a significant deterioration of sovereign sector rating, or
+- (c) a significant deterioration of corporate sector performance.
+
+(6) The Secretary of State must by further regulations under subsection (4) revoke regulations under that subsection in respect of a marketable risk country if the Secretary of State ceases to be satisfied as mentioned in subsection (5).
+
+(7) Regulations under subsection (4) are subject to the negative procedure.
+
+(8) For the purposes of this section, a subsidy is contingent in fact upon export performance if the giving of the subsidy (without having been made legally contingent upon export performance) is in fact tied to actual or anticipated exportation or export earnings.
+
+(9) For the avoidance of doubt, a subsidy is not prohibited by this section by reason only of the fact that it is given to an enterprise that is engaged in an economic activity that entails exporting goods or services.
+
+## Annotations
+
+[^key-7e633d15d7638568413e922727bc918c]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
+
+[^key-35cc3be9f7523c2b4290ae5c9be7517a]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/23/section/16) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

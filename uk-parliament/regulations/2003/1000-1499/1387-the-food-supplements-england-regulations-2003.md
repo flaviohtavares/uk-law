@@ -1,0 +1,305 @@
+---
+title: The Food Supplements (England) Regulations 2003
+id: uksi/2003/1387
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-05-09'
+text_date: '2025-02-27'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2003/1387
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/1387/pdfs/uksi_20031387_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/1387/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Food Supplements (England) Regulations 2003
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2003 No. 1387
+
+FOOD, ENGLAND
+
+The Food Supplements (England) Regulations 2003
+
+Made
+
+9th May 2003
+
+Laid before Parliament
+
+2nd June 2003
+
+Coming into force
+
+1st August 2005
+
+The Secretary of State, in exercise of the powers conferred by sections 16(1)(a) and (e), 17(1), 26(1)(a) and (3) and 48(1) of the Food Safety Act 1990 [^c5041281] and now vested in him [^c5041291], having had regard in accordance with section 48(4A) of that Act to relevant advice given by the Food Standards Agency and after consultation both as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council [^c5041301] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety and in accordance with section 48(4) and (4B) of that Act, makes the following Regulations:[^key-82038cf7a69055286158ff704c58f1a0]
+
+## 1. Title, commencement and extent
+
+These Regulations may be cited as the Food Supplements (England) Regulations 2003; they come into force on 1st August 2005 and extend to England only.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Food Safety Act 1990;
+- “**catering establishment**” means a restaurant, canteen, club, public house, school, hospital or similar establishment (including a vehicle or a fixed or mobile stall) where, in the course of a business, food is prepared for delivery to the ultimate consumer and is ready for consumption without further preparation;
+- [^key-45cc546c2a33b9991f51cbea1817f7b4]...
+- [^key-be2c4e2c66a9c45dea8e85541ebf4e03]...
+- [^key-be2c4e2c66a9c45dea8e85541ebf4e03]...
+- “**dose form**” means a form such as capsules, pastilles, tablets, pills, and other similar forms, sachets of powder, ampoules of liquids, drop dispensing bottles, and other similar forms of liquids or powders designed to be taken in measured small unit quantities;
+- “**food supplement**” means any food the purpose of which is to supplement the normal diet and which—
+  - (a) is a concentrated source of a vitamin or mineral or other substance with a nutritional or physiological effect, alone or in combination; and
+  - (b) is sold in dose form;
+- “**preparation**” includes manufacture and any form of processing or treatment, and “**prepared**” shall be construed accordingly;
+- “[^key-56d1493cf2e4be04fbec52ab7d25c7e8]**Regulation (EU) No 1169/2011**” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/eur/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/eur/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/eudr/1987/250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/eudr/1990/496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/eudr/1999/10), Directive [2000/13/EC](https://www.legislation.gov.uk/eudr/2000/13) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/eudr/2002/67) and [2008/5/EC](https://www.legislation.gov.uk/eudr/2008/5) and Commission Regulation [(EC) No 608/2004](https://www.legislation.gov.uk/eur/2004/608);
+- “**sell**” includes possess for sale and offer, expose or advertise for sale;
+- “**ultimate consumer**” means any person who purchases otherwise than—
+  - (a) for the purpose of resale;
+  - (b) for the purposes of a catering establishment; or
+  - (c) for the purposes of a manufacturing business.
+
+(2) A food supplement shall be regarded as prepacked for the purposes of these Regulations if—
+
+- (a) it is ready for sale to the ultimate consumer or to a catering establishment, and
+- (b) it is put into packaging before being offered for sale in such a way that the food supplement cannot be altered without opening or changing the packaging.
+
+(3)[^key-f816edf996b4ba3095d23aafd3dfc812] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-f816edf996b4ba3095d23aafd3dfc812] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Scope of Regulations
+
+(1) These Regulations apply to food supplements sold as food and presented as such.
+
+(2)[^key-75157043b8dd23842f1cb4dcfe051760] These Regulations do not apply to medicinal products as defined by regulation 2(1) of the Human Medicines Regulations 2012[^key-87946f4af15ce3537f7bac423ee07918].
+
+## 4. Restriction on form in which food supplements are sold to the ultimate consumer
+
+No person shall sell any food supplement to the ultimate consumer unless it is prepacked.
+
+## 5. Prohibitions on sale relating to composition of food supplements
+
+(1) [^key-3168c24dc0cf0db29b56b2b8fed2a47a]..., no person shall sell a food supplement in the manufacture of which a vitamin or mineral has been used unless that vitamin or mineral—
+
+- (a) is listed in Schedule 1 to the Nutrition (Amendment) (EU Exit) Regulations 2019[^key-3cd84d72aebbdfdf3ccdbaf6a9ae3102]; and
+- (b) is in a form which—
+  - (i) is listed in Schedule 2 to the Nutrition (Amendment) (EU Exit) Regulations 2019[^key-407ccd922de7af5b7f45e7d91a892f51], and
+  - (ii) meets the relevant purity criteria.
+
+(2) The relevant purity criteria for the purposes of paragraph (1)(b)(ii) are—
+
+- (a)[^key-89138acba53c806b5d0e06f6497700e1] the purity criteria, if any, specified in EU-derived domestic legislation, assimilated direct[^key-39a02b68a56987d4be59406f756a2cec] legislation or in regulations made by the Secretary of State under regulation 3 of the Nutrition (Amendment) (EU Exit) Regulations 2019; or
+- (b) in the absence of such purity criteria, generally acceptable purity criteria for the substance in question recommended by international bodies.
+
+(3)[^key-b3e8e8b11a7e310c0986213ff6f8a05c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Restrictions on sale relating to labelling etc of food supplements
+
+(1) No person shall sell a food supplement which is ready for delivery to the ultimate consumer or to a catering establishment unless the name under which it is sold is “food supplement”.
+
+(2) Without prejudice to Regulation ([^key-638fa80fbcf0179e8f96605461829c4b]EU) No 1169/2011, no person shall sell a food supplement which is ready for delivery to the ultimate consumer or to a catering establishment unless it is marked or labelled with the following particulars—
+
+- (a) the name of the category of any vitamin or mineral or other substance with a nutritional or physiological effect which characterises the product or an indication of the nature of that vitamin or mineral or other substance;
+- (b) the portion of the product recommended for daily consumption;
+- (c) a warning not to exceed the stated recommended daily dose;
+- (d) a statement to the effect that food supplements should not be used as a substitute for a varied diet;
+- (e) a statement to the effect that the product should be stored out of the reach of young children; and
+- (f) the amount of any vitamin or mineral or other substance with a nutritional or physiological effect which is present in the product.
+
+(3) The information required by paragraph (2)(f) shall—
+
+- (a) be given in numerical form;
+- (b)[^key-31cf7eb5735addf6f98593eb754afe3a] in the case of a vitamin or mineral listed in Schedule 1 to the Nutrition (Amendment) (EU Exit) Regulations 2019[^key-5f79c99b2f208cc32266ea8d8a6b0a63] be given using the relevant unit specified in brackets after the name of that vitamin or mineral;
+- (c) be the amount per portion of the product as recommended for daily consumption on the labelling of the product;
+- (d) be an average amount based on the manufacturer’s analysis of the product; and
+- (e)[^key-7a629c474cd3ca1aedcd072c554b6b0a] in the case of a vitamin or mineral listed in point 1 of Part A of Annex[^key-d17135d268b3fdb121deb22e5602331f] XIII to Regulation (EU) No 1169/2011, be expressed also as a percentage (which may also be given in graphical form) of the relevant reference value specified in that point[^key-b8feaf0c3eab2b12800da0328b8df368].
+
+(4) No person shall sell any food supplement which is ready for delivery to the ultimate consumer or to a catering establishment if the labelling, presentation or advertising of that food supplement includes any mention, express or implied, that a balanced and varied diet cannot provide appropriate quantities of nutrients in general.
+
+## 7. Manner of marking or labelling
+
+(1) No person shall sell any food supplement which—
+
+- (a) is ready for delivery to the ultimate consumer, or
+- (b) is ready for delivery to a catering establishment and is prepacked,
+
+unless the particulars with which it is required to be marked or labelled by virtue of regulation 6(2) appear—
+
+- (i) on the packaging;
+- (ii) on a label attached to the packaging; or
+- (iii) on a label which is clearly visible through the packaging,
+
+save that where the sale is otherwise than to the ultimate consumer such particulars may, alternatively, appear only on the commercial documents relating to the food supplement where it can be guaranteed that such documents, containing all such particulars, either accompany the food supplement to which they relate or were sent before, or at the same time as, delivery of the food supplement, and provided always that the particulars required by points (a), (f), (g) and (h) of Article 9(1) Regulation ([^key-240d250fb65809c1a22219cdea104bc8]EU) No 1169/2011 are also marked or labelled on the outermost packaging in which that food supplement is sold.
+
+(2) No person shall sell any food supplement which is ready for delivery to a catering establishment and is not prepacked, unless the particulars with which it is required to be marked or labelled by virtue of regulation 6(2) appear—
+
+- (a) on a label attached to the food supplement;
+- (b) on a ticket or notice which is readily discernible by the intending purchaser at the place where he chooses the food supplement; or
+- (c) in commercial documents relating to the food supplement where it can be guaranteed that such documents either accompany the food supplement to which they relate or were sent before, or at the same time as, delivery of the food supplement.
+
+(3) No person shall sell any food supplement which is ready for delivery to the ultimate consumer or to a catering establishment unless the particulars with which it is required to be marked or labelled by virtue of regulation 6(2) are easy to understand, clearly legible and indelible and, when a food is sold to the ultimate consumer, those particulars are marked in a conspicuous place in such a way as to be easily visible.
+
+(4) No person shall sell any food supplement which is ready for delivery to the ultimate consumer or to a catering establishment if the particulars with which it is required to be marked or labelled by virtue of regulation 6(2) are in any way hidden, obscured or interrupted by any other written or pictorial matter.
+
+## 8. Enforcement
+
+(1) Each food authority shall enforce and execute these Regulations in its area.
+
+(2) In this regulation “**food authority**” does not include—
+
+- (a) the council of a district of a non-metropolitan county except where the county functions have been transferred to that council pursuant to a structural change; or
+- (b) the appropriate Treasurer referred to in section 5(1)(c) of the Act (which deals with the Inner Temple and the Middle Temple).
+
+## 9. Offences and penalties
+
+If any person contravenes regulation 4, 5, 6 or 7 he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## 10. Defence in relation to exports[^key-4407f732738cdd5103b6d587fab019ba]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Application of various provisions of the Act
+
+The following provisions of the Act shall apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part thereof shall be construed as a reference to these Regulations—
+
+- (a) section 2 (extended meaning of “sale” etc.);
+- (b) section 3 (presumptions that food is intended for human consumption);
+- (c) section 20 (offences due to fault of another person);
+- (d) section 21 (defence of due diligence) as it applies for the purposes of section 8, 14 or 15;
+- (e) section 22 (defence of publication in the course of business);
+- (f) section 30(8) (which relates to documentary evidence);
+- (g) section 33(1) (obstruction etc. of officers);
+- (h) section 33(2), with the modification that the reference to “any such requirement as is mentioned in subsection (1)(b) above” shall be deemed to be a reference to any such requirement as is mentioned in that subsection as applied by paragraph (g) above;
+- (i) section 35(1) (punishment of offences) in so far as it relates to offences under section 33(1) as applied by paragraph (g) above;
+- (j) section 35(2) and (3) in so far as it relates to offences under section 33(2) as applied by paragraph (h) above;
+- (k) section 36 (offences by bodies corporate); and
+- (l) section 44 (protection of officers acting in good faith).
+
+## 12. Transitional provision[^key-976c3e84ce169d4f61b7af4ece8eac9a]
+
+(1)[^M_F_29c35001-24bc-4667-f97e-9c835d0a7d7e] In any proceedings for an offence under regulation 9 relating to a breach of regulation 6 or 7 consisting of a contravention of or a failure to comply with regulation 6 (3)(e), it shall be a defence to prove that—
+
+- (a) the food supplement concerned was sold before the 31st October 2012; and
+- (b) the matters constituting the alleged offence would not have constituted an offence under those Regulations if the amendments made by regulation 2(2) and (6)(b) of the Food Supplements (England) and Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2009 had not been in operation when the food was sold.
+
+(2)[^key-38e27cf22277f16b0229f70e69ac8d18] In any proceedings for an offence under regulation 9 relating to a breach of regulation 6 or 7 consisting of a contravention of, or a failure to comply with, regulation 6(3)(b), it shall be a defence to prove that—
+
+- (a) zinc was used in the manufacture of the food supplement and the food supplement was marked or labelled before 10th February 2023; and
+- (b) the matters constituting the alleged offence would not have constituted an offence under these Regulations as they had effect immediately before 10th February 2023.
+
+(3)[^key-6b66deb95e215d9d824054854dc95f20] In any proceedings for an offence under regulation 9 relating to a breach of regulation 6 or 7 consisting of a contravention of, or a failure to comply with, regulation 6(3)(b), it shall be a defence to prove that—
+
+- (a) copper was used in the manufacture of the food supplement and the food supplement was marked or labelled before 10th August 2024; and
+- (b) the matters constituting the alleged offence would not have constituted an offence under these Regulations as they had effect immediately before 10th August 2024.
+
+Signed by authority of the Secretary of State for Health
+
+Hazel Blears
+
+Parliamentary Under Secretary of State,
+
+Department of Health
+
+## Schedule 1[^key-c946881d76afecf0fc9ad0738adecacb]
+
+**No longer in force.**
+
+[^key-c946881d76afecf0fc9ad0738adecacb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Schedule 2[^key-c946881d76afecf0fc9ad0738adecacb]
+
+[^key-c946881d76afecf0fc9ad0738adecacb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*(This note is not part of the Regulations)*
+
+**1.** These Regulations implement in England Directive [2002/46/EC](https://www.legislation.gov.uk/european/directive/2002/0046) of the European Parliament and of the Council on the approximation of the laws of the Member States relating to food supplements.
+
+**2.** The Regulations concern the sale (as defined in regulation 2(1)) of food supplements which are sold as food and presented as such (regulation 3). A food supplement is defined as a food sold in dose form whose purpose is to supplement the normal diet and which is a concentrated source of a vitamin or mineral or other substance with a nutritional or physiological effect, alone or in combination (regulation 2(1)).
+
+**3.** With effect from 1st August 2005 the Regulations—
+
+- (a) prohibit the sale of a food supplement to the ultimate consumer unless it is prepacked (regulations 4 and 2(2)),
+- (b) prohibit the sale of a food supplement in the manufacture of which a vitamin or mineral has been used, unless certain compositional requirements are met, subject to a transitional provision (regulation 5 and Schedules),
+- (c) prohibit the sale of a food supplement which is ready for delivery to the ultimate consumer or a catering establishment unless certain requirements as to labelling, presentation and advertising of the product are met (regulations 6 and 7).
+
+**4.** Article 6(2) of the Directive (labelling, presentation and advertising must not attribute to food supplements the property of preventing, treating or curing a human disease, or refer to such properties) is already implemented in the Food Labelling Regulations 1996 (regulation 40(1) and Schedule 6, Part I, paragraph 2).
+
+**5.** The Regulations make provision as to responsibilities for enforcement (regulation 8); create offences and penalties (regulation 9) and apply certain provisions of the Food Safety Act 1990 (regulation 11). The Regulations provide a defence in relation to exports, in accordance with Articles 2 and 3 of Council Directive [89/397/EEC](https://www.legislation.gov.uk/european/directive/1989/0397) (OJ No. L186, 30.6.89, p.23) on the official control of foodstuffs (regulation 10).
+
+**6.** A regulatory impact assessment has been prepared and placed in the Library of each House of Parliament together with a Transposition Note setting out how the main elements of Directive [2002/46/EC](https://www.legislation.gov.uk/european/directive/2002/0046) are transposed in these Regulations. Copies may be obtained from the Food Labelling and Standards Division of the Food Standards Agency, Aviation House, 125 Kingsway, London WC2B 6NH.
+
+## Annotations
+
+[^c5041281]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
+
+[^c5041291]: Marginal citation: Functions formerly exercisable by “the Ministers” (being, in relation to England and Wales and acting jointly, the Minister of Agriculture, Fisheries and Food and the Secretaries of State respectively concerned with health in England and food and health in Wales and, in relation to Scotland, the Secretary of State) are now exercisable in relation to England by the Secretary of State pursuant to paragraph 8 of Schedule 5 to the [Food Standards Act 1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), and paragraphs 12 and 21 of that Schedule amend respectively sections 17(1) and 48 of the 1990 Act. Functions of “the Ministers” so far as exercisable in relation to Wales were transferred to the National Assembly for Wales by the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672) as read with section 40(3) of the 1999 Act, and those functions so far as exercisable in relation to Scotland were transferred to the Scottish Ministers by section 53 of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) as read with section 40(2) of the 1999 Act.
+
+[^c5041301]: Marginal citation: OJ No. L31, 1.2.2002, p.1.
+
+[^key-82038cf7a69055286158ff704c58f1a0]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2003/1387) applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+
+[^key-45cc546c2a33b9991f51cbea1817f7b4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/1387/regulation/2/1) omitted (13.12.2014) by virtue of [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 7 para. 25(a)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/25/a)
+
+[^key-be2c4e2c66a9c45dea8e85541ebf4e03]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/1387/regulation/2) omitted (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2019/651/regulation/12/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-56d1493cf2e4be04fbec52ab7d25c7e8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/1387/regulation/2/1) inserted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 7 para. 25(b)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/25/b)
+
+[^key-f816edf996b4ba3095d23aafd3dfc812]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2003/1387/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2003/1387/regulation/2/4) omitted (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2019/651/regulation/12/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-75157043b8dd23842f1cb4dcfe051760]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2003/1387/regulation/3/2) substituted (1.1.2010) by [The Food Supplements (England) and Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2009 (S.I. 2009/3251)](https://www.legislation.gov.uk/uksi/2009/3251), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3251/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2009/3251/regulation/2/4)
+
+[^key-87946f4af15ce3537f7bac423ee07918]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2003/1387/regulation/3/2) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2019/651/regulation/12/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3168c24dc0cf0db29b56b2b8fed2a47a]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2003/1387/regulation/5/1) omitted (1.1.2010) by virtue of [The Food Supplements (England) and Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2009 (S.I. 2009/3251)](https://www.legislation.gov.uk/uksi/2009/3251), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3251/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2009/3251/regulation/2/5/a)
+
+[^key-3cd84d72aebbdfdf3ccdbaf6a9ae3102]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2003/1387/regulation/5/1/a) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [12(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/651/regulation/12/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-407ccd922de7af5b7f45e7d91a892f51]: Textual amendment: Words in [reg. 5(1)(b)(i)](https://www.legislation.gov.uk/uksi/2003/1387/regulation/5/1/b/i) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [12(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/651/regulation/12/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-89138acba53c806b5d0e06f6497700e1]: Textual amendment: [Reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2003/1387/regulation/5/2/a) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2019/651/regulation/12/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-39a02b68a56987d4be59406f756a2cec]: Textual amendment: Words in [reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2003/1387/regulation/5/2/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2025/82/schedule/3/paragraph/1)
+
+[^key-b3e8e8b11a7e310c0986213ff6f8a05c]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/2003/1387/regulation/5/3) omitted (1.1.2010) by virtue of [The Food Supplements (England) and Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2009 (S.I. 2009/3251)](https://www.legislation.gov.uk/uksi/2009/3251), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3251/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2009/3251/regulation/2/5/d)
+
+[^key-638fa80fbcf0179e8f96605461829c4b]: Textual amendment: Words in reg. 6(2) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 7 para. 26(a)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/26/a)
+
+[^key-31cf7eb5735addf6f98593eb754afe3a]: Textual amendment: Reg. 6(3)(b) substituted (1.1.2010) by [The Food Supplements (England) and Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2009 (S.I. 2009/3251)](https://www.legislation.gov.uk/uksi/2009/3251), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3251/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2009/3251/regulation/2/6/a)
+
+[^key-5f79c99b2f208cc32266ea8d8a6b0a63]: Textual amendment: Words in [reg. 6(3)(b)](https://www.legislation.gov.uk/uksi/2003/1387/regulation/6/3/b) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [12(5)](https://www.legislation.gov.uk/uksi/2019/651/regulation/12/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7a629c474cd3ca1aedcd072c554b6b0a]: Textual amendment: Reg. 6(3)(e) substituted (1.1.2010) by [The Food Supplements (England) and Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2009 (S.I. 2009/3251)](https://www.legislation.gov.uk/uksi/2009/3251), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3251/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2009/3251/regulation/2/6/b)
+
+[^key-d17135d268b3fdb121deb22e5602331f]: Textual amendment: Words in reg. 6(3)(e) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 7 para. 26(b)(i)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/26/b/i)
+
+[^key-b8feaf0c3eab2b12800da0328b8df368]: Textual amendment: Words in reg. 6(3)(e) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 7 para. 26(b)(ii)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/26/b/ii)
+
+[^key-240d250fb65809c1a22219cdea104bc8]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2003/1387/regulation/7/1) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 7 para. 27](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/27)
+
+[^key-4407f732738cdd5103b6d587fab019ba]: Textual amendment: Reg. 10 revoked (1.1.2006) by [The Official Feed and Food Controls (England) Regulations 2005 (S.I. 2005/2626)](https://www.legislation.gov.uk/uksi/2005/2626), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2626/regulation/1/b), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2626/schedule/6/part/2)
+
+[^key-976c3e84ce169d4f61b7af4ece8eac9a]: Textual amendment: Reg. 12 added (1.1.2010) by [The Food Supplements (England) and Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2009 (S.I. 2009/3251)](https://www.legislation.gov.uk/uksi/2009/3251), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3251/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2009/3251/regulation/2/7)
+
+[^M_F_29c35001-24bc-4667-f97e-9c835d0a7d7e]: Textual amendment: Words in reg. 12 renumbered as reg. 12(1) (10.2.2023) by [The Food Supplements and Food for Specific Groups (Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/131)](https://www.legislation.gov.uk/uksi/2023/131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/131/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/131/regulation/3/2)
+
+[^key-38e27cf22277f16b0229f70e69ac8d18]: Textual amendment: Reg. 12(2) inserted (10.2.2023) by [The Food Supplements and Food for Specific Groups (Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/131)](https://www.legislation.gov.uk/uksi/2023/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/131/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2023/131/regulation/3/3)
+
+[^key-6b66deb95e215d9d824054854dc95f20]: Textual amendment: Reg. 12(3) inserted (10.8.2024) by [The Food Supplements and Food for Specific Groups (Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/131)](https://www.legislation.gov.uk/uksi/2023/131), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2023/131/regulation/1/4), [3(4)](https://www.legislation.gov.uk/uksi/2023/131/regulation/3/4)
+
+[^key-c946881d76afecf0fc9ad0738adecacb]: Textual amendment: Sch. 1, Sch. 2 omitted (1.1.2010) by virtue of [The Food Supplements (England) and Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2009 (S.I. 2009/3251)](https://www.legislation.gov.uk/uksi/2009/3251), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3251/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2009/3251/regulation/2/8)

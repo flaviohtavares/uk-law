@@ -1,0 +1,132 @@
+---
+title: The National Assembly for Wales (Legislative Competence) (Transport) Order 2010
+id: uksi/2010/1208
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2010-04-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2010/1208
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/1208/pdfs/uksiem_20101208_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1208/pdfs/uksi_20101208_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1208/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Assembly for Wales (Legislative Competence) (Transport) Order 2010
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2010 No. 1208
+
+Constitutional Law
+
+Devolution, Wales
+
+The National Assembly for Wales (Legislative Competence) (Transport) Order 2010
+
+Made
+
+12th April 2010
+
+Coming into force in accordance with article 1
+
+At the Court at Windsor Castle, the 12th day of April 2010
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+In accordance with section 95(5) of the Government of Wales Act 2006[^f00001], a draft of this Order has been laid before, and approved by resolution of, the National Assembly for Wales and each House of Parliament.
+
+Accordingly, Her Majesty, in pursuance of section 95(1) of the Government of Wales Act 2006, is pleased, by and with the advice of Her Privy Council, to order as follows:–
+
+## 1. Citation and commencement
+
+(1) This Order may be cited as the National Assembly for Wales (Legislative Competence) (Transport) Order 2010.
+
+(2) This Order comes into force on the day after the day on which it is made.
+
+(3) In this Order “**Schedule 5**” means Schedule 5 to the Government of Wales Act 2006.
+
+## 2. Concessionary travel
+
+(1) Part 1 of Schedule 5 is amended as follows.
+
+(2) In Field 10 (highways and transport), after matter 10.1[^f00002] insert—
+
+> - *Matter 10.2*
+>
+>   Concessionary travel on the following services—
+>
+>   - (a) bus services;
+>   - (b) Welsh services provided under a franchise agreement to which the Welsh Ministers are a party.
+>
+>   Any expression which is used in paragraph (b) and the Railways Act 2005 has the meaning given in that Act.
+
+## 3. Amendments to general exceptions to matters
+
+(1) In Part 2 of Schedule 5, paragraph A1 (exceptions to matters)[^f00003] is amended as follows.
+
+(2) In paragraph (2) under the heading “*Highways and transport”*—
+
+- (a) omit “and” after sub-paragraph (a), and
+- (b) after sub-paragraph (b) insert —
+
+  > , and
+  >
+  > - (c) regulation of the description of vehicle which may be used pursuant to learner transport arrangements (including description by reference to a vehicle’s construction or equipment), but not including the setting of technical standards for construction or equipment which differ from the standards that would or might otherwise apply to that vehicle.
+
+  .
+
+(3) In paragraph (14) under that heading, insert at the end “(apart from regulation relating to the carriage of supervising adults on vehicles used pursuant to learner transport arrangements)”.
+
+(4) After paragraph (19) under that heading insert—
+
+> In paragraphs (2) and (14) “**learner transport arrangements**” means arrangements of the kind described in matter 5.10 which consist of the provision of motor vehicles and are made by—
+>
+> - (a) public authorities (within the meaning of field 15) exercising functions relating to education or training, or
+> - (b) institutions or other bodies concerned with the provision of education or training.
+
+.
+
+**4.** (1) In that Part of that Schedule, paragraph A1 is further amended as follows.
+
+(2) In paragraph (13)(c) under the heading *“Highways and transport”* for “Council Regulation [(EEC) 1191/69](https://www.legislation.gov.uk/european/regulation/1969/1191) as amended by [Council Regulation (EEC) No 1893/91](https://www.legislation.gov.uk/european/regulation/1991/1893) on public service obligations in transport” substitute “Regulation [(EC) No 1370/2007](https://www.legislation.gov.uk/european/regulation/2007/1370) of the European Parliament and of the Council on public passenger transport services by rail and by road”.
+
+Judith Simpson
+
+Clerk of the Privy Council
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Government of Wales Act 2006 (“the 2006 Act”). The Order extends the legislative competence of the National Assembly for Wales to make laws known as Measures of the National Assembly for Wales (referred to in the 2006 Act as “Assembly Measures”). The legislative competence conferred by this Order is subject to general limitations on the exercise of that legislative competence, which apply by virtue of section 94 of, and Schedule 5 to, the 2006 Act.
+
+Article 2 inserts matter 10.2 into field 10 (highways and transport) of Part 1 of Schedule 5 to the 2006 Act. Matter 10.2 is about concessionary fares.
+
+Articles 3 and 4 amend the general exceptions to matters under the heading “*Highways and transport*” in paragraph A1 of Part 2 of Schedule 5. The general exceptions apply to all matters in Part 1 of Schedule 5.
+
+Article 3(2) amends exception (2) under that heading, which is an exception for the regulation of the use of motor vehicles on roads, their construction and equipment and conditions under which they may be so used, apart from specified types of regulation. The amendments allow the Assembly to make provision by Measure to regulate the description of vehicle which may be used pursuant to learner transport arrangements of the kind described in matter 5.10 (including description by reference to construction and equipment).
+
+Article 3(3) amends exception (14) under the same heading, which is about transport security. The amendment allows the Assembly to make provision by Measure to regulate the carriage of supervising adults on vehicles used pursuant to learner transport arrangements.
+
+The provision allowed by the amendments in articles 3(2) and (4) may only be made in respect of learner transport arrangements made by public authorities having education and training functions or by institutions or other bodies concerned with the provision of education or training (article 3(4)).
+
+Article 4 amends exception (13)(c) under the heading “*Highways and transport*” in consequence of the repeal of [Council Regulation (EEC) No 1191/69](https://www.legislation.gov.uk/european/regulation/1969/1191). It substitutes the reference to that Regulation in exception (13)(c) with a reference to its replacement: Regulation [(EC) No 1370/2007](https://www.legislation.gov.uk/european/regulation/2007/1370) of the European Parliament and of the Council on public passenger transport services by rail and by road.
+
+A full regulatory impact assessment has not been prepared for this Order since the effect of this Order is only to confer competence on the National Assembly for Wales to legislate.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.32](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00002]: Footnote: Matter 10.1 was inserted by section 122 of the [Local Transport Act 2008 (c.26)](https://www.legislation.gov.uk/ukpga/2008/26).
+
+[^f00003]: Footnote: Paragraph A1 was inserted by article 2(9) of the National Assembly for Wales (Exceptions to Matters) Order 2009 ([SI 2009/3006](https://www.legislation.gov.uk/uksi/2009/3006)). Paragraph (2) under the heading “Highways and transport” was substituted by article 3(3)(b) of the National Assembly for Wales (Legislative Competence) (Environment) Order 2010 ([SI 2010/248](https://www.legislation.gov.uk/uksi/2010/248)). Paragraph (19) under the same heading was inserted by article 3(3)(e) of the same order.

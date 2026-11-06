@@ -1,0 +1,35 @@
+---
+title: Trade Marks Act 1938, section 27
+act: Trade Marks Act 1938
+section: '27'
+status: repealed
+text_date: '1994-10-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/Geo6/1-2/22/section/27
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Trade Marks Act 1938, section 27
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 27. Defensive registration of well known trade marks.
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force (ended 1994-10-31).**
+
+(1) Where a trade mark consisting of an invented word or invented words has become so well known as respects any goods in respect of which it is registered and in relation to which it has been used that the use thereof in relation to other goods would be likely to be taken as indicating a connection in the course of trade between those goods and a person entitled to use the trade mark in relation to the first-mentioned goods, then, notwithstanding that the proprietor registered in respect of the first-mentioned goods does not use or propose to use the trade mark in relation to those other goods and notwithstanding anything in the last foregoing section, the trade mark may, on the application in the prescribed manner of the proprietor registered in respect of the first-mentioned goods, be registered in his name in respect of those other goods as a defensive trade mark and, while so registered, shall not be liable to be taken off the register in respect of those goods under the last foregoing section.
+
+(2) The registered proprietor of a trade mark may apply for the registration thereof in respect of any goods as a defensive trade mark notwithstanding that it is already registered in his name in respect of those goods otherwise than as a defensive trade mark, or may apply for the registration thereof in respect of any goods otherwise than as a defensive trade mark notwithstanding that it is already registered in his name in respect of those goods as a defensive trade mark, in lieu in each case of the existing registration.
+
+(3) A trade mark registered as a defensive trade mark and that trade mark as otherwise registered in the name of the same proprietor shall, notwithstanding that the respective registrations are in respect of different goods, be deemed to be, and shall be registered as, associated trade marks.
+
+(4) On application by any person aggrieved to the Court or, at the option of the applicant and subject to the provisions of section fifty-four of this Act, to the Registrar, the registration of a trade mark as a defensive trade mark may be cancelled on the ground that the requirements of subsection (1) of this section are no longer satisfied in respect of any goods in respect of which the trade mark is registered in the name of the same proprietor otherwise than as a defensive trade mark, or may be cancelled as respects any goods in respect of which it is registered as a defensive trade mark on the ground that there is no longer any likelihood that the use of the trade mark in relation to those goods would be taken as giving the indication mentioned in subsection (1) of this section.
+
+(5) The Registrar may at any time cancel the registration as a defensive trade mark of a trade mark of which there is no longer any registration in the name of the same proprietor otherwise than as a defensive trade mark.
+
+(6) Except as otherwise expressly provided in this section, the provisions of this Act shall apply in respect of the registration of trade marks as defensive trade marks and of trade marks so registered as they apply in other cases.

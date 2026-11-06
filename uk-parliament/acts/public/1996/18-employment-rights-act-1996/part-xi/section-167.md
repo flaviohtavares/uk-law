@@ -1,0 +1,41 @@
+---
+title: Employment Rights Act 1996, section 167
+act: Employment Rights Act 1996
+section: '167'
+status: revised-with-pending-changes
+text_date: '2026-10-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1996/18/section/167
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Employment Rights Act 1996, section 167
+
+> **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 167. Making of payments.
+
+*Extent: E+W+S*
+
+(1) Where, on an application under section 166 by an employee in relation to an employer’s payment, the Secretary of State is satisfied that the requirements specified in subsection (2) are met, he shall pay to the employee out of the National Insurance Fund a sum calculated in accordance with section 168 but reduced by so much (if any) of the employer’s payment as has already been paid.
+
+(2) The requirements referred to in subsection (1) are—
+
+- (a) that the employee is entitled to the employer’s payment, and
+- (b) that one of the conditions specified in paragraphs (a) and (b) of subsection (1) of section 166 is fulfilled,
+
+and, in a case where the employer’s payment is a payment such as is mentioned in subsection (2)(b) of that section, that the employee’s right to the payment arises by virtue of a period of continuous employment (computed in accordance with the provisions of the agreement in question) which is not less than two years.
+
+(3) Where under this section the Secretary of State pays a sum to an employee in respect of an employer’s payment—
+
+- (a) all rights and remedies of the employee with respect to the employer’s payment, or (if the Secretary of State has paid only part of it) all the rights and remedies of the employee with respect to that part of the employer’s payment, are transferred to and vest in the Secretary of State, and
+- (b) any decision of an employment tribunal[^c16333571] requiring the employer’s payment to be paid to the employee has effect as if it required that payment, or that part of it which the Secretary of State has paid, to be paid to the Secretary of State.
+
+(4) Any money recovered by the Secretary of State by virtue of subsection (3) shall be paid into the National Insurance Fund.
+
+## Annotations
+
+[^c16333571]: Textual amendment: Words in s. 167(3)(b) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/a) (with [s. 16(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/2)); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)

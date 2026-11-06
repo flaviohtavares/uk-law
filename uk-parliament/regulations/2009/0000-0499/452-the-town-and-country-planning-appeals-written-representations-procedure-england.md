@@ -1,0 +1,379 @@
+---
+title: The Town and Country Planning (Appeals) (Written Representations Procedure) (England) Regulations 2009
+id: uksi/2009/452
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2009-03-04'
+text_date: '2009-03-04'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2009/452
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/452/pdfs/uksiem_20090452_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/452/pdfs/uksi_20090452_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/452/data.pdf
+pending_changes: 53
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (Appeals) (Written Representations Procedure) (England) Regulations 2009
+
+> **Warning: changes not yet applied to this text (53).** Text as at 2009-03-04. See https://www.legislation.gov.uk/changes/affected/uksi/2009/452
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+2009 No. 452
+
+Town And Country Planning, England
+
+The Town and Country Planning (Appeals) (Written Representations Procedure) (England) Regulations 2009
+
+Made
+
+4th March 2009
+
+Laid before Parliament
+
+11th March 2009
+
+Coming into force
+
+6th April 2009
+
+The Secretary of State for Communities and Local Government, in exercise of the powers conferred by sections 323 and 333(2A) of the Town and Country Planning Act 1990[^f00001], makes the following Regulations:
+
+## 1. Citation and commencement[^key-2486431a3a11dc4dbb4e7a3d409756cd]
+
+These Regulations may be cited as the Town and Country Planning (Appeals) (Written Representations Procedure) (England) Regulations 2009 and shall come into force on 6th April 2009.
+
+## 2. Interpretation[^key-9cc88af973e403aff02db1903233741e]
+
+(1) In these Regulations—
+
+- “the Act” means the Town and Country Planning Act 1990;
+- “appellant” means a person giving notice of appeal to the Secretary of State;
+- “document” includes a photograph, map or plan;
+- “dwellinghouse” does not include a building containing one or more flats, or a flat contained within such a building;
+- “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00002];
+- “householder appeal” means an appeal under section 78(1) of the Act in relation to a householder application, except an appeal against the grant of any planning permission, consent, agreement or approval which is granted subject to conditions;
+- “householder application” means—
+  - (a) an application for planning permission for development of an existing dwellinghouse, or development within the curtilage of such a dwellinghouse for any purpose incidental to the enjoyment of the dwellinghouse, or
+  - (b) an application for any consent, agreement or approval required by or under a planning permission, development order or local development order in relation to such development,
+
+  but does not include—
+
+  - (i) an application for change of use,
+  - (ii) an application to change the number of dwellings in a building;
+- “local planning authority” means the body who were responsible for dealing with the application occasioning the appeal;
+- “notice of appeal” means a notice of appeal under section 78 of the Act;
+- “questionnaire” means a document in the form supplied by the Secretary of State to local planning authorities for the purpose of proceedings under these Regulations, and for this purpose a form is taken to be supplied where the Secretary of State has published it on a website and has notified the local planning authority of—
+  - (a) publication of the form on the website,
+  - (b) the address of the website, and
+  - (c) the place on the website where the form may be accessed, and how it may be accessed;
+- “starting date” means the date of the notice under regulation 4 or 11, as the case may be;
+- “working day” means a day which is not a Saturday, Sunday, Bank Holiday or other public holiday; and
+- “written representations” includes supporting documents.
+
+(2) In these Regulations, and in relation to the use of electronic communications for any purpose of these Regulations which is capable of being effected electronically—
+
+- (a) the expression “address” includes any number or address used for the purposes of such communications, except that where these Regulations impose an obligation on any person to provide a name and address to any other person, the obligation shall not be fulfilled unless the person on whom it is imposed provides a postal address;
+- (b) references to notices, representations or other documents, or to copies of such documents, include references to such documents or copies of them in electronic form.
+
+(3) Paragraphs (4) to (7) apply where an electronic communication is used by a person for the purpose of fulfilling any requirement in these Regulations to give or send any statement, notice or other document to any other person (“the recipient”).
+
+(4) The requirement shall be taken to be fulfilled where the notice or other document transmitted by means of the electronic communication is—
+
+- (a) capable of being accessed by the recipient,
+- (b) legible in all material respects, and
+- (c) sufficiently permanent to be used for subsequent reference.
+
+(5) In paragraph (4), “legible in all material respects” means that the information contained in the notice or other document is available to the recipient to no lesser extent than it would be if sent or given by means of a document in printed form.
+
+(6) Where the electronic communication is received by the recipient outside the recipient’s business hours, it shall be taken to have been received on the next working day.
+
+(7) A requirement in these Regulations that any document should be in writing is fulfilled where that document meets the criteria in paragraph (4), and “written” and cognate expressions are to be construed accordingly.
+
+## 3. Application[^key-7f7c2f47ba93ca29a15d7ec1f0a78de7]
+
+(1) These Regulations apply in relation to England only.
+
+(2) Part 1 of these Regulations only applies where—
+
+- (a) a householder appeal is made in relation to an application which was made on or after 6th April 2009; and
+- (b) the Secretary of State has determined under section 319A (determination of procedure of certain proceedings) of the Act that it is a matter which is to be determined on the basis of representations in writing.
+
+(3) Part 2 of these Regulations only applies where—
+
+- (a) an appeal which is not a householder appeal is made under section 78 of the Act in relation to an application which was made on or after 6th April 2009; and
+- (b) the Secretary of State has determined under section 319A of the Act that it is a matter which is to be determined on the basis of representations in writing.
+
+(4) Where the Secretary of State varies a determination under section 319A(4) so that an appeal proceeding at a local inquiry or at a hearing is to continue on the basis of representations in writing, in accordance with Part 1 or Part 2 of these Regulations, as the case may be, these Regulations apply in relation to the proceedings to such extent as the Secretary of State may specify having regard to any steps already taken in relation to those proceedings.
+
+(5) Where the Secretary of State varies a determination under section 319A(4) so that an appeal proceeding on the basis of representations in writing is to continue at a local inquiry or at a hearing, these Regulations shall cease to apply.
+
+## PART 1 — Procedure for Householder Appeals
+
+### 4. Notification of receipt of appeal[^key-51097b3ab1e1598eea0fd6500e9c3dd7]
+
+The Secretary of State shall, as soon as practicable after a determination has been made under section 319A of the Act, advise the appellant and the local planning authority in writing—
+
+- (a) of the reference number allocated to the appeal;
+- (b) that the appeal will follow the procedures set out in Part 1 of these Regulations; and
+- (c) of the address to which written communications to the Secretary of State about the appeal are to be sent.
+
+### 5. Questionnaire[^key-9fb32b292294809149bc132f984794c1]
+
+The local planning authority shall, within 5 working days of the starting date, send to the Secretary of State and copy to the appellant—
+
+- (a) a completed questionnaire; and
+- (b) a copy of each of the documents referred to in it.
+
+### 6. Notice to interested persons[^key-fd0a812d819e8ae285a3390f8a3f202b]
+
+(1) The local planning authority shall give written notice of the appeal within 5 working days of the starting date to—
+
+- (a) any person notified or consulted in accordance with the Act or a development order about the application which has given rise to the appeal; and
+- (b) any other person who made representations to the local planning authority about that application.
+
+(2) A notice under paragraph (1) shall—
+
+- (a) state the name of the appellant and the address of the site to which the appeal relates;
+- (b) describe the application;
+- (c) state the starting date;
+- (d) set out the matters notified to the appellant and the local planning authority under regulation 4(a) and (b); and
+- (e) state that any representations made to the local planning authority in relation to the application, before it was determined, will be sent to the Secretary of State and the appellant by the local planning authority and will be considered by the Secretary of State when determining the appeal unless they are withdrawn in writing within 4 weeks of the starting date.
+
+### 7. Representations[^key-b5eb2518b86ae8ec32728382ace74860]
+
+(1) The notice of appeal and the documents accompanying it shall comprise the appellant’s representations in relation to the appeal.
+
+(2) The completed questionnaire and documents sent with it shall comprise the local planning authority’s representations in relation to the appeal.
+
+(3) The Secretary of State shall, as soon as practicable after receipt, send a copy of the representations made by the local planning authority to the appellant and shall send a copy of the representations made by the appellant to the local planning authority.
+
+### 8. Further information[^key-41de8e28ac95c1353999573cbbbedb23]
+
+(1) The Secretary of State may in writing require the appellant, local planning authority and other interested persons, to provide such further information relevant to the appeal as may be specified.
+
+(2) Such information must be provided in writing within such period as the Secretary of State may specify.
+
+(3) The Secretary of State may disregard any further information unless that information has been requested pursuant to paragraph (1).
+
+### 9. Transfer of appeal from Part 1[^key-6b3c0d5b3ef7837c7b37eb234de606f7]
+
+(1) At any time before an appeal is determined, the Secretary of State may determine that the procedures set out in this Part are no longer suitable for that appeal.
+
+(2) Where such a determination is made the Secretary of State shall notify the appellant and the local planning authority in writing that—
+
+- (a) the appeal is to be transferred from the procedures set out in Part 1 of these Regulations; and
+- (b) the appeal will proceed in accordance with Part 2 of these Regulations to such extent as the Secretary of State may specify having regard to any steps already taken in relation to those proceedings.
+
+### 10. Decision on householder appeal under Part 1[^key-b7df820c24fc3b550be5928cba1aabea]
+
+(1) The Secretary of State may, after giving the appellant and the local planning authority written notice of the intention to do so, proceed to a decision on an appeal taking into account only those representations which have been sent within the relevant time limits, where it appears that there is sufficient material to enable a decision to be reached.
+
+(2) In paragraph (1) “relevant time limits” means the time limits prescribed by these Regulations, or where the Secretary of State has exercised the power under regulation 17, any later time limit.
+
+## PART 2 — Procedures for other appeals
+
+### 11. Notification of receipt of appeal[^key-2e0d6fa1855be888682da5192d8a50e0]
+
+The Secretary of State shall, as soon as practicable after a determination has been made under section 319A of the Act, advise the appellant and the local planning authority in writing—
+
+- (a) of the reference number allocated to the appeal;
+- (b) that the appeal will follow the procedures set out in Part 2 of these Regulations; and
+- (c) of the address to which written communications to the Secretary of State about the appeal are to be sent.
+
+### 12. Questionnaire[^key-0b14de7f05ef636da30ab30309146e8e]
+
+The local planning authority shall, within 2 weeks of the starting date, send to the Secretary of State and copy to the appellant—
+
+- (a) a completed questionnaire; and
+- (b) a copy of each of the documents referred to in it.
+
+### 13. Notice to interested persons[^key-bb9f9d0eb3d66ddb9cdbf5c7327f2f7b]
+
+(1) The local planning authority shall give written notice of the appeal within 2 weeks of the starting date to —
+
+- (a) any person notified or consulted in accordance with the Act or a development order about the application which has given rise to the appeal; and
+- (b) any other person who made representations to the local planning authority about that application.
+
+(2) A notice under paragraph (1) shall—
+
+- (a) state the name of the appellant and the address of the site to which the appeal relates;
+- (b) describe the application;
+- (c) state the starting date;
+- (d) set out the matters notified to the appellant and the local planning authority under regulation 11;
+- (e) state that any representations made to the local planning authority in relation to the application, before it was determined, will be sent to the Secretary of State and the appellant by the local planning authority and will be considered by the Secretary of State when determining the appeal unless they are withdrawn, in writing, within 6 weeks of the starting date; and
+- (f) state that further written representations may be sent to the Secretary of State within 6 weeks of the starting date.
+
+### 14. Representations[^key-69739742fcd9858df03a22b7f67adedb]
+
+(1) The notice of appeal and the documents accompanying it shall comprise the appellant’s representations in relation to the appeal.
+
+(2) The local planning authority may elect to treat the questionnaire and the documents sent with it as their representations in relation to the appeal; and, where this is done, they shall notify the Secretary of State and the appellant accordingly when sending the questionnaire or sending the copy in accordance with regulation 12.
+
+(3) Where the local planning authority do not elect as described in paragraph (2), they shall send 2 copies of their written representations to the Secretary of State within 6 weeks of the starting date.
+
+(4) If the appellant wishes to make any further representations to those referred to in paragraph (1), the appellant shall send 2 copies of those further representations to the Secretary of State within 6 weeks of the starting date.
+
+(5) The Secretary of State shall, as soon as practicable after receipt, send a copy of any representations made by the local planning authority to the appellant and shall send a copy of any representations made by the appellant to the local planning authority.
+
+(6) The appellant and the local planning authority shall send 2 copies of any comments they have on each other’s representations to the Secretary of State within 9 weeks of the starting date; and the Secretary of State shall, as soon as practicable after receipt, send a copy of those further comments to the other party.
+
+(7) The Secretary of State may disregard further information from the appellant and the local planning authority which was not sent within 9 weeks of the starting date unless that further information has been requested by the Secretary of State.
+
+(8) Where a party to which this regulation applies elects to use electronic communications for submitting, sending, copying or sending a copy of any representations, questionnaire or other documents, references to “2 copies of” in paragraphs (3), (4) and (6) shall be omitted.
+
+### 15. Third party representations[^key-e09f34ab71b166ee890dad3cbb47554b]
+
+(1) If a person notified under regulation 13(1) wishes to send representations to the Secretary of State, they shall do so, in writing, within 6 weeks of the starting date.
+
+(2) The Secretary of State shall—
+
+- (a) send to the appellant and the local planning authority, as soon as practicable after receipt, a copy each of all of such representations; and
+- (b) specify a period of not less than 2 weeks within which any comments on these representations must be sent to the Secretary of State.
+
+### 16. Decision on appeal[^key-ed095704f6c7235cf1c52dfa3db7f63e]
+
+(1) The Secretary of State may proceed to a decision on an appeal taking into account only such written representations as have been sent within the relevant time limits.
+
+(2) The Secretary of State may, after giving the appellant and the local planning authority written notice of the intention to do so, proceed to a decision on an appeal even though no written representations have been made within the relevant time limits by the local planning authority or any other third parties, if it appears that there is sufficient material to enable a decision on the merits of the case to be reached.
+
+(3) In this regulation “relevant time limits” means the time limits prescribed by these Regulations, or where the Secretary of State has exercised the power under regulation 17, any later time limit.
+
+## PART 3 — Miscellaneous
+
+### 17. Allowing further time[^key-25ceb8dbd8aefc5a3d9a52cd6db9bf20]
+
+The Secretary of State may in a particular case give directions setting later time limits than those prescribed by these Regulations.
+
+### 18. Mayor of London[^key-6051fae8529bd113eca1916b6b434ade]
+
+(1) In this regulation “the Mayor” means the Mayor of London.
+
+(2) Where an appeal arises from an application in respect of which the Mayor has directed the local planning authority to refuse the application and where the Secretary of State has determined under section 319A of the Act that it is a matter which is to be determined on the basis of representations in writing these Regulations shall apply subject to the following modifications—
+
+- (a) in regulations 4 and 11, after “advise the appellant” insert “, the Mayor”;
+- (b) in regulations 5 and 12, after “and copy to the appellant” insert “and the Mayor”;
+- (c) in regulation 8, after “local planning authority” insert “, the Mayor”;
+- (d) in regulation 9(2), after “the appellant” insert “, the Mayor”;
+- (e) in regulations 10(1), after “the appellant” insert “, the Mayor”;
+- (f) in regulation 14—
+  - (i) for “2 copies” substitute “3 copies” where ever it occurs;
+  - (ii) in paragraph (2), after “Secretary of State” insert “, the Mayor”;
+  - (iii) after paragraph (4) insert—
+
+    > (4A) If the Mayor wishes to make any representations in relation to the appeal, the Mayor shall submit 3 copies of those representations to the Secretary of State within 6 weeks of the starting date.
+  - (iv) in paragraph (5), after the first reference to “the appellant”, insert “and the Mayor” and after the second reference to “the local planning authority”, insert “and the Mayor, and shall send a copy of any representations made to him by the Mayor to the appellant and to the local planning authority”;
+  - (v) in paragraph (6), after “the appellant” insert “, the Mayor” and for “other party” substitute “other parties”;
+  - (vi) in paragraph (7), after “the appellant” insert “, the Mayor”;
+  - (vii) in paragraph (8), after “(4)” insert “(4A)”.
+- (g) in regulation 15, in paragraph (2)(a), after “the appellant” insert “, the Mayor”;
+- (h) in regulation 16, in paragraph (2), after “the appellant” insert “, the Mayor”.
+
+### 19. Withdrawal of consent to use of electronic communications[^key-0c7e4e74a86818a30001cb0246ab3f13]
+
+Where a person is no longer willing to accept the use of electronic communications for any purpose of these Regulations which is capable of being effected electronically, the person shall give notice in writing—
+
+- (a) withdrawing any address notified to the Secretary of State or to a local planning authority for that purpose, or
+- (b) revoking any agreement entered into with the Secretary of State or with a local planning authority for that purpose,
+
+and such withdrawal or revocation shall be final and shall take effect on a date specified by the person in the notice but not less than 1 week after the date on which the notice is given.
+
+### 20. Revocation transitional and saving provision[^key-2c6264426e2e2f8c4492156c27d53d2b]
+
+(1) Subject to paragraphs (2), the Town and Country Planning (Appeals) (Written Representations Procedure) (England) Regulations 2000[^f00003] (“the 2000 Regulations”) are revoked.
+
+(2) Subject to paragraph (3), where an appeal in relation to an application made before the 6th April 2009 is to be considered on the basis of representations in writing, the appeal shall be continued under the 2000 Regulations.
+
+(3) Where a decision of the Secretary of State on an appeal to which the 2000 Regulations applied is subsequently quashed in proceedings before any court, the decision shall be redetermined in accordance with Part 2 of these Regulations.
+
+Signed by authority of the Secretary of State
+
+Kay Andrews
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+4th March 2009
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Section 78 of the Town and Country Planning Act 1990 (“the Act”) confers a right of appeal against certain planning decisions of a local planning authority and against cases where a local planning authority fails to notify such a planning decision within prescribed periods.
+
+Section 319A of the Act was inserted by section 196 of the Planning Act 2008. The Secretary of State has the power under section 319A of the Act to determine the procedure to be used to determine an appeal under section 78. The procedure adopted may be at a local inquiry, at a hearing or on the basis of representations in writing.
+
+These Regulations lay down the procedure and time limits in connection with appeals under section 78 of the Act which are to be considered on the basis of representations in writing. They revoke and replace, with some changes, the Town and Country Planning (Appeals) (Written Representations Procedure) (England) Regulations 2000 (“the 2000 Regulations”), subject to the transitional and saving provisions in regulation 20.
+
+The main changes made by the Regulations are the introduction of a new, expedited procedure in Part 1 of the Regulations. This applies where the Secretary of State has determined under section 319A of the Act that a householder appeal shall be dealt with on the basis of representations in writing.
+
+Where Part 1 of the Regulations apply, the main changes to the procedure are—
+
+- (a) that the local planning authority must send a completed questionnaire, and associated documents, within 5 working days of the starting date (regulation 5);
+- (b) interested parties are notified of the appeal and are given the opportunity to withdraw any representations they made in relation to the application, but they are not given the opportunity to make any further representations in relation to the appeal (regulation 6);
+- (c) the appellant and local planning authority are not given an opportunity to comment on each others representations (regulation 7); and,
+- (d) the Secretary of State may proceed to a decision on an appeal taking into account only those representations which were submitted within the relevant time limits, where it appears that there is sufficient material to enable a decision to be reached and after giving written notice of the intention to do so (regulation 10).
+
+The Secretary of State may, where appropriate transfer an appeal from Part 1 procedures and continue to deal with it under Part 2 (regulation 9). If it is determined that the appeal should no longer proceed on the basis of representations in writing, the Secretary of State may make a subsequent determination under section 319A(4)of the Act to vary the original determination as to procedure so that the appeal is considered at a local inquiry or at a hearing.
+
+There are minor changes to the procedures in the 2000 Regulations, which are now replaced by Part 2 of the Regulations.
+
+An impact assessment has been prepared in relation to these Regulations. This assessment has been placed in the Library of each House of Parliament and copies may be obtained from PSID, Department for Communities and Local Government, Eland House, Bressenden Place, London, SW1E 5DU (telephone 020 7944 4817).
+
+## Annotations
+
+[^f00001]: Footnote: [1990 (c. 8)](https://www.legislation.gov.uk/ukpga/1990/8). The functions of the Secretary of State under sections 323 and 333 are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales. They were previously transferred to the National Assembly for Wales by article 2 of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999.672](https://www.legislation.gov.uk/uksi/1999/672)); see the entry in Schedule 1 for the 1990 Act. By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32), the functions were transferred to the Welsh Ministers. Section 323(1A) was inserted by section 196 and paragraph 12 of Schedule 10 to the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29). Section 319A was inserted by section 196 of that Act. Section 333(2A) was inserted by the Planning and Compulsory Purchase Act [2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5), Schedule 6, paragraphs 1 and 14. See section 336 of the Act for the meaning of “prescribed”.
+
+[^key-2486431a3a11dc4dbb4e7a3d409756cd]: Commencement: Reg. 1 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^key-9cc88af973e403aff02db1903233741e]: Commencement: Reg. 2 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^f00002]: Footnote: [2000 (c.7)](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), see section 406(1) and paragraph 158 of Schedule 17.
+
+[^key-7f7c2f47ba93ca29a15d7ec1f0a78de7]: Commencement: Reg. 3 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^key-51097b3ab1e1598eea0fd6500e9c3dd7]: Commencement: Reg. 4 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^key-9fb32b292294809149bc132f984794c1]: Commencement: Reg. 5 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^key-fd0a812d819e8ae285a3390f8a3f202b]: Commencement: Reg. 6 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^key-b5eb2518b86ae8ec32728382ace74860]: Commencement: Reg. 7 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^key-41de8e28ac95c1353999573cbbbedb23]: Commencement: Reg. 8 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^key-6b3c0d5b3ef7837c7b37eb234de606f7]: Commencement: Reg. 9 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^key-b7df820c24fc3b550be5928cba1aabea]: Commencement: Reg. 10 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^key-2e0d6fa1855be888682da5192d8a50e0]: Commencement: Reg. 11 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^key-0b14de7f05ef636da30ab30309146e8e]: Commencement: Reg. 12 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^key-bb9f9d0eb3d66ddb9cdbf5c7327f2f7b]: Commencement: Reg. 13 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^key-69739742fcd9858df03a22b7f67adedb]: Commencement: Reg. 14 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^key-e09f34ab71b166ee890dad3cbb47554b]: Commencement: Reg. 15 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^key-ed095704f6c7235cf1c52dfa3db7f63e]: Commencement: Reg. 16 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^key-25ceb8dbd8aefc5a3d9a52cd6db9bf20]: Commencement: Reg. 17 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^key-6051fae8529bd113eca1916b6b434ade]: Commencement: Reg. 18 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^key-0c7e4e74a86818a30001cb0246ab3f13]: Commencement: Reg. 19 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^key-2c6264426e2e2f8c4492156c27d53d2b]: Commencement: Reg. 20 in force at 6.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/452/regulation/1)
+
+[^f00003]: Footnote: [S.I. 2000/1628](https://www.legislation.gov.uk/uksi/2000/1628). Amended by [S.I. 2003/956](https://www.legislation.gov.uk/uksi/2003/956).

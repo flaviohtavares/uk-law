@@ -1,0 +1,34 @@
+---
+title: Pensions Act 2004, section 313
+act: Pensions Act 2004
+section: '313'
+status: revised-with-pending-changes
+text_date: '2026-07-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2004/35/section/313
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pensions Act 2004, section 313
+
+> **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 313. Crown application
+
+*Extent: E+W+S+N.I.*
+
+(1) In this section “**the relevant provisions**” means—
+
+- (a) Parts 1 to 5,
+- (b) sections 306, 307, 310, 311, 312, 314, 315, 318(4) and (5) and 322(5).
+
+(2) The relevant provisions apply to a pension scheme managed by or on behalf of the Crown as they apply to other pension schemes; and, accordingly, references in those provisions to a person in his capacity as a trustee or manager of, or person prescribed in relation to, a pension scheme include the Crown, or a person acting on behalf of the Crown, in that capacity.
+
+(3) The relevant provisions apply to persons employed by or under the Crown in like manner as if such persons were employed by a private person; and references in those provisions to a person in his capacity as an employer include the Crown, or a person acting on behalf of the Crown in that capacity.
+
+(4) This section does not apply to any of the relevant provisions under or by virtue of which a person may be prosecuted for an offence; but such a provision applies to persons in the public service of the Crown as it applies to other persons.
+
+(5) Nothing in the relevant provisions applies to Her Majesty in Her private capacity (within the meaning of the Crown Proceedings Act 1947 (c. 44)).

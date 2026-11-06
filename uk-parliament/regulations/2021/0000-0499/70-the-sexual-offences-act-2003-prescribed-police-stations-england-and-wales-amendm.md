@@ -1,0 +1,250 @@
+---
+title: The Sexual Offences Act 2003 (Prescribed Police Stations) (England and Wales) (Amendment) Regulations 2021
+id: uksi/2021/70
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-01-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2021/70
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/70/pdfs/uksiem_20210070_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/70/pdfs/uksi_20210070_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/70/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sexual Offences Act 2003 (Prescribed Police Stations) (England and Wales) (Amendment) Regulations 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 70
+
+Criminal Law, England And Wales
+
+The Sexual Offences Act 2003 (Prescribed Police Stations) (England and Wales) (Amendment) Regulations 2021
+
+Made
+
+21st January 2021
+
+Laid before Parliament
+
+25th January 2021
+
+Coming into force
+
+16th February 2021
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 87(1)(a) of the Sexual Offences Act 2003[^f00001].
+
+## 1. Citation, commencement, interpretation and extent
+
+(1) These Regulations may be cited as the Sexual Offences Act 2003 (Prescribed Police Stations) (England and Wales) (Amendment) Regulations 2021 and come into force on 16th February 2021.
+
+(2) In these Regulations, “the 2018 Regulations” means the Sexual Offences Act 2003 (Prescribed Police Stations) (England and Wales) Regulations 2018[^f00002].
+
+(3) These Regulations extend to England and Wales.
+
+## 2. Amendment of prescribed police stations
+
+The Schedule to the 2018 Regulations is amended as specified in the second column of the table in the Schedule to these Regulations.
+
+Victoria Atkins
+
+Parliamentary Under Secretary of State
+
+Home Office
+
+21st January 2021
+
+## SCHEDULE
+
+Regulation 2
+
+| Local police area | Amendment made in the second column of the table in the Schedule to the 2018 Regulations |
+| --- | --- |
+| Avon and Somerset | **1.** Omit the entry relating to Wells Police Station |
+|  | **2.** In the entry relating to Street Police Station, before “West End” insert “5-7” |
+|  | **3.** For the entry relating to Trinity Road Police Station, substitute— |
+|  | “Trinity Road Police Station |
+|  | Trinity Road |
+|  | St Philips |
+|  | Bristol |
+|  | BS2 0NW” |
+|  | **4.** In the entry relating to Keynsham Police Centre, for “1SX” substitute “1SA” |
+|  | **5.** At the end insert— |
+|  | “Shepton Mallet Police Station |
+|  | Haskins Retail Park |
+|  | Townsend |
+|  | Shepton Mallet |
+|  | BA4 5SB |
+|  |  |
+|  | Bath Enquiry Office |
+|  | One Stop Shop |
+|  | 3-4 Manvers Street |
+|  | Bath |
+|  | BA1 1JQ” |
+|  |  |
+| Cambridgeshire | Omit the entries relating to Huntingdon Police Station, St Neots Police Station and Ely Police Station |
+|  |  |
+| Cumbria | At the end insert— |
+|  | “Penrith Police Station |
+|  | Hunter Lane |
+|  | Penrith |
+|  | CA11 7UT” |
+|  |  |
+| Derbyshire | **1.** In the entry relating to Buxton Police Station, for “Buxton Police Station” substitute “Buxton Divisional Police Station” |
+|  | **2.** In the entry relating to Chesterfield Police Station— |
+|  | - (a) for “Chesterfield Police Station” substitute “Chesterfield Divisional HQ” |
+|  | - (a) for “1QP” substitute “1SH” |
+| Devon and Cornwall | **1.** For the entry relating to Truro Police Station, substitute— |
+|  | “Police Enquiry Office |
+|  | Pydar House |
+|  | Pydar Street |
+|  | Truro |
+|  | Cornwall |
+|  | TR1 1XU” |
+|  | **2.** In the entry relating to Charles Cross Police Station, for “Charles Cross Police Station” substitute “Plymouth Police Station” |
+|  | **3.** Omit the entries relating to Exeter Police Station and Barnstaple Police Station |
+|  | **4.** At the end insert— |
+|  | “Barnstaple Front Office |
+|  | Unit 1B |
+|  | Seven Brethren |
+|  | Barnstaple |
+|  | Devon |
+|  | EX31 2AS |
+|  |  |
+|  | Exeter Police Station |
+|  | Sidmouth Road |
+|  | Middlemoor |
+|  | Exeter |
+|  | Devon |
+|  | EX2 7RY” |
+|  |  |
+| Gloucestershire | In the entry relating to Forest of Dean Police Station, for “Forest of Dean Police Station” substitute “Coleford Police Station” |
+|  |  |
+| Greater Manchester | **1.** For the entry relating to City Centre Police Station, substitute— |
+|  | “City Centre Police Station |
+|  | Ground Floor |
+|  | Mount Street Elevation |
+|  | Town Hall Extension |
+|  | Lloyd Street |
+|  | Manchester |
+|  | M2 5DB” |
+|  | **2.** In each place where they occur, omit the words “GMP Divisional Headquarters” |
+|  | **3.** In the entry relating to Bolton Police Station, for “1HD” substitute “1HX” |
+|  | **4.** In the entry relating to Wigan Police Station, for “0UP” substitute “0UF” |
+|  | **5.** For the entry relating to Rochdale Police Station substitute— |
+|  | “Rochdale Police Station |
+|  | The Esplanade |
+|  | Town Meadow |
+|  | Rochdale |
+|  | OL16 1AG” |
+|  |  |
+| Gwent | **1.** In the entry relating to Newport Police Station, for “3 Cardiff Road” substitute “1-3 Cardiff Road” |
+|  | **2.** In the entry relating to Ebbw Vale Police Station, before “Bethcar Street” insert “28” |
+|  | **3.** For the entry relating to Blackwood Police Station substitute— |
+|  | “Blackwood Police Station |
+|  | Blackwood Road |
+|  | Pontllanfraith |
+|  | Blackwood |
+|  | NP12 2XA” |
+|  |  |
+| Hampshire | At the end insert— |
+|  | “Portswood Police Station |
+|  | St Denys Road |
+|  | Southampton |
+|  | SO17 2GN” |
+|  |  |
+| Humberside | **1.** In the entry relating to Osborne Street Police Station, before “Osborne Street” in the second place where those words occur insert “55” |
+|  | **2.** In the entry relating to Scunthorpe Police Station, before “Corporation Road” insert “26” |
+|  |  |
+| Kent | In the entry relating to Dover Police Station, before “Ladywell” insert “16” |
+|  |  |
+| London metropolitan police district | In the entry relating to Tottenham Police Station, for “9JA” substitute “0HQ” |
+|  |  |
+| Merseyside | **1.** Omit the entry relating to Speke Police Station |
+|  | **2.** At the end insert— |
+|  | “Newton-Le-Willows Police Station |
+|  | Earlestown |
+|  | Newton-Le-Willows |
+|  | WA12 9AW” |
+|  |  |
+| North Wales | At the end insert— |
+|  | “Rhyl Police Station |
+|  | Wellington Road |
+|  | Rhyl |
+|  | LL18 1BA |
+|  |  |
+|  | Llandudno Police Station |
+|  | Oxford Road |
+|  | Llandudno |
+|  | LL30 1DN” |
+|  |  |
+| Nottinghamshire | For the entry relating to Worksop Police Station substitute— |
+|  | “Worksop Police Station |
+|  | Queens Buildings |
+|  | Potter Street |
+|  | Worksop |
+|  | Nottinghamshire |
+|  | S80 2AH” |
+|  |  |
+| Sussex | **1.** In the entry relating to Shoreham Police Station, for “6DB” substitute “6PA” |
+|  | **2.** For the entry relating to Eastbourne Police Station substitute— |
+|  | “Eastbourne Police Office |
+|  | 1 Grove Road |
+|  | Eastbourne |
+|  | East Sussex |
+|  | BN21 4TW” |
+|  | **3.** In the entry for Eastbourne Hammonds Drive Police Station, for “Eastbourne Hammonds Drive Police Station” substitute “Police Patrol Centre” |
+|  | **4.** In the entry relating to Hailsham Police Station, for “1AB” substitute “1DA” |
+|  | **5.** In the entry relating to Rye Police Station, for “7AS” substitute “7AN” |
+|  | **6.** At the end insert— |
+|  | “Newhaven Police Office |
+|  | Saxon House |
+|  | Meeching Road |
+|  | Newhaven |
+|  | East Sussex |
+|  | BN9 9QX |
+|  |  |
+|  | Burgess Hill Police Station |
+|  | The Brow |
+|  | Burgess Hill |
+|  | West Sussex |
+|  | RH15 9BU |
+|  |  |
+|  | Midhurst Police Station |
+|  | 366 Bepton Road |
+|  | Midhurst |
+|  | West Sussex |
+|  | GU29 9NB” |
+|  |  |
+| West Midlands | **1.** In the entry relating to Stechford Police Station, for “8RR” substitute “8PR” |
+|  | **2.** In the entry relating to Bloxwich Police Station, before “Station Street” insert “1” |
+|  | **3.** In the entry relating to West Bromwich Police Station, for “8HS” substitute “7AQ” |
+|  |  |
+| West Yorkshire | In the entry relating to Wakefield District Headquarters, for “1FD” substitute “1GX” |
+|  |  |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Sexual Offences Act 2003 (Prescribed Police Stations) (England and Wales) Regulations 2018 ([S.I. 2018/447](https://www.legislation.gov.uk/uksi/2018/447)) (“the 2018 Regulations”).
+
+The Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42) (“the 2003 Act”) imposes notification requirements on offenders convicted of certain sex offences. These offenders are called “relevant offenders”. The 2003 Act requires relevant offenders to notify certain personal information to the police. Section 87(1) of the 2003 Act provides that relevant offenders in England and Wales and Northern Ireland give such notifications by attending at any police station in the relevant offender’s local police area which is prescribed in regulations. The 2018 Regulations prescribe those police stations in England and Wales. Section 87(1) of the 2003 Act was amended in relation to Scotland further to the Police and Fire Reform (Scotland) Act 2012 ([2012 asp 8](https://www.legislation.gov.uk/asp/2012/8)), which replaced the individual police forces in Scotland with the Police Service of Scotland. The Police Service of Scotland has jurisdiction over Scotland as a whole and so the designation of local police areas is no longer required in Scotland.
+
+These Regulations make changes to the list of police stations prescribed by the 2018 Regulations in 18 of the local police areas.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42). Section 87(1)(a) was amended in relation to Scotland by [S.S.I. 2013/119](https://www.legislation.gov.uk/ssi/2013/119), but that amendment is not relevant for these Regulations.
+
+[^f00002]: Footnote: [S.I. 2018/447](https://www.legislation.gov.uk/uksi/2018/447), as amended by [S.I. 2019/1055](https://www.legislation.gov.uk/uksi/2019/1055).

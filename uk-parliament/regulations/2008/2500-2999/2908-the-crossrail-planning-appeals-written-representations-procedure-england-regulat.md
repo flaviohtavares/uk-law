@@ -1,0 +1,230 @@
+---
+title: The Crossrail (Planning Appeals) (Written Representations Procedure) (England) Regulations 2008
+id: uksi/2008/2908
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2008-11-10'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2008/2908
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2008/2908/pdfs/uksiem_20082908_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2908/pdfs/uksi_20082908_en.pdf
+- http://www.legislation.gov.uk/uksi/2008/2908/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Crossrail (Planning Appeals) (Written Representations Procedure) (England) Regulations 2008
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2008 No. 2908
+
+Town And Country Planning, England
+
+The Crossrail (Planning Appeals) (Written Representations Procedure) (England) Regulations 2008
+
+Made
+
+10th November 2008
+
+Laid before Parliament
+
+10th November 2008
+
+Coming into force
+
+1st December 2008
+
+The Secretary of State for Transport and the Secretary of State for Communities and Local Government, acting jointly in exercise of the powers conferred on them by paragraphs 30(1), 34 and 35(1) of Schedule 7 to the Crossrail Act 2008[^f00001] make the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Crossrail (Planning Appeals) (Written Representations Procedure) (England) Regulations 2008, and shall come into force on 1st December 2008.
+
+## 2. Interpretation and notices, etc.
+
+(1) In these Regulations:
+
+- “the Act” means the Crossrail Act 2008, and “Schedule 7” means Schedule 7 to the Act;
+- “the appellant” means the nominated undertaker [^f00002]
+- “approval” means approval under Part 2 or Part 3 of Schedule 7;
+- “authority” means relevant local authority for the purposes of paragraph 1 of Schedule 7;
+- “electronic transmission” means a communication transmitted—
+  - (a) by means of an electronic communications network; or
+  - (b) by other means, but while in electronic form;
+- “in writing” includes electronic transmission in written form;
+- “request” means a request for approval under the planning permission deemed to be granted by section 10(1) of the Act;
+- “starting date” means the date stated in the written notice under regulation 6(a), and
+- “third party” means any person who has been notified or consulted in accordance with Schedule 7 about a request, or has submitted representations to the authority about that request.
+
+(2) Any notice, questionnaire, statement or representation submitted pursuant to these Regulations shall be in writing.
+
+(3) Where—
+
+- (a) any notice of appeal is given under paragraph 30 of Schedule 7;
+- (b) any notice is served pursuant to regulation 7(1);
+- (c) any questionnaire or statement is submitted or copied pursuant to regulation 8; or
+- (d) any representations are submitted or copied pursuant to regulation 7, 9 or 10—
+
+which makes reference to another document, a copy of that other document (or of the relevant part of it) shall be submitted served or copied (as the case may be) in a like manner and within the period specified for the submission, service or copying of the relevant document mentioned in subparagraph (a), (b), (c) or (d).
+
+## 3. Application
+
+These Regulations shall apply to any appeal which is made under paragraph 30 Schedule 7, and which is not the subject of a direction made pursuant to paragraph 34(1) of that Schedule.
+
+## 4. Service of Notices etc.
+
+(1) Notices or representations required to be submitted or copied under any of the provisions of these Regulations may be sent—
+
+- (a) by post; or
+- (b) subject to paragraphs (2) to (5), by electronic transmission.
+
+(2) Where a notice or representation required to be submitted or copied for the purposes of these Regulations is submitted or copied by electronic transmission the requirement shall be taken to be fulfilled where the recipient of the notice or representation to be transmitted, has given his consent in writing to the use of electronic transmission.
+
+(3) Where the recipient of a notice or representation submitted or copied by electronic transmission notifies the sender within 7 days of receipt that he requires a paper copy of all or any part of that notice or representation, the sender shall provide such a copy as soon as is reasonably practicable.
+
+(4) A person may revoke his consent to the use of electronic transmission in accordance with paragraph (5).
+
+(5) Where a person is no longer willing to accept the use of electronic transmission for the purposes of these Regulations—
+
+- (a) he shall give notice in writing revoking any consent given by him for that purpose; and
+- (b) such revocation shall be final and shall take effect on the date specified by the person in the notice but that date shall not be less than 7 days after the date on which the notice is given.
+
+## 5. Notice of appeal
+
+(1) Notice of appeal under paragraph 30(1) of Schedule 7 shall be given to the appropriate Ministers and the authority in the form prescribed in Schedule 1[^f00003].
+
+## 6. Notice of receipt of appeal
+
+The appropriate Ministers shall, as soon as reasonably practicable after receipt of the notice of appeal, notify the appellant and the authority in writing of—
+
+- (a) the date from which the process for deciding the appeal is to be taken to start;
+- (b) the reference number allocated to the appeal
+- (c) the address of the site to which the appeal relates; and
+- (d) the address to which written communications to the appropriate Ministers about the appeal are to be sent.
+
+## 7. Notice to, and representations by, third parties
+
+(1) The authority shall, within a period of 7 days beginning with the starting date, serve notice on all third parties informing them of the appeal.
+
+(2) A notice under paragraph (1) shall—
+
+- (a) summarise the request to which the appeal relates, and the grounds of the appeal;
+- (b) contain the information specified in regulation 6;
+- (c) inform third parties that they may, within a period of 21 days beginning with the starting date, submit representations to the appropriate Ministers in respect of the appeal;
+- (d) state that the appropriate Ministers will copy those representations to the appellant and to the authority;
+- (e) state that copies of any representations already submitted to the authority about the request (other than representations which were not taken into account because the maker requested they be treated as confidential) will be sent by the authority to the appropriate Ministers and the appellant.
+
+(3) Any representations submitted pursuant to paragraph (2)(c) and any copies of representations mentioned in paragraph (2)(e) shall be submitted to the appropriate Ministers within a period of 21 days beginning with the starting date.
+
+(4) An authority submitting a copy of representations to the appropriate Ministers pursuant to paragraph (2)(e) shall at the same time send a copy to the appellant.
+
+(5) The appropriate Ministers shall, on receipt of representations made pursuant to paragraph (2)(c), at the same time send a copy of them to the appellant and to the authority.
+
+## 8. Submission of questionnaire and statement by the authority
+
+(1) The authority shall, within a period of 14 days beginning with the starting date, submit to the appropriate Ministers a completed questionnaire in the form prescribed in Schedule 2.
+
+(2) The authority shall at the same time send a copy of that questionnaire to the appellant.
+
+(3) If the authority wishes to submit a statement in addition to the questionnaire mentioned in paragraph (1), it shall:
+
+- (a) within a period of 14 days beginning with the starting date, serve notice on the appropriate Ministers and on the appellant of its intention to submit such a statement; and
+- (b) within a period of 21 days beginning with the starting date, submit the statement to the appropriate Ministers, at the same time sending a copy of it to the appellant.
+
+(4) The questionnaire referred to in paragraph (1) and the statement referred to in paragraph (3) shall state the date on which it is submitted to the appropriate Ministers.
+
+## 9. Representations by the appellant and by the authority
+
+(1) The appellant may submit to the appropriate Ministers representations in response to:
+
+- (a) the authority’s questionnaire copied to it pursuant to regulation 8(2); and
+- (b) the authority’s statement (if any) copied to it pursuant to regulation 8(3)(b).
+
+(2) Representations pursuant to paragraph (1)(a) shall be sent within a period of 7 days beginning with the date of submission by the authority of the copy of the authority’s questionnaire, and those pursuant to paragraph (1)(b) within a period of 7 days beginning with the date of submission by the authority of the copy of the authority’s statement.
+
+(3) Any representations submitted pursuant to paragraph (1) shall be dated and submitted to the appropriate Ministers on the date they bear, and the appellant shall at the same time send a copy of them to the authority.
+
+(4) The appellant and the authority may submit to the appropriate Ministers representations in response to any third party representations submitted to those Ministers pursuant to regulation 7(2)(c).
+
+(5) Representations pursuant to paragraph (4) shall be submitted within 7 days of receipt of any third party representations.
+
+## 10. Closing representations in respect of new matters
+
+Where the appellant submits representations pursuant to regulation 9(1), and those representations raise a new matter, the authority may, within a period of 14 days beginning with the date of the appellant’s submission of a copy of those representations pursuant to regulation 9(3), submit to the appropriate Ministers representations in respect of that new matter, copying them at the same time to the appellant.
+
+## 11. Allowing further time
+
+The appropriate Ministers may in a particular case give directions setting later time limits than those prescribed by these Regulations.
+
+## 12. Power of determiner
+
+(1) In this regulation—
+
+- “representations” includes any questionnaire or statement submitted or to be submitted by the appellant or authority pursuant to these Regulations; and
+- “the determiner” means the appropriate Ministers or the person appointed to determine the appeal pursuant to paragraph 32 of Schedule 7, as the case may be.
+
+(2) The determiner may, at any time after the expiry of:
+
+- (a) a period of 7 days beginning either with the date the authority sent the appellant a copy of its questionnaire or, where the authority submits a statement pursuant to regulation 8(3), the date the authority sent the appellant a copy of that statement; or
+- (b) where applicable, the period of 14 days mentioned in regulation 10—
+
+whichever is the later proceed to a decision, taking into account only those representations and supporting documents as were submitted before the expiry of the relevant period.
+
+(3) Where no representations are submitted within the period mentioned in regulation 7(2)(c), the determiner may proceed to a decision if:
+
+- (a) it appears to the determiner that sufficient material has been submitted to enable the determiner to reach a decision on the merits of the case; and
+- (b) notice has been given by the determiner to the appellant and to the authority of the determiner’s intention to proceed to a decision notwithstanding that no representations have been submitted within that period.
+
+Signed by authority of the Secretary of State for Transport
+
+Andrew Adonis
+
+Minister of State
+
+Department for Transport
+
+10th November 2008
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Kay Andrews
+
+Parliamentary Undersecretary of State
+
+Department of Communities and Local Government
+
+10th November 2008
+
+## SCHEDULE 1 — Notice of Appeal
+
+Regulation 5
+
+## SCHEDULE 2 — Appeal Questionnaire
+
+Regulation 8
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+The Crossrail Act 2008 makes provision for the nominated undertaker or nominated undertakers to make requests for planning approval to relevant local authorities. Schedule 7 to the Act provides that the nominated undertaker or nominated undertakers may appeal to the Secretary of State for Transport and the Secretary of State for Communities and Local Government in certain circumstances against the decision of such an authority.
+
+These Regulations prescribe the form of the notice of appeal (*regulation 5*) and a form of questionnaire to be completed by the authority (*regulation 8*).
+
+The Regulations also provide for notice of the appeal to be served on the authority and on relevant third parties (*regulations 6 and 7* respectively), and specify time limits for the submission of representations and any supporting documentation (*regulations 7 to 10*). *Regulation 11* allows the Secretaries of State to grant additional time for the submitting of representations. *Regulation 12* provides for determination of the appeal to proceed taking account of only material submitted within the relevant time limit, and also enables determination to proceed in the absence of representations where that time limit has expired.
+
+A full impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2008 c.18](https://www.legislation.gov.uk/ukpga/2008/18). See paragraph 30(9) of Schedule 7 for the definition of prescribed and paragraph 37(2) of Schedule 7 for the definition of appropriate Ministers.
+
+[^f00002]: Footnote: See [S.I. 2008/2036](https://www.legislation.gov.uk/uksi/2008/2036) for the identity of the nominated undertakers.
+
+[^f00003]: Footnote: See paragraph 30(1) of Schedule 7 for the period within which an appeal may be made.

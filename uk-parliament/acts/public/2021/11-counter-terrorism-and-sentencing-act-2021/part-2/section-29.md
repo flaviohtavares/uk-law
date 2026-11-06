@@ -1,0 +1,73 @@
+---
+title: Counter-Terrorism and Sentencing Act 2021, section 29
+act: Counter-Terrorism and Sentencing Act 2021
+section: '29'
+status: revised
+text_date: '2026-03-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2021/11/section/29
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Counter-Terrorism and Sentencing Act 2021, section 29
+
+> Text as at 2026-03-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 29. Further provision about release of terrorist prisoners: Scotland
+
+*Extent: E+W+S+N.I.*
+
+After section 26 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 insert—
+
+> **Terrorism sentences**
+>
+> **26ZA. Terrorism sentences**
+>
+> (1) This section applies to a person (other than a life prisoner) (a “terrorist prisoner”) who is serving a terrorism sentence.
+>
+> (2) A terrorism sentence is—
+>
+> - (a) a sentence of imprisonment imposed under section 205ZA of the 1995 Act (serious terrorism sentence),
+> - (b) a sentence of imprisonment imposed under section 205ZC of that Act (terrorism sentence with fixed licence period), or
+> - (c) an extended sentence imposed under section 210A of that Act in respect of a terrorism offence.
+>
+> (3) Subject to the provisions of this section, this Part, except sections 1AB, 1A and 1B, applies in relation to a terrorism sentence as if any reference to a sentence or term of imprisonment were a reference to the appropriate custodial term of a terrorism sentence.
+>
+> (4) Where a terrorist prisoner is released on licence under this Part the licence remains in force until the end of the extension period (but subject to section 17).
+>
+> (5) Where, apart from this subsection, a terrorist prisoner would be released unconditionally at the end of the appropriate custodial term—
+>
+> - (a) the prisoner must be released on licence, and
+> - (b) the licence remains in force until the end of the extension period (but subject to section 17).
+>
+> (6) The extension period is to be taken to begin—
+>
+> - (a) for the purposes of subsection (4), on the day following the date on which, had there been no extension period, the prisoner would have ceased to be on licence in respect of the appropriate custodial term;
+> - (b) for the purposes of subsection (5), on the day on which, apart from that subsection, the prisoner would have been released unconditionally at the end of the appropriate custodial term.
+>
+> (7) Where a terrorist prisoner is subject to two or more terrorism sentences, the extension period which is taken to begin in accordance with subsection (6) is the aggregate of the extension period of each of those sentences.
+>
+> (8) Subsection (7) is subject to—
+>
+> - (a) sections 1A(1)(c) and 1B(11), and
+> - (b) in the case of a terrorism sentence imposed under section 205ZA of the 1995 Act, subsection (10) of that section and any direction by the court imposing the sentence.
+>
+> (9) For the purposes of sections 12(3) and 17(1), the question of whether a terrorist prisoner is a long-term or short-term prisoner is to be determined by reference to the terrorism sentence.
+>
+> (10) In the application of this Part to a terrorism sentence—
+>
+> - (a) references in sections 1A(1)(c) and 16(1)(a) to the date on which a prisoner would have served the prisoner's sentence in full are to be read as if they were references to the date on which the terrorism sentence as originally imposed by the court would expire, and
+> - (b) the reference in section 17(5) to a prisoner being liable to be detained in pursuance of the prisoner's sentence is to be read as if it were a reference to the prisoner being liable to be detained until the expiry of the extension period.
+>
+> (11) For the purposes of this section—
+>
+> - “**appropriate custodial term**”, in relation to a terrorism sentence imposed on a terrorist prisoner, means—
+>   - (a) the term determined as such by the court that imposes the sentence on the prisoner under section 205ZA or, as the case may be, section 205ZC of the 1995 Act, or
+>   - (b) the term determined as the custodial term by the court that imposes the extended sentence on the prisoner under section 210A of that Act;
+> - “**extension period**” means—
+>   - (a) in relation to a sentence of imprisonment imposed on a terrorist prisoner under section 205ZA of the 1995 Act, the period specified as such under that section by the court that imposes the sentence on the prisoner;
+>   - (b) in relation to a sentence of imprisonment imposed on a terrorist prisoner under section 205ZC of that Act, the period of 1 year specified as such under that section by the court that imposes the sentence on the prisoner;
+>   - (c) in relation to an extended sentence imposed on a terrorist prisoner under section 210A of that Act in respect of a terrorism offence, the period specified as such under that section by the court that imposes the sentence on the prisoner.

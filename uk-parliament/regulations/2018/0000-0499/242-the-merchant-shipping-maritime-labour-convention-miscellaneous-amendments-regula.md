@@ -1,0 +1,294 @@
+---
+title: The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018
+id: uksi/2018/242
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-02-20'
+text_date: '2025-12-12'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/242
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/242/pdfs/uksiem_20180242_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/242/pdfs/uksi_20180242_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/242/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018
+
+> Text as at 2025-12-12.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 242
+
+Merchant Shipping
+
+The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018
+
+Made
+
+20th February 2018
+
+Laid before Parliament
+
+28th February 2018
+
+Coming into force
+
+6th April 2018
+
+The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to measures relating to the safety of ships and the health and safety of persons on them[^f00002] and in relation to measures relating to maritime transport[^f00003].
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 85(1)(a) and (b), (3), (5) and (7) and section 86(1) and (2) of the Merchant Shipping Act 1995[^f00004] and by section 2(2) of the European Communities Act 1972.
+
+In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary of State has consulted the persons referred to in that section.
+
+## 1. Citation and commencement[^key-b510f8aead70afae97d3d8ce34833333]
+
+These Regulations may be cited as the Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 and come into force on 6th April 2018.
+
+## 2. Amendment of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998[^key-242fd9b845838455039870fde206ddc8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010[^key-29d835ad0cbaa0000db2ba82c1902d1f]
+
+(1) The Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010[^f00007] are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) after the definition of “the MCA” insert—
+
+  > - “medical condition” includes both injury and illness, and a “significant medical condition” is a medical condition which adversely affects or is reasonably likely to adversely affect the seafarer’s ability to carry out his or her duties, including the seafarer’s ability to undertake emergency duties;
+
+  ;
+- (b) in the definition of “medical practitioner”, after “means” insert “a person approved by the Secretary of State to issue medical fitness certificates who is”.
+
+(3) In regulation 8 (application for medical fitness certificate), after paragraph (2) insert—
+
+> (2A) A person applying for a medical fitness certificate must disclose to the medical practitioner to whom the application is made—
+>
+> - (a) all existing medical conditions from which the person suffers and of which the person is aware (if any); and
+> - (b) all medication which the person is taking (if any).
+>
+> (2B) Disclosure required by paragraph (2A) must be made with the application or as soon as reasonably practicable afterwards.
+
+.
+
+(4) Omit regulation 12(4) (meaning of “medical condition”).
+
+(5) After regulation 20 insert—
+
+> **21. Review**
+>
+> (1) The Secretary of State must from time to time—
+>
+> - (a) carry out a review of the regulatory provision contained in these Regulations; and
+> - (b) publish a report setting out the conclusions of the review.
+>
+> (2) The first report must be published before the end of 5th April 2023.
+>
+> (3) Subsequent reports must be published at intervals not exceeding 5 years.
+>
+> (4) Section 30(3) of the Small Business, Enterprise and Employment Act 2015[^f00008] requires that a review carried out under this regulation must, so far as is reasonable, have regard to how Regulation 1.2 and Standard A1.2 of the Maritime Labour Convention, 2006 are implemented in other ratifying States.
+>
+> (5) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this regulation must, in particular—
+>
+> - (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a);
+> - (b) assess the extent to which those objectives are achieved;
+> - (c) assess whether those objectives remain appropriate; and
+> - (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous provision.
+>
+> (6) In this regulation, “regulatory provision” has the same meaning as in section 28 to 32 of the Small Business, Enterprise and Employment Act 2015.
+
+.
+
+## 4. Amendment of the Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013[^key-50cfc856952adeb9266bb2f70fe55e5a]
+
+(1) The Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013[^f00009] are amended as follows.
+
+(2) In regulation 2(1) (interpretation), in the definition of “pleasure vessel”—
+
+- (a) in paragraph (a), for sub-paragraph (i) substitute—
+
+  > - (i) in the case of a vessel wholly owned by—
+  >   - (aa) an individual or individuals, used only for the sport or pleasure of the owner or the immediate family or friends of the owner; or
+  >   - (bb) a body corporate, used only for sport or pleasure and on which the persons on board are employees or officers of the body corporate, or their immediate family or friends; and
+
+  ;
+- (b) in the words after paragraph (b), for “paragraphs” substitute “paragraph”.
+
+## 5. Amendment of the Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014[^key-55b9d9d2395f0d59c2a3d13da46eeae8]
+
+(1) The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014[^f00010] are amended as follows.
+
+(2) In regulation 2(1) (interpretation), in the definition of “pleasure vessel”—
+
+- (a) in paragraph (a), for sub-paragraph (i) substitute—
+
+  > - (i) in the case of a vessel wholly owned by—
+  >   - (aa) an individual or individuals, used only for the sport or pleasure of the owner or the immediate family or friends of the owner; or
+  >   - (bb) a body corporate, used only for sport or pleasure and on which the persons on board are employees or officers of the body corporate, or their immediate family or friends; and
+
+  ;
+- (b) in the words after paragraph (b), for “paragraphs” substitute “paragraph”.
+
+(3) In regulation 30 (application of certain regulations to older ships)—
+
+- (a) before paragraph (1) insert—
+
+  > (A1) A ship the keel of which was laid or which was at a similar stage of construction before 1st July 1979—
+  >
+  > - (a) as respects crew accommodation which has not been substantially reconstructed or altered on or after that date, must comply with the requirements set out in Schedule 6 to the Merchant Shipping (Crew Accommodation) Regulations 1978[^f00011] as if those Regulations had not been revoked;
+  > - (b) as respects crew accommodation which has been substantially reconstructed or altered on or after that date but before 11th July 1997, must comply with the requirements set out in Part 1 of the Merchant Shipping (Crew Accommodation) Regulations 1978, as if they had not been revoked;
+  > - (c) as respects crew accommodation which has been substantially reconstructed or altered on or after 11th July 1997 but before 7th August 2014, must comply with the requirements set out in the Merchant Shipping (Crew Accommodation) Regulations 1997[^f00012].
+
+  ;
+- (b) in paragraph (1)—
+  - (i) in the words before sub-paragraph (a), after “construction” insert “on or after 1st July 1979 but”;
+  - (ii) in sub-paragraph (a), for “Schedule 6 to” substitute “Part 1 of”;
+  - (iii) in sub-paragraph (b), for “the date on which these Regulations come into force” substitute “7th August 2014”;
+- (c) in paragraph (2), for “the date on which these Regulations come into force”, in both places where it occurs, substitute “7th August 2014”;
+- (d) in paragraph (4), for “paragraphs” substitute “paragraph (A1),”.
+
+(4) In regulation 50 (shipowner’s liability for wages following sickness or injury to seafarer)—
+
+- (a) in paragraph (4)—
+  - (i) in the words before sub-paragraph (a), omit “Subject to paragraphs (5) to (7)”;
+  - (ii) in sub-paragraph (a), for “that period” substitute “the period of incapacity”;
+  - (iii) in sub-paragraph (b), for the words beginning with “that period” where they first occur, to the end, substitute “the period of incapacity”;
+- (b) for paragraph (5) substitute—
+
+  > (5) “Period of incapacity” means—
+  >
+  > - (a) where the seafarer’s seafarer employment agreement does not specify a date on which the agreement is to terminate, the shorter of the following—
+  >   - (i) the period of 16 weeks beginning with the day (“the start day”) after the date of injury or the first day of sickness referred to in paragraph (1);
+  >   - (ii) the period beginning with the start day and ending with the date that the seafarer is again fit for work; and
+  >   - (iii) the period beginning with the start day and ending with the date that the agreement terminates;
+  > - (b) where the seafarer’s seafarer employment agreement does specify a date on which the agreement is to terminate, the shorter of the following—
+  >   - (i) the period specified in paragraph (a)(i);
+  >   - (ii) the period specified in paragraph (a)(ii);
+  >   - (iii) the period specified in paragraph (a)(iii); and
+  >   - (iv) the period beginning with the start day and ending with the termination date specified in the agreement.
+
+  ;
+- (c) in paragraphs (7) and (8), for “referred to in paragraph (5)” substitute “of incapacity”;
+- (d) in paragraph (11), for “This regulation does” substitute “Paragraphs (1) to (10) of this regulation do”;
+- (e) after paragraph (11), insert—
+
+  > (12) A collective bargaining agreement may exclude or limit the operation of paragraphs (4) to (9) if it complies with paragraph (13).
+  >
+  > (13) A collective bargaining agreement complies with this paragraph if it requires the person responsible under the agreement for paying seafarers to pay incapacitated seafarers the relevant amount for the period of incapacity.
+  >
+  > (14) In paragraph (13)—
+  >
+  > - “incapacitated seafarer” means a seafarer party to the collective bargaining agreement who would otherwise receive a payment by virtue of paragraph (4);
+  > - “relevant amount” in relation to a period of incapacity means the whole or a specified percentage of the basic wages that would have been payable under the incapacitated seafarer’s seafarer employment agreement if —
+  >   - (a) the seafarer had remained fit for work; and
+  >   - (b) (where the agreement would otherwise have terminated during the period that the seafarer was not fit for work) the agreement had continued on the same terms throughout that period.
+  >
+  > (15) The purported termination by any person of a seafarer’s seafarer employment agreement is to have no effect if it is solely or mainly for the purpose of avoiding liability to make any payment under this regulation.
+
+  .
+
+## 6. Amendment of the Merchant Shipping (Maritime Labour Convention) (Recruitment and Placement) Regulations 2014[^key-d706e67e32a87fbd14eb591abc091c6c]
+
+(1) The Merchant Shipping (Maritime Labour Convention) (Recruitment and Placement) Regulations 2014[^f00013] are amended as follows.
+
+(2) In regulation 2(1) (interpretation), in the definition of “pleasure vessel”—
+
+- (a) in paragraph (a), for sub-paragraph (i) substitute—
+
+  > - (i) in the case of a vessel wholly owned by—
+  >   - (aa) an individual or individuals, used only for the sport or pleasure of the owner or the immediate family or friends of the owner; or
+  >   - (bb) a body corporate, used only for sport or pleasure and on which the persons on board are employees or officers of the body corporate, or their immediate family or friends; and
+
+  ;
+- (b) in the words after paragraph (b), for “paragraphs” substitute “paragraph”.
+
+## 7. Amendment of the Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018[^key-3691a73328fb124d7413a02649b5c2e7]
+
+(1) The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018[^f00014] are amended as follows.
+
+(2) In regulation 2(1), in the definition of “pleasure vessel”, in paragraph (a)(i)(bb), for “family and friends” substitute “family or friends”.
+
+Signed by authority of the Secretary of State for Transport
+
+Nusrat Ghani
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+20th February 2018
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make miscellaneous amendments to the following statutory instruments: the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998 ([S.I. 1998/2771](https://www.legislation.gov.uk/uksi/1998/2771)); the Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010 ([S.I. 2010/737](https://www.legislation.gov.uk/uksi/2010/737)); the Merchant Shipping (Maritime Labour Convention) (Survey and Certification Regulations 2013 ([S.I. 2013/1785](https://www.legislation.gov.uk/uksi/2013/1785)); the Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014 ([S.I. 2014/1613](https://www.legislation.gov.uk/uksi/2014/1613)), the Merchant Shipping (Maritime Labour Convention) (Recruitment and Placement) Regulations 2014 ([S.I. 2014/1615](https://www.legislation.gov.uk/uksi/2014/1615)) and the Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 ([S.I. 2018/58](https://www.legislation.gov.uk/uksi/2018/58)).
+
+Regulation 2 amends the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998 to exempt vessels which, depending on their size, satisfy the requirements in Marine Guidance Note 490(M) or 491(M), from being subject to the requirements of the statutory instruments listed in Schedule 2 to those Regulations and the requirements in regulations 29(1) and 30 of the Minimum Requirements Regulations.
+
+Regulation 3 amends the Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010, in implementation of Clause 13 of the Annex to [Directive 1999/63/EC](https://www.legislation.gov.uk/european/directive/1999/0063) (O.J. No.L167, 02.07.1999, p.33) as amended by Article 2.4. of [Directive 2009/13/EC](https://www.legislation.gov.uk/european/directive/2009/0013) (O.J. No. L124, 20.05.2009, p.30), to require a person applying for a medical fitness certificate to disclose pre-existing medical conditions and any medication which the person is taking to the medical practitioner to whom the application is made. This regulation also inserts a provision in to the instrument requiring the Secretary of State to review the regulatory provision and publish a report within 5 years of the coming into force of these Regulations (and within every 5 years after that).
+
+Regulation 4 amends the definition of “pleasure vessel” in the Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013. Regulations 5(2) and 6 make equivalent amendments to the Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014 and the Merchant Shipping (Maritime Labour Convention) (Recruitment and Placement) Regulations 2014.
+
+Regulation 5 amends the Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014. Regulation 5(3) applies the appropriate crew accommodation legislation to ships where the crew accommodation has been substantially reconstructed or altered within certain dates.
+
+Regulation 5(4) amends regulation 50 of the Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014 to make changes to shipowners’ liability for wages following sickness or injury to seafarers. It provides that shipowners may be liable for wages only for the period of the seafarer’s contract, 16 weeks or the duration of the sickness or injury, whichever is shortest. However, where a person purports to terminate a contract solely or mainly for the purpose of avoiding liability to make a payment under regulations 50, that termination is to have no effect. It also provides that collective bargaining agreements may exclude or limit the operation of certain provisions in regulation 50, provided the collective bargaining agreement provides for payment to be made to incapacitated seafarers for a certain period.
+
+Regulation 7 makes a correction to the definition of “pleasure vessel” in the Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018.
+
+Marine Guidance Notes are published by the Maritime and Coastguard Agency (“the MCA”) (an executive agency of the Department for Transport). Copies may be obtained from Marine Guidance Notes, P.O. Box 362, Europa Park, Grays, Essex, RM17 9AY, tel: 01375 484 548, fax: 01375 484 556, or accessed via the MCA’s website: www.gov.uk/government/organisations/maritime-and-coastguard-agency, which also has details of any amendments or replacements.
+
+The Maritime Labour Convention may be downloaded from the website of the International Labour Organisation at www.ilo.org/global/standards/maritime-labour-convention/lang--en/index.htm. Copies of the Maritime Labour Convention may be obtained as a priced publication from www.tsoshop.co.uk, by post form TSO Customer Services, PO Box 29, Norwich, NR3 1GN, tel: +44 (0) 333 202 5070.
+
+A regulatory triage assessment of the effect that these Regulations will have on the costs of business and the voluntary sector is available and is published with the Explanatory Memorandum alongside this instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and Part I of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). The Maritime Labour Convention is regarded as one of the EU treaties within the meaning of section 1(2) of the European Communities Act 1972 by virtue of the European Communities (Definition of Treaties) (Maritime Labour Convention) Order 2009 ([S.I. 2009/1757](https://www.legislation.gov.uk/uksi/2009/1757)).
+
+[^f00002]: Footnote: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
+
+[^f00003]: Footnote: [S.I. 1994/757](https://www.legislation.gov.uk/uksi/1994/757).
+
+[^f00004]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 85 and 86 were amended by section 8 of the Merchant Shipping and Maritime Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), and are applied to hovercraft by article 4 of the Hovercraft (Application of Enactments) Order 1989 ([S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350)) (sections 85 and 86 re-enact sections 21 and 22 of the Merchant Shipping Act [1979 (c.39)](https://www.legislation.gov.uk/ukpga/1979/39), to which that article refers). There are other amendments not relevant to these Regulations.
+
+[^key-b510f8aead70afae97d3d8ce34833333]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1)
+
+[^key-242fd9b845838455039870fde206ddc8]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/242/regulation/2) revoked (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1195/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+
+[^key-29d835ad0cbaa0000db2ba82c1902d1f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/242/regulation/3) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1)
+
+[^f00007]: Footnote: [S.I. 2010/737](https://www.legislation.gov.uk/uksi/2010/737). Regulation 8 was amended by [S.I. 2014/1614](https://www.legislation.gov.uk/uksi/2014/1614). There are other amendments but none are relevant.
+
+[^f00008]: Footnote: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by section 19 of the Enterprise Act [2016 (c.12)](https://www.legislation.gov.uk/ukpga/2016/12).
+
+[^key-50cfc856952adeb9266bb2f70fe55e5a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/242/regulation/4) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1)
+
+[^f00009]: Footnote: [S.I. 2013/1785](https://www.legislation.gov.uk/uksi/2013/1785), to which there are other amending instruments but none are relevant.
+
+[^key-55b9d9d2395f0d59c2a3d13da46eeae8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/242/regulation/5) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1)
+
+[^f00010]: Footnote: [S.I. 2014/1613](https://www.legislation.gov.uk/uksi/2014/1613).
+
+[^f00011]: Footnote: [S.I. 1978/795](https://www.legislation.gov.uk/uksi/1978/795). Relevant amending instruments are [S.I. 1979/491](https://www.legislation.gov.uk/uksi/1979/491), [1984/41](https://www.legislation.gov.uk/uksi/1984/41) and [1989/184](https://www.legislation.gov.uk/uksi/1989/184). [S.I. 1978/795](https://www.legislation.gov.uk/uksi/1978/795) was revoked on 11th July 1997 by [S.I. 1997/1508](https://www.legislation.gov.uk/uksi/1997/1508).
+
+[^f00012]: Footnote: [S.I. 1997/1508](https://www.legislation.gov.uk/uksi/1997/1508). Amended by [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114) and [S.I. 2014/1614](https://www.legislation.gov.uk/uksi/2014/1614).
+
+[^key-d706e67e32a87fbd14eb591abc091c6c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/242/regulation/6) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1)
+
+[^f00013]: Footnote: [S.I. 2014/1615](https://www.legislation.gov.uk/uksi/2014/1615), there are other amending instruments but none are relevant.
+
+[^key-3691a73328fb124d7413a02649b5c2e7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/242/regulation/7) in force at 6.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1)
+
+[^f00014]: Footnote: [S.I. 2018/58](https://www.legislation.gov.uk/uksi/2018/58).

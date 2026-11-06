@@ -1,0 +1,113 @@
+---
+title: The Poultry Compartments (Fees) (England) Order 2010
+id: uksi/2010/270
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-02-02'
+text_date: '2022-12-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2010/270
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/270/pdfs/uksiem_20100270_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/270/pdfs/uksi_20100270_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/270/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Poultry Compartments (Fees) (England) Order 2010
+
+> Text as at 2022-12-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2010 No. 270
+
+Animals, England
+
+Animal Health
+
+The Poultry Compartments (Fees) (England) Order 2010
+
+Made
+
+2nd February 2010
+
+Laid before the House of Commons
+
+11th February 2010
+
+Coming into force
+
+15th March 2010
+
+The Secretary of State, in whom the powers conferred by section 84 of the Animal Health Act 1981[^f00001] are now vested[^f00002], with the approval of the Treasury, makes the following Order in exercise of those powers.
+
+## 1. Title, application and commencement[^key-b4555fed56227974828fc0a6385f7a21]
+
+This Order—
+
+- (a) may be cited as the Poultry Compartments (Fees) (England) Order 2010;
+- (b) applies in England; and
+- (c) comes into force on 15th March 2010.
+
+## 2. Fees[^key-92a908e4aaaef53b3c4412017572c55c]
+
+The fees for inspections in relation to applications made under the Poultry Compartments (England) Order 2010[^f00003] set out in the Schedule to this Order are payable to the Secretary of State by the applicant within 30 days of the inspection.
+
+Jim Fitzpatrick
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+21st January 2010
+
+We approve
+
+Dave Watts
+
+Tony Cunningham
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+2nd February 2010
+
+## SCHEDULE[^key-16f8e80b30da191f750b29512bad1fb0]
+
+Article 2
+
+| Activity | Fee |
+| --- | --- |
+| First day or part day of an inspection at an administrative site | £1,400 [^key-5f9b0663c00a37ca177b4004a538d60f]... |
+| Each additional day or part day of an inspection at an administrative site | £1,000 [^key-5f9b0663c00a37ca177b4004a538d60f]... |
+| A production site inspection | £1,000 [^key-5f9b0663c00a37ca177b4004a538d60f]... |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order provides for the payment of fees for inspections in relation to applications for recognition as a compartment under the Poultry Compartments (England) Order 2010, [S.I. 2010/108](https://www.legislation.gov.uk/uksi/2010/108). That Order implements Commission Regulation EC (No) 616/2009 which makes provision for the recognition of poultry compartments which meet high standards of biosecurity (OJ No L 181, 14.7.2009, p 16).
+
+A full impact assessment has not been prepared for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
+
+[^f00002]: Footnote: Functions conferred under the 1981 Act on “the Minister” and “the Ministers” are now exercisable by the Secretary of State. Functions of “the Ministers” were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 ([SI 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)). Functions of the Minister of Agriculture, Fisheries and Food were then further transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)). The functions of the Secretary of State under the Animal Health Act 1981 are, so far as are exercisable in relation to Wales, vested in the Welsh Ministers. Those functions were transferred to the National Assembly for Wales constituted by the [Government of Wales Act 1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38) by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) article 2; see the entry in Schedule 1 for the [Animal Health Act 1981 (c. 22)](https://www.legislation.gov.uk/ukpga/1981/22). By virtue of paragraphs 30 and 32 of Schedule 11 to the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers immediately after the end of the initial period as defined by section 161(5) of that Act. The functions of the Secretary of State under the Animal [Health Act 1981 (c. 22)](https://www.legislation.gov.uk/ukpga/1981/22) are, so far as they are exercisable in relation to Scotland, vested in the Scottish Ministers by section 53 of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-b4555fed56227974828fc0a6385f7a21]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/270/article/1) in force at 15.3.2010, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2010/270/article/1/c)
+
+[^key-92a908e4aaaef53b3c4412017572c55c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/270/article/2) in force at 15.3.2010, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2010/270/article/1/c)
+
+[^f00003]: Footnote: [S.I. 2010/108](https://www.legislation.gov.uk/uksi/2010/108).
+
+[^key-16f8e80b30da191f750b29512bad1fb0]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2010/270/schedule) in force at 15.3.2010, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2010/270/article/1/c)
+
+[^key-5f9b0663c00a37ca177b4004a538d60f]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/270/schedule) table omitted (1.12.2022) by virtue of [The Animal Health (Poultry Compartments, Approved Disinfectants and Animal Gatherings) (Fees) (England) (Amendment) Order 2022 (S.I. 2022/1121)](https://www.legislation.gov.uk/uksi/2022/1121), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1121/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/1121/article/2/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/1121/article/5))

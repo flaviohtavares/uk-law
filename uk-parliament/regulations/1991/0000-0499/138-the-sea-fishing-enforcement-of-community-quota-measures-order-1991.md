@@ -1,0 +1,231 @@
+---
+title: The Sea Fishing (Enforcement of Community Quota Measures) Order 1991
+id: uksi/1991/138
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1991-01-31'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1991/138
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1991/138/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sea Fishing (Enforcement of Community Quota Measures) Order 1991
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1991 No.138
+
+SEA FISHERIES
+
+COMMUNITY RESTRICTIONS
+
+The Sea Fishing (Enforcement of Community Quota Measures) Order 1991
+
+Made
+
+31st January 1991
+
+Laid before Parliament
+
+1st February 1991
+
+Coming into force
+
+2nd February 1991
+
+The Minister of Agriculture, Fisheries and Food and the Secretaries of State respectively concerned with sea fishing in Scotland, Wales and Northern Ireland, in exercise of the powers conferred on them by section 30(2) and (3) of the Fisheries Act 1981[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
+
+## 1. Title and commencement
+
+This Order may be cited as the Sea Fishing (Enforcement of Community Quota Measures) Order 1991, and shall come into force on 2nd February 1991.
+
+## 2. Interpretation
+
+In this Order—
+
+- “the Council Regulation” means the Regulation adopted by the Council of the European Communities on 20th December 1990, fixing, for certain fish stocks and groups of fish stocks, the total allowable catches for 1991 and certain conditions under which they may be fished[^f00002];
+- “specified Community provision” means a provision of the Council Regulation specified in column 1 of the Schedule to this Order, as read with any qualifying words relating to that provision in that column.
+
+## 3. Offences
+
+Where there is, in respect of—
+
+- (a) any fishing boat registered in the United Kingdom wherever it may be, or
+- (b) any other fishing boat which is within British fishery limits,
+
+a contravention of, or failure to comply with, any specified Community provision, the master, the owner and the charterer (if any) shall each be guilty of an offence.
+
+## 4. Penalties
+
+(1) A person guilty of an offence under article 3 of this Order shall be liable on summary conviction—
+
+- (a) to a fine not exceeding the amount specified in column 3 of the Schedule to this Order in relation to the specified Community provision, the contravention of, or failure to comply with which, founded the offence; and
+- (b) either—
+  - (i) to a fine not exceeding the value of any fish in respect of which the offence was committed; or
+  - (ii) to the forfeiture of any fish in respect of which the offence was committed; and
+- (c) to the forfeiture of any net or other fishing gear which was used in the course of the commission of the offence.
+
+(2) A person guilty of an offence under article 3 of this Order shall be liable on conviction on indictment—
+
+- (a) to a fine; and
+- (b) to the forfeiture of any fish in respect of which the offence was committed; and
+- (c) to the forfeiture of any net or other fishing gear which was used in the course of the commission of the offence.
+
+## 5. Recovery of fines
+
+(1) Where a fine is imposed by a magistrates' court in England and Wales or Northern Ireland on the master, owner or charterer of a fishing boat who is convicted by the court of an offence under article 3 of this Order, the court may—
+
+- (a) issue a warrant of distress against the boat and its gear and catch and any property of the person convicted for the purpose of levying the amount of the fine; and
+- (b) order the boat to be detained for a period not exceeding three months from the date of the conviction or until the fine is paid or the amount of the fine is levied in pursuance of any such warrant, whichever occurs first.
+
+(2) Where a fine is imposed by a sheriff in Scotland on the master, owner or charterer of a fishing boat who is convicted by the sheriff of an offence under article 3 of this Order, the sheriff may—
+
+- (a) issue a warrant for the arrestment and sale of the boat and its gear and catch and any property of the person convicted; and
+- (b) order the boat to be detained for a period not exceeding three months from the date of the conviction or until the fine is paid, whichever occurs first.
+
+(3) Sections 77(1) and 78 of the Magistrates' Courts Act 1980[^f00003] (postponement of issue of, and defects in, warrants of distress) shall apply to a warrant of distress issued under this article in England and Wales as they apply to a warrant of distress issued under Part III of that Act.
+
+(4) Article 114(2) of the Magistrates' Courts (Northern Ireland) Order 1981[^f00004] (postponement of issue of certain warrants) shall apply to a warrant of distress issued under this article in Northern Ireland as it applies to a warrant referred to in that article.
+
+## 6. Powers of British sea-fishery officers
+
+(1) For the purpose of enforcing article 3 of this Order, a British sea-fishery officer—
+
+- (a) may go on board any fishing boat registered in the United Kingdom wherever it may be or any other fishing boat which is within British fishery limits;
+- (b) may require any such boat to stop and do anything else to enable him to board it;
+- (c) may require the attendance of the master of the boat or any other person on board;
+- (d) may require any person on board to assist him in the performance of his functions;
+- (e) may take with him, to assist him in performing his functions, any other person and any equipment or materials; and
+- (f) may make any examination or inquiry which appears to him to be necessary and, without prejudice to the generality of the foregoing, he may in particular—
+  - (i) examine any fish on the boat and the equipment of the boat, including the fishing gear;
+  - (ii) require the production of any document relating to the boat or to its fishing operations or other operations ancillary to its fishing operations;
+  - (iii) search the boat for any such document, and require any person on board the boat to do anything which appears to the officer to be necessary for facilitating the search; and
+  - (iv) take copies of any such document.
+
+(2) If a British sea-fishery officer has reasonable grounds to suspect that an offence under article 3 of this Order has been committed in respect of a boat that he has power to go on board under paragraph (1)(a) of this article, he may seize and detain any document produced to him or found on board the boat, and if he has reasonable grounds to suspect that an offence has been committed within British fishery limits, the officer—
+
+- (a) may require the master to take, or may himself take, the boat and its crew to the port which appears to the officer to be the nearest convenient port; and
+- (b) may detain the boat in the port.
+
+(3) Nothing in paragraph (2) of this article shall permit any document required by law to be carried on board any boat to be seized or detained except while the boat is detained in a port.
+
+(4) If a British sea-fishery officer detains a boat, he shall serve on the master a notice stating that it is to be detained until the notice is withdrawn by the service on him of a further notice in writing signed by a British sea-fishery officer.
+
+(5) For the purpose of enforcing article 3 of this Order, a British sea-fishery officer—
+
+- (a) may enter at any reasonable time any premises (other than a dwelling) used for carrying on any business in connection with the operation of fishing boats or activities connected therewith or ancillary thereto or with the treatment, storage or sale of sea fish;
+- (b) may examine any fish on the premises;
+- (c) may require any person on the premises to produce any documents which are in his custody or possession relating to the catching, landing, transshipment, sale or disposal of sea fish;
+- (d) may take copies of any such document;
+
+and, if he has reasonable grounds to suspect that an offence under article 3 of this Order has been committed, the officer—
+
+- (e) may search the premises for any such document and require any person on the premises to do anything which appears to the officer to be necessary for facilitating the search; and
+- (f) may seize and detain any such document produced to him or found on the premises.
+
+(6) A British sea-fishery officer may seize—
+
+- (a) any fish in respect of which he has reasonable grounds to suspect that an offence under article 3 of this Order has been committed; and
+- (b) any net or other fishing gear which he has reasonable grounds to suspect has been used in the course of the commission of such an offence.
+
+## 7. Obstruction of officers
+
+Any person who—
+
+- (a) fails without reasonable excuse to comply with any requirement imposed by a British sea-fishery officer under the powers conferred on British sea-fishery officers by article 6 of this Order;
+- (b) without reasonable excuse prevents any other person from complying with any such requirement; or
+- (c) assaults an officer who is exercising any of the powers conferred on him by article 6 of this Order or intentionally obstructs any such officer in the exercise of any of those powers,
+
+shall be guilty of an offence and liable—
+
+- (i) on summary convicton to a fine not exceeding £5,000; or
+- (ii) on conviction on indictment to a fine.
+
+## 8. Protection of officers
+
+An officer shall not be liable in any civil or criminal proceedings for anything done in the purported exercise of the powers conferred on him by article 6 of this Order if the court is satisfied that the act was done in good faith, that there were reasonable grounds for doing it and that it was done with reasonable skill and care.
+
+## 9. Offences by bodies corporate
+
+Where an offence under article 3 of this Order committed by a body corporate is proved to have been committed with the consent or approval of any director, manager, secretary or other officer of the body corporate, he, as well as the body corporate, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+## 10. Proceedings
+
+Proceedings for an offence under this Order may be taken, and the offence may for all incidental purposes be treated as having been committed, in any place in the United Kingdom.
+
+## 11. Revocation and saving
+
+The Sea Fishing (Enforcement of Community Quota Measures) Order 1990[^f00005] is hereby revoked, but without prejudice to the application of articles 6 to 8 of that Order in relation to the enforcement of article 3 of that Order.
+
+In witness whereof the Official Seal of the Minister of Agriculture, Fisheries and Food is hereunto affixed on 29th January 1991.
+
+John Selwyn Gummer
+
+Minister of Agriculture, Fisheries and Food
+
+Strathclyde
+
+Parliamentary Under Secretary of State, Scottish Office
+
+29th January 1991
+
+David Hunt
+
+Secretary of State for Wales
+
+29th January 1991
+
+Peter Brooke
+
+Secretary of State for Northern Ireland
+
+31st January 1991
+
+## SCHEDULE — SPECIFIED COMMUNITY PROVISIONS AND MAXIMUM FINES ON SUMMARY CONVICTION (APART FROM FINES RELATED TO VALUE OF FISH)
+
+Articles 2 and 4(1)
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+<tr><th><em>Provision of the Council Regulation</em></th><th><em>Subject matter</em></th><th><em>Amount</em></th></tr>
+</thead>
+<tbody>
+<tr><td>1. Article 5, in so far as it relates to retaining on board.</td><td>Restrictions on retaining on board catches from stocks for which total allowable catches or quotas are fixed</td><td>£5,000</td></tr>
+<tr><td>2. Article 5, in so far as it relates to landing.</td><td>Restrictions on landing catches from stocks for which total allowable catches or quotas are fixed</td><td>£2,000</td></tr>
+<tr><td>3. Article 6, in so far as it relates to waters outside British fishery limits.</td><td>Prohibitions on fishing for herring in specified waters off the west coasts of Denmark and Ireland and in the Irish Sea and Celtic Sea</td><td>£50,000</td></tr>
+<tr><td>4. Article 7, in so far as it relates to waters outside British fishery limits.</td><td>Prohibitions on fishing for sprat in specified waters off the west coast of Denmark and in the Skagerrak and Kattegat</td><td>£50,000</td></tr>
+<tr><td>5. Article 9.</td><td>Prohibition on fishing with certain gear in specified waters off the coasts of Denmark, German and the Netherlands</td><td>£50,000</td></tr>
+<tr><td>6. Article 11.</td><td>Prohibition on fishing with certain gear in specified waters off the coasts of Spain and Portugal</td><td>£ 50,000</td></tr>
+<tr><td>7. Article 12, in so far as it relates to fishing in waters outside British fishery limits.</td><td>Prohibitions on certain vessels fishing with certain gear in specified areas of the North Sea</td><td>£50,000</td></tr>
+<tr><td>8. Article 12, in so far as it relates to the carriage of certain trawls or pieces of netting.</td><td>Prohibition on the carriage by those vessels of certain trawls and netting</td><td>£5,000</td></tr>
+<tr><td>9. Article 14.</td><td>Restriction on by-catch allowed in Norway pout fishery</td><td>£5,000</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Order)
+
+This Order, which revokes the Sea Fishing (Enforcement of Community Quota Measures) Order 1990, makes provision for the enforcement of certain of the enforceable Community restrictions and other obligations relating to sea fishing set out in the Regulation adopted by the Council of the European Communities on 20th December 1990 (“the Council Regulation”). The Council Regulation fixes total allowable catches and quotas for 1991.
+
+Article 3 of the Order creates offences in respect of breaches of the provisions of the Council Regulation referred to in column 1 (and briefly described in column 2) of the Schedule to the Order. Penalties, which may include the forfeiture of fish, nets and other fishing gear, are specified for such offences (article 4).
+
+The Order confers powers of enforcement on British sea-fishery officers (article 6). Provision is made for the punishment of anyone found guilty of obstructing or assaulting an officer (article 7).
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29).
+
+[^f00002]: Footnote: Council Regulation [(EEC) No. 3926/90](https://www.legislation.gov.uk/european/regulation/1990/3926), OJ No. L 378, 31.12.90, pgs. 1-37.
+
+[^f00003]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 78 was amended by the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), sections 37 and 46.
+
+[^f00004]: Footnote: S.I. [1981/1675 (NI 26)](https://www.legislation.gov.uk/nisi/1981/1675).
+
+[^f00005]: Footnote: S.I. [1990/137](https://www.legislation.gov.uk/uksi/1990/137).

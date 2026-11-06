@@ -1,0 +1,143 @@
+---
+title: The Dartford, Gravesham and Swanley Primary Care Trust (Establishment) Order 2000
+id: uksi/2000/2043
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2000-07-25'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2000/2043
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/2043/pdfs/uksi_20002043_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/2043/made/data.pdf
+pending_changes: 5
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Dartford, Gravesham and Swanley Primary Care Trust (Establishment) Order 2000
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2000 No. 2043
+
+NATIONAL HEALTH SERVICE, ENGLAND
+
+The Dartford, Gravesham and Swanley Primary Care Trust (Establishment) Order 2000
+
+Made
+
+25th July 2000
+
+Coming into force
+
+7th August 2000
+
+The Secretary of State for Health, in exercise of the powers conferred on him by sections 16A(1), (2) and (3) and 126(4) of, and paragraphs 1 and 2 of Schedule 5A to, the National Health Service Act 1977[^f00001] and of all other powers enabling him in that behalf, following compliance with the consultation requirements contained in regulations made under section 16A(5) of the Act[^f00002], hereby makes the following Order:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Dartford, Gravesham and Swanley Primary Care Trust (Establishment) Order 2000 and shall come into force on 7th August 2000.
+
+(2) In this Order, unless the context otherwise requires—
+
+- “the Act” means the National Health Service Act 1977;
+- “establishment date” means the date of coming into force of this Order;
+- “Executive Committee” has the meaning given in regulation 1(2) of the Membership Regulations;
+- “member”, “officer member” and “non-officer member” have the meanings given in regulation 1(2) of the Membership Regulations;
+- “Membership Regulations” means the Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^f00003];
+- “operational date” is to be construed in accordance with paragraph 1(2) of Schedule 5A to the Act;
+- “preparatory period” is to be construed in accordance with paragraph 2(2) of Schedule 5A to the Act;
+- “the trust” means the Dartford, Gravesham and Swanley Primary Care Trust established by article 2 of this Order.
+
+## 2. Establishment and name of the Primary Care Trust
+
+There is hereby established a Primary Care Trust which is to be called the Dartford, Gravesham and Swanley Primary Care Trust.
+
+## 3. Area of the trust
+
+The trust shall be established for the area specified in the Schedule to this Order.
+
+## 4. Members of the trust
+
+(1) The trust shall have, in addition to the chairman, 5 officer members and 5 non-officer members.
+
+(2) The non-officer members shall comprise the persons appointed by the Secretary of State under regulation 2(3) of the Membership Regulations.
+
+(3) The officer members[^f00004] shall comprise—
+
+- (a) the persons who for the time being hold the offices of Chief Executive and Director of Finance of the trust;
+- (b) the person who for the time being holds the post of chairman of the Executive Committee of the trust;
+- (c) 2 persons appointed by the chairman of the trust following nomination by the Executive Committee of the trust.
+
+## 5. Operational date of the trust
+
+The trust’s operational date shall be 1st October 2000.
+
+## 6. Limitations on the exercise of functions by the trust during the preparatory period
+
+During the preparatory period the exercise of functions by the trust shall be limited to the following—
+
+- (a) entering into NHS contracts;
+- (b) entering into other contracts including contracts of employment; and
+- (c) doing such other things as are reasonably necessary to enable it to begin to operate satisfactorily with effect from the operational date.
+
+## 7. Assistance during the preparatory period
+
+(1) The West Kent Health Authority shall meet the costs of the trust performing its functions during the preparatory period by discharging such of the liabilities of the trust incurred during that period as are of a description specified in paragraph (2) and do not in aggregate exceed such amount as may be notified by the Authority to the trust.
+
+(2) The liabilities referred to in the preceding paragraph are—
+
+- (a) liability for the remuneration and travelling or other allowances of the chairman and members of the trust;
+- (b) liability for the travelling or other allowances of the members of committees and sub-committees of the trust who are not also members of the trust;
+- (c) liability for the remuneration of officers of the trust; and
+- (d) any other liability which may reasonably be incurred by the trust for the purpose of enabling it to begin to operate satisfactorily with effect from its operational date.
+
+(3) The West Kent Health Authority shall make available officers of the authority to the trust during the preparatory period.
+
+(4) The Thames Gateway National Health Service Trust shall make available to the trust during the preparatory period—
+
+- (a) premises and other facilities of the NHS trust; and
+- (b) staff of the NHS trust.
+
+Signed by the authority of the Secretary of State
+
+Gisela Stuart
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+25th July 2000
+
+## SCHEDULE — AREA OF TRUST
+
+Article 3
+
+In the borough of Dartford—
+
+- the electoral wards of Bean, Brent, Darenth, Galley Hill, Greenhithe, Gundulf, Heath, Horns Cross, Joyce Green, Littlebrook, Longfield, Maypole, Miskin, Newtown, Princes, Priory, Southfleet, Stone, Sutton-at-Hone and Hawley, Swanscombe, Wilmington Central, Wilmington East, Wilmington West.
+
+In the borough of Gravesend—
+
+- the electoral wards of Central, Chalk, Cobham and Luddesdown, Coldharbour, Istead, Meopham North, Meopham South, Northfleet East, Northfleet West, Painters Ash, Pelham, Riverside, Riverview, Shorne, Singlewell, Westcourt, Whitehill, Woodlands.
+
+In the district of Sevenoaks—
+
+- the electoral wards of Ash-cum-Ridley, Crockenhill, Eynsford, Farningham, Fawkham & Hartley, Hextable & Swanley Village, Horton Kirby, Swanley Christchurch, Swanley St Mary's, Swanley White Oak, West Kingsdown.
+
+(This note is not part of the Order)
+
+This Order establishes the Dartford, Gravesham and Swanley Primary Care Trust (“the trust”), as provided for under section 16A of the National Health Service Act 1977. It specifies the area for which the trust is established (article 3 and Schedule 1), its operational date (article 5) and limitations on the exercise of its functions during its preparatory period (article 6). It makes provision for the membership of the trust (article 4) and for assistance to the trust during its preparatory period (article 7).
+
+## Annotations
+
+[^f00001]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49); section 16A was inserted by the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8) (“the 1999 Act”), section 2(1); section 126(4) was amended by the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”), section 65(2) and by the 1999 Act, Schedule 4, paragraph 37(6); Schedule 5A was inserted by the 1999 Act, Schedule 1. The functions of the Secretary of State under these provisions are, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by article 2(a) of, and the entry for the National Health Service Act 1977 in Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), as amended by section 66(5) of the 1999 Act.
+
+[^f00002]: Footnote: *See* [S.I. 1999/2337](https://www.legislation.gov.uk/uksi/1999/2337).
+
+[^f00003]: Footnote: [S.I. 2000/89](https://www.legislation.gov.uk/uksi/2000/89).
+
+[^f00004]: Footnote: *See* regulation 2(4) to 2(11) of the Membership Regulations.

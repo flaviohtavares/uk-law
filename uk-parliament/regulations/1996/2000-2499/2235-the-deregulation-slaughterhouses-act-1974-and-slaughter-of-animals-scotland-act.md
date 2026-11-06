@@ -1,0 +1,203 @@
+---
+title: The Deregulation (Slaughterhouses Act 1974 and Slaughter of Animals (Scotland) Act 1980) Order 1996
+id: uksi/1996/2235
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1996-08-28'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1996/2235
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/2235/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Deregulation (Slaughterhouses Act 1974 and Slaughter of Animals (Scotland) Act 1980) Order 1996
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1996 No. 2235
+
+DEREGULATION
+
+The Deregulation (Slaughterhouses Act 1974 and Slaughter of Animals (Scotland) Act 1980) Order 1996
+
+Made
+
+28th August 1996
+
+Coming into force
+
+11th September 1996
+
+Whereas:
+
+- (a) the Minister of Agriculture, Fisheries and Food and the Secretary of State for Wales in relation to the Slaughterhouses Act 1974[^f00001] are, and the Secretary of State for Scotland in relation to the Slaughter of Animals (Scotland) Act 1980[^f00002] is, of the opinion that certain provisions of the Slaughterhouses Act 1974 and of the Slaughter of Animals (Scotland) Act 1980 impose burdens affecting persons in the carrying on of a trade, business, profession or otherwise and that by amending or repealing the provisions concerned and by making certain other provision it is possible to remove or reduce the burdens without removing any necessary protection;
+- (b) the Minister of Agriculture, Fisheries and Food, the Secretary of State for Wales and the Secretary of State for Scotland have consulted such organisations as appear to them to be representative of interests substantially affected by their proposals and such other persons as they consider appropriate;
+- (c) it appears to the Minister of Agriculture, Fisheries and Food, the Secretary of State for Wales and the Secretary of State for Scotland that it is appropriate, following that consultation, to proceed with the making of this Order;
+- (d) a document setting out proposals of the Minister of Agriculture, Fisheries and Food, the Secretary of State for Wales and the Secretary of State for Scotland has been laid before Parliament as required by section 3 of the Deregulation and Contracting Out Act 1994[^f00003] and the period for Parliamentary consideration under section 4 of that Act has expired;
+- (e) the Minister of Agriculture, Fisheries and Food, the Secretary of State for Wales and the Secretary of State for Scotland have had regard to the representations made during that period;
+- (f) a draft of this Order has been laid before Parliament with a statement giving details of such representations and the changes to the proposals of the Minister of Agriculture, Fisheries and Food, the Secretary of State for Wales and the Secretary of State for Scotland in the light of those representations; and
+- (g) a draft of this Order has been approved by resolution of each House of Parliament,
+
+- Now, therefore, the Minister of Agriculture, Fisheries and Food and the Secretary of State for Wales in relation to the Slaughterhouses Act 1974, and the Secretary of State for Scotland in relation to the Slaughter of Animals (Scotland) Act 1980, in exercise of the powers conferred on them by section 1 of the Deregulation and Contracting Out Act 1994, hereby make the following Order:
+
+## PART I — INTRODUCTORY
+
+### 1. Citation and commencement
+
+This Order may be cited as the Deregulation (Slaughterhouses Act 1974 and Slaughter of Animals (Scotland) Act 1980) Order 1996 and shall come into force on the fourteenth day after the day on which it is made.
+
+## PART II — SLAUGHTERHOUSES ACT 1974
+
+### 2. Repeal of slaughterhouse licensing under section 1
+
+(1) Section 1 of the Slaughterhouses Act 1974 (which requires slaughterhouses and knackers' yards to be licensed) shall be amended as follows.
+
+(2) In subsection (1) (which penalises the use of premises as a slaughterhouse or knacker’s yard unless the occupier is licensed for the purpose)—
+
+- (a) in paragraph (a), the words “slaughterhouse or” and “a slaughterhouse or, as the case may be,” shall be omitted; and
+- (b) in paragraph (b), the words “slaughterhouse or” shall be omitted.
+
+(3) In subsection (3) (separate licensing of certain premises used for the confinement of animals awaiting slaughter in a slaughterhouse or knacker’s yard) the words “slaughterhouse or” shall be omitted.
+
+### 3. Repeal of powers to make byelaws about slaughterhouses
+
+(1) In section 12(1)(a) of the Slaughterhouses Act 1974 (which enables a local authority to make byelaws for securing that slaughterhouses and knackers' yards are kept in a sanitary condition and properly managed) the words “slaughterhouses and” shall be omitted.
+
+(2) In section 16(1) of that Act (powers of local authority in relation to a slaughterhouse provided by it) paragraph (a) (power to make byelaws for securing that the slaughterhouse is kept in a sanitary condition and properly managed) shall cease to have effect.
+
+### 4. Repeal of duty to display signs at slaughterhouses and knackers' yards
+
+Section 13 of the Slaughterhouses Act 1974 (duty of occupier of licensed slaughterhouse or knacker’s yard to display sign indicating nature of the premises) shall cease to have effect.
+
+### 5. Consequential amendments
+
+(1) In section 4(5) of the Slaughterhouses Act 1974 (power of local authority to require information about past or present licences under section 1 of the Act on an application for a knacker’s yard licence)—
+
+- (a) after “other licence” there shall be inserted “which he has held”;
+- (b) for “knacker’s yard which he holds or has held” there shall be substituted “which he holds or has held in respect of a knacker’s yard”; and
+- (c) after “another local authority” there shall be inserted “, or as to any slaughterhouse licence which he holds or has held”.
+
+(2) After section 4(5) of that Act there shall be inserted—
+
+> (6) In subsection (5) above, “slaughterhouse licence” means a licence issued under regulations made by virtue of section 19(1)(b) of the Food Safety Act 1990[^f00004] for the use of any premises as a slaughterhouse.
+
+.
+
+(3) In section 14 of that Act (exception of licensed slaughterhouses from restrictions in local legislation) the existing provision shall become subsection (1), and after that subsection there shall be inserted—
+
+> (2) In this section, “slaughterhouse licence” means a licence issued under regulations made by virtue of section 19(1)(b) of the Food Safety Act 1990 for the use of any premises as a slaughterhouse
+
+.
+
+(4) In section 15(5) of the Act, for “sections 1 to 14” there shall be substituted “section 14”.
+
+## PART III — SLAUGHTER OF ANIMALS (SCOTLAND) ACT 1980
+
+### 6. Repeal of slaughterhouse registration under section 4
+
+Section 4 of the Slaughter of Animals (Scotland) Act 1980 (requirement for registration in respect of private slaughterhouses) shall cease to have effect.
+
+### 7. Repeal of powers to make byelaws about slaughterhouses
+
+Section 8 of the Slaughter of Animals (Scotland) Act 1980 (which enables a local authority to make byelaws for securing that slaughterhouses are kept in a clean and sanitary condition and properly managed) shall cease to have effect.
+
+### 8. Amendment of definition of “slaughterhouse”
+
+In section 22 of the Slaughter of Animals (Scotland) Act 1980 (interpretation), in the definition of “slaughterhouse”, after “intended” there shall be inserted the words “for sale”.
+
+### 9. Consequential amendments
+
+(1) In section 1 of the Slaughter of Animals (Scotland) Act 1980 (provision of public slaughterhouses), for “sections 3 and 8” there shall be substituted “section 3”.
+
+(2) In section 2(1) of the Slaughter of Animals (Scotland) Act 1980 (acquisition of land for purposes relating to slaughterhouses), for “, 3, 4, 5 or 8” there shall be substituted “or 3”.
+
+(3) In section 14 of the Slaughter of Animals (Scotland) Act 1980 (powers of entry)—
+
+- (a) in subsection (1), the words “Subject to section 13(4) of this Act,” shall be omitted; and
+- (b) after subsection (4) there shall be added—
+
+  > (5) Nothing in this section shall authorise any person, except with the permission of the local authority under the Animal Health Act 1981[^f00005], to enter any premises which for the time being are, or are comprised in, an infected place within the meaning of that Act.
+
+  .
+
+(4) In section 19A of the Slaughter of Animals (Scotland) Act 1980 (codes of practice) in each of subsections (1)(a)(i) and (7)(a), for “any of sections 9, 13” there shall be substituted “sections 9”.
+
+(5) In section 35(4)(c) of the Food Safety Act 1990 (punishment of offences) for the words “that Act” there shall be substituted “the Slaughter of Animals (Scotland) Act 1980”.
+
+## PART IV — MISCELLANEOUS
+
+### 10. Fresh Meat (Hygiene and Inspection) Regulations 1995
+
+(1) In regulation 4(2)(a)(i) of the Fresh Meat (Hygiene and Inspection) Regulations 1995[^f00006], after the word “consumption” there shall be inserted the words “and he is satisfied that the requirements of Parts I and II of Schedule 2 to the Welfare of Animals (Slaughter or Killing) Regulations 1995[^f00007] are, or within a reasonable time will be, complied with”.
+
+(2) In regulation 5(1)(b) of the said Regulations, after the word “future” there shall be inserted “or, where those premises are a slaughterhouse, any requirement of Parts I and II of Schedule 2 to the Welfare of Animals (Slaughter or Killing) Regulations 1995 has not been complied with and will not within a reasonable time have been complied with”.
+
+### 11. Repeals
+
+The enactments mentioned in the Schedule to this Order are hereby repealed to the extent specified in the third column of that Schedule.
+
+Angela Browning
+
+Parliamentary Secretary, Ministry of Agriculture, Fisheries and Food
+
+21st August 1996
+
+Lindsay
+
+Parliamentary Under Secretary of State,
+
+Scottish Office
+
+12th August 1996
+
+Signed by authority of the Secretary of State for Wales
+
+Jonathan Evans
+
+Parliamentary Under Secretary of State,
+
+Welsh Office
+
+28th August 1996
+
+## SCHEDULE — REPEALS
+
+Article 11
+
+| Chapter | Short title | Extent of repeal |
+| --- | --- | --- |
+| [1974 c. 3](https://www.legislation.gov.uk/ukpga/1974/3). | The Slaughterhouses Act 1974. | In section 1, in subsection (1), in paragraph (a), the words “slaughterhouse or” and “a slaughterhouse or, as the case may be,” and, in paragraph (b), the words “slaughterhouse or” and, in subsection (3), the words “slaughterhouse or”.<br>Sections 2 and 3.<br>In section 5(1), the words from the beginning of paragraph (a) to “case,” in paragraph (b).<br>In section 6(1), the words from the beginning of paragraph (a) to “case,” in paragraph (b).<br>In section 8, the words from “declares” to “effect, or” and the word “other”.<br>Section 11.<br>In section 12(1)(a), the words “slaughterhouses and”.<br>Section 13.<br>Section 16(1)(a), (3) and (4).<br>In section 34, the words “ “slaughterhouse licence” and” and the definition of the expression “slaughterhall”.<br>In section 35, the words “slaughterhouse or”. |
+| [1980 c. 13](https://www.legislation.gov.uk/ukpga/1980/13). | The Slaughter of Animals (Scotland) Act 1980. | Sections 4 and 5.<br>In section 7, subsection (1)(b) and, in subsection (2), the words “slaughterhouse or” and paragraph (b) and the word “or” immediately preceding it.<br>Section 8.<br>In section 9(4), paragraph (a) and the words “or (b)”, “registration or”, “registration or the” and “as the case may be”.<br>Section 13. In section 14(1), the words “Subject to section 13(4) of this Act,”. |
+| [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65). | The Local Government, Planning and Land Act 1980. | In Schedule 1, paragraphs 11 and 13. |
+| [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16). | The Food Safety Act 1990. | In section 35(4), in paragraph (a), the words “slaughterhouse or” and paragraph (b).<br>In Schedule 3, paragraph 18(a) and (d). |
+
+(This note is not part of the Order)
+
+This Order—
+
+- (a) repeals certain provisions of the Slaughterhouses Act 1974 to remove the powers of local authorities both to issue slaughterhouse licences and to make byelaws concerning slaughterhouses and removes some out-dated provisions, such as the restriction on dwellings in slaughterhouses and the requirement for signs to be displayed outside slaughterhouses and knackers' yards (Articles 2 to 5);
+- (b) repeals certain provisions of the Slaughter of Animals (Scotland) Act 1980 both to remove the power of local authorities to register slaughterhouses and to make byelaws concerning slaughterhouses and to amend the definition of “slaughterhouse” so that the definition only applies to premises where animals the flesh of which is intended for sale for human consumption are slaughtered (Articles 6 to 9);
+- (c) amends the Fresh Meat (Hygiene and Inspection) Regulations (S.I. [1995/539](https://www.legislation.gov.uk/uksi/1995/539)) to insert compliance with Schedule 2 to the Welfare of Animals (Slaughter or Killing) Regulations 1995 (S.I. [1995/731](https://www.legislation.gov.uk/uksi/1995/731)) (construction, equipment and maintenance of slaughterhouses) in the provisions on the issue and revocation of slaughterhouse licences (Article 10); and
+- (d) makes some consequential repeals of enactments (Article 11).
+
+## Annotations
+
+[^f00001]: Footnote: [1974 c. 3](https://www.legislation.gov.uk/ukpga/1974/3).
+
+[^f00002]: Footnote: [1980 c. 13](https://www.legislation.gov.uk/ukpga/1980/13).
+
+[^f00003]: Footnote: [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40).
+
+[^f00004]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
+
+[^f00005]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
+
+[^f00006]: Footnote: S.I. [1995/539](https://www.legislation.gov.uk/uksi/1995/539).
+
+[^f00007]: Footnote: S.I. [1995/731](https://www.legislation.gov.uk/uksi/1995/731).

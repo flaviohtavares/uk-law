@@ -1,0 +1,143 @@
+---
+title: The Telecommunications Infrastructure (Leasehold Property) (Conditions and Time Limits) Regulations 2022
+id: uksi/2022/1057
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-10-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/1057
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/1057/pdfs/uksiem_20221057_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/1057/pdfs/uksi_20221057_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/1057/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Telecommunications Infrastructure (Leasehold Property) (Conditions and Time Limits) Regulations 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 1057
+
+Telecommunications
+
+The Telecommunications Infrastructure (Leasehold Property) (Conditions and Time Limits) Regulations 2022
+
+Made
+
+17th October 2022
+
+Laid before Parliament
+
+19th October 2022
+
+Coming into force in accordance with regulation 1(2)
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 402(3) of, and paragraphs 27C(8), 27D(1)(d)[^f00001] and 27G(1)(c)[^f00002]of Schedule 3A to, the Communications Act 2003[^f00003].
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Telecommunications Infrastructure (Leasehold Property) (Conditions and Time Limits) Regulations 2022.
+
+(2) These Regulations come into force in relation to England and Wales on 26th December 2022 and in relation to Scotland on 1st July 2023.
+
+(3) These Regulations extend to England and Wales and Scotland.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “**the code**” means the electronic communications code set out in Schedule 3A to the Communications Act 2003.
+
+## 3. Other conditions to be satisfied before giving the required grantor a final notice
+
+(1) Before giving the required grantor a final notice[^f00004] under paragraph 27C(1)(b) of the code, the operator[^f00005] must satisfy the conditions in paragraphs (2) to (4).
+
+(2) The operator must inspect the register of title for the connected land under section 66(1) of the Land Registration Act 2002[^f00006], and, if the connected land is registered, the operator must apply for an official copy of each individual register that includes the connected land or any part of that land under rule 134 of the Land Registration Rules 2003[^f00007].
+
+(3) The operator must request that the lessee in occupation referred to in paragraph 27B(1)(b) of the code provides the operator with the name and address of the required grantor.
+
+(4) If the operator obtains new information regarding the name or address of the required grantor prior to giving the final notice the operator must withdraw the warning notices[^f00008] given under paragraph 27C(1) of the code and give the warning notices using that new information.
+
+(5) In this paragraph “**new information**” means new information regarding the name or address of the required grantor obtained by the operator under paragraphs (2) or (3) and which the operator reasonably believes is the name and address of the required grantor.
+
+## 4. Other conditions to be satisfied before applying to the court for a Part 4A order
+
+(1) The conditions in paragraphs (2) and (3) are specified as conditions which must be satisfied in relation to an application to the court[^f00009] for a Part 4A order, as set out under paragraph 27D(1)(d).
+
+(2) The operator must have retained for the court’s inspection copies of the following notices given to the required grantor—
+
+- (a) the request notice given in accordance with paragraph 20(2) of the code,
+- (b) the two warning notices given in accordance with paragraph 27C(1) of the code, and
+- (c) the final notice given in accordance with paragraph 27C(1) of the code.
+
+(3) The operator must have retained for the court’s inspection—
+
+- (a) evidence that each notice referred to in paragraph (2) was given in accordance with the relevant provisions of the code,
+- (b) evidence of a request to provide an electronic communications service[^f00010] to the target premises by a lessee in occupation under paragraph 27B(1)(b) of the code, and
+- (c) evidence of compliance with regulation 3.
+
+## 5. Time limit for an application to the court for a Part 4A order
+
+For the purposes of paragraph 27D(2) of the code, the “**specified period**” means a period of 42 days.
+
+## 6. Time limit after which a Part 4A code right ceases
+
+For the purposes of paragraph 27G(1)(c) of the code, the “**specified period**” means a period of 18 months.
+
+Julia Lopez
+
+Minister of State
+
+Department for Digital, Culture, Media and Sport
+
+17th October 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The electronic communications code (“**the code**”) is set out in Schedule 3A to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21). Schedule 3A was inserted by Part 2 of the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30). The code replaces the previous code set out in Schedule 2 to the Telecommunications Act [1984 (c. 12)](https://www.legislation.gov.uk/ukpga/1984/12).
+
+The code sets out the basis on which electronic communications operators authorised by Ofcom under section 106 of the Communications Act 2003 may exercise rights to deploy and maintain their electronic communications apparatus on, over and under land. Electronic communications apparatus is defined in paragraph 5 of the code.
+
+Part 4A of the code was inserted by section 1 of the Telecommunications Infrastructure (Leasehold Property) Act [2021 (c. 7)](https://www.legislation.gov.uk/ukpga/2021/7). It makes provision for the court to make an order imposing an agreement which provides that code rights are exercisable by an operator for the purposes of providing an electronic communications service to leased premises. The procedure is available where the rights are required in respect of land which is connected to the leased premises and the occupier or another person with an interest in the land has not responded to repeated notices by the operator seeking agreement to confer the rights.
+
+Paragraph 27C of the code sets out requirements to be met before applying to the court for a Part 4A order. Regulation 3 specifies other conditions the operator must satisfy before giving a final notice.
+
+Paragraph 27D of the code sets out conditions which an operator must comply with before the operator can make an application to the court. Regulation 4 specifies further conditions with which the operator must comply.
+
+Paragraph 27D(2) of the code provides that an operator cannot apply for a Part 4A order after the end of the specified period beginning with the day on which the final notice is given. Regulation 5 specifies that this period is 42 days.
+
+Paragraph 27G(1)(c) of the code provides that a Part 4A code right ceases to have effect at the end of the specified period beginning on the day when the agreement imposed by the Part 4A order comes into effect, provided the conditions in 27G(1)(a) or (b) are not met earlier. Regulation 6 specifies that this period is 18 months.
+
+The terms of the agreement imposed by a Part 4A order are set out in the Telecommunications Infrastructure (Leasehold Property) (Terms of Agreement) Regulations 2022.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary, or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: “specified” is defined in paragraph 27D(5).
+
+[^f00002]: Footnote: “specified period” is defined in paragraph 27G(3).
+
+[^f00003]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21); Part 4A to Schedule 3A was inserted by section 1 of the Telecommunications Infrastructure (Leasehold Property) Act [2021 (c. 7)](https://www.legislation.gov.uk/ukpga/2021/7); Schedule 3A was inserted by section 4 of, and Schedule 1 to, the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
+
+[^f00004]: Footnote: “final notice” is defined in paragraph 27C(5) of Schedule 3A to the Communications Act 2003.
+
+[^f00005]: Footnote: “operator” is defined in paragraph 2 of Schedule 3A to the Communications Act 2003.
+
+[^f00006]: Footnote: [2002 c. 6](https://www.legislation.gov.uk/ukpga/2002/6).
+
+[^f00007]: Footnote: [S.I. 2003/1417](https://www.legislation.gov.uk/uksi/2003/1417).
+
+[^f00008]: Footnote: “warning notice” is defined in paragraph 27C(2) of Schedule 3A to the Communications Act 2003.
+
+[^f00009]: Footnote: “court” is defined in paragraph 94 of Schedule 3A to the Communication Act 2003 as amended by the Electronic Communications Code (Jurisdiction) Regulations 2017 ([S.I. 2017/1284](https://www.legislation.gov.uk/uksi/2017/1284)). Those regulations have been further amended by paragraphs 5 to 8 of the Schedule to the Telecommunications Infrastructure (Leasehold Property) Act [2021 (c. 7)](https://www.legislation.gov.uk/ukpga/2021/7).
+
+[^f00010]: Footnote: “electronic communications service” is defined in subsections (2), (2A) and (2B) of section 32 of the Communications Act 2003.

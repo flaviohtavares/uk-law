@@ -1,0 +1,24 @@
+---
+title: The Education (School Government) (Wales) Regulations 1999, section 58
+act: The Education (School Government) (Wales) Regulations 1999
+section: '58'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1999/2242/section/58
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (School Government) (Wales) Regulations 1999, section 58
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+**58.** (1) Schedule 8 makes provision in relation to—
+
+- (a) qualifications, disqualifications and terms of office and removal of governors at maintained schools, and
+- (b) clerks to, and chairmen and vice chairmen of, governing bodies of maintained schools and new schools,
+
+on transition to the new framework under the 1998 Act.
+
+(2) Schedule 8 amends the First Transitional Regulations and the Second Transitional Regulations in so far as they apply to Wales.

@@ -1,0 +1,283 @@
+---
+title: The Pensions Increase (Review) Order 2013
+id: uksi/2013/604
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-03-13'
+text_date: '2014-12-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/604
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/604/pdfs/uksiem_20130604_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/604/pdfs/uksi_20130604_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/604/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pensions Increase (Review) Order 2013
+
+> Text as at 2014-12-16.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 604
+
+Pensions
+
+The Pensions Increase (Review) Order 2013
+
+Made
+
+13th March 2013
+
+Laid before Parliament
+
+14th March 2013
+
+Coming into force
+
+8th April 2013
+
+In accordance with section 151(1) of the Social Security Administration Act 1992[^f00001] the Secretary of State for Work and Pensions has given a direction[^f00002] under section 150(2) and section 190(1)(a)[^f00003] of that Act that the sums mentioned in section 150(1)(c) of that Act are to be increased.
+
+The Treasury now make the following Order in exercise of the powers conferred by section 59(1), (2), (5) and (5ZA) of the Social Security Pensions Act 1975[^f00004] and now vested in them[^f00005]:
+
+## 1. Citation and commencement[^key-3795eb15dcf9481c663187100af02b47]
+
+This Order may be cited as the Pensions Increase (Review) Order 2013 and comes into force on 8th April 2013.
+
+## 2. Interpretation[^key-7647249a7b0c3f230406adcdb0a1ed05]
+
+(1) In this Order—
+
+- “the 1971 Act” means the Pensions (Increase) Act 1971[^f00006];
+- “the 1975 Act” means the Social Security Pensions Act 1975;
+- “basic rate” and “derivative pension” have the meanings given by section 17(1) of the 1971 Act[^f00007];
+- “the existing Orders” means the Orders listed in the Schedule;
+- “official pension” has the meaning given by section 5(1) of the 1971 Act[^f00008];
+- “pension authority” has the meaning given by section 7(1) of the 1971 Act;
+- “qualifying condition” means one of the conditions laid down in section 3 of the 1971 Act[^f00009];
+- “relevant injury pension”, “substituted pension” and “widow’s pension” have the meanings given by section 17(1) of the 1971 Act[^f00010].
+
+(2) For the purposes of this Order the time when a pension “begins” is that stated in section 8(2) of the 1971 Act[^f00011], and the “beginning date” shall be construed accordingly.
+
+(3) Where, for the purposes of this Order, it is necessary to calculate the number of complete months in any period an incomplete month shall be treated as a complete month if it consists of at least 16 days.
+
+## 3. Pension increases[^key-e733740fb6549e6e4ea544c24fa8dd88]
+
+(1) The pension authority may, if any of the conditions in paragraph (2) are fulfilled, increase the annual rate of an official pension in respect of any period on or after 8th April 2013 as follows—
+
+- (a) a pension beginning before 9th April 2012 may be increased by 2.2 per cent of the basic rate (as increased by the amount of any increase under section 1 of the 1971 Act or the existing Orders);
+- (b) a pension beginning on or after 9th April 2012 and before 8th April 2013 may be increased by 2.2 per cent multiplied by
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2013/604)
+
+  where
+
+  - A is the number of complete months in the period between the beginning date of the pension and 8th April 2013.
+
+(2) Those conditions are—
+
+- (a) a qualifying condition is satisfied;
+- (b) the official pension is—
+  - (i) a derivative pension;
+  - (ii) a substituted pension; or
+  - (iii) a relevant injury pension.
+
+## 4. Increases in certain lump sums[^key-1d0c1185139f230325a76617049c9e54]
+
+(1) This article applies to any lump sum or instalment of a lump sum which became payable on or after 9th April 2012 but before 8th April 2013.
+
+(2) The pension authority may increase a lump sum or instalment of a lump sum to which this article applies by 2.2 per cent of the amount of the lump sum or instalment (as increased by the amount of any increase under section 1 of the 1971 Act or the existing Orders) multiplied by
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2013/604)
+
+where
+
+- A is the number of complete months in the period between the beginning date for the lump sum or, if later, 9th April 2012 and the date on which it became payable.
+
+## 5. Reductions in respect of guaranteed minimum pensions[^key-cdec40bc7c5b7547c372a14215fe0470]
+
+The amount by reference to which any increase in the rate of an official pension provided for by this Order is to be calculated shall, in the case of a person—
+
+- (a) who is entitled to a guaranteed minimum pension on 8th April 2013; and
+- (b) whose entitlement to that guaranteed minimum pension arises from an employment from which (either directly or by virtue of the payment of a transfer credit) entitlement to the official pension also arises,
+
+be reduced by an amount equal to the rate of the guaranteed minimum pension unless the Treasury otherwise direct, in accordance with the provisions of section 59A of the 1975 Act[^f00012].
+
+**6.**[^M_I_08988b9a-dd71-4021-94f7-c0e6d603e827] The amount by reference to which any increase in the rate of a widow’s or widower’s pension provided for by this Order is to be calculated shall, where the pensioner becomes entitled on the death of the deceased spouse to a guaranteed minimum pension, be reduced in accordance with section 59(5ZA) of the 1975 Act. *(affected by repeal, see note)*[^M_F_4984c242-a305-4408-beab-f75a876f5dbc]
+
+The amount by reference to which any increase in the rate of a surviving spouse’s or surviving civil partner’s pension provided for by this Order is to be calculated shall, where the pensioner becomes entitled on the death of the deceased spouse or deceased civil partner to a guaranteed minimum pension, be reduced in accordance with section 59(5ZA) of the 1975 Act.
+
+Anne Milton
+
+David Evennett
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+13th March 2013
+
+## SCHEDULE — Existing Orders[^key-6a65adf97b75ec7093b57cb3d1ede6fe]
+
+Article 2
+
+[^key-6a65adf97b75ec7093b57cb3d1ede6fe]
+
+The Pensions Increase (Annual Review) Order 1972[^f00013], the Pensions Increase (Annual Review) Order 1973[^f00014], the Pensions Increase (Annual Review) Order 1974[^f00015], the Pensions Increase (Annual Review) Order 1975[^f00016], the Pensions Increase (Annual Review) Order 1976[^f00017], the Pensions Increase (Annual Review) Order 1977[^f00018], the Pensions Increase (Annual Review) Order 1978[^f00019], the Pensions Increase (Review) Order 1979[^f00020], the Pensions Increase (Review) Order 1980[^f00021], the Pensions Increase (Review) Order 1981[^f00022], the Pensions Increase (Review) Order 1982[^f00023], the Pensions Increase (Review) Order 1983[^f00024], the Pensions Increase (Review) Order 1984[^f00025], the Pensions Increase (Review) Order 1985[^f00026], the Pensions Increase (Review) Order 1986[^f00027], the Pensions Increase (Review) Order 1987[^f00028], the Pensions Increase (Review) Order 1988[^f00029], the Pensions Increase (Review) Order 1989[^f00030], the Pensions Increase (Review) Order 1990[^f00031], the Pensions Increase (Review) Order 1991[^f00032], the Pensions Increase (Review) Order 1992[^f00033], the Pensions Increase (Review) Order 1993[^f00034], the Pensions Increase (Review) Order 1994[^f00035], the Pensions Increase (Review) Order 1995[^f00036], the Pensions Increase (Review) Order 1996[^f00037], the Pensions Increase (Review) Order 1997[^f00038], the Pensions Increase (Review) Order 1998[^f00039], the Pensions Increase (Review) Order 1999[^f00040], the Pensions Increase (Review) Order 2000[^f00041], the Pensions Increase (Review) Order 2001[^f00042], the Pensions Increase (Review) Order 2002[^f00043], the Pensions Increase (Review) Order 2003[^f00044], the Pensions Increase (Review) Order 2004[^f00045], the Pensions Increase (Review) Order 2005[^f00046], the Pensions Increase (Review) Order 2006[^f00047], the Pensions Increase (Review) Order 2007[^f00048], the Pensions Increase (Review) Order 2008[^f00049], the Pensions Increase (Review) Order 2009[^f00050], Pensions Increase (Review) Order 2011[^f00051], and the Pensions Increase (Review) Order 2012[^f00052].
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Under section 59 of the Social Security Pensions Act 1975 as amended, and as modified by section 59A of that Act, the Treasury (in whom the functions conferred by those provisions are now vested) are required to provide by order for the increase in the rates of public service pensions. Under section 59(7) of the 1975 Act, section 59 of that Act has effect as if it were contained in the Pensions (Increase) Act 1971. Section 9(2)(c) of the 1971 Act provides that references to the “rate” of pension shall have effect as references also to the amount of a lump sum benefit. The increase is the percentage (or in some circumstances a fraction of the percentage) by which the Secretary of State for Work and Pensions has, by direction given under the provisions of section 151(1) of the Social Security Administration Act 1992, increased the sums referred to in section 150(1)(c) of that Act. These are the sums which are the additional pensions in long term benefits, namely the additional pension entitlements accruing to employees in respect of earnings after 5th April 1978.
+
+For pensions which began before 9th April 2012 the increase is 2.2 per cent. For pensions which began on or after 9th April 2012 the increases are as follows—
+
+| *Pensions Beginning* | *Pensions Increase* |
+| --- | --- |
+| 9th April 2012 to 23rd April 2012 | 2.20% |
+| 24th April 2012 to 23rd May 2012 | 2.02% |
+| 24th May 2012 to 23rd June 2012 | 1.83% |
+| 24th June 2012 to 23rd July 2012 | 1.65% |
+| 24th July 2012 to 23rd August 2012 | 1.47% |
+| 24th August 2012 to 23rd September 2012 | 1.28% |
+| 24th September 2012 to 23rd October 2012 | 1.10% |
+| 24th October 2012 to 23rd November 2012 | 0.92% |
+| 24th November 2012 to 23rd December 2012 | 0.73% |
+| 24th December 2012 to 23rd January 2013 | 0.55% |
+| 24th January 2013 to 23rd February 2013 | 0.37% |
+| 24th February 2013 to 23rd March 2013 | 0.18% |
+
+Article 4 of the Order provides for increases on certain deferred lump sums which became payable on or after 9th April 2012 and before 8th April 2013.
+
+The Order also makes provision for the amount by reference to which any increase in the rate of an official pension is to be calculated to be reduced by the amount equal to the rate of the guaranteed minimum pension entitlement deriving from the employment which gives rise to the official pension. This is required by section 59(5) of the Social Security Pensions Act 1975. However by virtue of section 59A of that Act and the Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 ([S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670)) the Treasury are empowered to direct that in respect of specified cases or classes of case either no such reduction be made or the reduction shall be less than the rate of the guaranteed minimum pension. Section 59(5ZA) was inserted into section 59 by section 5 of the Pensions (Miscellaneous Provisions) Act [1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7). This applies section 59(5) to a widow’s or widower’s pension.
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5); section 151(1) was amended by section 130(2) of the Pensions Act [1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^f00002]: Footnote: The direction is contained in [S.I. 2013/574](https://www.legislation.gov.uk/uksi/2013/574).
+
+[^f00003]: Footnote: Section 190(1)(a) was amended by the Social Security Act [1998 (c.14)](https://www.legislation.gov.uk/ukpga/1998/14), Schedule 7, paragraph 110 and Schedule 8, the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), Schedule 13, Part VI and the Pensions Act [2007 (c.22)](https://www.legislation.gov.uk/ukpga/2007/22), Schedule 1, Part 5, paragraph 30.
+
+[^f00004]: Footnote: [1975 c.60](https://www.legislation.gov.uk/ukpga/1975/60); section 59(1) was amended by section 1(7) of the Pensions (Miscellaneous Provisions) Act [1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7) and by the Social Security (Consequential Provisions) Act [1992 (c.6)](https://www.legislation.gov.uk/ukpga/1992/6), Schedule 2, paragraph 34. Section 59(5) was amended by section 11 of the Social Security Act [1979 (c.18)](https://www.legislation.gov.uk/ukpga/1979/18) and the Social Security Act [1985 (c.53)](https://www.legislation.gov.uk/ukpga/1985/53), Schedule 5, paragraph 33. Section 59 was also amended by the Social Security Act 1979, section 11 and Schedule 3, paragraph 20; section 9(8) of the Social Security Act [1986 (c.50)](https://www.legislation.gov.uk/ukpga/1986/50)(which inserted sub-section (5A)); section 5 of the Pensions (Miscellaneous Provisions) Act 1990 (which inserted sub-section (5ZA)) and the Pension Schemes Act [1993 (c.48)](https://www.legislation.gov.uk/ukpga/1993/48) section 190 and Schedule 8, paragraph 9(1). Section 59 is modified by section 59A, which was inserted by section 11(4) of the Social Security Act 1979, amended by the Social Security Act 1986, section 9(9), and further amended by the Pension Schemes Act 1993, section 190 and Schedule 8, paragraph 9(2). Section 59(5ZA) is amended, and subsections (5ZB) and (5ZC) are inserted, by the Pensions Act [2008 (c.30)](https://www.legislation.gov.uk/ukpga/2008/30), section 137 and Schedule 11, Part 6; at the time this Order was made these amendments were not in force.
+
+[^f00005]: Footnote: By virtue of article 2(1)(c) and (d) of the Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 ([S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670)).
+
+[^key-3795eb15dcf9481c663187100af02b47]: Commencement: Art. 1 in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
+
+[^key-7647249a7b0c3f230406adcdb0a1ed05]: Commencement: Art. 2 in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
+
+[^f00006]: Footnote: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
+
+[^f00007]: Footnote: Relevant amendments were made to section 17(1) by section 1(3) of the Pensions (Increase) Act [1974 (c.9)](https://www.legislation.gov.uk/ukpga/1974/9) and by the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), section 39(1) and (5).
+
+[^f00008]: Footnote: Section 5(1) was amended by the Superannuation Act [1972 (c.11)](https://www.legislation.gov.uk/ukpga/1972/11), section 29(1), Schedule 6, paragraph 85.
+
+[^f00009]: Footnote: Section 3 was amended by section 3 of the Pensions (Increase) Act [1974 (c.9)](https://www.legislation.gov.uk/ukpga/1974/9), by the Children Act [1975 (c.72)](https://www.legislation.gov.uk/ukpga/1975/72) section 108, Schedule 4, Part I, by section 1 of the Pensions (Miscellaneous Provisions) Act 1990, by section 171 of the Pensions Act [1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26), by section 39(1) and (2) of the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30) and by the Pensions Increase (Reduction of Qualifying Age) Order 1972 ([S.I. 1972/1299](https://www.legislation.gov.uk/uksi/1972/1299)).
+
+[^f00010]: Footnote: Relevant amendments were made to section 17(1) by section 1(3) of the Pensions (Increase) Act [1974 (c.9)](https://www.legislation.gov.uk/ukpga/1974/9), by section 1(6) of the Pensions (Miscellaneous Provisions) Act [1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7) and by section 39(1) and (5) of the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30).
+
+[^f00011]: Footnote: Section 8(2) was amended by section 1(5) of the Pensions (Miscellaneous Provisions) Act [1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7) and by the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), section 39(1) and (4).
+
+[^key-e733740fb6549e6e4ea544c24fa8dd88]: Commencement: Art. 3 in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
+
+[^key-1d0c1185139f230325a76617049c9e54]: Commencement: Art. 4 in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
+
+[^key-cdec40bc7c5b7547c372a14215fe0470]: Commencement: Art. 5 in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
+
+[^f00012]: Footnote: The power of direction is vested in the Treasury by [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).
+
+[^M_I_08988b9a-dd71-4021-94f7-c0e6d603e827]: Commencement: Art. 6 in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
+
+[^M_F_4984c242-a305-4408-beab-f75a876f5dbc]: Textual amendment: Art. 6 substituted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 56(v)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/56/v); and Art. 6 substituted (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 35](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/35)
+
+[^key-6a65adf97b75ec7093b57cb3d1ede6fe]: Commencement: Sch. in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
+
+[^f00013]: Footnote: [S.I. 1972/1298](https://www.legislation.gov.uk/uksi/1972/1298).
+
+[^f00014]: Footnote: [S.I. 1973/1370](https://www.legislation.gov.uk/uksi/1973/1370).
+
+[^f00015]: Footnote: [S.I. 1974/1373](https://www.legislation.gov.uk/uksi/1974/1373).
+
+[^f00016]: Footnote: [S.I. 1975/1384](https://www.legislation.gov.uk/uksi/1975/1384).
+
+[^f00017]: Footnote: [S.I. 1976/1356](https://www.legislation.gov.uk/uksi/1976/1356).
+
+[^f00018]: Footnote: [S.I. 1977/1387](https://www.legislation.gov.uk/uksi/1977/1387).
+
+[^f00019]: Footnote: [S.I. 1978/1211](https://www.legislation.gov.uk/uksi/1978/1211).
+
+[^f00020]: Footnote: [S.I. 1979/1047](https://www.legislation.gov.uk/uksi/1979/1047).
+
+[^f00021]: Footnote: [S.I. 1980/1302](https://www.legislation.gov.uk/uksi/1980/1302).
+
+[^f00022]: Footnote: [S.I. 1981/1217](https://www.legislation.gov.uk/uksi/1981/1217).
+
+[^f00023]: Footnote: [S.I. 1982/1178](https://www.legislation.gov.uk/uksi/1982/1178).
+
+[^f00024]: Footnote: [S.I. 1983/1264](https://www.legislation.gov.uk/uksi/1983/1264).
+
+[^f00025]: Footnote: [S.I. 1984/1307](https://www.legislation.gov.uk/uksi/1984/1307).
+
+[^f00026]: Footnote: [S.I. 1985/1575](https://www.legislation.gov.uk/uksi/1985/1575).
+
+[^f00027]: Footnote: [S.I. 1986/1116](https://www.legislation.gov.uk/uksi/1986/1116).
+
+[^f00028]: Footnote: [S.I. 1987/130](https://www.legislation.gov.uk/uksi/1987/130).
+
+[^f00029]: Footnote: [S.I. 1988/217](https://www.legislation.gov.uk/uksi/1988/217).
+
+[^f00030]: Footnote: [S.I. 1989/477](https://www.legislation.gov.uk/uksi/1989/477).
+
+[^f00031]: Footnote: [S.I. 1990/483](https://www.legislation.gov.uk/uksi/1990/483).
+
+[^f00032]: Footnote: [S.I. 1991/684](https://www.legislation.gov.uk/uksi/1991/684).
+
+[^f00033]: Footnote: [S.I. 1992/198](https://www.legislation.gov.uk/uksi/1992/198).
+
+[^f00034]: Footnote: [S.I. 1993/779](https://www.legislation.gov.uk/uksi/1993/779).
+
+[^f00035]: Footnote: [S.I. 1994/776](https://www.legislation.gov.uk/uksi/1994/776).
+
+[^f00036]: Footnote: [S.I. 1995/708](https://www.legislation.gov.uk/uksi/1995/708).
+
+[^f00037]: Footnote: [S.I. 1996/800](https://www.legislation.gov.uk/uksi/1996/800).
+
+[^f00038]: Footnote: [S.I. 1997/634](https://www.legislation.gov.uk/uksi/1997/634).
+
+[^f00039]: Footnote: [S.I. 1998/503](https://www.legislation.gov.uk/uksi/1998/503).
+
+[^f00040]: Footnote: [S.I. 1999/522](https://www.legislation.gov.uk/uksi/1999/522).
+
+[^f00041]: Footnote: [S.I. 2000/672](https://www.legislation.gov.uk/uksi/2000/672).
+
+[^f00042]: Footnote: [S.I. 2001/664](https://www.legislation.gov.uk/uksi/2001/664).
+
+[^f00043]: Footnote: [S.I. 2002/699](https://www.legislation.gov.uk/uksi/2002/699).
+
+[^f00044]: Footnote: [S.I. 2003/681](https://www.legislation.gov.uk/uksi/2003/681).
+
+[^f00045]: Footnote: [S.I. 2004/758](https://www.legislation.gov.uk/uksi/2004/758).
+
+[^f00046]: Footnote: [S.I. 2005/858](https://www.legislation.gov.uk/uksi/2005/858).
+
+[^f00047]: Footnote: [S.I. 2006/741](https://www.legislation.gov.uk/uksi/2006/741).
+
+[^f00048]: Footnote: [S.I. 2007/801](https://www.legislation.gov.uk/uksi/2007/801).
+
+[^f00049]: Footnote: [S.I. 2008/711](https://www.legislation.gov.uk/uksi/2008/711).
+
+[^f00050]: Footnote: [S.I. 2009/692](https://www.legislation.gov.uk/uksi/2009/692).
+
+[^f00051]: Footnote: [S.I. 2011/827](https://www.legislation.gov.uk/uksi/2011/827).
+
+[^f00052]: Footnote: [S.I. 2012/782](https://www.legislation.gov.uk/uksi/2012/782).

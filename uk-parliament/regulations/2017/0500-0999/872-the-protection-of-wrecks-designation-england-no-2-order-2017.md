@@ -1,0 +1,163 @@
+---
+title: The Protection of Wrecks (Designation) (England) (No. 2) Order 2017
+id: uksi/2017/872
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-09-04'
+text_date: '2022-06-02'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2017/872
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/872/pdfs/uksiem_20170872_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/872/pdfs/uksi_20170872_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/872/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Protection of Wrecks (Designation) (England) (No. 2) Order 2017
+
+> Text as at 2022-06-02.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2017 No. 872
+
+Protection Of Wrecks, England
+
+The Protection of Wrecks (Designation) (England) (No. 2) Order 2017
+
+Made
+
+4th September 2017
+
+Laid before Parliament
+
+5th September 2017
+
+Coming into force in accordance with article 1
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 1(1) and (2) and 3(2) of the Protection of Wrecks Act 1973[^f00001] (“the Act”).
+
+The Secretary of State is satisfied, in relation to the five sites identified in Schedule 1 to this Order, as to the matters set out in section 1(1) of the Act.
+
+In accordance with section 1(4) of the Act, the Secretary of State has consulted such persons as the Secretary of State considers appropriate having regard to the purposes of this Order.
+
+## 1. Citation and commencement[^key-4a06e8779bbae3b2d56aff9041d01486]
+
+This Order may be cited as the Protection of Wrecks (Designation) (England) (No. 2) Order 2017 and comes into force on the day after the day on which it is laid.
+
+## 2. Identification and sites and designation of restricted areas[^key-8a4c70408b228200bf23449f9ddee131]
+
+(1) The five sites listed in Schedule 1 are sites where a vessel or vessels lie, or are supposed to lie, wrecked on or in the sea bed.
+
+(2) Four sites are listed in the first column of Table 1 of Schedule 1 and the position of each site is given in the corresponding entry in the second column of Table 1[^f00002].
+
+(3) For each site so listed, the area within the distance from the site specified in the corresponding entry in the third column of Table 1 is designated as a restricted area.
+
+(4) The fifth site in respect of which this Order is made is the area bounded by straight lines whose corners lie at the points specified in Table 2 of Schedule 1.
+
+(5) The area identified in paragraph (4) is designated as a restricted area.
+
+(6) A restricted area designated under paragraph (3) or (5) does not include any part of that area which is above the high water mark of ordinary spring tides.
+
+## 3. Revocations[^key-18b9d54ca4fff164598aec7cd71585eb]
+
+The instruments listed in Schedule 2 are revoked.
+
+John Glen
+
+Parliamentary Under Secretary of State for Arts, Heritage and Tourism
+
+Department for Digital, Culture, Media and Sport
+
+4th September 2017
+
+## SCHEDULE 1 — SITES OF WRECKS[^key-c38128b4e94bb92b64d60bb71682adbe]
+
+Article 2
+
+Table 1
+
+| Site | Position | Radius |
+| --- | --- | --- |
+| Chesil Beach (Cannon Site) (Inshore) | Latitude 50°36.758489’ North<br>Longitude 02°32.070084’ West | 30 metres |
+| Chesil Beach (Cannon Site) (Offshore) | Latitude 50°36.651607’ North<br>Longitude 02°32.059267’ West | 30 metres |
+| The Hazardous, Bracklesham Bay | Latitude 50.752242[^key-f32497d3d3f8de67224f86508b7753ba] North<br>Longitude -0.859310 West | 150 metres |
+| UC-70, off Overdale Wyke | Latitude 54°31.5987’ North<br>Longitude 00°40.1346’ West | 30 metres |
+
+Table 2
+
+| Point | Latitude | Longitude |
+| --- | --- | --- |
+| N | 49.92688286 | \-6.34111824 |
+| E | 49.92371411 | \-6.33617442 |
+| S | 49.91861193 | \-6.34401542 |
+| W | 49.92178068 | \-6.34895924 |
+
+## SCHEDULE 2 — REVOCATIONS[^key-744d8ac456f7e6456fdd64b5a33fb60a]
+
+Article 3
+
+| (1)<br>Orders revoked | (2)<br>References |
+| --- | --- |
+| The Protection of Wrecks (Designation No. 1) Order 1983 | [S.I. 1983/1400](https://www.legislation.gov.uk/uksi/1983/1400) |
+| The Protection of Wrecks (Designation No. 1) Order 1986 | [S.I. 1986/1441](https://www.legislation.gov.uk/uksi/1986/1441) |
+| The Protection of Wrecks (Designation No. 1 Order 1986) (Amendment) Order 1988 | [S.I. 1988/287](https://www.legislation.gov.uk/uksi/1988/287) |
+| The Protection of Wrecks (Designation) Order 2001 | [S.I. 2001/2403](https://www.legislation.gov.uk/uksi/2001/2403) |
+| The Protection of Wrecks (Designation) (England) Order 2017 | [S.I. 2017/773](https://www.legislation.gov.uk/uksi/2017/773) |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order designates as restricted areas for the purposes of the Protection of Wrecks Act 1973:
+
+- two areas in the English Channel near Chesil Beach, Dorset;
+- one area in Bracklesham Bay, West Sussex;
+- one area off Overdale Wyke near Whitby, North Yorkshire; and
+- one area near the Isles of Scilly.
+
+This Order also revokes the designation of an area near to the Brighton Marina which was previously designated as a restricted area for the purposes of that Act.
+
+The first two areas are believed to be the wreck sites of a vessel or vessels carrying cast iron cannons, which lie on the seaward side of Chesil Beach in Dorset. The third area is believed to be the wreck site of the vessel “The Hazardous”, lying in Bracklesham Bay off West Sussex. The fourth area is believed to be the wreck site of the UC-70, a First World War German U-boat, lying off Overdale Wyke near Whitby, North Yorkshire. The fifth area is believed to be the wreck site of the vessel “HMS Colossus”, lying off Samson Island in the Isles of Scilly.
+
+The Secretary of State is satisfied that these sites are, or may prove to be, the sites of vessels lying wrecked on or in the sea bed, and ought to be protected from unauthorised interference because of the historical and archaeological importance of the vessels, or of the objects which are contained or were formerly contained in the vessels.
+
+The following areas are designated as restricted areas by this Order:
+
+- the area within a 30 metre radius of the two Chesil Beach sites;
+- the area within a 150 metre radius of the Hazardous site;
+- the area within a 30 metre radius of the UC-70 site; and
+- a rectangular area 800 metres long by 300 metres wide surrounding the HMS Colossus site.
+
+Under section 1(3) of the Protection of Wrecks Act 1973 it is a criminal offence for a person to engage in certain activities in a restricted area, except under the authority of a licence issued by the Secretary of State.
+
+The areas around the wreck site of the HMS Colossus and the Hazardous were previously designated as restricted areas under the Protection of Wrecks (Designation) Order 2001 (for the HMS Colossus) and the Protection of Wrecks (Designation No.1) Order 1986 and the Protection of Wrecks (Designation No. 1 Order 1986) (Amendment) Order 1988 (for the Hazardous). This Order enlarges those restricted areas so that they encompass archaeological material from the HMS Colossus and Hazardous wrecks which lie outside the current restricted areas, and revokes the earlier Orders. This Order also revokes the Protection of Wrecks (Designation) (England) Order 2017 which incorrectly set out the coordinates of the HMS Colossus restricted area.
+
+This Order also revokes the designation of a restricted area adjacent to the western breakwater of Brighton Marina, which is known as the Brighton Marina wreck. The area was designated as a restricted area by the Protection of Wrecks (Designation No. 1) Order 1983, but recent investigations indicate that the area only contained the debris trail of a wreck which lay outside the restricted area, and that evidence of that debris trail is no longer present. The Secretary of State is of the opinion that there is no longer any wreck in the restricted area which requires protection, and this Order therefore revokes the 1983 Order.
+
+An impact assessment has not been produced for this instrument as no significant impact is foreseen on the private, voluntary or public sectors.
+
+## Annotations
+
+[^f00001]: Footnote: [1973 c.33](https://www.legislation.gov.uk/ukpga/1973/33).
+
+[^key-4a06e8779bbae3b2d56aff9041d01486]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1) in force at 6.9.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1)
+
+[^key-8a4c70408b228200bf23449f9ddee131]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2017/872/article/2) in force at 6.9.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1)
+
+[^f00002]: Footnote: The positions of the sites identified in Schedule 1 are defined by co-ordinates of latitude and longitude according to the World Geodetic System 1984 (WGS 84), as revised in 2004.
+
+[^key-18b9d54ca4fff164598aec7cd71585eb]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2017/872/article/3) in force at 6.9.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1)
+
+[^key-c38128b4e94bb92b64d60bb71682adbe]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2017/872/schedule/1) in force at 6.9.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1)
+
+[^key-f32497d3d3f8de67224f86508b7753ba]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2017/872/schedule/1) Table 1 substituted (2.6.2022) by [The Protection of Wrecks (Designation and Amendment) (England) Order 2022 (S.I. 2022/535)](https://www.legislation.gov.uk/uksi/2022/535), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/535/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2022/535/article/3/2)
+
+[^key-744d8ac456f7e6456fdd64b5a33fb60a]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2017/872/schedule/2) in force at 6.9.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/872/article/1)

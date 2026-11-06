@@ -1,0 +1,354 @@
+---
+title: The Merchant Shipping (Maritime Labour Convention) (Recruitment and Placement) Regulations 2014
+id: uksi/2014/1615
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-07-09'
+text_date: '2026-07-09'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/1615
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/1615/pdfs/uksiem_20141615_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1615/pdfs/uksi_20141615_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1615/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping (Maritime Labour Convention) (Recruitment and Placement) Regulations 2014
+
+> Text as at 2026-07-09.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2014 No. 1615
+
+Merchant Shipping
+
+The Merchant Shipping (Maritime Labour Convention) (Recruitment and Placement) Regulations 2014
+
+Made
+
+9th July 2014
+
+Laid before Parliament
+
+15th July 2014
+
+Coming into force
+
+7th August 2014
+
+The Secretary of State is a Minister designated [^c22163431] for the purposes of section 2(2) of the European Communities Act 1972 [^c22163441] in relation to measures relating to maritime transport.
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972.
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Merchant Shipping (Maritime Labour Convention) (Recruitment and Placement) Regulations 2014.
+
+(2) These Regulations come into force on 7th August 2014.
+
+## 2. Interpretation and application
+
+(1) In these Regulations—
+
+- “**the Act**” means the Employment Agencies Act 1973 [^c22163451];
+- “**the Merchant Shipping Act**” means the Merchant Shipping Act 1995 [^c22163461];
+- “**the Conduct Regulations**” means the Conduct of Employment Agencies and Employment Businesses Regulations 2003 [^c22163471];
+- “employment agency”—
+  - (a) means a business (whether or not carried on with a view to profit and whether or not carried on in conjunction with any other business) carried on in the United Kingdom which provides services for the purpose of finding persons employment with employers or of supplying employers with persons for employment by them, other than a business where the services provided are limited exclusively to the provision of information; and
+  - (b) includes a person carrying on such an employment agency, and in the case of a person who carries on both an employment agency and an employment business means such a person in their capacity in carrying on the employment agency;
+- “employment business”—
+  - (a) means a business (whether or not carried on with a view to profit and whether or not carried on in conjunction with any other business) carried on in the United Kingdom which supplies persons in the employment of the person carrying on the business, to act for, and under the control of, other persons in any capacity; and
+  - (b) includes a person carrying on such an employment business, and in the case of a person who carries on both an employment business and an employment agency means such a person in their capacity in carrying on the employment business;
+- “**fishing vessel**” has the meaning given in section 313 of the Merchant Shipping Act;
+- “**hirer**” means a person (including an employment business) to whom an employment agency or employment business introduces or supplies or holds itself out as being capable of introducing or supplying a work-seeker;
+- “**the Maritime Labour Convention**” means the Convention adopted on 23rd February 2006 by the General Conference of the International Labour Organization [^c22163481];
+- “**pleasure vessel**” means—
+  - (a) any vessel which at the time it is being used is—
+    - (i) in the case of a vessel wholly owned by—[^key-b5ce49bbee527e74801af1fe05d6a806]
+    - (aa) an individual or individuals, used only for the sport or pleasure of the owner or the immediate family or friends of the owner; or
+    - (bb) a body corporate, used only for sport or pleasure and on which the persons on board are employees or officers of the body corporate, or their immediate family or friends; and
+    - (ii) on a voyage or excursion which is one for which the owner does not receive money for or in connection with operating the vessel or carrying any person, other than as a contribution to the direct expenses of the operation of the vessel incurred during the voyage or excursion; or
+  - (b) any vessel wholly owned by or on behalf of a members' club formed for the purpose of sport or pleasure which, at the time it is being used, is used only for the sport or pleasure of members of that club or their immediate family, and for the use of which any charges levied are paid into club funds and applied for the general use of the club,
+
+  where, in the case of any vessel referred to in paragraph[^key-d1cd5eaad08d7b370e309ef0f2f6ca10] (a) or (b), no other payments are made by or on behalf of users of the vessel, other than by the owner; and in this definition “**immediate family**” means, in relation to an individual, the spouse or civil partner of the individual, and a relative of the individual or the individual's spouse or civil partner; and “**relative**” means brother, sister, ancestor or lineal descendant;
+- “**seafarer**” means any person, including a master, who is employed or engaged or works in any capacity on board a ship and whose normal place of work is on a ship;
+- “**sea-going**” in relation to a United Kingdom ship means—
+  - (a) a ship which operates outside the waters specified as Category A, B, C and D waters in Merchant Shipping Notice 1837(M) [^c22163491];
+  - (b) a ship to which the Merchant Shipping (Survey and Certification) Regulations 1995 [^c22163501] apply and in respect of which no exemption granted under regulation 2(2) of those Regulations applies;
+  - (c) a ship which is a large vessel within the meaning of regulation 3(1) of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 in respect of which a certificate of compliance has been issued in accordance with regulation 9 of those Regulations; or[^key-b758b24d53831902e89419e9ede63e60]
+  - (d) a high speed craft in respect of which a permit to operate outside waters of Categories A, B, C or D has been issued in accordance with regulation 14 of the Merchant Shipping (High Speed Craft) Regulations 2022[^key-819b380b5cd68c355c2e2c7742bff012];
+- “**ship**” includes hovercraft;
+- “**United Kingdom ship**” means a ship which is—
+  - (a) a United Kingdom ship within the meaning of section 85(2) of the Merchant Shipping Act; or[^key-aedc5785c86234dae07e4e1ef0be31af]
+  - (b) [^key-a4235bdb864f5ca8f4f22b008418c0c9]...
+  - (c) a hovercraft registered under the Hovercraft Act 1968 [^c22163531];
+- “**work-finding services**” means services provided—
+  - (a) by an employment agency to a person for the purpose of finding that person employment or seeking to find that person employment;
+  - (b) by an employment business to an employee of the employment business for the purpose of finding or seeking to find another person, with a view to the employee acting for and under the control of that other person;
+  - (c) by an employment business to a person (the “first person”) for the purpose of finding or seeking to find another person (the “second person”), with a view to the first person becoming employed by the employment business and acting for and under the control of the second person; and
+- “**work-seeker**” means a person to whom an employment agency or employment business provides or holds itself out as being capable of providing work-finding services.
+
+(2) In the application of these Regulations to a hovercraft, a reference to the master of a ship includes a reference to the captain of that hovercraft.
+
+(3) These Regulations do not apply in relation to any arrangements, supply, services, functions or business specified in—
+
+- (a) Article 11(5) of the Employment (Miscellaneous Provisions) (Northern Ireland) Order 1981 [^c22163541], where such activity takes place in Northern Ireland; or
+- (b) section 13(7) of the Act, where such activity takes place in Great Britain.
+
+(4) These Regulations do not apply in relation to the employment of a seafarer on the following types of ship—
+
+- (a) pleasure vessels;
+- (b) fishing vessels;
+- (c) ships of traditional build;
+- (d) warships or naval auxiliaries;
+- (e) vessels which are not ordinarily engaged in commercial activities.
+
+## 3. Meaning of “seafarer employment agreement”
+
+(1) In these Regulations, “**seafarer employment agreement**” means, in relation to a seafarer—
+
+- (a) the written agreement required by regulation 9 of the Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulation 2014 [^c22163551], where the seafarer works on a United Kingdom ship; or
+- (b) the agreement governing the seafarer's work on the ship, where the seafarer works on a ship which is not a United Kingdom ship.
+
+(2) For the purposes of regulation 5, “**seafarer employment agreement**” includes a draft of the agreement referred to in paragraph (1) which has been prepared for signature but has not yet been entered into.
+
+## 4. Duty on employment agencies as regards seafarer employment
+
+An employment agency must not introduce or supply a work-seeker to a hirer for the purposes of employment as a seafarer on a sea-going ship unless it has verified—
+
+- (a) the identity of the work-seeker; and
+- (b) that the work-seeker has the experience, training, qualifications and any authorisation which the hirer considers are necessary, or which are required by law or by any professional body, to work in the position which the hirer seeks to fill.
+
+## 5. Duty on employment agencies and businesses as regards seafarer employment agreements
+
+An employment agency or employment business introducing or supplying a work-seeker to a hirer for the purposes of employment as a seafarer on a sea-going ship must—
+
+- (a) ensure that the work-seeker is informed of the rights and duties under the seafarer employment agreement prior to or in the process of engagement;
+- (b) ensure that arrangements are made for the work-seeker to have an opportunity to examine the seafarer employment agreement before and after it is signed by the work-seeker; and
+- (c) ensure that arrangements are made for the work-seeker to receive a copy of the seafarer employment agreement after it is signed by the work-seeker.
+
+## 6. Duty on employment agencies and businesses to provide financial system of protection
+
+(1) This regulation applies to an employment agency or employment business where—
+
+- (a) the employment agency or employment business has introduced or supplied a work-seeker to a hirer for the purposes of employment as a seafarer on a sea-going ship; and
+- (b) the work-seeker is or has been employed as a seafarer as a result of that introduction or supply.
+
+(2) The employment agency or employment business must establish a system of protection, by way of insurance or an equivalent appropriate measure, to compensate the seafarer for monetary loss which the seafarer may incur as a result of—
+
+- (a) a failure of the employment agency or employment business to meet its obligations to the seafarer; and
+- (b) a failure of the shipowner which is party to the seafarer employment agreement to meet its obligations to the seafarer.
+
+(3) References in paragraph (2) to “obligations to the seafarer” include contractual obligations and statutory obligations.
+
+## 6A. Duty on employment agencies and businesses to provide information about system of protection[^key-bd3b91c977bfce26f19ffe0c66bc7b32]
+
+An employment agency or employment business introducing or supplying a work-seeker to a hirer for the purposes of employment as a seafarer on a sea-going ship must ensure that the work-seeker is informed, prior to or in the process of engagement, of the rights which would be available to the work-seeker as a seafarer under any system of protection established under regulation 6.
+
+## 7. Duty on employment agencies and businesses to maintain records[^key-b78aa893242f1848d4715b493eb37b77]
+
+(1) Subject to paragraph (5), every employment agency and employment business must keep records which are sufficient to show whether the provisions of these Regulations are being complied with, including the particulars specified in paragraphs (2) and (3).
+
+(2) The particulars to be included in relation to every application received by the employment agency or employment business from a work-seeker are—
+
+- (a) the date on which the application was received;
+- (b) the work-seeker’s name, address and, if under 22 on the date the application was received, the date of birth;
+- (c) any terms which apply or will apply between the employment agency or employment business and the work-seeker, and any document recording any variation of the terms;
+- (d) details of the work-seeker’s training, experience, qualifications, and any authorisation to undertake particular work (and copies of any documentary evidence of the same obtained by the employment agency or employment business);
+- (e) details of any requirements specified by the work-seeker in relation to taking up employment;
+- (f) the names of hirers to whom the work-seeker is introduced or supplied;
+- (g) details of any resulting engagement and date from which it takes effect;
+- (h) a copy of any contract between the work-seeker and any hirer entered into by the employment agency on the work-seeker’s behalf;
+- (i) the date on which the application was withdrawn or the contract terminated (where applicable);
+- (j) in the case of an employment agency that is permitted by the Conduct Regulations to charge fees to work-seekers—
+  - (i) the dates of the requests by the employment agency for fees from the work-seeker and of receipt of such fees, with copy statements or invoices, numbers and amounts; or
+  - (ii) statements of dates and amounts of sums deducted from money received by the employment agency on the work-seeker’s behalf in accordance with regulation 25 of the Conduct Regulations, to the extent that these are not required to be comprised in records maintained in respect of a client account in accordance with paragraph 12 of Schedule 2 to the Conduct Regulations;
+- (k) details of enquiries made under regulation 4 about the work-seeker and the position concerned with copies of all relevant documents and dates they were received or sent as the case may be.
+
+(3) The particulars to be included in relation to every application received by the employment agency or employment business from a hirer are—
+
+- (a) the date on which the application was received;
+- (b) the hirer’s name and address, and location of the work to be done for the hirer;
+- (c) details of the position the hirer seeks to fill;
+- (d) the duration or likely duration of work;
+- (e) any experience, training, ability, qualifications, and authorisation required by the hirer, by law, or by any professional body and any other conditions attaching to the position the hirer seeks to fill;
+- (f) the terms offered in respect of the position the hirer seeks to fill;
+- (g) a copy of the terms between the employment agency or employment business and the hirer, and any document recording any variation of the terms;
+- (h) the names of work-seekers introduced or supplied;
+- (i) details of each resulting engagement and date from which it takes effect;
+- (j) the dates of requests by the employment agency or employment business for fees or other payment from the hirer and of receipt of such fees or other payments, and copies of statements or invoices.
+
+(4) The records mentioned in paragraph (1) must be kept—
+
+- (a) for a period of at least one year starting with the date of their creation; and
+- (b) for a period of at least one year starting with the date on which the employment agency or employment business last provided services in the course of its business as an employment agency or an employment business to the applicant to whom they relate.
+
+(5) The obligation to keep records of the particulars referred to in paragraph (1) does not apply to applications in respect of which the employment agency or employment business takes no action.
+
+(6) The records mentioned in paragraph (1) must be kept by an employment agency or employment business either—
+
+- (a) at any premises it uses for or in connection with the carrying on of an employment agency or employment business; or
+- (b) at another location where the records are readily accessible by it.
+
+(7) The records an employment agency or employment business is required to keep pursuant to this regulation may be kept in electronic form, provided that the information so recorded is capable of being reproduced in legible form.
+
+## 8. Offences
+
+(1) A person who contravenes regulation 4, 5, 6(2) , 6A[^key-3f3e808343efef729a35fbaaa3501e8a] or 7(1), (4) or (6)[^key-3cc4e899f747466ece9e8b34edf62935] is guilty of an offence.
+
+(2) A person who makes or causes to be made or knowingly allows to be made any entry in a record required to be kept in pursuance of these Regulations which that person knows to be false in a material particular is guilty of an offence.
+
+(3) A person guilty of an offence under this regulation is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## 9. Offences: extension of time limit
+
+(1) For the purposes of this regulation a relevant offence is an offence under regulation 8 in respect of which proceedings are brought by—
+
+- (a) the Secretary of State; or
+- (b) the Department for Employment and Learning.
+
+(2) Notwithstanding section 127(1) of the Magistrates' Courts Act 1980 [^c22163561] (limitation of time) an information relating to a relevant offence which is triable by a magistrates' court in England and Wales may be so tried if it is laid at any time—
+
+- (a) within 3 years after the date of the commission of the offence; and
+- (b) within 6 months after the date on which evidence sufficient in the opinion of the Secretary of State to justify the proceedings came to the knowledge of the Secretary of State.
+
+(3) Notwithstanding section 136 of the Criminal Procedure (Scotland) Act 1995 [^c22163571] (time limit for certain offences) in Scotland proceedings in respect of a relevant offence may be commenced at any time—
+
+- (a) within 3 years after the date of the commission of the offence; and
+- (b) within 6 months after the date on which evidence sufficient in the opinion of the Lord Advocate to justify the proceedings came to the knowledge of the Lord Advocate.
+
+(4) Notwithstanding Article 19(1)(a) of the Magistrates' Courts (Northern Ireland) Order 1981 [^c22163581] (time within which complaint charging offence must be made to give jurisdiction) a complaint relating to a relevant offence may be made at any time—
+
+- (a) within 3 years after the date of the commission of the offence; and
+- (b) within 6 months after the date on which evidence sufficient in the opinion of the Department for Employment and Learning to justify the proceedings came to the knowledge of that Department.
+
+(5) For the purposes of this regulation a certificate of the Secretary of State, Lord Advocate or the Department for Employment and Learning (as the case may be) as to the date on which evidence came to the knowledge of that person is conclusive evidence.
+
+## 10. Offences: cost of investigation
+
+The court in which a person is convicted of an offence under these Regulations may order that person to pay a sum which appears to the court not to exceed the costs of the investigation which resulted in the conviction—
+
+- (a) to the Secretary of State, in respect of proceedings falling within regulation 9(1)(a); or
+- (b) to the Department for Employment and Learning, in respect of proceedings falling within regulation 9(1)(b).
+
+## 11. Offences by bodies corporate
+
+(1) Where an offence under these Regulations committed by a body corporate is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in any such capacity, that person, as well as the body corporate, is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(2) This regulation does not extend to Northern Ireland.
+
+## 12. Inspection
+
+For the purposes of the enforcement functions conferred by section 9 of the Act [^c22163591] (inspection) and Article 7B of the Employment (Miscellaneous Provisions) (Northern Ireland) Order 1981 [^c22163601], these Regulations are to be treated as having been made under that Act and that Order respectively.
+
+## 13. Review
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the Maritime Labour Convention is implemented in other member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which these Regulations come into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Signed by authority of the Secretary of State for Transport
+
+Stephen Hammond
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement part of Regulation 1.4 of the Maritime Labour Convention, 2006 (Cm 7049). They apply to certain employment agencies and employment businesses which carry on business in the United Kingdom and impose requirements in relation to the employment of seafarers on certain sea-going ships.
+
+*Regulation 4* requires an employment agency to obtain confirmation of specified information before providing certain services in connection with seafarer employment.
+
+*Regulation 5* provides that employment agencies and employment businesses must take specified steps as regards seafarer employment agreements when providing certain services in connection with seafarer employment.
+
+*Regulation 6* requires employment agencies and employment businesses to have a financial system of protection as regards persons who they have introduced or supplied for work as a seafarer and who have been employed as such. The system should compensate the seafarer for monetary loss arising from the failure of the shipowner or the employment agency or employment business to meet certain obligations to the seafarer.
+
+*Regulation 7* imposes a requirement on employment agencies and employment businesses to maintain records to demonstrate compliance with these Regulations.
+
+*Regulation 8* creates offences for non-compliance with these requirements and *regulations 9 to 12* make associated provision (including powers of inspection)*.*
+
+*Regulation 13* requires the Secretary of State to review the operation and effect of these Regulations and publish a report within five years after they come into force and within every five years after that. Following a review it will fall to the Secretary of State to consider whether the Regulations should remain as they are, or be revoked or amended. A further instrument would be needed to revoke the Regulations or to amend them.
+
+Merchant Shipping Notices and Marine Guidance Notes are published by the Maritime and Coastguard Agency. Copies may be downloaded from the MCA's website https://www.gov.uk/government/organisations/maritime-and-coastguard-agency or by e-subscription from mnotices@ecgroup.co.uk with ‘Subscribe’ in the subject heading, or obtained from M-Notices Subscriptions, PO Box 362, Europa Park, Grays Essex RM17 9AY, tel 01375 484548, fax 01375 484556.
+
+The Maritime Labour Convention, 2006 may be downloaded from the website of the International Labour Organisation (“ILO”) at www.ilo.org/global/standards/maritime-labour-convention/lang--en/index.htm. Copies of the Convention may be obtained from www.tsoshop.co.uk, by e-mail from customer.services@tso.co.uk or by post from TSO, P.O. Box 29, Norwich, NR3 IGN, Tel: +44 (0)870 600 5522/Fax: +44 (0)870 600 5533, as a priced publication.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is published with the Explanatory Memorandum alongside this instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^c22163431]: Marginal citation: [S.I. 1994/757](https://www.legislation.gov.uk/uksi/1994/757).
+
+[^c22163441]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and Part I of the Schedule to, the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). The Maritime Labour Convention is regarded as one of the EU Treaties within the meaning of section 1(2) of the European Communities Act 1972 by virtue of the European Communities (Definition of Treaties) (Maritime Labour Convention) Order 2009 ([S.I. 2009/1757](https://www.legislation.gov.uk/uksi/2009/1757), as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043)).
+
+[^c22163451]: Marginal citation: [1973 c.35](https://www.legislation.gov.uk/ukpga/1973/35).
+
+[^c22163461]: Marginal citation: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^c22163471]: Marginal citation: [S.I. 2003/3319](https://www.legislation.gov.uk/uksi/2003/3319), to which there are amendments not relevant to these Regulations.
+
+[^c22163481]: Marginal citation: Cm 7049.
+
+[^key-b5ce49bbee527e74801af1fe05d6a806]: Textual amendment: Words in reg. 2(1) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/242/regulation/6/2/a)
+
+[^key-d1cd5eaad08d7b370e309ef0f2f6ca10]: Textual amendment: Word in reg. 2(1) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/242/regulation/6/2/b)
+
+[^c22163491]: Marginal citation: Merchant Shipping Notice 1837(M) specifies which waters are Category A, B, C and D waters for the purposes of regulation 3(2)(a) of [S.I. 1992/2356](https://www.legislation.gov.uk/uksi/1992/2356), as the notice which currently supersedes Merchant Shipping Notice M1504 pursuant to regulation 2 of those Regulations.
+
+[^c22163501]: Marginal citation: [S.I. 1995/1210](https://www.legislation.gov.uk/uksi/1995/1210), amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302), [S.I](https://www.legislation.gov.uk/uksi/2004/302/section/I). 2005/2114 and [S.I. 2010/1075](https://www.legislation.gov.uk/uksi/2010/1075); there are other amending instruments but none is relevant.
+
+[^key-b758b24d53831902e89419e9ede63e60]: Textual amendment: Words in reg. 2(1) substituted (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/13) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+
+[^key-819b380b5cd68c355c2e2c7742bff012]: Textual amendment: Words in reg. 2(1) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/18) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+
+[^key-aedc5785c86234dae07e4e1ef0be31af]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1615/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+
+[^key-a4235bdb864f5ca8f4f22b008418c0c9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1615/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+
+[^c22163531]: Marginal citation: [1968 c.59](https://www.legislation.gov.uk/ukpga/1968/59).
+
+[^c22163541]: Marginal citation: [S.I. 1981/839](https://www.legislation.gov.uk/uksi/1981/839), to which there are amendments not relevant to these Regulations.
+
+[^c22163551]: Marginal citation: [S.I. 2014/1613](https://www.legislation.gov.uk/uksi/2014/1613).
+
+[^key-bd3b91c977bfce26f19ffe0c66bc7b32]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2014/1615/regulation/6A) inserted (9.7.2026) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/598)](https://www.legislation.gov.uk/uksi/2026/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/598/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2026/598/regulation/3/2)
+
+[^key-b78aa893242f1848d4715b493eb37b77]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/1615/regulation/7) substituted (8.5.2016) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/3/2)
+
+[^key-3f3e808343efef729a35fbaaa3501e8a]: Textual amendment: Word in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2014/1615/regulation/8/1) inserted (9.7.2026) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/598)](https://www.legislation.gov.uk/uksi/2026/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/598/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2026/598/regulation/3/3)
+
+[^key-3cc4e899f747466ece9e8b34edf62935]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2014/1615/regulation/8/1) substituted (8.5.2016) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2016/510/regulation/3/3)
+
+[^c22163561]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^c22163571]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^c22163581]: Marginal citation: [S.I. 1981/1675](https://www.legislation.gov.uk/uksi/1981/1675).
+
+[^c22163591]: Marginal citation: [Section 9](https://www.legislation.gov.uk/uksi/2014/1615/section/9) was amended by: the [Employment Protection Act 1975 (c.71)](https://www.legislation.gov.uk/ukpga/1975/71), [Schedule 13](https://www.legislation.gov.uk/ukpga/1975/71/schedule/13), [paragraphs 6(1) to (3)](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/6/1) and Schedule 18; the [Criminal Justice Act 1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48), [sections 37](https://www.legislation.gov.uk/ukpga/1982/48/section/37), [38](https://www.legislation.gov.uk/ukpga/1982/48/section/38) and 46; the [Deregulation and Contracting Out Act 1994 (c.40)](https://www.legislation.gov.uk/ukpga/1994/40), [Schedule 10](https://www.legislation.gov.uk/ukpga/1994/40/schedule/10), [paragraph 1(4)](https://www.legislation.gov.uk/ukpga/1994/40/paragraph/1/4); the [Employment Relations Act 1999 (c.26)](https://www.legislation.gov.uk/ukpga/1999/26), [Schedule 7](https://www.legislation.gov.uk/ukpga/1999/26/schedule/7), [paragraphs 1](https://www.legislation.gov.uk/ukpga/1999/26/paragraph/1), [4(1) to (4)](https://www.legislation.gov.uk/ukpga/1999/26/paragraph/4/1) and (6) and Schedule 9, Table 8; the [Employment Act 2008 (c.24)](https://www.legislation.gov.uk/ukpga/2008/24), [sections 16](https://www.legislation.gov.uk/ukpga/2008/24/section/16) and 18 and Part 5 of the Schedule; [S.I. 2009/2999](https://www.legislation.gov.uk/uksi/2009/2999), [regulation 46](https://www.legislation.gov.uk/uksi/2009/2999/regulation/46); and by the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), [Schedule 18](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18), [Part 2](https://www.legislation.gov.uk/ukpga/2012/21/part/2), [paragraph 36](https://www.legislation.gov.uk/ukpga/2012/21/paragraph/36).
+
+[^c22163601]: Marginal citation: [Article 7B](https://www.legislation.gov.uk/uksi/2014/1615/article/7B) was inserted by [S.I. 2005/3424 (N.I. 20)](https://www.legislation.gov.uk/nisi/2005/3424) and was amended by the [Employment Act (Northern Ireland) 2010 (c.12)](https://www.legislation.gov.uk/nia/2010/12), [sections 2](https://www.legislation.gov.uk/nia/2010/12/section/2) and 5.

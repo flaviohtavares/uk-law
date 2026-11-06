@@ -1,0 +1,51 @@
+---
+title: Companies Act 2006, section 885
+act: Companies Act 2006
+section: '885'
+status: repealed
+text_date: '2026-07-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2006/46/section/885
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies Act 2006, section 885
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 885. Register of charges to be kept by registrar[^c20602521]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force (ended 2013-04-06).**
+
+(1) The registrar shall keep, with respect to each company, a register of all the charges requiring registration under this Chapter.
+
+(2) In the case of a charge to the benefit of which holders of a series of debentures are entitled, the registrar shall enter in the register the required particulars specified in section 882(2).
+
+(3) In the case of any other charge, the registrar shall enter in the register the following particulars—
+
+- (a) if it is a charge created by a company, the date of its creation and, if it is a charge which was existing on property acquired by the company, the date of the acquisition,
+- (b) the amount secured by the charge,
+- (c) short particulars of the property charged,
+- (d) the persons entitled to the charge, and
+- (e) in the case of a floating charge, a statement of any of the provisions of the charge and of any instrument relating to it which prohibit or restrict or regulate the company's power to grant further securities ranking in priority to, or *pari passu* with, the floating charge, or which vary or otherwise regulate the order of ranking of the floating charge in relation to subsisting securities.
+
+(4) The registrar shall give a certificate of the registration of any charge registered in pursuance of this Chapter, stating—
+
+- (a) the name of the company and the person first-named in the charge among those entitled to the benefit of the charge (or, in the case of a series of debentures, the name of the holder of the first such debenture issued), and
+- (b) the amount secured by the charge.
+
+(5) The certificate—
+
+- (a) shall be signed by the registrar or authenticated by the registrar's official seal, and
+- (b) is conclusive evidence that the requirements of this Chapter as to registration have been satisfied.
+
+(6) The register kept in pursuance of this section shall be open to inspection by any person.
+
+## Annotations
+
+[^c20602521]: Modification: Ss. 885-888 applied (with modifications) (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [regs. 2](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2), [42](https://www.legislation.gov.uk/uksi/2009/1804/regulation/42) (with [Sch. 1 paras. 21](https://www.legislation.gov.uk/uksi/2009/1804/schedule/1/paragraph/21), [34](https://www.legislation.gov.uk/uksi/2009/1804/schedule/1/paragraph/34), [35](https://www.legislation.gov.uk/uksi/2009/1804/schedule/1/paragraph/35))

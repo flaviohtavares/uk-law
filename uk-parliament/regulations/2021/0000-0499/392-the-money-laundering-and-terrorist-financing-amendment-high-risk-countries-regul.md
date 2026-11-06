@@ -1,0 +1,141 @@
+---
+title: The Money Laundering and Terrorist Financing (Amendment) (High-Risk Countries) Regulations 2021
+id: uksi/2021/392
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-03-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2021/392
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/392/pdfs/uksiem_20210392_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/392/pdfs/uksi_20210392_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/392/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Money Laundering and Terrorist Financing (Amendment) (High-Risk Countries) Regulations 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 392
+
+Financial Services
+
+The Money Laundering and Terrorist Financing (Amendment) (High-Risk Countries) Regulations 2021
+
+Approved by both Houses of Parliament
+
+Made
+
+24th March 2021
+
+Laid before Parliament
+
+25th March 2021
+
+Coming into force
+
+26th March 2021
+
+The Treasury, in exercise of the powers conferred by section 49 of and paragraphs 4 and 23 of Schedule 2 to the Sanctions and Anti-Money Laundering Act 2018[^f00001], make the following Regulations.
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Money Laundering and Terrorist Financing (Amendment) (High-Risk Countries) Regulations 2021.
+
+(2) These Regulations come into force on 26th March 2021.
+
+## 2. Amendment of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017
+
+(1) The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^f00002] are amended as follows.
+
+(2) In regulation 33 (obligation to apply enhanced customer due diligence), for paragraph (3)(a) substitute—
+
+> - (a) a “high-risk third country” means a country which is specified in Schedule 3ZA;
+
+.
+
+(3) In regulation 39(4) (reliance), for “a country which has been identified by the European Commission as a high-risk third country in delegated acts adopted under Article 9.2 of the fourth money laundering directive” substitute “a high-risk third country”.
+
+(4) After Schedule 3 (relevant offences) insert—
+
+> **SCHEDULE 3ZA — High-Risk Third Countries**
+>
+> Regulation 33(3)
+>
+> **1.** Albania
+>
+> **2.** Barbados
+>
+> **3.** Botswana
+>
+> **4.** Burkina Faso
+>
+> **5.** Cambodia
+>
+> **6.** Cayman Islands
+>
+> **7.** Democratic People’s Republic of Korea
+>
+> **8.** Ghana
+>
+> **9.** Iran
+>
+> **10.** Jamaica
+>
+> **11.** Mauritius
+>
+> **12.** Morocco
+>
+> **13.** Myanmar
+>
+> **14.** Nicaragua
+>
+> **15.** Pakistan
+>
+> **16.** Panama
+>
+> **17.** Senegal
+>
+> **18.** Syria
+>
+> **19.** Uganda
+>
+> **20.** Yemen
+>
+> **21.** Zimbabwe
+
+.
+
+## 3. Revocation of Commission Delegated Regulation (EU) 2016/1675
+
+Commission Delegated Regulation (EU) 2016/1675 of 14th July 2016 supplementing Directive (EU) 2015/849 of the European Parliament and of the Council by identifying high-risk third countries with strategic deficiencies is revoked.
+
+James Morris
+
+Rebecca Harris
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+24th March 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 ([S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692)) (“the MLRs”) to insert as Schedule 3ZA a new UK list of high-risk third countries for the purposes of enhanced customer due diligence requirements.
+
+Regulation 2 substitutes for the definition of “high-risk third country” in regulation 33(3)(a) of the MLRs a definition which refers to the list of countries in this Schedule, rather than to the list in Commission Delegated Regulation (EU) 2016/1675 of 14th July 2016 supplementing Directive (EU) 2015/849 of the European Parliament and of the Council by identifying high-risk third countries with strategic deficiencies (“the CDR”). It also makes a consequential amendment to a further reference to the CDR. Regulation 3 revokes the CDR.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c.13](https://www.legislation.gov.uk/ukpga/2018/13). In section 49 the definition of “terrorist financing” was amended by paragraph 9 of Part 2 of Schedule 3 to the 2018 Act.
+
+[^f00002]: Footnote: [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692), amended by [S.I. 2019/1511](https://www.legislation.gov.uk/uksi/2019/1511), [2019/253](https://www.legislation.gov.uk/uksi/2019/253) and [2020/99](https://www.legislation.gov.uk/uksi/2020/99). There are other amending instruments but none is relevant.

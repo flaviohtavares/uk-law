@@ -1,0 +1,39 @@
+---
+title: Serious Crime Act 2007, section 94
+act: Serious Crime Act 2007
+section: '94'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2007/27/section/94
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Serious Crime Act 2007, section 94
+
+> **Warning: changes not yet applied to this text (182).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/27
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 94. Commencement
+
+*Extent: E+W+S+N.I.*
+
+(1) The preceding provisions of this Act (other than sections 89, 90, 91(2) and (3) and 93 and the provisions specified in subsection (4) but, subject to this, including the Schedules) come into force on such day as the Secretary of State may by order appoint; and different days may be appointed for different purposes.
+
+(2) The Secretary of State must consult the Scottish Ministers before making an order under subsection (1) in relation to—
+
+- (a) section 75(1);
+- (b) paragraph 2 of Schedule 10; or
+- (c) paragraph 24 of that Schedule.
+
+(3) The provisions of this Act specified in subsection (4) come into force on such day as the Scottish Ministers may by order appoint; and different days may be appointed for different purposes.
+
+(4) Those provisions are—
+
+- (a) section 75(4) and (5);
+- (b) section 76(4) to (6);
+- (c) section 86;
+- (d) paragraphs 14 to 23 and, so far as extending to Scotland, paragraph 25 of Schedule 10; and
+- (e) so far as relating to the provisions falling within paragraph (d) above, paragraph 1 of that Schedule and section 77.

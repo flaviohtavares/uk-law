@@ -1,0 +1,462 @@
+---
+title: The Town and Country Planning (London Spatial Development Strategy) Regulations 2000
+id: uksi/2000/1491
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2000-06-05'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2000/1491
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/1491/pdfs/uksi_20001491_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/1491/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (London Spatial Development Strategy) Regulations 2000
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2000 No. 1491
+
+TOWN AND COUNTRY PLANNING, ENGLAND
+
+The Town and Country Planning (London Spatial Development Strategy) Regulations 2000
+
+Made
+
+5th June 2000
+
+Laid before Parliament
+
+12th June 2000
+
+Coming into force
+
+3rd July 2000
+
+The Secretary of State for the Environment, Transport and the Regions in exercise of the powers conferred upon him by section 26(2)(bb) of the Town and Country Planning Act 1990[^c16026691] and sections 334(7), 335(2)(b) and (d), 3(d) and 7(b), 337(4) and (5), 338(8), 342(1)(b) and 343 of the Greater London Authority Act 1999[^c16026701] and all other powers enabling him in that behalf, and having consulted the Lord Chancellor[^c16026711] hereby makes the following Regulations:—
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Town and Country Planning (London Spatial Development Strategy) Regulations 2000, and shall come into force on 3rd July 2000.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “the 1990 Act" means the Town and Country Planning Act 1990;
+- “by advertisement" means by publication in the London Gazette and by local advertisement;
+- “by local advertisement" means by publication on at least one occasion in two successive weeks in a newspaper circulating in Greater London; and
+- “the GLA Act" means the Greater London Authority Act 1999.
+
+(2) These Regulations apply in relation to proposals to alter or replace the spatial development strategy as they apply in relation to a proposed spatial development strategy.
+
+## PART I — FORM AND CONTENT OF THE SPATIAL DEVELOPMENT STRATEGY
+
+### 3. Title of the spatial development strategy
+
+The title of the spatial development strategy shall include the words “spatial development strategy".
+
+### 4. Content of the spatial development strategy
+
+(1) The spatial development strategy shall contain a reasoned justification of the Mayor’s strategy for spatial development in Greater London.
+
+(2) Those parts of the spatial development strategy which comprise the Mayor’s strategy for spatial development in Greater London and those parts which comprise the reasoned justification required by paragraph (1) shall be clearly identified in the spatial development strategy.
+
+(3) Where there is conflict between the written statement in the spatial development strategy formulating the Mayor’s strategy for spatial development in Greater London and any other part of the spatial development strategy, the provisions of that statement prevail.
+
+### 5. Diagrams in the spatial development strategy
+
+(1) The spatial development strategy shall contain a diagram, called the key diagram, illustrating the Mayor’s strategy for spatial development in Greater London.
+
+(2) The spatial development strategy may also contain a diagram, called an inset diagram, drawn to a larger scale than the key diagram, and illustrating the application of the Mayor’s general policies to part of the area covered by the spatial development strategy.
+
+(3) Where an inset diagram is included in the spatial development strategy, the area covered by the inset diagram shall be identified on the key diagram and the application of the general policies to that area shall be illustrated on that inset diagram only.
+
+(4) No key diagram or inset diagram contained in the spatial development strategy shall be on a map base.
+
+(5) The title of the spatial development strategy shall be set out on the key diagram and on any inset diagram contained in the spatial development strategy and the key diagram and any inset diagram shall include an explanation of any symbol or notation used in the diagram.
+
+### 6. Regard to be had to certain matters and statement of regard
+
+(1) In formulating the strategy for spatial development in Greater London the Mayor shall, in addition to the matters specified in sections 41 and 342(1)(a) of the GLA Act, have regard to—
+
+- (a)[^key-d39f789fd8695372e2c3255236887729] the national waste management plan within the meaning of the Waste (England and Wales) Regulations 2011;
+- (b)[^key-0d38428bbecbdeef7e2307495947a14a] the objectives of preventing major accidents and limiting the consequences of such accidents for human health and the environment;
+- (c) the need, in the long term—
+  - (i) to maintain appropriate safety distances between establishments and residential areas, buildings and areas of public use, recreational areas, and, as far as possible, major transport routes;
+  - (ii) to protect areas of particular natural sensitivity or interest in the vicinity of establishments, where appropriate through appropriate safety distances or other relevant measures;
+  - (iii) in the case of existing establishments, to take additional technical measures, in accordance with regulation 5 of the Control of Major Accident Hazards Regulations 2015[^key-05d1ce20caad9c799034e9eacb94e062], so as not to increase the risks to human health and the environment.
+
+(2)[^key-fe6fa9f6011397fef9c89a2aa9964346] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The reasoned justification required by regulation 4(1) shall contain a statement of the regard the Mayor has had in formulating the strategy for spatial development in Greater London to the matters specified in sections 41 and 342(1)(a) of the GLA Act and in paragraph (1).
+
+## PART II — PROCEDURE—SPATIAL DEVELOPMENT STRATEGY
+
+### 7. Public participation
+
+(1) The places at which the Mayor is required by section 335(2)(b) of the GLA Act to make the proposed spatial development strategy available for inspection are—
+
+- (a) the principal office of the Greater London Authority, and
+- (b) such other places within Greater London as the Mayor considers appropriate.
+
+(2) The proposed spatial development strategy shall be accompanied by an appraisal (referred to in these Regulations as a “sustainability appraisal") of how it contributes towards the achievement of sustainable development.
+
+(3) The local planning authority for each London borough shall make available for inspection at its principal office and during such period as is specified in the advertisement published pursuant to paragraph (4) a copy of the proposed spatial development strategy and of the sustainability appraisal; and the Mayor shall give to each authority such notice and such documents as they require in order to comply with this paragraph.
+
+(4) The Mayor shall, as soon as reasonably practicable after he makes copies of the proposed spatial development strategy and of the sustainability appraisal available for inspection pursuant to section 335(2)(b), give notice by advertisement in Form 1.
+
+(5) The persons, in addition to those persons set out in section 335(3)(a)–(c) and (e) of the GLA Act, to whom the Mayor is required to send a copy of the proposed spatial development strategy, are—
+
+- (a) the Countryside Agency and the Nature Conservancy Council for England,
+- (b) the Environment Agency, and
+- (c) the Historic Buildings and Monuments Commission for England.
+
+(6) Subject to paragraph (7), the prescribed period for the purposes of section 335(7)(b) of the GLA Act is a period of not less than 12 weeks ending on such date as the Mayor shall specify in the notice published pursuant to paragraph (4).
+
+(7) Where the Mayor makes available pursuant to section 335(2)(b) of the GLA Act proposed alterations to the spatial development strategy which in the Mayor’s opinion constitute minor alterations, the prescribed period for the purposes of section 335(7)(b) of the GLA Act is a period of not less than 6 weeks ending on such date as the Mayor shall specify in the notice published pursuant to paragraph (4).
+
+(8) The period in paragraphs (6) and (7) begins with the date on which a notice given pursuant to paragraph (4) is first published in a newspaper.
+
+(9) A representation is made in accordance with these Regulations for the purposes of section 335(7)(a) of the GLA Act if it is made in writing and addressed to the Mayor at the address indicated in the notice published pursuant to paragraph (4).
+
+(10) The Mayor shall, from the date referred to in paragraph (6) until the proposed spatial development strategy is published or withdrawn, make available for inspection at the principal office of the Greater London Authority a copy of all representations made in accordance with these Regulations.
+
+(11) The Mayor shall not be required to have regard to any representation made in respect of the spatial development strategy after the date specified in the notice published pursuant to paragraph (4).
+
+### 8. Examination in public
+
+(1) The Mayor shall, as soon as reasonably practicable after the Secretary of State has appointed a person or persons (referred to in these Regulations as “the panel") pursuant to section 338(3) of the GLA Act to conduct the examination in public, send to the panel a copy of all representations made in accordance with these Regulations.
+
+(2) The panel shall, not later than 12 weeks before the opening of the examination in public, and after consulting the Mayor—
+
+- (a) make available for inspection, at those places at which the proposed spatial development strategy was made available for inspection, a draft list of—
+  - (i) the matters to be examined at the examination in public, and
+  - (ii) the persons who will be invited to take part in the examination in public;
+- (b) give notice by advertisement in Form 2; and
+- (c) send to the Secretary of State a copy of the notice published pursuant to sub-paragraph (b).
+
+(3) Representations on the draft list referred to in paragraph (2)(a) above may be made in writing to the person and at the address indicated in the notice published pursuant to paragraph (2)(b) above, within 28 days of the date on which that notice is first published in a newspaper.
+
+(4) The panel shall, not later than 6 weeks before the opening of the examination in public, and after consulting the Mayor—
+
+- (a) notify those persons who are invited to take part of the matters to be examined;
+- (b) make available for inspection, at those places at which the draft list referred to in paragraph 2(a) above was made available for inspection, a list of—
+  - (i) the matters to be examined at the examination in public, and
+  - (ii) the persons who will be invited to take part in the examination in public; and
+- (c) give notice by advertisement of—
+  - (i) the places and times at which the lists mentioned in sub-paragraph (b) above will be available for inspection,
+  - (ii) the address where the examination in public is to be held,
+  - (iii) the dates of the examination in public, and
+  - (iv) the name or title of the officer to whom and the address to which written submissions on the matters to be examined at the examination in public should be sent.
+
+(5) Written submissions may be made on the matters to be examined at the examination in public to the person at the address indicated in the notices published pursuant to paragraphs (2)(b) and (4)(c) above.
+
+(6) The panel shall not be required to consider a written submission from any person unless—
+
+- (a) the written submission concerns one or more matters to be examined at the examination in public;
+- (b) the written submission is shorter than 2000 words in length; and
+- (c) the panel has received no later than 3 weeks before the opening of the examination in public such number of copies of the submission as the panel may reasonably require in order to send a copy of that submission to each person invited to take part in the examination in public.
+
+(7) The report of the panel shall be in writing.
+
+(8) At the same time as the panel sends a copy of that report to the Mayor it shall send a copy to the Secretary of State.
+
+(9) The Mayor shall, before the expiry of a period of 8 weeks beginning with the day he receives that report—
+
+- (a) make the report available for inspection at those places at which the proposed spatial development strategy was made available for inspection, and
+- (b) send a copy of the report to the council for each London borough.
+
+### 9. Publication
+
+(1) The prescribed period for the purposes of section 337(4)(b) of the GLA Act is the relevant period determined in accordance with paragraphs (6) to (8) of regulation 7.
+
+(2) The Mayor shall not publish the spatial development strategy unless:
+
+- (a) he has sent to the Secretary of State—
+  - (i) a statement of his intention to publish the spatial development strategy,
+  - (ii) a copy of the spatial development strategy which he intends to publish, and
+  - (iii) where he proposes not to accept any recommendation contained in the report of the panel, a statement of his reasons for not accepting that recommendation; and
+- (b) a period of six weeks, or such longer period as the Secretary of State in writing requires, have elapsed beginning with the date notified to the Mayor in writing by the Secretary of State as the date he received the latest of those statements and that copy.
+
+(3) When the Mayor publishes the spatial development strategy he shall:
+
+- (a) give notice by advertisement in Form 3;
+- (b) serve notice in similar form on the persons specified in section 335(3)(c) and (d) of the GLA Act;
+- (c) make available for inspection at those places at which the proposed spatial development strategy was made available for public inspection—
+  - (i) a copy of the spatial development strategy,
+  - (ii) a copy of any direction given by the Secretary of State under section 337(7) of the GLA Act,
+  - (iii) a copy of any written statement of the Secretary of State indicating for the purposes of section 337(8)(a) of the GLA Act that the Mayor has satisfied the Secretary of State that the Mayor has made the modifications to the proposed spatial development strategy necessary to conform with any such direction, and
+  - (iv) where the Mayor has not accepted any recommendation contained in the report of the panel, a statement of his reason for not accepting that recommendation; and
+- (d) send to the Secretary of State and to the council for each London borough a copy of the spatial development strategy, the notice published pursuant to sub-paragraph (a), and any statement of reasons prepared pursuant to sub-paragraph (c)(iv).
+
+### 10. Withdrawal of proposals
+
+On the withdrawal of the proposed spatial development strategy pursuant to section 336(1) of the GLA Act the Mayor shall give notice by advertisement in Form 4.
+
+## PART III — AVAILABILITY OF DOCUMENTS
+
+### 11. Duty to make documents available
+
+(1) The Mayor shall make available for public inspection at the principal office of the Greater London Authority any direction given by the Secretary of State under—
+
+- (a) section 340(2) (reviews of the strategy), or
+- (b) section 341(2) (alteration or replacement),
+
+of the GLA Act.
+
+(2) Subject to paragraph (3), where a person makes a document available for inspection under these Regulations that person shall make that document available at the time and place specified in any relevant notice published by that person under these Regulations until the expiry of a period of six weeks beginning with the date of publication of a notice that the proposed spatial development strategy has been published or withdrawn.
+
+(3) A person making a document available for inspection under these Regulations shall, on request and on payment of any reasonable charge required by that person, provide, as soon as reasonably practicable, a copy of that document.
+
+(4) A copy of the spatial development strategy made available for inspection under regulation 9(3)(d) shall remain so available until printed copies of the strategy are made available for inspection under regulation 12.
+
+### 12. Availability of the spatial development strategy after publication
+
+(1) As soon as reasonably practicable after the Mayor has published the spatial development strategy under section 337(1) of the GLA Act he shall secure that printed copies of the spatial development strategy are made available for inspection during normal office hours at the principal office of the Greater London Authority and, on payment of any reasonable fee required by the Mayor, for purchase.
+
+(2) The Mayor shall continue to make printed copies of the spatial development strategy available for public inspection and purchase under paragraph (1) until the spatial development strategy is altered or replaced.
+
+## PART IV — CONFORMITY AND CONFLICT
+
+### 13. Statement of conformity between a unitary development plan and the spatial development strategy
+
+(1) An application to the Mayor pursuant to section 13(1A) [^c16026741] of the 1990 Act for his written opinion as to whether a unitary development plan or proposals for the alteration or replacement of such a plan are in general conformity with the spatial development strategy is made in accordance with these Regulations if it is—
+
+- (a) made in writing, and
+- (b) accompanied by a copy of the relevant unitary development plan or proposals for its alteration or replacement.
+
+(2) The period within which the Mayor shall give such an opinion is the period prescribed as the period within which objections and representations may be made to the local planning authority with respect to the unitary development plan or the proposals for its alteration or replacement.
+
+## PART 5 — CORONAVIRUS: TEMPORARY MODIFICATIONS[^key-2cd40b7630c9e13f1d91d4338535de22]
+
+### 14. Introduction and interpretation
+
+(1) During the relevant period, Parts 2 and 3 of these Regulations have effect subject to the modifications in regulations 15 to 18.
+
+(2) In this Part, “the relevant period” means the period beginning with 12th August 2020 and ending with 31st December 2021[^key-cc88aaae3cfa7fb2a426d049110369fb].
+
+### 15. Modification of regulation 9
+
+Regulation 9(3)(c) (publication) has effect as if for the words from “at those places” to “public inspection” there were substituted “on the Greater London Authority’s website”.
+
+### 16. Modification of regulation 11
+
+Regulation 11 (duty to make documents available) has effect as if—
+
+- (a) in paragraph (1), for “at the principal office” there were substituted “on the website”;
+- (b) after paragraph (3), there were inserted—
+
+  > (3A) Paragraph (3) does not apply if the document is available for inspection on the Greater London Authority’s website.
+
+  ;
+- (c) for paragraph (4), there were substituted—
+
+  > (4) A copy of the spatial development strategy made available for inspection under regulation 9(3)(c) must remain so available until the spatial development strategy is altered or replaced.
+
+  .
+
+### 17. Modification of regulation 12
+
+Regulation 12 (availability of the spatial development strategy) has effect as if it were omitted.
+
+### 18. Modification of the Schedule
+
+In the Schedule (prescribed forms), Form 3 (notice of publication of the spatial development strategy) has effect as if—
+
+- (a) in the second paragraph—
+  - (i) after “public inspection” there were inserted “on the Greater London Authority’s website”;
+  - (ii) “on (3)” were omitted;
+- (b) in the notes—
+  - (i) in note (2), for the words from “place” to “inspection” there were substituted “website address at which the spatial development strategy can be found”;
+  - (ii) note (3) were omitted.
+
+### 19. Transitional provision: availability of the published spatial development strategy
+
+(1) Paragraph (2) applies if the Mayor publishes a spatial development strategy under section 337(1) of the GLA Act during the relevant period.
+
+(2) After the end of the relevant period, regulation 12(1) has effect, in relation to that strategy, as if it required the Mayor to take the necessary action as soon as reasonably practicable after the end of the relevant period.
+
+(3) For the purposes of paragraph (2), the necessary action is action to secure that printed copies of the spatial development strategy are made available for inspection during normal office hours at the principal office of the Greater London Authority and, on payment of any reasonable fee required by the Mayor, for purchase.
+
+Signed by authority of the Secretary of State for the Environment, Transport and the Regions
+
+Keith Hill
+
+Parliamentary Under Secretary of State,
+
+Department of the Environment, Transport and the Regions
+
+## SCHEDULE — PRESCRIBED FORMS
+
+Regulation 7(4)
+
+### FORM 1: — NOTICE OF DEPOSIT OF A PROPOSED SPATIAL DEVELOPMENT STRATEGY
+
+#### Town and Country Planning Act 1990 — Greater London Authority Act 1999 — Notice of Deposit of \[a Proposed\]\[Replacement of the\]\[Proposed Alterations to the\]\* Spatial Development Strategy for Greater London — (Title of the spatial development strategy)
+
+The Mayor of London has prepared proposals for \[the \[alteration\]\[replacement\] of\]\* the spatial development strategy for Greater London.
+
+If these proposals are published they will set a strategic framework for planning in Greater London.
+
+Copies of the proposals are available for public inspection at (1) free of charge on (2).
+
+Representations on these proposals should be sent in writing to (3) before (4). The Mayor is not required to consider any representations received after that date.
+
+Further information is available from (5).
+
+*Notes:*
+
+\* Delete any text which is inapplicable.
+
+Insert:
+
+(1) the address of the places at which the documents are available for inspection;
+
+(2) the days on which, and the hours between which, the documents are available for inspection;
+
+(3) the name or title of the officer to whom representations should be sent and the address to which they are to be sent;
+
+(4) the date (at least twelve weeks from the date on which the notice is first published in a newspaper, or six weeks in the case of minor alterations) by which representations should be received;
+
+(5) any places where further information can be obtained.
+
+### FORM 2: — NOTICE OF DRAFT LIST OF MATTERS TO BE CONSIDERED AND PERSONS INVITED TO TAKE PART IN AN EXAMINATION IN PUBLIC INTO A PROPOSED SPATIAL DEVELOPMENT STRATEGY
+
+Regulation 8(2)
+
+#### Town and Country Planning Act 1990 — Greater London Authority Act 1999 — Notice of Draft List of Matters to be Considered and of Persons to be invited to take part in an Examination in Public into \[a Proposed\]\[Replacement of the\]\[Proposed Alterations to the\]\* Spatial Development Strategy for Greater London — (Title of the spatial development strategy)
+
+An examination in public is to be held at (1) from (2) to (3) into proposals for \[the \[alteration\]\[replacement\] of\*\] the spatial development strategy for Greater London prepared by the Mayor of London. If these proposals are published they will set a strategic framework for planning in Greater London.
+
+The examination in public is to be conducted by (4).
+
+A copy of the proposals and of all representations made to the Mayor about those proposals are available for public inspection at (5) free of charge on (6).
+
+A draft list both of the matters to be examined at the examination in public and of the persons who will be invited to take part is also available for inspection at those places and times.
+
+Any representations on the draft list should be sent in writing to (7) before (8).
+
+Any written submissions on the matters to be examined at the examination in public should be sent to (9) before (10).
+
+Further information is available from (11).
+
+*Notes:*
+
+\* Delete any text which is inapplicable.
+
+Insert:
+
+(1) the address where the examination in public is to be held;
+
+(2), (3) the dates of the examination in public;
+
+(4) the person or persons appointed by the Secretary of State to conduct the examination in public;
+
+(5) the places at which the documents are available for inspection;
+
+(6) the days on which, and the hours between which, the documents are available for inspection;
+
+(7) the name or title of the officer to whom representations should be sent and the address to which they are to be sent;
+
+(8) the date (28 days from the date on which the notice is first published in a newspaper) by which representations should be received;
+
+(9) the name or title of the officer to whom written submissions should be sent and the address to which they are to be sent;
+
+(10) the date (no later than 3 weeks before the opening of the examination in public) by which written submissions should be received.
+
+(11) any places where further information can be obtained.
+
+### FORM 3: — NOTICE OF PUBLICATION OF THE SPATIAL DEVELOPMENT STRATEGY
+
+Regulation 9(3)
+
+#### Town and Country Planning Act 1990 — Greater London Authority Act 1999 — Notice of Publication of \[alterations to\] \[the replacement of\]\* the Spatial Development Strategy for Greater London — (Title of the spatial development strategy)
+
+On (1) the Mayor of London published \[alterations to\] \[the replacement of\]\* the spatial development strategy for Greater London, which became operative on that date. The spatial development strategy sets a strategic framework for planning in Greater London.
+
+A copy of the spatial development strategy is available for public inspection at (2) free of charge on (3).
+
+*Notes:*
+
+\* Delete any text which is inapplicable.
+
+Insert:
+
+(1) the date of publication;
+
+(2) the place at which the spatial development strategy is available for inspection;
+
+(3) the days on which, and the hours between which, the spatial development strategy is available for inspection.
+
+### FORM 4: — NOTICE OF WITHDRAWAL OF THE SPATIAL DEVELOPMENT STRATEGY
+
+Regulation 10
+
+#### Town and Country Planning Act 1990 — Greater London Authority Act 1999 — Notice of Withdrawal of \[alterations to\] \[the replacement of\]\* the Spatial Development Strategy for Greater London — (Title of the spatial development strategy)
+
+On (1) the Mayor of London issued proposals for \[alterations to\] \[the replacement of\]\* the spatial development strategy for Greater London.
+
+On (2) the Mayor withdrew those proposals because (3).
+
+*Notes:*
+
+\* Delete any text which is inapplicable.
+
+Insert:
+
+(1) the date of publication;
+
+(2) the date of withdrawal;
+
+(3) the reasons why the Mayor withdrew the proposals.
+
+*(This note is not part of the Regulations)*
+
+These Regulations provide for certain matters relevant to the operation of Part VIII of the Greater London Authority Act 1999 (planning).
+
+Regulations 1 and 2 provide for preliminary matters, including citation and commencement (regulation 1) and interpretation (regulation 2).
+
+Part I of the Regulations provides for the form and content of the spatial development strategy. Requirements are specified for the title of the strategy (regulation 3), the content of the strategy (regulation 4) and diagrams in the strategy (regulation 5). Regulation 6 sets out certain matters to which the Mayor is required to have regard in formulating the strategy.
+
+Regulation 6(1) implements in part, in relation to town and country planning in England, Article 12 of Council Directive [96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082) (O.J. No. L10, 14.1.1997, p. 13) on the control of major-accident hazards involving dangerous substances. That Article is implemented in relation to town and country planning also by the Planning (Control of Major-Accident Hazards) Regulations 1999 (S.I. 1999/981) and the Town and Country Planning (Development Plan) (England) Regulations 1999 (S.I. 1999/3280).
+
+Part II of the Regulations sets out the procedures to be followed with regard to the spatial development strategy. Procedures are specified for public participation (regulation 7), examination in public (regulation 8), publication (regulation 9) and withdrawal of proposals (regulation 10).
+
+Part III of the Regulations provides for the availability of certain documents. Regulation 11 deals with the availability of certain documents prior to the publication or withdrawal of the proposed spatial development strategy and regulation 12 deals with the availability of the strategy after its publication.
+
+Part IV of the Regulations provides for the conformity and conflict of unitary development plans with the spatial development strategy. Regulation 13 specifies the manner in which an application should be made for the Mayor’s written opinion whether a unitary development plan is in general conformity with the spatial development plan and the period in which such an opinion shall be given.
+
+A regulatory impact assessment has been prepared and copies can be obtained from the Planning Division, Government Office for London, Riverwalk House, 157-161 Millbank, London SW1P 4RR. A copy has been placed in the library of each House of Parliament.
+
+## Annotations
+
+[^c16026691]: Marginal citation: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8). Section 26(2)(bb) was inserted by section 344(8) of the Greater London Authority Act 1999.
+
+[^c16026701]: Marginal citation: [1999 c.29](https://www.legislation.gov.uk/ukpga/1999/29). See section 335(8) for the definition of “the prescribed period" for the purposes of section 335, section 337(11) for the definition “the prescribed period" for the purposes of section 337 and section 350(1) for the definitions of “prescribed" and “regulations" for the purposes of Part VIII of the Act.
+
+[^c16026711]: Marginal citation: [Section 338(8)](https://www.legislation.gov.uk/uksi/2000/1491/section/338/8) of the Greater London Authority Act 1999 requires the Secretary of State to consult the Lord Chancellor before making regulations with respect to the precedure to be followed at an examination in public held under that section 338.
+
+[^key-d39f789fd8695372e2c3255236887729]: Textual amendment: Reg. 6(1)(a) substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/14) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+
+[^key-0d38428bbecbdeef7e2307495947a14a]: Textual amendment: Reg. 6(1)(b)(c) substituted (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [Sch. 5 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/627/schedule/5/paragraph/1/2/a) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
+
+[^key-05d1ce20caad9c799034e9eacb94e062]: Textual amendment: Words in [reg. 6(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2000/1491/regulation/6/1/c/iii) substituted (31.12.2020) by [The Planning (Hazardous Substances and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1234)](https://www.legislation.gov.uk/uksi/2018/1234), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1234/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/1234/regulation/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fe6fa9f6011397fef9c89a2aa9964346]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2000/1491/regulation/6/2) omitted (31.12.2020) by virtue of [The Planning (Hazardous Substances and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1234)](https://www.legislation.gov.uk/uksi/2018/1234), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1234/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/1234/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c16026741]: Marginal citation: [Section 13](https://www.legislation.gov.uk/uksi/2000/1491/section/13) (1A) was inserted by section 344(4) of the [Greater London Authority Act 1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29).
+
+[^key-2cd40b7630c9e13f1d91d4338535de22]: Textual amendment: Pt. 5 inserted (12.8.2020) by [The Town and Country Planning (Spatial Development Strategy) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/765)](https://www.legislation.gov.uk/uksi/2020/765), [regs. 1](https://www.legislation.gov.uk/uksi/2020/765/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/765/regulation/2)
+
+[^key-cc88aaae3cfa7fb2a426d049110369fb]: Textual amendment: Words in reg. 14(2) substituted (24.12.2020) by [The Town and Country Planning (Local Planning, Development Management Procedure, Listed Buildings etc.) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1398)](https://www.legislation.gov.uk/uksi/2020/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1398/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1398/regulation/2)

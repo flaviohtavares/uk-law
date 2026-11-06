@@ -1,0 +1,54 @@
+---
+title: Police Reform and Social Responsibility Act 2011, section 124
+act: Police Reform and Social Responsibility Act 2011
+section: '124'
+status: revised-with-pending-changes
+text_date: '2026-09-21'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2011/13/section/124
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police Reform and Social Responsibility Act 2011, section 124
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 124. Review of effect of amendments on licensing scheme[^key-0c16657440a7ffd359a82a269fa5a035]
+
+*Extent: E+W*
+
+(1) As soon as reasonably practicable after the end of the review period, the Secretary of State must—
+
+- (a) carry out a review of the following provisions of this Chapter—
+  - (i) section 103 (licensing authorities as responsible authorities),
+  - (ii) section 104 (Primary Care Trusts and Local Health Boards as responsible authorities),
+  - (iii) section 105 (premises licences: who may make relevant representations),
+  - (iv) section 106 (premises licenses: who may apply for review),
+  - (v) section 107 (club premises certificates: who may make relevant representations),
+  - (vi) section 108 (club premises certificates: who may apply for review),
+  - (vii) section 109 (reducing the burden: premises licences),
+  - (viii) section 110 (reducing the burden: club premises certificates),
+  - (ix) section 111 (reducing the burden: other situations),
+  - (x) section 112 (temporary event notices: who may make an objection),
+  - (xi) section 113 (temporary event notices: conditions),
+  - (xii) section 117 (temporary event notice: time for objection to notice),
+  - (xiii) section 119 (early morning alcohol restriction orders),
+  - (xiv) section 120 (suspension of licence or certificate for failing to pay annual fee),
+  - (xv) section 123 (personal licences: relevant offences), and
+- (b) set out the conclusions of the review in a report.
+
+(2) In particular, the review must assess the effect of the amendments made by those sections on the scheme established by the Licensing Act 2003.
+
+(3) The Secretary of State must lay a copy of the report before Parliament.
+
+(4) In this section, “**review period**” means the period of five years beginning with—
+
+- (a) if all of those sections commence on the same day, that day, and
+- (b) otherwise, the first day on which all of those sections have commenced.
+
+## Annotations
+
+[^key-0c16657440a7ffd359a82a269fa5a035]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2011/13/section/124) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

@@ -1,0 +1,152 @@
+---
+title: Finance Act 2016, section 21
+act: Finance Act 2016
+section: '21'
+status: revised-with-pending-changes
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2016/24/section/21
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2016, section 21
+
+> **Warning: changes not yet applied to this text (12).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/24
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 21. Dependants' scheme pensions
+
+*Extent: E+W+S+N.I.*
+
+(1) Part 2 of Schedule 28 to Part 4 of FA 2004 (pension death benefit rules) is amended as follows.
+
+(2) In paragraph 16A (dependants' scheme pension: when limits in paragraphs 16B and 16C apply), after sub-paragraph (1) insert—
+
+> (1A) Sub-paragraph (1) is subject to paragraphs 16AA and 16AB.
+
+(3) After paragraph 16A insert—
+
+> **16AA.**
+>
+> Paragraphs 16B and 16C do not apply if—
+>
+> - (a) each benefit crystallisation event that has occurred in relation to the member by reference to arrangements relating to the member under the scheme is benefit crystallisation event 5B (having unused funds under a money purchase arrangement at age 75), or
+> - (b) paragraph 12 of Schedule 36 (enhanced protection by reference to pre-6 April 2006 rights) applies in the case of the member immediately before the member's death.
+>
+> **16AB.**
+>
+> (1) Paragraph 16B does not apply if, at all times in the post-death year (as defined in that paragraph), the payable annual rate is less than the limit.
+>
+> (2) Paragraph 16C does not apply in relation to a period of 12 months within paragraph (a) or (b) of paragraph 16C(1) if, at all times in that period of 12 months, the payable annual rate is less than the limit.
+>
+> (3) “The payable annual rate”, at any time, is arrived at as follows—
+>
+> - (a) identify each dependants' scheme pension payable in respect of the member under the scheme to which a dependant of the member is actually entitled at that time, and
+> - (b) identify the annual rate at which each pension identified at paragraph (a) is payable at that time, and
+> - (c) if only one pension is identified at paragraph (a), the payable annual rate is the annual rate identified at paragraph (b), and
+> - (d) if two or more pensions are identified at paragraph (a), the payable annual rate is the total of the annual rates identified at paragraph (b).
+>
+> (4) “The limit”, at any time, is—
+>
+> - (a) the general limit at that time (see paragraph 16AC), or,
+> - (b) if higher, the personal limit at that time (see paragraph 16AD).
+>
+> **16AC.**
+>
+> (1) This paragraph applies for the purposes of paragraph 16AB(4).
+>
+> (2) “The general limit” at a time in the tax year 2016-17 is £25,000.
+>
+> (3) “The general limit” at a time in a later tax year (“year T”)—
+>
+> - (a) is given by—
+>
+>   [formula: see source](https://www.legislation.gov.uk/ukpga/2016/24)
+>
+>   where G is the general limit at times in the tax year (“year P”) that precedes year T, or
+> - (b) if the amount given by paragraph (a) is not a multiple of £100, is that amount rounded up to the nearest amount that is such a multiple.
+>
+> (4) See paragraph 16AE for the meaning of U%.
+>
+> **16AD.**
+>
+> (1) This paragraph applies for the purposes of paragraph 16AB(4).
+>
+> (2) “The personal limit” at a time in the tax year in which the member dies is arrived at as follows—
+>
+> - (a) identify each scheme pension under the scheme to which the member is actually or prospectively entitled immediately before the member's death, and
+> - (b) as regards each pension identified at paragraph (a)—
+>   - (i) if it is one to which the member is actually entitled immediately before the member's death, identify the annual rate at which it is payable immediately before the member's death, or
+>   - (ii) if it is one to which the member is prospectively entitled immediately before the member's death, identify the annual rate at which it would have been payable immediately before the member's death had the member been actually entitled to it immediately before the member's death, and
+> - (c) if only one pension is identified at paragraph (a), the personal limit is the annual rate identified at paragraph (b), and
+> - (d) if two or more pensions are identified at paragraph (a), the personal limit is the total of the annual rates identified at paragraph (b).
+>
+> (3) “The personal limit” at a time in a tax year (“year S”) later than the tax year in which the member dies—
+>
+> - (a) is given by—
+>
+>   [formula: see source](https://www.legislation.gov.uk/ukpga/2016/24)
+>
+>   where L is the personal limit at times in the tax year (“year P”) that precedes year S, or
+> - (b) if the amount given by paragraph (a) is not a multiple of £100, is that amount rounded up to the nearest amount that is such a multiple.
+>
+> (4) See paragraph 16AE for the meaning of U%.
+>
+> (5) If the scheme is a public service pension scheme, ignore any abatement when identifying at sub-paragraph (2)(b) the annual rate of any scheme pension under the scheme.
+>
+> **16AE.**
+>
+> (1) In paragraphs 16AC(3) and 16AD(3), U% means the highest of—
+>
+> - (a) 5%,
+> - (b) CPI% (see sub-paragraph (2)), and
+> - (c) RPI% (see sub-paragraph (3)).
+>
+> (2) If the consumer prices index for September in year P is higher than the consumer prices index for September in the tax year preceding year P, CPI% is the percentage increase in the index (but is otherwise 0%).
+>
+> (3) If the retail prices index for September in year P is higher than the retail prices index for September in the tax year preceding year P, RPI% is the percentage increase in the index (but is otherwise 0%).
+>
+> (4) In this paragraph “**year P**” has the same meaning as in paragraph 16AC or (as the case may be) paragraph 16AD.
+
+(4) In paragraph 16B (limit in post-death year)—
+
+- (a) in sub-paragraph (3)(c), for “amounts” substitute “ uprated amounts (see sub-paragraph (6)) ”, and
+- (b) after sub-paragraph (5) insert—
+
+  > (6) The “uprated amount” of a lump sum is the amount of the lump sum increased by the higher of C% and R%, where—
+  >
+  > - (a) if the consumer prices index for the month in which the member dies is higher than it was for the month in which the member became entitled to the lump sum, C% is the percentage increase in the index (but is otherwise 0%), and
+  > - (b) if the retail prices index for the month in which the member dies is higher than it was for the month in which the member became entitled to the lump sum, R% is the percentage increase in the index (but is otherwise 0%).
+
+(5) In paragraph 16C (limit in subsequent years)—
+
+- (a) in sub-paragraph (3)(a), omit “period of”,
+- (b) in sub-paragraph (3)(b), for “subsection” substitute “ sub-paragraph ”,
+- (c) for sub-paragraphs (4) and (5) substitute—
+
+  > (4) The condition is that if the annual rate of a pension payable under the pension scheme to a dependant of the member is increased at any time in the period of 12 months in question—
+  >
+  > - (a) the dependant is at that time one of a group of at least 20 pensioner members of the pension scheme, and
+  > - (b) all the pensions being paid under the pension scheme to pensioner members of that group are at that time increased at the same rate.
+
+  ,
+- (d) in sub-paragraph (6)—
+  - (i) for “month period” substitute “ months ”, and
+  - (ii) for the words after “increased by” substitute “ the permitted margin. ”,
+- (e) in sub-paragraph (8)(a), for “end of the post-death year” substitute “ member's death ”,
+- (f) in sub-paragraph (8)(b), after “first month” insert “ ending after the start ”,
+- (g) in sub-paragraph (11), for “opening month” substitute “ month in which the member died ”, and
+- (h) omit sub-paragraphs (13) and (14).
+
+(6) The amendments made by this section are treated as having come into force on 6 April 2016.
+
+(7) The amendments made by subsections (2) to (4), so far as they relate to paragraph 16B of Schedule 28 to FA 2004, have effect where the last day of “the post-death year” (see sub-paragraph (1) of that paragraph) is 6 April 2016 or any later day.
+
+(8) The following amendments—
+
+- (a) the amendments made by subsections (2) to (4), so far as they relate to paragraph 16C of Schedule 28 to FA 2004, and
+- (b) the amendments made by subsection (5),
+
+have effect where the last day of “the 12 months in question” (see sub-paragraph (1) of that paragraph) is 6 April 2016 or any later day.

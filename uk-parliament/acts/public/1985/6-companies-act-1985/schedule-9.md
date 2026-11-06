@@ -1,0 +1,1816 @@
+---
+title: Companies Act 1985, SCHEDULE 9
+act: Companies Act 1985
+section: schedule-9
+status: revised-with-pending-changes
+text_date: '2026-04-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1985/6/schedule/9
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies Act 1985, SCHEDULE 9
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/6
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## SCHEDULE 9[^c19733611][^c19733611]
+
+*Extent: E+W+S+N.I.*
+
+### 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c17429861]
+
+*Extent: E+W+S*
+
+**May not be in force at this date. Check the source.**
+
+### Part I — Form and Content of Accounts[^c18006121][^c17429871]
+
+*Extent: E+W+S*
+
+**May not be in force at this date. Check the source.**
+
+#### Supplementary provisions[^c18006201][^c17430111]
+
+##### 18A.[^c18006531]
+
+(1) Accounting policies shall be applied consistently within the same accounts and from one financial year to the next.
+
+(2) If it appears to the directors of a company that there are special reasons for departing from the principle stated in sub-paragraph (1) in preparing the company’s accounts in respect of any financial year, they may do so; but particulars of the departure, the reasons for it and its effect shall be given in a note to the accounts.
+
+##### 18B.[^c18006541]
+
+It shall be stated whether the accounts have been prepared in accordance with applicable accounting standards, and particulars of any material departure from those standards and the reasons for it shall be given.
+
+##### 18C.[^c18006551]
+
+(1) In respect of every item shown in the balance sheet or profit and loss account, or stated in a note to the accounts, there shall be shown or stated the corresponding amount for the financial year immediately preceding that to which the accounts relate, subject to sub-paragraph (3).
+
+(2) Where the corresponding amount is not comparable, it shall be adjusted and particulars of the adjustment and the reasons for it shall be given in a note to the accounts.
+
+(3) Sub-paragraph (1) does not apply in relation to an amount shown—
+
+- (a) as an amount the source or application of which is required by paragraph 8 above (reserves and provisions),
+- (b) in pursuance of paragraph 13(10) above (acquisitions and disposals of fixed assets),
+- (c) by virtue of paragraph 13 of Schedule 4A (details of accounting treatment of acquisitions),
+- (d) by virtue of paragraph 2, 8(3), 16, 21(1)(d), 22(4) or (5), 24(3) or (4) or 27(3) or (4) of Schedule 5 (shareholdings in other undertakings), or
+- (e) by virtue of Part II or III of Schedule 6 (loans and other dealings in favour of directors and others).
+
+### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c18006131][^c17430121]
+
+*Extent: E+W+S*
+
+**May not be in force at this date. Check the source.**
+
+### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c18006141][^c17430231]
+
+*Extent: E+W+S*
+
+**May not be in force at this date. Check the source.**
+
+#### Exceptions for certain companies[^c17430241]
+
+##### 28A.[^c18006621][^c17430331]
+
+Where a company is entitled to, and has availed itself of, any of the provisions of paragraph 27 or 28 of this Schedule, section 235(2) only requires the auditors to state whether in their opinion the accounts have been properly prepared in accordance with this Act.
+
+### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c18006151][^c17430351]
+
+*Extent: E+W+S*
+
+**May not be in force at this date. Check the source.**
+
+### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c18006161][^c17430371]
+
+*Extent: E+W+S*
+
+**May not be in force at this date. Check the source.**
+
+### Part II — Accounts of Banking or Insurance Group[^c18006331][^c17430431]
+
+*Extent: E+W+S*
+
+**May not be in force at this date. Check the source.**
+
+### PART I — INDIVIDUAL ACCOUNTS[^c18008941][^c19320711][^c18007581]
+
+**No longer in force (ended 2008-04-06).**
+
+#### CHAPTER 1 — GENERAL RULES AND FORMATS
+
+##### SECTION A — GENERAL RULES
+
+*Extent: E+W+S*
+
+###### 4.
+
+(1) In respect of every item shown in the balance sheet or profit and loss account, there shall be shown or stated the corresponding amount for the financial year immediately preceding that to which the accounts relate.
+
+(2) Where the corresponding amount is not comparable with the amount to be shown for the item in question in respect of the financial year to which the balance sheet or profit and loss account relates, the former amount may be adjusted[^c19427721] and particulars of the non-comparability and of any adjustment[^c19427741] shall be given in a note to the accounts.
+
+(3) Paragraph 3(4) does not apply in any case where an amount can be shown for the item in question in respect of the financial year immediately preceding that to which the balance sheet or profit and loss account relates, and that amount shall be shown under the heading or sub-heading required by paragraph 1 for that item.
+
+###### 5.
+
+(1) Subject to the following provisions of this paragraph and without prejudice to note (6) to the balance sheet format, amounts in respect of items representing assets or income may not be set off against amounts in respect of items representing liabilities or expenditure (as the case may be), or vice versa.
+
+(2) Charges required to be included in profit and loss account format 1, items 11(a) and 11(b) or format 2, items A7(a) and A7(b) may however be set off against income required to be included in format 1, items 12(a) and 12(b) or format 2, items B5(a) and B5(b) and the resulting figure shown as a single item (in format 2 at position A7 if negative and at position B5 if positive).
+
+(3) Charges required to be included in profit and loss account format 1, item 13 or format 2, item A8 may also be set off against income required to be included in format 1, item 14 or format 2, item B6 and the resulting figure shown as a single item (in format 2 at position A8 if negative and at position B6 if positive).
+
+###### 6.
+
+(1) Assets shall be shown under the relevant balance sheet headings even where the company has pledged them as security for its own liabilities or for those of third parties or has otherwise assigned them as security to third parties.
+
+(2) A company shall not include in its balance sheet assets pledged or otherwise assigned to it as security unless such assets are in the form of cash in the hands of the company.
+
+###### 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c19322551]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+###### 8A.
+
+The directors of a company must, in determining how amounts are presented within items in the profit and loss account and balance sheet, have regard to the substance of the reported transaction or arrangement, in accordance with generally accepted accounting principles or practice.
+
+##### SECTION B — THE REQUIRED FORMATS FOR ACCOUNTS
+
+###### Preliminary
+
+*Extent: E+W+S*
+
+###### 9.
+
+(1) References in this Part of this Schedule to the balance sheet format or to profit and loss account formats are to the balance sheet format or profit and loss account formats set out below and references to the items listed in any of the formats are to those items read together with any of the notes following the formats which apply to any of those items.
+
+(2) The requirement imposed by paragraph 1 of this Part of this Schedule to show the items listed in any such format in the order adopted in the format is subject to any provision in the notes following the formats for alternative positions for any particular items.
+
+###### 10.
+
+A number in brackets following any item in any of the formats set out below is a reference to the note of that number in the notes following the formats
+
+###### Balance Sheet Format
+
+*Extent: E+W+S*
+
+ASSETS
+
+1\. Cash and balances at central \[or post office\] banks*(1)*
+
+2\. Treasury bills and other eligible bills*(20)*
+
+- (a) Treasury bills and similar securities*(2)*
+- (b) Other eligible bills*(3)*
+
+3\. Loans and advances to banks*(4),(20)*
+
+- (a) Repayable on demand
+- (b) Other loans and advances
+
+4\. Loans and advances to customers*(5),(20)*
+
+5\. Debt securities \[and other fixed income securities\]*(6),(20)*
+
+- (a) Issued by public bodies
+- (b) Issued by other issuers
+
+7\. Participation interests.
+
+8\. Shares in group undertakings.
+
+9\. Intangible fixed assets*(7)*
+
+10\. Tangible fixed assets*(8)*
+
+11\. Called up capital not paid*(9)*
+
+12\. Own shares*(10)*
+
+13\. Other assets.
+
+14\. Called up capital not paid*(9)*
+
+15\. Prepayments and accrued income
+
+Total assets
+
+LIABILITIES
+
+1.Deposits by banks*(11),(20)*
+
+- (a) Repayable on demand
+- (b) With agreed maturity dates or periods of notice
+
+2\. Customer accounts *(12) (20)*
+
+- (a) Repayable on demand
+- (b) With agreed maturity dates or periods of notice
+
+3\. Dept securities in issue*(13),(20)*
+
+- (a) Bonds and medium term notes
+- (b) Others
+
+4\. Other liabilities
+
+5\. Accruals and deferred income
+
+6\. Provisions for liabilities[^c19430841]
+
+- (a) Provisions for pensions and similar obligations
+- (b) Provisions for tax
+- (c) Other provisions
+
+7\. Subordinated*(14),(20)*
+
+8\. Called up sharer capital*(15)*
+
+9\. Share premium account
+
+10\. Reserves
+
+- (a) Capital redemption reserve
+- (b) Reserve for own shares
+- (c) Reserves provided for by the articles of association
+- (d) Other reserves
+
+11\. Revaluation reserve
+
+12\. Profit and loss account
+
+Total liabilities
+
+MEMORANDUM ITEMS
+
+1\. Contingent liabilities*(16)*
+
+- (1) Acceptances and endorsements
+- (2) Guarantees and assets pledged as collateral security (17)
+- (3) Other contingent liabilities
+
+2\. Commitments*(18)*
+
+- (1) Commitments arising out of sale and option to resell transactions (19)
+- (2) Other commitments
+
+###### Notes on the balance sheet format and memorandum items
+
+(1) *Cash and balances at central \[or post office\] banks*
+
+(Assets item 1)
+
+Cash shall comprise all currency including foreign notes and coins.
+
+Only those balances which may be withdrawn without notice and which are deposited with central or post office banks of the country or countries in which the company is established shall be included in this item. All other claims on central or post office banks must be shown under Assets items 3 or 4.
+
+(2) *Treasury bills and other eligible bills: Treasury bills and similar securities*
+
+(Assets item 2(a))
+
+Treasury bills and similar securities shall comprise treasury bills and similar debt instruments issued by public bodies which are eligible for refinancing with central banks of the country or countries in which the company is established. Any treasury bills or similar debt instruments not so eligible shall be included under Assets item 5, sub-item (a).
+
+(3) *Treasury bills and other eligible bills: Other eligible bills*
+
+(Assets item 2(b))
+
+Other eligible bills shall comprise all bills purchased to the extent that they are eligible, under national law, for refinancing with the central banks of the country or countries in which the company is established.
+
+(4) *Loans and advances to banks*
+
+(Assets item 3)
+
+Loans and advances to banks shall comprise all loans and advances to domestic or foreign credit institutions made by the company arising out of banking transactions. However loans and advances to credit institutions represented by debt securities or other fixed income securities shall be included under Assets item 5 and not this item.
+
+(5) *Loans and advances to customers*
+
+(Assets item 4)
+
+Loans and advances to customers shall comprise all types of assets in the form of claims on domestic and foreign customers other than credit institutions. However loans and advances represented by debt securities or other fixed income securities shall be included under Assets item 5 and not this item.
+
+(6) *Debt securities \[and other fixed income securities\]*
+
+(Assets item 5)
+
+This item shall comprise transferable debt securities and any other transferable fixed income securities issued by credit institutions, other undertakings or public bodies. Debt securities and other fixed income securities issued by public bodies shall however only be included in this item if they may not be shown under Assets item 2.
+
+Where a company holds its own debt securities these shall not be included under this item but shall be deducted from Liabilities item 3(a) or (b), as appropriate.
+
+Securities bearing interest rates that vary in accordance with specific factors, for example the interest rate on the inter-bank market or on the Euromarket, shall also be regarded as fixed income securities to be included under this item.
+
+(7) *Intangible fixed assets*
+
+(Assets item 9)
+
+This item shall comprise:
+
+- (a) development costs;
+- (b) concessions, patents, licences, trade marks and similar rights and assets;
+- (c) goodwill; and
+- (d) payments on account.
+
+Amounts shall, however, be included in respect of (b) only if the assets were acquired for valuable consideration or the assets in question were created by the company itself.
+
+Amounts representing goodwill shall only be included to the extent that the goodwill was acquired for valuable consideration.
+
+There shall be disclosed, in a note to the accounts, the amount of any goodwill included in this item.
+
+(8) *Tangible fixed assets*
+
+(Assets item 10)
+
+This item shall comprise:
+
+– land and buildings;
+
+– plant and machinery;
+
+– fixtures and fittings, tools and equipment; and
+
+– payments on account and assets in the course of construction.
+
+There shall be disclosed in a note to the accounts the amount included in this item with respect to land and buildings occupied by the company for its own activities.
+
+(9) *Called up capital not paid*
+
+(Assets items 11 and 14)
+
+The two positions shown for this item are alternatives.
+
+(10) *Own shares*
+
+(Assets item 12)
+
+The nominal value of the shares held shall be shown separately under this item.
+
+(11) *Deposits by banks*
+
+(Liabilities item 1)
+
+Deposits by banks shall comprise all amounts arising out of banking transactions owed to other domestic or foreign credit institutions by the company. However liabilities in the form of debt securities and any liabilities for which transferable certificates have been issued shall be included under Liabilities item 3 and not this item.
+
+(12) *Customer accounts*
+
+(Liabilities item 2)
+
+This item shall comprise all amounts owed to creditors that are not credit institutions. However liabilities in the form of debt securities and any liabilities for which transferable certificates have been issued shall be shown under Liabilities item 3 and not this item.
+
+(13) *Debt securities in issue*
+
+(Liabilities item 3)
+
+This item shall include both debt securities and debts for which transferable certificates have been issued, including liabilities arising out of own acceptances and promissory notes. (Only acceptances which a company has issued for its own refinancing and in respect of which it is the first party liable shall be treated as own acceptances.)
+
+(14) *Subordinated liabilities*
+
+(Liabilities item 7)
+
+This item shall comprise all liabilities in respect of which there is a contractual obligation that, in the event of winding up or bankruptcy, they are to be repaid only after the claims of other creditors have been met.
+
+This item shall include all subordinated liabilities, whether or not a ranking has been agreed between the subordinated creditors concerned.
+
+(15) *Called up share capital*
+
+(Liabilities item 8)
+
+The amount of allotted share capital and the amount of called up share capital which has been paid up shall be shown separately.
+
+(16) *Contingent liabilities*
+
+(Memorandum item 1)
+
+This item shall include all transactions whereby the company has underwritten the obligations of a third party.
+
+Liabilities arising out of the endorsement of rediscounted bills shall be included in this item. Acceptances other than own acceptances shall also be included.
+
+(17) *Contingent liabilities: Guarantees and assets pledged as collateral security*
+
+(Memorandum item 1(2))
+
+This item shall include all guarantee obligations incurred and assets pledged as collateral security on behalf of third parties, particularly in respect of sureties and irrevocable letters of credit.
+
+(18) *Commitments*
+
+(Memorandum item 2)
+
+This item shall include every irrevocable commitment which could give rise to a credit risk.
+
+(19) *Commitments: Commitments arising out of sale and option to resell transactions*
+
+(Memorandum item 2(1))
+
+This sub-item shall comprise commitments entered into by the company in the context of sale and option to resell transactions.
+
+(20) *Claims on, and liabilities to, undertakings in which a participating interest is held or group undertakings*
+
+(Assets items 2 to 5, Liabilities items 1 to 3 and 7)
+
+- The following information must be given either by way of subdivision of the relevant items or by way of notes to the accounts.
+- The amount of the following must be shown for each of Assets items 2 to 5:
+  - (a) claims on group undertakings included therein; and
+  - (b) claims on undertakings in which the company has a participating interest included therein.
+- The amount of the following must be shown for each of Liabilities items 1, 2, 3 and 7:
+  - (i) liabilities to group undertakings included therein; and
+  - (ii) liabilities to undertakings in which the company has a participating interest included therein.
+
+###### Special rules
+
+*Extent: E+W+S*
+
+###### 11. Subordinated assets
+
+(1) The amount of any assets that are subordinated must be shown either as a subdivision of any relevant asset item or in the notes to the accounts; in the latter case disclosure shall be by reference to the relevant asset item or items in which the assets are included.
+
+(2) In the case of Assets items 2 to 5 in the balance sheet format, the amounts required to be shown by note (20) to the format as sub-items of those items shall be further subdivided so as to show the amount of any claims included therein that are subordinated.
+
+(3) For this purpose, assets are subordinated if there is a contractual obligation to the effect that, in the event of winding up or bankruptcy, they are to be repaid only after the claims of other creditors have been met, whether or not a ranking has been agreed between the subordinated creditors concerned.
+
+###### 12. Syndicated loans
+
+(1) Where a company is a party to a syndicated loan transaction the company shall include only that part of the total loan which it itself has funded.
+
+(2) Where a company is a party to a syndicated loan transaction and has agreed to reimburse (in whole or in part) any other party to the syndicate any funds advanced by that party or any interest thereon upon the occurrence of any event, including the default of the borrower, any additional liability by reason of such a guarantee shall be included as a contingent liability in Memorandum item 1, sub-item (2).
+
+###### 13. Sale and repurchase transactions
+
+(1) The following rules apply where a company is a party to a sale and repurchase transaction.
+
+(2) Where the company is the transferor of the assets under the transaction:
+
+- (a) the assets transferred shall, notwithstanding the transfer, be included in its balance sheet;
+- (b) the purchase price received by it shall be included in its balance sheet as an amount owed to the transferee; and
+- (c) the value of the assets transferred shall be disclosed in a note to its accounts.
+
+(3) Where the company is the transferee of the assets under the transaction it shall not include the assets transferred in its balance sheet but the purchase price paid by it to the transferor shall be so included as an amount owed by the transferor.
+
+###### 14. Sale and option to resell transactions
+
+(1) The following rules apply where a company is a party to a sale and option to resell transaction.
+
+(2) Where the company is the transferor of the assets under the transaction it shall not include in its balance sheet the assets transferred but it shall enter under Memorandum item 2 an amount equal to the price agreed in the event of repurchase.
+
+(3) Where the company is the transferee of the assets under the transaction it shall include those assets in its balance sheet.
+
+###### 15. Managed funds
+
+(1) For the purposes of this paragraph “managed funds” are funds which the company administers in its own name but on behalf of others and to which it has legal title.
+
+(2) The company shall, in any case where claims and obligations arising in respect of managed funds fall to be treated as claims and obligations of the company, adopt the following accounting treatment: claims and obligations representing managed funds are to be included in the company’s balance sheet, with the notes to the accounts disclosing the total amount included with respect to such assets and liabilities in the balance sheet and showing the amount included under each relevant balance sheet item in respect of such assets or (as the case may be) liabilities.
+
+###### Profit and Loss Account Formats
+
+*Extent: E+W+S*
+
+###### FORMAT 1
+
+###### Vertical layout
+
+1.Interest receivable*(1)*
+
+(1) Interest receivable and similar income arising from debt securities \[and other fixed income securities\]
+
+(2) Other interest receivable and similar income
+
+2\. Interest payable*(2)*
+
+3\. Dividend income
+
+- (a) Income from equity shares \[and other variable-yield securities\]
+- (b) Income from participating interests
+- (c) Income from shares in group undertakings
+
+4\. Fees and commissions receivable*(3)*
+
+5\. Fees and commissions payable*(4)*
+
+6\. Dealing \[profits\]\[losses\]*(5)*
+
+7\. Other operating income
+
+8.Administrative expenses
+
+- (a) Staff costs
+  - (i) Wages and salaries
+  - (ii) Social security costs
+  - (iii) Other pension costs
+- (b) Other administrative expenses
+
+9\. Depreciation and amortisation*(6)*
+
+10\. Other operating charges
+
+11\. Provisions
+
+- (a) Provisions for bad and doubtful debts*(7)*
+- (b) Provisions for contingent liabilities and commitments*(8)*
+
+12\. Adjustments to provisions
+
+- (a) Adjustments to provisions for bad and doubtful debts*(9)*
+- (b) Adjustments to provisions for contingent liabilities and commitments*(10)*
+
+13\. Amounts written off fixed asset investments*(11)*
+
+14\. Adjustments to amounts written off fixed asset investments*(12)*
+
+15.\[Profit\] \[loss\] on ordinary activities before tax
+
+16\. Tax on \[profit\] \[loss\] on ordinary activities
+
+17 \[Profit\] \[loss\] on ordinary activities after tax
+
+18 Extraordinary income
+
+19\. Extraordinary charges
+
+20\. Extraordinary \[profit\] \[loss\]
+
+21.Tax on extraordinary \[profit\] \[loss\]
+
+22\. Extraordinary \[profit\] \[loss\] after tax
+
+23 Other taxes not shown under the preceding items
+
+24\. \[Profit\] \[loss\] for the financial yearSchedule 1Part I
+
+###### FORMAT 2
+
+*Extent: E+W+S*
+
+###### Horizontal layout
+
+1\. Interest payable*(2 )*
+
+2.. Fees and commissions payable*(4)*
+
+3\. Dealing losses*(5)*
+
+4\. Administrative expenses
+
+- (a) Staff costs
+  - (i) Wages and salaries
+  - (ii) Social security costs
+  - (iii) Other pension costs
+- (b) Other administrative expenses
+
+5\. Depreciation and amortisation*(6)*
+
+6\. Other oopserating charges
+
+7\. Provisions
+
+- (a) Provisions for bad and doubtful debts*(7)*
+- (b) Provisions for contingent liabilities and commitments*(8)*
+
+8\. Amounts written off fixed asset investments*(11)*
+
+9\. Profit on ordinary activities before tax
+
+10\. Tax on \[profit\] \[loss\] on ordinary activities
+
+11.Profit on ordinary activities after tax
+
+12\. Extraordinary charges
+
+13\. Tax on extraordinary \[profit\] \[loss\]
+
+14\. xtraordinary loss after tax
+
+15\. Other taxes not shown under the preceding items
+
+16\. Profit for the financial year
+
+###### A. Charges
+
+1\. Interest payable*(2 )*
+
+2.. Fees and commissions payable*(4)*
+
+3\. Dealing losses*(5)*
+
+4\. Administrative expenses
+
+- (a) Staff costs
+  - (i) Wages and salaries
+  - (ii) Social security costs
+  - (iii) Other pension costs
+- (b) Other administrative expenses
+
+5\. Depreciation and amortisation*(6)*
+
+6\. Other oopserating charges
+
+7\. Provisions
+
+- (a) Provisions for bad and doubtful debts*(7)*
+- (b) Provisions for contingent liabilities and commitments*(8)*
+
+8\. Amounts written off fixed asset investments*(11)*
+
+9\. Profit on ordinary activities before tax
+
+10\. Tax on \[profit\] \[loss\] on ordinary activities
+
+11.Profit on ordinary activities after tax
+
+12\. Extraordinary charges
+
+13\. Tax on extraordinary \[profit\] \[loss\]
+
+14\. xtraordinary loss after tax
+
+15\. Other taxes not shown under the preceding items
+
+16\. Profit for the financial year
+
+###### Notes on the profit and loss account formats
+
+*Extent: E+W+S*
+
+- (1) *Interest receivable*
+
+  (Format 1, item 1; Format 2, item B1)
+
+  This item shall include all income arising out of banking activities, including:
+
+  - (a) income from assets included in Assets items 1 to 5 in the balance sheet format, however calculated;
+  - (b) income resulting from covered forward contracts spread over the actual duration of the contract and similar in nature to interest; and
+  - (c) fees and commissions receivable similar in nature to interest and calculated on a time basis or by reference to the amount of the claim (but not other fees and commissions receivable).
+- (2) *Interest payable*
+
+  (Format 1, item 2; Format 2, item A1)
+
+  This item shall include all expenditure arising out of banking activities, including:
+
+  - (a) charges arising out of liabilities included in Liabilities items 1, 2, 3 and 7 in the balance sheet format, however calculated;
+  - (b) charges resulting from covered forward contracts, spread over the actual duration of the contract and similar in nature to interest; and
+  - (c) fees and commissions payable similar in nature to interest and calculated on a time basis or by reference to the amount of the liability (but not other fees and commissions payable).
+- (3) *Fees and commissions receivable*
+
+  (Format 1, item 4; Format 2, item B3)
+
+  Fees and commissions receivable shall comprise income in respect of all services supplied by the company to third parties, but not fees or commissions required to be included under interest receivable (Format 1, item 1; Format 2, item B1).
+
+- In particular the following fees and commissions receivable must be included (unless required to be included under interest receivable):
+- – fees and commissions for guarantees, loan administration on behalf of other lenders and securities transactions;
+- – fees, commissions and other income in respect of payment transactions, account administra tion charges and commissions for the safe custody and administration of securities;
+- – fees and commissions for foreign currency transactions and for the sale and purchase of coin and precious metals; and
+- – fees and commissions charged for brokerage services in connection with savings and insurance contracts and loans.
+
+- (4) *Fees and commissions payable*
+
+  (Format 1, item 5; Format 2, item A2)
+
+  Fees and commissions payable shall comprise charges for all services rendered to the company by third parties but not fees or commissions required to be included under interest payable (Format 1, item 2; Format 2, item A1).
+
+- In particular the following fees and commissions payable must be included (unless required to be included under interest payable):
+- – fees and commissions for guarantees, loan administration and securities transactions;
+- – fees, commissions and other charges in respect of payment transactions, account administra tion charges and commissions for the safe custody and administration of securities;
+- – fees and commissions for foreign currency transactions and for the sale and purchase of coin and precious metals; and
+- – fees and commissions for brokerage services in connection with savings and insurance contracts and loans.
+
+- (5) *Dealing \[profits\] \[losses\]*
+
+  (Format 1, item 6; Format 2, items B4 and A3)
+
+  This item shall comprise:
+
+  - (a) the net profit or net loss on transactions in securities which are not held as financial fixed assets together with amounts written off or written back with respect to such securities, including amounts written off or written back as a result of the application of paragraph 34(1) below;
+  - (b) the net profit or loss on exchange activities, save in so far as the profit or loss is included in interest receivable or interest payable (Format 1, items 1 or 2; Format 2, items B1 or A1); and
+  - (c) the net profits and losses on other dealing operations involving financial instruments, including precious metals.
+- (6) *Depreciation and amortisation*
+
+  (Format 1, item 9; Format 2, item A5)
+
+  This item shall comprise depreciation and other amounts written off in respect of balance sheet Assets items 9 and 10.
+- (7) *Provisions: Provisions for bad and doubtful debts*
+
+  (Format 1, item 11(a); Format 2, item A7(a))
+
+  Provisions for bad and doubtful debts shall comprise charges for amounts written off and for provisions made in respect of loans and advances shown under balance sheet Assets items 3 and 4.
+- (8) *Provisions: Provisions for contingent liabilities and commitments*
+
+  (Format 1, item 11(b); Format 2, item A7(b))
+
+  This item shall comprise charges for provisions for contingent liabilities and commitments of a type which would, if not provided for, be shown under Memorandum items 1 and 2.
+- (9) *Adjustments to provisions: Adjustments to provisions for bad and doubtful debts*
+
+  (Format 1, item 12(a); Format 2, item B5(a))
+
+  This item shall include credits from the recovery of loans that have been written off, from other advances written back following earlier write offs and from the reduction of provisions previously made with respect to loans and advances.
+- (10) *Adjustments to provisions: Adjustments to provisions for contingent liabilities and commit ments*
+
+  (Format 1, item 12(b); Format 2, item B5(b))
+
+  This item comprises credits from the reduction of provisions previously made with respect to contingent liabilities and commitments.
+- (11) *Amounts written off fixed asset investments*
+
+  (Format 1, item 13; Format 2, item A8)
+
+  Amounts written off fixed asset investments shall comprise amounts written off in respect of assets which are transferable securities held as financial fixed assets, participating interests and shares in group undertakings and which are included in Assets items 5 to 8 in the balance sheet format.
+- (12) *Adjustments to amounts written off fixed asset investments*
+
+  (Format 1, item 14; Format 2, item B6)
+
+  Adjustments to amounts written off fixed asset investments shall include amounts written back following earlier write offs and provisions in respect of assets which are transferable securities held as financial fixed assets, participating interests and group undertakings and which are included in Assets items 5 to 8 in the balance sheet format.
+
+#### CHAPTER II — ACCOUNTING PRINCIPLES AND RULES
+
+*Extent: E+W+S*
+
+##### SECTION A — ACCOUNTING PRINCIPLES
+
+###### 16.
+
+Subject to paragraph 22 below, the amounts to be included in respect of all items shown in a company’s accounts shall be determined in accordance with the principles set out in paragraphs 17 to 21.
+
+###### Accounting principles
+
+###### 17.
+
+The company shall be presumed to be carrying on business as a going concern.
+
+###### 18.
+
+Accounting policies shall be applied consistently within the same accounts and from one financial year to the next.
+
+###### 19.
+
+The amount of any item shall be determined on a prudent basis, and in particular:
+
+- (a) only profits realised at the balance sheet date shall be included in the profit and loss account; and
+- (b) all liabilities [^c19322591]. . . which have arisen [^c19322591]. . . in respect of the financial year to which the accounts relate or a previous financial year shall be taken into account, including those which only become apparent between the balance sheet date and the date on which it is signed on behalf of the board of directors in pursuance of section 233 of this Act.
+
+###### 20.
+
+All income and charges relating to the financial year to which the accounts relate shall be taken into account, without regard to the date of receipt or payment.
+
+###### 21.
+
+In determining the aggregate amount of any item the amount of each individual asset or liability that falls to be taken into account shall be determined separately.
+
+###### Departure from the accounting principles
+
+###### 22.
+
+If it appears to the directors of a company that there are special reasons for departing from any of the principles stated above in preparing the company’s accounts in respect of any financial year they may do so, but particulars of the departure, the reasons for it and its effect shall be given in a note to the accounts.
+
+##### SECTION B — VALUATION RULES — HISTORICAL COST ACCOUNTING RULES
+
+###### Preliminary
+
+###### 23.
+
+Subject to paragraphs 39 to 44F[^c19322621] of this Part of this Schedule, the amounts to be included in respect of all items shown in a company’s accounts shall be determined in accordance with the rules set out in paragraphs 24 to 38 of this Part of this Schedule.
+
+###### Fixed assets
+
+###### 24. General rules
+
+Subject to any provision for depreciation or diminution in value made in accordance with paragraph 25 or 26 the amount to be included in respect of any fixed asset shall be its cost.
+
+###### 25.
+
+In the case of any fixed asset which has a limited useful economic life, the amount of:
+
+- (a) its cost; or
+- (b) where it is estimated that any such asset will have a residual value at the end of the period of its useful economic life, its cost less that estimated residual value;
+
+shall be reduced by provisions for depreciation calculated to write off that amount systematically over the period of the asset’s useful economic life.
+
+###### 26.
+
+(1) Where a fixed asset investment of a description falling to be included under Assets items 7 (Participating interests) or 8 (Shares in group undertakings) in the balance sheet format, or any other holding of securities held as a financial fixed asset, has diminished in value, provisions for diminution in value may be made in respect of it and the amount to be included in respect of it may be reduced accordingly; and any such provisions which are not shown in the profit and loss account shall be disclosed (either separately or in aggregate) in a note to the accounts.
+
+(2) Provisions for diminution in value shall be made in respect of any fixed asset which has diminished in value if the reduction in its value is expected to be permanent (whether its useful economic life is limited or not), and the amount to be included in respect of it shall be reduced accordingly; and any such provisions which are not shown in the profit and loss account shall be disclosed (either separately or in aggregate) in a note to the accounts.
+
+(3) Where the reasons for which any provision was made in accordance with sub-paragraph (1) or (2) have ceased to apply to any extent, that provision shall be written back to the extent that it is no longer necessary; and any amounts written back in accordance with this sub-paragraph which are not shown in the profit and loss account shall be disclosed (either separately or in aggregate) in a note to the accounts.
+
+###### 27. Development costs
+
+(1) Notwithstanding that amounts representing “development costs” may be included under Assets item 9 in the balance sheet format, an amount may only be included in a company’s balance sheet in respect of development costs in special circumstances.
+
+(2) If any amount is included in a company’s balance sheet in respect of development costs the following information shall be given in a note to the accounts:
+
+- (a) the period over which the amount of those costs originally capitalised is being or is to be written off; and
+- (b) the reasons for capitalising the development costs in question.
+
+###### 28. Goodwill
+
+(1) The application of paragraphs 24 to 26 in relation to goodwill (in any case where goodwill is treated as an asset) is subject to the following provisions of this paragraph.
+
+(2) Subject to sub-paragraph (3) below the amount of the consideration for any goodwill acquired by a company shall be reduced by provisions for depreciation calculated to write off that amount systematically over a period chosen by the directors of the company.
+
+(3) The period chosen shall not exceed the useful economic life of the goodwill in question.
+
+(4) In any case where any goodwill acquired by a company is included as an asset in the company’s balance sheet the period chosen for writing off the consideration for that goodwill and the reasons for choosing that period shall be disclosed in a note to the accounts.
+
+###### 29. Intangible and tangible fixed assets
+
+Assets included in Assets items 9 (Intangible fixed assets) and 10 (Tangible fixed assets) in the balance sheet format shall be valued as fixed assets.
+
+###### 30. Other fixed assets
+
+Other assets falling to be included in the balance sheet shall be valued as fixed assets where they are intended for use on a continuing basis in the company’s activities.
+
+###### 31. Financial fixed assets
+
+(1) Debt securities, including fixed income securities, held as financial fixed assets shall be included in the balance sheet at an amount equal to their maturity value plus any premium, or less any discount, on their purchase, subject to the following provisions of this paragraph.
+
+(2) The amount included in the balance sheet with respect to such securities purchased at a premium shall be reduced each financial year on a systematic basis so as to write the premium off over the period to the maturity date of the security and the amounts so written off shall be charged to the profit and loss account for the relevant financial years.
+
+(3) The amount included in the balance sheet with respect to such securities purchased at a discount shall be increased each financial year on a systematic basis so as to extinguish the discount over the period to the maturity date of the security and the amounts by which the amount is increased shall be credited to the profit and loss account for the relevant years.
+
+(4) The notes to the accounts shall disclose the amount of any unamortised premium or discount not extinguished which is included in the balance sheet by virtue of sub-paragraph (1).
+
+(5) For the purposes of this paragraph “premium” means any excess of the amount paid for a security over its maturity value and “discount” means any deficit of the amount paid for a security over its maturity value.
+
+###### Current assets
+
+###### 32.
+
+The amount to be included in respect of loans and advances, debt or other fixed income securities and equity shares or other variable yield securities not held as financial fixed assets shall be their cost, subject to paragraphs 33 and 34 below.
+
+###### 33.
+
+(1) If the net realisable value of any asset referred to in paragraph 32 is lower than its cost the amount to be included in respect of that asset shall be the net realisable value.
+
+(2) Where the reasons for which any provision for diminution in value was made in accordance with sub-paragraph (1) have ceased to apply to any extent, that provision shall be written back to the extent that it is no longer necessary.
+
+###### 34.
+
+(1) Subject to paragraph 33 above, the amount to be included in the balance sheet in respect of transferable securities not held as financial fixed assets may be the higher of their cost or their market value at the balance sheet date.
+
+(2) The difference between the cost of any securities included in the balance sheet at a valuation under sub-paragraph (1) and their market value shall be shown (in aggregate) in the notes to the accounts.
+
+###### Miscellaneous and supplementary provisions
+
+###### 35. Excess of money owed over value received as an asset item
+
+(1) Where the amount repayable on any debt owed by a company is greater than the value of the consideration received in the transaction giving rise to the debt, the amount of the difference may be treated as an asset.Schedule 1Part I
+
+(2) Where any such amount is so treated:
+
+- (a) it shall be written off by reasonable amounts each year and must be completely written off before repayment of the debt; and
+- (b) if the current amount is not shown as a separate item in the company’s balance sheet it must be disclosed in a note to the accounts.
+
+###### 36. Determination of cost
+
+(1) The cost of an asset that has been acquired by the company shall be determined by adding to the actual price paid any expenses incidental to its acquisition.
+
+(2) The cost of an asset constructed by the company shall be determined by adding to the purchase price of the raw materials and consumables used the amount of the costs incurred by the company which are directly attributable to the construction of that asset.
+
+(3) In addition, there may be included in the cost of an asset constructed by the company:
+
+- (a) a reasonable proportion of the costs incurred by the company which are only indirectly attributable to the construction of that asset, but only to the extent that they relate to the period of construction; and
+- (b) interest on capital borrowed to finance the construction of that asset, to the extent that it accrues in respect of the period of construction;provided, however, in a case within sub-paragraph (b) above, that the inclusion of the interest in determining the cost of that asset and the amount of the interest so included is disclosed in a note to the accounts.
+
+###### 37.
+
+(1) Subject to the qualification mentioned below, the cost of any assets which are fungible assets (including investments) may be determined by the application of any of the methods mentioned in sub-paragraph (2) below in relation to any such assets of the same class.The method chosen must be one which appears to the directors to be appropriate in the circumstances of the company.
+
+(2) Those methods are:
+
+- (a) the method known as “first in, first out” (FIFO);
+- (b) the method known as “last in, first out” (LIFO);
+- (c) a weighted average price; and
+- (d) any other method similar to any of the methods mentioned above.
+
+(3) Where in the case of any company:
+
+- (a) the cost of assets falling to be included under any item shown in the company’s balance sheet has been determined by the application of any method permitted by this paragraph; and
+- (b) the amount shown in respect of that item differs materially from the relevant alternative amount given below in this paragraph;the amount of that difference shall be disclosed in a note to the accounts.
+
+(4) Subject to sub-paragraph (5) below, for the purposes of sub-paragraph (3)(b) above, the relevant alternative amount, in relation to any item shown in a company’s balance sheet, is the amount which would have been shown in respect of that item if assets of any class included under that item at an amount determined by any method permitted by this paragraph had instead been included at their replacement cost as at the balance sheet date.
+
+(5) The relevant alternative amount may be determined by reference to the most recent actual purchase price before the balance sheet date of assets of any class included under the item in question instead of by reference to their replacement cost as at that date, but only if the former appears to the directors of the company to constitute the more appropriate standard of comparison in the case of assets of that class.
+
+###### 38. Substitution of original amount where price or cost unknown
+
+Where there is no record of the purchase price of any asset acquired by a company or of any price, expenses or costs relevant for determining its cost in accordance with paragraph 36, or any such record cannot be obtained without unreasonable expense or delay, its cost shall be taken for the purposes of paragraphs 24 to 34 to be the value ascribed to it in the earliest available record of its value made on or after its acquisition by the company.
+
+##### ALTERNATIVE ACCOUNTING RULES
+
+###### Preliminary
+
+###### 39.
+
+(1) The rules set out in paragraphs 24 to 38 are referred to below in this Schedule as the historical cost accounting rules.
+
+(2) Paragraphs 24 to 27 and 31 to 35 are referred to below in this section of this Part of this Schedule as the depreciation rules; and references below in this Schedule to the historical cost accounting rules do not include the depreciation rules as they apply by virtue of paragraph 42.
+
+###### 40.
+
+Subject to paragraphs 42 to 44, the amounts to be included in respect of assets of any description mentioned in paragraph 41 may be determined on any basis so mentioned.
+
+###### Alternative accounting rules
+
+###### 41.
+
+(1) Intangible fixed assets, other than goodwill, may be included at their current cost.
+
+(2) Tangible fixed assets may be included at a market value determined as at the date of their last valuation or at their current cost.
+
+(3) Investments of any description falling to be included under Assets items 7 (Participating interests) or 8 (Shares in group undertakings) of the balance sheet format and any other securities held as financial fixed assets may be included either:
+
+- (a) at a market value determined as at the date of their last valuation; or
+- (b) at a value determined on any basis which appears to the directors to be appropriate in the circumstances of the company;
+
+but in the latter case particulars of the method of valuation adopted and of the reasons for adopting it shall be disclosed in a note to the accounts.
+
+(4) Securities of any description not held as financial fixed assets (if not valued in accordance with paragraph 34 above) may be included at their current cost.
+
+###### Application of the depreciation rules
+
+###### 42.
+
+(1) Where the value of any asset of a company is determined in accordance with paragraph 41, that value shall be, or (as the case may require) be the starting point for determining, the amount to be included in respect of that asset in the company’s accounts, instead of its cost or any value previously so determined for that asset; and the depreciation rules shall apply accordingly in relation to any such asset with the substitution for any reference to its cost of a reference to the value most recently determined for that asset in accordance with paragraph 41.
+
+(2) The amount of any provision for depreciation required in the case of any fixed asset by paragraph 25 or 26 as it applies by virtue of sub-paragraph (1) is referred to below in this paragraph as the “adjusted amount”, and the amount of any provision which would be required by that paragraph in the case of that asset according to the historical cost accounting rules is referred to as the “historical cost amount”.
+
+(3) Where sub-paragraph (1) applies in the case of any fixed asset the amount of any provision for depreciation in respect of that asset included in any item shown in the profit and loss account in respect of amounts written off assets of the description in question may be the historical cost amount instead of the adjusted amount, provided that the amount of any difference between the two is shown separately in the profit and loss account or in a note to the accounts.
+
+###### Additional information to be provided in case of departure from historical cost accounting rules
+
+###### 43.
+
+(1) This paragraph applies where the amounts to be included in respect of assets covered by any items shown in a company’s accounts have been determined in accordance with paragraph 41.
+
+(2) The items affected and the basis of valuation adopted in determining the amounts of the assets in question in the case of each such item shall be disclosed in a note to the accounts.
+
+(3) In the case of each balance sheet item affected either:
+
+- (a) the comparable amounts determined according to the historical cost accounting rules; or
+- (b) the differences between those amounts and the corresponding amounts actually shown in the balance sheet in respect of that item;
+
+shall be shown separately in the balance sheet or in a note to the accounts.
+
+(4) In sub-paragraph (3) above, references in relation to any item to the comparable amounts determined as there mentioned are references to:
+
+- (a) the aggregate amount which would be required to be shown in respect of that item if the amounts to be included in respect of all the assets covered by that item were determined according to the historical cost accounting rules; and
+- (b) the aggregate amount of the cumulative provisions for depreciation or diminution in value which would be permitted or required in determining those amounts according to those rules.
+
+###### Revaluation reserve
+
+###### 44.
+
+(1) With respect to any determination of the value of an asset of a company in accordance with paragraph 41, the amount of any profit or loss arising from that determination (after allowing, where appropriate, for any provisions for depreciation or diminution in value made otherwise than by reference to the value so determined and any adjustments of any such provisions made in the light of that determination) shall be credited or (as the case may be) debited to a separate reserve (“the revaluation reserve”).
+
+(2) The amount of the revaluation reserve shall be shown in the company’s balance sheet under Liabilities item 11 in the balance sheet format, but need not be shown under that name.
+
+(3) An amount may be transferred
+
+- (a)[^c18023171] from the revaluation reserve—
+  - (i) to the profit and loss account, if the amount was previously charged to that account or represents realised profit, or
+  - (ii) on capitalisation,
+- (b) to or from the revaluation reserve in respect of the taxation relating to any profit or loss credited or debited to the reserve;
+
+and the revaluation reserve shall be reduced to the extent that the amounts transferred to it are no longer necessary for the purposes of the valuation method used.
+
+(4) In sub-paragraph (3)(a)(ii)[^c18023181]“capitalisation”, in relation to an amount standing to the credit of the revaluation reserve, means applying it in wholly or partly paying up unissued shares in the company to be allotted to members of the company as fully or partly paid shares.
+
+(5) The revaluation reserve shall not be reduced except as mentioned in this paragraph.
+
+(6) The treatment for taxation purposes of amounts credited or debited to the revaluation reserve shall be disclosed in a note to the accounts.
+
+##### FAIR VALUE ACCOUNTING
+
+###### Inclusion of financial instruments at fair value
+
+###### 44A.
+
+(1) Subject to sub-paragraphs (2) to (4), financial instruments (including derivatives) may be included at fair value.
+
+(2) Sub-paragraph (1) does not apply to financial instruments which constitute liabilities unless–
+
+- (a) they are held as part of a trading portfolio, or
+- (b) they are derivatives.
+
+(3) Sub-paragraph (1) does not apply to–
+
+- (a) financial instruments (other than derivatives) held to maturity;
+- (b) loans and receivables originated by the company and not held for trading purposes;
+- (c) interests in subsidiary undertakings, associated undertakings and joint ventures;
+- (d) equity instruments issued by the company;
+- (e) contracts for contingent consideration in a business combination;
+- (f) other financial instruments with such special characteristics that the instruments, according to generally accepted accounting principles or practice, should be accounted for differently from other financial instruments.
+
+(4) If the fair value of a financial instrument cannot be determined reliably in accordance with paragraph 44B, sub-paragraph (1) does not apply to that financial instrument.
+
+(5) In this paragraph–
+
+- “**associated undertaking**” has the meaning given by paragraph 20 of Schedule 4A; and
+- “**joint venture**” has the meaning given by paragraph 19 of that Schedule.
+
+###### Determination of fair value
+
+###### 44B.
+
+(1) The fair value of a financial instrument is determined in accordance with this paragraph.
+
+(2) If a reliable market can readily be identified for the financial instrument, its fair value is determined by reference to its market value.
+
+(3) If a reliable market cannot readily be identified for the financial instrument but can be identified for its components or for a similar instrument, its fair value is determined by reference to the market value of its components or of the similar instrument.
+
+(4) If neither sub-paragraph (2) nor (3) applies, the fair value of the financial instrument is a value resulting from generally accepted valuation models and techniques.
+
+(5) Any valuation models and techniques used for the purposes of sub-paragraph (4) must ensure a reasonable approximation of the market value.
+
+###### Inclusion of hedged items at fair value
+
+###### 44C.
+
+A company may include any assets and liabilities that qualify as hedged items under a fair value hedge accounting system, or identified portions of such assets or liabilities, at the amount required under that system.
+
+###### Other assets that may be included at fair value
+
+###### 44D.
+
+(1) This paragraph applies to–
+
+- (a) investment property, and
+- (b) living animals and plants,
+
+that, under international accounting standards, may be included in accounts at fair value.
+
+(2) Such investment property and such living animals and plants may be included at fair value, provided that all such investment property or, as the case may be, all such living animals and plants are so included where their fair value can reliably be determined.
+
+(3) In this paragraph, “**fair value**” means fair value determined in accordance with relevant international accounting standards.
+
+###### Accounting for changes in value
+
+###### 44E.
+
+(1) This paragraph applies where a financial instrument is valued in accordance with paragraph 44A or 44C or an asset is valued in accordance with paragraph 44D.
+
+(2) Notwithstanding paragraph 19 of this Schedule, and subject to sub-paragraphs (3) and (4) below, a change in the value of the financial instrument or of the investment property or living animal or plant must be included in the profit and loss account.
+
+(3) Where–
+
+- (a) the financial instrument accounted for is a hedging instrument under a hedge accounting system that allows some or all of the change in value not to be shown in the profit and loss account, or
+- (b) the change in value relates to an exchange difference arising on a monetary item that forms part of a company’s net investment in a foreign entity,
+
+the amount of the change in value must be credited to or (as the case may be) debited from a separate reserve (“the fair value reserve”).
+
+(4) Where the instrument accounted for–
+
+- (a) is an available for sale financial asset, and
+- (b) is not a derivative,
+
+the change in value may be credited to or (as the case may be) debited from the fair value reserve.
+
+###### The fair value reserve
+
+###### 44F.
+
+(1) The fair value reserve must be adjusted to the extent that the amounts shown in it are no longer necessary for the purposes of paragraph 44E(3) or (4).
+
+(2) The treatment for taxation purposes of amounts credited or debited to the fair value reserve shall be disclosed in a note to the accounts.
+
+##### ASSETS AND LIABILITIES DENOMINATED IN FOREIGN CURRENCIES
+
+###### 45.
+
+(1) Subject to the following sub-paragraphs, amounts to be included in respect of assets and liabilities denominated in foreign currencies shall be in sterling (or the currency in which the accounts are drawn up) after translation at an appropriate spot rate of exchange prevailing at the balance sheet date.
+
+(2) An appropriate rate of exchange prevailing on the date of purchase may however be used for assets held as financial fixed assets and assets to be included under Assets items 9 (Intangible fixed assets) and 10 (Tangible fixed assets) in the balance sheet format, if they are not covered or not specifically covered in either the spot or forward currency markets.
+
+(3) An appropriate spot rate of exchange prevailing at the balance sheet date shall be used for translating uncompleted spot exchange transactions.
+
+(4) An appropriate forward rate of exchange prevailing at the balance sheet date shall be used for translating uncompleted forward exchange transactions.
+
+(5) This paragraph does not apply to any assets or liabilities held, or any transactions entered into, for hedging purposes or to any assets or liabilities which are themselves hedged.
+
+###### 46.
+
+(1) Subject to sub-paragraph (2), any difference between the amount to be included in respect of an asset or liability under paragraph 45 and the book value, after translation into sterling (or the currency in which the accounts are drawn up) at an appropriate rate, of that asset or liability shall be credited or, as the case may be, debited to the profit and loss account.
+
+(2) In the case, however, of assets held as financial fixed assets, of assets to be included under Assets items 9 (Intangible fixed assets) and 10 (Tangible fixed assets) in the balance sheet format and of transactions undertaken to cover such assets, any such difference may be deducted from or credited to any non-distributable reserve available for the purpose.
+
+#### CHAPTER III — NOTES TO THE ACCOUNTS
+
+*Extent: E+W+S*
+
+###### Preliminary
+
+###### 47.
+
+(1) Any information required in the case of a company by the following provisions of this Part of this Schedule shall (if not given in the company's accounts)[^c18023201] be given by way of a note to the accounts [^c18023191]. . . .
+
+(2) [^c19427991]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) [^c19427991]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+###### General
+
+###### 48. Disclosure of accounting policies
+
+The accounting policies adopted by the company in determining the amounts to be included in respect of items shown in the balance sheet and in determining the profit or loss of the company shall be stated (including such policies with respect to the depreciation and diminution in value of assets).
+
+###### 49.
+
+It shall be stated whether the accounts have been prepared in accordance with applicable accounting standards and particulars of any material departure from those standards and the reasons for it shall be given.
+
+###### 50. Sums denominated in foreign currencies
+
+Where any sums originally denominated in foreign currencies have been brought into account under any items shown in the balance sheet format or the profit and loss account formats, the basis on which those sums have been translated into sterling (or the currency in which the accounts are drawn up) shall be stated.
+
+###### 50A. Reserves and dividends
+
+There must be stated–
+
+- (a) any amount set aside or proposed to be set aside to, or withdrawn or proposed to be withdrawn from, reserves,
+- (b) the aggregate amount of dividends paid in the financial year (other than those for which a liability existed at the immediately preceding balance sheet date),
+- (c) the aggregate amount of dividends that the company is liable to pay at the balance sheet date, and
+- (d) the aggregate amount of dividends that are proposed before the date of approval of the accounts, and not otherwise disclosed under paragraph (b) or (c).
+
+###### Information supplementing the balance sheet
+
+###### 51. Share capital and debentures
+
+(1) The following information shall be given with respect to the company’s share capital:
+
+- (a) the authorised share capital; and
+- (b) where shares of more than one class have been allotted, the number and aggregate nominal value of shares of each class allotted.
+
+(2) In the case of any part of the allotted share capital that consists of redeemable shares, the following information shall be given:
+
+- (a) the earliest and latest dates on which the company has power to redeem those shares;
+- (b) whether those shares must be redeemed in any event or are liable to be redeemed at the option of the company or of the shareholder; and
+- (c) whether any (and, if so, what) premium is payable on redemption.
+
+###### 52.
+
+If the company has allotted any shares during the financial year, the following information shall be given:
+
+- (a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c18029501]
+- (b) the classes of shares allotted; and
+- (c) as respects each class of shares, the number allotted, their aggregate nominal value and the consideration received by the company for the allotment.
+
+###### 53.
+
+(1) With respect to any contingent right to the allotment of shares in the company the following particulars shall be given:
+
+- (a) the number, description and amount of the shares in relation to which the right is exercisable;
+- (b) the period during which it is exercisable; and
+- (c) the price to be paid for the shares allotted.
+
+(2) In sub-paragraph (1) above “contingent right to the allotment of shares” means any option to subscribe for shares and any other right to require the allotment of shares to any person whether arising on the conversion into shares of securities of any other description or otherwise.
+
+###### 54.
+
+(1) If the company has issued any debentures during the financial year to which the accounts relate, the following information shall be given:
+
+- (a)[^c18031201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the classes of debentures issued; and
+- (c) as respects each class of debentures, the amount issued and the consideration received by the company for the issue.
+
+(2)[^c18031211] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where any of the company’s debentures are held by a nominee of or trustee for the company, the nominal amount of the debentures and the amount at which they are stated in the accounting records kept by the company in accordance with section 221 of this Act shall be stated.
+
+###### 55. Fixed assets
+
+(1) In respect of any fixed assets of the company included in any assets item in the company’s balance sheet the following information shall be given by reference to each such item:
+
+- (a) the appropriate amounts in respect of those assets included in the item as at the date of the beginning of the financial year and as at the balance sheet date respectively;
+- (b) the effect on any amount included in the item in respect of those assets of:
+  - (i) any determination during that year of the value to be ascribed to any of those assets in accordance with paragraph 41 above;
+  - (ii) acquisitions during that year of any fixed assets;
+  - (iii) disposals during that year of any fixed assets; and
+  - (iv) any transfers of fixed assets of the company to and from the item during that year.
+
+(2) The reference in sub-paragraph (1)(a) to the appropriate amounts in respect of any fixed assets (included in an assets item) as at any date there mentioned is a reference to amounts representing the aggregate amounts determined, as at that date, in respect of fixed assets falling to be included under the item on either of the following bases, that is to say:
+
+- (a) on the basis of cost (determined in accordance with paragraphs 36 and 37); or
+- (b) on any basis permitted by paragraph 41;
+
+(leaving out of account in either case any provisions for depreciation or diminution in value).
+
+(3) In addition, in respect of any fixed assets of the company included in any assets item in the company’s balance sheet, there shall be stated (by reference to each such item):
+
+- (a) the cumulative amount of provisions for depreciation or diminution in value of those assets included under the item as at each date mentioned in sub-paragraph (1)(a);
+- (b) the amount of any such provisions made in respect of the financial year;
+- (c) the amount of any adjustments made in respect of any such provisions during that year in consequence of the disposal of any of those assets; and
+- (d) the amount of any other adjustments made in respect of any such provisions during that year.
+
+(4) The requirements of this paragraph need not be complied with to the extent that a company takes advantage of the option of setting off charges and income afforded by paragraph 5(3) of this Part of this Schedule.
+
+###### 56.
+
+Where any fixed assets of the company (other than listed investments) are included under any item shown in the company’s balance sheet at an amount determined in accordance with paragraph 41, the following information shall be given:
+
+- (a) the years (so far as they are known to the directors) in which the assets were severally valued and the several values; and
+- (b) in the case of assets that have been valued during the financial year, the names of the persons who valued them or particulars of their qualifications for doing so and (whichever is stated) the bases of valuation used by them.
+
+###### 57.
+
+In relation to any amount which is included under Assets item 10 in the balance sheet format (Tangible fixed assets) with respect to land and buildings there shall be stated:
+
+- (a) how much of that amount is ascribable to land of freehold tenure and how much to land of leasehold tenure; and
+- (b) how much of the amount ascribable to land of leasehold tenure is ascribable to land held on long lease and how much to land held on short lease.
+
+###### 58.
+
+There shall be disclosed separately the amount of:
+
+- (a) any participating interests; and
+- (b) any shares in group undertakings that are held in credit institutions.
+
+###### 58A. Information about fair value of assets and liabilities
+
+(1) This paragraph applies where financial instruments have been valued in accordance with paragraph 44A or 44C.
+
+(2) There must be stated–
+
+- (a) where the fair value of the instruments has been determined in accordance with paragraph 44B(4), the significant assumptions underlying the valuation models and techniques used,
+- (b) for each category of financial instrument, the fair value of the instruments in that category and the changes in value–
+  - (i) included in the profit and loss account, and
+  - (ii) credited to or (as the case may be) debited from the fair value reserve,
+
+  in respect of those instruments, and
+- (c) for each class of derivatives, the extent and nature of the instruments, including significant terms and conditions that may affect the amount, timing and certainty of future cash flows.
+
+(3) Where any amount is transferred to or from the fair value reserve during the financial year, there must be stated in tabular form–
+
+- (a) the amount of the reserve as at the date of the beginning of the financial year and as at the balance sheet date respectively;
+- (b) the amount transferred to or from the reserve during that year; and
+- (c) the source and application respectively of the amounts so transferred.
+
+###### 58B.
+
+Where the company has derivatives that it has not included at fair value, there must be stated for each class of such derivatives–
+
+- (a) the fair value of the derivatives in that class, if such a value can be determined in accordance with paragraph 44B, and
+- (b) the extent and nature of the derivatives.
+
+###### 58C.
+
+(1) Sub-paragraph (2) applies if–
+
+- (a) the company has financial fixed assets that could be included at fair value by virtue of paragraph 44A,
+- (b) the amount at which those assets are included under any item in the company’s accounts is in excess of their fair value, and
+- (c) the company has not made provision for diminution in value of those assets in accordance with paragraph 26(1) of this Part of this Schedule.
+
+(2) There must be stated–
+
+- (a) the amount at which either the individual assets or appropriate groupings of those individual assets are included in the company’s accounts,
+- (b) the fair value of those assets or groupings, and
+- (c) the reasons for not making a provision for diminution in value of those assets, including the nature of the evidence that provides the basis for the belief that the amount at which they are stated in the accounts will be recovered.
+
+###### 58D. Information where investment property and living animals and plants included at fair value
+
+(1) This paragraph applies where the amounts to be included in a company’s accounts in respect of investment property or living animals and plants have been determined in accordance with paragraph 44D.
+
+(2) The balance sheet items affected and the basis of valuation adopted in determining the amounts of the assets in question in the case of each such item must be disclosed in a note to the accounts.
+
+(3) In the case of investment property, for each balance sheet item affected there must be shown, either separately in the balance sheet or in a note to the accounts–
+
+- (a) the comparable amounts determined according to the historical cost accounting rules; or
+- (b) the differences between those amounts and the corresponding amounts actually shown in the balance sheet in respect of that item.
+
+(4) In sub-paragraph (3) above, references in relation to any item to the comparable amounts determined in accordance with that sub-paragraph are references to–
+
+- (a) the aggregate amount which would be required to be shown in respect of that item if the amounts to be included in respect of all the assets covered by that item were determined according to the historical cost accounting rules; and
+- (b) the aggregate amount of the cumulative provisions for depreciation or diminution in value which would be permitted or required in determining those amounts according to those rules.
+
+###### 59. Reserves and provisions
+
+(1) Where any amount is transferred:
+
+- (a) to or from any reserves;
+- (b) to any provisions for liabilities[^c19323681], or
+- (c) from any provision for liabilities[^c19323751] otherwise than for the purpose for which the provision was established;
+
+and the reserves or provisions are or would but for paragraph 3(3) of this Part of this Schedule be shown as separate items in the company’s balance sheet, the information mentioned in the following sub-paragraph shall be given in respect of the aggregate of reserves or provisions included in the same item.
+
+(2) That information is:
+
+- (a) the amount of the reserves or provisions as at the date of the beginning of the financial year and as at the balance sheet date respectively;
+- (b) any amounts transferred to or from the reserve or provisions during that year; and
+- (c) the source and application respectively of any amounts so transferred.
+
+(3) Particulars shall be given of each provision included in Liabilities item 6(c) (Other provisions) in the company’s balance sheet in any case where the amount of that provision is material.
+
+###### 60. Provision for taxation
+
+The amount of any provision for deferred taxation shall be stated separately from the amount of any provision for other taxation.
+
+###### 61. Maturity analysis
+
+(1) A company shall disclose separately for each of Assets items 3(b) and 4 and Liabilities items 1(b), 2(b) and 3(b) the aggregate amount of the loans and advances and liabilities included in those items broken down into the following categories:
+
+- (a) those repayable in not more than three months
+- (b) those repayable in more than three months but not more than one year
+- (c) those repayable in more than one year but not more than five years
+- (d) those repayable in more than five yearsfrom the balance sheet date.
+
+(2) A company shall also disclose the aggregate amounts of all loans and advances falling within Assets item 4 (Loans and advances to customers) which are:
+
+- (a) repayable on demand; or
+- (b) are for an indeterminate period, being repayable upon short notice.
+
+(3) For the purposes of sub-paragraph (1), where a loan or advance or liability is repayable by instalments, each such instalment is to be treated as a separate loan or advance or liability.
+
+###### 62. Debt and other fixed income securities
+
+A company shall disclose the amount of debt and fixed income securities included in Assets item 5 (Debt securities \[and other fixed income securities\]) and the amount of such securities included in Liabilities item 3(a) (Bonds and medium term notes) that (in each case) will become due within one year of the balance sheet date.
+
+###### 63. Subordinated liabilities
+
+(1) The following information must be disclosed in relation to any borrowing included in Liabilities item 7 (Subordinated liabilities) that exceeds 10 per cent. of the total for that item:
+
+- (a) its amount;
+- (b) the currency in which it is denominated;
+- (c) the rate of interest and the maturity date (or the fact that it is perpetual);
+- (d) the circumstances in which early repayment may be demanded;
+- (e) the terms of the subordination; and
+- (f) the existence of any provisions whereby it may be converted into capital or some other form of liability and the terms of any such provisions.
+
+(2) The general terms of any other borrowings included in Liabilities item 7 shall also be stated.
+
+###### 64. Fixed cumulative dividends
+
+If any fixed cumulative dividends on the company’s shares are in arrear, there shall be stated:
+
+- (a) the amount of the arrears; and
+- (b) the period for which the dividends or, if there is more than one class, each class of them are in arrear.
+
+###### 65. Details of assets charged
+
+(1) There shall be disclosed, in relation to each liabilities and memorandum item of the balance sheet format, the aggregate amount of any assets of the company which have been charged to secure any liability or potential liability included thereunder, the aggregate amount of the liabilities or potential liabilities so secured and an indication of the nature of the security given.
+
+(2) Particulars shall also be given of any other charge on the assets of the company to secure the liabilities of any other person, including, where practicable, the amount secured.
+
+###### 66. Guarantees and other financial commitments
+
+(1) There shall be stated, where practicable:
+
+- (a) the aggregate amount or estimated amount of contracts for capital expenditure, so far as not provided for; [^c18031261]. . .
+- (b)[^c18031271] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Particulars shall be given of:
+
+- (a) any pension commitments included under any provision shown in the company’s balance sheet; and
+- (b) any such commitments for which no provision has been made;
+
+and where any such commitment relates wholly or partly to pensions payable to past directors of the company separate particulars shall be given of that commitment so far as it relates to such pensions.
+
+(3) Particulars shall also be given of any other financial commitments, including any contingent liabilities, which:
+
+- (a) have not been provided for;
+- (b) have not been included in the memorandum items in the balance sheet format; and
+- (c) are relevant to assessing the company’s state of affairs.
+
+(4) Commitments within any of the preceding sub-paragraphs undertaken on behalf of or for the benefit of:
+
+- (a) any parent company or fellow subsidiary undertaking of the company; or
+- (b) any subsidiary undertaking of the company;
+
+shall be stated separately from the other commitments within that sub-paragraph (and commitments within paragraph (a) shall be stated separately from those within paragraph (b)).
+
+(5) There shall be disclosed the nature and amount of any contingent liabilities and commitments included in Memorandum items 1 and 2 which are material in relation to the company’s activities.
+
+###### 67. Memorandum items: Group undertakings
+
+(1) With respect to contingent liabilities required to be included under Memorandum item 1 in the balance sheet format, there shall be stated in a note to the accounts the amount of such contingent liabilities incurred on behalf of or for the benefit of:
+
+- (a) any parent undertaking or fellow subsidiary undertaking; or
+- (b) any subsidiary undertaking
+
+of the company; in addition the amount incurred in respect of the undertakings referred to in paragraph (a) shall be stated separately from the amount incurred in respect of the undertakings referred to in paragraph (b).
+
+(2) With respect to commitments required to be included under Memorandum item 2 in the balance sheet format, there shall be stated in a note to the accounts the amount of such commitments undertaken on behalf of or for the benefit of:
+
+- (a) any parent undertaking or fellow subsidiary undertaking; or
+- (b) any subsidiary undertaking
+
+of the company; in addition the amount incurred in respect of the undertakings referred to in paragraph (a) shall be stated separately from the amount incurred in respect of the undertakings referred to in paragraph (b).
+
+###### 68. Transferable securities
+
+(1) There shall be disclosed for each of Assets items 5 to 8 in the balance sheet format the amount of transferable securities included under those items:
+
+- (a) that are listed and the amount of those that are unlisted; [^c18031301]. . .
+- (b)[^c18031291] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In the case of each amount shown in respect of listed securities under sub-paragraph (1)(a) above, there shall also be disclosed the aggregate market value of those securities, if different from the amount shown.
+
+(3) There shall also be disclosed for each of Assets items 5 and 6 the amount of transferablesecurities included under those items that are held as financial fixed assets and the amount of those that are not so held, together with the criterion used by the directors to distinguish those held as financial fixed assets.
+
+###### 69. Leasing transactions
+
+The aggregate amount of all property (other than land) leased by the company to other persons shall be disclosed, broken down so as to show the aggregate amount included in each relevant balance sheet item.
+
+###### 70. Assets and liabilities denominated in a currency other than sterling (or the currency in which the accounts are drawn up)
+
+(1) The aggregate amount, in sterling (or the currency in which the accounts are drawn up), of all assets denominated in a currency other than sterling (or the currency used), together with the aggregate amount, in sterling (or the currency used), of all liabilities so denominated, is to be disclosed.
+
+(2) For the purposes of this paragraph an appropriate rate of exchange prevailing at the balance sheet date shall be used to determine the amounts concerned.
+
+###### 71. Sundry assets and liabilities
+
+Where any amount shown under either of the following items is material, particulars shall be given of each type of asset or liability included therein, including an explanation of the nature of the asset or liability and the amount included with respect to assets or liabilities of that type:
+
+- (a) Assets item 13 (Other assets)
+- (b) Liabilities item 4 (Other liabilities).
+
+###### 72. Unmatured forward transactions
+
+(1) The following shall be disclosed with respect to unmatured forward transactions outstanding at the balance sheet date:
+
+- (a) the categories of such transactions, by reference to an appropriate system of classification;
+- (b) whether, in the case of each such category, they have been made, to any material extent, for the purpose of hedging the effects of fluctuations in interest rates, exchange rates and market prices or whether they have been made, to any material extent, for dealing purposes.
+
+(2) Transactions falling within sub-paragraph (1) shall include all those in relation to which income or expenditure is to be included in:
+
+- (a) format 1, item 6 or format 2, items B4 or A3 (Dealing \[profits\] \[losses\]),
+- (b) format 1, items 1 or 2, or format 2, items B1 or A1, by virtue of notes (1)(b) and (2)(b) to the profit and loss account formats (forward contracts, spread over the actual duration of the contract and similar in nature to interest).
+
+###### 73. Miscellaneous matters
+
+(1) Particulars shall be given of any case where the cost of any asset is for the first time determined under paragraph 38 of this Part of this Schedule.
+
+(2) Where any outstanding loans made under the authority of section 153(4)(b), (bb) or (c) or section 155 of this Act (various cases of financial assistance by a company for purchase of its own shares) are included under any item shown in the company’s balance sheet, the aggregate amount of those loans shall be disclosed for each item in question.
+
+(3)[^c18031311] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+###### Information supplementing the profit and loss account
+
+###### 74. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c18041971]
+
+###### 75. Particulars of tax
+
+(1)[^c18041981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Particulars shall be given of any special circumstances which affect liability in respect of taxation of profits, income or capital gains for the financial year or liability in respect of taxation of profits, income or capital gains for succeeding financial years.
+
+(3) The following amounts shall be stated:
+
+- (a) the amount of the charge for United Kingdom corporation tax;
+- (b) if that amount would have been greater but for relief from double taxation, the amount which it would have been but for such relief;
+- (c) the amount of the charge for United Kingdom income tax; and
+- (d) the amount of the charge for taxation imposed outside the United Kingdom of profits, income and (so far as charged to revenue) capital gains.
+
+These amounts shall be stated separately in respect of each of the amounts which is shown under the following items in the profit and loss account, that is to say format 1 item 16, format 2 item A10 (Tax on \[profit\] \[loss\] on ordinary activities) and format 1 item 21, format 2 item A13 (Tax on extraordinary \[profit\] \[loss\]).
+
+###### 76. Particulars of income
+
+(1) A company shall disclose, with respect to income included in the following items in the profit and loss account formats, the amount of that income attributable to each of the geographical markets in which the company has operated during the financial year:
+
+- (a) format 1 item 1, format 2 item B1 (Interest receivable);
+- (b) format 1 item 3, format 2 item B2 (Dividend income);
+- (c) format 1 item 4, format 2 item B3 (Fees and commissions receivable);
+- (d) format 1 item 6, format 2 item B4 (Dealing profits); and
+- (e) format 1 item 7, format 2 item B7 (Other operating income).
+
+(2) In analysing for the purposes of this paragraph the source of any income, the directors shall have regard to the manner in which the company’s activities are organised.
+
+(3) For the purposes of this paragraph, markets which do not differ substantially from each other shall be treated as one market.
+
+(4) Where in the opinion of the directors the disclosure of any information required by this paragraph would be seriously prejudicial to the interests of the company, that information need not be disclosed, but the fact that any such information has not been disclosed must be stated.
+
+###### 77. Particulars of staff
+
+[^c19323851]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+###### 78. Management and agency services
+
+A company providing any management and agency services to customers shall disclose that fact, if the scale of such services provided is material in the context of its business as a whole.
+
+###### 79. Subordinated liabilities
+
+Any amounts charged to the profit and loss account representing charges incurred during the year with respect to subordinated liabilities shall be disclosed.
+
+###### 80. Sundry income and charges
+
+Where any amount to be included in any of the following items is material, particulars shall be given of each individual component of the figure, including an explanation of their nature and amount:
+
+- (a) In format 1:
+  - (i) Items 7 and 10 (Other operating income and charges)
+  - (ii) Items 18 and 19 (Extraordinary income and charges);
+- (b) In format 2:
+  - (i) Items A6 and B7 (Other operating charges and income)
+  - (ii) Items A12 and B10 (Extraordinary charges and income).
+
+###### 81. Miscellaneous matters
+
+(1) Where any amount relating to any preceding financial year is included in any item in the profit and loss account, the effect shall be stated.
+
+(2) The effect shall be stated of any transactions that are exceptional by virtue of size or incidence though they fall within the ordinary activities of the company.
+
+#### CHAPTER IV — INTERPRETATION OF PART I
+
+*Extent: E+W+S*
+
+##### 82. General
+
+The following definitions apply for the purposes of this Part of this Schedule and its interpretation:
+
+[^c18042041] . . .
+
+[^c18042051]. . .
+
+“Financial fixed assets” means loans and advances and securities held as fixed assets; participating interests and shareholdings in group undertakings shall be regarded as financial fixed assets;
+
+“Fungible assets” means assets of any description which are substantially indistinguishable one from another;
+
+“[^c19324261]**Investment property**” means land held to earn rent or for capital appreciation.
+
+“Lease” includes an agreement for a lease;
+
+“Listed security” means a security listed on a recognised stock exchange, or on any stock exchange of repute outside Great Britain and the expression “unlisted security” shall be construed accordingly;
+
+“Long lease” means a lease in the case of which the portion of the term for which it was granted remaining unexpired at the end of the financial year is not less than 50 years;
+
+“Repayable on demand”, in connection with deposits, loans or advances, means those amounts which can at any time be withdrawn or demanded without notice or for which a maturity or period of notice of not more than 24 hours or one working day has been agreed;
+
+“Sale and repurchase transaction” means a transaction which involves the transfer by a credit institution or customer (“the transferor”) to another credit institution or customer (“the transferee”) of assets subject to an agreement that the same assets, or (in the case of fungible assets) equivalent assets, will subsequently be transferred back to the transferor at a specified price on a date specified or to be specified by the transferor; but the following shall not be regarded as sale and repurchase transactions: forward exchange transactions, options, transactions involving the issue of debt securities with a commitment to repurchase all or part of the issue before maturity or any similar transactions;
+
+“Sale and option to resell transaction” means a transaction which involves the transfer by a credit institution or customer (“the transferor”) to another credit institution or customer (“the transferee”) of assets subject to an agreement that the transferee is entitled to require the subsequent transfer of the same assets, or (in the case of fungible assets) equivalent assets, back to the transferor at the purchase price or another price agreed in advance on a date specified or to be specified; and
+
+“Short lease” means a lease which is not a long lease.
+
+##### 82A. Financial instruments
+
+For the purposes of this Part of this Schedule, references to “derivatives” include commodity-based contracts that give either contracting party the right to settle in cash or in some other financial instrument, except when such contracts–
+
+- (a) were entered into for the purpose of, and continue to meet, the company’s expected purchase, sale or usage requirements,
+- (b) were designated for such purpose at their inception, and
+- (c) are expected to be settled by delivery of the commodity.
+
+##### 82B.
+
+(1) The expressions listed in sub-paragraph (2) have the same meaning in paragraphs 44A to 44F, 58A to 58C and 82A of this Part of this Schedule as they have in Council Directives [78/660/EEC](https://www.legislation.gov.uk/european/directive/1978/0660) on the annual accounts of certain types of companies and [86/635/EEC](https://www.legislation.gov.uk/european/directive/1986/0635) on the annual accounts and consolidated accounts of banks and other financial institutions, as amended. [^c5280291]
+
+(2) Those expressions are “**available for sale financial asset**”, “**business combination**”, “**commodity-based contracts**”, “**derivative**”, “**equity instrument**”, “**exchange difference**”, “**fair value hedge accounting system**”, “**financial fixed asset**”, “**financial instrument**”, “**foreign entity**”, “**hedge accounting**”, “**hedge accounting system**”, “**hedged items**”, “**hedging instrument**”, “**held for trading purposes**”, “**held to maturity**”, “**monetary item**”, “**receivables**”, “**reliable market**” and “**trading portfolio**”.
+
+##### 83. Loans
+
+For the purposes of this Part of this Schedule a loan or advance (including a liability comprising a loan or advance) is treated as falling due for repayment, and an instalment of a loan or advance is treated as falling due for payment, on the earliest date on which the lender could require repayment or (as the case may be) payment, if he exercised all options and rights available to him.
+
+##### 84. Materiality
+
+For the purposes of this Part of this Schedule amounts which in the particular context of any provision of this Part are not material may be disregarded for the purposes of that provision.
+
+##### 85. Provisions
+
+For the purposes of this Part of this Schedule and its interpretation:
+
+- (a) references in this Part to provisions for depreciation or diminution in value of assets are to any amount written off by way of providing for depreciation or diminution in value of assets;
+- (b) any reference in the profit and loss account formats or the notes thereto set out in Section B of this Part to the depreciation of, or amounts written off, assets of any description is to any provision for depreciation or diminution in value of assets of that description; and
+- (c) references in this Part to provisions for liabilities[^c19324311] are to any amount retained as reasonably necessary for the purpose of providing for any liability the nature of which is clearly defined and[^c19324331] which is either likely to be incurred, or certain to be incurred but uncertain as to amount or as to the date on which it will arise.
+
+##### 86. Scots land tenure
+
+In the application of this Part of this Schedule to Scotland, “land of freehold tenure” means land in respect of which the company is the proprietor of the dominium utile or, in the case of land not held on feudal tenure,[^c18042061] is the owner; “land of leasehold tenure” means land of which the company is the tenant under a lease ; and the reference to ground-rents, rates and other outgoings includes feu-duty and ground annual.
+
+##### 87. Staff costs
+
+For the purposes of this Part of this Schedule and its interpretation:
+
+- (a) “Social security costs” means any contributions by the company to any state social security or pension scheme, fund or arrangement;
+- (b)[^c18042081] “Pension costs” includes any costs incurred by the company in respect of any pension scheme established for the purpose of providing pensions for persons currently or formerly employed by the company, any sums set aside for the future payment of pensions directly by the company to current or former employees and any pensions paid directly to such persons without having first been set aside; and
+- (c) any amount stated in respect of the item “social security costs”[^c18042091] or in respect of the item “wages and salaries” in the company’s profit and loss account shall be determined by reference to payments made or costs incurred in respect of all persons employed by the company during the financial year who are taken into account in determining the relevant annual number for the purposes of section 231A(1)(a)[^c19324031] .
+
+### PART II — CONSOLIDATED ACCOUNTS[^c18008911]
+
+*Extent: E+W+S*
+
+**No longer in force (ended 2008-04-06).**
+
+#### 1. Undertakings to be included in consolidation
+
+[^c19324351]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5. Foreign currency translation
+
+Any difference between:
+
+- (a) the amount included in the consolidated accounts for the previous financial year with respect to any undertaking included in the consolidation or the group’s interest in any associated undertaking, together with the amount of any transactions undertaken to cover any such interest; and
+- (b) the opening amount for the financial year in respect of those undertakings and in respect of any such transactions
+
+arising as a result of the application of paragraph 45 of Part I of this Schedule may be credited to (where (a) is less than (b)), or deducted from (where (a) is greater than (b)), (as the case may be) consolidated reserves.
+
+#### 6.
+
+Any income and expenditure of undertakings included in the consolidation and associated undertakings in a foreign currency may be translated for the purposes of the consolidated accounts at the average rates of exchange prevailing during the financial year.
+
+#### 7. Information as to undertaking in which shares held as a result of financial assistance operation
+
+(1) The following provisions apply where the parent company of a banking group has a subsidiary undertaking which:
+
+- (a) is a credit institution of which shares are held as a result of a financial assistance operation with a view to its reorganisation or rescue; and
+- (b) is excluded from consolidation under section 229(3)(c) (interest held with a view to resale).
+
+(2) Information as to the nature and terms of the operations shall be given in a note to the group accounts and there shall be appended to the copy of the group accounts delivered to the registrar in accordance with section 242 a copy of the undertaking’s latest individual accounts and, if it is a parent undertaking, its latest group accounts.
+
+If the accounts appended are required by law to be audited, a copy of the auditors’ report shall also be appended.
+
+(3) [^c18304201]. . . If any document required to be appended is in a language other than English [^c19488491]. . . , the directors shall annex a translation of it into English, certified in the prescribed manner to be a correct translation.
+
+(4) The above requirements are subject to the following qualifications:
+
+- (a) an undertaking is not required to prepare for the purposes of this paragraph accounts which would not otherwise be prepared, and if no accounts satisfying the above requirements are prepared none need be appended;
+- (b) the accounts of an undertaking need not be appended if they would not otherwise be required to be published, or made available for public inspection, anywhere in the world, but in that case the reason for not appending the accounts shall be stated in a note to the consolidated accounts.
+
+(5) Where a copy of an undertaking’s accounts is required to be appended to the copy of the group accounts delivered to the registrar, that fact shall be stated in a note to the group accounts.
+
+(6) Sub-sections (2) to (4) of section 242 (penalties, c. in case of default) apply in relation to the requirements of this paragraph as regards the delivery of documents to the registrar as they apply in relation to the requirements of sub-section (1) of that section.
+
+### Part III[^c18007411]
+
+*Extent: E+W+S*
+
+**No longer in force (ended 2008-04-06).**
+
+### PART III — ADDITIONAL DISCLOSURE: RELATED UNDERTAKINGS[^c18008921]
+
+*Extent: E+W+S*
+
+**No longer in force (ended 2008-04-06).**
+
+### Part IV — Additional Disclosure: Emoluments and Other Benefits of Directors and Others[^c17430461]
+
+*Extent: E+W+S*
+
+**May not be in force at this date. Check the source.**
+
+#### Loans, quasi-loans and other dealings
+
+##### 2.[^c17430481]
+
+**No longer in force (ended 2008-04-06).**
+
+Where a banking company, or a company which is the holding company of a credit institution, prepares annual accounts for a financial year, it need not comply with the provisions of Part II of Schedule 6 (loans, quasi-loans and other dealings) in relation to a transaction or arrangement of a kind mentioned in section 197, 198, 200, 201 or 203 of the Companies Act 2006[^c19716801] , or an agreement to enter into such a transaction or arrangement, to which that banking company or (as the case may be) credit institution is a party.
+
+#### Other transactions, arrangements and agreements
+
+##### 3.
+
+**No longer in force (ended 2008-04-06).**
+
+Where a banking company, or a company which is the holding company of a credit institution, takes advantage of the provisions of paragraph 2 of this Part of this Schedule for the purposes of its annual accounts for a financial year, then, in preparing those accounts, it shall comply with the provisions of Part III of Schedule 6 (other transactions, arrangements and agreements) only in relation to a transaction, arrangement or agreement made by that banking company or (as the case may be) credit institution for—[^c17430541]
+
+- (a) a person who was a director of the company preparing the accounts, or who was connected with such a director, or
+- (b) a person who was a chief executive or manager [^c18864911]. . . of that company or its holding company.
+
+(2) References in that Part to officers of the company shall be construed accordingly as including references to such persons.
+
+(3)[^c18864931] In this paragraph—
+
+- (a) “director” includes a shadow director;
+- (b) “chief executive” has the meaning given in section 417 of the Financial Services and Markets Act 2000; and
+- (c) “manager” has the meaning given in section 423(3) of that Act.
+
+(4) For the purposes of that Part as it applies by virtue of this paragraph, a body corporate[^c17430561] which a person does not control shall not be treated as connected with him.
+
+(5) Sections 252 to 255 of, and Schedule 1 to, the Companies Act 2006 apply[^c19716821] for the purposes of this paragraph as regards the interpretation of references to a person being connected with a director or controlling a body corporate.
+
+## Annotations
+
+[^c19733611]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9) repealed (6.4.2008) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1295](https://www.legislation.gov.uk/ukpga/2006/46/section/1295), [1300](https://www.legislation.gov.uk/ukpga/2006/46/section/1300), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 8(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/8/a), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7), [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12)); [Sch. 9 para. 3(4)(5)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/paragraph/3/4/5) and certain words in Sch. 9 para. 3(3)(a) are expressed to be repealed (6.4.2008 with effect as stated in Sch. 1 para. 91(2) of the amending S.I.) by [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2008/948/article/2/1), [3](https://www.legislation.gov.uk/uksi/2008/948/article/3), [Sch. 1 para. 90(1)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/90/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/948/schedule/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+
+[^c17429861]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9): introductory paragraph preceding Part I, together with its heading repealed (subject to the transitional and saving provisions mentioned in [S.I. 1990/355](https://www.legislation.gov.uk/uksi/1990/355), [arts. 6-9](https://www.legislation.gov.uk/uksi/1990/355/article/6)) by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 18(3)(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/18/3/4), [212](https://www.legislation.gov.uk/ukpga/1989/40/section/212), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1989/40/schedule/7), [Sch. 24](https://www.legislation.gov.uk/ukpga/1989/40/schedule/24)
+
+[^c18006121]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9): by virtue of [S.I. 1991/2705](https://www.legislation.gov.uk/uksi/1991/2705), [regs. 5(1)](https://www.legislation.gov.uk/uksi/1991/2705/regulation/5/1), [9](https://www.legislation.gov.uk/uksi/1991/2705/regulation/9), [Pts. I](https://www.legislation.gov.uk/uksi/1991/2705/part/I) and II of Sch. 9 have formed (2.12.1991) a new Schedule numbered Schedule 9A.
+
+[^c17429871]: Textual amendment: [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I): descriptive Part heading before paragraph 2 substituted by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 18(3)(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/18/3/4), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1989/40/schedule/7) (subject to the transitional and saving provisions mentioned in [S.I. 1990/355](https://www.legislation.gov.uk/uksi/1990/355), [arts. 6–9](https://www.legislation.gov.uk/uksi/1990/355/article/6))
+
+[^c18006201]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9): by virtue of [S.I. 1991/2705](https://www.legislation.gov.uk/uksi/1991/2705), [regs. 5(1)](https://www.legislation.gov.uk/uksi/1991/2705/regulation/5/1), [9](https://www.legislation.gov.uk/uksi/1991/2705/regulation/9), [Pts. I](https://www.legislation.gov.uk/uksi/1991/2705/part/I) and II of Sch. 9 have formed (2.12.1991) a new Schedule numbered Schedule 9A.
+
+[^c17430111]: Textual amendment: [Sch. 9 Pt. I paras. 18A–18C](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I/paragraph/18A) inserted (subject to the saving and transitional provisions mentioned in [S.I. 1990/355](https://www.legislation.gov.uk/uksi/1990/355), [arts. 6–9](https://www.legislation.gov.uk/uksi/1990/355/article/6), [Sch 2](https://www.legislation.gov.uk/uksi/1990/355/schedule/2)) by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 18(3)(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/18/3/4), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2), [Sch. 7 Pt. I para. 4](https://www.legislation.gov.uk/ukpga/1989/40/schedule/7/part/I/paragraph/4)
+
+[^c18006531]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9): by virtue of [S.I. 1991/2705](https://www.legislation.gov.uk/uksi/1991/2705), [regs. 5(1)](https://www.legislation.gov.uk/uksi/1991/2705/regulation/5/1), [9](https://www.legislation.gov.uk/uksi/1991/2705/regulation/9), [Pts. I](https://www.legislation.gov.uk/uksi/1991/2705/part/I) and II of Sch. 9 have formed (2.12.1991) a new Schedule numbered Schedule 9A.
+
+[^c18006541]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9): by virtue of [S.I. 1991/2705](https://www.legislation.gov.uk/uksi/1991/2705), [regs. 5(1)](https://www.legislation.gov.uk/uksi/1991/2705/regulation/5/1), [9](https://www.legislation.gov.uk/uksi/1991/2705/regulation/9), [Pts. I](https://www.legislation.gov.uk/uksi/1991/2705/part/I) and II of Sch. 9 have formed (2.12.1991) a new Schedule numbered Schedule 9A.
+
+[^c18006551]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9): by virtue of [S.I. 1991/2705](https://www.legislation.gov.uk/uksi/1991/2705), [regs. 5(1)](https://www.legislation.gov.uk/uksi/1991/2705/regulation/5/1), [9](https://www.legislation.gov.uk/uksi/1991/2705/regulation/9), [Pts. I](https://www.legislation.gov.uk/uksi/1991/2705/part/I) and II of Sch. 9 have formed (2.12.1991) a new Schedule numbered Schedule 9A.
+
+[^c18006131]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9): by virtue of [S.I. 1991/2705](https://www.legislation.gov.uk/uksi/1991/2705), [regs. 5(1)](https://www.legislation.gov.uk/uksi/1991/2705/regulation/5/1), [9](https://www.legislation.gov.uk/uksi/1991/2705/regulation/9), [Pts. I](https://www.legislation.gov.uk/uksi/1991/2705/part/I) and II of Sch. 9 have formed (2.12.1991) a new Schedule numbered Schedule 9A.
+
+[^c17430121]: Textual amendment: [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/II) (paras. 19-26): Part heading before para. 19 repealed (subject to the transitional and saving provisions mentioned in [S.I. 1990/355](https://www.legislation.gov.uk/uksi/1990/355), [arts. 6-9](https://www.legislation.gov.uk/uksi/1990/355/article/6)) by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 18(3)(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/18/3/4), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1989/40/schedule/7)
+
+[^c18006141]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9): by virtue of [S.I. 1991/2705](https://www.legislation.gov.uk/uksi/1991/2705), [regs. 5(1)](https://www.legislation.gov.uk/uksi/1991/2705/regulation/5/1), [9](https://www.legislation.gov.uk/uksi/1991/2705/regulation/9), [Pts. I](https://www.legislation.gov.uk/uksi/1991/2705/part/I) and II of Sch. 9 have formed (2.12.1991) a new Schedule numbered Schedule 9A.
+
+[^c17430231]: Textual amendment: [Sch. 9 Pt. III](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/III) (paras. 27-29): Part heading before para. 27 repealed (subject to the transitional and saving provisions mentioned in [S.I. 1990/355](https://www.legislation.gov.uk/uksi/1990/355), [arts. 6-9](https://www.legislation.gov.uk/uksi/1990/355/article/6)) by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 18(3)(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/18/3/4), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1989/40/schedule/7)
+
+[^c17430241]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9): heading before para. 27 inserted by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 18(3)(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/18/3/4), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2), [Sch. 7 Pt. I para. 8(1)](https://www.legislation.gov.uk/ukpga/1989/40/schedule/7/part/I/paragraph/8/1) (subject to the transitional and saving provisions mentioned in [S.I. 1990/355](https://www.legislation.gov.uk/uksi/1990/355), [arts. 6–9](https://www.legislation.gov.uk/uksi/1990/355/article/6))
+
+[^c18006621]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9): by virtue of [S.I. 1991/2705](https://www.legislation.gov.uk/uksi/1991/2705), [regs. 5(1)](https://www.legislation.gov.uk/uksi/1991/2705/regulation/5/1), [9](https://www.legislation.gov.uk/uksi/1991/2705/regulation/9), [Pts. I](https://www.legislation.gov.uk/uksi/1991/2705/part/I) and II of Sch. 9 have formed (2.12.1991) a new Schedule numbered Schedule 9A.
+
+[^c17430331]: Textual amendment: [Sch. 9 para. 28A](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/paragraph/28A) inserted by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 18(3)(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/18/3/4), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2), [Sch. 7 Pt. I para. 10](https://www.legislation.gov.uk/ukpga/1989/40/schedule/7/part/I/paragraph/10) (subject to the transitional and saving provisions mentioned in [S.I. 1990/355](https://www.legislation.gov.uk/uksi/1990/355), [arts. 6–9](https://www.legislation.gov.uk/uksi/1990/355/article/6))
+
+[^c18006151]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9): by virtue of [S.I. 1991/2705](https://www.legislation.gov.uk/uksi/1991/2705), [regs. 5(1)](https://www.legislation.gov.uk/uksi/1991/2705/regulation/5/1), [9](https://www.legislation.gov.uk/uksi/1991/2705/regulation/9), [Pts. I](https://www.legislation.gov.uk/uksi/1991/2705/part/I) and II of Sch. 9 have formed (2.12.1991) a new Schedule numbered Schedule 9A.
+
+[^c17430351]: Textual amendment: [Sch. 9 Pt. IV](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/IV) (para. 31): Part heading before para. 31 repealed (subject to the transitional and saving provisions mentioned in [S.I. 1990/355](https://www.legislation.gov.uk/uksi/1990/355), [arts. 6-9](https://www.legislation.gov.uk/uksi/1990/355/article/6)) by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 18(3)(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/18/3/4), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1989/40/schedule/7)
+
+[^c18006161]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9): by virtue of [S.I. 1991/2705](https://www.legislation.gov.uk/uksi/1991/2705), [regs. 5(1)](https://www.legislation.gov.uk/uksi/1991/2705/regulation/5/1), [9](https://www.legislation.gov.uk/uksi/1991/2705/regulation/9), [Pts. I](https://www.legislation.gov.uk/uksi/1991/2705/part/I) and II of Sch. 9 have formed (2.12.1991) a new Schedule numbered Schedule 9A.
+
+[^c17430371]: Textual amendment: [Sch. 9 Pt. V](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/V) (paras. 32-36): Part heading before para. 32 repealed (subject to the transitional and saving provisions mentioned in [S.I. 1990/355](https://www.legislation.gov.uk/uksi/1990/355), [arts. 6-9](https://www.legislation.gov.uk/uksi/1990/355/article/6)) by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 18(3)(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/18/3/4), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1989/40/schedule/7)
+
+[^c18006331]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9): by virtue of [S.I. 1991/2705](https://www.legislation.gov.uk/uksi/1991/2705), [regs. 5(1)](https://www.legislation.gov.uk/uksi/1991/2705/regulation/5/1), [9](https://www.legislation.gov.uk/uksi/1991/2705/regulation/9), [Pts. I](https://www.legislation.gov.uk/uksi/1991/2705/part/I) and II of Sch. 9 have formed (2.12.1991) a new Schedule numbered Schedule 9A.
+
+[^c17430431]: Textual amendment: [Sch. 9 Pts. II–IV](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/II) added by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 18(3)(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/18/3/4), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1989/40/schedule/7) (subject to the transitional and saving provisions mentioned in [S.I. 1990/355](https://www.legislation.gov.uk/uksi/1990/355), [arts. 6–9](https://www.legislation.gov.uk/uksi/1990/355/article/6)) (Sch. 7 of the 1989 Act providing that the provisions have effect as Pts. II to IV of Sch. 9)
+
+[^c18008941]: Modification: [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I) modified (coming into force in accordance with [s. 3](https://www.legislation.gov.uk/ukla/1999/4/section/3) of the amending Act) by [1999 c. iv](https://www.legislation.gov.uk/ukla/1999/4), [ss. 3](https://www.legislation.gov.uk/ukla/1999/4/section/3), [7(6)](https://www.legislation.gov.uk/ukla/1999/4/section/7/6)
+
+[^c19320711]: Modification: [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/1) extended (24.6.2003) by [The Uncertificated Securities (Amendment) (Eligible Debt Securities) Regulations 2003 (S.I. 2003/1633)](https://www.legislation.gov.uk/uksi/2003/1633), [reg. 15](https://www.legislation.gov.uk/uksi/2003/1633/regulation/15), [Sch. 2 para. 2(e)](https://www.legislation.gov.uk/uksi/2003/1633/schedule/2/paragraph/2/e)
+
+[^c18007581]: Textual amendment: [Sch. 9 Pt. I paras. 1-87](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I/paragraph/1) inserted (2.12.1991) by [S.I. 1991/2705](https://www.legislation.gov.uk/uksi/1991/2705), [regs. 5(4)](https://www.legislation.gov.uk/uksi/1991/2705/regulation/5/4), [9](https://www.legislation.gov.uk/uksi/1991/2705/regulation/9), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2705/schedule/1)
+
+[^c19427721]: Textual amendment: Words in [Sch. 9 para. 4(2)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/paragraph/4/2) substituted (1.10.2005) by [The Companies Act 1985 (Investment Companies and Accounting and Audit Amendments) Regulations 2005 (S.I. 2005/2280)](https://www.legislation.gov.uk/uksi/2005/2280), [reg. 8(a)](https://www.legislation.gov.uk/uksi/2005/2280/regulation/8/a)
+
+[^c19427741]: Textual amendment: Words in [Sch. 9 para. 4(2)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/paragraph/4/2) substituted (1.10.2005) by [The Companies Act 1985 (Investment Companies and Accounting and Audit Amendments) Regulations 2005 (S.I. 2005/2280)](https://www.legislation.gov.uk/uksi/2005/2280), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2005/2280/regulation/8/b)
+
+[^c19322551]: Textual amendment: [Sch. 9 Pt. 1 para. 8](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/1/paragraph/8) omitted (12.11.2004 with effect as mentioned in reg. 1(2) of the amending S.I.) by virtue of [The Companies Act 1985 (International Accounting Standards and Other Accounting Amendments) Regulations 2004 (S.I. 2004/2947)](https://www.legislation.gov.uk/uksi/2004/2947), [reg. 14(4)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/14/4), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2004/2947/schedule/5/paragraph/2)
+
+[^c19430841]: Textual amendment: [Sch 9](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9) Balance Sheet Format, Liabilities: words substituted (12.11.2004 with effect as mentioned in reg. 1(2) of the amending S.I.) by [The Companies Act 1985 (International Accounting Standards and Other Accounting Amendments) Regulations 2004 (S.I. 2004/2947)](https://www.legislation.gov.uk/uksi/2004/2947). reg. 14(4), {Sch. 5 para. 4}
+
+[^c19322591]: Textual amendment: Words in [Sch. 9 Pt. 1 para. 19(b)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/1/paragraph/19/b) omitted (12.11.2004 with effect as mentioned in reg. 1(2) of the amending S.I.) by virtue of [The Companies Act 1985 (International Accounting Standards and Other Accounting Amendments) Regulations 2004 (S.I. 2004/2947)](https://www.legislation.gov.uk/uksi/2004/2947), [reg. 14(4)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/14/4), [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2004/2947/schedule/5/paragraph/5)
+
+[^c19322621]: Textual amendment: Words in [Sch. 9 Pt. 1 para. 23](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/1/paragraph/23) substituted (12.11.2004 with effect as mentioned in reg. 1(2) of the amending S.I.) by [The Companies Act 1985 (International Accounting Standards and Other Accounting Amendments) Regulations 2004 (S.I. 2004/2947)](https://www.legislation.gov.uk/uksi/2004/2947), [reg. 14(4)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/14/4), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2004/2947/schedule/5/paragraph/6)
+
+[^c18023171]: Textual amendment: [Sch. 9 Pt. I para. 44(3)(a)(b)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I/paragraph/44/3/a/b) substituted (2.2.1996) for words by [S.I. 1996/189](https://www.legislation.gov.uk/uksi/1996/189), [reg. 14(6)](https://www.legislation.gov.uk/uksi/1996/189/regulation/14/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/1), [3(1)(2)](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/3/1/2) (with [reg. 16](https://www.legislation.gov.uk/uksi/1996/189/regulation/16))
+
+[^c18023181]: Textual amendment: Words in [Sch. 9 Pt. I para. 44(4)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I/paragraph/44/4) substituted (2.2.1996) by [S.I. 1996/189](https://www.legislation.gov.uk/uksi/1996/189), [reg. 14(6)](https://www.legislation.gov.uk/uksi/1996/189/regulation/14/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/1), [3(1)(3)](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/3/1/3) (with [reg. 16](https://www.legislation.gov.uk/uksi/1996/189/regulation/16))
+
+[^c18023201]: Textual amendment: Words in [Sch. 9 Pt. I para. 47(1)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I/paragraph/47/1) inserted (2.2.1996) by [S.I. 1996/189](https://www.legislation.gov.uk/uksi/1996/189), [reg. 14(6)](https://www.legislation.gov.uk/uksi/1996/189/regulation/14/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/1), [4](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/4) (with [reg. 16](https://www.legislation.gov.uk/uksi/1996/189/regulation/16))
+
+[^c18023191]: Textual amendment: Words in [Sch. 9 Pt. I para. 47(1)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I/paragraph/47/1) omitted (2.2.1996) by virtue of [S.I. 1996/189](https://www.legislation.gov.uk/uksi/1996/189), [reg. 14(6)](https://www.legislation.gov.uk/uksi/1996/189/regulation/14/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/1), [4](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/4) (with [reg. 16](https://www.legislation.gov.uk/uksi/1996/189/regulation/16))
+
+[^c19427991]: Textual amendment: [Sch. 9 para. 47(2)(3)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/paragraph/47/2/3) omitted (1.10.2005) by virtue of [The Companies Act 1985 (Investment Companies and Accounting and Audit Amendments) Regulations 2005 (S.I. 2005/2280)](https://www.legislation.gov.uk/uksi/2005/2280), [reg. 9](https://www.legislation.gov.uk/uksi/2005/2280/regulation/9)
+
+[^c18029501]: Textual amendment: [Sch. 9 Pt. I para. 52(a)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I/paragraph/52/a) repealed (2.2.1996) by [S.I. 1996/189](https://www.legislation.gov.uk/uksi/1996/189), [reg. 14(6)](https://www.legislation.gov.uk/uksi/1996/189/regulation/14/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/1), [5](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/5) (with [reg. 16](https://www.legislation.gov.uk/uksi/1996/189/regulation/16))
+
+[^c18031201]: Textual amendment: [Sch. 9 Pt. I para. 54(1)(a)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I/paragraph/54/1/a) repealed (2.2.1996) by [S.I. 1996/189](https://www.legislation.gov.uk/uksi/1996/189), [reg. 14(6)](https://www.legislation.gov.uk/uksi/1996/189/regulation/14/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/1), [6](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/6) (with [reg. 16](https://www.legislation.gov.uk/uksi/1996/189/regulation/16))
+
+[^c18031211]: Textual amendment: [Sch. 9 Pt. I para. 54(2)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I/paragraph/54/2) repealed (2.2.1996) by [S.I. 1996/189](https://www.legislation.gov.uk/uksi/1996/189), [reg. 14(6)](https://www.legislation.gov.uk/uksi/1996/189/regulation/14/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/1), [6](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/6) (with [reg. 16](https://www.legislation.gov.uk/uksi/1996/189/regulation/16))
+
+[^c19323681]: Textual amendment: Words in [Sch. 9 Pt. 1 para. 59(1)(b)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/1/paragraph/59/1/b) substituted (12.11.2004 with effect as mentioned in reg. 1(2) of the amending S.I.) by [The Companies Act 1985 (International Accounting Standards and Other Accounting Amendments) Regulations 2004 (S.I. 2004/2947)](https://www.legislation.gov.uk/uksi/2004/2947), [reg. 14(4)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/14/4), [Sch. 5 para. 9(a)](https://www.legislation.gov.uk/uksi/2004/2947/schedule/5/paragraph/9/a)
+
+[^c19323751]: Textual amendment: Words in [Sch. 9 Pt. 1 para. 59(1)(c)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/1/paragraph/59/1/c) substituted (12.11.2004 with effect as mentioned in reg. 1(2) of the amending S.I.) by [The Companies Act 1985 (International Accounting Standards and Other Accounting Amendments) Regulations 2004 (S.I. 2004/2947)](https://www.legislation.gov.uk/uksi/2004/2947), [reg. 14(4)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/14/4), [Sch. 5 para. 9(b)](https://www.legislation.gov.uk/uksi/2004/2947/schedule/5/paragraph/9/b)
+
+[^c18031261]: Textual amendment: [Sch. 9 Pt. I para. 66(1)(b)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I/paragraph/66/1/b) and preceding word repealed (2.2.1996) by [S.I. 1996/189](https://www.legislation.gov.uk/uksi/1996/189), [reg. 14(6)](https://www.legislation.gov.uk/uksi/1996/189/regulation/14/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/1), [7](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/7) (with [reg. 16](https://www.legislation.gov.uk/uksi/1996/189/regulation/16))
+
+[^c18031271]: Textual amendment: [Sch. 9 Pt. I para. 66(1)(b)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I/paragraph/66/1/b) and preceding word repealed (2.2.1996) by [S.I. 1996/189](https://www.legislation.gov.uk/uksi/1996/189), [reg. 14(6)](https://www.legislation.gov.uk/uksi/1996/189/regulation/14/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/1), [7](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/7) (with [reg. 16](https://www.legislation.gov.uk/uksi/1996/189/regulation/16))
+
+[^c18031301]: Textual amendment: [Sch. 9 Pt. I para. 68(1)(b)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I/paragraph/68/1/b) and preceding word repealed (2.2.1996) by [S.I. 1996/189](https://www.legislation.gov.uk/uksi/1996/189), [reg. 14(6)](https://www.legislation.gov.uk/uksi/1996/189/regulation/14/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/1), [8](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/8) (with [reg. 16](https://www.legislation.gov.uk/uksi/1996/189/regulation/16))
+
+[^c18031291]: Textual amendment: [Sch. 9 Pt. I para. 68(1)(b)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I/paragraph/68/1/b) and preceding word repealed (2.2.1996) by [S.I. 1996/189](https://www.legislation.gov.uk/uksi/1996/189), [reg. 14(6)](https://www.legislation.gov.uk/uksi/1996/189/regulation/14/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/1), [8](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/8) (with [reg. 16](https://www.legislation.gov.uk/uksi/1996/189/regulation/16))
+
+[^c18031311]: Textual amendment: [Sch. 9 Pt. I para. 73(3)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I/paragraph/73/3) repealed (2.2.1996) by [S.I. 1996/189](https://www.legislation.gov.uk/uksi/1996/189), [reg. 14(6)](https://www.legislation.gov.uk/uksi/1996/189/regulation/14/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/1), [9](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/9) (with [reg. 16](https://www.legislation.gov.uk/uksi/1996/189/regulation/16))
+
+[^c18041971]: Textual amendment: [Sch. 9 Pt. I para. 74](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I/paragraph/74) repealed (2.2.1996) by [S.I. 1996/189](https://www.legislation.gov.uk/uksi/1996/189), [reg. 14(6)](https://www.legislation.gov.uk/uksi/1996/189/regulation/14/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/1), [10](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/10) (with [reg. 16](https://www.legislation.gov.uk/uksi/1996/189/regulation/16))
+
+[^c18041981]: Textual amendment: [Sch. 9 Pt. I para. 75(1)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I/paragraph/75/1) repealed (2.2.1996) by [S.I. 1996/189](https://www.legislation.gov.uk/uksi/1996/189), [reg. 14(6)](https://www.legislation.gov.uk/uksi/1996/189/regulation/14/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/1), [11](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/11) (with [reg. 16](https://www.legislation.gov.uk/uksi/1996/189/regulation/16))
+
+[^c19323851]: Textual amendment: [Sch. 9 Pt. 1 para. 77](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/1/paragraph/77) omitted (12.11.2004 with effect as mentioned in reg. 1(2) of the amending S.I.) by virtue of [The Companies Act 1985 (International Accounting Standards and Other Accounting Amendments) Regulations 2004 (S.I. 2004/2947)](https://www.legislation.gov.uk/uksi/2004/2947), [reg. 3](https://www.legislation.gov.uk/uksi/2004/2947/regulation/3), [Sch. 1 para. 34(a)](https://www.legislation.gov.uk/uksi/2004/2947/schedule/1/paragraph/34/a)
+
+[^c18042041]: Textual amendment: Definition of "Banking activities" in s. 82 repealed (11.2.1994) by [S.I. 1994/233](https://www.legislation.gov.uk/uksi/1994/233), [reg. 4(1)](https://www.legislation.gov.uk/uksi/1994/233/regulation/4/1)
+
+[^c18042051]: Textual amendment: Definition of "Banking transactions" in s. 82 repealed (11.2.1994) by [S.I. 1994/233](https://www.legislation.gov.uk/uksi/1994/233), [reg. 4(1)](https://www.legislation.gov.uk/uksi/1994/233/regulation/4/1)
+
+[^c19324261]: Textual amendment: [Sch. 9 Pt. 1 para. 82](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/1/paragraph/82): definition of "investment property" inserted (12.11.2004 with effect as mentioned in reg. 1(2) of the amending S.I.) by [The Companies Act 1985 (International Accounting Standards and Other Accounting Amendments) Regulations 2004 (S.I. 2004/2947)](https://www.legislation.gov.uk/uksi/2004/2947), [reg. 14(4)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/14/4), [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2004/2947/schedule/5/paragraph/10)
+
+[^c5280291]: Textual amendment: O.J. L222 of 14.8.1978, page 11, and O.J. L372 of 31.12.1986, page 1, as amended in particular by Directive 2001/65/EEC (O.J. L238 of 27.12.2001, page 28).
+
+[^c19324311]: Textual amendment: Words in [Sch. 9 Pt. 1 para. 85(c)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/1/paragraph/85/c) substituted (12.11.2004 with effect as mentioned in reg. 1(2) of the amending S.I.) by [The Companies Act 1985 (International Accounting Standards and Other Accounting Amendments) Regulations 2004 (S.I. 2004/2947)](https://www.legislation.gov.uk/uksi/2004/2947), [reg. 14(4)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/14/4), [Sch. 5 para. 12(a)](https://www.legislation.gov.uk/uksi/2004/2947/schedule/5/paragraph/12/a)
+
+[^c19324331]: Textual amendment: Words in [Sch. 9 Pt. 1 para. 85(c)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/1/paragraph/85/c) substituted (12.11.2004 with effect as mentioned in reg. 1(2) of the amending S.I.) by [The Companies Act 1985 (International Accounting Standards and Other Accounting Amendments) Regulations 2004 (S.I. 2004/2947)](https://www.legislation.gov.uk/uksi/2004/2947), [reg. 14(4)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/14/4), [Sch. 5 para. 12(b)](https://www.legislation.gov.uk/uksi/2004/2947/schedule/5/paragraph/12/b)
+
+[^c18042061]: Textual amendment: Words in [Sch. 9 para. 86](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/paragraph/86) repealed (S.) (28.11.2004) by [2000 asp 5](https://www.legislation.gov.uk/asp/2000/5), [ss. 76](https://www.legislation.gov.uk/asp/2000/5/section/76), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 Pt. I para. 46(6)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/part/I/paragraph/46/6), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+
+[^c18042081]: Textual amendment: [Sch. 9 Pt. I para. 87(b)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I/paragraph/87/b) substituted (2.2.1996) by [S.I. 1996/189](https://www.legislation.gov.uk/uksi/1996/189), [reg. 14(6)](https://www.legislation.gov.uk/uksi/1996/189/regulation/14/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/1), [13(1)(2)](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/13/1/2) (with [reg. 16](https://www.legislation.gov.uk/uksi/1996/189/regulation/16))
+
+[^c18042091]: Textual amendment: Words in [Sch. 9 Pt. I para. 87(c)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/I/paragraph/87/c) substituted (2.2.1996) by [S.I. 1996/189](https://www.legislation.gov.uk/uksi/1996/189), [reg. 14(6)](https://www.legislation.gov.uk/uksi/1996/189/regulation/14/6), [Sch. 4 paras. 1](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/1), [13(1)(3)](https://www.legislation.gov.uk/uksi/1996/189/schedule/4/paragraph/13/1/3) (with [reg. 16](https://www.legislation.gov.uk/uksi/1996/189/regulation/16))
+
+[^c19324031]: Textual amendment: Words in [Sch. 9 Pt. 1 para. 87(c)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/1/paragraph/87/c) substituted (12.11.2004 with effect as mentioned in reg. 1(2) of the amending S.I.) by [The Companies Act 1985 (International Accounting Standards and Other Accounting Amendments) Regulations 2004 (S.I. 2004/2947)](https://www.legislation.gov.uk/uksi/2004/2947), [reg. 3](https://www.legislation.gov.uk/uksi/2004/2947/regulation/3), [Sch. 1 para. 34(b)](https://www.legislation.gov.uk/uksi/2004/2947/schedule/1/paragraph/34/b)
+
+[^c18008911]: Textual amendment: [Sch. 9 Pt. II paras. 1-7](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/II/paragraph/1) inserted (2.12.1991) by [S.I. 1991/2705](https://www.legislation.gov.uk/uksi/1991/2705), [regs. 5(4)](https://www.legislation.gov.uk/uksi/1991/2705/regulation/5/4), [9](https://www.legislation.gov.uk/uksi/1991/2705/regulation/9), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2705/schedule/1)
+
+[^c19324351]: Textual amendment: [Sch. 9 Pt. 2 para. 1](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/2/paragraph/1) omitted (12.11.2004 with effect as mentioned in reg. 1(2) of the amending S.I.) by virtue of [The Companies Act 1985 (International Accounting Standards and Other Accounting Amendments) Regulations 2004 (S.I. 2004/2947)](https://www.legislation.gov.uk/uksi/2004/2947), [reg. 15](https://www.legislation.gov.uk/uksi/2004/2947/regulation/15), [Sch. 7 para. 12](https://www.legislation.gov.uk/uksi/2004/2947/schedule/7/paragraph/12)
+
+[^c18304201]: Textual amendment: Words in [Sch. 9 Pt. II para. 7(3)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/II/paragraph/7/3) repealed (1.2.1994) by [1993 c. 38](https://www.legislation.gov.uk/ukpga/1993/38), [s. 35(1)](https://www.legislation.gov.uk/ukpga/1993/38/section/35/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/1993/38/schedule/2); [S.I. 1994/115](https://www.legislation.gov.uk/uksi/1994/115), [art. 2(2)](https://www.legislation.gov.uk/uksi/1994/115/article/2/2)
+
+[^c19488491]: Textual amendment: Words in [Sch. 9 Pt. 2 para. 7(3)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/2/paragraph/7/3) repealed (1.1.2007) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1295](https://www.legislation.gov.uk/ukpga/2006/46/section/1295), [1300](https://www.legislation.gov.uk/ukpga/2006/46/section/1300), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 7(a)](https://www.legislation.gov.uk/uksi/2006/3428/article/7/a), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/2/part/1) (with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8](https://www.legislation.gov.uk/uksi/2006/3428/article/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5) (as amended by [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 11](https://www.legislation.gov.uk/uksi/2007/3495/article/11), [Sch. 5](https://www.legislation.gov.uk/uksi/2007/3495/schedule/5)))
+
+[^c18007411]: Textual amendment: [Sch. 9 Pt. III](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/III) repealed (2.12.1991) by [S.I. 1991/2705](https://www.legislation.gov.uk/uksi/1991/2705), [regs. 5(2)](https://www.legislation.gov.uk/uksi/1991/2705/regulation/5/2), [9](https://www.legislation.gov.uk/uksi/1991/2705/regulation/9)
+
+[^c18008921]: Textual amendment: [Sch. 9 Pt. III](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/III) inserted (2.12.1991) by [S.I. 1991/2705](https://www.legislation.gov.uk/uksi/1991/2705), [regs. 5(4)](https://www.legislation.gov.uk/uksi/1991/2705/regulation/5/4), [9](https://www.legislation.gov.uk/uksi/1991/2705/regulation/9), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2705/schedule/1)
+
+[^c17430461]: Textual amendment: [Sch. 9 Pts. II–IV](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/II) added by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 18(3)(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/18/3/4), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1989/40/schedule/7) (subject to the transitional and saving provisions mentioned in [S.I. 1990/355](https://www.legislation.gov.uk/uksi/1990/355), [arts. 6–9](https://www.legislation.gov.uk/uksi/1990/355/article/6)) (Sch. 7 of the 1989 Act providing that the provisions have effect as Pts. II to IV of Sch. 9)
+
+[^c17430481]: Textual amendment: [Sch. 9 Pt. IV para. 2](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/IV/paragraph/2) substituted (28.2.1994) by [S.I. 1994/233](https://www.legislation.gov.uk/uksi/1994/233), [reg. 5(1)(3)](https://www.legislation.gov.uk/uksi/1994/233/regulation/5/1/3)
+
+[^c19716801]: Textual amendment: Words in [Sch. 9 Pt. 4 para. 2](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/4/paragraph/2) substituted (1.10.2007 with application in accordance with Sch. 4 para. 7(2) of the amending S.I.) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 10(1)](https://www.legislation.gov.uk/uksi/2007/2194/article/10/1), [Sch. 4 para. 7(1)(a)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/7/1/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
+
+[^c17430541]: Textual amendment: Words in [Sch. 9 Pt. IV para. 3(1)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/IV/paragraph/3/1) substituted (28.2.1994) by [S.I. 1994/233](https://www.legislation.gov.uk/uksi/1994/233), [reg. 5(1)(4)](https://www.legislation.gov.uk/uksi/1994/233/regulation/5/1/4)
+
+[^c18864911]: Textual amendment: Words in [Sch. 9 Pt. IV para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/IV/paragraph/3/1/b) repealed (3.7.2002) by [The Financial Services and Markets Act 2000 (Consequential Amendments) Order 2002 (S.I. 2002/1555)](https://www.legislation.gov.uk/uksi/2002/1555), [art. 12(2)](https://www.legislation.gov.uk/uksi/2002/1555/article/12/2)
+
+[^c18864931]: Textual amendment: [Sch. 9 Pt. IV para. 3(3)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/IV/paragraph/3/3) substituted (3.7.2002) by [The Financial Services and Markets Act 2000 (Consequential Amendments) Order 2002 (S.I. 2002/1555)](https://www.legislation.gov.uk/uksi/2002/1555), [art. 12(3)](https://www.legislation.gov.uk/uksi/2002/1555/article/12/3)
+
+[^c17430561]: Textual amendment: Words in [Sch. 9 Pt. IV para. 3(4)(5)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/IV/paragraph/3/4/5) substituted (28.2.1994) by [S.I. 1994/233](https://www.legislation.gov.uk/uksi/1994/233), [reg. 5(1)(5)](https://www.legislation.gov.uk/uksi/1994/233/regulation/5/1/5)
+
+[^c19716821]: Textual amendment: Words in [Sch. 9 Pt. 4 para. 3(5)](https://www.legislation.gov.uk/ukpga/1985/6/schedule/9/part/4/paragraph/3/5) substituted (1.10.2007 with application in accordance with Sch. 4 para. 7(2) of the amending S.I.) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 10(1)](https://www.legislation.gov.uk/uksi/2007/2194/article/10/1), [Sch. 4 para. 7(1)(b)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/7/1/b) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))

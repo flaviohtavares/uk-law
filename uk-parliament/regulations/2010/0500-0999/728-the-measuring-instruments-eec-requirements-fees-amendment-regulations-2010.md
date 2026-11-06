@@ -1,0 +1,183 @@
+---
+title: The Measuring Instruments (EEC Requirements) (Fees) (Amendment) Regulations 2010
+id: uksi/2010/728
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-03-08'
+text_date: '2012-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2010/728
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/728/pdfs/uksiem_20100728_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/728/pdfs/uksi_20100728_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/728/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Measuring Instruments (EEC Requirements) (Fees) (Amendment) Regulations 2010
+
+> Text as at 2012-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2010 No. 728
+
+Fees And Charges
+
+The Measuring Instruments (EEC Requirements) (Fees) (Amendment) Regulations 2010
+
+Made
+
+8th March 2010
+
+Laid before Parliament
+
+15th March 2010
+
+Coming into force
+
+6th April 2010
+
+The Secretary of State for Business, Innovation and Skills, with the consent of the Treasury, in exercise of the powers conferred by section 56(1) and (2) of the Finance Act 1973[^f00001] and section 128 of the Finance Act 1990[^f00002], makes the following Regulations.
+
+## 1. Citation and commencement[^key-6904e07ac39d0c0a2afdc535cc0cffee]
+
+These Regulations may be cited as the Measuring Instruments (EEC Requirements) (Fees) (Amendment) Regulations 2010 and come into force on 6th April 2010.
+
+## 2. Amendment of the Measuring Instruments (EEC Requirements) (Fees) Regulations 2004[^key-44fa57c750ced620fdc60c902879b1e1]
+
+(1) The Measuring Instruments (EEC Requirements) (Fees) Regulations 2004[^f00003] are amended as follows.
+
+(2) For paragraph (3) of regulation 3 (interpretation), substitute—
+
+> (3) In calculating a variable fee—
+>
+> - (a) in the case of a service to which any of the regulations specified in Table 1 in Schedule 1 relates, each period of time taken by each officer involved in carrying out that service shall be counted separately, and the total for each officer aggregated, and shall be divided into complete periods of 15 minutes, with any remaining period of 7.5 minutes or more but less than 15 minutes being counted as a complete period of 15 minutes, and any remaining period of less than 7.5 minutes being disregarded; or
+> - (b) in the case of a service to which any of the regulations specified in Table 2 in Schedule 1 relates, each period of time taken by each officer involved in carrying out that service on work of a specified type shall be counted separately, and the total for each officer aggregated, and shall be divided into complete periods of 15 minutes, with any remaining period of 7.5 minutes or more but less than 15 minutes being counted as a complete period of 15 minutes, and any remaining period of less than 7.5 minutes being disregarded.
+
+.
+
+(3) In regulations 7 (fees relating to the grant of an EC type-approval certificate), 8A (fees relating to the approval of a manufacturer’s quality system and the carrying out of EC surveillance) and 8B (fees relating to assessment of applications for certificates or notifications), after “payable in accordance with regulation 9” insert “,9A or 9B, as the Secretary of State shall, in the Secretary of State’s sole discretion, determine.”.
+
+(4) In regulation 9 (timing of payment of fees)—
+
+- (a) for the heading, substitute “Payment of fees on completion”; and
+- (b) for paragraph (1), substitute—
+
+  > (1) On receipt of an application for a service—
+  >
+  > - (a) to which regulation 4, 5, 6 or 8 applies; or
+  > - (b) to which—
+  >   - (i) regulation 7, 8A, or 8B applies; and
+  >   - (ii) in relation to which, the Secretary of State has determined that the amount of the fee referred to in regulation 7, 8A, or 8B, as the case may be, shall be due and payable in accordance with this regulation,
+  >
+  > the Secretary of State shall estimate the total amount to be payable in accordance with these Regulations in respect of that application and shall notify the applicant of the amount so estimated.
+
+  .
+
+(5) After Regulation 9 insert—
+
+> **9A.** — **Payment of fees in advance**
+>
+> (1) On receipt of an application for a service—
+>
+> - (a) to which regulation 7, 8A or 8B applies; and
+> - (b) in relation to which the Secretary of State has determined that the amount of the fee referred to in regulation 7, 8A or 8B, as the case may be, shall be due and payable in accordance with this regulation,
+>
+> the Secretary of State shall estimate the total amount to be payable in accordance with these Regulations in respect of that application and shall notify the applicant of the amount so estimated.
+>
+> (2) The amount so estimated shall be paid by the applicant before the commencement of the relevant service.
+>
+> (3) If, on completion of the relevant service, the actual amount owed to the Secretary of State exceeds the amount paid by the applicant in accordance with paragraph (2), the Secretary of State shall serve an invoice on the applicant for the amount of the excess, which shall then be due and payable to the Secretary of State.
+>
+> (4) If, on completion of the relevant service, the amount paid by the applicant in accordance with paragraph (2) exceeds the actual amount owed to the Secretary of State, the amount of the excess shall then be due and payable by the Secretary of State to the applicant.
+>
+> **9B.** — **Payment of fees in instalments**
+>
+> (1) On receipt of an application for a service—
+>
+> - (a) to which regulation 7, 8A, or 8B applies; and
+> - (b) in relation to which the Secretary of State has determined that the amount of the fee referred to in regulation 7, 8A or 8B, as the case may be, shall be due and payable in accordance with this regulation,
+>
+> the Secretary of State shall estimate the total amount to be payable in accordance with these Regulations in respect of that application, notify the applicant of the amount so estimated and divide the amount so estimated in accordance with an instalment plan agreed with the applicant.
+>
+> (2) On completion of each instalment of the relevant service, the Secretary of State shall serve an invoice on the applicant for the actual amount owed to the Secretary of State in relation to that instalment, which shall then be due and payable to the Secretary of State.
+
+.
+
+(6) In Schedule 1 (calculation of variable fee)—
+
+- (a) for paragraph (a) substitute—
+
+  > - (a) an amount per officer for the time spent in providing the service, calculated in accordance with the following table—
+  >
+  >   Table 1
+  >
+  >   | Regulations relating to the relevant service | Grade of Officer | Amount per hour |
+  >   | --- | --- | --- |
+  >   | Regulation 6 | Support Officer<br>Assessor/Manager | £80<br>£95 |
+  >   | Regulation 8A and 8B(1)(c) | Auditor | £85 |
+  > - (aa) an amount for the time spent in providing the service on work of a specified type, calculated in accordance with the following table—
+  >
+  >   Table 2
+  >
+  >   | Regulations relating to the relevant service | Specified type of work | Amount per hour |
+  >   | --- | --- | --- |
+  >   | Regulations 4, 5, 7, 8 and 8B(1)(a) and (b) | Equipment testing<br>Type examination<br>Administration<br>Certification decision | £80<br>£100<br>£50<br>£125 |
+
+  ;
+- (b) in paragraph (b)—
+  - (i)[^key-7c3cfbcd5a5a157bc2082309af0912c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) for “the Department for Innovation, Universities and Skills”, substitute “the Department for Business, Innovation and Skills”.
+
+Drayson
+
+Minister of State for Science and Innovation,
+
+Department for Business, Innovation and Skills
+
+8th March 2010
+
+We Consent
+
+Tony Cunningham
+
+Dave Watts
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+8th March 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These regulations amend the Measuring Instruments (EEC Requirements) (Fees) Regulations 2004 (“the 2004 Regulations”), which prescribe the fees to be charged in relation to certain services provided by the Secretary of State with regard to measuring instruments.
+
+Under the 2004 Regulations, prescribed fees include a variable fee comprising an amount per officer for the time spent by that officer in providing the relevant service. Regulations 2(2) and 2(6)(a) change the basis of calculation of the variable fee in relation to services other than those relating to the approval of a manufacturer’s quality system and the carrying out of EC surveillance, so that the variable fee is calculated with reference to the type of work undertaken as opposed to the type of officer undertaking the work. There is no resultant increase in fees.
+
+Under the 2004 Regulations, the Secretary of State estimates the amount payable for the provision of the relevant service, with the actual amount owed to the Secretary of State being invoiced on completion of that service. Regulations 2(3), (4) and (5) give the Secretary of State the additional options of requiring payment in advance or payment in instalments in the case of services relating to the grant of an EC Type-Approval Certificate, the approval of a manufacturer’s quality system and the carrying out of EC surveillance and the assessment of applications for certificates or notifications.
+
+Under the 2004 Regulations, the variable fee includes travelling costs reasonably incurred by reason of any part of the relevant service taking place at a location other than the National Weights and Measures Laboratory (part of the National Measurement Office). Those costs vary depending on the location of the provider and the recipient of the relevant service. Regulations 2(6)(a) and (b) provide for a certification auditor day rate calculated with reference to average travelling costs incurred within Great Britain in connection with the approval of a manufacturer’s quality system. It is not possible to make a direct comparison between charging arrangements in respect of travel costs under the 2004 Regulations and the revised charging arrangements provided for by these Regulations. However, because average costs take account of fluctuations in charges under the 2004 Regulations to which all recipients of services are in practice subject, no overall increase in costs is anticipated.
+
+A full impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1973 c.51](https://www.legislation.gov.uk/ukpga/1973/51).
+
+[^f00002]: Footnote: [1990 c.29](https://www.legislation.gov.uk/ukpga/1990/29).
+
+[^key-6904e07ac39d0c0a2afdc535cc0cffee]: Commencement: Reg. 1 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/728/regulation/1)
+
+[^key-44fa57c750ced620fdc60c902879b1e1]: Commencement: Reg. 2 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/728/regulation/1)
+
+[^f00003]: Footnote: [S.I. 2004/1300](https://www.legislation.gov.uk/uksi/2004/1300), amended by [S.I. 2006/2679](https://www.legislation.gov.uk/uksi/2006/2679), [S.I. 2008/732](https://www.legislation.gov.uk/uksi/2008/732).
+
+[^key-7c3cfbcd5a5a157bc2082309af0912c8]: Textual amendment: [Reg. 2(6)(b)(i)](https://www.legislation.gov.uk/uksi/2010/728/regulation/2/6/b/i) revoked (6.4.2012) by [The Measuring Instruments (EEC Requirements) (Fees) (Amendment) Regulations 2012 (S.I. 2012/751)](https://www.legislation.gov.uk/uksi/2012/751), [regs. 1](https://www.legislation.gov.uk/uksi/2012/751/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2012/751/regulation/4/b)

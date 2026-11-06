@@ -1,0 +1,154 @@
+---
+title: The Barts Health National Health Service Trust (Establishment) and the Barts and The London National Health Service Trust, the Newham University Hospital National Health Service Trust and the Whipps Cross University Hospital National Health Service Trust (Dissolution) Order 2012
+id: uksi/2012/796
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-03-12'
+text_date: '2023-11-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/796
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/796/pdfs/uksi_20120796_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/796/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Barts Health National Health Service Trust (Establishment) and the Barts and The London National Health Service Trust, the Newham University Hospital National Health Service Trust and the Whipps Cross University Hospital National Health Service Trust (Dissolution) Order 2012
+
+> Text as at 2023-11-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 796
+
+National Health Service, England
+
+The Barts Health National Health Service Trust (Establishment) and the Barts and The London National Health Service Trust, the Newham University Hospital National Health Service Trust and the Whipps Cross University Hospital National Health Service Trust (Dissolution) Order 2012
+
+Made
+
+12th March 2012
+
+Coming into force
+
+1st April 2012
+
+The Secretary of State for Health makes the following Order in exercise of the powers conferred by sections 25(1), 272(7) and (8) and 273(1) of, and paragraphs 5 and 28 of Schedule 4 to, the National Health Service Act 2006[^f00001].
+
+The Secretary of State makes this Order on the application of the Barts and The London National Health Service Trust, the Newham University Hospital National Health Service Trust and the Whipps Cross University Hospital National Health Service Trust, following the completion of the consultation prescribed under section 25(3) of, and paragraph 28(3) of Schedule 4 to, the Act[^f00002].
+
+## 1. Citation, commencement and interpretation[^key-602b0b3d044ac0359decef415ddbf9c2]
+
+(1) This Order may be cited as the Barts Health National Health Service Trust (Establishment) and the Barts and The London National Health Service Trust, the Newham University Hospital National Health Service Trust and the Whipps Cross University Hospital National Health Service Trust (Dissolution) Order 2012 and comes into force on 1st April 2012.
+
+(2) In this Order—
+
+- “the Act” means the National Health Service Act 2006;
+- “the Barts Order” means the Royal Hospital of St Bartholomew, the Royal London Hospital and London Chest Hospital National Health Service Trust (Establishment) Order 1994[^f00003];
+- “community health services” means any services—[^key-64f0ea0e27dafa9ee25c6ecb93876918]
+  - (a) whose provision must be arranged by an integrated care board[^key-4986e189505d0ed6eeaf4c5e524a2459] under section 3(1)(g) or (i)[^key-d9bc8bdf403a086e681987c262731660] of the Act;
+  - (b) which are of a kind mentioned in section 3(1)(g) or (i)[^key-942f99c66e0c6892a6c2324c85d9167c] of the Act, but—
+    - (i) whose provision must be arranged by NHS England[^key-48508db98084531559c3ccd8ce79b9d0] under regulations made under section 3B of the Act; or
+    - (ii) which may be provided by the Secretary of State or a local authority under section 2B of the Act;
+  - (c) which a local authority must provide under paragraph 1 of Schedule 1 to the Act;
+  - (d) which a local authority may provide under paragraph 2 or 7A of Schedule 1 to the Act; or
+  - (e) which the Secretary of State must provide under paragraph 8 of Schedule 1 to the Act;
+- “dissolution date” means the date this Order comes into force;
+- “operational date” has the meaning assigned to it in paragraph 5(5) of Schedule 4 to the Act;
+- “the Newham Order” means the Newham Healthcare National Health Service Trust (Establishment) Order 1994[^f00005];
+- “the trust” means the National Health Service trust established by article 2 of this Order;
+- “the Whipps Cross Order” means the Whipps Cross Hospital National Health Service Trust (Establishment) Order 2000[^f00006].
+
+## 2. Establishment and name of the trust[^key-4c8d352dcdecdc02c82c22eca500b793]
+
+There is established a National Health Service trust which shall be called the Barts Health National Health Service Trust.
+
+## 3. Nature and functions of the trust[^key-f3819c5c9af983d2fd44060e7e9d7c1e]
+
+(1) The trust is established for the purposes specified in section 25(1) of the Act.
+
+(2) The trust’s functions shall be to provide goods and services, namely hospital accommodation and services, and community health services, for the purposes of the health service.
+
+## 4. Directors of the trust[^key-f0a023e977ebb34cd8fb58e203e8cb64]
+
+(1) The trust shall have, in addition to the chairman, 5 executive directors and 7 non-executive directors.
+
+(2) Since the trust is to be regarded as having a significant teaching commitment within the meaning of paragraph 5(1)(d) of Schedule 4 to the Act, one of the non-executive directors shall be appointed from Queen Mary and Westfield College, University of London.
+
+(3) If the Secretary of State suspends the chairman, or a non-executive director of the trust, the number of non-executive directors of the trust shall increase during the period of suspension by the number of persons so suspended.
+
+## 5. Operational date and accounting date of the trust[^key-a52f2f5dcb0ad75e1e1b5d94acbdbd39]
+
+(1) The operational date of the trust shall be 1st April 2012.
+
+(2) The accounting date of the trust shall be 31st March.
+
+## 6. Dissolution of NHS trusts[^key-9ba4262a0207110c7d2f420c59de9248]
+
+On the dissolution date—
+
+- (a) the Barts and The London National Health Service Trust, which was established by the Barts Order;
+- (b) the Newham University Hospital National Health Service Trust, which was established by the Newham Order; and
+- (c) the Whipps Cross University Hospital National Health Service Trust, which was established by the Whipps Cross Order,
+
+are dissolved, and accordingly the Barts Order, the Newham Order and the Whipps Cross Order are revoked.
+
+Signed by authority of the Secretary of State for Health.
+
+Simon Burns
+
+Minister of State,
+
+Department of Health
+
+12th March 2012
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order establishes the Barts Health National Health Service Trust as a National Health Service trust.
+
+The Order sets out the functions of the trust (article 3), the number of executive and non-executive directors of the trust (article 4), the operational date (the date on which the trust assumes all its functions) and the accounting date of the trust (article 5).
+
+This Order also dissolves the Barts and The London National Health Service Trust, the Newham University Hospital National Health Service Trust and the Whipps Cross University Hospital National Health Service Trust.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^f00002]: Footnote: *See* [S.I. 2010/743](https://www.legislation.gov.uk/uksi/2010/743).
+
+[^key-602b0b3d044ac0359decef415ddbf9c2]: Commencement: Art. 1 in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/796/article/1/1)
+
+[^f00003]: Footnote: [S.I. 1994/307](https://www.legislation.gov.uk/uksi/1994/307), amended by [S.I. 1999/1823](https://www.legislation.gov.uk/uksi/1999/1823), which changed the trust’s name to the Barts and The London National Health Service Trust, [2003/1499](https://www.legislation.gov.uk/uksi/2003/1499), and [2011/1521](https://www.legislation.gov.uk/uksi/2011/1521).
+
+[^key-64f0ea0e27dafa9ee25c6ecb93876918]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/796/article/1/2) substituted (1.4.2013) by [The National Health Service Trusts (Establishment) Amendment Order 2013 (S.I. 2013/593)](https://www.legislation.gov.uk/uksi/2013/593), [arts. 1](https://www.legislation.gov.uk/uksi/2013/593/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2013/593/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/593/schedule/1)
+
+[^key-4986e189505d0ed6eeaf4c5e524a2459]: Textual amendment: Words in [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/796) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+
+[^key-d9bc8bdf403a086e681987c262731660]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/796/article/1/2) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [208(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/208/2/a)
+
+[^key-942f99c66e0c6892a6c2324c85d9167c]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/796/article/1/2) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [208(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/208/2/b)
+
+[^key-48508db98084531559c3ccd8ce79b9d0]: Textual amendment: Words in art. 1(2) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^f00005]: Footnote: [S.I. 1994/308](https://www.legislation.gov.uk/uksi/1994/308), amended by [S.I. 2004/1625](https://www.legislation.gov.uk/uksi/2004/1625), which changed the trust’s name to the Newham University Hospital National Health Service Trust.
+
+[^f00006]: Footnote: [S.I. 2000/1414](https://www.legislation.gov.uk/uksi/2000/1414), amended by [S.I. 2001/65](https://www.legislation.gov.uk/uksi/2001/65), which changed the trust’s name to the Whipps Cross University Hospital National Health Service Trust.
+
+[^key-4c8d352dcdecdc02c82c22eca500b793]: Commencement: Art. 2 in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/796/article/1/1)
+
+[^key-f3819c5c9af983d2fd44060e7e9d7c1e]: Commencement: Art. 3 in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/796/article/1/1)
+
+[^key-f0a023e977ebb34cd8fb58e203e8cb64]: Commencement: Art. 4 in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/796/article/1/1)
+
+[^key-a52f2f5dcb0ad75e1e1b5d94acbdbd39]: Commencement: Art. 5 in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/796/article/1/1)
+
+[^key-9ba4262a0207110c7d2f420c59de9248]: Commencement: Art. 6 in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/796/article/1/1)

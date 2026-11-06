@@ -1,0 +1,1239 @@
+---
+title: The NHS Commissioning Board Authority (Abolition and Transfer of Staff, Property and Liabilities) and the Health and Social Care Act 2012 (Consequential Amendments) Order 2012
+id: uksi/2012/1641
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-06-21'
+text_date: '2023-11-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/1641
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/1641/pdfs/uksiem_20121641_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1641/pdfs/uksi_20121641_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1641/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The NHS Commissioning Board Authority (Abolition and Transfer of Staff, Property and Liabilities) and the Health and Social Care Act 2012 (Consequential Amendments) Order 2012
+
+> Text as at 2023-11-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 1641
+
+National Health Service
+
+The NHS Commissioning Board Authority (Abolition and Transfer of Staff, Property and Liabilities) and the Health and Social Care Act 2012 (Consequential Amendments) Order 2012
+
+Made
+
+21st June 2012
+
+Laid before Parliament
+
+27th June 2012
+
+Coming into force in accordance with article 1(2)
+
+The Secretary of State for Health, in exercise of the powers conferred by sections 28(1) and (2), 272(7) and (8) and 273(1) of the National Health Service Act 2006[^f00001] and section 303 of the Health and Social Care Act 2012[^f00002], makes the following Order.
+
+The Secretary of State has consulted such bodies as the Secretary of State has recognised as representing officers who, in the Secretary of State’s opinion, are likely to be transferred, or affected by transfer, in pursuance of Part 2 of this Order[^f00003].
+
+## PART 1 — General
+
+### 1. Citation, commencement and extent[^key-d0ab050024f74bbe969fa59decec970a]
+
+(1) This Order may be cited as the NHS Commissioning Board Authority (Abolition and Transfer of Staff, Property and Liabilities) and the Health and Social Care Act 2012 (Consequential Amendments) Order 2012.
+
+(2) This Order comes into force—
+
+- (a) for the purposes of article 10 and Schedule 4, on 1st October 2012; and
+- (b) for all other purposes, immediately after the coming into force of section 1H(1) of the National Health Service Act 2006[^f00004].
+
+(3) Subject to paragraph (4), this Order extends to England and Wales only.
+
+(4) Any amendment made by Part 3 of this Order has the same extent as the provision amended.
+
+(5) The following provisions apply in relation to England only—
+
+- (a) articles 2 to 8 and Schedule 2;
+- (b) paragraphs 2, 3, 15, 16 and 17 of Schedule 3; and
+- (c) paragraphs 2, 4, 6 to 8, 11, 12, 16, 21, 22 and 23 of Schedule 4.
+
+## PART 2 — Abolition of the NHS Commissioning Board Authority
+
+### 2. Interpretation[^key-f6ea0d564cc805e567c76382fd633c8c]
+
+In this Part—
+
+- “the Act” means the National Health Service Act 2006;
+- “the Authority” means the NHS Commissioning Board Authority established under article 2 of the NHS Commissioning Board Authority (Establishment and Constitution) Order 2011[^f00005];
+- [^key-409e3f81f2c44a1686cd511fa4d7bb97]...
+- “[^key-703f9ac46de01684b0f7309462c163e2] **NHS England**” means the body corporate established under section 1H of the Act;
+- “the transfer date” means the date on which this Part comes into force by virtue of article 1(2).
+
+### 3. Abolition of the Authority[^key-b97a44473c860e0da12fdf177e19bcad]
+
+The Authority is abolished.
+
+### 4. Transfer of staff to NHS England[^key-915b0eccf735f97075e063cbc281ba7b][^key-34df0c1156d679eaadae079150e91065]
+
+(1) This paragraph applies to any person who—
+
+- (a) immediately before the transfer date is employed by the Authority; and
+- (b) has been notified in writing by the Authority prior to the transfer date that they are to be transferred to NHS England .
+
+(2) Any person to whom paragraph (1) applies is, on the transfer date, to be transferred to the employment of NHS England .
+
+(3) The contract of employment of a person whose employment has transferred to NHS England under paragraph (2)—
+
+- (a) is not terminated by that transfer; and
+- (b) has effect from the transfer date as if originally made between that person and NHS England .
+
+(4) Without prejudice to paragraph (3)—
+
+- (a) all the rights, powers, duties and liabilities of the Authority under, or in connection with, the contract of employment of any person whose employment transferred to NHS England on the transfer date under paragraph (2), are to transfer to NHS England ; and
+- (b) any act or omission before the transfer date by, or in relation to, the Authority, in respect of that person or that person’s contract of employment, is deemed to have been an act or omission of, or in relation to, NHS England .
+
+(5) Paragraphs (2) to (4) do not have effect to transfer the contract of employment of a person to whom paragraph (1) applies, or any rights, powers, duties and liabilities under, or in connection with, that contract, if, before the transfer date, that person informs the Authority that they object to becoming employed by NHS England.
+
+(6) Where a person to whom paragraph (1) applies has objected to the transfer of that person’s contract of employment to NHS England as described in paragraph (5), the transfer operates so as to terminate that person’s contract of employment with the Authority.
+
+(7) Subject to paragraph (8), a person whose contract of employment is terminated in accordance with paragraph (6) is not to be treated, for any purpose, as having been dismissed by the Authority.
+
+(8) Where the transfer involves or would involve a substantial change in the working conditions to the material detriment of a person whose employment is or would have transferred under paragraph (2), that person may treat the contract of employment as having been terminated, and that person is to be treated for any purpose as having been dismissed.
+
+(9) No damages are to be payable by the Authority or NHS England as a result of a dismissal falling within paragraph (8) in respect of any failure by the Authority or NHS England to pay wages to a person in respect of a notice period which the person has failed to work.
+
+(10) Paragraphs (2), (3) and (5) to (8) are without prejudice to any right of a person arising apart from this article to terminate that person’s contract of employment without notice in acceptance of a repudiatory breach of contract by the employer.
+
+### 5. Transfer of property and liabilities[^key-d3bc7a205421d7a748192b7761dcfc97]
+
+(1) Any property held by the Authority immediately before the transfer date which is identified in Schedule 1 is to transfer, on the transfer date, to NHS England.
+
+(2) Any other property (including assets, whether tangible or intangible) which is held by the Authority immediately before the transfer date which is not referred to in paragraph (1) is to transfer, on the transfer date, to NHS England .
+
+(3) All liabilities of the Authorityrelating to property held by the Authorityimmediately before the transfer date are to transfer, on the transfer date, to NHS England .
+
+(4) Any right relating to property held by the Authority immediately before the transfer date that was enforceable by or against the Authority before the transfer date is, on or after that date, to be enforceable by or against NHS England.
+
+### 6. Transfer of other liabilities and winding up of affairs[^key-3441c137f61ddc340b857ca6f54a1a62]
+
+(1) On the transfer date, all liabilities of the Authority not mentioned in articles 4 and 5 are to transfer to NHS England .
+
+(2) In paragraph (1) “liabilities”—
+
+- (a) includes the obligation of the Authority to prepare—
+  - (i) accounts in accordance with Schedule 15 to the Act in respect of the period beginning 1st April 2012 and ending on the transfer date, and
+  - (ii) a report to the Secretary of State under regulation 14 of the NHS Commissioning Board Authority Regulations 2011[^f00007] in respect of the exercise by the Authority of its functions during that period; and
+- (b) does not include any liability in tort in respect of any claim for damages for death or personal injury caused or alleged to have been caused before the transfer date.
+
+(3) Any liability in tort in respect of any claim for damages for death or personal injury caused or alleged to have been caused before the transfer date is to transfer, on the transfer date, to the Secretary of State.
+
+(4) For the purposes of paragraph (2)(a)(ii), regulation 14 of the NHS Commissioning Board Authority Regulations 2011 is to remain in force.
+
+(5) NHS England must take such action as may be necessary for the winding up of the affairs of the Authority.
+
+### 7. Supplementary provision[^key-61062356f29e9c48dac8cdede17c10d3]
+
+(1) Any act or omission by, or in relation to, the Authority before the transfer date in respect of—
+
+- (a) the exercise of any functions of the Authority[^f00008];
+- (b) under or in connection with any contract or agreement entered into by the Authority; or
+- (c) in connection with any property or liabilities of the Authority transferred under this Order,
+
+is deemed to have been an act or omission of, or in relation to, NHS England .
+
+(2) Anything (which may include legal proceedings) which, when this Order takes effect, is in the process of being done by, or in relation to, the Authority in respect of, or in connection with—
+
+- (a) the exercise by the Authority of any of its functions; or
+- (b) any property or liabilities of the Authority transferred under this Order,
+
+is deemed to have effect as if done by, or in relation to, and may be continued by, or in relation to,NHS England .
+
+(3) Any reference to the Authority in any agreement (whether written or not), instrument or other document in connection with any functions of the Authority or any property or liabilities transferred under this Order is to be treated as a reference to NHS England .
+
+(4) No right to terminate or vary a contract, arrangement or instrument is to operate or become exercisable, and no provision of any contract, arrangement or instrument is to operate or become exercisable or be contravened, by reason of the transfer of any property and liabilities under or by virtue of this Order.
+
+(5) The transfers of any property, rights and liabilities provided for by this Order are to be made—
+
+- (a) irrespective of any requirement for consent that would otherwise apply (whether arising under any enactment, instrument, agreement or otherwise); and
+- (b) whether or not they would otherwise be capable of being transferred.
+
+### 8. Amendments and revocations consequential on the abolition of the Authority[^key-99111ed1b40388b42a69902f5fef5f25]
+
+The amendments and revocations in Schedule 2 have effect.
+
+## PART 3 — Amendments to subordinate legislation consequential on the provisions of the Health and Social Care Act 2012 relating to NHS England and clinical commissioning groups and Monitor
+
+### 9. Amendments consequential on provisions relating to the establishment of NHS England and clinical commissioning groups[^key-c1fb4e93a0cedd642230c825418774fc]
+
+The amendments in Schedule 3 have effect.
+
+### 10. Amendments consequential on provisions relating to Monitor[^key-0c92b5a002820a0df913ebecc57c3630]
+
+The amendments in Schedule 4 have effect.
+
+Signed by authority of the Secretary of State for Health.
+
+Earl Howe
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+21st June 2012
+
+## SCHEDULE 1 — Property and liabilities transferring to NHS England
+
+Part 2, article 5(1)
+
+### 1. Furniture, fittings, plant, equipment and machinery[^key-bac5db47503b55c50c59d015bf899db5]
+
+(1) The property and liabilities which the Authority has in relation to the items specified in sub-paragraph (2) are to transfer to NHS England on the transfer date.
+
+(2) The items referred to in sub-paragraph (1) are—
+
+- (a) all computers, mobile telephones, data cards and electronic instruments;
+- (b) all software, data and hardware relating to the National Reporting and Learning System[^f00009] or to the performance by the Authority of any of its functions;
+- (c) all office furniture, including desks, chairs and filing cabinets;
+- (d) all goods, stocks, inventory, stores and raw materials used by or in connection with, or otherwise attributable, to the functions of the Authority;
+- (e) all assets, whether tangible or intangible, purchased through money supplied by the Department of Health in relation to the Authority’s work in preparing for the establishment of NHS England .
+
+### 2. Contracts and agreements[^key-6d43569272e2381170269b01c54206e7]
+
+(1) The property and liabilities which the Authority has in relation to the contracts and agreements specified in sub-paragraph (2) are to transfer to NHS England on the transfer date.
+
+(2) The contracts and agreements referred to in sub-paragraph (1) are—
+
+- (a) all operating leases and maintenance contracts for cars, photocopiers, printers and other electronic equipment used by the Authority;
+- (b) all policies of insurance taken out and maintained by the Authority in relation to any of the functions of the Authority; and
+- (c) all other contracts, agreements, arrangements, engagements, assignments and orders which relate to any of the functions of the Authority.
+
+### 3. Intellectual property and records[^key-45528726c3358c250901b714cda78c5d]
+
+(1) The intellectual property and liabilities which the Authority has in relation to the items specified in sub-paragraph (2) are to transfer to NHS England on the transfer date.
+
+(2) The items referred to in sub-paragraph (1) are—
+
+- (a) all books, records and other documents created or held by the Authority (including any documents or records that are kept by means of a computer or other electronic device) including—
+  - (i) employment records and other data relating to staff employed by the Authority at any time before the transfer date,
+  - (ii) financial records,
+  - (iii) records relating to the performance by the Authority of the patient safety function or the NRLS oversight function[^f00010],
+  - (iv) records relating to policy making;
+- (b) all software and IT systems relating to the performance by the Authority of any of its functions;
+- (c) all general correspondence; and
+- (d) all domain names registered by the Authority in respect of the Authority or NHS England .
+
+## SCHEDULE 2 — Amendments and revocations consequential on the abolition of the Authority
+
+Part 2, article 8
+
+### 1. The National Health Service Trusts (Membership and Procedure) Regulations 1990[^key-fe527a8c0ece8dbb695109d07093479a]
+
+In regulation 11(5) of the National Health Service (Membership and Procedure) Regulations 1990[^f00011] (disqualification for appointment of chairman and non-executive directors), omit sub-paragraph (i).
+
+### 2. The Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^key-64c7fd027b94f073bbd79aca360f8941]
+
+In Schedule 1 to the Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^f00012] (Special Health Authorities of which the Chairman and Members are not disqualified under regulation 5(1)(e)), omit “NHS Commissioning Board Authority”.
+
+### 3. The NHS Commissioning Board Authority (Establishment and Constitution) Order 2011[^key-b474d639dfea733c15f3f3ff91b63ff3]
+
+The NHS Commissioning Board Authority (Establishment and Constitution) Order 2011[^f00013] is revoked.
+
+### 4. The NHS Commissioning Board Authority Regulations 2011[^key-311907e5bb2690d7c0bab65eb03f46ee]
+
+The NHS Commissioning Board Authority Regulations 2011[^f00014] are revoked save as kept in force by article 6(4).
+
+## SCHEDULE 3 — Amendments consequential on the establishment of the National Health Service Commissioning Board and clinical commissioning groups
+
+Part 3, article 9
+
+### 1. The National Health Service Trusts (Membership and Procedure) Regulations 1990[^key-6b755f25402ccdda8d44837d0903b64e]
+
+(1) The National Health Service Trusts (Membership and Procedure) Regulations 1990[^f00015] are amended as follows.
+
+(2) In regulation 1(2) (interpretation), in the definition of “health service body”—
+
+- (a) in paragraph (a), after “Special Health Authority,” insert “a clinical commissioning group,”; and
+- (b) after paragraph (b), insert—
+
+  > - (ba) the National Health Service Commissioning Board;
+
+  .
+
+(3) In regulation 11(1) (disqualification for appointment of chairman and non-executive directors)—
+
+- (a) for sub-paragraph (d), substitute—
+
+  > - (d) he is a person whose tenure of office as the chairman, a member, a director or a governor of a health service body other than a clinical commissioning group has been terminated on the grounds—
+  >   - (i) that it was not in the interests of the health service body or of the health service that he should continue to hold the office,
+  >   - (ii) of non-attendance at meetings,
+  >   - (iii) of non-disclosure of a pecuniary interest, or
+  >   - (iv) of misbehaviour, misconduct or failure to carry out his duties;
+
+  ;
+- (b) after sub-paragraph (d), insert—
+
+  > - (da) he is a person who has been removed from office as the chair or a member of the governing body of a clinical commissioning group;
+
+  ;
+- (c) in sub-paragraph (e), before “an NHS foundation trust” insert “a clinical commissioning group or”; and
+- (d) after sub-paragraph (e) insert—
+
+  > - (ea) he is a person who is the chair or a member of the governing body of a clinical commissioning group, or an employee of such a group;
+
+  .
+
+(4) For regulation 11(3), substitute—
+
+> (3) For the purposes of paragraph (1)(c), a person shall not be treated as having been in paid employment by reason only of having been—
+>
+> - (a) in the case of an NHS foundation trust, the chairman, a governor or a non-executive director of the trust;
+> - (b) in the case of a clinical commissioning group, the chair or a member of the governing body of the group; or
+> - (c) in the case of any other health service body, the chairman, a member or a director of the health service body in question.
+
+.
+
+### 2. The National Health Service Litigation Authority Regulations 1995[^key-21069b49c78a38283485de6260a2d9d6]
+
+(1) The National Health Service Litigation Authority Regulations 1995[^f00016] are amended as follows.
+
+(2) In regulation 1(2) (interpretation), in the definition of “health service body”, after “Special Health Authority,” insert “the National Health Service Commissioning Board, a clinical commissioning group,”.
+
+(3) In regulation 7(1) (disqualification for appointment)—
+
+- (a) for sub-paragraph (d), substitute—
+
+  > - (d) he is a person whose tenure of office as the chairman, a member, a director or a governor of a health service body other than a clinical commissioning group has been terminated on the grounds—
+  >   - (i) that it was not in the interests of the health service body or of the health service that he should continue to hold the office,
+  >   - (ii) of non-attendance at meetings,
+  >   - (iii) of non-disclosure of a pecuniary interest, or
+  >   - (iv) of misbehaviour, misconduct or failure to carry out his duties;
+
+  ;
+- (b) after sub-paragraph (d) insert—
+
+  > - (da) he is a person who has been removed from office as the chair or a member of the governing body of a clinical commissioning group;
+
+  ; and
+- (c) in sub-paragraph (e), for “or an NHS trust” substitute “, an NHS trust or the National Health Service Commissioning Board or the chair or a member of the governing body of a clinical commissioning group”.
+
+(4) For regulation 7(3) (disqualification for appointment – paid employment) substitute—
+
+> (4) For the purposes of paragraph (1)(c), a person shall not be treated as having been in paid employment by reason only of having been—
+>
+> - (a) in the case of an NHS foundation trust, the chairman, a governor or a non-executive director of the trust;
+> - (b) in the case of a clinical commissioning group, the chair or a member of the governing body of the group; or
+> - (c) in the case of any other health service body, the chairman, a member or a director of the health service body in question.
+
+.
+
+### 3. The National Health Service Litigation Authority (Establishment and Constitution) Order 1995[^key-d02a239e0bce1590aacaf1d30ed0b3cc]
+
+In article 1(2) of the National Health Service Litigation Authority (Establishment and Constitution) Order 1995[^f00017] (interpretation), in the definition of “NHS body”, after “Special Health Authority,” insert “the National Health Service Commissioning Board, a clinical commissioning group,”.
+
+### 4. The National Health Service (Clinical Negligence Scheme) Regulations 1996[^key-e2dd27159210816b23db0f175c00328e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. The National Health Service (Existing Liabilities Scheme) Regulations 1996[^key-0e3327d47bcc7e9ef24ee9e6885785e5]
+
+In regulation 3(a) of the National Health Service (Existing Liabilities Scheme) Regulations 1996[^f00019] (eligible bodies), after sub-paragraph (iv) insert—
+
+> - (v) the National Health Service Commissioning Board,
+
+.
+
+### 6. The National Health Service (Liabilities to Third Parties Scheme) Regulations 1999[^key-c32b2ae813b55ea753e3010d74a1bc14]
+
+In regulation 3 of the National Health Service (Liabilities to Third Parties Scheme) Regulations 1999[^f00020] (eligible bodies)—
+
+- (a) before paragraph (a), insert—
+
+  > - (za) a clinical commissioning group,
+  > - (zb) the National Health Service Commissioning Board,
+
+  ; and
+- (b) after paragraph (aa), insert—
+
+  > - (ab) the company known as ‘NHS Property Services Limited’, a company registered in England and Wales with company number 7888110,
+
+  .
+
+### 7. The National Health Service (Property Expenses Scheme) Regulations 1999[^key-f61a2df18f403b758b93b8409be48555]
+
+In regulation 3 of the National Health Service (Property Expenses Scheme) Regulations 1999[^f00021] (eligible bodies)—
+
+- (a) before paragraph (a), insert—
+
+  > - (za) a clinical commissioning group,
+  > - (zb) the National Health Service Commissioning Board,
+
+  ; and
+- (b) after paragraph (aa), insert—
+
+  > - (ab) the company known as ‘NHS Property Services Limited’, a company registered in England and Wales with company number 7888110,
+
+  .
+
+### 8. The Medicines for Human Use (Clinical Trials) Regulations 2004[^key-c862081bcebed791aef6886db1ec1a37]
+
+(1) The Medicines for Human Use (Clinical Trials) Regulations 2004[^f00022] are amended as follows.
+
+(2) In regulation 2(1) (interpretation), in the definition of “health service body”—
+
+- (a) in paragraph (b), after “Primary Care Trust” insert “, clinical commissioning group”; and
+- (b) after paragraph (b) insert—
+
+  > - (ba) the National Health Service Commissioning Board,
+
+  .
+
+(3) In Schedule 2 (additional provisions relating to Ethics Committees)—
+
+- (a) in paragraph 3(5)(b)(iii), at the end of paragraph (bb) insert—
+
+  > ; or
+  >
+  > - (cc) the governing body of a clinical commissioning group
+
+  ; and
+- (b) in paragraph 6(6)(a)(ii), after “health service body” insert “or the governing body of a clinical commissioning group”.
+
+### 9. The NHS Blood and Transplant (Gwaed a Thrawsblaniadau’r GIG) Regulations 2005[^key-75e6d844541909fa52123251dce7895f]
+
+(1) The NHS Blood and Transplant (Gwaed a Thrawsblaniadau’r GIG) Regulations 2005[^f00023] are amended as follows.
+
+(2) In regulation 1(2) (interpretation), in the definition of “health service body”—
+
+- (a) in paragraph (a), after “Special Health Authority,” insert “clinical commissioning group,”; and
+- (b) after paragraph (f) insert—
+
+  > - (fa) the National Health Service Commissioning Board;
+
+  .
+
+(3) In regulation 3(1) (disqualification for appointment)—
+
+- (a) sub-paragraph (d), substitute—
+
+  > - (d) he is a person whose tenure of office as the chairman, a member, a director or a governor of a health service body other than a clinical commissioning group has been terminated on the grounds—
+  >   - (i) that it was not in the interests of the health service body or of the health service that he should continue to hold the office,
+  >   - (ii) of non-attendance at meetings,
+  >   - (iii) of non-disclosure of a pecuniary interest, or
+  >   - (iv) of misbehaviour, misconduct or failure to carry out his duties;
+
+  ; and
+- (b) after sub-paragraph (d) insert—
+
+  > - (da) he is a person who has been removed from office as the chair or a member of the governing body of a clinical commissioning group;
+
+  .
+
+(4) For regulation 3(3) (disqualification for appointment – paid employment) substitute—
+
+> (3) For the purposes of paragraph (1)(c), a person shall not be treated as having been in paid employment by reason only of having been—
+>
+> - (a) in the case of an NHS foundation trust, the chairman, a governor or a non-executive director of the trust;
+> - (b) in the case of a clinical commissioning group, the chair or a member of the governing body of the group; or
+> - (c) in the case of any other health service body, the chairman, a member or a director of the health service body in question.
+
+.
+
+### 10. The NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) Regulations 2005[^key-ff6cf167b34a06614ab0b63622c713d8]
+
+(1) The NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) Regulations 2005[^f00024] are amended as follows.
+
+(2) In regulation 1(2) (interpretation), in the definition of “health service body”—
+
+- (a) in paragraph (a), after “Special Health Authority,” insert “clinical commissioning group,”; and
+- (b) after paragraph (f) insert—
+
+  > - (fa) the National Health Service Commissioning Board;
+
+  .
+
+(3) In regulation 3(1) (disqualification for appointment)—
+
+- (a) for sub-paragraph (d), substitute—
+
+  > - (d) he is a person whose tenure of office as the chairman, a member, a director or a governor of a health service body other than a clinical commissioning group has been terminated on the grounds—
+  >   - (i) that it was not in the interests of the health service body or of the health service that he should continue to hold the office,
+  >   - (ii) of non-attendance at meetings,
+  >   - (iii) of non-disclosure of a pecuniary interest, or
+  >   - (iv) of misbehaviour, misconduct or failure to carry out his duties;
+
+  ;
+- (b) after sub-paragraph (d) insert—
+
+  > - (da) he is a person who has been removed from office as the chair or a member of the governing body of a clinical commissioning group;
+
+  ;
+- (c) in sub-paragraph (j), after sub-paragraph (i) insert—
+
+  > - (ia) the National Health Service Commissioning Board,
+
+  ; and
+- (d) after sub-paragraph (j) insert—
+
+  > - (ja) he is the chair or a member of the governing body of a clinical commissioning group.
+
+  .
+
+(4) For regulation 3(3) (disqualification for appointment – paid employment) substitute—
+
+> (3) For the purposes of paragraph (1)(c), a person shall not be treated as having been in paid employment by reason only of having been—
+>
+> - (a) in the case of an NHS foundation trust, the chairman, a governor or a non-executive director of the trust;
+> - (b) in the case of a clinical commissioning group, the chair or a member of the governing body of the group; or
+> - (c) in the case of any other health service body, the chairman, a member or a director of the health service body in question.
+
+.
+
+### 11. The Care Quality Commission (Registration) Regulations 2009[^key-e06a77b0b896b749c4b6402ee465d73d]
+
+(1) The Care Quality Commission (Registration) Regulations 2009[^f00025] are amended as follows.
+
+(2) In regulation 16(4) (notification of death of service user), for “the NHS Commissioning Board Authority established under article 2 of the NHS Commissioning Board Authority (Establishment and Constitution) Order 2011”, substitute “the National Health Service Commissioning Board”.
+
+(3) After regulation 16(4) insert—
+
+> (4A) For the purposes of paragraph (4), where a person has reported a death to the NHS Commissioning Board Authority, established under Article 2 of the NHS Commissioning Board Authority (Establishment and Constitution) Order 2011, before the establishment of the National Health Service Commissioning Board (“the Board”), that report is to be treated as having been made to the Board.
+
+.
+
+(4) In regulation 18(4) (notification of other incidents), for “the NHS Commissioning Board Authority established under article 2 of the NHS Commissioning Board Authority (Establishment and Constitution) Order 2011”, substitute “the National Health Service Commissioning Board”.
+
+(5) After regulation 18(4) insert—
+
+> (4ZA) For the purposes of paragraph (4), where a person has reported an incident to the NHS Commissioning Board Authority, established under Article 2 of the NHS Commissioning Board Authority (Establishment and Constitution) Order 2011, before the establishment of the National Health Service Commissioning Board (“the Board”), that report is to be treated as having been made to the Board.
+
+.
+
+### 12. The Public Health Wales National Health Service Trust (Membership and Procedure) Regulations 2009[^key-f4433ac497ece1a5fd217489562ddf42]
+
+(1) The English text of the Public Health Wales National Health Service Trust (Membership and Procedure) Regulations 2009[^f00026] is amended as follows.
+
+(2) In regulation 1(2) (interpretation), in the definition of “health service body” (“*corff gwasanaeth iechyd*”)—
+
+- (a) in paragraph (a), after “a Primary Care Trust,” insert “a clinical commissioning group,”; and
+- (b) at the end insert—
+
+  > - (e) the National Health Service Commissioning Board;
+
+  .
+
+(3) In regulation 15 (disqualification for appointment of chair and non-executive directors)—
+
+- (a) for sub-paragraph (1)(d), substitute—
+
+  > - (d) he is a person whose tenure of office as the chairman, a member, a director or a governor of a health service body other than a clinical commissioning group has been terminated on the grounds—
+  >   - (i) that it was not in the interests of the health service body or of the health service that he should continue to hold the office,
+  >   - (ii) of non-attendance at meetings,
+  >   - (iii) of non-disclosure of a pecuniary interest, or
+  >   - (iv) of misbehaviour, misconduct or failure to carry out his duties;
+
+  ;
+- (b) after sub-paragraph (1)(d), insert—
+
+  > - (da) that person is a person who has been removed from office as the chair or a member of the governing body of a clinical commissioning group; or
+
+  ;
+- (c) in sub-paragraph (1)(e), after “health service body other than”, insert “a clinical commissioning group or an employee of such a group or”;
+- (d) after sub-paragraph (1)(e) insert—
+
+  > (ea) that person is the chair or a member of the governing body of a clinical commissioning group or an employee of the group; or
+
+  ; and
+- (e) for paragraph (3) substitute—
+
+  > (3) For the purposes of paragraph (1)(c), a person will not be treated as having been in paid employment by reason only of having been—
+  >
+  > - (a) in the case of an NHS foundation trust, the chair, a governor or a non-executive director;
+  > - (b) in the case of a clinical commissioning group, the chair or a member of the governing body of the group; or
+  > - (c) in the case of any other health service body, the chair, a member or a director of the health service body in question.
+
+  .
+
+(4) The Welsh text of the Public Health Wales National Health Service Trust (Membership and Procedure) Regulations 2009 is amended as follows.
+
+(5) In regulation 1(2) (dehongli), in the definition of “corff gwasanaeth iechyd” *(“health service body”*)—
+
+- (a) in paragraph (a), after “Gofal Iechyd Sylfaenol”, insert “grŵp comisiynu clinigol,” and
+- (b) at the end insert—
+
+  > - (d) Bwrdd Comisiynu’r Gwasanaeth Iechyd Gwladol;
+
+  .
+
+(6) In regulation 15 (datgymhwyso rhag penodi cadeirydd a chyfarwyddwyr anweithredol)—
+
+- (a) for sub-paragraph (1)(ch), substitute—
+
+  > - (ch) os yw’r person hwnnw yn berson y mae ei ddeiliadaeth swydd fel cadeirydd corff gwasanaeth iechyd, neu fel aelod ohono, neu fel cyfarwyddwr neu lywodraethwr iddo, wedi ei therfynu oherwydd —
+  >   - (i) nad oedd o fudd i’r corff gwasanaeth iechyd neu i’r gwasanaeth iechyd gwladol iddo barhau i ddal y swydd,
+  >   - (ii) nad oedd yn mynychu cyfarfodydd,
+  >   - (iii) nad oedd yn datgelu buddiant ariannol, neu
+  >   - (iv) iddo gamymddwyn, gamweinyddu neu fethu â chyflawni ei ddyletswyddau;
+
+  ;
+- (b) after sub-paragraph (1)(ch), insert—
+
+  > - (cha) os yw’r person hwnnw yn berson a ddiswyddwyd fel cadeirydd neu aelod o gorff llywodraethu grŵp comisiynu clinigol; neu
+
+  ;
+- (c) for sub-paragraph (1)(d), substitute—
+
+  > - (d) os yw’r person hwnnw’n gadeirydd corff gwasanaeth iechyd ac eithrio grŵp comisiynu clinigol neu gyflogai i’r grŵp hwnnw neu ymddiriedolaeth sefydledig GIG, neu os yw’n aelod o’r corff gwasanaeth iechyd hwnnw neu’n gyfarwyddwr neu’n gyflogai iddo; neu
+
+  ;
+- (d) after sub-paragraph (1)(d) insert—
+
+  > - (da) os yw’r person hwnnw’n gadeirydd neu’n aelod o gorff llywodraethu grŵp comisiynu clinigol neu yn gyflogai i’r grŵp; neu
+
+  ; and
+- (e) for paragraph (3) substitute—
+
+  > (3) At ddibenion paragraff (1)(c), ni thrinnir person fel petai wedi bod mewn cyflogaeth am dâl yn unig oherwydd iddo fod—
+  >
+  > - (a) yn achos ymddiriedolaeth sefydledig GIG, yn gadeirydd, llywodraethwr neu gyfarwyddwr anweithredol;
+  > - (b) yn achos grŵp comisiynu clinigol, yn gadeirydd neu’n aelod o gorff llywodraethu’r grŵp;
+  > - (c) yn achos unrhyw gorff gwasanaeth iechyd arall, cadeirydd, neu aelod neu gyfarwyddwr ar y corff gwasanaeth iechyd dan sylw.
+
+  .
+
+### 13. The Welsh Health Specialised Services Committee (Wales) Regulations 2009[^key-9e0863fbd0285c5ef7ae85f973bb29a4]
+
+(1) The English text of the Welsh Health Specialised Services Committee (Wales) Regulations 2009[^f00027] is amended as follows.
+
+(2) In regulation 2 (interpretation), in the definition of “health service body” (“*corff gwasanaeth iechyd*”), for “means a”, substitute “means the National Health Service Commissioning Board, a clinical commissioning group,”.
+
+(3) In paragraph 1(2) of Schedule 2 (eligibility requirements)—
+
+- (a) in sub-paragraph (d), after “health service body” (the first time it appears), insert “other than a clinical commissioning group”; and
+- (b) after sub-paragraph (d) insert—
+
+  > - (e) has been removed from office as the chair or member of the governing body of a clinical commissioning group.
+
+  .
+
+(4) At the end of paragraph 1(4) of Schedule 2, insert “other than a clinical commissioning group, or of having held the position of chair or member of the governing body of a clinical commissioning group”.
+
+(5) The Welsh text of the Welsh Health Specialised Services Committee (Wales) Regulations 2009 is amended as follows.
+
+(6) In regulation 2 (dehongli), in the definition of “corff gwasanaeth iechyd” (*“health service body”*), after “yw” insert “Bwrdd Comisiynu’r Gwasanaeth Iechyd Gwladol, grŵp comisiynu clinigol,”.
+
+(7) In paragraph 1(2) of Schedule 2 (y gofynion cymhwystra)—
+
+- (a) in sub-paragraph (ch), after “corff gwasanaeth iechyd” (the first time it appears), insert “ac eithrio grŵp comisiynu clinigol”; and
+- (b) after sub-paragraph (ch) insert—
+
+  > - (d) wedi ei ddiswyddo fel cadeirydd neu aelod o gorff llywodraethu grŵp comisiynu clinigol.
+
+  .
+
+(8) At the end of paragraph 1(4) of Schedule 2, insert “ac eithrio grŵp comisiynu clinigol, neu fel un sydd wedi dal swydd cadeirydd neu aelod o gorff llywodraethu grŵp comisiynu clinigol”.
+
+### 14. The Local Health Boards (Constitution, Membership and Procedures) (Wales) Regulations 2009[^key-4a5f41a0e750b9fcbd4aa941596a5a90]
+
+(1) The English text of the Local Health Boards (Constitution, Membership and Procedures) (Wales) Regulations 2009[^f00028] is amended as follows.
+
+(2) In regulation 2 (interpretation), in the definition of “health service body” (“*corff gwasanaeth iechyd*”), for “means a”, substitute “means the National Health Service Commissioning Board, a clinical commissioning group,”.
+
+(3) In paragraph 1(2) of Schedule 2 (eligibility requirements for members and associate members)—
+
+- (a) in sub-paragraph (d), after “health service body” (the first time it appears), insert “other than a clinical commissioning group”; and
+- (b) after sub-paragraph (d) insert—
+
+  > - (e) has been removed from office as the chair or a member of the governing body of a clinical commissioning group.
+
+  .
+
+(4) At the end of paragraph 1(4) of Schedule 2, insert “other than a clinical commissioning group, or of having held the position of chair or member of the governing body of a clinical commissioning group”.
+
+(5) The Welsh text of the Local Health Boards (Constitution, Membership and Procedures) Regulations 2009 is amended as follows.
+
+(6) In regulation 2 (dehongli), in the definition of “corff gwasanaeth iechyd” (“*health service body”*), after “yw” insert “Bwrdd Comisiynu’r Gwasanaeth Iechyd Gwladol, grŵp comisiynu clinigol,”.
+
+(7) In paragraph 1(2)(ch) of Schedule 2 (y meini prawf cymhwystra ar gyfer aelodau ac aelodau cyswllt)—
+
+- (a) in sub-paragraph (ch), after “corff gwasanaeth iechyd” (the first time it appears), insert “ac eithrio grŵp comisiynu clinigol”; and
+- (b) after sub-paragraph (ch) insert—
+
+  > - (d) wedi’i ddiswyddo fel cadeirydd neu aelod o gorff llywodraethu grŵp comisiynu clinigol.
+
+  .
+
+(8) At the end of paragraph 1(4) of Schedule 2, insert “ac eithrio grŵp comisiynu clinigol, neu fel un sydd wedi dal swydd cadeirydd neu aelod o gorff llywodraethu grŵp comisiynu clinigol”.
+
+### 15. The Health Research Authority Regulations 2011[^key-ac6b04e54dfa4a28474382092a914bfc]
+
+(1) The Health Research Authority Regulations 2011[^f00029] are amended as follows.
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) the definition of “health service body”—
+  - (i) in paragraph (a), after “Special Health Authority,”, insert “a clinical commissioning group,”;
+  - (ii) after paragraph (g) insert—
+
+    > - (ga) the National Health Service Commissioning Board;
+
+    ; and
+- (b) in the definition of “member”, for “regulation 2A(1)(d), (2) and (3)” substitute “regulation 2A(1)(d), (da), (2) and (3)”.
+
+(3) In regulation 2A (disqualification for appointment)—
+
+- (a) in paragraph (1)(d), after “health service body” (the first time it appears), insert “other than a clinical commissioning group”;
+- (b) after paragraph (1)(d), insert—
+
+  > - (da) that person is a person who has been removed from office as the chair or a member of the governing body of a clinical commissioning group;
+
+  ;
+- (c) in paragraph (2)(a), after “which is not”, insert “a clinical commissioning group,”; and
+- (d) after paragraph (2)(a) insert—
+
+  > - (ab) in the case of a clinical commissioning group, the chair or a member of the governing body of the group;
+
+  .
+
+### 16. The National Health Service Trust Development Authority Regulations 2012[^key-c862f662d3051596be07dd19900de755]
+
+(1) The National Health Service Trust Development Authority Regulations 2012[^f00030] are amended as follows.
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) the definition of “health service body”—
+  - (i) in paragraph (a), after “Special Health Authority,”, insert “a clinical commissioning group,”;
+  - (ii) after paragraph (g) insert—
+
+    > - (ga) the National Health Service Commissioning Board;
+
+    ; and
+- (b) in the definition of “member”, for “regulation 3(1)(d) and (h)” substitute “regulation 3(1)(d), (da), (h) and (k)”.
+
+(3) In regulation 3 (disqualification for appointment)—
+
+- (a) in paragraph (1)(d), after “health service body” (the first time it appears), insert “other than a clinical commissioning group”;
+- (b) after paragraph (1)(d), insert—
+
+  > - (da) that person is a person who has been removed from office as the chair or a member of the governing body of a clinical commissioning group;
+
+  ;
+- (c) in paragraph (1)(j), at the end of paragraph (iv), insert—
+
+  > ; or
+  >
+  > - (v) the National Health Service Commissioning Board; or
+
+  ;
+- (d) after paragraph (l)(j) insert—
+
+  > - (k) that person is the chair or a member of the governing body of a clinical commissioning group.
+
+  ;
+- (e) in paragraph (2)(a), after “which is not”, insert “a clinical commissioning group,”; and
+- (f) after paragraph (2)(a) insert—
+
+  > - (ab) in the case of a clinical commissioning group, the chair or a member of the governing body of the group;
+
+  .
+
+### 17. The Health Education England Regulations 2012[^key-5507744197174c156a6d2f529920ac8a]
+
+(1) The Health Education England Regulations 2012[^f00031] are amended as follows.
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) the definition of “health service body”—
+  - (i) in paragraph (a), after “Special Health Authority,”, insert “a clinical commissioning group,”;
+  - (ii) after paragraph (g) insert—
+
+    > - (ga) the National Health Service Commissioning Board;
+
+    ; and
+- (b) in the definition of “member”, for “regulation 3(1)(d) and (3)” substitute “regulation 3(1)(d), (da), (2) and (3)”.
+
+(3) In regulation 3 (disqualification for appointment)—
+
+- (a) in paragraph (1)(d), after “health service body” (the first time it appears), insert “other than a clinical commissioning group”;
+- (b) after paragraph (1)(d), insert—
+
+  > - (da) P is a person who has been removed from office as the chair or a member of the governing body of a clinical commissioning group;
+
+  ;
+- (c) in paragraph (2)(a), after “which is not”, insert “a clinical commissioning group,”; and
+- (d) after paragraph (2)(a) insert—
+
+  > - (ab) in the case of a clinical commissioning group, the chair or a member of the governing body of the group;
+
+  .
+
+## SCHEDULE 4 — Amendments consequential on provisions relating to Monitor
+
+Part 3, article 10
+
+### 1. The National Health Service Trusts (Membership and Procedure) Regulations 1990[^key-df11c42ccf516d5f81ac54ef3395fc30]
+
+(1) The National Health Service Trusts (Membership and Procedure) Regulations 1990[^f00032] are amended as follows.
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) in the definition of “health service body”, for paragraph (h) substitute—
+
+  > - (h) Monitor;
+
+  [^f00033]; and
+- (b) omit the definition of “the Independent Regulator of NHS Foundation Trusts”.
+
+(3) In regulation 11(1) (disqualification for appointment of chairman and non-executive directors), in sub-paragraph (i) for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
+
+### 2. The National Health Service Litigation Authority Regulations 1995[^key-eadc9bbfff173c9f1e788966ae121796]
+
+(1) The National Health Service Litigation Authority Regulations 1995[^f00034] are amended as follows.
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) in the definition of “health service body”, for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”; and
+- (b) omit the definition of “Independent Regulator of NHS Foundation Trusts”.
+
+(3) In regulation 7(1)(g) (disqualification for appointment), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
+
+### 3. The Health Authorities (Membership and Procedure) Regulations 1996[^key-1853010a94382d55f4b4d19eadf0836a]
+
+(1) The Health Authorities (Membership and Procedure) Regulations 1996[^f00035] are amended as follows.
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) in the definition of “health service body”, for paragraph (f) substitute—
+
+  > - (f) Monitor
+
+  ; and
+- (b) omit the definition of “Independent Regulator of NHS Foundation Trusts”.
+
+(3) In regulation 10(1)(m) (disqualification for appointment), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
+
+### 4. The National Institute for Clinical Excellence Regulations 1999[^key-6db759cf9158042fc537d4580cd97232]
+
+In regulation 1(2) of the National Institute for Clinical Excellence Regulations 1999[^f00036] (interpretation)—
+
+- (a) in the definition of “health service body”, for paragraph (i) substitute—
+
+  > - (i) Monitor,
+
+  ; and
+- (b) omit the definition of “Independent Regulator of NHS Foundation Trusts”.
+
+### 5. The Public Interest Disclosure (Prescribed Persons) Order 1999[^key-e8d41e62d877a8e6f7afabf625cc4337]
+
+(1) In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order 1999[^f00037] (persons prescribed for the purposes of section 43F of the Employment Rights Act 1996)—
+
+- (a) for “Independent Regulator of NHS Foundation Trusts”, in each place it occurs, substitute “Monitor”; and
+- (b) in paragraph (b) of the description of matters in respect of which that body is prescribed omit “under the National Health Service Act 2006”.
+
+### 6. The Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^key-8f423fcec528fc6199839d4959c112e8]
+
+(1) The Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^f00038] are amended as follows.
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) in the definition of “health service body”, for the second paragraph (g) substitute—
+
+  > - (ga) Monitor
+
+  ; and
+- (b) omit the definition of “the Independent Regulator of NHS Foundation Trusts”.
+
+(3) In regulation 5(1)(k) (disqualification for appointment: chairman and non-officer members), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
+
+### 7. The National Treatment Agency Regulations 2001[^key-63950a6d4e98a8a21a9036e05bf0ca07]
+
+(1) The National Treatment Agency Regulations 2001[^f00039] are amended as follows.
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) in the definition of “health service body”, for paragraph (c) substitute—
+
+  > - (c) Monitor
+
+  ; and
+- (b) omit the definition of “Independent Regulator of NHS Foundation Trusts”.
+
+(3) In regulation 3(1)(g) (disqualification for appointment), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
+
+### 8. The Local Authority (Overview and Scrutiny Committees Health Scrutiny Functions) Regulations 2002[^key-1858f3340e76bdbffc4c4d6ec56d9624]
+
+(1) The Local Authority (Overview and Scrutiny Committees Health Scrutiny Functions) Regulations 2002[^f00040] are amended as follows.
+
+(2) In regulation 1(3) (interpretation), in the definition of “authorisation”, for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
+
+(3) In regulation 4A(1)(a) (consultation of committees by NHS Foundation Trusts), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
+
+### 9. The Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^key-453e5cf68f0f78e1a3b744f48363d269]
+
+In the Annex to Schedule 1 to the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^f00041] (list of regulators), for the entry for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
+
+### 10. The Health Protection Agency Regulations 2005[^key-2c864fca12fd49679f550e0803928a01]
+
+In regulation 1(3) of the Health Protection Agency Regulations 2005[^f00042] (interpretation), in the definition of “health service body”, for paragraph (j) substitute—
+
+> - (j) Monitor,
+
+.
+
+### 11. The Health and Social Care Information Centre Regulations 2005[^key-c831528531aad784ec346096cdc03de3]
+
+In regulation 3(1)(h) of the Health and Social Care Information Centre Regulations 2005[^f00043] (disqualification for appointment), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
+
+### 12. The NHS Institute for Innovation and Improvement Regulations 2005[^key-11637ee211e2eaa5b903dc2733f297f1]
+
+In regulation 3(1)(h) of the NHS Institute for Innovation and Improvement Regulations 2005[^f00044] (disqualification for appointment), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
+
+### 13. The NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) Regulations 2005[^key-692d36b0715de53f904c62efb14dfba3]
+
+In regulation 3(1)(h) of the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) Regulations 2005[^f00045] (disqualification for appointment), for “the Independent Regulator of NHS foundation trusts” substitute “Monitor”.
+
+### 14. NHS Blood and Transplant (Gwaed a Thrawsblaniadau’r GIG) Regulations 2005[^key-1e54bd58b4f8999d8d8d2f360e0792cc]
+
+In regulation 3(1)(h) of the NHS Blood and Transplant (Gwaed a Thrawsblaniadau’r GIG) Regulations 2005[^f00046] (disqualification for appointment), for “the Independent Regulator of NHS foundation trusts” substitute “Monitor”.
+
+### 15. The Care Quality Commission (Membership) Regulations 2008[^key-72cc69076b436f6068e8ca9873878a33]
+
+In regulation 1(2) of the Care Quality Commission (Membership) Regulations 2008[^f00047] (interpretation), in the definition of “NHS body”, for paragraph (c) substitute—
+
+> - (c) Monitor;
+
+.
+
+### 16. The National Information Governance Board for Health and Social Care Regulations 2008[^key-10b0a7026bb553030844c635bdac64fa]
+
+In regulation 1(3) of the National Information Governance Board for Health and Social Care Regulations 2008[^f00048] (interpretation), in the definition of “health service body”, for paragraph (h) substitute—
+
+> - (h) Monitor;
+
+.
+
+### 17. The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009[^key-d9eba636c11b79cdb72481bf7e87ee94]
+
+(1) Schedule 3 to the Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009[^f00049] (transitory, transitional and saving provisions in relation to the functions of the CHAI and the CSCI under the 2003 Act) is amended as follows.
+
+(2) In paragraph 8—
+
+- (a) in the heading to that paragraph, for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”; and
+- (b) in sub-paragraph (1)(b), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
+
+### 18. The Public Health Wales National Health Service Trust (Membership and Procedure) Regulations 2009[^key-9617f39b14090edf69a63d17b0f3f6f4]
+
+(1) The English text of the Public Health Wales National Health Service Trust (Membership and Procedure) Regulations 2009[^f00050] is amended as follows.
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) in the definition of “health service body” (*“corff gwasanaeth iechyd”*), for paragraph (d) substitute—
+
+  > - (d) Monitor;
+
+  ; and
+- (b) omit the definition of “Independent Regulator of NHS Foundation Trusts” (*“Rheoleiddiwr Annibynnol Ymddiriedolaethau Sefydledig GIG”*).
+
+(3) In regulation 15(1)(g) (disqualification for appointment of chair and non-executive directors), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
+
+(4) The Welsh text of the Public Health Wales National Health Service Trust (Membership and Procedure) Regulations 2009 is amended as follows.
+
+(5) In regulation 1(2) (dehongli)—
+
+- (a) in the definition of “corff gwasanaeth iechyd” (*“health service body”*), for paragraph (ch) substitute—
+
+  > - (ch) Monitor;
+
+  ; and
+- (b) omit the definition of “Rheoleiddiwr Annibynnol Ymddiriedolaethau Sefydledig GIG” (“*Independent Regulator of NHS Foundation Trusts*”).
+
+(6) In regulation 15(1)(e) (datgymhwyso rhag penodi cadeirydd a chyfarwyddwyr anweithredol), for “Rheolydd Annibynnol Ymddiriedolaethau Sefydledig GIG” substitute “Monitor”.
+
+### 19. The Medical Profession (Responsible Officers) Regulations 2010[^key-a69d2be5b1f610eb5e62060263718ba0]
+
+In regulation 9(4) of the Medical Profession (Responsible Officers) Regulations 2010[^f00051] (nomination of responsible officer by the Secretary of State), for “the Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
+
+### 20. The Equality Act 2010 (Specific Duties) Regulations 2011[^key-56323ccb1136e2d246d192629fcfa0b7]
+
+In Schedule 1 to the Equality Act 2010 (Specific Duties) Regulations 2011[^f00052] (public authorities required to publish information), for the entry for the Independent Regulator of NHS Foundation Trusts substitute “Monitor”.
+
+### 21. The Health Research Authority Regulations 2011[^key-05a98dd46c0f66a2660de896690bd2d7]
+
+In regulation 1(2) of the Health Research Authority Regulations 2011[^f00053] (interpretation), in the definition of “health service body”, for sub-paragraph (f) substitute—
+
+> - (f) Monitor;
+
+.
+
+### 22. The National Health Service Trust Development Authority Regulations 2012[^key-51d275a0a912db9978a41d46f69bd910]
+
+(1) The National Health Service Trust Development Authority Regulations 2012[^f00054] are amended as follows.
+
+(2) In regulation 1(2) (interpretation), in the definition of “health service body”, for sub-paragraph (f) substitute—
+
+> - (f) Monitor;
+
+.
+
+(3) In paragraph 3(1)(h) (disqualification for appointment), for “chairman or another member of the Independent Regulator of NHS foundation trusts” substitute “chair or another member of Monitor”.
+
+### 23. The Health Education England Regulations 2012[^key-afc9477c0d03ce8781e238fc95015c9b]
+
+In regulation 1(2) of the Health Education England Regulations 2012[^f00055] (interpretation), in the definition of “health service body”, for paragraph (f) substitute—
+
+> - (f) Monitor;
+
+.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order abolishes the NHS Commissioning Board Authority (“the Authority”) and makes associated provision for the transfer of staff, property, rights and liabilities from the Authority to the NHS Commissioning Board (“ NHS England ”). The Authority is a Special Health Authority established under section 28 of the 2006 Act to take preparatory steps towards the establishment and operation of NHS England . NHS England is established under section 1H of the 2006 Act as inserted by section 9(1) of the 2012 Act. This Order also makes amendments consequential on the establishment of NHS England and clinical commissioning groups (“CCGs”) and the continuation of Monitor by provision in the National Health Service Act [2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41) (“the 2006 Act”), as amended by the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”).
+
+Part 2 of this Order abolishes the Authority (article 3). It also makes provision (article 4) for the contracts of employment of any person employed by the Authority immediately before the transfer date to transfer to NHS England on the transfer date (which is the date on which the Order comes into force by virtue of article 1(2)) and for the transfer of all related liabilities. Provision is also made for specific property, rights and liabilities to transfer to NHS England on the transfer date (article 5 and Schedule 1) and for the property listed in Schedule 1 to transfer from the Authority to NHS England on that date including any rights and liabilities in respect of contracts and agreements entered into by the Authority. Further provision is made in respect of the transfer of liabilities from the Authority to NHS England including provision for the Board to prepare final accounts and an annual report in respect of the Authority for the period beginning on 1st April 2012 and ending on the transfer date (article 6). Article 7 makes provision for continuity and for the transfer of property and liabilities which could not be transferred otherwise than by the Order. The Order also makes consequential amendments to and revocations of secondary legislation which are necessary as a result of the abolition of the Authority under article 3 (article 8 and Schedule 2).
+
+Part 3 (article 9) of and Schedule 3 to the Order make consequential amendments to secondary legislation which are necessary as a result of the establishment of “NHS England and CCGs. The majority of the instruments amended by provision in Schedule 3 establish bodies with a role in the health service. Certain people are disqualified from appointment as chair or non-executive member of such bodies, including for example people who have been dismissed from employment with a “health service body”, and people who are currently, or who were removed from office as, the chair, member or director of a “health service body”. The amendments add NHS England and CCGs to the definition of “health service body”. For CCGs, the relevant offices which give rise to disqualification are the chair or member of a governing body of the CCG. The amendments made at paragraphs 4 to 7 of Schedule 3 add the Board and CCGs to some or all of the regulations governing schemes for meeting losses and liabilities established by the Secretary of State under section 71 of the 2006 Act. They also add NHS Property Services Limited (a company formed under section 223 of the 2006 Act, which will own and manage property formerly owned by Strategic Health Authorities and Primary Care Trusts), to certain of those schemes. Paragraph 11 of Schedule 3 substitutes references to the Authority with references to the Board in regulations 16 and 18 of the Care Quality Commission (Registration) Regulations 2009, meaning that service providers do not have to notify the Care Quality Commission of the death of a service user or serious incident if the event has already been reported to the Board .
+
+Part 3 (article 10) of and Schedule 4 to the Order make consequential amendments to secondary legislation that are necessary as a result of section 61(1) of the 2012 Act which provides for the body corporate known as the Independent Regulator of NHS Foundation Trusts to continue in existence and to be known as Monitor. The amendments mainly substitute references to the Independent Regulator of NHS Foundation Trusts with references to Monitor.
+
+This Order comes into force in accordance with article 1(2). For the purposes of article 10 and Schedule 4, this is 1st October 2012. For the purposes of the rest of the Order, it comes into force immediately after the coming into force of section 1H(1) of the 2006 Act, as inserted by section 9 of the 2012 Act. Section 1H(1) establishes NHS England, and it is expected to be in force from 1st October 2012.
+
+A full impact assessment has not been produced for this Order as the instrument itself has no impact on the private sector or civil society organisations. A full impact assessment has been produced in relation to the provisions of the 2012 Act and a copy is available at http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsLegislation/DH\_123583.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41); the powers conferred by the National Health Service Act 2006 as exercised in making this Order are exercisable by the Secretary of State only in relation to England, by virtue of section 271(1) of that Act.
+
+[^f00002]: Footnote: [2012 c. 7](https://www.legislation.gov.uk/ukpga/2012/7).
+
+[^f00003]: Footnote: *See* section 28(7) of the National Health Service 2006 for the requirement to consult.
+
+[^key-d0ab050024f74bbe969fa59decec970a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/1641/article/1) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00004]: Footnote: Section 1H(1) of the National Health Service Act 2006 is inserted by section 9 of the Health and Social Care Act 2012.
+
+[^key-f6ea0d564cc805e567c76382fd633c8c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/1641/article/2) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00005]: Footnote: [S.I. 2011/2237](https://www.legislation.gov.uk/uksi/2011/2237).
+
+[^key-409e3f81f2c44a1686cd511fa4d7bb97]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1641/article/2) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [54(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/54/2/a)
+
+[^key-703f9ac46de01684b0f7309462c163e2]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1641/article/2) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [54(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/54/2/b)
+
+[^key-b97a44473c860e0da12fdf177e19bcad]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/1641/article/3) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^key-915b0eccf735f97075e063cbc281ba7b]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/1641/article/4) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^key-34df0c1156d679eaadae079150e91065]: Textual amendment: Words in Instrument substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^key-d3bc7a205421d7a748192b7761dcfc97]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2012/1641/article/5) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^key-3441c137f61ddc340b857ca6f54a1a62]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/1641/article/6) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00007]: Footnote: [S.I. 2011/2250](https://www.legislation.gov.uk/uksi/2011/2250).
+
+[^key-61062356f29e9c48dac8cdede17c10d3]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/1641/article/7) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00008]: Footnote: The functions of the Authority are set out in article 3 of [S.I. 2011/2237](https://www.legislation.gov.uk/uksi/2011/2237) and in the NHS Commissioning Board Authority (Functions of the Authority) Directions 2011, signed on 31st October 2011, as amended by the NHS Commissioning Board Authority (Functions of the Authority) (Amendment) Directions 2012 signed on 31st May 2012.
+
+[^key-99111ed1b40388b42a69902f5fef5f25]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/1641/article/8) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^key-c1fb4e93a0cedd642230c825418774fc]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2012/1641/article/9) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^key-0c92b5a002820a0df913ebecc57c3630]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2012/1641/article/10) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^key-bac5db47503b55c50c59d015bf899db5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2012/1641/schedule/1/paragraph/1) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00009]: Footnote: The National Reporting and Learning System is the system for recording patient safety incidents which was designed by the National Patient Safety Agency, a special health authority established by the National Patient Safety Agency (Establishment and Constitution) Order 2001 ([S.I. 2001/1743](https://www.legislation.gov.uk/uksi/2001/1743)), and which is operated by Imperial College Healthcare National Health Service Trust pursuant to article 2(1) of the Imperial College Healthcare National Health Service Trust Directions 2012, signed on 30th March 2012. A “patient safety incident” is defined by article 1(4) of those Directions as meaning any unintended or unexpected incident that could have or did lead to harm for one or more patients receiving services provided under the National Health Service Act 2006.
+
+[^key-6d43569272e2381170269b01c54206e7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2012/1641/schedule/1/paragraph/2) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^key-45528726c3358c250901b714cda78c5d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2012/1641/schedule/1/paragraph/3) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00010]: Footnote: The “patient safety function” and the “NRLS oversight function” are functions conferred on the Authority as of 1st June 2012 by virtue of amendments made to the NHS Commissioning Board Authority (Functions of the Authority) Directions 2011, signed on 31st October 2011, by paragraph 4 of the NHS Commissioning Board Authority (Functions of the Authority) (Amendment) Directions 2012, signed on 31st May 2012.
+
+[^key-fe527a8c0ece8dbb695109d07093479a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2012/1641/schedule/2/paragraph/1) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00011]: Footnote: [S.I. 1990/2024](https://www.legislation.gov.uk/uksi/1990/2024). Paragraph (5) of regulation 11 was inserted by [S.I. 1997/2990](https://www.legislation.gov.uk/uksi/1997/2990) and sub-paragraph (i) was inserted by [S.I. 2011/2237](https://www.legislation.gov.uk/uksi/2011/2237).
+
+[^key-64c7fd027b94f073bbd79aca360f8941]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/1641/schedule/2/paragraph/2) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00012]: Footnote: [S.I. 2000/89](https://www.legislation.gov.uk/uksi/2000/89).
+
+[^key-b474d639dfea733c15f3f3ff91b63ff3]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2012/1641/schedule/2/paragraph/3) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00013]: Footnote: [S.I 2011/2237](https://www.legislation.gov.uk/uksi/2011/2237).
+
+[^key-311907e5bb2690d7c0bab65eb03f46ee]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2012/1641/schedule/2/paragraph/4) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00014]: Footnote: [S.I 2011/2250](https://www.legislation.gov.uk/uksi/2011/2250).
+
+[^key-6b755f25402ccdda8d44837d0903b64e]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/1) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00015]: Footnote: [S.I. 1990/2024](https://www.legislation.gov.uk/uksi/1990/2024). Relevant amending instruments are [S.I. 1996/1755](https://www.legislation.gov.uk/uksi/1996/1755), [S.I. 1998/646](https://www.legislation.gov.uk/uksi/1998/646), [S.I. 2000/2434](https://www.legislation.gov.uk/uksi/2000/2434), [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [2861](https://www.legislation.gov.uk/uksi/2002/2861), [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696), [S.I. 2005/525](https://www.legislation.gov.uk/uksi/2005/525), [1622](https://www.legislation.gov.uk/uksi/2005/1622) and [2078](https://www.legislation.gov.uk/uksi/2005/2078), [S.I. 2006/552](https://www.legislation.gov.uk/uksi/2006/552) and [S.I. 2011/2581](https://www.legislation.gov.uk/uksi/2011/2581).
+
+[^key-21069b49c78a38283485de6260a2d9d6]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/2) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00016]: Footnote: [S.I. 1995/2801](https://www.legislation.gov.uk/uksi/1995/2801). Relevant amending instruments are [S.I. 1998/646](https://www.legislation.gov.uk/uksi/1998/646), [S.I. 2000/696](https://www.legislation.gov.uk/uksi/2000/696) and [2433](https://www.legislation.gov.uk/uksi/2000/2433), [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [2861](https://www.legislation.gov.uk/uksi/2002/2861), [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696) and [S.I. 2006/552](https://www.legislation.gov.uk/uksi/2006/552).
+
+[^key-d02a239e0bce1590aacaf1d30ed0b3cc]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/3) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00017]: Footnote: [S.I. 1995/2800](https://www.legislation.gov.uk/uksi/1995/2800) as amended by [S.I. 2005/1445](https://www.legislation.gov.uk/uksi/2005/1445). There are other amending instruments but none is relevant.
+
+[^key-e2dd27159210816b23db0f175c00328e]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/4) revoked (1.4.2015) by [The National Health Service (Clinical Negligence Scheme) Regulations 2015 (S.I. 2015/559)](https://www.legislation.gov.uk/uksi/2015/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2015/559/regulation/22), [Sch.](https://www.legislation.gov.uk/uksi/2015/559/schedule)
+
+[^key-0e3327d47bcc7e9ef24ee9e6885785e5]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/5) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00019]: Footnote: [S.I. 1996/686](https://www.legislation.gov.uk/uksi/1996/686). Relevant amending instruments are [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696), [S.I. 2005/604](https://www.legislation.gov.uk/uksi/2005/604) and [S.I. 2006/2469](https://www.legislation.gov.uk/uksi/2006/2469).
+
+[^key-c32b2ae813b55ea753e3010d74a1bc14]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/6) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00020]: Footnote: [S.I. 1999/873](https://www.legislation.gov.uk/uksi/1999/873) as amended by [S.I. 2000/2385](https://www.legislation.gov.uk/uksi/2000/2385) and [2469](https://www.legislation.gov.uk/uksi/2000/2469), [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696) and [S.I. 2005/604](https://www.legislation.gov.uk/uksi/2005/604).
+
+[^key-f61a2df18f403b758b93b8409be48555]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/7) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00021]: Footnote: [S.I. 1999/874](https://www.legislation.gov.uk/uksi/1999/874) as amended by [S.I. 2000/2342](https://www.legislation.gov.uk/uksi/2000/2342), [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696) and [S.I. 2005/604](https://www.legislation.gov.uk/uksi/2005/604).
+
+[^key-c862081bcebed791aef6886db1ec1a37]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/8) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00022]: Footnote: [S.I. 2004/1031](https://www.legislation.gov.uk/uksi/2004/1031). Relevant amending instruments are [S.I. 2006/562](https://www.legislation.gov.uk/uksi/2006/562), [S.I. 2008/941](https://www.legislation.gov.uk/uksi/2008/941) and [S.I. 2011/2581](https://www.legislation.gov.uk/uksi/2011/2581).
+
+[^key-75e6d844541909fa52123251dce7895f]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/9) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00023]: Footnote: [S.I. 2005/2531](https://www.legislation.gov.uk/uksi/2005/2531). Relevant amending instruments are [S.I. 2008/2250](https://www.legislation.gov.uk/uksi/2008/2250) and [S.I. 2011/2851](https://www.legislation.gov.uk/uksi/2011/2851).
+
+[^key-ff6cf167b34a06614ab0b63622c713d8]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/10) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00024]: Footnote: [S.I. 2005/2415](https://www.legislation.gov.uk/uksi/2005/2415). Relevant amending instruments are [S.I. 2006/633](https://www.legislation.gov.uk/uksi/2006/633), [S.I. 2008/2250](https://www.legislation.gov.uk/uksi/2008/2250) and [S.I. 2011/2581](https://www.legislation.gov.uk/uksi/2011/2581).
+
+[^key-e06a77b0b896b749c4b6402ee465d73d]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/11) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00025]: Footnote: [S.I. 2009/3112](https://www.legislation.gov.uk/uksi/2009/3112) as amended by [S.I. 2012/1186](https://www.legislation.gov.uk/uksi/2012/1186). There are other amending instruments but none is relevant.
+
+[^key-f4433ac497ece1a5fd217489562ddf42]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/12) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00026]: Footnote: [S.I. 2009/1385 (W. 141)](https://www.legislation.gov.uk/wsi/2009/1385) as amended by [S.I. 2011/990](https://www.legislation.gov.uk/uksi/2011/990) and [2581](https://www.legislation.gov.uk/uksi/2011/2581).
+
+[^key-9e0863fbd0285c5ef7ae85f973bb29a4]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/13) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00027]: Footnote: [S.I. 2009/3097 (W. 270)](https://www.legislation.gov.uk/wsi/2009/3097).
+
+[^key-4a5f41a0e750b9fcbd4aa941596a5a90]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/14) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00028]: Footnote: [S.I. 2009/779 (W. 67)](https://www.legislation.gov.uk/wsi/2009/779).
+
+[^key-ac6b04e54dfa4a28474382092a914bfc]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/15) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00029]: Footnote: [S.I. 2011/2341](https://www.legislation.gov.uk/uksi/2011/2341), as amended by [S.I. 2012/1108](https://www.legislation.gov.uk/uksi/2012/1108).
+
+[^key-c862f662d3051596be07dd19900de755]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/16) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00030]: Footnote: [S.I. 2012/922](https://www.legislation.gov.uk/uksi/2012/922).
+
+[^key-5507744197174c156a6d2f529920ac8a]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2012/1641/schedule/3/paragraph/17) in force at 1.10.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b)
+
+[^f00031]: Footnote: [S.I. 2012/1290](https://www.legislation.gov.uk/uksi/2012/1290).
+
+[^key-df11c42ccf516d5f81ac54ef3395fc30]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/1) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00032]: Footnote: [S.I.1990/2024](https://www.legislation.gov.uk/uksi/1990/2024). Relevant amendments were made by [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696).
+
+[^f00033]: Footnote: Monitor is the body corporate, formerly known as the Independent Regulator of NHS Foundation Trusts, continued under section 61(1) of the Health and Social Care Act 2012.
+
+[^key-eadc9bbfff173c9f1e788966ae121796]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/2) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00034]: Footnote: [S.I.1995/2801](https://www.legislation.gov.uk/uksi/1995/2801). Relevant amendments were made by [S.I. 1998/646](https://www.legislation.gov.uk/uksi/1998/646), [S.I. 2000/696](https://www.legislation.gov.uk/uksi/2000/696) and [2433](https://www.legislation.gov.uk/uksi/2000/2433), [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696) and [S.I. 2006/1722](https://www.legislation.gov.uk/uksi/2006/1722).
+
+[^key-1853010a94382d55f4b4d19eadf0836a]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/3) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00035]: Footnote: [S.I.1996/707](https://www.legislation.gov.uk/uksi/1996/707). Relevant amendments were made by [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696).
+
+[^key-6db759cf9158042fc537d4580cd97232]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/4) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00036]: Footnote: [S.I.1999/260](https://www.legislation.gov.uk/uksi/1999/260). Relevant amendments were made by [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696), [S.I. 2005/498](https://www.legislation.gov.uk/uksi/2005/498), [S.I. 2005/1622](https://www.legislation.gov.uk/uksi/2005/1622), [S.I. 2008/2250](https://www.legislation.gov.uk/uksi/2008/2250) and [S.I. 2011/2851](https://www.legislation.gov.uk/uksi/2011/2851).
+
+[^key-e8d41e62d877a8e6f7afabf625cc4337]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/5) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00037]: Footnote: [S.I.1999/1549](https://www.legislation.gov.uk/uksi/1999/1549). The Schedule to the Order was substituted by [S.I. 2003/1993](https://www.legislation.gov.uk/uksi/2003/1993). The entry relating to the Independent Regulator of NHS Foundation Trusts was inserted by [S.I. 2009/2457](https://www.legislation.gov.uk/uksi/2009/2457). There are other amending instruments but none is relevant.
+
+[^key-8f423fcec528fc6199839d4959c112e8]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/6) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00038]: Footnote: [S.I. 2000/89](https://www.legislation.gov.uk/uksi/2000/89). Relevant amendments were made by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [2861](https://www.legislation.gov.uk/uksi/2002/2861), [S.I. 2003/1616](https://www.legislation.gov.uk/uksi/2003/1616), [S.I. 2004/664](https://www.legislation.gov.uk/uksi/2004/664) and [696](https://www.legislation.gov.uk/uksi/2004/696), [S.I. 2005/525](https://www.legislation.gov.uk/uksi/2005/525) and [1622](https://www.legislation.gov.uk/uksi/2005/1622), [S.I. 2006/552](https://www.legislation.gov.uk/uksi/2006/552) and [562](https://www.legislation.gov.uk/uksi/2006/562), [S.I. 2008/2250](https://www.legislation.gov.uk/uksi/2008/2250) and [S.I. 2011/2851](https://www.legislation.gov.uk/uksi/2011/2851).
+
+[^key-63950a6d4e98a8a21a9036e05bf0ca07]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/7) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00039]: Footnote: [S.I. 2001/715](https://www.legislation.gov.uk/uksi/2001/715). Relevant amendments were made by [S.I. 2001/4044](https://www.legislation.gov.uk/uksi/2001/4044), [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696) and [S.I. 2006/1722](https://www.legislation.gov.uk/uksi/2006/1722).
+
+[^key-1858f3340e76bdbffc4c4d6ec56d9624]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/8) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00040]: Footnote: [S.I. 2002/3048](https://www.legislation.gov.uk/uksi/2002/3048). Relevant amendments were made by [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696) and [S.I. 2010/720](https://www.legislation.gov.uk/uksi/2010/720).
+
+[^key-453e5cf68f0f78e1a3b744f48363d269]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/9) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00041]: Footnote: [S.I. 2004/1861](https://www.legislation.gov.uk/uksi/2004/1861). The Annex to Schedule 1 was substituted by [S.I. 2010/131](https://www.legislation.gov.uk/uksi/2010/131) and amended by [S.I. 2011/2581](https://www.legislation.gov.uk/uksi/2011/2581) and [S.I. 2012/725](https://www.legislation.gov.uk/uksi/2012/725).
+
+[^key-2c864fca12fd49679f550e0803928a01]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/10) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00042]: Footnote: [S.I. 2005/408](https://www.legislation.gov.uk/uksi/2005/408). Relevant amendments were made by [S.I. 2005/1622](https://www.legislation.gov.uk/uksi/2005/1622) and [3491](https://www.legislation.gov.uk/uksi/2005/3491) and [S.I. 2008/2250](https://www.legislation.gov.uk/uksi/2008/2250).
+
+[^key-c831528531aad784ec346096cdc03de3]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/11) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00043]: Footnote: [S.I. 2005/500](https://www.legislation.gov.uk/uksi/2005/500). There are no relevant amendments.
+
+[^key-11637ee211e2eaa5b903dc2733f297f1]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/12) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00044]: Footnote: [S.I. 2005/1447](https://www.legislation.gov.uk/uksi/2005/1447). There are no relevant amendments.
+
+[^key-692d36b0715de53f904c62efb14dfba3]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/13) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00045]: Footnote: [S.I. 2005/2415](https://www.legislation.gov.uk/uksi/2005/2415). Relevant amendments were made by [S.I. 2006/633](https://www.legislation.gov.uk/uksi/2006/633).
+
+[^key-1e54bd58b4f8999d8d8d2f360e0792cc]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/14) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00046]: Footnote: [S.I. 2005/2531](https://www.legislation.gov.uk/uksi/2005/2531). Relevant amendments were made by [S.I. 2006/640](https://www.legislation.gov.uk/uksi/2006/640) and [S.I. 2010/671](https://www.legislation.gov.uk/uksi/2010/671).
+
+[^key-72cc69076b436f6068e8ca9873878a33]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/15) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00047]: Footnote: [S.I. 2008/2252](https://www.legislation.gov.uk/uksi/2008/2252). Relevant amendments were made by [S.I. 2011/2851](https://www.legislation.gov.uk/uksi/2011/2851).
+
+[^key-10b0a7026bb553030844c635bdac64fa]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/16) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00048]: Footnote: [S.I. 2008/2558](https://www.legislation.gov.uk/uksi/2008/2558). Relevant amendments were made by [S.I. 2011/2851](https://www.legislation.gov.uk/uksi/2011/2851).
+
+[^key-d9eba636c11b79cdb72481bf7e87ee94]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/17) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00049]: Footnote: [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462). There are no relevant amendments.
+
+[^key-9617f39b14090edf69a63d17b0f3f6f4]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/18) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00050]: Footnote: [S.I. 2009/1385 (W.141)](https://www.legislation.gov.uk/wsi/2009/1385). Relevant amendments were made by [S.I. 2011/2581](https://www.legislation.gov.uk/uksi/2011/2581).
+
+[^key-a69d2be5b1f610eb5e62060263718ba0]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/19) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00051]: Footnote: [S.I. 2010/2841](https://www.legislation.gov.uk/uksi/2010/2841). There are no relevant amendments.
+
+[^key-56323ccb1136e2d246d192629fcfa0b7]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/20) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00052]: Footnote: [S.I. 2011/2260](https://www.legislation.gov.uk/uksi/2011/2260). Schedule 1 was amended by [S.I. 2012/641](https://www.legislation.gov.uk/uksi/2012/641).
+
+[^key-05a98dd46c0f66a2660de896690bd2d7]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/21) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00053]: Footnote: [S.I. 2011/2341](https://www.legislation.gov.uk/uksi/2011/2341) as amended by [S.I. 2012/1108](https://www.legislation.gov.uk/uksi/2012/1108).
+
+[^key-51d275a0a912db9978a41d46f69bd910]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/22) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00054]: Footnote: [S.I. 2012/922](https://www.legislation.gov.uk/uksi/2012/922).
+
+[^key-afc9477c0d03ce8781e238fc95015c9b]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/uksi/2012/1641/schedule/4/paragraph/23) in force at 1.10.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/a)
+
+[^f00055]: Footnote: [S.I. 2012/1290](https://www.legislation.gov.uk/uksi/2012/1290).

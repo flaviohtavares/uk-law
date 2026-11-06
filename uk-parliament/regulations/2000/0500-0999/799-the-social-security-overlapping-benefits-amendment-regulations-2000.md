@@ -1,0 +1,97 @@
+---
+title: The Social Security (Overlapping Benefits) Amendment Regulations 2000
+id: uksi/2000/799
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2000-03-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2000/799
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/799/pdfs/uksi_20000799_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/799/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Overlapping Benefits) Amendment Regulations 2000
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2000 No. 799
+
+SOCIAL SECURITY
+
+The Social Security (Overlapping Benefits) Amendment Regulations 2000
+
+Made
+
+20th March 2000
+
+Laid before Parliament
+
+20th March 2000
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+The Secretary of State for Social Security, in exercise of the powers conferred by sections 73(1)(a) and 189(1), (3), (4) and (5) of the Social Security Administration Act 1992[^f00001] and of all other powers enabling him in that behalf, after agreement by the Social Security Advisory Committee that the proposals to make these Regulations should not be referred to it[^f00002], hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Social Security (Overlapping Benefits) Amendment Regulations 2000.
+
+(2) Subject to paragraph (3), these Regulations shall come into force on 10th April 2000.
+
+(3) These Regulations shall come into force—
+
+- (a) on 11th April 2000, where in any particular case the weekly rate of widowed mother’s allowance is increased, or guardian’s allowance (where that allowance is payable on a Tuesday) is payable in respect of a child or children;
+- (b) on 12th April 2000, where in any particular case the weekly rate of disablement benefit, or invalid care allowance (where that benefit is payable on a Wednesday), is increased in respect of a child or children, or where an allowance is paid in respect of a child or children under paragraph 18 of Schedule 7 to the Social Security Contributions and Benefits Act 1992[^f00003] (children of deceased’s family);
+- (c) on 13th April 2000, where in any particular case the weekly rate of incapacity benefit, severe disablement allowance, disablement benefit paid under article 18 of the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit Scheme 1983[^f00004] or retirement pension of any category (where that pension is payable on a Thursday), is increased in respect of a child or children;
+- (d) where in any particular case the weekly rate of retirement pension is increased in respect of a child or children and that pension is payable, in accordance with regulation 22(3) of, and paragraph 5 of Schedule 6 to, the Social Security (Claims and Payments) Regulations 1987[^f00005], on a day other than a Monday or a Thursday, on the day in the week commencing 10th April 2000 which corresponds with the day of the week on which retirement pension is payable in that case; and
+- (e) where in any particular case guardian’s allowance is payable, in accordance with regulation 23(3) and (3A) of the Social Security (Claims and Payments) Regulations 1987[^f00006], on a day other than a Monday or a Tuesday, on the day in the week commencing 10th April 2000 which corresponds with the day of the week on which guardian’s allowance is payable in that case.
+
+## 2. Amendment of regulation 8 of the Social Security (Overlapping Benefits) Regulations 1979
+
+(1) Regulation 8 of the Social Security (Overlapping Benefits) Regulations 1979[^f00007] shall be amended in accordance with the following provisions of this regulation.
+
+(2) In paragraph (2)—
+
+- (a) in sub-paragraph (a), there shall be substituted for the words “the rate is specified” the words “the rate specified”; and
+- (b) there shall be substituted for the figure “£3.35” in both places where it occurs the figure “£3.50”.
+
+(3) In paragraph (3), there shall be substituted for the figure “£3.35” the figure “£3.50”.
+
+Signed by authority of the Secretary of State for Social Security.
+
+Jeff Rooker
+
+Minister of State,
+
+Department of Social Security
+
+20th March 2000
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Social Security (Overlapping Benefits) Regulations 1979 (S.I. [1979/597](https://www.legislation.gov.uk/uksi/1979/597)) by altering the amount of the adjustment of benefits payable under the Social Security Contributions and Benefits Act 1992 by reference to the new rates of child benefit payable under the Social Security Benefits Up-rating Order 2000. They provide for the commencement of the adjustment to coincide with the commencement of that Order. They also make a minor drafting correction.
+
+These Regulations do not impose any costs on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5). Section 73(1) was amended by paragraph 49(2) of Schedule 2 to the Jobseekers Act [1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18). Section 189(1) was amended by paragraph 57(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^f00002]: Footnote: See section 173(1)(b) of the Social Security Administration Act 1992.
+
+[^f00003]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^f00004]: Footnote: S.I. [1983/136](https://www.legislation.gov.uk/uksi/1983/136).
+
+[^f00005]: Footnote: S.I. [1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
+
+[^f00006]: Footnote: Paragraph (3A) of regulation 23 was inserted by S.I. [1999/2358](https://www.legislation.gov.uk/uksi/1999/2358).
+
+[^f00007]: Footnote: S.I. [1979/597](https://www.legislation.gov.uk/uksi/1979/597); relevant amending instruments are S.I. [1991/547](https://www.legislation.gov.uk/uksi/1991/547), [1996/1803](https://www.legislation.gov.uk/uksi/1996/1803) and [1999/820](https://www.legislation.gov.uk/uksi/1999/820) and [1362](https://www.legislation.gov.uk/uksi/1999/1362).

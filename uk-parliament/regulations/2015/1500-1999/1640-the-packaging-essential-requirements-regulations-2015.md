@@ -1,0 +1,712 @@
+---
+title: The Packaging (Essential Requirements) Regulations 2015
+id: uksi/2015/1640
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-09-01'
+text_date: '2026-03-26'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2015/1640
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/1640/pdfs/uksiem_20151640_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1640/pdfs/uksi_20151640_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1640/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Packaging (Essential Requirements) Regulations 2015
+
+> Text as at 2026-03-26.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2015 No. 1640
+
+Environmental Protection
+
+The Packaging (Essential Requirements) Regulations 2015
+
+Made
+
+1st September 2015
+
+Laid before Parliament
+
+4th September 2015
+
+Coming into force
+
+1st October 2015
+
+The Secretary of State is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the management of packaging and packaging waste.
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972.
+
+## PART 1 — Preliminary
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Packaging (Essential Requirements) Regulations 2015 and come into force on 1st October 2015.
+
+### 2. Interpretation
+
+*Extent: E+W+S+N.I.*
+
+(1) In these Regulations—
+
+- “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-0a62f4de78b775e4a7142eaa1a990525]the Directive *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-0a62f4de78b775e4a7142eaa1a990525]” means the European Parliament and Council *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-0a62f4de78b775e4a7142eaa1a990525] [Directive 94/62/EC *(Extent: E+W+S)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/eudr/1994/0062)[^key-0a62f4de78b775e4a7142eaa1a990525] on packaging and packaging waste *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-0a62f4de78b775e4a7142eaa1a990525][^f00003], as last amended by Council Directive (EU) 2018/852[^key-53b93bc6cb8aa4c88524e7851778288a] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-0a62f4de78b775e4a7142eaa1a990525]; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-0a62f4de78b775e4a7142eaa1a990525]
+- “the 1987 Act” means the Consumer Protection Act 1987[^f00004];
+- “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-0a62f4de78b775e4a7142eaa1a990525]the Commission *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-0a62f4de78b775e4a7142eaa1a990525]” means the Commission of the European Union; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-0a62f4de78b775e4a7142eaa1a990525]
+- “energy recovery” means the use of combustible packaging waste as a means to generate energy through direct incineration with or without other waste but with recovery of the heat;
+- “enforcement authority” has the meaning set out in regulation 7;
+- “essential requirements” means the essential requirements in Annex *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-dc6a63efd6b945b6f78d3a84edaa8af8] II *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-dc6a63efd6b945b6f78d3a84edaa8af8] of *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-dc6a63efd6b945b6f78d3a84edaa8af8] the Directive *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-dc6a63efd6b945b6f78d3a84edaa8af8] and which are *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-dc6a63efd6b945b6f78d3a84edaa8af8] set out in Schedule 1;
+- “importer” means an importer of packaging which is packed or filled packaging into the United Kingdom *(Extent: N.I.)* *(affected by repeal, see note)*[^key-fff90b54a9e133baab145dc5abc77f2e] Northern Ireland *(Extent: N.I.)*;
+- “incidental presence” means the presence of a metal as an unintended ingredient of a packaging or packaging component;
+- “intentionally introduced” means the act of deliberately utilising a substance in the formulation of packaging or a packaging component where its continued presence is desired in the final packaging or packaging component to provide a specific characteristic, appearance or quality; but the use of recycled materials as a feedstock for the manufacture of new packaging materials where some portion of the recycled materials may contain amounts of regulated metals is not intentional introduction;
+- “organic recycling” means the aerobic (composting) or anaerobic (biomethanization) treatment, under controlled conditions and using micro-organisms, of the biodegradable parts of packaging waste, which produces stabilised organic residues or methane; but landfill is not be considered a form of organic recycling;
+- “packaging” has the meaning set out in regulation 3(2);
+- “packaging component” means any part of packaging that can be separated by hand or by using simple physical means;
+- “packaging materials” means materials used in the manufacture of packaging and includes raw materials and processed materials prior to their conversion into packaging;
+- “packaging waste” means any packaging or packaging material covered by the definition of waste in Article 3(1) of the Waste Directive , as read with Articles 5 and 6 of that Directive, *(Extent: E+W+S)*[^key-bde16033a519a88448bcdcf098083120] but not including production residues;
+- “packaging waste management” means the management of waste as defined in Article 3(9) of the Waste Directive;
+- “plastic” means a polymer within the meaning of Article 3(5) of Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/eur/2006/1907) of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending [Directive 1999/45/EC](https://www.legislation.gov.uk/eudr/1999/0045) and repealing [Council Regulation (EEC) No 793/93](https://www.legislation.gov.uk/eur/1993/0793) and [Commission Regulation (EC) No 1488/94](https://www.legislation.gov.uk/eur/1994/1488) as well as Council [Directive 76/769/EEC](https://www.legislation.gov.uk/eudr/1976/0769) and Commission Directives [91/155/EEC](https://www.legislation.gov.uk/eudr/1991/155), [93/67/EEC](https://www.legislation.gov.uk/eudr/1993/67), [93/105/EC](https://www.legislation.gov.uk/eudr/1993/105) and [2000/21/EC](https://www.legislation.gov.uk/eudr/2000/21)[^f00005], to which additives or other substances may have been added, and which is capable of functioning as a main structural component of carrier bags;
+- “plastic carrier bag” means a carrier bag with or without a handle, made of plastic, which is supplied to consumers at the point of sale of goods or products;
+- “ppm” means parts per million by weight;
+- “product loops which are in a closed and controlled chain” means product loops in which products circulate with a controlled reuse and distribution system and in which the recycled material originates only from these entities in the chain so that the introduction of external material is the minimum which is technically feasible and from which these entities may only be removed in a specially authorised procedure so that return rates are maximised;
+- “recovery” has the meaning given by Article 3(15) of the Waste Directive;
+- “recycling” means the reprocessing in a production process of waste materials for the original purpose or for other purposes including organic recycling but excluding energy recovery;
+- “regulated metals” means lead, cadmium, mercury or hexavalent chromium or a combination of two or more of these metals, as the case may be;
+- “responsible person” means, in relation to packaging, the person who is—
+  - (a) responsible for packing or filling products into packaging,
+  - (b) any person presented as responsible by affixing to the packed or filled packaging that person’s name, trade mark or other distinctive mark,
+  - (c) the person who reconditions the packaging for reuse (except that reuse in itself shall not constitute reconditioning of the packaging),
+  - (d) the importer; or
+  - (e) for the purposes of regulation 6(2) only, the manufacturer or the manufacturer’s authorised representative in Northern Ireland or *(Extent: N.I.)*[^key-e1cf3b84537784a0e7191ff81b233bde] the European Union *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7649437574edb959eb21bcd51aed82c0] United Kingdom *(Extent: E+W+S)*;
+- “reuse” means any operation by which packaging, which has been conceived and designed to accomplish within its life cycle a minimum number of trips or rotations, is refilled or used for the same purpose for which it was conceived, with or without the support of auxiliary products present on the market enabling the packaging to be refilled, and reused packaging shall be construed accordingly; such reused packaging will become packaging waste when no longer subject to reuse; and
+- “the Waste Directive” means [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098) of the European Parliament and of the Council on waste [^f00006] , as last amended by[^key-7cbae91adefb27a2cb40f6713ac15576] Directive (EU) 2018/851[^key-26879c169ef260fab21abfab39e396ef] , and as read in accordance with regulation 2A *(Extent: E+W+S)*[^key-8ed6900d045a9df9acf03f33ad06b149].
+
+(2) In these Regulations, except for the references to the European Union in the definition of “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7c41eb1cc4802d5945dfe7d7543d07dd]the Commission *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7c41eb1cc4802d5945dfe7d7543d07dd]” and in relation to the Official Journal, a reference to the European Union (“ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7c41eb1cc4802d5945dfe7d7543d07dd]EU *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7c41eb1cc4802d5945dfe7d7543d07dd]”) includes a reference to the *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7c41eb1cc4802d5945dfe7d7543d07dd] EEA *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7c41eb1cc4802d5945dfe7d7543d07dd], and a reference to a member State includes a reference to an *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7c41eb1cc4802d5945dfe7d7543d07dd] EEA *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7c41eb1cc4802d5945dfe7d7543d07dd] State. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7c41eb1cc4802d5945dfe7d7543d07dd]
+
+### 2A. Modification of the Waste Directive[^key-a622cbc454a8aa85ed39c720121325f5]
+
+*Extent: E+W+S*
+
+(1) For the purposes of these Regulations, the Waste Directive is to be read in accordance with this regulation.
+
+(2) Article 5 is to be read as if—
+
+- (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+- (b) after paragraph 1 there were inserted—
+
+  > **1A.** Any decision as to whether a substance or object is a by-product must be made—
+  >
+  > - (a) in accordance with any regulations setting out detailed criteria on the application of the conditions in paragraph 1 to specific substances or objects; and
+  > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+
+  ;
+- (c) paragraphs 2 and 3 were omitted.
+
+(3) Article 6 is to be read as if—
+
+- (a) in paragraph 1, “Member States shall take appropriate measures to ensure that” were omitted;
+- (b) after paragraph 1 there were inserted—
+
+  > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
+  >
+  > - (a) in accordance with any regulations or assimilated direct[^key-d3fec6780febf41d616c11f6a582f8b8] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+  > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
+
+  ;
+- (c) in paragraph 2—
+  - (i) the first subparagraph were omitted;
+  - (ii) in the second subparagraph, for “Those detailed criteria” there were substituted “Any detailed criteria set out in guidance as referred to in paragraph 1A”;
+  - (iii) the third and fourth subparagraphs were omitted;
+- (d) paragraph 3 were omitted;
+- (e) in paragraph 4—
+  - (i) in the first subparagraph—
+    - (aa) in the first sentence, for the words from the beginning to “Member State”, there were substituted “Where criteria have not been set out as referred to in paragraph 1A(a), the appropriate agency”;
+    - (bb) the second sentence were omitted;
+  - (ii) in the second subparagraph—
+    - (aa) for “Member States” there were substituted “The appropriate agency”;
+    - (bb) “by competent authorities” were omitted.
+
+(4) In this regulation—
+
+- “appropriate agency” means—
+  - (a) in relation to England, the Environment Agency;
+  - (b) in relation to Wales, the Natural Resources Body for Wales;
+  - (c) in relation to Scotland, the Scottish Environment Protection Agency;
+- “appropriate authority” means—
+  - (a) in relation to England, the Secretary of State;
+  - (b) in relation to Wales, the Welsh Ministers;
+  - (c) in relation to Scotland, the Scottish Ministers.
+
+## PART 2 — Application
+
+### 3. Packaging
+
+(1) These Regulations apply to any packaging.
+
+(2) In these Regulations “packaging” means all products made of any materials of any nature to be used for the containment, protection, handling, delivery and presentation of goods, from raw materials to processed goods, from the producer to the user or the consumer, including non-returnable items used for the same purposes, but only where the products are—
+
+- (a) sales packaging or primary packaging, that is to say packaging conceived so as to constitute a sales unit to the final user or consumer at the point of purchase;
+- (b) grouped packaging or secondary packaging, that is to say packaging conceived so as to constitute at the point of purchase a grouping of a certain number of sales units whether the latter is sold as such to the final user or consumer or whether it serves only as a means to replenish the shelves at the point of sale, and which can be removed from the product without affecting its characteristics; or
+- (c) transport packaging or tertiary packaging, that is to say packaging conceived so as to facilitate handling and transport of a number of sales units or grouped packagings in order to prevent physical handling and transport damage; for the purposes of these Regulations transport packaging does not include road, rail, ship and air containers.
+
+(3) The following items must also be considered to be packaging on the basis of the criteria set out below—
+
+- (a) items that fulfil the above definition without prejudice to other functions which the packaging might also perform, unless the item is an integral part of a product and it is necessary to contain, support or preserve that product throughout its lifetime and all elements are intended to be used, consumed or disposed of together.
+- (b) items designed and intended to be filled at the point of sale and disposable items sold, filled or designed and intended to be filled at the point of sale provided they fulfil a packaging function.
+- (c) packaging components and ancillary elements integrated into packaging, and ancillary elements hung directly on, or attached to, a product and which perform a packaging function, unless they are an integral part of that product and all elements are intended to be consumed or disposed of together.
+
+(4) Schedule 5 to these Regulations lists the illustrative examples of packaging referred to in paragraph (3) and set out in Annex 1 of *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f3798f0cbb7c378ac99fb50d5d23f035] the Directive *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f3798f0cbb7c378ac99fb50d5d23f035] as amended by Commission Directive 2013/2/ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f3798f0cbb7c378ac99fb50d5d23f035]EU *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f3798f0cbb7c378ac99fb50d5d23f035] amending Annex I to *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f3798f0cbb7c378ac99fb50d5d23f035] [Directive 94/62/EC *(Extent: E+W+S)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1994/0062)[^key-f3798f0cbb7c378ac99fb50d5d23f035] of the European Parliament and of the Council on packaging and packaging waste *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-f3798f0cbb7c378ac99fb50d5d23f035][^f00007].
+
+(5) Nothing in these Regulations with regard to packaging affects the application of existing quality requirements for packaging, including those regarding safety, the protection of health and hygiene of the packed products, existing transport requirements, or the provisions of the Hazardous Waste (England and Wales) Regulations 2005 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-822be6f501a434d959a21e972e1d59c6][^f00008] in England and Wales, the Hazardous Waste Regulations (Northern Ireland) 2005 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-822be6f501a434d959a21e972e1d59c6][^f00009] in Northern Ireland, the Hazardous Waste (Wales) Regulations 2005 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-822be6f501a434d959a21e972e1d59c6][^f00010] in Wales, and the Special Waste Regulations 1996 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-822be6f501a434d959a21e972e1d59c6][^f00011] in Scotland *(Extent: N.I.)* *(affected by repeal, see note)*[^key-822be6f501a434d959a21e972e1d59c6] provisions of the Hazardous Waste Regulations (Northern Ireland) 2005 *(Extent: N.I.)* [^f00010].
+
+## PART 3 — General Requirements
+
+### 4. General duty relating to the placing on the market of packaging
+
+(1)[^key-4658a5be09e9182724ceed111900bd79] A responsible person must not place any packaging on the Northern Ireland or *(Extent: N.I.)*[^key-8a10760d42fa8540f2ee8f4d1f69e192] market of Great Britain unless it complies with the essential requirements.
+
+(2) Reused packaging is not considered to be placed on the market for the purposes of this regulation.
+
+(3)[^key-18f623cfd3ac8b45da8522f274fd0553] Packaging complies with the essential requirements— *(affected by repeal, see note)*[^key-18f623cfd3ac8b45da8522f274fd0553]
+
+- (a) if it satisfies national standards which implement the relevant harmonised standards; or *(affected by repeal, see note)*[^key-18f623cfd3ac8b45da8522f274fd0553]
+- (b) where there are no relevant harmonised standards, if it satisfies national standards which have been communicated to *(affected by repeal, see note)*[^key-18f623cfd3ac8b45da8522f274fd0553] the Commission *(affected by repeal, see note)*[^key-18f623cfd3ac8b45da8522f274fd0553] pursuant to Article 9(3) of *(affected by repeal, see note)*[^key-18f623cfd3ac8b45da8522f274fd0553] the Directive *(affected by repeal, see note)*[^key-18f623cfd3ac8b45da8522f274fd0553] and which are notified by *(affected by repeal, see note)*[^key-18f623cfd3ac8b45da8522f274fd0553] the Commission *(affected by repeal, see note)*[^key-18f623cfd3ac8b45da8522f274fd0553] to the member States as being deemed to comply with the essential requirements. *(affected by repeal, see note)*[^key-18f623cfd3ac8b45da8522f274fd0553]
+
+(3) Packaging complies with the essential requirements if it—
+
+- (a) satisfies a harmonised standard; or
+- (b) where there are no harmonised standards, satisfies a recognised quality standard.
+
+(4)[^key-f7419f4d5531f2302e2545e1b1b1c2f3] In paragraph (3), “harmonised standard” means the standard the reference number of which is published in the Official Journal of the European Union in accordance with Article 9(2)(a) of *(affected by repeal, see note)*[^key-f7419f4d5531f2302e2545e1b1b1c2f3] the Directive *(affected by repeal, see note)*[^key-f7419f4d5531f2302e2545e1b1b1c2f3].
+
+(4) In paragraph (3)—
+
+- “**harmonised standard**” means a harmonising standard produced by the Comité Européen de Normalisation (CEN), which—
+  - (a) relates to packaging and packaging waste; and
+  - (b) is published in (and not withdrawn from) the Official Journal of the European Union;
+- “**recognised quality standard**” means a standard produced by a member State—
+  - (a) that relates to packaging and packaging waste; and
+  - (b) the reference number to which is published in (and not withdrawn from) the Official Journal of the European Union.
+
+### 5. Concentration levels of regulated metals present in packaging
+
+(1) A responsible person must not place any packaging on the Northern Ireland or *(Extent: N.I.)*[^key-528567ce01e47556c92b5d544987c820] market of Great Britain[^key-1401616a905bf405c8cbb4c2a5c3538d] if the sum of the concentration levels of regulated metals either in the packaging or in any of its packaging components exceeds 100 ppm.
+
+(2) Paragraph (1) does not apply to packaging which is made entirely of lead crystal glass as defined in Council [Directive 69/493/EEC](https://www.legislation.gov.uk/european/directive/1969/0493) on the approximation of the laws of the Member States relating to crystal glass[^f00012].
+
+(3) The concentration levels of regulated metals in paragraph (1) do not apply—
+
+- (a) to plastic crates or plastic pallets used in product loops which are in a closed and controlled chain provided the requirements set out in Schedule 2 to these Regulations are complied with in relation to that packaging;
+- (b) to glass packaging provided the requirements set out in Schedule 3 to these Regulations are complied with in relation to that packaging.
+
+### 6. Requirement for technical documentation
+
+(1) The responsible person must—
+
+- (a) at the request of an enforcement authority submit, within twenty-eight days of the date of a request, the technical documentation or other information showing that the packaging complies with the essential requirements and the regulated metals concentration limits set out in regulation 5; and
+- (b) retain the technical documentation or other information referred to in paragraph (1)(a) for a period of four years from the date that the responsible person places the packaging on the market.
+
+(2) The responsible person must—
+
+- (a) submit a report as required under paragraphs 2(1) and (2) of Schedule 3 to these Regulations to the enforcement authority; and
+- (b) at the request of an enforcement authority, submit within twenty-eight days of the date of the request, the annual declaration of conformity and other information set out in paragraphs 2(1) and (2) of Schedule 2 and paragraph 2(3) of Schedule 3 to these Regulations.
+
+### 6A. Qualifying Northern Ireland Goods[^key-57300f34ab9794583dcc349c78a07428]
+
+*Extent: E+W+S*
+
+(1) Where paragraph (2) applies, packaging is to be treated as being in conformity with these Regulations.
+
+(2) This paragraph applies where—
+
+- (a) the packaging—
+  - (i) is in conformity with these Regulations as they apply in Northern Ireland; and
+  - (ii) is a qualifying Northern Ireland good.
+
+(3) For the purposes of this regulation—
+
+- (a) “in conformity with these Regulations” means, in relation to packaging, that—
+  - (i) the packaging is not prohibited by regulation 4 or 5 from being placed on the market; and
+  - (ii) the responsible person has complied, or is complying, with any obligations under this Part in respect of the packaging;
+- (b) “qualifying Northern Ireland goods” has the meaning given to it from time to time in regulations made under section 8C(6) of the European Union (Withdrawal) Act 2018.
+
+## PART 4 — Enforcement
+
+### 7. Enforcement authority
+
+(1) The following authorities have a duty to enforce these Regulations within their area—
+
+- (a) in Great Britain, weights and measures authorities; and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-1746dcecbdab8a1aa5ffe796d71dc050]
+- (b) in Northern Ireland, the Department of Enterprise, Trade and Investment.
+
+(2) Schedule 4 has effect for the purposes of providing for the enforcement of these Regulations[^f00013].
+
+### 8. Offences
+
+Any person who, without a defence under regulation 10—
+
+- (a) contravenes or fails to comply with regulation 4 or 5; or
+- (b) fails to supply or retain technical documentation or other information as required by regulation 6(1) and (2);
+
+is guilty of an offence.
+
+### 9. Penalties
+
+(1) A person guilty of an offence under regulation 8(a) is liable—
+
+- (a) on summary conviction—
+  - (i) in England and Wales, to a fine; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-af1ae07efa8eefdc01e66e183a070eb2]
+  - (ii) in Scotland or *(Extent: N.I.)* *(affected by repeal, see note)*[^key-00a8eb8c7b576601daca787345095535] Northern Ireland, to a fine not exceeding level 5 on the standard scale.
+- (b) on conviction on indictment in Scotland or *(Extent: N.I.)* *(affected by repeal, see note)*[^key-5e7ee3e6cad67a095161ebff1d7bd045] Northern Ireland, to a fine not exceeding the statutory maximum.
+
+(2) A person guilty of an offence under regulation 8(b) is liable on summary conviction—
+
+- (a) in England and Wales, to a fine; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-594fc6782b8695d8b8220027c7702bc7]
+- (b) in Scotland or *(Extent: N.I.)* *(affected by repeal, see note)*[^key-9f99d4281251ba38969e077f3d4cc8df] Northern Ireland, to a fine not exceeding level 5 on the standard scale.
+
+### 10. Defence of due diligence
+
+(1) In proceedings for an offence under regulation 8, it is a defence for a person to show that that person took all reasonable steps and exercised all due diligence to avoid committing the offence.
+
+(2) A person is not, without the leave of the court, entitled to rely on the defence if it involves an allegation that the commission of the offence was due—
+
+- (a) to the act or default of another; or
+- (b) to reliance on information given by another;
+
+unless, not later than seven clear days before the hearing of the proceedings (in England, Wales and Northern Ireland), or the trial diet (in Scotland) *(Extent: N.I.)* *(affected by repeal, see note)*[^key-cb460184db702802513976a1eec14399], the person has served a notice on the person bringing the proceedings.
+
+(3) The notice must give the information in the possession of the person (“A”) serving the notice which identifies or assists in identifying the person (“B”) who—
+
+- (a) committed the act or default; or
+- (b) supplied the information which was relied on.
+
+(4) A may not rely on the defence by reason of reliance on information supplied by B, unless A shows that it was reasonable in all the circumstances to have relied on the information, having regard in particular—
+
+- (a) to the steps that A took and those which might reasonably have been taken for the purpose of verifying the information; and
+- (b) to whether A had any reason to disbelieve the information.
+
+### 11. Liability of persons other than the principal offender
+
+(1) Where the commission by a person of an offence under regulation 8 is due to anything that another person did or failed to do in the course of a business, that other person is guilty of the offence and may be proceeded against and punished, whether or not proceedings are taken against the first person.
+
+(2) Where a body corporate or a Scottish partnership commits an offence and it is proved that the offence was committed—
+
+- (a) with the consent or connivance of a relevant person; or
+- (b) as a result of the negligence of a relevant person,
+
+that person, as well as the body corporate, is guilty of the offence.
+
+(3) A “relevant person” means—
+
+- (a) a director, manager, secretary or other similar officer of a body corporate;
+- (b) in relation to a body corporate managed by its members, a member of that body performing managerial functions;
+- (c) in relation to a Scottish partnership, a partner;
+- (d) a person purporting to act as a person described in sub-paragraph (a), (b) or (c).
+
+## PART 5 — Miscellaneous
+
+### 12. Review
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the effect of these Regulations,
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how articles 9 and 11 of *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-5194599252afa899899d5e005a0ad572] the Directive *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-5194599252afa899899d5e005a0ad572] (which is implemented by means of these Regulations) are implemented in *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-5194599252afa899899d5e005a0ad572] other *(Extent: N.I.)* *(affected by repeal, see note)*[^key-fd61859de3d7f9262343d2f760a57858] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-5194599252afa899899d5e005a0ad572] member States. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-5194599252afa899899d5e005a0ad572]
+
+(3) The report must in particular—
+
+- (a) set out the objectives to be achieved by the regulatory system established by these Regulations,
+- (b) assess the extent to which those objectives have been achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which these Regulations come into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+### 13. Consequential amendments
+
+(1) The Enterprise Act 2002 (Part 9 Restrictions on Disclosure of Information) (Specification) Order 2004[^f00014] is amended as follows.
+
+(2) In Schedule 1 for “The Packaging (Essential Requirements) Regulations 2003” substitute “The Packaging (Essential Requirements) Regulations 2015”.
+
+**14.** (1) The Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^f00015] is amended as follows.
+
+(2) In Part 3 of the Schedule, under the heading “Environment”, omit the entry “The Packaging (Essential Requirements) Regulations 2003” and after the last entry insert “The Packaging (Essential Requirements) Regulations 2015”.
+
+**15.** (1) Paragraph 10 of Schedule 5 to the Consumer Rights Act 2015[^f00016] is amended as follows.
+
+(2) Omit “paragraph 1 of Schedule 4 to the Packaging (Essential Requirements) Regulations 2003 ([S.I. 2003/1941](https://www.legislation.gov.uk/uksi/2003/1941));”.
+
+(3) At the end, insert “regulation 7(1) of the Packaging (Essential Requirements) Regulations 2015”.
+
+### 16. Revocations
+
+Schedule 6 has effect.
+
+Anna Soubry
+
+Minister of State for Small Business, Industry and Enterprise
+
+Department for Business, Innovation and Skills
+
+## SCHEDULE 1 — (Annex (Extent: E+W+S) (affected by repeal, see note) II (Extent: E+W+S) (affected by repeal, see note) of (Extent: E+W+S) (affected by repeal, see note) the Directive (Extent: E+W+S) (affected by repeal, see note)) (Extent: E+W+S) (affected by repeal, see note)[^key-ebfa265cdf55924d00b6f222395e55a2][^key-ebfa265cdf55924d00b6f222395e55a2][^key-ebfa265cdf55924d00b6f222395e55a2][^key-ebfa265cdf55924d00b6f222395e55a2][^key-ebfa265cdf55924d00b6f222395e55a2]
+
+Regulation 2(1)
+
+### ESSENTIAL REQUIREMENTS ON THE COMPOSITION AND THE REUSABLE AND RECOVERABLE, INCLUDING RECYCLABLE, NATURE OF PACKAGING
+
+#### 1. Requirements specific to the manufacturing and composition of packaging
+
+(1) Packaging must be so manufactured that the packaging volume and weight is limited to the minimum adequate amount to maintain the necessary level of safety, hygiene and acceptance for the packed product and for the consumer.
+
+(2)[^key-eefdcf1a9275f333e80a4d69720e86a8] Packaging must be designed, produced and commercialised in such a way as to—
+
+- (a) permit its reuse or recovery (including recycling), in line with the waste hierarchy, and;
+- (b) minimise its impact on the environment when packaging waste or residues from packaging waste management operations are disposed of.
+
+(3) Packaging must be so manufactured that the presence of noxious and other hazardous substances and materials as constituents of the packaging material or of any of the packaging components is minimised with regard to their presence in emissions, ash or leachate when packaging or residues from management operations or packaging waste are incinerated or landfilled.
+
+(4)[^key-c8b0913b28cf139e4e229f1abf9d0f87] In sub-paragraph (2)(a), the reference to “the waste hierarchy” is to be interpreted in accordance with—
+
+- (a) in relation to England and Wales, regulation 12(1) and (2) of the Waste (England and Wales) Regulations 2011;
+- (b)[^key-083b944e40cdb8f816b19c001dcc3600][^key-f74112bde0e40d14c1439e2cadac06c5] in relation to Scotland, paragraphs 4(2) and (3) of schedule 11 (waste management activities) to the Environmental Authorisations (Scotland) Regulations 2018;
+- (c) in relation to Northern Ireland, regulation 17(1) and (2) of the Waste (Northern Ireland) Regulations 2011.
+
+#### 2. Requirements specific to reusable packaging
+
+(1) The following requirements must be simultaneously satisfied—
+
+- (a) the physical properties and characteristics of the packaging must enable a number of trips or rotations in normally predictable conditions of use,
+- (b) it must be possible to process the used packaging in order to meet health and safety requirements for the workforce,
+- (c) the requirements specific to recoverable packaging must be fulfilled when the packaging is no longer reused and thus becomes waste.
+
+#### 3. Requirements specific to the recoverable nature of packaging
+
+Packaging recoverable in the form of material recycling
+
+(1) Packaging must be manufactured in such a way as to enable the recycling of a certain percentage by weight of the materials used into the manufacture of marketable products, in compliance with current standards in the European Union *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-dea677a0b4f831e0cb4ec62673c09e33] assimilated[^key-dd929025c725c2372435a29134f493d8] *(Extent: E+W+S)* law *(Extent: E+W+S)*. The establishment of this percentage may vary, depending on the type of material of which the packaging is composed.
+
+Packaging recoverable in the form of energy recovery
+
+(2) Packaging waste processed for the purpose of energy recovery must have a minimum inferior calorific value to allow optimisation of energy recovery.
+
+Packaging recoverable in the form of composting
+
+(3) Packaging waste processed for the purpose of composting must be of such a biodegradable nature that it should not hinder the separate collection and the composting process or activity into which it is introduced.
+
+Biodegradable packaging
+
+(4) Biodegradable packaging waste must be of such a nature that it is capable of undergoing physical, chemical, thermal or biological decomposition such that most of the finished compost ultimately decomposes into carbon dioxide, biomass and water.
+
+(5)[^key-da2d518ee829365df1f3cee330f6a2d3] Oxo-degradable plastic packaging is not to be considered as biodegradable.
+
+(6) In sub-paragraph (5), “oxo-degradable plastic packaging” means plastic packaging made of plastic materials that include additives which catalyse the fragmentation of the plastic material into micro-fragments.
+
+## SCHEDULE 2 — Requirements for Exemption for Plastic Crates and Pallets from Heavy Metal Concentration Levels Specified in Regulation 5(1)
+
+Regulation 5(3)(a)
+
+**1.** (1) The plastic crate or plastic pallet must be, or must have been, manufactured in a controlled recycling process, that is to say a process in which the recycled material originates only from other plastic crates or plastic pallets and in which the introduction of external materials is the minimum which is technically feasible but in any event does not exceed 20 per cent by weight.
+
+(2) No regulated metal must be intentionally introduced as an element during the manufacture or distribution of the plastic crate or plastic pallet provided always that the incidental presence of any of these elements must be permitted.
+
+(3) The concentration levels of regulated metals in the plastic crate or plastic pallet may only exceed the levels referred to in regulation 5 as a result of the addition of recycled materials.
+
+**2.** (1) The plastic crate or plastic pallet must be introduced in a controlled distribution and reuse system and the following requirements must be complied with—
+
+- (a) the plastic crate or plastic pallet containing regulated metals must be identified in a permanent and visible way;
+- (b) a system of inventory and record keeping must be established, which must include a method of regulatory and financial accountability, to document the compliance with the requirements set out in this Schedule including the return rates. The return rates are the percentage of returnable entities which are not discarded after use but are returned to the manufacturer of the packaging or the responsible person or an authorised representative established in Northern Ireland or *(Extent: N.I.)*[^key-540387b57e09e582ad62ed6435488efa] the European Union *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-912a3b5a1c4666f0a7364c463810614d] United Kingdom *(Extent: E+W+S)* of the said manufacturer or the responsible person, as the case may be. The said return rates must be as high as possible but in no case lower than 90 per cent over the lifetime of the said crate or pallet;
+- (c) in addition the system must account for all the reusable entities put into, and removed from, service; and
+- (d) all returned plastic crates or plastic pallets that are no longer reusable must be either disposed of by a procedure specifically authorised by the Environment Agency in England, the Natural Resources Body for Wales in Wales, the Department of the Environment in Northern Ireland and the Scottish Environment Protection Agency in Scotland or be recycled in a recycling process in which the recycled material is made up of plastic crates or plastic pallets in the circuit and the introduction of external material is the minimum which is technically feasible but in any event does not exceed 20 per cent by weight.
+
+(2) The manufacturer or the manufacturer’s authorised representative established in Northern Ireland or *(Extent: N.I.)*[^key-2aaa765510ddda2a0c15e9836c27f78b] the European Union *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-912a3b5a1c4666f0a7364c463810614d] United Kingdom *(Extent: E+W+S)* must—
+
+- (a) draw up on an annual basis a written declaration of conformity, including an annual report demonstrating how the conditions in this Schedule have been complied with; the declaration of conformity must contain a list of any changes to the system and the manufacturer’s authorised representatives; and
+- (b) retain the documentation referred to in paragraph (a) at the disposal of the enforcement authority for inspection purposes for a period of four years from the date of its drawing up;
+
+provided always that where neither the manufacturer nor the manufacturer’s authorised representative is established within *(Extent: N.I.)* *(affected by repeal, see note)*[^key-fd7146ae8f34a0a375df152f9595b306] in Northern Ireland or *(Extent: N.I.)* the EU *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-a4f6e5fa873c2defbc9d18808d978d2f] United Kingdom *(Extent: E+W+S)*, the responsible person who places the product on the market must keep and, upon request, make available to the enforcement authority, the documentation referred to in paragraph (a).
+
+## SCHEDULE 3 — Requirements for Exemption for Glass Packaging from Heavy Metal Concentration Levels Specified in Regulation 5(1)
+
+Regulation 5(3)(b)
+
+**1.** (1) No regulated metals must be intentionally introduced during the manufacturing process of glass packaging.
+
+(2) The concentration levels of regulated metals in glass packaging may only exceed the level referred to in regulation 5 as a result of the addition of recycled materials.
+
+**2.** (1) The manufacturer or the manufacturer’s authorised representative, or, where neither the manufacturer nor the manufacturer’s authorised representative is established within *(Extent: N.I.)* *(affected by repeal, see note)*[^key-8998f3cfffeb72a1cdb378f018740168] in Northern Ireland or *(Extent: N.I.)* the EU *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c2ddeeea74e68650f9b37f0c4725606d] United Kingdom *(Extent: E+W+S)*, the responsible person who places the product on the market, must submit a report in accordance with sub-paragraph (2) to the enforcement authority, where the average heavy metals concentration levels on any twelve consecutive monthly controls made from the production of each individual glass furnace, representative of normal and regular production activity, exceeds a concentration level of 200 ppm.
+
+(2) The report must include as a minimum the following information—
+
+- measures values;
+- description of measurement methods employed;
+- suspected sources for the presence of heavy metals concentration levels; and
+- detailed description of the measures taken to reduce the heavy metals concentration levels.
+
+(3) Measurement results from production sites and measurement methods employed must be made available at any time to the enforcement authority, if requested.
+
+## SCHEDULE 4 — Enforcement
+
+Regulation 7(2)
+
+**1.** (1) For the purposes of providing for the enforcement of these Regulations —
+
+- (a) sections 14, 15, 31, 32, 37, 44 and 47 of the 1987 Act apply and, in respect of proceedings for contravention of those sections, as if—
+  - (i) references to safety provisions and to Part II of the 1987 Act were references to these Regulations;
+  - (ii) references to goods were references to packaging; and
+  - (iii) in section 14, in sub-section (6), for “six months” there were substituted “three months”;
+- (b) sections 39 and 40 of the 1987 Act apply to offences under section 32 of that Act as it is applied to these Regulations by sub-paragraph (a);
+- (c) in England and Wales, and Northern Ireland, *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ec65f3283462431048552c7fab33140a] a magistrates’ court may try an information in respect of an offence committed under these Regulations if the information is laid within 12 months from the time when the offence is committed; and
+- (d) in Scotland summary proceedings for an offence committed under these Regulations may be begun at any time within 12 months from the time when the offence is committed. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-85b118d491b195cd808542cd32e690cf]
+
+**2.** Nothing in this Schedule authorises any enforcement authority to bring proceedings in Scotland for an offence.
+
+**3.** An enforcement authority must, whenever the Secretary of State so directs, make a report to the Secretary of State on the exercise of the functions exercisable by that authority under these Regulations.
+
+## SCHEDULE 5 — Illustrative Examples of Packaging Referred to in the definition of Packaging in Regulation 3(2)
+
+Regulation 3(4)
+
+Illustrative examples for criterion in regulation 3(3)(a)—
+
+- **Packaging**
+  - Sweet boxes
+  - Film overwrap around a CD case
+  - Mailing pouches for catalogues and magazines (with a magazine inside)
+  - Cake doilies sold with a cake
+  - Rolls, tubes and cylinders around which flexible material (e.g. plastic film, aluminium, paper) is wound, except rolls, tubes and cylinders intended as parts of production machinery and not used to present a product as a sales unit
+  - Flower pots intended to be used only for the selling and transporting of plants and not intended to stay with the plant throughout its lifetime
+  - Glass bottles for injection solutions
+  - CD spindles (sold with CDs, not intended to be used as storage)
+  - Clothes hangers (sold with a clothing item)
+  - Matchboxes
+  - Sterile barrier systems (pouches, trays and materials necessary to preserve the sterility of the product)
+  - Beverage system capsules (e.g. coffee, cacao, milk) which are left empty after use
+  - Refillable steel cylinders used for various kinds of gas, excluding fire extinguishers
+- **Non-packaging**
+  - Flower pots intended to stay with the plant throughout its lifetime
+  - Tool boxes
+  - Tea bags
+  - Wax layers around cheese
+  - Sausage skins
+  - Clothes hangers (sold separately)
+  - Beverage system coffee capsules, coffee foil pouches, and filter paper coffee pods disposed together with the used coffee product
+  - Cartridges for printers
+  - CD, DVD and video cases (sold together with a CD, DVD or video inside)
+  - CD spindles (sold empty, intended to be used as storage)
+  - Soluble bags for detergents
+  - Graveside lights (containers for candles)
+  - Mechanical quern (integrated in a refillable recipient, e.g. refillable pepper mill)
+
+Illustrative examples for criterion in regulation 3(3)(b)—
+
+- **Packaging, if designed and intended to be filled at the point of sale**
+  - Paper or plastic carrier bags
+  - Disposable plates and cups
+  - Cling film
+  - Sandwich bags
+  - Aluminium foil
+  - Plastic foil for cleaned clothes in laundries
+- **Non-packaging**
+  - Stirrer
+  - Disposable cutlery
+  - Wrapping paper (sold separately)
+  - Paper baking cases (sold empty)
+  - Cake doilies sold without a cake
+
+Illustrative examples for criterion in regulation 3(3)(c)—
+
+- **Packaging**
+  - Labels hung directly on or attached to a product
+- **Part of packaging**
+  - Mascara brush which forms part of the container closure
+  - Sticky labels attached to another packaging item
+  - Staples
+  - Plastic sleeves
+  - Device for measuring dosage which forms part of the container closure for detergents
+  - Mechanical quern (integrated in a non-refillable recipient, filled with a product, eg. pepper mill filled with pepper)
+- **Non-packaging**
+  - Radio frequency identification (RFID) tags.
+
+## SCHEDULE 6
+
+Regulation 16
+
+| (1) | (2) | (3) |
+| --- | --- | --- |
+| **Regulations revoked** | **References** | **Extent of revocation** |
+| The Packaging (Essential Requirements) Regulations 2003 | [S.I. 2003/1941](https://www.legislation.gov.uk/uksi/2003/1941) | The whole Regulations |
+| The Packaging (Essential Requirements) (Amendment) Regulations 2004 | [S.I. 2004/1188](https://www.legislation.gov.uk/uksi/2004/1188) | The whole Regulations |
+| Hazardous Waste (England and Wales) Regulations 2005 | [S.I. 2005/894](https://www.legislation.gov.uk/uksi/2005/894) | Paragraphs 38 and 39 of Part 2 of Schedule 11 |
+| Hazardous Waste Regulations (Northern Ireland) 2005 | [S.R. (N.I.) 2005 No. 300](https://www.legislation.gov.uk/nisr/2005/300) | Paragraph 11 of Part 2 of Schedule 10 |
+| Hazardous Waste (Wales) Regulations 2005 | [S.I. 2005/1806 (W.138)](https://www.legislation.gov.uk/wsi/2005/1806) | Paragraph 41 of Part 2 of Schedule 11 |
+| The Packaging (Essential Requirements) (Amendment) Regulations 2006 | [S.I. 2006/1492](https://www.legislation.gov.uk/uksi/2006/1492) | The whole Regulations |
+| The Packaging (Essential Requirements) (Amendment) Regulations 2009 | [S.I. 2009/1504](https://www.legislation.gov.uk/uksi/2009/1504) | The whole Regulations |
+| The Waste (England and Wales) Regulations 2011 | [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988) | Paragraph 15 of Part 2 of Schedule 4 |
+| The Waste (Scotland) Regulations 2011 | [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226) | Paragraph 12 of Part 2 of the Schedule |
+| The Natural Resources Body for Wales (Functions) Order 2013 | [S.I. 2013/755 (W.90)](https://www.legislation.gov.uk/wsi/2013/755) | Paragraph 169 of Schedule 4 |
+| The Packaging (Essential Requirements) (Amendment) Regulations 2013 | [S.I. 2013/2212](https://www.legislation.gov.uk/uksi/2013/2212) | The whole Regulations |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and replace the Packaging (Essential Requirements) Regulations 2003 (“the 2003 Regulations”). The 2003 Regulations implemented Articles 9 and 11 of [Directive 94/62/EC](https://www.legislation.gov.uk/european/directive/1994/0062) of the European Parliament and the Council on packaging and packaging waste (OJ No L365, 31.12.94, p 10) which relate to the essential requirements to be satisfied by packaging. They also implemented two Commission Decisions providing for derogations in respect of plastic crates and pallets and glass packaging. These are Commission [Decision 1999/177/EC](https://www.legislation.gov.uk/european/decision/1999/0177) establishing the conditions for a derogation for plastic crates and plastic pallets in relation to the heavy metal concentration levels established in [Directive 94/62/EC](https://www.legislation.gov.uk/european/directive/1994/0062) on packaging and packaging waste (OJ No L056, 04.03.1999, p 47) and Commission [Decision 2001/171/EC](https://www.legislation.gov.uk/european/decision/2001/0171) establishing the conditions for a derogation for glass packaging in relation to the heavy metal concentration levels established in [Directive 94/62/EC](https://www.legislation.gov.uk/european/directive/1994/0062) on packaging and packaging waste (OJ No L062, 02.03.2001, p 20).
+
+The 2003 Regulations were amended to reflect amendments to [Directive 94/62/EC](https://www.legislation.gov.uk/european/directive/1994/0062) by [S.I. 2004/1188](https://www.legislation.gov.uk/uksi/2004/1188), [S.I. 2006/1492](https://www.legislation.gov.uk/uksi/2006/1492), [S.I. 2009/1504](https://www.legislation.gov.uk/uksi/2009/1504), among other legislation. [Directive 94/62/EC](https://www.legislation.gov.uk/european/directive/1994/0062) was last amended by Directive (EU) 2015/720 as regards reducing the consumption of lightweight plastic carrier bags (OJ No L115, 6.5.2015, p 11). These Regulations consolidate the amendment Regulations and introduce a definition of “plastic” and “plastic carrier bags”. Part 2 provides for the application of the Regulations. They apply to all packaging (as defined in regulation 3(2)).
+
+Part 3 sets out the general requirements of the Regulations. Regulation 4 imposes a duty on a responsible person (as defined in regulation 2(2)) who places packaging on the market to ensure that it satisfies the relevant essential requirements. The essential requirements (Annex II of [Directive 94/62/EC](https://www.legislation.gov.uk/european/directive/1994/0062)) are set out in Schedule 1. Regulation 5 imposes a duty on a responsible person who places the product on the market to ensure that the sum of the concentration levels of lead, cadmium, mercury and hexavalent chromium of that packaging or of its packaging components does not exceed 100 ppm. Regulation 5(1) does not apply to packaging which is made entirely of lead crystal glass (regulation (5(2)). Regulation 5(3) introduces derogations from regulation 5(1) in respect of plastic crates and pallets and glass packaging provided the respective conditions set out in Schedules 2 and 3 are met.
+
+Regulation 6(1) provides for the responsible person to keep technical documentation on compliance with the essential requirements and the heavy metals concentration limits in respect of packaging and to make this available at the request of the enforcement authority.
+
+Regulation 6(2) makes provision for the manufacturer or the manufacturer’s authorised representative or, if neither is established in the Union, the responsible person who places the product on the market, to comply with the provisions relating to information set out in Schedules 2 and 3 to be submitted in certain circumstances and on request to the enforcement authorities.
+
+Part 4 relates to enforcement of the Regulations. The enforcement authorities are the weights and measures authorities in Great Britain and the Department of Enterprise, Trade and Investment in Northern Ireland and have the powers set out in Schedule 4 to these Regulations and Schedule 5 to the Consumer Rights Act [2015 (c.15)](https://www.legislation.gov.uk/ukpga/2015/15). In Scotland, proceedings are brought by the Procurator-Fiscal or Lord Advocate. Regulation 8 provides for offences. Regulation 9 provides for penalties for breaches of the Regulations. There are also provisions relating to the defence of due diligence (regulation 10) as well as liability of persons other than the principal offender (regulation 11).
+
+Regulation 12 requires the Secretary of State to review the operation and effect of these Regulations and publish a report within five years after they come into force and within every five years after that. Following a review it will fall to the Secretary of State to consider whether the Regulations should remain as they are, or be revoked or be amended. A further instrument would be needed to revoke the Regulations or to amend them.
+
+Regulations 13, 14 and 15 provide for consequential amendments and Schedule 6 for revocations.
+
+A full impact assessment of the effect that these Regulations will have on the costs of business, the voluntary sector and the public sector has not been produced as there are no expected changes in costs or savings to business as a consequence of this consolidation. An updated transposition note has been prepared and is available at www.gov.uk/bis and is annexed to the Explanatory Memorandum which is available alongside the Regulations at www.legislation.gov.uk. Copies of these documents have been placed in the libraries of both Houses of Parliament.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 1996/266](https://www.legislation.gov.uk/uksi/1996/266).
+
+[^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51), section 27(1), and the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), Schedule, Part 1.
+
+[^key-0a62f4de78b775e4a7142eaa1a990525]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/2/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [20(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/2/a/i) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00003]: Footnote: OJ No L 365, 31.12.94, p10.
+
+[^key-53b93bc6cb8aa4c88524e7851778288a]: Textual amendment: Words in reg. 2(1) inserted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [19(2)(a)](https://www.legislation.gov.uk/uksi/2020/904/regulation/19/2/a)
+
+[^f00004]: Footnote: [1987 c.43](https://www.legislation.gov.uk/ukpga/1987/43). Sections 31, 32 and 44 were amended by the Consumer Rights Act [2015 (c.15)](https://www.legislation.gov.uk/ukpga/2015/15), section 77 and Schedule 6, paragraphs 37, 42, 43 and 46.
+
+[^key-dc6a63efd6b945b6f78d3a84edaa8af8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/2/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [20(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/2/a/ii) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fff90b54a9e133baab145dc5abc77f2e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/2/1) substituted (N.I.) (31.12.2020) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(2)(a)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/2/a)
+
+[^key-bde16033a519a88448bcdcf098083120]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/2/1) inserted (E.W.S.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [20(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/2/a/iii) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00005]: Footnote: OJ No L 396, 30.12.2006, p1.
+
+[^key-e1cf3b84537784a0e7191ff81b233bde]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/2/1) inserted (N.I.) (31.12.2020) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(2)(b)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/2/b)
+
+[^key-7649437574edb959eb21bcd51aed82c0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/2/1) substituted (E.W.S.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [20(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/2/a/iv) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00006]: Footnote: OJ No L 312, 22.11.2008, p 3.
+
+[^key-7cbae91adefb27a2cb40f6713ac15576]: Textual amendment: Words in reg. 2(1) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2018/942/regulation/26)
+
+[^key-26879c169ef260fab21abfab39e396ef]: Textual amendment: Words in reg. 2(1) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [19(2)(b)](https://www.legislation.gov.uk/uksi/2020/904/regulation/19/2/b)
+
+[^key-8ed6900d045a9df9acf03f33ad06b149]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/2/1) inserted (E.W.S.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [20(2)(a)(v)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/2/a/v) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7c41eb1cc4802d5945dfe7d7543d07dd]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/2/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [20(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/2/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a622cbc454a8aa85ed39c720121325f5]: Textual amendment: Reg. 2A inserted (E.W.S.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [20(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/3) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)(13)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2/13/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d3fec6780febf41d616c11f6a582f8b8]: Textual amendment: Words in [reg. 2A(3)(b)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/2A/3/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 35(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/35/a)
+
+[^key-f3798f0cbb7c378ac99fb50d5d23f035]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/4) omitted (E.W.S.) (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [20(4)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/4) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00007]: Footnote: OJ No L 37, 8.2.2013, p10.
+
+[^key-822be6f501a434d959a21e972e1d59c6]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5) substituted (N.I.) (31.12.2020) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/3)
+
+[^f00008]: Footnote: [S.I. 2005/894](https://www.legislation.gov.uk/uksi/2005/894), amended by [S.I. 2006/937](https://www.legislation.gov.uk/uksi/2006/937), [2007/3538](https://www.legislation.gov.uk/uksi/2007/3538), [2009/507](https://www.legislation.gov.uk/uksi/2009/507), [2010/675](https://www.legislation.gov.uk/uksi/2010/675), [2011/556](https://www.legislation.gov.uk/uksi/2011/556), [2011/988](https://www.legislation.gov.uk/uksi/2011/988), [2011/2043](https://www.legislation.gov.uk/uksi/2011/2043), [2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755).
+
+[^f00009]: Footnote: [S.R.(N.I.) 2005 No.300](https://www.legislation.gov.uk/nisr/2005/300), amended by [S.R. (N.I.) 2005/461](https://www.legislation.gov.uk/nisr/2005/461), [2006/280](https://www.legislation.gov.uk/nisr/2006/280), [2009/159](https://www.legislation.gov.uk/nisr/2009/159), [2011/127 (W. 141)](https://www.legislation.gov.uk/wsi/2011/127), [2015/288](https://www.legislation.gov.uk/nisr/2015/288).
+
+[^f00010]: Footnote: [S.I. 2005/1806 (W. 138)](https://www.legislation.gov.uk/wsi/2005/1806), amended by [S.I. 2006/937](https://www.legislation.gov.uk/uksi/2006/937), [2007/3538](https://www.legislation.gov.uk/uksi/2007/3538), [2009/2861 (W. 250)](https://www.legislation.gov.uk/wsi/2009/2861), [2010/675](https://www.legislation.gov.uk/uksi/2010/675), [2011/556](https://www.legislation.gov.uk/uksi/2011/556), [2011/971 (W. 141)](https://www.legislation.gov.uk/wsi/2011/971), [2011/2043](https://www.legislation.gov.uk/uksi/2011/2043), [2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755).
+
+[^f00011]: Footnote: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972), amended by [S.I. 1996/2019](https://www.legislation.gov.uk/uksi/1996/2019), [S.S.I. 2004/112](https://www.legislation.gov.uk/ssi/2004/112), [2000/323](https://www.legislation.gov.uk/ssi/2000/323), [2011/226](https://www.legislation.gov.uk/ssi/2011/226), [2012/360](https://www.legislation.gov.uk/ssi/2012/360).
+
+[^key-4658a5be09e9182724ceed111900bd79]: Textual amendment: Words in reg. 4(1) substituted (31.12.2020) by [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188), [reg. 20(5)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/5/a) (as substituted by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(13)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/13/b))
+
+[^key-8a10760d42fa8540f2ee8f4d1f69e192]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/4/1) inserted (N.I.) (31.12.2020) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(4)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/4)
+
+[^key-18f623cfd3ac8b45da8522f274fd0553]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/4/3) substituted (E.W.S.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [20(5)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/5/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f7419f4d5531f2302e2545e1b1b1c2f3]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/4/4) substituted (E.W.S.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [20(5)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/5/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-528567ce01e47556c92b5d544987c820]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/5/1) inserted (N.I.) (31.12.2020) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(4)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/4)
+
+[^key-1401616a905bf405c8cbb4c2a5c3538d]: Textual amendment: Words in reg. 5(1) substituted (31.12.2020) by [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188), [reg. 20(6)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/6) (as substituted by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(13)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/13/c))
+
+[^f00012]: Footnote: OJ No L 326, 29.12.1969, p.36 (OJ/SE 1st series vol II p 599).
+
+[^key-57300f34ab9794583dcc349c78a07428]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2015/1640/regulation/6A) inserted (E.W.S.) (31.12.2020) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [13(2)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/13/2)
+
+[^key-1746dcecbdab8a1aa5ffe796d71dc050]: Textual amendment: [Reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/7/1/a) omitted (N.I.) (31.12.2020) by virtue of [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(5)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/5)
+
+[^f00013]: Footnote: For the investigatory powers available to the enforcement authority for the purpose of the duty imposed by regulation 7(1), see Schedule 5 to the Consumer Rights Act [2015 (c.15)](https://www.legislation.gov.uk/ukpga/2015/15).
+
+[^key-af1ae07efa8eefdc01e66e183a070eb2]: Textual amendment: [Reg. 9(1)(a)(i)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/9/1/a/i) omitted (N.I.) (31.12.2020) by virtue of [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/6/a/i)
+
+[^key-00a8eb8c7b576601daca787345095535]: Textual amendment: Words in [reg. 9(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/9/1/a/ii) omitted (N.I.) (31.12.2020) by virtue of [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/6/a/ii)
+
+[^key-5e7ee3e6cad67a095161ebff1d7bd045]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/9/1/b) omitted (N.I.) (31.12.2020) by virtue of [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(6)(b)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/6/b)
+
+[^key-594fc6782b8695d8b8220027c7702bc7]: Textual amendment: [Reg. 9(2)(a)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/9/2/a) omitted (N.I.) (31.12.2020) by virtue of [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(6)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/6/c/i)
+
+[^key-9f99d4281251ba38969e077f3d4cc8df]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/9/2/b) omitted (N.I.) (31.12.2020) by virtue of [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/6/c/ii)
+
+[^key-cb460184db702802513976a1eec14399]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/10/2) omitted (N.I.) (31.12.2020) by virtue of [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(7)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/7)
+
+[^key-5194599252afa899899d5e005a0ad572]: Textual amendment: [Reg. 12(2)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/12/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [20(7)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/7) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fd61859de3d7f9262343d2f760a57858]: Textual amendment: Word in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/12/2) omitted (N.I.) (31.12.2020) by virtue of [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(8)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/8)
+
+[^f00014]: Footnote: [S.I. 2004/693](https://www.legislation.gov.uk/uksi/2004/693), to which there are amendments not relevant to these Regulations.
+
+[^f00015]: Footnote: [S.I. 2007/3544](https://www.legislation.gov.uk/uksi/2007/3544), to which there are amendments not relevant to these Regulations.
+
+[^f00016]: Footnote: [2015 c.15](https://www.legislation.gov.uk/ukpga/2015/15).
+
+[^key-ebfa265cdf55924d00b6f222395e55a2]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1640/schedule/1) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [20(8)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/8/a) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-eefdcf1a9275f333e80a4d69720e86a8]: Textual amendment: [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/1/paragraph/1/2) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [19(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/904/regulation/19/3/a/i)
+
+[^key-c8b0913b28cf139e4e229f1abf9d0f87]: Textual amendment: [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/1/paragraph/1/4) inserted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [19(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/904/regulation/19/3/a/ii)
+
+[^key-083b944e40cdb8f816b19c001dcc3600]: Textual amendment: Second Sch. 1 para. 1(4)(a) renumbered as Sch. 1 para. 1(4)(b) (S.) (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [15](https://www.legislation.gov.uk/ssi/2026/55/regulation/15)
+
+[^key-f74112bde0e40d14c1439e2cadac06c5]: Textual amendment: [Sch. 1 para. 1(4)(b)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/1/paragraph/1/4/b) substituted (S.) (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 29](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/29) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-dea677a0b4f831e0cb4ec62673c09e33]: Textual amendment: Words in [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/1/paragraph/3/1) substituted (E.W.S.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [20(8)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/8/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dd929025c725c2372435a29134f493d8]: Textual amendment: Word in [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/1/paragraph/3/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 35(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/35/b)
+
+[^key-da2d518ee829365df1f3cee330f6a2d3]: Textual amendment: [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/1/paragraph/3/5)[(6)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/1/paragraph/3/6) inserted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [19(3)(b)](https://www.legislation.gov.uk/uksi/2020/904/regulation/19/3/b)
+
+[^key-540387b57e09e582ad62ed6435488efa]: Textual amendment: Words in [Sch. 2 para. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/2/paragraph/2/1/b) inserted (N.I.) (31.12.2020) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(9)(a)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/9/a)
+
+[^key-912a3b5a1c4666f0a7364c463810614d]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/1640/schedule/2/paragraph/2) substituted (E.W.S.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [20(9)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/9/a) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2aaa765510ddda2a0c15e9836c27f78b]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/2/paragraph/2/2) inserted (N.I.) (31.12.2020) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(9)(a)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/9/a)
+
+[^key-fd7146ae8f34a0a375df152f9595b306]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/2/paragraph/2/2) substituted (N.I.) (31.12.2020) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(9)(b)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/9/b)
+
+[^key-a4f6e5fa873c2defbc9d18808d978d2f]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/2/paragraph/2/2) substituted (E.W.S.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [20(9)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/9/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8998f3cfffeb72a1cdb378f018740168]: Textual amendment: Words in [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/3/paragraph/2/1) substituted (N.I.) (31.12.2020) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(10)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/10)
+
+[^key-c2ddeeea74e68650f9b37f0c4725606d]: Textual amendment: Words in [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/3/paragraph/2/1) substituted (E.W.S.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [20(10)](https://www.legislation.gov.uk/uksi/2019/188/regulation/20/10) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ec65f3283462431048552c7fab33140a]: Textual amendment: Words in [Sch. 4 para. 1(1)(c)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/4/1/c) omitted (N.I.) (31.12.2020) by virtue of [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(11)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/11/a/i)
+
+[^key-85b118d491b195cd808542cd32e690cf]: Textual amendment: [Sch. 4 para. 1(1)(d)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/4/1/d) omitted (N.I.) (31.12.2020) by virtue of [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/3), [15(11)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/15/11/a/ii)

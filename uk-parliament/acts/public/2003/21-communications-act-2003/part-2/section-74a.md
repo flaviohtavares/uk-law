@@ -1,0 +1,55 @@
+---
+title: Communications Act 2003, section 74A
+act: Communications Act 2003
+section: 74A
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/21/section/74A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Communications Act 2003, section 74A
+
+> **Warning: changes not yet applied to this text (71).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/21
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 74A. Access-related conditions in certain cases involving use of radio spectrum[^key-52c4d70f9767a30461419282e3934e4e]
+
+*Extent: E+W+S+N.I.*
+
+(1) OFCOM may apply a condition falling within subsection (2) to a person who provides an electronic communications network (“the host network”) if it appears to OFCOM that—
+
+- (a) in a particular local area within the United Kingdom (“the relevant area”), access by end-users to electronic communications services which depend on the use of wireless telegraphy is unavailable or severely restricted;
+- (b) the unavailability or restriction results from the physical characteristics of the relevant area or from other characteristics of the relevant area that tend to make the bringing into operation of infrastructure uneconomic;
+- (c) the provider of the host network has not made network access available on fair and reasonable commercial terms and conditions to other persons providing electronic communications services; and
+- (d) when granting or varying the wireless telegraphy licence relating to the host network, OFCOM had made clear the possibility that a requirement to provide network access or to enter into wholesale roaming access agreements might subsequently be imposed.
+
+(2) A condition falling within this subsection is one requiring the provider of the host network—
+
+- (a) to provide network access in relation to network elements which are not active; or
+- (b) to enter into wholesale roaming access agreements relating to the relevant area or any part of the relevant area, on such terms and conditions as may be specified or described in the condition, in response to a request meeting specified requirements.
+
+(3) If OFCOM are satisfied as to the matters in subsection (1) but it appears to them that in the circumstances a condition falling within subsection (2) does not suffice to address the situation, OFCOM may also apply a condition requiring the provider of the host network to provide network access in relation to network elements which are active.
+
+(4) The conditions authorised by subsection (2) or (3) may include any provision mentioned in subsection (2D) of section 74, reading references in that subsection to subsection (2A) of that section as references to subsection (2) or (3) of this section (as the case requires).
+
+(5) In exercising their powers under this section, OFCOM must have regard to—
+
+- (a) the need to maximise the coverage and availability of electronic communications services throughout the United Kingdom[^key-9a98c20a90f0a2992ff0304e866b48db], along major transport paths and in particular territorial areas;
+- (b) the desirability of significantly increasing choice, and improving the quality of service, for end-users;
+- (c) the desirability of promoting the efficient use of radio spectrum;
+- (d) the technical feasibility of network access and associated conditions;
+- (e) the extent of infrastructure-based and service-based competition in the market concerned;
+- (f) the desirability of promoting technological innovation;
+- (g) the need to maintain incentives for investment in infrastructure.
+
+(6) In this section “a wholesale roaming access agreement” means an agreement between the provider of the host network and the provider of a public electronic communications service that depends on the use of wireless telegraphy (“the roaming provider”) for the purpose of enabling public electronic communications services to be provided in the relevant area to the customers of the roaming provider.
+
+## Annotations
+
+[^key-52c4d70f9767a30461419282e3934e4e]: Textual amendment: Ss. 74A, 74B inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/32)
+
+[^key-9a98c20a90f0a2992ff0304e866b48db]: Textual amendment: Words in [s. 74A(5)(a)](https://www.legislation.gov.uk/ukpga/2003/21/section/74A/5/a) substituted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/a), [Sch. 1 para. 71](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/71)

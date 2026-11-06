@@ -1,0 +1,124 @@
+---
+title: The National Health Service (Quality Accounts) (Amendment) Regulations 2017
+id: uksi/2017/744
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2017-07-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2017/744
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/744/pdfs/uksiem_20170744_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/744/pdfs/uksi_20170744_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/744/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Quality Accounts) (Amendment) Regulations 2017
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2017 No. 744
+
+National Health Service, England
+
+The National Health Service (Quality Accounts) (Amendment) Regulations 2017
+
+Made
+
+12th July 2017
+
+Laid before Parliament
+
+13th July 2017
+
+Coming into force
+
+1st November 2017
+
+The Secretary of State makes these Regulations in exercise of powers conferred by sections 8, 9(5) and 10(3) of the Health Act 2009[^f00001].
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the National Health Service (Quality Accounts) (Amendment) Regulations 2017.
+
+(2) These Regulations come into force on 1st November 2017.
+
+## 2. Amendment to the National Health Service (Quality Accounts) Regulations 2010
+
+(1) The National Health Service (Quality Accounts) Regulations 2010 (“the 2010 Regulations”)[^f00002] are amended as follows.
+
+(2) In regulation 4—
+
+- (a) in paragraph (2)[^f00003], after “items 1 to 11” insert “and 27.1 to 27.9”;
+- (b) after paragraph (2A), insert—
+
+  > (2B) The information prescribed for the purposes of section 8(1) or (3) of the 2009 Act includes the information specified in items 27.1 to 27.9 of the table in the Schedule for—
+  >
+  > - (a) National Health Service trusts specified in section 8(2)(b) of the 2009 Act; and
+  > - (b) NHS foundation trusts.
+  >
+  > (2C) Paragraph (2B) does not apply in relation to any ambulance trust.
+  >
+  > (2D) The quarterly information required in items 27.1 to 27.3 of the table in the Schedule may be taken from quarterly information published by providers in response to national guidance.
+
+  .
+
+(3) In regulation 5(1)[^f00004]—
+
+- (a) at the end of sub-paragraph (c) omit “and”;
+- (b) after sub-paragraph (d), insert—
+
+  > and,
+  >
+  > - (e) for the providers referred to in regulation 4(2B), a statement describing how information required in items 27.1 to 27.3 of the Schedule to these Regulations is being published each quarter by the providers.
+
+  .
+
+(4) In the Schedule to the 2010 Regulations[^f00005], after item 26, insert the following items—
+
+> |  |  |  |
+> | --- | --- | --- |
+> | 27.1 | The number of its patients who have died during the reporting period, including a quarterly breakdown of the annual figure. | During \[*reporting period*\] \[*number*\] of \[*the provider*\] patients died.<br>This comprised the following number of deaths which occurred in each quarter of that reporting period:<br>\[*number*\] in the first quarter; \[*number*\] in the second quarter;<br>\[*number*\] in the third quarter;<br>\[*number*\] in the fourth quarter. |
+> | 27.2 | The number of deaths included in item 27.1 which the provider has subjected to a case record review or an investigation to determine what problems (if any) there were in the care provided to the patient, including a quarterly breakdown of the annual figure. | By \[*date*\], \[*number*\] case record reviews and \[*number*\] investigations have been carried out in relation to \[number\] of the deaths included in item 27.1. In \[*number*\] cases a death was subjected to both a case record review and an investigation.<br>The number of deaths in each quarter for which a case record review or an investigation was carried out was:<br>\[*number*\] in the first quarter; \[*number*\] in the second quarter;<br>\[*number*\] in the third quarter;<br>\[*number*\] in the fourth quarter. |
+> | 27.3 | An estimate of the number of deaths during the reporting period included in item 27.2 for which a case record review or investigation has been carried out which the provider judges as a result of the review or investigation were more likely than not to have been due to problems in the care provided to the patient (including a quarterly breakdown), with an explanation of the methods used to assess this. | \[*Number*\] representing \[*number as percentage of number in item 27.1*\]% of the patient deaths during the reporting period are judged to be more likely than not to have been due to problems in the care provided to the patient. In relation to each quarter, this consisted of:<br>\[*Number*\] representing \[*number as percentage of the number of deaths which occurred in the quarter given in item 27.1\]*% for the first quarter;<br>\[*Number*\] representing \[*number as percentage of the number of deaths which occurred in the quarter given in item 27.1\]*% for the second quarter;<br>\[*Number*\] representing \[*number as percentage of the number of deaths which occurred in the quarter given in item 27.1\]*% for the third quarter;<br>\[*Number*\] representing \[*number as percentage of the number of deaths which occurred in the quarter given in item 27.1\]*% for the fourth quarter.<br>These numbers have been estimated using the \[*name, and brief explanation of the methods used in the case record review or investigation*\]. |
+> | 27.4 | A summary of what the provider has learnt from case record reviews and investigations conducted in relation to the deaths identified in item 27.3. | Present the information required as a narrative. |
+> | 27.5 | A description of the actions which the provider has taken in the reporting period, and proposes to take following the reporting period, in consequence of what the provider has learnt during the reporting period (see item 27.4). | Present the information required as a narrative. |
+> | 27.6 | An assessment of the impact of the actions described in item 27.5 which were taken by the provider during the reporting period. | Present the information required as a narrative. |
+> | 27.7 | The number of case record reviews or investigations finished in the reporting period which related to deaths during the previous reporting period but were not included in item 27.2 in the relevant document for that previous reporting period. | \[*Number*\] case record reviews and \[*number*\] investigations completed after \[*date*\] which related to deaths which took place before the start of the reporting period. |
+> | 27.8 | An estimate of the number of deaths included in item 27.7 which the provider judges as a result of the review or investigation were more likely than not to have been due to problems in the care provided to the patient, with an explanation of the methods used to assess this. | \[*Number*\] representing \[*number as percentage of number in item 27.1 of the relevant document for the previous reporting period*\]% of the patient deaths before the reporting period, are judged to be more likely than not to have been due to problems in the care provided to the patient. This number has been estimated using the \[*name, and brief explanation of the methods used in the case record review or investigation*\]. |
+> | 27.9 | A revised estimate of the number of deaths during the previous reporting period stated in item 27.3 of the relevant document for that previous reporting period, taking account of the deaths referred to in item 27.8 | \[*Number*\] representing \[*number as percentage of number in item 27.1 of the relevant document for the previous reporting period*\]% of the patient deaths during \[*the previous reporting period*\] are judged to be more likely than not to have been due to problems in the care provided to the patient. |
+
+Signed by authority of the Secretary of State.
+
+Philip Dunne
+
+Minister of State
+
+Department of Health
+
+12th July 2017
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the National Health Service (Quality Accounts) Regulations 2010. They require NHS trusts and NHS foundation trusts (apart from ambulance trusts) to report on the number of patient deaths which have occurred during a reporting period as part of their Quality Accounts. The information provided in the Accounts must include the number of deaths in a reporting period which have been reviewed (whether by a case record review or an investigation), how many of those deaths the trust considers are more likely than not to have been due to problems in the care provided to the patient, and what the trust has learnt and done as a result of the investigations. The Regulations are supported by “National Guidance on Learning from Deaths”, which is available at https://improvement.nhs.uk/resources/learning-deaths-nhs-national guidance/.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c.21](https://www.legislation.gov.uk/ukpga/2009/21). Section 8 was amended by paragraphs 173 and 177 of Schedule 5 and paragraphs 112 and 114 of Schedule 14 to the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7).
+
+[^f00002]: Footnote: [S.I. 2010/279](https://www.legislation.gov.uk/uksi/2010/279).
+
+[^f00003]: Footnote: Paragraph (2) was amended by [S.I. 2012/3081](https://www.legislation.gov.uk/uksi/2012/3081).
+
+[^f00004]: Footnote: Regulation 5(1) was amended by [S.I. 2011/269](https://www.legislation.gov.uk/uksi/2011/269) and [2012/3081](https://www.legislation.gov.uk/uksi/2012/3081).
+
+[^f00005]: Footnote: The Schedule was amended by [S.I. 2011/269](https://www.legislation.gov.uk/uksi/2011/269) and [2012/3081](https://www.legislation.gov.uk/uksi/2012/3081).

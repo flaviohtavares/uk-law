@@ -1,0 +1,140 @@
+---
+title: The Police Act 1997 (Criminal Records) (Disclosure) (Amendment) Regulations (Northern Ireland) 2009
+id: uksi/2009/1798
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-06-08'
+text_date: '2013-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/uksi/2009/1798
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/1798/pdfs/uksiem_20091798_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/1798/pdfs/uksi_20091798_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/1798/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police Act 1997 (Criminal Records) (Disclosure) (Amendment) Regulations (Northern Ireland) 2009
+
+> Text as at 2013-04-01.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+2009 No. 1798
+
+Criminal Law, Northern Ireland
+
+The Police Act 1997 (Criminal Records) (Disclosure) (Amendment) Regulations (Northern Ireland) 2009
+
+Made
+
+8th June 2009
+
+Laid before Parliament
+
+9th July 2009
+
+Coming into force
+
+31st July 2009
+
+The Secretary of State, in exercise of the powers conferred on him by sections 113B (9), (11) (c) and section 118(2) and (3) of the Police Act 1997 [^f00001], makes the following Regulations;
+
+## 1. Citation, Commencement and Extent[^key-5c6da873d67e21f93c9365b946166340]
+
+(1) These Regulations may be cited as the Police Act 1997 (Criminal Records) (Disclosure) (Amendment) Regulations (Northern Ireland) 2009 and shall come into force on 31 July 2009.
+
+(2) These Regulations extend to Northern Ireland only.
+
+## 2. Enhanced criminal record certificates: police forces[^key-252acb8a80c621e95541466c2d50b1da]
+
+For the purposes of section 113B of the Police Act 1997 (enhanced criminal records) —
+
+- (a) Access Northern Ireland must be treated as if it were a police force;
+- (b) any reference to the chief officer of police, in relation to Access Northern Ireland is to be taken to be the General Manager of Access Northern Ireland.
+- (c)[^key-b31f77ce4d07a1d726880ab5e11f44e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-b31f77ce4d07a1d726880ab5e11f44e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Police Act 1997 (Criminal Records) (Disclosure) Regulation (Northern Ireland) 2008[^key-32ddf06b41c0432d9002bc0df1396e78]
+
+(1) The Police Act 1997 (Criminal Records) (Disclosure) Regulations (Northern Ireland) 2000 [^f00002] are amended as follows:
+
+(2) In regulation 8 (enhanced criminal record certificates: relevant police forces), after subparagraph (c) insert—
+
+> - (ca) Access Northern Ireland if—
+>   - (i) there is no UK residence address within the last 5 years provided on the application; and
+>   - (ii) no other police force appears to the Secretary of State to be relevant to the application
+
+(3) After regulation 10 (evidence of identity) add—
+
+> **11. Fingerprinting**
+>
+> (1) where the Secretary of State requires an application under Part V of the Act to be supplemented by evidence of identity in the form of fingerprints then the place at which they are to be taken is to be in accordance with paragraphs (2) and (3) below and shall notify the applicant—
+>
+> - (a) of his requirement; and
+> - (b) of the fact that any fingerprint taken from the applicant and provided to the Secretary of State in pursuance of the requirement may be the subject of a speculative search.
+>
+> (2) Any applicant in receipt of such a notification shall notify the Secretary of State of whether he wishes to proceed with his application and, if so, notify the Secretary of State—
+>
+> - (a) that he consents to the taking of the fingerprints; and
+> - (b) he proposes to attend at a police station (“the specified police station”) for the purpose of having his fingerprints taken, or
+>
+> (3) The Secretary of State may require the police officer in charge of the specified police station or any police station he reasonably determines, to take the applicants’ fingerprints at the specified station at such reasonable time as the officer may direct and notify to the applicant.
+>
+> (4) Fingerprints taken in connection with an application under Part V of the Act must be destroyed as soon as is practicable after the identify of the applicant is established to the satisfaction of the Secretary of State.
+>
+> (5) If fingerprints are destroyed—
+>
+> - (a) any copies of the fingerprints shall also be destroyed; and
+> - (b) the chief constable shall make access to any computer data relating to the fingerprints inaccessible as soon as is practicable to do so
+>
+> (6) Any applicant who asks to be allowed to witness the destruction of his fingerprints or copies shall have a right to witness it.
+>
+> (7) If—
+>
+> - (a) paragraph (6)(b) above falls to be complied with; and
+> - (b) the applicant to whose fingerprints the data relates asks for a certificate that it has been complied with such certificate shall be issued to him, not later than the end of the period of three months, beginning on the day on which he asks for it by the Chief Constable or a person authorised by him or on his behalf for the purposes of this regulation.
+>
+> (8) In the case of an applicant under the age of 18 years the consent of the applicants’ parent or guardian to the taking of the applicants’ fingerprints is also required.
+>
+> (9) In this regulation “speculative search” has the same meaning as in Part V of the Police and Criminal Evidence (Northern Ireland) Order 1989.
+
+Paul Goggins
+
+Minister of State
+
+Northern Ireland Office
+
+8 June 2009
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+These Regulations, which come into force on 31 July 2009, make provision in relation to certificates of criminal records etc under Part V of the Police Act 1997 (“the 1997 Act”).
+
+Regulation 2 prescribes Access Northern Ireland and the Scottish Crime and Drug Enforcement Agency as police forces for the purposes of section 113B of the 1997 Act. The effect of this is to confer on those bodies functions of providing information in relation to applications for enhanced criminal record certificates.
+
+Regulation 3(2) provides that Access Northern Ireland is prescribed as a relevant police force for the purposes of an application for an enhanced criminal records certificate only in circumstances where the application made shows no UK residence address in the last 5 years and where no other police force appears to be relevant to the application.
+
+Regulation 4 adds new Regulation 11 to the Police Act 1997 (Criminal Records) (Disclosure) Regulations (Northern Ireland) 2008 to make provision for the taking of fingerprints from applicants for the purpose of ascertaining the identity of an applicant.
+
+## Annotations
+
+[^f00001]: Footnote: [1997 c.50](https://www.legislation.gov.uk/ukpga/1997/50); section 113B was inserted by section 163(2) of the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15)
+
+[^key-5c6da873d67e21f93c9365b946166340]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/1798/regulation/1) in force at 31.7.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1798/regulation/1/1)
+
+[^key-252acb8a80c621e95541466c2d50b1da]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/1798/regulation/2) in force at 31.7.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1798/regulation/1/1)
+
+[^key-b31f77ce4d07a1d726880ab5e11f44e2]: Textual amendment: [Reg. 2(c)(d)](https://www.legislation.gov.uk/uksi/2009/1798/regulation/2/c/d) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 94](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/94)
+
+[^key-32ddf06b41c0432d9002bc0df1396e78]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/1798/regulation/3) in force at 31.7.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1798/regulation/1/1)
+
+[^f00002]: Footnote: [S.I. 2008/542](https://www.legislation.gov.uk/uksi/2008/542)

@@ -1,0 +1,1201 @@
+---
+title: Pilotage Act 1987
+id: ukpga/1987/21
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1987-05-15'
+text_date: '2022-05-05'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1987/21
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1987/21/pdfs/ukpga_19870021_en.pdf
+- http://www.legislation.gov.uk/ukpga/1987/21/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pilotage Act 1987
+
+> Text as at 2022-05-05.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Pilotage Act 1987
+
+1987 c. 21
+
+An Act to make new provision in respect of pilotage.
+
+\[15th May 1987\]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-ece3575072fa431c6528177aad7e9dd4]
+
+## Part I — Pilotage Functions of Competent Harbour Authorities
+
+### Preliminary
+
+#### 1. Meaning of “competent harbour authority” and “harbour”.[^key-77ec21568ee68ea01f179675394ebd16]
+
+(1) Subject to the following provisions of this section, in this Act “**competent harbour authority**” means any harbour authority—
+
+- (a) which has statutory powers in relation to the regulation of shipping movements and the safety of navigation within its harbour; and
+- (b) whose harbour falls wholly or partly within an active former pilotage district;
+
+and references to a harbour authority’s harbour are to the area or areas inside the limits of which its statutory powers and duties as a harbour authority are exercisable but, where there are two or more separate such areas, include only those areas which fall wholly or partly within an active former pilotage district.
+
+(2) In this Act any reference to a former pilotage district is to a district which was a pilotage district within the meaning of the [^c789071]Pilotage Act 1983 immediately before the day appointed for the coming into force of this Part of this Act (“the appointed day”) and for the purposes of subsection (1) above such a district is an active district if—
+
+- (a) at least one act of pilotage was performed there in 1984, 1985, 1986 or 1987 in respect of which information was given by the pilotage authority for the district in a return made by it under section 19 of that Act; or
+- (b) a certificate granted under section 20 of that Act (masters’ and first mates’ pilotage certificates) was in force in respect of the district at any time in any of those years in respect of which information was so given.
+
+(3) If the Secretary of State considers that in the interests of efficiency and safety of navigation a competent harbour authority should exercise pilotage functions both as respects its harbour and another area, he may by order provide—
+
+- (a) that this Act shall apply to that authority as if its harbour included that other area; and
+- (b) in a case where the other area is or falls within the harbour of another competent harbour authority, that that other authority shall not be a competent harbour authority for the purposes of this Act.
+
+(4) A harbour authority which is not a competent harbour authority may apply to the Secretary of State to be treated for the purposes of this Act as such an authority and on such an application the Secretary of State may by order provide that the applicant shall be a competent harbour authority for the purposes of this Act.
+
+(4A)[^key-5b1af4a03e27b454ef4c77f50f843437] A harbour authority in England or Wales is not a competent harbour authority for the purposes of this Act while it is specified in an order of the Secretary of State under this subsection.
+
+(4B) A harbour authority in Scotland is not a competent harbour authority for the purposes of this Act while it is specified in an order of the Scottish Ministers under this subsection.
+
+(5)[^key-34d6418e01e4f740564654bc6a02bfed] An order under this section may be amended or revoked by further order.
+
+(6) The Secretary of State shall maintain a list of the authorities which are for the time being competent harbour authorities for the purposes of this Act.
+
+(7) Before making an order under *(Extent: S)* *(affected by repeal, see note)*[^key-5d5cecc12d6edcb2e0221916af868ed8] subsection (3) or (4)[^key-eabb16887a770931377700e915d3c1f9] *(Extent: S)* *(affected by repeal, see note)*[^key-5d5cecc12d6edcb2e0221916af868ed8] the Secretary of State shall inform the persons he considers may be affected by the order of the terms of the proposed order and that they may within such reasonable period as he may specify object to the making of the order by giving him notice in writing. *(Extent: S)* *(affected by repeal, see note)*[^key-5d5cecc12d6edcb2e0221916af868ed8]
+
+(8) Where any person has duly objected under subsection (7) above to the making of a proposed order and has not withdrawn his objection, then if the Secretary of State makes an order in that form (or a substantially similar form) it shall be subject to special parliamentary procedure, and the *(Extent: S)* *(affected by repeal, see note)*[^key-5d5cecc12d6edcb2e0221916af868ed8] [^c789072] Statutory Orders (Special Procedure) Act 1945 shall have effect accordingly, but as if— *(Extent: S)* *(affected by repeal, see note)*[^key-5d5cecc12d6edcb2e0221916af868ed8]
+
+- (a (Extent: S) (affected by repeal, see note))[^key-5d5cecc12d6edcb2e0221916af868ed8] sections 2 and 10(2) of that Act (which relate to preliminary proceedings) were omitted; and *(Extent: S)* *(affected by repeal, see note)*[^key-5d5cecc12d6edcb2e0221916af868ed8]
+- (b (Extent: S) (affected by repeal, see note))[^key-5d5cecc12d6edcb2e0221916af868ed8] that Act extended to Northern Ireland and, in the application of section 7(3) of that Act to Northern Ireland, for any reference to a local authority and the Secretary of State there were substituted respectively a reference to a district council and the Department of the Environment for Northern Ireland. *(Extent: S)* *(affected by repeal, see note)*[^key-5d5cecc12d6edcb2e0221916af868ed8]
+
+(8AA)[^key-0f4f8c21b817ed59756027bb65fff23f] Before making an order under subsection (4A) or (4B) the person making the order must consult—
+
+- (a) any harbour authority to which the order would apply, and
+- (b) anyone else who the person making the order thinks appropriate.
+
+(8B) An order under this section may include transitional, consequential, incidental or supplemental provision.
+
+(9) For the purposes of subsection (1) above “**harbour authority**” does not include—
+
+- (a) any authority excluded by virtue of section 58 of the [^c789073]Harbours Act 1964 from being taken as a harbour authority for the purposes of that Act;
+- (b) a Queen’s harbour master; or
+- (c) any own account operator.
+
+(10) For the purposes of subsection (1)(a) above powers exercisable by the harbour master for a harbour shall be taken to be exercisable by the harbour authority which appointed him.
+
+(11) In this section “**own account operator**” means a statutory harbour undertaker within the meaning of section 42 of the Harbours Act 1964 or a harbour authority within the meaning of the [^c789074]Harbours Act (Northern Ireland) 1970 whose activities in the harbour in question relate wholly or mainly to ships resorting to the harbour wholly or mainly for the purpose of bringing or receiving goods which—
+
+- (a) have been manufactured or produced by the statutory harbour undertaker or, as the case may be, the harbour authority or any connected person; or
+- (b) are to be used by him or any connected person for the manufacture or production of goods or electricity;
+
+and for the purposes of this subsection a person is connected with a statutory harbour undertaker or, as the case may be, harbour authority, if he is a holding company or subsidiary of the undertaker, or authority, or a member of a consortium the members of which between them own, directly or indirectly, more than half the issued share capital of the undertaker or authority.
+
+#### 1A (Extent: S). Procedure on orders under section 1 (Extent: S)[^key-fffa50fa72a69ebe5510eb0211f0f2f2]
+
+(1 (Extent: S)) Where the Scottish Ministers propose to make an order under section 1 above (other than under subsection (4) *(Extent: S)*or (4B)[^key-600bf090e3c8586c767b1ff0f4341f14] *(Extent: S)* of that section), they must before doing so— *(Extent: S)*
+
+- (a (Extent: S)) publish a notice— *(Extent: S)*
+  - (i (Extent: S)) in a newspaper circulating in the area in which the provisions of the order will have most effect; *(Extent: S)*
+  - (ii (Extent: S)) in the Edinburgh Gazette; and *(Extent: S)*
+  - (iii (Extent: S)) in such other publication as seems to them appropriate; and *(Extent: S)*
+- (b (Extent: S)) send a copy of the notice to such persons as they consider may be affected by the order. *(Extent: S)*
+
+(2 (Extent: S)) Where the Scottish Ministers propose to make an order under subsection (4) of section 1 above, the harbour authority which made application under that subsection must, before the order is made— *(Extent: S)*
+
+- (a (Extent: S)) publish a notice— *(Extent: S)*
+  - (i (Extent: S)) in a newspaper circulating in the area in which the provisions of the order will have most effect; *(Extent: S)*
+  - (ii (Extent: S)) in the Edinburgh Gazette; and *(Extent: S)*
+  - (iii (Extent: S)) in such other publication as may be directed by the Scottish Ministers; and *(Extent: S)*
+- (b (Extent: S)) send a copy of the notice— *(Extent: S)*
+  - (i (Extent: S)) to such persons as they consider may be affected by the order; and *(Extent: S)*
+  - (ii (Extent: S)) to such other persons as the Scottish Ministers may direct. *(Extent: S)*
+
+(3 (Extent: S)) A notice under subsection (1) or (2) above must— *(Extent: S)*
+
+- (a (Extent: S)) contain a summary of the contents of the proposed order; *(Extent: S)*
+- (b (Extent: S)) specify a place where a copy of the proposed order (and of any related map or plan) is available for public inspection; and *(Extent: S)*
+- (c (Extent: S)) provide details as to the making to the Scottish Ministers of objections to the proposed order by a date specified in the notice (that date being no less than 42 days after the first date of publication of the notice in terms of paragraph (a)(i) of subsection (1) or (2) above). *(Extent: S)*
+
+(4 (Extent: S)) Where a harbour authority affected by the proposed order makes an objection to the Scottish Ministers by the date specified in the notice, the Scottish Ministers shall arrange for the objection to be considered— *(Extent: S)*
+
+- (a (Extent: S)) at a public local inquiry; or *(Extent: S)*
+- (b (Extent: S)) at a hearing before a person appointed by them. *(Extent: S)*
+
+(5 (Extent: S)) Where the Scottish Ministers receive any other objection by the date specified in the notice and they do not consider the objection to be frivolous or trivial, they shall arrange for the objection to be considered— *(Extent: S)*
+
+- (a (Extent: S)) at a public local inquiry; *(Extent: S)*
+- (b (Extent: S)) at a hearing before a person appointed by them; or *(Extent: S)*
+- (c (Extent: S)) by way of written representations. *(Extent: S)*
+
+(6 (Extent: S)) Subsections (2) and (4) to (8) of section 210 of the Local Government (Scotland) Act 1973 (c. 65) (attendance and evidence at, and expenses of, inquiries) apply to an inquiry held under subsection (4)(a) or (5)(a) above as they apply to a local inquiry under that Act. *(Extent: S)*
+
+(7 (Extent: S)) Subsections (6) to (8) of section 210 of the Local Government (Scotland) Act 1973 apply to a hearing held under subsection (4)(b) or (5)(b) above as they apply to a local inquiry under that Act. *(Extent: S)*
+
+(8 (Extent: S)) The Scottish Ministers are to have regard to— *(Extent: S)*
+
+- (a (Extent: S)) a report by the person conducting any inquiry or hearing under subsection (4) or (5) above; and *(Extent: S)*
+- (b (Extent: S)) any written representations in terms of subsection (5)(c) above, *(Extent: S)*
+
+before deciding whether or not to make the proposed order (with or without modifications). *(Extent: S)*
+
+(9 (Extent: S)) After an order has been made, the Scottish Ministers or, where the order is made under subsection (4) of section 1 above, the harbour authority which made application under that subsection must— *(Extent: S)*
+
+- (a (Extent: S)) publish a notice— *(Extent: S)*
+  - (i (Extent: S)) in a newspaper circulating in the area in which the provisions of the order will have most effect; and *(Extent: S)*
+  - (ii (Extent: S)) in the Edinburgh Gazette; and *(Extent: S)*
+- (b (Extent: S)) send a copy of the notice to— *(Extent: S)*
+  - (i (Extent: S)) any person to whom a copy notice was sent under paragraph (b) of subsection (1) or (2) above, as the case may be; *(Extent: S)*
+  - (ii (Extent: S)) any person whose objection was considered at an inquiry or hearing under subsection (5) above; and *(Extent: S)*
+  - (iii (Extent: S)) any other person whom the Scottish Ministers consider appropriate. *(Extent: S)*
+
+(10 (Extent: S)) A notice under subsection (9) above must— *(Extent: S)*
+
+- (a (Extent: S)) state that the order has been made; *(Extent: S)*
+- (b (Extent: S)) specify the date on which it comes into force; and *(Extent: S)*
+- (c (Extent: S)) specify a place where a copy of the order is available for public inspection. *(Extent: S)*
+
+### Provision of pilotage services
+
+#### 2. General duties as to provision of pilotage services.
+
+(1) Each competent harbour authority shall keep under consideration—
+
+- (a) whether any and, if so, what pilotage services need to be provided to secure the safety of ships navigating in or in the approaches to its harbour; and
+- (b) whether in the interests of safety pilotage should be compulsory for ships navigating in any part of that harbour or its approaches and, if so, for which ships and in which circumstances and what pilotage services need to be provided for those ships.
+
+(2) Without prejudice to the generality of subsection (1) above, each competent harbour authority shall in performing its functions under that subsection have regard in particular to the hazards involved in the carriage of dangerous goods or harmful substances by ship.
+
+(3) Each competent harbour authority shall provide such pilotage services as it considers need to be provided as mentioned in subsection (1)(a) and (b) above.
+
+#### 3. Authorisation of pilots.
+
+(1) Subject to subsections (1A) and[^key-c6e4f71edf292bc08da22651aba47560] (3) and section 4 below, a competent harbour authority may authorise such persons to act as pilots in or in any part of the area in relation to which its duty under section 2(1) above is exercisable as it considers are suitably qualified to do so; and such an authorisation shall specify the area within which it has effect and may specify that it only has effect in relation to ships of a particular description.
+
+(1A)[^key-8d5cc9bc39c0f5ecd9ae05b83ff4e896] In considering whether a person is suitably qualified—
+
+- (a) to be authorised under subsection (1) above to act as a pilot—
+  - (i) in inland waters only; or
+  - (ii) in inland waters and other waters; or
+- (b) to continue to be so authorised,
+
+a competent harbour authority shall act in accordance with Schedule A1 to this Act (which makes provision about persons with qualifications obtained in EEA States [^key-d38265854a7e11bbadd04d9bbfa911d5]...).
+
+(2) The authority may determine the qualifications in respect of [^key-105431893c331c9b465cb4aeace0f930]... physical fitness, time of service, local knowledge, skill, character and otherwise to be required from persons applying for authorisation and provide for the examination of such persons; and different qualifications may be required from persons who immediately before the appointed day were the holders of licences under section 12 of the [^c789085]Pilotage Act 1983, time-expired apprentice pilots or recognised assistant pilots.
+
+(2A)[^key-9cf34513aa8c1a0d06b26bef2a2e7fdf] Nothing in any determination made by a competent harbour authority under subsection (2) above shall permit the authority to act in such a way as to contravene Schedule A1 to this Act (which makes provision about persons with qualifications obtained in EEA States [^key-b17cb31369eb455cbab630ff94dd80e9]...).
+
+(3) During the period of four years beginning with the appointed day a competent harbour authority shall not authorise any persons who were not immediately before the appointed day holders of full licences (that is to say, licences under that section other than licences for a limited period which are not renewable) unless the number of such persons applying to be authorised under this section who have the required qualifications falls short of the number the authority considers are required to be authorised.
+
+(4) If at any time during that period there is such a shortfall, the competent harbour authority shall not authorise any person who was not immediately before that day a time-expired apprentice pilot or a recognised assistant pilot unless the number of such apprentice and assistant pilots applying to be authorised who have the required qualifications also falls short of that number.
+
+(5) A competent harbour authority may suspend or revoke an authorisation granted by it under this section if it appears to it—
+
+- (a) that the authorised person has been guilty of any incompetence or misconduct affecting his capability as a pilot;
+- (b) that the authorised person has ceased to have the qualifications required from persons applying for authorisation by it under this section or has failed to provide evidence that he continues to have those qualifications;
+- (c) that the number of persons for the time being authorised by it under this section exceeds the number required to be authorised; or
+- (d) that it is appropriate to do so by virtue of the termination of any contract or other arrangement under which the services of pilots are provided within its harbour;
+
+but the authorisation of a person who provides his services as a pilot under a contract for services may not be revoked by an authority by virtue of paragraph (c) above unless it gave him notice before the appointed day that the number of persons it proposed to authorise exceeded the number required to be authorised and it proposed to revoke his authorisation after allowing him a reasonable period from the appointed day to seek authorisation by another competent harbour authority.
+
+(6) Before suspending or revoking an authorisation under subsection (5)(a) or (b) above, a competent harbour authority shall give written notice of its intention to do so to the authorised person, stating the reasons for which it proposes to act, and shall give him a reasonable opportunity of making representations.
+
+(7) Where a competent harbour authority suspends or revokes an authorisation of any person by virtue of paragraph (c) or (d) of subsection (5) above, it shall give him notice in writing—
+
+- (a) stating that the suspension or revocation was by virtue of that paragraph; and
+- (b) specifying the duration of the authorisation in question and any previous authorisations granted to that person by the authority.
+
+(8) If any person who is not an authorised pilot for an area describes himself whilst he is in that area as being such a pilot or so holds himself out as to indicate or be reasonably understood to indicate that he is such a pilot, he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(9) A person who is an authorised pilot for a harbour for which the competent harbour authority is a local authority shall not by reason of his holding any office or employment as a pilot be disqualified for being a member of any committee of that local authority with any functions in respect of which knowledge or experience relevant to pilotage is material or for being a representative of the local authority on a joint committee of the authority and another authority with such functions.
+
+(9A)[^c789086][^c1595215] A person who is an authorised pilot for a harbour for which the competent harbour authority is a local authority which are operating executive arrangements shall not by reason of his holding of any office or employment as a pilot be disqualified—
+
+- (a) for being a member of the executive of the local authority , or an assistant to the executive, *(Extent: W)*[^key-ed81c454554f8c185ffe411087fbf3b6] where that executive is to any extent responsible for any function in respect of which knowledge or experience relevant to pilotage is material; or
+- (b) for being a member of a committee of the executive of the local authority with any functions in respect of which knowledge or experience relevant to pilotage is material.
+
+(10) In this section—
+
+- “ *(Extent: W)*[^key-b1df3c3e3c36563723d4b0dc8a2943e5]**assistant to the executive *(Extent: W)***” has the same meaning as in Schedule 1 to the Local Government Act 2000 (see paragraph 3A of that Schedule); *(Extent: W)*
+- “executive” and “executive arrangements” have the same meaning as in Part II of the Local Government Act 2000;[^c1595220]
+- [^c1595220]“**local authority**” means—
+  - (a) in England and Wales, a local authority within the meaning of the [^c789088]Local Government Act 1972;
+  - (b) in Scotland, a local authority within the meaning of the [^c789089]Local Government (Scotland) Act 1973; and
+  - (c) in Northern Ireland, a district council;
+- “**time-expired apprentice pilot**” means a person who has served the full term of his apprenticeship as a pilot but is not the holder of a licence under section 12 of the [^c789090]Pilotage Act 1983;
+- “**recognised assistant pilot**” means a person who acts as an assistant to pilots in a pilotage district and is recognised as such an assistant by the pilotage authority for the district but is not the holder of such a licence.
+
+#### 4. Employment etc. of authorised pilots.
+
+(1) Subject to subsection (2) below, a competent harbour authority may make such arrangements as it considers appropriate for the provision of the services of authorised pilots in the area in relation to which its duty under section 2(1) above is exercisable (whether under a contract of employment or a contract for services).
+
+(2) A competent harbour authority shall offer to employ under a contract of employment any person it authorises under section 3 above who is not already employed by it under such a contract (“the new pilot”) unless—
+
+- (a) a majority of the relevant licence holders have agreed during the period beginning six months and ending three months before the appointed day that it need not do so; or
+- (b) a majority of the relevant authorised pilots have agreed on or after that day that it need not do so.
+
+(3) For the purposes of subsection (2) above—
+
+- “**relevant licence holders**” means—
+- (a) in the case of a competent harbour authority whose harbour falls within more than one former pilotage district, the persons who at the time of the agreement were holders of full licences (within the meaning of section 3(3) above) for the pilotage district in which the area for which the new pilot is authorised falls;
+- (b) in the case of a competent harbour authority whose harbour falls within a former pilotage district in which another such authority’s harbour also falls, the persons who at that time were holders of such licences for that district and, in the opinion of the Pilotage Commission, were then regularly providing their services as pilots within the part of the district in which the first-mentioned authority’s harbour is situated;
+- (c) in any other case, all the persons who at that time were the holders of such licences for the former pilotage district in which the competent harbour authority’s harbour falls; and
+  - “**relevant authorised pilots**” means—
+    - (i) in the case mentioned in paragraph (a) above, the persons who at the time of the agreement are authorised pilots for the area for which the new pilot has been authorised; and
+    - (ii) in any other case the persons who at that time are authorised pilots for the harbour of the authority.
+
+(4) A competent harbour authority may refuse to authorise any person who is not willing to provide his services as a pilot in accordance with the arrangements made for the provision of such services in its area.
+
+(5) A competent harbour authority may pay into any pilots’ benefit fund established under paragraph (i) of section 15(1) of the [^c789091]Pilotage Act 1983 such contributions as may be required by the rules governing that fund in respect of any authorised pilot providing his services under such arrangements as mentioned in subsection (1) above.
+
+#### 5. Temporary procedure for resolving disputes as to terms of employment.
+
+(1)[^c789094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^c789094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^c789094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^c789094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^c789094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^c789094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^c789094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^c789101] The preceding provisions of this section shall cease to have effect on such date (not being earlier than the expiry of the period of three years beginning with the appointed day) as the Secretary of State may by order prescribe, but no such order shall affect the terms of any contract continuing in force at that date.
+
+#### 6. Pilot boats.
+
+(1) Ships regularly employed in pilotage services provided by or on behalf of any competent harbour authority (in this Act referred to as “**pilot boats**”) shall—
+
+- (a) if they are operated by the authority, be approved by the authority; and
+- (b) otherwise be licensed by it;
+
+and the authority shall not approve or license any ship under this subsection unless it is satisfied that it is suitable for use as a pilot boat.
+
+(2) A competent harbour authority shall make such other provision as it considers necessary for the operation of pilot boats.
+
+### Compulsory pilotage
+
+#### 7. Pilotage directions.
+
+(1) Subject to the provisions of this section, if a competent harbour authority considers that in the interests of safety it should do so, it shall direct that pilotage shall be compulsory for ships navigating in any area or part of an area in relation to which its duty under section 2(1) above is exercisable; and such a direction is referred to in this Act as a “pilotage direction”.
+
+(2) A pilotage direction—
+
+- (a) may, subject to subsection (3) below, apply to all ships or all ships of a description specified in the direction (subject to any exceptions there specified);
+- (b) shall specify the area and circumstances in which it applies;
+- (c) may specify the circumstances in which an authorised pilot in charge of a ship to which it applies is to be accompanied by an assistant who is also an authorised pilot; and
+- (d) may contain such supplementary provisions as the authority considers appropriate.
+
+(3) A pilotage direction shall not apply to ships of less than 20 metres in length or to fishing boats of which the registered length is less than 47.5 metres.
+
+(4) Before giving a pilotage direction a competent harbour authority shall consult—
+
+- (a) the owners of ships which customarily navigate in the area to which the proposed direction would apply; and
+- (b) any other persons who carry on harbour operations within the harbour of the authority;
+
+or, in either case, such persons as it considers to be representative of them.
+
+(5) If a competent harbour authority considers that pilotage should be compulsory for ships navigating in any area outside its harbour it shall apply for a harbour revision order to be made under section 14 of the [^c789102]Harbours Act 1964, or in Northern Ireland a harbour order under section 1 of the [^c789103]Harbours Act (Northern Ireland) 1970, to extend the limits within which the authority has jurisdiction for the purposes of pilotage to include that area and a pilotage direction given by it shall not apply to that area unless the limits have been so extended.
+
+(6) A competent harbour authority shall arrange for any pilotage direction given by it to be published in such manner as to bring it to the notice of those persons likely to be interested.
+
+#### 8. Pilotage exemption certificates.
+
+(1) Subject to subsection (3) below, a competent harbour authority which has given a pilotage direction shall, on application by any person who is bona fide a deck officer[^key-f2ea0d072361cf8f37fd7595ab754fd5] of any ship, grant a certificate (in this Act referred to as a “pilotage exemption certificate”) to him if it is satisfied (by examination or by reference to such other requirements as it may reasonably impose)—
+
+- (a) that his skill, experience and local knowledge are sufficient for him to be capable of piloting the ship of which he is a deck officer[^key-307cc63710a2ab8cb0f02677d0460c7b] (or that and any other ships specified in the certificate) within its harbour or such part of its harbour as may be so specified; and
+- (b) in any case where it appears to the authority to be necessary in the interests of safety, that his knowledge of English is sufficient for that purpose.
+
+(2) The requirements imposed under subsection (1) above—
+
+- (a) must not be unduly onerous having regard to the difficulties and danger of navigation in the harbour in question; and
+- (b) must not be more onerous than those required to be met by a person (other than a person who immediately before the appointed day was the holder of a licence under section 12 of the Pilotage Act 1983 or a time-expired apprentice pilot or recognised assistant pilot within the meaning of section 3 above) applying to the authority for authorisation under section 3 above.
+
+(3)[^key-5f35537672ab637ce8d077627fe847c2] If the Secretary of State is satisfied, on application by a competent harbour authority, that it is appropriate to do so by reason of the unusual hazards involved in shipping movements within its harbour, he may direct that during such period (not exceeding three years) as he may specify, notwithstanding that the authority is satisfied as mentioned in subsection (1) above, it may refuse to grant pilotage exemption certificates under that subsection.
+
+(4) Where a direction is given in respect of a competent harbour authority under subsection (3) above any pilotage exemption certificate granted by the authority shall cease to have effect and the authority shall notify the holders of such certificates of that fact.
+
+(5) A pilotage exemption certificate shall not remain in force for more than one year from the date on which it is granted, but—
+
+- (a) if the holder continues to be a deck officer of a ship[^key-d0f9811c65a7d1093b097f244ffdcade], may be renewed annually by the competent harbour authority on application by the holder if the authority continues to besatisfied as mentioned in subsection (1) above; and
+- (b) on the application of the holder may be altered so as to refer to different ships from those to which it previously referred if the authority is so satisfied as respects those ships.
+
+(6)[^key-ee9dd6ae84e95ca0ac74a5a09cbeb852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Before refusing an application by any person under this section for the grant, renewal or alteration of a certificate [^key-5fb1c821b88d30aef5407bc7d67b9c05]... a competent harbour authority shall give him written notice of its intention to do so, stating the reasons for which it proposes to act, and shall give him a reasonable opportunity of making representations.
+
+(8) A competent harbour authority may charge such fees in respect of any examination required to be taken for the purposes of this section or the grant, renewal or alteration of any pilotage exemption certificate as the authority considers reasonable for the purposes of meeting its administrative costs in connection therewith.
+
+#### 8A. Pilotage exemption certificates: suspension and revocation[^key-c451a6426244d642ab29597b279b1e61]
+
+(1) A competent harbour authority may by written notice suspend or revoke a person's pilotage exemption certificate in the following cases.
+
+(2) Case 1 is where an event has occurred as a result of which the authority is no longer satisfied of the matters specified in section 8(1)(a).
+
+(3) Case 2 is where the authority thinks that the person has provided false information to the authority as to any of those matters.
+
+(4) Case 3 is where the authority thinks that the person has been guilty of professional misconduct while piloting a ship.
+
+(5) Case 4 is where—
+
+- (a) pilotage notification was given under section 15(4)(b) in reliance on the person's certificate, and
+- (b) in the event, the pilotage was carried out by a person who was neither an authorised pilot nor acting in accordance with a pilotage exemption certificate.
+
+#### 8B. Section 8A: supplementary
+
+(1) The maximum period for which a pilotage exemption certificate may be suspended is 28 days.
+
+(2) But if a harbour authority has suspended a person's certificate and is considering whether to revoke it, the authority may by written notice extend the suspension for a single period of up to 28 days.
+
+(3) A suspended certificate may be revoked (on the same or different grounds).
+
+(4) Before revoking a person's certificate a harbour authority must—
+
+- (a) give the person written warning, stating the reasons for the proposed revocation, and
+- (b) allow the person a reasonable opportunity to make representations.
+
+(5) A competent harbour authority which has suspended or revoked a certificate may pay compensation to any person who has suffered, or is likely to suffer, loss as a result.
+
+#### 9. Prevention of discrimination in favour of authority’s ships.
+
+A competent harbour authority shall secure that any ship owned or operated by it and used by it in the exercise of its functions otherwise than under this Act is subject to the same obligations as respects pilotage whilst navigating within its harbour as any other ship.
+
+### Charging by authorities
+
+#### 10. Pilotage charges.
+
+(1) A competent harbour authority may make reasonable charges in respect of the pilotage services provided by it.
+
+(2) Without prejudice to the generality of subsection (1) above, the charges to be made under that subsection may include—
+
+- (a) charges for the services of a pilot authorised by the authority;
+- (b) charges in respect of any expenses reasonably incurred by such a pilot in connection with the provision of his services as a pilot;
+- (c) charges by way of penalties payable in cases where the estimated time of arrival or departure of a ship is not notified as required by the authority or the ship does not arrive or depart at the notified time;
+- (d) charges in respect of the cost of providing, maintaining and operating pilot boats for the area; and
+- (e) charges in respect of any other costs involved in providing and maintaining the pilotage organisation provided by the authority.
+
+(3) A competent harbour authority which has given a pilotage direction may also make reasonable charges in respect of any ship navigating within the area to which the direction applies under the pilotage of a deck officer[^key-cd61458791e2b7d1feb9067c94bd16c6] who is the holder of a pilotage exemption certificate in respect of the area and ship in question.
+
+(4) Different charges may be made under this section in different circumstances.
+
+(5) A competent harbour authority shall arrange for the charges to be made by it under this section to be published in such manner as to bring them to the notice of those persons likely to be interested.
+
+(6)[^key-110b14a839af874f791e1d9cdde8bc5c] Subsections (2) to (12) of section 31 of the [^c789104]Harbours Act 1964, or in Northern Ireland subsections (1) and (3) to (11) of section 7 of the [^c789105]Harbours Act (Northern Ireland) 1970, (right of objection to ship, passenger and goods dues) shall apply as respects charges imposed by an authority by virtue of this section as they apply as respects charges to which section 31 or, as the case may be, section 7 applies but—
+
+- (a) with the substitution for the references to the persons mentioned in section 31(2)(a) and (b) and (3)(b) or, as the case may be, section 7(1)(a) and (b) and (3)(b) of references to—
+  - (i) the owners of ships which customarily navigate in the harbour in question;
+  - (ii) any persons who carry on harbour operations within that harbour; and
+  - (iii) any other harbour authority to whose harbour ships obtain access through that harbour,
+
+  or, in any of those cases, persons representative of them; and
+- (b) with the omission of section 31(2)(i) and (iii) or, as the case may be, 7(1)(i) and (iii).
+
+(7) Charges imposed by a competent harbour authority under this section shall be recoverable as a civil debt or in any other manner in which ship, passenger and goods dues are recoverable by the authority.
+
+(8) In subsection (7) above “**ship, passenger and goods dues**” has the same meaning as in the Harbours Act 1964 or, in Northern Ireland, the Harbours Act (Northern Ireland) 1970.
+
+### Agents and joint arrangements
+
+#### 11. Use of agents and joint arrangements.
+
+(1) A competent harbour authority may arrange for its functions in relation to the provision of pilotage services (other than its functions under sections 2(1), 3(1), 4(2), 6(1)(b), 7(1), 8(1) above or section 28 below or its function of determining the qualifications to be required from persons applying for authorisation under section 3(2) above or any charge to be imposed under section 10(1) or (3) above) to be exercised on its behalf by such other persons as it thinks fit and may establish such companies as it thinks fit to exercise those functions on its behalf.
+
+(2) A competent harbour authority may arrange for all or any of its functions relating to pilotage other than its duty under section 2(1) above to be exercised on its behalf by another competent harbour authority.
+
+(3) Two or more competent harbour authorities may arrange to discharge any of their functions relating to pilotage jointly and such arrangements may provide for the discharge of such functions by a joint committee or any other body established by the authorities for that purpose.
+
+(4) An authority which has entered into arrangements with another authority under subsection (2) or (3) above may withdraw from the arrangements on giving reasonable notice to the other authority.
+
+#### 12. Information and directions as to joint arrangements.[^key-a94ec69876b72c5d9b564bcdfa9ca59c]
+
+(1) Where—
+
+- (a) the harbours of two or more competent harbour authorities fall wholly or partly within a single former pilotage district;
+- (b) access for ships to the harbour of a competent harbour authority is customarily available through the harbour of another competent harbour authority;
+- (c) there is any person other than the competent harbour authority who carries on harbour operations within the harbour of a competent harbour authority;
+- (d) there is any person who carries on harbour operations in a harbour (within the meaning of the [^c789106]Harbours Act 1964) which is not the harbour of a competent harbour authority and access to which is customarily available through the harbour of a competent harbour authority; or
+- (e) the harbour of a competent harbour authority and a dockyard port (within the meaning of the [^c789107]Dockyard Ports Regulation Act 1865) for which a Queen’s harbour master has been appointed under that Act fall wholly or partly within a single former pilotage district,
+
+the Secretary of State may require any of the authorities or, in the case of paragraph (c), (d) or (e) above, the authority concerned to provide him with such information as he may require concerning the arrangements made or proposed by the authorities or authority in question for the provision of pilotage services and that information shall be provided in such form as the Secretary of State may require.
+
+(2) If the Secretary of State considers that any arrangements of which particulars are provided under subsection (1) above are not satisfactory he may—
+
+- (a) direct that they shall have effect subject to such modifications as he may specify in the direction; or
+- (b) direct the authorities or authority concerned to make different arrangements.
+
+(3) If the statement provided under subsection (1) above is to the effect that no arrangements have been made or proposed by the authorities or authority in question for the provision of pilotage services in the area concerned and the Secretary of State considers that such arrangements should be made, he shall direct the authorities or authority in question to make appropriate arrangements.
+
+(4) Section 11(4) above shall not apply to any arrangements made or modified by virtue of a direction under this section.
+
+#### 13. Resolution of disputes between authorities.[^key-7af55d960b163b96942abbeb19b16fd0]
+
+(1) Where any dispute arises between two or more competent harbour authorities concerning—
+
+- (a) arrangements for the provision of pilotage services made by one authority which affect navigation in another authority’s harbour;
+- (b) arrangements made by two or more authorities for the discharge of their functions in relation to pilotage jointly; or
+- (c) any statement required to be prepared or arrangements required to be made under section 12 above,
+
+or between a competent harbour authority and such a person as mentioned in section 12(1)(c), (d) or (e) above concerning arrangements for the provision of pilotage services made by the authority which affect navigation in the harbour of the competent harbour authority or such a statement or arrangement, any party to the dispute may appeal to the Secretary of State.
+
+(2) On an appeal under subsection (1) above the Secretary of State shall settle the dispute in such manner as he considers appropriate and may in particular direct—
+
+- (a) that such arrangements as are mentioned in that subsection shall not have effect or shall have effect subject to such modifications as he may specify; or
+- (b) in the case of a dispute between two competent harbour authorities, that one authority only shall exercise functions under this Act in relation to any area in respect of which there is a dispute.
+
+(3) The arrangements mentioned in subsection (1) above include arrangements concerning which a previous dispute has been settled under subsection (2) above and arrangements made or modified by virtue of that subsection.
+
+### Accounts
+
+#### 14. Accounts.
+
+(1) Regulations under section 42 of the [^c789108]Harbours Act 1964 may require any authority to which that section applies which is a competent harbour authority to make available for inspection by the public any statement of accounts required to be prepared by it under that section which relate to the activities of the authority (or any agent of the authority) in relation to pilotage.
+
+(2) Regulations under section 30(1) of the [^c789109]Harbours Act (Northern Ireland) 1970 may require any harbour authority which is a competent harbour authority to make available for inspection by the public any statement of accounts to which that section applies which relates to any such activities of the authority (or any agent of the authority).
+
+(3) Where any such activities of a competent harbour authority are carried out on its behalf by any agent, the agent shall furnish the authority with all such information concerning those activities as the authority may reasonably require to fulfil its obligations in relation to any such statement of accounts.
+
+## Part II — General Provisions Concerning Pilotage
+
+### Compulsory pilotage
+
+#### 15. Compulsory pilotage.
+
+(1) A ship which is being navigated in an area and in circumstances in which pilotage is compulsory for it by virtue of a pilotage direction shall be—
+
+- (a) under the pilotage of an authorised pilot accompanied by such an assistant, if any, as is required by virtue of the direction; or
+- (b) under the pilotage of a deck officer[^key-954839648006ab78e1a5312d57bc747c] possessing a pilotage exemption certificate in respect of that area and ship.
+
+(2) If any ship is not under pilotage as required by subsection (1) above after an authorised pilot has offered to take charge of the ship, the master of the ship shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(3)[^key-7d724c12d4af9b99834d2aebe0899b91] The master of a ship commits an offence if—
+
+- (a) the ship is navigated in an area in which a pilotage direction applies to it, and
+- (b) the competent harbour authority which gave the direction has not been given pilotage notification.
+
+(4) Pilotage notification is notification that the ship will be navigated in an area in which a pilotage direction will apply to it and—
+
+- (a) that an authorised pilot is required to pilot the ship, or
+- (b) that an authorised pilot is not required because the ship will be piloted by a specified person acting in accordance with a pilotage exemption certificate.
+
+(5) A person guilty of an offence under subsection (3) is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+#### 16. Liability for ships under compulsory pilotage.
+
+The fact that a ship is being navigated in an area and in circumstances in which pilotage is compulsory for it shall not affect any liability of the owner or master of the ship for any loss or damage caused by the ship or by the manner in which it is navigated.
+
+### Rights of pilots
+
+#### 17. Right of authorised pilot to supersede unauthorised pilot.
+
+(1) An authorised pilot may, within the harbour in relation to which or a part of which he is authorised, supersede as the pilot of a ship any unauthorised person who has been employed to pilot it.
+
+(2) If the master of any ship navigates it in any part of a harbour under the pilotage of an unauthorised person without first notifying the competent harbour authority that he proposes to do so, he shall be guilty of an offence.
+
+(3) If an unauthorised person pilots a ship within a harbour knowing that an authorised pilot has offered to pilot it, he shall be guilty of an offence.
+
+(4) If the master of a ship navigating within a harbour knowingly employs or continues to employ an unauthorised person to pilot the ship after an authorised pilot has offered to pilot it, he shall be guilty of an offence.
+
+(5) For the purposes of this section—
+
+- (a) a person is an unauthorised person if he is neither an authorised pilot nor the holder of a pilotage exemption certificate in respect of the ship and the area in question; and
+- (b) any person (other than the master or one of the crew of a ship) who is on the bridge of the ship or in any other position from which the ship is navigated (whether on board or elsewhere) shall be deemed to be piloting the ship unless he proves otherwise.
+
+(6) Any person who is guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding—
+
+- (a) in the case of an offence under subsection (2) above, level 2 on the standard scale; and
+- (b) in the case of an offence under subsection (3) or (4) above, level 4 on the standard scale.
+
+(7) Subsections (1) to (4) above do not apply—
+
+- (a) to a ship which a person is piloting or ordered to pilot in a dockyard port (within the meaning of the [^c789110]Dockyard Ports Regulation Act 1865) in the course of his duties as a servant of the Crown; or
+- (b) if the competent harbour authority has directed that those subsections shall not apply to movements in its harbour or a specified part of its harbour for the purpose of changing a ship or a ship of a specified description from one mooring to another or of taking it into or out of any dock, to a ship or a ship of that description being moved in that harbour or that part for that purpose;but nothing in paragraph (a) above shall be construed as derogating from any immunity which affects such a ship as there mentioned apart from that paragraph.
+
+(8) A competent harbour authority shall not give a direction under subsection (7)(b) above unless the area in relation to which it will apply is either—
+
+- (a) an area in relation to which a bye-law under section 38 of the [^c789111]Pilotage Act 1983 (exemptions from compulsory pilotage for ships moving within harbours, docks etc.) was in force immediately before the appointed day; or
+- (b) a closed dock, lock or other closed work which is not in a former pilotage district.
+
+#### 18. Declaration as to draught etc. of ship.
+
+(1) A pilot may require the master of any ship which he is piloting to declare its draught of water, length and beam, and to provide him with such other information relating to the ship or its cargo as the pilot specifies and is necessary to enable him to carry out his duties as the pilot of the ship.
+
+(2) The master of a ship shall bring to the notice of any person who pilots the ship any defects in, and any matter peculiar to, the ship and its machinery and equipment of which the master knows and which might materially affect the navigation of the ship.
+
+(3) Any master of a ship who—
+
+- (a) refuses to comply with a request made to him in pursuance of subsection (1) above; or
+- (b) makes a statement which is false in a material particular in answer to such a request, knowing it to be false or being reckless as to whether it is false, or fails without reasonable excuse to correct such a statement made by another person in answer to such a request, although himself knowing it to be false; or
+- (c) without reasonable excuse contravenes subsection (2) above,shall be guilty of an offence.
+
+(4) Any person who is guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding—
+
+- (a) in the case of an offence under subsection (3)(b) above, level 5 on the standard scale, and
+- (b) in any other case, level 4 on the standard scale.
+
+#### 19. Authorised pilot not to be taken out of his area.
+
+(1) A master of a ship shall not without reasonable excuse take an authorised pilot without his consent beyond the point up to which he has been engaged to pilot the ship.
+
+(2) A person who contravenes subsection (1) above shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+#### 20. Facilities to be given for pilot boarding leaving ship.
+
+(1) Where—
+
+- (a) the master of a ship, which is navigating in an area in circumstances in which pilotage is compulsory for it but is not under the pilotage of an authorised pilot or a deck officer[^key-82172a9cc14d274383720e7fee8347a4] possessing a pilotage exemption certificate in respect of the ship and the area, is offered the services of an authorised pilot; or
+- (b) the master of a ship accepts the services of an authorised pilot in any other circumstances,
+
+he shall facilitate the pilot boarding and subsequently leaving the ship.
+
+(2) If the master of any ship without reasonable excuse contravenes this section he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+### Misconduct by pilots
+
+#### 21. Misconduct by pilot endangering ship or persons on board ship.
+
+(1) If the pilot of a ship—
+
+- (a) does any act which causes or is likely to cause the loss or destruction of, or serious damage to, the ship or its machinery, navigational equipment or safety equipment, or the death of, or serious injury to, a person on board the ship; or
+- (b) omits to do anything required to preserve the ship or its machinery, navigational equipment or safety equipment from loss, destruction or serious damage or to preserve any person on board the ship from death or serious injury,
+
+and the act or omission is deliberate or amounts to a breach or neglect of duty or he is under the influence of drink or a drug at the time of the act or omission, he shall be guilty of an offence.
+
+(2) A person who is guilty of an offence under this section shall be liable—
+
+- (a) on summary conviction, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum or both; or
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine or both.
+
+### Limitation of liability
+
+#### 22. Limitation of liability in respect of pilots.
+
+(1) The liability of an authorised pilot for any loss or damage caused by any act or omission of his whilst acting as such a pilot shall not exceed £1,000 and the amount of the pilotage charges in respect of the voyage during which the liability arose.
+
+(2) For the purposes of subsection (1) above a person shall be deemed to be an authorised pilot notwithstanding that he is acting as a pilot of a ship navigating outside the area in relation to which he is authorised if—
+
+- (a) he is piloting the ship to that area from a place where pilots authorised for that harbour regularly board ships navigating to it; or
+- (b) he is piloting the ship from that harbour to a place where such pilots regularly leave ships navigating from it; and
+- (c) in either case, the ship is one in respect of which he is authorised.
+
+(3) Where, without any such personal act or omission by a competent harbour authority as is mentioned in Article 4 of the Convention in Part I of Schedule 7 to the Merchant Shipping Act 1995[^c789114], any loss or damage to any ship, to any property on board any ship or to any property or rights of any kind is caused by an authorised pilot employed by it, the authority shall not be liable to damages beyond the amount of £1,000 multiplied by the number of authorised pilots employed by it at the date when the loss or damage occurs.
+
+(4) Where, without any such personal act or omission as mentioned in subsection (3) above by a person providing pilotage services on behalf of a competent harbour authority (“the agent”), any such loss or damage as there mentioned is caused by an authorised pilot employed by him, the agent shall not be liable to damages beyond the amount of £1,000 multiplied by the number of authorised pilots employed by him providing pilotage services for that authority at the date when the loss or damage occurs.
+
+(5) The limit of liability under this section shall apply to the whole of any losses and damages which may arise upon any one distinct occasion although such losses and damages may be sustained by more than one person.
+
+(6) Where any proceedings are taken against any person (“the defendant”) for any act or omission in respect of which liability is limited as provided by this section and other claims are or appear likely to be made in respect of the same act or omission, the court in which the proceedings are taken may—
+
+- (a) determine the amount of the liability;
+- (b) upon payment by the defendant of that amount into court, distribute that amount rateably amongst the claimants;
+- (c) stay, or in Scotland sist, any proceedings pending in any other court in relation to the same matter;
+- (d) proceed in such manner and subject to such requirements as the court thinks just—
+  - (i) as to making interested persons parties to the proceedings;
+  - (ii) as to the exclusion of any claimants whose claims are not made within a certain time;
+  - (iii) as to requiring security from the defendant; and
+  - (iv) as to payment of any costs.
+
+(7) Nothing in subsection (3) or (4) above shall affect any liability which may be limited under section 185 or is excluded under section 186 of the Merchant Shipping Act 1995 (liabilities of shipowners).
+
+(8) A competent harbour authority shall not be liable for any loss or damage caused by any act or omission of a pilot authorised by it under section 3 above by virtue only of that authorisation.
+
+(9) In this section “**the court**” means—
+
+- (a) in England and Wales, the High Court;
+- (b) in Scotland, the Court of Session; and
+- (c) in Northern Ireland, the High Court.
+
+### Deep sea pilotage
+
+#### 23. Deep sea pilotage certificates.
+
+(1) The Secretary of State may authorise any body appearing to him to be competent to do so to grant certificates under this section (“deep sea pilotage certificates”) in respect of such part of the sea falling outside the harbour of any competent harbour authority as he may specify.
+
+(2) Any body for the time being authorised under this section may grant a deep sea pilotage certificate to any person on application by him if it is satisfied (by examination or by reference to such criteria as it may reasonably impose) that he is qualified to act as a pilot of a ship for the area in respect of which the body is authorised under subsection (1) above.
+
+## Part III — Winding-up of Existing Pilotage Organisation
+
+### 24. Abolition of pilotage authorities.
+
+(1)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-3e03882e31fa323802aa68790e298c2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) Where an order is made under section 1(3)(b) above in respect of an authority to which any property, rights or liabilities have been transferred under this section, the order shall, if the Secretary of State considers that it is appropriate for it to do so, make provision for the transfer of them to the authority which he considers should exercise pilotage functions within its harbour.
+
+(12)[^key-36ecaaf3dec24a86ab8d18ba789d5b0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Transfer of staff of pilotage authorities etc.
+
+(1) The arrangements to be made under a scheme under section 24 above as respects the staff of pilotage authorities shall apply—
+
+- (a) in the case of an authority which will continue to exist in another capacity on and after the appointed day, to such of the persons employed by it immediately before that day as the authority has determined are not required by it for its functions in that other capacity; and
+- (b) otherwise, to all the persons employed by the authorityimmediately before that day.
+
+(2) Such a scheme shall provide—
+
+- (a) in the case mentioned in subsection (3) of section 24 above, that the staff to whom the scheme applies shall be employed on and after the appointed day by the competent harbour authority there mentioned; and
+- (b) in the case mentioned in subsection (4) of that section, that the staff to whom it applies shall be employed on and after that day by such competent harbour authority as the Pilotage Commission thinks fit or by the Commission.
+
+(3) Such a scheme may make provision for the payment of compensation to staff of pilotage authorities for any loss of employment which is attributable to any provision made by or under this Act but no such scheme shall affect any person’s right to compensation otherwise than under the scheme.
+
+(4) Where such a scheme provides that an employee of a pilotage authority shall be employed by another person on and after the appointed day—
+
+- (a) the contract of employment between the employee and the pilotage authority shall not be terminated by the abolition of that authority but shall have effect from the appointed day as if originally made between him and that other person; and
+- (b) without prejudice to paragraph (a) above—
+  - (i) all the pilotage authority’s rights, powers, duties and liabilities under or in connection with such a contract shall by virtue of this section be transferred on that day to that other person; and
+  - (ii) anything done before that day by or in relation to the authority in respect of that contract or employee shall be deemed on and after that day to have been done by or in relation to that other person.
+
+(5) Subsection (4) above is without prejudice to any right of an employee to terminate his contract of employment if a substantial change is made to his detriment in his working conditions but no such right shall arise by reason only of the change of employer effected by this section.
+
+(6) Where a person formerly employed by a pilotage authority becomes employed by another person by virtue of this section—
+
+- (a) Chapter I of Part XIV of the Employment Rights Act 1996[^c789122] or, in Northern Ireland, Schedule 1 to the [^c789123]Contracts of Employment and Redundancy Payments Act (Northern Ireland) 1965 (computation of period of employment for the purposes of that Act) shall have effect in relation to him as if it included provision—
+  - (i) that the period of employment with the pilotage authority counted as a period of employment with that other person; and
+  - (ii) that the change of employer did not break the continuity of the period of employment; and
+- (b) the period of his employment with the pilotage authority shall count as a period of employment with his new employer for the purposes of any provision of his contract of employment with his new employer which depends on his length of service with him.
+
+(7) Where the Pilotage Commission considers that arrangements under a scheme under section 24 above should also apply to any employee of a person licensed as a pilot under section 12 of the [^c789124]Pilotage Act 1983—
+
+- (a) subsections (2) and (3) above shall apply as if the employee were employed by the pilotage authority for the district for which his employer is licensed;
+- (b) the contract of employment between the employee and the licensed pilot shall have effect from the appointed day as if originally made between the employee and the person by whom the scheme provides that he shall be employed on and after that day; and
+- (c) without prejudice to paragraph (b) above, subsections (4)(b), (5) and (6) above shall apply as they apply to the transfer of an employee of a pilotage authority but with the substitution for the references in subsections (4)(b) and (6) to the pilotage authority of references to the licensed pilot.
+
+(8)[^key-4bce6a0592479b96496969953860d5f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26. Abolition of Pilotage Commission.[^key-ca3f88ace9326e118b050cb56c6ef654]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 27. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c789128]
+
+### 28. Pilots’ compensation schemes.[^key-5716687c38e84d90a54d7628ff7576ab]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. Funding of reorganisation.
+
+(1)[^key-6f245947d1e50a8a67e221a004f351d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-6f245947d1e50a8a67e221a004f351d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-6f245947d1e50a8a67e221a004f351d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-6f245947d1e50a8a67e221a004f351d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) A competent harbour authority may recover any sums required by it by virtue of this Part of this Act by increasing any charges, dues or fees payable to it.
+
+## Part IV — Supplementary
+
+### 30. Orders and regulations.
+
+(1) Any power to make an order or regulations under this Act shall be exercisable by statutory instrument.
+
+(2) Any statutory instrument containing such an order or regulations (except an order made under section 1 to which subsection (8) of that section applies *(Extent: S)* *(affected by repeal, see note)*[^key-45234cfe2f2cd7e9b9b50d7c90b8577c] or an order made under section 33 below) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 31. Interpretation.
+
+(1) In this Act except where the context otherwise requires—
+
+- “**the appointed day**” means the date appointed for the coming into force of Part I of this Act;
+- “**authorised pilot**”, in relation to any area, means a person authorised under section 3 above for that area and, in relation to any ship, a person so authorised in respect of ships of that description;
+- “**competent harbour authority**” has the meaning given in section 1 above;
+
+  “[^key-452ba5beaa73194a242f839958b45d2b] **deck officer** ”, in relation to a ship, includes the master and first mate;
+- “**former pilotage district**” has the meaning given in section 1(2) above;
+- “**harbour**”, in relation to a competent harbour authority, has the meaning given in section 1 above;
+- “**harbour authority**” has the same meaning as in the [^c789132]Harbours Act 1964 (“the 1964 Act”) or, in Northern Ireland, the Harbours Act (Northern Ireland) 1970 (“the 1970 Act”);
+- “**harbour operations**” has the same meaning as in the 1964 Act or, in Northern Ireland, the 1970 Act;
+- “**master**” has the same meaning as in the Merchant Shipping Act 1995[^c789133];
+- “**pilot**” means any person not belonging to a ship who has the conduct thereof[^c789134] and “**pilotage**” shall be construed accordingly;
+- “**pilot boat**” has the meaning given in section 6 above;
+- “**pilotage direction**” has the meaning given in section 7(1) above;
+- “**pilotage exemption certificate**” means a certificate granted under section 8 above;
+- “**ship**” has the same meaning as in the 1964 Act or, in Northern Ireland, the 1970 Act and includes both British and foreign ships;
+- “**statutory powers**” and “**statutory duties**” have the same meanings as in the 1964 Act or, in Northern Ireland, mean powers or, as the case may be, duties which are statutory functions within the meaning of the 1970 Act.
+
+(2) In this Act references to a ship navigating or being navigated include references to its moving or being moved within a harbour for the purpose of changing from one mooring to another or of being taken into or out of any dock.
+
+### 32. Transitional and consequential provisions and repeals.[^c1596987]
+
+(1) The Secretary of State may by regulations make such transitional, consequential or incidental provision (including provisionrepealing or amending any local enactment) as he considers necessary or expedient for the purpose of giving effect to or in consequence of any provision of this Act.
+
+(2) In subsection (1) above “**local enactment**” includes an Act confirming a provisional Order, an instrument made under a local enactment and an instrument in the nature of a local enactment made under any other Act.
+
+(3) Schedule 1 to this Act shall have effect for the purpose of making transitional provision.
+
+(4) The enactments mentioned in Schedule 2 to this Act shall have effect with the amendments specified in that Schedule (which are consequential on the provisions of this Act).
+
+(5) The enactments and instrument specified in Schedule 3 to this Act are hereby repealed or, as the case may be, revoked to the extent specified in the third column of that Schedule.
+
+### 33. Short title, commencement and extent.
+
+(1) This Act may be cited as the Pilotage Act 1987.
+
+(2)[^c789140] Subject to subsection (3) below, the provisions of this Act [^c789141]. . .shall come into force on such day as the Secretary of State may by order appoint and different days may be appointed for different provisions or for different purposes.
+
+(3) The day appointed under subsection (2) above for the coming into force of Part 1 of this Act shall be not less than nine months after the passing of this Act.
+
+(4) This Act extends to Northern Ireland.
+
+SCHEDULES
+
+## SCHEDULE A1 — RECOGNITION OF EEA QUALIFICATIONS AND EXPERIENCE IN RELATION TO PILOTAGE IN INLAND WATERS[^key-846ed46647b493ee6c2800037c55996b]
+
+Section 3(1A) and (2A)
+
+### 1. Scope of Schedule and interpretation
+
+(1) This Schedule applies where a competent harbour authority receives an application for authorisation, or has authorised a person, under section 3(1) of this Act to act as a pilot—
+
+- (a) in inland waters only; or
+- (b) in inland waters and other waters.
+
+(2) In this Schedule—
+
+- “adaptation period” means a period during which the applicant acts as a pilot under the supervision of a pilot authorised by the competent harbour authority, with or without undertaking further education and training, with the aim of assessing his ability to act as a pilot in the United Kingdom;
+- “aptitude test” means a test of the applicant’s professional knowledge conducted by the competent harbour authority with the aim of assessing his ability to act as a pilot in the United Kingdom; and
+- “EEA State” has the meaning given by Schedule 1 to the Interpretation Act 1978[^key-af71422411607fa28951d82f76f387ba]
+
+### 2. Formal qualifications
+
+(1) This paragraph applies where—
+
+- (a) a competent harbour authority requires particular formal qualifications from persons applying for authorisation; and
+- (b) a person applying for authorisation (“the applicant”)—
+  - (i) is a national of an EEA State [^key-e645fc5b777da9041ebd2f13ffa20b3d]...; and
+  - (ii) does not hold the required qualifications, but holds formal qualifications obtained in an EEA State [^key-e645fc5b777da9041ebd2f13ffa20b3d]....
+
+(2) If the applicant’s formal qualifications show a level of knowledge and skill corresponding to or exceeding the level shown by the formal qualifications required by the authority, the authority shall not refuse the applicant authorisation, or refuse to consider the application, on the basis that he does not hold the required formal qualifications.
+
+(3) If the applicant’s formal qualifications show a level of knowledge and skill which is substantially below the level shown by the formal qualifications required by the authority, the authority shall allow the applicant to undergo an adaptation period or an aptitude test to demonstrate that he has acquired the knowledge and skills which were lacking.
+
+(4) The authority shall make provision for an adaptation period and an aptitude test for this purpose and the applicant shall be permitted to choose to undergo either the adaptation period or the aptitude test.
+
+(5) If, by undergoing the adaptation period or the aptitude test, the applicant demonstrates that he has acquired the knowledge and skills which were lacking, the authority shall not refuse the applicant authorisation, or refuse to consider the application, on the basis that he does not hold the required formal qualifications.
+
+(6) Sub-paragraphs (2) to (5) are subject to paragraph 3.
+
+### 3. Person intending to act in a self-employed capacity or as manager of an undertaking
+
+(1) This paragraph applies where—
+
+- (a) a competent harbour authority requires persons applying for authorisation to have knowledge of, and to demonstrate that they apply, specific national rules in force; and
+- (b) a person applying for authorisation (“the applicant”)—
+  - (i) is a national of an EEA State [^key-5b9927ccc6b57b98449e4554b7944b01]...; and
+  - (ii) envisages acting as a pilot in a self-employed capacity or as a manager of an undertaking.
+
+(2) The competent harbour authority shall not refuse the applicant authorisation on the basis that he does not have knowledge of, or has not demonstrated that he applies, the specific national rules in force unless—
+
+- (a) the authority has allowed the applicant to undergo an adaptation period or an aptitude test to satisfy the authority that he has the required knowledge and does apply those rules; and
+- (b) the authority is not so satisfied.
+
+(3) The authority shall make provision for an adaptation period and an aptitude test for this purpose and shall endeavour to take into consideration the applicant’s preference as to which one of those alternatives he undergoes.
+
+### 4. Consideration of application to which paragraph 2 or 3 applies, and appeals[^key-273d346b066cd5115b9de0cf19b53fef]
+
+(1) This paragraph applies where a person (“the applicant”) makes an application to a competent harbour authority for authorisation and paragraph 2 or paragraph 3 applies.
+
+(2) The competent harbour authority shall—
+
+- (a) examine without unreasonable delay the application for authorisation;
+- (b) take its decision on the application within the period of four months beginning with the date on which the application and comprehensive supporting documentation were submitted; and
+- (c) in giving its decision on the application, state the reasons for its decision.
+
+(3) The applicant may appeal to the Secretary of State in respect of—
+
+- (a) a failure by the authority to take a decision on the application; or
+- (b) an act or omission of the authority on the grounds that the act or omission breaches paragraph 2 or 3 of this Schedule.
+
+(4) An appeal to which this paragraph applies shall be made in such manner as the Secretary of State may direct.
+
+### 5. Professional training and experience
+
+(1) This paragraph applies where a competent harbour authority requires general commercial or professional knowledge and ability from persons applying for authorisation.
+
+(2) The authority shall accept, as sufficient evidence of such knowledge and ability, appropriate experience gained in an EEA State [^key-1b0f4a011882b7a5d2ac20fbc1ce29a2]... by a person applying for authorisation (“the applicant”).
+
+(3) For the purposes of this paragraph, “appropriate experience” means any of the following—
+
+- (a) the fact that the applicant has worked in pilotage in either a self employed capacity or as manager of an undertaking, for at least six consecutive years during a period ending not more than ten years before the date on which his application for authorisation is made;
+- (b) where the applicant proves that he has had at least three years' prior training, the fact that he has worked in pilotage in either a self employed capacity or as manager of an undertaking for at least three consecutive years;
+- (c) where the applicant proves that he has worked in pilotage in an employed capacity, for at least five years during a period ending not more than ten years before the date on which his application for authorisation is made, the fact that he has worked in pilotage in a self employed capacity for three consecutive years during the same period;
+- (d) where the applicant proves that he has received at least three years' prior training, the fact that he has worked in pilotage for at least five consecutive years in a managerial capacity, of which at least three years were spent in technical posts with responsibility for one or more departments of the undertaking.
+
+(4) Where an applicant has worked as mentioned in sub-paragraph (3)(b) or (d) and has received at least two years', but less than three years', prior training, he is to be treated as falling within the criteria in that sub-paragraph if the time he has spent working and the time during which he has received prior training, when taken together, equal—
+
+- (a) in relation to sub-paragraph (3)(b), at least six years; and
+- (b) in relation to sub-paragraph (3)(d), at least eight years.
+
+### 6. Proof of professional training and experience
+
+(1) The competent harbour authority shall accept as proof of any of the matters mentioned in paragraph 5(3), other than proof of the prior training mentioned in paragraph 5(3)(b) and (d), a certificate concerning the nature and duration of the activity in question and issued by—
+
+- (a) a competent harbour authority; or
+- (b) the competent authority of the EEA State from which the applicant comes.
+
+(2) For the purpose of proof of the prior training mentioned in paragraph 5(3)(b) and (d), that training must be either—
+
+- (a) attested to by a certificate which is nationally recognised in the EEA State in which it was obtained (“a training certificate”); or
+- (b) regarded by a competent professional or trade body of an EEA State [^key-32353dc12dc3f08a6fecb891987c201a]... as fully satisfying that body’s requirements.
+
+(3) Where the applicant holds a certificate which—
+
+- (a) is nationally recognised in the EEA State in which it was obtained; and
+- (b) attests to knowledge and ability equivalent to at least three years of professional training in pilotage,
+
+that certificate may be treated by the competent harbour authority in the same way as a training certificate.
+
+(4) For the purposes of paragraphs (a) and (b) of paragraph 5(3), a person shall be regarded as having worked in pilotage as manager of an undertaking if he has so worked—
+
+- (a) as a manager of an undertaking or a manager of a branch of an undertaking;
+- (b) as a deputy to the proprietor or the manager of an undertaking where that post involves responsibility equivalent to that of the proprietor or manager represented; or
+- (c) in a managerial post with duties of a commercial or technical nature and with responsibility for one or more departments of the undertaking.
+
+### 7. Proof of other matters
+
+(1) This paragraph applies where—
+
+- (a) a competent harbour authority requires persons who apply for authorisation to furnish proof of their good character or proof that they are not and have not previously been declared bankrupt; and
+- (b) a person applying for authorisation (“the applicant”) is a national of an EEA State [^key-602301858c331313e854bc7be9cf1f27]....
+
+(2) The competent harbour authority shall accept, as sufficient evidence that such a requirement is satisfied by the applicant—
+
+- (a) an extract from the judicial record of the EEA State of which the applicant is a national or from which he comes, showing that the requirement is satisfied; or
+- (b) failing this, an equivalent document issued by a competent judicial or administrative authority in the EEA State of which he is a national or from which he comes, showing that there requirement is satisfied,
+
+which in either case complies with sub-paragraph (3).
+
+(3) The extract or equivalent document must have been issued within the period of three months ending with the date on which it is produced to the competent harbour authority.
+
+**8.** (1) This paragraph applies where—
+
+- (a) a competent harbour authority imposes requirements as to the good character of persons who apply for authorisation and requires such persons to prove that they are not and have not previously been declared bankrupt and have not previously been the subject of professional or administrative disciplinary measures; and
+- (b) a person applying for authorisation (“the applicant”) is a national of an EEA State [^M_F_357bd78f-0027-440d-fd09-da8785f4fc39]....
+
+(2) If proof of such requirements cannot be obtained from a document such as mentioned in paragraph 7, the competent harbour authority shall accept, as sufficient evidence that such a requirement is satisfied by the applicant, a certificate which—
+
+- (a) is issued by a competent judicial or administrative authority in the EEA State of which the applicant is a national or from which he comes, attesting that the requirement is satisfied;
+- (b) relates to the specific facts regarded by the authority as relevant; and
+- (c) complies with sub-paragraph (3).
+
+(3) The certificate must have been issued within the period of three months ending with the date on which it is produced to the competent harbour authority.
+
+**9.** (1) This paragraph applies in a case to which either paragraph 7 or 8 applies, where the EEA State of which the applicant is a national or from which he comes does not issue the document in question mentioned in the relevant paragraph.
+
+(2) Subject to sub-paragraph (3), the competent harbour authority shall accept, as sufficient evidence of the satisfaction of a requirement mentioned in paragraph 7(1)(a) or 8(1)(a), a declaration that the relevant requirement is satisfied, which—
+
+- (a) is made by the applicant before a competent judicial or administrative authority, or a notary in the relevant EEA State; and
+- (b) complies with sub-paragraph (4).
+
+(3) The competent harbour authority shall also accept, as sufficient evidence of the satisfaction of a requirement in paragraph 7 or 8 to prove no previous bankruptcy, a declaration of no previous bankruptcy, which,—
+
+- (a) is made by the applicant before a competent professional or trade body in the relevant EEA State; and
+- (b) complies with sub-paragraph (5).
+
+(4) The declaration mentioned in sub-paragraph (2) must—
+
+- (a) be a declaration on oath or, in an EEA State where there is no provision for declaration on oath, be a solemn declaration;
+- (b) have been made within the period of three months ending with the date on which it is produced to the competent harbour authority; and
+- (c) be accompanied by a certificate issued by the relevant authority or notary and attesting to the authenticity of the declaration.
+
+(5) The declaration mentioned in sub-paragraph (3) must—
+
+- (a) be a declaration on oath or, in an EEA State where there is no provision for declaration on oath, be a solemn declaration; and
+- (b) have been made within the period of three months ending with the date on which it is produced to the competent harbour authority.
+
+**10.** (1) This paragraph applies where a competent harbour authority requires persons applying for authorisation or authorised persons to provide proof of financial standing.
+
+(2) The authority shall regard certificates issued by banks in an EEA State of which such a person is a national or from which such a person comes, as equivalent to those issued by banks in the United Kingdom.
+
+**11.** (1) This paragraph applies where a competent harbour authority requires persons applying for authorisation or authorised persons to provide proof that they are insured against the financial risks arising from their professional liability.
+
+(2) The authority shall accept, as equivalent to a certificate issued by an insurance undertaking of the United Kingdom, a certificate which is issued—
+
+- (a) by an insurance undertaking of an EEA State [^M_F_7c5ad473-8fdd-4259-a7e8-dc18fc70e508]...; and
+- (b) within the period of three months ending with the date on which it is produced to the competent harbour authority.
+
+## SCHEDULE 1 — Transitional and Saving Provisions
+
+**1.** For the purposes of any provision of this Act which comes into force before Part I of this Act and of the exercise of any powers conferred by this Act before that Part comes into force by virtue of section 13 of the [^c789142]Interpretation Act 1978 (anticipatory exercise of powers), a harbour authority shall be taken to be a competent harbour authority at any time if it would be such an authority if that Part and any order made under section 1(3) or (4) of this Act by virtue of the said section 13 had come into force immediately before that time and the area which shall be taken to be its harbour shall be determined accordingly.
+
+**2.** (1) Where any dispute arises before the appointed day between a competent harbour authority and any person who wishes to be authorised under section 3 of this Act by the authority on or after that day as to what the terms of any provision in any contract of employment which is to be entered into between them should be and that dispute cannot be resolved by negotiation between them, the authority or any person or organisation which represents the majority of the holders of licences under section 12 of the [^c789143]Pilotage Act 1983 for a pilotage district in which the authority’s harbour falls may refer the dispute to an arbitration panel appointed in accordance with section 5(2) of this Act, and the panel shall determine what the terms of that provision should be and the kinds of contracts of employment between the authority and authorised pilots to which their determination is to apply (“material contracts”).
+
+(2) Subsections (3), (4), (5) (7) and (8) of section 5 of this Act shall apply for the purposes of this paragraph as if references in those subsections to subsection (1) of that section included references to sub-paragraph (1) above and references in subsection (4) to relevant contracts included references to material contracts.
+
+(3) If regulations under subsection (7) of that section as it applies by virtue of sub-paragraph (2) above provide that the expenses of referrals and determinations under this paragraph are to be borne by the Pilotage Commission, section 3 of the Pilotage Act 1983 shall apply as if those expenses were expenses of the Commission in performing its functions.
+
+(4) Where any such dispute as mentioned in subsection (1) of section 5 to this Act arises on or after the appointed day but before the competent harbour authority in question has authorised any persons under section 3 of this Act, for the reference in that subsection to the majority of the authorised pilots for its harbour there shall be substituted a reference to any person or organisation which represents the majority of the holders of licences under section 12 of the Pilotage Act 1983 for a former pilotage district in which the authority’s harbour falls.
+
+**3.** Where a competent harbour authority which proposes on or after the appointed day to direct that pilotage shall be compulsory for ships navigating in an area outside its harbour applies before that day for the making of the harbour revision order which will be required by virtue of section 7(5) of this Act and that area is an area in which pilotage is compulsory by virtue of an order under section 9(1)(i) of the Pilotage Act 1983—
+
+- (a) before making the order the Secretary of State shall consult such persons as appear to him to be affected by it and, after considering any objections made by them, he may refuse to make the order, make the order in the form of the draft submitted to him or, if he considers that it should be modified, make the order in that form but with such modifications as he considers appropriate after consulting those persons again as to the modifications;
+- (b) paragraphs 3, 4 and 5(c) of Schedule 3 to the [^c789144]Harbours Act 1964 (publication of notices concerning proposed harbour revision orders and provisions as to objections to them) shall not apply and the references in paragraph 4A(2) of that Schedule to an objection or a comment being duly made shall be taken to be references to the objection or comment being made in writing and stating the grounds on which it is made;
+- (c) after the making of the order the direction shall apply to the area within the authority’s limits of jurisdiction as extended by the order, notwithstanding that the order is not yet in force.
+
+**4.** (1) Any pilots’ benefit fund established under paragraph (i) of section 15(1) of the [^c789145]Pilotage Act 1983 shall continue in existence notwithstanding the repeal of that section by this Act and the Secretary of State may by order make such provision as he considers appropriate as to—
+
+- (a) the operation after the repeal of that section of the byelaws under which any such fund was established;
+- (b) the appointment of the managers of any such fund and any powers to be exercisable as respects the management of the fund by the persons who are to appoint those managers; and
+- (c) the powers of any such managers to amend or revoke thebyelaws or any other provision governing the fund.
+
+(2) Before making an order under sub-paragraph (1) above in respect of any fund the Secretary of State shall consult such persons or organisations as appear to him to be representative of competent harbour authorities and such persons or organisations as appear to him to be representative of the persons who may benefit from the fund.
+
+**5.** (1) Any pilotage certificate which immediately before the appointed day is in force under section 20 of the Pilotage Act 1983 shall continue in force during the period for which it was granted as if it had been granted under section 8 of this Act by the authority or authorities which are the competent harbour authorities as respects the area in relation to which the certificate was granted and section 8 of this Act shall apply accordingly.
+
+(2) Where an application is made under section 8(5) of this Act by virtue of sub-paragraph (1) above to the competent harbour authority or one of the competent harbour authorities by which a certificate is deemed under that sub-paragraph to have been granted, the authority in question shall, if it renews the certificate under that section, issue the applicant with a copy of the certificate as it has effect by virtue of the application.
+
+**6.** (1) The Secretary of State shall, on application by any body which immediately before the appointed day was authorised under the Pilotage Act 1983 to grant deep sea pilotage certificates, authorise the body under section 23 of this Act to grant certificates under that section.
+
+(2) Any deep sea pilotage certificate granted to any person by virtue of section 9(1)(j) of the Pilotage Act 1983 which is in force immediately before the appointed day in respect of any area shall continue in force during the period for which it was granted and may on application by him be renewed by any body authorised under section 23 of this Act in respect of the whole or part of that area on the same terms and conditions as if it had been granted by that body under section 23.
+
+## SCHEDULE 2 — Consequential Amendments
+
+**1.** (1) In the definition of “**pilot boat**” in subsection (4) of section 4 of the [^c789146]Pensions (Navy, Army, Air Force and Mercantile Marine) Act 1939 for the words “section 45 of the Pilotage Act 1983” there shall be substituted the words “section 6 of the Pilotage Act 1987”.
+
+(2) Sub-paragraph(1) above shall not affect the operation of any scheme made under that section before this paragraph comes into force.
+
+**2.** The enactments and instruments with respect to which provision may be made by an Order in Council under section 1(1)(h) of the [^c789147]Hovercraft Act 1968 shall include this Act and any instrument made under it.
+
+**3.** In the [^c789148]Offshore Petroleum Development (Scotland) Act 1975—
+
+- (a) in section 6(2) the words “**and, where appropriate, any pilotage authority**” shall be omitted; and
+- (b) for paragraph (c) of section 18 there shall be substituted—
+
+  > - (c) the Pilotage Act 1987.
+
+**4.** At the end of section 35(3)(b)(ii) of the [^c789149]Finance Act 1980 there shall be inserted the words “or authorised by a competent harbour authority”.
+
+**5.**[^c789151] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — Repeals and Revocations[^c789152]
+
+Section 32(5).
+
+| Chapter or number | Short title | Extent of repeal or revocation |
+| --- | --- | --- |
+| 1975 c. 8. | The Offshore Petroleum Development (Scotland) Act 1975. | In section 6(2), the words “and, where appropriate, any pilotage authority”. |
+| 1975 c. 24. | The House of Commons Disqualification Act 1975. | In Part II of Schedule 1, the entry relating to the Pilotage Commission. |
+| 1975 c. 25. | The Northern Ireland Assembly Disqualification Act 1975. | In Part II of Schedule 1, the entry relating to the Pilotage Commission. |
+| 1979 c. 39. | The Merchant Shipping Act 1979. | In section 50(2), the definition of “the Commission” and in the definition of “the Merchant Shipping Acts” the words “and the Pilotage Act 1983”. |
+|  |  | Schedule 1. |
+| 1979 c. 55. | The Justices of the Peace Act 1979. | Section 33(3)(b). |
+| 1980 c. 43. | The Magistrates’ Courts Act 1980. | In Part III of Schedule 6, paragraph 4. |
+| 1981 c. 69. | The Wildlife and Countryside Act 1981. | In section 36(7), in the definition of “relevant authority”, the words “a pilotage authority”. |
+| 1983 c.21. | The Pilotage Act 1983. | The whole Act. |
+| S.I. 1985/170 (N.I. 1). | The Nature Conservation and Amenity Lands (Northern Ireland) Order 1985. | Article 20(6)(f). |
+
+## Annotations
+
+[^key-ece3575072fa431c6528177aad7e9dd4]: Modification: Act applied (30.11.2020) by [The Harwich Haven and Walton Backwaters (Application of the Pilotage Act 1987) Order 2020 (S.I. 2020/1187)](https://www.legislation.gov.uk/uksi/2020/1187), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1187/article/1), [2](https://www.legislation.gov.uk/uksi/2020/1187/article/2)
+
+[^key-77ec21568ee68ea01f179675394ebd16]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1987/21/section/1): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(f)(i)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/f/i), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
+
+[^c789071]: Marginal citation: [1983 c. 21](https://www.legislation.gov.uk/ukpga/1983/21).
+
+[^key-5b1af4a03e27b454ef4c77f50f843437]: Textual amendment: S. 1(4A)(4B) inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 1(1),](https://www.legislation.gov.uk/ukpga/2013/23/section/1/1) [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+
+[^key-34d6418e01e4f740564654bc6a02bfed]: Textual amendment: S. 1(5) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 1(2),](https://www.legislation.gov.uk/ukpga/2013/23/section/1/2) [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+
+[^key-5d5cecc12d6edcb2e0221916af868ed8]: Textual amendment: S. 1(7)(8) repealed (S.) (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8),](https://www.legislation.gov.uk/asp/2007/8) [s. 30(4),](https://www.legislation.gov.uk/asp/2007/8/section/30/4) [sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+
+[^key-eabb16887a770931377700e915d3c1f9]: Textual amendment: Words in s. 1(7) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 1(3),](https://www.legislation.gov.uk/ukpga/2013/23/section/1/3) [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+
+[^c789072]: Marginal citation: [1945 c. 18](https://www.legislation.gov.uk/ukpga/1945/18).
+
+[^key-0f4f8c21b817ed59756027bb65fff23f]: Textual amendment: S. 1(8AA)(8B) inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 1(4),](https://www.legislation.gov.uk/ukpga/2013/23/section/1/4) [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+
+[^c789073]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
+
+[^c789074]: Marginal citation: [1970 c.1 (N.I.)](https://www.legislation.gov.uk/apni/1970/1).
+
+[^key-fffa50fa72a69ebe5510eb0211f0f2f2]: Textual amendment: S. 1A inserted (S.) (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [ss. 26](https://www.legislation.gov.uk/asp/2007/8/section/26), [30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+
+[^key-600bf090e3c8586c767b1ff0f4341f14]: Textual amendment: Words in s. 1A(1) inserted (1.10.2013) by virtue of [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2013/23/section/1/5), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+
+[^key-c6e4f71edf292bc08da22651aba47560]: Textual amendment: Word in s. 3(1) substituted (30.5.2003) by [The Pilotage (Recognition of Qualifications and Experience) Regulations 2003 (S.I. 2003/1230)](https://www.legislation.gov.uk/uksi/2003/1230), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1230/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/1230/regulation/2/2)
+
+[^key-8d5cc9bc39c0f5ecd9ae05b83ff4e896]: Textual amendment: S. 3(1A) inserted (30.5.2003) by [The Pilotage (Recognition of Qualifications and Experience) Regulations 2003 (S.I. 2003/1230)](https://www.legislation.gov.uk/uksi/2003/1230), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1230/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/1230/regulation/2/3)
+
+[^key-d38265854a7e11bbadd04d9bbfa911d5]: Textual amendment: Words in s. 3(1A) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/a)
+
+[^key-105431893c331c9b465cb4aeace0f930]: Textual amendment: Word in s. 3(2) omitted (1.10.2006) by virtue of [Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/1/1)[Sch. 8 para. 7(2)](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/7/2) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))
+
+[^c789085]: Marginal citation: [1983 c. 21](https://www.legislation.gov.uk/ukpga/1983/21).
+
+[^key-9cf34513aa8c1a0d06b26bef2a2e7fdf]: Textual amendment: S. 3(2A) inserted (30.5.2003) by [The Pilotage (Recognition of Qualifications and Experience) Regulations 2003 (S.I. 2003/1230)](https://www.legislation.gov.uk/uksi/2003/1230), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1230/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2003/1230/regulation/2/4)
+
+[^key-b17cb31369eb455cbab630ff94dd80e9]: Textual amendment: Words in s. 3(2A) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/a)
+
+[^c789086]: Textual amendment: S. 3(9A) inserted (E.) (11.7.2001) by [The Local Authorities (Executive and Alternative Arrangements) (Modification of Enactments and Other Provisions) (England) Order 2001 (S.I. 2001/2237)](https://www.legislation.gov.uk/uksi/2001/2237), [arts. 2(i)](https://www.legislation.gov.uk/uksi/2001/2237/article/2/i), [17(a)](https://www.legislation.gov.uk/uksi/2001/2237/article/17/a)
+
+[^c1595215]: Textual amendment: S. 3(9A) inserted (W.) (1.4.2002) by [The Local Authorities (Executive and Alternative Arrangements) (Modification of Enactments and Other Provisions) (Wales) Order 2002 (S.I. 2002/808)](https://www.legislation.gov.uk/uksi/2002/808), [arts. 2(h)](https://www.legislation.gov.uk/uksi/2002/808/article/2/h), [16(a)](https://www.legislation.gov.uk/uksi/2002/808/article/16/a)
+
+[^key-ed81c454554f8c185ffe411087fbf3b6]: Textual amendment: Words in [s. 3(9A)(a)](https://www.legislation.gov.uk/ukpga/1987/21/section/3/9A/a) inserted (W.) (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 6 para. 3(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/6/paragraph/3/a); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(t)](https://www.legislation.gov.uk/wsi/2021/231/article/6/t) (as substituted by [S.I. 2021/1249](https://www.legislation.gov.uk/uksi/2021/1249), [art. 3(2)](https://www.legislation.gov.uk/uksi/2021/1249/article/3/2))
+
+[^key-b1df3c3e3c36563723d4b0dc8a2943e5]: Textual amendment: Words in [s. 3(10)](https://www.legislation.gov.uk/ukpga/1987/21/section/3/10) inserted (W.) (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 6 para. 3(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/6/paragraph/3/b); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(t)](https://www.legislation.gov.uk/wsi/2021/231/article/6/t) (as substituted by [S.I. 2021/1249](https://www.legislation.gov.uk/uksi/2021/1249), [art. 3(2)](https://www.legislation.gov.uk/uksi/2021/1249/article/3/2))
+
+[^c1595220]: Textual amendment: Definitions of "executive" and "executive arrangements" in s. 3(10) inserted (E.) (11.7.2001) by [The Local Authorities (Executive and Alternative Arrangements) (Modification of Enactments and Other Provisions) (England) Order 2001 (S.I. 2001/2237)](https://www.legislation.gov.uk/uksi/2001/2237), [arts. 2(i)](https://www.legislation.gov.uk/uksi/2001/2237/article/2/i), [17(b)](https://www.legislation.gov.uk/uksi/2001/2237/article/17/b) and (W.) (1.4.2002) by [The Local Authorities (Executive and Alternative Arrangements) (Modification of Enactments and Other Provisions) (Wales) Order 2002 (S.I. 2002/808)](https://www.legislation.gov.uk/uksi/2002/808), [arts. 2(h)](https://www.legislation.gov.uk/uksi/2002/808/article/2/h), [16(b)](https://www.legislation.gov.uk/uksi/2002/808/article/16/b)
+
+[^c789088]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^c789089]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
+
+[^c789090]: Marginal citation: [1983 c. 21](https://www.legislation.gov.uk/ukpga/1983/21).
+
+[^c789091]: Marginal citation: [1983 c. 21](https://www.legislation.gov.uk/ukpga/1983/21).
+
+[^c789094]: Textual amendment: S. 5(1) to (7) ceased to have effect (1.10.1991) by virtue of [S.I. 1991/1959](https://www.legislation.gov.uk/uksi/1991/1959), [arts.2](https://www.legislation.gov.uk/uksi/1991/1959/article/2), [3](https://www.legislation.gov.uk/uksi/1991/1959/article/3).
+
+[^c789101]: Subordinate legislation: S. 5(8) power fully exercised: 1.10.1991 appointed by [S.I. 1991/1959](https://www.legislation.gov.uk/uksi/1991/1959)
+
+[^c789102]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
+
+[^c789103]: Marginal citation: [1970 c. 1 (N.I.)](https://www.legislation.gov.uk/apni/1970/1).
+
+[^key-f2ea0d072361cf8f37fd7595ab754fd5]: Textual amendment: Words in s. 8(1) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/1/a), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), art. 3
+
+[^key-307cc63710a2ab8cb0f02677d0460c7b]: Textual amendment: Words in s. 8(1)(a) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/1/b), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+
+[^key-5f35537672ab637ce8d077627fe847c2]: Modification: [S. 8(3)](https://www.legislation.gov.uk/ukpga/1987/21/section/8/3): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(f)(ii)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/f/ii), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
+
+[^key-d0f9811c65a7d1093b097f244ffdcade]: Textual amendment: Words in s. 8(5)(a) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/2), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+
+[^key-ee9dd6ae84e95ca0ac74a5a09cbeb852]: Textual amendment: S. 8(6) omitted (1.10.2013) by virtue of [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2013/23/section/3/2/a), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+
+[^key-5fb1c821b88d30aef5407bc7d67b9c05]: Textual amendment: Words in s. 8(7) omitted (1.10.2013) by virtue of [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2013/23/section/3/2/b), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+
+[^key-c451a6426244d642ab29597b279b1e61]: Textual amendment: Ss. 8A, 8B inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [Ss. 3(1)](https://www.legislation.gov.uk/ukpga/2013/23/section/3/1), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+
+[^key-cd61458791e2b7d1feb9067c94bd16c6]: Textual amendment: Words in s. 10(3) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/3), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+
+[^key-110b14a839af874f791e1d9cdde8bc5c]: Modification: [S. 10(6)](https://www.legislation.gov.uk/ukpga/1987/21/section/10/6): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(f)(iii)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/f/iii), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
+
+[^c789104]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
+
+[^c789105]: Marginal citation: [1970 c. 1 (N.I.)](https://www.legislation.gov.uk/apni/1970/1)
+
+[^key-a94ec69876b72c5d9b564bcdfa9ca59c]: Modification: [S. 12](https://www.legislation.gov.uk/ukpga/1987/21/section/12): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(f)(iv)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/f/iv), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
+
+[^c789106]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
+
+[^c789107]: Marginal citation: [1865 c.125](https://www.legislation.gov.uk/ukpga/1865/125).
+
+[^key-7af55d960b163b96942abbeb19b16fd0]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/1987/21/section/13): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(f)(v)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/f/v), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
+
+[^c789108]: Marginal citation: [1964 c.40](https://www.legislation.gov.uk/ukpga/1964/40).
+
+[^c789109]: Marginal citation: [1970 c. 1 (N.I.)](https://www.legislation.gov.uk/apni/1970/1).
+
+[^key-954839648006ab78e1a5312d57bc747c]: Textual amendment: Words in s. 15(1)(b) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/3), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+
+[^key-7d724c12d4af9b99834d2aebe0899b91]: Textual amendment: S. 15(3)-(5) substituted for s. 15(3) (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 4](https://www.legislation.gov.uk/ukpga/2013/23/section/4), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+
+[^c789110]: Marginal citation: [1865 c. 125](https://www.legislation.gov.uk/ukpga/1865/125).
+
+[^c789111]: Marginal citation: [1983 c. 21](https://www.legislation.gov.uk/ukpga/1983/21).
+
+[^key-82172a9cc14d274383720e7fee8347a4]: Textual amendment: Words in s. 20(1)(a) substituted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/3), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+
+[^c789114]: Textual amendment: Words in s. 22(3)(7) substituted (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/2), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 13 para. 80(a)](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/80/a) (with [s. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1))
+
+[^key-3e03882e31fa323802aa68790e298c2a]: Textual amendment: S. 24(1)-(10) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 17
+
+[^key-36ecaaf3dec24a86ab8d18ba789d5b0c]: Textual amendment: S. 24(12) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 17
+
+[^c789122]: Textual amendment: Words in s. 25(6)(a) substituted (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 240](https://www.legislation.gov.uk/ukpga/1996/18/section/240), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/32) (with [s. 199](https://www.legislation.gov.uk/ukpga/1996/18/section/199))
+
+[^c789123]: Marginal citation: [1965 c. 19 (N.I.)](https://www.legislation.gov.uk/apni/1965/19).
+
+[^c789124]: Marginal citation: [1983 c. 21](https://www.legislation.gov.uk/ukpga/1983/21).
+
+[^key-4bce6a0592479b96496969953860d5f0]: Textual amendment: S. 25(8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 17
+
+[^key-ca3f88ace9326e118b050cb56c6ef654]: Textual amendment: S. 26 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 17
+
+[^c789128]: Textual amendment: S. 27 repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. XV](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XV) Group1.
+
+[^key-5716687c38e84d90a54d7628ff7576ab]: Textual amendment: S. 28 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 17
+
+[^key-6f245947d1e50a8a67e221a004f351d3]: Textual amendment: S. 29(1)-(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 17
+
+[^key-45234cfe2f2cd7e9b9b50d7c90b8577c]: Textual amendment: Words in s. 30(2) repealed (S.) (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [Sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+
+[^key-452ba5beaa73194a242f839958b45d2b]: Textual amendment: Words in s. 31(1) inserted (1.10.2013) by [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2013/23/section/2/4), [13](https://www.legislation.gov.uk/ukpga/2013/23/section/13); [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2); [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+
+[^c789132]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
+
+[^c789133]: Textual amendment: Words in definition of “master” in s. 31(1) substituted (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/2), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 13 para. 80(b)(i)](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/80/b/i) (with [s. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1))
+
+[^c789134]: Textual amendment: Words in definition of “pilot” in s. 31(1) substituted (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/2), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 13 para. 80(b)(ii)](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/80/b/ii) (with [s. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1))
+
+[^c1596987]: Commencement: S. 32 wholly in force at 30.4.1991; s. 32 not in force at Royal Assent see s. 33(2); s. 32 partly in force at 1.9.1987 by [S.I. 1987/1306](https://www.legislation.gov.uk/uksi/1987/1306); s. 32 partly in force at 1.2.1988 by [S.I. 1987/2138](https://www.legislation.gov.uk/uksi/1987/2138); s. 32 partly in force at 1.10.1988 by [S.I. 1988/1137](https://www.legislation.gov.uk/uksi/1988/1137); s. 32 wholly in force at 30.4.1991 by [S.I. 1991/1029](https://www.legislation.gov.uk/uksi/1991/1029)
+
+[^c789140]: Subordinate legislation: S. 33(2) power of appointment exercised by S.Is. 1987/1306, 2138, 1988/1137, 1991/1029
+
+[^c789141]: Textual amendment: Words in s. 33(2) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. XV](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XV) Group1.
+
+[^key-846ed46647b493ee6c2800037c55996b]: Textual amendment: Sch. A1 inserted (30.5.2003) by [The Pilotage (Recognition of Qualifications and Experience) Regulations 2003 (S.I. 2003/1230)](https://www.legislation.gov.uk/uksi/2003/1230), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1230/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2003/1230/regulation/2/5)
+
+[^key-af71422411607fa28951d82f76f387ba]: Textual amendment: Words in Sch. A1 para. 1(2) substituted (29.11.2019) by [The Pilotage Act 1987 (Amendment) Regulations 2019 (S.I. 2019/1305)](https://www.legislation.gov.uk/uksi/2019/1305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1305/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1305/regulation/2)
+
+[^key-e645fc5b777da9041ebd2f13ffa20b3d]: Textual amendment: Words in Sch. A1 para. 2(1)(b) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/b/i)
+
+[^key-5b9927ccc6b57b98449e4554b7944b01]: Textual amendment: Words in Sch. A1 para. 3(1)(b)(i) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/b/i)
+
+[^key-273d346b066cd5115b9de0cf19b53fef]: Modification: Sch. A1 para. 4: transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(f)(vi)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/f/vi), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), reg. 2, Sch.)
+
+[^key-1b0f4a011882b7a5d2ac20fbc1ce29a2]: Textual amendment: Words in Sch. A1 para. 5(2) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/b/i)
+
+[^key-32353dc12dc3f08a6fecb891987c201a]: Textual amendment: Words in Sch. A1 para. 6(2)(b) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/b/i)
+
+[^key-602301858c331313e854bc7be9cf1f27]: Textual amendment: Words in Sch. A1 para. 7(1)(b) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/b/ii)
+
+[^M_F_357bd78f-0027-440d-fd09-da8785f4fc39]: Textual amendment: Words in Sch. A1 para. 8(1)(b) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/b/ii)
+
+[^M_F_7c5ad473-8fdd-4259-a7e8-dc18fc70e508]: Textual amendment: Words in Sch. A1 para. 11(2)(a) omitted (31.12.2020) by virtue of [The Pilotage and Port Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/671)](https://www.legislation.gov.uk/uksi/2020/671), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/671/regulation/1/1), [2(b)(iii)](https://www.legislation.gov.uk/uksi/2020/671/regulation/2/b/iii)
+
+[^c789142]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^c789143]: Marginal citation: [1983 c. 21](https://www.legislation.gov.uk/ukpga/1983/21).
+
+[^c789144]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
+
+[^c789145]: Marginal citation: [1983 c. 21](https://www.legislation.gov.uk/ukpga/1983/21).
+
+[^c789146]: Marginal citation: [1939 c. 83](https://www.legislation.gov.uk/ukpga/1939/83).
+
+[^c789147]: Marginal citation: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59).
+
+[^c789148]: Marginal citation: [1975 c. 8](https://www.legislation.gov.uk/ukpga/1975/8).
+
+[^c789149]: Marginal citation: [1980 c. 48](https://www.legislation.gov.uk/ukpga/1980/48).
+
+[^c789151]: Textual amendment: Sch. 2 para. 5 repealed (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [s. 51(1)](https://www.legislation.gov.uk/ukpga/1998/17/section/51/1), [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1998/17/schedule/5/part/I); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/161/article/2/1)
+
+[^c789152]: Commencement: Sch. 3 wholly in force at 30.4.1991; Sch. 3 not in force at Royal Assent see s. 33(2); Sch. 3 partly in force at 1.2.1988 by [S.I. 1987/2138](https://www.legislation.gov.uk/uksi/1987/2138); Sch. 3 partly in force at 1.10.1988 by [S.I. 1988/1137](https://www.legislation.gov.uk/uksi/1988/1137); Sch. 3 wholly in force at 30.4.1991 by [S.I. 1991/1029](https://www.legislation.gov.uk/uksi/1991/1029)

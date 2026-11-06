@@ -1,0 +1,107 @@
+---
+title: The Medicines (Exemptions from Licences) (Intermediate Medicated Feeding Stuffs) Order 1989
+id: uksi/1989/2325
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1989-12-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1989/2325
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1989/2325/pdfs/uksi_19892325_en.pdf
+- http://www.legislation.gov.uk/uksi/1989/2325/made/data.pdf
+pending_changes: 4
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Medicines (Exemptions from Licences) (Intermediate Medicated Feeding Stuffs) Order 1989
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1989 No. 2325
+
+MEDICINES
+
+The Medicines (Exemptions from Licences) (Intermediate Medicated Feeding Stuffs) Order 1989
+
+Made
+
+8th December 1989
+
+Laid before Parliament
+
+11th December 1989
+
+Coming into force
+
+1st January 1990
+
+The Secretary of State concerned with health in England, the Secretaries of State respectively concerned with health and with agriculture in Scotland and in Wales, the Minister of Agriculture, Fisheries and Food, the Department of Health and Social Services for Northern Ireland and the Department of Agriculture for Northern Ireland, acting jointly, in exercise of the powers conferred by section 15(1) and (2) of the Medicines Act 1968[^f00001] and now vested in them[^f00002], and of all other powers enabling them in that behalf, after consulting such organisations as appear to them to be representative of interests likely to be substantially affected by the following Order in accordance with section 129(6) of that Act, hereby make the following Order:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Medicines (Exemptions from Licences) (Intermediate Medicated Feeding Stuffs) Order 1989 and shall come into force on 1st January 1990.
+
+(2) In this Order–
+
+- “the Act” means the Medicines Act 1968;
+- “intermediate medicated feeding stuff” means any substance which is manufactured, sold, supplied or imported for use wholly or mainly as an ingredient in the preparation of a substance which is to be fed to one or more animals for a medicinal purpose or for purposes that include that purpose, with or without further processing.
+
+## 2. Exemptions from licences
+
+(1) Subject to the condition specified in paragraph (2) below, the restrictions imposed by section 7 of the Act (general provisions as to dealing with medicinal products) shall not apply to anything done in relation to an intermediate medicated feeding stuff or to an intermediate medicated feeding stuff containing one or more licensed feed additives incorporated in accordance with the conditions of the product licence.
+
+(2) The condition referred to in paragraph (1) above is that any medicinal product incorporated in that substance was so incorporated in accordance with the provisions of a product licence or an animal test certificate.
+
+(3) The restrictions imposed by section 8 of the Act (provisions as to manufacture and wholesale dealing) shall not apply to anything done in relation to an intermediate medicated feeding stuff by a person whose name is entered in Part A of the Register kept by the Royal Pharmaceutical Society of Great Britain or the Department of Agriculture for Northern Ireland under regulation 6(1) of the Medicines (Medicated Animal Feeding Stuffs) Regulations 1989[^f00003].
+
+Kenneth Clarke
+
+Secretary of State for Health
+
+8th December 1989
+
+Sanderson of Bowden
+
+Minister of State, Scottish Office
+
+7th December 1989
+
+Peter Walker
+
+Secretary of State for Wales
+
+8th December 1989
+
+In Witness whereof the Official Seal of the Minister of Agriculture, Fisheries and Food is hereunto affixed on 7th December 1989.
+
+John Gummer
+
+Minister of Agriculture, Fisheries and Food
+
+Sealed with the Official Seal of the Department of Health and Social Services for Northern Ireland this 8th day of December 1989.
+
+J. J. M. Harbison
+
+Under Secretary on behalf of the Permanent Secretary
+
+Sealed with the Official Seal of the Department of Agriculture for Northern Ireland this 8th day of December 1989.
+
+W. J. Hodges
+
+Permanent Secretary
+
+(This note is not part of the Order)
+
+This order confers exemptions from the restrictions imposed by sections 7 and 8 of the Medicines Act 1968 as to dealings in and manufacture of medicinal products except in accordance with a licence under that Act. The exemptions apply in relation to those medicated feeding stuffs which are to be treated as medicinal products by virtue of the Medicines (Intermediate Medicated Feeding Stuffs) Order 1989 and the exemptions are subject to the condition or limitation specified in this Order.
+
+## Annotations
+
+[^f00001]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67); “the appropriate Ministers” referred to in section 15 is defined in section 1 (*see* also the following footnote).
+
+[^f00002]: Footnote: In the case of the Secretaries of State concerned with health in England and in Wales by virtue of S.I. [1969/388](https://www.legislation.gov.uk/uksi/1969/388), in the case of the Secretary of State concerned with agriculture in Wales by virtue of S.I. [1978/272](https://www.legislation.gov.uk/uksi/1978/272) and in the case of the Northern Ireland Departments by virtue of the Northern Ireland Constitution Act [1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), section 40 and Schedule 5, and the Northern Ireland Act [1974 (c. 28)](https://www.legislation.gov.uk/ukpga/1974/28), section 1(3) and Schedule 1, paragraph 2(1)(b).
+
+[^f00003]: Footnote: S.I. [1989/2320](https://www.legislation.gov.uk/uksi/1989/2320).

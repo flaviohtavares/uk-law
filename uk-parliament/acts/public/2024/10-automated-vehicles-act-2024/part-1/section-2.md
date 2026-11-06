@@ -1,0 +1,57 @@
+---
+title: Automated Vehicles Act 2024, section 2
+act: Automated Vehicles Act 2024
+section: '2'
+status: not-yet-in-force
+text_date: '2026-05-15'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2024/10/section/2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Automated Vehicles Act 2024, section 2
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 2. Statement of safety principles[^key-16fd35706b5e99152953ef249ea53c59]
+
+*Extent: E+W+S*
+
+**Not yet in force.**
+
+(1) The Secretary of State must prepare a statement of the principles that the Secretary of State proposes to apply in assessing, for the purposes of this Part, whether a vehicle is capable of travelling autonomously and safely.
+
+(2) The principles must be framed with a view to securing that—
+
+- (a) authorised automated vehicles will achieve a level of safety equivalent to, or higher than, that of careful and competent human drivers, and
+- (b) road safety in Great Britain will be better as a result of the use of authorised automated vehicles on roads than it would otherwise be.
+
+(3) In preparing the statement, the Secretary of State must consult such representative organisations as the Secretary of State thinks fit.
+
+(4) Those organisations must include organisations appearing to the Secretary of State to represent—
+
+- (a) the interests of businesses involved, or likely to be involved, in the manufacture or operation of mechanically propelled road vehicles designed to travel autonomously,
+- (b) the interests of road users, and
+- (c) the cause of road safety.
+
+(5) The prepared statement must be laid before Parliament.
+
+(6) The statement takes effect if both Houses of Parliament resolve that it should.
+
+(7) The Secretary of State may revise or replace the statement that has effect under this section; and subsections (2) to (5) apply to a revision or replacement.
+
+(8) A revision or replacement takes effect at the end of the period of 40 days beginning with the day on which it is laid, unless either House resolves before then that it should not.
+
+(9) For the purposes of subsection (8)—
+
+- (a) where a revision or replacement is laid before each House on different days, the later day is to be taken to be the day on which it was laid before both Houses, and
+- (b) in counting any period of 40 days, no account is to be taken of any time during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
+
+(10) The power in section 3 may not be exercised until a statement has effect under this section.
+
+## Annotations
+
+[^key-16fd35706b5e99152953ef249ea53c59]: Commencement: S. 2 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

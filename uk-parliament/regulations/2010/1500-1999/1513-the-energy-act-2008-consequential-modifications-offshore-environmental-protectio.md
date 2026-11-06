@@ -1,0 +1,389 @@
+---
+title: The Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010
+id: uksi/2010/1513
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-06-01'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/1513
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/1513/pdfs/uksiem_20101513_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1513/pdfs/uksi_20101513_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1513/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 1513
+
+Energy
+
+Environmental Protection
+
+The Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010
+
+Made
+
+1st June 2010
+
+Laid before Parliament
+
+4th June 2010
+
+Coming into force
+
+1st July 2010
+
+The Secretary of State is designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the environment.
+
+Accordingly the Secretary of State, in exercise of the powers conferred by section 2(2) of that Act and by sections 104(2) and 107(2) of the Energy Act 2008[^f00003], makes the following Order:
+
+## General
+
+### 1. Citation, commencement and interpretation[^key-1bf04897f3266271a18026391a3b1e17]
+
+(1) This Order may be cited as the Energy Act 2008 (Consequential Modifications) (Offshore Environmental Protection) Order 2010, and comes into force on 1st July 2010.
+
+(2) In this Order—
+
+- (a) a reference to a numbered section is to that section of the Energy Act 2008; and
+- (b) “**Energy Act licence**” means a licence granted under section 4 or section 18.
+
+## Offshore environmental assessment
+
+### 2. Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999[^key-3a04ae0039c27003f72029d857af4c8f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^key-52d1c98c8e70c9774172208905ed071a]
+
+(1) The Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^f00005] have effect with the modifications in paragraphs (2) to (5), and are amended in accordance with paragraphs (6) and (7).
+
+(2) Those Regulations—
+
+- (a) apply to activities within section 2(3) or section 17(2) as they apply to oil and gas activities; and
+- (b) apply to activities within section 2(3) or section 17(2) carried on wholly or partly in a relevant area as they apply to offshore oil and gas activities.
+
+(3) For the purposes of the Regulations as modified by paragraph (2)—
+
+- (a) a reference in regulation 4(2) to any provision in any Petroleum Act licence is to be read as a reference to any provision in any Energy Act licence; and
+- (b) “relevant function” and “relevant power” include, without limitation, functions or (as the case may be) powers exercisable by the Secretary of State or the Oil and Gas Authority[^key-8d7acd64168c1fd9f3cb1f7d027f7fbc] under the Petroleum Act 1998, Part 1 of the Energy Act 2008, or any Energy Act licence.
+
+(4) Notwithstanding those modifications, regulation 4(1) does not apply to an activity or procedure which must not be carried out in the relevant area without the prior written consent of the Scottish Ministers (or a body to whom functions have been transferred by the Scottish Ministers under section 34).
+
+(5)[^key-080f7729479cda30b7292e1ab75a831c] Regulations 5, 7, and 20A apply to an Energy Act licence that has been or is to be granted by the Oil and Gas Authority as they apply to a Petroleum Act licence, and for the purposes of those regulations and for regulation 8A, “consent” also includes a consent granted by the Secretary of State or the Oil and Gas Authority pursuant to an Energy Act licence, including any consent required pursuant to the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999 or the Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020[^key-5b032a152d673f853c04e5532d33f338].
+
+(6) In regulation 2(1)—
+
+- (a) omit the definition of “UKCS oil and gas activities”; and
+- (b) for the definition of “the Wild Birds Directive” substitute—
+
+  > - “the Wild Birds Directive” means Directive [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds[^f00006].
+
+  .
+
+(7) In regulation 3—
+
+- (a) for “1994 Regulations” substitute “2010 Regulations”; and
+- (b) for paragraph (2), substitute—
+
+  > (2) In this regulation, the “2010 Regulations” means the Conservation of Habitats and Species Regulations 2010[^f00007].
+
+  .
+
+### 4. Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007[^key-7037a0de21ba164443cb41f3d984beee]
+
+(1) In regulation 2(2) of the Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007[^f00008]—
+
+- (a) after the definition of “the EC Treaty”, insert—
+
+  > - “**Energy Act licence**” means a licence which is granted (or is to be granted) under Part 1 of the Energy Act 2008;
+
+  ; and
+- (b) for the definition of “Petroleum Act consent” substitute—
+
+  > - “**Petroleum or Energy Act consent**” means—
+  >   - (a) a consent granted pursuant to a Petroleum Act licence or an Energy Act licence, including any consent required pursuant to the Offshore Petroleum Productions and Pipe-lines (Assessment of Environmental Effects) Regulations 1999; or
+  >   - (b) a consent granted pursuant to regulation 4(1) of the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001;
+
+  .
+
+(2) For regulation 25(6)(c) of those Regulations, substitute—
+
+> - (c) the granting by the Secretary of State of any Petroleum Act approval, Petroleum Act authorisation, Petroleum or Energy Act consent, Petroleum Act licence, or Energy Act licence;
+
+.
+
+(3) For regulation 27(6)(c) of those Regulations, substitute—
+
+> - (c) requires a review by the Secretary of State of a Petroleum Act approval, Petroleum Act authorisation, Petroleum or Energy Act consent, Petroleum Act licence or Energy Act licence;
+
+.
+
+## Other environmental legislation
+
+### 5. Offshore Combustion Installations (Prevention and Control of Pollution) Regulations 2001[^key-3b838bebe620ff26ba57735b48a4bf17]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Offshore Chemicals Regulations 2002[^key-4f8b912a4d593731b51fde52b5c55033]
+
+(1) In regulation 2 of the Offshore Chemicals Regulations 2002[^f00010]—
+
+- (a) for the definition of “offshore activities”, substitute—
+
+  > - “**offshore activities**” means—
+  >   - (a) offshore petroleum activities; or
+  >   - (b) offshore storage or unloading activities;
+
+  ;
+- (b) for the definition of “offshore installation” substitute—
+
+  > - “**offshore installation**” means any structure or other thing (including any floating production storage and off-loading system or floating storage unit, but not including a ship) which—
+  >   - (a) is in the relevant area and is used for the purposes of, or in connection with, offshore petroleum activities; or
+  >   - (b) is in the reserved area and is used for the purposes of, or in connection with, offshore storage or unloading activities;
+
+  ;
+- (c) after the definition of “offshore installation” insert—
+
+  > - “offshore petroleum activities”—
+  >   - (a) means any activities in respect of which the Secretary of State exercises functions under the Petroleum Act 1998[^f00011], being activities carried out in the relevant area; but
+  >   - (b) does not include activities (“decommissioning activities”) carried out in connection with the abandonment of an offshore installation that, at the time of that abandonment, had last been used for the purposes of or in connection with offshore storage or unloading activities, unless those decommissioning activities are carried out in the reserved area;
+  > - “**offshore storage or unloading activities**” means any activities in respect of which the Secretary of State exercises functions under Part 1 of the Energy Act 2008, being activities carried out in the reserved area;
+
+  ; and
+- (d) after the definition of “relevant project” insert—
+
+  > - “**reserved area**” means the area (together with the places above and below it) comprising—
+  >   - (a) those parts of the sea adjacent to England from the low water mark to the landward baseline of the United Kingdom territorial sea;
+  >   - (b) so much of the United Kingdom territorial sea as is adjacent to England or Northern Ireland; and
+  >   - (c) those areas of sea in a Gas Importation and Storage Zone (within the meaning of section 1(5) of the Energy Act 2008);
+
+  .
+
+(2) After that regulation 2 (which becomes regulation 2(1)) insert—
+
+> (2) In these Regulations, any reference to the use or discharge of an offshore chemical in the relevant area is to be read, in relation to an offshore storage or unloading activity, as a reference to its use or discharge in the reserved area.
+
+.
+
+### 7. Offshore Installations (Emergency Pollution Control) Regulations 2002[^key-3f7421eee04e80167072ca4836ddf0a0]
+
+In the Offshore Installations (Emergency Pollution Control) Regulations 2002[^f00012], after regulation 2, insert—
+
+> **2A. Application**
+>
+> (1) These Regulations apply to offshore storage or unloading installations as they apply to offshore installations.
+>
+> (2) For that purpose, “**offshore storage or unloading installation**” means an installation for the establishment or maintenance of which a licence under section 4 or 18 of the Energy Act 2008 is required.
+
+.
+
+### 8. Greenhouse Gas Emissions Trading Scheme Regulations 2005[^key-4880c19d98c3cfa89d084c3d190b9b2f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^key-90d980143eb1527a680ce0eeaa958145]
+
+(1) The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^f00016] have effect as follows.
+
+(2) The Regulations apply to an installation or pipeline established or maintained[^key-a0d021858ffeb81bede293df8e39bf9c] for the purpose of an activity within section 2(3) or section 17(2) as they apply to an offshore installation as defined in regulation 2.
+
+(3) However, in relation to any installation or pipeline established or maintained[^key-4387179870ca0d8ace8cd535331309c7] for the purpose of an activity within section 2(3) or section 17(2), any reference in those Regulations to the relevant area does not include areas (or places above and below them) comprised in the territorial sea adjacent to Scotland or Wales.[^key-ef562041dce72978e01a48d4b274f326]
+
+### 9A. Review[^key-012778eb60321714acf00d3e6a0689b7]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of articles 2, 3(1) to (5) and 9 of this Order;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the following Directives, or articles of the Directives (which are implemented by means of articles 2, 3(1) to (5) and 9), are implemented in other member States—
+
+- (a) the amendments to Council [Directive 85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337) on the assessment of the effects of certain public and private projects on the environment made by Article 31 of [Directive 2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) of the European Parliament and of the Council on the geological storage of carbon dioxide;
+- (b) Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora, and
+- (c) [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by those articles;
+- (b) assess the extent to which those objectives are achieved;
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved in a less burdensome way.
+
+(4) The first report under this article must be published before the end of the period of five years beginning with the day on which this article comes into force.
+
+(5) Subsequent reports under this article must be published at intervals not exceeding five years.
+
+### 10. REACH Enforcement Regulations 2008[^key-4a61dba51e6eeb3904ed1b468c8e516c]
+
+In regulation 2(2) of the REACH Enforcement Regulations 2008[^f00017]—
+
+- (a) for the definition of “offshore installation” substitute—
+
+  > - “**offshore installation**” means—
+  >   - (a) an offshore installation within the meaning of section 44(1) of the Petroleum Act 1998[^f00018]; or
+  >   - (b) a carbon storage installation within the meaning of section 30(5) of the Energy Act 2008;
+
+  ;
+- (b) after that definition insert—
+
+  > - “**relevant waters**”, in relation to an offshore installation, has the meaning given in section 44(4) of the Petroleum Act 1998;
+
+  ; and
+- (c) after the definition of “relevant waters” insert—
+
+  > - “**Scotland**” includes Scottish controlled waters;
+
+  ; and
+- (d) for the definition of “Scottish controlled waters” substitute—
+
+  > - “**Scottish controlled waters**” means—
+  >   - (a) in relation to an offshore installation which is maintained (or intended to be established) for the purposes of the exploration for, or exploitation of, petroleum (within the meaning of section 1 of the Petroleum Act 1998), any waters which are controlled waters within the meaning of section 30A(1) of the Control of Pollution Act 1974; and
+  >   - (b) in relation to any other offshore installation, waters within the seaward limits of the territorial sea adjacent to Scotland.
+
+  .
+
+### 11. Fluorinated Greenhouse Gases Regulations 2009[^key-0c62475412eeba1f789b83d9649ff07d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Charles Hendry
+
+Minister of State for Energy
+
+Department of Energy and Climate Change
+
+Date 1st June 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Part 1 of the Energy Act [2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32) (“the Act”) introduces two new licensing regimes, respectively for the storage and unloading of combustible gas (Chapter 2) and the permanent storage of carbon dioxide (Chapter 3). The regimes apply to activities within the offshore area comprising both the UK territorial sea, and the area extending beyond the territorial sea that has been designated as a Gas Importation and Storage Zone (“GISZ”) under section 1(5) of that Act: see the Gas Storage and Importation Zone (Designation of Area) Order 2009 ([S.I. 2009/223](https://www.legislation.gov.uk/uksi/2009/223)).
+
+This Order is consequential on the introduction of those licensing regimes and modifies provisions of secondary legislation relating to the protection of the environment offshore so that they apply in connection with activities that are required to be licensed under Part 1 of the Act. These are: gas storage or unloading activities; related exploration activities; and the establishment or maintenance of installations for such purposes (“Part 1 installations”).
+
+*Article 2* modifies the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999 ([S.I. 1999/360](https://www.legislation.gov.uk/uksi/1999/360)). As a result, there will be a requirement to include an “**environmental statement**” (as defined in regulation 3(1) of those Regulations) in an application for the consent of the Secretary of State to a project which has as its main object a storage or unloading activity (as defined in *article 2(9)*), and in respect of related installations, or to the construction of a pipe-lines conveying combustible gas (within the meaning of section 2(4) of the Act) or carbon dioxide. The Secretary of State may direct that such a statement is unnecessary, under regulation 6 of the Regulations, only where the pipe-line is below the specified dimensions, or the installation is not a “structure” within the meaning of regulation 3(1). *Article 2(8)* ensures that the Regulations, as so modified, apply only in respect of the functions of the Secretary of State (and not the functions of the Scottish Ministers under Part 1, Chapter 3, of the Act).
+
+As regards carbon dioxide storage activities, and pipe-lines conveying carbon dioxide, this modification implements the amendments to Council Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337) on the assessment of the effects of certain public and private projects on the environment[^f00020] that are made by Article 31 of Directive [2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) of the European Parliament and of the Council on the geological storage of carbon dioxide[^f00021] (“the CCS Directive”).
+
+*Article 3* modifies the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001 ([S.I. 2001/1754](https://www.legislation.gov.uk/uksi/2001/1754)). As a result, the requirements of those Regulations also apply in relation to the Secretary of State’s functions under Part 1 of the Act. In particular, the Secretary of State must, before granting a licence under that Part, or a consent pursuant to such a licence, make an appropriate assessment of the implications for a site protected under Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora[^f00022] (“**the Habitats Directive**”), or Directive [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds[^f00023] (“**the Wild Birds Directive**”). *Article 3(6) and (7)* amends the Regulations to remove a superfluous definition from regulation 2(1), and to replace the references to Council Directive [79/409/EEC](https://www.legislation.gov.uk/european/directive/1979/0409) and to [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716) by updated references.
+
+The modifications made by *article 3* implement the Habitats and Wild Birds Directives in respect of the Secretary of State’s functions under Part 1 of the Act.
+
+*Article 4* is consequential on the modifications made by *article 3*: it ensures the matters now falling within the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001 do not also fall within the Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 ([S.I. 2007/1842](https://www.legislation.gov.uk/uksi/2007/1842)).
+
+*Article 5* amends the Offshore Combustion Installations (Prevention and Control of Pollution) Regulations 2001 ([S.I. 2001/1091](https://www.legislation.gov.uk/uksi/2001/1091)). As a result, the requirement to obtain a permit under those Regulations for the operation of an offshore combustion installation also applies to installations on structures used for or in connection with gas storage or unloading activities, provided that the structure is within the “reserved area” defined by *article 5(c)*. This implements requirements of Directive [2008/1/EC](https://www.legislation.gov.uk/european/directive/2008/0001) of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control (Codified version)[^f00024], as amended by the CCS Directive.
+
+*Article 6* amends the Offshore Chemicals Regulations 2002 ([S.I. 2002/1355](https://www.legislation.gov.uk/uksi/2002/1355)). As a result, the controls under those Regulations on the use or discharge of chemicals offshore also apply in relation to activities within Part 1 of the Act that are carried out in the “reserved area” defined by *article 6(1)(d)*. The Regulations implement Decision 2000/2 and Recommendations 2000/4 and 2000/5 of the OSPAR Convention (1992 Convention for the Protection of the Marine Environment of the North-East Atlantic).
+
+*Article 7* amends the Offshore Installations (Emergency Pollution Control) Regulations 2002 ([S.I. 2002/1861](https://www.legislation.gov.uk/uksi/2002/1861)), ensuring that the powers of the Secretary of State to prevent or reduce accidental pollution also extend to that resulting from damage to a Part 1 installation.
+
+*Article 8* amends the definition of “offshore installation” in regulation 2 of the Greenhouse Gas Emissions Trading Scheme Regulations 2005 ([S.I. 2005/925](https://www.legislation.gov.uk/uksi/2005/925)). The amendment ensures that the provisions of the Regulations applicable to “offshore installations” do not include gas storage and unloading installations within the seaward limits of the territorial sea adjacent to Wales or Scotland.
+
+Those Regulations implement Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowance trading within the Community[^f00025].
+
+*Article 9* amends the Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 ([S.I. 2005/2055](https://www.legislation.gov.uk/uksi/2005/2055)), which require a permit from the Secretary of State for the release of oil into relevant waters from an offshore installation. As a result, those Regulations will also apply in relation to all Part 1 installations, but in such cases relevant waters do not include the waters mentioned in *article 9(3)*.
+
+*Article 10* amends the REACH Enforcement Regulations 2008 ([S.I. 2008/2852](https://www.legislation.gov.uk/uksi/2008/2852)), which provide for the enforcement of Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907) of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH)[^f00026]. The amendments ensure that those Regulations apply to all Part 1 installations, and that (in relation to the latter) the duty to enforce provisions of the REACH Regulation lies, in relevant cases, with the Scottish Environmental Protection Agency where the installation is within the seaward limits of the Scottish territorial sea.
+
+*Article 11* amends the Fluorinated Greenhouse Gases Regulations 2009 ([S.I. 2009/261](https://www.legislation.gov.uk/uksi/2009/261)) which provide for the enforcement of Regulation [(EC) No 842/2006](https://www.legislation.gov.uk/european/regulation/2006/0842) of the European Parliament and of the Council on certain fluorinated greenhouse gases[^f00027]. As a result, those provisions also extend to all Part 1 installations.
+
+An Impact Assessment has not been produced for this instrument. The amendments which are made by this Order are consequential on the introduction of the new licensing regimes by Part 1 of the Energy Act 2008.
+
+A Transposition Note setting out how this Order transposes relevant provisions of European Union legislation is annexed to the Explanatory Memorandum that is available alongside the instrument on the OPSI website at: http://www.opsi.gov.uk/stat.htm.
+
+Copies of the Explanatory Memorandum are also available from Ricki Kiff, Energy Development Unit, Department of Energy and Climate Change, 3 Whitehall Place, London SW1A 2AW. Tel: 0300 068 6042; email: ricki.kiff@decc.gsi.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). Section 57(1) of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) provides that despite the transfer to the Scottish Ministers of functions in relation to observing and implementing obligations under EU law, any function of a Minister of the Crown shall continue to be exercisable by that Minister as regards Scotland for the purposes specified in section 2(2) of the European Communities Act 1972.
+
+[^f00003]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32).
+
+[^key-1bf04897f3266271a18026391a3b1e17]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/1513/article/1) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
+
+[^key-3a04ae0039c27003f72029d857af4c8f]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2010/1513/article/2) omitted (16.5.2017) by virtue of [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [22](https://www.legislation.gov.uk/uksi/2017/582/regulation/22)
+
+[^key-52d1c98c8e70c9774172208905ed071a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/1513/article/3) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
+
+[^f00005]: Footnote: [S.I. 2001/1754](https://www.legislation.gov.uk/uksi/2001/1754), amended by [S.I. 2007/77](https://www.legislation.gov.uk/uksi/2007/77) and [2007/1842](https://www.legislation.gov.uk/uksi/2007/1842).
+
+[^key-8d7acd64168c1fd9f3cb1f7d027f7fbc]: Textual amendment: Words in [art. 3(3)(b)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/3/b) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2016/912/regulation/16/2)
+
+[^key-080f7729479cda30b7292e1ab75a831c]: Textual amendment: [Art. 3(5)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/5) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [60](https://www.legislation.gov.uk/uksi/2017/582/regulation/60) (with [reg. 58](https://www.legislation.gov.uk/uksi/2017/582/regulation/58))
+
+[^key-5b032a152d673f853c04e5532d33f338]: Textual amendment: Words in [art. 3(5)](https://www.legislation.gov.uk/uksi/2010/1513/article/3/5) inserted (31.12.2020 immediately before 11 p.m.) by [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2020/1497/schedule/7/paragraph/4) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
+
+[^f00006]: Footnote: OJ No L 20, 26.1.10, p. 7.
+
+[^f00007]: Footnote: [S.I. 2010/490](https://www.legislation.gov.uk/uksi/2010/490).
+
+[^key-7037a0de21ba164443cb41f3d984beee]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/1513/article/4) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
+
+[^f00008]: Footnote: [S.I. 2007/1842](https://www.legislation.gov.uk/uksi/2007/1842) amended by [S.I. 2009/7](https://www.legislation.gov.uk/uksi/2009/7) and [2010/491](https://www.legislation.gov.uk/uksi/2010/491).
+
+[^key-3b838bebe620ff26ba57735b48a4bf17]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2010/1513/article/5) revoked (19.5.2013) by [The Offshore Combustion Installations (Pollution Prevention and Control) Regulations 2013 (S.I. 2013/971)](https://www.legislation.gov.uk/uksi/2013/971), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/971/regulation/1/1), [38(1)(d)](https://www.legislation.gov.uk/uksi/2013/971/regulation/38/1/d) (with [reg. 38(3)-(7)](https://www.legislation.gov.uk/uksi/2013/971/regulation/38/3))
+
+[^key-4f8b912a4d593731b51fde52b5c55033]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/1513/article/6) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
+
+[^f00010]: Footnote: [S.I. 2002/1355](https://www.legislation.gov.uk/uksi/2002/1355), amended by [S.I. 2005/2055](https://www.legislation.gov.uk/uksi/2005/2055).
+
+[^f00011]: Footnote: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17).
+
+[^key-3f7421eee04e80167072ca4836ddf0a0]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/1513/article/7) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
+
+[^f00012]: Footnote: [S.I. 2002/1861](https://www.legislation.gov.uk/uksi/2002/1861).
+
+[^key-4880c19d98c3cfa89d084c3d190b9b2f]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2010/1513/article/8) revoked (1.1.2013) by The Greenhouse Gas Emissions Trading Scheme Regulations 2012 ([S.I. 2012/3038](https://www.legislation.gov.uk/uksi/2012/3038)), regs. 1, 85(b)(vii) (with regs. 85, 87, Sch. 1)
+
+[^key-90d980143eb1527a680ce0eeaa958145]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2010/1513/article/9) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
+
+[^f00016]: Footnote: [S.I. 2005/2055](https://www.legislation.gov.uk/uksi/2005/2055).
+
+[^key-a0d021858ffeb81bede293df8e39bf9c]: Textual amendment: Words in [art. 9(2)](https://www.legislation.gov.uk/uksi/2010/1513/article/9/2) substituted (30.3.2011) by virtue of [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) (Amendment) Regulations 2011 (S.I. 2011/983)](https://www.legislation.gov.uk/uksi/2011/983), [regs. 1](https://www.legislation.gov.uk/uksi/2011/983/regulation/1), [23(a)](https://www.legislation.gov.uk/uksi/2011/983/regulation/23/a)
+
+[^key-4387179870ca0d8ace8cd535331309c7]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/uksi/2010/1513/article/9/3) substituted (30.3.2011) by virtue of [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) (Amendment) Regulations 2011 (S.I. 2011/983)](https://www.legislation.gov.uk/uksi/2011/983), [regs. 1](https://www.legislation.gov.uk/uksi/2011/983/regulation/1), [23(a)](https://www.legislation.gov.uk/uksi/2011/983/regulation/23/a)
+
+[^key-ef562041dce72978e01a48d4b274f326]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/uksi/2010/1513/article/9/3) substituted (30.3.2011) by [The Offshore Petroleum Activities (Oil Pollution Prevention and Control) (Amendment) Regulations 2011 (S.I. 2011/983)](https://www.legislation.gov.uk/uksi/2011/983), [regs. 1](https://www.legislation.gov.uk/uksi/2011/983/regulation/1), [23(b)](https://www.legislation.gov.uk/uksi/2011/983/regulation/23/b)
+
+[^key-012778eb60321714acf00d3e6a0689b7]: Textual amendment: [Art. 9A](https://www.legislation.gov.uk/uksi/2010/1513/article/9A) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2016/912/regulation/16/3)
+
+[^key-4a61dba51e6eeb3904ed1b468c8e516c]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2010/1513/article/10) in force at 1.7.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1513/article/1/1)
+
+[^f00017]: Footnote: [S.I. 2008/2852](https://www.legislation.gov.uk/uksi/2008/2852).
+
+[^f00018]: Footnote: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17); section 44 was amended by section 36 of, and paragraph 11 of Schedule 1 to, the Energy Act 2008.
+
+[^key-0c62475412eeba1f789b83d9649ff07d]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/2010/1513/article/11) omitted (19.3.2015) by virtue of [The Fluorinated Greenhouse Gases Regulations 2015 (S.I. 2015/310)](https://www.legislation.gov.uk/uksi/2015/310), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/310/regulation/1/1/b), [33(1)](https://www.legislation.gov.uk/uksi/2015/310/regulation/33/1)
+
+[^f00020]: Footnote: OJ No L 175, 5.7.1985, p. 40, amended by Council Directive [97/11/EC](https://www.legislation.gov.uk/european/directive/1997/0011) (OJ No L 73, 14.3.1997 p. 5) and Directive [2003/35/EC](https://www.legislation.gov.uk/european/directive/2003/0035) of the European Parliament and of the Council (OJ No L 156, 25.6.2003, p. 17) and Directive [2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) of the European Parliament and of the Council (OJ No L 140, 5.6.2009, p. 114).
+
+[^f00021]: Footnote: OJ No L 140, 5.6.2009, p. 114.
+
+[^f00022]: Footnote: OJ No L 206, 22.7.1992, p. 7, the relevant amending instruments are Council Directive [97/62/EC](https://www.legislation.gov.uk/european/directive/1997/0062) (OJ No L 305, 8.11.1997, p. 42).
+
+[^f00023]: Footnote: OJ No L 20, 26.1.10, p. 7.
+
+[^f00024]: Footnote: OJ No L 24, 29.1.2008, p. 8.
+
+[^f00025]: Footnote: OJ No L 275, 25.10.2003, p. 32, last amended by Directive [2009/29/EC](https://www.legislation.gov.uk/european/directive/2009/0029) of the European Parliament and the Council (OJ No L 140, 5.6.2009, p. 63).
+
+[^f00026]: Footnote: OJ No L 396, 30.12.2006, p. 1, last amended by Commission Regulation No 276/2010 (OJ No L 86, 1.4.2010, p. 7).
+
+[^f00027]: Footnote: OJ No L 161, 14.6.2006, p. 1.

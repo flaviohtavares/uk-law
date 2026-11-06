@@ -1,0 +1,592 @@
+---
+title: The Financial Services Act 2012 (Transitional Provisions) (Permission and Approval) Order 2013
+id: uksi/2013/440
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-02-27'
+text_date: '2013-09-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/440
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/440/pdfs/uksiem_20130440_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/440/pdfs/uksi_20130440_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/440/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services Act 2012 (Transitional Provisions) (Permission and Approval) Order 2013
+
+> Text as at 2013-09-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 440
+
+Financial Services And Markets
+
+The Financial Services Act 2012 (Transitional Provisions) (Permission and Approval) Order 2013
+
+Made
+
+27th February 2013
+
+Laid before Parliament
+
+1st March 2013
+
+Coming into force
+
+1st April 2013
+
+The Treasury make the following Order in exercise of the powers conferred by sections 115(2) and 119(3), (4) and (5) of the Financial Services Act 2012[^f00001].
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and interpretation[^key-61939ee94b28897c9bc35c07d9fc2318]
+
+(1) This Order may be cited as the Financial Services Act 2012 (Transitional Provisions) (Permission and Approval) Order 2013 and comes into force on 1st April 2013.
+
+(2) In this Order—
+
+- “the Authority” means the Financial Services Authority;
+- “the commencement date” means 1st April 2013.
+
+(3) A reference in this Order to a provision of an Act is a reference to a provision of FSMA 2000[^f00002], except where indicated otherwise.
+
+(4) A term used in this Order which is defined in FSMA 2000 has the same meaning as in that Act.
+
+(5) For the purpose of this Order, a reference to a permission, approval or requirement under FSMA 2000, or to any other thing done under or for the purposes of that Act, includes a reference to a permission, approval or a requirement or other thing treated as having effect or having been done under FSMA 2000, however described, by an order under—
+
+- (a) section 426 (consequential and supplementary provision);
+- (b) section 2(2) of the European Communities Act 1972[^f00003] (general implementation of Treaties).
+
+## PART 2 — Permission to carry on regulated activities
+
+### 2. Permission[^key-ec1e9edac35b3bfddca18bb26f8bfad1]
+
+(1) Where, immediately before the commencement date, a person had a Part 4 permission to carry on a specified regulated activity or specified regulated activities, the person is to be treated as having permission to carry on that regulated activity or those regulated activities given by—
+
+- (a) the PRA[^f00004] under section 55F[^f00005] (giving permission: the PRA) if—
+  - (i) the permitted regulated activity or regulated activities consist of or include an activity which is, on the commencement date, a PRA-regulated activity, or
+  - (ii) the person is, on the commencement date, a PRA-authorised person by virtue of section 2B(5)(b)[^f00006] (the PRA’s general objective); and
+- (b) the FCA[^f00007] under section 55E (giving permission: the FCA) in any other case.
+
+(2) Where, immediately before the commencement date, the description of a permitted regulated activity incorporated a limitation, the limitation is to be treated as if incorporated by—
+
+- (a) the PRA under section 55F(4) if paragraph (1)(a) applies; or
+- (b) the FCA under section 55E(5) in any other case.
+
+### 3. Requirements[^key-b200e59ecb039fe36a6bfcf2dd2a9008]
+
+(1) Paragraph (2) applies if, immediately before the commencement date, a person was subject to a requirement imposed or varied under any of the following provisions—
+
+- (a) section 43 (imposition of requirements);
+- (b) section 44[^f00008] (variation etc. at request of authorised person);
+- (c) section 45[^f00009] (variation etc. on the Authority’s own initiative), including the exercise of powers under section 45 by virtue of section 47 (exercise of power in support of overseas regulator).
+
+(2) The requirement is to be treated as if it had been imposed—
+
+- (a) by the PRA under section 55M (imposition of requirements by PRA) if the person subject to the requirement is, on the commencement date, a PRA-authorised person; or
+- (b) by the FCA under section 55L (imposition of requirements by FCA) in any other case.
+
+(3) Paragraph (4) applies if, immediately before the commencement date, a person was subject to a requirement imposed under section 46 (variation of permission on acquisition of control).
+
+(4) The requirement is to be treated as if it had been imposed under section 55O (imposition of requirements on acquisition of control)—
+
+- (a) by the PRA if the person subject to the requirement is, on the commencement date, a PRA-authorised person; or
+- (b) by the FCA in any other case.
+
+(5) Paragraph (6) applies if, immediately before the commencement date—
+
+- (a) a person was subject to a requirement imposed under section 196 (the power of intervention); and
+- (b) the period for which the requirement was imposed (if any) has not expired.
+
+(6) The requirement is to be treated as it if had been imposed by the PRA if the person subject to the requirement is, on the commencement date, a PRA-authorised person.
+
+### 4. Prohibitions, restrictions and assets requirements[^key-77ba174e44f5496adcfec37810930854]
+
+(1) Where a requirement which had effect immediately before the commencement date was an assets requirement within the meaning of section 48(3) (prohibitions and restrictions)—
+
+- (a) the requirement is to be treated as an assets requirement within the meaning of section 55P(4) (prohibitions and restrictions), imposed by the relevant regulator;
+- (b) a trustee approved by the Authority before the commencement date for the purposes of section 48(3)(b) is to be treated as if the trustee had been approved by the relevant regulator for the purposes of section 55P(4)(b);
+- (c) a notice given by the Authority to an institution before the commencement date for the purposes of section 48(4)(b) is to be treated as if it had been given by the relevant regulator for the purposes of section 55P(5)(b); and
+- (d) a liability to pay an amount to the Authority that arose before the commencement date under section 48(5)(b) is to be treated as a liability to pay that amount to the relevant regulator under section 55P(6)(b).
+
+(2) Paragraph (3) applies if, before the commencement date, the Authority—
+
+- (a) received a request to give consent for the purposes of section 48(6); and
+- (b) had not consented or refused consent.
+
+(3) The request is to be treated as if it had been made to the relevant regulator to give consent for the purposes section 55P(7).
+
+(4) In this article, the “relevant regulator” means—
+
+- (a) if the person on whom the requirement was imposed is, on the commencement date, a PRA-authorised person, the PRA; and
+- (b) in any other case, the FCA.
+
+(5)[^key-e073bebb6357f854845ec0170f6860bb] Where the requirement was imposed under section 196, a reference in this article to a provision in Part 4A is to be read as a reference to that provision as applied by section 196.
+
+### 5. Applications made before the commencement date to vary or cancel a requirement[^key-279d9c5cc1b885164ff974a2b56be64c]
+
+(1) Paragraph (2) applies if before the commencement date—
+
+- (a) an application was made to the Authority under section 44 to vary a permission by—
+  - (i) cancelling a requirement imposed under section 43, or
+  - (ii) varying such a requirement; and
+- (b) the Authority had not issued a written notice or a warning notice in respect of the application.
+
+(2) The application is to be treated as having been made—
+
+- (a) to the PRA under section 55M(5) if the person is, on the commencement date, a PRA-authorised person, and
+- (b) to the FCA under section 55L(5) in any other case.
+
+### 6. Variation of permission at request of authorised person[^key-a29d815039b47c06d2a048523dd30432]
+
+(1) Paragraph (2) applies if before the commencement date—
+
+- (a) an application was made to the Authority under section 44 to cancel a permission or to vary a permission by—
+  - (i) adding a regulated activity to those for which it had given permission;
+  - (ii) removing a regulated activity from those for which it had given permission; or
+  - (iii) varying the description of a regulated activity for which it had given permission;
+- (b) the applicant had not withdrawn the application; and
+- (c) the Authority had not issued a written notice or a warning notice in respect of the application.
+
+(2) The application is to be treated as having been made—
+
+- (a) to the PRA under section 55I (variation by PRA at request of authorised person) if, on the commencement date, the person is a PRA-authorised person; and
+- (b) to the FCA under section 55H (variation by FCA at request of authorised person) in any other case.
+
+(3) For the purposes of paragraph (1)(a), an application to vary or remove a limitation is to be treated as an application to vary a permission by varying the description of a regulated activity.
+
+### 7. Variation or cancellation of requirement in force before the commencement date[^key-61517de456e571371d342b7ebfc16aa9]
+
+(1) This article applies in respect of a requirement which is to be treated as if it had been imposed by the PRA by virtue of article 3 or 4.
+
+(2) Part 4A (permission to carry on regulated activities) applies to a requirement treated as imposed under that Part[^key-b6c2560f7be3f2ab27f7573af0f98172] with the following modifications—
+
+- (a) the FCA may vary or cancel the requirement with the consent of the PRA; and
+- (b) the PRA may vary or cancel the requirement with the consent of the FCA.
+
+(2A)[^key-ed325f123ef19b3e3921b3098be64e7e] Section 200 (rescission and variation of requirements) applies to a requirement imposed under section 196 with the following modifications—
+
+- (a) the FCA may vary or rescind the requirement with the consent of the PRA; and
+- (b) the PRA may vary or rescind the requirement with the consent of the FCA.
+
+(3) But no consent is required for the purposes of paragraph (2) or (2A)[^key-dc7c26378c2564bb4632ffbb2e5b98f2] where—
+
+- (a) a regulator[^f00010] is exercising its own-initiative requirement power under section 55L or 55M or its power of intervention under section 196 (the power of intervention)[^key-ccbfa8882fb68eeee338616e414ef699]; and
+- (b) the variation is expressed to take effect immediately.
+
+(4) The PRA may, with the consent of the FCA, make a transfer election (see paragraphs (5) and (6)) in relation to a requirement or part of a requirement.
+
+(5) If the PRA makes a transfer election in relation to a requirement or part of a requirement—
+
+- (a) the requirement or part is to be treated as if it had been imposed by the FCA under section 55L or, where article 3(6) applies (see article 3(5)), section 196[^key-9b372c08cdf9b04845e659a5995c6f61]; and
+- (b) paragraph (2) or, as the case may be, (2A)[^key-864daa66a14601a7e4fdd74ec214b4f6] ceases to have effect in relation to the requirement or part.
+
+(6) A transfer election must—
+
+- (a) be in writing; and
+- (b) specify the requirement or the part of the requirement to which the transfer election relates.
+
+(7) The PRA must send the transfer election, or a copy of it, to—
+
+- (a) the person subject to the requirement; and
+- (b) the FCA.
+
+(8) Consent may be given for the purposes of this article in relation to a class or description of requirements.
+
+### 8. Variation or cancellation on initiative of regulator[^key-3aa6aeafa579c97f9b7434e11765fac1]
+
+(1) For the purposes of section 55J(1)(b) (variation or cancellation on initiative of regulator), the period of 12 months may include any period prior to the commencement date which at that time would have been counted as part of the period referred to in section 45(1)(b).
+
+(2) For the purposes of section 55K(1)(a) (investment firms: particular conditions that enable cancellation), the period of 6 months may include any period prior to the commencement date which at that time would have been counted as part of the period referred to in section 45(2A)(a).
+
+### 9. Exercise of power in support of overseas regulator[^key-a424a69dd1e273f3611f8694a8d917a7]
+
+(1) Paragraph (2) applies if, before the commencement date, the Authority—
+
+- (a) received a request from an overseas regulator within the meaning of section 47; and
+- (b) had not exercised its own-initiative power further to that request.
+
+(2) For the purposes of section 55Q (exercise of power in support of overseas regulator), the request is to be treated as if it had been made to—
+
+- (a) the PRA if the person in relation to whom the own-initiative powers would be exercised is, on the commencement date, a PRA-authorised person; and
+- (b) to the FCA in any other case.
+
+### 10. Determination of applications[^key-bb219847d4dee55ae14bdaa0d0568a80]
+
+(1) Paragraph (2) to (4) apply if, before the commencement date—
+
+- (a) the Authority received an application under section 40 (application for permission) for permission to carry on one or more regulated activities;
+- (b) the applicant had not withdrawn the application; and
+- (c) the Authority had not issued a written notice or a warning notice in respect of the application.
+
+(2) The application is to be treated as if it had been made under section 55A (application for permission) to the appropriate regulator within the meaning of that section.
+
+(3) For the purposes of section 55V(1) (determination of applications), if the Authority received a completed application before the commencement date, the appropriate regulator is to be treated as if it had received the completed application on the date on which the Authority received it.
+
+(4) For the purposes of section 55V(2), if the Authority received an incomplete application before the commencement date, the appropriate regulator is to be treated as if it had received the incomplete application on the date on which the Authority received it.
+
+(5) Paragraph (6) applies if—
+
+- (a) before the commencement date the Authority gave a written notice under section 52(4) (notice granting an application for, or for variation of, a Part 4 permission); and
+- (b) the date from which the permission, or the variation, has effect is, or is after, the commencement date.
+
+(6) The notice is to be treated as if it had been given under section 55V(5) by—
+
+- (a) the PRA if, on the date on which the permission or the variation has effect, the person to whom the notice was given is a PRA-authorised person; and
+- (b) the FCA in any other case.
+
+### 11. Notification of ESMA[^key-1d1e4f9af67ff227b0ba6e191018ec04]
+
+(1) Paragraph (2) applies if, before the commencement date, the Authority—
+
+- (a) was required under section 54A[^f00011] (notification of ESMA) to notify the European Securities and Markets Authority that it had given or cancelled a permission; and
+- (b) had not so notified the European Securities and Markets Authority.
+
+(2) Section 55Z1[^f00012] (notification of ESMA) applies as if it required the FCA to notify the European Securities and Markets Authority of the giving or cancellation of the permission (as the case may be).
+
+### 12. Notification of EBA[^key-2f15484c7ad1a4952141bc96b6750883]
+
+(1) Paragraph (2) applies if, before the commencement date, the Authority—
+
+- (a) was required under section 54B[^f00013] (notification of EBA) to notify the European Banking Authority that it had given or cancelled a permission; and
+- (b) had not so notified the European Banking Authority.
+
+(2) Section 55Z2[^f00014] (notification of EBA) applies as if it required the PRA to notify the European Banking Authority of the giving or cancellation of the permission (as the case may be).
+
+## PART 3 — Performance of regulated activities
+
+### 13. Approval for particular arrangements[^key-9a6e6c0697a56d209ec4a5092a5a1eec]
+
+(1) Paragraph (2) applies if, immediately before the commencement date, the performance of controlled functions by a person was approved for the purposes of section 59[^f00015] (approval for particular arrangements).
+
+(2) The approval is to be treated as if it had been given by a notice given in accordance with section 62[^f00016] (applications for approval: procedure and right to refer to Tribunal) by—
+
+- (a) the FCA, in respect of such post-commencement controlled functions as are specified in rules made by the FCA and in force on the commencement date;
+- (b) the PRA, in respect of such post-commencement controlled functions as are specified in rules made by the PRA and in force on the commencement date.
+
+(3) Where, immediately before the commencement date, the approval was subject to a suspension, limitation or restriction, that suspension, limitation or restriction is to be treated as if it had been imposed by the regulator specified in paragraph (2).
+
+(4) Paragraph (5) applies if—
+
+- (a) before the commencement date, the Authority—
+  - (i) received an application under section 60[^f00017] (applications for approval), and
+  - (ii) had not given a written notice or a warning notice in accordance with section 62 in relation to the application; and
+- (b) the application had not been withdrawn before the commencement date.
+
+(5) The application is to be treated—
+
+- (a) as if it had been made—
+  - (i) for approval to perform the post-commencement approved functions the performance of which would have been treated as approved under paragraph (2) had the Authority given approval pursuant to the application immediately before the commencement date, and
+  - (ii) accordingly, to the FCA or the PRA (or both) as the case may be; and
+- (b) for the purposes of section 61(3A)[^f00018], as if it had been received on the date on which the Authority received it.
+
+(6) Paragraph (7) applies if, before the commencement date—
+
+- (a) the Authority—
+  - (i) required an applicant to provide further information under section 60(3), or
+  - (ii) required an applicant to present information in a form or to verify information in a way directed under section 60(4); and
+- (b) the information was not—
+  - (i) provided; or
+  - (ii) presented or verified in the form or way directed.
+
+(7) The requirement is to be treated as if it had been imposed by whichever of the FCA and the PRA (or both) is treated by paragraph (5) as having received the application.
+
+(8) In this article—
+
+- “the pre-commencement controlled functions” means the functions the performance of which by the person was, immediately before the commencement date, approved for the purposes of section 59;
+- “the post-commencement controlled functions” means controlled functions specified in relation to the pre-commencement controlled functions in rules made by the FCA or the PRA.
+
+## PART 4 — Lloyd’s (Part 19 of FSMA)
+
+### 14. The Society: authorisation and permission[^key-53a493670654a3f79097a08fd8c6dc8c]
+
+The society incorporated by Lloyd’s Act 1871[^f00019] by the name of Lloyd’s is to be treated as having Part 4A permission to carry on a regulated activity of any of the following kinds—
+
+- (a) arranging deals in contracts of insurance written at Lloyd’s (“the basic market activity”);
+- (b) arranging deals in participation in Lloyd’s syndicates (“the secondary market activity”);
+- (c) an activity carried on in connection with, or for the purposes of, the basic or secondary market activity.
+
+## PART 5
+
+### CHAPTER 1 — EEA Passport rights (Schedule 3)
+
+#### 15. Firms qualifying for authorisation[^key-661ba7cd32ef94488c292fe03d3ef30b]
+
+(1) Paragraph (2) applies if, before the commencement date—
+
+- (a) an EEA firm[^f00020] satisfied the establishment conditions in paragraph 13[^f00021] (establishment) of Schedule 3 (EEA passport rights) or the services conditions in paragraph 14[^f00022](services) of that Schedule;
+- (b) the EEA firm had not ceased to qualify for authorisation; and
+- (c) the Authority had not given a direction under section 34[^f00023] (EEA firms) cancelling the EEA firm’s authorisation.
+
+(2) Subject to section 34(1), the EEA firm is to be treated as qualifying for authorisation under Schedule 3 for the purpose of section 31[^f00024] (authorised persons).
+
+#### 16. Ending of authorisation of an EEA firm[^key-fb2d0e4fb4f3b0b0c1a9475ac68b3c1b]
+
+(1) Paragraph (2) applies if, before the commencement date—
+
+- (a) an EEA firm made a request to the Authority under section 34(2);
+- (b) the Authority had not made a direction pursuant to that request; and
+- (c) the request would have been made to the PRA as the appropriate regulator (within the meaning of section 34(2A)) had it been made on the commencement date.
+
+(2) The request is to be treated as if it had been made to the PRA.
+
+#### 17. EEA firms seeking to establish a branch[^key-94ae59556d4ade2f4f6fc2830c3a8e6d]
+
+(1) Paragraph (2) applies in relation to an EEA firm which, before the commencement date—
+
+- (a) was seeking to establish a branch as mentioned in paragraph 12(1) of Schedule 3 (firms qualifying for authorisation); and
+- (b) had not satisfied the establishment conditions in paragraph 13 of that Schedule.
+
+(2) Any notice within the meaning of paragraph (3) received by the Authority before the commencement date is to be treated as if it had been received by the PRA if the notice would have been sent to the PRA as the appropriate UK regulator (within the meaning of paragraph 13(4) of that Schedule) had the notice been sent on the commencement date.
+
+(3) The notices are—
+
+- (a) a consent notice within the meaning of paragraph 13(1)(a) of Schedule 3;
+- (b) a regulator’s notice within the meaning of paragraph 13(1A)(b) of that Schedule.
+
+(4) Any notification within the meaning of paragraph (5) sent by the Authority before the commencement date is to be treated as if it had been sent by the PRA if the consent notice in response to which the notification was sent would have been received by the PRA as the appropriate UK regulator (within the meaning of paragraph 13(4) of Schedule 3) had the relevant notice been received on the commencement date.
+
+(5) The notification is a notification by the Authority of the applicable provisions sent in accordance with paragraph 13(2) of Schedule 3.
+
+#### 18. EEA firms seeking to provide services[^key-b06afb63c54209d4c89c803ce8354942]
+
+(1) Paragraph (2) applies in relation to an EEA firm which, before the commencement date—
+
+- (a) was seeking to provide services as mentioned in paragraph 12(2) of Schedule 3; and
+- (b) had not satisfied the service conditions in paragraph 14 of that Schedule.
+
+(2) Any relevant notice within the meaning of paragraph 14(1) of Schedule 3 received by the Authority before the commencement date is to be treated as if it had been received by the PRA if it would have been sent to the PRA as the appropriate UK regulator (within the meaning of paragraph 14(4) of Schedule 3) had it been sent on the commencement date.
+
+(3) Any notification within the meaning of paragraph (4) sent by the Authority before the commencement date is to be treated as if it had been sent by the PRA if the relevant notice in response to which the notification was sent would have been received by the PRA as the appropriate UK regulator (within the meaning of paragraph 14(4) of Schedule 3) had the relevant notice been received on the commencement date.
+
+(4) The notification is a notification by the Authority of the applicable provisions sent in accordance with paragraph 14(2) of Schedule 3.
+
+#### 19. UK firm seeking to establish a branch[^key-7eb2fcf53edabb5d5a2a21535f8a97e7]
+
+(1) Paragraphs (2) to (4) apply if—
+
+- (a) before the commencement date, the Authority received a notice of intention within the meaning of paragraph 19(2)[^f00025] of Schedule 3 (establishment); and
+- (b) the notice would have been sent to the PRA as the appropriate UK regulator (within the meaning of paragraph 18A[^f00026] of that Schedule) had the notice been sent on the commencement date.
+
+(2) The notice of intention is to be treated as if it had been received by the PRA.
+
+(3) Any consent notice given by the Authority before the commencement date to a host state regulator for the purposes of paragraph 19(4)(a) of Schedule 3 is to be treated as if it had been given by the PRA.
+
+(4) Any notification of the applicable provisions (as mentioned in paragraph 19(5)(b)(i) of Schedule 3) sent by a home state regulator to the Authority before the commencement date is to be treated as if it had been sent to the PRA.
+
+#### 20. UK firm seeking to provide services[^key-fdc65d0a17f8598c154123fc45d80daa]
+
+(1) Paragraphs (2) and (3) apply if—
+
+- (a) before the commencement date, the Authority received a notice of intention within the meaning of paragraph 20(1)[^f00027] of Schedule 3 (services); and
+- (b) the notice would have been sent to the PRA as the appropriate UK regulator (within the meaning of paragraph 18A of that Schedule) had the notice been sent on the commencement date.
+
+(2) The notice of intention to be treated as if it had been received by the PRA.
+
+(3) The following are to be treated as if sent, provided or given by the PRA—
+
+- (a) a copy of a notice of intention and any specified information sent by the Authority before the commencement date to a host state regulator for the purposes of paragraph 20(3) of Schedule 3;
+- (b) information about the compensation scheme provided by the Authority before the commencement date to a host state regulator for the purposes of paragraph 20(3ZA) of that Schedule;
+- (c) a consent notice given by the Authority before the commencement date to a host state regulator for the purposes of paragraph 20(3A)(a) of that Schedule;
+- (d) written notice given by the Authority before the commencement date to a firm for the purposes of paragraph 20(3A)(b) of that Schedule;
+- (e) a copy of a notice of intention sent by the Authority before the commencement date to a host state regulator for the purposes of paragraph 20(3B)(a) of that Schedule;
+- (f) written notice given by the Authority before the commencement date to a firm for the purposes of paragraph 20(3B)(b) of that Schedule;
+- (g) any confirmation, description or details sent by the Authority before the commencement date to a host state regulator for the purposes of paragraph 20(3C) of that Schedule;
+- (h) any written notice given by the Authority before the commencement date to a firm for the purposes of paragraph 20(4) of that Schedule.
+
+### CHAPTER 2 — Treaty rights (Schedule 4)
+
+#### 21. Treaty firms qualifying for authorisation[^key-9b20f1f6a943d3891b650263057cef94]
+
+(1) Paragraph (2) applies if, before the commencement date—
+
+- (a) a Treaty firm[^f00028] satisfied the Treaty conditions set out in paragraph 3(1)[^f00029] of that Schedule (exercise of Treaty rights);
+- (b) the Treaty firm had not ceased to qualify for authorisation; and
+- (c) the Authority had not given a direction under section 35[^f00030](treaty firms) cancelling the Treaty firm’s authorisation.
+
+(2) Subject to section 35(1), the Treaty firm is to be treated as qualifying for authorisation under Schedule 4 for the purpose of section 31.
+
+#### 22. Ending of authorisation of a Treaty firm[^key-0b11722776741c92fbc6aba9d863cd6d]
+
+(1) Paragraph (2) applies if, before the commencement date—
+
+- (a) a Treaty firm made a request to the Authority under section 35(2);
+- (b) the Authority had not made a direction pursuant to that request; and
+- (c) the request would have been made to the PRA as the appropriate regulator (within the meaning of section 35(2A)) had it been made on the commencement date.
+
+(2) The request is to be treated as if it had been made to the PRA.
+
+#### 23. Exercise of Treaty rights[^key-6d087a7005858bd99196723d98230345]
+
+(1) Paragraph (2) applies if—
+
+- (a) a home state regulator had informed the Authority before the commencement date that a firm had home state authorisation for the regulated activity in question, for the purposes of paragraph 3 of Schedule 4; and
+- (b) the information would have been sent to the PRA as the appropriate UK regulator within the meaning of paragraph 3(2A) of Schedule 4 had the information been sent on the commencement date.
+
+(2) The information regarding home state authorisation is to be treated as if it had been received by the PRA.
+
+(3) Paragraph (4) applies if—
+
+- (a) notice was given to the Authority, before the commencement date, in accordance with paragraph 5(2)[^f00031] of Schedule 4 (notice), and
+- (b) the notice would have been given to the PRA as the appropriate UK regulator within the meaning of paragraph 5(2A) of Schedule 4 had the notice been given on the commencement date.
+
+(4) The notice is to be treated as if it had been given to the PRA.
+
+Desmond Swayne
+
+David Evennett
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+27th February 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order is made under the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21) (“the 2012 Act”) and makes transitional provision in relation to the coming into force of various provisions of that Act which amend the Financial Services and Markets Act [2000 (c.8)](https://www.legislation.gov.uk/ukpga/2000/8) (“FSMA 2000”).
+
+Article 1 provides that the Order comes into force on 1st April 2013; that date is defined as the “commencement date” for the purpose of the Order.
+
+Articles 2 to 12 make transitional provision in relation to permission under FSMA 2000 to carry on regulated activity, including: provision for things done by or in relation to the Financial Services Authority before the commencement date to be treated as if done by or in relation to the Prudential Regulation Authority, or the Prudential Regulation Authority and the Financial Conduct Authority; and provision in respect of applications for permission, requirements on permission, variation of permission and cancellation of permission.
+
+Article 13 makes similar provision in respect of the approval for a person to perform functions which are specified in rules made by a regulator.
+
+Article 14 makes provision in respect of the authorisation of Lloyd’s to undertake certain regulated activities.
+
+Articles 15 to 23 make transitional provision in relation to the authorisation of EEA firms exercising rights to establish a branch or provide services in the United Kingdom under certain single market directives relating to financial services or under other EU Treaty rights.
+
+A full impact assessment of the effect that this Order will have on the costs of business and the voluntary sector is available from, Her Majesty’s Treasury, 1 Horse Guards Road, London SW1A 2HQ or on http://www.hm-treasury.gov.uk/ and is published alongside the Order on http://www.legislation.gov.uk/ .
+
+## Annotations
+
+[^f00001]: Footnote: [2012 c.21](https://www.legislation.gov.uk/ukpga/2012/21) (“the 2012 Act”).
+
+[^key-61939ee94b28897c9bc35c07d9fc2318]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/440/article/1) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^f00002]: Footnote: Section 117 of the 2012 Act defines “FSMA 2000” as meaning the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^f00003]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51), section 27 and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), section 3 and Schedule, Part 1.
+
+[^key-ec1e9edac35b3bfddca18bb26f8bfad1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/440/article/2) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^f00004]: Footnote: Section 2A(2) of FSMA 2000 defines “the PRA” as meaning the Prudential Regulation Authority.
+
+[^f00005]: Footnote: Sections 55A to 55Z4 are substituted for sections 40 to 55 by the 2012 Act, section 11.
+
+[^f00006]: Footnote: Section 2B is inserted by the 2012 Act, section 6.
+
+[^f00007]: Footnote: Section 1A(2) of FSMA 2000 defines “the FCA” as meaning the Financial Conduct Authority.
+
+[^key-b200e59ecb039fe36a6bfcf2dd2a9008]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/440/article/3) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^f00008]: Footnote: Section 44 was amended by the Financial Services Act [2010 (c.28)](https://www.legislation.gov.uk/ukpga/2010/28), section 3.
+
+[^f00009]: Footnote: Section 45 was amended by the Financial Services Act 2010, section 3 and [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
+
+[^key-77ba174e44f5496adcfec37810930854]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2013/440/article/4) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^key-e073bebb6357f854845ec0170f6860bb]: Textual amendment: [Art. 4(5)](https://www.legislation.gov.uk/uksi/2013/440/article/4/5) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/2)
+
+[^key-279d9c5cc1b885164ff974a2b56be64c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2013/440/article/5) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^key-a29d815039b47c06d2a048523dd30432]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2013/440/article/6) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^key-61517de456e571371d342b7ebfc16aa9]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2013/440/article/7) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^key-b6c2560f7be3f2ab27f7573af0f98172]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/uksi/2013/440/article/7/2) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/3/a)
+
+[^key-ed325f123ef19b3e3921b3098be64e7e]: Textual amendment: [Art. 7(2A)](https://www.legislation.gov.uk/uksi/2013/440/article/7/2A) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(3)(b)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/3/b)
+
+[^key-dc7c26378c2564bb4632ffbb2e5b98f2]: Textual amendment: Words in [art. 7(3)](https://www.legislation.gov.uk/uksi/2013/440/article/7/3) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(3)(c)(i)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/3/c/i)
+
+[^f00010]: Footnote: Section 3A(2) of FSMA 2000 defines the regulators as the FCA and the PRA.
+
+[^key-ccbfa8882fb68eeee338616e414ef699]: Textual amendment: Words in [art. 7(3)(a)](https://www.legislation.gov.uk/uksi/2013/440/article/7/3/a) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/3/c/ii)
+
+[^key-9b372c08cdf9b04845e659a5995c6f61]: Textual amendment: Words in [art. 7(5)(a)](https://www.legislation.gov.uk/uksi/2013/440/article/7/5/a) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(3)(d)(i)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/3/d/i)
+
+[^key-864daa66a14601a7e4fdd74ec214b4f6]: Textual amendment: Words in [art. 7(5)(b)](https://www.legislation.gov.uk/uksi/2013/440/article/7/5/b) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/3/d/ii)
+
+[^key-3aa6aeafa579c97f9b7434e11765fac1]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2013/440/article/8) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^key-a424a69dd1e273f3611f8694a8d917a7]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2013/440/article/9) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^key-bb219847d4dee55ae14bdaa0d0568a80]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2013/440/article/10) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^key-1d1e4f9af67ff227b0ba6e191018ec04]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2013/440/article/11) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^f00011]: Footnote: Section 54A was inserted by [S.I. 2012/916](https://www.legislation.gov.uk/uksi/2012/916) and is substituted by the 2012 Act, section 11.
+
+[^f00012]: Footnote: Section 55Z1 is substituted by section 11.
+
+[^key-2f15484c7ad1a4952141bc96b6750883]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2013/440/article/12) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^f00013]: Footnote: Section 54B was inserted by [S.I. 2012/916](https://www.legislation.gov.uk/uksi/2012/916) and is substituted by the 2012 Act, section 11.
+
+[^f00014]: Footnote: Section 55Z2 is substituted by section 11.
+
+[^key-9a6e6c0697a56d209ec4a5092a5a1eec]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2013/440/article/13) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^f00015]: Footnote: Section 59 is amended by the 2012 Act, section 14.
+
+[^f00016]: Footnote: Section 62 is amended by the 2012 Act, Schedule 5, paragraph 6.
+
+[^f00017]: Footnote: Section 60 is amended by the 2012 Act, Schedule 5, paragraph 4.
+
+[^f00018]: Footnote: Subsection (3A) is inserted by the 2012 Act, Schedule 5, paragraph 5.
+
+[^key-53a493670654a3f79097a08fd8c6dc8c]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2013/440/article/14) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^f00019]: Footnote: 34 & 35 Vict c. xxi. Section 315, which confers Part 4 permission on Lloyd’s is substituted by the 2012 Act, section 40.
+
+[^key-661ba7cd32ef94488c292fe03d3ef30b]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2013/440/article/15) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^f00020]: Footnote: “EEA firm” is defined by section 425 of, and paragraph 5 of Schedule 3 to, FSMA 2000 an investment firm, a credit institution, a financial institution, certain types of insurance or reinsurance undertaking, an insurance intermediary, a UCITS management company or a person authorised under the emission allowance auctioning regulation. Section 425 was amended by [S.I. 2003/2066](https://www.legislation.gov.uk/uksi/2003/2066), [2004/3379](https://www.legislation.gov.uk/uksi/2004/3379), [2006/2975](https://www.legislation.gov.uk/uksi/2006/2975), [2007/126](https://www.legislation.gov.uk/uksi/2007/126) and [3253](https://www.legislation.gov.uk/uksi/2007/3253), [2012/1906](https://www.legislation.gov.uk/uksi/2012/1906). Paragraph 5 is amended by [S.I. 2003/1473](https://www.legislation.gov.uk/uksi/2003/1473) and [2066](https://www.legislation.gov.uk/uksi/2003/2066), [2004/3379](https://www.legislation.gov.uk/uksi/2004/3379), [2006/3221](https://www.legislation.gov.uk/uksi/2006/3221), [2007/126](https://www.legislation.gov.uk/uksi/2007/126) and [3253](https://www.legislation.gov.uk/uksi/2007/3253), [2011/1613](https://www.legislation.gov.uk/uksi/2011/1613) and [2012/1906](https://www.legislation.gov.uk/uksi/2012/1906)
+
+[^f00021]: Footnote: Paragraph 13 was amended by [S.I. 2003/1473](https://www.legislation.gov.uk/uksi/2003/1473) and [2066](https://www.legislation.gov.uk/uksi/2003/2066), [20007/126](https://www.legislation.gov.uk/uksi/2007/126) and [2012/1906](https://www.legislation.gov.uk/uksi/2012/1906) and is further amended by the 2012 Act, Schedule 4, Part 1, paragraph 2.
+
+[^f00022]: Footnote: Paragraph 14 was amended by [S.I. 2003/1473](https://www.legislation.gov.uk/uksi/2003/1473) and [2066](https://www.legislation.gov.uk/uksi/2003/2066) and [20007/126](https://www.legislation.gov.uk/uksi/2007/126) and is further amended by the 2012 Act, Schedule 4, Part 1, paragraph 3.
+
+[^f00023]: Footnote: Section 34 is amended by the 2012 Act, Schedule 4, Part 3, paragraph 27.
+
+[^f00024]: Footnote: Section 31 is amended by the 2012 Act, section 11.
+
+[^key-fb2d0e4fb4f3b0b0c1a9475ac68b3c1b]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2013/440/article/16) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^key-94ae59556d4ade2f4f6fc2830c3a8e6d]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2013/440/article/17) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^key-b06afb63c54209d4c89c803ce8354942]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2013/440/article/18) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^key-7eb2fcf53edabb5d5a2a21535f8a97e7]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2013/440/article/19) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^f00025]: Footnote: Paragraph 19 was amended by [S.I.s 2003/1473](https://www.legislation.gov.uk/uksi/2003/1473) and [2066](https://www.legislation.gov.uk/uksi/2003/2066), [2004/3379](https://www.legislation.gov.uk/uksi/2004/3379), [2006/3221](https://www.legislation.gov.uk/uksi/2004/3221), [2007/126](https://www.legislation.gov.uk/uksi/2007/126) and [3253](https://www.legislation.gov.uk/uksi/2007/3253), [2011/1613](https://www.legislation.gov.uk/uksi/2011/1613) and [2012/1906](https://www.legislation.gov.uk/uksi/2012/1906) and is further amended by the 2012 Act, Schedule 4, Part 1, paragraph 10.
+
+[^f00026]: Footnote: Paragraph 18A is inserted by the 2012 Act, Schedule 4, Part 1, paragraph 9.
+
+[^key-fdc65d0a17f8598c154123fc45d80daa]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2013/440/article/20) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^f00027]: Footnote: Paragraph 20 was amended by [S.Is. 2001/1376](https://www.legislation.gov.uk/uksi/2001/1376), [2003/2066](https://www.legislation.gov.uk/uksi/2003/2066), [2007/126](https://www.legislation.gov.uk/uksi/2007/126) and [2011/1613](https://www.legislation.gov.uk/uksi/2011/1613) and [2012/1906](https://www.legislation.gov.uk/uksi/2012/1906) and is further amended by the 2012 Act, Schedule 4, Part 1, paragraph 11.
+
+[^key-9b20f1f6a943d3891b650263057cef94]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2013/440/article/21) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^f00028]: Footnote: “Treaty firm” is defined by section 425 of, and paragraph 1 of Schedule 4 to, FSMA 2000. Paragraph 1 was amended by the Financial Services Act 2010, section 24 and Schedule 2, Part 1, paragraph 35.
+
+[^f00029]: Footnote: Paragraph 3 was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and is further amended by the 2012 Act, Schedule 4, Part 2, paragraph 23.
+
+[^f00030]: Footnote: Section 35 is amended by the 2012 Act, Schedule 4, Part 3, paragraph 28.
+
+[^key-0b11722776741c92fbc6aba9d863cd6d]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2013/440/article/22) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^key-6d087a7005858bd99196723d98230345]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2013/440/article/23) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+
+[^f00031]: Footnote: Paragraph 5 is amended by the 2012 Act, Schedule 4, Part 2, paragraph 26.

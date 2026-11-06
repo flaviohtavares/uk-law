@@ -1,0 +1,74 @@
+---
+title: The Building Societies (Members' Requisitions) Order 1999
+id: uksi/1999/3031
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1999-11-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1999/3031
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/3031/pdfs/uksi_19993031_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/3031/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Societies (Members' Requisitions) Order 1999
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1999 No. 3031
+
+BUILDING SOCIETIES
+
+The Building Societies (Members' Requisitions) Order 1999
+
+Made
+
+9th November 1999
+
+Laid before Parliament
+
+10th November 1999
+
+Coming into force
+
+1st December 1999
+
+The Building Societies Commission, with the consent of the Treasury, in exercise of the powers conferred on it by paragraph 20A(13) of Schedule 2 to the Building Societies Act 1986[^f00001], hereby makes the following Order:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Building Societies (Members' Requisitions) Order 1999 and shall come into force on 1st December 1999.
+
+## 2. Amendment of Schedule 2 to the Building Societies Act 1986
+
+In paragraph 20A(2) of Schedule 2 to the Building Societies Act 1986 (special meeting on members' requisition) for “100” there is substituted “500”.
+
+In witness whereof the common seal of the Building Societies Commission is hereunto affixed, and is authenticated by me, a person authorised under paragraph 14 of Schedule 1 to the Building Societies Act 1986, on 5th November 1999.
+
+G. S. Johnson
+
+Secretary of the Commission
+
+We consent to this Order.
+
+Jim Dowd
+
+Bob Ainsworth
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+9th November 1999
+
+(This note is not part of the Order)
+
+This Order amends the definition of a members' requisition in paragraph 20A(2) of Schedule 2 to the Building Societies Act 1986 by increasing to 500 the minimum number of a building society’s members needed to requisition a special meeting of the society.
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53); paragraph 20A of Schedule 2 was inserted by section 25 of the Building Societies Act [1997 (c. 32)](https://www.legislation.gov.uk/ukpga/1997/32).

@@ -1,0 +1,3398 @@
+---
+title: The St Helena, Ascension and Tristan da Cunha Constitution Order 2009, SCHEDULE
+act: The St Helena, Ascension and Tristan da Cunha Constitution Order 2009
+section: schedule
+status: revised
+text_date: '2021-07-21'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2009/1751/schedule
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The St Helena, Ascension and Tristan da Cunha Constitution Order 2009, SCHEDULE
+
+> Text as at 2021-07-21.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## SCHEDULE — THE CONSTITUTION OF ST HELENA, ASCENSION AND TRISTAN DA CUNHA[^key-5fc98ea3949295112c2142348605b729][^key-ff53b902b22fb0a6a4538ea085e23642]
+
+*Extent: E+W+S+N.I.*
+
+### PREAMBLE
+
+The people of St Helena, Ascension and Tristan da Cunha:
+
+- (a) wishing to affirm their allegiance to the United Kingdom, its Government and the Crown;
+- (b) mindful of the historic link between St Helena and the United Kingdom that dates back to 1659, the Charter granted for St Helena by King Charles II in 1673 that reaffirmed St Helena as belonging to the British Crown, the provision for a Governor and the office of Sheriff to enforce the laws issued by the East India Company that was made by the Laws and Constitution for the Island of St Helena of 1682, and the transfer of rule of the island to His Majesty’s Government on 22 April 1834 under the Government of India Act 1833, now called the Saint Helena Act 1833;
+- (c) acknowledging the Letters Patent of Queen Victoria dated 6 June 1859 which constituted the Islands of St Helena, Ascension and Tristan D’Acunha to be a distinct and separate Bishop’s See and Diocese called “The Bishoprick of St Helena” and declared Jamestown to be a city called the “City of James Town”;
+- (d) recalling that Britain took possession of Ascension in 1815 and established a small naval garrison there, the Island remaining under Admiralty supervision until by Letters Patent of King George V dated 12 September 1922 it became a Dependency of St Helena;
+- (e) also recalling that Tristan da Cunha was garrisoned and possessed by Britain in 1816, and that by Letters Patent of King George VI dated 12 January 1938 the islands of Tristan da Cunha, Gough, Nightingale and Inaccessible became Dependencies of St Helena;
+- (f) satisfied that their British citizenship has been restored, and recalling that everyone has the right to a nationality and the right not to be arbitrarily deprived of his or her nationality, and wishing to continue and strengthen their relationship with the United Kingdom;
+- (g) recognising that all peoples have the right of self-determination, by virtue of which they freely determine their political status and freely pursue their economic, social and cultural development;
+- (h) mindful of the fact that St Helenians, whatever their diverse backgrounds, have become fused into a single, harmonious community;
+- (i) noting the resourcefulness of the people of St Helena, Ascension and Tristan da Cunha and their respect for government under the law that has made the islands safe havens in the South Atlantic over the centuries;
+- (j) mindful of the fact that, while separate territories, St Helena, Ascension and Tristan da Cunha form a single territorial grouping under the Crown;
+- (k) wishing to continue as communities of tolerance, with respect for government and the law, Christian and family values and protection of the environment;
+- (l) committed to government in partnership with the United Kingdom on the basis of mutual obligations and responsibilities, to democratic principles and to promotion and protection of fundamental human rights and freedoms;
+
+are determined, with the United Kingdom Government and other members of the international community, to build a sound future on the islands for their local communities on the basis of this Constitution.
+
+#### 1. Application of this Constitution
+
+(1) Chapter 1 and the Schedule to the Constitution apply to St Helena.
+
+(2) Chapter 2 and the Schedule to the Constitution (except for paragraphs 3 and 4) apply to Ascension.
+
+(3) Chapter 3 and the Schedule to the Constitution (except for paragraphs 3 and 4) apply to Tristan da Cunha.
+
+### CHAPTER 1 — ST HELENA
+
+#### PART 1 — PARTNERSHIP VALUES
+
+##### 2. The partnership values
+
+The partnership between the United Kingdom and St Helena shall continue to be based on the following values—
+
+- (a) good faith;
+- (b) the rule of law;
+- (c) good government;
+- (d) sound financial management;
+- (e) the impartial administration of justice;
+- (f) the impartiality of the St Helena Public Service;
+- (g) the maintenance of public order;
+- (h) compliance with applicable international obligations of the United Kingdom and of St Helena; and
+- (i) the maintenance of international peace and security and the right of individual or collective self-defence.
+
+##### 3. Relationships between St Helena, Ascension and Tristan da Cunha
+
+The relationships between each of St Helena, Ascension and Tristan da Cunha shall continue to be based on the values listed in section 2 and a willingness to have due regard for one another’s interests.
+
+##### 4. Duty to give effect to the partnership values
+
+(1) In exercising their responsibilities and powers, all organs of government in St Helena have a duty to give effect to the partnership values.
+
+(2) As the partnership values are statements of political principle, no court shall find that any act or omission of an organ of government was unlawful on account of a failure to give effect to the partnership values.
+
+(3) Subject to subsection (2), the Supreme Court may enquire, but only on an application for judicial review, whether or not any organ of government (other than the Governor) has acted rationally and with procedural propriety in relation to giving effect to a partnership value.
+
+(4) No court shall enquire whether or not the Governor is justified in—
+
+- (a) deciding not to act in accordance with the advice of the Executive Council under section 43(5); or
+- (b) reserving a Bill for the signification of Her Majesty’s pleasure under section 74(3)(a),
+
+in order to ensure consistency with a partnership value.
+
+#### PART 2 — FUNDAMENTAL RIGHTS AND FREEDOMS OF THE INDIVIDUAL
+
+##### 5. Fundamental rights and freedoms of the individual
+
+Whereas every person in St Helena is entitled to the fundamental rights and freedoms of the individual, that is to say, has the right, without distinction of any kind, such as sex, sexual orientation, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, age, disability, birth or other status, but subject to respect for the rights and freedoms of others and for the public interest, to each and all of the following—
+
+- (a) life, liberty, security of the person and the protection of the law;
+- (b) freedom of conscience, of expression and of assembly and association;
+- (c) protection for his or her private and family life, the privacy of his or her home and other property; and
+- (d) protection from deprivation of property save in the public interest and on payment of fair compensation,
+
+this Part shall afford protection to these rights and freedoms, and to related rights and freedoms, subject to the limitations contained in this Part, being limitations designed to ensure that the enjoyment of the protected rights and freedoms by any individual does not prejudice the rights and freedoms of others or the public interest.
+
+##### 6. Protection of right to life
+
+(1) No person shall be deprived intentionally of his or her life.
+
+(2) A person shall not be regarded as having been deprived of his or her life in breach of this section if he or she dies as a result of the use, to such extent and in such circumstances as are permitted by law, of force which is no more than absolutely necessary—
+
+- (a) for the defence of any person from violence;
+- (b) in order to effect a lawful arrest or to prevent the escape of a person lawfully detained;
+- (c) for the purpose of suppressing a riot, insurrection or mutiny,
+
+or if he or she dies as a result of a lawful act of war.
+
+##### 7. Protection from inhuman treatment
+
+No person shall be subjected to torture or to inhuman or degrading treatment or punishment.
+
+##### 8. Protection from slavery and forced labour
+
+(1) No person shall be held in slavery or servitude.
+
+(2) No person shall be required to perform forced or compulsory labour.
+
+(3) For the purposes of this section, “forced or compulsory labour” does not include—
+
+- (a) any labour required of a member of a disciplined force as part of his or her duties or, in the case of a person who has conscientious objections to service in a naval, military or air force, any labour that the law requires that person to perform in place of such service;
+- (b) labour required of any person while he or she is lawfully detained that is reasonably necessary in the interests of hygiene or for the maintenance of the place in which he or she is detained;
+- (c) any labour required for the purpose of dealing with any situation arising during a period of public emergency or at a time when any other emergency or calamity threatens the well-being of the community, to the extent that the requiring of such labour is reasonably justifiable for that purpose; or
+- (d) any labour required in consequence of the sentence or order of a court.
+
+##### 9. Protection of right to personal liberty
+
+(1) No person shall be deprived of his or her personal liberty save as may be authorised by law in any of the following cases—
+
+- (a) as a result of his or her unfitness to plead to a criminal charge;
+- (b) in execution of the sentence or order of a court, whether established for St Helena or some other country, in respect of a criminal offence of which he or she has been convicted;
+- (c) in execution of an order of a court punishing him or her for contempt of that court or of another court or of a tribunal;
+- (d) in execution of the order of a court made in order to secure the fulfilment of any obligation imposed on him or her by law; but no person shall be deprived of his or her liberty merely on the ground of inability to fulfil a contractual obligation;
+- (e) in order to bring him or her before a court in execution of the order of a court;
+- (f) on reasonable suspicion of his or her having committed or of being about to commit a criminal offence under any law;
+- (g) in the case of a minor—
+  - (i) under the order of a court or in order to bring him or her before a court; or
+  - (ii) with the consent of the minor’s parent or guardian, for his or her education or welfare during any period ending not later than the date when the minor attains the age of majority or such lower age as may be provided by law;
+- (h) in order to prevent the spread of an infectious or contagious disease;
+- (i) in the case of a person who is, or is reasonably suspected to be, of unsound mind, addicted to drugs or alcohol, or a vagrant, in order to care for or treat him or her or for the protection of the community; or
+- (j) in order to prevent the unlawful entry of that person into St Helena, or to effect the expulsion, extradition or other lawful removal of that person from St Helena, or to restrict that person while he or she is being conveyed through St Helena in the course of his or her extradition or removal from one country to another as a wrongfully removed or retained child or as a convicted prisoner.
+
+(2) Any person who is arrested or detained shall be informed promptly, orally and in writing, in a language that he or she understands, of the reason for his or her arrest or detention.
+
+(3) Any person who is arrested or detained has the right, at any stage and at his or her own expense, to retain and instruct without delay a legal representative of his or her own choice, and to communicate privately with him or her, and in the case of a minor he or she shall also be given a reasonable opportunity to communicate with his or her parent or guardian; but when the person who is arrested or detained is unable to retain a legal representative at his or her own expense and the interests of justice so require, he or she shall be permitted to be represented by, and communicate privately with, a legal representative at the public expense.
+
+(4) Every person who is arrested shall be informed, as soon as he or she is brought to a police station or other place of custody, of his or her rights under subsection (3); and he or she shall also have the right, and shall be informed at the same time that he or she has the right, to remain silent and to have one person informed by the quickest practicable means of his or her arrest and whereabouts.
+
+(5) The exercise of the rights of communication conferred by subsections (3) and (4) may be delayed for such reasonable time as is provided by law, to the extent that the law in question is necessary in a democratic society for the prevention and detection of criminal offences.
+
+(6) Any person who is arrested or detained—
+
+- (a) in order to bring him or her before a court in execution of the order of a court ; or
+- (b) on reasonable suspicion of his or her having committed or being about to commit a criminal offence under any law,
+
+and who is not released, shall be brought without undue delay before a court.
+
+(7) When a person is brought before a court in accordance with subsection (6)(b), the court, without prejudice to any further proceedings which may be brought against him or her, shall, unless there is good reason for the person’s continued detention, release the person either unconditionally or upon reasonable conditions, including in particular such conditions as are reasonably necessary to ensure that the person appears at a later date for trial or for proceedings preliminary to trial.
+
+(8) Every person who is arrested or detained shall be entitled to take proceedings by which the lawfulness of his of her detention shall be decided speedily by a court and his or her release ordered if the detention is not lawful.
+
+(9) Any person who is unlawfully arrested or detained by any other person shall be entitled to compensation for such unlawful arrest or detention from that other person, from any person or authority on whose behalf that other person was acting or from them both; but a judge or a judicial officer, or an officer of a court or a police officer acting in pursuance of the order of a judge or a judicial officer, shall not be personally liable to pay compensation under this subsection in respect or anything done by him or her in good faith in the discharge of the functions of his or her office, and any liability to pay any such compensation shall be a liability of the Crown.
+
+(10) For the purposes of subsection (1)(b), a person charged with a criminal offence in respect of whom a special verdict has been returned that he or she committed the act or made the omission constituting the offence but was insane at the time shall be regarded as a person who has been convicted of a criminal offence, and the detention of that person in consequence of such a finding shall be regarded as detention in execution of the order of a court.
+
+##### 10. Provisions to secure a fair trial
+
+(1) If a person is charged with a criminal offence, then, unless the charge is withdrawn, the case shall be afforded a fair and public hearing within a reasonable time by an independent and impartial court established by law.
+
+(2) Every person who is charged with a criminal offence—
+
+- (a) shall be presumed to be innocent until he or she is proved or has pleaded guilty;
+- (b) shall be informed promptly, in a language that he or she understands and in detail, of the nature of the offence charged;
+- (c) shall be given adequate time and facilities for the preparation of his or her defence;
+- (d) shall be permitted to defend himself or herself before the court in person or, at his or her own expense, by a legal representative of his or her own choice or, if unable to retain a legal representative at his or her own expense and the interests of justice so require, by a legal representative at the public expense;
+- (e) shall be given facilities to examine in person or by his or her legal representative the witnesses called before the court by the prosecution, and to obtain the attendance before the court and carry out the examination of witnesses to testify on his or her behalf on the same conditions as those applying to witnesses called by the prosecution; and
+- (f) shall be permitted to have without payment the assistance of an interpreter if he or she cannot understand the language used at his or her trial,
+
+and, except with his or her own free consent, the trial shall not take place in his or her absence, unless he or she so behaves in the court as to render the continuance of the proceedings in his or her presence impracticable and the court has ordered him or her to be removed and the trial to proceed in his or her absence.
+
+(3) When a person is tried for any criminal offence, he or she or any person authorised by him or her in that behalf shall, if he or she (the accused person) so requires and subject to payment of such reasonable fee as may be prescribed by law, be given within a reasonable time after judgment a copy of any record of the proceedings made by or on behalf of the court.
+
+(4) No person shall be held to be guilty of a criminal offence on account of any act or omission that did not, at the time it took place, constitute such an offence, and no penalty shall be imposed for any criminal offence that is severer in degree or description than the maximum penalty that might have been imposed for that offence at the time when it was committed.
+
+(5) No person who shows that he or she has been tried by a competent court for a criminal offence and either convicted or acquitted shall again be tried for that offence or for any other criminal offence of which he or she could have been convicted at the trial for that offence, save upon the order of a higher court in the course of appeal or review proceedings relating to the conviction or acquittal.
+
+(6) No person shall be tried for a criminal offence if he or she shows that he or she has been pardoned for that offence.
+
+(7) No person who is tried for a criminal offence shall be compelled to give evidence at his or her trial.
+
+(8) Every person who has been convicted by a court of a criminal offence shall have the right to appeal to a higher court against his or her conviction or his or her sentence or both; but—
+
+- (a) nothing contained in any law shall be held to breach this subsection—
+  - (i) to the extent that it precludes an appeal by a person against his or her conviction of an offence if he or she pleaded guilty to that offence at trial; or
+  - (ii) to the extent that it makes reasonable provision with respect to the grounds on which any such appeal may be made or with respect to the practice and procedure to be observed in relation to the making, hearing and disposal of any such appeal; and
+- (b) this subsection shall not apply in relation to the conviction of a person by a higher court, or in relation to his or her sentence upon such conviction, if he or she was convicted by that court on an appeal against his or her acquittal by a lower court.
+
+(9) When a person has, by a final decision of a court, been convicted of a criminal offence and, subsequently, his or her conviction has been quashed, or he or she has been pardoned, on the ground that a newly-disclosed fact shows that there has been a miscarriage of justice, he or she shall be compensated out of public funds for any punishment that he or she has suffered as a result of the conviction unless it is proved that the non-disclosure in time of that fact was wholly or partly his or her fault.
+
+(10) For the determination of the existence or extent of his or her civil rights and obligations, every person shall have the right to a fair hearing within a reasonable time before an independent and impartial court, tribunal or other authority established by law.
+
+(11) All proceedings for the determination of the existence or extent of any person’s civil rights or obligations before any court or other authority, including the announcement of the decision of the court or other authority, shall be held in public.
+
+(12) Nothing in subsection (1) or (11) shall prevent a court or other authority from excluding from criminal or civil proceedings persons other than the parties thereto and their legal representatives, or forbidding the publication of the names of the parties or other details of the evidence or of the decision to such an extent as the court or other authority—
+
+- (a) is empowered by law to do and considers necessary or expedient in circumstances where publicity would prejudice the interests of justice, or in interim proceedings, or in the interests of the welfare of minors or the protection of the private lives of persons concerned in the proceedings; or
+- (b) is empowered or required by law to do in the interests of defence, public safety, public order or public morality.
+
+(13) Nothing contained in or done under the authority of any law shall be held to breach—
+
+- (a) subsection (2)(a), to the extent that the law in question imposes on any person charged with a criminal offence the burden of proving particular facts;
+- (b) subsection (2)(e), to the extent that the law in question imposes reasonable conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds; or
+- (c) subsection (5), to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force; but any court so trying such a member and convicting him or her shall in sentencing him or her to any punishment take into account any punishment awarded him or her under that disciplinary law.
+
+##### 11. Protection of right of prisoners to humane treatment
+
+(1) All persons deprived of their liberty (in this section referred to as “prisoners”) shall have the right to be treated with humanity and with respect for the inherent dignity of the human person.
+
+(2) Every unconvicted prisoner shall be entitled to be treated in a manner appropriate to his or her status as such.
+
+(3) Every juvenile prisoner shall be treated in a manner appropriate to his or her age and legal status and, if he or she is an unconvicted prisoner and unless he or she is earlier released, shall have any criminal proceedings against him or her pursued with the greatest possible expedition.
+
+(4) Save where the interests of defence, public safety, public order, public morality, public health or the administration of justice otherwise require, or the facilities available for the detention of prisoners do not permit, or segregation would be detrimental to the well-being of a prisoner, unconvicted prisoners shall be segregated from convicted prisoners, and juvenile prisoners shall be segregated from adult prisoners.
+
+##### 12. Protection of freedom of movement
+
+(1) A person shall not be deprived of his or her freedom of movement, that is to say, the right to move freely throughout St Helena, the right to reside anywhere in St Helena, the right to enter St Helena, the right to leave St Helena and immunity from expulsion from St Helena.
+
+(2) Any restriction on a person’s freedom of movement as a result of his or her lawful detention shall not be held to breach this section.
+
+(3) Nothing contained in or done under the authority of any law shall be held to breach this section to the extent that the law in question provides—
+
+- (a) for restrictions on movement or residence within St Helena or on the right to leave St Helena of persons generally or any class of persons that are necessary in a democratic society in the interests of defence, public safety, public order, public morality or public health;
+- (b) for the imposition of restrictions, by order of a court, on the movement or residence within St Helena of any person or on any person’s right to leave St Helena either in consequence of his or her having been found guilty of a criminal offence or for the purpose of ensuring that he or she appears before a court at a later date for trial for a criminal offence or for proceedings relating to his or her extradition or lawful removal from St Helena;
+- (c) for the imposition of restriction on persons who do not have St Helenian status; but—
+  - (i) no restriction may be imposed by virtue only of this paragraph on the right of any such person, so long as he or she is lawfully present in St Helena, to move freely throughout St Helena and to reside anywhere in St Helena;
+  - (ii) no restriction may be imposed by virtue only of this paragraph on the right of any such person to leave St Helena; and
+  - (iii) no such person shall be liable, by virtue only of this paragraph, to be expelled from St Helena unless the requirements specified in subsection (4) are satisfied;
+- (d) for the imposition of restrictions on the acquisition or use by any person of land or other property in St Helena;
+- (e) for the imposition of restrictions on the movement or residence within St Helena or on the right to leave St Helena of any officer of the St Helena Public Service that are reasonably required for the proper performance of his or her functions;
+- (f) for the removal of a person from St Helena to be tried or punished in some other country for a criminal offence under the law of that other country or to undergo imprisonment in some other country in execution of the sentence of a court in respect of a criminal offence of which he or she has been convicted;
+- (g) for the removal from St Helena of a wrongfully removed or retained child; or
+- (h) for the imposition of restrictions on the right of any person to leave St Helena that are necessary in a democratic society in order to secure the fulfilment of any obligations imposed on that person by law.
+
+(4) The requirements to be satisfied for the purposes of subsection (3)(c)(iii) (that is to say, before a person who does not have St Helenian status may be expelled from St Helena) are as follows—
+
+- (a) the decision to expel him or her is taken in a manner and on grounds prescribed by law;
+- (b) he or she has the right, save where the interests of defence, public safety or public order otherwise require—
+  - (i) to have the decision to expel him or her reviewed by a competent authority prescribed by law;
+  - (ii) to know the reasons for the decision to expel him or her and to submit reasons against his or her expulsion to that authority; and
+  - (iii) for either of those purposes, to be represented before that authority or some other person or authority designated in that behalf by that authority.
+
+##### 13. Protection for private and family life and for privacy of home and other property
+
+(1) Every person shall have the right to respect for his or her private and family life, his or her home and his or her correspondence or other means of communication, and, except with his or her own free consent, no person shall be subjected to the search of his or her person or property or the entry by others on his or her premises.
+
+(2) Nothing contained in or done under the authority of any law shall be held to breach this section to the extent that the law in question is necessary in a democratic society—
+
+- (a) in the interests of defence, public safety, public order, public morality, public health, town and country planning, the development of mineral resources, or the development or use of any other property in such a manner as to promote the public benefit;
+- (b) to protect the rights and freedoms of other persons;
+- (c) to enable an officer or agent of the Government of St Helena or any public authority to enter on the premises of any person in order to inspect those premises or anything on them for the purpose of any tax, rate or due or in order to carry out work connected with any property that is lawfully on those premises and that belongs to the Government of St Helena or that public authority;
+- (d) to authorise, for the purpose of enforcing the judgment or order of a court, the search of any person or property by order of a court or the entry upon any premises by such order; or
+- (e) for the purpose of preventing or detecting breaches of the criminal, customs or immigration law.
+
+##### 14. Protection of right to marry, and of spouses’ and children’s rights
+
+(1) Every man and woman of marriageable age (as determined by or under any law) shall have the right to marry and found a family.
+
+(2) No person shall be compelled to marry, that is to say, to do so without his or her free and full consent.
+
+(3) Nothing contained in or done under the authority of any law shall be held to breach subsection (1) to the extent that the law in question is necessary in a democratic society—
+
+- (a) in the interests of public order, public morality or public health;
+- (b) to regulate, in the public interest, the procedures and modalities of marriage; or
+- (c) for the protection of the rights and freedoms of others.
+
+(4) Spouses shall be entitled to equal rights and shall be subject to equal responsibilities as between themselves and as regards their children both during marriage and, if the marriage is dissolved, thereon and thereafter, but this equality of rights and responsibilities shall be subject to such arrangements or measures as may be agreed, or as may be ordered by a court.
+
+(5) Every child shall have the right to such measures of protection as are required by his or her status as a minor, on the part of his or her family, society and the Government of St Helena, and which are appropriate and proportionate to the circumstances of St Helena.
+
+##### 15. Protection of freedom of conscience
+
+(1) Except with his or her own free consent, no person shall be hindered in his or her enjoyment of his or her freedom of conscience, which includes freedom of thought and of religion, freedom to change his or her religion or belief, and freedom, either alone or in community with others and either in public or in private, to manifest and propagate his or her religion or belief in worship, teaching, practice and observance.
+
+(2) Except with his or her own free consent (or, if he or she is a minor, the consent of his or her parent or guardian), no person attending any place of education shall be required to receive religious instruction or to take part in or attend any religious ceremony or observance if that instruction, ceremony or observance relates to a religion other than his or her own.
+
+(3) No religious community or denomination shall be prevented from or hindered in providing religious instruction for persons of that community or denomination in the course of any education provided by it whether or not it is in receipt of any government subsidy, grant or other form of financial assistance designed to meet, in whole or in part, the cost of such education.
+
+(4) No person shall be compelled to take any oath which is contrary to his or her religion or belief or to take any oath in a manner which is contrary to his or her religion or belief.
+
+(5) Nothing contained in or done under the authority of any law shall be held to breach this section to the extent that the law in question is necessary in a democratic society—
+
+- (a) in the interests of defence, public safety, public order, public morality or public health; or
+- (b) for the protection of the rights and freedoms of other persons, including the right of any person to observe and practise his or her religion or belief without the unsolicited intervention of adherents of any other religion or belief.
+
+(6) References in this section to a religion shall be construed as including references to a religious denomination, and cognate expressions shall be construed accordingly.
+
+##### 16. Protection of right to education
+
+(1) This section is without prejudice to section 15.
+
+(2) Every child of the appropriate age, as provided by law, shall be entitled to receive primary education which shall, subject to subsection (3), be free.
+
+(3) Every person who is the parent or legal guardian of a child shall be entitled to have his or her child (of whatever age) educated, at his or her own expense unless a law otherwise provides, in a private school (that is to say, a school other than one established by the Government of St Helena or a public authority) and, in such a school, to ensure the religious and moral education of his or her child in accordance with his or her own convictions.
+
+(4) Nothing contained in or done under the authority of any law shall be held to breach subsection (3) to the extent that the law in question is necessary in a democratic society for the purpose of making provision requiring private schools, as a condition of their being allowed to operate and on terms no more onerous than are applicable to schools established by the Government of St Helena or a public authority, to satisfy—
+
+- (a) such minimum educational standards (including standards relating to the qualifications of teaching staff and other staff) as may be prescribed by or under that or any other law; and
+- (b) such minimum standards imposed in the interests of public order, public morality or public health as may be so prescribed.
+
+##### 17. Protection of freedom of expression
+
+(1) Except with his or her own free consent, no person shall be hindered in the enjoyment of his or her freedom of expression.
+
+(2) For the purposes of this section a person’s freedom of expression includes his or her freedom to hold opinions without interference, his or her freedom to receive information and ideas without interference, his or her freedom to disseminate information and ideas without interference (whether the dissemination be to the public generally or to any person or class of persons) and his or her freedom from interference with his or her correspondence or other means of communication.
+
+(3) Nothing contained in or done under the authority of any law shall be held to breach this section to the extent that the law in question is necessary in a democratic society—
+
+- (a) in the interests of defence, public safety, public order, public morality or public health;
+- (b) for the protection of the reputations, rights and freedoms of other persons, or the private lives of persons concerned in legal proceedings or proceedings before any other tribunal or authority, preventing the disclosure of information received in confidence, maintaining the authority and independence of the courts, or regulating telephony, posts, telegraphy, electronic communications, broadcasting or public shows; or
+- (c) to impose restrictions on an officer of the St Helena Public Service for the proper performance of his or her functions.
+
+##### 18. Protection of freedom of assembly and association
+
+(1) Except with his or her own free consent, no person shall be hindered in the enjoyment of his or her freedom of peaceful assembly and association, that is to say, his or her right to assemble freely and associate with other persons and in particular to form or belong to trade unions or other associations for the promotion and protection of his or her interests.
+
+(2) Nothing contained in or done under the authority of any law shall be held to breach this section to the extent that the law in question is necessary in a democratic society—
+
+- (a) in the interests of defence, public safety, public order, public morality or public health;
+- (b) for the protection of the rights and freedoms of other persons; or
+- (c) to impose on officers of the St Helena Public Service restrictions that interfere as little as is practicable with the rights and freedoms conferred by this section, for the purposes of safeguarding the impartiality of the Public Service, the discipline of the police force or of any prison service or the provision of public services that are essential to public order, public safety or public health.
+
+##### 19. Protection from deprivation of property
+
+(1) No property of any description shall be compulsorily taken possession of, and no interest in or right to or over property of any description shall be compulsorily acquired, except in accordance with a law and where the following conditions are satisfied—
+
+- (a) the taking of possession or acquisition is in the public interest; and
+- (b) there is reasonable justification for the causing of any hardship that may result to any person having an interest in or right to or over the property; and
+- (c) provision is made by a law—
+  - (i) for the prompt payment of adequate compensation; and
+  - (ii) securing to any person having an interest in or right to or over the property a right of access to the Supreme Court, whether direct or on appeal from another tribunal or authority, for the determination of his or her interest or right, the legality of the taking of possession or acquisition and the amount of any compensation to which he or she is entitled, and for the purpose of obtaining prompt payment of that compensation.
+
+(2) No person who is entitled to compensation under this section shall be prevented from remitting, within a reasonable time after he or she has received any amount of that compensation, the whole of that amount (free from any deduction, charge or tax imposed by public authority in respect of its remission) to any country of his or her choice outside St Helena.
+
+(3) Without prejudice to the generality of the expression “in the public interest” in subsection (1), nothing contained in or done under the authority of any law shall be held to breach this section to the extent that the law in question makes provision—
+
+- (a) for controlling the use of any property, interest or right in accordance with the general interest; or
+- (b) for taking possession of or acquiring any property, interest or right—
+  - (i) as a consequence of a breach of the law;
+  - (ii) to secure the payment of taxes or other like impositions; or
+  - (iii) for the administration or enforcement of the law regulating the private civil rights and obligations of persons in respect of property.
+
+##### 20. Protection from arbitrary deprivation of St Helenian status or of British citizenship
+
+(1) No person with St Helenian status shall be arbitrarily deprived of that status, whether by legislation or otherwise.
+
+(2) As everyone has the right to a nationality, no person shall be arbitrarily deprived of his or her British citizenship, whether by legislation or otherwise.
+
+##### 21. Protection from discrimination
+
+(1) Subject to subsection (4), no law shall make any provision which is discriminatory either of itself or in its effect.
+
+(2) Subject to subsections (4) and (6), no person shall be treated in a discriminatory manner by any organ or officer of the executive or judicial branches of government or any person acting in the performance of the functions of the St Helena Public Service or any public authority.
+
+(3) In this section, the expression “discriminatory” means affording different treatment to different persons on any ground such as sex, sexual orientation, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, age, disability, birth or other status.
+
+(4) Nothing contained in or done under the authority of any law shall be held to breach this section to the extent that it has an objective and reasonable justification and there is a reasonable proportion between the provision of law in question or, as the case may be, the thing done under it and the aim which that provision or the thing done under it seeks to realise.
+
+(5) No person shall be treated in a discriminatory manner in respect of access to any of the following places to which the general public have access, namely, shops, hotels, restaurants, eating-houses, licensed premises, places of entertainment or places of resort; but the proprietor of such a place has a duty to provide amenities and equipment facilitating the access of disabled persons only to the extent provided by a law.
+
+(6) For the purposes of subsection (2), the exercise, in relation to a person, of any discretion to institute, conduct or discontinue criminal or civil proceedings in any court shall not in itself be held to breach this section.
+
+##### 22. Derogations from fundamental rights and freedoms under emergency powers
+
+Nothing contained in or done under the authority of any law shall be held to breach any of the provisions of this Part other than sections 6, 7, 8(1), 10(2)(a), 10(4), 10(5), 10(6) and 10(7) to the extent that the law in question authorises the taking during any period of public emergency of measures that are strictly required for dealing with the situation that exists in St Helena during that period.
+
+##### 23. Protection of persons detained under emergency laws
+
+(1) When a person is detained by virtue of a law referred to in section 22, the following provisions shall apply—
+
+- (a) he or she shall, as soon as reasonably possible, and in any case not more than seven days after the start of his or her detention, be informed in detail, in a language that he or she understands, of the grounds upon which he or she is detained and furnished with a written statement, in a language that he or she understands or, if this is not reasonably practicable, in English, specifying those grounds in detail;
+- (b) not more than fourteen days after the start of his or her detention a notification shall be published in a public place (and as soon as possible thereafter in the *Gazette*) stating that he or she has been detained and setting out the provision of law by virtue of which his or her detention is authorised;
+- (c) not more than one month after the start of his or her detention and thereafter during the detention at intervals of not more than six months, his or her case shall be reviewed by an independent and impartial tribunal established by law and presided over by a person appointed by the Chief Justice;
+- (d) he or she shall be given reasonable facilities to consult a legal representative of his or her own choice (or, if he or she is unable to retain a legal representative, such person as the tribunal may approve) who shall be permitted to make representations to the tribunal appointed for the review of his or her case; and
+- (e) at the hearing of his or her case by the tribunal appointed for its review he or she shall be permitted to appear in person or by a legal representative of his or her own choice or, if he or she is unable to retain a legal representative, by such person as the tribunal may approve.
+
+(2) On any review by a tribunal of the case of a detained person in pursuance of this section, the tribunal may make recommendations concerning the necessity or expediency of continuing the detention to the authority by which it was ordered but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations.
+
+(3) Nothing in subsection (1)(d) or subsection (1)(e) shall be construed as entitling a person to legal representation at the public expense, except when the interests of justice so require.
+
+##### 24. Enforcement of protective provisions
+
+(1) If any person alleges that any of the provisions of this Part has been, is being or is likely to be breached in relation to him or her (or, in the case of a person who is detained, if any other person alleges such a breach in relation to the detained person), then, without prejudice to any other action with respect to the same matter that is lawfully available, that person (or that other person) may apply to the Supreme Court for redress.
+
+(2) The Supreme Court shall have original jurisdiction—
+
+- (a) to hear and determine any application made by any person in pursuance of subsection (1); and
+- (b) to determine any question arising in the case of any person that is referred to it in pursuance of subsection (7),
+
+and may make such declarations and orders, issue such writs and give such directions as it considers appropriate for the purpose of enforcing or securing the enforcement of any of the provisions of this Part.
+
+(3) The Supreme Court may decline to exercise its powers under subsection (2) if it is satisfied that adequate means of redress for the breach alleged are or have been available to the person concerned under any other law.
+
+(4) Without prejudice to the generality of subsection (2), where, in the exercise of its powers under that subsection, the Supreme Court determines that one of the provisions of this Part has been breached in relation to any person, it—
+
+- (a) may order the award to that person of such damages as the Supreme Court considers just and appropriate; or
+- (b) may direct the court which made the reference to it under subsection (7) (“the referring court”) to order the award to that person of such damages as that court considers just and appropriate, within such limits (if any) as the Supreme Court declares.
+
+(5) An award of damages may not be made in pursuance of subsection (4) in respect of the making of any law but such an award may be made in respect of anything done by any organ or officer of the executive or judicial branches of government or any person acting in the performance of the functions of the St Helena Public Service or any public authority.
+
+(6) Subsection (4) is without prejudice to section 9(9).
+
+(7) If in any proceedings in a subordinate court any question arises as to the breach of any of the provisions of this Part, the person presiding in that court may, and shall if any party to the proceedings so requests, refer the question to the Supreme Court unless, in the opinion of the court in which the question arose, the raising of the question is merely frivolous or vexatious.
+
+(8) If the effect of a provision of this Part is in issue in proceedings before the Supreme Court, the Court of Appeal or Her Majesty in Council, to which the Crown is not a party—
+
+- (a) the Attorney General may intervene; and
+- (b) the presiding judge must not hear and determine the proceedings until satisfied that the Attorney General has received notice of the proceedings and has had sufficient time to decide whether or not to intervene.
+
+(9) Where any question is referred to the Supreme Court in pursuance of subsection (7), the Supreme Court shall give its decision upon the question and the referring court shall dispose of the case in accordance with that decision or, if that decision is the subject of an appeal to the Court of Appeal or to Her Majesty in Council, in accordance with the decision of the Court of Appeal or, as the case may be, of Her Majesty in Council.
+
+(10) An appeal shall lie as of right to the Court of Appeal from any final determination of any application or question by the Supreme Court under this section, and an appeal shall lie as of right to Her Majesty in Council from the final determination by the Court of Appeal of the appeal in any such case; but no appeal shall lie from a determination by the Supreme Court under this section dismissing an application on the ground that it is frivolous or vexatious.
+
+(11) The Legislature may by Ordinance confer on the Supreme Court such powers in addition to those conferred by this section as may appear to be necessary or desirable for the purpose of enabling that Court more effectively to exercise the jurisdiction conferred on it by this section.
+
+(12) The Chief Justice or the President of the Court of Appeal, as the case requires, may make Rules of Court with respect to the practice and procedure—
+
+- (a) of the Supreme Court in relation to the jurisdiction and powers conferred on it by or under this section;
+- (b) of the Supreme Court or the Court of Appeal in relation to appeals under this section from determinations of the Supreme Court or the Court of Appeal; and
+- (c) of subordinate courts in relation to references to the Supreme Court under subsection (7),
+
+including provisions with respect to the time within which any application, reference or appeal shall or may be made or brought.
+
+##### 25. Application of this Part to the members of a disciplined force
+
+(1) A member of—
+
+- (a) any police force of St Helena;
+- (b) any prison service of St Helena;
+- (c) any fire service of St Helena; and
+- (d) any naval, military or air force raised in St Helena under the law of St Helena,
+
+who is charged with having committed an offence against the law of St Helena, other than a disciplinary offence, is entitled to the full protection of this Part.
+
+(2) A member of a force referred to in subsection (1) who is charged with having committed a disciplinary offence is entitled to the protection of sections 6, 7 and 8.
+
+(3) If a member of a force referred to in subsection (1) has been convicted of an offence against the law of St Helena other than a disciplinary offence, and is also convicted of a disciplinary offence arising out of the same conduct, the punishment for the first-mentioned offence must be taken into account in determining the punishment for the disciplinary offence.
+
+(4) A member of a visiting force who is charged with having committed an offence against the law of St Helena is entitled to the full protection of this Part.
+
+(5) A member of a visiting force who is charged in St Helena with having committed a disciplinary offence, including an offence against any criminal law of the sending State which, by virtue of a provision of the disciplinary law of that force, applies to that member while in St Helena, is entitled to the protection of sections 6, 7 and 8.
+
+(6) In this section, “sending State”, in relation to a member of a visiting force, means the country, other than St Helena, in or under the law of which that force was raised.
+
+#### PART 3 — THE GOVERNOR
+
+##### 26. The Governor
+
+(1) There shall be a Governor of St Helena.
+
+(2) Appointments to the office of Governor shall be made by Her Majesty by Commission under Her Sign Manual and Signet and a person appointed to the office shall hold office during Her Majesty’s pleasure.
+
+(3) A person appointed to the office of Governor shall, before entering upon the functions of that office, make before the Sheriff of St Helena oaths or affirmations of allegiance and for the due execution of that office in the forms set out in the Schedule.
+
+(4) The Governor shall have such functions as are conferred or imposed on him or her by this Constitution or any other law and such other functions as Her Majesty may from time to time be pleased to assign to him or her through a Secretary of State, and, subject to the provisions of this Constitution and of any other law by which any such functions are conferred or imposed, shall do and execute all things that belong to his or her office according to such instructions, if any, as Her Majesty may from time to time see fit to give him or her through a Secretary of State; but no court shall enquire whether or not he or she has complied with any such instructions.
+
+##### 27. Acting Governor
+
+(1) Whenever the office of Governor is vacant or the Governor is absent from St Helena or is for any other reason unable to perform the functions of his or her office those functions shall, during Her Majesty’s pleasure, be assumed and performed as Acting Governor by such person as Her Majesty may designate in that behalf by instructions given through a Secretary of State.
+
+(2) Before assuming the functions of the office of Governor, the person designated shall make the oaths or affirmations directed by section 26(3) to be made by the Governor.
+
+(3) A person who has assumed the functions of the office of Governor shall cease to perform those functions on being notified by the Governor that he or she is about to resume or assume those functions.
+
+(4) For the purposes of this section the Governor shall not be regarded as absent from St Helena, or as unable to perform the functions of the office of Governor, at any time when there is a subsisting appointment of a Deputy under section 28.
+
+(5) In this section, “the Governor” means the person holding the office of Governor.
+
+##### 28. Governor’s Deputy
+
+(1) Whenever the Governor—
+
+- (a) has occasion to be absent from the seat of government for a period that he or she has reason to believe will be of short duration;
+- (b) has occasion to visit Ascension or Tristan da Cunha; or
+- (c) is suffering from an illness that he or she has reason to believe will be of short duration,
+
+the Governor may, by instrument under the public seal, appoint any person in St Helena to be his or her Deputy during such absence or illness and in that capacity to discharge on his or her behalf during such absence or illness such of the functions of the office of Governor as may be specified in that instrument.
+
+(2) The power and authority of the Governor shall not be abridged, altered or in any way affected by the appointment of a Deputy under this section otherwise than as Her Majesty may at any time think proper to direct by instructions to the Governor through a Secretary of State, and every such Deputy shall conform to and observe all instructions that the Governor may from time to time address to him or her.
+
+(3) A person appointed as Deputy under this section shall hold that appointment for such period as may be specified in the instrument by which he or she is appointed, and his or her appointment may be revoked at any time by Her Majesty by instructions given to the Governor through a Secretary of State or by the Governor.
+
+(4) In this section, “the Governor” does not include a Deputy appointed under this section.
+
+(5) The powers conferred on the Governor by this section shall be exercised by the Governor in his or her discretion.
+
+##### 29. Powers of pardon, etc.
+
+(1) The Governor may, in Her Majesty’s name and on Her Majesty’s behalf—
+
+- (a) grant to any person concerned in or convicted of any offence a pardon, either free or subject to lawful conditions;
+- (b) grant to any person a respite, either indefinite or for a specified period, of the execution of any punishment imposed on that person for any offence;
+- (c) substitute a less severe form of punishment for any punishment imposed on any person for any offence; or
+- (d) remit the whole or part of any punishment imposed on any person for any offence or of any penalty or forfeiture otherwise due to Her Majesty on account of any offence.
+
+(2) The Governor shall exercise the powers conferred by this section acting in his or her discretion, but after consulting the Committee established by section 30.
+
+##### 30. Advisory Committee on the Prerogative of Mercy
+
+(1) There shall be for St Helena an Advisory Committee on the Prerogative of Mercy whose members shall be appointed by the Governor, acting after consultation with the Chief Minister[^key-494e06c2aa53c1a994a6f0e428804c2e], and in accordance with subsection (2).
+
+(2) The Committee shall consist of not fewer than three nor more than five members, of whom one may be a Minister[^key-2353af99f9fc91e9e869d2449ba8ecfe], and at least one shall represent the public interest; but no Member of the Legislative Council (except a Minister), judge or judicial officer shall be eligible to be a member of the Committee.
+
+(3) The Committee shall not be summoned except by the authority of the Governor, acting in his or her discretion; and the Governor shall preside at all meetings of the Committee.
+
+(4) No business shall be transacted at any meeting of the Committee unless there are at least three members present.
+
+(5) The office as a member of the Committee of any member appointed under subsection (1) shall become vacant if the Governor, acting after consultation with the Chief Minister[^key-4ee60bdc7fcbb3105599b1143ebbc5f2], revokes his or her appointment as a member of the Committee.
+
+(6) Subject to subsection (4), the Committee shall not be disqualified for the transaction of business by reason of any vacancy in its membership, and the validity of the transaction of any business of the Committee shall not be affected by reason only of the fact that some person who was not entitled to do so took part in the proceedings.
+
+(7) Subject to this section the Committee may regulate its own proceedings.
+
+##### 31. Powers to dispose of land
+
+Subject to this Constitution and any other law, the Governor or any person duly authorised by him or her in writing under his or her hand may, in Her Majesty’s name and on Her Majesty’s behalf, make and execute grants and other dispositions of any land or other immovable property in St Helena that is vested in Her Majesty in right of the Government of St Helena.
+
+##### 32. Public seal
+
+(1) There shall be a public seal of St Helena.
+
+(2) The Governor shall have custody of the public seal.
+
+(3) The public seal may be used to seal such public documents signed by the Governor or an officer subordinate to the Governor as should be sealed with the public seal.
+
+##### 33. Constitution of offices
+
+Subject to this Constitution and any other law, the Governor, in Her Majesty’s name and on Her Majesty’s behalf, may constitute offices for St Helena.
+
+#### PART 4 — THE EXECUTIVE
+
+##### 34. Executive authority
+
+(1) The executive authority of St Helena is vested in Her Majesty.
+
+(2) Subject to this Constitution, the executive authority of St Helena shall be exercised on behalf of Her Majesty by the Governor, either directly or through officers subordinate to him or her.
+
+(3) Nothing in this section shall preclude persons or authorities other than the Governor from exercising such functions as are or may be conferred on them by any law.
+
+##### 35. Executive Council
+
+(1) There shall be an Executive Council for St Helena, which shall consist of—
+
+- (a)[^key-d9471fbe03cb32c4280fe99e81f0ba6a] the Chief Minister appointed by the Governor in accordance with section 37C(1)(a);
+- (b) four other Ministers appointed by the Governor in accordance with section 37C(1)(b); and
+- (c) the Attorney General, as *ex officio* member, without the right to vote.
+
+(2)[^key-827f217bb2708d01754fdb41058f8d8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-707e57d641d069c83c9127bc013c6e1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-59060e06494e0e0d1c1ef7dd5bfad41f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 36. Collective responsibility[^key-db88fd12b123ffa4d175b6137a0f1947]
+
+The members of the Executive Council shall be collectively responsible to the Legislative Council for any advice given to the Governor by or under the general authority of the Executive Council and for all things done by or under the authority of any Minister in the execution of his or her office.
+
+##### 36A. Ministers may meet together to consider advice to be tendered to the Governor[^key-cba9ca827d97136515c2b6046fc4745e]
+
+(1) If the Chief Minister so requests, generally or in a particular case, the Ministers shall meet together in order to consider what advice on any matter they wish to tender to the Governor at a meeting of the Executive Council or otherwise.
+
+(2) The Chief Minister may, consistently with the Code of Conduct made under section 71 and after consulting the Director responsible for administering the department to which those officers belong, call upon officers of the St Helena Public Service to provide the meeting with information, advice and administrative support.
+
+(3) The meeting shall be free to regulate its own procedure.
+
+##### 37. Election of Chief Minister[^key-7366ed8aee1df01a046ed4d879936827]
+
+(1) There shall be a Chief Minister of St Helena.
+
+(2) An election to the office of Chief Minister shall be held—
+
+- (a) at the first meeting of the Legislative Council after a general election; and
+- (b) at the first meeting of the Legislative Council after—
+  - (i) the office of Chief Minister has become vacant; or
+  - (ii) the Chief Minister has tendered his or her resignation from that office by a signed instrument in writing delivered to the Governor, or is deemed to have tendered his or her resignation under section 37D(3) or 45B(6).
+
+(3) The elected members of the Legislative Council present and voting at a meeting of the Legislative Council shall proceed to elect the Chief Minister, by secret ballot, from among the elected members of the Legislative Council. To be elected, a candidate must receive the votes of a majority of all the elected members of the Legislative Council.
+
+(4) The Standing Orders of the Legislative Council shall make provision for the conduct, consistently with this section, of an election to the office of Chief Minister.
+
+##### 37A. Chief Minister elect to recommend the appointment of the other Ministers[^key-9296c37cea1a1ec0455364d4414d216c]
+
+(1) As soon as practicable after being elected, the Chief Minister elect shall recommend to the Governor, for appointment as Ministers, four other elected members of the Legislative Council who have consented to the nomination.
+
+(2) If the Chief Minister elect does not make a recommendation under subsection (1) within seven days after the date of his or her election to office, that election shall be of no effect. The Legislative Council shall proceed as soon as practicable again to elect a Chief Minister.
+
+##### 37B. Allocation of portfolios
+
+(1) The Chief Minister elect shall recommend to the Governor the allocation among the prospective Ministers (including the Chief Minister if he or she so desires) of the finance portfolio and such other portfolios as may be necessary or desirable for giving to a Minister the responsibility for any department or function of government which is not, under this Constitution or any other law, the responsibility of some other person or body.
+
+(2) The Chief Minister shall have responsibility for any department or function of government which is not, under this Constitution or any other law, the responsibility of some other person or body, and in respect of which no allocation of a portfolio is for the time being in force.
+
+##### 37C. Appointment of Chief Minister and other Ministers after election of a Chief Minister
+
+(1) The Governor shall, by instrument under the public seal—
+
+- (a) appoint as Chief Minister the elected member of the Legislative Council elected to that office in accordance with section 37; and
+- (b) appoint as Ministers the elected members of the Legislative Council recommended by the Chief Minister in accordance with section 37A(1).
+
+(2) The instrument of appointment shall specify the portfolio or portfolios allocated to the appointee on the recommendation of the Chief Minister.
+
+##### 37D. Appointment and dismissal of Ministers (other than the Chief Minister) and allocation of portfolios at other times
+
+(1) On the recommendation of the Chief Minister, the Governor shall, by instrument under the public seal—
+
+- (a) revoke the appointment of a Minister;
+- (b) appoint an elected member of the Legislative Council as a Minister to fill a vacancy in the Executive Council or bring the number of Ministers (other than the Chief Minister) up to four; or
+- (c) assign or reassign the portfolio or portfolios allocated to any Minister.
+
+(2) If, after a dissolution of the Legislative Council and before the next general election, the Chief Minister recommends that a Minister should be appointed, subsection (l)(b) shall have effect as if the dissolution had not occurred.
+
+(3) If, within seven days after the occurrence of a vacancy in the Executive Council that has reduced the number of Ministers (other than the Chief Minister) below the minimum of four, the Chief Minister does not recommend the appointment of an elected member of the Legislative Council who has consented to the nomination to fill the vacancy, the Chief Minister shall be deemed to have tendered to the Governor his or her resignation from that office.
+
+##### 37E. Vacation of office by the Chief Minister
+
+(1) The office of Chief Minister shall become vacant if the Chief Minister vacates his or her seat in the Legislative Council for any reason other than the dissolution of the Council.
+
+(2) The Chief Minister may tender his or her resignation from office by a signed instrument in writing delivered to the Governor.
+
+##### 37F. Acting Chief Minister and appointment of Deputy
+
+(1) Subject to subsection (5), whenever the Chief Minister is absent from St Helena or is otherwise unable to discharge the functions of the office, or the office of Chief Minister is vacant, the Governor shall authorise some other Minister to perform those functions.
+
+(2) In exercising his or her powers under subsection (1) the Governor shall—
+
+- (a) act in accordance with the advice of the Chief Minister unless, in the Governor’s judgement, it is impracticable to obtain the Chief Minister’s advice owing to his or her infirmity of body or mind, or absence;
+- (b) if it is impracticable to obtain the Chief Minister’s advice, act in accordance with the advice of the Executive Council unless, in his or her judgement, it is impracticable to do so owing to the urgency of the situation; or
+- (c) if it is impracticable to obtain the advice of the Executive Council, act in his or her discretion.
+
+(3) Any authorisation under subsection (1) shall be given by the Governor by instrument under the public seal, and may be revoked in like manner.
+
+(4) If any authorisation under subsection (1) is not earlier so revoked, a Minister authorised to perform the functions of Chief Minister shall cease to perform those functions on being notified by the Chief Minister that he or she is about to resume those functions.
+
+(5) For the purposes of subsection (1), the Chief Minister shall not be regarded as absent from St Helena, or as unable to perform the functions of the office, at any time when there is a subsisting designation of a Deputy under subsection (6).
+
+(6) Whenever the Chief Minister is absent from St Helena or otherwise unable to discharge the functions of the office for a period that he or she has reason to believe will be of short duration, the Chief Minister may appoint, by instrument, any other Minister as his or her Deputy for the duration of such period and, in that capacity, to discharge on his or her behalf during such period such of the functions of the office of Chief Minister as may be specified in that instrument.
+
+(7) The power and authority of the Chief Minister shall not be abridged, altered or in any way affected by the appointment of a Deputy under subsection (6), and every such Deputy shall conform to and observe all instructions that the Chief Minister may from time to time address to him or her.
+
+(8) The appointment of a Minister as Deputy under subsection (6) continues for such period as may be specified by the Chief Minister, and a Minister so appointed shall cease to discharge the functions of the office of Chief Minister on being notified by the Chief Minister that he or she is about to resume those functions.
+
+##### 37G. Vacation of office by a Minister other than the Chief Minister
+
+(1) The office of a Minister other than the Chief Minister shall become vacant if—
+
+- (a) his or her appointment is revoked under section 37D(l)(a);
+- (b) the Minister has vacated his or her seat in the Legislative Council for any reason other than the dissolution of the Council; or
+- (c) the Minister resigns from that office by a signed instrument in writing delivered to the Governor.
+
+(2) Subject to subsection (1), if the office of the Chief Minister becomes vacant or if the Chief Minister tenders his or her resignation or is deemed to have done so under section 37D(3) or 45B(6), the other Ministers shall continue in office until a Chief Minister and other Ministers are appointed, after a new election to the office of Chief Minister.
+
+(3) The Governor shall immediately inform the Chief Minister if he or she receives a signed instrument in writing of resignation from a Minister.
+
+##### 37H. Acting Minister
+
+(1) Whenever a Minister other than the Chief Minister is absent from St Helena or otherwise temporarily unable to discharge the functions of his or her office, the Governor, acting in accordance with the advice of the Chief Minister, may, by instrument under the public seal—
+
+- (a) assign responsibility for the performance of that Minister’s functions to another Minister, including the Chief Minister; or
+- (b) appoint an elected member of the Legislative Council to be a temporary Minister,
+
+and may specify the period for which such person shall perform the functions of that Minister or shall be a temporary Minister.
+
+(2) If, after a dissolution of the Legislative Council and before the next general election, the Chief Minister advises that a temporary Minister should be appointed, subsection (1) shall have effect as if the dissolution had not occurred.
+
+(3) If any assignment or appointment under subsection (1) has not sooner ended, it shall cease as soon as the Minister who has been absent from St Helena or otherwise temporarily unable to perform the functions of his or her office notifies the other Minister or the elected member that he or she is about to resume those functions.
+
+##### 38. Determination of questions as to election of Chief Minister[^key-90a538d843ae3a312d8d6934a7b9d0ff]
+
+Any question whether a person has been validly elected as the Chief Minister, or whether the office of the Chief Minister has become vacant, shall be determined by the Governor, acting in his or her discretion.
+
+##### 39. Summoning of and proceedings in Executive Council[^key-6660e79e55536e4cdac908c6e367ed99]
+
+(1) The Executive Council shall be summoned by the Governor acting in his or her discretion; but the Governor shall summon the Executive Council if requested to do so by the Chief Minister.
+
+(2) The agenda for the meeting shall comprise matters included at the request of the Governor, acting in his or her discretion, and matters included at the request of any Minister; and other business that is not on the agenda may be discussed at the meeting at the request of the person presiding or any Minister.
+
+(3) No business except that of adjournment shall be transacted at any meeting of the Executive Council unless there are at least three Ministers present, one of whom must be the Chief Minister or his or her Deputy.
+
+(4) Except so far as otherwise instructed by Her Majesty, generally or in a particular case, the Governor shall, so far as is practicable, attend and preside at meetings of the Executive Council.
+
+(5) In the absence of the Governor, or Governor’s Deputy in the case of a subsisting appointment under section 28, from any meeting of the Executive Council, the Chief Minister or his or her Deputy shall preside at the meeting.
+
+(6) Subject to subsection (3), the Executive Council shall not be disqualified from the transaction of business by reason only of a vacancy among its members or the absence of an appointment under section 37D(1)(b), 37F or 37H in a case where any of those sections applies; and the validity of the transaction of business in the Executive Council shall not be affected by reason only of the fact that some person who was not entitled so to do took part in the proceedings.
+
+(7) The Governor, or any person presiding over a meeting of the Executive Council in his or her absence, acting in his or her discretion or at the request of the Chief Minister, may require any officer of the St Helena Public Service to attend a meeting of the Executive Council whenever he or she considers that the business before the Council renders the presence of that officer desirable.
+
+(8) Subject to this Constitution, the Executive Council shall be free to regulate its own procedure which may include provision for remote attendance of members by way of electronic means.
+
+##### 40. Invitation of persons to assist Executive Council[^key-75b577ae240a61bf4fcfbf31286677a5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 41. Presiding in Executive Council[^key-e6ef35e02c9df82c992575b2906f8f2e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### 42. Secretary to Executive Council[^key-d8a723b879e7fedcfedca92d93e345e2]
+
+(1) The Governor must appoint a Secretary who shall be responsible, in accordance with such instructions as may be given to him or her by the Governor, acting after consultation with the Chief Minister, for arranging the business for, and keeping the minutes of, the meetings of the Executive Council, and for conveying decisions reached at the meetings to the appropriate person or authority.
+
+(2) The Secretary shall also be responsible for the performance, with respect to the Executive Council, of such secretarial and other functions as the Governor, acting after consultation with the Chief Minister, may from time to time direct.
+
+##### 43. Governor to consult Executive Council
+
+(1) Except as otherwise provided in this section, the Governor, in the exercise of all functions conferred on him or her by this Constitution and any other law, shall obtain, and act in accordance with, the advice of the Executive Council.
+
+(2) Subsection (1) does not apply to—
+
+- (a) any function in respect of which the Governor is acting under instructions given to him or her by Her Majesty through a Secretary of State;
+- (b) any function conferred by this Constitution which is expressed to be exercisable by the Governor—
+  - (i) in his or her discretion or judgement, or
+  - (ii) in accordance with the advice of, or after consultation with, any person or authority other than the Executive Council;
+- (c) any function conferred on the Governor by any other law in terms which authorise the Governor to exercise that function without obtaining the advice of the Executive Council or by acting otherwise than in accordance with that advice;
+- (d) any matter referred to in section 44(1)(d);
+- (e) any function conferred on the Governor in respect of Ascension by a provision of this Constitution that applies to Ascension, or of a law that is in force in Ascension; or
+- (f) any function conferred on the Governor in respect of Tristan da Cunha by a provision of this Constitution that applies to Tristan da Cunha, or of a law that is in force in Tristan da Cunha.
+
+(3) The Governor shall not be obliged to act in accordance with the advice given to him or her by the Executive Council in any case which, in his or her judgement, involves a matter for which he or she is responsible under section 44.
+
+(4) The Governor shall not be required to obtain the advice of the Executive Council in any case in which, in his or her judgement, the matter is too urgent to obtain the advice of the Council, or too unimportant to require the Council’s advice; but in any case of urgency the Governor shall , if possible, consult the Chief Minister and shall[^key-1e4399023356f4b6e11bf76178a30abc] as soon as practicable communicate to the Council the measures adopted and the reasons for those measures.
+
+(5) The Governor shall not be obliged to act in accordance with the advice of the Executive Council on any matter if, in his or her judgement, that advice involves an inconsistency with one or more of the partnership values declared in section 2.
+
+(6) In any case where the Governor proposes not to act in accordance with the advice of the Executive Council on the ground specified in subsection (5), he or she shall inform the Council in writing of his or her reasons for not so acting, including the partnership value or values with which, in the Governor’s judgement, the advice is inconsistent, and the respects in which the advice is inconsistent with them.
+
+(7) The Governor may decide not to act in accordance with the advice of the Executive Council on the ground specified in subsection (5) only with the prior approval of a Secretary of State, unless, in his or her judgement, the matter is so urgent that it is necessary to do so without such approval; and in that case the Governor shall, as soon as practicable, report his or her action and the reasons for it to a Secretary of State.
+
+(8) The Chief Minister[^key-d60d7fbbb1f9050ea55838c4f791de43] shall have the right, within thirty days, to submit to a Secretary of State his or her comments in writing on the Governor’s reasons for not acting in accordance with the advice of the Executive Council.
+
+(9) Where the Governor is by this Constitution or any other law directed to exercise any function after consultation with any person or authority other than the Executive Council, he or she shall not be obliged to exercise that function in accordance with the advice of that person or authority.
+
+(10) Where the Governor is by this Constitution or any other law directed to exercise any function in accordance with the advice of, or after consultation with, any person or authority, the question whether he or she has so exercised that function shall not be enquired into in any court.
+
+##### 44. Governor’s special responsibilities
+
+(1) The Governor shall be responsible for the conduct (subject to this Constitution and any other law) of any business of the Government of St Helena, including the general direction and policy control of any department of government, with respect to the following matters—
+
+- (a) defence;
+- (b) external affairs;
+- (c) internal security, including the Police;
+- (d) the appointment of any person to any office in the St Helena Public Service, the suspension, termination of employment, dismissal, or retirement of any officer of the St Helena Public Service or the taking of disciplinary action in respect of such an officer, and the application to any such officer of the terms or conditions of employment of the Public Service (including salary scales, allowances, leave, passages or pensions) for which financial provision has been made;
+- (e) the administration of justice; and[^key-d5d37c105956d5a6e7a5180a673a2fc0]
+- (f) finance .[^key-8750580ee3472b6362e6730d38c60d8f]
+- (g)[^key-6e4c578141b34808b8030389202ace14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1A)[^key-f6f8c875feb09f5c9d960d0fde05cc40] The Governor, acting in his or her discretion, may by directions in writing delegate, with the prior approval of a Secretary of State, to the Chief Minister or any other Minister recommended by the Chief Minister such responsibility for any of the matters specified in subsection (1) (c), (e) and (f) as the Governor may think fit upon such conditions as he or she may impose. A Minister to whom such a responsibility has been delegated shall exercise that responsibility in accordance with section 36.
+
+(2) The Governor, acting in his or her discretion, may , by instrument in writing,[^key-d876c290932a6a9a31d0ecd4302ab84b] assign to the Chief Minister or any Minister recommended by the Chief Minister[^key-dd6835542d0c1c19395c4468d1957422] responsibility for the conduct on behalf of the Governor of any business in the Legislative Council with respect to any matter mentioned in subsection (1) , other than a matter the responsibility for which he or she has delegated to a Minister under subsection (1A)[^key-fb66d862fb550293b1216a8c46bb18e7].
+
+(3) Where the Governor, acting in his or her discretion, determines that the exercise of any function conferred on any other person or authority (other than the Legislative Council) would involve or affect any matter mentioned in subsection (1), the Governor may, acting in his or her discretion, give directions as to the exercise of that function, and the person or authority concerned shall exercise the function in accordance with those directions.
+
+##### 45. Governor to be kept informed
+
+The Chief Minister and the other Ministers[^key-567baca86cdee94908a37cfb774bf969] shall, at meetings of the Executive Council or otherwise, keep the Governor fully informed concerning the general conduct of the government of St Helena, and furnish the Governor with such information as he or she may request with respect to any particular matter arising in the conduct of that government.
+
+##### 45A. A Minister’s responsibility for a department[^key-46a690ab87bbc38f7494ccf57cf56590]
+
+(1) Subject to this Constitution and any other law, a Minister who has the responsibility for a department of Government shall exercise general direction and policy control over that department, in accordance with the policies of the Government as determined by the Executive Council.
+
+(2) Subject to the general direction and policy control provided for in subsection (1) and to any law, the department shall be administered by a Director.
+
+(3) The Director shall act as chief policy adviser to the Minister on matters within the department’s responsibility.
+
+##### 45B. Votes of confidence or no confidence in the Government
+
+(1) At any meeting of the Legislative Council the Chief Minister, or another Minister acting on behalf of the Chief Minister, may give notice of his or her intention to move a motion of confidence in the Government.
+
+(2) Subject to subsection (3), at any meeting of the Legislative Council any three or more elected members of the Council who are not Ministers may give notice of their intention to move a motion of no confidence in the Government.
+
+(3) Notice may not be given under subsection (2) less than three months after the date on which a motion of no confidence in the Legislative Council was last voted upon and lost, unless the Council has sooner been dissolved.
+
+(4) A motion of which notice is given under subsection (1) or subsection (2) must be voted on at a meeting of the Legislative Council, by secret ballot, not sooner than five days but not later than ten days after the date of the notice.
+
+(5) To be carried, a motion of confidence or no confidence must receive the affirmative vote of a majority of all the elected members of the Legislative Council.
+
+(6) If the motion of confidence is lost, or the motion of no confidence is carried, the Chief Minister shall be deemed to have tendered his or her resignation from office at the expiration of five days after the date of the vote, unless, before then, he or she tenders a resignation from office or requests the Governor to dissolve the Legislative Council.
+
+##### 46. The Attorney General
+
+(1) There shall be an Attorney General of St Helena who shall be the principal legal adviser to the Government of St Helena.
+
+(2) The Attorney General shall be an officer of the St Helena Public Service appointed by the Governor, acting in his or her discretion and with the approval of a Secretary of State.
+
+(3) The Attorney General shall be appointed—
+
+- (a) for a term ending when the appointee reaches any retiring age fixed by law; or
+- (b) whether or not the appointee has attained that age or will attain it during his or her term of office, for a term specified in the instrument of appointment.
+
+(4) The Attorney General may, in any case in which he or she considers it desirable to do so—
+
+- (a) institute and undertake criminal proceedings against any person before any court in respect of an offence against any law;
+- (b) take over and continue any such criminal proceedings that have been instituted by any other person or authority; and
+- (c) discontinue at any stage before judgment is delivered any such criminal proceedings instituted or undertaken by himself or herself or any other person or authority.
+
+(5) The powers of the Attorney General under subsection (4) may be exercised by him or her in person or by officers subordinate to him or her acting under and in accordance with his or her general or special instructions.
+
+(6) The powers conferred on the Attorney General by subsection (4)(b) and (c) shall be vested in him or her to the exclusion of any other person or authority; but where any other person or authority has instituted criminal proceedings, nothing in this subsection shall prevent the withdrawal of those proceedings by or at the instance of that person or authority at any stage before the person against whom the proceedings have been instituted has been charged before the court.
+
+(7) For the purposes of this section, any appeal from any determination in any criminal proceedings before any court, or any case stated or question of law reserved for the purpose of any such proceedings to any other court, shall be deemed to be part of those proceedings.
+
+(8) In the exercise of the powers conferred on him or her by this section and section 52(2), the Attorney General, and any person acting under his or her authority, shall act independently and shall not be subject to the direction or control of the Governor, the Executive Council or any other person or authority.
+
+(9) The remuneration of the Attorney General shall be determined by the Governor, acting in his or her discretion, and shall be charged on and paid out of the Consolidated Fund.
+
+(10) The remuneration of the Attorney General shall not be diminished during the Attorney General’s continuance in office.
+
+(11) The Attorney General may be removed from office only for inability to discharge the functions of the office (whether arising from infirmity of body or mind or from any other cause) or for misbehaviour, and shall not be so removed except in accordance with subsection (12).
+
+(12) The Attorney General shall be removed from office by the Governor if the question of his or her removal from office has been referred to a tribunal appointed under subsection (13) and the tribunal has advised the Governor that he or she should be removed from office for inability as aforesaid or for misbehaviour.
+
+(13) If the Governor, acting in his or her discretion, considers that the question of removing the Attorney General from office for inability as aforesaid or for misbehaviour ought to be investigated, then—
+
+- (a) the Governor shall appoint a tribunal, which shall consist of a chairman and two other members; but the chairman and at least one of the other members shall be a serving or former judge of a superior court in some part of the Commonwealth or in Ireland; and
+- (b) the tribunal shall inquire into the matter and report on the facts thereof to the Governor and advise the Governor whether the Attorney General should be removed from office for inability as aforesaid or for misbehaviour.
+
+(14) If the question of removing the Attorney General from office has been referred to a tribunal under subsection (12), the Governor, acting in his or her discretion, may suspend the Attorney General from performing the functions of his or her office, and any such suspension may at any time be revoked by the Governor, acting in his or her discretion, and shall in any case cease to have effect if the tribunal advises the Governor that the Attorney General should not be removed from office.
+
+(15) References in subsections (11) to (14) to the Attorney General do not include references to a person appointed to act in the office of Attorney General during any period when it is vacant or the holder of that office is unable to perform the functions of that office; and the appointment of such a person may be revoked by the Governor, acting in his or her discretion, at any time before the expiration of that period.
+
+#### PART 5 — THE LEGISLATURE
+
+##### Composition
+
+###### 47. The Legislature
+
+There shall be a Legislature for St Helena consisting of Her Majesty and the Legislative Council.
+
+###### 48. Composition of Legislative Council
+
+The Legislative Council shall consist of—
+
+- (a) a Speaker and a Deputy Speaker, who shall be elected as provided in section 55; and
+- (b) the following other Members—
+  - (i) twelve Elected Members, who shall be persons qualified for election and elected in accordance with this Constitution; and
+  - (ii)[^key-1912406f7a8a218a07323bd02351c34c] the Attorney General as *ex officio* Member.
+
+###### 49. Qualifications of candidates for election to Legislative Council
+
+(1) Subject to subsections (2) and (3), the qualifications for being a candidate at an election of Members of the Legislative Council shall be as prescribed by Ordinance.
+
+(2) A person shall not be qualified to be a candidate for election to the Legislative Council if that person—
+
+- (a) is, by virtue of his or her own act, under any acknowledgement of allegiance, obedience or adherence to a foreign power or state;
+- (b) is an undischarged bankrupt, having been adjudged or otherwise declared bankrupt under any law in force in any country;
+- (c) is mentally ill within the meaning of any law;
+- (d) is under a sentence of imprisonment for twelve months or more, other than a sentence in lieu of a fine, but including a suspended sentence, imposed by a court of law in any country or substituted by a competent authority for some other sentence imposed by such a court;
+- (e) is disqualified for membership of the Council under any law relating to offences connected with elections;
+- (f) subject to subsection (3), holds, or is acting in, any office in the St Helena Public Service;
+- (g) holds office as a judge or judicial officer; or
+- (h) holds, or is acting in, any office or is exercising any function involving any responsibility for, or in connection with, the conduct of any election or the compilation or revision of any electoral register.
+
+(3) The Governor, acting in his or her discretion, may by notice published in the *Gazette*, make provision for enabling any officer of the St Helena Public Service or any class of such officer not otherwise disqualified under subsection (2) to be qualified to be a candidate for election to the Legislative Council.
+
+(4) For the purposes of subsection (2)(d), two or more terms of imprisonment that are required to be served consecutively shall be regarded as a single term of imprisonment for the aggregate period of those terms.
+
+###### 50. Law as to elections
+
+(1) The Elected Members of the Legislative Council shall be elected by secret ballot, under a system of universal suffrage, by the persons registered on a single roll of voters for a single constituency for the whole of the island of St Helena; but the Legislature may make provision by Ordinance for the island to be divided into two or more constituencies for the purpose of elections, and for separate rolls of voters for such constituencies.
+
+(2) Subject to subsection (1) and to section 49, the Legislature may make provision by Ordinance for the conduct of elections to the Legislative Council, including for—
+
+- (a) the qualifications and disqualifications of voters;
+- (b) the registration of voters;
+- (c) the ascertainment of the qualifications of candidates for election and of voters;
+- (d) the holding of elections; and
+- (e) the definition and trial of offences connected with elections and the imposition of penalties for any such offence, including disqualification for membership of the Council, or for registration as a voter, or for voting at elections, of any person concerned in any such offence.
+
+###### 51. Tenure of office of Elected Members of Legislative Council
+
+(1)[^key-555c2be3ee3bfa9e71d40819f83ef9d7] The seat of an Elected Member of the Legislative Council shall become vacant—
+
+- (a) upon a dissolution of the Council;
+- (b) if the Member is absent from meetings of the Council for a continuous period of three months without the written permission of the Speaker;
+- (c) if any circumstance arises that would cause the Member to become disqualified for election to the Council; or
+- (d) if the Member resigns his or her seat by writing under his or her hand addressed to the Governor.
+
+(2)[^key-8376f519c89004f02d75983861f7b4a6] The Governor shall immediately inform the Chief Minister if he or she receives a signed instrument in writing of resignation from an elected member of the Legislative Council.
+
+###### 52. Determination of questions as to elected membership of Legislative Council
+
+(1) Any question whether—
+
+- (a) a person has been validly elected as a Member of the Legislative Council; or
+- (b) the seat of an Elected Member has become vacant,
+
+shall be determined by the Supreme Court whose decision shall be final and not subject to any appeal.
+
+(2) An application to the Supreme Court for the determination of any question under subsection (1) may be made by the Attorney General or by any person who is a registered voter; and an application for the determination of any question under subsection (1)(b) may also be made by any Elected Member of the Legislative Council.
+
+###### 53. Register of Interests
+
+(1) There shall be a Register of Interests that—
+
+- (a) shall be open to the public; and
+- (b) shall be maintained by a Registrar who shall be an officer of the St Helena Public Service appointed to that office.
+
+(2) All Members of the Legislative Council and the holders of such other offices (except that of Governor) as may be prescribed by Ordinance must—
+
+- (a) declare in the Register such interests, assets, income and liabilities of themselves and their families as may be so prescribed; and
+- (b) update the declaration at such intervals, being not more than twelve months, as may be so prescribed.
+
+(3) The Legislature may make further provision by Ordinance for giving effect to this section.
+
+(4) Such an Ordinance may impose sanctions for a failure to comply with subsection (2), including the suspension of the Speaker or any other Member from the Legislative Council for such period as may be prescribed.
+
+(5) The Standing Orders of the Legislative Council shall make provision prohibiting an Elected Member of the Council from voting in the Council, or any committee of the Council, on any question so closely concerned with an interest required to be declared in the Register (whether or not it has been so declared) as to give the Member a direct pecuniary interest in the outcome of the vote on that question.
+
+###### 54. Oaths or affirmations by Members of Legislative Council
+
+No Member of the Legislative Council shall enter upon the functions of his or her office unless he or she has made before the Governor, or some other person authorised for that purpose by the Governor, acting in his or her discretion, oaths or affirmations of allegiance [^key-a064c1aabb49c15e7257365656909a8b]... and for the due execution of his or her office in the forms set out in the Schedule.
+
+###### 55. Speaker and Deputy Speaker
+
+(1) At the first sitting of the Legislative Council after a vacancy occurs in the office of Speaker or Deputy Speaker, or both, and before the transaction of any other business (except the administration of oaths or affirmations under section 54), the Council shall by secret ballot proceed to elect, to fill the vacancy, a Speaker or, as the case may be, a Deputy Speaker from among persons who are not Elected Members of the Council but who are qualified to be elected as Members of the Council and are not disqualified in any way for membership.
+
+(2) To be elected, a candidate must receive the votes of a majority of all the Elected Members of the Legislative Council.
+
+(3) The Standing Orders of the Legislative Council shall make provision for the conduct, consistently with this Constitution, of an election to fill the office of Speaker or Deputy Speaker.
+
+(4) The office of Speaker or Deputy Speaker shall become vacant—
+
+- (a) if any circumstance arises that, if the Speaker or the Deputy Speaker were an Elected Member of the Legislative Council, would cause his or her seat to become vacant;
+- (b) if the Speaker or the Deputy Speaker resigns that office by writing under his or her hand addressed to the Clerk of Councils;
+- (c) if the Speaker or the Deputy Speaker becomes a candidate for election to the Council as an Elected Member;
+- (d) if the Speaker or the Deputy Speaker becomes a member of a Council Committee;
+- (e) on the passing, by the votes of a majority of all the Elected Members of the Council, of a motion expressing no confidence in the Speaker or the Deputy Speaker; or
+- (f) if the Council is dissolved.
+
+##### Council Committees
+
+###### 56. Council Committees[^key-31e5a57fb340673d9fbf066051e747a5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+###### 57. Tenure of office of members of Council Committees[^key-31e5a57fb340673d9fbf066051e747a5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+###### 58. Functions of Council Committees[^key-31e5a57fb340673d9fbf066051e747a5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+###### 59. Rules of procedure and meetings of Council Committees[^key-31e5a57fb340673d9fbf066051e747a5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Powers and Procedure of Legislative Council
+
+###### 60. Power to make laws
+
+Subject to this Constitution, the Legislature may make laws for the peace, order and good government of St Helena.
+
+###### 61. Meetings of Legislative Council
+
+(1)[^key-ed40176db99d6ed60211c90a7b70655d] Meetings of the Legislative Council shall be held at such places and begin at such times as the Speaker, acting in accordance with the advice of the Chief Minister, shall appoint.
+
+(2) The first meeting of the Legislative Council after a general election shall be held at a time and place appointed by the Governor, acting in his or her discretion.
+
+(2A)[^key-13fe0f5ee3f88f34801d51041e23436f] If the first meeting of the Legislative Council after a general election has not commenced within 15 days after the date of the election, the Governor, acting in his or her discretion, shall appoint the earliest practicable time, and the place, for the holding of that meeting.
+
+(3) If—
+
+- (a) in circumstances not provided for in subsection (2A),[^key-7a89f4634f6e9900254d207db8f7768f] more than six weeks have elapsed since the last sitting day of the most recent meeting of the Legislative Council, and no time has been appointed for the next meeting, or that time is more than eight weeks after that day; or
+- (b) a proclamation of a state of emergency is in force under a law, and, after five days from the date on which the emergency was proclaimed, a place and time have not been appointed for a meeting of the Council as soon as practicable,
+
+any four or more Elected Members who are not Ministers[^key-53d10218927e453340cc2cf68aa637e9] may request the Speaker to appoint a time and place for the next meeting; and on receiving such a request, the Speaker shall appoint the earliest practicable time, and the place, for the holding of that meeting.
+
+(3A)[^key-224988cad0c4596302cac4a17cacc7e2] If, at a meeting of the Legislative Council, notice is given under section 45B of a motion of confidence or no confidence in the Government, that meeting shall not be adjourned before the motion has been voted upon, except to a place and a time that shall permit the motion to be voted upon within the time limits prescribed in that section, unless the Council is sooner dissolved under section 76(1)(b).
+
+(4)[^key-1a4cf5dfb441176af13cb439b82cbb39] There shall be at least one meeting of the Legislative Council in each quarter of each calendar year.
+
+###### 62. Presiding in Legislative Council or otherwise discharging the functions of Speaker
+
+(1) At sittings of the Legislative Council there shall preside—
+
+- (a) at the first meeting of the Council after a general election, until a Speaker has been elected, the Governor;
+- (b) at any time when there is a person holding the office of Speaker, the Speaker;
+- (c) in the absence of the Speaker, the Deputy Speaker; or
+- (d) except at the first meeting of the Council after a general election, in the absence of both the Speaker and the Deputy Speaker, such Member of the Council as may be elected by the Elected Members then present to preside until the Speaker or Deputy Speaker is again present.
+
+(2) The Deputy Speaker may attend any sitting of the Legislative Council at which the Speaker presides but may not take part in the proceedings of the Council at that sitting.
+
+(3) At any time after the election of the Speaker and the Deputy Speaker, other than a time when the Legislative Council is sitting, the other functions of the Speaker shall be discharged by—
+
+- (a) the Speaker;
+- (b) if the Speaker is not available, the Deputy Speaker; or
+- (c) if neither the Speaker nor the Deputy Speaker is available, the Clerk of Councils.
+
+###### 63. Legislative Council may transact business notwithstanding vacancies
+
+The Legislative Council shall not be disqualified for the transaction of business by reason of any vacancy in its membership (including any vacancy not filled when the Council first meets after a general election or an election to fill a vacancy among the Elected Members of the Council), and any proceedings in the Council shall be valid even though some person who was not entitled to do so sat or voted in the Council or otherwise took part in those proceedings.
+
+###### 64. Quorum
+
+(1) A quorum shall consist of seven Elected Members of the Legislative Council (including any Member presiding).
+
+(2) If at any sitting of the Legislative Council a quorum is not present and any Member of the Council who is present objects on that account to the transaction of business and, after such interval as may be prescribed in the Standing Orders of the Council, the person presiding at the sitting ascertains that a quorum is still not present, he or she shall adjourn the Council.
+
+###### 65. Governor’s right to address Legislative Council
+
+The Governor, acting in his or her discretion, shall have the right to address the Legislative Council at a time during a meeting of the Council fixed by the Speaker at the Governor’s request.
+
+###### 66. Power to require officers of the St Helena Public Service to attend meetings
+
+The Speaker or other person presiding, acting in his or her discretion, may require any officer of the St Helena Public Service to attend a meeting of the Legislative Council when, in the opinion of the Speaker or other person presiding, the business before the Council makes the presence of that officer desirable.
+
+###### 67. Voting
+
+(1) Save as otherwise provided in this Constitution, all questions proposed for decision in the Legislative Council shall be determined by a majority of the votes of the Elected Members present and voting.
+
+(2) The Speaker and the Deputy Speaker shall not have a deliberative vote nor a casting vote.
+
+(3) Any Elected Member presiding shall have a deliberative vote but not a casting vote.
+
+(4) If, on any question, the votes are evenly divided, the motion shall be lost.
+
+(5) The *ex officio* Member[^key-883b15c417783e9a782bc3f03055f099] of the Legislative Council shall not vote in the Council.
+
+###### 68. Standing Orders
+
+The Legislative Council may make, amend and revoke Standing Orders consistent with this Constitution for the regulation and orderly conduct of its proceedings and the despatch of business and for the passing of Bills and for their presentation to the Governor for assent.
+
+###### 69. Public Accounts Committee
+
+(1) There shall be a Public Accounts Committee which shall consist of—
+
+- (a) a chairman and one other member appointed by the Governor, acting after consultation with the Elected Members of the Legislative Council, from among persons who are not Members of the Council; and
+- (b) three Elected Members of the Legislative Council, who shall be elected by the Council by a majority of the votes of all its Elected Members.
+
+(2) A person may be appointed or elected under subsection (1) for any period not exceeding four years.
+
+(3) A member of the Public Accounts Committee shall vacate his or her seat on the Committee—
+
+- (a) at the expiration of the period for which he or she was appointed or elected;
+- (b) if he or she resigns office by writing under his or her hand addressed to the Governor;
+- (c) in the case of an appointed member, if he or she becomes a Member of the Legislative Council or if he or she is removed by the Governor, acting after consultation with the Elected Members of the Council; or
+- (d) in the case of an elected member, if he or she ceases to be a Member of the Legislative Council or if he or she is removed by resolution of the Council.
+
+(4) If in respect of any item of business before the Public Accounts Committee the Governor, acting after consultation with the chairman of the Committee, considers that a member of the Committee has a conflict of interests, the Governor, acting after consultation with the Elected Members of the Legislative Council, may appoint another person temporarily to replace that member of the Committee for the purpose of dealing with the business in question; and a member so replaced shall not sit on the Committee when the Committee is dealing with that business.
+
+(5) The Public Accounts Committee may invite any person to assist it in its work and to participate in its proceedings.
+
+(6) The Public Accounts Committee shall examine and report to the Legislative Council on—
+
+- (a) the annual statement of accounts as audited by the Chief Auditor and laid before the Council; and
+- (b) such management letters and reports of the Chief Auditor as have been laid before the Council or as the Chief Auditor has brought to the attention of the Council;
+
+and shall have such other functions, and shall operate under such procedures, as may be prescribed by Ordinance or by Standing Orders of the Council.
+
+(7) The Public Accounts Committee shall have power—
+
+- (a) to summon any person to appear before it; and
+- (b) subject to the provisions of any law, to require any person so summoned to answer questions and to provide information to the Committee.
+
+(8) The Public Accounts Committee shall report to the Legislative Council by the date set by the Council or by its terms of reference, whichever is the earlier; and except as otherwise provided in the Committee’s terms of reference, such a report may be with or without recommendations.
+
+(9) If the Legislative Council adopts a report of the Public Accounts Committee, and requests the responsible member of the Executive Council to advise the Legislative Council of the action proposed to be taken by the Government of St Helena in respect of the report, the member concerned shall convey the Government’s response to the Council not later than the first sitting day following the expiration of six weeks after the date of the Council’s request, unless the Council extends the time for the response.
+
+(10) In the exercise of its functions, the Public Accounts Committee shall act independently and shall not be subject to the direction or control of the Governor, the Executive Council or any other person or authority.
+
+###### 69A. Select Committees[^key-8d64f6a83afc2d67edc9796edb00fcfc]
+
+(1) The Governor shall by order make provision for the establishment of at least two Select Committees for purposes of scrutiny of sectors of Government activity.
+
+(2) The Select Committees shall consist of Elected Members, other than Ministers, who shall be appointed by the Governor.
+
+(3) The functions, responsibilities and procedures of the Select Committees shall be determined by the Governor by order.
+
+###### 70. Privileges
+
+The privileges, immunities and powers of the Legislative Council, the Speaker and its other Members may be determined and regulated by Ordinance but shall not exceed the corresponding privileges, immunities and powers of the House of Commons of the United Kingdom or of its members.
+
+###### 71. Code of Conduct[^key-de8947087e5f0ad5cc614ee969fa168f]
+
+Subject to this Constitution and to any other law, and to the Standing Orders of the Legislative Council—
+
+- (a) a Ministerial Code, approved by the Legislative Council, shall detail the behaviour expected of the Chief Minister and other Ministers and the sanctions for failure to comply with those standards; and
+- (b) a separate Code of Conduct, approved by the Legislative Council, shall detail the behaviour expected of the Speaker and other Members of the Legislative Council, and shall regulate their relationship with officers of the St Helena Public Service.
+
+###### 72. Remuneration of Chief Minister, other Ministers, other Elected Members of Legislative Council, Speaker and Deputy Speaker[^key-84910d3124060e605e979cb67195b90d]
+
+(1) Subject to subsection (2), the Chief Minister, other Ministers[^key-388a02ea747d00784d9dde7ed9b9971e], the other Elected Members of the Legislative Council, the Speaker and the Deputy Speaker shall receive such remuneration and allowances and other benefits as are provided by Ordinance.
+
+(2) The Legislative Council shall not proceed on any Bill for an Ordinance referred to in subsection (1) unless the report of an independent body appointed by the Governor, acting in his or her discretion, recommending the appropriate levels of such remuneration and other allowances and benefits (if any) has been laid before the Council and has been published; and no Ordinance shall provide for levels of remuneration, allowances or benefits that exceed the levels recommended in such report.
+
+(3) Neither subsection (1) nor the provision made by an Ordinance referred to in that subsection is authority for the payment of that remuneration or any other monetary allowances or benefits, and such remuneration and such allowances and benefits (if any) shall be paid only under the authority of the Appropriation Ordinance or a Supplementary Appropriation Ordinance, or, in the absence of such an Ordinance for the financial year in respect of which they are due, under the authority otherwise conferred by this Constitution.
+
+###### 73. Introduction of Bills
+
+(1) Subject to this Constitution and to the Standing Orders of the Legislative Council, any Member may introduce any Bill or propose any motion for debate in, or may present any petition to, the Council, and the same shall be debated and disposed of according to the Standing Orders of the Council.
+
+(2) Except on the recommendation of the Governor, the Legislative Council shall not—
+
+- (a) proceed on any Bill (including any amendment to a Bill) which, in the opinion of the person presiding in the Council, makes provision for imposing or increasing any tax, for imposing or increasing any charge on the revenues or other funds of St Helena, or for altering any such charge otherwise than by reducing it, or for compounding or remitting any debt due to St Helena;
+- (b) proceed on any motion (including any amendment to a motion) the effect of which, in the opinion of the person presiding in the Council, is that provision would be made for any of the purposes aforesaid; or
+- (c) receive any petition which, in the opinion of the person presiding in the Council, requests that provision be made for any of the purposes aforesaid.
+
+###### 74. Assent to Bills
+
+(1) A Bill shall not become law until—
+
+- (a) the Governor has assented to it in Her Majesty’s name and on Her Majesty’s behalf and has signed it in token of that assent; or
+- (b) Her Majesty has given Her assent to it through a Secretary of State and the Governor has signified that assent by a proclamation published in the *Gazette*.
+
+(2) When a Bill is presented for assent, the Governor, acting in his or her discretion, shall either assent to it or reserve the Bill for the signification of Her Majesty’s pleasure.
+
+(3) Unless he or she has been authorised by a Secretary of State to assent to it, the Governor shall reserve for the signification of Her Majesty’s pleasure any Bill which appears to him or her, acting in his or her discretion—
+
+- (a) to be inconsistent with one or more of the partnership values declared in section 2;
+- (b) to be repugnant to or inconsistent with this Constitution; or
+- (c) to determine or regulate the privileges, immunities or powers of the Legislative Council or its Members.
+
+(4) A Bill assented to by the Governor shall become law on the date of assent.
+
+(5) A Bill reserved for the signification of Her Majesty’s pleasure shall become law on the date on which the Governor’s proclamation signifying the giving of that assent is published in the *Gazette*.
+
+###### 75. Disallowance of laws
+
+(1) Any law to which the Governor has given his or her assent may be disallowed by Her Majesty through a Secretary of State.
+
+(2) Whenever a law has been disallowed by Her Majesty the Governor shall, as soon as practicable, cause notice of the disallowance to be published in the *Gazette*, and the law shall be annulled with effect from the date of the publication of that notice.
+
+(3) Section 16(1) of the Interpretation Act 1978[^f00005] shall apply to the annulment of any law under this section as it applies to the repeal of an Act of Parliament, save that any enactment repealed or amended by or in pursuance of that law shall have effect as from the date of the annulment as if that law had not been made.
+
+###### 76. Dissolution of Legislative Council[^key-ad9349dc73929499f6231c0cc19e0ba5]
+
+The Governor shall dissolve the Legislative Council—
+
+- (a) if the Governor is advised to do so by the Chief Minister, unless the Governor, in his or her judgement, considers that the government of St Helena can be carried on without a dissolution and that a dissolution would not be in the interests of St Helena;
+- (b) at the expiration of four years from the date when the Council first meets after any dissolution, unless it has been sooner dissolved; or
+- (c) acting with the prior approval of a Secretary of State, at any time if he or she considers that, in his or her judgement, the effective government of St Helena cannot be carried on without a dissolution.
+
+###### 77. Recalling dissolved Legislative Council in case of emergency
+
+(1) If, after a dissolution of the Legislative Council and before the holding of the ensuing general election, an emergency arises of such a nature that the Governor considers it necessary for the Council to be recalled, the Governor, acting after consultation with the Chief Minister, or if that office is vacant[^key-15159a3cc80389642e3055677f8e752f] in his or her discretion, may summon the Council that has been dissolved; and that Council shall thereupon be deemed (except for the purposes of section 78) not to have been dissolved.
+
+(2) Except for the purposes of section 78, a Legislative Council so recalled shall be deemed to be dissolved on the date on which the next ensuing general election is held.
+
+###### 78. General elections and bye-elections
+
+(1)[^key-e2519f327a291ca55259aba71904d872] There shall be a general election of the Elected Members of the Legislative Council at such time, being not less than six weeks nor more than three months after the date of every dissolution of the Council, as the Governor appoints—
+
+- (a) acting in accordance with the advice of the Chief Minister; or
+- (b) acting in his or her discretion, if the office of Chief Minister is vacant or the Chief Minister gives no such advice within seven days after the date of the dissolution.
+
+(2) Subject to subsection (3), whenever any Elected Member vacates his or her seat as a Member of the Legislative Council for any reason other than a dissolution thereof, an election to fill the vacancy shall be held at such time, being not less than six weeks nor more than three months after the date of the vacancy, as the Governor appoints—
+
+- (a) acting in accordance with the advice of the Chief Minister; or
+- (b) acting in his or her discretion, if the office of Chief Minister is vacant or the Chief Minister gives no such advice within seven days after the date of the vacancy.
+
+(3) An election to fill a vacancy shall not be held under subsection (2) if the Legislative Council is sooner dissolved or the date on which the Council must be dissolved under section 76(1)(b)[^key-7f4e0bc60317e84d8431d160055530ea] is less than four months after the date of the vacancy.
+
+(4) For the purposes of this section, the date of a vacancy in the seat of an Elected Member is the date on which the vacancy occurred, or, if the existence of a vacancy is determined by the Supreme Court under section 52, the date of that determination.
+
+###### 79. The Clerk of Councils
+
+The Clerk of Councils shall have charge of the Legislative Council Office and shall be responsible to the Speaker for arranging the business and keeping the records of the Legislative Council, and for the performance, with respect to the Speaker, the Deputy Speaker, the Elected Members and the Select Committees[^key-8535700c0eaae9dadad3f44bc2287d4c], of such secretarial and other functions as may be required.
+
+#### PART 6 — THE ADMINISTRATION OF JUSTICE
+
+##### 80. The Courts of St Helena
+
+(1) The courts of St Helena shall be the Supreme Court and the Court of Appeal and such subordinate courts as may be established by Ordinance.
+
+(2) Her Majesty in Council continues to have such jurisdiction in respect of St Helena as is provided by law.
+
+##### 81. Independence of the judiciary
+
+The judges and judicial officers appointed to preside or sit in any court of St Helena shall exercise their judicial functions independently from the legislative and executive branches of government.
+
+##### Supreme Court
+
+###### 82. Constitution of Supreme Court
+
+(1) There shall be a Supreme Court for St Helena which shall be a superior court of record.
+
+(2) Subject to this Constitution, the Supreme Court shall have and may exercise all such jurisdiction in and in relation to St Helena as is necessary to administer the law of St Helena.
+
+(3) Without prejudice to the generality of subsection (2), the Supreme Court shall possess and may exercise in and in relation to St Helena, subject to this Constitution and to any other law, all the jurisdiction which is vested in, or is capable of being exercised by, Her Majesty’s High Court of Justice in and in relation to England.
+
+(4) The Supreme Court shall have and use a seal bearing a device and impression of the Royal Arms within a border bearing the words “Seal of the St Helena Supreme Court”.
+
+###### 83. Sittings of Supreme Court
+
+(1) Subject to subsection (2), the Supreme Court may sit in St Helena or outside St Helena.
+
+(2) The Chief Justice and any other judge or acting judge of the Supreme Court may hold sittings of the Court when outside St Helena, if satisfied that—
+
+- (a) a matter arising in a proceeding before the Court needs to be dealt with promptly;
+- (b) every party to the proceeding is able to participate, in person or through a legal representative, by teleconference or other means of electronic, oral or written communication;
+- (c) no injustice will result; and
+- (d) the course proposed is in the public interest.
+
+(3) The Chief Justice when outside St Helena may exercise such powers of revision, variation, confirmation or setting aside of any sentence or order made by a subordinate court as are conferred on him or her by any law.
+
+###### 84. Judges of Supreme Court
+
+(1) The judges of the Supreme Court shall be a Chief Justice and such number of other judges (if any) as may be prescribed by law; but the office of any judge shall not, without his or her consent, be abolished during his or her continuance in office.
+
+(2) If the office of Chief Justice is vacant, or the Chief Justice has not assumed, or is for any reason unable to perform the functions of, that office, those functions may be performed by—
+
+- (a) the next most senior judge of the Supreme Court in terms of the date of his or her appointment; or
+- (b) if there is no such judge, or if for any reason no such judge is able to perform the functions of the office of Chief Justice, then, unless this Constitution otherwise provides, those functions may be performed by an acting judge of the Supreme Court authorised to perform those functions by the Governor, acting in his or her discretion.
+
+(3) If—
+
+- (a) in the circumstances described in subsection (2), there is no other judge who can perform the functions of the Chief Justice; or
+- (b) the state of the business of the Supreme Court makes it desirable that an additional person should be appointed by whom the Supreme Court may be held,
+
+the Governor, acting in his or her discretion, may decide that an acting judge should be appointed to hold the Supreme Court.
+
+(4) The Chief Justice and any other judge or acting judge of the Supreme Court shall have such legal qualifications, experience and personal qualities—
+
+- (a) as may be prescribed by a law in force at the time of his or her appointment; or
+- (b) in the absence of such a law, as make him or her a fit and proper person for appointment to the office concerned.
+
+###### 85. Exercise of jurisdiction of Supreme Court
+
+(1) The Chief Justice or any other judge or acting judge of the Supreme Court may hold the Supreme Court.
+
+(2) A judge holding the Supreme Court has, in exercise of the jurisdiction of that Court, all the powers and authority of the Court, and, if not the Chief Justice, has the jurisdiction, powers, authority, privileges and immunities conferred on the Chief Justice.
+
+(3) If, at any time, there are two or more judges who may hold the Supreme Court, each of them may hold sittings of the Court simultaneously.
+
+(4) In this section, “Chief Justice” means the person holding the office of Chief Justice.
+
+##### Court of Appeal
+
+###### 86. Constitution of Court of Appeal
+
+(1) There shall be a Court of Appeal for St Helena which shall be a superior court of record.
+
+(2) The judges of the Court of Appeal shall be the President, and two or more Justices of Appeal.
+
+(3) A person shall be qualified for appointment as the President or a Justice of Appeal of the Court if—
+
+- (a) he or she is, or has been, a judge of a superior court in some part of the Commonwealth or in Ireland; or
+- (b) he or she is entitled to practise as a legally qualified advocate or a solicitor in such a court and has been so entitled for not less than five years.
+
+(4) For the purposes of subsection (3), a person shall be regarded as entitled to practise as such an advocate or a solicitor if he or she has been called, enrolled or otherwise admitted in that capacity (and has not subsequently been disbarred or removed from the roll of advocates or solicitors) even if, during any relevant period—
+
+- (a) the person was holding or acting in any office that precluded him or her from practising in a court; or
+- (b) the person did not hold a practising certificate or had not satisfied any other like condition of being permitted to practise.
+
+(5) If the office of President of the Court of Appeal is vacant or the President has not assumed, or is for any reason unable to perform the functions of, that office, those functions shall be performed by the next most senior Justice of Appeal in terms of the date of his or her appointment.
+
+(6) If the office of a Justice of Appeal is vacant, or any Justice of Appeal is discharging the functions of President or is for any other reason unable to perform the functions of the office, the Governor, acting in his or her discretion, may decide that a person qualified for appointment as a Justice of Appeal should be appointed to sit as an Acting Justice of Appeal.
+
+(7) The Court of Appeal shall have and use a seal bearing a device and impression of the Royal Arms within a border bearing the words “Seal of the St Helena Court of Appeal”.
+
+###### 87. Jurisdiction of Court of Appeal
+
+(1) The Court of Appeal shall have jurisdiction to hear and determine such appeals from the courts of St Helena as may be prescribed by this Constitution or any other law.
+
+(2) Except as otherwise provided by this Constitution, an appeal shall lie to the Court of Appeal from the Supreme Court—
+
+- (a) as of right, if the Supreme Court certifies that the case involves a substantial question of law as to the interpretation or effect of any provision of this Constitution;
+- (b) as of right, or, as the case may be, with the leave of the Supreme Court, in such other cases involving the exercise of the criminal, civil or appellate jurisdiction of the Supreme Court as may be provided by this Constitution or any other law;
+- (c) with the leave of the Supreme Court in any other case, if in the opinion of that Court the question involved in the appeal is one which by reason of its general or public importance, or of the magnitude of the interests affected, or for any other reason, ought to be submitted to the Court of Appeal for decision; and
+- (d) subject to such limitations as may be provided by law, if the Court of Appeal, in any case in which it thinks fit, and at any time, grants special leave to appeal to that Court from a judgment of the Supreme Court, subject to such conditions as to security for costs or otherwise as the Court of Appeal thinks fit.
+
+(3) In connection with any appeal from a court of St Helena, the Court of Appeal shall, subject to this Constitution and any other law, have all the powers and jurisdiction that are possessed by that court under any law; and decisions of the Court of Appeal in respect of any appeal from a court of St Helena shall, subject as aforesaid, be enforced in St Helena in the same way as decisions of that court.
+
+###### 88. Practice and procedure on appeals
+
+(1) Rules made under section 89 may fix the number of judges of the Court of Appeal who may sit for any purpose; but, subject to subsection (2)—
+
+- (a) an uneven number shall sit, which for the purposes of any final determination by the Court other than the summary dismissal of an appeal, shall not be fewer than three; and
+- (b) any determination by the Court on any matter (whether final or otherwise) shall, where more than one judge sits, be according to the opinion of a majority of the judges who sit for the purpose of determining that matter.
+
+(2) If, in a circumstance referred to in section 86(6), it is not practicable for the Governor to make an appointment under section 90(3), two judges of the Court of Appeal may hear, or continue to hear, and may determine, an appeal that has been set down for hearing; but—
+
+- (a) if those judges are not in agreement about the determination of any matter arising in the course of the proceedings, the presiding judge shall decide; and
+- (b) if those judges are not in agreement as to whether the appeal should be allowed, the presiding judge shall discontinue the appeal, and the matter shall be required to be reheard before the Court of Appeal consisting of three or a greater uneven number of judges of the Court.
+
+(3) Subject to subsections (1) and (2), rules made under section 89 may provide for a reference from a decision of a single judge to the Court of Appeal.
+
+(4) Subject to subsection (5), the Court of Appeal may sit in St Helena or outside St Helena.
+
+(5) The Court of Appeal may sit outside St Helena, if satisfied that—
+
+- (a) every party to the proceeding is able to participate, in person or through a legal representative, by teleconference or other means of electronic, oral or written communication;
+- (b) no injustice will result; and
+- (c) the course proposed is in the public interest.
+
+##### General
+
+###### 89. Rules of Court
+
+(1) The President of the Court of Appeal may make Rules of Court consistent with this Constitution and with any law for regulating the practice and procedure of the Court of Appeal.
+
+(2) The Chief Justice may make Rules of Court consistent with this Constitution and with any law for regulating the practice and procedure of the Supreme Court and any subordinate court.
+
+(3) Without prejudice to the generality of subsections (1) and (2), Rules of Court may be made for the following purposes—
+
+- (a) regulating the practice and procedure of the Court of Appeal or the Supreme Court with respect to appeals from the Supreme Court or a subordinate court, and, in connection with such appeals, for regulating the practice and procedure of any court from which such appeals may be brought;
+- (b) regulating the practice and procedure of the Court of Appeal or the Supreme Court with respect to proceedings held outside St Helena;
+- (c) regulating the sittings of the Court of Appeal, the Supreme Court or a subordinate court and the selection of judges of any of those courts for the purpose of exercising any jurisdiction of that court;
+- (d) regulating the right of practising before the Court of Appeal, the Supreme Court or a subordinate court and the representation of persons concerned in any proceedings in those courts;
+- (e) prescribing the cases in which, and conditions on which, an appellant in a criminal appeal to any court shall be entitled to be present at the hearing of the appeal;
+- (f) providing for summary determination of any appeal to the Court of Appeal or the Supreme Court which appears to the court concerned to be frivolous or vexatious or to be brought for the purposes of delay;
+- (g) prescribing forms and fees in respect of proceedings in the Court of Appeal, the Supreme Court or a subordinate court and regulating the costs of and incidental to any such proceedings;
+- (h) prescribing and regulating the powers and duties of registrars and officers of the Court of Appeal, the Supreme Court or a subordinate court; and
+- (i) prescribing the time within which any requirement of the rules of the Court of Appeal, the Supreme Court or a subordinate court is to be complied with.
+
+###### 90. Appointment of judges and judicial officers
+
+(1) The Governor, on instructions from Her Majesty given through a Secretary of State, shall appoint—
+
+- (a) the Chief Justice and any other judges of the Supreme Court; and
+- (b) the President of the Court of Appeal and the Justices of Appeal.
+
+(2) The Governor, acting in accordance with the recommendation of the Chief Justice, if the person holding that office is available, shall appoint any acting judge of the Supreme Court.
+
+(3) The Governor, acting in accordance with the recommendation of the President of the Court of Appeal, if the person holding that office is available, shall appoint any Acting Justice of Appeal.
+
+(4) The Governor, acting in accordance with the recommendation of the Judicial Service Commission, shall appoint any judicial officers.
+
+(5) Before entering upon the duties of the office, every holder of a judicial office referred to in this section shall make an oath or affirmation of allegiance and the judicial oath or affirmation in the forms set out in the Schedule.
+
+###### 91. Tenure of office of judges and judicial officers
+
+(1) The Chief Justice and any other judge of the Supreme Court shall be appointed for a term ending when the appointee attains the age of 70 or such later age as may be agreed at the time of appointment between that judge and the Governor, acting with the approval of a Secretary of State.
+
+(2) The President of the Court of Appeal and the Justices of Appeal shall be appointed for a term ending when the appointee attains the age of 70 or such later age as may be agreed at the time of appointment between that judge and the Governor, acting with the approval of a Secretary of State.
+
+(3) An acting judge of the Supreme Court shall be appointed either—
+
+- (a) for a term specified in the instrument of appointment; or
+- (b) if the appointee is acting in the place of a Chief Justice or other judge whose office is vacant, or who has not assumed, or is for any reason unable to perform the functions of, that office, for a term expiring on the assumption or resumption by the Chief Justice or other judge of the functions of the office.
+
+(4) An Acting Justice of Appeal shall be appointed for a term expiring when the vacant office of Justice of Appeal has been filled, when a Justice of Appeal is no longer discharging the functions of President, or when a Justice of Appeal is again able to perform the functions of the office, as the case may be.
+
+(5) A judge or judicial officer may, when his or her appointment expires, continue so to act for the purposes of giving judgment or otherwise in relation to any proceeding commenced before him or her while his or her appointment was subsisting.
+
+(6) A judge may resign from office by writing under his or her hand addressed to the Governor.
+
+(7) A judicial officer shall be appointed for life, or until the appointee reaches such an age as may be prescribed by Ordinance.
+
+(8) A judicial officer—
+
+- (a) may resign from office by writing under his or her hand addressed to the presiding member of the Judicial Service Commission;
+- (b) shall be deemed to have resigned from office if he or she—
+  - (i) is elected as a Member or as the Speaker or Deputy Speaker of the Legislative Council; or
+  - (ii) continues to hold, or accepts, an appointment as an officer of the St Helena Public Service, unless, under a law, such an officer is entitled to serve as a judicial officer on a basis that is consistent with the independence of the judiciary and with the efficiency of the Public Service.
+
+###### 92. Remuneration
+
+(1) A judge or a judicial officer shall receive such remuneration as is determined by the Governor, acting in his or her discretion, and that remuneration shall be charged on and paid out of the Consolidated Fund.
+
+(2) The remuneration of a judge or a judicial officer shall not be diminished during his or her continuance in office.
+
+###### 93. Removal from office
+
+(1) A judge or judicial officer may be removed from office only on the ground of—
+
+- (a) inability to discharge the functions of the office (whether arising from infirmity of body or mind or from any other cause); or
+- (b) misbehaviour,
+
+and shall not be removed except in accordance with this section.
+
+(2) A judge shall be removed from office by the Governor by instrument under the public seal if the question of the removal of that judge from office has, at the request of the Governor made in pursuance of subsection (3), been referred by Her Majesty to the Judicial Committee of Her Majesty’s Privy Council under section 4 of the Judicial Committee Act 1833[^f00006] or any other enactment enabling Her Majesty in that behalf, and the Judicial Committee has advised Her Majesty that the judge should be removed from office on a ground referred to in subsection (1).
+
+(3) If the Governor, acting in his or her discretion, considers that the question of removing a judge from office on a ground referred to in subsection (1) ought to be investigated, then—
+
+- (a) the Governor shall appoint a tribunal, which shall consist of a chairman and two other members; but the chairman and at least one of the other members shall be a serving or former judge of a superior court in some part of the Commonwealth or in Ireland;
+- (b) the tribunal shall inquire into the matter and report on the facts thereof to the Governor and advise the Governor whether he or she should request that the question of the removal of that judge should be referred by Her Majesty to the Judicial Committee; and
+- (c) if the tribunal so advises, the Governor shall request that the question should be referred accordingly.
+
+(4) If the question of removing a judge from office has been referred to a tribunal under subsection (3) the Governor, acting in his or her discretion, may suspend the judge from performing the functions of his or her office.
+
+(5) Any suspension made under subsection (4) may at any time be revoked by the Governor, acting in his or her discretion, and shall in any case cease to have effect—
+
+- (a) if the tribunal advises the Governor that he or she should not request that the question of the removal of the judge from office should be referred by Her Majesty to the Judicial Committee; or
+- (b) if the Judicial Committee advises Her Majesty that the judge should not be removed from office.
+
+(6) The Governor shall remove a judicial officer from office if—
+
+- (a) the question of doing so has been considered by the Judicial Service Commission; and
+- (b) the Commission has recommended to the Governor that the judicial officer concerned should be removed from office on a ground referred to in subsection (1).
+
+(7) A person who has been removed from office as a judicial officer by the Governor on the recommendation of the Judicial Service Commission may apply to the Supreme Court for redress on the ground that any finding of fact or law on which the Commission based its recommendation for removal was unjustified or wrong; and, for the purpose of affording such redress, the Supreme Court may make such declarations and orders, issue such writs and give such directions as it considers appropriate.
+
+###### 94. Judicial Service Commission
+
+(1) There shall be a Judicial Service Commission for St Helena (“the Commission”) which shall consist of—
+
+- (a) the Chief Justice, who shall preside;
+- (b) the Attorney General;
+- (c) the Public Solicitor, if a person for the time being holds that office; and
+- (d) a person who has St Helenian status who is neither a Member of the Legislative Council, an officer of the St Helena Public Service, a judge or a judicial officer, appointed by the Governor, acting in his or her discretion, for a term of three years.
+
+(2) The office of the member of the Commission appointed under subsection (1)(d) shall become vacant if—
+
+- (a) he or she becomes an officer of the St Helena Public Service, accepts appointment as a judge or a judicial officer, or becomes a Member of the Legislative Council;
+- (b) he or she resigns from office by writing under his or her hand addressed to the Governor; or
+- (c) the Governor, acting in his or her discretion, and being satisfied that the member should be removed from office on the ground of inability to discharge the functions of the office (whether arising from infirmity of body or mind or from any other cause) or misbehaviour, removes that member from office.
+
+(3) The Governor, acting in his or her discretion, may suspend the member from office while his or her removal from office on a ground referred to in subsection (2)(c) is under investigation.
+
+(4) No business shall be transacted by the Commission unless—
+
+- (a) all members are present at a meeting in St Helena or elsewhere; or
+- (b) if they are in different places, all members are able to communicate with one another about that business in ways that they agree are appropriate in the circumstances.
+
+(5) All questions before the Commission shall be decided by a majority of the votes of its members; and if, on any question, the votes are equally divided, the Chief Justice shall have and exercise a casting vote.
+
+(6) The Commission may, of its own motion or at the request of the Executive Council or of an organisation that is representative of judicial officers—
+
+- (a) make recommendations to the Governor on the appointment of judicial officers;
+- (b) consider and, if it so decides, make recommendations to the Governor on, the removal from office of a judicial officer on a ground referred to in section 93(1); and
+- (c) exercise such other functions as may be conferred on it by law.
+
+(7) In the exercise of its functions the Commission shall act independently and shall not be subject to the direction or control of the Governor, the Executive Council or any other person or authority.
+
+(8) No member of the Commission shall be personally liable for the consequences of any act done or omitted by the Commission in good faith in pursuance or intended pursuance of the Commission’s functions; and if any such liability is established, it shall be that of the Crown.
+
+#### PART 7 — PUBLIC SERVICE
+
+##### 95. Appointment etc of officers of St Helena Public Service
+
+(1) Subject to this Constitution, the Governor, acting in his or her discretion but after consultation with such persons or such independent authority (if any) as may be prescribed by Ordinance, may, in Her Majesty’s name and on Her Majesty’s behalf—
+
+- (a) make appointments to any office in the St Helena Public Service; and
+- (b) remove and exercise disciplinary control over persons holding or acting in any such office.
+
+(2) The Governor, acting in his or her discretion, may by directions in writing delegate the power conferred on him or her by subsection (1) to any officer or officers of the St Helena Public Service to such extent, and subject to such conditions, as may be specified in the directions.
+
+(3) Subject to this Constitution, an Ordinance may provide for the establishment of an independent authority to exercise any of the following functions—
+
+- (a) advising the Governor about procedures for the exercise of the powers referred to in subsection (1), including recruitment, grievance and appeal procedures;
+- (b) advising the Governor on public service management, performance, conduct and ethics policies, and monitoring the implementation of such policies;
+- (c) carrying out annual reviews of the procedures and policies referred to in paragraphs (a) and (b), and reporting on such reviews to the Governor; and
+- (d) such other functions as may contribute to the efficiency and integrity of the St Helena Public Service.
+
+##### 96. Terms and conditions of employment
+
+(1) The Governor, acting in his or her discretion, shall approve (and may from time to time amend) a Code of Management by or under which the terms and conditions of employment of officers of the St Helena Public Service, or any branch of it, shall be determined.
+
+(2) Subject to any such Code of Management, the terms and conditions of the employment of an individual officer of the St Helena Public Service shall be as agreed in that officer’s contract of employment or implied by any rule of law.
+
+#### PART 8 — PUBLIC FINANCE
+
+##### 97. Taxation
+
+(1) No tax, rate or other similar levy shall be imposed except under the authority of an Ordinance.
+
+(2) Where an Ordinance referred to in subsection (1) confers powers on any person or authority to waive or vary a tax imposed by that law, that person or authority shall report to the Legislative Council on the exercise of those powers as often as shall be determined by law but not less than annually.
+
+##### 98. Consolidated Fund
+
+(1) There shall be a Consolidated Fund for St Helena into which shall be paid all revenues or other moneys raised or received by and for the purposes of the Government of St Helena.
+
+(2) The revenues or other moneys referred to in subsection (1) shall not include revenues or other moneys that are payable by or under an Ordinance into some other fund established for a specific purpose.
+
+##### 99. Withdrawal from Consolidated Fund or other public account
+
+(1) No moneys shall be withdrawn from the Consolidated Fund except—
+
+- (a) to meet expenditure charged on the Fund by this Constitution or by an Ordinance; or
+- (b) where the issue of those moneys has been authorised by an Appropriation Ordinance, a Supplementary Appropriation Ordinance, or as provided in section 102 or 103.
+
+(2) No moneys shall be withdrawn from any public fund of St Helena other than the Consolidated Fund, unless the issue of those moneys has been authorised by or under an Ordinance.
+
+##### 100. Annual Estimates
+
+(1) The Minister responsible for finance[^key-630bab5bea10cbd957b45844f1231b43] shall cause to be prepared and laid before the Legislative Council before the beginning of each financial year (or as soon as practicable thereafter) Estimates of revenue and expenditure of the Government of St Helena for that financial year.
+
+(2) Notwithstanding subsection (1), the Minister responsible for finance[^key-c3041c46944fae3ba8d53b087a6f6634] may cause to be prepared and laid before the Legislative Council—
+
+- (a) fiscal and monetary programmes and plans for economic and social development;
+- (b) estimates of revenue and expenditure covering periods exceeding one year; and
+- (c) estimates of non-financial outputs.
+
+##### 101. Appropriation Bill
+
+The Minister responsible for finance[^key-747a8ed3eb6b712b54ec07cffff863de] shall introduce into the Legislative Council an Appropriation Bill which includes the heads of expenditure contained in the Estimates referred to in section 100(1) (other than expenditure authorised by this Constitution or any other law) to authorise the issue from the Consolidated Fund of the sums necessary to meet that expenditure and to appropriate those sums for the purposes specified in the Bill.
+
+##### 102. Authorisation of expenditure in advance of appropriation
+
+(1) Subject to subsections (3) and (4), if the Appropriation Ordinance for any financial year has not come into force by the beginning of that financial year, the Legislative Council may, by resolution, empower the Financial Secretary to authorise, consistently with any law, the withdrawal of moneys from the Consolidated Fund, or any other fund established by or under an Ordinance for a specific purpose, in order to meet expenditure necessary to carry on the services or projects of the Government, until—
+
+- (a) the expiration of four months from the beginning of that financial year; or
+- (b) the coming into force of the Appropriation Ordinance for that financial year,
+
+whichever is the earlier.
+
+(2) Any amounts authorised to be withdrawn under subsection (1) shall be set off against the amounts provided in the Appropriation Ordinance in respect of that expenditure.
+
+(3) Any amounts authorised to be withdrawn from the Consolidated Fund under subsection (1) shall, subject to subsection (4), be restricted to one third of the aggregate of the sums provided for in the Appropriation Ordinance and any Supplementary Appropriation Ordinance for the previous financial year.
+
+(4) If, by reason of the dissolution of the Legislative Council or because of circumstances certified by the Governor, acting with the approval of a Secretary of State, to be exceptional and beyond his or her control, no Appropriation Ordinance for a financial year has come into force before the expiration of four months from the beginning of that financial year—
+
+- (a) the period of four months from the beginning of that financial year referred to in subsection (1) shall be extended until one month after the Council first meets after the expiry of that period; and
+- (b) the fraction of one third referred to in subsection (3) shall be increased to the proportion of the financial year represented by the extended period referred to in paragraph (a).
+
+##### 103. Special Warrants
+
+(1) The Governor, acting on the recommendation of the Minister responsible for finance[^key-39c15838867c0d6d15ecd6e49520040b] and after consulting the Executive Council, if satisfied that there is an urgent and unforeseen need for expenditure for which no other provision exists, may issue a Special Warrant authorising the Financial Secretary to make payments to meet that expenditure out of the Consolidated Fund, up to the amount specified in the warrant; and such warrant shall constitute an appropriation of that amount.
+
+(2) Notification of every Special Warrant shall be laid before the Legislative Council by the Minister responsible for finance[^key-0d739a8b32fec4d0cf9f75d342f8ca88] on the first sitting day not less than ten days after the date of its issue.
+
+##### 104. Withdrawal Warrants
+
+(1) The Governor, acting on the recommendation of the Minister responsible for finance[^key-a68f2549f77e5359af712afb4c4d80fd] and after consulting the Executive Council, if satisfied that financial exigencies so require, may issue a Withdrawal Warrant authorising the limitation or suspension of appropriated expenditure, to the extent specified in the warrant.
+
+(2) Notification of every Withdrawal Warrant shall be laid before the Legislative Council by the Minister responsible for finance[^key-ee01b85bbc58dc43c56362d7c167d4d3] on the first sitting day not less than ten days after the date of its issue.
+
+##### 105. Supplementary Estimates
+
+If in the course of any financial year it is found that the amount appropriated for any purpose is insufficient or that a need has arisen for expenditure for a purpose for which no amount has been appropriated, a supplementary Estimate showing the sums required shall be laid before the Legislative Council by the Minister responsible for finance[^key-476fd6a62083514af45110b1450cd207]; and the heads of expenditure contained in that Estimate shall be included in a Bill, to be known as a Supplementary Appropriation Bill, which shall be introduced into the Legislative Council to provide for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums for the purposes specified in the Bill.
+
+##### 106. Excess expenditure
+
+(1) Where at the close of accounts for any financial year it is found that moneys have been expended on any expenditure vote in excess of the amount appropriated for it or for a purpose for which no moneys have been appropriated, the amount of the excess expended, or not appropriated, as the case may be, shall be included in a statement of expenditure in excess which shall be laid before the Legislative Council and referred to the Public Accounts Committee.
+
+(2) The Public Accounts Committee shall report to the Legislative Council on a statement of expenditure in excess referred to it under subsection (1) within six months after the statement is referred to it.
+
+(3) On receiving any report of the Public Accounts Committee issued under subsection (2) the Legislative Council may, by resolution, allow the excess or the amount expended but not appropriated to stand charged to public funds.
+
+##### 107. Lapse of appropriations
+
+The appropriations made by the Appropriation Ordinance or any Supplementary Appropriation Ordinance or by a Special Warrant issued under section 103 for any financial year shall lapse at the end of that financial year, unless otherwise provided by Ordinance.
+
+##### 108. Public debt
+
+(1) All debt charges for which the Government of St Helena is liable shall be a charge on the Consolidated Fund.
+
+(2) For the purposes of this section, debt charges include interest, the repayment or amortisation of debt, and the costs, charges and expenses incidental to the management of debt.
+
+##### 109. Annual statement of accounts
+
+(1) The Financial Secretary shall, as soon as practicable after the end of each financial year, and in accordance with such other requirements as may be prescribed by a law—
+
+- (a) cause to be prepared for submission to the Chief Auditor a statement of accounts reflecting the financial operations of the Consolidated Fund and any other public fund or account for that financial year (in this Constitution referred to as the “annual statement of accounts”); and
+- (b) submit the annual statement of accounts to the Chief Auditor.
+
+(2) The Chief Auditor, in accordance with such other requirements as may be prescribed by a law, shall audit the annual statement of accounts within six months of receiving it (or such longer period as the Governor may authorise in exceptional circumstances), and shall return it, together with the Chief Auditor’s report and annual management letter, to the Financial Secretary.
+
+(3)[^key-cad15ec6ed2e86eabdc523877881a401] The Financial Secretary shall, as soon as practicable, deliver the audited annual statement of accounts and its attachments received under subsection (2) to the Minister responsible for finance and the Minister shall lay them before the Legislative Council on the next sitting day.
+
+##### 109A. Financial Secretary[^key-7a91f8aa14e7e1a5de6aff983c4529b7]
+
+(1) There shall be a Financial Secretary, who shall be an officer of the St Helena Public Service.
+
+(2) The Financial Secretary shall be responsible for finance and the principal financial adviser to the Government of St Helena.
+
+(3) The Financial Secretary shall be appointed by the Governor, acting after consultation with the Chief Minister.
+
+(4) In addition to any other functions conferred on the Financial Secretary by or under this Constitution or any other law, the holder of the office shall be responsible for advising the Minister responsible for finance on—
+
+- (a) all matters pertaining to the Estimates;
+- (b) the immediate and long-term financial implications of any proposal for the expenditure of public money;
+- (c) the future cost of repaying and servicing any loan; and
+- (d) the estimated future cost of maintaining an asset created or acquired by any capital expenditure.
+
+##### 110. The Chief Auditor
+
+(1) There shall be a Chief Auditor for St Helena.
+
+(2) Power to make appointments to the office of Chief Auditor is vested in the Governor, acting in his or her discretion and with the approval of a Secretary of State.
+
+(3) The Chief Auditor shall be appointed for the term specified in the instrument of appointment.
+
+(4) Power to remove the Chief Auditor from office is vested in the Governor, acting in accordance with subsections (5) to (7).
+
+(5) The Governor shall remove the Chief Auditor from office if—
+
+- (a) the Chief Auditor is found guilty of a criminal offence carrying a penalty of more than six months’ imprisonment regardless of whether a lesser sentence is imposed; or
+- (b) the Chief Auditor becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors, or otherwise makes an assignment of remuneration for the benefit of creditors.
+
+(6) If the Legislative Council by resolution addressed to the Governor resolves that the Chief Auditor is unable to perform the functions of his or her office due to misconduct, incapacity or incompetence—
+
+- (a) the Governor shall appoint a tribunal which shall consist of a chairman and two other members; but the chairman and at least one of the other members shall be a serving or former judge of a superior court in some part of the Commonwealth or in Ireland; and
+- (b) the tribunal shall inquire into the matter and report on the facts thereof to the Governor and advise the Governor whether or not the Chief Auditor should be removed from office for misconduct, incapacity or incompetence.
+
+(7) If the tribunal appointed in accordance with subsection (6) advises the Governor that the Chief Auditor should be removed from office then the Governor shall remove him or her from office.
+
+(8) If the question of removing the Chief Auditor from office has been referred to a tribunal under subsection (6), the Governor, acting in his or her discretion, may suspend the Chief Auditor from performing the functions of that office and may at any time revoke such suspension, and in any case such suspension shall cease to have effect if the tribunal advises the Governor that the Chief Auditor should not be removed from office.
+
+(9) The terms and conditions of employment or engagement including the remuneration of the Chief Auditor shall be set from time to time by a resolution of the Legislative Council.
+
+(10) The remuneration of the Chief Auditor shall not be diminished during his or her continuance in office, and shall be charged on and paid out of the Consolidated Fund.
+
+##### 111. Functions of Chief Auditor
+
+(1) In addition to the other functions conferred on the Chief Auditor by this Constitution, the Chief Auditor shall have the following functions—
+
+- (a) to promote public accountability in the public administration of St Helena;
+- (b) to act as adviser to the Public Accounts Committee;
+- (c) to undertake any function conferred on the Chief Auditor by or under any Ordinance; and
+- (d) to do anything incidental or conducive to any of the Chief Auditor’s functions.
+
+(2) The Chief Auditor, and any person acting under his or her authority, shall have access to all books, records, reports and other documents relating to the financial operations of the Government of St Helena.
+
+(3) In the exercise of his or her functions, the Chief Auditor, and any person acting under his or her authority, shall act independently and shall not be subject to the direction or control of the Governor, the Executive Council or any other person or authority.
+
+##### 112. Borrowing or lending by Government of St Helena
+
+(1) Subject to this Constitution, the Government of St Helena may borrow from any source.
+
+(2) The Government of St Helena shall not issue a guarantee or indemnity nor raise a loan on behalf of itself or any other public institution, authority or person except—
+
+- (a) as authorised by or under an Ordinance; and
+- (b) in accordance with any borrowing guidelines agreed with Her Majesty’s Government in the United Kingdom.
+
+(3) An Ordinance referred to in subsection (2)(a) shall provide that the terms and conditions of the guarantee, indemnity or loan shall be laid before the Legislative Council and shall not come into operation unless they have been approved by a resolution of the Council.
+
+(4) The Minister responsible for finance[^key-a3a2f02d4cf868d0c8460a2d71a0160e] shall, at such times as the Legislative Council may determine, cause to be presented to the Council such information concerning any loan as is necessary to show—
+
+- (a) the extent of the total indebtedness by way of principal and accumulated interest;
+- (b) the provision made for servicing or repayment of the loan; and
+- (c) compliance with the terms of the loan.
+
+(5) The Legislative Council may, by resolution, authorise the Government of St Helena to enter into an agreement for giving a loan out of any public fund or public account.
+
+(6) An agreement entered into pursuant to subsection (5) shall be laid before the Legislative Council and shall not come into operation unless it has been approved by the Council by resolution.
+
+(7) For the purposes of this section, the expression “loan” includes any money lent or given to or by the Government of St Helena on condition of return or repayment and any other form of borrowing or lending in respect of which —
+
+- (a) moneys from the Consolidated Fund or any other public fund may be used for payment or repayment; or
+- (b) moneys from any fund by whatever name called, established for the purposes of payment or repayment whether in whole or in part and whether directly or indirectly, may be used for payment or repayment.
+
+(8) The Legislature may by law exempt any category of loan from subsections (2)(a), (3), (5) and (6), subject to such conditions as it may so prescribe.
+
+#### PART 9 — COMPLAINTS COMMISSIONER
+
+##### 113. Complaints Commissioner
+
+(1) The Governor, acting in his or her discretion, may from time to time appoint a Complaints Commissioner to investigate, in accordance with any Ordinance enacted pursuant to section 60, any complaint of maladministration in the government of St Helena or such other matters as may be prescribed by Ordinance.
+
+(2) No person shall be qualified for appointment as a Complaints Commissioner if he or she is a Member of the Legislative Council or an officer of the St Helena Public Service.
+
+(3) A Complaints Commissioner shall vacate office—
+
+- (a) at the expiration of the period specified in the instrument by which he or she was appointed;
+- (b) if he or she resigns office by writing under his or her hand addressed to the Governor;
+- (c) if he or she becomes a Member of the Legislative Council or is appointed to hold or act in any office in the St Helena Public Service; or
+- (d) if the Governor, acting in his or her discretion, directs that he or she shall be removed from office for inability to discharge the functions of the office (whether arising from infirmity of body or mind or from any other cause) or for misbehaviour.
+
+##### 114. Functions of Complaints Commissioner
+
+(1) A Complaints Commissioner shall have such functions, powers and jurisdiction as may be prescribed by Ordinance.
+
+(2) In the investigation of any complaint or other matter, a Complaints Commissioner shall act independently and shall not be subject to the direction or control of the Governor, the Executive Council or any other person or authority.
+
+#### PART 10 — MISCELLANEOUS
+
+##### 115. Interpretation
+
+In this Chapter, unless it is otherwise provided or required by the context—
+
+- “Ascension” means Ascension Island;
+- “breach”, in relation to any provision of this Chapter, includes a failure to comply with that provision, and cognate expressions shall be construed accordingly;
+- “Consolidated Fund” means the Fund established by section 98;
+- “court” means any subordinate court, the Supreme Court or the Court of Appeal, and includes Her Majesty in Council;
+- “disciplinary law”, in relation to a disciplined force, means the law regulating the discipline of that force;
+- “disciplinary offence” means an offence against the disciplinary law;
+- “disciplined force” means any police force of St Helena, any prison service of St Helena, any fire service of St Helena, any naval, military or air force raised in St Helena under the law of St Helena, or any visiting force;
+- “financial year” means the period of twelve months beginning on the first day of April in any year or such other day as the Legislature may prescribe;
+- “functions” include powers and duties;
+- “*Gazette*” means the St Helena Government Gazette;
+- “judge” means the Chief Justice or another judge of the Supreme Court, the President of the Court of Appeal, a Justice of Appeal, an acting judge of the Supreme Court, or an Acting Justice of Appeal;
+- “judicial officer” means a justice of the peace, a judge of a subordinate court, a Coroner or other person who is authorised to exercise the powers of a judge of a subordinate court;
+- “law” means law in force in St Helena, and includes an Ordinance, and any instrument made under an Ordinance, and any other instrument having the force of law and any unwritten rule of law, and “lawful” and “lawfully” shall be construed accordingly;
+- “legal representative” means a person who—
+  - (a) is entitled to practise before the court or other tribunal or authority exercising jurisdiction or power in respect of a person who is arrested, detained, or charged with a criminal offence or is a party to any other proceeding; and
+  - (b) has an effective opportunity to represent that person—
+    - (i) by appearing before that court or other tribunal or authority at the hearing of the proceeding or the process through which it is exercising that jurisdiction or power, in St Helena or in any place outside St Helena where it may lawfully sit; or
+    - (ii) in the case of a proceeding in the Supreme Court or the Court of Appeal when sitting in a place outside St Helena, by participating in that proceeding by teleconference or other means of electronic, oral or written communication;
+- “meeting”, in relation to the Legislative Council, means the sitting or sittings of the Council commencing when the Council first meets at a time and place determined or appointed under section 61 and terminating when the Council is adjourned *sine die* or to a time and place so determined or appointed for a subsequent meeting, or is dissolved;
+- “member”, in relation to a disciplined force, includes any person who, under the disciplinary law, is subject to that discipline;
+- “minor” means a person who has not attained the age of eighteen years or such other age as may be prescribed for the purposes of this Chapter by any other law;
+- “officer of the St Helena Public Service” means the holder of any office in the St Helena Public Service and any other employee of the Public Service (except a casual worker), and includes a person appointed to act as an officer of the St Helena Public Service;
+- “Ordinance” means a law made by a Legislature in and for St Helena;
+- “period of public emergency” means any period during which—
+  - (a) there is, in or affecting St Helena, a war or other public emergency threatening the life of the nation; and
+  - (b) a proclamation of a state of emergency is in force under a law;
+- “St Helena Public Service” means the service of the Crown in a civil capacity in respect of the government of St Helena, and includes service as a member of any police force, prison service or fire service of St Helena; but does not include service as a judge, a judicial officer or a Complaints Commissioner, or service as a member of the Legislative Council, a Council Committee, the Executive Council, the Judicial Service Commission, the Public Accounts Committee, the Advisory Committee on the Prerogative of Mercy or, unless otherwise provided by a law, of any other public authority;
+- “St Helenian status” means St Helenian status as provided for under the Immigration Control Ordinance or any Ordinance amending or replacing that Ordinance;
+- “sitting”, in relation to the Legislative Council, means a period during which the Council is sitting continuously without adjournment and includes any period during which the Council is in committee of the whole, and “sitting day” shall be construed accordingly;
+- “subordinate court” means a court of St Helena subordinate to the Supreme Court that has been established by Ordinance, and includes the exercise of any power or jurisdiction in relation to an inquiry conferred on a Coroner by the Coroners Ordinance or any Ordinance amending or replacing that Ordinance;
+- “Tristan da Cunha” means the Island of Tristan da Cunha, Gough Island, Nightingale Island and Inaccessible Island;
+- “visiting force” means any naval, military or air force raised in, or under the law of, a country other than St Helena, one or more members of which are lawfully in St Helena while on service in that capacity;
+- “wrongfully removed or retained child” means a child under the age of sixteen years who has been wrongfully removed to or retained in the territory of a state that is a contracting party to the Convention on the Civil Aspects of International Child Abduction, signed at The Hague on 25 October 1980.
+
+##### 116. References to the holder of an office to include a person acting in the office
+
+In this Chapter, unless it is otherwise provided or required by the context, a reference to the holder of an office by the term designating his or her office shall be construed as including a reference to any person acting in that office or, to the extent of his or her authority, otherwise performing the functions of that office.
+
+##### 117. Power to amend and revoke instruments, etc
+
+(1) Any power conferred by this Chapter to make any subsidiary instrument or to give any instructions or directions shall be construed as including a power exercisable in like manner to amend or revoke any such instrument, instructions or directions.
+
+(2) For the purposes of this section, “subsidiary instrument” means any proclamation, regulation, order, rule or other like instrument having the force of law.
+
+##### 118. Appointments
+
+(1) Where any person has vacated any office (including any seat in the Legislative Council) established by this Chapter, he or she may, if qualified, again be appointed or elected or otherwise selected to hold that office in accordance with this Chapter.
+
+(2) Where a power is conferred by this Chapter on any person to make any appointment to any office, a person may be appointed to that office even though some other person may be holding that office, when that other person is on leave of absence pending relinquishment of that office; and where two or more persons are holding the same office by reason of an appointment made in pursuance of this subsection, then, for the purposes of any function conferred on the holder of that office, the person last appointed to that office shall be deemed to be the sole holder of the office.
+
+(3) In this Chapter, unless it is otherwise provided or required by the context, any reference to power to make appointments to an office shall be construed as including reference to power to make appointments on promotion and transfer to that office and power to appoint a person to act in that office during any period when it is vacant or the holder of it is unable (whether by reason of absence or infirmity of body or mind or any other cause) to perform the functions of that office.
+
+(4) Where by this Chapter any person is directed, or power is conferred on any person or authority to appoint a person, to act in an office if the holder of it is unable to perform the functions of that office, the validity of any performance of those functions by the person so directed or of any appointment made in exercise of that power shall not be called into question in any court on the grounds that the holder of the office is not unable to perform the functions of the office.
+
+##### 119. Removal from office
+
+References in this Chapter to the power to remove an officer of the St Helena Public Service from his or her office shall be construed as including references to any power conferred by any law to require or permit that officer to retire from the Public Service and to any power or right to terminate a contract on which a person is employed in the Public Service and to determine whether any such contract shall or shall not be renewed.
+
+##### 120. Resignations
+
+(1) Any person who is appointed to any office established by or under this Chapter may resign from that office by writing under his or her hand addressed to the person or authority by whom he or she was appointed.
+
+(2) The resignation of any person from any office established by or under this Chapter takes effect when the writing signifying the resignation is received by the person or authority to whom it is addressed or by any other person authorised by that person or authority to receive it.
+
+### CHAPTER 2 — ASCENSION
+
+#### PART 1 — PARTNERSHIP VALUES
+
+##### 121. The partnership values
+
+(1) The partnership between the United Kingdom and Ascension shall continue to be based on the following values—
+
+- (a) good faith;
+- (b) the rule of law;
+- (c) good government;
+- (d) sound financial management;
+- (e) the impartial administration of justice;
+- (f) the impartiality of the Ascension Public Service;
+- (g) the maintenance of public order;
+- (h) compliance with applicable international obligations of the United Kingdom and of Ascension; and
+- (i) the maintenance of international peace and security and the right of individual or collective self-defence.
+
+(2) The relationships between each of Ascension, St Helena and Tristan da Cunha shall continue to be based on the values listed in subsection (1) and a willingness to have due regard for one another’s interests.
+
+(3) In exercising their responsibilities and powers, all organs of government in Ascension have a duty to give effect to the partnership values.
+
+(4) As the partnership values are statements of political principle, no court shall find that any act or omission of an organ of government was unlawful on account of a failure to give effect to the partnership values.
+
+(5) Subject to subsection (4), the Supreme Court may enquire, but only on an application for judicial review, whether or not any organ of government (other than the Governor) has acted rationally and with procedural propriety in relation to giving effect to a partnership value.
+
+#### PART 2 — FUNDAMENTAL RIGHTS AND FREEDOMS OF THE INDIVIDUAL
+
+##### 122. Fundamental rights and freedoms of the individual
+
+Whereas every person in Ascension is entitled to the fundamental rights and freedoms of the individual, that is to say, has the right, without distinction of any kind, such as sex, sexual orientation, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, age, disability, birth or other status, but subject to respect for the rights and freedoms of others and for the public interest, to each and all of the following—
+
+- (a) life, liberty, security of the person and the protection of the law;
+- (b) freedom of conscience, of expression and of assembly and association;
+- (c) protection for his or her private and family life, the privacy of his or her home and other property; and
+- (d) protection from deprivation of property save in the public interest and on payment of fair compensation,
+
+this Part shall afford protection to these rights and freedoms, and to related rights and freedoms, subject to the limitations contained in this Part, being limitations designed to ensure that the enjoyment of the protected rights and freedoms by any individual does not prejudice the rights and freedoms of others or the public interest.
+
+##### 123. Protection of right to life
+
+(1) No person shall be deprived intentionally of his or her life.
+
+(2) A person shall not be regarded as having been deprived of his or her life in breach of this section if he or she dies as a result of the use, to such extent and in such circumstances as are permitted by law, of force which is no more than absolutely necessary—
+
+- (a) for the defence of any person from violence;
+- (b) in order to effect a lawful arrest or to prevent the escape of a person lawfully detained;
+- (c) for the purpose of suppressing a riot, insurrection or mutiny,
+
+or if he or she dies as a result of a lawful act of war.
+
+##### 124. Protection from inhuman treatment
+
+No person shall be subjected to torture or to inhuman or degrading treatment or punishment.
+
+##### 125. Protection from slavery and forced labour
+
+(1) No person shall be held in slavery or servitude.
+
+(2) No person shall be required to perform forced or compulsory labour.
+
+(3) For the purposes of this section, “forced or compulsory labour” does not include—
+
+- (a) any labour required of a member of a disciplined force as part of his or her duties or, in the case of a person who has conscientious objections to service in a naval, military or air force, any labour that the law requires that person to perform in place of such service;
+- (b) labour required of any person while he or she is lawfully detained that is reasonably necessary in the interests of hygiene or for the maintenance of the place in which he or she is detained;
+- (c) any labour required for the purpose of dealing with any situation arising during a period of public emergency or at a time when any other emergency or calamity threatens the well-being of the community, to the extent that the requiring of such labour is reasonably justifiable for that purpose; or
+- (d) any labour required in consequence of the sentence or order of a court.
+
+##### 126. Protection of right to personal liberty
+
+(1) No person shall be deprived of his or her personal liberty save as may be authorised by law in any of the following cases—
+
+- (a) as a result of his or her unfitness to plead to a criminal charge;
+- (b) in execution of the sentence or order of a court, whether established for Ascension or some other country, in respect of a criminal offence of which he or she has been convicted;
+- (c) in execution of an order of a court punishing him or her for contempt of that court or of another court or of a tribunal;
+- (d) in execution of the order of a court made in order to secure the fulfilment of any obligation imposed on him or her by law; but no person shall be deprived of his or her liberty merely on the ground of inability to fulfil a contractual obligation;
+- (e) in order to bring him or her before a court in execution of the order of a court;
+- (f) on reasonable suspicion of his or her having committed or of being about to commit a criminal offence under any law;
+- (g) in the case of a minor—
+  - (i) under the order of a court or in order to bring him or her before a court; or
+  - (ii) with the consent of the minor’s parent or guardian, for his or her education or welfare during any period ending not later than the date when the minor attains the age of majority or such lower age as may be provided by law;
+- (h) in order to prevent the spread of an infectious or contagious disease;
+- (i) in the case of a person who is, or is reasonably suspected to be, of unsound mind, addicted to drugs or alcohol, or a vagrant, in order to care for or treat him or her or for the protection of the community; or
+- (j) in order to prevent the unlawful entry of that person into Ascension, or to effect the expulsion, extradition or other lawful removal of that person from Ascension, or to restrict that person while he or she is being conveyed through Ascension in the course of his or her extradition or removal from one country to another as a wrongfully removed or retained child or as a convicted prisoner.
+
+(2) Any person who is arrested or detained shall be informed promptly, orally and in writing, in a language that he or she understands, of the reason for his or her arrest or detention.
+
+(3) Any person who is arrested or detained has the right, at any stage and at his or her own expense, to retain and instruct without delay a legal representative of his or her own choice, and to communicate privately with him or her, and in the case of a minor he or she shall also be given a reasonable opportunity to communicate with his or her parent or guardian; but when the person who is arrested or detained is unable to retain a legal representative at his or her own expense and the interests of justice so require, he or she shall be permitted to be represented by, and communicate privately with, a legal representative at the public expense.
+
+(4) Every person who is arrested shall be informed, as soon as he or she is brought to a police station or other place of custody, of his or her rights under subsection (3); and he or she shall also have the right, and shall be informed at the same time that he or she has the right, to remain silent and to have one person informed by the quickest practicable means of his or her arrest and whereabouts.
+
+(5) The exercise of the rights of communication conferred by subsections (3) and (4) may be delayed for such reasonable time as is provided by law, to the extent that the law in question is necessary in a democratic society for the prevention and detection of criminal offences.
+
+(6) Any person who is arrested or detained—
+
+- (a) in order to bring him or her before a court in execution of the order of a court; or
+- (b) on reasonable suspicion of his or her having committed or being about to commit a criminal offence under any law,
+
+and who is not released, shall be brought without undue delay before a court.
+
+(7) When a person is brought before a court in accordance with subsection (6)(b), the court, without prejudice to any further proceedings which may be brought against him or her, shall, unless there is good reason for the person’s continued detention, release the person either unconditionally or upon reasonable conditions, including in particular such conditions as are reasonably necessary to ensure that the person appears at a later date for trial or for proceedings preliminary to trial.
+
+(8) Every person who is arrested or detained shall be entitled to take proceedings by which the lawfulness of his or her detention shall be decided speedily by a court and his or her release ordered if the detention is not lawful.
+
+(9) Any person who is unlawfully arrested or detained by any other person shall be entitled to compensation for such unlawful arrest or detention from that other person, from any person or authority on whose behalf that other person was acting or from them both; but a judge or a judicial officer, or an officer of a court or a police officer acting in pursuance of the order of a judge or a judicial officer, shall not be personally liable to pay compensation under this subsection in respect of anything done by him or her in good faith in the discharge of the functions of his or her office, and any liability to pay any such compensation shall be a liability of the Crown.
+
+(10) For the purposes of subsection (1)(b), a person charged with a criminal offence in respect of whom a special verdict has been returned that he or she committed the act or made the omission constituting the offence but was insane at the time shall be regarded as a person who has been convicted of a criminal offence, and the detention of that person in consequence of such a finding shall be regarded as detention in execution of the order of a court.
+
+##### 127. Provisions to secure a fair trial
+
+(1) If a person is charged with a criminal offence, then, unless the charge is withdrawn, the case shall be afforded a fair and public hearing within a reasonable time by an independent and impartial court established by law.
+
+(2) Every person who is charged with a criminal offence—
+
+- (a) shall be presumed to be innocent until he or she is proved or has pleaded guilty;
+- (b) shall be informed promptly, in a language that he or she understands and in detail, of the nature of the offence charged;
+- (c) shall be given adequate time and facilities for the preparation of his or her defence;
+- (d) shall be permitted to defend himself or herself before the court in person or, at his or her own expense, by a legal representative of his or her own choice or, if unable to retain a legal representative at his or her own expense and the interests of justice so require, by a legal representative at the public expense;
+- (e) shall be given facilities to examine in person or by his or her legal representative the witnesses called before the court by the prosecution, and to obtain the attendance before the court and carry out the examination of witnesses to testify on his or her behalf on the same conditions as those applying to witnesses called by the prosecution; and
+- (f) shall be permitted to have without payment the assistance of an interpreter if he or she cannot understand the language used at his or her trial,
+
+and, except with his or her own free consent, the trial shall not take place in his or her absence, unless he or she so behaves in the court as to render the continuance of the proceedings in his or her presence impracticable and the court has ordered him or her to be removed and the trial to proceed in his or her absence.
+
+(3) When a person is tried for any criminal offence, he or she or any person authorised by him or her in that behalf shall, if he or she (the accused person) so requires and subject to payment of such reasonable fee as may be prescribed by law, be given within a reasonable time after judgment a copy of any record of the proceedings made by or on behalf of the court.
+
+(4) No person shall be held to be guilty of a criminal offence on account of any act or omission that did not, at the time it took place, constitute such an offence, and no penalty shall be imposed for any criminal offence that is severer in degree or description than the maximum penalty that might have been imposed for that offence at the time when it was committed.
+
+(5) No person who shows that he or she has been tried by a competent court for a criminal offence and either convicted or acquitted shall again be tried for that offence or for any other criminal offence of which he or she could have been convicted at the trial for that offence, save upon the order of a higher court in the course of appeal or review proceedings relating to the conviction or acquittal.
+
+(6) No person shall be tried for a criminal offence if he or she shows that he or she has been pardoned for that offence.
+
+(7) No person who is tried for a criminal offence shall be compelled to give evidence at his or her trial.
+
+(8) Every person who has been convicted by a court of a criminal offence shall have the right to appeal to a higher court against his or her conviction or his or her sentence or both; but—
+
+- (a) nothing contained in any law shall be held to breach this subsection—
+  - (i) to the extent that it precludes an appeal by a person against his or her conviction of an offence if he or she pleaded guilty to that offence at trial; or
+  - (ii) to the extent that it makes reasonable provision with respect to the grounds on which any such appeal may be made or with respect to the practice and procedure to be observed in relation to the making, hearing and disposal of any such appeal; and
+- (b) this subsection shall not apply in relation to the conviction of a person by a higher court, or in relation to his or her sentence upon such conviction, if he or she was convicted by that court on an appeal against his or her acquittal by a lower court.
+
+(9) When a person has, by a final decision of a court, been convicted of a criminal offence and, subsequently, his or her conviction has been quashed, or he or she has been pardoned, on the ground that a newly-disclosed fact shows that there has been a miscarriage of justice, he or she shall be compensated out of public funds for any punishment that he or she has suffered as a result of the conviction unless it is proved that the non-disclosure in time of that fact was wholly or partly his or her fault.
+
+(10) For the determination of the existence or extent of his or her civil rights and obligations, every person shall have the right to a fair hearing within a reasonable time before an independent and impartial court, tribunal or other authority established by law.
+
+(11) All proceedings for the determination of the existence or extent of any person’s civil rights or obligations before any court or other authority, including the announcement of the decision of the court or other authority, shall be held in public.
+
+(12) Nothing in subsection (1) or (11) shall prevent a court or other authority from excluding from criminal or civil proceedings persons other than the parties thereto and their legal representatives, or forbidding the publication of the names of the parties or other details of the evidence or of the decision to such an extent as the court or other authority—
+
+- (a) is empowered by law to do and considers necessary or expedient in circumstances where publicity would prejudice the interests of justice, or in interim proceedings, or in the interests of the welfare of minors or the protection of the private lives of persons concerned in the proceedings; or
+- (b) is empowered or required by law to do in the interests of defence, public safety, public order or public morality.
+
+(13) Nothing contained in or done under the authority of any law shall be held to breach—
+
+- (a) subsection (2)(a), to the extent that the law in question imposes on any person charged with a criminal offence the burden of proving particular facts;
+- (b) subsection (2)(e), to the extent that the law in question imposes reasonable conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds; or
+- (c) subsection (5), to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force; but any court so trying such a member and convicting him or her shall in sentencing him or her to any punishment take into account any punishment awarded him or her under that disciplinary law.
+
+##### 128. Protection of right of prisoners to humane treatment
+
+(1) All persons deprived of their liberty (in this section referred to as “prisoners”) shall have the right to be treated with humanity and with respect for the inherent dignity of the human person.
+
+(2) Every unconvicted prisoner shall be entitled to be treated in a manner appropriate to his or her status as such.
+
+(3) Every juvenile prisoner shall be treated in a manner appropriate to his or her age and legal status and, if he or she is an unconvicted prisoner and unless he or she is earlier released, shall have any criminal proceedings against him or her pursued with the greatest possible expedition.
+
+(4) Save where the interests of defence, public safety, public order, public morality, public health or the administration of justice otherwise require, or the facilities available for the detention of prisoners do not permit, or segregation would be detrimental to the well-being of a prisoner, unconvicted prisoners shall be segregated from convicted prisoners, and juvenile prisoners shall be segregated from adult prisoners.
+
+##### 129. Protection for private and family life and for privacy of home and other property
+
+(1) Every person shall have the right to respect for his or her private and family life, his or her home and his or her correspondence or other means of communication, and, except with his or her own free consent, no person shall be subjected to the search of his or her person or property or the entry by others on his or her premises.
+
+(2) Nothing contained in or done under the authority of any law shall be held to breach this section to the extent that the law in question is necessary in a democratic society—
+
+- (a) in the interests of defence, public safety, public order, public morality, public health, town and country planning, the development of mineral resources, or the development or use of any other property in such a manner as to promote the public benefit;
+- (b) to protect the rights and freedoms of other persons;
+- (c) to enable an officer or agent of the Government of Ascension or any public authority to enter on the premises of any person in order to inspect those premises or anything on them for the purpose of any tax, rate or due or in order to carry out work connected with any property that is lawfully on those premises and that belongs to the Government of Ascension or that public authority;
+- (d) to authorise, for the purpose of enforcing the judgment or order of a court, the search of any person or property by order of a court or the entry upon any premises by such order; or
+- (e) for the purpose of preventing or detecting breaches of the criminal, customs or immigration law.
+
+##### 130. Protection of right to marry, and of spouses’ and children’s rights
+
+(1) Every man and woman of marriageable age (as determined by or under any law) shall have the right to marry and found a family.
+
+(2) No person shall be compelled to marry, that is to say, to do so without his or her free and full consent.
+
+(3) Nothing contained in or done under the authority of any law shall be held to breach subsection (1) to the extent that the law in question is necessary in a democratic society—
+
+- (a) in the interests of public order, public morality or public health;
+- (b) to regulate, in the public interest, the procedures and modalities of marriage; or
+- (c) for the protection of the rights and freedoms of others.
+
+(4) Spouses shall be entitled to equal rights and shall be subject to equal responsibilities as between themselves and as regards their children both during marriage and, if the marriage is dissolved, thereon and thereafter, but this equality of rights and responsibilities shall be subject to such arrangements or measures as may be agreed, or as may be ordered by a court.
+
+(5) Every child shall have the right to such measures of protection as are required by his or her status as a minor, on the part of his or her family, society and the Government of Ascension, and which are appropriate and proportionate to the circumstances of Ascension.
+
+##### 131. Protection of freedom of conscience
+
+(1) Except with his or her own free consent, no person shall be hindered in his or her enjoyment of his or her freedom of conscience, which includes freedom of thought and of religion, freedom to change his or her religion or belief, and freedom, either alone or in community with others and either in public or in private, to manifest and propagate his or her religion or belief in worship, teaching, practice and observance.
+
+(2) Except with his or her own free consent (or, if he or she is a minor, the consent of his or her parent or guardian), no person attending any place of education shall be required to receive religious instruction or to take part in or attend any religious ceremony or observance if that instruction, ceremony or observance relates to a religion other than his or her own.
+
+(3) No religious community or denomination shall be prevented from or hindered in providing religious instruction for persons of that community or denomination in the course of any education provided by it whether or not it is in receipt of any government subsidy, grant or other form of financial assistance designed to meet, in whole or in part, the cost of such education.
+
+(4) No person shall be compelled to take any oath which is contrary to his or her religion or belief or to take any oath in a manner which is contrary to his or her religion or belief.
+
+(5) Nothing contained in or done under the authority of any law shall be held to breach this section to the extent that the law in question is necessary in a democratic society—
+
+- (a) in the interests of defence, public safety, public order, public morality or public health; or
+- (b) for the protection of the rights and freedoms of other persons, including the right of any person to observe and practise his or her religion or belief without the unsolicited intervention of adherents of any other religion or belief.
+
+(6) References in this section to a religion shall be construed as including references to a religious denomination, and cognate expressions shall be construed accordingly.
+
+##### 132. Protection of right to education
+
+(1) This section is without prejudice to section 131.
+
+(2) Every child of the appropriate age, as provided by law, shall be entitled to receive primary education which shall, subject to subsection (3), be free.
+
+(3) Every person who is the parent or legal guardian of a child shall be entitled to have his or her child (of whatever age) educated, at his or her own expense unless a law otherwise provides, in a private school (that is to say, a school other than one established by the Government of Ascension or a public authority) and, in such a school, to ensure the religious and moral education of his or her child in accordance with his or her own convictions.
+
+(4) Nothing contained in or done under the authority of any law shall be held to breach subsection (3) to the extent that the law in question is necessary in a democratic society for the purpose of making provision requiring private schools, as a condition of their being allowed to operate and on terms no more onerous than are applicable to schools established by the Government of Ascension or a public authority, to satisfy—
+
+- (a) such minimum educational standards (including standards relating to the qualifications of teaching staff and other staff) as may be prescribed by or under that or any other law; and
+- (b) such minimum standards imposed in the interests of public order, public morality or public health as may be so prescribed.
+
+##### 133. Protection of freedom of expression
+
+(1) Except with his or her own free consent, no person shall be hindered in the enjoyment of his or her freedom of expression.
+
+(2) For the purposes of this section a person’s freedom of expression includes his or her freedom to hold opinions without interference, his or her freedom to receive information and ideas without interference, his or her freedom to disseminate information and ideas without interference (whether the dissemination be to the public generally or to any person or class of persons) and his or her freedom from interference with his or her correspondence or other means of communication.
+
+(3) Nothing contained in or done under the authority of any law shall be held to breach this section to the extent that the law in question is necessary in a democratic society—
+
+- (a) in the interests of defence, public safety, public order, public morality or public health;
+- (b) for the protection of the reputations, rights and freedoms of other persons, or the private lives of persons concerned in legal proceedings or proceedings before any other tribunal or authority, preventing the disclosure of information received in confidence, maintaining the authority and independence of the courts, or regulating telephony, posts, telegraphy, electronic communications, broadcasting or public shows; or
+- (c) to impose restrictions on an officer of the Ascension Public Service for the proper performance of his or her functions.
+
+##### 134. Protection of freedom of assembly and association
+
+(1) Except with his or her own free consent, no person shall be hindered in the enjoyment of his or her freedom of peaceful assembly and association, that is to say, his or her right to assemble freely and associate with other persons and in particular to form or belong to trade unions or other associations for the promotion and protection of his or her interests.
+
+(2) Nothing contained in or done under the authority of any law shall be held to breach this section to the extent that the law in question is necessary in a democratic society—
+
+- (a) in the interests of defence, public safety, public order, public morality or public health;
+- (b) for the protection of the rights and freedoms of other persons; or
+- (c) to impose on officers of the Ascension Public Service restrictions that interfere as little as is practicable with the rights and freedoms conferred by this section, for the purposes of safeguarding the impartiality of the Public Service, the discipline of the police force or of any prison service or the provision of public services that are essential to public order, public safety or public health.
+
+##### 135. Protection from deprivation of property
+
+(1) No property of any description shall be compulsorily taken possession of, and no interest in or right to or over property of any description shall be compulsorily acquired, except in accordance with a law and where the following conditions are satisfied—
+
+- (a) the taking of possession or acquisition is in the public interest; and
+- (b) there is reasonable justification for the causing of any hardship that may result to any person having an interest in or right to or over the property; and
+- (c) provision is made by a law—
+  - (i) for the prompt payment of adequate compensation; and
+  - (ii) securing to any person having an interest in or right to or over the property a right of access to the Supreme Court, whether direct or on appeal from another tribunal or authority, for the determination of his or her interest or right, the legality of the taking of possession or acquisition and the amount of any compensation to which he or she is entitled, and for the purpose of obtaining prompt payment of that compensation.
+
+(2) No person who is entitled to compensation under this section shall be prevented from remitting, within a reasonable time after he or she has received any amount of that compensation, the whole of that amount (free from any deduction, charge or tax imposed by public authority in respect of its remission) to any country of his or her choice outside Ascension.
+
+(3) Without prejudice to the generality of the expression “in the public interest” in subsection (1), nothing contained in or done under the authority of any law shall be held to breach this section to the extent that the law in question makes provision—
+
+- (a) for controlling the use of any property, interest or right in accordance with the general interest; or
+- (b) for taking possession of or acquiring any property, interest or right—
+  - (i) as a consequence of a breach of the law;
+  - (ii) to secure the payment of taxes or other like impositions; or
+  - (iii) for the administration or enforcement of the law regulating the private civil rights and obligations of persons in respect of property.
+
+##### 136. Protection from arbitrary deprivation of St Helenian status or of British citizenship
+
+(1) No person with St Helenian status shall be arbitrarily deprived of that status, whether by legislation or otherwise.
+
+(2) As everyone has the right to a nationality, no person shall be arbitrarily deprived of his or her British citizenship, whether by legislation or otherwise.
+
+##### 137. Protection from discrimination
+
+(1) Subject to subsection (4), no law shall make any provision which is discriminatory either of itself or in its effect.
+
+(2) Subject to subsections (4) and (6), no person shall be treated in a discriminatory manner by any organ or officer of the executive or judicial branches of government or any person acting in the performance of the functions of the Ascension Public Service or any public authority.
+
+(3) In this section, the expression “discriminatory” means affording different treatment to different persons on any ground such as sex, sexual orientation, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, age, disability, birth or other status.
+
+(4) Nothing contained in or done under the authority of any law shall be held to breach this section to the extent that it has an objective and reasonable justification and there is a reasonable proportion between the provision of law in question or, as the case may be, the thing done under it and the aim which that provision or the thing done under it seeks to realise.
+
+(5) No person shall be treated in a discriminatory manner in respect of access to any of the following places to which the general public have access, namely, shops, hotels, restaurants, eating-houses, licensed premises, places of entertainment or places of resort; but the proprietor of such a place has a duty to provide amenities and equipment facilitating the access of disabled persons only to the extent provided by a law.
+
+(6) For the purposes of subsection (2), the exercise, in relation to a person, of any discretion to institute, conduct or discontinue criminal or civil proceedings in any court shall not in itself be held to breach this section.
+
+##### 138. Derogations from fundamental rights and freedoms under emergency powers
+
+Nothing contained in or done under the authority of any law shall be held to breach any of the provisions of this Part other than sections 123, 124, 125(1), 127(2)(a), 127(4), 127(5), 127(6) and 127(7) to the extent that the law in question authorises the taking during any period of public emergency of measures that are strictly required for dealing with the situation that exists in Ascension during that period.
+
+##### 139. Protection of persons detained under emergency laws
+
+(1) When a person is detained by virtue of a law referred to in section 138, the following provisions shall apply—
+
+- (a) he or she shall, as soon as reasonably possible, and in any case not more than seven days after the start of his or her detention, be informed in detail, in a language that he or she understands, of the grounds upon which he or she is detained and furnished with a written statement, in a language that he or she understands or, if this is not reasonably practicable, in English, specifying those grounds in detail;
+- (b) not more than fourteen days after the start of his or her detention a notification shall be published in a public place (and as soon as possible thereafter in the *Gazette*) stating that he or she has been detained and setting out the provision of law by virtue of which his or her detention is authorised;
+- (c) not more than one month after the start of his or her detention and thereafter during the detention at intervals of not more than six months, his or her case shall be reviewed by an independent and impartial tribunal established by law and presided over by a person appointed by the Chief Justice;
+- (d) he or she shall be given reasonable facilities to consult a legal representative of his or her own choice (or, if he or she is unable to retain a legal representative, such person as the tribunal may approve) who shall be permitted to make representations to the tribunal appointed for the review of his or her case; and
+- (e) at the hearing of his or her case by the tribunal appointed for its review he or she shall be permitted to appear in person or by a legal representative of his or her own choice or, if he or she is unable to retain a legal representative, by such person as the tribunal may approve.
+
+(2) On any review by a tribunal of the case of a detained person in pursuance of this section, the tribunal may make recommendations concerning the necessity or expediency of continuing the detention to the authority by which it was ordered but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations.
+
+(3) Nothing in subsection (1)(d) or subsection (1)(e) shall be construed as entitling a person to legal representation at the public expense, except when the interests of justice so require.
+
+##### 140. Enforcement of protective provisions
+
+(1) If any person alleges that any of the provisions of this Part has been, is being or is likely to be breached in relation to him or her (or, in the case of a person who is detained, if any other person alleges such a breach in relation to the detained person), then, without prejudice to any other action with respect to the same matter that is lawfully available, that person (or that other person) may apply to the Supreme Court for redress.
+
+(2) The Supreme Court shall have original jurisdiction—
+
+- (a) to hear and determine any application made by any person in pursuance of subsection (1); and
+- (b) to determine any question arising in the case of any person that is referred to it in pursuance of subsection (7),
+
+and may make such declarations and orders, issue such writs and give such directions as it considers appropriate for the purpose of enforcing or securing the enforcement of any of the provisions of this Part.
+
+(3) The Supreme Court may decline to exercise its powers under subsection (2) if it is satisfied that adequate means of redress for the breach alleged are or have been available to the person concerned under any other law.
+
+(4) Without prejudice to the generality of subsection (2), where, in exercise of its powers under that subsection, the Supreme Court determines that one of the provisions of this Part has been breached in relation to any person, it—
+
+- (a) may order the award to that person of such damages as the Supreme Court considers just and appropriate; or
+- (b) may direct the court which made the reference to it under subsection (7) (“the referring court”) to order the award to that person of such damages as that court considers just and appropriate, within such limits (if any) as the Supreme Court declares.
+
+(5) An award of damages may not be made in pursuance of subsection (4) in respect of the making of any law but such an award may be made in respect of anything done by any organ or officer of the executive or judicial branches of government or any person acting in the performance of the functions of the Ascension Public Service or any public authority.
+
+(6) Subsection (4) is without prejudice to section 126(9).
+
+(7) If in any proceedings in a subordinate court any question arises as to the breach of any of the provisions of this Part, the person presiding in that court may, and shall if any party to the proceedings so requests, refer the question to the Supreme Court unless, in the opinion of the court in which the question arose, the raising of the question is merely frivolous or vexatious.
+
+(8) If the effect of a provision of this Part is in issue in proceedings before the Supreme Court, the Court of Appeal or Her Majesty in Council, to which the Crown is not a party—
+
+- (a) the Attorney General may intervene; and
+- (b) the presiding judge must not hear and determine the proceedings until satisfied that the Attorney General has received notice of the proceedings and has had sufficient time to decide whether or not to intervene.
+
+(9) Where any question is referred to the Supreme Court in pursuance of subsection (7), the Supreme Court shall give its decision upon the question and the referring court shall dispose of the case in accordance with that decision or, if that decision is the subject of an appeal to the Court of Appeal or to Her Majesty in Council, in accordance with the decision of the Court of Appeal or, as the case may be, of Her Majesty in Council.
+
+(10) An appeal shall lie as of right to the Court of Appeal from any final determination of any application or question by the Supreme Court under this section, and an appeal shall lie as of right to Her Majesty in Council from the final determination by the Court of Appeal of the appeal in any such case; but no appeal shall lie from a determination by the Supreme Court under this section dismissing an application on the ground that it is frivolous or vexatious.
+
+(11) The Governor may by Ordinance confer on the Supreme Court such powers in addition to those conferred by this section as may appear to be necessary or desirable for the purpose of enabling that Court more effectively to exercise the jurisdiction conferred on it by this section.
+
+(12) The Chief Justice or the President of the Court of Appeal, as the case requires, may make Rules of Court with respect to the practice and procedure—
+
+- (a) of the Supreme Court in relation to the jurisdiction and powers conferred on it by or under this section;
+- (b) of the Supreme Court or the Court of Appeal in relation to appeals under this section from determinations of the Supreme Court or the Court of Appeal; and
+- (c) of subordinate courts in relation to references to the Supreme Court under subsection (7),
+
+including provisions with respect to the time within which any application, reference or appeal shall or may be made or brought.
+
+##### 141. Application of this Part to the members of a disciplined force
+
+(1) A member of—
+
+- (a) any police force of Ascension;
+- (b) any prison service of Ascension;
+- (c) any fire service of Ascension; and
+- (d) any naval, military or air force raised in Ascension under the law of Ascension,
+
+who is charged with having committed an offence against the law of Ascension, other than a disciplinary offence, is entitled to the full protection of this Part.
+
+(2) A member of a force referred to in subsection (1) who is charged with having committed a disciplinary offence is entitled to the protection of sections 123, 124 and 125.
+
+(3) If a member of a force referred to in subsection (1) has been convicted of an offence against the law of Ascension other than a disciplinary offence, and is also convicted of a disciplinary offence arising out of the same conduct, the punishment for the first-mentioned offence must be taken into account in determining the punishment for the disciplinary offence.
+
+(4) A member of a visiting force who is charged with having committed an offence against the law of Ascension is entitled to the full protection of this Part.
+
+(5) A member of a visiting force who is charged in Ascension with having committed a disciplinary offence, including an offence against any criminal law of the sending State which, by virtue of a provision of the disciplinary law of that force, applies to that member while in Ascension, is entitled to the protection of sections 123, 124 and 125.
+
+(6) In this section, “sending State”, in relation to a member of a visiting force, means the country, other than Ascension, in or under the law of which that force was raised.
+
+##### 142. Saving for certain treaties
+
+Nothing in this Part shall affect any international agreement for the time being in force between the United Kingdom and the United States of America relating to Ascension.
+
+#### PART 3 — THE GOVERNOR
+
+##### 143. The Governor
+
+(1) There shall be a Governor of Ascension, who, subject to subsections (3) and (4), shall be the person for the time being holding or lawfully performing the functions of the office of Governor of St Helena.
+
+(2) The Governor shall have such functions as are conferred or imposed on him or her by this Constitution or any other law and such other functions as Her Majesty may from time to time be pleased to assign to him or her through a Secretary of State, and, subject to the provisions of this Constitution and of any other law by which any such functions are conferred or imposed, shall do and execute all things that belong to his or her office according to such instructions, if any, as Her Majesty may from time to time see fit to give him or her through a Secretary of State; but no court shall enquire whether to not he or she has complied with any such instructions.
+
+(3) No person who is acting as Governor of St Helena shall do so in relation to Ascension while the Governor is in Ascension or travelling between St Helena and Ascension.
+
+(4) No person who is appointed as a Governor’s Deputy under section 28 shall discharge any function of the office of Governor in relation to Ascension while the Governor is in Ascension unless the Governor expressly authorises him or her to do so.
+
+(5) In subsections (3) and (4), “the Governor” means the person holding the office of Governor.
+
+##### 144. Powers of pardon, etc
+
+The Governor may, in Her Majesty’s name and on Her Majesty’s behalf—
+
+- (a) grant to any person concerned in or convicted of any offence a pardon, either free or subject to lawful conditions;
+- (b) grant to any person a respite, either indefinite or for a specified period, of the execution of any punishment imposed on that person for any offence;
+- (c) substitute a less severe form of punishment for any punishment imposed on any person for any offence; or
+- (d) remit the whole or part of any punishment imposed on any person for any offence or of any penalty or forfeiture otherwise due to Her Majesty on account of any offence.
+
+##### 145. Powers to dispose of land
+
+Subject to this Constitution and any other law, the Governor or any person duly authorised by him or her in writing under his or her hand may, in Her Majesty’s name and on Her Majesty’s behalf, make and execute grants and other dispositions of any rights or interests in respect of any land or other immovable property in Ascension that is vested in Her Majesty in right of the Government of Ascension.
+
+##### 146. Public seal
+
+(1) There shall be a public seal of Ascension, which shall be the public seal of St Helena.
+
+(2) The Governor shall have custody of the public seal.
+
+(3) The public seal may be used to seal such public documents signed by the Governor or an officer subordinate to the Governor as should be sealed with the public seal.
+
+##### 147. Constitution of offices
+
+(1) There shall be an Administrator of Ascension, who shall be appointed by the Governor, shall be an officer of the Ascension Public Service and shall have such functions as may be prescribed by any law.
+
+(2) Subject to this Constitution and any other law, the Governor, in Her Majesty’s name and on Her Majesty’s behalf, may constitute other offices for Ascension.
+
+#### PART 4 — THE EXECUTIVE
+
+##### 148. Executive authority
+
+(1) The executive authority of Ascension is vested in Her Majesty.
+
+(2) Subject to this Constitution, the executive authority of Ascension shall be exercised on behalf of Her Majesty by the Governor, either directly or through the Administrator of Ascension and other officers subordinate to the Governor.
+
+(3) Nothing in this section shall preclude persons or authorities other than the Governor from exercising such functions as are or may be conferred on them by any law.
+
+##### 149. Island Council
+
+There shall be an Island Council for Ascension, which shall be composed, and shall have such functions in relation to the government of Ascension, as may be prescribed by any law.
+
+##### 150. Attorney General
+
+(1) There shall be an Attorney General of Ascension, who, subject to subsection (3), shall be the person for the time being holding or acting in the office of Attorney General of St Helena.
+
+(2) The Attorney General shall be the principal legal adviser to the Government of Ascension.
+
+(3) No person who is acting as Attorney General of St Helena shall act as Attorney General in relation to Ascension while the person holding the office of Attorney General is in Ascension.
+
+(4) The Governor may appoint a suitably qualified and experienced person to be a Crown Counsel of Ascension, and any such Crown Counsel shall be an officer of the Ascension Public Service and shall act as legal adviser to the Government of Ascension, subordinate to the Attorney General and acting under and in accordance with his or her general or special instructions.
+
+(5) The Attorney General may, in any case in which he or she considers it desirable to do so—
+
+- (a) institute and undertake criminal proceedings against any person before any court in respect of an offence against any law;
+- (b) take over and continue any such criminal proceedings that have been instituted by any other person or authority; and
+- (c) discontinue at any stage before judgment is delivered any such criminal proceedings instituted or undertaken by himself or herself or any other person or authority.
+
+(6) The powers of the Attorney General under subsection (5) may be exercised by him or her in person or by officers subordinate to him or her acting under and in accordance with his or her general or special instructions.
+
+(7) The powers conferred on the Attorney General by subsection (5)(b) and (c) shall be vested in him or her to the exclusion of any other person or authority; but where any other person or authority has instituted criminal proceedings, nothing in this subsection shall prevent the withdrawal of those proceedings by or at the instance of that person or authority at any stage before the person against whom the proceedings have been instituted has been charged before the court.
+
+(8) For the purposes of this section, any appeal from any determination in any criminal proceedings before any court, or any case stated or question of law reserved for the purpose of any such proceedings to any other court, shall be deemed to be part of those proceedings.
+
+(9) In the exercise of the powers conferred on him or her by this section, the Attorney General, and any person acting under his or her authority, shall act independently and shall not be subject to the direction of control of the Governor, the Island Council or any other person or authority.
+
+#### PART 5 — THE LEGISLATURE
+
+##### 151. Power to make laws
+
+(1) The Governor, acting after consultation with the Island Council, may make laws for the peace, order and good government of Ascension.
+
+(2) The Governor shall not be obliged to act in accordance with the advice of the Island Council in exercising his or her powers under subsection (1), but in any case where the Governor acts contrary to the advice of the Council any member of the Council shall have the right to submit his or her views on the matter to a Secretary of State.
+
+##### 152. Disallowance of laws
+
+(1) Any law made by the Governor may be disallowed by Her Majesty through a Secretary of State.
+
+(2) Whenever a law has been disallowed by Her Majesty the Governor shall, as soon as practicable, cause notice of the disallowance to be published in the *Gazette*, and the law shall be annulled with effect from the date of the publication of that notice.
+
+(3) Section 16(1) of the Interpretation Act 1978[^f00007] shall apply to the annulment of any law under this section as it applies to the repeal of an Act of Parliament, save that any enactment repealed or amended by or in pursuance of that law shall have effect as from the date of the annulment as if that law had not been made.
+
+#### PART 6 — THE ADMINISTRATION OF JUSTICE
+
+##### 153. The Courts of Ascension
+
+(1) The courts of Ascension shall be the Supreme Court of St Helena, the Court of Appeal of St Helena, and such courts subordinate to the Supreme Court as may be established by law.
+
+(2) Her Majesty in Council continues to have such jurisdiction in respect of Ascension as is provided by law.
+
+##### 154. Independence of the judiciary
+
+The judges and judicial officers appointed to preside or sit in any court of Ascension shall exercise their judicial functions independently from the legislative and executive branches of government.
+
+##### Supreme Court
+
+###### 155. Jurisdiction of Supreme Court
+
+(1) Subject to this Constitution, the Supreme Court shall have and may exercise all such jurisdiction in and in relation to Ascension as is necessary to administer the law of Ascension.
+
+(2) Without prejudice to the generality of subsection (1), the Supreme Court shall possess and may exercise in and in relation to Ascension, subject to this Constitution and to any other law, all the jurisdiction which is vested in, or is capable of being exercised by, Her Majesty’s High Court of Justice in and in relation to England.
+
+###### 156. Sittings of Supreme Court
+
+(1) Subject to subsection (2), the Supreme Court may sit in Ascension or outside Ascension.
+
+(2) The Chief Justice and any other judge or acting judge of the Supreme Court may hold sittings of the Court when outside Ascension, if satisfied that—
+
+- (a) a matter arising in a proceeding before the Court needs to be dealt with promptly;
+- (b) every party to the proceeding is able to participate, in person or through a legal representative, by teleconference or other means of electronic, oral or written communication;
+- (c) no injustice will result; and
+- (d) the course proposed is in the public interest.
+
+(3) The Chief Justice when outside Ascension may exercise such powers of revision, variation, confirmation or setting aside of any sentence or order made by a subordinate court as are conferred on him or her by any law.
+
+###### 157. Exercise of jurisdiction of Supreme Court
+
+(1) The Chief Justice or any other judge or acting judge of the Supreme Court may hold the Supreme Court.
+
+(2) A judge holding the Supreme Court has, in exercise of the jurisdiction of that Court, all the powers and authority of the Court, and, if not the Chief Justice, has the jurisdiction, powers, authority, privileges and immunities conferred on the Chief Justice.
+
+(3) If, at any time, there are two or more judges who may hold the Supreme Court, each of them may hold sittings of the Court simultaneously.
+
+(4) In this section, “Chief Justice” means the person holding the office of Chief Justice.
+
+##### Court of Appeal
+
+###### 158. Jurisdiction of Court of Appeal
+
+(1) The Court of Appeal shall have jurisdiction to hear and determine such appeals from the courts of Ascension as may be prescribed by this Constitution or any other law.
+
+(2) Except as otherwise provided by this Constitution, an appeal shall lie to the Court of Appeal from the Supreme Court—
+
+- (a) as of right, if the Supreme Court certifies that the case involves a substantial question of law as to the interpretation or effect of any provision of this Constitution;
+- (b) as of right, or, as the case may be, with the leave of the Supreme Court, in such other cases involving the exercise of the criminal, civil or appellate jurisdiction of the Supreme Court as may be provided by this Constitution or any other law;
+- (c) with the leave of the Supreme Court in any other case, if in the opinion of that Court the question involved in the appeal is one which by reason of its general or public importance, or of the magnitude of the interests affected, or for any other reason, ought to be submitted to the Court of Appeal for decision; and
+- (d) subject to such limitations as may be provided by law, if the Court of Appeal, in any case in which it thinks fit, and at any time, grants special leave to appeal to that Court from a judgment of the Supreme Court, subject to such conditions as to security for costs or otherwise as the Court of Appeal thinks fit.
+
+(3) In connection with any appeal from a court of Ascension, the Court of Appeal shall, subject to this Constitution and any other law, have all the powers and jurisdiction that are possessed by that court under any law; and decisions of the Court of Appeal in respect of any appeal from a court of Ascension shall, subject as aforesaid, be enforced in Ascension in the same way as decisions of that court.
+
+###### 159. Practice and procedure on appeals
+
+(1) Rules made under section 89 may fix the number of judges of the Court of Appeal who may sit for any purpose; but, subject to subsection (2)—
+
+- (a) an uneven number shall sit, which for the purposes of any final determination by the Court other than the summary dismissal of an appeal, shall not be fewer than three; and
+- (b) any determination by the Court on any matter (whether final or otherwise) shall, where more than one judge sits, be according to the opinion of a majority of the judges who sit for the purposes of determining that matter.
+
+(2) If, in a circumstance referred to in section 86(6), it is not practicable for the Governor to make an appointment under section 90(3), two judges of the Court of Appeal may hear, or continue to hear, and may determine, an appeal that has been set down for hearing; but—
+
+- (a) if those judges are not in agreement about the determination of any matter arising in the course of the proceedings, the presiding judge shall decide; and
+- (b) if those judges are not in agreement as to whether the appeal should be allowed, the presiding judge shall discontinue the appeal, and the matter shall be required to be reheard before the Court of Appeal consisting of three or a greater uneven number of judges of the Court.
+
+(3) Subject to subsections (1) and (2), rules made under section 89 may provide for a reference from a decision of a single judge to the Court of Appeal.
+
+(4) Subject to subsection (5), the Court of Appeal may sit in Ascension or outside Ascension.
+
+(5) The Court of Appeal may sit outside Ascension, if satisfied that—
+
+- (a) every party to the proceeding is able to participate, in person or through a legal representative, by teleconference or other means of electronic, oral or written communication;
+- (b) no injustice will result; and
+- (c) the course proposed is in the public interest.
+
+##### General
+
+###### 160. Rules of Court
+
+Rules of Court made under section 89 shall apply in Ascension with such modifications as the President of the Court of Appeal or, as the case may be, the Chief Justice may prescribe, and in particular such Rules may regulate the practice and procedure of the Court of Appeal or the Supreme Court with respect to proceedings held outside Ascension.
+
+###### 161. Judicial officers
+
+(1) The Governor, acting in accordance with the recommendation of the Ascension Judicial Service Commission, shall appoint any judicial officers.
+
+(2) Before entering upon the duties of his or her office, every judicial officer shall make an oath or affirmation of allegiance and the judicial oath or affirmation in the forms sets out in the Schedule.
+
+(3) A judicial officer shall be appointed for life, or until the appointee reaches such an age as may be prescribed by Ordinance.
+
+(4) A judicial officer may, when his or her appointment expires, continue so to act for the purposes of giving judgment or otherwise in relation to any proceeding commenced before him or her while his or her appointment was subsisting.
+
+(5) A judicial officer—
+
+- (a) may resign from office by writing under his or her hand addressed to the presiding member of the Ascension Judicial Service Commission;
+- (b) shall be deemed to have resigned from office if he or she—
+  - (i) is elected as a member of the Island Council; or
+  - (ii) continues to hold, or accepts, an appointment as an officer of the Ascension Public Service, unless, under a law, such an officer is entitled to serve as a judicial officer on a basis that is consistent with the independence of the judiciary and with the efficiency of the Public Service.
+
+(6) A judicial officer may be removed from office only on the ground of—
+
+- (a) inability to discharge the functions of the office (whether arising from infirmity of body or mind or from any other cause); or
+- (b) misbehaviour,
+
+and shall not be removed except in accordance with subsection (7).
+
+(7) The Governor shall remove a judicial officer from office if—
+
+- (a) the question of doing so has been considered by the Ascension Judicial Service Commission; and
+- (b) the Commission has recommended to the Governor that the judicial officer concerned should be removed from office on a ground referred to in subsection (6).
+
+(8) A person who has been removed from office as a judicial officer by the Governor on the recommendation of the Ascension Judicial Service Commission may apply to the Supreme Court for redress on the ground that any finding of fact or law on which the Commission based its recommendation for removal was unjustified or wrong; and, for the purpose of affording such redress, the Supreme Court may make such declarations and orders, issue such writs and give such directions as it considers appropriate.
+
+(9) A judicial officer shall receive such remuneration as is determined by the Governor, acting in his or her discretion, and that remuneration shall be charged on and paid out of the Consolidated Fund.
+
+(10) The remuneration of a judicial officer shall not be diminished during his or her continuance in office.
+
+###### 162. Ascension Judicial Service Commission
+
+(1) There shall be an Ascension Judicial Service Commission (“the Commission”), which shall consist of—
+
+- (a) the Chief Justice, who shall preside;
+- (b) the Attorney General;
+- (c) the Public Solicitor, if a person for the time being holds that office; and
+- (d) a person who is neither a member of the Island Council, an officer of the Ascension Public Service, a judge or a judicial officer, appointed by the Governor for a term of one year.
+
+(2) The office of the member of the Commission appointed under subsection (1)(d) shall become vacant if—
+
+- (a) he or she becomes an officer of the Ascension Public Service, accepts appointment as a judge or a judicial officer, or becomes a member of the Island Council;
+- (b) he or she resigns from office by writing under his or her hand addressed to the Governor; or
+- (c) the Governor, being satisfied that the member should be removed from office on the ground of inability to discharge the functions of the office (whether arising from infirmity of body or mind or from any other cause) or misbehaviour, removes that member from office.
+
+(3) The Governor may suspend the member from office while his or her removal from office on a ground referred to in subsection (2)(c) is under investigation.
+
+(4) No business shall be transacted by the Commission unless—
+
+- (a) all members are present at a meeting in Ascension or elsewhere; or
+- (b) if they are in different places, all members are able to communicate with one another about that business in ways that they agree are appropriate in the circumstances.
+
+(5) All questions before the Commission shall be decided by a majority of the votes of its members; and if, on any question, the votes are equally divided, the Chief Justice shall have and exercise a casting vote.
+
+(6) The Commission may, of its own motion or at the request of the Island Council or of an organisation that is representative of judicial officers—
+
+- (a) make recommendations to the Governor on the appointment of judicial officers;
+- (b) consider and, if it so decides, make recommendations to the Governor on, the removal from office of a judicial officer on a ground referred to in section 161(6); and
+- (c) exercise such other functions as may be conferred on it by law.
+
+(7) In the exercise of its functions the Commission shall act independently and shall not be subject to the direction or control of the Governor, the Island Council or any other person or authority.
+
+(8) No member of the Commission shall be personally liable for the consequences of any act done or omitted by the Commission in good faith in pursuance or intended pursuance of the Commission’s functions; and if any such liability is established, it shall be that of the Crown.
+
+#### PART 7 — PUBLIC SERVICE
+
+##### 163. Appointment etc of officers of Ascension Public Service
+
+(1) Subject to this Constitution, the Governor, acting after consultation with such persons or such independent authority (if any) as may be prescribed by Ordinance, may, in Her Majesty’s name and on Her Majesty’s behalf—
+
+- (a) make appointments to any office in the Ascension Public Service; and
+- (b) remove and exercise disciplinary control over persons holding or acting in any such office.
+
+(2) The Governor may by directions in writing delegate the power conferred on him or her by subsection (1) to any officer or officers of the Ascension Public Service to such extent, and subject to such conditions, as may be specified in the directions.
+
+(3) Subject to this Constitution, an Ordinance may provide for the establishment of an independent authority to exercise any of the following functions—
+
+- (a) advising the Governor about procedures for the exercise of the powers referred to in subsection (1), including recruitment, grievance and appeal procedures;
+- (b) advising the Governor on public service management, performance, conduct and ethics policies, and monitoring the implementation of such policies;
+- (c) carrying out annual reviews of the procedures and policies referred to in paragraphs (a) and (b), and reporting on such reviews to the Governor; and
+- (d) such other functions as may contribute to the efficiency and integrity of the Ascension Public Service.
+
+##### 164. Terms and conditions of employment
+
+(1) The Governor shall approve (and may from time to time amend) a Code of Management by or under which the terms and conditions of employment of officers of the Ascension Public Service, or any branch of it, shall be determined.
+
+(2) Subject to any such Code of Management, the terms and conditions of the employment of an individual officer of the Ascension Public Service shall be as agreed in that officer’s contract of employment or implied by any rule of law.
+
+#### PART 8 — PUBLIC FINANCE
+
+##### 165. Taxation
+
+(1) No tax, rate or other similar levy shall be imposed except under the authority of an Ordinance.
+
+(2) Where an Ordinance referred to in subsection (1) confers powers on any person or authority, other than the Governor, to waive or vary a tax imposed by that law, that person or authority shall report to the Governor on the exercise of those powers as often as shall be determined by law but not less than annually.
+
+##### 166. Consolidated Fund
+
+(1) There shall be a Consolidated Fund into which shall be paid all revenues or other moneys raised or received by and for the purposes of the Government of Ascension.
+
+(2) The revenues or other moneys referred to in subsection (1) shall not include revenues or other moneys that are payable by or under an Ordinance into some other fund established for a specific purpose.
+
+##### 167. Withdrawal from Consolidated Fund or other public account
+
+(1) No moneys shall be withdrawn from the Consolidated Fund except—
+
+- (a) to meet expenditure charged on the Fund by this Constitution or by an Ordinance; or
+- (b) where the issue of those moneys has been authorised by an Appropriation Ordinance, a Supplementary Appropriation Ordinance, or as provided in section 170 or 171.
+
+(2) No moneys shall be withdrawn from any public fund of Ascension other than the Consolidated Fund, unless the issue of those moneys has been authorised by or under an Ordinance.
+
+##### 168. Annual Estimates
+
+(1) The Director of Financial Services shall cause to be prepared and presented to the Governor before the beginning of each financial year (or as soon as practicable thereafter) Estimates of revenue and expenditure of the Government of Ascension for that financial year.
+
+(2) Before presenting the Estimates to the Governor under subsection (1), the Director of Financial Services shall present the Estimates to the Island Council for any advice it may wish to give in relation to them.
+
+(3) Notwithstanding subsection (1), the Director of Financial Services may cause to be prepared and presented to the Governor and the Island Council—
+
+- (a) fiscal and monetary programmes and plans for economic and social development;
+- (b) estimates of revenue and expenditure covering periods exceeding one year; and
+- (c) estimates of non-financial outputs.
+
+##### 169. Draft Appropriation Ordinance
+
+The Director of Financial Services shall present to the Governor a draft Appropriation Ordinance which includes the heads of expenditure contained in the Estimates referred to in section 168(1) (other than expenditure authorised by this Constitution or any other law) to authorise the issue from the Consolidated Fund of the sums necessary to meet that expenditure and to appropriate those sums for the purposes specified in the draft Ordinance.
+
+##### 170. Authorisation of expenditure in advance of appropriation
+
+(1) Subject to subsection (3), if the Appropriation Ordinance for any financial year has not come into force by the beginning of that financial year, the Governor may, by directions in writing, empower the Director of Financial Services to authorise, consistently with any law, the withdrawal of moneys from the Consolidated Fund, or any other fund established by or under an Ordinance for a specific purpose, in order to meet expenditure necessary to carry on the services or projects of the Government of Ascension, until—
+
+- (a) the expiration of four months from the beginning of that financial year; or
+- (b) the coming into force of the Appropriation Ordinance for that financial year,
+
+whichever is the earlier.
+
+(2) Any amounts authorised to be withdrawn under subsection (1) shall be set off against the amounts provided in the Appropriation Ordinance in respect of that expenditure.
+
+(3) Any amounts authorised to be withdrawn from the Consolidated Fund under subsection (1) shall be restricted to one third of the aggregate of the sums provided for in the Appropriation Ordinance and any Supplementary Appropriation Ordinance for the previous financial year.
+
+##### 171. Special Warrants
+
+(1) The Governor, if satisfied that there is an urgent and unforeseen need for expenditure for which no other provision exists, may issue a Special Warrant authorising the Director of Financial Services to make payments to meet that expenditure out of the Consolidated Fund, up to the amount specified in the warrant; and such warrant shall constitute an appropriation of that amount.
+
+(2) The Director of Financial Services shall inform the Island Council of every Special Warrant within ten days of the date of its issue.
+
+##### 172. Withdrawal Warrants
+
+(1) The Governor, if satisfied that financial exigencies so require, may issue a Withdrawal Warrant authorising the limitation or suspension of appropriated expenditure, to the extent specified in the warrant.
+
+(2) The Director of Financial Services shall inform the Island Council of every Withdrawal Warrant within ten days of the date of its issue.
+
+##### 173. Supplementary Estimates
+
+If in the course of any financial year it is found that the amount appropriated for any purpose is insufficient or that a need has arisen for expenditure for a purpose for which no amount has been appropriated, a supplementary Estimate showing the sums required shall be presented to the Governor and the Island Council by the Director of Financial Services; and the heads of expenditure contained in that Estimate shall be included in a draft Ordinance, to be known as a draft Supplementary Appropriation Ordinance, which shall be presented to the Governor to provide for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums for the purposes specified in the draft Ordinance.
+
+##### 174. Excess expenditure
+
+(1) Where at the close of accounts for any financial year it is found that moneys have been expended on any expenditure in excess of the amount appropriated for it or for a purpose for which no moneys have been appropriated, the amount of excess expended, or not appropriated, as the case may be, shall be included in a statement of expenditure in excess which shall be presented to the Governor and the Island Council by the Director of Financial Services.
+
+(2) The Governor may, by directions in writing, allow the excess or the amount expended but not appropriated to stand charged to public funds.
+
+##### 175. Lapse of appropriations
+
+The appropriations made by the Appropriation Ordinance or a Supplementary Appropriation Ordinance or by a Special Warrant issued under section 171 in respect of a financial year shall lapse at the end of that financial year, unless otherwise provided by Ordinance.
+
+##### 176. Public debt
+
+(1) All debt charges for which the Government of Ascension is liable shall be a charge on the Consolidated Fund.
+
+(2) For the purposes of this section, debt charges include interest, the repayment or amortisation of debt, and the costs, charges and expenses incidental to the management of debt.
+
+##### 177. Annual statement of accounts
+
+(1) The Director of Financial Services shall, as soon as practicable after the end of each financial year, and in accordance with such other requirements as may be prescribed by a law—
+
+- (a) cause to be prepared for submission to the auditor a statement of accounts reflecting the financial operations of the Consolidated Fund and any other public fund or account for that financial year; and
+- (b) submit the annual statement of accounts to the auditor.
+
+(2) The auditor, in accordance with such other requirements as may be prescribed by a law, shall audit the annual statement of accounts within six months of receiving it (or such longer period as the Governor may authorise in exceptional circumstances), and shall return it, together with the auditor’s report and annual management letter, to the Director of Financial Services.
+
+(3) The Director of Financial Services shall present to the Governor and the Island Council the audited annual statement of accounts and its attachments received under subsection (2) within ten days of receiving them.
+
+(4) In this section, “auditor” means the person or authority conducting an audit pursuant to arrangements made by the Governor under section 178(1).
+
+##### 178. Audit
+
+(1) The Governor shall make appropriate arrangements for the audit of the public accounts of Ascension and of all courts of Ascension and all authorities and offices of the Government of Ascension; and any person or authority conducting such an audit shall have access to all books, records, reports and other documents relating to those accounts.
+
+(2) Any person or authority conducting an audit pursuant to subsection (1) shall act independently and shall not be subject to the direction or control of the Governor, the Island Council or any other person or authority.
+
+##### 179. Borrowing or lending by Government of Ascension
+
+(1) Subject to this Constitution, the Government of Ascension may borrow from any source.
+
+(2) The Government of Ascension shall not issue a guarantee or indemnity nor raise a loan on behalf of itself or any other public institution, authority or person except—
+
+- (a) as authorised by or under an Ordinance; and
+- (b) in accordance with any borrowing guidelines agreed with Her Majesty’s Government in the United Kingdom.
+
+(3) An Ordinance referred to in subsection (2)(a) shall provide that the terms and conditions of the guarantee, indemnity or loan shall be laid before the Island Council for any advice it may wish to give on the matter.
+
+(4) The Director of Financial Services shall, at such times as the Island Council may determine, cause to be presented to the Council such information concerning any loan as is necessary to show—
+
+- (a) the extent of the total indebtedness by way of principal and accumulated interest;
+- (b) the provision made for servicing or repayment of the loan; and
+- (c) compliance with the terms of the loan.
+
+(5) For the purposes of this section, the expression “loan” includes any money lent or given to or by the Government of Ascension on condition of return or repayment and any other form of borrowing or lending in respect of which—
+
+- (a) moneys from the Consolidated Fund or any other public fund may be used for payment or repayment; or
+- (b) moneys from any fund by whatever name called, established for the purposes of payment or repayment whether in whole or in part and whether directly or indirectly, may be used for payment or repayment.
+
+#### PART 9 — MISCELLANEOUS
+
+##### 180. Interpretation
+
+In this Chapter, unless it is otherwise provided or required by the context—
+
+- “Ascension” means Ascension Island;
+- “Ascension Public Service” means the service of the Crown in a civil capacity in respect of the government of Ascension, and includes service as a member of any police force, prison service or fire service of Ascension; but does not include service as a judge or a judicial officer or service as a member of the Island Council, any committee of the Council or, unless otherwise provided by a law, of any other public authority;
+- “breach”, in relation to any provision of this Chapter, includes a failure to comply with that provision, and cognate expressions shall be construed accordingly;
+- “Consolidated Fund” means the Fund established by section 166;
+- “court” means any subordinate court, the Supreme Court or the Court of Appeal, and includes Her Majesty in Council;
+- “disciplinary law”, in relation to a disciplined force, means the law regulating the discipline of that force;
+- “disciplinary offence” means an offence against the disciplinary law;
+- “disciplined force” means any police force of Ascension, any prison service of Ascension, any fire service of Ascension, any naval, military or air force raised in Ascension under the law of Ascension, or any visiting force;
+- “financial year” means the period of twelve months beginning on the first day of April in any year or such other day as may be prescribed by Ordinance;
+- “functions” includes powers and duties;
+- “*Gazette*” means the St Helena Government Gazette;
+- “Island Council” means the Island Council of Ascension established by section 149;
+- “judge” means the Chief Justice or another judge of the Supreme Court, the President of the Court of Appeal, a Justice of Appeal, an acting judge of the Supreme Court, or an Acting Justice of Appeal;
+- “judicial officer” means a justice of the peace, a judge of a subordinate court, a Coroner or other person who is authorised to exercise the powers of a judge of a subordinate court;
+- “law” means law in force in Ascension, and “lawful” and “lawfully” shall be construed accordingly;
+- “legal representative” means a person who—
+  - (a) is entitled to practise before the court or other tribunal or authority exercising jurisdiction or power in respect of a person who is arrested, detained, or charged with a criminal offence or is a party to any proceeding; and
+  - (b) has an effective opportunity to represent that person—
+    - (i) by appearing before that court or other tribunal or authority at the hearing of the proceeding or the process through which it is exercising that jurisdiction or power, in Ascension or in any place outside Ascension where it may lawfully sit; or
+    - (ii) in the case of a proceeding in the Supreme Court or the Court of Appeal when sitting in a place outside Ascension, by participating in that proceeding by teleconference or other means of electronic, oral or written communication;
+- “member”, in relation to a disciplined force, includes any person who, under the disciplinary law, is subject to that discipline;
+- “minor” means a person who has not attained the age of eighteen years or such other age as may be prescribed for the purposes of this Chapter by any other law;
+- “officer of the Ascension Public Service” means the holder of any office in the Ascension Public Service and any other employee of the Public Service (except a casual worker), and includes a person appointed to act as an officer of the Ascension Public Service;
+- “Ordinance” means a law made by the Governor in respect of Ascension;
+- “period of public emergency” means any period during which—
+  - (a) there is, in or affecting Ascension, a war or other public emergency threatening the life of the nation; and
+  - (b) a proclamation of a state of emergency is in force under a law;
+- “subordinate court” means a court of Ascension subordinate to the Supreme Court that has been established by Ordinance, and includes the exercise of any power or jurisdiction in relation to an inquiry conferred on a Coroner by the Coroners Ordinance or any Ordinance replacing or amending that Ordinance;
+- “Tristan da Cunha” means the Island of Tristan da Cunha, Gough Island, Nightingale Island and Inaccessible Island;
+- “visiting force” means any naval, military or air force raised in, or under the law of, a country other than Ascension, one or more members of which are lawfully in Ascension while on service in that capacity;
+- “wrongfully removed or retained child” means a child under the age of sixteen years who has been wrongfully removed to or retained in the territory of a state that is a contracting party to the Convention on the Civil Aspects of International Child Abduction, signed at The Hague on 25 October 1980.
+
+##### 181. References to the holder of an office to include a person acting in the office
+
+In this Chapter, unless it is otherwise provided or required by the context, a reference to the holder of an office by the term designating his or her office shall be construed as including a reference to any person acting in that office or, to the extent of his or her authority, otherwise performing the functions of that office.
+
+##### 182. Power to amend and revoke instruments, etc
+
+(1) Any power conferred by this Chapter to make any subsidiary instrument or to give any instructions or directions shall be construed as including a power exercisable in like manner to amend or revoke any such instrument, instructions or directions.
+
+(2) For the purposes of this section, “subsidiary instrument” means any proclamation, regulation, order, rule or other like instrument having the force of law.
+
+##### 183. Appointments
+
+(1) Where any person has vacated any office established by this Chapter, he or she may, if qualified, again be appointed or elected or otherwise selected to hold that office in accordance with this Chapter.
+
+(2) Where a power is conferred by this Chapter on any person to make any appointment to any office, a person may be appointed to that office even though some other person may be holding that office, when that other person is on leave of absence pending relinquishment of that office; and where two or more persons are holding the same office by reason of an appointment made in pursuance of this subsection, then, for the purposes of any function conferred on the holder of that office, the person last appointed to that office shall be deemed to be the sole holder of the office.
+
+(3) In this Chapter, unless it is otherwise provided or required by the context, any reference to power to make appointments to an office shall be construed as including reference to power to make appointments on promotion and transfer to that office and power to appoint a person to act in that office during any period when it is vacant or the holder of it is unable (whether by reason of absence or infirmity of body or mind or any other cause) to perform the functions of that office.
+
+(4) Where by this Chapter any person is directed, or power is conferred on any person or authority to appoint a person, to act in an office if the holder of it is unable to perform the functions of that office, the validity of any performance of those functions by the person so directed or of any appointment made in exercise of that power shall not be called into question in any court on the ground that the holder of the office is not unable to perform the functions of the office.
+
+##### 184. Removal from office
+
+References in this Chapter to the power to remove an officer of the Ascension Public Service from his or her office shall be construed as including references to any power conferred by any law to require or permit that officer to retire from the Public Service and to any power or right to terminate a contract on which a person is employed in the Public Service and to determine whether any such contract shall or shall not be renewed.
+
+##### 185. Resignations
+
+(1) Any person who is appointed to any office established by or under this Chapter may resign from that office by writing under his or her hand addressed to the person or authority by whom he or she was appointed.
+
+(2) The resignation of any person from any office established by or under this Chapter takes effect when the writing signifying the resignation is received by the person or authority to whom it is addressed or by any other person authorised by that person or authority to receive it.
+
+### CHAPTER 3 — TRISTAN DA CUNHA
+
+#### PART 1 — PARTNERSHIP VALUES
+
+##### 186. The partnership values
+
+(1) The partnership between the United Kingdom and Tristan da Cunha shall continue to be based on the following values—
+
+- (a) good faith;
+- (b) the rule of law;
+- (c) good government;
+- (d) sound financial management;
+- (e) the impartial administration of justice;
+- (f) the impartiality of the Tristan da Cunha Public Service;
+- (g) the maintenance of public order;
+- (h) compliance with applicable international obligations of the United Kingdom and of Tristan da Cunha; and
+- (i) the maintenance of international peace and security and the right of individual or collective self-defence.
+
+(2) The relationships between each of Tristan da Cunha, St Helena and Ascension shall continue to be based on the values listed in subsection (1) and a willingness to have due regard for one another’s interests.
+
+(3) In exercising their responsibilities and powers, all organs of government in Tristan da Cunha have a duty to give effect to the partnership values.
+
+(4) As the partnership values are statements of political principle, no court shall find that any act or omission of an organ of government was unlawful on account of a failure to give effect to the partnership values.
+
+(5) Subject to subsection (4), the Supreme Court may enquire, but only on an application for judicial review, whether or not any organ of government (other than the Governor) has acted rationally and with procedural propriety in relation to giving effect to a partnership value.
+
+#### PART 2 — FUNDAMENTAL RIGHTS AND FREEDOMS OF THE INDIVIDUAL
+
+##### 187. Fundamental rights and freedoms of the individual
+
+Whereas every person in Tristan da Cunha is entitled to the fundamental rights and freedoms of the individual, that is to say, has the right, without distinction of any kind, such as sex, sexual orientation, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, age, disability, birth or other status, but subject to respect for the rights and freedoms of others and for the public interest, to each and all of the following—
+
+- (a) life, liberty, security of the person and the protection of the law;
+- (b) freedom of conscience, of expression and of assembly and association;
+- (c) protection for his or her private and family life, the privacy of his or her home and other property; and
+- (d) protection from deprivation of property save in the public interest and on payment of fair compensation,
+
+this Part shall afford protection to these rights and freedoms, and to related rights and freedoms, subject to the limitations contained in this Part, being limitations designed to ensure that the enjoyment of the protected rights and freedoms by any individual does not prejudice the rights and freedoms of others or the public interest.
+
+##### 188. Protection of right to life
+
+(1) No person shall be deprived intentionally of his or her life.
+
+(2) A person shall not be regarded as having been deprived of his or her life in breach of this section if he or she dies as a result of the use, to such extent and in such circumstances as are permitted by law, of force which is no more than absolutely necessary—
+
+- (a) for the defence of any person from violence;
+- (b) in order to effect a lawful arrest or to prevent the escape of a person lawfully detained;
+- (c) for the purpose of suppressing a riot, insurrection or mutiny,
+
+or if he or she dies as a result of a lawful act of war.
+
+##### 189. Protection from inhuman treatment
+
+No person shall be subjected to torture or to inhuman or degrading treatment or punishment.
+
+##### 190. Protection from slavery and forced labour
+
+(1) No person shall be held in slavery or servitude.
+
+(2) No person shall be required to perform forced or compulsory labour.
+
+(3) For the purposes of this section, “forced or compulsory labour” does not include—
+
+- (a) any labour required of a member of a disciplined force as part of his or her duties or, in the case of a person who has conscientious objections to service in a naval, military or air force, any labour that the law requires that person to perform in place of such service;
+- (b) labour required of any person while he or she is lawfully detained that is reasonably necessary in the interests of hygiene or for the maintenance of the place in which he or she is detained;
+- (c) any labour required for the purpose of dealing with any situation arising during a period of public emergency or at a time when any other emergency or calamity threatens the well-being of the community, to the extent that the requiring of such labour is reasonably justifiable for that purpose; or
+- (d) any labour required in consequence of the sentence or order of a court.
+
+##### 191. Protection of right to personal liberty
+
+(1) No person shall be deprived of his or her personal liberty save as may be authorised by law in any of the following cases—
+
+- (a) as a result of his or her unfitness to plead to a criminal charge;
+- (b) in execution of the sentence or order of a court, whether established for Tristan da Cunha or some other country, in respect of a criminal offence of which he or she has been convicted;
+- (c) in execution of an order of a court punishing him or her for contempt of that court or of another court or of a tribunal;
+- (d) in execution of the order of a court made in order to secure the fulfilment of any obligation imposed on him or her by law; but no person shall be deprived of his or her liberty merely on the ground of inability to fulfil a contractual obligation;
+- (e) in order to bring him or her before a court in execution of the order of a court;
+- (f) on reasonable suspicion of his or her having committed or of being about to commit a criminal offence under any law;
+- (g) in the case of a minor—
+  - (i) under the order of a court or in order to bring him or her before a court; or
+  - (ii) with the consent of the minor’s parent or guardian, for his or her education or welfare during any period ending not later than the date when the minor attains the age of majority or such lower age as may be provided by law;
+- (h) in order to prevent the spread of an infectious or contagious disease;
+- (i) in the case of a person who is, or is reasonably suspected to be, of unsound mind, addicted to drugs or alcohol, or a vagrant, in order to care for or treat him or her or for the protection of the community; or
+- (j) in order to prevent the unlawful entry of that person into Tristan da Cunha, or to effect the expulsion, extradition or other lawful removal of that person from Tristan da Cunha, or to restrict that person while he or she is being conveyed through Tristan da Cunha in the course of his or her extradition or removal from one country to another as a wrongfully removed or retained child or as a convicted prisoner.
+
+(2) Any person who is arrested or detained shall be informed promptly, orally and in writing, in a language that he or she understands, of the reason for his or her arrest or detention.
+
+(3) Any person who is arrested or detained has the right, at any stage and at his or her own expense, to retain and instruct without delay a legal representative of his or her own choice, and to communicate privately with him or her, and in the case of a minor he or she shall also be given a reasonable opportunity to communicate with his or her parent or guardian; but when the person who is arrested or detained is unable to retain a legal representative at his or her own expense and the interests of justice so require, he or she shall be permitted to be represented by, and communicate privately with, a legal representative at the public expense.
+
+(4) Every person who is arrested shall be informed, as soon as he or she is brought to a police station or other place of custody, of his or her rights under subsection (3); and he or she shall also have the right, and shall be informed at the same time that he or she has the right, to remain silent and to have one person informed by the quickest practicable means of his or her arrest and whereabouts.
+
+(5) The exercise of the rights of communication conferred by subsections (3) and (4) may be delayed for such reasonable time as is provided by law, to the extent that the law in question is necessary in a democratic society for the prevention and detection of criminal offences.
+
+(6) Any person who is arrested or detained—
+
+- (a) in order to bring him or her before a court in execution of the order of a court; or
+- (b) on reasonable suspicion of his or her having committed or being about to commit a criminal offence under any law,
+
+and who is not released, shall be brought without undue delay before a court.
+
+(7) When a person is brought before a court in accordance with subsection (6)(b), the court, without prejudice to any further proceedings which may be brought against him or her, shall, unless there is good reason for the person’s continued detention, release the person either unconditionally or upon reasonable conditions, including in particular such conditions as are reasonably necessary to ensure that the person appears at a later date for trial or for proceedings preliminary to trial.
+
+(8) Every person who is arrested or detained shall be entitled to take proceedings by which the lawfulness of his or her detention shall be decided speedily by a court and his or her release ordered if the detention is not lawful.
+
+(9) Any person who is unlawfully arrested or detained by any other person shall be entitled to compensation for such unlawful arrest or detention from that other person, from any person or authority on whose behalf that other person was acting or from them both; but a judge or a judicial officer, or an officer of a court or a police officer acting in pursuance of the order of a judge or a judicial officer, shall not be personally liable to pay compensation under this subsection in respect of anything done by him or her in good faith in the discharge of the functions of his or her office, and any liability to pay any such compensation shall be a liability of the Crown.
+
+(10) For the purposes of subsection (1)(b), a person charged with a criminal offence in respect of whom a special verdict has been returned that he or she committed the act or made the omission constituting the offence but was insane at the time shall be regarded as a person who has been convicted of a criminal offence, and the detention of that person in consequence of such a finding shall be regarded as detention in execution of the order of a court.
+
+##### 192. Provisions to secure a fair trial
+
+(1) If a person is charged with a criminal offence, then, unless the charge is withdrawn, the case shall be afforded a fair and public hearing within a reasonable time by an independent and impartial court established by law.
+
+(2) Every person who is charged with a criminal offence—
+
+- (a) shall be presumed to be innocent until he or she is proved or has pleaded guilty;
+- (b) shall be informed promptly, in a language that he or she understands and in detail, of the nature of the offence charged;
+- (c) shall be given adequate time and facilities for the preparation of his or her defence;
+- (d) shall be permitted to defend himself or herself before the court in person or, at his or her own expense, by a legal representative of his or her own choice or, if unable to retain a legal representative at his or her own expense and the interests of justice so require, by a legal representative at the public expense;
+- (e) shall be given facilities to examine in person or by his or her legal representative the witnesses called before the court by the prosecution, and to obtain the attendance before the court and carry out the examination of witnesses to testify on his or her behalf on the same conditions as those applying to witnesses called by the prosecution; and
+- (f) shall be permitted to have without payment the assistance of an interpreter if he or she cannot understand the language used at his or her trial,
+
+and, except with his or her own free consent, the trial shall not take place in his or her absence, unless he or she so behaves in the court as to render the continuance of the proceedings in his or her presence impracticable and the court has ordered him or her to be removed and the trial to proceed in his or her absence.
+
+(3) When a person is tried for any criminal offence, he or she or any person authorised by him or her in that behalf shall, if he or she (the accused person) so requires and subject to payment of such reasonable fee as may be prescribed by law, be given within a reasonable time after judgment a copy of any record of the proceedings made by or on behalf of the court.
+
+(4) No person shall be held to be guilty of a criminal offence on account of any act or omission that did not, at the time it took place, constitute such an offence, and no penalty shall be imposed for any criminal offence that is severer in degree or description than the maximum penalty that might have been imposed for that offence at the time when it was committed.
+
+(5) No person who shows that he or she has been tried by a competent court for a criminal offence and either convicted or acquitted shall again be tried for that offence or for any other criminal offence of which he or she could have been convicted at the trial for that offence, save upon the order of a higher court in the course of appeal or review proceedings relating to the conviction or acquittal.
+
+(6) No person shall be tried for a criminal offence if he or she shows that he or she has been pardoned for that offence.
+
+(7) No person who is tried for a criminal offence shall be compelled to give evidence at his or her trial.
+
+(8) Every person who has been convicted by a court of a criminal offence shall have the right to appeal to a higher court against his or her conviction or his or her sentence or both; but—
+
+- (a) nothing contained in any law shall be held to breach this subsection—
+  - (i) to the extent that it precludes an appeal by a person against his or her conviction of an offence if he or she pleaded guilty to that offence at trial; or
+  - (ii) to the extent that it makes reasonable provision with respect to the grounds on which any such appeal may be made or with respect to the practice and procedure to be observed in relation to the making, hearing and disposal of any such appeal; and
+- (b) this subsection shall not apply in relation to the conviction of a person by a higher court, or in relation to his or her sentence upon such conviction, if he or she was convicted by that court on an appeal against his or her acquittal by a lower court.
+
+(9) When a person has, by a final decision of a court, been convicted of a criminal offence and, subsequently, his or her conviction has been quashed, or he or she has been pardoned, on the ground that a newly-disclosed fact shows that there has been a miscarriage of justice, he or she shall be compensated out of public funds for any punishment that he or she has suffered as a result of the conviction unless it is proved that the non-disclosure in time of that fact was wholly or partly his or her fault.
+
+(10) For the determination of the existence or extent of his or her civil rights and obligations, every person shall have the right to a fair hearing within a reasonable time before an independent and impartial court, tribunal or other authority established by law.
+
+(11) All proceedings for the determination of the existence or extent of any person’s civil rights or obligations before any court or other authority, including the announcement of the decision of the court or other authority, shall be held in public.
+
+(12) Nothing in subsection (1) or (11) shall prevent a court or other authority from excluding from criminal or civil proceedings persons other than the parties thereto and their legal representatives, or forbidding the publication of the names of the parties or other details of the evidence or of the decision to such an extent as the court or other authority—
+
+- (a) is empowered by law to do and considers necessary or expedient in circumstances where publicity would prejudice the interests of justice, or in interim proceedings, or in the interests of the welfare of minors or the protection of the private lives of persons concerned in the proceedings; or
+- (b) is empowered or required by law to do in the interests of defence, public safety, public order or public morality.
+
+(13) Nothing contained in or done under the authority of any law shall be held to breach—
+
+- (a) subsection (2)(a), to the extent that the law in question imposes on any person charged with a criminal offence the burden of proving particular facts;
+- (b) subsection (2)(e), to the extent that the law in question imposes reasonable conditions that must be satisfied if witnesses called to testify on behalf of an accused person are to be paid their expenses out of public funds; or
+- (c) subsection (5), to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force; but any court so trying such a member and convicting him or her shall in sentencing him or her to any punishment take into account any punishment awarded him or her under that disciplinary law.
+
+##### 193. Protection of right of prisoners to humane treatment
+
+(1) All persons deprived of their liberty (in this section referred to as “prisoners”) shall have the right to be treated with humanity and with respect for the inherent dignity of the human person.
+
+(2) Every unconvicted prisoner shall be entitled to be treated in a manner appropriate to his or her status as such.
+
+(3) Every juvenile prisoner shall be treated in a manner appropriate to his or her age and legal status and, if he or she is an unconvicted prisoner and unless he or she is earlier released, shall have any criminal proceedings against him or her pursued with the greatest possible expedition.
+
+(4) Save where the interests of defence, public safety, public order, public morality, public health or the administration of justice otherwise require, or the facilities available for the detention of prisoners do not permit, or segregation would be detrimental to the well-being of a prisoner, unconvicted prisoners shall be segregated from convicted prisoners, and juvenile prisoners shall be segregated from adult prisoners.
+
+##### 194. Protection of freedom of movement
+
+(1) A person shall not be deprived of his or her freedom of movement, that is to say, the right to move freely throughout Tristan da Cunha, the right to reside anywhere in Tristan da Cunha, the right to enter Tristan da Cunha, the right to leave Tristan da Cunha and immunity from expulsion from Tristan da Cunha.
+
+(2) Any restriction on a person’s freedom of movement as a result of his or her lawful detention shall not be held to breach this section.
+
+(3) Nothing contained in or done under the authority of any law shall be held to breach this section to the extent that the law in question provides—
+
+- (a) for restrictions on movement or residence within Tristan da Cunha or on the right to leave Tristan da Cunha of persons generally or any class of persons that are necessary in a democratic society in the interests of defence, public safety, public morality or public health;
+- (b) for the imposition of restrictions, by order of a court, on the movement or residence within Tristan da Cunha of any person or on any person’s right to leave Tristan da Cunha either in consequence of his or her having been found guilty of a criminal offence or for the purpose of ensuring that he or she appears before a court at a later date for trial for a criminal offence or for proceedings relating to his or her extradition or lawful removal from Tristan da Cunha;
+- (c) for the imposition of restrictions on persons who do not have the right of abode in Tristan da Cunha under any law; but—
+  - (i) no restriction may be imposed by virtue only of this paragraph on the right of any such person, so long as he or she is lawfully present in Tristan da Cunha, to move freely throughout Tristan da Cunha and to reside anywhere in Tristan da Cunha;
+  - (ii) no restriction may be imposed by virtue only of this paragraph on the right of any such person to leave Tristan da Cunha; and
+  - (iii) no such person shall be liable, by virtue only of this paragraph, to be expelled from Tristan da Cunha unless the requirements specified in subsection (4) are satisfied;
+- (d) for the imposition of restrictions on the acquisition or use by any person of land or other property in Tristan da Cunha;
+- (e) for the imposition of restrictions on the movement or residence within Tristan da Cunha or on the right to leave Tristan da Cunha of any officer of the Tristan da Cunha Public Service that are reasonably required for the proper performance of his or her functions;
+- (f) for the removal of a person from Tristan da Cunha to be tried or punished in some other country for a criminal offence under the law of that other country or to undergo imprisonment in some other country in execution of the sentence of a court in respect of a criminal offence of which he or she has been convicted;
+- (g) for the removal from Tristan da Cunha of a wrongfully removed or retained child; or
+- (h) for the imposition of restrictions on the right of any person to leave Tristan da Cunha that are necessary in a democratic society in order to secure the fulfilment of any obligations imposed on that person by law.
+
+(4) The requirements to be satisfied for the purposes of subsection (3)(c)(iii) (that is to say, before a person who does not have the right of abode in Tristan da Cunha may be expelled from Tristan da Cunha) are as follows—
+
+- (a) the decision to expel him or her is taken in a manner and on grounds prescribed by law;
+- (b) he or she has the right, save where the interests of defence, public safety or public order otherwise require—
+  - (i) to have the decision to expel him or her reviewed by a competent authority prescribed by law;
+  - (ii) to know the reasons for the decision to expel him or her and to submit reasons against his or her expulsion to that authority; and
+  - (iii) for either of those purposes, to be represented before that authority or some other person or authority designated in that behalf by that authority.
+
+##### 195. Protection for private and family life and for privacy of home and other property
+
+(1) Every person shall have the right to respect for his or her private and family life, his or her home and his or her correspondence or other means of communication, and, except with his or her own free consent, no person shall be subjected to the search of his or her person or property or the entry by others on his or her premises.
+
+(2) Nothing contained in or done under the authority of any law shall be held to breach this section to the extent that the law in question is necessary in a democratic society—
+
+- (a) in the interests of defence, public safety, public order, public morality, public health, town and country planning, the development of mineral resources, or the development or use of any other property in such a manner as to promote the public benefit;
+- (b) to protect the rights and freedoms of other persons;
+- (c) to enable an officer or agent of the Government of Tristan da Cunha or any public authority to enter on the premises of any person in order to inspect those premises or anything on them for the purpose of any tax, rate or due or in order to carry out work connected with any property that is lawfully on those premises and that belongs to the Government of Tristan da Cunha or that public authority;
+- (d) to authorise, for the purpose of enforcing the judgment or order of a court, the search of any person or property by order of a court or the entry upon any premises by such order; or
+- (e) for the purpose of preventing or detecting breaches of the criminal, customs or immigration law.
+
+##### 196. Protection of right to marry, and of spouses’ and children’s rights
+
+(1) Every man and woman of marriageable age (as determined by or under any law) shall have the right to marry and found a family.
+
+(2) No person shall be compelled to marry, that is to say, to do so without his or her free and full consent.
+
+(3) Nothing contained in or done under the authority of any law shall be held to breach subsection (1) to the extent that the law in question is necessary in a democratic society—
+
+- (a) in the interests of public order, public morality or public health;
+- (b) to regulate, in the public interest, the procedures and modalities of marriage; or
+- (c) for the protection of the rights and freedoms of others.
+
+(4) Spouses shall be entitled to equal rights and shall be subject to equal responsibilities as between themselves and as regards their children both during marriage and, if the marriage is dissolved, thereon and thereafter, but this equality of rights and responsibilities shall be subject to such arrangements or measures as may be agreed, or as may be ordered by a court.
+
+(5) Every child shall have the right to such measures of protection as are required by his or her status as a minor, on the part of his or her family, society and the Government of Tristan da Cunha, and which are appropriate and proportionate to the circumstances of Tristan da Cunha.
+
+##### 197. Protection of freedom of conscience
+
+(1) Except with his or her own free consent, no person shall be hindered in his or her enjoyment of his or her freedom of conscience, which includes freedom of thought and of religion, freedom to change his or her religion or belief, and freedom, either alone or in community with others and either in public or in private, to manifest and propagate his or her religion or belief in worship, teaching, practice and observance.
+
+(2) Except with his or her own free consent (or, if he or she is a minor, the consent of his or her parent or guardian), no person attending any place of education shall be required to receive religious instruction or to take part in or attend any religious ceremony or observance if that instruction, ceremony or observance relates to a religion other than his or her own.
+
+(3) No religious community or denomination shall be prevented from or hindered in providing religious instruction for persons of that community or denomination in the course of any education provided by it whether or not it is in receipt of any government subsidy, grant or other form of financial assistance designed to meet, in whole or in part, the cost of such education.
+
+(4) No person shall be compelled to take any oath which is contrary to his or her religion or belief or to take any oath in a manner which is contrary to his or her religion or belief.
+
+(5) Nothing contained in or done under the authority of any law shall be held to breach this section to the extent that the law in question is necessary in a democratic society—
+
+- (a) in the interests of defence, public safety, public order, public morality or public health; or
+- (b) for the protection of the rights and freedoms of other persons, including the right of any person to observe and practise his or her religion or belief without the unsolicited intervention of adherents of any other religion or belief.
+
+(6) References in this section to a religion shall be construed as including references to a religious denomination, and cognate expressions shall be construed accordingly.
+
+##### 198. Protection of right to education
+
+(1) This section is without prejudice to section 197.
+
+(2) Every child of the appropriate age, as provided by law, shall be entitled to receive primary education which shall, subject to subsection (3), be free.
+
+(3) Every person who is the parent or legal guardian of a child shall be entitled to have his or her child (of whatever age) educated, at his or her own expense unless a law otherwise provides, in a private school (that is to say, a school other than one established by the Government of Tristan da Cunha or a public authority) and, in such a school, to ensure the religious and moral education of his or her child in accordance with his or her own convictions.
+
+(4) Nothing contained in or done under the authority of any law shall be held to breach subsection (3) to the extent that the law in question is necessary in a democratic society for the purpose of making provision requiring private schools, as a condition of their being allowed to operate and on terms no more onerous than are applicable to schools established by the Government of Tristan da Cunha or a public authority, to satisfy—
+
+- (a) such minimum educational standards (including standards relating to the qualifications of teaching staff and other staff) as may be prescribed by or under that or any other law; and
+- (b) such minimum standards imposed in the interests of public order, public morality or public health as may be so prescribed.
+
+##### 199. Protection of freedom of expression
+
+(1) Except with his or her own free consent, no person shall be hindered in the enjoyment of his or her freedom of expression.
+
+(2) For the purposes of this section a person’s freedom of expression includes his or her freedom to hold opinions without interference, his or her freedom to receive information and ideas without interference, his or her freedom to disseminate information and ideas without interference (whether the dissemination be to the public generally or to any person or class of persons) and his or her freedom from interference with his or her correspondence or other means of communication.
+
+(3) Nothing contained in or done under the authority of any law shall be held to breach this section to the extent that the law in question is necessary in a democratic society—
+
+- (a) in the interests of defence, public safety, public order, public morality or public health;
+- (b) for the protection of the reputations, rights and freedoms of other persons, or the private lives of persons concerned in legal proceedings or proceedings before any other tribunal or authority, preventing the disclosure of information received in confidence, maintaining the authority and independence of the courts, or regulating telephony, posts, telegraphy, electronic communications, broadcasting or public shows; or
+- (c) to impose restrictions on an officer of the Tristan da Cunha Public Service for the proper performance of his or her functions.
+
+##### 200. Protection of freedom of assembly and association
+
+(1) Except with his or her own free consent, no person shall be hindered in the enjoyment of his or her freedom of peaceful assembly and association, that is to say, his or her right to assemble freely and associate with other persons and in particular to form or belong to trade unions or other associations for the promotion and protection of his or her interests.
+
+(2) Nothing contained in or done under the authority of any law shall be held to breach this section to the extent that the law in question is necessary in a democratic society—
+
+- (a) in the interests of defence, public safety, public order, public morality or public health;
+- (b) for the protection of the rights and freedoms of other persons; or
+- (c) to impose on officers of the Tristan da Cunha Public Service restrictions that interfere as little as is practicable with the rights and freedoms conferred by this section, for the purposes of safeguarding the impartiality of the Public Service, the discipline of the police force or of any prison service or the provision of public services that are essential to public order, public safety or public health.
+
+##### 201. Protection from deprivation of property
+
+(1) No property of any description shall be compulsorily taken possession of, and no interest in or right to or over property of any description shall be compulsorily acquired, except in accordance with a law and where the following conditions are satisfied—
+
+- (a) the taking of possession or acquisition is in the public interest; and
+- (b) there is reasonable justification for the causing of any hardship that may result to any person having an interest in or right to or over the property; and
+- (c) provision is made by a law—
+  - (i) for the prompt payment of adequate compensation; and
+  - (ii) securing to any person having an interest in or right to or over the property a right of access to the Supreme Court, whether direct or on appeal from another tribunal or authority, for the determination of his or her interest or right, the legality of the taking of possession or acquisition and the amount of any compensation to which he or she is entitled, and for the purpose of obtaining prompt payment of that compensation.
+
+(2) No person who is entitled to compensation under this section shall be prevented from remitting, within a reasonable time after he or she has received any amount of that compensation, the whole of that amount (free from any deduction, charge or tax imposed by public authority in respect of its remission) to any country of his or her choice outside Tristan da Cunha.
+
+(3) Without prejudice to the generality of the expression “in the public interest” in subsection (1), nothing contained in or done under the authority of any law shall be held to breach this section to the extent that the law in question makes provision—
+
+- (a) for controlling the use of any property, interest or right in accordance with the general interest; or
+- (b) for taking possession of or acquiring any property, interest or right—
+  - (i) as a consequence of a breach of the law;
+  - (ii) to secure the payment of taxes or other like impositions; or
+  - (iii) for the administration or enforcement of the law regulating the private civil rights and obligations of persons in respect of property.
+
+##### 202. Protection from arbitrary deprivation of right of abode in Tristan da Cunha or of British citizenship
+
+(1) No person with the right of abode in Tristan da Cunha under any law shall be arbitrarily deprived of that right, whether by legislation or otherwise.
+
+(2) As everyone has the right to a nationality, no person shall be arbitrarily deprived of his or her British citizenship, whether by legislation or otherwise.
+
+##### 203. Protection from discrimination
+
+(1) Subject to subsection (4), no law shall make any provision which is discriminatory either of itself or in its effect.
+
+(2) Subject to subsections (4) and (6), no person shall be treated in a discriminatory manner by any organ or officer of the executive or judicial branches of government or any person acting in the performance of the functions of the Tristan da Cunha Public Service or any public authority.
+
+(3) In this section, the expression “discriminatory” means affording different treatment to different persons on any ground such as sex, sexual orientation, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, age, disability, birth or other status.
+
+(4) Nothing contained in or done under the authority of any law shall be held to breach this section to the extent that it has an objective and reasonable justification and there is a reasonable proportion between the provision of law in question or, as the case may be, the thing done under it and the aim which that provision or the thing done under it seeks to realise.
+
+(5) No person shall be treated in a discriminatory manner in respect of access to any of the following places to which the general public have access, namely, shops, hotels, restaurants, eating-houses, licensed premises, places of entertainment or places of resort; but the proprietor of such a place has a duty to provide amenities and equipment facilitating the access of disabled persons only to the extent provided by a law.
+
+(6) For the purposes of subsection (2), the exercise, in relation to a person, of any discretion to institute, conduct or discontinue criminal or civil proceedings in any court shall not in itself be held to breach this section.
+
+##### 204. Derogations from fundamental rights and freedoms under emergency powers
+
+Nothing contained in or done under the authority of any law shall be held to breach any of the provisions of this Part other than sections 188, 189, 190(1), 192(2)(a), 192(4), 192(5), 192(6) and 192(7) to the extent that the law in question authorises the taking during any period of public emergency of measures that are strictly required for dealing with the situation that exists in Tristan da Cunha during that period.
+
+##### 205. Protection of persons detained under emergency laws
+
+(1) When a person is detained by virtue of a law referred to in section 204, the following provisions shall apply—
+
+- (a) he or she shall, as soon as reasonably possible, and in any case not more than seven days after the start of his or her detention, be informed in detail, in a language that he or she understands, of the grounds upon which he or she is detained and furnished with a written statement, in a language that he or she understands or, if this is not reasonably practicable, in English, specifying those grounds in detail;
+- (b) not more than fourteen days after the start of his or her detention a notification shall be published in a public place (and as soon as possible thereafter in the *Gazette*) stating that he or she has been detained and setting out the provision of law by virtue of which his or her detention is authorised;
+- (c) not more than one month after the start of his or her detention and thereafter during the detention at intervals of not more than six months, his or her case shall be reviewed by an independent and impartial tribunal established by law and presided over by a person appointed by the Chief Justice;
+- (d) he or she shall be given reasonable facilities to consult a legal representative of his or her own choice (or, if he or she is unable to retain a legal representative, such person as the tribunal may approve) who shall be permitted to make representations to the tribunal appointed for the review of his or her case; and
+- (e) at the hearing of his or her case by the tribunal appointed for its review he or she shall be permitted to appear in person or by a legal representative of his or her own choice or, if he or she is unable to retain a legal representative, by such person as the tribunal may approve.
+
+(2) On any review by a tribunal of the case of a detained person in pursuance of this section, the tribunal may make recommendations concerning the necessity or expediency of continuing the detention to the authority by which it was ordered but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations.
+
+(3) Nothing in subsection (1)(d) or subsection (1)(e) shall be construed as entitling a person to legal representation at the public expense, except when the interests of justice so require.
+
+##### 206. Enforcement of protective provisions
+
+(1) If any person alleges that any of the provisions of this Part has been, is being or is likely to be breached in relation to him or her (or, in the case of a person who is detained, if any other person alleges such a breach in relation to the detained person), then, without prejudice to any other action with respect to the same matter that is lawfully available, that person (or that other person) may apply to the Supreme Court for redress.
+
+(2) The Supreme Court shall have original jurisdiction—
+
+- (a) to hear and determine any application made by any person in pursuance of subsection (1); and
+- (b) to determine any question arising in the case of any person that is referred to it in pursuance of subsection (7),
+
+and may make such declarations and orders, issue such writs and give such directions as it considers appropriate for the purpose of enforcing or securing the enforcement of any of the provisions of this Part.
+
+(3) The Supreme Court may decline to exercise its powers under subsection (2) if it is satisfied that adequate means of redress for the breach alleged are or have been available to the person concerned under any other law.
+
+(4) Without prejudice to the generality of subsection (2), where, in exercise of its powers under that subsection, the Supreme Court determines that one of the provisions of this Part has been breached in relation to any person, it—
+
+- (a) may order the award to that person of such damages as the Supreme Court considers just and appropriate; or
+- (b) may direct the court which made the reference to it under subsection (7) (“the referring court”) to order the award to that person of such damages as that court considers just and appropriate, within such limits (if any) as the Supreme Court declares.
+
+(5) An award of damages may not be made in pursuance of subsection (4) in respect of the making of any law but such an award may be made in respect of anything done by any organ or officer of the executive or judicial branches of government or any person acting in the performance of the functions of the Tristan da Cunha Public Service or any public authority.
+
+(6) Subsection (4) is without prejudice to section 191(9).
+
+(7) If in any proceedings in a subordinate court any question arises as to the breach of any of the provisions of this Part, the person presiding in that court may, and shall if any party to the proceedings so requests, refer the question to the Supreme Court unless, in the opinion of the court in which the question arose, the raising of the question is merely frivolous or vexatious.
+
+(8) If the effect of a provision of this Part is in issue in proceedings before the Supreme Court, the Court of Appeal or Her Majesty in Council, to which the Crown is not a party—
+
+- (a) the Attorney General may intervene; and
+- (b) the presiding judge must not hear and determine the proceedings until satisfied that the Attorney General has received notice of the proceedings and has had sufficient time to decide whether or not to intervene.
+
+(9) Where any question is referred to the Supreme Court in pursuance of subsection (7), the Supreme Court shall give its decision upon the question and the referring court shall dispose of the case in accordance with that decision or, if that decision is the subject of an appeal to the Court of Appeal or to Her Majesty in Council, in accordance with the decision of the Court of Appeal or, as the case may be, of Her Majesty in Council.
+
+(10) An appeal shall lie as of right to the Court of Appeal from any final determination of any application or question by the Supreme Court under this section, and an appeal shall lie as of right to Her Majesty in Council from the final determination by the Court of Appeal of the appeal in any such case; but no appeal shall lie from a determination by the Supreme Court under this section dismissing an application on the ground that it is frivolous or vexatious.
+
+(11) The Governor may by Ordinance confer on the Supreme Court such powers in addition to those conferred by this section as may appear to be necessary or desirable for the purpose of enabling that Court more effectively to exercise the jurisdiction conferred on it by this section.
+
+(12) The Chief Justice or the President of the Court of Appeal, as the case requires, may make Rules of Court with respect to the practice and procedure—
+
+- (a) of the Supreme Court in relation to the jurisdiction and powers conferred on it by or under this section;
+- (b) of the Supreme Court or the Court of Appeal in relation to appeals under this section from determinations of the Supreme Court or the Court of Appeal; and
+- (c) of subordinate courts in relation to references to the Supreme Court under subsection (7),
+
+including provisions with respect to the time within which any application, reference or appeal shall or may be made or brought.
+
+##### 207. Application of this Part to the members of a disciplined force
+
+(1) A member of—
+
+- (a) any police force of Tristan da Cunha;
+- (b) any prison service of Tristan de Cunha;
+- (c) any fire service of Tristan da Cunha; and
+- (d) any naval, military or air force raised in Tristan da Cunha under the law of Tristan da Cunha,
+
+who is charged with having committed an offence against the law of Tristan da Cunha, other than a disciplinary offence, is entitled to the full protection of this Part.
+
+(2) A member of a force referred to in subsection (1) who is charged with having committed a disciplinary offence is entitled to the protection of sections 188, 189 and 190.
+
+(3) If a member of a force referred to in subsection (1) has been convicted of an offence against the law of Tristan da Cunha other than a disciplinary offence, and is also convicted of a disciplinary offence arising out of the same conduct, the punishment for the first-mentioned offence must be taken into account in determining the punishment for the disciplinary offence.
+
+(4) A member of a visiting force who is charged with having committed an offence again the law of Tristan da Cunha is entitled to the full protection of this Part.
+
+(5) A member of a visiting force who is charged in Tristan da Cunha with having committed a disciplinary offence, including an offence against any criminal law of the sending State which, by virtue of a provision of the disciplinary law of that force, applies to that member while in Tristan da Cunha, is entitled to the protection of sections 188, 189 and 190.
+
+(6) In this section, “sending State”, in relation to a member of a visiting force, means the country, other than Tristan da Cunha, in or under the law of which that force was raised.
+
+#### PART 3 — THE GOVERNOR
+
+##### 208. The Governor
+
+(1) There shall be a Governor of Tristan da Cunha, who, subject to subsections (3) and (4), shall be the person for the time being holding or lawfully performing the functions of the office of Governor of St Helena.
+
+(2) The Governor shall have such functions as are conferred or imposed on him or her by this Constitution or any other law and such other functions as Her Majesty may from time to time be pleased to assign to him or her through a Secretary of State, and, subject to the provisions of this Constitution and of any other law by which any such functions are conferred or imposed, shall do and execute all things that belong to his or her office according to such instructions, if any, as Her Majesty may from time to time see fit to give him or her through a Secretary of State; but no court shall enquire whether or not he or she has complied with any such instructions.
+
+(3) No person who is acting as Governor shall do so in relation to Tristan da Cunha while the Governor is in Tristan da Cunha.
+
+(4) No person who is appointed as a Governor’s Deputy under section 28 shall discharge any function of the office of Governor in relation to Tristan da Cunha while the Governor is in Tristan da Cunha unless the Governor expressly authorises him or her to do so.
+
+(5) In subsections (3) and (4), “the Governor” means the person holding the office of Governor.
+
+##### 209. Powers of pardon, etc
+
+The Governor may, in Her Majesty’s name and on Her Majesty’s behalf—
+
+- (a) grant to any person concerned in or convicted of any offence a pardon, either free or subject to lawful conditions;
+- (b) grant to any person a respite, either indefinite or for a specified period, of the execution of any punishment imposed on that person for any offence;
+- (c) substitute a less severe form of punishment for any punishment imposed on any person for any offence; or
+- (d) remit the whole or part of any punishment imposed on any person for any offence or of any penalty or forfeiture otherwise due to Her Majesty on account of any offence.
+
+##### 210. Powers to dispose of land
+
+Subject to this Constitution and any other law, the Governor or any person duly authorised by him or her in writing under his or her hand may, in Her Majesty’s name and on Her Majesty’s behalf, make and execute grants and other dispositions of any land or other immovable property in Tristan da Cunha that is vested in Her Majesty in right of the Government of Tristan da Cunha.
+
+##### 211. Public seal
+
+(1) There shall be a public seal of Tristan da Cunha, which shall be the public seal of St Helena.
+
+(2) The Governor shall have custody of the public seal.
+
+(3) The public seal may be used to seal such public documents signed by the Governor or an officer subordinate to the Governor as should be sealed with the public seal.
+
+##### 212. Constitution of offices
+
+(1) There shall be an Administrator of Tristan da Cunha, who shall be appointed by the Governor, shall be an officer of the Tristan da Cunha Public Service and shall have such functions as may be prescribed by any law.
+
+(2) Subject to this Constitution and any other law, the Governor, in Her Majesty’s name and on Her Majesty’s behalf, may constitute other offices for Tristan da Cunha.
+
+#### PART 4 — THE EXECUTIVE
+
+##### 213. Executive authority
+
+(1) The executive authority of Tristan da Cunha is vested in Her Majesty.
+
+(2) Subject to this Constitution, the executive authority of Tristan da Cunha shall be exercised on behalf of Her Majesty by the Governor, either directly or through the Administrator of Tristan da Cunha and other officers subordinate to the Governor.
+
+(3) Nothing in this section shall preclude persons or authorities other than the Governor from exercising such functions as are or may be conferred on them by any law.
+
+##### 214. Island Council
+
+There shall be an Island Council for Tristan da Cunha, which shall be composed, and shall have such functions in relation to the government of Tristan da Cunha, as may be prescribed by any law.
+
+##### 215. Attorney General
+
+(1) There shall be an Attorney General of Tristan da Cunha, who, subject to subsection (3), shall be the person for the time being holding or acting in the office of Attorney General of St Helena.
+
+(2) The Attorney General shall be the principal legal adviser to the Government of Tristan da Cunha.
+
+(3) No person who is acting as Attorney General of St Helena shall act as Attorney General in relation to Tristan da Cunha while the person holding the office of Attorney General is in Tristan da Cunha.
+
+(4) The Attorney General may, in any case in which he or she considers it desirable to do so—
+
+- (a) institute and undertake criminal proceedings against any person before any court in respect of an offence against any law;
+- (b) take over and continue any such criminal proceedings that have been instituted by any other person or authority; and
+- (c) discontinue at any stage before judgment is delivered any such criminal proceedings instituted or undertaken by himself or herself or any other person or authority.
+
+(5) The powers of the Attorney General under subsection (4) may be exercised by him or her in person or by officers subordinate to him or her acting under and in accordance with his or her general or special instructions.
+
+(6) The powers conferred on the Attorney General by subsection (4)(b) and (c) shall be vested in him or her to the exclusion of any other person or authority; but where any other person or authority has instituted criminal proceedings, nothing in this subsection shall prevent the withdrawal of those proceedings by or at the instance of that person or authority at any stage before the person against whom the proceedings have been instituted has been charged before the court.
+
+(7) For the purposes of this section, any appeal from any determination in any criminal proceedings before any court, or any case stated or question of law reserved for the purpose of any such proceedings to any other court, shall be deemed to be part of those proceedings.
+
+(8) In the exercise of the powers conferred on him or her by this section, the Attorney General, and any person acting under his or her authority, shall act independently and shall not be subject to the direction or control of the Governor, the Island Council or any other person or authority.
+
+#### PART 5 — THE LEGISLATURE
+
+##### 216. Power to make laws
+
+(1) The Governor, acting after consultation with the Island Council, may make laws for the peace, order and good government of Tristan da Cunha.
+
+(2) The Governor shall not be obliged to act in accordance with the advice of the Island Council in exercising his or her powers under subsection (1), but in any case where the Governor acts contrary to the advice of the Council any member of the Council shall have the right to submit his or her views on the matter to a Secretary of State.
+
+##### 217. Disallowance of laws
+
+(1) Any law made by the Governor may be disallowed by Her Majesty through a Secretary of State.
+
+(2) Whenever a law has been disallowed by Her Majesty the Governor shall, as soon as practicable, cause notice of the disallowance to be published in the *Gazette*, and the law shall be annulled with effect from the date of the publication of that notice.
+
+(3) Section 16(1) of the Interpretation Act 1978[^f00008] shall apply to the annulment of any law under this section as it applies to the repeal of an Act of Parliament, save that any enactment repealed or amended by or in pursuance of that law shall have effect as from the date of the annulment as if that law had not been made.
+
+#### PART 6 — THE ADMINISTRATION OF JUSTICE
+
+##### 218. The Courts of Tristan da Cunha
+
+(1) The courts of Tristan da Cunha shall be the Supreme Court of St Helena, the Court of Appeal of St Helena, and such courts subordinate to the Supreme Court as may be established by law.
+
+(2) Her Majesty in Council continues to have such jurisdiction in respect of Tristan da Cunha as is provided by law.
+
+##### 219. Independence of the judiciary
+
+The judges and judicial officers appointed to preside or sit in any court of Tristan da Cunha shall exercise their judicial functions independently from the legislative and executive branches of government.
+
+##### Supreme Court
+
+###### 220. Jurisdiction of Supreme Court
+
+(1) Subject to this Constitution, the Supreme Court shall have and may exercise all such jurisdiction in and in relation to Tristan da Cunha as is necessary to administer the law of Tristan da Cunha.
+
+(2) Without prejudice to the generality of subsection (1), the Supreme Court shall possess and may exercise in and in relation to Tristan da Cunha, subject to this Constitution and to any other law, all the jurisdiction which is vested in, or is capable of being exercised by, Her Majesty’s High Court of Justice in and in relation to England.
+
+###### 221. Sittings of Supreme Court
+
+(1) Subject to subsection (2), the Supreme Court may sit in Tristan da Cunha or outside Tristan da Cunha.
+
+(2) The Chief Justice and any other judge or acting judge of the Supreme Court may hold sittings of the Court when outside Tristan da Cunha, if satisfied that—
+
+- (a) a matter arising in a proceeding before the Court needs to be dealt with promptly;
+- (b) every party to the proceeding is able to participate, in person or through a legal representative, by teleconference or other means of electronic, oral or written communication;
+- (c) no injustice will result; and
+- (d) the course proposed in the public interest.
+
+(3) The Chief Justice when outside Tristan da Cunha may exercise such powers of revision, variation, confirmation or setting aside of any sentence or order made by a subordinate court as are conferred on him or her by any law.
+
+###### 222. Exercise of jurisdiction of Supreme Court
+
+(1) The Chief Justice or any other judge or acting judge of the Supreme Court may hold the Supreme Court.
+
+(2) A judge holding the Supreme Court has, in exercise of the jurisdiction of that Court, all the powers and authority of the Court, and, if not the Chief Justice, has the jurisdiction, powers, authority, privileges and immunities conferred on the Chief Justice.
+
+(3) If, at any time, there are two or more judges who may hold the Supreme Court, each of them may hold sittings of the Court simultaneously.
+
+(4) In this section, “Chief Justice” means the person holding the office of Chief Justice.
+
+##### Court of Appeal
+
+###### 223. Jurisdiction of Court of Appeal
+
+(1) The Court of Appeal shall have jurisdiction to hear and determine such appeals from the courts of Tristan da Cunha as may be prescribed by this Constitution or any other law.
+
+(2) Except as otherwise provided by this Constitution, an appeal shall lie to the Court of Appeal from the Supreme Court—
+
+- (a) as of right, if the Supreme Court certifies that the case involves a substantial question of law as to the interpretation or effect of any provision of this Constitution;
+- (b) as of right, or, as the case may be, with the leave of the Supreme Court, in such other cases involving the exercise of the criminal, civil or appellate jurisdiction of the Supreme Court as may be provided by this Constitution or any other law;
+- (c) with the leave of the Supreme Court in any other case, if in the opinion of that Court the question involved in the appeal is one which by reason of its general or public importance, or of the magnitude of the interests affected, or for any other reason, ought to be submitted to the Court of Appeal for decision; and
+- (d) subject to such limitations as may be provided by law, if the Court of Appeal, in any case in which it thinks fit, and at any time, grants special leave to appeal to that Court from a judgment of the Supreme Court, subject to such conditions as to security for costs or otherwise as the Court of Appeal thinks fit.
+
+(3) In connection with any appeal from a court of Tristan da Cunha, the Court of Appeal shall, subject to this Constitution and any other law, have all the powers and jurisdiction that are possessed by that court under any law; and decisions of the Court of Appeal in respect of any appeal from a court of Tristan da Cunha shall, subject as aforesaid, be enforced in Tristan da Cunha in the same way as decisions of that court.
+
+###### 224. Practice and procedure on appeals
+
+(1) Rules made under section 89 may fix the number of judges of the Court of Appeal who may sit for any purpose; but, subject to subsection (2)—
+
+- (a) an uneven number shall sit, which for the purposes of any final determination by the Court other than the summary dismissal of an appeal, shall not be fewer than three; and
+- (b) any determination by the Court on any matter (whether final or otherwise) shall, where more than one judge sits, be according to the opinion of a majority of the judges who sit for the purpose of determining that matter.
+
+(2) If, in a circumstance referred to in section 86(6), it is not practicable for the Governor to make any appointment under section 90(3), two judges of the Court of Appeal may hear, or continue to hear, and may determine, an appeal that has been set down for hearing; but—
+
+- (a) if those judges are not in agreement about the determination of any matter arising in the course of the proceedings, the presiding judge shall decide; and
+- (b) if those judges are not in agreement as to whether the appeal should be allowed, the presiding judge shall discontinue the appeal, and the matter shall be required to be reheard before the Court of Appeal consisting of three or a greater uneven number of judges of the Court.
+
+(3) Subject to subsections (1) and (2), rules made under section 89 may provide for a reference from a decision of a single judge to the Court of Appeal.
+
+(4) Subject to subsection (5), the Court of Appeal may sit in Tristan da Cunha or outside Tristan da Cunha.
+
+(5) The Court of Appeal may sit outside Tristan da Cunha, if satisfied that—
+
+- (a) every party to the proceeding is able to participate, in person or through a legal representative, by teleconference or other means of electronic, oral or written communication;
+- (b) no injustice will result; and
+- (c) the course proposed is in the public interest.
+
+##### General
+
+###### 225. Rules of Court
+
+Rules of Court made under section 89 shall apply in Tristan da Cunha with such modifications as the President of the Court of Appeal or, as the case may be, the Chief Justice may prescribe, and in particular such Rules may regulate the practice and procedure of the Court of Appeal or the Supreme Court with respect to proceedings held outside Tristan da Cunha.
+
+#### PART 7 — PUBLIC SERVICE
+
+##### 226. Appointments etc of officers of Tristan da Cunha Public Service
+
+(1) Subject to this Constitution, the Governor, acting after consultation with such persons or such independent authority (if any) as may be prescribed by Ordinance, may, in Her Majesty’s name and on Her Majesty’s behalf—
+
+- (a) make appointments to any office in the Tristan da Cunha Public Service; and
+- (b) remove and exercise disciplinary control over persons holding or acting in any such office.
+
+(2) The Governor may by directions in writing delegate the power conferred on him or her by subsection (1) to any officer or officers of the Tristan da Cunha Public Service to such extent, and subject to such conditions, as may be specified in the directions.
+
+(3) Subject to this Constitution, an Ordinance may provide for the establishment of an independent authority to exercise any of the following functions—
+
+- (a) advising the Governor about procedures for the exercise of the powers referred to in subsection (1), including recruitment, grievance and appeal procedures;
+- (b) advising the Governor on public service management, performance, conduct and ethics policies, and monitoring the implementation of such policies;
+- (c) carrying out annual reviews of the procedures and policies referred to in paragraphs (a) and (b), and reporting on such reviews to the Governor; and
+- (d) such other functions as may contribute to the efficiency and integrity of the Tristan da Cunha Public Service.
+
+##### 227. Terms and conditions of employment
+
+(1) The Governor shall approve (and may from time to time amend) a Code of Management by or under which the terms and conditions of employment of officers of the Tristan da Cunha Public Service, or any branch of it, shall be determined.
+
+(2) Subject to any such Code of Management, the terms and conditions of the employment of any individual officer of the Tristan da Cunha Public Service shall be as agreed in that officer’s contract of employment or implied by any rule of law.
+
+#### PART 8 — AUDIT
+
+##### 228. Audit
+
+(1) The Governor shall make appropriate arrangements for the audit of the public accounts of Tristan da Cunha and of all courts of Tristan da Cunha and all authorities and offices of the Government of Tristan da Cunha; and any person or authority conducting such an audit shall have access to all books, records, reports and other documents relating to those accounts.
+
+(2) Any person or authority conducting an audit pursuant to subsection (1) shall act independently and shall not be subject to the direction or control of the Governor, the Island Council or any other person or authority.
+
+#### PART 9 — MISCELLANEOUS
+
+##### 229. Interpretation
+
+In this Chapter, unless it is otherwise provided or required by the context—
+
+- “Ascension” means Ascension Island;
+- “breach”, in relation to any provision of this Chapter, includes a failure to comply with that provision, and cognate expressions shall be construed accordingly;
+- “court” means any subordinate court, the Supreme Court or the Court of Appeal, and includes Her Majesty in Council;
+- “disciplinary law”, in relation to a disciplined force, means the law regulating the discipline of that force;
+- “disciplinary offence” means an offence against the disciplinary law;
+- “disciplined force” means any police force of Tristan da Cunha, any prison service of Tristan da Cunha, any fire service of Tristan da Cunha, any naval, military or air force raised in Tristan da Cunha under the law of Tristan da Cunha, or any visiting force;
+- “functions” includes powers and duties;
+- “*Gazette*” means the St Helena Government Gazette;
+- “Island Council” means the Island Council of Tristan da Cunha established by section 214;
+- “judge” means the Chief Justice or another judge of the Supreme Court, the President of the Court of Appeal, a Justice of Appeal, an acting judge of the Supreme Court, or an Acting Justice of Appeal;
+- “judicial officer” means a justice of the peace, a judge of a subordinate court, a Coroner or other person who is authorised to exercise the powers of a judge of a subordinate court;
+- “law” means law in force in Tristan da Cunha, and “lawful” and “lawfully” shall be construed accordingly;
+- “legal representative” means a person who—
+  - (a) is entitled to practise before the court or other tribunal or authority at the hearing of the proceeding or the process through which it is exercising that jurisdiction or power, in Tristan da Cunha or in any place outside Tristan da Cunha where it may lawfully sit; or
+  - (b) in the case of a proceeding in the Supreme Court or the Court of Appeal when sitting in a place outside Tristan da Cunha, by participating in that proceeding by teleconference or other means of electronic, oral or written communication;
+- “member”, in relation to a disciplined force, includes any person who, under the disciplinary law, is subject to that discipline;
+- “minor” means a person who has not attained the age of eighteen years or such other age as may be prescribed for the purposes of this Chapter by any other law;
+- “officer of the Tristan da Cunha Public Service” means the holder of any office in the Tristan da Cunha Public Service and any other employee of the Public Service (except a casual worker), and includes a person appointed to act as an officer of the Tristan da Cunha Public Service;
+- “Ordinance” means a law made by the Governor in respect of Tristan da Cunha;
+- “period of public emergency” means any period during which—
+  - (a) there is, in or affecting Tristan da Cunha, a war or other public emergency threatening the life of the nation; and
+  - (b) a proclamation of a state of emergency is in force under a law;
+- “subordinate court” means a court of Tristan da Cunha subordinate to the Supreme Court that has been established by Ordinance, and includes the exercise of any power or jurisdiction in relation to an inquiry conferred on a Coroner by the Coroners Ordinance or any Ordinance replacing or amending that Ordinance;
+- “Tristan da Cunha” means the Island of Tristan da Cunha, Gough Island, Nightingale Island and Inaccessible Island;
+- “Tristan da Cunha Public Service” means the service of the Crown in a civil capacity in respect of the government of Tristan da Cunha, and includes service as a member of any police force, prison service or fire service of Tristan da Cunha; but does not include service as a judge or judicial officer or service as a member of the Island Council, any committee of the Council or, unless otherwise provided by a law, of any other public authority;
+- “visiting force” means any naval, military or air force raised in, or under the law of, a country other than Tristan da Cunha, one or more members of which are lawfully in Tristan da Cunha while on service in that capacity;
+- “wrongfully removed or retained child” means a child under the age of sixteen years who has been wrongfully removed to or retained in the territory of a state that is a contracting party to the Convention on the Civil Aspects of International Child Abduction, signed at The Hague on 25 October 1980.
+
+##### 230. References to the holder of an office to include a person acting in the office
+
+In this Chapter, unless it is otherwise provided or required by the context, a reference to the holder of an office by the term designating his or her office shall be construed as including a reference to any person acting in that office or, to the extent of his or her authority, otherwise performing the functions of that office.
+
+##### 231. Power to amend and revoke instruments, etc
+
+(1) Any power conferred by this Chapter to make any subsidiary instrument or to give any instructions or directions shall be construed as including a power exercisable in like manner to amend or revoke any such instrument, instructions or directions.
+
+(2) For the purposes of this section, “subsidiary instrument” means any proclamation, regulation, order, rule or other like instrument having the force of law.
+
+##### 232. Appointments
+
+(1) Where any person has vacated any office established by this Chapter, he or she may, if qualified, again be appointed or elected or otherwise selected to hold that office in accordance with this Chapter.
+
+(2) Where a power is conferred by this Chapter on any person to make any appointment to any office, a person may be appointed to that office even though some other person may be holding that office, when that other person is on leave of absence pending relinquishment of that office; and where two or more persons are holding the same office by reason of an appointment made in pursuance of this subsection, then, for the purposes of any function conferred on the holder of that office, the person last appointed to that office shall be deemed to be the sole holder of the office.
+
+(3) In this Chapter, unless it is otherwise provided or required by the context, any reference to power to make appointments to an office shall be construed as including reference to power to make appointments on promotion and transfer to that office and power to appoint a person to act in that office during any period when it is vacant or the holder of it is unable (whether by reason of absence or infirmity of body or mind or any other cause) to perform the functions of that office.
+
+(4) Where by this Chapter any person is directed, or power is conferred on any person or authority to appoint a person, to act in an office if the holder of it is unable to perform the functions of that office, the validity of any performance of those functions by the person so directed or of any appointment made in exercise of that power shall not be called into question in any court on the grounds that the holder of the office is not unable to perform the functions of the office.
+
+##### 233. Removal from office
+
+References in this Chapter to the power to remove an officer of the Tristan da Cunha Public Service from his or her office shall be construed as including references to any power conferred by any law to require or permit that officer to retire from the Public Service and to any power or right to terminate a contract on which a person is employed in the Public Service and to determine whether any such contract shall or shall not be renewed.
+
+##### 234. Resignations
+
+(1) Any person who is appointed to any office established by or under this Chapter may resign from that office by writing under his or her hand addressed to the person or authority by whom he or she was appointed.
+
+(2) The resignation of any person from any office established by or under this Chapter takes effect when the writing signifying the resignation is received by the person or authority to whom it is addressed or by any other person authorised by that person or authority to receive it.
+
+### SCHEDULE TO THE CONSTITUTION — FORMS OF OATHS AND AFFIRMATIONS
+
+**1.** Oath of allegiance
+
+I…………………………do swear that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth the Second, Her Heirs and Successors, according to law. So help me God.
+
+**2.** Oath for due execution of office of Governor
+
+I…………………………do swear that I will well and truly serve Her Majesty Queen Elizabeth the Second, Her Heirs and Successors, in the office of Governor in accordance with the Constitution and other laws of St Helena, Ascension and Tristan da Cunha and with due regard to the customs of St Helena, Ascension and Tristan da Cunha. So help me God.
+
+**3.** Oath for due execution of office of Member of the Legislative Council
+
+I…………………………do swear that I will well and truly serve Her Majesty Queen Elizabeth the Second, Her Heirs and Successors, in the office of Member of the Legislative Council. So help me God.
+
+**4.**[^key-11e991cf8a294a8ceb296afeebe534a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.** Judicial Oath
+
+I…………………………do swear that I will well and truly serve Her Majesty Queen Elizabeth the Second, Her Heirs and Successors, in the office of……………………….and I will do right to all manner of people according to law, without fear or favour, affection or ill-will. So help me God.
+
+**6.** Affirmations
+
+In the forms above respectively set forth, for the word “swear” there shall be substituted the words “solemnly and sincerely affirm and declare”, and the words “So help me God” shall be omitted.
+
+## Annotations
+
+[^key-5fc98ea3949295112c2142348605b729]: Commencement: Sch. in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)
+
+[^key-ff53b902b22fb0a6a4538ea085e23642]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/2009/1751/schedule) modified (22.8.2020) by [The Overseas Territories (Constitutional Modifications) Order 2020 (S.I. 2020/780)](https://www.legislation.gov.uk/uksi/2020/780), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/780/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/780/article/3/2)
+
+[^key-494e06c2aa53c1a994a6f0e428804c2e]: Textual amendment: Words in Sch. s. 30(1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/2/a)
+
+[^key-2353af99f9fc91e9e869d2449ba8ecfe]: Textual amendment: Word in Sch. s. 30(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/2/b)
+
+[^key-4ee60bdc7fcbb3105599b1143ebbc5f2]: Textual amendment: Words in Sch. s. 30(5) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2021/895/article/2/2/c)
+
+[^key-d9471fbe03cb32c4280fe99e81f0ba6a]: Textual amendment: Sch. s. 35(1)(a)-(c) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/3/a)
+
+[^key-827f217bb2708d01754fdb41058f8d8d]: Textual amendment: Sch. s. 35(2) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/3/b)
+
+[^key-707e57d641d069c83c9127bc013c6e1c]: Textual amendment: Sch. s. 35(3) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/3/b)
+
+[^key-59060e06494e0e0d1c1ef7dd5bfad41f]: Textual amendment: Sch. s. 35(4) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/3/b)
+
+[^key-db88fd12b123ffa4d175b6137a0f1947]: Textual amendment: Sch. s. 36 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(4)](https://www.legislation.gov.uk/uksi/2021/895/article/2/4)
+
+[^key-cba9ca827d97136515c2b6046fc4745e]: Textual amendment: Sch. s. 36A inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(5)](https://www.legislation.gov.uk/uksi/2021/895/article/2/5)
+
+[^key-7366ed8aee1df01a046ed4d879936827]: Textual amendment: Sch. s. 37 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(6)](https://www.legislation.gov.uk/uksi/2021/895/article/2/6)
+
+[^key-9296c37cea1a1ec0455364d4414d216c]: Textual amendment: Sch. ss. 37A-37H inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(7)](https://www.legislation.gov.uk/uksi/2021/895/article/2/7)
+
+[^key-90a538d843ae3a312d8d6934a7b9d0ff]: Textual amendment: Sch. s. 38 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(8)](https://www.legislation.gov.uk/uksi/2021/895/article/2/8)
+
+[^key-6660e79e55536e4cdac908c6e367ed99]: Textual amendment: Sch. s. 39(1)-(8) substituted for Sch. s. 39(1)-(9) (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(9)](https://www.legislation.gov.uk/uksi/2021/895/article/2/9)
+
+[^key-75b577ae240a61bf4fcfbf31286677a5]: Textual amendment: Sch. s. 40 omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(10)](https://www.legislation.gov.uk/uksi/2021/895/article/2/10)
+
+[^key-e6ef35e02c9df82c992575b2906f8f2e]: Textual amendment: Sch. s. 41 omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(11)](https://www.legislation.gov.uk/uksi/2021/895/article/2/11)
+
+[^key-d8a723b879e7fedcfedca92d93e345e2]: Textual amendment: Sch. s. 42 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(12)](https://www.legislation.gov.uk/uksi/2021/895/article/2/12)
+
+[^key-1e4399023356f4b6e11bf76178a30abc]: Textual amendment: Words in Sch. s. 43(4) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(13)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/13/a)
+
+[^key-d60d7fbbb1f9050ea55838c4f791de43]: Textual amendment: Words in Sch. s. 43(8) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(13)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/13/b)
+
+[^key-d5d37c105956d5a6e7a5180a673a2fc0]: Textual amendment: Word in Sch. s. 44(1)(e) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/a)
+
+[^key-8750580ee3472b6362e6730d38c60d8f]: Textual amendment: Sch. s. 44(1)(f): full stop substituted for word (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/b)
+
+[^key-6e4c578141b34808b8030389202ace14]: Textual amendment: Sch. s. 44(1)(g) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(c)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/c)
+
+[^key-f6f8c875feb09f5c9d960d0fde05cc40]: Textual amendment: Sch. s. 44(1A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(d)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/d)
+
+[^key-d876c290932a6a9a31d0ecd4302ab84b]: Textual amendment: Words in Sch. s. 44(2) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(e)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/e)
+
+[^key-dd6835542d0c1c19395c4468d1957422]: Textual amendment: Words in Sch. s. 44(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(f)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/f)
+
+[^key-fb66d862fb550293b1216a8c46bb18e7]: Textual amendment: Words in Sch. s. 44(2) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(g)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/g)
+
+[^key-567baca86cdee94908a37cfb774bf969]: Textual amendment: Words in Sch. s. 45 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(15)](https://www.legislation.gov.uk/uksi/2021/895/article/2/15)
+
+[^key-46a690ab87bbc38f7494ccf57cf56590]: Textual amendment: Sch. ss. 45A, 45B inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(16)](https://www.legislation.gov.uk/uksi/2021/895/article/2/16)
+
+[^key-1912406f7a8a218a07323bd02351c34c]: Textual amendment: Sch. s. 48(b)(ii) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(17)](https://www.legislation.gov.uk/uksi/2021/895/article/2/17)
+
+[^key-555c2be3ee3bfa9e71d40819f83ef9d7]: Textual amendment: Sch. s. 51 renumbered as Sch. s. 51(1) (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(18)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/18/a)
+
+[^key-8376f519c89004f02d75983861f7b4a6]: Textual amendment: Sch. s. 51(2) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(18)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/18/b)
+
+[^key-a064c1aabb49c15e7257365656909a8b]: Textual amendment: Words in Sch. s. 54 omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(19)](https://www.legislation.gov.uk/uksi/2021/895/article/2/19)
+
+[^key-31e5a57fb340673d9fbf066051e747a5]: Textual amendment: Sch. ss. 56-59 omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(20)](https://www.legislation.gov.uk/uksi/2021/895/article/2/20)
+
+[^key-ed40176db99d6ed60211c90a7b70655d]: Textual amendment: Sch. s. 61(1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(21)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/21/a)
+
+[^key-13fe0f5ee3f88f34801d51041e23436f]: Textual amendment: Sch. s. 61(2A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(21)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/21/b)
+
+[^key-7a89f4634f6e9900254d207db8f7768f]: Textual amendment: Words in Sch. s. 61(3)(a) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(21)(c)](https://www.legislation.gov.uk/uksi/2021/895/article/2/21/c)
+
+[^key-53d10218927e453340cc2cf68aa637e9]: Textual amendment: Words in Sch. s. 61(3) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(21)(d)](https://www.legislation.gov.uk/uksi/2021/895/article/2/21/d)
+
+[^key-224988cad0c4596302cac4a17cacc7e2]: Textual amendment: Sch. s. 61(3A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(21)(e)](https://www.legislation.gov.uk/uksi/2021/895/article/2/21/e)
+
+[^key-1a4cf5dfb441176af13cb439b82cbb39]: Textual amendment: Sch. s. 61(4) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(21)(f)](https://www.legislation.gov.uk/uksi/2021/895/article/2/21/f)
+
+[^key-883b15c417783e9a782bc3f03055f099]: Textual amendment: Word in Sch. s. 67(5) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(22)](https://www.legislation.gov.uk/uksi/2021/895/article/2/22)
+
+[^key-8d64f6a83afc2d67edc9796edb00fcfc]: Textual amendment: Sch. s. 69A inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(23)](https://www.legislation.gov.uk/uksi/2021/895/article/2/23)
+
+[^key-de8947087e5f0ad5cc614ee969fa168f]: Textual amendment: Sch. s. 71 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(24)](https://www.legislation.gov.uk/uksi/2021/895/article/2/24)
+
+[^key-84910d3124060e605e979cb67195b90d]: Textual amendment: Words in Sch. s. 72 heading substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(25)](https://www.legislation.gov.uk/uksi/2021/895/article/2/25)
+
+[^key-388a02ea747d00784d9dde7ed9b9971e]: Textual amendment: Words in Sch. s. 72(1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(25)](https://www.legislation.gov.uk/uksi/2021/895/article/2/25)
+
+[^f00005]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-ad9349dc73929499f6231c0cc19e0ba5]: Textual amendment: Words in Sch. s. 76 substituted for Sch. s. 76(1)(2) (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(26)](https://www.legislation.gov.uk/uksi/2021/895/article/2/26)
+
+[^key-15159a3cc80389642e3055677f8e752f]: Textual amendment: Words in Sch. s. 77(1) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(27)](https://www.legislation.gov.uk/uksi/2021/895/article/2/27)
+
+[^key-e2519f327a291ca55259aba71904d872]: Textual amendment: Sch. s. 78(1)(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(28)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/28/a)
+
+[^key-7f4e0bc60317e84d8431d160055530ea]: Textual amendment: Words in Sch. s. 78(3) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(28)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/28/b)
+
+[^key-8535700c0eaae9dadad3f44bc2287d4c]: Textual amendment: Words in Sch. s. 79 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(29)](https://www.legislation.gov.uk/uksi/2021/895/article/2/29)
+
+[^f00006]: Footnote: [1833 c.41](https://www.legislation.gov.uk/ukpga/1833/41).
+
+[^key-630bab5bea10cbd957b45844f1231b43]: Textual amendment: Words in Sch. s. 100(1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(30)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/30/a)
+
+[^key-c3041c46944fae3ba8d53b087a6f6634]: Textual amendment: Words in Sch. s. 100(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(30)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/30/b)
+
+[^key-747a8ed3eb6b712b54ec07cffff863de]: Textual amendment: Words in Sch. s. 101 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(31)](https://www.legislation.gov.uk/uksi/2021/895/article/2/31)
+
+[^key-39c15838867c0d6d15ecd6e49520040b]: Textual amendment: Words in Sch. s. 103(1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(32)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/32/a)
+
+[^key-0d739a8b32fec4d0cf9f75d342f8ca88]: Textual amendment: Words in Sch. s. 103(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(32)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/32/b)
+
+[^key-a68f2549f77e5359af712afb4c4d80fd]: Textual amendment: Words in Sch. s. 104(1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(33)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/33/a)
+
+[^key-ee01b85bbc58dc43c56362d7c167d4d3]: Textual amendment: Words in Sch. s. 104(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(33)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/33/b)
+
+[^key-476fd6a62083514af45110b1450cd207]: Textual amendment: Words in Sch. s. 105 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(34)](https://www.legislation.gov.uk/uksi/2021/895/article/2/34)
+
+[^key-cad15ec6ed2e86eabdc523877881a401]: Textual amendment: Sch. s. 109(3) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(35)](https://www.legislation.gov.uk/uksi/2021/895/article/2/35)
+
+[^key-7a91f8aa14e7e1a5de6aff983c4529b7]: Textual amendment: Sch. s. 109A inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(36)](https://www.legislation.gov.uk/uksi/2021/895/article/2/36)
+
+[^key-a3a2f02d4cf868d0c8460a2d71a0160e]: Textual amendment: Words in Sch. s. 112 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(37)](https://www.legislation.gov.uk/uksi/2021/895/article/2/37)
+
+[^f00007]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^f00008]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-11e991cf8a294a8ceb296afeebe534a5]: Textual amendment: Sch. Sch. para. 4 omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(38)](https://www.legislation.gov.uk/uksi/2021/895/article/2/38)

@@ -1,0 +1,318 @@
+---
+title: The Accreditation Regulations 2009
+id: uksi/2009/3155
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-11-30'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2009/3155
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/3155/pdfs/uksiem_20093155_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/3155/pdfs/uksi_20093155_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/3155/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Accreditation Regulations 2009
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2009 No. 3155
+
+Market Standards
+
+Accreditation Of Services
+
+The Accreditation Regulations 2009
+
+Made
+
+30th November 2009
+
+Laid before Parliament
+
+3rd December 2009
+
+Coming into force
+
+1st January 2010
+
+The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to accreditation of conformity assessment bodies[^f00002].
+
+The Secretary of State in exercise of the powers conferred on him by section 2(2) of that Act makes the following Regulations:
+
+## 1. Citation and commencement[^key-fc622c429339eb32eaf5d7ecc333ff69]
+
+These Regulations may be cited as the Accreditation Regulations 2009 and shall come into force on 1st January 2010.
+
+## 2. Interpretation[^key-254cc7486d625bfc3183f4e1c80d3dd6][^M_E_4a9decdd-2918-4533-93e2-d0595c827128]
+
+*Extent: E+W+S*
+
+(1) In these Regulations:
+
+- “[^key-e6af05527da5a163d3b592bc5c1c016b]**RAMS**” means Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/eur/2008/765) of the European Parliament and of the Council of 9th July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation [(EEC) No 339/93](https://www.legislation.gov.uk/eur/1993/339);
+- “UKAS” means the United Kingdom Accreditation Service, a company limited by guarantee incorporated in England and Wales under number 3076190.
+
+(2) Any expression used in RAMS[^key-91b3e3e36e90d4e1a0a1ac8600143248] which is used in these Regulations has the same meaning in these Regulations as it has in RAMS.
+
+## 2. Interpretation[^V_NI_6ceaa272-e4f2-4def-ce1b-891ddd03d1ab][^M_E_23faf2eb-ddee-4228-98a1-5cdc44def959]
+
+*Extent: N.I.*
+
+(1) In these Regulations:
+
+- “the EC Regulation” means Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/european/regulation/2008/0765) of the European Parliament and of the Council of 9th July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation [(EEC) No 339/93](https://www.legislation.gov.uk/european/regulation/1993/0339)[^f00003]; and
+- “UKAS” means the United Kingdom Accreditation Service, a company limited by guarantee incorporated in England and Wales under number 3076190.
+
+(2) Any expression used in the EC Regulation which is used in these Regulations has the same meaning in these Regulations as it has in the EC Regulation.
+
+## 3. Appointment of UKAS as national accreditation body[^key-a710161e927a02acc223fe519671ada6][^M_E_6f2e4a69-0391-417e-92a1-3b9179e71b1a]
+
+*Extent: E+W+S*
+
+UKAS is appointed for the purposes of Article 4(1) of RAMS[^key-ac3f51077453d718b7cea095fa3a6cac] as the UK national accreditation body[^key-07d0d3f77706589899e77bf4bb613ff0].
+
+## 3. Appointment of UKAS as national accreditation body[^V_NI_67501a38-018d-3bce-4c1b-bbd3886e0407][^M_E_a8cabea5-f80c-451d-ab48-186a7d0b12cd]
+
+*Extent: N.I.*
+
+UKAS is appointed for the purposes of Article 4(1) of the EC Regulation as the national accreditation body.
+
+## 4. Fees[^key-51e7515fff9209562230516821e9218c][^M_E_0b9a89c3-3877-456a-8c7a-1cbcc6baeb72]
+
+*Extent: E+W+S*
+
+(1) UKAS may charge such fees in connection with or incidental to, carrying out its functions under RAMS[^key-5d0152960c454828fbdae92660b77d72] as it may determine provided that such fees shall not exceed the sum of the following:
+
+- (a) the costs incurred or to be incurred by UKAS in performing the relevant function; and
+- (b) an amount on account of other expenditure of UKAS which is fair and reasonable in the circumstances having regard to the character and extent of the work done by it.
+
+(2) The power in paragraph (1) includes the power to require payment of fees or a reasonable estimate thereof in advance.
+
+## 4. Fees[^V_NI_f02bd993-c8f4-afab-10ad-6be994f5fdee][^M_E_314692c2-3dc0-42a0-839b-4f0e5945ea36]
+
+*Extent: N.I.*
+
+(1) UKAS may charge such fees in connection with or incidental to, carrying out its functions under the EC Regulation as it may determine provided that such fees shall not exceed the sum of the following:
+
+- (a) the costs incurred or to be incurred by UKAS in performing the relevant function; and
+- (b) an amount on account of other expenditure of UKAS which is fair and reasonable in the circumstances having regard to the character and extent of the work done by it.
+
+(2) The power in paragraph (1) includes the power to require payment of fees or a reasonable estimate thereof in advance.
+
+## 5. Appeals[^key-c23b2f496fffdbda9be65ceae43f968c][^M_E_feb15baa-8fbf-4637-d0e8-201450987cc5]
+
+*Extent: E+W+S*
+
+The Schedule to these Regulations has effect in relation to appeals in relation to accreditation decisions by UKAS pursuant to Chapter II of RAMS[^key-8f029efeb68d1ed252dd9acdb60aa68f].
+
+## 5. Appeals[^V_NI_7cf6776f-a313-0cc6-d22c-a6ad16fb618c][^M_E_955fc639-4382-406c-b751-4fa87539c5c7]
+
+*Extent: N.I.*
+
+The Schedule to these Regulations has effect in relation to appeals in relation to accreditation decisions by UKAS pursuant to Chapter II of the EC Regulation.
+
+## 6. Provision of information to the Secretary of State[^key-6d9f86e1296327d6d55a6d0941c6281e][^M_E_17bc4e82-531f-4705-c473-a92e9f649362]
+
+*Extent: E+W+S*
+
+UKAS shall provide to the Secretary of State such information as he may in writing request in relation to its functions under Chapter II of RAMS[^key-aa7c91ceadb5c5b91f07f750bfd793e1].
+
+## 6. Provision of information to the Secretary of State[^V_NI_34a09ca6-fb7f-a7dd-fd1e-5d2360ff288b][^M_E_dca6e6a0-1f11-4065-ea75-499c4150a47c]
+
+*Extent: N.I.*
+
+UKAS shall provide to the Secretary of State such information as he may in writing request in relation to its functions under Chapter II of the EC Regulation.
+
+Drayson
+
+Minister for Science and Innovation
+
+Department for Business, Innovation and Skills
+
+## SCHEDULE — APPEALS
+
+Regulation 5
+
+### 1. Appeals – general[^key-a4128059b7d0dcf1f6a4cf33ee43a64a][^M_E_5d04aa47-a721-4f24-e08e-846646b2537e]
+
+*Extent: E+W+S*
+
+(1) — Any person who makes an application for accreditation or is accredited by UKAS and is dissatisfied with a decision of UKAS in the exercise of its functions under RAMS[^key-a81e04f3e4931211b1a53d922319f9b6] (“the appellant”) may by notice in writing served on UKAS appeal against that decision.
+
+(2) A notice served pursuant to sub-paragraph (1) must specify the decision which is subject to the appeal and the grounds of the appeal.
+
+(3) Any appeal must be made within one month of the notification in writing of the decision in question to the appellant.
+
+(4) UKAS shall consider the appeal and inform the appellant in writing of the outcome within one month of the receipt of notice of the appeal.
+
+(5) If, following consideration of the appeal by UKAS, the appellant is still dissatisfied with the decision he may request that the matter be referred to an appeal review panel constituted in accordance with paragraph 2.
+
+(6) A request pursuant to sub-paragraph (5) must:
+
+- (a) be made within 3 months of the notification in writing to the appellant of the outcome of the first appeal;
+- (b) be made in writing;
+- (c) specify the decision in respect of which the appeal is made and the grounds of the appeal; and
+- (d) be accompanied by any other documents on which the appellant relies.
+
+### 1. Appeals – general[^V_NI_5c5041e2-80b7-ce39-884b-8b415e677237][^M_E_2eb61ca8-9473-4e3a-d0df-59003203464d]
+
+*Extent: N.I.*
+
+(1) — Any person who makes an application for accreditation or is accredited by UKAS and is dissatisfied with a decision of UKAS in the exercise of its functions under the EC Regulation (“the appellant”) may by notice in writing served on UKAS appeal against that decision.
+
+(2) A notice served pursuant to sub-paragraph (1) must specify the decision which is subject to the appeal and the grounds of the appeal.
+
+(3) Any appeal must be made within one month of the notification in writing of the decision in question to the appellant.
+
+(4) UKAS shall consider the appeal and inform the appellant in writing of the outcome within one month of the receipt of notice of the appeal.
+
+(5) If, following consideration of the appeal by UKAS, the appellant is still dissatisfied with the decision he may request that the matter be referred to an appeal review panel constituted in accordance with paragraph 2.
+
+(6) A request pursuant to sub-paragraph (5) must:
+
+- (a) be made within 3 months of the notification in writing to the appellant of the outcome of the first appeal;
+- (b) be made in writing;
+- (c) specify the decision in respect of which the appeal is made and the grounds of the appeal; and
+- (d) be accompanied by any other documents on which the appellant relies.
+
+### 2. Constitution of appeal review panel[^key-1fbae0411387ab13b4e8f6942f991008]
+
+(1) On receipt by UKAS of a request under paragraph 1(5), an appeal review panel shall be appointed in accordance with this paragraph.
+
+(2) An appeal review panel must consist of a person to chair it and two other members.
+
+(3) The chairman or a member of an appeal review panel shall:
+
+- (a) not be an employee or a director of UKAS;
+- (b) have no commercial interest in the appeal being considered; and
+- (c) not have been personally involved in any matters relating to the appeal.
+
+(4) The Secretary of State may appoint an official of a government department to be a member of the appeal review panel (other than the chairman) but the Secretary of State may in writing indicate that he does not wish to make such an appointment.
+
+(5) Subject to any appointment under sub-paragraph (4), the chairman of UKAS shall appoint the chairman and members of the appeal review panel.
+
+(6) The appellant may object to the selection of all or any of the members of the appeal review panel (including any member nominated by the Secretary of State), after which the chairman of UKAS must select a replacement member or members.
+
+(7) No objection shall be made to any subsequent members appointed by the chairman of UKAS under sub-paragraph (6)
+
+### 3. Procedure where appeal review panel is constituted etc[^key-4fdf4f8beddbe5ca7aa2e0ea38de44d4]
+
+(1) If the appeal review panel determines it necessary, a hearing shall be held at which both the appellant and UKAS may present their case.
+
+(2) Where a hearing is held:
+
+- (a) with the agreement of the appeal review panel, experts and witnesses may also be called to attend the hearing; and
+- (b) any supporting documentation from the appellant must be submitted to the person chairing the appeal review panel at least 5 working days ahead of the hearing.
+
+(3) The appeal review panel must consider the evidence and make a recommendation in writing to the Chief Executive of UKAS, within one month of the constitution of the appeal review panel.
+
+(4) The Chief Executive of UKAS must make the final decision and inform the appellant in writing of the outcome of the appeal, within 3 working days of receipt of the recommendation from the appeal review panel.
+
+(5) A copy of the recommendations of the appeal review panel must be provided to the appellant.
+
+(6) The appellant may terminate the appeal review panel process at any time by giving notice in writing to UKAS withdrawing the appeal.
+
+(7) In this paragraph “working day” mean any day other than Saturday, Sunday, Good Friday, Christmas Day or a day that is in any part of the United Kingdom a bank holiday within the meaning of the Banking and Financial Dealings Act 1971[^f00004].
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The purpose of these Regulations is to implement Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/european/regulation/2008/0765) of the European Parliament and of the Council of 9th July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation [(EEC) No 339/93](https://www.legislation.gov.uk/european/regulation/1993/0339) (O.J. L218, 13.8.2008, pp 30-47) insofar as it relates to accreditation.
+
+The Regulations make provision for the appointment of UKAS as the national accreditation body (regulation 3), the payment of fees to UKAS in respect of performance by it of functions under the EC Regulation (regulation 4), appeals in relation to accreditation decisions by UKAS (regulation 5) and the provision of information to the Secretary of State (regulation 6). The appointment of a single national accreditation body is required by Article 4(1) of Regulation 765/2008 and Article 5(5) requires provision to be made in relation to appeals.
+
+The Schedule to the Regulations makes provision in relation to appeals.
+
+As these Regulations do not in themselves have an impact on the costs of the business, voluntary or public sectors, no impact assessment has been produced in relation to them.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51)
+
+[^f00002]: Footnote: [S.I. 2009/2743](https://www.legislation.gov.uk/uksi/2009/2743).
+
+[^key-fc622c429339eb32eaf5d7ecc333ff69]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/3155/regulation/1) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3155/regulation/1)
+
+[^key-254cc7486d625bfc3183f4e1c80d3dd6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/3155/regulation/2) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3155/regulation/1)
+
+[^M_E_4a9decdd-2918-4533-93e2-d0595c827128]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
+
+[^key-e6af05527da5a163d3b592bc5c1c016b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/3155/regulation/2/1) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 14 para. 2(a)(i)](https://www.legislation.gov.uk/uksi/2019/696/schedule/14/paragraph/2/a/i) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-91b3e3e36e90d4e1a0a1ac8600143248]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/3155/regulation/2/2) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 14 para. 2(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/14/paragraph/2/b) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^V_NI_6ceaa272-e4f2-4def-ce1b-891ddd03d1ab]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/3155/regulation/2) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3155/regulation/1)
+
+[^M_E_23faf2eb-ddee-4228-98a1-5cdc44def959]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
+
+[^f00003]: Footnote: O.J. L218, 13.8.2008, pp 30-47.
+
+[^key-a710161e927a02acc223fe519671ada6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/3155/regulation/3) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3155/regulation/1)
+
+[^M_E_6f2e4a69-0391-417e-92a1-3b9179e71b1a]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
+
+[^key-ac3f51077453d718b7cea095fa3a6cac]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2009/3155/regulation/3) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 14 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/14/paragraph/3/a) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-07d0d3f77706589899e77bf4bb613ff0]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2009/3155/regulation/3) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 14 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/14/paragraph/3/b) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^V_NI_67501a38-018d-3bce-4c1b-bbd3886e0407]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/3155/regulation/3) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3155/regulation/1)
+
+[^M_E_a8cabea5-f80c-451d-ab48-186a7d0b12cd]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
+
+[^key-51e7515fff9209562230516821e9218c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/3155/regulation/4) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3155/regulation/1)
+
+[^M_E_0b9a89c3-3877-456a-8c7a-1cbcc6baeb72]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
+
+[^key-5d0152960c454828fbdae92660b77d72]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2009/3155/regulation/4/1) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 14 para. 4](https://www.legislation.gov.uk/uksi/2019/696/schedule/14/paragraph/4) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^V_NI_f02bd993-c8f4-afab-10ad-6be994f5fdee]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/3155/regulation/4) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3155/regulation/1)
+
+[^M_E_314692c2-3dc0-42a0-839b-4f0e5945ea36]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
+
+[^key-c23b2f496fffdbda9be65ceae43f968c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/3155/regulation/5) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3155/regulation/1)
+
+[^M_E_feb15baa-8fbf-4637-d0e8-201450987cc5]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
+
+[^key-8f029efeb68d1ed252dd9acdb60aa68f]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2009/3155/regulation/5) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 14 para. 4](https://www.legislation.gov.uk/uksi/2019/696/schedule/14/paragraph/4) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^V_NI_7cf6776f-a313-0cc6-d22c-a6ad16fb618c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/3155/regulation/5) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3155/regulation/1)
+
+[^M_E_955fc639-4382-406c-b751-4fa87539c5c7]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
+
+[^key-6d9f86e1296327d6d55a6d0941c6281e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/3155/regulation/6) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3155/regulation/1)
+
+[^M_E_17bc4e82-531f-4705-c473-a92e9f649362]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
+
+[^key-aa7c91ceadb5c5b91f07f750bfd793e1]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/uksi/2009/3155/regulation/6) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 14 para. 4](https://www.legislation.gov.uk/uksi/2019/696/schedule/14/paragraph/4) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^V_NI_34a09ca6-fb7f-a7dd-fd1e-5d2360ff288b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/3155/regulation/6) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3155/regulation/1)
+
+[^M_E_dca6e6a0-1f11-4065-ea75-499c4150a47c]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
+
+[^key-a4128059b7d0dcf1f6a4cf33ee43a64a]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3155/schedule/paragraph/1) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3155/regulation/1)
+
+[^M_E_5d04aa47-a721-4f24-e08e-846646b2537e]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
+
+[^key-a81e04f3e4931211b1a53d922319f9b6]: Textual amendment: Word in [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2009/3155/schedule/paragraph/1/1) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 14 para. 4](https://www.legislation.gov.uk/uksi/2019/696/schedule/14/paragraph/4) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^V_NI_5c5041e2-80b7-ce39-884b-8b415e677237]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3155/schedule/paragraph/1) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3155/regulation/1)
+
+[^M_E_2eb61ca8-9473-4e3a-d0df-59003203464d]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
+
+[^key-1fbae0411387ab13b4e8f6942f991008]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/3155/schedule/paragraph/2) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3155/regulation/1)
+
+[^key-4fdf4f8beddbe5ca7aa2e0ea38de44d4]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/3155/schedule/paragraph/3) in force at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/3155/regulation/1)
+
+[^f00004]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).

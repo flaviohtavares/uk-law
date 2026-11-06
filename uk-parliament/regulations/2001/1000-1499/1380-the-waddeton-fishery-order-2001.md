@@ -1,0 +1,227 @@
+---
+title: The Waddeton Fishery Order 2001
+id: uksi/2001/1380
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-04-04'
+text_date: '2017-12-28'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2001/1380
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/1380/pdfs/uksi_20011380_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/1380/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Waddeton Fishery Order 2001
+
+> Text as at 2017-12-28.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2001 No. 1380
+
+SEA FISHERIES, ENGLAND
+
+SHELLFISH
+
+The Waddeton Fishery Order 2001
+
+Made
+
+4th April 2001
+
+Laid before Parliament
+
+5th April 2001
+
+Coming into force
+
+27th April 2001
+
+Whereas an application for an Order under section 1 of the Sea Fisheries (Shellfish) Act 1967[^f00001] was made to the Minister of Agriculture, Fisheries and Food by the local fisheries committee for the Devon Sea Fisheries District;
+
+And whereas the said Minister prepared a draft Order and served a copy of it on the said committee in accordance with paragraph 1 of Schedule 1 to the said Act;
+
+And whereas the said committee caused printed copies of the draft Order to be published and circulated, and gave notice of the application, in accordance with paragraph 2 of the said Schedule;
+
+And whereas no objections were received by the said Minister;
+
+Now, therefore, the said Minister, in exercise of the powers conferred on him by the said section 1 and of all other powers enabling him in that behalf, and with the consent of the Possessor of the Duchy of Cornwall and the Dart Harbour and Navigation Authority, hereby makes the following Order:
+
+## 1. Title, commencement and interpretation
+
+(1) This Order may be cited as the Waddeton Fishery Order 2001 and shall come into force on 27th April 2001.
+
+(2) In this Order—
+
+- “the Authority” means the inshore fisheries and conservation authority for the Devon and Severn Inshore Fisheries and Conservation District established under section 149(1) of the Marine and Coastal Access Act 2009;[^key-fc0527fa8f25537420ae729bd1bd85d5]
+- “the definitive map” means the map duly sealed in duplicate with the Minister’s seal and marked “Map referred to in the Waddeton Fisheries Order 2001” one copy of which is in the possession of the Authority[^key-0aded24f78d022c17da259b80c8d233c] and the other copy of which is in the possession of the Minister;
+- “exclusive licence” means a licence issued by the Authority under article 6 of this Order which grants exclusive authorisation to the person named in the licence to cultivate, dredge, fish for or take prescribed species from such part of the fishery as is specified in the licence;
+- “the fishery” means that part of the River Dart in the county of Devon which lies below the line of mean high water and is shown coloured pink on the definitive map;
+- “the prescribed species” are oysters, mussels, cockles, clams and crabs;
+- “vermin” means an organism injurious to any of the prescribed species.
+
+## 2. Right of regulating a fishery
+
+There is hereby conferred on the Authority for a period of 25 years the right[^f00003] of regulating a fishery for the prescribed species with respect to the fishery.
+
+## 3. Marking of limits of the fishery
+
+(1) The Authority shall mark the limits of the fishery in such manner as the Minister may from time to time approve and the Authority shall maintain the marks in position and in good repair.
+
+(2) All persons granted an exclusive licence shall mark the limits of such part or parts of the fishery in respect of which the exclusive licence was granted in such manner as the Authority may from time to time approve and such persons shall maintain the marks in position and in good repair.
+
+## 4. Taking of samples for the purpose of disease control
+
+The Authority shall permit any person authorised in that behalf by the Minister to do the following things for any purpose connected with preventing the spread of disease—
+
+- (a) at any reasonable time to obtain samples of any of the prescribed species found within the fishery and to take them away provided that they have been marked, labelled or otherwise made capable of identification; and
+- (b) when the purpose for which any such sample was taken has been satisfied, to dispose of it as he may determine.
+
+## 5. Power to impose restrictions and make regulations
+
+(1) The Authority may, with the consent of the Minister, from time to time impose restrictions on, and make regulations respecting, the dredging, fishing for and taking of any of the prescribed species within the whole or any specified part of the fishery.
+
+(2) Without prejudice to the generality of paragraph (1) above, regulations may be made under that paragraph for the purpose of—
+
+- (a) determining the size below which or above which it shall be unlawful to take any of the prescribed species from the fishery or to remove them from one part of the fishery to another;
+- (b) determining the size or description of vessels, dredges and fishing instruments to be used in dredging, fishing for or taking any of the prescribed species; and
+- (c) regulating the disposal of such vermin as may be dredged or otherwise taken in dredging, fishing for or taking any of the prescribed species.
+
+(3) The production of a copy of any regulation purporting to be certified by any officer authorised by the Minister of Agriculture, Fisheries and Food shall be conclusive evidence of the existence of the regulation and of the due making of it.
+
+## 6. Licensing of fishing
+
+(1) Subject to article 4 above and paragraph (2) below, no person shall dredge, fish for or take any of the prescribed species within the fishery except under the authority of a licence issued in that behalf, on application, by the Authority.
+
+(2) Paragraph (1) above shall not apply to persons taking up to 2 kilograms, in live weight, of cockles by hand in any period of 24 hours provided that such cockles are intended only for personal consumption.
+
+(3) No person shall use a vessel for dredging, fishing for or taking any of the prescribed species within the fishery except under the authority of a licence issued under paragraph (1) above in which the vessel is named.
+
+(4) Subject to paragraph (12) below, a licence for dredging, fishing for or taking any of the prescribed species from a vessel shall be issued jointly to the applicant, who shall be the owner of the vessel, and the skipper of the vessel and shall be used only by those persons.
+
+(5) Subject to paragraph (12) below, a licence for fishing for or taking any of the prescribed species by hand (which shall include the use of any hand-held fishing instruments or machines) shall be issued to the applicant and shall be used only by that person.
+
+(6) A licence shall be valid for the period not exceeding 12 months specified therein.
+
+(7) Subject to any directions given by the Minister and the provisions of this article, the Authority may issue licences under paragraph (1) above in such numbers and to such persons, and may authorise, exclusively or otherwise, the cultivation, dredging, fishing for or taking of the prescribed species at such times, in such manner and in such parts of the fishery as the Authority may determine.
+
+(8) Without the written consent of the Minister the Authority shall not grant to any person an exclusive licence if, were the licence granted, the total area in respect of which that person would be entitled to exclusive licences would exceed 20 hectares.
+
+(9) Except where the Minister has given his written consent to the contrary, all exclusive licences granted by the Authority shall forbid the making of an assignment thereof.
+
+(10) In determining whether a person is entitled to an exclusive licence for the purposes of paragraph (8)—
+
+- (a) references to a person’s being so entitled include references to his being—
+  - (i) entitled by virtue of the assignment of an exclusive licence, or
+  - (ii) beneficially entitled under the terms of one or more trusts; and
+- (b) the following shall be treated as one person—
+  - (i) any two or more persons carrying on a business of shellfish cultivation in partnership;
+  - (ii) a person having control of any company, within the meaning given in section 840 of the Income and Corporation Taxes Act 1988[^f00004], and all the companies controlled by that person.
+
+(11) The Authority may, after consultation with such organisations as appear to it to be representative of interests likely to be substantially affected by a limitation on the number of licences issued, and such other persons as the Authority thinks fit, place a limitation on the number of licences issued in any one year having particular regard to scientific advice on the desirability of limiting the level of exploitation.
+
+(12) Without limiting the generality of the Authority’s powers under this article, the Authority may refuse to grant a licence if any person to whom it would be issued in accordance with paragraph (4) or (5) above has been convicted of a relevant offence within the previous twelve months.
+
+(13) In this regulation “relevant offence” means either an offence under section 3(3) of the Sea Fisheries (Shellfish) Act 1967 or an offence under section 163(1) of the Marine and Coastal Access Act 2009[^key-898716f4e5202537ab5dd861855d25ac].
+
+## 7. Tolls and fees payable for fishing
+
+(1) Any person to whom the Authority proposes to issue an exclusive licence under the provisions of article 6 of this Order shall pay to the Authority before or upon receipt of the licence a toll in respect of a combined licence which authorises the dredging, fishing for and taking of the prescribed species of £200 per annum for each area of 0.2 hectares in respect of which such licence is granted.
+
+(2) Any person to whom the Authority proposes to issue any other type of licence under the provisions of article 6 of this Order shall pay to the Authority before or upon receipt of the licence a toll in respect of a combined licence which authorises the dredging, fishing for and taking of the prescribed species—
+
+- (a) from a vessel, £250 per calendar month; or
+- (b) by hand, £100 per calendar month.
+
+(3) The Authority may from time to time with the consent of the Minister vary the toll payable under paragraph (1) or (2) above and introduce separate tolls in respect of each of the prescribed species for which dredging, fishing for or taking is authorised.
+
+## 8. Powers to create reserves
+
+The Authority may from time to time designate and mark out as reserves such parts of the fishery as it thinks necessary for—
+
+- (a) experimental, management or scientific purposes, including the control of pests or diseases of any of the prescribed species;
+- (b) cleansing and subsequent restocking with any of the prescribed species and the protection of stock introduced;
+- (c) the collection of spat of any of the prescribed species; or
+- (d) the deposit or re-laying of any of the prescribed species for the purposes of cleansing before their removal from the fishery
+
+and may use such reserves for their designated purposes and prohibit their use for any other purpose connected with or ancillary to the dredging, fishing for or taking of any of the prescribed species.
+
+## 9. Restriction on removal of culch
+
+(1) Except with the prior consent in writing of the Authority, no person shall remove any culch or other material for the reception of spat from the fishery or from one part of the fishery to another.
+
+(2) Any person lifting any culch or other such material within the fishery, whether in the course of fishing or dredging or otherwise, shall replace it forthwith as nearly as possible in the place from which it was lifted.
+
+(3) Paragraphs (1) and (2) above shall not apply to a removal or lifting effected by raising an anchor or other mooring device for the purpose of navigation.
+
+## 10. Power to remove brood of any of prescribed species
+
+For the purpose of cultivating the fishery any person authorised by the Authority may remove any spat or small oysters, mussels, cockles or clams from the fishery or from one part of the fishery to any other part at such times and in such quantities as the Authority may direct.
+
+## 11. Exemptions for scientific purposes
+
+The Authority may, by authority given in writing, exempt any person who is dredging, fishing for or taking any of the prescribed species for scientific purposes from any provision of this Order or from any restriction imposed or regulation made under this Order.
+
+## 12. Accounts of income and expenditure and other information
+
+The Authority shall render to the Minister annual accounts of its income and expenditure under this Order; shall furnish to the Minister all other information required by him with reference to this Order and to the fishery in such form and at such times as he may require; shall allow any person authorised by the Minister in that behalf to inspect the fishery and all books of account and other documents in the possession of the Authority relating to this Order and to the fishery; and shall give to such person any information relating thereto as he may require.
+
+## 13. Rights of the Crown
+
+(1) Nothing in this Order or in any restriction imposed or regulation made by the Authority shall affect prejudicially any estate, right, power, privilege, authority or exemption of the Crown, including (without prejudice to the general law concerning the applicability of statutes to the Duchy of Cornwall) the Duchy of Cornwall, and, in particular and without prejudice to the generality of the foregoing, nothing therein contained shall authorise the Authority to take, use, enter upon or in any manner interfere with, any land or hereditaments or any rights of whatsoever description (including any portion of the shore or bed of the sea or of any river, channel, creek, bay or estuary)—
+
+- (a) belonging to Her Majesty in right of Her Crown and under the management of the Crown Estate Commissioners, without the consent in writing of those commissioners; or
+- (b) belonging to or enjoyed by the Duchy of Cornwall or the possessor for the time being of the Duchy without the consent in writing of two or more of such of the regular officers of the said Duchy or of such other persons as may be duly authorised under section 39 of the Duchy of Cornwall Management Act 1863, or, as the case may be, the consent of such Duke testified in writing under the seal of the said Duchy; or
+- (c) belonging to a Government department, or held in trust for Her Majesty for the purposes of a Government department, without the consent in writing of that Government department.
+
+(2) A consent under paragraph (1) above may be given unconditionally or subject to such conditions and upon such terms as shall be considered necessary or appropriate.
+
+## 14. Rights of various persons and bodies
+
+(1) Nothing in this Order shall affect prejudicially the exercise of any statutory power or authority from time to time vested in or exercisable by any person carrying on an undertaking falling within paragraph (2) below.
+
+(2) The undertakings referred to in paragraph (1) above are—
+
+- (a) the undertakings of any water undertaker or sewage undertaker;
+- (b)[^key-1c3194f03282d15239d6b6aa50414636] any undertaking consisting in the operation of an electronic communications code network (within the meaning given in paragraph 1(1) of Schedule 17 to the Communications Act 2003);
+- (c) the undertaking of any public gas transporter or gas supplier within the meaning of Part I of the Gas Act 1986[^f00006];
+- (d) the undertaking of any person authorised by a licence under Part I of the Electricity Act 1989[^f00007] to generate, transmit or supply electricity;
+- (e) the undertaking of any navigation, harbour, general lighthouse or conservancy authority.
+
+E. A. Morley
+
+Parliamentary Secretary, Ministry of Agriculture, Fisheries and Food
+
+(This note is not part of the Order)
+
+This Order confers on the Devon Sea Fisheries Committee (“the Committee”) a right of regulating a fishery for oysters, mussels, cockles, clams and crabs in the River Dart for a period of 25 years. It prohibits fishing within the fishery without a licence granted by the Committee and contains provisions governing the manner in which the Committee may exercise the rights conferred.
+
+The situation and extent of the area within which the rights are conferred are shown on the definitive map which is described in article 1(2) of the Order. The definitive map is available for inspection by prior appointment during office hours at the offices of the Committee at Office No. 9, Fish Market, The Quay, Brixham, Devon TQ5 8AW and at the offices of the Fisheries Department of the Ministry of Agriculture, Fisheries and Food at Nobel House, 17 Smith Square, London SW1P 3JR.
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c. 83](https://www.legislation.gov.uk/ukpga/1967/83); section 1 was amended by section 15(2) of the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77), paragraph 15 of Schedule 2 to the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86) and paragraph 42(2) of Schedule 2 to the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), and is to be read with section 15(3) to (5) of the Sea Fisheries Act 1968 and S.I. [1987/218](https://www.legislation.gov.uk/uksi/1987/218) and S.I. [2001/1381](https://www.legislation.gov.uk/uksi/2001/1381); Schedule 1 was amended by section 15(7) of the Sea Fisheries Act 1968 and sections 38 and 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48); section 22(1) contains a definition of “the Minister”, as amended by paragraph 42(10) of Schedule 2 to S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), and is to be read subject to the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)), Article 2 and Schedule 1.
+
+[^key-fc0527fa8f25537420ae729bd1bd85d5]: Textual amendment: Words in art. 1(2) substituted (1.4.2011) by [The Marine and Coastal Access Act 2009 (Transitional and Savings Provisions) Order 2011 (S.I. 2011/603)](https://www.legislation.gov.uk/uksi/2011/603), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/paragraph/8/2)
+
+[^key-0aded24f78d022c17da259b80c8d233c]: Textual amendment: Word in Order substituted (1.4.2011) by [The Marine and Coastal Access Act 2009 (Transitional and Savings Provisions) Order 2011 (S.I. 2011/603)](https://www.legislation.gov.uk/uksi/2011/603), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2), [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/paragraph/8/4)
+
+[^f00003]: Footnote: This is to be read in the light of the duties conferred on local fisheries committees by the Sea Fisheries (Wildlife Conservation) Act [1992 (c. 36)](https://www.legislation.gov.uk/ukpga/1992/36).
+
+[^f00004]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
+
+[^key-898716f4e5202537ab5dd861855d25ac]: Textual amendment: Words in art. 6(13) substituted (1.4.2011) by [The Marine and Coastal Access Act 2009 (Transitional and Savings Provisions) Order 2011 (S.I. 2011/603)](https://www.legislation.gov.uk/uksi/2011/603), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/603/article/1/2), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/uksi/2011/603/schedule/2/paragraph/8/3)
+
+[^key-1c3194f03282d15239d6b6aa50414636]: Textual amendment: Art. 14(2)(b) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 26(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/26/2); (see [S.I](https://www.legislation.gov.uk/uksi/2017/1011/section/I). 2017/1286, reg. 2)
+
+[^f00006]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44).
+
+[^f00007]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).

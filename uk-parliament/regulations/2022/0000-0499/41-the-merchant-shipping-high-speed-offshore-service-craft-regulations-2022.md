@@ -1,0 +1,384 @@
+---
+title: The Merchant Shipping (High Speed Offshore Service Craft) Regulations 2022
+id: uksi/2022/41
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-01-13'
+text_date: '2026-01-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2022/41
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/41/pdfs/uksiem_20220041_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/41/pdfs/uksi_20220041_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/41/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping (High Speed Offshore Service Craft) Regulations 2022
+
+> Text as at 2026-01-19.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2022 No. 41
+
+Merchant Shipping
+
+The Merchant Shipping (High Speed Offshore Service Craft) Regulations 2022
+
+Made
+
+13th January 2022
+
+Laid before Parliament
+
+18th January 2022
+
+Coming into force-
+
+9th February 2022
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 85(1), (1B), (3), (5), (6) and (7) and 86(1) of the Merchant Shipping Act 1995[^f00001].[^key-c0eae87eaa8b5aaba8dee483a167434d]
+
+The Secretary of State has consulted the persons referred to in section 86(4) of that Act.[^key-c0eae87eaa8b5aaba8dee483a167434d]
+
+## 1. Citation, commencement and extent[^key-efb1e4356eefd4f975dfff1f3900a3b8]
+
+(1) These Regulations may be cited as the Merchant Shipping (High Speed Offshore Service Craft) Regulations 2022.
+
+(2) These Regulations come into force on 9th February 2022.
+
+(3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+## 2. Definitions[^key-aceab47d8aeae00e56886af77856fcb3]
+
+In these Regulations—
+
+- “**HSOSC**” has the meaning given in regulation 3;
+- “**Merchant Shipping Notice**” means a notice, described as such, issued by the Secretary of State, and includes a reference to any document amending or replacing that Notice which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice.
+
+## 3. Application[^key-e974993632abf8d50cd5cb15cfe7f105]
+
+(1) These Regulations apply to high speed offshore service craft (“**HSOSC**”).
+
+(2) An HSOSC is a craft which—
+
+- (a) is either a United Kingdom high speed craft, or any other high speed craft in United Kingdom waters,
+- (b) is operating—
+  - (i) at sea, or
+  - (ii) in Category A, B, C or D waters,
+- (c) is of less than 500 tons gross tonnage,
+- (d)[^key-d09bbe66fd14c1cc9f47e37a5ab56c32] is engaged in an operation to transport an aggregate of more than 12 persons consisting of industrial personnel, special personnel and passengers where at least one person is industrial personnel, from one place to another, including any part of that operation where they are not on board,
+- (e) is not, during that operation, carrying more than 60 persons on board at any point in time, whoever those persons are, and
+- (f) is not—
+  - (i) a pleasure vessel,
+  - (ii) a warship, naval auxiliary or another craft owned or operated by a State and used, for the time being, only on government non-commercial service,
+  - (iii) propelled other than by mechanical means,
+  - (iv) a wooden craft of primitive build,
+  - (v) a fishing vessel, [^key-a30b233be8f1f6c9b86bd6fa756e1fdf]...
+  - (vi) engaged in a voyage from a port in one State to a port in another State , or[^key-95f5c7f3cd43b140e8954d25f987d9b7]
+  - (vii)[^key-118c8dd76db8880a9212374cb16737b4] a high speed passenger craft
+
+(3) In this regulation—
+
+- “**Category A, B, C or D waters**” means waters specified as such in the Merchant Shipping Notice entitled MSN 1837 (M) Amendment 2[^f00002];
+- “**craft**” means ships and hovercraft;
+- “**gross tonnage**” has the meaning given by regulation 6 of the Merchant Shipping (Tonnage) Regulations 1997[^f00003];
+- “[^key-a2f0a28671fa8a34e5b1f4eed2bd13c7]**high speed craft**” has the meaning given to it in regulation 1.3 of Chapter X in the Annex to the International Convention for the Safety of Life at Sea, 1974;
+- “[^key-d1e773cb69f41b08f7b5b5240fa5b6f6]**high speed passenger craft**” means a high speed craft which carries more than 12 passengers;
+- “**industrial personnel**” means persons who are transported or accommodated on board for the purpose of offshore industrial activities performed on board other ships or on offshore facilities;
+- “**offshore industrial activities**” means the construction, maintenance, decommissioning, operation or servicing of offshore facilities related , but not limited to,[^key-a8972780fd816104d051ef6502b64ada] to the exploration and exploitation of resources by the renewable or hydrocarbon energy sectors, aquaculture, ocean mining or similar activities;
+- “[^key-ef31053ee7d3d922e94de22c854b712e]**passenger**” means a person other than—
+  - (a) the master and the members of the crew or other persons employed or engaged in any capacity on board an HSOSC on the business of that HSOSC;
+  - (b) industrial personnel;
+  - (c) special personnel; or
+  - (d) a child under one year of age;
+- “**pleasure vessel**” has the same meaning as in the Merchant Shipping (Survey and Certification) Regulations 2015[^f00005] (see regulation 3(1) of those Regulations);
+- “[^key-da37b570fcfe1f33ecfc42a8c29d9397]**special personnel**” means a person who is carried on board a ship in connection with the special purpose of that ship or because of special work being carried out on board that ship, but who is not a member of the crew;
+- “**United Kingdom high speed craft**” means a high speed craft which is a United Kingdom ship or hovercraft registered in the United Kingdom.
+
+## 4. Compliance and exemptions[^key-6db92af1134cbb3277b41be0a02d0953]
+
+(A1)[^key-0691e22eeb38723e88ad4af4ea885d6a] An owner or master of an HSOSC must apply for certification of the HSOSC under—
+
+- (a) regulation 13A of the Merchant Shipping (Survey and Certification) Regulations 2015 (issue of certificates to HSOSC), or
+- (b) regulation 13(2) of the Merchant Shipping (High Speed Craft) Regulations 2022 (High Speed Craft Safety Certificate).
+
+(1) An HSOSC which is certified as described in paragraph (A1)(a)[^key-f92dfae4768577f29576f0cc5cdd89ca] must comply with the HSOSC Code, subject to paragraph (3).
+
+(2) The HSOSC Code is the Secretary of State’s Code for high speed offshore service craft (of less than 500GT carrying up to 60 persons), published on 9th February 2022[^f00006], and includes any document amending or replacing it which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice.
+
+(3) Paragraph (1) does not apply to an HSOSC to the extent that the Secretary of State has granted an exemption in accordance with the following paragraphs.
+
+(4) The Secretary of State may exempt an HSOSC or a class of HSOSC from any of the provisions of the HSOSC Code.
+
+(5) Before granting the exemption the Secretary of State must be satisfied that the exemption, including any conditions relating to it, will not result in a level of safety which is, overall, lower than that described in the HSOSC Code.
+
+(6) The exemption may be of limited or permanent duration.
+
+(7) The exemption is subject to any conditions which the Secretary of State considers appropriate.
+
+(8) The exemption must—
+
+- (a) be set out in writing,
+- (b) explain the extent of the exemption,
+- (c) describe the HSOSC or class of HSOSC which are exempted,
+- (d) set out the date on which it takes effect,
+- (e) set out any expiry date, and
+- (f) set out any conditions.
+
+(9) The Secretary of State may cancel or vary an exemption at any time by giving reasonable notice in writing.
+
+(10) Before varying an exemption, the Secretary of State must be satisfied that it will continue to provide the level of safety mentioned in paragraph (5).
+
+## 5. Offences, penalties and detention[^key-79da8c421a6bc142bac3ea08067ffec0]
+
+(1) The owner and master of an HSOSC each commits an offence where there is a contravention of regulation 4 in respect of that HSOSC.
+
+(2) In paragraph (1), “**owner**” includes any part owner.
+
+(3) It is a defence for any person charged under paragraph (1) to show that they took all reasonable steps to ensure compliance with regulation 4.
+
+(4) An offence under paragraph (1) is punishable—
+
+- (a) on summary conviction in England and Wales by a fine;
+- (b) on summary conviction in Scotland or Northern Ireland by a fine not exceeding the statutory maximum;
+- (c) on conviction on indictment, by imprisonment for a term not exceeding two years or by a fine, or by both.
+
+(5) An HSOSC which does not comply with regulation 4 is liable to be detained and section 284 of the Merchant Shipping Act 1995[^f00007] applies, subject as follows.
+
+(6) In that section of that Act—
+
+- (a) each reference to a ship is to be read as if it were a reference to an HSOSC;
+- (b) in both subsections (1) and (6), each reference to “this Act” is to be read as if it were a reference to regulation 5(5) of these Regulations.
+
+## 6. Survey and certification[^key-686e01f661df913aa8ead7202433d8f0]
+
+(1) The Merchant Shipping (Survey and Certification) Regulations 2015[^f00008] are amended as follows.
+
+(2) In regulation 3, in paragraph (1) at the appropriate places insert—
+
+> - “**HSC Code**” means the International Code of Safety for High-Speed Craft (2000), 2008 Edition[^f00009];
+
+;
+
+> - “**HSOSC**” means a craft to which the Merchant Shipping (High Speed Offshore Service Craft) Regulations 2022 apply (see regulation 3 of those Regulations);
+
+;
+
+> - “**HSOSC Code**” means the Secretary of State’s Code for High Speed Offshore Service Craft (of less than 500GT carrying up to 60 persons), published on 9th February 2022, and includes any document amending or replacing it which is considered by the Secretary of State to be relevant from time to time and which is specified in a Merchant Shipping Notice[^f00010];
+
+;
+
+> - “**HSC Code Safety Certificate for Offshore Service Craft**” means the certificate of that name issued pursuant to regulation 13A;
+
+.
+
+(3) After regulation 9, insert—
+
+> **9A. Surveys of HSOSC**
+>
+> (1) An HSOSC is subject to the following surveys of its structure, safety equipment, radio installations and other equipment—
+>
+> - (a) before the HSOSC is put in service or before the HSC Code Safety Certificate for Offshore Service Craft is issued for the first time, an initial survey;
+> - (b) at the intervals specified in the HSOSC Code, a renewal survey;
+> - (c) within three months before or after each anniversary date of a HSC Code Safety Certificate for Offshore Service Craft, a periodical survey; and
+> - (d) an additional survey as the occasion arises.
+>
+> (2) This regulation does not apply to an HSOSC which is not a United Kingdom ship but which is registered with a State with which the Secretary of State has entered into an administrative arrangement to accept certificates of a particular name or description which are equivalent to an HSC Code Safety Certificate for Offshore Service Craft.
+
+.
+
+(4) In regulation 11—
+
+- (a) the existing text becomes paragraph (1);
+- (b) in that paragraph, at the end insert “, subject to paragraph (2)”;
+- (c) after paragraph (1), insert—
+
+  > (2) References in regulations 9A and 10 to surveys or inspections of a particular description which are required to be carried out on an HSOSC are to the surveys or inspections, as the case may be, of those descriptions as set out in the HSC Code, with any additions or exceptions as set out in the HSOSC Code.
+
+  .
+
+(5) After regulation 13, insert—
+
+> **13A. Issue of certificates to HSOSC**
+>
+> (1) When an initial survey or a renewal survey to meet the requirements set out in these Regulations has been satisfactorily completed in respect of an HSOSC, the Certifying Authority must issue an HSC Code Safety Certificate for Offshore Service Craft.
+>
+> (2) This regulation does not apply to an HSOSC which is not a United Kingdom ship which is, or is to be, certified with a certificate of a particular name or description which is equivalent to an HSC Code Safety Certificate for Offshore Service Craft and which is specified as such in a Merchant Shipping Notice.
+
+.
+
+(6) In regulation 15—
+
+- (a) in paragraph (1)—
+  - (i) in the words before sub-paragraph (a), after “Convention Certificate” insert “or HSC Code Safety Certificate for Offshore Service Craft”;
+  - (ii) in sub-paragraph (b), for “or Cargo Ship Safety Certificate” substitute “, Cargo Ship Safety Certificate or HSC Code Safety Certificate for Offshore Service Craft”;
+- (b) in paragraph (2), in the words before sub-paragraph (a), after “Convention Certificate” insert “or HSC Code Safety Certificate for Offshore Service Craft”;
+- (c) in paragraph (3), in the words before sub-paragraph (a), after “Convention Certificate” substitute “or HSC Code Safety Certificate for Offshore Service Craft”;
+- (d) in paragraph (4)—
+  - (i) in the words before sub-paragraph (a), for “to 9” substitute “to 9A”;
+  - (ii) in sub-paragraph (b), for “to 9” substitute “to 9A”;
+  - (iii) in sub-paragraph (c), for “to 9” substitute “to 9A”;
+- (e) in paragraph (6)—
+  - (i) in the words before sub-paragraph (a), after “Convention Certificate” insert “, a HSC Code Safety Certificate for Offshore Service Craft”;
+  - (ii) in sub-paragraph (b), for “to 9” substitute “to 9A”.
+
+(7) In regulation 16, in paragraph (1), after “regulation 13” insert “, 13A”.
+
+(8) In regulation 17—
+
+- (a) in paragraph (1), after “Safety Certificate” insert “or HSC Code Safety Certificate for Offshore Service Craft”;
+- (b) in paragraph (2)—
+  - (i) for “to 9” substitute “to 9A”;
+  - (ii) after “Convention Certificate” insert “or an HSC Code Safety Certificate for Offshore Service Craft”;
+- (c) in paragraph (3)—
+  - (i) for “to 9” substitute “to 9A”;
+  - (ii) after “Convention Certificate” insert “or HSC Code Safety Certificate for Offshore Service Craft”;
+- (d) in paragraph (4), after “Convention Certificate” insert “or HSC Code Safety Certificate for Offshore Service Craft”;
+- (e) in paragraph (5), after “Convention Certificate” insert “or HSC Code Safety Certificate for Offshore Service Craft”.
+
+(9) In regulation 22, after “Convention Certificate” insert “, HSC Code Safety Certificate for Offshore Service Craft or equivalent certificate described in regulation 23(5B)(b)”.
+
+(10) In regulation 23, after paragraph (5) insert—
+
+> (5A) No United Kingdom HSOSC may proceed to sea unless it has been surveyed and there is in force an HSC Code Safety Certificate for Offshore Service Craft.
+>
+> (5B) No HSOSC which is not a United Kingdom HSOSC may operate in United Kingdom waters unless it has been surveyed and there is in force—
+>
+> - (a) an HSC Code Safety Certificate for Offshore Service Craft, or
+> - (b) a certificate of a particular name or description which is equivalent to an HSC Code Safety Certificate for Offshore Service Craft and which is specified as such in a Merchant Shipping Notice.
+
+.
+
+(11) After regulation 25 insert—
+
+> **25A. Limit on the number of persons on HSOSC**
+>
+> The owner and master of an HSOSC must ensure that there is not on board a greater number of persons than that stated on the ship’s HSC Code Safety Certificate for Offshore Service Craft or equivalent certificate described in regulation 23(5B)(b).
+
+.
+
+(12) In regulation 26—
+
+- (a) in paragraph (1), for “to 9” substitute “to 9A”;
+- (b) in paragraph (2), for “to (5)” substitute “to (5B)”;
+- (c) in paragraph (5), after “regulation 25” insert “or 25A”.
+
+## 7. Review[^key-5053f5db6a363f8e51f41953c1d607f8]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision contained in these Regulations; and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published before 8th February 2026.
+
+(3) Subsequent reports must be published at intervals not exceeding 5 years.
+
+(4) Section 30(4) of the Small Business, Enterprise and Employment Act 2015[^f00011] requires that a report published under this regulation must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a);
+- (b) assess the extent to which those objectives are achieved;
+- (c) assess whether those objectives remain appropriate; and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(5) In this regulation, “**regulatory provision**” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+## 8. Consequential amendment[^key-fc8959ada6931fda0efde42a8026f5c4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Transport
+
+Robert Courts
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision about standards for high speed offshore service craft (HSOSC).
+
+Regulation 3 sets out the application of these Regulations, and defines HSOSC.
+
+Regulation 4 provides that those craft must comply with the Secretary of State’s Code for High Speed Offshore Service Craft, and makes provision about exemptions.
+
+Regulation 5 sets out provisions about offences, penalties and detention.
+
+Regulation 6 amends the Merchant Shipping (Survey and Certification) Regulations 2015 ([S.I. 2015/508](https://www.legislation.gov.uk/uksi/2015/508)) to provide for survey and certification for United Kingdom High Speed Offshore Service Craft.
+
+Regulations 7 and 8 contain a review provision and a consequential amendment respectively.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen. An Explanatory Memorandum is published alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21) (“**the 1995 Act**”). Section 85(1)(b) was substituted by section 8(2) of the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28) (“**the 1997 Act**”). Section 85(1B) was inserted by section 8(3) of the 1997 Act. Section 85(3) was amended by section 8(4)(b) of the 1997 Act. The 1995 Act applies to hovercraft by virtue of [S.I. 1972/971](https://www.legislation.gov.uk/uksi/1972/971).
+
+[^key-c0eae87eaa8b5aaba8dee483a167434d]: Modification: Regulations excluded (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2023/1216/regulation/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1216/schedule/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
+
+[^key-efb1e4356eefd4f975dfff1f3900a3b8]: Commencement: Reg. 1 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
+
+[^key-aceab47d8aeae00e56886af77856fcb3]: Commencement: Reg. 2 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
+
+[^key-e974993632abf8d50cd5cb15cfe7f105]: Commencement: Reg. 3 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
+
+[^key-d09bbe66fd14c1cc9f47e37a5ab56c32]: Textual amendment: [Reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/2/d) substituted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(a)(i)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/a/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+
+[^key-a30b233be8f1f6c9b86bd6fa756e1fdf]: Textual amendment: Word in [reg. 3(2)(f)(v)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/2/f/v) omitted (19.1.2026) by virtue of [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/a/ii/aa) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+
+[^key-95f5c7f3cd43b140e8954d25f987d9b7]: Textual amendment: Word in [reg. 3(2)(f)(vi)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/2/f/vi) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/a/ii/bb) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+
+[^key-118c8dd76db8880a9212374cb16737b4]: Textual amendment: [Reg. 3(2)(f)(vii)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/2/f/vii) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(a)(ii)(cc)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/a/ii/cc) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+
+[^f00002]: Footnote: A copy of this notice may be seen at https://www.gov.uk/government/publications/msn-1837-m-amendment-2-categorisation-of-waters or obtained by writing to the Maritime & Coastguard Agency, Spring Place, 105 Commercial Road, Southampton, SO15 1EG.
+
+[^f00003]: Footnote: [S.I. 1997/1510](https://www.legislation.gov.uk/uksi/1997/1510), to which there are amendments not relevant to these Regulations.
+
+[^key-a2f0a28671fa8a34e5b1f4eed2bd13c7]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/3) substituted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(b)(i)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/b/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+
+[^key-d1e773cb69f41b08f7b5b5240fa5b6f6]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/3) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/b/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+
+[^key-a8972780fd816104d051ef6502b64ada]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/3) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(b)(iii)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/b/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+
+[^key-ef31053ee7d3d922e94de22c854b712e]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/3) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(b)(iv)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/b/iv) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+
+[^f00005]: Footnote: [S.I. 2015/508](https://www.legislation.gov.uk/uksi/2015/508), amended by [S.I. 2018/53](https://www.legislation.gov.uk/uksi/2018/53). There are other amendments but none are relevant.
+
+[^key-da37b570fcfe1f33ecfc42a8c29d9397]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/41/regulation/3/3) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 18(b)(v)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/18/b/v) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+
+[^key-6db92af1134cbb3277b41be0a02d0953]: Commencement: Reg. 4 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
+
+[^key-0691e22eeb38723e88ad4af4ea885d6a]: Textual amendment: [Reg. 4(A1)](https://www.legislation.gov.uk/uksi/2022/41/regulation/4/A1) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 19(a)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/19/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+
+[^key-f92dfae4768577f29576f0cc5cdd89ca]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2022/41/regulation/4/1) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 19(b)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/19/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+
+[^f00006]: Footnote: A copy of this Code may be seen at www.gov.uk or obtained by writing to the Maritime & Coastguard Agency, Spring Place, 105 Commercial Road, Southampton, SO15 1EG.
+
+[^key-79da8c421a6bc142bac3ea08067ffec0]: Commencement: Reg. 5 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
+
+[^f00007]: Footnote: Section 284 was amended by paragraph 5 of Schedule 1 to the 1997 Act and by [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
+
+[^key-686e01f661df913aa8ead7202433d8f0]: Commencement: Reg. 6 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
+
+[^f00008]: Footnote: [S.I. 2015/508](https://www.legislation.gov.uk/uksi/2015/508), amended by [S.I. 2018/53](https://www.legislation.gov.uk/uksi/2018/53) and [2018/1221](https://www.legislation.gov.uk/uksi/2018/1221).
+
+[^f00009]: Footnote: A copy of this Code may be seen at https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/282657/msis34\_hsc\_code\_2000\_2008\_itos\_rev1.01-full-2.pdf or obtained by writing to the Maritime & Coastguard Agency, Spring Place, 105 Commercial Road, Southampton, SO15 1EG.
+
+[^f00010]: Footnote: A copy of this Code may be seen at www.gov.uk or obtained by writing to the Maritime & Coastguard Agency, Spring Place, 105 Commercial Road, Southampton, SO15 1EG.
+
+[^key-5053f5db6a363f8e51f41953c1d607f8]: Commencement: Reg. 7 in force at 9.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/41/regulation/1/2)
+
+[^f00011]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
+
+[^key-fc8959ada6931fda0efde42a8026f5c4]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/41/regulation/8) revoked (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/1219/schedule/part/2) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))

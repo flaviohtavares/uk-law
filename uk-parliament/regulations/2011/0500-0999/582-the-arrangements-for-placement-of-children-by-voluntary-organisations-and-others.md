@@ -1,0 +1,695 @@
+---
+title: The Arrangements for Placement of Children by Voluntary Organisations and Others (England) Regulations 2011
+id: uksi/2011/582
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-03-03'
+text_date: '2023-11-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2011/582
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/582/pdfs/uksiem_20110582_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/582/pdfs/uksi_20110582_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/582/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Arrangements for Placement of Children by Voluntary Organisations and Others (England) Regulations 2011
+
+> Text as at 2023-11-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2011 No. 582
+
+Children And Young Persons, England
+
+The Arrangements for Placement of Children by Voluntary Organisations and Others (England) Regulations 2011
+
+Made
+
+3rd March 2011
+
+Laid before Parliament
+
+10th March 2011
+
+Coming into force
+
+1st April 2011
+
+The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 59(2), (3), (3A), (4)(a) and (5A), 62(3) (and that subsection as applied by section 64(4) in relation to a person who is carrying on a private children’s home), and 104(4) of, and paragraph 4(1)(a) of Schedule 4, paragraph 7(1)(a) of Schedule 5, and paragraph 10(1)(a) and (2)(l)[^f00001] of Schedule 6[^f00002] to, the Children Act 1989[^f00003]:
+
+## PART 1 — General
+
+### 1. Citation, commencement and application[^key-a4a77625d11cce1a4f4b4b881a3851b2]
+
+(1) These Regulations may be cited as the Arrangements for Placement of Children by Voluntary Organisations and Others (England) Regulations 2011 and come into force on 1st April 2011.
+
+(2) These Regulations apply in relation to England only.
+
+### 2. Interpretation[^key-766fe24d7f3e4d7384c27c515cac4cc1]
+
+(1) In these Regulations—
+
+- “the 1989 Act” means the Children Act 1989;
+- “the 2000 Act” means the Care Standards Act 2000[^f00004];
+- [^key-9b3c5a49cb8d97f628e34270fe1166ce]...
+- “foster parent” means a person with whom a child is placed, or may be placed, under these Regulations by a voluntary organisation under section 59(1)(a) of the 1989 Act;
+- “fostering agency” has the meaning given in section 4(4) of the 2000 Act[^f00005];
+- “fostering service provider” means—
+  - (a) a fostering agency, or
+  - (b) in relation to a local authority fostering service, a local authority;
+- “[^key-4eed38bc7ba792ab606c77932baaf2bc]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
+- “placement” means the provision of accommodation for a child who is not looked after[^f00006] by a local authority—
+  - (a) by a voluntary organisation[^f00007] by any of the means specified in section 59(1)(a), (aa)[^f00008] or (f) of the 1989 Act (provision of accommodation by voluntary organisations), and
+  - (b) in a private children’s home [^f00009](otherwise than by, or on behalf of, a local authority[^f00010], or voluntary organisation),
+
+    and references to “place” or “placed” are to be construed accordingly;
+- “placement plan” has the meaning given in regulation 4(1);
+- [^key-c39b8dd7ed66f2cf328707c2861781c7]...
+- “responsible authority” means—
+  - (a) in relation to a placement by a voluntary organisation of a child, the voluntary organisation which place the child, and
+  - (b) in relation to a placement in a private children’s home of a child who is neither looked after by a local authority nor accommodated in such a home by a voluntary organisation, the person carrying on the home.
+
+(2) In these Regulations any reference to any document or other record includes any such document or record that is kept or provided in a readily accessible form and includes copies or original documents and electronic methods of recording information.
+
+### 3. Application of Regulations[^key-e099f40ff96a4638f24ab977e3b98e2f]
+
+These Regulations do not apply to a placement of a child, otherwise than by a voluntary organisation, in a school in England[^key-74009bc688fb81ab13f1565ba89bf087] which is a children’s home within the meaning of section 1(6) of the 2000 Act or in a school in Wales at which a care home service, within the meaning of Part 1 of and paragraph 1(3) of Schedule 1 to the Regulation and Inspection of Social Care (Wales) Act 2016, is provided[^key-d3e72df07c9ad27ecf716042cbd5bcde].
+
+## PART 2 — Placements – general provisions
+
+### 4. Making of arrangements[^key-10f43f3bc577d977c68c353b85fbc44e]
+
+(1) Before a placement is made, the responsible authority must, so far as is reasonably practicable, make immediate and long-term arrangements for that placement and for promoting the welfare of the child who is to be placed and must set out those arrangements in writing (a “placement plan”).
+
+(2) If it is not reasonably practicable to prepare the placement plan before making the placement, the placement plan must be prepared within 5 working days of the start of the placement.
+
+(3) Unless paragraph (4) applies, the placement plan must, so far as is reasonably practicable, be agreed by the responsible authority with—
+
+- (a) any parent of the child and any person who is not the child’s parent but who has parental responsibility for the child, or
+- (b) if there is no such person, the person who is caring for the child,
+
+before a placement is made or, where the placement plan is not agreed before the placement is made, as soon as reasonably practicable after the start of the placement.
+
+(4) Where a child is aged 16 or over and agrees to be provided with accommodation, the placement plan must, if possible, be agreed with the child by the responsible authority.
+
+### 5. Considerations on making, and contents of, placement plans[^key-d9eba254fd0e75db2ad6e2b15cf9783c]
+
+(1) In preparing the placement plan, the responsible authority must have regard in each case to previous arrangements made in respect of the child and whether a change in those arrangements is needed and must consider alternative courses of action.
+
+(2) In preparing the placement plan, the responsible authority must also have regard to the considerations specified in Schedule 1.
+
+(3) The placement plan must include, where practicable, arrangements concerning the matters specified in Schedule 2.
+
+### 6. Health assessment[^key-ad9f03860714f74dd53d908312751ea4]
+
+(1) Subject to paragraphs (3) and (4), the responsible authority must—
+
+- (a) before making a placement, or if that is not reasonably practicable, as soon as reasonably practicable after a placement is made, make arrangements for a registered medical practitioner to conduct an assessment of the child, which may include a physical examination of the child’s state of health,
+- (b) require the registered medical practitioner who conducts the assessment to prepare a written report of the assessment which addresses the matters listed in paragraphs 1 to 3 of Schedule 1, and
+- (c) having regard to the matters listed in paragraphs 1 to 5 of Schedule 1 and, unless paragraph (3) applies, prepare a plan for the future health care of the child if one is not already in existence.
+
+(2) The responsible authority must ensure that each child is provided during the placement with—
+
+- (a) health care services, including medical and dental care and treatment, and
+- (b) advice and guidance on health, personal care and health promotion issues appropriate to the child’s needs.
+
+(3) Paragraph (1) does not apply if, within a period of 3 months immediately preceding the placement, the child’s health has been assessed, and a report of the assessment has been prepared in accordance with that paragraph.
+
+(4) Sub-paragraphs (a) and (b) of paragraph (1) do not apply if the child, being of sufficient age and understanding to do so, refuses to consent to the assessment.
+
+### 7. Notification of arrangements[^key-acd516ae7446fdfe7f7e0b226a391d96]
+
+(1) The responsible authority must, so far as is reasonably practicable, notify the following persons in writing of the arrangements to place a child, before the placement is made—
+
+- (a) the child, unless it would not be appropriate to do so having regard to the child’s age and understanding,
+- (b) any parent of the child and any person who is not the child’s parent but who has parental responsibility for the child,
+- (c) NHS England[^key-4f37094ba1d1633b7259d52075d0c90c][^key-e6dcb294a2fc131d2fb1c58c0dd7bbb4] and the integrated care board[^key-a631126ee105c01dfe9064136c4a21a2] (or in the case of a child to be placed in Wales, the local health board) for the area in which the child is living and, if it is different, for the area in which the child is to be placed,
+- (d) the local authority for the area in which the child is living and, if it is different, for the area in which the child is to be placed,
+- (e) the general medical practitioner who provides, or is to provide, primary medical services under Part 4 of the National Health Service Act 2006 to the child,
+- (f) any person who was caring for the child immediately before the arrangement is made,
+- (g) any person named in a child arrangements order as a person with whom the child is to spend time or otherwise have contact[^key-65f88d67c0a7b83de4b0f3be3a90836f],
+- (h) any educational institution attended by, or person providing education or training for, the child, and
+- (i) any other person whose wishes and feelings have been sought under section 61(2) or section 64(2) of the 1989 Act (consultation prior to decision-making in respect of children provided with accommodation by a voluntary organisation or in a private children’s home).
+
+(2) Where it is not practicable to give the notification before the placement, it must be given as soon as reasonably practicable after the start of the placement.
+
+(3) The responsible authority must send a copy of the placement plan (or such part of the plan as they consider will not prejudice the welfare of the child) with the notification referred to in paragraph (1) to the persons specified in paragraph (1)(a), (b), (d) and (f).
+
+(4) In particular, the responsible authority may decide not to give a copy of the placement plan, or a full copy of the placement plan, to the child’s parent, or to the person who is not the child’s parent but who has parental responsibility for the child, if to do so would put the child at risk of significant harm.
+
+### 8. Arrangements for contact[^key-ca33e9b0ac8d4a1112b44f8228cbb030]
+
+A responsible authority must, unless it is not reasonably practicable or consistent with the child’s welfare, endeavour to promote contact between the child and the persons mentioned in paragraph 6 of Schedule 2.
+
+### 9. Establishment of records[^key-6894b2b5500949ed99fc326b8f3cd1ba]
+
+(1) The responsible authority must establish, if one is not already in existence, a written case record in respect of each child who is placed by a voluntary organisation or in a private children’s home.
+
+(2) The record must include—
+
+- (a) a copy of the placement plan,
+- (b) a copy of the child’s health assessment and any plan for the future health care of the child referred to in regulation 6,
+- (c) a copy of any document considered or record established in the course of, or as a result of, a review of the child’s case in accordance with Part 5,
+- (d) a copy of any report prepared in accordance with regulation 13(2)(b), and
+- (e) details of any delegation of responsibility by the responsible authority to another person.
+
+### 10. Retention and confidentiality of records[^key-b4fb560b088eed6bc85116e29bf6a29f]
+
+(1) The responsible authority must retain a child’s record either—
+
+- (a) until the seventy-fifth anniversary of the child’s birth, or
+- (b) if the child dies before attaining the age of 18, for 15 years beginning with the date of the child’s death.
+
+(2) A responsible authority must secure the safe keeping of case records and must take all necessary steps to ensure that information contained in them is treated as confidential, subject only to—
+
+- (a) any provision of, or made under or by virtue of, a statute under which access to such records or information may be obtained or given,
+- (b) any court order under which access to such records or information may be obtained or given.
+
+## PART 3 — Placements by a voluntary organisation with a foster parent
+
+### 11. General duty of voluntary organisation[^key-c63859e74550608d2bd2d250c923c273]
+
+A voluntary organisation[^f00012] must not place a child with a foster parent unless they are satisfied that—
+
+- (a) the placement is the most suitable way of performing their duty under section 61(1)(a) and (b) of the 1989 Act, and
+- (b) placement with a particular foster parent is the most suitable placement having regard to all the circumstances.
+
+### 12. Making of placements[^key-5aaf8ae4549836b753875c0e02dda54e]
+
+(1) A voluntary organisation may only place a child with a foster parent if—
+
+- (a) the foster parent is approved by—
+  - (i) that voluntary organisation, or
+  - (ii) provided the conditions specified in paragraph (2) are satisfied, another fostering service provider,
+- (b) the terms of the foster parent’s approval are consistent with the proposed placement, and
+- (c) the foster parent has entered into a foster care agreement either with the voluntary organisation or with another fostering service provider in accordance with regulation 27(5)(b) of the Fostering Services (England) Regulations 2011[^f00013].
+
+(2) The conditions referred to in paragraph (1)(a)(ii) are—
+
+- (a) that the fostering service provider by whom the foster parent is approved, consents to the placement, and
+- (b) that any other fostering service provider or any local authority which already have a child placed with the foster parent, consent to the placement.
+
+### 13. Visits[^key-3b1ae5c88b85bfee3e190ffdc8c8ca67]
+
+(1) A voluntary organisation must satisfy themselves that the welfare of each child placed by them with a foster parent continues to be suitably provided for by the placement, and for that purpose the voluntary organisation must make arrangements for a person authorised by the organisation to visit the child, where the child is living—
+
+- (a) from time to time as circumstances may require,
+- (b) when reasonably requested by the child or the foster parent, and
+- (c) in any event (subject to regulation 28)—
+  - (i) in the first year of the placement, within 1 week from the start of the placement and then at intervals of not more than 6 weeks, and
+  - (ii) subsequently, at intervals of not more than 3 months.
+
+(2) On each occasion on which the child is visited under this regulation the voluntary organisation must ensure that the person they have authorised to carry out the visit—
+
+- (a) sees the child alone unless the child, being of sufficient age and understanding to do so, refuses, and
+- (b) prepares a written report of the visit.
+
+## PART 4 — Other Duties
+
+### 14. Termination of placements[^key-d7df2a8d1a269c841b2cd5be235b3d7f]
+
+(1) A voluntary organisation must not allow a placement to continue if it appears to them that the placement is no longer the most suitable way of performing their duty under section 61(1)(a) and (b) of the 1989 Act.
+
+(2) Where it appears to the local authority within whose area the child is placed, that there is a risk of immediate significant harm to the child, the local authority must remove the child immediately**.**
+
+(3) A local authority which remove a child under paragraph (2) must notify, as soon as reasonably practicable, the responsible authority and any persons specified under regulation 7(1) whom they consider should be notified.
+
+### 15. Placements outside England[^key-85ab4aace06c67e972cd338c2217e611]
+
+A voluntary organisation must not place a child outside the British Islands.
+
+### 16. Local authority visits to children[^key-6ba710a86952ea1645378b14f1abe02d]
+
+(1) Every local authority must arrange for an officer of the local authority to visit every child who is placed within their area as follows—
+
+- (a) subject to regulation 28, within 28 days of the start of the placement,
+- (b) within 14 days of receipt of a request from the responsible authority, and
+- (c) as soon as reasonably practicable if, having received—
+  - (i) the child’s placement plan under regulation 7(3),
+  - (ii) the results of the review under regulation 23(3)(b), or
+  - (iii) any other information,
+
+  they consider that the child’s welfare is not being adequately safeguarded or promoted.
+
+(2) Every local authority must ensure that a person carrying out a visit in accordance with paragraph (1)—
+
+- (a) sees the child in private during the course of the visit unless—
+  - (i) the child, being of sufficient age and understanding to do so, refuses,
+  - (ii) the person carrying out the visit considers it inappropriate to do so, having regard to the child’s age and understanding, or
+  - (iii) the person carrying out the visit is unable to do so, and
+- (b) takes steps to discover whether the responsible authority have made suitable arrangements to perform their duties under these Regulations, and those under sections 61 and 64 of the 1989 Act.
+
+(3) A local authority must report to Her Majesty’s Chief Inspector of Education, Children’s Services and Skills any concerns they may have about the responsible authority.
+
+## PART 5 — Reviews of children’s cases
+
+### 17. Reviews of children’s cases[^key-d3b6b35af170d22ddf5f975683c0908b]
+
+The responsible authority must review a child’s case in accordance with these Regulations, so long as the child remains placed.
+
+**18.**[^key-6be60890bec7b05817dfcc6796a8d2e7] (1) Each responsible authority must appoint a person (“the independent reviewing officer”) in respect of each child’s case to carry out the following functions—
+
+- (a) participating in any review of the child’s case,
+- (b) monitoring the performance of the authority’s functions in respect of the review, and
+- (c) referring the case to an officer of the Children and Family Court Advisory and Support Service[^f00014] or a Welsh family proceedings officer[^f00015] where the child is ordinarily resident in Wales, if the independent reviewing officer considers it appropriate to do so.
+
+(2) The independent reviewing officer must be a person who is registered as a social worker in the register of social workers in England maintained under section 39(1) of the Children and Social Work Act 2017[^key-8da6dae628d0593f6e1f8b5b6ffd8e92][^key-d3074c15ea57a4741743efea1ae7bc71], in the register maintained by Social Care Wales under section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016[^key-081afffe607c5896bd8f2c23fb73c66e] or in a corresponding register maintained under the law of Scotland or Northern Ireland.
+
+(3) The independent reviewing officer must be a person who, in the opinion of the responsible authority, has sufficient relevant social work experience to undertake the functions mentioned in paragraph (1) in relation to the case.
+
+(4) A person who is an employee of the responsible authority may not be appointed as an independent reviewing officer in a case if that person is involved in preparing the child’s placement plan or is under the direct management of—
+
+- (a) a person involved in preparing the child’s placement plan,
+- (b) a person with management responsibilities in relation to a person mentioned in sub-paragraph (a), or
+- (c) a person with control over the resources allocated to the case.
+
+(5) The independent reviewing officer must, as far as reasonably practicable, attend any meeting held in connection with the review of the child’s case and, if attending the meeting, chair it.
+
+(6) The independent reviewing officer must, as far as reasonably practicable, take steps to ensure that the review is conducted in accordance with these Regulations and in particular to ensure—
+
+- (a) that the child’s views, having regard to their age and understanding, are understood and taken into account,
+- (b) that the persons responsible for implementing any decision taken in consequence of the review are identified, and
+- (c) that any failure to review the case in accordance with these Regulations or to take proper steps to make arrangements in accordance with regulation 24 is brought to the attention of persons at an appropriate level of seniority within the responsible authority.
+
+(7) It is the duty of the independent reviewing officer to explain to the child any steps which the child may take under the 1989 Act including, where appropriate—
+
+- (a) the child’s right to apply, with leave, for a section 8 order (residence, contact and other orders with respect to children), and
+- (b) the availability of the procedure established by local authorities under section 26(3)[^f00016] of the 1989 Act for considering any representations (including complaints) the child may wish to make about the discharge by a local authority of their functions.
+
+(8) If the child whose case is reviewed wishes to take proceedings under the 1989 Act, the independent reviewing officer must—
+
+- (a) assist the child to obtain legal advice, or
+- (b) establish whether an appropriate adult is able and willing to provide such assistance or bring the proceedings on the child’s behalf.
+
+### 19. Time when each case to be reviewed[^key-5d278b0012eb043abd4402cd3a5a9741]
+
+(1) Each case must first be reviewed within 4 weeks of the date on which the child is placed.
+
+(2) The second review must be carried out not more than 3 months after the first and thereafter subsequent reviews must be carried out at intervals of not more than 6 months.
+
+(3) A review must be carried out before the time specified in paragraph (1) or (2) if the child or the independent reviewing officer so requests.
+
+(4) This regulation is subject to regulation 28.
+
+### 20. Manner in which cases are to be reviewed[^key-d135719b46ace42ebc0f9b9f7712fa1d]
+
+(1) Each responsible authority must set out in writing their arrangements governing the manner in which the case of each child must be reviewed and must draw the written arrangements to the attention of those specified in regulation 23(1).
+
+(2) The responsible authority must make arrangements to co-ordinate the carrying out of all aspects of the review of that child’s case.
+
+(3) The responsible authority must nominate a person to assist the authority in the co-ordination of all aspects of the review.
+
+(4) The manner in which each case is reviewed must, so far as practicable, include the elements specified in Schedule 3**.**
+
+(5) Nothing in these Regulations prevents the carrying out of any review under these Regulations and any other review, assessment or consideration under any other provision at the same time.
+
+### 21. Considerations to which the responsible authority are to have regard[^key-5f5737156b734fd371f45af0eb21dfcc]
+
+The considerations to which the responsible authority are to have regard so far as is reasonably practicable in reviewing each case are the considerations concerning the health and education of the child listed in Schedule 1 and the considerations specified in Schedule 4.
+
+### 22. Health reviews[^key-a951c1f16c475e8ca236c536bde8836f]
+
+(1) Subject to paragraph (2), the responsible authority must, in respect of each child who remains placed—
+
+- (a) arrange for an assessment, which may include a physical examination, of the child’s state of health, to be conducted by a registered medical practitioner, or a registered nurse or registered midwife acting under the supervision of a registered medical practitioner—
+  - (i) at least once in every period of 6 months before the child’s fifth birthday, and
+  - (ii) at least once in every period of 12 months after the child’s fifth birthday,
+- (b) require the person who carried out the assessment to prepare a written report which addresses the matters listed in paragraphs 1 to 5 of Schedule 1, and
+- (c) review the plan for the future health of the child prepared under regulation 6(1)(c) at the intervals set out in sub-paragraphs (i) and (ii) of sub-paragraph (a).
+
+(2) Sub-paragraphs (a) and (b) of paragraph (1) do not apply if the child, being of sufficient age and understanding to do so, refuses to consent to the assessment.
+
+### 23. Consultation, participation and notification[^key-5a803cef0f0f78c9efa54a5d8da5d5be]
+
+(1) Before conducting any review in accordance with regulation 17, the responsible authority must, unless it is not reasonably practicable to do so, seek and take into account the views of—
+
+- (a) the child,
+- (b) the child’s parents,
+- (c) any person who is not a parent of the child but who has parental responsibility for that child, and
+- (d) any other person whose views the authority consider to be relevant, including, in particular, the views of those persons in relation to any particular matter which is to be considered in the course of the review.
+
+(2) The responsible authority must, so far as is reasonably practicable, involve the persons whose views are sought under paragraph (1) in the review and, in order to do so, may invite those persons to attend any meeting held in connection with the review of the child’s case as appropriate.
+
+(3) The responsible authority must, so far as is reasonably practicable, notify details of the result of the review and of any decision taken by them in consequence of the review to—
+
+- (a) the persons listed at paragraph (1)(a) to (c),
+- (b) the local authority in whose area the child is placed, and
+- (c) to any other person whom they consider ought to be notified.
+
+### 24. Arrangements for implementation of decisions arising out of reviews[^key-87dd35394cd11b30894a37bbde45634a]
+
+The responsible authority must make arrangements themselves or with other persons to implement any decision which the authority propose to make in the course, or as a result, of the review of a child’s case.
+
+### 25. Matters to be notified to the independent reviewing officer[^key-f06a2d17a7c60f1817ebb4eff3da02a8]
+
+The responsible authority must inform the independent reviewing officer of—
+
+- (a) any significant failure to make arrangements in accordance with regulation 24, or
+- (b) any significant change of circumstances occurring after the review that affects those arrangements.
+
+### 26. Monitoring arrangements for reviews[^key-f41647105aad4b05e7326f3fb9aea052]
+
+Each responsible authority must monitor the arrangements which they have made with a view to ensuring that they comply with these Regulations.
+
+### 27. Recording review information[^key-0e369e70379725087a2812cd4c5bee60]
+
+Each responsible authority must ensure that the following matters are recorded in writing—
+
+- (a) information obtained in respect of the review of a child’s case,
+- (b) details of the proceedings at any meeting arranged by the authority at which the child’s case is considered in connection with any aspect of the review of that case, and
+- (c) details of any decisions made in the course of or as a result of the review.
+
+## PART 6 — Miscellaneous
+
+### 28. Application of Regulations to short-term placements[^key-1e6d10bce26a3f2581366843baf376cb]
+
+(1) This regulation applies where a child is placed in a series of short-term placements with the same person or in the same accommodation and the arrangement is such that no single placement is intended to last for longer than 17 days and the total duration of the placements does not exceed 75 days in any period of 12 months.
+
+(2) Any series of short-term placements to which this regulation applies may be treated as a single placement for the purposes of these Regulations and in such a case the Regulations apply with the modifications set out in paragraphs (3) to (5).
+
+(3) Regulation 13(1)(c) applies as if it required arrangements to be made for visits to the child on a day when the child is in fact placed (“a placement day”)—
+
+- (a) within the first 7 placement days of a series of short-term placements, and
+- (b) thereafter, if the series of placements continues, at intervals of not more than 6 months or, if the interval between placements exceeds 6 months, during the next placement.
+
+(4) Regulation 16(1)(a) applies as if it required arrangements to be made for visits to the child on a placement day within the first 7 placement days of a series of short-term placements.
+
+(5) Regulation 19 does not apply to a case to which this regulation applies, but instead—
+
+- (a) each such case is first to be reviewed within 3 months of the beginning of the first of the short-term placements,
+- (b) if the case continues, the second review must be carried out not more than 6 months after the first, and
+- (c) thereafter, if the case continues, subsequent reviews must be carried out not more than 6 months after the date of the previous review.
+
+### 29. Revocations[^key-3913a375a5d980a7a0aea5c0421b28b0]
+
+The Arrangements for Placement of Children (General) Regulations 1991[^f00017] and the Review of Children’s Cases Regulations 1991[^f00018] are revoked.
+
+Tim Loughton
+
+Parliamentary Under Secretary of State
+
+Department for Education
+
+3rd March 2011
+
+## SCHEDULE 1 — Considerations to which responsible authorities are to have regard
+
+Regulation 5(2)
+
+### 1. Health considerations[^key-2d7432ee13af3e6fe4b7232519c00fbe]
+
+The child’s state of health including the child’s physical, emotional and mental health.
+
+**2.**[^key-be3329c87a3a37dae77b19465644618f] The child’s health history including, so far as practicable, the child’s family health history.
+
+**3.**[^key-525ae18c4ca82844ba1d51684f6c93b8] The effect of the child’s health and health history on the child’s development.
+
+**4.**[^key-4b549fa75307812fada985c353fc4deb] Existing arrangements for the child’s medical and dental care including—
+
+- (a) routine checks of the child’s general state of health, including dental health,
+- (b) treatment for, and monitoring of, identified health (including physical, emotional and mental health) or dental care needs,
+- (c) preventive measures such as vaccination and immunisation,
+- (d) screening for defects of vision or hearing, and
+- (e) advice and guidance on promoting health and effective personal care.
+
+**5.**[^key-705466fe4123c75ddd3dde9dab7265fe] Any planned changes to existing arrangements.
+
+### 6. Educational considerations[^key-e570a98b80e4f7bce8c4c38bc48519aa]
+
+The child’s educational and training history, including information about educational institutions attended and the child’s attendance and conduct record, the child’s academic and other achievements, and the child’s special educational needs, if any.
+
+**7.**[^key-ac9c4a67021eac933e86435e95e62a01] Existing arrangements for the child’s education and training, including details of any special educational provision and any other provision made to meet the child’s particular educational or training needs, and to promote the child’s educational achievement.
+
+**8.**[^key-d52b6f3532ee3b9870f9601e21ecf8fb] Any planned changes to existing arrangements for the child’s education or training and, where any changes to the arrangements are necessary, provision made to minimise disruption to that education or training.
+
+**9.**[^key-ed29338581b2b0b955d7b59ef89407e9] The child’s leisure interests.
+
+## SCHEDULE 2 — Matters to be included in a placement plan
+
+Regulation 5(3)
+
+**1.**[^key-9a54617958da300730cd7be763828596] The type of accommodation to be provided and its address together with the name of any person who will be responsible for the child at that accommodation on behalf of the responsible authority.
+
+**2.**[^key-600f9830152a047328f23cff69c205f0] The details of any services to be provided for the child.
+
+**3.**[^key-a84cac0fd3aa6819fd9f76287eca586b] The respective responsibilities of the responsible authority and—
+
+- (a) any parent of the child, and
+- (b) any person who is not a parent of the child but who has parental responsibility for that child.
+
+**4.**[^key-472c139063c6ea1baa4c3c77455ecbd8] What delegation there has been by the persons referred to in paragraph 3(a) and (b) of this Schedule to the responsible authority of parental responsibility for the child’s day to day care.
+
+**5.**[^key-bd988cbe7c36e33308ed3959a1b5e9e0] The arrangements for involving those persons and the child in decision-making with respect to the child having regard to—
+
+- (a) the duty of the voluntary organisation under section 61(2) of the 1989 Act, and
+- (b) the duty of the person carrying on a private children’s home under section 64(2) of the 1989 Act.
+
+**6.**[^key-c1c3250e3dee1ff3e33d5b43ee35b434] The arrangements for contact between the child and—
+
+- (a) the child’s parents,
+- (b) any person who is not a parent of the child but who has parental responsibility for that child,
+- (c) any sibling of the child, where they have not been placed together, and
+- (d) any relative, friend or other person connected with the child.
+
+**7.**[^key-d990d4559337463fe386fc33426fcba9] Whether there is any need for changes in the arrangements in order to promote contact with the child’s family and others so far as is consistent with the child’s welfare and, if appropriate, the reasons why contact with any such person would not be reasonably practicable or would be inconsistent with the child’s welfare.
+
+**8.**[^key-987503584e282fd388073e7415bcbf18] The arrangements for notifying changes in arrangements for contact to any of the persons referred to in paragraph 6.
+
+**9.**[^key-28e4a3ac05495a934ccc743c2fa3d7cb] The expected duration of arrangements and the steps which should apply to bring the arrangements to an end, including arrangements for rehabilitation of the child with the person with whom the child was living before the voluntary arrangements were made or some other suitable person.
+
+## SCHEDULE 3 — Elements to be included in reviews
+
+Regulation 20(4)
+
+**1.**[^key-88a1a38bc2383b704105835a0f1665f8] Maintaining information relating to the arrangements for looking after the child and any relevant change in the child’s circumstances.
+
+**2.**[^key-ee4d8a531d565610765c3a38873d7171] Maintaining and updating the name and address of any person whose views should be taken into account in the course of the review.
+
+**3.**[^key-9e8a2a1b6460ea5f80eef76c207df092] Making necessary preparations and providing any relevant information to the participants in any meeting of the responsible authority which considers the child’s case in connection with any aspect of the review.
+
+**4.**[^key-8bb1e54e1a2e4971ce30045f50b6ca9b] Initiating meetings of relevant personnel of the responsible authority and other relevant persons to consider the review of the child’s case.
+
+**5.**[^key-1f8f5fee7ee156951e980154f328113e] Making decisions or taking steps following decisions arising out of, or resulting from, the review.
+
+## SCHEDULE 4 — General considerations to which responsible authorities are to have regard in reviewing the child’s case
+
+Regulation 21
+
+**1.**[^key-b669408df3657d9fa9578bffe84cd2ad] Arrangements for contact, and whether there is any need for changes in the arrangements in order to promote contact with the child’s family and others, so far as is consistent with the child’s welfare.
+
+**2.**[^key-17474067fe65e04560fee893cd24b503] Any special arrangements that have been made or need to be made for the child, including the carrying out of assessments either by a local authority or other persons, such as those in respect of special educational need under the Children and Families Act 2014[^key-dfe9e772fd46d3df1d8aba43b7bd8510].
+
+**3.**[^key-d767c342618b08fe1c59cdc9d0c4d7e4] The responsible authority’s immediate and long term arrangements for providing the child with accommodation (made pursuant to the provisions of these Regulations) and whether any particular change in those arrangements is required.
+
+**4.**[^key-60599ee2e31d68fb9011e857cac106ce] The child’s educational needs, progress and development.
+
+**5.**[^key-e7c9bd59f18ebd7a8d600c73e3fba61d] Whether arrangements need to be made for the time when the child will no longer be provided with accommodation by the responsible authority.
+
+**6.**[^key-c827b008cc3b084f49108080a2dcfe71] Whether a plan for permanence needs to be made.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for children who are not looked after by a local authority but are provided with accommodation by voluntary organisations or in private children’s homes.
+
+The Regulations revoke and replace, with certain amendments, the Arrangements for Placement of Children (General) Regulations 1991 and the Review of Children’s Cases Regulations 1991 in so far as those regulations made provision for children who are not looked after. They also replace regulations 33 to 41 of the Fostering Services Regulations 2002 in so far as they applied to such children.
+
+Part 2 contains general provisions about placements. It contains provisions about the placement plan to be prepared by the voluntary organisation or the private children’s home (regulations 4 and 5), the assessment of the child’s health (regulation 6), the persons who must be notified of the arrangements (regulation 7) and the arrangements for contact (regulation 8). It also makes provision for the need to establish and retain a case record in respect of each child who is placed (regulations 9 and 10).
+
+Part 3 makes provision relating to the placement of children by voluntary organisations with foster parents. It imposes general requirements on responsible authorities as to the making and supervision of placements (regulations 11 to 13).
+
+Part 4 makes provision in respect of other duties. Regulation 14 sets out the circumstances in which responsible authorities or local authorities must terminate placements and regulation 15 prohibits the placement of a child by a voluntary organisation outside the British Islands. Regulation 16 imposes a duty on local authorities to visit children who are placed by voluntary organisations or in children’s homes and requires the local authority to report concerns to the Chief Inspector.
+
+Part 5 prescribes the manner in which children’s cases must be reviewed. Regulation 17 sets out the general responsibility for carrying out reviews and the need to appoint an independent reviewing officer. Regulations 19 and 20 set out the timing of the reviews and the manner in which reviews must be carried out. This part also makes provision for the matters which the responsible authorities must consider when carrying out the review (regulation 21), the need to carry out a health review (regulation 22), the need to involve certain persons in the review process (regulation 23) and the arrangements for implementing decisions and keeping records of reviews (regulations 24 to 27).
+
+Part 6 makes provision in respect of short-term placements (regulation 28).
+
+An impact assessment has not been prepared for this instrument as there is no impact on business, charities and voluntary bodies and the impact on the public sector will be minimal.
+
+## Annotations
+
+[^f00001]: Footnote: Paragraph 10(2)(l) allows provision to be made, in relation to private children’s homes, similar to that made by regulations under section 26 of the Children Act 1989 (“the 1989 Act”). Despite the amendments made to section 26 by the coming into force of provisions in the Children and Young Persons Act 2008 (Commencement No.3, Saving and Transitional Provisions) Order 2010 ([S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981)), section 26 continues to have effect by virtue of that Order.
+
+[^f00002]: Footnote: These powers of the Secretary of State under Schedules 4, 5 and 6 are, so far as exercisable in relation to Wales, vested in the Welsh Ministers. Those functions were transferred to the National Assembly for Wales constituted by the Government of Wales Act [1998 (c.38)](https://www.legislation.gov.uk/ukpga/1998/38) by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), article 2; see the entry in Schedule 1 for the 1989 Act. By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers immediately after the end of the initial period as defined by section 161(5) of that Act.
+
+[^f00003]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41). Section 59(2) and (3) is amended by paragraph 2(1), (4) and (5) of Schedule 1 to the Children and Young Persons Act [2008 (c.23)](https://www.legislation.gov.uk/ukpga/2008/23) (“the 2008 Act”). Section 59(3A) is inserted by paragraph 2(1) and (6) of Schedule 1 to the 2008 Act. Section 59(5A) was substituted by paragraph 2(1) and (7) of Schedule 1 to the 2008 Act. The powers in sections 59(2), (3) and (4), and 62(3), and in paragraph 7(1)(a) of Schedule 5 are expressed to be exercisable by the “appropriate national authority” and those words were substituted in all those provisions by Schedule 3 to the 2008 Act. The “appropriate national authority” is defined in section 59(7) (which is inserted by Schedule 3 to the 2008 Act), as meaning, in relation to England, the Secretary of State.
+
+[^key-a4a77625d11cce1a4f4b4b881a3851b2]: Commencement: Reg. 1 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-766fe24d7f3e4d7384c27c515cac4cc1]: Commencement: Reg. 2 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^f00004]: Footnote: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14).
+
+[^key-9b3c5a49cb8d97f628e34270fe1166ce]: Textual amendment: Words in reg. 2(1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [51(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/51/2/a)
+
+[^f00005]: Footnote: That is, (a) an undertaking which consists of or includes discharging functions of local authorities in connection with the placing of children with foster parents, or (b) a voluntary organisation which places children with foster parents under section 59(1) of the 1989 Act.
+
+[^key-4eed38bc7ba792ab606c77932baaf2bc]: Textual amendment: Words in reg. 2(1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [51(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/51/2/b)
+
+[^f00006]: Footnote: For the meaning of a child who is “looked after” see section 22(1) of the 1989 Act, as amended by paragraph 19 of Schedule 5 to, the [Local Government Act 2000(c.22)](https://www.legislation.gov.uk/ukpga/2000/22), section 2 of the Children (Leaving Care) Act [2000 (c.35)](https://www.legislation.gov.uk/ukpga/2000/35) and section 116(2) of the Adoption and Children Act [2002 (c.38)](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^f00007]: Footnote: “Voluntary organisation” is defined in section 105(1) of the 1989 Act as “a body (other than a public or local authority) whose activities are not carried on for profit”.
+
+[^f00008]: Footnote: Paragraph (aa) was substituted by paragraph 14(1) and (8)(a) of Schedule 4 to the Care Standards Act 2000 (“the 2000 Act”) and subsequently amended by paragraph 2(1) and (2) of Schedule 1 to the 2008 Act.
+
+[^f00009]: Footnote: “Private children’s home” is defined in section 105(1) of the 1989 Act as “a children’s home in respect of which a person is registered under Part 2 of the Care Standards Act 2000 which is not a community home or a voluntary home”.
+
+[^f00010]: Footnote: “Local authority” is defined in section 105(1) of the 1989 Act as, in relation to England, “the council of a county, a metropolitan district, a London Borough or the Common Council of the City of London”. Any reference in the 1989 Act to a “local authority” is to be construed as including a reference to the Council of the Isles of Scilly**:** see the Isles of Scilly ([Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)) Order 2010, [S.I. 2010/1116](https://www.legislation.gov.uk/uksi/2010/1116), article 2.
+
+[^key-c39b8dd7ed66f2cf328707c2861781c7]: Textual amendment: Words in reg. 2(1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 161(2)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/161/2/b)
+
+[^key-e099f40ff96a4638f24ab977e3b98e2f]: Commencement: Reg. 3 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-74009bc688fb81ab13f1565ba89bf087]: Textual amendment: Words in reg. 3 inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 26(2)(a)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/26/2/a)
+
+[^key-d3e72df07c9ad27ecf716042cbd5bcde]: Textual amendment: Words in reg. 3 inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 26(2)(b)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/26/2/b)
+
+[^key-10f43f3bc577d977c68c353b85fbc44e]: Commencement: Reg. 4 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-d9eba254fd0e75db2ad6e2b15cf9783c]: Commencement: Reg. 5 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-ad9f03860714f74dd53d908312751ea4]: Commencement: Reg. 6 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-acd516ae7446fdfe7f7e0b226a391d96]: Commencement: Reg. 7 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-4f37094ba1d1633b7259d52075d0c90c]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^key-e6dcb294a2fc131d2fb1c58c0dd7bbb4]: Textual amendment: Words in [reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2011/582/regulation/7/1/c) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 161(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/161/3)
+
+[^key-a631126ee105c01dfe9064136c4a21a2]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1)
+
+[^key-65f88d67c0a7b83de4b0f3be3a90836f]: Textual amendment: Words in [reg. 7(1)(g)](https://www.legislation.gov.uk/uksi/2011/582/regulation/7/1/g) substituted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [20](https://www.legislation.gov.uk/uksi/2014/852/article/20)
+
+[^key-ca33e9b0ac8d4a1112b44f8228cbb030]: Commencement: Reg. 8 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-6894b2b5500949ed99fc326b8f3cd1ba]: Commencement: Reg. 9 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-b4fb560b088eed6bc85116e29bf6a29f]: Commencement: Reg. 10 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-c63859e74550608d2bd2d250c923c273]: Commencement: Reg. 11 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^f00012]: Footnote: A voluntary organisation which places children with foster parents under section 59(1) of the 1989 Act is a fostering agency and must be registered under Part 2 of the 2000 Act (see section 11 of that Act).
+
+[^key-5aaf8ae4549836b753875c0e02dda54e]: Commencement: Reg. 12 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^f00013]: Footnote: [S.I. 2011/ 581](https://www.legislation.gov.uk/uksi/2011/581).
+
+[^key-3b1ae5c88b85bfee3e190ffdc8c8ca67]: Commencement: Reg. 13 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-d7df2a8d1a269c841b2cd5be235b3d7f]: Commencement: Reg. 14 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-85ab4aace06c67e972cd338c2217e611]: Commencement: Reg. 15 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-6ba710a86952ea1645378b14f1abe02d]: Commencement: Reg. 16 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-d3b6b35af170d22ddf5f975683c0908b]: Commencement: Reg. 17 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-6be60890bec7b05817dfcc6796a8d2e7]: Commencement: Reg. 18 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^f00014]: Footnote: This Service was established by section 11 of the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43) and exercises the functions conferred on it by virtue of that Act and any other enactment.
+
+[^f00015]: Footnote: “Welsh family proceedings officer” is defined in section 105(1) of the 1989 Act as having the meaning given by section 35 of the Children Act [2004 (c.31)](https://www.legislation.gov.uk/ukpga/2004/31).
+
+[^key-8da6dae628d0593f6e1f8b5b6ffd8e92]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2011/582/regulation/18/2) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 26](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/26); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+
+[^key-d3074c15ea57a4741743efea1ae7bc71]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2011/582/regulation/18/2) substituted (1.8.2012) by [The Health and Social Care Act 2012 (Consequential Provision—Social Workers) Order 2012 (S.I. 2012/1479)](https://www.legislation.gov.uk/uksi/2012/1479), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2), [Sch. para. 92](https://www.legislation.gov.uk/uksi/2012/1479/schedule/paragraph/92)
+
+[^key-081afffe607c5896bd8f2c23fb73c66e]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2011/582/regulation/18/2) substituted (3.4.2017) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/52)](https://www.legislation.gov.uk/wsi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/52/regulation/1/2), [Sch. 1 para. 24(2)](https://www.legislation.gov.uk/wsi/2017/52/schedule/1/paragraph/24/2)
+
+[^f00016]: Footnote: Amended by section 117(2) and (3) of the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^key-5d278b0012eb043abd4402cd3a5a9741]: Commencement: Reg. 19 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-d135719b46ace42ebc0f9b9f7712fa1d]: Commencement: Reg. 20 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-5f5737156b734fd371f45af0eb21dfcc]: Commencement: Reg. 21 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-a951c1f16c475e8ca236c536bde8836f]: Commencement: Reg. 22 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-5a803cef0f0f78c9efa54a5d8da5d5be]: Commencement: Reg. 23 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-87dd35394cd11b30894a37bbde45634a]: Commencement: Reg. 24 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-f06a2d17a7c60f1817ebb4eff3da02a8]: Commencement: Reg. 25 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-f41647105aad4b05e7326f3fb9aea052]: Commencement: Reg. 26 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-0e369e70379725087a2812cd4c5bee60]: Commencement: Reg. 27 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-1e6d10bce26a3f2581366843baf376cb]: Commencement: Reg. 28 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-3913a375a5d980a7a0aea5c0421b28b0]: Commencement: Reg. 29 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^f00017]: Footnote: [S.I. 1991/890](https://www.legislation.gov.uk/uksi/1991/890), amended by [S.I. 2002/546](https://www.legislation.gov.uk/uksi/2002/546).
+
+[^f00018]: Footnote: [S.I. 1991/895](https://www.legislation.gov.uk/ukpga/1991/895), amended by [S.I. 2002/546](https://www.legislation.gov.uk/uksi/2002/546), [2004/1419](https://www.legislation.gov.uk/uksi/2004/1419) and [2004/2253](https://www.legislation.gov.uk/uksi/2004/2253).
+
+[^key-2d7432ee13af3e6fe4b7232519c00fbe]: Commencement: Sch. 1 para. 1 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-be3329c87a3a37dae77b19465644618f]: Commencement: Sch. 1 para. 2 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-525ae18c4ca82844ba1d51684f6c93b8]: Commencement: Sch. 1 para. 3 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-4b549fa75307812fada985c353fc4deb]: Commencement: Sch. 1 para. 4 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-705466fe4123c75ddd3dde9dab7265fe]: Commencement: Sch. 1 para. 5 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-e570a98b80e4f7bce8c4c38bc48519aa]: Commencement: Sch. 1 para. 6 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-ac9c4a67021eac933e86435e95e62a01]: Commencement: Sch. 1 para. 7 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-d52b6f3532ee3b9870f9601e21ecf8fb]: Commencement: Sch. 1 para. 8 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-ed29338581b2b0b955d7b59ef89407e9]: Commencement: Sch. 1 para. 9 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-9a54617958da300730cd7be763828596]: Commencement: Sch. 2 para. 1 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-600f9830152a047328f23cff69c205f0]: Commencement: Sch. 2 para. 2 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-a84cac0fd3aa6819fd9f76287eca586b]: Commencement: Sch. 2 para. 3 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-472c139063c6ea1baa4c3c77455ecbd8]: Commencement: Sch. 2 para. 4 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-bd988cbe7c36e33308ed3959a1b5e9e0]: Commencement: Sch. 2 para. 5 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-c1c3250e3dee1ff3e33d5b43ee35b434]: Commencement: Sch. 2 para. 6 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-d990d4559337463fe386fc33426fcba9]: Commencement: Sch. 2 para. 7 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-987503584e282fd388073e7415bcbf18]: Commencement: Sch. 2 para. 8 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-28e4a3ac05495a934ccc743c2fa3d7cb]: Commencement: Sch. 2 para. 9 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-88a1a38bc2383b704105835a0f1665f8]: Commencement: Sch. 3 para. 1 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-ee4d8a531d565610765c3a38873d7171]: Commencement: Sch. 3 para. 2 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-9e8a2a1b6460ea5f80eef76c207df092]: Commencement: Sch. 3 para. 3 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-8bb1e54e1a2e4971ce30045f50b6ca9b]: Commencement: Sch. 3 para. 4 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-1f8f5fee7ee156951e980154f328113e]: Commencement: Sch. 3 para. 5 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-b669408df3657d9fa9578bffe84cd2ad]: Commencement: Sch. 4 para. 1 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-17474067fe65e04560fee893cd24b503]: Commencement: Sch. 4 para. 2 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-dfe9e772fd46d3df1d8aba43b7bd8510]: Textual amendment: Words in [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2011/582/schedule/4/paragraph/2) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [37](https://www.legislation.gov.uk/uksi/2014/2103/article/37)
+
+[^key-d767c342618b08fe1c59cdc9d0c4d7e4]: Commencement: Sch. 4 para. 3 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-60599ee2e31d68fb9011e857cac106ce]: Commencement: Sch. 4 para. 4 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-e7c9bd59f18ebd7a8d600c73e3fba61d]: Commencement: Sch. 4 para. 5 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)
+
+[^key-c827b008cc3b084f49108080a2dcfe71]: Commencement: Sch. 4 para. 6 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/582/regulation/1/1)

@@ -1,0 +1,168 @@
+---
+title: The Bovine Spongiform Encephalopathy (No. 2) Amendment Order 1990
+id: uksi/1990/1930
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1990-09-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1990/1930
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1990/1930/pdfs/uksi_19901930_en.pdf
+- http://www.legislation.gov.uk/uksi/1990/1930/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bovine Spongiform Encephalopathy (No. 2) Amendment Order 1990
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1990 No. 1930
+
+ANIMALS
+
+ANIMAL HEALTH
+
+The Bovine Spongiform Encephalopathy (No. 2) Amendment Order 1990
+
+Made
+
+24th September 1990
+
+Coming into force
+
+25th September 1990
+
+The Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland and the Secretary of State for Wales, acting jointly, in exercise of the powers conferred on them by sections 1, 7(1), 8(1), 15(4), 32(2), 72, 86(1), 87(2) and (5) and 88(2) of the Animal Health Act 1981[^f00001] and the Minister of Agriculture, Fisheries and Food in exercise of the powers conferred on him by section 11 of that Act, and of all other powers enabling them in that behalf, hereby make the following Order:
+
+## 1. Title and commencement
+
+This Order may be cited as the Bovine Spongiform Encephalopathy (No. 2) Amendment Order 1990 and shall come into force on 25th September 1990.
+
+## 2. Amendment
+
+The Bovine Spongiform Encephalopathy (No. 2) Order 1988[^f00002] shall be amended as follows:—
+
+- (a) after article 2 there shall be inserted the following article:—
+
+  > **2A. Extension of the definitions of “animals” and “poultry”**
+  >
+  > For the purposes of the Act in its application to this Order—
+  >
+  > - (a) the definition of “animals” in section 87(1) of the Act is hereby extended so as to comprise—
+  >   - (i) any kind of mammal except man, and
+  >   - (ii) any kind of four-footed beast which is not a mammal; and
+  > - (b) the definition of “poultry” in section 87(4) of the Act is hereby extended so as to comprise birds of every species.
+
+  ;
+- (b) in article 3(1) (interpretation)—
+  - (i) for the definition of “animals” there shall be substituted the following definition:—
+
+    > - “animals” means any kind of mammal, except man, and any kind of four-footed beast which is not a mammal;
+
+    ;
+  - (ii) after the definition of “Divisional Veterinary Officer” there shall be inserted the following definition:—
+
+    > - “feedingstuff” includes pet food;
+
+    ;
+  - (iii) after the definition of “inspector” there shall be inserted the following definition:—
+
+    > - “intestines” means that part of the digestive tract of a bovine animal from the junction of the abomasum and the duodenum to (and including) the rectum;
+
+    ;
+  - (iv) after the definition of “the Minister” and “the Ministry” there shall be inserted the following definition:—
+
+    > - “poultry” means birds of any species;
+
+    and
+  - (v) after the definition of “research establishment” there shall be inserted the following definition:—
+
+    > - “specified bovine offal” means the brain, spinal cord, spleen, thymus, tonsils and intestines of a bovine animal over six months of age when slaughtered which has been slaughtered in the United Kingdom;
+
+    ;
+- (c) for article 8 there shall be substituted the following article:—
+
+  > **8. Prohibition of sale, supply and use of certain feedingstuffs for feeding to animals and poultry**
+  >
+  > (1) No person shall knowingly sell or supply for feeding to ruminating animals any feedingstuff in which he knows or has reason to suspect any animal protein has been incorporated.
+  >
+  > (2) Subject to paragraph (5) below, no person shall feed to a ruminating animal any feedingstuff in which he knows or has reason to suspect that any animal protein has been incorporated.
+  >
+  > (3) No person shall knowingly sell or supply for feeding to animals or poultry any specified bovine offal or any feedingstuff which he knows or has reason to suspect contains specified bovine offal or animal protein which is derived from any specified bovine offal.
+  >
+  > (4) Subject to paragraph (5) below, no person shall feed to an animal or poultry any specified bovine offal or any feedingstuff which he knows or has reason to suspect contains specified bovine offal or animal protein which is derived from any specified bovine offal.
+  >
+  > (5) The prohibitions in paragraphs (2) and (4) above shall not apply to the feeding of specified bovine offal or a feedingstuff to an animal or poultry for research purposes under the authority of a licence issued by a veterinary inspector and in accordance with any conditions subject to which the licence is issued.
+
+  ;
+- (d) after article 8 there shall be inserted the following article:—
+
+  > **8A. Regulation of exportation of feedingstuffs**
+  >
+  > (1) No person shall export any feedingstuff which he knows or has reason to suspect contains specified bovine offal or animal protein derived from any specified bovine offal from Great Britain to a member State except under the authority of a licence issued by the Minister and in accordance with the conditions, if any, of the licence.
+  >
+  > (2) Such a licence may be general or specific.
+  >
+  > (3) A general licence shall be issued by its publication in such manner as the Minister thinks sufficient to bring it to the attention of persons likely to be affected by it.
+  >
+  > (4) The Minister may vary, revoke or suspend a licence—
+  >
+  > - (a) if it is a general licence, by a notice published, so far as practicable, in the same manner as the licence;
+  > - (b) if it is a specific licence, by a notice in writing served on the person to whom the licence was issued.
+  >
+  > (5) Any person wishing to obtain a licence shall apply to the Minister in such form and manner and within such time as the Minister may require.
+
+  ;
+- (e) for paragraph (4) of article 9 there shall be substituted the following paragraph:—
+
+  > (4) In this article “animals” includes poultry.
+
+  ;
+- (f) in article 12 (production of licences)—
+  - (i) the existing paragraph shall be numbered “(1)”; and
+  - (ii) after paragraph (1) there shall be added the following paragraph:—
+
+    > (2) a licence issued under regulation 8A above shall, on demand, be produced by the person in charge of the feedingstuff to which the licence relates to an officer of the Customs and Excise or an inspector of the Ministry, who may take a copy or extract from it.
+
+    .
+
+## 3. Revocation
+
+The Bovine Spongiform Encephalopathy (No. 2) Amendment Order 1989[^f00003] is hereby revoked.
+
+In witness whereof the Official Seal of the Minister of Agriculture, Fisheries and Food is hereunto affixed on 22nd September 1990.
+
+John Selwyn Gummer
+
+Minister of Agriculture, Fisheries and Food
+
+Lord Strathclyde
+
+Parliamentary Under Secretary of State, Scottish Office
+
+24thSeptember 1990
+
+David Hunt
+
+Secretary of State for Wales
+
+22nd September 1990
+
+(This note is not part of the Order)
+
+This Order amends the Bovine Spongiform Encephalopathy (No. 2) Order 1988 so as to prohibit the sale, supply and use of specified bovine offal and feedingstuffs containing specified bovine offal (which comprises the brain, spinal cord, spleen, thymus, tonsils and intestines of a bovine animal) or animal protein derived from it for feeding to any kind of mammal, except man, and any kind of four-footed beast which is not a mammal and any bird.
+
+The Order further prohibits the exportation of feedingstuffs containing specified bovine offal or animal protein derived from it from Great Britain to a member State of the European Communities except under the authority of a licence issued by the Minister and in accordance with any conditions of the licence.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22); section 86(1) contains definitions of “the Minister” and “the Ministers” relevant to the exercise of the statutory powers under which this Order is made; sections 1, 7(1), 8(1), 72, 86(1), 87(2) and (5) and 88(2) were applied to bovine spongiform encephalopathy by the Zoonoses Order 1988 (S.I. [1988/2264](https://www.legislation.gov.uk/uksi/1988/2264)).
+
+[^f00002]: Footnote: S.I. [1988/2299](https://www.legislation.gov.uk/uksi/1988/2299), amended by S.I. [1989/2326](https://www.legislation.gov.uk/uksi/1989/2326).
+
+[^f00003]: Footnote: S.I. [1989/2326](https://www.legislation.gov.uk/uksi/1989/2326).

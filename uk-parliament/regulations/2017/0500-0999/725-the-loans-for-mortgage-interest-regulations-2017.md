@@ -1,0 +1,2153 @@
+---
+title: The Loans for Mortgage Interest Regulations 2017
+id: uksi/2017/725
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-07-05'
+text_date: '2023-04-03'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2017/725
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/725/pdfs/uksiem_20170725_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/725/pdfs/uksi_20170725_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/725/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Loans for Mortgage Interest Regulations 2017
+
+> Text as at 2023-04-03.
+
+2017 No. 725
+
+Social Security
+
+The Loans for Mortgage Interest Regulations 2017
+
+Made
+
+5th July 2017
+
+Laid before Parliament
+
+6th July 2017
+
+Coming into force in accordance with regulation 1(2)
+
+The Secretary of State, in exercise of the powers conferred by sections 4(5), 35(1), 36(2) and (4) of the Jobseekers Act 1995[^f00001], sections 2(3)(b) and sections 17(1) and 19(1) of the State Pension Credit Act 2002[^f00002], sections 123(1)(a), 135(1), 137(1) and (2)(d) and 175(1), (3) and (4) of the Social Security Contributions and Benefits Act 1992[^f00003], sections 4(2)(a), 24(1) and 25(2), (3) and (5)(a) of the Welfare Reform Act 2007[^f00004], sections 11(3) and (4) and 42(1), (2) and (3)(a) of, and paragraph 1(1) of Schedule 6 to, the Welfare Reform Act 2012[^f00005] and sections 18, 19 and 21 of the Welfare Reform and Work Act 2016[^f00006], makes the following Regulations.
+
+This instrument contains only regulations made under, by virtue of, or consequential upon, sections 18, 19 and 21 of the Welfare Reform and Work Act 2016 and is made before the end of the period of 6 months beginning with the coming into force of those sections. Therefore, in accordance with section 173(5) of the Social Security Administration Act 1992[^f00007], these Regulations are not required to be referred to the Social Security Advisory Committee.
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Loans for Mortgage Interest Regulations 2017.
+
+(2) These Regulations come into force—
+
+- (a) for the purposes of regulations 18 to 21, on 6th April 2018;
+- (b) for all other purposes, on 27th July 2017.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “the Act” means the Welfare Reform and Work Act 2016;
+- “alternative finance arrangements” has the meaning given in paragraph 5(4) of Schedule 1 to these Regulations;[^key-b05ea1dce407a3fc99bf4820df0db2cf]
+- “alternative finance payments” has the meaning given in paragraph 5(3) of Schedule 1 to these Regulations;
+- “applicable amount” means—
+  - (a) in the case of employment and support allowance, the claimant’s weekly applicable amount under regulations 67 to 70 of the ESA Regulations[^f00008];
+  - (b) in the case of income support, the claimant’s weekly applicable amount under regulations 17 to 21AA of the IS Regulations[^f00009];
+  - (c) in the case of jobseeker’s allowance, the claimant’s weekly applicable amount under regulations 83 to 86C of the JSA Regulations[^f00010];
+  - (d) in the case of an SPC claimant, the claimant’s weekly appropriate minimum guarantee under section 2 of the State Pension Credit Act 2002[^f00011];
+  - (e) in the case of a UC claimant, the maximum amount of a claimant’s award of universal credit under regulation 23(1) of the UC Regulations[^f00012];
+- “assessment period” has the meaning given in regulation 21 of the UC Regulations[^f00013];
+- “benefit unit” means a single claimant and his or her partner (if any) or joint claimants;
+- “benefit week” has the meaning given—
+  - (a) in the case of employment and support allowance, in regulation 2 of the ESA Regulations[^f00014];
+  - (b) in the case of income support, in paragraph 4 of Schedule 7 to the Claims and Payment Regulations[^f00015];
+  - (c) in the case of jobseeker’s allowance, in regulation 1 of the JSA Regulations[^f00016];
+  - (d) in the case of state pension credit, in regulation 1 of the SPC Regulations[^f00017];
+- “charge by way of legal mortgage” has the meaning given in section 132(1) of the Land Registration Act 2002[^f00018];
+- “child” means a person under the age of 16;
+- “claimant” means a single claimant or each of joint claimants;
+- “Claims and Payment Regulations” means the Social Security (Claims and Payments) Regulations 1987[^f00019];
+- “close relative” means a parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, step-parent, step-son, step-daughter, brother, sister, or, if any of the preceding persons is one member of a couple, the other member of that couple;
+- “conveyancer” means—[^key-88b05124364a432ddc18017945cf9ed7]
+  - (a) in England and Wales, a conveyancer within the meaning of rule 217A of the Land Registration Rules 2003;
+  - (b) in Scotland, a solicitor or advocate within the meaning of section 65 of the Solicitors (Scotland) Act 1980, or a conveyancing practitioner as defined in section 23 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990;
+- “couple” means—
+  - (a) two people who are married to, or civil partners of, each other and are members of the same household;
+  - (b) two people who are not married to, or civil partners of, each other but are living together as a married couple or civil partners;
+- “disabled person” has the meaning given—
+  - (a) in the case of employment and support allowance, in paragraph 1(3) of Schedule 6 to the ESA Regulations[^f00020];
+  - (b) in the case of income support, in paragraph 1(3) of Schedule 3 to the IS Regulations[^f00021];
+  - (c) in the case of jobseeker’s allowance, in paragraph 1(3) of Schedule 2 to the JSA Regulations[^f00022];
+  - (d) in the case of state pension credit, in paragraph 1(2)(a) of Schedule 2 to the SPC Regulations[^f00023];
+  - (e) in the case of universal credit, in paragraph 14(3) of Schedule 3 to these Regulations;
+- “dwelling”—
+  - (a) in England and Wales, means a dwelling within the meaning of Part 1 of the Local Government Finance Act 1992[^f00024];
+  - (b) in Scotland, means a dwelling within the meaning of Part 2 of that Act;
+- “earned income” has the meaning given in Chapter 2 of Part 6 of the UC Regulations;
+- “ESA Regulations” means the Employment and Support Allowance Regulations 2008[^f00025];
+- “existing claimant” means a claimant who is entitled to a qualifying benefit, including an amount for owner-occupier payments, on 5th April 2018;
+- “financial year” has the meaning given in section 25(2) of the Budget Responsibility and National Audit Act 2011[^f00026];
+- “income” means any income which is, or which is treated as, an individual’s, including payments which are treated as earnings, and which is not disregarded, under—
+  - (a) in the case of employment and support allowance, Part 10 of the ESA Regulations;
+  - (b) in the case of income support, Part 5 of the IS Regulations;
+  - (c) in the case of jobseeker’s allowance, Part 8 of the JSA Regulations;
+  - (d) in the case of state pension credit, Part 3 of the SPC Regulations;
+- “IS Regulations” means the Income Support (General) Regulations 1987[^f00027];
+- “joint claimants”—[^key-5ae99f5ef30e03883e3c5b0d836330de]
+  - (a) in the case of jobseeker’s allowance means—
+    - (i) members of a joint-claim couple who have jointly made a claim for, and are entitled to, income-based jobseeker’s allowance; or
+    - (ii) members of a joint-claim couple who have made a claim for, but are not entitled to, such a benefit by reason only that they have income—
+      - (aa) equal to or exceeding the applicable amount, but
+      - (bb) less than the sum of that applicable amount and the amount of a loan payment applicable to the joint-claim couple;
+  - (b) in the case of universal credit means members of a couple who have jointly made a claim for, and are entitled to, universal credit;
+- “joint-claim couple” has the meaning in section 1(4) of the Jobseekers Act 1995;
+- “JSA Regulations” means the Jobseeker’s Allowance Regulations 1996[^f00028];
+- “legacy benefit” means income-related employment and support allowance, income support or income-based jobseeker’s allowance;
+- “legacy benefit claimant” means a claimant who is entitled to, or is treated as entitled to,[^key-f207d5d4aca6488f7caa3e36b7785706] a legacy benefit;
+- “legal estate” means any of the legal estates set out in section 1(1) of the Law of Property Act 1925[^f00029];
+- “legal owner” means the owner, whether alone or with others, of a legal estate or, in Scotland, a heritable or registered interest, in the relevant accommodation;
+- “loan agreement” means an agreement entered into by a single claimant and his or her partner (if any), or each joint claimant, and the Secretary of State, which sets out the terms and conditions upon which the loan payments are made to the claimant;
+- “loan payments” means one or more payments, calculated under regulation 10, in respect of a claimant’s liability to make owner-occupier payments in respect of the relevant accommodation;
+- “loan payments offer date” means the day on which the Secretary of State sends the loan agreement to a claimant;
+- “Modified Rules” means the Social Security (Housing Costs Special Arrangements) (Amendment and Modification) Regulations 2008[^f00030];
+- “new claimant partner” has the meaning given in regulation 7 of the Transitional Provisions Regulations [^f00031];
+- “non-dependant” has the meaning given—
+  - (a) in the case of employment and support allowance, in regulation 71 of the ESA Regulations;
+  - (b) in the case of income support, in regulation 3 of the IS Regulations[^f00032];
+  - (c) in the case of jobseeker’s allowance, in regulation 2 of the JSA Regulations[^f00033];
+  - (d) in the case of state pension credit, in paragraph 1(4) of Schedule 2 to the SPC Regulations;
+- “owner-occupier payments” has the meaning given in regulation 3(2)(a);
+- “partner” means—
+  - (a) where a claimant is a member of a couple, the other member of that couple;
+  - (b) where a claimant is married polygamously to two or more members of the claimant’s household, all such members;
+- “person who lacks capacity”—
+  - (a) in England and Wales, has the meaning given in section 2 of the Mental Capacity Act 2005[^f00034];
+  - (b) in Scotland, means a person who is incapable under section 1(6) of the Adults with Incapacity (Scotland) Act 2000[^f00035];
+- “polygamous marriage” means a marriage during which a party to it is married to more than one person and which took place under the laws of a country which permits polygamy;
+- “qualifying benefit” means income-related employment and support allowance, income support, income-based jobseeker’s allowance, state pension credit or universal credit;
+- “qualifying lender” has the meaning given in section 19(7) of the Act;
+- “qualifying loan” means—
+  - (a) in the case of a legacy benefit or state pension credit, a loan which qualifies under paragraph 2(2) or (4) of Schedule 1 to these Regulations;
+  - (b) in the case of universal credit, a loan which qualifies under paragraph 5(2) of Schedule 1 to these Regulations;
+- “qualifying period” means a period of—
+  - (a) three[^key-1122075af49057b49d84204698572413] consecutive assessment periods in which a claimant has been entitled to universal credit;
+  - (b) 39 consecutive weeks in which a claimant—
+    - (i) has been entitled to a legacy benefit; or
+    - (ii) is treated as having been entitled to such a benefit under —
+      - (aa) paragraph 14 of Schedule 3 to the IS Regulations[^f00036];
+      - (bb) paragraph 13 of Schedule 2 to the JSA Regulations[^f00037]; or
+      - (cc) paragraph 15 of Schedule 6 to the ESA Regulations[^f00038];
+- “qualifying young person” has the meaning given—
+  - (a) in the case of a legacy benefit, in section 142 of the Social Security Contributions and Benefits Act 1992[^f00039];
+  - (b) in the case of state pension credit, in regulation 4A of the SPC Regulations[^f00040];
+  - (c) in the case of universal credit, in regulation 5 of the UC Regulations;
+- “relevant accommodation” means the accommodation which the claimant occupies, or is treated as occupying, as the claimant’s home under Schedule 3;
+- “relevant date”, apart from in regulation 21, means the first day with respect to which a claimant’s liability to make owner-occupier payments is met by a loan payment;
+- “single claimant” means—[^key-10a78266f65c18873237255d195667e0]
+  - (a) an individual who has made a claim for, and is entitled to, a qualifying benefit;
+  - (b) an individual who has made a claim for, but is not entitled to, a legacy benefit or state pension credit by reason only that the individual has, or, if the individual is a member of a couple, they have, income—
+    - (i) equal to or exceeding the applicable amount, but
+    - (ii) less than the sum of that applicable amount and the amount of a loan payment applicable to the individual;
+- “single person” means an individual who is not a member of a couple;
+- “SPC claimant” means a claimant who is entitled to, or is treated as entitled to,[^key-41f7f1f3d792aff695ef37830c7cb7ab] state pension credit;
+- “SPC Regulations” means the State Pension Credit Regulations 2002[^f00041];
+- “standard security” has the meaning in Part 2 of the Conveyancing and Feudal Reform (Scotland) Act 1970[^f00042];
+- “transitional end day” has the meaning given in regulations 19(1), 19A(1) and (5)[^key-4746e861e29da994b843f317cd4c0662] and 20(2);
+- “Transitional Provisions Regulations” means the Universal Credit (Transitional Provisions) Regulations 2014[^f00043];
+- “UC claimant” means a claimant who is entitled to universal credit;
+- “UC Regulations” means the Universal Credit Regulations 2013[^f00044]; and
+- “unearned income” has the meaning given in Chapter 3 of Part 6 of the UC Regulations.
+
+(2) For the purposes of these Regulations, a reference to—
+
+- (a) entitlement to a qualifying benefit is to be read as a reference to entitlement as determined under the ESA Regulations, IS Regulations, JSA Regulations, SPC Regulations and UC Regulations;
+- (aa)[^key-8b58f362202aca14e48faf3aeef944a1] a person being treated as entitled to a qualifying benefit is to be read as a reference to a person who satisfies sub-paragraph (a)(ii) of the definition of “joint claimants” or sub-paragraph (b) of the definition of “single claimant”, except in the definition of “qualifying period”, regulation 21(5)(b) and paragraph 3 of Schedule 1;
+- (b) the claimant’s family or to being a member of the claimant’s family means a reference to the claimant’s partner and any child or qualifying young person who is the responsibility of the claimant or the claimant’s partner, where that child or qualifying young person is a member of the claimant’s household;
+- (c) a person being responsible for a child or qualifying young person is to be read as a reference to a person being treated as responsible for a child or qualifying young person in the circumstances specified in—
+  - (i) in the case of employment and support allowance, regulation 156(10) of the ESA Regulations[^f00045];
+  - (ii) in the case of income support, regulation 15 of the IS Regulations[^f00046];
+  - (iii) in the case of jobseeker’s allowance, regulation 77 of the JSA Regulations[^f00047];
+  - (iv) in the case of state pension credit and universal credit, regulation 4 of the UC Regulations[^f00048];
+- (d) a person being a member of a household is to be read as a reference to a person being treated as a member of the household in the circumstances specified in—
+  - (i) in the case of employment and support allowance, in regulation 156 of the ESA Regulations[^f00049];
+  - (ii) in the case of income support, in regulation 16 of the IS Regulations[^f00050];
+  - (iii) in the case of jobseeker’s allowance, in regulation 78 of the JSA Regulations[^f00051];
+  - (iv) in the case of state pension credit and universal credit, in regulation 5 of the SPC Regulations[^f00052];
+- (e) a person being engaged in remunerative work is to be read as a reference to a person being treated as engaged in remunerative work—
+  - (i) in the case of employment and support allowance, in regulations 41 to 43 of the ESA Regulations[^f00053];
+  - (ii) in the case of income support, in regulations 5 and 6 of the IS Regulations[^f00054];
+  - (iii) in the case of jobseeker’s allowance, in regulations 51 to 53 of the JSA Regulations[^f00055];
+  - (iv) in the case of state pension credit, in paragraph 2 of Schedule 2 to the SPC Regulations[^f00056].
+
+## 3. The offer of loan payments
+
+(1) The Secretary of State may make an offer of loan payments to a claimant in respect of any owner-occupier payments the claimant is, or is to be treated as, liable to make in respect of the accommodation which the claimant is, or is to be treated as, occupying as the claimant’s home[^key-cf4b90daa703c72fcd84a5ffeb823f0e]....
+
+(2) For the purposes of paragraph (1)—
+
+- (a) owner-occupier payments are—
+  - (i) in the case of a legacy benefit claimant or SPC claimant, payments within the meaning of Part 1 of Schedule 1;
+  - (ii) in the case of a UC claimant, payments within the meaning of Part 2 of Schedule 1;
+- (b) the circumstances in which a claimant is, or is to be treated as, liable to make owner-occupier payments are—
+  - (i) in the case of a legacy benefit claimant or SPC claimant, the circumstances specified in Part 1 of Schedule 2;
+  - (ii) in the case of a UC claimant, the circumstances specified in Part 2 of Schedule 2;
+- (c) the circumstances in which a claimant is, or is to be treated as, occupying accommodation as the claimant’s home are—
+  - (i) in the case of a legacy benefit claimant or SPC claimant, the circumstances specified in Part 2 of Schedule 3;
+  - (ii) in the case of a UC claimant, the circumstances specified in Part 3 of Schedule 3.
+
+(3) Where the liability for owner-occupier payments is shared with a person not in the benefit unit, the claimant shall be, or shall be treated as, liable to make owner-occupier payments by reference to the appropriate proportion of the payments for which the claimant is responsible.
+
+(4)[^key-852919337728908d379e5ae120ebe3ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Acceptance of loan payments offer
+
+The offer of loan payments is accepted where the Secretary of State has received the loan agreement signed by, in the case of a single claimant, the claimant and his or her partner (if any), or, in the case of joint claimants, each member of the couple, and the documents referred to in regulation 5(2).
+
+## 5. Conditions to meet before the loan payments can be made
+
+(1) The Secretary of State may make the loan payments if—
+
+- (a) the loan payments offer is accepted in accordance with regulation 4; and
+- (b) the conditions in paragraph (2) are met.
+
+(2) The conditions are—
+
+- (a) in England and Wales—
+  - (i) where all of the legal owners are within the benefit unit, each legal owner has executed a charge by way of legal mortgage in favour of the Secretary of State in respect of the relevant accommodation;
+  - (ii) where one or more legal owners are not within the benefit unit, each legal owner within the benefit unit (if any) has executed an equitable charge in respect of their beneficial interest in the relevant accommodation;
+- (b) in Scotland, each legal owner within the benefit unit has executed a standard security in respect of his or her interest in the relevant accommodation;
+- (c) the Secretary of State has obtained the written consent referred to in paragraph (3); and
+- (d) the information condition in regulation 6 is met within the period of 6 months ending with the day on which the loan payments offer is accepted.
+
+(3) The consent required by paragraph (2)(c) is consent given in writing to the creation of the charge or, in Scotland, the standard security by any person in the benefit unit in occupation of the relevant accommodation, who is not a legal owner.
+
+## 6. Information condition
+
+(1) The information condition is that the Secretary of State has provided relevant information about the loan payments to a single claimant and his or her partner (if any) or each joint claimant.
+
+(2) For the purposes of this regulation, “relevant information” is information about the loan payments which must include—
+
+- (a) a summary of the terms and conditions included within the loan agreement;
+- (b) where the circumstances in regulation 5(2)(a)(i) or (b) apply, an explanation that the Secretary of State will seek to obtain a charge or, in Scotland, a standard security in respect of the relevant accommodation;
+- (c) an explanation of the consent referred to in regulation 5(3); and
+- (d) information as to where a single claimant and his or her partner (if any) or each joint claimant can obtain further information and independent legal and financial advice regarding loan payments.
+
+## 7. Time of each loan payment
+
+Each loan payment shall be made—
+
+- (a) in the case of a UC claimant, at monthly intervals in arrears; and
+- (b)[^key-dac04a145d9081e4f6a138540cba58a0] in the case of a legacy benefit claimant or SPC claimant, at 4 weekly intervals in arrears.
+
+## 8. Period covered by loan payments
+
+(1) The period in respect of which the loan payments shall be made shall begin on the later of—
+
+- (a) 6th April 2018;
+- (b) in the case of a UC claimant or legacy benefit claimant, , except where sub-paragraph (ba) or (bb) applies,[^key-f30816e79cf40c95eb53ff474f34295e] the day after the day on which the qualifying period ends;
+- (ba)[^key-5e58ed77e23e0e9b5f5a6c364d84938f] in the case of a couple where one member is an SPC claimant receiving loan payments, the first day of entitlement to universal credit as a couple;
+- (bb) in the case of a couple where one member was formerly an SPC claimant receiving loan payments, the first day of entitlement to universal credit as a couple, if the first day of that entitlement is within the period of one month beginning with the day on which the entitlement to state pension credit ended;
+- (c)[^key-5ed81daa1feb8fdf495ed77375291b06] in the case of an SPC claimant (who is not in a couple)[^key-db8fe8380b4663149fafbbf82aac4fa1], the first day of entitlement to state pension credit;
+- (d) the transitional end day;[^key-3b361010899a88b850517ba494181ce4]
+- (e) a date requested by the claimant.
+
+(2)[^key-3ce5d4d229ec5c888af7516b27601d16] If the day referred to in sub-paragraphs (a), (b), (c) and (e) of paragraph (1)[^key-cbca6fe126374bbdd405163f3e372b4b] is not the first day of the claimant’s benefit week, in the case of a legacy benefit claimant or SPC claimant, or assessment period, in the case of a UC claimant, the day referred to shall be the first day of the first benefit week or first assessment period that begins after that date.
+
+(3)[^key-fc195898d88576ba77b46315506b6f8c] In this regulation, “**couple**” means a couple entitled to universal credit as joint claimants under regulation 3(2)(a) of the UC Regulations.
+
+## 9. Duration of loan payments
+
+(1) Subject to paragraph (2), loan payments shall continue to be made indefinitely at the intervals specified in regulation 7.
+
+(2) If one of the circumstances in paragraph (3) occurs, the Secretary of State shall terminate the loan payments immediately but subject to paragraph (4).
+
+(3) The circumstances are that—
+
+- (a) the claimant ceases to be entitled to, or treated as entitled to,[^key-87d7b66fe093e7faff8c5c1978b9474b] a qualifying benefit;
+- (b) the claimant ceases to be, or to be treated as, liable to make owner-occupier payments under Schedule 2;
+- (c) the claimant ceases to be, or to be treated as, occupying the relevant accommodation under Schedule 3;
+- (d) the loan agreement is terminated in accordance with its terms;
+- (e)[^key-d582697994ec00a98d361d57b4323415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The Secretary of State shall make the loan payments direct to the claimant for the period specified in paragraph (6) if—
+
+- (a) a claimant ceases to be entitled to a legacy benefit by reason that, in the case of a single claimant, the claimant or his or her partner (if any), or, in the case of joint claimants, either member of the couple, is engaged in remunerative work; and
+- (b) the conditions in paragraph (5) are met.
+
+(5) The conditions are that, in the case of a single claimant, the claimant or his or her partner (if any), or, in the case of joint claimants, either member of the couple—
+
+- (a) is engaged in remunerative work which is expected to last for a period of no less than 5 weeks;
+- (b) is still liable or treated as liable to make owner-occupier payments under Schedule 2;
+- (c) has, for a continuous period of 26 weeks ending with the day on which he or she commences the work referred to in sub-paragraph (a), been entitled to a legacy benefit; and
+- (d) was, on the day before the day on which he or she commenced the work referred to in sub-paragraph (a), receiving loan payments under these Regulations.
+
+(6) The period specified is the period of 4 weeks commencing with the day on which the relevant person is first engaged in remunerative work.
+
+(7)[^key-4529927cd38e09bfdfb257f0d0a87f6e] If a legacy benefit claimant ceases to be entitled to, or treated as entitled to, a legacy benefit (“the old entitlement”) but becomes entitled, or treated as entitled, again to the benefit (“the new entitlement”) within the period of 52 weeks beginning with the day on which the claimant ceased to be entitled, or treated as entitled, to the old entitlement, and the claimant wishes to receive loan payments on the basis of the new entitlement, there is no requirement for the claimant to serve a new qualifying period.
+
+(8) If a UC claimant ceases to be entitled to universal credit (“the old entitlement”) but becomes entitled again to universal credit (“the new entitlement”) within the period of 6 months beginning with the day on which the claimant ceased to be entitled to the old entitlement, and the claimant wishes to receive loan payments on the basis of the new entitlement, there is no requirement for the claimant to serve a new qualifying period.
+
+## 10. Calculation of each loan payment
+
+Subject to any deduction under regulation 14 or 14A[^key-d56abdebf9f16eb1e4a9d48c55e36224], each loan payment shall be the aggregate of the amounts resulting from regulations 11 and 12.
+
+## 11. Calculation in respect of qualifying loans
+
+(1) Subject to paragraphs (3) and (4), the amount to be included in each loan payment for owner-occupier payments which are payments of interest on qualifying loans is determined as follows.
+
+Step 1
+
+Determine the amount of capital for the time being owing in connection with each qualifying loan to which the owner-occupier payments relate.
+
+Step 2
+
+If there is more than one qualifying loan, add together the amounts determined in step 1.
+
+Step 3
+
+Determine the identified amount which is the lower of—
+
+- (a) the amount resulting from step 1 or 2; and
+- (b) the capital limit specified in paragraph (2)(a) or (b).
+
+If both amounts in (a) and (b) are the same, that is the identified amount.
+
+Step 4
+
+In respect of a legacy benefit claimant or SPC claimant, apply the following formula to achieve a weekly sum—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2017/725)
+
+In respect of a UC claimant, apply the following formula to achieve a monthly sum —
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2017/725)
+
+- In either case—
+- “A” is the identified amount in step 3,
+- “SR” is the standard rate that applies at the end of the calculation (see regulation 13), and
+- “I” is the amount of any income, in the case of a legacy benefit or SPC claimant, or unearned income, in the case of a UC claimant, above the claimant’s applicable amount.
+
+The result is the amount to be included in each loan payment for owner-occupier payments which are payments of interest on qualifying loans.
+
+(2) The capital limit is—
+
+- (a) £200,000—
+  - (i) in the case of a legacy benefit claimant or SPC claimant where the Modified Rules apply;
+  - (ii) in the case of a UC claimant;
+- (b) £100,000 in all other cases.
+
+(3) In the application of paragraph (2) to a qualifying loan (or any part of a qualifying loan) which was taken out for the purpose of making necessary adaptations to the accommodation to meet the needs of a disabled person—
+
+- (a) the qualifying loan (or the part of the qualifying loan) is to be disregarded for the purposes of steps 2 and 3; and
+- (b) “A” in step 4 is to be read as the amount resulting from step 1 in respect of the qualifying loan (or the sum of those amounts if there is more than one qualifying loan taken out for the purpose of making such adaptations) plus the amount (if any) resulting from step 3 in relation to any other qualifying loan or loans.
+
+(4) Subject to paragraph (5), any variation in the amount of capital for the time being owing in connection with a qualifying loan is not to be taken into account after the relevant date until such time as the Secretary of State recalculates the amount which shall occur—
+
+- (a) on the first anniversary of the relevant date; and
+- (b) in respect of any variation after the first anniversary, on the next anniversary which follows the date of the variation.
+
+(5) In respect of an existing claimant, the Secretary of State shall recalculate the amount of capital owing in connection with a qualifying loan on the anniversary of the date on which the claimant’s qualifying benefit first included an amount for owner-occupier payments.
+
+## 12. Calculation in respect of alternative finance payments
+
+(1) The amount to be included in each loan payment for owner-occupier payments which are alternative finance payments is determined as follows.
+
+Step 1
+
+Determine the purchase price of the accommodation to which the alternative finance payments relate.
+
+Step 2
+
+Determine the identified amount which is the lower of—
+
+- (a) the amount resulting from step 1; and
+- (b) the capital limit specified in paragraph (2)(a) or (b).
+
+If both amounts are the same, that is the identified amount.
+
+Step 3
+
+In respect of an SPC claimant, apply the following formula to achieve a weekly sum—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2017/725)
+
+In respect of a UC claimant, apply the following formula to achieve a monthly sum—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2017/725)
+
+- In either case—
+- “A” is the identified amount in step 2,
+- “SR” is the standard rate that applies at the date of the calculation (see regulation 13), and
+- “I” is the amount of any income, in the case of an SPC claimant, or unearned income, in the case of a UC claimant, above the claimant’s applicable amount.
+
+The result is the amount to be included in each loan payment for owner-occupier payments which are alternative finance payments.
+
+(2) The capital limit is—
+
+- (a) £200,000 in the case of an SPC claimant where the Modified Rules apply or a UC claimant;
+- (b) £100,000 in all other cases.
+
+(3) For the purposes of paragraph (1), “purchase price” means the price paid by a party to the alternative finance arrangements other than the claimant in order to acquire the interest in the accommodation to which those arrangements relate less—
+
+- (a) the amount of any initial payment made by the claimant in connection with the acquisition of that interest; and
+- (b) the amount of any subsequent payments made by the claimant or any partner to another party to the alternative finance arrangements before—
+  - (i) the relevant date; or
+  - (ii) in the case of an existing claimant, the date on which the claimant’s qualifying benefit first included an amount for owner-occupier payments,
+
+  which reduce the amount owed by the claimant under the alternative finance arrangements.
+
+(4) Subject to paragraph (5), any variation in the amount for the time being owing in connection with alternative finance arrangements is not to be taken into account after the relevant date until such time as the Secretary of State recalculates the amount which shall occur—
+
+- (a) on the first anniversary of the relevant date; and
+- (b) in respect of any variation after the first anniversary, on the next anniversary which follows the date of the variation.
+
+(5) In respect of an existing claimant, the Secretary of State shall recalculate the amount for the time being owing in connection with alternative finance arrangements[^key-107f5c717bbee9c763c1b6ee2d4ec1b3] on the anniversary of the date on which the claimant’s qualifying benefit first included an amount for owner-occupier payments.
+
+## 13. Standard rate to be applied under regulations 11 and 12
+
+(1) The standard rate is the average mortgage rate published by the Bank of England which has effect on the 5th April 2018.
+
+(2) The standard rate is to be varied each time that paragraph (3) applies.
+
+(3) This paragraph applies when, on any reference day, the Bank of England publishes an average mortgage rate which differs by 0.5 percentage points or more from the standard rate that applies on that reference day (whether it applies by virtue of paragraph (1) or by virtue of a previous application of this paragraph).
+
+(4) The average mortgage rate published on that reference day then becomes the new standard rate in accordance with paragraph (5).
+
+(5) Any variation in the standard rate by virtue of paragraphs (2) to (4) shall come into effect at the end of the period of 6 weeks beginning with the day referred to in paragraph (3).
+
+(6) At least 7 days before a variation of the standard rate comes into effect under paragraph (5), the Secretary of State must arrange for notice to be published on a publicly accessible website of—
+
+- (a) the new standard rate; and
+- (b) the day on which the new standard rate comes into effect under paragraph (5).
+
+(7) For the purposes of this Regulation—
+
+- “average mortgage rate” means the effective interest rate (non-seasonally adjusted) of United Kingdom resident banks and building societies for loans to households secured on dwellings, published by the Bank of England in respect of the most recent period specified for that rate at the time of publication; and
+- “reference day” means any day falling on or after 6th April 2018.
+
+## 14. Non-dependant deductions
+
+(1) In the case of a legacy benefit claimant or SPC claimant, a deduction from each loan payment shall be made in respect of any non-dependant in accordance with paragraph (2).
+
+(2) The amount to be deducted is calculated as follows.
+
+Step 1
+
+Identify the amount which is the sum of the loan payment calculated under regulation 10 and the amount of housing costs (if any) paid to a claimant under—
+
+- (a) paragraph 17 of Schedule 3 to the IS Regulations[^f00058];
+- (b) paragraph 16 of Schedule 2 to the JSA Regulations[^f00059];
+- (c) paragraph 18 of Schedule 6 to the ESA Regulations; or
+- (d) paragraph 13 of Schedule 2 to the SPC Regulations[^f00060].
+
+Step 2
+
+Identify the total amount of the non-dependant deductions applicable to the claimant under—
+
+- (a) paragraph 18 of Schedule 3 to the IS Regulations[^f00061];
+- (b) paragraph 17 of Schedule 2 to the JSA Regulations[^f00062];
+- (c) paragraph 19 of Schedule 6 to the ESA Regulations[^f00063]; or
+- (d) paragraph 14 of Schedule 2 to the SPC Regulations[^f00064].
+
+Step 3
+
+Identify the proportion of the non-dependant deductions applicable to the loan payment and housing costs (if any) in Step 1 by applying the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2017/725)
+
+where—
+
+- “A” is the total amount of the non-dependant deductions identified in Step 2,
+- “B” is the amount of the loan payment calculated under regulation 10, and
+- “C” is the amount identified in Step 1.
+
+The result is the amount of the non-dependant deduction to be made from each loan payment in the case of a legacy benefit claimant or SPC claimant.
+
+## 14A. Insurance payment deduction[^key-f8be72b6a274d0ec2b4b923705949345]
+
+(1) In the case of a legacy benefit claimant or UC claimant, where the claimant or the claimant’s partner is in receipt of a payment under a policy of insurance taken out to insure against the risk of being unable to maintain owner-occupier payments within the meaning of Schedule 1, a deduction from the loan payment calculated under regulation 10 shall be made equal to the amount received in respect of owner-occupier payments.
+
+(2) Where the amount referred to in paragraph (1) is equal to or more than the loan payment, the amount of the loan payment shall be zero.
+
+## 15. Interest
+
+(1) The Secretary of State shall charge interest on the sum of the loan payments until the earlier of—
+
+- (a) the day on which the loan payments and accrued interest are repaid in full;
+- (b) the event referred to in regulation 16(1)(c);[^key-356901ffb300ca317d9160bd65888845]
+- (c) where the conditions in paragraph (1A) are met, the day on which the Secretary of State sends a completion statement to the claimant.
+
+(1A)[^key-3c85c3f1531bd7e613b2e4ec07c3b2f1] The conditions are—
+
+- (a) the claimant requests a completion statement from the Secretary of State in order to repay all of the outstanding amount in accordance with regulation 16(8) and (9); and
+- (b) the outstanding amount is paid within 30 days beginning with the day on which the completion statement is sent by the Secretary of State to the claimant.
+
+(1B) Where regulation 16(3) applies, the Secretary of State shall continue to charge interest on the outstanding amount until the day referred to in regulation 15(1).
+
+(2) Interest at the relevant rate shall accrue daily, with effect from the first day a loan payment is made to a qualifying lender or the claimant under regulation 17, and shall be added to the outstanding amount at the end of each month (or part month).
+
+(3) The relevant rate is the interest rate for the relevant period.
+
+(4) For the purposes of this regulation and regulations 16 and 16A[^key-d4e648cbf3209874fbde52d541704bc7], the outstanding amount is the sum of the loan payments and interest which has been charged under paragraph (1).
+
+(4A)[^key-fde95784ed1f250b95640af74fc49420] For the purposes of this regulation, a “completion statement” means a written statement setting out the outstanding amount owed by the claimant to the Secretary of State.
+
+(5) The interest rate referred to in paragraph (3) is the weighted average interest rate on conventional gilts specified in the most recent report published before the start of the relevant period by the Office for Budget Responsibility under section 4(3) of the Budget Responsibility and National Audit Act 2011[^f00065].
+
+(6) The relevant period is the period starting on—
+
+- (a) 1st January and ending on 30th June in any year; or
+- (b) 1st July and ending on 31st December in any year.
+
+## 16. Repayment
+
+(1) Subject to regulation 16A, the outstanding amount[^key-90b04fed5a0288860eb63dc9ebc5c537] shall become immediately due and payable, together with any further interest which accrues on that amount under regulation 15, where one of the following events occurs—
+
+- (a) the relevant accommodation is sold;
+- (b) legal or beneficial title in, or in Scotland, heritable or registered title to, the relevant accommodation is transferred, assigned or otherwise disposed of, unless paragraph (3) applies;
+- (c)[^key-1167f8eb88dac047d3da508e332a5faf] in the case of—
+  - (i) a claimant who is the sole legal owner of the relevant accommodation or the legal owner of the accommodation with someone other than a partner, the claimant’s death;
+  - (ii) a claimant with a partner who is the sole legal owner of the relevant accommodation or the legal owner of the accommodation with someone other than the claimant, the partner’s death; or
+  - (iii) a claimant and partner who are both legal owners (whether or not with anyone else) of the relevant accommodation, the death of the last member of the couple.
+
+(2) Subject to paragraphs (4) to (7), repayment shall occur—
+
+- (a) in the event described in paragraph (1)(a) or (b), from the proceeds of sale, transfer, assignment or disposition;
+- (b) in the event described in paragraph (1)(c), from the relevant person’s estate.
+
+(3) This paragraph applies where legal or beneficial title is transferred to—
+
+- (a) the claimant’s partner, following the death of the claimant, where the partner is in occupation of the relevant accommodation; or
+- (aa)[^key-f77bdbe2eee4f71a7e3f838914dfd996] the claimant, following the death of the claimant’s partner, where the claimant is in occupation of the relevant accommodation; or
+- (b) the claimant, from a former spouse or civil partner, under a court order or an agreement for maintenance where the claimant is in occupation of the relevant accommodation.
+
+(4) Where, in England and Wales—
+
+- (a) the Secretary of State has a charge by way of legal mortgage over the relevant accommodation; and
+- (b) there is insufficient equity available in the relevant accommodation to discharge the outstanding amount,
+
+repayment shall be limited to the amount of available equity in the relevant accommodation after any prior ranking charges by way of legal mortgage have been repaid, and, in the event described in paragraph (1)(c), this shall be taken to be the amount of equity at the date of death of the relevant person.
+
+(5) Where, in England and Wales—
+
+- (a) the Secretary of State has an equitable charge over one legal owner’s equitable interest in the relevant accommodation, repayment shall be limited to the amount of that legal owner’s equitable interest in the relevant accommodation and, in the event described in paragraph (1)(c), this shall be taken to be the value of that equitable interest at the date of death of the relevant person;
+- (b) the Secretary of State has an equitable charge over more than one legal owner’s equitable interest in the relevant accommodation, repayment shall be limited to the sum of the equitable interests in the relevant accommodation of all legal owners within the benefit unit and, in the event described in paragraph (1)(c), this shall be taken to be the value of those equitable interests at the date of death of the relevant person.
+
+(6) Where, in Scotland—
+
+- (a) the Secretary of State has a standard security over the whole or part of the relevant accommodation; and
+- (b) there is insufficient equity available in the whole or part of the relevant accommodation over which the standard security is held,
+
+repayment shall be limited to the amount of available equity in the whole or part of the relevant accommodation over which the standard security is held after any prior ranking standard securities have been repaid, and, in the event described in paragraph (1)(c), this shall be taken to be the amount of equity at the date of death of the relevant person.
+
+(7) In the event that the relevant accommodation is sold or legal or beneficial title in, or in Scotland, heritable or registered title to, the relevant accommodation is transferred, assigned or otherwise disposed of for less than market value, the disposal shall be treated as if it occurred at market value for the purposes of repayment.
+
+(8) Subject to paragraph (9), a claimant shall be permitted to repay some or all of the outstanding amount before an event in paragraph (1) occurs if the amount of each repayment is equal to or more than £100.
+
+(9) Where the outstanding amount is less than £100, a claimant shall be permitted to repay that sum in full in one repayment.
+
+## 16A. Transferring the loan between properties[^key-239766d7ff9f933b4aa2dd006f0409f6]
+
+(1) Subject to paragraph (6), where the conditions in paragraphs (2) and (3) are met, regulation 16 (repayment) applies in relation to the new property referred to in paragraph (2) instead of in relation to the relevant accommodation (“Property 1”).
+
+(2) The first condition is that the claimant or the claimant’s partner informs the Secretary of State that it is proposed to sell Property 1, and requests that the outstanding amount be transferred from Property 1 to a new property (“Property 2”).
+
+(3) The second condition is that prior to the completion of the sale of Property 1—
+
+- (a) the conveyancer dealing with the sale of the property has provided a written undertaking to the Secretary of State to do the following—
+  - (i) to discharge the charge (in England and Wales), if any, or standard security (in Scotland), if any, in favour of the Secretary of State; and
+  - (ii) to transfer the outstanding amount to the conveyancer for the claimant or the claimant’s partner, if not also acting on their behalf; and
+- (b) the conveyancer for the claimant or the claimant’s partner has provided a written undertaking to the Secretary of State to do the following—
+  - (i) to register a new charge (in England and Wales) or standard security (in Scotland) in favour of the Secretary of State for the outstanding amount in respect of Property 2; and
+  - (ii) if completion of the sale and completion of the purchase do not happen simultaneously to hold the outstanding amount to the order of the Secretary of State until completion of the purchase of Property 2.
+
+(4) Where the Secretary of State meets the reasonable costs incurred by the conveyancer for the claimant or the claimant’s partner for the purpose of transferring the loan from Property 1 to Property 2—
+
+- (a) these costs may be added to the outstanding amount of the loan; and
+- (b) any costs added to the outstanding amount are to be considered as a loan payment for the purpose of accruing interest under regulation 15.
+
+(5) For the purposes of sub-paragraphs (a)(ii) and (b)(ii) of paragraph (3)—
+
+- (a) in England and Wales, where the available equity in Property 1 as referred to in regulation 16(4), or, as the case may be, the amount of the equitable interest or interests, as referred to in regulation 16(5), is or are less than the outstanding amount, the reference in those sub-paragraphs to the outstanding amount is a reference to the available equity or to the amount of the equitable interest or interests, as the case may be; and
+- (b) in Scotland, where the available equity in the whole or part of Property 1 over which the standard security is held, as referred to in regulation 16(6), is less than the outstanding amount, the reference in those sub-paragraphs to the outstanding amount is a reference to the available equity.
+
+(6) If completion in respect of Property 2 does not take place within twelve weeks beginning with the date that completion of the sale of Property 1 occurs or by such later date as the Secretary of State may agree then paragraph (1) does not apply and the outstanding amount under regulation 16, together with any future interest which accrues on that amount under regulation 15, shall be immediately due and payable.
+
+(7) For the purposes of this regulation references to a claimant includes a former claimant.
+
+(8) Where, under paragraph (1), the provisions of regulation 16 apply in relation to Property 2, this regulation applies as if any reference to the relevant accommodation were a reference to Property 2 (with no limit to the number of times this regulation may be treated as applying in relation to a new property).
+
+## 17. Direct payments to qualifying lenders
+
+(1) Where the circumstances specified in paragraph (2) are met, the loan payments must be made by the Secretary of State direct to a claimant’s lender.
+
+(2) The circumstances referred to in paragraph (1) are that—
+
+- (a) money was lent to the claimant in respect of which owner-occupier payments in respect of the relevant accommodation are payable to a qualifying lender; and
+- (b) those owner-occupier payments are taken into account in calculating the amount of each loan payment under regulation 10.
+
+(3) Where the circumstances in paragraph (2) are not met, the loan payments must be made to the claimant.
+
+(4) Schedule 4 has effect in relation to payments made under paragraph (1).
+
+## 18. Consequential amendments[^key-4d725b609af577b797662a72cd55be32]
+
+**May not be in force at this date. Check the source.**
+
+(1) Subject to paragraph (2) and regulations 19, 19A and 20, the amendments in Schedule 5 have effect.
+
+(2) The amendments made by Part 2 of Schedule 5 to the Social Security and Child Support (Decisions and Appeals) Regulations 1999 do not apply in relation to any decision or determination about an amount for owner-occupier payments under the substantive regulations as those regulations applied without the amendments made by Part 1 of Schedule 5.
+
+(3) In this regulation, the “substantive regulations” means the ESA Regulations, IS Regulations, JSA Regulations, SPC Regulations and UC Regulations.
+
+## 19. Transitional provision: loan offer made before 6th April 2018[^key-ba31efa918aa3f0f6cf66b3bea7617ef]
+
+**May not be in force at this date. Check the source.**
+
+(1) Subject to regulation 20, in relation to an existing claimant in a case where the loan payments offer date occurs before 6th April 2018, the amendments made by Schedule 5 shall be treated as though they did not have effect until the earlier of the following days (where that day occurs after 6th April 2018) (“the transitional end day”)—
+
+- (a) the day referred to in paragraph (2);
+- (b) the day after the day on which entitlement to a qualifying benefit ends.
+
+(2) The day referred to is the later of—
+
+- (a) in the case of—
+  - (i) a legacy benefit claimant or SPC claimant, where 6th April 2018 is not the first day of the claimant’s benefit week, the first day of the first benefit week that begins after 6th April 2018; or
+  - (ii) a UC claimant, where 6th April 2018 is not the first day of the claimant’s assessment period, the first day of the first assessment period that begins after 6th April 2018;
+- (b) the relevant day in paragraph (3).
+
+(3) The relevant day is the day after the day that is the earlier of—
+
+- (a) the day on which the Secretary of State receives notification from the claimant that the claimant does not wish to accept the offer of loan payments;
+- (b) the last day of the period of 4 weeks, beginning with the day after the day on which the Secretary of State has received both the loan agreement and the documents referred to in regulation 5(2), duly executed, where both the loan agreement and the documents are received within the period of 6 weeks beginning with the loan payments offer date; or
+- (c) the last day of the period of 6 weeks, beginning with the loan payments offer date, where the Secretary of State has not received both the loan agreement and the documents referred to in regulation 5(2), duly executed, within that period.
+
+(4) Where in the case of—
+
+- (a) a legacy benefit claimant or SPC claimant, the relevant day referred to in paragraph (3) is not the first day of the claimant’s benefit week, then the relevant day shall be the first day of the first benefit week that begins after the relevant day; or
+- (b) a UC claimant, the relevant day referred to in paragraph (3) is not the first day of the claimant’s assessment period, then the relevant day shall be the first day of the first assessment period that begins after the relevant day.
+
+## 19A. Transitional provision: loan offer made on or after 6th April 2018
+
+(1) Subject to regulation 20 and paragraph (4), in relation to an existing claimant in a case where the loan payments offer date does not occur before 6th April 2018, the amendments made by Schedule 5 shall be treated as though they did not have effect until the earlier of the following days (where that day occurs after 6th April 2018) (“the transitional end day”)—
+
+- (a) the relevant day in paragraph (2);
+- (b) the day after the day on which entitlement to a qualifying benefit ends;
+- (c) the day after the day on which the Secretary of State receives notification from the claimant that the claimant does not wish to receive loan payments.
+
+(2) The relevant day is—
+
+- (a) 7th May 2018; or
+- (b) where the loan payments offer date occurs before 7th May 2018, the relevant day in regulation 19(3)(b) and (c) and (4).
+
+(3) Where in the case of—
+
+- (a) a legacy benefit claimant or SPC claimant, the day referred to in paragraph (1)(c), or the relevant day as referred to in paragraph (2)(a), is not the first day of the claimant’s benefit week, then that day or that relevant day is the first day of the first benefit week that begins after that day or that relevant day; or
+- (b) a UC claimant, the day referred to in paragraph (1)(c), or the relevant day as referred to in paragraph (2)(a), is not the first day of the claimant’s assessment period, then that day or that relevant day is not the first day of the first assessment period that begins after that day or that relevant day.
+
+(4) Paragraphs (1) to (3) do not apply in relation to an existing claimant where, as at the end of 5th April 2018—
+
+- (a) the Secretary of State, or a person authorised to exercise functions of the Secretary of State, has, before 19th March 2018 made a request to the claimant, whether orally or in writing, to provide information that is needed in order for the Secretary of State or that person to—
+  - (i) take steps to ascertain whether the claimant wishes to receive an offer of loan payments or not; or
+  - (ii) be able to send to the claimant the loan agreement and documents referred to in regulation 5(2); and
+- (b) the claimant has not provided that information to the Secretary of State or that person.
+
+(5) Subject to regulation 20, in the case of an existing claimant referred to in paragraph (4), where 6th April 2018 is not the first day of the claimant’s benefit week, in the case of a legacy benefit or SPC claimant, or assessment period, in the case of a UC claimant, the amendments made by Schedule 5 shall be treated as though they did not have effect until the first day of the first benefit week or first assessment period that begins after that date (“the transitional end day”).
+
+## 20. Transitional provision: persons who lack capacity or may lack capacity identified before 6th April 2018
+
+**May not be in force at this date. Check the source.**
+
+(1) Paragraph (2) applies in relation to an existing claimant where, before 6th April 2018—
+
+- (a) the Secretary of State believes that the claimant is a person who lacks capacity to make some or all decisions about accepting an offer of loan payments; or
+- (b) on the basis of information received by the Secretary of State, the Secretary of State suspects that the claimant is a person who may lack such capacity,
+
+(a “relevant claimant”).
+
+(2) In relation to a relevant claimant, the amendments made by Schedule 5 shall be treated as though they were not in force until the day that is the earlier of (“the transitional end day”)—
+
+- (a) the relevant day in paragraph (3) or (8);
+- (b) the day after the day on which entitlement to a qualifying benefit ends.
+
+(3) Subject to paragraph (8), the relevant day is the later of—
+
+- (a) 5th November 2018;
+- (b) where, in a case where paragraph (1)(b) applies, the Secretary of State believes before 5th November 2018 that the claimant is a person who lacks capacity as referred to in paragraph (1)(a), the day after the last day of the period of 6 weeks beginning with the day on which the Secretary of State forms that belief;
+- (c) where an application for a decision referred to in paragraph (7) is made before the later of 5th November 2018 and the relevant day under sub-paragraph (b), the day after the day specified in paragraph (4).
+
+(4) The specified day is—
+
+- (a) the last day of the period of 6 weeks beginning with the day on which a person referred to in paragraph (7) (“relevant person”) makes a decision referred to in paragraph (7); or
+- (b) the last day of the period of 6 weeks beginning with the day on which a relevant person receives notification that the application for such a decision is withdrawn.
+
+(5) Where more than one application for a decision as referred to in paragraph (7) is made to a relevant person within the period referred to in paragraph (3)(c), then the periods in paragraph (4) do not start to run until the relevant person has made a decision with respect to the last of the applications to be dealt with, or the relevant person receives notification that all of the applications are withdrawn.
+
+(6) Where an application for a decision as referred to in paragraph (7) is made to more than one relevant person within the period referred to in paragraph (3)(c), then, where the specified day under paragraph (4) would be different as between the applications made to the different relevant persons, the specified day is the later of the two days.
+
+(7) The decisions referred to are—
+
+- (a) in England and Wales—
+  - (i) a decision by the Court of Protection whether or not to appoint a deputy under section 16(2) of the Mental Capacity Act 2005 with power to act on the claimant’s behalf in respect of accepting an offer of loan payments;
+  - (ii) a decision by the Court of Protection whether or not, by making an order under section 16(2) of the Mental Capacity Act 2005, to decide on behalf of the claimant to accept an offer of loan payments; or
+  - (iii) a decision by the Public Guardian whether or not to register a lasting power of attorney under the Mental Capacity Act 2005 where the power includes power to act on the claimant’s behalf with respect to accepting an offer of loan payments; or
+- (b) in Scotland—
+  - (i) a decision by the sheriff whether or not to make an order under section 58 of the Adults with Incapacity (Scotland) Act 2000 to appoint a guardian with power to act on the claimant’s behalf with respect to accepting an offer of loan payments;
+  - (ii) a decision by the sheriff whether or not, by making an intervention order under section 53 of the Adults with Incapacity (Scotland) Act 2000, to decide on behalf of the claimant to accept an offer of loan payments; or
+  - (ii) a decision by the sheriff or the Court of Session whether or not to make an order under the Judicial Factors Act 1849 to appoint a judicial factor with power to act on the claimant’s behalf with respect to accepting an offer of loan payments.
+
+(8) Where, in a case where paragraph (1)(b) applies, the Secretary of State believes before 5th November 2018 that the claimant is not a person who lacks capacity as referred to in paragraph (1)(a), the relevant day is the day after the earlier of—
+
+- (a) the day specified in paragraph (9);
+- (b) the day on which the Secretary of State receives notification from the claimant that the claimant does not wish to receive loan payments.
+
+(9) The specified day is—
+
+- (a) the last day of the period of 6 weeks beginning with the day on which the Secretary of State forms the belief in paragraph (8); or
+- (b) where the loan payments offer date occurs during the period in sub-paragraph (a), the day referred to in regulation 19(3)(b) and (c) and (4).
+
+(10) Where in the case of—
+
+- (a) a legacy benefit claimant or SPC claimant, the relevant day referred to in paragraph (3) or (8) is not the first day of the claimant’s benefit week, then the relevant day shall be the first day of the first benefit week that begins after the relevant day; or
+- (b) a UC claimant, the relevant day in paragraph (3) or (8) is not the first day of the claimant’s assessment period, then the relevant day shall be the first day of the first assessment period that begins after the relevant day.
+
+## 21. Transition from legacy benefit to universal credit
+
+**May not be in force at this date. Check the source.**
+
+(1) Paragraph (3) applies where—
+
+- (a) an award of universal credit is made to a claimant who—
+  - (i) was entitled to, or was treated as entitled to,[^key-f990d83f42c063ab1aa9ea68599ab1bb] a legacy benefit (a “relevant award”) at any time during the period of one month ending with the day on which the claim for universal credit was made or treated as made (or would have been so entitled were it not for termination of that award by virtue of an order made under section 150(3) of the Welfare Reform Act 2012[^f00070] or the effect of the Transitional Provisions Regulations [^f00071]); or
+  - (ii) was at any time during the period of one month ending with the day on which the claim for universal credit was made or treated as made, the partner of a person (“P”) who was at that time entitled to, or treated as entitled to,[^key-444e83f4a28312d058ceddc0d70fafeb] a relevant award, where the award of universal credit is not a joint award to the claimant and P;
+- (b) on the relevant date—
+  - (i) the relevant award included an amount in respect of housing costs under—
+    - (aa) paragraphs 14 to 16 of Schedule 2 to the JSA Regulations[^f00072];
+    - (bb) paragraphs 16 to 18 of Schedule 6 to the ESA Regulations; or
+    - (cc) paragraphs 15 to 17 of Schedule 3 to the IS Regulations[^f00073]; or
+  - (ii) the claimant was entitled to loan payments under these Regulations; and
+- (c) the amendments made by Schedule 5 apply in relation to the award of universal credit.
+
+(2) In this regulation, the “relevant date” means—
+
+- (a) where paragraph (1)(a)(i) applies and the claimant was not entitled to, or treated as entitled to,[^key-442dda13b1f10a186fee9420e3f0809c] the relevant award on the date on which the claim for universal credit was made or treated as made, the date on which the relevant award terminated;
+- (b) where paragraph (1)(a)(i) applies, the claimant is not a new claimant partner and he or she was entitled to, or treated as entitled to,[^key-bc6873c9322d564e7661b0ee439e22e9] the relevant award on the date on which the claim for universal credit was made, that date;
+- (c) where paragraph (1)(a)(i) applies, the claimant is a new claimant partner and he or she was entitled to, or treated as entitled to,[^key-1ba139f62cc4b656920c14ae4cc2cc27] the relevant award on the date on which the claim for universal credit was treated as made, that date;
+- (d) where paragraph (1)(a)(ii) applies, the date on which the claimant ceased to be the partner of P or, if earlier, the date on which the relevant award terminated.
+
+(3) Where this paragraph applies, regulation 8(1)(b) does not apply.
+
+(4) Paragraph (5) applies where paragraph (1)(a) applies and the amendments made by Schedule 5 apply in relation to the award of universal credit, but—
+
+- (a) the relevant award did not include an amount in respect of housing costs because the claimant’s entitlement (or, as the case may be, P’s entitlement) was nil by virtue of—
+  - (i) paragraph 7(1)(b) of Schedule 2 to the JSA Regulations[^f00074];
+  - (ii) paragraph 9(1)(b) of Schedule 6 to the ESA Regulations[^f00075]; or
+  - (iii) paragraph 8(1)(b) of Schedule 3 to the IS Regulations[^f00076]; or
+- (b) the amendments made by Schedule 5 applied in relation to the relevant award but the claimant was not entitled to loan payments by virtue of regulation 8(1)(b).
+
+(5) Where this paragraph applies—
+
+- (a) the definition of “qualifying period” in regulation 2(1) does not apply; and
+- (b) “qualifying period” means the period of 273 days starting with the first day on which the claimant (or, as the case may be, P) was entitled to the relevant award, taking into account any period which was treated as a period of continuing entitlement under—
+  - (i) paragraph 13 of Schedule 2 to the JSA Regulations[^f00077];
+  - (ii) paragraph 15 of Schedule 6 to the ESA Regulations[^f00078]; or
+  - (iii) paragraph 14 of Schedule 3 to the IS Regulations[^f00079],
+
+  provided that, throughout that part of the qualifying period after the award of universal credit is made, receipt of universal credit is continuous and the claimant otherwise qualifies for loan payments under these Regulations.
+
+(6) Paragraph (7) applies where—
+
+- (a) a claimant has an award of universal credit which becomes subject to the amendments made by Schedule 5; and
+- (b) regulation 29 of the Transitional Provisions Regulations[^f00080] applied in relation to the award.
+
+(7) Where this paragraph applies—
+
+- (a) where paragraph (3) of regulation 29 of the Transitional Provisions Regulations applied in relation to the award, regulation 8(1)(b) does not apply; and
+- (b) where paragraph (5) of regulation 29 of the Transitional Provisions Regulations applied in relation to the award, paragraph (5) of this regulation applies in relation to the award.
+
+## 22. Delegation
+
+A function of the Secretary of State under these Regulations may be exercised by a person authorised for that purpose by the Secretary of State.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Caroline Dinenage
+
+Parliamentary Under-Secretary of State
+
+Department for Work and Pensions
+
+## SCHEDULE 1 — Meaning of owner-occupier payments
+
+Regulation 3(2)(a)
+
+### PART 1 — Legacy benefit claimants and SPC claimants
+
+#### 1. Application of Part 1
+
+This Part applies to legacy benefit claimants and SPC claimants.
+
+#### 2. Payments of interest on qualifying loans and alternative finance payments
+
+(1) “Owner-occupier payments” means—
+
+- (a) payments of interest on a loan which qualifies under sub-paragraph (2) or (4); and
+- (b) in respect of an SPC claimant only, alternative finance payments within the meaning of paragraph 5(3).
+
+(2) A loan qualifies under this sub-paragraph where the loan was taken out to defray monies applied for any of the following purposes—
+
+- (a) acquiring an interest in the relevant accommodation; or
+- (b) paying off another loan which would have qualified under paragraph (a) had it not been paid off.
+
+(3) For the purposes of sub-paragraph (2), references to a loan also include a reference to money borrowed under a hire purchase agreement, as defined in section 189 of the Consumer Credit Act 1974[^f00081], for any purpose specified in paragraph (a) or (b) of sub-paragraph (2).
+
+(4) A loan qualifies under this sub-paragraph if it was taken out, with or without security, for the purpose of—
+
+- (a) carrying out repairs and improvements to the relevant accommodation;
+- (b) paying any service charge imposed to meet the cost of repairs and improvements to the relevant accommodation;
+- (c) paying off another loan that would have qualified under paragraphs (a) and (b) had it not been paid off,
+
+as long as the loan is used for that purpose within 6 months beginning with the date of receipt or as soon as reasonably practicable.
+
+(5) In sub-paragraph (4), “repairs and improvements” means any of the following measures undertaken with a view to maintaining the fitness of the relevant accommodation, or any part of the building containing the relevant accommodation, for human habitation—
+
+- (a) provision of a fixed bath, shower, wash basin, sink or lavatory, and necessary associated plumbing, including the provision of hot water not connected to a central heating system;
+- (b) repairs to existing heating systems;
+- (c) damp proof measures;
+- (d) provision of ventilation and natural lighting;
+- (e) provision of drainage facilities;
+- (f) provision of facilities for preparing and cooking food;
+- (g) provision of insulation;
+- (h) provision of electric lighting and sockets;
+- (i) provision of storage facilities for fuel or refuse;
+- (j) repairs of unsafe structural defects;
+- (k) adapting the accommodation for the special needs of a disabled person; or
+- (l) provision of separate sleeping accommodation for persons of different sexes aged 10 or over but under the age of 20 who live with the claimant and for whom the claimant or the claimant’s partner is responsible.
+
+(6) Where a loan is applied only in part for the purposes specified in sub-paragraph (2) or (4), only that portion of the loan which is applied for that purpose shall qualify.
+
+#### 3. Loans incurred during relevant period
+
+(1) Subject to sub-paragraph (5), loans which, apart from this paragraph, qualify under paragraph 2(2) or (4) shall not so qualify where the loan was incurred during the relevant period.
+
+(2) The “relevant period” for the purposes of this paragraph is any period during which the person to whom the loan was made—
+
+- (a) is entitled to, or is treated as entitled to, a legacy benefit or state pension credit; or
+- (b) is living as a member of a family one of whom is entitled to, or is treated as entitled to, a legacy benefit or state pension credit,
+
+together with any period falling between two such periods of entitlement separated by not more than 26 weeks.
+
+(3) For the purposes of sub-paragraph (2), a person shall be treated as entitled to either a legacy benefit or state pension credit during any period when the person, the person’s partner, or, where that person is a member of a joint-claim couple, the other member of that couple was not so entitled because—
+
+- (a) that person, the person’s partner or, where that person is a member of a joint-claim couple, the other member of that couple, was participating in an employment programme specified in regulation 75(1)(a) of the JSA Regulations[^f00082]; and
+- (b) in consequence of such participation that person, the person’s partner, or, where that person is a member of a joint-claim couple, the other member of that couple, was a person engaged in remunerative work and had income equal to or in excess of the applicable amount.
+
+(4) Where a loan which qualifies under paragraph 2(2) was incurred during the relevant period—
+
+- (a) for paying off an earlier loan, and that earlier loan qualified under paragraph 2(2) and was incurred during the relevant period; or
+- (b) to finance the purchase of a property where an earlier loan, which qualified under paragraph 2(2) or (4) and was incurred during the relevant period in respect of another property, is paid off (in whole or in part) with monies received from the sale of that property,
+
+then the amount of the loan to which sub-paragraph (1) applies is the amount (if any) by which the new loan exceeds the earlier loan.
+
+(5) Loans taken out during the relevant period shall qualify as loans under paragraph 2(2) or (4), where a claimant satisfies any of the conditions specified in sub-paragraphs (6), (8) and (9), but—
+
+- (a) where the claimant satisfies the condition in sub-paragraph (6), the amount of each loan payment calculated under regulation 10[^key-3b6878ded915f65137486464442066db] shall be subject to the additional limitation imposed by sub-paragraph (7); and
+- (b) where the claimant satisfies the conditions in more than one of these sub-paragraphs, only one sub-paragraph shall apply in the claimant’s case, which shall be the one most favourable to the claimant.
+
+(6) The first condition is that—
+
+- (a) during the relevant period, the claimant or a member of the claimant’s family acquires an interest (“the relevant interest”) in the relevant accommodation; and
+- (b) in the week preceding the week in which the relevant interest was acquired, the claimant or a member of the claimant’s family was entitled to housing benefit.
+
+(7) Where the condition in sub-paragraph (6) is satisfied, the amount of the loans which qualify shall initially not exceed the aggregate of—
+
+- (a) the housing benefit entitlement referred to in sub-paragraph (6)(b); and
+- (b) any amount included in the applicable amount of the claimant or a member of the claimant’s family relating to housing costs[^key-641be05560a47420c70c86bb9271150e] in that week,
+
+and shall be increased subsequently only to the extent that it is necessary to take account of any increase in the standard rate under regulation 13 arising after the date of acquisition.
+
+(8) The second condition is that the loan was taken out, or an existing loan increased, to acquire alternative accommodation more suited to the needs of a disabled person than the relevant accommodation which was occupied before the acquisition by the claimant.
+
+(9) The third condition is that—
+
+- (a) the loan commitment increased in consequence of the disposal of the relevant accommodation and the acquisition of alternative accommodation; and
+- (b) the change of accommodation was made solely by reason of the need to provide separate sleeping accommodation for persons of different sexes aged 10 or over but under the age of 20 who live with the claimant and for whom the claimant or the claimant’s partner is responsible.
+
+### PART 2 — UC claimants
+
+#### 4. Application of Part 2
+
+This Part applies to UC claimants.
+
+#### 5. Payments of interest on loans and alternative finance payments
+
+(1) “Owner-occupier payments” means—
+
+- (a) payments of interest on a loan which qualifies under sub-paragraph (2);
+- (b) alternative finance payments within the meaning of sub-paragraph (3).
+
+(2) A loan qualifies under this sub-paragraph if it is secured on the relevant accommodation.
+
+(3) “Alternative finance payments” means payments that are made under alternative finance arrangements which were entered into to enable a person to acquire an interest in the relevant accommodation.
+
+(4) “Alternative finance arrangements” has the meaning given in Part 10A of the Income Tax Act 2007[^f00083].
+
+## SCHEDULE 2 — Circumstances in which a claimant is, or is to be treated as, liable to make owner-occupier payments
+
+Regulation 3(2)(b)
+
+### PART 1 — Legacy benefit claimants and SPC claimants
+
+#### 1. Application of Part 1
+
+This Part applies to legacy benefit claimants and SPC claimants.
+
+#### 2. Liable or treated as liable to make payments
+
+(1) A claimant is liable to make owner-occupier payments where in the case of a single claimant, the claimant or the claimant's partner (if any), or, in the case of joint claimants, either member of the couple, has a liability to make the payments.
+
+(2) A claimant is to be treated as liable to make owner-occupier payments where—
+
+- (a) all of the following conditions are met—
+  - (i) the person who is liable to make the payments is not doing so;
+  - (ii) the claimant has to make the payments in order to continue occupation of the relevant accommodation; and
+  - (iii) it is reasonable in all the circumstances to treat the claimant as liable to make the payments; or
+- (b) all of the following conditions are met—
+  - (i) the claimant in practice shares the responsibility for the owner-occupier payments with other members of the household, none of whom are close relatives of, in the case of a single claimant, the claimant or the claimant’s partner (if any), or, in the case of joint claimants, either member of the couple;
+  - (ii) one or more of those members is liable to meet those payments; and
+  - (iii) it is reasonable in all the circumstances to treat that member as sharing responsibility.
+
+(3) Where any one or more, but not all, members of the claimant’s family are affected by a trade dispute, the owner-occupier payments shall be treated as wholly the responsibility of those members of the family not so affected.
+
+(4) For the purposes of sub-paragraph (3), “trade dispute” has the meaning given in section 244 of the Trade Union and Labour Relations (Consolidation) Act 1992[^f00084].
+
+#### 3. Treated as not liable to make payments
+
+A claimant is to be treated as not liable to make owner-occupier payments where the liability to make the payments is owed to a person who is a member of the claimant’s household.
+
+### PART 2 — UC claimants
+
+#### 4. Application of Part 2
+
+This Part applies to UC claimants.
+
+#### 5. Liable or treated as liable to make payments
+
+(1) A claimant is liable to make owner-occupier payments where in the case of a single claimant, the claimant or the claimant’s partner (if any), or, in the case of joint claimants, either member of the couple, has a liability to make the payments.
+
+(2) A claimant is to be treated as liable to make owner-occupier payments where—
+
+- (a) the person who is liable to make the payments is a child or qualifying young person for whom the claimant is responsible;
+- (b) all of the following conditions are met—
+  - (i) the person who is liable to make the payments is not doing so;
+  - (ii) the claimant has to make the payments in order to continue occupation of the relevant accommodation;
+  - (iii) the claimant’s circumstances are such that it would be unreasonable to expect them to make other arrangements; and
+  - (iv) it is otherwise reasonable in all the circumstances to treat the claimant as liable to make the payments; or
+- (c) the claimant—
+  - (i) has a liability to make the payments which is waived by the person (“P”) to whom the liability is owed; and
+  - (ii) the waiver of that liability is by way of reasonable compensation for reasonable repair or re-decoration works carried out by the claimant to the relevant accommodation which P would otherwise have carried out or been required to carry out.
+
+(3) Sub-paragraph (1)[^key-487aa61dcae51c1234a725ce02892eee] does not apply to a person in a polygamous marriage who is a single claimant by virtue of regulation 3(4) of the UC Regulations[^f00085].
+
+#### 6. Treated as not liable to make payments
+
+A claimant is to be treated as not liable to make owner-occupier payments—
+
+- (a) where the liability to make the payments is owed to a person who is a member of the claimant’s household;
+- (b) in respect of any amount which represents an increase in the sum that would otherwise be payable and is the result of—
+  - (i) outstanding arrears of any payment or charge in respect of the relevant accommodation;
+  - (ii) outstanding arrears of any payment or charge in respect of other accommodation previously occupied by the claimant; or
+  - (iii) any other unpaid liability to make a payment or charge; or
+- (c) where the Secretary of State is satisfied that the liability to make the owner-occupier payments was contrived in order to secure the offer of loan payments or increase the amount of each loan payment.
+
+## SCHEDULE 3 — Circumstances in which a claimant is, or is to be, treated as occupying accommodation
+
+Regulation 3(2)(c)
+
+### PART 1 — General
+
+#### 1. Interpretation
+
+(1) In this Schedule—
+
+- “Abbeyfield Home” means an establishment run by the Abbeyfield Society including all bodies corporate or incorporate which are affiliated to that Society;
+- “care home”—
+  - (a) in England and Wales, has the meaning given in section 3 of the Care Standards Act 2000[^f00086];
+  - (b) in Scotland, means a care home service within the meaning of paragraph 2 of Schedule 12 to the Public Services Reform (Scotland) Act 2010[^f00087],
+
+  and in either case includes an independent hospital;
+- “croft” means a croft within the meaning of section 3(1) of the Crofters (Scotland) Act 1993[^f00088];
+- “full-time student” has the meaning given—
+  - (a) in the case of income support, in regulation 61(1) of the IS Regulations[^f00089];
+  - (b) in the case of jobseeker’s allowance, in regulation 1(3) of the JSA Regulations[^f00090];
+  - (c) in the case of employment and support allowance, in regulation 131 of the ESA Regulations[^f00091];
+  - (d) in the case of state pension credit, in regulation 1(2) of the SPC Regulations[^f00092];
+- “independent hospital”—
+  - (a) in England, means a hospital as defined in section 275 of the National Health Service Act 2006[^f00093] that is not a health service hospital as defined by that section;
+  - (b) in Wales, has the meaning given in section 2 of the Care Standards Act 2000;
+  - (c) in Scotland means an independent healthcare service as defined in section 10F(1)(a) and (b) of the National Health Service (Scotland) Act 1978[^f00094];
+- “medically approved” means certified by a medical practitioner;
+- “patient” means a person who is undergoing medical or other treatment as an inpatient in a hospital or similar institution;
+- “period of study” has the meaning given—
+  - (a) in the case of income support and state pension credit, in regulation 2(1) of the IS Regulations[^f00095];
+  - (b) in the case of jobseeker’s allowance, in regulation 1(3) of the JSA Regulations[^f00096];
+  - (c) in the case of employment and support allowance, in regulation 2 of the ESA Regulations[^f00097];
+- “residential accommodation” means accommodation which is a care home, Abbeyfield Home or independent hospital;
+- “training course” means a course of training or instruction provided wholly or partly by or on behalf of or in pursuance of arrangements made with, or approved by or on behalf of, Skills Development Scotland, Scottish Enterprise, Highlands and Islands Enterprise, a government department or the Secretary of State.
+
+(2) In this Schedule, a reference to a claimant being liable to make owner-occupier payments is to be read as a reference to a person being treated as liable to make owner-occupier payments under Schedule 2.
+
+### PART 2 — Legacy benefit claimants and SPC claimants
+
+#### 2. Application of Part 2
+
+This Part applies to legacy benefit claimants and SPC claimants.
+
+#### 3. Occupying accommodation: general rule
+
+(1) Subject to the following paragraphs of this Part, the accommodation which the claimant occupies as the claimant’s home or, if the claimant is a member of a family, the claimant and the claimant’s family occupy as their home, is the accommodation which is normally occupied as the home.
+
+(2) In determining whether accommodation is the accommodation normally occupied as the home for the purposes of sub-paragraph (1), regard shall be had to any other dwelling occupied by the claimant or, if the claimant is a member of a family, by the claimant and the claimant’s family, whether or not that other dwelling is in Great Britain.
+
+#### 4. Full-time study
+
+(1) Subject to sub-paragraph (2), where a claimant is a full-time student or on a training course and is liable to make owner-occupier payments in respect of either (but not both)—
+
+- (a) the accommodation which the claimant occupies for the purpose of attending the course of study or training course; or
+- (b) the accommodation which the claimant occupies when not attending the course of study or training course,
+
+the claimant shall be treated as occupying as the claimant’s home the accommodation in respect of which the claimant is liable to make the owner-occupier payments.
+
+(2) A claimant who is a full-time student shall not be treated as occupying accommodation as the claimant’s home for any week of absence from it outside the period of study, other than an absence occasioned by the need to enter hospital for treatment.
+
+#### 5. Living in other accommodation during essential repairs
+
+Where the claimant—
+
+- (a) has been required to move into temporary accommodation by reason of essential repairs being carried out to the accommodation which the claimant occupies as the claimant’s home (“the home accommodation”); and
+- (b) is liable to make owner-occupier payments in respect of either (but not both) the home accommodation or the temporary accommodation,
+
+the claimant shall be treated as occupying as the claimant’s home the accommodation in respect of which the claimant is liable to make those payments.
+
+#### 6. Living in other accommodation due to fear of violence, where a claimant’s partner is a full-time student or where moving into new accommodation
+
+Where a claimant is liable to make owner-occupier payments in respect of two dwellings, the claimant shall be treated as occupying both dwellings as the claimant’s home—
+
+- (a) where—
+  - (i) the claimant has left and remains absent from the accommodation which the claimant occupies as the claimant’s home (“the home accommodation”) through fear of violence in the home or of violence by a close relative or former partner; and
+  - (ii) it is reasonable that owner-occupier payments should be met in respect of both the claimant’s home accommodation and the claimant’s present accommodation which the claimant occupies as the home;
+- (b) in the case of a couple or a member of a polygamous marriage, where—
+  - (i) one partner is a full-time student or is on a training course and it is unavoidable that the members of the couple or polygamous marriage should occupy two separate dwellings; and
+  - (ii) it is reasonable that owner-occupier payments should be met in respect of both dwellings; or
+- (c) where—
+  - (i) the claimant has moved into new accommodation occupied as the claimant’s home, except where paragraph 5 applies, for a period not exceeding four benefit weeks from the first day of the benefit week in which the move occurs; and
+  - (ii) the claimant’s liability to make owner-occupier payments in respect of both the new accommodation and the accommodation from which the move was made is unavoidable.
+
+#### 7. Moving in delayed for certain reasons
+
+(1) Where—
+
+- (a) a claimant was delayed in moving into accommodation (“the new accommodation”) and was liable to make owner-occupier payments in respect of that accommodation before moving in; and
+- (b) the delay was reasonable and one of the conditions in sub-paragraphs (2) to (4) applies,
+
+the claimant shall be treated as occupying the new accommodation as the claimant’s home for the period of delay, not exceeding four weeks immediately prior to the date on which the claimant moved into the new accommodation.
+
+(2) The first condition is that the delay occurred in order to adapt the accommodation to meet the needs of the claimant or a member of the claimant’s family who is a disabled person.
+
+(3) The second condition is that—
+
+- (a) the move was delayed pending local welfare provision to meet a need arising out of the move or in connection with setting up the claimant’s home in the new accommodation; and
+- (b) in the case of a legacy benefit claimant only—
+  - (i) a member of the claimant’s family is aged 5 or under;
+  - (ii) the claimant’s applicable amount includes a pensioner premium or disability premium under Schedule 2 to the IS Regulations[^f00098], Schedule 1 to the JSA Regulations[^f00099] or Schedule 4 to the ESA Regulations[^f00100]; or
+  - (iii) a child tax credit is paid for a member of the claimant’s family who is disabled or severely disabled for the purposes of section 9(6) of the Tax Credits Act 2002[^f00101];
+
+(4) The third condition is that the claimant became liable to make owner-occupier payments in respect of the accommodation while the claimant was a patient or was in a residential home.
+
+#### 8. Temporary absence to try new accommodation of up to 13 weeks
+
+(1) This sub-paragraph applies to a claimant who enters residential accommodation—
+
+- (a) for the purpose of ascertaining whether the accommodation suits the claimant’s needs; and
+- (b) with the intention of returning to the accommodation which the claimant occupies as the claimant’s home (“the home accommodation”) in the event that the residential accommodation proves not to suit the claimant’s needs,
+
+and while in the residential accommodation, the home accommodation is not let or sub-let to another person.
+
+(2) A claimant to whom sub-paragraph (1) applies shall be treated as occupying the home accommodation during the period of absence, not exceeding 13 weeks in which the claimant is resident in the residential accommodation, but only where the total absence from the home accommodation does not exceed 52 consecutive weeks.
+
+#### 9. Temporary absence of up to 13 weeks
+
+A claimant, except where paragraph 10 applies, shall be treated as occupying accommodation as the claimant’s home throughout any period of absence not exceeding 13 weeks, where—
+
+- (a) the claimant intends to return to occupy the accommodation as the claimant’s home;
+- (b) the part of the accommodation occupied by the claimant has not been let or sub-let to another person; and
+- (c) the period of absence is unlikely to exceed 13 weeks.
+
+#### 10. Absences for certain reasons up to 52 weeks
+
+(1) Where sub-paragraph (2) applies, a claimant is to be treated as occupying accommodation as the claimant’s home (“the home accommodation”) during any period of absence from it not exceeding 52 weeks beginning with the first day of that absence.
+
+(2) This paragraph applies where a claimant’s absence from the home accommodation is temporary and—
+
+- (a) the claimant intends to return to occupy the home accommodation;
+- (b) the home accommodation has not been let or sub-let;
+- (c) the claimant is—
+  - (i) detained in custody on remand pending trial or, as a condition of bail, required to reside—
+    - (aa) in a dwelling, other than the home accommodation; or
+    - (bb) in premises approved under section 13 of the Offender Management Act 2007[^f00102];
+  - (ii) detained pending sentence upon conviction;
+  - (iii) resident in a hospital or similar institution as a patient;
+  - (iv) undergoing or, the claimant’s partner or child, or in the case of an SPC claimant, a person who has not attained the age of 20, is undergoing medical treatment, or medically approved convalescence, in accommodation other than residential accommodation;
+  - (v) undertaking a training course;
+  - (vi) undertaking medically approved care of another person;
+  - (vii) undertaking the care of a child or, in the case of an SPC claimant, a person under the age of 20 whose parent or guardian is temporarily absent from the dwelling occupied by that parent or guardian for the purpose of receiving medically approved care or medical treatment;
+  - (viii) a person who is receiving medically approved care provided in accommodation other than a residential home;
+  - (ix) a full-time student to whom paragraph 4(1) or 6(b) does not apply;
+  - (x) a person, other than a person to whom paragraph 8(1) applies, who is receiving care provided in residential accommodation; or
+  - (xi) a person to whom paragraph 6(a) does not apply and who has left the home accommodation through fear of violence in that accommodation, or by a person who was formerly his or her partner or is a close relative; and
+- (d) the period of the claimant’s absence is unlikely to exceed 52 weeks or, in exceptional circumstances, is unlikely substantially to exceed that period.
+
+### PART 3 — UC claimants
+
+#### 11. Application of Part 3
+
+This Part applies to UC claimants.
+
+#### 12. Occupying accommodation: general rule
+
+(1) Subject to the following paragraphs of this Part, the accommodation which the claimant occupies as the claimant’s home is the accommodation which the claimant normally occupies the home.
+
+(2) Where the claimant occupies more than one dwelling, in determining whether accommodation is the accommodation normally occupied as the home for the purposes of sub-paragraph (1), regard is to be had to all the circumstances including (among other things) any persons with whom the claimant occupies each dwelling.
+
+(3) Where accommodation which a claimant occupies as the claimant’s home is situated on or pertains to a croft, croft land used for the purposes of the accommodation is to be treated as included in the accommodation.
+
+#### 13. Living in other accommodation due to essential repairs
+
+(1) Where a claimant—
+
+- (a) is required to move into accommodation (“the other accommodation”) on account of essential repairs being carried out to the accommodation the claimant occupies as the claimant’s home (“the home accommodation”);
+- (b) intends to return to the home accommodation; and
+- (c) is liable to make owner-occupier payments in respect of either the other accommodation or the home accommodation (but not both),
+
+the claimant is to be treated as occupying as the claimant’s home the accommodation in respect of which the owner-occupier payments are made.
+
+#### 14. Moving homes: adaptations to new home for disabled person
+
+(1) Sub-paragraph (2) applies where—
+
+- (a) a claimant has moved into accommodation (“the new accommodation”) and, immediately before the move, was liable to make owner-occupier payments in respect of the new accommodation; and
+- (b) there was a delay in moving in to adapt the new accommodation in order to meet the needs of a disabled person.
+
+(2) The claimant is to be treated as occupying both the new accommodation and the accommodation from which the move was made (“the old accommodation”) if—
+
+- (a) immediately before the move, the claimant was receiving loan payments or, in the case of an existing claimant, a qualifying benefit which includes an amount for owner-occupier payments, in respect of the old accommodation; and
+- (b) the delay in moving into the new accommodation was reasonable.
+
+(3) A person is disabled under this Part if the person is—
+
+- (a) a claimant or any child or qualifying young person for whom the claimant is responsible; and
+- (b) in receipt of—
+  - (i) the care component of disability living allowance at the middle or highest rate;
+  - (ii) attendance allowance; or
+  - (iii) the daily living component of personal independence payment.
+
+(4) No claimant may be treated as occupying both the old accommodation and the new accommodation under this paragraph for more than one month.
+
+#### 15. Living in other accommodation due to fear of violence
+
+(1) Sub paragraphs (2) and (3) apply[^M_F_50224ca3-b1fd-4bd3-fddd-c233a3bd11de] where—
+
+- (a) a claimant is occupying accommodation (“the other accommodation”) other than the accommodation which the claimant occupies as the claimant’s home (“the home accommodation”);
+- (b) it is unreasonable to expect the claimant to return to the home accommodation on account of the claimant’s reasonable fear of violence in the home, or by a former partner, against the claimant or any child or qualifying young person for whom the claimant is responsible; and
+- (c) the claimant intends to return to the home accommodation.
+
+(2) The claimant is to be treated as occupying both the home accommodation and the other accommodation as the claimant’s home if—
+
+- (a) the claimant is liable to make payments in respect of both the other accommodation and the home accommodation; and
+- (b) it is reasonable to make loan payments in respect of both the home accommodation and the other accommodation.
+
+(3) Where the claimant is liable to make owner-occupier[^M_F_0163f162-77f7-41b4-f481-264e5fea12a1] payments in respect of one accommodation only, the claimant is to be treated as occupying that accommodation as the claimant’s home but only if it is reasonable to make loan payments in respect of that accommodation.
+
+(4) No claimant may be treated as occupying both the home accommodation and the other accommodation under this paragraph for more than 12 months.
+
+#### 16. Moving in delayed by adaptations to accommodation to meet needs of disabled person
+
+(1) The claimant is to be treated as having occupied accommodation before the claimant moved into it where—
+
+- (a) the claimant has since moved in and, immediately before the move, the claimant is liable to make payments in respect of that accommodation;
+- (b) there was a delay in moving in that was necessary to enable the accommodation to be adapted to meet the needs of a disabled person; and
+- (c) it was reasonable to delay moving in.
+
+(2) No claimant may be treated as occupying accommodation under this paragraph for more than one month.
+
+#### 17. Moving into accommodation following a stay in hospital or care home
+
+(1) The claimant is to be treated as having occupied accommodation before he or she moved into it where—
+
+- (a) the claimant has since moved in and, immediately before the move, the claimant was liable to make payments in respect of that accommodation; and
+- (b) the liability to make the payments arose while the claimant was a patient or accommodated in a care home (or, in the case of joint claimants, where both individuals were patients or were accommodated in a care home).
+
+(2) No claimant may be treated as occupying the accommodation under this paragraph for more than one month.
+
+#### 18. Temporary absence exceeding 6 months
+
+(1) Subject to sub-paragraph (2), a claimant is to be treated as no longer occupying accommodation from which the claimant is temporarily absent where the absence exceeds, or is expected to exceed, 6 months.
+
+(2) Where a claimant who falls within paragraph 15[^M_F_8dbf57e6-0a7e-4cbf-bb21-fec7cdf38a94] is temporarily absent from the relevant accommodation, the claimant is to be treated as no longer occupying that accommodation where the absence exceeds, or is expected to exceed, 12 months.
+
+## SCHEDULE 4 — Direct payments to qualifying lenders
+
+Regulation 17
+
+### 1. Direct payments
+
+Each loan payment made to a qualifying lender directly under regulation 17(1) shall be the amount calculated under paragraph 2 [^key-9569e828c64718ff71e586f18d3f7643]... of this Schedule.
+
+### 2. Determining the amount to be paid to a qualifying lender: one or more qualifying loans[^key-a64705de6b9d6631459e18cc38e44ceb]
+
+(1) Where one qualifying loan or alternative finance arrangement has been provided to a claimant by a qualifying lender, the amount that is to be paid direct to that lender is the amount of each loan payment.
+
+(2) Where more than one qualifying loan or alternative finance arrangement has been provided to a claimant by a qualifying lender, the amount that is to be paid direct to that lender is the amount of each loan payment in respect of each of those loans or alternative finance arrangements added together.
+
+### 3. Determining the amount to be paid to a qualifying lender: more than one qualifying loan[^key-c2d342c9edc6bd5fd47446d5780e4cbb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Qualifying lenders to apply direct payments to discharge of claimant’s liability
+
+Where a direct payment is made under regulation 17(1) to a qualifying lender, the lender must apply the amount of the payment determined under either paragraph 2 or 3 of this Schedule towards discharging the claimant’s liability to make owner-occupier payments in respect of which the direct payment was made.
+
+### 5. Application by qualifying lenders of any amount which exceeds liability
+
+(1) Where—
+
+- (a) a direct payment is made to a qualifying lender under regulation 17(1); and
+- (b) the amount paid exceeds the claimant’s liability to make owner-occupier payments to the qualifying lender,
+
+the qualifying lender must apply the amount of excess in accordance with sub-paragraph (2).
+
+(2) Subject to sub-paragraph (3), the qualifying lender must apply the amount of excess as follows—
+
+- (a) first, towards discharging the amount of any liability of the claimant for arrears of owner-occupier payments in respect of the qualifying loan or alternative finance arrangement in question;
+- (b) if any amount of the excess is then remaining, towards discharging any liability of the claimant to repay—
+  - (i) the principal sum in respect of the qualifying loan or alternative finance arrangement; or
+  - (ii) any other sum payable by the claimant to that lender in respect of that qualifying loan or alternative finance arrangement.
+
+(3) Where owner-occupier payments on two or more qualifying loans or alternative finance arrangements are payable to the same qualifying lender, the lender must apply the amount of the excess as follows—
+
+- (a)[^key-71adba1a45f93ffd63a475d1e7221ec1] first, towards discharging the amount of any liability of the claimant for arrears of owner-occupier payments in respect of the qualifying loan or alternative finance arrangement in respect of which the excess amount was paid;
+- (b) if any amount of the excess is then remaining, towards discharging any liability of the claimant to repay—
+  - (i) in respect of the loan or alternative finance arrangement referred to in paragraph (a), the principal sum or any other sum payable by the claimant to that lender; or
+  - (ii) in respect of any other loan or alternative finance arrangement, any sum payable by the claimant to that lender where the liability to pay that sum is not already discharged.
+
+### 6. Fees payable by qualifying lenders[^key-e9cbd670839e80b10e26832f8b17e029]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Election not to be regarded as a qualifying lender
+
+(1) A body or person who would otherwise be within the definition of “qualifying lender” in the Act—
+
+- (a) may elect not to be regarded as such for the purposes of these Regulations by giving notice to the Secretary of State in writing; and
+- (b) may revoke any such notice by giving a further notice in writing.
+
+(2) In respect of any financial year, a notice under sub-paragraph (1) which is given not later than 1st February before the start of the financial year, takes effect on 1st April following the giving of the notice.
+
+(3) Where a body or person becomes a qualifying lender in the course of a financial year—
+
+- (a) any notice of an election by the body or person under sub-paragraph (1)(a) must be given within 6 weeks (“the initial period”) beginning with the date on which the body or person becomes a qualifying lender; and
+- (b) no direct payments may be made under regulation 17(1) to the body or person before the expiry of the initial period.
+
+(4) Sub-paragraph (3)(b) does not apply in any case where—
+
+- (a) the person or body gives the Secretary of State notice in writing that that provision should not apply; and
+- (b) the notice is given before the start of the initial period or before that period expires.
+
+(5) In relation to a notice under sub-paragraph (1)—
+
+- (a) where the notice is given by an electronic communication, it must be given in accordance with Schedule 2 of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013[^f00103];
+- (b) where the notice is sent by post, it is to be treated as having been given on the day the notice was received.
+
+### 8. Provision of information
+
+(1) A qualifying lender must, in respect of the claimant, provide the Secretary of State with information as to—
+
+- (a) the owner-occupier payments payable by the claimant to the lender;
+- (b) the amount of the qualifying loan or alternative finance arrangement in respect of which owner-occupier payments are payable;
+- (c) the purpose for which the qualifying loan or alternative finance arrangement was made;
+- (d) the amount outstanding on the qualifying loan or alternative finance arrangement;
+- (e) the amount of arrears of owner-occupier payments due in respect of the qualifying loan or alternative finance payment;
+- (f) any change in the owner-occupier payments payable by the claimant to the lender; and
+- (g) the redemption of the qualifying loan or alternative finance arrangement,
+
+in the circumstances specified in sub-paragraphs (2), (3) and (6).
+
+(2) The information referred to in sub-paragraph (1)(a) to (e) must be provided at the request of the Secretary of State where the claimant has made a claim for a qualifying benefit, provided that the Secretary of State may only make one request under this sub-paragraph.
+
+(3) The information referred to in sub-paragraph (1)(d) and (f) must be provided where the Secretary of State makes a request for that information on or after the first day in respect of which loan payments are paid, or to be paid, to the qualifying lender on behalf of the claimant (“the first day”), provided that the Secretary of State may only make a request under this sub-paragraph once in each period of 12 months referred to in sub-paragraph (4).
+
+(4) The period of 12 months is the period of 12 months beginning with the first day and each subsequent period of 12 months commencing on the anniversary of that day.
+
+(5) A request may be made under paragraph (3) for the information referred to in sub-paragraph (1)(d) even though that information has been requested in the same 12 month period (as referred to in sub-paragraph (4)) under sub-paragraph (2).
+
+(6) The information referred to in sub-paragraph (1)(g) must be provided to the Secretary of State as soon as reasonably practicable once the qualifying lender has received notice that the qualifying loan or alternative finance arrangement is to be redeemed.
+
+### 9. Recovery of sum wrongly paid
+
+(1) In the following circumstances, a qualifying lender must at the request of the Secretary of State repay any amount paid to the lender under regulation 17(1) which ought not to have been paid.
+
+(2) The circumstances are that, in respect of a claimant—
+
+- (a) the loan payments are terminated under regulation 9(2);
+- (b) the qualifying loan or alternative finance arrangement in respect of which owner-occupier payments are made has been redeemed; or
+- (c) both of the conditions in sub-paragraphs (3) and (4) are met.
+
+(3) The first condition is that the amount of each loan payment determined under regulation 10 is reduced as a result of—
+
+- (a) the standard rate determined under regulation 13 having been reduced; or
+- (b) the amount outstanding on the qualifying loan or alternative finance arrangement having been reduced.
+
+(4) The second condition is that no corresponding reduction was made to the amount calculated in respect of the qualifying lender under paragraph 2 or 3 of this Schedule.
+
+(5) A qualifying lender is not required to make a repayment in the circumstances described in sub-paragraph (2)(a) unless the Secretary of State’s request is made before the end of the period of two months starting with the date on which the loan payments are terminated.
+
+## SCHEDULE 5 — Consequential amendments
+
+**May not be in force at this date. Check the source.**
+
+Regulation 18
+
+### PART 1 — General[^key-9fa2594d539e99520a242c3a1662742b]
+
+**1.** The ESA Regulations are amended as follows—
+
+- (a) in regulation 67(1), in sub-paragraph (c) for “mortgage interest payments or such other housing costs as are prescribed” substitute “housing costs as prescribed”;
+- (b) in regulation 68(1), in sub-paragraph (d) for “mortgage interest payments or such other housing costs as are prescribed” substitute “housing costs as prescribed”;
+- (c) in Schedule 6—
+  - (i) in paragraph 1(1)(b), for “under paragraph 16 to 18” substitute “under paragraph 18”;
+  - (ii) in paragraph 1(2), omit the definition of “standard rate”;
+  - (iii) in paragraph 3—
+    - (aa) in sub-paragraph (1)(a), for “under paragraphs 14 to 16 of Schedule 2” substitute “under paragraph 16 of Schedule 2” and for “paragraphs 15 to 17 of Schedule 3” substitute “paragraph 17 of Schedule 3”;
+    - (bb) in paragraph (2)(a), for “under paragraphs 11 to 13 of Schedule 2” substitute “under paragraph 13 of Schedule 2”;
+  - (iv) in paragraph 6, omit sub-paragraphs (2) to (14);
+  - (v) in paragraph 9, omit sub-paragraphs (1)(a)(i) and (2);
+  - (vi) in paragraph 10, omit sub-paragraph (2)(a)(i);
+  - (vii) omit paragraphs 11 to 14;
+  - (viii) in paragraph 15—
+    - (aa) omit sub-paragraph (6);
+    - (bb) in sub-paragraph (12)(b), for “any loan or payment which qualifies under paragraphs 16 to 18” substitute “any payment which qualifies under paragraph 18”;
+  - (ix) omit paragraphs 16 and 17;
+  - (x) in paragraph 18—
+    - (aa) for the heading substitute “Housing costs”;
+    - (bb) in sub-paragraph (2)(c), for “the same meaning it has in paragraph 17(2)” substitute “the meaning in sub-paragraph (6)”;
+    - (cc) after sub-paragraph (5) insert—
+
+      > (6) For the purposes of sub-paragraph (2)(c), “repairs and improvements” means any of the following measures undertaken with a view to maintaining the fitness of the dwelling for human habitation or, where the dwelling forms part of a building, any part of a building containing that dwelling—
+      >
+      > - (a) provision of a fixed bath, shower, wash basin, sink or lavatory, and necessary associated plumbing, including the provision of hot water not connected to a central heating system;
+      > - (b) repairs to existing heating system;
+      > - (c) damp proof measures;
+      > - (d) provision of ventilation and natural lighting;
+      > - (e) provision of drainage facilities;
+      > - (f) provision of facilities for preparing and cooking food;
+      > - (g) provision of insulation of the dwelling occupied as the home;
+      > - (h) provision of electric lighting and sockets;
+      > - (i) provision of storage facilities for fuel or refuse;
+      > - (j) repairs of unsafe structural defects;
+      > - (k) adapting a dwelling for the special needs of a disabled person; or
+      > - (l) provision of separate sleeping accommodation for persons of different sexes aged 10 or over but under the age of 20 who live with the claimant and for whom the claimant or the claimant’s partner is responsible.
+
+      ;
+  - (xi) in paragraph 19, after sub-paragraph (2) insert—
+
+    > (2A) Where a non-dependant deduction is being made under the Loans for Mortgage Interest Regulations 2017, the amount of the deduction under sub-paragraph (1) or (2) is to be reduced by an amount equal to that non-dependant deduction.
+
+    ; and
+  - (xii) in paragraph 20, omit sub-paragraph (2);[^key-94c73d70384f8945f4b5b2dc0f563f57]
+- (d) in Schedule 8 (sums to be disregarded in the calculation of income other than earnings)—
+  - (i) for paragraph 31 substitute—
+
+    > **31.** Any payment received under an insurance policy taken out to insure against the risk of being unable to maintain repayments on a loan which qualifies under Part 1 of Schedule 1 to the Loans for Mortgage Interest Regulations 2017 (legacy benefit claimants and SPC claimants) and used to meet such repayments.
+
+    ; and
+  - (ii) in paragraph 32—
+    - (aa) in sub-paragraph (1)(a) for “under Schedule 6” substitute “under Part 1 of Schedule 1 to the Loans for Mortgage Interest Regulations”;
+    - (bb) for sub-paragraph (1)(b) substitute—
+
+      > - (b) any charge which qualifies in accordance with paragraph 18 of Schedule 6 (housing costs) to these Regulations or any interest payment on a loan which qualifies under Part 1 of Schedule 1 to the Loans for Mortgage Interest Regulations, to the extent that the charge or payment is not met under these Regulations or by loan payments (as the case may be);
+
+      ;
+    - (cc) in sub-paragraph (1)(c) for “under paragraph 16 or 17 of Schedule 6” substitute “under Part 1 of Schedule 1 to the Loans for Mortgage Interest Regulations”;
+    - (dd) after sub-paragraph (2) insert—
+
+      > (3) In this paragraph—
+      >
+      > - (a) “Loans for Mortgage Interest Regulations” means the Loans for Mortgage Interest Regulations 2017;
+      > - (b) “loan payments” has the meaning given in the Loans for Mortgage Interest Regulations.
+
+      .
+
+**2.** The IS Regulations are amended as follows—
+
+- (a) in regulation 6(5)(c)—
+  - (i) in paragraph (i), for “under paragraphs 15 to 17” substitute “under paragraph 17”;
+  - (ii) in paragraph (ii), for “under paragraphs 14 to 16” substitute “under paragraph 16”;
+  - (iii) in paragraph (iii), for “under paragraphs 16 to 18” substitute “under paragraph 18”;
+- (b) in regulation 17(1), in sub-paragraph (e) for “mortgage interest payments or such other housing costs as are prescribed” substitute “housing costs as prescribed”;
+- (c) in regulation 18(1), in sub-paragraph (f) for “mortgage interest payments or such other housing costs as are prescribed” substitute “housing costs as prescribed”;
+- (d) in Schedule 3—
+  - (i) in paragraph 1(1)(b), for “under paragraphs 15 to 17” substitute “under paragraph 17”;
+  - (ii) in paragraph 1(2), the definition of “standard rate” is omitted;
+  - (iii) in paragraph 1A(1)(a)—
+    - (aa) for “under paragraph 14 to 16 of Schedule 2” substitute “under paragraph 16 of Schedule 2”; and
+    - (bb) for “paragraphs 16 to 18 of Schedule 6” substitute “paragraph 18 of Schedule 6”;
+  - (iv) in paragraph 1A(1A)(a), for “under paragraphs 11 to 13 of Schedule II” substitute “paragraph 13 of Schedule II”;
+  - (v) in paragraph 4, omit sub-paragraphs (2) to (12);
+  - (vi) in paragraph 8, omit sub-paragraphs (1)(a)(i), (1A) and (1B);
+  - (vii) in paragraph 9, omit sub-paragraph (2)(a)(i);
+  - (viii) omit paragraphs 10 to 13;
+  - (ix) in paragraph 14—
+    - (aa) omit sub-paragraph (3AA);
+    - (bb) in sub-paragraph (6)(b), for “any loan or payment which qualifies under paragraphs 15 to 17” substitute “any payment which qualifies under paragraph 17”;
+  - (x) omit paragraphs 15 and 16;
+  - (xi) in paragraph 17—
+    - (aa) for the heading substitute “Housing costs”;
+    - (bb) in sub-paragraph (2)(c), for “the same meaning it has in paragraph 16(2)” substitute “the meaning in sub-paragraph (6);
+    - (cc) after sub-paragraph (5) insert—
+
+      > (6) For the purposes of sub-paragraph (2)(c), “repairs and improvements” means any of the following measures undertaken with a view to maintaining the fitness of the dwelling for human habitation or, where the dwelling forms part of a building, any part of a building containing that dwelling—
+      >
+      > - (a) provision of a fixed bath, shower, wash basin, sink or lavatory, and necessary associated plumbing, including the provision of hot water not connected to a central heating system;
+      > - (b) repairs to existing heating system;
+      > - (c) damp proof measures;
+      > - (d) provision of ventilation and natural lighting;
+      > - (e) provision of drainage facilities;
+      > - (f) provision of facilities for preparing and cooking food;
+      > - (g) provision of insulation of the dwelling occupied as the home;
+      > - (h) provision of electric lighting and sockets;
+      > - (i) provision of storage facilities for fuel or refuse;
+      > - (j) repairs of unsafe structural defects;
+      > - (k) adapting a dwelling for the special needs of a disabled person; or
+      > - (l) provision of separate sleeping accommodation for persons of different sexes aged 10 or over but under the age of 20 who live with the claimant and for whom the claimant or the claimant’s partner is responsible.
+
+      ; and
+  - (xii) in paragraph 18, after sub-paragraph (2) insert—
+
+    > (2A) Where a non-dependant deduction is being made under the Loans for Mortgage Interest Regulations 2017, the amount of the deduction under sub-paragraph (1) or (2) is to be reduced by an amount equal to that non-dependant deduction.
+
+    .
+
+**3.** The JSA Regulations are amended as follows—
+
+- (a) in regulation 83, in paragraph (f) for “mortgage interest payments or such other housing costs as are prescribed” substitute “housing costs as prescribed”;
+- (b) in regulation 84(1), in paragraph (g) for “mortgage interest payments or such other housing costs as are prescribed” substitute “housing costs as prescribed”;
+- (c) in regulation 86A, in paragraph (d) for “mortgage interest payments or such other housing costs as are prescribed” substitute “housing costs as prescribed”;
+- (d) in regulation 86B, in paragraph (e) for “mortgage interest payments or such other housing costs as are prescribed” substitute “housing costs as prescribed”;
+- (e) omit regulation 87(4) and (5);
+- (f) in Schedule 2—
+  - (i) in paragraph 1(1)(b), for “under paragraph 14 to 16” substitute “under paragraph 16”;
+  - (ii) in paragraph 1(2), omit the definition of “standard rate” ;
+  - (iii) in paragraph 1A(1)(a)—
+    - (aa) for “under paragraph 15 to 17 of Schedule 3” substitute “under paragraph 17 of Schedule 3”; and
+    - (bb) for “paragraphs 16 to 18 of Schedule 6” substitute “under paragraph 18 of Schedule 6”;
+  - (iv) in paragraph 1A(1ZA)(a), for “under paragraphs 11 to 13 of Schedule II” substitute “under paragraph 13 of Schedule II”;
+  - (v) in paragraph 1A(1A)(a)—
+    - (aa) for “under paragraph 15 or 16 of Schedule 3” substitute “under paragraph 17 of Schedule 3”; and
+    - (bb) for “paragraphs 16 or 17 of schedule 6” substitute “under paragraph 18 of Schedule 6”;
+  - (vi) in paragraph 1A(1B)(a), for “under paragraphs 11 to 13 of Schedule II” substitute “under paragraph 13 of Schedule II”;
+  - (vii) in paragraph 4, omit sub-paragraphs (2) to (12);
+  - (viii) in paragraph 7, omit sub-paragraphs (1)(a)(i), (2), (2A) and (2B);
+  - (ix) in paragraph 8, omit sub-paragraph (2)(a)(i);
+  - (x) omit paragraphs 9 to 12;
+  - (xi) in paragraph 13—
+    - (aa) omit sub-paragraph (4A);
+    - (bb) in sub-paragraph (9)(b), for “any loan or payment which qualifies under paragraphs 14 to 16” substitute “any payment which qualifies under paragraph 16”;
+  - (xii) omit paragraphs 14 and 15;
+  - (xiii) in paragraph 16—
+    - (aa) for the heading substitute “Housing costs”;
+    - (bb) in sub-paragraph (2)(c), for “the same meaning it has in paragraph 15(2)” substitute “the meaning in sub-paragraph (6)”;
+    - (cc) after sub-paragraph (5) insert—
+
+      > (6) For the purposes of sub-paragraph (2)(c), “repairs and improvements” means any of the following measures undertaken with a view to maintaining the fitness of the dwelling for human habitation or, where the dwelling forms part of a building, any part of a building containing that dwelling—
+      >
+      > - (a) provision of a fixed bath, shower, wash basin, sink or lavatory, and necessary associated plumbing, including the provision of hot water not connected to a central heating system;
+      > - (b) repairs to existing heating system;
+      > - (c) damp proof measures;
+      > - (d) provision of ventilation and natural lighting;
+      > - (e) provision of drainage facilities;
+      > - (f) provision of facilities for preparing and cooking food;
+      > - (g) provision of insulation of the dwelling occupied as the home;
+      > - (h) provision of electric lighting and sockets;
+      > - (i) provision of storage facilities for fuel or refuse;
+      > - (j) repairs of unsafe structural defects;
+      > - (k) adapting a dwelling for the special needs of a disabled person; or
+      > - (l) provision of separate sleeping accommodation for persons of different sexes aged 10 or over but under the age of 20 who live with the claimant and for whom the claimant or the claimant’s partner is responsible.
+
+      ;
+  - (xiv) in paragraph 17, after sub-paragraph (2) insert—
+
+    > (2A) Where a non-dependant deduction is being made under the Loans for Mortgage Interest Regulations 2017, the amount of the deduction under sub-paragraph (1) or (2) is to be reduced by an amount equal to that non-dependant deduction.
+
+    ; and
+  - (xv) in paragraph 18, omit sub-paragraph (2);[^key-73598d30832f5140110954915d0090b6]
+- (g) in Schedule 7 (sums to be disregarded in the calculation of income other than earnings)—
+  - (i) for paragraph 30 substitute—
+
+    > **30.** Any payment received under an insurance policy taken out to insure against the risk of being unable to maintain repayments on a loan which qualifies under Part 1 of Schedule 1 to the Loans for Mortgage Interest Regulations 2017 (legacy benefit claimants and SPC claimants) and used to meet such repayments.
+
+    ; and
+  - (ii) in paragraph 31—
+    - (aa) in sub-paragraph (1)(a) for “under Schedule 2 (housing costs)” substitute “under Part 1 of Schedule 1 to the Loans for Mortgage Interest Regulations”;
+    - (bb) for sub-paragraph (1)(b) substitute—
+
+      > - (b) any charge which qualifies in accordance with paragraph 16 of Schedule 2 (housing costs) to these Regulations or any interest payment on a loan which qualifies under Part 1 of Schedule 1 to the Loans for Mortgage Interest Regulations, to the extent that the charge or payment is not met under these Regulations or by loan payments (as the case may be);
+
+      ;
+    - (cc) in sub-paragraph (1)(c) for “under paragraph 14 or 15 of Schedule 2” substitute “under Part 1 of Schedule 1 to the Loans for Mortgage Interest Regulations”;
+    - (dd) after sub-paragraph (2) insert—
+
+      > (3) In this paragraph—
+      >
+      > - (a) “Loans for Mortgage Interest Regulations” means the Loans for Mortgage Interest Regulations 2017;
+      > - (b) “loan payments” has the meaning given in the Loans for Mortgage Interest Regulations.
+
+      .
+
+**4.** Schedule 2 of the SPC Regulations is amended as follows—
+
+- (a) in paragraph 1—
+  - (i) in sub-paragraph (1)(b), for “under paragraphs 11 to 13” substitute “under paragraph 13”;
+  - (ii) omit sub-paragraph (2);
+- (b) in paragraph 5, omit sub-paragraphs (2) to (13);
+- (c) omit paragraphs 7 to 12;
+- (d) in paragraph 13—
+  - (i) for the heading substitute “Housing costs”;
+  - (ii) in sub-paragraph (2)(c), for “the same meaning it has in paragraph 12(2)” substitute “the meaning in sub-paragraph (7)”;
+  - (iii) after sub-paragraph (6) insert—
+
+    > (7) For the purposes of sub-paragraph (2)(c), “repairs and improvements” means any of the following measures undertaken with a view to maintaining the fitness of the dwelling for human habitation or, where the dwelling forms part of a building, any part of a building containing that dwelling—
+    >
+    > - (a) provision of a fixed bath, shower, wash basin, sink or lavatory, and necessary associated plumbing, including the provision of hot water not connected to a central heating system;
+    > - (b) repairs to existing heating system;
+    > - (c) damp proof measures;
+    > - (d) provision of ventilation and natural lighting;
+    > - (e) provision of drainage facilities;
+    > - (f) provision of facilities for preparing and cooking food;
+    > - (g) provision of insulation of the dwelling occupied as the home;
+    > - (h) provision of electric lighting and sockets;
+    > - (i) provision of storage facilities for fuel or refuse;
+    > - (j) repairs of unsafe structural defects;
+    > - (k) adapting a dwelling for the special needs of a disabled person; or
+    > - (l) provision of separate sleeping accommodation for persons of different sexes aged 10 or over but under the age of 20 who live with the claimant and for whom the claimant or the claimant’s partner is responsible.
+
+    ; and
+- (e) in paragraph 14, after sub-paragraph (2) insert—
+
+  > (2A) Where a non-dependant deduction is being made under the Loans for Mortgage Interest Regulations 2017, the amount of the deduction under sub-paragraph (1) or (2) is to be reduced by an amount equal to that non-dependant deduction.
+
+  .
+
+**5.** The UC Regulations are amended as follows—
+
+- (a) omit regulation 25(2)(b);
+- (b) omit regulation 26(3)(b)(i);
+- (c) in regulation 26(3)(b)(ii), omit “only”;
+- (d) omit regulation 66(1)(h)(ii);
+- (e) in Schedule 1—
+  - (i) in paragraph 3(f), for “within the meaning of paragraph 4” substitute “within the meaning of Schedule 1 of the Loans for Mortgage Regulations 2017”;
+  - (ii) omit paragraphs 4 to 6;
+  - (iii) in paragraph 7(3)(a), for “a loan that falls within paragraph 5” substitute “a qualifying loan within the meaning of regulation 2 of the Loans for Mortgage Interest Regulations 2017”;
+- (f) in Schedule 5—
+  - (i) in paragraph 2, omit the definitions of “alternative finance arrangements”, “alternative finance payments”, “loan interest payments” and “standard rate”;
+  - (ii) for paragraph 3(1), substitute—
+
+    > (1) “Relevant payments” means one or more payments which are service charge payments.
+
+    ;
+  - (iii) omit paragraph 3(2);
+  - (iv) in paragraph 9, for “the aggregate of the amounts resulting from paragraphs 10, 11 and 13” substitute “the amount resulting from paragraph 13”; and
+  - (v) omit paragraphs 10, 11 and 12.
+
+**6.** Regulation 29 of the Transitional Provisions Regulations is amended as follows—
+
+- (a) in paragraph (1)(b)(i), for “paragraphs 14 to 16 of Schedule 2” substitute “paragraph 16 of Schedule 2”;
+- (b) in paragraph (1)(b)(ii), for “paragraphs 16 to 18 of Schedule 6” substitute “paragraph 18 of Schedule 6”; and
+- (c) in paragraph (1)(b)(iii), for “paragraphs 15 to 17 of Schedule 3” substitute “paragraph 17 of Schedule 3”.
+
+**7.**[^key-e8d6dae6a53bbb8f9ade713afde336f1] (1) The Claims and Payment Regulations are amended as follows.
+
+(2) Omit regulations 34A (deductions of mortgage interest which shall be made from benefit and paid to qualifying lenders) and 34B (deductions of mortgage interest which may be made from benefits and paid to qualifying lenders in other cases).
+
+(3) In regulation 35 (deductions which may be made from benefit and paid to third parties), omit “Except as provided for in regulation 34A and Schedule 9A,”.
+
+(4) In Schedule 9 (deductions from benefit and direct payment to third parties)—
+
+- (a) in paragraph 1(1), omit the definition of “mortgage payment”;
+- (b) in paragraph 3—
+  - (i) omit sub-paragraph (2)(b)(i);
+  - (ii) in sub-paragraph (2)(b)(ii), for “for any other housing item” substitute “for any housing item”;
+  - (iii) in sub-paragraph (2A)(b)—
+    - (aa) in both places where the words occur omit “paragraph 4(8) or (11) or”;
+    - (bb) omit “paragraph 5(9) or (12) or”;
+    - (cc) omit “paragraph 6(10) or (13) or”;
+  - (iv) for sub-paragraph (4) substitute—
+
+    > (4) Sub-paragraph (1) shall not apply to any debt which is for any item of housing costs and is less than half the annual amount due to be paid by the beneficiary or his partner in respect of that item, unless, in the opinion of the Secretary of State it is in the overriding interests of the family that paragraph (1) should apply.
+
+    ;
+  - (v) omit sub-paragraphs (5) and (6);
+- (c) in paragraph 9, omit sub-paragraph (2).
+
+(5) Omit Schedule 9A (deductions of mortgage interest from benefit and payment to qualifying lenders).
+
+**8.** The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013 are amended as follows—
+
+- (a) omit regulation 59 (direct payment to lender of deductions in respect of interest on secured loans);
+- (b) in regulation 60 (deductions which may be made from benefit and paid to third parties), omit “Except as provided for in regulation 59 and Schedule 5,”;
+- (c) omit Schedule 5 (direct payment to lender of deductions in respect of interest on secured loans);
+- (d) in Schedule 6 (deductions from benefit and direct payment to third parties), omit paragraph 6(5) and (6).
+
+**9.** (1) The Social Fund Maternity and Funeral Expenses (General) Regulations 2005 are amended as follows.
+
+(2) In regulation 3 (interpretation), in paragraph (1)—
+
+- (a) in the appropriate place insert—
+
+  > - “owner-occupier loan payments” means loan payments made under the Loans for Mortgage Interest Regulations 2017;
+
+  ;
+- (b) after paragraph (4) insert—
+
+  > (5) For the purposes of these Regulations, a person being treated as entitled to a benefit has the meaning given to it in regulation 2(2)(aa) of the Loans for Mortgage Interest Regulations 2017.
+
+  .
+
+(3) In regulation 5 (entitlement), in paragraph (2)—
+
+- (a) omit “or” between sub-paragraphs (f) and (g);
+- (b) after sub-paragraph (g) insert—
+
+  > ; or
+  >
+  > - (h) owner-occupier loan payments and is treated as entitled to a benefit specified in sub-paragraphs (a) to (c) and (f).
+
+  .
+
+(4) In regulation 7 (funeral payments: entitlement), in paragraph (4)(a)—
+
+- (a) omit “or” between sub-paragraphs (viii) and (ix);
+- (b) after sub-paragraph (ix) insert—
+
+  > ; or
+  >
+  > - (x) owner-occupier loan payments and is treated as entitled to a benefit specified in sub-paragraphs (i) to (iii) and (viii).
+
+  .
+
+**10.** (1) The Social Fund Cold Weather Payments (General) Regulations 1988 are amended as follows.
+
+(2) In regulation 1 (citation, commencement and interpretation), in paragraph (2)—
+
+- (a) in the definition of “claimant” after “universal credit” insert “or who is in receipt of owner-occupier loan payments”;
+- (b) in the appropriate place insert—
+
+  > - “owner-occupier loan payments” means loan payments made under the Loans for Mortgage Interest Regulations 2017;
+
+  .
+
+(3) In regulation 1A (prescribed description of persons)—
+
+- (a) in paragraph (2)—
+  - (i) omit “or” between sub-paragraphs (d) and (e);
+  - (ii) after sub-paragraph (e) insert—
+
+    > ; or
+    >
+    > - (f) owner-occupier loan payments and is treated as entitled to a benefit specified in sub-paragraphs (a) to (d).
+
+    ;
+- (b) in paragraph (3)—
+  - (i) in the opening words for “(d) or (e)” substitute “(d), (e) or (f)”;
+  - (ii) omit “or” between sub-paragraphs (e) and (f);
+  - (iii) after sub-paragraph (f) insert—
+
+    > ; or
+    >
+    > - (g) where P has been awarded owner-occupier loan payments, P’s applicable amount, if P were entitled to a benefit specified in paragraph (2)(b) to (d), would include one or more of the premiums specified in—
+    >   - (aa) where P is treated as entitled to income support, paragraphs 9 to 14 of Part 3 of Schedule 2 to the General Regulations;
+    >   - (bb) where P is treated as entitled to jobseeker’s allowance, paragraphs 10 to 16 of Part 3 of Schedule 1 to the Jobseeker’s Allowance Regulations 1996;
+    >   - (cc) where P is treated as entitled to employment and support allowance, paragraphs 5 to 7 of Schedule 4 to the Employment and Support Allowance Regulations 2008.
+
+    ;
+- (c) after paragraph (3) insert—
+
+  > (3A) In paragraph (3), a person being treated as entitled to a benefit has the meaning given to it in regulation 2(2)(aa) of the Loans for Mortgage Interest Regulations 2017.
+
+  .
+
+### PART 2 — Decisions and Appeals[^key-4fd87de65ec2f82b02bfdbc0cf5c2379]
+
+**11.** (1) The Social Security and Child Support (Decisions and Appeals) Regulations 1999 are amended as follows.
+
+(2) In regulation 1 (citation, commencement, application and interpretation), in paragraph (3) in the appropriate places insert—
+
+> - “the Loans for Mortgage Interest Regulations” means the Loans for Mortgage Interest Regulations 2017;
+
+> - “owner-occupier loan payments” means loan payments made under the Loans for Mortgage Interest Regulations;
+
+> - “owner-occupier payments” has the same meaning as in Part 1 of Schedule 1 to the Loans for Mortgage Interest Regulations.
+
+.
+
+(3) In regulation 7 (date from which a decision superseded under section 10 takes effect)—
+
+- (a) after paragraph (12) insert—
+
+  > (12A) Paragraph (12) applies where–
+  >
+  > - (a) the effect of a decision under section 10 is that owner-occupier loan payments are to be made to a claimant in respect of the claimant’s liability to make owner-occupier payments; and
+  > - (b) that decision could not have been made earlier because information necessary to make that decision, requested otherwise than in accordance with paragraph 8 of Schedule 4 to the Loans for Mortgage Interest Regulations (provision of information), had not been supplied to the Secretary of State by the lender.
+  >
+  > (12B) Where a claimant is receiving owner-occupier loan payments and there is a reduction in the amount owing in connection with a qualifying loan or alternative finance arrangement (within the meaning in Schedule 1 to the Loans for Mortgage Interest Regulations (meaning of owner-occupier payments)), a decision made under section 10 takes effect—
+  >
+  > - (a) on the first anniversary of the date on which the claimant’s liability to make owner-occupier payments was first met by an owner-occupier loan payment; or
+  > - (b) where the reduction in the amount owing in connection with a qualifying loan or alternative finance arrangement occurred after the first anniversary of the date referred to in sub-paragraph (a), on the next anniversary of that date following the date of the reduction.
+  >
+  > (12C) Where a claimant is receiving owner-occupier loan payments, an insurance payment deduction is made under regulation 14A(1) of the Loans for Mortgage Interest Regulations (insurance payment deduction) in relation to any decision under section 8 or 10 and there is a change in the amount of the owner-occupier payments payable—
+  >
+  > - (a) on a qualifying loan or alternative finance arrangement (within the meaning in Schedule 1 to the Loans for Mortgage Interest Regulations (meaning of owner-occupier payments)) to which those payments relate; or
+  > - (b) on a loan or alternative finance arrangement not so qualifying which is secured on the dwelling occupied as the home to which those payments relate,
+  >
+  > a decision under section 10 which is made as a result of that change in the amount of the owner-occupier payments payable shall take effect on whichever of the dates referred to in paragraph (12D) is appropriate in the claimant’s case.
+  >
+  > (12D) The date on which a decision under section 10 takes effect for the purposes of paragraph (12C) is—
+  >
+  > - (a) the date on which the claimant’s liability to make owner-occupier payments is first met by an owner-occupier loan payment; or
+  > - (b) where the change in the amount of the owner-occupier payments payable occurred after the date referred to in sub-paragraph (a), on the date of the next alteration in the standard rate following the date of that change.
+  >
+  > (12E) In paragraph (12D), “standard rate” has the same meaning as it has in regulation 13 of the Loans for Mortgage Interest Regulations (standard rate to be applied under regulations 11 and 12).
+  >
+  > (12F) Paragraph (12G) applies where—
+  >
+  > - (a) a claimant is awarded state pension credit;
+  > - (b) the claimant or the claimant’s partner has reached pensionable age (within the meaning in section 122(1) of the Contributions and Benefits Act);
+  > - (c) the claimant is in receipt of owner-occupier loan payments; and
+  > - (d) after the date from which sub-paragraph (c) applies—
+  >   - (i) a non-dependant (within the meaning in regulation 2(1) of the Loans for Mortgage Interest Regulations) begins to reside with the claimant; or
+  >   - (ii) there has been a change of circumstances in respect of a non-dependant and this reduces the amount of the owner-occupier loan payments.
+  >
+  > (12G) Where this paragraph applies, a decision made under section 10 shall take effect—
+  >
+  > - (a) where there is more than one change of the kind specified in paragraph (12F)(d) in respect of the same non-dependant within the same 26 week period, 26 weeks after the date on which the first such change occurred; and
+  > - (b) in any other circumstances, 26 weeks after the date on which a change specified in paragraph (12F)(d) occurred.
+
+  ;
+- (b) omit paragraphs (13) to (17G) and (18) to (23).
+
+(4) In regulation 13 (income support and social fund determinations on incomplete evidence), for paragraph (1) substitute—
+
+> (1) Where, for the purpose of a decision under section 8 (decisions by Secretary of State) or 10 (decisions superseding earlier decisions)—
+>
+> - (a) a determination falls to be made by the Secretary of State in respect of a claimant of income support, state pension credit or employment and support allowance as to—
+>   - (i) the amount to be included in an owner-occupier loan payment under regulation 10 of the Loans for Mortgage Interest Regulations (calculation of each loan payment); or
+>   - (ii) what housing costs are to be included in the claimant’s applicable amount (in the case of income support or employment and support allowance) or the claimant’s appropriate minimum guarantee (in the case of state pension credit); and
+> - (b) it appears to the Secretary of State that the Secretary of State is not in possession of all of the evidence or information which is relevant for the purposes of such a determination,
+>
+> the Secretary of State shall make the determination on the assumption that the amounts to be included in an owner-occupier loan payment, the claimant’s applicable amount, or the claimant’s appropriate minimum guarantee, as the case may be, are those that can be immediately determined.
+
+.
+
+(5) In Schedule 2 (decisions against which no appeal lies), in paragraph 5 for sub-paragraph (u) substitute—
+
+> - (u) regulation 17(1) (direct payments to qualifying lenders by Secretary of State where specified circumstances met) of the Loans for Mortgage Interest Regulations;
+
+.
+
+**12.** (1) The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Decisions and Appeals) Regulations 2013 are amended as follows.
+
+(2) In Schedule 3 (decisions against which no appeal lies), in paragraph 1 omit sub-paragraph (o).
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the Secretary of State to make loan payments to claimants of income-related employment and support allowance, income support, income-based jobseeker’s allowance, state pension credit or universal credit (referred to as “qualifying benefits”) or, if applicable, direct to the claimant’s mortgage lender, in respect of the claimant’s liability to make owner-occupier payments (principally mortgage interest) on the claimant’s home.
+
+The powers to make such provision are contained in sections 18 to 21 of the Welfare Reform and Work Act [2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7) (the “2016 Act”). The Regulations also make consequential changes to the regulations providing for the qualifying benefits so that support with owner-occupier payments is no longer payable as part of the benefit award.
+
+Regulation 1 provides for the citation and commencement of these Regulations. The Regulations come into force on 27th July 2017, with the exception of regulations 18 to 21 which come into force on 6th April 2018.
+
+Regulation 2 sets out the definitions which are used in these Regulations.
+
+Regulation 3 provides that the Secretary of State may offer loan payments to a claimant in respect of any liability the claimant has, or is treated as having, to make owner-occupier payments in respect of the accommodation the claimant is, or is treated as, occupying as the claimant’s home. The meaning of “owner-occupier payments”, the circumstances in which a claimant is, or is to be treated as, liable to make owner-occupier payments and the circumstances in which a claimant is, or is to be treated as, occupying accommodation as the claimant’s home (referred to as the “relevant accommodation”) are set out in Schedules 1 to 3 to the Regulations.
+
+Regulation 3(4) provides that a claimant of universal credit will not be eligible for the offer of loan payments if any member of the benefit unit (comprised of the claimant and his or her partner, if any) has any earned income.
+
+Regulation 4 provides that the offer of loan payments is accepted where the Secretary of State has received the loan agreement signed by, in the case of a single claimant, the claimant and the claimant’s partner (if any), or joint claimants, and the relevant documents referred to in regulation 5(2).
+
+Under regulation 5, the Secretary of State shall only make the loan payments if the offer is accepted and certain conditions are met. The conditions are that—
+
+- (a) in England and Wales, where the legal owners of the relevant accommodation are all in the benefit unit, each legal owner has executed a charge by way of legal mortgage. However, where any legal owners are not in the benefit unit, any legal owners who are in the benefit unit must execute an equitable charge in respect of his or her beneficial interest in the accommodation;
+- (b) in Scotland, each legal owner within the benefit unit has executed a standard security in respect of his or her interest in the relevant accommodation;
+- (c) the Secretary of State has obtained written consent from any person in the benefit unit who is not a legal owner to the creation of a charge;
+- (d) the Secretary of State has provided certain information about the loan payments, which is set out in regulation 6, to the claimant and the claimant’s partner (if any).
+
+Regulation 7 sets out the intervals at which the loan payments will be made to the claimant or, if relevant, direct to the claimant’s mortgage lender.
+
+Regulation 8 provides for the day from which loan payments will be made, which will not be before 6th April 2018.
+
+Under regulation 9(1), loan payments will continue to be made at intervals indefinitely. However, if one of the circumstances in regulation 9(3) occurs (which includes where the claimant ceases to be entitled to a qualifying benefit), the loan payments will stop.
+
+Regulation 9(4) provides that where a claimant ceases to be entitled to income support, an income-based jobseeker’s allowance or an income-related employment and support allowance because, in the case of a single claimant, the claimant or the claimant’s partner, or either joint claimant, starts remunerative work, the loan payments will be paid to the claimant for a period of 4 weeks if the conditions in paragraph (5) are met.
+
+Regulation 10 provides that the amount of each loan payment will be the sum of the amounts calculated under regulations 11 and 12. Regulation 11 provides for the calculation of an amount to be included in each loan payment in respect of qualifying loans. Regulation 12 provides for the calculation of an amount to be included in respect of alternative finance arrangements (this is applicable to universal credit and state pension credit claimants only).
+
+Regulation 13 sets out how the standard rate, which is used to determine the amount of each loan payment, is determined. Regulation 14 applies a non-dependant deduction to the loan payment calculated under regulation 10, save in the case of a universal credit claimant.
+
+Regulation 15 makes provision as to the payment of interest on the sum of the loan payments made.
+
+Regulation 16 provides the circumstances and manner in which a claimant must repay the sum of the loan payments and accrued interest. Under regulation 16(8) and (9) a claimant may repay the outstanding amount voluntarily.
+
+Under regulation 17, each loan payment must be made direct to a claimant’s lender where the conditions in paragraph (2) are met (including that the lender satisfies the definition of “qualifying lender” in the 2016 Act); otherwise the loan payments must be made to the claimant.
+
+Regulation 18 provides that the amendments in Schedule 5 have effect.
+
+Regulation 19 contains transitional provisions for the situation where an existing claimant is entitled to a qualifying benefit, including an amount for owner-occupier payments, on 5th April 2018. In this case, the amendments made by Schedule 5 are treated as if they were not in force for a temporary period, enabling support with owner-occupier payments to continue to be paid as part of a claimant’s qualifying benefit during this time.
+
+Regulation 20 provides that where the Secretary of State determines that an existing claimant lacks capacity to make decisions about entering into a loan agreement, the amendments made by Schedule 5 are treated as if they were not in force until a relevant person has made a decision (for example, a decision to appoint a deputy with power to act on the claimant’s behalf in respect of entering into a loan agreement), enabling support with owner-occupier payments to continue to be paid as part of a claimant’s qualifying benefit during this time.
+
+Regulation 21 provides that where a claimant or the claimant’s former partner was entitled to a legacy benefit within one month before a claim for universal credit is made, and the claimant or the former partner was entitled to an amount in respect of housing costs as part of that benefit award or to loan payments, the claimant will be entitled to loan payments in conjunction with the award of universal credit without having to serve the qualifying period. Where the previous award did not include an amount for housing costs because the qualifying period was in the course of being served, the regulation provides for a modified qualifying period in relation to the universal credit award.
+
+Regulation 22 enables any function of the Secretary of State under these Regulations to be delegated to a person authorised by the Secretary of State for that purpose.
+
+Schedule 1 to the Regulations sets out the meaning of owner-occupier payments.
+
+Schedule 2 sets out the circumstances in which a claimant is, or is to be treated as, liable to make owner-occupier payments.
+
+Schedule 3 sets out the circumstances in which a claimant is, or is to be treated as, occupying accommodation as the claimant’s home.
+
+Schedule 4 makes provision for direct payments to qualifying lenders where the circumstances in regulation 17(2) apply.
+
+Schedule 5 sets out amendments to the provisions of the regulations which currently provide for support with owner-occupier payments to be included in a claimant’s qualifying benefit, so that such support is no longer included.
+
+An impact assessment has not been produced for this instrument as it has no impact on business and civil society organisations. This instrument has no impact on the public sector.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18). Section 35(1) is cited for the meaning of “prescribed” and “regulations”. Section 36(4) was amended by paragraph 63 of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 9)](https://www.legislation.gov.uk/ukpga/1999/9).
+
+[^f00002]: Footnote: [2002 c. 16](https://www.legislation.gov.uk/ukpga/2002/16). Section 17(1) is cited for the meaning of “prescribed” and “regulations”. Section 19(1) applies section 175(1), (3) and (4) of the Social Security Contributions and Benefits Act [1992 (c. 4)](https://www.legislation.gov.uk/ukpga/1992/4) to regulations under the State Pension Credit Act 2002.
+
+[^f00003]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 137(1) is cited for the meaning of “prescribed”. Section 175(1) and (4) was amended by paragraph 29(2) and (4) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999.
+
+[^f00004]: Footnote: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5). Section 24(1) is cited for the meaning of “prescribed” and “regulations”.
+
+[^f00005]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^f00006]: Footnote: [2016 c. 7](https://www.legislation.gov.uk/ukpga/2016/7).
+
+[^f00007]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^key-b05ea1dce407a3fc99bf4820df0db2cf]: Textual amendment: Words in reg. 2 inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/a)
+
+[^f00008]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794). Regulation 67 was amended by [S.I. 2009/3228](https://www.legislation.gov.uk/uksi/2009/3228) and [2017/204](https://www.legislation.gov.uk/uksi/2017/204).
+
+[^f00009]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967). Regulation 17 was amended by [S.I. 1988/1445](https://www.legislation.gov.uk/uksi/1988/1445), [1989/1678](https://www.legislation.gov.uk/uksi/1989/1678), [1991/387](https://www.legislation.gov.uk/uksi/1991/387), [2003/455](https://www.legislation.gov.uk/uksi/2003/455), [2005/2687](https://www.legislation.gov.uk/uksi/2005/2687), [2006/588](https://www.legislation.gov.uk/uksi/2006/588) and [2009/3228](https://www.legislation.gov.uk/uksi/2009/3228).
+
+[^f00010]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207). Regulation 83 was amended by [S.I. 2003/455](https://www.legislation.gov.uk/uksi/2003/455) and [1121](https://www.legislation.gov.uk/uksi/2003/1121) and [2009/3228](https://www.legislation.gov.uk/uksi/2009/3228). Regulation 84 was amended by S.I [1996/1516](https://www.legislation.gov.uk/uksi/1996/1516), [2001/3767](https://www.legislation.gov.uk/uksi/2001/3767), [2003/455](https://www.legislation.gov.uk/uksi/2003/455) and [1121](https://www.legislation.gov.uk/uksi/2003/1121) and [2009/3228](https://www.legislation.gov.uk/uksi/2009/3228). Regulations 86A and 86B were amended by [S.I. 2000/1978](https://www.legislation.gov.uk/uksi/2000/1978), [2001/3767](https://www.legislation.gov.uk/uksi/2001/3767), [2003/1121](https://www.legislation.gov.uk/uksi/2003/1121) and [2009/3228](https://www.legislation.gov.uk/uksi/2009/3228).
+
+[^f00011]: Footnote: [2002 c. 6](https://www.legislation.gov.uk/ukpga/2002/6). Section 2 is amended by paragraph 14 of Schedule 24 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^f00012]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376). Regulation 23(1) was amended by [S.I. 2017/204](https://www.legislation.gov.uk/uksi/2017/204).
+
+[^f00013]: Footnote: Regulation 21 was amended by [S.I. 2014/2887](https://www.legislation.gov.uk/uksi/2014/2887) and [2015/1362](https://www.legislation.gov.uk/uksi/2015/1362).
+
+[^f00014]: Footnote: There have been amendments to regulation 2 which are not relevant to these Regulations.
+
+[^f00015]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Paragraph 4 was amended by [S.I. 1988/522](https://www.legislation.gov.uk/uksi/1988/522).
+
+[^f00016]: Footnote: Regulation 2 was amended by [S.I. 2009/604](https://www.legislation.gov.uk/uksi/2009/604) and other amending instruments which are not relevant to these Regulations.
+
+[^f00017]: Footnote: There have been amendments to regulation 1 which are not relevant to these Regulations.
+
+[^f00018]: Footnote: [2002 c. 9](https://www.legislation.gov.uk/ukpga/2002/9).
+
+[^f00019]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
+
+[^key-88b05124364a432ddc18017945cf9ed7]: Textual amendment: Words in reg. 2 inserted (15.3.2021) by [The Loans for Mortgage Interest (Amendment) Regulations 2021 (S.I. 2021/131)](https://www.legislation.gov.uk/uksi/2021/131), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/131/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2021/131/regulation/2/2)
+
+[^f00020]: Footnote: Paragraph 1(3) was amended by [S.I. 2012/913](https://www.legislation.gov.uk/uksi/2012/913), [2013/630](https://www.legislation.gov.uk/uksi/2013/630) and [2017/204](https://www.legislation.gov.uk/uksi/2017/204).
+
+[^f00021]: Footnote: Paragraph 1(3) was amended by [S.I. 1995/2927](https://www.legislation.gov.uk/uksi/1995/2927), [2006/2378](https://www.legislation.gov.uk/uksi/2006/2378), [2008/1554](https://www.legislation.gov.uk/uksi/2008/1554), [2012/913](https://www.legislation.gov.uk/uksi/2012/913), [2013/630](https://www.legislation.gov.uk/uksi/2013/630) and [2017/204](https://www.legislation.gov.uk/uksi/2017/204).
+
+[^f00022]: Footnote: Paragraph 1(3) was amended by [S.I. 1989/534](https://www.legislation.gov.uk/uksi/1989/534), [1996/1516](https://www.legislation.gov.uk/uksi/1996/1516), [2006/2378](https://www.legislation.gov.uk/uksi/2006/2378), [2008/1554](https://www.legislation.gov.uk/uksi/2008/1554), [2012/913](https://www.legislation.gov.uk/uksi/2012/913), [2013/630](https://www.legislation.gov.uk/uksi/2013/630) and [2017/204](https://www.legislation.gov.uk/uksi/2017/204).
+
+[^f00023]: Footnote: Paragraph 1(2)(a) was amended by [S.I. 2002/3197](https://www.legislation.gov.uk/uksi/2002/3197), [2005/3360](https://www.legislation.gov.uk/uksi/2005/3360), [2006/718](https://www.legislation.gov.uk/uksi/2006/718), [2008/1554](https://www.legislation.gov.uk/uksi/2008/1554), [2012/913](https://www.legislation.gov.uk/uksi/2012/913), [2013/388](https://www.legislation.gov.uk/uksi/2013/388), [591](https://www.legislation.gov.uk/uksi/2013/591) and [630](https://www.legislation.gov.uk/uksi/2013/630), [2014/2888](https://www.legislation.gov.uk/uksi/2014/2888) and [2017/204](https://www.legislation.gov.uk/uksi/2017/204).
+
+[^f00024]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
+
+[^f00025]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794). The Regulations have been modified in their application to certain claimants by [S.I. 2008/3195](https://www.legislation.gov.uk/uksi/2008/3195), as amended by [S.I. 2009/3257](https://www.legislation.gov.uk/uksi/2009/3257).
+
+[^f00026]: Footnote: [2011 c. 4](https://www.legislation.gov.uk/ukpga/2011/4).
+
+[^f00027]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967). The Regulations have been modified in their application to certain claimants by [S.I. 2008/3195](https://www.legislation.gov.uk/uksi/2008/3195), as amended by [S.I. 2009/3257](https://www.legislation.gov.uk/uksi/2009/3257).
+
+[^key-5ae99f5ef30e03883e3c5b0d836330de]: Textual amendment: Words in reg. 2 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/b)
+
+[^f00028]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207). The Regulations have been modified in their application to certain claimants by [S.I. 2008/3195](https://www.legislation.gov.uk/uksi/2008/3195), as amended by [S.I. 2009/3257](https://www.legislation.gov.uk/uksi/2009/3257).
+
+[^key-f207d5d4aca6488f7caa3e36b7785706]: Textual amendment: Words in reg. 2 inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/c)
+
+[^f00029]: Footnote: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
+
+[^f00030]: Footnote: [S.I. 2008/3195](https://www.legislation.gov.uk/uksi/2008/3195). The Regulations were amended by [S.I. 2009/3257](https://www.legislation.gov.uk/uksi/2009/3257).
+
+[^f00031]: Footnote: [S.I. 2014/1230](https://www.legislation.gov.uk/uksi/2014/1230). Regulation 7 was amended by [S.I. 2014/2887](https://www.legislation.gov.uk/uksi/2014/2887).
+
+[^f00032]: Footnote: Regulation 3 was amended by [S.I. 1988/1445](https://www.legislation.gov.uk/uksi/1988/1445), [1989/534](https://www.legislation.gov.uk/uksi/1989/534) and [1678](https://www.legislation.gov.uk/uksi/1989/1678), [1990/1776](https://www.legislation.gov.uk/uksi/1990/1776), [1991/2334](https://www.legislation.gov.uk/uksi/1991/2334), [1994/3061](https://www.legislation.gov.uk/uksi/1994/3061) and [1995/516](https://www.legislation.gov.uk/uksi/1995/516).
+
+[^f00033]: Footnote: There have been amendments to regulation 2 which are not relevant to these Regulations.
+
+[^f00034]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
+
+[^f00035]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
+
+[^key-1122075af49057b49d84204698572413]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/725/regulation/2/1) substituted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/2)
+
+[^f00036]: Footnote: Paragraph 14 was amended by [S.I. 1995/2927](https://www.legislation.gov.uk/uksi/1995/2927), [1996/206](https://www.legislation.gov.uk/uksi/1996/206) and [1944](https://www.legislation.gov.uk/uksi/1996/1944), [1997/2863](https://www.legislation.gov.uk/uksi/1997/2863), [1998/2231](https://www.legislation.gov.uk/uksi/1998/2231), [1999/714](https://www.legislation.gov.uk/uksi/1999/714), [1921](https://www.legislation.gov.uk/uksi/1999/1921) and [3178](https://www.legislation.gov.uk/uksi/1999/3178), [2000/724](https://www.legislation.gov.uk/uksi/2000/724) and [1981](https://www.legislation.gov.uk/uksi/2000/1981), [2001/488](https://www.legislation.gov.uk/uksi/2001/488) and [1029](https://www.legislation.gov.uk/uksi/2001/1029), [2002/841](https://www.legislation.gov.uk/uksi/2002/841) and [3019](https://www.legislation.gov.uk/uksi/2002/3019), [2005/2465](https://www.legislation.gov.uk/uksi/2005/2465), [2006/2378](https://www.legislation.gov.uk/uksi/2006/2378), [2008/698](https://www.legislation.gov.uk/uksi/2008/698), [1554](https://www.legislation.gov.uk/uksi/2008/1554), [2428](https://www.legislation.gov.uk/uksi/2008/2428) and [2767](https://www.legislation.gov.uk/uksi/2008/2767) and [2011/674](https://www.legislation.gov.uk/uksi/2011/674) .
+
+[^f00037]: Footnote: Paragraph 13 was amended by [S.I. 1996/1516](https://www.legislation.gov.uk/uksi/1996/1516), [1517](https://www.legislation.gov.uk/uksi/1996/1517) and [2538](https://www.legislation.gov.uk/uksi/1996/2538), [1997/827](https://www.legislation.gov.uk/uksi/1997/827) and [2863](https://www.legislation.gov.uk/uksi/1997/2863), [1998/2231](https://www.legislation.gov.uk/uksi/1998/2231), [1999/714](https://www.legislation.gov.uk/uksi/1999/714), [1921](https://www.legislation.gov.uk/uksi/1999/1921) and [2860](https://www.legislation.gov.uk/uksi/1999/2860), [2000/724](https://www.legislation.gov.uk/uksi/2000/724) and [1978](https://www.legislation.gov.uk/uksi/2000/1978), [2001/488](https://www.legislation.gov.uk/uksi/2001/488) and [1029](https://www.legislation.gov.uk/uksi/2001/1029), [2002/841](https://www.legislation.gov.uk/uksi/2002/841) and [3019](https://www.legislation.gov.uk/uksi/2002/3019), [2005/2465](https://www.legislation.gov.uk/uksi/2005/2465), [2006/2378](https://www.legislation.gov.uk/uksi/2006/2378), [2008/698](https://www.legislation.gov.uk/uksi/2008/698), [1554](https://www.legislation.gov.uk/uksi/2008/1554), [1826](https://www.legislation.gov.uk/uksi/2008/1826) and [2767](https://www.legislation.gov.uk/uksi/2008/2767), [2009/480](https://www.legislation.gov.uk/uksi/2009/480) and [2011/674](https://www.legislation.gov.uk/uksi/2011/674) and [2425](https://www.legislation.gov.uk/uksi/2011/2425).
+
+[^f00038]: Footnote: Paragraph 15 was amended by [S.I. 2008/2428](https://www.legislation.gov.uk/uksi/2008/2428), [2011/674](https://www.legislation.gov.uk/uksi/2011/674), [2425](https://www.legislation.gov.uk/uksi/2011/2425) and [2428](https://www.legislation.gov.uk/uksi/2011/2428), [2013/388](https://www.legislation.gov.uk/uksi/2013/388) and [599](https://www.legislation.gov.uk/uksi/2013/599) and [2015/1647](https://www.legislation.gov.uk/uksi/2015/1647).
+
+[^f00039]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 142 was substituted by section 1(2) of the Child Benefit Act [2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6).
+
+[^f00040]: Footnote: Regulation 4A was inserted by [S.I. 2016/624](https://www.legislation.gov.uk/uksi/2016/624).
+
+[^key-10a78266f65c18873237255d195667e0]: Textual amendment: Words in reg. 2 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/d)
+
+[^key-41f7f1f3d792aff695ef37830c7cb7ab]: Textual amendment: Words in reg. 2 inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/e)
+
+[^f00041]: Footnote: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792). The Regulations have been modified in their application to certain claimants by [S.I. 2008/3195](https://www.legislation.gov.uk/uksi/2008/3195), as amended by [S.I. 2009/3257](https://www.legislation.gov.uk/uksi/2009/3257).
+
+[^f00042]: Footnote: [1970 c. 35](https://www.legislation.gov.uk/ukpga/1970/35).
+
+[^key-4746e861e29da994b843f317cd4c0662]: Textual amendment: Words in reg. 2 inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(f)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/f)
+
+[^f00043]: Footnote: [S.I. 2014/1230](https://www.legislation.gov.uk/uksi/2014/1230).
+
+[^f00044]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
+
+[^key-8b58f362202aca14e48faf3aeef944a1]: Textual amendment: Reg. 2(2)(aa) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(g)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/g)
+
+[^f00045]: Footnote: Regulation 156(10) was amended by [S.I. 2008/2428](https://www.legislation.gov.uk/uksi/2008/2428), [2011/1740](https://www.legislation.gov.uk/uksi/2011/1740) and [2015/643](https://www.legislation.gov.uk/uksi/2015/643).
+
+[^f00046]: Footnote: Regulation 15 was amended by [S.I. 1993/2119](https://www.legislation.gov.uk/uksi/1993/2119) and [2002/2402](https://www.legislation.gov.uk/uksi/2002/2402).
+
+[^f00047]: Footnote: Regulation 77 was amended by [S.I. 2002/2402](https://www.legislation.gov.uk/uksi/2002/2402).
+
+[^f00048]: Footnote: Regulation 4 was amended by [S.I. 2013/1508](https://www.legislation.gov.uk/uksi/2013/1508).
+
+[^f00049]: Footnote: Regulation 156 was amended by [S.I. 2008/2428](https://www.legislation.gov.uk/uksi/2008/2428), [2011/1740](https://www.legislation.gov.uk/uksi/2011/1740) and [2015/643](https://www.legislation.gov.uk/uksi/2015/643).
+
+[^f00050]: Footnote: Regulation 16 was amended by [S.I. 1988/663](https://www.legislation.gov.uk/uksi/1988/663), [1989/534](https://www.legislation.gov.uk/uksi/1989/534), [1990/547](https://www.legislation.gov.uk/uksi/1990/547), [1992/468](https://www.legislation.gov.uk/uksi/1992/468) and [3147](https://www.legislation.gov.uk/uksi/1992/3147), [1993/2119](https://www.legislation.gov.uk/uksi/1993/2119), [1996/206](https://www.legislation.gov.uk/uksi/1996/206) and [1944](https://www.legislation.gov.uk/uksi/1996/1944), [2005/445](https://www.legislation.gov.uk/uksi/2005/445), [2078](https://www.legislation.gov.uk/uksi/2005/2078) and [2687](https://www.legislation.gov.uk/uksi/2005/2687), [2006/2378](https://www.legislation.gov.uk/uksi/2006/2378), [2011/1740](https://www.legislation.gov.uk/uksi/2011/1740) and [2015/643](https://www.legislation.gov.uk/uksi/2015/643).
+
+[^f00051]: Footnote: Regulation 78 was amended by [S.I. 1996/1516](https://www.legislation.gov.uk/uksi/1996/1516) and [1517](https://www.legislation.gov.uk/uksi/1996/1517), [2000/1978](https://www.legislation.gov.uk/uksi/2000/1978), [2005/2687](https://www.legislation.gov.uk/uksi/2005/2687), [2006/588](https://www.legislation.gov.uk/uksi/2006/588) and [2378](https://www.legislation.gov.uk/uksi/2006/2378), [2008/1554](https://www.legislation.gov.uk/uksi/2008/1554), [2011/1740](https://www.legislation.gov.uk/uksi/2011/1740), and [2015/643](https://www.legislation.gov.uk/uksi/2015/643).
+
+[^f00052]: Footnote: Regulation 5 was amended by [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792), [3019](https://www.legislation.gov.uk/uksi/2002/3019) and [3197](https://www.legislation.gov.uk/uksi/2002/3197), [2003/2274](https://www.legislation.gov.uk/uksi/2003/2274), [2005/445](https://www.legislation.gov.uk/uksi/2005/445), [2078](https://www.legislation.gov.uk/uksi/2005/2078) and [2687](https://www.legislation.gov.uk/uksi/2005/2687), [2006/2378](https://www.legislation.gov.uk/uksi/2006/2378), [2008/2424](https://www.legislation.gov.uk/uksi/2008/2424) and [2016/624](https://www.legislation.gov.uk/uksi/2016/624).
+
+[^f00053]: Footnote: Regulation 43 was amended by [S.I. 2009/3228](https://www.legislation.gov.uk/uksi/2009/3228), [2013/2536](https://www.legislation.gov.uk/uksi/2013/2536) and [2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
+
+[^f00054]: Footnote: Regulation 5 was amended by [S.I. 1988/663](https://www.legislation.gov.uk/uksi/1988/663), [1445](https://www.legislation.gov.uk/uksi/1988/1445) and [2022](https://www.legislation.gov.uk/uksi/1988/2022), [1990/547](https://www.legislation.gov.uk/uksi/1990/547), [1991/1559](https://www.legislation.gov.uk/uksi/1991/1559), [1993/2119](https://www.legislation.gov.uk/uksi/1993/2119), [1995/516](https://www.legislation.gov.uk/uksi/1995/516), [1996/1944](https://www.legislation.gov.uk/uksi/1996/1944), [1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [2000/681](https://www.legislation.gov.uk/uksi/2000/681), [2001/488](https://www.legislation.gov.uk/uksi/2001/488), [2002/2689](https://www.legislation.gov.uk/uksi/2002/2689), [2007/2618](https://www.legislation.gov.uk/uksi/2007/2618), [2008/698](https://www.legislation.gov.uk/uksi/2008/698) and [2014/3255](https://www.legislation.gov.uk/uksi/2014/3255). Regulation 6 was amended by [S.I. 1999/2556](https://www.legislation.gov.uk/uksi/1999/2556), [2000/681](https://www.legislation.gov.uk/uksi/2000/681), [2003/1589](https://www.legislation.gov.uk/uksi/2003/1589), [2004/963](https://www.legislation.gov.uk/uksi/2004/963), [2007/3183](https://www.legislation.gov.uk/uksi/2007/3183), [2008/1554](https://www.legislation.gov.uk/uksi/2008/1554), [2009/3228](https://www.legislation.gov.uk/uksi/2009/3228) and [2010/641](https://www.legislation.gov.uk/uksi/2010/641).
+
+[^f00055]: Footnote: Regulation 53 was amended by [S.I. 2009/3228](https://www.legislation.gov.uk/uksi/2009/3228), [2013/2536](https://www.legislation.gov.uk/uksi/2013/2536), [2014/3255](https://www.legislation.gov.uk/uksi/2014/3255) and [2015/389](https://www.legislation.gov.uk/uksi/2015/389).
+
+[^f00056]: Footnote: Paragraph 2 was amended by [S.I. 2002/3197](https://www.legislation.gov.uk/uksi/2002/3197), [2003/2274](https://www.legislation.gov.uk/uksi/2003/2274) and [2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
+
+[^key-cf4b90daa703c72fcd84a5ffeb823f0e]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/725/regulation/3/1) omitted (3.4.2023) by virtue of [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/3/a)
+
+[^key-852919337728908d379e5ae120ebe3ba]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2017/725/regulation/3/4) omitted (3.4.2023) by virtue of [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/3/b)
+
+[^key-dac04a145d9081e4f6a138540cba58a0]: Textual amendment: Reg. 7(b) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/3)
+
+[^key-f30816e79cf40c95eb53ff474f34295e]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2017/725/regulation/8/1/b) inserted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/4/a/i)
+
+[^key-5e58ed77e23e0e9b5f5a6c364d84938f]: Textual amendment: [Reg. 8(1)(ba)](https://www.legislation.gov.uk/uksi/2017/725/regulation/8/1/ba)[(bb)](https://www.legislation.gov.uk/uksi/2017/725/regulation/8/1/bb) inserted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/4/a/ii)
+
+[^key-5ed81daa1feb8fdf495ed77375291b06]: Textual amendment: Reg. 8(1)(c) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/4/a)
+
+[^key-db8fe8380b4663149fafbbf82aac4fa1]: Textual amendment: Words in [reg. 8(1)(c)](https://www.legislation.gov.uk/uksi/2017/725/regulation/8/1/c) substituted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/4/a/iii)
+
+[^key-3b361010899a88b850517ba494181ce4]: Textual amendment: Reg. 8(1)(e) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/4/b)
+
+[^key-3ce5d4d229ec5c888af7516b27601d16]: Textual amendment: Reg. 8(2) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/4/c)
+
+[^key-cbca6fe126374bbdd405163f3e372b4b]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2017/725/regulation/8/2) substituted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/4/b)
+
+[^key-fc195898d88576ba77b46315506b6f8c]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2017/725/regulation/8/3) inserted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/4/c)
+
+[^key-87d7b66fe093e7faff8c5c1978b9474b]: Textual amendment: Words in reg. 9(3)(a) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/5/a)
+
+[^key-d582697994ec00a98d361d57b4323415]: Textual amendment: [Reg. 9(3)(e)](https://www.legislation.gov.uk/uksi/2017/725/regulation/9/3/e) omitted (3.4.2023) by virtue of [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/5/a)
+
+[^key-4529927cd38e09bfdfb257f0d0a87f6e]: Textual amendment: [Reg. 9(7)](https://www.legislation.gov.uk/uksi/2017/725/regulation/9/7)[(8)](https://www.legislation.gov.uk/uksi/2017/725/regulation/9/8) substituted for [reg. 9(7)](https://www.legislation.gov.uk/uksi/2017/725/regulation/9/7) (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/5/b)
+
+[^key-d56abdebf9f16eb1e4a9d48c55e36224]: Textual amendment: Words in reg. 10 inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/6)
+
+[^key-107f5c717bbee9c763c1b6ee2d4ec1b3]: Textual amendment: Words in reg. 12(5) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/7)
+
+[^f00058]: Footnote: Paragraph 17 was amended by [S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217) and [2378](https://www.legislation.gov.uk/uksi/2006/3278).
+
+[^f00059]: Footnote: Paragraph 16 was amended by [S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217) and [2378](https://www.legislation.gov.uk/uksi/2006/3278).
+
+[^f00060]: Footnote: Paragraph 13 was amended by [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967), [1996/207](https://www.legislation.gov.uk/uksi/1996/207), [2002/3019](https://www.legislation.gov.uk/uksi/2002/3019), [2006/2378](https://www.legislation.gov.uk/uksi/2006/2378), [2008/794](https://www.legislation.gov.uk/uksi/2008/794) and [2017/524](https://www.legislation.gov.uk/uksi/2017/524).
+
+[^f00061]: Footnote: Paragraph 18 was amended by [S.I. 1995/2927](https://www.legislation.gov.uk/uksi/1995/2927), [1996/2518](https://www.legislation.gov.uk/uksi/1996/2518), [2004/2327](https://www.legislation.gov.uk/uksi/2004/2327), [2005/3360](https://www.legislation.gov.uk/uksi/2005/3360), [2006/217](https://www.legislation.gov.uk/uksi/2006/217), [2008/1553](https://www.legislation.gov.uk/uksi/2008/1553) and [2767](https://www.legislation.gov.uk/uksi/2008/2767), [2010/641](https://www.legislation.gov.uk/uksi/2010/641), [2011/2425](https://www.legislation.gov.uk/uksi/2011/2425), [2013/388](https://www.legislation.gov.uk/uksi/2013/388), [443](https://www.legislation.gov.uk/uksi/2013/443), [591](https://www.legislation.gov.uk/uksi/2013/591) and [630](https://www.legislation.gov.uk/uksi/2013/630), [2014/2888](https://www.legislation.gov.uk/uksi/2014/2888) and [2017/204](https://www.legislation.gov.uk/uksi/2017/204) and [329](https://www.legislation.gov.uk/uksi/2017/329).
+
+[^f00062]: Footnote: Paragraph 17 was amended by [S.I. 1996/1517](https://www.legislation.gov.uk/uksi/1996/1517) and [2538](https://www.legislation.gov.uk/uksi/1996/2538), [1997/827](https://www.legislation.gov.uk/uksi/1997/827), [1999/2518](https://www.legislation.gov.uk/uksi/1999/2518) and [2860](https://www.legislation.gov.uk/uksi/1999/2860), [2003/1195](https://www.legislation.gov.uk/uksi/2003/1195), [2004/2327](https://www.legislation.gov.uk/uksi/2004/2327), [2005/3360](https://www.legislation.gov.uk/uksi/2005/3360), [2006/217](https://www.legislation.gov.uk/uksi/2006/217), [2008/1554](https://www.legislation.gov.uk/uksi/2008/1554) and [2767](https://www.legislation.gov.uk/uksi/2008/2767), [2010/641](https://www.legislation.gov.uk/uksi/2010/641), [2011/2425](https://www.legislation.gov.uk/uksi/2011/2425), [2013/388](https://www.legislation.gov.uk/uksi/2013/388), [443](https://www.legislation.gov.uk/uksi/2013/443), [591](https://www.legislation.gov.uk/uksi/2013/591) and [630](https://www.legislation.gov.uk/uksi/2013/630), [2014/2888](https://www.legislation.gov.uk/uksi/2014/2888), [2017/204](https://www.legislation.gov.uk/uksi/2017/204), [260](https://www.legislation.gov.uk/uksi/2017/260) and [329](https://www.legislation.gov.uk/uksi/2017/329).
+
+[^f00063]: Footnote: Paragraph 19 was amended by [S.I. 2008/2428](https://www.legislation.gov.uk/uksi/2008/2428), [2013/388](https://www.legislation.gov.uk/uksi/2013/388), [591](https://www.legislation.gov.uk/uksi/2013/591) and [630](https://www.legislation.gov.uk/uksi/2013/630), [2014/2888](https://www.legislation.gov.uk/uksi/2014/2888) and [2017/204](https://www.legislation.gov.uk/uksi/2017/204).
+
+[^f00064]: Footnote: Paragraph 14 was amended by [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968), [2002/3197](https://www.legislation.gov.uk/uksi/2002/3197), [2003/526](https://www.legislation.gov.uk/uksi/2003/526), [1195](https://www.legislation.gov.uk/uksi/2003/1195) and [2274](https://www.legislation.gov.uk/uksi/2003/2274), [2004/552](https://www.legislation.gov.uk/uksi/2004/552) and [2327](https://www.legislation.gov.uk/uksi/2004/2327), [2005/522](https://www.legislation.gov.uk/uksi/2005/522) and [3360](https://www.legislation.gov.uk/uksi/2005/3360), [2006/645](https://www.legislation.gov.uk/uksi/2006/645) and [2378](https://www.legislation.gov.uk/uksi/2006/2378), [2007/668](https://www.legislation.gov.uk/uksi/2007/668), [2008/632](https://www.legislation.gov.uk/uksi/2008/632), [1554](https://www.legislation.gov.uk/uksi/2008/1554) and [2767](https://www.legislation.gov.uk/uksi/2008/2767), [2009/497](https://www.legislation.gov.uk/uksi/2009/497), [2010/641](https://www.legislation.gov.uk/uksi/2010/641) and [793](https://www.legislation.gov.uk/uksi/2010/793), [2011/821](https://www.legislation.gov.uk/uksi/2011/821) and [2425](https://www.legislation.gov.uk/uksi/2011/2425), [2012/780](https://www.legislation.gov.uk/uksi/2012/780), [2013/388](https://www.legislation.gov.uk/uksi/2013/388), [443](https://www.legislation.gov.uk/uksi/2013/443), [574](https://www.legislation.gov.uk/uksi/2013/574), [591](https://www.legislation.gov.uk/uksi/2013/591) and [630](https://www.legislation.gov.uk/uksi/2013/630), [2014/516](https://www.legislation.gov.uk/uksi/2014/516) and [2888](https://www.legislation.gov.uk/uksi/2014/2888), [2015/457](https://www.legislation.gov.uk/uksi/2015/457), [2016/242](https://www.legislation.gov.uk/uksi/2016/242), [2017/204](https://www.legislation.gov.uk/uksi/2017/204), [260](https://www.legislation.gov.uk/uksi/2017/260) and [329](https://www.legislation.gov.uk/uksi/2017/329).
+
+[^key-f8be72b6a274d0ec2b4b923705949345]: Textual amendment: Reg. 14A inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/8)
+
+[^key-356901ffb300ca317d9160bd65888845]: Textual amendment: Reg. 15(1)(c) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/9/a)
+
+[^key-3c85c3f1531bd7e613b2e4ec07c3b2f1]: Textual amendment: Reg. 15(1A)(1B) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/9/b)
+
+[^key-d4e648cbf3209874fbde52d541704bc7]: Textual amendment: Words in reg. 15(4) substituted (15.3.2021) by [The Loans for Mortgage Interest (Amendment) Regulations 2021 (S.I. 2021/131)](https://www.legislation.gov.uk/uksi/2021/131), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/131/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2021/131/regulation/2/3)
+
+[^key-fde95784ed1f250b95640af74fc49420]: Textual amendment: Reg. 15(4A) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(9)(c)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/9/c)
+
+[^f00065]: Footnote: [2011 c. 4](https://www.legislation.gov.uk/ukpga/2011/4).
+
+[^key-90b04fed5a0288860eb63dc9ebc5c537]: Textual amendment: Words in reg. 16(1) substituted (15.3.2021) by [The Loans for Mortgage Interest (Amendment) Regulations 2021 (S.I. 2021/131)](https://www.legislation.gov.uk/uksi/2021/131), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/131/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2021/131/regulation/2/4)
+
+[^key-1167f8eb88dac047d3da508e332a5faf]: Textual amendment: Reg. 16(1)(c) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/10/a)
+
+[^key-f77bdbe2eee4f71a7e3f838914dfd996]: Textual amendment: Reg. 16(3)(aa) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(10)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/10/b)
+
+[^key-239766d7ff9f933b4aa2dd006f0409f6]: Textual amendment: Reg. 16A inserted (15.3.2021) by [The Loans for Mortgage Interest (Amendment) Regulations 2021 (S.I. 2021/131)](https://www.legislation.gov.uk/uksi/2021/131), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/131/regulation/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2021/131/regulation/2/5)
+
+[^key-4d725b609af577b797662a72cd55be32]: Textual amendment: Reg. 18 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/11)
+
+[^key-ba31efa918aa3f0f6cf66b3bea7617ef]: Textual amendment: Regs. 19-20 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/12)
+
+[^key-f990d83f42c063ab1aa9ea68599ab1bb]: Textual amendment: Words in reg. 21(1)(a)(i) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(13)(a)(i)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/13/a/i)
+
+[^f00070]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^f00071]: Footnote: [S.I. 2014/1230](https://www.legislation.gov.uk/uksi/2014/1230).
+
+[^key-444e83f4a28312d058ceddc0d70fafeb]: Textual amendment: Words in reg. 21(1)(a)(ii) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(13)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/13/a/ii)
+
+[^f00072]: Footnote: Paragraph 15 was amended by [S.I. 2008/2767](https://www.legislation.gov.uk/uksi/2008/2767). Paragraph 16 was amended by [S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217) and [2378](https://www.legislation.gov.uk/uksi/2006/2378). The Regulations have been modified in their application to certain claimants by [S.I. 2008/3195](https://www.legislation.gov.uk/uksi/2008/3195), as amended by [S.I. 2009/3257](https://www.legislation.gov.uk/uksi/2009/3257) and [2011/2425](https://www.legislation.gov.uk/uksi/2011/2425).
+
+[^f00073]: Footnote: Paragraph 16 was amended by [S.I. 2008/2767](https://www.legislation.gov.uk/uksi/2008/2767). Paragraph 17 was amended by [S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217) and [2378](https://www.legislation.gov.uk/uksi/2006/2378).
+
+[^key-442dda13b1f10a186fee9420e3f0809c]: Textual amendment: Words in reg. 21(2)(a) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(13)(b)(i)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/13/b/i)
+
+[^key-bc6873c9322d564e7661b0ee439e22e9]: Textual amendment: Words in reg. 21(2)(b) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(13)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/13/b/ii)
+
+[^key-1ba139f62cc4b656920c14ae4cc2cc27]: Textual amendment: Words in reg. 21(2)(c) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(13)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/13/b/iii)
+
+[^f00074]: Footnote: Paragraph 7(1)(b) was amended by [S.I. 2015/1647](https://www.legislation.gov.uk/uksi/2015/1647).
+
+[^f00075]: Footnote: Paragraph 9(1) was amended by [S.I. 2015/1647](https://www.legislation.gov.uk/uksi/2015/1647).
+
+[^f00076]: Footnote: Paragraph 8(1)(b) was amended by [S.I. 1995/2927](https://www.legislation.gov.uk/uksi/1995/2927) and [2015/1647](https://www.legislation.gov.uk/uksi/2015/1647).
+
+[^f00077]: Footnote: Paragraph 13 was amended by [S.I. 1996/1516](https://www.legislation.gov.uk/uksi/1996/1516), [1517](https://www.legislation.gov.uk/uksi/1996/1517) and [2538](https://www.legislation.gov.uk/uksi/1996/2538), [1997/827](https://www.legislation.gov.uk/uksi/1997/827) and [2863](https://www.legislation.gov.uk/uksi/1997/2863), [1998/2231](https://www.legislation.gov.uk/uksi/1998/2231), [1999/714](https://www.legislation.gov.uk/uksi/1999/714), [1921](https://www.legislation.gov.uk/uksi/1999/1921) and [2860](https://www.legislation.gov.uk/uksi/1999/2860), [2000/724](https://www.legislation.gov.uk/uksi/2000/724) and [1978](https://www.legislation.gov.uk/uksi/2000/1978), [2001/488](https://www.legislation.gov.uk/uksi/2001/488) and [1029](https://www.legislation.gov.uk/uksi/2001/1029), [2002/841](https://www.legislation.gov.uk/uksi/2002/841) and [3019](https://www.legislation.gov.uk/uksi/2002/3019), [2005/2465](https://www.legislation.gov.uk/uksi/2002/2465), [2006/2378](https://www.legislation.gov.uk/uksi/2006/2378), [2008/698](https://www.legislation.gov.uk/uksi/2008/698), [1554](https://www.legislation.gov.uk/uksi/2008/1554), [1826](https://www.legislation.gov.uk/uksi/2008/1826) and [2767](https://www.legislation.gov.uk/uksi/2008/2767), [2009/480](https://www.legislation.gov.uk/uksi/2009/480) and [2011/674](https://www.legislation.gov.uk/uksi/2011/674) and [2425](https://www.legislation.gov.uk/uksi/2011/2425).
+
+[^f00078]: Footnote: Paragraph 15 was amended by [S.I. 2008/2428](https://www.legislation.gov.uk/uksi/2008/2428), [2011/674](https://www.legislation.gov.uk/uksi/2011/674), [2425](https://www.legislation.gov.uk/uksi/2011/2425) and [2428](https://www.legislation.gov.uk/uksi/2011/2428) and [2013/388](https://www.legislation.gov.uk/uksi/2013/388) and [591](https://www.legislation.gov.uk/uksi/2013/591).
+
+[^f00079]: Footnote: Paragraph 14 was amended by [S.I. 1995/2927](https://www.legislation.gov.uk/uksi/1995/2927), [1996/206](https://www.legislation.gov.uk/uksi/1996/206) and [1944](https://www.legislation.gov.uk/uksi/1996/1944), [1997/2863](https://www.legislation.gov.uk/uksi/1997/2863), [1998/2231](https://www.legislation.gov.uk/uksi/1998/2231), [1999/714](https://www.legislation.gov.uk/uksi/1999/714), [1921](https://www.legislation.gov.uk/uksi/1999/1921) and [3178](https://www.legislation.gov.uk/uksi/1999/3178), [2000/724](https://www.legislation.gov.uk/uksi/2000/724) and [1981](https://www.legislation.gov.uk/uksi/2000/1981), [2001/488](https://www.legislation.gov.uk/uksi/2001/488) and [1029](https://www.legislation.gov.uk/uksi/2002/1029), [2002/841](https://www.legislation.gov.uk/uksi/2002/841) and [3019](https://www.legislation.gov.uk/uksi/2002/3019), [2005/2465](https://www.legislation.gov.uk/uksi/2005/2465), [2006/2378](https://www.legislation.gov.uk/uksi/2006/2378), [2008/698](https://www.legislation.gov.uk/uksi/2008/698), [1554](https://www.legislation.gov.uk/uksi/2008/1554), [2428](https://www.legislation.gov.uk/uksi/2008/2428) and [2767](https://www.legislation.gov.uk/uksi/2008/2767) and [2011/674](https://www.legislation.gov.uk/uksi/2011/674).
+
+[^f00080]: Footnote: Regulation 29 was amended by [S.I. 2015/1647](https://www.legislation.gov.uk/uksi/2015/1647)
+
+[^f00081]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
+
+[^f00082]: Footnote: Regulation 75(1)(a) was substituted by [S.I. 2012/2568](https://www.legislation.gov.uk/uksi/2012/2568).
+
+[^key-3b6878ded915f65137486464442066db]: Textual amendment: Words in Sch. 1 para. 3(5)(a) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(14)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/14/a)
+
+[^key-641be05560a47420c70c86bb9271150e]: Textual amendment: Words in Sch. 1 para. 3(7)(b) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(14)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/14/b)
+
+[^f00083]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3). Part 10A was inserted by section 365 of, and Part 1 of Schedule 2 to, the Taxation (International and Other Provisions) Act [2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8).
+
+[^f00084]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
+
+[^key-487aa61dcae51c1234a725ce02892eee]: Textual amendment: Words in Sch. 2 para. 5(3) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(15)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/15)
+
+[^f00085]: Footnote: There have been amendments to regulation 3 which are not relevant to these Regulations.
+
+[^f00086]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14). Section 3 was amended by paragraph 4(2) and (3) of Part 1 of Schedule 5 to the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).
+
+[^f00087]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
+
+[^f00088]: Footnote: [1993 c. 44](https://www.legislation.gov.uk/ukpga/1993/44). Section 3(1) was amended by section 2(a) of the Crofting Reform etc. Act [2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7) and section 22(1) of the Crofting Reform (Scotland) Act [2010 (asp 4)](https://www.legislation.gov.uk/asp/2010/4).
+
+[^f00089]: Footnote: The definition of “full-time student” was amended by [S.I. 2000/1981](https://www.legislation.gov.uk/uksi/2000/1981) and [2006/718](https://www.legislation.gov.uk/uksi/2006/718).
+
+[^f00090]: Footnote: The definition of “full-time student” was amended by [S.I. 1996/1516](https://www.legislation.gov.uk/uksi/1996/1516), [2001/1434](https://www.legislation.gov.uk/uksi/2001/1434) and [2319](https://www.legislation.gov.uk/uksi/2001/2319), [2006/718](https://www.legislation.gov.uk/uksi/2006/718), [2008/3157](https://www.legislation.gov.uk/uksi/2008/3157), [2010/641](https://www.legislation.gov.uk/uksi/2010/641) and [2015/971](https://www.legislation.gov.uk/uksi/2015/971).
+
+[^f00091]: Footnote: There have been amendments to regulation 131 which are not relevant to these Regulations.
+
+[^f00092]: Footnote: There have been amendments to regulation 1(2) which are not relevant to these Regulations.
+
+[^f00093]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^f00094]: Footnote: [1978 asp 29](https://www.legislation.gov.uk/asp/1978/29). Section 10F(1)(A) was inserted by the Public Services Reform (Scotland) Act [2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8).
+
+[^f00095]: Footnote: Regulation 2(1) was amended by [S.I. 2000/1981](https://www.legislation.gov.uk/uksi/2000/1981) and other amending instruments which are not relevant to these Regulations.
+
+[^f00096]: Footnote: Regulation 1(3) was amended by [S.I. 2000/1922](https://www.legislation.gov.uk/uksi/2000/1922) and other amending instruments which are not relevant to these Regulations.
+
+[^f00097]: Footnote: There have been amendments to regulation 2 which are not relevant to these Regulations.
+
+[^f00098]: Footnote: Relevant amending instruments are: [S.I. 1988/663](https://www.legislation.gov.uk/uksi/1988/663), [1991/2742](https://www.legislation.gov.uk/uksi/1991/2742), [1993/1150](https://www.legislation.gov.uk/uksi/1993/1150) and [2119](https://www.legislation.gov.uk/uksi/1993/2119), [1994/2139](https://www.legislation.gov.uk/uksi/1994/2139) and [3061](https://www.legislation.gov.uk/uksi/1994/3061), [1995/482](https://www.legislation.gov.uk/uksi/1995/482), [1998/2231](https://www.legislation.gov.uk/uksi/1998/2231), [2000/681](https://www.legislation.gov.uk/uksi/2000/681) and [724](https://www.legislation.gov.uk/uksi/2000/724), [2002/490](https://www.legislation.gov.uk/uksi/2002/490), [2497](https://www.legislation.gov.uk/uksi/2002/2497) and [3019](https://www.legislation.gov.uk/uksi/2002/3019), [2003/455](https://www.legislation.gov.uk/uksi/2003/455), [2379](https://www.legislation.gov.uk/uksi/2003/2379) and [2629](https://www.legislation.gov.uk/uksi/2003/2629), [2004/1141](https://www.legislation.gov.uk/uksi/2004/1141), [2006/2378](https://www.legislation.gov.uk/uksi/2006/2378), [2007/719](https://www.legislation.gov.uk/uksi/2007/719), [2009/1488](https://www.legislation.gov.uk/uksi/2009/1488), [2010/1160](https://www.legislation.gov.uk/uksi/2010/1160) and [1907](https://www.legislation.gov.uk/uksi/2010/1907), [2011/674](https://www.legislation.gov.uk/uksi/2011/674) and [2425](https://www.legislation.gov.uk/uksi/2011/2425), [2013/388](https://www.legislation.gov.uk/uksi/2013/388) and [591](https://www.legislation.gov.uk/uksi/2013/591), [2014/2888](https://www.legislation.gov.uk/uksi/2014/2888) and [2015/173](https://www.legislation.gov.uk/uksi/2015/173) and [1754](https://www.legislation.gov.uk/uksi/2015/1754) and other amending instruments which are not relevant to these Regulations.
+
+[^f00099]: Footnote: Relevant amending instruments are: [S.I. 1996/1516](https://www.legislation.gov.uk/uksi/1996/1516) and [2538](https://www.legislation.gov.uk/uksi/1996/2538), [1998/2231](https://www.legislation.gov.uk/uksi/1998/2231), [2000/681](https://www.legislation.gov.uk/uksi/2000/681) and [724](https://www.legislation.gov.uk/uksi/2000/724), [2002/490](https://www.legislation.gov.uk/uksi/2002/490), [2003/455](https://www.legislation.gov.uk/uksi/2003/455) and [511](https://www.legislation.gov.uk/uksi/2003/511), [2006/2378](https://www.legislation.gov.uk/uksi/2006/2378), [2007/719](https://www.legislation.gov.uk/uksi/2007/719), [2009/1488](https://www.legislation.gov.uk/uksi/2009/1488), [2010/1160](https://www.legislation.gov.uk/uksi/2010/1160), [2013/388](https://www.legislation.gov.uk/uksi/2013/388) and [591](https://www.legislation.gov.uk/uksi/2013/591), [2014/2888](https://www.legislation.gov.uk/uksi/2014/2888) and [2015/1754](https://www.legislation.gov.uk/uksi/2015/1754) and other amending instruments which are not relevant to these Regulations.
+
+[^f00100]: Footnote: Relevant amending instruments are: [2012/913](https://www.legislation.gov.uk/uksi/2012/913), [2013/630](https://www.legislation.gov.uk/uksi/2013/630) and [2017/204](https://www.legislation.gov.uk/uksi/2017/204).
+
+[^f00101]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21). Section 9 is amended by the Act.
+
+[^f00102]: Footnote: [2007 c. 21](https://www.legislation.gov.uk/ukpga/2007/21).
+
+[^M_F_50224ca3-b1fd-4bd3-fddd-c233a3bd11de]: Textual amendment: Words in Sch. 3 para. 15(1) substituted (15.3.2021) by [The Loans for Mortgage Interest (Amendment) Regulations 2021 (S.I. 2021/131)](https://www.legislation.gov.uk/uksi/2021/131), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/131/regulation/1/b), [2(6)(a)](https://www.legislation.gov.uk/uksi/2021/131/regulation/2/6/a)
+
+[^M_F_0163f162-77f7-41b4-f481-264e5fea12a1]: Textual amendment: Words in Sch. 3 para. 15(3) substituted (15.3.2021) by [The Loans for Mortgage Interest (Amendment) Regulations 2021 (S.I. 2021/131)](https://www.legislation.gov.uk/uksi/2021/131), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/131/regulation/1/b), [2(6)(b)](https://www.legislation.gov.uk/uksi/2021/131/regulation/2/6/b)
+
+[^M_F_8dbf57e6-0a7e-4cbf-bb21-fec7cdf38a94]: Textual amendment: Words in Sch. 3 para. 18(2) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/131/regulation/1/2), [2(16)](https://www.legislation.gov.uk/uksi/2021/131/regulation/2/16)
+
+[^key-9569e828c64718ff71e586f18d3f7643]: Textual amendment: Words in Sch. 4 para. 1 omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(17)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/17/a)
+
+[^key-a64705de6b9d6631459e18cc38e44ceb]: Textual amendment: Sch. 4 para. 2 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(17)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/17/b)
+
+[^key-c2d342c9edc6bd5fd47446d5780e4cbb]: Textual amendment: Sch. 4 para. 3 omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(17)(c)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/17/c)
+
+[^key-71adba1a45f93ffd63a475d1e7221ec1]: Textual amendment: Sch. 4 para. 5(3)(a)(b) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(17)(d)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/17/d)
+
+[^key-e9cbd670839e80b10e26832f8b17e029]: Textual amendment: Sch. 4 para. 6 omitted (3.8.2020) by virtue of [The Loans for Mortgage Interest (Transaction Fee) (Amendment) Regulations 2020 (S.I. 2020/666)](https://www.legislation.gov.uk/uksi/2020/666), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/666/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/666/regulation/2)
+
+[^f00103]: Footnote: [S.I. 2013/380](https://www.legislation.gov.uk/uksi/2013/380).
+
+[^key-9fa2594d539e99520a242c3a1662742b]: Textual amendment: Sch. 5 Pt. 1 heading inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/3), [2(18)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/a)
+
+[^key-94c73d70384f8945f4b5b2dc0f563f57]: Textual amendment: Sch. 5 para. 1(d) inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/3), [2(18)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/b)
+
+[^key-73598d30832f5140110954915d0090b6]: Textual amendment: Sch. 5 para. 3(g) inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/3), [2(18)(d)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/d)
+
+[^key-e8d6dae6a53bbb8f9ade713afde336f1]: Textual amendment: Sch. 5 paras. 7-10 inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)
+
+[^key-4fd87de65ec2f82b02bfdbc0cf5c2379]: Textual amendment: Sch. 5 Pt. 2 inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)

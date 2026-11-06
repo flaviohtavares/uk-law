@@ -1,0 +1,33 @@
+---
+title: Landlord and Tenant Act 1954, section 14
+act: Landlord and Tenant Act 1954
+section: '14'
+status: revised-with-pending-changes
+text_date: '2026-07-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/14
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Landlord and Tenant Act 1954, section 14
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-07-30. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/2-3/56
+>
+> Extent: England, Wales.
+
+## 14. Provisions where tenant not ordered to give up possession.
+
+*Extent: E+W*
+
+(1) The provisions of this section shall have effect where in a case falling within paragraph (a) or (b) of subsection (1) of the last foregoing section the landlord does not obtain an order under the last foregoing section.
+
+(2) If at the expiration of the period within which an application under the last foregoing section may be made the landlord has not made such an application, the landlord’s notice, and anything done in pursuance thereof, shall thereupon cease to have effect.
+
+(3) If before the expiration of the said period the landlord has made an application under the last foregoing section, but the result of the application, at the time when it is finally disposed of, is that no order is made, the landlord’s notice shall cease to have effect; but if within one month after the application to the court is finally disposed of the landlord gives a landlord’s notice proposing a statutory tenancy, the earliest date which may be specified therein as the date of termination shall, notwithstanding anything in subsection (2) of section four of this Act, be the expiration of three months from the giving of the subsequent notice.
+
+(4) The reference in the last foregoing subsection to the time at which an application is finally disposed of shall be construed as a reference to the earliest time at which the proceedings on the application (including any proceedings on or in consequence of an appeal) have been determined and any time for appealing or further appealing has expired, except that if the application is withdrawn or any appeal is abandoned the reference shall be construed as a reference to the time of withdrawal or abandonment.
+
+(5) A landlord’s notice to resume possession may be withdrawn at any time by notice in writing served on the tenant (without prejudice, however, to the power of the court to make an order as to costs if the notice is withdrawn after the landlord has made an application under the last foregoing section); and if within one month of the withdrawal of a landlord’s notice to resume possession the landlord gives a landlord’s notice proposing a statutory tenancy, the earliest date which may be specified therein as the date of termination shall, notwithstanding anything in subsection (2) of section four of this Act, be the expiration of three months from the giving of the subsequent notice or six months from the giving of the withdrawn notice, whichever is the later.
+
+(6) Where by virtue of subsection (3) or (5) of this section the landlord gives a landlord’s notice proposing a statutory tenancy which specifies as the date of termination a date earlier than six months after the giving of the notice, subsection (2) of section seven of this Act shall apply in relation to the notice with the substitution, for references to the period of two months ending with the date of termination specified in the notice and the beginning of that period, of references to the period of three months beginning with the giving of the notice and the end of that period.

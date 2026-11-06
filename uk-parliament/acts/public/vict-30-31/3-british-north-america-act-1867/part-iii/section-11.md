@@ -1,0 +1,23 @@
+---
+title: British North America Act 1867, section 11
+act: British North America Act 1867
+section: '11'
+status: revised
+text_date: '1991-02-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/Vict/30-31/3/section/11
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# British North America Act 1867, section 11
+
+> Text as at 1991-02-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 11. Constitution of Privy Council for Canada.
+
+*Extent: E+W+S+N.I.*
+
+There shall be a Council to aid and advise in the Government of Canada, to be styled the Queen’s Privy Council for Canada; and the Persons who are to be Members of that Council shall be from Time to Time chosen and summoned by the Governor General and sworn in as Privy Councillors; and Members thereof may be from Time to Time removed by the Governor General.

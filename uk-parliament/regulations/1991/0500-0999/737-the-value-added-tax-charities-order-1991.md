@@ -1,0 +1,103 @@
+---
+title: The Value Added Tax (Charities) Order 1991
+id: uksi/1991/737
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1991-03-19'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1991/737
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1991/737/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Value Added Tax (Charities) Order 1991
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1991 No. 737
+
+VALUE ADDED TAX
+
+The Value Added Tax (Charities) Order 1991
+
+Made
+
+19th March 1991
+
+Laid before the House of Commons
+
+19th March 1991
+
+Coming into force
+
+1st April 1991
+
+The Treasury, in exercise of the powers conferred on them by sections 16(4), 17(2) and 48(6) of the Value Added Tax Act 1983[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
+
+**1.** This Order may be cited as the Value Added Tax (Charities) Order 1991 and shall come into force on 1st April 1991.
+
+**2.** Group 16 (Charities, etc.) of Schedule 5 to the Value Added Tax Act 1983[^f00002] shall be varied in accordance with articles 3 to 8 of this Order.
+
+**3.** For item 1 there shall be substituted the following item:
+
+> **1.** The supply by a charity of any goods which have been donated for sale or the supply of such goods by a taxable person who has covenanted by deed to give all the profits of that supply to a charity.
+
+**4.** For item 8 there shall be substituted the following item:
+
+> **8.** The supply to a charity, for the purpose of raising money for, or making known the objects or reasons for the objects of, the charity, of—
+>
+> - (a) the broadcast on television or radio or screening in a cinema of an advertisement; or
+> - (b) the publication of an advertisement in any newspaper, journal, poster, programme, annual leaflet, brochure, pamphlet, periodical or similar publication; or
+> - (c) any goods or services in connection with the preparation of an advertisement within (b) above.
+
+**5.** In item 9, after the word “medical” where it appears for the second time, there shall be inserted the words “or veterinary”.
+
+**6.** In item 10, after the word “medical”, there shall be inserted the words “or veterinary”.
+
+**7.** Note (2) shall be deleted.
+
+**8.** In Note (4)(a), after the word “medical” where it appears for the second time, there shall be inserted the words “or veterinary”.
+
+**9.** Group 12 (Fund-Raising Events by Charities and Other Qualifying Bodies) of Schedule 6 to the Value Added Tax Act 1983[^f00003] shall be varied by inserting after Note (1) the following Note:
+
+> (1A) For the purposes of item 1 “charity” includes a body corporate which is wholly owned by a charity and whose profits (from whatever source) are payable to a charity by virtue of a deed of covenant or trust or otherwise.
+
+Gregory Knight
+
+Nicholas Baker
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+19th March 1991
+
+(This note is not part of the Order)
+
+This Order varies, with effect from 1st April 1991, items 1, 8, 9 and 10 of, and Notes (2) and (4)(a) to, Group 16 of Schedule 5 to the Value Added Tax Act 1983. It also adds a new Note (1A) to Group 12 of Schedule 6 to that Act.
+
+Article 3 of the Order extends the zero rate in item 1, Group 16, Schedule 5, for the sale of donated goods, to *all* charities, not just those established primarily for the relief of distress or for the protection or benefit of animals.
+
+Article 4 of the Order extends the zero rate in item 8, for printed media advertising supplied to charities for raising money for their work or for making known their aims and objectives, to the broadcasting of such advertisements on television and radio, and the screening of such advertisements in cinemas.
+
+Article 5 of the Order amends the zero rate in item 9 specifically to include veterinary research.
+
+Article 6 of the Order amends item 10 specifically to include substances directly used for synthesis or testing in the course of veterinary research.
+
+Article 7 of the Order deletes Note (2), which becomes otiose following the extending of item 1 (Article 3).
+
+Article 8 of the Order amends the definition of “relevant goods”, used in items 4, 5and 6, to include goods used in veterinary research.
+
+Article 9 of the Order adds Note (1A) to Group 12 of Schedule 6, in order to exempt one-off fund-raising events organised by charities' trading subsidiaries.
+
+## Annotations
+
+[^f00001]: Footnote: [1983 c. 55](https://www.legislation.gov.uk/ukpga/1983/55).
+
+[^f00002]: Footnote: Relevant variations of Group 16 were made by S.I. [1986/530](https://www.legislation.gov.uk/uksi/1986/530), [1987/437](https://www.legislation.gov.uk/uksi/1987/437), [1989/470](https://www.legislation.gov.uk/uksi/1989/470), [1990/750](https://www.legislation.gov.uk/uksi/1990/750).
+
+[^f00003]: Footnote: Group 12 was added by S.I. [1989/470](https://www.legislation.gov.uk/uksi/1989/470).

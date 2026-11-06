@@ -1,0 +1,57 @@
+---
+title: Taxation (International and Other Provisions) Act 2010, section 44
+act: Taxation (International and Other Provisions) Act 2010
+section: '44'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/8/section/44
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation (International and Other Provisions) Act 2010, section 44
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 44. Credit against tax on trade income
+
+*Extent: E+W+S+N.I.*
+
+(1) Apply section 42(2) in accordance with subsections (2) and (3) if the tax against which the credit is to be allowed is corporation tax on income that is trade income.
+
+(2) The amount of the credit must not exceed the corporation tax attributable to the income arising out of the transaction, arrangement or asset in connection with which the credit arises.
+
+(3) In calculating the amount of corporation tax attributable to any income, take into account—
+
+- (a) deductions which would be allowed in calculating the company's liability, and
+- (b) expenses of a company connected with the company, so far as reasonably attributable to the income,
+
+but see section 49 (restriction if company is a bank or is connected with a bank).
+
+(4) In subsection (3)(a) “**deductions**” includes a just and reasonable apportionment of deductions that relate—
+
+- (a) partly to the transaction, arrangement or asset from which the income arises, and
+- (b) partly to other matters.
+
+(5) Section 1122 of CTA 2010 (meaning of “connected”) applies for the purposes of subsection (3)(b).
+
+(6) In this section “**trade income**” means—
+
+- (a) income chargeable to tax under Chapter 2 or 15 of Part 3 of CTA 2009 (trade profits and post-cessation receipts),
+- (b) income chargeable to tax under Chapter 3 or 9 of Part 4 of CTA 2009 (profits of property businesses and post-cessation receipts),
+- (c) income which arises from a source outside the United Kingdom and is chargeable to tax under section 979 of CTA 2009 (charge to tax on income not otherwise charged), and
+- (d) any other income or profits which by a provision of ICTA is or are—
+  - (i) chargeable to tax under Chapter 2 of Part 3 of CTA 2009, or
+  - (ii) calculated in the same way as the profits of a trade,
+
+but does not include income to which section 99 of this Act (insurance companies) applies.
+
+(7) In subsection (6) the references—
+
+- (a) to income chargeable under Chapter 15 of Part 3 of CTA 2009, and
+- (b) to income chargeable under Chapter 9 of Part 4 of CTA 2009,
+
+do not include income that would, but for the repeal by CTA 2009 of section 103 of ICTA (post-cessation receipts where pre-cessation profits calculated on an earnings basis and other post-cessation receipts that become due or are ascertained after cessation), have been chargeable to corporation tax under that section.

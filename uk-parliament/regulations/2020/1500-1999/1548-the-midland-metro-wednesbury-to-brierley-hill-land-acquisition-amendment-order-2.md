@@ -1,0 +1,112 @@
+---
+title: The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020
+id: uksi/2020/1548
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-12-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/1548
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/1548/pdfs/uksi_20201548_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1548/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+This Statutory Instrument has been printed to correct errors in [S.I. 2020/1067](https://www.legislation.gov.uk/uksi/2020/1067) and is being issued free of charge to all known recipients of that Statutory Instrument.
+
+2020 No. 1548
+
+Transport And Works, England
+
+Transport, England
+
+The Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020
+
+Made
+
+14th December 2020
+
+Coming into force
+
+15th December 2020
+
+An application has been made to the Secretary of State in accordance with the Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006[^f00001] for an Order under sections 1 and 5 of the Transport and Works Act 1992[^f00002] (“**the 1992 Act**”).
+
+The Secretary of State has determined to make an Order giving effect to the proposals comprised in the application with modifications which in the opinion of the Secretary of State do not make any substantial change in the proposals.
+
+The Secretary of State, in exercise of the powers conferred by sections 1 and 5 of, and paragraph 7 of Schedule 1 to, the 1992 Act, makes the following Order—
+
+## 1. Citation, commencement and interpretation
+
+This Order may be cited as the Midland Metro (Wednesbury to Brierley Hill Land Acquisition) (Amendment) Order 2020 and comes into force on 15th December 2020.
+
+**2.** In this Order, “**the 2020 Order**” means the Midland Metro (Wednesbury to Brierley Hill Land Acquisition) Order 2020[^f00003].
+
+## 3. Amendments to the 2020 Order
+
+(1) The 2020 Order is amended as follows.
+
+(2) In the heading to article 1, omit “and commencement”.
+
+(3) In article 2, for the definition of “electronic transmission”, substitute—
+
+> - “**electronic transmission**” means a communication transmitted—
+>   - (a) by means of an electronic communications network; or
+>   - (b) by other means but while in electronic form,
+>
+>   and in this definition “**electronic communications network**” has the same meaning as in section 32(1) (meaning of electronic communications networks and services) of the Communications Act 2003[^f00004];.
+
+.
+
+(4) In each place where it occurs in articles 3(1), 6(1)(b) 7(1)(a)(i), (3)(a) and (12) and 8(2)(c), for “column (2)”, substitute “columns (1) and (2)”.
+
+(5) In Schedule 1 (acquisition of land and rights)—
+
+- (a) in Part 1 (acquisition of land), in the twelfth row, in the second column—
+  - (i) for “232 to 236,”, substitute “232, 234 to 236,”; and
+  - (ii) for “250,”, substitute “250a,”; and
+- (b) in Part 2 (acquisition of rights only), in the fifth row, in the second column—
+  - (i) for “251 to 253,”, substitute “251, 252,”; and
+  - (ii) omit “255,”.
+
+(6) In Schedule 3 (land of which temporary possession may be taken)—
+
+- (a) in the fifth row, in the second column—
+  - (i) omit “37,”; and
+  - (ii) for “84 to 89,”, substitute “84 to 86, 88,”; and
+- (b) in the eighth row, in the second column, omit “307,”.
+
+Signed by authority of the Secretary of State for Transport
+
+Natasha Kopala
+
+Head of the Transport and Works Act Orders Unit
+
+Department for Transport
+
+14th December 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Midland Metro (Wednesbury to Brierley Hill Land Acquisition) Order 2020, which conferred further powers of compulsory acquisition on the West Midlands Combined Authority (“**the Executive**”) for the purpose of the works authorised by the Midland Metro (Wednesbury to Brierley Hill and Miscellaneous Amendments) Order 2005. This Order makes certain changes to the land and rights over land which the Executive may compulsorily acquire, and to the land of which the Executive may take temporary possession.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2006/1466](https://www.legislation.gov.uk/uksi/2006/1466), amended by [S.I. 2010/439](https://www.legislation.gov.uk/uksi/2010/439), [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [S.I. 2011/2085](https://www.legislation.gov.uk/uksi/2011/2085), [S.I. 2012/147](https://www.legislation.gov.uk/uksi/2012/147), [S.I. 2012/1658](https://www.legislation.gov.uk/uksi/2012/1658), [S.I 2012/2590](https://www.legislation.gov.uk/uksi/2012/2590), [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755), [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469), [S.I. 2015/377](https://www.legislation.gov.uk/uksi/2015/377), [S.I. 2015/627](https://www.legislation.gov.uk/uksi/2015/627), [S.I. 2015/1682](https://www.legislation.gov.uk/uksi/2015/1682), [S.I. 2017/979](https://www.legislation.gov.uk/uksi/2017/979), [S.I. 2017/1070](https://www.legislation.gov.uk/uksi/2017/1070) and [S.I. 2019/311](https://www.legislation.gov.uk/uksi/2019/311).
+
+[^f00002]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42). Section 1 was amended by paragraphs 51 and 52 of Schedule 2 to the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29). Section 5 was amended by [S.I. 2012/1659](https://www.legislation.gov.uk/uksi/2012/1659).
+
+[^f00003]: Footnote: [S.I. 2020/1067](https://www.legislation.gov.uk/uksi/2020/1067).
+
+[^f00004]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Section 32(1) was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).

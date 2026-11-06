@@ -1,0 +1,716 @@
+---
+title: The Additional Paternity Leave (Adoptions from Overseas) Regulations 2010
+id: uksi/2010/1059
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-04-06'
+text_date: '2011-07-15'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2010/1059
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/1059/pdfs/uksiem_20101059_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1059/pdfs/uksi_20101059_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1059/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Additional Paternity Leave (Adoptions from Overseas) Regulations 2010
+
+> Text as at 2011-07-15.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2010 No. 1059
+
+Terms And Conditions Of Employment
+
+The Additional Paternity Leave (Adoptions from Overseas) Regulations 2010
+
+Made
+
+6th April 2010
+
+Coming into force
+
+9th April 2010
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 47C, 80BB, 80C, 80D**,** 80E and 99 of the Employment Rights Act 1996[^f00001].
+
+In accordance with section 236(3)[^f00002] of the Employment Rights Act 1996, a draft of these Regulations was laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation, commencement and extent[^key-9a35d7704871bc653bd71a39e6fab025]
+
+These Regulations may be cited as the Additional Paternity Leave (Adoptions from Overseas) Regulations 2010 and shall come into force on 9th April 2010.
+
+## 2. Interpretation[^key-1377b99c6ac02c6139e215dde440fcd3]
+
+(1) In these Regulations—
+
+- “the 1996 Act” means the Employment Rights Act 1996;
+- “additional paternity leave” means leave under regulation 4;
+- “adopter”, means, in relation to a child adopted from overseas, a person by whom the child has been or is to be adopted, or in a case where the child has been or is to be adopted by two people jointly, whichever of them has elected to take adoption leave in respect of the child;
+- “adoption from overseas” means the adoption of a child who enters Great Britain from outside the United Kingdom in connection with or for the purposes of adoption which does not involve the placement of the child for adoption under the law of any part of the United Kingdom, and “adopted from overseas” shall be construed accordingly;
+- “adoption leave” means ordinary adoption leave under section 75A of the 1996 Act or additional adoption leave under section 75B of that Act[^f00003];
+- “child” means a person who is, or at the time of entering Great Britain was, under the age of eighteen;
+- “enter Great Britain” means enter Great Britain from outside the United Kingdom in connection with or for the purposes of adoption, and cognate expressions shall be construed accordingly;
+- “job”, in relation to an employee returning after additional paternity leave, means the nature of the work which the employee is employed to do in accordance with the employee’s contract of employment and the capacity and place in which the employee is so employed;
+- “maternity allowance” has the meaning given in section 35(1) of the Social Security Contributions and Benefits Act 1992[^f00004];
+- “maternity leave” means ordinary maternity leave under section 71 of the 1996 Act or additional maternity leave under section 73 of the 1996 Act[^f00005];
+- “official notification” means written notification, issued by or on behalf of the relevant central authority, that it is prepared to issue a certificate to the overseas authority concerned with the adoption of the child, or has issued a certificate and sent it to that authority, confirming, in either case, that the adopter is eligible to adopt and has been assessed and approved as being a suitable adoptive parent;
+- “parental leave” means leave under regulation 13(1) of the Maternity and Parental Leave etc Regulations 1999[^f00006];
+- “partner” in relation to a child’s adopter, means a person (whether of a different sex or the same sex) who lives with the adopter and the child in an enduring family relationship but is not a relative of the adopter of a kind specified in paragraph (2);
+- “processing”, in relation to information, has the meaning given in section 1(1) of the Data Protection Act 1998[^f00007];
+- “relevant central authority” means—
+  - (a) in the case of an adopter to whom Part 3 of the Adoptions with a Foreign Element Regulations 2005[^f00008] apply and who is habitually resident in Wales, the Welsh Ministers;
+  - (b) in the case of an adopter to whom [^key-74684500499e1481f9d5bbd966308a05]... the Adoptions with a Foreign Element (Scotland) Regulations 2009[^f00009] apply and who is habitually resident in Scotland, the Scottish Ministers; and
+  - (c) in any other case, the Secretary of State;
+- “statutory adoption pay” has the meaning given in section 171ZL of the Social Security Contributions and Benefits Act 1992[^f00010];
+- “statutory maternity pay” has the meaning given in section 164(1) of the Social Security Contributions and Benefits Act 1992; and
+- “statutory leave” means leave provided for in Part 8 of the 1996 Act.
+
+(2) The relatives of a child’s adopter referred to in the definition of “partner” in paragraph (1) are the adopter’s parent, grandparent, sister, brother, aunt or uncle.
+
+(3) References to relationships in paragraph (2)—
+
+- (a) are to relationships of the full blood or half blood or, in the case of an adopted person, such of those relationships as would exist but for the adoption, and
+- (b) include the relationship of a child with the child’s adoptive, or former adoptive parents,
+
+but do not include any other adoptive relationships.
+
+(4) A reference in any provision of these Regulations to a period of continuous employment is to a period computed in accordance with Chapter 1 of Part 14 of the 1996 Act, as if that provision were a part of that Act.
+
+## 3. Application[^key-235b5a8f3d4671c170b0a95e45227dbb]
+
+(1) The provisions relating to additional paternity leave under regulation 4 have effect only in relation to an employee who is married to, or the civil partner or partner of, an adopter whose child enters Great Britain on or after 3rd April 2011.
+
+(2) Regulation 23 (protection from detriment) has effect only in relation to an act or failure to act which takes place on or after 9th April 2010.
+
+(3) For the purposes of paragraph (2)—
+
+- (a) where an act extends over a period, the reference to the date of the act is a reference to the last day of that period, and
+- (b) a failure to act is to be treated as done when it is decided upon.
+
+(4) For the purposes of paragraph (3), in the absence of evidence establishing the contrary an employer shall be taken to decide on a failure to act—
+
+- (a) when the employer does an act inconsistent with doing the failed act, or
+- (b) if the employer has done no such inconsistent act, when the period expires within which the employer might reasonably have been expected to do the failed act if it was to be done.
+
+(5) Regulation 24 (unfair dismissal) has effect only in relation to dismissals where the effective date of termination (within the meaning of section 97 of the 1996 Act[^f00011]) falls on or after 9th April 2010.
+
+## 4. Entitlement to additional paternity leave (adoptions from overseas)[^key-56532a8e84f5ead80d97680537c4aa0b]
+
+(1) An employee (“P”) is entitled to be absent from work for the purpose of caring for a child (“C”) if—
+
+- (a) P satisfies the conditions specified in paragraph (2);
+- (b) P has complied with the requirements in regulation 6 and, where applicable, regulation 7; and
+- (c) C’s adopter (“A”) satisfies the conditions specified in paragraph (4) and has signed the adopter declaration referred to in regulation 6.
+
+(2) The conditions referred to in paragraph (1)(a) are that P—
+
+- (a) has, before C entered Great Britain, been continuously employed with P’s employer (“E”) for a period of not less than 26 weeks either—
+  - (i) ending with the week official notification was sent to A; or
+  - (ii) commencing with the week in which P’s employment with E began;
+- (b) remains in continuous employment with E until the week before the first week of P’s additional paternity leave;
+- (c) is married to, or is the civil partner or the partner of, A; and
+- (d) has, or expects to have, the main responsibility (apart from the responsibility of A) for the upbringing of C.
+
+(3) In paragraph (2)(a)(i) and (ii), “week” means the period of seven days beginning with Sunday.
+
+(4) The conditions referred to in paragraph (1)(c) are that A—
+
+- (a) is entitled by reference to the adoption of C to one or both of—
+  - (i) adoption leave, or
+  - (ii) Statutory Adoption Pay, and
+- (b) has, or is treated as having, returned to work under regulation 15.
+
+(5) P’s entitlement to leave under this section shall not be affected by the adoption from overseas of more than one child by the adopter as part of the same arrangement.
+
+## 5. Options in respect of leave under regulation 4[^key-b3fbf1095d9a3db91d336c4c1299d515]
+
+(1) P may choose to take leave under regulation 4 at any time within the period which begins 20 weeks after the date on which C entered Great Britain and ends 12 months after that date.
+
+(2) The minimum period of leave which may be taken is two weeks and the maximum period is 26 weeks.
+
+(3) The leave must be taken in multiples of complete weeks and must be taken as one continuous period.
+
+(4) The leave may not be taken until eight weeks after the date of P’s leave notice under regulation 6(1).
+
+(5) This regulation is subject to regulation 14 (disrupted placement or death of child).
+
+## 6. Notice and evidential requirements for leave under regulation 4[^key-984700739ebf60dd046584a5858603b5]
+
+(1) P must, not less than eight weeks before the start date chosen by P for the period of leave, give P’s employer (“E”)—
+
+- (a) a leave notice;
+- (b) an employee declaration; and
+- (c) an adopter declaration.
+
+(2) In this regulation—
+
+- (a) “a leave notice” means a written notice specifying—
+  - (i) the date on which A received official notification;
+  - (ii) the date on which C entered Great Britain;
+  - (iii) the dates which P has chosen in accordance with regulation 5 as the start date and end date for the period of leave.
+- (b) “an employee declaration” means a written declaration signed by P, stating—
+  - (i) that the purpose of the period of leave will be to care for C, and
+  - (ii) that P satisfies the conditions in regulation 4(2)(c) and (d).
+- (c) “an adopter declaration” means a written declaration by A stating—
+  - (i) A’s name and address;
+  - (ii) the date A intends to return to work (within the meaning of regulation 15);
+  - (iii) A’s National Insurance number;
+  - (iv) that P satisfies the conditions in regulation 4(2)(c); and
+  - (v) that A consents to E processing such of A’s information as is contained in the declaration.
+
+(3) Where E makes a request within 28 days of receiving P’s leave notice, P must, within 28 days of E’s request, give E such of the following as E may request—
+
+- (a) a copy of the official notification relating to C;
+- (b) evidence of the date on which C entered Great Britain; and
+- (c) the name and address of A’s employer (or, if A is self-employed, A’s business address).
+
+(4) After giving leave notice, P must give E written notice (“withdrawal notice”) as soon as reasonably practicable if—
+
+- (a) P no longer satisfies the conditions in regulation 4(2)(c) or (d);
+- (b) A no longer satisfies the conditions in regulation 4(4).
+
+(5) E may require that P take a period of leave where—
+
+- (a) P has given E withdrawal notice less than six weeks before the start date specified in P’s leave notice, or, where applicable, last varied in accordance with regulation 7, and
+- (b) it is not reasonably practicable for E to accommodate the change in P’s arrangements.
+
+(6) Leave that E may require P to take under paragraph (5)—
+
+- (a) shall be treated as additional paternity leave for the purpose of these Regulations;
+- (b) shall start on the start date specified in P’s leave notice, or, where applicable, last varied in accordance with regulation 7; and
+- (c) shall end no later than—
+  - (i) six weeks after the date on which withdrawal notice was given to E, or
+  - (ii) the end date specified in P’s leave notice, or last varied in accordance with regulation 7,
+
+  whichever is the earlier.
+
+(7) E may require P to remain on leave where—
+
+- (a) P has given E withdrawal notice after P’s period of additional paternity leave has begun, and
+- (b) it is not reasonably practicable for E to accommodate the change in P’s arrangements.
+
+(8) The period for which E may require P to remain on leave under paragraph (7)—
+
+- (a) shall end no later than the earlier of—
+  - (i) six weeks after the date on which P gave E withdrawal notice, or
+  - (ii) the end date specified in P’s leave notice or, where applicable, last varied in accordance with regulation 7; and
+- (b) shall be treated as additional paternity leave for the purpose of these Regulations.
+
+## 7. Variation or cancellation of leave under regulation 4 before leave period has begun[^key-06ae432afdd09b49be8655f352477c04]
+
+(1) Before P’s leave period has begun, P may cancel P’s leave notice, or vary the dates notified as the start and end date for the period of leave, provided that P gives E written notice (“subsequent notice”)—
+
+- (a) before the earlier of—
+  - (i) six weeks before the date cancelled or varied, or
+  - (ii) six weeks before the new date, or,
+- (b) if it is not reasonably practicable for P to give notice in accordance with sub-paragraph (a), as soon as is reasonably practicable.
+
+(2) Where P has given subsequent notice, but—
+
+- (a) the notice does not comply with paragraph (1)(a), and
+- (b) it is not reasonably practicable for E to accommodate the change in P’s arrangements,
+
+E may require that P take a period of additional paternity leave.
+
+(3) Additional paternity leave which P is required to take under paragraph (2)—
+
+- (a) shall start—
+  - (i) on the start date specified by P in the leave notice, or
+  - (ii) where applicable, the start date specified in the most recent subsequent notice given by P in compliance with the requirements of paragraph (1)(a); and
+- (b) shall end no later than—
+  - (i) six weeks after P gave notice under paragraph (1), or
+  - (ii) the end date specified in the leave notice or, where applicable, the most recent subsequent notice given by P in compliance with the requirements of paragraph (1)(a),
+
+  whichever is the earlier.
+
+(4) In this regulation, “leave notice” has the meaning given by regulation 6(2).
+
+## 8. Employer’s confirmation of period of leave under regulation 4[^key-f7ca5197b352dc583f17f5363af9a911]
+
+(1) Subject to paragraph (2), where P gives leave notice under regulation 6(1) or subsequent notice under regulation 7(1) to E, E shall, within 28 days of receipt of the notice, confirm the start and end dates of P’s leave to P in writing.
+
+(2) Where E requires P to take leave under regulations 6(5) or 7(2), E shall notify P of the dates of that leave as soon as reasonably practicable, and at any event before the start of the leave that P is required to take under regulations 6(5) or 7(2).
+
+## 9. Commencement of leave under regulation 4[^key-97de4f1288d0673f4c6b4c5aec08c7d5]
+
+Save where regulations 6(5) and 7(2), apply P’s period of additional paternity leave under regulation 4 begins—
+
+- (a) on the start date notified in P’s leave notice under regulation 6(1), or,
+- (b) where applicable, the start date specified in P’s most recent subsequent notice under regulation 7(1).
+
+## 10. Entitlement to additional paternity leave (adoptions from overseas) in the event of the death of the adopter[^key-a8228c26c1469db6d488d25af7ce42ff]
+
+(1) In a case where A has died before the end of the period of twelve months beginning with the date of C entering Great Britain, the provisions in regulations 4 to 9 shall apply with the following modifications.
+
+(2) In regulation 4 (entitlement to additional paternity leave (adoptions from overseas))—
+
+- (a) paragraph (1)(b) shall apply as if the references in that paragraph—
+  - (i) to regulation 6 were references to regulation 12;
+  - (ii) to regulation 7 were references to regulation 13;
+- (b) paragraph (1)(c) shall be replaced by—
+
+  > - (c) C’s adopter (“A”) satisfied, before A’s death, one or more of the conditions specified in paragraph (4)(a) (or would have satisfied such conditions but for the fact that A has died”).
+- (c) the condition in paragraph (2)(c) shall be taken to be satisfied if it would have been satisfied but for the fact that A has died; and
+- (d) the requirement in paragraph (4)(b) shall be omitted.
+
+(3) Regulations 5 (options in respect of leave) shall be replaced by regulation 11.
+
+(4) Regulation 6 (notice and evidential requirements for leave) shall be replaced by regulation 12.
+
+(5) Regulation 7 (variation or cancellation of leave) shall be replaced by regulation 13.
+
+(6) Regulations 8 and 9 apply as if the references in those regulations—
+
+- (a) to regulation 6(1) were references to regulation 12(1);
+- (b) to regulation 6(5) were references to regulation 12(7);
+- (c) to regulation 7(1) were references to regulation 13(2); and
+- (d) to regulation 7(2) were references to regulation 13(3).
+
+## 11. Options in respect of leave under regulation 4 in the event of the death of the adopter[^key-c3dceefbf9019b64bc59abb880691d5d]
+
+(1) P may choose to take leave under regulation 4, as modified by regulation 10, at any time within the period beginning with the date of A’s death and ending 12 months after the date of C’s entering Great Britain.
+
+(2) The minimum period of leave which may be taken is two weeks and the maximum period is 52 weeks.
+
+(3) The leave must be taken as one continuous period and must be taken in multiples of complete weeks.
+
+(4) P shall not be entitled to leave in accordance with regulation 4, as modified by regulation 10, if P has already taken a period of additional paternity leave in respect of C which has ended before the date of A’s death.
+
+(5) If P is on leave under regulation 4 on the date of A’s death, P shall be entitled to a further period of leave in accordance with regulation 4, as modified by regulation 10, provided—
+
+- (a) P satisfies the conditions for eligibility set out in that regulation as so modified;
+- (b) that further period of leave immediately follows the first period of additional paternity leave, together with which it forms one continuous period of additional paternity leave;
+- (c) the total period of additional paternity leave taken does not exceed 52 weeks; and
+- (d) the entire period additional paternity leave is taken within the period of 12 months after the date of C’s entering Great Britain.
+
+(6) This regulation is subject to regulation 14 (disrupted placement or death of a child).
+
+## 12. Notice and evidential requirements for leave under regulation 4 in the event of the death of the adopter[^key-5b6117d2c15e463208864f034bd3239e]
+
+(1) As soon as reasonably practicable after the date of A’s death, and in any event, on or before the relevant date, P must give P’s employer (“E”), in writing—
+
+- (a) a leave notice; and
+- (b) an employee declaration.
+
+(2) In this regulation—
+
+- (a) “a leave notice” means a written notice specifying—
+  - (i) the date on which A received official notification;
+  - (ii) the date on which C entered Great Britain;
+  - (iii) the dates P has chosen in accordance with regulation 11 as the start date and end date for the period of leave.
+- (b) “an employee declaration” means a written declaration signed by P, stating—
+  - (i) that the purpose of the period of leave will be to care for C;
+  - (ii) that P satisfies the conditions in regulation 4(2)(c) and (d), as modified by regulation 10;
+  - (iii) A’s name and last address;
+  - (iv) the date of A’s death; and
+  - (v) A’s National Insurance number.
+- (c) “the relevant date” is eight weeks after the date of A’s death.
+
+(3) Where E makes a request within 28 days of receiving P’s leave notice, P must, within 28 days of E’s request, give E such of the following as E may request—
+
+- (a) a copy of the official notification relating to C;
+- (b) evidence of the date on which C entered Great Britain; and
+- (c) the name and address of A’s last employer (or, if A was self-employed, A’s business address).
+
+(4) If P takes leave before the relevant date, P shall be taken to have complied with the requirements of paragraph (1), if P, as soon as reasonably practicable, informs E of A’s death and, before the relevant date, gives leave notice and the employee declaration.
+
+(5) Notwithstanding paragraph (1), P may give E leave notice and the employee declaration after the relevant date, provided that P gives E written notice at least six weeks before the start date chosen by P for the period of leave.
+
+(6) If P, after giving leave notice, no longer satisfies the conditions in regulation 4(2)(c) or (d) as modified by regulation 10, P must give E written notice (“withdrawal notice”) as soon as reasonably practicable.
+
+(7) E may require that P take a period of leave where—
+
+- (a) P has given E withdrawal notice—
+  - (i) less than six weeks before the start date specified in P’s leave notice, or, where applicable, last varied in accordance with regulation 13, and
+  - (ii) after the relevant date, and
+- (b) it is not reasonably practicable for E to accommodate the change in P’s arrangements.
+
+(8) Leave that E may require P to take under paragraph (7)—
+
+- (a) shall be treated as additional paternity leave for the purpose of these Regulations;
+- (b) shall start on the start date specified in P’s leave notice, or, where applicable, last varied in accordance with regulation 13; and
+- (c) shall end no later than—
+  - (i) six weeks after the date on which withdrawal notice was given to E, or
+  - (ii) the end date specified in P’s leave notice, or where applicable, last varied in accordance with regulation 13,
+
+  whichever is the earlier.
+
+(9) E may require that P remain on leave where—
+
+- (a) P has given E withdrawal notice—
+  - (i) after P’s period of additional paternity leave has begun, and
+  - (ii) after the relevant date, and
+- (b) it is not reasonably practicable for E to accommodate the change in P’s arrangements.
+
+(10) The period for which P may require P to remain on leave under paragraph (9)—
+
+- (a) shall end no later than the earlier of—
+  - (i) six weeks after the date on which withdrawal notice was given to E, or
+  - (ii) the end date specified in P’s leave notice, or, where applicable, last varied in accordance with regulation 13,
+
+  whichever is the earlier; and
+- (b) shall be treated as additional paternity leave for the purpose of these Regulations.
+
+## 13. Variation or cancellation of leave under regulation 4 in the event of the death of the adopter[^key-6e089dd9b04d76c5e77594c7426bafa1]
+
+(1) Notwithstanding regulation 9 as modified by regulation 10, P may, on or before the relevant date, cancel P’s leave notice, or vary the dates notified as the start and end dates for the period of leave, by notifying E in writing on or before any date that is varied or cancelled.
+
+(2) After the relevant date, but before P’s leave period has begun, P may cancel P’s leave notice, or vary the dates notified as the start and end date for the period of leave, provided that P gives E written notice (“subsequent notice”)—
+
+- (a) before the earlier of—
+  - (i) six weeks before the date cancelled or varied, or
+  - (ii) six weeks before the new date, or,
+- (b) if it is not reasonably practicable for P to give notice in accordance with sub-paragraph (a), as soon as is reasonably practicable.
+
+(3) Where P has given subsequent notice, but—
+
+- (a) the notice does not comply with paragraph (2)(a), and
+- (b) it is not reasonably practicable for E to accommodate the change in P’s arrangements,
+
+E may require that P take a period of additional paternity leave.
+
+(4) Additional paternity leave which P is required to take under paragraph (3)—
+
+- (a) shall start—
+  - (i) on the start date specified by P in the leave notice, or
+  - (ii) where applicable, the start date specified in the most recent subsequent notice given by P in compliance with the requirements of paragraphs (1) or (2)(a); and
+- (b) shall end no later than—
+  - (i) six weeks after P gave notice under paragraph (2), or
+  - (ii) the end date specified in the leave notice or, where applicable, the most recent subsequent notice given by P in compliance with the requirements of paragraphs (1) or (2)(a),
+
+  whichever is the earlier.
+
+(5) In this regulation, the terms “relevant date” and “leave notice” have the meanings given by regulation 12(2).
+
+## 14. Disrupted placement or death of a child in the course of additional paternity leave[^key-89bd2c652d767b69aa00469297210793]
+
+(1) This regulation applies where, during P’s leave notice period or additional paternity leave period in respect of C—
+
+- (a) C dies, or
+- (b) C ceases to live with the adopter.
+
+(2) Subject to regulation 19, in a case where this regulation applies—
+
+- (a) where the end date of P’s leave occurs less than eight weeks after the relevant week, P’s additional paternity leave period ends on the notified end date,
+- (b) where the end date of P’s leave occurs eight or more weeks after the relevant week, P’s additional paternity leave period ends eight weeks after the end of the relevant week.
+
+(3) For the purposes of paragraph (2)—
+
+- (a) the relevant week means the period of seven days beginning with Sunday, during which—
+  - (i) in a case falling within paragraph (1)(a), C dies,
+  - (ii) in a case falling within paragraph (1)(b), C ceased to live with the adopter.
+- (b) the end date of P’s leave is the end date—
+  - (i) notified by P in accordance with regulation 6(1) or 12(1);
+  - (ii) where P has varied the end date, that most recently varied in accordance with 7(1), 13(1), or 13(2);
+  - (iii) where E required P to take leave, the end date determined by E in accordance with regulation 6(5), 6(7), 7(2), 12(7), 12(9) or 13(3) and notified to P in accordance with regulation 8(2), or 8(2) as modified by regulation 10, or
+  - (iv) where applicable, the end date determined under regulation 20.
+
+(4) In paragraph (1), P’s leave notice period is the period starting on the day P notifies E in accordance with regulation 6(1) or 12(1) of P’s intention to take additional paternity leave and ending on the day before the day that leave begins.
+
+## 15. Return to work[^key-17faa8f90d90c536bf1a8d7826eabff8]
+
+For the purposes of these Regulations, A is treated as returning to work if one of the following conditions is satisfied—
+
+- (a) in a case where A is entitled to adoption leave in respect of C, A’s adoption leave period has ended;
+- (b) in a case where A is entitled to statutory adoption pay, that payment is not payable to A in accordance with section 171ZN(3) or 171ZN(5) of the Social Security Contributions and Benefits Act 1992[^f00012]; or
+- (c) in a case where both (a) and (b) apply, the conditions in both (a) and (b) are satisfied.
+
+## 16. Work during an additional paternity leave period[^key-5b693fda20a2b63876ca063047c58a4c]
+
+(1) P may carry out up to ten days’ work for E during P’s additional paternity leave period without bringing the additional paternity leave period to an end.
+
+(2) For the purposes of this regulation, any work carried out on any day shall constitute a day’s work.
+
+(3) Subject to paragraph (4), for the purposes of this regulation, work means any work done under the contract of employment and may include training or any activity undertaken for the purposes of keeping in touch with the workplace.
+
+(4) Reasonable contact from time to time between P and E which either party is entitled to make during an additional paternity leave period (for example to discuss P’s return to work) shall not bring that period to an end.
+
+(5) This regulation does not confer any right on E to require that any work be carried out during the additional paternity leave period, nor any right on P to work during the additional paternity leave period.
+
+(6) Any days’ work carried out under this regulation shall not have the effect of extending the total duration of the additional paternity leave period.
+
+## 17. Application of terms and conditions during additional paternity leave[^key-2437cadc4c0b6f1bf935ca523ff21e5f]
+
+(1) During the period of additional paternity leave, P—
+
+- (a) is entitled to the benefit of all of the terms and conditions of employment which would have applied if P had not been absent, and
+- (b) is bound by any obligations arising under those terms and conditions, subject only to the exception in section 80C(1)(b) of the 1996 Act.
+
+(2) In paragraph (1)(a), “terms and conditions of employment” has the meaning given by section 80C(5) of the 1996 Act, and accordingly does not include terms and conditions about remuneration.
+
+(3) For the purposes of section 80C of the 1996 Act, only sums payable to P by way of wages or salary are to be treated as remuneration.
+
+(4) In the case of accrual of rights under an employment-related benefit scheme within the meaning given by Schedule 5 to the Social Security Act 1989[^f00013], nothing in paragraph (1)(a) shall be taken to impose a requirement which exceeds the requirements of paragraph 5A of that Schedule.
+
+## 18. Redundancy during additional paternity leave[^key-6919593157b03cb2aae3e9b4bc5c970a]
+
+(1) This regulation applies where, during P’s additional paternity leave period, it is not practicable by reason of redundancy for E to continue to employ P under P’s existing contract of employment.
+
+(2) Where there is a suitable alternative vacancy, P is entitled to be offered (before the end of P’s employment under P’s existing contract) alternative employment with E (or a successor of E), or an associated employer, under a new contract of employment which complies with paragraph (3) and takes effect immediately on the ending of P’s employment under the previous contract.
+
+(3) The new contract of employment must be such that—
+
+- (a) the work to be done under it is of a kind which is both suitable in relation to P and appropriate for P to do in the circumstances, and
+- (b) its provisions as to the capacity and place in which P is to be employed, and as to the other terms and conditions of P’s employment, are not substantially less favourable to P than if P had continued to be employed under the previous contract.
+
+## 19. Dismissal during additional paternity leave[^key-310530b95fc2042a7c7c62d1f01a99fd]
+
+Where P is dismissed after P’s additional paternity leave period has begun but before the time when (apart from this regulation) that period would end, the period ends at the time of the dismissal.
+
+## 20. Early return from additional paternity leave period[^key-839335bc52e9dadb532fd84c207f120b]
+
+(1) Subject to regulation 13(1) (variation or cancellation of leave in the event of the adopter’s death), where, after P’s additional paternity leave period has begun, P intends to return to work earlier than the end of P’s additional paternity leave period, P must give E at least six weeks’ notice of the date on which P intends to return.
+
+(2) If P attempts to return to work earlier than the end of P’s additional paternity leave period without complying with paragraph (1), E is entitled to postpone P’s return to a date such as will secure, subject to paragraph (5), that E has six weeks’ notice of P’s return.
+
+(3) Where P complies with P’s obligations in paragraph (1), or where E has postponed P’s return in the circumstances described in paragraph (2), if P then decides to return to work—
+
+- (a) earlier than the original return date, P must give E not less than six weeks’ notice of the date on which P now intends to return;
+- (b) later than the original return date, P must give E not less than six weeks’ notice ending with the original return date.
+
+(4) In paragraph (3) the “original return date” means the date which P notified E as the date of P’s return to work under paragraph (1) or the date to which P’s return was postponed by E under paragraph (2).
+
+(5) In a case where P’s return to work has been postponed under paragraph (2) and P—
+
+- (a) has been notified that P is not to return to work before the date to which P’s return was postponed, and
+- (b) returns to work before that date,
+
+E is under no contractual obligation to pay P’s remuneration until the date to which P’s return was postponed.
+
+(6) This regulation does not apply in a case where E did not notify P of the date on which P’s additional paternity leave period would end, in accordance with—
+
+- (a) regulation 8, if E is entitled to additional paternity leave by virtue of regulation 4; or
+- (b) regulation 8 as modified by regulation 10, if P is entitled to additional paternity leave by virtue of regulation 4 as modified by regulation 10.
+
+## 21. Right to return after additional paternity leave[^key-29c17e26d5062d198c5bb0adf3d9ba47]
+
+(1) In a case where P returns to work after a period of additional paternity leave, lasting no longer than 26 weeks, which was—
+
+- (a) an isolated period of leave, or
+- (b) the last of two or more consecutive periods of statutory leave, which did not include any period of additional maternity leave or additional adoption leave or a period of parental leave of more than four weeks,
+
+P is entitled to return from leave to the job in which P was employed before P’s absence.
+
+(2) In a case where P returns to work after a period of additional paternity leave not falling within the description in paragraph (1)(a) or (b), P is entitled to return from leave to the job in which P was employed before P’s absence, or, if it is not reasonably practicable for E to permit P to return to that job, to another job which is both suitable for P and appropriate for P to do in the circumstances.
+
+(3) The reference in paragraphs (1) and (2) to the job in which P was employed before P’s absence is a reference to the job in which P was employed—
+
+- (a) if P’s return is from an isolated period of additional paternity leave, immediately before that period began,
+- (b) if P’s return is from consecutive periods of statutory leave, immediately before the first such period.
+
+(4) This regulation does not apply where regulation 18 (redundancy during additional paternity leave) applies.
+
+## 22. Incidents of the right to return after additional paternity leave[^key-dee6a4e69b24239e57327af0153e7286]
+
+(1) P’s right to return under regulation 21 is a right to return—
+
+- (a) with P’s seniority, pension rights and similar rights as they would have been if P had not been absent, and
+- (b) on terms and conditions not less favourable than those which would have applied if P had not been absent.
+
+(2) In the case of accrual of rights under an employment-related benefit scheme within the meaning given by Schedule 5 to the Social Security Act 1989, nothing in paragraph (1)(a) shall be taken to impose a requirement which exceeds the requirements of paragraphs 5 to 6 of that Schedule.
+
+(3) The provisions in paragraph (1)(a) for P to be treated as if P had not been absent refer to P’s absence—
+
+- (a) if P’s return is from an isolated period of additional paternity leave, since the beginning of that period,
+- (b) if P’s return is from consecutive periods of statutory leave, since the beginning of the first such period.
+
+## 23. Protection from detriment[^key-cfae8a37267004d5d91038c9009c0ebe]
+
+(1) P is entitled under section 47C of the 1996 Act[^f00014] not to be subjected to any detriment by any act, or any deliberate failure to act, by E because—
+
+- (a) P took, sought to take, or made use of the benefits of, additional paternity leave;
+- (b) E believed that P was likely to take additional paternity leave;
+- (c) P failed to return after a period of additional paternity leave in a case where—
+  - (i) E did not notify P, in accordance with regulations 8, regulation 8 as modified by regulation 10, or otherwise, of the date on which that period ended, and P reasonably believed that the period had not ended, or
+  - (ii) E gave P less than 28 days’ notice of the date on which the period would end, and it was not reasonably practicable for P to return on that date;
+- (d) P undertook, considered undertaking or refused to undertake work in accordance with regulation 16.
+
+(2) For the purposes of paragraph (1)(a), P makes use of the benefits of additional paternity leave if, during P’s additional paternity leave period, P benefits from any of the terms and conditions of P’s employment preserved by section 80C of the 1996 Act[^f00015] and regulation 17 during that period.
+
+(3) Paragraph (1) does not apply where the detriment in question amounts to dismissal within the meaning of Part 10 of the 1996 Act.
+
+## 24. Unfair dismissal[^key-9fc3a4de56c243b1e588b1a7d5a34830]
+
+(1) In a case where P is dismissed, P is entitled under section 99 of the 1996 Act[^f00016] to be regarded for the purpose of Part 10 of that Act as unfairly dismissed if—
+
+- (a) the reason or principal reason for the dismissal is of a kind specified in paragraph (3), or
+- (b) the reason or principal reason for the dismissal is that P is redundant and regulation 18 has not been complied with.
+
+(2) In a case where P is dismissed, P shall also be regarded for the purposes of Part 10 of the 1996 Act as unfairly dismissed if—
+
+- (a) the reason (or, if more than one, the principal reason) for the dismissal is that P was redundant,
+- (b) it is shown that the circumstances constituting the redundancy applied equally to one or more employees in the same undertaking who had positions similar to that held by P and who have not been dismissed by E, and
+- (c) it is shown that the reason (or if more than one, the principal reason) for which P was selected for dismissal was a reason of a kind specified in paragraph (3).
+
+(3) The kinds of reason referred to in paragraph (1) and (2) are reasons connected with any of the following facts—
+
+- (a) that P took, sought to take, or made use of, the benefits of additional paternity leave;
+- (b) that E believed that P was likely to take additional paternity leave;
+- (c) that P failed to return after a period of additional paternity leave in a case where—
+  - (i) E did not notify P, in accordance with regulations 8, 8 as modified by regulation 10, or otherwise, of the date on which that period ended, and P reasonably believed that the period had not ended, or
+  - (ii) that E gave P less than 28 days’ notice of the date on which the period would end, and it was not reasonably practicable for P to return on that date; or
+- (d) that P undertook, considered undertaking or refused to undertake work in accordance with regulation 16.
+
+(4) For the purposes of paragraph (3)(a), P makes use of the benefits of additional paternity leave if, during P’s additional paternity leave period, P benefits from any of the terms and conditions of P’s employment preserved by section 80C of the 1996 Act and regulation 17 during that period.
+
+(5) Paragraph (1) does not apply in relation to P if—
+
+- (a) it is not reasonably practicable for a reason other than redundancy for E (who may be E or E’s successor) to permit P to return to a job which is both suitable for P and appropriate for P to do in the circumstances,
+- (b) an associated employer offers P a job of that kind, and
+- (c) P accepts or unreasonably refuses that offer.
+
+(6) Where, on a complaint of unfair dismissal, any question arises as to whether the operation of paragraph (1) is excluded by the provisions of paragraph (5), it is for E to show that the provision in question was satisfied in relation to the complainant.
+
+## 25. Contractual rights to additional paternity leave[^key-6c1d44c88b28683d6e28f6a7c32c133c]
+
+(1) This regulation applies where P is entitled to additional paternity leave (referred to in paragraph (2) as a “statutory right”) and also to a right which corresponds to that right and which arises under P’s contract of employment or otherwise.
+
+(2) In a case where this regulation applies—
+
+- (a) P may not exercise the statutory right and the corresponding right separately but may, in taking the leave for which the two rights provide, take advantage of whichever right is, in any particular respect, the more favourable, and
+- (b) the provisions of the 1996 Act and of these Regulations relating to the statutory right apply, subject to any modifications necessary to give effect to any more favourable contractual terms, to the exercise of the composite right described in sub-paragraph (a) as they apply to the exercise of the statutory right.
+
+## 26. Calculation of a week’s pay[^key-30d7918624356995025f6bd333efd968]
+
+Where—
+
+- (a) under Chapter 2 of Part 14 of the 1996 Act, the amount of a week’s pay of an employee falls to be calculated by reference to the average rate of remuneration, or the average amount of remuneration, payable to the employee in respect of a period of 12 weeks ending on a particular date (referred to as “the calculation date”),
+- (b) during a week in that period, the employee was absent from work on additional paternity leave, and
+- (c) remuneration is payable to the employee in respect of that week under the employee’s contract of employment, but the amount payable is less than the amount that would be payable if the employee were working,
+
+that week shall be disregarded for the purpose of the calculation and account shall be taken of remuneration in earlier weeks so as to bring up to twelve the number of weeks of which account is taken.
+
+Pat McFadden
+
+Minister for Business, Innovation and Skills
+
+Department for Business, Innovation & Skills
+
+6th April 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations implement the powers in the Work and Families Act 2006 to introduce a new entitlement for employees adopting children from overseas to take additional paternity leave in the first year after the child enters Great Britain. The provisions relating to additional paternity leave are incorporated by the Work and Families Act 2006 into the Employment Rights Act 1996 (“the 1996 Act”). [SI 2010/1058](https://www.legislation.gov.uk/uksi/2010/1058) extends the application of the relevant provisions to apply to overseas adoptions.
+
+The right to take additional paternity leave under the Regulations is conferred to spouses or partners (of either sex) of adopters, or, where a child is adopted by two people jointly, spouses or partners (of either sex) of the adopter who has elected to take adoption leave (defined as “adopter” for the purpose of these Regulations). Regulation 4 sets out the conditions for entitlement. Certain conditions apply to the person claiming the entitlement (“the claimant”), others to the adopter. The claimant must satisfy substantive requirements, such as continuous employment, relationship with the adopter and with the child, as well procedural requirements such as giving appropriate notice to the claimant’s employer. The adopter must be entitled to one or more of adoption leave or statutory adoption pay, and must have returned to work for the claimant’s entitlement to arise.
+
+Regulation 5 sets out the options as to how the leave may be taken. In particular, it provides maximum and minimum length of leave which may be taken (a maximum of 26 weeks and minimum of 2 weeks), the fact that it may only be taken in multiples of complete weeks and the period after the adoption of the child within which the leave may be taken (the period beginning 20 weeks after and ending 12 months after the child’s entry in Great Britain).
+
+Regulation 6 sets out the notice and evidential requirements with which the claimant must comply. These include providing information regarding the claimant and the adopter, as well as declarations from the claimant and the adopter.
+
+Regulations 7 sets out the notice and process requirements that apply if the claimant, before taking leave, wishes to cancel the leave or vary the dates previously chosen for the additional leave period to begin and end.
+
+Regulation 8 requires that the employer must confirm the dates of the start and end of the leave within 28 days of receiving the claimant’s notice and regulation 9 sets out when the leave commences, in the event of a single notification or multiple notifications of leave.
+
+In circumstances where the adopter of the child has died within 12 months from the date of the child’s entry into Great Britain, the provisions of the Regulations apply with various modifications.
+
+Regulation 10 sets out the provisions of the Regulations which are modified in the case of the death of the child’s adopter. The requirements which must be satisfied by the child’s adopter under regulations 4 are modified, for example the requirement that the adopter must have returned to work for the claimant’s entitlement to arise does not apply, and the adopter is deemed to satisfy the requirement of entitlement to one or more of adoption leave or statutory adoption pay, if the adopter satisfied it before death or would have done, but for the death. Regulation 11 provides the options as to how the leave may be taken in the event of the adopter’s death. The claimant’s entitlement may be to a longer period of leave (up to 52 weeks), starting earlier than it would otherwise have done.
+
+Regulation 14 deals with cases where the child dies or ceases to live with the adopter when the claimant is on leave or after the claimant has notified the claimant’s intention to take additional paternity leave. In such cases, the claimant’s entitlement to additional paternity leave comes to an end after a period of eight weeks, unless there are only eight weeks of leave remaining in which case the additional paternity leave period ends on the date notified by the claimant.
+
+Regulation 15 defines when the adopter is deemed to have returned to work, which is a condition for the claimant’s entitlement to arise. If the adopter was entitled to adoption leave, the relevant return date is when this leave ends. If the adopter was entitled to statutory adoption pay, the relevant date is when this is no longer payable. In cases where the adopter was entitled to both adoption leave and pay, then the relevant date is when both the leave has ended and the adopter is no longer entitled to pay.
+
+Regulations 18 and 19 deal with cases in which an employee becomes redundant or is dismissed during an additional paternity leave period. Regulation 20 deals with cases where an employee who is on leave intends to return to work before the end of additional paternity leave. Regulations 21 and 22 provide for an employee’s right to return to work after taking leave, distinguishing the case where the leave was an isolated period of leave or taken with other types of statutory leave from other cases.
+
+Regulations 23 and 24 provide that an employee entitled to additional paternity leave is protected against detriment or dismissal attributable to the fact they took or sought to take such leave. Regulation 25 governs the relationship between an employee’s right to additional paternity leave under these Regulations and any corresponding leave rights arising from the employment contract. Regulation 26 deals with the calculation of a week’s pay for an employee on additional paternity leave.
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available at http://www.berr.gov.uk/files/file54236.pdf and is annexed to the Explanatory Memorandum which is available alongside the instrument on the OPSI website.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18). Section 47C was inserted by the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26), Schedule 4, Part 3, paragraphs 5 and 8. Further relevant amendments were made by the Employment Act [2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22), Schedule 7, paragraphs 24 and 26 and by the Work and Families Act [2006 (c.18)](https://www.legislation.gov.uk/ukpga/2006/18), Schedule 1, paragraph 30. Section 80BB was inserted by section 4 of the Work and Families Act 2006. Section 80BB applies to adoptions from overseas by virtue of the Employment Rights Act 1996 (Application of Section 80BB to Adoptions from Overseas) Regulations 2010 ([S.I.2010/1058](https://www.legislation.gov.uk/uksi/2010/1058)). Sections 80C, 80D and 80E were inserted by section 1 of the Employment Act 2002 and subsequently amended by section 5 of the Work and Families Act 2006. Section 99 was substituted by the Employment Relations Act 1999, Schedule 4, Part 3, paragraphs 5 and 16, and amended by the Employment Act 2002, Schedule 7, paragraphs 24 and 33 and by the Work and Families Act 2006, Schedule 1, paragraph 41.
+
+[^f00002]: Footnote: Section 236(3) of the Employment Rights Act 1996 was amended by the Employment Relations Act 1999, Schedule 4, Part 3, paragraphs 5 and 42 and the Employment Act 2002, Schedule 7, paragraphs 24 and 49. A further relevant amendment was made by paragraph 44 of Schedule 1 to the Work and Families Act 2006.
+
+[^key-9a35d7704871bc653bd71a39e6fab025]: Commencement: Reg. 1 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-1377b99c6ac02c6139e215dde440fcd3]: Commencement: Reg. 2 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^f00003]: Footnote: Sections 75A and 75B were inserted by section 3 of the Employment Act 2002 and were amended by paragraphs 33 and 34 respectively of Schedule 1 to the Work and Families Act 2006.
+
+[^f00004]: Footnote: [1992. c.4](https://www.legislation.gov.uk/ukpga/1992/4). Sub-section 1 was substituted by section 53(1) of the Welfare Reforms and Persons Act 1999 and was further amended by Schedule 7, paragraphs 2, 4(1) and (2) of the Employment Act 2002.
+
+[^f00005]: Footnote: Sections 71 and 73 were substituted by Schedule 4 Part 1 of the Employment Relations Act 1999 and amended by section 17 of the Employment Act 2002 and by paragraphs 31 and 32 respectively of the Work and Families Act 2006.
+
+[^f00006]: Footnote: [S.I. 1999/3312](https://www.legislation.gov.uk/uksi/1999/3312), amended by [S.I. 2001/410](https://www.legislation.gov.uk/uksi/2001/410), there are other amending instruments but none is relevant.
+
+[^f00007]: Footnote: [1998 c.29](https://www.legislation.gov.uk/ukpga/1998/29).
+
+[^f00008]: Footnote: [S.I. 2005/392](https://www.legislation.gov.uk/uksi/2005/392).
+
+[^key-74684500499e1481f9d5bbd966308a05]: Textual amendment: Words in reg. 2(1) omitted (S.) (21.3.2011) by virtue of [The Adoptions with a Foreign Element (Scotland) Amendment Regulations 2011 (S.S.I. 2011/159)](https://www.legislation.gov.uk/ssi/2011/159), [regs. 1](https://www.legislation.gov.uk/ssi/2011/159/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2011/159/regulation/3/2); and (15.7.2011) by virtue of [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)
+
+[^f00009]: Footnote: [S.S.I 2009/182](https://www.legislation.gov.uk/ssi/2009/182).
+
+[^f00010]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 171ZL was inserted by section 4 of the Employment Act 2002 and was amended by article 3 of [S.I 2006/2012](https://www.legislation.gov.uk/uksi/2006/2012).
+
+[^key-235b5a8f3d4671c170b0a95e45227dbb]: Commencement: Reg. 3 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^f00011]: Footnote: Section 97 was amended by [SI 2002/2034](https://www.legislation.gov.uk/uksi/2002/2034), regulations 11, 18-20, Schedule 2, Part 1, paragraphs 3(1) and (8) and the Employment Relations Act 1999, Schedule 4, Part 3, paragraphs 5, 14 and Schedule 9.
+
+[^key-56532a8e84f5ead80d97680537c4aa0b]: Commencement: Reg. 4 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-b3fbf1095d9a3db91d336c4c1299d515]: Commencement: Reg. 5 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-984700739ebf60dd046584a5858603b5]: Commencement: Reg. 6 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-06ae432afdd09b49be8655f352477c04]: Commencement: Reg. 7 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-f7ca5197b352dc583f17f5363af9a911]: Commencement: Reg. 8 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-97de4f1288d0673f4c6b4c5aec08c7d5]: Commencement: Reg. 9 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-a8228c26c1469db6d488d25af7ce42ff]: Commencement: Reg. 10 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-c3dceefbf9019b64bc59abb880691d5d]: Commencement: Reg. 11 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-5b6117d2c15e463208864f034bd3239e]: Commencement: Reg. 12 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-6e089dd9b04d76c5e77594c7426bafa1]: Commencement: Reg. 13 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-89bd2c652d767b69aa00469297210793]: Commencement: Reg. 14 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-17faa8f90d90c536bf1a8d7826eabff8]: Commencement: Reg. 15 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^f00012]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 171ZN was inserted by section 4 of the Employment Act [2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22) and amended by the Work and Families Act 2006, section 11 and Schedule 1 paragraph 21(2).
+
+[^key-5b693fda20a2b63876ca063047c58a4c]: Commencement: Reg. 16 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-2437cadc4c0b6f1bf935ca523ff21e5f]: Commencement: Reg. 17 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^f00013]: Footnote: [1989 c.24](https://www.legislation.gov.uk/ukpga/1989/24).
+
+[^key-6919593157b03cb2aae3e9b4bc5c970a]: Commencement: Reg. 18 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-310530b95fc2042a7c7c62d1f01a99fd]: Commencement: Reg. 19 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-839335bc52e9dadb532fd84c207f120b]: Commencement: Reg. 20 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-29c17e26d5062d198c5bb0adf3d9ba47]: Commencement: Reg. 21 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-dee6a4e69b24239e57327af0153e7286]: Commencement: Reg. 22 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-cfae8a37267004d5d91038c9009c0ebe]: Commencement: Reg. 23 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^f00014]: Footnote: Section 47C was inserted by the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26), Schedule 4, Part 3, paragraphs 5 and 8. Further relevant amendments were made by the Employment Act [2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22), Schedule 7, paragraphs 24 and 26 and by the Work and Families Act [2006 (c.18)](https://www.legislation.gov.uk/ukpga/2006/18), Schedule 1, paragraph 30.
+
+[^f00015]: Footnote: Section 80C was inserted by section 1 of the Employment Act 2002 and subsequently amended by section 5 of the Work and Families Act 2006.
+
+[^key-9fc3a4de56c243b1e588b1a7d5a34830]: Commencement: Reg. 24 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^f00016]: Footnote: Section 99 was substituted by the Employment Relations Act 1999, Schedule 4, Part 3, paragraphs 5 and 16, and amended by the Employment Act 2002, Schedule 7, paragraphs 24 and 33 and by the Work and Families Act 2006, Schedule 1, paragraph 41.
+
+[^key-6c1d44c88b28683d6e28f6a7c32c133c]: Commencement: Reg. 25 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+
+[^key-30d7918624356995025f6bd333efd968]: Commencement: Reg. 26 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)

@@ -1,0 +1,25 @@
+---
+title: Capital Allowances Act 2001, section 510
+act: Capital Allowances Act 2001
+section: '510'
+status: revised-with-pending-changes
+text_date: '2026-05-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2001/2/section/510
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Capital Allowances Act 2001, section 510
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/2
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 510. Allowance limited to residue of qualifying expenditure attributable to dwelling-house
+
+*Extent: E+W+S+N.I.*
+
+(1) The amount of the writing-down allowance for a chargeable period in respect of a dwelling-house is limited to the residue of qualifying expenditure attributable to it.
+
+(2) For this purpose the residue is ascertained immediately before writing off the writing-down allowance at the end of the chargeable period.

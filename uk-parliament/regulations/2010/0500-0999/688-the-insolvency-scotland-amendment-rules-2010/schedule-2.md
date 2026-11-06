@@ -1,0 +1,31 @@
+---
+title: The Insolvency (Scotland) Amendment Rules 2010, SCHEDULE 2
+act: The Insolvency (Scotland) Amendment Rules 2010
+section: schedule-2
+status: repealed
+text_date: '2019-04-06'
+extent: S
+source_url: https://www.legislation.gov.uk/uksi/2010/688/schedule/2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Insolvency (Scotland) Amendment Rules 2010, SCHEDULE 2
+
+> This provision is no longer in force.
+>
+> Extent: Scotland.
+
+## SCHEDULE 2 — FORM FOR INSERTION INTO SCHEDULE 5 TO THE PRINCIPAL RULES[^key-ca451a5a3cc3ced3f9b9e4d8081d56ae]
+
+*Extent: S*
+
+**No longer in force.**
+
+Paragraph 117, Schedule 1
+
+[image: see source](https://www.legislation.gov.uk/uksi/2010/688/images/uksi_20100688_en_001)
+
+## Annotations
+
+[^key-ca451a5a3cc3ced3f9b9e4d8081d56ae]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2010/688) revoked (6.4.2019) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 (S.I. 2018/1082)](https://www.legislation.gov.uk/uksi/2018/1082), [rule 1](https://www.legislation.gov.uk/uksi/2018/1082/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1082/schedule/1)

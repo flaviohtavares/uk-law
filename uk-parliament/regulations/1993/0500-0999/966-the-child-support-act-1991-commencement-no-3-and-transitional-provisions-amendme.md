@@ -1,0 +1,122 @@
+---
+title: The Child Support Act 1991 (Commencement No. 3 and Transitional Provisions) Amendment Order 1993
+id: uksi/1993/966
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1993-03-31'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1993/966
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1993/966/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support Act 1991 (Commencement No. 3 and Transitional Provisions) Amendment Order 1993
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1993 No. 966 (C.18)
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+The Child Support Act 1991 (Commencement No. 3 and Transitional Provisions) Amendment Order 1993
+
+Made
+
+31st March 1993
+
+The Secretary of State for Social Security, in exercise of the powers conferred upon him by section 58(2) to (6) of the Child Support Act 1991[^f00001], hereby makes the following Order:
+
+## 1. Citation
+
+This Order may be cited as the Child Support Act 1991 (Commencement No. 3 and Transitional Provisions) Amendment Order 1993.
+
+## 2. Amendment of the Child Support Act 1991 (Commencement No. 3 and Transitional Provisions) Order 1992
+
+(1) For Part I of the Schedule to the Child Support Act (Commencement No. 3 and Transitional Provisions) Order 1992[^f00002] there shall be substituted the following Part—
+
+> **PART I — PHASED TAKE-ON OF CASES**
+>
+> **1.** (1) In this Part of this Schedule—
+>
+> - “The Act” means the Child Support Act 1991;
+> - “benefit” means income support, family credit or disability working allowance under Part VII of the Social Security Contributions and Benefits Act 1992[^f00003], or any other benefit prescribed under section 6(1) of the Act (applications by parents receiving benefit);
+> - “parent with care” means a person who, in respect of the same child or children, is both a parent and a person with care; and
+> - “transitional period” means the period beginning with 5th April 1993 and ending with 6th April 1997.
+>
+> (2) For the purposes of paragraph 5 below, in England and Wales, an application for a maintenance order is pending before a court if—
+>
+> - (i) notice of the application has been filed, in accordance with rules of court, before 5th April 1993;
+> - (ii) in the case of an application contained in a petition for divorce, nullity or judicial separation, or the answer to it, notice of intention to proceed with it was given, in the form required by rules of court, before 5th April 1993.
+>
+> **2.** Subject to paragraph 4 below, during the transitional period no application under section 4 of the Act (applications for child support maintenance) in relation to a qualifying child or any qualifying children may be made at any time when—
+>
+> - (a) there is in force a maintenance order or written maintenance agreement (being an agreement made before 5th April 1993) in respect of that qualifying child or those qualifying children and the absent parent; or
+> - (b) benefit is being paid to a parent with care of that child or those children.
+>
+> **3.** Subject to paragraph 4 below, during the transitional period no application under section 7 of the Act (right of child in Scotland to apply for assessment) may be made by a qualifying child at any time when there is in force a maintenance order or written maintenance agreement (being an agreement made before 5th April 1993) in respect of that child and the absent parent.
+>
+> **4.** Paragraphs 2 and 3 above do not apply to an application made—
+>
+> - (a) in that part of the transitional period beginning with 8th April 1996, if the surname of the person with care begins with any of the letters A to D inclusive;
+> - (b) in that part of the transitional period beginning with 1st July 1996, if the surname of the person with care begins with any of the letters E to K inclusive;
+> - (c) in that part of the transitional period beginning with 7th October 1996, if the surname of the person with care begins with any of the letters L to R inclusive; and
+> - (d) in that part of the transitional period beginning with 6th January 1997, if the surname of the person with care begins with any of the letters S to Z inclusive.
+>
+> **5.** (1) For so long as either—
+>
+> - (a) paragraph 2 or 3 above operates in a case so as to prevent an application being made under section 4 of the Act or, as the case may be, section 7 of the Act, and no application has been made under section 6 of the Act; or
+> - (b) an application has been made under section 6 of the Act but no maintenance assessment has yet been made pursuant to that application,
+>
+> then in relation to that case—
+>
+> - (i) section 8(3) of the Act (role of the courts with respect to maintenance orders) shall be modified so as to have effect as if the word “vary” were omitted;
+> - (ii) in a case falling within sub-paragraph (a) above, section 9(3) of the Act shall not apply; and
+> - (iii) section 9(5) of the Act shall be modified so as to have effect as if paragraph (b) were omitted.
+>
+> (2) In a case where there is, at any time during the transitional period, pending before a court an application for a maintenance order or an application for an order varying a written maintenance agreement, section 8(3) or, as the case may be, section 9(5)(b) of the Act, shall not apply in relation to that case.
+
+.
+
+(2) In paragraph 7(1)(a) of Part II of that Schedule, after the words “4th April 1993” there shall be inserted the words “, and at all times thereafter until the date when a maintenance assessment is made under the Act,”.
+
+(3) In paragraph 7(2) of Part II of that Schedule, for the words “an interim maintenance assessment” there shall be substituted the words “a Category A interim maintenance assessment within the meaning of regulation 8(1B) of the Child Support (Maintenance Assessment Procedure) Regulations 1992”[^f00004].
+
+Signed by authority of the Secretary of State for Social Security.
+
+Alistair Burt
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+31st March 1993
+
+(This note is not part of the Order)
+
+This Order makes amendments to the transitional provisions contained in the Schedule to the Child Support Act 1991 (Commencement No. 3 and Transitional Provisions) Order 1992.
+
+Part I of the Schedule (phased take-on of cases) is substituted. The main differences are—
+
+- (a) for England and Wales, a definition of when an application is pending before a court is included in paragraph 1;
+- (b) paragraph 2 now applies only where benefit is being paid to a parent with care of a child rather than simply to a parent of that child, and in that paragraph and paragraph 3 the references to maintenance agreements are now references to written maintenance agreements made before 5th April 1993;
+- (c) paragraph 5 now provides that a court may, until such time as a maintenance assessment under the Child Support Act is made, vary an existing maintenance order or written agreement, and may also continue to exercise its existing powers where an application for an order is pending when the Child Support Act comes into force.
+
+Additionally, paragraph 7(1)(a) in Part II of the Schedule is amended so that the provisions of Part II of the Schedule (which modify maintenance assessments in certain cases) apply only where one or more of the orders, arrangements or agreements mentioned in that sub-paragraph are in force throughout the period beginning on 4th April 1993 and ending on the date a maintenance assessment is made, and paragraph 7(2) is amended to take account of the introduction of two categories of interim maintenance assessment by regulation 3(2) of the Child Support (Miscellaneous Amendments) Regulations 1993 which inserts new provisions into regulation 8 of the Child Support (Maintenance Assessment Procedure) Regulations 1992.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48).
+
+[^f00002]: Footnote: S.I. [1992/2644 (C. 83)](https://www.legislation.gov.uk/uksi/1992/2644).
+
+[^f00003]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^f00004]: Footnote: S.I. [1992/1813](https://www.legislation.gov.uk/uksi/1992/1813); the relevant amending instrument is S.I. [1993/913](https://www.legislation.gov.uk/uksi/1993/913).

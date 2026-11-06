@@ -1,0 +1,445 @@
+---
+title: The Occupational Pension Schemes (Levies) Regulations 2005
+id: uksi/2005/842
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-03-17'
+text_date: '2017-04-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2005/842
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/842/pdfs/uksiem_20050842_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/842/pdfs/uksi_20050842_290216_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/842/pdfs/uksi_20050842_300612_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/842/pdfs/uksi_20050842_280215_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/842/pdfs/uksi_20050842_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/842/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Levies) Regulations 2005
+
+> Text as at 2017-04-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2005 No. 842
+
+PENSIONS
+
+The Occupational Pension Schemes (Levies) Regulations 2005
+
+Made
+
+17th March 2005
+
+Coming into force
+
+1st April 2005
+
+Whereas a draft of this instrument was laid before Parliament in accordance with section 316(2)(a), (c) and (g) of the Pensions Act 2004 [^c1190529] and approved by resolution of each House of Parliament;
+
+The Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 117(1), (3) and (7)(a), 126(1)(b), 174(1), (2), 181(5), (8)(a), 189(11)(a), 209(7) and (8), 315(2), (4) and (5) and 318(1) of the Pensions Act 2004 [^c1190530] and of all other powers enabling him in that behalf, having consulted the Board [^c1190531], and with the approval of the Treasury [^c1190532], by this instrument, which is made before the end of the period of six months beginning with the coming into force of the provisions of that Act by virtue of which it is made [^c1190533], hereby makes the following Regulations:
+
+## PART 1 — PRELIMINARY
+
+### 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Occupational Pension Schemes (Levies) Regulations 2005.
+
+(2) These Regulations come into force on 1st April 2005.
+
+(3) These Regulations extend to England and Wales and Scotland.
+
+### 2. Interpretation
+
+In these Regulations––
+
+- “**the 1993 Act**” means the Pension Schemes Act 1993 [^c1190534];
+- “**the 1995 Act**” means the Pensions Act 1995 [^c1190535];
+- “**the 2004 Act**” means the Pensions Act 2004;
+- “**active member**”, in relation to a scheme, has the meaning given by section 318 of the 2004 Act (but subject to regulation 10(7));
+- “**the administration levy**” means the levy imposed under section 117 of the 2004 Act by regulation 4(1);
+- “**deferred member**” has the meaning given by section 124(1) of the 1995 Act (but subject to regulation 10(7));
+- “**eligible scheme**” has the meaning given by section 126 of the 2004 Act (but subject to regulations 15 to 18);
+- “**financial year**” means a period of 12 months ending with 31st March;
+- “**the initial levy**” means the levy imposed under section 174 of the 2004 Act by regulation 9;
+- “**the initial period**” means the period provided for by regulation 8;
+- “**life member**”, in relation to a scheme, means a person who is an active member but whose service under the scheme is only pensionable service by virtue of qualifying him for death benefits;
+- “**member**”, in relation to a scheme, has the meaning given by section 318 of the 2004 Act (but subject to regulations 5(6) and 11(4));
+- [^key-4afc72a45152f5238187db940ce1834c]......
+- “**pension credit member**” has the meaning given by section 124(1) of the 1995 Act [^c1190536];
+- “**pension credit rights**” has the meaning given by section 124(1) of the 1995 Act;
+- “**pension protection levy**” means a levy imposed in accordance with section 175 of the 2004 Act;
+- “**pensionable service**” has the meaning given by section 124(1) of the 1995 Act;
+- “**pensioner member**” has the meaning given by section 124(1) of the 1995 Act [^c1190537];
+- “**registrable scheme**” has the meaning given by section 59(2) of the 2004 Act and regulations made under that section;
+- “**scheme year**”, in relation to a scheme, means—
+  - (a) a year specified for the purpose of the scheme in any document comprising the scheme or, if none, a period of 12 months beginning on 1st April or on such other date as the trustees or managers select; or
+  - (b) such other period (if any) exceeding 6 months but not exceeding 18 months as is selected by the trustees or managers—
+    - (i) in connection with the commencement or termination of the scheme; or
+    - (ii) in connection with a variation of the date on which the year or period referred to in paragraph (a) is to begin.
+
+## PART 2 — ADMINISTRATION LEVY[^key-fe5ceeccd6c8ec8b4015b9842d411fa7]
+
+### 3. Meaning of “the levies” in Part 2[^key-80e385e162ff6086aae2aeb737db71a4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Liability for the administration levy[^key-640a4cbcc5636b6f44e1d5b67a608552]
+
+(1) The trustees or managers of each eligible scheme are liable to pay a levy (“the administration levy”) to the Secretary of State in respect of the scheme for the purpose of meeting—
+
+- (a) expenditure of the Secretary of State relating to the establishment of the Board;
+- (b) any expenditure of the Secretary of State under section 116 of the 2004 Act.
+
+(2)[^key-e4f3b6a7725f135e2968e02557ec2ee7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The administration levy is[^key-3bd00042bccb73f363d806337266dbcb] payable in respect of each financial year.
+
+(4)[^key-36e8082882925341b25bfb9a992da716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The administration levy in respect of a financial year is[^key-0ffbb5f45ee6904ce7c0ea2ae75d7498] payable on the first day of that year, unless paragraph (6) applies.
+
+(6) If a scheme is not an eligible scheme on that day but becomes such a scheme during the financial year, the administration levy is[^key-b4316e3ac053efac4655c6d5840bffaa] payable on the day after that on which that year ends.
+
+### 5. The reference day
+
+(1) The amount of the administration levy[^key-d311175d310aad8de29ea461053428eb] payable for a financial year (“the levy year”) in respect of a scheme is calculated by reference to the number of the scheme's members on the reference day.
+
+(2) In the case of a scheme established on or before 31st March 2005, for the levy year[^key-e46820d227363fa654f60bedafbc1139] beginning on 1st April 2005[^key-09021f0ab425b9cfd9cd5b39a6df7e47]..., the reference day is 31st March 2005.
+
+(3) In the case of a scheme established on or after 1st April 2005, for the levy year[^key-9928905bd280bcf4ebd2ee484eb28055] beginning on 1st April 2005[^key-c3dcf36bef691c6ee0084ed86286a021]..., the reference day is the date on which the scheme becomes a registrable scheme.
+
+(4) For a levy year beginning on or after 1st April 2006[^key-1b440f861156fac6f171f34afb3bb40e] the general rule is that the reference day for a scheme is the last day of the scheme year which ended before the beginning of the previous levy year.
+
+(5) But if the scheme was established too late to have such a scheme year, the reference day is the date on which the scheme becomes a registrable scheme.
+
+(6) In this regulation and regulation 6 “**member**”, in relation to a scheme, does not include a life member of the scheme, unless he–
+
+- (a) is a pensioner or pension credit member of the scheme, or
+- (b) would be a deferred member if he were not an active member.
+
+### 6. The amount payable
+
+(1) In the case of the administration levy, the amount payable for a financial year in respect of a scheme with the number of members on the reference day that is specified in column 1 of the table for that levy for that year is—
+
+- (a) the amount specified for such a scheme in column 2 of the table (where M is the number of the scheme's members on the reference day); or
+- (b) if no amount is so specified or an amount which is greater is specified for such a scheme in column 3 of the table, that amount.
+
+(2)[^key-a9e97fd05299b2964525af130b9d7981] This is the table for the administration levy for the financial year ending with 31st March 2018 and for each financial year after that—
+
+|  |  |  |
+| --- | --- | --- |
+| *Column 1*<br>*Number of members on the reference day* | *Column 2*<br>*Amount of levy calculated by reference to number of members (M)* | *Column 3*<br>*Minimum amount of levy* |
+| 2 to 11 |  | £49 |
+| 12 to 99 | £4.88 multiplied by M |  |
+| 100 to 999 | £3.52 multiplied by M | £490 |
+| 1,000 to 4,999 | £2.74 multiplied by M | £3,520 |
+| 5,000 to 9,999 | £2.07 multiplied by M | £13,700 |
+| 10,000 or more | £1.45 multiplied by M | £20,700 |
+
+(3) If, in any case where the reference day is determined in accordance with regulation 5(2) (31st March 2005), the number of members of the scheme on that day differs from the number according to the register compiled and maintained under regulations made under section 6 of the 1993 Act, the number according to that register is to be taken as the number on that day for the purposes of these Regulations.
+
+(4) For schemes that are eligible schemes for only part of the financial year, see regulation 7.
+
+### 7. Schemes eligible for only part of the financial year
+
+(1) This regulation applies if a scheme that is not an eligible scheme at the beginning of a financial year becomes such a scheme during that year.
+
+(2) The amount of the administration levy[^key-accf14bcba106a597e2b082041f62397] payable in respect of the scheme for that year is such proportion of the full amount so payable as the period beginning with the date on which it becomes such a scheme and ending with the financial year bears to the whole financial year.
+
+(3)[^key-93f5ab91c02f1cb7a46795535d83fc67] Where a scheme to which this regulation applies becomes an eligible scheme during a financial year by virtue of—
+
+- (a) regulation 2(1A) of the Pension Protection Fund (Entry Rules) Regulations 2005 (schemes which are not eligible schemes); or
+- (b) regulation 2A of the Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (schemes to which paragraph (1) of regulation 2 does not apply),
+
+paragraph (2) does not apply to the scheme (and so the full amount of the administration levy is payable).
+
+### 7A. Waiver of the administration levy[^key-e0cadc9598279edb16177f6d4efcdde8]
+
+(1) This regulation applies to an eligible scheme if, in respect of a financial year—
+
+- (a) any amount payable by way of any pension protection levy in respect of the scheme is waived under regulations made under section 181(8)(b) of the 2004 Act; and
+- (b) the scheme is not a scheme which is authorised under section 153 of the 2004 Act to continue as a closed scheme.
+
+(2) In respect of the same financial year, any amount payable by way of the administration levy in respect of the scheme is also waived.
+
+## PART 3 — THE INITIAL LEVY
+
+### 8. The initial period
+
+For the purposes of section 174(1) of the 2004 Act the period for which the initial levy is imposed begins with 6th April 2005; and accordingly the initial period begins with that date and ends with 31st March 2006.
+
+### 9. Liability for the initial levy
+
+(1) The trustees or managers of each eligible scheme are liable to pay the initial levy to the Board in respect of the scheme for the initial period.
+
+(2) The initial levy is payable on 6th April 2005.
+
+(3) Paragraph (2) is subject to paragraphs (4) to (7).
+
+(4) If the amount of the initial levy in respect of a scheme is not notified under section 181(3)(c) of the 2004 Act to the person liable to pay it before the day on which it would (apart from this paragraph) be payable, the levy is payable within the period of 28 days beginning with the date on which the notification is given or, if earlier, on 31st March 2006.
+
+(5) If, on an application to the Board by trustees or managers who are liable to pay the initial levy to the Board in respect of a scheme, the Board considers that it is appropriate to do so in view of any exceptional circumstances that apply in relation to the scheme, it may agree to accept payment of the initial levy by instalments and, if it does so—
+
+- (a) the first instalment is payable as mentioned in paragraph (2) or, as the case may be, paragraph (4); and
+- (b) any subsequent instalment is payable at such later time or times during the initial period as are notified under section 181(3)(c) of the 2004 Act to the person liable to pay the levy.
+
+(6) If the Board requires the Regulator to discharge its functions under section 181(3)(c) on the Board's behalf, the reference to the Board in paragraph (5) is to be taken as a reference to the Regulator.
+
+(7) If—
+
+- (a) on 6th April 2005 a scheme is not an eligible scheme; but
+- (b) it becomes such a scheme during the initial period,
+
+then, subject to paragraphs (4) and (5), the initial levy in respect of the scheme is payable on 31st March 2006.
+
+### 10. The amount of the initial levy
+
+(1) The amount of the initial levy payable in respect of a scheme is calculated by reference to the number of persons appearing to the Board or, if the Board requires the Regulator to discharge its functions under section 181(3)(b) on the Board's behalf, to the Regulator, to fall within paragraphs (3), (4) and (5) on the reference day.
+
+(2) In paragraph (1) “**the reference day**” means––
+
+- (a) in the case of a scheme that was established on or before 31st March 2005, that day; and
+- (b) otherwise, the date on which the scheme becomes a registrable scheme.
+
+(3) For each active member of the scheme, £15 is payable.
+
+(4) For—
+
+- (a) each pensioner member of the scheme;
+- (b) each pension credit member who by reason of rights under the scheme attributable (directly or indirectly) to a pension credit is entitled to the present payment of pension; and
+- (c) each other person who is entitled to the present payment of pension by reason of rights under the scheme in respect of a deceased member,
+
+£15 is payable.
+
+(5) For—
+
+- (a) each deferred member of the scheme; and
+- (b) each pension credit member who is not entitled to present payment of a pension as a result of his pension credit rights,
+
+£5 is payable.
+
+(6) If a person falls within more than one paragraph in this regulation or within more than one sub-paragraph in a paragraph, a separate amount is payable under this regulation in respect of that person as a result of his falling within each of those paragraphs or, as the case may be, sub-paragraphs.
+
+(7) For the purposes of this regulation, a person is not regarded as an active member of a scheme if he is a life member of the scheme; and such a person is not excluded from being a deferred member by reason only of being an active member.
+
+### 11. Supplementary provisions relating to the calculation of the initial levy
+
+(1) If, in the case of a scheme that was established on or before 31st March 2005, the Board is unable on or before 6th April 2005 to determine the number of persons falling within paragraphs (3) to (5) of regulation 10 on the reference day (as defined in regulation 10(2)(a)), it is to be assumed for the purposes of regulation 10 that on that day—
+
+- (a) all the members of the scheme were active members; and
+- (b) there were no persons falling within paragraph (4)(c) of that regulation.
+
+(2) If the Board requires the Regulator to discharge its functions under section 181(3)(b) on the Board's behalf, the reference in paragraph (1) to the Board includes a reference to the Regulator.
+
+(3) In the case of a scheme that was established on or after 1st April 2005, it is to be assumed for the purposes of regulation 10 that on the reference day—
+
+- (a) all the members of the scheme were active members; and
+- (b) there were no persons falling within paragraph (4)(c) of that regulation.
+
+(4) If by virtue of paragraph (7) of that regulation a person is not regarded as either an active or deferred member of the scheme for the purposes of that regulation, he is not regarded as a member of it for the purposes of paragraph (1)(a) or (3)(a) of this regulation.
+
+(5) Nothing in paragraph (1) or (3) prevents a determination of the amount of the initial levy payable in respect of a scheme that is made on the basis of the assumption mentioned in that paragraph from being reviewed by virtue of Chapter 6 of Part 2 of the Act of 2004 (reviews, appeals and maladministration) on the ground that the assumption is in fact incorrect.
+
+### 12. Schemes eligible for only part of the levy period
+
+(1) This regulation applies where a scheme is an eligible scheme for only part of the period in respect of which the initial levy is payable.
+
+(2) Section 181(5) of the 2004 Act (by virtue of which only a proportionate part of the levy is payable by such schemes) does not apply if the scheme ceases to be an eligible scheme during the period in question (and so the full amount of the initial levy is payable).
+
+## PART 4 — GENERAL
+
+### 13. Meaning of “the levies” in Part 4
+
+(1) In this Part “**the levies**” means the administration levy, the pension protection levy[^key-5aa9e1871852193946e4e1cbe6fd298a][^key-37bd76e935f540684b85a6c825b0ce44]... and the initial levy.
+
+(2) But that is subject to regulation 14(3) or, as the case may be, 15(7)[^key-f087b44197dcc8a2e1632ee76e85ec0d].
+
+### 14. Attribution of payments in respect of levies
+
+(1) This regulation applies where—
+
+- (a) a payment is made in respect of a levy; and
+- (b) it is not apparent to which of two or more of the levies the payment relates.
+
+(2) The amount paid is to be apportioned between those two or more levies in the same proportions as the amounts outstanding in respect of each of them at the date the payment is made bear to the total amount outstanding in respect of both or, as the case may be, all of them at that date.
+
+(3) In this regulation “**the levies**” includes [^key-8f342cc6d9d0d6c33c139bd7e9f38b91]...any fraud compensation levy imposed by regulations under section 189 of the 2004 Act.
+
+### 15. Multi-employer schemes
+
+(1) If a scheme in relation to which there is more than one employer is divided into two or more sections and the provisions of the scheme are such that they meet conditions A and B, the provisions of these Regulations (apart from this regulation) apply as if each section of the scheme were a separate scheme.
+
+(2) Condition A is that contributions payable to the scheme by an employer, or by a member in employment under that employer, are allocated to the section that applies to that employer or, if more than one section applies to the employer, to the section which is appropriate in respect of the employment in question.
+
+(3) Condition B is that a specified part or proportion of the assets of the scheme is attributable to each section and cannot be used for the purposes of any other section.
+
+(4) For the purposes of paragraph (1), any provisions of the scheme by virtue of which contributions or transfers of assets may be made to make provision for death benefits are disregarded.
+
+(5) But if paragraph (1) applies and, by virtue of any provisions of the scheme, contributions or transfers of assets to make provision for death benefits are made to a section (“**the death benefits section**”) the assets of which may only be applied for the provision of death benefits, the death benefits section is also to be treated as a separate scheme.
+
+(6) For the purpose of this regulation, any provisions of the scheme by virtue of which assets attributable to one section may on the winding up of the scheme or a section be used for the purposes of another section are disregarded.
+
+(7)[^key-8e4e714c10767c5ca712868e799bc02d] This regulation does not apply to any pension protection levy.
+
+### 16. Partially guaranteed schemes
+
+(1) This regulation applies if a relevant public authority has–
+
+- (a) given a guarantee in relation to any part of a scheme, any benefits payable under the scheme or any member of the scheme; or
+- (b) made any other arrangements for the purposes of securing that the assets of the scheme are sufficient to meet any part of its liabilities.
+
+(2) The provisions of these Regulations (apart from this regulation) apply as if the scheme did not include any part of the scheme–
+
+- (a) in relation to which the guarantee has been given;
+- (b) which relates to benefits payable under the scheme in relation to which the guarantee has been given; or
+- (c) which relates to benefits payable under the scheme in relation to the liabilities for which those other arrangements have been made.
+
+(3) In this regulation “**relevant public authority**” has the meaning given in section 307(4) of the 2004 Act.
+
+### 17. Hybrid schemes
+
+The provisions of these Regulations (apart from this regulation) apply in the case of any scheme that is a hybrid scheme (as defined in section 307(4) of the 2004 Act) as if the scheme did not include any part of the scheme relating to money purchase benefits.
+
+### 18. Avoidance of double liability: schemes in Northern Ireland
+
+(1) This regulation applies if, apart from paragraph (2), any of the levies would be payable in respect of a scheme in respect of which a corresponding Northern Ireland levy is imposed.
+
+(2) The scheme is only an eligible scheme for the purposes of the levy in question if the address of the scheme is in Great Britain.
+
+(3) For this purpose the address of the scheme is the place in the United Kingdom at which the management of the scheme is conducted or, if there is more than one such place, the principal such place.
+
+(4) For the purposes of paragraph (1), a levy is a corresponding Northern Ireland levy—
+
+- (a) in the case of the administration levy, if it is imposed under any equivalent provision to regulation 4(1);
+- (b)[^key-83f59ecb490c6dc895122982eb6f077b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) in the case of the initial levy, if it is imposed under any equivalent provision to regulation 9; and[^key-a7b709fc8d80fcaffd98ebc81d84b319]
+- (d) in the case of the pension protection levy, if it is imposed under any equivalent provision to section 175 of the 2004 Act.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Malcolm Wicks
+
+Minister of State,
+
+Department for Work and Pensions
+
+We approve,
+
+John Heppell
+
+Nick Ainger
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations impose the administration levy, the initial levy and the PPF Ombudsman levy provided for in sections 117, 174 and 209 respectively of the Pensions Act 2004.
+
+Regulation 1 provides for citation, commencement and extent.
+
+Regulation 2 provides for interpretation.
+
+Regulations 3 to 7 make provision for the imposition and payment of the administration levy and the PPF Ombudsman levy. They also make general provision as to how the amount of those levies is to be determined and the times at which they are to be paid. Regulation 4 provides that no PPF Ombudsman levy is payable for the financial year ending with 31st March 2006. Regulation 6 specifies the rate at which the administration levy is payable for that financial year.
+
+Regulations 8 to 11 make provision for the imposition and payment of the initial levy. They also make provision as to how the amount of the levy is to be determined and the time at which it is to be paid.
+
+Regulation 12 provides that, while generally schemes that are only eligible schemes for part of the levy period are only liable for a proportionate part of the levy, there is no reduction in the initial levy if the scheme ceases to be eligible during the initial period.
+
+Regulation 13 introduces Part 4 of the Regulations which makes general provision applying to the administration levy, the PPF Ombudsman levy and the initial levy.
+
+Regulation 14 makes provision for the apportionment of levy payments between the levies where it is not apparent which levies a payment relates to, and enables apportionment to apply also where payments may relate to any pension protection levy or fraud compensation levy.
+
+Regulation 15 makes provision for the application of the regulations in the case of multi-employer schemes.
+
+Regulation 16 makes provision for the application of the regulations in the case of schemes with partial guarantees from public authorities.
+
+Regulation 17 makes provision for the application of the regulations in the case of hybrid schemes.
+
+Regulation 18 makes provision to avoid duplication of payments where the levies are payable under corresponding provisions which have effect in Northern Ireland.
+
+As these Regulations are made before the expiry of the period of six months beginning with the coming into force of the provisions of the 2004 Act by virtue of which they are made, the requirement for the Secretary of State to consult such persons as he considers appropriate does not apply.
+
+An assessment of the impact on business, charities or the voluntary sector of the provisions in these Regulations for the administration levy, the initial levy and the pension protection levy was included in the Regulatory Impact Assessment that accompanied the Pensions Act 2004. A copy of that assessment has been placed in the libraries of both Houses of Parliament. Copies may be obtained from the Department for Work and Pensions, Regulatory Impact Unit, level 3, Adelphi, 1-11 John Adam Street, London WC2N 6HT.
+
+It is expected that the provisions in these regulations for the PPF Ombudsman levy will have only a negligible cost impact on business, charities or the voluntary sector in future years if a levy is raised. Publication of a full Regulatory Impact Assessment is not necessary for such legislation.
+
+## Annotations
+
+[^c1190529]: Marginal citation: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^c1190530]: Marginal citation: [Section 318(1)](https://www.legislation.gov.uk/uksi/2005/842/section/318/1) is cited because of the meaning given by that section to “prescribed” and “regulations”.
+
+[^c1190531]: Marginal citation: *See* section 117(4) of the Pensions Act 2004.
+
+[^c1190532]: Marginal citation: *See* section 174(3) of the Pensions Act 2004.
+
+[^c1190533]: Marginal citation: *See* [section 317](https://www.legislation.gov.uk/uksi/2005/842/section/317) of the Pensions Act 2004 which provides that the Secretary of State must consult such persons as he considers appropriate before making regulations by virtue of the provisions of that Act (other than Part 8). This duty does not apply where regulations are made before the end of six months beginning with the coming into force of the provisions of that Act by virtue of which the regulations are made.
+
+[^c1190534]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
+
+[^c1190535]: Marginal citation: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^key-4afc72a45152f5238187db940ce1834c]: Textual amendment: Words in reg. 2 omitted (1.4.2007) by virtue of [Occupational Pension Schemes (Levies) (Amendment) Regulations 2007 (S.I. 2007/994)](https://www.legislation.gov.uk/uksi/2007/994), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/994/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2007/994/regulation/2/2)
+
+[^c1190536]: Marginal citation: The definitions of “pension credit member” and “pension credit rights” were inserted by paragraph 61 of Schedule 12 to the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30).
+
+[^c1190537]: Marginal citation: A relevant amendment of section 124(1) was made by paragraph 69(2) of Schedule 12 to the Pensions Act 2004.
+
+[^key-fe5ceeccd6c8ec8b4015b9842d411fa7]: Textual amendment: [Pt. 2 heading](https://www.legislation.gov.uk/uksi/2005/842/part/2) substituted (1.4.2007) by [Occupational Pension Schemes (Levies) (Amendment) Regulations 2007 (S.I. 2007/994)](https://www.legislation.gov.uk/uksi/2007/994), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/994/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2007/994/regulation/2/3)
+
+[^key-80e385e162ff6086aae2aeb737db71a4]: Textual amendment: Reg. 3 omitted (1.4.2007) by virtue of [Occupational Pension Schemes (Levies) (Amendment) Regulations 2007 (S.I. 2007/994)](https://www.legislation.gov.uk/uksi/2007/994), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/994/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2007/994/regulation/2/4)
+
+[^key-640a4cbcc5636b6f44e1d5b67a608552]: Textual amendment: Heading to reg. 4 substituted (1.4.2007) by [Occupational Pension Schemes (Levies) (Amendment) Regulations 2007 (S.I. 2007/994)](https://www.legislation.gov.uk/uksi/2007/994), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/994/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2007/994/regulation/2/5/a)
+
+[^key-e4f3b6a7725f135e2968e02557ec2ee7]: Textual amendment: Reg. 4(2) omitted (1.4.2007) by virtue of [Occupational Pension Schemes (Levies) (Amendment) Regulations 2007 (S.I. 2007/994)](https://www.legislation.gov.uk/uksi/2007/994), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/994/regulation/1/3), [2(5)(b)](https://www.legislation.gov.uk/uksi/2007/994/regulation/2/5/b)
+
+[^key-3bd00042bccb73f363d806337266dbcb]: Textual amendment: Words in reg. 4(3) substituted (1.4.2007) by [Occupational Pension Schemes (Levies) (Amendment) Regulations 2007 (S.I. 2007/994)](https://www.legislation.gov.uk/uksi/2007/994), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/994/regulation/1/3), [2(5)(c)](https://www.legislation.gov.uk/uksi/2007/994/regulation/2/5/c)
+
+[^key-36e8082882925341b25bfb9a992da716]: Textual amendment: Reg. 4(4) omitted (1.4.2007) by virtue of [Occupational Pension Schemes (Levies) (Amendment) Regulations 2007 (S.I. 2007/994)](https://www.legislation.gov.uk/uksi/2007/994), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/994/regulation/1/3), [2(5)(d)](https://www.legislation.gov.uk/uksi/2007/994/regulation/2/5/d)
+
+[^key-0ffbb5f45ee6904ce7c0ea2ae75d7498]: Textual amendment: Words in reg. 4(5) substituted (1.4.2007) by [Occupational Pension Schemes (Levies) (Amendment) Regulations 2007 (S.I. 2007/994)](https://www.legislation.gov.uk/uksi/2007/994), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/994/regulation/1/3), [2(5)(e)](https://www.legislation.gov.uk/uksi/2007/994/regulation/2/5/e)
+
+[^key-b4316e3ac053efac4655c6d5840bffaa]: Textual amendment: Words in reg. 4(6) substituted (1.4.2007) by [Occupational Pension Schemes (Levies) (Amendment) Regulations 2007 (S.I. 2007/994)](https://www.legislation.gov.uk/uksi/2007/994), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/994/regulation/1/3), [2(5)(f)](https://www.legislation.gov.uk/uksi/2007/994/regulation/2/5/f)
+
+[^key-d311175d310aad8de29ea461053428eb]: Textual amendment: Words in reg. 5(1) substituted (1.4.2007) by [Occupational Pension Schemes (Levies) (Amendment) Regulations 2007 (S.I. 2007/994)](https://www.legislation.gov.uk/uksi/2007/994), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/994/regulation/1/3), [2(6)](https://www.legislation.gov.uk/uksi/2007/994/regulation/2/6)
+
+[^key-e46820d227363fa654f60bedafbc1139]: Textual amendment: Word in reg. 5(2) substituted (1.4.2006) by [Occupational Pension Schemes (Levies) (Amendment) Regulations 2006 (S.I. 2006/935)](https://www.legislation.gov.uk/uksi/2006/935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/935/regulation/1/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2006/935/regulation/2/3/a/i)
+
+[^key-09021f0ab425b9cfd9cd5b39a6df7e47]: Textual amendment: Words in reg. 5(2) omitted (1.4.2006) by virtue of [Occupational Pension Schemes (Levies) (Amendment) Regulations 2006 (S.I. 2006/935)](https://www.legislation.gov.uk/uksi/2006/935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/935/regulation/1/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/935/regulation/2/3/a/ii)
+
+[^key-9928905bd280bcf4ebd2ee484eb28055]: Textual amendment: Word in reg. 5(3) substituted (1.4.2006) by [Occupational Pension Schemes (Levies) (Amendment) Regulations 2006 (S.I. 2006/935)](https://www.legislation.gov.uk/uksi/2006/935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/935/regulation/1/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2006/935/regulation/2/3/a/i)
+
+[^key-c3dcf36bef691c6ee0084ed86286a021]: Textual amendment: Words in reg. 5(3) omitted (1.4.2006) by virtue of [Occupational Pension Schemes (Levies) (Amendment) Regulations 2006 (S.I. 2006/935)](https://www.legislation.gov.uk/uksi/2006/935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/935/regulation/1/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/935/regulation/2/3/a/ii)
+
+[^key-1b440f861156fac6f171f34afb3bb40e]: Textual amendment: Words in reg. 5(4) substituted (1.4.2006) by [Occupational Pension Schemes (Levies) (Amendment) Regulations 2006 (S.I. 2006/935)](https://www.legislation.gov.uk/uksi/2006/935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/935/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2006/935/regulation/2/3/b)
+
+[^key-a9e97fd05299b2964525af130b9d7981]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2005/842/regulation/6/2) substituted (1.4.2017) by [The Occupational Pension Schemes (Levies) (Amendment) Regulations 2015 (S.I. 2015/84)](https://www.legislation.gov.uk/uksi/2015/84), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/84/regulation/1/4), [5](https://www.legislation.gov.uk/uksi/2015/84/regulation/5)
+
+[^key-accf14bcba106a597e2b082041f62397]: Textual amendment: Words in reg. 7(2) substituted (1.4.2007) by [Occupational Pension Schemes (Levies) (Amendment) Regulations 2007 (S.I. 2007/994)](https://www.legislation.gov.uk/uksi/2007/994), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/994/regulation/1/3), [2(7)](https://www.legislation.gov.uk/uksi/2007/994/regulation/2/7)
+
+[^key-93f5ab91c02f1cb7a46795535d83fc67]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2005/842/regulation/7/3) inserted (29.7.2010) by [Occupational Pension Schemes (Levies) (Amendment) Regulations 2010 (S.I. 2010/1930)](https://www.legislation.gov.uk/uksi/2010/1930), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1930/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/1930/regulation/2/2)
+
+[^key-e0cadc9598279edb16177f6d4efcdde8]: Textual amendment: Reg. 7A inserted (30.3.2007) by [Occupational Pension Schemes (Levies) (Amendment) Regulations 2007 (S.I. 2007/994)](https://www.legislation.gov.uk/uksi/2007/994), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/994/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2007/994/regulation/4)
+
+[^key-5aa9e1871852193946e4e1cbe6fd298a]: Textual amendment: Words in reg. 13(1) inserted (1.4.2006) by [Occupational Pension Schemes (Levies) (Amendment) Regulations 2006 (S.I. 2006/935)](https://www.legislation.gov.uk/uksi/2006/935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/935/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2006/935/regulation/2/5/a)
+
+[^key-37bd76e935f540684b85a6c825b0ce44]: Textual amendment: Words in reg. 13(1) omitted (1.4.2007) by virtue of [Occupational Pension Schemes (Levies) (Amendment) Regulations 2007 (S.I. 2007/994)](https://www.legislation.gov.uk/uksi/2007/994), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/994/regulation/1/3), [2(8)](https://www.legislation.gov.uk/uksi/2007/994/regulation/2/8)
+
+[^key-f087b44197dcc8a2e1632ee76e85ec0d]: Textual amendment: Words in reg. 13(2) added (1.4.2006) by [Occupational Pension Schemes (Levies) (Amendment) Regulations 2006 (S.I. 2006/935)](https://www.legislation.gov.uk/uksi/2006/935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/935/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2006/935/regulation/2/5/b)
+
+[^key-8f342cc6d9d0d6c33c139bd7e9f38b91]: Textual amendment: Words in reg. 14(3) omitted (1.4.2006) by virtue of [Occupational Pension Schemes (Levies) (Amendment) Regulations 2006 (S.I. 2006/935)](https://www.legislation.gov.uk/uksi/2006/935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/935/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2006/935/regulation/2/6)
+
+[^key-8e4e714c10767c5ca712868e799bc02d]: Textual amendment: [Reg. 15(7)](https://www.legislation.gov.uk/uksi/2005/842/regulation/15/7) added (1.4.2006) by [Occupational Pension Schemes (Levies) (Amendment) Regulations 2006 (S.I. 2006/935)](https://www.legislation.gov.uk/uksi/2006/935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/935/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2006/935/regulation/2/7)
+
+[^key-83f59ecb490c6dc895122982eb6f077b]: Textual amendment: [Reg. 18(4)(b)](https://www.legislation.gov.uk/uksi/2005/842/regulation/18/4/b) omitted (1.4.2007) by virtue of [Occupational Pension Schemes (Levies) (Amendment) Regulations 2007 (S.I. 2007/994)](https://www.legislation.gov.uk/uksi/2007/994), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/994/regulation/1/3), [2(9)](https://www.legislation.gov.uk/uksi/2007/994/regulation/2/9)
+
+[^key-a7b709fc8d80fcaffd98ebc81d84b319]: Textual amendment: Reg. 18(4)(d) and preceding word inserted (1.4.2006) by [Occupational Pension Schemes (Levies) (Amendment) Regulations 2006 (S.I. 2006/935)](https://www.legislation.gov.uk/uksi/2006/935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/935/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2006/935/regulation/8/b)

@@ -1,0 +1,518 @@
+---
+title: The Electricity at Work Regulations 1989
+id: uksi/1989/635
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1989-04-07'
+text_date: '2015-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1989/635
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1989/635/pdfs/uksi_19890635_en.pdf
+- http://www.legislation.gov.uk/uksi/1989/635/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electricity at Work Regulations 1989
+
+> Text as at 2015-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1989 No. 635
+
+HEALTH AND SAFETY
+
+The Electricity at Work Regulations 1989
+
+Made
+
+7th April 1989
+
+Laid before Parliament
+
+25th April 1989
+
+Coming into force
+
+1st April 1990
+
+The Secretary of State, in exercise of the powers conferred on him by sections 15(1), (2), (3)(a) and (b), (4)(a), (5)(b), (6)(b), (8) and (9) and 82(3)(a) of, and paragraphs 1(1)(a) and (c), (2) and (3), 6(2), 9, 11, 12, 14, 15(1), 16 and 21(b) of Schedule 3 to, the Health and Safety at Work etc. Act 1974[^f00001] (“the 1974 Act”), and of all other powers enabling him in that behalf and for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act, after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:
+
+## PART I — INTRODUCTION
+
+### 1. Citation and commencement[^key-171d6086332dde4fcaa5e96b393fbfe5]
+
+These Regulations may be cited as the Electricity at Work Regulations 1989 and shall come into force on 1st April 1990.
+
+### 2. Interpretation[^key-f1ecb143f6eadc984b83011830c8ab92]
+
+(1) In these Regulations, unless the context otherwise requires–
+
+- “approved” means approved in writing for the time being by the Health and Safety Executive for the purposes of these Regulations or conforming with a specification approved in writing by the Health and Safety Executive for the purposes of these Regulations;
+- “circuit conductor” means any conductor in a system which is intended to carry electric current in normal conditions, or to be energised in normal conditions, and includes a combined neutral and earth conductor, but does not include a conductor provided solely to perform a protective function by connection to earth or other reference point;
+- “conductor” means a conductor of electrical energy;
+- “danger” means risk of injury;
+- “electrical equipment” includes anything used, intended to be used or installed for use, to generate, provide, transmit, transform, rectify, convert, conduct, distribute, control, store, measure or use electrical energy;
+- [^key-a9c4545559cf957e63dac011f90f8ec7]...
+- “injury” means death or personal injury from electric shock, electric burn, electrical explosion or arcing, or from fire or explosion initiated by electrical energy, where any such death or injury is associated with the generation, provision, transmission, transformation, rectification, conversion, conduction, distribution, control, storage, measurement or use of electrical energy;
+- [^key-a9c4545559cf957e63dac011f90f8ec7]...
+- “system” means an electrical system in which all the electrical equipment is, or may be, electrically connected to a common source of electrical energy, and includes such source and such equipment.
+
+(2) Unless the context otherwise requires, any reference in these Regulations to–
+
+- (a) a numbered regulation or Schedule is a reference to the regulation or Schedule in these Regulations so numbered;
+- (b) a numbered paragraph is a reference to the paragraph so numbered in the regulation or Schedule in which the reference appears.
+
+### 3. Persons on whom duties are imposed by these Regulations[^key-9d22c90dd5c4a57e3b12378f78009067]
+
+(1) Except where otherwise expressly provided in these Regulations, it shall be the duty of every–
+
+- (a) employer and self-employed person to comply with the provisions of these Regulations in so far as they relate to matters which are within his control; and
+- (b)[^key-4897830ff935e607918a4fb0dff9168b]
+  - (i) manager, in relation to a mine within the meaning of the Mines and Quarries Act 1954, and
+  - (ii) operator, in relation to a quarry within the meaning of regulation 3 of the Quarries Regulations 1999, to ensure that all requirements or prohibitions imposed by or under these Regulations are complied with in so far as they relate to the mine of which he is the manager or quarry of which he is the operator and to matters which are within his control.
+
+(2) It shall be the duty of every employee while at work–
+
+- (a) to co-operate with his employer so far as is necessary to enable any duty placed on that employer by the provisions of these Regulations to be complied with; and
+- (b) to comply with the provisions of these Regulations in so far as they relate to matters which are within his control.
+
+## PART II — GENERAL
+
+### 4. Systems, work activities and protective equipment[^key-536a584698218719c1b45afedac79995]
+
+(1) All systems shall at all times be of such construction as to prevent, so far as is reasonably practicable, danger.
+
+(2) As may be necessary to prevent danger, all systems shall be maintained so as to prevent, so far as is reasonably practicable, such danger.
+
+(3) Every work activity, including operation, use and maintenance of a system and work near a system, shall be carried out in such a manner as not to give rise, so far as is reasonably practicable, to danger.
+
+(4) Any equipment provided under these Regulations for the purpose of protecting persons at work on or near electrical equipment shall be suitable for the use for which it is provided, be maintained in a condition suitable for that use, and be properly used.
+
+### 5. Strength and capability of electrical equipment[^key-02cf56bc9276e6a37d6be72e5a257553]
+
+No electrical equipment shall be put into use where its strength and capability may be exceeded in such a way as may give rise to danger.
+
+### 6. Adverse or hazardous environments[^key-9cb0e371adbdf182deeb4a791e122347]
+
+Electrical equipment which may reasonably foreseeably be exposed to–
+
+- (a) mechanical damage;
+- (b) the effects of the weather, natural hazards, temperature or pressure;
+- (c) the effects of wet, dirty, dusty or corrosive conditions; or
+- (d) any flammable or explosive substance, including dusts, vapours or gases,
+
+shall be of such construction or as necessary protected as to prevent, so far as is reasonably practicable, danger arising from such exposure.
+
+### 7. Insulation, protection and placing of conductors[^key-804a9aab700b149d2d87fcd8b90cccf2]
+
+All conductors in a system which may give rise to danger shall either–
+
+- (a) be suitably covered with insulating material and as necessary protected so as to prevent, so far as is reasonably practicable, danger; or
+- (b) have such precautions taken in respect of them (including, where appropriate, their being suitably placed) as will prevent, so far as is reasonably practicable, danger.
+
+### 8. Earthing or other suitable precautions[^key-51d67b18454e9c6bc847a9e4221dbbbe]
+
+Precautions shall be taken, either by earthing or by other suitable means, to prevent danger arising when any conductor (other than a circuit conductor) which may reasonably foreseeably become charged as a result of either the use of a system, or a fault in a system, becomes so charged; and, for the purposes of ensuring compliance with this regulation, a conductor shall be regarded as earthed when it is connected to the general mass of earth by conductors of sufficient strength and current-carrying capability to discharge electrical energy to earth.
+
+### 9. Integrity of referenced conductors[^key-390176b84bd6bce0423cfebb863cf8b6]
+
+If a circuit conductor is connected to earth or to any other reference point, nothing which might reasonably be expected to give rise to danger by breaking the electrical continuity or introducing high impedance shall be placed in that conductor unless suitable precautions are taken to prevent that danger.
+
+### 10. Connections[^key-3c701245514146793ca47e19a10fa436]
+
+Where necessary to prevent danger, every joint and connection in a system shall be mechanically and electrically suitable for use.
+
+### 11. Means for protecting from excess of current[^key-46e08e39427c084e96e6ca878c622326]
+
+Efficient means, suitably located, shall be provided for protecting from excess of current every part of a system as may be necessary to prevent danger.
+
+### 12. Means for cutting off the supply and for isolation[^key-b026c90b2901fe609236f8d5812de590]
+
+(1) Subject to paragraph (3), where necessary to prevent danger, suitable means (including, where appropriate, methods of identifying circuits) shall be available for–
+
+- (a) cutting off the supply of electrical energy to any electrical equipment; and
+- (b) the isolation of any electrical equipment.
+
+(2) In paragraph (1), “isolation” means the disconnection and separation of the electrical equipment from every source of electrical energy in such a way that this disconnection and separation is secure.
+
+(3) Paragraph (1) shall not apply to electrical equipment which is itself a source of electrical energy but, in such a case as is necessary, precautions shall be taken to prevent, so far as is reasonably practicable, danger.
+
+### 13. Precautions for work on equipment made dead[^key-f8a02209d2f714771787a94a52d09b8e]
+
+Adequate precautions shall be taken to prevent electrical equipment, which has been made dead in order to prevent danger while work is carried out on or near that equipment, from becoming electrically charged during that work if danger may thereby arise.
+
+### 14. Work on or near live conductors[^key-4b8ba38a4f1dd49c910e97139e2cfd0e]
+
+No person shall be engaged in any work activity on or so near any live conductor (other than one suitably covered with insulating material so as to prevent danger) that danger may arise unless–
+
+- (a) it is unreasonable in all the circumstances for it to be dead; and
+- (b) it is reasonable in all the circumstances for him to be at work on or near it while it is live; and
+- (c) suitable precautions (including where necessary the provision of suitable protective equipment) are taken to prevent injury.
+
+### 15. Working space, access and lighting[^key-448ef036b15bd401675da0d88336496a]
+
+For the purposes of enabling injury to be prevented, adequate working space, adequate means of access, and adequate lighting shall be provided at all electrical equipment on which or near which work is being done in circumstances which may give rise to danger.
+
+### 16. Persons to be competent to prevent danger and injury[^key-ab25758f17d426974e8bd8d611c4bf7a]
+
+No person shall be engaged in any work activity where technical knowledge or experience is necessary to prevent danger or, where appropriate, injury, unless he possesses such knowledge or experience, or is under such degree of supervision as may be appropriate having regard to the nature of the work.
+
+## PART III — REGULATIONS APPLYING TO MINES ONLY
+
+### 17. Provisions applying to mines only[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Introduction of electrical equipment[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Restriction of equipment in certain zones below ground[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Cutting off electricity or making safe where firedamp is found either below ground or at the surface[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Approval of certain equipment for use in safety-lamp mines[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Means of cutting off electricity to circuits below ground[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Oil-filled equipment[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Records and information[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Electric shock notices[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26. Introduction of battery-powered locomotives and vehicles into safety-lamp mines[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 27. Storage, charging and transfer of electrical storage batteries[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Disapplication of section 157 of the Mines and Quarries Act 1954[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART IV — MISCELLANEOUS AND GENERAL
+
+### 29. Defence[^key-f080e5f72b9a6fc89c4e27888a8507db]
+
+In any proceedings for an offence consisting of a contravention of regulations 4(4), 5, 8, 9, 10, 11, 12, 13, 14, 15, 16 or 25, it shall be a defence for any person to prove that he took all reasonable steps and exercised all due diligence to avoid the commission of that offence.
+
+### 30. Exemption certificates[^key-faa655c415d59f2b5eec60134517e5c9]
+
+(1) Subject to paragraph (2), the Health and Safety Executive may, by a certificate in writing, exempt–
+
+- (a) any person;
+- (b) any premises;
+- (c) any electrical equipment;
+- (d) any electrical system;
+- (e) any electrical process;
+- (f) any activity,
+
+or any class of the above, from any requirement or prohibition imposed by these Regulations and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by a certificate in writing at any time.
+
+(2) The Executive shall not grant any such exemption unless, having regard to the circumstances of the case, and in particular to–
+
+- (a) the conditions, if any, which it proposes to attach to the exemption; and
+- (b) any other requirements imposed by or under any enactment which apply to the case,
+
+it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
+
+### 31. Application[^key-abb45232cd2e4be1eb47886097c25623][^key-61f89d46796c177c0aa5adf509a34130]
+
+These Regulations shall apply—
+
+- (a) in Great Britain; and
+- (b) outside Great Britain as sections 1 to 59 and 80 to 82 of the Health and Safety at Work etc. Act 1974 apply by virtue of the provisions of the Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 1995.
+
+### 32. Disapplication of duties[^key-9699deb43fa78c7001307fb856e36082]
+
+The duties imposed by these Regulations shall not extend to–
+
+- (a) the master or crew of a sea-going ship or to the employer of such persons, in relation to the normal ship-board activities of a ship’s crew under the direction of the master; or
+- (b) any person, in relation to any aircraft or hovercraft which is moving under its own power.
+
+### 33. Revocations and modifications[^key-83f96bb44446e25ba307eba3f689ae03]
+
+(1) The instruments specified in column 1 of Part I of Schedule 2 are revoked to the extent specified in the corresponding entry in column 3 of that Part.
+
+(2) The enactments and instruments specified in Part II of Schedule 2 shall be modified to the extent specified in that Part.
+
+(3) In the Mines and Quarries Act 1954, the Mines and Quarries (Tips) Act 1969[^f00009] and the Mines Management Act 1971[^f00010], and in regulations made under any of those Acts, or in health and safety regulations, any reference to any of those Acts shall be treated as including a reference to these Regulations.
+
+Signed by order of the Secretary of State.
+
+Patrick Nicholls
+
+Parliamentary Under Secretary of State,
+
+Department of Employment
+
+7th April 1989
+
+## SCHEDULE 1 — PROVISIONS APPLYING TO MINES ONLY AND HAVING EFFECT IN PARTICULAR IN RELATION TO THE USE BELOW GROUND IN COAL MINES OF FILM LIGHTING CIRCUITS[^key-fd9ca8d93e27027a5d014e34a791cb14]
+
+**No longer in force.**
+
+Regulation 17
+
+**1.**[^key-fd9ca8d93e27027a5d014e34a791cb14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-fd9ca8d93e27027a5d014e34a791cb14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-fd9ca8d93e27027a5d014e34a791cb14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-fd9ca8d93e27027a5d014e34a791cb14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-fd9ca8d93e27027a5d014e34a791cb14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — REVOCATIONS AND MODIFICATIONS
+
+Regulation 33
+
+### PART I — revocations[^key-9bebe3a1c1713704e483bbe85141200e]
+
+<table>
+<thead>
+<tr><th><em>Column 1</em></th><th><em>Column 2</em></th><th><em>Column 3</em></th></tr>
+<tr><th><em>Regulations and orders revoked</em></th><th><em>Reference</em></th><th><em>Extent of revocation</em></th></tr>
+</thead>
+<tbody>
+<tr><td>The Electricity Regulations 1908</td><td>S.R. &amp; O. 1908/1312</td><td>The whole Regulations</td></tr>
+<tr><td>The Manufacture of Cinematograph Film Regulations 1928</td><td>S.R. &amp; O. 1928/82</td><td>Regulation 12</td></tr>
+<tr><td>The Cinematograph Film Stripping Regulations 1939</td><td>S.R. &amp; O. <a href="https://www.legislation.gov.uk/nisr/1939/571">1939/571</a></td><td>Regulation 14</td></tr>
+<tr><td>The Electricity (Factories Act) Special Regulations 1944</td><td>S.R. &amp; O. <a href="https://www.legislation.gov.uk/uksro/1944/739">1944/739</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Factories (Testing of Aircraft Engines and Accessories) Special Regulations 1952</td><td><a href="https://www.legislation.gov.uk/uksi/1952/1689">S.I. 1952/1689</a></td><td>In regulation 2(2), the definitions of “Earthed”, “Flameproof” and “Intrinsically safe”; regulations 14, 15, 16, 17 and 18</td></tr>
+<tr><td>The Coal and Other Mines (General Duties and Conduct) Regulations 1956</td><td><a href="https://www.legislation.gov.uk/uksi/1956/1761">S.I. 1956/1761</a></td><td>Regulation 6(2)</td></tr>
+<tr><td>The Coal and Other Mines (Safety-Lamps and Lighting) Regulations 1956</td><td><a href="https://www.legislation.gov.uk/uksi/1956/1765">S.I. 1956/1765</a></td><td>Regulations 4, 18, 18A and 19</td></tr>
+<tr><td>The Coal and Other Mines (Electricity) Order 1956</td><td><a href="https://www.legislation.gov.uk/uksi/1956/1766">S.I. 1956/1766</a></td><td>The whole Order</td></tr>
+<tr><td>The Miscellaneous Mines (Electricity) Order 1956</td><td><a href="https://www.legislation.gov.uk/uksi/1956/1779">S.I. 1956/1779</a></td><td>The whole Order</td></tr>
+<tr><td>The Quarries (Electricity) Order 1956</td><td><a href="https://www.legislation.gov.uk/uksi/1956/1781">S.I. 1956/1781</a></td><td>The whole Order</td></tr>
+<tr><td>The Dragonby Ironstone Mine (Diesel, Diesel-Electric and Storage Battery Vehicles) Special Regulations 1958</td><td><a href="https://www.legislation.gov.uk/uksi/1958/320">S.I. 1958/320</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Winn’s Ironstone Mine (Diesel, Diesel-Electric and Storage Battery Vehicles) Special Regulations 1958</td><td><a href="https://www.legislation.gov.uk/uksi/1958/321">S.I. 1958/321</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Silverwood Mine (Electric Trolley Locomotives) Special Regulations 1958</td><td><a href="https://www.legislation.gov.uk/uksi/1958/1276">S.I. 1958/1276</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Gasswater A Mine (Storage Battery Locomotives) Special Regulations 1959</td><td><a href="https://www.legislation.gov.uk/uksi/1959/37">S.I. 1959/37</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Gasswater B Mine (Storage Battery Locomotives) Special Regulations 1959</td><td><a href="https://www.legislation.gov.uk/uksi/1959/38">S.I. 1959/38</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Glass Houghton Mine (Shuttle Cars) Special Regulations 1959</td><td><a href="https://www.legislation.gov.uk/uksi/1959/663">S.I. 1959/663</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Heights Mine (Storage Battery Locomotives) Special Regulations 1960</td><td><a href="https://www.legislation.gov.uk/uksi/1960/223">S.I. 1960/223</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Coal Mines (Firedamp Drainage) Regulations 1960</td><td><a href="https://www.legislation.gov.uk/uksi/1960/1015">S.I. 1960/1015</a></td><td>Regulation 12(1)(b)</td></tr>
+<tr><td>The Construction (General Provisions) Regulations 1961</td><td><a href="https://www.legislation.gov.uk/uksi/1961/1580">S.I. 1961/1580</a></td><td>Regulation 44</td></tr>
+<tr><td>The Hopton Mine (Locomotives and Diesel Vehicles) Special Regulations 1961</td><td><a href="https://www.legislation.gov.uk/uksi/1961/1583">S.I. 1961/1583</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Cocklakes Mine (Locomotives and Diesel Vehicles) Special Regulations 1961</td><td><a href="https://www.legislation.gov.uk/uksi/1961/1769">S.I. 1961/1769</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Long Meg Mine (Locomotives and Diesel Vehicles) Special Regulations 1961</td><td><a href="https://www.legislation.gov.uk/uksi/1961/1774">S.I. 1961/1774</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Sandwith Anhydrite Mine (Lighting) Special Regulations 1962</td><td><a href="https://www.legislation.gov.uk/uksi/1962/192">S.I. 1962/192</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Thistleton Mine Special Regulations 1962</td><td><a href="https://www.legislation.gov.uk/uksi/1962/364">S.I. 1962/364</a></td><td>Regulations 4, 22 to 42, and 53 to 80</td></tr>
+<tr><td>The Force Crag Mine (Storage Battery Locomotives) Special Regulations 1962</td><td><a href="https://www.legislation.gov.uk/uksi/1962/1501">S.I. 1962/1501</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Potts Ghyll Mine (Storage Battery Locomotives) Special Regulations 1963</td><td><a href="https://www.legislation.gov.uk/uksi/1963/270">S.I. 1963/270</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Chislet Mine (Electric Trolley Locomotives) Special Regulations 1963</td><td><a href="https://www.legislation.gov.uk/uksi/1963/896">S.I. 1963/896</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Llanharry Mine (Storage Battery Locomotives) Special Regulations 1963</td><td><a href="https://www.legislation.gov.uk/uksi/1963/906">S.I. 1963/906</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Easton Mine (Diesel, Diesel-Electric and Storage Battery Vehicles) Special Regulations 1963</td><td><a href="https://www.legislation.gov.uk/uksi/1963/1074">S.I. 1963/1074</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Guildie Howes Mine (Locomotives and Diesel Vehicles) Special Regulations 1965</td><td><a href="https://www.legislation.gov.uk/uksi/1965/33">S.I. 1965/33</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Muirshiel Barytes Mine (Storage Battery Locomotives) Special Regulations 1965</td><td><a href="https://www.legislation.gov.uk/uksi/1965/120">S.I. 1965/120</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Dragonby Ironstone Mine (Diesel, Diesel-Electric and Storage Battery Vehicles) (Amendment) Special Regulations 1965</td><td><a href="https://www.legislation.gov.uk/uksi/1965/1299">S.I. 1965/1299</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Coal and Other Mines (Mechanics and Electricians) Regulations 1965</td><td><a href="https://www.legislation.gov.uk/uksi/1965/1559">S.I. 1965/1559</a></td><td>Regulation 11(3)</td></tr>
+<tr><td>The Redburn Mine (Storage Battery Locomotives) Special Regulations 1965</td><td><a href="https://www.legislation.gov.uk/uksi/1965/1698">S.I. 1965/1698</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Settlingstones Mine (Storage Battery Locomotives) Special Regulations 1966</td><td><a href="https://www.legislation.gov.uk/uksi/1966/351">S.I. 1966/351</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Coal and Other Mines (Electricity) (Amendment) Regulations 1967</td><td><a href="https://www.legislation.gov.uk/uksi/1967/1083">S.I. 1967/1083</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Aberllefeni Mine (Storage Battery Locomotives) Special Regulations 1967</td><td><a href="https://www.legislation.gov.uk/uksi/1967/1395">S.I. 1967/1395</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Braich Goch Mine (Storage Battery Locomotives) Special Regulations 1967</td><td><a href="https://www.legislation.gov.uk/uksi/1967/1396">S.I. 1967/1396</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Preston Manor Mine (Lighting) Special Regulations 1968</td><td><a href="https://www.legislation.gov.uk/uksi/1968/38">S.I. 1968/38</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Chudleigh Knighton Tunnel Mine (Lighting) Special Regulations 1968</td><td><a href="https://www.legislation.gov.uk/uksi/1968/39">S.I. 1968/39</a></td><td>The whole Regulations</td></tr>
+<tr><td>The West Golds Mine (Lighting) Special Regulations 1968</td><td><a href="https://www.legislation.gov.uk/uksi/1968/40">S.I. 1968/40</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Broadway New Pit Tunnel Mine (Lighting) Special Regulations 1968</td><td><a href="https://www.legislation.gov.uk/uksi/1968/103">S.I. 1968/103</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Mainbow Mine (Lighting) Special Regulations 1968</td><td><a href="https://www.legislation.gov.uk/uksi/1968/104">S.I. 1968/104</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Nangiles and the Janes Mine (Storage Battery Locomotives) Special Regulations 1968</td><td><a href="https://www.legislation.gov.uk/uksi/1968/868">S.I. 1968/868</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Camborne Mine (Storage Battery Locomotives) Special Regulations 1969</td><td><a href="https://www.legislation.gov.uk/uksi/1969/570">S.I. 1969/570</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Cotgrave Mine (Suspended Monorail Diesel Locomotives) Special Regulations 1969</td><td><a href="https://www.legislation.gov.uk/uksi/1969/744">S.I. 1969/744</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Levant Mine (Storage Battery Locomotives) Special Regulations 1969</td><td><a href="https://www.legislation.gov.uk/uksi/1969/1236">S.I. 1969/1236</a></td><td>The whole Regulations</td></tr>
+<tr><td>The No. 4 Adit Mine (Lighting) Special Regulations 1970</td><td><a href="https://www.legislation.gov.uk/uksi/1970/1103">S.I. 1970/1103</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Rixey Park Mine (Lighting) Special Regulations 1970</td><td><a href="https://www.legislation.gov.uk/uksi/1970/1547">S.I. 1970/1547</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Horden Mine (Cable Reel Shuttle Cars) Special Regulations 1971</td><td><a href="https://www.legislation.gov.uk/uksi/1971/18">S.I. 1971/18</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Mount Wellington Mine (Storage Battery Locomotives) Special Regulations 1971</td><td><a href="https://www.legislation.gov.uk/uksi/1971/1270">S.I. 1971/1270</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Cornish Hush Mine (Storage Battery Locomotives) Special Regulations 1972</td><td><a href="https://www.legislation.gov.uk/uksi/1972/348">S.I. 1972/348</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Beckermet Mine (Storage Battery Locomotives) Special Regulations 1972</td><td><a href="https://www.legislation.gov.uk/uksi/1972/396">S.I. 1972/396</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Burtree Pasture Mine (Storage Battery Locomotives) Special Regulations 1972</td><td><a href="https://www.legislation.gov.uk/uksi/1972/483">S.I. 1972/483</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Haile Moor Mine (Storage Battery Locomotives) Special Regulations 1972</td><td><a href="https://www.legislation.gov.uk/uksi/1972/1235">S.I. 1972/1235</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Carrock Fell Mine (Storage Battery Locomotives) Special Regulations 1972</td><td><a href="https://www.legislation.gov.uk/uksi/1972/1236">S.I. 1972/1236</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Prince of Wales Mine (Storage Battery Locomotives) Special Regulations 1972</td><td><a href="https://www.legislation.gov.uk/uksi/1972/1393">S.I. 1972/1393</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Rixey Park Mine (Storage Battery Locomotives) Special Regulations 1973</td><td><a href="https://www.legislation.gov.uk/uksi/1973/1208">S.I. 1973/1208</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Beaumont Mine (Storage Battery Locomotives) Special Regulations 1974</td><td><a href="https://www.legislation.gov.uk/uksi/1974/1654">S.I. 1974/1654</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Coal and Other Mines (Electricity) (Second Amendment) Regulations 1974</td><td><a href="https://www.legislation.gov.uk/uksi/1974/1853">S.I. 1974/1853</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Ledston Luck Mine (Cable Reel Shuttle Cars) Special Regulations 1974</td><td><a href="https://www.legislation.gov.uk/uksi/1974/1929">S.I. 1974/1929</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Factories Act 1961 etc. (Repeals and Modifications) Regulations 1974</td><td><a href="https://www.legislation.gov.uk/uksi/1974/1941">S.I. 1974/1941</a></td><td>Regulation 3(2)(a)</td></tr>
+<tr><td>The Hendre Mine (Storage Battery Locomotives) Special Regulations 1974</td><td><a href="https://www.legislation.gov.uk/uksi/1974/1985">S.I. 1974/1985</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Mines and Quarries Acts 1954 to 1971 (Repeals and Modifications) Regulations 1975</td><td><a href="https://www.legislation.gov.uk/uksi/1975/1102">S.I. 1975/1102</a></td><td>The entry in Schedule 2 relating to the Coal and Other Mines (Electricity) Regulations 1956</td></tr>
+<tr><td>The South Leicester Mine (Electric Lighting) Regulations 1976</td><td><a href="https://www.legislation.gov.uk/uksi/1976/696">S.I. 1976/696</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Coal and Other Mines (Electricity) (Third Amendment) Regulations 1977</td><td><a href="https://www.legislation.gov.uk/uksi/1977/1205">S.I. 1977/1205</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Bolsover Mine (Cable Reel Shuttle Cars) Regulations 1977</td><td><a href="https://www.legislation.gov.uk/uksi/1977/2035">S.I. 1977/2035</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Ackton Hall Mine (Cable Reel Load-Haul-Dump Vehicles) Regulations 1978</td><td><a href="https://www.legislation.gov.uk/uksi/1978/1539">S.I. 1978/1539</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Coal and Other Mines (Metrication) Regulations 1978</td><td><a href="https://www.legislation.gov.uk/uksi/1978/1648">S.I. 1978/1648</a></td><td>The entries in the Schedule relating to–<br>(a) regulation 18 of the Coal and Other Mines (Safety-Lamps and Lighting) Regulations 1956; and<br>(b) the Coal and Other Mines (Electricity) Regulations 1956</td></tr>
+<tr><td>The Coal and Other Mines (Electric Lighting for Filming) Regulations 1979</td><td><a href="https://www.legislation.gov.uk/uksi/1979/1203">S.I. 1979/1203</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Scraithole Mine (Storage Battery Locomotives) Regulations 1979</td><td><a href="https://www.legislation.gov.uk/uksi/1979/1658">S.I. 1979/1658</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Lynemouth Mine (Electric Lighting) Regulations 1980</td><td><a href="https://www.legislation.gov.uk/uksi/1980/1395">S.I. 1980/1395</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Manton Mine (Electric Lighting) Regulations 1980</td><td><a href="https://www.legislation.gov.uk/uksi/1980/1396">S.I. 1980/1396</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Vane Tempest Mine (Electric Lighting) Regulations 1980</td><td><a href="https://www.legislation.gov.uk/uksi/1980/1397">S.I. 1980/1397</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Yew Tree Mine (Storage Battery Locomotives) Regulations 1980</td><td><a href="https://www.legislation.gov.uk/uksi/1980/1405">S.I. 1980/1405</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Coal and Other Mines (Safety-Lamps and Lighting) (Amendment) Regulations 1983</td><td><a href="https://www.legislation.gov.uk/uksi/1983/710">S.I. 1983/710</a></td><td>The whole Regulations</td></tr>
+<tr><td>The Miscellaneous Mines (Metrication) Regulations 1983</td><td><a href="https://www.legislation.gov.uk/uksi/1983/994">S.I. 1983/994</a></td><td>In regulation 1(2), the reference to the Miscellaneous Mines (Electricity) Regulations 1956; and in the Schedule the entries relating to those 1956 Regulations</td></tr>
+<tr><td>The Quarries (Metrication) Regulations 1983</td><td><a href="https://www.legislation.gov.uk/uksi/1983/1026">S.I. 1983/1026</a></td><td>In regulation 1(2), the reference to the Quarries (Electricity) Regulations 1956; and in the Schedule the entries relating to those 1956 Regulations</td></tr>
+<tr><td>The Mines (Miscellaneous Amendments) Regulations 1983</td><td><a href="https://www.legislation.gov.uk/uksi/1983/1130">S.I. 1983/1130</a></td><td>The whole Regulations</td></tr>
+</tbody>
+</table>
+
+### PART II — modifications
+
+**1.**[^key-cb925a4dfaf33a61cc16f096e8ca2e44] The Mines and Quarries Act 1954 shall be modified as follows–
+
+- (a) in section 64(2) (which relates to safety-lamps) after the word “one” insert “conforming with the provisions of regulation 19(2)(a) to (d) of the Electricity at Work Regulations 1989 or”;
+- (b) in section 182(1) (which defines “permitted lights”) the words “or health and safety regulations” shall be substituted for the words “or Regulations 18 and 18A of the Coal and Other Mines (Safety-Lamps and Lighting) Regulations 1956 as substituted and inserted respectively by the Coal and Other Mines (Safety-Lamps and Lighting) (Amendment) Regulations 1983”.
+
+**2.**[^key-478ced5c53d3d8a2a01a8c11a2be92fa] Regulation 4 of the Coal and Other Mines (Fire and Rescue) Regulations 1956[^f00011] (which relates to the provision of dust or sand in relation to electric motors) shall be modified by substituting the words “which is not electrical apparatus that is designed to be moved while working” for the words “which is not portable apparatus for the purposes of the Coal and Other Mines (Electricity) Regulations 1956”.
+
+**3.**[^key-d3987cf8e7b3ffdd8c85adfe733bb88f] The Shipbuilding and Ship-repairing Regulations 1960[^f00012] shall be modified as follows–
+
+- (a) in regulation 51(3)(c) (which requires the provision of lamps and torches in confined spaces in vessels) the words “of an appropriate type” shall be substituted for the words “of a safety type approved for the purpose of this Regulation”;
+- (b) in paragraphs (1) and (3) of regulation 59 (which impose restrictions with respect to the application etc. of naked lights, fires, lamps and heated rivets in oil-carrying vessels), the words “a lamp of an appropriate type” shall be substituted for the words “a safety lamp of a type approved for the purpose of this Regulation” where they respectively appear.
+
+**4.**[^key-942c0e2584945a82c4c293eec3325080] Section 1(4) of the Mines Management Act 1971 (which relates to exceptions from statutory responsibilities that may be placed on managers' assistants) shall be modified by the substitution of the following paragraphs for paragraph (d)–
+
+> - (d) responsibility for making rules under regulation 19(2)(g) of the Electricity at Work Regulations 1989; and
+> - (e) such other responsibilities as may be prescribed.
+
+.
+
+(This note is not part of the Regulations)
+
+These Regulations impose health and safety requirements with respect to electricity at work.
+
+The Regulations impose duties upon employers, self-employed persons, managers of mines and quarries and employees (*regulation 3*). The duties imposed by the Regulations do not, however, extend to the master or crew of a sea-going ship or to their employer in relation to the normal ship-board activities of a ship’s crew under the direction of the master (*regulation 32(a)*); nor do those duties extend to any person in relation to any aircraft or hovercraft which is moving under its own power (*regulation 32(b)*).
+
+The Regulations–
+
+- (a) impose requirements with regard to the construction and maintenance of electrical systems (*regulation 4(1)* and*(2)*);
+- (b) impose requirements with regard to the carrying out of work activities (including the operation, use and maintenance of electrical systems and work near electrical systems) (*regulation 4(3)*);
+- (c) impose requirements with regard to the provision of protective equipment (*regulation 4(4)*);
+- (d) impose requirements with regard to the putting into use of electrical equipment (*regulation 5*);
+- (e) impose requirements with regard to the construction and protection of electrical equipment which may reasonably foreseeably be exposed to adverse or hazardous environments (*regulation 6*);
+- (f) impose requirements with regard to the insulation and protection of, and the taking of precautions in respect of, conductors (*regulation 7*);
+- (g) impose requirements with regard to the taking of precautions to prevent danger in respect of certain conductors (*regulation 8*);
+- (h) impose restrictions with regard to the placing of any thing which might give rise to danger in any circuit conductor which is connected to earth or to any other reference point (*regulation 9*);
+- (i) impose requirements with regard to the mechanical and electrical suitability for use of joints and connections in electrical systems (*regulation 10*);
+- (j) impose requirements with regard to the protection from excess currents of electrical systems (*regulation 11*);
+- (k) impose requirements with regard to the availability of suitable means for cutting off the supply of electrical energy to, and the isolation of, electrical equipment which is not itself a source of electrical energy (*regulation 12(1)*) and (where necessary) the taking of such other precautions as will, so far as reasonably practicable, prevent danger in respect of electrical equipment which is itself a source of electrical energy (*regulation 12(3)*);
+- (l) impose requirements with regard to the taking of such precautions in respect of electrical equipment which has been made dead in order to prevent danger while work is carried on or near it as will prevent that equipment from becoming electrically charged (*regulation 13*);
+- (m) impose restrictions on persons being engaged in work activities on or near certain live conductors (*regulation 14*);
+- (n) impose requirements with regard to the provision of adequate working space, adequate lighting and adequate means of access at specified electrical equipment (*regulation 15*);
+- (o) impose restrictions with regard to who may be engaged in work activities where technical knowledge or experience is necessary to prevent danger or injury (*regulation 16*);
+- (p) impose requirements with regard to the use of film lighting circuits below ground in coal mines (*regulation 17(1)* and*Schedule 1*);
+- (q) impose conditions with regard to the introduction of specified electrical equipment into underground parts of specified safety-lamp mines (*regulation 18*);
+- (r) impose requirements with regard to the preparation of plans identifying zones underground in safety-lamp mines where firedamp is likely to occur in quantities sufficient to indicate danger (*regulation 19(1)*) and specify that only certain electrical equipment may be energised in those zones and deem any lights which may be energised in such zones to be “permitted lights” as defined by section 182(1) of the Mines and Quarries Act 1954 (*regulation 19(2)*). Among the electrical equipment which may be energised in such zones is that which has been certified in accordance with Council Directive [82/130/EEC](https://www.legislation.gov.uk/european/directive/1982/0130) (OJ No. L59, 2.3.82, p.10) (which relates to the approximation of the laws of the Member States concerning electrical equipment for use in potentially explosive atmospheres in mines susceptible to firedamp), as adapted to technical progress by Commission Directive [88/35/EEC](https://www.legislation.gov.uk/european/directive/1988/0035) (OJ No. L64, 10.3.88, p.36);
+- (s) impose requirements with regard to cutting off the supply of electricity to electrical equipment (or making it safe) when firedamp is found in concentrations exceeding 1.25% by volume in the general body of the air either below ground at, or at specified places on the surface of, mines (*regulation 20*);
+- (t) impose restrictions with regard to the taking or use below ground at safety-lamp mines of electric safety-lamps, gas detectors, telephone and signalling equipment and other equipment associated therewith or required for the safety of persons (*regulation 21*);
+- (u) impose requirements with regard to the provision and operation of switchgear in respect of electrical equipment which may give rise to danger and which is installed below ground at a mine, but which is supplied from a power source at the surface (*regulation 22*);
+- (v) impose a prohibition on the introduction below ground at mines of electrical equipment using oil as a means of cooling, insulation or arc suppression (*regulation 23*);
+- (w) impose requirements with regard to the preparation, keeping and display of schematic diagrams and plans of electrical distribution systems and permanently installed electrical equipment at mines (*regulation 24*);
+- (x) (in circumstances where, at any place at a mine, electric arc welding is taking place or electrical energy is being generated, transformed or used at a nominal voltage in excess of 125 volts a.c. or 250 volts d.c.) impose requirements with regard to the display of notices giving information on the appropriate first-aid treatment for electric shock and details of what emergency action should be taken in the event of electric shock (*regulation 25*);
+- (y) impose restrictions with regard to the introduction below ground at safety-lamp mines of locomotives and vehicles which use electrical storage batteries, either partly or wholly, as a power source (*regulation 26*);
+- (z) impose requirements with regard to the use below ground at mines of electrical storage batteries (*regulation 27*).
+
+The Regulations disapply section 157 of the Mines and Quarries Act 1954 (defence in certain legal proceedings) in relation to any legal proceedings or prosecutions arising out of regulations 18 to 27 and Schedule 1 (*regulation 28*) and provide a defence in the case of a contravention of certain of the Regulations (*regulation 29*). The Regulations provide for the issue of certificates of exemption by the Health and Safety Executive (*regulation 30*). The Regulations also provide that they shall apply outside Great Britain to the extent specified in regulation 31.
+
+The Regulations revoke the instruments specified in Part I of Schedule 2 (*regulation 33(1)*), modify the enactments and instruments specified in Part II of Schedule 2 (*regulation 33(2)*) and provide that any reference to the Mines and Quarries Act 1954, the Mines and Quarries (Tips) Act 1969 or the Mines Management Act 1971 in any of those Acts, in regulations made under any of those Acts, or in health and safety regulations, shall be treated as including a reference to these Regulations (*regulation 33(3)*).
+
+## Annotations
+
+[^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); sections 15 and 50 were amended by the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), Schedule 15, paragraphs 6 and 16 respectively.
+
+[^key-171d6086332dde4fcaa5e96b393fbfe5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-f1ecb143f6eadc984b83011830c8ab92]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1989/635/regulation/2) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-a9c4545559cf957e63dac011f90f8ec7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1989/635/regulation/2/1) revoked (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2014/3248/schedule/4/part/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+
+[^key-9d22c90dd5c4a57e3b12378f78009067]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1989/635/regulation/3) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-4897830ff935e607918a4fb0dff9168b]: Textual amendment: Reg. 3(1)(b) substituted (1.1.2000) by [The Quarries Regulations 1999 (S.I. 1999/2024)](https://www.legislation.gov.uk/uksi/1999/2024), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II)
+
+[^key-536a584698218719c1b45afedac79995]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1989/635/regulation/4) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-02cf56bc9276e6a37d6be72e5a257553]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1989/635/regulation/5) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-9cb0e371adbdf182deeb4a791e122347]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1989/635/regulation/6) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-804a9aab700b149d2d87fcd8b90cccf2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1989/635/regulation/7) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-51d67b18454e9c6bc847a9e4221dbbbe]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1989/635/regulation/8) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-390176b84bd6bce0423cfebb863cf8b6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1989/635/regulation/9) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-3c701245514146793ca47e19a10fa436]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1989/635/regulation/10) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-46e08e39427c084e96e6ca878c622326]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1989/635/regulation/11) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-b026c90b2901fe609236f8d5812de590]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1989/635/regulation/12) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-f8a02209d2f714771787a94a52d09b8e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1989/635/regulation/13) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-4b8ba38a4f1dd49c910e97139e2cfd0e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1989/635/regulation/14) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-448ef036b15bd401675da0d88336496a]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1989/635/regulation/15) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-ab25758f17d426974e8bd8d611c4bf7a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1989/635/regulation/16) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-8457e0e1611a8ca8ac0cb917c95f618d]: Textual amendment: [Regs. 17-28](https://www.legislation.gov.uk/uksi/1989/635/regulation/17) revoked (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2014/3248/schedule/4/part/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+
+[^key-f080e5f72b9a6fc89c4e27888a8507db]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1989/635/regulation/29) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-faa655c415d59f2b5eec60134517e5c9]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1989/635/regulation/30) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-abb45232cd2e4be1eb47886097c25623]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1989/635/regulation/31) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-61f89d46796c177c0aa5adf509a34130]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/1989/635/regulation/31) substituted (21.2.1998) by [The Offshore Electricity and Noise Regulations 1997 (S.I. 1997/1993)](https://www.legislation.gov.uk/uksi/1997/1993), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1993/regulation/1), [2](https://www.legislation.gov.uk/uksi/1997/1993/regulation/2)
+
+[^key-9699deb43fa78c7001307fb856e36082]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1989/635/regulation/32) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-83f96bb44446e25ba307eba3f689ae03]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1989/635/regulation/33) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^f00009]: Footnote: [1969 c. 10](https://www.legislation.gov.uk/ukpga/1969/10).
+
+[^f00010]: Footnote: [1971 c. 20](https://www.legislation.gov.uk/ukpga/1971/20).
+
+[^key-fd9ca8d93e27027a5d014e34a791cb14]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1989/635/schedule/1) revoked (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2014/3248/schedule/4/part/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+
+[^key-9bebe3a1c1713704e483bbe85141200e]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/1989/635/schedule/2/part/1) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-cb925a4dfaf33a61cc16f096e8ca2e44]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1989/635/schedule/2/paragraph/1) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^key-478ced5c53d3d8a2a01a8c11a2be92fa]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1989/635/schedule/2/paragraph/2) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^f00011]: Footnote: [S.I. 1956/1768](https://www.legislation.gov.uk/uksi/1956/1768), to which there are amendments not relevant to these Regulations.
+
+[^key-d3987cf8e7b3ffdd8c85adfe733bb88f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1989/635/schedule/2/paragraph/3) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+
+[^f00012]: Footnote: [S.I. 1960/1932](https://www.legislation.gov.uk/uksi/1960/1932); the relevant amending instrument is [S.I. 1983/644](https://www.legislation.gov.uk/uksi/1983/644).
+
+[^key-942c0e2584945a82c4c293eec3325080]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1989/635/schedule/2/paragraph/4) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)

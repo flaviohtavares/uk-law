@@ -1,0 +1,160 @@
+---
+title: The Medicines Act 1968 (Amendment) Regulations 1992
+id: uksi/1992/604
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1992-03-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1992/604
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/604/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Medicines Act 1968 (Amendment) Regulations 1992
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1992 No. 604
+
+MEDICINES
+
+The Medicines Act 1968 (Amendment) Regulations 1992
+
+Made
+
+9th March 1992
+
+Laid before Parliament
+
+10th March 1992
+
+Coming into force
+
+3rd April 1992
+
+The Secretary of State and the Minister of Agriculture, Fisheries and Food, acting jointly in exercise of the powers conferred on them by the said section 2(2) of the European Communities Act 1972[^f00001], being designated for the purposes of that section in relation to medicinal products[^f00002], hereby make the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations, which may be cited as the Medicines Act 1968 (Amendment) Regulations 1992, shall come into force on 3rd April 1992.
+
+(2) In these Regulations “the Act” means the Medicines Act 1968[^f00003] and expressions to which a meaning is assigned by the Act have, unless the context requires otherwise, the meaning so assigned.
+
+## 2. Amendment of section 7 of the Act
+
+(1) Section 7[^f00004] of the Act (general provisions as to dealing with medicinal products) shall be amended as follows.
+
+(2) In subsection (5)(b) (under which a person responsible for the placing of certain kinds of medicinal product on the market in the United Kingdom is required to have a product licence) for “or ready-made veterinary drug” there shall be substituted “, a ready-made veterinary drug or an industrially produced medicinal product other than a veterinary drug”.
+
+(3) After subsection (6) there shall be inserted—
+
+> (6A) Where the product which a person is responsible for placing on the market in the United Kingdom is not a veterinary drug, subsection (5)(b) of this section shall not apply if the product is—
+>
+> - (a) whole human blood, human blood plasma or blood cells of human origin,
+> - (b) a radiopharmaceutical in which the radionuclide is in the form of a sealed source, or
+> - (c) a homoeopathic medicinal product.
+>
+> (6B) Where the product which a person is responsible for placing on the market in the United Kingdom is a veterinary drug, subsection (5)(b) of this section shall not apply if the product is—
+>
+> - (a) a vaccine, toxin or serum,
+> - (b) a product based on radioactive isotopes,
+> - (c) a product specially prepared for administration by a veterinary surgeon or veterinary practitioner to a particular animal or herd which is under his care,
+> - (d) a homoeopathic medicinal product, or
+> - (e) an additive for animal feeding stuffs to which the provisions of Council Directive [70/524/EEC](https://www.legislation.gov.uk/european/directive/1970/0524)[^f00005] apply.
+
+.
+
+(4) In subsection (7) (definitions) for the words from the beginning to “(b)” there shall be substituted—
+
+> - In this section—
+> - “proprietary medicinal product” means a ready-prepared medicinal product placed on the market in the United Kingdom under a special name and in a special pack;
+> - “radiopharmaceutical” means a medicinal product which, when ready for use, contains one or more radionuclides included for a medicinal purpose; and
+
+.
+
+(5) In that subsection, in the definition of “ready-made veterinary drug”, the words from “and for the purposes of this definition” to the end are hereby repealed.
+
+## 3. Amendment of section 8 of the Act
+
+(1) Section 8 of the Act[^f00006](which contains provisions as to manufacture and wholesale dealing) shall be amended as follows.
+
+(2) In subsection (3)(b) (under which a person who distributes certain medicinal products otherwise than by way of sale is required to have a wholesale dealer’s licence) for “or ready-made veterinary drug” there shall be substituted “, ready-made veterinary drug or industrially produced medicinal product other than a veterinary drug”.
+
+(3) For subsection (4) (which applies definitions contained in section 7(7)) there shall be substituted—
+
+> (4) Where the product which a person distributes is not a veterinary drug, subsection (3)(b) of this section shall not apply if the product is—
+>
+> - (a) whole human blood, human blood plasma or blood cells of human origin,
+> - (b) a radiopharmaceutical in which the radionuclide is in the form of a sealed source, or
+> - (c) a homoeopathic medicinal product.
+>
+> (5) Where the product which a person distributes is a veterinary drug, subsection (3)(b) of this section shall not apply if the product is—
+>
+> - (a) a vaccine, toxin or serum,
+> - (b) a product based on radioactive isotopes,
+> - (c) a product specially prepared for administration by a veterinary surgeon or veterinary practitioner to a particular animal or herd which is under his care,
+> - (d) a homoeopathic medicinal product, or
+> - (e) an additive for animal feeding stuffs to which the provisions of Council Directive [70/524/EEC](https://www.legislation.gov.uk/european/directive/1970/0524) apply.
+>
+> (6) In this section, “proprietary medicinal product”, “radiopharmaceutical” and “ready-made veterinary drug” have the same meanings as in section 7 of this Act.
+
+.
+
+## 4. Transitional provision
+
+The amendments made by these Regulations shall not render unlawful anything done before 31st December 1992 in relation to a medicinal product if—
+
+- (a) medicinal products of that description were sold or supplied, or procured to be sold, supplied, manufactured or assembled, at any time before the date on which these Regulations come into force; and
+- (b) medicinal products of that description were effectively on the market in the United Kingdom immediately before their coming into force.
+
+Signed by authority of the Secretary of State for Health.
+
+Virginia Bottomley
+
+Minister of State,
+
+Department of Health
+
+9th March 1992
+
+In Witness whereof the Official Seal of the Minister of Agriculture, Fisheries and Food is hereunto affixed on 9th March 1992.
+
+John Selwyn Gummer
+
+Minister of Agriculture, Fisheries and Food
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Medicines Act 1968 (“the Act”), thereby implementing, insofar as they require the amendment of the Act, parts of Council Directives—
+
+- 89/341/EEC relating to the approximation of provisions relating to proprietary medicinal products (OJ No. L142 25.5.89, p. 11);
+- 89/342/EEC relating to immunological medicinal products (OJ No. L142, 25.5.1989, p. 14);
+- 89/343/EEC relating to radiopharmaceuticals (OJ No. L142 25.5.1989, p. 16); and 89/381/EEC relating to medicinal products derived from human blood or human plasma (OJ No. L181, 28.6.1989, p. 44);
+
+which each extend the scope of Council Directives [65/65/EEC](https://www.legislation.gov.uk/european/directive/1965/0065) (OJ No. 22, 9.2.1965, p. 369/65) and [75/319/EEC](https://www.legislation.gov.uk/european/directive/1975/0319) (OJ No. L147, 9.6.1975, p. 13) on the approximation of provisions laid down by law, regulation or administrative action relating to proprietary medicinal products, to cover products which had previously been excluded from the scope of the 1965 Directive by Article 34 of Council Directive [75/319/EEC](https://www.legislation.gov.uk/european/directive/1975/0319).
+
+The amendments in regulation 2 make licensable under section 7(5)(b) of the Act (product licences) certain products for human use — immunological products, medicinal products based on human blood or blood constituents, and medicinal products based on radioactive isotopes (other than isotopes which are sealed sources).
+
+Regulation 3 makes consequential amendments to section 8 of the Act and implements, in part, article 3 of 89/341/EEC.
+
+Regulation 4 provides that the Regulations do not render unlawful anything done before 31st December 1992 in relation to products which were sold or supplied or procured to be sold, supplied, manufactured or assembled at any time before, and were on the United Kingdom market immediately before, the Regulations came into force.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00002]: Footnote: S.I. [1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^f00003]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
+
+[^f00004]: Footnote: Section 7 has been amended by S.I. [1977/1050](https://www.legislation.gov.uk/uksi/1977/1050) and S.I. [1983/1724](https://www.legislation.gov.uk/uksi/1983/1724).
+
+[^f00005]: Footnote: OJ No. L270, 14.12.70, p. 1.
+
+[^f00006]: Footnote: Section 8 has been amended by S.I. [1977/1050](https://www.legislation.gov.uk/uksi/1977/1050) and [1983/1724](https://www.legislation.gov.uk/uksi/1983/1724).

@@ -1,0 +1,281 @@
+---
+title: The School Admissions (Appeals Arrangements) (England) Regulations 2012
+id: uksi/2012/9
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-01-03'
+text_date: '2022-07-07'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/9
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/9/pdfs/uksiem_20120009_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/9/pdfs/uksi_20120009_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/9/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The School Admissions (Appeals Arrangements) (England) Regulations 2012
+
+> Text as at 2022-07-07.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 9
+
+Education, England
+
+The School Admissions (Appeals Arrangements) (England) Regulations 2012
+
+Made
+
+3rd January 2012
+
+Laid before Parliament
+
+10th January 2012
+
+Coming into force
+
+1st February 2012
+
+The Secretary of State for Education, after consulting the Administrative Justice and Tribunals Council pursuant to paragraph 24 of Schedule 7 to the Tribunals, Courts and Enforcement Act 2007 [^c21147581], makes the following Regulations in exercise of the powers conferred by sections 94(5), (5A) and (5C), 95(3), (3A) and (3B) and 138(7) of the School Standards and Framework Act 1998 [^c21147591]:
+
+## 1. Citation, commencement and application
+
+(1) These Regulations may be cited as the School Admissions (Appeals Arrangements) (England) Regulations 2012 and come into force on 1st February 2012.
+
+(2) These Regulations apply in relation to maintained schools in England.
+
+## 2. Transitional provision
+
+These Regulations apply to appeals lodged on or after 1st February 2012.
+
+## 3. Interpretation
+
+In these Regulations—
+
+- (a) “**the 1972 Act**” means the Local Government Act 1972 [^c21147601];
+- “the admission authority” has the same meaning as in section 88(1)(a) and (b) of SSFA 1998;[^key-db1c7115112d0b3a0d99f12b91a9a28f]
+- “admission decision” means a decision referred to in section 94(1) to (2A) of SSFA 1998 refusing a child admission to a school or entrance to a sixth form or as to the school at which education is to be provided for a child;
+- “coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-Cov-2);
+- “coronavirus exception” is a condition which applies where, for a reason related to the incidence or transmission of coronavirus—
+  - (a) it is not reasonably practicable for a governing body of a foundation or voluntary aided school or a local authority to comply with the requirements of paragraph 1(1) and (2) of Schedule 1, or paragraph 1.5 and 1.9 of the SAAC (“the constitution reason”), or
+  - (b) it is not reasonably practicable for an admission appeal panel to comply with the requirement in paragraphs 2.12 or 6.4b) of the SAAC for appellants or representatives of local authorities or governing bodies to be allowed to appear in person (“the appeal in person reason”);
+- “remote access” means access to an appeal hearing to enable those who are not all present together at the same place to attend or participate simultaneously in the hearing by electronic means, including by live audio and live video link;
+- “the SAAC” means the School Admission Appeals Code which is the code for school admission appeals issued and published by the Secretary of State in February 2012 under section 84(1) and (4) of SSFA 1998;
+- (b) “**SSFA 1998**” means the School Standards and Framework Act 1998.
+
+## 4. Regulations revoked
+
+Save that they continue to apply in relation to appeals lodged before 1st February 2012, the following Regulations are revoked—
+
+- (a) The Education (Admissions Appeals Arrangements) (England) Regulations 2002 [^c21147611];
+- (b) The Education (Admissions Appeals Arrangements) (England) (Amendment) Regulations 2007 [^c21147621];
+- (c) The Education (Admissions Appeals Arrangements) (England) (Amendment) Regulations 2008 [^c21147631].
+
+## 5. Constitution of appeal panels
+
+An appeal pursuant to arrangements made by a local authority or governing body of a foundation or voluntary aided school under section 94 or a local authority under section 95 of SSFA 1998 is to an appeal panel constituted in accordance with the relevant paragraphs of the Schedule *(affected by repeal, see note)*[^key-7d1b450efc4a6dafe1df0762e0115bf8] Schedule 1 or, where the constitution reason of the coronavirus exception applies, the relevant paragraphs of Schedule 1, subject to paragraph 1 of Schedule 2.
+
+## 6. Payment of allowances
+
+(1) For the purpose of the payment of financial loss allowance under section 173(4) of the 1972 Act [^c21147641], that provision applies to any member of an appeal panel constituted in accordance with the Schedule; and in that section as it so applies the reference to an approved duty is to be read as a reference to attendance at a meeting of an appeal panel or associated training.
+
+(2) Section 174(1) of the 1972 Act [^c21147651] applies in relation to any appeal panel constituted in accordance with the Schedule; and in that section as it so applies the reference to payments at rates determined by the body in question is to be read as a reference to payments at rates determined by the local authority or the governing body or bodies of the school or schools in question.
+
+## 7. Procedure for appeals where coronavirus exception applies[^M_F_52ba5cb2-753e-4721-c2ef-c8f13ef30e62]
+
+Paragraph 2 of Schedule 2 has effect in relation to an appeal pursuant to arrangements made by a local authority or governing body of a foundation or voluntary aided school under section 94 or a local authority under section 95 of SSFA 1998 where the appeal in person reason of the coronavirus exception applies.
+
+## 8. Time limits[^M_F_1a64e5e6-20d4-4aa1-a6cd-b1020e45635b]
+
+(1) Paragraphs 3 and 4 of Schedule 2 have effect for the purposes of determining the timetable in respect of an appeal pursuant to arrangements made by a local authority or governing body of a foundation or voluntary aided school under section 94 of SSFA 1998.
+
+(2) Paragraph 5 of Schedule 2 has effect for the purposes of determining the timetable in relation to an appeal pursuant to arrangements made by a local authority under section 95 of SSFA 1998.
+
+Nick Gibb
+
+Minister of State
+
+Department for Education
+
+## SCHEDULE (affected by repeal, see note) SCHEDULE 1 — Constitution of Appeal Panels[^key-019cb44e42febdbc782805cd7c09acc6]
+
+Regulation 5
+
+**A1.**[^M_F_ab5e9e9f-250b-4c5c-ebc9-d257daf56046] Paragraphs 1(1) and (2) apply subject to paragraph 1 of Schedule 2.
+
+### 1. Arrangements made by a local authority or governing body
+
+(1) Where arrangements are made by a local authority or a governing body of a foundation or voluntary aided school for an appeal under section 94 of SSFA 1998, an appeal panel must consist of a minimum of three members appointed by the relevant local authority or governing body from—
+
+- (a) persons who are eligible to be lay members, and
+- (b) persons who have experience in education, are acquainted with educational conditions in the area of the authority or are parents of registered pupils at a school.
+
+(2) Of the members of an appeal panel—
+
+- (a) at least one must be a person who is eligible to be a lay member and is appointed as such; and
+- (b) at least one must be a person falling with sub-paragraph (1)(b).
+
+(3) For the purposes of this paragraph a person is eligible to be a lay member if that person has no personal experience in the management of any school or the provision of education in any school (disregarding any such experience as a governor or in any other voluntary capacity).
+
+(4) No person may be a member of an appeal panel if that person is disqualified by paragraph 4.
+
+(5) In this paragraph, “**registered pupil**” has the meaning in section 434(5) of the Education Act 1996 [^c21147661].
+
+### 2. Joint arrangements
+
+(1) Arrangements for an appeal under section 94 of SSFA 1998 may be made jointly between—
+
+- (a) a governing body of a foundation or voluntary aided school and one or more governing bodies of other foundation or voluntary aided schools maintained by the same local authority;
+- (b) a local authority and one or more governing bodies of foundation or voluntary aided schools maintained by that authority.
+
+(2) Where joint arrangements are made under sub-paragraph (1)—
+
+- (a) paragraph 1 applies as if any reference to the governing body were a reference to the governing bodies of both or all the schools; and
+- (b) paragraph 4 applies as if any reference to the governing body of the school in question or to that school were a reference to any of those governing bodies or to any of those schools.
+
+### 3. Appeals by a governing body under section 95 of SSFA 1998
+
+(1) Subject to sub-paragraph (2), the provisions of paragraph 1 apply to the arrangements made by a local authority for an appeal by a governing body under section 95 of SSFA 1998 as they do to arrangements for an appeal under section 94.
+
+(2) A person may not be a member of an appeal panel for the consideration of an appeal under section 95(2) if that person has to any extent been involved in any previous consideration of whether the child in question should or should not be reinstated at any school from which that child has at any time been permanently excluded, or in any previous appeal under section 95(2) relating to the child.
+
+### 4. Disqualification from membership of an appeal panel
+
+(1) The following persons are disqualified from membership of an appeal panel—
+
+- (a) any member of the local authority which is making the arrangements or which maintains the school in question;
+- (b) any member or former member of the governing body of the school in question;
+- (c) any person employed by the authority or the governing body of the school in question, other than a person employed as a teacher or as a teaching assistant;
+- (d) any person who has, or at any time has had, any connection with the authority or the school in question, or with any person within sub-paragraph (c), of a kind which might reasonably be taken to raise doubts about that person's ability to act impartially in relation to the authority or the school;
+- (e) any person who has not attended training required by the local authority or governing body arranging the appeal panel.
+
+(2) A person employed as a teacher or as a teaching assistant by the local authority or by the governing body of another school maintained by the authority may not be taken, by reason only of that employment, to have such a connection with the authority as is mentioned in sub-paragraph (1)(d).
+
+(3) A person who is a teacher or a teaching assistant at a school may not be a member of an appeal panel for the consideration of an appeal involving a question whether a child is to be admitted to that school.
+
+(4) A person may not be a member of an appeal panel for the consideration of an appeal against a decision if the person was among those who made the decision or provided information which contributed to the decision.
+
+(5) A teaching assistant is a person who carries out work under paragraph 10 of Schedule 2 to the Education (Specified Work and Registration) (England) Regulations 2003 [^c21147671].
+
+## SCHEDULE 2 — Temporary amendments of Constitution of Appeal Panels and Procedure Rules[^key-ead0048ffd8a706a25495754986ed4d7]
+
+Regulations 5, 7 and 8
+
+### 1. Arrangements made by a local authority or governing body: when coronavirus exception applies[^key-39365c573f16b65ffd0aecfaa78ddad6]
+
+(1) Where one or more members of an appeal panel has to withdraw from membership of the panel, the appeal panel may continue to consider and determine the appeal provided there remains a panel of at least two members, regardless of whether those members meet the requirements of paragraph 1(2) of Schedule 1.
+
+(2) Where sub-paragraph (1) applies, and the member withdrawing is the panel Chair, the admission authority must appoint (or arrange for the clerk to the appeal panel to appoint) one of the remaining members of the panel as the Chair.
+
+### 2. Appeal hearings[^key-39365c573f16b65ffd0aecfaa78ddad6]
+
+(1) An appeal panel may decide to hold an appeal hearing using remote access provided—
+
+- (a) the parties are able to present fully their case;
+- (b) each participant has access to the electronic means to allow them to hear and be heard and (where using a live video link) see and be seen, throughout the appeal hearing; and
+- (c) the panel considers that the appeal is capable of being heard fairly and transparently.
+
+(2) Where any of the conditions prescribed in sub-paragraph (1)(a) to (c) are not met, an appeal panel may make their decision on the appeal based on the written information submitted.
+
+(3) Where sub-paragraph (2) applies, the appeal panel must ensure that the parties are able to present fully their case, in order for the panel to make a decision on the appeal which is fair and transparent.
+
+### 3. Time limits[^key-39365c573f16b65ffd0aecfaa78ddad6]
+
+(1) Where the admission authority or local authority sends an admission decision the deadline for an appeal specified in that admission decision must be—
+
+- (a) at least 28 days from the date of the notification of the admission decision, and
+- (b) expressed by reference to a fixed date or a number of calendar days.
+
+(2) In respect of an admission decision sent after 28th February 2020 which contains a deadline for an appeal that is not in accordance with the requirements of sub-paragraph (1)(a) or (b), the admission authority must review the existing deadline for the appeal and, where the conditions in sub-paragraph (3) are satisfied, set a new deadline for the appeal which must be—
+
+- (a) at least 28 days from the date of the notification of the new deadline, and
+- (b) expressed by reference to a fixed date or a number of calendar days.
+
+(3) The conditions are that—
+
+- (a) no appeal has already been lodged in response to the admission decision,
+- (b) the existing deadline refers to school days, or the admission authority otherwise considers that the existing deadline is unclear in all the circumstances; and
+- (c) the existing deadline has not already expired.
+
+(4) Where a new deadline has been set in accordance with sub-paragraph (2), notification of the new deadline must be sent to the recipient of the original admission decision within 28 days of 24th April 2020 or seven days from the date of an admission decision which does not comply with the requirements of sub-paragraph (1) whichever is later.
+
+(5) The notification of the new deadline must be sent by—
+
+- (a) the admission authority where that admission authority sent the relevant admission decision, or
+- (b) the local authority where that authority sent the relevant admission decision on behalf of another admission authority.
+
+(6) The requirement in sub-paragraph (5)(b) only applies once the local authority has been informed of the new deadline by the relevant admission authority.
+
+**4.** (1) The admission authority must provide appellants with at least 14 days’ written notice of an appeal hearing.
+
+(2) The admission authority may set new or revised reasonable deadlines for—
+
+- (a) an appellant to submit additional evidence;
+- (b) the admission authority to submit their evidence; and
+- (c) the clerk to send relevant appeal papers to the appeal panel and the parties.
+
+(3) An appeal panel must send decision letters on appeals to the parties within 7 days of the hearing, or finalisation of the determination of the appeal, wherever possible.
+
+(4) All appeals which have been lodged, whether in time or not, must be heard and determined by an appeal panel as soon as reasonably practicable.
+
+**5.** (1) Where the governing body of a school receives a written decision to admit to the school a child to whom, at the time when the decision is made section 87(2) of SSFA 1998 applies, any appeal must be made within 21 days from—
+
+- (a) the date of notification of the decision where that date is on or after 24th April 2020; or
+- (b) the 24th April 2020 where—
+  - (i) the decision was notified before 24th April 2020,
+  - (ii) no appeal has been lodged in response to the decision before 24th April 2020, and
+  - (iii) an existing appeal deadline relevant to the decision has not already expired before 24th April 2020.
+
+(2) All appeal hearings to which sub-paragraph (1) applies must be held, and appeals determined, as soon as reasonably practicable.
+
+*(This note is not part of the Regulations)*
+
+These Regulations prescribe matters relating to appeals brought under sections 94 and 95 of the School Standards and Framework Act 1998, as amended by the Education Act 2002, the Education and Inspections Act 2006, and the Education and Skills Act 2008. They prescribe the manner in which an appeal panel is to be constituted (**regulation 5 and the Schedule**) and the payment of allowances to appeal panel members by the body or bodies responsible for making the arrangements in respect of financial loss, and travel and subsistence expenses (**regulation 6**).
+
+These Regulations revoke and replace the Education (Admission Appeals Arrangements) (England) Regulations 2002 and two sets of Regulations that amended them. Those Regulations provided for matters of procedure and decision making in appeals and imposed duties to advertise for lay members and train and indemnify panels. Those provisions are not replicated in these Regulations as such matters are provided for in the School Admission Appeals Code issued by the Secretary of State under section 84 of the School Standards and Framework Act 1998. These Regulations condense provisions of the previous Regulations relating to the composition of appeal panels, and permit panels to consist of any number of members provided there are at least three (**the Schedule**).
+
+## Annotations
+
+[^c21147581]: Marginal citation: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15); admission appeal panels in England became listed tribunals under the Administrative Justice and Tribunals Council (Listed Tribunals) Order 2007 (2007/2951).
+
+[^c21147591]: Marginal citation: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31); [section 94](https://www.legislation.gov.uk/uksi/2012/9/section/94) was amended by the [Education Act 2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32), [section 50](https://www.legislation.gov.uk/ukpga/2002/32/section/50) and Schedule 4, paragraph 8; the [Education and Inspections Act 2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40), [section 43(4)](https://www.legislation.gov.uk/ukpga/2006/40/section/43/4) and (5); and the [Education and Skills Act 2008 (c.18)](https://www.legislation.gov.uk/ukpga/2008/18), [section 152](https://www.legislation.gov.uk/ukpga/2008/18/section/152) and Schedule 1, paragraph 66, and Schedule 2. Section 95 was amended by the [Education Act 2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32), [section 50](https://www.legislation.gov.uk/ukpga/2002/32/section/50) and Schedule 4, paragraph 9; the [Education and Inspections Act 2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40), [section 48(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/48/1); and the [Education and Skills Act 2008 (c.18)](https://www.legislation.gov.uk/ukpga/2008/18), [Schedule 1](https://www.legislation.gov.uk/ukpga/2008/18/schedule/1), [paragraph 67](https://www.legislation.gov.uk/ukpga/2008/18/paragraph/67), and Schedule 2.
+
+[^c21147601]: Marginal citation: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^key-db1c7115112d0b3a0d99f12b91a9a28f]: Textual amendment: Words in reg. 3 inserted (temp.) (24.4.2020) by virtue of [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2020 (S.I. 2020/446)](https://www.legislation.gov.uk/uksi/2020/446), [regs. 1](https://www.legislation.gov.uk/uksi/2020/446/regulation/1), [7](https://www.legislation.gov.uk/uksi/2020/446/regulation/7) (with [regs. 2](https://www.legislation.gov.uk/uksi/2020/446/regulation/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/446/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2020/446/regulation/4), [5](https://www.legislation.gov.uk/uksi/2020/446/regulation/5)) (as amended (31.1.2021) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2021 (S.I. 2021/14)](https://www.legislation.gov.uk/uksi/2021/14), [regs. 1](https://www.legislation.gov.uk/uksi/2021/14/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/14/regulation/2) and (7.7.2022) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2022 (S.I. 2022/662)](https://www.legislation.gov.uk/uksi/2022/662), [regs. 1](https://www.legislation.gov.uk/uksi/2022/662/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/662/regulation/2))
+
+[^c21147611]: Marginal citation: [S.I. 2002/2899](https://www.legislation.gov.uk/uksi/2002/2899) as amended by [S.I. 2007/3026](https://www.legislation.gov.uk/uksi/2007/3026) and S.I..2008/3092.
+
+[^c21147621]: Marginal citation: [S.I. 2007/3026](https://www.legislation.gov.uk/uksi/2007/3026).
+
+[^c21147631]: Marginal citation: [S.I. 2008/3092](https://www.legislation.gov.uk/uksi/2008/3092).
+
+[^key-7d1b450efc4a6dafe1df0762e0115bf8]: Textual amendment: Words in reg. 5 substituted (temp.) (24.4.2020) by virtue of [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2020 (S.I. 2020/446)](https://www.legislation.gov.uk/uksi/2020/446), [regs. 1](https://www.legislation.gov.uk/uksi/2020/446/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/446/regulation/8) (with [regs. 2](https://www.legislation.gov.uk/uksi/2020/446/regulation/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/446/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2020/446/regulation/4), [5](https://www.legislation.gov.uk/uksi/2020/446/regulation/5)) (as amended (31.1.2021) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2021 (S.I. 2021/14)](https://www.legislation.gov.uk/uksi/2021/14), [regs. 1](https://www.legislation.gov.uk/uksi/2021/14/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/14/regulation/2) and (7.7.2022) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2022 (S.I. 2022/662)](https://www.legislation.gov.uk/uksi/2022/662), [regs. 1](https://www.legislation.gov.uk/uksi/2022/662/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/662/regulation/2))
+
+[^c21147641]: Marginal citation: Section 173(4) was amended by the [Local Government and Housing Act 1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42), [section 194](https://www.legislation.gov.uk/ukpga/1989/42/section/194) and Schedule 11, paragraph 26.
+
+[^c21147651]: Marginal citation: Section 174(1) was amended by the [Local Government, Planning and Land Act 1980 (c.65)](https://www.legislation.gov.uk/ukpga/1980/65), [section 25](https://www.legislation.gov.uk/ukpga/1980/65/section/25).
+
+[^M_F_52ba5cb2-753e-4721-c2ef-c8f13ef30e62]: Textual amendment: Regs. 7, 8 inserted (temp.) (24.4.2020) by virtue of [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2020 (S.I. 2020/446)](https://www.legislation.gov.uk/uksi/2020/446), [regs. 1](https://www.legislation.gov.uk/uksi/2020/446/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/446/regulation/9) (with [regs. 2](https://www.legislation.gov.uk/uksi/2020/446/regulation/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/446/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2020/446/regulation/4), [5](https://www.legislation.gov.uk/uksi/2020/446/regulation/5)) (as amended (31.1.2021) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2021 (S.I. 2021/14)](https://www.legislation.gov.uk/uksi/2021/14), [regs. 1](https://www.legislation.gov.uk/uksi/2021/14/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/14/regulation/2) and (7.7.2022) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2022 (S.I. 2022/662)](https://www.legislation.gov.uk/uksi/2022/662), [regs. 1](https://www.legislation.gov.uk/uksi/2022/662/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/662/regulation/2))
+
+[^M_F_1a64e5e6-20d4-4aa1-a6cd-b1020e45635b]: Textual amendment: Regs. 7, 8 inserted (temp.) (24.4.2020) by virtue of [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2020 (S.I. 2020/446)](https://www.legislation.gov.uk/uksi/2020/446), [regs. 1](https://www.legislation.gov.uk/uksi/2020/446/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/446/regulation/9) (with [regs. 2](https://www.legislation.gov.uk/uksi/2020/446/regulation/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/446/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2020/446/regulation/4), [5](https://www.legislation.gov.uk/uksi/2020/446/regulation/5)) (as amended (31.1.2021) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2021 (S.I. 2021/14)](https://www.legislation.gov.uk/uksi/2021/14), [regs. 1](https://www.legislation.gov.uk/uksi/2021/14/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/14/regulation/2) and (7.7.2022) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2022 (S.I. 2022/662)](https://www.legislation.gov.uk/uksi/2022/662), [regs. 1](https://www.legislation.gov.uk/uksi/2022/662/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/662/regulation/2))
+
+[^key-019cb44e42febdbc782805cd7c09acc6]: Textual amendment: Sch. renumbered as Sch. 1 (temp.) (24.4.2020) by virtue of [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2020 (S.I. 2020/446)](https://www.legislation.gov.uk/uksi/2020/446), [regs. 1](https://www.legislation.gov.uk/uksi/2020/446/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2020/446/regulation/10/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2020/446/regulation/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/446/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2020/446/regulation/4), [5](https://www.legislation.gov.uk/uksi/2020/446/regulation/5)); (as amended (31.1.2021) by The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2021 (S.I. 2021/14), regs. 1, 2 and (7.7.2022) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2022 (S.I. 2022/662)](https://www.legislation.gov.uk/uksi/2022/662), [regs. 1](https://www.legislation.gov.uk/uksi/2022/662/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/662/regulation/2))
+
+[^M_F_ab5e9e9f-250b-4c5c-ebc9-d257daf56046]: Textual amendment: Sch. 1 para. A1 inserted (temp.) (24.4.2020) by virtue of [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2020 (S.I. 2020/446)](https://www.legislation.gov.uk/uksi/2020/446), [regs. 1](https://www.legislation.gov.uk/uksi/2020/446/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2020/446/regulation/10/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2020/446/regulation/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/446/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2020/446/regulation/4), [5](https://www.legislation.gov.uk/uksi/2020/446/regulation/5)); (as amended (31.1.2021) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2021 (S.I. 2021/14)](https://www.legislation.gov.uk/uksi/2021/14), [regs. 1](https://www.legislation.gov.uk/uksi/2021/14/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/14/regulation/2) and (7.7.2022) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2022 (S.I. 2022/662)](https://www.legislation.gov.uk/uksi/2022/662), [regs. 1](https://www.legislation.gov.uk/uksi/2022/662/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/662/regulation/2))
+
+[^c21147661]: Marginal citation: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
+
+[^c21147671]: Marginal citation: [S.I. 2003/1663](https://www.legislation.gov.uk/uksi/2003/1663).
+
+[^key-ead0048ffd8a706a25495754986ed4d7]: Textual amendment: Sch. 2 inserted (temp.) (24.4.2020) by virtue of [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2020 (S.I. 2020/446)](https://www.legislation.gov.uk/uksi/2020/446), [regs. 1](https://www.legislation.gov.uk/uksi/2020/446/regulation/1), [11](https://www.legislation.gov.uk/uksi/2020/446/regulation/11) (with [regs. 2](https://www.legislation.gov.uk/uksi/2020/446/regulation/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/446/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2020/446/regulation/4), [5](https://www.legislation.gov.uk/uksi/2020/446/regulation/5)); (as amended (31.1.2021) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2021 (S.I. 2021/14)](https://www.legislation.gov.uk/uksi/2021/14), [regs. 1](https://www.legislation.gov.uk/uksi/2021/14/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/14/regulation/2) and (7.7.2022) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2022 (S.I. 2022/662)](https://www.legislation.gov.uk/uksi/2022/662), [regs. 1](https://www.legislation.gov.uk/uksi/2022/662/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/662/regulation/2))
+
+[^key-39365c573f16b65ffd0aecfaa78ddad6]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/9/schedule/2) amendment to transitional provisions of earlier amending S.I. 2020/446 (E.) (31.1.2021) by [The School Admissions (England) (Coronavirus) (Appeals Arrangements) (Amendment) Regulations 2021 (S.I. 2021/14)](https://www.legislation.gov.uk/uksi/2021/14), [regs. 1](https://www.legislation.gov.uk/uksi/2021/14/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/14/regulation/2)

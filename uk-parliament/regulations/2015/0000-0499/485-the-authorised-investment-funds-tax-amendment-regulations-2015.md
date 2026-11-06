@@ -1,0 +1,95 @@
+---
+title: The Authorised Investment Funds (Tax) (Amendment) Regulations 2015
+id: uksi/2015/485
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2015-03-04'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2015/485
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/485/pdfs/uksiem_20150485_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/485/pdfs/uksi_20150485_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/485/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Authorised Investment Funds (Tax) (Amendment) Regulations 2015
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2015 No. 485
+
+Corporation Tax
+
+The Authorised Investment Funds (Tax) (Amendment) Regulations 2015
+
+Made
+
+4th March 2015
+
+Laid before the House of Commons
+
+5th March 2015
+
+Coming into force
+
+26th March 2015
+
+The Treasury make the following Regulations in exercise of the powers conferred by sections 17(3)(a) and (b) and 18(1) and (5) of the Finance (No. 2) Act 2005[^f00001].
+
+## 1. Citation, commencement and effect
+
+(1) These Regulations may be cited as the Authorised Investment Funds (Tax) (Amendment) Regulations 2015 and come into force on 26th March 2015.
+
+(2) The amendments made by these Regulations have effect for accounting periods beginning on or after that date.
+
+(3) For the purposes of paragraph (2), an accounting period beginning before and ending on or after that date is to be treated for the purposes of these Regulations as if so much of the period as falls before that date, and so much of the period as falls on or after that date, were separate accounting periods.
+
+## 2. Amendments to the Authorised Investment Funds (Tax) Regulations 2006
+
+(1) The Authorised Investment Funds (Tax) Regulations 2006[^f00002] are amended as follows.
+
+(2) In the heading before regulation 13, omit the words “loan relationships: treatment of”.
+
+(3) After that heading insert—
+
+> **12A. Deduction of expenses**
+>
+> Where an authorised investment fund makes an interest distribution for a distribution period, the amount that can be deducted under Step 2 in section 4(2) of CTA 2010 (amounts that can be relieved against the company’s total profits of the period) cannot exceed an amount that would reduce the total profits chargeable to corporation tax for the accounting period in which the last day of the distribution period falls to below the total amount chargeable to corporation tax in accordance with Part 4 of CTA 2009 for that accounting period.
+
+(4) In regulation 13 (treatment of interest distributions for the purposes of loan relationships), in paragraph (1A)[^f00003], after “income” insert “other than income chargeable to corporation tax in accordance with Part 4 of CTA 2009 and”.
+
+(5) In regulation 17 (allocation of income), omit paragraph (2)[^f00004].
+
+Mark Lancaster
+
+Harriett Baldwin
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+4th March 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Authorised Investment Funds (Tax) Regulations 2006 ([S.I. 2006/964](https://www.legislation.gov.uk/uksi/2006/964)) which make provision about the treatment of authorised investment funds for tax purposes.
+
+The Regulations amend regulation 17 to remove the restriction in relation to making interest distributions where a fund receives property income and insert a new regulation 12A which restricts the amount that can be deducted in calculating the profits of a fund by reference to any property income received by a fund. The Regulations also make consequential amendments to a heading and to regulation 13.
+
+A Tax Information and Impact Note covering this instrument will be published on the HMRC website at http://www.hmrc.gov.uk/thelibrary/tiins.htm.
+
+## Annotations
+
+[^f00001]: Footnote: [2005 c. 22](https://www.legislation.gov.uk/ukpga/2005/22), section 18 was amended by paragraph 136 of Schedule 46 to the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29).
+
+[^f00002]: Footnote: [S.I. 2006/964](https://www.legislation.gov.uk/uksi/2006/964), relevant amending instruments are [S.I. 2009/2036](https://www.legislation.gov.uk/uksi/2009/2036), [2010/294](https://www.legislation.gov.uk/uksi/2010/294), [2012/519](https://www.legislation.gov.uk/uksi/2012/519) and [2013/2819](https://www.legislation.gov.uk/uksi/2013/2819).
+
+[^f00003]: Footnote: Paragraph (1A) was inserted by [S.I. 2012/519](https://www.legislation.gov.uk/uksi/2012/519).
+
+[^f00004]: Footnote: Paragraph (2) was substituted by [S.I. 2010/294](https://www.legislation.gov.uk/uksi/2010/294) and amended by [SI 2013/2819](https://www.legislation.gov.uk/uksi/2013/2819).

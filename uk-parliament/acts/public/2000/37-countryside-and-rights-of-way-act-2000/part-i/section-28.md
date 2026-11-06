@@ -1,0 +1,54 @@
+---
+title: Countryside and Rights of Way Act 2000, section 28
+act: Countryside and Rights of Way Act 2000
+section: '28'
+status: revised-with-pending-changes
+text_date: '2026-03-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2000/37/section/28
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Countryside and Rights of Way Act 2000, section 28
+
+> **Warning: changes not yet applied to this text (18).** Text as at 2026-03-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 28. Defence or national security.
+
+*Extent: E+W*
+
+(1) The Secretary of State may by direction exclude or restrict access by virtue of section 2(1) to any land during any period if he is satisfied that the exclusion or restriction of such access to the extent provided by the direction is necessary for the purposes of defence or national security.
+
+(2) A direction under subsection (1) may be expressed to have effect—
+
+- (a) during a period specified in the direction,
+- (b) during a specified period in every calendar year,
+- (c) during a period which is to be—
+  - (i) determined in accordance with the direction by a person authorised by the Secretary of State, and
+  - (ii) notified by that person to the relevant authority in accordance with regulations under section 32(1)(c), or
+- (d) indefinitely.
+
+(3) Any direction given by the Secretary of State under this section may be revoked or varied by a subsequent direction.
+
+(4) Where a direction given under this section in relation to any land excludes or restricts access to the land—
+
+- (a) indefinitely,
+- (b) for part of every year or of each of six or more consecutive calendar years, or
+- (c) for a specified period of more than five years,
+
+the Secretary of State shall review the direction not later than the fifth anniversary of the relevant date.
+
+(5) In subsection (4) “**the relevant date**”, in relation to a direction, means—
+
+- (a) the day on which the direction was given, or
+- (b) where it has previously been reviewed, the day on which it was last reviewed.
+
+(6) If in any calendar year the Secretary of State reviews a defence direction, he shall—
+
+- (a) prepare a report on all reviews of defence directions which he has undertaken during that year, and
+- (b) lay a copy of the report before each House of Parliament.
+
+(7) In subsection (6) “**defence direction**” means a direction given under this section for the purposes of defence.

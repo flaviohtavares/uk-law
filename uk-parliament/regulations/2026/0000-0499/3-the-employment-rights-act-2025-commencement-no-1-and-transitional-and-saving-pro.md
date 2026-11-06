@@ -1,0 +1,722 @@
+---
+title: The Employment Rights Act 2025 (Commencement No. 1 and Transitional and Saving Provisions) Regulations 2026
+id: uksi/2026/3
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2026-01-05'
+text_date: '2026-03-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2026/3
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2026/3/pdfs/uksi_20260003_en.pdf
+- http://www.legislation.gov.uk/uksi/2026/3/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Employment Rights Act 2025 (Commencement No. 1 and Transitional and Saving Provisions) Regulations 2026
+
+> Text as at 2026-03-16.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2026 No. 3 (C. 2)
+
+TERMS AND CONDITIONS OF EMPLOYMENT
+
+TRADE UNIONS
+
+The Employment Rights Act 2025 (Commencement No. 1 and Transitional and Saving Provisions) Regulations 2026
+
+Made
+
+5th January 2026
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 155 and 159(3) and (4) of the Employment Rights Act 2025[^f00001].
+
+## 1. Citation and interpretation[^key-ced34220b59565298000132e8163be5c]
+
+(1) These Regulations may be cited as the Employment Rights Act 2025 (Commencement No. 1 and Transitional and Saving Provisions) Regulations 2026.
+
+(2) In these Regulations—
+
+- “**the 1992 Act**” means the Trade Union and Labour Relations (Consolidation) Act 1992[^f00002];
+- “**the 1996 Act**” means the Employment Rights Act 1996[^f00003];
+- “**the 2025 Act**” means the Employment Rights Act 2025;
+- “**ACAS**” means the Advisory, Conciliation and Arbitration Service[^f00004];
+- “**parental leave**” means leave under section 76 of the 1996 Act (entitlement to parental leave);
+- “**paternity leave**” means leave under section 80A of the 1996 Act (entitlement to paternity leave: birth) or section 80B of that Act (entitlement to paternity leave: adoption)[^f00005];
+- “**placed for adoption**” means placed—
+  - (a) for adoption under the Adoption and Children Act 2002[^f00006] or the Adoption and Children (Scotland) Act 2007[^f00007], or
+  - (b) with a local authority foster parent who has been approved as a prospective adopter under—
+    - (i) section 22C of the Children Act 1989[^f00008] (ways in which looked after children are to be accommodated and maintained) by a local authority in England, or
+    - (ii) section 81 of the Social Services and Well-being (Wales) Act 2014[^f00009] (ways in which looked after children are to be accommodated and maintained) by a local authority in Wales;
+- “**prospective adopter**” means a person who has been approved as suitable to adopt a child and has been notified of that decision in accordance with regulation 30B(4) of the Adoption Agencies Regulations 2005[^f00010] or regulation 30B(4) of the Adoption Agencies (Wales) Regulations 2005[^f00011].
+
+## 2. Provisions of the 2025 Act coming into force on the day after the day on which these Regulations are made[^key-84517936494e1e193673a54299dbe8c1]
+
+(1) The provisions of the 2025 Act specified in the following paragraphs come into force on the day after the day on which these Regulations are made.
+
+(2) In so far as conferring a duty to consult or a power to make regulations under Chapters 2 to 6, including Schedule A1, of Part 2A of the 1996 Act (zero hours workers, etc)[^f00012] or relating to the exercise of such a power to make regulations—
+
+- (a) section 1 (right to guaranteed hours);
+- (b) section 2 (shifts: rights to reasonable notice);
+- (c) section 3 (right to payment for cancelled, moved and curtailed shifts);
+- (d) section 4 and Schedule 1 (agency workers: guaranteed hours and rights relating to shifts);
+- (e) section 5(1) and (2) (collective agreements: contracting out);
+- (f) section 6(1) (amendments relating to sections 1 to 5).
+
+(3) Section 6(2) (amendments to sections 1 to 5), to the extent that it relates to the provisions of Schedule 2 to the 2025 Act listed in paragraph (36) of this regulation.
+
+(4) Section 7 (repeal of Workers (Predictable Terms and Conditions) Act 2023).
+
+(5) Section 8 (exclusivity terms in zero hours arrangements).
+
+(6) Section 9 (right to request flexible working), for the purposes of making regulations under Chapter 1 of Part 8A of the 1996 Act[^f00013] (flexible working).
+
+(7) Section 16 (paternity leave: removal of qualifying period of employment), for the purposes of making regulations under section 80A of the 1996 Act (entitlement to paternity leave: birth) or section 80B of that Act (entitlement to paternity leave: adoption).
+
+(8) Section 17(1) and (2) (ability to take paternity leave following shared parental leave), for the purposes of making regulations under section 80A or 80B of the 1996 Act.
+
+(9) In section 18 (bereavement leave)—
+
+- (a) subsection (1), to the extent that it relates to the provisions specified in sub-paragraph (b);
+- (b) subsections (2) to (4), (10) and (11), for the purposes of making regulations under section 47C, 80EA or 99 of the 1996 Act[^f00014].
+
+(10) In section 24 (contractual duties of confidentiality relating to harassment and discrimination)—
+
+- (a) subsection (1), to the extent that it relates to the provisions specified in sub-paragraphs (b) and (c);
+- (b) subsection (2), for the purposes of making regulations under section 202A of the 1996 Act[^f00015] (contractual duties of confidentiality relating to harassment and discrimination);
+- (c)[^key-278d7d31574c02f243a1324e42ff2163] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) Section 26 (dismissal during pregnancy).
+
+(12) In section 27 (dismissal following period of statutory family leave)—
+
+- (a) subsection (1), to the extent that it relates to the provisions specified in sub-paragraphs (b) and (c);
+- (b) subsections (2) to (5);
+- (c) subsection (6), for the purposes of making regulations under section 80EF of the 1996 Act[^f00016] (neonatal care leave).
+
+(13) In section 28 (dismissal for failing to agree to variation of contract, etc)—
+
+- (a) subsections (1) and (2), to the extent that they relate to the provisions specified in sub-paragraphs (b) and (c);
+- (b) subsection (3), for the purposes of making regulations under sections 104I and[^key-9f029f7803acdce92a152bd2bfbf6fb6] 104J(5)(f) [^key-4e8a3ed81f6865aac0a87d282f806b39]... of the 1996 Act[^f00017];
+- (c) subsection (6).
+
+(14) In section 29 (collective redundancy: extended application of requirements)—
+
+- (a) subsection (1), to the extent that it relates to the provisions specified in sub-paragraph (b);
+- (b) subsections (2) to (5), for the purposes of making regulations under section 195A of the 1992 Act[^f00018].
+
+(15) In section 30 (collective redundancy consultation: protected period)—
+
+- (a) subsection (1), to the extent that it relates to subsection (3) of that section;
+- (b) subsection (3).
+
+(16) In section 32 (public sector outsourcing: protection of workers)—
+
+- (a) subsection (1), to the extent that it relates to the provisions specified in sub-paragraphs (b) and (c);
+- (b) subsections (2), (3) and (5) to (7), for the purposes of making regulations or preparing and publishing a code of practice on relevant outsourcing contracts under Part 5A of the Procurement Act 2023 (outsourcing: protection of workers)[^f00019];
+- (c) subsection (4).
+
+(17) Section 36 (extension of regulation of employment businesses), for the purposes of making regulations under the Employment Agencies Act 1973[^f00020].
+
+(18) In section 58 (right to statement of trade union rights)—
+
+- (a) subsection (1), to the extent that it relates to the provisions specified in sub-paragraphs (b) and (c);
+- (b) subsection (2), for the purposes of making regulations under section 136A of the 1992 Act[^f00021] (right to statement of trade union rights);
+- (c) subsection (5), for the purposes of making an order under section 286 of the 1992 Act (power to make further provision as to excluded classes of employment) to make provision in relation to the application of section 136A of that Act to prescribed classes of person or employment.
+
+(19) In section 59 (right of trade unions to access workplaces)—
+
+- (a) subsection (1), to the extent that it relates to the provision specified in sub-paragraph (b);
+- (b) subsection (2), for the purposes of making regulations under Chapter 5ZA of Part 1 of the 1992 Act[^f00022] (right of trade unions to access workplaces).
+
+(20) Section 60 (trade union recognition), to the extent that it relates to the provisions of Schedule 6 to the 2025 Act listed in paragraph (37) of this regulation.
+
+(21) Section 64 (facilities provided to trade union officials and learning representatives), for the purposes of ACAS—
+
+- (a) issuing a Code of Practice under section 199 of the 1992 Act[^f00023] (issue of Codes of Practice by ACAS);
+- (b) revising a Code of Practice under section 201 of that Act (consequential revision of Code issued by ACAS).
+
+(22) Section 65 (facilities for equality representatives), for the purposes of ACAS—
+
+- (a) issuing a Code of Practice under section 199 of the 1992 Act;
+- (b) revising a Code of Practice under section 201 of the 1992 Act.
+
+(23) In section 76 (protection against detriment for taking industrial action)—
+
+- (a) subsection (1), to the extent that it relates to the provision specified in sub-paragraph (b);
+- (b) subsection (2), for the purposes of making regulations under section 236A of the 1992 Act[^f00024] (detriment on grounds of industrial action).
+
+(24) Section 88 (regulations subject to affirmative resolution procedure).
+
+(25) In section 90 (enforcement of labour market legislation by Secretary of State)—-
+
+- (a) subsection (1), for the purposes of making regulations under Part 2 of Schedule 7 to the 2025 Act (legislation subject to enforcement under Part 5: power to amend Part 1);
+- (b) subsection (3), to the extent that it relates to the provisions specified in paragraphs (26), (32), (34) and (38) of this regulation.
+
+(26) Section 91 (enforcement functions of Secretary of State), to the extent that it relates to the provisions specified in paragraphs (25), (32), (34) and (38) of this regulation.
+
+(27) Section 103(1), (2) and (7) (power to give notice of underpayment), for the purposes of making regulations under section 104(2) of the 2025 Act (calculation of the required sum), or making directions under section 108(1) of that Act (further provision about penalties).
+
+(28) Section 104 (calculation of the required sum), for the purposes of making regulations under that section.
+
+(29) In section 108 (further provision about penalties), subsections (1) and (2).
+
+(30) In section 118 (recovery of costs of legal assistance)—
+
+- (a) subsection (2), to the extent that it relates to the power to make regulations under subsection (5) of that section;
+- (b) subsections (5) and (6);
+- (c) subsection (7).
+
+(31) In section 135 (disclosure of information), subsections (6) and (7).
+
+(32) Section 143 (power to recover costs of enforcement).
+
+(33) In section 149 (consequential and transitional provision)—
+
+- (a) subsection (1), to the extent that it relates to the provisions of Schedule 10 to the 2025 Act specified in paragraph (39) of this regulation;
+- (b) subsection (2).
+
+(34) In section 151 (interpretation: general)—
+
+- (a) the following definitions in subsection (1)—
+  - (i) “employee”,
+  - (ii) “employer”;
+  - (iii) “enactment”;
+  - (iv) “enforcement function”;
+  - (v) “enforcement officer”;
+  - (vi) “the relevant day”;
+  - (vii) “relevant labour market legislation”;
+  - (viii) “statutory pay provision”;
+  - (ix) “trade union”;
+  - (x) “underpaid individual”;
+  - (xi) “worker”;
+- (b) subsections (2) and (5).
+
+(35) Section 153 (orders and regulations under the Employment Rights Act 1996: procedure).
+
+(36) In Schedule 2 (consequential amendments relating to sections 1 to 5)—
+
+- (a) paragraphs 2 and 4 (amendment of section 16 of the Employment Tribunals Act 1996[^f00025]);
+- (b) paragraph 6, to the extent that it relates to the provisions specified in sub-paragraphs (c) to (e) (amendment of the 1996 Act);
+- (c) paragraph 27, for the purposes of making regulations under Part 2A of the 1996 Act (zero hours workers and similar));
+- (d) paragraph 29, for the purposes of making regulations under Part 2A of, and Schedule A1 to, the 1996 Act;
+- (e) paragraph 30 (amendment of section 236(3) of the 1996 Act (orders and regulations)).
+
+(37) In Schedule 6 (trade union recognition)—
+
+- (a) paragraph 1, to the extent that it relates to the provisions specified in sub-paragraph (b);
+- (b) paragraphs 9, 10, 40, 41, 47, 48, 59, 60, 62 and 63, for the purposes of issuing a Code of Practice regarding access and unfair practices during the recognition and derecognition processes[^f00026] by—
+  - (i) ACAS under section 199 of the 1992 Act, or
+  - (ii) the Secretary of State under section 203 of that Act (issue of Codes of Practice by the Secretary of State).
+
+(38) Part 2 of Schedule 7 (legislation subject to enforcement under Part 5: power to amend Part 1).
+
+(39) In Schedule 10 (consequential amendments relating to Part 5)—
+
+- (a) paragraph 25, to the extent that it relates to the provisions specified in sub-paragraphs (b) and (c) (amendment of the Gangmasters (Licensing) Act 2004[^f00027]);
+- (b) paragraph 30, for the purposes of making rules under section 8 of the Gangmasters (Licensing) Act 2004[^f00028] (general power to make rules);
+- (c) paragraphs 32 and 45(1) and (6), for the purposes of making regulations under section 10 of that Act (appeals);
+- (d) paragraph 63, for the purposes of making regulations under section 114B of the Police and Criminal Evidence Act 1984[^f00029] (application of Act to enforcement officers);
+- (e) in paragraph 74—
+  - (i) sub-paragraph (1), to the extent that it relates to the provision specified in paragraph (ii);
+  - (ii) sub-paragraph (3), for the purposes of making regulations under section 26CA of the Police Reform Act 2002[^f00030] (enforcement officers appointed under Employment Rights Act 2025).
+
+(40) Part 1 of Schedule 11 (abolition of existing enforcement authorities: transfer schemes).
+
+## 3. Provisions of the 2025 Act coming into force on 18th February 2026[^key-3ad465c42694e0a1a13247c0d6f7f0b7]
+
+(1) The provisions of the 2025 Act specified in the following paragraphs come into force on 18th February 2026, subject to the transitional and saving provisions in Schedules 1 and 2.
+
+(2) Section 15 (parental leave: removal of qualifying period of employment), to the extent necessary for the giving of any notices and evidence under Schedule 2 to the Maternity and Parental Leave etc. Regulations 1999[^f00031] by or to an employee who, as a result of section 15 of the 2025 Act coming fully into force in accordance with regulation 4(2), becomes entitled to take parental leave on or after 6th April 2026.
+
+(3) Section 16 (paternity leave: removal of qualifying period of employment)—
+
+- (a) in relation to cases where a child’s mother dies or where a person with whom a child is placed or expected to be placed for adoption dies[^f00032];
+- (b) to the extent necessary for the giving of any notices and evidence under regulations made under section 80A or 80B of the 1996 Act by or to an employee who, as a result of section 16 of the 2025 Act coming fully into force in accordance with regulation 4(3), becomes entitled to take paternity leave on or after 6th April 2026.
+
+(4) Section 17 (ability to take paternity leave following shared parental leave), in relation to cases where a child’s mother dies or where a person with whom a child is placed or expected to be placed for adoption dies[^f00033].
+
+(5) Section 31 (collective redundancy notifications: ships’ crew).
+
+(6) Section 57 (international agreements relating to maritime employment).
+
+(7) Section 76 (protection against detriment for taking industrial action).
+
+(8) Section 77 (protection against dismissal for taking industrial action).
+
+(9) Section 79 (annual returns: removal of provision about industrial action).
+
+(10) Section 81 (removal of powers to enforce requirements relating to annual returns).
+
+## 4. Provisions of the 2025 Act coming into force on 6th April 2026[^key-2d0f156c241b2d4d8fd3fcd30361fe8c]
+
+(1) The provisions of the 2025 Act specified in the following paragraphs come into force on 6th April 2026 in so far as they are not already in force, subject to the transitional and saving provisions in Schedule 1.
+
+(2) Section 15.
+
+(3) Section 16.
+
+(4) Section 17.
+
+## 5. Transitional and saving provisions in relation to sections 16 and 17 of the 2025 Act[^key-392b0d2bd4f1e65ea49f9e453b4f0794]
+
+Schedule 1 (transitional and saving provisions in relation to sections 16 and 17 of the 2025 Act) has effect in relation to the coming into force of sections 16 and 17 of the 2025 Act.
+
+## 6. Transitional and saving provisions in relation to Part 4 of the 2025 Act[^key-4b78933072b7cef8760db269c36251ce]
+
+Schedule 2 (transitional and saving provisions in relation to Part 4 of the 2025 Act) (trade unions and industrial action, etc) has effect in relation to the coming into force of sections 62, 63, 66, 69, 71, 72, 74, 77, 79 to 84 and 86 of the 2025 Act[^f00034].
+
+Kate Dearden
+
+Parliamentary Under-Secretary of State
+
+Department for Business and Trade
+
+5th January 2026
+
+Schedules
+
+## Schedule 1 — Transitional and saving provisions in relation to sections 16 and 17 of the 2025 Act
+
+Regulation 5
+
+**1.**[^key-18d26f735a43b8a9bce3c2548b61e1b5] The amendments made by sections 16 (paternity leave: removal of qualifying period of employment) and 17 (ability to take paternity leave following shared parental leave) of the 2025 Act have no effect in relation to children—
+
+- (a) in a case where an entitlement to paternity leave would arise from the birth of the child, born before 6th April 2026,
+- (b) placed for adoption before 6th April 2026,
+- (c) being adopted from overseas who enter Great Britain before 6th April 2026, or
+- (d) in a parental order case, born before 6th April 2026.
+
+**2.**[^key-c840166f5ca32e96c016e8507b5c9c8c] Paragraph 1(a) of this Schedule does not apply where the child’s expected week of birth begins on or after 5th April 2026.
+
+**3.**[^key-b61239beae68e11654ba5f3bb657fb1b] Paragraphs 1 and 2 of this Schedule do not apply where the child’s primary carer dies on or after 6th April 2026.
+
+**4.**[^key-677ca7ff83dc5c8866649d62e80abb10] In this Schedule—
+
+- “**adopter**” means—
+  - (a) in relation to a child placed for adoption under the law of any part of the United Kingdom—
+    - (i) the person with whom the child has been or is expected to be placed for adoption, or
+    - (ii) in a case where the child has been or is expected to be placed for adoption with two people jointly, whichever of those two people has elected to be the child’s adopter, by agreement between those two people at the time they are matched with the child for adoption, for the purposes of regulations made under section 80B of the 1996 Act;
+  - (b) in relation to a child who is the subject of an adoption from overseas—
+    - (i) a person by whom the child has been or is to be adopted, or
+    - (ii) in a case where the child has been or is to be adopted by two people jointly, whichever of them has elected to be the child’s adopter, by agreement by those two people at the time when they receive official notification issued by or on behalf of the relevant domestic authority that the adopter is eligible to adopt, for the purposes of regulations made under section 80B of the 1996 Act;
+- “**expected week**” means the week, beginning with midnight between Saturday and Sunday, in which it is expected that the child will be born;
+- “**parental order case**” means a case where a person applies, or intends to apply during the period of 6 months from the day of a child’s birth, for an order under section 54 of the Human Fertilisation and Embryology Act 2008[^f00035] in respect of the child;
+- “**primary carer**”, in relation to a child, means—
+  - (a) in a case where the mother of the child dies, the child’s mother;
+  - (b) in a case where a child is placed or expected to be placed for adoption under the law of any part of the United Kingdom or the child is being adopted from overseas, the child’s adopter;
+  - (c) in a parental order case—
+    - (i) the person—
+      - (aa) on whose application the court has made an order under section 54 of the Human Fertilisation and Embryology Act 2008 in respect of the child, or
+      - (bb) who applies, or intends to apply, during the period of 6 months beginning with the day of the child’s birth, with another person for such an order in respect of the child, and expects the court to make that order, and
+    - (ii) who has elected to be the child’s primary carer, by agreement with the person with whom they applied, or intend to apply, for that order;
+- “**relevant domestic authority**” means—
+  - (a) in the case of an adopter to whom the Adoptions with a Foreign Element Regulations 2005[^f00036] apply and who is habitually resident in Wales, the Welsh Ministers;
+  - (b) in the case of an adopter to whom the Adoptions with a Foreign Element (Scotland) Regulations 2009[^f00037] apply and who is habitually resident in Scotland, the Scottish Ministers;
+  - (c) in any other case, the Secretary of State.
+
+**5.**[^key-02f4b9aab905a24e0960b35c2ca00d32] For the purposes of this Schedule, a person adopts a child from overseas if the person adopts a child who enters Great Britain from outside the United Kingdom in connection with or for the purposes of adoption which does not involve the placement of the child for adoption under the law of any part of the United Kingdom.
+
+## Schedule 2 — Transitional and saving provisions in relation to Part 4 of the 2025 Act
+
+Regulation 6
+
+### 1. Interpretation[^key-a0dadcd2908c1a889e2a5ead4ca157ae]
+
+In this Schedule—
+
+- “**the Certification Officer**” has the same meaning as in the 1992 Act (see section 254 of that Act);
+- “**the commencement date**” means 18th February 2026;
+- “**employers’ association**” has the same meaning as in the 1992 Act (see section 122 of that Act);
+- “**trade union**” has the same meaning as in the 1992 Act (see section 1 of that Act).
+
+### 2. Section 62 of the 2025 Act (members who are not existing contributors)[^key-ca94d4e0958ea10a40e57ced71645e5c]
+
+(1) Sub-paragraph (2) applies in relation to a member of a trade union that has a political fund on the commencement date, where the member is not an existing contributor and—
+
+- (a) the member became a member of that trade union at any time in the period beginning with 1st March 2018 and ending with the day before the commencement date, or
+- (b) the trade union did not have a political fund immediately before 1st March 2018.
+
+(2) Where this sub-paragraph applies, for the purposes of section 84 of the 1992 Act[^f00038] (as substituted by section 62 of the 2025 Act (requirement to contribute to political fund))—
+
+- (a) the member is to be treated as having given an opt-out notice in relation to the fund, and
+- (b) that notice is to be treated as having effect for the period beginning with the commencement date and ending with the date the member gives a withdrawal notice in relation to that notice.
+
+(3) In this paragraph—
+
+- “**existing contributor**” means a member of a trade union who was, immediately before the commencement date, a contributor in relation to the political fund of the union within the meaning given by section 84(5) of the 1992 Act as it had effect before the commencement date;
+- “**opt-out notice”, “effect” (in relation to an opt-out notice) and “withdrawal notice**” have the same meaning as in section 84 of the 1992 Act as substituted by section 62(3) of the 2025 Act;
+- “**political fund**” has the same meaning as in the 1992 Act[^f00039].
+
+### 3. Section 62 of the 2025 Act: withdrawal notices under section 84 of the 1992 Act as it had effect before the commencement date[^key-3e0c201f7b5ae526cc430aa48b444cf4]
+
+A withdrawal notice within the meaning given by section 84(2) of the 1992 Act, as it had effect before the commencement date, received by a trade union before the end of the period of four weeks beginning with the commencement date is to be treated as if given and received under section 84 of the 1992 Act as it had effect before the commencement date.
+
+### 4. Section 62 of the 2025 Act: failure to comply with section 84A of the 1992 Act as it had effect before the commencement date[^key-64cefe5fe033b16db7cc126230770c4a]
+
+(1) Where the period of eight weeks referred to in section 84A(1) of the 1992 Act[^f00040] expires before the commencement date, the Certification Officer may, after the commencement date, make an order under section 84A(5) of that Act in relation to a failure by a trade union to comply with a requirement imposed by that section, notwithstanding section 62 of the 2025 Act.
+
+(2) In this paragraph, references to section 84A of the 1992 Act are to that section as it had effect before the commencement date.
+
+### 5. Section 63 of the 2025 Act (deduction of trade union subscriptions from wages in public sector)[^key-25024bdf20894227bd87fad2765e19ad]
+
+(1) Section 63 of the 2025 Act (deduction of trade union subscriptions from wages in public sector) does not affect—
+
+- (a) any right or obligation relating to deductions from workers’ wages in respect of trade union subscriptions by a relevant public sector employer where that right or obligation arises in connection with anything done, or any omission made, before the commencement date,
+- (b) the enforcement of any such right or obligation, or
+- (c) the commencement or continuation of any legal proceedings in relation to any such right or obligation.
+
+(2) The rights and obligations referred to in sub-paragraph (1) include rights and obligations arising under—
+
+- (a) section 116B of the 1992 Act[^f00041] or regulations made under that section as they each had effect before the commencement date, and
+- (b) any agreement or arrangement in force before the commencement date.
+
+(3) In this paragraph—
+
+- “**relevant public sector employer**” has the same meaning as in section 116B(3) of the 1992 Act as it had effect before the commencement date;
+- “**worker**” has the same meaning as in section 116B(10) of the 1992 Act as it had effect before the commencement date.
+
+### 6. Section 66 of the 2025 Act (facility time: publication requirements and reserve powers)[^key-096c543d2a4e0bb522ccc575dfe4e9c1]
+
+(1) Section 66(1)(a) of the 2025 Act (facility time: publication requirements) does not affect any requirement on a relevant public sector employer to publish information under section 172A of the 1992 Act[^f00042] or regulations made under that section as they each had effect before the commencement date for a relevant period which ends before the commencement date.
+
+(2) In this paragraph—
+
+- “**relevant period**” has the same meaning as in the Trade Union (Facility Time Publication Requirements) Regulations 2017[^f00043] (see regulation 2 of those Regulations);
+- “**relevant public sector employer**” has the same meaning as in section 172A(2) of the 1992 Act, as it had effect before the commencement date.
+
+### 7. Section 69 of the 2025 Act (industrial action ballots: support thresholds)[^key-d8e75abe03c3bcc7cba6c7d97b0ac1a5]
+
+(1) Section 69 of the 2025 Act (industrial action ballots: support thresholds) does not apply to a ballot opened before the commencement date.
+
+(2) For the purposes of this paragraph, a ballot is “opened” on the first day when a voting paper is sent to any person entitled to vote in the ballot.
+
+### 8. Section 71 of the 2025 Act (industrial action ballots: information to be included in voting paper)[^key-9d9970bec240587e8f9c4f666bd7f7a1]
+
+(1) Section 71 of the 2025 Act (industrial action ballots: information to be included on voting paper) does not apply to a ballot opened before the commencement date.
+
+(2) Section 71 of the 2025 Act does not apply to a ballot where, before the commencement date, the trade union had complied with section 226A of the 1992 Act[^f00044] as it had effect before the commencement date, in respect of the sample voting paper (specified in subsection (2F) of that section) for that ballot.
+
+(3) For the purposes of this paragraph, a ballot is “opened” on the first day when a voting paper is sent to any person entitled to vote in the ballot.
+
+### 9. Section 72 of the 2025 Act (period after which industrial action ballot ceases to be effective)[^key-e26d9ff05b518cbfe0fca17ec319271b]
+
+(1) Section 72 of the 2025 Act (period after which industrial action ballot ceases to be effective) does not apply to any industrial action the ballot for which opened before the commencement date.
+
+(2) For the purposes of this paragraph, a ballot is “opened” on the first day when a voting paper is sent to any person entitled to vote in the ballot.
+
+### 10. Section 74 of the 2025 Act (notice to employers of industrial action)[^key-12d21ea58cba85cead86623b18e74e87]
+
+(1) Section 74 of the 2025 Act (notice to employers of industrial action) does not apply to any industrial action in relation to which the employer receives a relevant notice before the commencement date.
+
+(2) In this paragraph—
+
+- “**employer**” has the same meaning as in section 296(2) of the 1992 Act[^f00045];
+- “**relevant notice**” has the same meaning as in section 234A(3) of the 1992 Act[^f00046].
+
+### 11. Section 77 of the 2025 Act (protection against dismissal for taking industrial action)[^key-d65fa2f7048ce8834666f317e0a83d47]
+
+(1) Section 77(2) and (5)(d) of the 2025 Act (protection against dismissal for taking industrial action) do not apply to a ballot opened before the commencement date.
+
+(2) Section 77(2) and (5)(d) of the 2025 Act do not apply to a ballot where, before the commencement date, the trade union had complied with section 226A of the 1992 Act as it had effect before the commencement date in respect of the sample voting paper (specified in subsection (2F) of that section) for that ballot.
+
+(3) Section 77(3), (4) and (5)(a) to (c) of the 2025 Act do not apply to protected industrial action taken by an employee where the employee starts to take the action before the commencement date.
+
+(4) In this paragraph—
+
+- “**employee**” has the same meaning as in section 295(1) of the 1992 Act;
+- “**protected industrial action**” has the same meaning as in section 238A(1) of the 1992 Act[^f00047].
+
+### 12. Section 79 of the 2025 Act (annual returns: removal of provision about industrial action)[^key-e1c138ea56b9735a0d5ddfe75f1d1791]
+
+(1) Section 79 of the 2025 Act (annual returns: removal of provision about industrial action) does not apply in relation to any requirement for a trade union to set out information in its annual return under section 32ZA of the 1992 Act[^f00048], as it had effect before the commencement date, where the return period ends before the commencement date.
+
+(2) In his paragraph, “**return period**” means a period for which a trade union is required to send a return to the Certification Officer under section 32 of the 1992 Act[^f00049].
+
+### 13. Section 80 of the 2025 Act (annual returns: removal of provision about political expenditure)[^key-7a9e31df48e5d48e70c79909d4040e10]
+
+(1) Section 80 of the 2025 Act (annual returns: removal of provision about political expenditure) does not apply in relation to any requirement—
+
+- (a) for a trade union to give information in its annual return under section 32ZB of the 1992 Act[^f00050], as it had effect before the commencement date, where the return period ends before the commencement date, or
+- (b) for an employers’ association to give information in its annual return under section 32ZB of the 1992 Act as it had effect before the commencement date, as applied by section 131(1) of that Act[^f00051] as it had effect before the commencement date, where the return period ends before the commencement date.
+
+(2) Section 80(3) of the 2025 Act does not affect the powers of the Certification Officer under section 32ZC of the 1992 Act[^f00052], as it had effect before the commencement date, in respect of a failure by a trade union to comply with a requirement referred to in sub-paragraph (1)(a).
+
+(3) In this paragraph, “**return period**” means—
+
+- (a) in relation to a trade union’s annual return, the period for which the trade union is required to send that return to the Certification Officer under section 32 of the 1992 Act, or
+- (b) in relation to an employers’ association’s annual return, the period for which the employers’ association is required to send that return to the Certification Officer under section 32 of the 1992 Act, as applied by section 131(1) of that Act.
+
+### 14. Section 81 of the 2025 Act (removal of powers to enforce requirements relating to annual returns)[^key-9b59d24639ec36a39aebe8a622c1aff4]
+
+(1) Section 81 of the 2025 Act (removal of powers to enforce requirements relating to annual returns) does not affect the powers of the Certification Officer under section 32ZC of the 1992 Act, as it had effect before the commencement date, in respect of a failure by a trade union to comply with a requirement referred to in paragraph 12 or in paragraph 13 of this Schedule.
+
+(2) Section 81 of the 2025 Act does not affect any appeal by a trade union to which sub-paragraph (1) applies under section 45D of the 1992 Act[^f00053] as it had effect before the commencement date.
+
+### 15. Section 82 of the 2025 Act (removal of investigatory powers)[^key-74c6db1592acaf3b915f1d451377c887]
+
+(1) Section 82 of the 2025 Act (removal of investigatory powers) does not affect an investigation which the Certification Officer commences or proposes to commence before the commencement date.
+
+(2) Section 82(3) of the 2025 Act does not affect the right of a trade union or other person to appeal under section 45D of the 1992 Act, as it had effect before the commencement date, against an order made by the Certification Officer under paragraph 5 of Schedule A3 to the 1992 Act[^f00054], as it had effect before the commencement date.
+
+(3) For the purposes of sub-paragraph (1), the Certification Officer commences or proposes to commence an investigation if, in relation to a specified breach or possible breach of any of the relevant obligations, and whether or not following an application to the Officer by another person—
+
+- (a) the Officer makes written enquiry of a trade union or employers’ association, or
+- (b) the Officer otherwise gives written notification to a trade union or employers’ association of the investigation or proposed investigation.
+
+(4) In this paragraph—
+
+- “**relevant obligations**” has the same meaning as in Schedule A3 to the 1992 Act (see paragraph 1 of that Schedule), as it had effect before the commencement date;
+- “**specified**” means specified by the Officer in the enquiry or notification referred to in sub-paragraph (3).
+
+### 16. Section 83 of the 2025 Act (powers to be exercised only on application)[^key-3265e0367e5d453d67376523f6ec0fa2]
+
+(1) Section 83 of the 2025 Act (powers to be exercised only on application) does not affect any exercise of powers by the Certification Officer in relation to a specified failure or breach by a trade union in relation to which, before the commencement date, and whether or not following an application to the Officer by another person, the Officer—
+
+- (a) makes written enquiry of a trade union, or
+- (b) otherwise gives written notification to a trade union that the Officer is considering exercising their powers in relation to that failure or breach or possible failure or breach.
+
+(2) In this paragraph, “**specified**” means specified by the Officer (whether as a failure or breach or possible failure or breach) in the enquiry or notification referred to in sub-paragraph (1).
+
+### 17. Section 84 of the 2025 Act (removal of power to impose financial penalties)[^key-fd13be6b5c7ed70a954b97a89f712887]
+
+(1) Section 84 of the 2025 Act (removal of power to impose financial penalties) does not affect the operation of section 256D of, and Schedule A4 to, the 1992 Act[^f00055] as they had effect before the commencement date in relation to a person in default concerning a specified default under a relevant provision in relation to which, before the commencement date, and whether or not following an application to the Certification Officer by another person, the Officer—
+
+- (a) makes written enquiry of a trade union or other person, or
+- (b) otherwise gives written notification to a trade union or other person that the Officer is considering exercising their powers in relation to a failure or breach or threatened breach or possible failure or breach or threatened breach of a relevant provision.
+
+(2) In this paragraph—
+
+- “**person in default**” has the same meaning as Schedule A4 to the 1992 Act (see paragraph 1(2) of that Schedule), as it had effect before the commencement date;
+- “**relevant provision**” means a provision listed in paragraph 1(1) of Schedule A4 to the 1992 Act, as it had effect before the commencement date;
+- “**specified**” means specified by the Officer (whether as a failure or breach or threatened breach or possible failure or breach or threatened breach) in the enquiry or notification referred to in sub-paragraph (1).
+
+### 18. Section 86 of the 2025 Act (appeals to the Employment Appeal Tribunal)[^key-58731137ae3ea999b69f6a756e5e916f]
+
+(1) Section 86 of the 2025 Act (appeals to the Employment Appeal Tribunal) does not apply to an appeal on any question arising in proceedings before, or arising from any decision of, the Certification Officer that relates to conduct which occurs before the commencement date.
+
+(2) In this paragraph, “**conduct**” means the act or omission of a trade union or an employers’ association which gives rise to the proceedings before, or the decision of, the Certification Officer.
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations bring into force certain provisions of the Employment Rights Act [2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36) (“**the 2025 Act**”). These are the first commencement Regulations made under the 2025 Act. Certain provisions were brought into force upon Royal Assent by virtue of section 159(1) of the 2025 Act, and two months after Royal Assent by virtue of section 159(2) of the 2025 Act.
+
+Regulation 2 brings specified provisions of the 2025 Act into force on the day after the day on which these Regulations are made—
+
+- paragraphs (2), (3) and (5) bring into force in full or in part sections 1 to 6 and 8 of, and related Schedules 1 and 2 to, the 2025 Act which relate to zero hours workers, etc. to enable the making of regulations under new provisions being inserted into, or amended provisions of, the Employment Rights Act [1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18) (“**the 1996 Act**”). Paragraph (4) brings into force section 7 of the 2025 Act, which repeals the Workers (Predictable Terms and Conditions) Act [2023 (c. 46)](https://www.legislation.gov.uk/ukpga/2023/46);
+- paragraphs (6) to (8) bring into force sections 9 (right to request flexible working), 16 (paternity leave: removal of qualifying period of employment) and 17 (ability to take paternity leave following shared parental leave) of the 2025 Act. These provisions make amendments to provisions of the 1996 Act, for the purposes of making regulations under those amended provisions;
+- paragraph (9) brings into force specified subsections of section 18 of the 2025 Act (bereavement leave) for the purposes of making regulations. Those provisions amend Chapter 4 of Part 8 and other related provisions of the 1996 Act to extend powers to make regulations entitling employees to be absent from work on bereavement leave;
+- paragraph (10) brings into force, in part, section 24 of the 2025 Act (contractual duties of confidentiality relating to harassment and discrimination) to enable the making of regulations in anticipation of section 24 coming fully into force;
+- paragraph (11) commences section 26 (dismissal during pregnancy) and paragraph (12) commences, in part, section 27 (dismissal following period of statutory family leave) of the 2025 Act, which will enable regulations to be made extending the protections from dismissal of employees during and after a protected period of pregnancy or following periods of statutory leave for certain family reasons;
+- paragraphs (13) to (17) bring into force the following sections of the 2025 Act, to enable the making of regulations in anticipation of those sections coming fully into force—
+  - section 28 (dismissal for failing to agree to variation of contract, etc);
+  - section 29 (collective redundancy: extended application of requirements);
+  - section 30 (collective redundancy consultation: protected period);
+  - section 32 (public sector outsourcing: protection of workers);
+  - section 36 (extension of regulation of employment businesses);
+- paragraphs (18) to (24) and (37) bring into force specified provisions of Part 4 (trade unions and industrial action, etc) and Schedule 6 (trade union recognition) of the 2025 Act, which make a number of amendments to the Trade Union and Labour Relations (Consolidation) Act [1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52) (“**the 1992 Act**”), to enable the making of regulations and the preparation and publishing of Codes of Practice under the 1992 Act, in anticipation of those provisions of the 2025 Act coming fully into force;
+- paragraphs (25) to (34) and (38) to (40) bring into force, in full or in part, sections 90, 91, 103, 104, 108, 118, 135, 143, 149 and 151 of, and Schedules 7, 10 and 11 to, the 2025 Act (enforcement of labour market legislation), to enable the making of regulations and staff and property transfer schemes in preparation for the Secretary of State taking on enforcement functions under Part 5 of the 2025 Act;
+- paragraph (35) brings into force section 153 of the 2025 Act (orders and regulations under the 1996 Act: procedure), which amends section 236 of the 1996 Act to make further provision in relation to orders and regulations made under that Act.
+
+Regulation 3 brings into force, in part, sections 15 to 17 of the 2025 Act on 18th February 2026. Paragraphs (2) and (3)(b) bring sections 15 and 16 partially into force to enable the giving of notices and evidence in relation to parental leave and paternity leave prior to those sections coming fully into force. Paragraphs (3)(a) and (4) bring sections 16 and 17 into force in relation to cases where a child’s mother or adopter dies. Regulation 3 also brings into force, on 18th February 2026, the following sections of the 2025 Act—
+
+- section 31 (collective redundancy notifications: ships’ crew);
+- section 57 (international agreements relating to maritime employment);
+- section 76 (protection against detriment for taking industrial action);
+- section 77 (protection against dismissal for taking industrial action);
+- section 79 (annual returns: removal of provision about industrial action);
+- section 81 (removal of powers to enforce requirements relating to annual returns).
+
+Regulation 4 brings sections 15 to 17 of the 2025 Act into force, in so far as they are not already in force, on 6th April 2026.
+
+Regulation 5 introduces Schedule 1 to these Regulations, which makes transitional and saving provision in relation to the amendments made by sections 16 and 17 of the 2025 Act and brought into force by these Regulations.
+
+Regulation 6 introduces Schedule 2 to these Regulations. The 2025 Act repeals certain provisions of the Trade Union Act 2016 and makes other related amendments to the Trade Union and Labour Relations (Consolidation) Act 1992. Those changes relate to political funds, subscription deductions, facility time reporting, industrial action ballots, notices of industrial action, dismissal for taking industrial action, trade union annual returns and the functions of the Certification Officer. Schedule 2 makes savings and transitional provisions in relation to the commencement of those repeals and related amendments.
+
+The impact assessments completed for the Employment Rights Bill, introduced to Parliament on 10th October 2024, contain an assessment of the effect that the reforms to employment law and industrial relations law will have on the costs of business, the voluntary sector and the public sector. They are available at: https://bills.parliament.uk/bills/3737/publications. Printed copies can be obtained from the Department for Business and Trade, Old Admiralty Building, Admiralty Place, London, SWIA 2DY.
+
+## Annotations
+
+[^f00001]: Footnote: [2025 c. 36](https://www.legislation.gov.uk/ukpga/2025/36).
+
+[^key-ced34220b59565298000132e8163be5c]: Commencement: Reg. 1 in force at made date
+
+[^f00002]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
+
+[^f00003]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^f00004]: Footnote: See section 247 of the Trade Union and Labour Relations (Consolidation) Act [1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52).
+
+[^f00005]: Footnote: Sections 80A and 80B were inserted into the Employment Rights Act [1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18) (“**the 1996 Act**”) by section 1 of the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22). Section 80A was amended by paragraph 35 of Schedule 1 to the Work and Families Act [2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18), by section 118(6) of, and paragraph 32 of Schedule 7 to, the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6) (“**the 2014 Act**”), by section 1(1) and (2) of the Paternity Leave (Bereavement) Act [2024 (c. 17)](https://www.legislation.gov.uk/ukpga/2024/17) (“**the 2024 Act**”) and by sections 16(1) and 17(1) of the Employment Rights Act [2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36) (“**the 2025 Act**”) and applied with modifications by [S.I. 2014/3095](https://www.legislation.gov.uk/uksi/2014/3095) (amended by [S.I. 2018/1413](https://www.legislation.gov.uk/uksi/2018/1413)) to cases which involve an employee who has applied, or intends to apply, with another person for a parental order under section 54 of the Human Fertilisation and Embryology Act [2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22) and a child who is, or will be, the subject of the order (“parental order cases”). Section 80B was amended by sections 118(7), 121(2), 122(4), 128(2)(b) of, and paragraph 33 of Schedule 7 to, the 2014 Act, by section 1(1) and (3) of the 2024 Act, by sections 16(2) and 17(2) of the 2025 Act and by [S.I. 2016/413 (W. 131)](https://www.legislation.gov.uk/wsi/2016/413), and applied with modifications by [S.I. 2003/920](https://www.legislation.gov.uk/uksi/2003/920) to cases which involve adoption, but not the placement of a child for adoption under the law of any part of the United Kingdom, and by [S.I. 2014/3095](https://www.legislation.gov.uk/uksi/2014/3095) to parental order cases.
+
+[^f00006]: Footnote: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
+
+[^f00007]: Footnote: [2007 asp 4](https://www.legislation.gov.uk/asp/2007/4).
+
+[^f00008]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 22C was inserted by section 8(1) of the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23) and amended by section 2(2) and (3) of, and paragraph 29(a) and (b) of Schedule 2 to, the Children and Families Act 2014, [S.I. 2016/413 (W. 131)](https://www.legislation.gov.uk/wsi/2016/413) and [S.I. 2018/195 (W. 44)](https://www.legislation.gov.uk/wsi/2018/195).
+
+[^f00009]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4). Section 81 was amended by section 21(3) of the Health and Social Care (Wales) Act [2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1) and [S.I. 2017/1025 (W. 263)](https://www.legislation.gov.uk/wsi/2017/1025).
+
+[^f00010]: Footnote: [S.I. 2005/389](https://www.legislation.gov.uk/uksi/2005/389), amended by [S.I. 2013/985](https://www.legislation.gov.uk/uksi/2013/985) and [2020/909](https://www.legislation.gov.uk/uksi/2020/909). There are other amending instruments but none is relevant.
+
+[^f00011]: Footnote: [S.I. 2005/1313 (W. 95)](https://www.legislation.gov.uk/wsi/2005/1313), amended by [S.I. 2020/163 (W. 31)](https://www.legislation.gov.uk/wsi/2020/163) and [2020/1082 (W. 244)](https://www.legislation.gov.uk/wsi/2020/1082). There are other amending instruments but none is relevant.
+
+[^key-84517936494e1e193673a54299dbe8c1]: Commencement: Reg. 2 in force at made date
+
+[^f00012]: Footnote: Chapters 2 to 6 were inserted into Part 2A of the Employment Rights Act 1996 (“**the 1996 Act**”) by sections 1 to 5 of the Employment Rights Act 2025 (“**the 2025 Act**”). Schedule A1 was inserted into the 1996 Act by section 4(2) of, and Schedule 1 to, the 2025 Act. Part 2A was inserted into the 1996 Act by section 153(1) and (2) of the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26).
+
+[^f00013]: Footnote: Chapter 1 of Part 8A was inserted into the Employment Rights Act 1996 by section 47(1) and (2) of the Employment Act 2002. Relevant amendments to Chapter 1 were made by sections 12 and 15 of, and Schedule 2 to, the Work and Families Act 2006, sections 131 to 133 of the Children and Families Act 2014, section 1 of the Employment Relations (Flexible Working) Act [2023 (c. 33)](https://www.legislation.gov.uk/ukpga/2023/33) and by section 9(1) to (5) of the Employment Rights Act 2025.
+
+[^f00014]: Footnote: Section 47C was inserted into the Employment Rights Act 1996 (“**the 1996 Act**”) by paragraphs 5 and 8 of Part 3 of Schedule 4 to the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26) and amended by paragraph 31(b) of Schedule 7 to the Children and Families Act 2014 and by paragraphs 20 and 22 of the Schedule to the Parental Bereavement (Leave and Pay Act) [2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24) (“**the 2018 Act**”). Section 80EA was inserted into the 1996 Act by paragraphs 1 and 2 of the Schedule to the 2018 Act and amended by section 18(1) and (3) of the Employment Rights Act 2025 (“**the 2025 Act**”). Section 99(3) of the 1996 Act was amended by paragraphs 20 and 27 of the Schedule to the 2018 Act to insert sub-paragraph (cb) to include “parental bereavement leave”, which was amended by section 18(10) of the 2025 Act.
+
+[^f00015]: Footnote: Section 202A was inserted into the Employment Rights Act 1996 by section 24(1) and (2) of the Employment Rights Act 2025.
+
+[^key-278d7d31574c02f243a1324e42ff2163]: Textual amendment: Reg. 2(10)(c) omitted (16.3.2026) by virtue of [The Employment Rights Act 2025 (Commencement No. 2 and Transitional and Saving Provisions) (Amendment) Regulations 2026 (S.I. 2026/323)](https://www.legislation.gov.uk/uksi/2026/323), [reg. 9(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/9/2)
+
+[^f00016]: Footnote: Section 80EF was inserted into the Employment Rights Act 1996 by paragraphs 1 and 2 of the Schedule to the Neonatal Care (Leave and Pay) Act [2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20).
+
+[^key-9f029f7803acdce92a152bd2bfbf6fb6]: Textual amendment: Word in reg. 2(13)(b) substituted (16.3.2026) by [The Employment Rights Act 2025 (Commencement No. 2 and Transitional and Saving Provisions) (Amendment) Regulations 2026 (S.I. 2026/323)](https://www.legislation.gov.uk/uksi/2026/323), [reg. 9(3)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/9/3/a)
+
+[^key-4e8a3ed81f6865aac0a87d282f806b39]: Textual amendment: Words in reg. 2(13)(b) omitted (16.3.2026) by virtue of [The Employment Rights Act 2025 (Commencement No. 2 and Transitional and Saving Provisions) (Amendment) Regulations 2026 (S.I. 2026/323)](https://www.legislation.gov.uk/uksi/2026/323), [reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2026/323/regulation/9/3/b)
+
+[^f00017]: Footnote: Sections 104I to 104K were inserted into the Employment Rights Act 1996 by section 28(1) to (3) of the Employment Rights Act 2025.
+
+[^f00018]: Footnote: Section 195A was inserted into the Trade Union and Labour Relations (Consolidation) Act 1992 by section 29(1) and (5) of the Employment Rights Act 2025.
+
+[^f00019]: Footnote: Part 5A was inserted into the Procurement Act [2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54) by section 32(1) and (2) of the Employment Rights Act 2025.
+
+[^f00020]: Footnote: [1973 c. 35](https://www.legislation.gov.uk/ukpga/1973/35). Section 5 of the Employment Agencies Act 1973 (“**the 1973 Act**”) was amended by paragraphs 1 and 2 of Schedule 7 to the Employment Relations Act 1999 (“**the 1999 Act**”) and by section 15 of the Employment Act [2008 (c. 24)](https://www.legislation.gov.uk/ukpga/2008/24) (“**the 2008 Act**”). Section 6 of the 1973 Act was substituted by paragraphs 1 and 3 of Schedule 7 to the 1999 Act and amended by section 15 of the 2008 Act.
+
+[^f00021]: Footnote: Section 136A was inserted into the Trade Union and Labour Relations (Consolidation) Act 1992 by section 58(1) and (2) of the Employment Rights Act 2025.
+
+[^f00022]: Footnote: Chapter 5ZA was inserted into the Trade Union and Labour Relations (Consolidation) Act 1992 by section 59(1) and (2) of the Employment Rights Act 2025.
+
+[^f00023]: Footnote: Section 199 of the Trade Union and Labour Relations (Consolidation) Act 1992 was amended by section 43(1) and (7) of the Employment Act 2002.
+
+[^f00024]: Footnote: Section 236A was inserted into the Trade Union and Labour Relations (Consolidation) Act 1992 by section 76(1) and (2) of the Employment Rights Act 2025.
+
+[^f00025]: Footnote: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17).
+
+[^f00026]: Footnote: Paragraph 1 and Parts 2 to 5 of Schedule 6 to the Employment Rights Act 2025 amend Schedule A1 to the Trade Union and Labour Relations (Consolidation) Act 1992 (“**the 1992 Act**”) (collective bargaining: recognition). Schedule A1 was inserted into the 1992 Act by the Employment Relations Act 1999, section 1(1) and (3) and Schedule 1.
+
+[^f00027]: Footnote: [2004 c. 11](https://www.legislation.gov.uk/ukpga/2004/11).
+
+[^f00028]: Footnote: Section 8 of the Gangmasters (Licensing) Act 2004 was amended by paragraph 18 of Schedule 3 to the Immigration Act [2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19).
+
+[^f00029]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60). Section 114B was inserted into the Police and Criminal Evidence Act 1984 by section 12(1) of the Immigration Act 2016.
+
+[^f00030]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30). Section 26CA was inserted into the Police Reform Act 2002 by paragraph 74(1) and (3) of Schedule 10 to the Employment Rights Act 2025.
+
+[^key-3ad465c42694e0a1a13247c0d6f7f0b7]: Commencement: Reg. 3 in force at made date
+
+[^f00031]: Footnote: [S.I. 1999/3312](https://www.legislation.gov.uk/uksi/1999/3312). Schedule 2 to [S.I. 1999/3312](https://www.legislation.gov.uk/uksi/1999/3312) was amended by [S.I. 2001/4010](https://www.legislation.gov.uk/uksi/2001/4010) and [2014/3221](https://www.legislation.gov.uk/uksi/2014/3221). There are other amending instruments but none is relevant.
+
+[^f00032]: Footnote: See sections 80A(6A) and 80B(6C) of the Employment Rights Act 1996.
+
+[^f00033]: Footnote: See sections 80A(6A) and 80B(6C) of the Employment Rights Act 1996.
+
+[^key-2d0f156c241b2d4d8fd3fcd30361fe8c]: Commencement: Reg. 4 in force at made date
+
+[^key-392b0d2bd4f1e65ea49f9e453b4f0794]: Commencement: Reg. 5 in force at made date
+
+[^key-4b78933072b7cef8760db269c36251ce]: Commencement: Reg. 6 in force at made date
+
+[^f00034]: Footnote: Section 159(2) of the Employment Rights Act 2025 (commencement) provides that sections 62, 63, 66, 69, 71, 72, 74, 80, 82 to 84 and 86 of that Act come into force at the end of the period of two months beginning with the day on which that Act is passed.
+
+[^key-18d26f735a43b8a9bce3c2548b61e1b5]: Commencement: Sch. 1 para. 1 in force at made date
+
+[^key-c840166f5ca32e96c016e8507b5c9c8c]: Commencement: Sch. 1 para. 2 in force at made date
+
+[^key-b61239beae68e11654ba5f3bb657fb1b]: Commencement: Sch. 1 para. 3 in force at made date
+
+[^key-677ca7ff83dc5c8866649d62e80abb10]: Commencement: Sch. 1 para. 4 in force at made date
+
+[^f00035]: Footnote: [2008 c. 22](https://www.legislation.gov.uk/ukpga/2008/22). Section 54 has been amended on a number of occasions but none of those amendments are relevant to these Regulations.
+
+[^f00036]: Footnote: [S.I. 2005/392](https://www.legislation.gov.uk/uksi/2005/392), amended by [S.I. 2005/3482](https://www.legislation.gov.uk/uksi/2005/3482), [2009/2563](https://www.legislation.gov.uk/uksi/2009/2563), [2010/1172](https://www.legislation.gov.uk/uksi/2010/1172), [2012/1410](https://www.legislation.gov.uk/uksi/2012/1410), [2013/235](https://www.legislation.gov.uk/uksi/2013/235), [2014/2103](https://www.legislation.gov.uk/uksi/2014/2103), [2020/163](https://www.legislation.gov.uk/uksi/2020/163), [2022/634](https://www.legislation.gov.uk/uksi/2022/634) and [2023/1071](https://www.legislation.gov.uk/uksi/2023/1071).
+
+[^f00037]: Footnote: [S.S.I. 2009/182](https://www.legislation.gov.uk/ssi/2009/182), amended by [S.S.I. 2010/173](https://www.legislation.gov.uk/ssi/2010/173), [2010/421](https://www.legislation.gov.uk/ssi/2010/421) and [2011/159](https://www.legislation.gov.uk/ssi/2011/159).
+
+[^key-02f4b9aab905a24e0960b35c2ca00d32]: Commencement: Sch. 1 para. 5 in force at made date
+
+[^key-a0dadcd2908c1a889e2a5ead4ca157ae]: Commencement: Sch. 2 para. 1 in force at made date
+
+[^key-ca94d4e0958ea10a40e57ced71645e5c]: Commencement: Sch. 2 para. 2 in force at made date
+
+[^f00038]: Footnote: Section 84 of the Trade Union and Labour Relations (Consolidation) Act 1992 was substituted by section 11(1) of the Trade Union Act [2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15).
+
+[^f00039]: Footnote: See section 82(1)(a) of the Trade Union and Labour Relations (Consolidation) Act 1992.
+
+[^key-3e0c201f7b5ae526cc430aa48b444cf4]: Commencement: Sch. 2 para. 3 in force at made date
+
+[^key-64cefe5fe033b16db7cc126230770c4a]: Commencement: Sch. 2 para. 4 in force at made date
+
+[^f00040]: Footnote: Section 84A was inserted into the Trade Union and Labour Relations (Consolidation) Act 1992 by section 11(2) of the Trade Union Act 2016.
+
+[^key-25024bdf20894227bd87fad2765e19ad]: Commencement: Sch. 2 para. 5 in force at made date
+
+[^f00041]: Footnote: Section 116B was inserted into the Trade Union and Labour Relations (Consolidation) Act 1992 by section 15(1) of the Trade Union Act 2016 and amended by section 1(2) of the Trade Union (Wales) Act [2017 (anaw 4)](https://www.legislation.gov.uk/anaw/2017/4).
+
+[^key-096c543d2a4e0bb522ccc575dfe4e9c1]: Commencement: Sch. 2 para. 6 in force at made date
+
+[^f00042]: Footnote: Section 172A was inserted into the Trade Union and Labour Relations (Consolidation) Act 1992 by section 13 of the Trade Union Act 2016 and amended by section 1(3) of the Trade Union (Wales) Act 2017.
+
+[^f00043]: Footnote: [S.I. 2017/328](https://www.legislation.gov.uk/uksi/2017/328); there are amending instruments but none is relevant.
+
+[^key-d8e75abe03c3bcc7cba6c7d97b0ac1a5]: Commencement: Sch. 2 para. 7 in force at made date
+
+[^key-9d9970bec240587e8f9c4f666bd7f7a1]: Commencement: Sch. 2 para. 8 in force at made date
+
+[^f00044]: Footnote: Section 226A was inserted into the Trade Union and Labour Relations (Consolidation) Act 1992 by section 18(2) of the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19). Section 226A was amended by section 22(2) to (6) of the Employment Relations Act [2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24).
+
+[^key-e26d9ff05b518cbfe0fca17ec319271b]: Commencement: Sch. 2 para. 9 in force at made date
+
+[^key-12d21ea58cba85cead86623b18e74e87]: Commencement: Sch. 2 para. 10 in force at made date
+
+[^f00045]: Footnote: Section 296 of the Trade Union and Labour Relations (Consolidation) Act 1992 was amended by paragraph 88 of Schedule 8 to the Trade Union Reform and Employment Rights Act 1993, paragraph 21 of Schedule 1 to the Employment Relations Act 2004 and section 15(2) of the Trade Union Act 2016.
+
+[^f00046]: Footnote: Section 234A was inserted into the Trade Union and Labour Relations (Consolidation) Act 1992 by section 21 of the Trade Union Reform and Employment Rights Act 1993. Section 234A was amended by the Employment Relations Act 1999, sections 4 and 11, paragraph 1 and 11 of Schedule 3 and paragraph 1 of Schedule 9; the Employment Relations Act 2004, section 25 and Schedule 2; the Trade Union Act 2016, section 8; and the Strikes (Minimum Service Levels) Act [2023 (c. 39)](https://www.legislation.gov.uk/ukpga/2023/39), paragraph 5 of Schedule 1.
+
+[^key-d65fa2f7048ce8834666f317e0a83d47]: Commencement: Sch. 2 para. 11 in force at made date
+
+[^f00047]: Footnote: Section 238A was inserted into the Trade Union and Labour Relations (Consolidation) Act 1992 by paragraph 3 of Schedule 5 to the Employment Relations Act 1999.
+
+[^key-e1c138ea56b9735a0d5ddfe75f1d1791]: Commencement: Sch. 2 para. 12 in force at made date
+
+[^f00048]: Footnote: Section 32ZA was inserted into the Trade Union and Labour Relations (Consolidation) Act 1992 by section 7(1) of the Trade Union Act 2016.
+
+[^f00049]: Footnote: Section 32 of the Trade Union and Labour Relations (Consolidation) Act 1992 was amended by section 8 of, and paragraph 42 of Schedule 8 and Schedule 10 to, the Trade Union Reform and Employment Rights Act 1993.
+
+[^key-7a9e31df48e5d48e70c79909d4040e10]: Commencement: Sch. 2 para. 13 in force at made date
+
+[^f00050]: Footnote: Section 32ZB was inserted into the Trade Union and Labour Relations (Consolidation) Act 1992 by section 12(1) of the Trade Union Act 2016.
+
+[^f00051]: Footnote: Section 131 of the Trade Union and Labour Relations (Consolidation) Act 1992 was amended by paragraph 64 of Schedule 8 to the Trade Union Reform and Employment Rights Act 1993 and by section 12(2) of the Trade Union Act 2016.
+
+[^f00052]: Footnote: Section 32ZC was inserted into the Trade Union and Labour Relations (Consolidation) Act 1992 by section 18(1) of the Trade Union Act 2016.
+
+[^key-9b59d24639ec36a39aebe8a622c1aff4]: Commencement: Sch. 2 para. 14 in force at made date
+
+[^f00053]: Footnote: Section 45D was inserted into the Trade Union and Labour Relations (Consolidation) Act 1992 (“**the 1992 Act**”) by paragraph 8 of Schedule 6 to the Employment Relations Act 1999. Section 45D of the 1992 Act was amended by section 43(6) of the Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act [2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4) and by the Trade Union Act 2016, sections 18(4) and 21(a) and paragraphs 3(a) and (b) of Schedule 4.
+
+[^key-74c6db1592acaf3b915f1d451377c887]: Commencement: Sch. 2 para. 15 in force at made date
+
+[^f00054]: Footnote: Schedule A3 was inserted into the Trade Union and Labour Relations (Consolidation) Act 1992 by Schedule 1 to the Trade Union Act 2016.
+
+[^key-3265e0367e5d453d67376523f6ec0fa2]: Commencement: Sch. 2 para. 16 in force at made date
+
+[^key-fd13be6b5c7ed70a954b97a89f712887]: Commencement: Sch. 2 para. 17 in force at made date
+
+[^f00055]: Footnote: Section 256D was inserted into the Trade Union and Labour Relations (Consolidation) Act 1992 (“**the 1992 Act**”) by section 19(1) of the Trade Union Act 2016. Schedule A4 was inserted into the 1992 Act by Schedule 3 to the Trade Union Act 2016.
+
+[^key-58731137ae3ea999b69f6a756e5e916f]: Commencement: Sch. 2 para. 18 in force at made date

@@ -1,0 +1,257 @@
+---
+title: The Social Fund Cold Weather Payments (General) Amendment (No.2) Regulations 2015
+id: uksi/2015/1662
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2015-09-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2015/1662
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/1662/pdfs/uksiem_20151662_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1662/pdfs/uksi_20151662_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1662/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Fund Cold Weather Payments (General) Amendment (No.2) Regulations 2015
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2015 No. 1662
+
+Social Security
+
+The Social Fund Cold Weather Payments (General) Amendment (No.2) Regulations 2015
+
+Made
+
+7th September 2015
+
+Laid before Parliament
+
+14th September 2015
+
+Coming into force
+
+1st November 2015
+
+The Secretary of State for Work and Pensions makes the following Regulations, in exercise of the powers conferred by sections 138(2) and 175(1), (3) and (5) of the Social Security Contributions and Benefits Act 1992[^f00001].
+
+The Social Security Advisory Committee has agreed that proposals in respect of these Regulations should not be referred to it[^f00002].
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Fund Cold Weather Payments (General) Amendment (No.2) Regulations 2015 and shall come into force on 1st November 2015.
+
+(2) In these Regulations “the principal Regulations” means the Social Fund Cold Weather Payments (General) Regulations 1988[^f00003].
+
+## 2. Amendment of the principal Regulations
+
+(1) For Schedule 1[^f00004] (identification of stations and postcode districts) to the principal Regulations, substitute the Schedule set out in Schedule 1 to these Regulations.
+
+(2) For Schedule 2[^f00005] (specified alternative stations) to the principal Regulations, substitute the Schedule set out in Schedule 2 to these Regulations.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Altmann
+
+Minister of State,
+
+Department for Work and Pensions
+
+7th September 2015
+
+## SCHEDULE 1 — Schedule to be substituted for Schedule 1 to the principal Regulations
+
+Regulation 2(1)
+
+> **SCHEDULE 1 — IDENTIFICATION OF STATIONS AND POSTCODE DISTRICTS**
+>
+> Regulation 2(1), (1A) and (2)
+>
+> | *Column (1)*<br>*Meteorological Office Station* | *Column (2)*<br>*Postcode Districts* |
+> | --- | --- |
+> | 1\. Aberporth | SA35-48, SA64-65. |
+> | 2\. Aboyne No 2 | AB30-34, AB38, AB51-55, DD8-9. |
+> | 3\. Albemarle | DH1-7, DH9, DL4-5, DL14-17, NE1-13, NE15-18, NE20-21, NE23, NE 25-46, SR1-7, TS21, TS28-29. |
+> | 4\. Andrewsfield | CB1-5, CB10-11, CB21-25, CM1-9, CM11-24, CM77, CO9, RM4, SG8-11. |
+> | 5\. Auchincruive | DG9, KA1-26, KA28-30, PA20. |
+> | 6\. Aultbea No 2 | IV21-22, IV26. |
+> | 7\. Aviemore | AB37, IV13, PH19-26. |
+> | 8\. Bainbridge | BD23-24, DL8, DL11-13. |
+> | 9\. Bedford | MK1-19, MK40-46, NN1-16, NN29, PE19, SG5-7, SG15-19. |
+> | 10\. Bingley, No 2 | BB4, BB8-12, BB18, BD1-22, HD3, HD7-9, HX1-7, LS21, LS29, OL13-14, S36. |
+> | 11\. Boscombe Down | BA12, RG28, SO20-23, SP1-5, SP7, SP9-11. |
+> | 12\. Braemar No 2 | AB35-36, PH10-11, PH18. |
+> | 13\. Brize Norton | OX1-6, OX8, OX10-14, OX18, OX20, OX25-29, OX33, OX44, SN7. |
+> | 14\. Capel Curig No 3 | LL24-25, LL41. |
+> | 15\. Cardinham, Bodmin | PL13-18, PL22-35, TR9. |
+> | 16\. Carlisle | CA1-8, DG12, DG16. |
+> | 17\. Cassley | IV27-28, KW11, KW13. |
+> | 18\. Charlwood | BN5-6, BN44, GU5-6, ME6, ME14-20, RH1-20, TN1-20, TN22, TN27. |
+> | 19\. Charterhall | NE71, TD1-6, TD8, TD10-15. |
+> | 20\. Chivenor | EX23, EX31-34, EX39. |
+> | 21\. Coleshill | B1-21, B23-38, B40, B42-50, B60-80, B90-98, CV1-12, CV21-23, CV31-35, CV37, CV47, DY1-14, LE10, WS1-15, WV1-16. |
+> | 22\. Crosby | CH41-49, CH60-66, FY1-8, L1-40, PR1-5, PR8-9, PR25-26. |
+> | 23\. Culdrose | TR1-8, TR10-20, TR26-27. |
+> | 24\. Dunkeswell Aerodrome | DT6-8, EX1-5, EX8-15, EX24, TA21. |
+> | 25\. Dunstaffnage | PA30-31, PA34-35, PA37-38, PA62-65, PA67-75, PA80. |
+> | 26\. Dyce | AB10-16, AB21-25, AB39, AB41-43. |
+> | 27\. Edinburgh, Gogarbank | EH1-42, EH47-49, EH51-55, FK1-7, FK9-10, KY3, KY11-12. |
+> | 28\. Eskdalemuir | DG3-4, DG10-11, DG13-14, ML12, TD7, TD9. |
+> | 29\. Filton | BS1-11, BS13-16, BS20-24, BS29-32, BS34-37, BS39-41, BS48-49, GL11-13, NP16, NP26. |
+> | 30\. Fylingdales | YO13, YO18, YO21-22, YO62. |
+> | 31\. Glasgow, Bishopton | G1-5, G11-15, G20-23, G31-34, G40-46, G51-53, G60-62, G64, G66, G69, G71-78, G81-84, ML4-5, PA1-19, PA21-27, PA32. |
+> | 32\. Gravesend, Broadness | BR5-8, CM0, DA1-18, ME1-5, ME7-8, RM1-3, RM5-20, SS0-17. |
+> | 33\. Hawarden Airport | CH1-8, LL11-14, SY14. |
+> | 34\. Heathrow | BR1-4, CR0, CR2-9, E1-18, E20, EC1-4, EN1-5, EN7-11, HA0-9, IG1-11, KT1-24, N1-22, NW1-11, SE1-28, SL0, SL3, SM1-7, SW1-20, TW1-20, UB1-11, W1-14, WC1-2, WD1-2. |
+> | 35\. Hereford, Credenhill | GL1-6, GL10, GL14-20, GL50-53, HR1-9, NP7-8, NP15, NP25, SY8, WR1-11, WR13-15. |
+> | 36\. Herstmonceux, West End | BN7-8, BN20-24, BN26-27, TN21, TN31-40. |
+> | 37\. High Wycombe, HQ Air | HP5-23, HP27, OX9, OX39, OX49, RG9, SL7-9. |
+> | 38\. Hurn | BH1-25, BH31, DT1-2, DT11, SP6. |
+> | 39\. Isle of Portland | DT3-5. |
+> | 40\. Keele | CW1-3, CW5, CW12, ST1-8, ST11-12, ST14-21. |
+> | 41\. Kinloss | AB44-45, AB56, IV1-3, IV5, IV7-12, IV15-20, IV30-32, IV36. |
+> | 42\. Kirkwall | KW15-17. |
+> | 43\. Lake Vyrnwy No 2 | LL20-21, LL23, SY10, SY15-17, SY19, SY21-22. |
+> | 44\. Langdon Bay | CT1-21, ME9-13, TN23-26, TN28-30. |
+> | 45\. Leconfield | DN14, HU1-20, YO11-12, YO14-17, YO25. |
+> | 46\. Leek, Thorncliffe | DE4, DE45, S32-33, SK13, SK17, SK22-23, ST9-10, ST13. |
+> | 47\. Lerwick | ZE1-3. |
+> | 48\. Leuchars | DD1-7, DD10-11, KY1-2, KY6-10, KY15-16, PH12, PH14. |
+> | 49\. Linton on Ouse | DL1-3, DL6-7, DL9-10, HG1-5, LS1-20, LS22-28, TS9, TS15-16, YO1, YO7-8, YO10, YO19, YO23-24, YO26, YO30-32, YO41-43, YO51, YO60-61. |
+> | 50\. Liscombe | EX16, EX35-36, TA22, TA24. |
+> | 51\. Little Rissington | CV36, GL54-56, OX7, OX15-17, WR12. |
+> | 52\. Llysdinam | LD1-8, SA19-20, SY7, SY9, SY18. |
+> | 53\. Loch Glascarnoch | IV4, IV6, IV14, IV23-24, IV63. |
+> | 54\. Loftus | SR8, TS1-8, TS10-14, TS17-20, TS22-27. |
+> | 55\. Machrihanish | KA27, PA28-29, PA41-49, PA60. |
+> | 56\. Marham | CB6-7, IP24-28, PE12-14, PE30-38. |
+> | 57\. Mona | LL33-34, LL42-49, LL51-78. |
+> | 58\. Morpeth, Cockle Park | NE22, NE24, NE61-70. |
+> | 59\. North Wyke | EX6-7, EX17-22, EX37-38, PL19-21, TQ1-6, TQ9-14. |
+> | 60\. Nottingham, Watnall | CV13, DE1-3, DE5-7, DE11-15, DE21-24, DE55-56, DE65, DE72-75, LE1-9, LE11-14, LE16-19, LE65, LE67, NG1-22, NG25, NG31-34. |
+> | 61\. Pembrey Sands | SA1-8, SA14-18, SA31-34, SA61-63, SA66-73. |
+> | 62\. Plymouth, Mountbatten | PL1-12, TQ7-8. |
+> | 63\. Redesdale Camp | CA9, DH8, NE19, NE47-49. |
+> | 64\. Rhyl No 2 | LL15-19, LL22, LL26-32. |
+> | 65\. Rochdale | BL0-9, M24, M26, OL1-12, OL15-16, SK15. |
+> | 66\. Rostherne No 2 | CW4, CW6-11, M1-9, M11-23, M25, M27-35, M38, M40-41, M43-46, M50, M90, PR7, SK1-12, SK14, SK16, WA1-16, WN1-8. |
+> | 67\. Rothamsted | AL1-10, EN6, HP1-4, LU1-7, SG1-4, SG12-14, WD3-7, WD17-19, WD23-25. |
+> | 68\. St. Athan | CF3, CF5, CF10-11, CF14-15, CF23-24, CF31-36, CF61-64, CF71-72, NP10, NP18-20, SA10-13. |
+> | 69\. St. Bees Head No 2 | CA13-15, CA18-28. |
+> | 70\. Salsburgh | EH43-46, G65, G67-68, ML1-3, ML6-11. |
+> | 71\. Scilly: St. Marys Airport | TR21-25. |
+> | 72\. Shap | CA10-12, CA16-17, LA8-10, LA21-23. |
+> | 73\. Shawbury | SY1-6, SY11-13, TF1-13. |
+> | 74\. Sheffield | DN1-8, DN11-12, HD1-2, HD4-6, S1-14, S17-18, S20-21, S25-26, S35, S40-45, S60-66, S70-75, S80-81, WF1-17. |
+> | 75\. Skye: Lusa | IV40-49, IV51-56, PH36, PH38-41. |
+> | 76\. South Farnborough | GU1-4, GU7-35, GU46-47, GU51-52, RG1-2, RG4-8, RG10, RG12, RG14, RG18-27, RG29-31, RG40-42, RG45, SL1-2, SL4-6, SO24. |
+> | 77\. Stonyhurst | BB1-3, BB5-7, LA2, LA6-7, PR6. |
+> | 78\. Stornoway Airport | HS1-9. |
+> | 79\. Strathallan Airfield | FK8, FK11-19, G63, KY4-5, KY13-14, PH1-7, PH13. |
+> | 80\. Thorney Island | BN1-3, BN9-18, BN25, BN41-43, BN45, PO1-22, PO30-41, SO14-19, SO30-32, SO40-43, SO45, SO50-53. |
+> | 81\. Threave | DG1-2, DG5-8. |
+> | 82\. Tibenham Airfield | NR1-35. |
+> | 83\. Tiree | PA61, PA66, PA76-78, PH42-44. |
+> | 84\. Trawsgoed | LL35-40, SY20, SY23-25. |
+> | 85\. Tredegar, Bryn Bach Park No 2 | CF37-48, CF81-83, NP4, NP11-13, NP22-24, NP44, SA9. |
+> | 86\. Tulloch Bridge | FK20-21, PA33, PA36, PA40, PH8-9, PH15-17, PH30-35, PH37, PH49-50. |
+> | 87\. Waddington | DN9-10, DN13, DN15-22, DN31-41, LN1-13, NG23-24, PE10-11, PE20-25. |
+> | 88\. Walney Island | LA1, LA3-5, LA11-20. |
+> | 89\. Wattisham | CB8-9, CO1-8, CO10-16, IP1-23, IP29-33. |
+> | 90\. Westonbirt | BA1-3, BA11, BA13-15, GL7-9, RG17, SN1-6, SN8-16, SN25-26. |
+> | 91\. Wick Airport | IV25, KW1-3, KW5-10, KW12, KW14. |
+> | 92\. Wittering | LE15, NN17-18, PE1-9, PE15-17, PE26-29. |
+> | 93\. Yeovilton | BA4-10, BA16, BA20-22, BS25-28, DT9-10, SP8, TA1-20, TA23. |
+
+## SCHEDULE 2 — Schedule to be substituted for Schedule 2 to the principal Regulations
+
+Regulation 2(2)
+
+> **SCHEDULE 2 — SPECIFIED ALTERNATIVE STATIONS**
+>
+> Regulation 2(1), (1A) and (2)
+>
+> | *Column (1)*<br>*Meteorological Office Station* | *Column (2)*<br>*Specified Alternative Station* |
+> | --- | --- |
+> | Aberporth | Pembrey Sands |
+> | Albemarle | Redesdale Camp |
+> | Bingley, No 2 | Stonyhurst |
+> | Boscombe Down | Westonbirt |
+> | Braemar No 2 | Aboyne No 2 |
+> | Capel Curig No 3 | Lake Vyrnwy No 2 |
+> | Cardinham, Bodmin | North Wyke |
+> | Carlisle | Keswick |
+> | Charlwood | Kenley Airfield |
+> | Coleshill | Pershore College |
+> | Crosby | Rhyl No 2 |
+> | Culdrose | Scilly: St. Marys Airport |
+> | Dunstaffnage | Skye: Lusa |
+> | Edinburgh, Gogarbank | Strathallan Airfield |
+> | Eskdalemuir | Redesdale Camp |
+> | Gravesend, Broadness | Kenley Airfield |
+> | Hawarden Airport | Crosby |
+> | Heathrow | Gravesend, Broadness |
+> | Hereford, Credenhill | Pershore College |
+> | High Wycombe, HQ Air | Rothamsted |
+> | Hurn | Swanage |
+> | Keele | Shawbury |
+> | Kinloss | Lossiemouth |
+> | Lake Vyrnwy No 2 | Shawbury |
+> | Langdon Bay | Gravesend, Broadness |
+> | Leconfield | Linton on Ouse |
+> | Linton on Ouse | Bramham |
+> | Liscombe | North Wyke |
+> | Llysdinam | Sennybridge No 2 |
+> | Mona | Rhyl No 2 |
+> | North Wyke | Okehampton, East Okement Farm |
+> | Redesdale Camp | Albemarle |
+> | Rhyl No 2 | Crosby |
+> | Rochdale | Rostherne No 2 |
+> | St. Athan | Mumbles Head |
+> | St. Bees Head No 2 | Threave |
+> | Shap | Keswick |
+> | Sheffield | Nottingham, Watnall |
+> | Stonyhurst | Bingley, No 2 |
+> | Thorney Island | Hurn |
+> | Threave | Dundrennan |
+> | Tiree | Skye: Lusa |
+> | Trawsgoed | Llysdinam |
+> | Tredegar, Bryn Bach Park No 2 | Sennybridge No 2 |
+> | Tulloch Bridge | Aviemore |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Social Fund Cold Weather Payments (General) Regulations 1988 ([S.I. 1988/1724](https://www.legislation.gov.uk/uksi/1988/1724)) (“the principal Regulations”).
+
+Schedule 1 to the principal Regulations designates the relevant primary weather station for specified postcodes. A designated weather station records or forecasts periods of cold weather, which are then used to determine eligibility for cold weather payments for claimants living in postcodes assigned to that weather station. Schedule 2 to those Regulations specifies alternative stations used to provide this information where the primary station is unable to do so. Where there is no specified alternative station for the relevant primary station, the nearest primary station able to provide this information is used.
+
+Regulation 2(1) substitutes the Schedule set out in Schedule 1 to these Regulations for the existing Schedule 1 to the principal Regulations. In the new Schedule 1 Tibenham Airfield replaces the station at Norwich Airport as a primary weather station and all postcodes currently linked to Norwich Airport are assigned to Tibenham Airfield. Llysdinam replaces the station at Sennybridge as a primary weather station and all postcodes currently linked to Sennybridge are assigned to Llysdinam.
+
+Regulation 2(2) substitutes the Schedule set out in Schedule 2 to these Regulations for the existing Schedule 2 to the principal Regulations. The new Schedule 2 specifies Shawbury as the alternative station for Lake Vyrnwy No 2, Sennybridge No 2 as the alternative station for Llysdinam and Tredegar, Bryn Bach Park No 2, and Llysdinam as the alternative station for Trawsgoed. Sennybridge is removed from Schedule 2 as a primary station.
+
+Minor changes are made in both the new Schedule 1 and new Schedule 2 to reflect the official station names.
+
+The Postcode Atlas of Great Britain and Northern Ireland and the postcode maps may be obtained from Harper Collins, United Kingdom, 2012, ISBN 0007443072. A person may establish the current postcode for his or her address by contacting the Royal Mail Postcode Enquiries office (telephone 0906 302 1222 (Monday to Friday, 8am – 4pm) or 08457 111 222 (Monday – Friday, 4pm – 6pm and Saturday, 8am – 1pm)) or through the Royal Mail Website at www.royalmail.com.
+
+A full impact assessment has not been published for this instrument as it has no impact on the private sector or civil society organisations.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 138(4) defines “prescribed” as meaning “specified in or determined in accordance with regulations”. Amendments not material to these Regulations have been made to section 175(1).
+
+[^f00002]: Footnote: *See* sections 170, 172 and 173(1)(b) of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5). Amendments not relevant to these Regulations have been made to section 170.
+
+[^f00003]: Footnote: [S.I. 1988/1724](https://www.legislation.gov.uk/uksi/1988/1724).
+
+[^f00004]: Footnote: Schedule 1 was last substituted by [S.I. 2014/2687](https://www.legislation.gov.uk/uksi/2014/2687) and amended by [S.I. 2015/183](https://www.legislation.gov.uk/uksi/2015/183).
+
+[^f00005]: Footnote: Schedule 2 was last substituted by [S.I. 2014/2687](https://www.legislation.gov.uk/uksi/2014/2687).

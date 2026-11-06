@@ -1,0 +1,51 @@
+---
+title: Finance Act 2020, section 52
+act: Finance Act 2020
+section: '52'
+status: revised
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2020/14/section/52
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2020, section 52
+
+> Text as at 2026-03-18.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 52. Meaning of “the responsible member”
+
+*Extent: E+W+S+N.I.*
+
+(1) In this Part any reference to “the responsible member” of a group, at any time, is a reference to the following person—
+
+- (a) if at that time a nomination under subsection (2) is in force, the person nominated;
+- (b) otherwise, the parent of the group.
+
+(2) The parent of a group may nominate a person to be “the responsible member” of the group if—
+
+- (a) the person is a member of the group,
+- (b) the person is a company, and
+- (c) the parent agrees in writing to provide the person with everything the person may reasonably require in order to comply with—
+  - (i) any obligation imposed by or under this Part, or
+  - (ii) any other obligation imposed on the person in connection with any digital services tax liability of any member of the group.
+
+(3) A nomination is in force from the time it is made until any of the following events occurs—
+
+- (a) the parent nominates another person;
+- (b) the person nominated ceases to be a member of the group or ceases to be a company;
+- (c) an officer of Revenue and Customs or the parent revokes the nomination.
+
+(4) An officer of Revenue and Customs may revoke a nomination only if the officer has reason to believe that the person nominated—
+
+- (a) is not being provided with something the person reasonably requires in order to comply with an obligation of a kind mentioned in subsection (2)(c), or
+- (b) is not complying with any such obligation.
+
+(5) An officer of Revenue and Customs revokes a nomination by notifying the parent and the nominated person of the revocation.
+
+The revocation has effect when the notification is issued.
+
+(6) Any nomination, or revocation of a nomination, must be in writing.

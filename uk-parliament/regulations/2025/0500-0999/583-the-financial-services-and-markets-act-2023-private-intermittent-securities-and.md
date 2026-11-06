@@ -1,0 +1,920 @@
+---
+title: The Financial Services and Markets Act 2023 (Private Intermittent Securities and Capital Exchange System Sandbox) Regulations 2025
+id: uksi/2025/583
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-05-14'
+text_date: '2026-01-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2025/583
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/583/pdfs/uksiem_20250583_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2025/583/pdfs/uksi_20250583_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/583/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2023 (Private Intermittent Securities and Capital Exchange System Sandbox) Regulations 2025
+
+> Text as at 2026-01-19.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2025 No. 583
+
+FINANCIAL SERVICES AND MARKETS
+
+The Financial Services and Markets Act 2023 (Private Intermittent Securities and Capital Exchange System Sandbox) Regulations 2025
+
+Made
+
+14th May 2025
+
+Laid before Parliament
+
+15th May 2025
+
+Coming into force
+
+5th June 2025
+
+The Treasury make these Regulations in exercise of the powers conferred by sections 21(5) and (6) and 428(3) of the Financial Services and Markets Act 2000[^f00001] and sections 13(1), (4), (5), (6) and (7), 14(3), 16(1) and 84(2) of, and Schedule 4 to, the Financial Services and Markets Act 2023[^f00002].
+
+In accordance with section 16(2) of the Financial Services and Markets Act 2023, the Treasury have consulted the Financial Conduct Authority, being the appropriate regulator[^f00003], and such other persons as the Treasury consider appropriate.
+
+## 1. Citation, commencement and extent[^key-0a4c069d969172b883190d102efa2b25]
+
+(1) These Regulations may be cited as the Financial Services and Markets Act 2023 (Private Intermittent Securities and Capital Exchange System Sandbox) Regulations 2025.
+
+(2) These Regulations come into force on 5th June 2025.
+
+(3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+## 2. Interpretation[^key-28b4b380b1eae115ed33a27e6774515e]
+
+In these Regulations—
+
+- “**the Act**” means the Financial Services and Markets Act 2023;
+- “**authorised person**” has the meaning given in section 31 of FSMA 2000[^f00004];
+- “**established in the UK**” means constituted under the law of any part of the United Kingdom and having, for the duration of the PISCES sandbox arrangements, a registered office or a head office in the United Kingdom;
+- “**financial intermediary**” has the meaning given in regulation 5(5);
+- “**the FPO**” means the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^f00005];
+- “**immediate group**” has the meaning given in section 421ZA of FSMA 2000[^f00006];
+- “**intermittent**”, in relation to a trading period, means occasional, not frequent, and of limited duration;
+- “**MiFIR**” means [Regulation (EU) No600/2014](https://www.legislation.gov.uk/european/regulation/2014/0600) of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending [Regulation (EU) No648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648)[^f00007];
+- “**multilateral system**” has the meaning given in Article 2(1)(11) of MiFIR[^f00008];
+- “**overseas company**” has the meaning given in section 1044 of the Companies Act 2006[^f00009];
+- “**PISCES**” has the meaning given in regulation 3(3);
+- “**PISCES approval notice” or “PAN**” means a notice given under regulation 10(3) approving a person described in regulation 4 to operate a PISCES;
+- “**PISCES company**” means a company whose shares are or are intended to be traded on a PISCES;
+- “**PISCES disclosure arrangements**” means the arrangements for the disclosure of information by PISCES companies that PISCES disclosure rules require a PISCES operator to establish and maintain;
+- “**PISCES disclosure rules**” means rules made by the FCA under paragraph (1) of regulation 14 which make provision of the kind mentioned in paragraph (4)(b) of that regulation;
+- “**PISCES operator**” means a person in respect of whom an approval under regulation 10 is in force;
+- “**PISCES sandbox arrangements**” has the meaning given in regulation 3(2);
+- “**PISCES share**” means a share in a PISCES company that is traded, or is to be traded, on a PISCES;
+- “**PISCES statement**” means a statement made by a PISCES company through PISCES disclosure arrangements;
+- “**the RAO**” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00010].
+- “**relevant PISCES person**” has the meaning given in regulation 12(3);
+- “**specified PISCES investor**” has the meaning given in regulation 5(3).
+
+## 3. Creation and operation of the PISCES sandbox[^key-3252184d2ca0504771f4692927d67ea7]
+
+(1) These Regulations have effect as an FMI sandbox (the “PISCES sandbox”) for the purposes described in section 13(1)(a) and (b) of the Act (testing of FMI technologies or practices), in so far as those purposes relate to the practice of operating a PISCES in the carrying on, as part of the business of a person specified in regulation 4, of the FMI activity of operating a multilateral system for the trading of shares.
+
+(2) The FMI sandbox arrangements implemented as part of the PISCES sandbox (“the PISCES sandbox arrangements”) must relate to the FMI activity mentioned in paragraph (1), where carried on as mentioned in that paragraph.
+
+(3) For the purposes of these Regulations, a “PISCES” is a multilateral system which—
+
+- (a) is for the trading of PISCES shares in intermittent trading periods,
+- (b) brings together multiple buying and selling interests in PISCES shares, in the system and in accordance with non-discretionary rules, in a way which results in a contract, and
+- (c) allows a PISCES company to determine at least one of the following in respect of the trading of its PISCES shares—
+  - (i) when the shares may be traded;
+  - (ii) the persons or categories of person who may buy or sell the shares;
+  - (iii) restrictions on the trading of the shares, including restrictions requiring a minimum or a maximum price;
+  - (iv) the persons or categories of person who may receive information about the company or transactions in its shares.
+
+(4) For the purposes of these Regulations, the appropriate regulator is the FCA.
+
+## 4. Persons who may apply for approval to operate a PISCES[^key-8e477d48a24ecdc2b02d65979018be27]
+
+An application to the FCA under regulation 9 for approval to operate a PISCES may be made by—
+
+- (a) a recognised investment exchange that is not an overseas investment exchange, or
+- (b) a person who is established in the UK and has a Part 4A permission, as defined in section 55A(5) of FSMA 2000 (application for permission)[^f00011], to carry on one or more of the regulated activities referred to in the following provisions of the RAO—
+  - (i) article 25(1) (arranging deals in investments)[^f00012];
+  - (ii) article 25D (operating a multilateral trading facility)[^f00013];
+  - (iii) article 25DA (operating an organised trading facility)[^f00014].
+
+## 5. Other persons who may participate in the PISCES sandbox arrangements[^key-76d50731cde338d63f387d490047e148]
+
+(1) The following descriptions of person may participate in the PISCES sandbox arrangements by using a PISCES or carrying on activities in connection with a PISCES—
+
+- (a) an eligible company;
+- (b) a person who is the registered holder of, is entitled to purchase or subscribe for, or is otherwise entitled to become the registered holder of, a PISCES share;
+- (c) a buyer of a PISCES share;
+- (d) a financial intermediary;
+- (e) persons who directly or indirectly provide services which relate to the trading of PISCES shares to—
+  - (i) an eligible company;
+  - (ii) a person described in paragraph (1)(b) or (c);
+  - (iii) a PISCES operator;
+  - (iv) a financial intermediary;
+- (f) persons carrying on activities in connection with—
+  - (i) the trading of a PISCES share;
+  - (ii) the provision of services as described in sub-paragraph (e).
+
+(2) In paragraph (1), “**eligible company**” means a company as defined in section 1(1) of the Companies Act 2006 (companies) that is limited by shares, or an overseas company, except, in either case, if the shares of the company are admitted to trading—
+
+- (a) on a trading venue, as defined in section 313D(1) of FSMA 2000 (interpretation of Part 18A)[^f00015], or
+- (b) on a multilateral system outside the United Kingdom.
+
+(3) In these Regulations, “**specified PISCES investor**” means—
+
+- (a) a professional client, as defined in Article 2(1)(8) of MiFIR (definitions)[^f00016];
+- (b) an individual—
+  - (i) who within the period of twelve months ending with the day on which the trading period in question is due to end, has completed and signed a statement complying with Part 1 of Schedule 5 to the FPO (statement for high net worth individuals)[^f00017], and
+  - (ii) whose completion of the statement indicates that they satisfy the conditions set out in that statement to be classified as a high net worth individual;
+- (c) a person who falls within any of sub-paragraphs (a) to (c) of article 49(2) of the FPO (high net worth companies, unincorporated associations etc.)[^f00018];
+- (d) an individual who has a certificate in writing or other legible form (a “PISCES sophisticated investor certificate”) relating to them, which—
+  - (i) is to the effect that the individual is sufficiently knowledgeable to understand the risks associated with an investment such as a PISCES share, and
+  - (ii) is signed and dated by an authorised person within the three years ending with the day on which the trading period in question is due to end;
+- (e) an individual—
+  - (i) who within the period of twelve months ending with the day on which the trading period in question is due to end, has completed and signed a statement complying with Part 2 of Schedule 5 to the FPO (statement for self-certified sophisticated investors)[^f00019], and
+  - (ii) whose completion of the statement indicates that they satisfy the conditions set out in that statement to be classified as a self-certified sophisticated investor;
+- (f) a qualifying individual, as defined in regulation 6, but only in relation to the purchase of shares in the PISCES company in relation to which they are a qualifying individual;
+- (g) a person who is a relevant trustee, as defined in article 60(3) of the FPO, in relation to an employee share scheme, as defined in article 60(2) of the FPO (participation in employee share schemes)[^f00020], of the PISCES company in question (but see the modifications to article 60 of the FPO in Part 5 of Schedule 1);
+- (h) a trustee of a share incentive plan as defined in section 488(4) of the Income Tax (Earnings and Pensions) Act 2003 (share incentive plans (SIPs))[^f00021], established by the PISCES company in question or a company within its immediate group.
+
+(4) For the purposes of paragraph (3)—
+
+- (a) the validity of a statement referred to in paragraph (3)(b) or (e) is not affected by a defect in the form or wording of the statement, provided that the defect does not alter the statement’s meaning;
+- (b) in the case of a person described in paragraph (3)(c), the reference in article 49(6)(b) of the FPO to the date on which a communication was first made or directed is to be read as referring to the date on which the trading period in question is due to end.
+
+(5) In these Regulations, “**financial intermediary**” means—
+
+- (a) an authorised person;
+- (b) a member firm or participant with access to a PISCES;
+- (c) an appointed representative as defined in section 39(2) of FSMA 2000 (exemption of appointed representatives)[^f00022].
+
+## 6. Meaning of “qualifying individual”[^key-5d0050059dd72570662dc883f6ecbfcd]
+
+(1) “**Qualifying individual**”, in relation to a PISCES company and a trading period, means an individual whose inclusion on a list provided for that trading period by the PISCES company to a financial intermediary or PISCES operator indicates that the individual meets the qualifying conditions in paragraph (2).
+
+(2) The qualifying conditions, in relation to a PISCES company, are that the individual—
+
+- (a) is employed by, or is a director or other officer of, the PISCES company or a company within its immediate group, or
+- (b) personally provides consultancy or managerial services—
+  - (i) as a party to a contract for services with the PISCES company or a company within its immediate group, or
+  - (ii) which are placed at the disposal and under the control of the PISCES company or a company within its immediate group, under an arrangement between that company and a third party.
+
+(3) A PISCES company must not include an individual’s name in a list supplied to a financial intermediary or PISCES operator for the purposes of paragraph (1) unless the individual falls within paragraph (2)(a) or (b).
+
+(4) In paragraph (2)(a), a “director or other officer”, in the case of a PISCES company that is an overseas company, includes a manager or a secretary.
+
+(5) In paragraph (2)(b)(ii), “**third party**” includes a company of which the individual in question is a director, member or employee.
+
+## 7. Obligation on financial intermediary to check investor eligibility[^key-bdb57129eb79188b91d8bcfb92bacbc4]
+
+(1) A financial intermediary must not place an order to buy a PISCES share when dealing with a person (“**the client**”), whether directly, or through bare trustees, nominees or custodians, unless—
+
+- (a) the client is a qualifying individual as defined in regulation 6, or
+- (b) the financial intermediary believes on reasonable grounds that the client will fall within one or more of the other descriptions of specified PISCES investor in regulation 5(3) immediately before the order is to be executed.
+
+(2) Where a financial intermediary receives an order to buy a PISCES share which—
+
+- (a) is placed by a person (“**A**”) who is carrying on activities to which the exclusion in article 29(1) of the RAO (arranging deals with or through authorised persons)[^f00023] applies, and
+- (b) results from A dealing with a client mentioned in paragraph (1) in the manner described in that paragraph,
+
+paragraph (1) applies to the financial intermediary as if the financial intermediary were dealing directly with A’s client.
+
+(3) The obligation in paragraph (1) does not apply—
+
+- (a) to a financial intermediary which is not established in the UK, unless they are dealing with a client in the manner described in that paragraph from a permanent place of business in the United Kingdom;
+- (b) where the financial intermediary believes, on reasonable grounds, that the client mentioned in paragraph (1) is—
+  - (i) an individual who is resident outside the United Kingdom, or
+  - (ii) a body incorporated in, constituted or formed under the law of, a country outside the United Kingdom.
+
+(4) Where a PISCES operator receives an order to buy a PISCES share for a person, without the involvement of a financial intermediary, paragraphs (1), (2) and (3)(b) apply to the PISCES operator as they apply to a financial intermediary.
+
+## 8. Financial intermediary not to place certain orders for PISCES companies[^key-9c22f6d6ae9108edcf088300fce08ad4]
+
+(1) A financial intermediary must not place an order for a PISCES company if the effect of that order would be that the PISCES company buys or sells its own PISCES shares.
+
+(2) Where a PISCES operator receives orders without the involvement of a financial intermediary, the PISCES operator must not give effect to an order which would have the effect mentioned in paragraph (1).
+
+## 9. PISCES application procedure and requirements[^key-38672a6cd51267c83c335d26a4758ee3]
+
+(1) An application to the FCA for approval to operate a PISCES under the PISCES sandbox arrangements must—
+
+- (a) be made in such manner as the FCA may direct, and
+- (b) contain, or be accompanied by, such information that the FCA may reasonably require.
+
+(2) The information required by the FCA under this regulation may include (among other things)—
+
+- (a) a description of an operational model which will facilitate the trading of PISCES shares and which may include (among other things)—
+  - (i) the use of a proposed trading system;
+  - (ii) the proposed frequency and duration of the intermittent trading periods;
+- (b) a description of the restrictions on the trading of the shares that may be permissible at the instance of PISCES companies, including in particular any of the matters specified at regulation 3(3)(c);
+- (c) details of any requirements with which a company will be required to comply before its shares are traded on the PISCES;
+- (d) a description of the proposed disclosure arrangements and requirements for a PISCES company providing information to investors, and how the applicant would oversee them;
+- (e) a description of the arrangements for the detection and prevention of abusive trading behaviours on the PISCES;
+- (f) a risk assessment based on a description of the proposed operational model of the PISCES;
+- (g) a statement of the applicant’s reasons for applying to operate a PISCES under the PISCES sandbox arrangements;
+- (h) an explanation of how the applicant would comply with the requirements applicable to PISCES operators.
+
+(3) At any time after an application is received and before it is determined, the FCA may require the applicant to provide it with such further information as it reasonably considers necessary to enable it to determine the application.
+
+## 10. Determination of application to operate a PISCES[^key-78e865376277c2e078e8d92a57da19b8]
+
+(1) An application made under regulation 9(1) for approval to operate a PISCES under the PISCES sandbox arrangements must be determined by the FCA.
+
+(2) The FCA may—
+
+- (a) approve the application;
+- (b) approve the application but with such conditions, limitations or restrictions as the FCA considers appropriate;
+- (c) reject the application.
+
+(3) The FCA must—
+
+- (a) give the applicant written notice of its decision under paragraph (2);
+- (b) include details of any conditions, limitations or restrictions imposed under paragraph (2)(b) within the notice, and
+
+in the case of approval, with or without conditions, limitations or restrictions, that notice is a PISCES approval notice (or “PAN”).
+
+(4) The FCA must provide the applicant with a statement of its reasons for any determination under paragraph (2)(b) or (c).
+
+(5) Each PISCES operator must either publish—
+
+- (a) its PAN, or
+- (b) information about the extent to which it is approved to participate in the PISCES sandbox arrangements and about any conditions, limitations or restrictions that may apply under paragraph (2)(b), or under paragraph (2)(b)(ii) or (3) of regulation 11.
+
+(6) A PISCES operator that operates its PISCES otherwise than in accordance with any conditions, limitations or restrictions imposed by the FCA under paragraph (2)(b), or under paragraph (2)(b)(ii) or (3) of regulation 11, is to be taken to have contravened a requirement imposed on it by the FCA under these Regulations.
+
+## 11. Further powers of the FCA in respect of PISCES approval notices[^key-3375ca9a6dc5c72a9f816b615720a989]
+
+(1) The FCA may, by direction, modify, suspend or cancel the PAN of a PISCES operator—
+
+- (a) on the application of or with the consent of the PISCES operator, or
+- (b) if the FCA considers that—
+  - (i) the PISCES operator has operated its PISCES otherwise than in accordance with any conditions, limitations or restrictions imposed by the FCA under regulation 10(2)(b), or under paragraph (2)(b)(ii) or (3), or any other requirement that applies to it in relation to its PISCES, or
+  - (ii) it is appropriate to do so for the purposes of implementing and operating the PISCES sandbox arrangements.
+
+(2) Where a PISCES operator has applied to the FCA to modify its PAN under paragraph (1)(a), the FCA may—
+
+- (a) require the operator to provide any information that the FCA considers necessary to allow it to determine the application;
+- (b) determine the application by—
+  - (i) approving the application;
+  - (ii) approving the application with such (or such further) conditions, limitations or restrictions as the FCA considers appropriate;
+  - (iii) rejecting the application.
+
+(3) Where the FCA exercises its power under paragraph (1)(b) to modify a PAN, the FCA may impose such (or such further) conditions, limitations or restrictions as it considers appropriate.
+
+(4) If the FCA exercises any of its powers under paragraph (1), it must—
+
+- (a) give the PISCES operator written notice;
+- (b) provide reasons for exercising the power;
+- (c) specify whether the modification, suspension or cancellation of the PAN takes effect immediately or on a specified date.
+
+## 12. Sandbox arrangements[^key-7349c6e1115894ea8bf600778925e53f]
+
+(1) The relevant enactments[^f00024] specified in Schedule 1 apply, with the modifications in that Schedule, to—
+
+- (a) the FCA in connection with implementing and operating the PISCES sandbox arrangements;
+- (b) the operation of a PISCES;
+- (c) a financial intermediary when using a PISCES or carrying on activities in connection with a PISCES;
+- (d) a parent undertaking, as defined in section 1162 of, and Schedule 7 to, the Companies Act 2006 (parent and subsidiary undertakings), of a PISCES operator;
+- (e) any other person in relation to the person’s—
+  - (i) participation in the PISCES sandbox arrangements;
+  - (ii) use of a PISCES;
+  - (iii) activities or conduct in connection with a PISCES or PISCES shares, and
+
+other provisions in relevant enactments that refer to provisions so modified are to be treated as modified accordingly.
+
+(2) Insofar as provisions of relevant enactments modified in Schedule 1 relate to the FCA exercising any of its powers, where a person was but has ceased to be—
+
+- (a) a PISCES operator,
+- (b) a parent undertaking of a PISCES operator within the meaning of paragraph (1)(d),
+- (c) a financial intermediary, or
+- (d) concerned in the matters mentioned in paragraph (1)(e)(i) to (iii),
+
+the provisions continue to apply with respect to that person, in that capacity.
+
+(3) In Part 1 of Schedule 1, a “**relevant PISCES person**” means—
+
+- (a) a person participating in the PISCES sandbox arrangements under regulation 5(1);
+- (b) a person referred to in paragraph (1)(d), or (e)(ii) or (iii).
+
+## 13. Liability for disclosed information[^key-7b02fd2c7a7cd8276d0a6842d346b9fd]
+
+(1) Where a PISCES company makes a PISCES statement the PISCES company is liable to pay compensation to a person who—
+
+- (a) buys, continues to hold or sells PISCES shares in that company, and
+- (b) suffers loss in respect of them as a result of—
+  - (i) any untrue or misleading information in the PISCES statement, or
+  - (ii) the omission from the PISCES statement of any matter that is required to be included by rules made by the PISCES operator, whether those rules were made of the operator’s own volition or in order to comply with PISCES disclosure rules.
+
+(2) Where the rules made by the PISCES operator that are mentioned in paragraph (1)(b)(ii) require a PISCES company to include in any statement information about the absence of a particular matter, the omission from the statement of that information is to be treated as a statement that there is no such matter.
+
+(3) A loss is not to be regarded as suffered as a result of the statement or omission mentioned in paragraph (1), unless the person suffering it bought, continued to hold or sold the relevant shares—
+
+- (a) in reliance on the information in question, and
+- (b) at a time when, and in circumstances in which, it was reasonable for that person to rely on it.
+
+(4) In Schedule 2—
+
+- (a) Part 1 makes provision about interpretation;
+- (b) Part 2 contains exemptions from liability under paragraph (1) for statements made by a PISCES company in order to comply with requirements placed on it by a PISCES operator in accordance with PISCES disclosure rules;
+- (c) Part 3 contains further exemptions from liability under paragraph (1) and exemptions from other liability.
+
+## 14. Making of FCA rules[^key-8925c7023e0b37193ce42879ce4fb017]
+
+(1) The FCA may make such rules as it considers to be necessary or expedient for the purpose of implementing and operating the PISCES sandbox arrangements.
+
+(2) Rules made under paragraph (1) may apply to—
+
+- (a) a PISCES operator;
+- (b) persons falling within regulation 5(1);
+- (c) the scheme manager as defined in section 212 of FSMA 2000 (the scheme manager), in respect of the compensation scheme as defined in s213(2) of FSMA 2000 (the compensation scheme), so as to enable that scheme to make provision in respect of a PISCES;
+- (d) any other person in relation to the person’s—
+  - (i) use of a PISCES, or
+  - (ii) activities or conduct in connection with a PISCES or PISCES shares.
+
+(3) In paragraph (2)(a), “**PISCES operator**” includes a parent undertaking, as defined in section 1162 of, and Schedule 7 to, the Companies Act 2006 (parent and subsidiary undertakings), of a PISCES operator.
+
+(4) Rules made under paragraph (1) may (among other things) make provision—
+
+- (a) concerning the operation of a PISCES;
+- (b) imposing requirements as to arrangements for the disclosure of information by PISCES companies in connection with the trading of PISCES shares;
+- (c) concerning the detection and prevention of abusive, manipulative or deceptive trading behaviours on a PISCES;
+- (d) concerning the trading, promotion or distribution of PISCES shares,
+
+including provision that applies before shares in a PISCES company are traded on a PISCES.
+
+(5) The power to make rules in paragraph (1) includes the power to provide for—
+
+- (a) rules made by the FCA that are relevant enactments not to apply for the purposes of the PISCES sandbox arrangements;
+- (b) modifications in the application of such rules;
+- (c) the application of such rules (with or without modifications).
+
+(6) The power to make rules in paragraph (1) also includes the power to make rules on the subject matter of a provision of a relevant enactment that has been disapplied by these Regulations.
+
+(7) Paragraph (8) relates to—
+
+- (a) any rules made under paragraph (1); or
+- (b) any rules made by the FCA that are relevant enactments.
+
+(8) The FCA may, by giving such direction as it considers to be necessary or expedient for the purpose of implementing and operating the PISCES sandbox arrangements, waive or modify a rule so as—
+
+- (a) not to apply to a person, or a description of a persons, falling within paragraph (2), or
+- (b) to apply, with such modifications (if any) as the FCA may specify, to a person or a description of a person falling within that paragraph.
+
+(9) A direction under paragraph (8)—
+
+- (a) may be given subject to conditions, and
+- (b) may be revoked or varied by a subsequent direction.
+
+## 15. Modification of technical standards[^key-674c88a7c1e81c28b674de7df95b6881]
+
+(1) The FCA may make such modifications of any technical standards having effect for the purposes of a relevant enactment as it considers it to be necessary or expedient for the purposes of implementing and operating the PISCES sandbox arrangements.
+
+(2) The power to modify technical standards in paragraph (1) includes the power to provide for—
+
+- (a) technical standards not to apply for the purposes of the PISCES sandbox arrangements;
+- (b) modifications in the application of the technical standards for those purposes;
+- (c) the application of the technical standards (with or without modifications) for those purposes.
+
+(3) This regulation ceases to have effect when the repeal of section 138P of FSMA 2000 (technical standards)[^f00025] by Part 4 of Schedule 1 to the Act comes into force.
+
+## 16. Supervision of the FMI sandbox[^key-8eb624afff621f67eea4ba27e6719784]
+
+(1) The FCA must maintain arrangements for the supervision of the PISCES sandbox arrangements, including ongoing monitoring and supervision of each PISCES operator.
+
+(2) The FCA may, by direction, require a PISCES operator—
+
+- (a) to provide specified information or documents reasonably requested in connection with the exercise by the FCA of functions conferred on it by or under these Regulations;
+- (b) to engage or cease engaging in a particular activity in connection with the PISCES sandbox arrangements, whether or not the FCA has exercised its powers under regulation 11.
+
+(3) The FCA must publish on its website—
+
+- (a) any rules made under regulation 14(1);
+- (b) any directions given under regulation 14(8).
+
+(4) The FCA may publish—
+
+- (a) the PAN of each PISCES operator;
+- (b) such other information concerning the PISCES sandbox arrangements as it considers appropriate.
+
+## 17. Treasury power to direct FCA to impose restrictions[^key-e91db541112dd9dd273c89798e4d4306]
+
+The Treasury may, after consulting the FCA, direct it to impose restrictions on the overall activities of a PISCES operator in the PISCES sandbox arrangements, with reference to qualitative or quantitative criteria.
+
+## 18. Amendment of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^key-12bac11004fbf2312d0973f7d4b5d117]
+
+In article 3 of the FPO (interpretation: unlisted companies)[^f00026], after paragraph (1), insert—
+
+> (1A) The shares in a body corporate are not to be regarded as falling within paragraph (1)(a) or (b) by reason only of either or both of the following—
+>
+> - (a) their being traded on a PISCES for which an operator has an approval in force under regulation 10 of the Financial Services and Markets Act 2023 (Private Intermittent Securities and Capital Exchange System Sandbox) Regulations 2025;
+> - (b) information being communicated about prices at which persons have dealt or are willing to deal in them on such a PISCES.
+
+.
+
+## 19. Date of the report on the FMI sandbox arrangements[^key-8c2b54af30607f7bdd053f81c79e0125]
+
+The date specified for the purposes of section 14(3) of the Act (reports on FMI sandboxes) is 5th June 2029.
+
+## 20. Termination[^key-8b19d6b777d9806525324d835509f5f4]
+
+These Regulations, except regulations 18 and 15, cease to have effect on 5th June 2030.
+
+Jeff Smith
+
+Vicky Foxcroft
+
+Two of the Lords Commissioners of His Majesty's Treasury
+
+14th May 2025
+
+Schedules
+
+## Schedule 1 — Modifications of legislation
+
+Regulation 12
+
+### Part 1 — Financial Services and Markets Act 2000
+
+**1.**[^key-b83bef1b0507e846d7a16a2e78d8281f] This Part sets out modifications of FSMA 2000. The provisions specified in the first column are modified as provided for in the corresponding entry in the second column.
+
+| Provision | Modification |
+| --- | --- |
+| Section 39 (exemption of appointed representatives)[^f00027] | Treat the list in subsection (4) as including a reference to a provision contained in or made under these Regulations. |
+| Section 66A ( misconduct: action by the FCA)[^f00028] | Treat the reference in subsection (4) to a “relevant requirement” as including a requirement that is imposed by or under these Regulations. |
+| Section 102B (meaning of “**offer of transferable securities to the public**” etc.)[^f00029] | Treat the list in subsection (5) as including a reference to a communication in connection with trading on a PISCES. |
+| Section 137S (financial promotion rules: directions given by FCA)[^f00030] | Treat the reference to “financial promotion rules” in subsection (1)(b) as including rules made by the FCA under regulation 14(1), which make the kind of provision relating to the trading, promotion or distribution of PISCES shares mentioned in paragraph (4)(d) of that regulation. |
+| Section 137T (general supplementary powers)[^f00031] | Treat the reference to “authorised persons” as including a PISCES operator and a relevant PISCES person. |
+| Section 138I (consultation by the FCA) | Treat this section as disapplied. |
+| Section 138IA (FCA Cost Benefit Analysis Panel) | Treat this section as disapplied. |
+| Section 138IB (statement of policy in relation to cost benefit analyses) | Treat this section as disapplied. |
+| Section 138K (consultation: mutual societies) | Treat this section as disapplied. |
+| Section 138L (consultation: general exemptions) | Treat this section as disapplied. |
+| Section 139A (power of the FCA to give guidance)[^f00032] | Treat subsections (3) and (5) as disapplied. |
+| Section 165 (regulators power to require information: authorised persons etc)[^f00033] | Treat subsection (4) as including information and documents reasonably required by the FCA in exercising functions conferred by or under these Regulations. Treat the persons on whom requirements may be placed by the FCA in subsection (7) as including a relevant PISCES person. |
+| Section 166 (reports by skilled persons)[^f00034] | Treat the reference to “either regulator” in subsection (1) as a reference to the FCA. Treat the reference to “authorised person” in subsection (2)(a) as including a relevant PISCES person. |
+| Section 166A (appointment of skilled person to collect and update information)[^f00035] | Treat the reference to “either regulator” in subsection (1) as a reference to the FCA. Treat the references to “authorised person” in subsections (1) to (4) and (7) to (9) as including a relevant PISCES person. |
+| Section 167 (appointment of persons to carry out general investigations)[^f00036] | Treat the references to “authorised person” in subsections (1A) and (4A) as including a relevant PISCES person. Treat subsection (5A) as meaning that the FCA is the investigating authority for the purposes of this section. |
+| Section 168 (appointment of persons to carry out investigations in particular cases)[^f00037] | Treat subsection (4) as including circumstances suggesting that a PISCES operator or a relevant PISCES person may have failed to comply with a requirement imposed by or under these Regulations. Treat subsection (6) as meaning that the FCA is the investigating authority for the purposes of this section. |
+| Section 171 (powers of persons appointed under section 167)[^f00038] | Treat subsection (1A) as including a PISCES operator or a relevant PISCES person. |
+| Section 176 (entry of premises under warrant)[^f00039] | Treat subsection (3A) as including a reference to a PISCES operator and a relevant PISCES person. |
+| Section 204A (meaning of “**relevant requirement**” and “**appropriate regulator**”)[^f00040] | Treat the list in subsection (2) as including a requirement imposed by or under these Regulations. Treat subsections (3) to (6) as meaning the FCA is the appropriate regulator. |
+| Section 205 (public censure)[^f00041] | Treat the reference to “authorised person” in subsection (1) as including a relevant PISCES person. |
+| Section 206 (financial penalties)[^f00042] | Treat the reference to “authorised person” in subsection (1) as including a relevant PISCES person. |
+| Section 207 (proposal to take disciplinary measures)[^f00043] | Treat the references to “authorised person” as including a relevant PISCES person. |
+| Section 208 (decision notice)[^f00044] | Treat the references to “authorised person” in subsections (1) and (4) as including a relevant PISCES person. |
+| Section 209 (publication)[^f00045] | Treat the reference to “authorised person” as including a relevant PISCES person. |
+| Section 211 (statements of policy: procedure) | Treat this section as disapplied. |
+| Section 285 (exemption for recognised bodies etc.) | Treat the reference in subsection (2)(a) to “the exchange’s business as an investment exchange” as including its business as a PISCES operator with an approval under regulation 10. |
+| Section 291 (liability in relation to recognised body’s regulatory functions) | In subsection (3), treat the reference to “this Act” as including these Regulations. |
+| Section 296 (appropriate regulator’s power to give directions)[^f00046] | Treat subsection (1) as modified so that paragraph (b) includes a reference to any obligation that is imposed on the recognised body by or under these Regulations. |
+| Section 300B (duty to notify proposal to make regulatory provision) | Treat this section as disapplied. |
+| Section 300C (restriction on making provision before appropriate regulator decides whether to act) | Treat this section as disapplied. |
+| Section 300D (consideration by appropriate regulator whether to disallow proposed provision) | Treat this section as disapplied. |
+| Section 312E (public censure)[^f00047] | Treat the reference in subsection (2) to a “**relevant requirement**” for the purposes of Chapter 3B as including a requirement that is imposed by or under these Regulations. |
+| Section 313A (FCA’s power to require suspension or removal of financial instruments from trading)[^f00048] | Treat the reference to “trading” in subsection (1)(b) as including trading on a PISCES. |
+| Section 313D (interpretation of Part 18A)[^f00049] | Treat the references to “institution” in subsection (1)(b) as including an authorised person which is an exempt investment firm as defined in regulation 8 of the Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (meaning of “**exempt investment firm**” in Chapter 1)[^f00050]. |
+| Section 380 (injunctions)[^f00051] | Treat the list in subsection (6)(a) as including requirements imposed by or under these Regulations. |
+| Section 382 (restitution orders)[^f00052] | In subsection (9), treat the references to “this Act” in paragraphs (a) and (b) as including a reference to these Regulations. |
+| Section 384 (power of FCA or PRA to require restitution) | Treat this section as disapplied. |
+| Section 396 (statements under section 365: consultation) | Treat this section as disapplied. |
+| Section 398 (misleading FCA or PRA: residual cases) | Treat subsection (1A) as including a reference to these Regulations. |
+| Section 415A (powers under the Act)[^f00053] | Treat references to “this Act” as meaning that any powers which the FCA has under any provision of these Regulations does not limit its powers under any provision of FSMA 2000, or under any other provision of these Regulations. |
+| Section 417 (definitions)[^f00054] | Treat the definition of “rule” in subsection (1) as including rules made under these Regulations. |
+| Paragraph 20 of Schedule 1ZA (the Financial Conduct Authority: penalties and fees)[^f00055] | Treat the reference to the FCA’s enforcement powers in sub-paragraph (4) as including its powers under regulations 11(1)(b) and 16(2)(b) of these Regulations. |
+
+### Part 2 — Companies Act 2006
+
+**2.**[^key-52c8ee1cd8f561c3f3fd0e2f1e2cfea6] This Part sets out modifications of the Companies Act 2006. The provisions specified in the first column are modified as provided for in the corresponding entry in the second column.
+
+| Provision | Modification |
+| --- | --- |
+| Section 756 (meaning of “**offer to the public**”) | Treat the references in subsection (3) to offers which are not to be regarded as offers to the public as including an offer made on the basis that any resulting trade in the securities of the company will be undertaken only on a PISCES for which an operator has an approval in force under regulation 10. |
+| Part 22 (information about interests in a company’s shares): sections 791 to 828 | Treat the references to “public companies” in this Part as including companies with voting shares traded on a PISCES for which an operator has an approval in force under regulation 10. |
+| Sections 803 to 807 (power of members to require company to act) | Treat these sections as disapplied. |
+| Section 819 (register of interests disclosed: duty of company ceasing to be public company) | Treat the reference in subsection (1) to a company ceasing to be a public company as a reference to a company ceasing to have voting shares traded on a PISCES for which an operator has an approval in force under regulation 10. |
+
+### Part 3 — The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges, Clearing Houses and Central Securities Depositories) Regulations 2001
+
+**3.**[^key-d14fab9e9083cfe03ed4260852d6d524] This Part sets out modifications of Part 1 (recognition requirements for investment exchanges) of the Schedule to the Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges, Clearing Houses and Central Securities Depositories) Regulations 2001[^f00056]. The provisions specified in the first column are modified as provided for in the corresponding entry in the second column.
+
+| Provision | Modifications |
+| --- | --- |
+| Paragraph 3E (fee structures)[^f00057] | Treat this paragraph as disapplied. |
+| Paragraph 3H (synchronisation of business clocks)[^f00058] | Treat this paragraph as disapplied. |
+| Paragraph 9ZD (multilateral systems)[^f00059] | Treat this paragraph as including a PISCES as one of the multilateral systems which an exchange is allowed to operate. |
+| Paragraph 9A (operation of a multilateral trading facility or an organised trading facility)[^f00060] | Treat sub-paragraph (1) as requiring an exchange operating a PISCES also to operate a regulated market. |
+
+### Part 4 — The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005
+
+**4.**[^key-dd8f667f17a804561ddc7db5d5a1689b] This Part sets out modifications to the FPO. The provisions specified in the first column are modified as provided for in the corresponding entry in the second column.
+
+| Provision | Modification |
+| --- | --- |
+| Article 60 (participation in employee share schemes)[^f00061] | For the purposes of regulation 5(3)(g), treat references to “C” as references to the PISCES company concerned, and treat references to “investments issued by C” as PISCES shares in that PISCES company. |
+| New article 67A | Treat Part VI as including a new article 67A as follows, where the references to “**PISCES**”, “**PISCES disclosure arrangements**” and “**PISCES shares**” have the meanings given in regulation 2, and “**FCA rules**” means rules made by the FCA under regulation 14(1)—<br>> **67A. Promotions in connection with a PISCES**<br>><br>> (1) The financial promotion restriction does not apply to any communication which—<br>><br>> - (a) is a non-real time communication or a solicited real time communication,<br>> - (b) relates to PISCES shares and no other kind of investment,<br>> - (c) is communicated for the purposes of or in connection with the trading of such shares on a PISCES, and<br>> - (d) satisfies one or more of the conditions in paragraph (2).<br>><br>> (2) The conditions are that the communication—<br>><br>> - (a) is communicated through PISCES disclosure arrangements;<br>> - (b) relates only to one or more of the following—<br>>   - (i) the eligibility of the persons to whom the communication is made or directed to participate in a PISCES;<br>>   - (ii) the number of PISCES shares available to be traded;<br>>   - (iii) the dates on which trading on the PISCES will take place;<br>>   - (iv) information regarding access to the PISCES disclosure arrangements;<br>>   - (v) details of any restrictions on eligibility to access the trading event;<br>> - (c) is required by FCA rules. |
+
+### Part 5 — [Regulation (EU) No600/2014](https://www.legislation.gov.uk/european/regulation/2014/0600)
+
+**5.**[^key-8e5addfe5437bc49613286a2afb6bcc6] This Part sets out modifications of [Regulation (EU) No600/2014](https://www.legislation.gov.uk/european/regulation/2014/0600) of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending [Regulation (EU) No648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648). The provisions specified in the first column are modified as provided for in the corresponding entry in the second column.
+
+| Provision | Modification |
+| --- | --- |
+| Article 2(1)(14) (definitions)[^f00062] | Treat the definition of “multilateral trading facility” or “MTF” as excluding a PISCES for which an operator has an approval in force under regulation 10. |
+| Article 2(1)(14A) (definitions)[^f00063] | Treat the definition of “UK multilateral trading facility” or “UK MTF” as excluding a PISCES for which an operator has an approval in force under regulation 10. |
+| Article 23 (investment firms operating internal matching systems)[^f00064] | Treat the reference to “permission to operate a multilateral trading facility under Part 4A of FSMA” as including an approval to operate a PISCES under regulation 10. |
+
+### Part 6 — The Public Offers and Admissions to Trading Regulations 2024[^key-d5d3786db4d0e5abca58c064939fe9a5]
+
+**6.** This Part sets out modifications to the Public Offers and Admissions to Trading Regulations 2024. The provision specified in the first column is modified as provided for in the corresponding entry in the second column.
+
+| Provision | Modification |
+| --- | --- |
+| Regulation 7 (“offer of relevant securities to the public”) | Treat the list in paragraph (5) as including a reference to a communication in connection with trading on a PISCES. |
+
+### Part 7 — Commission Delegated [Regulation (EU) 2017/565](https://www.legislation.gov.uk/european/regulation/2017/0565)
+
+**7.**[^key-1c04a7435f270e52a7ed085a13b55097] This Part sets out modifications of Commission Delegated [Regulation (EU) 2017/565](https://www.legislation.gov.uk/european/regulation/2017/0565) of 25 April 2016 supplementing [Directive 2014/65/EU](https://www.legislation.gov.uk/european/directive/2014/0065) of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive[^f00066]. The provision specified in the first column is modified as provided for in the corresponding entry in the second column.
+
+| Provision | Modification |
+| --- | --- |
+| Article A1 (application)[^f00067] | Treat paragraph 2(b) as disapplied. |
+
+## Schedule 2 — Compensation: exemptions
+
+Regulation 13
+
+### Part 1 — Interpretation
+
+**1.**[^key-91abb86600864ba513feaeb0162de75e] In this Schedule—
+
+- “**core disclosure**” means a PISCES statement made by a PISCES company in order to comply with requirements imposed on it by a PISCES operator in compliance with core disclosure rules;
+- “**core disclosure rules**” means PISCES disclosure rules under which a PISCES operator must require PISCES companies to disclose, through PISCES disclosure arrangements, information about matters specified for this purpose in the PISCES disclosure rules;
+- “**disclosing officer**” means, in relation to a PISCES company, its directors and any other person who is identified in a PISCES statement as accepting responsibility for the information contained within it, and “**director**” has the meaning given in section 417(1) of FSMA 2000;
+- “**expert**” includes any engineer, valuer, accountant or other person whose profession, qualifications or experience give authority to a statement made by the person;
+- “**expert statement**” means a statement included in a core disclosure which—
+  - (a) purports to be made by, or on the authority of, another person as an expert,
+  - (b) is stated to be included in the core disclosure with that person’s consent;
+- “**omission**” means an omission described in regulation 13(1)(b)(ii);
+- “**relevant period**” in relation to a PISCES statement, means the period beginning with the time when the company made the statement, and ending—
+  - (a) with the time when the person falling within regulation 13(1) bought, or sold, the shares, or
+  - (b) where the person in question continued to hold the shares, with the end of the trading period in respect of which the company made the statement.
+
+### Part 2 — Exemptions from liability for core disclosures
+
+#### 2. Core disclosure[^key-726493769d91571b58123670a19aecc1]
+
+(1) A PISCES company does not incur any liability under regulation 13 for loss caused by untrue or misleading information in, or an omission from, a core disclosure if it satisfies the court that—
+
+- (a) at the time the core disclosure was made, its disclosing officers reasonably believed, having made such enquiries (if any) as were reasonable, that—
+  - (i) the information was true and not misleading, or
+  - (ii) the matter whose omission caused the loss was properly omitted, and
+- (b) one of the conditions in sub-paragraph (2) is satisfied.
+
+(2) The conditions are—
+
+- (a) that the PISCES company’s disclosing officers continued in that belief until the end of the relevant period;
+- (b) that before the end of the relevant period, the disclosing officers had taken all such steps as it was reasonable for them to have taken to secure that a correction was brought to the attention of persons who received the core disclosure.
+
+(3) This paragraph is subject to paragraph 5 in respect of forward-looking statements contained in a core disclosure.
+
+#### 3. Expert statements[^key-1b35c35a2f9b1852bb166acc09fc380c]
+
+(1) A PISCES company does not incur any liability under regulation 13 for loss caused by an expert statement if it satisfies the court that—
+
+- (a) at the time the core disclosure was made, its disclosing officers reasonably believed that the expert—
+  - (i) was competent to make or authorise the statement,
+  - (ii) had consented to its inclusion in the form and context in which it was included, and
+- (b) one or more of the conditions in sub-paragraph (2) are satisfied.
+
+(2) The conditions are that—
+
+- (a) the disclosing officers continued in that belief until the end of the relevant period;
+- (b) the relevant period ended before it was reasonably practicable to bring the fact that the expert was not competent, or had not consented, to the attention of persons who received the core disclosure;
+- (c) before the end of the relevant period, the disclosing officers had taken all such steps as it was reasonable for them to have taken to secure that that fact was brought to the attention of those persons.
+
+#### 4. Correction of expert statements[^key-aef698ca8cc64a2ca20f8a8d7cfe7972]
+
+(1) A PISCES company does not incur liability under regulation 13 for loss caused by an expert statement if it satisfies the court that—
+
+- (a) before the relevant period ended, a correction had been disclosed in a manner calculated to bring it to the attention of persons who received the core disclosure, or
+- (b) the disclosing officers took all such steps as it was reasonable for them to take to secure such disclosure and reasonably believed that it had taken place before the end of the relevant period.
+
+(2) Nothing in this paragraph is to be taken as affecting paragraph 3.
+
+### Part 3 — Further exemptions from liability and other provision
+
+#### 5. Forward-looking statements and other disclosure[^key-3385443e19ca48d3934c536bda19fc5c]
+
+(1) Unless the condition in sub-paragraph (2) is met, a PISCES company does not incur any liability under regulation 13 in respect of any loss caused by untrue or misleading information in or an omission from—
+
+- (a) a forward-looking statement, or
+- (b) a PISCES statement that is not a core disclosure.
+
+(2) The condition is that at any time in the relevant period, any of the PISCES company’s disclosing officers—
+
+- (a) knew the information to be untrue or misleading or were reckless as to whether it was untrue or misleading, or
+- (b) knew the omission to be a dishonest concealment.
+
+(3) In sub-paragraph (1), a “**forward-looking statement**” means a core disclosure which—
+
+- (a) is of a kind specified for the purposes of this sub-paragraph in PISCES disclosure rules, and
+- (b) is accompanied by a statement, in such form as may be required by those rules, which—
+  - (i) identifies the core disclosure as a forward-looking statement, and
+  - (ii) refers to the effect of sub-paragraphs (1)(a) and (2).
+
+#### 6. Official communications[^key-d4773f3413deace54a79f5d6a87c10f3]
+
+A PISCES company does not incur any liability under regulation 13 for loss resulting from—
+
+- (a) a communication made by an official person which is included in a PISCES statement, or
+- (b) a communication contained in a public official document which is included in a PISCES statement,
+
+if it satisfies the court that the communication is accurately and fairly reproduced.
+
+#### 7. Exemptions from other liability[^key-db903c4355ab9529498b06e289faeb4d]
+
+(1) Except for liability under regulation 13, a PISCES company is not subject to any other liability in respect of any loss caused by a PISCES statement.
+
+(2) In sub-paragraph (1) the reference to liability, in relation to a PISCES company, includes a reference to another person being entitled as against that PISCES company to be granted any civil remedy or to rescind or repudiate an agreement.
+
+(3) A person other than the PISCES company is not subject to any liability, other than to the PISCES company, in respect of a PISCES statement.
+
+(4) This paragraph does not affect—
+
+- (a) civil liability under rules made under section 954 of the Companies Act 2006 (compensation),
+- (b) liability to a civil penalty,
+- (c) criminal liability, or
+- (d) the powers conferred by section 382 of FSMA 2000 (powers of the court to make a restitution order).
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations provide for the testing of the efficiency and effectiveness of a new kind of share-trading system, the Private Intermittent Securities and Capital Exchange System, or PISCES. The PISCES sandbox is a financial markets infrastructure (“**FMI**”) sandbox provided for at sections 13 to 17 of the Financial Services and Markets Act [2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29). FMI sandboxes provide for the testing of new or developing technologies or practices in FMI activities, and for the testing of whether or how relevant enactments should apply to the operation of a those new technologies or practices.
+
+Regulation 3 explains what a PISCES is and specifies the type of FMI activity that may be carried on in the PISCES sandbox arrangements, and identifies the FCA as appropriate regulator.
+
+Regulation 4 lists the types of FMI entity that are eligible to apply to participate as a PISCES operator.
+
+Regulation 5 specifies the other categories of person that may participate in the PISCES sandbox.
+
+Regulation 6 makes further provision about which individuals can participate in a PISCES as buyers of shares through their connection with a PISCES company, which is a company that is to have its shares traded on PISCES, or its group.
+
+Regulation 7 requires financial intermediaries (as defined in regulation 5) to satisfy themselves, before placing a buy order received directly from an investor, that the investor comes within one of the categories of specified investor listed at regulation 5.
+
+Regulation 8 prevents the placing of orders that would allow PISCES companies to buy or sell their own shares.
+
+Regulations 9 and 10 specify the procedure by which a person who is eligible may apply to the FCA for approval to operate a PISCES, and set out the FCA’s powers in respect of applications and approvals, including powers to impose conditions, limitations or restrictions on the PISCES operator.
+
+Regulation 11 confers powers on the FCA to modify, suspend or cancel a PISCES operator’s approval.
+
+Regulation 12 provides that the relevant enactments specified in Schedule 1 have effect with the modifications specified in that Schedule in relation to the FCA and to the persons participating in the PISCES sandbox.
+
+Regulation 13, together with Schedule 2, provides for a liability regime in respect of information disclosed in connection with trading on a PISCES.
+
+Regulation 14 confers powers on the FCA to make rules (as well as powers to waive or modify rules) applying to PISCES operators and sandbox participants for the purpose of implementing and operating the PISCES sandbox arrangements.
+
+Regulation 15 provides that the FCA may modify technical standards for the purpose of implementing and operating the PISCES sandbox arrangements.
+
+Regulation 16 requires the FCA to maintain arrangements for the operation of the PISCES sandbox arrangements including monitoring and supervision of PISCES operators, provides a power of direction for the FCA over PISCES operators, allows the FCA to publish PISCES approval notices (defined in regulation 10(3)), and requires the FCA to publish details of the PISCES sandbox arrangements among other things.
+
+Regulation 17 provides a power for the Treasury to impose restrictions on the overall activities of a PISCES operator within the PISCES sandbox.
+
+Regulation 18 amends the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 ([S.I. 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529)) so that PISCES companies are treated as unlisted companies for the purposes of that Order.
+
+Regulation 19 specifies the date by which the report on the sandbox arrangements required by section 14(2) of the Act (which is to be laid before Parliament under section 14(4)) must be prepared.
+
+Regulation 20 specifies the date on which these Regulations are to cease to have effect.
+
+Schedule 1, contains modifications to the following relevant enactments, for the purposes described in regulation 12:
+
+• Part 1: the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8);
+
+• Part 2: the Companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46),
+
+• Part 3: the Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges, Clearing Houses and Central Securities Depositories) Regulations 2001 ([S.I. 2001/995](https://www.legislation.gov.uk/uksi/2001/995)),
+
+• Part 4: the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005,
+
+• Part 5: [Regulation (EU)600/2014](https://www.legislation.gov.uk/european/regulation/2014/0600) of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments,
+
+• Part 6: [Regulation (EU) 2017/1129](https://www.legislation.gov.uk/european/regulation/2017/1129) of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing [Directive 2003/71/EC](https://www.legislation.gov.uk/european/directive/2003/0071), which is disapplied entirely, and
+
+• Part 7: Commission Delegated [Regulation (EU) 2017/565](https://www.legislation.gov.uk/european/regulation/2017/0565) of 25 April 2016 supplementing [Directive 2014/65/EU](https://www.legislation.gov.uk/european/directive/2014/0065) of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive.
+
+A de minimis impact assessment of the effect of this instrument is available from HM Treasury, 1 Horseguards Road, London SW1A 2HQ and is published alongside this instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^f00002]: Footnote: [2023 c. 29](https://www.legislation.gov.uk/ukpga/2023/29).
+
+[^f00003]: Footnote: The appropriate regulator for the purpose of section 17(2) of the Financial Services and Markets Act 2023.
+
+[^key-0a4c069d969172b883190d102efa2b25]: Commencement: Reg. 1 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-28b4b380b1eae115ed33a27e6774515e]: Commencement: Reg. 2 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^f00004]: Footnote: Section 31 was amended by section 11(1) of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). There are other amendments but none is relevant.
+
+[^f00005]: Footnote: [S.I. 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529).
+
+[^f00006]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Section 421ZA was inserted by section 48(2) of the Financial Services Act 2012.
+
+[^f00007]: Footnote: EUR 600/2014.
+
+[^f00008]: Footnote: Definitions in Article 2 were substituted by [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).
+
+[^f00009]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^f00010]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
+
+[^key-3252184d2ca0504771f4692927d67ea7]: Commencement: Reg. 3 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-8e477d48a24ecdc2b02d65979018be27]: Commencement: Reg. 4 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^f00011]: Footnote: Section 55A(5) was inserted by the Financial Services Act 2012.
+
+[^f00012]: Footnote: Article 25(1) was amended by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476), [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384) and [S.I. 2017/488](https://www.legislation.gov.uk/uksi/2017/488).
+
+[^f00013]: Footnote: Article 25D was inserted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384).
+
+[^f00014]: Footnote: Article 25DA was inserted by [S.I. 2017/488](https://www.legislation.gov.uk/uksi/2017/488).
+
+[^key-76d50731cde338d63f387d490047e148]: Commencement: Reg. 5 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^f00015]: Footnote: The definition of “trading venue” in section 313D(1) was substituted by [S.I. 2019/662](https://www.legislation.gov.uk/uksi/2019/662).
+
+[^f00016]: Footnote: The definition in Article 2(1)(8) was substituted by [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).
+
+[^f00017]: Footnote: Part 1 was substituted by [S.I. 2023/1411](https://www.legislation.gov.uk/uksi/2023/1411) and amended by [S.I. 2024/301](https://www.legislation.gov.uk/uksi/2024/301).
+
+[^f00018]: Footnote: Article 49 was amended by [S.I. 2011/1265](https://www.legislation.gov.uk/uksi/2011/1265) and [S.I. 2018/1253](https://www.legislation.gov.uk/uksi/2018/1253).
+
+[^f00019]: Footnote: Part 2 was substituted by [S.I. 2023/1411](https://www.legislation.gov.uk/uksi/2023/1411) and amended by [S.I. 2024/301](https://www.legislation.gov.uk/uksi/2024/301).
+
+[^f00020]: Footnote: Article 60(2) was amended by [S.I. 2005/3392](https://www.legislation.gov.uk/uksi/2005/3392).
+
+[^f00021]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1).
+
+[^f00022]: Footnote: Subsection (2) was substituted by the section 10(3) of the Financial Services Act 2012. Other relevant amendments to section 39 were made by [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701) and [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
+
+[^key-5d0050059dd72570662dc883f6ecbfcd]: Commencement: Reg. 6 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-bdb57129eb79188b91d8bcfb92bacbc4]: Commencement: Reg. 7 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^f00023]: Footnote: Relevant amendments were made to article 29 by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476) and [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384).
+
+[^key-9c22f6d6ae9108edcf088300fce08ad4]: Commencement: Reg. 8 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-38672a6cd51267c83c335d26a4758ee3]: Commencement: Reg. 9 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-78e865376277c2e078e8d92a57da19b8]: Commencement: Reg. 10 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-3375ca9a6dc5c72a9f816b615720a989]: Commencement: Reg. 11 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-7349c6e1115894ea8bf600778925e53f]: Commencement: Reg. 12 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^f00024]: Footnote: The meaning of “relevant enactment” is given by section 17(3) of the Act. The list in section 17(3) was amended by [S.I. 2024/1347](https://www.legislation.gov.uk/uksi/2024/1347), which inserted EUR 2017/1129.
+
+[^key-7b02fd2c7a7cd8276d0a6842d346b9fd]: Commencement: Reg. 13 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-8925c7023e0b37193ce42879ce4fb017]: Commencement: Reg. 14 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-674c88a7c1e81c28b674de7df95b6881]: Commencement: Reg. 15 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^f00025]: Footnote: Section 138P was inserted by [S.I. 2018/1115](https://www.legislation.gov.uk/uksi/2018/1115).
+
+[^key-8eb624afff621f67eea4ba27e6719784]: Commencement: Reg. 16 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-e91db541112dd9dd273c89798e4d4306]: Commencement: Reg. 17 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-12bac11004fbf2312d0973f7d4b5d117]: Commencement: Reg. 18 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^f00026]: Footnote: Article 3 was amended by [S.I. 2011/1265](https://www.legislation.gov.uk/uksi/2011/1265). There is another amendment which is not relevant.
+
+[^key-8c2b54af30607f7bdd053f81c79e0125]: Commencement: Reg. 19 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-8b19d6b777d9806525324d835509f5f4]: Commencement: Reg. 20 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-b83bef1b0507e846d7a16a2e78d8281f]: Commencement: Sch. 1 para. 1 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^f00027]: Footnote: Subsection (4) was substituted by paragraph 5(3) of Schedule 18 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). Relevant amending instruments are [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632), [S.I. 2024/102](https://www.legislation.gov.uk/uksi/2024/102).
+
+[^f00028]: Footnote: Section 66A was inserted by section 32(2) of the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33) and amended by section 25(2) of and paragraph 16 of Schedule 4 to the Bank of England and Financial Services Act [2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [S.I. 2015/1864](https://www.legislation.gov.uk/uksi/2015/1864). There are other amendments but none is relevant.
+
+[^f00029]: Footnote: Section 102B was substituted by [S.I. 2005/1433](https://www.legislation.gov.uk/uksi/2005/1433). Subsection (5) was amended by [S.I. 2019/707](https://www.legislation.gov.uk/uksi/2019/707). There are amendments but none is relevant.
+
+[^f00030]: Footnote: Section 137S was substituted by section 24(1) of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00031]: Footnote: Section 137T was substituted by section 24(1) of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and amended by section 66(2) of the Act.
+
+[^f00032]: Footnote: Section 139A was substituted by section 24(1) of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). There are amendments but none is relevant.
+
+[^f00033]: Footnote: Subsection (7) was amended by paragraph 1(6) of Schedule 12 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). There are other amendments but none is relevant.
+
+[^f00034]: Footnote: Section 166 was inserted by paragraph 5 of Schedule 12 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and amended by paragraph 6(3) of Schedule 2 to the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [S.I. 2025/22](https://www.legislation.gov.uk/uksi/2025/22).
+
+[^f00035]: Footnote: Section 166A was inserted by paragraph 6 of Schedule 12 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and amended by section 11(3) of the Act.
+
+[^f00036]: Footnote: Section 167 was amended by paragraph 7 of Schedule 12 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), paragraph 7 of Schedule 2 to the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [S.I. 2025/22](https://www.legislation.gov.uk/uksi/2025/22).
+
+[^f00037]: Footnote: Section 168 was amended by paragraph 16(2) of Schedule 2 to the Financial Services Act [2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), paragraph 8(5) and (6) of Schedule 12 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), paragraph 8(4) of Schedule 10 to the Act.
+
+[^f00038]: Footnote: Section 171 was amended by paragraph 8 of Schedule 2 to the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
+
+[^f00039]: Footnote: Subsection (3A) was inserted by paragraph 9(3) of Schedule 2 to the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22). There are amendments but none is relevant.
+
+[^f00040]: Footnote: Section 204A was inserted by paragraph 10 of Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). There are amendments but none is relevant.
+
+[^f00041]: Footnote: Section 205 was amended by paragraph 11 of Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). There are amendments but none is relevant.
+
+[^f00042]: Footnote: Section 206 was amended by paragraph 12 of Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). There are amendments but none is relevant.
+
+[^f00043]: Footnote: Section 207 was amended by paragraph 18 of Schedule 2 to the Financial Services Act [2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), paragraph 14 of Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [S.I. 2025/22](https://www.legislation.gov.uk/uksi/2025/22).
+
+[^f00044]: Footnote: Section 208 was amended by paragraph 19 of Schedule 2 to the Financial Services Act [2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), paragraph 15 of Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [S.I. 2025/22](https://www.legislation.gov.uk/uksi/2025/22).
+
+[^f00045]: Footnote: Section 209 was amended by paragraph 16 of Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [S.I. 2025/22](https://www.legislation.gov.uk/uksi/2025/22).
+
+[^f00046]: Footnote: Section 296 was amended by paragraph 14 of Schedule 8 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). There are other amendments but none is relevant.
+
+[^f00047]: Footnote: Section 312E was inserted by section 33 of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). There are amendments but none is relevant.
+
+[^f00048]: Footnote: Section 313A was inserted by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and amended by section 36 of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [S.I. 2010/1193](https://www.legislation.gov.uk/uksi/2010/1193), [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701).
+
+[^f00049]: Footnote: Section 313D was inserted by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and amended by [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701), [S.I. 2019/662](https://www.legislation.gov.uk/uksi/2019/662). There are other amendments but none is relevant.
+
+[^f00050]: Footnote: [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701). Regulation 8 was amended by [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).
+
+[^f00051]: Footnote: Section 380 was amended by paragraph 19 of Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). There are other amendments but none is relevant.
+
+[^f00052]: Footnote: Section 382 was amended by paragraph 21 of Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). There are other amendments but none is relevant.
+
+[^f00053]: Footnote: Section 415A was inserted by paragraph 30 of Schedule 2 to the Financial Services Act [2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28) and amended by paragraph 25 of Schedule 18 to the Financial Services [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^f00054]: Footnote: The definition of “rule” was substituted by section 48(1)(p) of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). There are other amendments to section 417 but none is relevant.
+
+[^f00055]: Footnote: Schedule 1ZA was substituted by Schedule 3 to the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^key-52c8ee1cd8f561c3f3fd0e2f1e2cfea6]: Commencement: Sch. 1 para. 2 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-d14fab9e9083cfe03ed4260852d6d524]: Commencement: Sch. 1 para. 3 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^f00056]: Footnote: [S.I. 2001/995](https://www.legislation.gov.uk/uksi/2001/995).
+
+[^f00057]: Footnote: Paragraph 3E was inserted by [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701).
+
+[^f00058]: Footnote: Paragraph 3H was inserted by [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701) and amended by [S.I. 2019/662](https://www.legislation.gov.uk/uksi/2019/662).
+
+[^f00059]: Footnote: Paragraph 9ZD was inserted by [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701).
+
+[^f00060]: Footnote: Paragraph 9A was inserted by [S.I. 2006/3386](https://www.legislation.gov.uk/uksi/2006/3386) and amended by [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701). There are other amendments but none are relevant.
+
+[^key-dd8f667f17a804561ddc7db5d5a1689b]: Commencement: Sch. 1 para. 4 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^f00061]: Footnote: Article 60 was amended by [S.I. 2005/3392](https://www.legislation.gov.uk/uksi/2005/3392), [S.I. 2010/86](https://www.legislation.gov.uk/uksi/2010/86).
+
+[^key-8e5addfe5437bc49613286a2afb6bcc6]: Commencement: Sch. 1 para. 5 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^f00062]: Footnote: Point (14) of Article 2(1) was substituted by [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).
+
+[^f00063]: Footnote: Point (14A) of Article 2(1) was substituted by [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).
+
+[^f00064]: Footnote: Article 23 was amended by paragraph 13 of Schedule 2 to the Act and [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).
+
+[^key-d5d3786db4d0e5abca58c064939fe9a5]: Textual amendment: [Sch. 1 Pt. 6](https://www.legislation.gov.uk/uksi/2025/583/schedule/1/part/6) substituted (19.1.2026) by The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 42](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/42); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+
+[^key-1c04a7435f270e52a7ed085a13b55097]: Commencement: Sch. 1 para. 7 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^f00066]: Footnote: EUR 2017/565.
+
+[^f00067]: Footnote: Article A1 was inserted by [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).
+
+[^key-91abb86600864ba513feaeb0162de75e]: Commencement: Sch. 2 para. 1 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-726493769d91571b58123670a19aecc1]: Commencement: Sch. 2 para. 2 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-1b35c35a2f9b1852bb166acc09fc380c]: Commencement: Sch. 2 para. 3 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-aef698ca8cc64a2ca20f8a8d7cfe7972]: Commencement: Sch. 2 para. 4 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-3385443e19ca48d3934c536bda19fc5c]: Commencement: Sch. 2 para. 5 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-d4773f3413deace54a79f5d6a87c10f3]: Commencement: Sch. 2 para. 6 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)
+
+[^key-db903c4355ab9529498b06e289faeb4d]: Commencement: Sch. 2 para. 7 in force at 5.6.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2)

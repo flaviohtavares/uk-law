@@ -1,0 +1,31 @@
+---
+title: Care Standards Act 2000, section 117
+act: Care Standards Act 2000
+section: '117'
+status: revised-with-pending-changes
+text_date: '2026-07-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2000/14/section/117
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Care Standards Act 2000, section 117
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/14
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 117. Transitional provisions, savings and repeals.[^c12427801]
+
+*Extent: E+W*
+
+(1) Schedule 5 (which makes transitional and saving provision) shall have effect; but nothing in that Schedule shall be taken to prejudice the operation of sections 16 and 17 of the [^c12427811]Interpretation Act 1978 (which relate to the effect of repeals).
+
+(2) The enactments mentioned in Schedule 6 to this Act are repealed to the extent specified in that Schedule.
+
+## Annotations
+
+[^c12427801]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2000/14/section/117) partly in force; [s. 117](https://www.legislation.gov.uk/ukpga/2000/14/section/117) not in force at Royal Assent see [s. 122](https://www.legislation.gov.uk/ukpga/2000/14/section/122); [s. 117(2)](https://www.legislation.gov.uk/ukpga/2000/14/section/117/2) in force for certain purposes at 2.10.2000 by [S.I. 2000/2544](https://www.legislation.gov.uk/uksi/2000/2544), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2000/2544/article/2/2/h); [s. 117(1)](https://www.legislation.gov.uk/ukpga/2000/14/section/117/1) in force for W. for certain purposes at 1.7.2001 by [S.I. 2001/2190](https://www.legislation.gov.uk/uksi/2001/2190), [art. 2](https://www.legislation.gov.uk/uksi/2001/2190/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/2190/schedule) Table; [s. 117(1)](https://www.legislation.gov.uk/ukpga/2000/14/section/117/1) in force for W. at 26.8.2001 by [S.I. 2001/2782](https://www.legislation.gov.uk/uksi/2001/2782), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2001/2782/article/2/1/l); [s. 117(2)](https://www.legislation.gov.uk/ukpga/2000/14/section/117/2) in force for E. for certain purposes at 4.10.2001 by [S.I. 2001/3331](https://www.legislation.gov.uk/uksi/2001/3331), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2001/3331/article/1/3), [2(b)](https://www.legislation.gov.uk/uksi/2001/3331/article/2/b); [s. 117](https://www.legislation.gov.uk/ukpga/2000/14/section/117) in force for E. for certain purposes at 1.4.2002 by [S.I. 2001/3852](https://www.legislation.gov.uk/uksi/2001/3852), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2001/3852/article/1/4), [3(2)(7)(j)](https://www.legislation.gov.uk/uksi/2001/3852/article/3/2/7/j) (subject to transitional provisions in [Sch. 1](https://www.legislation.gov.uk/uksi/2001/3852/schedule/1) and with transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2001/3852/schedule/2)) (as amended by [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), 2002/1493, 2002/1790, 2002/2001, 2002/3210); [s. 117](https://www.legislation.gov.uk/ukpga/2000/14/section/117) in force for E. for certain purposes at 1.4.2003 by [S.I. 2001/3852](https://www.legislation.gov.uk/uksi/2001/3852), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2001/3852/article/1/4), [3(2)(8)(c)](https://www.legislation.gov.uk/uksi/2001/3852/article/3/2/8/c) (subject to transitional provisions in [Sch. 1](https://www.legislation.gov.uk/uksi/2001/3852/schedule/1) and with transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2001/3852/schedule/2)) (as amended by [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), 2002/1493, 2002/1790, 2002/2001); [s. 117](https://www.legislation.gov.uk/ukpga/2000/14/section/117) in force for E. for certain purposes at 1.4.2002 and in force for E. for certain further purposes at 1.4.2003 by [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/4150/article/1/2), [3(2)(3)(c)(4)](https://www.legislation.gov.uk/uksi/2001/4150/article/3/2/3/c/4) (subject to transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2001/4150/article/4) and in [S.I. 2002/1493](https://www.legislation.gov.uk/uksi/2002/1493), [art. 4](https://www.legislation.gov.uk/uksi/2002/1493/article/4)) (as amended by [S.I. 2002/1493](https://www.legislation.gov.uk/uksi/2002/1493), 2002/1790, 2002/2001, 2002/3210); [s. 117](https://www.legislation.gov.uk/ukpga/2000/14/section/117) in force for W. for certain purposes at 1.4.2002 by [S.I. 2002/920](https://www.legislation.gov.uk/uksi/2002/920), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2002/920/article/1/4), [3(3)](https://www.legislation.gov.uk/uksi/2002/920/article/3/3) (subject to [art. 3(4)-(10)](https://www.legislation.gov.uk/uksi/2002/920/article/3/4) and to transitional provisions in [Schs. 1-3](https://www.legislation.gov.uk/uksi/2002/920/schedule/1)); [s. 117](https://www.legislation.gov.uk/ukpga/2000/14/section/117) in force for W. for certain purposes at 30.1.2003 by [S.I. 2003/152](https://www.legislation.gov.uk/uksi/2003/152), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/152/article/2/1); [s 117(2)](https://www.legislation.gov.uk/ukpga/2000/14/section/117/2) in force for W. for certain purposes at 30.4.2003 by [S.I. 2003/501](https://www.legislation.gov.uk/uksi/2003/501), [art. 2(3)](https://www.legislation.gov.uk/uksi/2003/501/article/2/3); [s. 117(2)](https://www.legislation.gov.uk/ukpga/2000/14/section/117/2) in force for E. for certain purposes at 30.4.2003 and 1.6.2003 by [S.I. 2003/365](https://www.legislation.gov.uk/uksi/2003/365), [art. 3(5)(6)](https://www.legislation.gov.uk/uksi/2003/365/article/3/5/6) (subject to [Sch.](https://www.legislation.gov.uk/uksi/2003/365/schedule)); [s. 117(2)](https://www.legislation.gov.uk/ukpga/2000/14/section/117/2) in force for W. for certain purposes at 2.10.2003 by [S.I. 2003/2528](https://www.legislation.gov.uk/uksi/2003/2528), [art. 2](https://www.legislation.gov.uk/uksi/2003/2528/article/2)
+
+[^c12427811]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

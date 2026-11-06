@@ -1,0 +1,90 @@
+---
+title: The London Transport (Male Wages Grades Pensions) (Amendment) Order 1974
+id: uksi/1974/526
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1974-03-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1974/526
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1974/526/pdfs/uksi_19740526_en.pdf
+- http://www.legislation.gov.uk/uksi/1974/526/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The London Transport (Male Wages Grades Pensions) (Amendment) Order 1974
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1974 No. 526
+
+TRANSPORT
+
+PENSIONS AND COMPENSATION
+
+The London Transport (Male Wages Grades Pensions) (Amendment) Order 1974
+
+Made
+
+21st March 1974
+
+Laid before Parliament
+
+1st April 1974
+
+Coming into Operation
+
+22nd April 1974
+
+The Secretary of State for the Environment, in exercise of powers conferred by section 74 of the Transport Act 1962 and section 18 of the Transport (London) Act 1969 and now vested in him[^f00001], and of all other enabling powers, hereby makes the following Order on the application which the London Transport Executive have made with the approval of the Greater London Council:—
+
+**1.** (1) This Order shall come into operation on 22nd April 1974, and may be cited as the London Transport (Male Wages Grades Pensions) (Amendment) Order 1974.
+
+(2) The Interpretation Act 1889 shall apply for the interpretation of this Order as it applies for the interpretation of an Act of Parliament.
+
+**2.** The Rules of the London Transport (Male Wages Grades) Pension Scheme as set out in the Schedule to the London Transport (Male Wages Grades Pensions) Order 1966[^f00002], as amended[^f00003], (as those Rules and that Scheme now have effect subject to the provisions of any orders made under section 74 of the Transport Act 1962) shall be amended as follows:—
+
+(1) In Rule 12, after the words “ill-health retirement pensions and benefits” there shall be added the words “supplementary pensions”.
+
+(2) After Rule 16 there shall be inserted the following Rule:—
+
+> **16A. Flat-rate supplement to basic pension**
+>
+> - (a) This Rule applies to every person who
+>   - (i) is entitled on 1st January 1974, or
+>   - (ii) becomes entitled after 1st January 1974 but before 7th April 1975, or
+>   - (iii) having been born before 7th April 1910, becomes entitled on or after 7th April 1975,
+>
+>   to receive any age or ill-health retirement pension under the provisions of Rule 13, 14, 15(b) or 16(b).
+> - (b) A person to whom this Rule applies shall be entitled to receive with effect from 1st January 1974 or the date on which entitlement to his basic pension arises, whichever is later, a supplementary pension at a flat-rate of 74p a week, to be paid as an addition to his basic pension and to be payable so long as his basic pension continues.
+> - (c) For the purposes of Rule 31 the said supplementary pension shall be disregarded but, save as aforesaid, the provisions of these Rules about pensions payable under these Rules shall apply in relation to the said supplementary pension as they apply in relation to any pension payable under any of the Rules mentioned in paragraph (a) of this Rule.
+> - (d) Where a person to whom this Rule applies is entitled under the provisions of this Rule to receive the said supplementary pension in respect of a period before the date of the coming into operation of the London Transport (Male Wages Grades Pensions) (Amendment) Order 1974, payment of the said pension to or for the benefit of that person for that period and for any further period between that date and the commencement of the first of the four-weekly periods specified in Rule 19 which begins after that date shall be made as soon as possible after that date.
+> - (e) In making any calculation of the sum to be paid to or for the benefit of any person in respect of the said supplementary pension for a fraction of a week such a pension shall be treated as accruing due at the rate of 13p a day, except a Sunday which for the purpose of this paragraph shall be disregarded.
+> - (f) In this Rule “**basic pension**”, in relation to a person to whom this Rule applies, means the pension, or the aggregate of the pensions, payable to or for the benefit of that person under any one or more of Rules 13, 14, 15(b) and 16(b).
+
+Signed by authority of the Secretary of State.
+
+Fred Mulley
+
+Minister for Transport
+
+Department of the Environment
+
+21st March 1974
+
+EXPLANATORY NOTE
+
+This Order amends the Rules of the London Transport (Male Wages Grades) Pension Scheme so as to make provision for a supplementary pension of 74p a week for persons who are entitled on 1st January 1974, or who become entitled after that date but before 7th April 1975, or who become entitled on or after 7th April 1975 but are over age 65 on that date, to receive a basic pension from the Scheme. The supplementary pension will be payable as from 1st January 1974 or the date of commencement of the basic pension, whichever is the later.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. 1970/1681 (1970 III, p. 5551).
+
+[^f00002]: Footnote: (1966 III, p. 2789).
+
+[^f00003]: Footnote: S.I. 1966/1556(1966 III, p. 4756).

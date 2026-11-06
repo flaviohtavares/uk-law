@@ -1,0 +1,250 @@
+---
+title: The Special Annual Allowance Charge (Application to Members of Currently-Relieved Non-UK Pension Schemes) Order 2009
+id: uksi/2009/2031
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-07-21'
+text_date: '2010-03-19'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2009/2031
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/2031/pdfs/uksiem_20092031_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2031/pdfs/uksi_20092031_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2031/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Special Annual Allowance Charge (Application to Members of Currently-Relieved Non-UK Pension Schemes) Order 2009
+
+> Text as at 2010-03-19.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2009 No. 2031
+
+Income Tax
+
+The Special Annual Allowance Charge (Application to Members of Currently-Relieved Non-UK Pension Schemes) Order 2009
+
+Made
+
+21st July 2009
+
+Laid before the House of Commons
+
+22nd July 2009
+
+Coming into force
+
+12th August 2009
+
+The Treasury make this Order in exercise of the powers conferred by paragraph 20(1) and (2) of Schedule 35 to the Finance Act 2009[^f00001].
+
+## 1. Citation, commencement and interpretation[^key-fdf7c6609ac5e65cf5f3dea023f4c6c5]
+
+(1) This Order may be cited as the Special Annual Allowance Charge (Application to Members of Currently-Relieved Non-UK Pension Schemes) Order 2009 and shall come into force on 12th August 2009.
+
+(2) This Order shall have effect for the tax year 2009-10 and subsequent tax years.
+
+(3) In this Order a reference to Schedule 35 is a reference to Schedule 35 to the Finance Act 2009.
+
+## 2. Application of the special annual allowance charge[^key-1f99247c0d8c76309ab2b0e2fe179e82]
+
+(1) The provisions in Schedule 35 shall apply to individuals who are members of currently-relieved non-UK pension schemes as if those schemes were registered pension schemes.
+
+(2) Paragraph (1) shall have effect subject to the modifications of Schedule 35 specified in this Order.
+
+## 3. Modifications of Schedule 35[^key-584d348ff94a7eb910f4a919b7c5f7c0]
+
+For the words “scheme administrator”, in each place where they occur, substitute the words “scheme manager”.
+
+**4.**[^key-38f09ef34a3273acc575b7b99f3d04be] (1) In paragraph 3 of Schedule 35 the calculation of the total adjusted pension input amount for members of currently-relieved non-UK pension schemes shall be arrived at with the following modifications.
+
+(2) Section 230(1) and 234(1) of FA 2004 (cash balance and defined benefits arrangements) shall apply as if the increase in the value of the individual’s rights under an arrangement under the pension scheme relating to the individual during the tax year were the greater of—
+
+- (a) the appropriate fraction of what it otherwise would be (see paragraph (3)); and
+- (b) the amount of any contributions paid under the arrangement during the tax year by or on behalf of the individual (otherwise than by an employer) in respect of which relief is given by virtue of—
+  - (i) Schedule 33 to FA 2004 (overseas pensions schemes: migrant member relief),
+  - (ii) paragraph 51 of Schedule 36 to FA 2004 (individuals with pre-commencement entitlement to corresponding relief), or
+  - (iii) double tax arrangements,
+
+and section 237 of FA 2004 (hybrid arrangements) shall apply accordingly.
+
+(3) The appropriate fraction referred to in paragraph (2)(a) is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2009/2031)
+
+where—
+
+- EI is the total amount of employment income of the individual from any relevant employment or employments for the tax year, excluding any such income which is exempt income (within the meaning of section 8 of ITEPA 2003), and
+- TE is so much of EI as constitutes taxable earnings from any such employment (within the meaning of section 10(2) of ITEPA 2003).
+
+(4) For the purposes of paragraph (3) an employment is a relevant employment if it is an employment with an employer who is a sponsoring employer in relation to the currently-relieved non-UK pension scheme.
+
+(5) Section 233(1) of FA 2004 (other money purchase arrangements) shall apply as if—
+
+- (a) the reference in section 233(1)(a) of FA 2004 to relievable pension contributions paid by or on behalf of the individual under an arrangement under the pension scheme relating to the individual were to those in respect of which relief from tax is given by virtue of—
+  - (i) Schedule 33 to FA 2004 (overseas pensions schemes: migrant member relief),
+  - (ii) paragraph 51 of Schedule 36 to FA 2004 (individuals with pre-commencement entitlement to corresponding relief), or
+  - (iii) double tax arrangements; and
+- (b) the reference in section 233(1)(b) of FA 2004 to contributions paid in respect of the individual under such an arrangement by an employer of the individual were to the appropriate fraction of the contributions so paid (as to which see paragraph (6)),
+
+and section 237 of FA 2004 shall apply accordingly.
+
+(6) The appropriate fraction referred to in paragraph (5)(b) is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2009/2031)
+
+where—
+
+- EI is the total amount of employment income of the individual from any employment or employments with the employer for the tax year, excluding any such income which is exempt income (within the meaning of section 8 of ITEPA 2003), and
+- TE is so much of EI as constitutes taxable earnings from any such employment (within the meaning of section 10(2) of ITEPA 2003).
+
+**5.**[^key-fac2d4e41bf2c17e8f5df608b0b450a0] (1) Paragraph 6 of Schedule 35 shall be modified as follows.
+
+(2) In sub-paragraph (2)—
+
+- (a) after the words “under sub-paragraph (3)” insert “as modified by article 5 of the Special Annual Allowance Charge (Application to Members of Currently-Relieved Non-UK Pension Schemes) Order 2009 (“the 2009 Order”)”; and
+- (b) after the words “in accordance with paragraph 3(2)” insert “as modified by article 4 of the 2009 Order”.
+
+(3) Sub-paragraph (3) shall apply as if the amount arrived at were the appropriate fraction of what it otherwise would be (see paragraph (4)).
+
+(4) The appropriate fraction referred to in paragraph (3) is—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2009/2031)
+
+where—
+
+- EI is the total amount of employment income of the individual from any relevant employment or employments for the tax year, excluding any such income which is exempt income (within the meaning of section 8 of ITEPA 2003), and
+- TE is so much of EI as constitutes taxable earnings from any such employment (within the meaning of section 10(2) of ITEPA 2003).
+
+(5) For the purposes of paragraph (4) an employment is a relevant employment if it is an employment with an employer who is a sponsoring employer in relation to the currently-relieved non-UK pension scheme.
+
+(6) In sub-paragraph (6) after the words “(but as if references to the pension input period were to the tax year and whether or not the arrangement is a defined benefits arrangement).” insert “This sub-paragraph is subject to sub-paragraph (7)”.
+
+(7) After sub-paragraph (6) insert—
+
+> (7) The references to “amount” in subsections (2), (3) and (5) of section 236 shall be read as references to an amount referable to a member’s UK tax-relieved fund only.
+
+.
+
+**6.**[^key-4b5c10c258f17f089c4496bffb05776f] (1) Paragraph 13 of Schedule 35 shall be modified as follows.
+
+(2) In sub-paragraphs (2)(a) and (6) the references to “employer” and “employment” shall be read as including “former employer” and “former employment” where the individual was—
+
+- (a) an employee of that former employer;
+- (b) resident outside the UK, and either—
+  - (i) a member of an occupational pension scheme or a group personal pension scheme relating to that former employment or,
+  - (ii) a member of a public service pension scheme.
+
+(3) In sub-paragraph (2)(b) the reference to “persons mentioned in sub-paragraph (1)(d)” shall be read as including persons who are employees of the former employer referred to in paragraph (2).
+
+**7.**[^key-59611529322c85b3fe59740082f01739] (1) Paragraph 15 of Schedule 35 shall be modified as follows.
+
+(2) For sub-paragraph (4) substitute—
+
+> (4) “Relevant relievable pension contributions” are contributions which—
+>
+> - (a) are relievable pension contributions in relation to the individual, and are paid to the pension scheme under the arrangement in the tax year;
+> - (b) are contributions in respect of which the individual is given relief from tax under double tax arrangements and which are paid under the arrangement in the tax year; or
+> - (c) are contributions paid under the arrangement by the individual for which a deduction is given under Chapter 2 of Part 5 of ITEPA 2003 for the tax year in accordance with paragraph 51 of Schedule 36 to FA 2004,
+>
+>   but this is subject as follows.
+
+.
+
+**8.**[^key-39bda3961f94d134865072c62d950945] For sub-paragraph (3) of paragraph 16 of Schedule 35 substitute—
+
+> (3) In relation to a money purchase arrangement that is not a cash balance arrangement, a pre-22 April 2009 pension input amount is so much of the amount arrived at under paragraph 3(2) as is attributable to contributions—
+>
+> - (a) which are paid in the period beginning with 6 April 2009 and ending with 22[^key-8ceaded2de541a072226cb790dfda2a5] April 2009, other than any contributions paid pursuant to an agreement for the payment of contributions on a quarterly or more frequent basis; and—
+> - (b) in respect of which relief is given by virtue of—
+>   - (i) Schedule 33 to FA 2004 (overseas pensions schemes: migrant member relief),
+>   - (ii) paragraph 51 of Schedule 36 to FA 2004 (individuals with pre-commencement entitlement to corresponding relief), or
+>   - (iii) double tax arrangements.
+
+.
+
+**9.**[^key-39c921b02981744b78ddf82475ca087c] (1) Paragraph 17 of Schedule 35 shall be modified as follows.
+
+(2) In sub-paragraph (4) the definition of “infrequent money purchase contributions amount” shall be read as including any relevant contributions under overseas pension schemes paid in a tax year in which the individual was not resident in the UK.
+
+(3) For sub-paragraph (6) substitute—
+
+> (6) “Relevant contributions” for a tax year in which an individual is resident in the UK means contributions made to money purchase arrangements (other than cash balance arrangements) which—
+>
+> - (a) are relievable pension contributions in relation to the individual, and are paid to the pension scheme under the arrangement in the tax year;
+> - (b) are contributions in respect of which the individual is given relief from tax under double tax arrangements and which are paid under the arrangement in the tax year;
+> - (c) are contributions paid under the arrangement by the individual for which a deduction is given under Chapter 2 of Part 5 of ITEPA 2003 for the tax year in accordance with paragraph 51 of Schedule 36 to FA 2004; or
+> - (d) are contributions paid by an employer of the individual in respect of the  individual.
+
+.
+
+(4) After sub-paragraph (6) insert—
+
+> (7) “Relevant contributions” for a tax year in which an individual was not resident in the UK means contributions made to money purchase arrangements (other than cash balance arrangements) under an overseas pension scheme which—
+>
+> - (a) are paid by or behalf of an individual; or
+> - (b) are paid by an employer of the individual in respect of the individual.
+
+.
+
+**10.**[^key-204fd5d289f8d667e46fcfdc6a52879f] For paragraph 18 of Schedule 35 substitute—
+
+> **18.** (1)  Part 4 of FA 2004 applies in relation to a contributions refund lump sum as if it were a short service refund lump sum in excess of the limit specified in section 205(4) of that Act (so that it is not an unauthorised payment and is liable to tax at the rate chargeable on a short service refund lump sum).
+>
+> This sub-paragraph is subject to sub-paragraph (2).
+>
+> (2) Section 205 of FA 2004 shall apply with respect to a contributions refund lump sum paid to or in respect of an individual who is a member of a currently-relieved non-UK pension scheme so as to make the person to whom the sum is paid (rather than the scheme administrator) liable to any charge imposed by section 205 FA 2004.
+
+.
+
+Dave Watts
+
+Frank Roy
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+21st July 2009
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order applies modifications to the provisions of Schedule 35 to the Finance Act 2009 (“Schedule 35”) in their application to individuals who are members of currently-relieved non-UK pension schemes. Schedule 35 creates a new charge to income tax on contributions and other amounts paid into pension schemes: the special annual allowance charge. Currently-relieved non-UK pension schemes are schemes in relation to which Schedule 34 to the Finance Act 2004 makes provision.
+
+Because paragraph (2) of article 1 provides that the Order has effect from the tax year 2009-2010, it is retrospective. Sub-paragraph (2)(a) of paragraph 20 of Schedule 35 to the Finance Act 2009 provides that an Order made under paragraph 20(1) may include provision having effect in relation to times before it is made.
+
+A full and final Impact Assessment has not been produced for this instrument as a negligible impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c.10](https://www.legislation.gov.uk/ukpga/2009/10).
+
+[^key-fdf7c6609ac5e65cf5f3dea023f4c6c5]: Commencement: Art. 1 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+
+[^key-1f99247c0d8c76309ab2b0e2fe179e82]: Commencement: Art. 2 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+
+[^key-584d348ff94a7eb910f4a919b7c5f7c0]: Commencement: Art. 3 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+
+[^key-38f09ef34a3273acc575b7b99f3d04be]: Commencement: Art. 4 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+
+[^key-fac2d4e41bf2c17e8f5df608b0b450a0]: Commencement: Art. 5 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+
+[^key-4b5c10c258f17f089c4496bffb05776f]: Commencement: Art. 6 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+
+[^key-59611529322c85b3fe59740082f01739]: Commencement: Art. 7 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+
+[^key-39bda3961f94d134865072c62d950945]: Commencement: Art. 8 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+
+[^key-8ceaded2de541a072226cb790dfda2a5]: Textual amendment: Word in art. 8 substituted (19.3.2010 for the tax year 2009-10 and subsequent tax years) by virtue of [The Special Annual Allowance Charge (Protected Pension Input Amounts) Order 2010 (S.I. 2010/429)](https://www.legislation.gov.uk/uksi/2010/429), [arts. 1](https://www.legislation.gov.uk/uksi/2010/429/article/1), [11](https://www.legislation.gov.uk/uksi/2010/429/article/11)
+
+[^key-39c921b02981744b78ddf82475ca087c]: Commencement: Art. 9 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)
+
+[^key-204fd5d289f8d667e46fcfdc6a52879f]: Commencement: Art. 10 in force at 12.8.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2031/article/1/1)

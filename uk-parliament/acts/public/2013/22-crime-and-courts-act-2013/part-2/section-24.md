@@ -1,0 +1,49 @@
+---
+title: Crime and Courts Act 2013, section 24
+act: Crime and Courts Act 2013
+section: '24'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2013/22/section/24
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Crime and Courts Act 2013, section 24
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 24. Appeals relating to regulation of the Bar[^key-53e2fbb5dd83cdd765490e0b07c7f24f]
+
+*Extent: E+W*
+
+(1) Section 44 of the Senior Courts Act 1981 (extraordinary functions of High Court judges) ceases to have the effect of conferring jurisdiction on judges of the High Court sitting as Visitors to the Inns of Court.
+
+(2) The General Council of the Bar, an Inn of Court, or two or more Inns of Court acting collectively in any manner, may confer a right of appeal to the High Court in respect of a matter relating to—
+
+- (a) regulation of barristers,
+- (b) regulation of other persons regulated by the person conferring the right,
+- (c) qualifications or training of barristers or persons wishing to become barristers, or
+- (d) admission to an Inn of Court or call to the Bar.
+
+(3) An Inn of Court may confer a right of appeal to the High Court in respect of—
+
+- (a) a dispute between the Inn and a member of the Inn, or
+- (b) a dispute between members of the Inn;
+
+and in this subsection any reference to a member of an Inn includes a reference to a person wishing to become a member of that Inn.
+
+(4) A decision of the High Court on an appeal under this section is final.
+
+(5) Subsection (4) does not apply to a decision disbarring a person.
+
+(6) The High Court may make such order as it thinks fit on an appeal under this section.
+
+(7) A right conferred under subsection (2) or (3) may be removed by the person who conferred it; and a right conferred under subsection (2) by two or more Inns of Court acting collectively may, so far as relating to any one of the Inns concerned, be removed by that Inn.
+
+## Annotations
+
+[^key-53e2fbb5dd83cdd765490e0b07c7f24f]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2013/22/section/24) in force at 7.1.2014 by [S.I. 2013/3176](https://www.legislation.gov.uk/uksi/2013/3176), [art. 2](https://www.legislation.gov.uk/uksi/2013/3176/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/3176/article/3))

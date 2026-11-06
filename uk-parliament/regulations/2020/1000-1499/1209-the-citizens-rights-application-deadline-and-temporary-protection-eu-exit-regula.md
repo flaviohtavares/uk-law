@@ -1,0 +1,569 @@
+---
+title: The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020
+id: uksi/2020/1209
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-11-03'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2020/1209
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/1209/pdfs/uksiem_20201209_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1209/pdfs/uksi_20201209_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1209/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2020 No. 1209
+
+Exiting The European Union
+
+Immigration
+
+The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020
+
+Made
+
+3rd November 2020
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 7(1) and (4) of, and paragraph 12 of Schedule 4 to, the European Union (Withdrawal Agreement) Act 2020 [^c24319921].
+
+These are the first regulations to be made under paragraphs (b), (c), (d), (e), (f) and (g) of section 7(1) of that Act. In accordance with paragraph 1(1) of Schedule 4 to that Act, a draft of these Regulations was laid before and approved by a resolution of each House of Parliament.
+
+## PART 1 — Preliminary
+
+### 1. Citation, commencement and interpretation[^key-faa38bf0f2500cca69903c112e0021a1]
+
+(1) These Regulations may be cited as the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 and come into force on IP completion day [^c24319931].
+
+(2) In these Regulations—
+
+- “the EEA Regulations 2016” mean the Immigration (European Economic Area) Regulations 2016 [^c24319941];
+- “**application deadline**” has the meaning given in regulation 2.
+
+## PART 2 — Deadline for applications
+
+### 2. Deadline for applications[^key-18e68c1bcadd41b97484f10cf234a520]
+
+The end of 30 June 2021 is the deadline for submission of an application for residence status (“application deadline”) that applies for the purposes of the following provisions—
+
+- (a) the first sub-paragraph of Article 18(1)(b) of the withdrawal agreement [^c24319951];
+- (b) the first sub-paragraph of Article 17(1)(b) of the EEA EFTA separation agreement [^c24319961], and
+- (c) the first sentence of Article 16(1)(b) of the Swiss citizens' rights agreement [^c24319971].
+
+## PART 3 — Saving of the EEA Regulations 2016 etc. during the grace period and whilst applications are finally determined
+
+### 3. Grace period[^key-d1e1ee0f69b06a1a8701d7784b2701bc]
+
+(1) This regulation has effect if the EEA Regulations 2016 are revoked on IP completion day (with or without savings).
+
+(2) The provisions of the EEA Regulations 2016 specified in regulations 5 to 10 continue to have effect (despite the revocation of those Regulations) with the modifications specified in those regulations in relation to a relevant person during the grace period.
+
+(3) The provisions specified in regulation 11 apply in relation to a relevant person during the grace period as if any reference to the EEA Regulations 2016 or any provision of those Regulations are to the Regulations or provision of the Regulations as continued in effect and modified by regulations 5 to 10.
+
+(4) The enactments specified in regulation 12 apply in relation to a relevant person during the grace period with the modifications specified in that regulation.
+
+(5) For the purposes of this regulation—
+
+- (a) the grace period is the period beginning immediately after IP completion day and ending with the application deadline;
+- (b) a person is to be treated as residing in the United Kingdom at any time which would be taken into account for the purposes of calculating periods when the person was continuously resident for the purposes of the EEA Regulations 2016 (see regulation 3);
+- (c) a person who does not have the right to reside in the United Kingdom permanently is to be treated as having such a right if the person had a right of permanent residence in the United Kingdom under those Regulations (see regulation 15) and who, immediately before IP completion day, has been absent from the United Kingdom for a continuous period of 5 years or less (disregarding any period of absence before the person acquired the right of permanent residence).
+
+(6) In this regulation—
+
+- “**EEA document**” means—
+  - (a) an EEA family permit issued under regulation 12 of the EEA Regulations 2016;
+  - (b) a registration certificate issued under regulation 17 of those Regulations, or
+  - (c) a residence card issued under regulation 18 of those Regulations;
+- “family member”—
+  - (a) has the same meaning as in paragraph (1) of regulation 7 of the EEA Regulations 2016 (read with paragraph (2) of that regulation) as those Regulations had effect immediately before IP completion day, and
+  - (b) includes an extended family member within the meaning of regulation 8 of those Regulations as they had effect immediately before IP completion day if that person—
+    - (i) immediately before IP completion day satisfied the condition in regulation 8(5) of those Regulations (durable partner), or
+    - (ii) holds a valid EEA document (regardless of whether that document was issued before or after IP completion day);
+- “**relevant family member**”, in relation to a person (“P”), means a family member who—
+  - (a) was a family member of P immediately before IP completion day;
+  - (b) is P's child and—
+    - (i) the child's other parent is a relevant person or has leave to enter or remain in the United Kingdom by virtue of residence scheme immigration rules [^c24319981];
+    - (ii) the child's other parent is a British citizen;
+    - (iii) P has sole or joint rights of custody of the child in the circumstances set out in the last point of Article 10(1)(e)(iii) of the withdrawal agreement or the last point of Article 9(1)(e)(iii) of the EEA EFTA separation agreement, or
+    - (iv) P falls within Article 10(1)(e)(iii) of the Swiss citizens' rights agreement (children of beneficiaries of that agreement);
+  - (c) becomes a family member of P after IP completion day by virtue of being issued with an EEA document (see paragraph (b)(ii) of the definition of “ family member ”), or
+  - (d) is the spouse or civil partner of P and P is a national of Switzerland;
+- “**relevant person**” means a person who does not have (and who has not, during the grace period, had) leave to enter or remain in the United Kingdom by virtue of residence scheme immigration rules and who—
+  - (a) immediately before IP completion day—
+    - (i) was lawfully resident in the United Kingdom by virtue of the EEA Regulations 2016, or
+    - (ii) had a right of permanent residence in the United Kingdom under those Regulations (see regulation 15), or
+  - (b) is not a person who falls within sub-paragraph (a) but is a relevant family member of a person who immediately before IP completion day—
+    - (i) did not have leave to enter or remain in the United Kingdom by virtue of residence scheme immigration rules, and
+    - (ii) either—
+    - (aa) was lawfully resident in the United Kingdom by virtue of the EEA Regulations 2016, or
+    - (bb) had a right of permanent residence in the United Kingdom under those Regulations (see regulation 15).
+
+### 4. Applications which have not been finally determined by the application deadline[^key-a191006d38c67ebb9b7f33de1b2197b6]
+
+(1) This regulation has effect if the EEA Regulations 2016 are revoked on IP completion day (with or without savings).
+
+(2) This regulation applies to a person (“**the applicant**”) who—
+
+- (a) has made an in-time application (see paragraph (6)), and
+- (b) immediately before IP completion day—
+  - (i) was lawfully resident in the United Kingdom by virtue of the EEA Regulations 2016, or
+  - (ii) had a right of permanent residence in the United Kingdom under those Regulations (see regulation 15).
+
+(3) The provisions of the EEA Regulations 2016 specified in regulations 5 to 10 continue to have effect (despite the revocation of those Regulations) with the modifications specified in those regulations in relation to the applicant during the relevant period.
+
+(4) The provisions specified in regulation 11 apply in relation to the applicant during the relevant period as if any reference to the EEA Regulations 2016 or any provision of those Regulations are to the Regulations or provision of the Regulations as continued in effect and modified by regulations 5 to 10.
+
+(5) The enactments specified in regulation 12 apply in relation to the applicant during the relevant period with the modifications specified in that regulation.
+
+(6) For the purposes of this regulation—
+
+- (a) an in-time application is an application for leave to enter or remain in the United Kingdom by virtue of residence scheme immigration rules which—
+  - (i) is valid under residence scheme immigration rules;
+  - (ii) is made on or before the application deadline, and
+  - (iii) has not been withdrawn;
+- (b) the relevant period begins immediately after the application deadline and ends—
+  - (i) if the applicant is, by virtue of the in-time application, granted leave to enter or remain in the United Kingdom, on the day on which that leave is granted;
+  - (ii) if a decision is taken not to grant any leave to enter or remain in the United Kingdom in response to the applicant's application and the applicant does not appeal against that decision, on the first day on which the applicant is no longer entitled to appeal against that decision (ignoring any possibility of an appeal out of time with permission);
+  - (iii) if a decision is taken not to grant any leave to enter or remain in the United Kingdom in response to the applicant's application and the applicant brings an appeal against that decision, on the day on which that appeal is finally determined, withdrawn or abandoned, or lapses under paragraph 3 of Schedule 1 to the Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 [^c24319991];
+- (c) a person is to be treated as residing in the United Kingdom at any time which would be taken into account for the purposes of calculating periods when the person was continuously resident for the purposes of the EEA Regulations 2016 (see regulation 3);
+- (d) a person who does not have the right to reside in the United Kingdom permanently is to be treated as having such a right if the person had a right of permanent residence in the United Kingdom under those Regulations (see regulation 15) and who, immediately before IP completion day, has been absent from the United Kingdom for a continuous period of 5 years or less (disregarding any period of absence before the person acquired the right of permanent residence).
+
+(7) For the purposes of paragraph (6)(b)(iii)—
+
+- (a) an appeal is not finally determined while (as the case may be)—
+  - (i) an application for permission to appeal under section 11 or 13 of the Tribunals, Courts and Enforcement Act 2007 [^c24320001] could be made or is awaiting determination;
+  - (ii) permission to appeal under either of those sections has been granted and the appeal is awaiting determination;
+  - (iii) an appeal has been remitted under section 12 or 14 of that Act and is awaiting determination;
+  - (iv) any of the following applications could be made—
+    - (aa) an application for leave to appeal under section 7 of the applied 1997 Act;
+    - (bb) an application for a certificate under section 7B of the applied 1997 Act [^c24320011];
+    - (cc) an application for permission to appeal under section 7C of the applied 1997 Act, or
+  - (v) leave to appeal under section 7, or permission to appeal under section 7C, of the applied 1997 Act has been granted and the appeal is awaiting determination;
+- (b) an appeal is to be treated as abandoned if the appellant is granted leave to enter or remain in the United Kingdom by virtue of residence scheme immigration rules;
+- (c) an appeal is not to be treated as abandoned solely because the appellant leaves the United Kingdom.
+
+(8) For the purposes of paragraph (7), “**the applied 1997 Act**” means the Special Immigration Appeals Commission Act 1997 [^c24320021] as it applies for the purposes of the Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 by virtue of Part 2 of Schedule 1 to those Regulations.
+
+### 5. Provisions relating to definitions etc.[^key-1afbb0633c1b8419845c9706f765b459]
+
+The following provisions of Part 1 of the EEA Regulations 2016 (provisions relating to definitions etc.) with the modifications set out below are specified for the purposes of regulations 3 and 4—
+
+- (a) regulation 2 (general interpretation) with the modifications that—
+  - (i) all instances of the words “or any other right conferred by the EU Treaties”—
+    - (aa) in so far as they relate to things done on or after exit day but before IP completion day, were a reference to a right conferred by the EU Treaties so far as they were applicable to and in the United Kingdom by virtue of Part 4 of the EU withdrawal agreement [^c24320031];
+    - (bb) in so far as they relate to things done on or after IP completion day, were omitted;
+  - (ii) all instances of the words “or the EU Treaties”—
+    - (aa) in so far as they relate to things done after exit day but before IP completion day, were a reference to the EU Treaties so far as they were applicable to and in the United Kingdom by virtue of Part 4 of the EU withdrawal agreement;
+    - (bb) in so far as they relate to things done on or after IP completion day, were omitted;
+  - (iii) in paragraph (b) of the definition of “EEA decision”, “, a registration certificate, residence card, derivative residence card, document certifying permanent residence or permanent residence card” were omitted;
+  - (iv) in the definition of “EEA State”, so far as relevant to things done after exit day, “, other than the United Kingdom” were omitted;
+- (b) regulation 3 (continuity of residence);
+- (c) regulation 4 (“worker”, “self-employed person”, “self-sufficient person” and “student”) with the modification that, in paragraph (1)(b), for “in accordance with” there were substituted “ within the meaning of ”;
+- (d) regulation 5 (“worker or self-employed person who has ceased activity”);
+- (e) regulation 6 (“qualified person”) with the modifications that—
+  - (i) in paragraph (4C), “and having a genuine chance of being engaged” were omitted;
+  - (ii) in paragraph (6), after “employment and” there were inserted “ , when determining whether the person is a jobseeker, ”;
+  - (iii) in paragraph (7), after “continuing to seek employment and” there were inserted “ , where that person is a jobseeker, ”;
+- (f) regulation 7 (“family member”);
+- (g) regulation 8 (“extended family member”) with the modification that paragraph (8)(c) were omitted;
+- (h) regulation 9 (family members and extended family members of British citizens) with the modifications that—
+  - (i) in paragraph (1), at the end there were inserted “and BC is to be treated as satisfying any requirement to be a qualified person”;
+  - (ii) sub-paragraph (a) of paragraph (3) were omitted;
+  - (iii) paragraph (7) were omitted;
+- (i) regulation 9A (dual national: national of an EEA State who acquires British citizenship);
+- (j) regulation 10 (“family member who has retained the right of residence”) with the modification that, in paragraph (5)(a), “the initiation of proceedings for” were omitted.
+
+### 6. Provisions relating to residence rights[^key-df215d9d43e6b3ab62ea9059a76d0a66]
+
+The following provisions of Parts 2 and 3 of the EEA Regulations 2016 (provisions relating to residence rights and residence documentation) with the modifications set out below are specified for the purposes of regulations 3 and 4—
+
+- (a) regulation 11 (right of admission to the United Kingdom) with the modifications that—
+  - (i) sub-paragraph (a) of paragraph (2) were omitted;
+  - (ii) in paragraph (3), for “, a permanent residence card or a qualifying EEA State residence card” there were substituted “ or a permanent residence card ”;
+  - (iii) paragraph (4) were omitted;
+- (b) regulation 12 (issue of EEA family permit) with the modification that in paragraph (4), before sub-paragraph (a), there were inserted—
+
+  > - (aa) the extended family member satisfies the condition in paragraph (5) of regulation 8;
+
+  ;
+- (c) regulation 13 (initial right of residence) with the modification that in paragraph (4), after “26(3) (misuse of right to reside)”, there were inserted “ , 27A (decisions taken on conducive grounds) ”;
+- (d) regulation 14 (extended right of residence) with the modification that in paragraph (4), after “26(3)”, there were inserted “ , 27A ”;
+- (e) regulation 15 (right of permanent residence) with the modification that in paragraph (4), after “26(3)”, there were inserted “ , 27A ”;
+- (f) regulation 16 (derivative right to reside) with the modifications that—
+  - (i) in paragraph (5)(c), for “another” there were substituted “ an ”;
+  - (ii) in paragraph (12), after “26(3)”, there were inserted “ , 27A ”;
+- (g) regulation 21 (procedure for applications for documentation under this Part and regulation 12) with the modifications that—
+  - (i) in paragraph (1) and in paragraph (4A), “documentation under this Part, or for” were omitted;
+  - (ii) in paragraph (2), “this Part or” and “, as the case may be, as well as that required by paragraph (5),” were omitted;
+  - (iii) paragraphs (3), (5) and (6) were omitted;
+- (h) regulation 22 (verification of a right of residence) with the modifications that—
+  - (i) in paragraph (1)(b), the words “or documentation issued under Part 3” were omitted;
+  - (ii) in paragraph (2)(a), the words “or documentation under this Part” were omitted.
+
+### 7. Provisions relating to powers of refusal of admission and removal etc.[^key-3c59fbf82b70f2cea386f38a9368bd20]
+
+(1) Subject to paragraph (2), the following provisions of Part 4 of the EEA Regulations 2016 (provisions relating to refusal of admission and removal etc.) with the modifications set out below are specified for the purposes of regulations 3 and 4—
+
+- (a)[^key-a6d28cd488ba05743618d7a7243bbd0e] regulation 23 (exclusion and removal from the United Kingdom) with the modification that in each of paragraphs (1), (5), (6)(b) and (7)(b), after “regulation 27”, there were inserted “or on conducive grounds in accordance with regulation 27A or if the person is subject to a deportation order by virtue of section 32 of the UK Borders Act 2007;”.
+- (b) regulation 24 (refusal to issue or renew and revocation of residence documentation) with the modifications that—
+  - (i) in paragraph (1)—
+    - (aa) “refuse to issue,”, “or refuse to renew” and “the refusal or” were omitted;
+    - (bb) after “public health”, there were inserted “ in accordance with regulation 27, or on conducive grounds in accordance with regulation 27A ”;
+  - (ii) in paragraph (2), “or an application made by that person for such a certificate, card or document” were omitted;
+  - (iii) in paragraphs (3) and (4), “or refuse to renew” were omitted;
+  - (iv) in paragraph (6)(a), after “public health”, there were inserted “ in accordance with regulation 27 or on conducive grounds in accordance with regulation 27A ”;
+  - (v) paragraph (7) were omitted;
+- (c) regulation 25 (cancellation of a right of residence) with the modification that in paragraph (2)(b), after “regulation 27”, there were inserted “ , on conducive grounds in accordance with regulation 27A ”;
+- (d) regulation 26 (misuse of a right to reside) with the modification that in paragraph (1)(a) “(as determined by reference to Council Directive [2004/38/EC](https://www.legislation.gov.uk/eudr/2004/38) and the EU Treaties)” were omitted;
+- (e) regulation 27 (decisions taken on grounds of public policy, public security and public health);
+- (f) as if, after regulation 27, there were inserted—
+
+  > **27A. Decisions taken on conducive grounds**
+  >
+  > (1) An EEA decision may be taken on the ground that the decision is conducive to the public good.
+  >
+  > (2) But a decision may only be taken under this regulation in relation to a person as a result of conduct of that person that took place after IP completion day.
+
+  ;
+- (g) regulation 28 (application of Part 4 to a person with a derivative right to reside) with the modification that paragraph (1)(c) were omitted;
+- (h) Schedule 1 (considerations of public policy, public security and the fundamental interests of society etc.) with the modification that for paragraph 1 there were substituted—
+
+  > **1.**
+  >
+  > The United Kingdom enjoys considerable discretion, acting within the parameters set by the law, to define its own standards of public policy and public security, for purposes tailored to its individual context from time to time.
+
+  .
+
+(2) The provisions specified in paragraph (1) do not apply in any case where regulations made under section 9 of the European Union (Withdrawal Agreement) Act 2020 (restrictions of rights of entry and residence) apply.
+
+### 8. Provisions relating to procedures in relation to EEA decisions[^key-513f91e297825e9792d415de82d4c50e]
+
+The following provisions of Part 5 of the EEA Regulations 2016 (provisions relating to procedures or decisions under the EEA Regulations 2016) with the modifications set out below are specified for the purposes of regulations 3 and 4—
+
+- (a) regulation 29 (person claiming right of admission) with the modifications in paragraph (1)(a) that—
+  - (i) at the end of paragraph (iii), there were inserted “or”;
+  - (ii) paragraph (v) were omitted;
+- (b) regulation 30 (person refused admission) with the modification that in paragraph (2), the reference to “, a qualifying EEA State residence card” were omitted;
+- (c) regulation 31 (revocation of admission);
+- (d) regulation 32 (person subject to removal) with the modification that in paragraph (5), after “public health”, there were inserted “ in accordance with regulation 27 or on conducive grounds in accordance with regulation 27A ”;
+- (e) regulation 33 (human rights considerations and interim orders to suspend removal);
+- (f) regulation 34 (revocation of deportation and exclusion orders) with the modifications that—
+  - (i) in paragraph (3), after “deportation” there were inserted “ order made on the grounds of public policy, public security or public health in accordance with regulation 27 ”;
+  - (ii) after paragraph (5) there were inserted—
+
+    > (5A) A person who is subject to a deportation order made on conducive grounds in accordance with regulation 27A may apply to the Secretary of State to have it revoked in accordance with the immigration rules that apply in relation to an application for revocation of a deportation order made by virtue of section 3(5) of the Immigration Act 1971 [^c24320051]; and any such application is to be decided as if those rules applied to it.
+
+    .
+
+### 9. Provisions relating to appeals[^key-b054198d7802a6577afbc868202f8fa8]
+
+The following provisions of Part 6 of the EEA Regulations 2016 (provisions relating to appeals) with the modifications set out below are specified for the purposes of regulations 3 and 4—
+
+- (a) regulation 35 (interpretation of Part 6);
+- (b) regulation 36 (appeal rights);
+- (c) regulation 37 (out of country appeals);
+- (d) regulation 38 (appeals to the Commission);
+- (e) regulation 39 (national security: EEA Decisions);
+- (f) regulation 40 (effect of appeals to the First-tier Tribunal or Upper Tribunal);
+- (g) regulation 41 (temporary admission to submit case in person);
+- (h) regulation 42 (alternative evidence of identity and nationality);
+- (i) Schedule 2 (appeals to the First-tier Tribunal) with the modification that, in each of paragraphs 1 and 2(4), for “the EU Treaties”, there were substituted “the Immigration (European Economic Area) Regulations 2016, the EU withdrawal agreement, the EEA EFTA separation agreement (which has the same meaning as in the European Union (Withdrawal Agreement) Act 2020) or the Swiss citizens' rights agreement (which has the same meaning as in that Act)”.
+
+### 10. Miscellaneous provisions[^key-e7a63a20459cc9648be4dd9afed9e400]
+
+The following provisions of Part 7 of the EEA Regulations 2016 (miscellaneous provisions) with the modifications set out below are specified for the purposes of regulations 3 and 4—
+
+- (a) regulation 43 (effect on other legislation);
+- (b) regulation 45 (revocations, savings, transitory and transitional provisions and consequential modifications) (except in so far as it relates to Part 1 of Schedule 4);
+- (c) Schedule 3 (effect on other legislation) with the modification that in paragraph 3, “a qualifying EEA State residence card,” were omitted;
+- (d) Part 2 of Schedule 4 (savings and modifications);
+- (e) Schedule 6 (transitional provisions) with the modification that in paragraph 4(1), paragraphs (b) to (f) were omitted;
+- (f) Schedule 7 (consequential modifications).
+
+### 11. Entitlement to benefits and public services[^key-52230c305b2ca3459609e1e1e951454b]
+
+The provisions specified in this regulation are—
+
+- (a) regulation 21AA (special cases: supplemental – persons from abroad) of the Income Support (General) Regulations 1987 [^c24320061];
+- (b) regulation 21AA (special cases: supplemental – persons from abroad) of the Income Support (General) Regulations (Northern Ireland) 1987 [^c24320071];
+- (c) regulation 85A (special cases: supplemental – persons from abroad) of the Jobseeker's Allowance Regulations 1996 [^c24320081];
+- (d) regulation 85A (special cases: supplemental – persons from abroad) of the Jobseeker's Allowance Regulations (Northern Ireland) 1996 [^c24320091];
+- (e) regulation 2 (persons not in Great Britain) of the State Pension Credit Regulations 2002 [^c24320101];
+- (f) regulation 3 (circumstances in which a person is treated as not being in the United Kingdom) of the Tax Credits (Residence) Regulations 2003 [^c24320111];
+- (g) regulation 2 (persons not in Northern Ireland) of the State Pension Credit Regulations (Northern Ireland) 2003 [^c24320121];
+- (ga)[^key-c64413b6893ddc8cdc3eb6b0024756f4] regulation 7 (funeral payments: entitlement) of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005;
+- (gb) regulation 7 (funeral payments: entitlement) of the Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005;
+- (h) regulation 10 (persons from abroad) of the Housing Benefit Regulations 2006 [^c24320131];
+- (i) regulation 10 (persons from abroad) of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 [^c24320141];
+- (j) regulations 23 (circumstances in which person treated as not being in Great Britain) and 27 (circumstances in which person treated as not being in Northern Ireland) of the Child Benefit (General) Regulations 2006 [^c24320151];
+- (k) regulations 2 (interpretation), 4 (other persons from abroad who are ineligible for an allocation of housing accommodation) and 6 (other persons from abroad who are ineligible for housing assistance) of the Allocation of Housing and Homelessness (Eligibility) (England) Regulations 2006 [^c24320161];
+- (l) regulations 2 (interpretation), 3 (persons from abroad who are ineligible for an allocation of housing accommodation) and 4 (persons from abroad who are ineligible for housing assistance) of the Allocation of Housing and Homelessness (Eligibility) Regulations (Northern Ireland) 2006 [^c24320171];
+- (m) regulation 10 (persons from abroad) of the Housing Benefit Regulations (Northern Ireland) 2006 [^c24320181];
+- (n) regulation 10 (persons from abroad) of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 [^c24320191];
+- (o) regulation 70 (special cases: supplemental – persons from abroad) of the Employment and Support Allowance Regulations 2008 [^c24320201];
+- (p) regulation 70 (special cases: supplemental – persons from abroad) of the Employment and Support Allowance Regulations (Northern Ireland) 2008 [^c24320211];
+- (q) regulation 12 (persons treated as not being in Great Britain) of the Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012 [^c24320221];
+- (r) regulation 16 (persons not entitled to council tax reduction: persons treated as not being in Great Britain) of the Council Tax Reduction (Scotland) Regulations 2012 [^c24320231];
+- (s) regulation 16 (persons not entitled to council tax reduction: persons treated as not being in Great Britain) of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012 [^c24320241];
+- (t) regulations 2 (interpretation) and 9 (persons treated as not being in Great Britain) of the Universal Credit Regulations 2013 [^c24320251];
+- (u) regulation 28 (persons treated as not being in Great Britain) of the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013 [^c24320261];
+- (v) paragraph 19 (class of persons excluded from this scheme: persons treated as not being in Great Britain) of the Schedule to the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013 [^c24320271];
+- (w) regulations 2 (interpretation), 4 (other persons from abroad who are ineligible for an allocation of housing accommodation) and 6 (other persons from abroad who are ineligible for housing assistance) of the Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014 [^c24320281];
+- (x) regulation 14C of the National Health Service (Charges to Overseas Visitors) Regulations 2015 (family members of British citizens of Northern Ireland) [^c24320291];
+- (y) regulations 2 (interpretation) and 9 (persons treated as not being in Northern Ireland) of the Universal Credit Regulations (Northern Ireland) 2016 [^c24320301].
+
+### 12. Modification of other enactments[^key-9d1c80429c299a36e48f3f9b1195dba3]
+
+(1) The following enactments with the modifications set out below are specified for the purposes of regulations 3 and 4—
+
+- (a) section 1(5) of the Aliens' Employment Act 1955 (definition of a “relevant European”) [^c24320311], as it had effect immediately before IP completion day, with the modification that, for paragraphs (a) to (c), there were substituted “a national of an EEA State or Switzerland, or a family member of such a national, who has a right of residence in the United Kingdom by virtue of the Immigration (European Economic Area) Regulations 2016 (as they continue to have effect by virtue of regulations 3 and 4 of the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020)”;
+- (b) section 3 of the Immigration Act 1971 [^c24320321], with the modification that a relevant person (within the meaning of regulation 3 of these Regulations) and the applicant (within the meaning of regulation 4 of these Regulations) are a “relevant person” within the meaning of that section (see section 3(10) of that Act);
+- (c) paragraph 3 of Schedule 4 to that Act (Islands deportation order treated as order made under the Immigration Act 1971) [^c24320331], as it had effect immediately before IP completion day;
+- (d) case 10A of Schedule 15 to the Rent Act 1977 (cases in which court may order possession) [^c24320341], as it had effect immediately before IP completion day;
+- (e) subsection (4)(e) of section 50A of the British Nationality Act 1981 (meaning of references to being in breach of immigration laws) [^c24320351], as it had effect immediately before IP completion day;
+- (f) Ground 7B of Schedule 2 to the Housing Act 1988 (grounds for possession of dwelling-houses let on assured tenancies) [^c24320361], as it had effect immediately before IP completion day;
+- (g) section 7(1) of the Immigration Act 1988 (persons exercising Community rights and nationals of member States) [^c24320371], as it had effect immediately before IP completion day, with the modification that “of an enforceable EU right or” were omitted;
+- (h) section 10 of the Immigration and Asylum Act 1999 (removal of persons unlawfully in the United Kingdom) [^c24320381], as it had effect immediately before IP completion day, with the modification that in subsection (5) “of an enforceable EU right or” were omitted;
+- (i) section 115 of that Act (exclusion from benefits) [^c24320391], as it had effect immediately before IP completion day;
+- (j) section 126 of the Nationality, Immigration and Asylum Act 2002 (physical data: compulsory provision) [^c24320401], as it had effect immediately before IP completion day, with the modification that in subsection (2)(e) “of an enforceable EU right or” were omitted;
+- (k) Schedule 3 (withholding and withdrawal of support) to that Act [^c24320411], with the modification that paragraph 3 applies as it had effect immediately before IP completion day and with the modification that for “the EU Treaties” there were substituted “the Immigration (European Economic Area) Regulations 2016 (as they continue to have effect by virtue of the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020)”;
+- (l) section 2 of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (offences to do with entering the United Kingdom without a passport) [^c24320421], as it had effect immediately before IP completion day, with the modification that, in subsections (4)(b) and (5)(b), for the reference to “the EU Treaties” there were substituted “the Immigration (European Economic Area) Regulations 2016 (as they continue to have effect by virtue of the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020)”;
+- (m) section 33 of the UK Borders Act 2007 [^c24320431], as if a relevant person (within the meaning of regulation 3 of these Regulations) and an applicant (within the meaning of regulation 4 of these Regulations) are, if the relevant person or applicant is a foreign criminal (see section 32 of that Act), a “relevant person” within the meaning of section 33 (see section 33(6C) of that Act);
+- (n) section 21 of the Immigration Act 2014 (persons disqualified by immigration status or with limited right to rent) [^c24320441], as it had effect immediately before IP completion day, with the modification that in subsection (4)(b)(ii) “of an enforceable EU right or” were omitted;
+- (o) section 27 of that Act (eligibility period in relation to person with limited right to rent) [^c24320451], as it had effect immediately before IP completion day, with the modification that in subsection (6)(a) “of an enforceable EU right or” were omitted;
+- (p) section 70A of that Act (immigration skills charge) [^c24320461], as it had effect immediately before 1st December 2020[^key-b690d4730c187ddf33cad9e3a44131c9], with the modification that in subsection (6)(d) “of an enforceable EU right or” were omitted;
+- (q) Part 2 of the Schedule to the Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000 (persons not excluded from certain benefits under section 115 of the Immigration and Asylum Act 1999) [^c24320471], as it had effect immediately before IP completion day;
+- (r) Part 2 of the Schedule to the Social Security (Immigration and Asylum) Consequential Amendments Regulations (Northern Ireland) 2000 (persons not excluded under Section 115 of the Immigration and Asylum Act from entitlement to attendance allowance, severe disablement allowance, disability living allowance, a Social Fund Payment or child benefit) [^c24320481], as it had effect immediately before IP completion day;
+- (s) the British Nationality (General) Regulations 2003 [^c24320491], as they had effect immediately before IP completion day, with the modification that in regulations 7E(2)(e) (use and retention of biometric information) and 7G(2)(f) (retention of fingerprints), and in paragraphs 7, 13 and 14 of Schedule 2 (particular requirements as respects applications), “of an enforceable EU right or” were omitted;
+- (t) the Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions) (England) Regulations 2006 [^c24320501], as they had effect immediately before IP completion day, with the modification that in regulation 5(2) (persons treated as occupying premises as their only or main residence for the purposes of section 254 of the Act), for sub-paragraph (a)(i) there were substituted—
+
+  > - (i) a person who is a national of a member State, an EEA State or Switzerland who has taken up an activity as an employed person in the United Kingdom by virtue of the Immigration (European Economic Area) Regulations 2016 (as they continue to have effect by virtue of the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020);
+
+  ;
+- (u) the Immigration (Provision of Physical Data) Regulations 2006 [^c24320511], as they had effect immediately before IP completion day, with the modifications that—
+  - (i) in each of the following provisions “of an enforceable EU right or” were omitted—
+    - (aa) the definition of “application” in regulation 2 (interpretation);
+    - (bb) regulation 8(2)(e) (use and retention of biometric information), and
+    - (cc) regulation 10(2)(f)(ii) (retention of fingerprints);
+  - (ii) in regulation 10(4), for “has the same meaning” to the end there were substituted “is to be read in accordance with the Immigration (European Economic Area) Regulations 2016 (see regulation 15) (as they continue to have effect by virtue of the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020)”;
+- (v) the Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions) (Wales) Regulations 2006 [^c24320521], as they had effect immediately before IP completion day, with the modification that in regulation 5(2) (persons treated as occupying premises as their only or main residence for the purposes of section 254 of the Act), for sub-paragraph (a)(i) there were substituted—
+
+  > - (i) a person who is a national of a member State, an EEA State or Switzerland who has taken up an activity as an employed person in the United Kingdom by virtue of the Immigration (European Economic Area) Regulations 2016 (as they continue to have effect by virtue of the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020);
+
+  ;
+- (w) the Immigration (Biometric Registration) Regulations 2008 [^c24320531], as they had effect immediately before IP completion day, with the modifications that—
+  - (i) in regulations 9(2)(e) (use and retention of biometric information) and 11(2)(f)(ii) (retention of fingerprints), “of an enforceable EU right or” were omitted;
+  - (ii) in regulation 11(4), for “has the same meaning” to the end there were substituted “is to be read in accordance with the Immigration (European Economic Area) Regulations 2016 (see regulation 15) (as they continue to have effect by virtue of the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020)”.
+
+(2) Any reference in another enactment to a person who, under the Immigration Act 1971, requires leave to enter or remain in the United Kingdom (including section 13 of the Asylum and Immigration Act 1996 [^c24320541]) is to be read in light of paragraph (1)(g) above (application with modification of section 7 of the Immigration Act 1988).
+
+### 13. Evidencing status[^key-8a7084aa378e8b77a9375916d04340fc]
+
+Where any question arises as to whether a person is or was lawfully resident in the United Kingdom at a particular point in time by virtue of the EEA Regulations 2016 (including as continued in effect and modified by these Regulations) for the purposes of these Regulations, it is for the individual in question to prove that they were.
+
+Kevin Foster
+
+Parliamentary Under Secretary of State
+
+Home Office
+
+*(This note is not part of the Regulations)*
+
+The European Union (Withdrawal Agreement) Act 2020 (c. 1) (“**the Act**”) implements the Withdrawal Agreement between the United Kingdom and the EU, the EEA EFTA separation agreement and the Swiss citizens' rights agreement (“the Agreements”).
+
+Regulation 2 specifies the end of 30th June 2021 as the deadline by which applications for residence status in accordance with the Agreements must be made. Such applications are made under residence scheme immigration rules (see section 17 of the Act).
+
+The Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052) (“**the EEA Regulations 2016**”) currently implement, in the United Kingdom, European Union law that relates to free movement of people.
+
+Regulation 3 provides that certain provisions of the EEA Regulations 2016 will continue to apply during the grace period to individuals who do not have leave to enter or remain in the United Kingdom under residence scheme immigration rules and who —
+
+- (a) resided lawfully in the United Kingdom by virtue of those regulations immediately before IP completion day (see section 39 of the Act),
+- (b) had a right of permanent residence in the United Kingdom by virtue of those regulations at any point in the 5 years preceding that date, or
+- (c) are family members of such persons.
+
+The grace period is the period beginning immediately after IP completion day and ending with the application deadline (30th June 2021).
+
+Regulation 4 relates to individuals who have made applications for residence status on or before the application deadline but whose application has not been finally determined by that date. Regulation 4 provides that certain provisions of the EEA Regulations 2016 continue to apply to such individuals until their application has been finally determined. “**Finally determined**” includes an application being successful or exhausting any rights of appeal that the individual may have.
+
+Regulations 5 to 10 specify the provisions of the EEA Regulations 2016 that continue to apply, and any relevant modifications. The modifications ensure that the EEA Regulations 2016 continue to operate appropriately after IP completion day and reflect a number of judgments as to how those Regulations should be interpreted and applied.
+
+Regulation 11 provides that the EEA Regulations 2016 continue to apply, with the modifications specified in regulations 5 to 10, for certain purposes connected to the provision of benefits and public services. This provision applies to those to whom regulation 3 or 4 applies.
+
+Regulation 12 specifies provisions of other legislation that continue to apply for the purposes of regulations 3 and 4, where appropriate with modifications. This includes section 7 of the Immigration Act 1988 (c. 14) which specifies that individuals with a right to enter or remain in the United Kingdom by virtue of legislation such as the EEA Regulations 2016 do not require leave to enter or remain in the United Kingdom under the Immigration Act 1971 (c. 77). The continued application of this provision supports the ability of individuals to whom regulation 3 or 4 applies to continue to reside lawfully in the United Kingdom.
+
+Regulation 13 provides that where a question arises as to whether the EEA Regulations 2016 continue to apply to a person, it is for that person to show that they do.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^c24319921]: Marginal citation: [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1).
+
+[^key-faa38bf0f2500cca69903c112e0021a1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1)
+
+[^c24319931]: Marginal citation: “IP completion day” is defined in section 39 of the European Union (Withdrawal Agreement) Act 2020.
+
+[^c24319941]: Marginal citation: [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052); amended by [S.I. 2017/1](https://www.legislation.gov.uk/uksi/2017/1), [S.I](https://www.legislation.gov.uk/uksi/2017/1/section/I). 2017/1242, [S.I. 2018/801](https://www.legislation.gov.uk/uksi/2018/801), [S.I](https://www.legislation.gov.uk/uksi/2018/801/section/I). 2019/1383, [S.I. 2019/468](https://www.legislation.gov.uk/uksi/2019/468), [S.I](https://www.legislation.gov.uk/uksi/2019/468/section/I). 2019/745 (amendments not in force; due to come into force on IP completion day) and [S.I. 2019/1155](https://www.legislation.gov.uk/uksi/2019/1155).
+
+[^key-18e68c1bcadd41b97484f10cf234a520]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1209/regulation/2) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1)
+
+[^c24319951]: Marginal citation: Defined in section 39 of the European Union (Withdrawal Agreement) Act 2020.
+
+[^c24319961]: Marginal citation: Defined in section 39 of the European Union (Withdrawal Agreement) Act 2020.
+
+[^c24319971]: Marginal citation: Defined in section 39 of the European Union (Withdrawal Agreement) Act 2020.
+
+[^key-d1e1ee0f69b06a1a8701d7784b2701bc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1)
+
+[^c24319981]: Marginal citation: Defined in section 17 of the European Union (Withdrawal Agreement) Act 2020.
+
+[^key-a191006d38c67ebb9b7f33de1b2197b6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1)
+
+[^c24319991]: Marginal citation: [S.I. 2020/61](https://www.legislation.gov.uk/uksi/2020/61).
+
+[^c24320001]: Marginal citation: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15). There are amendments but none are relevant.
+
+[^c24320011]: Marginal citation: [Sections 7B to 7D](https://www.legislation.gov.uk/uksi/2020/1209/section/7B) were inserted by section 66 of the [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2).
+
+[^c24320021]: Marginal citation: [1997 c. 68](https://www.legislation.gov.uk/ukpga/1997/68).
+
+[^key-1afbb0633c1b8419845c9706f765b459]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1209/regulation/5) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1)
+
+[^c24320031]: Marginal citation: [Part 4](https://www.legislation.gov.uk/uksi/2020/1209/part/4) of the withdrawal agreement provides for a transition period.
+
+[^key-df215d9d43e6b3ab62ea9059a76d0a66]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1209/regulation/6) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1)
+
+[^key-3c59fbf82b70f2cea386f38a9368bd20]: Commencement: Reg. 7 in force at 31.12.2020, see reg. 1(1)
+
+[^key-a6d28cd488ba05743618d7a7243bbd0e]: Textual amendment: [Reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/7/1/a) substituted (31.12.2020 immediately before IP completion day) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [49(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/49/2)
+
+[^key-513f91e297825e9792d415de82d4c50e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1209/regulation/8) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1)
+
+[^c24320051]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). Relevant amending instrument is section 33 of the [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^key-b054198d7802a6577afbc868202f8fa8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/1209/regulation/9) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1)
+
+[^key-e7a63a20459cc9648be4dd9afed9e400]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/1209/regulation/10) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1)
+
+[^key-52230c305b2ca3459609e1e1e951454b]: Commencement: Reg. 11 in force at 31.12.2020, see reg. 1(1)
+
+[^c24320061]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967). Regulation 21AA was inserted by [S.I. 2006/1026](https://www.legislation.gov.uk/uksi/2006/1026). Relevant amending instruments are [S.I. 2012/2587](https://www.legislation.gov.uk/uksi/2012/2587), [S.I](https://www.legislation.gov.uk/uksi/2012/2587/section/I). 2018/1084, [S.I. 2019/872](https://www.legislation.gov.uk/uksi/2019/872) and [S.I. 2020/683](https://www.legislation.gov.uk/uksi/2020/683).
+
+[^c24320071]: Marginal citation: S.R. [1987 No. 459](https://www.legislation.gov.uk/ukcm/1987/459). Regulation 21AA was inserted by S.R. [2006 No. 178](https://www.legislation.gov.uk/ukcm/2006/178). Relevant amending instruments are S.R. [2012 No. 380](https://www.legislation.gov.uk/ukcm/2012/380), [S.I](https://www.legislation.gov.uk/ukcm/2012/380/section/I). 2018/1085, S.R. [2019 No. 90](https://www.legislation.gov.uk/ukcm/2019/90) and S.R. [2020 No. 149](https://www.legislation.gov.uk/ukcm/2020/149).
+
+[^c24320081]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207). Regulation 85A was inserted by [S.I. 2006/1026](https://www.legislation.gov.uk/uksi/2006/1026). Relevant amending instruments are [S.I. 2012/2587](https://www.legislation.gov.uk/uksi/2012/2587), [S.I](https://www.legislation.gov.uk/uksi/2012/2587/section/I). 2014/902, [S.I. 2019/872](https://www.legislation.gov.uk/uksi/2019/872) and [S.I. 2020/683](https://www.legislation.gov.uk/uksi/2020/683).
+
+[^c24320091]: Marginal citation: S.R. [1996 No. 198](https://www.legislation.gov.uk/ukcm/1996/198). Regulation 85A was inserted by S.R. [2006 No. 178](https://www.legislation.gov.uk/ukcm/2006/178). Relevant amending instruments are S.R. [2012 No. 380](https://www.legislation.gov.uk/ukcm/2012/380), S.R. [2019 No. 90](https://www.legislation.gov.uk/ukcm/2019/90) and S.R. [2020 No. 149](https://www.legislation.gov.uk/ukcm/2020/149).
+
+[^c24320101]: Marginal citation: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792). Regulation 2 was substituted by [S.I. 2006/1026](https://www.legislation.gov.uk/uksi/2006/1026). Relevant amending instruments are [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809), [S.I](https://www.legislation.gov.uk/uksi/2012/1809/section/I). 2012/ 2587, [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052), [S.I](https://www.legislation.gov.uk/uksi/2016/1052/section/I). 2019/872 and [S.I. 2020/683](https://www.legislation.gov.uk/uksi/2020/683).
+
+[^c24320111]: Marginal citation: [S.I. 2003/654](https://www.legislation.gov.uk/uksi/2003/654). Relevant amending instruments are [S.I. 2004/1243](https://www.legislation.gov.uk/uksi/2004/1243), [S.I](https://www.legislation.gov.uk/uksi/2004/1243/section/I). 2012/2612, [S.I. 2019/364](https://www.legislation.gov.uk/uksi/2019/364), [S.I](https://www.legislation.gov.uk/uksi/2019/364/section/I). 2019/713, [S.I. 2019/867](https://www.legislation.gov.uk/uksi/2019/867) and [S.I. 2020/672](https://www.legislation.gov.uk/uksi/2020/672).
+
+[^c24320121]: Marginal citation: S.R. [2003 No. 28](https://www.legislation.gov.uk/ukcm/2003/28). Regulation 2 was substituted by S.R. [2006 No. 178](https://www.legislation.gov.uk/ukcm/2006/178). Relevant amending instruments are S.R. [2012 No. 380](https://www.legislation.gov.uk/ukcm/2012/380), S.R. [2019 No. 90](https://www.legislation.gov.uk/ukcm/2019/90) and S.R. [2020 No. 149](https://www.legislation.gov.uk/ukcm/2020/149).
+
+[^key-c64413b6893ddc8cdc3eb6b0024756f4]: Textual amendment: [Reg. 11(ga)(gb)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/11/ga/gb) inserted (31.12.2020 immediately before IP completion day) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [49(3)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/49/3)
+
+[^c24320131]: Marginal citation: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213). Regulation 10 was amended by [S.I. 2006/1026](https://www.legislation.gov.uk/uksi/2006/1026), [S.I](https://www.legislation.gov.uk/uksi/2006/1026/section/I). 2012/1809, [S.I. 2012/2587](https://www.legislation.gov.uk/uksi/2012/2587) [S.I. 2014/902](https://www.legislation.gov.uk/uksi/2014/902), [S.I](https://www.legislation.gov.uk/uksi/2014/902/section/I). 2019/872 and [S.I. 2020/683](https://www.legislation.gov.uk/uksi/2020/683).
+
+[^c24320141]: Marginal citation: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214). Regulation 10 was amended by [S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217), [S.I](https://www.legislation.gov.uk/uksi/2006/217/section/I). 2006/1026, [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809), [S.I](https://www.legislation.gov.uk/uksi/2012/1809/section/I). 2012/2587, [S.I. 2014/902](https://www.legislation.gov.uk/uksi/2014/902), [S.I](https://www.legislation.gov.uk/uksi/2014/902/section/I). 2019/872 and [S.I. 2020/683](https://www.legislation.gov.uk/uksi/2020/683). There are other amendments which are not relevant to these Regulations.
+
+[^c24320151]: Marginal citation: [S.I. 2006/223](https://www.legislation.gov.uk/uksi/2006/223). Relevant amending instruments are [S.I. 2007/1250](https://www.legislation.gov.uk/uksi/2007/1250), [S.I](https://www.legislation.gov.uk/uksi/2007/1250/section/I). 2012/2612, [S.I. 2014/1511](https://www.legislation.gov.uk/uksi/2014/1511), [S.I](https://www.legislation.gov.uk/uksi/2014/1511/section/I). 2018/788, [S.I. 2019/364](https://www.legislation.gov.uk/uksi/2019/364), [S.I](https://www.legislation.gov.uk/uksi/2019/364/section/I). 2019/867 and S.I. 2020672.
+
+[^c24320161]: Marginal citation: [S.I. 2006/1294](https://www.legislation.gov.uk/uksi/2006/1294); amended by [S.I. 2012/2588](https://www.legislation.gov.uk/uksi/2012/2588), [S.I](https://www.legislation.gov.uk/uksi/2012/2588/section/I). 2019/861 and [S.I.2020/667](https://www.legislation.gov.uk/uksi/2020/667). There are other amending instruments, but none is relevant. Note that references to the [Immigration (European Economic Area) Regulations 2006 (S.I. 2006/1003)](https://www.legislation.gov.uk/uksi/2006/1003) are to be read as references to the corresponding provision of the EEA Regulations 2016 by virtue of Schedule 7 to those Regulations (which is applied by regulation 10 of these Regulations).
+
+[^c24320171]: Marginal citation: S.R. [2006 No. 397](https://www.legislation.gov.uk/ukcm/2006/397). Relevant amending instruments are S.R. [2012 No. 429](https://www.legislation.gov.uk/ukcm/2012/429) and S.R. [2019 No. 86](https://www.legislation.gov.uk/ukcm/2019/86).
+
+[^c24320181]: Marginal citation: S.R. [2006 No. 405](https://www.legislation.gov.uk/ukcm/2006/405). Relevant amending instruments are S.R. [2012 No. 380](https://www.legislation.gov.uk/ukcm/2012/380). S.R. [2019 No. 90](https://www.legislation.gov.uk/ukcm/2019/90) and S.R. [2020 No. 149](https://www.legislation.gov.uk/ukcm/2020/149).
+
+[^c24320191]: Marginal citation: S.R. [2006 No. 406](https://www.legislation.gov.uk/ukcm/2006/406). Relevant amending instruments are S.R. [2012 No. 380](https://www.legislation.gov.uk/ukcm/2012/380), S.R. [2019 No. 90](https://www.legislation.gov.uk/ukcm/2019/90) and S.R. [2020 No. 149](https://www.legislation.gov.uk/ukcm/2020/149).
+
+[^c24320201]: Marginal citation: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794). Relevant amending instruments are [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809), [S.I](https://www.legislation.gov.uk/uksi/2012/1809/section/I). 2012/2587, [S.I. 2014/902](https://www.legislation.gov.uk/uksi/2014/902), [S.I](https://www.legislation.gov.uk/uksi/2014/902/section/I). 2019/872 and [S.I. 2020/683](https://www.legislation.gov.uk/uksi/2020/683).
+
+[^c24320211]: Marginal citation: S.R. [2008 No. 280](https://www.legislation.gov.uk/ukcm/2008/280). Relevant amending instruments are S.R. [2012 No. 380](https://www.legislation.gov.uk/ukcm/2012/380), S.R. [2019 No. 90](https://www.legislation.gov.uk/ukcm/2019/90) and S.R. [2020 No. 149](https://www.legislation.gov.uk/ukcm/2020/149).
+
+[^c24320221]: Marginal citation: [S.I. 2012/2885](https://www.legislation.gov.uk/uksi/2012/2885). Relevant amending instruments are [S.I. 2013/3181](https://www.legislation.gov.uk/uksi/2013/3181), [S.I](https://www.legislation.gov.uk/uksi/2013/3181/section/I). 2014/3312 and [S.I. 2020/23](https://www.legislation.gov.uk/uksi/2020/23).
+
+[^c24320231]: Marginal citation: [S.S.I. 2012/303](https://www.legislation.gov.uk/ssi/2012/303). Regulation 16 was amended by [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46).
+
+[^c24320241]: Marginal citation: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319). Regulation 16 was amended by [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46).
+
+[^c24320251]: Marginal citation: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376). Relevant amending instruments are [S.I. 2015/546](https://www.legislation.gov.uk/uksi/2015/546), [S.I](https://www.legislation.gov.uk/uksi/2015/546/section/I). 2019/872 and [S.I. 2020/683](https://www.legislation.gov.uk/uksi/2020/683).
+
+[^c24320261]: Marginal citation: [S.I. 2013/3029](https://www.legislation.gov.uk/uksi/2013/3029) (W.301). Relevant amending instruments are [S.I. 2014/66](https://www.legislation.gov.uk/uksi/2014/66) (W.6), [S.I. 2015/44](https://www.legislation.gov.uk/uksi/2015/44) (W.3) and [S.I. 2020/16](https://www.legislation.gov.uk/uksi/2020/16) (W.2).
+
+[^c24320271]: Marginal citation: [S.I. 2013/3035](https://www.legislation.gov.uk/uksi/2013/3035) (W.303). Paragraph 19 was amended by [S.I. 2014/66](https://www.legislation.gov.uk/uksi/2014/66) (W.6), [S.I. 2015/44](https://www.legislation.gov.uk/uksi/2015/44) (W.3) and [S.I. 2020/16](https://www.legislation.gov.uk/uksi/2020/16) (W.2).
+
+[^c24320281]: Marginal citation: [S.I. 2014/2603](https://www.legislation.gov.uk/uksi/2014/2603) (W.257).
+
+[^c24320291]: Marginal citation: [S.I. 2015/238](https://www.legislation.gov.uk/uksi/2015/238). Regulation 14C was inserted by [S.I. 2020/654](https://www.legislation.gov.uk/uksi/2020/654).
+
+[^c24320301]: Marginal citation: S.R. [2016 No. 216](https://www.legislation.gov.uk/ukcm/2016/216). Relevant amending instruments are S.R. [2019 No. 89](https://www.legislation.gov.uk/ukcm/2019/89) and S.R. [2020 No.130](https://www.legislation.gov.uk/ukcm/2020/130).
+
+[^key-9d1c80429c299a36e48f3f9b1195dba3]: Commencement: Reg. 12 in force at 31.12.2020, see reg. 1(1)
+
+[^c24320311]: Marginal citation: [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18). Amended by [S.I. 1991/1221](https://www.legislation.gov.uk/uksi/1991/1221), [S.I](https://www.legislation.gov.uk/uksi/1991/1221/section/I). 2007/617 and [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745) (not in force).
+
+[^c24320321]: Marginal citation: Relevant amending instruments are paragraph 44 of Schedule 14 to the Immigration and Asylum Act 1999 and section 10 of the European Union (Withdrawal Agreement) Act 2020.
+
+[^c24320331]: Marginal citation: Paragraph 3 of Schedule 4 was substituted by paragraphs 43 and 70 of Schedule 14 to the [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33). See section 33 of the Immigration Act 1971 for the definition of “the Islands”.
+
+[^c24320341]: Marginal citation: [1977 c. 42](https://www.legislation.gov.uk/ukpga/1977/42). Case 10A was inserted by section 41 of the Immigration Act 2016.
+
+[^c24320351]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61). Section 50A was inserted by section 48 of the [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11).
+
+[^c24320361]: Marginal citation: [1988 c. 14](https://www.legislation.gov.uk/ukpga/1988/14). Amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745) (not in force).
+
+[^c24320371]: Marginal citation: [1988 c. 14](https://www.legislation.gov.uk/ukpga/1988/14). Amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745) (not in force).
+
+[^c24320381]: Marginal citation: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33). Section 10 was substituted by section 1 of the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22) and amended by [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745) (not in force). There have been other amendments to this section which are not relevant to these Regulations.
+
+[^c24320391]: Marginal citation: There have been amendments to section 115 which are not relevant to these Regulations.
+
+[^c24320401]: Marginal citation: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41). Amended by section 8(2) of, and paragraph 3 of Schedule 2 and paragraph 19 of Schedule 9 to, the Immigration Act 2014 and by [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745) (not in force).
+
+[^c24320411]: Marginal citation: Relevant amending instrument is [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
+
+[^c24320421]: Marginal citation: [2004 c. 19](https://www.legislation.gov.uk/ukpga/2004/19). Section 2 was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745) (not in force). There have been other amendments which are not relevant to these Regulations.
+
+[^c24320431]: Marginal citation: Relevant amending instruments are section 10 of the European Union (Withdrawal Agreement) Act 2020, [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745) (not in force).
+
+[^c24320441]: Marginal citation: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22). Section 21 was amended by [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745) (not in force).
+
+[^c24320451]: Marginal citation: Section 27 was amended by [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745) (not in force).
+
+[^c24320461]: Marginal citation: Section 70A was inserted by section 85(1) and (2) of the Immigration Act 2016 and amended by [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745) (not in force).
+
+[^key-b690d4730c187ddf33cad9e3a44131c9]: Textual amendment: Words in reg. 12(1)(p) substituted (31.12.2020 immediately before IP completion day) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [49(4)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/49/4)
+
+[^c24320471]: Marginal citation: [S.I. 2000/636](https://www.legislation.gov.uk/uksi/2000/636). Relevant amendments are made by [S.I. 2002/2497](https://www.legislation.gov.uk/uksi/2002/2497), [S.I](https://www.legislation.gov.uk/uksi/2002/2497/section/I). 2008/3108, [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388) and [S.I. 2019/1431](https://www.legislation.gov.uk/uksi/2019/1431).
+
+[^c24320481]: Marginal citation: S.R. [2000 No. 71](https://www.legislation.gov.uk/ukcm/2000/71). Relevant amendments are made by S.R. [2019 No. 213](https://www.legislation.gov.uk/ukcm/2019/213).
+
+[^c24320491]: Marginal citation: [S.I. 2003/548](https://www.legislation.gov.uk/uksi/2003/548). Relevant amending instruments are [S.I. 2015/738](https://www.legislation.gov.uk/uksi/2015/738), [S.I](https://www.legislation.gov.uk/uksi/2015/738/section/I). 2015/1806 and [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745) (not in force).
+
+[^c24320501]: Marginal citation: [S.I. 2006/373](https://www.legislation.gov.uk/uksi/2006/373).
+
+[^c24320511]: Marginal citation: [S.I. 2006/1743](https://www.legislation.gov.uk/uksi/2006/1743). Amended by [S.I. 2015/737](https://www.legislation.gov.uk/uksi/2015/737), [S.I](https://www.legislation.gov.uk/uksi/2015/737/section/I). 2018/928 and [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745) (not in force).
+
+[^c24320521]: Marginal citation: [S.I. 2006/1715](https://www.legislation.gov.uk/uksi/2006/1715) (W. 177).
+
+[^c24320531]: Marginal citation: [S.I. 2008/3048](https://www.legislation.gov.uk/uksi/2008/3048). Relevant amending instruments are [S.I. 2015/433](https://www.legislation.gov.uk/uksi/2015/433) and [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745) (not in force).
+
+[^c24320541]: Marginal citation: [1996 c. 49](https://www.legislation.gov.uk/ukpga/1996/49).
+
+[^key-8a7084aa378e8b77a9375916d04340fc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1209/regulation/13) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1)

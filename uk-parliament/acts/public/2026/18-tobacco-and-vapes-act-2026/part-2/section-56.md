@@ -1,0 +1,39 @@
+---
+title: Tobacco and Vapes Act 2026, section 56
+act: Tobacco and Vapes Act 2026
+section: '56'
+status: revised-with-pending-changes
+text_date: '2026-10-29'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/2026/18/section/56
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Tobacco and Vapes Act 2026, section 56
+
+> **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 56. Extension of tobacco legislation to herbal smoking products[^key-bccd288ae345ed7b5163418e9b8256d0]
+
+*Extent: S*
+
+(1) The Tobacco and Primary Medical Services (Scotland) Act [2010 (asp 3)](https://www.legislation.gov.uk/asp/2010/3) is amended as follows.
+
+(2) In section 4 (sale of tobacco products to persons under 18), in subsection (1), after “tobacco product” insert “, herbal smoking product”.
+
+(3) In section 4C (sale of tobacco etc by persons under 18), in subsection (1), after “tobacco product” insert “, herbal smoking product”.
+
+(4) In section 6 (purchase of tobacco products on behalf of persons under 18), in subsection (1), after “tobacco product” insert “, herbal smoking product”.
+
+(5) In section 35 (interpretation), in subsection (1), at the appropriate place insert—
+
+> - “**herbal smoking product**” means a product consisting wholly or partly of vegetable matter and intended to be smoked but not containing tobacco,
+
+.
+
+## Annotations
+
+[^key-bccd288ae345ed7b5163418e9b8256d0]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2026/18/section/56) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

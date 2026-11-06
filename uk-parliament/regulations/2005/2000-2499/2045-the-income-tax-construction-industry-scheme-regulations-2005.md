@@ -1,0 +1,1605 @@
+---
+title: The Income Tax (Construction Industry Scheme) Regulations 2005
+id: uksi/2005/2045
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2005-07-25'
+text_date: '2014-05-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2005/2045
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/2045/pdfs/uksiem_20052045_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2045/pdfs/uksi_20052045_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2045/data.pdf
+pending_changes: 55
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income Tax (Construction Industry Scheme) Regulations 2005
+
+> **Warning: changes not yet applied to this text (55).** Text as at 2014-05-06. See https://www.legislation.gov.uk/changes/affected/uksi/2005/2045
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2005 No. 2045
+
+INCOME TAX
+
+CORPORATION TAX
+
+The Income Tax (Construction Industry Scheme) Regulations 2005
+
+Made
+
+25th July 2005
+
+Laid before the House of Commons
+
+25th July 2005
+
+Coming into force in accordance with regulation 1
+
+The Commissioners for Her Majesty’s Revenue and Customs[^f00001], in exercise of the powers conferred upon them by section 205 of the Finance Act 2003[^f00002], sections 60(7), 62(3), (6) and (7), 63(1), 65(2), 66(2) and (9), 68, 69, 70, 71, 73 and 75 of, and paragraphs 2, 3(1) and (3), 4(3) and (5), 6, 7(1) and (3), 8(2), 10, 11(1) and (4), 12(2), 15 and 16 of Schedule 11 to the Finance Act 2004[^f00003] and sections 98A(1) and 113(1) of the Taxes Management Act 1970[^f00004], make the following Regulations:
+
+## PART 1 — INTRODUCTION
+
+### 1. Citation and commencement[^key-7cdf2a41522c279a544e3f9f253febd9]
+
+These Regulations may be cited as the Income Tax (Construction Industry Scheme) Regulations 2005 and shall come into force on such day as may be appointed by the Commissioners for Her Majesty’s Revenue and Customs by notice in the London, Edinburgh and Belfast Gazettes (“the appointed day”).
+
+### 2. Interpretation[^key-418396a1f90665280be0f3cc17b44c87]
+
+In these Regulations—
+
+- “the Act” means the Finance Act 2004;
+- “approved method of electronic communications”, in relation to the delivery of information or the making of a payment in accordance with a provision of these Regulations, means a method of electronic communications which has been approved, by specific or general directions issued by the Commissioners for Her Majesty’s Revenue and Customs, for the delivery of information of that kind or the making of a payment of that kind under that provision;
+- “combined amount” means an amount which includes an amount the contractor is liable to pay under these regulations and one or more of the following—[^M_F_a7e88a3d-69f6-4824-9ce8-d59e9aad075e]
+  - (a) earnings-related contributions due under the SSC Regulations;
+  - (b) tax due under the PAYE Regulations;
+  - (c) payments of repayments of student loans due under the Student Loan Regulations;
+- “contract payment” has the meaning given in section 60 of the Act;
+- “contractor” has the meaning given in section 57 of the Act;
+- “construction contract” has the meaning given in section 57 of the Act;
+- “construction operations” has the meaning given in section 74 of the Act;
+- “electronic communications” has the meaning given in section 132(10) of the Finance Act 1999[^f00005];
+- “employer reference” means the combination of letters, numbers or both used by Her Majesty’s Revenue and Customs to identify an employer for the purpose of the Income Tax (Pay As You Earn) Regulations 2003[^f00006];
+- “ICTA” means the Income and Corporation Taxes Act 1988;
+- “ITEPA” means the Income Tax (Earnings and Pensions) Act 2003[^f00007];
+- “notice” means notice in writing;
+- “PAYE Regulations” means the Income Tax (Pay As You Earn) Regulations 2003;
+- “SSC Regulations” means the Social Security (Contributions) Regulations 2001;
+- “[^key-3b22249dfaa3098e7360a923e86aecae]Student Loan Regulations” means the Education (Student Loans) (Repayment) Regulations 2009 or, in Northern Ireland, the Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2009;
+- “sub-contractor” has the meaning given in section 58 of the Act;
+- [^key-da5f1a8a7578ff2f02b7ae66ba6158a1]...
+- “tax month” means the period beginning on the 6th day of a calendar month and ending on the 5th day of the following calendar month;
+- “tax year” means a year for which any Act provides for income tax to be charged;
+- “tax period” means—
+  - (a) tax quarter if regulation 8 (quarterly tax periods) applies, or
+  - (b) tax month, in every other case;
+- “tax quarter” means any of the following (inclusive) periods—
+  - 6th April to 5th July,
+  - 6th July to 5th October,
+  - 6th October to 5th January, and
+  - 6th January to 5th April;
+- “TMA” means the Taxes Management Act 1970[^f00008];
+- “tribunal” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal.[^key-c7a399d1a686e1f554b9b6213ca38ebf]
+
+## PART 2 — CONTRACTORS
+
+### 3. Multiple contractors[^key-45c62fc56b5c377895c47c5d5a0fdc1d]
+
+(1) A contractor may elect, for the purposes of these Regulations, to be treated as different contractors in relation to different groups of sub-contractors.
+
+(2) Where the contractor makes an election these Regulations apply as if—
+
+- (a) in respect of each group the contractor were a different contractor; and
+- (b) each group constituted all the sub-contractors to whom the contractor makes payments under contracts relating to construction operations.
+
+(3) While an election is in force, a contractor must allocate any new sub-contractors to one of the groups.
+
+(4) An election must be made by notice to an officer of Revenue and Customs containing—
+
+- (a) such information as may be necessary to identify the groups of sub-contractors, and
+- (b) a certificate that the contractor makes no payments under contracts relating to construction operations other than to sub-contractors in the groups so identified.
+
+(5) A contractor must, subject to paragraph (6), make an election before the beginning of the tax year for which it is to have effect.
+
+(6) A contractor who acquires the whole or part of any business of another contractor may, within 90 days of the acquisition, elect—
+
+- (a) to be treated as a different contractor in relation to the acquired sub-contractors, or two or more different contractors in relation to groups of the acquired sub-contractors, whether or not an election is already in force in respect of the existing sub-contractors, or
+- (b) to add some or all of the acquired sub-contractors to existing groups of sub-contractors in respect of whom an election is already in force,
+
+and such election has effect for the tax year in which the acquisition takes place.
+
+(7) In paragraph (6)—
+
+- “business” includes any trade, concern or undertaking;
+- “acquired sub-contractor” means a sub-contractor who contracted with the acquired business.
+
+(8) An election continues in effect until revoked by notice given to an officer of Revenue and Customs.
+
+(9) A notice of revocation must be given before the beginning of the tax year for which the election is to be revoked, but the revocation of an election does not prevent the making of a new election for that or a later tax year.
+
+(10) An election which has not yet come into effect may be revoked at any time before the beginning of the tax year for which it is to have effect.
+
+### 4. Monthly return[^key-5d09dfd40204d07636d5b161b6cacdc4]
+
+(1) A return must be made to the Commissioners for Her Majesty’s Revenue and Customs in a document or format provided or approved by the Commissioners—
+
+- (a) not later than 14 days after the end of every tax month, by a contractor making contract payments or payments which would be contract payments but for section 60(4) of the Act (contract payments: exceptions), and
+- (b) not later than 14 days after the end of the tax month following the appointed day, by a contractor who has made a payment in the 12 months preceding the appointed day which would be a contract payment or a payment which would be a contract payment but for section 60(4) of the Act if made after the appointed day.
+
+(2) The return under paragraph (1) must contain the following information—
+
+- (a) the contractor’s name,
+- (b) the contractor’s unique taxpayer reference (UTR) and Accounts' Office reference,
+- (c) the tax month to which the return relates, and
+- (d) in respect of each sub-contractor to whom, or to whose nominee, payments under construction contracts were made by the contractor during that month,—
+  - (i) the sub-contractor’s name;
+  - (ii) the sub-contractor’s national insurance number (NINO) or company registration number (CRN), if known; and
+  - (iii) the information specified in paragraph (3).
+
+(3) The information specified is—
+
+- (a) if the sub-contractor is registered for gross payment—
+  - (i) the sub-contractor’s unique taxpayer reference (UTR), and
+  - (ii) the total amount of payments which would be contract payments but for section 60(4) of the Act (contract payments: exceptions) made by the contractor to the sub-contractor during the tax month;
+- (b) if the sub-contractor is registered for payment under deduction—
+  - (i) the sub-contractor’s unique taxpayer reference (UTR),
+  - (ii) the total amount of contract payments made by the contractor to the sub-contractor during the tax month,
+  - (iii) the total amount included in those payments which the contractor is satisfied represents the direct cost to any person other than the contractor of materials used or to be used in carrying out the construction contract to which the contract payment relates, and
+  - (iv) the total amount deducted from the payments mentioned in paragraph (3)(b)(ii) under section 61 of the Act (deduction on account of tax from contract payments);
+- (c) if the sub-contractor is not registered for gross payment or payment under deduction—
+  - (i) the sub-contractor’s unique taxpayer reference (UTR), if known,
+  - (ii) the total amount of contract payments made by the contractor to the sub-contractor during the tax month,
+  - (iii) the total amount included in those payments which the contractor is satisfied represents the direct cost to any person other than the contractor of materials used or to be used in carrying out the construction contract to which the contract payment relates,
+  - (iv) the total amount deducted from the payments mentioned in paragraph (3)(c)(ii) under section 61 of the Act, and
+  - (v) the verification reference for higher rate deduction.
+
+(4) The return may be transmitted electronically to the Commissioners for Her Majesty’s Revenue and Customs.
+
+(5) The return must include a declaration by the person making the return—
+
+- (a) that none of the contracts to which the return relates is a contract of employment;
+- (b) indicating whether he has complied with the requirements of regulation 6 (verification etc of registration status of sub-contractor) in the case of each person to whom a payment to which the return relates is made; and
+- (c) that the return contains all the information, particulars and supporting information required by this regulation to be included in the return, and such information, particulars and supporting information are complete and accurate to the best of the contractor’s knowledge and belief.
+
+(6) If the return is not transmitted electronically, it must be signed by the contractor or a person duly authorised by the contractor to make the return.
+
+(7) The contractor must make and keep such records as will enable him to comply with this regulation.
+
+(8) The contractor must give the following information in writing to the sub-contractor to whom it relates not later than 14 days after the end of the tax month either in respect of the total payments made in that month or in respect of each payment made in that month—
+
+- (a) if the sub-contractor is registered for payment under deduction—
+  - (i) the contractor’s name,
+  - (ii) the contractor’s employer’s reference,
+  - (iii) the tax month to which the payments relate or the date of the payment,
+  - (iv) the sub-contractor’s name,
+  - (v) the sub-contractor’s unique taxpayer reference (UTR),
+  - (vi) the total amount of contract payments made by the contractor to the sub-contractor during the tax month,
+  - (vii) the total amount included in those payments which the contractor is satisfied represents the direct cost to any person other than the contractor of materials used or to be used in carrying out the construction contract to which the contract payment relates, and
+  - (viii) the total amount deducted from the payments mentioned in paragraph (vi) under section 61 of the Act;
+
+  and
+- (b) if the sub-contractor is not registered under Chapter 3 of the Act, the verification reference.
+
+(9) The information required under paragraph (8) may be given by means of electronic communications if—
+
+- (a) the contractor has indicated to the sub-contractor that he intends to use electronic communications for the purposes of giving this information;
+- (b) the sub-contractor has consented to information being given by the contractor by means of electronic communications, and that consent has not been withdrawn;
+- (c) the information is given in an electronic format—
+  - (i) in which the statement may be stored; and
+  - (ii) which permits a paper copy of the information contained in the statement to be printed.
+
+(10) If a contractor who has made a return, or should have made a return, under this regulation makes no payments under construction contracts in the tax month following that return, the contractor must make a nil return not later than 14 days after the end of that tax month.This is subject to paragraph (11).
+
+(11) Paragraph (10) does not apply if the contractor has notified the Commissioners for Her Majesty’s Revenue and Customs that the contractor will make no further payments under construction contracts within the following six months.
+
+(12) Subject to paragraph (13), section 98A of TMA[^f00009] (special penalties in the case of certain returns) applies to the requirements in—
+
+- (a) paragraph (1),
+- (b) paragraph (3)(b),
+- (c) paragraph (3)(c),
+- (d) paragraph (10).
+
+(13) A penalty under section 98A of TMA in relation to a failure to make a return in accordance with paragraphs (1) or (10) arises for each month (or part of a month) during which the failure continues after the 19th day of the sixth month following the appointed day , but only arises where that failure relates to a return that must be made not later than 19th October 2011[^key-5afb0a356227e36a90a2dd94b5e0b668].
+
+### 5. Scheme representative[^key-f7d45114df2ce4509b67d8ba3587f1b7]
+
+(1) A company (“the appointing company”) which makes payments under construction contracts may appoint another company in the same group (“a scheme representative”) to act on its behalf in connection with any such requirements imposed on the company by these Regulations as the appointment specifies.
+
+(2) An appointment under paragraph (1) shall not have effect until the appointing company has notified the Commissioners for Her Majesty’s Revenue and Customs .
+
+(3) A scheme representative must make returns and payments under these Regulations in the name of the appointing company.
+
+(4) The appointing company remains liable in relation to all the requirements imposed on it by these Regulations notwithstanding any appointment under paragraph (1).
+
+(5) For the purposes of paragraph (1) section 413(3)(a) of ICTA applies to determine whether two companies are in the same group.
+
+### 6. Verification etc of registration status of sub-contractor and nominee[^key-48af2a0b98fd2337527eaed1726db5b1]
+
+(1) A contractor must verify with the Commissioners for Her Majesty’s Revenue and Customs whether a person to whom he is proposing to make—
+
+- (a) a contract payment, or
+- (b) a payment which would be a contract payment but for section 60(4) of the Act (contract payments:exceptions),
+
+and, where that person has appointed a nominee, his nominee, are registered for gross payment, for payment under deduction or is not registered under Chapter 3 of the Act.This is subject to paragraph (3).
+
+(2) For the purpose of verification the contractor must provide—
+
+- (a) his name, unique taxpayer reference (UTR), accounts office reference and employer’s reference, and
+- (b) in relation to the person to whom he is proposing to make the payment and, where that person has appointed a nominee, his nominee—
+  - (i) if that person or nominee is an individual, his name, unique taxpayer reference (UTR) and national insurance number;
+  - (ii) if that person or nominee is a partner in a firm, the name of the firm and that partner, the unique taxpayer reference (UTR) of the firm, and if the partner is an individual his unique taxpayer reference (UTR) or national insurance number or if the partner is a company the unique taxpayer reference (UTR) or the company registration number;
+  - (iii) if that person or nominee is a company, the name of the company, unique taxpayer reference (UTR) and the company registration number.
+
+(3) A contractor may not verify under paragraph (1) unless the contractor has a contract with the sub-contractor or has formally accepted a tender for work under a contract.
+
+(4) A contractor need not verify if—
+
+- (a) the person to whom he is proposing to make the payment has been included in a return under regulation 4 in the current or previous two tax years;
+- (b) the payment is made within two years of the appointed day, if the person to whom he is proposing to make the payment has been included in a return under regulation 4 or a return under regulation 40A of the Income Tax (Sub-contractors in the Construction Industry) Regulations 1993[^f00010] for the current or previous two years;
+- (c) the contractor is a company and the person to whom he is proposing to make the payment has been included in a return under regulation 4 or a return under regulation 40A of the Income Tax (Sub-contractors in the Construction Industry) Regulations 1993 for the current or previous two tax years made by another company in the same group;
+- (d) the contractor has made an election under regulation 3 and the person to whom he is proposing to make the payment has been included in a return under regulation 4 in the current or previous two years in respect of a different group of sub-contractors in relation to which the contractor is treated as a different contractor;
+- (e) the contractor acquired the contract under which the payment is to be made in a transfer of a business as a going concern where the transferor was within one of paragraphs (a) to (d) and the contractor has notified the Commissioners for Her Majesty’s Revenue and Customs of the transfer.
+
+(5) For the purposes of paragraph (4)(c) section 413(3)(a) of ICTA applies to determine whether two companies are in the same group.
+
+(6) The Commissioners for Her Majesty’s Revenue and Customs must notify a contractor that—
+
+- (a) a person registered for gross payment has become registered for payment under deduction or has ceased to be registered under Chapter 3 of the Act, or
+- (b) a person registered for payment under deduction has become registered for gross payment or has ceased to be registered under Chapter 3 of the Act,
+
+if a payment to that person has been included in the contractor’s return under regulation 4, or a return under regulation 40A of the Income Tax (Sub-contractors in the Construction Industry) Regulations 1993, in the current or previous two tax years or that person has been verified under paragraph (1) by the contractor in that period.
+
+(7) A contractor is entitled to assume that—
+
+- (a) a person verified or notified as being registered for gross payment, or
+- (b) a person verified or notified as being registered for payment under deduction,
+
+has not subsequently ceased to be so registered.
+
+## PART 3 — PAYMENT AND RECOVERY OF AMOUNTS DEDUCTED UNDER SECTION 61
+
+### 7. Payment, due date for payment of amounts deducted and receipts[^key-f0ee44014434266606474e8338da5bbb]
+
+(1) A contractor must pay to the Commissioners for Her Majesty’s Revenue and Customs all amounts he was liable under section 61 of the Act to deduct on account of tax from contract payments made by him during that tax period—
+
+- (a) within 17 days after the end of the tax period, where payment is made by an approved method of electronic communications, or
+- (b) within 14 days after the end of the tax period , in any other case.
+
+(2) The Commissioners for Her Majesty’s Revenue and Customs must give a receipt to the contractor for the total amount paid under paragraph (1) if asked.
+
+(3) But no separate receipt for the total amount paid under paragraph (1) need be given if a receipt is given for the total of—
+
+- (a) the amount paid under paragraph (1),
+- (b) any tax deducted under the PAYE[^M_F_ddb08a12-624e-4a3d-8963-e3bb66638b4b] Regulations, and
+- (c) any earnings-related contributions (as defined by regulation 1(2) of the Social Security (Contributions) Regulations 2001[^f00011],
+
+paid at the same time.
+
+**7A.**[^key-ae686f4c79548f619b42b7f1889353f2] (1) Payment of an amount that is less than the amount which the contractor was liable to pay to the Commissioners for Her Majesty’s Revenue and Customs under regulation 7(1), will, for the purposes of paragraph 6(2) of Schedule 56 to the Finance Act 2009 (amounts of penalty: PAYE and CIS), be treated as a payment of the full amount if the difference between the full amount and the amount paid is no more than £100 (“the tolerance”), but this is subject to paragraph (2).
+
+(2) If a contractor makes a payment under regulation 7(1) and the total sum paid to Her Majesty’s Revenue and Customs for the tax period includes not only that payment but also one or more of—
+
+- (a) any tax deducted under the PAYE Regulations,
+- (b) any earnings-related contributions (as defined by regulation 1(2) of the SSC Regulations, or
+- (c) any repayment due under the Student Loans Regulations 2009,
+
+the tolerance is applied to the total sum paid to the Commissioners for Her Majesty’s Revenue and Customs for the tax period to which the payments relate.
+
+### 8. Quarterly tax periods[^key-050cc015dd4bb3bfba47f784fc493915]
+
+(1) This regulation applies so that the tax period is a tax quarter if a contractor—
+
+- (a) has reasonable grounds for believing that the average monthly amount will be less than £1,500, and
+- (b) chooses to pay tax quarterly.
+
+(2) “The average monthly amount” is the average, for tax months falling within the current tax year, of the amounts found by the formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2005/2045)
+
+(3) In paragraph (2)—
+
+- P is the amount which would be payable to an officer of Revenue and Customs under regulation 67G or[^key-a6178fe94fe0f81da9765dee46e0a4bc] 68 of the PAYE Regulations (periodic payments to and recoveries from the Revenue);
+- N is the amount which would be payable to an officer of Revenue and Customs under the SSCBA and the SSC Regulations disregarding any amount of secondary Class 1 contributions in respect of which liability has been transferred to the employed earner by an election made jointly by the employed earner and the secondary contributor for the purposes of paragraph 3B(1) of Schedule 1 to the SSCBA (transfer of liability to be borne by earner)[^f00012];
+- L is the amount which would be payable to an officer of Revenue and Customs under regulation 54(1) or, in Northern Ireland, 49(1)[^key-e4b992ab658f3159794cfb345b653fbf] of the Student Loans Regulations (payment of repayments deducted to the Commissioners for Her Majesty’s Revenue and Customs) disregarding the reduction referred to in paragraph (3) of those regulations[^key-f3cb16fd00fa033c82cbf24f935e3e1d];
+- S is the amount which would be payable by the contractor to the Commissioners for Her Majesty’s Revenue and Customs under regulation 7 during the tax month;
+- SP is the amount which would be payable by the contractor to employees by way of statutory sick pay, statutory maternity pay, ordinary statutory paternity pay, additional statutory paternity pay[^key-ce55e0cf87e52b4581fd244361b4d5ee] and statutory adoption pay under the SSCBA; and
+- CD is—
+  - (a) if the contractor is a company, the amount which others would deduct from payments to it, in its position as a sub-contractor, under section 61 of the Act;
+  - (b) in any other case, nil.
+
+(4) In this regulation—
+
+- “employed earner” has the same meaning as in the SSCBA;
+- “SSCBA” means the Social Security Contributions and Benefit Act 1992[^f00013] or, in Northern Ireland, the Social Security Contributions and Benefit (Northern Ireland) Act 1992[^f00014];
+- [^M_F_fc1f3893-7e1a-4131-8104-f6513dd7c5c3]...
+- [^M_F_fc1f3893-7e1a-4131-8104-f6513dd7c5c3]...
+
+### 9. Recovery from sub-contractor of amount not deducted by contractor[^key-b5951ae6478f5d8f213e12bcbb5e5ef4]
+
+(1) This regulation applies if—
+
+- (a) it appears to an officer of Revenue and Customs that the deductible amount exceeds the amount actually deducted, and
+- (b) condition A or B is met.
+
+(2) In this regulation—
+
+- “the deductible amount” is the amount which a contractor was liable to deduct on account of tax from a contract payment under section 61 of the Act in a tax period;
+- “the amount actually deducted” is the amount actually deducted by the contractor on account of tax from a contract payment under section 61 of the Act during that tax period;
+- “the excess” means the amount by which the deductible amount exceeds the amount actually deducted.
+
+(3) Condition A is that the contractor satisfies an officer of Revenue and Customs—
+
+- (a) that he took reasonable care to comply with section 61 of the Act and these Regulations, and
+- (b) that—
+  - (i) the failure to deduct the excess was due to an error made in good faith, or
+  - (ii) he held a genuine belief that section 61 of the Act did not apply to the payment.
+
+(4) Condition B is that—
+
+- (a) an officer of Revenue and Customs is satisfied that the person to whom the contractor made the contract payments to which section 61 of the Act applies either—
+  - (i) was not chargeable to income tax or corporation tax in respect of those payments, or
+  - (ii) has made a return of his income or profits in accordance with section 8 of TMA (personal return) or paragraph 3 of Schedule 18 to the Finance Act 1998[^f00018] (company tax return), in which those payments were taken into account, and paid the income tax and Class 4 contributions due or corporation tax due in respect of such income or profits;
+
+  and
+- (b) the contractor requests that the Commissioners for Her Majesty’s Revenue and Customs make a direction under paragraph (5).
+
+(5) An officer of Revenue and Customs may direct that the contractor is not liable to pay the excess to the Commissioners for Her Majesty’s Revenue and Customs.
+
+(6) If condition A is not met an officer of Revenue and Customs may refuse to make a direction under paragraph (5) by giving notice to the contractor (“the refusal notice”) stating—
+
+- (a) the grounds for the refusal, and
+- (b) the date on which the refusal notice was issued.
+
+(7) A contractor may appeal against the refusal notice—
+
+- (a) by notice to an officer of Revenue and Customs,
+- (b) within 30 days of the refusal notice,
+- (c) specifying the grounds of the appeal.
+
+(8) For the purpose of paragraph (7) the grounds of appeal are that—
+
+- (a) that the contractor took reasonable care to comply with section 61 of the Act and these Regulations, and
+- (b) that—
+  - (i) the failure to deduct the excess was due to an error made in good faith, or
+  - (ii) the contractor held a genuine belief that section 61 of the Act did not apply to the payment.
+
+(9) If on an appeal under paragraph (7) that is notified to the tribunal it appears[^key-b134935b5156c6b568a696e6dd133b8c] that the refusal notice should not have been issued the tribunal[^key-1240d01fec2908f570a4ee9abbc0432f] may direct that an officer of Revenue and Customs make a direction under paragraph (5) in an amount the tribunal determines[^key-9ad69add34088343dd583e1f6daf87ac] is the excess for one or more tax periods falling within the relevant year.
+
+(10) If a contractor has deducted an amount under section 61 of the Act, but has not paid it to the Commissioners for Her Majesty’s Revenue and Customs as required by regulation 7 (payment, due date etc. and receipts), that amount is treated, for the purposes of determining the liability of any sub-contractor in respect of whose liability the sum was deducted, as having been paid to the Commissioners for Her Majesty’s Revenue and Customs at the time required by regulation 8 (quarterly tax periods).
+
+### 10. Return and certificate if amount may be unpaid[^key-89a1b049215410641efdc99626b60b98]
+
+(1) This regulation applies if, 17 days or more after the end of a tax period, condition A, B or C[^key-2a18c38607be118aa8b062ee2db40a82] is met.
+
+(2) Condition A is that—
+
+- (a) a contractor has not paid any amount under regulation 7 for that tax period, and
+- (b) an officer of Revenue and Customs is unaware of the amount (if any) which the contractor is liable to pay for that tax period.
+
+(3) Condition B is that—
+
+- (a) a contractor has paid an amount under regulation 7 for that tax period, but
+- (b) an officer of Revenue and Customs is not satisfied, that it is the full amount which the contractor is liable to pay for that period.
+
+(3A)[^key-79d074658e77a09d6c9dd5d318fbd16f] Condition C is that—
+
+- (a) the contractor has made a return under regulation 4 showing the amount which the contractor is liable to pay under regulation 7 for that tax period, but
+- (b) the contractor has not paid the full amount shown in the return.
+
+(4) If condition A or B is met[^key-ebc21de0e553e4df83c2d9510ae23fa9] an officer of Revenue and Customs may give notice to the contractor requiring the contractor within 14 days of the issue of the notice to deliver a return showing the amount which the contractor is liable to pay under regulation 7 in respect of the tax period.
+
+(5) If—[^key-f378868f2d895ec5259bea7ba448fcbe]
+
+- (a) the notice extends to, or
+- (b) condition C is met in,
+
+two or more consecutive tax periods in a tax year, this regulation has effect as if they were one tax period.
+
+(6) On receiving a return made by the contractor under paragraph (4) or if condition C is met[^key-e1428c845a97f0237d42f6a153d8d5b0], an officer of Revenue and Customs may prepare a certificate showing the amount which the contractor is liable to pay for the tax period and how much (if any) of that amount remains unpaid.
+
+(7) Regulation 57 (certificate that sum due) deals with the use of certificates as evidence that sums are due and unpaid.
+
+### 11. Notice and certificate if amount may be unpaid[^key-d1fc6983147fe5b1db006aab458a33c6]
+
+(1) This regulation applies if, 17 days or more after the end of a tax period, condition A or B is met.
+
+(2) Condition A is that—
+
+- (a) a contractor has not paid any amount under regulation 7 for that tax period, and
+- (b) an officer of Revenue and Customs has reason to believe that the contractor is liable to pay an amount for that tax period.
+
+(3) Condition B is that—
+
+- (a) a contractor has paid an amount under regulation 7 for that tax period, but
+- (b) an officer of Revenue and Customs is not satisfied, after seeking the contractor’s explanation, that it is the full amount which the contractor is liable to pay for that period.
+
+(4) An officer of Revenue and Customs, on consideration of the contractor’s record of past payments whether of deductions under section 61 of the Act (deductions on account of tax from contract payments) or of combined amounts[^M_F_3b1f57f9-a681-44e4-bf6f-b69de0f90f02], may—
+
+- (a) specify, to the best of his judgment, the amount due under regulation 7 or a combined amount[^M_F_1101bb71-0a6a-4ca3-d9d2-f9260ae9bb46] which he considers the contractor is liable to pay, and
+- (b) serve notice on the contractor requiring payment of the specified[^M_F_e06fecfe-1899-4369-ce1e-abac6b60dad3] amount within 7 days of the issue of the notice (“the notice period”).
+
+(5) If condition A is met an officer of Revenue and Customs may give notice under paragraph (4) which extends to two or more consecutive tax periods in a tax year and these Regulations have effect as if they were the latest tax period specified in the notice.
+
+(6) If, during the notice period, the contractor—
+
+- (a)[^M_F_73fe429a-d025-414e-e98c-c4d5cf556282] claims that any payment made in respect of the tax period specified in the notice is or includes the full amount the contractor is liable to pay under regulation 7, but
+- (b) does not satisfy an officer of Revenue and Customs that this is the case,
+
+the contractor may require an officer of Revenue and Customs to inspect the contractor’s documents and records as if the contractor had been required to produce those documents in accordance with regulation 51 (inspection of records of contractors and sub-contractors).
+
+(7) If there is an inspection by virtue of paragraph (6), regulation 51 applies to that inspection and the notice given by an officer of Revenue and Customs under paragraph (4) must be disregarded.
+
+(8) If the amount specified in the notice, or any part of it, is not paid during the notice period—
+
+- (a) the amount unpaid is treated as , or including,[^M_F_d5c4df87-10b6-4150-f495-ca5adf3400d6] an amount which the contractor was liable to pay for that tax period under regulation 7, and
+- (b) an officer of Revenue and Customs may prepare a certificate showing how much of that amount remains unpaid.
+
+(9) But paragraph (8) does not apply if during the notice period—
+
+- (a) the contractor pays the full amount which the contractor is liable to pay under regulation 7 for that tax period, or
+- (b) the contractor satisfies an officer of Revenue and Customs that no amount, or no further amount, is due for that tax period.
+
+(10) Paragraph (11) applies if the contractor pays an amount of deductions under section 61 of the Act, whether separately or as part of a combined amount,[^M_F_b2617261-2ea8-48fa-e148-f13842bf5ec7] certified under this regulation which exceeds the amount the contractor would have been liable to pay in respect of that tax period apart from this regulation.
+
+(11) The contractor is entitled to set off the excess of deductions under section 61 of the Act[^M_F_acde1a7f-3ee8-4c91-cebe-c7bf74d06963] against any amount which the contractor is liable to pay under regulation 7 for any subsequent tax periods in the tax year.
+
+(12) Regulation 57 deals with the use of certificates as evidence that sums are due and unpaid.
+
+### 12. Certificate after inspection of records of contractors and sub-contractors[^key-5dbb3df4e171f92d903b39ff4191e592]
+
+(1) This regulation applies if there is an inspection of a contractor’s documents and records under regulation 51.
+
+(2) An officer of Revenue and Customs may, by reference to the information obtained from the inspection, prepare a certificate showing—
+
+- (a) the amount which it appears that the contractor is liable to pay for the tax years or tax periods covered by the inspection; and
+- (b) any amount which remains unpaid.
+
+(3) Regulation 57 deals with the use of certificates as evidence that sums are due and unpaid.
+
+### 13. Determination of amounts payable by contractor and appeal against determination[^key-91b9c911d2a2096d9fc134da6c78d76b]
+
+(1) This regulation applies if—
+
+- (a) there is a dispute between a contractor and a sub-contractor as to—
+  - (i) whether a payment is made under a construction contract, or
+  - (ii) the amount, if any, deductible by the contractor under section 61 of the Act from a contract payment to a sub-contractor or his nominee, or
+- (b) an officer of Revenue and Customs has reason to believe, as a result of an inspection under regulation 51 or otherwise, that there may be an amount payable for a tax year under these Regulations by a contractor that has not been paid to them, or
+- (c) an officer of Revenue and Customs considers it necessary in the circumstances.
+
+(2) An officer of Revenue and Customs may determine the amount which to the best of his judgment a contractor is liable to pay under these Regulations, and serve notice of his determination on the contractor.
+
+(3) A determination under this regulation must not include amounts in respect of which a direction under regulation 9(5) has been made and directions under that regulation do not apply to amounts determined under this regulation.
+
+(4) A determination under this regulation may—
+
+- (a) cover the amount payable by the contractor under section 61 of the Act for any one or more tax periods in a tax year, and
+- (b) extend to the whole of that amount, or to such part of it as is payable in respect of—
+  - (i) a class or classes of sub-contractors specified in the notice of determination (without naming the individual sub-contractors), or
+  - (ii) one or more named sub-contractors specified in the notice.
+
+(5) A determination under this regulation is subject to Parts 4, 5 , 5A[^key-2066333a82b450675fb42d81519bd658] and 6 of TMA (assessment, appeals, collection and recovery) as if—
+
+- (a) the determination were an assessment, and
+- (b) the amount determined were income tax charged on the contractor,
+
+and those Parts of that Act apply accordingly with any necessary modifications, except that the amount determined is due and payable 14 days after the determination is made.
+
+(6) If paragraph (1)(a) applies and an officer of Revenue and Customs does not make a determination under paragraph (2), either the contractor or the sub-contractor may on giving notice to an officer of Revenue and Customs, apply to the tribunal[^key-db8bbf06c444ebc94704c2c9cc5077e9] to determine the matter.
+
+(7)[^key-24dc6eacbbc9626c382e00506f1d4754] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) If paragraph (1)(a) applies—
+
+- (a) the contractor must make the deduction required by section 61 of the Act from the contract payment or the part of the contract payment, to which the dispute relates, and the amount so deducted is treated as a sum which he is liable to pay to the Commissioners for Her Majesty’s Revenue and Customs under these Regulations; and
+- (b) any amount which, on a final determination of the dispute, is shown not to have been so payable is, except where regulation 56 (application by the Commissioners for Her Majesty’s Revenue and Customs of sums deducted under section 61 of the Act) applies, treated as an overpayment of income tax or corporation tax by the sub-contractor.
+
+### 14. Interest on amounts overdue[^key-5996f66499b6027212bac14fa8619b95]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Interest on amount overpaid[^key-3b90d0b3854d128222028cfcf34bf96a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Recovery of amount unpaid and interest[^key-735635c6604d5538d44d84467c7d4b7c]
+
+(1) In this regulation, “the unpaid amount” means any amount or interest which a contractor is liable to pay under regulation 10(6), 11(8), 12(2)(b) or 13(2).
+
+(2) Part 6 of TMA (collection and recovery) applies to the recovery of the unpaid amount or combined amount and any interest on it[^M_F_1a085bc7-f0be-40f8-8342-e041667f7732] as if it were income tax charged on the contractor but with the modification indicated in paragraph (3).
+
+(3) Summary proceedings for the recovery of the unpaid amount may be brought in England and Wales or Northern Ireland at any time before the end of the period which applies for the purposes of the regulation, as shown in Table 1.
+
+Table 1
+
+Period for summary proceedings for the recovery of unpaid amount
+
+| 1\. Regulation | 2\. Period |
+| --- | --- |
+| Regulation 10(6), 11(8) and 13(2) | - (a) 12 months after the date on which the unpaid amount or combined amount and any interest on it[^M_F_e88ece99-a4c9-449c-c081-f6e7e13afb53] became payable, or<br>- (b) if a return has been required under regulation 10, 12 months after the date of the delivery of that return to the Commissioners for Her Majesty’s Revenue and Customs. |
+| Regulation 12(2) | 12 months after the date of the certificate. |
+
+(4) Proceedings against a contractor may be brought for the recovery of the unpaid amount or unpaid combined amount and any interest on it[^M_F_4b31f5f6-b2cc-4bf0-96a9-e3e98c4cf1fb] without distinguishing the amounts which the employer is liable to pay in respect of each sub-contractor and without specifying the sub-contractor in question.
+
+(5) The unpaid amount or unpaid combined amount and any interest on it[^M_F_5ea23d94-28d1-45dc-a42c-f49811034c11] is one cause of action or one matter of complaint for the purposes of proceedings under sections 65, 66 and 67 of TMA[^f00023] (magistrates' courts, county courts and inferior courts in Scotland).
+
+(6) But paragraphs (4) and (5) do not prevent the bringing of separate proceedings for the recovery of each of the amounts which the contractor is liable to pay for any tax period in respect of each of the sub-contractors.
+
+### 17. In-year repayments of provisional excess credit[^key-ea8638c39c5e8ac23384c3ea3d642fdb]
+
+(1) This regulation applies if—
+
+- (a) a sub-contractor is an individual or a firm,
+- (b) an application is made by that individual or a partner in the firm (“the applicant”) to the Commissioners for Her Majesty’s Revenue and Customs in accordance with paragraph (4),
+- (c) any income tax and Class 4 contributions due from the applicant, or the sub-contractor, on the applicant’s share of the annual profits or gains arising or accruing from the trade, profession or vocation of the sub-contractor, for any earlier year, have been paid, and
+- (d) all relevant tax payment vouchers issued to the sub-contractor under regulation 7 of the Income Tax (Sub-contractors in the Construction Industry) Regulations 1993[^f00024] in relation to payments made before the appointed day are produced to the Commissioners for Her Majesty’s Revenue and Customs.
+
+(2) If the Commissioners for Her Majesty’s Revenue and Customs are satisfied by evidence produced by the applicant that A exceeds B, the applicant shall, subject to paragraph (5), be entitled to repayment of the excess by the Commissioners for Her Majesty’s Revenue and Customs.
+
+(3) In paragraph (2)—
+
+- A is the amount of the applicant’s share of the total of sums deducted under section 61 of the Act from contract payments made to the sub-contractor and paid to the Commissioners for Her Majesty’s Revenue and Customs, in so much of the year as has elapsed at the date when the application is made; and
+- B is the aggregate of the following amounts—
+  - (a) the income tax and any Class 4 contributions payable (whether or not yet due and payable) by the applicant, on his share of the annual profits or gains arising from the trade, profession or vocation of the sub-contractor which are chargeable to tax for the whole of that year, after deducting any cumulative entitlement of the applicant at the date of the application to an allowance under section 257 or 257A of ICTA[^f00025] (personal allowance and married couple’s allowance);
+  - (b) the income tax and any Class 4 contributions payable (whether or not yet due and payable) by the applicant, on any income arising during so much of the year as has elapsed at the date of the application, from which income tax has not been deducted at source, within the meaning given by section 59B(7) of TMA[^f00026] (payment of income tax and capital gains tax); and
+  - (c) any sum due and payable by the sub-contractor under ICTA or TMA, and, without prejudice to the generality of the foregoing, this includes any sums deducted by the sub-contractor in the capacity of a contractor, under section 61 of the Act.
+
+(4) An application under this regulation must be made to the Commissioners for Her Majesty’s Revenue and Customs containing a declaration that all of the information given in relation to paragraph (3) is correctly stated to the best of the knowledge and belief of the applicant, and where the applicant is a partner in a firm, the form shall be signed by all the partners in the firm who are individuals and, where the partner is a company, by the secretary or a director of the company.
+
+(5) No repayment under this regulation shall be made after the end of the year to which the application relates.
+
+## PART 4 — PAYMENTS EXCEPTED FROM SECTION 60
+
+### 18. Small payments[^key-59cc224b36a96420d82c128b6726fef8]
+
+(1) A payment under a construction contract is not a contract payment if—
+
+- (a) the conditions prescribed in paragraph (2) in relation to the person making the payment are satisfied, and
+- (b) the condition prescribed in paragraph (3) in relation to the payment is satisfied.
+
+(2) The conditions prescribed in relation to the person making the payment are that—
+
+- (a) the person is one to whom any of paragraphs (b) to (l) of section 59(1) of the Act (contractors) applies, and
+- (b) the person has been approved by the Commissioners for Her Majesty’s Revenue and Customs for the purposes of this regulation.
+
+(3) The condition prescribed in relation to the payment is that the payment is not one made under a construction contract in respect of which the total payments so made (excluding the direct cost of materials) exceed or are likely to exceed £1000.
+
+### 19. Work carried out on land owned by person to whom payment is made[^key-a576eeb6e242bb79ce056e8b0f767900]
+
+(1) A payment under a construction contract is not a contract payment if—
+
+- (a) the conditions prescribed in paragraph (2) in relation to the person making the payment are satisfied, and
+- (b) the conditions prescribed in paragraph (3) in relation to the payment are satisfied.
+
+(2) The conditions prescribed in relation to the person making the payment are that—
+
+- (a) the person is one to whom section 59(1)(a) of the Act applies[^key-efbd7ff0bc990699b8ecf55abde88b5d], and
+- (b) the person has been approved by the Commissioners for Her Majesty’s Revenue and Customs for the purposes of this regulation.
+
+(3) The conditions prescribed in relation to the payment are that the payment—
+
+- (a) is made to a body or person in respect of construction operations carried out by that body or person in relation to—
+  - (i) property owned by that body or person, or
+  - (ii) agricultural property of which that body or person is a tenant, and
+- (b) is not one made under a construction contract in respect of which the total payments so made (excluding the direct cost of materials) exceed or are likely to exceed £1000.
+
+(4) For the purposes of paragraph (3)(a)(ii) “agricultural property” means—
+
+- (a) agricultural land or pasture,
+- (b) woodland or any building used in connection with the intensive rearing of livestock or fish if the woodland or building is occupied with agricultural land or pasture and the occupation is ancillary to that of the agricultural land or pasture,
+- (c) cottages, farm buildings and farm houses, together with the land occupied with them, as are of a character appropriate to the property, and
+- (d) land and buildings used for breeding and rearing horses on a stud farm and grazing of horses in connection with those activities.
+
+### 20. Reverse premiums[^key-42834a2d6c1faeec4c5aedd54df24eb6]
+
+(1) Subject to paragraph (2), a payment under a construction contract is not a contract payment if the payment is a reverse premium within the meaning of Schedule 6 to the Finance Act 1999[^f00027] (tax treatment of receipts by way of reverse premium) (see paragraph 1 of that Schedule) or section 99 of the Income Tax (Trading and Other Income) Act 2005 (reverse premiums)[^key-c8097779192a9aadce83542108a1f752].
+
+(2) Paragraph 5 of Schedule 6 to the Finance Act 1999 (exclusion of receipts taken into account for capital allowances) and section 100(1) of the Income Tax (Trading and Other Income) Act 2005 (excluded cases) do[^key-d2f93c5fbd7a173d0ac2ebbeb5e295cc] not apply for the purposes of paragraph (1).
+
+### 21. Payment as agent of local authority[^key-559d975e6c8070ed2bf91445bd341ba3][^key-f5507bc22d9e83e6f4ddcde8797ed855]
+
+A payment under a construction contract is not a contract payment if the payment is made by the governing body or head teacher of a maintained school as the agent of a local authority under section 49(5)(b) of the School Standards and Framework Act 1998 (delegated budget).
+
+### 22. Payments in respect of property used for business[^key-af8e41bf3679dc2fc923c4ecdb6f2945]
+
+(1) A payment under a construction contract is not a contract payment if the payment is made by a person to whom section 59(1)(l) of the Act applies in respect of construction operations relating to property used for the purposes of the business of—
+
+- (a) that person, or
+- (b) another company in the same group or of another company of which that company owns 50% or more of the shares.
+
+(2) For the purpose of paragraph (1)—
+
+- (a) property is not used for the purposes of the business of a person if it is for sale or to let (except where the sale or letting of that property is purely incidental to the business of that person)[^key-b356419a10ede22c7ce23638aecf33ab] or is held as an investment by that person;
+- (b) in determining whether property is used for the purposes of the business of a person incidental use of that property by any other person is disregarded;
+- (c) section 413(3)(a) of ICTA applies to determine whether two companies are in the same group.
+
+### 23. Arrangements involving public bodies[^key-4a3b7b8ffaec460379b4ba7e92ce2cb8]
+
+(1) A payment under a construction contract is not a contract payment if—
+
+- (a) the person making the payment (“the public body”) is within any of paragraphs (b) to (k) of section 59(1) of the Act, and
+- (b) the payment is made under a private finance transaction.
+
+(2) For the purposes of this regulation, a transaction is a private finance transaction if—
+
+- (a) the resources are provided partly by one or more public bodies and partly by one or more private persons;
+- (b) it is designed wholly or mainly for the purpose of assisting a public body to discharge a function or is ancillary to the function of a public body; and
+- (c) the public body makes payments by instalments at annual or more frequent intervals of fees determined in accordance with factors which include—
+  - (i) the standard attained in the performance of services by the private person or persons in relation to the discharge of the function referred to in paragraph (b), or
+  - (ii) the extent, rate or intensity of use of the resources or the asset which is constructed, enhanced, replaced or installed under the transaction.
+
+(3) For the purposes of paragraph (2), “resources” includes—
+
+- (a) funds (including payment for the provision of services or facilities),
+- (b) assets,
+- (c) professional skill,
+- (d) the grant of a concession or franchise, and
+- (e) any other commercial resource.
+
+### 24. Charities[^key-cc57804f3becd1cfa2f390c16f89792f]
+
+A payment under a construction contract is not a contract payment if the payment is made by any body of persons or trust established for charitable purposes only.
+
+## PART 5 — REGISTRATION OF SUB-CONTRACTORS
+
+### 25. Registration for gross payment or for payment under deduction and cancellation of registration for payment under deduction[^key-320c069c9804b288fb8a31ac7c7a7796]
+
+(1) On the application for registration for gross payment or for payment under deduction under section 63 of the Act (registration for gross payment or payment under deduction), the applicant must provide such documents, records and information to establish his identity as an officer of Revenue and Customs may require, which may include—
+
+- (a) the applicant’s birth certificate,
+- (b) the name, address, national insurance number and unique taxpayer reference of—
+  - (i) if the applicant is an individual, the applicant,
+  - (ii) if the applicant is a partner in a firm, any partner,
+  - (iii) if the applicant is a company, the directors of the company or, if the company is a close company, the persons who are the beneficial owners of shares in the company,
+- (c) utility bills,
+- (d) council tax bills,
+- (e) current passport,
+- (f) driving licence,
+- (g) company registration number,
+- (h) company’s memorandum and articles of association.
+
+(2) An officer of Revenue and Customs may require that any of the documents, records or information required under paragraph (1) be produced by the applicant in person.
+
+(3) If the Commissioners for Her Majesty’s Revenue and Customs are not satisfied with the documents, records or information provided under paragraph (1), they may refuse to register the applicant for payment under deduction by notice stating the reasons for the refusal (“the refusal notice”).
+
+(4) An officer of Revenue and Customs may at any time make a determination cancelling a person’s registration for payment under deduction with immediate effect by notice stating the reasons for the cancellation (“the cancellation notice”) if they have reasonable grounds to suspect that the person—
+
+- (a) provided false or incorrect information under paragraph (1),
+- (b) has fraudulently made an incorrect return or provided incorrect information (whether as a contractor or a sub-contractor) under any provision of Chapter 3 of the Act or these Regulations, or
+- (c) has knowingly failed to comply (whether as a contractor or a sub-contractor) with any such provision.
+
+(5) A person may appeal against a notice or refusal specified in column 1 of Table 2 by giving notice to an officer of Revenue and Customs within 30 days of the event specified in column 2 stating the person’s reasons for appeal stated in column 3.
+
+Table 2
+
+| Column 1: appeal | Column 2: timing event | Column 3: reasons for appeal |
+| --- | --- | --- |
+| Appeal against a refusal notice. | Issue of the refusal notice. | Reasons for believing the application should not have been refused. |
+| Appeal against a cancellation notice. | Issue of the cancellation notice. | Reasons for believing the registration should not have been cancelled. |
+| Refusal to register for payment under deduction under section 66(7) of the Act (registration following cancellation of registration for gross payment). | Cancellation of registration for gross payment | Reasons for believing the person should have been registered for payment under deduction. |
+
+(6)[^key-728cd3b2820a157967525c9e5f534810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26. Cancellation of registration for gross payment[^key-bf3b945fcb778dbf521100fa705f31c4]
+
+For the purpose of section 66(2) of the Act (cancellation of registration for gross payment) the prescribed period is 90 days from the date of the notice given under sub-section (5) of that section.
+
+## PART 6 — CONDITIONS TO BE SATISFIED FOR GROSS PAYMENT
+
+### Business test
+
+#### 27. Evidence prescribed to satisfy the business test[^key-cf35735bb93ef9e2d0a3e34349603032]
+
+(1) The evidence required to satisfy an officer of Revenue and Customs for the purposes of section 64 of the Act (requirements for registration for gross payment) that the applicant or company is carrying on a business in the United Kingdom which satisfies the conditions mentioned in paragraph 2(a) and (b) of Schedule 11 to the Act is prescribed in paragraph (2).
+
+(2) The evidence is—
+
+- (a) the business address;
+- (b) invoices, contracts or purchase orders for construction work carried out by the applicant;
+- (c) details of payments for construction work;
+- (d) the books and accounts of the business;
+- (e) details of the business bank account, including bank statements.
+
+### Turnover test
+
+#### 28. Minimum turnover[^key-71221679f6568f5d8bd84a6c88a01352]
+
+(1) The minimum turnover for the purposes of paragraph 3(1) of Schedule 11 to the Act is £30,000.
+
+(2) The amount specified for the purposes of paragraph 7 of Schedule 11 to the Act is £200,000.
+
+(3) The amount specified for the purposes of paragraph 11 of Schedule 11 to the Act is £200,000.
+
+#### 29. Evidence prescribed to satisfy the turnover test[^key-69dfc52d01bc7d45630d336b0627348a]
+
+(1) The evidence prescribed for the purposes of paragraphs 3(1), 7(1) and 11(1) of Schedule 11 to the Act is—
+
+- (a) evidence of turnover of the business mentioned in paragraph 3(1), 7(1) or 11(1) of Schedule 11 to the Act, as appropriate, during the qualifying period;
+- (b) evidence of relevant payments which may include bank statements and paid cheques;
+- (c) evidence that—
+  - (i) the aggregate amount of relevant payments received in the qualifying period equalled or exceeded the relevant turnover threshold; or
+  - (ii) for the purposes of section 66 of the Act (cancellation of registration for gross payment – continuing compliance), the aggregate amount of relevant payments received in the qualifying period equalled or exceeded the relevant turnover threshold or the average amount of relevant payments received in the qualifying period and the previous two years equalled or exceeded the relevant turnover threshold;
+- (d) documentary evidence of operations carried out by the business during the qualifying period which demonstrate that the operations amounted to construction operations.
+
+(2) In the case of a new business carried on by a firm or company where there is no evidence as prescribed in sub-paragraphs (a), (c) or (d) of paragraph 1, the evidence prescribed for the purposes of paragraphs 7(1) and 11(1) of Schedule 11 to the Act is—
+
+- (a) evidence of relevant payments which may include bank statements and paid cheques;
+- (b) in the case of a firm, evidence of turnover of partners during the qualifying period;
+- (c) in the case of a company, evidence of turnover of relevant persons during the qualifying period;
+- (d) evidence of construction contracts entered into by the firm or company including payment schedules where the aggregate value of these contracts exceeds £200,000 and payments of at least £30,000 have been made;
+- (e) if the business mentioned in paragraph 11(1) of Schedule 11 was acquired from another person, firm or company (“the transferor”), the evidence specified in paragraph (3).
+
+This is subject to paragraph (4).
+
+(3) The evidence specified is—
+
+- (a) evidence of turnover of the transferor in relation to carrying on the business during the qualifying period;
+- (b) evidence that—
+  - (i) the aggregate amount of relevant payments received by the transferor in relation to carrying on the business in the qualifying period equalled or exceeded the relevant turnover threshold; or
+  - (ii) for the purposes of section 66(1)(a) of the Act (cancellation of registration for gross payment – continuing compliance), the aggregate amount of relevant payments received by the transferor in the qualifying period in relation to carrying on the business equalled or exceeded the relevant turnover threshold or the average amount of relevant payments in relation to the business received in the qualifying period and the previous two years equalled or exceeded the relevant turnover threshold;
+- (c) invoices for operations carried out by the transferor during the qualifying period which demonstrate that the business operations amounted to construction operations;
+- (d) evidence that the transferor would have satisfied the compliance test in paragraphs 4, 8 or 12 of Schedule 11 to the Act at the date of the transfer.
+
+(4) The evidence prescribed in paragraph (2) may only be given in relation to one application for registration for gross payment.
+
+(5) For the purposes of this regulation and regulation 31—
+
+- “relevant payment” has the meaning given in paragraph 3(2) of Schedule 11 to the Act;
+- “relevant turnover threshold” means—
+  - (a) for the purposes of paragraph 3(1) of Schedule 11 of the Act, in relation to individuals, the minimum turnover specified in regulation 28(1);
+  - (b) for the purposes of paragraph 7(1) of Schedule 11 of the Act, in relation to firms, the smaller of—
+    - (i) the sum specified in paragraph 7(2) of Schedule 11 of the Act, and
+    - (ii) the amount specified in regulation 28(2);
+  - (c) for the purposes of paragraph 11(1) of Schedule 11 of the Act, in relation to companies, the minimum turnover for the purposes of that sub-paragraph.
+
+#### 30. Number of partners or relevant persons[^key-b4bae2638dff99b52a1d4ddb88933eda]
+
+For the purposes of paragraphs 7(2)(a) and 11(2)(a) of Schedule 11 to the Act if the number of partners or relevant persons as the case may be has fluctuated over the qualifying period, the number of partners or relevant persons is the maximum number of partners or relevant persons at any one time in the qualifying period.
+
+#### 31. Turnover test treated as satisfied in prescribed circumstances[^key-01d040b88fbcf2d111332021a4594e0f]
+
+A person, firm or company which does not satisfy the condition in paragraphs 3(1), 7(1) or 11(1) of Schedule 11 to the Act, as appropriate, is treated as satisfying that condition if an officer of Revenue and Customs is satisfied that—
+
+- (a) the business of the person, firm or company does not mainly consist of construction operations,
+- (b) in the year prior to making the application the total turnover of the business exceeded the relevant turnover threshold, and
+- (c) in the year following making the application the person, firm or company is likely to receive relevant payments in relation to construction operations which are incidental to the main business of the person, firm or company.
+
+### Compliance test
+
+#### 32. Exceptions from compliance obligations[^key-7ea7fb748dfb7649fac0d5686499d4bd]
+
+(1) The obligations and requests prescribed for the purposes of paragraphs 4(3), 8(2) and 12(2) of Schedule 11 to the Act are given in column 1 of Table 3.
+
+(2) The circumstances prescribed in which the applicant or company is to be treated as satisfying the conditions in paragraphs 4(1), 8(1) or 12(1) of Schedule 11 to the Act as regards each of the prescribed obligations are given in column 2 of Table 3.
+
+Table 3
+
+| 1\. Prescribed obligations | 2\. Prescribed circumstances |
+| --- | --- |
+| Obligation to submit monthly contractor return within the required period. | (1) Return is submitted not later than 28 days after the due date, and<br>(2) the applicant or company—<br>- (a) has not otherwise failed to comply with this obligation within the previous 12 months, or<br>- (b) has failed to comply with this obligation on not more than two occasions within the previous 12 months. |
+| Obligation to pay—<br>- (a) the amount liable to be deducted under section 61 of the Act from payments made during that tax period, or<br>- (b) tax liable to be deducted under the PAYE Regulations. | (1) Payment is made not later than 14 days after the due date, and<br>(2) the applicant or company—<br>- (a) has not otherwise failed to comply with this obligation within the previous 12 months, or<br>- (b) has failed to comply with this obligation on not more than two occasions within the previous 12 months. |
+| Obligation to pay income tax. | (1) Payment is made not later than 28 days after the due date, and<br>(2) the applicant has not otherwise failed to comply with this obligation within the previous 12 months. |
+| Obligation to submit a return under regulation [^key-57ea05892a67a9494972e5d09a046304]... 85 of the PAYE Regulations (annual return of other earnings)[^key-80eb416bd9c20fdf0fef3ad2fbb650b8] within the required period. | Return is submitted after the due date. |
+| Obligation to pay corporation tax for which the applicant or company is liable. | (1) Payment is made not later than 28 days after the due date, and<br>(2) any shortfall in that payment has incurred an interest charge but no penalty. |
+| Obligation to submit a self-assessment return within the required period. | Return is submitted after the due date. |
+| Obligations and requests referred to in paragraphs 4(1), 8(1) and 12(1) of Schedule 11 to the Act. | The failure to comply occurred before the appointed day and was within section 562(10), 564(4) or 565(4) of ICTA (conditions to be satisfied: minor and technical failures). |
+| Obligation to make a payment under the Tax Acts or Taxes Management Act 1970.[^key-578315fbf02c4e7092db31c848258564] | Late or non payment of an amount under £100. |
+
+#### 33. Absence abroad – evidence of living outside the United Kingdom[^key-7845edd89cc731e62373e1c0639ac4d1]
+
+(1) The evidence required to satisfy the Commissioners for Her Majesty’s Revenue and Customs for the purposes of paragraph 4(5)(a) of Schedule 11 to the Act that the applicant was not subject to any one or more of the obligations mentioned in paragraph 4(1) of that Schedule because he has been outside the United Kingdom for the whole or part of the qualifying period is prescribed in paragraphs (2) and (3).
+
+(2) Subject to paragraph (3), if the applicant claims to have been employed or self-employed outside the United Kingdom during any part of the qualifying period, the evidence is any document from the Revenue Department or equivalent department of the country in which he claims to have been living which confirms his presence throughout that part of the qualifying period.
+
+(3) If the applicant claims—
+
+- (a) not to have been employed or self-employed while outside the United Kingdom during any part of the qualifying period, or
+- (b) to have been employed or self-employed outside the United Kingdom during any part of the qualifying period but not to have been liable to tax in the country in which he claims to have been living during that part of the qualifying period,
+
+the evidence is any document from the Social Security Department or equivalent department, or from the immigration authorities, or from any other Government department of the country in which he claims to have been living which confirms his presence throughout that part of the qualifying period.
+
+#### 34. Absence abroad – evidence of compliance with tax obligations[^key-dd6bb3b482f74e232b985be217def949]
+
+(1) The evidence required to satisfy the Commissioners for Her Majesty’s Revenue and Customs for the purposes of paragraph 4(5)(b) of Schedule 11 to the Act that the applicant has complied with any obligations imposed under the tax laws of any country in which he was living during any part of the qualifying period which are comparable to the obligations mentioned in paragraph 4(1) of that Schedule is prescribed in paragraph (2).
+
+(2) The evidence is such notice or documents issued by the Revenue Department or equivalent department of the country in which the applicant claims to have been living as confirms that the obligations have been complied with.
+
+#### 35. Evidence of unemployment[^key-55ea7d3f45ac8f1145046d621426bb78]
+
+(1) The evidence required to satisfy the Commissioners for Her Majesty’s Revenue and Customs for the purposes of paragraph 4(5)(a) of Schedule 11 to the Act that the applicant was not subject to any one or more of the obligations mentioned in paragraph 4(1) of that Schedule because he was unemployed is prescribed in paragraphs (2) and (3).
+
+(2) If the applicant claims to have been living within the United Kingdom during any period, the evidence is—
+
+- (a) a statement from the benefit officer certifying the period during which the applicant was registered as unemployed, or
+- (b) during any period during which the applicant was not registered as unemployed, such other evidence as satisfied the Commissioners for Her Majesty’s Revenue and Customs that he was unemployed during that period.
+
+(3) If the applicant claims to have been living outside the United Kingdom during any period, the evidence is any document from the Social Security Department or equivalent department, or from the immigration authorities, or from any other Government Department of the country in which he claims to have been living, which confirms his presence there throughout that period.
+
+(4) In paragraph (2), “benefit officer” means appropriate officer of the Department for Work and Pensions or, in Northern Ireland, the appropriate officer of the Department of Health and Social Services for Northern Ireland.
+
+#### 36. Evidence of full-time education[^key-a710183b1e2c16a9329107744569de44]
+
+(1) The evidence required to satisfy the Commissioners for Her Majesty’s Revenue and Customs for the purposes of paragraph 4(5)(a) of Schedule 11 to the Act that the applicant was not subject to any one or more of the obligations mentioned in paragraph 4(1) of that Schedule because he was undergoing full-time education is prescribed in paragraphs (2) and (3).
+
+(2) If the applicant claims to have been living within the United Kingdom, the evidence is a statement from the educational institution which the applicant attended, certifying the periods during which the applicant was undergoing full-time education at that institution.
+
+(3) If the applicant claims to have been living outside the United Kingdom during any period, the evidence is a statement from the educational institution which the applicant attended, in the country in which the applicant claims to have been living, certifying the periods during which the applicant was undergoing full-time education at that institution.
+
+#### 37. Interpretation[^key-95acf9860ecccecb5cef20e0f7e0d97a]
+
+In this Part—
+
+- “applicant” shall be construed in accordance with section 63 of and Schedule 11 to the Act;
+- “qualifying period” has the meaning given in paragraph 14 of Schedule 11 to the Act.
+
+## PART 7 — ELECTRONIC COMMUNICATIONS
+
+### 38. Interpretation[^key-1a7ac206b9c3b9b064773d90c3b96fd2]
+
+In this Part—
+
+- “official computer system” means a computer system maintained by or on behalf of the Commissioners for Her Majesty’s Revenue and Customs or an officer of Revenue and Customs;
+- “specified payment” means the amount due under regulation 7 (payment, due date for payment of amounts deducted and receipts) in respect of contract payments [^key-caae7812bccfacc416134159f6c671af]....
+
+### 39. Whether information has been delivered electronically[^key-9bbdc705266b9da0bce9eaad466b56c0]
+
+For the purpose of these Regulations, information is taken to have been delivered to an official computer system by an approved method of electronic communications only if it is accepted by that official computer system.
+
+### 40. Proof of content of electronic delivery[^key-7d2e7dc41c41549ff8c47ce3ce159855]
+
+(1) A document certified by an officer of Revenue and Customs to be a printed-out version of any information delivered by an approved method of electronic communications is evidence, unless the contrary is proved, that the information—
+
+- (a) was delivered by an approved method of electronic communications on that occasion, and
+- (b) constitutes everything which was delivered on that occasion.
+
+(2) A document which purports to be a certificate given in accordance with paragraph (1) is presumed to be such a certificate unless the contrary is proved.
+
+### 41. Proof of identity of person sending or receiving electronic delivery[^key-45f688787cf6500dfc8f79eef28638ff]
+
+The identity of—
+
+- (a) the person sending any information by an approved method of electronic communications to Her Majesty’s Revenue and Customs, or
+- (b) the person receiving any information delivered by an approved method of electronic communications by Her Majesty’s Revenue and Customs,
+
+is presumed, unless the contrary is proved, to be the person recorded as such on an official computer system.
+
+### 42. Information sent electronically on behalf of a person[^key-29c3d9e955701e47c668e137f7840c62]
+
+(1) Any information delivered by an approved method of electronic communications—
+
+- (a) to Her Majesty’s Revenue and Customs, or
+- (b) to an official computer system,
+
+on behalf of a person is taken to have been delivered by that person.
+
+(2) But this does not apply if the person proves that the information was delivered without the person’s knowledge or connivance.
+
+### 43. Proof of delivery of information sent electronically[^key-4af76b9ee7d6608caf95f59b3983694a]
+
+(1) The use of an approved method of electronic communications is presumed, unless the contrary is proved, to have resulted in the delivery of information—
+
+- (a) to Her Majesty’s Revenue and Customs, if the delivery of the information has been recorded on an official computer system;
+- (b) by Her Majesty’s Revenue and Customs, if the despatch of the information has been recorded on an official computer system.
+
+(2) The use of a method of electronic communications is presumed, unless the contrary is proved, not to have resulted in the delivery of information—
+
+- (a) to Her Majesty’s Revenue and Customs, if the delivery of the information has not been recorded on an official computer system;
+- (b) by Her Majesty’s Revenue and Customs, if despatch of the information has not been recorded on an official computer system.
+
+(3) The time of receipt or despatch of any information delivered by a method of electronic communications is presumed, unless the contrary is proved, to be the time recorded on an official computer system.
+
+### 44. Proof of payment sent electronically[^key-56fa348eb02caab96c875b98c87cd410]
+
+(1) The use of a method of electronic communications is presumed, unless the contrary is proved, to have resulted in the making of a payment—
+
+- (a) to Her Majesty’s Revenue and Customs, if the making of the payment has been recorded on an official computer system;
+- (b) by Her Majesty’s Revenue and Customs, if despatch of the payment has been recorded on an official computer system.
+
+(2) The use of a method of electronic communications is presumed, unless the contrary is proved, not to have resulted in the making of a payment—
+
+- (a) to Her Majesty’s Revenue and Customs, if the making of the payment has not been recorded on an official computer system;
+- (b) by Her Majesty’s Revenue and Customs, if despatch of the payment has not been recorded on an official computer system.
+
+(3) The time of receipt or despatch of any payment sent by a method of electronic communications is presumed, unless the contrary is proved, to be the time recorded on an official computer system.
+
+### 45. Mandatory electronic payment[^key-3ed6a18f248a30f59770c093f93712ea]
+
+(1)[^key-9da5e24ba52e9f9254bf4314b0459c74] A contractor who is a large employer within the meaning of regulation 198A (large employers)[^key-888b6ef17f0f07d6b01f1b3e1605a134] of the PAYE Regulations must pay the specified payment using an approved method of electronic communications.
+
+(2) Paragraph (1) applies regardless of whether a payment of tax is due under regulation 67G or[^key-9de1cbe096c43e6513fe2c996c88197e] 68 of the PAYE Regulations (payment and recovery of tax by employer).
+
+(3) If the Commissioners for Her Majesty’s Revenue and Customs have given directions under regulation 199(3) of the PAYE Regulations in relation to a contractor, the specified payment must be made in accordance with those directions.
+
+(4)[^key-9e26a34aeaeaaf3fd6c6c248f6f75e23] A specified payment is not treated as received in full by Her Majesty’s Revenue and Customs on or before the date by which that specified payment is required in accordance with regulation 7 unless it is made in a manner which secures (in a case where the specified payment is made otherwise than in cash) that, on or before that date, all transactions can be completed which need to be completed before the whole amount of the specified payment becomes available to the Commissioners for Her Majesty’s Revenue and Customs.
+
+### 46. Contractor in default if specified payment not received by applicable due date[^key-50608ae0008b4a244f9bd6924787d0bc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 47. Default notice and appeal[^key-c67a63a6666d3af10b761c1adf6cd701]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 48. Default surcharge[^key-5ec36f4068e002958b7bff5382731d66]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 49. Surcharge notice and appeal[^key-1b2da31bb799147ece95bcb5a3edd62b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 8 — SUPPLEMENTARY PROVISIONS
+
+### 50. Delegation of Commissioners for Her Majesty’s Revenue and Customs' functions[^key-4ca1a7bac1901472b4740e80a7d97011]
+
+(1) The following may be done by an officer of Revenue and Customs on behalf of the Commissioners for Her Majesty’s Revenue and Customs—
+
+- (a) the registration of persons under section 63 of the Act (registration for gross payment or payment under deduction);
+- (b) the giving of directions under section 64(5) of the Act (power to make directions as to application of conditions to be satisfied by individuals applying for registration for gross payment);
+- (c) the cancellation under section 66 of the Act of a person’s registration for gross payment.
+
+(2) This regulation is without prejudice to any other power of the Commissioners for Her Majesty’s Revenue and Customs to delegate their functions
+
+### 51. Inspection of records of contractors and sub-contractors[^key-c6499a68953bbdfb4c40068ff4eec166]
+
+(1) Whenever required to do so by a person nominated by the Commissioners for Her Majesty’s Revenue and Customs, a contractor must produce to that person all contractor records, or such contractor records as may be specified by that person, for inspection at the prescribed place and at such time as that person may reasonably require.
+
+(2) “Contractor records” means all documents and records relating to—
+
+- (a) the calculation and payment of sums paid by the contractor to sub-contractors (or their nominees) under contracts relating to construction operations, and
+- (b) the deductions made from such sums required under section 61 of the Act,
+
+in the tax years or tax periods specified by the nominated person.
+
+(3) Whenever required to do so by a person nominated by the Commissioners for Her Majesty’s Revenue and Customs, a person who is or has within the preceding three tax years been a sub-contractor must produce to that person all sub-contractor records, or such sub-contractor records as may be specified by that person, for inspection at the prescribed place and at such time as that person may reasonably require.
+
+(4) “Sub-contractor records” means all documents and records relating to—
+
+- (a) the calculation or payment of sums paid to the sub-contractor pursuant to any contract relating to construction operations under which he is or was a sub-contractor within the previous three years, and
+- (b) the direct cost of materials relating to any such contract.
+
+(5) “The prescribed place” means such place in the United Kingdom as the contractor or sub-contractor and the nominated person may agree upon, or in the absence of agreement—
+
+- (a) the place in the United Kingdom at which the contractor records or sub-contractor records are normally kept, or
+- (b) if there is no such place, the contractor’s or sub-contractor’s principal place of business in the United Kingdom.
+
+(6) The nominated person may—
+
+- (a) take copies of, or make extracts from, any document produced for inspection in accordance with paragraph (1) or (3);
+- (b) remove any document so produced if it appears to the nominated person to be necessary to do so, at a reasonable time and for a reasonable period.
+
+(7) If any document is removed in accordance with paragraph (6)(b), the nominated person must provide—
+
+- (a) a receipt for the document, and
+- (b) a copy of the document, free of charge, to the person by whom it was produced or caused to be produced, within seven days of that person requesting a copy, if the document is reasonably required for the proper conduct of a business.
+
+(8) If a lien is claimed on a document produced in accordance with paragraph (1) or (3), the removal of the document under paragraph (6)(b) is not to be regarded as breaking the lien.
+
+(9) If records are maintained by computer, the person required to make them available for inspection must provide the nominated person with all facilities necessary for obtaining information from them.
+
+(10) For the purposes of this regulation, a contractor and a sub-contractor must keep, for not less than three years after the end of the tax year to which they relate, all contractor records or sub-contractor records as the case may be which are not required to be sent to the Commissioners for Her Majesty’s Revenue and Customs by other provisions of these Regulations.
+
+### 52. Inspection of records of sub-contractors – additional provisions[^key-ef6dbac07c384fba058c5f0e51abbfdb]
+
+(1) Where a sum deducted under section 61 of the Act is treated as paid on account of the liabilities mentioned in regulation 56(2) (application by Commissioners for Her Majesty’s Revenue and Customs of sums deducted under section 61), the sub-contractor, whose liabilities they are, shall—
+
+- (a) maintain the records specified in paragraph (2), and
+- (b) produce to a person nominated by the Commissioners for Her Majesty’s Revenue and Customs for inspection those records, or such of them as may be specified by him, at such time as he may reasonably require, at the prescribed place.
+
+(2) The records are all documents and records relating to the calculation of—
+
+- (a) the amounts which the sub-contractor would have been liable to pay to the Commissioners for Her Majesty’s Revenue and Customs in the preceding three tax years, under the provisions mentioned in regulation 56(2), but for the withholding by a contractor of sums due to him; and
+- (b) the amounts deducted by a contractor under section 61 of the Act which the sub-contractor claims to be entitled to set off against those liabilities.
+
+(3) “The prescribed place” means such place in the United Kingdom as the sub-contractor and the nominated person may agree upon, or in the absence of agreement—
+
+- (a) the place in the United Kingdom at which the documents and records mentioned in paragraph (2) are normally kept, or
+- (b) if there is no such place, the sub-contractor’s principal place of business in the United Kingdom.
+
+(4) The nominated person may—
+
+- (a) take copies of, or make extracts from, any document produced for inspection in accordance with paragraph (1)(b);
+- (b) remove any document so produced if it appears to the nominated person to be necessary to do so, at a reasonable time and for a reasonable period.
+
+(5) If a lien is claimed on a document produced in accordance with paragraph (1)(b), the removal of the document under paragraph (4)(b) is not to be regarded as breaking the lien.
+
+(6) If records are maintained by computer, the person required to make them available for inspection must provide the nominated person with all facilities necessary for obtaining information from them.
+
+### 53. Information as to change of control of close company[^key-31f048b5777a911a584d57b36f101295]
+
+(1) This regulation applies to a company which—
+
+- (a) is a close company,
+- (b) is a private company limited by shares, and
+- (c) is registered for gross payment or is applying to be so registered.
+
+(2) Where there is a change in the control of the company by reason of an issue or transfer of shares in the company to a person who was not a shareholder in the company immediately before the issue or transfer, the company shall, within 30 days of the issue or of receiving information as to the transfer, give notice to the Commissioners for Her Majesty’s Revenue and Customs of the name and address of the person to whom the shares were issued or transferred.
+
+(3) In this regulation “control” has the same meaning as in section 840 of ICTA.
+
+### 54. Death of contractor[^key-81af4276eae179f0fbbb126ddfb39b84]
+
+If a contractor dies, anything which he would have been liable to do under these Regulations must be done by his personal representatives.
+
+### 55. Service by post[^key-cba386ecdc0584698813e5e8ab957251]
+
+Any notice which is authorised or required to be given, served or issued under these Regulations may be sent by post.
+
+### 56. Application by the Commissioners for Her Majesty’s Revenue and Customs of sums deducted under section 61[^key-a0a949f06f001096f20d3ba281ad1519]
+
+(1) This regulation applies to sums deducted from contract payments made to a sub-contractor which is a company (“the qualifying sub-contractor”).
+
+(2) So much of any sum deducted under section 61 of the Act by a contractor in a tax year and paid to the Commissioners for Her Majesty’s Revenue and Customs as is required shall be applied—
+
+- (a) first, in discharge of any liability of the qualifying sub-contractor to account for primary Class 1 contributions in respect of earnings paid to its employees in that year;
+- (b) second, in discharge of any liability of the qualifying sub-contractor for secondary Class 1 contributions in respect of earnings paid to its employees in that year;
+- (c) third, in discharge of any liability of the qualifying sub-contractor to account for tax deducted from the emoluments of its employees in accordance with Regulations made under section 684 of ITEPA (pay as you earn) in respect of that year;
+- (d) fourth, in discharge of any liability of the qualifying sub-contractor to account for deductions made by it in that year from the emoluments of its employees in accordance with regulations made under section 22(5) of the Teaching and Higher Education Act 1998[^f00032], section 73B of the Education (Scotland) Act 1980[^f00033], or Article 3(5) of the Education (Student Support) (Northern Ireland) Order 1998[^f00034];
+- (e) fifth, in discharge of any liability of the qualifying sub-contractor to refund to the Commissioners for Her Majesty’s Revenue and Customs any funding payment made by them in respect of statutory sick pay, statutory maternity pay, ordinary statutory paternity pay, additional statutory paternity pay[^key-33c3f7cac90309cddc1b0d535e27a11f] or statutory adoption pay under the relevant recovery provision; and
+- (f) last, in discharge of any liability of the qualifying sub-contractor to account for sums deducted by it (in its capacity as a contractor) under section 61 of the Act from payments made to other sub-contractors.
+
+(2A)[^key-bb51e97c2a1e8d5d9a7d77a771049006] For any tax period where as a consequence of paragraph (2) the qualifying sub-contractor pays an amount to the Commissioners for Her Majesty’s Revenue and Customs in respect of any liability referred to in that paragraph that is less than the amount the qualifying sub-contractor would have paid but for that paragraph, paragraph (2B) applies if the qualifying sub-contractor is a Real Time Information employer for the purposes of the PAYE Regulations.
+
+(2B) The qualifying sub-contractor must deliver to the Commissioners for Her Majesty’s Revenue and Customs a return under this paragraph stating the value of the sums deducted from contract payments made to the qualifying sub-contractor under section 61 of the Act in the tax year to date.
+
+(2C) The return required by paragraph (2B) must be delivered within 14 days after the end of the tax period.
+
+(2D) If an employer makes an error in a return under paragraph (2B), the employer must provide the correct information in the first return made under that paragraph after the discovery of the error.
+
+(2E) But if the information given has not been corrected before 20th April following the end of the year in question, the employer must provide the correct information for the year in question in a return under this paragraph.
+
+(3) So much of any sum deducted under section 61 of the Act as is not required to discharge the sub-contractor’s liabilities specified in paragraph (2) shall be repaid to the qualifying sub-contractor.
+
+This is subject to the qualifications in paragraphs (5) and (6).
+
+(4)[^key-1dabff9e09820c95a0ace66807da15fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The Commissioners for Her Majesty’s Revenue and Customs shall not repay any sum deducted under section 61 of the Act to the qualifying sub-contractor unless[^key-97c98907be8c2926cec6847f408e3ba4]—
+
+- (a) the tax year in which the deduction was made, has ended; and
+- (b)[^key-f572ecb1c1f9b831b2a558b490ddc8b2] the qualifying sub-contractor has paid to the Commissioners for Her Majesty’s Revenue and Customs—
+  - (i) any amounts the qualifying sub-contractor deducted from contract payments in their capacity as a contractor during that tax year, and
+  - (ii) any amounts due under the PAYE Regulations in respect of that tax year.
+
+(6) If it appears to an officer of Revenue and Customs that there is an outstanding liability of the qualifying sub-contractor in respect of corporation tax due for an accounting period ending before the relevant payment is made under section 61 of the Act, the amount required to discharge that liability shall be retained by the Commissioners for Her Majesty’s Revenue and Customs and applied in discharge of that liability.
+
+(7) In paragraph (2)(e), “the relevant recovery provision” means—
+
+- (a) in respect of ordinary statutory paternity pay[^key-6a40ab64ea601bb67c7d14499a24d77b] and statutory adoption pay, regulations 4, 5, 6 and 8 of either the Statutory Paternity Pay and Statutory Adoption Pay (Administration) Regulations 2002[^f00035] or the Statutory Paternity Pay and Statutory Adoption Pay (Administration) Regulations (Northern Ireland) 2002[^f00036];
+- (aa)[^key-a94ea69411cdbce338bbbb6f36624e19] in respect of additional statutory paternity pay, regulations 4, 5, 6 and 8 of either the Additional Statutory Paternity Pay (Birth, Adoption and Adoptions from Overseas) (Administration) Regulations 2010 or the Additional Statutory Paternity Pay (Birth, Adoption and Adoptions from Overseas) (Administration) Regulations (Northern Ireland) 2010;
+- (b) in respect of statutory maternity pay, regulations 5, 6, 6A and 7A of the Statutory Maternity (Compensation of Employers) and Miscellaneous Amendment Regulations 1994[^f00037] or the Statutory Maternity (Compensation of Employers) and Miscellaneous Amendment Regulations (Northern Ireland) 1994[^f00038].
+
+(8)[^key-571e33cd2f7248ffae4285fa658e3aa1] A return under this regulation must—
+
+- (a) state—
+  - (i) the employer’s HMRC office number,
+  - (ii) the employer’s PAYE reference for the purposes of the PAYE Regulations,
+  - (iii) the employer’s accounts office reference, and
+  - (iv) the tax year to which the return relates, and
+- (b) be delivered using an approved method of electronic communications unless the qualifying sub-contractor is one to whom regulation 67D of the PAYE Regulations applies, in which case the return must be made in a document or format provided or approved by the Commissioners for Her Majesty’s Revenue and Customs.
+
+### 57. Certificate that sum due[^key-32aad43e9d513aee56071be6bedac6d5]
+
+(1) A certificate of an officer of Revenue and Customs that, to the best of his knowledge and belief, any amount shown in a certificate under the regulations listed in paragraph (2) has not been paid by a contractor, is sufficient evidence that the amount mentioned in the certificate is unpaid and due to the Crown.
+
+(2) The regulations are—
+
+- regulation 10(6) (return and certificate if amount may be unpaid)
+- regulation 11(8) (notice and certificate if amount may be unpaid)
+- regulation 12(2) (certificate after inspection of records).
+
+(2A)[^M_F_8545b27a-1536-4426-f097-7433b9e4b361] An officer of Revenue and Customs may prepare a certificate showing the whole or part of a combined amount which includes deductions under section 61 of the Act without specifying the components of the combined amount.
+
+Paragraph (1) shall apply with any necessary modifications to the certificate.
+
+(3) A certificate of an officer of Revenue and Customs that, to the best of his knowledge and belief, any amount of interest payable under [^M_F_820c27fc-3d70-438d-af08-6b8327f5dc65]... regulation 14 (interest on amounts overdue) has not been paid by a contractor, is sufficient evidence that the amount mentioned in the certificate is unpaid and due to the Crown.
+
+(3A)[^M_F_954107ca-6985-4c1a-b59d-79d619af1660] An officer of Revenue and Customs may prepare a certificate showing the total amount of interest payable in respect of the whole or any component of the combined amount without specifying which component of the combined amount the interest relates to.
+
+Paragraph (3) shall apply with any necessary modifications to the certificate.
+
+(4) The production of—
+
+- (a) the return made by the contractor under regulation 10(4), and
+- (b) the certificate of an officer of Revenue and Customs under regulation 10(6),
+
+is sufficient evidence that the amount shown in the certificate is the amount of tax which the contractor is liable to pay to the Commissioners for Her Majesty’s Revenue and Customs in respect of the tax period in question.
+
+(5) A document which purports to be a certificate under this regulation[^M_F_e53a5b41-465f-4714-bd22-70863c02e520] is treated as such a certificate until the contrary is proved.
+
+### 58. Payment by cheque[^key-8933f2a71c2fdaae4b48cd0fa6f995fd]
+
+(1) For the purposes of the following provisions, if—
+
+- (a) any payment to the Commissioners for Her Majesty’s Revenue and Customs is made by cheque, and
+- (b) the cheque is paid on its first presentation to the banker on whom it is drawn,
+
+the payment shall be treated as made on the day which the cheque was received by the Commissioners for Her Majesty’s Revenue and Customs.
+
+(2) The provisions are—
+
+- regulation 7 payment, due date for payment of amounts deducted and receipts for payment of tax
+- regulation 9 recovery from sub-contractor of tax not deducted by contractor
+- regulation 11 notice and certificate if tax may be unpaid
+- [^key-abc06afc78d80a4f7df1225bb2f39c1f]...
+
+### 59. Appeals: supplementary provisions[^key-f869e420ed6072ac762a4a33f6861783]
+
+(1)[^key-250562d88354fab6ea16b9f90cbcf1e0] Section 31A(5) and (6) of TMA applies to appeals under regulation 47 (default notice and appeal) as it applies to an appeal under section 31 of that Act.
+
+(2)[^key-1803b6d0cd959a7ffd2cb0ba95e8993a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-1803b6d0cd959a7ffd2cb0ba95e8993a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 60. Transitional provisions, savings and revocation[^key-5ab96ed7152370c0227ce3e99ab6c48a]
+
+(1) Schedule 1 (transitional provisions and savings) has effect.
+
+(2) The Regulations listed in column 1 of Schedule 2 are revoked to the extent specified in column 3 of that Schedule.
+
+(3) Paragraph (2) is subject to Schedule 1.
+
+David Varney
+
+Helen Ghosh
+
+Two of the Commissioners for Her Majesty’s Revenue and Customs
+
+25th July 2005
+
+## SCHEDULE 1 — TRANSITIONAL PROVISIONS AND SAVINGS
+
+Regulation 60
+
+### PART 1 — GENERAL PROVISIONS
+
+#### 1. Continuity of the law[^key-e496e35da4164b5ae0415265ca66a514]
+
+The revocation of provisions and their making in a rewritten form in these Regulations does not affect the continuity of the law.
+
+**2.**[^key-b87e9407dbd96fdce82b41df64dc1b9e] Paragraph 1 does not apply to any change in the law made by these Regulations.
+
+**3.**[^key-60fd67907ad94269ceff723033187956] Anything which—
+
+- (a) has been done, or has effect as if done, under or for the purposes of a provision of the revoked Regulations, and
+- (b) is in force or effective immediately before the commencement of these Regulations,
+
+has effect after that commencement as if done under or for the purposes of the corresponding provision of these Regulations.
+
+**4.**[^key-731262485298f6efd04bd22f8863b951] Any reference (express or implied) in these Regulations or any document made under these Regulations to—
+
+- (a) a provision of these Regulations, or
+- (b) things done or falling to be done under or for the purposes of a provision of these Regulations,
+
+is to be read as including, in relation to times, circumstances or purposes in relation to which any corresponding provision of the revoked Regulations had effect, a reference to the provision of the revoked Regulations or to things done or falling to be done under or for the purposes of the provision of the revoked Regulations.
+
+**5.**[^key-c5d93655cbfb2fc1a7b78b49321174b2] Any reference (express or implied) in these Regulations to—
+
+- (a) a provision of the Act, or
+- (b) things done or falling to be done under or for the purposes of a provision of the Act,
+
+is to be read as including, in relation to times, circumstances or purposes in relation to which any corresponding provision repealed by the Act had effect, a reference to the repealed provision or to things done or falling to be done under or for the purposes of the repealed provision.
+
+**6.**[^key-c3b436d6afa1ebdfcba407fe62a7c669] Any reference (express or implied) in these Regulations to contractors, sub-contractors, construction operations or similar concepts created by the Act is to be read as including, in relation to times, circumstances or purposes in relation to which any corresponding concept which has been superseded by the Act had effect, a reference to the superseded concept.
+
+**7.**[^key-7c50cf47c1192428416f057e1d77d6b1] Paragraphs 4, 5 and 6 apply only in so far as the context permits.
+
+**8.**[^key-5a4fdcf935697bed270c00d3173ba6d5] Paragraph 6 is without prejudice to the generality of paragraph 5.
+
+**9.**[^key-5f74ad1a5962b6518372aa20d020a1ac] These Regulations have effect in relation to sums liable, under the Income Tax (Sub-contractors in the Construction Industry) Regulations 1993[^f00041], to be deducted or accounted for in respect of payments made before the appointed day as if the sum had been liable to be deducted or accounted for under these Regulations.
+
+**10.**[^key-74bcfbd668da963d4aae89ca7b7a51e0] Paragraph 9 is without prejudice to the generality of paragraphs 1 to 8.
+
+**11.**[^key-685c13b76d7d415862e5e9a5540451f4] Paragraphs 1 to 10 have effect instead of paragraph (b) of section 17(2) of the Interpretation Act 1978[^f00042].
+
+#### 12. General saving for old savings[^key-3054f8685cbccd85e9b90147c74cb5d4]
+
+(1) The revocation by these Regulations of a provision previously revoked subject to savings does not affect the continued operation of those savings.
+
+(2) The revocation by these Regulations of a saving on the previous revocation of a provision does not affect the operation of the saving in so far as it is not specifically reproduced in these Regulations but remains capable of having effect.
+
+#### 13. Interpretation[^key-81c694d76c386bb2f937e48daa72db3d]
+
+In this Part of this Schedule, “the revoked Regulations” means the Regulations which are revoked by these Regulations.
+
+### PART 2 — SPECIFIC PROVISIONS
+
+#### 1. Interest on unpaid amounts: disapplication of regulation 14 for tax years before the tax year ending 5th April 1993[^key-470418bb8893c2f6e3fcbf5a879535ff]
+
+Regulation 14 (interest on amounts overdue) does not apply in relation to unpaid amounts in respect of a tax year ending on or before 5th April 1992.
+
+#### 2. Interest on overpaid tax: disapplication of regulation 15 for tax years before the tax year ending 5th April 1993[^key-54dd8a9b97ee89870131b0978a3e7ce0]
+
+Regulation 15 (interest on overpaid amount) does not apply to tax which was paid by an employer in respect of a tax year ending on or before 5th April 1993.
+
+## SCHEDULE 2 — REVOCATIONS[^key-4c98278b91fdb0f3bda8d126d7f66a8e]
+
+Regulation 60
+
+| 1\. Regulations revoked | 2\. Reference | 3\. Extent of revocation |
+| --- | --- | --- |
+| The Income Tax (Sub-contractors in the Construction Industry) Regulations 1993 | [1993/743](https://www.legislation.gov.uk/uksi/1993/743) | The whole instrument. |
+| The Income Tax (Sub-contractors in the Construction Industry) (Amendment) Regulations 1995 | [1995/217](https://www.legislation.gov.uk/uksi/1995/217) | The whole instrument. |
+| The Income Tax (Sub-contractors in the Construction Industry) (Amendment No. 2) Regulations 1995 | [1995/448](https://www.legislation.gov.uk/uksi/1995/448) | The whole instrument. |
+| The Income Tax (Sub-contractors in the Construction Industry) (Amendment) Regulations 1996 | [1996/981](https://www.legislation.gov.uk/uksi/1996/981) | The whole instrument. |
+| The Income Tax (Sub-contractors in the Construction Industry) (Amendment) Regulations 1998 | [1998/2622](https://www.legislation.gov.uk/uksi/1998/2622) | The whole instrument. |
+| The Income Tax (Sub-contractors in the Construction Industry) (Amendment) Regulations 1999 | [1999/825](https://www.legislation.gov.uk/uksi/1999/825) | The whole instrument. |
+| The Income Tax (Sub-contractors in the Construction Industry) (Amendment No. 2) Regulations 1999 | [1999/2159](https://www.legislation.gov.uk/uksi/1999/2159) | The whole instrument. |
+| The Income Tax (Sub-contractors in the Construction Industry) (Amendment) Regulations 2000 | [2000/1151](https://www.legislation.gov.uk/uksi/2000/1151) | The whole instrument. |
+| The Income Tax (Sub-contractors in the Construction Industry) (Amendment No. 2) Regulations 2000 | [2000/1880](https://www.legislation.gov.uk/uksi/2000/1880) | The whole instrument. |
+| The Income Tax (Sub-contractors in the Construction Industry and Employments) (Amendment) Regulations 2000 | [2000/2742](https://www.legislation.gov.uk/uksi/2000/2742) | The whole instrument to the extent not already revoked[^f00043]. |
+| The Income Tax (Sub-contractors in the Construction Industry) (Amendment) Regulations 2001 | [2001/1531](https://www.legislation.gov.uk/uksi/2001/1531) | The whole instrument. |
+| The Income Tax (Sub-contractors in the Construction Industry) (Amendment) Regulations 2002 | [2002/2225](https://www.legislation.gov.uk/uksi/2002/2225) | The whole instrument. |
+| The Income Tax (Sub-contractors in the Construction Industry and Employments) (Amendment) Regulations 2003 | [2003/536](https://www.legislation.gov.uk/uksi/2003/536) | The whole instrument to the extent not already revoked[^f00044]. |
+| The Income Tax (Sub-contractors in the Construction Industry) (Amendment) Regulations 2004 | [2004/1075](https://www.legislation.gov.uk/uksi/2004/1075) | The whole instrument. |
+
+(This note is not part of the Regulations)
+
+These Regulations make provisions in relation to the construction industry scheme established by Chapter 3 of the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) (“the Act”).
+
+Part 1 (introduction) contains regulations 1 and 2, this is introductory and provides the definition of terms the regulations use.
+
+Part 2 (contractors) contains regulation 3 to 6 which deal with contractors. This Part makes provisions for multiple contractor elections whereby a contractor may elect to be treated as a different contractor in relation to different groups of sub-contractors. Provision is also made requiring a contractor to make a monthly return in relation to all payments made to sub-contractors in that month, the appointment of a scheme representative to act on a contractor’s behalf, and the verification by a contractor of a sub-contractor’s registration status to determine whether to make payments gross or net.
+
+Part 3 (payment and recovery of amounts deducted under section 61) contains regulations 7 to 17. These make provisions in relation to payments by contractors of amounts deducted from contract payments on account of tax in accordance with section 61 of the Act, provisions in relation to and recovery of unpaid amounts, repayment of over-payments and interest on amounts overdue and amounts overpaid.
+
+Part 4 (payments excepted from section 60) contains regulations 18 to 24 which make provisions excepting certain payments from the definition of contract payment within section 60 of the Act. The exceptions are for small payments, payments in relation to work carried out on land owned by the person to whom the payment is made, reverse premiums, payments made as agent of a local education authority, payments made in respect of property used for the purposes of the business of the person making the payment, payments made by charities and by public bodies under private finance transactions.
+
+Part 5 (registration of sub-contractors) contains regulations 25 and 26 which make provisions in relation to the registration of sub-contractors for gross payment or for payment under deduction, and for the cancellation of such registration.
+
+Part 6 (conditions to be satisfied for gross payment) contains regulations 27 to 37, these set out the conditions to be satisfied in order for a sub-contractor to be registered for gross payment. Provisions are made in respect of the business test, the turnover test and the compliance test.
+
+Part 7 (electronic communications) contains regulations 38 to 49. These deal with the delivery of information and making payments by electronic means.
+
+Part 8 (supplementary provisions) contains regulations 50 to 60. These make provisions for the delegation of functions by the Commissioners for Her Majesty’s Revenue and Customs, inspection of a contractor’s or sub-contractor’s records, information as to the change of control of a close company, death of a contractor, service of notices by post, application of sums deducted under section 61 of the Act in the discharge of liabilities of the sub-contractor, certificates of sums due, payments by cheque, appeals and saving and revocation of regulations.
+
+Schedule 1 contains general savings in relation to continuity of the law and specific savings in relation to interest on unpaid or overpaid amounts in respect of a tax year ending on or before 5th April 1992, in respect of a tax year ending on or before 5th April 1993 respectively.
+
+## Annotations
+
+[^f00001]: Footnote: The functions of the Commissioners of Inland Revenue were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5(2) of the [Commissioners for Revenue and Customs Act 2005 (c.)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50(1) of that Act provides that a reference to the Commissioners of Inland Revenue shall be taken as a reference to the Commissioners for Her Majesty’s Revenue and Customs.
+
+[^f00002]: Footnote: [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14).
+
+[^f00003]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
+
+[^f00004]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9). Section 98A was inserted by section 165 of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26) and amended by section 722 of and paragraphs 123 and 138 of Schedule 6 to the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1) and paragraph 8 of Schedule 12 to the Finance Act 2004.
+
+[^key-7cdf2a41522c279a544e3f9f253febd9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-418396a1f90665280be0f3cc17b44c87]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/2045/regulation/2) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^M_F_a7e88a3d-69f6-4824-9ce8-d59e9aad075e]: Textual amendment: Words in reg. 2 inserted (6.4.2008) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2008 (S.I. 2008/740)](https://www.legislation.gov.uk/uksi/2008/740), [regs. 1](https://www.legislation.gov.uk/uksi/2008/740/regulation/1), [3](https://www.legislation.gov.uk/uksi/2008/740/regulation/3)
+
+[^f00005]: Footnote: [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16).
+
+[^f00006]: Footnote: S.I. [2003/2682](https://www.legislation.gov.uk/uksi/2003/2682).
+
+[^f00007]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). The Income Tax (Earnings and Pensions) Act 2003 is referred to in these footnotes as “ITEPA”.
+
+[^key-3b22249dfaa3098e7360a923e86aecae]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/2045/regulation/2) substituted (6.4.2012) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2012 (S.I. 2012/820)](https://www.legislation.gov.uk/uksi/2012/820), [regs. 1](https://www.legislation.gov.uk/uksi/2012/820/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/820/regulation/3)
+
+[^key-da5f1a8a7578ff2f02b7ae66ba6158a1]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/2045/regulation/2) entry omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 138(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/138/2)
+
+[^f00008]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
+
+[^key-c7a399d1a686e1f554b9b6213ca38ebf]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/2045/regulation/2) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 138(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/138/3)
+
+[^key-45c62fc56b5c377895c47c5d5a0fdc1d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/2045/regulation/3) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-5d09dfd40204d07636d5b161b6cacdc4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/2045/regulation/4) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^f00009]: Footnote: Section 98A was inserted by section 165 of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26) and amended by sections 722 and 723 of, and paragraphs 123 and 138 of Schedule 6 and Schedule 7 to, ITEPA and prospectively amended by sections 76 and 77 of and paragraph 8 of Schedule 12 to, the Finance Act 2004.
+
+[^key-5afb0a356227e36a90a2dd94b5e0b668]: Textual amendment: Words in [reg. 4(13)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/4/13) inserted (6.10.2011) by [The Finance (No. 3) Act 2010, Schedule 10 and the Finance Act 2009, Schedule 55 and Sections 101 to 103 (Appointed Day, etc) (Construction Industry Scheme) Order 2011 (S.I. 2011/2391)](https://www.legislation.gov.uk/uksi/2011/2391), [art. 3(3)](https://www.legislation.gov.uk/uksi/2011/2391/article/3/3)
+
+[^key-f7d45114df2ce4509b67d8ba3587f1b7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/2045/regulation/5) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-48af2a0b98fd2337527eaed1726db5b1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/2045/regulation/6) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^f00010]: Footnote: S.I. [1993/743](https://www.legislation.gov.uk/uksi/1993/743). Regulation 40A was inserted by the Income Tax (Sub-contractors in the Construction Industry) (Amendment) Regulations 1998 ([1998/2622](https://www.legislation.gov.uk/uksi/1998/2622)) and amended by regulation 8 of the Income Tax (Sub-contractors in the Construction Industry) (Amendment) Regulations 2001 ([2001/1531](https://www.legislation.gov.uk/uksi/2001/1531)).
+
+[^key-f0ee44014434266606474e8338da5bbb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/2045/regulation/7) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^M_F_ddb08a12-624e-4a3d-8963-e3bb66638b4b]: Textual amendment: Words in reg. 7(3)(b) substituted (6.4.2008) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2008 (S.I. 2008/740)](https://www.legislation.gov.uk/uksi/2008/740), [regs. 1](https://www.legislation.gov.uk/uksi/2008/740/regulation/1), [4](https://www.legislation.gov.uk/uksi/2008/740/regulation/4)
+
+[^f00011]: Footnote: S.I. [2001/1004](https://www.legislation.gov.uk/uksi/2001/1004).
+
+[^key-ae686f4c79548f619b42b7f1889353f2]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2005/2045/regulation/7A) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income Tax (Pay As You Earn) and the Income Tax (Construction Industry Scheme) (Amendment) Regulations 2014 (S.I. 2014/472)](https://www.legislation.gov.uk/uksi/2014/472), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/472/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2014/472/regulation/21)
+
+[^key-050cc015dd4bb3bfba47f784fc493915]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2005/2045/regulation/8) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-a6178fe94fe0f81da9765dee46e0a4bc]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/8/3) inserted (6.4.2012) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2012 (S.I. 2012/820)](https://www.legislation.gov.uk/uksi/2012/820), [regs. 1](https://www.legislation.gov.uk/uksi/2012/820/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2012/820/regulation/4/a)
+
+[^f00012]: Footnote: Paragraph 3B was inserted in Schedule 1 to the Social Security Contributions and Benefits Act [1992 (c. 4)](https://www.legislation.gov.uk/ukpga/1992/4) by section 77(2) of the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), and in Schedule 1 to the Social Security Contributions and Benefits (Northern Ireland) Act [1992 (c. 7)](https://www.legislation.gov.uk/ukpga/1992/7) by section 88(2) of the Child Support, Pensions and Social Security Act 2000.
+
+[^key-e4b992ab658f3159794cfb345b653fbf]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/8/3) substituted (6.4.2012) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2012 (S.I. 2012/820)](https://www.legislation.gov.uk/uksi/2012/820), [regs. 1](https://www.legislation.gov.uk/uksi/2012/820/regulation/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2012/820/regulation/4/b/i)
+
+[^key-f3cb16fd00fa033c82cbf24f935e3e1d]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/8/3) substituted (6.4.2012) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2012 (S.I. 2012/820)](https://www.legislation.gov.uk/uksi/2012/820), [regs. 1](https://www.legislation.gov.uk/uksi/2012/820/regulation/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2012/820/regulation/4/b/ii)
+
+[^key-ce55e0cf87e52b4581fd244361b4d5ee]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/8/3) substituted (14.11.2010) by [The Income Tax (Construction Industry Scheme) (Amendment No. 2) Regulations 2010 (S.I. 2010/2495)](https://www.legislation.gov.uk/uksi/2010/2495), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2495/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/2495/regulation/3)
+
+[^f00013]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^f00014]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
+
+[^M_F_fc1f3893-7e1a-4131-8104-f6513dd7c5c3]: Textual amendment: Words in reg. 8(4) omitted (6.4.2008) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2008 (S.I. 2008/740)](https://www.legislation.gov.uk/uksi/2008/740), [regs. 1](https://www.legislation.gov.uk/uksi/2008/740/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/740/regulation/5)
+
+[^key-b5951ae6478f5d8f213e12bcbb5e5ef4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2005/2045/regulation/9) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^f00018]: Footnote: [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36).
+
+[^key-b134935b5156c6b568a696e6dd133b8c]: Textual amendment: Words in [reg. 9(9)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/9/9) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 139(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/139/2)
+
+[^key-1240d01fec2908f570a4ee9abbc0432f]: Textual amendment: Words in [reg. 9(9)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/9/9) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 139(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/139/3)
+
+[^key-9ad69add34088343dd583e1f6daf87ac]: Textual amendment: Words in [reg. 9(9)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/9/9) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 139(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/139/4)
+
+[^key-89a1b049215410641efdc99626b60b98]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/2045/regulation/10) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-2a18c38607be118aa8b062ee2db40a82]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/10/1) substituted (26.3.2007) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2007 (S.I. 2007/672)](https://www.legislation.gov.uk/uksi/2007/672), [regs. 1](https://www.legislation.gov.uk/uksi/2007/672/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/672/regulation/3/2)
+
+[^key-79d074658e77a09d6c9dd5d318fbd16f]: Textual amendment: [Reg. 10(3A)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/10/3A) inserted (26.3.2007) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2007 (S.I. 2007/672)](https://www.legislation.gov.uk/uksi/2007/672), [regs. 1](https://www.legislation.gov.uk/uksi/2007/672/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/672/regulation/3/3)
+
+[^key-ebc21de0e553e4df83c2d9510ae23fa9]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/10/4) inserted (26.3.2007) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2007 (S.I. 2007/672)](https://www.legislation.gov.uk/uksi/2007/672), [regs. 1](https://www.legislation.gov.uk/uksi/2007/672/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2007/672/regulation/3/4)
+
+[^key-f378868f2d895ec5259bea7ba448fcbe]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/10/5) substituted (26.3.2007) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2007 (S.I. 2007/672)](https://www.legislation.gov.uk/uksi/2007/672), [regs. 1](https://www.legislation.gov.uk/uksi/2007/672/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2007/672/regulation/3/5)
+
+[^key-e1428c845a97f0237d42f6a153d8d5b0]: Textual amendment: Words in [reg. 10(6)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/10/6) inserted (26.3.2007) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2007 (S.I. 2007/672)](https://www.legislation.gov.uk/uksi/2007/672), [regs. 1](https://www.legislation.gov.uk/uksi/2007/672/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2007/672/regulation/3/6)
+
+[^key-d1fc6983147fe5b1db006aab458a33c6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2005/2045/regulation/11) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^M_F_3b1f57f9-a681-44e4-bf6f-b69de0f90f02]: Textual amendment: Words in reg. 11(4) inserted (6.4.2008) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2008 (S.I. 2008/740)](https://www.legislation.gov.uk/uksi/2008/740), [regs. 1](https://www.legislation.gov.uk/uksi/2008/740/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2008/740/regulation/6/2/a)
+
+[^M_F_1101bb71-0a6a-4ca3-d9d2-f9260ae9bb46]: Textual amendment: Words in reg. 11(4)(a) inserted (6.4.2008) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2008 (S.I. 2008/740)](https://www.legislation.gov.uk/uksi/2008/740), [regs. 1](https://www.legislation.gov.uk/uksi/2008/740/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2008/740/regulation/6/2/b)
+
+[^M_F_e06fecfe-1899-4369-ce1e-abac6b60dad3]: Textual amendment: Words in [reg. 11(4)(b)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/11/4/b) substituted (6.4.2008) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2008 (S.I. 2008/740)](https://www.legislation.gov.uk/uksi/2008/740), [regs. 1](https://www.legislation.gov.uk/uksi/2008/740/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2008/740/regulation/6/2/c)
+
+[^M_F_73fe429a-d025-414e-e98c-c4d5cf556282]: Textual amendment: Reg. 11(6)(a) substituted (6.4.2008) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2008 (S.I. 2008/740)](https://www.legislation.gov.uk/uksi/2008/740), [regs. 1](https://www.legislation.gov.uk/uksi/2008/740/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2008/740/regulation/6/3)
+
+[^M_F_d5c4df87-10b6-4150-f495-ca5adf3400d6]: Textual amendment: Words in reg. 11(8)(a) inserted (6.4.2008) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2008 (S.I. 2008/740)](https://www.legislation.gov.uk/uksi/2008/740), [regs. 1](https://www.legislation.gov.uk/uksi/2008/740/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2008/740/regulation/6/4)
+
+[^M_F_b2617261-2ea8-48fa-e148-f13842bf5ec7]: Textual amendment: Words in reg. 11(10) inserted (6.4.2008) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2008 (S.I. 2008/740)](https://www.legislation.gov.uk/uksi/2008/740), [regs. 1](https://www.legislation.gov.uk/uksi/2008/740/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2008/740/regulation/6/6)
+
+[^M_F_acde1a7f-3ee8-4c91-cebe-c7bf74d06963]: Textual amendment: Words in reg. 11(11) inserted (6.4.2008) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2008 (S.I. 2008/740)](https://www.legislation.gov.uk/uksi/2008/740), [regs. 1](https://www.legislation.gov.uk/uksi/2008/740/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2008/740/regulation/6/5)
+
+[^key-5dbb3df4e171f92d903b39ff4191e592]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2005/2045/regulation/12) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-91b9c911d2a2096d9fc134da6c78d76b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2005/2045/regulation/13) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-2066333a82b450675fb42d81519bd658]: Textual amendment: Word in [reg. 13(5)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/13/5) inserted (in relation to the tax year 2010-11 and subsequent tax years) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2010 (S.I. 2010/717)](https://www.legislation.gov.uk/uksi/2010/717), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2010/717/regulation/1/1/3), [3](https://www.legislation.gov.uk/uksi/2010/717/regulation/3)
+
+[^key-db8bbf06c444ebc94704c2c9cc5077e9]: Textual amendment: Word in [reg. 13(6)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/13/6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 140(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/140/2)
+
+[^key-24dc6eacbbc9626c382e00506f1d4754]: Textual amendment: [Reg. 13(7)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/13/7) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 140(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/140/3)
+
+[^key-5996f66499b6027212bac14fa8619b95]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2005/2045/regulation/14) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Finance Act 2009, Sections 101 and 102 (Interest on Late Payments and Repayments), Appointed Days and Consequential Provisions Order 2014 (S.I. 2014/992)](https://www.legislation.gov.uk/uksi/2014/992), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/992/article/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2014/992/article/11/a)
+
+[^key-3b90d0b3854d128222028cfcf34bf96a]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2005/2045/regulation/15) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Finance Act 2009, Sections 101 and 102 (Interest on Late Payments and Repayments), Appointed Days and Consequential Provisions Order 2014 (S.I. 2014/992)](https://www.legislation.gov.uk/uksi/2014/992), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/992/article/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2014/992/article/11/b)
+
+[^key-735635c6604d5538d44d84467c7d4b7c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2005/2045/regulation/16) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^M_F_1a085bc7-f0be-40f8-8342-e041667f7732]: Textual amendment: Words in reg. 16(2) inserted (6.4.2008) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2008 (S.I. 2008/740)](https://www.legislation.gov.uk/uksi/2008/740), [regs. 1](https://www.legislation.gov.uk/uksi/2008/740/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2008/740/regulation/7/2)
+
+[^M_F_e88ece99-a4c9-449c-c081-f6e7e13afb53]: Textual amendment: Words in reg. 16(3) Table 1 inserted (6.4.2008) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2008 (S.I. 2008/740)](https://www.legislation.gov.uk/uksi/2008/740), [regs. 1](https://www.legislation.gov.uk/uksi/2008/740/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2008/740/regulation/7/3)
+
+[^M_F_4b31f5f6-b2cc-4bf0-96a9-e3e98c4cf1fb]: Textual amendment: Words in reg. 16(4) inserted (6.4.2008) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2008 (S.I. 2008/740)](https://www.legislation.gov.uk/uksi/2008/740), [regs. 1](https://www.legislation.gov.uk/uksi/2008/740/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2008/740/regulation/7/4)
+
+[^M_F_5ea23d94-28d1-45dc-a42c-f49811034c11]: Textual amendment: Words in reg. 16(5) inserted (6.4.2008) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2008 (S.I. 2008/740)](https://www.legislation.gov.uk/uksi/2008/740), [regs. 1](https://www.legislation.gov.uk/uksi/2008/740/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2008/740/regulation/7/5)
+
+[^f00023]: Footnote: Section 65 was amended by section 57(1) of the Finance Act [1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43) and paragraph 30 of Schedule 19 to the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36); section 66 was amended by section 57(2) of the Finance Act 1984, section 89(1) of the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), S.I. [1980/397 (N.I. 3)](https://www.legislation.gov.uk/nisi/1980/397) and S.I. [1991/724](https://www.legislation.gov.uk/uksi/1991/724); section 67 was amended by section 58 of the Finance Act [1976 (c. 40)](https://www.legislation.gov.uk/ukpga/1976/40), section 156 of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4) and section 89(1) of the Finance Act 2001.
+
+[^key-ea8638c39c5e8ac23384c3ea3d642fdb]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2005/2045/regulation/17) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^f00024]: Footnote: S.I. [1993/743](https://www.legislation.gov.uk/uksi/1993/743). Regulation 7 was amended by regulation 7 of S.I. [1998/2622](https://www.legislation.gov.uk/uksi/1998/2622).
+
+[^f00025]: Footnote: Section 257 and 257A were substituted by section 33 of the Finance Act 1988. Section 257 was amended by section 33(4)(a) and (5)(b) of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), paragraph 13 of Schedule 20 and Schedule 41 Part V(10) to the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), section 29(1) of the Finance Act [2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), article 2(1) of S.I. [2001/3773](https://www.legislation.gov.uk/uksi/2001/3773) and article 2(2) of S.I. [2002/2930](https://www.legislation.gov.uk/uksi/2002/2930). Section 257A was amended by section 33(8) (a) and (9)(b) of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), paragraph 14 of Schedule 20 to the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), section 77 (2) and (7) of the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), section 30(7) and (11), section 31 and Schedule 20 Part III(3) of the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), section 60 and Schedule 6 of the Tax Credit Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21) and article 2(3) of S.I. [2002/2930](https://www.legislation.gov.uk/uksi/2002/2930).
+
+[^f00026]: Footnote: Section 57B was inserted by sections 193 and 199(1) and (2)(a) of the Finance Act 1994 and modified by paragraph 31(1) and (3) of Schedule 21 to the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4).
+
+[^key-59cc224b36a96420d82c128b6726fef8]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2005/2045/regulation/18) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-a576eeb6e242bb79ce056e8b0f767900]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2005/2045/regulation/19) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-efbd7ff0bc990699b8ecf55abde88b5d]: Textual amendment: Word in [reg. 19(2)(a)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/19/2/a) inserted (26.3.2007) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2007 (S.I. 2007/672)](https://www.legislation.gov.uk/uksi/2007/672), [regs. 1](https://www.legislation.gov.uk/uksi/2007/672/regulation/1), [4](https://www.legislation.gov.uk/uksi/2007/672/regulation/4)
+
+[^key-42834a2d6c1faeec4c5aedd54df24eb6]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2005/2045/regulation/20) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^f00027]: Footnote: [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16).
+
+[^key-c8097779192a9aadce83542108a1f752]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/20/1) inserted (26.3.2007) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2007 (S.I. 2007/672)](https://www.legislation.gov.uk/uksi/2007/672), [regs. 1](https://www.legislation.gov.uk/uksi/2007/672/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2007/672/regulation/5/2)
+
+[^key-d2f93c5fbd7a173d0ac2ebbeb5e295cc]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/20/2) substituted (26.3.2007) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2007 (S.I. 2007/672)](https://www.legislation.gov.uk/uksi/2007/672), [regs. 1](https://www.legislation.gov.uk/uksi/2007/672/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2007/672/regulation/5/3)
+
+[^key-559d975e6c8070ed2bf91445bd341ba3]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2005/2045/regulation/21) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-f5507bc22d9e83e6f4ddcde8797ed855]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2005/2045/regulation/21) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 59](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/59)
+
+[^key-af8e41bf3679dc2fc923c4ecdb6f2945]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2005/2045/regulation/22) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-b356419a10ede22c7ce23638aecf33ab]: Textual amendment: Words in [reg. 22(2)(a)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/22/2/a) inserted (26.3.2007) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2007 (S.I. 2007/672)](https://www.legislation.gov.uk/uksi/2007/672), [regs. 1](https://www.legislation.gov.uk/uksi/2007/672/regulation/1), [6](https://www.legislation.gov.uk/uksi/2007/672/regulation/6)
+
+[^key-4a3b7b8ffaec460379b4ba7e92ce2cb8]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2005/2045/regulation/23) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-cc57804f3becd1cfa2f390c16f89792f]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2005/2045/regulation/24) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-320c069c9804b288fb8a31ac7c7a7796]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2005/2045/regulation/25) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-728cd3b2820a157967525c9e5f534810]: Textual amendment: [Reg. 25(6)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/25/6) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 141](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/141)
+
+[^key-bf3b945fcb778dbf521100fa705f31c4]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2005/2045/regulation/26) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-cf35735bb93ef9e2d0a3e34349603032]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2005/2045/regulation/27) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-71221679f6568f5d8bd84a6c88a01352]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2005/2045/regulation/28) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-69dfc52d01bc7d45630d336b0627348a]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2005/2045/regulation/29) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-b4bae2638dff99b52a1d4ddb88933eda]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2005/2045/regulation/30) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-01d040b88fbcf2d111332021a4594e0f]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2005/2045/regulation/31) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-7ea7fb748dfb7649fac0d5686499d4bd]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2005/2045/regulation/32) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-57ea05892a67a9494972e5d09a046304]: Textual amendment: Words in [reg. 32(2)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/32/2) Table 3 omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2013 (S.I. 2013/620)](https://www.legislation.gov.uk/uksi/2013/620), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/620/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2013/620/regulation/3/a)
+
+[^key-80eb416bd9c20fdf0fef3ad2fbb650b8]: Textual amendment: Words in [reg. 32(2)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/32/2) Table 3 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2013 (S.I. 2013/620)](https://www.legislation.gov.uk/uksi/2013/620), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/620/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2013/620/regulation/3/b)
+
+[^key-578315fbf02c4e7092db31c848258564]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/2005/2045/regulation/32) Table 3 inserted (3.6.2008) by [The Income Tax (Construction Industry Scheme) (Amendment No. 2) Regulations 2008 (S.I. 2008/1282)](https://www.legislation.gov.uk/uksi/2008/1282), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1282/regulation/1), [2](https://www.legislation.gov.uk/uksi/2008/1282/regulation/2)
+
+[^key-7845edd89cc731e62373e1c0639ac4d1]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2005/2045/regulation/33) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-dd6bb3b482f74e232b985be217def949]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2005/2045/regulation/34) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-55ea7d3f45ac8f1145046d621426bb78]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2005/2045/regulation/35) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-a710183b1e2c16a9329107744569de44]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2005/2045/regulation/36) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-95acf9860ecccecb5cef20e0f7e0d97a]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2005/2045/regulation/37) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-1a7ac206b9c3b9b064773d90c3b96fd2]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2005/2045/regulation/38) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-caae7812bccfacc416134159f6c671af]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/uksi/2005/2045/regulation/38) omitted (in relation to the tax year 2010-11 and subsequent tax years) by virtue of [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2010 (S.I. 2010/717)](https://www.legislation.gov.uk/uksi/2010/717), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/717/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2010/717/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2010/717/regulation/4)
+
+[^key-9bbdc705266b9da0bce9eaad466b56c0]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2005/2045/regulation/39) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-7d2e7dc41c41549ff8c47ce3ce159855]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2005/2045/regulation/40) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-45f688787cf6500dfc8f79eef28638ff]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2005/2045/regulation/41) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-29c3d9e955701e47c668e137f7840c62]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2005/2045/regulation/42) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-4af76b9ee7d6608caf95f59b3983694a]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2005/2045/regulation/43) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-56fa348eb02caab96c875b98c87cd410]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2005/2045/regulation/44) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-3ed6a18f248a30f59770c093f93712ea]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2005/2045/regulation/45) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-9da5e24ba52e9f9254bf4314b0459c74]: Textual amendment: [Reg. 45(1)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/45/1) substituted (in relation to the tax year 2010-11 and subsequent tax years) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2010 (S.I. 2010/717)](https://www.legislation.gov.uk/uksi/2010/717), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/717/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2010/717/regulation/1/3), [5(a)](https://www.legislation.gov.uk/uksi/2010/717/regulation/5/a)
+
+[^key-888b6ef17f0f07d6b01f1b3e1605a134]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/45/1) substituted (in relation to the tax year 2011-12 and subsequent tax years) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2010 (S.I. 2010/717)](https://www.legislation.gov.uk/uksi/2010/717), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/717/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2010/717/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2010/717/regulation/5/b)
+
+[^key-9de1cbe096c43e6513fe2c996c88197e]: Textual amendment: Words in [reg. 45(2)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/45/2) inserted (6.4.2012) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2012 (S.I. 2012/820)](https://www.legislation.gov.uk/uksi/2012/820), [regs. 1](https://www.legislation.gov.uk/uksi/2012/820/regulation/1), [6](https://www.legislation.gov.uk/uksi/2012/820/regulation/6)
+
+[^key-9e26a34aeaeaaf3fd6c6c248f6f75e23]: Textual amendment: [Reg. 45(4)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/45/4) inserted (in relation to the tax year 2010-11 and subsequent tax years) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2010 (S.I. 2010/717)](https://www.legislation.gov.uk/uksi/2010/717), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/717/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2010/717/regulation/1/3), [5(c)](https://www.legislation.gov.uk/uksi/2010/717/regulation/5/c)
+
+[^key-50608ae0008b4a244f9bd6924787d0bc]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/2005/2045/regulation/46) omitted (in relation to the tax year 2010-11 and subsequent tax years) by virtue of [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2010 (S.I. 2010/717)](https://www.legislation.gov.uk/uksi/2010/717), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/717/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2010/717/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2010/717/regulation/6)
+
+[^key-c67a63a6666d3af10b761c1adf6cd701]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/uksi/2005/2045/regulation/47) omitted (in relation to the tax year 2010-11 and subsequent tax years) by virtue of [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2010 (S.I. 2010/717)](https://www.legislation.gov.uk/uksi/2010/717), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/717/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2010/717/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2010/717/regulation/6)
+
+[^key-5ec36f4068e002958b7bff5382731d66]: Textual amendment: [Reg. 48](https://www.legislation.gov.uk/uksi/2005/2045/regulation/48) omitted (6.4.2010) by virtue of [The Finance Act 2009, Schedule 56 (Appointed Day and Consequential Provisions) Order 2010 (S.I. 2010/466)](https://www.legislation.gov.uk/uksi/2010/466), [arts. 1](https://www.legislation.gov.uk/uksi/2010/466/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/466/article/4/2) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2010/466/article/4/3))
+
+[^key-1b2da31bb799147ece95bcb5a3edd62b]: Textual amendment: [Reg. 49](https://www.legislation.gov.uk/uksi/2005/2045/regulation/49) omitted (6.4.2010) by virtue of [The Finance Act 2009, Schedule 56 (Appointed Day and Consequential Provisions) Order 2010 (S.I. 2010/466)](https://www.legislation.gov.uk/uksi/2010/466), [arts. 1](https://www.legislation.gov.uk/uksi/2010/466/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/466/article/4/2) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2010/466/article/4/3))
+
+[^key-4ca1a7bac1901472b4740e80a7d97011]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2005/2045/regulation/50) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-c6499a68953bbdfb4c40068ff4eec166]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2005/2045/regulation/51) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-ef6dbac07c384fba058c5f0e51abbfdb]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2005/2045/regulation/52) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-31f048b5777a911a584d57b36f101295]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2005/2045/regulation/53) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-81af4276eae179f0fbbb126ddfb39b84]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2005/2045/regulation/54) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-cba386ecdc0584698813e5e8ab957251]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2005/2045/regulation/55) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-a0a949f06f001096f20d3ba281ad1519]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2005/2045/regulation/56) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^f00032]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30). Regulations made under section 22(5) of the Teaching and Higher Education Act 1998 and section 73B(3) of the Education (Scotland) Act 1980 are the Education (Student Loans) (Repayment) Regulations 2000 (S.I. [2000/944](https://www.legislation.gov.uk/uksi/2000/944)).
+
+[^f00033]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44). Section 73B was inserted by section 29(2) of the Teaching and Higher Education Act 1998.
+
+[^f00034]: Footnote: S.I. [1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760). Relevant instruments under this Order are [S.R. 1999 Nos. 192](https://www.legislation.gov.uk/nisr/1999/192) and [370](https://www.legislation.gov.uk/nisr/1999/370).
+
+[^key-33c3f7cac90309cddc1b0d535e27a11f]: Textual amendment: Words in [reg. 56(2)(e)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/56/2/e) substituted (14.11.2010) by [The Income Tax (Construction Industry Scheme) (Amendment No. 2) Regulations 2010 (S.I. 2010/2495)](https://www.legislation.gov.uk/uksi/2010/2495), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2495/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2010/2495/regulation/4/a)
+
+[^key-bb51e97c2a1e8d5d9a7d77a771049006]: Textual amendment: [Reg. 56(2A)-(2E)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/56/2A) inserted (6.4.2012) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2012 (S.I. 2012/820)](https://www.legislation.gov.uk/uksi/2012/820), [regs. 1](https://www.legislation.gov.uk/uksi/2012/820/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2012/820/regulation/7/a)
+
+[^key-1dabff9e09820c95a0ace66807da15fd]: Textual amendment: [Reg. 56(4)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/56/4) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Finance Act 2009, Sections 101 and 102 (Interest on Late Payments and Repayments), Appointed Days and Consequential Provisions Order 2014 (S.I. 2014/992)](https://www.legislation.gov.uk/uksi/2014/992), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/992/article/1/1), [11(c)](https://www.legislation.gov.uk/uksi/2014/992/article/11/c)
+
+[^key-97c98907be8c2926cec6847f408e3ba4]: Textual amendment: Word in [reg. 56(5)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/56/5) substituted (6.4.2012) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2012 (S.I. 2012/820)](https://www.legislation.gov.uk/uksi/2012/820), [regs. 1](https://www.legislation.gov.uk/uksi/2012/820/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2012/820/regulation/7/b)
+
+[^key-f572ecb1c1f9b831b2a558b490ddc8b2]: Textual amendment: [Reg. 56(5)(b)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/56/5/b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2013 (S.I. 2013/620)](https://www.legislation.gov.uk/uksi/2013/620), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/620/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2013/620/regulation/4)
+
+[^key-6a40ab64ea601bb67c7d14499a24d77b]: Textual amendment: Words in [reg. 56(7)(a)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/56/7/a) substituted (14.11.2010) by [The Income Tax (Construction Industry Scheme) (Amendment No. 2) Regulations 2010 (S.I. 2010/2495)](https://www.legislation.gov.uk/uksi/2010/2495), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2495/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2010/2495/regulation/4/b)
+
+[^f00035]: Footnote: S.I. [2002/2820](https://www.legislation.gov.uk/uksi/2002/2820).
+
+[^f00036]: Footnote: [S.R. 2002 No. 379](https://www.legislation.gov.uk/nisr/2002/379).
+
+[^key-a94ea69411cdbce338bbbb6f36624e19]: Textual amendment: [Reg. 56(7)(aa)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/56/7/aa) inserted (14.11.2010) by [The Income Tax (Construction Industry Scheme) (Amendment No. 2) Regulations 2010 (S.I. 2010/2495)](https://www.legislation.gov.uk/uksi/2010/2495), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2495/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2010/2495/regulation/4/c)
+
+[^f00037]: Footnote: S.I. [1994/1882](https://www.legislation.gov.uk/uksi/1994/1882). The relevant amending instruments are S.I. [1195/566](https://www.legislation.gov.uk/uksi/1195/566), [2002/225](https://www.legislation.gov.uk/uksi/2002/225) and [2004/698](https://www.legislation.gov.uk/uksi/2004/698).
+
+[^f00038]: Footnote: [S.R. 1994 No. 271](https://www.legislation.gov.uk/nisr/1994/271). The relevant amending instruments are [S.R. 1995 No. 74](https://www.legislation.gov.uk/nisr/1995/74), S.I. [2002/225](https://www.legislation.gov.uk/uksi/2002/225) and [2004/698](https://www.legislation.gov.uk/uksi/2004/698).
+
+[^key-571e33cd2f7248ffae4285fa658e3aa1]: Textual amendment: [Reg. 56(8)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/56/8) inserted (6.4.2012) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2012 (S.I. 2012/820)](https://www.legislation.gov.uk/uksi/2012/820), [regs. 1](https://www.legislation.gov.uk/uksi/2012/820/regulation/1), [7(d)](https://www.legislation.gov.uk/uksi/2012/820/regulation/7/d)
+
+[^key-32aad43e9d513aee56071be6bedac6d5]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2005/2045/regulation/57) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^M_F_8545b27a-1536-4426-f097-7433b9e4b361]: Textual amendment: Reg. 57(2A) inserted (6.4.2008) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2008 (S.I. 2008/740)](https://www.legislation.gov.uk/uksi/2008/740), [regs. 1](https://www.legislation.gov.uk/uksi/2008/740/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2008/740/regulation/8/2)
+
+[^M_F_820c27fc-3d70-438d-af08-6b8327f5dc65]: Textual amendment: Word in reg. 57(3) omitted (6.4.2008) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2008 (S.I. 2008/740)](https://www.legislation.gov.uk/uksi/2008/740), [regs. 1](https://www.legislation.gov.uk/uksi/2008/740/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2008/740/regulation/8/3)
+
+[^M_F_954107ca-6985-4c1a-b59d-79d619af1660]: Textual amendment: Reg. 57(3A) inserted (6.4.2008) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2008 (S.I. 2008/740)](https://www.legislation.gov.uk/uksi/2008/740), [regs. 1](https://www.legislation.gov.uk/uksi/2008/740/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2008/740/regulation/8/4)
+
+[^M_F_e53a5b41-465f-4714-bd22-70863c02e520]: Textual amendment: Words in reg. 57(5) substituted (6.4.2008) by [The Income Tax (Construction Industry Scheme) (Amendment) Regulations 2008 (S.I. 2008/740)](https://www.legislation.gov.uk/uksi/2008/740), [regs. 1](https://www.legislation.gov.uk/uksi/2008/740/regulation/1), [8(5)](https://www.legislation.gov.uk/uksi/2008/740/regulation/8/5)
+
+[^key-8933f2a71c2fdaae4b48cd0fa6f995fd]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2005/2045/regulation/58) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-abc06afc78d80a4f7df1225bb2f39c1f]: Textual amendment: Words in [reg. 58(2)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/58/2) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Finance Act 2009, Sections 101 and 102 (Interest on Late Payments and Repayments), Appointed Days and Consequential Provisions Order 2014 (S.I. 2014/992)](https://www.legislation.gov.uk/uksi/2014/992), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/992/article/1/1), [11(d)](https://www.legislation.gov.uk/uksi/2014/992/article/11/d)
+
+[^key-f869e420ed6072ac762a4a33f6861783]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2005/2045/regulation/59) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-250562d88354fab6ea16b9f90cbcf1e0]: Textual amendment: [Reg. 59(1)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/59/1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 142(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/142/2)
+
+[^key-1803b6d0cd959a7ffd2cb0ba95e8993a]: Textual amendment: [Reg. 59(2)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/59/2)[(3)](https://www.legislation.gov.uk/uksi/2005/2045/regulation/59/3) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 142(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/142/3)
+
+[^key-5ab96ed7152370c0227ce3e99ab6c48a]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2005/2045/regulation/60) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-e496e35da4164b5ae0415265ca66a514]: Commencement: [Sch. 1 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2005/2045/schedule/1/part/1/paragraph/1) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-b87e9407dbd96fdce82b41df64dc1b9e]: Commencement: [Sch. 1 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2005/2045/schedule/1/part/1/paragraph/2) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-60fd67907ad94269ceff723033187956]: Commencement: [Sch. 1 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2005/2045/schedule/1/paragraph/3) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-731262485298f6efd04bd22f8863b951]: Commencement: [Sch. 1 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2005/2045/schedule/1/paragraph/4) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-c5d93655cbfb2fc1a7b78b49321174b2]: Commencement: [Sch. 1 Pt. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/2045/schedule/1/paragraph/5) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-c3b436d6afa1ebdfcba407fe62a7c669]: Commencement: [Sch. 1 Pt. 1 para. 6](https://www.legislation.gov.uk/uksi/2005/2045/schedule/1/paragraph/6) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-7c50cf47c1192428416f057e1d77d6b1]: Commencement: [Sch. 1 Pt. 1 para. 7](https://www.legislation.gov.uk/uksi/2005/2045/schedule/1/paragraph/7) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-5a4fdcf935697bed270c00d3173ba6d5]: Commencement: [Sch. 1 Pt. 1 para. 8](https://www.legislation.gov.uk/uksi/2005/2045/schedule/1/paragraph/8) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-5f74ad1a5962b6518372aa20d020a1ac]: Commencement: [Sch. 1 Pt. 1 para. 9](https://www.legislation.gov.uk/uksi/2005/2045/schedule/1/paragraph/9) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^f00041]: Footnote: S.I. [1993/743](https://www.legislation.gov.uk/uksi/1993/743), as amended by S.I. [1995/217](https://www.legislation.gov.uk/uksi/1995/217), S.I. [1995/448](https://www.legislation.gov.uk/uksi/1995/448), S.I. [1996/981](https://www.legislation.gov.uk/uksi/1996/981), S.I. [1998/2622](https://www.legislation.gov.uk/uksi/1998/2622), [S.I.1999/825](https://www.legislation.gov.uk/uksi/1999/825), [S.I.1999/2159](https://www.legislation.gov.uk/uksi/1999/2159), [S.I. 200/1151](https://www.legislation.gov.uk/uksi/2000/1151), [S.I.200/1880](https://www.legislation.gov.uk/uksi/2000/1880), [S.I.2000/2742](https://www.legislation.gov.uk/uksi/2000/2742), S.I. [2001/1531](https://www.legislation.gov.uk/uksi/2001/1531), S.I. [2002/2225](https://www.legislation.gov.uk/uksi/2002/2225), [S.I.2003/536](https://www.legislation.gov.uk/uksi/2003/536) and S.I. [2004/1075](https://www.legislation.gov.uk/uksi/2004/1075).
+
+[^key-74bcfbd668da963d4aae89ca7b7a51e0]: Commencement: [Sch. 1 Pt. 1 para. 10](https://www.legislation.gov.uk/uksi/2005/2045/schedule/1/paragraph/10) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-685c13b76d7d415862e5e9a5540451f4]: Commencement: [Sch. 1 Pt. 1 para. 11](https://www.legislation.gov.uk/uksi/2005/2045/schedule/1/paragraph/11) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^f00042]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-3054f8685cbccd85e9b90147c74cb5d4]: Commencement: [Sch. 1 Pt. 1 para. 12](https://www.legislation.gov.uk/uksi/2005/2045/schedule/1/paragraph/12) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-81c694d76c386bb2f937e48daa72db3d]: Commencement: [Sch. 1 Pt. 1 para. 13](https://www.legislation.gov.uk/uksi/2005/2045/schedule/1/paragraph/13) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-470418bb8893c2f6e3fcbf5a879535ff]: Commencement: [Sch. 1 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/2045/schedule/1/part/2/paragraph/1) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-54dd8a9b97ee89870131b0978a3e7ce0]: Commencement: [Sch. 1 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/2045/schedule/1/part/2/paragraph/2) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^key-4c98278b91fdb0f3bda8d126d7f66a8e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2045/schedule/2) in force at 6.4.2007 as notified in the London Gazette (dated 9.3.2007), see [reg. 1](https://www.legislation.gov.uk/uksi/2005/2045/regulation/1)
+
+[^f00043]: Footnote: Regulation 3 of S.I. [2000/2742](https://www.legislation.gov.uk/uksi/2000/2742) was revoked by S.I. [2003/2682](https://www.legislation.gov.uk/uksi/2003/2682).
+
+[^f00044]: Footnote: Regulations 1(2), the definition of “the Employments Regulations”, and 9 of S.I. [2003/536](https://www.legislation.gov.uk/uksi/2003/536) were revoked by S.I. [2003/2682](https://www.legislation.gov.uk/uksi/2003/2682).

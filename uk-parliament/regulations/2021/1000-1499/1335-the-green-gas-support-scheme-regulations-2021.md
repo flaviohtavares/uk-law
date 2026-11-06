@@ -1,0 +1,3117 @@
+---
+title: The Green Gas Support Scheme Regulations 2021
+id: uksi/2021/1335
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2021-11-29'
+text_date: '2025-11-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2021/1335
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/1335/pdfs/uksiem_20211335_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/1335/pdfs/uksi_20211335_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/1335/data.pdf
+pending_changes: 27
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Green Gas Support Scheme Regulations 2021
+
+> **Warning: changes not yet applied to this text (27).** Text as at 2025-11-01. See https://www.legislation.gov.uk/changes/affected/uksi/2021/1335
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2021 No. 1335
+
+Energy
+
+The Green Gas Support Scheme Regulations 2021
+
+Made
+
+29th November 2021
+
+Coming into force
+
+30th November 2021
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 100 and 104(2) of the Energy Act 2008[^f00001].
+
+In accordance with section 105(3)[^f00002] of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+In accordance with section 100(7) of that Act, the Secretary of State has obtained the consent of the Scottish Ministers to the making of these Regulations.
+
+In accordance with section 148A(1)(a) of the Government of Wales Act 2006[^f00003], the Secretary of State has consulted the Welsh Ministers.
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and extent[^key-e4caab8dfc26f9b7e7c88481fd5ad3df]
+
+(1) These Regulations may be cited as the Green Gas Support Scheme Regulations 2021 and come into force on the day after the day on which they are made.
+
+(2) These Regulations extend to England and Wales and Scotland.
+
+### 2. Interpretation[^key-d8e36b8c1ee44ddbcdfa74bda1ddbbdc]
+
+(1) In these Regulations—
+
+- “**acceptable letter of credit**” has the meaning given in regulation 43(3);
+- “additional biomethane[^f00004]” has the meaning given in regulation 8(7)(a);
+- “**additional credit cover**” has the meaning given in regulation 52(1)(c);
+- “[^key-63224700ea0062cfe350c7b21b06109e]**air source heat pump**” means a plant which generates heat using a thermodynamic cycle by transferring energy stored in the form of heat in the ambient air and uses that energy to heat a liquid;
+- “**anaerobic digester**” means a plant which produces biogas[^f00005] by anaerobic digestion;
+- “**anaerobic digestion**” means the bacterial fermentation of biomass[^f00006] in the absence of oxygen;
+- “**applicant**” means a person who makes an application for a tariff guarantee, or an application for registration under regulation 5;
+- “**approved sustainable fuel**” means solid biomass which is listed under a scheme approved by the Secretary of State in accordance with Schedule 2;
+- “**backdated levy payment**” has the meaning given in regulation 49(2);
+- “**central register**” has the meaning given in regulation 6(1);
+- “**certified biomethane**” has the meaning given in regulation 38(15)(c);
+- “**commissioned**”, in relation to equipment used to produce biomethane for injection, means—
+  - (a) the completion of such procedures and tests as constitute, at the time they are undertaken, the usual industry standards and practices for commissioning that type of equipment in order to demonstrate that it is capable of producing biomethane for injection, and
+  - (b) every anaerobic digester which is part of that equipment has produced biogas which has been upgraded to biomethane and injected;
+- “**connected person**”, in relation to an applicant, a participant, or a licensed gas supplier, means any person connected to them within the meaning of section 1122 of the Corporation Tax Act 2010[^f00007];
+- “**consumer prices index**” means—
+  - (a) the consumer prices index calculated and published by the Statistics Board[^f00008], or
+  - (b) where the index is not published for a year, any substituted index or figures published by the Statistics Board;
+- “**credit cover requirement**” has the meaning given in regulation 41;
+- “**current information**” means information which is no more than five working days out of date;
+- “**date of registration**”, in relation to a producer of biomethane, means the first day which falls on or after the date of receipt by the Authority[^f00009] of the application for registration on which the application was, in the Authority’s opinion, properly made;
+- “[^key-a87379b84f8bfd157adcf460b6c4d05e]**de minimis amount**” has the meaning given in regulation 43A(1);
+- “**digestate**” means any substance, except biogas, which is generated from an anaerobic digester;
+- “**eligible biomethane**” has the meaning given in regulation 27(2);
+- “**eligible heat pump**” has the meaning given in regulation 8A(8);
+- “**energy content**” means the energy contained within a substance (whether measured by a calorimeter or determined in some other way) expressed in terms of the substance’s gross calorific value within the meaning of BS 7420:1991 (Guide for the determination of calorific values of solid, liquid and gaseous fuels (including definitions))[^f00010];
+- “**energy crop**” has the meaning given in regulation 12(10)(b);
+- “**enforcement notice**” has the meaning given in regulation 53(1);
+- “**environmental permit**” means a permit issued in accordance with the provisions of the Environmental Permitting (England and Wales) Regulations 2016[^f00011], or the Pollution Prevention and Control (Scotland) Regulations 2012[^f00012];
+- “**equipment used to produce biomethane**” means the equipment integral to the production of biomethane for injection, including any anaerobic digester;
+- “**exempt supplier**” has the meaning given in regulation 38(10)(c)(i);
+- “**existing credit cover**” has the meaning given in regulation 42(6);
+- “[^key-07d36532ae424e9e984953f4930fe1dc]**final quarterly levy payment**” has the meaning given in regulation 51(7)(a);
+- “**financial penalty**” means a financial penalty imposed in accordance with regulation 57;
+- “**financial year**” means a 12 month period beginning with 1st April and ending with the following 31st March;
+- “**gas transporter**” means the holder of a licence granted under section 7 of the Gas Act 1986[^f00013];
+- “**ground source heat pump**” means a plant (which may or may not use a shared ground loop system) which generates heat using a thermodynamic cycle by transferring energy stored in the form of heat from the ground, including water in the ground or surface water or both, and uses that energy to heat a liquid;
+- “**guaranteed tariff**” has the meaning given in regulation 4(9);
+- “**GWh**” means gigawatt hours;
+- “**initial tariff**” means the tiered tariff calculated in accordance with regulation 22;
+- “**injection**” means the introduction of gas into a pipe-line system operated by a gas transporter, and “**injected**” is to be construed accordingly;
+- “[^key-f8d64c42cbdb2a2360e72d15981f83ea]**in lieu amount**” has the meaning given in regulation 51(7C)(b);
+- “**kWh**” means kilowatt hours;
+- “**kWhth**” means kilowatt hours thermal;
+- “**levy credit payment**” has the meaning given in regulation 42(2)(a)(iii);
+- “**levy rate**” has the meaning given in regulation 39(1);
+- “**licensed gas supplier**” means the holder of a licence under section 7A(1) of the Gas Act 1986[^f00014];
+- “**local and national laws**” means laws applying in the locality in which the site is situated, whether made at a local or national level;
+- “**maximum additional capacity**” has the meaning given in regulation 8(7)(b);
+- “**maximum initial capacity**” has the meaning given in regulation 4(17);
+- “**meter point**” means a supply meter point within the meaning given in the Uniform Network Code (as defined in section 36C(7) of the Gas Act 1986)[^f00015];
+- “**meter point data**”, in relation to a scheme supplier, means the number of meter points served by that scheme supplier on any given day;
+- “**meter readings**” has the meaning given in regulation 9(10)(c);
+- “**mutualisation payment**” has the meaning given in regulation 56(5)(b)(i);
+- “**mutualisation process**” has the meaning given in regulation 56(1);
+- “**network entry agreement**” means an agreement between a person who injects biomethane and a gas transporter under which the person who injects biomethane is entitled to inject biomethane into the pipe-line system operated by that gas transporter;
+- “**ongoing participant obligation**” means an obligation specified in Part 3;
+- “**original biomethane**” means biomethane which is produced by a relevant producer (within the meaning given in regulation 17) and which falls within that producer’s maximum initial capacity;
+- “**participant**” means a producer of biomethane who is registered on the central register in relation to the production of biomethane using the equipment used to produce biomethane specified in the register, and references to a “participant” are to that person’s registration as a participant in relation to that equipment used to produce biomethane;
+- “**penalty notice**” has the meaning given in regulation 57(1);
+- “**periodic support payments**” has the meaning given in regulation 18;
+- “**pipe-line system**” has the meaning given in section 5(10) of the Gas Act 1986[^f00016];
+- “**producer of biomethane**” means a producer of biomethane for injection by anaerobic digestion;
+- “properly made”—
+  - (a) in the case of an application for a tariff guarantee made under regulation 4, means an application which provides the information required by regulation 4(4),
+  - (b) in relation to an application for registration made under regulation 5, means an application which provides the information required by or under regulation 5(2), (4) and (5), and
+  - (c) in relation to an application to be registered in respect of additional biomethane made under regulation 8, means an application which provides such of the information referred to in regulation 5(4) and (5) as the Authority may require;
+- “**provisionally exempt supplier**” has the meaning given in regulation 38(6);
+- “**quarter**” means—
+  - (a) the period beginning with 30th November 2021 and ending with 31st December 2021,
+  - (b) the period beginning with 1st January 2022 and ending with 31st March 2022,
+  - (c) a period of three months beginning with 1st January, 1st April, 1st July, or 1st October in any scheme year beginning with or after 1st April 2022;
+- “**quarterly levy payment**” has the meaning given in regulation 40;
+- “**relevant tariff**” means the tariff applicable to the production of biomethane;
+- “**the Scheme**” has the meaning given in regulation 3;
+- “**scheme schedule**” has the meaning given in regulation 63(2);
+- “**scheme supplier**” has the meaning given in regulation 38;
+- “**scheme year**” means—
+  - (a) the period beginning with 30th November 2021 and ending with 31st March 2022 (“the first scheme year”),
+  - (b) the financial year beginning with 1st April in any of the years 2022 to 2042[^key-0e6c0f6a389c17176825969331640cce];
+- “**shared ground loop system**” means a system in which a ground loop provides heat energy through a hydraulic connection to two or more ground source heat pumps;
+- “**subsequent tariff**” means the tiered tariff calculated in accordance with regulation 25;
+- “**tariff**” means the payment rate per kWh in respect of biomethane injection;
+- “**tariff end date**” means the last day of the tariff lifetime;
+- “**tariff guarantee**” means a guarantee granted in accordance with regulation 4(6);
+- “**tariff lifetime**”, in relation to a participant, means the period for which that person is eligible to receive periodic support payments;
+- “tariff start date”—
+  - (a) in relation to original biomethane in respect of which a participant is registered, means the date of registration for that biomethane,
+  - (b) in relation to additional biomethane in respect of which a participant is registered, means the date of registration for that additional biomethane;
+- “**tiered tariff**” means a tariff for which different rates are specified for numbered tiers;
+- “**total mutualisation amount**” has the meaning given in regulation 56(4);
+- “**waste**” has the meaning given in section 75(2) of the Environmental Protection Act 1990[^f00017];
+- “**waste management licence**” means a licence issued in accordance with the Waste Management Licensing (Scotland) Regulations 2011[^f00018];
+- “**working day**” means any day other than—
+  - (a) a Saturday, Sunday, Good Friday, or Christmas Day, or
+  - (b) a day which is a bank holiday in England, Wales or Scotland under section 1 of the Banking and Financial Dealings Act 1971[^f00019].
+
+(2) Except in regulation 4 (application for tariff guarantee and budget allocation) and 28 (reconciliation payments), where these Regulations provide for a figure to be rounded, that figure must be rounded to the nearest hundredth of a penny, with any two hundredth of a penny being rounded upwards.
+
+### 3. The Green Gas Support Scheme[^key-6ed87babf15095d1ba0b391145be3a21]
+
+A scheme to be known as the Green Gas Support Scheme, which is a scheme to facilitate and encourage the production of biomethane for injection by anaerobic digestion (“**the Scheme**”)[^f00020], is established in accordance with these Regulations.
+
+## PART 2 — Registration of participants and tariff guarantees
+
+### 4. Application for tariff guarantee and budget allocation[^key-0117ee0487ba9e2573cd87cf1c308f84]
+
+(1) Subject to paragraph (2), a person who produces, or proposes to produce, biomethane for injection by anaerobic digestion may make an application for a tariff guarantee in respect of the production of that biomethane, in accordance with this regulation.
+
+(2) A person may not make an application for a tariff guarantee under paragraph (1) in respect of the production of biomethane—
+
+- (a) if the date on which they expect the injection of that biomethane to commence is later than 31st March 2028[^key-5c8360ad47348b11905e76a6b761b8b7], or
+- (b) using equipment used to produce biomethane—
+  - (i) where a person is, or has been, registered under regulation 25 of the Renewable Heat Incentive Scheme Regulations 2011[^f00021] or regulation 32 of the Renewable Heat Incentive Scheme Regulations 2018[^f00022] (“RHI registration”) in respect of the production of biomethane using that equipment,
+  - (ii) where a person has made an application for RHI registration in respect of the production of biomethane using that equipment, and the application has not yet been determined,
+  - (iii) where a person has made an application for a tariff guarantee under regulation 35(1) of the Renewable Heat Incentive Scheme Regulations 2018 in respect of the production of biomethane using that equipment, and the application was withdrawn after the coming into force of these Regulations,
+  - (iv) which has been used to produce biomethane for injection by a participant who has withdrawn from the Scheme in accordance with regulation 16,
+  - (v) which has been used to produce biogas or biomethane, or both, before the coming into force of these Regulations, where paragraphs (i) to (iv) do not apply.
+
+(3) An applicant may not—
+
+- (a) amend an application made under paragraph (1) without the agreement of the Authority,
+- (b) make a further application under paragraph (1) in respect of the production of biomethane using the same equipment used to produce biomethane to which the original application relates without first withdrawing the original application.
+
+(4) An application must be in writing, in such form as the Authority may require, and must include the following information—
+
+- (a) the date on which the injection of biomethane commenced, or on which the applicant expects the injection of biomethane to commence (as the case may be),
+- (b) the expected maximum initial capacity,
+- (c) the location of the plant where the biogas is or will be produced, and of the injection point where biomethane is or will be injected in accordance with the network entry agreement applicable to that biomethane,
+- (d) a description of the equipment used to produce biomethane to which the application relates,
+- (e) evidence that the applicant has entered into a connection agreement,
+- (f) the applicant’s—
+  - (i) name,
+  - (ii) email address, and
+  - (iii) registered office (where applicable), or principal place of activity,
+- (g) the volume expressed in cubic metres of eligible biomethane which the applicant intends to inject each year,
+- (h) a statement from the applicant as to whether planning permission is necessary in respect of the processes by which the biogas which is used to produce the biomethane is produced, the biogas is upgraded to biomethane, or the biomethane is injected and, where such planning permission is necessary, evidence from the relevant planning authority that it has been granted, and
+- (i) any further information which the Authority may require.
+
+(5) Subject to paragraphs (15) and (16), where the application has, in the Authority’s opinion, been properly made, the Authority must give a notice (a “provisional tariff guarantee notice”) to the applicant stating—
+
+- (a) that a tariff guarantee will be granted if the Authority is satisfied that financial close has been reached,
+- (b) the evidence which is required for the purposes of sub-paragraph (a),
+- (c) the date, which must be no later than three weeks after the date on which the provisional tariff guarantee notice is given, by which all such evidence must be provided,
+- (d) the date on which the properly made application was received by the Authority, and
+- (e) the guaranteed tariff which will apply if the applicant becomes registered under regulation 6.
+
+(6) Where the Authority is satisfied that the applicant has provided the evidence specified in the provisional tariff guarantee notice by the date specified in the notice under paragraph (5)(c), the Authority must grant a tariff guarantee by notice to the applicant stating—
+
+- (a) the guaranteed tariff which will apply if the applicant becomes registered under regulation 6, but subject to paragraph (7),
+- (b) the date by which, for the purposes of the tariff guarantee, the injection of biomethane must commence (if injection of biomethane has not already commenced),
+- (c) a description of the equipment used to produce biomethane to which the tariff guarantee applies,
+- (d) the information which the applicant must supply to the Authority during the period of the tariff guarantee, and the frequency with which that information must be supplied, and
+- (e) any further conditions which the Authority considers necessary in relation to the tariff guarantee.
+
+(7) The Authority—
+
+- (a) may, at any time before the applicant is notified in accordance with regulation 6(4) that they are a participant, revoke a tariff guarantee, if—
+  - (i) there has been a material change in circumstances such that, had the application for the tariff guarantee been made after the change in circumstances, it would have been refused,
+  - (ii) the applicant fails to comply with conditions imposed in accordance with paragraph (6)(b), (d) or (e),
+  - (iii) the Authority considers that the information on which the decision to grant the tariff guarantee was based was incorrect in a material particular, or
+  - (iv) the Authority considers that the production and injection of biomethane is materially different from the production and injection of biomethane which was proposed under paragraph (4), and
+- (b) must revoke a tariff guarantee where the tariff start date in relation to a producer of biomethane is—
+  - (i) 183 or more days after the date given in accordance with paragraph (4)(a), or
+  - (ii)[^key-de25a9d7b013f1489cf527ca488402f0] where the application for the tariff guarantee was made before 4th June 2024, after 30th November 2025 and for all other applications, after 31st March 2028,
+
+whichever is the earlier.
+
+(8) For the purposes of paragraph (7)(a)(iv)—
+
+- (a) the Authority may take into account such matters as are, in the Authority’s opinion, relevant, including —
+  - (i) the location of the injection point where biomethane is injected,
+  - (ii) the maximum initial capacity of biomethane, and
+  - (iii) the source of energy and technology or design of the plant, and
+- (b) the maximum initial capacity of biomethane is materially different where it is at least 10% greater or smaller than the expected maximum initial capacity proposed under paragraph (4)(b).
+
+(9) Subject to paragraphs (10) and (11), where a producer of biomethane in respect of which a tariff guarantee has been granted becomes registered under regulation 6, the tariff applicable at the tariff start date is the initial tariff which would have applied in accordance with regulation 22 (calculation of initial tariffs and tariff review) had the tariff start date been the date referred to in paragraph (5)(d), adjusted , where appropriate, in accordance with paragraph (9A)[^key-124c816950d3c17ecc7e5e63e448b013] (the “guaranteed tariff”).
+
+(9A)[^key-dcdf157518b373935b616f69b827e73c] Subject to paragraph (9B), if the date referred to in paragraph 5(d) (“the guarantee date”) and the tariff start date are in different financial years, the initial tariff calculated in accordance with paragraph (9) must be adjusted by the percentage increase or decrease in the consumer prices index in the period beginning with 1st January immediately preceding the financial year in which the guarantee date falls and ending with 31st December immediately preceding the financial year in which the tariff start date falls.
+
+(9B) For the purposes of the adjustment under paragraph (9A), any increase or decrease in the consumer prices index in the calendar year ending on 31st December 2021 is to be disregarded.
+
+(10) Where in any 12 month period beginning with the tariff start date, or the anniversary of the tariff start date, the biomethane injected by a producer of biomethane exceeds 250GWh, the guaranteed tariff will apply to the first 250GWh of such biomethane only.
+
+(11) The guaranteed tariff does not apply—
+
+- (a) if the tariff start date is earlier than the date given in accordance with paragraph (4)(a), until that date, or
+- (b) where the tariff guarantee has been revoked.
+
+(12) Where the Authority revokes a tariff guarantee, it must give a notice to the applicant specifying—
+
+- (a) the reason for the revocation, and
+- (b) details of the applicant’s right of review under regulation 62.
+
+(13) The Secretary of State—
+
+- (a) must determine and publish the budget allocation for tariff guarantees and registration in respect of additional biomethane (the “budget allocation”) for each of the relevant financial years,
+- (b) must publish—
+  - (i) estimates of inflation for each of the relevant financial years, and
+  - (ii) quarterly biomethane production factors,
+- (c) may review the budget allocation for a current or future relevant financial year, and
+- (d) may, as a result of such a review, increase or decrease a budget allocation, provided that such increase or decrease may only take effect on 1st January, 1st April, 1st July or 1st October in a relevant financial year.
+
+(14) The Authority must publish the following information once in every quarter—
+
+- (a) current information in aggregate form as to—
+  - (i) the number of tariff guarantee applications made,
+  - (ii) the number of provisional tariff guarantee notices given,
+  - (iii) the number of tariff guarantees granted,
+  - (iv) the number of applications for registration in respect of additional biomethane made under regulation 8,
+  - (v) the number of participants registered in respect of additional biomethane,
+  - (vi) the feedstocks, maximum initial capacity and any additional capacity, of the plants in respect of which tariff guarantees have been granted, and
+- (b) the estimated total budget commitment for each of the relevant financial years.
+
+(15) The Authority must consider applications for a tariff guarantee and applications for registration in respect of additional biomethane under regulation 8 in the order in which they are received by it, and must not—
+
+- (a) give a provisional tariff guarantee notice, or register a participant in respect of additional biomethane, where the estimated total budget commitment for a relevant financial year would exceed the budget allocation for that year if the tariff guarantee were granted or if the participant were registered in respect of that additional biomethane (as the case may be), or
+- (b) give a provisional tariff guarantee notice, or register a participant in respect of additional biomethane, in respect of any subsequent application for consideration except where granting a tariff guarantee or registering the participant in respect of additional biomethane (as the case may be) would not cause the budget allocation for a relevant financial year to be exceeded.
+
+(16) Following an increase or decrease in budget allocation pursuant to paragraph (13)(d), or any decrease in the estimated total budget commitment resulting from the withdrawal or rejection of a tariff guarantee application or an application for registration in respect of additional biomethane under regulation 8, the Authority must consider outstanding applications for a tariff guarantee and for registration in respect of additional biomethane under regulation 8 in the order in which they were received.
+
+(17) In this regulation—
+
+- “**connection agreement**” means an agreement, between a person who proposes to inject biomethane into a pipe-line system and the operator of the pipe-line system, which provides for the design and construction of a connection by which the biomethane may be injected into the pipe-line system;
+- “**estimated annual payment**”, in relation to an application for a tariff guarantee or an application for registration in respect of additional biomethane, means—
+  - (a) in the first financial year—
+
+    [image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_001)
+  - (b) in any subsequent financial year—
+
+    [image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_002)
+
+  where—
+
+  - “**first financial year**” means the financial year in which—
+    - (i) in the case of an application for a tariff guarantee, the equipment used to produce biomethane was commissioned, or the applicant expects the equipment used to produce biomethane to be commissioned (as the case may be), and
+    - (ii) in the case of an application for registration in respect of additional biomethane, periodic support payments for that additional biomethane are expected to become payable, having regard to regulation 8(5)(a),[^key-6d432112349f6b15f51e975c5f61f935]
+  - D is[^key-ef249ee15481861b452a242a717d45c4]
+    - (i) in the case of an application for a tariff guarantee, the number of days in the financial year beginning with the date on which the injection of original biomethane commenced or the applicant expects the injection of original biomethane to commence (as the case may be), and
+    - (ii) in the case of an application for registration in respect of additional biomethane, the number of days in the financial year beginning with the date on which periodic support payments for that additional biomethane are expected to become payable, having regard to regulation 8(5)(a),
+  - F is 9.1[^f00023],
+  - I is the estimate of inflation for that financial year, published by the Secretary of State,
+  - P is the average of the quarterly biomethane production factors for all applicable quarters of the relevant financial year, beginning in the case of the first financial year[^key-72ce577d2dd5a0c13fa534fbe19e17a4] with the date on which the injection of original biomethane commenced [^key-e91bfd54739bd7b2cf78fa4ab18295fd]..., the applicant expects the injection of original biomethane to commence, or periodic support payments for additional biomethane are expected to become payable, having regard to regulation 8(5)(a)[^key-84d79fe038e5e8bfed960d7627ccd5ce] (as the case may be), expressed as a decimal and rounded to four decimal places,
+  - T is the guaranteed tariff which will apply if the producer of biomethane becomes registered under regulation 6, or the tariff which will apply if the participant is registered in respect of additional biomethane under that regulation (as the case may be),
+  - V is the maximum volume expressed in cubic metres of eligible biomethane which—
+    - (i) in the case of an application for a tariff guarantee, the applicant can inject each year, based on data from the relevant connection agreement,
+    - (ii) in the case of an application for registration in respect of additional biomethane, the participant can inject each year, based on data from the relevant network entry agreement, and
+  - Y is the number of days in the financial year;
+- “**estimated total budget commitment**”, in relation to a relevant financial year, means the sum of—
+  - (a) the estimated annual payments in relation to every application for a tariff guarantee—
+    - (i) for which a provisional tariff guarantee notice has been given, and
+    - (ii) which has not been withdrawn by the applicant or rejected by the Authority, and
+  - (b) the estimated annual payments in relation to every application for registration in respect of additional biomethane where the participant has been registered in respect of that additional biomethane;
+- “**financial close**” means the date on which the applicant has entered into all financing agreements in relation to all the funding required for the production and injection of biomethane;
+- “**maximum initial capacity**” means the maximum volume of biomethane, expressed in cubic metres per year, which a participant is entitled to supply for injection under the network entry agreement applicable to the biomethane in relation to which an application for registration under regulation 5 is made;
+- “**quarterly biomethane production factors**” means the percentage of their maximum initial capacity or their maximum additional capacity (as the case may be) that a participant is expected to supply for injection in each quarter, beginning with the first quarter in which they are registered as a participant or in which they are registered in respect of the additional biomethane (as the case may be);
+- “**relevant financial year**” means any of the financial years 2021/2022, 2022/2023, 2023/2024, 2024/2025, [^key-436122c9612e2d67cc3dc461756ede5b]... 2025/2026 , 2026/2027[^key-0d5a42910d29e9bf7b1e0f8733e8a423] [^key-54228e38a980b0ccaf45b5995cdc5a73]... 2027/2028 , 2028/2029 and 2029/2030[^key-e2ac72e22b57cdc78c3695533687a460].
+
+### 5. Application for registration as a participant[^key-79dc016673d68ece04d52156035dcefd]
+
+(1) A producer of biomethane who has been granted a tariff guarantee which has not been revoked may apply to the Authority to be registered as a participant in relation to the equipment used to produce biomethane to which that tariff guarantee applies.
+
+(2) An application for registration must be in writing and supported by—
+
+- (a) such of the information specified in Schedule 1 (information required for registration) as the Authority may require,
+- (b) a declaration that the information provided by the applicant is accurate to the best of the applicant’s knowledge and belief, and
+- (c) a declaration as to the volume expressed in cubic metres of biomethane which the applicant expects to produce for injection each year.
+
+(3) Before registering a producer of biomethane as a participant, the Authority may request access without notice at any reasonable hour to carry out inspections of any equipment which is being used to produce the biomethane for which the applicant is intending to claim periodic support payments, and any injection equipment, in order to satisfy itself that the applicant should be registered.
+
+(4) Where the applicant is not also the person producing the biogas used to produce the biomethane in respect of which that application is made, the Authority may require that the applicant—
+
+- (a) has the authority, from all persons who produce the biogas used to produce the biomethane, to be the participant, and
+- (b) provides to the Authority, in such manner and form as the Authority may request, evidence of that authority.
+
+(5) Where the Authority considers that further information is necessary for the purpose of determining an application, it may by notice—
+
+- (a) specify the further information which the applicant is required to provide,
+- (b) specify a period of no less than four weeks beginning with the date of the notice within which that information must be provided, and
+- (c) inform the applicant that failure to provide the requested information within that period may result in the application being rejected.
+
+(6) The Authority may by notice extend the period specified in a notice under paragraph (5)(b) where it is satisfied that it is reasonable to do so.
+
+### 6. Determination of application for registration and the central register[^key-2334780714930b92eaaa9a954021c5d7]
+
+(1) The Authority must maintain a register of participants (the “central register”), and ensure, so far as practicable, that entries in the central register are accurate and up to date.
+
+(2) The Authority may when registering an applicant as a participant attach such conditions as it considers appropriate.
+
+(3) The Authority must specify in the central register the maximum initial capacity in respect of which the participant is registered.
+
+(4) Where the application for registration has, in the Authority’s opinion, been properly made, the Authority must (subject to paragraphs (5) to (7), regulation 7 (treatment of grants from public funds), and regulation 32(4)(b) (revocation of registration))—
+
+- (a) notify the applicant in writing that registration has been successfully completed and that the applicant is a participant in relation to the equipment used to produce the biomethane to which the tariff guarantee applies (“the relevant equipment used to produce biomethane”),
+- (b) enter the date of registration, the participant’s name, and a description of the relevant equipment used to produce biomethane, on the central register,
+- (c) notify the applicant of any conditions attached to their registration as a participant,
+- (d) notify the applicant of the maximum initial capacity specified in accordance with paragraph (3), and
+- (e) give the applicant a written statement including such of the following information as the Authority considers applicable—
+  - (i) the date of registration,
+  - (ii) the tariff which will apply,
+  - (iii) the process and timing for providing meter readings,
+  - (iv) details of the frequency and timetable for periodic support payments,
+  - (v) the tariff lifetime and tariff end date, and
+  - (vi) the ongoing participant obligations.
+
+(5) The Authority must not register an applicant as a participant unless—
+
+- (a) the applicant has specified the equipment used to produce biomethane to which the application relates,
+- (b) at the time of making the application, the relevant equipment used to produce biomethane has been commissioned,
+- (c) any necessary planning permission has been granted in respect of the processes by which the biogas which is used to produce the biomethane is produced, the biogas is upgraded to biomethane, or the biomethane is injected,
+- (d) any authorisations[^key-18ffbdefdbaae8a9c4693dd2d5463a55], in respect of the processes by which the biogas which is used to produce the biomethane is produced, the biogas is upgraded to biomethane, or the biomethane is injected—
+  - (i) have been granted, or
+  - (ii) have been applied for in accordance with the Environmental Permitting (England and Wales) Regulations 2016, the Environmental Authorisations (Scotland) Regulations 2018[^key-dd6212e203a33bb400ef33970914e10b], and the applications have been accepted by the Environment Agency, the Natural Resources Body for Wales, or the Scottish Environment Protection Agency, as appropriate, but have not yet been determined, where—
+    - (aa) the Environment Agency, the Natural Resources Body for Wales, or the Scottish Environment Protection Agency has published (and has not withdrawn) a regulatory position statement[^f00024], or other formal statement, affecting applications for authorisations[^key-07b4f2c4cdf22a67eee80799186190ce], and
+    - (bb) the processes are within the scope of that statement, and
+- (e) the applicant provides a declaration that the processes by which—
+  - (i) the biogas which is used to produce the biomethane is produced,
+  - (ii) the biogas is upgraded to biomethane, and
+  - (iii) the biomethane is injected,
+
+  comply, and will continue to comply, with all local and national laws including those relating to the protection of the environment.
+
+(6) The Authority must not register an applicant as a participant—
+
+- (a) if registration would result in periodic support payments being made to more than one participant for the same biomethane,
+- (b) if the tariff guarantee granted to the applicant has been revoked,
+- (c) where the applicant refused to allow the Authority access for the purposes of an inspection under regulation 5(3), and—
+  - (i) the Authority is not satisfied that the refusal was reasonable, and
+  - (ii) any subsequent access granted by the applicant for the purposes of an inspection was not sufficient to enable the Authority to satisfy itself that the applicant should be registered as a participant, or
+- (d) after 31st March 2028[^key-b0ca3b331c727dd559d3e153a2b1f5e3].
+
+(7) The Authority may refuse to register an applicant as a participant—
+
+- (a) where the applicant fails to provide the information specified in a notice given under regulation 5(5), within the period specified in a notice under regulation 5(5)(b) or (6), as applicable,
+- (b) where it considers that one or more of the applicable ongoing participant obligations will not be complied with,
+- (c) if the Authority refused a previous application for registration made by the applicant, or a connected person, on the ground that information contained in the previous application was incorrect or misleading in a material particular, or
+- (d) where the Authority is satisfied that the relevant equipment used to produce biomethane has been used for the purposes of the registration of any other participant or former participant.
+
+(8) Where the Authority does not register an applicant as a participant, it must notify the applicant in writing that the application for registration has been rejected, giving reasons.
+
+### 7. Treatment of grants from public funds[^key-4178cb80ddc5a336a4be1cd3eaf82329]
+
+(1) Subject to paragraphs (2) and (6), the Authority must not register an applicant as a participant in respect of any original biomethane or additional biomethane unless the applicant has given notice (which the Authority has no reason to believe is incorrect) that, as applicable—
+
+- (a) no grant from public funds has been paid or will be paid in respect of any of the costs of purchasing or installing any of the equipment used to produce the biomethane for which the applicant is intending to claim periodic support payments, or
+- (b) such a grant was paid and it has been repaid to the person or authority who made it.
+
+(2) Where some or all of the purchase or installation costs for the equipment used to produce any original biomethane were funded by any grant from public funds and—
+
+- (a) the applicant demonstrates to the satisfaction of the Authority that the person or authority who made the grant has—
+  - (i) refused to accept repayment of the grant, or
+  - (ii) ceased to exist, or
+- (b) paragraph (3) applies,
+
+the Authority may register the applicant as a participant, but a grant funding deduction must be deducted from each periodic support payment in accordance with paragraphs (4) and (5).
+
+(3) This paragraph applies where—
+
+- (a) a grant originates from funds raised by the National Lottery, and
+- (b) on or after 30th November 2021 but not later than 31st March 2028[^key-6136b3e3c953ee2ebc4235893aaa5889] installation of the equipment used to produce biomethane was completed and injection of biomethane produced by that applicant has commenced.
+
+(4) A grant funding deduction for each quarter is calculated in accordance with the following formula—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_003)
+
+where A is—
+
+- (a) for the quarter in which the tariff start date falls, the figure that the Authority considers, based on all relevant information available to the Authority at the time, represents the total value of any grants from public funds to which paragraph (2) refers,
+- (b) for any subsequent quarter that does not include 1st April of any year, the value of A in the previous quarter, and
+- (c) for any subsequent quarter that includes 1st April of any year, the value of A in the previous quarter adjusted by the percentage increase or decrease in the consumer prices index for the previous calendar year, the resulting figure being rounded.
+
+(5) Where a grant funding shortfall arises, the Authority must deduct from the periodic support payments (“**P**”) payable in the subsequent quarter and any quarter after the subsequent quarter, the grant funding deduction for that period together with such part of the grant funding shortfall as remains outstanding provided that the total amount so deducted does not exceed P.
+
+(6) Where an application for registration in respect of additional biomethane is made under regulation 8—
+
+- (a) a reference to a grant in paragraph (1) does not include a grant in respect of equipment used to produce that additional biomethane if the equipment is also used to produce original biomethane and a grant funding deduction is already being made in respect of the grant, and
+- (b) paragraphs (2) to (4) do not apply in respect of the application.
+
+(7) In this regulation—
+
+- “**grant from public funds**” means a grant made by a public authority or by any person distributing funds on behalf of a public authority,
+- “**grant funding shortfall**” means the amount by which the grant funding deduction exceeds the periodic support payment in any quarter, and
+- “**National Lottery**” means the National Lottery as referred to in section 1 of the National Lottery etc. Act 1993[^f00025].
+
+### 8. Additional capacity for biomethane production[^key-ecbc70a2f0e223dcd3d601f8857b7ed2]
+
+(1) A participant who—
+
+- (a) is producing or intends to produce additional biomethane for injection by anaerobic digestion, and
+- (b) expects the injection of that additional biomethane to commence no later than 31st March 2028[^key-b60ba92b4be1c9e13d06ec918cc8549f],
+
+may apply to the Authority to be registered in respect of that additional biomethane.
+
+(2) A participant may not make a further application under paragraph (1) in respect of the production of additional biomethane using the same equipment used to produce biomethane to which the original application relates without first withdrawing the original application.
+
+(3) Regulation 5(3) to (6), and regulation 6(2), (4)(a) to (c) and (e), and (5) to (8) apply to an application for registration in respect of additional biomethane, and such application must be in writing and supported by such of the information referred to in regulations 5 and 6 as the Authority may require, but as if references in those regulations—
+
+- (a) to an applicant were references to the participant,
+- (b) to biomethane were references to additional biomethane, and
+- (c) to registering the applicant as a participant were references to registering the participant in respect of that additional biomethane.
+
+(4) Where a participant is registered in respect of additional biomethane, the Authority must specify the maximum additional capacity in relation to which the participant is registered.
+
+(5) Where a participant is registered in respect of additional biomethane—
+
+- (a) periodic support payments for that additional biomethane are payable—
+  - (i) where the application is made on or before 31st October in a financial year (“FY1”), from the start of the following financial year (“FY2”),
+  - (ii) where the application is made after 31st October in FY1, from the start of the financial year following FY2,
+- (b) the tariff for additional biomethane is the relevant tariff determined in accordance with regulation 21(3) as at the tariff start date for that additional biomethane, and
+- (c) the tariff for the original registration continues to be the relevant tariff for that original registration, determined in accordance with regulation 21(3) as at the tariff start date for that original registration.
+
+(6) Periodic support payments for additional biomethane may not be made beyond the tariff end date which was notified in accordance with regulation 6(4)(e)(v) when the participant was originally registered as a producer of biomethane.
+
+(7) For the purposes of this regulation—
+
+- (a) “**additional biomethane**” means any biomethane—
+  - (i) which exceeds the sum of the maximum initial capacity, together with any maximum additional capacity previously specified under this regulation, and
+  - (ii) which is being supplied, or is intended to be supplied, by the participant for injection at the same injection point as the biomethane in respect of which that participant was first registered,
+- (b) “**maximum additional capacity**” means the volume of biomethane, expressed in cubic metres per year, which—
+  - (i) is additional biomethane, and
+  - (ii) is the maximum volume which a participant is entitled to supply for injection under the network entry agreement applicable to that additional biomethane.
+
+(8) Where the Authority does not register a participant in respect of additional biomethane, it must notify the participant in writing that the application for registration in respect of additional biomethane has been rejected, giving reasons.
+
+### 8A. Registration of eligible heat pumps[^key-b41b4b21d84cf3438880be9fd315d735]
+
+(1) An applicant or participant who is using an air source heat pump, or a ground source heat pump in the production of biomethane, may apply to the Authority to have that heat pump registered as an eligible heat pump.
+
+(2) An application for registration under paragraph (1) must be in writing and supported by—
+
+- (a) such of the information specified in Schedule 1A (information required for registration of an eligible heat pump) as the Authority may require,
+- (b) a declaration that no grant from public funds has been paid, or will be paid, in respect of any costs of the purchase, installation, or operation of the heat pump, and
+- (c) a declaration that the information provided by the applicant or participant is accurate to the best of the applicant’s or participant’s knowledge and belief.
+
+(3) Upon receiving an application under paragraph (1) the Authority must—
+
+- (a) determine whether the heat pump meets the criteria for an eligible heat pump,
+- (b) if satisfied that the heat pump does meet the criteria for an eligible heat pump, register that heat pump as an eligible heat pump, and
+- (c) notify the applicant or participant (as appropriate), in writing, of the Authority’s determination.
+
+(4) Where the Authority determines that the heat pump does not meet the criteria to be registered as an eligible heat pump, it must provide reasons for the Authority’s determination.
+
+(5) A deduction for heat derived from an eligible heat pump under regulation 27(2)(c)(i) and 27(2)(d), and electricity supplied to an eligible heat pump under regulation 27(2)(e) cannot be applied before the date of receipt by the Authority of the application under paragraph (1) in which, in the Authority’s opinion, all the information required in respect of that application has been provided.
+
+(6) The Authority may review a registration of an eligible heat pump, and where the Authority determines that a heat pump that is registered as an eligible heat pump—
+
+- (a) did not meet the criteria for an eligible heat pump at the time of the Authority’s determination under paragraph (3), or
+- (b) no longer meets the criteria for an eligible heat pump,
+
+the Authority must remove the registration of that heat pump as an eligible heat pump.
+
+(7) Where the Authority makes a determination under paragraph (6), it must notify the participant in writing within 28 days of making the determination, and it must provide reasons for the Authority’s determination.
+
+(8) In this regulation—
+
+- “**eligible heat pump**” means an air source heat pump, or a ground source heat pump (which may or may not use a shared ground loop system), or both, that—
+  - (a) was first commissioned on or after 1 April 2023,
+  - (b) is fitted with an electricity meter capable of measuring the electricity supplied to the heat pump,
+  - (c) has been granted necessary planning permission,
+  - (d) has not had a grant from public funds paid in respect of any of the costs of the purchase, installation, or operation of the heat pump, and
+  - (e) is not powered by, or does not derive heat from a fossil fuel, gas or oil boiler;
+- “**grant from public funds**” means a grant made by a public authority or by any person distributing funds on behalf of a public authority, except for a grant that offers a discount on the unit price of electricity.
+
+## PART 3 — Ongoing obligations on participants
+
+### 9. Ongoing participant obligations: biomethane[^key-7fd5760cf0dcf5aa506bdcc4d3556b9c]
+
+(1) A participant may only use biomethane which—
+
+- (a) is or was produced from one or more of the following feedstocks—
+  - (i) solid biomass,
+  - (ii) solid waste,
+  - (iii) liquid waste, and
+- (b) is not gas formed by the digestion of material in a landfill.
+
+(2) Where waste is used as feedstock, the proportion of solid biomass contained in the waste must be a minimum of 10%.
+
+(3) For the purposes of paragraph (2), the proportion of solid biomass is the energy content of the waste used as feedstock in a quarter, less the energy content of any fossil fuel[^f00026] of which that waste is in part composed, expressed as a percentage of the energy content of that waste.
+
+(4) Where solid biomass is used as feedstock, the participant may use solid biomass contaminated with fossil fuel only where the proportion of fossil fuel contamination does not exceed 10%, but such contaminated biomass may not be used unless the fossil fuel is present because—
+
+- (a) the solid biomass has been subject to a process, the undertaking of which has caused the fossil fuel to be present in, on, or with the biomass even though that was not the object of the process, or
+- (b) the fossil fuel is waste and was not added to the solid biomass with a view to its being used as a fuel.
+
+(5) For the purposes of paragraph (4), the proportion of fossil fuel contamination is the energy content of the fossil fuel with which the solid biomass used in a quarter is contaminated, expressed as a percentage of the energy content of all feedstock (contaminated or otherwise) used in that quarter.
+
+(6) A participant may use feedstock partly derived from fossil fuel only where the contribution of that fossil fuel to the energy content of the biogas that is produced from that feedstock does not exceed 10%.
+
+(7) For the purposes of paragraph (6)—
+
+- (a) the percentage of the energy content of biogas from the fossil fuel component of the feedstock is to be determined by the Authority for every quarter,
+- (b) it is for the participant to provide, in such form as the Authority may require, evidence to demonstrate to the Authority’s satisfaction the percentage of the energy content of biogas from feedstock derived from fossil fuel, and
+- (c) the percentage of the energy content of biogas from feedstock derived from fossil fuel is the energy content of the fossil fuel, expressed as a percentage of the energy content of the biogas used in that quarter to produce biomethane.
+
+(8) Without prejudice to paragraph (7)(b), in determining the percentage of the energy content of biogas from feedstock derived from fossil fuel, the Authority may have regard to any information (whether or not produced to it by the participant) if, in its opinion, that information indicates the contribution of feedstock derived from fossil fuel to the energy content of the biogas.
+
+(9) Where the Authority so requests, the participant must arrange—
+
+- (a) for samples of the feedstock used (or to be used) to be taken by a person and analysed in a manner specified by the Authority, and
+- (b) for the results of that analysis to be made available to the Authority in such form as the Authority may require.
+
+(10) A participant must provide measurements in such format as the Authority may request which satisfy the Authority of all of the following—
+
+- (a) the gross calorific value and volume of biomethane injected,
+- (b) the gross calorific value and volume of any propane contained in the biomethane,
+- (c) the kWh of biomethane injected, together with supporting meter readings and calculations,
+- (d) the kWhth of heat supplied to every anaerobic digester (other than heat contained in feedstock to produce biogas by anaerobic digestion) which made the biogas used in any quarter to produce biomethane for injection, [^key-973507e32b6d9890d39de100135b2a6b]...
+- (e) any heat supplied to the biomethane production process , and[^key-dd379cd5c6b87d61a3ce0f128ae128b0]
+- (f)[^key-cd8c024d9c22dcead1d2fdbc46b1237a] the kWh of electrical input supplied to any eligible heat pump.
+
+(11) The measurements referred to in paragraph (10) may be estimated if the Authority has agreed in writing to an estimate being provided and to the way in which those estimates are to be calculated, provided that estimated measurements may only be used by a participant in relation to a maximum of six quarters.
+
+(12) A participant must keep, and provide to the Authority upon request—
+
+- (a) copies or details of agreements with third parties with whom the participant contracts to carry out any of the processes undertaken to turn the biogas into biomethane and to arrange for its injection, and
+- (b) written evidence including invoices, receipts, contracts and such other information as the Authority may specify in relation to biogas purchased and feedstock used in the production of the biogas used to produce biomethane.
+
+(13) A participant must ensure, in relation to digestate generated from every anaerobic digester, that they comply with the following requirements—
+
+- (a) they use low emission spreading of digestate as defined in the Code of Good Agricultural Practice (COGAP) for Reducing Ammonia Emissions[^f00027], or
+- (b) where the participant contracts with another person to spread the digestate, that person complies with the relevant National Association of Agricultural Contractors standards or equivalent approved standards.
+
+(14) Where the Secretary of State is satisfied that the standards of a scheme or body in relation to the low emission spreading of digestate are equivalent to the relevant National Association of Agricultural Contractors standards mentioned in paragraph (13)(b), the Secretary of State may approve those standards for the purposes of paragraph (13)(b), and “**equivalent approved standards**” means standards so approved.
+
+(15) A participant must—
+
+- (a) keep, and provide to the Authority upon request, copies or details of arrangements made to spread digestate, and
+- (b) annually, and within 3 months after each anniversary of the date on which they were first registered as a participant, provide the Authority with a declaration which states that the participant has complied with the obligations in paragraph (13).
+
+### 10. Ongoing participant obligations: general[^key-7f2ebe1442e84e60fcafa2290aa5ce9c]
+
+(1) A participant must comply with the following ongoing participant obligations, as applicable—
+
+- (a) they must keep and provide upon request by the Authority records of the type of feedstock used and fuel purchased while they are a participant,
+- (b) where they have used solid biomass which was an approved sustainable fuel at the time when it was received by the participant or in respect of which the Secretary of State had made a declaration under paragraph 5 of Schedule 2 (approval of schemes for listing sustainable fuels), they must keep and provide upon request by the Authority the authorisation number or other means of identification allocated to that fuel by the scheme under which that fuel is listed,
+- (c) they must submit an annual declaration as requested by the Authority confirming that they are complying with the relevant ongoing participant obligations,
+- (d) they must notify the Authority if any of the information provided in support of their application for registration was incorrect,
+- (e) they must comply with any condition attached to their registration,
+- (f) they must allow the Authority or its authorised agent reasonable access in accordance with regulation 36 (power to inspect equipment),
+- (g) they must notify the Authority as soon as reasonably practicable and within no more than 28 days after ceasing to comply with an ongoing participant obligation or becoming aware that they will not be able so to comply, or where there has been any change in circumstances which may affect their eligibility to receive periodic support payments,
+- (ga)[^key-981215d5619413a40a87ac715f565ca3] they must notify the Authority if they have installed a ground source heat pump or air source heat pump or both for use in the production of biomethane within 28 days of the heat pump being installed,
+- (h) they must repay any overpayment in accordance with any notice served under regulation 34 (overpayment notices and offsetting),
+- (i) they must comply with such other requirements as the Authority may specify in relation to the effective administration of the Scheme,
+- (j) they must ensure, in respect of the processes by which the biogas used to produce the biomethane is produced, the biogas is upgraded to biomethane, and the biomethane is injected—
+  - (i) that any necessary planning permission required under regulation 6(5)(c) continues to be complied with,
+  - (ii) that, unless regulation 6(5)(d)(ii) applies, any necessary environmental permit granted in accordance with the Environmental Permitting (England and Wales) Regulations 2016 or any authorisation granted (or treated as granted) under the Environmental Authorisations (Scotland) Regulations 2018[^key-76c698b93b41437f0b7ca52f5098fdff], continues to be complied with, and
+  - (iii) that all local and national laws including those relating to the protection of the environment continue to be complied with,
+- (k) where regulation 28 (reconciliation payments) applies, the participant must comply with the following obligations in relation to each payment year (within the meaning of that regulation)—
+  - (i) the participant must provide a declaration to the Authority following the end of each payment year stating the proportion of the total biogas yield for that payment year which is not derived from waste or residue, and
+  - (ii) the annual report submitted by the participant in accordance with regulation 13 (obligation to submit sustainability audit reports) must confirm whether the figure provided by the participant under paragraph (i) is correct, together with supporting evidence to show how it is calculated, and
+- (l) they must notify the Authority within 28 days of a change of ownership of all or part of the equipment used to produce biomethane.
+
+(2) A participant must keep all meters required to be used in accordance with these Regulations—
+
+- (a) continuously operating,
+- (b) properly maintained and periodically checked for errors,
+- (c) re-calibrated every 10 years, or within such period of time as may be specified in accordance with manufacturers’ instructions where available, whichever is the sooner, and
+- (d) located, maintained, and serviced in accordance with any conditions specified in the manufacturers’ instructions,
+
+and must retain evidence of this while they are a participant.
+
+### 11. Ongoing participant obligations: the provision of information[^key-dd41c38e829184d3f6f73a836fd9d540]
+
+(1) A participant must provide to the Authority on request any information which the participant holds and which the Authority requires in order to discharge its functions under these Regulations.
+
+(2) A participant must retain a copy of—
+
+- (a) any information relied on when making any application for registration or, if the participant did not make that application, given to the participant by the person who made the application, and
+- (b) any other evidence which verifies that the participant is continuing to comply with the ongoing participant obligations.
+
+(3) Information requested under paragraph (1) must be provided within such time as the Authority specifies.
+
+### 12. Ongoing participant obligations: sustainability[^key-8d4a76a118951969a9474f0ac8d04f0e]
+
+(1) A participant must only produce for injection sustainable biomethane.
+
+(2) A participant must—
+
+- (a) in relation to each consignment of biomethane produced, provide the Authority with a declaration in accordance with paragraphs (3) and (4), and
+- (b) provide any declarations and information required under paragraph (8).
+
+(3) A declaration must state whether or not—
+
+- (a) any solid biomass used to produce the biomethane was waste or wholly derived from waste,
+- (b) the biomethane produced was made from feedstock which was waste,
+- (c) the biomethane produced met the greenhouse gas criteria, and
+- (d) the biomethane produced was made from feedstock which was solid biomass which met the land criteria.
+
+(4) Where a participant declares in accordance with paragraph (3)(c) that biomethane met the greenhouse gas criteria, the declaration must specify the lifecycle greenhouse gas emissions for that biomethane.
+
+(5) Except where the Authority specifies otherwise, participants must provide declarations and information in accordance with this regulation in respect of the biomethane produced in every quarter, within 28 days of the end of each such quarter.
+
+(6) Where in a quarter a participant produces biomethane for injection, the participant must provide the following information in relation to the solid biomass used—
+
+- (a) the material from which the solid biomass was composed,
+- (b) the form of the solid biomass,
+- (c) its mass,
+- (d) whether the solid biomass was a by-product of a process,
+- (e) whether the solid biomass was derived from waste,
+- (f) where the solid biomass was plant matter or derived from plant matter, the country where the plant matter was grown,
+- (g) where the information specified in sub-paragraph (f) is not known or the solid biomass was not plant matter or derived from plant matter, the country from which the participant obtained the solid biomass,
+- (h) whether any of the solid biomass used was an energy crop or derived from an energy crop and if so—
+  - (i) the proportion of the consignment which was or was derived from the energy crop, and
+  - (ii) the type of that energy crop,
+- (i) whether the solid biomass or any matter from which it was derived was certified under an environmental quality assurance scheme and, if so, the name of the scheme,
+- (j) where the solid biomass was plant matter or derived from plant matter, the use to which the land on which the plant matter was grown has been put since 30th November 2005, if known.
+
+(7) The information provided under paragraph (6) must be collated by reference to the following places of origin—
+
+- (a) the United Kingdom,
+- (b) other.
+
+(8) In addition to the declaration in accordance with paragraphs (3) and (4) and information in accordance with paragraphs (6) and (7), the Authority may from time to time require such further declarations or information from a participant in relation to sustainable biomethane as the Authority considers necessary.
+
+(9) Nothing in paragraph (5) or (6) requires a participant to provide a declaration or information in relation to any part of a quarter during which they were not a participant.
+
+(10) For the purposes of this regulation—
+
+- (a) biomethane produced from biogas meets the greenhouse gas criteria if the lifecycle greenhouse gas emissions associated with that biomethane are less than or equal to 24g of CO<sub>2 eq</sub> per megajoule of biomethane injected, where lifecycle greenhouse gas emissions, expressed in grammes of CO<sub>2</sub> <sub>eq</sub> per megajoule from the production of the biomethane, are calculated using the actual value method or the default value method published by the Secretary of State,
+- (b) “**energy crop**” means—
+  - (i) a perennial crop planted at high density, the stems of which are harvested above ground level at intervals of less than 20 years and which is one of the following—
+    - (aa) Acer pseudoplatanus (also known as sycamore),
+    - (bb) Alnus (also known as alder),
+    - (cc) Betula (also known as birch),
+    - (dd) Castanea sativa (also known as sweet chestnut),
+    - (ee) Corylus avellana (also known as hazel),
+    - (ff) Fraxinus excelsior (also known as ash),
+    - (gg) Populus (also known as poplar),
+    - (hh) Salix (also known as willow),
+    - (ii) Tilia cordata (also known as small-leaved lime), or
+  - (ii) a perennial crop which is one of the following—
+    - (aa) Arundo donax (also known as giant reed),
+    - (bb) Bambuseae, where the crop was planted after 31st December 1989 and is grown primarily for the purpose of being used as fuel,
+    - (cc) Miscanthus,
+    - (dd) Panicum,
+    - (ee) Pennisetum, other than Pennisetum setaceum (also known as fountain grass), Pennisetum clandestinum (also known as kikuyu grass) and Pennisetum villosum (also known as feathertop grass),
+    - (ff) Phalaris,
+- (c) “**environmental quality assurance scheme**” means a voluntary scheme which establishes environmental or social standards in relation to the production of biomass or matter from which biomass is derived,
+- (d) “**land criteria**” means—
+  - (i) the criteria set out in Part 2 of Schedule 3 (land criteria) in relation to solid biomass which is wood or wholly derived from wood, except energy crops, or
+  - (ii) the criteria set out in Part 3 of Schedule 3 in relation to other solid biomass including energy crops,
+- (e) “**sustainable biomethane**” means biomethane which, save for ingredients which are added as part of the biomethane production process—
+  - (i) is made wholly from feedstock which is waste,
+  - (ii) meets the greenhouse gas criteria and is made wholly from feedstock which is solid biomass which meets the land criteria, or
+  - (iii) consists of a combination of any of the biomethane listed in paragraphs (i) and (ii).
+
+(11) For the purposes of paragraph (10)(a), the Secretary of State must publish a document setting out the actual value method and the default value method of calculating the lifecycle greenhouse gas emissions associated with biomethane produced from biogas.
+
+### 13. Ongoing participant obligations: sustainability audit reports[^key-4f4609806efc0d879f28f9c4233678eb]
+
+(1) A participant must submit a report which is prepared in accordance with the requirements in paragraph (2).
+
+(2) The requirements in this paragraph are that the report must—
+
+- (a) be prepared by a person who is not—
+  - (i) the participant, or
+  - (ii) a connected person,
+- (b) be prepared in accordance with the International Standard on Assurance Engagements (UK) 3000 (July 2020): Assurance engagements other than audits or reviews of historical financial information[^f00028] or an equivalent standard,
+- (c) state whether anything has come to the attention of the person preparing the report to indicate that the sustainability information is not accurate, and
+- (d) consider, in relation to each consignment of biomethane produced for injection—
+  - (i) whether the systems used to produce the sustainability information are likely to produce information which is reasonably accurate and reliable,
+  - (ii) whether there are controls in place to help protect the sustainability information against material misstatements due to fraud or error,
+  - (iii) the frequency and methodology of any sampling carried out for the purpose of obtaining or checking the data on which the participant relied in preparing the sustainability information, and
+  - (iv) the robustness of the data on which the participant relied in preparing the sustainability information.
+
+(3) In this regulation, “**sustainability information**” means the information provided pursuant to regulation 12(3) and (4).
+
+(4) Subject to paragraph (5), a participant must submit reports under this regulation annually and within 3 months after each anniversary of the date on which that participant was first registered as a producer of biomethane.
+
+(5) The report must consider and report on each consignment of biomethane produced, within the 12 month period preceding each anniversary of the date on which that participant was first registered as a producer of that biomethane.
+
+## PART 4 — Changes affecting participants
+
+### 14. Review of registration following notification of a change in circumstances[^key-c666e5b060525788845ce38ee53bfeb0]
+
+(1) This regulation applies where—
+
+- (a) the Authority receives a notification under regulation 10(1)(d), (g) , (ga)[^key-587c96b9de477bae923f80901b2499fc] or (l), and
+- (b) regulation 15 (change of producer of biomethane) does not apply.
+
+(2) On receipt of the notification, the Authority may—
+
+- (a) require the participant to provide such information as the Authority considers necessary to enable the Authority to consider whether a review should be carried out in accordance with this regulation and, if appropriate, to carry out such a review, and
+- (b) review the registration of the participant to which the notification relates to ensure that they continue to meet the requirements under these Regulations.
+
+(3) No periodic support payment may be made from the date on which the Authority receives the notification until the Authority has notified the participant that—
+
+- (a) it is satisfied that it is not necessary to review the registration of the participant, or
+- (b) it has carried out a review and is satisfied that the participant may continue to be registered.
+
+(4) Where the Authority is satisfied in accordance with paragraph (3) it must resume payment of periodic support payments in accordance with these Regulations and pay to the participant any periodic support payments withheld in accordance with paragraph (3).
+
+### 15. Change of producer of biomethane[^key-0fa22622776e7d354c4d13bc7ffb9cb1]
+
+(1) This regulation applies where—
+
+- (a) a person begins to use equipment used to produce biomethane (the “new producer”), and
+- (b) a participant (the “original producer”) is receiving periodic support payments for the production of biomethane for injection using that same equipment used to produce biomethane.
+
+(2) No periodic support payment may be made to the new producer until—
+
+- (a) the new producer has notified the Authority of the change,
+- (b) injection of biomethane produced by the new producer has commenced, and
+- (c) the steps set out in paragraph (4) have been completed.
+
+(3) On receipt of a notification under paragraph (2)(a), the Authority may require the new producer to provide such information as the Authority considers necessary for the proper administration of the Scheme.
+
+(4) Where the Authority is satisfied that the ongoing participant obligations will continue to be complied with by the new producer, the Authority must (subject to regulation 7 (treatment of grant from public funds[^key-9a79a7ba746d531fb9e5b03fc8cfe868]) and 32(4) (revocation of registration))—
+
+- (a) update the central register by substituting the name of the new producer, and
+- (b) give the new producer a written statement including such of the following information as the Authority considers applicable—
+  - (i) the date of registration of the original producer,
+  - (ii) the date on which the new producer is added to the central register,
+  - (iii) any tariff which applies,
+  - (iv) the process and timing for providing meter readings,
+  - (v) details of the frequency and timetable for periodic support payments,
+  - (vi) the tariff lifetime and tariff end date,
+  - (vii) the ongoing participant obligations, and
+  - (viii) any conditions attached to the registration of the original producer as a participant.
+
+(5) The Authority may refuse to register a new producer where it considers that one or more of the applicable ongoing participant obligations, or one or more of the conditions attached to the registration of the original producer as a participant, will not be complied with.
+
+(6) Where the new producer is registered—
+
+- (a) the new producer must be paid periodic support payments (calculated from the date of receipt of the notification under paragraph (2) until the tariff end date in accordance with these Regulations), and
+- (b) the original producer must not be paid periodic support payments in relation to any biomethane for which payments are made under sub-paragraph (a).
+
+(7) This paragraph applies where, within the period of 12 months beginning with a change of producer, the Authority becomes aware that a new producer is using equipment used to produce biomethane and the original producer is receiving periodic support payments for the production of biomethane for injection using that same equipment used to produce biomethane, and—
+
+- (a) no notification is made in accordance with paragraph (2)(a), or
+- (b) any information required under paragraph (3) is not provided to the Authority.
+
+(8) Where paragraph (7) applies, at the end of the period of 12 months specified in that paragraph—
+
+- (a) the Authority must revoke the participant’s registration, and
+- (b) no further periodic support payments may be made in respect of any biomethane produced using that equipment used to produce biomethane.
+
+(9) The period specified in paragraph (8) may be extended by the Authority where the Authority considers it is just and equitable to do so.
+
+### 16. Withdrawal of participant[^key-2b525373b29cff33dc6b50b009f66d5a]
+
+(1) A participant may notify the Authority that they intend to withdraw from the Scheme.
+
+(2) Notification given under paragraph (1) must state the date on which the participant intends to withdraw from the Scheme (“the withdrawal date”), which must be no earlier than 28 days after the date on which the notification is given.
+
+(3) The participant ceases to be a participant, and ceases to be entitled to the payment of periodic support payments, on the withdrawal date.
+
+(4) The Authority must update the central register by recording that the participant has withdrawn from the Scheme, together with the withdrawal date.
+
+## PART 5 — Periodic support payments
+
+### 17. Interpretation of this Part[^key-ee9aac35bc72f64bf70a84ceff473e70]
+
+In this Part—
+
+- “**assessment date**” means each 31st January, 30th April, 31st July, and 31st October in the period beginning with 30th November 2021 and ending with 31st March 2028[^key-df29f26ea9d768d64fe23c756f39d47a];
+- “**estimated energy from biomethane**”, in relation to an assessment date and a relevant producer, as expressed in kWh means—
+
+  [image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_004)
+
+  where—
+
+  - (a) FR is the estimated flow rate,
+  - (b) T is, where the relevant producer is a participant, has made an application for registration or is a proposed producer of biomethane in relation to which there is a pending tariff guarantee, the number of hours in the 12 month period beginning with the assessment date, and
+  - (c) P is the proportion of biomethane which is calculated as follows—
+
+    [image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_005)
+
+  where—
+
+  - (i) E is the amount of eligible biomethane in kWh injected by all producers of biomethane who have been registered and in relation to which periodic support payments have been received, and
+  - (ii) B is the amount of all biomethane in kWh injected by such producers in the quarters for which periodic support payments have been received,
+
+  but where the value of either E or B, or both, is 0 (zero), the value of P is to be determined by the Secretary of State;
+- “**estimated flow rate**”, in relation to an assessment date and a relevant producer, means—
+
+  [image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_006)
+
+  where—
+
+  - (a) B is the volume expressed in cubic metres of biomethane that the relevant producer has declared as being the amount which that relevant producer expects will be produced for injection each year once injection has commenced (or if more than one declaration has been given, the volume identified in the latest declaration), or 0 (zero) if no such declaration has been given, and
+  - (b) H is the total number of hours in the 12 month period beginning with the assessment date;
+- “**estimated residual energy from biomethane**”, in relation to a proposed producer of biomethane in respect of which there is a pending tariff guarantee, means—
+
+  [image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_007)
+
+  where—
+
+  - (a) B is the estimated energy from biomethane in excess of 250GWh,
+  - (b) M is the number of hours in the period beginning with the later of the assessment date or the date identified by the applicant as the date on which injection is expected to commence, and ending 12 months after the assessment date, and
+  - (c) Y is the number of hours in the 12 month period beginning with the assessment date;
+- “**estimated spend**”, in relation to an assessment date and a relevant producer, means—
+  - (a) except where paragraph (b) applies, the estimated energy from biomethane multiplied by the initial tariff or subsequent tariff, or
+  - (b) in relation to a person who proposes to produce biomethane in respect of which there is a pending tariff guarantee—
+    - (i) biomethane up to 250GWh multiplied by the initial tariff or subsequent tariff applicable to that estimated energy from biomethane, and
+    - (ii) the estimated residual energy from biomethane, if any, multiplied by the initial tariff or subsequent tariff applicable to that estimated energy from biomethane;
+- “**forecast for expenditure**”, in relation to an assessment date, means the sum as at that assessment date of the estimated spend for each relevant producer;
+- “**pending tariff guarantee**” means a tariff guarantee which has been granted but does not include a case where—
+  - (a) the producer of biomethane in respect of which the tariff guarantee was granted is registered as a participant,
+  - (b) an application for registration has been made in respect of such a producer of biomethane, or
+  - (c) a tariff guarantee has been revoked;
+- “**relevant producer**” means—
+  - (a) a participant who produces or proposes to produce biomethane for injection by anaerobic digestion,
+  - (b) a person who produces or proposes to produce biomethane for injection by anaerobic digestion who has made an application for registration but does not include a person who has made an application—
+    - (i) which has been rejected by the Authority, or
+    - (ii) which has been withdrawn by the applicant, or
+  - (c) a producer of biomethane in respect of which there is a pending tariff guarantee.
+
+### 18. Periodic support payments[^key-83274ee1c80400ac1853dc9bf945f243]
+
+Subject to Part 6 (compliance and enforcement: participants), the Authority must make payments (“periodic support payments”) to participants in accordance with this Part out of funds available to it for the purposes of the Scheme.
+
+### 19. Publication of tariffs[^key-c0ea3dbd9402fa56c3330c9132f40640]
+
+The Authority must—
+
+- (a) by 15th March, 15th June, 15th September and 15th December in each scheme year (“the tariff publication date”) publish the initial tariff applicable where a tariff start date falls within the quarter immediately following the relevant tariff publication date, and
+- (b) on or before 1st April in each scheme year, publish the subsequent tariff applicable for the period beginning with 1st April of that year and ending with 31st March of the following year.
+
+### 20. Expenditure forecast statement and tariff change notice[^key-a81d5875ff967755ac327bc5e8955b81]
+
+(1) The Secretary of State must publish a statement in accordance with this regulation (“an expenditure forecast statement”).
+
+(2) The expenditure forecast statement must be published by 1st March, 1st June, 1st September and 1st December in each scheme year, beginning with 1st March 2022.
+
+(3) For that purpose the Secretary of State must determine the forecast for expenditure in relation to relevant producers, as at the assessment date immediately preceding the date on which the expenditure forecast statement is to be published (“the latest assessment date”).
+
+(4) An expenditure forecast statement must set out the forecast for expenditure in relation to relevant producers, as at the latest assessment date.
+
+(5) If the new initial tariff will be different from the former initial tariff—
+
+- (a) as a result of a forecast referred to in paragraph (3), and by virtue of regulation 22(2) (calculation of initial tariffs and tariff review), or
+- (b) by virtue of regulation 22(4),
+
+the Secretary of State must publish with the expenditure forecast statement a notice (a “tariff change notice”) setting out the new initial tariff and the date on which it will take effect.
+
+(6) For the purposes of paragraph (5)—
+
+- (a) “**new initial tariff**” means the initial tariff for biomethane produced for injection, having a tariff start date which falls within the next quarter, and
+- (b) “**former initial tariff**” means the initial tariff that would have been applicable to the biomethane produced for injection if the tariff start date had fallen on the day immediately preceding the commencement of that quarter.
+
+### 21. Calculation and payment of periodic support payments to participants[^key-8ad43c2aad732def84fb72dde846d0a6]
+
+(1) Periodic support payments are payable for 15 years from the tariff start date.
+
+(2) Paragraph (1) is subject to—
+
+- (a) regulation 8 (additional biomethane),
+- (b) regulation 14 (review of registration following notification of a change in circumstances),
+- (c) regulation 15 (change of producer of biomethane),
+- (d) regulation 16 (withdrawal of participant),
+- (e) regulation 29 (power to temporarily withhold periodic support payments to investigate alleged non-compliance),
+- (f) regulation 30 (power to withhold periodic support payments: further provisions),
+- (g) regulation 31 (power to reduce a participant’s periodic support payments),
+- (h) regulation 32 (revocation of registration),
+- (i) regulation 33 (power to correct the level of tariff being paid to a participant), and
+- (j) regulation 34 (overpayment notices and offsetting).
+
+(3) Subject to regulation 4(9) (tariff guarantees), the tariff to be used for the purpose of calculating periodic support payments is—
+
+- (a) for the period beginning with the tariff start date and ending with the end of the financial year in which that tariff start date falls, the initial tariff, and
+- (b) for each subsequent financial year, the subsequent tariff.
+
+### 22. Calculation of initial tariffs and tariff review[^key-7b5c6f31610e0209ea04f23c5db17d84]
+
+(1) The initial tariff for a producer of biomethane, where the tariff start date is on or before 30th June 2022, is—
+
+- (a) tier 1: 5.51 pence per kWh,
+- (b) tier 2: 3.53 pence per kWh,
+- (c) tier 3: 1.56 pence per kWh.
+
+(2) Except as provided in paragraphs (3) and (4), the initial tariff for a producer of biomethane, where the tariff start date is on or after 1st July 2022, is calculated in accordance with the formula—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_008)
+
+- where—
+  - (a) A is calculated in accordance with regulation 23, and
+  - (b) B is calculated in accordance with regulation 24 in relation to the assessment date immediately preceding the commencement of the quarter in which the tariff start date falls.
+
+(3) The Secretary of State may—
+
+- (a) review the initial tariff by no later than 1st September in each of 2022, 2023, 2024 , 2025, 2026 and 2027[^key-fd67e18a28418dcb6d6efdf7c854dbab], and
+- (b) as a result of such a review—
+  - (i) increase or decrease the initial tariff, provided that such increase or decrease may only take effect on 1st October immediately following the review (“**the relevant date**”), or
+  - (ii) determine that the initial tariff remains unchanged.
+
+(4) Where the initial tariff is increased or decreased as a result of a review described in paragraph (3), the initial tariff for a producer of biomethane where the tariff start date falls in the quarter beginning with the relevant date, is the initial tariff as so increased or decreased.
+
+### 23. Calculation of A[^key-c5453652e8bc12076bcb571c68d4ed2c]
+
+(1) For the purposes of regulation 22(2), A is calculated as follows.
+
+(2) Where the tariff start date is within any quarter beginning with 1st April, A is the relevant tariff which would have applied had the tariff start date fallen within the previous quarter (“the previous tariff”), adjusted by the percentage increase or decrease in the consumer prices index for the calendar year ending with 31st December immediately preceding the commencement of that quarter, the resulting figure being rounded.
+
+(3) Where the tariff start date is within any quarter beginning with 1st July, 1st October or 1st January, A is the previous tariff.
+
+### 24. Calculation of B[^key-2120a0ba53a8ca75b0d9878b6d609eb6]
+
+(1) For the purposes of regulation 22(2), B is calculated as follows.
+
+(2) The Secretary of State—
+
+- (a) must determine and publish the expenditure threshold figure in relation to each assessment date,
+- (b) may review the published expenditure threshold figure following a review under regulation 22(3)(a), and
+- (c) may, as a result of a review under sub-paragraph (b)—
+  - (i) increase or decrease the published expenditure threshold figure provided that such increase or decrease may only take effect on 1st October immediately following the review, or
+  - (ii) determine that the published expenditure threshold figure remains unchanged.
+
+(3) B is 0 (zero) unless paragraph (4) applies.
+
+(4) B is 0.10 in relation to the assessment date if, as at that assessment date, the forecast for expenditure exceeds the expenditure threshold figure in relation to that assessment date.
+
+### 25. Calculation of subsequent tariffs[^key-c184e14bca981cf4f4c787fa61e2767e]
+
+In relation to a particular financial year, the subsequent tariff is the tariff applicable to the biomethane produced by the participant on the last day of the previous financial year, adjusted by the percentage increase or decrease in the consumer prices index for the calendar year ending with 31st December immediately preceding the commencement of that subsequent financial year, the resulting figure being rounded.
+
+### 26. Tariff tiers[^key-e50ec4125d11262e533ca2f6c3d8c312]
+
+(1) For the purposes of calculating an initial tariff under regulation 22(2), or a subsequent tariff under regulation 25, the applicable tier of that tariff is—
+
+- (a) tier 1, in relation to initial biomethane,
+- (b) tier 2, in relation to secondary biomethane, and
+- (c) tier 3, in relation to tertiary biomethane.
+
+(2) In paragraph (1)—
+
+- (a) “**initial biomethane**” means the amount of eligible biomethane measured in megawatt hours which is injected in a relevant period, up to 60,000 megawatt hours,
+- (b) “**secondary biomethane**” means the amount of eligible biomethane measured in megawatt hours injected in a relevant period in excess of the initial biomethane, up to an additional 40,000 megawatt hours, and
+- (c) “**tertiary biomethane**” means the amount of eligible biomethane measured in megawatt hours injected in a relevant period in excess of the secondary biomethane, subject to paragraph (3).
+
+(3) Where more than 250GWh of biomethane is injected in any relevant period, the initial tariff or the subsequent tariff will apply to the first 250GWh of such biomethane only.
+
+(4) In this regulation—
+
+- “**applicable tier**”, in relation to an initial tariff or a subsequent tariff, means the numbered tier of that tariff, the rate for which applies in determining the initial tariff or subsequent tariff for biomethane production, and
+- “**relevant period**” means a 12 month period beginning with the tariff start date, or with the anniversary of the tariff start date.
+
+### 27. Periodic support payments to participants[^key-1861c56dc3396dfbc731ad495f8ccb7e]
+
+(1) Subject to paragraphs (3) and (6), regulation 7(2) (treatment of grants from public funds) and regulation 28 (reconciliation payments), participants must be paid a periodic support payment in respect of each quarter, or part of a quarter, during which they are a participant, calculated in accordance with the following formula—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_009)
+
+- where—
+  - (a) A is the amount of eligible biomethane in kWh which is injected in that quarter, and
+  - (b) B is the tariff applicable to the eligible biomethane determined in accordance with regulation 21 (calculation and payment of periodic support payments to participants).
+
+(2)[^key-87788b8f809af388ed71de281c9e878b] In this regulation, “**eligible biomethane**” means the amount in kWh of all biomethane or the notified proportion of biomethane injected in a quarter determined in accordance with the following formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2021/1335)
+
+where—
+
+- (a) C is the lower of—
+  - (i) the amount in kWh of all biomethane or the notified proportion of biomethane injected in that quarter, and
+  - (ii) the amount in kWh of biomethane the participant is entitled to supply for injection in that quarterly period under the network entry agreement,
+
+  provided that the sum of the values for C in respect of a scheme year may not exceed the sum of the kWh equivalent of the maximum initial capacity specified under regulation 6(3) (determination of application for registration) and any maximum additional capacity specified under regulation 8 (additional capacity for biomethane production),
+- (b) D is the amount of propane in kWh contained in C,
+- (c) E is—
+  - (i) the heat in kWhth delivered in the relevant quarter to every anaerobic digester which produced the biogas from which the biomethane is made, except any heat contained in feedstock used to produce that biogas, or derived from the combustion of that biogas, or derived from a registered eligible heat pump, or
+  - (ii) such proportion (as may be chosen by the participant and agreed by the Authority) of that heat provided that the proportion is no less than—
+
+    [formula: see source](https://www.legislation.gov.uk/uksi/2021/1335)
+
+    where—
+
+    - (aa) X is the energy content of the biogas contained in biomethane, and
+    - (bb) Y is the energy content of all the biogas produced by that anaerobic digester,
+- (d) F is the amount in kWhth of heat supplied to the biomethane production process in that quarter from any heat source, other than heat generated from the combustion of biogas produced in every anaerobic digester that produced the biogas from which the biomethane is made, or derived from a registered eligible heat pump,
+- (e) G is, the total amount in kWh of electricity supplied to a registered eligible heat pump in that quarter, and
+- (f) H is, subject to regulation 9(6) and paragraph (8), the proportion of biomass contained in the feedstock used in that quarter to produce that biogas.
+
+(3) In paragraph (2), “**notified proportion of biomethane**” means the proportion of biomethane which the participant specifies in a notice to the Authority as the proportion of the total amount of biomethane in kWh injected in a quarter which is to be taken into account when determining the amount of eligible biomethane for that quarter.
+
+(4) The notified proportion of biomethane must be taken into account in determining values C to F in the formula in paragraph (2).
+
+(5) A participant must notify the Authority of the total amount of biomethane in kWh injected in a quarter.
+
+(6) The Authority must not make a periodic support payment to a participant in respect of any proportion of biomethane injected in a quarter where the Authority is aware that an RTF certificate has been issued under the Renewable Transport Fuel Obligations Order 2007[^f00029] in respect of that proportion of biomethane.
+
+(7) Where a participant is registered in respect of additional biomethane which forms part of the eligible biomethane injected in the quarter referred to in paragraph (1) and the tariff for the additional biomethane differs from the tariff for any other biomethane in respect of which the participant is registered, the periodic support payment for the participant for that quarter is the sum of—
+
+- (a) the amount of eligible biomethane in kWh which is original biomethane multiplied by the tariff applicable to that biomethane determined in accordance with regulation 21 (calculation and payment of periodic support payments to participants), and
+- (b) the amount of any eligible biomethane in kWh which is additional biomethane multiplied by the tariff applicable to that biomethane determined in accordance with regulation 21.
+
+(8) Where a participant uses feedstock partly derived from fossil fuel, the periodic support payment calculated in accordance with this regulation must be reduced pro rata to reflect the percentage of the energy content of gas produced by anaerobic digestion from the fossil fuel in that feedstock used by the participant in the relevant quarter.
+
+(9) Periodic support payments in respect of a quarter ending before 1st April 2022 are not payable before that date.
+
+(10) For the purposes of paragraph (6), “**RTF certificate**” has the meaning given in section 127(1) of the Energy Act 2004.
+
+(11)[^key-35d78441fc2300167996f6a4d7d4878e] In this regulation—
+
+- “**registered eligible heat pump**” means an eligible heat pump that is registered by the Authority under regulation 8A.
+
+### 28. Reconciliation payments for biomethane[^key-f66499c87f045e6d1eb040315722fc27]
+
+(1) This regulation applies in relation to biomethane produced for injection, including additional biomethane, where in any payment year less than 50% of the total biogas yield is derived from waste or residue.
+
+(2) Where this regulation applies, the sum of the periodic support payments for a payment year must be reduced to the amount calculated in accordance with the following formula—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_012)
+
+- where—
+  - (a) A is the sum of the periodic support payments for biogas or biomethane for that payment year calculated in accordance with regulation 27 (periodic support payments to producers of biomethane), and
+  - (b) B is the proportion of the total biogas yield for that payment year which is not derived from waste or residue, expressed as a decimal and rounded to four decimal places.
+
+(3) To account for the reduction calculated under paragraph (2), the Authority must—
+
+- (a) offset the amount by which the periodic support payments for that payment year have been reduced against periodic support payments in the subsequent payment year, or
+- (b) where the payment year is the participant’s final payment year, require the participant to repay the amount by which the periodic support payments for that payment year have been reduced.
+
+(4) Where a participant is required to repay an amount under paragraph (3)(b) and fails to make payment in full by the date specified by the Authority, the Authority may recover any outstanding sum as a civil debt.
+
+(5) For the purposes of this regulation—
+
+- “**biogas yield**” means the energy content of any biogas produced by anaerobic digestion which is an ingredient of that biomethane, and
+- “**payment year**” means any 12 month period beginning with the tariff start date, or with the anniversary of the tariff start date.
+
+## PART 6 — Compliance and enforcement: participants
+
+### 29. Power to temporarily withhold periodic support payments to investigate alleged non-compliance[^key-f4bc60c80ecc81a8a05be9d43daef9ef]
+
+(1) Where the Authority has reasonable grounds to suspect that a participant—
+
+- (a) has failed or is failing to comply with an ongoing participant obligation, or
+- (b) has been registered as a result of the provision of information which was incorrect in a material particular,
+
+and the Authority requires time to investigate, it may withhold all or part of that participant’s periodic support payments pending the outcome of that investigation.
+
+(2) Within 21 days of making a decision under paragraph (1) to withhold periodic support payments, the Authority must give a notice to the participant specifying—
+
+- (a) the respect in which the Authority suspects the participant has failed or is failing to comply with an ongoing participant obligation, or a description of the information which the Authority suspects to be incorrect and upon which the registration was based,
+- (b) the reason why periodic support payments are being withheld,
+- (c) the date from which periodic support payments are being withheld,
+- (d) the next steps in the investigation, and
+- (e) details of the participant’s right of review under regulation 62.
+
+(3) The Authority’s investigation must be commenced and completed as soon as is reasonably practicable.
+
+(4) The Authority may—
+
+- (a) request such information from the participant as it reasonably requires to enable it to carry out its investigation, and
+- (b) withhold a participant’s periodic support payments for a maximum period of six months beginning with the date specified in the notice in accordance with paragraph (2)(c).
+
+(5) The Authority must review its decision to withhold a participant’s periodic support payments every 30 days after the date of the notice required by paragraph (2).
+
+(6) Following a review pursuant to paragraph (5), the Authority must give a notice to the participant providing an update on—
+
+- (a) the progress of any investigation, and
+- (b) whether the Authority intends to continue to withhold periodic support payments.
+
+(7) For the purposes of calculating the period specified in paragraph (4)(b), no account is to be taken of any period attributable to the participant’s delay in providing the information requested by the Authority under paragraph (4)(a).
+
+(8) For the purposes of paragraph (7), a participant is not to be treated as having delayed in providing information if that participant provides the information within two weeks of a request from the Authority.
+
+(9) Subject to paragraph (11), immediately upon conclusion of its investigation under this regulation, the Authority must give a notice to the participant specifying—
+
+- (a) the outcome of the investigation,
+- (b) the action the Authority proposes to take under this Part, and
+- (c) details of the participant’s right of review under regulation 62.
+
+(10) Subject to paragraph (11), where the Authority concludes that there has been no breach of an ongoing participant obligation or no provision of incorrect information, it must resume payment of periodic support payments and pay to the participant any periodic support payments withheld during the course of its investigation.
+
+(11) Within the period specified in paragraph (4)(b), the Authority must either resume payment of periodic support payments or give a notice to the participant under one or more of the following—
+
+- (a) regulation 30 (power to withhold periodic support payments: further provisions),
+- (b) regulation 31 (power to reduce a participant’s periodic support payments),
+- (c) regulation 32 (revocation of registration),
+- (d) regulation 33 (power to correct the level of tariff being paid to a participant),
+- (e) regulation 34 (overpayment notices and offsetting).
+
+### 30. Power to withhold periodic support payments: further provisions[^key-f16732648fb5fdd8d741fce4252d5917]
+
+(1) Where the Authority—
+
+- (a) is satisfied that a participant—
+  - (i) has failed or is failing to comply with an ongoing participant obligation, or
+  - (ii) has been registered as a result of the provision of information which was incorrect in a material particular, or
+- (b) has reasonable grounds to suspect the matters in sub-paragraph (a)(i) or (ii), and is unable to conclude its investigation under regulation 29 within six months of the date specified in the notice in accordance with paragraph (2)(c) of that regulation as a result of the participant’s delay in providing any information reasonably requested by it,
+
+it may withhold all or part of that participant’s periodic support payments.
+
+(2) For the purposes of paragraph (1)(a)(i) and regulations 31(1) and 32(1)(a), the Authority is satisfied that a participant has failed or is failing to comply with a requirement referred to in—
+
+- (a) regulation 9(13) (ongoing participant obligations in relation to digestate), or
+- (b) regulation 10(1)(j) (ongoing participant obligations in relation to planning permission, environmental permits, etc.),
+
+if it receives notification that the participant is in breach of that requirement from a court, a tribunal, or any other person responsible for enforcing the requirement.
+
+(3) Within 21 days of making a decision under paragraph (1) to withhold periodic support payments, the Authority must give a notice to the participant specifying—
+
+- (a) where there has been a failure to comply with an ongoing participant obligation, the respect in which the Authority is satisfied that the participant has failed or is failing to comply,
+- (b) where the participant was registered as a participant as a result of the provision of incorrect information, details of the respect in which the information was incorrect,
+- (c) where paragraph (1)(b) applies, details of the respect in which the participant delayed in providing information requested by the Authority,
+- (d) the amount of periodic support payments that the Authority intends to withhold in respect of each quarter,
+- (e) the date from which periodic support payments are being withheld,
+- (f) where applicable, the steps that the participant must take to satisfy the Authority that it is complying with the ongoing participant obligation,
+- (g) where applicable, the steps that the participant must take to satisfy the Authority that, notwithstanding the provision of incorrect information, the participant should continue to be registered,
+- (h) where applicable, the information the participant must provide to the Authority,
+- (i) the date by which the steps referred to in sub-paragraph (f) or (g) must be completed or the information mentioned in sub-paragraph (h) must be provided,
+- (j) the consequences of the participant failing to take the steps mentioned in sub-paragraph (f) or (g), or failing to provide the information mentioned in sub-paragraph (h), by the date specified, and
+- (k) details of the participant’s right of review under regulation 62.
+
+(4) The Authority may extend the time specified under paragraph (3)(i) where it is satisfied that it is reasonable to do so.
+
+(5) Where the Authority is satisfied that the participant has—
+
+- (a) taken the steps specified in the notice in accordance with paragraph (3)(f) or (g), whether on the basis of information provided by the participant or, in the case of a failure to comply with a requirement referred to in regulation 9(13) or 10(1)(j), on the basis of information provided by a person responsible for enforcing that requirement, or
+- (b) provided the information specified in the notice in accordance with paragraph (3)(h),
+
+as applicable, within the time specified, it must resume payment of the periodic support payments.
+
+(6) If, within six months of receipt by the participant of a notice sent under paragraph (3), the Authority is satisfied that the participant has taken the steps specified in that notice, the Authority may pay, within 28 days of being so satisfied, all periodic support payments withheld under this regulation.
+
+### 31. Power to reduce a participant’s periodic support payments[^key-de894fb1accdf505261285d8767e839b]
+
+(1) Where the Authority is satisfied that there has been a material or repeated failure by a participant to comply with an ongoing participant obligation during any quarter and the periodic support payment for that quarter has not been paid, the Authority may take one or more of the following actions—
+
+- (a) reduce the participant’s periodic support payment by an amount which corresponds to the proportion of that quarter during which the participant failed so to comply,
+- (b) reduce a participant’s periodic support payment for that quarter or for the quarter immediately following.
+
+(2) Within 21 days of making a decision under paragraph (1) to reduce a periodic support payment, the Authority must give a notice to the participant specifying, as applicable—
+
+- (a) the respect in which the participant has failed to comply with an ongoing participant obligation,
+- (b) the period in respect of which any periodic support payment is to be reduced,
+- (c) the level of any reduction, and
+- (d) details of the participant’s right of review under regulation 62.
+
+(3) In reducing a periodic support payment in accordance with paragraph (1)(b), the Authority may determine the level of the reduction (taking into consideration all factors which it considers relevant) up to a maximum reduction of 10% of the periodic support payment in question.
+
+### 32. Revocation of registration[^key-f9bdf94e50fa182425bbb3b8405bc5d2]
+
+(1) Where the Authority is satisfied—
+
+- (a) that there has been a material or repeated failure by a participant to comply with an ongoing participant obligation,
+- (b) a participant has been registered as a result of the provision of information which was incorrect in a material particular, or
+- (c) there has been a failure to comply with a notice under regulation 30(3),
+
+it may take either of the actions in paragraph (2).
+
+(2) The actions in this paragraph are that the Authority may—
+
+- (a) revoke that participant’s registration, or
+- (b) in the case of a producer of biomethane who is registered as a participant more than once, revoke all of their registrations.
+
+(3) Before revoking a registration under this regulation, the Authority must give a notice to the participant specifying—
+
+- (a) the reason for the intended revocation including details of the respect in which the participant has failed to comply or the information was incorrect,
+- (b) an explanation of the effect of the revocation, and
+- (c) details of the participant’s right of review under regulation 62.
+
+(4) Where a participant’s registration has been revoked, the Authority—
+
+- (a) must update the central register accordingly, and
+- (b) may refuse to register that person or a connected person as a participant at any future date.
+
+### 33. Power to correct the level of tariff being paid to a participant[^key-f444d2fb7efade806c3e227477fcc1f8]
+
+(1) Where periodic support payments are being paid to a participant in accordance with a guaranteed tariff, if the Authority is satisfied that the information upon which the tariff guarantee was based was incorrect in a material particular it may—
+
+- (a) revoke that participant’s registration, or
+- (b) reduce the level of periodic support payments to the level which would have applied had the tariff guarantee not been granted.
+
+(2) Before revoking a registration or reducing the level of periodic support payments under this regulation, the Authority must give a notice to the participant specifying, as applicable—
+
+- (a) the reason for the intended revocation or reduction including details of the respect in which the information upon which the tariff guarantee was based was incorrect,
+- (b) an explanation of the effect of the revocation,
+- (c) the level to which the participant’s future periodic support payments will be reduced,
+- (d) the basis on which those payments are calculated, and
+- (e) details of the participant’s right of review under regulation 62.
+
+### 34. Overpayment notices and offsetting[^key-0dd50c27598d6984c52baf2647a859d8]
+
+(1) Where the Authority is satisfied that a participant has received periodic support payments which—
+
+- (a) exceed that participant’s entitlement,
+- (b) were paid whilst there was a failure by that person to comply with an ongoing participant obligation, or following such a failure, or
+- (c) were paid as a result of the provision of information which was incorrect in a material particular,
+
+it may take one of the actions set out in paragraph (2).
+
+(2) The actions in this paragraph are that the Authority may—
+
+- (a) require a participant who has received periodic support payments to which paragraph (1) applies, to repay a specified sum in relation to some or all of those payments, or
+- (b) offset a specified sum in relation to some or all of those payments against future periodic support payments.
+
+(3) Before taking either of the actions set out in paragraph (2), the Authority must give a notice to the participant specifying—
+
+- (a) the sum it is seeking to recover,
+- (b) the basis on which that sum has been calculated,
+- (c) whether the specified sum must be repaid or will be offset,
+- (d) where applicable, the date by which the sum must be repaid,
+- (e) where applicable, the amount which will be offset in each quarter and the time it will take for the sum to be recovered, and
+- (f) details of the participant’s right of review under regulation 62.
+
+(4) Where a participant is required to repay a specified sum under this regulation and fails to make payment in full by the date specified under paragraph (3)(d), the Authority may recover any outstanding sum as a civil debt.
+
+### 35. Revocation of sanctions[^key-49f96578673bb01b7fa36a5cdf325ec7]
+
+(1) The Authority may at any time revoke a sanction imposed in accordance with any of regulations 29 to 34 if it is satisfied that—
+
+- (a) there was an error involved in the original imposition of the sanction, or
+- (b) it is just and equitable in the particular circumstances of the case to do so.
+
+(2) Within 21 days of a decision to revoke a sanction, the Authority must give a notice to the participant specifying—
+
+- (a) the sanction which has been revoked,
+- (b) the reason for the revocation,
+- (c) what action if any the Authority proposes to take in relation to any loss reasonably incurred by the participant as a result of the imposition of the sanction including the time within which any action will be taken, and
+- (d) details of someone within the Authority whom the participant may contact if they are not satisfied with the proposals made by the Authority under sub-paragraph (c).
+
+### 36. Power to inspect equipment used to produce biomethane[^key-bd28279d04a9af27923936628d237479]
+
+(1) The Authority or its authorised agent may request access without notice at any reasonable hour to inspect equipment used to produce biomethane and its associated infrastructure to do any one or more of the following—
+
+- (a) verify that the participant is complying with all applicable ongoing participant obligations,
+- (b) verify meter readings,
+- (c) take samples and remove them from the premises for analysis,
+- (d) take photographs, measurements or video or audio recordings, and
+- (e) ensure that there is no other contravention of these Regulations.
+
+(2) Within 21 days of a request made under paragraph (1) being, in the opinion of the Authority, unreasonably refused the Authority must give a notice to the participant specifying—
+
+- (a) the reason why the Authority considers the refusal to be unreasonable,
+- (b) the consequences of the refusal, including potential sanctions for failing to comply with the ongoing participant obligation imposed by regulation 10(1)(f) (ongoing participant obligation to allow access), and
+- (c) details of the participant’s right of review under regulation 62.
+
+### 37. Application of this Part in relation to former participant[^key-4c277d439e078bc47e2f435ab52895bb]
+
+Where a producer of biomethane (“**P**”) ceases to be a participant by virtue of the operation of regulation 16 (withdrawal of participant), or regulation 32 (revocation of registration), this Part applies to P as if P were still a participant, with the following modifications—
+
+- (a) regulation 32 does not apply,
+- (b) regulation 33 does not apply to the extent that it provides for the Authority to revoke a participant’s registration,
+- (c) regulation 34 does not apply to the extent that it provides for the Authority to offset a specified sum against future periodic support payments,
+- (d) regulation 36 applies, but as if—
+  - (i) in paragraph (1)(a), for the words “is complying” there were substituted “had complied”, and
+  - (ii) in paragraph (1)(e), for the word “is” there were substituted “was”.
+
+## PART 7 — The levy
+
+### CHAPTER 1 — Introductory
+
+#### 38. Scheme suppliers, provisionally exempt suppliers, and exempt suppliers[^key-97e0d93b76b7fad5264100e33d7c50e5]
+
+(1) Subject to the following paragraphs, a licensed gas supplier (“**GS**”) who is a fossil fuel supplier[^f00030] is a scheme supplier.
+
+(2) GS is not a scheme supplier in relation to the scheme year beginning with 1st April 2022, or a subsequent scheme year, where the Authority determines in accordance with paragraph (10) that at least 95% of the gas supplied by GS in the scheme year was certified biomethane and that they are an exempt supplier in relation to that scheme year.
+
+(3) Where GS considers it is likely that they will be an exempt supplier in relation to a scheme year (the “relevant scheme year”), GS must—
+
+- (a) notify the Authority of that fact—
+  - (i) in relation to the scheme year beginning with 1st April 2022, by the tenth working day after the day on which these Regulations come into force,
+  - (ii) in relation to the scheme year beginning with 1st April 2023 and any subsequent scheme year, by the relevant date specified in the scheme schedule,
+- (b) provide the Authority with such other information as the Authority may request in support of that notification, and
+- (c) provide written confirmation from a responsible officer of GS that the information provided in accordance with sub-paragraphs (a) and (b) is correct.
+
+(4) Where the Authority receives a notification referred to in paragraph (3)(a)—
+
+- (a) it may instruct, or it may require GS to instruct, a person who is not a connected person in relation to GS to consider the information provided in accordance with paragraph (3)(a) and (b) and prepare a report (an “assurance report”),
+- (b) GS must provide to the Authority a copy of any assurance report prepared on their instruction, and the Authority must provide to GS a copy of any assurance report prepared on its instruction,
+- (c) having considered the information provided in accordance with paragraph (3)(a) and (b), and any assurance report prepared in accordance with sub-paragraph (a), it must determine whether it is likely that GS will be an exempt supplier in relation to the relevant scheme year, and notify GS of that determination—
+  - (i) in relation to the scheme year beginning with 1st April 2022, by 1st March 2022,
+  - (ii) in relation to the scheme year beginning with 1st April 2023 and subsequent scheme years, by 31st October preceding the start of the relevant scheme year.
+
+(5) An assurance report must comply with such requirements as the Authority may specify.
+
+(6) Where the Authority determines it is likely that GS will be an exempt supplier in relation to the relevant scheme year, GS is a provisionally exempt supplier in relation to that scheme year, and—
+
+- (a) subject to paragraph (12), GS is not required to comply with the requirements on scheme suppliers set out in these Regulations, apart from this regulation and regulations 46 to 48 (additional obligations on scheme suppliers) in relation to the relevant scheme year,
+- (b) the Authority may not commence or continue compliance or enforcement action under Part 10 in relation to any breach of these Regulations by GS, apart from this regulation and regulations 46 to 48, which occurred in relation to the relevant scheme year,
+- (c) GS is treated as a scheme supplier for the purposes of regulations 46 to 48, and
+- (d) the notification required by paragraph (4)(c) must state that GS—
+  - (i) is a provisionally exempt supplier in relation to the relevant scheme year, and
+  - (ii) is not required to comply with the requirements on scheme suppliers set out in these Regulations in relation to the relevant scheme year, apart from this regulation and regulations 46 to 48.
+
+(7) Where the Authority determines it is not likely that GS will be an exempt supplier in relation to the relevant scheme year, the notification required by paragraph (4)(c) must state that GS is not a provisionally exempt supplier in relation to the relevant scheme year.
+
+(8) Where at least 95% of the gas supplied by GS in a scheme year was certified biomethane GS must by 1st July following the end of that scheme year—
+
+- (a) notify the Authority of that fact,
+- (b) provide the Authority with evidence, supplied under an approved certification scheme, that at least 95% of the gas supplied by them in that scheme year was certified biomethane, and
+- (c) notify the Authority of the sum of their gas supply data for each day of that scheme year.
+
+(9) Where GS was a provisionally exempt supplier in relation to a scheme year and less than 95% of the gas supplied by them in that scheme year was certified biomethane GS must by 1st July following the end of that scheme year—
+
+- (a) notify the Authority of that fact, and
+- (b) provide the Authority with such information in relation to the gas supplied by them in that scheme year as the Authority may request.
+
+(10) Where the Authority receives a notification and the information required by paragraph (8)—
+
+- (a) it must determine, on the basis of that information, whether at least 95% of the gas supplied by GS in the scheme year was certified biomethane,
+- (b) it must notify GS of that determination by the relevant date specified in the scheme schedule,
+- (c) where the Authority determines that at least 95% of the gas supplied by GS in the scheme year was certified biomethane—
+  - (i) GS is exempt from the requirements of these Regulations (an “exempt supplier”) in relation to that scheme year, and
+  - (ii) the notification required by sub-paragraph (b) must state that GS is an exempt supplier in relation to that scheme year,
+- (d) where the Authority determines that less than 95% of the gas supplied by GS in the scheme year was certified biomethane, the notification required by sub-paragraph (b) must state that GS is not an exempt supplier in relation to the scheme year.
+
+(11) Where GS was a provisionally exempt supplier in relation to a scheme year and—
+
+- (a) provides a notification required by paragraph (9), and
+- (b) does not provide a notification and information in accordance with paragraph (8),
+
+in relation to that scheme year, the Authority must notify GS that they are not an exempt supplier in relation to that scheme year by the relevant date specified in the scheme schedule.
+
+(12) Where GS—
+
+- (a) was a provisionally exempt supplier in relation to a scheme year, and
+- (b) is notified in accordance with paragraph (10)(b) or (11) that they are not an exempt supplier in relation to that scheme year,
+
+GS is not required to comply with the requirements on scheme suppliers set out in this Part, apart from this regulation, in relation to that scheme year.
+
+(13) Where GS—
+
+- (a) was not a provisionally exempt supplier in relation to a scheme year, and
+- (b) is notified in accordance with paragraph (10)(b) that they are an exempt supplier in relation to that scheme year,
+
+GS is treated, from the date of that notification, as an exempt supplier in relation to that scheme year.
+
+(14) The Secretary of State must—
+
+- (a) approve one or more certification schemes for the purposes of these Regulations,
+- (b) publish the name of any certification scheme which is approved, and the date from which it is approved, and
+- (c) where a certification scheme ceases to be approved, publish that fact together with the date on which the certification scheme ceased to be approved.
+
+(15) For the purposes of this regulation—
+
+- (a) “**approved certification scheme**” means a certification scheme which is approved by the Secretary of State in accordance with paragraph (14)(a),
+- (b) “**certification scheme**” means a scheme for the purpose of certifying biomethane supply,
+- (c) “**certified biomethane**”, in relation to gas supplied in a scheme year, means biomethane—
+  - (i) injected in that scheme year, and
+  - (ii) the supply of which is certified under an approved certification scheme,
+- (d) “**company**” includes any body corporate,
+- (e) “**gas supply data**”, in relation to a licensed gas supplier, means the volume of gas supplied by them on any given day,
+- (f) “**responsible officer**”, in relation to a licensed gas supplier, means a person who is—
+  - (i) a director of the licensed gas supplier within the meaning of section 250 of the Companies Act 2006[^f00031], or
+  - (ii) where there is no person falling within paragraph (i) in relation to the licensed gas supplier, a person exercising management control in relation to the licensed gas supplier.
+
+#### 39. Calculation and publication of the levy rate[^key-24a0496c6954934cf3ae496ef9b908d6]
+
+(1) The Secretary of State must calculate the levy rate for each scheme year, expressed in pence per meter point per day (“the levy rate”), as follows—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_013)
+
+where—
+
+- (a) A is the adjustment factor, as determined by the Secretary of State, used to predict the likely change in the number of meter points over the next scheme year,
+- (b) D is the number of days in that scheme year,
+- (c) LS is the levy size for that scheme year, calculated as follows—[^key-4ac07a77a7ba3f2524e28bcc81c4e277]
+
+  [image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_014)
+
+where—
+
+- (i) SB<sub>y</sub> is the projected scheme expenditure for that scheme year, as determined by the Secretary of State,
+- (ii) AA<sub>y</sub> is the Authority’s forecasted administrative costs for that scheme year,
+- (iii) TY<sub>y-2</sub> is the difference between the forecasted year end surplus and the actual year end surplus for the scheme year before the previous scheme year (“Y-2”) but excluding any year end deficit for Y-2 (“the true-up”),
+- (iv) TD<sub>y-2</sub> is any year end deficit for Y-2,
+- (v) QL<sub>y+1</sub> is the quarterly lag uplift in relation to the following scheme year (“Y+1”), being 25% of the difference between the projected scheme expenditure for Y+1 and the previous scheme year,
+- (vi) H<sub>y</sub> is the headroom figure for that scheme year, published in accordance with paragraph (4)(g),
+- (vii) I<sub>y-2</sub> is the sum of interest—
+  - (aa) accrued on money held in the bank account referred to in regulation 40(5),
+  - (bb) paid in accordance with regulation 54(1)(a)(i), (ii) or (iii),
+  - (cc) payable in any scheme year in accordance with regulation 54(1)(a)(i), (ii) or (iii) and recovered by the Authority under regulation 58(g),
+
+  in Y-2,
+- (viii) SD<sub>y-1</sub> is the forecasted year end surplus from the previous scheme year, and if no surplus is forecasted, the value for SD<sub>y-1</sub> is 0 (zero),
+- (ix) the variables in paragraphs (i) to (viii) are expressed in pence,
+- (x) in the calculation for the first scheme year, the value for QL<sub>y+1</sub> is 0 (zero),
+- (xi) in the calculation for the first scheme year, and the calculation for the scheme year beginning with 1st April 2022, the value for each of TY<sub>y-2</sub>, TD<sub>y-2</sub>, and SD<sub>y-1,</sub> is 0 (zero),
+- (xii) in the calculation for the first scheme year, the value for SB<sub>y</sub> is the projected scheme expenditure in relation to relevant producers (within the meaning given in regulation 17) for both the first scheme year and the first quarter of the scheme year beginning with 1st April 2022,
+- (xiii) “year end surplus” and “year end deficit” mean the amount by which the sum of all amounts received by the Authority under this Part and Parts 9 and 10 excluding—
+  - (aa) amounts received under regulation 42 (levy credit payments),
+  - (bb) interest accrued on money held in the bank account referred to in regulation 42(4) (interest on levy credit payments),
+  - (cc) amounts received under regulation 57 (penalty notices),
+  - (dd) amounts recovered under regulation 58(f) (recovery of unpaid financial penalties as a civil debt), and
+  - (ee) in the case of a forecast year end surplus or year end deficit, interest accrued on money held in the bank account referred to in regulation 40(5) (interest on quarterly levy payments),
+
+  exceeds, or is exceeded by (as the case may be), the sum of all amounts expended by the Authority under these Regulations in relation to that scheme year,
+
+provided that LS may not exceed the maximum levy amount for that scheme year determined and published under paragraph (6),
+
+- (d) M—
+  - (i) in relation to the first scheme year, is the total number of meter points in the market on 31st May 2021,
+  - (ii) in relation to the scheme year beginning with 1st April 2022, is the total number of meter points in the market on 31st May 2021, but excluding any meter points served by a scheme supplier where the Secretary of State determines it is likely that at least 95% of the gas supplied by them in the scheme year beginning with 1st April 2022 will be certified biomethane, and
+  - (iii) in relation to the scheme year beginning with 1st April 2023 and each subsequent scheme year, is the total number of meter points in the market on 31st July preceding the start of that scheme year or such later date as the Secretary of State may determine, but excluding any meter points served by provisionally exempt suppliers in that scheme year.
+
+(2) The Secretary of State must publish the levy rate—
+
+- (a) for the first scheme year, by 30th November 2021,
+- (b) for the scheme year beginning with 1st April 2022, by 30th November 2021,
+- (c) for the scheme year beginning with 1st April 2023 and each subsequent scheme year, by 31st December in the preceding scheme year.
+
+(3) The Secretary of State may review the levy rate—
+
+- (a) for the first scheme year, and
+- (b) for the scheme year beginning with 1st April 2022,
+
+and, may, as a result of such a review, increase or decrease the levy rate provided that such increase or decrease must be published by the Secretary of State by 1st March 2022.
+
+(4) Subject to paragraph (5), the Secretary of State must publish the following, in relation to the first scheme year and the scheme year beginning with 1st April 2022, by 30th November 2021, and in relation to the scheme year beginning with 1st April 2023 and each subsequent scheme year, by 31st December in the preceding scheme year—
+
+- (a) the adjustment factor referred to in paragraph (1)(a),
+- (b) the projected scheme expenditure referred to in paragraph (1)(c)(i),
+- (c) the forecasted year end surplus from the previous scheme year,
+- (d) the Authority’s forecasted administrative costs, including its estimated administrative costs of carrying out a mutualisation process,
+- (e) the true-up for the scheme year before the previous scheme year (“Y-2”), including any year end deficit for Y-2,
+- (f) the quarterly lag uplift, being 25% of the difference between the projected scheme expenditure for that scheme year and the previous scheme year,
+- (g) the amount which the Secretary of State determines is necessary to mitigate against uncertainties or unexpected events that would result in the funds available to the Authority for the purposes of the Scheme for that scheme year being less than the amount required by the Authority to make periodic support payments in relation to that scheme year (“the headroom figure”),
+
+and where any value so published is increased or decreased as a result of a review carried out in accordance with paragraph (3), must publish the revised value by 1st March 2022.
+
+(5) The value of the following is 0 (zero)—
+
+- (a) the forecasted year end surplus from the previous scheme year, in relation to the first scheme year, and the scheme year beginning with 1st April 2022, and
+- (b) the true-up for the scheme year before the previous scheme year, in relation to the first scheme year, and the scheme years beginning with 1st April 2022 and 2023.
+
+(6) The Secretary of State—
+
+- (a) must, before 30th November 2021, determine and publish the maximum amount that can be collected under this Part in any one scheme year (“the maximum levy amount”), expressed in pounds (£) and calculated as follows—
+
+  [image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_015)
+
+  where—
+
+  - (i) SB is the projected scheme expenditure for the scheme year beginning with 1st April 2028,
+  - (ii) AA is the Authority’s forecasted administrative costs for that scheme year,
+  - (iii) H is the forecasted headroom figure for that scheme year,
+  - (iv) QL<sub>y+1</sub> is the quarterly lag uplift, within the meaning given in paragraph (4)(f), in relation to the scheme year beginning with 1st April 2029,
+- (b) may review the maximum levy amount at any time,
+- (c) may, as a result of such a review, increase or decrease the maximum levy amount, provided that such increase or decrease—
+  - (i) may only take effect at the start of a scheme year, and
+  - (ii) must be published by the Secretary of State as soon as reasonably practicable.
+
+(6A)[^key-3b049e2f0af134d9830cfd0c8e815d72] Where the Secretary of State reviews the maximum levy amount in accordance with paragraph (6)(b), the Secretary of State must calculate the new maximum levy amount in accordance with the formula set out in paragraph (6)(a) subject to the following modifications—
+
+- (a) SB is the projected scheme expenditure for the scheme year with the largest projected scheme expenditure,
+- (b) QL<sub>y+1</sub> is the quarterly lag uplift, within the meaning given in paragraph (4)(f), in relation to the scheme year following that scheme year.
+
+(7) The Authority must provide to the Secretary of State, in such manner and form and by such date as the Secretary of State may request, such information as the Authority may hold and the Secretary of State may require for the purpose of calculating the levy rate and the maximum levy amount in accordance with this regulation.
+
+(8) In this regulation references to the Authority’s administrative costs are references to the costs incurred by the Authority in connection with the performance of its functions under these Regulations.
+
+### CHAPTER 2 — Quarterly levy payments and levy credit payments
+
+#### 40. Calculation and notification of quarterly levy payments[^key-15e8ad5c881549d2c2d7e41b7f6705ee]
+
+(1) The Authority must calculate the quarterly levy payment payable by a scheme supplier (the “quarterly levy payment”), in relation to each quarter of the scheme year beginning with 1st April 2022 and subsequent scheme years, as follows—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_016)
+
+where—
+
+- (a) LR is the levy rate for the scheme year in which the previous quarter fell,
+- (b) M—
+  - (i) in relation to the quarter beginning with 1st April 2022, is the sum of the meter point data for that scheme supplier for each day of the period beginning with 30th November 2021 and ending with 31st March 2022, as notified or determined under regulation 48,
+  - (ii) in relation to the quarter beginning with 1st July 2022 and subsequent quarters, is the sum of the meter point data for that scheme supplier for each day of the previous quarter, as notified or determined under regulation 48.
+
+(2) The Authority must notify a scheme supplier, by the relevant dates specified in the scheme schedule, of the quarterly levy payments payable by that supplier.
+
+(3) The notification referred to in paragraph (2) must—
+
+- (a) specify—
+  - (i) the amount of the quarterly levy payment payable by the supplier,
+  - (ii) the date by which the amount must be paid, being a date not less than 14 days after the date of the notification, and
+  - (iii) details of how the payment must be made, and
+- (b) include information about the matters mentioned in—
+  - (i) regulation 54 (interest on late payments), and
+  - (ii) regulation 55 (draw down of credit cover).
+
+(4) A scheme supplier must pay quarterly levy payments to the Authority in accordance with any notification referred to in paragraph (2).
+
+(5) Amounts paid to the Authority under this regulation must be paid into a bank account with the Authority as the beneficiary.
+
+#### 41. Calculation of credit cover requirement[^key-df9026ed4a5212b1b11dfb02d95175fc]
+
+(1) Subject to paragraph (2), the Authority must calculate the credit cover requirement in relation to a scheme supplier, for each quarter of the scheme year beginning with 1st April 2022 and subsequent scheme years, as follows—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_017)
+
+where—
+
+- (a) LR is the levy rate for the scheme year in which the previous quarter fell,
+- (b) M—
+  - (i) in relation to the quarter beginning with 1st April 2022, is the sum of the meter point data for that supplier for each day of the period beginning with 31st August 2021 and ending with 31st December 2021, as notified or determined under regulation 48,
+  - (ii) in relation to the quarter beginning with 1st July 2022 and subsequent quarters, is the sum of the meter point data for that supplier for each day of the quarter beginning six months before the start of that quarter, as notified or determined under regulation 48.
+
+(2) Where a licensed gas supplier becomes a scheme supplier on or after 1st April 2022—
+
+- (a) the Authority is not required to calculate the credit cover requirement in relation to that supplier for the quarter in which they become a scheme supplier (“the first quarter”), and
+- (b) the Authority must calculate the credit cover requirement in relation to that supplier, for the quarter (the “second quarter”) following the first quarter and the quarter (the “third quarter”) following the second quarter[^key-3c3bb08448e58dc0f8752788157e96dc], in accordance with paragraph (1) but with the modification that “M” is calculated as follows—
+
+  [image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_018)
+
+  where—
+
+  - (i) AM is the sum of the meter point data for that supplier which is available for the first quarter,
+  - (ii)[^key-39eb83fae1fbd43e8fb1709db4765744] DQ is—
+    - (aa) in respect of the credit cover requirement for the second quarter, the number of days remaining in the first quarter from and including the date on which the supplier becomes a scheme supplier; or
+    - (bb) in respect of the credit cover requirement for the third quarter, the number of days in the first quarter.
+  - (iii) DA is the number of days in the first quarter for which meter point data for that supplier is available.
+
+#### 42. Levy credit payments[^key-f6f64cc7b9c1d87e8160b9849e9e576b]
+
+(1) In relation to the scheme year beginning with 1st April 2022 and subsequent scheme years, the Authority must notify a scheme supplier of that scheme supplier’s credit cover requirement for each quarter—
+
+- (a) no later than 21 days before the start of that quarter, or
+- (b) where regulation 41(2)(b) or paragraph (3A)[^key-e91a44438f50b1bfcb6dd27938d5b6c2] applies, as soon as reasonably practicable.
+
+(2) Where a scheme supplier’s credit cover requirement for a quarter exceeds their existing credit cover, or where the scheme supplier has no existing credit cover, the notification referred to in paragraph (1) must—
+
+- (a) specify—
+  - (i) the amount (the “deficit amount”) by which the scheme supplier’s credit cover requirement for the quarter exceeds their existing credit cover,
+  - (ii) the date by which the scheme supplier must pay the deficit amount to the Authority, being a date not less than 14 days after the date on which the notification referred to in paragraph (1) is given, and no later than seven days before the start of that quarter, and
+  - (iii) details of how the payment (the “levy credit payment”) must be made, and
+- (b) include information about the matters mentioned in—
+  - (i) regulation 43 (letters of credit), and
+  - (ii) regulation 55 (draw down of credit cover).
+
+(3) Subject to regulation 43(1) and (2), a scheme supplier—
+
+- (a) must pay any levy credit payment to the Authority in accordance with the notification referred to in paragraph (1),
+- (b) where—
+  - (i) they have provided an acceptable letter of credit in respect of all or part of their credit cover requirement for a quarter, and
+  - (ii) that letter of credit ceases to constitute an acceptable letter of credit,
+
+  must, within 14 days of the letter of credit ceasing to constitute an acceptable letter of credit, pay such amount to the Authority as is necessary so as to ensure that their existing credit cover for that quarter is no less than their credit cover requirement for that quarter,
+- (c) where the amount of their existing credit cover is reduced as a result of a draw down to pay the whole or any part of a mutualisation payment in accordance with regulation 55 must, within 14 days of the date on which their existing credit cover is so reduced, pay such amount to the Authority as is necessary to ensure that their existing credit cover for the quarter in which the draw down took place is no less than their credit cover requirement for that quarter.
+
+(3A)[^key-9493145b5c31b3e10a4e6cacfb7b6693] The Authority must give a scheme supplier a new notification under paragraph (1) with an updated deficit amount where—
+
+- (a) the Authority has previously given a notification to the supplier under paragraph (1) notifying them of their credit cover requirement for a quarter,
+- (b) before the start of that quarter the supplier’s existing credit cover is reduced as a result of a draw down to pay the whole or any part of a mutualisation payment in accordance with regulation 55, and
+- (c) as a result of the draw down, either—
+  - (i) the deficit amount specified in the notification is no longer sufficient to ensure that the supplier’s credit cover for that quarter covers their credit cover requirement, or
+  - (ii) the notification does not specify a deficit amount but the supplier’s existing credit cover is no longer sufficient to cover their credit cover requirement for that quarter.
+
+(4) Amounts paid to the Authority under this regulation must be paid into a bank account with the Authority as the beneficiary.
+
+(5) Where a scheme supplier’s existing credit cover exceeds their credit cover requirement, the notification referred to in paragraph (1) must—
+
+- (a) specify the amount (“**the excess amount**”) by which the scheme supplier’s existing credit cover exceeds their credit cover requirement, and
+- (b) where any part of the scheme supplier’s existing credit cover has been paid to the Authority and the excess amount would not be a de minimis amount if payable under regulation 45(2)(a)[^key-e23d6d01abc52818dffafe79739b4d2d], include information about the matters mentioned in regulation 45 (repayment of levy credit payments).
+
+(5A)[^key-945d35f9cca96aa8a4a493f1589fa529] Paragraph (5) does not apply where regulation 43A(2)(b) applies in relation to a scheme supplier’s credit cover requirement and any excess amount would be a de minimis amount if payable under regulation 45(2)(a).
+
+(6) For the purposes of this regulation, “**existing credit cover**”, in relation to a scheme supplier, means the total amount that supplier has—
+
+- (a) paid to the Authority in accordance with this regulation, and which continues to be held by the Authority, and
+- (b) provided to the Authority in the form of a letter of credit in accordance with regulation 43, and which continues to be an acceptable letter of credit.
+
+#### 43. Letters of credit[^key-a54bd61457399004c5a8a9f9212596b6]
+
+(1) A scheme supplier may provide an acceptable letter of credit in respect of all or part of their credit cover requirement.
+
+(2) Where a scheme supplier—
+
+- (a) provides an acceptable letter of credit by the date specified in the notice referred to in regulation 42(1), or
+- (b) provides an acceptable letter of credit in the circumstances described in regulation 42(3)(b) or (c),
+
+the amount the scheme supplier must pay to the Authority in relation to their credit cover requirement under regulation 42(3)(a), (b) or (c) (as applicable) is reduced by the amount specified in the letter of credit whilst it constitutes an acceptable letter of credit.
+
+(3) A letter of credit is acceptable where it is—
+
+- (a) issued by a person who holds a required credit rating,
+- (b) valid for at least the quarter to which it relates and the four weeks immediately following the end of that quarter,
+- (c) issued on such terms as the Authority determines are appropriate, and
+- (d) issued in such form as the Authority may specify.
+
+(4) Where a scheme supplier has provided the Authority with a letter of credit issued by a person who ceases to hold a required credit rating, that letter of credit ceases to constitute an acceptable letter of credit from the 14th day after the day on which that person ceases to hold that rating.
+
+(5) Subject to paragraph (7), a person holds a required credit rating if that person has been assessed by—
+
+- (a) Fitch Ratings as having a short term debt rating of “F1” or better,
+- (b) Moody’s as having—
+  - (i) a short term debt rating of “P-1”, or
+  - (ii) a long term debt rating of “A3” or better, or
+- (c) Standard and Poor’s as having a short term debt rating of “A-1” or better.
+
+(6) For the purposes of paragraph (5)—
+
+- (a) “**Fitch Ratings**” means Fitch Ratings Limited (registered company number 01316230),
+- (b) “**Moody’s**” means the corporation known as Moody’s Investors Service Inc. incorporated in the US State of Delaware with the file number 0577904,
+- (c) “**Standard and Poor’s**” means the corporation known as Standard & Poor’s Financial Services LLC. incorporated in the US State of Delaware with the file number 4621989.
+
+(7) The Authority may at any time give a notice to scheme suppliers specifying such alternative required credit rating as it considers appropriate, and that notice remains in force until such time as it is withdrawn by the Authority.
+
+#### 43A. De minimis[^key-4d017b74a9a2cbf6a229a3fed66c3561]
+
+(1) A “**de minimis amount**” means—
+
+- (a) an amount payable under these Regulations, or
+- (b) a scheme supplier’s credit cover requirement for a quarter under regulation 41,
+
+which does not exceed the amount specified by the Secretary of State (the “de minimis threshold”) for the scheme year in which the amount becomes payable or the quarter referred to in sub-paragraph (b) falls.
+
+(2) Where but for this paragraph an amount payable or a credit cover requirement under the following regulations would be a de minimis amount, no amount is payable or the credit cover requirement is £0 (as applicable)—
+
+- (a) regulation 40(1),
+- (b) regulation 41(1) or (2)(b),
+- (c) regulation 44(1),
+- (d) regulation 45(2)(a),
+- (e) regulation 49(2),
+- (f) regulation 51(8), (9), (9A)(a) or (b),
+- (g) regulation 56(7),
+- (h) regulation 56(10).
+
+(3) For the purposes of determining under paragraph (2) whether an amount otherwise payable under a regulation would be a de minimis amount—
+
+- (a) the amount payable to a scheme supplier under regulation 44(1) is deemed to be the sum of the amounts payable to the supplier under regulation 44(1) and regulation 45(2)(a),
+- (b) the amount payable to a supplier under regulation 45(2)(a) is deemed to be the sum of the amounts payable to the supplier under regulation 44(1) and regulation 45(2)(a),
+- (c) the amount payable to a former scheme supplier under regulation 51(9) is deemed to be the sum of the amounts payable to the supplier under regulation 51(9) and 51(9A)(a),
+- (d) the amount payable to a former scheme supplier under regulation 51(9A)(a) is deemed to be the sum of the amounts payable to the supplier under regulation 51(9) and 51(9A)(a).
+
+(4) Any sum which but for paragraph (2)(f) would have been paid by the Authority to a former scheme supplier must be treated by the Authority as if it had been paid to the Authority by the supplier in respect of a final quarterly levy payment.
+
+(5) Where paragraph (2) applies in respect of an amount otherwise payable or a scheme supplier’s credit cover requirement and but for this paragraph the Authority would be required to make a notification under the following regulations in respect of the amount or the credit cover requirement, the requirement to make a notification does not apply—
+
+- (a) regulation 40(2),
+- (b) except where regulation 42(5) applies, regulation 42(1),
+- (c) regulation 49(2),
+- (d) regulation 56(5)(b).
+
+(6) Where paragraph (5) applies, the Authority may make such alternative notification as it considers appropriate.
+
+(7) The Secretary of State must by notice publish the de minimis threshold for the scheme year beginning with 1st April 2024 and each subsequent scheme year.
+
+(8) The de minimis threshold for a scheme year must not be more than the amount calculated in accordance with paragraph (9) (the “de minimis maximum”).
+
+(9) The de minimis maximum for a scheme year is £200, adjusted by the percentage increase or decrease in the consumer prices index for the period beginning with 1st January 2024 and ending with 31st October immediately preceding the scheme year.
+
+(10) A notice under paragraph (7) must be published by—
+
+- (a) in relation to the de minimis threshold for the scheme year beginning with 1st April 2024, the later of the date falling 14 days after the Green Gas Support Scheme (Amendment) Regulations 2023 come into force and 31st December 2023,
+- (b) in relation to the de minimis threshold for the scheme year beginning with 1st April 2025 and each subsequent scheme year, 31st December in the preceding scheme year.
+
+### CHAPTER 3 — Payments to scheme suppliers
+
+#### 44. Distribution of interest on levy credit payments[^key-8bd5773cc9d1a45d63b91c2a29bc8e06]
+
+(1) Subject to paragraph (2), in March of each scheme year beginning with March 2023, the Authority must pay to a scheme supplier any interest that has accrued on levy credit payments paid by them whilst in the bank account referred to in regulation 42(4).
+
+(2) The Authority is not required to pay to a scheme supplier all or part of the interest described in paragraph (1) unless it is satisfied that the scheme supplier is not in breach of—
+
+- (a) regulation 40 (requirement to pay quarterly levy payments),
+- (b) regulation 42 (requirement to pay levy credit payments),
+- (c) regulation 49 (requirement to pay backdated levy payments),
+- (d) regulation 56 (requirement to make mutualisation payments).
+
+#### 45. Repayment of levy credit payments[^key-80fffe881d0c9dce46fb33f3a6d4a7d5]
+
+(1) This regulation applies where a scheme supplier receives a notification referred to in regulation 42(5) (that the supplier’s credit cover requirement is less than their existing credit cover).
+
+(2) Subject to paragraphs (3) and (4)—
+
+- (a) where the notification is given in March of a scheme year the Authority must, by the relevant date specified in the scheme schedule, repay the excess amount to the supplier,
+- (b) where the notification is given in June, September, or December of a scheme year—
+  - (i) the supplier may, by the relevant date specified in the scheme schedule, request repayment from the Authority of all or part of the excess amount, and
+  - (ii) the Authority may, by the relevant date specified in the scheme schedule, repay the amount requested to the supplier.
+
+(3) The Authority may not repay—
+
+- (a) all or part of the excess amount unless it is satisfied that the scheme supplier is not in breach of—
+  - (i) regulation 40 (requirement to pay quarterly levy payments),
+  - (ii) regulation 42 (requirement to pay levy credit payments),
+  - (iii) regulation 49 (requirement to pay backdated levy payments),
+  - (iv) regulation 56 (requirement to make mutualisation payments),
+- (b) an amount which, if repaid, will result in the scheme supplier’s existing credit cover being less than their credit cover requirement.
+
+(4) The Authority may, instead of repaying the excess amount, repay such lesser amount as the Authority may determine is the amount by which the scheme supplier’s existing credit cover exceeds the scheme supplier’s credit cover requirement on the date that the repayment is made.
+
+(5) In this regulation “**the excess amount**” has the meaning given in regulation 42(5)(a).
+
+## PART 8 — Additional obligations on scheme suppliers
+
+### 46. Additional scheme supplier obligations: general[^key-f4e9db4ff02efd7cf15ec4935a787d19]
+
+A scheme supplier must—
+
+- (a) notify the Authority if any of the information provided to the Authority, and on which the scheme supplier’s quarterly levy payment was calculated, was incorrect or ceases to be correct,
+- (b) where they have provided a letter of credit in accordance with regulation 43, monitor the validity of the issuing person’s credit rating and notify the Authority as soon as reasonably practicable if the issuing person ceases to hold the required credit rating (within the meaning given in regulation 43(5)),
+- (c) comply with such other requirements as the Authority may specify in relation to the effective administration of the Scheme.
+
+### 47. Additional scheme supplier obligations: the provision of information[^key-ff8ba9a6cd994da97053d9cbd042e445]
+
+(1) A scheme supplier must provide to the Authority on request any information which the scheme supplier holds and which the Authority requires in order to discharge its functions under, or monitor compliance with, these Regulations.
+
+(2) Information requested under paragraph (1) must be provided within such time as the Authority specifies.
+
+### 48. Additional scheme supplier obligations: daily meter point data[^key-fa5fad9c7ec9f1a230ebf3d1c710342c]
+
+(1) A scheme supplier must notify the Authority of their meter point data for each day of the period beginning with 31st August 2021 and ending with 31st March 2022, and the sum of their meter point data—
+
+- (a) for the period beginning with 30th November 2021 and ending with 31st March 2022, and
+- (b) for the period beginning with 31st August 2021 and ending with 31st December 2021,
+
+at such time as the Authority may request.
+
+(2) Where a licensed gas supplier becomes a scheme supplier after 30th November 2021, they must notify the Authority of their meter point data for each day of the period of three months preceding the quarter in which they became a scheme supplier, and the sum of the meter point data for that period, at such time as the Authority may request.
+
+(3) A scheme supplier must notify the Authority, in relation to each quarter of the scheme year beginning with 1st April 2022 and each subsequent scheme year, of their meter point data for each day of that quarter, and the sum of the meter point data for that period, by no later than the relevant date specified in the scheme schedule.
+
+(4) Where the Authority does not make a request described in paragraph (1) or (2), or does not specify a relevant date in the scheme schedule for the purposes of paragraph (3)—
+
+- (a) it may instead notify a scheme supplier of their assumed meter point data for such period as the Authority may determine, and
+- (b) that scheme supplier must notify the Authority whether that data is correct, by such time as the Authority may request.
+
+(5) If a scheme supplier does not provide any notification required under paragraph (1), (2), (3) or (4)(b), the Authority must determine the number of meter points served by that supplier on each day of the relevant period.
+
+(6) A scheme supplier must provide the Authority with any information the Authority requires to enable it to verify the supplier’s meter point data.
+
+## PART 9 — Changes affecting scheme suppliers
+
+### 49. Former provisionally exempt suppliers[^key-4cd10258b45aaab7f4da7f8d8830d9b6]
+
+(1) This regulation applies where a scheme supplier (“**SS**”) was a provisionally exempt supplier in relation to a scheme year, and was notified in accordance with regulation 38(10)(b) or (11) that they are not an exempt supplier in relation to that scheme year.
+
+(2) The Authority must, within 30 days after the day on which the notification in accordance with regulation 38(10)(b) or (11) is given, calculate and notify SS of the amount of levy payment (“backdated levy payment”) SS must make in relation to that scheme year, the date by which that payment must be made, and details of how that payment must be made.
+
+(3) The backdated levy payment must be calculated by the Authority as follows—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_019)
+
+- where—
+- (a) BP is the backdated levy payment,
+- (b) M<sub>e</sub> is the sum of SS’s meter point data for each day of that scheme year,
+- (c) LR is the levy rate for that scheme year,
+- (d) P<sub>m</sub> is the sum of any amounts SS would have been required to contribute in any mutualisation processes carried out in accordance with regulation 56 in that scheme year, had they not been a provisionally exempt scheme supplier,
+- (e) RP<sub>m</sub> is the sum of any amounts SS would have been paid under regulation 56(10) as a result of a late payment by a defaulting scheme supplier in any mutualisation process carried out in accordance with regulation 56 in that scheme year, had they not been a provisionally exempt scheme supplier, calculated as follows—
+
+  [image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_020)
+
+  - where—
+  - (i) PSU is the mutualisation amount which SS would have been required to pay in respect of the relevant default,
+  - (ii) PAU is the total amount of mutualisation payments which were required to be paid by all non-defaulting scheme suppliers in respect of the relevant default,
+  - (iii) PAR is the total amount, including any interest payment, recovered from the defaulting scheme supplier in relation to the relevant default.
+
+(4) For the purposes of paragraph (3), the amount SS would have been required to contribute in any single mutualisation process is calculated as follows—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_021)
+
+- where—
+- (a) PDA is the total mutualisation amount in relation to that mutualisation process,
+- (b) PMPS is the sum of the meter point data for SS for each day of the quarter preceding the quarter in which the mutualisation notices were given to scheme suppliers under regulation 56,
+- (c) PTMPS is the sum of the meter point data, for all non-defaulting scheme suppliers apart from SS, for each day of the quarter preceding the quarter in which the mutualisation notices were given to scheme suppliers under regulation 56,
+- (d) meter point data, for the purposes of PMPS and PTMPS, is the meter point data as notified or determined under regulation 48.
+
+(5) SS must pay any backdated levy payment to the Authority in accordance with the notification referred to in paragraph (2).
+
+(6) In this regulation, “defaulting scheme supplier” and “non-defaulting scheme supplier” have the meanings given in regulation 56.
+
+### 50. Exempt suppliers[^key-86477964508cf086944cdc3978a0fab7]
+
+(1) This regulation applies where a licensed gas supplier (“**GS**”) was not a provisionally exempt supplier in relation to a scheme year, and is notified in accordance with regulation 38(10)(b) that they are an exempt supplier in relation to that scheme year.
+
+(2) The Authority must, within 30 days after the day on which that notification is given—
+
+- (a) calculate, and notify GS of, the amount of any levy refund payment to which GS is entitled in relation to that scheme year,
+- (b) pay the levy refund payment to GS out of funds available to it for the purposes of the Scheme,
+- (c) discontinue any compliance or enforcement action under Part 10 in relation to any breach of these Regulations by GS, other than a breach of regulation 38(3) (notification that a supplier is likely to be an exempt supplier) or regulations 46 to 48 (additional obligations on scheme suppliers), which occurred in relation to that scheme year.
+
+(3) The levy refund payment in relation to a scheme year must be calculated by the Authority as follows—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_022)
+
+where—
+
+- (a) RP is the amount of the levy refund payment in relation to that scheme year,
+- (b) Q is the sum of any quarterly levy payments paid by GS to the Authority in relation to that scheme year in accordance with regulation 40,
+- (c) C is the lesser of—
+  - (i) the sum of any levy credit payments paid by GS to the Authority in relation to that scheme year in accordance with regulation 42, and
+  - (ii) the amount by which GS’s existing credit cover exceeds their credit cover requirement for the quarter in which the levy refund payment is made,
+- (d) M is the sum of any mutualisation payments paid by GS to the Authority in relation to that scheme year in accordance with regulation 56, less any amount paid to GS under regulation 56(10) as a result of a late payment by a defaulting scheme supplier in any mutualisation process carried out in accordance with regulation 56 in that scheme year,
+- (e) R is the sum of any amounts recovered by the Authority from GS in relation to that scheme year under any enforcement notice or penalty notice, or as a result of any civil action, and including any interest so recovered, but excluding any amounts recovered from GS in relation to a breach of regulation 38(3),
+- (f) IA is the sum of—
+  - (i) any interest accrued on quarterly levy payments paid by GS in relation to that scheme year whilst in the bank account referred to in regulation 40(5), and
+  - (ii) any interest accrued on levy credit payments paid by GS in relation to that scheme year whilst in the bank account referred to in regulation 42(4),
+- (g) ID is the sum of any interest distributed by the Authority to GS in accordance with regulation 44 in relation to that scheme year.
+
+(4) Where the Authority has drawn down GS’s existing credit cover against a letter of credit, in accordance with regulation 55, in relation to a scheme year, the Authority must repay the amount drawn down to the person who provided the letter of credit.
+
+### 51. Former scheme suppliers[^key-b427a9c0b166195a5def6a11e901e139]
+
+(1) This regulation applies where a scheme supplier ceases to be a scheme supplier, other than by virtue of becoming an exempt supplier.
+
+(2) The former scheme supplier (“**F**”) must—
+
+- (a) notify the Authority of—
+  - (i) the date on which they ceased to be a scheme supplier,
+  - (ii) the reason why they ceased to be a scheme supplier, and
+  - (iii) their meter point data for each day of the final quarter, and
+- (b) provide the Authority with any information the Authority requires to enable it to verify their meter point data, and such other information as the Authority requests.
+
+(3) The information and notification described in paragraph (2) must be provided to the Authority—
+
+- (a) where F ceases to be a scheme supplier by reason of—
+  - (i) ceasing to hold a licence under section 7A(1) of the Gas Act 1986, or
+  - (ii) becoming an insolvent company within the meaning given in section 15A(4) of the Company Directors Disqualification Act 1986[^f00032],
+
+  within 3 working days of F ceasing to be a scheme supplier, and
+- (b) in any other case, within 14 days of F ceasing to be a scheme supplier.
+
+(4) Paragraph (3) does not apply where a scheme supplier provides the Authority with the information required by or under that paragraph before the date on which they cease to be a scheme supplier.
+
+(5) Where F does not provide the meter point data required by paragraph (2)(a)(iii), the Authority must determine the number of meter points served by F on each day of the final quarter.
+
+(6) The Authority must—
+
+- (a) if the Authority has not notified F of the quarterly levy payment payable by F in relation to the quarter preceding the final quarter in accordance with regulation 40(2), calculate the quarterly levy payment payable by F in relation to that quarter in accordance with the formula set out in regulation 40(1), and
+- (b) calculate the quarterly levy payment payable by F in relation to the final quarter in accordance with the formula set out in regulation 40(1), but with the modification that “M” in that formula is the sum of F’s meter point data for each day of the final quarter as notified or determined under this regulation.
+
+(7) The Authority must serve a notice on F specifying—
+
+- (a) the sum of the amounts calculated in accordance with paragraph (6) (the “final quarterly levy payment”)[^key-36e54c1f3d418800fb4aac1db138a071] and how that amount has been calculated,
+- (b) the amount of F’s existing credit cover,
+- (c) the amount by which—
+  - (i) F’s existing credit cover exceeds the final quarterly levy payment [^key-c718aaa95d813edd094abee91f63d8df]..., or
+  - (ii) the final quarterly levy payment exceeds F’s existing credit cover (the “outstanding amount”),
+- (ca)[^key-985c17bd641cc4b54825d1a72f44b681] if the payments made by F by way of credit cover exceed the final quarterly levy payment, the excess amount (the “cash excess”),
+- (d)[^key-a174db8444e5143aa930a9fd6377c76c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^key-5d71025ec657f7a0d6bced7bae380c0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) where there is an outstanding amount—
+  - (i) the date by which the outstanding amount is required to be paid by F, being—
+    - (aa) 14 days after the date of the notification, or
+    - (bb) the next date on which quarterly levy payments are due under regulation 40,
+
+    whichever is the earlier,
+  - (ii) details of how payment of the outstanding amount must be made, and
+
+including information about the matters mentioned in regulation 54 (interest on late payments), and the matters mentioned in regulation 56 (mutualisation).
+
+(7A)[^key-32095f9ee4f7bd60f13b25fde031d2dd] Except where paragraph (7B) applies to F and provided that the final quarterly levy payment is greater than £0, the notice referred to in paragraph (7) must also specify—
+
+- (a) the date on which F’s existing credit cover will be drawn down and the amount of that draw down,
+- (b) whether the draw down will be against payments made, or a letter of credit provided, by F, or both.
+
+(7B) This paragraph applies to F where—
+
+- (a) F has complied with the obligations in paragraphs (2) and (3),
+- (b) if this paragraph did not apply to F the Authority would draw down against a letter of credit provided by F in respect of the whole or part of the final quarterly levy payment, and
+- (c) the letter of credit provided by F will remain an acceptable letter of credit until the date falling 28 days after the date on which the Authority serves a notice under paragraph (7).
+
+(7C) Where paragraph (7B) applies to F, the notice referred to in paragraph (7) must also specify—
+
+- (a) the date on which draw down will be made against payments made by F by way of credit cover and the amount of that draw down (if applicable),
+- (b) the amount payable in lieu of draw down against F’s letter of credit (the “in lieu amount”), which is the amount that the Authority would draw down against the letter of credit if paragraph (7B) did not apply to F,
+- (c) that provided F pays to the Authority the in lieu amount and any outstanding amount by the date referred to in paragraph (7)(f)(i), the Authority will not draw down against the letter of credit,
+- (d) details of how any payment may be made,
+- (e) that where the in lieu amount or outstanding amount, or both, are not paid in full by the date referred to in paragraph (7)(f)(i), the Authority will draw down against the letter of credit, as soon as is reasonably practicable, the amount required to discharge F’s final quarterly levy payment or, if the letter of credit is insufficient to discharge F’s final quarterly levy payment, the maximum amount specified in the letter of credit.
+
+(7D) Where regulation 43A(2)(f) applies in respect of an amount otherwise payable by or to F under paragraph (8) or (9)—
+
+- (a) paragraph (7)(f) (if otherwise applicable) does not apply;
+- (b) the notice referred to in paragraph (7) must also specify that no amount is payable in respect of the cash excess or the outstanding amount,
+- (c) this regulation applies as if—
+  - (i) for paragraph (7C)(c) there were substituted—
+
+    > - (c) that provided F pays to the Authority the in lieu amount by the date referred to in paragraph (7E), the Authority will not draw down against the letter of credit,
+
+    ;
+  - (ii) for paragraph (7C)(e) there were substituted—
+
+    > - (e) that where the in lieu amount is not paid in full by the date referred to in paragraph (7E), the Authority will draw down against the letter of credit, as soon as is reasonably practicable, an amount required to discharge the in lieu amount.
+
+    ;
+
+(7E) The date referred to in paragraph (7D)(c)(i) and (ii) is the date—
+
+- (a) 14 days after the date of the notice, or
+- (b) the next date on which quarterly levy payments are due under regulation 40,
+
+whichever is the earlier.
+
+(8) Where paragraph (7)(f) applies, F must pay the outstanding amount to the Authority in accordance with any notification referred to in paragraph (7).
+
+(9)[^key-623629b73f1498e5695005a3813b9705] Where there is a cash excess, the Authority must pay the cash excess to F as soon as reasonably practicable after the date on which F’s existing credit cover is drawn down.
+
+(9A)[^key-e41c5d113649acc8080f28bd4ffecb68] The Authority must pay to F any interest that has accrued on levy credit payments paid by F whilst in the bank account referred to in regulation 42(4) as soon as reasonably practicable after—
+
+- (a) in relation to interest paid into the bank account before the date on which the Authority serves a notice under paragraph (7), the date on which the Authority serves a notice under paragraph (7),
+- (b) in relation to interest paid into the account on or after the date on which the Authority serves a notice under paragraph (7), the date on which the interest is paid into the Authority’s bank account.
+
+(9B) Where the final quarterly levy payment would be a de minimis amount if payable by F, the final quarterly levy payment is £0.
+
+(10) Where immediately before F ceases to be a scheme supplier F was liable to pay, or entitled to receive payment of, any amount under these Regulations, F remains subject to that liability, or to that entitlement, after F ceases to be a scheme supplier, subject to paragraphs (11) to (13).
+
+(11) Regulation 38(8) to (13) continues to apply in relation to F as if F were still a scheme supplier for the purposes of determining whether—
+
+- (a) F is an exempt supplier in relation to the scheme year preceding the final scheme year,
+- (b) F is an exempt supplier in relation to that part of the final scheme year in which F was a scheme supplier, but as if—
+  - (i) references to “a scheme year”, “the scheme year” and “that scheme year” were references to that part of the final scheme year in which F was a scheme supplier,
+  - (ii) in paragraphs (8) and (9), for “by 1st July following the end of that scheme year” there were substituted “within three months of ceasing to be a scheme supplier”,
+  - (iii) in paragraph (10)(b), for “by the relevant date specified in the scheme schedule” there were substituted “within 30 days of the date on which it received the notification and information referred to in paragraph (8)”,
+  - (iv) in paragraph (11), for “by the relevant date specified in the scheme schedule” there were substituted “within 30 days of the date on which it received the notification and information referred to in paragraph (8)”.
+
+(12) Regulation 49 continues to apply in relation to F as if F were still a scheme supplier—
+
+- (a) for the purposes of the calculation of any backdated levy payment in relation to the scheme year preceding the final scheme year, but with the modification that the Authority may determine not to require payment of any backdated levy payment by F,
+- (b) for the purposes of the calculation of any backdated levy payment in relation to the final scheme year, but—
+  - (i) as if references to “a scheme year” and “that scheme year” were references to that part of the final scheme year in which F was a scheme supplier,
+  - (ii) with the modification that the Authority may determine not to require payment of any backdated levy payment by F.
+
+(13) Regulation 50 continues to apply in relation to F as if F were still a scheme supplier—
+
+- (a) for the purposes of the calculation of any levy refund payment to which F is entitled in relation to the scheme year preceding the final scheme year,
+- (b) for the purposes of the calculation of any levy refund payment to which F is entitled in relation to the final scheme year, but as if —
+  - (i) references to “a scheme year” and “that scheme year” were to that part of the final scheme year in which F was a scheme supplier,
+  - (ii) for paragraph (3)(c) there were substituted—
+
+    > - (c) C is the sum of any levy credit payments paid by F to the Authority in relation to the final scheme year in accordance with regulation 42,
+
+    .
+
+(14) For the purposes of this regulation—
+
+- (a) “**the final quarter**”, in relation to F, means the last quarter during any part of which F was a scheme supplier,
+- (b) “**the final scheme year**”, in relation to F, means the scheme year in which F ceases to be a scheme supplier.
+
+## PART 10 — Compliance and enforcement: scheme suppliers
+
+### 52. Anticipated default notices[^key-0e1364309f976dbe1a04038720d38e21]
+
+(1) The Authority may serve a notice (an “anticipated default notice”) on a scheme supplier where the Authority reasonably believes it is likely that the scheme supplier will fail to pay—
+
+- (a) a quarterly levy payment in accordance with regulation 40,
+- (b) a levy credit payment in accordance with regulation 42,
+- (c) any credit cover required in accordance with regulation 42(3)(b) or (c) (“additional credit cover”),
+- (d) a backdated levy payment in accordance with regulation 49, or
+- (e) a mutualisation payment in accordance with regulation 56.
+
+(2) An anticipated default notice—
+
+- (a) must specify—
+  - (i) the amount of quarterly levy payment, levy credit payment, additional credit cover, backdated levy payment, or mutualisation payment, (the “relevant amount”), and the date on which payment of the relevant amount is due,
+  - (ii) where applicable, how the relevant amount has been calculated, and
+  - (iii) the grounds on which the Authority reasonably believes the scheme supplier is likely to fail to pay the relevant amount,
+- (b) must include information about—
+  - (i) the matters mentioned in paragraphs (3) to (7),
+  - (ii) where appropriate, the matters mentioned in regulation 54 (interest on late payments), regulation 55 (draw down of credit cover), and regulation 56 (mutualisation), and
+  - (iii) appeals under regulation 60, and
+- (c) may include such other information as the Authority considers necessary.
+
+(3) The Authority must publish an anticipated default notice, and any other notice served under paragraph (4), as soon as reasonably practicable after the date on which it is served.
+
+(4) An anticipated default notice may be varied or revoked at any time by the Authority by serving a further notice, including a further anticipated default notice or an enforcement notice, on the scheme supplier.
+
+(5) Where the scheme supplier pays all or part of the relevant amount after the service of the anticipated default notice, the Authority must publish—
+
+- (a) the fact that the scheme supplier has paid all or part of the relevant amount (as the case may be),
+- (b) where the scheme supplier has paid part of the relevant amount, the amount paid, and
+- (c) the date of the payment.
+
+(6) Any information published in accordance with paragraph (3) or (5) must be published for a minimum period of 12 months, and may be published for such longer period as the Authority may decide.
+
+(7) Where—
+
+- (a) the Authority has served an anticipated default notice, and
+- (b) any part of the amount specified in that notice is not paid by the date on which payment of the amount is due (“**the due date**”),
+
+on the day after the due date the anticipated default notice is deemed to be an enforcement notice served in accordance with regulation 53(1) in respect of such amount as remains outstanding.
+
+### 53. Enforcement notices[^key-65f6b5e420e1ce8cbb9ef52bb7949f74]
+
+(1) The Authority may serve a notice (an “**enforcement notice**”) on a scheme supplier where—
+
+- (a) the Authority is satisfied that the scheme supplier has failed to pay—
+  - (i) a quarterly levy payment in accordance with regulation 40,
+  - (ii) a levy credit payment in accordance with regulation 42,
+  - (iii) any additional credit cover,
+  - (iv) a backdated levy payment in accordance with regulation 49,
+  - (v) a mutualisation payment in accordance with regulation 56, or
+  - (vi) interest on a payment referred to in paragraph (i), (iv) or (v) due in accordance with regulation 54, or
+- (b) the Authority reasonably believes that the scheme supplier has failed to comply with any other obligation imposed on scheme suppliers under Part 7, 8, or 9.
+
+(2) An enforcement notice served in the circumstances referred to in paragraph (1)(a) must—
+
+- (a) specify—
+  - (i) the amount of quarterly levy payment, levy credit payment, additional credit cover, backdated levy payment, or mutualisation payment the scheme supplier has failed to pay (the “outstanding amount”),
+  - (ii) where applicable, how the outstanding amount has been calculated,
+  - (iii) where regulation 54 (interest on late payments) applies, any interest due on the outstanding amount at the date the enforcement notice is served and how that amount of interest has been calculated,
+  - (iv) the sum of the outstanding amount and the interest due (“the total amount due”),
+  - (v) the date by which the scheme supplier must pay the total amount due or, where the outstanding amount is a levy credit payment or additional credit cover, the date by which they must pay the total amount due or provide an acceptable letter of credit (or both) in respect of that amount, and
+  - (vi) how the total amount due must be paid, and
+- (b) include information about the matters mentioned in—
+  - (i) regulation 55 (draw down of credit cover), and
+  - (ii) regulation 56 (mutualisation).
+
+(3) An enforcement notice served in the circumstances referred to in paragraph (1)(b) must specify—
+
+- (a) the provision of these Regulations which the Authority believes has been breached,
+- (b) the matters constituting the breach,
+- (c) the steps the scheme supplier must take to remedy the breach, and
+- (d) the date by which those steps must be taken.
+
+(4) An enforcement notice must include information about appeals under regulation 60.
+
+(5) The Authority must publish an enforcement notice, and any other notice served under paragraph (6), as soon as reasonably practicable after the date on which it is served.
+
+(6) An enforcement notice may be varied or revoked at any time by the Authority by serving a further notice, including a further enforcement notice, on the scheme supplier.
+
+(7) A scheme supplier on whom an enforcement notice is served must comply with the requirements of that enforcement notice.
+
+(8) The duty imposed by paragraph (7) is enforceable in civil proceedings by the Authority for—
+
+- (a) an injunction,
+- (b) specific performance of a statutory duty under section 45 of the Court of Session Act 1988[^f00033], or
+- (c) any other appropriate relief.
+
+### 54. Interest[^key-bb57e95730ee40dbc9bed8a50a88b38e]
+
+(1) Where—
+
+- (a) a scheme supplier fails to pay the Authority all or any part of the following by the date on which it is due—
+  - (i) a quarterly levy payment,
+  - (ii) a backdated levy payment,
+  - (iii) a mutualisation payment,
+  - (iv) a financial penalty, or
+  - (v) a backdated levy payment due in accordance with regulation 49(5), or
+- (b) a former scheme supplier fails to pay the Authority all or any part of an outstanding amount due in accordance with regulation 51(8),
+
+the Authority must require the scheme supplier, or the former scheme supplier (as the case may be) to pay interest, calculated in accordance with paragraph (2), on the amount which remains unpaid.
+
+(2) The interest payable under paragraph (1) is simple interest calculated from day to day on the unpaid amount from the date by which payment of the amount is due until the date when payment is made, at a rate of 8 per cent per annum over the Bank of England base rate.
+
+(3) For the purpose of this regulation the “**Bank of England base rate**” means—
+
+- (a) the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short term liquidity in the money markets, or
+- (b) where an order under section 19 of the Bank of England Act 1998[^f00034] (reserve powers) is in force, any equivalent rate determined by the Treasury under that section.
+
+### 55. Draw down of credit cover[^key-e0a15ca400c8cbf7466600fada3ac0cf]
+
+(1) This regulation applies where—
+
+- (a) a scheme supplier (the “defaulting scheme supplier”) fails to pay the whole or any part of—
+  - (i) a quarterly levy payment in accordance with regulation 40, or
+  - (ii) a mutualisation payment required in accordance with regulation 56, or
+- (b)[^key-76c8b160d0196da5c526d13d4417cc33] the Authority has served a notice under regulation 51(7) on a former scheme supplier (the “defaulting scheme supplier”) and the final quarterly levy payment specified in the notice is greater than £0.
+
+(2)[^key-a4ff49b9251186c5df9ee59ec3f3c0bf] The Authority must draw down the defaulting scheme supplier’s existing credit cover no earlier than—
+
+- (a) where paragraph (1)(a) applies, the next working day after the day on which payment of the unpaid amount was due, or
+- (b) where paragraph (1)(b) applies, the next wording day after the date specified in the notice in accordance with regulation 51(7A)(a) or (7C)(a) or (e) (as applicable).
+
+(2A)[^key-55a3009d06f7a6b37649791dc4683981] The Authority must not draw down against a letter of credit provided by the defaulting scheme supplier in relation to the defaulting scheme supplier’s final quarterly levy payment where—
+
+- (a) regulation 51(7B) applies to the supplier, and
+- (b) the defaulting scheme supplier has paid to the Authority by the date specified in the notice an amount required to discharge the defaulting scheme supplier’s final quarterly levy payment or, where regulation 51(7D)(c)(ii) applies, the in lieu amount.
+
+(2B) The Authority may also draw down the defaulting scheme supplier’s existing credit cover in respect of any interest (calculated in accordance with regulation 54) due on the amount that the defaulting scheme supplier has failed to pay.
+
+(3) Where the Authority draws down a defaulting scheme supplier’s existing credit cover, the Authority must notify the defaulting scheme supplier of that draw down and the notification must specify—
+
+- (a) the amount of the defaulting scheme supplier’s existing credit cover subject to the draw down, and
+- (b) whether the draw down is against payments made, or a letter of credit provided, by the defaulting scheme supplier, or both.
+
+(4) Where draw down is against payments made by the defaulting scheme supplier, the amount drawn down is treated as a payment by the defaulting scheme supplier in respect of their quarterly levy payment , mutualisation payment, final quarterly levy payment or interest payment[^key-ce74d0efb2a0f732598a175c535874b9] (as the case may be).
+
+(5) Where draw down is against a letter of credit provided by the defaulting scheme supplier—
+
+- (a) the Authority must take steps to demand payment from the person who provided the letter of credit for the lesser of—
+  - (i) the amount which can be demanded under that letter of credit, and
+  - (ii) the unpaid amount, and
+- (b) the amount which is paid to the Authority under that letter of credit is treated as a payment by the defaulting scheme supplier in respect of their quarterly levy payment , mutualisation payment, final quarterly levy payment or interest payment[^key-ab60ad8792a0e482c246a2d3b1726280] (as the case may be), made at the time that amount is received by the Authority.
+
+(6) The Authority may draw down against a letter of credit provided by a defaulting scheme supplier notwithstanding that the letter of credit has ceased to constitute an acceptable letter of credit.
+
+### 56. Mutualisation[^key-ed562ee89a9ae9554da3557bf32b15df]
+
+(1) The Authority must carry out a process (a “mutualisation process”) in accordance with this regulation where—
+
+- (a) the first condition or the second condition, or both of them, are satisfied, and
+- (b) the third condition is satisfied.
+
+(2) The first condition is that—
+
+- (a) a scheme supplier (the “defaulting scheme supplier”) has failed to pay the whole or part of a quarterly levy payment in accordance with regulation 40, and
+- (b) where draw down has occurred in accordance with regulation 55 in relation to that failure, the amount drawn down was less than the amount the defaulting scheme supplier had failed to pay.
+
+(3) The second condition is that—
+
+- (a) a former scheme supplier (the “defaulting scheme supplier”) has failed to pay the whole or part of an outstanding amount in accordance with regulation 51(8), [^key-1833652d7c1408bc4b4b7640cb417d25]...
+- (b)[^key-dfad8cae1bf876d618a3fac792fed289] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The third condition is that, when notices are given under paragraph (5)(b), the total of any unpaid amounts to be recovered (the “total mutualisation amount”) exceeds the Authority’s estimated administrative costs of carrying out the mutualisation process.
+
+(5) Where the Authority carries out a mutualisation process, the Authority must—
+
+- (a) calculate—
+  - (i) the total mutualisation amount,
+  - (ii) the amount a scheme supplier other than a defaulting scheme supplier (a “non-defaulting scheme supplier”) is to pay, in accordance with paragraph (7), and
+- (b) give notice to each of the non-defaulting scheme suppliers (a “mutualisation notice”) specifying—
+  - (i) that the non-defaulting scheme supplier is liable to make a payment of the amount apportioned to them, calculated in accordance with paragraph (7) (a “mutualisation payment”),
+  - (ii) the date by which the mutualisation payment must be made, and
+  - (iii) details of how the mutualisation payment must be made,
+
+  and including information about the matters mentioned in regulation 55 (draw down of credit cover).
+
+(6) A mutualisation notice may not be given earlier than seven days after—
+
+- (a) the date on which payment of the quarterly levy payment or the outstanding amount (as the case may be) was due, or
+- (b) where the mutualisation process is carried out in relation to two or more unpaid amounts, the latest date on which any such amount was due.
+
+(7) A mutualisation payment payable by a non-defaulting scheme supplier is the amount given by—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_023)
+
+where—
+
+- (a) TMA is the total mutualisation amount,
+- (b) MPS is the sum of the meter point data for that non-defaulting scheme supplier for each day of the quarter in relation to which the defaulting scheme supplier failed to pay, as notified or determined under regulation 48, and
+- (c) TMPS is the sum of the meter point data for all the non-defaulting scheme suppliers for each day of the quarter in relation to which the defaulting scheme suppliers failed to pay, as notified or determined under regulation 48.
+
+(8) A non-defaulting scheme supplier given a mutualisation notice under paragraph (5)(b) must pay the mutualisation payment to the Authority by the date specified in the notice.
+
+(9) If the Authority receives the whole or part of an unpaid amount from a defaulting scheme supplier before the mutualisation notices are given to non-defaulting scheme suppliers the Authority must—
+
+- (a) where necessary recalculate the amounts referred to in paragraph (5)(a), and
+- (b) where a defaulting scheme supplier has paid the whole of the unpaid amount referred to in paragraph (2) or (3) (as the case may be), they are a non-defaulting scheme supplier for the purposes of paragraph (5).
+
+(10) If the Authority receives an unpaid amount from a defaulting scheme supplier after giving mutualisation notices to non-defaulting scheme suppliers the Authority must, as soon as reasonably practicable after the date specified under paragraph (5)(b)(ii) in relation to that mutualisation, distribute the amount received, including any interest payment, from the defaulting scheme supplier among the non-defaulting scheme suppliers who have made mutualisation payments, as follows—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_024)
+
+where—
+
+- (a) AD is the amount due to be paid to a non-defaulting scheme supplier,
+- (b) SU is the mutualisation amount which the non-defaulting scheme supplier paid in respect of the relevant default,
+- (c) AU is the total amount of mutualisation payments which were paid by all non-defaulting scheme suppliers in respect of the relevant default, and
+- (d) AR is the total amount, including any interest payment, recovered from the defaulting scheme supplier.
+
+### 57. Penalty notices[^key-ca0bc7f62b1e69819e2c79b9abdbd41d]
+
+(1) The Authority may serve a notice (a “penalty notice”) on a scheme supplier where the Authority is satisfied that the scheme supplier—
+
+- (a) knowingly provided false or misleading information—
+  - (i) to the Authority pursuant to regulation 38 (notification that a supplier is likely to be an exempt supplier), or regulation 46, 47, or 48 (obligations on scheme suppliers to provide information),
+  - (ii) to a person instructed in accordance with regulation 38(4)(a),
+- (b) has failed to comply with any other obligation imposed on scheme suppliers under Part 7, 8 or 9, or this Part.
+
+(2) A penalty notice may impose a financial penalty on the scheme supplier of such amount as the Authority deems reasonable in all the circumstances of the case, provided that the amount may not exceed 10% of the scheme supplier’s relevant turnover.
+
+(3) Before serving a penalty notice on a scheme supplier, the Authority must—
+
+- (a) notify the scheme supplier that it proposes to impose a financial penalty, and the notification must specify—
+  - (i) the amount of the financial penalty proposed to be imposed,
+  - (ii) the Authority’s reason for proposing to impose the financial penalty,
+  - (iii) the basis on which the Authority determined the amount of the proposed financial penalty,
+  - (iv) a period of not less than 21 days beginning with the date on which the notification is served on the scheme supplier within which representations may be made to the Authority with respect to the proposed financial penalty,
+- (b) publish the matters referred to in sub-paragraph (a) in such manner as the Authority considers appropriate for the purpose of bringing them to the attention of persons likely to be affected by them,
+- (c) consider any representations which are made in accordance with sub-paragraph (a)(iv) and are not withdrawn, and
+- (d) determine whether to serve the penalty notice and, if so, whether to make any changes to the terms of the proposed penalty notice.
+
+(4) A penalty notice must—
+
+- (a) specify—
+  - (i) the amount of the financial penalty,
+  - (ii) the Authority’s reason for imposing the financial penalty,
+  - (iii) the basis on which the Authority determined the amount of the financial penalty,
+  - (iv) the date by which the financial penalty must be paid, being a date not less than 42 days after the date the penalty notice is served on the scheme supplier, and
+  - (v) how the payment must be made, and
+- (b) include information about—
+  - (i) the matters mentioned in regulation 54 (interest on late payments), and
+  - (ii) appeals under regulation 60.
+
+(5) Any monies received by the Authority pursuant to this regulation must be paid into the Consolidated Fund.
+
+(6) The Authority must publish a penalty notice as soon as reasonably practicable.
+
+(7) Where, at any time before a financial penalty is due to be paid, the Authority ceases to be satisfied that the scheme supplier is liable for that penalty, it must serve a further notice on the scheme supplier—
+
+- (a) withdrawing the penalty notice, or
+- (b) modifying the penalty notice.
+
+(8) The Authority must—
+
+- (a) determine and publish a statement of its policy with respect to the imposition of financial penalties under this regulation and the determination of their amount,
+- (b) keep the statement under review and, where the statement is revised or replaced as a result of such a review, publish the revised or replacement statement, and
+- (c) have regard to such statement as is published under this paragraph and in force at the time of the scheme supplier’s provision of false or misleading information or failure to comply with an obligation referred to in paragraph (1)(b) (as the case may be), in exercising, or deciding whether to exercise, its power under this regulation.
+
+(9) For the purposes of paragraph (2)—
+
+- (a) “**relevant turnover**”, in relation to a scheme supplier, means—
+  - (i) the scheme supplier’s turnover for the financial year preceding the financial year in which the penalty notice is served, or
+  - (ii) where the scheme supplier has not published or prepared accounts in relation to the whole of that financial year, the scheme supplier’s turnover calculated as follows—
+
+    [image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_025)
+
+  where—
+
+  - (aa) DFY is the number of days in the financial year,
+  - (bb) DA is the number of days in the financial year for which the scheme supplier’s accounts are available,
+  - (cc) T is the scheme supplier’s turnover in relation to the number of days referred to in sub-paragraph (bb), and
+- (b) “**turnover**” has the meaning given in section 474(1) of the Companies Act 2006[^f00035].
+
+### 58. Recovery of unpaid amounts as a civil debt[^key-32f2297d6295a628a921e9a2116853ef]
+
+The following are recoverable, as a civil debt, by the Authority if not paid by the date on which they are due—
+
+- (a) a quarterly levy payment,
+- (b) a levy credit payment,
+- (c) a payment of additional credit cover,
+- (d) a backdated levy payment,
+- (e) a mutualisation payment,
+- (f) a financial penalty,
+- (g) any interest due in accordance with regulation 54.
+
+### 59. Default register[^key-08845a7b540759279e5183148fb58b2d]
+
+(1) The Authority must publish and maintain a register containing the information described in paragraph (2) (a “default register”), and ensure, so far as practicable, that entries in the default register are accurate and up to date.
+
+(2) Where a scheme supplier fails to pay a quarterly levy payment, a levy credit payment, a payment of additional credit cover, or a mutualisation payment by the date on which that payment is due, the Authority must publish the following information in relation to that scheme supplier in the default register as soon as reasonably practicable —
+
+- (a) their name,
+- (b) whether they have failed—
+  - (i) to pay a quarterly levy payment, a levy credit payment, a payment of additional credit cover, or a mutualisation payment,
+  - (ii) to pay interest due in accordance with regulation 54,
+- (c) the dates on which any outstanding payments mentioned in sub-paragraph (b) were made,
+- (d) any financial penalty,
+- (e) any other information in relation to their compliance with these Regulations that the Authority considers appropriate.
+
+(3) Where—
+
+- (a) the Authority publishes any information under paragraph (2) in relation to a failure by a scheme supplier to pay a quarterly levy payment, a levy credit payment, a payment of additional credit cover, or a mutualisation payment, and
+- (b) the Authority determines that they are an exempt supplier in relation to the scheme year in which the liability to make that payment arose,
+
+the Authority must amend the entry in the default register to record that they are an exempt supplier, and the date on which they were determined to be an exempt supplier.
+
+(4) Any information published in accordance with paragraph (1) must be published for a minimum period of one year, or such longer period as the Authority determines.
+
+### 60. Appeals[^key-176df5a11e56b2ad44106e24a82758ab]
+
+(1) A scheme supplier served with an enforcement notice or a penalty notice may appeal to the relevant court—
+
+- (a) in the case of an enforcement notice, on the grounds that—
+  - (i) the decision to serve the notice was not within the power in regulation 53 or, in the case of an anticipated default notice which is deemed to be an enforcement notice by virtue of regulation 52(7), the decision to serve the anticipated default notice was not within the power in regulation 52,
+  - (ii) a requirement of regulation 52 or regulation 53 (as the case may be) has not been complied with by the Authority in relation to the enforcement notice,
+- (b) in the case of a penalty notice, on the grounds that—
+  - (i) the decision to serve the notice was not within the power in regulation 57,
+  - (ii) it was unreasonable of the Authority to require the financial penalty to be paid by the date specified in the notice,
+  - (iii) a requirement of regulation 57 has not been complied with by the Authority in relation to the penalty notice.
+
+(2) An appeal under paragraph (1) must be brought within 42 days of the date of service of the notice.
+
+(3) A notice in respect of which an appeal is brought is suspended, pending determination of the appeal.
+
+(4) For the purposes of paragraph (1), “**the relevant court**” means—
+
+- (a) in England and Wales, the High Court,
+- (b) in Scotland, the Court of Session.
+
+(5) On the hearing of an appeal the court may—
+
+- (a) quash the notice,
+- (b) affirm the notice, whether in its original form or with such modification as the court sees fit,
+- (c) instruct the Authority to do, or not to do, any thing which is within the power of the Authority.
+
+(6) The validity of an enforcement notice or a penalty notice may not be questioned by any legal proceedings on the grounds mentioned in paragraph (1)(a)(ii) or (b)(iii), other than as provided for by this regulation.
+
+### 61. Application of this Part in relation to former scheme supplier[^key-9edd0e2bf3374cec36d6e8fe2501bb7d]
+
+If a scheme supplier ceases to be a scheme supplier, the Authority may commence or continue compliance or enforcement action under this Part in relation to any breach of these Regulations by them which occurred in relation to any scheme year in which they were a scheme supplier, and they are a scheme supplier for the purposes of any such action.
+
+## PART 11 — Administrative functions of the Authority
+
+### 62. Right of review[^key-8f738619347fd5f026d89d02576b7521]
+
+(1) Any applicant, participant or former participant affected by a decision made by the Authority in exercise of its functions under these Regulations (other than a decision made in accordance with this regulation) may have that decision reviewed by the Authority.
+
+(2) An application for review must be made by notice in such format as the Authority may require and must—
+
+- (a) be received by the Authority within 28 days of the date of receipt of notification of the decision to be reviewed,
+- (b) specify the decision which that person wishes to be reviewed,
+- (c) specify the grounds upon which the application is made, and
+- (d) be signed by or on behalf of the person making the application.
+
+(3) A person who has made an application in accordance with paragraph (2) must provide the Authority with such information and such declarations as the Authority may reasonably request in order to discharge its functions under this regulation, provided any information requested is in that person’s possession.
+
+(4) A review under this regulation may not be carried out by any person who was involved in the decision which is being reviewed.
+
+(5) On review the Authority may—
+
+- (a) revoke or vary its decision,
+- (b) confirm its decision,
+- (c) vary any sanction or condition it has imposed, or
+- (d) replace any sanction or condition it has imposed with one or more alternative sanctions or conditions.
+
+(6) Within 21 days of the Authority’s decision on a review, it must give a notice to the applicant, participant or former participant (as the case may be), and to any other person who is in the Authority’s opinion affected by its decision on the review, setting out its decision with reasons.
+
+### 63. Publication of guidance and scheme schedule[^key-eb4c0e86cad48e32eb6b517b9bff5225]
+
+(1) The Authority must publish procedural guidance to applicants, participants and scheme suppliers in connection with the administration of the Scheme.
+
+(2) The Authority must publish an administrative timetable (a “scheme schedule”)—
+
+- (a) for the period beginning with 1st February 2022 and ending with 31st March 2023, by 1st February 2022,
+- (b) for the scheme year beginning with 1st April 2023 and each subsequent scheme year, by 1st February preceding the start of the scheme year.
+
+(3) A scheme schedule—
+
+- (a) must set out each date which the Authority is required to specify for the purposes of regulations 38(3)(a)(ii), (10)(b) and (11), 40(2), 45(2)(a) and (b), and 48(3) (a “variable date”), and
+- (b) may set out any other date prescribed in Part 7.
+
+(4) The Authority may change a variable date in a published scheme schedule and, if it does so, must publish the change at least one month before the change is to take effect.
+
+### 64. Provision of information to the Authority etc[^key-af667cb86d8031a2b3b2f91ebffcf49c]
+
+(1) Where under these Regulations the Authority requests information or a declaration from an applicant, a participant, a scheme supplier, or a licensed gas supplier who is not a scheme supplier, or where any such person is required to provide information or a declaration to the Authority—
+
+- (a) that information or declaration must be provided within such time and in such manner and form as the Authority may reasonably request and must be accurate to the best of the applicant’s, participant’s, scheme supplier’s or licensed gas supplier’s knowledge and belief, and
+- (b) the costs of providing the information are to be borne by that applicant, participant, scheme supplier or licensed gas supplier.
+
+(2) When exercising any functions under these Regulations the Authority may treat any declaration given by an applicant, a participant, a scheme supplier, or a licensed gas supplier who is not a scheme supplier, as conclusive evidence of the matters to which that declaration relates, unless the Authority considers that any such declaration is not accurate.
+
+### 65. Reporting obligations[^key-8c454a8251804ecc1132acbd03cc5fec]
+
+(1) The Authority must provide monthly reports to the Secretary of State, in such manner and form as the Secretary of State may request, containing the following information, as applicable—
+
+- (a) in respect of each participant registered as a producer of biomethane during the period covered by the report—
+  - (i) the total amount of periodic support payments made to the participant,
+  - (ii) the volume of biomethane produced for injection by the participant, and
+  - (iii) sustainability information provided in accordance with regulation 12(6), (7) and (8),
+- (b) the names of any applicant, participant, or former participant requesting a review under regulation 62, and
+- (c) such other information as the Authority may hold in relation to its functions under these Regulations as the Secretary of State may require.
+
+(2) Each monthly report must cover a calendar month and must be sent to the Secretary of State within seven working days of the end of that month.
+
+(3) The Authority must publish—
+
+- (a) a quarterly report, in respect of each quarter, within one month of the end of the quarter, and
+- (b) an annual report, in respect of each scheme year, by 31st July following the end of the scheme year.
+
+(4) Each annual report must contain current information relating to the scheme year covered by the report, and the period beginning with 30th November 2021 and ending with the start of that scheme year, as to—
+
+- (a) the number of participants,
+- (b) the volume of biomethane produced for injection by those participants, including any additional biomethane in respect of which those participants are registered,
+- (c) the total number and value of periodic support payments made in respect of that biomethane,
+- (d) the number of scheme suppliers and, of those, the number who are provisionally exempt scheme suppliers,
+- (e) the sum of the quarterly levy payments paid by those scheme suppliers, and
+- (f) the number of occurrences of—
+  - (i) any scheme supplier failing to pay—
+    - (aa) a quarterly levy payment,
+    - (bb) a levy credit payment,
+    - (cc) a payment of additional credit cover,
+    - (dd) a mutualisation payment,
+  - (ii) any scheme supplier making a payment mentioned in paragraph (i) after the due date, and the average number of days by which such payments were delayed, and
+  - (iii) the Authority—
+    - (aa) drawing down credit cover in accordance with regulation 55,
+    - (bb) carrying out a mutualisation process.
+
+(5) Each quarterly report must contain current information relating to the quarter covered by the report, and the period beginning with 30th November 2021 and ending with the start of that quarter, as to the matters referred to in paragraph (4)(a) to (e), and may contain such information as to the matters referred to in paragraph (4)(f).
+
+(6) Any data which includes the meter point reference number of a customer of a scheme supplier or a former scheme supplier and which may be, or is required to be, reported or published by or under this regulation, must be reported or published (as the case may be) in anonymised form.
+
+(7) In paragraph (6)—
+
+- (a) “**anonymised form**” means that the data is in a form calculated to prevent the data from being identified as relating to a particular person or property,
+- (b) “**customer**” in relation to a scheme supplier or a former scheme supplier, means a person who is or has been supplied with gas by that supplier.
+
+### 66. Additional information[^key-e91318554eaf6c4f900c4bea7354aa73]
+
+On request by the Secretary of State, the Authority must provide to the Secretary of State in such manner and form and by such date as the Secretary of State may request such additional information as the Authority may hold in relation to the performance of its functions under these Regulations.
+
+### 67. Power to use and disclose information[^key-8a1bf342e0935986a928ac1a81e5db33]
+
+(1) This regulation applies to a person (“**P**”) who holds relevant information, including where P holds that information as a result of disclosure made in accordance with paragraph (3).
+
+(2) P may only use relevant information where it is necessary—
+
+- (a) for the purpose of carrying out a function under these Regulations,
+- (b) for the purpose of monitoring compliance with these Regulations,
+- (c) for a purpose connected with, or otherwise incidental to, a purpose described in sub-paragraph (a) or (b).
+
+(3) Subject to paragraph (5), P may only disclose relevant information to another person (the “recipient”) where it is necessary for the recipient to have the information—
+
+- (a) for the purpose of carrying out a function of the recipient under these Regulations,
+- (b) for the purpose of monitoring compliance with these Regulations,
+- (c) for a purpose connected with, or otherwise incidental to, a purpose described in sub-paragraph (a) or (b).
+
+(4) Disclosure which is authorised by this regulation does not breach—
+
+- (a) an obligation of confidence owed by the person making the disclosure, or
+- (b) any other restriction on the disclosure of information (however imposed).
+
+(5) This regulation does not limit the circumstances in which information may otherwise lawfully be disclosed under any other enactment or rule of law.
+
+(6) For the purposes of this regulation, “**relevant information**” means information provided by an applicant, a participant, a former participant, a licensed gas supplier, a scheme supplier, or a former scheme supplier in accordance with these Regulations.
+
+### 68. Notices[^key-581498b5cd5bad5176ed117a30cf26f4]
+
+(1) Any notice or notification required to be given or served under these Regulations must be in writing and may be sent by electronic means, including by sending it to an email address provided by the addressee for the purposes of these Regulations.
+
+(2) Any such notice or notification required to be given to or served on an applicant, a participant, a former participant, a scheme supplier, or a former scheme supplier (“**P**”) may be given or served by—
+
+- (a) delivering or sending it to, or leaving it at—
+  - (i) P’s registered office (where applicable),
+  - (ii) P’s principal place of activity, or
+  - (iii) another address specified by P as their address for service, or
+- (b) electronic means, including by sending it to an email address provided by P for the purposes of these Regulations.
+
+Callanan
+
+Parliamentary Under Secretary of State
+
+Department for Business, Energy and Industrial Strategy
+
+## SCHEDULE 1 — Information required for registration
+
+Regulation 5(2)(a)
+
+**1.**[^key-8c46b64222e0b41b7b389dfad6a9faf6] This Schedule specifies the information that may be required of an applicant for registration.
+
+**2.**[^key-d083ab35e31021cac4081697c6326430] The information is (as applicable to the applicant)—
+
+- (a) name and telephone number,
+- (b) any company registration number,
+- (c) any trading or other name by which the applicant is commonly known,
+- (d) details of a bank account in the applicant’s name which accepts pound sterling deposits in the United Kingdom,
+- (e) information to enable the Authority to satisfy itself as to the identity of the individual completing the application,
+- (f) where an individual is making an application on behalf of an organisation, evidence which satisfies the Authority that the individual has authority from the organisation to make the application on its behalf,
+- (g) details of the feedstock which the producer of the biogas which is to be used to produce biomethane is proposing to use,
+- (h) where the applicant is an organisation, details of the size and annual turnover of the organisation,
+- (i) evidence which demonstrates to the satisfaction of the Authority that the equipment used to produce biomethane to which the applicant’s tariff guarantee applies has been commissioned,
+- (j) evidence which demonstrates to the satisfaction of the Authority that—
+  - (i) any necessary environmental permit has been granted, or where regulation 6(5)(d)(ii) applies, has been applied for and the application has been accepted by the Environment Agency, the Natural Resources Body for Wales, or the Scottish Environment Protection Agency, as appropriate, or
+  - (ii) an environmental permit is not required,
+- (k) information relating to the costs of purchasing and installing the equipment used to produce biomethane, and the cost of the connection whereby the biomethane is injected into the pipe-line system,
+- (l) information relating to the connection whereby the biomethane is injected into a pipe-line system, and which must be submitted by the participant to a person appointed in accordance with regulation 13 for the purposes of an audit,
+- (m) confirmation, in such form as the Authority may require, that the applicant will comply with the requirements relating to digestate set out in regulation 9(13), and
+- (n) such other information as the Authority may require to enable it to consider the application for registration.
+
+**3.**[^key-108a3a5114ca434ec06a1f040a61d7f8] Information specified in this Schedule must be provided in such manner and form as the Authority may reasonably request.
+
+**4.**[^key-46dbe6745a094242494539c600c87369] The costs of providing the information specified in this Schedule are to be borne by the applicant.
+
+## SCHEDULE 1A — Information required for registration of an eligible heat pump[^key-928e6562c272166e13b2449989d9d56b]
+
+Regulation 8A(2)(a)
+
+**1.** This schedule specifies the information that the Authority may require of an applicant or participant to determine whether a heat pump is an eligible heat pump.
+
+**2.** The information is (as applicable to the applicant or participant)—
+
+- (a) the heat pump manufacturer and model,
+- (b) the commissioning date of the heat pump,
+- (c) the system design of the heat pump,
+- (d) the energy input and heat output of the heat pump,
+- (e) installation certifications for the heat pump,
+- (f) markings on schematic diagrams of the heat pump,
+- (g) metering information, including any heat loss, provided in a metric as requested by the Authority,
+- (h) electrical metering information,
+- (i) photographs of the installation of the heat pump,
+- (j) documentation expressing the coefficient of performance of a heat pump, with supporting calculations,
+- (k) planning permission evidence for the heat pump, and
+- (l) any further information which the Authority may require.
+
+**3.** Information specified in this Schedule must be provided in such a manner and form as the Authority may reasonably request.
+
+**4.** The costs of providing the information specified in this Schedule are to be borne by the applicant or participant.
+
+## SCHEDULE 2 — Approval of schemes for listing sustainable fuels
+
+Regulation 2(1)
+
+**1.**[^key-99af6e1ed7e50280cbdff6aea23e9bc3] Where the Secretary of State is satisfied that a scheme complies with the requirements in paragraph 2, the Secretary of State may approve that scheme for the purpose of these Regulations.
+
+**2.**[^key-854c99f7cc9fc5158fb0d8358e8bee4e] The requirements in this paragraph are that appropriate procedures have been adopted to ensure that the person administering the scheme (“the scheme administrator”)—
+
+- (a) establishes and maintains an accurate and up to date list of fuels which—
+  - (i) are feedstocks used to produce biomethane,
+  - (ii) comply with the requirements in paragraph 3 or 4, and
+  - (iii) are available to be supplied to participants,
+- (b) includes on the list all those feedstocks in respect of which—
+  - (i) an application has been made to the scheme administrator for that feedstock to be included in the list, and
+  - (ii) the supplier is able to demonstrate compliance with the requirements in paragraph 3 or 4,
+- (c) processes applications by feedstock suppliers for the inclusion of fuel in the list promptly and fairly,
+- (d) ensures that application procedures are clear, proportionate and accessible to suppliers,
+- (e) ensures that each fuel which is included in the list is allocated an authorisation number or other means of identification which is specific to that feedstock,
+- (f) requires suppliers of listed feedstocks to—
+  - (i) store listed feedstocks separately from other feedstocks supplied by them which are not so listed, and
+  - (ii) provide documentary evidence of the authorisation number or other means of identification when supplying an approved feedstock,
+- (g) carries out reasonable checks to ensure that feedstocks which are listed continue to comply with the requirements in sub-paragraph (f) and paragraph 3 or 4,
+- (h) takes reasonable steps to identify and remove from the list—
+  - (i) any feedstock which no longer complies with the requirements in paragraph 3 or 4, or
+  - (ii) any feedstock which has ceased (other than temporarily) to be available,
+- (i) where appropriate, removes from the list those feedstocks which are supplied by a supplier who breaches the requirements of the scheme, and
+- (j) deals with complaints by suppliers in relation to the operation of the scheme in a fair and transparent manner.
+
+**3.**[^key-8a06634acdc05e22418f2ef83d189589] The requirements in this paragraph are—
+
+- (a) that the feedstock meets the greenhouse gas criteria, and
+- (b) that any feedstock which is included in the list meets the land criteria.
+
+**4.**[^key-55f7233fa1bd5b31993f1664307fea3a] The requirement in this paragraph is that the feedstock is, or is wholly derived from, waste.
+
+**5.**[^key-cc22867439d6514711814baac6dd6266] Where the Secretary of State approves a scheme under paragraph (1), the Secretary of State may declare that any feedstock—
+
+- (a) listed under that scheme before the date on which the scheme is approved, and
+- (b) received by a participant before that date,
+
+is deemed to meet the requirement in paragraph 3(a) and the land criteria.
+
+**6.**[^key-2cec0a874f30f6f620db3f99dd4c33a5] Where the Secretary of State is no longer satisfied that an approved scheme complies with the requirements in paragraph 2, the Secretary of State may by notice to the scheme administrator, revoke approval of the scheme with effect from the date specified in the notice.
+
+**7.**[^key-dc3da66002c4719e456c7441f6c3088a] Where approval is revoked in accordance with paragraph 6, any feedstock listed under the scheme which has been supplied to a participant before the date on which the approval is revoked is treated as an approved sustainable fuel for the purposes of these Regulations.
+
+**8.**[^key-bc297e40ceaf33177cd04acb13f861c9] In this Schedule—
+
+- (a) “**greenhouse gas criteria**” has the meaning given in regulation 12(10)(a),
+- (b) “**land criteria**” has the meaning given in regulation 12(10)(d).
+
+## SCHEDULE 3 — Land criteria
+
+Regulation 12(10)(d)
+
+### PART 1 — Interpretation
+
+**1.**[^key-3a66e859e4ed730ef33f1f3d6d85cdc4] (1) In this Schedule—
+
+- “**continuously forested area**” means land of an area of more than one hectare which includes—
+  - (a) trees more than five metres tall providing a tree canopy cover of more than 30%, or
+  - (b) trees collectively having the capacity to provide a tree canopy cover of more than 30% which—
+    - (i) are more than five metres tall, or
+    - (ii) have the capacity to grow to a height of more than five metres;
+- “**designated for nature protection purposes**” means designated pursuant to the law of the United Kingdom or of any part of the United Kingdom or pursuant to the law of any country or territory outside the United Kingdom, for the purpose of protecting the natural environment;
+- “**highly biodiverse grassland**” means highly biodiverse grassland that is—
+  - (a) natural, namely grassland that would remain grassland in the absence of human intervention and which maintains the natural species composition and ecological characteristics and processes, or
+  - (b) non-natural, namely grassland that would cease to be grassland in the absence of human intervention and which is species-rich and not degraded, unless evidence is provided that the harvesting of the raw material is necessary to preserve its grassland status;
+- “**primary forest**” means woodland of native species, where there is no clearly visible indication of human activity and ecological processes are not significantly disturbed;
+- “**wetland area**” means land that is covered with or saturated by water—
+  - (a) permanently, or
+  - (b) for a significant part of the year.
+
+(2) For the purposes of this Schedule—
+
+- (a) material is added to solid biomass for an exempt purpose if—
+  - (i) it is added for the purpose of the use of that solid biomass as a fuel, in order to—
+    - (aa) act as a binding agent, or
+    - (bb) reduce emissions of dust, carbon dioxide, methane or nitrous oxide from the use of the fuel, and
+  - (ii) it does not exceed 2% of the weight of the fuel,
+- (b) solid biomass was obtained from a former continuously forested area if the land—
+  - (i) was a continuously forested area at any time during January 2008, and
+  - (ii) was not a continuously forested area when the solid biomass was obtained from it.
+- (c) solid biomass was obtained from a former wetland area if the land—
+  - (i) was a wetland area at any time during January 2008, and
+  - (ii) was not a wetland area when the solid biomass was obtained from it.
+
+### PART 2 — Land criteria for solid biomass which is wood or wholly derived from wood, excluding energy crops
+
+**2.**[^key-2bdd170ee6c6677bede744ca3fef6239] Solid biomass which is wood or wholly derived from wood (except energy crops) meets the land criteria if—
+
+- (a) at least 70% of the consignment was obtained from a sustainable source,
+- (b) where more than one consignment is used in a quarter, at least 70% of the solid biomass used was obtained from a sustainable source, or
+- (c) the solid biomass was certified under an environmental quality assurance scheme which ensures that at least 70% of the solid biomass certified by that scheme was obtained from a sustainable source.
+
+**3.**[^key-2fc087230f8e214ba6da8654c146fcfb] (1) For the purposes of paragraph 2, solid biomass which is wood or wholly derived from wood (except energy crops) is obtained from a sustainable source if it—
+
+- (a) was grown within an area of forest or of other land which is managed—
+  - (i) in a way that is consistent with—
+    - (aa) the Forest Europe Sustainable Forest Management Criteria, or
+    - (bb) a set of international principles for the sustainable management of land which meet the requirements specified in sub-paragraph (2), and
+  - (ii) to meet the requirements specified in sub-paragraph (4),
+- (b) was residue from arboriculture carried out in an area which was not a forest, or
+- (c) was removed for the purpose of creating, restoring or maintaining the ecosystem of an area which was not a forest.
+
+(2) The requirements specified in this sub-paragraph are that—
+
+- (a) the principles have been adopted following a process (“the principle-setting process”) which sought to—
+  - (i) obtain a balanced representation of the views of interest groupings,
+  - (ii) ensure that no single interest grouping could dominate the principle-setting process, and
+  - (iii) ensure that no decision on the contents of the principles could be made in the absence of agreement from a majority within each interest grouping involved in the principle-setting process, and
+- (b) the principles can be changed by a process (“the change process”) which seeks to ensure that—
+  - (i) no single interest grouping can dominate the change process, and
+  - (ii) no decision on changes to the principles can be made in the absence of agreement from a majority within each interest grouping involved in the change process.
+
+(3) For the purposes of sub-paragraph (2), each of the following is an interest grouping in relation to an area of forest or of other land where the solid biomass was grown—
+
+- (a) persons with interests which are predominantly economic in nature,
+- (b) persons with interests which are predominantly environmental in nature,
+- (c) persons with interests which are predominantly social in nature.
+
+(4) The requirements specified in this sub-paragraph are—
+
+- (a) harm to ecosystems is minimised, in particular by—
+  - (i) assessing the impacts of the extraction of wood from the area and adopting plans to minimise any negative impacts,
+  - (ii) protecting soil, water and biodiversity,
+  - (iii) controlling the use of chemicals and ensuring that chemicals are used in an appropriate way,
+  - (iv) wherever possible, using integrated pest management, and
+  - (v) disposing of waste in a manner that minimises any negative impacts,
+- (b) the productivity of the area is maintained, in particular by—
+  - (i) adopting plans to avoid significant negative impacts on productivity,
+  - (ii) adopting procedures for the extraction of wood that minimise the impact on other uses of the area,
+  - (iii) providing for all of the contractors and workers who are working in the area to be adequately trained in relation to the maintenance of productivity, and
+  - (iv) maintaining an adequate inventory of the trees in the area (including data on the growth of the trees and on the extraction of wood) so as to ensure that wood is extracted from the area at a rate which does not exceed its long-term capacity to produce wood,
+- (c) compliance with the requirement specified in paragraph (b) is monitored, the results of that monitoring are reviewed and planning is updated accordingly,
+- (d) the health and vitality of ecosystems is maintained, in particular by—
+  - (i) adopting plans to maintain or increase the health and vitality of ecosystems,
+  - (ii) adopting plans to deal with natural processes or events such as fires, pests and diseases, and
+  - (iii) taking adequate measures to protect the area from unauthorised activities such as illegal logging, mining and encroachment,
+- (e) biodiversity is maintained, in particular by—
+  - (i) implementing safeguards to protect rare, threatened and endangered species,
+  - (ii) conserving key ecosystems in their natural state, and
+  - (iii) protecting features and species of outstanding or exceptional value,
+- (f) those responsible for the management of the area (and any contractors engaged by them) comply with local and national laws relating to health and safety and the welfare of workers,
+- (g) those responsible for the management of the area have regard to—
+  - (i) legal, customary and traditional rights of tenure and land use,
+  - (ii) mechanisms for resolving grievances and disputes including those relating to tenure and land use rights, forest or land management practices and working conditions, and
+  - (iii) safeguarding the health and safety and rights of workers, and
+- (h) there is regular assessment of the extent to which those responsible for the management of the area have met the requirements specified in paragraphs (a) to (g).
+
+**4.**[^key-18b8e88a612bfb3ca3b0784bab94f4d0] Material added to solid biomass for an exempt purpose is disregarded for the purposes of paragraph 2.
+
+**5.**[^key-2c939a8d4930584a397ebc6ff7836b5b] For the purposes of paragraph 3—
+
+- (a) “**integrated pest management**” means careful consideration of all available plant protection methods and subsequent integration of appropriate measures that discourage the development of populations of harmful organisms and keep the use of plant protection products and other forms of intervention to levels that are economically and ecologically justified and reduce or minimise risks to human health and the environment,
+- (b) “**Forest Europe Sustainable Forest Management Criteria**” means the criteria for sustainable forest management in Lisbon Resolution L2 of the third Ministerial conference on the Protection of Forests in Europe held in June 1998[^f00036].
+
+### PART 3 — Land criteria for other solid biomass including energy crops
+
+**6.**[^key-a27c25d7d01d7715035cd803d9ac3f30] Solid biomass which is not wood or derived wholly from wood, or which is an energy crop, meets the land criteria if it—
+
+- (a) was not obtained from a protected source,
+- (b) was an energy crop in respect of which financial assistance was paid under the Energy Crops Regulations 2000[^f00037] or under an equivalent financial assistance scheme, or
+- (c) was residue (other than residue from agriculture, aquaculture, fisheries or forestry).
+
+**7.**[^key-3ab06fdd4c179f767503198b54722b39] Material added to solid biomass for an exempt purpose is disregarded for the purposes of paragraph 6.
+
+**8.**[^key-e58446ceccf02c23e182695a7c009e04] Solid biomass is obtained from a protected source if it is obtained from—
+
+- (a) land which at any time during or after January 2008 was primary forest,
+- (b) except where paragraph 9 applies, land which at any time during or after January 2008 was designated for nature protection purposes,
+- (c) highly biodiverse grassland unless harvesting is necessary to preserve the grassland status,
+- (d) except where paragraph 10 applies, land which at any time during January 2008 was peatland,
+- (e) a former continuously forested area, or
+- (f) a former wetland area.
+
+**9.**[^key-209cb3c47429e4273cfdf7b9cad7eb42] This paragraph applies if the production of the solid biomass did not interfere with the nature protection purposes for which the land was designated.
+
+**10.**[^key-22623ddd0de85c9d78f1d494d15efe13] This paragraph applies if the cultivation and harvesting of the solid biomass did not involve the drainage of previously undrained soil.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, which apply in Great Britain, establish the Green Gas Support Scheme (“**the Scheme**”) which runs to 31st March 2041.
+
+The Scheme is a renewable heat incentive scheme to facilitate and encourage the production of biomethane by anaerobic digestion, for injection into the gas grid. To that extent the Scheme replaces the Renewable Heat Incentive Scheme, set out in the Renewable Heat Incentive Scheme Regulations 2018 ([S.I. 2018/611](https://www.legislation.gov.uk/uksi/2018/611)), which closed to new applicants, with some exceptions, on 31st March 2021.
+
+The Scheme supports the production of biomethane through a tariff based mechanism, and is funded by levy payments from fossil fuel suppliers.
+
+The Regulations confer functions on the Gas and Electricity Markets Authority (“**the Authority**”) in relation to the administration of the Scheme.
+
+Part 2 (registration of participants and tariff guarantees) sets out the process by which a person who produces, or proposes to produce, biomethane for injection by anaerobic digestion can apply to be registered as a participant in the Scheme in relation to that production using specified equipment used to produce biomethane (that is, equipment including at least one anaerobic digester).
+
+It provides that the person must first make an application to the Authority for a tariff guarantee. The effect of the tariff guarantee, if granted, is that once they are registered as a participant, they are entitled to be paid the initial tariff that applied on the date of their application for the tariff guarantee (rather than the initial tariff applicable on the date on which they become registered as a participant). It also provides for registered participants to apply to be registered in relation to additional biomethane capacity. The final date on which an applicant may be registered as a participant, and a participant can be registered in relation to additional biomethane, under the Scheme is 30th November 2025.
+
+Part 3 (ongoing obligations on participants) sets out the obligations on participants, including in relation to: the feedstock from which the biomethane may be produced, the spreading of digestate generated from anaerobic digesters, the provision of information to the Authority, and the requirement to produce sustainable biomethane and to submit sustainability audit reports to the Authority.
+
+Part 4 (changes affecting participants) provides for the Authority to review a participant’s registration following a change of circumstances. It also sets out the circumstances in which a person who starts to use equipment to produce biomethane, where that equipment was previously used by a registered participant, can become registered instead as the participant. And it provides for a participant to withdraw from the Scheme.
+
+Part 5 (periodic support payments) sets out a participant’s entitlement to periodic support payments for 15 years from the date of their registration as a participant, and sets out the mechanisms by which initial and subsequent tariffs are calculated.
+
+Part 6 (enforcement: participants) provides for the Authority to take action in the event that a participant fails to comply with an ongoing obligation, or was registered as a participant on the basis of information which was incorrect in a material particular. The Authority may: withhold or reduce a participant’s periodic support payments, correct the level of tariff being paid to a participant, revoke a participant’s registration, and recover overpayment of periodic support payments.
+
+Part 7 (the levy) provides that licensed gas suppliers who are fossil fuel suppliers are “scheme suppliers” and liable to make levy payments to the Authority. But it provides that, where the Authority is satisfied that at least 95% of the gas supplied by them in a year was biomethane, a licensed gas supplier is not a scheme supplier in relation to that year, but is an exempt supplier. It sets out the mechanism by which a supplier must notify the Authority, before the start of a year, if they consider it is likely they will be an exempt supplier, and by which the Authority will determine, after the end of the year, whether the supplier is in fact exempt.
+
+Part 7 requires scheme suppliers to lodge levy credit payments, or provide letters of credit, and to make quarterly levy payments in arrears. It provides for the Secretary of State to calculate a levy rate each year, based on factors including the projected scheme expenditure on periodic support payments for that year, and sets out the mechanism by which the Authority calculates the quarterly levy payments of each scheme supplier, based on the number of meter points served by them.
+
+Part 8 (additional obligations on scheme suppliers) sets out the obligations on scheme suppliers to provide information to the Authority, including information about the number of meter points served by them.
+
+Part 9 (changes affecting scheme suppliers) provides that, where a scheme supplier was a provisionally exempt supplier in relation to a year but is not subsequently determined to be an exempt supplier in relation to that year, they are required to make a backdated levy payment in relation to that year. It provides that where a supplier is confirmed to be an exempt supplier in relation to a year, but had not been a provisionally exempt supplier in relation to that year, the Authority must make a refund payment to them in relation to that year. And it provides for a scheme supplier to cease to be a scheme supplier (other than by virtue of being a provisionally exempt or exempt supplier) and for the payment to the Authority, or to the former scheme supplier, of any sums due as a result.
+
+Part 10 (compliance and enforcement: scheme suppliers) provides for the Authority to serve enforcement notices where it is satisfied that a scheme supplier has failed to make payments under the Regulations, to recover sums due together with interest. It makes provision for the Authority to draw down a scheme supplier’s credit cover to settle the amount outstanding. And, where the amount of a scheme supplier’s credit cover is insufficient to cover the amount outstanding, it provides for the Authority to carry out a mutualisation process, whereby the outstanding amount is recovered from the other scheme suppliers. It also provides for the Authority to serve penalty notices where a scheme supplier is in breach of an obligation under the Regulations, and for unpaid amounts to be recovered as a civil debt. It provides for the Authority to maintain a public register of suppliers’ default, and for scheme suppliers to appeal to the High Court in England and Wales, and the Court of Session in Scotland, against the imposition of an enforcement notice or a penalty notice.
+
+Part 11 (administrative functions of the Authority) enables any applicant, participant or former participant to apply to the Authority for a review of any decision affecting them. It requires/enables the Authority to publish guidance in relation to the administration of the Scheme, and requires the Authority to report on the operation of the Scheme to the Secretary of State.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Department for Business, Energy and Industrial Strategy at 1 Victoria Street, London, SW1H 0ET and is published with the Explanatory Memorandum alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32). Section 100 was amended by section 51 of the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7) and by [S.I. 2011/2195](https://www.legislation.gov.uk/uksi/2011/2195).
+
+[^f00002]: Footnote: Section 105 (parliamentary control of subordinate legislation) was amended by section 51 of the Infrastructure Act 2015 which inserted subsections (3A) to (3I) concerning provisions which require the affirmative resolution procedure.
+
+[^f00003]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Section 148A, which was added by section 55(1) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), requires the Secretary of State to consult the Welsh Ministers before establishing a renewable energy incentive scheme under section 100 of the Energy Act 2008 (“**the 2008 Act**”) that applies in Wales, but not in relation to any levy in connection with such a scheme.
+
+[^key-e4caab8dfc26f9b7e7c88481fd5ad3df]: Commencement: Reg. 1 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-d8e36b8c1ee44ddbcdfa74bda1ddbbdc]: Commencement: Reg. 2 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^f00004]: Footnote: See section 100(3) of the 2008 Act for the definition of “biomethane”.
+
+[^key-63224700ea0062cfe350c7b21b06109e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/2/1) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/642/regulation/3/a)
+
+[^f00005]: Footnote: See section 100(3) of the 2008 Act for the meanings of “plant” and “biogas”.
+
+[^f00006]: Footnote: See section 100(3) of the 2008 Act for the definition of “biomass”.
+
+[^f00007]: Footnote: [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4).
+
+[^f00008]: Footnote: The Statistics Board was established by section 1 of the Statistics and Registration Service Act [2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18).
+
+[^f00009]: Footnote: The “**Authority**” means the Gas and Electricity Markets Authority (see section 100(3) of the 2008 Act).
+
+[^key-a87379b84f8bfd157adcf460b6c4d05e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/2/1) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/3/a)
+
+[^f00010]: Footnote: The ISBN for the English language version of this standard is ISBN 0 580 19482 5. This standard was published by the British Standards Institution on 28th June 2011. Copies are available at www.bsigroup.com and hard copies can be obtained from BSI Customer Services, 389 Chiswick High Road, London W4 4AL.
+
+[^f00011]: Footnote: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154); relevant amending instruments are [S.I. 2018/110](https://www.legislation.gov.uk/uksi/2018/110) and [428](https://www.legislation.gov.uk/uksi/2018/428), and [2019/39](https://www.legislation.gov.uk/uksi/2019/39).
+
+[^f00012]: Footnote: [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360); relevant amending instruments are [S.S.I. 2014/267](https://www.legislation.gov.uk/ssi/2014/267), [2016/39](https://www.legislation.gov.uk/ssi/2016/39) and [2017/446](https://www.legislation.gov.uk/ssi/2017/446).
+
+[^key-07d36532ae424e9e984953f4930fe1dc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/2/1) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/3/b)
+
+[^f00013]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 7 was substituted by section 5 of the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45), and amended by section 76 of, and paragraph 4 of Schedule 6 and Schedule 8 to, the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), by section 149(5) of the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), and by [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704).
+
+[^key-f8d64c42cbdb2a2360e72d15981f83ea]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/2/1) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/3/c)
+
+[^f00014]: Footnote: Section 7A was inserted by section 6(1) of the Gas Act 1995 and amended by paragraph 2(1) of Schedule 6 to the Utilities Act 2000, and by section 149(7) of the Energy Act 2004.
+
+[^f00015]: Footnote: Section 36C(7) was inserted by section 81(1) of the Energy Act [2011 (c 16)](https://www.legislation.gov.uk/ukpga/2011/16). See paragraph A4.1.1 of the Transportation Principal Document of the Uniform Network Code, issued on 24th July 2020, for the definition of “supply meter point”. Copies of that document are available at www.gasgovernance.co.uk/TPD. Hard copies are not available.
+
+[^f00016]: Footnote: Section 5(6) to (10) was inserted by section 149(3) of the Energy Act 2004.
+
+[^key-0e6c0f6a389c17176825969331640cce]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/2/1) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2024/642/regulation/3/b)
+
+[^f00017]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 75(2) was substituted by [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988).
+
+[^f00018]: Footnote: [S.S.I. 2011/228](https://www.legislation.gov.uk/ssi/2011/228).
+
+[^f00019]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-6ed87babf15095d1ba0b391145be3a21]: Commencement: Reg. 3 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^f00020]: Footnote: Section 100 of the 2008 Act enables the Secretary of State to make Regulations establishing a scheme to facilitate and encourage “renewable generation of heat”, which means the generation of heat by means of sources of energy including biogas.
+
+[^key-0117ee0487ba9e2573cd87cf1c308f84]: Commencement: Reg. 4 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-5c8360ad47348b11905e76a6b761b8b7]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/2/a) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2024/642/regulation/4/a)
+
+[^f00021]: Footnote: [S.I. 2011/2860](https://www.legislation.gov.uk/uksi/2011/2860), as amended by [S.I. 2013/1033](https://www.legislation.gov.uk/uksi/2013/1033), [2410](https://www.legislation.gov.uk/uksi/2013/2410) and [3179](https://www.legislation.gov.uk/uksi/2013/3179), [2014/1413](https://www.legislation.gov.uk/uksi/2014/1413), [2015/197](https://www.legislation.gov.uk/uksi/2015/197) and [477](https://www.legislation.gov.uk/uksi/2015/477), [2016/718](https://www.legislation.gov.uk/uksi/2016/718) and [1197](https://www.legislation.gov.uk/uksi/2016/1197), and [2017/727](https://www.legislation.gov.uk/uksi/2017/727) and [857](https://www.legislation.gov.uk/uksi/2017/857).
+
+[^f00022]: Footnote: [S.I. 2018/611](https://www.legislation.gov.uk/uksi/2018/611), as amended by [S.I. 2021/76](https://www.legislation.gov.uk/uksi/2021/76). There are other amendments not relevant to this instrument. Regulation 32 provides for a producer of biomethane for injection to be registered as a participant in the Renewable Heat Incentive Scheme, and to receive periodic support payments in relation to that production of biomethane. That scheme closed to new applications, with some exceptions, on 31st March 2021 (see regulations 3A and 3B of those Regulations inserted by [S.I. 2021/76](https://www.legislation.gov.uk/uksi/2021/76)).
+
+[^key-de25a9d7b013f1489cf527ca488402f0]: Textual amendment: [Reg. 4(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/7/b/ii) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2024/642/regulation/4/b)
+
+[^key-124c816950d3c17ecc7e5e63e448b013]: Textual amendment: Words in [reg. 4(9)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/9) substituted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
+
+[^key-dcdf157518b373935b616f69b827e73c]: Textual amendment: Reg. 4(9A)(9B) inserted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
+
+[^key-6d432112349f6b15f51e975c5f61f935]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) substituted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/a/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
+
+[^key-ef249ee15481861b452a242a717d45c4]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) substituted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/a/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
+
+[^f00023]: Footnote: This is a factor to account for the calorific value per cubic metre of biomethane (10 kWh/m<sup>3</sup>) and proportion of eligible biomethane per unit of biomethane injected (0.91).
+
+[^key-72ce577d2dd5a0c13fa534fbe19e17a4]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) inserted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/a/iii/aa) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
+
+[^key-e91bfd54739bd7b2cf78fa4ab18295fd]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) omitted (1.7.2022) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/a/iii/bb) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
+
+[^key-84d79fe038e5e8bfed960d7627ccd5ce]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) substituted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(a)(iii)(cc)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/a/iii/cc) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
+
+[^key-436122c9612e2d67cc3dc461756ede5b]: Textual amendment: Word in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) omitted (1.7.2022) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/b/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
+
+[^key-0d5a42910d29e9bf7b1e0f8733e8a423]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) inserted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/b/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
+
+[^key-54228e38a980b0ccaf45b5995cdc5a73]: Textual amendment: Word in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) omitted (4.6.2024) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [4(c)(i)](https://www.legislation.gov.uk/uksi/2024/642/regulation/4/c/i)
+
+[^key-e2ac72e22b57cdc78c3695533687a460]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2024/642/regulation/4/c/ii)
+
+[^key-79dc016673d68ece04d52156035dcefd]: Commencement: Reg. 5 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-2334780714930b92eaaa9a954021c5d7]: Commencement: Reg. 6 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-18ffbdefdbaae8a9c4693dd2d5463a55]: Textual amendment: Word in reg. 6(5)(d) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 34(2)(a)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/34/2/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-dd6212e203a33bb400ef33970914e10b]: Textual amendment: Words in reg. 6(5)(d)(ii) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 34(2)(b)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/34/2/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^f00024]: Footnote: Regulatory position statements are published by the Environment Agency at: https://www.gov.uk/government/collections/basic-rules-environmental-permitting-regulatory-positions, and copies can be obtained from the Environment Agency at National Customer Contact Centre, PO Box 544, Rotherham, S60 1BY. Regulatory decisions are published by the Natural Resources Body for Wales at: https://naturalresources.wales/about-us/news-and-events/statements/?lang=en, and copies can be requested from the Natural Resources Body for Wales on 0300 065 3000. Position statements are published by the Scottish Environment Protection Agency at: https://www.sepa.org.uk/regulations/waste/guidance/#position\_statements, and copies can be obtained from the Scottish Environment Protection Agency at Strathallan House, Castle Business Park, Stirling FK9 4TZ.
+
+[^key-07b4f2c4cdf22a67eee80799186190ce]: Textual amendment: Words in reg. 6(5)(d)(ii)(aa) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 34(2)(c)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/34/2/c) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-b0ca3b331c727dd559d3e153a2b1f5e3]: Textual amendment: Words in reg. 6(6)(d) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/642/regulation/5)
+
+[^key-4178cb80ddc5a336a4be1cd3eaf82329]: Commencement: Reg. 7 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-6136b3e3c953ee2ebc4235893aaa5889]: Textual amendment: Words in [reg. 7(3)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/7/3/b) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/642/regulation/6)
+
+[^f00025]: Footnote: [1993 c. 39](https://www.legislation.gov.uk/ukpga/1993/39). Section 1 was amended by section 3 of the National Lottery Act [2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23).
+
+[^key-ecbc70a2f0e223dcd3d601f8857b7ed2]: Commencement: Reg. 8 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-b60ba92b4be1c9e13d06ec918cc8549f]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/8/1/b) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/642/regulation/7)
+
+[^key-b41b4b21d84cf3438880be9fd315d735]: Textual amendment: Reg. 8A inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2024/642/regulation/8)
+
+[^key-7fd5760cf0dcf5aa506bdcc4d3556b9c]: Commencement: Reg. 9 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^f00026]: Footnote: See section 100(3) of the 2008 Act for the definition of “fossil fuel”.
+
+[^key-973507e32b6d9890d39de100135b2a6b]: Textual amendment: Word in [reg. 9(10)(d)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/9/10/d) omitted (4.6.2024) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/642/regulation/9/a)
+
+[^key-dd379cd5c6b87d61a3ce0f128ae128b0]: Textual amendment: Word in [reg. 9(10)(e)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/9/10/e) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [9(b)(i)](https://www.legislation.gov.uk/uksi/2024/642/regulation/9/b/i)
+
+[^key-cd8c024d9c22dcead1d2fdbc46b1237a]: Textual amendment: Reg. 9(10)(f) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2024/642/regulation/9/b/ii)
+
+[^f00027]: Footnote: The Code can be viewed at: https://www.gov.uk/government/publications/code-of-good-agricultural-practice-for-reducing-ammonia-emissions/code-of-good-agricultural-practice-cogap-for-reducing-ammonia-emissions. It is not available in hard copy.
+
+[^key-7f2ebe1442e84e60fcafa2290aa5ce9c]: Commencement: Reg. 10 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-981215d5619413a40a87ac715f565ca3]: Textual amendment: Reg. 10(1)(ga) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2024/642/regulation/10)
+
+[^key-76c698b93b41437f0b7ca52f5098fdff]: Textual amendment: Words in reg. 10(1)(j)(ii) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 34(3)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/34/3) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-dd41c38e829184d3f6f73a836fd9d540]: Commencement: Reg. 11 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-8d4a76a118951969a9474f0ac8d04f0e]: Commencement: Reg. 12 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-4f4609806efc0d879f28f9c4233678eb]: Commencement: Reg. 13 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^f00028]: Footnote: International Standard on Assurance Engagements (UK) 3000 (July 2020): Assurance engagements other than audits or reviews of historical financial information, published by the Financial Reporting Council in July 2020. Copies are available at www.frc.org.uk, and hard copies can be obtained from the Financial Reporting Council, 8th Floor, 125 London Wall, London, EC2Y 5AS.
+
+[^key-c666e5b060525788845ce38ee53bfeb0]: Commencement: Reg. 14 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-587c96b9de477bae923f80901b2499fc]: Textual amendment: Word in [reg. 14(1)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/14/1/a) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2024/642/regulation/11)
+
+[^key-0fa22622776e7d354c4d13bc7ffb9cb1]: Commencement: Reg. 15 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-9a79a7ba746d531fb9e5b03fc8cfe868]: Textual amendment: Words in [reg. 15(4)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/15/4) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2024/642/regulation/12)
+
+[^key-2b525373b29cff33dc6b50b009f66d5a]: Commencement: Reg. 16 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-ee9aac35bc72f64bf70a84ceff473e70]: Commencement: Reg. 17 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-df29f26ea9d768d64fe23c756f39d47a]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2021/1335/regulation/17) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2024/642/regulation/13)
+
+[^key-83274ee1c80400ac1853dc9bf945f243]: Commencement: Reg. 18 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-c0ea3dbd9402fa56c3330c9132f40640]: Commencement: Reg. 19 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-a81d5875ff967755ac327bc5e8955b81]: Commencement: Reg. 20 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-8ad43c2aad732def84fb72dde846d0a6]: Commencement: Reg. 21 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-7b5c6f31610e0209ea04f23c5db17d84]: Commencement: Reg. 22 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-fd67e18a28418dcb6d6efdf7c854dbab]: Textual amendment: Words in [reg. 22(3)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/22/3/a) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2024/642/regulation/14)
+
+[^key-c5453652e8bc12076bcb571c68d4ed2c]: Commencement: Reg. 23 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-2120a0ba53a8ca75b0d9878b6d609eb6]: Commencement: Reg. 24 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-c184e14bca981cf4f4c787fa61e2767e]: Commencement: Reg. 25 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-e50ec4125d11262e533ca2f6c3d8c312]: Commencement: Reg. 26 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-1861c56dc3396dfbc731ad495f8ccb7e]: Commencement: Reg. 27 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-87788b8f809af388ed71de281c9e878b]: Textual amendment: [Reg. 27(2)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/27/2) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2024/642/regulation/15/a)
+
+[^f00029]: Footnote: [S.I. 2007/3072](https://www.legislation.gov.uk/uksi/2007/3072), as amended by [S.I. 2011/493](https://www.legislation.gov.uk/uksi/2011/493) and [2937](https://www.legislation.gov.uk/uksi/2011/2937), [2015/534](https://www.legislation.gov.uk/uksi/2015/534) and [2018/374](https://www.legislation.gov.uk/uksi/2018/374).
+
+[^key-35d78441fc2300167996f6a4d7d4878e]: Textual amendment: Reg. 27(11) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2024/642/regulation/15/b)
+
+[^key-f66499c87f045e6d1eb040315722fc27]: Commencement: Reg. 28 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-f4bc60c80ecc81a8a05be9d43daef9ef]: Commencement: Reg. 29 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-f16732648fb5fdd8d741fce4252d5917]: Commencement: Reg. 30 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-de894fb1accdf505261285d8767e839b]: Commencement: Reg. 31 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-f9bdf94e50fa182425bbb3b8405bc5d2]: Commencement: Reg. 32 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-f444d2fb7efade806c3e227477fcc1f8]: Commencement: Reg. 33 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-0dd50c27598d6984c52baf2647a859d8]: Commencement: Reg. 34 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-49f96578673bb01b7fa36a5cdf325ec7]: Commencement: Reg. 35 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-bd28279d04a9af27923936628d237479]: Commencement: Reg. 36 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-4c277d439e078bc47e2f435ab52895bb]: Commencement: Reg. 37 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-97e0d93b76b7fad5264100e33d7c50e5]: Commencement: Reg. 38 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^f00030]: Footnote: See section 100(3) of the 2008 Act for the definitions of “fossil fuel supplier” and “fossil fuel”.
+
+[^f00031]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-24a0496c6954934cf3ae496ef9b908d6]: Commencement: Reg. 39 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-4ac07a77a7ba3f2524e28bcc81c4e277]: Textual amendment: [Reg. 39(1)(c)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/39/1/c): in the formula, for “+Iy-2” it is substituted “-Iy-2” (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/4/a)
+
+[^key-3b049e2f0af134d9830cfd0c8e815d72]: Textual amendment: [Reg. 39(6A)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/39/6A) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/4/b)
+
+[^key-15e8ad5c881549d2c2d7e41b7f6705ee]: Commencement: Reg. 40 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-df9026ed4a5212b1b11dfb02d95175fc]: Commencement: Reg. 41 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-3c3bb08448e58dc0f8752788157e96dc]: Textual amendment: Words in [reg. 41(2)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/41/2/b) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/5/a)
+
+[^key-39eb83fae1fbd43e8fb1709db4765744]: Textual amendment: [Reg. 41(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/41/2/b/ii) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/5/b)
+
+[^key-f6f64cc7b9c1d87e8160b9849e9e576b]: Commencement: Reg. 42 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-e91a44438f50b1bfcb6dd27938d5b6c2]: Textual amendment: Words in [reg. 42(1)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/42/1/b) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/6/a)
+
+[^key-9493145b5c31b3e10a4e6cacfb7b6693]: Textual amendment: [Reg. 42(3A)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/42/3A) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/6/b)
+
+[^key-e23d6d01abc52818dffafe79739b4d2d]: Textual amendment: Words in [reg. 42(5)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/42/5/b) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/6/c)
+
+[^key-945d35f9cca96aa8a4a493f1589fa529]: Textual amendment: [Reg. 42(5A)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/42/5A) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/6/d)
+
+[^key-a54bd61457399004c5a8a9f9212596b6]: Commencement: Reg. 43 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-4d017b74a9a2cbf6a229a3fed66c3561]: Textual amendment: [Reg. 43A](https://www.legislation.gov.uk/uksi/2021/1335/regulation/43A) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2023/1317/regulation/7)
+
+[^key-8bd5773cc9d1a45d63b91c2a29bc8e06]: Commencement: Reg. 44 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-80fffe881d0c9dce46fb33f3a6d4a7d5]: Commencement: Reg. 45 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-f4e9db4ff02efd7cf15ec4935a787d19]: Commencement: Reg. 46 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-ff8ba9a6cd994da97053d9cbd042e445]: Commencement: Reg. 47 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-fa5fad9c7ec9f1a230ebf3d1c710342c]: Commencement: Reg. 48 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-4cd10258b45aaab7f4da7f8d8830d9b6]: Commencement: Reg. 49 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-86477964508cf086944cdc3978a0fab7]: Commencement: Reg. 50 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-b427a9c0b166195a5def6a11e901e139]: Commencement: Reg. 51 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^f00032]: Footnote: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46). Section 15A was inserted by section 110 of the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26).
+
+[^key-36e54c1f3d418800fb4aac1db138a071]: Textual amendment: Words in [reg. 51(7)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/7/a) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/a/i)
+
+[^key-c718aaa95d813edd094abee91f63d8df]: Textual amendment: Words in [reg. 51(7)(c)(i)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/7/c/i) omitted (1.12.2023) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/a/ii)
+
+[^key-985c17bd641cc4b54825d1a72f44b681]: Textual amendment: [Reg. 51(7)(ca)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/7/ca) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/a/iii)
+
+[^key-a174db8444e5143aa930a9fd6377c76c]: Textual amendment: [Reg. 51(7)(d)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/7/d) omitted (1.12.2023) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/a/iv)
+
+[^key-5d71025ec657f7a0d6bced7bae380c0d]: Textual amendment: [Reg. 51(7)(e)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/7/e) omitted (1.12.2023) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/a/iv)
+
+[^key-32095f9ee4f7bd60f13b25fde031d2dd]: Textual amendment: [Reg. 51(7A)-(7E)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/7A) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/b)
+
+[^key-623629b73f1498e5695005a3813b9705]: Textual amendment: [Reg. 51(9)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/9) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(c)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/c)
+
+[^key-e41c5d113649acc8080f28bd4ffecb68]: Textual amendment: [Reg. 51(9A)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/9A)[(9B)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/9B) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(d)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/d)
+
+[^key-0e1364309f976dbe1a04038720d38e21]: Commencement: Reg. 52 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-65f6b5e420e1ce8cbb9ef52bb7949f74]: Commencement: Reg. 53 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^f00033]: Footnote: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
+
+[^key-bb57e95730ee40dbc9bed8a50a88b38e]: Commencement: Reg. 54 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^f00034]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
+
+[^key-e0a15ca400c8cbf7466600fada3ac0cf]: Commencement: Reg. 55 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-76c8b160d0196da5c526d13d4417cc33]: Textual amendment: [Reg. 55(1)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/55/1/b) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/9/a)
+
+[^key-a4ff49b9251186c5df9ee59ec3f3c0bf]: Textual amendment: [Reg. 55(2)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/55/2) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/9/b)
+
+[^key-55a3009d06f7a6b37649791dc4683981]: Textual amendment: [Reg. 55(2A)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/55/2A)[(2B)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/55/2B) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/9/c)
+
+[^key-ce74d0efb2a0f732598a175c535874b9]: Textual amendment: Words in [reg. 55(4)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/55/4) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [9(d)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/9/d)
+
+[^key-ab60ad8792a0e482c246a2d3b1726280]: Textual amendment: Words in [reg. 55(5)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/55/5/b) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [9(e)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/9/e)
+
+[^key-ed562ee89a9ae9554da3557bf32b15df]: Commencement: Reg. 56 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-1833652d7c1408bc4b4b7640cb417d25]: Textual amendment: Word in [reg. 56(3)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/56/3/a) omitted (1.12.2023) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/10/a)
+
+[^key-dfad8cae1bf876d618a3fac792fed289]: Textual amendment: [Reg. 56(3)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/56/3/b) omitted (1.12.2023) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/10/b)
+
+[^key-ca0bc7f62b1e69819e2c79b9abdbd41d]: Commencement: Reg. 57 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^f00035]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), to which there are amendments not relevant to these Regulations.
+
+[^key-32f2297d6295a628a921e9a2116853ef]: Commencement: Reg. 58 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-08845a7b540759279e5183148fb58b2d]: Commencement: Reg. 59 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-176df5a11e56b2ad44106e24a82758ab]: Commencement: Reg. 60 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-9edd0e2bf3374cec36d6e8fe2501bb7d]: Commencement: Reg. 61 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-8f738619347fd5f026d89d02576b7521]: Commencement: Reg. 62 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-eb4c0e86cad48e32eb6b517b9bff5225]: Commencement: Reg. 63 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-af667cb86d8031a2b3b2f91ebffcf49c]: Commencement: Reg. 64 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-8c454a8251804ecc1132acbd03cc5fec]: Commencement: Reg. 65 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-e91318554eaf6c4f900c4bea7354aa73]: Commencement: Reg. 66 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-8a1bf342e0935986a928ac1a81e5db33]: Commencement: Reg. 67 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-581498b5cd5bad5176ed117a30cf26f4]: Commencement: Reg. 68 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-8c46b64222e0b41b7b389dfad6a9faf6]: Commencement: Sch. 1 para. 1 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-d083ab35e31021cac4081697c6326430]: Commencement: Sch. 1 para. 2 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-108a3a5114ca434ec06a1f040a61d7f8]: Commencement: Sch. 1 para. 3 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-46dbe6745a094242494539c600c87369]: Commencement: Sch. 1 para. 4 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-928e6562c272166e13b2449989d9d56b]: Textual amendment: Sch. 1A inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/642/regulation/16)
+
+[^key-99af6e1ed7e50280cbdff6aea23e9bc3]: Commencement: Sch. 2 para. 1 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-854c99f7cc9fc5158fb0d8358e8bee4e]: Commencement: Sch. 2 para. 2 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-8a06634acdc05e22418f2ef83d189589]: Commencement: Sch. 2 para. 3 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-55f7233fa1bd5b31993f1664307fea3a]: Commencement: Sch. 2 para. 4 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-cc22867439d6514711814baac6dd6266]: Commencement: Sch. 2 para. 5 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-2cec0a874f30f6f620db3f99dd4c33a5]: Commencement: Sch. 2 para. 6 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-dc3da66002c4719e456c7441f6c3088a]: Commencement: Sch. 2 para. 7 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-bc297e40ceaf33177cd04acb13f861c9]: Commencement: Sch. 2 para. 8 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-3a66e859e4ed730ef33f1f3d6d85cdc4]: Commencement: Sch. 3 para. 1 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-2bdd170ee6c6677bede744ca3fef6239]: Commencement: Sch. 3 para. 2 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-2fc087230f8e214ba6da8654c146fcfb]: Commencement: Sch. 3 para. 3 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-18b8e88a612bfb3ca3b0784bab94f4d0]: Commencement: Sch. 3 para. 4 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-2c939a8d4930584a397ebc6ff7836b5b]: Commencement: Sch. 3 para. 5 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^f00036]: Footnote: Lisbon Resolution L2 is entitled “Pan-European Criteria, Indicators and Operational Level Guidelines for Sustainable Forest Management”. Copies are available at http://www.foresteurope.org/ministerial\_conferences/lisbon1998.
+
+[^key-a27c25d7d01d7715035cd803d9ac3f30]: Commencement: Sch. 3 para. 6 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^f00037]: Footnote: [S.I.2000/3042](https://www.legislation.gov.uk/uksi/2000/3042), revoked by [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263).
+
+[^key-3ab06fdd4c179f767503198b54722b39]: Commencement: Sch. 3 para. 7 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-e58446ceccf02c23e182695a7c009e04]: Commencement: Sch. 3 para. 8 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-209cb3c47429e4273cfdf7b9cad7eb42]: Commencement: Sch. 3 para. 9 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+
+[^key-22623ddd0de85c9d78f1d494d15efe13]: Commencement: Sch. 3 para. 10 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)

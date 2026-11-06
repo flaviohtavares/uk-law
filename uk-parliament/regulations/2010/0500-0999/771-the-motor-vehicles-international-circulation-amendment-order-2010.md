@@ -1,0 +1,146 @@
+---
+title: The Motor Vehicles (International Circulation) (Amendment) Order 2010
+id: uksi/2010/771
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2010-03-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2010/771
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/771/pdfs/uksiem_20100771_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/771/pdfs/uksi_20100771_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/771/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Motor Vehicles (International Circulation) (Amendment) Order 2010
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2010 No. 771
+
+Road Traffic
+
+The Motor Vehicles (International Circulation) (Amendment) Order 2010
+
+Made
+
+17th March 2010
+
+Coming into force in accordance with article 1
+
+At the Court at Buckingham Palace, the 17th day of March 2010
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+A draft of this Order has, in pursuance of section 1(5) of the Motor Vehicles (International Circulation) Act 1952[^f00001], been laid before Parliament and approved by resolution of each House of Parliament.
+
+Her Majesty, in pursuance of section 1(1) and (4) of the Motor Vehicles (International Circulation) Act 1952 as extended by article 14(1) of, and paragraph 16 of Schedule 5 to, the Northern Ireland (Modification of Enactments—No. 1) Order 1973[^f00002], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered as follows:-
+
+## 1. Citation and commencement
+
+This Order may be cited as the Motor Vehicles (International Circulation) (Amendment) Order 2010 and shall come into force —
+
+- (a) for all purposes except those of article 4 on 14th May 2010; and
+- (b) for the purposes of article 4 on 4th December 2011.
+
+## 2. Interpretation
+
+In this Order, “the principal Order” means the Motor Vehicles (International Circulation) Order 1975[^f00003].
+
+## 3. Amendments to article 5 of the principal Order (Excise exemption and documents for vehicles brought temporarily into the United Kingdom
+
+(1) Article 5 of the principal Order is amended as follows.
+
+(2) In paragraph (2)(b)(iii) for the words “the First Council Directive” is substituted “the Directive of the European Parliament and of the Council”.
+
+(3) In paragraph (9) –
+
+- (a) for the definition of “the First Council Directive on the establishment of common rules for certain types of carriage of goods by road” is substituted—
+
+  > the Directive of the European Parliament and of the Council on the establishment of common rules for certain types of carriage of goods by road” means Directive 2006/94 of the European Parliament and of the Council of 12th December 2006 on the establishment of common rules for certain types of carriage of goods by road[^f00004];
+
+  .
+- (b) for the definition of “the Council Regulation on goods transport cabotage” is substituted—
+
+  > - “**the Council Regulation on goods transport cabotage**” means [Council Regulation (EEC) No. 3118/93](https://www.legislation.gov.uk/european/regulation/1993/3118) of 25th October 1993 laying down conditions under which non-resident carriers may operate national road haulage services within a Member State[^f00005] as it has effect with the Regulation of the European Parliament and of the Council on common rules for access to the international road haulage market;
+
+  .
+- (c) for the definition of “the Council Regulation on passenger transport cabotage” is substituted—
+
+  > - “**the Council Regulation on passenger transport cabotage**” means Council Regulation [(EC) No. 12/98](https://www.legislation.gov.uk/european/regulation/1998/0012) of 11th December 1997 laying down conditions under which non-resident carriers may operate national road passenger transport services within a Member State[^f00006];
+
+  .
+
+**4.** (1) Article 5 of the principal Order is further amended as follows.
+
+(2) For paragraph (2)(b) is substituted—
+
+> - (b) in a case of a vehicle being used for or in connection with—
+>   - (i) international carriage or a cabotage operation within the scope of the Regulation of the European Parliament and of the Council on common rules for access to the international market for coach and bus services or the Regulation of the European Parliament and of the Council on common rules for access to the international road haulage market, or
+>   - (ii) a type of carriage which is exempt from any Community authorisation and from any carriage authorisation under the Directive of the European Parliament and of the Council on the establishment of common rules for certain types of carriage of goods by road,
+>
+>   the vehicle shall be exempt from excise duty if and so long as the vehicle is being used in accordance with whichever of those instruments is applicable to the use of the vehicle.
+
+(3) In paragraph (9), for the definitions of “the Council Regulation on common rules for the international carriage of passengers by coach and bus”, “the Council Regulation on access to the market in the carriage of goods within the Community”, “the Council Regulation on passenger transport cabotage” and “the Council Regulation on goods transport cabotage” are substituted the following definitions—
+
+> - “**the Regulation of the European Parliament and of the Council on common rules for access to the international market for coach and bus services**” means Regulation [(EC) No. 1073/2009](https://www.legislation.gov.uk/european/regulation/2009/1073) of 21 October 2009 of the European Parliament and of the Council on common rules for access to the international market for coach and bus services and amending Regulation [(EC) No. 561/2006](https://www.legislation.gov.uk/european/regulation/2006/0561) [^f00007]; and
+> - “**the Regulation of the European Parliament and of the Council on common rules for access to the international road haulage market**” means Regulation (EC) No.1072/2009 of 21 October 2009 of the European Parliament and of the Council on common rules for access to the international road haulage market.
+
+[^f00008].
+
+Judith Simpson
+
+Clerk of the Council
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order.)
+
+This Order amends article 5 of the Motor Vehicles (International Circulation) Order 1975 (which exempts from excise duty certain vehicles brought temporarily into the United Kingdom) in consequence of the replacement of a number of the Council Regulations referred to in that article.
+
+By virtue of *article 1* of the Order, the amendments to the 1975 Order made by article 3 are brought into force on 14th May 2010. These include amendments made on an interim basis which are replaced by the more comprehensive amendments made by article 4 on 4th December 2011 when Regulations 1072/2009 and 1073/2009 referred to below come fully into force.
+
+*Article 3* of the Order amends article 5(2)(b) and (9) by substituting a reference to the Directive of the European Parliament and of the Council on the establishment of common rules for certain types of carriage of goods by road for the reference to the First Council Directive on that subject. It also amends article 5(9) by substituting -
+
+- a) a new definition of “the Council Regulation on goods transport cabotage” which reflects the coming into force on 14th May 2010 of articles 8 and 9 of Regulation 1072/2009 of the European Parliament and of the Council on common rules for access to the international road haulage market, which also concern goods transport cabotage; and
+- b) a new definition of “the Council Regulation on passenger transport cabotage” which refers to Council Regulation [(EC) No. 12/98](https://www.legislation.gov.uk/european/regulation/1998/0012), the Community instrument currently regulating that activity.
+
+Under *article 4(2),* article 5(2)(b) of the 1975 Order (exemptions from the payment of vehicle excise duty) is amended by substituting references to Regulation 1073/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international market for coach and bus services and amending Regulation [(EC) No. 561/2006](https://www.legislation.gov.uk/european/regulation/2006/0561) and to Regulation 1072 / 2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market for the references to the following instruments:
+
+Council Regulation [(EEC) 684/92](https://www.legislation.gov.uk/european/regulation/1992/0684) of 16th March 1992 on common rules for the international carriage of passengers (O.J. L74, 20.3.92, p.1);
+
+Council Regulation [(EEC) 881/92](https://www.legislation.gov.uk/european/regulation/1992/0881) of 26th March 1992 on access to the market in the carriage of goods by road within the Community to or from the territory of a Member State or passing through the territory of one or more Member States (O.J. L95, 9.4.92, p.1);
+
+Council Regulation [(EC) No 12/98](https://www.legislation.gov.uk/european/regulation/1998/0012) of 11th December 1997 laying down conditions under which non-resident carriers may operate national road passenger transport services within a Member State (O.J. L004,, 8.1.98, p.10); and
+
+[Council Regulation (EEC) No 3118/93](https://www.legislation.gov.uk/european/regulation/1993/3118) of 25th October 1993 laying down conditions under which non-resident carriers may operate national road haulage services within a Member State (O.J. L279, 12.11.93, p.1) as it has effect in accordance with Council Regulation [(EC) No 3315/94](https://www.legislation.gov.uk/european/regulation/1994/3315) of 22nd December 1994 (O.J. L350, 31.12.94, p. 9).
+
+*Article 4(3)* of the Order further amends article 5 (9) of the 1975 Order (definitions) to substitute definitions of the two 2009 Regulations for the definitions of the Regulations they replace.
+
+An impact assessment of the effect this instrument will have on the costs of the private or voluntary sectors has not been produced as no significant impact is foreseen. However, a full impact assessment of the effect of the adoption of Regulation [(EC) No 1073/2009](https://www.legislation.gov.uk/european/regulation/2009/1073) of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international market for coach and bus services and amending Regulation [(EC) No 561/2006](https://www.legislation.gov.uk/european/regulation/2006/0561) and Regulation [(EC) No. 1072/2009](https://www.legislation.gov.uk/european/regulation/2009/1072) of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market has been produced and copies are available on the website of the Department for Transport at *www.dft.gov.uk* and from the Department for Transport, Freight and Logistics Division, 76 Marsham Street, London SW1P 4DR.
+
+## Annotations
+
+[^f00001]: Footnote: [1952 c.39](https://www.legislation.gov.uk/ukpga/1952/39). By virtue of section 8 of the Road Traffic (Amendment) Act [1967 (c. 70)](https://www.legislation.gov.uk/ukpga/1967/70), the power under section 1 to make provision modifying an enactment relating to motor vehicles or the drivers of vehicles includes power to make provision corresponding to any such enactment.
+
+[^f00002]: Footnote: [S.I. 1973/2163](https://www.legislation.gov.uk/uksi/1973/2163) (1973 III, p. 7541). The instrument remains in force by virtue of section 95(1)(c) of the Northern Ireland Act [1998 (c.47)](https://www.legislation.gov.uk/ukpga/1998/47).
+
+[^f00003]: Footnote: [S.I. 1975/1208](https://www.legislation.gov.uk/uksi/1975/1208). Article 5(2) was substituted by [S.I. 1996/1929](https://www.legislation.gov.uk/uksi/1996/1929), article 5. In article 5(9), the definitions “the First Council Directive on the establishment of common rules for certain types of carriage of goods by road”, “the Council Regulation on common rules for the international carriage of passengers by coach and bus”, “the Council Regulation on access to the market in the carriage of goods within the Community”, “the Council Regulation on passenger transport cabotage” and “the Council Regulation on goods transport cabotage” were inserted by [S.I. 1996/1929](https://www.legislation.gov.uk/uksi/1996/1929), article 6(3).
+
+[^f00004]: Footnote: O.J. L374, 27.12.2006, p.5.
+
+[^f00005]: Footnote: O.J. L279, 12.11.93, p.1. The instrument has been textually amended by Council Regulation [(EC) No. 3315/94](https://www.legislation.gov.uk/european/regulation/1994/3315) of 22nd December 1994 (O.J. No. L350, 31.12.94, p.9) and by Regulation [(EC) No. 484/2002](https://www.legislation.gov.uk/european/regulation/2002/0484) of the European Parliament and of the Council of 1st March 2002 (O.J. L76, 19.3.2002, p.1.)
+
+[^f00006]: Footnote: O.J. L004, 8.1.98, p. 10.
+
+[^f00007]: Footnote: O.J. L300, 14.11.2009, p.88.
+
+[^f00008]: Footnote: O.J. L300, 14.11.2009, p.72.

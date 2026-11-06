@@ -1,0 +1,1515 @@
+---
+title: The Greenhouse Gas Emissions Trading Scheme Auctioning Regulations 2021
+id: uksi/2021/484
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2021-04-21'
+text_date: '2026-07-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2021/484
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/484/pdfs/uksiem_20210484_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/484/pdfs/uksi_20210484_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/484/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Greenhouse Gas Emissions Trading Scheme Auctioning Regulations 2021
+
+> Text as at 2026-07-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2021 No. 484
+
+Climate Change
+
+The Greenhouse Gas Emissions Trading Scheme Auctioning Regulations 2021
+
+Made
+
+21st April 2021
+
+Coming into force
+
+22nd April 2021
+
+The Treasury, in exercise of the powers conferred by section 96 of the Finance Act 2020 [^c24493861], make the following Regulations.
+
+In accordance with section 96(6) of that Act, a draft of this instrument has been laid before and approved by the House of Commons.
+
+## PART 1 — General Provisions
+
+### 1. Citation and commencement[^key-0cd24eff0db6fa3befe27dce07b4dc37]
+
+(1) These Regulations may be cited as the Greenhouse Gas Emissions Trading Scheme Auctioning Regulations 2021.
+
+(2) They come into force on the day after the day on which these Regulations are made.
+
+### 2. Interpretation[^key-2552b5583d422a12de947f08059ea231]
+
+(1) In these Regulations—
+
+- “**affiliated undertaking**” means any undertaking within a group;
+- “**allowance**” means, except where the context requires otherwise, an allowance created under the Trading Scheme Order [^c24493871] to emit 1 tonne of carbon dioxide equivalent;
+- “**appointed auction platform**” means the auction platform appointed by the auctioneer[^key-7011375f2d00dd9aa439e8b3db141acd] under regulation 22(1);
+- “**auction process**” means the process encompassing the setting of the auction calendar, the procedures for admission to bid, the procedures for submission of bids, the conduct of the auction, the calculation and announcement of the auction results, the arrangements for payment of the price due, delivery of the allowances and management of the collateral needed to cover any transaction risks, as well as the surveillance and monitoring of the proper conduct of the auctions by recognised auction platform;
+- “**auctioned product**” has the meaning given in regulation 4(1);
+- “**auction reserve price**” has the meaning given in regulation 6(13)[^key-851297a0389e34bbbad45dd92397e74f];
+- “**auctioneer**” means any public or private entity appointed by the Treasury, to auction allowances;
+- “**beneficial owner**” has the meaning given in regulation 3(1) of the Money Laundering Regulations;
+- “**bid**” means an offer in an auction to acquire a given volume of allowances at a specified price;
+- “**bidding window**” means the time period during which bids may be submitted;
+- “**central counterparty**” means an entity which interposes either directly between an auctioneer and a bidder or its successor in title, or between intermediaries representing them, that acts as the exclusive counterparty to each of them guaranteeing the payment of the auction proceeds to the auctioneer or an intermediary representing it or the delivery of the auctioned allowances to the bidder or an intermediary representing it, subject to regulation 31;
+- “**clearing system**” means any infrastructure connected to the auction platform that can provide clearing, margining, netting, management of collateral, settlement and delivery, and any other services, carried out by a central counterparty, accessed either directly or indirectly through members of the central counterparty who act as intermediaries between their clients and the central counterparty;
+- “**clearing**” means all processes preceding the opening of the bidding window, during the bidding window and following the closing of the bidding window until settlement, involving the management of any risks arising during that interval, including margining, netting, or novation, or any other services, that may be carried out by a clearing or settlement system;
+- “**collateral**” means the forms of collateral security referred to in regulation 2(1) of the Financial Markets and Insolvency (Settlement Finality) Regulations 1999 [^c24493881], including any allowances accepted as security by the clearing system or settlement system;
+- “**credit institution**” means an undertaking the business of which is to take deposits or other repayable funds from the public and to grant credits for its own account;
+- “**criminal activity**” means any kind of criminal involvement in the commission of any of the offences referred to in—
+  - (a) Schedule 3 to the Anti-Terrorism, Crime and Security Act 2001 [^c24493891],
+  - (b) Schedule 3 to the Money Laundering Regulations,
+  - (c) Regulations made under section 1 of the Sanctions and Anti-Money Laundering Act 2018 [^c24493901], or
+  - (d) Part 3 of the Counter-Terrorism (International Sanctions) (EU Exit) Regulations 2019 [^c24493911];
+- “**customer due diligence measures**” has the meaning given in regulation 3(1) of the Money Laundering Regulations;
+- “**FCA**” means the Financial Conduct Authority [^c24493921];
+- “**five-day futures**” means allowances auctioned for delivery at an agreed date no later than the fifth trading day from the day of the auction;
+- “**group**”, in relation to undertakings, means a parent undertaking and all its subsidiary undertakings;
+- “investment firm” has meaning given in as in Article 2(1A) of the Markets in Financial Instruments Regulation;
+- “**margining**” means the process by which collateral is to be pledged by an auctioneer or a bidder, or one or more intermediaries acting on their behalf, to cover a given financial position, encompassing the entire process of measuring, calculating and administering the collateral put up to cover such financial positions, intended to ensure that all payment commitments of a bidder and all delivery commitments of an auctioneer or one or more intermediaries acting on their behalf can be met within a very short period of time;
+- “**market abuse**” means behaviour prohibited by Articles 14 and 15 of the Market Abuse Regulation;
+- “**Market Abuse Regulation**” means Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16th April 2014 on market abuse (Market Abuse Regulation);
+- “**Markets in Financial Instruments Regulation**” means Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15th May 2014 on markets in financial instruments;
+- “**money laundering**” has the meaning given by section 340(11) of the Proceeds of Crime Act 2002 [^c24493931];
+- “**Money Laundering Regulations**” means the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 [^c24493941];
+- “**nominated bank account**” means a bank account designated by an auctioneer, a bidder or its successor in title for the receipt of payments due under these Regulations;
+- “**nominated holding account**” means one or more holding accounts, of whatever type, provided for in paragraphs 10 to 14[^key-bf181171c34e7a3847606dc4219df0f1] of Schedule 5A to the Trading Scheme Order designated[^key-8661338295d1a00bcd00b6b484e27056] for the purposes of participating in or conducting the auction process including the holding of allowances in escrow, pending their delivery under these Regulations;
+- “**parent undertaking**” and “**subsidiary undertaking**” have the same meanings as in the Companies Act 2006 [^c24493951] (see section 1162 of, and Schedule 7 to, the Companies Act 2006);
+- “**recognised auction platform**” has the meaning given in regulation 22;
+- “**recognised investment exchange**” means an investment exchange in relation to which a recognition order is in force under section 290 of the Financial Services and Markets Act 2000 [^c24493961], but does not include an overseas investment exchange (within the meaning of section 313 of that Act);
+- “**the registry**” means the electronic system established by the UK ETS authority under paragraph 5 of Schedule 5A to the Trading Scheme Order;
+- [^key-a3e3a4c1b3c9a8712a3b86fc5bee2390]...
+- “**secondary market**” means the market in which persons buy or sell allowances either before or after they are allocated either free of charge or through auctioning;
+- “**settlement agent**” means an entity acting as an agent providing accounts to the auction platform, through which accounts instructions for the transfer of the auctioned allowances given by the auctioneer or an intermediary representing it and the payment of the auction clearing price by a successful bidder, its successor in title or an intermediary representing them are safely executed either simultaneously or nearly simultaneously in a guaranteed manner;
+- “**settlement system**” means any infrastructure whether or not connected to the auction platform that can provide settlement services, which may include clearing, netting, management of collateral, or any other services, which ultimately enable the delivery of allowances on behalf of an auctioneer to a successful bidder or its successor in title, and the payment of the sum due by a successful bidder or its successor in title to an auctioneer, carried out through either of the following—
+  - (a) the banking system and the registry;
+  - (b) one or more settlement agents acting on behalf of an auctioneer and a bidder or its successor in title, accessing the settlement agent either directly or indirectly through members of the settlement agent who act as intermediaries between their clients and the settlement agent;
+- “**settlement**” means—
+  - (a) payment by a successful bidder, its successor in title, a central counterparty or a settlement agent of the sum due for allowances to be delivered to that bidder, its successor in title, the central counterparty, or a settlement agent, and
+  - (b) delivery of the allowances to the successful bidder, its successor in title, the central counterparty or a settlement agent;
+- “**terrorist financing**” has the meaning given in regulation 3(1) of the Money Laundering Regulations;
+- “**trading day**” means any day during which an auction platform and the clearing system or settlement system connected to it are open for trading;
+- “**Trading Scheme Order**” means the Greenhouse Gas Emissions Trading Scheme Order 2020;
+- “**two-day spot**” means allowances auctioned for delivery at an agreed date no later than the second trading day from the day of the auction.
+
+(2)[^key-fc241ff915e7731282a9ed45e8d41981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Terms used in these Regulations and in the Trading Scheme Order, and not defined in these Regulations, have the same meaning as in that Order.
+
+(4) Any reference in these Regulations to an EU regulation, as defined by section 20 of the European Union (Withdrawal) Act 2018 [^c24493971], is, unless otherwise provided, a reference to that regulation as it forms part of domestic law under that Act.
+
+### 3. Meaning of UK ETS authority[^key-ab19761da8b5e221d64218aba7e16441]
+
+(1) A reference in these Regulations to the “**UK ETS authority**” is a reference to all of the national authorities.
+
+(2) Functions conferred or imposed by these Regulations on the “UK ETS authority” may be exercised—
+
+- (a) by all of the national authorities jointly; or
+- (b) by one of the national authorities (or by more than one of the national authorities jointly) on behalf of the other national authorities with their agreement.
+
+(3) For the purposes of this regulation, “**national authorities**” means any of the following—
+
+- (a) the Secretary of State;
+- (b) the Scottish Ministers;
+- (c) the Welsh ministers;
+- (d) the relevant Northern Ireland department, within the meaning of section 96 of the Climate Change Act 2008 [^c24493981].
+
+## PART 2 — Auction Design
+
+### 4. Auctioned products[^key-9dd7b1efd7bb34e84c1257610fc9549b]
+
+(1) Allowances may be offered for sale on an appointed auction platform by means of standardised electronic contracts, and for the purposes of these Regulations, “**the auctioned product**” means the standardised electronic contract for one or more allowances.
+
+(2) Allowances sold on an auction platform may take the form of either two-day spot or five-day futures.
+
+(3) Bidders at an auction of allowances must submit their bids during one bidding window without seeing bids submitted by other bidders.
+
+(4) Each successful bidder must pay the same auction clearing price referred to in regulation 7 for each allowance regardless of the bid price.
+
+### 5. Submission and withdrawal of bids[^key-a6bd4723f0ce216f0c5b5552e9bc18bd]
+
+(1) The minimum volume bid is one lot, and each lot auctioned must consist of 500 allowances.
+
+(2) Each bid must state—
+
+- (a) the identity of the bidder and whether the bidder is bidding on its own account or on behalf of a client;
+- (b) where the bidder is bidding on behalf of a client, the identity of the client;
+- (c) the volume bid as a number of allowances in integral multiples of lots of 500 allowances;
+- (d) the price bid in pounds sterling for each allowance specified to two decimal points.
+
+(3) Subject to paragraph (4), each bid may only be submitted, modified or withdrawn during the bidding window set by the auction platform.
+
+(4) Bids submitted may be modified or withdrawn by a deadline before the close of the bidding window set by the appointed auction platform and published on that auction platform's website at least five trading days before the day on which the bidding window opens.
+
+(5) Only a natural person [^key-db7ef0908c11d07663801c79e3a453ff]... appointed pursuant to regulation 17(2)(d) and authorised to bind a bidder for all purposes relating to the auctions including the submission of a bid (the ‘bidder's representative’) is entitled to submit, modify or withdraw a bid on behalf of a bidder.
+
+(6) Once submitted, each bid is binding, unless it is withdrawn or modified pursuant to paragraph (3) or (4), or withdrawn pursuant to paragraph (7).
+
+(7) Where the appointed auction platform is satisfied that a genuine mistake has been made in the submission of a bid, it may, upon request of the bidder's representative, treat the mistakenly submitted bid as withdrawn after the close of the bidding window, but before the auction clearing price has been determined.
+
+(8) The reception, transmission and submission of a bid by an investment firm or credit institution on any auction platform is to be treated as an investment service within the meaning of Article 2(1)(2) of the Markets in Financial Instruments Regulation.
+
+(9)[^key-b8d72fe7cc12af110b82bf119451c20e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Auction clearing price and resolution of tied bids[^key-e8b380cb09507d8f5b1d612abe942f95]
+
+(1) The auction clearing price must be determined upon closure of the bidding window.
+
+(2) An auction platform must sort bids submitted to it in the order of the price bid.
+
+(3) Where the price of several bids is the same, these bids must be sorted through a random selection according to an algorithm determined by the auction platform before the auction.
+
+(4) No bid below the auction reserve price is to be accepted.
+
+(5) The volumes bid must be added up, starting with the highest bid price, and ignoring any bid below the auction reserve price.
+
+(6) All bids making up the sum of the volumes bid determined pursuant to paragraph (5) must be allocated at the auction clearing price determined in accordance with regulation 7.
+
+(7) Where the total volume of successful bids determined pursuant to paragraph (5) exceeds the volume of auctioned allowances, the remaining volume of the auctioned allowances must be allocated to the bidder that has submitted the last bid making up the sum of the volumes bid.
+
+(8) Where there are any unsold allowances—
+
+- (a) they are to be added to the next four auctions to be held by the appointed auction platform, evenly distributed, so that a quarter of the unsold allowances is added at each subsequent auction; or
+- (b) if doing so would increase the volume of any of the next four auction to more than 125% of the volume first proposed for that auction (the “125% volume”), any allowances in excess of the 125% volume at that auction must—
+  - (i) be added to any other of the four auctions for which that would not be the case, or
+  - (ii) if all the next four auctions would be increased to more than 125% of their first proposed volume, be added to the market stability mechanism account held by the UK ETS Authority under Part 3 of Schedule 5A to the Trading Scheme Order.
+
+(9) Subject to paragraphs (9A) to (9E)[^key-abc7d20ddd54a8873a0627080ce20ac3], the auction reserve price is to be £28[^key-e04ef5254bf4ae66a73e8d4c9774a40b] per tonne of carbon dioxide equivalent covered by the auctioned allowances, [^key-28b1ea6ccc6577c5143264d3210031c9]....
+
+(9A)[^key-99e483e5253f3c9688b3fcb8959419a6] The auction reserve price will increase on 1st January 2027 and annually on 1st January in accordance with the following formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2021/484)
+
+where—
+
+- A is the auction reserve price as at the preceding 31st December, and
+- B is the most recent annual GDP deflator figure.
+
+(9B) Where an auction reserve price calculated in accordance with paragraph (9A) includes a fraction of a penny, it is to be rounded up to the nearest whole penny.
+
+(9C) If the most recent annual GDP deflator figure is 0 or a negative number, the auction reserve price will not be calculated in accordance with paragraph (9A) on 1st January but will instead remain unchanged.
+
+(9D) In any year the Treasury may by direction specify the auction reserve price as any sum that the Treasury consider appropriate.
+
+(9E) Where the Treasury make a direction under paragraph (9D), the auction reserve price will be uprated in accordance with paragraphs (9A) to (9C) from the following 1st January, unless otherwise specified in that direction.
+
+(10) The Treasury must publish any direction given under paragraph (9D)[^key-5af9dfeda92db414d44051ee5a1ca73d] in such manner as they think fit.
+
+(11)[^key-aca7d707513aac2e2cc28e881d0abfd5] This regulation is subject to regulation 7(1A).
+
+(12)[^key-b0df292dd77c01e2b434bfbee05efff0] For the purposes of this regulation—
+
+- “**most recent annual GDP deflator figure**” means, as at the preceding 31st July, the annual ‘gross domestic product at market prices: implied deflator’ figure for the United Kingdom, which is available and published—
+  - (a) by the Office for National Statistics,
+  - (b) within the most recent quarterly national accounts, and
+  - (c) under dataset identifier IHYS.
+
+(13) A reference in these Regulations to the “auction reserve price” is to the auction reserve price determined in accordance with paragraphs (9) to (9E).
+
+### 7. Auction clearing price[^key-f96620cb9362f1b5f20733629bdc1acc]
+
+(1) The auction clearing price is—
+
+- (a) the price of the bid at which the sum of the volumes bid matches or exceeds the volume of allowances auctioned;
+- (b)[^key-835887d97dcb7ff840c84b0c7a18974b] where the sum of the volumes bid is less than the volume of allowances auctioned, the price of the lowest bid; or
+- (c) where paragraph (2) applies, the price of the lowest bid that is not significantly below the prevailing secondary market price.
+
+(1A)[^key-723df51cdd2bf410b627569b884385c3] But where paragraph (2) applies and every bid is significantly below the prevailing secondary market price—
+
+- (a) an auction clearing price must not be determined; and
+- (b) the allowances intended for auction must be dealt with in accordance with regulation 6(8).
+
+(2) This paragraph applies where the auction clearing price determined in accordance with paragraph (1)(a) or (b)[^key-2ab037dc412c08af63d5dbab702a9392] would be significantly below the price on the secondary market prevailing during and immediately before the bidding window, taking into account the short term volatility of the price of allowances over a defined period preceding the auction, as determined in accordance with the methodology decided on under paragraph (4)[^key-dccc1cbda814fd403f2fb647656936ce].
+
+(3)[^key-1063276fd42bbf0ed35fe0131cc686e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Before the opening of the bidding window of an auction[^key-ea0046ad537213218546ef31db263d9d], the appointed auction platform must decide on the methodology to determine for the purposes of paragraph (2) the prevailing secondary market price and whether a given price is significantly below the prevailing secondary market price[^key-d24567b1f1e7fe8e08bf4e49dc38cf91], (“the paragraph (2) methodology”), after consulting the auctioneer, and notifying the FCA.
+
+(5) In between two bidding windows, the appointed auction platform may modify the paragraph (2) methodology, after consulting the auctioneer, and notifying the FCA.
+
+(6) If the appointed auction platform modifies the paragraph (2) methodology it must notify the FCA and the auctioneer without delay.
+
+## PART 3 — Auction Calendar
+
+### 8. Calendar for individual auctions[^key-9aee641184db3083404dbcabf91d7a8a]
+
+(1) The auctioneer must determine the auction calendar, including the bidding windows, individual volumes, auction dates as well as the auctioned product, payment and delivery dates of the allowances to be auctioned in individual auctions each calendar year, and provide the auction calendar to the appointed auction platform.
+
+(2) The appointed auction platform must publish the auction calendar for a year by 15 July of the preceding year or as soon as practicable after that date.
+
+### 9. Annual volumes of allowances[^key-52834f849c06b8aaf27226f72a00e6e5]
+
+(1) Except as otherwise provided in these Regulations, the volume[^key-2d78a376554449db585d87f787882e0c] of allowances to be auctioned in any calendar year must be AC – (AFA + IC + RFS + NER + BF)[^key-4486a7c5ecbdd20fe6934fffdc7bb800]+ T[^key-cafc6cf7aba1b14a53c39d53d3854ffd], where—
+
+- (a)[^key-39895047588182020343d596ea1b7d6d] AC for the calendar year is the base for that year determined in accordance with paragraph (10)(a) multiplied by—
+  - (i) in the case of a calendar year up to and including 2025, the 2021-2025 hospital and small emitter reduction factor calculated in accordance with article 21(2) of the Trading Scheme Order;
+  - (ii) in the case of a calendar year from 2026 up to and including 2030, the 2026-2030 hospital and small emitter reduction factor calculated in accordance with article 21(3) of the Trading Scheme Order;
+- (b) in relation to a calendar year corresponding to a scheme year in the 2021-2025 allocation period,[^key-edc8e4bcefcbdf9c25bac50f8ca845ae] “AFA” is—
+  - (i) total number of allowances to be allocated free of charge under article 34K of the Trading Scheme Order (the aviation free allocation) in the scheme year, or
+  - (ii) if the number in paragraph (i) is not known, the notional number of allowances to be allocated in the scheme year in question as part of the aviation free allocation, determined in accordance with paragraph (9),
+- (ba)[^key-ab39a7b92ac678109cc6ac3006c5e1dc] in relation to any other calendar year, AFA is zero;
+- (c)[^key-f9b07390bd03a266e0bf2189b2500508] IC for the calendar year is the number of allowances determined in accordance with paragraph (10)(b);
+- (d) RFS for the calendar year is the number of allowances determined in accordance with paragraph (10)(c);
+- (e) NER for the calendar year is the number of allowances determined in accordance with paragraph (10)(d);
+- (f)[^key-089ec58b2533dea4ba51801732c27acf] BF means—
+  - (i) if part of the volume of allowances to be auctioned in the calendar year has been brought forward to increase the volume of allowances auctioned in a previous calendar year in accordance with measures authorised under regulation 12(1)(b)(i), the volume of allowances brought forward;
+  - (ii) in any other case, zero.
+- (g)[^key-b47595f05911e066a2682c3e5dd37718] T for the calendar year is the number of allowances determined in accordance with paragraph (10)(e).
+
+(2) Where AFA as determined during the calendar year under paragraph (1)(b)(i) (“AFA1”) is greater that the notional number of allowances determined under paragraph (1)(b)(ii) (“AFA2”), a number of allowances equal to AFA1 minus AFA2 is to be removed from the total number of allowances to be auctioned in that calendar year, and the auctioneer must adjust the number of allowances to be auctioned at the auctions to be held during the year after AFA1 has been established as the auctioneer considers appropriate.
+
+(3) When AFA1 is less than AFA2, a number of allowances equal to AFA2 minus AFA1 is to be added to the total number of allowances to be auctioned in that calendar year, divided between the auctions which are to be held during that year after AFA1 has been established as the auctioneer considers appropriate.
+
+(4)[^key-2b88dbb726de0a8a10d3b055349cc9f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-2b88dbb726de0a8a10d3b055349cc9f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-2b88dbb726de0a8a10d3b055349cc9f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Any volume of allowances that may not be auctioned in a given calendar year due to the rounding required by regulation 5(1) must be accounted for in the volume of allowances to be auctioned in the subsequent calendar year.
+
+(8) Where the volume of allowances to be auctioned in a calendar year is increased under paragraph (3), the UK ETS authority may [^key-42e30d3ca2c08e09fe545ff4e9760c75]... create additional allowances for auction in that year.
+
+(9) For the purposes of paragraph (1)(b)(ii), the notional number of allowances to be allocated as part of the aviation free allocation in the scheme year is set out in the following table.
+
+| *Scheme year* | *Notional aviation free allocation* |
+| --- | --- |
+| 2021 | 5,181,021 |
+| 2022 | 5,064,474 |
+| 2023 | 4,947,928 |
+| 2024 | 4,831,381 |
+| 2025 | 4,714,835 |
+| [^key-110bee91ffd40de4399b3a20f8517c74]. . . | [^key-110bee91ffd40de4399b3a20f8517c74]. . . |
+| [^key-110bee91ffd40de4399b3a20f8517c74]. . . | [^key-110bee91ffd40de4399b3a20f8517c74]. . . |
+| [^key-110bee91ffd40de4399b3a20f8517c74]. . . | [^key-110bee91ffd40de4399b3a20f8517c74]. . . |
+| [^key-110bee91ffd40de4399b3a20f8517c74]. . . | [^key-110bee91ffd40de4399b3a20f8517c74]. . . |
+| [^key-110bee91ffd40de4399b3a20f8517c74]. . . | [^key-110bee91ffd40de4399b3a20f8517c74]. . . |
+
+(10)[^key-488a3239bed0c56364befd91d71e20f3] For the purposes of paragraph (1), for a calendar year referred to in column 1 of the following table—
+
+- (a) the base is the number of allowances set out in the corresponding entry in column 2;
+- (b) IC is the number of allowances set out in the corresponding entry in column 3;
+- (c) RFS is the number of allowances set out in the corresponding entry in column 4;
+- (d) NER is the number of allowances set out in the corresponding entry in column 5;
+- (e) T is the number of allowances set out in the corresponding entry in column 6.
+
+  | *Column 1*<br>*Calendar or scheme year* | *Column 2*<br>*Base* | *Column 3*<br>*IC* | *Column 4*<br>*RFS* | *Column 5*<br>*NER* | *Column 6*<br>*T* |
+  | --- | --- | --- | --- | --- | --- |
+  | 2021 | 155,671,581 | 57,856,572 | 4,098,497 | 3,024,907 | 0 |
+  | 2022 | 151,437,134 | 56,273,432 | 4,098,497 | 3,024,907 | 0 |
+  | 2023 | 147,202,686 | 54,690,292 | 4,098,497 | 3,024,907 | 0 |
+  | 2024 | 92,062,882 | 36,825,153 | 2,255,107 | 1,664,388 | 23,316,495 |
+  | 2025 | 86,742,014 | 34,696,806 | 2,255,107 | 1,664,387 | 13,323,712 |
+  | 2026 | 80,063,992[^key-09891762807a9b6f9ad64c4a3b69ee24] | 31,623,876 | 2,255,107 | 1,664,387 | 9,992,784 |
+  | 2027 | 72,317,337[^key-8be22a4e592ed9876bac401c140f4835] | 28,051,198 | 2,255,107 | 1,664,387 | 6,661,856 |
+  | 2028 | 55,618,096[^key-df404bb45eb212e9eb3e2fbfb9af71b3] | 21,399,401 | 2,255,106 | 1,664,387 | 0 |
+  | 2029 | 52,964,678[^key-72fc7b1ee7404f35d919b9e5c35ba4e2] | 20,367,429 | 2,255,106 | 1,664,387 | 0 |
+  | 2030 | 51,284,366[^key-1fd6e350a2953e4739fb979b8c7c7f47] | 19,728,066 | 2,255,106 | 1,664,387 | 0 |
+
+### 10. Adjustments of the auction calendar[^key-2873e1716000d7a6f55978bced78a4ec]
+
+(1) The determinations and publications of the annual volumes to be auctioned and of the bidding windows, volumes, dates, auctioned product, payment and delivery dates in connection with individual auctions pursuant to regulations 8 and 9 may not be modified except for adjustments due to any of the following—
+
+- (a) failure to sell all allowances at a preceding auction;
+- (aa)[^key-f309891b5bcb4dc6d78d81432ec540b0] the calculation of the annual volume of allowances in accordance with regulation 9;
+- (b) the cancellation, or a change to the date or time of the opening or close of the bidding window, of an auction[^key-c48034f4708d8e1e87c2fe618b71edd6] pursuant to regulation 11;
+- (c) any settlement failure referred to in regulation 28(5);
+- (d) allowances remaining in the new entrants reserve provided for in article 34G of the Trading Scheme Order or in the flexible reserve provided for in article 23A of that Order[^key-ca0e51a22562e71ad2e625fdd5742d1a];
+- (e) any measures authorised under regulation 12;
+- (f) any withholding of allowances where it is not possible to hold an auction pursuant to regulation 20(5);
+- (g) the necessity for an auction platform to avoid conducting an auction in breach of these Regulations or the Trading Scheme Order;
+- (h)[^key-9a12db7fc86d667657c129acd399ca26] the addition of an activity to article 16(2) of the Trading Scheme Order.
+
+(2) Where the manner in which a modification is to be implemented is not provided for in these Regulations, the auction platform concerned may not implement that modification until it has consulted the FCA and auctioneer.
+
+### 11. Circumstances preventing the conduct of auctions[^key-800fd30a74a04d34623f75c61dd6a565]
+
+(1) Where appropriate, the appointed auction platform may cancel, or change the date or time of the opening or close of the bidding window of, an auction[^key-b6452ef6c7e3bf30375e5a75a8e9c5c6] where the proper conduct of that auction is disrupted or is likely to be disrupted.
+
+(2) Where an auction is cancelled under paragraph (1), the volume of allowances of the cancelled auction must—
+
+- (a) be added to the next four auctions to be held by the appointed auction platform, evenly distributed, so that a quarter of the allowances which would have been sold at the cancelled auction is added at each subsequent auction; or
+- (b) if doing so would increase the volume of any of the next four auction to more than 125% of the volume first proposed for that auction (“the 125% volume”), any allowances in excess of the 125% volume at that auction must—
+  - (i) be added to any other of the four auctions for which that would not be the case, or
+  - (ii) if all the next four auctions would be increased to more than 125% of their first proposed volume, be added to the market stability mechanism account held by the UK ETS Authority.
+
+### 12. Cost containment mechanism[^key-3f8b49f47b9fbe59f0548df9e7119962][^key-233aee27e3384b1c031c7a51be7d8ede]
+
+(1) Where paragraph (3) applies, the Treasury may authorise one or more of the following measures—
+
+- (a) changing the distribution of allowances to be auctioned at auctions within a calendar year;
+- (b) increasing the volume of allowances to be auctioned in a calendar year—
+  - (i) by bringing forward part of the volume of allowances to be auctioned in a subsequent calendar year;
+  - (ii) by the release for auction of up to 25% of the allowances held in the new entrants’ reserve provided for in article 34G of the Trading Scheme Order;
+  - (iii) by the release for auction of allowances from the market stability mechanism account held by the UK ETS authority.
+  - (iv)[^key-bba3e45496f50120916c6c1034a19577][^key-f7f87d4a726e7c9cb7ba89318578cbbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (v) by the release for auction of allowances from the flexible reserve provided for in article 23A of the Trading Scheme Order[^key-087624eed0dcc742e5688c2ed2a0d953].
+
+(1A)[^key-381f0658727c726a96550d66bf74b6ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1B)[^key-381f0658727c726a96550d66bf74b6ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1C)[^key-381f0658727c726a96550d66bf74b6ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1D)[^key-381f0658727c726a96550d66bf74b6ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Where the Treasury authorises increasing the volume of allowances to be auctioned in a calendar year under paragraph (1)(b), the UK ETS authority may create additional allowances for auction in that year.
+
+(3) This paragraph applies where the monthly average carbon price is more than—
+
+- (a) 2 x the 2-year average carbon price for 3 consecutive months, if the last consecutive month is in 2021;
+- (b) 2.5 x the 2-year average carbon price for 3 consecutive months, if the last consecutive month is in 2022; or
+- (c) 3 x the 2-year average carbon price for 6 consecutive months, if the last consecutive month is in 2023 or any subsequent year.
+
+(4) For the purposes of paragraph (3)—
+
+- (a) the “monthly average carbon price” for any month must be calculated—
+  - (i) by dividing the sum of the end of day settlement prices of the relevant December futures contract as traded on the relevant carbon market exchange for each relevant day in the month by the number of relevant days in the month, or
+  - (ii) if the relevant December futures contract was not traded on the relevant carbon market exchange in the month, by dividing the sum of the end of day settlement prices of the relevant December futures contract as traded on the largest carbon market exchange (as determined by volume of sales of relevant December futures contracts during the month) for each relevant day in the month by the number of relevant days in the month;
+- (b) the “2-year average carbon price” must be calculated by dividing the sum of the end of day settlement prices of the relevant December futures contract as traded on the relevant carbon market exchange for each relevant day in the 24 months ending with the last month before the first month of the period of 3 or, as the case may be, 6 months referred to in paragraph (3) by the number of relevant days in the 24-month period.
+
+(5) In this regulation—
+
+- “end of day settlement price”, in relation to the relevant December futures contract, means the end of day settlement price per tonne of carbon dioxide equivalent published by the carbon market exchange on which the relevant December futures contract is traded expressed in pounds sterling or, where expressed in Euros, converted to pounds sterling by reference to the Bank of England daily spot exchange rate for that day;
+- “EU allowance[^key-9f4a14159b8cc228e25b7d81e4a34457]” means an allowance to emit 1 tonne of carbon dioxide equivalent during a specified period that is valid for the purposes of meeting the requirements of [Directive 2003/87/EC](https://www.legislation.gov.uk/eudr/2003/0087) of the European Parliament and of the Council of 13th October 2003 establishing a system for greenhouse gas emission allowance trading within the Union and is transferable in accordance with the provisions of that directive;
+- “relevant carbon market exchange”—
+  - (a) in relation to the trading of the relevant December futures contract on a day in 2019, 2020 or 2021 means the carbon market exchange operated by ICE Futures Europe (company no. 01528617);
+  - (b) in relation to the trading of the relevant December futures contract on a day in any subsequent year (the “relevant year”), the largest carbon market exchange as determined by volume of sales of relevant December futures contract during the calendar year preceding the relevant year;
+- “relevant day” means a day for which an end of day settlement price is published;
+- “relevant December futures contract”, in relation to a day in the month referred to in paragraph (4)(a) or the 24-month period referred to in paragraph (4)(b), means—
+  - (a) if the day falls in January to November of 2019 or 2020, a futures contract for EU allowances deliverable in December of the year in which the day falls;
+  - (b) if the day falls in December of 2019 or 2020, a futures contract for EU allowances deliverable in December of the year after the year in which the day falls;
+  - (c) if the day falls in January to November of 2021 or a subsequent year, a futures contract for allowances deliverable in December of the year in which the day falls;
+  - (d) if the day falls in December of 2021 or a subsequent year, a futures contract for allowances deliverable in December of the year after the year in which the day falls.
+
+## PART 4 — Access to Auctions
+
+### 13. Persons who may submit bids directly in an auction[^key-5bb50dd78cbcb6b5fb9e87b96802728d]
+
+Only a person who is eligible to apply for admission to bid pursuant to regulation 16 and is admitted to bid pursuant to regulations 17 and 18 may submit bids directly in an auction.
+
+### 14. Means of access[^key-bd9d33444c90a23cd3ba9a2e008514b1]
+
+(1) An appointed auction platform must provide the means to access its auctions on a non-discriminatory basis.
+
+(2) Admission to the auctions must not be dependent on becoming a member of or a participant in the secondary market organised by the appointed auction platform or any other trading place operated by the appointed auction platform or by any third party.
+
+(3) The appointed auction platform must ensure that its auctions can be accessed remotely by means of an electronic interface accessible securely and reliably through the internet.
+
+(4) In addition, the appointed auction platform may offer bidders the option of accessing its auctions through dedicated connections to the electronic interface.
+
+(5) The appointed auction platform may offer, and the Treasury may by direction require the auction platform to offer, one or more alternative means of accessing its auctions, should the main means of access be inaccessible for whatever reason, provided that such alternative means of access are secure and reliable and their use does not lead to any discrimination between bidders.
+
+### 15. Training and helpline[^key-7b68c77f181d20d041fa3b35bc035e57]
+
+(1) The appointed auction platform must offer a practical web-based training module on the auction process it is conducting, including guidance on how to complete and submit any forms and a simulation of how to bid in an auction.
+
+(2) It must also make available a helpline service accessible by telephone, internet and electronic mail at least during the working hours of each trading day.
+
+### 16. Persons eligible to apply for admission to bid[^key-57152d761b9995356bf7113e198d66bc]
+
+(1) The following persons are eligible to apply for admission to bid directly in auctions—
+
+- (a)[^key-7406cacf092038a77d3df001efb22b2a] an operator having an operator holding account, bidding on its own account, including any parent undertaking, subsidiary undertaking or affiliated undertaking forming part of the same group as the operator;
+- (aa) an aircraft operator having an aircraft operator holding account, bidding on its own account, including any parent undertaking, subsidiary undertaking or affiliated undertaking forming part of the same group as the aircraft operator;
+- (ab) a maritime operator having a maritime operator holding account, bidding on its own account, including any parent undertaking, subsidiary undertaking or affiliated undertaking forming part of the same group as the maritime operator;
+- (b) investment firms which—
+  - (i) have permission under Part 4A of the Financial Services and Markets Act 2000 [^c24494001] to carry on regulated activities relating to investment services and activities, bidding on their own account or on behalf of their clients; and
+  - (ii) would require authorisation under Directive 2014/65/EU of the European Parliament and of the Council on markets in financial instruments [^c24494011] (as that directive applied in the European Union immediately before IP completion day) if they had their head office in an EEA state;
+- (ba)[^key-d36f575b07eb5a3be4ba0d74b2360f44] investment firms which—
+  - (i) satisfy the condition in sub-paragraph (b)(i); and
+  - (ii) are authorised under [Directive 2014/65/EU](https://www.legislation.gov.uk/eudr/2014/0065) of the European Parliament and of the Council on markets in financial instruments as amended from time to time;
+- (c) a credit institution which[^key-726e5d26c124b916353475bf8c520fd3]—
+  - (i) [^key-fbe701fb548de0b68399814a33306395]... has permission under Part 4A of the Financial Services and Markets Act 2000 to carry on the regulated activity of accepting deposits, bidding on their own account or on behalf of their clients; and
+  - (ii) would require authorisation under Directive 2013/36/EU of the European Parliament and of the Council on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms (as that directive applied in the European Union immediately before IP completion day) if they had their head office in an EEA state;
+- (ca)[^key-6da6fce0a087b6517a00d3099440c66f] a credit institution which—
+  - (i) satisfies the condition in sub-paragraph (c)(i); and
+  - (ii) is authorised under [Directive 2013/36/EU](https://www.legislation.gov.uk/eudr/2013/0036) of the European Parliament and of the Council on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms as amended from time to time;
+- (d) business groupings of persons listed in sub-paragraph (a) bidding on their own account and acting as an agent on behalf of their members;
+- (e) public bodies or state-owned entities of the United Kingdom that control any of the persons listed in sub-paragraph (a).
+
+(2) Without prejudice to the exemption in paragraph 1(k) of Schedule 3 to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c24494021], persons covered by that exemption who comply with rules set out in regulation 42 are eligible to apply for admission to bid directly in the auctions either on their own account or on behalf of clients of their main business provided that the registered office, or if it has no registered office, the head office, of the person covered by that exemption is situated[^key-c6625d9c0dbe587bc06a6cc974650282] in the United Kingdom.
+
+(3) Where the persons referred to in paragraph (1)(b) and (c) and paragraph (2) bid on behalf of their clients, they must ensure that those clients are themselves eligible to apply for admission to bid directly under paragraphs (1) or (2).
+
+(4) Where the clients of the persons referred to in paragraph (3) are themselves bidding on behalf of their own clients, they must ensure that—
+
+- (a) those clients, and
+- (b) any direct or indirect clients of those clients down the chain bidding indirectly in the auctions,
+
+are also eligible to apply for admission to bid directly under paragraphs (1) or (2).
+
+(5) The following persons are not eligible to apply for admission to bid directly in auctions nor may they participate in auctions through one or more persons admitted to bid pursuant to regulation 17 and 18, whether for their own account or on behalf of any other person, where they fulfil their role with respect to the auctions in question—
+
+- (a) the auctioneer;
+- (b) the appointed auction platform including any clearing system and any settlement system connected to it;
+- (c) persons who are in a position to exercise, directly or indirectly, significant influence over the management of the persons under sub-paragraphs (a) and (b);
+- (d) persons working for persons under sub-paragraphs (a) and (b).
+
+(6) The option made available pursuant to regulations 27 to 32 for the appointed auction platform, including any clearing system or settlement system connected to it, to accept payment, make delivery or take collateral, from a successor in title to a successful bidder may not undermine the application of this regulation, or regulations 17 to 19.
+
+### 17. Requirements for admission to bid[^key-cf20dde762a9c0954465190b1bcb8125]
+
+(1) Members or participants of the secondary market organised by the appointed auction platform that are eligible persons pursuant to regulation 16(1) or (2) must be admitted to bid directly in the auctions conducted by the auction platform without any further admission requirements, provided that both of the following conditions are fulfilled—
+
+- (a) the requirements for admission of the member or participant to trade allowances through the secondary market organised by the appointed auction platform are no less stringent than those listed under paragraph (2);
+- (b) the appointed auction platform receives any additional information necessary to verify the fulfilment of any requirements referred to in paragraph (2) that have not been previously verified.
+
+(2) Persons, who are not members or participants of the secondary market organised by the appointed auction platform, and who are eligible persons pursuant to regulation 16(1) or (2) must be admitted to bid directly in the auctions conducted by that auction platform provided that they—
+
+- (a)[^key-63079d5bd438410c9a9183d88190a677] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) hold a nominated holding account;
+- (c) hold a nominated bank account;
+- (d) appoint at least one bidder's representative as defined in regulation 5(5);
+- (e) subject to paragraph (3), satisfy the appointed auction platform pursuant to the customer due diligence measures required under the Money Laundering Regulations as to—
+  - (i) their identity,
+  - (ii) the identity of their beneficial owners,
+  - (iii) their integrity, business and trading profile having regard to the means of establishing the relationship with the bidder,
+  - (iv) the type of bidder,
+  - (v) the nature of the auctioned product,
+  - (vi) the size of prospective bids, and the means of payment and delivery;
+- (f) satisfy the appointed auction platform of their financial standing, in particular, that they are able to meet their financial commitments and current liabilities as they fall due;
+- (g) have in place or are able to put in place when requested, the internal processes, procedures and contractual agreements necessary to give effect to a maximum bid-size imposed pursuant to regulation 40; and[^key-b9d7cf12e5619bf827f362ad4c42b353]
+- (h) fulfil the requirements of regulation 32(1).
+
+(3) Persons within regulation 16(1)(b), (ba), (c) or (ca)[^key-3bf5b09f3455f454035d3d72ea997c5e] or regulation 16(2), who are submitting bids on behalf of their clients, are responsible for ensuring that all of the following conditions are fulfilled—
+
+- (a) their clients are eligible persons pursuant to regulation 16(1) or (2);
+- (b) they have or will have in good time before the opening of the bidding window adequate internal processes, procedures and contractual agreements necessary to—
+  - (i) enable them to process bids from their clients including the submission of bids, collection of payment and transfer of allowances;
+  - (ii) prevent the disclosure of confidential information from that part of their business responsible for receiving, preparing and submitting bids on behalf of their clients to that part of their business responsible for preparing and submitting bids on their own account;
+  - (iii) ensure that their clients who themselves are acting on behalf of clients bidding in the auctions apply the requirements set out in paragraph (2) and in this paragraph and that they require the same of their clients and of the clients of their clients as provided for in regulation 16(4).
+
+(4) The appointed auction platform may rely on reliable checks carried out by the persons referred to in the opening words of paragraph (3), their clients, or the clients of their clients as provided for in regulation 16(3) and (4).
+
+(5) Persons referred to in paragraph (3) are responsible for ensuring that they are able to demonstrate to the appointed auction platform whenever requested to do so by the auction platform pursuant to regulation 18(7)(d) that the conditions in sub-paragraphs (a) and (b) of paragraph (3) are fulfilled.
+
+### 18. Submission and processing of applications for admission to bid[^key-08d03074a03ba2b68c217f87b27e871b]
+
+(1) Subject to paragraph (2), persons eligible under regulation 16(1) or (2) must apply to the auction platform for admission to bid before submitting their first bid directly through the appointed auction platform.
+
+(2) Members of or participants in the secondary market organised by the appointed auction platform fulfilling the requirements of regulation 17(1) must be admitted to bid without applying under paragraph (1).
+
+(3) An application for admission to bid made under paragraph (1) is made by submitting a completed application form to the auction platform.
+
+(4) The application form must be provided by the appointed auction platform, and made available through the internet.
+
+(5) An application for admission to bid must—
+
+- (a) be supported by duly certified copies of all supporting documents required by the appointed auction platform to show that the applicant satisfies the requirements of regulation 17(2) and (3);
+- (b) include at least the elements listed in the Schedule.
+
+(6) An application for admission to bid, including any supporting documents, must on request be made available for inspection by any law enforcement authorities conducting an investigation referred to in regulation 45(3)(e).
+
+(7) The appointed auction platform may refuse admission to bid in its auctions if the applicant refuses—
+
+- (a) to comply with requests made by the auction platform for additional information or clarification or substantiation of information provided;
+- (b) to attend an invitation made by the auction platform to interview any officers of the applicant including at its business premises or elsewhere;
+- (c) to allow investigations or verifications, requested by the auction platform including on-site visits or spot-checks at the applicant's business premises;
+- (d) to comply with requests made by the auction platform for any information required from an applicant, the clients of an applicant or the clients of their clients as provided for in regulation 16(3) and (4) to check compliance with the requirements of regulation 17(3);
+- (e) to comply with requests made by the auction platform for any information required to check compliance with the requirements of regulation 17(2).
+
+(8) The appointed auction platform must require an applicant for admission to bid in its auctions to ensure that clients of the applicant comply with any request made pursuant to paragraph (7) and that any client of the applicant's clients as provided for in regulation 16(4) does the same.
+
+(9) An application for admission is deemed to be withdrawn if the applicant fails to submit information requested by the auction platform within a reasonable period specified in a request for information made pursuant to sub-paragraph (a), (d) or (e) of paragraph (7), by the appointed auction platform, which must not be less than five trading days from the date of the request for information, or fails to respond or submit to or cooperate in an interview or any investigations or verifications under sub-paragraph (b) or (c) of paragraph (7).
+
+(10) An applicant—
+
+- (a) must not provide the appointed auction platform with false or misleading information; and
+- (b) must notify the appointed auction platform concerned fully, frankly and promptly of any changes in its circumstances that could affect its application for admission to bid in auctions conducted by the auction platform or any admission to bid already granted to it.
+
+(11) The appointed auction platform must decide on an application submitted to it and notify its decision to the applicant in writing.
+
+(12) The appointed auction platform may—
+
+- (a) grant unconditional admission to the auctions, subject to regulation 37(3)(b), for a period not exceeding the term of its appointment, including any extension or renewal of that appointment;
+- (b) grant conditional admission to the auctions for a period not exceeding the term of its appointment, subject to fulfilment of the specified conditions, by a given date, which must be duly verified by the auction platform concerned;
+- (c) refuse to grant admission.
+
+(13) For the purposes of this regulation, “**duly certified copy**” means an authentic copy of an original document that is certified as being a true copy of the original by a qualified lawyer, accountant, notary public or similar professional who is recognised under the law of any part of the United Kingdom to attest officially as to whether a copy is in fact a true copy of its original.
+
+### 19. Refusal, revocation or suspension of admission[^key-48135a238a1503c49ad5266cb2af9242]
+
+(1) The appointed auction platform must refuse to grant admission to bid in its auctions, revoke or suspend any admission to bid already granted to any person who—
+
+- (a) is not or is no longer eligible to apply for admission to bid under regulation 16(1) or (2);
+- (b) does not or no longer meets the requirements of regulations 16, 17 or 18;
+- (c) is wilfully or repeatedly in breach of these Regulations, the terms and conditions of its admission to bid in the auctions conducted by the appointed auction platform or any other related instructions or agreements.
+
+(2) The appointed auction platform must refuse to grant admission to bid in its auctions, revoke or suspend any admission to bid already granted, if it suspects money laundering, terrorist financing, or other criminal activity or market abuse in relation to an applicant, unless such refusal, revocation or suspension is likely to frustrate efforts by law enforcement authorities (within the meaning of regulation 44(10) of the Money Laundering Regulations), or the FCA, to pursue or apprehend the perpetrators of such activities.
+
+(3) In such a case, the appointed auction platform must report to a person nominated for this purpose by the Director General of the National Crime Agency [^c24494031] in accordance with regulation 38(4), and to the FCA in accordance with regulation 39(1).
+
+(4) The appointed auction platform may refuse to grant admission to bid in its auctions, revoke or suspend any admission to bid already granted, to any person—
+
+- (a) who is negligently in breach of these Regulations, the terms and conditions of its admission to bid in the auctions conducted by the appointed auction platform or any other related instructions or agreements;
+- (b) who has otherwise behaved in a manner that is prejudicial to the orderly or efficient conduct of an auction;
+- (c) who is referred to in regulation 16(1)(b), (ba), (c) or (ca)[^key-9497032c8cc87cc941e95b9b5786536c] or regulation 16(2) and has not bid in any auction during the preceding 220 trading days.
+
+(5) Persons referred to in paragraph (4) must be notified of the refusal to grant admission, or the proposal to revoke or suspend admission, and be given a reasonable period, specified in that notification, to respond in writing.
+
+(6) After considering the person's written response, the appointed auction platform must if warranted—
+
+- (a) grant or reinstate admission with effect from a given date;
+- (b) grant conditional admission or conditional reinstatement of admission subject to fulfilment of the specified conditions by a given date, which must be duly verified by the auction platform concerned;
+- (c) confirm the refusal to grant admission, the revocation or suspension of admission with effect from a given date.
+
+(7) The auction platform must notify the person in question of its decision.
+
+(8) Persons whose admission to bid is revoked or suspended pursuant to paragraphs (1), (2) or (4) must take reasonable steps to ensure that their removal from the auctions—
+
+- (a) is orderly;
+- (b) does not prejudice the interests of their clients or interfere with the efficient functioning of the auctions;
+- (c) does not affect their obligations to comply with any payment provisions, the terms and conditions of their admission to bid in the auctions or any other related instructions or agreements;
+- (d) does not compromise their obligations regarding the protection of confidential information pursuant to regulation 17(3)(b)(ii) which is to remain in force for 20 years following their removal from the auctions.
+
+(9) The notification of refusal to grant admission, revocation or of suspension of admission, referred to in paragraphs (1), (2) and (4), must specify any measures needed to comply with paragraph (8) and the auction platform must verify compliance with such measures.
+
+## PART 5 — Appointment of the Auctioneer and its Functions
+
+### 20. Appointment of the auctioneer[^key-fe18b234a6df31ef479ed2b8af722b17]
+
+(1) The Treasury may, by notice in writing, appoint as auctioneer—
+
+- (a) the Secretary of State, the Scottish Ministers, the Welsh Ministers, the Department of Agriculture, Environment and Rural Affairs in Northern Ireland or any other persons;
+- (b) any two or more such persons jointly.
+
+(2) The appointment may be made subject to such conditions (including as to fees charged) and limitations as the Treasury see fit.
+
+(3) The auctioneer must be appointed under paragraph (1) in good time before the commencement of the auctions so as to make any arrangements necessary with the auction platform appointed (or to be appointed) under regulation 22(1), and to implement those arrangements, including any clearing system and settlement system connected to it.
+
+(4) No person may disclose inside information to a person working for the auctioneer unless the person makes such disclosure on a need-to-know basis in the normal course of the exercise of their employment, profession or duties and the Treasury is satisfied that the auctioneer has in place appropriate measures to prevent insider dealing, or the unlawful disclosure of inside information by any person working for an auctioneer, in addition to the measures provided for in Articles 18(8) and 19(10) of the Market Abuse Regulation, and for these purposes—
+
+- (a) “**insider dealing**” means behaviour prohibited by points (a) and (b) of Article 14 of the Market Abuse Regulation;
+- (b) “**inside information**” means the same as in Article 7 of the Market Abuse Regulation;
+- (c) “**unlawful disclosure of inside information**” means behaviour prohibited by point (c) of Article 14 of the Market Abuse Regulation.
+
+(5) No allowances may be auctioned unless a duly appointed auctioneer is in place and the arrangements referred to in paragraph (3) have been made and are in force.
+
+### 21. The auctioneer's functions[^key-a00d370a0131271b61c1103cb29ab030]
+
+(1) The auctioneer must carry out the following functions—
+
+- (a) auction the volume of allowances assigned for auction;
+- (b) receive the auction proceeds;
+- (c) pay the auction proceeds due in accordance with paragraph (3).
+
+(2) The auctioneer must ensure that these auction proceeds are paid to the Treasury or into the Consolidated Fund in accordance with paragraph (3), at the latest 15 days following the end of the month within which the auction proceeds were generated.
+
+(3) Subject to any deduction in respect of costs made in accordance with paragraph (5)—
+
+- (a) any sum received by the Secretary of State as auctioneer in return for the allocation of allowances must be paid into the Consolidated Fund; and
+- (b) any sum received by the Scottish Ministers, the Welsh Ministers, the Department of Agriculture, Environment and Rural Affairs in Northern Ireland or any other person as auctioneer in return for the allocation of allowances must be paid to the Treasury.
+
+(4) All sums received by the Treasury under paragraph (3)(b) are to be paid into the Consolidated Fund.
+
+(5) Before the auctioneer makes payment under paragraph (3), the auctioneer may deduct any additional fees for their holding and disbursement, subject to the prior notification of the amount and the reason for these fees by the auctioneer to the Treasury[^key-4e4fac1e85ed7bbd783b2184ea5559a3].
+
+## PART 6 — Appointment and Functions of Auction Platform
+
+### 22. Appointment of the auction platform[^key-d2d637f07f43d8a8388b88ee17d9c785]
+
+(1) The auctioneer may appoint a recognised auction platform to auction allowances as provided for in these Regulations.
+
+(2) Subject to paragraph (4), the selection of an auction platform or appointment under paragraph (1) must be made on the basis of a selection procedure which—
+
+- (a) complies with best procurement practice, and any applicable law on procurement; and
+- (b) includes a full public procurement process.
+
+(3) The term of an auction platform appointed under paragraph (1) may be no longer than 3 years, renewable for no more than a further 2 years.
+
+(4) Paragraph (2) does not apply if the recognised auction platform appointed under regulation 4 of the Community Emissions Trading Scheme (Allocation of Allowances for Payment) Regulations 2012 [^c24494041] is appointed as the auction platform under this regulation.
+
+(5) For the purposes of these Regulations, “**recognised auction platform**” means a recognised investment exchange, in relation to which a recognition order under the Recognised Auction Platforms Regulations 2011 [^c24494051] is in force.
+
+### 23. Functions of the auction platform[^key-7f45c31b5fc1e7ec9649b4a3459233b8]
+
+(1) The appointed auction platform must provide the following services to the auctioneer as more particularly delineated in the contract appointing it—
+
+- (a) providing access to the auctions, pursuant to regulations 13 to 19, including the provision and maintenance of the necessary internet-based electronic interfaces and website;
+- (b) conducting the auctions in accordance with regulations 4 to 7;
+- (c) announcing and notifying the results of an auction, pursuant to regulation 44;
+- (d) providing, or ensuring the provision of, the requisite clearing system or settlement system needed for—
+  - (i) the handling of payments made by successful bidders or their successors in title and distribution of the proceeds of the auctions to the auctioneer, pursuant to regulations 27 and 28;
+  - (ii) delivering the auctioned allowances to successful bidders or their successors in title, pursuant to regulations 29, 30 and 31;
+  - (iii) managing collateral including any margining, provided by the auctioneer or bidders, pursuant to regulations 32 and 33;
+- (e) surveying the auctions, notifying suspicions of money laundering, terrorist financing, other criminal activity or market abuse as required by regulations 38 and 39, administering any required remedial measures or sanctions including the provision of an extra-judicial dispute resolution mechanism, pursuant to regulations 37 to 42 and 47(1);
+- (f) reporting, pursuant to regulation 26.
+
+(2) At least 20 trading days prior to the opening of the first bidding window, the auction platform must be connected to at least one clearing system or settlement system.
+
+(3) Within three months from the date of its appointment, the auction platform must submit its detailed exit strategy to the auctioneer and the Treasury[^key-8ad29ffd219a2fdacf341eff4ec6fb8a].
+
+(4) For the purposes of this regulation, “**exit strategy**” means one or more documents determined in accordance with the contracts appointing the auction platform concerned, setting out detailed measures planned to ensure the following—
+
+- (a) the transfer of all tangible and intangible assets necessary for the uninterrupted continuation of the auctions and the smooth operation of the auction process by an auction platform's successor;
+- (b) the provision of all information relating to the auction process, that is necessary for the procurement procedure for the appointment of the auction platform's successor;
+- (c) the provision of the technical assistance that enables the contracting authorities or the auction platform's successor or any combination of these, to understand, access or use the relevant information provided pursuant to sub-paragraphs (a) and (b).
+
+## PART 7 — Appointment Requirements for the Auctioneer and the Auction Platform
+
+### 24. Appointment requirements applicable to the auctioneer[^key-a475a511475ea7421f6c18be9ae14d9d]
+
+(1) When appointing auctioneers, the Treasury must take into account the extent to which candidates—
+
+- (a) exhibit the least risk of conflict of interest or market abuse having regard to the following—
+  - (i) any activities on the secondary market;
+  - (ii) any internal processes and procedures to mitigate the risk of conflict of interest or market abuse;
+- (b) are able to fulfil the auctioneer's functions, in a timely manner, in accordance with the highest professional and quality standards.
+
+(2) The auctioneer's appointment is subject to the conclusion of the arrangements referred to in regulation 20(3) between the auctioneer and the appointed auction platform.
+
+### 25. Appointment requirements applicable to any auction platform[^key-95c2b082ca994be2f8019358deafe6f5]
+
+(1) Auctions may only be conducted on an auction platform which is—
+
+- (a) a recognised auction platform;
+- (b) authorised as a recognised investment exchange whose operator organises a secondary market in allowances or allowances derivatives.
+
+(2) Without prejudice to paragraph (1)(b), a recognised investment exchange whose operator organises a wholesale energy market as defined in Article 2(6) of Regulation (EU) No 1227/2011 of the European Parliament and of the Council on wholesale energy market integrity and transparency, but does not organise a secondary market in allowances or allowances derivatives, may participate in the procurement procedure pursuant to regulation 22.
+
+(3) Where such a recognised investment exchange is appointed as the appointed auction platform pursuant to regulation 22 and its operator does not organise a secondary market in allowances or allowances derivatives by the time of publication of the procurement procedure pursuant to regulation 22(2), that operator must acquire an authorisation and must organise a secondary market in allowances or allowances derivatives at least 60 trading days prior to the opening of the first bidding window run by the auction platform concerned.
+
+(4) The appointed auction platform may provide appropriate arrangements so as to facilitate access to and participation in auctions by bidders referred to in regulation 16(1) and (2).
+
+(5) When appointing the auction platform, the auctioneer must take into account the extent to which candidates demonstrate fulfilment of all of the following—
+
+- (a) ensuring respect of the principle of non-discrimination both in terms of the policies and rules of the candidates, and in their implementation in practice;
+- (b) ensuring full, fair and equitable access to bid in the auctions for SMEs and access to bid in the auctions for hospitals and small emitters, as defined in article 4 of the Trading Scheme Order;
+- (c) ensuring cost-efficiency and avoiding undue administrative burdens;
+- (d) robust auction supervision, notification of suspicions of money laundering, terrorist financing, other criminal activity or market abuse, administration of any required remedial measures or sanctions, including the provision of an extra-judicial dispute resolution mechanism;
+- (e) avoiding distortions of competition, including competition in the carbon market;
+- (f) ensuring the proper functioning of the carbon market including the implementation of the auctions;
+- (g) connecting to one or more clearing system or settlement system;
+- (h) the provision of adequate measures requiring an auction platform to hand over all tangible and intangible assets necessary for the conduct of the auctions by an auction platform's successor.
+
+(6) The FCA must decide on the authorisation of a recognised investment exchange appointed, or to be appointed, pursuant to regulation 22(1), provided that the recognised investment exchange and its market operator comply with the provisions of Part 18 of the Financial Services and Markets Act 2000, and the Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges, Clearing Houses and Central Securities Depositories) Regulations 2001 [^c24494061], as applicable.
+
+(7) The FCA must maintain effective market oversight and take the necessary measures to ensure that the requirements referred to in paragraph (6) are complied with.
+
+(8) For the purposes of this regulation—
+
+- “**market operator**” has the meaning given in Article 2(1)(10) of the Markets in Financial Instruments Regulation;
+- “**SMEs**” means operators or aircraft operators (within the meaning of articles 5 and 6 respectively of the Trading Scheme Order) or maritime operators (within the meaning of paragraph 3 of Schedule 2A to the Trading Scheme Order)[^key-6b47c8d452fc32dfd521aaa025c43d07] that are small and medium-sized enterprises within the meaning of Commission Recommendation 2003/361/EC [^c24494071]
+
+## PART 8 — Reporting on Transactions
+
+### 26. Obligation to report transactions[^key-0cc9737bcd660a20906e3d8472f127a9]
+
+(1) The appointed auction platform must report to the FCA the complete and accurate details of every transaction executed on the auction platform that results in the transfer of allowances to the successful bidders.
+
+(2) The reports on the transactions pursuant to paragraph (1) must be submitted as quickly as possible, and no later than the close of the trading day following the transaction concerned.
+
+(3) Where the successful bidder is a legal person, the appointed auction platform must, in reporting the designation to identify the successful bidder as required under paragraph 6 of this regulation, use a legal entity identifier referred to in Article 5 of Commission delegated regulation (EU) 2017/590 of 28 July 2016 supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council with regard to regulatory technical standards for the reporting of transactions to competent authorities (“Commission Delegated Regulation (EU) 2017/590”).
+
+(4) The appointed auction platform must be responsible for the completeness, accuracy and timely submission of the reports, and insofar as there are details to transactions which are not available to the auction platforms, the bidders and the auctioneers must submit such information to the auction platform.
+
+(5) Where there are errors or omissions in the transaction reports, the appointed auction platform must correct the information and submit a corrected report to the FCA.
+
+(6) The report pursuant to paragraph (1) must, in particular, include the name of the allowances or allowances derivatives, the quantity bought, the dates and times of execution, the transaction prices, a designation to identify the successful bidders, and if applicable, the clients on whose behalf the transaction was executed.
+
+(7) The report must be drawn up using data standards and formats established in the Commission Delegated Regulation (EU) 2017/590 and include all the relevant details referred to in Annex I to that Regulation.
+
+## PART 9 — Payment and Transfer of the Auction Proceeds
+
+### 27. Payment by successful bidders and transfer of proceeds[^key-196a1a242985af679b29d5c8c0e6e87e]
+
+(1) Each successful bidder or its successor in title, including any intermediaries acting on their behalf, must pay the sum due notified to it pursuant to regulation 44(5)(c) for the allowances won as notified to it pursuant to regulation 44(5)(a), by transferring or arranging for the transfer of the sum due through the clearing system or settlement system, into the auctioneer's nominated bank account in cleared funds either before or at the latest upon delivery of the allowances into the bidder's nominated holding account or the nominated holding account of its successor in title.
+
+(2) An auction platform including the clearing system or settlement system connected to it must transfer the payments made by the bidders or any successors in title arising from the auctioning of allowances to the auctioneers that auctioned the allowances in question.
+
+(3) Payments to the auctioneers are to be made in pounds sterling, regardless of the currency in which the bidder made payment to the auction platform.
+
+### 28. Consequences of late or non-payment[^key-21a346c1f91dd0dca0f06b56c7dab1cd]
+
+(1) A successful bidder, or its successor in title, will only be entitled to delivery of the allowances notified to the successful bidder pursuant to regulation 44(1)(a), if the entire sum due notified to it pursuant to regulation 44(5)(c), is paid to the auctioneer pursuant to regulation 27(1).
+
+(2) A successful bidder, or its successor in title, that fails to meet its obligations under paragraph (1) in full by the due date notified to the successful bidder pursuant to regulation 44(5)(d) is in default of payment.
+
+(3) A bidder in default of payment may be charged interest for each day beginning with the date on which payment was due pursuant to regulation 44(5)(d) and ending on the date on which payment is made at an interest rate set out in the contract appointing the auction platform concerned, calculated on a daily basis.
+
+(4) Without prejudice to paragraphs (1), (2) and (3), where a successful bidder is in default of payment one of the following may occur—
+
+- (a) the central counterparty may interpose to take delivery of the allowances and effect payment of the sum due to the auctioneer;
+- (b) the settlement agent may apply collateral taken from the bidder to effect payment of the sum due to the auctioneer.
+
+(5) Where a successful bidder is in default of payment, and settlement has not been effected in accordance with paragraph (4), the allowances must be auctioned at the next two auctions scheduled on the auction platform concerned.
+
+## PART 10 — Delivery of the Auctioned Allowances
+
+### 29. Transfer of the auctioned allowances[^key-ebd3918995450dd5db416c0725c3d641]
+
+Allowances auctioned by the auction platform must be transferred by the UK ETS authority[^key-12c6e3e682d1f68c9e7c45c6eb9ce2b0] prior to the opening of a bidding window, into a nominated holding account, to be held in escrow by the clearing system or settlement system acting as custodian, until delivery of the allowances to successful bidders or their successors in title, pursuant to the results of the auction [^key-aaa2c7319e38b26008f33948571ba7e3]....
+
+### 30. Delivering the auctioned allowances[^key-f83df5d6bfd7a80b668ba697d2d81ca1]
+
+(1) The clearing system or settlement system must allocate each allowance auctioned to a successful bidder or its successor in title, until the total volume allocated matches the volume of allowances notified to the bidder pursuant to regulation 44(5)(a).
+
+(2) Upon payment of the sum due, pursuant to regulation 27(1), each successful bidder or its successor in title must be delivered the allowances allocated to that bidder, as soon as practicable and in any event no later than the deadline for their delivery by transferring the allowances notified to the bidder pursuant to regulation 44(5)(a) from a nominated holding account held in escrow by the clearing system or settlement system acting as custodian, in whole or in part into one or more nominated holding accounts held by the successful bidder or by its successor in title, or into a nominated holding account held in escrow by a clearing system or settlement system acting as custodian for the successful bidder or its successor in title.
+
+### 31. Late delivery of the auctioned allowances[^key-b260e3d5ac4359c8dacdec2a97c1a2f8]
+
+(1) Where the clearing system or settlement system fails to deliver the whole or part of the auctioned allowances due to circumstances outside its control, the clearing system or settlement system must deliver the allowances at the earliest opportunity and the successful bidders must accept delivery at that later date.
+
+(2) The remedy provided for in paragraph (1) is the sole remedy to which a successful bidder or its successor in title is entitled to in case of any failure to deliver auctioned allowances, due to circumstances outside the control of the clearing system or settlement system concerned.
+
+## PART 11 — Management of Collateral
+
+### 32. Collateral given by the bidder[^key-eb4ead0cbde06891b4a561ab47f9d399]
+
+(1) Prior to the opening of the bidding window for the auctioning of two-day spot or five-day futures, bidders or any intermediaries acting on their behalf, are required to give collateral.
+
+(2) If so requested, any unused collateral posted by an unsuccessful bidder, together with any interest accrued on cash collateral, is to be released, as soon as practicable after the close of the bidding window.
+
+(3) If so requested, any collateral posted by a successful bidder that has not been used for settlement, together with any interest accrued on cash collateral, must be released, as soon as practicable after settlement.
+
+### 33. Collateral given by the auctioneer[^key-04fc75afe43b910d525cb6456ac1abab]
+
+(1) Prior to the opening of the bidding window for the auctioning of two-day spot or five-day futures, the auctioneer may only be required to give allowances as collateral to be held in escrow by the clearing system or settlement system acting as custodian, pending their delivery.
+
+(2) Where any allowances given as collateral under paragraph (1) are not used, the clearing system or settlement system may retain them in a nominated holding account held in escrow by the clearing system or settlement system acting as custodian, pending their delivery.
+
+## PART 12 — Fees and Costs
+
+### 34. Structure and level of fees[^key-ab9f1162df7aa8d423dff715250e2a46]
+
+(1) The structure and level of fees as well as any related conditions applied by any auction platform and the clearing system and settlement system are to be no less favourable than comparable standard fees and conditions applied on the secondary market.
+
+(2) The auction platform and the clearing system and settlement system may only apply fees, deductions or conditions explicitly set out in the contract appointing them.
+
+(3) All fees and conditions applied pursuant to paragraphs (1) and (2) must be—
+
+- (a) clearly stated, easily understandable and publicly available, and
+- (b) itemised, indicating each charge made for each type of service.
+
+### 35. Costs of the auction process[^key-facf9a115b94fd14237f1647352b8da4]
+
+(1) Without prejudice to paragraph (2), the costs of the services provided for in regulation 23(1) must be paid for through fees paid by the bidders.
+
+(2) The costs referred to in paragraph (1) must be deducted from the auction proceeds payable to the auctioneers pursuant to regulation 27(2) and (3).
+
+## PART 13 — Auction Surveillance, Remedial Measures and Sanctions
+
+### 36. Monitoring of auctions[^key-021241a1ad0fb20c7770adc646f29d02]
+
+(1) By the end of each month, the appointed auction platform must report on the implementation of the auctions it conducted in the preceding month in particular with respect to—
+
+- (a) fair and open access;
+- (b) transparency;
+- (c) price formation;
+- (d) technical and operational aspects of the implementation of the contract appointing the auction platform concerned;
+- (e) the relationship between the auction processes and the secondary market in respect of the information under points (a) to (d);
+- (f) any evidence of anti-competitive behaviour, market abuse, money laundering, terrorist financing or other criminal activity that the auction platform has been made aware while carrying out its functions pursuant to regulation 23;
+- (g) any breach of these Regulations of which the auction platform has been made aware while carrying out its functions pursuant to regulation 23 of these Regulations;
+- (h) follow-up to any information reported under points (a) to (g).
+
+(2) In addition, by 31 January of each year, the auction platform must also provide a summary and an analysis of these monthly reports of the previous year.
+
+(3) The appointed auction platform must provide the reports under paragraph (1) and (2) to the FCA , the auctioneer and the Treasury[^key-f3899450983c7b4fec09276db4149997].
+
+(4) The auctioneer[^key-8c79cd07d545f24f491870e3167a7421] must—
+
+- (a) monitor the implementation of the contracts appointing the auction platforms;
+- (b) publish the summary reports referred to in paragraph (2) on its website.
+
+(5) The FCA[^key-e004d480d0cad31e8b8f3b2e11b7de8a] and appointed auction platform must actively cooperate with the auctioneer and the Treasury[^key-d897ab9e90bd1e0862b5ced8ec32c5c6] and, upon request, provide the auctioneer or the Treasury[^key-9d55b074a8f1b0dfbdde4f6442e4c708] with any information in their possession relating to the auctions, as is reasonably required for the monitoring of the auctions.
+
+### 37. Monitoring the relationship with bidders[^key-1627dc39ae52b69c01b9ec7152e02348]
+
+(1) The appointed auction platform must monitor the relationship with bidders admitted to bid in its auctions throughout its subsistence, by—
+
+- (a) scrutinising bids made throughout the course of that relationship to ensure that the bidding behaviour of bidders is consistent with the auction platform's knowledge of the customer, its business and risk profile, including, where necessary, the source of funds;
+- (b) maintaining effective arrangements and procedures for the regular monitoring of the compliance by persons admitted to bid pursuant to regulation 17(1) and (2) with the market conduct rules of the appointed auction platform;
+- (c) monitoring transactions undertaken by persons admitted to bid pursuant to regulation 17(1) and (2) and by politically exposed persons (within the meaning of regulation 35 of the Money Laundering Regulations) using its systems in order to identify breaches of the rules referred to in sub-paragraph (b), unfair or disorderly auctioning conditions or conduct that may invoke market abuse.
+
+(2) Where scrutinising bids in accordance with paragraph (1)(a), the appointed auction platform must pay particular attention to any activity which it regards as particularly likely, by its nature, to be related to money laundering, terrorist financing or other criminal activity.
+
+(3) The appointed auction platform must ensure that the documents, data or information it holds on a bidder are kept up-to-date, and for this purpose, the auction platform may—
+
+- (a) request any information of the bidder, pursuant to regulation 17(2) and (3) and regulation 18(7) and (8), it requires for the purposes of monitoring the relationship with that bidder following its admission to bid in the auctions, throughout the subsistence of that relationship and for a period of 5 years following its termination;
+- (b) require any person admitted to bid to re-submit an application for admission to bid at regular intervals;
+- (c) require any person admitted to bid to promptly notify the auction platform concerned of any changes to the information submitted to it pursuant to regulation 17(2) and (3) and regulation 18(7) and (8).
+
+(4) The appointed auction platform must keep records of—
+
+- (a) the application for admission to bid submitted by an applicant, pursuant to regulation 17(2), including any amendments thereto;
+- (b) the checks carried out in—
+  - (i) processing the application for admission to bid submitted, pursuant to regulations 17 and 18;
+  - (ia)[^key-a62c43a6fabd5360491df89ab989cf03] refusing to grant admission to bid and revoking or suspending any admission to bid under regulation 19;
+  - (ii) scrutinising and monitoring the relationship, pursuant to paragraph (1)(a) and (c), following an applicant's admission to bid;
+- (c) all information relating to a given bid submitted by a given bidder in an auction, including any withdrawal or modification of such bids, pursuant to regulation 5[^key-ada5abd906e1df0a11a373693ea76713]...;
+- (d) all information relating to the conduct of each auction in which a bidder has submitted a bid.
+
+(5) The appointed auction platform must keep the records referred to in paragraph (4) for as long as a bidder is admitted to bid in its auctions and for at least 5 years following the termination of the relationship with that bidder.
+
+### 38. Notification of money laundering, terrorist financing or other criminal activity[^key-220e17cd42e171c008799ac1da799263]
+
+(1) The FCA must monitor and take the necessary measures to ensure compliance of an appointed auction platform with the customer due diligence measures referred to in regulation 17(2)(e), with the obligation to refuse to grant admission to bid, revoke or suspend any admission to bid already granted pursuant to regulation 19(1) and (2), with the monitoring and record keeping requirements of regulation 37 and with the notification requirements of paragraphs (4), (5) and (6).
+
+(2) The FCA may exercise the powers given to it in regulations 66 to 74 of the Money Laundering Regulations for the purpose of its supervisory functions under these Regulations as though—
+
+- (a) those functions were supervisory functions given to the FCA under the Money Laundering Regulations; and
+- (b) references in regulations 66 to 74 of the Money Laundering Regulations to contravention of the Money Laundering Regulations included a reference to contravention of these Regulations.
+
+(3) The appointed auction platform may be held liable for infringements of regulations 18(8) and (12), 19(1) and (2), 37, and paragraphs (4), (5) and (6) of this regulation, and infringements of these provisions are to be treated as breach of a relevant requirement for the purposes of Part 9 of the Money Laundering Regulations.
+
+(4) The appointed auction platform, its directors and employees, must cooperate fully with the National Crime Agency (“NCA”) by promptly—
+
+- (a) informing the NCA, including by filing a report, on their own initiative, where they know, suspect or have reasonable grounds to suspect that funds in relation to the auctions, regardless of the amount involved, are the proceeds of criminal activity or are related to terrorist financing, and by promptly responding to requests by the NCA for additional information in such cases;
+- (b) providing the NCA directly, at its request, with all necessary information.
+
+(5) All suspicious transactions, including attempted transactions, must be reported by the appointed auction platform to the NCA.
+
+(6) The appointed auction platform must inform the NCA of the individual who is responsible for forwarding information pursuant to this regulation.
+
+### 39. Notification of market abuse[^key-5e053d38a3bac9266873b88085c91b3e]
+
+(1) The appointed auction platform must—
+
+- (a) establish and maintain effective arrangements, system and procedures—
+  - (i) to prevent and detecting market abuse and attempted market abuse,
+  - (ii) detect and report suspicious orders and transactions;
+- (b) report to the FCA, any suspicions of market abuse or attempted market abuse by any person admitted to bid in the auctions or by any person on whose behalf the person admitted to bid in the auctions is acting,
+
+in accordance with Article 16 of the Market Abuse Regulation and with any technical standards made under that Article.
+
+(2) The report given under paragraph (1) must state what remedial action it [^key-216313ef03a1d86b414af0e7cca0171e]... proposes to take to counter the wrongdoing referred to in paragraph (1).
+
+(3)[^key-d25b09a88e5d18cf83020e91b8a1cb71] Where the appointed auction platform gives a report under paragraph (1) to the FCA, the appointed auction platform must inform the auctioneer and the Treasury of that fact and the remedial action proposed as soon as reasonably practicable.
+
+### 40. Maximum bid-size and other remedial measures[^key-90a71739f8446f56ae4b969fafc12ac1]
+
+(1) A maximum bid-size, or any other remedial measures necessary to mitigate an actual or potential discernible risk of market abuse, money laundering, terrorist financing or other criminal activity, as well as anti-competitive behaviour, may be imposed by the appointed auction platform after consulting the FCA and the auctioneer[^key-e3514c1603383c279d45176ebd641a71].
+
+(2) The maximum bid-size must either be expressed as a percentage of the total number of auctioned allowances in any given auction or a percentage of the total number of auctioned allowances in any given year, whichever may be most appropriate to deal with the risk of market abuse.
+
+(3) For the purposes of this regulation, “**maximum bid-size**” means the maximum number of allowances that may be bid for, directly or indirectly, by any person, or by any group of persons belonging[^key-a86d90cd8649b3e6332c799d8a45a814] to any of the following categories—
+
+- (a) the same group including any parent undertakings, its subsidiary undertakings and affiliated undertakings;
+- (b) the same business grouping;
+- (c) a separate economic unit having an independent power of decision where they are controlled, directly or indirectly, by public bodies or state-owned entities.
+
+### 41. Market conduct rules or any other contractual arrangements[^key-16bdecb9e7994238214c3389a9f6d0f5]
+
+Regulations 36 to 40 are without prejudice to any other action that an appointed auction platform is entitled to take under its market conduct rules or any other contractual arrangements in place, directly or indirectly, with any bidders admitted to bid in the auctions, provided that such action does not conflict with or undermine the provisions of regulations 36 to 40.
+
+### 42. Conduct rules for other persons authorised to bid on behalf of others[^key-b0724a65d47e5ab7fbb4417d67c164ad]
+
+(1) This regulation applies to persons authorised to bid pursuant to regulation 16(2).
+
+(2) Persons referred to in paragraph (1) must apply the following conduct rules in their relationship with their clients—
+
+- (a) they must accept instructions from their clients on comparable terms;
+- (b) they must refuse to bid on behalf of a client if they have reasonable grounds to suspect money laundering, terrorist financing, other criminal activity or market abuse, subject to sections 327, 328, 329 and 338(3) of the Proceeds of Crime Act 2002 [^c24494081] and section 21A of the Terrorism Act 2000 [^c24494091];
+- (c) they may refuse to bid on behalf of a client if they have reasonable grounds to suspect that the client is unable to pay for the allowances for which it is seeking to bid;
+- (d) they must enter into a written agreement with their clients which—
+  - (i) does not impose any unfair conditions or restrictions on the client concerned, and
+  - (ii) provides for all the terms and conditions relating to the services offered including in particular payment and delivery of the allowances;
+- (e) they may require their clients to make a deposit by way of advance payment for allowances;
+- (f) they may not unduly limit the number of bids that a client might submit;
+- (g) they may not prevent or restrict their clients from engaging the services of other entities eligible pursuant to regulation 16(1)(b) to (e) and (2) to bid on their behalf in the auctions;
+- (h) they must pay due regard to the interests of their clients who request them to submit bids on their behalf in the auctions;
+- (i) they must treat clients fairly and without discrimination;
+- (j) they must maintain adequate internal systems and procedures to process requests from clients to act as agent in an auction and to be able to participate effectively in an auction in particular with regard to the submission of bids on behalf of their clients, collect payment and collateral from and transfer allowances to clients for whom they act;
+- (k) they must prevent the disclosure of confidential information from that part of their business responsible for receiving, preparing and submitting bids on behalf of their clients to that part of their business responsible for preparing and submitting bids on their own account or to that part of their business responsible for dealing on their own account on the secondary market;
+- (l) they must keep records of information obtained or created in their role as intermediaries handling bids on behalf of their clients in the auctions, for five years from the date of obtaining or creating the information concerned.
+
+(3) The amount of the deposit referred to in paragraph (2)(e) must be calculated on a just and reasonable basis.
+
+(4) The method of calculating the deposit referred to in paragraph (2)(e) must be set out in the agreements entered into pursuant to paragraph (2)(d).
+
+(5) Any part of the deposit referred to in paragraph (2)(e) not used to satisfy payment for allowances must be refunded to the payee within a reasonable period after the auction as stated in the agreements entered into pursuant to paragraph (2)(d).
+
+(6) Persons referred to in paragraph (1) must apply the following conduct rules when bidding on their own account or on behalf of their clients—
+
+- (a) they must provide any information requested by any auction platform where they are admitted to bid to fulfil its functions under these Regulations;
+- (b) they must act with integrity, reasonable skill, care and diligence.
+
+(7) The FCA is responsible for authorising such persons to carry out the activities referred to in paragraph (1) and for monitoring and enforcing compliance with the conduct rules provided for in paragraphs (2) to (6) including the handling of any complaints made for non-compliance with such conduct rules.
+
+(8) The FCA may only grant an authorisation to the persons referred to in paragraph (1) where the persons fulfil all of the following conditions—
+
+- (a) they are of sufficiently good repute and sufficiently experienced to ensure proper respect of the conduct rules provided for in paragraphs (2) to (6);
+- (b) they have put in place the necessary processes and checks to manage conflicts of interest and serve the best interests of their clients;
+- (c) they comply with the requirements of the Money Laundering Regulations;
+- (d) they comply with any other measures deemed necessary having regard to the nature of the bidding services being offered and the level of sophistication of the clients in question in terms of their investor or trading profile as well as any risk-based assessment of the likelihood of money laundering, terrorist financing or other criminal activity.
+
+(9) The FCA must monitor and enforce the conditions listed in paragraph (8).
+
+(10) Clients of bidders referred to in paragraph (1) may direct any complaints that they may have with regard to compliance with the conduct rules provided for in paragraphs (2) to (6) to the FCA.
+
+(11) Persons referred to in paragraph (1) that are admitted to bid at an auction platform pursuant to regulations 16, 17 and 18 may provide bidding services to clients referred to in regulation 17(3)(a).
+
+## PART 14 — Transparency and Confidentiality
+
+### 43. Publication[^key-d50f7f4768593c8d425547eaf0c68148]
+
+(1) The auction platform must publish all legislation, guidance, instructions, forms, documents, announcements, and any other non-confidential information pertinent to the auctions on the auction platform, including—
+
+- (a) the auction calendar;
+- (b) the list of persons admitted to bid in the auctions;
+- (c) any decision, including any decision pursuant to regulation 40, to impose a maximum bid-size; and
+- (d) any other remedial measures necessary to mitigate an actual or potential discernible risk of money-laundering, terrorist financing, other criminal activity or market abuse on that auction platform,
+
+on a dedicated up-to-date auctioning website maintained by that auction platform.
+
+(2) Information which is no longer relevant must be archived, and the archives must be accessible through the same auctioning website.
+
+(3) A list of the names, addresses, telephone numbers, electronic mail addresses and websites of all persons admitted to bid on behalf of others in auctions conducted by any appointed auction platform must be published on the website maintained by the auction platform concerned.
+
+### 44. Announcement and notification of the auction results[^key-364b79a9a94201db7d3bf51ae665d833]
+
+(1) An auction platform must announce the results of each auction it conducts including at least the following information—
+
+- (a) the volume of the allowances auctioned;
+- (b) the auction clearing price in pounds sterling;
+- (c) the total volumes included in bids submitted;
+- (d) the total number of bidders and the number of successful bidders;
+- (e) in case of cancellation of, or unsold allowances at, an auction[^key-041b047f5a8803de8d946a4ce10d477f], the auctions to which the volume of allowances will be carried over;
+- (f) the total revenue earned from the auction.
+
+(2) The auction platform must announce the results of each auction as soon as is reasonably practicable.
+
+(3) The information on the auction results pursuant to paragraph (1)(a) and (b) must be announced no later than 5 minutes after the close of the bidding window.
+
+(4) The information on the auction results pursuant to paragraph (1)(c) to (f) must be announced no later than 15 minutes after the close of the bidding window.
+
+(5) At the same time as the auction platform announces the information listed in paragraph (1)(c) to (f)[^key-22a0e48d8ffcd2f3e7c30140eac61f01], the auction platform must notify each successful bidder bidding through its systems—
+
+- (a) the total number of allowances to be allocated to that bidder;
+- (b) which of its tied bids, if any, were randomly selected;
+- (c) the payment due in pounds sterling;
+- (d) the date by which the payment due must be paid in cleared funds into the auctioneer's nominated bank account.
+
+(6) An auction platform must notify the relevant clearing system and settlement system connected to it of the information notified to each successful bidder under paragraph (5).
+
+### 45. Protection of confidential information[^key-f1398116dbaf45db115bc1e28ed1064f]
+
+(1) The following information is to be treated as confidential information—
+
+- (a) the contents of a bid;
+- (b) the contents of any instructions to bid even when no bid is submitted;
+- (c) information which discloses, or from which can be deduced, the identity of the bidder in question and either of the following—
+  - (i) the number of allowances which a bidder wishes to acquire in an auction;
+  - (ii) the price which a bidder is willing to pay for those allowances;
+- (d) information about, or derived from, one or more bids or instructions to bid which either separately or collectively would be likely to—
+  - (i) give an indication as to the demand for allowances prior to any auction;
+  - (ii) give an indication as to the auction clearing price prior to any auction;
+- (e) information provided by persons in the context of the establishment or maintenance of the relationship with bidders or in the context of the monitoring of that relationship under regulations 17, 18, 19 and 37;
+- (f) business secrets provided by persons participating in a competitive procurement process to appoint an auction platform;
+- (g) information on the algorithm used for the random selection of tied bids, referred to in regulation 6(3).
+- (h)[^key-f7dc67d85450883acaf38f343425bded] the methodology referred to in regulation 7(4) and the prevailing secondary market price determined in accordance with that methodology.
+
+(2) Confidential information may not be disclosed by any person who obtained that information, whether directly or indirectly, otherwise than in accordance with paragraph (3).
+
+(3) Paragraph (2) does not prevent the disclosure of confidential information which—
+
+- (a) has already lawfully been made available to the public;
+- (b) is made public with the written consent of a bidder, person admitted to bid, or person applying for admission to bid;
+- (c) is required to be disclosed or to be publicly available by an obligation under the law of the United Kingdom or of any part of the United Kingdom;
+- (d) is made public pursuant to a court order;
+- (e) is disclosed or made public for the purposes of any criminal, administrative, or judicial investigations or proceedings carried out in the United Kingdom;
+- (f) is aggregated or redacted prior to its disclosure, so that it is unlikely that information relating to the following is discernible—
+  - (i) individual bids or instructions to bid;
+  - (ii) individual auctions;
+  - (iii) individual bidders, prospective bidders or persons applying for admission to bid;
+  - (iv) individual applications for admission to bid;
+  - (v) individual relationships with bidders;
+- (g) is referred to in paragraph (1)(f) provided that it is disclosed to persons working for the auctioneer[^key-2f0f7df78e4a64244df6f8f7d5af6f92] or other persons involved in the competitive procurement process referred to in paragraph (1)(f), who are themselves bound by an obligation of professional secrecy under their terms of employment;
+- (h) is made public after the end of a period of 30 months starting from any of the following dates, subject to any subsisting professional secrecy obligations under the law of the United Kingdom or any part of the United Kingdom—
+  - (i) the date of the opening of the bidding window of the auction in which the confidential information is first disclosed with respect to confidential information in paragraph (1)(a) to (d);
+  - (ii) the date of the termination of the relationship with a bidder with respect to confidential information in paragraph (1)(e);
+  - (iii) the date of submission of the information in the competitive procurement process with respect to confidential information in paragraph (1)(f).
+
+(4) The measures required to ensure that confidential information is not wrongfully disclosed and the consequences of any such wrongful disclosure by an auction platform, including any persons contracted to work for it, must be set out in the contract appointing it.
+
+(5) Confidential information obtained by an auction platform, including any persons contracted to work for it, may be used solely for the purpose of the performance of its obligations or the exercise of its functions with respect to the auctions.
+
+(6) Paragraphs (1) to (5) do not preclude the exchange of confidential information between an auction platform and—
+
+- (a) the FCA;
+- (aa)[^key-55660f506b6e1af58b61ecfa5c9bcac5] the auctioneer;
+- (ab) the UK ETS authority;
+- (ac) the Treasury;
+- (b) any body which is a supervisory authority for the purposes of the Money Laundering Regulations; or
+- (c) the police and competent national authorities responsible for investigating and prosecuting money laundering, terrorist financing, other criminal activity or market abuse.
+
+(7) Confidential information exchanged under paragraph (6) may not be disclosed to any person other than those referred to in paragraph (6)[^key-17b68631b1f4f9bf1dd61dcdd858e252]... contrary to paragraph (2).
+
+(8) Any person who works, or has worked for, an auction platform involved in the auctions, must be bound by the obligation of professional secrecy and must ensure that confidential information is protected pursuant to this regulation.
+
+### 46. Language regime[^key-271924ff1424be8f552e694cd1ef6552]
+
+(1) Written information provided by the appointed auction platform pursuant to regulation 43 or under the contract appointing it, must be in English.
+
+(2) All communications from applicants for admission to bid and persons admitted to bid must be in English, including—
+
+- (a) their applications for admission to bid, including any supporting documents;
+- (b) their bids, including any withdrawal or modifications thereof;
+- (c) any queries relating to sub-paragraphs (a) or (b).
+
+(3) All other oral or written communication by the appointed auction platform to applicants for admission to bid, persons admitted to bid or bidders participating in an auction, must be made in English.
+
+## PART 15 — Final Provisions
+
+### 47. Right of appeal[^key-b7c8f7bf3f279d906f605c25e1a1df40]
+
+(1) The appointed auction platform must have effective arrangements to deal with complaints from applicants for admission to bid, bidders admitted to bid, or whose admission to bid has been refused, revoked or suspended.
+
+(2) Those arrangements must include procedures for the fair, independent and impartial resolution of appeals against decisions of the auction platform.
+
+(3) A decision in relation to an appeal under paragraph (2) must be given in writing, with full reasons.
+
+### 48. Correction of errors[^key-df7d9364bad4efa34540c4845e700e65]
+
+(1) Any errors in any payment or allowance transfers made and collateral or deposit given or released under these Regulations must be notified to the clearing system or settlement system as soon as it comes to the notice of any person.
+
+(2) The clearing system or settlement system must take whatever measures are necessary to rectify any errors in any payment or allowance transfers made and collateral or deposit given or released under these Regulations which come to their attention by whatever means.
+
+(3) If any person—
+
+- (a) has benefitted from an error referred to in paragraph (1) which cannot be rectified under paragraph (2), due to the intervening rights of a third party purchaser in good faith, and
+- (b) knew of or ought to have known of the error and failed to notify it to the clearing system or settlement system,
+
+that person is liable to make good any damage caused by the error.
+
+David Rutley
+
+Maggie Throup
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## SCHEDULE — List of the elements referred to in regulation 18(5)
+
+Regulation 18(5)
+
+**1.**[^key-f3bd1aef0309c759b54453fca7ccec51] Proof of eligibility pursuant to regulation 16(1) or (2).
+
+**2.**[^key-1ceddd893af6a99058839a0adb096881] The applicant's name, address, telephone and electronic mail address.
+
+**3.**[^key-de69608ebd30fe06294f6dfed4af4bfc] The account identifier of the applicant's nominated holding account.
+
+**4.**[^key-7399d7ca40875526262f67fcc1de6451] Full details of the applicant's nominated bank account.
+
+**5.**[^key-d569a4cdb223d536bb787d9dd25b87da] The name, address, telephone and the electronic mail address of one or more representatives of the bidder as defined in regulation 5(5).
+
+**6.**[^key-fd11e3ca511a74f53b6354f604c0464b] For legal persons, proof of:
+
+- (a) their incorporation stating—
+  - (i) the legal form of the applicant;
+  - (ii) the law by which it is governed;
+  - (iii) whether or not the applicant is a publicly listed company of one or more recognised stock exchanges;
+- (b) if applicable, the registration number of the applicant in the relevant register where the applicant is registered, failing which the applicant must provide the memorandum, statutes or other document attesting to its incorporation.
+
+**7.**[^key-f59ecd3139977880a11109ed933490d9] For legal persons or unincorporated associations or other legal arrangements, such information as is required to identify the beneficial owner and understand the ownership and control structure of the legal person or arrangement in question.
+
+**8.**[^key-2ebdb265f4fb92e349de1e684b4f5d8f] For natural persons, proof of their identity, by means of an identity card, driving licence, passport or similar government issued document containing the full name, photograph, date of birth and residential address[^key-764aa295b69b0673228f6e1bb35e774e] of the applicant concerned, which may be supported by other appropriate corroborating documents wherever necessary.
+
+**9.**[^key-d13bd14861592b8af88d9f9298d5460a] For operators, their permit (within the meaning of article 4 of the Trading Scheme Order).
+
+**10.**[^key-cccc9a6272546d90910b7af70c3ebbac] For aircraft operators, the emissions monitoring plan issued under article 29 of the Trading Scheme Order.
+
+**10A.**[^key-c454521cf9009c69db5167fc3872df0e] For maritime operators, the emissions monitoring plan issued under paragraph 10 of Schedule 2A to the Trading Scheme Order.
+
+**11.**[^key-55b457b1a993255d2ae8781ccbfc9793] Such information as is required to carry out the customer due diligence measures referred to in regulation 17(2)(e).
+
+**12.**[^key-a899bfcd3d06dc4d0e711048bcd7965b] The applicant's latest audited annual report and accounts including the profit and loss account and balance sheet, if any; if none, a United Kingdom VAT return, if any[^key-5ded34fe3b519e3894a8653ac4652deb], or such further information as required to be satisfied as to the applicant's solvency and creditworthiness.
+
+**13.**[^key-da5fae5d297760e559916a730bd1438d] The United Kingdom VAT registration[^key-8acea1e51d29bdf7a6fb1c8ebcf25e22] number, if any[^key-99287f0621cb2ecdecb6be1024ba5c7c]....
+
+**14.**[^key-5808a579eda7c86bf02b909061b8700a] A statement that, to the best of the applicant's knowledge, the applicant satisfies the requirements of regulation 17(2)(f).
+
+**15.**[^key-9451a9ab8fef4524fda9341e3aae7397] Proof of compliance with the requirements of regulation 17(2)(g).
+
+**16.**[^key-d909f9afaf233ab385237928f170cce5] Proof that the applicant satisfies the requirements of regulation 17(3).
+
+**17.**[^key-f2a12cbb405a69437c958d03f1875aaa] A statement that the applicant has the necessary legal capacity and authority to bid on its own account or on behalf of others in an auction.
+
+**18.**[^key-e50e407d44f9181b5dad78d68fc2e9e2] A statement that to the best of the applicant's knowledge there is no legal, regulatory, contractual or any other impediment preventing it from performing its obligations under these Regulations.
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision under the Finance Act 2020 for auctions of allowances to emit 1 tonne of carbon dioxide equivalent created under the Greenhouse Gas Emissions Trading Scheme Order 2020.
+
+Part 1 contains the interpretation provisions. Part 2 provides for the products to be auctioned, and sets out how bids are to be submitted and withdrawn, and how the auction clearing price is to be determined.
+
+Part 3 makes provision for the auction calendar and when that calendar may be adjusted. It sets out what happens to the volume of allowances at cancelled auctions, what volume of allowances is to be auctioned annual, and provides for a cost containment mechanism, enabling the Treasury to the distribution or volume of allowances to be auctioned in any one year if the carbon price exceeds specified limits.
+
+Part 4 provides for access to auctions. Parts 5, 6 and 7 provide for the appointment and functions of the auctioneer and the auction platform, and their appointment requirements.
+
+Part 8 provides for the reporting of transactions. Part 9 provides for the payment and transfer of the auction proceeds. Part 10 provides for the delivery of the auctioned allowances. Part 11 provides for the management of collateral.
+
+Part 12 provides for fees and costs. Part 13 provides for monitoring of auctions, remedial measures and sanctions. Part 14 provides for the publication of auction results and protection of confidential information and Part 15 makes provision for a right of appeal, and the correction of errors.
+
+A regulatory impact assessment of the effect that UK Emissions Trading Scheme and these Regulations will have on the costs of business, the voluntary sector and the public sector is available from the Industrial Energy Directorate, Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London SW1H OET and is available alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^c24493861]: Marginal citation: [2020 c. 14](https://www.legislation.gov.uk/ukpga/2020/14).
+
+[^key-0cd24eff0db6fa3befe27dce07b4dc37]: Commencement: Reg. 1 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-2552b5583d422a12de947f08059ea231]: Commencement: Reg. 2 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^c24493871]: Marginal citation: [S.I. 2020/1265](https://www.legislation.gov.uk/uksi/2020/1265), amended by [S.I. 2020/1557](https://www.legislation.gov.uk/uksi/2020/1557).
+
+[^key-7011375f2d00dd9aa439e8b3db141acd]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/484/regulation/2/1) substituted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2021/513/regulation/4/2/a)
+
+[^key-851297a0389e34bbbad45dd92397e74f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/484/regulation/2) substituted (8.4.2026) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2026 (S.I. 2026/214)](https://www.legislation.gov.uk/uksi/2026/214), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/214/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/214/regulation/2/2)
+
+[^c24493881]: Marginal citation: [S.I. 1999/2979](https://www.legislation.gov.uk/uksi/1999/2979), amended by [S.I. 2019/341](https://www.legislation.gov.uk/uksi/2019/341). The definition of “collateral security” has been amended by [S.I. 2010/2993](https://www.legislation.gov.uk/uksi/2010/2993).
+
+[^c24493891]: Marginal citation: [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24).
+
+[^c24493901]: Marginal citation: [2018 c. 13](https://www.legislation.gov.uk/ukpga/2018/13).
+
+[^c24493911]: Marginal citation: [S.I. 2019/573](https://www.legislation.gov.uk/uksi/2019/573).
+
+[^c24493921]: Marginal citation: The FCA was established under section 1[A of the Financial Services and Markets Act 2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8), as amended by the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^c24493931]: Marginal citation: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
+
+[^c24493941]: Marginal citation: [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692).
+
+[^key-bf181171c34e7a3847606dc4219df0f1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/484/regulation/2/1) substituted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2021/513/regulation/4/2/b/i)
+
+[^key-8661338295d1a00bcd00b6b484e27056]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/484/regulation/2/1) inserted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/513/regulation/4/2/b/ii)
+
+[^c24493951]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c24493961]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Section 290 was amended by paragraph 6 of Schedule 8 to the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21); [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504).
+
+[^key-a3e3a4c1b3c9a8712a3b86fc5bee2390]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/484/regulation/2/1) omitted (19.5.2021) by virtue of [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/561)](https://www.legislation.gov.uk/uksi/2021/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/561/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/561/regulation/2/2)
+
+[^key-fc241ff915e7731282a9ed45e8d41981]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/2/2) omitted (19.5.2021) by virtue of [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2021/513/regulation/4/3)
+
+[^c24493971]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-ab19761da8b5e221d64218aba7e16441]: Commencement: Reg. 3 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^c24493981]: Marginal citation: [2008 c. 27](https://www.legislation.gov.uk/ukpga/2008/27).
+
+[^key-9dd7b1efd7bb34e84c1257610fc9549b]: Commencement: Reg. 4 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-a6bd4723f0ce216f0c5b5552e9bc18bd]: Commencement: Reg. 5 in force at 22.4.2021, see reg. 1(2)
+
+[^key-db7ef0908c11d07663801c79e3a453ff]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/2021/484/regulation/5/5) omitted (19.5.2021) by virtue of [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/561)](https://www.legislation.gov.uk/uksi/2021/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/561/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/561/regulation/2/3/a)
+
+[^key-b8d72fe7cc12af110b82bf119451c20e]: Textual amendment: [Reg. 5(9)](https://www.legislation.gov.uk/uksi/2021/484/regulation/5/9) omitted (19.5.2021) by virtue of [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/561)](https://www.legislation.gov.uk/uksi/2021/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/561/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/561/regulation/2/3/b)
+
+[^key-e8b380cb09507d8f5b1d612abe942f95]: Commencement: Reg. 6 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-abc7d20ddd54a8873a0627080ce20ac3]: Textual amendment: Words in reg. 6(9) substituted (8.4.2026) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2026 (S.I. 2026/214)](https://www.legislation.gov.uk/uksi/2026/214), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/214/regulation/1/2), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2026/214/regulation/2/3/a/i)
+
+[^key-e04ef5254bf4ae66a73e8d4c9774a40b]: Textual amendment: Sum in reg. 6(9) substituted (8.4.2026) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2026 (S.I. 2026/214)](https://www.legislation.gov.uk/uksi/2026/214), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/214/regulation/1/2), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/214/regulation/2/3/a/ii)
+
+[^key-28b1ea6ccc6577c5143264d3210031c9]: Textual amendment: Words in reg. 6(9) omitted (8.4.2026) by virtue of [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2026 (S.I. 2026/214)](https://www.legislation.gov.uk/uksi/2026/214), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/214/regulation/1/2), [2(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/214/regulation/2/3/a/iii)
+
+[^key-99e483e5253f3c9688b3fcb8959419a6]: Textual amendment: Reg. 6(9A)-(9E) inserted (8.4.2026) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2026 (S.I. 2026/214)](https://www.legislation.gov.uk/uksi/2026/214), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/214/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/214/regulation/2/3/b)
+
+[^key-5af9dfeda92db414d44051ee5a1ca73d]: Textual amendment: Words in reg. 6(10) substituted (8.4.2026) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2026 (S.I. 2026/214)](https://www.legislation.gov.uk/uksi/2026/214), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/214/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2026/214/regulation/2/3/c)
+
+[^key-aca7d707513aac2e2cc28e881d0abfd5]: Textual amendment: Reg. 6(11) inserted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2021/513/regulation/6)
+
+[^key-b0df292dd77c01e2b434bfbee05efff0]: Textual amendment: Reg. 6(12)(13) inserted (8.4.2026) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2026 (S.I. 2026/214)](https://www.legislation.gov.uk/uksi/2026/214), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/214/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2026/214/regulation/2/3/d)
+
+[^key-f96620cb9362f1b5f20733629bdc1acc]: Commencement: Reg. 7 in force at 22.4.2021, see reg. 1(2)
+
+[^key-835887d97dcb7ff840c84b0c7a18974b]: Textual amendment: Reg. 7(1)(b)(c) substituted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/7/2)
+
+[^key-723df51cdd2bf410b627569b884385c3]: Textual amendment: Reg. 7(1A) inserted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2021/513/regulation/7/3)
+
+[^key-2ab037dc412c08af63d5dbab702a9392]: Textual amendment: Words in reg. 7(2) inserted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [7(4)(a)](https://www.legislation.gov.uk/uksi/2021/513/regulation/7/4/a)
+
+[^key-dccc1cbda814fd403f2fb647656936ce]: Textual amendment: Words in reg. 7(2) inserted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [7(4)(b)](https://www.legislation.gov.uk/uksi/2021/513/regulation/7/4/b)
+
+[^key-1063276fd42bbf0ed35fe0131cc686e5]: Textual amendment: Reg. 7(3) omitted (19.5.2021) by virtue of [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2021/513/regulation/7/5)
+
+[^key-ea0046ad537213218546ef31db263d9d]: Textual amendment: Words in reg. 7(4) substituted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/3/2)
+
+[^key-d24567b1f1e7fe8e08bf4e49dc38cf91]: Textual amendment: Words in reg. 7(4) substituted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [7(6)](https://www.legislation.gov.uk/uksi/2021/513/regulation/7/6)
+
+[^key-9aee641184db3083404dbcabf91d7a8a]: Commencement: Reg. 8 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-52834f849c06b8aaf27226f72a00e6e5]: Commencement: Reg. 9 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-2d78a376554449db585d87f787882e0c]: Textual amendment: Words in reg. 9(1) substituted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2021/917/regulation/4/2/a/i)
+
+[^key-4486a7c5ecbdd20fe6934fffdc7bb800]: Textual amendment: Words in reg. 9(1) substituted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/917/regulation/4/2/a/ii)
+
+[^key-cafc6cf7aba1b14a53c39d53d3854ffd]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2021/484/regulation/9/1) inserted (4.10.2023) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2023 (S.I. 2023/994)](https://www.legislation.gov.uk/uksi/2023/994), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/994/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/994/regulation/3/2/a)
+
+[^key-39895047588182020343d596ea1b7d6d]: Textual amendment: [Reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2021/484/regulation/9/1/a) substituted (4.10.2023) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2023 (S.I. 2023/994)](https://www.legislation.gov.uk/uksi/2023/994), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/994/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/994/regulation/3/2/b)
+
+[^key-edc8e4bcefcbdf9c25bac50f8ca845ae]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2021/484/regulation/9/1/b) inserted (4.10.2023) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2023 (S.I. 2023/994)](https://www.legislation.gov.uk/uksi/2023/994), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/994/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2023/994/regulation/3/2/c)
+
+[^key-ab39a7b92ac678109cc6ac3006c5e1dc]: Textual amendment: [Reg. 9(1)(ba)](https://www.legislation.gov.uk/uksi/2021/484/regulation/9/1/ba) inserted (4.10.2023) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2023 (S.I. 2023/994)](https://www.legislation.gov.uk/uksi/2023/994), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/994/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2023/994/regulation/3/2/d)
+
+[^key-f9b07390bd03a266e0bf2189b2500508]: Textual amendment: [Reg. 9(1)(c)-(e)](https://www.legislation.gov.uk/uksi/2021/484/regulation/9/1/c) substituted (4.10.2023) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2023 (S.I. 2023/994)](https://www.legislation.gov.uk/uksi/2023/994), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/994/regulation/1/2), [3(2)(e)](https://www.legislation.gov.uk/uksi/2023/994/regulation/3/2/e)
+
+[^key-089ec58b2533dea4ba51801732c27acf]: Textual amendment: Reg. 9(1)(f) inserted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [4(2)(d)](https://www.legislation.gov.uk/uksi/2021/917/regulation/4/2/d)
+
+[^key-b47595f05911e066a2682c3e5dd37718]: Textual amendment: [Reg. 9(1)(g)](https://www.legislation.gov.uk/uksi/2021/484/regulation/9/1/g) inserted (4.10.2023) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2023 (S.I. 2023/994)](https://www.legislation.gov.uk/uksi/2023/994), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/994/regulation/1/2), [3(2)(f)](https://www.legislation.gov.uk/uksi/2023/994/regulation/3/2/f)
+
+[^key-2b88dbb726de0a8a10d3b055349cc9f6]: Textual amendment: Reg. 9(4)-(6) omitted (25.8.2021) by virtue of [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2021/917/regulation/4/3)
+
+[^key-42e30d3ca2c08e09fe545ff4e9760c75]: Textual amendment: Words in reg. 9(8) omitted (19.5.2021) by virtue of [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/561)](https://www.legislation.gov.uk/uksi/2021/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/561/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2021/561/regulation/2/4)
+
+[^key-110bee91ffd40de4399b3a20f8517c74]: Textual amendment: Words in [reg. 9(9)](https://www.legislation.gov.uk/uksi/2021/484/regulation/9/9) Table omitted (4.10.2023) by virtue of [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2023 (S.I. 2023/994)](https://www.legislation.gov.uk/uksi/2023/994), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/994/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2023/994/regulation/3/3)
+
+[^key-488a3239bed0c56364befd91d71e20f3]: Textual amendment: [Reg. 9(10)](https://www.legislation.gov.uk/uksi/2021/484/regulation/9/10) substituted (4.10.2023) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2023 (S.I. 2023/994)](https://www.legislation.gov.uk/uksi/2023/994), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/994/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2023/994/regulation/3/4)
+
+[^key-09891762807a9b6f9ad64c4a3b69ee24]: Textual amendment: Word in [reg. 9(10)](https://www.legislation.gov.uk/uksi/2021/484/regulation/9) table substituted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 3 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/392/schedule/3/paragraph/2/2/a)
+
+[^key-8be22a4e592ed9876bac401c140f4835]: Textual amendment: Word in [reg. 9(10)](https://www.legislation.gov.uk/uksi/2021/484/regulation/9) table substituted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 3 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2026/392/schedule/3/paragraph/2/2/b)
+
+[^key-df404bb45eb212e9eb3e2fbfb9af71b3]: Textual amendment: Word in [reg. 9(10)](https://www.legislation.gov.uk/uksi/2021/484/regulation/9) table substituted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 3 para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/392/schedule/3/paragraph/2/2/c)
+
+[^key-72fc7b1ee7404f35d919b9e5c35ba4e2]: Textual amendment: Word in [reg. 9(10)](https://www.legislation.gov.uk/uksi/2021/484/regulation/9) table substituted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 3 para. 2(2)(d)](https://www.legislation.gov.uk/uksi/2026/392/schedule/3/paragraph/2/2/d)
+
+[^key-1fd6e350a2953e4739fb979b8c7c7f47]: Textual amendment: Word in [reg. 9(10)](https://www.legislation.gov.uk/uksi/2021/484/regulation/9) table substituted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 3 para. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/392/schedule/3/paragraph/2/2/e)
+
+[^key-2873e1716000d7a6f55978bced78a4ec]: Commencement: Reg. 10 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-f309891b5bcb4dc6d78d81432ec540b0]: Textual amendment: Reg. 10(1)(aa) inserted (19.5.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/561)](https://www.legislation.gov.uk/uksi/2021/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/561/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2021/561/regulation/2/5)
+
+[^key-c48034f4708d8e1e87c2fe618b71edd6]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/2021/484/regulation/10/1/b) substituted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/5/2)
+
+[^key-ca0e51a22562e71ad2e625fdd5742d1a]: Textual amendment: Words in [reg. 10(1)(d)](https://www.legislation.gov.uk/uksi/2021/484/regulation/10/1/d) inserted (19.12.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(1)(g)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/1/g), [40(2)](https://www.legislation.gov.uk/uksi/2024/1366/article/40/2)
+
+[^key-9a12db7fc86d667657c129acd399ca26]: Textual amendment: [Reg. 10(1)(h)](https://www.legislation.gov.uk/uksi/2021/484/regulation/10/1/h) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/2026/392/schedule/3/paragraph/3/2)
+
+[^key-800fd30a74a04d34623f75c61dd6a565]: Commencement: Reg. 11 in force at 22.4.2021, see reg. 1(2)
+
+[^key-b6452ef6c7e3bf30375e5a75a8e9c5c6]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2021/484/regulation/11/1) substituted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/6/2)
+
+[^key-3f8b49f47b9fbe59f0548df9e7119962]: Commencement: Reg. 12 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-233aee27e3384b1c031c7a51be7d8ede]: Textual amendment: Reg. 12 substituted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2021/513/regulation/9)
+
+[^key-bba3e45496f50120916c6c1034a19577]: Textual amendment: [Reg. 12(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/484/regulation/12/1/b/iv) omitted (19.12.2024) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(1)(g)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/1/g), [41(2)(a)](https://www.legislation.gov.uk/uksi/2024/1366/article/41/2/a)
+
+[^key-f7f87d4a726e7c9cb7ba89318578cbbd]: Textual amendment: Reg. 12(1)(b)(iv)(v) inserted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/7/2)
+
+[^key-087624eed0dcc742e5688c2ed2a0d953]: Textual amendment: Words in [reg. 12(1)(b)(v)](https://www.legislation.gov.uk/uksi/2021/484/regulation/12/1/b/v) substituted (19.12.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(1)(g)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/1/g), [41(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/41/2/b)
+
+[^key-381f0658727c726a96550d66bf74b6ec]: Textual amendment: [Reg. 12(1A)-(1D)](https://www.legislation.gov.uk/uksi/2021/484/regulation/12/1A) omitted (19.12.2024) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(1)(g)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/1/g), [41(3)](https://www.legislation.gov.uk/uksi/2024/1366/article/41/3)
+
+[^key-9f4a14159b8cc228e25b7d81e4a34457]: Textual amendment: Words in reg. 12(5) substituted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2021/917/regulation/7/4)
+
+[^key-5bb50dd78cbcb6b5fb9e87b96802728d]: Commencement: Reg. 13 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-bd9d33444c90a23cd3ba9a2e008514b1]: Commencement: Reg. 14 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-7b68c77f181d20d041fa3b35bc035e57]: Commencement: Reg. 15 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-57152d761b9995356bf7113e198d66bc]: Commencement: Reg. 16 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-7406cacf092038a77d3df001efb22b2a]: Textual amendment: [Reg. 16(1)(a)-(ab)](https://www.legislation.gov.uk/uksi/2021/484/regulation/16/1/a) substituted for [reg. 16(1)(a)](https://www.legislation.gov.uk/uksi/2021/484/regulation/16/1/a) (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/uksi/2026/392/schedule/3/paragraph/4/2)
+
+[^c24494001]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Part 4A was substituted for the original Part 4 by s. 11(2) of the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^c24494011]: Marginal citation: OJ L173, 12.6.2014, p.349.
+
+[^key-d36f575b07eb5a3be4ba0d74b2360f44]: Textual amendment: [Reg. 16(1)(ba)](https://www.legislation.gov.uk/uksi/2021/484/regulation/16/1/ba) inserted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [10(2)(a)](https://www.legislation.gov.uk/uksi/2021/513/regulation/10/2/a)
+
+[^key-726e5d26c124b916353475bf8c520fd3]: Textual amendment: Word in [reg. 16(1)(c)](https://www.legislation.gov.uk/uksi/2021/484/regulation/16/1/c) inserted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [10(2)(b)(i)](https://www.legislation.gov.uk/uksi/2021/513/regulation/10/2/b/i)
+
+[^key-fbe701fb548de0b68399814a33306395]: Textual amendment: Word in [reg. 16(1)(c)(i)](https://www.legislation.gov.uk/uksi/2021/484/regulation/16/1/c/i) omitted (19.5.2021) by virtue of [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [10(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/513/regulation/10/2/b/ii)
+
+[^key-6da6fce0a087b6517a00d3099440c66f]: Textual amendment: [Reg. 16(1)(ca)](https://www.legislation.gov.uk/uksi/2021/484/regulation/16/1/ca) inserted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [10(2)(c)](https://www.legislation.gov.uk/uksi/2021/513/regulation/10/2/c)
+
+[^c24494021]: Marginal citation: [S.I.2001/544](https://www.legislation.gov.uk/uksi/2001/544). Schedule 3 was inserted by [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).
+
+[^key-c6625d9c0dbe587bc06a6cc974650282]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/16/2) substituted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2021/513/regulation/10/3)
+
+[^key-cf20dde762a9c0954465190b1bcb8125]: Commencement: Reg. 17 in force at 22.4.2021, see reg. 1(2)
+
+[^key-63079d5bd438410c9a9183d88190a677]: Textual amendment: Reg. 17(2)(a) omitted (19.5.2021) by virtue of [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2021/513/regulation/11/2/a)
+
+[^key-b9d7cf12e5619bf827f362ad4c42b353]: Textual amendment: Words in reg. 17(2)(g) substituted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2021/513/regulation/11/2/b)
+
+[^key-3bf5b09f3455f454035d3d72ea997c5e]: Textual amendment: Words in reg. 17(3) substituted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2021/513/regulation/11/3)
+
+[^key-08d03074a03ba2b68c217f87b27e871b]: Commencement: Reg. 18 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-48135a238a1503c49ad5266cb2af9242]: Commencement: Reg. 19 in force at 22.4.2021, see reg. 1(2)
+
+[^c24494031]: Marginal citation: The National Crime Agency was established under the [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
+
+[^key-9497032c8cc87cc941e95b9b5786536c]: Textual amendment: Words in [reg. 19(4)(c)](https://www.legislation.gov.uk/uksi/2021/484/regulation/19/4/c) substituted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2021/513/regulation/12)
+
+[^key-fe18b234a6df31ef479ed2b8af722b17]: Commencement: Reg. 20 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-a00d370a0131271b61c1103cb29ab030]: Commencement: Reg. 21 in force at 22.4.2021, see reg. 1(2)
+
+[^key-4e4fac1e85ed7bbd783b2184ea5559a3]: Textual amendment: Word in reg. 21(5) substituted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/8/2)
+
+[^key-d2d637f07f43d8a8388b88ee17d9c785]: Commencement: Reg. 22 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^c24494041]: Marginal citation: [S.I. 2012/2661](https://www.legislation.gov.uk/uksi/2012/2661).
+
+[^c24494051]: Marginal citation: [S.I. 2011/2699](https://www.legislation.gov.uk/uksi/2011/2699).
+
+[^key-7f45c31b5fc1e7ec9649b4a3459233b8]: Commencement: Reg. 23 in force at 22.4.2021, see reg. 1(2)
+
+[^key-8ad29ffd219a2fdacf341eff4ec6fb8a]: Textual amendment: Words in reg. 23(3) substituted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/9/2)
+
+[^key-a475a511475ea7421f6c18be9ae14d9d]: Commencement: Reg. 24 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-95c2b082ca994be2f8019358deafe6f5]: Commencement: Reg. 25 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^c24494061]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2021/484/section/I) 2001/995, amended by [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064).
+
+[^key-6b47c8d452fc32dfd521aaa025c43d07]: Textual amendment: Words in [reg. 25(8)](https://www.legislation.gov.uk/uksi/2021/484/regulation/25/8) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/uksi/2026/392/schedule/3/paragraph/5/2)
+
+[^c24494071]: Marginal citation: OJ L124, 20/5/2003, p.36.
+
+[^key-0cc9737bcd660a20906e3d8472f127a9]: Commencement: Reg. 26 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-196a1a242985af679b29d5c8c0e6e87e]: Commencement: Reg. 27 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-21a346c1f91dd0dca0f06b56c7dab1cd]: Commencement: Reg. 28 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-ebd3918995450dd5db416c0725c3d641]: Commencement: Reg. 29 in force at 22.4.2021, see reg. 1(2)
+
+[^key-12c6e3e682d1f68c9e7c45c6eb9ce2b0]: Textual amendment: Words in reg. 29 substituted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2021/513/regulation/13)
+
+[^key-aaa2c7319e38b26008f33948571ba7e3]: Textual amendment: Words in reg. 29 omitted (25.8.2021) by virtue of [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/10/2)
+
+[^key-f83df5d6bfd7a80b668ba697d2d81ca1]: Commencement: Reg. 30 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-b260e3d5ac4359c8dacdec2a97c1a2f8]: Commencement: Reg. 31 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-eb4ead0cbde06891b4a561ab47f9d399]: Commencement: Reg. 32 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-04fc75afe43b910d525cb6456ac1abab]: Commencement: Reg. 33 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-ab9f1162df7aa8d423dff715250e2a46]: Commencement: Reg. 34 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-facf9a115b94fd14237f1647352b8da4]: Commencement: Reg. 35 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-021241a1ad0fb20c7770adc646f29d02]: Commencement: Reg. 36 in force at 22.4.2021, see reg. 1(2)
+
+[^key-f3899450983c7b4fec09276db4149997]: Textual amendment: Words in reg. 36(3) inserted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/11/2)
+
+[^key-8c79cd07d545f24f491870e3167a7421]: Textual amendment: Word in reg. 36(4) substituted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2021/917/regulation/11/3)
+
+[^key-e004d480d0cad31e8b8f3b2e11b7de8a]: Textual amendment: Word in reg. 36(5) substituted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [11(4)(a)](https://www.legislation.gov.uk/uksi/2021/917/regulation/11/4/a)
+
+[^key-d897ab9e90bd1e0862b5ced8ec32c5c6]: Textual amendment: Words in reg. 36(5) substituted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [11(4)(b)](https://www.legislation.gov.uk/uksi/2021/917/regulation/11/4/b)
+
+[^key-9d55b074a8f1b0dfbdde4f6442e4c708]: Textual amendment: Words in reg. 36(5) substituted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [11(4)(c)](https://www.legislation.gov.uk/uksi/2021/917/regulation/11/4/c)
+
+[^key-1627dc39ae52b69c01b9ec7152e02348]: Commencement: Reg. 37 in force at 22.4.2021, see reg. 1(2)
+
+[^key-a62c43a6fabd5360491df89ab989cf03]: Textual amendment: [Reg. 37(4)(b)](https://www.legislation.gov.uk/uksi/2021/484/regulation/37/4/b)[(ia)](https://www.legislation.gov.uk/uksi/2021/484/regulation/37/4/ia) inserted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2021/917/regulation/12/2/a)
+
+[^key-ada5abd906e1df0a11a373693ea76713]: Textual amendment: Words in [reg. 37(4)(c)](https://www.legislation.gov.uk/uksi/2021/484/regulation/37/4/c) omitted (25.8.2021) by virtue of [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2021/917/regulation/12/2/b)
+
+[^key-220e17cd42e171c008799ac1da799263]: Commencement: Reg. 38 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-5e053d38a3bac9266873b88085c91b3e]: Commencement: Reg. 39 in force at 22.4.2021, see reg. 1(2)
+
+[^key-216313ef03a1d86b414af0e7cca0171e]: Textual amendment: Words in [reg. 39(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/39/2) omitted (25.8.2021) by virtue of [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/13/2)
+
+[^key-d25b09a88e5d18cf83020e91b8a1cb71]: Textual amendment: [Reg. 39(3)](https://www.legislation.gov.uk/uksi/2021/484/regulation/39/3) inserted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2021/917/regulation/13/3)
+
+[^key-90a71739f8446f56ae4b969fafc12ac1]: Commencement: Reg. 40 in force at 22.4.2021, see reg. 1(2)
+
+[^key-e3514c1603383c279d45176ebd641a71]: Textual amendment: Words in reg. 40(1) inserted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/14/2)
+
+[^key-a86d90cd8649b3e6332c799d8a45a814]: Textual amendment: Words in reg. 40(3) substituted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2021/917/regulation/14/3)
+
+[^key-16bdecb9e7994238214c3389a9f6d0f5]: Commencement: Reg. 41 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-b0724a65d47e5ab7fbb4417d67c164ad]: Commencement: Reg. 42 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^c24494081]: Marginal citation: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29). Sections 327, 328 and 329 have been amended by ss. 102 and 103 of the [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15). Section 338(3) has been amended by s. 106(6) of that Act, and [S.I. 2007/3398](https://www.legislation.gov.uk/uksi/2007/3398).
+
+[^c24494091]: Marginal citation: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11). Section 21A was inserted by paragraph 5 of Schedule 2 to the Anti-[Terrorism, Crime and Security Act 2001 (c. 24)](https://www.legislation.gov.uk/ukpga/2001/24), and amended by paragraph 128 of Schedule 4 to the Serious Organised Crime and Police Act 2005, paragraph 72 of Schedule 8 to the [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), and [S.I. 2007/3398](https://www.legislation.gov.uk/uksi/2007/3398).
+
+[^key-d50f7f4768593c8d425547eaf0c68148]: Commencement: Reg. 43 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-364b79a9a94201db7d3bf51ae665d833]: Commencement: Reg. 44 in force at 22.4.2021, see reg. 1(2)
+
+[^key-041b047f5a8803de8d946a4ce10d477f]: Textual amendment: Words in reg. 44(1)(e) substituted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/15/2)
+
+[^key-22a0e48d8ffcd2f3e7c30140eac61f01]: Textual amendment: Words in reg. 44(5) substituted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2021/513/regulation/14)
+
+[^key-f1398116dbaf45db115bc1e28ed1064f]: Commencement: Reg. 45 in force at 22.4.2021, see reg. 1(2)
+
+[^key-f7dc67d85450883acaf38f343425bded]: Textual amendment: [Reg. 45(1)(h)](https://www.legislation.gov.uk/uksi/2021/484/regulation/45/1/h) inserted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/16/2)
+
+[^key-2f0f7df78e4a64244df6f8f7d5af6f92]: Textual amendment: Word in [reg. 45(3)(g)](https://www.legislation.gov.uk/uksi/2021/484/regulation/45/3/g) substituted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2021/917/regulation/16/3)
+
+[^key-55660f506b6e1af58b61ecfa5c9bcac5]: Textual amendment: [Reg. 45(6)(aa)-(ac)](https://www.legislation.gov.uk/uksi/2021/484/regulation/45/6/aa) inserted (25.8.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2021/917/regulation/16/4)
+
+[^key-17b68631b1f4f9bf1dd61dcdd858e252]: Textual amendment: Words in [reg. 45(7)](https://www.legislation.gov.uk/uksi/2021/484/regulation/45/7) omitted (25.8.2021) by virtue of [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) (No. 2) Regulations 2021 (S.I. 2021/917)](https://www.legislation.gov.uk/uksi/2021/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/917/regulation/1/2), [16(5)](https://www.legislation.gov.uk/uksi/2021/917/regulation/16/5)
+
+[^key-271924ff1424be8f552e694cd1ef6552]: Commencement: Reg. 46 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-b7c8f7bf3f279d906f605c25e1a1df40]: Commencement: Reg. 47 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-df7d9364bad4efa34540c4845e700e65]: Commencement: Reg. 48 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-f3bd1aef0309c759b54453fca7ccec51]: Commencement: Sch. para. 1 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-1ceddd893af6a99058839a0adb096881]: Commencement: Sch. para. 2 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-de69608ebd30fe06294f6dfed4af4bfc]: Commencement: Sch. para. 3 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-7399d7ca40875526262f67fcc1de6451]: Commencement: Sch. para. 4 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-d569a4cdb223d536bb787d9dd25b87da]: Commencement: Sch. para. 5 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-fd11e3ca511a74f53b6354f604c0464b]: Commencement: Sch. para. 6 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-f59ecd3139977880a11109ed933490d9]: Commencement: Sch. para. 7 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-2ebdb265f4fb92e349de1e684b4f5d8f]: Commencement: Sch. para. 8 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-764aa295b69b0673228f6e1bb35e774e]: Textual amendment: Words in [Sch. para. 8](https://www.legislation.gov.uk/uksi/2021/484/schedule/paragraph/8) substituted (19.5.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/561)](https://www.legislation.gov.uk/uksi/2021/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/561/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2021/561/regulation/2/6/a)
+
+[^key-d13bd14861592b8af88d9f9298d5460a]: Commencement: Sch. para. 9 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-cccc9a6272546d90910b7af70c3ebbac]: Commencement: Sch. para. 10 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-c454521cf9009c69db5167fc3872df0e]: Textual amendment: [Sch. para. 10A](https://www.legislation.gov.uk/uksi/2021/484/schedule/paragraph/10A) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2026/392/schedule/3/paragraph/6/2)
+
+[^key-55b457b1a993255d2ae8781ccbfc9793]: Commencement: Sch. para. 11 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-a899bfcd3d06dc4d0e711048bcd7965b]: Commencement: Sch. para. 12 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-5ded34fe3b519e3894a8653ac4652deb]: Textual amendment: Words in [Sch. para. 12](https://www.legislation.gov.uk/uksi/2021/484/schedule/paragraph/12) substituted (19.5.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/561)](https://www.legislation.gov.uk/uksi/2021/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/561/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2021/561/regulation/2/6/b)
+
+[^key-da5fae5d297760e559916a730bd1438d]: Commencement: Sch. para. 13 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-8acea1e51d29bdf7a6fb1c8ebcf25e22]: Textual amendment: Words in [Sch. para. 13](https://www.legislation.gov.uk/uksi/2021/484/schedule/paragraph/13) substituted (19.5.2021) by [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/561)](https://www.legislation.gov.uk/uksi/2021/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/561/regulation/1/2), [2(6)(c)(i)](https://www.legislation.gov.uk/uksi/2021/561/regulation/2/6/c/i)
+
+[^key-99287f0621cb2ecdecb6be1024ba5c7c]: Textual amendment: Words in [Sch. para. 13](https://www.legislation.gov.uk/uksi/2021/484/schedule/paragraph/13) omitted (19.5.2021) by virtue of [The Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/561)](https://www.legislation.gov.uk/uksi/2021/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/561/regulation/1/2), [2(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/561/regulation/2/6/c/ii)
+
+[^key-5808a579eda7c86bf02b909061b8700a]: Commencement: Sch. para. 14 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-9451a9ab8fef4524fda9341e3aae7397]: Commencement: Sch. para. 15 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-d909f9afaf233ab385237928f170cce5]: Commencement: Sch. para. 16 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-f2a12cbb405a69437c958d03f1875aaa]: Commencement: Sch. para. 17 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)
+
+[^key-e50e407d44f9181b5dad78d68fc2e9e2]: Commencement: Sch. para. 18 in force at 22.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/484/regulation/1/2)

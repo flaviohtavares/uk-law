@@ -1,0 +1,611 @@
+---
+title: The Local Digital Television Programme Services Order 2012
+id: uksi/2012/292
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-02-13'
+text_date: '2024-12-20'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/292
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/292/pdfs/uksiem_20120292_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/292/pdfs/uksi_20120292_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/292/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Digital Television Programme Services Order 2012
+
+> Text as at 2024-12-20.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2012 No. 292
+
+Broadcasting
+
+The Local Digital Television Programme Services Order 2012
+
+Made
+
+13th February 2012
+
+Coming into force in accordance with article 1
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 244 and 402 of the Communications Act 2003[^f00001].
+
+In accordance with subsection (2) of section 244 of that Act this Order is confined to services of a description falling within that subsection.
+
+The Secretary of State is satisfied that the making of this Order in relation to services of the description set out in this Order will make possible, facilitate or encourage the provision of services so falling.
+
+The Secretary of State considers that a local digital television programme service as described in Article 3 of this Order is one in relation to which all of the conditions of section 244(4) of that Act are satisfied.
+
+In accordance with section 244(9) of that Act a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation and commencement[^key-54ae45d6bbc13a59b7775d5ccbb6f166]
+
+This Order may be cited as the Local Digital Television Programme Services Order 2012 and comes into force on the day after the day on which it is made.
+
+## 2. Interpretation[^key-9205de8c1713195ae91511aad33adf60]
+
+In this Order—
+
+- “the 1996 Act” means the Broadcasting Act 1996[^f00002];
+- “the 2003 Act” means the Communications Act 2003;
+- “digital programme service” has the meaning given in section 1(4)[^f00003] of the 1996 Act;
+- “local digital television programme service” has the meaning given by article 3.
+
+## 3. Description of a local digital television programme service[^key-79429b012eb84fdf31d7370ebf6fefa5]
+
+(1) A local digital television programme service is a digital programme service of the following description —
+
+- (a) it is provided in digital form with a view to its being included in a television multiplex service; and
+- (b) it falls within paragraphs (2) and (5).
+
+(2) A service falls within this paragraph if it is a service in relation to which all of the following conditions are satisfied—
+
+- (a) it is intended for reception only within a particular area or locality;
+- (b) its provision meets, or would meet, the needs of the area or locality where it is received;
+- (c) its provision is or would be likely to broaden the range of television programmes available for viewing by persons living or working in that area or locality; and
+- (d) its provision is or would be likely to increase the number and range of the programmes about that area or locality that are available for such viewing, or to increase the number of programmes made in that area or locality that would be so available.
+
+(3) A service is to be taken for the purposes of paragraph (2) to meet the needs of an area or locality if, and only if—
+
+- (a) its provision brings social or economic benefits to that area or locality, or to different categories of persons living or working in that area or locality; or
+- (b) it caters for the tastes, interests and needs of some or all of the different descriptions of persons living or working in the area or locality (including, in particular, tastes, interests and needs that are of special relevance in the light of the descriptions of persons who do so live and work).
+
+(4) In paragraphs (2) and (3) the references to persons living or working in an area or locality include a reference to persons undergoing education or training in that area or locality.
+
+(5) A service falls within this paragraph if it includes or would include a range of programmes which–
+
+- (a) facilitate civic understanding and fair and well-informed debate through coverage of local news and current affairs;
+- (b) reflect the lives and concerns of communities and cultural interests and traditions in that area or locality; and
+- (c) include content that informs, educates and entertains and is not otherwise available through a digital television programme service which is available across the United Kingdom.
+
+## 4. Application of broadcasting legislation[^key-539adc5e5600809be3965a7da6edaa88]
+
+The provisions of Part 1 of the 1996 Act and Part 3 of the 2003 Act have effect in relation to a local digital television programme service with the modifications set out in the Schedule.
+
+Jeremy Hunt
+
+Secretary of State
+
+Department for Culture, Media and Sport
+
+13th February 2012
+
+## SCHEDULE — Modification of legislation in relation to local digital television programme services
+
+Article 4
+
+### PART 1 — Modifications of the 1996 Act
+
+#### 1. Introductory[^key-b1f4ec9b8dc3c1f512ece1bb91584a1d]
+
+This Part contains the modifications of Part 1 of the 1996 Act referred to in article 4.
+
+#### 2. Definitions and general[^key-d4254f9f1626bb3598b51137644044c8]
+
+Section 1 has effect as if after subsection (4A)[^f00004] there were inserted—
+
+> (4B) In this Part—
+>
+> - “local multiplex service” means a multiplex service for the broadcast of local digital television programme services, and
+> - “local digital television programme service” has the meaning given by article 3 of the Local Digital Television Programme Services Order 2012.
+
+.
+
+#### 2A.[^key-13f08f7e030d3367cef44cdb2d46accc]
+
+Section 3 (licences under Part 1) has effect as if in subsection (5), after “section 17(1)(b)”, there were inserted “or section 23(1)(b)”.
+
+#### 3.[^key-d10a2f264865ebe73c0683ada75d0ae3]
+
+Sections 7 to 9[^f00005] and 12[^f00006] have effect as if before “multiplex licence”, in each place it occurs, there were inserted “local”.
+
+#### 4. Local Multiplex Service Licence[^key-f364c336a30b876fc61a03ffb6829062]
+
+Section 7 (multiplex licences) has effect as if–
+
+- (a) in subsection (1), before “multiplex service”, there were inserted “local”,
+- (b) in subsection (4), paragraphs (c) to (e) were omitted,
+- (c) in that subsection, for paragraph (f) there were substituted–
+
+  > - (f) the applicant’s proposals for supporting local digital television programme services,
+
+  , and
+- (d) subsections (5) and (8)(a)(ii) (but not the “and” after it) were omitted.
+
+#### 5.[^key-808fa37708986e6d36168255bdda8128]
+
+Section 8 (award of multiplex licences) has effect as if–
+
+- (a) in subsection (1), for “the development of digital television broadcasting in the United Kingdom otherwise than by satellite” there were substituted “local digital television programme services in the United Kingdom”,
+- (b) in subsection (2), in paragraph (b), the words “and (d)” were omitted,
+- (c) in that subsection, after paragraph (c), there were inserted “and” ,
+- (d) in that subsection, for paragraph (d) there were substituted—
+
+  > - (d) any proposals by the applicant for promoting local digital television programme services.
+
+  , and
+- (e) subsections (2)(e) to (f) and (3) were omitted.
+
+#### 6.[^key-7c027696652e3746faf853320225af0d]
+
+Section 9[^f00007] (power to require two or more multiplex licences to be granted to one person) has effect as if subsection (3) (c) were omitted.
+
+#### 7.[^key-5f997d4a41c65e93e5cecb6eac297d61]
+
+Section 12[^f00008] (conditions attached to multiplex licence) has effect as if—
+
+- (za)[^key-26dbeacce1fd95719be94fcb13daac50] in subsection (1), at the end of paragraph (a) there were inserted “and any supplementary technical plan submitted under section 16B(1)(a)”,
+- (a) in subsection (1), in paragraph (b), “(c), (d), (e) or” were omitted,
+- (aa)[^key-4fab1097e24546fea41383a5d1eb31d8] in that subsection, at the end of paragraph (b) there were inserted “and any supplementary proposals submitted under section 16B(1)(b)”,
+- (b) in that subsection, the “and” at the end of paragraph (g) were omitted,
+- (c) in that subsection, for paragraph (h) there were substituted—
+
+  > - (h) that while the licence is in force the licence holder uses such portion of digital capacity on the multiplex as OFCOM may specify in the licence for such local digital television programme services as OFCOM may so specify,
+  > - (i) that the licence holder carries such local digital television programme services at such places as are specified by OFCOM in the licence,
+  > - (j) that the licence holder does not charge an amount for carrying a local digital television programme service specified by OFCOM in the licence which exceeds such sum as is sufficient to recover the net operating costs, that sum being determined by OFCOM in the event of dispute between the licence holder and the holder of the licence for the local digital television programme service,
+  > - (k) that the licence holder co-operates, with persons notified to the licence holder by OFCOM, in order to facilitate the provision of local digital television programme services,
+  > - (l) that the licence holder, if notified to do so by OFCOM, participates in or facilitates (as OFCOM sees fit) the formation of a legal entity which is intended to facilitate the provision of local digital television programme services,
+  > - (m) that, subject to paragraph (n), the licence holder facilitates the objective of a provider of a local digital television programme service carried on the multiplex to increase the coverage area for that service set out in the technical plan submitted by the licence holder under section 7(4)(b), and
+  > - (n) that any obligation imposed by virtue of paragraph (m) applies only if the provider of the local digital television programme service in question has undertaken to pay the costs reasonably incurred by the licence holder for increasing the coverage area beyond that set out in the technical plan and is not in breach of that undertaking.
+
+  ,
+- (d) for subsection (1A), there were substituted—
+
+  > (1A) In subsection (1)(j), “net operating costs”, in relation to a local digital television programme service, means the operating costs reasonably incurred by the licence holder for the broadcast of that service, so far as those costs are not met by funding made available to the licence holder by the BBC for the support of the provision of local digital television programme services.
+
+  , [^key-3608c97534d95bb471a0c2facf20a065]...
+- (da)[^key-bc23cda6f8cdc134c5162d32b8c10ef4] in subsection (2), at the end there were inserted “, except that such consent is not needed where the variation is to secure the implementation of any supplementary technical plan or supplementary proposals submitted under section 16B(1)”, and
+- (e) subsections (3), (4), (4A), (5) and (6) were omitted.
+
+#### 8.[^key-df8536d971bfca394ab1bc5ed98d1951]
+
+Section 16[^f00009] (duration and renewal of multiplex licences) has effect as if—
+
+- (za)[^key-ea7bd420881f19c0f9bed856357dcdd0] in the heading, for “renewal” there were substituted “extension”,
+- (a) for subsection (1) there were substituted—
+
+  > (1) A local multiplex licence (subject to the provisions of this Part) continues in force for the period specified by OFCOM in the licence, such period not to exceed twelve years.
+
+  , [^key-3d361fc73ddb46e988d459b56a9eb474]...
+- (aa)[^key-ae8cfd63f1bd02095d0f350c7058a015] after subsection (1) there were inserted—
+
+  > (1A) OFCOM may, with the consent of the licence holder, extend the period for which a local multiplex licence continues in force by twelve months.
+  >
+  > (1B) The power in subsection (1A) may be exercised in relation to a local multiplex licence even if the total period for which the licence continues in force exceeds twelve years.
+  >
+  > (1C) The power in subsection (1A) may only be exercised once in relation to each local multiplex licence.
+  >
+  > (1D) Subsection (1A) does not affect the operation of section 17(1)(b).
+
+  , and
+- (b) the remainder of that section were omitted.
+
+#### 8A.[^key-6c7a0e3bddfee37151e67ceb5c5be15f]
+
+Part 1 has effect as if after section 16 there were inserted—
+
+> **16A. Renewal of extended local multiplex licences**
+>
+> (1) Where OFCOM have extended a local multiplex licence under section 16(1A), OFCOM may, at any time before 26th November 2025, renew that local multiplex licence on one occasion in accordance with this section for a period beginning with the date on which it would otherwise expire and ending before 1st January 2035.
+>
+> (2) An application for the renewal of a local multiplex licence under subsection (1) must be made—
+>
+> - (a) by the licence holder,
+> - (b) in writing, and
+> - (c) before 1st April 2025.
+>
+> (3) At any time before determining the application, OFCOM may require the applicant to furnish—
+>
+> - (a) information about the service the applicant proposes to provide if their licence is renewed, and
+> - (b) such other information as OFCOM may reasonably require for the purpose of considering the application.
+>
+> (4) Where an application for the renewal of a local multiplex licence has been duly made to OFCOM they may refuse the application only if—
+>
+> - (a) it appears to them that the applicant has failed to comply with any of the conditions included in their licence, or
+> - (b) they are not satisfied that the applicant would, if their licence were renewed, provide a service which complied with the conditions to be included in the licence as renewed.
+>
+> (5) For the purposes of subsection (4)(b), OFCOM may consider any conditions that would be included to secure the implementation of any supplementary technical plan or supplementary proposals submitted under section 16B(1) (see section 16B(2)).
+>
+> (6) Where OFCOM have granted a person’s application under this section, they shall formally renew that person’s licence from the date on which it would otherwise expire.
+>
+> (7) Nothing in this section prevents the holder of a local multiplex licence from applying for a new licence on one or more occasions in pursuance of a notice under section 7(1).
+>
+> **16B. Renewals: supplementary technical plan and supplementary proposals**
+>
+> (1) When making an application for the renewal of a local multiplex licence under section 16A, the applicant may submit—
+>
+> - (a) a technical plan which supplements the technical plan submitted by the licence holder under section 7(4)(b), and
+> - (b) proposals which supplement the proposals submitted by the licence holder under section 7(4)(f).
+>
+> (2) Where a local multiplex licence has been renewed under section 16A, the licence as renewed may include such further conditions, or OFCOM may make such variations to existing conditions, as appear to OFCOM to be appropriate for securing the implementation of any supplementary technical plan or supplementary proposals submitted under subsection (1).
+>
+> (3) OFCOM may postpone consideration of any supplementary technical plan and supplementary proposals submitted under subsection (1) until after 25th November 2025, in which case OFCOM must treat the submission of such information as an application by the holder of the licence as renewed for a variation of the conditions imposed in pursuance of section 12(1)(a) or (b) (see section 12(2)).
+>
+> **16C. Revocation of local multiplex licences for spectrum management reasons**
+>
+> (1) Where OFCOM have awarded a local multiplex licence under section 8, or renewed a local multiplex licence under section 16A, they may, with the consent of the Secretary of State, revoke the licence.
+>
+> (2) OFCOM may only revoke the licence for reasons related to the management of the radio spectrum.
+>
+> (3) Where OFCOM propose to revoke the licence, they must give the holder of the licence a notification—
+>
+> - (a) stating the reasons for the proposed revocation, and
+> - (b) specifying the period during which the person notified has an opportunity to make representations about the proposal.
+>
+> (4) Where OFCOM have given a notification under subsection (3), they must, as soon as reasonably practicable after the end of the period for the making of representations—
+>
+> - (a) decide whether or not to revoke the licence, and
+> - (b) give the holder of the licence a notification of their decision—
+>   - (i) stating the reasons for the decision, and
+>   - (ii) where the decision is to revoke the licence, specifying a date, not earlier than five years after the date on which the notification is given, on which the revocation takes effect.
+
+.
+
+#### 9. Local digital television programme services[^key-50181cb0cdc02f6f29d8d25b50e9a34d]
+
+Part 1 has effect as if for section 18[^f00010] there were substituted—
+
+> **18. Licensing of local digital television programme services**
+>
+> (1) Where OFCOM propose to grant a licence to provide a local digital television programme service they must publish, in such manner as they consider appropriate, a notice—
+>
+> - (a) stating that they propose to grant such a licence and its likely duration,
+> - (b) specifying which digital capacity reserved by OFCOM will be reserved for local digital television programme services,
+> - (c) specifying the area or locality for which the service is to be provided and that only one licence will be granted in respect of each such area or locality,
+> - (d) inviting applications for the licence and specifying the closing date for such applications, and
+> - (e) specifying the fee payable on any application.
+>
+> (2) An application for a local digital television programme service licence must be in writing and accompanied by—
+>
+> - (a) the fee specified pursuant to subsection (1)(e),
+> - (b) details of the local digital television programme service the applicant proposes to provide,
+> - (c) details of the timetable according to which the applicant proposes to begin providing the service,
+> - (d) a detailed explanation of how the character of the service, as proposed in the application, is to be maintained for the period for which the licence would be in force,
+> - (e) such information as OFCOM may reasonably require as to the applicant’s present and projected financial position during the period for which the licence would be in force, and
+> - (f) such other information as OFCOM may reasonably require for the purpose of considering the application.
+>
+> (3) At any time after receiving such an application and before determining it, OFCOM may require the applicant to furnish such additional information as they consider necessary for the purpose of considering the application.
+>
+> (4) Any information to be furnished to OFCOM under this section must, if they so require, be in such form or verified in such manner as they may specify.
+>
+> (5) Where an application for a local digital television programme service licence is made to OFCOM in accordance with the provisions of this section, they may grant the licence unless precluded from doing do by section 3(3)(a) or 5(1).
+>
+> (6) OFCOM must, in determining whether and to whom to grant a local digital television programme service licence have regard to the following factors—
+>
+> - (a) the extent to which any proposed service–
+>   - (i) meets, or would meet, the needs of the area or locality where it is received,
+>   - (ii) would be likely to broaden the range of television programmes available for viewing by persons living or working in that area or locality, and
+>   - (iii) would be likely to increase the number and range of the programmes about that area or locality that are available for such viewing and to increase the number of programmes made in that area or locality that would be so available, and
+> - (b) the ability of the applicant for the licence to maintain, throughout the period for which the licence would be in force, the proposed service.
+>
+> (7) A service shall be taken for the purposes of subsection (6)(a)(i) to meet the needs of an area or locality if, and only if—
+>
+> - (a) its provision brings social or economic benefits to the area or locality, or to different categories of persons living or working in that area or locality, or
+> - (b) it caters for the tastes, interests and needs of some or all of the different descriptions of persons living or working in the area or locality (including, in particular, tastes, interests and needs that are of special relevance in the light of the descriptions of persons who do so live and work).
+>
+> (8) In subsections (6) and (7) the references to persons living or working in an area or locality include a reference to persons undergoing education or training in that area or locality.
+
+#### 10.[^key-5162836baa49821e5912d109969861e3]
+
+Section 19[^f00011] (duration and conditions of digital programme licence) has effect as if—
+
+- (a) for subsection (1) there were substituted–
+
+  > (1) A local digital television programme service licence (subject to the provisions of this Part) continues in force until the earlier of—
+  >
+  > - (a) the end of the period specified by OFCOM in the licence, being a period not exceeding twelve years, or
+  > - (b) the time it is surrendered by its holder.
+
+  ,
+- (aa)[^key-eaca64c1c643b2bb16d76eba8f4f8566] after subsection (1) there were inserted—
+
+  > (1A) A local digital television programme service licence may be extended and renewed in accordance with sections 19ZA and 19ZB.
+
+  ,
+- (b) after subsection (3) there were inserted–
+
+  > (3A) A local digital television programme service licence must also include such conditions as appear to OFCOM to be appropriate for securing that—
+  >
+  > - (a) the service is provided in the location specified by OFCOM,
+  > - (b) charges on persons in respect of reception of the service in the United Kingdom are prohibited,
+  > - (c) the character of the licensed service, as proposed by the licence holder when making the application, is maintained for the duration of the licence,
+  > - (d) the service is at all times offered as available (subject to the need to agree terms) to be broadcast –
+  >   - (i) by means of the multiplex licensed for the carriage of a local digital television programme service in the location specified by OFCOM pursuant to section 12(1)(i), and
+  >   - (ii) in such technical format or in accordance with such technical instructions as OFCOM may specify,
+  > - (e) the service does not contain any pornographic material (within the meaning of section 19A),
+  > - (f) the service does not contain any advertising falling within section 19B,
+  > - (g) the licence holder co-operates with holders of local digital television programme service licences and holders of local multiplex licences to facilitate the provision of local digital television programme services in the United Kingdom,
+  > - (h) the licence holder, if notified to do so by OFCOM, participates in the formation of a legal entity which is intended to facilitate the provision of local digital television programme services,
+  > - (i) the licence holder seeks (in co-operation with the legal entity mentioned in paragraph (h)) to measure the number of viewers of the service, [^key-b7e135abacda15f71054e64afd7c0e74]...
+  > - (j) the licence holder encourages the legal entity mentioned in paragraph (h) to apply for a local multiplex licence which OFCOM propose to grant under section 7(1) or to negotiate for a local multiplex licence which otherwise becomes available , and[^key-56080d75a3c77661790cf4e4a2fd4304]
+  > - (k) where the licence holder is a producer within the meaning of article 3 of the Broadcasting (Independent Productions) Order 1991, the licence holder provides OFCOM with such information as OFCOM may reasonably require for the purpose of determining whether the licence holder is an independent producer within the meaning of article 3(4) of that Order.
+  >
+  > (3B) Conditions included in a licence under subsection (3A)(c) may authorise OFCOM to consent to a departure from the character of the licensed service if they are satisfied—
+  >
+  > - (a) that the departure would not substantially alter the character of the service,
+  > - (b) that the departure would not unacceptably reduce, the number and range of the programmes about the area or locality for which the service is licensed,
+  > - (c) that the departure would not unacceptably reduce, the number of programmes made in the area or locality for which the service is licensed, and
+  > - (d) that the service would continue to meet the needs of the area or locality for which the service is licensed.
+  >
+  > (3C) Before deciding whether to consent to a departure from the character of a licensed service on any of the grounds specified in subsection (3B)(b) to (d) , OFCOM must publish a notice specifying —
+  >
+  > - (a) the proposed departure, and
+  > - (b) the period in which representations may be made to OFCOM about the proposal.
+  >
+  > (3D) That period must end later than 28 days after the publication of the notice.
+  >
+  > (3E) The notice must be published in such manner as appears to OFCOM to be appropriate for bringing it to the attention of the persons who, in OFCOM’s opinion, are likely to be affected by the departure.
+  >
+  > (3F) OFCOM—
+  >
+  > - (a) are not required to publish a notice under this section, or
+  > - (b) may specify in such a notice a period shorter than that required by subsection (3D),
+  >
+  > if they consider that the publication of the notice, or allowing a longer period for representations, would result in a delay that would be likely prejudicially to affect the interests of the licence holder.
+  >
+  > (3G) OFCOM are not required under this section–—
+  >
+  > - (a) to publish any matter that is confidential in accordance with subsections (3H) or (3I), or
+  > - (b) to publish anything that it would not be reasonably practicable to publish without disclosing such a matter.
+  >
+  > (3H) A matter is confidential under this subsection if–—
+  >
+  > - (a) it relates specifically to the affairs of a particular body, and
+  > - (b) its publication would or might, in OFCOM’s opinion, seriously and prejudicially affect the interests of that body.
+  >
+  > (3I) A matter is confidential under this subsection if —
+  >
+  > - (a) it relates specifically to the private affairs of an individual, and
+  > - (b) its publication would or might, in OFCOM’s opinion, seriously and prejudicially affect the interests of that individual.
+
+  .
+
+#### 11.[^key-98f7ecf3792470584414c261f738598a]
+
+Part 1 has effect as if after section 19 there were inserted—
+
+> **19ZA. Extension of local digital television programme service licences[^key-62f131de9ad7dcaa69d008b354e6e1d4]**
+>
+> (1) OFCOM may, with the consent of the licence holder, extend the period for which a local digital television programme service licence continues in force by twelve months.
+>
+> (2) The power in subsection (1) may be exercised in relation to a local digital television programme service licence even if the total period for which the licence continues in force exceeds twelve years.
+>
+> (3) The power in subsection (1) may only be exercised once in relation to each local digital television programme service licence.
+>
+> (4) Subsection (1) does not affect the operation of section 23(1)(b).
+>
+> **19ZB. Renewal of extended local digital television programme service licences**
+>
+> (1) Where OFCOM have extended a local digital television programme service licence under section 19ZA(1), OFCOM may, at any time before 26th November 2025, renew that local digital television programme service licence on one occasion in accordance with this section for a period beginning with the date on which it would otherwise expire and ending before 1st January 2035.
+>
+> (2) An application for the renewal of a local digital television programme service licence under subsection (1) must be made—
+>
+> - (a) by the licence holder,
+> - (b) in writing, and
+> - (c) before 1st April 2025.
+>
+> (3) An application under subsection (2) must be accompanied by—
+>
+> - (a) details of the local digital television programme service the applicant proposes to provide,
+> - (b) a detailed explanation of the applicant’s ability to maintain, throughout the period for which the licence, if renewed, would be in force, the proposed service,
+> - (c) a detailed explanation of how the character of the service is to be maintained for the period for which the licence, if renewed, would be in force, and
+> - (d) such information as OFCOM may reasonably require as to the applicant’s present and projected financial position during the period for which the licence, if renewed, would be in force.
+>
+> (4) At any time after receiving such an application and before determining it, OFCOM may require the applicant to furnish such other information as OFCOM may reasonably require for the purpose of considering the application.
+>
+> (5) Where an application for the renewal of a local digital television programme service licence has been duly made to OFCOM they may refuse the application only if—
+>
+> - (a) it appears to them that the applicant has failed to comply with any of the conditions in their licence, or
+> - (b) they are not satisfied that the applicant would, if their licence were renewed, provide a service which complied with the conditions to be included in the licence as renewed.
+>
+> (6) Where OFCOM have granted a person’s application under this section, they shall formally renew that person’s licence from the date on which it would otherwise expire.
+>
+> (7) Nothing in this section prevents the holder of a local digital television programme service licence from applying for a new licence on one or more occasions in pursuance of a notice under section 18(1).
+>
+> **19A. Pornographic material**
+>
+> (1) For the purposes of section 19(3A)(e), material is “pornographic” if it is of such a nature that it must reasonably be assumed to have been produced solely or principally for the purpose of sexual arousal.
+>
+> (2) Where the material forms part of a series of images and that series is such as to be capable of providing a context for the material, the question whether the material is “pornographic” is to be determined by reference to—
+>
+> - (a) the material itself, and
+> - (b) the context provided by the series of images.
+>
+> (3) So, for example, where—
+>
+> - (a) the material forms an integral part of a narrative constituted by a series of images, and
+> - (b) having regard to those images as a whole, they are not of such a nature that they must reasonably be assumed to have been produced solely or principally for the purpose of sexual arousal,
+>
+> the material may, by virtue of being part of that narrative, be found not to be pornographic, even though it might have been found to be pornographic if taken by itself.
+>
+> **19B. Prohibition of certain advertising content**
+>
+> (1) For the purposes of section 19(3A)(f), advertising falls within this section if it is—
+>
+> - (a) of a duration of at least 3 minutes, and
+> - (b) for a chat service made available for purchase by means of a premium rate service.
+>
+> (2) In this section–
+>
+> - “chat service” means a service offering two-way communication in sound or vision (or both) between the purchaser and another individual;
+> - “premium rate service” means a service falling within section 120(7) of the Communications Act 2003[^f00012].
+
+#### 12. Definitions applicable in Part 1[^key-b6a792b1ed9ee2a241485a64fa835f40]
+
+Section 39[^f00013] (interpretation of Part 1) has effect as if after the definition of “licence” there were inserted—
+
+> - “local digital television programme service” has the meaning given in section 1(4B) and “local digital television programme service licence” means a licence to provide such a service;
+> - “local multiplex service” has the meaning given in section 1(4B) and “local multiplex licence” means a multiplex licence to provide such a service;
+
+.
+
+### PART 2 — Modifications of Part 3 of the 2003 Act
+
+#### 13.[^key-fe0a28bab239ed6af68f4207d10313ba]
+
+This Part contains the modifications of Part 3 of the 2003 Act referred to in Article 4.
+
+#### 13A.[^key-89a8da201ed6d5777461f30cda1fb7b3]
+
+Part 3 has effect as if section 309 (quotas for independent programmes) were omitted.
+
+#### 14.[^key-26d91a9d6b84ac2d4d6a16b260279ae5]
+
+Section 333 (party political broadcasts) has effect as if—
+
+- (a) in subsection (1) after “licensed public service channel,” there were added “every local digital television programme service”, and
+- (b) in subsection (6), after the definition of “designated organisation”, there were inserted—
+
+  > - “local digital television programme service” has the meaning given in article 3 of the Local Digital Television Programme Services Order 2012;
+
+  .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order provides that specified provisions of Part 1 of the Broadcasting Act 1996 (“the 1996 Act”) and Part 3 of the Communications Act 2003 (“the 2003 Act”) are to have effect with modifications in relation to local digital television programme services. It should be noted that provisions of general application to licences in the Broadcasting Act 1990, the 1996 Act and the 2003 Act which are not subject to express modification also have effect in relation to local digital television programme services where applicable.
+
+Article 3 of the Order sets out the description of local digital television programme services to which the modifications will apply. A local digital television programme service is defined as being a type of digital programme service.
+
+Article 4 stipulates that the provisions of Part 1 of the 1996 Act and Part 3 of the 2003 Act have effect in relation to local digital television programme services with the modifications in the Schedule.
+
+Part 1 of the Schedule contains the modifications of the 1996 Act and Part 2 of the Schedule the modifications of the 2003 Act.
+
+Paragraph 2 of the Schedule inserts definitions of “local multiplex service” and “local digital television programme service” into section 1 of the 1996 Act. A “local multiplex service” is a type of multiplex service. Paragraph 3 inserts the word “local” before multiplex licence in sections 7 to 9 and 12 of the 1996 Act in order to make clear the subset of multiplex licence to which the modifications apply.
+
+Paragraph 4 modifies section 7 of the 1996 Act in respect of a local multiplex service. Paragraph 5 modifies section 8 of the 1996 Act in respect of a local multiplex licence. Paragraph 6 modifies section 9 of the 1996 Act in respect of a local multiplex licence. Paragraph 7 modifies section 12 of the 1996 Act in respect of a local multiplex licence. Paragraph 8 amends section 16 of the 1996 Act in respect of a local multiplex licence.
+
+Paragraph 9 substitutes a new section 18 into Part 1 of the 1996 Act which has effect in relation to a local digital television programme service. Subsection (1) sets out the process OFCOM must follow when they propose to grant a licence to provide a local digital television programme service. Subsection (2) stipulates how an application for such a licence must be made and subsection (6) the factors OFCOM must take into account in determining whether and to whom to grant a licence.
+
+Paragraph 10 modifies section 19 of the 1996 Act in relation to a local digital television programme licence. Subsection (1) sets out the duration of a local digital television programme licence and new subsection (3A) is inserted requiring that OFCOM must impose conditions in such a licence to secure the objectives set out therein. New subsection (3A)(e) specifies that one of the objectives is that a local digital television programme service does not contain any pornographic material within the meaning of new section 19A or advertising which falls within the meaning of new section 19B. Inserted subsection (3B) sets out the factors OFCOM must consider if they are to consent to a departure from the character of the licensed service. New subsections (3C) to (3G) stipulate the procedural steps OFCOM must follow before deciding to consent to such a departure. New subsections (3H) to (3I) provide for limitations on the publication of confidential material.
+
+Paragraph 11 inserts a new section 19A defining the pornographic material mentioned for the purposes of new section 19(3A)(e) and paragraph 12 inserts a new section 19B describing the advertising referred to in new section 19(3A)(f).
+
+Paragraph 12 inserts new definitions in section 39 of the 1996 Act: a definition of a “local digital television programme service”, a “local multiplex service” and a “local multiplex licence”.
+
+Paragraph 14 modifies section 333 of the 2003 Act so that a local digital television programme service is added to the services which must carry party political broadcasts.
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the website of the Department for Culture, Media and Sport (www.culture.gov.uk/images/consultations/Impact-Assessment\_Local-TV\_\_July2011) and is annexed to the Explanatory Memorandum which is available alongside the instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21)
+
+[^key-54ae45d6bbc13a59b7775d5ccbb6f166]: Commencement: Art. 1 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+
+[^key-9205de8c1713195ae91511aad33adf60]: Commencement: Art. 2 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+
+[^f00002]: Footnote: [1996 c. 55](https://www.legislation.gov.uk/ukpga/1996/55)
+
+[^f00003]: Footnote: Subsection (4) was amended by the Communications Act 2003, s 360(3), Sch 15, Pt 2, para 74(1) and (3)
+
+[^key-79429b012eb84fdf31d7370ebf6fefa5]: Commencement: Art. 3 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+
+[^key-539adc5e5600809be3965a7da6edaa88]: Commencement: Art. 4 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+
+[^key-b1f4ec9b8dc3c1f512ece1bb91584a1d]: Commencement: Sch. para. 1 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+
+[^key-d4254f9f1626bb3598b51137644044c8]: Commencement: Sch. para. 2 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+
+[^f00004]: Footnote: Section (4A) was inserted by the Television Broadcasting Regulations 1998, [SI 1998/3196](https://www.legislation.gov.uk/uksi/1998/3196), reg 2, Schedule, para 8(1) and (3); substituted by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), s 360(3), Sch 15, Pt 2, para 74(1) and (4)
+
+[^key-13f08f7e030d3367cef44cdb2d46accc]: Textual amendment: [Sch. para. 2A](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/2A) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/4/1)
+
+[^key-d10a2f264865ebe73c0683ada75d0ae3]: Commencement: Sch. para. 3 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+
+[^f00005]: Footnote: Sections 7, 8 and 9 were amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21) , s 360(3), Sch 15, Pt 2, para 79(1), (2), (3)(a) and (3)(b), para 80(1) to (3) and para 81 respectively
+
+[^f00006]: Footnote: Section 12 was amended by the Television Broadcasting Regulations 1998, [SI 1998/3196](https://www.legislation.gov.uk/uksi/1998/3196), reg 2, Schedule, para 9(1)and (4); the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), s 242 and s 360(3), Sch 15, Pt 2, para 84; subsection (7) was repealed by section 406(7), Sch 19(1)
+
+[^key-f364c336a30b876fc61a03ffb6829062]: Commencement: Sch. para. 4 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+
+[^key-808fa37708986e6d36168255bdda8128]: Commencement: Sch. para. 5 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+
+[^key-7c027696652e3746faf853320225af0d]: Commencement: Sch. para. 6 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+
+[^f00007]: Footnote: Section 9 was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), s 360(3), Sch 15, Pt 2, para 81
+
+[^key-5f997d4a41c65e93e5cecb6eac297d61]: Commencement: Sch. para. 7 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+
+[^f00008]: Footnote: Section 12 was amended by the Television Broadcasting Regulations 1998, [SI 1998/3196](https://www.legislation.gov.uk/uksi/1998/3196), reg 2, Schedule, para 9(1)and (4); the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), s 242 and s 360(3), Sch 15, Pt 2, para 84; subsection (7) was repealed by section 406(7), Sch 19(1)
+
+[^key-26dbeacce1fd95719be94fcb13daac50]: Textual amendment: [Sch. para. 7(za)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/7) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/1/a)
+
+[^key-4fab1097e24546fea41383a5d1eb31d8]: Textual amendment: [Sch. para. 7(aa)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/7) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/1/b)
+
+[^key-3608c97534d95bb471a0c2facf20a065]: Textual amendment: Word in [Sch. para. 7(d)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/7) omitted (20.12.2024) by virtue of [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/1/c)
+
+[^key-bc23cda6f8cdc134c5162d32b8c10ef4]: Textual amendment: [Sch. para. 7(da)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/7) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(1)(d)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/1/d)
+
+[^key-df8536d971bfca394ab1bc5ed98d1951]: Commencement: Sch. para. 8 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+
+[^f00009]: Footnote: Section 16 was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), ss 360(3) and 406(7) , Sch 15, Pt 2, para 88(1) to (4), Sch 19(1)
+
+[^key-ea7bd420881f19c0f9bed856357dcdd0]: Textual amendment: [Sch. para. 8(za)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/8) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/3)
+
+[^key-3d361fc73ddb46e988d459b56a9eb474]: Textual amendment: Word in [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/8) omitted (20.12.2024) by virtue of [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/4)
+
+[^key-ae8cfd63f1bd02095d0f350c7058a015]: Textual amendment: [Sch. para. 8(aa)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/8) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/5)
+
+[^key-6c7a0e3bddfee37151e67ceb5c5be15f]: Textual amendment: [Sch. para. 8A](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/8A) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/6)
+
+[^key-50181cb0cdc02f6f29d8d25b50e9a34d]: Commencement: Sch. para. 9 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+
+[^f00010]: Footnote: Section 18 was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), ss 360(3), 406(7), Sch 15, Pt 2, para 90(1) to (2), Sch 19(1)
+
+[^key-5162836baa49821e5912d109969861e3]: Commencement: Sch. para. 10 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+
+[^f00011]: Footnote: Section 19 was amended by the Communications Act 2003, ss 360(3), 406(7), Sch 15, Pt 2, para 91(1), (2)(a) to (d) and (3), Sch 19(1)
+
+[^key-eaca64c1c643b2bb16d76eba8f4f8566]: Textual amendment: [Sch. para. 10(aa)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/10) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1371/article/4/2)
+
+[^key-b7e135abacda15f71054e64afd7c0e74]: Textual amendment: Word in [Sch. para. 10](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/10) omitted (12.7.2012) by virtue of [The Broadcasting (Local Digital Television Programme Services and Independent Productions) (Amendment) Order 2012 (S.I. 2012/1842)](https://www.legislation.gov.uk/uksi/2012/1842), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1842/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2012/1842/article/3/a)
+
+[^key-56080d75a3c77661790cf4e4a2fd4304]: Textual amendment: Words in [Sch. para. 10](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/10) inserted (12.7.2012) by [The Broadcasting (Local Digital Television Programme Services and Independent Productions) (Amendment) Order 2012 (S.I. 2012/1842)](https://www.legislation.gov.uk/uksi/2012/1842), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1842/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2012/1842/article/3/b)
+
+[^key-98f7ecf3792470584414c261f738598a]: Commencement: Sch. para. 11 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+
+[^key-62f131de9ad7dcaa69d008b354e6e1d4]: Textual amendment: Words in [Sch. para. 11](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/11) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2024/1371/article/4/3)
+
+[^f00012]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21)
+
+[^key-b6a792b1ed9ee2a241485a64fa835f40]: Commencement: Sch. para. 12 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+
+[^f00013]: Footnote: Section 39 was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), s 360(3), Sch 15, Pt 2, para 100(d)
+
+[^key-fe0a28bab239ed6af68f4207d10313ba]: Commencement: Sch. para. 13 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+
+[^key-89a8da201ed6d5777461f30cda1fb7b3]: Textual amendment: [Sch. para. 13A](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/13A) inserted (12.7.2012) by [The Broadcasting (Local Digital Television Programme Services and Independent Productions) (Amendment) Order 2012 (S.I. 2012/1842)](https://www.legislation.gov.uk/uksi/2012/1842), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1842/article/1), [4](https://www.legislation.gov.uk/uksi/2012/1842/article/4)
+
+[^key-26d91a9d6b84ac2d4d6a16b260279ae5]: Commencement: Sch. para. 14 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)

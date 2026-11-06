@@ -1,0 +1,81 @@
+---
+title: The Communications (Isle of Man) Order 2020
+id: uksi/2020/149
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-02-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/149
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/149/pdfs/uksi_20200149_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/149/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Communications (Isle of Man) Order 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 149
+
+Broadcasting
+
+The Communications (Isle of Man) Order 2020
+
+Made
+
+12th February 2020
+
+Coming into force in accordance with article 1(2) and (3)
+
+At the Court at Buckingham Palace, the 12th day of February 2020
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Her Majesty, in exercise of the powers conferred by section 411(6) of the Communications Act 2003[^f00001] and section 119(7) and (8) of the Digital Economy Act 2017[^f00002], is pleased, by and with the advice of Her Privy Council, to order as follows:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Communications (Isle of Man) Order 2020.
+
+(2) This article and article 2 come into force on 1st March 2020.
+
+(3) Article 3 comes into force on 1st June 2020.
+
+(4) In this Order—
+
+- “the 2003 Act” means the Communications Act 2003;
+- “the 2017 Act” means the Digital Economy Act 2017.
+
+## 2. Extension of amendments of the 2003 Act to the Isle of Man
+
+The amendments of the 2003 Act made by section 88 of the 2017 Act extend to the Isle of Man[^f00003].
+
+**3.** The amendments of the 2003 Act made by section 89 of the 2017 Act extend to the Isle of Man[^f00004].
+
+Richard Tilbrook
+
+Clerk of the Privy Council
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order extends the amendments of the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21) made by sections 88 and 89 of the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30) to the Isle of Man. The amendments in section 88 of the 2017 Act (functions of Ofcom in relation to the BBC) amend section 198 of, and insert section 198ZA into, the 2003 Act and come into force in the Isle of Man on 1st March 2020. The amendments in section 89 of the 2017 Act (TV licence fee concessions by reference to age) amend section 365 of, and insert section 365A into, the 2003 Act and come into force in the Isle of Man on 1st June 2020. From that date this concession will no longer be determined by regulations but determined independently by the BBC following consultation. The BBC will have the power to make changes to the concession, including changing the eligibility criteria, level of concession and qualifying age (although this may not be lower than 65) or to end the concession. The Secretary of State retains the power to make provision for all other concessions including the current residential care concession or its equivalent.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21). The 2003 Act was extended to the Isle of Man with modifications by [S.I. 2003/3198](https://www.legislation.gov.uk/uksi/2003/3198), amended by [S.I. 2004/309](https://www.legislation.gov.uk/uksi/2004/309), [2004/718](https://www.legislation.gov.uk/uksi/2004/718), [2004/1115](https://www.legislation.gov.uk/uksi/2004/1115), [2007/278](https://www.legislation.gov.uk/uksi/2007/278) and [2011/1503](https://www.legislation.gov.uk/uksi/2011/1503). Amendments made to the 2003 Act by the Wireless Telegraphy Act [2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36) were extended to the Isle of Man with modifications by [S.I. 2007/278](https://www.legislation.gov.uk/uksi/2007/278).
+
+[^f00002]: Footnote: [2017 c.30](https://www.legislation.gov.uk/ukpga/2017/30).
+
+[^f00003]: Footnote: Section 88 of the 2017 Act amends section 198 of the 2003 Act and inserts new section 198ZA into that Act to broaden the ability of Ofcom to regulate the activities of the BBC and to confer a power for Ofcom to fine a person who does not provide information in connection with Ofcom’s regulatory functions in relation to the BBC.
+
+[^f00004]: Footnote: Section 89 of the 2017 Act amends section 365 of the 2003 Act and inserts new section 365A into that Act to confer on the BBC the function of making provision for a TV licence fee concession by reference to age.

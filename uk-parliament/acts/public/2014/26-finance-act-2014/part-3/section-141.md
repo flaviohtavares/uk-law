@@ -1,0 +1,39 @@
+---
+title: Finance Act 2014, section 141
+act: Finance Act 2014
+section: '141'
+status: revised-with-pending-changes
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/26/section/141
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2014, section 141
+
+> **Warning: changes not yet applied to this text (30).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 141. General betting duty charge on betting exchanges
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies where—
+
+- (a) one person makes a bet with another person using facilities provided by a third person in the course of a business, and
+- (b) that business is one that does not involve the provision of premises for use by persons making or taking bets.
+
+(2) General betting duty is charged on the amounts (“commission charges”) that any party to the bet who is a UK person is charged, whether by deduction from winnings or otherwise, for using those facilities.
+
+(3) No deductions are allowed from commission charges.
+
+(4) The amount of duty charged under this section in respect of bets determined in an accounting period is 15% of the commission charges relating to those bets.
+
+(5) Where a person arranges for facilities relating to a bet to be provided by another person, the facilities are to be treated for the purposes of this section and section 142(4) as provided by the person who makes the arrangements instead of by the person who provides the facilities.
+
+(6) For the purposes of this section it does not matter—
+
+- (a) whether the bet is made in the United Kingdom or elsewhere;
+- (b) whether the facilities are in the United Kingdom or elsewhere.

@@ -1,0 +1,61 @@
+---
+title: Child Support, Pensions and Social Security Act 2000, section 87
+act: Child Support, Pensions and Social Security Act 2000
+section: '87'
+status: revised-with-pending-changes
+text_date: '2016-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2000/19/section/87
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Child Support, Pensions and Social Security Act 2000, section 87
+
+> **Warning: changes not yet applied to this text (25).** Text as at 2016-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/19
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 87. Short title and extent.
+
+*Extent: E+W+S+N.I.*
+
+(1) This Act may be cited as the Child Support, Pensions and Social Security Act 2000.
+
+(2) The following provisions of this Act extend to Northern Ireland—
+
+- (a) so much of section 46 as amends section 21(3) of the [^c11422421]Pensions Act 1995;
+- (b) sections 57 to 61 (except section 60(5));
+- (c) section 73;
+- (d) sections 78 to 81;
+- (e) in Schedule 3, paragraphs 8 and 9, and in paragraph 11, sub-paragraph (2) (and sub-paragraph (1) so far as it relates to that sub-paragraph);
+- (f) paragraph 6 of Schedule 5; and
+- (g) this Part, except—
+  - (i) sections 82 and 83 and Schedule 8; and
+  - (ii) so much of this Part as gives effect to any repeal other than the repeals mentioned in subsection (3).
+
+(3) The repeals mentioned in subsection (2)(g) (which extend to Northern Ireland) are—
+
+- (a) the repeals, in Part I of Schedule 9, that relate to the [^c11422431]Tax Credits Act 1999;
+- (b) the repeals, in sections (1), (6) and (11) of Part III of that Schedule, that relate to—
+  - (i) section 21(3) of the [^c11422441]Pensions Act 1995;
+  - (ii) paragraph 49(a)(ii) of Schedule 3 to the [^c11422451]Pensions (Northern Ireland) Order 1995; and
+  - (iii) section 52(5) of the [^c11422461]Pension Schemes (Northern Ireland) Act 1993;
+- (c) the repeals in Part IV of that Schedule (except so far as relating to the [^c11422471]Courts and Legal Services Act 1990); and
+- (d) the repeals in section (2) of Part VIII of that Schedule.
+
+(4) Subject to that, this Act does not extend to Northern Ireland.
+
+## Annotations
+
+[^c11422421]: Marginal citation: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^c11422431]: Marginal citation: [1999 c. 10](https://www.legislation.gov.uk/ukpga/1999/10).
+
+[^c11422441]: Marginal citation: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^c11422451]: Marginal citation: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213).
+
+[^c11422461]: Marginal citation: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49).
+
+[^c11422471]: Marginal citation: [1990 c. 41](https://www.legislation.gov.uk/ukpga/1990/41).

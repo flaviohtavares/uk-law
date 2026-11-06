@@ -1,0 +1,270 @@
+---
+title: The Immigration (Exemption From Control) Order 1972
+id: uksi/1972/1613
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1972-10-24'
+text_date: '2025-07-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1972/1613
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1972/1613/pdfs/uksi_19721613_en.pdf
+- http://www.legislation.gov.uk/uksi/1972/1613/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Immigration (Exemption From Control) Order 1972
+
+> Text as at 2025-07-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1972 No. 1613
+
+IMMIGRATION
+
+The Immigration (Exemption From Control) Order 1972
+
+Made
+
+24th October 1972
+
+Laid before Parliament
+
+3rd November 1972
+
+Coming into Operation
+
+1st January 1973
+
+In exercise of the powers conferred upon me by section 8(2) of the Immigration Act 1971, I hereby make the following Order:—
+
+**1.**[^key-96853df404fa964187d84b4b6e6112a5] This Order may be cited as the Immigration (Exemption from Control) Order 1972 and shall come into operation on 1st January 1973.
+
+**2.**[^key-dd787ec8b25e0e4d4a112800c45c6b17] (1) In this Order—
+
+- “**the Act**” means the Immigration Act 1971; and
+- “**consular employee**” and “**consular officer**” have the meanings respectively assigned to them by Article 1 of the Vienna Convention on Consular Relations as set out in Schedule 1 to the Consular Relations Act 1968.
+
+(2) In this Order any reference to an Article or to the Schedule shall be construed as a reference to an Article of this Order or, as the case may be, to the Schedule thereto and any reference in an Article to a paragraph as a reference to a paragraph of that Article.
+
+(3) In this Order any reference to an enactment is a reference to it as amended, and includes a reference to it as applied, by or under any other enactment and any reference to an instrument made under or by virtue of any enactment is a reference to any such instrument for the time being in force.
+
+(4) The Interpretation Act 1889 shall apply to the interpretation of this Order as it applies to the interpretation of an Act of Parliament.
+
+**3.**[^key-22bde96b24ac80aeb3474962a821c572] (1) The following persons shall be exempt from any provision of the Act relating to those who are not British citizens[^key-75a101a7718c0b73c602047751ba1956], that is to say:—
+
+- (a) any consular officer in the service of any of the states specified in the Schedule (being states with which consular conventions have been concluded by Her Majesty);
+- (b) any consular employee in such service as is mentioned in sub-paragraph (a) of this paragraph; and
+- (c) any member of the family of a person exempted under sub-paragraph (a) or (b) of this paragraph forming part of his household.
+
+(2) In paragraph (1) and in Article 4 any reference to a consular employee shall be construed as a reference to such an employee who is in the fulltime service of the state concerned and is not engaged in the United Kingdom in any private occupation for gain.
+
+**4.**[^key-c1725aa0b3fcfd27b16f64ad070abccc] The following persons shall be exempt from any provision of the Act relating to those who are not British citizens[^key-10d0b1ba543a5d276980966c9ffb0468] except any provision relating to deportation, that is to say:—
+
+- (a) unless the Secretary of State otherwise directs, any member of the government of a country or territory outside the United Kingdom and Islands who is visiting the United Kingdom on the business of that government;
+- (b)[^key-d8150114190c879b11ff2e5b57a93373] any person entitled to immunity from legal process with respect to acts performed by him in his official capacity under any Order in Council made under section 12(1) of the International Development Act 2002 (which empowers Her Majesty by Order in Council to make provision relating to the immunities and privileges of the governors, directors, executive-directors, alternates, officers or employees of an international financial institution);
+- (c) any person entitled to immunity from legal process with respect to acts performed by him in his official capacity under any Order in Council made under section 5(1) of the International Monetary Fund Act 1979 (which empowers Her Majesty by Order in Council to make provision relating to the immunities and privileges of the governors, executive directors, alternates, officers and employees of the International Monetary Fund);
+- (d)[^key-4d1615d0e0fcf20897edb6da2f44370b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) any person (not being a person to whom section 8(3) of the Act applies) who is the representative or a member of the official staff of the representative of the government of a country to which section 1 of the Diplomatic Immunities (Conferences with Commonwealth Countries and Republic of Ireland) Act 1961 applies (which provides for representatives of certain commonwealth countries and their staff attending conferences in the United Kingdom to be entitled to diplomatic immunity) so long as he is included in a list compiled and published in accordance with that section;
+- (f) any person on whom any immunity from jurisdiction is conferred by any Order in Council made under section 12(1) of the Consular Relations Act 1968 (which empowers Her Majesty by Order in Council to confer on certain persons connected with the service of the government of Commonwealth countries or the Republic of Ireland all or any of the immunities and privileges which are conferred by or may be conferred under that Act on persons connected with consular posts);
+- (g) any person (not being a person to whom section 8(3) of the Act applies) on whom any immunity from suit and legal process is conferred by any Order in Council made under section 1(2), 5(1) or 6(2) of the International Organisations Act 1968 (which empower Her Majesty by Order in Council to confer certain immunities and privileges on persons connected with certain international organisations and international tribunals and on representatives of foreign countries and their staffs attending certain conferences in the United Kingdom) except any such person as is mentioned in section 5(2)(c) to (e) of the said Act of 1968 or by any Order in Council continuing to have effect by virtue of section 12(5) of the said Act of 1968[^key-293f436da177165f228fb918c54a5a4e];
+- (h) any consular officer (not being an honorary consular officer) in the service of a state other than such a state as is mentioned in the Schedule;
+- (i) any consular employee in such service as is mentioned in paragraph (h);
+- (j)[^key-08297c6541b9a571daed2e2116e7a75b] any officer or servant of the Commonwealth Secretariat falling within paragraph 6 of the Schedule to the Commonwealth Secretariat Act 1966 (which confers certain immunities on those members of the staff of the Secretariat who are not entitled to full diplomatic immunity);
+- (k)[^key-f495c763f7f2a7ede302c50a491a91ec] any person on whom any immunity from suit and legal process is conferred by the European Communities (Immunities and Privileges of the North Atlantic Salmon Conservation Organisation) Order 1985 (which confers certain immunities and privileges on the representatives and officers of the North Atlantic Salmon Conservation Organisation);
+- (l)[^key-8ae815e72f96d9a72e57920c67b59d14] any member of the Hong Kong Economic and Trade Office as defined by paragraph 8 of the Schedule to the Hong Kong Economic and Trade Office Act 1996,
+- (m)[^key-3654caf5bd0e39a0ce1df411c1c74054]
+  - (i) Any member or servant of the Independent International Commission on Decommissioning (“the Commission”) established under an Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of Ireland concluded on 26th August 1997,
+  - (ii) in sub-paragraph (i) above, “servant” includes any agent of or person carrying out work for or giving advice to the Commission,
+- (ma)[^key-5f20208552f2314a3c635dc2d5ae1c99] the following representatives of the European Union:
+  - (i) the President of the European Commission, being the President of the European Commission referred to in Article 17(6) of the Treaty on European Union signed at Maastricht on 7th February 1992 as it had effect immediately before IP completion day (“Treaty on European Union”);
+  - (ii) the President of the European Council, being the President of the European Council referred to in Article 15(6) of the Treaty on European Union,
+  - (iii) the High Representative for Foreign Affairs, being the High Representative of the Union for Foreign Affairs and Security Policy referred to in Article 18 of the Treaty on European Union;
+- (mb)[^key-1aaa8d31053c9d4a0add3fcea3b5b824] any member of staff employed by the Taipei Representative Office in the United Kingdom where all the following sub-paragraphs apply:
+  - (i) their employment is at the level of Representative, Deputy Representative, Director General, Deputy Director General, Director, Deputy Director, Senior Assistant Director, or Assistant Director,
+  - (ii) they are employed in the capacity of a representative function,
+  - (iii) they are not employed in the capacity of administrative, transportation, maintenance, service or other ancillary functions,
+  - (iv) they are in the full-time employment of the Taipei Representative Office and are not engaged in the United Kingdom in any private occupation for gain, and
+  - (v) they were resident outside the United Kingdom, and were not in the United Kingdom, when they were offered such employment.
+- (n) any member of the family of a person exempted under any of the preceding paragraphs forming part of his household.
+- (o)[^key-666faf62f21d74ce007d5878eb960ece] any person falling within article 4A below.
+
+**4A.**[^key-78ceaea0edee2dc749bf39039f5b0793] (1) In relation to the court (“the ICC”) established by the Rome Statute of the International Criminal Court done at Rome on 17th July 1998 (“the Rome Statute”);
+
+- (a) except in so far as in any particular case the exemption given by this article is waived by the State or intergovernmental organisation they represent,
+  - (i) any representative of a State party to the Rome Statute attending meetings of the Assembly or one of its subsidiary organs,
+  - (ii) any representative of another State attending meetings of the Assembly or one of its subsidiary organs as an observer, and
+  - (iii) any representative of a State or of an intergovernmental organisation invited to a meeting of the Assembly or one of its subsidiary organs,
+
+  while exercising their official functions and during their journey to and from the place of the meeting;
+- (b) except in so far as in any particular case the exemption given by this article is waived by the State they represent, any representative of a State participating in the proceedings of the ICC while exercising their official functions and during their journeys to and from the place of the proceedings of the ICC;
+- (c) except in so far as in any particular case the exemption given by this article is waived by an absolute majority of the judges, any judge and the Prosecutor, when engaged on or with respect to the business of the ICC;
+- (d) except in so far as in any particular case the exemption given by this article is waived by the Prosecutor, any Deputy Prosecutor, when engaged on or with respect to the business of the ICC;
+- (e) except in so far as in any particular case the exemption given by this article is waived by the Presidency, the Registrar, when engaged on or with respect to the business of the ICC;
+- (f) except in so far as in any particular case the exemption given by this article is waived by the Registrar, the Deputy Registrar, so far as necessary for the performance of his functions;
+- (g) except in so far as in any particular case the exemption given by this article is waived by the Prosecutor, any member of the staff of the office of the Prosecutor, so far as necessary for the performance of their functions;
+- (h) except in so far as in any particular case the exemption given by this article is waived by the Registrar, any member of the staff of the Registry, so far as necessary for the performance of their functions;
+- (i) except in so far as in any particular case the exemption given by this article is waived by the Presidency and subject to the production of the certificate under seal of the Registrar provided to counsel and persons assisting defence counsel upon appointment, counsel and any person assisting defence counsel, so far as necessary for the performance of their functions;
+- (j) except in so far as in any particular case the exemption given by this article is waived by the Presidency and subject to the production of a document provided by the ICC certifying that the person’s appearance before the ICC is required by the ICC and specifying a time period during which such appearance is necessary, any witness, to the extent necessary for their appearance before the ICC for the purposes of giving evidence;
+- (k) except in so far as in any particular case the exemption given by this article is waived by the Presidency and subject to the production of a document provided by the ICC certifying the participation of the person in the proceedings of the ICC and specifying a time period for that participation, any victim, to the extent necessary for their appearance before the ICC;
+- (l) except in so far as in any particular case the exemption given by this article is waived by the head of the organ of the ICC appointing the person and subject to the production of a document provided by the ICC certifying that the person is performing functions for the ICC and specifying a time period during which those functions will last, any expert performing functions for the ICC, to the extent necessary for the exercise of those functions;
+- (m) any member of the family of a person exempted under any of paragraphs (c) to (h) above forming part of their household.
+
+(2) In paragraph (1) above:
+
+- “the Assembly” means the assembly of State parties to the Rome Statute;
+- “the Presidency” means the organ of the ICC composed of the president and the first and second vice-presidents of the ICC elected in accordance with article 38, paragraph 1, of the Rome Statute;
+- “the Prosecutor” and “Deputy Prosecutors” mean the prosecutor and deputy prosecutors respectively elected by the assembly of State parties to the Rome Statute in accordance with article 42, paragraph 4, of the Rome Statute;
+- “the Registrar” and “the Deputy Registrar” mean the registrar and deputy registrar respectively elected by the ICC in accordance with article 43, paragraph 4, of the Rome Statute.
+
+**5.**[^key-1b825b5de2be769661850b1519b59ace] (1) Subject to the provisions of this Article the following persons who are not British citizens[^key-ee349b54e197686152003adfe593081b] shall, on arrival in the United Kingdom, be exempt from the provisions of section 3(1)(a) of the Act (which requires persons who are not patrial to obtain leave to enter the United Kingdom), that is to say—
+
+- (a) any citizen of the United Kingdom and Colonies who holds a passport issued to him in the United Kingdom and Islands and expressed to be a British Visitor's Passport;
+- (b) any Commonwealth citizen who is included in a passport issued in the United Kingdom by the Government of the United Kingdom or in one of the Islands by the Lieutenant-Governor thereof which is expressed to be a Collective Passport;
+- (c) any Commonwealth citizen or citizen of the Republic of Ireland returning to the United Kingdom from an excursion to France or Belgium or the Netherlands[^key-e80531932859d0b376872bf34604cd51] who holds a valid document of identity issued in accordance with arrangements approved by the United Kingdom Government and in a form authorised by the Secretary of State and enabling him to travel on such an excursion without a passport;
+- (d) any Commonwealth citizen who holds a British seaman's card or any citizen of the Republic of Ireland if (in either case) he was engaged as a member of the crew of a ship in a place within the common travel area and, on arrival in the United Kingdom, is, or is to be, discharged from his engagement;
+- (e) any person who, having left the United Kingdom after having been given a limited leave to enter, returns to the United Kingdom within the period for which he had leave as a member of the crew of an aircraft under an engagement requiring him to leave on that or another aircraft as a member of its crew within a period exceeding seven days.
+- (f)[^key-2b96fd290639b674eab6991f6c1af9a6] any person working on a foreign fishing boat authorised to fish in accordance with a sea fishing licence granted under section 17 of the Fisheries Act 2020 where that work is being undertaken pursuant to an international agreement or arrangement to which the United Kingdom is a party
+
+(2) Paragraph (1) shall not apply so as to confer any exemption on any person against whom there is a deportation order in force or who has previously entered the United Kingdom unlawfully and has not subsequently been given leave to enter or remain in the United Kingdom and sub-paragraphs (d) , (e) and (f)[^key-46f330dccc4ddcb1f9f18264e14929aa] of that paragraph shall not apply to a person who is required by an immigration officer to submit to examination in accordance with Schedule 2 to the Act.
+
+(3) In this Article any reference to a Commonwealth citizen shall be construed as including a reference to a British protected person and in paragraph (1)(d) “**British seaman's card**” means a valid card issued under any regulations in force under section 70 of the Merchant Shipping Act 1970 or any card having effect by virtue of the said regulations as a card so issued and “**holder of a British seaman's card**” has the same meaning as in the said regulations.
+
+- (4)[^key-bf3c10194ad49ec2767c26b651b74fbd] In paragraph (1)(f), “**foreign fishing boat**” and “**sea fishing licence**” have the same meaning as in section 52 of the Fisheries Act 2020.
+
+**6.**[^key-3beb2afffe3bd03e4b8f7f2f054d1eda] (1) For the purposes of section 1(1) of the British Nationality Act 1981 (which relates to acquisition of British citizenship by birth in the United Kingdom), a person to whom a child is born in the United Kingdom on or after 1st January 1983 is to be regarded (notwithstanding the preceding provisions of this Order) as settled in the United Kingdom at the time of the birth if—
+
+- (a) he would fall to be so regarded but for his being at that time entitled to an exemption by virtue of this Order; and
+- (b) immediately before he became entitled to that exemption he was settled in the United Kingdom; and
+- (c) he was ordinarily resident in the United Kingdom from the time when he became entitled to that exemption to the time of the birth; but this Article shall not apply if at the time of the birth the child's father or mother is a person on whom any immunity from jurisdiction is conferred by or under the Diplomatic Privileges Act 1964.
+
+(2) Expressions used in this Article shall be construed in accordance with section 50 of the British Nationality Act 1981
+
+**7.**[^key-bb0cdda79ff143a38e9dd851954a12d9] (1) Subject to paragraphs (2) and (3), a dependant of a member of the relevant visiting force is exempt from any provision of the Act relating to those who are not British citizens except any provision relating to deportation.
+
+(2) Paragraph (1) does not confer any exemption on a dependant who fails to meet the suitability requirements under Appendix Armed Forces of the immigration rules.
+
+(3) Paragraph (1) does not confer any exemption on a dependant who has failed to provide evidence that the member is able to maintain and accommodate the dependant without recourse to public funds for the duration of their stay in the United Kingdom as a dependant.
+
+(4) In this article—
+
+- “dependant” in relation to a member of the relevant visiting force, means a person who is included on a member’s official order issued by the Government of the United States of America, and is —
+  - (a) a spouse of the member; or
+  - (b) a child of the member, if the child is—
+    - (i) under 21 years old on the date the child enters the United Kingdom accompanying the member or for the purpose of joining the member; and
+    - (ii) wholly or mainly maintained by the member.
+- “member” has the same meaning as in section 12(1) of the Visiting Forces Act 1952;
+- “official order” means a movement order or other official document issued by the Government of the United States of America confirming (a) the identity of the member and (b) that those individuals listed as dependants of the member, are eligible to accompany or join the member in the United Kingdom;
+- “relevant visiting force” means any body, contingent or detachment of the United States Armed Forces for the time being present in the United Kingdom on the invitation of Her Majesty’s Government in the United Kingdom.
+
+Robert Carr
+
+One of Her Majesty's Principal Secretaries of State
+
+Home Office
+
+Whitehall
+
+24th October 1972
+
+## SCHEDULE — STATES WITH WHICH CONSULAR CONVENTIONS HAVE BEEN CONCLUDED BY HER MAJESTY[^key-9d895ba4043d9b5d1e65d52750177e6a]
+
+Articles 3 and 4
+
+- Austria
+- Belgium
+- Bulgaria
+- Czechoslovakia[^key-3ca1547171ed254373eb97a6cabd5b10]
+- Denmark
+- France
+- German Democratic Republic[^key-5b1d90addae89fe817484016706be844]
+- Greece
+- Federal Republic of Germany
+- Hungary
+- Italy
+- Japan
+- Mexico
+- Mongolia[^key-5d126cbab7405699aed965000a7f0b3e]
+- Norway
+- Poland
+- Roumania
+- Sweden
+- Spain
+- Union of Soviet Socialist Republics
+- United States of America
+- Yugoslavia
+
+EXPLANATORY NOTE
+
+This Order exempts certain classes of persons from some or all of the provisions of the Immigration Act 1971 relating to those who are not patrial. The Order contains provisions corresponding broadly to those in the Aliens (Foreign Representatives) Direction 1963 (S.I. 1963/2133, as amended) and the Commonwealth Immigrants (Control of Immigration) Exemption Order 1965 (S.I. 1965/153) which cease to have effect on the coming into force of Part I of the 1971 Act. The persons covered by the Order fall into three categories. The first relates to persons who are exempt from all such provisions of the 1971 Act and comprises consular officers and consular employees in the service of states with which consular conventions have been concluded and members of their families forming part of their households (Article 3).
+
+The second relates to persons who are exempt from all provisions of the Act relating to persons who are not patrial except any provisions relating to deportation and covers members of foreign and Commonwealth governments visiting the United Kingdom on the business of their government and other persons who, under various statutory provisions, are entitled to certain diplomatic immunities and members of the family of any such person forming part of his household (Article 4). Excluded from this category are persons who are exempt from immigration control under section 8(3) of the 1971 Act.
+
+The third category relates to those who are exempt, on arrival in the United Kingdom, from the provisions of section 3(1)(a) of the 1971 Act (which requires persons who are not patrial to obtain leave to enter the United Kingdom), unless they are subject to a deportation order or have previously entered the United Kingdom unlawfully (Article 5). These comprise citizens of the United Kingdom and Colonies holding a passport expressed to be a British Visitor's Passport; Commonwealth citizens included in a passport issued in the United Kingdom or any of the Islands expressed to be a Collective Passport; Commonwealth citizens and citizens of the Republic of Ireland who return to the United Kingdom from France or Belgium from an excursion for which they do not require a passport; (unless they are required to submit to examination under Schedule 2 to the Act), certain seamen who, on arrival in the United Kingdom are discharged from their ships and members of aircraft crew who, having been given a limited leave to enter the United Kingdom, during the period of their leave return under an engagement which requires them to leave again as a member of the crew of the same or another aircraft within a period exceeding seven days. (Crew members whose engagement requires them to leave within seven days are exempt from the requirement to obtain leave to enter under section 8(1) of the Act.)
+
+## Annotations
+
+[^key-96853df404fa964187d84b4b6e6112a5]: Commencement: Art. 1 in force at 1.1.1973, see [art. 1](https://www.legislation.gov.uk/uksi/1972/1613/article/1)
+
+[^key-dd787ec8b25e0e4d4a112800c45c6b17]: Commencement: Art. 2 in force at 1.1.1973, see [art. 1](https://www.legislation.gov.uk/uksi/1972/1613/article/1)
+
+[^key-22bde96b24ac80aeb3474962a821c572]: Commencement: Art. 3 in force at 1.1.1973, see [art. 1](https://www.legislation.gov.uk/uksi/1972/1613/article/1)
+
+[^key-75a101a7718c0b73c602047751ba1956]: Textual amendment: Words in art. 3(1) substituted (1.1.1983) by [The Immigration (Exemption from Control) (Amendment) Order 1982 (S.I. 1982/1649)](https://www.legislation.gov.uk/uksi/1982/1649), [arts. 1](https://www.legislation.gov.uk/uksi/1982/1649/article/1), [2](https://www.legislation.gov.uk/uksi/1982/1649/article/2)
+
+[^key-c1725aa0b3fcfd27b16f64ad070abccc]: Commencement: Art. 4 in force at on 1.1.1973, see [art. 1](https://www.legislation.gov.uk/uksi/1972/1613/article/1)
+
+[^key-10d0b1ba543a5d276980966c9ffb0468]: Textual amendment: Words in art. 4 substituted (1.1.1983) by [The Immigration (Exemption from Control) (Amendment) Order 1982 (S.I. 1982/1649)](https://www.legislation.gov.uk/uksi/1982/1649), [arts. 1](https://www.legislation.gov.uk/uksi/1982/1649/article/1), [2](https://www.legislation.gov.uk/uksi/1982/1649/article/2)
+
+[^key-d8150114190c879b11ff2e5b57a93373]: Textual amendment: Art. 4(b)(c) substituted (1.2.2021) by [The Bank for International Settlements (International Development Act 2002 and Immigration (Exemption from Control) Order 1972) (Amendment) Order 2021 (S.I. 2021/21)](https://www.legislation.gov.uk/uksi/2021/21), [arts. 1](https://www.legislation.gov.uk/uksi/2021/21/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/21/article/3/2)
+
+[^key-4d1615d0e0fcf20897edb6da2f44370b]: Textual amendment: Art. 4(d) omitted (1.2.2021) by virtue of [The Bank for International Settlements (International Development Act 2002 and Immigration (Exemption from Control) Order 1972) (Amendment) Order 2021 (S.I. 2021/21)](https://www.legislation.gov.uk/uksi/2021/21), [arts. 1](https://www.legislation.gov.uk/uksi/2021/21/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2021/21/article/3/3)
+
+[^key-293f436da177165f228fb918c54a5a4e]: Textual amendment: Words in art. 4(g) inserted (15.5.1977) by [The Immigration (Exemption from Control) (Amendment) Order 1977 (S.I. 1977/693)](https://www.legislation.gov.uk/uksi/1977/693), [arts. 1](https://www.legislation.gov.uk/uksi/1977/693/article/1), [3(a)](https://www.legislation.gov.uk/uksi/1977/693/article/3/a)
+
+[^key-08297c6541b9a571daed2e2116e7a75b]: Textual amendment: Art. 4(j)(k) substituted for art. 4(j) (15.5.1977) by [The Immigration (Exemption from Control) (Amendment) Order 1977 (S.I. 1977/693)](https://www.legislation.gov.uk/uksi/1977/693), [arts. 1](https://www.legislation.gov.uk/uksi/1977/693/article/1), [3(b)](https://www.legislation.gov.uk/uksi/1977/693/article/3/b)
+
+[^key-f495c763f7f2a7ede302c50a491a91ec]: Textual amendment: Art. 4(k)(l) substituted for art. 4(k) (22.12.1985) by [The Immigration (Exemption from Control) (Amendment) Order 1985 (S.I. 1985/1809)](https://www.legislation.gov.uk/uksi/1985/1809), [arts. 1](https://www.legislation.gov.uk/uksi/1985/1809/article/1), [2](https://www.legislation.gov.uk/uksi/1985/1809/article/2)
+
+[^key-8ae815e72f96d9a72e57920c67b59d14]: Textual amendment: Art. 4(l)(m) substituted for art. 4(l) (1.7.1997) by [The Immigration (Exemption from Control) (Amendment) Order 1997 (S.I. 1997/1402)](https://www.legislation.gov.uk/uksi/1997/1402), [arts. 1](https://www.legislation.gov.uk/uksi/1997/1402/article/1), [3](https://www.legislation.gov.uk/uksi/1997/1402/article/3)
+
+[^key-3654caf5bd0e39a0ce1df411c1c74054]: Textual amendment: Art. 4(m)(n) substituted for art. 4(m) (24.9.1997) by [The Immigration (Exemption from Control) (Amendment) (No. 2) Order 1997 (S.I. 1997/2207)](https://www.legislation.gov.uk/uksi/1997/2207), [arts. 1](https://www.legislation.gov.uk/uksi/1997/2207/article/1), [3](https://www.legislation.gov.uk/uksi/1997/2207/article/3)
+
+[^key-5f20208552f2314a3c635dc2d5ae1c99]: Textual amendment: Art. 4(ma) inserted (15.7.2024) by [The Immigration (Exemption from Control) (Amendment) Order 2024 (S.I. 2024/723)](https://www.legislation.gov.uk/uksi/2024/723), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/723/article/1/1), [2](https://www.legislation.gov.uk/uksi/2024/723/article/2)
+
+[^key-1aaa8d31053c9d4a0add3fcea3b5b824]: Textual amendment: Art. 4(mb) inserted (17.7.2025) by [The Immigration (Exemption from Control) (Amendment) Order 2025 (S.I. 2025/663)](https://www.legislation.gov.uk/uksi/2025/663), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/663/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/663/article/2)
+
+[^key-666faf62f21d74ce007d5878eb960ece]: Textual amendment: Art. 4(o) inserted (24.2.2008) by [The Immigration (Exemption from Control) (Amendment) Order 2004 (S.I. 2004/3171)](https://www.legislation.gov.uk/uksi/2004/3171), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3171/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/3171/article/2/2)
+
+[^key-78ceaea0edee2dc749bf39039f5b0793]: Textual amendment: Art. 4A inserted (24.2.2008) by [The Immigration (Exemption from Control) (Amendment) Order 2004 (S.I. 2004/3171)](https://www.legislation.gov.uk/uksi/2004/3171), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3171/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2004/3171/article/2/3)
+
+[^key-1b825b5de2be769661850b1519b59ace]: Commencement: Art. 5 in force at 1.1.1973, see [art. 1](https://www.legislation.gov.uk/uksi/1972/1613/article/1)
+
+[^key-ee349b54e197686152003adfe593081b]: Textual amendment: Words in art. 5(1) substituted (1.1.1983) by [The Immigration (Exemption from Control) (Amendment) Order 1982 (S.I. 1982/1649)](https://www.legislation.gov.uk/uksi/1982/1649), [arts. 1](https://www.legislation.gov.uk/uksi/1982/1649/article/1), [2](https://www.legislation.gov.uk/uksi/1982/1649/article/2)
+
+[^key-e80531932859d0b376872bf34604cd51]: Textual amendment: Words in art. 5(1)(c) inserted (1.6.1975) by [The Immigration (Exemption from Control) (Amendment) Order 1975 (S.I. 1975/617)](https://www.legislation.gov.uk/uksi/1975/617), [arts. 1](https://www.legislation.gov.uk/uksi/1975/617/article/1), [2](https://www.legislation.gov.uk/uksi/1975/617/article/2)
+
+[^key-2b96fd290639b674eab6991f6c1af9a6]: Textual amendment: Art. 5(1)(f) inserted (12.4.2023) by [The Immigration (Offshore Worker Notification and Exemption from Control (Amendment)) Regulations 2023 (S.I. 2023/346)](https://www.legislation.gov.uk/uksi/2023/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/346/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2023/346/regulation/4/2/a)
+
+[^key-46f330dccc4ddcb1f9f18264e14929aa]: Textual amendment: Words in art. 5(2) substituted (12.4.2023) by [The Immigration (Offshore Worker Notification and Exemption from Control (Amendment)) Regulations 2023 (S.I. 2023/346)](https://www.legislation.gov.uk/uksi/2023/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/346/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2023/346/regulation/4/2/b)
+
+[^key-bf3c10194ad49ec2767c26b651b74fbd]: Textual amendment: Art. 5(4) inserted (12.4.2023) by [The Immigration (Offshore Worker Notification and Exemption from Control (Amendment)) Regulations 2023 (S.I. 2023/346)](https://www.legislation.gov.uk/uksi/2023/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/346/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2023/346/regulation/4/2/c)
+
+[^key-3beb2afffe3bd03e4b8f7f2f054d1eda]: Textual amendment: Art. 6 inserted (1.1.1983) by [The Immigration (Exemption from Control) (Amendment) Order 1982 (S.I. 1982/1649)](https://www.legislation.gov.uk/uksi/1982/1649), [arts. 1](https://www.legislation.gov.uk/uksi/1982/1649/article/1), [3](https://www.legislation.gov.uk/uksi/1982/1649/article/3)
+
+[^key-bb0cdda79ff143a38e9dd851954a12d9]: Textual amendment: Art. 7 inserted (28.11.2015) by [The Immigration (Exemption from Control) (Amendment) Order 2015 (S.I. 2015/1866)](https://www.legislation.gov.uk/uksi/2015/1866), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1866/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1866/article/2)
+
+[^key-9d895ba4043d9b5d1e65d52750177e6a]: Commencement: Sch. in force at 1.1.1973, see [art. 1](https://www.legislation.gov.uk/uksi/1972/1613/article/1)
+
+[^key-3ca1547171ed254373eb97a6cabd5b10]: Textual amendment: Word in Sch. inserted (15.5.1977) by [The Immigration (Exemption from Control) (Amendment) Order 1977 (S.I. 1977/693)](https://www.legislation.gov.uk/uksi/1977/693), [arts. 1](https://www.legislation.gov.uk/uksi/1977/693/article/1), [4(a)](https://www.legislation.gov.uk/uksi/1977/693/article/4/a)
+
+[^key-5b1d90addae89fe817484016706be844]: Textual amendment: Words in Sch. inserted (15.5.1977) by [The Immigration (Exemption from Control) (Amendment) Order 1977 (S.I. 1977/693)](https://www.legislation.gov.uk/uksi/1977/693), [arts. 1](https://www.legislation.gov.uk/uksi/1977/693/article/1), [4(b)](https://www.legislation.gov.uk/uksi/1977/693/article/4/b)
+
+[^key-5d126cbab7405699aed965000a7f0b3e]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/1972/1613/schedule) inserted (15.5.1977) by [The Immigration (Exemption from Control) (Amendment) Order 1977 (S.I. 1977/693)](https://www.legislation.gov.uk/uksi/1977/693), [arts. 1](https://www.legislation.gov.uk/uksi/1977/693/article/1), [4(c)](https://www.legislation.gov.uk/uksi/1977/693/article/4/c)

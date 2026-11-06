@@ -1,0 +1,173 @@
+---
+title: The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2014
+id: uksi/2014/2264
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-08-26'
+text_date: '2014-09-26'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/2264
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/2264/pdfs/uksiem_20142264_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2264/pdfs/uksi_20142264_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2264/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2014
+
+> Text as at 2014-09-26.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2014 No. 2264
+
+Road Traffic
+
+The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2014
+
+Made
+
+26th August 2014
+
+Laid before Parliament
+
+5th September 2014
+
+Coming into force
+
+26th September 2014
+
+The Secretary of State for Transport, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001], makes the following Regulations.
+
+The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to the regulation and supervision of qualifications and working conditions of persons engaged in road transport[^f00002].
+
+## 1. Citation and commencement[^key-0a05a20c58e70a123950b77b61ecc78f]
+
+These Regulations may be cited as the Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2014 and come into force on 26th September 2014.
+
+## 2. Amendment of Regulations[^key-6a9dee6ac7900f67d328d4554dc8467f]
+
+The Vehicle Drivers (Certificates of Professional Competence) Regulations 2007[^f00003] are amended as set out in regulations 3 to 7.
+
+**3.**[^key-dd2ad88952400298c9da4b8062dc6e51] In regulation 2—
+
+- (a) for the definition of “the Directive” substitute—
+
+  > - “the Directive” means [Directive 2003/59/EC](https://www.legislation.gov.uk/european/directive/2003/0059) of the European Parliament and of the Council on the initial qualification and periodic training of drivers of certain road vehicles for the carriage of goods or passengers[^f00004];
+
+  ;
+- (b) after the definition of “CPC” insert—
+
+  > - “driver card” has the meaning given by Article 2(2)(f) of Regulation (EU) No 165/2014 of the European Parliament and of the Council on tachographs in road transport[^f00005];
+
+  .
+
+**4.**[^key-9b5d70d118fd7fa028dbd06383d19554] In regulation 5A[^f00006], in paragraph (3), insert the words “or a valid driver card” after “passport”.
+
+**5.**[^key-bd194fa70306a726e73f751969ad30df] In regulation 6[^f00007], for paragraph (11) substitute—
+
+> (11) A person conducting a periodic training course must be satisfied as to the identity of the person taking the course before the course commences from—
+>
+> - (a) an appropriate licence as defined in regulation 5A(4);
+> - (b) a valid passport;
+> - (c) a valid driver card; or
+> - (d) a valid driver qualification card.
+
+.
+
+**6.**[^key-cf71a1ce5cf348aa06905e949d02344b] In regulation 6A[^f00008]—
+
+- (a) in the heading, for “Appeals” substitute “Appeals in relation to Great Britain”; and
+- (b) in paragraph (1), after “competent authority” insert “in relation to Great Britain”.
+
+**7.**[^key-57643658d27d8d26ce4d20b327ac6701] After regulation 6A, insert—
+
+> **6B. Review and Appeal of decisions in relation to Northern Ireland**
+>
+> (1) A person who is aggrieved by a decision of the competent authority in relation to Northern Ireland—
+>
+> - (a) not to approve a person to provide periodic training courses under regulation 6(3)(a);
+> - (b) not to approve a periodic training course which a person wishes to provide under regulation 6(3)(b);
+> - (c) to withdraw or suspend an approval under regulation 6(7); or
+> - (d) not to approve a training course under regulation 6(9),
+>
+> may by notice in writing to that competent authority apply for a review of the decision within 28 days of the date on which notice of the decision was sent.
+>
+> (2) Following a review under paragraph (1) the competent authority may grant, refuse, withdraw, suspend or continue an approval (as the case may be) as it thinks fit.
+>
+> (3) The competent authority must, within 56 days beginning with the day on which the application for review was made, give notice in writing of the review decision to the aggrieved person setting out the particulars of the reasons for its decision.
+>
+> (4) A person who is aggrieved by a review decision may appeal to a court of summary jurisdiction.
+
+.
+
+Signed by authority of the Secretary of State for Transport
+
+Baroness Kramer
+
+Minister of State
+
+Department for Transport
+
+26th August 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Vehicle Drivers (Certificates of Professional Competence) Regulations 2007 (the “2007 Regulations”) to implement the amendments made to Council [Directive 2003/59/EC](https://www.legislation.gov.uk/european/directive/2003/0059) on the initial qualification and periodic training of drivers of certain road vehicles for the carriage of goods or passengers by Council Directive 2013/22/EU adapting certain directives in the field of transport policy by reason of the accession of the Republic of Croatia. There are also amendments made to the 2007 Regulations to amend the identity document requirements for persons attending an initial certificate of professional competence (CPC) test or a periodic training course, and introducing a review and appeals process for Northern Ireland.
+
+Regulation 3(a) replaces the definition of the Directive in order to incorporate the amendments made to the Council [Directive 2003/59/EC](https://www.legislation.gov.uk/european/directive/2003/0059) by Council Directive 2013/22/EU on the accession of Croatia which are inserting Croatia into the list of distinguishing signs of Member States which are printed on the driver qualification card, inserting the Croatian translation of ‘driver qualification card’ printed in blue on the background of the driver qualification card and inserting Croatian into the list of national languages in which a bilingual version of a driver qualification card can be issued.
+
+Regulation 4 amends regulation 5A of the 2007 Regulations to permit a person attending an initial CPC test to use a valid driver card as proof of the person’s identity.
+
+Regulation 5 amends regulation 6 of the 2007 Regulations to change the documents which can be used by a person conducting a periodic training course to satisfy themselves of the identity of a person attending the periodic training course. A person can now produce any one of an appropriate licence, a valid passport, a valid driver card or a valid driver qualification card.
+
+Regulation 6 amends regulation 6A of the 2007 Regulations to clarify that regulation 6A only applies to appeals of decisions made by the competent authority for Great Britain.
+
+Regulation 7 introduces a review and appeal process for persons who are aggrieved by decisions made by the competent authority in relation to Northern Ireland not to approve a person to provide a periodic training course, not to approve a periodic training course, to withdraw or suspect an approval or not to approve a training course. The competent authority may grant, refuse, withdraw, suspend or continue an approval and must give notice in writing of the review decision and the particulars for its decision within 56 days from the date of application. If a person is aggrieved by the review decision they can appeal to a court of summary jurisdiction.
+
+An Impact Assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen. An Explanatory Memorandum is published alongside the instrument on www.legislation.gov.uk.
+
+It is normal practice to make available to Parliament, alongside primary or secondary legislation giving effect to European Directives, a Transposition Note that sets out how the Government will transpose the main elements of those Directives into UK law. However, in the present case a Transposition Note has not been made available. This is because, in the Government’s view, the resources required to produce a Transposition Note are significantly greater than can be justified by the resulting added benefit to the reader.
+
+Copies of the Council Directives referred to above can be found at http://eur-lex.europa.eu .
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), section 27(1) and by the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7), Schedule, Part 1.
+
+[^f00002]: Footnote: [S.I. 1975/1707](https://www.legislation.gov.uk/uksi/1975/1707).
+
+[^key-0a05a20c58e70a123950b77b61ecc78f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2264/regulation/1) in force at 26.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2264/regulation/1)
+
+[^key-6a9dee6ac7900f67d328d4554dc8467f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2264/regulation/2) in force at 26.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2264/regulation/1)
+
+[^f00003]: Footnote: [S.I. 2007/605](https://www.legislation.gov.uk/uksi/2007/605).
+
+[^key-dd2ad88952400298c9da4b8062dc6e51]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/2264/regulation/3) in force at 26.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2264/regulation/1)
+
+[^f00004]: Footnote: OJ No L 226, 10.9.2003, p. 4; relevant amending instruments are Council [Directive 2004/66/EC](https://www.legislation.gov.uk/european/directive/2004/0066), OJ No L 168, 1.5.2004, p. 35; Council [Directive 2006/103/EC](https://www.legislation.gov.uk/european/directive/2006/0103), OJ No L 363, 20.12.2006, p. 344; Regulation [(EC) No 1137/2008](https://www.legislation.gov.uk/european/regulation/2008/1137) of the European Parliament and of the Council, OJ No L 311, 21.11.2008, p. 1; Council Directive 2013/22/EU, OJ No L 158, 10.6.2013, p. 356.
+
+[^f00005]: Footnote: OJ No L 60, 28.2.2014, p. 1.
+
+[^key-9b5d70d118fd7fa028dbd06383d19554]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/2264/regulation/4) in force at 26.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2264/regulation/1)
+
+[^f00006]: Footnote: Regulation 5A(3) was inserted by [S.I. 2008/1965](https://www.legislation.gov.uk/uksi/2008/1965).
+
+[^key-bd194fa70306a726e73f751969ad30df]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/2264/regulation/5) in force at 26.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2264/regulation/1)
+
+[^f00007]: Footnote: Regulation 6(11) was inserted by [S.I. 2008/1965](https://www.legislation.gov.uk/uksi/2008/1965).
+
+[^key-cf71a1ce5cf348aa06905e949d02344b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2264/regulation/6) in force at 26.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2264/regulation/1)
+
+[^f00008]: Footnote: Regulation 6A(1) was inserted by [S.I. 2008/1965](https://www.legislation.gov.uk/uksi/2008/1965) and amended by [S.I. 2009/1885](https://www.legislation.gov.uk/uksi/2009/1885).
+
+[^key-57643658d27d8d26ce4d20b327ac6701]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/2264/regulation/7) in force at 26.9.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2264/regulation/1)

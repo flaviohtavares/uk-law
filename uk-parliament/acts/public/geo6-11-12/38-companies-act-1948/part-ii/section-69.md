@@ -1,0 +1,29 @@
+---
+title: Companies Act 1948, section 69
+act: Companies Act 1948
+section: '69'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ukpga/Geo6/11-12/38/section/69
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies Act 1948, section 69
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 69. Registration of order and minute of reduction.
+
+(1) The registrar of companies, on production to him of an order of the court confirming the reduction of the share capital of a company, and the delivery to him of a copy of the order and of a minute approved by the court showing, with respect to the share capital of the company as altered by the order, the amount of the share capital, the number of shares into which it is to be divided, and the amount of each share, and the amount, if any, at the date of the registration deemed to be paid up on each share, shall register the order and minute.
+
+(2) On the registration of the order and minute, and not before, the resolution for reducing share capital as confirmed by the order so registered shall take effect.
+
+(3) Notice of the registration shall be published in such manner as the court may direct.
+
+(4) The registrar shall certify under his hand the registration of the order and minute, and his certificate shall be conclusive evidence that all the requirements of this Act with respect to reduction of share capital have been complied with, and that the share capital of the company is such as is stated in the minute.
+
+(5) The minute when registered shall be deemed to be substituted for the corresponding part of the memorandum, and shall be valid and alterable as if it had been originally contained therein.
+
+(6) The substitution of any such minute as aforesaid for part of the memorandum of the company shall be deemed to be an alteration of the memorandum within the meaning of section twenty-five of this Act.

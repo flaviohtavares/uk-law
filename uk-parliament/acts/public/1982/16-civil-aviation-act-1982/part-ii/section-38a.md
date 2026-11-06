@@ -1,0 +1,66 @@
+---
+title: Civil Aviation Act 1982, section 38A
+act: Civil Aviation Act 1982
+section: 38A
+status: revised-with-pending-changes
+text_date: '2024-01-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1982/16/section/38A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Civil Aviation Act 1982, section 38A
+
+> **Warning: changes not yet applied to this text (29).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/16
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 38A. Noise control schemes[^c19381731]
+
+*Extent: E+W+S*
+
+(1) An aerodrome operator may establish and maintain a scheme (referred to in this section and sections 38B and 38C below as a “noise control scheme”) for the purpose of avoiding, limiting or mitigating the effect of noise connected with the taking off or landing of aircraft at the aerodrome.
+
+(2) A noise control scheme may—
+
+- (a) require operators of aircraft which are to take off or land at the aerodrome to secure that specified requirements are complied with in relation to the aircraft after they take off, or before they land, at the aerodrome;
+- (b) prohibit aircraft of specified descriptions from taking off or landing at the aerodrome during specified periods;
+- (c) specify the maximum number of occasions on which aircraft of specified descriptions may take off or land at the aerodrome during specified periods;
+- (d) impose other restrictions for limiting the cumulative amount of noise caused by aircraft of specified descriptions taking off or landing at the aerodrome during specified periods.
+
+In this subsection “ **specified** ” means specified in the scheme.
+
+(3) A noise control scheme which contains—
+
+- (a) provision under paragraph (c) of subsection (2) above, or
+- (b) provision under paragraph (d) of that subsection which has the effect of limiting the number of occasions on which aircraft may take off or land at the aerodrome during the periods specified under that paragraph,
+
+shall make provision for determining the matters mentioned in subsection (4).
+
+(4) The matters mentioned in this subsection are—
+
+- (a) the persons who shall be entitled to arrange for aircraft of which they are the operators to take off or land at the aerodrome during the periods in question, and
+- (b) as respects each of those persons, the number of occasions (whether determined by reference to a maximum number or otherwise) on which aircraft of a particular description of which he is the operator may take off or land at the aerodrome during those periods.
+
+(5) Before making, amending or revoking any provision in a noise control scheme by virtue of subsection (3) above the aerodrome operator shall consult any body appearing to it to be representative of operators of aircraft using the aerodrome.
+
+(6) A noise control scheme may make provision as respects any period even if that period is included in, or there is included in that period, any other period as respects which provision relating to the aerodrome is made by the scheme.
+
+(7) A noise control scheme may—
+
+- (a) provide for circumstances in which the scheme (or any provision of the scheme) is not to apply,
+- (b) contain such incidental or supplementary provisions as the aerodrome operator considers appropriate, and
+- (c) be amended or revoked by the aerodrome operator.
+
+(8) A noise control scheme shall not be established in relation to an aerodrome which is designated for the purposes of section 78 of this Act; and on such a designation coming into force in relation to an aerodrome any noise control scheme which has effect in relation to the aerodrome shall cease to have effect.
+
+(9) The amendment or revocation of a noise control scheme, or its ceasing to have effect by virtue of subsection (8) above, shall not affect the validity of anything previously done under the scheme.
+
+(10) The powers conferred on an aerodrome operator by this section and sections 38B and 38C below are in addition to, and do not prejudice, any other power of the aerodrome operator to take steps for the purpose of avoiding, limiting or mitigating the effect of noise connected with the taking off or landing of aircraft at the aerodrome.
+
+(11) In this section and sections 38B and 38C below “ **aerodrome operator** ” means a person owning or managing an aerodrome.
+
+## Annotations
+
+[^c19381731]: Textual amendment: Ss. 38A-38C inserted (E.W.S.) (1.3.2007) by [Civil Aviation Act 2006 (c. 34)](https://www.legislation.gov.uk/ukpga/2006/34), [ss. 4](https://www.legislation.gov.uk/ukpga/2006/34/section/4), [14](https://www.legislation.gov.uk/ukpga/2006/34/section/14); [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)

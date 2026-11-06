@@ -1,0 +1,35 @@
+---
+title: Companies (Consolidation) Act 1908, section 192
+act: Companies (Consolidation) Act 1908
+section: '192'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ukpga/Edw7/8/69/section/192
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies (Consolidation) Act 1908, section 192
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 192. Power of liquidator to accept shares, &c. as consideration for sale of property of company.
+
+(1) Where a company is proposed to be, or is in course of being, wound up altogether voluntarily, and the whole or part of its business or property is proposed to be transferred or sold to another company (in this section called the transferee company,) the liquidator of the first-mentioned company (in this section called the transferor company) may, with the sanction of a special resolution of that company, conferring either a general authority on the liquidator or an authority in respect of any particular arrangement, receive in compensation or part compensation for the transfer or sale, shares, policies, or other like interests in the transferee company, for distribution among the members of the transferor company, or may enter into any other arrangement whereby the members of the transferor company may, in lieu of 'receiving cash, shares, policies, or other like interests, or in addition thereto, participate in the profits of or receive any other benefit from the transferee company.
+
+(2) Any sale or arrangement in pursuance of this section shall be binding on the members of the transferor company.
+
+(3) If any member of the transferor company who did not vote in favour of the special resolution at either of the meetings held for passing and confirming the same expresses his dissent therefrom in writing addressed to the liquidator, and left at the registered office of the company within seven days after the confirmation of the resolution, he may require the liquidator either to abstain from carrying the resolution into effect, or to purchase his interest at a price to be determined by agreement or by arbitration in manner provided by this section.
+
+(4) If the liquidator elects to purchase the member's interest the purchase money must be paid before the company is dissolved, and be raised by the liquidator in such manner as may be determined by special resolution.
+
+(5) A special resolution shall not be invalid for the purposes of this section by reason that it is passed before or concurrently with a resolution for winding up the company, or for appointing liquidators ; but, if an order is made within a year for winding up the company by or subject to the supervision of the court, the special resolution shall not be valid unless sanctioned by the court.
+
+(6) For the purposes of an arbitration under this section the provisions of the [^m00012]Companies Clauses Consolidation Act, 1845, or, in the case of a winding-up in Scotland, the [^m00013]Companies Clauses Consolidation (Scotland) Act, 1845, with respect to the settlement of disputes by arbitration, shall be incorporated with this Act; and in the construction of those provisions this Act shall be deemed to be the special Act, and “**the company**” shall mean the transferor company, and any appointment by the said incorporated provisions directed to be made under the hand of the secretary, or any two of the directors, may be made under the hand of the liquidator, or, if there is more than one liquidator, then of any two or more of the liquidators.
+
+## Annotations
+
+[^m00012]: Marginal citation: [8 & 9 Vict. c. 16](https://www.legislation.gov.uk/ukpga/1845/16).
+
+[^m00013]: Marginal citation: [8 & 9 Vict. c. 17](https://www.legislation.gov.uk/ukpga/1845/17).

@@ -1,0 +1,99 @@
+---
+title: The London Docklands Development Corporation (Vesting of Land) (London Borough of Southwark) Order 1989
+id: uksi/1990/1241
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1989-06-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1990/1241
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1990/1241/pdfs/uksi_19901241_en.pdf
+- http://www.legislation.gov.uk/uksi/1990/1241/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The London Docklands Development Corporation (Vesting of Land) (London Borough of Southwark) Order 1989
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1990 No. 1241
+
+URBAN DEVELOPMENT
+
+The London Docklands Development Corporation (Vesting of Land) (London Borough of Southwark) Order 1989
+
+Approved by both Houses of Parliament
+
+Made
+
+7th June 1989
+
+Laid before Parliament
+
+14th June 1989
+
+Coming into force
+
+23rd May 1990
+
+The Secretary of State for the Environment, in exercise of the powers conferred on him by section 141(1) of the Local Government, Planning and Land Act 1980[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Order:
+
+## 1. Citation and commencement
+
+This Order may be cited as the London Docklands Development Corporation (Vesting of Land) (London Borough of Southwark) Order 1989 and shall come into force on the day after the day on which it is approved by resolution of each House of Parliament.
+
+## 2. Interpretation
+
+(1) In this Order–
+
+- “the Corporation” means the London Docklands Development Corporation;
+- “statutory undertakers” does not include any statutory undertakers in relation to whom the Secretary of State for the Environment is not the appropriate Minister[^f00002];
+- “urban development area” means the area designated as an urban development area by the London Docklands Development Corporation (Area and Constitution) Order 1980[^f00003].
+
+(2) Any reference in this Order to a map followed immediately by a number is a reference to the map so numbered in the set of maps numbered 1 and 2 entitled “Maps referred to in the London Docklands Development Corporation (Vesting of Land) (London Borough of Southwark) Order 1989”, of which prints, signed by an Under Secretary in the Department of the Environment are deposited and available for inspection at the offices of the Secretary of State for the Environment, the council of the London borough of Southwark and the Corporation.
+
+(3) Any reference in this Order to a numbered plot is a reference to the plot so numbered and shown bounded externally with a black line and stippled on a numbered map.
+
+## 3. Vesting of Land
+
+The land described in the Schedule hereto, and now vested in the council of the London borough of Southwark or in another local authority or statutory undertakers or other public body or in a subsidiary of any of them, being land within the urban development area, is hereby vested in the Corporation.
+
+## 4. Easements and rights in or over land
+
+All existing easements and rights in or over other land within the urban development area which are vested in an authority or body mentioned in article 3 above, and which are annexed or appurtenant to land vested by that article or any part thereof, are hereby vested in the Corporation.
+
+[image: see source](https://www.legislation.gov.uk/uksi/1990/1241/images/uksi_19901241_en_001)
+
+Nicholas Ridley
+
+Secretary of State for the Environment
+
+7th June 1989
+
+## THE SCHEDULE — LAND VESTED IN THE CORPORATION
+
+Article 3
+
+| *Plot Number* |  |
+| --- | --- |
+| 1 | Approximately 0.008 hectares of land, at Rotherhithe Street, in the London borough of Southwark, shown on map 1. |
+| 2 | Approximately 0.06 hectares of land, at Bermondsey Wall West, in the London borough of Southwark, shown on map 2. |
+
+(This note is not part of the Order)
+
+This Order vests in the London Docklands Development Corporation certain land which is at present vested in the council of the London borough of Southwark (or in another body mentioned in section 141(1) of the Local Government, Planning and Land Act 1980), and related easements and similar rights. The land is shown coloured black on the map forming part of this note.
+
+The land and rights are in the area designated by the London Docklands Development Corporation (Area and Constitution) Order 1980, which establishes the London Docklands Development Corporation.
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
+
+[^f00002]: Footnote: As to “appropriate Minister” see section 170(3) of the Local Government, Planning and Land Act 1980.
+
+[^f00003]: Footnote: S.I. [1981/936](https://www.legislation.gov.uk/uksi/1981/936), amended by S.I. [1981/937](https://www.legislation.gov.uk/uksi/1981/937).

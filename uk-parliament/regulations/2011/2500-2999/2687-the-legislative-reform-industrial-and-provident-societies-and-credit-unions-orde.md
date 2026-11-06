@@ -1,0 +1,538 @@
+---
+title: The Legislative Reform (Industrial and Provident Societies and Credit Unions) Order 2011
+id: uksi/2011/2687
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-11-08'
+text_date: '2014-08-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2011/2687
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/2687/pdfs/uksiem_20112687_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2687/pdfs/uksi_20112687_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2687/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Legislative Reform (Industrial and Provident Societies and Credit Unions) Order 2011
+
+> Text as at 2014-08-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2011 No. 2687
+
+Regulatory Reform
+
+The Legislative Reform (Industrial and Provident Societies and Credit Unions) Order 2011
+
+Made
+
+8th November 2011
+
+Coming into force in accordance with article 1
+
+The Treasury, in exercise of the power conferred by section 1 of the Legislative and Regulatory Reform Act 2006[^f00001], make the following Order.
+
+For the purposes of section 3(1) of that Act, they consider, where relevant, that the conditions in section 3(2) are satisfied.
+
+They have consulted in accordance with section 13(1) and (2) of that Act.
+
+They have laid a draft Order and an explanatory document before Parliament in accordance with section 14(1) of that Act.
+
+Pursuant to section 15 of that Act, the super-affirmative resolution procedure (within the meaning of Part 1 of that Act) applies in relation to the making of the Order.
+
+The period of 60 days referred to in section 18(2) of that Act has expired.
+
+In accordance with section 18(2) of that Act, they have had regard to any representations, resolutions and recommendations made during that period and in particular to the Eighth Report of Session 2009-10 of the House of Lords Delegated Powers and Regulatory Reform Committee (published on 25th March 2010) and the Second Report of Session 2009-10 of the House of Commons Regulatory Reform Committee (published on 29th March 2010).
+
+In accordance with section 18(7) of that Act, they have laid a revised draft Order before Parliament together with a statement.
+
+In accordance with section 18(8) of that Act, the revised draft Order has been approved by resolution of each House of Parliament.
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and extent[^key-5c9f3e4cb9c5985ee17484b31e48aa70]
+
+(1) This Order may be cited as the Legislative Reform (Industrial and Provident Societies and Credit Unions) Order 2011 and shall come into force as follows—
+
+- (a) article 15(4)(a) at the same time that section 5(2) of the Co-operative and Community Benefit Societies and Credit Unions Act 2010[^f00002] comes into force; and
+- (b) the remainder at the end of the period of two months beginning with the date on which it is made.
+
+(2) This Order extends to Great Britain only, except article 22 which also extends to Northern Ireland.
+
+### 2. Interpretation[^key-ee85381a1c7de7469557d4c14dc17468]
+
+In this Order—
+
+- “the 1965 Act” means the Industrial and Provident Societies Act 1965[^f00003];
+- “the 1968 Act” means the Friendly and Industrial and Provident Societies Act 1968[^f00004];
+- “the 1979 Act” means the Credit Unions Act 1979[^f00005].
+
+## PART 2 — Industrial and Provident Societies
+
+### 3. Maximum shareholding in society[^key-28f644791c07e6e6fd6c3d59daf24145]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Annual return[^key-28f644791c07e6e6fd6c3d59daf24145]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-28f644791c07e6e6fd6c3d59daf24145] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-28f644791c07e6e6fd6c3d59daf24145] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — Industrial and Provident Societies and Credit Unions
+
+### 7. Provision of copies of rules[^key-28f644791c07e6e6fd6c3d59daf24145]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Members under 18[^key-3fbdbcfe45f43a1797b54b107cde1757]
+
+(1)[^key-e891e75354ef6d1178b0aad5bce49776] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In section 9[^f00011] of the 1979 Act (deposits by persons too young to be members), for “section 20 of the 1965 Act” substitute “any provision of the credit union’s rules”.
+
+### 9. Dissolution[^key-d46ce39762e9612868e4fdc73bb684a9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Publication of interim accounts[^key-34c2217aaacbf38c2b2bdd9901e99264]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Credit Unions
+
+**11.**[^key-927b3114597628c63bf7b1f31f757e2f] Articles 12 to 21 amend the 1979 Act.
+
+### 12. Common bonds[^key-f7770c53bad0c40c0163323219a179e3]
+
+(1) Section 1[^f00016] (registration under the Industrial and Provident Societies Act 1965) is amended as follows.
+
+(2) For subsection (2)(b) substitute—
+
+> - (b) that the requirements of section 1A (common bonds appropriate to a credit union) and, where applicable, section 1B (further requirements where common bond relates to locality) are met.
+
+(3) After subsection (3) insert—
+
+> (3ZA) In subsection (3) above references to members do not include corporate members. 
+
+(4) Omit subsections (3A) to (6).
+
+**13.**[^key-af37345576cd8e2519e3c3bbb769645e] After section 1 insert—
+
+> **1A. Common bonds appropriate to a credit union**
+>
+> (1) Under the rules of the society admission to membership must be restricted to persons who fall within one or more common bonds appropriate to a credit union (whether or not any other qualifications for admission to membership are required under the rules).
+>
+> (2) The common bonds appropriate to a credit union are—
+>
+> - (a) following a particular occupation;
+> - (b) being employed by a particular employer;
+> - (c) residing or being employed in a particular locality;
+> - (d) being a member of a bona fide organisation or being otherwise associated with other members of the society for a purpose other than that of forming a society to be registered as a credit union;
+> - (e) any other common bond for the time being approved by the Authority.
+>
+> (3) If the rules of a credit union so provide, a person who is a member of the same household as, and is a relative of, another person who is a member of the credit union and falls directly within a common bond is treated as also falling within that common bond.
+>
+> (4) For the purposes of this section, a body corporate or a person applying for membership in his capacity as a partner in a partnership or an officer or member of the governing body of an unincorporated association—
+>
+> - (a) falls within the common bond specified in paragraph (a) of subsection (2) if the principal business of the body corporate, partnership or unincorporated association—
+>   - (i) requires it to employ or otherwise engage persons who follow that occupation, or
+>   - (ii) relates to that occupation in some other way;
+> - (b) falls within the common bond specified in paragraph (b) of that subsection if the body corporate, partnership or unincorporated association—
+>   - (i) employs the persons who qualify for membership under that common bond, or
+>   - (ii) provides services, or is otherwise related, to that employer;
+> - (c) falls within the common bond specified in paragraph (c) of that subsection if the body corporate, partnership or unincorporated association has a place of business in, or other significant connection with, that locality; and
+> - (d) falls within the common bond specified in paragraph (d) of that subsection if the body corporate, partnership or unincorporated association is a member of a bona fide organisation or otherwise associated with other members of the society for the purpose specified in that paragraph.
+>
+> (5) The Authority may accept as sufficient evidence that the requirement of this section is met a statutory declaration to that effect given by three members and the secretary of the society.
+>
+> **1B. Further requirements where common bond relates to locality**
+>
+> (1) The requirements of this section must be met where—
+>
+> - (a) the rules of a society provide for one or more common bonds involving a connection with a locality, or
+> - (b) the rules of a society provide for one or more common bonds of such other description as may be specified.
+>
+> (2) The requirements are—
+>
+> - (a) that the conditions in subsection (3) are met, or
+> - (b) that extraordinary circumstances exist justifying registration of the society as a credit union.
+>
+> (3) The conditions are—
+>
+> - (a) that the number of potential members of the society does not exceed two million or such higher figure as may be specified; and
+> - (b) that it is reasonably practicable for every potential member to participate in votes of the society, serve on the society’s committee and have access to all the services offered by the society.
+>
+> (4) The Authority may accept as sufficient evidence that the conditions in subsection (3) are met a statutory declaration to that effect given by three members and the secretary of the society.
+>
+> (5) In this section “specified” means specified by order made by the Treasury.
+
+**14.**[^key-66ee9b40fab1e4ea1a3a4c7f336af780] (1) In section 5 (membership and voting rights)—
+
+- (a) in subsection (5), for “ceases to fulfil the qualifications for admission to membership” substitute “ceases to fall within a common bond and as a result would not qualify for admission to membership”;
+- (b) in subsection (7), for “whether a common bond exists between the members of the credit union” substitute “whether the requirements of section 1B are met”.
+
+(2) In section 20[^f00017] (cancellation or suspension of registration and petition for winding up)—
+
+- (a) in subsection (1)(b), for “there is no longer a common bond between the members of a credit union” substitute “the rules of a credit union provide for one or more common bonds involving a connection with a locality and the requirements of section 1B are no longer met”;
+- (b) in subsection (2), for paragraph (c) substitute—
+
+  > - (c) the rules of a credit union provide for one or more common bonds involving a connection with a locality and the requirements of section 1B are no longer met;
+
+  .
+
+(3) In section 21[^f00018] (amalgamations and transfers of engagements)—
+
+- (a) in subsection (3), for paragraph (b), substitute—
+
+  > - (b) section 1B (further requirements where common bond relates to locality) would apply to the proposed amalgamated credit union or, as the case may be, the credit union proposing to accept the transfer of engagements and the requirements of that section would not be met.
+
+  ;
+- (b) in subsection (4), for “does not fulfil the qualifications for admission to membership” substitute “does not fall within a common bond and as a result does not qualify for admission to membership”.
+
+(4) In Schedule 1 (matters to be provided for in rules of credit union), for paragraph 4 substitute—
+
+> **4.** The qualifications for admission to membership of the society, including one or more common bonds appropriate to a credit union.
+>
+> **4A.** The terms of admission to membership of the society, including any special provision for the insurance of members in relation to their shares.
+
+### 15. Corporate members[^key-378e410f21dea56e6add53ad60cb6584][^key-2912d6d46d72785fc5004a84b189c140][^key-1e2cc7562ee28ea4147ac2c137a09855]
+
+(1)[^key-378e410f21dea56e6add53ad60cb6584] In section 5, omit subsection (1).
+
+(2)[^key-378e410f21dea56e6add53ad60cb6584] After section 5 insert—
+
+> **5A. Corporate members**
+>
+> (1) A credit union may admit bodies corporate as members if its rules so provide.
+>
+> (2) The number of corporate members of a credit union shall not at any time exceed ten per cent of the total number of members of the credit union or such higher percentage as may be specified.
+>
+> (3) The number of shares allotted to corporate members of a credit union shall not at any time exceed twenty-five per cent of the total shares allotted to all members of the credit union or such higher percentage as may be specified.
+>
+> (4) For the purpose of subsection (3) above, the total shares allotted to all members of the credit union shall be that found in the most recent year-end balance sheet submitted to the Authority.
+>
+> (5) In this section—
+>
+> - (a) “specified” means specified by order made by the Treasury;
+> - (b) “shares” means shares other than deferred shares.
+>
+> (6) In this Act “corporate member”, in relation to a credit union, means—
+>
+> - (a) a body corporate which is a member of the credit union;
+> - (b) an individual who is a member of the credit union in his capacity as a partner in a partnership; or
+> - (c) an individual who is a member of the credit union in his capacity as an officer or member of the governing body of an unincorporated association.
+
+(3)[^key-378e410f21dea56e6add53ad60cb6584] In section 11[^f00019] (loans)—
+
+- (a) in subsection (1), at the beginning, insert “Subject as follows,”;
+- (b) after subsection (1) insert—
+
+  > (1A) A credit union may only make a loan to a corporate member if—
+  >
+  > - (a) the credit union’s rules provide that it may make loans to corporate members, and
+  > - (b) making the loan would not result in the aggregate of the outstanding balances on loans made by the credit union to corporate members exceeding ten per cent of the aggregate of the outstanding balances on all loans made by the credit union to members, or such higher percentage as may be specified.
+
+(4) In section 29[^f00020] (orders and regulations)—
+
+- (a)[^key-2912d6d46d72785fc5004a84b189c140] in subsection (2), after “Except as provided by section 23A(7),” insert “and”;
+- (b)[^key-1e2cc7562ee28ea4147ac2c137a09855] in subsection (2), before “A statutory instrument” insert “Subject to subsection (3),”;
+- (c)[^key-1e2cc7562ee28ea4147ac2c137a09855] after subsection (2) insert—
+
+  > (3) A statutory instrument containing an order under section 5A or section 11(1A) of this Act may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(5)[^key-1e2cc7562ee28ea4147ac2c137a09855] In section 31(1)[^f00021] (interpretation)—
+
+- (a) above the definition of “charitable” insert—
+
+  > - “body corporate” includes a partnership regarded as a legal person under the law of the country or territory in which it was established;
+- (b) after the definition of “civil partner” insert—
+
+  > - “corporate member”, in relation to a credit union, has the meaning assigned to it by section 5A above;
+- (c) after the definition of “Part IV permission” insert—
+
+  > - “partnership” means a partnership not regarded as a legal person under the law of the country or territory in which it was established;
+
+(6)[^key-1e2cc7562ee28ea4147ac2c137a09855] In Schedule 1, for paragraph 13[^f00022] substitute—
+
+> **13.** Provision for—
+>
+> - (a) terminating the membership of corporate members in order to comply with the limit on the number of corporate members (see section 5A above); and
+> - (b) the repayment of the shares held by a corporate member in any case where—
+>   - (i) the membership is terminated to comply with the limit on the number of corporate members, or
+>   - (ii) the shares must be repaid in order to comply with the limit on shares allotted to corporate members (see section 5A above).
+
+### 16. Non-qualifying members[^key-a54fbbcb46c562cc3f9f385cad05e522]
+
+In section 5—
+
+- (a) in subsection (5) omit “, subject to subsection (6) below,”;
+- (b) omit subsection (6).
+
+### 17. Deferred shares[^key-1f73badbdf6acc1a290b2002c2ab5be9]
+
+(1) In section 7 (shares)—
+
+- (a) in subsection (2), after “Shares in a credit union” insert “, other than deferred shares,”;
+- (b) in subsection (4), after “shares in a credit union” insert “, other than deferred shares,”;
+- (c) at the end, insert—
+
+  > (6) If deferred shares are subscribed for in full, the credit union shall transfer a sum equal to the amount paid on those shares to its reserves.
+
+(2) In section 11 after subsection (1A) as inserted by article 15(3)(b) insert—
+
+> (1B) Subsection (1) does not apply in relation to a member holding only deferred shares. 
+
+(3) In section 11A(1)(b)[^f00023] (loans to be treated as secured) after “the member’s paid-up shareholding in the credit union” insert “, excluding any deferred shares,”.
+
+(4) After section 31 insert—
+
+> **31A.** (1) In this Act, references to deferred shares are to a class of shares where—
+>
+> - (a) the rights and obligations of the credit union and the member in respect of those shares are set out in a single document, or in a series of documents (“the issue documents”);
+> - (b) each of the issue documents is provided to every applicant for the shares;
+> - (c) one of the issue documents contains a prominent statement to the effect that the shares are deferred shares for the purposes of this Act;
+> - (d) each of the issue documents contains a prominent statement stating whether the shares are, or are not, an investment covered by the Financial Services Compensation Scheme (see section 213 of the Financial Services and Markets Act 2000);
+> - (e) any document evidencing title to the shares contains the statements required by paragraphs (c) and (d) above;
+> - (f) one of the issue documents contains a term which prohibits the repayment of any principal to the shareholder except in Case A or Case B.
+>
+> (2) Case A is the winding up or dissolution of the credit union in circumstances where all sums due from the credit union to creditors claiming in the winding up or dissolution are paid in full.
+>
+> (3) Case B is where—
+>
+> - (a) the credit union applies to the Authority for consent to repay principal to the shareholder,
+> - (b) the credit union so applies otherwise than in consequence of a provision in any of the issue documents which requires it to apply, grants it any benefit for applying or imposes a sanction against failure to apply, and
+> - (c) the Authority grants consent.
+>
+> (4) “Creditors” in subsection (2) above includes members holding shares, other than deferred shares, in the credit union, as regards the principal of those shares and any interest or dividend due on them.
+>
+> (5) On any modification of the definition of “deferred shares” in the Building Societies Act 1986 or an instrument made under that Act, the Treasury may, by order, modify the meaning of deferred shares in this section so as to assimilate it to the modified definition.
+
+### 18. Attachment of shares[^key-94f0a37dfafce411a84d29e8f4d4a505]
+
+(1) In section 7[^f00024]—
+
+- (a) in subsection (4), after “subsection (5)” insert “and section 11(1C)”;
+- (b) for subsection (5) substitute—
+
+  > (5) Where a credit union has made a loan to a member which is treated by virtue of section 11A(2) below as a secured loan, the member shall not be permitted to withdraw shares where his paid-up shareholding, excluding any deferred shares, in the credit union is, or following the withdrawal would be, less than his total liability (including contingent liability) to the credit union whether as borrower, guarantor or otherwise.
+
+(2) In section 11, after subsection (1B) (inserted by article 17(2)) insert—
+
+> (1C) Where a loan by a credit union is made to a member and is not a secured loan within the meaning of section 11A below, the terms of the loan must include provision as to whether, for the duration of the loan, the borrower is permitted to withdraw shares where his paid-up shareholding (excluding any deferred shares) in the credit union is, or following the withdrawal would be, less than his total liability (including contingent liability) to the credit union whether as borrower, guarantor or otherwise.
+
+### 19. Interest-bearing shares[^key-af86508b4375d64dadc4132b4bb20f6c]
+
+(1) After section 7, insert—
+
+> **7A. Power to issue interest-bearing shares**
+>
+> (1) A credit union may issue interest-bearing shares if—
+>
+> - (a) its rules so provide;
+> - (b) its most recent year end balance sheet shows that it holds reserves of at least £50,000 or five per cent of its total assets, whichever is greater;
+> - (c) its auditors have made a report under section 9 of the Friendly and Industrial and Provident Societies Act 1968 on that balance sheet;
+> - (d) it has submitted that balance sheet to the Authority; and
+> - (e) it has submitted to the Authority a report by its auditors (post-dating the balance sheet referred to in paragraph (b) above), stating that in their opinion the credit union satisfies such conditions as are specified by the Authority for the purpose.
+>
+> (2) A credit union which issues interest-bearing shares must submit to the Authority an annual report by the auditors appointed to audit its accounts and balance sheet fulfilling the requirements of paragraph (e) of subsection (1) above by the date specified by the Authority for the purpose.
+>
+> (3) A credit union shall convert any interest-bearing shares in issue into shares which are not interest-bearing if—
+>
+> - (a) its rules no longer provide for the issue of interest-bearing shares;
+> - (b) neither its most recent year end balance sheet nor the balance sheet immediately preceding it—
+>   - (i) shows that the credit union holds reserves of at least £50,000 or five per cent of its total assets, whichever is greater; or
+>   - (ii) has been submitted to the Authority by the date specified; or
+> - (c) for two consecutive years it has not complied with subsection (2) above.
+>
+> (4) The Treasury may by order provide for subsections (1)(b) and (3)(b)(i) above to have effect as if the references to £50,000 and five per cent were references to such other sum or percentage as they think appropriate.
+>
+> (5) In this section “year end balance sheet” has the same meaning as in section 3A of the Friendly and Industrial and Provident Societies Act 1968.
+>
+> (6) In this Act “interest-bearing share” means a share issued on terms which entitle the holder to interest but not to a dividend.
+
+(2) In section 31(1), after the definition of “credit union” insert—
+
+> - “interest-bearing share” has the meaning assigned to it by section 7A(6) above;
+
+.
+
+(3) In Schedule 1, after paragraph 13, insert—
+
+> **13A.** If the issue of interest-bearing shares is permitted, provision for converting such shares into shares which are not interest-bearing to comply with subsection (3) of section 7A above.
+
+### 20. Fee for ancillary services[^key-f06b3d1a22d79aeb94b87ae0c183605c]
+
+In section 9A(1)[^f00025] (power to charge for ancillary services), for “a fee to cover the cost of”, substitute “such fee as it considers appropriate for”.
+
+### 21. Dividends[^key-b7960ebee4999d865b66e3b395b83396]
+
+In section 14[^f00026] (computation and application of profits), for subsection (4), substitute—
+
+> (4) The dividend payable on any shares of a credit union shall—
+>
+> - (a) on its dissolution, not exceed a rate of 8 per cent per annum or such other rate as may be specified by order made by the Treasury; and
+> - (b) at any other time, not exceed that rate except to the extent that the rules of the credit union provide otherwise.
+
+## PART 5 — Consequential, transitional and supplementary provisions
+
+### 22. Regulated Activities Order – consequential amendment[^key-3d635ebdbed6bc683e987fae06a060e3]
+
+*Extent: E+W+S+N.I.*
+
+In article 76 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00027], after “section 119 of the Building Societies Act 1986”, insert “or section 31A of the Credit Unions Act 1979”.
+
+### 23. Transitional provisions[^key-b5ff73cf71c78b0dced33c8124254ea1]
+
+The amendment to section 20 of the 1965 Act by article 8 shall not have effect in relation to a society until seven days following the first general meeting of that society after this Order comes into force.
+
+**24.**[^key-ebe8cd4d158e311fc82a678a5f2e3618] For the purposes of sections 1, 1A and 1B of the 1979 Act as amended or inserted by articles 12 and 13—
+
+- (a) any reference in the rules of a credit union to a qualification for admission to membership shall, if the context requires, be interpreted as a reference to a common bond;
+- (b) any qualification for admission to membership of a credit union approved by the Authority before this Order comes into force shall be treated as a common bond approved by the Authority.
+
+**25.**[^key-31cf047be8c6de8f45a9cb72be5278b1] (1) The Authority may, subject to paragraph (2), vary a permission given to a credit union under Part 4 of the Financial Services and Markets Act 2000[^f00028] before the date on which this Order comes into force by varying the description of the regulated activity for which it gives permission to the extent necessary for the credit union to admit bodies corporate to membership.
+
+(2) The Authority may not vary a permission under paragraph (1) where a credit union gives written notice to the Authority before the date on which this Order comes into force that it does not wish the Authority to vary its permission.
+
+**26.**[^key-8a452316b3520f7b6e09d8b3ade62b5e] No individual who is a member of a credit union immediately before this Order comes into force shall cease to be a member, or to be eligible for membership, by reason of the amendments made by this Order.
+
+**27.**[^key-308936ffa29888b6279c71be36d87307] The amendment to section 7(5) of the 1979 Act by article 18 shall not have effect in relation to any loan made by the credit union before this Order comes into force.
+
+**28.**[^key-df919482a62193f0aad21b2488fb7bd4] The amendment to section 9A(1) of the 1979 Act by article 20 shall not have effect in relation to ancillary services provided by a credit union to any person who is a member of that credit union immediately before this Order comes into force.
+
+**29.**[^key-04c48641953428cebd52c86aa204e1f1] Words and expressions used in articles 24 to 28 which are also used in the 1979 Act have the same meaning in those articles as they have in that Act.
+
+Angela Watkinson
+
+Michael Fabricant
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+8th November 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order removes a number of burdens imposed by the Industrial and Provident Societies Act [1965 (c.12)](https://www.legislation.gov.uk/ukpga/1965/12), the Friendly and Industrial and Provident Societies Act [1968 (c.53)](https://www.legislation.gov.uk/ukpga/1968/53) and the Credit Unions Act [1979 (c.34)](https://www.legislation.gov.uk/ukpga/1979/34).
+
+Part 1 of the Order deals with commencement, extent and interpretation.
+
+Part 2 of the Order concerns amendments applicable to industrial and provident societies. Article 3 removes the limit on the value of non-withdrawable shares which can be held by a member. Articles 4 and 5 amend the provisions relating to annual returns and calculation of the year-end.
+
+Part 3 of the Order concerns amendments applicable to both industrial and provident societies and credit unions (“societies”). Article 7 allows societies to charge up to £5 for provision of a copy of the society’s rules to non members. Article 8 allows persons under the age of 18 to become members of a society and persons between the age of 16 and 18 to become Board members. Article 9 allows dormant societies to be dissolved by way of special resolution, subject to credit unions receiving confirmation from the Authority. Article 10 allows societies to publish unaudited interim accounts or balance sheets provided that they are published with the latest audited year end accounts and balance sheets and are clearly marked as unaudited.
+
+Part 4 of the Order concerns amendments applicable to credit unions only. Articles 12 and 13 reform the membership qualifications for credit unions and provide for a limit on the potential number of members of a credit union with a common bond involving a connection with a locality of two million. The Treasury may by order subject to the negative resolution procedure increase that limit or extend the common bonds to which the limit applies. Article 15 repeals the prohibition on credit unions admitting bodies corporate to membership but imposes limits on the number of corporate members and shares and the total amount of loans which can be made to corporate members (including individuals acting in their capacity as partners in a partnership or an officer or member of the governing body of an unincorporated association). The Treasury may by order subject to the affirmative resolution procedure increase these limits. Article 16 repeals the limit on non-qualifying members.
+
+Article 17 provides for the issue of deferred shares by credit unions. Article 18 repeals the requirement for a withdrawal of shares which reduces a member’s paid up shareholding to less than his total liability to be permitted only at the discretion of the Committee and imposes a requirement on a credit union to include as a term of any loan provision as to whether, for the duration of the loan, the borrower may withdraw shares which would reduce his shareholding to less than his liability. Article 19 provides for a credit union to issue interest-bearing shares provided it meets certain conditions. Article 20 allows credit unions to charge such fee as they think appropriate for ancillary services (whereas previously it was limited to covering costs). Article 21 provides that the limit of 8% on dividends applies on the dissolution of a credit union and at other times unless the rules of the credit union provide otherwise.
+
+Part 5 makes a consequential amendment to the Financial Services and Markets Act (Regulated Activities) Order 2001 ([S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544)) and transitional provision in respect of membership age for industrial and provident societies, the membership qualifications for credit unions, and charges by credit unions for ancillary services. Article 25 gives the FSA a power to vary on its own initiative the permission given to a credit union under Part 4 of the Financial Services and Markets Act [2000 (c.8)](https://www.legislation.gov.uk/ukpga/2000/8) to enable them to admit bodies corporate to membership.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available at (http://www.hm-treasury.gov.uk/).
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.51](https://www.legislation.gov.uk/ukpga/2006/51).
+
+[^key-5c9f3e4cb9c5985ee17484b31e48aa70]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2011/2687/article/1) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^f00002]: Footnote: [2010 c.7](https://www.legislation.gov.uk/ukpga/2010/7).
+
+[^key-ee85381a1c7de7469557d4c14dc17468]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/2687/article/2) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^f00003]: Footnote: [1965 c.12](https://www.legislation.gov.uk/ukpga/1965/12).
+
+[^f00004]: Footnote: [1968 c.55](https://www.legislation.gov.uk/ukpga/1968/55).
+
+[^f00005]: Footnote: [1979 c.34](https://www.legislation.gov.uk/ukpga/1979/34).
+
+[^key-28f644791c07e6e6fd6c3d59daf24145]: Textual amendment: [Arts. 3-7](https://www.legislation.gov.uk/uksi/2011/2687/article/3) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+
+[^key-3fbdbcfe45f43a1797b54b107cde1757]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2011/2687/article/8) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^key-e891e75354ef6d1178b0aad5bce49776]: Textual amendment: [Art. 8(1)](https://www.legislation.gov.uk/uksi/2011/2687/article/8/1) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+
+[^f00011]: Footnote: Section 9 was amended by [S.I. 2002/1501](https://www.legislation.gov.uk/uksi/2002/1501).
+
+[^key-d46ce39762e9612868e4fdc73bb684a9]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2011/2687/article/9) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+
+[^key-34c2217aaacbf38c2b2bdd9901e99264]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/uksi/2011/2687/article/10) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+
+[^key-927b3114597628c63bf7b1f31f757e2f]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2011/2687/article/11) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^key-f7770c53bad0c40c0163323219a179e3]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2011/2687/article/12) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^f00016]: Footnote: Section 1 was amended by [S.I. 1996/1189](https://www.legislation.gov.uk/uksi/1996/1189), [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [S.I. 2002/1501](https://www.legislation.gov.uk/uksi/2002/1501) and [S.I. 2003/256](https://www.legislation.gov.uk/uksi/2003/256).
+
+[^key-af37345576cd8e2519e3c3bbb769645e]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2011/2687/article/13) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^key-66ee9b40fab1e4ea1a3a4c7f336af780]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2011/2687/article/14) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^f00017]: Footnote: Section 20 was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617); there are other amending instruments but none is relevant.
+
+[^f00018]: Footnote: Section 21 was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617); there are other amending instruments but none is relevant.
+
+[^key-378e410f21dea56e6add53ad60cb6584]: Commencement: [Art. 15(1)-(3)](https://www.legislation.gov.uk/uksi/2011/2687/article/15/1) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^key-2912d6d46d72785fc5004a84b189c140]: Commencement: [Art. 15(4)(a)](https://www.legislation.gov.uk/uksi/2011/2687/article/15/4/a) in force at 1.12.2013, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/a)
+
+[^key-1e2cc7562ee28ea4147ac2c137a09855]: Commencement: [Art. 15(4)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/15/4/b)[(c)](https://www.legislation.gov.uk/uksi/2011/2687/article/15/4/c)[(5)](https://www.legislation.gov.uk/uksi/2011/2687/article/15/5)[(6)](https://www.legislation.gov.uk/uksi/2011/2687/article/15/6) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^f00019]: Footnote: Section 11 was amended by [S.I. 2002/1501](https://www.legislation.gov.uk/uksi/2002/1501); there are other amending instruments but none is relevant.
+
+[^f00020]: Footnote: Section 29 was substituted by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617). The amendment to section 29(2) by section 5(2) of the Co-operative and Community Benefit Societies and Credit Unions Act [2010 (c.7)](https://www.legislation.gov.uk/ukpga/2010/7) is not in force at the time of the making of this Order.
+
+[^f00021]: Footnote: Section 31 was amended by the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33); there are other amending instruments but none is relevant.
+
+[^f00022]: Footnote: Paragraph 13 was amended by [S.I. 2002/1501](https://www.legislation.gov.uk/uksi/2002/1501).
+
+[^key-a54fbbcb46c562cc3f9f385cad05e522]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2011/2687/article/16) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^key-1f73badbdf6acc1a290b2002c2ab5be9]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2011/2687/article/17) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^f00023]: Footnote: Section 11A was inserted by [S.I. 1996/1189](https://www.legislation.gov.uk/uksi/1996/1189).
+
+[^key-94f0a37dfafce411a84d29e8f4d4a505]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2011/2687/article/18) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^f00024]: Footnote: Section 7(5) was amended by [S.I. 1996/1189](https://www.legislation.gov.uk/uksi/1996/1189).
+
+[^key-af86508b4375d64dadc4132b4bb20f6c]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2011/2687/article/19) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^key-f06b3d1a22d79aeb94b87ae0c183605c]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2011/2687/article/20) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^f00025]: Footnote: Section 9A was inserted by [S.I. 2003/256](https://www.legislation.gov.uk/uksi/2003/256).
+
+[^key-b7960ebee4999d865b66e3b395b83396]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2011/2687/article/21) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^f00026]: Footnote: Section 14 was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617); there are other amending instruments but none is relevant.
+
+[^key-3d635ebdbed6bc683e987fae06a060e3]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2011/2687/article/22) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^f00027]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), to which there are amendments which are not relevant to this Order.
+
+[^key-b5ff73cf71c78b0dced33c8124254ea1]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2011/2687/article/23) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^key-ebe8cd4d158e311fc82a678a5f2e3618]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2011/2687/article/24) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^key-31cf047be8c6de8f45a9cb72be5278b1]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2011/2687/article/25) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^f00028]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-8a452316b3520f7b6e09d8b3ade62b5e]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2011/2687/article/26) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^key-308936ffa29888b6279c71be36d87307]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2011/2687/article/27) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^key-df919482a62193f0aad21b2488fb7bd4]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2011/2687/article/28) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+
+[^key-04c48641953428cebd52c86aa204e1f1]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2011/2687/article/29) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)

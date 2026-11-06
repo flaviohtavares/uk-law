@@ -1,0 +1,339 @@
+---
+title: The Immigration (Passenger Transit Visa) Order 2014
+id: uksi/2014/2702
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-10-08'
+text_date: '2026-03-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/2702
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/2702/pdfs/uksiem_20142702_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2702/pdfs/uksi_20142702_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2702/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Immigration (Passenger Transit Visa) Order 2014
+
+> Text as at 2026-03-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2014 No. 2702
+
+Immigration
+
+The Immigration (Passenger Transit Visa) Order 2014
+
+Made
+
+8th October 2014
+
+Laid before Parliament
+
+16th October 2014
+
+Coming into force
+
+1st December 2014
+
+The Secretary of State, in exercise of the powers conferred by section 41 of the Immigration and Asylum Act 1999 [^c22227481], makes the following Order:
+
+## 1. Citation and commencement
+
+(1) This Order may be cited as the Immigration (Passenger Transit Visa) Order 2014.
+
+(2) This Order comes into force on 1st December 2014.
+
+## 2. Interpretation
+
+(1) Subject to paragraph (5), in this Order a “**transit passenger**” means a person to whom paragraph (2), (3), (4) or (4A)[^key-24210088e542c083a541060e87c29e6f] applies and who on arrival in the United Kingdom passes through to another country or territory without entering the United Kingdom.
+
+(2) This paragraph applies to a person who is a citizen or national of a country or territory listed in Schedule 1 to this Order.
+
+(3) This paragraph applies to a person holding a travel document issued by the purported “Turkish Republic of Northern Cyprus”.
+
+(4) This paragraph applies to a person who holds a passport issued by the Republic of Venezuela that does not contain biometric information contained in an electronic chip.
+
+(4A)[^key-79c8ecc60b7fcbba3e3695913e109202] This paragraph applies to a person who holds—
+
+- (a) a passport; or
+- (b) another document that can be used (in some or all circumstances) instead of a passport;
+
+which does not establish citizenship or nationality.
+
+(5) A person to whom paragraph (2), (3) or (4) applies will not be a transit passenger if he—
+
+- (a) has the right of abode in the United Kingdom under the Immigration Act 1971 [^c22227491];
+- (b) is a citizen or national of an EEA State; [^key-5783ddaf95a6b6db5ca99c7c2d0bade1]...
+- (c) in the case of a citizen or national of the People's Republic of China, holds a passport issued by either the Hong Kong Special Administrative Region or the Macao Special Administrative Region; or[^key-e36eeb23347c09b42673e86cdc21adfc]
+- (d) is a citizen or national of the territory of Taiwan.
+
+(6) In this Order—
+
+- “**Approved Destination Status Scheme**” means a scheme for issuing visas to Chinese tour groups under—
+  - (a) the Memorandum of Understanding between the European Community and the National Tourism Administration of the People's Republic of China on visa and related issues concerning tourist groups from the People's Republic of China (ADS) signed at Beijing on 12th February 2004 [^c22227501]; or
+  - (b) a similar agreement between the People's Republic of China and a Schengen Acquis State;
+- “Convention Travel Document” means a document issued in accordance with Article 28 of—[^key-e44191de5f9daf7dd42e72b0c32d783a]
+  - (a) the 1951 United Nations Convention Relating to Status of Refugees done at Geneva on 28th July 1951 as amended by the New York Protocol of 31st January 1967; or
+  - (b) the 1954 United Nations Convention on the Status of Stateless Persons done at New York on 28th September 1954.
+- “**EEA State**” means a country which is a contracting party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 [^c22227511] as adjusted by the Protocol signed at Brussels on 17th March 1993 [^c22227521];
+- “**Schengen Acquis State**” means an EEA State (excluding the [^key-c83f2dc8616d96fa92bdc287406b1e4e]... Republic of Ireland) or Switzerland.
+
+## 3. Requirement for a transit passenger to hold a transit visa
+
+Subject to article 4, a transit passenger is required to hold a transit visa.
+
+## 4. Exemption from the requirement for a transit passenger to hold a transit visa
+
+(1)[^key-8bc1569eeb42be6552245d6d900fab90] A transit passenger is not required to hold a transit visa if he holds or a person with whom he arrives in the United Kingdom holds on his behalf—
+
+- (a) a valid visa for entry to Australia, Canada, New Zealand or the United States of America;
+- (aa)[^key-04a7b254c9afbf38d33add362b6af8cb] an expired visa for entry to Australia, Canada, New Zealand or the United States of America provided it is less than six months since the transit passenger last entered that country with a valid visa;
+- (b) a valid Australian Permanent Resident Visa;
+- (c) a valid Canadian Permanent Resident Card issued on or after 28th June 2002;
+- (d) a valid New Zealand Permanent Resident Visa;
+- (e) a valid USA I-551 Permanent Resident Card issued on or after 21st April 1998;
+- (f) an expired USA I-551 Permanent Resident Card provided it is accompanied by a valid I-797 letter authorising an extension of the period of permanent residency;
+- (g)[^key-5aee1ba62f11632bdfe39ff3c686b964] a valid temporary USA I-551 machine readable immigrant visa;
+- (h) a valid standalone US Immigration Form 155A/155B attached to a brown sealed envelope;
+- (i) a valid common format Category D visa for entry to an EEA state or Switzerland;
+- (j) a valid common format residence permit issued by an EEA State pursuant to Council Regulation [(EC) No 1030/2002](https://www.legislation.gov.uk/eur/2002/1030) [^c22227531] or Switzerland;
+- (k) a valid biometric visa issued by the Republic of Ireland;
+- (l) a valid visa issued by a Schengen Acquis State under the Approved Destination Status Scheme where the transit passenger is undertaking a journey via the United Kingdom to that[^key-426a7c9966e8c4b45871ca1126ffb727] Schengen Acquis State;
+- (m) a valid airline ticket for travel via the United Kingdom as part of a journey from a Schengen Acquis State to another country or territory, provided that the transit passenger does not seek to travel via the United Kingdom on a date more than 30 days from the date on which he last entered a Schengen Acquis State with a valid visa issued by a Schengen Acquis State under the Approved Destination Status Scheme;
+- (n) a valid[^key-c9f17ecefd9fe694cb2e427bdf999f30] diplomatic or service passport issued by the People's Republic of China;
+- (o) a valid[^key-37aad416a89c14e8543de16ae8f30e0d] diplomatic or official passport issued by India; [^key-b13bfd3284555938cfa5f22d8b4e4f5b]...
+- (p) a valid[^key-6040883dc84854364cd91cc89ea43f47] diplomatic or official passport issued by Vietnam.
+- (q)[^key-52b8763d88842d016c5e701aafb7134d] a valid diplomatic passport issued by Turkey;
+- (qa)[^key-061b6b1a6b3163d9f1f3dd18970e3a8e] a valid diplomatic passport issued by South Africa;
+- (r) a valid alien’s passport issued by Estonia or Latvia;
+- (s) a valid Convention Travel Document; or
+- (t) a valid laissez-passer issued by the United Nations or the International Committee of the Red Cross.
+
+(2)[^key-8e35983b1a0b7a418a75c4bda2fab6af] Paragraph (1)(a) and (1)(aa)[^key-27b00276385277c7fc0addc9ab7dbb37] shall not apply where the transit passenger is a citizen or national of Syria holding a B1 or B2 visa for entry to the United States of America.
+
+(3)[^key-7b9cbef7a17130d11e02dc5dfa881746] All documents listed in this article exclude versions held—
+
+- (a) in electronic format; or
+- (b) in hardcopy format which derives from electronic format
+
+except where the document can be verified by the owner of the aircraft (or his employee or agent) in which the transit passenger intends to travel to the United Kingdom.
+
+## 5. Method of application for a transit visa
+
+An application for a transit visa may be made to any British High Commission, Embassy or Consulate which accepts such applications.
+
+## 6. Revocations
+
+The Orders specified in Schedule 2 to this Order are revoked.
+
+James Brokenshire
+
+Minister of State
+
+Home Office
+
+## SCHEDULE 1 — Countries or territories whose nationals or citizens need transit visas
+
+Article 2(2)
+
+- Afghanistan
+- Albania
+- Algeria
+- Angola
+- Bangladesh
+- Belarus
+- Botswana[^key-8201f754ae65f00c5e8e0dc5119e4ed9]
+- Burma
+- Burundi
+- Cameroon
+- [^key-b0de8751a7d812ee79577c57ad24bd67]...
+- Colombia[^key-57783ac17a322f72723bb5a8fca5f071]
+- Congo
+- Democratic Republic of the Congo
+- Dominica[^key-d75fce8e2169fb21a0baa8cb50c531c5]
+- Egypt
+- El Salvador[^key-32ac03bcb2b770d147ef471d5a3b74aa]
+- Eritrea
+- Ethiopia
+- Former Yugoslav Republic of Macedonia
+- Gambia
+- Georgia[^key-1e4fa6f1cefc96312ae8f76baee67749]
+- Ghana
+- Guinea
+- Guinea-Bissau
+- Honduras[^key-0a96a2700e20d3710ce454a700bebb51]
+- India
+- Iran
+- Iraq
+- Ivory Coast
+- Jamaica
+- Jordan[^key-964f160cb9de6b9c1ea92568e2f2b98b]
+- Kenya
+- Kosovo
+- Lebanon
+- Lesotho
+- Liberia
+- Libya
+- Malawi
+- Moldova
+- Mongolia
+- Namibia[^key-3e94cbcafaf3f7e5612bd15b522f4321]
+- Nauru[^key-2a094f05eece4602027beb769219f7f0]
+- Nepal
+- Nicaragua[^key-16ade8e522ead595b530e191c9656731]
+- Nigeria
+- Pakistan
+- Palestine[^key-9cbc0a09e9de14d2bf90953b69ee6e54]
+- People’s Republic of China[^key-a303978b71ec6d710a67ade48c0143a5]
+- Russia[^key-47b79af52b838ea3f54098adb035a769]
+- Rwanda
+- Senegal
+- Serbia
+- Sierra Leone
+- Somalia
+- South Africa
+- South Sudan
+- Sri Lanka
+- St Lucia[^key-e0dba8122718105b57be523769271c44]
+- Sudan
+- Swaziland
+- Syria
+- Tanzania
+- Timor-Leste[^key-8df0aa336de4bb7311c91cab604ffafe]
+- Trinidad and Tobago[^key-f554873cd9f1aca7e80b607cd0b13a1a]
+- Turkey
+- Uganda
+- Vanuatu[^key-eba7544bd4acc8b0f354993c83e7151b]
+- Vietnam
+- Yemen
+- Zimbabwe
+
+## SCHEDULE 2 — Revocations
+
+Article 6
+
+| *Orders Revoked* | *References* |
+| --- | --- |
+| The Immigration (Passenger Transit Visa) Order 2003 | S.I. 2003/1185 |
+| The Immigration (Passenger Transit Visa) (Amendment) Order 2003 | S.I. 2003/2628 |
+| The Immigration (Passenger Transit Visa) (Amendment) Order 2004 | S.I. 2004/1304 |
+| The Immigration (Passenger Transit Visa) (Amendment) Order 2005 | S.I. 2005/492 |
+| The Immigration (Passenger Transit Visa) (Amendment) Order 2006 | S.I. 2006/493 |
+| The Immigration (Passenger Transit Visa) (Amendment) Order 2009 | S.I. 2009/198 |
+| The Immigration (Passenger Transit Visa) (Amendment) (No. 3) Order 2009 | S.I. 2009/1229 |
+| The Immigration (Passenger Transit Visa) (Amendment) (No. 4) Order 2009 | S.I. 2009/1233 |
+| The Immigration (Passenger Transit Visa) (Amendment) Order 2011 | S.I. 2011/1553 |
+| The Immigration (Passenger Transit Visa) (Amendment) Order 2012 | S.I. 2012/116 |
+| The Immigration (Passenger Transit Visa) (Amendment) (No. 2) Order 2012 | S.I. 2012/771 |
+| The Immigration (Passenger Transit Visa) (Amendment) Order 2014 | S.I. 2014/1513 |
+
+*(This note is not part of the Order)*
+
+This Order consolidates and amends the Immigration (Passenger Transit Visa) Order 2003 (the “**2003 Order**”). The 2003 Order requires certain passengers to hold a transit visa to pass through the United Kingdom, without entering the United Kingdom, while transiting to another country.
+
+Article 2 defines a “transit passenger” as a person who on arrival in the United Kingdom passes through to another country or territory without entering the United Kingdom and is either a citizen or national of a country or territory listed in Schedule 1 (article 2(2)); a person holding a travel document issued by the purported “Turkish Republic of Northern Cyprus” (article 2(3)); or holds a non-biometric passport issued by the Republic of Venezuela. However, a person will not be a transit passenger if they have a right of abode in the United Kingdom; are a national of an EEA State; or are a national or citizen of China and hold a passport issued by either the Hong Kong Special Administrative Region or the Macao Special Administrative Region.
+
+Article 3 imposes a requirement for transit passengers to hold a transit visa unless they are subject to an exemption in article 4.
+
+Article 4 sets out the categories of documents which, if held by a transit passenger or on his behalf by a person with whom the transit passenger arrives in the United Kingdom, exempt the transit passenger from the requirement to hold a transit visa.
+
+Article 5 provides that an application for a transit visa may be made to any British High Commission, Embassy or Consulate which accepts such applications.
+
+Article 6 revokes previous orders relating to transit visas as part of the consolidation of the Immigration (Passenger Transit Visa) Order 2003 (as amended).
+
+## Annotations
+
+[^c22227481]: Marginal citation: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^key-24210088e542c083a541060e87c29e6f]: Textual amendment: Words in art. 2(1) substituted (24.4.2015) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2015/657/article/2/2)
+
+[^key-79c8ecc60b7fcbba3e3695913e109202]: Textual amendment: Art. 2(4A) inserted (24.4.2015) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2015/657/article/2/3)
+
+[^c22227491]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^key-5783ddaf95a6b6db5ca99c7c2d0bade1]: Textual amendment: Word in art. 2(5)(b) omitted (24.4.2015) by virtue of [The Immigration (Passenger Transit Visa) (Amendment) Order 2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/657/article/2/4)
+
+[^key-e36eeb23347c09b42673e86cdc21adfc]: Textual amendment: Art. 2(5)(d) and word inserted (24.4.2015) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2015/657/article/2/5)
+
+[^c22227501]: Marginal citation: OJ L83, 20.3.04, p. 14.
+
+[^key-e44191de5f9daf7dd42e72b0c32d783a]: Textual amendment: Words in art. 2(6) inserted (24.4.2015) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2015/657/article/2/6)
+
+[^c22227511]: Marginal citation: OJ L1, 3.1.94, p. 3.
+
+[^c22227521]: Marginal citation: OJ L1, 3.1.94, p. 571.
+
+[^key-c83f2dc8616d96fa92bdc287406b1e4e]: Textual amendment: Words in [art. 2(6)](https://www.legislation.gov.uk/uksi/2014/2702/article/2/6) omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2019/745/regulation/37); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8bc1569eeb42be6552245d6d900fab90]: Textual amendment: Art. 4 renumbered as art. 4(1) (17.3.2015) by [The Immigration (Passenger Transit Visa) (Amendment) Order2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2015/657/article/2/13)
+
+[^key-04a7b254c9afbf38d33add362b6af8cb]: Textual amendment: Art. 4(1)(aa) inserted (24.4.2015) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2015/657/article/2/7)
+
+[^key-5aee1ba62f11632bdfe39ff3c686b964]: Textual amendment: Art. 4(1)(g) substituted (24.4.2015) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2015/657/article/2/8)
+
+[^c22227531]: Marginal citation: OJ L157, 15.6.02, p. 1.
+
+[^key-426a7c9966e8c4b45871ca1126ffb727]: Textual amendment: Words in art. 4(1)(l) substituted (24.4.2015) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2015/657/article/2/9)
+
+[^key-c9f17ecefd9fe694cb2e427bdf999f30]: Textual amendment: Word in art. 4(1)(n) inserted (24.4.2015) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2015/657/article/2/10)
+
+[^key-37aad416a89c14e8543de16ae8f30e0d]: Textual amendment: Word in art. 4(1)(o) inserted (24.4.2015) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2015/657/article/2/10)
+
+[^key-b13bfd3284555938cfa5f22d8b4e4f5b]: Textual amendment: Word in art. 4(1)(o) omitted (24.4.2015) by virtue of [The Immigration (Passenger Transit Visa) (Amendment) Order 2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2015/657/article/2/11)
+
+[^key-6040883dc84854364cd91cc89ea43f47]: Textual amendment: Word in art. 4(1)(p) inserted (24.4.2015) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2015/657/article/2/10)
+
+[^key-52b8763d88842d016c5e701aafb7134d]: Textual amendment: Art. 4(1)(q)-(t) inserted (24.4.2015) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2015/657/article/2/12)
+
+[^key-061b6b1a6b3163d9f1f3dd18970e3a8e]: Textual amendment: Art. 4(1)(qa) inserted (10.8.2015) by [The Immigration (Passenger Transit Visa) (Amendment) (No. 2) Order 2015 (S.I. 2015/1534)](https://www.legislation.gov.uk/uksi/2015/1534), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1534/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2015/1534/article/2/2)
+
+[^key-8e35983b1a0b7a418a75c4bda2fab6af]: Textual amendment: Art. 4(2) inserted (17.3.2015) by [The Immigration (Passenger Transit Visa) (Amendment) Order2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2015/657/article/2/13)
+
+[^key-27b00276385277c7fc0addc9ab7dbb37]: Textual amendment: Words in art. 4(2) inserted (24.4.2015) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(14)](https://www.legislation.gov.uk/uksi/2015/657/article/2/14)
+
+[^key-7b9cbef7a17130d11e02dc5dfa881746]: Textual amendment: Art. 4(3) inserted (24.4.2015) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(15)](https://www.legislation.gov.uk/uksi/2015/657/article/2/15)
+
+[^key-8201f754ae65f00c5e8e0dc5119e4ed9]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2014/2702/schedule/1) inserted (15.10.2025) by [The Immigration (Passenger Transit Visa) (Amendment) (No. 2) Order 2025 (S.I. 2025/1067)](https://www.legislation.gov.uk/uksi/2025/1067), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1067/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1067/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2025/1067/article/3))
+
+[^key-b0de8751a7d812ee79577c57ad24bd67]: Textual amendment: Word in Sch. 1 omitted (24.4.2015) by virtue of [The Immigration (Passenger Transit Visa) (Amendment) Order2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(16)(a)](https://www.legislation.gov.uk/uksi/2015/657/article/2/16/a)
+
+[^key-57783ac17a322f72723bb5a8fca5f071]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2014/2702/schedule/1) inserted (27.11.2024) by [The Immigration (Passenger Transit Visa) (Amendment) (No. 2) Order 2024 (S.I. 2024/1218)](https://www.legislation.gov.uk/uksi/2024/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1218/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1218/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/1218/article/3))
+
+[^key-d75fce8e2169fb21a0baa8cb50c531c5]: Textual amendment: Word in Sch. 1 inserted (20.7.2023) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2023 (S.I. 2023/824)](https://www.legislation.gov.uk/uksi/2023/824), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/824/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/824/article/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2023/824/article/3))
+
+[^key-32ac03bcb2b770d147ef471d5a3b74aa]: Textual amendment: Words in Sch. 1 inserted (12.5.2022) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2022 (S.I. 2022/524)](https://www.legislation.gov.uk/uksi/2022/524), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/524/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/524/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/524/article/3))
+
+[^key-1e4fa6f1cefc96312ae8f76baee67749]: Textual amendment: Word in Sch. 1 inserted (8.9.2023) by [The Immigration (Passenger Transit Visa) (Amendment) (No. 2) Order 2023 (S.I. 2023/980)](https://www.legislation.gov.uk/uksi/2023/980), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/980/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/980/article/2/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2023/980/article/3))
+
+[^key-0a96a2700e20d3710ce454a700bebb51]: Textual amendment: Word in Sch. 1 inserted (20.7.2023) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2023 (S.I. 2023/824)](https://www.legislation.gov.uk/uksi/2023/824), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/824/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2023/824/article/2/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2023/824/article/3))
+
+[^key-964f160cb9de6b9c1ea92568e2f2b98b]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2014/2702/schedule/1) inserted (11.9.2024) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2024 (S.I. 2024/922)](https://www.legislation.gov.uk/uksi/2024/922), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/922/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/922/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/922/article/3))
+
+[^key-3e94cbcafaf3f7e5612bd15b522f4321]: Textual amendment: Word in Sch. 1 inserted (20.7.2023) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2023 (S.I. 2023/824)](https://www.legislation.gov.uk/uksi/2023/824), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/824/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2023/824/article/2/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2023/824/article/3))
+
+[^key-2a094f05eece4602027beb769219f7f0]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2014/2702/schedule/1) inserted (10.12.2025) by [The Immigration (Passenger Transit Visa) (Amendment) (No. 4) Order 2025 (S.I. 2025/1279)](https://www.legislation.gov.uk/uksi/2025/1279), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1279/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1279/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2025/1279/article/3))
+
+[^key-16ade8e522ead595b530e191c9656731]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2014/2702/schedule/1) inserted (6.3.2026) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2026 (S.I. 2026/208)](https://www.legislation.gov.uk/uksi/2026/208), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/208/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/208/article/2/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2026/208/article/3))
+
+[^key-9cbc0a09e9de14d2bf90953b69ee6e54]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2014/2702/schedule/1) substituted (11.11.2025) by [The Immigration (Passenger Transit Visa) (Amendment) (No. 3) Order 2025 (S.I. 2025/1068)](https://www.legislation.gov.uk/uksi/2025/1068), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1068/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1068/article/2/2)
+
+[^key-a303978b71ec6d710a67ade48c0143a5]: Textual amendment: Words in Sch. 1 inserted (24.4.2015) by [The Immigration (Passenger Transit Visa) (Amendment) Order2015 (S.I. 2015/657)](https://www.legislation.gov.uk/uksi/2015/657), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/657/article/1/2), [2(16)(b)](https://www.legislation.gov.uk/uksi/2015/657/article/2/16/b)
+
+[^key-47b79af52b838ea3f54098adb035a769]: Textual amendment: Word in Sch. 1 inserted (8.9.2023) by [The Immigration (Passenger Transit Visa) (Amendment) (No. 2) Order 2023 (S.I. 2023/980)](https://www.legislation.gov.uk/uksi/2023/980), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/980/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/980/article/2/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2023/980/article/3))
+
+[^key-e0dba8122718105b57be523769271c44]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2014/2702/schedule/1) inserted (6.3.2026) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2026 (S.I. 2026/208)](https://www.legislation.gov.uk/uksi/2026/208), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/208/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/208/article/2/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2026/208/article/3))
+
+[^key-8df0aa336de4bb7311c91cab604ffafe]: Textual amendment: Word in Sch. 1 inserted (20.7.2023) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2023 (S.I. 2023/824)](https://www.legislation.gov.uk/uksi/2023/824), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/824/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2023/824/article/2/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2023/824/article/3))
+
+[^key-f554873cd9f1aca7e80b607cd0b13a1a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2014/2702/schedule/1) inserted (13.3.2025) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2025 (S.I. 2025/320)](https://www.legislation.gov.uk/uksi/2025/320), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/320/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/320/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2025/320/article/3))
+
+[^key-eba7544bd4acc8b0f354993c83e7151b]: Textual amendment: Word in Sch. 1 inserted (20.7.2023) by [The Immigration (Passenger Transit Visa) (Amendment) Order 2023 (S.I. 2023/824)](https://www.legislation.gov.uk/uksi/2023/824), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/824/article/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2023/824/article/2/7) (with [art. 3](https://www.legislation.gov.uk/uksi/2023/824/article/3))

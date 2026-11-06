@@ -1,0 +1,116 @@
+---
+title: The Church Representation Rules (Amendment) Resolution 2023
+id: uksi/2023/863
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2023-07-10'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2023/863
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2023/863/pdfs/uksi_20230863_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/863/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Church Representation Rules (Amendment) Resolution 2023
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2023 No. 863
+
+Ecclesiastical Law, England
+
+The Church Representation Rules (Amendment) Resolution 2023
+
+Made
+
+10th July 2023
+
+Laid before Parliament
+
+31st July 2023
+
+Coming into force
+
+1st August 2023
+
+The General Synod, in exercise of the powers conferred by section 7 of the Synodical Government Measure 1969[^f00001], resolves to amend the Church Representation Rules[^f00002] as follows.
+
+In accordance with that section, the General Synod has passed this Resolution with a majority in each House of not less than two-thirds of those present and voting.
+
+## 1. Citation, commencement and interpretation
+
+(1) This Resolution may be cited as the Church Representation Rules (Amendment) Resolution 2023.
+
+(2) This Resolution comes into force on the day after the day on which it is laid before Parliament.
+
+(3) A reference in this Resolution to a numbered Part or Rule is to the Part or Rule so numbered in the Church Representation Rules.
+
+## 2. Uncontested election of parochial representatives of laity
+
+In Part 9 (parish governance: model rules), in Rule M9 (conduct of election of parochial representatives of laity), for paragraph (3) substitute—
+
+> (3) If the number of candidates does not exceed the number of seats to be filled, any person who is entitled to attend the meeting may move a resolution that a vote be held, in the case of each candidate, on whether that candidate should be elected.
+>
+> (3A) Where a resolution under paragraph (3) is passed, a vote is to be held on the proposition, in the case of each candidate, that that candidate should be elected; and for that purpose—
+>
+> - (a) every person whose name is on the roll of the parish is entitled to take part in a vote held under this paragraph,
+> - (b) each person so entitled may, in the case of each candidate, cast only a single vote for or against the proposition (and Rule M10 accordingly does not apply to the vote), and
+> - (c) paragraphs (7) to (10) of this Rule apply to the vote.
+
+## 3. Declaration as to disqualifications
+
+(1) In Part 9 (parish governance: model rules), after Rule M12 insert—
+
+> **M12A. Declaration as to disqualifications**
+>
+> (1) A person elected as a parochial representative of the laity to a deanery synod may not do anything in that capacity unless and until that person gives the presiding officer a signed declaration to the effect that the person is not disqualified under Part 7.
+>
+> (2) A person elected as a parochial representative of the laity to a PCC may not do anything in that capacity unless and until that person gives the presiding officer a signed declaration to the effect that—
+>
+> - (a) the person is not disqualified under Part 7, and
+> - (b) the person is not disqualified from being the trustee of a charity or, if the person is so disqualified, the disqualification is subject to a waiver which permits membership of the PCC.
+>
+> (3) If a person elected as a parochial representative of the laity fails to make the declaration under paragraph (1) or (2) (as the case may be) after being given a reasonable opportunity to do so—
+>
+> - (a) the presiding officer must declare that the person has failed to do so, and
+> - (b) the seat in question is vacated.
+
+(2) In Rule 12 of the Church Representation Rules (scheme of amendment), in paragraph (2), after sub-paragraph (a) insert—
+
+> - (aa) Rule M12A (elected person: declaration as to disqualifications);
+
+.
+
+## 4. Annual fabric report
+
+In Part 10, in Form M1 (notice of annual parochial church meeting), for “the annual report on the fabric, goods and ornaments of the church or churches of the parish” substitute “the annual fabric report under section 50 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018”.
+
+Approved by the General Synod on 10th July 2023.
+
+A.S. McGregor
+
+Registrar of the General Synod
+
+EXPLANATORY NOTE
+
+(This note is not part of the Resolution)
+
+This Resolution amends the Church Representation Rules as set out in Schedule 3 to the Synodical Government Measure 1969.
+
+Paragraph 2 provides that where, at an annual parochial church meeting, the number of candidates for the election of parochial representatives of the laity does not exceed the number of places to fill, anybody entitled to attend the meeting may seek a vote to confirm the election of each candidate. If the resolution is passed by a simple majority, a vote is held, in the case of each candidate, on whether that candidate should be elected.
+
+Paragraph 3 requires a person elected as a parochial representative of the laity to make a declaration that the person is not disqualified under the Church Representation Rules, by virtue of being an employee of the National Church Institutions, being included in barred list under the Safeguarding Vulnerable Groups Act 2006, being convicted of a violent offence against a child or being disqualified as a charity trustee. A failure to make such a declaration would result in the person losing his or her seat.
+
+Paragraph 4 makes a minor drafting improvement to Form M1, the form used to give notice of the annual parochial church meeting, by ensuring consistency in the references to the fabric report under section 50 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018.
+
+## Annotations
+
+[^f00001]: Footnote: [1969 No. 2](https://www.legislation.gov.uk/ukcm/1969/2). Section 7 has been amended by section 1(2) of the Church Representation and Ministers Measure [2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1).
+
+[^f00002]: Footnote: The Church Representation Rules are contained in Schedule 3 to the Synodical Government Measure 1969.

@@ -1,0 +1,42 @@
+---
+title: Criminal Justice and Courts Act 2015, section 1
+act: Criminal Justice and Courts Act 2015
+section: '1'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2015/2/section/1
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice and Courts Act 2015, section 1
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/2
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 1. Maximum sentence for certain offences to be life imprisonment[^key-2d427649e7df2f3f594b549b2d447b07]
+
+*Extent: E+W+S+N.I.*
+
+(1) In section 4 of the Explosive Substances Act 1883 (making or possession of explosive under suspicious circumstances)—
+
+- (a) in subsection (1), for the words from “guilty” to the end substitute “ guilty of an offence ”, and
+- (b) after that subsection insert—
+
+  > (1A) A person who is guilty of an offence under subsection (1) is liable, on conviction on indictment, to imprisonment for life.
+  >
+  > (1B) Where a person is convicted of an offence under subsection (1) the explosive substance is to be forfeited.
+
+(2) In section 54(6)(a) of the Terrorism Act 2000 (penalty on conviction on indictment of offence involving weapons training for terrorism), for “imprisonment for a term not exceeding ten years” substitute “ imprisonment for life ”.
+
+(3) In section 6(5)(a) of the Terrorism Act 2006 (penalty on conviction on indictment of offence involving training for terrorism), for “imprisonment for a term not exceeding 10 years” substitute “ imprisonment for life ”.
+
+(4) The amendments made by this section apply only in relation to an offence committed on or after the day on which they come into force.
+
+(5) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of subsection (4) to have been committed on the last of those days.
+
+## Annotations
+
+[^key-2d427649e7df2f3f594b549b2d447b07]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2015/2/section/1) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/1)

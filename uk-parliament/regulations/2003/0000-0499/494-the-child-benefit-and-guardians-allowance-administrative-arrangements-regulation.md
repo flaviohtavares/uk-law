@@ -1,0 +1,179 @@
+---
+title: The Child Benefit and Guardian’s Allowance (Administrative Arrangements) Regulations 2003
+id: uksi/2003/494
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-03-05'
+text_date: '2017-09-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2003/494
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/494/pdfs/uksi_20030494_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/494/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Benefit and Guardian’s Allowance (Administrative Arrangements) Regulations 2003
+
+> Text as at 2017-09-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2003 No. 494
+
+SOCIAL SECURITY
+
+The Child Benefit and Guardian’s Allowance (Administrative Arrangements) Regulations 2003
+
+Made
+
+5th March 2003
+
+Laid before Parliament
+
+5th March 2003
+
+Coming into force
+
+7th April 2003
+
+The Commissioners of Inland Revenue, in exercise of the powers conferred upon them by sections 58 and 65(1), (2), (7) and (9) of the Tax Credits Act 2002[^f00001], hereby make the following Regulations:
+
+## 1. Citation and commencement[^key-fa966e6a9006eb0e6d20854703945ce3]
+
+These Regulations may be cited as the Child Benefit and Guardian’s Allowance (Administrative Arrangements) Regulations 2003 and shall come into force on 7th April 2003 immediately after the Child Benefit and Guardian’s Allowance (Administration) Regulations 2003[^f00002].
+
+## 2. Interpretation[^key-15e1b5b1c7919146c8929abe8227b9ec]
+
+In these Regulations—
+
+- “the Board” means the Commissioners for Her Majesty’s Revenue and Customs[^key-69c1c5e8bcd8d12fd4db993d54b65793];
+- “defective application” has the meaning given by regulation 10(3) of the principal Regulations;
+- “the principal Regulations” means the Child Benefit and Guardian’s Allowance (Administration) Regulations 2003;
+- “relevant authority” means—
+  - (a) the Secretary of State;
+  - (b) the Department for Social Development in Northern Ireland; or
+  - (c) a person providing services to the Secretary of State or that Department.
+
+## 3. Provision of information or evidence to relevant authorities[^key-da6064d07792f6d5163592958c1fd3af]
+
+(1) Information or evidence relating to child benefit or guardian’s allowance which is held—
+
+- (a) by the Board; or
+- (b) by a person providing services to the Board, in connection with the provision of those services,
+
+may be provided to a relevant authority for the purposes of, or for any purposes connected with, the exercise of that relevant authority’s functions under the principal Regulations.
+
+(2) Information or evidence relating to child benefit and guardian’s allowance may be provided to a relevant authority by persons other than the Board (whether or not persons by whom claims or notifications relating to child benefit or guardian’s allowance are or have been made or given).
+
+## 4. Giving of information or advice by relevant authorities[^key-291d804c67cefdd1705c4f35661c4019]
+
+A relevant authority to which a claim or notification is or has been made or given by a person in accordance with the principal Regulations may give information or advice relating to child benefit and guardian’s allowance to that person.
+
+## 5. Recording, verification and holding, and forwarding, of claims etc. received by relevant authorities[^key-42b49448e50a646e705df70039512969]
+
+(1) A relevant authority may record and hold—
+
+- (a) claims and notifications received by virtue of the any of the principal Regulations; and
+- (b) information or evidence received by virtue of regulation 3(2).
+
+(2) Subject to paragraphs (3) and (4), a relevant authority or a person providing services to the Board must forward to the Board such a claim or notification, or such information or evidence, as soon as reasonably practicable after being satisfied that it is complete.
+
+(3) Before forwarding a claim or notification in accordance with paragraph (2), a relevant authority must verify whether the details of the claim or notification are consistent with any details held by it which have been provided in connection with a relevant claim for benefit that relates to—
+
+- (a) the person by whom the claim for child benefit or guardian’s allowance is or has been made; or
+- (b) the child or qualifying young person in respect of whom[^key-929e60de939180f556db85316cd981d7] the child benefit or guardian’s allowance is payable.
+
+(4) Before forwarding a claim in accordance with paragraph (2), a relevant authority must verify that—
+
+- (a) any national insurance number provided in respect of the person by whom the claim is made exists and has been allocated to that person;
+- (b) the matters verified in accordance with sub-paragraph (a) accord with—
+  - (i) its own records; or
+  - (ii) in the case of a person providing services to the Secretary of State or the Department for Social Development in Northern Ireland, records held by the Secretary of State or that Department.
+
+(5) Before forwarding a claim in accordance with paragraph (2), a relevant authority may verify the existence of any original document provided by the person making the claim which is required to be returned to him.
+
+(6) If a relevant authority cannot locate any national insurance number in respect of a person by whom such a claim is made, it must forward to the Board or a person providing services to the Board the claim.
+
+(7) “National insurance number” means the national insurance number allocated within the meaning of—
+
+- (a) regulation 9 of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations 2001[^f00003]; or
+- (b) regulation 9 of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations (Northern Ireland) 2001[^f00004].
+
+(8) “Claim for benefit” means a claim for—
+
+- (a) a benefit in relation to which—
+  - (i) the Secretary of State has functions under the Social Security Contributions and Benefits Act 1992[^f00005]; or
+  - (ii) the Department for Social Development in Northern Ireland has functions under the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00006]; [^key-ef2d7bcfe51169676b3b1512a99368bb]...
+- (b) a jobseeker’s allowance under—
+  - (i) the Jobseekers Act 1995[^f00007]; or
+  - (ii) the Jobseekers (Northern Ireland) Order 1995[^f00008] ; or[^key-479be967cbe79a398d126d078d89adcc]
+- (c) universal credit under Part 1 of the Welfare Reform Act 2012 or Part 2 of the Welfare Reform (Northern Ireland) Order 2015 *(Extent: N.I.)*[^key-1a911a58f6b94465856dc80a2b7199f3].
+
+Tim Flesher
+
+Dave Hartnett
+
+Two of the Commissioners of Inland Revenue
+
+5th March 2003
+
+(This note is not part of the Regulations)
+
+Section 58 of the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21) (“section 58”) applies where regulations under section 5 of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5) (or section 5 of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)) permit or require a claim or notification relating to child benefit or guardian’s allowance to be made or given to a relevant authority (within the meaning given by subsection (3) of section 58).
+
+Where section 58 applies, regulations may make provision as to the administrative arrangements between a relevant authority and the Commissioners of Inland Revenue (to whom the administration of child benefit and guardian’s allowance is to be transferred by Part 2 of the Tax Credits Act 2002 with effect from 1st April 2003).
+
+These Regulations provide for administrative arrangements in relation to claims and notifications made or given to a relevant authority in accordance with the Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. [2003/492](https://www.legislation.gov.uk/uksi/2003/492)).
+
+Regulation 1 provides for citation and commencement, and regulation 2 for interpretation.
+
+Regulation 3 provides for the supply of information and evidence to a relevant authority.
+
+Regulation 4 provides for the giving of information or advice by a relevant authority.
+
+Regulation 5 provides for the recording, verification, holding and forwarding of claims etc. received by a relevant authority.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
+
+[^key-fa966e6a9006eb0e6d20854703945ce3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2003/494/regulation/1) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/494/regulation/1)
+
+[^f00002]: Footnote: [S.I. 2003/ 492](https://www.legislation.gov.uk/uksi/2003/492).
+
+[^key-15e1b5b1c7919146c8929abe8227b9ec]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/494/regulation/2) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/494/regulation/1)
+
+[^key-69c1c5e8bcd8d12fd4db993d54b65793]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/494/regulation/2) substituted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/203/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2006/203/regulation/3/2)
+
+[^key-da6064d07792f6d5163592958c1fd3af]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/494/regulation/3) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/494/regulation/1)
+
+[^key-291d804c67cefdd1705c4f35661c4019]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/494/regulation/4) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/494/regulation/1)
+
+[^key-42b49448e50a646e705df70039512969]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2003/494/regulation/5) in force at 7.4.2003 (in accordance with reg. 1), see [reg. 1](https://www.legislation.gov.uk/uksi/2003/494/regulation/1)
+
+[^key-929e60de939180f556db85316cd981d7]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/2003/494/regulation/5/3/b) substituted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/203/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2006/203/regulation/3/3)
+
+[^f00003]: Footnote: S.I. [2001/769](https://www.legislation.gov.uk/uksi/2001/769).
+
+[^f00004]: Footnote: [S.R. 2001 No. 102](https://www.legislation.gov.uk/nisr/2001/102).
+
+[^f00005]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^f00006]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7). The functions of the Department of Health and Social Services for Northern Ireland under this Act were transferred to the Department for Social Development in Northern Ireland by Article 8(b) of, and Part 2 of Schedule 6 to, the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 ([S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)).
+
+[^key-ef2d7bcfe51169676b3b1512a99368bb]: Textual amendment: Word in [reg. 5(8)](https://www.legislation.gov.uk/uksi/2003/494/regulation/5/8) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [82](https://www.legislation.gov.uk/uksi/2013/630/regulation/82)
+
+[^f00007]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^f00008]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705).
+
+[^key-479be967cbe79a398d126d078d89adcc]: Textual amendment: [Reg. 5(8)(c)](https://www.legislation.gov.uk/uksi/2003/494/regulation/5/8/c) and word inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [82](https://www.legislation.gov.uk/uksi/2013/630/regulation/82)
+
+[^key-1a911a58f6b94465856dc80a2b7199f3]: Textual amendment: Words in [reg. 5(8)(c)](https://www.legislation.gov.uk/uksi/2003/494/regulation/5/8/c) inserted (N.I.) (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [58](https://www.legislation.gov.uk/nisr/2016/236/regulation/58)

@@ -1,0 +1,81 @@
+---
+title: Education Act 2002, section 48
+act: Education Act 2002
+section: '48'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2002/32/section/48
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Education Act 2002, section 48
+
+> **Warning: changes not yet applied to this text (67).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/32
+>
+> Extent: England, Wales.
+
+## 48. Co-ordination of admission arrangements[^c385173][^key-0c27b4e0ac58bb9b46d01a7d6a865e10]
+
+*Extent: E+W*
+
+After section 89A of the School Standards and Framework Act 1998 (c. 31) there is inserted—
+
+> **89B. Co-ordination of admission arrangements**
+>
+> (1) Regulations may require a local authority[^key-379c0a8ab791aad4cda0b42dbea5f020] —
+>
+> - (a) to formulate, for any academic year in relation to which prescribed conditions are satisfied, a qualifying scheme for co-ordinating the arrangements for the admission of pupils to maintained schools in their area, and
+> - (b) to take prescribed action with a view to securing the adoption of the scheme by themselves and each governing body who are the admission authority for a maintained school in their area.
+>
+> (2) Subject to subsection (3), the Secretary of State may make, in relation to the area of a local authority and an academic year, a scheme for co-ordinating the arrangements, or assisting in the co-ordination of the arrangements, for the admission of pupils to maintained schools in that area.
+>
+> (3) A scheme may not be made under subsection (2) in relation to a local authority and an academic year if, before the prescribed date in the year preceding the year in which that academic year commences—
+>
+> - (a) a scheme formulated by the local authority in accordance with subsection (1) is adopted in the prescribed manner by the persons mentioned in paragraph (b) of that subsection, and
+> - (b) the authority provide the Secretary of State with a copy of the scheme and inform him that the scheme has been so adopted.
+>
+> (4) The Secretary of State may by regulations require local authorities[^key-0b83dc4852763b67d3e91bf8700f3c44] to provide other local authorities with such information as may be required by them in connection with the exercise of any of their functions under this Chapter.
+>
+> (5) Regulations may provide—
+>
+> - (a) that each local authority shall secure that, subject to such exceptions as may be prescribed, no decision made by any admission authority for a maintained school in their area to offer or refuse a child admission to the school shall be communicated to the parent of the child except on a single day, designated by the local authority, in each year, or
+> - (b) that, subject to such exceptions as may be prescribed, a decision made by the admission authority for a maintained school to offer or refuse a child admission to the school shall not be communicated to the parent of the child except on a prescribed day.
+>
+> (6) In this section—
+>
+> - “**academic year**” means a period commencing with 1st August and ending with the next 31st July;
+> - “**qualifying scheme**” means a scheme that meets prescribed requirements.
+>
+> **89C. Further provision about schemes adopted or made by virtue of section 89B**
+>
+> (1) Regulations may make provision about the contents of schemes under section 89B(2), including provision about the duties that may be imposed by such schemes on—
+>
+> - (a) local authorities, and
+> - (b) the admission authorities for maintained schools.
+>
+> (2) Regulations may provide that where a local authority or the governing body of a maintained school have, in such manner as may be prescribed, adopted a scheme formulated by a local authority for the purpose mentioned in section 89B(1)(a), sections 496 and 497 of the Education Act 1996 shall apply as if any obligations imposed on the local authority or governing body under the scheme were duties imposed on them by that Act.
+>
+> (3) Regulations may provide that where any decision as to whether a child is to be granted or refused admission to a maintained school falls to be made in prescribed circumstances, the decision shall, if a scheme adopted or made by virtue of this section so provides, be made by the local authority regardless of whether they are the admission authority for the school.
+>
+> (4) Before proposing a scheme for adoption under section 89B(1) a local authority shall comply with such requirements as to consultation as may be prescribed.
+>
+> (5) Regulations under subsection (4) may in particular require consultations to be undertaken with a view to securing that the arrangements for the admission of pupils to maintained schools in the areas of different local authorities are, so far as is reasonably practicable, compatible with each other.
+>
+> (6) Before making a scheme under section 89B(2) in relation to the area of any local authority, the Secretary of State shall consult—
+>
+> - (a) the local authority, and
+> - (b) any governing body who are the admission authority for a school which appears to the Secretary of State to be a school to which the scheme will apply.
+>
+> (7) A scheme made under section 89B(2) may be varied or revoked by the Secretary of State.
+
+## Annotations
+
+[^c385173]: Commencement: S. 48 partly in force; s. 48 not in force at Royal Assent, see s. 216; s. 48 in force for E. at 1.10.2002 by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
+
+[^key-0c27b4e0ac58bb9b46d01a7d6a865e10]: Commencement: S. 48 in force at 1.2.2006 for W. by [S.I. 2006/172](https://www.legislation.gov.uk/uksi/2006/172), [art. 4](https://www.legislation.gov.uk/uksi/2006/172/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2006/172/schedule)
+
+[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+
+[^key-0b83dc4852763b67d3e91bf8700f3c44]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/3)

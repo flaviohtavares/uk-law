@@ -1,0 +1,46 @@
+---
+title: Corporation Tax Act 2009, section 1015A
+act: Corporation Tax Act 2009
+section: 1015A
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/4/section/1015A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2009, section 1015A
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 1015A. Application of Chapter: employees of overseas companies who take up employment with a UK company[^key-e85b633ffb5e50974454e3ebcf22f1a1]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if—
+
+- (a) a person (“E”) has, or had, an employment with a non-UK resident company not within the charge to corporation tax (“the overseas employment”),
+- (b) E or another person obtains an option to acquire shares because of the overseas employment,
+- (c) E has an employment (“the UK employment”) with a company that is a UK resident company or a non-UK resident company within the charge to corporation tax,
+- (d) the person who obtained the option acquires shares pursuant to it, and
+- (e) subsection (2) applies.
+
+(2) This subsection applies if—
+
+- (a) an amount of employment income of E is charged to tax under ITEPA 2003 in relation to the acquisition because of the UK employment, or
+- (b) it is because of the UK employment that E or another person is able to acquire the shares pursuant to the option.
+
+(3) For the purposes of section 1015(1)(c) (requirement that option is obtained because of employment), the option is (regardless of when it is obtained) to be treated as if it is obtained because of the UK employment.
+
+(4) In section 1016 (conditions relating to the shares acquired) references to the employing company are to be read as including references to the company mentioned in subsection (1)(a).
+
+(5) If, in relation to the acquisition, an amount of relief would otherwise be available that is more than the total amount of employment income of E charged to tax under ITEPA 2003, the amount of relief is (notwithstanding any other provision of this Chapter) limited to the total amount of that income so charged.
+
+(6) If relief is available to more than one company in respect of the same acquisition of shares pursuant to an option, relief may only be given to one of them in respect of that acquisition.
+
+## Annotations
+
+[^key-e85b633ffb5e50974454e3ebcf22f1a1]: Textual amendment: Ss. 1015A, 1015B inserted (6.4.2015) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 43](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/43), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)

@@ -1,0 +1,54 @@
+---
+title: Taxation (International and Other Provisions) Act 2010, section 67
+act: Taxation (International and Other Provisions) Act 2010
+section: '67'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/8/section/67
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation (International and Other Provisions) Act 2010, section 67
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 67. Restriction of relief if underlying tax at rate higher than rate of corporation tax
+
+*Extent: E+W+S+N.I.*
+
+(1) Subsection (6) applies if—
+
+- (a) conditions A and B are met, and
+- (b) one of conditions C and D is met.
+
+(2) Condition A is that a company (“the claimant company”) makes a claim for an allowance by way of credit in accordance with this Part.
+
+(3) Condition B is that the claim relates to underlying tax on a dividend paid to the claimant company by a company resident outside the United Kingdom (“the overseas company”).
+
+(4) Condition C is that the underlying tax is, or includes, an amount in respect of tax payable at a high rate by the overseas company and—
+
+- (a) that amount would not be, or would not be included in, the underlying tax, or
+- (b) any part of that amount would not be included in the underlying tax,
+
+but for the existence of, or but for there having been, an avoidance scheme (see section 68).
+
+(5) Condition D is that—
+
+- (a) there is a dividend-paying chain (see section 64) in which—
+  - (i) the first company is the claimant company, and
+  - (ii) the second company is the overseas company, and
+- (b) the underlying tax is, or includes, an amount in respect of tax payable at a high rate by a company lower in the chain than the overseas company and—
+  - (i) that amount would not be, or would not be included in, the underlying tax, or
+  - (ii) any part of that amount would not be included in the underlying tax,
+
+  but for the existence of, or but for there having been, an avoidance scheme (see section 68).
+
+(6) The amount of credit to which the claimant company is entitled on the claim is to be determined as if the tax payable at a high rate had instead been tax at the relievable rate.
+
+(7) For the purposes of this section, tax payable by a company is “tax payable at a high rate” so far as the amount payable exceeds the amount that would represent tax at the relievable rate on the profits of the company which, for the purposes of this Part, are taken to bear the payable tax.
+
+(8) In this section “**the relievable rate**” means the rate of corporation tax in force when the dividend mentioned in subsection (3) was paid.

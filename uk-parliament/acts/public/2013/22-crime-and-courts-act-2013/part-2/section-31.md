@@ -1,0 +1,49 @@
+---
+title: Crime and Courts Act 2013, section 31
+act: Crime and Courts Act 2013
+section: '31'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2013/22/section/31
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Crime and Courts Act 2013, section 31
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 31. Making, and use, of recordings of Supreme Court proceedings
+
+*Extent: E+W+S+N.I.*
+
+(1) Section 9 of the Contempt of Court Act 1981 (recording of court proceedings) is amended as follows.
+
+(2) After subsection (1) insert—
+
+> (1A) In the case of a recording of Supreme Court proceedings, subsection (1)(b) does not apply to its publication or disposal with the leave of the Court.
+
+(3) In subsection (2) (leave under subsection (1)(a): grant, refusal, conditions, withdrawal and amendment)—
+
+- (a) after “paragraph (a) of subsection (1)” insert “ , or under subsection (1A), ”,
+- (b) for “if granted may” substitute
+
+  > if granted—
+  >
+  > - (a) may, in the case of leave under subsection (1)(a),
+
+  , and
+- (c) after “leave; and” insert—
+
+  > - (b) may, in the case of leave under subsection (1A), be granted subject to such conditions as the Supreme Court thinks proper with respect to publication or disposal of any recording to which the leave relates;
+  >
+  > and
+
+  .
+
+(4) In subsection (1) (activities which are contempt of court) after paragraph (c) insert—
+
+> - (d) to publish or dispose of any recording in contravention of any conditions of leave granted under subsection (1A).

@@ -1,0 +1,59 @@
+---
+title: Care Act 2014, section 28
+act: Care Act 2014
+section: '28'
+status: not-yet-in-force
+text_date: '2026-07-15'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2014/23/section/28
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Care Act 2014, section 28
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 28. Independent personal budget
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) An independent personal budget is a statement which specifies what the cost would be to the local authority concerned (see section 24(3)) of meeting the adult's eligible needs for care and support.
+
+(2) Where the amount referred to in subsection (1) includes daily living costs, the independent personal budget for the adult must specify—
+
+- (a) the amount attributable to those daily living costs, and
+- (b) the balance of the amount referred to in subsection (1).
+
+(3) An adult's needs are “eligible needs” if, at the time they were met—
+
+- (a) they met the eligibility criteria,
+- (b) they were not being met by a carer, and
+- (c) the adult was ordinarily resident or present in the area of the local authority.
+
+(4) A local authority must—
+
+- (a) keep under review generally independent personal budgets that it has prepared, and
+- (b) on a reasonable request by or on behalf of the adult to whom an independent personal budget relates, review the independent personal budget.
+
+(5) A local authority may revise an independent personal budget; and in deciding whether or how to do so, it must, in so far as it is feasible to do so, involve—
+
+- (a) the adult to whom the independent personal budget relates,
+- (b) any carer that the adult has, and
+- (c) any other person whom the adult asks the authority to involve or, where the adult lacks capacity to ask the authority to do that, any person who appears to the authority to be interested in the adult's welfare.
+
+(6) Where a local authority is satisfied that the circumstances of the adult to whom an independent personal budget applies have changed in a way that affects the independent personal budget, the authority must—
+
+- (a) to the extent it thinks appropriate, carry out a needs assessment and make a determination under section 13(1), and
+- (b) revise the independent personal budget accordingly.
+
+(7) Where, in a case within subsection (6), an adult refuses a needs assessment and the local authority thinks that the adult's refusal is unreasonable, it need no longer keep an up-to-date care account in the adult's case.
+
+(8) Having reviewed an independent personal budget, a local authority must—
+
+- (a) if it revises the independent personal budget, notify the adult to whom the independent personal budget relates of the revisions and provide an explanation of the effect of each revision, or
+- (b) if it does not revise the independent personal budget, notify the adult accordingly.

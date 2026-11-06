@@ -1,0 +1,2841 @@
+---
+title: The Investment Bank Special Administration Regulations 2011
+id: uksi/2011/245
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-02-07'
+text_date: '2025-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/245
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/245/pdfs/uksiem_20110245_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/245/pdfs/uksi_20110245_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/245/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Investment Bank Special Administration Regulations 2011
+
+> Text as at 2025-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 245
+
+Financial Services And Markets
+
+The Investment Bank Special Administration Regulations 2011
+
+Made
+
+7th February 2011
+
+Coming into force in accordance with regulation 1
+
+The Treasury make the following Regulations in exercise of the powers conferred by sections 233, 234 and 259(1) of the Banking Act 2009 [^c20697751] (the power in section 233 having not yet lapsed under section 235(4)).
+
+Before laying these Regulations before Parliament in draft, the Treasury consulted in accordance with section 235(3) of that Act.
+
+A draft of these Regulations has been laid before and approved by resolution of each House of Parliament in accordance with section 235(2) of that Act.[^key-0df1d44834f2c6f73e06d72d5dc94147][^key-034b303c2c8e8357ca124320484ba6b3]
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Investment Bank Special Administration Regulations 2011 and shall come into force on the day after the day on which they are made.
+
+## 2. Interpretation
+
+(1) In these Regulations, except where the context otherwise requires—
+
+- “**the Act**” means the Banking Act 2009;
+- “**administrator**” has the meaning set out in regulation 4;
+- “**Authorities**” means the Bank of England, the Treasury , the[^key-6aabc6b24d764aa7cd7732dc703f1f10] FCA and the PRA;
+- “**business day**” has the meaning set out in section 251 of the Insolvency Act;
+- “**client**” means a person for whom the investment bank has undertaken to receive or hold client assets (whether or not on trust and whether or not that undertaking has been complied with);
+- “client money account” means an account which the investment bank maintains in accordance with client money rules, including an account with any person which the investment bank maintains for the purpose of—[^key-fbaf2d916dd979952de9cac6d4dd0acc]
+  - (a) any transaction with or by that person for a client’s benefit; or
+  - (b) meeting a client’s obligation to provide collateral for a transaction;
+- “client money” means client assets which are money received or held by an investment bank for, or on behalf of, clients;
+- “client money pool” means the pool of client money which is held on trust by the investment bank in accordance with client money rules and has been pooled in accordance with those rules for the purpose of distribution;
+- “client money rules” means rules made under Part 9A of FSMA (rules and guidance) which make provision relating to the handling and distribution of money held by a person who is authorised for the purposes of FSMA;
+- “**contributory**” has the meaning set out in section 79 of the Insolvency Act [^c20697761];
+- “**court**” means—
+  - (a) in England and Wales, the High Court,
+  - (b) in Scotland, the Court of Session, and
+  - (c) in Northern Ireland, the High Court;
+- “**deposit-taking bank**” means an investment bank to which the definition set out either in section 2 or in section 91 of the Act applies;
+- “**the Disqualification Act**” means the Company Directors Disqualification Act 1986 [^c20697771];
+- [^key-712714af156bf7446893385c2563f13d]...
+- [^key-712714af156bf7446893385c2563f13d]...
+- “**enactment**” includes—
+  - (a) an enactment comprised in or in an instrument made under an Act of the Scottish Parliament;
+  - (b) Acts and Measures of the National Assembly for Wales and instruments made such an Act or Measure;
+  - (c) Northern Ireland legislation;
+
+  and any EU Instrument (as defined in Part 2 of Schedule 1 of the European Communities Act 1972 [^c20697781]);
+- “**fair**” is to be construed in accordance with section 93(8) of the Act;
+- “[^key-d2088f93751bc91b158206f4222e90b1]FCA” means the Financial Conduct Authority;
+- “foreign property” has the meaning given by section 39(2) of the Act;[^key-8d64b24a7f0a95b40e8d42be6dbe63a0]
+- “**FSCS**” means the scheme manager of the Financial Services Compensation Scheme (established under Part 15 of FSMA);
+- “**FSMA**” means the Financial Services and Markets Act 2000 [^c20697791];
+- “**the Insolvency Act**” means the Insolvency Act 1986 [^c20697801];
+- “**insolvency rules**” means rules made under section 411 of the Insolvency Act as applied and modified by regulation 15;
+- “**market charge**” means a charge to which Part 7 of the Companies Act 1989 [^c20697811] applies as a result of the operation of section 173 of that Act [^c20697821];
+- “**market contract**” means a contract to which Part 7 of the Companies Act 1989 applies as a result of the operation of section 155 of that Act [^c20697831];
+- “**market infrastructure body**” means a recognised clearing house, recognised CSD,[^key-d5fb904e17f93244ad4a6392ef066404] recognised investment exchange  [^key-8efd3e17041673a3876990ce6913be20][^key-e3e428e3a77cc909b2d7ed81a4108087]..., third country central counterparty, recognised overseas clearing house  [^key-99dbfa36154be6891a54becc2326665d][^key-e3e428e3a77cc909b2d7ed81a4108087]..., third country CSD or recognised overseas investment exchange in relation to which the investment bank is a counterparty in a market contract or to a market charge or is a member or participant;
+- “**Objective 1**”, “**Objective 2**” and “**Objective 3**” have the meanings set out in regulation 10;
+- “[^key-e313c2f64fdd95aced9bd3ff78f26c58]PRA” means the Prudential Regulation Authority;
+- “PRA-authorised person” has the meaning given by FSMA;
+- “**prescribed**” means prescribed by insolvency rules;
+- “**recognised clearing house**” has the meaning set out in section 285 of FSMA;
+- “[^key-4a1107f0d9f1fda3f9f441436c16d7b6]**recognised CSD**” has the meaning set out in section 285 of FSMA;
+- “**recognised investment exchange**” has the meaning set out in section 285 of FSMA;
+- “**recognised overseas clearing house**” means an overseas person in respect of whom a recognition order has been made[^key-116fa9b6dea3b02b6170bf474776ba05] under section 292 of FSMA [^c20697841] declaring them to be a recognised clearing house;
+- “**recognised overseas investment exchange**” means an overseas person in respect of whom a recognition order has been made[^key-d29dce3a7c363ef099db2cf6a864ba51] under section 292 of FSMA declaring them to be a recognised investment exchange;
+- “the regulators” means the[^key-7a6712df65bd41834e63408e18621723] FCA and the PRA, and references to a regulator are to be read accordingly;
+- “**Schedule B1**” means Schedule B1 to the Insolvency Act [^c20697851];
+- “**Schedule B1 administration**” means the administration procedure set out in Schedule B1;
+- “**securities**” means financial instruments as defined in regulation 3 of the Financial Collateral Arrangements (No.2) Regulations 2003 [^c20697861];
+- “**security interest**” means any legal or equitable interest or any other right in security (other than a title transfer financial collateral arrangement) created or otherwise arising by way of security including—
+  - (a) a pledge,
+  - (b) a mortgage,
+  - (c) a fixed charge,
+  - (d) a charge created as a floating charge, or
+  - (e) a lien;
+- “**special administration**” has the meaning set out in regulation 3;
+- “**special administration (bank insolvency)**” has the meaning set out in paragraph 1 of Schedule 1;
+- “**special administration (bank administration)**” has the meaning set out in paragraph 1 of Schedule 2;
+- “**special administration objectives**” has the meaning set out in regulation 10;
+- “**special administration order**” has the meaning set out in regulation 4;
+- “**statement of proposals**” means the statement of proposals drawn up by the administrator in accordance with—
+  - (a) paragraph 49 of Schedule B1 (as applied by regulation 15);
+  - (b) where the FCA[^key-77ce3c6d0434613715f33a56931ebaad] or, where relevant, the PRA has given a direction, regulation 17; or
+  - (c) in relation to Schedule 2, paragraph 7 of that schedule; and
+- “third country central counterparty” has the meaning set out in section 285 of FSMA;[^key-d9ff1f1c75f910cd8db7ad48b08f2428]
+- “**third country CSD**” has the meaning set out in section 285 of FSMA;
+- “**title transfer financial collateral arrangement**” has the meaning set out in regulation 3 of the Financial Collateral Arrangements (No.2) Regulations 2003.
+
+(2) In the definition of “security interest”, in sub-paragraph (c), in its application to Scotland, “**fixed charge**” means a fixed security within the meaning given by section 47(1) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 [^c20697871].
+
+(2A)[^key-233ae3ffde01f32fd499774787e41084] In these Regulations a reference to the investment bank’s own bank accounts includes a reference to any account, other than a client money account, opened by the administrator for the purposes of the special administration.
+
+(3) References in these Regulations to a regulated activity must be read with—
+
+- (a) section 22 of FSMA (classes of regulated activity and categories of investment);
+- (b) any relevant order under that section; and
+- (c) Schedule 2 to that Act (regulated activities).
+
+(4) For the purposes of a reference in these Regulations to inability to pay debts—
+
+- (a) an investment bank that is in default on an obligation to pay a sum due and payable under an agreement is to be treated as unable to pay its debts; and
+- (b) section 123 of the Insolvency Act (inability to pay debts) also applies,
+
+and for the purposes of sub-paragraph (a), “**agreement**” means an agreement the making or performance of which constitutes or is part of a regulated activity carried on by the investment bank.
+
+(5) Expressions used in these Regulations and in the Insolvency Act have the same meaning as in that Act, and the provision made by paragraphs 100 and 101 of Schedule B1 (as applied by regulation 15) in respect of the effect of the references in that Schedule also apply in respect of the same references where used in these Regulations.
+
+(6) Expressions used in these Regulations and in the Companies Act 2006 [^c20697881] have the same meaning as in that Act.
+
+(7) Regulation 26 applies with respect to the application of these Regulations to Northern Ireland.
+
+## 3. Overview
+
+(1) These Regulations provide for a procedure to be known as investment bank special administration (“special administration”).
+
+(2) The main features of special administration are that—
+
+- (a) an investment bank enters the procedure by court order;
+- (b) the order appoints an administrator;
+- (c) the administrator is to pursue the special administration objectives in accordance with the statement of proposals approved by the meeting of creditors and clients and, in certain circumstances, the FCA[^key-04ce82b1aaf2106ade6e63ad82407a71] or, where relevant, the PRA; and
+- (d) in other respects the procedure is the same as for Schedule B1 administration under the Insolvency Act, subject to specific modifications, and the inclusion of certain liquidation provisions of the Insolvency Act.
+
+(3) Where the investment bank is a deposit-taking bank with eligible depositors (within the meaning of section 93(3) of the Act)—
+
+- (a) regulations 4 to 8 do not apply; and
+- (b) in addition to the insolvency procedures established under Parts 2 and 3 of the Act, the Bank of England , the[^key-5572b32b1b7e7186723d83ff98e10317] FCA or, in certain cases, the PRA, may apply for an order to put the bank into—
+  - (i)[^key-8da3a657e3878868382db5344480a0df] special administration (bank insolvency) as set out in Schedule 1 (as applied by regulation 9); or
+  - (ii) special administration (bank administration) as set out in Schedule 2 (as applied by regulation 9).
+
+(4) Where the investment bank is a deposit-taking bank but has no eligible depositors, the investment bank must not be put into special administration (bank insolvency); instead the investment bank may be put into either—
+
+- (a) special administration (bank administration), (in which case regulations 4 to 8 do not apply); or
+- (b) special administration.
+
+## 4. Special administration order
+
+(1) An investment bank special administration order (“special administration order”) is an order appointing a person as the investment bank administrator (“administrator”) of an investment bank.
+
+(2) A person is eligible for appointment as administrator under a special administration order if qualified to act as an insolvency practitioner in relation to the investment bank[^key-9505343ccd0e9c1328c392a3578cf5e0].
+
+(3) An appointment may be made only if the person has consented to act.
+
+(4) For the purpose of these Regulations—
+
+- (a) an investment bank is “in special administration” while the appointment of the administrator has effect;
+- (b) an investment bank “enters special administration” when the appointment of the administrator takes effect;
+- (c) an investment bank ceases to be in special administration when the appointment of the administrator ceases to have effect in accordance with these Regulations; and
+- (d) an investment bank does not cease to be in special administration merely because an administrator vacates office (by reason of resignation, death or otherwise) or is removed from office.
+
+## 5. Application
+
+(1) An application to the court for a special administration order may be made to the court by—
+
+- (a) the investment bank;
+- (b) the directors of the investment bank;
+- (c) one or more creditors of the investment bank;
+- (d) the designated officer for a magistrates' court in the exercise of the power conferred by section 87A of the Magistrates' Courts Act 1980 [^c20697891] (fines imposed on companies);
+- (e) (subject to paragraph (7)), a contributory of the investment bank;
+- (f) a combination of persons listed in sub-paragraphs (a) to (e);
+- (g) the Secretary of State; [^key-eb47f7f5b0a96935d09c51d508bcfdaa]...
+- (h)[^key-5ba0709b6f389e9fda37ae94fea63e4f] the FCA; or
+- (i) if the investment bank is a PRA-authorised person, the PRA.
+
+(2) Where an application is made by a person other than the FCA[^key-2f66b0e3dc98eb52d1cda5959b176b38], the FCA is entitled to be heard at—
+
+- (a) the hearing of the application for special administration; and
+- (b) any other hearing of the court in relation to the investment bank under these Regulations.
+
+(2A)[^key-33c99e3b49f27ea062facba79c9110cd] Where an application is made by a person other than the PRA in relation to an investment bank which is a PRA-authorised person, the PRA is entitled to be heard at—
+
+- (a) the hearing of the application for special administration; and
+- (b) any other hearing of the court in relation to the investment bank under these Regulations.
+
+(3) An application must nominate a person to be appointed as the administrator.
+
+(4) As soon as is reasonably practicable after making the application, the applicant shall notify—
+
+- (a) a person who gave notice to the appropriate regulator[^key-f54f4c5459410a2dd83220859bb3efda] in accordance with Condition 1 of regulation 8; and
+- (b) such other persons as may be prescribed.
+
+(5) An application may not be withdrawn without the permission of the court.
+
+(6) In sub-paragraph (1)(c), “**creditor**” includes a contingent creditor and a prospective creditor.
+
+(7) A contributory (“C”) is not entitled to make an application for special administration unless either—
+
+- (a) the number of members is reduced below 2; or
+- (b) the shares in respect of which C is a contributory, or some of them, either were originally allotted to C, or have been held by C and registered in C's name, for at least 6 months during the 18 months before the commencement of the special administration, or have devolved on C through the death of a former holder.
+
+## 6. Grounds for applying
+
+(1) In this regulation—
+
+- (a) Ground A is that the investment bank is, or is likely to become, unable to pay its debts;
+- (b) Ground B is that it would be fair to put the investment bank into special administration; and
+- (c) Ground C is that it is expedient in the public interest to put the investment bank into special administration.
+
+(2) The FCA[^key-4d9c5c75b8b559fc8e2c88fa2f53a2ff] or, where relevant, the PRA or the persons listed in regulation 5(1)(a) to (e) may apply for a special administration order only if they consider that Ground A or Ground B is met.
+
+(3) The Secretary of State may apply for a special administration order only if it appears to the Secretary of State that Grounds B and C are met.
+
+(4) The sources of information on the basis of which the Secretary of State may reach a decision on Ground C include those listed in section 124A(1) [^c20697901] of the Insolvency Act (petition for winding up on grounds of public interest).
+
+## 7. Powers of the court
+
+(1) On an application for a special administration order the court may—
+
+- (a) grant the application in accordance with paragraph (2);
+- (b) dismiss the application;
+- (c) adjourn the hearing (generally or to a specified date);
+- (d) make an interim order;
+- (e) on the application of the FCA[^key-5e6c3ab4a22dd8723b0fa11f26673d52], treat the application as an administration application by the FCA under Schedule B1 in accordance with section 359(1) of FSMA [^c20697911]; or
+- (ea)[^key-efe07c39f75ef572822f18e049c8565e] on the application of the PRA, treat the application as an administration application by the PRA under Schedule B1 in accordance with section 359(1A) of FSMA;
+- (f) make any other order which the court thinks appropriate.
+
+(2) The court may make a special administration order if it is satisfied that the company is an investment bank and—
+
+- (a) (on the application of persons listed in regulation 5(1)(a) to (e) , the[^key-5bc22fa671aeed014717a66cf2e4dfa4] FCA or PRA) that Ground A or Ground B in regulation 6 is satisfied;
+- (b) (on the application of the Secretary of State) if satisfied that Grounds B and C in regulation 6 are satisfied.
+
+(3) Where the application for a special administration order is made by members of the investment bank as contributories on the basis that Ground B in regulation 6 is satisfied, the court, if it is of the opinion that—
+
+- (a) the applicants are entitled to relief either by a special administration order being made in respect of the investment bank or by some other means; and
+- (b) in the absence of any other remedy it would be fair that the special administration order be made in respect of the investment bank,
+
+shall make a special administration order; but this does not apply if the court is also of the opinion that an alternative remedy is available to the applicants and that they are acting unreasonably in applying for a special administration order instead of pursuing that other remedy.
+
+(4) A special administration order takes effect in accordance with its terms.
+
+## 8. Notice to appropriate regulator of preliminary steps to other insolvency proceedings[^key-c472ae88c533c873f98168504d058dbd]
+
+(1) An application for an administration order in respect of an investment bank may not be made unless the conditions in paragraph (5) are satisfied.
+
+(1A)[^key-2c805deee2dbce9e5052e56f1a3145dd] An application for an order under regulation 8 of the Payment and Electronic Money Institution Insolvency Regulations 2021 in respect of an investment bank may not be made unless the conditions in paragraph (5) are satisfied.
+
+(2) A petition for a winding up order in respect of an investment bank may not be made unless the conditions in paragraph (5) are satisfied.
+
+(3) A resolution for the voluntary winding up of an investment bank may not be made unless the conditions in paragraph (5) are satisfied.
+
+(4) An administrator of an investment bank may not be appointed unless the conditions in paragraph (5) are satisfied.
+
+(5) The conditions are as follows—
+
+- (a) Condition 1 is that the appropriate regulator has been notified of the preliminary steps taken in respect of an insolvency procedure;
+- (b) Condition 2 is that a copy of the notice complying with Condition 1 has been filed (in Scotland, lodged) with the court (and made available for public inspection by the court);
+- (c) Condition 3 is that —
+  - (i) the period of 2 weeks, beginning with the day on which the notice is received by the appropriate regulator, has ended, or
+  - (ii) the appropriate regulator has informed the person who gave the notice that it consents to the insolvency procedure to which the notice relates going ahead; and
+- (d) Condition 4 is that no application for a special administration order is pending.
+
+(6) Where the appropriate regulator receives notice under Condition 1, it shall inform the person who gave the notice, within the period in Condition 3—
+
+- (a) whether or not it consents to the insolvency procedure to which the notice relates going ahead;
+- (b) whether or not it intends to apply for that (or an alternative) insolvency procedure itself; or
+- (c) whether it intends to apply for a special administration order.
+
+(7) Arranging for the giving of the notice in order to satisfy Condition 1 may be treated as a step with a view to minimising the potential loss to the investment bank's creditors for the purpose of section 214 of the Insolvency Act (as applied by regulation 15).
+
+(8) In this regulation—
+
+- “appropriate regulator” means—[^key-0c8b72bc27a3e76d4415a8857f64ed34]
+  - (a) in relation to an investment bank which is a PRA-authorised person, the FCA and the PRA (and any references in this regulation to the “appropriate regulator” are to be read as references to each of the FCA and PRA);
+  - (b) in any other case, the FCA;
+- “**investment bank**” does not include an investment bank that is a deposit-taking bank; and
+- “**preliminary steps taken in respect of an insolvency procedure**” means that—
+  - (a) an application for an administration order has been made;
+  - (aa) an application for an order under regulation 8 of the Payment and Electronic Money Institution Insolvency Regulations 2021 has been made;[^key-911614a1e0cb5c6265fa9b69b6c9ae05]
+  - (b) a petition for a winding up order has been presented;
+  - (c) a resolution for voluntary winding up has been proposed by the investment bank; or
+  - (d) a resolution for the appointment of an administrator has been proposed.
+
+## 9. Application where investment bank is a deposit-taking bank
+
+Subject to regulation 3(4), where the investment bank is a deposit-taking bank then Schedule 1 (Special administration (bank insolvency)) and Schedule 2 (Special administration (bank administration)) apply.
+
+## 10. Special administration objectives
+
+(1) The administrator has three special administration objectives (“the special administration objectives”)—
+
+- (a) Objective 1 is to ensure the return of client assets as soon as is reasonably practicable;
+- (b) Objective 2 is to ensure timely engagement with market infrastructure bodies and the Authorities pursuant to regulation 13; and
+- (c) Objective 3 is to either—
+  - (i) rescue the investment bank as a going concern, or
+  - (ii) wind it up in the best interests of the creditors.
+
+(2) In relation to sub-paragraph (1)(a), the administrator is entitled to deal with and return client assets in whatever order the administrator thinks best achieves Objective 1.
+
+(3) The order in which the special administration objectives are listed in this regulation is not significant: subject to regulation 16, the administrator must—
+
+- (a) commence work on each objective immediately after appointment, prioritising the order of work on each objective as the administrator thinks fit, in order to achieve the best result overall for clients and creditors; and
+- (b) set out, in the statement of proposals made under paragraph 49 of Schedule B1 (as applied by regulation 15), the order in which the administrator intends to pursue the objectives once the statement has been approved.
+
+(4) The administrator must work to achieve each objective, in accordance with the priority afforded to the objective as provided in paragraph (3), as quickly and efficiently as is reasonably practicable.
+
+(5) For the purposes of Objective 1, “return of client assets” or where the client assets are “returned” to the client means that the investment bank relinquishes full control over the assets for the benefit of the client to the extent of—
+
+- (a) the client's beneficial entitlement to those assets (where the assets in question have been held on trust by the investment bank); or
+- (b) the client's right to those assets as bailor or otherwise (where the investment bank has been holding those assets as bailee (in Scotland, as custodier of those assets) or by some other means to the order of the client);
+
+having taken into account any entitlement the investment bank might have, or a third party might have, in respect of those assets, of which the administrator is aware at the time the assets are returned to the client.
+
+(6) In relation to paragraph (5)—
+
+- (a) where client assets are returned to a person other than the client, for “client” substitute “ claimant ”; and
+- (b) where the claimant is the investment bank, for “relinquishes control over the assets for the benefit of the client” substitute “ takes full title to the assets for its benefit ”.
+
+## 10A. Objective 1—duty of administrator to work with the FSCS[^key-cada244e2ac87f5533c5d6b55dbb327b]
+
+(1) The administrator must—
+
+- (a) as soon as reasonably practicable after appointment as the administrator, inform the FSCS of the value of client assets held by the investment bank for each of the clients of the investment bank;
+- (b) keep the FSCS informed about progress towards the achievement of Objective 1;
+- (c) comply, as soon as reasonably practicable, with any request by the FSCS for the provision of information or the production of documents relating to the client assets held by the investment bank; and
+- (d) at the request of the FSCS, provide any assistance identified by the FSCS as being necessary for the purpose of enabling the FSCS to administer the compensation scheme in relation to the entitlement of clients of the investment bank to compensation.
+
+(2) Where the administrator is required by this regulation to provide any information or produce any document, the administrator may provide the information or produce the document in hard copy or in electronic format.
+
+(3) This regulation does not apply if the administrator is appointed under a special administration (bank insolvency) order (within the meaning given by paragraph 2 of Schedule 1).
+
+## 10B. Objective 1—transfer of client assets[^key-745f682b9f3494bedb8ab675e5f10598]
+
+(1) This regulation applies where—
+
+- (a) the administrator, in pursuit of Objective 1 (whether or not also in pursuit of Objective 3) enters into a binding arrangement with another financial institution for the transfer to that institution (“the transferee”) of all or some of the property, rights and liabilities of the investment bank; and
+- (b) for the purposes of that transfer the arrangement includes provision for a transfer of client assets to the transferee or to a person who has undertaken to receive or hold any of the assets to the order of the transferee.
+
+(2) This regulation is subject to the restrictions on partial property transfers in regulations 10C to 10G.
+
+(3) The transfer of client assets which the investment bank has undertaken to hold under a client contract and of relevant rights and liabilities is to have effect in spite of any—
+
+- (a) restriction affecting what can or cannot be assigned or transferred by the investment bank (whether generally or by a particular person or particular description of persons);
+- (b) requirement to give notice to, or obtain the consent (however referred to) of, any person who is party to the client contract; or
+- (c) entitlement of any person to the return of the assets otherwise than by transfer under the arrangement.
+
+(4) For these purposes it does not matter whether a restriction, requirement or entitlement has effect by virtue of a provision contained in a contract or an enactment, or in any other way, except that in paragraph (3)(a) a restriction does not include a restriction in client money rules.
+
+(5) To the extent that rights and liabilities under a client contract are transferred by the arrangement, the contract is to be treated for the purposes of the arrangement as if it had been made by the transferee rather than the investment bank.
+
+(6) The transferee may vary the terms of client contracts without obtaining the agreement of persons who are party to the contracts to the extent necessary for giving effect to the transfer and ensuring that the powers, rights and obligations of the transferee acting as a trustee are exercisable.
+
+(7) Where necessary for the purposes of the arrangement the administrator may disclose to the transferee all information which is, in the administrator’s view, relevant to the transfer of client assets or rights and liabilities under client contracts.
+
+(8) Subject to paragraph (9), paragraph (7) overrides any contractual or other requirement to keep information in confidence.
+
+(9) Paragraphs (7) and (8) do not authorise a disclosure, in contravention of any provisions of the Data Protection Act 1998, of any personal data which are not exempt from the provisions of that Act.
+
+(10) The arrangement must include such provision as the administrator thinks necessary to ensure that clients whose assets are to be transferred will be able to exercise their rights in relation to the assets as soon as reasonably practicable after the transfer.
+
+(11) For the purposes of this regulation, if the arrangement purports to transfer all of the property, rights and liabilities of the investment bank, it is to be treated as having done so effectively (so that none of regulations 10C to 10G applies to it) notwithstanding the possibility that any property, right or liability purportedly transferred is foreign property and might not have been effectively transferred by the arrangement.
+
+(12) In this regulation a reference to rights and liabilities of the investment bank or to rights and liabilities under a client contract, in relation to property held by the investment bank on trust (however arising), includes a reference to—
+
+- (a) the legal and beneficial interest of the investment bank in the property; and
+- (b) the powers and obligations of the investment bank acting as a trustee of the property.
+
+(13) In this regulation—
+
+- “client assets” means client assets (within the meaning given by section 232(4) of the Act) and assets equivalent to those which the investment bank undertook to hold for clients;
+- “client contract” means a contract under which the investment bank undertook to—
+  - (a) receive or hold client assets; or
+  - (b) provide any services or enter into any transactions for the benefit of a particular client in relation to the investment bank’s holding of client assets for that client;
+- “partial property transfer” means an arrangement of a kind referred to in paragraph (1) for the transfer of some, but not all, of the property, rights and liabilities of the investment bank; and
+- “relevant rights and liabilities”, in relation to a client contract, means the rights and liabilities under the contract so far as they have effect in relation to any client assets which are to be transferred by the arrangement.
+
+## 10C. Restrictions on partial property transfers—general provision
+
+(1) Regulation 10B has effect in relation to a partial property transfer as if paragraph (3)(b) of that regulation were omitted.
+
+(2) Paragraph (1) does not apply in relation to the transfer of protected rights and liabilities (within the meaning given in regulation 10D(2)) or the transfer of any property, benefits, rights or liabilities to which regulation 10E, 10F or 10G applies.
+
+(3) A partial property transfer must include such provision as the administrator thinks appropriate—
+
+- (a) to ensure that a client whose client assets are to be transferred by the arrangement will be entitled to demand a transfer back to the investment bank of assets which are transferred (“reverse transfer”);
+- (b) for the identification of assets for the purposes of a reverse transfer; and
+- (c) unless the investment bank has ceased to satisfy Condition 1 in section 232 of the Act (definition of “investment bank”), to ensure that the transferee is obliged to give effect to the reverse transfer as soon as reasonably practicable after the demand is made.
+
+(4) The administrator must take all steps necessary to give effect to the reverse transfer.
+
+(5) A reverse transfer has effect to transfer back to the investment bank the relevant rights and liabilities transferred by the arrangement so far as they have effect in relation to the client assets which are transferred back to the investment bank.
+
+(6) In this regulation “client assets”, “partial property transfer” and “relevant rights and liabilities” have the meaning given in regulation 10B(13).
+
+## 10D. Restrictions on partial property transfers—set-off and netting arrangements
+
+(1) A partial property transfer may not provide for the transfer of some, but not all, of the protected rights and liabilities between a client or other person (“C”) and the investment bank.
+
+(2) Rights and liabilities between C and the investment bank are protected if—
+
+- (a) they are rights and liabilities which C or the investment bank is entitled to set off or net under a particular set-off arrangement, netting arrangement or title transfer financial collateral arrangement which C has entered into with the investment bank; and
+- (b) they are not excluded rights or excluded liabilities.
+
+(3) For the purpose of paragraph (1), a partial property transfer which purports to transfer all of the protected rights and liabilities between C and the investment bank is to be treated as having done so effectively (and not in contravention of paragraph (1)) notwithstanding the possibility that any of the protected rights or liabilities are foreign property and might not have been effectively transferred by the arrangement.
+
+(4) For the purposes of paragraph (2), it is immaterial whether or not—
+
+- (a) the arrangement which permits C or the investment bank to set off or net rights and liabilities also permits C or the investment bank to set off or net rights and liabilities with another person; or
+- (b) the right of C or the investment bank to set off or net is exercisable only on the occurrence of a particular event.
+
+(5) A partial property transfer made in contravention of this regulation does not affect the exercise of the right to set off or net.
+
+(6) In this regulation—
+
+- “excluded rights”, in relation to rights between C and the investment bank, has the same meaning as it has in relation to rights between C and a banking institution by virtue of articles 1(3) and 3 of the Banking Act 2009 (Restriction of Partial Property Transfers) Order 2009, except that in article 1(3), in the definition of “excluded rights”—
+  - (a) in sub-paragraph (e) the reference to subordinated debt is to be read as a reference to subordinated debt issued by C or by the investment bank; and
+  - (b) in sub-paragraph (f)—
+    - (i) the reference to a set-off arrangement, netting arrangement or title transfer financial collateral arrangement is to be read as a reference to a set-off arrangement, netting arrangement or title transfer financial collateral arrangement referred to in this regulation; and
+    - (ii) the references to transferable securities are to be read as references to transferable securities issued by C or by the investment bank;
+- “excluded liabilities” means the liabilities which correspond with excluded rights;
+- “netting arrangement” means an arrangement under which a number of claims or obligations can be converted into a net claim or obligation and includes, in particular—
+  - (a) a “close-out” netting arrangement, under which actual or theoretical debts are calculated during the course of a contract for the purpose of enabling them to be set off against each other or to be converted into a net debt;
+  - (b) an arrangement which provides for netting (within the meaning given by regulation 2(1) of the Financial Markets and Insolvency (Settlement Finality) Regulations 1999); and
+  - (c) an arrangement which includes a close-out netting provision (within the meaning given by regulation 3(1) of the Financial Collateral Arrangements (No 2) Regulations 2003);
+- “partial property transfer” has the same meaning as in regulation 10B(13);
+- “set-off arrangement” means an arrangement under which two or more debts, claims or obligations can be set off against each other; and
+- “title transfer financial collateral arrangement” has the meaning given by regulation 3(1) of the Financial Collateral Arrangements (No 2) Regulations 2003.
+
+## 10E. Restrictions on partial property transfers—security interests
+
+(1) Subject to paragraph (6), paragraphs (3), (4) and (5) apply where under any binding arrangement one party owes to the other a liability which is secured against any property or rights.
+
+(2) For these purposes it is immaterial whether or not—
+
+- (a) the liability is secured against all or substantially all of the property or rights of a person;
+- (b) the liability is secured against specified property or rights; or
+- (c) the property or rights against which the liability is secured are owned by the person who owes the liability.
+
+(3) A partial property transfer may not transfer the property or rights against which the liability is secured unless that liability and the benefit of the security are also transferred.
+
+(4) A partial property transfer may not transfer the benefit of the security unless the liability which is secured is also transferred.
+
+(5) A partial property transfer may not transfer the liability unless the benefit of the security is also transferred.
+
+(6) Paragraphs (3), (4) and (5) do not apply if the investment bank entered into the binding arrangement in contravention of a rule prohibiting such arrangements made by the FCA or the PRA under FSMA or otherwise than in accordance with the investment bank’s Part 4A permission (within the meaning given by section 55A(5) of FSMA).
+
+(7) For the purposes of paragraphs (3), (4) and (5), a partial property transfer which purports to transfer any property, rights and liabilities is to be treated as having done so effectively (and not in contravention of any of those paragraphs) notwithstanding the possibility that any of that property, or of those rights or liabilities, is foreign property and might not have been effectively transferred by the arrangement.
+
+(8) In this regulation “partial property transfer” has the same meaning as in regulation 10B(13).
+
+## 10F. Restrictions on partial property transfers—capital market arrangements
+
+(1) Subject to paragraph (2), a partial property transfer may not provide for the transfer of some, but not all, of the property, rights and liabilities which are or form part of a capital market arrangement to which the investment bank is a party.
+
+(2) Paragraph (1) does not apply where the only property, rights and liabilities which are, or are not, transferred relate to deposits.
+
+(3) For the purpose of paragraph (1), a partial property transfer which purports to transfer all of the property, rights and liabilities which are or form part of a capital market arrangement to which the investment bank is a party is to be treated as having done so effectively (and not in contravention of paragraph (1)) notwithstanding the possibility that any property, right or liability purportedly transferred is foreign property and might not have been effectively transferred by the arrangement.
+
+(4) In this regulation—
+
+- “capital market arrangement” has the meaning given by paragraph 1 of Schedule 2A to the Insolvency Act;
+- “deposit” has the same meaning as in article 5 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001, disregarding the exclusions in other articles of that Order; and
+- “partial property transfer” has the same meaning as in regulation 10B(13).
+
+## 10G. Restrictions on partial property transfers—financial markets
+
+(1) A partial property transfer may not transfer property, rights or liabilities to the extent that doing so would have the effect of modifying, modifying the operation of, or rendering unenforceable—
+
+- (a) a market contract;
+- (b) the default rules of a recognised investment exchange , recognised clearing house or recognised CSD[^key-f3f8db030ed2b5d95e9ba0ea7d1e853b]; or
+- (c) the rules of a recognised investment exchange , recognised clearing house or recognised CSD as to the settlement of market contracts not dealt with under its default rules.
+
+(2) A partial property transfer is void in so far as it is made in contravention of this regulation.
+
+(3) In this regulation—
+
+- “default rules” has the meaning given in section 188 of the Companies Act 1989; and
+- “partial property transfer” has the same meaning as in regulation 10B(13).
+
+## 10H. Objective 1—post-administration reconciliation of accounts and records relating to client money[^key-7078f039bf2a9bdc31644fb0959290d8]
+
+(1) Immediately after being appointed as the administrator, the administrator must carry out a client money reconciliation in accordance with paragraph (2) and make any transfer required by paragraph (3) or (4).
+
+(2) The client money reconciliation must—
+
+- (a) be carried out in accordance with the method for carrying out client money reconciliations adopted by the investment bank to meet client money rules, whether or not the method adopted is in compliance with those rules;
+- (b) be based on records and accounts of the investment bank as they stood immediately after the last such reconciliation by the investment bank (but taking no further account of money received, or payments, transfers or transactions made, by the investment bank of which account was taken for the purposes of that reconciliation); and
+- (c) take account of money received, and payments, transfers and transactions made, by the investment bank after the last such reconciliation and before the appointment of the administrator.
+
+(3) Where the client money reconciliation shows that amount A exceeds amount B, the administrator must transfer an amount equal to the difference from the investment bank’s own bank accounts to any client money account other than a client transaction account.
+
+(4) Where the client money reconciliation shows that amount B exceeds amount A, the administrator must transfer an amount equal to the difference from the client money accounts to the investment bank’s own bank accounts.
+
+(5) In this regulation—
+
+- “amount A” means the total amount of client money which the investment bank, according to its own records and accounts, is required to hold in accordance with client money rules;
+- “amount B” means the total amount of client money which the investment bank holds in client money accounts;
+- “client money reconciliation” means a reconciliation of amount A with amount B; and
+- “client transaction account” means an account with any person which the investment bank maintains for the purpose of—
+  - (a) any transaction with or by that person for a client’s benefit; or
+  - (b) meeting a client’s obligation to provide collateral for a transaction.
+
+## 10I. Objective 1—removal of right to interest on unsecured claims for the return of client money
+
+(1) This regulation applies where—
+
+- (a) a debt arises from a liability of the investment bank to return client money;
+- (b) the client has not submitted a claim for payment of the debt by way of a distribution from the client money pool; and
+- (c) the client makes an unsecured claim for payment of the debt.
+
+(2) The client is not entitled to interest on the debt for the period commencing on the date on which the investment bank entered special administration, except interest on such part of the debt which remains after deduction of the total amount which the client would have received on a claim for payment of the debt by way of a distribution from the client money pool.
+
+## 11. Objective 1 – distribution of client assets
+
+(1) If the administrator thinks it necessary in order to expedite the return of client assets, the administrator may set a bar date for the submission of—
+
+- (a) claims to the beneficial ownership, or other form of ownership, of the client assets; or
+- (b) claims of persons in relation to a security interest asserted over, or other entitlement to, those assets.
+
+(2) Claims under paragraph (1) include claims that are contingent or disputed.
+
+(3) In setting a bar date, the administrator must allow a reasonable time after notice of the special administration has been published (in accordance with insolvency rules) for persons to be able to calculate and submit their claims.
+
+(4)[^key-b860c0cf9968ad812102b85c571d5347] Subject to paragraph (4A), where the administrator sets a bar date—
+
+- (a) the administrator must return client assets in accordance with the prescribed procedure; but
+- (b) no client assets may be returned after the bar date has been set unless the court has given its approval on an application made by the administrator in accordance with the prescribed procedure.
+
+(4A) The administrator may, at any time after setting a bar date, return client assets without the approval of the court if (and only if)—
+
+- (a) at that time the administrator has not made any application for court approval to return client assets;
+- (b) the administrator has identified the person who is beneficially entitled to the assets or has a right to the assets as bailor or otherwise; and
+- (c) the assets are not held by the investment bank in a client omnibus account (within the meaning given in regulation 12(9)).
+
+(5) Where the administrator, after setting a bar date, has returned client assets with the approval of the court[^key-c64ba39764c57cfc6e3a9f31a63a0b4c], if the administrator then receives a late claim of a type described in paragraph (1) in respect of assets that have been returned—
+
+- (a) there shall be no disruption to those client assets that have already been returned;
+- (b) the person to whom the assets have been returned acquires good title to them as against the late-claiming claimant,
+
+and insolvency rules shall prescribe how the late claim is to be treated by the administrator.
+
+(6) The restrictions in paragraph (5) shall not apply where—
+
+- (a) the client assets were returned to a person (“P”) by the administrator in bad faith in which P was complicit; or
+- (b) P is later found to have made a false claim to those assets.
+
+(7) In this regulation, “**bar date**” means a date by which claims as described in paragraph (1) must be submitted.
+
+(8) This regulation does not apply to client money[^key-2a87b2636a8599df6e8cc7bc66aadd79].
+
+## 12. Objective 1 - shortfall in client assets held in omnibus account
+
+(1) This regulation applies if—
+
+- (a) the administrator becomes aware that there is a shortfall in the amount available for distribution of securities of a particular description held by the investment bank as client assets in a client omnibus account;
+- (b) the shortfall cannot be remedied following the resolution of on-going disputes; and
+- (c) the assets in question are not client money[^key-ee83fd19dc0eab983b4d893bfdebb70f].
+
+(2) The administrator, in making the distribution, shall ensure (subject to the treatment of late claims as described in regulation 11(5)) that the shortfall referred to in paragraph (1) be borne pro rata by all clients for whom the investment bank holds securities of that particular description in that same account in proportion to their beneficial interest in those securities.
+
+(3) A person (including the investment bank) (“a security holder”) with a security interest over securities held in the client omnibus account on behalf of a particular client shall be entitled to participate in distributions and shortfall claims in respect of those securities in accordance with their entitlement as against that client (subject to the treatment of late claims as described in regulation 11(5)).
+
+(4) Security holders shall not, at any time, be entitled to claim in aggregate in excess of the distribution which the client would have been entitled to if there had been no claim by that client.
+
+(5) Any reduction of the client's beneficial interest as a result of the application of paragraph (2) shall limit correspondingly the rights of the security holder in respect of the distribution, (but this shall not affect the right of the security holder in respect of the client's shortfall claim as described in paragraph (7)).
+
+(6) Where there is a dispute between persons as to their respective share of a distribution, the administrator may—
+
+- (a) make the distribution in accordance with an agreement drawn up between the parties in dispute; or
+- (b) lodge the securities that are the subject of the dispute with the court,
+
+and if the administrator pursues either course of action, the administrator's obligations in respect of Objective 1 with regard to these securities shall be deemed to be discharged.
+
+(7) The shortfall borne by a client under paragraph (2) is that client's shortfall claim against the investment bank (“shortfall claim”) and shall rank as an unsecured claim.
+
+(8) The value of a client's shortfall claim shall be based on the market price for those securities to which the shortfall claim relates on the date the investment bank entered special administration or, if that is not a business day, on the last business day prior to the investment bank entering special administration.
+
+(9) In this regulation—
+
+- “**client omnibus account**” means an account held by the investment bank, or another institution in the name of the investment bank, made up of multiple accounts of clients of the investment bank;
+- “**distribution**” means the return of client assets that are securities of a particular description;
+- “**market price**” means—
+  - (a) the value of the securities on the day in question as determined by a reputable source used by the investment bank, immediately prior to the investment bank entering special administration, for valuing or reporting in respect of those securities; or
+  - (b) if this is not practicable, the value of those securities on the day in question as determined by the administrator which reflects, in the administrator's opinion, a fair and reasonable price for those securities; and
+- “**securities of a particular description**” means securities issued by the same issuer which are of the same class of shares or stock; or in the case of securities other than shares or stock, which are of the same currency and denomination and treated as forming part of the same issue.
+
+## 12A. Objective 1—distribution of client money[^key-f14adb00d54ac30da8445d550cdd004e]
+
+(1) If the administrator thinks it necessary in order to expedite the return of client money, the administrator may by notice set a bar date for the submission of client money claims.
+
+(2) In setting a bar date the administrator must allow a reasonable time after notice of the special administration has been published (in accordance with insolvency rules) for persons to be able to calculate and submit client money claims.
+
+(3) As soon as reasonably practicable after the bar date, the administrator must make a distribution of client money in accordance with client money rules to the clients or other persons who are entitled to payment under client money claims.
+
+(4) A person who submits a client money claim after the bar date, but before the return of client money after that date, must, so far as is reasonably practicable, be included within the distribution of client money under paragraph (3).
+
+(5) When determining the amount to be distributed under paragraph (3), the administrator must make allowance for the entitlement to the return of client money, by way of a subsequent distribution from the client money pool, of persons who have neither made a client money claim nor received any payment under a previous distribution of client money.
+
+(6) Where the administrator has returned client money after the bar date, no payment or part of any payment made to any person under the distribution may be recovered for the purpose of meeting a late claim.
+
+(7) The restriction in paragraph (6) does not apply where—
+
+- (a) client money was returned to a person by the administrator in bad faith in which that person was complicit; or
+- (b) a person to whom client money was returned is later found to have made a false claim to the money.
+
+(8) Where the administrator determines that a client or other person who makes a late claim would have participated in the distribution of client money under paragraph (3) if the claim had been submitted before the return of client money after the bar date, the administrator must include the claimant within a subsequent distribution from the client money pool.
+
+(9) In this regulation—
+
+- “bar date” means a date by which clients are invited to submit client money claims for the purposes of this regulation;
+- “client money claims” are claims for the return of client money which has been pooled in accordance with client money rules; and
+- “late claim” means a client money claim received after the bar date other than a claim received after that date from a person who is included within the distribution of client money under paragraph (3).
+
+## 12B. Objectives 1 and 3—client assets (other than client money) which the administrator is unable to return to clients
+
+(1) This regulation applies where the administrator, after setting a soft bar date, includes in the distribution plan provision for the option of setting a hard bar date.
+
+(2) If the administrator thinks it necessary in order to expedite the return of client assets, the administrator may by a hard bar date notice set a hard bar date.
+
+(3) The administrator may not set a hard bar date without the approval of the court given on application by the administrator.
+
+(4) A late claim of a type described in regulation 11(1) which is submitted in response to the setting of a bar date under that regulation on or after the date on which the administrator sets a hard bar date is to be treated as a client asset claim.
+
+(5) Where the administrator sets a hard bar date, the administrator, after that date—
+
+- (a) must return client assets to eligible claimants;
+- (b) may dispose of all client assets which the investment bank still holds after the return of client assets to any eligible claimants (“residual assets”); and
+- (c) must transfer the proceeds of any disposal of residual assets to the investment bank’s own bank accounts.
+
+(6) A person who acquires client assets on a disposal of residual assets acquires good title to them as against all clients.
+
+(7) Where the administrator receives a client asset claim after the hard bar date (“late claim”) and—
+
+- (a) the administrator has not made any arrangements for the disposal of the residual assets, or
+- (b) such arrangements as the administrator has made for their disposal do not prevent the administrator from returning them,
+
+the administrator must meet the late claim out of the residual assets.
+
+(8) Where the administrator has returned client assets after setting a hard bar date and then receives a late claim in respect of assets that have been returned—
+
+- (a) none of those assets may be recovered for the purpose of meeting the late claim; and
+- (b) the person to whom the assets have been returned acquires good title to them as against the late-claiming claimant.
+
+(9) The restrictions in paragraph (8) do not apply where—
+
+- (a) the client assets were returned to a person by the administrator in bad faith in which that person was complicit; or
+- (b) a person to whom client assets were returned is later found to have made a false claim to them.
+
+(10) Where a disposal of residual assets prevents the administrator from meeting a late claim—
+
+- (a) the claim which the late-claiming claimant has against the investment bank in consequence of the disposal ranks as an unsecured claim; and
+- (b) the value of the unsecured claim is the value of the consideration paid to the administrator for the assets disposed of which would have been returned to that claimant if their client asset claim had been made before the hard bar date.
+
+(11) No interest is payable on the debt for which a person makes an unsecured claim under paragraph (10).
+
+(12) This regulation does not apply to client money.
+
+(13) In this regulation—
+
+- “client asset claim” means a claim of a type described in regulation 11(1) which is submitted in response to the setting of a hard bar date;
+- “distribution plan” means the plan for the return of client assets which the administrator is required to draw up in accordance with insolvency rules after setting a soft bar date;
+- “eligible claimant” means—
+  - (a) a person to whom the administrator has already returned client assets under regulation 11; or
+  - (b) a person who—
+    - (i) submits a client asset claim on or before the hard bar date; and
+    - (ii) would have been eligible for a return of client assets under regulation 11 if the claim had been submitted in response to the setting of the soft bar date;
+- “hard bar date” means a final date (subject to provision for late claims in paragraphs (7) to (10)) for the submission of claims of a type described in regulation 11(1);
+- “hard bar date notice” means a notice which specifies a hard bar date and includes a statement that after the end of that day the administrator—
+  - (a) may dispose of client assets still held by the investment bank after the administrator has returned client assets to any eligible claimants; and
+  - (b) may, consequently, be unable to meet any further client asset claims; and
+- “soft bar date” means a bar date set under regulation 11.
+
+## 12C. Objectives 1 and 3—client money which the administrator is unable to return to clients
+
+(1) This regulation applies where the administrator, after setting a bar date under regulation 12A, thinks it is appropriate, in order to achieve Objective 1, to close the client money pool and treat any further claim for the return of client money as an unsecured claim.
+
+(2) The administrator may by a hard bar date notice set a hard bar date.
+
+(3) The administrator may not set a hard bar date without the approval of the court given on application by the administrator.
+
+(4) Where the administrator sets a hard bar date, the administrator may not meet any final money claim received after the hard bar date.
+
+(5) A final money claim received by the administrator after the hard bar date ranks as an unsecured claim.
+
+(6) No interest is payable on the debt for which a person makes such a claim, except interest on such part of the debt which remains after deduction of the total amount which the client would have received by way of a distribution from the client money pool if the final money claim had been received by the administrator on or before the hard bar date.
+
+(7) In this regulation—
+
+- “final money claim” means a claim for the return of client money which is submitted in response to the setting of a hard bar date;
+- “eligible claimant” means a person—
+  - (a) to whom the administrator has already made a distribution of client money without receiving a claim for the return of client money to that person;
+  - (b) who has submitted a claim for the return of client money other than a final money claim; or
+  - (c) who submits a final money claim on or before the hard bar date;
+- “hard bar date” means a final date (subject to paragraph (5)) for the submission of claims for the return of client money; and
+- “hard bar date notice” means a notice which specifies a hard bar date and includes a statement that after the end of that day the administrator—
+  - (a) may, in accordance with client money rules, transfer to the investment bank’s own bank accounts any balance of the client money pool which the investment bank holds after the return of client money to eligible claimants; and
+  - (b) may not meet any further final money claims.
+
+## 12D. Powers of the court on application to set a hard bar date
+
+(1) On an application under regulation 12B(3) or 12C(3) for the approval of the court to set a hard bar date the court may—
+
+- (a) make an order approving the setting of a hard bar date;
+- (b) adjourn the hearing of the application conditionally or unconditionally; or
+- (c) make any other order that the court thinks appropriate.
+
+(2) The court may make an order under paragraph (1)(a) only if—
+
+- (a) it is satisfied that the administrator has taken all reasonable measures to identify and contact persons who may be entitled to the return of client assets; and
+- (b) it considers that if a hard bar date is set there is no reasonable prospect—
+  - (i) that the administrator will receive claims for the return of client assets after that date; and
+  - (ii) in the case of an application under regulation 12B(3), that the administrator will receive claims of persons in relation to a security interest asserted over, or other entitlement to, client assets which are not client money.
+
+## 12E. Bar date notices—procedural requirements
+
+(1) The persons to whom a bar date notice must be given are—
+
+- (a) all clients of whose claim for the return of client assets the administrator is aware;
+- (b) all persons whom the administrator believes have a right to assert a security interest or other entitlement over the client assets;
+- (c) the FCA and, where the investment bank is a PRA-authorised person, the PRA; and
+- (b) in a special administration (bank administration) before the Bank of England has given an Objective A Achievement Notice, the Bank of England.
+
+(2) Paragraph (1) does not apply in relation to any such person whom the administrator has no means of contacting.
+
+(3) A bar date notice—
+
+- (a) must be advertised once in the Gazette; and
+- (b) may be advertised in such other manner as the administrator thinks fit.
+
+(4) In advertising a bar date notice under paragraph (3), the administrator must aim to ensure that the notice comes to the attention of as many persons who are eligible to submit a claim for the return of client assets as the administrator considers practicable.
+
+(5) In this regulation—
+
+- “Gazette” means—
+  - (a) in England and Wales, the London Gazette;
+  - (b) in Scotland, the Edinburgh Gazette; and
+  - (c) in Northern Ireland, the Belfast Gazette;
+- “bar date notice” means a notice under regulation 12A(1) or a hard bar date notice under regulation 12B or 12C; and
+- “Objective A Achievement Notice” has the meaning given by paragraph 3(3) of Schedule 2.
+
+## 12F. Costs of making a claim
+
+(1) Unless the court orders otherwise, every person who submits a relevant claim bears the cost of making the claim, including costs incurred in providing documents or evidence or responding to requests for further information.
+
+(2) “Relevant claim” means—
+
+- (a) a claim for the return of client assets which is submitted in response to the setting of a bar date under regulation 12A, 12B or 12C; or
+- (b) a claim in relation to a security interest asserted over, or other entitlement to, client assets, which is submitted in response to the setting of a bar date under regulation 12B.
+
+## 13. Objective 2 – engaging with market infrastructure bodies and the Authorities
+
+(1) The administrator shall work with—
+
+- (a) a market infrastructure body to—
+  - (i) facilitate the operation of that body's default rules or default arrangements,
+  - (ii) resolve issues arising from the operation of those rules or arrangements, and
+  - (iii) facilitate the transfer,[^key-c36941542d03ef3cd0bce1d0e61e973c] settlement or prompt cancellation of non-settled market contracts or, as the case may be, of unsettled settlement instructions; and
+- (b) the Authorities, to facilitate any actions the Authorities propose to take to minimise the disruption of businesses and the markets as a consequence of a special administration order being made in respect of the investment bank.
+
+(2) In paragraph (1), “**work with**” means to—
+
+- (a) comply, as soon as reasonably practicable, with a written request from such a body or from any of the Authorities for the provision of information or the production of documents (in hard copy or in electronic format) relating to the investment bank;
+- (b) allow that body or any of the Authorities, on reasonable request, access to the facilities, staff and premises of the investment bank for the purposes set out in paragraph (1),
+
+but no action need be taken in accordance with this paragraph to the extent that, in the opinion of the administrator, such action would lead to a material reduction in the value of the property of the investment bank.
+
+(3) In the event that the administrator receives a request under paragraph (2) from a market infrastructure body based overseas, no action needs to be taken in accordance with paragraph (2) if that request conflicts with a request from any of the Authorities.
+
+(4) Where a market infrastructure body has made a request of the type referred to in paragraph (2), that body shall provide the administrator with such information as the administrator may reasonably require in pursuit of Objective 2.
+
+(5) Under this regulation a person or body shall not be required to provide any information—
+
+- (a) which they would be entitled to refuse to provide on grounds of legal professional privilege in proceedings in the High Court or on grounds of confidentiality of communications in the Court of Session; or
+- (b) if such provision by the body holding it would be prohibited by or under any enactment.
+
+(6) In this regulation—
+
+- “**default arrangements**” has the meaning set out in regulation 2(1) of the Financial Markets and Insolvency (Settlement Finality) Regulations 1999 [^c20697921]; and
+- “**default rules**” has the meaning set out in section 188 of the Companies Act 1989 [^c20697931].
+
+## 14. Continuity of supply
+
+(1) This regulation applies where, before the commencement of special administration, the investment bank had entered into arrangements with a supplier for the provision of a supply to the investment bank.
+
+(2) After the commencement of special administration, the supplier—
+
+- (a) shall not terminate a supply unless—
+  - (i) any charges in respect of the supply, being charges for a supply given after the commencement of special administration, remain unpaid for more than 28 days,
+  - (ii) the administrator consents to the termination, or
+  - (iii) the supplier has the permission of the court, which may be given if the supplier can show that the continued provision of the supply shall cause the supplier to suffer hardship; and
+- (b) shall not make it a condition of a supply, or do anything which has the effect of making it a condition of the giving of a supply, that any outstanding charges in respect of the supply, being charges for a supply given before the commencement of special administration, are paid.
+
+(3) Where, before the commencement of special administration, a contractual right to terminate a supply has arisen but has not been exercised, then, for the purposes of this regulation, the commencement of special administration shall cause that right to lapse and the supply shall only be terminated if a ground in paragraph (2)(a) applies.
+
+(4) Any provision in a contract between the investment bank and the supplier that purports to terminate the agreement if any action is taken to put the investment bank into special administration is void.
+
+(5) Any expenses incurred by the investment bank on the provision of a supply after the commencement of special administration are to be treated as necessary disbursements in the course of the special administration.
+
+(6) In this regulation—
+
+- “**accredited network provider**” means a person accredited with a relevant system who operates a secure data network through which the investment bank communicates with the relevant system;
+- “**commencement of special administration**” means the making of the special administration order;
+- “**relevant system**” has the meaning set out in regulation 2(1) of the Uncertificated Securities Regulations 2001 [^c20697941];
+- “**sponsoring system participant**” has the meaning set out in regulation 3 of the Uncertificated Securities Regulations 2001 (in the definition of “system participant”);
+- “**supplier**” means the person controlling the provision of a supply to the investment bank under a licence, sub-licence or other arrangement, and includes a company that is a group undertaking (within the meaning of section 1161(5) of the Companies Act 2006) in respect of the investment bank, but does not include market infrastructure bodies; and
+- “**supply**” means a supply of—
+  - (za) services relating to the safeguarding or administration of client assets;[^key-37079955060d9546552fbef8a56ea3da]
+  - (a) computer hardware or software or other hardware used by the investment bank in connection with the trading of securities or derivatives;
+  - (b) financial data;
+  - (c) infrastructure permitting electronic communication services;
+  - (d) data processing;
+  - (e) secure data networks provided by an accredited network provider; or
+  - (f) access to a relevant system by a sponsoring system participant,
+
+  but does not include any services provided for in the contract between the investment bank and the supplier beyond the provision of the supply.
+
+## 15. General powers, duties and effect
+
+(1) Without prejudice to any specific powers conferred on an administrator by these Regulations, an administrator may do anything necessary or expedient for the pursuit of the special administration objectives.
+
+(2) The administrator is an officer of the court.
+
+(3) The following provisions of this regulation provide for —
+
+- (a) general powers and duties of administrators (by application of provisions about administrators in Schedule B1 administration); and
+- (b) the general process and effect of special administration (by application of provisions about Schedule B1 administration).
+
+(4) The provisions of Schedule B1 and other provisions of the Insolvency Act set out in the Tables apply in relation to special administration as in relation to other insolvency proceedings with the modifications set out—
+
+- (a) in paragraph (5) (in respect of the provisions listed in Table 1);
+- (b) in paragraph (6) (in respect of the provisions listed in Table 2),
+
+and any other modification specified in the Tables.
+
+(5) The modifications in respect of the provisions referred to in Table 1 are that—
+
+- (a) a reference to the administrator is a reference to the administrator appointed under a special administration order;
+- (b) a reference to administration is a reference to special administration;
+- (c) a reference to an administration order is a reference to a special administration order;
+- (d) a reference to a company is a reference to an investment bank;
+- (e) a reference to the purpose of administration is a reference to the special administration objectives; and
+- (f) a reference to a provision of the Insolvency Act is a reference to that provision as applied by this regulation.
+
+(6) The modifications in respect of the provisions referred to in Table 2 are that—
+
+- (a) a reference to the liquidator is a reference to the administrator appointed under a special administration order;
+- (b) a reference to winding up is a reference to special administration;
+- (c) a reference to winding up by the court is a reference to the imposition of special administration by order of the court;
+- (d) a reference to being wound up under Part 4 or 5 of the Insolvency Act is a reference to an investment bank being in special administration;
+- (e) a reference to the commencement of winding up is a reference to the commencement of special administration;
+- (f) a reference to going into liquidation is a reference to entering special administration;
+- (g) a reference to liquidation or to insolvent liquidation is a reference to special administration;
+- (h) a reference to a winding up order is a reference to a special administration order;
+- (i) except where otherwise specified in Table 2,[^key-ed4b265daf1f7f61fe1d7d4390495add] a reference to a company is a reference to an investment bank; and
+- (j) a reference to a provision of the Insolvency Act is a reference to that provision as applied by this regulation.
+
+(7)[^key-d6c583f0d2f8a606d370cb9007d6cc69] In the Tables “Schedule 9 to the 2015 Act” means Schedule 9 to the Small Business, Enterprise and Employment Act 2015 (further amendments relating to the abolition of requirements to hold meetings: company insolvency).
+
+Table 1: Applied provisions: Schedule B1
+
+| *Schedule B1* | *Subject* | *Modification or comment* |
+| --- | --- | --- |
+| Para 40(1)(a) | Dismissal of pending winding up petition |  |
+| Para 42 | Moratorium on insolvency proceedings | Sub-paragraphs (4)(a) and (4)(aa) are not applied. |
+| Para 43 | Moratorium on other legal processes |  |
+| Para 44(1) and (5) | Interim moratorium |  |
+| Para 45 | Publicity |  |
+| Para 46 | Announcement of administrator's appointment | (a) In sub-paragraph (3)(a), in addition to obtaining the list of creditors, the administrator shall also obtain as complete a list as possible of the clients of the investment bank.<br>(b) In sub-paragraph (3)(b), the administrator shall send a notice of their appointment to each client of whose claim and address the administrator is aware.<br>(c) Where the special administration application has not been made by the FCA[^key-5788b9beac460b35c5c0921a703ab7ba], notice of the administrator's appointment shall also be sent under sub-paragraph (5) to the FCA.<br>(ca) Where the special administration application relates to a[^key-2a0c75e1fbf3b7f1e9d4f59cf9ff065f] PRA-authorised person and has not been made by the PRA, notice of the administrator’s appointment shall also be sent under sub-paragraph (5) to the PRA.<br>(d) Sub-paragraphs (6)(b) and (c) are not applied. |
+| Para 47 | Statement of company's affairs | In sub-paragraph (2), the statement must also include particulars (to the extent prescribed) of the client assets held by the investment bank. |
+| Para 48 | Statement of company's affairs |  |
+| Para 49 | Statement of proposals | *Paragraphs 49(1) to (3), 51, 53, 54 and 55 do not apply where the FCA[^key-eed74ee824befc9d854cec1fb44c17e1] or, where relevant, the PRA gives a direction under regulation 16 and the direction has not been withdrawn: see regulations 16 - 19.* |
+| Para 49 |  | (a) Sub-paragraph (2)(b) is not applied.<br>(aa) Ignore the amendment made by paragraph 10(2) of Schedule 9 to the 2015 Act.[^key-104f797edd290e42af2364a0227ad759]<br>(b) Under sub-paragraph (4), the administrator shall also send a copy of the statement of proposals to—<br>(i) every client of whose claim the administrator is aware and has a means of contacting; and<br>(ii) the FCA[^key-c2735809ddedbd0bf42be2136ff4518e] and, where the investment bank concerned is a PRA-authorised person, the PRA.<br>(c) The administrator shall also give notice in the prescribed manner that the statement of proposals is to be provided free of charge to a market infrastructure body who applies in writing to a specified address. |
+| Para 50 | Creditors' meeting | (za) Ignore the repeal of Para 50 by paragraph 10(3) of Schedule 9 to the 2015 Act.[^key-44a3fd473501897a293953cc02986a15]<br>(a) In sub-paragraph (1), the administrator shall also summon the clients referred to in paragraph 49(4) to the meeting of creditors and such clients shall be given the prescribed period of notice under sub-paragraph (1)(b).<br>(b) The FCA and, where the investment bank concerned is a PRA-authorised person, the PRA may appoint a person to attend a meeting of creditors and make representations as to any matter for decision. |
+| Para 51 | Requirement for initial creditors' meeting | (za) Ignore the amendments made by paragraph 10(4) and (5) of Schedule 9 to the 2015 Act.[^key-afbf894f51f903128d40f2d917db14a3]<br>(a) Each copy of an administrator's proposals sent to a client under paragraph 49 shall be accompanied by an invitation to the initial creditors' meeting.<br>(b) The administrator's proposals sent to the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA must also be accompanied by an invitation to the initial creditors' meeting. |
+| Para 53 | Business and result of initial creditors' meeting | (za) Ignore the amendments made by paragraph 10(8) to (10) of Schedule 9 to the 2015 Act.[^key-2191790fccce3fd63252603865db1a96]<br>(a) Insolvency rules shall prescribe how clients shall vote at meetings of creditors.<br>(b) Under sub-paragraph (2), if the FCA[^key-0a33b362ddc6e45f2b27990e49004587] has not appointed a person to attend the meeting, the administrator must also report any decision taken to the FCA.<br>(c) If the investment bank concerned is a[^key-66efc31bc8a2ce6d7dae254b7f0d7456] PRA-authorised person, and if the PRA has not appointed a person to attend the meeting under sub-paragraph (2), the administrator must also report any decision taken to the PRA. |
+| Para 54 | Revision of administrator's proposals | (za) Ignore the amendments made by paragraph 10(11) to (16) of Schedule 9 to the 2015 Act.[^key-9db1753f11faddd91a935f3d03b2a6eb]<br>(a) If the revision proposed by the administrator affects both creditors and clients, then every reference in paragraph 54 to creditors includes clients.<br>(b) If the administrator thinks that the revision proposed only affects either creditors or clients, then this paragraph only applies to the affected party, however the party not affected must be informed of the revision in a manner prescribed in insolvency rules.<br>(c) The FCA and, where the investment bank concerned is a PRA-authorised person, the PRA must be invited to the creditors' meeting mentioned in sub-paragraph (2)(a).<br>(d) The statement of the proposed revision mentioned in sub-paragraph (2)(b) must also be sent to the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA. |
+| Para 55 | Failure to obtain approval of administrator's proposals | (za) Ignore the amendment made by paragraph 10(17) of Schedule 9 to[^key-a6f2535b814b570db6f07574c70ccd42] the 2015 Act.<br>(a) In making an order under sub-paragraph (2) the court must have regard to the special administration objectives.<br>(b) Sub-paragraph (2)(d) is not applied. |
+| Para 56 | Further creditors' meetings | (a) Ignore the amendments made by paragraph 10(18) to (20) of Schedule 9 to the 2015 Act.[^key-94363840bd97169dc61998ecc28a405a]<br>(b)[^key-45b87a2f89f4a5bd7bc58af7b24688fb] The FCA and, where the investment bank concerned is a PRA-authorised person, the PRA must be invited to any meeting summoned under this paragraph. |
+| Para 57 | Creditors' committee | (za) Ignore the amendment made by paragraph 10(21) of Schedule 9 to the 2015 Act.[^key-db00f12d05c35a25434ec6eef412fae6]<br>(a) A creditors' committee can only be established by a creditors' meeting to which creditors and clients have both been given notice.<br>(b) The FCA and, where the investment bank concerned is a PRA-authorised person, the PRA may appoint a person to attend a meeting of the creditors' committee and make representations as to any matter for decision.<br>(c) Insolvency rules shall ensure that, where a meeting of creditors resolves to establish a creditors' committee, the makeup of the creditors' committee is a reflection of all parties with an interest in the achievement of the special administration objectives. |
+| Para 58 | Correspondence instead of creditors' meeting | Para 58 applies as it applied before its repeal by paragraph 10(22) of Schedule 9 to the 2015 Act.[^key-d913e017cdc10103541fe90057e43aea] |
+| Para 59 | Functions of an administrator |  |
+| Para 60 (and Schedule 1 to the Insolvency Act) | General powers | *Certain powers in Schedule 4 of the Insolvency Act are also applied (see Table 2).* |
+| Para 61 | Directors |  |
+| Para 62 | Power to call meetings | (a) Ignore the amendment made by paragraph 10(23) of Schedule 9 to the 2015 Act.[^key-c3eed5bdf5410076f568a68f192e4325]<br>(b)[^key-fcd16fa378a0d4f33def40d6a1dd8464] The administrator may also call a meeting of clients or contributories. |
+| Para 63 | Application to court for directions |  |
+| Para 64 | Management powers |  |
+| Para 65 | Distribution to creditors | Sub-paragraph (3) is not applied in England and Wales[^key-b2f92d423dc0e1f78971479e4894d7f6]. |
+| Para 66 | Payments |  |
+| Para 67 | Property |  |
+| Para 68 | Management | In this paragraph, references to proposals approved under paragraphs 53 or 54 include—<br>(a) proposals agreed with the FCA[^key-e67956b70d5005ca47a9e0452ddbd1dc] or, where relevant, the PRA under regulations 17 or 18; or<br>(b) proposals in respect of which the court has made an order dispensing with the need for agreement in accordance with those regulations,<br>without need for approval. |
+| Para 69 | Agency |  |
+| Para 70 | Floating charge |  |
+| Para 71 | Fixed charge |  |
+| Para 72 | Hire purchase property |  |
+| Para 73 | Protection for secured or preferential creditors | Sub-paragraph (2)(d) is not applied. |
+| Para 74 | Challenge to administrator's conduct | (za) Ignore the amendment made by paragraph 10(24) of Schedule 9 to the 2015 Act.[^key-130c6e07cc2337650df40bc82f4e0db7]<br>(a) The FCA and, where the investment bank concerned is a PRA-authorised person, the PRA may also make an application under this paragraph on the grounds that—<br>(i) the administrator is acting or has acted so as unfairly to harm the interests of some or all of the members, creditors or clients; or<br>(ii) the administrator is proposing to act in a way which would unfairly harm the interests of some or all of the members, creditors or clients.<br>(b) A client may also make an application under sub-paragraph (1) or (2).<br>(c) Where the FCA[^key-466dcaa0c6187af028bd133a92809a74] or the PRA has given a direction under regulation 16 which has not been withdrawn, an order may not be made under this paragraph if it would impede or prevent compliance with the direction.<br>(d) Any of the following persons may make an application under this paragraph on the grounds that the administrator is not taking any action in response to a request from that person under regulation 13(2) and that the person is of the opinion that the action requested would not lead to a material reduction in the value of the property of the investment bank—<br>(i) the Bank of England,<br>(ii) the Treasury,<br>(iii) the FCA or the PRA, or<br>(iv) a market infrastructure body.<br>(e) FSCS may make an application under this paragraph on the grounds that the administrator is not performing the duties set out in regulation 10A as quickly or as efficiently as is reasonably practicable.[^key-36b1775dde2562f0b186ac0d6eceb834]<br>(f) Any of the following persons may make an application under this paragraph on the grounds that the administrator has made, or proposes to make, a partial property transfer (within the meaning given in regulation 10B(13)) (“relevant transfer”) in contravention of regulation 10E, 10F or 10G—<br>(i) the Bank of England;<br>(ii) the FCA;<br>(iii) where the investment bank is a PRA-authorised person, the PRA.<br>(g) Any person, other than the investment bank, who is party to an arrangement of a kind referred to in regulation 10E(1) or 10F(1) may make an application under this paragraph on the grounds that the administrator has made, or proposes to make, a relevant transfer in contravention of that regulation.<br>(h) A recognised investment exchange, a recognised clearing house , a recognised CSD[^key-82de21d47a9996581ebb7b5b07e862e5] or any person, other than the investment bank, who is party to a market contract may make an application under this paragraph on the grounds that the administrator has made, or proposes to make, a relevant transfer in contravention of regulation 10G.<br>(i) Where an application is made under this paragraph on the grounds that the administrator has made a relevant transfer in contravention of regulation 10G—<br>(i) sub-paragraphs (3)(a), (d) and (e) and (4) are not applied;<br>(ii) the court may make an order declaring that the transfer was made in contravention of the regulation concerned.<br>(j) Where an application is made under this paragraph on the grounds that the administrator has made a relevant transfer in contravention of regulation 10E or 10F, the court may make such order as it thinks fit for restoring the position to what it would have been if the transfer had been made in contravention of the regulation concerned.<br>(k) The FCA and, where the investment bank is a PRA-authorised person, the PRA may make an application under this paragraph on the grounds that the administrator has failed to carry out a client money reconciliation in accordance with regulation 10H(2) or to transfer an amount in accordance with regulation 10H(3) or (4). |
+| Para 75 | Misfeasance | A client and the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA shall be included in the list of persons who may make an application under sub-paragraph (2). |
+| Para 79 | Court ending administration on application of administrator | Sub-paragraph (2) is not applied.<br>*See regulation 20* |
+| Para 81 | Court ending administration on application of a creditor | This paragraph is not applied where the administrator was appointed by the court on the application of the FCA or the PRA or the Secretary of State. |
+| Para 84 | Termination: no more assets for distribution | (a) The administrator shall only send a notice under sub-paragraph (1) if the investment bank no longer holds client assets.<br>(aa) Ignore the amendment made by paragraph 10(33) of Schedule 9 to the 2015 Act.[^key-918f9f82eae9788b33e475d04a322f96]<br>(b) In sub-paragraph (5), a copy of the notice should also be sent to every client of the investment bank of whom the administrator is aware and the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA.<br>*See regulation 21* |
+| Para 85 | Discharge of administration order |  |
+| Para 86 | Notice to Companies Registrar at the end of administration |  |
+| Para 87 | Resignation | (a) Where the administrator was appointed by the court on the application of the FCA or the PRA or the Secretary of State, the notice of the resignation given in accordance with sub-paragraph (2)(a) must be also given to the applicant.<br>(b) Sub-paragraphs (2)(b) to (d) are not applied. |
+| Para 88 | Removal |  |
+| Para 89 | Disqualification | (a) Where the administrator was appointed by the court on the application of the FCA or the PRA or the Secretary of State, the notice given in accordance with sub-paragraph (2)(a) must be also given to the applicant.<br>(b) Sub-paragraphs (2)(b) to (d) are not applied. |
+| Para 90 | Replacement | The reference to paragraphs 91 to 95 is to paragraph 91. |
+| Para 91 | Replacement | The FCA and, where the investment bank concerned is a PRA-authorised person, the PRA is added to the list of persons who may make an application to appoint an administrator but to whom the restrictions in sub-paragraph (2) apply. |
+| Para 98 | Discharge | (a) Ignore the amendment made by paragraph 10(38) of Schedule 9 to the 2015 Act.[^key-49008d3b61b9384dca798ee4106f9d25]<br>(b)[^key-0fd7b7316dff24e65fa6dec032ba7505] Sub-paragraphs (2)(b) and (ba)[^key-40c80ad580c0570faa0d96f9c6168281] and (3) are not applied. |
+| Para 99 | Vacation of office: charges and liabilities | (a) In sub-paragraph (3), the former administrator's remuneration and expenses incurred in respect of the pursuit of Objective 1 will be charged on and payable out of the client assets.<br>(b) In sub-paragraph (4)(b), the reference to any charge arising under sub-paragraph (3) does not include a charge on client assets. |
+| Para 100 | Joint administrators |  |
+| Para 101 | Joint administrators | In sub-paragraph (3), the reference to paragraphs 87 to 99 is to paragraphs 87 to 91 and 98 to 99. |
+| Para 102 | Joint administrators |  |
+| Para 103 | Joint administrators | (a) In sub-paragraph (2), the reference to paragraph 12(1)(a) to (e) is to regulation 5(1).<br>(b) Sub-paragraphs (3) to (5) are not applied. |
+| Para 104 | Presumption of validity |  |
+| Para 105 | Majority decision of directors |  |
+| Para 106 (and section 430 of and Schedule 10 to the Insolvency Act) | Fines | (a) Ignore the amendments made by paragraph 11 of Schedule 9 to the 2015 Act.[^key-fe88fe3f3f884704ae33573549ec4ddb]<br>(b)[^key-a920fa52aab8a4e453bffa85975f04db] Sub-paragraphs (2)(a), (2)(b) and (2)(l) to (2)(n) are not applied. |
+| Para 107 | Extension of time limit | In considering an application under paragraph 107, the court must have regard to the special administration objectives. |
+| Para 108 | Extension of time limit | (za) Ignore the amendments of Para 108 made by paragraph 10(39), (40), (42) and (43) of Schedule 9 to the 2015 Act.[^key-9a0688cccedd8884969f0c19160a8594]<br>(a) To obtain consent under this paragraph, the administrator must also obtain consent of those clients whose claims amount to more than 50% of the total amount of claims for client assets, disregarding the claims of those clients who were sent a copy of the statement of proposals but who did not respond to an invitation to give or withhold consent.<br>(b) Sub-paragraph (3) is not applied. |
+| Para 109 | Extension of time limit |  |
+| Para 111 | Interpretation | (a) Ignore the amendment made by paragraph 10(44) of Schedule 9 to the 2015 Act.[^key-95bad9f724116769978c92acb1ff6c71]<br>(b)[^key-efc3b20d0d5f355f1a2a49cece4eb4cd] The definition of “administrator” and sub-paragraph (1A)(b) and (c) and sub-paragraph (1B) are not applied. |
+| Paras 112- 116 | Scotland |  |
+
+Table 2: Applied provisions: other provisions of the Insolvency Act [^c20697951]
+
+| *Insolvency Act* | *Subject* | *Modification or comment* |
+| --- | --- | --- |
+| Sections 74 and 76- 83 | Contributories |  |
+| Section 167 (and Schedule 4) | Powers of the liquidator | (a) In subsection (2) the reference[^key-77bb86abde44d0bffc9551a343fd969c] to “liquidation committee” is to “creditors' committee”.<br>(b) A client may also apply to the court under subsection (3).<br>(c) In Schedule 4, paragraphs 4 to 10 and 12 shall not apply, and in paragraph 13, the reference to “winding up the company's affairs and distributing its assets” is to “pursuing the special administration objectives”. |
+| Section 168(4) | Discretion in managing and distributing assets |  |
+| Section 176 | Preferential charges on goods distrained |  |
+| Section 176ZB[^key-d992d7ab409767400cbaae40e9698b3d] | Application of proceeds of office-holder claims |  |
+| Section 176A | Unsecured creditors |  |
+| Section 178 | Disclaimer of onerous property |  |
+| Section 179 | Disclaimer of leaseholds |  |
+| Section 180 | Land subject to rent charge |  |
+| Section 181 | Disclaimer: powers of court |  |
+| Section 182 | Powers of court (leaseholds) |  |
+| Section 183 | Effect of execution or attachment (England and Wales) | Subsection (2)(a) is not applied. |
+| Section 184 | Duties of officers | In subsection (1), ignore the reference to a resolution having been passed for voluntary winding up. |
+| Section 185 | Effect of diligence (Scotland) | In the application of section 37(1) of the Bankruptcy (Scotland) Act 1985 (c. 66), the reference to an order of the court awarding winding up is a reference to the making of the special administration order. |
+| Section 186 | Rescission of contracts by the court |  |
+| Section 187 | Power to make over assets to employees |  |
+| Section 193 | Unclaimed dividends (Scotland) |  |
+| Section 194 | Resolutions passed at adjourned meetings | Section 194 applies as it applied before its repeal by paragraph 46 of Schedule 9 to the 2015 Act.[^key-81c9430df8855a71000bc9f5c9946ffd] |
+| Section 196 | Judicial notice of court documents |  |
+| Section 197 | Commission for receiving evidence |  |
+| Section 198 | Court order for examination of persons in Scotland |  |
+| Section 199 | Costs of application for leave to proceed (Scottish companies) |  |
+| Section 206 | Fraud in anticipation of winding up | In subsection (1), omit the reference to passing a resolution for voluntary winding up. |
+| Section 207 | Transactions in fraud of creditors | In subsection (1), omit the reference to passing a resolution for voluntary winding up. |
+| Section 208 | Misconduct in course of winding up | (a)[^key-e3291920365beaf6373b7ef34c1fee23] In subsection (1), omit “whether by the court or voluntarily”.<br>(b) Ignore the amendment made by paragraph 52 of Schedule 9 to the 2015 Act. |
+| Section 209 | Falsification of company's books |  |
+| Section 210 | Material omissions from statement | (a) In subsection (1) omit “whether by the court or voluntarily”.<br>(b) In subsection (2), omit “or has passed a resolution for voluntary winding up”. |
+| Section 211 | False representation to creditors | In subsection (1)—<br>(a) omit “whether by the court or voluntarily”; and<br>(b) a reference to the company's creditors includes a reference to clients of the investment bank. |
+| Section 212 | Summary remedy |  |
+| Section 213 | Fraudulent trading |  |
+| Section 214 | Wrongful trading | Subsection (6) is not applied. |
+| Section 215 | Proceedings under section 213 or 214 |  |
+| Section 216 | Restriction on re-use of company names | (a) The reference to “liquidating company” shall be to “company in special administration”.<br>(b) Subsections (7) and (8) are not applied. |
+| Section 217 | Personal liability for debts following contravention of section 216 | Subsection (6) is not applied. |
+| Section 218 | Prosecution of delinquent officers and members of company | (a) In subsection (3), ignore the first reference to the official receiver and treat the second reference as a reference to the Secretary of State.<br>(b) In subsection (5) treat the reference to subsection (4) as a reference to subsection (3).<br>(c) Subsections (4) and (6) are not applied. |
+| Section 219 | Obligations arising under section 218 | Treat the reference to section 218(4) in subsection (1) as a reference to section 218(3). |
+| Section 233 | Utilities |  |
+| Section 233A *(Extent: E+W+S)*[^key-04c9c543914d077e0d8f549a1a7ed4d1] | Further protection of utilities *(Extent: E+W+S)* |  |
+| Section 234 | Getting in the company's property | (a) Subsection (1) is not applied.<br>(b) “**Office holder**” means the administrator. |
+| Section 235 | Co-operation with the administrator | (a) Subsections (1) and (4)(b) to (d) are not applied.<br>(b) “**Office holder**” means the administrator. |
+| Section 236 | Inquiry into company's dealings | (a) Subsection (1) is not applied.<br>(b) “**Office holder**” means the administrator. |
+| Section 237 | Enforcement by the court |  |
+| Section 238 | Transactions at an undervalue (England and Wales) |  |
+| Section 239 | Preferences (England and Wales) |  |
+| Section 240 | Sections 238 and 239: relevant time | (a) In subsection (2)(a), the reference to being unable to pay its debts has the meaning given by regulation 2.<br>(b) Sub-paragraphs (1)(d) and (3)(a) to (d) are not applied. |
+| Section 241 | Orders under sections 238 and 239 | Subsections (3A) and (3B) are not applied. |
+| Section 242 | Gratuitous alienations (Scotland) |  |
+| Section 243 | Unfair preferences (Scotland) |  |
+| Section 244 | Extortionate credit transactions |  |
+| Section 245 | Avoidance of floating charges | (a) In subsection (3)(c), the reference to—<br>(i) administration application is to be read as an application for special administration, and<br>(ii) administration order is to a special administration order.<br>(b) In subsection (4)(a) and (b),the reference to being unable to pay its debts has the meaning given by regulation 2.<br>(c) Subsections (3)(d) and (5)(a) to (c) are not applied. |
+| Section 246 | Unenforceability of liens | (a) Subsection (1) is not applied.<br>(b) “**Office holder**” means the administrator. |
+| Section 246ZD[^key-18429f5a0aada6ac732dd00f64e900f5] | Power to assign certain causes of action | (a) Subsection (1) is not applied.<br>(b) “Office holder” means the administrator. |
+| Section 246A | Remote attendance at meetings | (a) Ignore the amendments made by paragraph 54 of Schedule 9 to the 2015 Act.[^key-c23eb032acdf9ec2c3abd65d35216f73]<br>(b)[^key-ecb0e866d3d4dce79912aa95677c3463] Treat every reference to creditors as including clients. |
+| Section 246B | Use of websites |  |
+| Section 386 (and Schedule 6 as read with Schedule 4 to the Pensions Schemes Act 1993) | Preferential debts |  |
+| Section 387, subsections (1) and (3A). | “The relevant date” | Treat the reference to “administration” as a reference to special administration. |
+| Section 389 | Offence of acting without being qualified | (a) Treat the reference to acting as an insolvency practitioner as a reference to acting as the administrator.<br>(b) Subsection (2) is not applied.[^key-b14f46e03528ea76e62c4fb67af202bd] |
+| Sections 390 to 391T[^key-5f4f9b80afb313f5f01e3701c68b91f9] | Authorisation and regulation of insolvency practitioners | (a) In section 390 treat references to acting as an insolvency practitioner as references to acting as the administrator.<br>(b) Read subsection (2) of that section (as so modified) as if after “authorised” there were inserted “to act as an insolvency practitioner”.<br>(c) An order under section 391 has effect in relation to any provision applied for the purposes of special administration.<br>(d) In sections 390A, 390B(1) and (3), 391O(1)(b) and 391R(3)(b), in a reference to authorisation or permission to act as an insolvency practitioner in relation to (or only in relation to) companies the reference to companies has effect without the modification in paragraph (6)(i) of this regulation.<br>(e) In sections 391Q(2)(b) and 391S(3)(e) the reference to a company has effect without the modification in paragraph (6)(i) of this regulation. |
+| Section 411 | Insolvency rules | The reference in subsections (1A), (2C) and (3) to Part 2 of the Banking Act 2009 includes a reference to these Regulations. |
+| Section 414 | Fees orders | (a) The reference in subsection (1) to “**Parts I to VII of this Act**” includes these Regulations.<br>(b) Ignore the reference to the official receiver. |
+| Section 423 | Transactions defrauding creditors | Subsection (4) is not applied. |
+| Sections 424 and 425 | Transactions defrauding creditors |  |
+| Section 426 | Co-operation between courts | References to “**insolvency law**” includes provisions made by or under these Regulations. |
+| Sections 430 and 431 (and Schedule 10) | Offences |  |
+| Section 432 | Offences by bodies corporate | In subsection (4) ignore all the provisions of the Insolvency Act listed there except for sections 206 to 211. |
+| Section 433 | Statements: admissibility | In subsection (1)(a), a statement of affairs prepared “**for the purposes of any provision of this Act**” includes any statement made for the purposes of a provision of that Act as applied by these Regulations. |
+| Sections 434B – 434D | Supplementary provisions | Ignore the amendments of section 434B made by paragraph 57 of Schedule 9 to the 2015 Act.[^key-7ca5d21e4087d01802b9171be110986d] |
+
+## 16. Appropriate regulator direction[^key-98aa52352ab855fa42e3a252dbaf9036]
+
+(1) The appropriate regulator[^key-f2377656c91d3e6a737b5d7246d00c83] may direct the administrator to prioritise one or more special administration objectives.
+
+(2) A direction under paragraph (1) may only be given if that regulator[^key-5240bf9ae174b61273d9e6ddc2cff2b3] is satisfied that the giving of the direction is necessary, having regard to the public interest in—
+
+- (a) the stability of the financial systems of the United Kingdom; or
+- (b) the maintenance of public confidence in the stability of the financial markets of the United Kingdom.
+
+(3) A direction under paragraph (1) must be given in writing and should set out reasons for giving the direction.
+
+(4) Before giving such a direction the appropriate regulator[^key-c4b5eaf1bf829922430012d300097d65] must consult the Treasury and the Bank of England.
+
+(4A)[^key-c94945eaf003edad0fcf8cef0516fb78] Where the investment bank concerned is a PRA-authorised person, the appropriate regulator must also consult the other regulator before giving such a direction.
+
+(5) If the appropriate regulator thinks that the circumstances that gave rise to the need for it to give a direction have passed, it shall withdraw its direction.
+
+(6) Paragraphs 49(1) to (3), 51, 53, 54 and 55 of Schedule B1 (as applied by regulation 15) shall not apply where the appropriate regulator has given a direction under this regulation and the direction has not been withdrawn*.*
+
+(7)[^key-092b5df73db66235a9e5a03c8d6bf62c] In this regulation, “appropriate regulator” means—
+
+- (a) in relation to an investment bank which is a PRA-authorised person, the FCA or the PRA;
+- (b) in any other case, the FCA.
+
+## 17. Administrator's proposals in the event of Appropriate regulator direction[^key-38013c7e04a3764ffaa89aa9b523f903]
+
+(1) Where the FCA[^key-1dce932ecdd9c8ebaf46ec77d627ce72] or the PRA has given a direction under regulation 16, the administrator shall make a statement setting out proposals for achieving the special administration objectives in accordance with the [^key-eaa82c222b8ab246b627b11074e79171]... direction.
+
+(2) The statement under paragraph (1) must deal with such matters as may be prescribed and may include—
+
+- (a) a proposal for a voluntary arrangement under Part 1 of the Insolvency Act (although this regulation is without prejudice to section 4(3) of that Act); or
+- (b) a proposal for a compromise or arrangement to be sanctioned under Part 26 of the Companies Act 2006 (arrangements and reconstructions).
+
+(3) The statement shall be agreed with the regulator which has given the direction[^key-f699936e045eb57806b51b8d140b704c].
+
+(4) If the administrator is unable to agree the statement with the regulator which has given the direction, the administrator may apply to the court for directions under paragraph 63 of Schedule B1 (as applied by regulation 15).
+
+(5) Following an application under sub-paragraph (4), the court may—
+
+- (a) make an order dispensing with the need for agreement;
+- (b) adjourn the hearing conditionally or unconditionally; or
+- (c) make any other order that the court thinks appropriate.
+
+(6) The court may make an order under sub-paragraph (5)(a) only if it considers that the proposals set out in the statement are reasonably likely to ensure that the administrator acts in accordance with the [^key-a0b0c4a8dec1444437a1676d32d0f718]... direction.
+
+(7) Where the court makes an order, the administrator shall as soon as possible send a copy of the order to the registrar of companies.
+
+(8) After—
+
+- (a) the statement has been agreed with the regulator which has given the direction[^key-8b66545a3f61ad6450a5124165e9e71c]; or
+- (b) the court has made an order dispensing with the need for agreement,
+
+paragraph 49(4) to (8) of Schedule B1 (as applied by regulation 15) shall then apply to the statement, but the administrator need not send the FSA a copy of the statement of proposals.
+
+(9) Where, before the FCA[^key-38e27b508e5f955b846f9ba54df332c1] or the PRA gives its direction under regulation 16, a meeting of creditors has approved the statement of proposals in accordance with paragraph 53 of Schedule B1 (as applied by regulation 15), that statement of proposals shall be ignored for the purposes of regulation 16, this regulation and paragraph 68 of Schedule B1 (as applied by regulation 15).
+
+## 18. Revision of proposals in the event of Appropriate regulator direction[^key-3dabe5a3c9e53fbc1d17cebc839b6760]
+
+(1) This regulation applies where—
+
+- (a) the administrator's statement of proposals under regulation 17 has been agreed with the regulator which gave the direction under regulation 16[^key-cb598f162a0719b0ee0991ce49784005] (or the court has made an order dispensing with the need for agreement);
+- (b) the administrator proposes a revision to the proposals;
+- (c) the administrator thinks the revision is substantial; and
+- (d) that regulator[^key-d34d27531e4e8f06d32377cd83cf04e9] has not withdrawn its direction given under regulation 16.
+
+(2) The administrator shall agree the revised statement with that regulator.
+
+(3) Regulation 17(4) to (7) shall apply where the administrator is unable to agree the revised statement with that regulator.
+
+(4) After the revised statement has been agreed with that regulator (or the court has made an order dispensing with the need for agreement) the administrator shall send the revised statement to—
+
+- (a) every creditor of the investment bank of whose claim and address the administrator is aware;
+- (b) every client of the investment bank of whose claim the administrator is aware and has a means of contacting;
+- (c) every member of the investment bank of whose address the administrator is aware.
+
+(5) The administrator shall be taken to have complied with paragraph (4)(c) if the administrator publishes a notice undertaking to provide a copy of the revised statement free of charge to any member of the investment bank who applies in writing to a specified address.
+
+(6) A notice under paragraph (5) shall be published in the prescribed manner and within the prescribed period.
+
+(7) The administrator shall send a copy of the revised statement to—
+
+- (a) the court; and
+- (b) the registrar of companies.
+
+## 19. Appropriate regulator direction withdrawn[^key-6494ac19fb79be321ae4ca60c4d7123c]
+
+(1) This regulation applies if, after the administrator's statement of proposals has been agreed with the regulator which gave the direction under regulation 16[^key-1cf029230337b8288c6c87fea60ea43e] or the court has made an order dispensing with the need for agreement under regulation 17, the [^key-86b86d2f69fbc5698bf26020223c50ca]... direction is then withdrawn.
+
+(2) If the administrator proposes a revision to the statement of proposals and the administrator thinks that the proposed revision is substantial, then paragraphs 54 and 55 of Schedule B1 (as applied by regulation 15) apply.
+
+## 19A. Responsibility for certain costs of the administration[^key-15033322baa24d6231d9d170028f708c]
+
+(1) Where the administrator considers that relevant costs have been incurred in consequence of a failure by the investment bank to comply with client money rules or with any relevant requirement (“a default”), the administrator—
+
+- (a) must seek the agreement of the creditors’ committee established under paragraph 57 of Schedule B1 (as applied by regulation 15) to the amount incurred in consequence of the default; or
+- (b) if there is no creditors’ committee or the administrator is unable to agree that amount with the creditors’ committee, must apply to the court for an order fixing the amount.
+
+(2) On an application under paragraph (1)(b), the court may fix the amount incurred in consequence of the default or dismiss the application on the ground that there was no default or that no relevant costs have been incurred in consequence of the default.
+
+(3) Paragraph (4) applies where the creditors’ committee agree an amount incurred in consequence of the default or the court fixes an amount by order.
+
+(4) Notwithstanding any provision in insolvency rules prescribing how the expenses of the special administration are to be paid, responsibility for the relevant amount is assigned to the investment bank, and accordingly that amount is to be paid out of the investment bank’s assets.
+
+(5) Where the investment bank’s assets are insufficient to enable the relevant amount to be met out of those assets, paragraph (4) has effect only in relation to that part of the relevant amount which can be met out of those assets.
+
+(6) In this regulation—
+
+- “relevant amount” means the amount of relevant costs incurred in consequence of the default as agreed by the creditors’ committee or fixed by the court;
+- “relevant costs” means costs incurred by the administrator of applying the procedure set out in Schedule B1 (as applied by regulation 15 and as prescribed) for ascertaining particulars of the client assets held by the investment bank, and of taking custody and control and distributing those assets; and
+- “relevant requirement” means any requirement relating to holding client assets contained in—
+  - (a) rules made under Part 9A of FSMA (rules and guidance) which make provision relating to the handling of client assets, other than client money, held by a person who is authorised for the purposes of FSMA;
+  - (b) Commission Delegated Regulation (EU) No. 231/2013 of 19th December 2012 supplementing [Directive 2011/61/EU](https://www.legislation.gov.uk/european/directive/2011/0061) of the European Parliament and of the Council with regard to exemptions, general operating conditions, depositaries, leverage, transparency and supervision; or
+  - (c) Commission Delegated Regulation (EU) 2016/438 of 17th December 2015 supplementing [Directive 2009/65/EC](https://www.legislation.gov.uk/european/directive/2009/0065) of the European Parliament and of the Council with regard to obligations of depositaries.
+
+## 20. Successful rescue
+
+(1) This regulation applies if the administrator has pursued the first part of Objective 3 (as set out in regulation 10(1)(c)(i)) and thinks that it has been sufficiently achieved.
+
+(2) The administrator shall make an application under paragraph 79 of Schedule B1 (as applied by regulation 15).
+
+(3) An administrator who makes an application in accordance with paragraph (2) must send a copy to the FCA[^key-6d3bc749e338adec8c11a6f88258ab0a] and, where the investment bank concerned is a PRA-authorised person, the PRA.
+
+## 21. Dissolution or voluntary arrangement
+
+(1) This section applies if—
+
+- (a) the administrator believes that Objectives 1 and 2 have been sufficiently achieved, and
+- (b) the administrator pursues the second part of Objective 3 (as set out in regulation 10(1)(c)(ii)).
+
+(2) The administrator may—
+
+- (a) give a notice which is to be treated as a notice under paragraph 84 of Schedule B1 (as applied by regulation 15); or
+- (b) make a proposal in accordance with Part 1 of the Insolvency Act (company voluntary arrangement).
+
+(3) Part 1 of the Insolvency Act shall apply to a proposal made by an administrator with the following modifications.
+
+(4) In section 3 (summoning of meetings), subsection (2) (and not (1)) applies.
+
+(5) The action that may be taken by a court under section 5(3) [^c20697961] (effect of approval) includes suspension of the special administration order.
+
+(5A)[^key-8aade440ce17c1b7440b8db1893f6d49] Sections 2 to 6 and 7 [^key-db1f0becb04e87047d7b30b1578d8993]... have effect without the amendments of those provisions made by paragraphs 2 to 8[^key-6f72d3461de9ecee320d129602a48a50] of Schedule 9 to the Small Business, Enterprise and Employment Act 2015 (further amendments relating to the abolition of requirements to hold meetings: company voluntary arrangements).
+
+(6) On the termination of a company voluntary arrangement the administrator may apply to the court to lift the suspension of the special administration order.
+
+(7) For the purposes of this regulation, references in Part 1 of the Insolvency Act to “administration” include special administration.
+
+## 22. Special administration order as an alternative order
+
+(1) On a petition for a winding up order ,[^key-876b40ed10decbd0d1e811f502394aed] an application for an administration order or an order under regulation 8 of the Payment and Electronic Money Institution Insolvency Regulations 2021[^M_F_66bf9fb9-432f-402d-fb33-9539d9dff894] in respect of an investment bank the court may instead make a special administration order.
+
+(2) Paragraph (1) is subject to regulation 3.
+
+(3) A special administration order may be made under paragraph (1) only on the application of the FCA[^key-ac9a2e6364625e31f8ad7cc8c6e34799] or, where the investment bank concerned is a PRA-authorised person, the PRA.
+
+## 23. Disqualification of directors
+
+(1) In the Disqualification Act—
+
+- (a) a reference to liquidation includes a reference to special administration;
+- (b) a reference to the winding up of a company includes a reference to an investment bank being subject to a special administration order;
+- (c) a reference to becoming insolvent includes a reference to becoming subject to a special administration order; and
+- (d) a reference to a liquidator includes a reference to an administrator.
+
+(2) Section 6(2) is not applied.
+
+(3)[^key-ee6949a11f45cc05d53ac3de58c09e8c] For the purposes of the application of section 7A of the Disqualification Act (office-holder’s report on conduct of directors) to an investment bank which is in special administration—
+
+- (a) the “office-holder” is the administrator;
+- (b) the “insolvency date” means the date on which the special administration order is made; and
+- (c) subsections (9) to (11) are omitted.
+
+(4) In section 21 of the Disqualification Act [^c20697981] (interaction with the Insolvency Act), the references to the provisions of the Insolvency Act include those provisions as applied by these Regulations.
+
+## 24. Limited liability partnerships
+
+Where an investment bank is formed as a limited liability partnership, Schedule 3 (application of these Regulations to limited liability partnerships) has effect.
+
+## 25. Partnerships
+
+(1) Where an investment bank is formed as a partnership, Schedule 4 (application of these Regulations to partnerships) has effect.
+
+(2) This regulation does not apply to investment banks formed as a partnership constituted under the law of Scotland.
+
+## 26. Northern Irish equivalent enactments
+
+(1) In the application of these Regulations to Northern Ireland, a reference to an enactment is to be treated as a reference to the equivalent enactment having effect in relation to Northern Ireland (“equivalent Northern Ireland enactment”).
+
+(2) The table in Schedule 5 shows the enactments referred to in these Regulations together with the equivalent Northern Ireland enactments.
+
+(3) Where these Regulations provide for an enactment to apply with an amendment or modification, the equivalent Northern Ireland enactment is to apply with an equivalent amendment or modification (with any necessary modification being made and subject to what is said in relation to that enactment in the third column of the table in Schedule 5).
+
+## 27. Modifications and consequential amendments to legislation
+
+Schedule 6 (modifications and consequential amendments) applies as follows—
+
+- (a) Parts 1 and 2 apply in relation to a case where an investment bank which is a company is in special administration; and
+- (b) Part 3 makes amendments to legislation in consequence of these Regulations.
+
+Brooks Newmark
+
+Angela Watkinson
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## SCHEDULE 1 — Special administration (bank insolvency)
+
+Regulation 9
+
+**1.** This Schedule provides for a procedure known as special administration (bank insolvency) to be used as an alternative to bank insolvency (as set out in Part 2 of the Act) where the investment bank is a deposit-taking bank.
+
+**2.** A special administration (bank insolvency) order is an order appointing a person as the administrator for the purpose of this Schedule.
+
+**3.** A special administration (bank insolvency) order is to be treated as a special administration order and an administrator appointed under a special administration (bank insolvency) order is to be treated as if they were appointed under a special administration order for all purposes, save that—
+
+- (a) the modifications set out in this Schedule shall apply; and
+- (b) in regulation 22, the Bank of England may also make an application under paragraph (1) and the FCA[^key-3c916b61b568d168f8a3050bfaa8a09d] or the PRA can only make an application with the consent of the Bank of England.
+
+**4.** (1) An administrator appointed under a special administration (bank insolvency) order has the following objectives—
+
+- (a) Objective A is to work with the FSCS so as to ensure that as soon as is reasonably practicable each eligible depositor—
+  - (i) has the relevant account transferred to another financial institution, or
+  - (ii) receives payments from (or on behalf of) the FSCS; and
+- (b) the special administration objectives as set out in regulation 10.
+
+(2) Objective A takes precedence over the special administration objectives until a full payment resolution is passed (but the administrator is to begin working towards the special administration objectives immediately on appointment, in accordance with regulation 10).
+
+(3) The administrator must not comply with a direction of the FCA[^key-9a57afdbe9d079919dd2f1807dfd2b76] or the PRA given under regulation 16 in a way which prejudices the achievement of Objective A.
+
+**5.** (1) The provisions of the Insolvency Act as applied by regulation 15 shall apply to special administration (bank insolvency) subject to the following additional modifications to Schedule B1—
+
+- (a) the FSCS shall be appointed as a member of the creditors' committee referred to in paragraph 57 unless it informs the administrator that it does not wish to be appointed;
+- (b) the Objective A committee may also make an application under paragraph 74(2));
+- (c) disregard paragraph 81;
+- (d) in the application of paragraph 87, before the Objective A committee has passed a full payment resolution, the administrator may only resign with the consent of the Bank of England and the notice of resignation shall be copied to the Bank of England;
+- (e) before the Objective A committee has passed a full payment resolution, only the Bank of England or the Objective A committee may make an application to remove the administrator from office under paragraph 88;
+- (f) the notice given under paragraph 89(2)(a) must also be copied to the Bank of England;
+- (g) before the passing of the full payment resolution, paragraph 91 has effect as if it provided for the Bank of England to appoint a replacement administrator as soon as is reasonably practicable;
+- (h) the Bank of England may also make an application under paragraph 103(2); and
+- (i) a reference to a provisional liquidator is to a person appointed under section 135 of the Insolvency Act as applied by paragraph 8.
+
+(2) If any application is made to the court under these Regulations (including under the Insolvency Act as applied by these Regulations) before the Objective A committee has passed a full payment resolution, the court, in giving directions, must have regard to the achievement of Objective A.
+
+**6.** (1) The provisions of Part 2 of the Act (bank insolvency) set out in the Table apply in relation to special administration (bank insolvency) with the following modifications—
+
+- (a) the modifications set out in sub-paragraph (2); and
+- (b) any other modification specified in the Table.
+
+(2) The modifications are that a reference to—
+
+- (a) a bank is to a deposit-taking bank;
+- (b) bank insolvency is to special administration (bank insolvency);
+- (c) a bank insolvency order is to a special administration (bank insolvency) order;
+- (d) the bank liquidator is to the administrator;
+- (e) Objective 1 in section 99 of the Act or Objective 1 is to Objective A;
+- (f) the liquidation committee is to the Objective A committee;
+- (g) rules made under section 411 of the Insolvency Act 1986 is to insolvency rules; and
+- (h) section 168(5) of the Insolvency Act is to paragraph 74(2) of Schedule B1 (as applied by regulation 15).
+
+  Table of applied provisions
+
+  |  |  |  |
+  | --- | --- | --- |
+  | *Provision of Part 2 of the Act* | *Subject* | *Modification or comment* |
+  | Section 94(2) to (4) | The order |  |
+  | Section 95 | Application | Subsection (1)(c) is not applied. |
+  | Section 96 | Grounds for applying |  |
+  | Section 97 | Grounds for making | In making a special administration (bank insolvency) order, the court must also be satisfied that the company is an investment bank. |
+  | Section 98 | Commencement |  |
+  | Section 100 | Liquidation committee | (a) This committee is established only for the purpose of ensuring that the administrator works towards the achievement of Objective A.<br>(b) Subsections (6) and (7) are not applied. |
+  | Section 101 | Liquidation committee: supplemental | (a) In subsection (2) ignore the words from “While the liquidation” to “nominated replacements)”.<br>(b) The references in subsection (5)(b) to sections 168(3) or 169(2) of the Insolvency Act are to paragraph 63 of Schedule B1 (as applied by regulation 15).<br>(c) On the passing of the full payment resolution, the Objective A committee ceases to exist but the FSCS shall have the right to be a member of the creditors' committee.<br>(d) Subsections (7) to (9) are not applied |
+  | Section 102 | Objective 1: (a) or (b) | (a) The references to “Objective 1 (a)” and to “Objective 1(b)” are to Objective A(a) and Objective A(b) respectively.<br>(b) The reference to Objective 2 is a reference to the special administration objectives. |
+  | Section 123 | Role of the FSCS | Ignore subsection (3). |
+  | Section 124 | Transfer of accounts |  |
+
+**7.** Section 120 of the Act is applied with the following modifications—
+
+- (a) in subsection (7)(b), the reference to a bank insolvency order includes a special administration order;
+- (b) in subsection (8), the reference to bank insolvency order includes a special administration order or a special administration (bank insolvency) order;
+- (c) in subsection (10)(b), the reference to bank insolvency order includes a special administration order or a special administration (bank insolvency) order; and
+- (d) in subsection (10)(c), the reference to bank insolvency order includes a special administration (bank insolvency) order.
+
+**8.** (1) Section 135 of the Insolvency Act is applied with the following modifications where an application is made for a special administration (bank insolvency) order—
+
+- (a) in subsection (1), the reference to the presentation of a winding up petition is to an application for a special administration (bank insolvency) order;
+- (b) in subsection (2)—
+  - (i) the reference to England and Wales includes Scotland,
+  - (ii) the reference to a winding up order is to a special administration order,
+  - (iii) “**other fit person**” means a person qualified to act as an insolvency practitioner in relation to the investment bank[^key-c46aad13306227075036f46da0ca563e] and who consents to act, and
+  - (iv) ignore the reference to the official receiver; and
+- (c) subsection (3) is not applied.
+
+(2) A person appointed under section 135 (as applied by this paragraph)—
+
+- (a) must not pay dividends to creditors;
+- (b) may only be removed by order of the court; and
+- (c) shall vacate office if they cease to be qualified to act as a insolvency practitioner in relation to the investment bank[^key-a9b705d1751376efd7b2fe39e342a5ff].
+
+(3) The appointment of the person appointed under section 135 (as applied by this paragraph) lapses on the appointment of an administrator under a special administration (bank insolvency) order.
+
+**9.** In this Schedule—
+
+- “**eligible depositor**” has the meaning set out in section 93(3) of the Act;
+- “**full payment resolution**” has the meaning set out in section 100(5) of the Act as applied by paragraph 6;
+- “**Objective A**” has the meaning set out in paragraph 4; and
+- “**Objective A committee**” means the committee set up to oversee the achievement of Objective A in paragraph 4, (see paragraph 6(2) and the modification to section 100 of the Act in paragraph 6).
+
+## SCHEDULE 2 — Special administration (bank administration)
+
+Regulation 9
+
+### 1. General provisions
+
+This Schedule provides for a procedure known as special administration (bank administration) to be used as an alternative to bank administration (as set out in Part 3 of the Act) where part of the business of the investment[^key-5e982080b320d8b20fcc9a5dc14c7d8d] bank is sold to a commercial purchaser in accordance with section 11 of the Act, or transferred to a bridge bank in accordance with section 12 (and it can also be used in certain cases of multiple transfers under Part 1 of the Act).
+
+**2.** A special administration (bank administration) order is an order appointing a person as an administrator for the purposes of this Schedule.
+
+**3.** (1) An administrator appointed under a special administration (bank administration) order has the following objectives—
+
+- (a) Objective A: to provide support for a private sector purchaser or bridge bank (see section 138 of the Act as applied by paragraph 6), and
+- (b) the special administration objectives as set out in regulation 10.
+
+(2) Objective A takes precedence over the special administration objectives until the Bank of England notifies the administrator that the residual bank is no longer required in connection with the private sector purchaser or bridge bank, but the administrator is to begin working on the special administration objectives immediately on appointment in accordance with regulation 10.
+
+(3) A notice under sub-paragraph (2) is referred to as an “**Objective A Achievement Notice**”.
+
+(4) The administrator must not comply with a direction of the FCA[^key-3128826f857a194f1b5630393d62c36a] or the PRA given under regulation 16 in a way which prejudices the achievement of Objective A.
+
+(5) In pursuing the special administration objectives following transfer to a bridge bank, the administrator may not realise any asset unless—
+
+- (a) the asset is on a list of realisable assets agreed between the administrator and the Bank of England; or
+- (b) the Bank of England has given an Objective A Achievement Notice.
+
+(6) The reference to ‘asset’ in sub-paragraph (5) does not include client assets.
+
+**4.** An administrator appointed under a special administration (bank administration) order is to be treated as if they were appointed under a special administration order subject to any modification made by this Schedule.
+
+**5.** A special administration (bank administration) order is to be treated for all purposes as a special administration order save that—
+
+- (a) regulations 20 and 21 do not apply;
+- (b) regulation 15 does not apply except where otherwise stated;
+- (c) the modifications set out in this Schedule shall apply.
+
+### 6. Application of Part 3 of the Act and the Insolvency Act
+
+(1) The provisions of Part 3 of the Act (bank administration) set out in the Table apply in relation to a special administration (bank administration) with the following modifications—
+
+- (a) the modifications set out in sub-paragraph (2); and
+- (b) any other modification specified in the Table.
+
+(2) The modifications are that a reference to—
+
+- (a) a bank is to an investment bank;
+- (b) bank administration is to special administration (bank administration);
+- (c) a bank administration order is to a special administration (bank administration) order;
+- (d) the bank administrator is to the administrator;
+- (e) Objective 1, or Objective 1 in section 137 or 138, is to Objective A in paragraph 3;
+- (f) the Objectives in section 137 is to Objective A and the special administration objectives;
+- (g) an Objective 1 Achievement Notice is to an Objective A Achievement Notice;
+- (h) an Objective 1 Interim Achievement Notice is to an Objective A Interim Achievement Notice (see section 150 of the Act as applied by the Table);
+- (i) “**provisional liquidator**” means a person appointed under section 135 of the Insolvency Act, as applied by this Schedule; and
+- (j) rules made under section 411 of the Insolvency Act 1986 is to insolvency rules.
+
+(3) Where section 145 of the Act applies a provision of the Insolvency Act with a modification, that provision applies in relation to special administration (bank administration) with that modification unless otherwise stated in the Table.
+
+Table of applied provisions
+
+| *Provision of Part 3 of the Act* | *Subject* | *Modification or comment* |
+| --- | --- | --- |
+| Section 138 | Objective 1: supporting private sector purchaser or bridge bank |  |
+| Section 139(2) | Objective A: duration | (a) The reference to section 145 is to that section as applied by this paragraph.<br>(b) The reference to “notice under subsection (1) above” is to notice under paragraph 3(2). |
+| Section 141(2) to (4) | Bank administration order |  |
+| Section 142 | Application |  |
+| Section 143 | Grounds for applying |  |
+| Section 144 | Grounds for making | In making a special administration (bank administration) order, the court must also be satisfied that the company is an investment bank. |
+| Section 145 | General powers etc. | (a) In subsection (1), the administrator may not rely on subsection (1) for the purpose of recovering property transferred by a property transfer instrument.<br>(b) Subsection (3)(c), (5) and (6) are not applied. |
+| Section 145 | Table 1: Applied Provisions: Insolvency Act 1986, Schedule B1 [^c20697991] | In Table 1 after subsection (6)—<br>(a) Paragraph 41 is not applied.<br>(b) In paragraph 46 —<br>(i) in sub-paragraph (3)(a), in addition to obtaining the list of creditors, the administrator shall obtain as complete a list as possible of the clients of the investment bank,<br>(ii) in sub-paragraph (3)(b), the administrator shall send a notice of their appointment to each client of whose claim and address the administrator is aware and to the FCA[^key-2940f663f811b37b8d183eb9d596dfcd] and, where the investment bank concerned is a PRA-authorised person, the PRA.<br>(c) In paragraph 47, in sub-paragraph (2), the statement must also include particulars (to the extent prescribed) of the client assets held by the investment bank.<br>(d) Paragraphs 49 to 54 are not applied: *see paragraphs 7 to 14 of this Schedule*.<br>(e) Paragraph 55 is only applied where the Bank of England has given the Objective A Achievement Notice and—<br>(i) sub-paragraph (1)(a) is not applied,<br>(ii) in sub-paragraph (1)(b), the meeting referred to is one held under paragraph 12 of this Schedule,<br>(iii) in making an order under sub-paragraph (2) the court must have regard to the special administration objectives, and<br>(iv) sub-paragraph (2)(d) is not applied.<br>(f) In paragraph 56—<br>(i) before the Bank of England has given an Objective A Achievement Notice, the administrator may comply with a request under sub-paragraph (1)(a) only if satisfied that it will not prejudice the achievement of Objective A, and<br>(ii) the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA must be invited to any meeting under this paragraph.<br>(g) In paragraph 57—<br>(i) a creditors' committee can only be established by a creditors' meeting of which creditors and clients have been both given notice,<br>(ii) before the Bank of England has given an Objective A Achievement Notice, the creditors' committee, when exercising functions, must comply with any directions given to it by the Bank of England,<br>(iii) the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA may appoint a person to attend a meeting of the creditors' committee and make representations as to any matter for decision,<br>(iv) the FSCS shall be appointed as a member of the creditors' committee unless it indicates to the administrator that it does not wish to be appointed, and<br>(v) insolvency rules shall ensure that the make up of the creditors' committee is a reflection of all parties with an interest in the achievement of the special administration objectives.<br>(h) In paragraph 60 (and Schedule 1) the exercise of powers is subject to the need to prioritise Objective A.<br>(i) In paragraph 62, the administrator may also call a meeting of clients or contributories.<br>(j) In paragraph 68—<br>(i) sub-paragraph (1) includes proposals where a court order has been obtained dispensing with the need for approval in accordance with paragraph 8 or 13 of this Schedule 2, and<br>(ii) the references to paragraphs 53 and 54 are to paragraphs 7 to 13 of this Schedule.<br>(k) In paragraph 73—<br>(i) the reference to the administrator's proposals under paragraph 49 is to the statement of proposals under paragraph 7 of this Schedule, and<br>(ii) sub-paragraph (2)(d) is not applied.<br>(l) In paragraph 74—<br>(i) the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA may also make an application under sub-paragraph (1) on the grounds that —<br>(aa) the administrator is acting or has acted so as unfairly to harm the interests of some or all of the members, creditors or clients, or<br>(bb) the administrator is proposing to act in a way which would unfairly harm the interests of some or all of the members, creditors or clients,<br>(ii) a client may also make an application under sub-paragraphs (1) and (2), but, until the Bank of England has given an Objective A Achievement Notice, an order may be made on the application of a client only if the court is satisfied that it would not prejudice pursuit of Objective A,<br>(iii) where the FCA[^key-48f291fd901c045e1dfe55ceef0e181f] or the PRA has given a direction under regulation 16, an order may not be made on an application (by persons other than the Bank of England or the FCA or the PRA) under this paragraph before the direction is withdrawn if it would impede or prevent compliance with the direction, and<br>(iv) any of the following persons may make an application under this paragraph on the grounds that the administrator is not taking any action in response to a request from that person under regulation 13(2) and that the person is of the opinion that the action requested would not lead to a material reduction in the value of the property of the investment bank—<br>(i) the Bank of England,<br>(ii) the Treasury,<br>(iii) the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA, or<br>(iv) a market infrastructure body.<br>(m) A client and the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA are included in the list of those persons who may make an application under paragraph 75(2).<br>(n) Paragraph 79 is not applied: *see paragraphs 15 and 16 of this Schedule.*<br>(o) In paragraph 91, after the Bank of England has given an Objective A Achievement Notice, the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA may make an application to appoint an administrator but the restrictions in sub-paragraph (2) apply.<br>(p) Paragraph 96 is not applied.<br>(q) In paragraph 98, sub-paragraph (2)(b) is not applied.<br>(r) In paragraph 99—<br>(i) in sub-paragraph (3), the former administrator's remuneration and expenses incurred in respect of the pursuit of Objective 1 will be charged on and payable out of client assets, and<br>(ii) in sub-paragraph (4)(b), the reference to any charge arising under sub-paragraph (3) does not include a charge on client assets.<br>(s) In paragraph 101, the reference to paragraphs 87 to 99 is to paragraphs 87 to 91, 98 and 99.<br>(t) In paragraph 103(2), after the Bank of England has given the Objective A Achievement Notice, in sub-paragraph (2)(a), an application to the court under sub-paragraph (1) shall be made by a person listed in regulation 5(1).<br>(u) In paragraph 106, sub-paragraphs (2)(a), (2)(b) and (2)(l) to (n) are not applied.<br>(v) In paragraph 107, in considering an application the court must have regard to Objective A and the special administration objectives.<br>(w) In paragraph 108—<br>(i) the references in sub-paragraph (1) are to paragraphs 7 to 13 of this Schedule, and<br>(ii) sub-paragraph (3) is not applied.<br>(x) In paragraph 111, the definition of “administrator” and sub-paragraph (1A)(b) and (c) are not applied, and the reference in sub-paragraph (1) to paragraph 50 is to paragraph 10 of this Schedule. |
+| Section 145 | Table 2: Applied Provisions: other provisions of the Insolvency Act | In Table 2 after subsection (6)—<br>(a) In section 135—<br>(i) the reference in (e) to section 138(2)(a) is to that section as applied by this paragraph, and<br>(ii) the reference in (f) to Objective 2 is to the special administration objectives.<br>(b) In section 234—<br>(i) subsection (1) is not applied, and<br>(ii) “**office holder**” means the administrator.<br>(c) In section 235—<br>(i) subsections (1) and (4)(b) to (d) are not applied, and<br>(ii) “**office holder**” means the administrator.<br>(d) In section 236—<br>(i) subsection (1) is not applied, and<br>(ii) “**office holder**” means the administrator.<br>(e) In the application of section 240 to sections 238 and 239—<br>(i) in subsection (2)(a), the reference to being unable to pay its debts has the meaning given by regulation 2, and<br>(ii) subsections (1)(d) and (3)(b) to (e) are not applied.<br>(f) In section 245—<br>(i) in subsection (4)(a) the reference to being unable to pay its debts has the meaning given by regulation 2, and<br>(ii) subsections (3)(d) and (5)(b) to (d) are not applied.<br>(g) In section 246—<br>(i) subsection (1) is not applied, and<br>(ii) “**office holder**” means the administrator.<br>(h) In section 387, subsections (2)(b), (2A), (3) and (4) to (6) are not applied.<br>(i) In section 423, subsection (4) is not applied.<br>(j) In section 432, in subsection (4) ignore all the provisions of the Insolvency Act listed there except for sections 206 to 211.<br>(k) In section 433, subsection (4) is not applied. |
+| Section 146 | Status of administrator |  |
+| Section 147 | Administrator's proposals | Section 147 is not applied. |
+| Section 148 | Sharing information |  |
+| Section 149 | Multiple transfers - general application |  |
+| Section 150 | Bridge bank to private sector purchaser | In subsection (5), the reference to section 139 is to paragraph 3(2) above. |
+| Section 151 | Property transfer from bridge bank |  |
+| Section 157 | Other processes | The definition of an insolvency power includes regulation 5 (application for a special administration order). |
+
+(4) Where a provision of the Insolvency Act is set out in Table 2 in regulation 15(6), but is not applied by section 145 of the Act, that provision also applies to special administration (bank administration) with the modifications specified in that regulation and in sub-paragraph (2).
+
+### 7. Statement of proposals
+
+(1) In a special administration (bank administration), the proposals setting out how the purpose of the administration is to be achieved (“**the statement**”) shall be drawn up as follows.
+
+(2) The administrator must, as soon as is reasonably practicable after the investment bank enters special administration (bank administration), make a statement setting out proposals for achieving Objective A and the special administration objectives.
+
+(3) In a case of special administration (bank administration) following transfer to a bridge bank, before making the statement the administrator must consult the Bank of England about the likelihood of a payment to the residual bank from a scheme established by a resolution fund order under section 49(3) of the Act.
+
+**8.** (1) The statement is to be agreed with the Bank of England and, where a regulator[^key-30eb8f4e41d2b5b0a4d84181592af69c] has given a direction under regulation 16, with that regulator[^key-f98f67a4c29632c087e310a0ea83f5a6].
+
+(2) If neither regulator has[^key-dd4a47ed722811501970f0c3b7acd890] given a direction under regulation 16 and the administrator is unable to agree a statement with the Bank of England—
+
+- (a) the administrator may apply to the court for directions under paragraph 63 of Schedule B1 (as applied by section 145 of the Act and this Schedule); and
+- (b) the court may make any order it considers appropriate, including dispensing with the need for the Bank of England's agreement.
+
+(3) If a regulator has[^key-a78baf4db8cbe78de159ae097900eadd] given a direction under regulation 16 which has not been withdrawn and the administrator is unable to agree a statement with either the Bank of England or that regulator[^key-3aed3a7cb6e5c83312eb9dfce7c56dcf], the administrator may apply to the court for directions under paragraph 63 of Schedule B1.
+
+(4) Following an application under sub-paragraph (3), the court may—
+
+- (a) make an order dispensing with the need for agreement;
+- (b) adjourn the hearing conditionally or unconditionally; or
+- (c) make any other order that the court thinks appropriate.
+
+(5) The court may make an order in sub-paragraph (4)(a) only if it considers that—
+
+- (i) the proposals set out in the statement are reasonably likely to ensure that the administrator acts in accordance with the [^key-7f59548c8ac9fbe9d5194a25c5fe4d52]... direction, and
+- (ii) the [^key-7f59548c8ac9fbe9d5194a25c5fe4d52]... direction is not likely to prejudice the achievement of Objective A.
+
+(6) Where the court makes an order, the administrator shall as soon as reasonably practicable send the order to the registrar of companies and to such persons as may be prescribed.
+
+**9.** (1) The administrator shall send the statement to—
+
+- (a) the FCA[^key-aab03d9d08de0771bead6cc319f9bb06] and, where the investment bank concerned is a PRA-authorised person, the PRA;
+- (b) the FSCS;
+- (c) the registrar of companies;
+- (d) every creditor of the investment bank of whose claim and address the administrator is aware;
+- (e) every member of the investment bank of whose address the administrator is aware; and
+- (f) every client of the investment bank of whose claim the administrator is aware and of whom the administrator has a means of contacting.
+
+(2) The administrator shall comply with sub-paragraph (1) not later than 10 business days after—
+
+- (a) obtaining the agreement of the Bank of England (and where a regulator[^key-88ffd877cddd279573e209c53eee9dba] has given a direction, that regulator[^key-8efb2f0e09457197c24c735dcc3c1c05]); or
+- (b) the court has made an order dispensing with the need for this agreement.
+
+(3) The administrator shall be taken to comply with sub-paragraph (1)(d) if the administrator publishes in the prescribed manner a notice undertaking to provide a copy of the statement of proposals free of charge to any member of the investment bank who applies in writing to a specified address.
+
+(4) The administrator shall also give notice in the prescribed manner that the statement of proposals is to be provided free of charge to a market infrastructure body which applies in writing to a specified address.
+
+(5) Sub-paragraphs (7) and (8) of paragraph 49 of Schedule B1 apply with the following modifications—
+
+- (a) the reference in paragraph 49(7) to sub-paragraph (5) shall be a reference to sub-paragraph (2) of this paragraph;
+- (b) the reference to “this paragraph” in paragraph 49(8) means this paragraph;
+- (c) the reference to paragraph 107 is a reference to that paragraph as applied by section 145 of the Act and by paragraph 6(3).
+
+### 10. Meeting of creditors and clients to approve statement
+
+(1) This paragraph applies after the administrator has sent the statement of proposals to the persons listed in paragraph 9(1) unless (subject to sub-paragraph (6)) a regulator[^key-961c80644b48101b1a07ed9dc075ee75] has given a direction under regulation 16 and the direction has not been withdrawn.
+
+(2) Paragraph 50 of Schedule B1 applies save that—
+
+- (a) in sub-paragraph (1), the administrator shall invite the clients to the meeting of creditors and the clients shall be given the prescribed period of notice under sub-paragraph (1)(b); and
+- (b) the FCA[^key-fe086e584495ff15fdded765303e0647] and, where the investment bank concerned is a PRA-authorised person, the PRA may appoint a person to attend a meeting of creditors and make representations as to any matter for decision.
+
+(3) Paragraph 51 of Schedule B1 applies save that—
+
+- (a) the reference to paragraph 49(4)(b) is to paragraph 9(1) of this Schedule; and
+- (b) each copy of the statement sent to a client or to a regulator[^key-72b8e44aa7db9108d8eb25acd0064aec] under paragraph 9(1) of this Schedule must be accompanied by an invitation to the initial creditor's meeting.
+
+(4) Paragraph 53 of Schedule B1 applies save that in sub-paragraph (2), if FCA[^key-80d079272cd1aaaf1845851bd4ed13d5] or, where the investment bank concerned is a PRA-authorised person, the PRA has not appointed a person to attend the meeting, the administrator must also report any decision taken to that regulator[^key-ef940e6756cd426c146773fcdb62f471].
+
+(5) If the meeting of creditors is unable to approve the statement, the administrator may apply to court for an order dispensing with the need for the approval of the meeting of creditors, and paragraph 14 applies.
+
+(6) Where, before a regulator[^key-f0f2121bd902a5bbb8680e3e5858b21b] gives a direction under regulation 16, a meeting of creditors has already approved the statement under this paragraph, when that regulator[^key-74448ff21e8f4e3086403a5863467462] gives its direction a new statement shall be drawn up in accordance with paragraphs 7 to 9 to replace the statement that has already been approved.
+
+(7)[^key-dcf8cda67f5fd456843eaf6695f0916a] For the purposes of this paragraph—
+
+- (a) paragraphs 51 and 53 of Schedule B1, as applied by this paragraph, have effect without the amendments of those paragraphs made by paragraph 10(4), (5) and (8) to (10) of Schedule 9 to the Small Business, Enterprise and Employment Act 2015 (further amendments relating to the abolition of requirements to hold meetings);
+- (b) ignore paragraph 10(3) of Schedule 9 to that Act (omission of paragraph 50 of Schedule B1).
+
+### 11. Revision to the statement of proposals (Objective A not yet achieved)
+
+(1) This paragraph applies where—
+
+- (a) the administrator's statement has been—
+  - (i) agreed with the Bank of England (or the court has made an order dispensing with the need for this agreement under paragraph 8(2)), and
+  - (ii) approved by the meeting of creditors (or if the court has made an order dispensing with the need for this approval under paragraph 14);
+- (b) the administrator proposes a revision to the statement;
+- (c) the administrator thinks the revision is substantial; and
+- (d) the Bank of England has not given the Objective A Achievement Notice.
+
+(2) The administrator shall agree the revised statement with the Bank of England and, where a regulator[^key-1b10be8a7f0f0b3cce440e9bfd1c23db] has given a direction and it has not been withdrawn, with that regulator[^key-331b3b279209d533531afbbe7eb7c150].
+
+(3) Paragraph 8(2) to (6) shall apply where the administrator is unable to agree a statement with the Bank of England or (as the case may be) with FCA[^key-be39d50ee66c8c0323aa9f18cb8a7138] or, where relevant, the PRA.
+
+(4) Once the revision has been approved by the Bank of England (and, as the case may be, with FCA or, where relevant, the PRA) or, if the court has made an order dispensing with the need for those approvals, paragraph 54(2) to (5)(a) of Schedule B1 applies in respect of the revised statement save that—
+
+- (a) if the administrator thinks that the proposed revision affects both creditors and clients, then every reference in paragraph 54 to creditors includes clients;
+- (b) if the administrator thinks that the proposed revision only affects either creditors or clients, then paragraph 54 only applies in respect of the affected party,
+
+and where sub-paragraph (b) applies, the party not affected must be informed of the proposed revision in a manner prescribed.
+
+(5) In sub-paragraph (2) of paragraph 54, where neither regulator has[^key-770ce09be3a8ded23424262599bd4275] given a direction under regulation 16, the FCA[^key-9cee1c5944ebb20d17b3ee4c939ba4b3] and, where the investment bank concerned is a PRA-authorised person, the PRA shall be sent a copy of the statement of the proposed revision and invited to appoint a representative to attend the creditors' meeting.
+
+(6) The FSCS shall be sent a copy of the statement of the proposed revision.
+
+(7) If the meeting of creditors is unable to approve the statement, the administrator may apply to court for an order dispensing with the need for the approval of the meeting of creditors, and paragraph 14 applies.
+
+(8) Where the administrator makes an application under sub-paragraph (7), sub-paragraphs (6) and (7) of paragraph 54 shall apply.
+
+(9)[^key-221e6e78ebb4732394ec8cf7e9654b6f] In this paragraph a reference to paragraph 54 of Schedule B1 is a reference to that paragraph as applied by regulation 15.
+
+### 12. Revision to the statement of proposals (Objective A achieved and no regulation 16 direction)[^key-90b9692aa239361aa1e145db878fc694]
+
+(1) This paragraph applies where —
+
+- (a) the events in paragraph 11(1)(a) to (c) have occurred;
+- (b) the Bank of England has given the Objective A Achievement Notice; and
+- (c) no direction has been given[^key-7ddeac04ba3a5017cc780c39e07b80c9] under regulation 16, or if it has, that direction has been withdrawn.
+
+(2) Paragraph 54 of Schedule B1 applies in respect of that statement save that—
+
+- (a) if the administrator considers that the proposed revision affects both creditors and clients, then every reference in paragraph 54 to creditors includes clients;
+- (b) if the administrator considers that the proposed revision only affects either creditors or clients, then paragraph 54 only applies in respect of the affected party,
+
+and where sub-paragraph (b) applies, the party not affected must be informed of the proposed revision in a manner prescribed.
+
+(3) In sub-paragraph (2) of paragraph 54 the FCA[^key-fd34b38b85a183089880df29e7705beb] and, where the investment bank concerned is a PRA-authorised person, the PRA shall be sent a copy of the statement of the proposed revision and be invited to appoint a representative to attend the creditors' meeting.
+
+(4) The FSCS shall be sent a copy of the statement of the proposed revision.
+
+(5)[^key-53a64e2adb9c07d1f1955c49a2a8cc93] In this paragraph a reference to paragraph 54 of Schedule B1 is a reference to that paragraph as applied by regulation 15.
+
+### 13. Revision to the statement of proposals (Objective A achieved and regulation 16 direction has not been withdrawn)[^key-cca299109b121a613ae8c47371fe24ba]
+
+(1) This paragraph applies where —
+
+- (a) the events in paragraph 11(1)(a) to (c) have occurred;
+- (b) the Bank of England has given the Objective A Achievement Notice; and
+- (c) a regulator[^M_F_bfe5bcef-2f0e-4b17-c5ef-428ee8d50c0d] has given a direction under regulation 16 and the direction has not been withdrawn.
+
+(2) The administrator shall agree the revised statement with that regulator[^M_F_a360c599-8c81-4335-fd4b-a371bf86e7f4].
+
+(3) Paragraph 8(3) to (6) shall apply where the administrator is unable to agree a revision to the statement with that regulator[^M_F_52f9f1a7-0436-417f-8fa7-f2f0f3858cdd].
+
+(4) After the revision to the statement has been agreed with that regulator[^M_F_092d845e-d180-4ef8-d36b-eaa1984dab83], or if the court makes an order under paragraph 8(4) dispensing with the need for agreement, the administrator shall send the revised statement to—
+
+- (a) every creditor of the investment bank of whose claim and address the administrator is aware;
+- (b) every client of the investment bank of whose claim the administrator is aware and has a means of contacting;
+- (c) every member of the investment bank of whose address the administrator is aware.
+
+(5) The administrator shall be taken to have complied with paragraph (4)(c) if the administrator publishes a notice undertaking to provide a copy of the statement free of charge to any member of the investment bank who applies in writing to a specified address.
+
+(6) A notice under paragraph (4) shall be published in the prescribed manner and within the prescribed period.
+
+(7) The administrator shall send a copy of the revised statement to—
+
+- (a) the court; and
+- (b) the registrar of companies.
+
+### 14. Powers of the court
+
+(1) Where the administrator makes an application to the court under paragraph 10(5) or 11(7), the court may—
+
+- (a) make the order, if it considers that the proposals set out in the statement are likely to achieve Objective A whilst not preventing the achievement of the special administration objectives;
+- (b) adjourn the hearing conditionally or unconditionally; or
+- (c) make any other order that the court thinks appropriate.
+
+(2) Where the court makes an order, the administrator shall as soon as reasonably practicable send the order to the registrar of companies and to such other persons as may be prescribed.
+
+(3) Paragraph 54(7) of Schedule B1 applies as if the reference in that paragraph to sub-paragraph (6) were a reference to sub-paragraph (2) of this paragraph.
+
+### 15. Ending of special administration (bank administration) (rescue)
+
+(1) This regulation applies if—
+
+- (a) the Bank of England has given an Objective A Achievement Notice; and
+- (b) the administrator has pursued the first part of Objective 3 (as set out in regulation 10(1)(c)(i)) and thinks that it has been sufficiently achieved.
+
+(2) The administrator shall make an application under paragraph 79 of Schedule B1 (as applied by regulation 15).
+
+(3) An administrator who makes an application in accordance with sub-paragraph (2) must send a copy to the FCA[^M_F_6804b99b-6448-434a-aa9f-f7822212ff9e] and, where the investment bank concerned is a PRA-authorised person, the PRA.
+
+### 16. Ending of special administration (bank administration) (dissolution or voluntary arrangement
+
+(1) This section applies if—
+
+- (a) the Bank of England has given an Objective A Achievement Notice;
+- (b) the administrator believes that Objectives 1 and 2 have been sufficiently achieved; and
+- (c) the administrator pursues the second part of Objective 3 (as set out in regulation 10(1)(c)(ii)).
+
+(2) The administrator may—
+
+- (a) give a notice under paragraph 84 of Schedule B1 (as applied by regulation 15); or
+- (b) make a proposal in accordance with Part 1 of the Insolvency Act (company voluntary arrangement).
+
+(3) Part 1 of the Insolvency Act shall apply to a proposal made by an administrator with the following modifications—
+
+- (a) in section 3 (summoning of meetings), subsection (2) (and not (1)) applies;
+- (b) the action that may be taken by a court under section 5(3) (effect of approval) includes suspension of the special administration order; [^key-940e393afdbb501de4c850cc7036dcd4]...
+- (ba)[^key-7b387ca7dec4c990350b3b97e923257e] sections 2 to 6 and 7 [^key-5fdfd4fad2ba4e67f002c05217213d9e]... have effect without the amendments of those provisions made by paragraphs 2 to 8[^key-c7354fe51bbff5799c76af67ad50b6d4] of Schedule 9 to the Small Business, Enterprise and Employment Act 2015 (further amendments relating to the abolition of requirements to hold meetings: company voluntary arrangements); and
+- (c) on the termination of a company voluntary arrangement the administrator may apply to the court to lift the suspension of the special administration order.
+
+### 17. Interpretation
+
+In this Schedule—
+
+- “bridge bank” is a company wholly owned by the Bank of England to which all or part of the business of an investment bank may be transferred in accordance with section 12 of the Act;
+- “**residual bank**” means the non-sold or non-transferred part of the investment bank which remains after a power in section 11 (sale to private sector purchaser) or section 12 (transfer to bridge bank) of the Act has been exercised in respect of that bank;
+- “**Objective A**” has the meaning set out in paragraph 3(1)(a);
+- “**Objective A Achievement Notice**” has the meaning set out in paragraph 3(3);
+- “**private sector purchaser**” means a commercial purchaser to whom part of the business of the investment bank is sold to in accordance with section 11 of the Act; and
+- “**statement**” means the statement of proposals drawn up in accordance with paragraph 7.
+
+## SCHEDULE 3 — Application of these Regulations to limited liability partnerships
+
+Regulation 24
+
+**1.** In this Schedule, “**the 2001 Regulations**” means the Limited Liability Partnerships Regulations 2001 [^c20698001].
+
+**2.** These Regulations apply where the investment bank is a limited liability partnership subject to the following modifications.
+
+**3.** (1) Those provisions of the Insolvency Act, as applied and modified by regulation 15 of these Regulations, shall apply in respect of an investment bank formed as a limited liability partnership subject to sub-paragraph (2).
+
+(2) Those provisions of the Insolvency Act set out in the Table in sub-paragraph (3) shall also apply with the modifications set out in sub-paragraph (3).
+
+(3) The modifications are—
+
+- (a) those contained in regulation 5(2) of the 2001 Regulations (not including those in regulation 5(2)(f)); and
+- (b) any other modification set out in the Table.
+
+  Table: Applied provisions of the Insolvency Act (General provisions and Schedule B1)
+
+  | *Provision of the Insolvency Act* | *Subject* | *Modification or comment* |
+  | --- | --- | --- |
+  | Section 74 | Liability as contributories of present and past members | The following is substituted for section 74–<br>“74 (1) This section applies when a limited liability partnership goes into special administration, every present and past member of the limited liability partnership is liable to contribute to its assets as follows.<br>(2) Where a member has agreed with the other members or with the limited liability partnership,<br>that that member be liable to contribute to the assets of the limited liability partnership in the event that that body goes into liquidation or special administration, that member is liable, to the extent that they have so agreed, to contribute—<br>(a) to its assets to any amount sufficient for payment of its debts and liabilities;<br>(b) to the expenses of the special administration;<br>(c) for the adjustment of the rights of the contributories among themselves.<br>(3) A past member shall only be liable under this section if the obligation arising from such agreement in subsection (2) survived them ceasing to be a member of the limited liability partnership.”. |
+  | Sections 76-78 | Contributories | These sections are not applied. |
+  | Section 79 | Meaning of “contributory” | (a) In subsection (1) for “every person” substitute—<br>“ every past and present member of the limited liability partnership ”.<br>(b) At the end of subsection (2), insert “ or section 214A (adjustment of withdrawals) ”.<br>(c) Subsection (3) is not applied. |
+  | Section 83 | Companies registered under the Companies Act Part XXII, Chapter II | Section 83 is not applied. |
+  | Section 183 | Effect of execution or attachment | Subsection (2)(a) is not applied. |
+  | Section 187 | Power to make over assets to employees | Section 187 is not applied. |
+  | Section 194 | Resolutions passed at meetings | After “contributories” insert “ or of the members of a limited liability partnership ”. |
+  | Section 214 | Wrongful trading | In subsection (2), omit from “but the court shall not” to the end of the subsection. |
+  | After section 214 | Adjustment of withdrawals | Insert—<br>“ 214A(1) This section has effect in relation to a person, “P”, who is or has been a member of a limited liability partnership where, in the course of the special administration of that limited liability partnership, it appears that subsection (2) of this section applies in relation to P. ”.<br>(2) This subsection applies in relation to P if—<br>(a) within the period of two years ending with the commencement of the special administration, P was a member of the limited liability partnership who withdrew property of the limited liability partnership, whether in the form of a share of profits, salary, repayment of or payment of interest on a loan to the limited liability partnership or any other withdrawal of property; and<br>(b) it is proved by the administrator to the satisfaction of the court that at the time of the withdrawal P knew or had reasonable ground for believing that the limited liability partnership—<br>(i) was at the time of the withdrawal unable to pay its debts, or<br>(ii) would become so unable to pay its debts after the assets of the limited liability partnership had been depleted by that withdrawal taken together with all other withdrawals (if any) made by any members contemporaneously with that withdrawal or in contemplation when that withdrawal was made.<br>(3) Where this section has effect in relation to P, the court, on the application of the administrator, may declare that P is to be liable to make such contribution (if any) to the limited liability partnership's assets as the court thinks proper.<br>(4) The court shall not make a declaration in relation to P the amount of which exceeds the aggregate of the amounts or values of all the withdrawals referred to in subsection (2) made by P within the period of two years referred to in that subsection.<br>(5) The court shall not make a declaration under this section with respect to P unless P knew or ought to have concluded that after each withdrawal referred to in subsection (2) there was no reasonable prospect that the limited liability partnership would avoid going into an insolvency procedure under the Insolvency Act or special administration.<br>(6) For the purposes of subsection (5) the facts which P ought to know or ascertain and the conclusions which P ought to reach are those which would be known, ascertained, or reached by a reasonably diligent person having both:<br>(a) the general knowledge, skill and experience that may reasonably be expected of a person carrying out the same functions as are carried out by P in relation to the limited liability partnership; and<br>(b) the general knowledge, skill and experience that P has.<br>(8) In this section “**member**” includes a shadow member.<br>(9) This section is without prejudice to section 214.”. |
+  | Section 215 | Proceedings under section 213 or 214 | (a) In subsection (1) omit the word “or” between the words “213” and “214” and insert after “214” “ or 214A ”.<br>(b) In subsection (2) substitute “any of those sections” for “ either section ”.<br>(c) In subsection (4) substitute “any of those sections” for “ either section ”.<br>(d) In subsection (5) substitute “sections 213, 214 or 214A” for “ sections 213 and 214 ”. |
+  | Section 218 | Prosecution of delinquent officers and members of company | (a) In subsection (1), for “officer, or any member, of the company” substitute “ member of the limited liability partnership ”.<br>(b) In subsection (3) for “officer of the company, or any member of it,” substitute “ member of the limited liability partnership ”. |
+  | Section 386 of and Schedule 6 (and Schedule 4 to the Pension Schemes Act 1993) | Preferential debts | (a) In subsection (1) omit the words “or an individual”.<br>(b) In subsection (2) omit the words “or the individual”. |
+  | Section 387 | “The relevant date” | Subsections (5) and (6) are not applied. |
+  | Section 432 | Offences by bodies corporate | In subsection (2) omit the words “secretary or”. |
+  | Schedule B1<br>Paragraph 42 | Moratorium on insolvency proceedings | For sub-paragraph (2) substitute—<br>“ (2) No determination to wind up the limited liability partnership voluntarily may be made ”. |
+  | Schedule B1<br>Paragraph 61 | Directors | For paragraph 61 substitute—<br>“ 61. The administrator has power to prevent any person from taking part in the management of the business of the limited liability partnership and to appoint any person to be a manager of that business. ”. |
+  | Schedule B1<br>Paragraph 62 | Power to call meetings | At the end of the paragraph add—<br>“ The meeting shall be held in a manner provided by the Investment Bank Special Administration Regulations 2011 or by the limited liability partnership agreement or by insolvency rules (as defined in regulation 2 of those Regulations ”.<br>The quorum required for a meeting of the members of the limited liability partnership shall be any quorum required by the limited liability partnership agreement for meetings of the members of the limited liability partnership and if no requirement for a quorum has been agreed upon, the quorum shall be 2 members.”. |
+  | Schedule B1<br>Paragraph 91 | Replacement | Sub-paragraph (1)(c) is not applied. |
+  | Schedule B1<br>Paragraph 105 | Majority decision of directors | Paragraph 105 is not applied. |
+
+**4.** (1) The provisions of the Disqualification Act shall apply with the modifications set out in sub-paragraph (2).
+
+(2) The modifications are–
+
+- (a) those contained in regulation 23 of these Regulations;
+- (b) those contained in regulation 4(2) of the 2001 Regulations; and
+- (c) that contained in Part 2 of Schedule 2 to the 2001 Regulations.
+
+### 5. Application to Scotland
+
+The provisions of the Insolvency Act listed in this paragraph are not applied to Scotland—
+
+- (a) section 167 (and Schedule 4);
+- (b) sections 185 to 187;
+- (c) sections 193 to 194;
+- (d) section 196 to the extent that that section applies to the specified devolved functions of Part 4 of the Insolvency Act;
+- (e) section 199;
+- (f) sections 206 to 215;
+- (g) sections 218, subsection (1);
+- (h) sections 242 to 243; and
+- (i) section 245.
+
+### 6. Subordinate legislation
+
+(1) The following subordinate legislation shall apply as from time to time in force to investment banks that are limited liability partnerships in special administration and—
+
+- (a) in case of the legislation listed in sub-paragraph (2), with such modifications as the context requires for the purpose of giving effect to the provisions of the Insolvency Act as applied by these Regulations; and
+- (b) in case of the legislation listed in sub-paragraph (3), with such modifications as the context requires for the purpose of giving effect to the provisions of the Companies Act 2006 and the Disqualification Act.
+
+(2) The legislation referred to in sub-paragraph (1)(a) is—
+
+- (a) The Insolvency Practitioners Regulations 2005 [^c20698011];
+- (b) The Insolvency Practitioners (Recognised Professional Bodies) Order 1986 [^c20698021];
+- (c) The Insolvency Proceedings Fees Order 2004 [^c20698031];
+- (d) The Insolvency Practitioners Tribunal (Conduct of Investigations) Rules 1986 [^c20698041]; and
+- (e) insolvency rules.
+
+(3) The legislation referred to in sub-paragraph (1)(b) is—
+
+- (a) The Insolvent Companies (Disqualification of Unfit Directors) Proceedings Rules 1987 [^c20698051];
+- (b) The Uncertificated Securities Regulations 2001; [^c20698061]
+- (c) The Insolvent Companies (Reports on Conduct of Directors) Rules 1996 [^c20698071]; and
+- (d) The Insolvent Companies (Reports on Conduct of Directors) (Scotland) Rules 1996 [^c20698081].
+
+## SCHEDULE 4 — Application of these Regulations to partnerships
+
+Regulation 25
+
+**1.** In this Schedule, “**the 1994 Order**” means the Insolvent Partnerships Order 1994 [^c20698091].
+
+**2.** These Regulations apply where the investment bank is a partnership subject to the following modifications.
+
+**3.** In the application of these Regulations and the Disqualification Act to partnerships, unless the contrary intention appears, the following apply—
+
+- (a) references to companies shall be construed as references to partnerships and all references to the registrar of companies shall be omitted;
+- (b) references to shares of a company shall be construed—
+  - (i) in relation to a partnership with capital, as references to rights to share in that capital, and
+  - (ii) in relation to a partnership without capital, as references to interests—
+    - (aa) conferring any right to share in the profits or liability to contribute to the losses of the partnership, or
+    - (bb) giving rise to an obligation to contribute to the debts or expenses of the partnership in the event of special administration; and
+- (c) other expressions appropriate to companies shall be construed, in relation to partnerships, as references to the corresponding persons, officers, documents or organs (as the case may be) appropriate to a partnership.
+
+**4.** (1) The provisions of Schedule B1 as applied by regulation 15 apply in respect of a partnership but where a provision of Schedule B1 is listed in Table 1 below, that provision shall apply—
+
+- (a) as modified by Schedule 2 to the 1994 Order; and
+- (b) with the modifications set out in column 3 of Table 1,
+
+instead of as modified in accordance with regulation 15.
+
+(2) In the provisions referred to in the second column of Table 1, a reference to—
+
+- (a) a provision of the Insolvency Act is to that provision as applied by regulation 15 (subject to sub-paragraph (1));
+- (b) action includes a reference to inaction;
+- (c) the administrator means the administrator appointed under regulation 7;
+- (d) the court means the court as defined in regulation 2;
+- (e) the creditors' meeting has the meaning given by paragraph 50 of Schedule B1 (as applied by regulation 15);
+- (f) entering administration means entering special administration;
+- (g) a hire purchase agreement includes a conditional sale agreement, a chattel leasing agreement and a retention of title agreement;
+- (h) an insolvency order is to a special administration order;
+- (i) an insolvency petition means an application for a special administration order;
+- (j) insolvency proceedings means special administration;
+- (k) market value means the amount which would be realised on a sale of property in the open market by a willing vendor;
+- (l) the purpose of administration means the pursuit of the special administration objectives;
+- (m) partnership is to an investment bank;
+- (n) the partnership being in administration is to the investment bank being in special administration;
+- (o) a responsible insolvency practitioner is to the administrator;
+- (p) a thing in writing includes a reference to a thing in electronic form; and
+- (q) an inability to pay its debts has the meaning given in regulation 2(4).
+
+  Table 1: Applied provisions of the 1994 Order with respect to Schedule B1
+
+  | *Provision of Schedule 2* | *Subject* | *Modification or comment* |
+  | --- | --- | --- |
+  | Para 17 | Para 42: moratorium on insolvency proceedings | In the modified paragraph 42, sub-paragraph (5)(a) is not applied. |
+  | Para 18 | Para 43: moratorium on other legal process | In the modified paragraph 43, sub-paragraph (6) is not applied. |
+  | Para 19 | Para 47: statement of affairs | In the modified paragraph 47, in sub-paragraph (2), the statement must also include particulars (to the extent prescribed) of the client assets held by the investment bank. |
+  | Para 20 | Para 49: administrator's proposals | In the modified paragraph 49—<br>(a) sub-paragraph (2)(b) is not applied;<br>(b) under sub-paragraph (4), the administrator shall also send a copy of the statement of proposals to—<br>(i) every client of the investment bank of whose claim the administrator is aware and has a means of contacting, and<br>(ii) the FCA[^key-254595c241b9f3a66b96abfeb1e8a79e] and, where the investment bank concerned is a PRA-authorised person, the PRA; and<br>(c) the administrator shall also give notice in the prescribed manner that the statement of proposals is to be provided free of charge to a market infrastructure body who applies in writing to a specified address. |
+  | Para 22 | Para 61: management |  |
+  | Para 23 | Para 65: distribution to creditors | In the modified paragraph 61, sub-paragraph (3) is not applied. |
+  | Para 24 | Para 69: agency |  |
+  | Para 25 | Para 73: protection for secured or preferential creditors |  |
+  | Para 26 | Para 74: challenge to administrator's conduct | In the modified paragraph 74—<br>(a) the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA may also make an application under this modified paragraph on the grounds that—<br>(i) the administrator is acting or has acted so as unfairly to harm the interests of some or all of the members, creditors or clients; or<br>(ii) the administrator is proposing to act in a way which would unfairly harm the interests of some or all of the members, creditors or clients;<br>(b) a client may also make an application under sub-paragraph (1) or (2);<br>(c) where the FCA[^key-58f6fa80f033944ea04a07b4f54082e8] or the PRA has given a direction under regulation 16 which has not been withdrawn, an order may not be made under this paragraph if it would impede or prevent compliance with the direction; and<br>(d) any of the following persons may make an application under this paragraph on the grounds that the administrator is not taking any action in response to a request from that person under regulation 13(2) and that the person is of the opinion that the action requested would not lead to a material reduction in the value of the property of the investment bank—<br>(i) the Bank of England,<br>(ii) the Treasury,<br>(iii) the FCA or the PRA, or<br>(iv) a market infrastructure body. |
+  | Para 28 | Para 84: termination: no more assets for distribution | In the modified paragraph 84—<br>(a) the administrator shall only file a notice under sub-paragraph (1) if the investment bank no longer holds client assets; and<br>(b) in sub-paragraph (5), a copy of the notice shall be sent to every client of the investment bank of whom the administrator is aware and the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA. |
+  | Para 29 | Para 87: resignation | In the modified paragraph 87—<br>(a) where the administrator was appointed on the application of the Secretary of State , the[^key-84ebbdd60fb65b6cafde47a62e72f52a] FCA or the PRA, the notice given in accordance with sub-paragraph (2)(a) must also be given to the applicant; and<br>(b) sub-paragraphs (2)(b) and (c) are not applied. |
+  | Para 30 | Para 89: disqualification | In the modified paragraph 89—<br>(a) where the administrator was appointed by the Secretary of State , the FCA or the PRA, the notice given in accordance with sub-paragraph (2)(a) must also be given to the applicant; and<br>(b) sub-paragraphs (2)(b) and (c) are not applied. |
+  | Para 31 | Para 90: replacement | In the modified paragraph 90, the reference to paragraphs 91to 93 and 95 is to paragraph 91. |
+  | Para 32 | Para 91: replacement | In the modified paragraph 91, the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA is added to the list of persons who may make an application to appoint an administrator but to whom the restrictions in sub-paragraph (2) apply. |
+  | Para 38 | Para 103: joint administrators | In the modified paragraph 103—<br>(a) in sub-paragraph (2)(a), the reference to paragraph 12(1)(a) to (c) is to regulation 5(1); and<br>(b) sub-paragraphs (3) and (4) are not applied. |
+  | Para 39 | Para 105: majority decision of directors | Paragraph 105 is not applied. |
+  | Para 40 | Para 106: fines | In the modified paragraph 106, sub-paragraphs (2)(a), (2)(b), (2)(j) and (2)(k) are not applied. |
+  | Para 42 | Paras 112 to 116: Scotland | Paragraphs 112 to 116 are not applied. |
+
+**5.** (1) The provisions of the Insolvency Act other than those in Schedule B1 as applied by regulation 15 apply in respect of a partnership but where the provision is listed in Table 2 below, that provision shall apply subject to this paragraph.
+
+(2) The provisions of the 1994 Order set out in Table 2 apply in relation to these Regulations, with—
+
+- (a) the modifications set out in sub-paragraph (3); and
+- (b) any other modification set out in Table 2.
+
+(3) The modifications are that a reference to—
+
+- (a) the Act (the Insolvency Act) is a reference to the Regulations;
+- (b) a provision of the Insolvency Act is to that provision as applied and modified by regulation 15, unless the provision appears in Table 1;
+- (c) being wound up means that the partnership is in special administration;
+- (d) office-holder means the administrator; and
+- (e) insolvency order means a special administration order.
+
+  Table 2: Applied provisions of the 1994 Order (general)
+
+  | *Provision* | *Subject* | *Modification or comment* |
+  | --- | --- | --- |
+  | Article 16 | Application of the Disqualification Act | The reference to the partnership being wound up as an unregistered company under Part V of the Insolvency Act is a reference to it being placed in special administration under these Regulations. |
+  | Article 18 | Subordinate legislation |  |
+  | Schedule 2, para 43 | Schedule 1 to the Insolvency Act | Paragraph 19 is not applied. |
+  | Schedule 3, para 9 | Section 234 of the Insolvency Act | The reference in sub-paragraph (1) to article 7 of the 1994 Order is to be read as a reference to regulation 7. |
+  | Schedule 3, para 10 | Schedule 4 to the Insolvency Act | In Schedule 4, paragraphs 4 to 10, and paragraph 12, are not applied, and in paragraph 13, the reference to “**winding up the partnership's affairs and distributing its property**” is a reference to “pursuing the special administration objectives.” |
+  | Schedule 4, para 25 | Section 211 | Sub-paragraph (1) is not applied. |
+  | Schedule 8 | Application of the Disqualification Act | The provisions of the Disqualification Act listed in Article 16, and applied with modification by Schedule 8, are to be read with the modifications set out in regulation 23. |
+  | Schedule 10 | Subordinate legislation | (a) The reference to the Insolvency Rules 1986 is a reference to insolvency rules.<br>(b) Ignore the reference to the following instruments—<br>(i) The Insolvency Proceedings (Monetary Limits) Order 1986 [^c20698101],<br>(ii) The Administration of Insolvent Estates of Deceased Persons Order 1986 [^c20698111],<br>(iii) The Insolvency (Amendment of Subordinate Legislation) Order 1986 [^c20698121],<br>(iv) The Companies (Disqualification Orders) Regulations 2001 [^c20698131],<br>(v) The Co-operation of Insolvency Courts (Designation of Relevant Countries and Territories) Order 1986 [^c20698141],<br>(vi) The Insolvency Practitioners and Insolvency Services Accounts (Fees) Order 2003 [^c20698151]; and<br>(vii) The Insolvency Proceedings (Fees) Order 2004 [^c20698161]. |
+
+## SCHEDULE 5 — Table of enactments referred to in these Regulations together with the equivalent enactment having effect in relation to Northern Ireland
+
+Regulation 26
+
+The enactments listed in column 2, being the equivalent Northern Ireland enactments to the enactments listed in column 1, have effect with the modifications (if any) set out in column 3.
+
+| *Enactment* | *Equivalent enactment in N. Ireland* | *Modifications to the N. Ireland enactment* |
+| --- | --- | --- |
+| Insolvency Act | Insolvency (Northern Ireland) Order 1989 (“**the Insolvency Order**”) [^c20698171] |  |
+| *The following provisions of the Insolvency Act* | *The following provisions of the Insolvency Order* |  |
+| Part 1 | Part 2 |  |
+| Part 4 or 5 | Part 5 or 6 |  |
+| Section 3 | Article 16 |  |
+| Section 4 | Article 17 |  |
+| Section 5 | Article 18 |  |
+| Sections 74 and 76 to 83 | Articles 61 and 63 to 69 |  |
+| Section 79 | Article 13 |  |
+| Section 84 | Article 70 |  |
+| Section 123 | Article 103 |  |
+| Section 124(2) | Article 104(2) |  |
+| Section 124A(1) | Article 104A(1) [^c20698181] |  |
+| Section 125 | Article 105 |  |
+| Section 135 | Article 115 |  |
+| Section 167 (and Schedule 4) | Article 142 (and Schedule 2) | In Article 142, in paragraphs (1) and (2) the reference to the liquidation committee is a reference to the creditors’ committee[^key-e0796e6a22c399ed926dae4d5307761f] |
+| Section 168 | Article 143 |  |
+| Section 176 | Article 150 |  |
+| Section 176AZA[^key-8c22baa4ef7e8230ff5a9be05b129f54] | Article 150ZZA |  |
+| Section 176A | Article 150A [^c20698191] |  |
+| Section 178 | Article 152 |  |
+| Section 179 | Article 153 |  |
+| Section 180 | Article 154 |  |
+| Section 181 | Article 155 |  |
+| Section 182 | Article 156 |  |
+| Section 186 | Article 157 |  |
+| Section 187 | Article 158 |  |
+| Section 194 | Article 163 |  |
+| Section 206 | Article 170 |  |
+| Section 207 | Article 171 |  |
+| Section 208 | Article 172 |  |
+| Section 209 | Article 173 |  |
+| Section 210 | Article 174 |  |
+| Section 211 | Article 175 |  |
+| Section 212 | Article 176 |  |
+| Section 213 | Article 177 |  |
+| Section 214 | Article 178 |  |
+| Section 215 | Article 179 |  |
+| Section 216 | Article 180 |  |
+| Section 217 | Article 181 |  |
+| Section 218 | Article 182 | The reference to the Secretary of State in the modification to section 218 in regulation 15(6) is to be treated as a reference to the Department of Enterprise, Trade and Investment. |
+| Section 219 | Article 183 |  |
+| Section 233 | Article 197 |  |
+| Section 233A[^key-d0bbd16deacb9a7d7caa8f4ae2dc6e39] | Article 197A | – |
+| Section 234 | Article 198 |  |
+| Section 235 | Article 199 |  |
+| Section 236 | Article 200 |  |
+| Section 237 | Article 201 |  |
+| Section 238 | Article 202 |  |
+| Section 239 | Article 203 |  |
+| Section 240 | Article 204 |  |
+| Section 241 | Article 205 |  |
+| Section 244 | Article 206 |  |
+| Section 245 | Article 207 |  |
+| Section 246 | Article 208 |  |
+| section 247 | Article 6 |  |
+| Section 386 (and Schedule 6 and Schedule 4 to the Pensions Schemes Act 1993) | Article 346 (and Schedule 4 and Schedule 4 to the Social Security Pensions (Northern Ireland) Order 1975 [^c20698201] |  |
+| Section 387 | Article 347 |  |
+| Section 387A | Article 347A |  |
+| Section 388 | Article 349 |  |
+| Section 389 | Article 348 |  |
+| Sections 390 to 391T[^key-79566bef0b5255e04b6bf6325e861dec] | Articles 349 to 350T |  |
+| Section 411 (and Schedule 8) | Article 359 (and Schedule 5) | (a) The modifications to section 411 set out in column 3 of Table 2 in Regulation 15 are not applied.<br>(b) Rules shall be made by the Department of Justice with the concurrence of—<br>(i) the Department of Finance and Personnel; and<br>(ii) in the case of rules that affect court procedure, the Lord Chief Justice of Northern Ireland.<br>(c) The reference to “this Order” in Article 359 includes these Regulations.<br>(d) A reference in Schedule 5 to the Insolvency (Northern Ireland) Order 1989 to doing anything under or for the purpose of a provision in this Order includes a reference to doing anything under or for the purposes of a provision of these Regulations. |
+| Section 414 | Article 361 | (a) The modifications to section 414 set out in column 3 of Table 2 in Regulation 15 are not applied.<br>(b) The reference in this Article to “**this Order**” includes these Regulations.<br>(c) Ignore the reference to the official receiver. |
+| Section 423 | Article 367 |  |
+| Sections 424 and 425 | Article 368 and 369 |  |
+| Sections 430 and 431 (and Schedule 10) | Articles 373 and 374 (and Schedule 7) |  |
+| Section 432 | Article 374 |  |
+| Section 433 | Article 375 | (a) The modifications to section 433 set out in column 3 of Table 2 in Regulation 15 are not applied.<br>(b) In paragraph (1)(a) a statement of affairs prepared “**for the purposes of any provision of this Order**” includes any statement made by a provision of that Order as applied by these Regulations.<br>(c) In paragraph (1)(b), the reference to “**this Order**” includes these Regulations. |
+| Sections 434B to 434D | Articles 384 to 386 |  |
+| Schedule B1 | Schedule B1 |  |
+| *The following provisions of Schedule B1* | *The following provisions of Schedule B1* |  |
+| Para 40(1)(a) | Para 41(1)(a) |  |
+| Para 42 | Para 43 |  |
+| Para 43 | Para 44 |  |
+| Para 44 | Para 45 |  |
+| Para 45 | Para 46 |  |
+| Para 46 | Para 47 |  |
+| Para 47 | Para 48 |  |
+| Para 48 | Para 49 |  |
+| Para 49 | Para 50 |  |
+| Para 50 | Para 51 |  |
+| Para 51 | Para 52 |  |
+| Para 53 | Para 54 |  |
+| Para 54 | Para 55 |  |
+| Para 55 | Para 56 |  |
+| Para 56 | Para 57 |  |
+| Para 57 | Para 58 |  |
+| Para 58 | Para 59 |  |
+| Para 59 | Para 60 |  |
+| Para 60 (and Schedule 1) | Para 61 (and Schedule 1) |  |
+| Para 61 | Para 62 |  |
+| Para 62 | Para 63 |  |
+| Para 63 | Para 64 |  |
+| Para 64 | Para 65 |  |
+| Para 65 | Para 66 | In Para 66, sub-paragraph (3) is not applied.[^key-1d11cfd96285267b664ae12c0fef5351] |
+| Para 66 | Para 67 |  |
+| Para 67 | Para 68 |  |
+| Para 68 | Para 69 |  |
+| Para 69 | Para 70 |  |
+| Para 70 | Para 71 |  |
+| Para 71 | Para 72 |  |
+| Para 72 | Para 73 |  |
+| Para 73 | Para 74 |  |
+| Para 74 | Para 75 |  |
+| Para 75 | Para 76 |  |
+| Para 79 | Para 80 |  |
+| Para 81 | Para 82 |  |
+| Para 84 | Para 85 |  |
+| Para 85 | Para 86 |  |
+| Para 86 | Para 87 |  |
+| Para 87 | Para 88 |  |
+| Para 88 | Para 89 |  |
+| Para 89 | Para 90 |  |
+| Para 90 | Para 91 |  |
+| Para 91 | Para 92 |  |
+| Para 98 | Para 99 |  |
+| Para 99 | Para 100 |  |
+| Para 100 | Para 101 |  |
+| Para 101 | Para 102 |  |
+| Para 102 | Para 103 |  |
+| Para 103 | Para 104 |  |
+| Para 104 | Para 105 |  |
+| Para 105 | Para 106 |  |
+| Para 106 (and section 430 and Schedule 10) | Para 107 (and Article 373 and Schedule 7) |  |
+| Para 107 | Para 108 |  |
+| Para 108 | Para 109 |  |
+| Paras 109 | Para 110 |  |
+| Para 111 | Para 1 |  |
+| Schedule 2A, Para 1[^key-bf3a2ee557519eeebfe962d44a355f4a] | Schedule 1A, Para 1 |  |
+| Section 87A of the Magistrates' Courts Act 1980 | Article 92A of the Magistrates' Courts (Northern Ireland) Order 1981 [^c20698211] |  |
+| Company Directors Disqualification Act 1986 | Company Directors Disqualification (Northern Ireland) Order 2002 [^c20698221] |  |
+| Section 7A[^key-b9251897d524a98fbbb249f7a665dfdf] of the Company Directors Disqualification Act 1986 | Article 10A[^key-cea8da7f27caff0b65d2f5543c2231ef] of the Company Directors Disqualification (Northern Ireland) Order 2002 |  |
+| Part 7 of the Companies Act 1989 | Part 5 of the Companies (No. 2) (Northern Ireland) Order 1990 [^c20698231] |  |
+| Section 155 of the Companies Act 1989 | Article 80 of the Companies (No. 2) (Northern Ireland) Order 1990 |  |
+| Section 173 of the Companies Act 1989 | Article 95 of the Companies (No. 2) (Northern Ireland) Order 1990 |  |
+| Section 188 of the Companies Act 1989 | Article 109 of the Companies (No. 2) (Northern Ireland) Order 1990 |  |
+| Insolvency Practitioners (Recognised Professional Bodies) Order 1986 | Insolvency Practitioners (Recognised Professional Bodies) Order (Northern Ireland) 1991 [^c20698241] |  |
+| Insolvent Companies (Disqualification of Unfit Directors) Proceedings Rules 1987 | Insolvent Companies (Disqualification of Unfit Directors) Proceedings Rules (Northern Ireland) 2003 [^c20698251] |  |
+| Insolvent Partnerships Order 1994 | Insolvent Partnerships Order (Northern Ireland) 1995 [^c20698261] |  |
+| Insolvent Companies (Reports on Conduct of Directors) Rules 1996 | Insolvent Companies (Reports on Conduct of Directors) Rules (Northern Ireland) 2003 [^c20698271] |  |
+| Limited Liability Partnership Regulations 2001 | Limited Liability Partnership Regulations (Northern Ireland) 2004 [^c20698281] |  |
+| Insolvency Proceedings Fees Order 2004 | Insolvency (Fees) Order (Northern Ireland) 2006 [^c20698291] |  |
+| Insolvency Practitioners Regulations 2005 | Insolvency Practitioners Regulations (Northern Ireland) 2006 [^c20698301] |  |
+| Insolvency Rules | Insolvency Rules (Northern Ireland) 1991 [^c20698311] |  |
+
+## SCHEDULE 6 — Modifications and consequential amendments
+
+Regulation 27
+
+### PART 1
+
+**1.** (1) Where this Part of this Schedule applies, the enactments set out below apply with the following modifications.
+
+(2) References to—
+
+- (a) an administrator appointed in respect of a Schedule B1 administration include a reference to an administrator appointed under a special administration order;
+- (b) administration under Schedule B1 or “insolvent administration” include a reference to special administration;
+- (c) “administration order” include a reference to a special administration order;
+- (d) “insolvency legislation”, the “general law of insolvency”, the “enactments relating to insolvency” and similar expressions include special administration and the provisions of the Insolvency Act as applied by these Regulations;
+- (e) becoming insolvent, or an “insolvency event” occurring in respect of the investment bank includes being put into special administration and “insolvency proceedings” or an “insolvency procedure” include special administration;
+- (f) “winding up”, being “wound up”, “wound up by the court” “going into liquidation” or “compulsory liquidation” include being put into special administration, and a “winding-up order” include a special administration order (and, in this context, “liquidator” shall be read as “administrator”);
+- (g) a person acting as an insolvency practitioner within the meaning of section 388 of the Insolvency Act include a person acting as an administrator under these Regulations;
+- (h) the provisions of the Insolvency Act include those provisions as applied and modified by these Regulations; and
+- (i) the provisions of the Insolvency Rules 1986 [^c20698321], the Insolvency Rules (Northern Ireland) 1991 [^c20698331] and the Insolvency (Scotland) Rules 1986 [^c20698341] include the provisions of insolvency rules made under section 411 of the Insolvency Act as applied by regulation 15(6).
+
+(3) A reference to insolvency or liquidation within the meaning of section 247 of the Insolvency Act includes a reference to special administration.
+
+(4) A reference to the “**purposes of the Insolvency Act 1986**” includes a reference to the purposes of these Regulations.
+
+#### Primary Legislation
+
+- Taxes Management Act 1970 [^c20698351]
+- Prescription and Limitation (Scotland) Act 1973 [^c20698361]
+- Companies Act 1985 [^c20698371]
+- Finance Act 1986 [^c20698381]
+- Companies (Northern Ireland) Order 1986 [^c20698391]
+- Debtors (Scotland) Act 1987 [^c20698401]
+- Companies Act 1989
+- Companies (No. 2) (Northern Ireland) Order 1990 [^c20698411]
+- Taxation of Chargeable Gains Act 1992 [^c20698421]
+- Pension Schemes Act 1993 [^c20698431]
+- Pension Schemes (Northern Ireland) Act 1993 [^c20698441]
+- Pensions Act 1995 [^c20698451]
+- Pensions (Northern Ireland) Order 1995 [^c20698461]
+- Proceeds of Crime (Scotland) Act 1995 [^c20698471]
+- Employment Rights Act 1996 [^c20698481]
+- Employment Rights (Northern Ireland) Order 1996 [^c20698491]
+- Terrorism Act 2000 [^c20698501]
+- Finance Act 2000 [^c20698511]
+- International Criminal Court Act 2001 [^c20698521]
+- International Criminal Court (Scotland) Act 2001 [^c20698531]
+- Proceeds of Crime Act 2002 [^c20698541]
+- Debt Arrangement and Attachment (Scotland) Act 2002 [^c20698551]
+- Finance Act 2003 [^c20698561]
+- Pensions Act 2004 [^c20698571]
+- Pensions (Northern Ireland) Order 2005 [^c20698581]
+- Companies Act 2006 (but not including section 1078 (documents subject to Directive disclosure requirements)
+- Bankruptcy and Diligence (Scotland) Act 2007 [^c20698591]
+- Finance Act 2008 [^c20698601]
+- Dormant Bank and Building Society Accounts Act 2008 [^c20698611]
+- Corporation Tax Act 2009 [^c20698621]
+- Corporation Tax Act 2010 [^c20698631]
+- Taxation (International and other Provisions) Act 2010 [^c20698641]
+
+#### Secondary Legislation
+
+- Statutory Maternity Pay (General) Regulations 1986 [^c20698651]
+- Statutory Maternity Pay (General) (Northern Ireland) Regulations 1987 [^c20698661]
+- Insolvent Companies (Disqualification of Unfit Directors) Proceedings Rules 1987 [^c20698671]
+- Financial Markets and Insolvency Regulations 1991 [^c20698681]
+- Financial Markets and Insolvency Regulations (Northern Ireland) 1991 [^c20698691]
+- Insolvency Regulations 1994 [^c20698701]
+- Non-Domestic Rating (Unoccupied Property) (Scotland) Regulations 1994 [^c20698711]
+- Insolvent Companies (Reports on Conduct of Directors) Rules 1996 [^c20698721]
+- Financial Markets and Insolvency Regulations 1996 [^c20698731]
+- Financial Markets and Insolvency Regulations (Northern Ireland) 1996 [^c20698741]
+- Individual Savings Account Regulations 1998 [^c20698751]
+- Corporation Tax (Simplified Arrangements for Group Relief) Regulations 1999 [^c20698761]
+- Financial Markets and Insolvency (Settlement Finality) Regulations 1999
+- Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations 2002 [^c20698771]
+- Statutory Paternity Pay and Statutory Adoption Pay (General) (Northern Ireland) Regulations 2002 [^c20698781]
+- Financial Collateral Arrangements (No. 2) Regulations 2003
+- Insolvent Companies (Reports on Conduct of Directors) Rules (Northern Ireland) 2003 [^c20698791]
+- Insolvent Companies (Disqualification of Unfit Directors) Proceedings Rules (Northern Ireland) 2003 [^c20698801]
+- Credit Institutions (Reorganisation and Winding Up) Regulations 2004 [^c20698811]
+- Insolvency Practitioners Regulations 2005 [^c20698821]
+- Pension Protection Fund (Entry Rules) Regulations 2005 [^c20698831]
+- Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005 [^c20698841]
+- Gender Recognition (Disclosure of Information) (England, Wales and Northern Ireland) (No. 2) Order 2005 [^c20698851]
+- Gender Recognition (Disclosure of Information) (Scotland) Order 2005 [^c20698861]
+- Financial Assistance Scheme Regulations 2005 [^c20698871]
+- Insolvency Practitioners Regulations (Northern Ireland) 2006 [^c20698881]
+- Land Registration (Scotland) Rules 2006 [^c20698891]
+- [^key-9a94680c8fff4adfa57b765b6bd5172e]...
+- Regulated Covered Bonds Regulations 2008 [^c20698911]
+- Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015[^M_F_7988e159-c175-41bc-be24-2d5bfa7a8ee9]
+- Land Registration (Network Access) Rules 2008 [^c20698931]
+- Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008 [^c20698941]
+- Registrar of Companies (Fees) (Companies, Overseas Companies and Limited Liability Partnerships) Regulations 2009 [^c20698951]
+- Payment Services Regulations 2017[^key-f73724e3fe123e801370363c673d4e46]
+- Companies (Disclosure of Address) Regulations 2009 [^c20698971]
+- Additional Statutory Paternity Pay (General) Regulations 2010 [^c20698981]
+- Statutory Parental Bereavement Pay (General) Regulations 2020 *(Extent: E+W+S)*[^key-cb8f771cc6b750e4737aafcf14165843]
+- Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023[^key-e0bf53e251f4470186ad6be32291e85c]
+- Statutory Neonatal Care Pay (General) Regulations 2025[^key-75df6c99e2d1f834d40e8c9213c86fcd]
+
+### PART 2 — Specific modifications
+
+**2.** Where this Part of this Schedule applies, the enactments set out below apply with the modifications indicated.
+
+#### 3. Financial Services and Markets Act 2000
+
+(1) The following provisions of the Financial Services and Markets Act 2000 apply with the modifications set out in this paragraph.
+
+(2) In section 215[^c20698991] (rights of the scheme in insolvency)—
+
+- (a) in subsection (3), the reference to making an administration application is to be read as including making an application for a special administration order; and
+- (b) subsection (4) is to be read as if it provided the following—
+
+  > (4) In the case of a special administration (bank insolvency), if the scheme manager decides, pursuant to section 101 of the Banking Act 2009, as applied by paragraph 6(2) of Schedule 1 to the Investment Bank Special Administration Regulations 2011, not to be a member of the creditors' committee, the scheme manager has the same rights as are conferred on the regulators[^key-31d866bae8c03522e648c19c74cc6031] by section 371.
+
+  .
+
+(3) In section 220(3)[^c20699001], the reference to an administrator is to be read as including an administrator appointed under a special administration order.
+
+(4) In section 362(6)[^c20699011], the reference to administration is to be read as including special administration.
+
+(5) In section 375 (right of[^key-3558d418b8e3c571894580e31682acf5] FCA and PRA to apply for an order), references to the provisions of the Insolvency Act 1986 and the Insolvency (Northern Ireland) Order 1989 are to be read as including references to those provisions as applied and modified by—
+
+- (a) regulation 15; or
+- (b) section 145 of the Banking Act 2009 (with the modifications set out in paragraph 6(3) of Schedule 2).
+
+#### 4. Pensions Act 2004
+
+In section 121(3)(d) of the Pensions Act 2004 (meaning of insolvency event), the reference to “the company enters administration within the meaning of paragraph 1(2)(b) of Schedule B1 to that Act” is to be read so as to include the investment bank entering special administration.
+
+#### 5. Companies Act 2006
+
+(1) The following provisions of the Companies Act 2006 apply with the modifications set out in this paragraph.
+
+(2) In section 461 (permitted disclosure of information obtained under compulsory powers)—
+
+- (a) subsection (4)(c) is to be read so as to include these Regulations in the list of enactments in that subsection; and
+- (b) subsection (4)(g) is to be read so as to include these Regulations in the list of enactments in that subsection.
+
+(3) Any references in Part 35 (the registrar of companies) to the Insolvency Act 1986 and the Insolvency (Northern Ireland) Order 1989 are to be read as including that legislation as applied and modified by these Regulations.
+
+(4) Where an application is made to the court for—
+
+- (a) a special administration order; or
+- (b) the appointment of a person under section 135 of the Insolvency Act 1986 or article 115 of the Insolvency (Northern Ireland) Order 1989 as applied by these Regulations,
+
+sections 1139 and 1140 (service of documents on company, directors, secretaries and others) have effect subject to the provisions for service set out in rules made under section 411 of the Insolvency Act as applied and modified by regulation 15 of these Regulations.
+
+(5) In Part 2 of Schedule 2 [^c20699021] (Specified descriptions of disclosures for the purposes of section 948), under heading A—
+
+- (a) paragraph 13 is to be read so as to include these Regulations in the list of enactments in that paragraph, and
+- (b) paragraph 37 is to be read so as to include these Regulations in the list of enactments in that paragraph.
+
+(6) In Part 2 of Schedule 11A [^c20699031] (Specified descriptions of disclosures for the purposes of section 1224A)—
+
+- (a) paragraph 30 is to be read so as to include these Regulations in the list of enactments in that paragraph, and
+- (b) paragraph 52 is to be read so as to include these Regulations in the list of enactments in that paragraph.
+
+#### 6. Land Registration Rules 2003
+
+Rule 184(1) of the Land Registration Rules 2003 [^c20699041] is to be read as if the reference to administration included special administration.
+
+#### 7. Credit Institutions (Reorganisation and Winding Up) Regulations 2004
+
+(1) The following provision of the Credit Institutions (Reorganisation and Winding Up) Regulations 2004 [^c20699051] applies with the modification set out in this paragraph.
+
+(2) Regulation 11(2) is to be read as if it provided the following—
+
+> (2) The prescribed circumstances are that, after the appointment of the administrator, the administrator, in drawing up the statement of proposals in accordance with paragraph 49 of Schedule B1 (as applied by regulation 15(6) of the Investment Bank Special Administration Regulations 2011) or paragraph 7 of Schedule 2 to those Regulations has concluded that it is not possible to rescue the investment bank as a going concern.
+
+.
+
+### PART 3 — Consequential amendments
+
+#### 8. Companies Act 1985
+
+After paragraph 9(f) in Schedule 15D [^c20699061] to the Companies Act 1985 (disclosures), insert—
+
+> - (g) the Investment Bank Special Administration Regulations 2011.
+
+.
+
+#### 9. Finance Act 1986
+
+(1) The following provisions of the Finance Act 1986 are amended as follows.
+
+(2) In section 80D(9)(h) [^c20699071] (stamp duty on repurchases and stock lending: replacement on insolvency) omit “or” and after that paragraph insert—
+
+> - (ha) if a special administration order takes effect under the Investment Bank Special Administration Regulations 2011, or
+
+.
+
+(3) In section 89AB(9)(h) [^c20699081] (stamp duty reserve tax: exception for repurchases and stock lending in case of insolvency) omit “or” and after that paragraph insert—
+
+> - (ha) if a special administration order takes effect under the Investment Bank Special Administration Regulations 2011.
+
+.
+
+*(This note is not part of the Regulations)*
+
+These Regulations provide for a new special administration regime for investment banks (as defined in section 232 of the Banking Act 2009 (c. 1)).
+
+Regulation 3 gives an overview of the new regime.
+
+Regulation 4 provides for the appointment of an administrator by special administration order.
+
+Regulation 5 prescribes those who may apply to the court for a special administration order.
+
+Regulation 6 sets out the grounds under which an application for a special administration order may be made.
+
+Regulation 7 sets out the powers of the court when faced with an application for a special administration order.
+
+Regulation 8 sets out 4 conditions that must be fulfilled before an investment bank can be put into other insolvency proceedings.
+
+Regulation 9 provides that Schedules 1 and 2 apply where the investment bank is a deposit-taker.
+
+Regulation 10 sets out the 3 special administration objectives and the duty on the administrator to achieve the objectives.
+
+Regulation 11 (in respect of the first special administration objective) gives the administrator a power to set a bar date for the submission of claims over the client assets held by the investment bank, and provides for the treatment of claims received after the bar date and after a distribution of assets has taken place.
+
+Regulation 12 (also in respect of the first special administration objective) prescribes how the administrator is to deal with a shortfall in the amount of client assets held by the investment bank in a client omnibus account.
+
+Regulation 13 sets out details of the second special administration objective: that the administrator is to work with market infrastructure bodies to facilitate the operation of default rules and arrangements and the settlement of trades, and with the Authorities (the Bank of England, Financial Services Authority and the Treasury) to facilitate any actions the Authorities might take as a result of the special administration.
+
+Regulation 14 provides for the continuation of certain supply contracts on the commencement of special administration.
+
+Regulation 15 applies relevant provisions of the Insolvency Act 1986 (c. 45) with modification where necessary.
+
+Regulation 16 provides a power for the Financial Services Authority (FSA) to direct the administrator to prioritise one or more of the special administration objectives where the FSA think it necessary to protect the stability of the financial systems of the United Kingdom or public confidence in the financial markets.
+
+Regulation 17 provides for the drawing up of the statement of proposals in the event of the FSA having given a direction.
+
+Regulation 18 provides for the revision of the statement of proposals in the event of the FSA having given a direction.
+
+Regulation 19 provides for the revision of the statement of proposals in the event of the FSA having withdrawn its direction.
+
+Regulations 20 and 21 provide for the ending of special administration.
+
+Regulation 22 provides for a special administration order to be made as an alternative order to a winding up petition or an administration order under Schedule B1 to the Insolvency Act 1986.
+
+Regulation 23 modifies the Company Directors Disqualification Act 1986 (c. 46) to apply in respect of special administration.
+
+Regulations 24 to 27 provide that Schedules 3 to 6 have effect.
+
+Schedule 1 modifies the new regime for use as an alternative to bank insolvency as set out in Part 2 of the Banking Act 2009.
+
+Schedule 2 modifies the new regime for use as an alternative to bank administration as set out in Part 3 of the Banking Act 2009.
+
+Schedule 3 modifies the new regime for limited liability partnerships.
+
+Schedule 4 modifies the new regime for partnerships.
+
+Schedule 5 lists the enactments referred to in the Regulations with their Northern Irish equivalents and any necessary modifications.
+
+Schedule 6 sets out modifications and consequential amendments to legislation.
+
+An Impact Assessment on the effect of the introduction of the new special administration regime has been prepared and may be obtained from the Financial Regulatory Strategy team, HM Treasury, 1 Horse Guards Road, London, SW1A 2HQ. It is also available on HM Treasury's website (www.hm-treasury.gov.uk).
+
+## Annotations
+
+[^c20697751]: Marginal citation: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1).
+
+[^key-0df1d44834f2c6f73e06d72d5dc94147]: Modification: Regulations modified (31.12.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/33); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+
+[^key-034b303c2c8e8357ca124320484ba6b3]: Modification: Regulations modified (temp.) (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/4), [39](https://www.legislation.gov.uk/uksi/2019/710/regulation/39) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(l)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6aabc6b24d764aa7cd7732dc703f1f10]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/2/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/a/i) (with [Sch. 2 para. 199](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/199))
+
+[^key-fbaf2d916dd979952de9cac6d4dd0acc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/2/1) inserted (6.4.2017) by [The Investment Bank (Amendment of Definition) and Special Administration (Amendment) Regulations 2017 (S.I. 2017/443)](https://www.legislation.gov.uk/uksi/2017/443), [regs. 1](https://www.legislation.gov.uk/uksi/2017/443/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2017/443/regulation/5/a/i) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/443/regulation/17))
+
+[^c20697761]: Marginal citation: [Section 79](https://www.legislation.gov.uk/uksi/2011/245/section/79) was amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
+
+[^c20697771]: Marginal citation: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46).
+
+[^key-712714af156bf7446893385c2563f13d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/2/1) omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [24(a)](https://www.legislation.gov.uk/uksi/2019/662/regulation/24) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20697781]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); [Schedule 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/1) was amended by the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), [section 3(3)](https://www.legislation.gov.uk/ukpga/2008/7/section/3/3), [Sch](https://www.legislation.gov.uk/ukpga/2008/7/schedule)edule, Part 1.
+
+[^key-d2088f93751bc91b158206f4222e90b1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/2/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/a/ii) (with [Sch. 2 para. 200](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/200))
+
+[^key-8d64b24a7f0a95b40e8d42be6dbe63a0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/2/1) inserted (6.4.2017) by [The Investment Bank (Amendment of Definition) and Special Administration (Amendment) Regulations 2017 (S.I. 2017/443)](https://www.legislation.gov.uk/uksi/2017/443), [regs. 1](https://www.legislation.gov.uk/uksi/2017/443/regulation/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2017/443/regulation/5/a/ii) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/443/regulation/17))
+
+[^c20697791]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^c20697801]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^c20697811]: Marginal citation: [1989 c. 40](https://www.legislation.gov.uk/ukpga/1989/40).
+
+[^c20697821]: Marginal citation: [Section 173](https://www.legislation.gov.uk/uksi/2011/245/section/173) was amended by [S.I. 1991/880](https://www.legislation.gov.uk/uksi/1991/880) and by [S.I. 1992/1315](https://www.legislation.gov.uk/uksi/1992/1315).
+
+[^c20697831]: Marginal citation: [Section 155](https://www.legislation.gov.uk/uksi/2011/245/section/155) was amended by [S.I. 1991/880](https://www.legislation.gov.uk/uksi/1991/880), [S.I](https://www.legislation.gov.uk/uksi/1991/880/section/I). 1998/1748 and by [S.I. 2009/853](https://www.legislation.gov.uk/uksi/2009/853).
+
+[^key-d5fb904e17f93244ad4a6392ef066404]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/2/1) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 36(2)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/36/2/a/i) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-8efd3e17041673a3876990ce6913be20]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/2/1) inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [41(2)(a)](https://www.legislation.gov.uk/uksi/2013/504/regulation/41/2/a) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+
+[^key-e3e428e3a77cc909b2d7ed81a4108087]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/2/1) omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1), [24(b)](https://www.legislation.gov.uk/uksi/2019/662/regulation/24) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-99dbfa36154be6891a54becc2326665d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/2/1) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 36(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/36/2/a/ii) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-e313c2f64fdd95aced9bd3ff78f26c58]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/2/1) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(a)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/a/iii) (with [Sch. 2 para. 201](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/201))
+
+[^key-4a1107f0d9f1fda3f9f441436c16d7b6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/2/1) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 36(2)(b)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/36/2/b) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-116fa9b6dea3b02b6170bf474776ba05]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/2/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(a)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/a/iv) (with [Sch. 2 para. 202](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/202))
+
+[^c20697841]: Marginal citation: [Section 292](https://www.legislation.gov.uk/uksi/2011/245/section/292) was amended by [S.I. 2006/2975](https://www.legislation.gov.uk/uksi/2006/2975).
+
+[^key-d29dce3a7c363ef099db2cf6a864ba51]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/2/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(a)(v)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/a/v) (with [Sch. 2 para. 203](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/203))
+
+[^key-7a6712df65bd41834e63408e18621723]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/2/1) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(a)(vi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/a/vi) (with [Sch. 2 para. 204](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/204))
+
+[^c20697851]: Marginal citation: Relevant amendments to Schedule B1 were made by [S.I. 2003/2096](https://www.legislation.gov.uk/uksi/2003/2096), [S.I](https://www.legislation.gov.uk/uksi/2003/2096/section/I). 2005/879, [S.I. 2007/2974](https://www.legislation.gov.uk/uksi/2007/2974), [S.I](https://www.legislation.gov.uk/uksi/2007/2974/section/I). 2008/948, [S.I. 2008/1897](https://www.legislation.gov.uk/uksi/2008/1897), [S.I](https://www.legislation.gov.uk/uksi/2008/1897/section/I). 2009/1941 and [S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18).
+
+[^c20697861]: Marginal citation: [S.I. 2003/3226](https://www.legislation.gov.uk/uksi/2003/3226).
+
+[^key-77ce3c6d0434613715f33a56931ebaad]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/2/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(a)(vii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/a/vii) (with [Sch. 2 para. 205](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/205))
+
+[^key-d9ff1f1c75f910cd8db7ad48b08f2428]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/2/1) inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [41(2)(b)](https://www.legislation.gov.uk/uksi/2013/504/regulation/41/2/b) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+
+[^c20697871]: Marginal citation: [2007 asp 3](https://www.legislation.gov.uk/asp/2007/3).
+
+[^key-233ae3ffde01f32fd499774787e41084]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/uksi/2011/245/regulation/2/2A) inserted (6.4.2017) by [The Investment Bank (Amendment of Definition) and Special Administration (Amendment) Regulations 2017 (S.I. 2017/443)](https://www.legislation.gov.uk/uksi/2017/443), [regs. 1](https://www.legislation.gov.uk/uksi/2017/443/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2017/443/regulation/5/b) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/443/regulation/17))
+
+[^c20697881]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-04ce82b1aaf2106ade6e63ad82407a71]: Textual amendment: Words in [reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/245/regulation/3/2/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/b/i) (with [Sch. 2 para. 206](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/206))
+
+[^key-5572b32b1b7e7186723d83ff98e10317]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2011/245/regulation/3/3/b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/b/ii) (with [Sch. 2 para. 207](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/207))
+
+[^key-8da3a657e3878868382db5344480a0df]: Textual amendment: Reg. 3(3)(c)(d) renumbered as reg. 3(3)(b)(i)(ii) (6.4.2017) by [The Investment Bank (Amendment of Definition) and Special Administration (Amendment) Regulations 2017 (S.I. 2017/443)](https://www.legislation.gov.uk/uksi/2017/443), [regs. 1](https://www.legislation.gov.uk/uksi/2017/443/regulation/1), [6](https://www.legislation.gov.uk/uksi/2017/443/regulation/6) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/443/regulation/17))
+
+[^key-9505343ccd0e9c1328c392a3578cf5e0]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2011/245/regulation/4/2) inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/10/2)
+
+[^c20697891]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); [section 87A](https://www.legislation.gov.uk/uksi/2011/245/section/87A) was inserted by the [Criminal Justice Act 1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), [section 62(1)](https://www.legislation.gov.uk/ukpga/1988/33/section/62/1) and amended by the [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [section 248(3)](https://www.legislation.gov.uk/ukpga/2002/40/section/248/3), [Schedule 17](https://www.legislation.gov.uk/ukpga/2002/40/schedule/17), [paragraph 2](https://www.legislation.gov.uk/ukpga/2002/40/paragraph/2), the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [section 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [Schedule 8](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8), [paragraph 224(1)](https://www.legislation.gov.uk/ukpga/2003/39/paragraph/224/1), (2), (3), Schedule 10, and the [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [section 62(3)](https://www.legislation.gov.uk/ukpga/2007/15/section/62/3), [Schedule 13](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13), [paragraphs 45](https://www.legislation.gov.uk/ukpga/2007/15/paragraph/45), [53(1)](https://www.legislation.gov.uk/ukpga/2007/15/paragraph/53/1), (2), (3), (4).
+
+[^key-eb47f7f5b0a96935d09c51d508bcfdaa]: Textual amendment: Word in [reg. 5(1)(g)](https://www.legislation.gov.uk/uksi/2011/245/regulation/5/1/g) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/c/i/aa) (with [Sch. 2 para. 208](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/208))
+
+[^key-5ba0709b6f389e9fda37ae94fea63e4f]: Textual amendment: [Reg. 5(1)(h)(i)](https://www.legislation.gov.uk/uksi/2011/245/regulation/5/1/h/i) substituted for reg. 5(1)(h) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/c/i) (with [Sch. 2 para. 209](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/209))
+
+[^key-2f66b0e3dc98eb52d1cda5959b176b38]: Textual amendment: Word in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2011/245/regulation/5/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(c)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/c/ii) (with [Sch. 2 para. 210](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210))
+
+[^key-33c99e3b49f27ea062facba79c9110cd]: Textual amendment: [Reg. 5(2A)](https://www.legislation.gov.uk/uksi/2011/245/regulation/5/2A) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(c)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/c/iii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+
+[^key-f54f4c5459410a2dd83220859bb3efda]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2011/245/regulation/5/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(c)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/c/iv) (with [Sch. 2 para. 212](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/212))
+
+[^key-4d9c5c75b8b559fc8e2c88fa2f53a2ff]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2011/245/regulation/6/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(d)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/d) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^c20697901]: Marginal citation: [Section 124A](https://www.legislation.gov.uk/uksi/2011/245/section/124A) was inserted by the [Companies Act 1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), [section 60(3)](https://www.legislation.gov.uk/ukpga/1989/40/section/60/3) and amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and by the [Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27), [section 25(1)](https://www.legislation.gov.uk/ukpga/2004/27/section/25/1), [Schedule 2](https://www.legislation.gov.uk/ukpga/2004/27/schedule/2), [Part 3 paragraph 27](https://www.legislation.gov.uk/ukpga/2004/27/part/3/paragraph/27).
+
+[^key-5e6c3ab4a22dd8723b0fa11f26673d52]: Textual amendment: Word in [reg. 7(1)(e)](https://www.legislation.gov.uk/uksi/2011/245/regulation/7/1/e) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(e)(i)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/e/i) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^c20697911]: Marginal citation: [Section 359](https://www.legislation.gov.uk/uksi/2011/245/section/359) was substituted by the [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [section 248(3)](https://www.legislation.gov.uk/ukpga/2002/40/section/248/3), [Schedule 17](https://www.legislation.gov.uk/ukpga/2002/40/schedule/17), [paragraphs 53](https://www.legislation.gov.uk/ukpga/2002/40/paragraph/53), [55](https://www.legislation.gov.uk/ukpga/2002/40/paragraph/55), and by the [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455)](https://www.legislation.gov.uk/uksi/2005/1455), [article 3(3)](https://www.legislation.gov.uk/uksi/2005/1455/article/3/3), [Schedule 2](https://www.legislation.gov.uk/uksi/2005/1455/schedule/2), [paragraphs 56](https://www.legislation.gov.uk/uksi/2005/1455/paragraph/56), [58(1)](https://www.legislation.gov.uk/uksi/2005/1455/paragraph/58/1), (2), (3), (4). There are other amendments to this section that are not relevant here.
+
+[^key-efe07c39f75ef572822f18e049c8565e]: Textual amendment: [Reg. 7(1)(ea)](https://www.legislation.gov.uk/uksi/2011/245/regulation/7/1/ea) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(e)(i)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/e/i) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-5bc22fa671aeed014717a66cf2e4dfa4]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/7/2/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(e)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/e/ii) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-c472ae88c533c873f98168504d058dbd]: Textual amendment: Word in [reg. 8](https://www.legislation.gov.uk/uksi/2011/245/regulation/8) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(f)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/f/i) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-2c805deee2dbce9e5052e56f1a3145dd]: Textual amendment: Reg. 8(1A) inserted (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 4 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2021/716/schedule/4/paragraph/5/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+
+[^key-0c8b72bc27a3e76d4415a8857f64ed34]: Textual amendment: Words in [reg. 8(8)](https://www.legislation.gov.uk/uksi/2011/245/regulation/8/8) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(f)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/f/ii) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-911614a1e0cb5c6265fa9b69b6c9ae05]: Textual amendment: Words in [reg. 8(8)](https://www.legislation.gov.uk/uksi/2011/245/regulation/8/8) inserted (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 4 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2021/716/schedule/4/paragraph/5/2/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+
+[^key-cada244e2ac87f5533c5d6b55dbb327b]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2011/245/regulation/10A) inserted (6.4.2017) by [The Investment Bank (Amendment of Definition) and Special Administration (Amendment) Regulations 2017 (S.I. 2017/443)](https://www.legislation.gov.uk/uksi/2017/443), [regs. 1](https://www.legislation.gov.uk/uksi/2017/443/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/443/regulation/7) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/443/regulation/17))
+
+[^key-745f682b9f3494bedb8ab675e5f10598]: Textual amendment: [Regs. 10B-10G](https://www.legislation.gov.uk/uksi/2011/245/regulation/10B) inserted (6.4.2017) by [The Investment Bank (Amendment of Definition) and Special Administration (Amendment) Regulations 2017 (S.I. 2017/443)](https://www.legislation.gov.uk/uksi/2017/443), [regs. 1](https://www.legislation.gov.uk/uksi/2017/443/regulation/1), [8](https://www.legislation.gov.uk/uksi/2017/443/regulation/8) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/443/regulation/17))
+
+[^key-f3f8db030ed2b5d95e9ba0ea7d1e853b]: Textual amendment: Words in [reg. 10G(1)(b)](https://www.legislation.gov.uk/uksi/2011/245/regulation/10G/1/b)[(c)](https://www.legislation.gov.uk/uksi/2011/245/regulation/10G/1/c) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 36(3)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/36/3) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-7078f039bf2a9bdc31644fb0959290d8]: Textual amendment: [Regs. 10H](https://www.legislation.gov.uk/uksi/2011/245/regulation/10H), [10I](https://www.legislation.gov.uk/uksi/2011/245/regulation/10I) inserted (6.4.2017) by [The Investment Bank (Amendment of Definition) and Special Administration (Amendment) Regulations 2017 (S.I. 2017/443)](https://www.legislation.gov.uk/uksi/2017/443), [regs. 1](https://www.legislation.gov.uk/uksi/2017/443/regulation/1), [9](https://www.legislation.gov.uk/uksi/2017/443/regulation/9) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/443/regulation/17))
+
+[^key-b860c0cf9968ad812102b85c571d5347]: Textual amendment: [Reg. 11(4)](https://www.legislation.gov.uk/uksi/2011/245/regulation/11/4)[(4A)](https://www.legislation.gov.uk/uksi/2011/245/regulation/11/4A) substituted for [reg. 11(4)](https://www.legislation.gov.uk/uksi/2011/245/regulation/11/4) (6.4.2017) by [The Investment Bank (Amendment of Definition) and Special Administration (Amendment) Regulations 2017 (S.I. 2017/443)](https://www.legislation.gov.uk/uksi/2017/443), [regs. 1](https://www.legislation.gov.uk/uksi/2017/443/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2017/443/regulation/10/a) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/443/regulation/17))
+
+[^key-c64ba39764c57cfc6e3a9f31a63a0b4c]: Textual amendment: Words in [reg. 11(5)](https://www.legislation.gov.uk/uksi/2011/245/regulation/11/5) inserted (6.4.2017) by [The Investment Bank (Amendment of Definition) and Special Administration (Amendment) Regulations 2017 (S.I. 2017/443)](https://www.legislation.gov.uk/uksi/2017/443), [regs. 1](https://www.legislation.gov.uk/uksi/2017/443/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2017/443/regulation/10/b) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/443/regulation/17))
+
+[^key-2a87b2636a8599df6e8cc7bc66aadd79]: Textual amendment: Words in [reg. 11(8)](https://www.legislation.gov.uk/uksi/2011/245/regulation/11/8) substituted (6.4.2017) by [The Investment Bank (Amendment of Definition) and Special Administration (Amendment) Regulations 2017 (S.I. 2017/443)](https://www.legislation.gov.uk/uksi/2017/443), [regs. 1](https://www.legislation.gov.uk/uksi/2017/443/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2017/443/regulation/10/c) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/443/regulation/17))
+
+[^key-ee83fd19dc0eab983b4d893bfdebb70f]: Textual amendment: Words in [reg. 12(1)(c)](https://www.legislation.gov.uk/uksi/2011/245/regulation/12/1/c) substituted (6.4.2017) by [The Investment Bank (Amendment of Definition) and Special Administration (Amendment) Regulations 2017 (S.I. 2017/443)](https://www.legislation.gov.uk/uksi/2017/443), [regs. 1](https://www.legislation.gov.uk/uksi/2017/443/regulation/1), [11](https://www.legislation.gov.uk/uksi/2017/443/regulation/11) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/443/regulation/17))
+
+[^key-f14adb00d54ac30da8445d550cdd004e]: Textual amendment: [Regs. 12A-12F](https://www.legislation.gov.uk/uksi/2011/245/regulation/12A) inserted (6.4.2017) by [The Investment Bank (Amendment of Definition) and Special Administration (Amendment) Regulations 2017 (S.I. 2017/443)](https://www.legislation.gov.uk/uksi/2017/443), [regs. 1](https://www.legislation.gov.uk/uksi/2017/443/regulation/1), [12](https://www.legislation.gov.uk/uksi/2017/443/regulation/12) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/443/regulation/17))
+
+[^key-c36941542d03ef3cd0bce1d0e61e973c]: Textual amendment: Word in [reg. 13(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2011/245/regulation/13/1/a/iii) inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [41(3)](https://www.legislation.gov.uk/uksi/2013/504/regulation/41/3) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+
+[^c20697921]: Marginal citation: [S.I. 1999/2979](https://www.legislation.gov.uk/uksi/1999/2979) (applied in Northern Ireland by [S.I. 2006/50](https://www.legislation.gov.uk/uksi/2006/50) and [S.I. 2007/832](https://www.legislation.gov.uk/uksi/2007/832)); this instrument was amended by [S.I. 2006/50](https://www.legislation.gov.uk/uksi/2006/50).
+
+[^c20697931]: Marginal citation: [Section 188](https://www.legislation.gov.uk/uksi/2011/245/section/188) was amended by [S.I. 2009/853](https://www.legislation.gov.uk/uksi/2009/853).
+
+[^c20697941]: Marginal citation: [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755).
+
+[^key-37079955060d9546552fbef8a56ea3da]: Textual amendment: Words in [reg. 14(6)](https://www.legislation.gov.uk/uksi/2011/245/regulation/14/6) inserted (6.4.2017) by [The Investment Bank (Amendment of Definition) and Special Administration (Amendment) Regulations 2017 (S.I. 2017/443)](https://www.legislation.gov.uk/uksi/2017/443), [regs. 1](https://www.legislation.gov.uk/uksi/2017/443/regulation/1), [13](https://www.legislation.gov.uk/uksi/2017/443/regulation/13) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/443/regulation/17))
+
+[^key-ed4b265daf1f7f61fe1d7d4390495add]: Textual amendment: Words in reg. 15(6)(i) inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2017/400/regulation/10/3)
+
+[^key-d6c583f0d2f8a606d370cb9007d6cc69]: Textual amendment: Reg. 15(7) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(2)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/2)
+
+[^key-5788b9beac460b35c5c0921a703ab7ba]: Textual amendment: Word in reg. 15 Table 1 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(i)(i)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/i) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-2a0c75e1fbf3b7f1e9d4f59cf9ff065f]: Textual amendment: Words in reg. 15 Table 1 inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(i)(i)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/i) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-eed74ee824befc9d854cec1fb44c17e1]: Textual amendment: Words in reg. 15 Table 1 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(i)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/i) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-104f797edd290e42af2364a0227ad759]: Textual amendment: Words in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(a)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/a)
+
+[^key-c2735809ddedbd0bf42be2136ff4518e]: Textual amendment: Words in reg. 15 Table 1 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(i)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/i) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-44a3fd473501897a293953cc02986a15]: Textual amendment: Words in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(b)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/b)
+
+[^key-afbf894f51f903128d40f2d917db14a3]: Textual amendment: Words in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(c)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/c)
+
+[^key-2191790fccce3fd63252603865db1a96]: Textual amendment: Words in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(d)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/d)
+
+[^key-0a33b362ddc6e45f2b27990e49004587]: Textual amendment: Word in reg. 15 Table 1 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(i)(iv)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/i) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-66efc31bc8a2ce6d7dae254b7f0d7456]: Textual amendment: Words in reg. 15 Table 1 inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(i)(iv)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/i) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-9db1753f11faddd91a935f3d03b2a6eb]: Textual amendment: Words in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(e)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/e)
+
+[^key-a6f2535b814b570db6f07574c70ccd42]: Textual amendment: Words in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(f)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/f)
+
+[^key-94363840bd97169dc61998ecc28a405a]: Textual amendment: Words in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(g)(i)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/g/i)
+
+[^key-45b87a2f89f4a5bd7bc58af7b24688fb]: Textual amendment: Word in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(g)(ii)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/g/ii)
+
+[^key-db00f12d05c35a25434ec6eef412fae6]: Textual amendment: Words in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(h)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/h)
+
+[^key-d913e017cdc10103541fe90057e43aea]: Textual amendment: Words in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(i)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/i)
+
+[^key-c3eed5bdf5410076f568a68f192e4325]: Textual amendment: Words in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(j)(i)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/j/i)
+
+[^key-fcd16fa378a0d4f33def40d6a1dd8464]: Textual amendment: Word in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(j)(ii)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/j/ii)
+
+[^key-b2f92d423dc0e1f78971479e4894d7f6]: Textual amendment: Words in reg. 15 Table 1 inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [10(4)(a)](https://www.legislation.gov.uk/uksi/2017/400/regulation/10/4/a)
+
+[^key-e67956b70d5005ca47a9e0452ddbd1dc]: Textual amendment: Words in reg. 15 Table 1 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(i)(v)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/i) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-130c6e07cc2337650df40bc82f4e0db7]: Textual amendment: Words in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(k)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/k)
+
+[^key-466dcaa0c6187af028bd133a92809a74]: Textual amendment: Word in reg. 15 Table 1 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(i)(vi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/i) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-36b1775dde2562f0b186ac0d6eceb834]: Textual amendment: Words in reg. 15 Table 1 inserted (6.4.2017) by [The Investment Bank (Amendment of Definition) and Special Administration (Amendment) Regulations 2017 (S.I. 2017/443)](https://www.legislation.gov.uk/uksi/2017/443), [regs. 1](https://www.legislation.gov.uk/uksi/2017/443/regulation/1), [14](https://www.legislation.gov.uk/uksi/2017/443/regulation/14) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/443/regulation/17))
+
+[^key-82de21d47a9996581ebb7b5b07e862e5]: Textual amendment: Words in reg. 15 Table 1 inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 36(4)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/36/4) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-918f9f82eae9788b33e475d04a322f96]: Textual amendment: Words in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(l)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/l)
+
+[^key-49008d3b61b9384dca798ee4106f9d25]: Textual amendment: Words in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(m)(i)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/m/i)
+
+[^key-0fd7b7316dff24e65fa6dec032ba7505]: Textual amendment: Word in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(m)(ii)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/m/ii)
+
+[^key-40c80ad580c0570faa0d96f9c6168281]: Textual amendment: Words in reg. 15 Table 1 inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/uksi/2017/400/regulation/10/4/b)
+
+[^key-fe88fe3f3f884704ae33573549ec4ddb]: Textual amendment: Words in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(n)(i)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/n/i)
+
+[^key-a920fa52aab8a4e453bffa85975f04db]: Textual amendment: Word in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(n)(ii)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/n/ii)
+
+[^key-9a0688cccedd8884969f0c19160a8594]: Textual amendment: Words in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(o)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/o)
+
+[^key-95bad9f724116769978c92acb1ff6c71]: Textual amendment: Words in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(p)(i)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/p/i)
+
+[^key-efc3b20d0d5f355f1a2a49cece4eb4cd]: Textual amendment: Word in reg. 15 Table 1 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(3)(p)(ii)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/3/p/ii)
+
+[^c20697951]: Marginal citation: Relevant amendments to the provisions of the Insolvency Act included in Table 2 are as follows: sections 74, 76 to 78, 80 and 83 were amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941); [section 176A](https://www.legislation.gov.uk/uksi/2011/245/section/176A) was inserted by the Enterprise Act 2002, section 252 and amended by [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948); [sections 183](https://www.legislation.gov.uk/uksi/2011/245/section/183) and 184 were amended by the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [section 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [Schedule 8](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8), [paragraphs 295](https://www.legislation.gov.uk/ukpga/2003/39/paragraph/295) and 296 and section 184 was amended by [S.I. 1986/1996](https://www.legislation.gov.uk/uksi/1986/1996); [section 185](https://www.legislation.gov.uk/uksi/2011/245/section/185) was amended by the [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [section 226](https://www.legislation.gov.uk/asp/2007/3/section/226), [Schedule 5](https://www.legislation.gov.uk/asp/2007/3/schedule/5), [paragraph 14](https://www.legislation.gov.uk/asp/2007/3/paragraph/14); [section 187](https://www.legislation.gov.uk/uksi/2011/245/section/187) was amended by [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194) and by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941); [section 193](https://www.legislation.gov.uk/uksi/2011/245/section/193) was amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941); [section 196](https://www.legislation.gov.uk/uksi/2011/245/section/196) was amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941); [section 206](https://www.legislation.gov.uk/uksi/2011/245/section/206) was amended by [S.I. 1986/1996](https://www.legislation.gov.uk/uksi/1986/1996); [section 212](https://www.legislation.gov.uk/uksi/2011/245/section/212) was amended by the Enterprise Act 2002, sections 248(3), 278(2), Schedule 17, paragraphs 9 and 18; [section 215](https://www.legislation.gov.uk/uksi/2011/245/section/215) was amended by the [Civil Partnerships Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [section 261(1)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/1), [Schedule 27](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27), [paragraph 112](https://www.legislation.gov.uk/ukpga/2004/33/paragraph/112); [sections 218(1)(a)](https://www.legislation.gov.uk/uksi/2011/245/section/218/1/a) and (b) were inserted by the [Insolvency Act 2000 (c. 39)](https://www.legislation.gov.uk/ukpga/2000/39), [sections 10(1)](https://www.legislation.gov.uk/ukpga/2000/39/section/10/1), (2), (5) and section 218(5) was substituted by section 10(1) and (5), and amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941); [section 218(2)](https://www.legislation.gov.uk/uksi/2011/245/section/218/2) was repealed by sections 10(1) and (3), 15(1) and Schedule 5; [section 219(2A)](https://www.legislation.gov.uk/uksi/2011/245/section/219/2A) and (2B) were inserted by the Insolvency Act 2000, section 11, while section 219(1), (3) and (4) were amended by sections 10(1) and (7) of the Insolvency Act 2000 and by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941); [section 233](https://www.legislation.gov.uk/uksi/2011/245/section/233) was amended by the [Water Act 1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15), [section 190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [Schedule 25](https://www.legislation.gov.uk/ukpga/1989/15/schedule/25), [paragraph 78](https://www.legislation.gov.uk/ukpga/1989/15/paragraph/78), the [Gas Act 1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45), [section 16(1)](https://www.legislation.gov.uk/ukpga/1995/45/section/16/1), [Schedule 4](https://www.legislation.gov.uk/ukpga/1995/45/schedule/4), [paragraph 14](https://www.legislation.gov.uk/ukpga/1995/45/paragraph/14), the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), [section 108](https://www.legislation.gov.uk/ukpga/2000/27/section/108), [Schedule 6](https://www.legislation.gov.uk/ukpga/2000/27/schedule/6), [paragraph 47](https://www.legislation.gov.uk/ukpga/2000/27/paragraph/47), the Insolvency Act 2000, section 1, Schedule 1, paragraphs 1, 8, the Enterprise Act 2002, section 248(3), Schedule 17, paragraphs 9, 22, the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [section 406(1)](https://www.legislation.gov.uk/ukpga/2003/21/section/406/1), [Schedule 17](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17), [paragraph 82](https://www.legislation.gov.uk/ukpga/2003/21/paragraph/82) and by [S.I. 2004/1822](https://www.legislation.gov.uk/uksi/2004/1822); [sections 234](https://www.legislation.gov.uk/uksi/2011/245/section/234) and 235 were amended by the Enterprise Act 2002, section 248(3), Schedule. 17, paragraphs 9, 23, 24; [section 236](https://www.legislation.gov.uk/uksi/2011/245/section/236) was amended by [S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18); [section 238](https://www.legislation.gov.uk/uksi/2011/245/section/238) was amended by the Enterprise Act 2002, section 248(3), Schedule 17, paragraphs 9, 25; [section 240](https://www.legislation.gov.uk/uksi/2011/245/section/240) was amended by the Enterprise Act 2002, sections 248(3), 278(2), Schedule 17, paragraphs 9, 26 and Schedule 26 and by [S.I. 2002/1240](https://www.legislation.gov.uk/uksi/2002/1240); [section 241](https://www.legislation.gov.uk/uksi/2011/245/section/241) was amended by the [Insolvency (No. 2) Act 1994 (c. 12)](https://www.legislation.gov.uk/ukpga/1994/12), [section 1](https://www.legislation.gov.uk/ukpga/1994/12/section/1) and by the Enterprise Act 2002, section 248(3), Schedule 17, paragraphs 9, 27; [sections 242 to 246](https://www.legislation.gov.uk/uksi/2011/245/section/242) were amended by the Enterprise Act 2002, sections 248(3), 278(2), Schedule 17, paragraphs 9, 28 to 32 and Schedule 26; [sections 246A](https://www.legislation.gov.uk/uksi/2011/245/section/246A) and 246B were inserted by [S.I.2010/18](https://www.legislation.gov.uk/uksi/2010/18); [section 386](https://www.legislation.gov.uk/uksi/2011/245/section/386) was amended by the [Pension Schemes Act 1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48), [section 190](https://www.legislation.gov.uk/ukpga/1993/48/section/190), [Schedule 8](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8), [paragraph 18](https://www.legislation.gov.uk/ukpga/1993/48/paragraph/18) and by the Enterprise Act 2002, section 251(3); [section 387](https://www.legislation.gov.uk/uksi/2011/245/section/387) was amended by the Enterprise Act 2002, section 248(3), Schedule 17, paragraphs 9, 34; [section 389](https://www.legislation.gov.uk/uksi/2011/245/section/389) was amended by the [Bankruptcy (Scotland) Act 1993 (c. 6)](https://www.legislation.gov.uk/ukpga/1993/6), [section 11(2)](https://www.legislation.gov.uk/ukpga/1993/6/section/11/2); [section 390](https://www.legislation.gov.uk/uksi/2011/245/section/390) was amended by the Adults with [Incapacity (Scotland) Act 2000 (asp 4)](https://www.legislation.gov.uk/asp/2000/4), [section 88(2)](https://www.legislation.gov.uk/asp/2000/4/section/88/2), [Schedule 5](https://www.legislation.gov.uk/asp/2000/4/schedule/5), [paragraph 18](https://www.legislation.gov.uk/asp/2000/4/paragraph/18), by the Enterprise Act 2002, section 257, Schedule 21, paragraph 4, by the [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [section 67(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/67/1), (2), Schedule 6, paragraph 31, Schedule 7, by the [Tribunal Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [section 108(3)](https://www.legislation.gov.uk/ukpga/2007/15/section/108/3), [Schedule 20](https://www.legislation.gov.uk/ukpga/2007/15/schedule/20), [paragraphs 1](https://www.legislation.gov.uk/ukpga/2007/15/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2007/15/paragraph/6), by S.I. 2005/ 2078, by [S.S.I. 2005/465](https://www.legislation.gov.uk/ssi/2005/465), by [S.I. 2009/3081](https://www.legislation.gov.uk/uksi/2009/3081) and by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941); [section 411](https://www.legislation.gov.uk/uksi/2011/245/section/411) was amended by the [Constitutional Reform Act 2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4), [section 15(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/1), [Schedule 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4), [paragraphs 185](https://www.legislation.gov.uk/ukpga/2005/4/paragraph/185), [188](https://www.legislation.gov.uk/ukpga/2005/4/paragraph/188), by the Banking Act 2009, sections 125 and 160, by [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194) and by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941); [section 414](https://www.legislation.gov.uk/uksi/2011/245/section/414) was amended by [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194); [section 423](https://www.legislation.gov.uk/uksi/2011/245/section/423) was amended by the Civil Partnerships Act 2004, section 261(1), Schedule 27, paragraph 121; [section 424](https://www.legislation.gov.uk/uksi/2011/245/section/424) was amended by the Enterprise Act 2002, section 248(3), Schedule 17, paragraphs 9, 36; [section 426](https://www.legislation.gov.uk/uksi/2011/245/section/426) was amended by the Insolvency Act 2000, section 8, Schedule. 4, paragraph 16; by [S.I. 1989/2404](https://www.legislation.gov.uk/uksi/1989/2404), [S.I](https://www.legislation.gov.uk/uksi/1989/2404/section/I). 1989/2405 and by [S.I. 2002/3150](https://www.legislation.gov.uk/uksi/2002/3150); [section 431](https://www.legislation.gov.uk/uksi/2011/245/section/431) was amended by the [Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c. 40)](https://www.legislation.gov.uk/ukpga/1995/40), [section 5](https://www.legislation.gov.uk/ukpga/1995/40/section/5), [Schedule 4](https://www.legislation.gov.uk/ukpga/1995/40/schedule/4), [paragraph 61](https://www.legislation.gov.uk/ukpga/1995/40/paragraph/61); [section 433](https://www.legislation.gov.uk/uksi/2011/245/section/433) was amended by the [Youth Justice and Criminal Evidence Act 1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), [section 48](https://www.legislation.gov.uk/ukpga/1999/23/section/48), [59](https://www.legislation.gov.uk/ukpga/1999/23/section/59), [Schedule 3](https://www.legislation.gov.uk/ukpga/1999/23/schedule/3), [paragraph 7](https://www.legislation.gov.uk/ukpga/1999/23/paragraph/7); [sections 434B](https://www.legislation.gov.uk/uksi/2011/245/section/434B) and 434C were inserted by [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948); and section 434D was inserted by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
+
+[^key-77bb86abde44d0bffc9551a343fd969c]: Textual amendment: Words in reg. 15 Table 2 substituted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [10(5)(a)](https://www.legislation.gov.uk/uksi/2017/400/regulation/10/5/a)
+
+[^key-d992d7ab409767400cbaae40e9698b3d]: Textual amendment: Words in reg. 15 Table 2 inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [10(5)(b)](https://www.legislation.gov.uk/uksi/2017/400/regulation/10/5/b)
+
+[^key-81c9430df8855a71000bc9f5c9946ffd]: Textual amendment: Words in reg. 15 Table 2 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(4)(a)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/4/a)
+
+[^key-e3291920365beaf6373b7ef34c1fee23]: Textual amendment: Words in reg. 15 Table 2 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(4)(b)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/4/b)
+
+[^key-04c9c543914d077e0d8f549a1a7ed4d1]: Textual amendment: Words in reg. 15 Table 2 inserted (E.W.S.) (1.10.2015) by [The Insolvency (Protection of Essential Supplies) Order 2015 (S.I. 2015/989)](https://www.legislation.gov.uk/uksi/2015/989), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/989/schedule/paragraph/5)
+
+[^key-18429f5a0aada6ac732dd00f64e900f5]: Textual amendment: Words in reg. 15 Table 2 inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [10(5)(c)](https://www.legislation.gov.uk/uksi/2017/400/regulation/10/5/c)
+
+[^key-c23eb032acdf9ec2c3abd65d35216f73]: Textual amendment: Words in reg. 15 Table 2 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(4)(c)(i)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/4/c/i)
+
+[^key-ecb0e866d3d4dce79912aa95677c3463]: Textual amendment: Word in reg. 15 Table 2 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/4/c/ii)
+
+[^key-b14f46e03528ea76e62c4fb67af202bd]: Textual amendment: Words in reg. 15 Table 2 substituted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [10(5)(d)](https://www.legislation.gov.uk/uksi/2017/400/regulation/10/5/d)
+
+[^key-5f4f9b80afb313f5f01e3701c68b91f9]: Textual amendment: Words in reg. 15 Table 2 substituted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [10(5)(e)](https://www.legislation.gov.uk/uksi/2017/400/regulation/10/5/e) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/400/regulation/17))
+
+[^key-7ca5d21e4087d01802b9171be110986d]: Textual amendment: Words in reg. 15 Table 2 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(4)(d)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/4/d)
+
+[^key-98aa52352ab855fa42e3a252dbaf9036]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2011/245/regulation/16) heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(j)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/j/i) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-f2377656c91d3e6a737b5d7246d00c83]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/16/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(j)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/j/ii) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-5240bf9ae174b61273d9e6ddc2cff2b3]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2011/245/regulation/16/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(j)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/j/iii) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-c4b5eaf1bf829922430012d300097d65]: Textual amendment: Words in [reg. 16(4)-(6)](https://www.legislation.gov.uk/uksi/2011/245/regulation/16/4) substituted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(j)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/j/ii) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-c94945eaf003edad0fcf8cef0516fb78]: Textual amendment: [Reg. 16(4A)](https://www.legislation.gov.uk/uksi/2011/245/regulation/16/4A) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(j)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/j/iv) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-092b5df73db66235a9e5a03c8d6bf62c]: Textual amendment: [Reg. 16(7)](https://www.legislation.gov.uk/uksi/2011/245/regulation/16/7) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(j)(v)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/j/v) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-38013c7e04a3764ffaa89aa9b523f903]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2011/245/regulation/17) heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(k)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/k/i) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-1dce932ecdd9c8ebaf46ec77d627ce72]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/17/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(k)(ii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/k/ii/aa) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-eaa82c222b8ab246b627b11074e79171]: Textual amendment: Word in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/17/1) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(k)(ii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/k/ii/bb) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-f699936e045eb57806b51b8d140b704c]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/uksi/2011/245/regulation/17/3)[(4)](https://www.legislation.gov.uk/uksi/2011/245/regulation/17/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(k)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/k/iii) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-a0b0c4a8dec1444437a1676d32d0f718]: Textual amendment: Word in [reg. 17(6)](https://www.legislation.gov.uk/uksi/2011/245/regulation/17/6) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(k)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/k/iv) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-8b66545a3f61ad6450a5124165e9e71c]: Textual amendment: Words in [reg. 17(8)](https://www.legislation.gov.uk/uksi/2011/245/regulation/17/8) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(k)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/k/iii) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-38e27b508e5f955b846f9ba54df332c1]: Textual amendment: Words in [reg. 17(9)](https://www.legislation.gov.uk/uksi/2011/245/regulation/17/9) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(k)(v)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/k/v) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-3dabe5a3c9e53fbc1d17cebc839b6760]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2011/245/regulation/18) heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(l)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/l/i) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-cb598f162a0719b0ee0991ce49784005]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2011/245/regulation/18) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(l)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/l/ii) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-d34d27531e4e8f06d32377cd83cf04e9]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2011/245/regulation/18) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(l)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/l/iii) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-6494ac19fb79be321ae4ca60c4d7123c]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2011/245/regulation/19) heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(m)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/m/i) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-1cf029230337b8288c6c87fea60ea43e]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/19/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(m)(ii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/m/ii/aa) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-86b86d2f69fbc5698bf26020223c50ca]: Textual amendment: Word in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/19/1) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(m)(ii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/m/ii/bb) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-15033322baa24d6231d9d170028f708c]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2011/245/regulation/19A) inserted (6.4.2017) by [The Investment Bank (Amendment of Definition) and Special Administration (Amendment) Regulations 2017 (S.I. 2017/443)](https://www.legislation.gov.uk/uksi/2017/443), [regs. 1](https://www.legislation.gov.uk/uksi/2017/443/regulation/1), [15](https://www.legislation.gov.uk/uksi/2017/443/regulation/15) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/443/regulation/17))
+
+[^key-6d3bc749e338adec8c11a6f88258ab0a]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2011/245/regulation/20/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(n)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/n) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^c20697961]: Marginal citation: [Section 5(3)](https://www.legislation.gov.uk/uksi/2011/245/section/5/3) was amended by the Enterprise Act 2002, section 248(3), Schedule 17, paragraphs 9, 11(a) and (b) and by the [Insolvency Act 2000 (c.39)](https://www.legislation.gov.uk/ukpga/2000/39), [section 2(a)](https://www.legislation.gov.uk/ukpga/2000/39/section/2/a), [Schedule 2](https://www.legislation.gov.uk/ukpga/2000/39/schedule/2), [Part 1](https://www.legislation.gov.uk/ukpga/2000/39/part/1), [paragraphs 1](https://www.legislation.gov.uk/ukpga/2000/39/paragraph/1), [6(b)](https://www.legislation.gov.uk/ukpga/2000/39/paragraph/6/b), [section 15(1)](https://www.legislation.gov.uk/ukpga/2000/39/section/15/1), [Schedule 5](https://www.legislation.gov.uk/ukpga/2000/39/schedule/5).
+
+[^key-8aade440ce17c1b7440b8db1893f6d49]: Textual amendment: Reg. 21(5A) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(5)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/5)
+
+[^key-db1f0becb04e87047d7b30b1578d8993]: Textual amendment: Words in reg. 21(5A) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 47(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/47/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+
+[^key-6f72d3461de9ecee320d129602a48a50]: Textual amendment: Word in reg. 21(5A) substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 47(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/47/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+
+[^key-876b40ed10decbd0d1e811f502394aed]: Textual amendment: Comma in reg. 22(1) substituted for word (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 4 para. 5(3)(a)](https://www.legislation.gov.uk/uksi/2021/716/schedule/4/paragraph/5/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+
+[^M_F_66bf9fb9-432f-402d-fb33-9539d9dff894]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2011/245/regulation/22/1) inserted (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 4 para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2021/716/schedule/4/paragraph/5/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+
+[^key-ac9a2e6364625e31f8ad7cc8c6e34799]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/uksi/2011/245/regulation/22/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(o)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/o) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-ee6949a11f45cc05d53ac3de58c09e8c]: Textual amendment: [Reg. 23(3)](https://www.legislation.gov.uk/uksi/2011/245/regulation/23/3) substituted (7.4.2017) by The Deregulation Act 2015, the [Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2017/400/regulation/10/6)
+
+[^c20697981]: Marginal citation: [Section 21](https://www.legislation.gov.uk/uksi/2011/245/section/21) was amended by the Companies Act 1989, section 212, Schedule 24, the Insolvency Act 2000, section 8, Schedule 4, paragraphs 1, 14(1) to (3)(a) and [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
+
+[^key-3c916b61b568d168f8a3050bfaa8a09d]: Textual amendment: Words in [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/uksi/2011/245/schedule/1/paragraph/3/b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(p)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/p) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-9a57afdbe9d079919dd2f1807dfd2b76]: Textual amendment: Words in [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/uksi/2011/245/schedule/1/paragraph/4/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(p)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/p) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-c46aad13306227075036f46da0ca563e]: Textual amendment: Words in [Sch. 1 para. 8(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2011/245/schedule/1/paragraph/8/1/b/iii) inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [10(7)](https://www.legislation.gov.uk/uksi/2017/400/regulation/10/7)
+
+[^key-a9b705d1751376efd7b2fe39e342a5ff]: Textual amendment: Words in [Sch. 1 para. 8(2)(c)](https://www.legislation.gov.uk/uksi/2011/245/schedule/1/paragraph/8/2/c) inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [10(7)](https://www.legislation.gov.uk/uksi/2017/400/regulation/10/7)
+
+[^key-5e982080b320d8b20fcc9a5dc14c7d8d]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2011/245/schedule/2) substituted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [10](https://www.legislation.gov.uk/uksi/2013/1765/article/10)
+
+[^key-3128826f857a194f1b5630393d62c36a]: Textual amendment: Words in [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/3/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/i) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^c20697991]: Marginal citation: The Table in section 145 was amended by section 21 of the [Financial Services Act 2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28).
+
+[^key-2940f663f811b37b8d183eb9d596dfcd]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/6) Table substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(ii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/ii/aa) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-48f291fd901c045e1dfe55ceef0e181f]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/6) Table substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(ii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/ii/bb) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-30eb8f4e41d2b5b0a4d84181592af69c]: Textual amendment: Words in [Sch. 2 para. 8(1)](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/8/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(iii)(aa)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/iii) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-f98f67a4c29632c087e310a0ea83f5a6]: Textual amendment: Words in [Sch. 2 para. 8(1)](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/8/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(iii)(aa)(cc)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/iii) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-dd4a47ed722811501970f0c3b7acd890]: Textual amendment: Words in [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/8/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(iii)(dd)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/iii/dd) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-a78baf4db8cbe78de159ae097900eadd]: Textual amendment: Words in [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/8/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(iii)(ee)(ff)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/iii) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-3aed3a7cb6e5c83312eb9dfce7c56dcf]: Textual amendment: Words in [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/8/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(iii)(ee)(gg)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/iii) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-7f59548c8ac9fbe9d5194a25c5fe4d52]: Textual amendment: Word in [Sch. 2 para. 8(5)](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/8/5) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(iii)(hh)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/iii/hh) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-aab03d9d08de0771bead6cc319f9bb06]: Textual amendment: Words in [Sch. 2 para. 9(1)(a)](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/9/1/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(iv)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/iv/aa) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-88ffd877cddd279573e209c53eee9dba]: Textual amendment: Words in [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/9/2/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(iv)(bb)(cc)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/iv/bb) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-8efb2f0e09457197c24c735dcc3c1c05]: Textual amendment: Words in [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/9/2/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(iv)(bb)(dd)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/iv/bb) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-961c80644b48101b1a07ed9dc075ee75]: Textual amendment: Words in Sch. 2 para. 10(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(v)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/v/aa) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-fe086e584495ff15fdded765303e0647]: Textual amendment: Words in Sch. 2 para. 10(2)(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(v)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/v/bb) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-72b8e44aa7db9108d8eb25acd0064aec]: Textual amendment: Words in Sch. 2 para. 10(3)(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(v)(cc)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/v/cc) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-80d079272cd1aaaf1845851bd4ed13d5]: Textual amendment: Words in Sch. 2 para. 10(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(v)(dd)(ee)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/v/dd) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-ef940e6756cd426c146773fcdb62f471]: Textual amendment: Words in Sch. 2 para. 10(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(v)(dd)(ff)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/v/dd) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-f0f2121bd902a5bbb8680e3e5858b21b]: Textual amendment: Words in Sch. 2 para. 10(6) substituted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(v)(gg)(hh)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/v/gg) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-74448ff21e8f4e3086403a5863467462]: Textual amendment: Words in Sch. 2 para. 10(4) substituted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(v)(gg)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/v/gg) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-dcf8cda67f5fd456843eaf6695f0916a]: Textual amendment: Sch. 2 para. 10(7) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(6)(a)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/6/a)
+
+[^key-1b10be8a7f0f0b3cce440e9bfd1c23db]: Textual amendment: Words in Sch. 2 para. 11(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(vi)(aa)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/vi/aa) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-331b3b279209d533531afbbe7eb7c150]: Textual amendment: Words in Sch. 2 para. 11(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(vi)(aa)(cc)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/vi/aa) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-be39d50ee66c8c0323aa9f18cb8a7138]: Textual amendment: Words in Sch. 2 para. 11(3)(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(vi)(dd)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/vi/dd) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-770ce09be3a8ded23424262599bd4275]: Textual amendment: Words in Sch. 2 para. 11(5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(vi)(ee)(ff)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/vi/ee) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-9cee1c5944ebb20d17b3ee4c939ba4b3]: Textual amendment: Words in Sch. 2 para. 11(5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(vi)(ee)(gg)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/vi/ee) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-221e6e78ebb4732394ec8cf7e9654b6f]: Textual amendment: Sch. 2 para. 11(9) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(6)(b)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/6/b)
+
+[^key-90b9692aa239361aa1e145db878fc694]: Textual amendment: Words in Sch. 2 para. 12 heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(vii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/vii) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-7ddeac04ba3a5017cc780c39e07b80c9]: Textual amendment: Words in Sch. 2 para. 12(1)(c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(viii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/viii/aa) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-fd34b38b85a183089880df29e7705beb]: Textual amendment: Words in Sch. 2 para. 12(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(viii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/viii/bb) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-53a64e2adb9c07d1f1955c49a2a8cc93]: Textual amendment: Sch. 2 para. 12(5) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(6)(c)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/6/c)
+
+[^key-cca299109b121a613ae8c47371fe24ba]: Textual amendment: Words in [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/13) heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(ix)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/ix) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^M_F_bfe5bcef-2f0e-4b17-c5ef-428ee8d50c0d]: Textual amendment: Words in [Sch. 2 para. 13(1)(c)](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/13/1/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(x)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/x/aa) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^M_F_a360c599-8c81-4335-fd4b-a371bf86e7f4]: Textual amendment: Words in [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/13/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(x)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/x/bb) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^M_F_52f9f1a7-0436-417f-8fa7-f2f0f3858cdd]: Textual amendment: Words in [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/13/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(x)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/x/bb) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^M_F_092d845e-d180-4ef8-d36b-eaa1984dab83]: Textual amendment: Words in [Sch. 2 para. 13(4)](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/13/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(x)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/x/bb) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^M_F_6804b99b-6448-434a-aa9f-f7822212ff9e]: Textual amendment: Words in [Sch. 2 para. 15(3)](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/15/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(q)(xi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/xi) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-940e393afdbb501de4c850cc7036dcd4]: Textual amendment: Word in Sch. 2 para. 16(3)(b) omitted (13.3.2018) by virtue of [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(6)(d)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/6/d)
+
+[^key-7b387ca7dec4c990350b3b97e923257e]: Textual amendment: Sch. 2 para. 16(3)(ba) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [13(6)(d)](https://www.legislation.gov.uk/uksi/2018/208/regulation/13/6/d)
+
+[^key-5fdfd4fad2ba4e67f002c05217213d9e]: Textual amendment: Words in Sch. 2 para. 16(3)(ba) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 48(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/48/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+
+[^key-c7354fe51bbff5799c76af67ad50b6d4]: Textual amendment: Word in Sch. 2 para. 16(3)(ba) substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 48(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/48/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+
+[^c20698001]: Marginal citation: [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090).
+
+[^c20698011]: Marginal citation: [S.I. 2005/524](https://www.legislation.gov.uk/uksi/2005/524).
+
+[^c20698021]: Marginal citation: [S.I. 1986/1764](https://www.legislation.gov.uk/uksi/1986/1764).
+
+[^c20698031]: Marginal citation: [S.I. 2004/593](https://www.legislation.gov.uk/uksi/2004/593).
+
+[^c20698041]: Marginal citation: [S.I. 1986/952](https://www.legislation.gov.uk/uksi/1986/952).
+
+[^c20698051]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2011/245/section/I). 1987/ 2023.
+
+[^c20698061]: Marginal citation: [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755).
+
+[^c20698071]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2011/245/section/I). 1996/ 1909.
+
+[^c20698081]: Marginal citation: [S.I. 1996/1910](https://www.legislation.gov.uk/uksi/1996/1910).
+
+[^c20698091]: Marginal citation: [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421); this instrument was amended by [S.I. 2005/1516](https://www.legislation.gov.uk/uksi/2005/1516).
+
+[^key-254595c241b9f3a66b96abfeb1e8a79e]: Textual amendment: Words in [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2011/245/schedule/4/paragraph/4) Table 1 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(r)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/r) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-58f6fa80f033944ea04a07b4f54082e8]: Textual amendment: Words in [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2011/245/schedule/4/paragraph/4) Table 1 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(r)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/r/i) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^key-84ebbdd60fb65b6cafde47a62e72f52a]: Textual amendment: Words in [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2011/245/schedule/4/paragraph/4) Table 1 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(r)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/r/ii) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^c20698101]: Marginal citation: [S.I. 1986/1996](https://www.legislation.gov.uk/uksi/1986/1996).
+
+[^c20698111]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2011/245/section/I). 1986/ 1999.
+
+[^c20698121]: Marginal citation: [S.I. 1986/2001](https://www.legislation.gov.uk/uksi/1986/2001).
+
+[^c20698131]: Marginal citation: [S.I. 2001/967](https://www.legislation.gov.uk/uksi/2001/967) (now revoked).
+
+[^c20698141]: Marginal citation: [S.I. 1986/2123](https://www.legislation.gov.uk/uksi/1986/2123).
+
+[^c20698151]: Marginal citation: [S.I. 2003/3363](https://www.legislation.gov.uk/uksi/2003/3363).
+
+[^c20698161]: Marginal citation: [S.I. 2004/593](https://www.legislation.gov.uk/uksi/2004/593).
+
+[^c20698171]: Marginal citation: [S.I. 1989/2405 (N.I.19)](https://www.legislation.gov.uk/nisi/1989/2405). This instrument was amended by several instruments; the only relevant amendments were made by [S.R. 2006/25](https://www.legislation.gov.uk/nisr/2006/25).
+
+[^c20698181]: Marginal citation: [Article 104A](https://www.legislation.gov.uk/uksi/2011/245/article/104A) was inserted by Article 8(3) of the Companies (No. 2) (Northern Ireland) Order 1990 ([S.I. 1990/1504](https://www.legislation.gov.uk/uksi/1990/1504) (N.I. 10)) and amended by section 79(14) of, and Part II of Schedule 6 to, the [Criminal Justice Act 1993 (c. 36)](https://www.legislation.gov.uk/ukpga/1993/36). It has also been amended by other instruments but those amendments are not relevant.
+
+[^key-e0796e6a22c399ed926dae4d5307761f]: Textual amendment: Words in Sch. 5 inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [10(8)(a)](https://www.legislation.gov.uk/uksi/2017/400/regulation/10/8/a)
+
+[^key-8c22baa4ef7e8230ff5a9be05b129f54]: Textual amendment: Words in Sch. 5 inserted (19.12.2018) by [The Banks and Building Societies (Priorities on Insolvency) Order 2018 (S.I. 2018/1244)](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1), [46](https://www.legislation.gov.uk/uksi/2018/1244/article/46) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))
+
+[^c20698191]: Marginal citation: [Article 150A](https://www.legislation.gov.uk/uksi/2011/245/article/150A) was inserted by Article 7(1) of the [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455).
+
+[^key-d0bbd16deacb9a7d7caa8f4ae2dc6e39]: Textual amendment: Words in Sch. 5 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 17(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/17/2), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [17(3)](https://www.legislation.gov.uk/ukpga/2020/12/section/17/3))
+
+[^c20698201]: Marginal citation: [S.I. 1975/1503 (N.I. 15)](https://www.legislation.gov.uk/nisi/1975/1503).
+
+[^key-79566bef0b5255e04b6bf6325e861dec]: Textual amendment: Words in Sch. 5 substituted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [10(8)(b)](https://www.legislation.gov.uk/uksi/2017/400/regulation/10/8/b) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/400/regulation/17))
+
+[^key-1d11cfd96285267b664ae12c0fef5351]: Textual amendment: Words in Sch. 5 inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [10(8)(c)](https://www.legislation.gov.uk/uksi/2017/400/regulation/10/8/c)
+
+[^key-bf3a2ee557519eeebfe962d44a355f4a]: Textual amendment: Words in Sch. 5 inserted (6.4.2017) by [The Investment Bank (Amendment of Definition) and Special Administration (Amendment) Regulations 2017 (S.I. 2017/443)](https://www.legislation.gov.uk/uksi/2017/443), [regs. 1](https://www.legislation.gov.uk/uksi/2017/443/regulation/1), [16](https://www.legislation.gov.uk/uksi/2017/443/regulation/16) (with [reg. 17](https://www.legislation.gov.uk/uksi/2017/443/regulation/17))
+
+[^c20698211]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675). This article was inserted by Article 5 of the [Criminal Justice (Northern Ireland) Order 1984 (S.I. 1994/2796 (N.I. 15))](https://www.legislation.gov.uk/nisi/1984/2796) and later amended by [S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455).
+
+[^c20698221]: Marginal citation: [S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150).
+
+[^key-b9251897d524a98fbbb249f7a665dfdf]: Textual amendment: Word in Sch. 5 substituted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [10(8)(d)(i)](https://www.legislation.gov.uk/uksi/2017/400/regulation/10/8/d/i)
+
+[^key-cea8da7f27caff0b65d2f5543c2231ef]: Textual amendment: Word in Sch. 5 substituted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [10(8)(d)(ii)](https://www.legislation.gov.uk/uksi/2017/400/regulation/10/8/d/ii)
+
+[^c20698231]: Marginal citation: [S.I. 1990/1504 (N.I.10)](https://www.legislation.gov.uk/nisi/1990/1504).
+
+[^c20698241]: Marginal citation: S.R. [1991 No. 301](https://www.legislation.gov.uk/ukcm/1991/301).
+
+[^c20698251]: Marginal citation: S.R. [2003 No. 358](https://www.legislation.gov.uk/ukcm/2003/358).
+
+[^c20698261]: Marginal citation: S.R. [1995 No. 225](https://www.legislation.gov.uk/ukcm/1995/225).
+
+[^c20698271]: Marginal citation: S.R. [2003 No. 357](https://www.legislation.gov.uk/ukcm/2003/357).
+
+[^c20698281]: Marginal citation: S.R. [2004 No. 307](https://www.legislation.gov.uk/ukcm/2004/307).
+
+[^c20698291]: Marginal citation: S.R. [2006 No. 54](https://www.legislation.gov.uk/ukcm/2006/54).
+
+[^c20698301]: Marginal citation: S.R. [2006 No. 33](https://www.legislation.gov.uk/ukcm/2006/33).
+
+[^c20698311]: Marginal citation: S.R. [1991 No. 364](https://www.legislation.gov.uk/ukcm/1991/364).
+
+[^c20698321]: Marginal citation: [S.I. 1986/1925](https://www.legislation.gov.uk/uksi/1986/1925).
+
+[^c20698331]: Marginal citation: S.R. [1991 No. 364](https://www.legislation.gov.uk/ukcm/1991/364).
+
+[^c20698341]: Marginal citation: [S.I. 1986/1915](https://www.legislation.gov.uk/uksi/1986/1915).
+
+[^c20698351]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
+
+[^c20698361]: Marginal citation: [1973 c. 52](https://www.legislation.gov.uk/ukpga/1973/52).
+
+[^c20698371]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
+
+[^c20698381]: Marginal citation: [1986 c.41](https://www.legislation.gov.uk/ukpga/1986/41).
+
+[^c20698391]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2011/245/section/I). [1986 No. 1032](https://www.legislation.gov.uk/ukcm/1986/1032) (N.I. 6).
+
+[^c20698401]: Marginal citation: [1987 c.18](https://www.legislation.gov.uk/ukpga/1987/18).
+
+[^c20698411]: Marginal citation: [S.I. 1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504).
+
+[^c20698421]: Marginal citation: [1992 c.12](https://www.legislation.gov.uk/ukpga/1992/12).
+
+[^c20698431]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
+
+[^c20698441]: Marginal citation: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49).
+
+[^c20698451]: Marginal citation: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^c20698461]: Marginal citation: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213).
+
+[^c20698471]: Marginal citation: [1995 c.43](https://www.legislation.gov.uk/ukpga/1995/43).
+
+[^c20698481]: Marginal citation: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^c20698491]: Marginal citation: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919).
+
+[^c20698501]: Marginal citation: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11).
+
+[^c20698511]: Marginal citation: [2000 c.17](https://www.legislation.gov.uk/ukpga/2000/17).
+
+[^c20698521]: Marginal citation: [2001 c.17](https://www.legislation.gov.uk/ukpga/2001/17).
+
+[^c20698531]: Marginal citation: [2001 asp 13](https://www.legislation.gov.uk/asp/2001/13).
+
+[^c20698541]: Marginal citation: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
+
+[^c20698551]: Marginal citation: [2002 asp 17](https://www.legislation.gov.uk/asp/2002/17).
+
+[^c20698561]: Marginal citation: [2003 c.14](https://www.legislation.gov.uk/ukpga/2003/14).
+
+[^c20698571]: Marginal citation: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^c20698581]: Marginal citation: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255).
+
+[^c20698591]: Marginal citation: [2007 asp 3](https://www.legislation.gov.uk/asp/2007/3).
+
+[^c20698601]: Marginal citation: [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9).
+
+[^c20698611]: Marginal citation: [2008 c. 31](https://www.legislation.gov.uk/ukpga/2008/31).
+
+[^c20698621]: Marginal citation: [2009 c. 4](https://www.legislation.gov.uk/ukpga/2009/4).
+
+[^c20698631]: Marginal citation: [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4).
+
+[^c20698641]: Marginal citation: [2010 c. 8](https://www.legislation.gov.uk/ukpga/2010/8).
+
+[^c20698651]: Marginal citation: [S.I. 1986/1960](https://www.legislation.gov.uk/uksi/1986/1960).
+
+[^c20698661]: Marginal citation: S.R. [1987 No. 30](https://www.legislation.gov.uk/ukcm/1987/30).
+
+[^c20698671]: Marginal citation: [S.I. 1987/2023](https://www.legislation.gov.uk/uksi/1987/2023).
+
+[^c20698681]: Marginal citation: [S.I. 1991/880](https://www.legislation.gov.uk/uksi/1991/880).
+
+[^c20698691]: Marginal citation: S.R. [1991 No. 443](https://www.legislation.gov.uk/ukcm/1991/443).
+
+[^c20698701]: Marginal citation: [S.I. 1994/2507](https://www.legislation.gov.uk/uksi/1994/2507).
+
+[^c20698711]: Marginal citation: [S.I. 1994/3200](https://www.legislation.gov.uk/uksi/1994/3200).
+
+[^c20698721]: Marginal citation: [S.I. 1996/1909](https://www.legislation.gov.uk/uksi/1996/1909).
+
+[^c20698731]: Marginal citation: [S.I. 1996/1469](https://www.legislation.gov.uk/uksi/1996/1469).
+
+[^c20698741]: Marginal citation: S.R. [1996 No. 252](https://www.legislation.gov.uk/ukcm/1996/252).
+
+[^c20698751]: Marginal citation: [S.I. 1998/1870](https://www.legislation.gov.uk/uksi/1998/1870).
+
+[^c20698761]: Marginal citation: [S.I. 1999/2975](https://www.legislation.gov.uk/uksi/1999/2975).
+
+[^c20698771]: Marginal citation: [S.I. 2002/2822](https://www.legislation.gov.uk/uksi/2002/2822).
+
+[^c20698781]: Marginal citation: S.R. [2002 No. 378](https://www.legislation.gov.uk/ukcm/2002/378).
+
+[^c20698791]: Marginal citation: S.R. [2003 No. 357](https://www.legislation.gov.uk/ukcm/2003/357).
+
+[^c20698801]: Marginal citation: S.R. [2003 No. 358](https://www.legislation.gov.uk/ukcm/2003/358).
+
+[^c20698811]: Marginal citation: [S.I. 2004/1045](https://www.legislation.gov.uk/uksi/2004/1045).
+
+[^c20698821]: Marginal citation: [S.I. 2005/524](https://www.legislation.gov.uk/uksi/2005/524).
+
+[^c20698831]: Marginal citation: [S.I. 2005/590](https://www.legislation.gov.uk/uksi/2005/590).
+
+[^c20698841]: Marginal citation: S.R. [2005 No. 126](https://www.legislation.gov.uk/ukcm/2005/126).
+
+[^c20698851]: Marginal citation: [S.I. 2005/916](https://www.legislation.gov.uk/uksi/2005/916).
+
+[^c20698861]: Marginal citation: [S.S.I. 2005/125](https://www.legislation.gov.uk/ssi/2005/125).
+
+[^c20698871]: Marginal citation: [S.I. 2005/1986](https://www.legislation.gov.uk/uksi/2005/1986).
+
+[^c20698881]: Marginal citation: S.R. [2006 No. 33](https://www.legislation.gov.uk/ukcm/2006/33).
+
+[^c20698891]: Marginal citation: [S.S.I. 2006/485](https://www.legislation.gov.uk/ssi/2006/485).
+
+[^key-9a94680c8fff4adfa57b765b6bd5172e]: Textual amendment: Words in Sch. 6 Pt. 1 omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 32](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20698911]: Marginal citation: [S.I. 2008/346](https://www.legislation.gov.uk/uksi/2008/346).
+
+[^M_F_7988e159-c175-41bc-be24-2d5bfa7a8ee9]: Textual amendment: Words in Sch. 6 Pt. 1 substituted (31.1.2015) by [The Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 (S.I. 2015/17)](https://www.legislation.gov.uk/uksi/2015/17), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/1/1), [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2015/17/schedule/6/paragraph/6)
+
+[^c20698931]: Marginal citation: [S.I. 2008/1748](https://www.legislation.gov.uk/uksi/2008/1748).
+
+[^c20698941]: Marginal citation: [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911).
+
+[^c20698951]: Marginal citation: [S.I. 2009/2101](https://www.legislation.gov.uk/uksi/2009/2101).
+
+[^key-f73724e3fe123e801370363c673d4e46]: Textual amendment: Word in Sch. 6 Pt. 1 substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 11](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/11) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+
+[^c20698971]: Marginal citation: [S.I. 2009/214](https://www.legislation.gov.uk/uksi/2009/214).
+
+[^c20698981]: Marginal citation: [S.I. 2010/1056](https://www.legislation.gov.uk/uksi/2010/1056).
+
+[^key-cb8f771cc6b750e4737aafcf14165843]: Textual amendment: Words in Sch. 6 Pt. 1 inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2020/354/regulation/23/2)
+
+[^key-e0bf53e251f4470186ad6be32291e85c]: Textual amendment: Words in Sch. 6 Pt. 1 inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [17(2)](https://www.legislation.gov.uk/nisr/2023/157/regulation/17/2), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
+
+[^key-75df6c99e2d1f834d40e8c9213c86fcd]: Textual amendment: Words in Sch. 6 Pt. 1 inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/15/2)
+
+[^c20698991]: Marginal citation: [Section 215(3)](https://www.legislation.gov.uk/uksi/2011/245/section/215/3) was amended by the [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [section 248(3)](https://www.legislation.gov.uk/ukpga/2002/40/section/248/3), [Schedule 17](https://www.legislation.gov.uk/ukpga/2002/40/schedule/17), [paragraphs 53](https://www.legislation.gov.uk/ukpga/2002/40/paragraph/53), [54(1)](https://www.legislation.gov.uk/ukpga/2002/40/paragraph/54/1), (2) and by [S.I. 2005/1455](https://www.legislation.gov.uk/uksi/2005/1455).
+
+[^key-31d866bae8c03522e648c19c74cc6031]: Textual amendment: Word in [Sch. 6 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/paragraph/3/2/b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(s)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/s/i) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^c20699001]: Marginal citation: [Section 220(3)](https://www.legislation.gov.uk/uksi/2011/245/section/220/3) was amended but the amendments are not relevant.
+
+[^c20699011]: Marginal citation: [Section 362(6)](https://www.legislation.gov.uk/uksi/2011/245/section/362/6) was amended by [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948).
+
+[^key-3558d418b8e3c571894580e31682acf5]: Textual amendment: Words in [Sch. 6 para. 3(5)](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/paragraph/3/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 198(s)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/s/ii) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213))
+
+[^c20699021]: Marginal citation: [Schedule 2](https://www.legislation.gov.uk/uksi/2011/245/schedule/2) was inserted by [S.I. 2009/1208](https://www.legislation.gov.uk/uksi/2009/1208).
+
+[^c20699031]: Marginal citation: [Schedule 11A](https://www.legislation.gov.uk/uksi/2011/245/schedule/11A) was inserted by [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494).
+
+[^c20699041]: Marginal citation: [S.I. 2003/1417](https://www.legislation.gov.uk/uksi/2003/1417); this instrument was amended by [S.I. 2003/2096](https://www.legislation.gov.uk/uksi/2003/2096).
+
+[^c20699051]: Marginal citation: [S.I. 2004/1045](https://www.legislation.gov.uk/uksi/2004/1045).
+
+[^c20699061]: Marginal citation: [Schedule 15D](https://www.legislation.gov.uk/uksi/2011/245/schedule/15D) was inserted by the [Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27), [section 25(1)](https://www.legislation.gov.uk/ukpga/2004/27/section/25/1), [Schedule 2](https://www.legislation.gov.uk/ukpga/2004/27/schedule/2), [paragraphs 16](https://www.legislation.gov.uk/ukpga/2004/27/paragraph/16), [25](https://www.legislation.gov.uk/ukpga/2004/27/paragraph/25).
+
+[^c20699071]: Marginal citation: [Section 80D](https://www.legislation.gov.uk/uksi/2011/245/section/80D) was inserted by the [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [section 83(1)](https://www.legislation.gov.uk/ukpga/2009/10/section/83/1), [Schedule 37](https://www.legislation.gov.uk/ukpga/2009/10/schedule/37), [paragraphs 1](https://www.legislation.gov.uk/ukpga/2009/10/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2009/10/paragraph/2).
+
+[^c20699081]: Marginal citation: [Section 89AB](https://www.legislation.gov.uk/uksi/2011/245/section/89AB) was inserted by the Finance Act 2009, section 83(1), Schedule 37, paragraphs 4, 5.

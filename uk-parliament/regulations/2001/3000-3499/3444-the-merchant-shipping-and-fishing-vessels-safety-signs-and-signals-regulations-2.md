@@ -1,0 +1,294 @@
+---
+title: The Merchant Shipping and Fishing Vessels (Safety Signs and Signals) Regulations 2001
+id: uksi/2001/3444
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-10-20'
+text_date: '2026-04-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2001/3444
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/3444/pdfs/uksi_20013444_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/3444/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Merchant Shipping and Fishing Vessels (Safety Signs and Signals) Regulations 2001
+
+> Text as at 2026-04-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2001 No. 3444
+
+MERCHANT SHIPPING
+
+The Merchant Shipping and Fishing Vessels (Safety Signs and Signals) Regulations 2001
+
+Made
+
+20th October 2001
+
+Laid before Parliament
+
+23rd October 2001
+
+Coming into force
+
+15th February 2002
+
+Whereas the Secretary of State is a Minister designated[^c15688541] for the purpose of section 2(2) of the European Communities Act 1972[^c15688551] in relation to measures relating to the safety of ships and the health and safety of persons on them:
+
+And whereas, in so far as the following Regulations are made in exercise of the powers conferred by section 85 of the Merchant Shipping Act 1995[^c15688561], the Secretary of State has in pursuance of subsection (4) of section 86 of that Act consulted persons he considers will be affected as mentioned in that subsection:
+
+Now, therefore, the Secretary of State, in exercise of the powers conferred by the said section 2(2) of the European Communities Act 1972, and by sections 85(1)(a) and (b), (3), (5) and (7) and 86(1) of the Merchant Shipping Act 1995 and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+## 1. Citation, commencement and revocation
+
+(1) These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Safety Signs and Signals) Regulations 2001 and shall come into force on 15th February 2002.
+
+(2) Regulation 7 of the Merchant Shipping (Safe Movement on Board Ship) Regulations 1988 [^c15688571] is hereby revoked.
+
+## 2. Interpretation
+
+(1) In these Regulations:
+
+- “accoustic signal” means a coded sound signal which is released and transmitted by a device designed for that purpose, without the use of a human or artificial voice;
+- “the Act” means the Merchant Shipping Act 1995;
+- “contract of employment” means a contract of employment, whether express or implied, and if express, whether oral or in writing;
+- “dangerous goods” means goods classified as such in the IMDG Code, in Chapter 19 of the IGC Code or in Chapter 17 of the IBC Code;
+- [^key-05849446372a68af27ae1c2c6261998d]...
+- [^key-05849446372a68af27ae1c2c6261998d]...
+- “employer” means a person by whom a worker is employed under a contract of employment;
+- “fire safety sign” means a sign (including an illuminated sign or an acoustic signal) which—
+  - (a) provides information on escape routes and emergency exits in case of fire;
+  - (b) provides information on the identification or location of fire-fighting equipment; or
+  - (c) gives warning in case of fire;
+- “General Duties Regulations” means the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997 [^c15688591];
+- “hand signal” means a movement or position of the arms or hands or a combination thereof, in coded form, for guiding persons who are carrying out manoeuvres which create a risk to the health or safety of persons at work;
+- “health and safety” includes the occupational health and safety of persons whilst on board the ship and whilst boarding or leaving the ship;
+- “IBC Code” means the 1998 edition of the IMO International Code for Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk;
+- “IGC Code” means the 1993 edition of the IMO International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk;
+- “illuminated sign” means a sign produced by a device made of transparent or translucent materials which are illuminated from the inside or the rear in such a way as to give the appearance of a luminous surface;
+- “IMDG Code” means the 2000 edition of the IMO International Maritime Dangerous Goods Code;
+- “IMO” means the International Maritime Organization;
+- “in bulk” means directly and without intermediate form of containment in a hold, tank or cargo space which is a structural part of or permanently attached to a ship;
+- “mandatory sign” means a sign prescribing specific behaviour;
+- “MCA” means the Maritime and Coastguard Agency, an executive agency of the Department for Transport, Local Government and the Regions;
+- “Merchant Shipping Notice” means a Notice described as such and issued by the Secretary of State;
+- “prohibition sign” means a sign prohibiting behaviour likely to cause a risk to health or safety;
+- “public service vessel” means any vessel operated by and on behalf of a public body while it is carrying out the authorised functions of that body;
+- “relevant inspector” means a person mentioned in paragraphs (a), (b) or (c) of section 258(1) of the Act;
+- “[^key-21c895f188e1e205ca8ba7dcf88d45ee]**safety colour**” means a colour to which a specific meaning is assigned in Part 1 of Schedule 1 to the Safety Signs Regulations;
+- “safety sign” means a sign referring to a specific object, activity or situation and providing information or instructions about health or safety at work by means of a signboard, a safety colour, an illuminated sign or acoustic signal, a verbal communication or a hand signal, as the case may be;
+- “[^key-332dedaea1e2d3543d816f44406c3fae]**Safety Signs Regulations**” means the Health and Safety (Safety Signs and Signals) Regulations 1996;
+- “sail training vessel” means a sailing vessel which is being used either:
+  - (a) to provide instruction in the principles of responsibility, resourcefulness, loyalty and team endeavour and to advance education in the art of seamanship; or
+  - (b) to provide instruction in navigation and seamanship for yachtsmen,
+
+  and is operating under a statutory code;
+- “signboard” means a sign which provides information or instructions by a combination of geometric shape, colour and a symbol or pictogram and which is rendered visible by lighting of sufficient intensity;
+- “statutory code” means—
+  - The Code of Practice for the Safety of Small Commercial Sailing Vessels [^c15688601];
+  - The Code of Practice for the Safety of Large Commercial Sailing and Motor Vessels [^c15688611];
+  - The Code of Practice for the Safety of Small Commercial Motor Vessels [^c15688621]; or
+  - The Code of Practice for the Safety of Small Vessels in Commercial Use for Sport or Pleasure Operating from a Nominated Departure Points [^c15688631];
+- “symbol or pictogram” means a figure which describes a situation or prescribes specific behaviour and which is used on a signboard or illuminated surface;
+- “trainees and apprentices” does not include persons who are training in a sail training vessel;
+- “United Kingdom ship” means a ship which—
+  - (a) is a United Kingdom ship within the meaning of section 85(2) of the Act; or[^key-36a9097e2f6a6f5fafd5107dfe69074e]
+  - (b) [^key-4ffa488bb38dd89d11302b37f0805b91]...
+  - (c) is a hovercraft registered under the Hovercraft Act 1968 [^c15688641];
+- “verbal communication” means a predetermined spoken message communicated by a human or artificial voice;
+- “warning sign” means a sign giving warning of a hazard or danger;
+- “worker” means any person employed by an employer under a contract of employment, including trainees or apprentices.
+
+(2) Any reference in these Regulations to a sign providing instructions includes a mandatory sign, a prohibition sign and a warning sign.
+
+(3) Any reference in these Regulations to the IBC Code, the IGC Code or the IMDG Code shall include a reference to any document amending that publication which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice.
+
+## 3. Application and exemption
+
+(1) Subject to paragraph (3), these Regulations shall apply to all activities of workers on United Kingdom ships wherever they may be except when the activity of a worker—
+
+- (a) is on a public service vessel or a vessel engaged in search and rescue; and
+- (b) characteristics of that activity inevitably conflict with a provision of these Regulations,
+
+and in such a case there shall be a duty on the employer so far as is reasonably practicable to ensure the health and safety of the worker when performing that activity.
+
+(2) Regulations 3(1) and (3), 11, 12 and 13 apply to ships other than United Kingdom ships which are in United Kingdom waters.
+
+(3) These Regulations shall not apply—
+
+- (a) to signs used in connection with the supply of any hazardous[^key-f4bd1d1256d11af3d8b5920a78e37053] substance, mixture[^key-38c0161a54f3bcbd02da9296137c48d6], product or equipment except to the extent that any enactment (whether in an Act or instrument) which requires such signs makes reference to these Regulations;
+- (b) to dangerous goods during the course of their transport by sea, including loading and unloading of such goods from the ship; or
+- (c) subject to regulation 5(6), to signs used for regulating road, rail, inland waterway, sea or air traffic.
+
+## 4. Persons on whom duties are imposed
+
+Where a person on whom a duty is imposed by any provision of these Regulations does not have control of the matter to which the regulation relates because he does not have responsibility for the operation of the ship, then any duty imposed by that regulation shall also extend to any person who has control of that matter.
+
+## 5. Provision and maintenance of safety signs
+
+(1) This regulation shall apply if the risk assessment made under regulation 7(1) of the General Duties Regulations indicates that the employer concerned, having adopted all appropriate techniques for collective protection, and measures, methods or procedures used in the organisation of work, cannot avoid or adequately reduce risks to workers except by the provision of appropriate safety signs to warn or instruct, or both, of the nature of those risks and the measures to be taken to protect against them.
+
+(2) Where this regulation applies, the employer shall—
+
+- (a) ensure that there is in place an appropriate safety sign in accordance with the requirements set out in Parts I to VII of Schedule 1 to the Safety Signs Regulations[^key-689c9b1a4ccb05a6be14e2404b9f403e];
+- (b) subject to paragraph (5), in accordance with the requirements of Parts I, VIII and IX of Schedule 1 to the Safety Signs Regulations[^key-069c8aabc93df8a98a6f182ba32f1d59], ensure, so far as is reasonably practicable, that any appropriate hand signal or verbal communication described in those Parts is used; and
+- (c) maintain any appropriate safety sign (other than a hand signal or verbal communication) which he is required to ensure is in place.
+
+(3) For the purposes of paragraph (1), risks shall only be treated as having been adequately reduced if, having adopted the appropriate techniques, measures, methods or procedures referred to in that paragraph, there is no longer a significant risk of harm having regard to the magnitude and nature of the risks arising from the work concerned.
+
+(4) Without prejudice to paragraph (1), sub-paragraphs (a) and (b) of paragraph (2) shall also apply in relation to fire safety signs where they are required to comply with the provisions of any enactment (whether in an Act or instrument).
+
+(5) For the purposes of sub-paragraph (b) of paragraph (2), the appropriate hand signal described in the documents specified in the Schedule to these Regulations shall be an alternative to the corresponding hand signal described in paragraph 3 of Part IX of Schedule 1 to the Safety Signs Regulations[^key-096014ceddd8047a80f95022f48b8311].
+
+(6) Where it is appropriate to provide safety signs in accordance with paragraph (1) because at a place of work there is a risk to the health and safety of any worker in connection with the presence or movement of traffic, the appropriate safety sign required under paragraph (2) shall be in accordance with the requirements prescribed in the Traffic Signs Regulations and General Directions 1994 [^c15688651], whether or not that instrument applies to the place of work.
+
+## 6. Information, instruction and training
+
+(1) The employer shall ensure that comprehensible and relevant information on the measures to be taken in connection with safety signs is provided to each worker.
+
+(2) The employer shall ensure that each worker receives suitable and sufficient instruction and training in the meaning of safety signs and the measures to be taken in connection with safety signs.
+
+## 7. Penalties
+
+(1) Any contravention of regulation 5 shall be an offence punishable on summary conviction by a fine not exceeding level 5 on the standard scale.
+
+(2) Any contravention of regulation 6 shall be an offence punishable on summary conviction by a fine not exceeding level 4 on the standard scale.
+
+## 8. Offences by body corporate
+
+(1) Where a body corporate is guilty of an offence under these Regulations and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, the preceding paragraph shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(3) Where an offence under these Regulations committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership shall be guilty of that offence and liable to be proceeded against and punished accordingly.
+
+## 9. Onus of proving what is reasonably practicable
+
+In any proceedings for an offence under these Regulations consisting of a failure to comply with a duty or requirement to do something so far as is reasonably practicable, it shall be for the defendant to prove that it was not reasonably practicable to do more than was in fact done to satisfy the duty or requirement.
+
+## 10. Inspection and detention of a United Kingdom ship
+
+A relevant inspector may inspect any United Kingdom ship and if he is satisfied that there has been a failure to comply in relation to that ship with the requirements of these Regulations may detain the ship until the health and safety of all workes and other persons aboard ship is secured, but shall not in the exercise of these powers detain or delay the ship unreasonably.
+
+## 11. Inspection, detention and other measures in respect of ships registered outside the United Kingdom
+
+(1) A relevant inspector may inspect any ship which is not a United Kingdom ship when the ship is in a United Kingdom port, and if satisfied that the ship does not conform to the standards required of United Kingdom ships by these Regulations, may
+
+- (a) send a report to the government of the country in which the ship is registered, and a copy thereof to the Director General of the International Labour Office; and
+- (b) where conditions on board are clearly hazardous to health and safety—
+  - (i) take such measures as are necessary to rectify those conditions, or
+  - (ii) detain the ship,
+
+  provided that the measures specified in sub-paragraph (i) and (ii) may be taken only when the ship has called at a United Kingdom port in the normal course of business for operational reasons.
+
+(2) If either of the measures specified in paragraph (1)(b) are taken, the relevant inspector shall forthwith notify the nearest maritime, consular or diplomtic representative of the State whose flag the ship is entitled to fly.
+
+(3) The relevant inspector shall not in exercise of his power under this regulation detain or delay the ship unreasonably.
+
+## 12. Enforcement of detention
+
+Where a ship is liable to be detained under these Regulations, section 284 [^c15688661] of the Act (which relates to the detention of a ship) shall have effect in relation to that ship as if for the words “this Act”, wherever they appear, there were substituted the words “ the Merchant Shipping and Fishing Vessels (Safety Signs and Signals) Regulations 2001 ”.
+
+## 13. Compensation
+
+Sections 96 and 97 of the Act (arbitration and compensation) shall apply in relation to a detention notice or order under these Regulations as they apply to a detention notice under section 95(3) [^c15688671] of the Act, and in such application, “relevant inspector” means a person making an inspection under these Regulations.
+
+Signed by authority of the Secretary of State for Transport, Local Government and the Regions
+
+David Jamieson
+
+Parliamentary Under-Secretary of State,
+
+Department for Transport, Local Government and the Regions
+
+## SCHEDULE — DOCUMENTS SPECIFYING ALTERNATIVE HAND SIGNALS
+
+Regulation 5(5)
+
+**1.** The standard issued by the British Standards Institution with the following standard number—
+
+BS 7121: 1989 Code of Practice for Safe Use of Cranes
+
+**2.** Annex 21.1 of the MCA Code of Safe Working Practices for Merchant Seamen [^c15688681] (as amended).
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement Council Directive [92/58/EEC](https://www.legislation.gov.uk/european/directive/1992/0058) (O.J. No. L245, 26.8.1992, p. 23) on the minimum requirements for the provision of safety and/or health signs at work (“the Directive”) (ninth individual Directive within the meaning of Article 16(1) of Directive [89/391/EEC](https://www.legislation.gov.uk/european/directive/1989/0391)).
+
+The terms used in the Regulations are defined in regulation 2 and the circumstances in which the Regulations apply are set out in regulation 3. The exclusions include signs used in relation to the supply of dangerous substances or equipment, for the transport of dangerous goods and for the regulation of transport.
+
+Regulation 4 specifies the persons on whom duties are imposed and regulation 5 requires safety signs to comply with the descriptions in the Annexes to the Directive. Safety signs must be provided where the risk assessment made under regulation 7 of the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997 (S.I. 1997/2962) indicates that the risks cannot be avoided or adequately controlled in other ways. The regulation also requires that safety signs are maintained. With certain exceptions (set out in the Schedule), the hand signals to be used are described in Annex IX to the Directive.
+
+Regulation 6 requires that workers receive adequate instruction and training in the meaning of safety signs and the measures to be taken in connection with safety signs.
+
+Regulations 7 to 13 concern enforcement. By regulation 7 contravention of each separate duty in regulations 5 and 6 is a criminal offence. Provision is made for corporate offences (regulation 8) and the burden of showing that compliance with a duty in these Regulations was not reasonably practicable is on the defendant (regulation 9). Inspection and detention of United Kingdom and non-United Kingdom ships are separately provided for (regulations 10 and 11), and sections in the Merchant Shipping Act 1995 dealing with enforcement of detention and with arbitration and compensation are applied (regulations 12 and 13).
+
+These Regulations are made under the powers contained in the Merchant Shipping Act 1995 except in respect of their application to Government ships (regulation 2(1)) where the power is provided by section 2(2) of the European Communities Act 1972.
+
+A Regulatory Impact Assessment has been produced and a copy placed in the Library of both Houses of Parliament. Copies can be obtained from the Maritime Information Centre, Maritime and Coastguard Agency, Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone number 023 8032 9297).
+
+Copies of the relevant international Codes can be obtained from the International Maritime Organization, 4 Albert Embankment, London SE1 7SR (telephone number 020 7735 7611).
+
+Merchant Shipping Notices can be obtained from iForce, Imber Court Business Park, Orchard Lane, East Molesey, Surrey KT8 0BZ (telephone number 020 8957 5028; fax number 020 8957 5012).
+
+Copies of the document referred to at paragraph 1 of the Schedule can be obtained from BSI Standards, 389 Chiswick High Road, London W4 4AL.
+
+## Annotations
+
+[^c15688541]: Marginal citation: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
+
+[^c15688551]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); by virtue of the amendment of section 1(2) of the European Communities Act by section 1 of the [European Economic Area Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) of the European Communities Act to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cmnd. 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993 (Cmnd. 2183).
+
+[^c15688561]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21); [sections 85](https://www.legislation.gov.uk/uksi/2001/3444/section/85) and 86 were amended by the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), [section 8](https://www.legislation.gov.uk/ukpga/1997/28/section/8), and are applied to hovercraft by virtue of the [Hovercraft (Application of Enactments) Order 1989 (S.I. 1989/1350)](https://www.legislation.gov.uk/uksi/1989/1350) to which there are amendments not relevant to these Regulations.
+
+[^c15688571]: Marginal citation: [S.I. 1988/1641](https://www.legislation.gov.uk/uksi/1988/1641).
+
+[^key-05849446372a68af27ae1c2c6261998d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/2/1) omitted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c15688591]: Marginal citation: [S.I. 1997/2962](https://www.legislation.gov.uk/uksi/1997/2962), as amended by [S.I. 2001/54](https://www.legislation.gov.uk/uksi/2001/54).
+
+[^key-21c895f188e1e205ca8ba7dcf88d45ee]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/2/1) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-332dedaea1e2d3543d816f44406c3fae]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/2/1) inserted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/6/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c15688601]: Marginal citation: Published by The Stationery Office in 1993 (ISBN 0-11-551184-9).
+
+[^c15688611]: Marginal citation: Published by The Stationery Office in 1997 (ISBN 0-11-551911-4).
+
+[^c15688621]: Marginal citation: Published by The Stationery Office in 1993 (ISBN 0-11-551185-7).
+
+[^c15688631]: Marginal citation: Published by The Stationery Office in 2000 (ISBN 0-11-551812-6).
+
+[^key-36a9097e2f6a6f5fafd5107dfe69074e]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+
+[^key-4ffa488bb38dd89d11302b37f0805b91]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+
+[^c15688641]: Marginal citation: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59).
+
+[^key-f4bd1d1256d11af3d8b5920a78e37053]: Textual amendment: Word in reg. 3(3)(a) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [9(3)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/9/3/a)
+
+[^key-38c0161a54f3bcbd02da9296137c48d6]: Textual amendment: Word in reg. 3(3)(a) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [9(3)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/9/3/b)
+
+[^key-689c9b1a4ccb05a6be14e2404b9f403e]: Textual amendment: Words in [reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/5/2/a) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/6/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-069c8aabc93df8a98a6f182ba32f1d59]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/5/2/b) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/6/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-096014ceddd8047a80f95022f48b8311]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/5/5) substituted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [6(3)(c)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/6/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c15688651]: Marginal citation: [S.I. 1994/1519](https://www.legislation.gov.uk/uksi/1994/1519).
+
+[^c15688661]: Marginal citation: [Section 284](https://www.legislation.gov.uk/uksi/2001/3444/section/284) was amended by the Merchant Shipping and Maritime Security Act 1997, Schedule 1, paragraph 5.
+
+[^c15688671]: Marginal citation: [Section 95(3)](https://www.legislation.gov.uk/uksi/2001/3444/section/95/3) was amended by the Merchant Shipping and Maritime Security Act 1997, Schedule 1, paragraph 2.
+
+[^c15688681]: Marginal citation: Published by The Stationery Office in 1998 (ISBN No. 0-11-5518363).

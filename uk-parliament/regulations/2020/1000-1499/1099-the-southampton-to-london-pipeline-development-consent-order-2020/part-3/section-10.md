@@ -1,0 +1,37 @@
+---
+title: The Southampton to London Pipeline Development Consent Order 2020, section 10
+act: The Southampton to London Pipeline Development Consent Order 2020
+section: '10'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/1099/section/10
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Southampton to London Pipeline Development Consent Order 2020, section 10
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 10. Power to alter layout, etc. of streets
+
+(1) The undertaker may for the purposes of carrying out the authorised development temporarily alter the layout of, or carry out any works in, a street specified in column (1) of Schedule 3 (streets subject to temporary alteration of layout) in the manner specified in relation to that street in column (2).
+
+(2) Without limitation on the specific powers conferred by paragraph (1), but subject to paragraph (4), the undertaker may, for the purposes of constructing and maintaining the authorised development, permanently or temporarily alter the layout of any street (and carry out works ancillary to such alterations) whether or not within the Order limits and the layout of any street having a junction with such a street and, without limiting the scope of this paragraph, the undertaker may—
+
+- (a) increase the width of the carriageway of the street by reducing the width of any footpath, footway, cycle track, central reservation or verge within the street;
+- (b) alter the level or increase the width of any such street, footpath, footway, cycle track, central reservation or verge;
+- (c) reduce the width of the carriageway of the street;
+- (d) execute any works to widen or alter the alignment of pavements;
+- (e) make and maintain crossovers and passing places;
+- (f) execute any works of surfacing or resurfacing of the highway;
+- (g) carry out works for the provision or alteration of parking places, loading bays and cycle tracks;
+- (h) execute any works necessary to alter or provide facilities for the management and protection of pedestrians; and
+- (i) execute any works to provide or improve sight lines required by the highway authority.
+
+(3) The undertaker must restore to the reasonable satisfaction of the street authority any street that has been temporarily altered under this article.
+
+(4) The powers conferred by paragraph (2) must not be exercised without the consent of the street authority but such consent is not to be unreasonably withheld or delayed.
+
+(5) If a street authority which receives an application for consent under paragraph (4) fails to notify the undertaker of its decision before the end of the period of 42 days beginning with the date on which the application was made, it is deemed to have granted consent.

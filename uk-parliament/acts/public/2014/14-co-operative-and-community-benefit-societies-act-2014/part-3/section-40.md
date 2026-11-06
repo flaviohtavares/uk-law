@@ -1,0 +1,33 @@
+---
+title: Co-operative and Community Benefit Societies Act 2014, section 40
+act: Co-operative and Community Benefit Societies Act 2014
+section: '40'
+status: revised-with-pending-changes
+text_date: '2023-08-29'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2014/14/section/40
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Co-operative and Community Benefit Societies Act 2014, section 40
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2023-08-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/14
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 40. Death of member: distribution of property not exceeding £5,000
+
+*Extent: E+W+S*
+
+(1) This section applies if—
+
+- (a) a member of a registered society dies,
+- (b) the member's property in the society (as at death) in respect of shares, loans or deposits does not exceed £5,000, and
+- (c) that property is not the subject of a nomination under section 37 (nomination by member of entitlement to property in society on member's death).
+
+(2) The society's committee may, without letters of administration or probate of any will (or, in Scotland, confirmation) having been obtained, distribute that property among such persons as appear to the committee (on such evidence as it considers satisfactory) to be entitled by law to receive it.
+
+(3) A payment or transfer made under this section to a person appearing to the committee at the time of the payment or transfer to be entitled under this section is valid and effectual against any demand made upon the committee or society by any other person.
+
+(4) An order under section 6 of the Administration of Estates (Small Payments) Act 1965 (power to provide for increases in amounts disposable on death without representation) has effect in relation to the limit in subsection (1)(b) as it has effect in relation to the limits referred to in section 1 of that Act.

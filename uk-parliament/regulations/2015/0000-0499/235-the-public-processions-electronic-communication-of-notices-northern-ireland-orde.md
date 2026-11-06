@@ -1,0 +1,200 @@
+---
+title: The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015
+id: uksi/2015/235
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2015-02-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2015/235
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/235/pdfs/uksiem_20150235_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/235/pdfs/uksi_20150235_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/235/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2015 No. 235
+
+Public Order, Northern Ireland
+
+The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015
+
+Made
+
+12th February 2015
+
+Laid before Parliament
+
+17th February 2015
+
+Coming into force in accordance with article 1(2)
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 8(1), (2)(a) to (c), (3), (4)(a) to (c) and (6)(a), and 9(1)(a), (5)(a), and (6)(a) and (c) of the Electronic Communications Act 2000[^f00001].
+
+The Secretary of State considers that the authorisation of the use of electronic communications by this Order for any purpose is such that the extent (if any) to which records of things done for that purpose will be available will be no less satisfactory in cases where use is made of electronic communications than in other cases.
+
+## 1. Citation, commencement, extent and interpretation
+
+(1) This Order may be cited as the Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015.
+
+(2) This Order comes into force at the end of the period of 28 days beginning with the day on which it is made.
+
+(3) This Order extends to Northern Ireland only.
+
+(4) In this Order, “the 1998 Act” means the Public Processions (Northern Ireland) Act 1998[^f00002].
+
+## PART 1 — Amendments of the 1998 Act
+
+### 2. Amendment of section 6 of the 1998 Act
+
+(1) Section 6 of the 1998 Act (advance notice of public processions)[^f00003] is amended as follows.
+
+(2) In subsection (1)—
+
+- (a) for “(2) to (4)” substitute “(1A) to (4A)”; and
+- (b) omit the words from “to a member” to the end of that subsection.
+
+(3) After subsection (1) insert—
+
+> (1A) Notice under this section shall be—
+>
+> - (a) left with a member of the Police Service of Northern Ireland not below the rank of sergeant at the police station nearest to the proposed starting place of the procession; or
+> - (b) sent to the Police Service of Northern Ireland by permitted electronic means (see section 7A).
+
+.
+
+(4) After subsection (4) insert—
+
+> (4A) Where notice is sent by permitted electronic means, the signature required by subsection (3)(b) is a permitted electronic signature (see section 7A).
+
+.
+
+### 3. Amendment of section 7 of the 1998 Act
+
+(1) Section 7 of the 1998 Act (advance notice of protest meetings related to public processions)[^f00004] is amended as follows.
+
+(2) In subsection (1)—
+
+- (a) for “(2) to (4)” substitute “(1A) to (4A)”; and
+- (b) omit the words from “to a member” to the end of that subsection.
+
+(3) After subsection (1) insert—
+
+> (1A) Notice under this section shall be—
+>
+> - (a) left with a member of the Police Service of Northern Ireland not below the rank of sergeant at the police station nearest to the place at which the meeting is to be held; or
+> - (b) sent to the Police Service of Northern Ireland by permitted electronic means (see section 7A).
+
+.
+
+(4) After subsection (4) insert—
+
+> (4A) Where notice is sent by permitted electronic means, the signature required by subsection (3)(b) is a permitted electronic signature (see section 7A).
+
+.
+
+### 4. Meaning of “permitted electronic means” and “permitted electronic signature”
+
+After section 7 of the 1998 Act insert—
+
+> **7A. Meaning of “permitted electronic means” and “permitted electronic signature”**
+>
+> (1) A notice is sent by “permitted electronic means” for the purposes of sections 6 and 7 if—
+>
+> - (a) it is sent by a specified form of electronic communication (within the meaning of the Electronic Communications Act 2000[^f00005]) and in accordance with specified requirements; and
+> - (b) receipt of the notice is acknowledged in a specified manner.
+>
+> (2) For the purposes of sections 6 and 7, a “permitted electronic signature” is an electronic signature (within the meaning of section 7(2) of the Electronic Communications Act 2000) which complies with such conditions or requirements as may be specified.
+>
+> (3) In subsections (1) and (2), “specified” means specified in a direction given by the Secretary of State.
+>
+> (4) A direction under this section may be varied or revoked by a subsequent direction.
+>
+> (5) Before giving or varying a direction under this section, the Secretary of State must consult—
+>
+> - (a) the Chief Constable[^f00006];
+> - (b) the Commission; and
+> - (c) such other persons as the Secretary of State is satisfied should be consulted.
+>
+> (6) The Secretary of State must publish a direction under this section.
+
+.
+
+## PART 2 — Amendment of subordinate legislation
+
+### 5. Amendment of the Public Order (Prescribed Forms) Regulations (Northern Ireland) 2004
+
+In regulation 2 of the Public Order (Prescribed Forms) Regulations (Northern Ireland) 2004 (notice of public processions and related protest meetings)[^f00007], after paragraph (2) insert—
+
+> (3) In the case of notice to be sent to the Police Service of Northern Ireland by permitted electronic means (see section 7(1A)(b) of the Public Processions (Northern Ireland) Act 1998), the form in Schedule 2 is adapted as follows—
+>
+> - (a) on the first page of the form—
+>   - (i) for the words “submitted to a member of the police not below the rank of sergeant, at the police station nearest to the proposed location of the protest meeting. It must be submitted” substitute “sent to the Police by a form of electronic communication, and in accordance with requirements, specified in a direction given by the Secretary of State. The notice is not sent until receipt is acknowledged in accordance with such a direction. It must be sent”; and
+>   - (ii) omit the last two bullet points;
+> - (b) omit Part 3 of the form; and
+> - (c) the format of the form may be varied as required for the purpose of sending the form by permitted electronic means, provided that the information required to be provided in the form is the same.
+
+.
+
+### 6. Amendment of the Public Order (Prescribed Forms) Regulations (Northern Ireland) 2005
+
+In regulation 2 of the Public Order (Prescribed Forms) Regulations (Northern Ireland) 2005 (notice of public processions and related protest meetings)[^f00008], the existing text becomes paragraph (1) of the regulation and after paragraph (1) insert—
+
+> (2) In the case of notice to be sent to the Police Service of Northern Ireland by permitted electronic means (see section 6(1A)(b) of the Public Processions (Northern Ireland) Act 1998), the form in the Schedule is adapted as follows—
+>
+> - (a) on the first page of the form—
+>   - (i) for the words “submitted to a member of the police not below the rank of sergeant, at the police station nearest to the proposed starting place of the procession” substitute “sent to the Police by a form of electronic communication, and in accordance with requirements, specified in a direction given by the Secretary of State. The notice is not sent until receipt is acknowledged in accordance with such a direction. It must be sent”; and
+>   - (ii) omit the last two bullet points;
+> - (b) omit Parts 5 and 6 of the form; and
+> - (c) the format of the form may be varied as required for the purpose of sending the form by permitted electronic means, provided that the information required to be provided in the form is the same.
+
+.
+
+Theresa Villiers
+
+Secretary of State
+
+Northern Ireland Office
+
+12th February 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order facilitates the use of electronic communications for the notification of proposed public processions and related protests under the Public Processions (Northern Ireland) Act 1998 (the “1998 Act”) where certain conditions are met.
+
+Articles 2 and 3 amend sections 6 and 7 of the 1998 Act to allow notices of proposed processions and protests to be sent by permitted electronic means and to be signed by a permitted electronic signature.
+
+Article 4 inserts new section 7A into the 1998 Act. That section provides that sending notice by “permitted electronic means” means sending it by a form of electronic communication specified in a direction given by the Secretary of State and in accordance with requirements specified in such a direction. “Permitted electronic signature” means an electronic signature that complies with such conditions or requirements as are specified in a direction of the Secretary of State.
+
+Articles 5 and 6 amend the Public Order (Prescribed Forms) Regulations (Northern Ireland) 2004 and the Public Order (Prescribed Forms) Regulations (Northern Ireland) 2005 to ensure that the forms prescribed for the submission of a notice can be used for the purpose of sending the notice by permitted electronic means.
+
+An impact assessment has not been produced for this instrument as the impact on the private or voluntary sectors is minimal.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7); the Secretary of State is the “appropriate Minister” in respect of the Public Processions (Northern Ireland) Act 1998 (see section 9 of the Electronic Communications Act 2000).
+
+[^f00002]: Footnote: [1998 c. 2](https://www.legislation.gov.uk/ukpga/1998/2); from 23 November 2000, references in the 1998 Act: “(a) to the Chief Constable of the Royal Ulster Constabulary shall be construed as a reference to the Chief Constable of the Police Service of Northern Ireland; (b) to a person holding any other particular rank, or a rank of a particular description, in the Royal Ulster Constabulary shall be construed as a reference to a person holding that rank, or a rank of that description, in the Police Service of Northern Ireland; (c) to a member of the Royal Ulster Constabulary shall be construed as a reference to a member of the Police Service of Northern Ireland; (d) to a member of the Royal Ulster Constabulary Reserve shall be construed as a reference to a member of the Police Service of Northern Ireland Reserve; (e) to the Royal Ulster Constabulary Reserve shall be construed as a reference to the Police Service of Northern Ireland Reserve; and (f) to the Royal Ulster Constabulary in any other context shall be construed as a reference to the Police Service of Northern Ireland” (section 78, Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32)).
+
+[^f00003]: Footnote: Section 6 was amended by [S.I. 2005/857](https://www.legislation.gov.uk/uksi/2005/857).
+
+[^f00004]: Footnote: Section 7 was amended by [S.I. 2005/857](https://www.legislation.gov.uk/uksi/2005/857).
+
+[^f00005]: Footnote: “Electronic communication” is defined in section 15 of the Electronic Communications Act [2000 (c. 7)](https://www.legislation.gov.uk/ukpga/2000/7) and that definition was amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^f00006]: Footnote: References in the 1998 Act to the Chief Constable are to the Chief Constable of the Police Service of Northern Ireland; but the Chief Constable may delegate, to such extent and subject to such conditions as he may specify, any of his functions under this Act to a member of the Police Service of Northern Ireland not below the rank of Assistant Chief Constable (see section 17(3) of the 1998 Act, as amended by section 78 of the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32)).
+
+[^f00007]: Footnote: [S.I. 2004/416](https://www.legislation.gov.uk/uksi/2004/416); regulation 2(1) and Schedule 1 were revoked by [S.I. 2005/904](https://www.legislation.gov.uk/uksi/2005/904).
+
+[^f00008]: Footnote: [S.I. 2005/904](https://www.legislation.gov.uk/uksi/2005/904).

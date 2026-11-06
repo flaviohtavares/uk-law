@@ -1,0 +1,283 @@
+---
+title: The Divorce etc. (Pensions) Regulations 2000
+id: uksi/2000/1123
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2000-04-14'
+text_date: '2016-04-06'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2000/1123
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/1123/pdfs/uksi_20001123_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/1123/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Divorce etc. (Pensions) Regulations 2000
+
+> Text as at 2016-04-06.
+
+2000 No. 1123
+
+FAMILY LAW
+
+PENSIONS
+
+The Divorce etc. (Pensions) Regulations 2000
+
+Made
+
+14th April 2000
+
+Laid before Parliament
+
+19th April 2000
+
+Coming into force
+
+1st December 2000
+
+The Lord Chancellor, in exercise of the powers conferred on him by sections 24C, 25D(1)(b), (2) and (3) and 31(4C) of the Matrimonial Causes Act 1973[^c1601665] and section 21(4) of the Matrimonial and Family Proceedings Act 1984[^c1601666], makes the following Regulations:
+
+## 1. Citation, commencement and transitional provisions
+
+(1) These Regulations may be cited as the Divorce etc. (Pensions) Regulations 2000 and shall come into force on 1st December 2000.
+
+(2) These Regulations shall apply to any proceedings for divorce, judicial separation or nullity of marriage commenced on or after 1st December 2000, and any such proceedings commenced before that date shall be treated as if these Regulations had not come into force.
+
+## 2. Interpretation
+
+In these Regulations:
+
+- (a) a reference to a section by number alone means the section so numbered in the Matrimonial Causes Act 1973;
+- (b) “the 1984 Act" means the Matrimonial and Family Proceedings Act 1984;
+- (c) expressions defined in sections 21A [^c1601667] and 25D(3) have the meanings assigned by those sections;
+- (d) every reference to a rule by number alone means the rule so numbered in the Family Proceedings Rules 1991 *(Extent: E+W)* *(affected by repeal, see note)*[^key-303817a1b0c30bccd0b1bdafdae0c488]Family Procedure Rules 2010 *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-303817a1b0c30bccd0b1bdafdae0c488].
+
+## 3. Valuation
+
+(1) For the purposes of the court’s functions in connection with the exercise of any of its powers under Part II of the Matrimonial Causes Act 1973, benefits under a pension arrangement shall be calculated and verified in the manner set out in regulation 3 of the Pensions on Divorce etc. (Provision of Information) Regulations 2000 [^c1601669], and—
+
+- (a) the benefits shall be valued as at a date to be specified by the court (being not earlier than one year before the date of the petition and not later than the date on which the court is exercising its power);
+- (b) in determining that value the court may have regard to information furnished by the person responsible for the pension arrangement pursuant to any of the provisions set out in paragraph (2); and
+- (c) in specifying a date under sub-paragraph (a) above the court may have regard to the date specified in any information furnished as mentioned in sub-paragraph (b) above.
+
+(2) The relevant provisions for the purposes of paragraph (1)(b) above are:
+
+- (a) the Pensions on Divorce etc. (Provision of Information) Regulations 2000;
+- (b) regulation 5 of and Schedule 2 to the Occupational Pension Schemes (Disclosure of Information) Regulations 1996 [^c1601670] and regulation 11 of and Schedule 1 to the Occupational Pension Schemes (Transfer Value) Regulations 1996 [^c1601671];
+- (c) sections 93A and 94(1)[^key-653e52848067994b41dd032de590c386] of the Pension Schemes Act 1993 [^c1601672];
+- (d) section 94(2)[^key-9517334c789a5a978c91cf088164d721] of the Pension Schemes Act 1993 or paragraph 2(a) (or, where applicable, 2(b)) of Schedule 2 to the Personal Pension Schemes (Disclosure of Information) Regulations 1987 [^c1601673].
+
+## 4. Pension attachment: notices
+
+(1) This regulation applies in the circumstances set out in section 25D(1)(a) (transfers of pension rights).
+
+(2) Where this regulation applies, the person responsible for the first arrangement shall give notice in accordance with the following paragraphs of this regulation to
+
+- (a) the person responsible for the new arrangement, and
+- (b) the other party.
+
+(3) The notice to the person responsible for the new arrangement shall include copies of the following documents:
+
+- (a) every order made under section 23 imposing any requirement on the person responsible for the first arrangement in relation to the rights transferred;
+- (b) any order varying such an order;
+- (c) all information or particulars which the other party has been required to supply under any provision of rule 2.70 *(Extent: E+W)* *(affected by repeal, see note)*[^key-505d8c5c4c70ea522eb75b11a61cd1fa]rule 9.33 or 9.34 *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-505d8c5c4c70ea522eb75b11a61cd1fa] for the purpose of enabling the person responsible for the first arrangement:—
+  - (i) to provide information, documents or representations to the court to enable it to decide what if any requirement should be imposed on that person; or
+  - (ii) to comply with any order imposing such a requirement;
+- (d) any notice given by the other party to the person responsible for the first arrangement under regulation 6;
+- (e) where the pension rights under the first arrangement were derived wholly or partly from rights held under a previous pension arrangement, any notice given to the person responsible for the previous arrangement under paragraph (2) of this regulation on the occasion of that acquisition of rights.
+
+(4) The notice to the other party shall contain the following particulars:
+
+- (a) the fact that the pension rights have been transferred;
+- (b) the date on which the transfer takes effect;
+- (c) the name and address of the person responsible for the new arrangement;
+- (d) the fact that the order made under section 23 is to have effect as if it had been made in respect of the person responsible for the new arrangement.
+
+(5) Both notices shall be given:
+
+- (a) within the period provided by section 99 of the Pension Schemes Act 1993 for the person responsible for the first arrangement to carry out what the member requires; and
+- (b) before the expiry of 21 days after the person responsible for the first arrangement has made all required payments to the person responsible for the new arrangement.
+
+## 5. Pension attachment: reduction in benefits
+
+(1) This regulation applies where:
+
+- (a) an order under section 23 or under section 17 [^c1601674] of the 1984 Act has been made by virtue of section 25B or 25C imposing any requirement on the person responsible for a pension arrangement;
+- (b) an event has occurred which is likely to result in a significant reduction in the benefits payable under the arrangement, other than:
+  - (i) the transfer from the arrangement of all the rights of the party with pension rights in the circumstances set out in section 25D(1)(a), or
+  - (ii) a reduction in the value of assets held for the purposes of the arrangement by reason of a change in interest rates or other market conditions.
+
+(2) Where this regulation applies, the person responsible for the arrangement shall, within 14 days of the occurrence of the event mentioned in paragraph (1)(b), give notice to the other party of:
+
+- (a) that event;
+- (b) the likely extent of the reduction in the benefits payable under the arrangement.
+
+(3) Where the event mentioned in paragraph (1)(b) consists of a transfer of some but not all of the rights of the party with pension rights from the arrangement, the person responsible for the first arrangement shall, within 14 days of the transfer, give notice to the other party of the name and address of the person responsible for any pension arrangement under which the party with pension rights has acquired rights as a result of that event.
+
+## 6. Pension attachment: change of circumstances
+
+(1) This regulation applies where:
+
+- (a) an order under section 23 or under section 17 of the 1984 Act has been made by virtue of section 25B or 25C imposing any requirement on the person responsible for a pension arrangement; and
+- (b) any of the events set out in paragraph (2) has occurred.
+
+(2) Those events are:
+
+- (a) any of the particulars supplied by the other party under rule 2.70 *(Extent: E+W)* *(affected by repeal, see note)*[^key-3d314d82e2d354cf3bef1b75d5d1a8c4]rule 9.33 or 9.34 *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-3d314d82e2d354cf3bef1b75d5d1a8c4] for any purpose mentioned in regulation 4(3)(c) has ceased to be accurate; or
+- (b) by reason of the remarriage of the other party , or his having formed a subsequent civil partnership,[^M_F_0f5f655c-0572-4e84-e8d6-f4fbe2495134] or otherwise, the order has ceased to have effect.
+
+(3) Where this regulation applies, the other party shall, within 14 days of the event, give notice of it to the person responsible for the pension arrangement.
+
+(4) Where, because of the inaccuracy of the particulars supplied by the other party under rule 2.70 *(Extent: E+W)* *(affected by repeal, see note)*[^key-0dbd5e64f966237f60058b9866a1c96b]rule 9.33 or 9.34 *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-0dbd5e64f966237f60058b9866a1c96b] or because the other party has failed to give notice of their having ceased to be accurate, it is not reasonably practicable for the person responsible for the pension arrangement to make a payment to the other party as required by the order:
+
+- (a) it may instead make that payment to the party with pension rights, and
+- (b) it shall then be discharged of liability to the other party to the extent of that payment.
+
+(5) Where an event set out in paragraph (2)(b) has occurred and, because the other party has failed to give notice in accordance with paragraph (3), the person responsible for the pension arrangement makes a payment to the other party as required by the order:
+
+- (a) its liability to the party with pension rights shall be discharged to the extent of that payment, and
+- (b) the other party shall, within 14 days of the payment being made, make a payment to the party with pension rights to the extent of that payment.
+
+## 7. Pension attachment: transfer of rights
+
+(1) This regulation applies where:
+
+- (a) a transfer of rights has taken place in the circumstances set out in section 25D(1)(a);
+- (b) notice has been given in accordance with regulation 4(2)(a) and (b);
+- (c) any of the events set out in regulation 6(2) has occurred; and
+- (d) the other party has not, before receiving notice under regulation 4(2)(b), given notice of that event to the person responsible for the first arrangement under regulation 6(3).
+
+(2) Where this regulation applies, the other party shall, within 14 days of the event, give notice of it to the person responsible for the new arrangement.
+
+(3) Where, because of the inaccuracy of the particulars supplied by the other party under rule 2.70 *(Extent: E+W)* *(affected by repeal, see note)*[^key-0bdcb1ecbf6a8b7c342e773cb959939a]rule 9.33 or 9.34 *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-0bdcb1ecbf6a8b7c342e773cb959939a] for any purpose mentioned in regulation 4(3)(c) or because the other party has failed to give notice of their having ceased to be accurate, it is not reasonably practicable for the person responsible for the new arrangement to make a payment to the other party as required by the order:
+
+- (a) it may instead make that payment to the party with pension rights, and
+- (b) it shall then be discharged of liability to the other party to the extent of that payment.
+
+(4) Subject to paragraph (5), where this regulation applies and the other party, within one year from the transfer, gives to the person responsible for the first arrangement notice of the event set out in regulation 6(2) in purported compliance with regulation 7(2), the person responsible for the first arrangement shall:
+
+- (a) send that notice to the person responsible for the new arrangement, and
+- (b) give the other party a second notice under regulation 4(2)(b);
+
+and the other party shall be deemed to have given notice under regulation 7(2) to the person responsible for the new arrangement.
+
+(5) Upon complying with paragraph (4) above, the person responsible for the first arrangement shall be discharged from any further obligation under regulation 4 or 7(4), whether in relation to the event in question or any further event set out in regulation 6(2) which may be notified to it by the other party.
+
+## 7A. Pension attachment: discharge of liability of the Board[^M_F_a1615d8c-e0af-445c-f392-dabd8f50d956]
+
+(1) This regulation applies where—
+
+- (a) the Board has assumed responsibility for a pension arrangement as mentioned in section 25E(2)(a); and
+- (b) the Board has given notice that it has so assumed responsibility to members and beneficiaries of the pension arrangement in compliance with regulation 3(6) of the Pension Protection Fund (Provision of Information) Regulations 2005.
+
+(2) Where—
+
+- (a) any of the events set out in regulation 6(2) have occurred; and
+- (b) the other party has not, before receiving the notice referred to in (1)(b) above, given notice of that event to the person responsible for the pension arrangement in accordance with regulation 6(3),
+
+the other party shall, within 14 days of the event, give notice of it to the Board.
+
+(3) Paragraph (4) applies where it is not reasonably practicable for the Board to make a payment to the other party as required by the order because—
+
+- (a) of the inaccuracy of the particulars supplied by the other party under rule 2.70 *(affected by repeal, see note)*[^key-3903b8b542e58506b130af1c87e09e92]rule 9.33 or 9.34 *(affected by repeal, see note)*[^key-3903b8b542e58506b130af1c87e09e92] for any purpose mentioned in regulation 4(3)(c); or
+- (b) the other party has failed to give notice that the particulars have ceased to be accurate.
+
+(4) Where this paragraph applies, the Board—
+
+- (a) may instead make the payment due to the other party to the party entitled to PPF compensation; and
+- (b) shall then be discharged of liability to the other party to the extent of that payment.
+
+(5) Where an event set out in regulation 6(2)(b) has occurred and, because the other party has failed to give notice in accordance with paragraph (2), the Board makes a payment to the other party as required by the order—
+
+- (a) its liability to the party entitled to PPF compensation shall be discharged to the extent of that payment; and
+- (b) the other party shall, within 14 days of the payment being made, make a payment to the party entitled to PPF compensation to the extent of that payment.
+
+(6) In this regulation “the Board” and “ PPF compensation” have the meanings given in section 25E(9).
+
+## 8. Service[^key-79177c46b33f77aaf027f730079bf4cc]
+
+A notice under regulation 4, 5, 6 , 7 or 7A[^M_F_f10fc21c-48bd-4ef0-d9ef-b553de74380f] may be sent by fax or by ordinary first class post to the last known address of the intended recipient and shall be deemed to have been received on the seventh day after the day on which it was sent.
+
+## 9. Pension sharing order not to take effect pending appeal
+
+(1) No pension sharing order under section 24B or variation of a pension sharing order under section 31 [^c1601675] shall take effect earlier than 7 days after the end of the period for filing notice of appeal against the order.
+
+(2) The filing of a notice of appeal within the time allowed for doing so prevents the order taking effect before the appeal has been dealt with.
+
+## 10. Revocation
+
+The Divorce etc. (Pensions) Regulations 1996 [^c1601676] and the Divorce etc. (Pensions) (Amendment) Regulations 1997 [^c1601677] are revoked.
+
+Signed by authority of the Lord Chancellor
+
+Jane Kennedy
+
+Parliamentary Secretary,
+
+Lord Chancellor’s Department
+
+(This note is not part of the Regulations)
+
+These Regulations make provision pursuant to orders, including those made after proceedings overseas, for ancillary relief in proceedings for divorce, judicial separation or nullity which relate to the pension rights of a party to the marriage. In particular, they provide for:
+
+**a)** the valuation of pension rights by the court;
+
+**b)** notices of change of circumstances to be provided by the person responsible for the pension arrangement to the party without pension rights, or by that party to the person responsible to the pension arrangement; and
+
+**c)** the stay period during which pension sharing orders cannot take effect.
+
+## Annotations
+
+[^c1601665]: Marginal citation: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18); [section 24C](https://www.legislation.gov.uk/uksi/2000/1123/section/24C) was inserted by paragraph 4 of Schedule 3 to the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30). Sections 25B, 25C and 25D were inserted by section 166(1) of the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26) and amended by Schedule 4 to the Welfare Reform and Pensions Act 1999. Section 31(4C) was inserted by paragraph 7 of Schedule 3 to the Welfare Reform and Pensions Act 1999.
+
+[^c1601666]: Marginal citation: [1984 c. 42](https://www.legislation.gov.uk/ukpga/1984/42); [section 21(4)](https://www.legislation.gov.uk/uksi/2000/1123/section/21/4) was inserted by section 22(5) of the Welfare Reform and Pensions Act 1999.
+
+[^c1601667]: Marginal citation: Section 21A was inserted by paragraph 2 of Schedule 3 to the Welfare Reform and Pensions Act 1999.
+
+[^key-303817a1b0c30bccd0b1bdafdae0c488]: Textual amendment: Words in reg. 2(d) substituted (E.W.) (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [27](https://www.legislation.gov.uk/uksi/2011/1045/article/27) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+
+[^c1601669]: Marginal citation: [S.I. 2000/1048](https://www.legislation.gov.uk/uksi/2000/1048).
+
+[^c1601670]: Marginal citation: [S.I. 1996/1655](https://www.legislation.gov.uk/uksi/1996/1655), as amended by [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786) and 3038.
+
+[^c1601671]: Marginal citation: [S.I. 1996/1847](https://www.legislation.gov.uk/uksi/1996/1847).
+
+[^key-653e52848067994b41dd032de590c386]: Textual amendment: Words in reg. 3(2)(c) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2016/289/regulation/6/a)
+
+[^c1601672]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48); section 93A was inserted by section 153 of the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^key-9517334c789a5a978c91cf088164d721]: Textual amendment: Words in reg. 3(2)(d) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2016/289/regulation/6/b)
+
+[^c1601673]: Marginal citation: [S.I. 1987/1110](https://www.legislation.gov.uk/uksi/1987/1110).
+
+[^key-505d8c5c4c70ea522eb75b11a61cd1fa]: Textual amendment: Words in reg. 4(3)(c) substituted (E.W.) (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [28](https://www.legislation.gov.uk/uksi/2011/1045/article/28) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+
+[^c1601674]: Marginal citation: Section 17 was amended by paragraph 3 of Schedule 12 to the Welfare Reform and Pensions Act 1999.
+
+[^key-3d314d82e2d354cf3bef1b75d5d1a8c4]: Textual amendment: Words in reg. 6(2)(a) substituted (E.W.) (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [28](https://www.legislation.gov.uk/uksi/2011/1045/article/28) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+
+[^M_F_0f5f655c-0572-4e84-e8d6-f4fbe2495134]: Textual amendment: Words in reg. 6(2)(b) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2005/2114/schedule/1/paragraph/8)
+
+[^key-0dbd5e64f966237f60058b9866a1c96b]: Textual amendment: Words in reg. 6(4) substituted (E.W.) (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [28](https://www.legislation.gov.uk/uksi/2011/1045/article/28) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+
+[^key-0bdcb1ecbf6a8b7c342e773cb959939a]: Textual amendment: Words in reg. 7(3) substituted (E.W.) (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [28](https://www.legislation.gov.uk/uksi/2011/1045/article/28) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+
+[^M_F_a1615d8c-e0af-445c-f392-dabd8f50d956]: Textual amendment: Reg. 7A inserted (8.8.2006) by [The Divorce etc. (Pension Protection Fund) Regulations 2006 (S.I. 2006/1932)](https://www.legislation.gov.uk/uksi/2006/1932), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1932/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2006/1932/regulation/5/a)
+
+[^key-3903b8b542e58506b130af1c87e09e92]: Textual amendment: Words in reg. 7A(3)(a) substituted (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [28](https://www.legislation.gov.uk/uksi/2011/1045/article/28) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+
+[^key-79177c46b33f77aaf027f730079bf4cc]: Modification: Reg. 8 applied (with modifications) (8.8.2006) by [Divorce etc. (Pension Protection Fund) Regulations 2006 (S.I. 2006/1932)](https://www.legislation.gov.uk/uksi/2006/1932), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1932/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2006/1932/regulation/5/b)
+
+[^M_F_f10fc21c-48bd-4ef0-d9ef-b553de74380f]: Textual amendment: Words in reg. 8 inserted (8.8.2006) by [The Divorce etc. (Pension Protection Fund) Regulations 2006 (S.I. 2006/1932)](https://www.legislation.gov.uk/uksi/2006/1932), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1932/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2006/1932/regulation/5/b)
+
+[^c1601675]: Marginal citation: Section 24B was inserted by paragraph 4, and section 31 was amended by paragraph 7, of Schedule 3 to the Welfare Reform and Pensions Act 1999.
+
+[^c1601676]: Marginal citation: [S.I. 1996/1676](https://www.legislation.gov.uk/uksi/1996/1676).
+
+[^c1601677]: Marginal citation: [S.I. 1997/636](https://www.legislation.gov.uk/uksi/1997/636).

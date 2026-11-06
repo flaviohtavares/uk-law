@@ -1,0 +1,590 @@
+---
+title: The National Assembly for Wales (Transfer of Functions) Order 2000
+id: uksi/2000/253
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2000-02-08'
+text_date: '2005-01-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2000/253
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/253/pdfs/uksi_20000253_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/253/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Assembly for Wales (Transfer of Functions) Order 2000
+
+> Text as at 2005-01-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2000 No. 253
+
+CONSTITUTIONAL LAW
+
+DEVOLUTION, WALES
+
+The National Assembly for Wales (Transfer of Functions) Order 2000
+
+Made
+
+8th February 2000
+
+Coming into force in accordance with article 1(2)
+
+At the Court at Buckingham Palace, the 8th day of February 2000
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Whereas the draft of this Order has been laid before, and approved by a resolution of, each House of Parliament and the National Assembly for Wales :
+
+Now, therefore, Her Majesty, in pursuance of sections 22, 24(1), 42(4) and 151(2) of, and paragraphs 1, 3 and 9 of Schedule 3 to, the Government of Wales Act 1998[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^key-d782d1551c4f4762ab52a201866a3db1]
+
+## 1. Citation, commencement and interpretation[^key-879242f437e516fda024aafbbde791d0]
+
+(1) This Order may be cited as the National Assembly for Wales (Transfer of Functions) Order 2000.
+
+(2) This Order shall come into force on 16th February 2000 except that, in relation to the entry in Schedule 1 to this Order in respect of the Jobseekers Act 1995[^f00002], this Order shall come into force on 1st April 2000.
+
+(3) In this Order —
+
+- “the 1969 transfer order” means the Transfer of Functions (Wales) Order 1969[^f00003];
+- “the 1978 transfer order” means the Transfer of Functions (Wales) (No. 1) Order 1978[^f00004]);
+- “the 1999 transfer order” means the National Assembly for Wales (Transfer of Functions) Order 1999[^f00005];
+- “the Act” means the Government of Wales Act 1998;
+- “the Assembly” means the National Assembly for Wales;
+- “former function” means a function of the Assembly that was transferred to it by the 1999 transfer order but which, by virtue of article 4 of, and Schedule 3 to, this Order, ceases to be exercisable by the Assembly.
+
+## 2. Transfer of functions etc.[^key-5495bd949094e25f6126cb1a0fb2a6a5]
+
+(1) Except as provided in this article, all functions of a Minister of the Crown under the enactments specified in Schedule 1 to this Order are, to the extent there specified and so far as exercisable in relation to Wales, transferred to the Assembly and the provisions contained in Schedule 1, in relation to the enactments specified therein, shall have effect.
+
+(2) Where so directed in Schedule 1 functions exercisable by a Minister of the Crown shall, so far as exercisable in relation to Wales, be exercisable by the Assembly concurrently with the Minister.
+
+(3) It is directed that (except in the case of functions which are exercisable by the Assembly “jointly” with a Minister of the Crown) functions under any of the enactments specified in Schedule 1 which are exercisable by a Minister of the Crown in relation to a cross-border body but which, by their nature, are not functions which can be specifically exercised in relation to Wales, shall be exercisable by the Assembly in relation to that body concurrently with the Minister of the Crown.
+
+(4) Schedule 1 does not transfer any power under which provisions of an Act of Parliament may be brought into force by order made by a Minister of the Crown.
+
+(5) Schedule 1 does not transfer any functions of the Lord Chancellor or the Attorney General.
+
+## 3. Minister of the Crown functions exercisable with Assembly agreement[^key-71502055d33f8bc2cd48f03a61ede346]
+
+It is directed that the functions exercisable by a Minister of the Crown under the enactments specified in Schedule 2 to this Order shall, so far as they are exercisable in relation to Wales and as specified in the said Schedule, be exercisable by the Minister only with the agreement of the Assembly.
+
+## 4. Variation of the 1999 Transfer Order[^key-99c5bc233b4cfb3f964e169eb3c293e8]
+
+Schedule 3 (variation of the 1999 transfer order) to this Order shall have effect.
+
+## 5. Miscellaneous Provisions[^key-72172b353db50f256baa0e33a20c6050]
+
+A former function shall be exercisable by the Minister of the Crown by whom it was exercisable, in relation to Wales, immediately before 1st July 1999.
+
+**6.**[^key-dab0cf312028fe69ec320c93702ada66] (1) This article applies to any inquiry the procedures of which are prescribed by the Rules specified in Schedule 4 to this Order.
+
+(2) In relation to any inquiry to which this article applies, references in each of the said Rules to “government policy” shall have effect as if they included reference to policy adopted or formulated by the Assembly.
+
+(3) In relation to any inquiry to which this article applies and which is held or caused to be held other than by the Assembly, references to a government department shall have effect as if they included reference to the Assembly.
+
+(4) In the preceding paragraph (3), reference to an inquiry does not include an inquiry held by an inspector where jurisdiction to determine the appeal to which that inquiry relates has been transferred to the inspector by the Assembly.
+
+**7.**[^key-7ab870863c64894ca705b578519a617f] Schedule 5 (modification of enactments) to this Order shall have effect.
+
+**8.**[^key-dd02fba65d3ae87f9c12ea1f0cc19f71] Any reference in this Order to a function of a Minister of the Crown under an enactment includes a reference to any functions of that Minister which are included in any scheme, regulations, rules, order, bye-laws or other instrument having effect under or in relation to that enactment, and the power to confer functions on that Minister by any such scheme, regulations, rules, order, bye-laws or other instrument shall have effect as a power to confer such functions on the Assembly.
+
+**9.**[^key-818547cf47bb042effbd891ec7b3aec8] (1) This article applies where —
+
+- (a) any function under an enactment is expressly required to be exercised by two or more Ministers of the Crown acting jointly; and
+- (b) any transfer in respect thereof in this Order does not transfer to the Assembly the functions of all such Ministers of the Crown.
+
+(2) Where this article applies, section 42 of the Act shall not have effect to allow the function to be exercised by the Assembly otherwise than in accordance with the joint action requirement.
+
+## 10. Transfer of property etc.[^key-c7ea1b53fabe81e9e109bf1b7d343548]
+
+The provisions of section 23(1) of the Act shall not apply to any documentary or electronic records.
+
+**11.**[^key-d14df443d1b199312501e363a719ac88] (1) Subject to paragraph (2), Schedule 6 (transfer of property, rights, liabilities etc from the Assembly to Ministers of the Crown) shall have effect.
+
+(2) Schedule 6 does not apply to rights or liabilities relating to the employment of persons in Crown employment (as defined in section 191(3) of the Employment Rights Act 1996[^f00006]).
+
+## 12. Revocation[^key-31b66fda147d41f70e21de5a43f96b74]
+
+The National Assembly for Wales (Transfer of Functions) (No.2) Order 1999[^f00007] is revoked.
+
+A.K. Galloway
+
+Clerk of the Privy Council
+
+## SCHEDULE 1 — ENACTMENTS CONFERRING FUNCTIONS TRANSFERRED ETC. BY ARTICLE 2[^key-b4c8fdc9c9eef3da88851d57602213dc]
+
+Article 2
+
+### Public General Acts[^M_I_ead8b703-d462-49c4-f8f8-5c8c43a65114]
+
+- **Board of Agriculture Act [1889 (c. 30)](https://www.legislation.gov.uk/ukpga/1889/30)** in respect of the function exercisable by the Secretary of State by the 1978 transfer order.
+- **Minister of Food (Financial Powers) Act [1949 (c. 15)](https://www.legislation.gov.uk/ukpga/1949/15)** in respect of the function exercisable by the Secretary of State by the 1978 transfer order.
+- **Agriculture (Miscellaneous Provisions) Act [1968 (c. 34)](https://www.legislation.gov.uk/ukpga/1968/34)** section 45 so far as transferred to the Secretary of State for Wales by the 1969 transfer order and the 1978 transfer order. Article 2(3) of this Order shall not have effect in relation to the functions under this section[^f00008]
+- **Town and Country Planning Act 1971 (c .78)** sections 250 to 252[^f00009]
+- **Transport Act [1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67)** section 111[^f00010].
+- **Housing and Planning Act [1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63)** No functions are transferred but it is directed that the functions under section 42 shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom they are exercisable.
+- **Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43)** the functions of the Minister of Agriculture, Fisheries and Food under Part VI[^f00011].
+- **Jobseekers Act [1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18)** section 30.
+- **School Inspections Act [1996 (c. 57)](https://www.legislation.gov.uk/ukpga/1996/57)** in respect of section 4(4) and paragraph 3 of Schedule 1. The “Minister of the Civil Service” approval requirement under paragraph 3(4) of Schedule 1 shall continue in effect[^f00012].
+- **School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31)** section 144[^f00013]
+- **Tax Credits Act [1999 (c. 10)](https://www.legislation.gov.uk/ukpga/1999/10)** section 15 so far as it confers on the Secretary of State the function of accrediting organisations in accordance with criteria determined by or under a scheme made under that section.
+
+### Statutory Instruments[^M_I_ab6594b8-a81d-4521-f15c-525a8c4ee99f]
+
+- **The Sheep and Goats (Removal to Northern Ireland) Regulations 1983 (S.I. [1983/1158](https://www.legislation.gov.uk/uksi/1983/1158))**
+- **The Sea Fish (Marketing Standards) Regulations 1986 (S.I. [1986/1272](https://www.legislation.gov.uk/uksi/1986/1272))**[^f00014]
+- **The Harbour Works (Assessment of Environmental Effects) (No.2) Regulations 1989 (S.I. [1989/424](https://www.legislation.gov.uk/uksi/1989/424))** in respect of the functions of the Secretary of State for Wales[^f00015]
+- **The Sludge (Use in Agriculture) Regulations 1989 (S.I. [1989/1263](https://www.legislation.gov.uk/uksi/1989/1263))**[^f00016]
+- **The Spirit Drinks Regulations 1990 (S.I. [1990/1179](https://www.legislation.gov.uk/uksi/1990/1179))**
+- **The Beef Carcase (Classification) Regulations 1991 (S.I. [1991/2242](https://www.legislation.gov.uk/uksi/1991/2242))**[^f00017]
+- **The Community Agricultural Policy (Protection of Community Arrangements) Regulations 1992 (S.I. [1992/314](https://www.legislation.gov.uk/uksi/1992/314))**
+- **The Organic Products Regulations 1992 (S.I. [1992/2111](https://www.legislation.gov.uk/uksi/1992/2111))**[^f00018]
+- **The Zootechnical Standards Regulations 1992 (S.I. [1992/2370](https://www.legislation.gov.uk/uksi/1992/2370))**
+- **The Horses (Zootechnical Standards) Regulations 1992 (S.I. [1992/3045](https://www.legislation.gov.uk/uksi/1992/3045))**
+- **The Genetically Modified Organisms (Deliberate Release) Regulations 1992 (S.I. [1992/3280](https://www.legislation.gov.uk/uksi/1992/3280))**[^f00019]
+- **The Diseases of Fish (Control) Regulations 1994 (S.I. [1994/1447](https://www.legislation.gov.uk/uksi/1994/1447))**
+- **The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) Regulations 1994 (S.I. [1994/1985](https://www.legislation.gov.uk/uksi/1994/1985))** except the functions exercisable by the Minister of Agriculture, Fisheries and Food[^f00020]
+- **The Pig Carcase (Grading) Regulations 1994 (S.I. [1994/2155](https://www.legislation.gov.uk/uksi/1994/2155))**
+- **The Urban Waste Water Treatment (England and Wales) Regulations 1994 (S.I. [1994/2841](https://www.legislation.gov.uk/uksi/1994/2841))** save that the function under regulation 4(3)(b) is transferred to the Assembly in relation to any sewerage undertaker whose area is wholly or mainly in Wales.
+- **The Infant Formula and Follow on Formula Regulations 1995 (S.I. [1995/77](https://www.legislation.gov.uk/uksi/1995/77))** regulation 21[^f00021]
+- **The Surplus Food Regulations 1995 (S.I. [1995/184](https://www.legislation.gov.uk/uksi/1995/184))**
+- **The Fresh Meat (Hygiene and Inspection) Regulations 1995 (S.I. [1995/539](https://www.legislation.gov.uk/uksi/1995/539))**[^f00022]
+- **The Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995 (S.I. [1995/540](https://www.legislation.gov.uk/uksi/1995/540))**[^f00023]
+- **The Fisheries and Aquaculture Structures (Grants) Regulations 1995 (S.I. [1995/1576](https://www.legislation.gov.uk/uksi/1995/1576))**[^f00024]
+- **The Marketing of Vegetable Plant Material Regulations 1995 (S.I. [1995/2652](https://www.legislation.gov.uk/uksi/1995/2652))** in respect of the functions of the Secretary of State.
+- **The Marketing of Fruit Plant Material Regulations 1995 (S.I. [1995/2653](https://www.legislation.gov.uk/uksi/1995/2653))** in respect of the functions of the Secretary of State.
+- **The Beef (Marketing Payment) Regulations 1996 (S.I. [1996/2005](https://www.legislation.gov.uk/uksi/1996/2005))**[^f00025]
+- **The Beef (Marketing Payment) (No.2) Regulations 1996 (S.I. [1996/2999](https://www.legislation.gov.uk/uksi/1996/2999))**[^f00026]
+- **The Products of Animal Origin (Import and Export) Regulations 1996 (S.I. [1996/3124](https://www.legislation.gov.uk/uksi/1996/3124))** in respect of
+  - (a) the functions of “the Secretary of State for Wales”; and
+  - (b) in regulations 6,13,37 and 39, the functions of “the Secretary of State” [^f00027].
+- **The Beef Special Premium Regulations 1996 (S.I. [1996/3241](https://www.legislation.gov.uk/uksi/1996/3241))**[^f00028]
+- **The Bovine Hides Regulations 1997 (S.I. [1997/813](https://www.legislation.gov.uk/uksi/1997/813))**
+- **The Fish Health Regulations 1997 (S.I. [1997/1881](https://www.legislation.gov.uk/uksi/1997/1881))**
+- **The Veal (Marketing Payment) Regulations 1997 (S.I. [1997/1986](https://www.legislation.gov.uk/uksi/1997/1986))**
+- **The Charges for Inspections and Controls Regulations 1997 (S.I. [1997/2893](https://www.legislation.gov.uk/uksi/1997/2893))**[^f00029]
+- **The Animals and Animal Products (Import and Export) Regulations 1998 (S.I. [1998/190](https://www.legislation.gov.uk/uksi/1998/190))** except the functions exercisable by the Minister of Agriculture, Fisheries and Food
+- **The Fertilisers (Mammalian Meat and Bone Meal) (Conditions of Manufacture) Regulations 1998 (S.I. [1998/955](https://www.legislation.gov.uk/uksi/1998/955))**
+- **The Food Safety (Fishery Products and Live Shellfish) (Hygiene) Regulations 1998 (S.I. [1998/994](https://www.legislation.gov.uk/uksi/1998/994))** in respect of the functions of —
+  - (a) “the Minister”; and
+  - (b) “the Ministers” so far as exercisable by the Secretary of State for Wales.
+- **The Apple and Pear Orchard Grubbing Up Regulations 1998 (S.I. [1998/1131](https://www.legislation.gov.uk/uksi/1998/1131))**
+- **The Sheep and Goats Spongiform Encephalopathy Regulations 1998 (S.I. [1998/1646](https://www.legislation.gov.uk/uksi/1998/1646))** except the functions of “the Minister”.
+- **The Environmental Assessment (Forestry) Regulations 1998 (S.I. [1998/1731](https://www.legislation.gov.uk/uksi/1998/1731))**
+- **The Cattle Database Regulations 1998 (S.I. [1998/1796](https://www.legislation.gov.uk/uksi/1998/1796))**
+- **The Employers' Liability (Compulsory Insurance) Regulations 1998 (S.I. [1998/2573](https://www.legislation.gov.uk/uksi/1998/2573))** No functions are transferred but it is directed that the function under paragraph 1 of Schedule 2 to the Regulations shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom it is exercisable[^f00030].
+- **The BSE Offspring Slaughter Regulations 1998 (S.I. [1998/3070](https://www.legislation.gov.uk/uksi/1998/3070))** except the functions of “the Minister”.
+- **The Miscellaneous Products of Animal Origin (Import Conditions) Regulations 1999 (S.I. [1999/157](https://www.legislation.gov.uk/uksi/1999/157))**
+- **The Bovines and Bovine Products (Trade) Regulations 1999 (S.I. [1999/1103](https://www.legislation.gov.uk/uksi/1999/1103))**[^f00031]
+- **The Marketing of Ornamental Plant Material Regulations 1999 (S.I. [1999/180](https://www.legislation.gov.uk/uksi/1999/180)**
+
+## SCHEDULE 2 — ENACTMENTS SUBJECT TO CONSTRAINT ON MINISTERIAL EXERCISE OF FUNCTIONS[^key-be2460d013bc1acb41da37ddcda52583]
+
+Article 3
+
+### Tax Credits Act [1999 (c. 10)](https://www.legislation.gov.uk/ukpga/1999/10)[^M_I_ca0da9ef-3e0d-46d9-bd5c-6100a1a25bce]
+
+The function of the Secretary of State of making regulations under section 15 shall be exercisable only with the agreement of the Assembly.
+
+### Disability Rights Commission Act [1999 (c. 17)](https://www.legislation.gov.uk/ukpga/1999/17)[^M_I_2594a11f-1553-414e-b636-ed9eb2c75105]
+
+The function of the Secretary of State under paragraph 2 of Schedule 1 of making appointments to the Disability Rights Commission shall be exercisable only with the agreement of the Assembly so far as necessary to ensure that there is at all times one Commissioner who has been appointed with the agreement of the Assembly.
+
+## SCHEDULE 3 — VARIATION OF THE 1999 TRANSFER ORDER[^key-b2dfa7e86e7a28d232efb5750e8f2a4c]
+
+Article 4
+
+[^key-b2dfa7e86e7a28d232efb5750e8f2a4c]
+
+Schedule 1 to the 1999 transfer order is varied as follows :
+
+- (a) In the entry for the Harbours Act [1964 (c. 40)](https://www.legislation.gov.uk/ukpga/1964/40), insert “14,” before “15” and omit the second paragraph.
+- (b) for the entry for the Mental Health Act [1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20) substitute
+
+  > - **Mental Health Act [1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20)** except sections 41,42,45A (10) and (11), 45B to 51,
+  >
+  >   53, 71, 73 to 75, 80A, 81A, ,82A, 83A, 84, 85A, 86, and Schedule 2.
+  >
+  >   Functions under sections 80, 81 and 83 are transferred except in relation to a patient who is subject to one or more of the following, namely:
+  >
+  >   - (a) a restriction order;
+  >   - (b) a hospital direction;
+  >   - (c) a limitation direction; or
+  >   - (d) a restriction direction,
+  >
+  >   made under sections 41, 45A or, as the case may be, 49.
+  >
+  >   In section 19(3) and in paragraph (a) in the definition of “the managers” in section 145(1), references to a hospital vested in the Secretary of State for the purposes of his functions under the National Health Service Act 1977 shall have effect as if they included a reference to a hospital vested in the Assembly for purposes of its functions under that Act.
+  >
+  >   Section 23 (4) and (5) shall not apply to the exercise by the Assembly of the powers conferred by that section.
+  >
+  >   Section 24(3) shall have effect as if it applied to an application by the Assembly as well as to an application by the Secretary of State.
+  >
+  >   Sections 54(1) and 117(2A)(a) shall have effect as if references to a registered medical practitioner approved for the purposes of section 12 by the Secretary of State (including references to be construed as such) included a reference to such a practitioner approved by the Assembly.
+  >
+  >   Section 139(4) shall have effect as if after the words “the Secretary of State” there were inserted “the National Assembly for Wales”.
+  >
+  >   Section 142(1) shall have effect as if the reference to a government department included a reference to the Assembly.
+  >
+  >   The Treasury approval requirements under sections 119(1), 120(6) and 121(6) shall continue in effect so far as they relate to pensions.
+
+  .
+- (c) for the entry for the Building Act [1984 (c. 55)](https://www.legislation.gov.uk/ukpga/1984/55) substitute —
+
+  > - **Building Act [1984 (c. 55)](https://www.legislation.gov.uk/ukpga/1984/55)** except —
+  >   - (a) sections 1,2,3(1), 5(1), 6,8(2), (3) and (6), 9(1), 11 to 13, 14, and 16(9);
+  >   - (b) section 16(10) so far as it relates to the function of prescribing fees;
+  >   - (c) sections 17 and 19(7);
+  >   - (d) section 20(5) so far as it relates to the function of prescribing the time and manner of appeals;
+  >   - (e) sections 20(10),35, 38(1), 43(3), 44, 47 to 49, 50 (except subsection (2)), 51 to 58, 92, 120 and Schedules 1 and 4; and
+  >   - (f) the Treasury function under section 87(4)
+  >
+  >   The Treasury approval requirement under section 87(3) shall continue in effect.
+
+  .
+- (d) for the entry for the Town and Country Planning Act [1990 (c. 8)](https://www.legislation.gov.uk/ukpga/1990/8) substitute —
+
+  > - **Town and Country Planning Act [1990 (c. 8)](https://www.legislation.gov.uk/ukpga/1990/8)** except —
+  >   - (a) section 90(2);
+  >   - (b) the functions of the Ministers of the Crown other than the Secretary of State for Wales under sections 90(1), 101 and Schedule 8, 170(12), 238(1)(a), 239(1)(a), 241(1)(a), 263(3) and (4), 266, 268, 279(5) and (6), 305, 325 (9) and 336(3);
+  >   - (c) the functions of the Secretary of State for Trade and Industry under section 272(5) and (6); and
+  >   - (d) the Treasury functions under sections 293(3) and 336(2).
+  >
+  >   The requirement to consult the Lord Chancellor under section 20(5) shall continue in effect.
+  >
+  >   The functions of the Secretary of State as “the appropriate Minister” (in pursuance of the definition in section 265) are only transferred so far as they relate to water and sewerage undertakers.
+  >
+  >   It is directed that the functions under sections 304 and 321 shall be exercisable by the Assembly concurrently with the Secretary of State. The functions under section 304 shall be exercisable by the Assembly free from the requirement for Treasury consent.
+  >
+  >   The Treasury approval requirement under section 297(3) shall continue in effect.
+  >
+  >   The functions under sections 238, 239 and 241 shall apply to land vested in the Assembly under section 23 of the Government of Wales Act 1998 or otherwise which was acquired by a Minister of the Crown or other government department before it was so vested, as it applies to land acquired by the Assembly.
+  >
+  >   Paragraph 8(2)(b) of Schedule 6 shall have effect as if the references to the Welsh Office were references to the Assembly and in relation thereto the reference to the Parliamentary Commissioner Act [1967 (c. 13)](https://www.legislation.gov.uk/ukpga/1967/13) shall have effect as if it were a reference to Schedule 9 to the Government of Wales Act 1998.
+
+  .
+- (e) for the entry for the Water Industry Act 1991 substitute —
+
+  > - **Water Industry Act [1991 (c. 56)](https://www.legislation.gov.uk/ukpga/1991/56)** except sections 1, 14, 15, 17, 24(2)(d), 27(3), 32 to 35, 92, 152(2), 193(3), 206(3)(e) and Schedules 1 and 4.
+  >
+  >   Functions under sections 2, 5, 6 to 13, 18 to 22, 24 (except 24(2)(d)), 26, 37 to 39, 65, 68 to 70, 74, 93A, 94 to 96, 101A, 103, 104, 143(3A), (7) and (8), 143A, 144A, 144B, 149, 150A, 153, 154, 156, 182, 195, 198 to 203, 205 and Schedule 5 are transferred to the Assembly, in relation to any water or sewerage undertaker whose area is wholly or mainly in Wales.
+  >
+  >   The function under section 28(4) is transferred in relation to the customer service committee to which is allocated any water or sewerage undertaker whose area is wholly or mainly in Wales.
+  >
+  >   Functions under section 67 are transferred to the Assembly as follows —
+  >
+  >   - (a) for the making of regulations concerning water supplied by water undertakers, the function is transferred in relation to any water undertaker whose area is wholly or mainly in Wales;
+  >   - (b) for the making of regulations concerning water supplied other than by a water undertaker, the function is transferred in relation to Wales.
+  >
+  >   Functions under sections 3, 86, 213 to 215 and paragraph 11(3)(b) of Schedule 6 shall be exercisable by the Assembly to the same extent as the powers, duties and other provisions to which those sections apply are exercisable by the Assembly.
+  >
+  >   In respect of the functions under sections 155, 167, 169(4) and (5) and Schedule 11 it is provided as follows —
+  >
+  >   - (a) functions under these provisions so far as relating to matters concerning the construction or enlargement of reservoirs are transferred to the Assembly in relation to Wales;
+  >   - (b) functions under these provisions so far as relating to matters other than the construction or enlargement of reservoirs are transferred to the Assembly in relation to such parts of Wales as are outside the catchment areas of the rivers Dee, Wye and Severn;
+  >   - (c) it is directed that functions under these provisions so far as relating to matters other than the construction or enlargement of reservoirs shall, in relation to such parts of Wales as are within the catchment areas of the rivers Dee, Wye and Severn, be exercisable by the Assembly concurrently with the Secretary of State.
+  >
+  >   The functions under section 208 of giving directions for the purpose of mitigating the effects of any civil emergency and the function of enforcing such directions are transferred to the Assembly in relation to any water or sewerage undertaker whose area is wholly or mainly in Wales and it is directed that the other functions under section 208 shall be exercisable by the Assembly concurrently with the Secretary of State in relation to any such undertakers.
+  >
+  >   It is directed that functions under sections 19(4), 20(9), 27(4), 207 and 221(4) shall be exercisable by the Assembly concurrently with the Ministers of the Crown by whom they are exercisable.
+  >
+  >   It is directed that the functions under section 152(1) shall be exercisable by the Assembly concurrently with the Secretary of State in relation to any water or sewerage undertaker whose area is wholly or mainly in Wales and it shall be so exercisable free from the Treasury approval requirement under section 152(2).
+  >
+  >   Article 2(c) of this Order shall not have effect in relation to those functions which, under the above provisions, are transferred to the Assembly in relation to any water or sewerage undertaker whose area is wholly or mainly in Wales.
+
+  .
+- (f) for the entry for the Nurses, Midwives and Health Visitors Act 1997, substitute —
+
+  > - **Nurses, Midwives and Health Visitors Act [1997 (c. 24)](https://www.legislation.gov.uk/ukpga/1997/24)** sections 5, 6(1)(e) and 17 so far as they relate to the Welsh National Board for Nursing, Midwifery and Health Visiting (“the Board”).
+  >
+  >   The functions under section 18 are transferred (so far as they relate to the Board) in relation to financial years beginning in and after 1999 except that in respect of section 18(6) they are transferred in relation to annual reports of the Board for years commencing on 1st April 1999 and after
+  >
+  >   The Treasury consent requirement under section 5(5), so far as it relates to pensions, and the Treasury approval requirement under section 18(1)(b), shall continue in effect.
+  >
+  >   The functions of the Comptroller and Auditor General in section 18(2), (4), (5) and (7) are, in relation to statements of account prepared by the Board for financial years beginning in and after 1999, transferred to the Auditor General for Wales.
+
+  .
+- (g) the entry in relation to the Data Protection Act [1998 (c. 29)](https://www.legislation.gov.uk/ukpga/1998/29) shall be omitted.
+
+## SCHEDULE 4 — INQUIRIES PROCEDURE RULES[^key-9263bb13230884d3ea3ccfba371a4415]
+
+Article 6
+
+[^key-9263bb13230884d3ea3ccfba371a4415]
+
+- **The Town and Country Planning (Inquiries Procedure) Rules 1974 (S.I. [1974/419](https://www.legislation.gov.uk/uksi/1974/419))**
+- **The Drought Orders (Inquiries Procedure) Rules 1984 (S.I. [1984/999](https://www.legislation.gov.uk/uksi/1984/999))**
+- **The Road Humps (Secretary of State) (Inquiries Procedure) Rules 1986 (S.I. [1986/1957](https://www.legislation.gov.uk/uksi/1986/1957))**
+- **The Compulsory Purchase by Non-Ministerial Acquiring Authorities (Inquiries Procedure) Rules 1990 (S.I. [1990/512](https://www.legislation.gov.uk/uksi/1990/512))**
+- **The Public Libraries (Inquiries Procedure) Rules 1992 (S.I. [1992/1627](https://www.legislation.gov.uk/uksi/1992/1627))**
+- **The Town and Country Planning (Enforcement) (Inquiries Procedure) Rules 1992 (S.I. [1992/1903](https://www.legislation.gov.uk/uksi/1992/1903))**
+- **The Town and Country Planning (Inquiries Procedure) Rules 1992 (S.I. [1992/2038](https://www.legislation.gov.uk/uksi/1992/2038))**
+- **The Town and Country Planning Appeals (Determination by Inspectors) (Inquiries Procedure) Rules 1992 (S.I. [1992/2039](https://www.legislation.gov.uk/uksi/1992/2039))**
+- **The Transport and Works (Inquiries Procedure) Rules 1992 (S.I. [1992/2817](https://www.legislation.gov.uk/uksi/1992/2817))**
+- **The Highways (Inquiries Procedure) Rules 1994 (S.I. [1994/3263](https://www.legislation.gov.uk/uksi/1994/3263))**
+- **The Compulsory Purchase by Ministers (Inquiries Procedure) Rules 1994 (S.I. [1994/3264](https://www.legislation.gov.uk/uksi/1994/3264))**
+
+## SCHEDULE 5 — MODIFICATION OF ENACTMENTS
+
+Article 7
+
+### 1. The Dentists Act [1984 (c. 24)](https://www.legislation.gov.uk/ukpga/1984/24)[^key-51d7ffa1761d922accd32af217615bb8]
+
+In paragraph 1(2)(b) of Schedule 1 to the Dentists Act 1984 (General Dental Council and Committees of the Council: supplementary provisions) for “the Welsh Office” substitute “the National Assembly for Wales”.
+
+### 2. The Housing and Planning Act [1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63)[^key-97784884b57549556f24bcb3eab65f27]
+
+Section 42 (recovery of Minister’s costs in connection with inquiries) shall have effect as if in subsection (2)(b) the reference to “government department” included reference to the Assembly.
+
+### 3. Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14)[^key-390ef868209e237cfd47f2d93f7fb61f]
+
+In section 6(6)(b) of the Social Security Act 1998 (panel for appointment to appeal tribunals) for “Welsh Office” substitute “National Assembly for Wales”.
+
+**4.**[^key-73a37b79a1fff613e93bea9ff8ae2bc8] In paragraph 8(2)(b) of Schedule 1 to that Act of 1998 (appeal tribunals: supplementary provisions) for “Welsh Office” substitute “National Assembly for Wales”.
+
+### 5. The Novel Foods and Novel Food Ingredients Regulations 1997 (S.I. [1997/1335](https://www.legislation.gov.uk/uksi/1997/1335))[^key-39446d80076b763036bf666b4a7c4090][^f00032]
+
+In regulation 3 of the Novel Foods and Novel Food Ingredients Regulations 1997 —
+
+- (a) at the end of paragraph (1)(a) omit “and”;
+- (b) in paragraph (1)(b) omit “and Wales” in both places; and
+- (c) after paragraph (1)(b) add, and,
+
+  > - (c) where placing on the market for the first time in Wales, shall be submitted for processing to the National Assembly for Wales who shall be the food assessment body in Wales for the purposes of that Regulation.
+
+  .
+
+### 6. The Novel Foods and Novel Food Ingredients (Fees) Regulations 1997 (S.I. [1997/1336](https://www.legislation.gov.uk/uksi/1997/1336))[^key-ef25ff444de582330c4ce5989026cc03][^f00033]
+
+In Regulation 3(1) of the Novel Foods and Novel Food Ingredients (Fees) Regulations 1997 —
+
+- (a) after “to the Secretary of State for Scotland or” (where it first appears) insert “to the National Assembly for Wales or”;
+- (b) after “or, as the case may be,” insert “to the Assembly or to”; and
+- (c) omit “, in connection with the services provided by him acting jointly with the Secretary of State for Health as the food assessment body for the purposes of that Regulation,”.
+
+**7.**[^key-74ef1018689ab29c0663c0876144fca9] After regulation 3(2), add as follows —
+
+> (3) The appropriate fee payable to the Minister under paragraph (1) above shall be in connection with the services provided by him acting jointly with the Secretary of State for Health as the food assessment body for the purposes of the said Regulation [(EC) No. 258/97](https://www.legislation.gov.uk/european/regulation/1997/0258).
+
+.
+
+### 8. Employers' Liability (Compulsory Insurance) Regulations 1998 (S.I. [1998/2573](https://www.legislation.gov.uk/uksi/1998/2573))[^key-140f2ddf8229f59f471e140429b25a05][^f00034]
+
+(1) Paragraph 1 of Schedule 2 (employers exempted from insurance) to the Employers' Liability (Compulsory Insurance) Regulations 1998 is amended as follows.
+
+(2) After “the Scottish Ministers” (where it first occurs) insert “or the National Assembly for Wales”.
+
+(3) After “the Scottish Consolidated Fund” insert “or, in the case of a certificate issued by the National Assembly for Wales, out of monies provided by that Assembly”.
+
+## SCHEDULE 6 — TRANSFER OF PROPERTY, RIGHTS, LIABILITIES ETC, FROM THE ASSEMBLY TO MINISTERS OF THE CROWN
+
+Article 11
+
+**1.**[^key-76dbc028732e91a492679b1b591f2d1d] There shall be transferred to and vest in a Minister of the Crown all property, rights and liabilities to which the Assembly is entitled or subject, at the coming into force of this Order, in connection with any function exercisable by the Assembly which is transferred to that Minister by virtue of articles 4 and 5 of, and Schedule 3 to, this Order.
+
+**2.**[^key-a87e07419baabb0ed2c98db5d6d773a8] There may be continued by or in relation to a Minister of the Crown anything (including legal proceedings) which relates to—
+
+- (a) any function exercisable by the Assembly which is so transferred by this Order to that Minister, or
+- (b) any property, rights or liabilities transferred by paragraph 1,
+
+and which is in the process of being done by or in relation to the Assembly immediately before the coming into force of this Order.
+
+**3.**[^key-7a1c0883bfb445358aa7249b2e88e323] Anything which was done by the Assembly for the purpose of or in connection with —
+
+- (a) any function exercisable by the Assembly which is transferred by this Order,
+  - or
+- (b) any property, rights or liabilities transferred by paragraph 1,
+
+and which is in effect immediately before the coming into force of this Order shall have effect as if done by the Minister of the Crown to whom the functions are transferred by this Order.
+
+**4.**[^key-aa30fc9b68a1189236668bd8a414e399] The Minister of the Crown to whom any function of the Assembly is transferred by this Order shall be substituted for the Assembly in any instruments, contracts or legal proceedings which relate to—
+
+- (a) any function exercisable by the Assembly which is transferred to that Minister by this Order, or
+- (b) any property, rights or liabilities transferred by paragraph 1,
+
+and which are made or commenced before the coming into force of this Order.
+
+(This note is not part of the Order)
+
+Article 2(1) of, and Schedule 1 to, the Order provide (subject to the following provisions of article 2) for the exercise by the National Assembly for Wales (“the Assembly”) of statutory functions currently vested in Ministers of the Crown. All functions are vested in the Assembly for exercise in relation to Wales.
+
+The functions which become exercisable by the Assembly in pursuance of this Order are functions under the enactments listed in Schedule 1. Listing is as follows –
+
+- Public Acts are listed first followed by a list of statutory instruments;
+- all enactments are listed in chronological order;
+
+Article 2(2) provides that certain functions are to be exercisable by the Assembly concurrently with a Minister of the Crown.
+
+Article 2(3) provides generally that functions exercisable in relation to a cross-border body which, by their nature are not functions which can be specifically exercised in relation to Wales, are to be exercisable by the Assembly in relation to that body rather than in relation to Wales and are to be exercisable concurrently with the Minister of the Crown by whom they are exercisable.
+
+Article 2(4) excludes from transfer any power under which provisions of an Act may be brought into force by order.
+
+Article 2(5) excludes from transfer any functions of the Lord Chancellor or the Attorney General.
+
+Article 3 of and Schedule 2 to the Order provide, in pursuance of section 22(1)(c) of the Government of Wales Act 1998, that functions of a Minister of the Crown under the enactments specified in Schedule 2 are to be exercisable in relation to Wales only with the agreement of the Assembly.
+
+Article 4 of and Schedule 3 to the Order provides for variation of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)) in relation to entries for certain Acts in Schedule 1 to that Order.
+
+Article 5 provides that, where a function that had been transferred to the Assembly by S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672) ceases to be exercisable by it by virtue of the Order, the function shall be exercisable by the Minister of the Crown by whom it was exercisable in relation to Wales immediately before 1st July 1999 (being the date that S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672) transferred the function to the Assembly).
+
+Article 6 applies to the Assembly and its policies certain provisions applicable to government departments and government policy in the various inquiry procedure Rules specified in Schedule 4 to the Order.
+
+Article 7 of, and Schedule 5 to, the Order modify certain enactments.
+
+Article 8 provides that the vesting in the Assembly of functions exercisable under any enactment includes functions exercisable by virtue of subordinate legislation made thereunder.
+
+Article 9 provides that section 42 of the Government of Wales Act 1998 shall not empower a function to be exercised by the Assembly on its own in cases where there is a statutory requirement for joint action which has been preserved by not transferring to the Assembly the function of all the Ministers who are required to act jointly.
+
+Article 10 provides for the exclusion of documentary or electronic records from transfer to the Assembly as would otherwise take place by virtue of section 23 of the Government of Wales Act 1998 (general transfer of property, right and liabilities etc.).
+
+Article 11 of, and Schedule 6 to, the Order provide for the transfer to Ministers of the Crown of property, rights, liabilities etc. of the Assembly in relation to those functions that are transferred to Ministers of the Crown in consequence of the functions ceasing to be exercisable by the Assembly by virtue of the Order.
+
+Article 12 revokes the National Assembly for Wales (Transfer of Functions) (No. 2) Order 1999 (S.I. [1999/2787](https://www.legislation.gov.uk/uksi/1999/2787)). This is in consequence of the new entry for the Water Industry Act 1991 inserted into S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672) by Schedule 3 to the Order. That new entry in varying the original entry for that Act in S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672) has included the functions transferred under S.I. [1999/2787](https://www.legislation.gov.uk/uksi/1999/2787).
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
+
+[^key-d782d1551c4f4762ab52a201866a3db1]: Modification: Order modified (1.1.2005) by [The Town and Country Planning (Electronic Communications) (Wales) (No. 1) Order 2004 (S.I. 2004/3156)](https://www.legislation.gov.uk/uksi/2004/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3156/article/1/1), [14](https://www.legislation.gov.uk/uksi/2004/3156/article/14)
+
+[^key-879242f437e516fda024aafbbde791d0]: Commencement: Art. 1 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^f00002]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^f00003]: Footnote: S.I. [1969/388](https://www.legislation.gov.uk/uksi/1969/388).
+
+[^f00004]: Footnote: S.I. [1978/272](https://www.legislation.gov.uk/uksi/1978/272).
+
+[^f00005]: Footnote: S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672).
+
+[^key-5495bd949094e25f6126cb1a0fb2a6a5]: Commencement: Art. 2 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-71502055d33f8bc2cd48f03a61ede346]: Commencement: Art. 3 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-99c5bc233b4cfb3f964e169eb3c293e8]: Commencement: Art. 4 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-72172b353db50f256baa0e33a20c6050]: Commencement: Art. 5 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-dab0cf312028fe69ec320c93702ada66]: Commencement: Art. 6 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-7ab870863c64894ca705b578519a617f]: Commencement: Art. 7 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-dd02fba65d3ae87f9c12ea1f0cc19f71]: Commencement: Art. 8 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-818547cf47bb042effbd891ec7b3aec8]: Commencement: Art. 9 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-c7ea1b53fabe81e9e109bf1b7d343548]: Commencement: Art. 10 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-d14df443d1b199312501e363a719ac88]: Commencement: Art. 11 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^f00006]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^key-31b66fda147d41f70e21de5a43f96b74]: Commencement: Art. 12 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^f00007]: Footnote: S.I. [1999/2787](https://www.legislation.gov.uk/uksi/1999/2787).
+
+[^key-b4c8fdc9c9eef3da88851d57602213dc]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2000/253/schedule/1/crossheading) in force at 16.2.2000 for specified purposes and 1.4.2000 otherwise, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^M_I_ead8b703-d462-49c4-f8f8-5c8c43a65114]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2000/253/schedule/1/crossheading) in force at 16.2.2000 for specified purposes and 1.4.2000 otherwise, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^f00008]: Footnote: *See* Schedule 1 to the 1999 transfer order as to other provisions made in respect of this Act of 1968.
+
+[^f00009]: Footnote: [1971 c. 78](https://www.legislation.gov.uk/ukpga/1971/78). Sections 250 to 252 are continued in force by section 48(2)(b) of the Housing and Planning Act [1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63) and by paragraph 2(1) of Schedule 3 to the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11).
+
+[^f00010]: Footnote: *See* Schedule 1 to the 1999 transfer order as to other provision made in respect of this Act of 1985.
+
+[^f00011]: Footnote: *See* Schedules 1 and 2 to the 1999 transfer order as to other provision made in respect of this Act of 1990.
+
+[^f00012]: Footnote: *See* Schedule 1 to the 1999 transfer order as to other provision made in respect of this Act of 1996.
+
+[^f00013]: Footnote: *See* Schedule 1 to the 1999 transfer order as to other provision made in respect of this Act of 1998.
+
+[^M_I_ab6594b8-a81d-4521-f15c-525a8c4ee99f]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2000/253/schedule/1/crossheading) in force at 16.2.2000 for specified purposes and 1.4.2000 otherwise, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^f00014]: Footnote: S.I. [1986/1272](https://www.legislation.gov.uk/uksi/1986/1272) amended by S.I.s [1989/687](https://www.legislation.gov.uk/uksi/1989/687) and [1994/452](https://www.legislation.gov.uk/uksi/1994/452).
+
+[^f00015]: Footnote: S.I. [1989/424](https://www.legislation.gov.uk/uksi/1989/424) amended by S.I. [1996/1946](https://www.legislation.gov.uk/uksi/1996/1946).
+
+[^f00016]: Footnote: S.I. [1989/1263](https://www.legislation.gov.uk/uksi/1989/1263) amended by S.Is [1990/880](https://www.legislation.gov.uk/uksi/1990/880) and [1996/593](https://www.legislation.gov.uk/uksi/1996/593).
+
+[^f00017]: Footnote: [S.I.1991/2242](https://www.legislation.gov.uk/uksi/1991/2242) amended by [S.Is 19942853](https://www.legislation.gov.uk/uksi/1994/2853) and [1998/12](https://www.legislation.gov.uk/uksi/1998/12).
+
+[^f00018]: Footnote: S.I. [1992/2111](https://www.legislation.gov.uk/uksi/1992/2111) amended by S.Is [1993/405](https://www.legislation.gov.uk/uksi/1993/405), [1994/2286](https://www.legislation.gov.uk/uksi/1994/2286) and [1997/166](https://www.legislation.gov.uk/uksi/1997/166).
+
+[^f00019]: Footnote: [S.I 1992/3280](https://www.legislation.gov.uk/uksi/1992/3280) amended by [S.Is 1995/304](https://www.legislation.gov.uk/uksi/1995/304) and [1997/1900](https://www.legislation.gov.uk/uksi/1997/1900).
+
+[^f00020]: Footnote: S.I. [1994/1985](https://www.legislation.gov.uk/uksi/1994/1985) amended by S.Is [1995/1483](https://www.legislation.gov.uk/uksi/1995/1483), [1996/1487](https://www.legislation.gov.uk/uksi/1996/1487), [1998/2922](https://www.legislation.gov.uk/uksi/1998/2922) and [1999/1109](https://www.legislation.gov.uk/uksi/1999/1109).
+
+[^f00021]: Footnote: There are amendments to S.I. [1995/77](https://www.legislation.gov.uk/uksi/1995/77) which are not relevent to this order.
+
+[^f00022]: Footnote: S.I. [1995/539](https://www.legislation.gov.uk/uksi/1995/539) amended by S.Is [1995/731](https://www.legislation.gov.uk/uksi/1995/731), [1995/1763](https://www.legislation.gov.uk/uksi/1995/1763), [1995/2148](https://www.legislation.gov.uk/uksi/1995/2148), [1995/2200](https://www.legislation.gov.uk/uksi/1995/2200), [1995/3124](https://www.legislation.gov.uk/uksi/1995/3124), [1995/3189](https://www.legislation.gov.uk/uksi/1995/3189), [1996/1148](https://www.legislation.gov.uk/uksi/1996/1148), [1996/2235](https://www.legislation.gov.uk/uksi/1996/2235), [1997/1729](https://www.legislation.gov.uk/uksi/1997/1729) and [1997/2074](https://www.legislation.gov.uk/uksi/1997/2074).
+
+[^f00023]: Footnote: [1995/540](https://www.legislation.gov.uk/uksi/1995/540) amended by[1995/1763](https://www.legislation.gov.uk/uksi/1995/1763), [1995/2148](https://www.legislation.gov.uk/uksi/1995/2148), [1995/2200](https://www.legislation.gov.uk/uksi/1995/2200), [1995/3205](https://www.legislation.gov.uk/uksi/1995/3205) and [1997/1729](https://www.legislation.gov.uk/uksi/1997/1729).
+
+[^f00024]: Footnote: S.I. [1995/1576](https://www.legislation.gov.uk/uksi/1995/1576) amended by S.I. [1998/1365](https://www.legislation.gov.uk/uksi/1998/1365).
+
+[^f00025]: Footnote: S.I. [1996/2005](https://www.legislation.gov.uk/uksi/1996/2005) amended by S.I. [1996/2561](https://www.legislation.gov.uk/uksi/1996/2561).
+
+[^f00026]: Footnote: S.I. [1996/2999](https://www.legislation.gov.uk/uksi/1996/2999) amended by S.I. [1997/195](https://www.legislation.gov.uk/uksi/1997/195).
+
+[^f00027]: Footnote: S.I. [1996/3124](https://www.legislation.gov.uk/uksi/1996/3124) amended by S.Is [1997/2023](https://www.legislation.gov.uk/uksi/1997/2023) and [1998/994](https://www.legislation.gov.uk/uksi/1998/994).
+
+[^f00028]: Footnote: S.I. [1996/3241](https://www.legislation.gov.uk/uksi/1996/3241) amended by S.Is [1997/1901](https://www.legislation.gov.uk/uksi/1997/1901), [1998/871](https://www.legislation.gov.uk/uksi/1998/871), [1999/639](https://www.legislation.gov.uk/uksi/1999/639) and [1999/1179](https://www.legislation.gov.uk/uksi/1999/1179).
+
+[^f00029]: Footnote: S.I. [1997/2893](https://www.legislation.gov.uk/uksi/1997/2893) amended by S.I. [1998/2880](https://www.legislation.gov.uk/uksi/1998/2880).
+
+[^f00030]: Footnote: S.I. [1998/2573](https://www.legislation.gov.uk/uksi/1998/2573) to which there is a relevant amendment by S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
+
+[^f00031]: Footnote: S.I. [1999/1103](https://www.legislation.gov.uk/uksi/1999/1103) amended by S.I. [1999/1554](https://www.legislation.gov.uk/uksi/1999/1554).
+
+[^key-be2460d013bc1acb41da37ddcda52583]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2000/253/schedule/2/act/1999) in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^M_I_ca0da9ef-3e0d-46d9-bd5c-6100a1a25bce]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2000/253/schedule/2/act/1999) in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^M_I_2594a11f-1553-414e-b636-ed9eb2c75105]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2000/253/schedule/2/act/1999) in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-b2dfa7e86e7a28d232efb5750e8f2a4c]: Commencement: Sch. 3 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-9263bb13230884d3ea3ccfba371a4415]: Commencement: Sch. 4 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-51d7ffa1761d922accd32af217615bb8]: Commencement: Sch. 5 para. 1 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-97784884b57549556f24bcb3eab65f27]: Commencement: Sch. 5 para. 2 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-390ef868209e237cfd47f2d93f7fb61f]: Commencement: Sch. 5 para. 3 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-73a37b79a1fff613e93bea9ff8ae2bc8]: Commencement: Sch. 5 para. 4 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-39446d80076b763036bf666b4a7c4090]: Commencement: Sch. 5 para. 5 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^f00032]: Footnote: S.I. [1997/1335](https://www.legislation.gov.uk/uksi/1997/1335) amended by S.I. [1999/1756](https://www.legislation.gov.uk/uksi/1999/1756) and [1999/3182](https://www.legislation.gov.uk/uksi/1999/3182)
+
+[^key-ef25ff444de582330c4ce5989026cc03]: Commencement: Sch. 5 para. 6 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^f00033]: Footnote: [S.I. 1997/ 1336](https://www.legislation.gov.uk/uksi/1997/1336) amended by S.I. [1999/1756](https://www.legislation.gov.uk/uksi/1999/1756)
+
+[^key-74ef1018689ab29c0663c0876144fca9]: Commencement: Sch. 5 para. 7 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-140f2ddf8229f59f471e140429b25a05]: Commencement: Sch. 5 para. 8 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^f00034]: Footnote: S.I. [1998/2573](https://www.legislation.gov.uk/uksi/1998/2573) to which there is a relevant amendment by S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)
+
+[^key-76dbc028732e91a492679b1b591f2d1d]: Commencement: Sch. 6 para. 1 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-a87e07419baabb0ed2c98db5d6d773a8]: Commencement: Sch. 6 para. 2 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-7a1c0883bfb445358aa7249b2e88e323]: Commencement: Sch. 6 para. 3 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)
+
+[^key-aa30fc9b68a1189236668bd8a414e399]: Commencement: Sch. 6 para. 4 in force at 16.2.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/253/article/1/2)

@@ -1,0 +1,1410 @@
+---
+title: The Train Driving Licences and Certificates Regulations 2010
+id: uksi/2010/724
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-03-09'
+text_date: '2026-06-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/724
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/724/pdfs/uksiem_20100724_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/724/pdfs/uksi_20100724_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/724/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Train Driving Licences and Certificates Regulations 2010
+
+> Text as at 2026-06-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 724
+
+Transport
+
+The Train Driving Licences and Certificates Regulations 2010
+
+Made
+
+9th March 2010
+
+Laid before Parliament
+
+12th March 2010
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c20193171].
+
+The Secretary of State is a Minister designated [^c20193181] for the purposes of section 2(2) of the European Communities Act 1972 in relation to measures relating to railways and railway transport.
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement
+
+(1) These Regulations may be cited as the Train Driving Licences and Certificates Regulations 2010.
+
+(2) Subject to regulation 39 (transitional provisions), these Regulations come into force on 6th April 2010*.*
+
+### 2. Interpretation
+
+In these Regulations—
+
+- “**the 1974 Act**” means the Health and Safety at Work etc Act 1974 [^c20193191];
+- “[^key-e333c644734811eb1e468890061d4c89]**British Channel Tunnel zone**” means the part of the tunnel system within Great Britain together with the network—
+  - (a) from the tunnel system to and including Ashford International station for railway passenger services using the tunnel system, or
+  - (b) from the tunnel system to and including Dollands Moor freight yard for services for the carriage of goods by rail using the tunnel system;
+- “**Channel Tunnel train driving certificate**” means a train driving certificate which authorises the holder to drive a train in the Channel Tunnel zone;
+- “**Channel Tunnel train driving licence**” means a train driving licence which is held by a person who is at any time deployed by a railway undertaking or infrastructure manager to drive a train in the Channel Tunnel zone;
+- “**Channel Tunnel zone**” means the British Channel Tunnel zone together with the French Channel Tunnel zone;
+- [^key-acfcc4481c2a4c7f8ff9fdee7462b957]...
+- “[^key-3f29c1d074081bba41592556f5556b19]**the Department for Infrastructure**” means the Department renamed as such by the Departments Act (Northern Ireland) 2016 and originally established as the Department for Regional Development by article 3(1) of the Departments (Northern Ireland) Order 1999
+- “[^key-95deace8110a431d0ee912c8581e0d77]**the Directive**” means Directive [2007/59/EC](https://www.legislation.gov.uk/eudr/2007/59) of the European Parliament and of the Council on the certification of train drivers operating locomotives and trains on the railway system in the Community as amended from time to time, before and after IP completion day;
+- “**employed**” means engaged to do something whether under a contract of employment, or as an independent contractor or as a volunteer and related expressions must be construed accordingly;
+- “[^key-6da8a42f00843240dae73a588d81eed0]**European train driving licence**” means a licence, issued by a safety authority in accordance with article 14 of the Directive, indicating the holder satisfies medical, educational and professional skills requirements for train driving;
+- “[^key-6cba8ff97bf852a17f9528c9e6c4dcb7]**French Channel Tunnel zone**” means the part of the tunnel system within France together with the network—
+  - (a) from the tunnel system to and including Calais-Fréthun station for railway passenger services using the tunnel system, or
+  - (b) from the tunnel system to and including Fréthun freight yard for services for the carriage of goods using the tunnel system;
+- “[^key-e5857f2547efe434615666825dd762d9]**French licensing authority**” means the body responsible for granting European train driving licences in France;
+- “in code form” is a reference to a code representing additional information or a medical restriction, as provided for in Annex I to Commission Regulation ([^key-413b4e8c647e6a1409f26ab21c57d4fd]EU) No 36/2010 on Community models for train driving licences, complementary certificates, certified copies of complementary certificates and application forms for train driving licences, under Directive [2007/59/EC](https://www.legislation.gov.uk/european/directive/2007/0059) of the European Parliament and the Council, as that Annex to that Regulation is amended from time to time;
+- “**infrastructure manager**” means the holder of a safety authorisation issued by—
+  - (a) the ORR in accordance with regulation 10 or 12 of ROGS; or
+  - (b) the Intergovernmental Commission pursuant to the requirements of article 27 of the Regulation set out in the Schedule to the Channel Tunnel (Safety) Order 2007 [^c20193231];
+- “**Intergovernmental Commission**” means the Commission established under article 10 of the Treaty of Canterbury of 12th February 1986 [^c20193241] to supervise, in the name and on behalf of the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the French Republic, all matters concerning the construction and operation of the Channel Tunnel;
+- “**mainline railway**” has the same meaning as in regulation 2(1) of ROGS but includes the “tunnel system” within the meaning of section 1(7) of the Channel Tunnel Act 1987 [^c20193251];
+- “[^key-3c6f1d8668081f3160466f2a7455f5dc]**network**” has the meaning given in section 83(1) of the Railways Act 1993;
+- “[^key-62dabfd8eeea8abe4d0e4325fe861bda]**Northern Ireland train driving licence**” means a licence issued by the Department for Infrastructure under the Northern Ireland Regulations indicating that the holder satisfies medical, educational and professional skills for train driving;
+- “**the Northern Ireland Regulations**” means the Train Driving Licences and Certificates Regulations (Northern Ireland) 2010;
+- “**ORR**” means the Office of Rail and Road[^key-8ca2658cc867fb66030c2802baca8c7e];
+- “[^key-d25272332b4628c981b542ccab03bc22]**railway passenger service**” has the meaning given in section 83(1) of the Railways Act 1993;
+- “**railway undertaking**” means the holder of—
+  - (a) a safety certificate issued by the ORR in accordance with regulation 7 or 9 of ROGS; or
+  - (b) a Part B certificate issued by the Intergovernmental Commission pursuant to the requirements of article 39(ii) of the Regulation set out in the Schedule to the Channel Tunnel (Safety) Order 2007;
+- “[^key-9b6a895312e7cd474cdaea6da32b006c]**Recast Safety Directive**” means Directive (EU) 2016/798 of the European Parliament and of the Council on railway safety (recast);
+- “**recognised doctor**” means a registered medical practitioner whose name appears in a register of doctors that the ORR has published, or caused to be published, under regulation 23(1);
+- “**recognised examiner**” means a person whose name appears in a register of examiners that the ORR has published, or caused to be published, under regulation 23(1);
+- “**recognised psychologist**” means a person who holds the qualification of the British Psychological Society Certificate in Occupational Testing (Level A) and whose name appears in a register of psychologists that the ORR has published, or caused to be published, under regulation 23(1);
+- “**recognised trainer**” means a person whose name appears in a register of trainers that the ORR has published, or caused to be published, under regulation 23(1);
+- “[^key-a97704881384232140f6d311ca94aeae]**relevant European train driving licence**” means a European train driving licence which is held by a driver who is at any time deployed by a railway undertaking or infrastructure manager to drive trains in the Channel Tunnel zone;
+- “**ROGS**” means the Railways and Other Guided Transport Systems (Safety) Regulations 2006 [^c20193261];
+- “[^key-5dfe98493af06f3ec49db44c6a250396]**safety authority**” means an authority established in an EEA state, other than the Intergovernmental Commission, in accordance with article 16(1) of Directive [2004/49/EC](https://www.legislation.gov.uk/eudr/2004/49) of the European Parliament and of the Council on safety on the Community's railways and amending Directive 95/18 EC on the licensing of railway undertakings and Directive [2001/14/EC](https://www.legislation.gov.uk/eudr/2001/14) on the allocation of infrastructure capacity and the levying of charges for the use of railway infrastructure and safety certification or article 16(1) of the Recast Safety Directive;
+- “**safety management system**” in relation to a railway undertaking or infrastructure manager means the organisation and arrangements established by it, under regulation 5 of ROGS or articles 22 to 25 of the Channel Tunnel (Safety) Order 2007, to ensure the safe management of its operation;
+- “**train**” includes a locomotive, a shunting locomotive, a work train and a maintenance railway vehicle;
+- “[^key-c5d09a99b9a9207dac7209815fafaa32]**train driving certificate**” means a certificate issued by a railway undertaking or infrastructure manager under these Regulations indicating the infrastructure on which the holder is authorised to drive and the types of train which the holder is authorised to drive;
+- “[^key-3c213d14c4aaa0b070a9b99cc1e37f1f]**train driving licence**” means a licence issued by or on behalf of the ORR under these Regulations indicating that the holder satisfies medical, educational and professional skills requirements for train driving;
+- “[^key-608b6546f3bf79c45769beda1b55f861]**transitional period**” means the period commencing on exit day and expiring at the end of two years.
+
+### 3. Application and extent
+
+(1) Subject to paragraphs (2) and (3), these Regulations apply in relation to the driving of trains on the mainline railway.
+
+(1A)[^key-fe66c10bc4c4d7ff8c90b4775746becf] These Regulations do not apply in relation to the driving of trains which the Office of Rail and Road[^key-f83d75b866ce035a8dbae435ecab14e9] has determined under regulation 2A(2) of ROGS are deemed not to operate on the mainline railway.
+
+(2) These Regulations do not apply in relation to the driving of trains on track which is temporarily closed to normal traffic for the purpose of maintaining, renewing or upgrading railway infrastructure.
+
+(3) These Regulations do not extend to Northern Ireland.
+
+## PART 2 — LICENSING AND CERTIFICATION OF TRAIN DRIVERS
+
+### 4. Requirement for licences and certificates
+
+(1)[^key-7647b447d96ab6693acbe7a8efcab0e6] Subject to paragraph (12), a railway undertaking or infrastructure manager must not deploy a person to drive a train unless that person is authorised to do so—
+
+- (a) by a train driving licence;
+- (b) by a Northern Ireland train driving licence; or
+- (c) in the British Channel Tunnel zone[^key-c5d2f2b36a86370947738a2df2f19260], by a European train driving licence.
+
+(2) Subject to paragraphs (7) and (12), a railway undertaking must not deploy a person to drive a particular type of train, or to drive a train on particular infrastructure, unless that person is authorised to do so by a train driving certificate issued by it.
+
+(3) Subject to paragraphs (7) and (12), an infrastructure manager must not deploy a person to drive a particular type of train, or to drive a train on particular infrastructure, unless that person is authorised to do so by a train driving certificate issued by it.
+
+(3A)[^key-c39c6f101b45e1fbdffe2b094ee8f769] A railway undertaking or infrastructure manager must not deploy a person under 20 years of age to drive a train in the British Channel Tunnel zone.
+
+(3B) A person under 20 years of age must not drive a train in the British Channel Tunnel zone.
+
+(4)[^key-2156cc5af7e934ef16b4fab2a3858c11] Subject to paragraphs (7) and (12) a person must not drive a train unless that person is authorised to do so by—
+
+- (a) a train driving licence, a Northern Ireland train driving licence, or, in the British Channel Tunnel zone[^key-a548cb9ef2e99191267de69c23595762], a European train driving licence; and
+- (b) a train driving certificate for the type of train driven and the infrastructure driven on, issued by the railway undertaking or infrastructure manager by whom that person is deployed to drive a train.
+
+(4A)[^key-453c8d8e9633d1c976683626207e4ed2] For the purposes of paragraphs (5) (6) (8) (12) and (13) a train driving licence includes a Northern Ireland train driving licence and, in the British Channel Tunnel zone[^key-1e04d2a85e18170e46f654412bcf1207], a European train driving licence.
+
+(4B)[^key-55e89cbe8ae506a2558a7fc3ecbe7993] Subject to paragraphs (7) and (12)—
+
+- (a) a railway undertaking or an infrastructure manager must not deploy a person to drive a particular type of train in the French Channel Tunnel zone unless that person is authorised to drive that type of train in that zone by a train driving certificate issued by it; and
+- (b) a person must not drive a particular type of train in the French Channel Tunnel zone unless that person is authorised to drive that type of train in that zone by a train driving certificate issued by the railway undertaking or infrastructure manager by whom that person is deployed to drive a train.
+
+(5) Subject to paragraphs (7) and (12), a person who drives a train must have the required train driving licence and train driving certificate with them whilst driving it, or otherwise be able on board the train to satisfy the ORR, or their inspector duly appointed under regulation 38, that they are so authorised to drive the train by the required train driving licence and train driving certificate.
+
+(6) Subject to paragraphs (7) and (12), a railway undertaking, or infrastructure manager, must take reasonable steps to ensure that a person it deploys to drive a train has the required train driving licence and train driving certificate with them whilst driving it, or are otherwise able to satisfy the requirements of paragraph (5).
+
+(7) Subject to paragraph (8), and if a railway undertaking so decides, a train driver it deploys to drive a train on specific infrastructure need not be authorised by a train driving certificate to drive it on that infrastructure in the following cases—
+
+- (a) where a disturbance to railway services has occurred which requires the re-routing of the train or the maintenance of tracks, as specified by the infrastructure manager concerned;
+- (b) an exceptional one-off service which uses a historical train;
+- (c) an exceptional one-off freight service provided that the infrastructure manager concerned has agreed;
+- (d) the delivery of, or demonstration of, a new train; or
+- (e) to enable the training or the examination of the train driver.
+
+(8) Paragraph (7) does not apply unless—
+
+- (a) [^key-ecec74faaeda67704c0e07584b161c6f]... another train driver, who holds a train driving licence and a train driving certificate relating to the specific infrastructure, accompanies and supervises the driver in the cab whilst the train is driven on that infrastructure; and
+- (b) the infrastructure manager of the specific infrastructure is given prior notice.
+
+(9)[^key-d8c589a978c8e7928fb7e17459c78373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) An infrastructure manager may not oblige a railway undertaking to make a decision under paragraph (7).
+
+(11) A Northern Ireland train driving licence or,[^key-6e855bf1275394b691b71a104952aa2e] in the British Channel Tunnel zone[^key-43b6629e1dff13a2ad927f479c269ef2], a European train driving licence issued on the basis of an exemption from the medical requirements set out in Schedule 1 is not valid in Great Britain, and the holding of such a licence will not satisfy the requirements of paragraphs (1) or (4)(a).
+
+(12) A person who is training to be train driver (“the trainee driver”) may drive a train without being authorised to do so by a train driving licence and a train driving certificate provided that an authorised driver—
+
+- (a) accompanies and supervises the trainee driver in the cab whilst the trainee driver drives the train, and
+- (b) complies with the requirements of paragraph (5) as if the authorised driver was the driver of the train.
+
+(13) In[^key-3321e674422a3fd4444d82cc22d2c5e9] paragraph (12) “**authorised driver**” means a train driver who is authorised to drive the train by a train driving licence and a train driving certificate issued by the railway undertaking, or infrastructure manager, for whom the train is driven relating to the type of train driven and the infrastructure driven on.
+
+(14)[^key-70fb49d28190d6c28200880440cd0872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Licence and certificate characteristics
+
+(1)[^key-3f4bd4eb31ef3e00532910013887c424] The form of a train driving licence and a train driving certificate issued under these Regulations must comply with the requirements set out in Schedule 2.
+
+(2) In particular, a train driving certificate must show the categories of train which the train driver may drive comprising either or both of—
+
+- (a) Category A – shunting locomotives, work trains, maintenance railway vehicles and all other locomotives when they are used for shunting; and
+- (b) Category B – trains for the carriage of passengers or goods or both.
+
+### 6. Ownership of licence
+
+A train driving licence is owned by the holder to whom it is issued.
+
+### 7. Ownership of certificate
+
+A train driving certificate is owned by the railway undertaking or infrastructure manager which issues it to the holder.
+
+## PART 3 — CONDITIONS FOR OBTAINING LICENCES AND CERTIFICATES
+
+### 8. Conditions for obtaining a licence
+
+(1) The ORR may only issue a train driving licence to an applicant if it is satisfied the applicant fulfils the conditions indicated in paragraph (2), and must issue one if so satisfied.
+
+(2) The conditions are that the applicant has—
+
+- (a) attained the age of 18[^key-de044a0f831be4ba275825132c971011] years;
+- (b) completed at least nine years' education (primary and secondary);
+- (c) successfully completed basic training equivalent to at least level 3 referred to in Council Decision [85/368/EEC](https://www.legislation.gov.uk/european/decision/1985/0368) on the comparability of vocational training qualifications between the Member States of the European Community [^c20193281];
+- (d) passed the required medical examination;
+- (e) passed the required occupational psychological fitness examination; and
+- (f) passed the required general professional competence examination.
+
+(3) For the purpose of paragraph (2)(d) the required medical examination means a medical examination that covers the criteria set out in paragraph 1 of Schedule 1, includes the minimum content set out in paragraph 2(1) of Schedule 1 and is conducted by or under the supervision of a recognised doctor.
+
+(4) For the purpose of paragraph (2)(e) the required occupational psychological fitness examination means an examination that includes the minimum content set out in paragraph 2(2) of Schedule 1 and is conducted by or under the supervision of a recognised psychologist or recognised doctor.
+
+(5)[^key-dd9d1e2dcc49e673ceec5be0484cd63e] For the purpose of paragraph (2)(f) the required general professional competence examination means:
+
+- (a) an examination that covers the objectives and requirements set out in Schedule 3; or
+- (b) an aptitude test pursuant to Part 2 of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023, where there is a significant difference between the applicant’s professional knowledge and the objectives and requirements set out in Schedule 3.
+
+(6)[^key-816a92e4661aa8a2cb5088c1cd688cd3] For the purposes of this regulation an aptitude test means a test, limited to the professional knowledge of a train driver specified by the ORR with the aim of ensuring that the applicant’s knowledge covers the objectives and requirements set out in Schedule 3.
+
+### 9. Conditions for obtaining a certificate
+
+(1) A railway undertaking or infrastructure manager may only issue a train driving certificate to an applicant if it is satisfied the applicant holds a train driving licence and fulfils the conditions indicated in paragraph (2), and must issue one if so satisfied.
+
+(1A)[^key-1b1c594231622793c74282d82ab9b79f] In paragraph (1) a train driving licence includes a Northern Ireland train driving licence and, in relation to the Channel Tunnel zone[^key-9efebc72d155473cc3d4ac95c432a43a], a European train driving licence.
+
+(2) The conditions are that the applicant—
+
+- (a) is employed by it to be a train driver;
+- (b) possesses the required language skills;
+- (c) has passed the required specific professional knowledge examinations; and
+- (d) has been trained by it in relation to its safety management system.
+
+(3) For the purpose of paragraph (2)(b)—
+
+- (a) the required language skills means knowledge of the language relevant to the infrastructure to which the certificate is to relate that meets the language test requirements set out and referred to in paragraph 8 of Schedule 4; and
+- (b) to test this a railway undertaking or infrastructure manager may include a language component in the examinations referred to in paragraph (2)(c).
+
+(4) For the purpose of paragraph (2)(c)—
+
+- (a) the required specific professional knowledge examinations means examinations of professional knowledge and competence relating to the rolling stock and to the infrastructure for which the certificate is sought (including route knowledge and operating rules and procedures) and covers the subjects set out in paragraphs 1 to 7 of Schedule 4 and in Schedule 5; and
+- (b) those examinations must comprise both theoretical and practical assessment including assessment of the driving ability of the applicant during driving tests on the infrastructure.
+
+(5) For the purpose of paragraph (4)(b) simulators may be used for examining the application of operational rules and driver performance in particularly difficult situations.
+
+(6) When determining whether to issue a train driving certificate the railway undertaking or infrastructure manager must take account of any document presented to it by the applicant that the applicant has obtained by virtue of regulation 16(4).
+
+## PART 4 — PROCEDURES FOR OBTAINING LICENCES AND CERTIFICATES
+
+### 10. Procedures for obtaining a licence
+
+(1) The ORR must have and publish on its website application procedures for the issue of a train driving licence, for the updating of the particulars of such a licence, for the renewal of such a licence and for the issue of a duplicate licence, and indicate on its website the availability of an appeal under regulation 35.
+
+(2) All applications must be submitted to the ORR by the applicant, or an entity acting on the applicant's behalf, and must be made in accordance with the published procedures.
+
+(3) The ORR must within one month of receiving all necessary documents and information determine the application.
+
+(4) Where satisfied that a train driving licence should be issued, updated or renewed the ORR must issue it as a single original licence.
+
+(5) The ORR may issue duplicates of the train driving licence.
+
+### 11. Procedures for obtaining a certificate
+
+(1) Each railway undertaking and infrastructure manager must have, as part of its safety management system, and publish on its website, application procedures for the issue of a train driving certificate, for the updating of the particulars of such a certificate, for the renewal of such a certificate and for the issue of a duplicate certificate, and indicate on its website the availability of an appeal under regulation 36.
+
+(2) All applications must be submitted to the railway undertaking or infrastructure manager by the applicant and must be made in accordance with the published procedures.
+
+(3) Each railway undertaking and infrastructure manager must update a train driving certificate issued by it whenever the holder has obtained additional authorisations from it relating to rolling stock or infrastructure.
+
+(4) Where satisfied that a train driving certificate should be issued, updated or renewed the railway undertaking or infrastructure manager must issue it as a single original certificate.
+
+(5) The railway undertaking or infrastructure manager may issue duplicates of the train driving certificate.
+
+## PART 5 — VALIDITY OF LICENCES AND CERTIFICATES
+
+### 12. Validity and renewal of licences
+
+(1) Subject to regulations 18 and 21 and paragraph (3), a train driving licence is valid for 10 years.
+
+(2) The ORR must not renew a train driving licence unless it is satisfied that the holder complies with regulation 13, passes any examinations undergone in pursuance of it, and undergoes continuous training, as required by regulation 29(d), to ensure the driver's general professional knowledge is maintained.
+
+(3) A train driving licence ceases to be valid once it is suspended or withdrawn.
+
+### 13. Periodic checks to maintain validity of licence
+
+(1) The holder of a train driving licence must pass periodic medical and psychological examinations meeting the requirements described in regulation 8(3) and (4).
+
+(1A)[^key-9a3db16c1cc53bf997f1c1811d837a7a] In paragraph (1) a train driving licence includes a Northern Ireland train driving licence and, during the transitional period only, a European train driving licence.
+
+(2) For the purpose of paragraph (1) periodic medical examinations means examinations conducted at the minimum frequency and at other times set out in paragraph 3 of Schedule 1.
+
+### 14. Validity of certificate
+
+A train driving certificate ceases to be valid once it is suspended or withdrawn, or regulation 16(3) applies.
+
+### 15. Periodic checks to maintain validity of certificate
+
+(1) The holder of a train driving certificate must pass periodic language and specific professional knowledge tests or examinations meeting the requirements described in regulation 9(3) and (4), and periodic tests relating to their employer's safety management system.
+
+(2) For the purpose of paragraph (1), the frequency of periodic tests and examinations must be as determined by the railway undertaking or infrastructure manager that issued the certificate in accordance with its safety management system, but must not be less than the minimum frequencies set out in Schedule 6.
+
+(3) When the holder of a train driving certificate passes the tests and examinations required by paragraph (1) the certificate must be endorsed with a statement to that effect by the railway undertaking or infrastructure manager that issued it.
+
+### 16. Cessation of employment
+
+(1) A railway undertaking or infrastructure manager must give written notice to the ORR when a person ceases to be employed by them as a train driver.
+
+(2) Where a person is so employed as an independent contractor or volunteer, if they do not drive a train for the railway undertaking or infrastructure manager for a period of twelve months, their employment will be deemed to have ceased upon the expiry of that period if it has not otherwise been terminated.
+
+(3) When a person ceases to be employed by a railway undertaking or infrastructure manager as a train driver, a train driving certificate issued by them in relation to that person ceases to be valid.
+
+(4) If a train driving certificate becomes invalid by virtue of paragraph (3), the railway undertaking or infrastructure manager that issued it must provide the train driver with—
+
+- (a) a certified copy of it endorsed to indicate when it ceased to be valid; and
+- (b) a copy of all documents providing evidence of the driver's training, qualifications, experience and professional competence relevant to train driving undergone, obtained or achieved by the driver whilst employed as a train driver by that body.
+
+### 17. Monitoring
+
+(1) A railway undertaking or infrastructure manager must have a system for monitoring train drivers employed by them to check that the requirements of these Regulations which apply to them are adhered to.
+
+(2) If the results of that monitoring call into question a train driver's competence for the job, or the continuing validity of their train driving licence or train driving certificate, the railway undertaking or infrastructure manager must immediately take any necessary action which may include—
+
+- (a) informing the ORR of matters relevant to the continuing validity of the licence;
+- (b) requiring the driver to undergo the relevant examinations or tests referred to in regulations 13 or 15; or
+- (c) suspending or withdrawing the driver's train driving certificate.
+
+(3) A train driver who considers that his state of health calls into question his fitness to drive trains must immediately inform the railway undertaking or infrastructure manager by whom he is employed.
+
+(4) A railway undertaking or infrastructure manager that becomes aware that a train driver employed by them has failed to comply with regulation 13 or 15, or has failed an examination or test required by those regulations, or that the health of the train driver has deteriorated to a point where the driver's fitness to drive trains is called into question, must immediately take any necessary action which may include—
+
+- (a) informing the ORR of matters relevant to the continuing validity of the driver's train driving licence;
+- (b) requiring the driver to undergo the relevant examinations or tests referred to in regulations 13 or 15; or
+- (c) suspending or withdrawing the driver's train driving certificate.
+
+(5) A railway undertaking or infrastructure manager must inform the ORR when a train driver employed by them has suffered work incapacity for a period of more than three months.
+
+(6)[^key-b85508155f1506b9023f35f1ff9a6ccc] For the purposes of paragraphs (2) and (4) a train driving licence includes a Northern Ireland train driving licence and, in relation to the Channel Tunnel zone[^key-319ce75a040f6db2a5f47191186a48f5], a European train driving licence.
+
+## PART 6 — SUSPENSION AND WITHDRAWAL OF LICENCES AND CERTIFICATES
+
+### 18. Suspension or withdrawal of licences issued by the ORR
+
+(1) Without prejudice to regulation 21, if the ORR considers that the holder of a train driving licence [^key-9177e999f49c15cd76cc98bb7c14b2c5]... no longer satisfies a condition required for the holding of it, or decides to suspend or withdraw the licence pursuant to paragraph (3), the ORR must—
+
+- (a) suspend or withdraw the licence; and
+- (b) inform the holder and his employer of—
+  - (i) the suspension or withdrawal;
+  - (ii) the reason for it;
+  - (iii) the availability of the appeal procedure under regulation 35; and
+  - (iv) any procedure to be followed to seek reinstatement of the licence.
+
+(2) If the ORR suspends or withdraws a train driving licence the holder must surrender it to the ORR.
+
+(3) If [^key-59c64070fdc42d568499cd537cd1007e]... the Department for Infrastructure[^key-21c8a80f1876e134dcf4800d003d33a5] or the Intergovernmental Commission—
+
+- (a) informs the ORR that it considers the holder of a train driving licence issued by the ORR no longer satisfies a condition required for the holding of it, and
+- (b) gives the ORR a reasoned request for a review of the holder's eligibility to hold the licence, or for the licence to be suspended or withdrawn,
+
+the ORR must consider that request and, within four weeks, notify [^key-59c64070fdc42d568499cd537cd1007e]... the Department for Infrastructure or the Intergovernmental Commission, as the case may be, of its decision whether to suspend or withdraw the licence or take any other action.
+
+### 19. Suspension or withdrawal of other train driving licences and driver prohibition[^key-747b2ccb1afe8672f38e6baed0fabc88]
+
+(1) Without prejudice to regulation 21, if the ORR considers that the holder of a Northern Ireland train driving licence no longer satisfies a condition required for the holding of it the ORR must—
+
+- (a) inform the Department for Infrastructure of this view;
+- (b) give the Department for Infrastructure a reasoned request for a review of the holder's eligibility to hold the licence, or for the licence to be suspended or withdrawn; and
+- (c) notify the Intergovernmental Commission of the request.
+
+(2)[^key-92707e83a4a028b9531a7d563a0245aa] Without prejudice to regulation 21, if the ORR considers that the holder of a relevant European train driving licence no longer satisfies a condition required for holding it, the ORR—
+
+- (a) must—
+  - (i) inform the French licensing authority, and the Intergovernmental Commission of this view; and
+  - (ii) notify the Intergovernmental Commission of any request made to the French licensing authority or other safety authority under sub-paragraph (b) or (c) and the French licensing authority of any request to another safety authority under sub-paragraph (c)(i);
+- (b) may, where the licence has been issued by the French licensing authority, give that authority a reasoned request for the licence to be suspended or withdrawn;
+- (c) may, where the licence has been issued by a safety authority other than the French licensing authority—
+  - (i) inform that other authority of this view and make a reasoned request for the licence to be suspended or withdrawn; and
+  - (ii) request the French licensing authority to give a reasoned request to that other authority for the licence to be suspended or withdrawn.
+
+(3) Pending any suspension or withdrawal of the licence, or other conclusion on the request, the ORR may prohibit the holder from driving a train in Great Britain.
+
+### 20. Suspension or withdrawal of certificates and driver prohibition
+
+(1)[^key-c28524105b96daf471488d348a42b35c] This regulation applies if —
+
+- (a) the ORR considers that the holder of a train driving certificate no longer satisfies a condition required for the holding of it; or
+- (b) the French licensing authority —
+  - (i) has notified the ORR that it considers a driver is no longer competent or fit to drive a train in the Channel Tunnel zone; and
+  - (ii) has requested the ORR to require the railway undertaking or infrastructure manager which has issued a train driving certificate to the driver to review the driver’s competence or fitness or to suspend or withdraw the certificate.
+
+(1A) Without prejudice to regulation 21, where this regulation applies, the ORR must—
+
+- (a) inform the railway undertaking or infrastructure manager which issued the train driving certificate of its view or, as the case may be, of the view and request of the French licensing authority; and
+- (b) give the railway undertaking or infrastructure manager a reasoned request for a review of the holder’s eligibility to hold the certificate or for the certificate to be suspended or withdrawn.
+
+(2) Upon receipt of such a request the railway undertaking or infrastructure manager must consider it and, within four weeks, notify the ORR of its decision whether to suspend or withdraw the certificate or take any other action.
+
+(3) Where the railway undertaking or infrastructure manager concludes that the holder no longer satisfies a condition required for the holding of the train driving certificate, it must take appropriate measures which may include—
+
+- (a) requiring the holder to undergo the relevant tests or examinations referred to in regulation 15; or
+- (b) suspending or withdrawing the holder's train driving certificate.
+
+(4) Pending any suspension or withdrawal of the train driving certificate, or other conclusion on the request, the ORR may prohibit the holder from driving a train in Great Britain.
+
+(5)[^key-4c00ec8b63c11706e3e0c713b840ceba] If the ORR exercises the power in paragraph (4) it—
+
+- (a) must inform the Department for Infrastructure and the Intergovernmental Commission and, in the case of the holder of a Channel Tunnel train driving certificate, the French licensing authority; and
+- (b) may, in the case of the holder of a Channel Tunnel train driving certificate who also holds a European train driving licence inform the safety authority which has issued that licence if this is not the French licensing authority.
+
+(5A) Where the French licensing authority has notified the ORR of the matters referred to in paragraph (1)(b)(i) and has made the request referred to in paragraph (1)(b)(ii), the ORR must notify the French licensing authority of the response given by the railway undertaking or infrastructure manager under paragraph (2) promptly on receiving it.
+
+### 21. Serious threat to the safety of the railway
+
+(1) If the ORR considers that a train driver is a serious threat to the safety of the railways it must immediately take any necessary action.
+
+(2) For the purpose of paragraph (1) any necessary action may include—
+
+- (a) requesting the railway undertaking or infrastructure manager to stop any train being driven by the driver;
+- (b) suspending or withdrawing the driver's train driving licence, if issued by the ORR; or
+- (c) prohibiting the driver from driving a train in Great Britain.
+
+(3)[^key-db0e9ea2e1cced6af363d8d28e1ae4f5] If the ORR takes any action under this regulation it must inform the Department for Infrastructure and the Intergovernmental Commission and may inform the safety authorities.
+
+### 22. Appeal to the Commission[^key-790a1cc01ec43626d3e7d07e3af92158]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 7 — REGISTERS AND INFORMATION
+
+### 23. Registers of recognised persons
+
+(1) The ORR must have, keep up to date and publish registers of—
+
+- (a) doctors,
+- (b) examiners,
+- (c) psychologists, and
+- (d) trainers,
+
+recognised by the ORR as competent to carry out functions under, or referred to in, regulations 8, 30 and 31.
+
+(2) Trainers and examiners may be individuals or bodies of persons corporate or unincorporate.
+
+(3) Subject to paragraph (5)[^key-8f6c4177079eb0edc1bcd4be891fe89c], the inclusion of a person in a register referred to in paragraph (1) must be based on the criteria of independence, competence and impartiality.
+
+(4)[^key-2b3dfaf89409f0e61590d541110585cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The criterion of independence referred to in paragraph (3) does not apply in respect of a trainer referred to in regulation 30.
+
+### 24. Registers of licences
+
+(1) The ORR must have and keep up to date a register of train driving licences [^key-7c860b6c612fc0bfa3cc0ead6b253ba7]..., and in particular the register should include details of any updating, renewal, amendment, expiry, suspension or withdrawal of any such licence, and record any loss, theft or destruction of any such licence.
+
+(2) The register must contain the data required for each licence by paragraph 4 of Schedule 2, and it must be possible to find the data for each licence on the register by the use of a national number allotted to each train driver.
+
+### 25. Registers of certificates
+
+(1) Each railway undertaking and infrastructure manager must have and keep up to date a register of all train driving certificates issued by it, and in particular the register should include details of any updating, renewal, amendment, expiry, suspension or withdrawal of any such certificate, and record any loss, theft or destruction of any such certificate.
+
+(2) The register must contain the data required for each certificate by paragraph 4 of Schedule 2.
+
+### 26. Information relating to the status of licences[^key-a9392eca51d91e87ecb7fefe833a3fb8]
+
+(1) The ORR must, upon request, provide information on the status of train driving licences to the Department for Infrastructure, the Intergovernmental Commission or any employer of train drivers.
+
+(2) The ORR may provide the information mentioned in paragraph (1) to a safety authority.
+
+### 26A. Information sharing[^key-485cb857e36059f50e37b275f125258b]
+
+The ORR must without unreasonable delay provide information to the French licensing authority in relation to any Channel Tunnel train driving licence or any Channel Tunnel train driving certificate and the holder of any such licence or certificate—
+
+- (a) on request by the French licensing authority on it notifying the ORR of any concerns or doubts in relation to the validity of that licence or train driving certificate;
+- (b) if a railway undertaking or infrastructure manager has notified the ORR of any matters under regulation 17(2)(a), 17(4)(a) or 17(5);
+- (c) if the ORR suspends or withdraws that licence or a railway undertaking or infrastructure manager notifies the ORR that it has suspended or withdrawn that certificate; or
+- (d) if the ORR has taken any action under regulation 21 in relation to a train driver holding such a licence or certificate.
+
+### 27. Information relating to certificates etc.[^key-a96fdc0c04917fa527571b4cb66fb345]
+
+(1) Railway undertakings and infrastructure managers must, upon request, provide to the ORR any information relating to train driving certificates issued by them or any other functions carried out by them under these Regulations.
+
+(2) Railway undertakings and infrastructure managers may provide the information mentioned in paragraph (1) to a safety authority.
+
+### 28. Information in relation to international train services[^key-2f1fea4df649043b1bca234a744ac00f]
+
+(1) Railway undertakings and infrastructure managers must upon request, provide to the ORR, the Department for Infrastructure and the Intergovernmental Commission information on the content of train driving certificates issued by them in relation to train drivers on international journeys.
+
+(2) Railway undertakings and infrastructure managers may provide the information mentioned in paragraph (1) to a safety authority.
+
+## PART 8 — TRAINING AND EXAMINATION
+
+### 29. Training content
+
+Each railway undertaking and infrastructure manager that employs train drivers must ensure that their training—
+
+- (a) complies with the requirements of, and takes into account the guidance given in, Schedule 7;
+- (b) includes instruction on train driving licences and covers the general professional knowledge, and meets the objectives, set out in Schedule 3;
+- (c) includes instruction on train driving certificates, and covers the professional knowledge, and meets the objectives, set out in Schedules 4 and 5; and
+- (d) meets the requirements for continuous training which—
+  - (i) are set up to ensure that staff competencies are maintained; and
+  - (ii) form part of the safety management system of the railway undertaking or infrastructure manager.
+
+### 30. Trainers
+
+(1) Subject to paragraph (2), a person may only provide training intended to enable a another—
+
+- (a) to pass the examination required by regulation 8(2)(f),
+- (b) to satisfy the condition in regulation 9(2)(b), or
+- (c) to pass the examinations required by regulation 9(2)(c),
+
+if that person is a recognised trainer[^key-d9ed5d1404a84e4403be1535322e150c]....
+
+(1A)[^key-189febfa2211b421508156db18e651da] For the purposes of this regulation, during the transitional period, a recognised trainer includes a trainer accredited or recognised to act as a trainer in a member State in accordance with the requirements of article 20 of the Directive.
+
+(2) Training relating to infrastructure knowledge, including route knowledge and operating rules and procedures, may only be provided by a recognised trainer.
+
+### 31. Examinations
+
+(1) The ORR must—
+
+- (a) set or approve the general professional competence examination referred to in regulation 8(2)(f);
+- (b) designate the examiner; and
+- (c) include guidance and information about the examination in the publication it makes on its website in pursuance of regulation 10(1).
+
+(2) Each railway undertaking and infrastructure manager must—
+
+- (a) set or approve the specific professional knowledge examinations relevant to its rolling stock or infrastructure, as the case may be, as referred to in regulation 9(2)(c);
+- (b) designate the examiner for the examinations it sets or approves; and
+- (c) include guidance and information about these examinations in the publication it makes on its website in pursuance of regulation 11(1).
+
+(3) Subject to paragraph (4), a person may only be designated as an examiner under paragraphs (1)(b) or (2)(b) if that person is—
+
+- (a) a recognised examiner; or
+- (b)[^key-3358fe4c5820bc3bdb33940f3fa93256] during the transitional period, an examiner accredited or recognised to act as an examiner in a member State in accordance with the requirements of article 20 of the Directive.
+
+(4) In so far as an examination set or approved under paragraph (2)(a) is for infrastructure knowledge evaluation, including evaluation of route knowledge and operating rules and procedures, the examiner must be a recognised examiner.
+
+(5) The ORR, railway undertaking or infrastructure manager, as the case may be, must ensure that any examination referred to in paragraphs (1)(a) or (2)(a) which they set or approve are organised in such a way as to avoid any conflict of interest arising.
+
+(6) Notwithstanding paragraph (5), a railway undertaking or infrastructure manager may designate a recognised examiner under paragraph (2)(b) who is also its employee, provided the examiner has not trained the candidate for the examination.
+
+## PART 9 — REVIEWING STANDARDS
+
+### 32. Quality standards
+
+(1) Subject to paragraph (2), the ORR must have a system to monitor and keep under continuous review the training, skills assessment and examination of train drivers who are required to hold train driving licences and train driving certificates under these Regulations, and the keeping of train driving licences and train driving certificates up to date, with a view to ensuring appropriate standards are achieved and maintained.
+
+(2) Paragraph (1) does not require the duplication of any monitoring and review already required by and carried out under the safety management system of a railway undertaking or infrastructure manager.
+
+### 33. Independent assessment
+
+(1) Subject to paragraph (2), within five years after this regulation comes into force, and thereafter within five yearly intervals, the Secretary of State must cause to be carried out, by an appropriately qualified and independent person, an assessment of—
+
+- (a) the procedures for the training, skills assessment and examination of train drivers, and
+- (b) the system for the issue of train driving licences and train driving certificates,
+
+under these Regulations.
+
+(2) Paragraph (1) does not require the duplication of any assessment already required by and carried out under the safety management system of a railway undertaking or infrastructure manager.
+
+(3) The Secretary of State must provide the results of each assessment to the ORR, railway undertakings and infrastructure managers.
+
+(4) The ORR, railway undertakings and infrastructure managers must give due consideration to the results of each assessment and any recommendations given in them and take any action reasonably appropriate to remedy any shortcomings identified.
+
+## PART 10 — DELEGATION OF FUNCTIONS BY THE ORR
+
+### 34. Delegation of functions by the ORR
+
+(1) Subject to paragraph (3), the ORR may delegate to any person the exercise of the following functions—
+
+- (a) dealing with and determining (including issuing any associated documents) applications under regulation 10 for—
+  - (i) train driving licences,
+  - (ii) their update or renewal, or
+  - (iii) duplicates of them;
+- (b) recognising trainers and examiners under regulation 23;
+- (c) having, keeping up to date and publishing registers of persons recognised under regulation 23(1);
+- (d) having and keeping up to date a register of train driving licences under regulation 24.
+
+(2) A delegation—
+
+- (a) may be made either wholly or to such extent as the ORR may determine;
+- (b) may be made either generally or in such cases or areas as the ORR may determine;
+- (c) may be made subject to such conditions and for such period as the ORR may determine;
+- (d) may be revoked by the ORR at any time;
+- (e) will not prevent the ORR from exercising the function delegated.
+
+(3) The ORR may only delegate a function referred to in paragraph (1)(a) to a railway undertaking—
+
+- (a) for the purposes of that undertaking carrying out that function in relation to persons employed by the undertaking as train drivers or trainee train drivers; or
+- (b) if the function is not delegated exclusively to that undertaking.
+
+(4) If the ORR delegates a function it must establish a system for monitoring how that function is carried out.
+
+## PART 11 — APPEALS AGAINST DECISIONS OF THE ORR
+
+### 35. Appeals against decisions of the ORR
+
+(1) A person concerned (“**the appellant**”) may appeal to the Secretary of State against—
+
+- (a) a decision of the ORR referred to in paragraph (2); or
+- (b) a decision of a person duly delegated under regulation 34(1)(a) not to grant an application for a train driving licence, its update or renewal or for the issue of a duplicate of it.
+
+(2) The decisions of the ORR referred to are decisions—
+
+- (a) not to grant an application for—
+  - (i) a train driving licence,
+  - (ii) its update or renewal, or
+  - (iii) a duplicate of it;
+- (b) to suspend or withdraw a train driving licence; or
+- (c) to prohibit a person from driving a train in Great Britain.
+
+(3) A person is concerned if that person is the applicant, the owner of the train driving licence, the person prohibited from driving or a railway undertaking or infrastructure manager which employs that person.
+
+(4) The Secretary of State may, in such cases as the Secretary of State considers it appropriate to do so, having regard to the nature of the questions which appear to the Secretary of State to arise, direct that an appeal under this regulation will be determined on behalf of the Secretary of State by a person appointed by the Secretary of State for that purpose.
+
+(5) Before the determination of an appeal the Secretary of State must ask the appellant, and the party against whose decision the appeal is brought, whether they wish to appear and be heard on the appeal and—
+
+- (a) the appeal may be determined without a hearing of the parties if both of them express a wish not to appear and be heard;
+- (b) the Secretary of State must, if either of the parties expresses a wish to appear and be heard, afford to both of them an opportunity of doing so.
+
+(6) The Tribunals and Inquiries Act 1992 [^c20193291] applies to a hearing held by a person appointed in pursuance of paragraph (4) to determine an appeal as it applies to a statutory inquiry held by the Secretary of State, but as if in section 10(1) of that Act (statement of reasons for decisions) the reference to any decision taken by the Secretary of State included a reference to a decision taken on behalf of the Secretary of State by that person.
+
+(7)[^key-b58404f65d8e2e0cadd8149e7b167873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) Without prejudice to the right of any person to make an application for judicial review—
+
+- (a) a determination by the Secretary of State, or by a person appointed to make a determination on the Secretary of State's behalf, on an appeal brought under this regulation is binding on all parties affected by that determination;
+- (b) the Secretary of State, or person so appointed, may give such directions as they consider appropriate to give effect to the determination; and
+- (c) it is the duty of any person to whom a direction is given under this regulation to comply with and give effect to that direction.
+
+(9) The Secretary of State may pay to any person appointed to hear or determine an appeal under this regulation such remuneration and allowances as the Secretary of State may with the approval of the Treasury determine.
+
+(10) A failure of the ORR, or a person duly delegated to determine applications on its behalf under regulation 34(1) (a), to make a decision on an application for a train driving licence, or for its update or renewal or for a duplicate of it, within one month of receiving all the necessary documents may be treated as a refusal of the application for the purpose of making an appeal under this regulation.
+
+(11) Where under paragraph (5)(b) a party expresses a wish to appear and be heard, the Health and Safety Licensing Appeals (Hearings Procedure) Rules 1974 [^c20193311], as respects England and Wales, and the Health and Safety Licensing Appeals (Hearings Procedure) (Scotland) Rules 1974 [^c20193321], as respects Scotland, apply to any appeal under paragraph (1) as they apply to an appeal under section 44(1) of the 1974 Act (appeals), but with the modification that references to a licensing authority are to be read as references to the party against whose decision the appeal is brought.
+
+## PART 12 — APPEALS AGAINST DECISIONS OF RAILWAY UNDERTAKINGS AND INFRASTRUCTURE MANAGERS
+
+### 36. Appeals against decisions of railway undertakings and infrastructure managers
+
+(1) A person concerned (“**the appellant**”) may appeal to the ORR against a decision of a railway undertaking or infrastructure manager referred to in paragraph (2).
+
+(2) The decisions of a railway undertaking or infrastructure manager referred to are decisions—
+
+- (a) not to grant an application for—
+  - (i) a train driving certificate, or
+  - (ii) its update or renewal; or
+- (b) to suspend or withdraw a train driving certificate.
+
+(3) A person is concerned if that person is the applicant in question or the holder of the train driving certificate in question.
+
+(4) The ORR may, in such cases as it considers it appropriate to do so, having regard to the nature of the questions which appear to it to arise, direct that an appeal under this regulation will be determined on its behalf by a person appointed by it for that purpose.
+
+(5) Before the determination of an appeal the ORR must ask the appellant, and the party against whose decision the appeal is brought, whether they wish to appear and be heard on the appeal and—
+
+- (a) the appeal may be determined without a hearing of the parties if both of them express a wish not to appear and be heard;
+- (b) the ORR must, if either of the parties expresses a wish to appear and be heard, afford to both of them an opportunity of doing so.
+
+(6) The Tribunals and Inquiries Act 1992 applies to a hearing held by a person appointed in pursuance of paragraph (4) to determine an appeal as it applies to a statutory inquiry held by the Secretary of State, but as if in section 10(1) of that Act (statement of reasons for decisions) the reference to any decision taken by the Secretary of State included a reference to a decision taken on behalf of the ORR by that person.
+
+(7)[^key-d99606afb13b92f85762babaebf47124] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) Without prejudice to the right of any person to make an application for judicial review—
+
+- (a) a determination by the ORR, or by a person appointed to make a determination on the ORR's behalf, on an appeal brought under this regulation is binding on all parties affected by that determination;
+- (b) the ORR, or person so appointed, may give such directions as they consider appropriate to give effect to the determination; and
+- (c) it is the duty of any person to whom a direction is given under this regulation to comply with and give effect to that direction.
+
+(9) The ORR may pay to any person appointed to hear or determine an appeal under this regulation such remuneration and allowances as the ORR may with the approval of the Treasury determine.
+
+(10) A failure of a railway undertaking or infrastructure manager to make a decision on an application for a train driving certificate, or for its update or renewal, within one month of receiving all the necessary documents may be treated as a refusal of the application for the purpose of making an appeal under this regulation.
+
+(11) Where under paragraph (5)(b) a party expresses a wish to appear and be heard, the Health and Safety Licensing Appeals (Hearing Procedure) Rules 1974, as respects England and Wales, and the Health and Safety Licensing Appeals (Hearing Procedure) (Scotland) Rules 1974, as respects Scotland, apply to any appeal under paragraph (1) as they apply to an appeal under section 44(1) of the 1974 Act (appeals), but with the modification that references to a licensing authority are to be read as references to the party against whose decision the appeal is brought.
+
+## PART 13 — ENFORCEMENT
+
+### 37. Anti-fraud measures
+
+The ORR, railway undertakings and infrastructure managers must take such steps as are reasonably necessary to avoid—
+
+- (a) the falsification of train driving licences and train driving certificates, and
+- (b) the tampering with the registers required by regulations 24 and 25.
+
+### 38. Enforcement
+
+(1) It is the duty of the ORR to make adequate arrangements for the enforcement of these Regulations.
+
+(2) Subject to paragraph (5), the provisions of the 1974 Act specified in paragraph (3) (“**the specified provisions**”) apply for the purposes of the enforcement of these Regulations as if in the specified provisions—
+
+- (a) a reference to the “**enforcing authority**” was a reference to the ORR;
+- (b) a reference to the “**relevant statutory provisions**” was a reference to these Regulations and to the specified provisions; and
+- (c) a reference to “health and safety regulations” was a reference to these Regulations.
+
+(3) The provisions of the 1974 Act referred to in paragraph (2) are—
+
+- (a) sections 19 and 20 (appointment and powers of inspectors) [^c20193331], excluding section 20(3);
+- (b) sections 21 and 22 (improvement and prohibition notices) [^c20193341];
+- (c) section 23 (provisions supplementary to sections 21 and 22), excluding section 23(3), (4) and (6);
+- (d) section 24 (appeal against improvement and prohibition notices) [^c20193351];
+- (e) section 26 (power to indemnify inspectors);
+- (f) section 28 (restrictions on disclosure of information) [^c20193361];
+- (g) sections 33(1)(c), (e) to (h), (j) to (o), 34(2), 36(1) and (2), 37 to 41 and 42(1) to (3) (provision as to offences) [^c20193371]; and
+- (h) section 46 (service of notices).
+
+(4) The mode of trial and maximum penalty applicable to each offence under section 33 of the 1974 Act so applied and listed in the first column of the following table are set out opposite that offence in the subsequent columns of the table.
+
+| *Offence* | *Mode of trial* | *Penalty on summary conviction* | *Penalty on conviction on indictment* |
+| --- | --- | --- | --- |
+| An offence under section 33(1) (c), (e), (f), (g), (j), (k), (l), (m) or (o). | Summarily or on indictment. | Imprisonment for a term not exceeding 3 months, or a fine not exceeding level 5 on the standard scale as it has effect from time to time (as if the offence was triable only summarily), or both. | Imprisonment for a term not exceeding 2 years, or a fine, or both. |
+| An offence under section 33(1) (h). | Summarily only. | Imprisonment for a term not exceeding 3 months, or a fine not exceeding level 5 on the standard scale as it has effect from time to time, or both. |  |
+| An offence under section 33(1) (n). | Summarily only. | A fine not exceeding level 5 on the standard scale as it has effect from time to time. |  |
+
+(5) A failure to discharge a duty placed on the Office of Rail and Road[^key-e2e0a8f230b74688e13fbc0446322328] by these Regulations is not an offence under section 33(1)(c) of the 1974 Act.
+
+## PART 14 — TRANSITIONAL PROVISIONS
+
+### 39. Transitional provisions
+
+(1) Regulation 4 comes into force—
+
+- (a) on the 29th October 2011 in relation to the driving of trains by a person who—
+  - (i) is to drive trains both on the mainline railway and in at least one member State[^key-ac8489cd09eb0ce4c3829b945d6ae049], and
+  - (ii) has not driven trains both on the mainline railway and in at least one member State before that date, (excluding any such driving experience gained as a trainee driver);
+- (b) on the 29th October 2013 in relation to the driving of trains by a person who has not driven trains on the mainline railway before that date, (excluding any such driving experience gained as a trainee driver); and
+- (c) on the 29th October 2018 in so far as it has not already come into force under sub-paragraph (a) or (b).
+
+(2) Subject to paragraph (3), regulations 5 to 18, 20, 23, 26 to 32, 35 to 37 and the Schedules come into force on the 6th April 2011.
+
+(3) For the purposes of appeals against decisions of the ORR referred to in regulation 35(2)(c), regulation 35 comes into force on 6th April 2010.
+
+(4) Regulations 24 and 25 come into force on the 29th October 2011.
+
+(5) Where this paragraph applies, in determining a first application for a train driving licence the ORR—
+
+- (a) must take into account any train driving qualifications, experience and competencies acquired by the applicant prior to the application;
+- (b) in exceptional cases may waive, in whole or in part, the requirement in regulation 8(2)(d) if it thinks it appropriate to do so provided that the validity of any train driving licence issued on the basis of such exemption is limited to Great Britain;
+- (c) may waive, in whole or in part, the requirements in regulation 8(2)(e) and (f) if it thinks it appropriate to do so; and
+- (d) may require the applicant to pass other examinations or tests, or undertake further training, if it thinks it appropriate to do so.
+
+(6) Where this paragraph applies, in determining a first application for a train driving certificate a railway undertaking or infrastructure manager—
+
+- (a) must take into account any train driving qualifications, experience and competencies relevant to the rolling stock or infrastructure in relation to which the certificate is sought, acquired by the applicant prior to the application;
+- (b) may waive, in whole or in part, the requirement in regulation 9(2)(c) if it thinks it appropriate to do so; and
+- (c) may require the applicant to pass other examinations or tests, or undertake further training, if it thinks it appropriate to do so.
+
+(7) Paragraphs (5) and (6) apply to a first application for a train driving licence, or train driving certificate, made before the 29th October 2018.
+
+## PART 15 — Review[^key-ea2e2504f1ed3b5292c3e21b2115701f]
+
+### 40. Review
+
+(1) Before the end of each review period, the Secretary of State must—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the Directive is implemented in other member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) “Review period” means—
+
+- (a) the period of five years beginning with the day on which the Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 come into force; and
+- (b) subject to paragraph (5), each successive period of five years.
+
+(5) If a report under this regulation is published before the last day of the review period to which it relates, the following review period is to begin with the day on which that report is published.
+
+Signed by authority of the Secretary of State
+
+C.D. Mole
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+## SCHEDULE 1 — MEDICAL REQUIREMENTS
+
+Regulations 4, 8 and 13
+
+### (This Schedule substantially reproduces the provisions of Annex II to the Directive)
+
+#### 1. GENERAL REQUIREMENTS
+
+(1) Drivers must not be suffering from any medical conditions or be taking any medication, drugs or substances which are likely to cause—
+
+- (a) a sudden loss of consciousness,
+- (b) a reduction in attention or concentration,
+- (c) sudden incapacity,
+- (d) a loss of balance or coordination,
+- (e) significant limitation of mobility.
+
+*Vision*
+
+(2) The following requirements as regards vision must be complied with—
+
+- (a) aided or unaided distance visual acuity: 1,0; minimum of 0,5 for the worse eye,
+- (b) maximum corrective lenses: hypermetropia + 5/myopia -8, (derogations may be authorised in exceptional cases and after having obtained the opinion of an eye specialist, the recognised doctor then takes the decision),
+- (c) near and intermediate vision: sufficient, whether aided or unaided,
+- (d) contact lenses and glasses are authorised when periodically checked by a specialist,
+- (e) normal colour vision: use of a recognised test, such as Ishihara, as well as another recognised test if required,
+- (f) field of vision: full,
+- (g) vision for both eyes: effective[^key-b2809961553e338f767a11f4f9e3c7b9]...,
+- (h) binocular vision: effective,
+- (i) recognition of colour signals: the test must be based on recognition of single colours and not on relative differences,
+- (j) sensitivity to contrasts: good,
+- (k) no progressive eye disease,
+- (l) lens implants, keratotomies and keratectomies are allowed only on condition that they are checked on a yearly basis or at intervals set by a recognised doctor,
+- (m) ability to withstand dazzle,
+- (n) coloured contact lenses and photochromatic lenses are not allowed, but UV filter lenses are allowed.
+
+*Hearing and speaking requirements*
+
+(3) Sufficient hearing confirmed by an audiogram, i.e.— – hearing good enough to hold a phone conversation and to be able to hear warning sounds and radio messages. The following values should be taken as guidelines—
+
+- (a) the hearing deficiency must not be higher than 40 dB at 500 and 1000 Hz,
+- (b) the hearing deficiency must not be higher than 45 dB at 2000 Hz for the ear with the worst air conduction of sound,
+- (c) no anomaly of the vestibular system,
+- (d) no chronic speech disorder (given the necessity to exchange messages loudly and clearly),
+- (e) the use of hearing aids is allowed in special cases.
+
+*Pregnancy*
+
+(4) In the event of poor tolerance or a pathological condition, pregnancy must be considered to be a reason for the temporary exclusion of drivers. Legal provisions protecting pregnant drivers must be applied.
+
+#### 2. MINIMUM CONTENT OF THE EXAMINATION BEFORE APPOINTMENT
+
+(1) Medical examinations—
+
+- (a) a general medical examination,
+- (b) examinations of sensory functions (vision, hearing, colour perception),
+- (c) blood or urine tests, testing among others for diabetes mellitus, insofar as they are necessary to judge the candidate's physical aptitude,
+- (d) an Electro-Cardiogram (ECG) at rest,
+- (e) tests for psychotropic substances such as illicit drugs or psychotropic medication and the abuse of alcohol calling into question the fitness for the job,
+- (f) cognitive: attention and concentration; memory; perception; reasoning,
+- (g) communication,
+- (h) psychomotor: reaction time, hand coordination.
+
+(2) Occupational psychological examinations— The purpose of the occupational psychological examination is to assist in the appointment and management of staff. In determining the content of the psychological evaluation, the examination must assess that the applicant driver has no established occupational psychological deficiencies, particularly in operational aptitudes or any relevant personality factor, which are likely to interfere with the safe exercise of the duties.
+
+#### 3. PERIODIC EXAMINATIONS AFTER APPOINTMENT
+
+(1) Frequency
+
+- (a) Medical examinations (physical fitness) must be taken at least every three years up to the age of 55, thereafter every year.
+- (b) In addition to this frequency, a recognised doctor must increase the frequency of examinations if the health of the member of staff so requires.
+- (c) Without prejudice to regulation 13 an appropriate medical examination must be carried out when there is reason to doubt that a holder of a train driving licence or train driving certificate fulfils the medical requirements set out in paragraph 1 (General Requirements) of this Schedule.
+- (d) Physical fitness must be checked regularly and after any occupational accident or any period of absence following an accident involving persons. The recognised doctor can decide to carry out an additional appropriate medical examination, particularly after a period of at least 30 days' sick leave. The employer must ask a recognised doctor to check the physical fitness of the train driver if the employer has to withdraw the driver from service for safety reasons.
+
+(2) Minimum content of the periodic medical examination If the train driver complies with the criteria required for the examination which is carried out before appointment, the periodic examinations must include as a minimum—
+
+- (a) a general medical examination,
+- (b) an examination of sensory functions (vision, hearing, colour perception),
+- (c) blood or urine tests to detect diabetes mellitus and other conditions as indicated by the clinical examination,
+- (d) tests for drugs where clinically indicated.
+
+In addition, an ECG at rest is also required for train drivers over 40 years of age.
+
+## SCHEDULE 2 — ... MODEL TRAIN DRIVING LICENCE AND ... COMPLEMENTARY TRAIN DRIVING CERTIFICATE[^key-e63c2a438620a39ef758e92434b3f2bb][^key-e63c2a438620a39ef758e92434b3f2bb]
+
+Regulations 5, 24 and 25
+
+### (This Schedule substantially reproduces the provisions of Annex I to the Directive)
+
+#### 1. CHARACTERISTICS OF THE LICENCE
+
+The following apply.—
+
+- (a) The physical characteristics of the train driving licence must be in conformity with ISO standards 7810:2003 and 7816-1:1998 [^c20193381].
+- (b) The card must be made of polycarbonate.
+- (c) The methods for verifying the characteristics of train driving licences to ensure that they are consistent with international standards must comply with ISO standard 10373-1:2006 [^c20193391].
+
+#### 2. CONTENTS OF THE LICENCE
+
+The front of the licence must contain—
+
+- (a) the words “Train Driving Licence” printed in large type [^key-1129c735e0bc5b6c09e473d3ddff6201]...,
+- (b) the words “United Kingdom”,
+- (c)[^key-c0b9d38e7aa31224a6da6552b1522039] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) information specific to the licence issued, numbered as follows—
+  - (i) the surname of the holder,
+  - (ii) other name(s) of the holder,
+  - (iii) the date and place of birth of the holder,
+  - (iv) the following— - the date of issue of the licence, - the date of expiry of the licence, - the words “Office of Rail and Road[^M_F_85c716fc-033f-4ff9-b80b-e2d61de707fc]”, - the reference number assigned to the holder by the holder's employer (optional),
+  - (v) the number of the licence giving access to data in the register referred to in regulation 24,
+  - (vi) a photograph of the holder,
+  - (vii) the signature of the holder,
+  - (viii) the permanent place of residence or postal address of the holder (optional),
+- (e)[^key-133b37a8141f0087965d0f4b4ce5457a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^key-631af4d8a803f931d16aeb4d77caf7fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) additional information, or medical restrictions for use imposed by the ORR in accordance with Schedule 1, in code form.
+
+  [^M_F_d8982d07-1cd6-4917-ad56-97800b9896c7]...
+
+#### 3. CERTIFICATE
+
+The certificate must contain—
+
+- (a) the surname of the holder,
+- (b) other name(s) of the holder,
+- (c) the date and place of birth of the holder,
+- (d) the following—
+  - (i) the date of issue of the certificate,
+  - (ii) the date of expiry of the certificate,
+  - (iii) the name of the issuing railway undertaking or infrastructure manager,
+  - (iv) the reference number assigned to the holder by the issuing railway undertaking or infrastructure manager (optional),
+- (e) the number of the certificate giving access to data in the register referred to in regulation 25,
+- (f) a photograph of the holder,
+- (g) the signature of the holder,
+- (h) the permanent place of residence or postal address of the holder (optional),
+- (i) the name and address of the railway undertaking or infrastructure manager for which the train driver is authorised to drive trains,
+- (j) the category in which the holder is entitled to drive,
+- (k) the type of rolling stock which the holder is entitled to drive,
+- (l) the infrastructures on which the holder is authorised to drive,
+- (m) any additional information or restrictions,
+- (n) language skills.
+
+#### 4. MINIMUM DATA CONTAINED IN REGISTERS OF TRAIN DRIVING LICENCES AND TRAIN DRIVING CERTIFICATES
+
+The minimum data is as follows—
+
+- (a) Data relating to the licence—
+
+  All data appearing on the licence plus data relating to the checking requirements set out in regulations 8 and 13.
+- (b) Data relating to the certificate—
+
+  All data appearing on the certificate plus data relating to the checking requirements set out in regulations 9 and 15.
+
+## SCHEDULE 3 — GENERAL PROFESSIONAL KNOWLEDGE AND REQUIREMENTS REGARDING THE LICENCE[^key-dff597f4ffcdc1155c965c35515f2e65]
+
+Regulations 8 and 29
+
+### (This Schedule substantially reproduces the provisions of Annex IV to the Directive)
+
+**1.** The objective of the general training is to provide general competence on all aspects that are relevant to the train driver’s profession. The general training must focus on basic knowledge and principles that are applicable independently of the type and nature of rolling stock or infrastructure. Requirements for training for specific rolling stock or infrastructure are specified in Schedules 4 and 5 of these Regulations.
+
+**2.** In relation to a driver’s work, the work environment, the driver’s role and responsibility in the process of rail operation, the professional and personal demands of the driver’s duties the driver must—
+
+- (a) have acquired knowledge of the general thrust of legislation and rules applicable to rail operation and safety (requirements and procedures regarding the certification of train drivers, dangerous goods, environmental protection, fire protection, etc.);
+- (b) understand the specific requirements and professional and personal demands (working mainly on one’s own, shift work over 24 hour cycle, individual protection and security, reading and updating documents, etc.);
+- (c) understand behaviours which are compatible with safety-critical responsibilities (medication, alcohol, drugs and other psychoactive substances, illness, stress, fatigue, etc.);
+- (d) be able to identify the reference and operating documents (e.g. rule book, route book, driver’s manual, etc.);
+- (e) be able to identify the responsibilities and functions of persons involved;
+- (f) understand the importance of being precise in carrying out duties and in working methods;
+- (g) understand occupational health and safety (e.g. code of behaviour on and near tracks, code of behaviour for getting on and off the traction unit safely, ergonomics, staff safety rules, personal protective equipment, etc.);
+- (h) have acquired knowledge of behavioural skills and principles (stress management, extreme situations, etc.); and
+- (i) have acquired knowledge of the principles of environmental protection (sustainable driving, etc.).
+
+**3.** In relation to railway technologies, including safety principles behind operational regulations the driver must—
+
+- (a) have acquired knowledge of the principles, regulations and provisions regarding safety in rail operation; and
+- (b) be able to identify the responsibilities and functions of persons involved.
+
+**4.** In relation to the basic principles of railway infrastructure the driver must have acquired knowledge of —
+
+- (a) systematic and structural principles and parameters;
+- (b) the general characteristics of tracks, stations, marshalling yards;
+- (c) railway structures (bridges, tunnels, points, etc.);
+- (d) operating modes (single track, double track operation, etc.);
+- (e) signalling and train control systems;
+- (f) safety installations (hot-axle box detectors, smoke detectors in tunnels, etc.) and
+- (g) traction power supply (catenary, third rail, etc.).
+
+**5.** In relation to the basic principles of operational communication the train driver must—
+
+- (a) have acquired knowledge of the significance of communication and the means and procedures for communicating;
+- (b) be able to identify persons the driver needs to contact and their role and responsibility (staff of the infrastructure manager, working duties of other train staff, etc.);
+- (c) be able to identify situations/causes that require communication to be initiated; and
+- (d) understand communication methods.
+
+**6.** In relation to trains, their composition and the technical requirements for traction units, wagons, coaches and other rolling stock the driver must—
+
+- (a) have acquired knowledge of the generic types of traction (electric, diesel, steam, etc.);
+- (b) be able to describe the layout of a vehicle (bogies, bodies, driving cab, protection systems, etc.);
+- (c) have acquired knowledge of the content and systems of labelling;
+- (d) have acquired knowledge of the documentation on train composition;
+- (e) understand braking systems and performance calculation;
+- (f) be able to identify train speed;
+- (g) be able to identify maximum load and forces at the coupler; and
+- (h) have acquired knowledge of the operation and purpose of the train management system.
+
+**7.** In relation to hazards involved in railway operations in general the driver must—
+
+- (a) understand the principles governing traffic safety;
+- (b) have acquired knowledge of the risks related to railway operation and the various means to be used to mitigate them;
+- (c) have acquired knowledge of safety-relevant incidents and understand the required behaviour/reaction; and
+- (d) have acquired knowledge of the procedures applicable to accidents involving persons (e.g. evacuation).
+
+**8.** In relation to the basic principles of physics the driver must—
+
+- (a) understand forces at the wheel;
+- (b) be able to identify factors influencing accelerating and braking performance (weather conditions, braking equipment, reduced adhesion, sanding, etc.); and
+- (c) understand principles of electricity (circuits, measuring voltage, etc.).
+
+## SCHEDULE 4 — PROFESSIONAL KNOWLEDGE OF INFRASTRUCTURE AND REQUIREMENTS REGARDING THE TRAIN DRIVING CERTIFICATE
+
+Regulations 9 and 29
+
+### (This Schedule substantially reproduces the provisions of Annex VI to the Directive)
+
+#### 1. TESTING THE BRAKES
+
+Drivers must be able to check and calculate, before departure, that the train's braking power corresponds to the braking power required for the line, as specified in the vehicle documents.
+
+#### 2. TYPE OF OPERATION AND MAXIMUM TRAIN SPEED ACCORDING TO THE LINE CHARACTERISTICS
+
+Drivers must be able to—
+
+- (a) take note of information given to them, such as the speed limits or any signalling changes,
+- (b) determine the type of running and the limit speed of the train on the basis of the characteristics of the line.
+
+#### 3. KNOWLEDGE OF THE LINE
+
+Drivers must be able to anticipate problems and react appropriately in terms of safety and other performances, such as punctuality and economic aspects. They must therefore have a thorough knowledge of the railway lines and installations on their route and of any alternative routes agreed on.
+
+The following aspects are important—
+
+- (a) operational conditions (changes of track, one-way running, etc.),
+- (b) perform a route check and consult the relevant documents,
+- (c) identification of tracks that can be used for a given type of running,
+- (d) the applicable traffic rules and the meaning of the signalling system,
+- (e) the operations regime,
+- (f) the block system and associated regulations,
+- (g) station names and the position, and distance-sighting, of stations and signal boxes and to adapt driving accordingly,
+- (h) transition signalling between different operating or power supply systems,
+- (i) speed limits for the different train categories driven,
+- (j) topographical profiles,
+- (k) particular braking conditions, for example on lines with a steep downward gradient,
+- (l) particular operating features: special signals, signs, departure conditions, etc.
+
+#### 4. SAFETY REGULATIONS
+
+Drivers must be able to—
+
+- (a) start the trains only when all prescribed conditions are fulfilled (timetable, start order or signal, operation of signals if required, etc.),
+- (b) observe track-side and in-cab signals, interpret them immediately and without error, and act as specified,
+- (c) run the train safely according to the specific modes of operation: apply special modes if instructed, temporary speed restrictions, running in opposite direction, permission to pass signals at danger, switching operations, turns, running through construction sites, etc,
+- (d) respect scheduled or supplementary stops, and if necessary perform supplementary operations for passengers during these stops, notably opening and closing the doors.
+
+#### 5. DRIVING THE TRAIN
+
+Drivers must be able to—
+
+- (a) know the train's position on the line at all times,
+- (b) apply the brakes for decelerations and stops, taking account of the rolling stock and installations,
+- (c) adjust the running of the train in accordance with the timetable and any orders given on saving energy, taking account of the characteristics of the traction unit, the train, the line and the environment.
+
+#### 6. ANOMALIES
+
+Drivers must be able to—
+
+- (a) be attentive, insofar as train operation permits, to unusual occurrences concerning the infrastructure and the environment: signals, tracks, energy supply, level crossings, track surrounding, other traffic,
+- (b) know particular distances to clear obstacles,
+- (c) inform the infrastructure manager as soon as possible of the place and nature of anomalies observed, making sure that the information has been understood,
+- (d) taking into account the infrastructure, ensure or take measures to ensure the safety of traffic and persons, whenever necessary.
+
+#### 7. OPERATING INCIDENTS AND ACCIDENTS, FIRES AND ACCIDENTS INVOLVING PERSONS
+
+Drivers must be able to—
+
+- (a) take steps to protect the train and summon assistance in the event of an accident involving persons,
+- (b) determine where to stop the train in the event of a fire and facilitate the evacuation of passengers, if necessary,
+- (c) provide useful information on the fire as soon as possible if the fire can not be brought under control by the driver acting alone,
+- (d) inform the infrastructure manager of these conditions as soon as possible,
+- (e) assess whether the infrastructure allows the vehicle to continue to run and under which conditions.
+
+#### 8. LANGUAGE TESTS[^key-2191f1370da6eb1a1bdf928445a04979]
+
+The language requirements are as follows—
+
+(1) Drivers who have to communicate with the infrastructure manager on critical safety issues must have language skills in the language indicated by the infrastructure manager concerned. Their language skills must be such that they can communicate actively and effectively in routine, adverse and emergency situations.
+
+(2) They must be able to use the messages and communication method specified in the NTSN relating to the ‘operation and traffic management’ subsystem of the rail system[^key-cdda063c45241e49313563e61d3389e6].
+
+(3) Drivers must be able to understand (both listening and reading) and to communicate (both speaking and writing) according to level B1 of the Common European Framework of Reference for Languages (CEFR) established by the Council of Europe.
+
+(4)[^key-47828bb72df598e748ef38abf92c4ec3] In this paragraph, “NTSN”, “subsystem” and “rail system” have the meanings set out in regulation 2(1) of the Railways (Interoperability) Regulations 2011.
+
+## SCHEDULE 5 — PROFESSIONAL KNOWLEDGE OF ROLLING STOCK AND REQUIREMENTS REGARDING THE TRAIN DRIVING CERTIFICATE
+
+Regulations 9 and 29
+
+### (This Schedule substantially reproduces the provisions of Annex V to the Directive)
+
+After completing specific training in relation to rolling stock, drivers must be able to carry out the following tasks—
+
+#### 1. TESTS AND CHECKS PRIOR TO DEPARTURE
+
+Drivers must be able to—
+
+- (a) collect the documentation and the necessary equipment,
+- (b) check the capacities of the traction unit,
+- (c) check the information entered in the documents on board the traction unit,
+- (d) ensure, by performing the checks and tests specified, that the traction unit is capable of providing the required traction power, and that the safety equipment is operating,
+- (e) check the availability and functionality of the prescribed protection and safety equipment at the handover of a locomotive or at the start of a trip,
+- (f) perform any routine preventative maintenance operations.
+
+#### 2. KNOWLEDGE OF ROLLING STOCK
+
+Knowledge required—
+
+(1) To operate a locomotive drivers must be familiar with all the controls and indicators placed at their disposal, in particular those concerning—
+
+- (a) traction,
+- (b) braking,
+- (c) traffic safety related elements.
+
+(2) In order to detect and locate anomalies in the rolling stock, report them and determine what is required to repair them, and in certain cases to take action, drivers must be familiar with—
+
+- (a) mechanical structures,
+- (b) suspension and attachment equipment,
+- (c) running gear,
+- (d) safety equipment,
+- (e) fuel tanks, fuel supply systems, exhaust equipment,
+- (f) the meaning of markings on the inside and outside of the rolling stock, in particular the symbols used for the transportation of dangerous goods,
+- (g) trip registration systems,
+- (h) electrical and pneumatic systems,
+- (i) collection of current and high-voltage systems,
+- (j) communication equipment (ground-to-train radio, etc),
+- (k) arrangement of trips,
+- (l) the constituent parts of the rolling stock, their purpose, and the devices specific to the hauled stocks, in particular the system of stopping the train by venting the brake pipe,
+- (m) braking system,
+- (n) the parts specific to traction units,
+- (o) traction chain, motors and transmission.
+
+#### 3. TESTING THE BRAKES
+
+Drivers must be able to—
+
+- (a) check and calculate, before departure, that the train's braking power corresponds to the braking power required for the line, as specified in the vehicle documents,
+- (b) check the functioning of the various components of the braking system of the traction unit and of the train, as appropriate, before departure, at start-up and during running.
+
+#### 4. OPERATING MODE AND MAXIMUM SPEED OF THE TRAIN IN RELATION TO THE LINE CHARACTERISTICS
+
+Drivers must be able to—
+
+- (a) take note of information given to them before departure,
+- (b) determine the type of running and the limit speed of the train on the basis of variables such as speed limits, weather conditions or any signalling changes.
+
+#### 5. DRIVING THE TRAIN IN A WAY WHICH DOES NOT DAMAGE INSTALLATIONS OR VEHICLES
+
+Drivers must be able to—
+
+- (a) use all available control systems in accordance with the applicable rules,
+- (b) start the train taking account of adhesion and power constraints,
+- (c) apply the brakes for decelerations and stops, taking account of the rolling stock and installations.
+
+#### 6. ANOMALIES
+
+Drivers must—
+
+- (a) be able to be attentive to unusual occurrences concerning the behaviour of the train,
+- (b) be able to inspect the train and identify signs of anomalies, distinguish between them, react according to their relative importance and try to remedy them, always giving priority to the safety of rail traffic and persons,
+- (c) know the available means of protection and communication.
+
+#### 7. OPERATING INCIDENTS AND ACCIDENTS, FIRES AND ACCIDENTS INVOLVING PERSONS
+
+Drivers must—
+
+- (a) be able to take steps to protect the train and summon assistance in the event of an accident involving persons on board the train,
+- (b) be able to determine whether the train is transporting dangerous goods and identify them on the basis of train documents and wagon lists,
+- (c) know the procedures relating to the evacuation of a train in case of emergency.
+
+#### 8. CONDITIONS FOR CONTINUING RUNNING AFTER AN INCIDENT INVOLVING ROLLING STOCK
+
+After an incident, drivers must be able to assess whether the vehicle can continue to run and under what conditions, so as to inform the infrastructure manager of those conditions as soon as possible.
+
+Drivers must be able to determine if an expert evaluation is necessary before the train can continue.
+
+#### 9. IMMOBILISATION OF THE TRAIN
+
+Drivers must be able to take measures to ensure that the train, or parts thereof, does not start up or move unexpectedly, even in the most difficult conditions.
+
+Furthermore, drivers must have knowledge about measures which can stop a train or parts thereof in case it has started to move unexpectedly.
+
+## SCHEDULE 6 — FREQUENCY OF EXAMINATIONS
+
+Regulation 15
+
+### (This Schedule substantially reproduces the provisions of Annex VII to the Directive)
+
+The minimum frequency of the periodic checks shall be as follows—
+
+- (a) linguistic knowledge (only for non-native speakers): every three years or after any absence of more than one year,
+- (b) infrastructure knowledge (including route and operation rules knowledge): every three years or after any absence of more than one year on the relevant route,
+- (c) knowledge of rolling stock: every three years.
+
+## SCHEDULE 7 — TRAINING METHOD
+
+Regulation 29
+
+### (This Schedule substantially reproduces the provisions of Annex III to the Directive)
+
+Training method requirements and guidance are as follows—
+
+(1) There must be a good balance between theoretical training (classroom and demonstrations) and practical training (on-the-job experience, driving with supervision and driving without supervision on tracks which are closed off for training purposes).
+
+(2) Computer-aided training must be accepted for individual learning of the operational rules, signalling situations, etc.
+
+(3) The use of simulators, although not obligatory, may be useful for the effective training of drivers; they are particularly useful for training in abnormal working conditions or for rules infrequently applied. They have a particular advantage in their ability to provide learning-by-doing capability for events that cannot be trained in the real world. In principle, simulators of the latest generation must be used.
+
+(4) Concerning the acquisition of route knowledge, the approach to be favoured must be where the train driver accompanies another driver for an appropriate number of journeys along the route, in daylight as well as at night. Videos of the routes as seen from the driver's cab may be used, among other methods, as an alternative training method.
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement, for Great Britain, Directive [2007/59/EC](https://www.legislation.gov.uk/european/directive/2007/0059) of the European Parliament and of the Council of 23rd October 2007 on “the certification of train drivers operating locomotives and trains on the railway system in the Community” (Official Journal No. L 315, 3.12.2007, p.51).
+
+They establish a regime for the licensing and certification of train drivers who drive trains on the mainline railway network. Railway undertakings and infrastructure managers are not to deploy a person to drive a train on that network unless the person is the holder of a licence and a certificate. The licence is recognised by other European Member States and indicates satisfaction of medical checks and possession of general professional competence. The certificate indicates the infrastructure on which the holder is authorised to drive and the rolling stock which the holder is authorised to drive *(regulation 4)*. Licences may be granted by the Office of Rail Regulation *(regulation 8)*, and certificates may be granted by railway undertakings and infrastructure managers *(regulation 9)*.
+
+Associated provisions are included, in particular provision for the training and examination of train drivers *(Part 8)*, the establishment of registers of licences and certificates *(regulations 24 and 25)*, the suspension and withdrawal of licences and certificates *(Part 6)* and enforcement *(regulation 38)*.
+
+The requirements to have a licence and certificate are introduced in phases over a number of years, but the Office of Rail Regulation, railway undertakings and infrastructure managers are empowered to issue licences and certificates in advance of their becoming mandatory *(regulation 39)*.
+
+An impact assessment of the effect these Regulations will have on the costs of business can be obtained from the International Rail Division, Department for Transport, Great Minister House, 76 Marsham Street, London SW1P 4DR. A transposition note in relation to the implementation of the train driver licensing Directive by these Regulations can also be obtained from this address. They are also annexed to the Explanatory Memorandum published with these Regulations on the website of the Office of Public Sector Information, www.opsi.gov.uk.
+
+## Annotations
+
+[^c20193171]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51), [section 27(1)](https://www.legislation.gov.uk/ukpga/2006/51/section/27/1) (a); also amended by the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7), [Sch](https://www.legislation.gov.uk/ukpga/2008/7/schedule)edule, Part 1.
+
+[^c20193181]: Marginal citation: [S.I. 1996/266](https://www.legislation.gov.uk/uksi/1996/266) to which there are amendments not relevant to these Regulations.
+
+[^c20193191]: Marginal citation: [1974 c.37](https://www.legislation.gov.uk/ukpga/1974/37).
+
+[^key-e333c644734811eb1e468890061d4c89]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/a)
+
+[^key-acfcc4481c2a4c7f8ff9fdee7462b957]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3f29c1d074081bba41592556f5556b19]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-95deace8110a431d0ee912c8581e0d77]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/6/2/a))
+
+[^key-6da8a42f00843240dae73a588d81eed0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/b)
+
+[^key-6cba8ff97bf852a17f9528c9e6c4dcb7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/c)
+
+[^key-e5857f2547efe434615666825dd762d9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/d)
+
+[^key-413b4e8c647e6a1409f26ab21c57d4fd]: Textual amendment: Words in reg. 2 inserted (21.5.2013) by [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/950/regulation/4/2)
+
+[^c20193231]: Marginal citation: [S.I. 2007/3531](https://www.legislation.gov.uk/uksi/2007/3531).
+
+[^c20193241]: Marginal citation: Presented to Parliament by the Secretary of State for Foreign and Commonwealth Affairs by Command of Her Majesty February 1986. Published as Treaty Series No. 15 (1992), Command Paper 1827. (Out of print but copies may be obtained from the British Library.)
+
+[^c20193251]: Marginal citation: [1987 c.53](https://www.legislation.gov.uk/ukpga/1987/53).
+
+[^key-3c6f1d8668081f3160466f2a7455f5dc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/e)
+
+[^key-62dabfd8eeea8abe4d0e4325fe861bda]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8ca2658cc867fb66030c2802baca8c7e]: Textual amendment: Words in reg. 2 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(z)(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/z/i)
+
+[^key-d25272332b4628c981b542ccab03bc22]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(f)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/f)
+
+[^key-9b6a895312e7cd474cdaea6da32b006c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(f)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a97704881384232140f6d311ca94aeae]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(2)(g)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/2/g)
+
+[^c20193261]: Marginal citation: [S.I. 2006/599](https://www.legislation.gov.uk/uksi/2006/599).
+
+[^key-5dfe98493af06f3ec49db44c6a250396]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(g)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c5d09a99b9a9207dac7209815fafaa32]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(h)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3c213d14c4aaa0b070a9b99cc1e37f1f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(i)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-608b6546f3bf79c45769beda1b55f861]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/724/regulation/2) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(2)(j)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/2/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fe66c10bc4c4d7ff8c90b4775746becf]: Textual amendment: Reg. 3(1A) inserted (21.5.2013) by [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2013/950/regulation/4/3)
+
+[^key-f83d75b866ce035a8dbae435ecab14e9]: Textual amendment: Words in reg. 3(1A) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(z)(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/z/ii)
+
+[^key-7647b447d96ab6693acbe7a8efcab0e6]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/1) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c5d2f2b36a86370947738a2df2f19260]: Textual amendment: Words in [reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/1/c) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/3/a)
+
+[^key-c39c6f101b45e1fbdffe2b094ee8f769]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/3A)[(3B)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/3B) inserted (30.6.2026) by [The Train Driving Licences and Certificates (Amendment) Regulations 2026 (S.I. 2026/461)](https://www.legislation.gov.uk/uksi/2026/461), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/461/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/461/regulation/2/2/a)
+
+[^key-2156cc5af7e934ef16b4fab2a3858c11]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/4) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a548cb9ef2e99191267de69c23595762]: Textual amendment: Words in [reg. 4(4)(a)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/4/a) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/3/b)
+
+[^key-453c8d8e9633d1c976683626207e4ed2]: Textual amendment: [Reg. 4(4A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/4A) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1e04d2a85e18170e46f654412bcf1207]: Textual amendment: Words in [reg. 4(4A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/4A) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/3/c)
+
+[^key-55e89cbe8ae506a2558a7fc3ecbe7993]: Textual amendment: [Reg. 4(4B)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/4B) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/3/d)
+
+[^key-ecec74faaeda67704c0e07584b161c6f]: Textual amendment: Words in [reg. 4(8)(a)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/8/a) omitted (30.6.2026) by virtue of [The Train Driving Licences and Certificates (Amendment) Regulations 2026 (S.I. 2026/461)](https://www.legislation.gov.uk/uksi/2026/461), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/461/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/461/regulation/2/2/b)
+
+[^key-d8c589a978c8e7928fb7e17459c78373]: Textual amendment: [Reg. 4(9)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/9) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6e855bf1275394b691b71a104952aa2e]: Textual amendment: Words in [reg. 4(11)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/11) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-43b6629e1dff13a2ad927f479c269ef2]: Textual amendment: Words in [reg. 4(11)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/11) substituted (31.1.2022 at 11:00 p.m.) by virtue of [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/3/e)
+
+[^key-3321e674422a3fd4444d82cc22d2c5e9]: Textual amendment: Word in [reg. 4(13)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/13) substituted (30.6.2026) by [The Train Driving Licences and Certificates (Amendment) Regulations 2026 (S.I. 2026/461)](https://www.legislation.gov.uk/uksi/2026/461), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/461/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/461/regulation/2/2/c)
+
+[^key-70fb49d28190d6c28200880440cd0872]: Textual amendment: [Reg. 4(14)](https://www.legislation.gov.uk/uksi/2010/724/regulation/4/14) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(3)(f)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/3/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3f4bd4eb31ef3e00532910013887c424]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/5/1) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-de044a0f831be4ba275825132c971011]: Textual amendment: Word in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2010/724/regulation/8/2/a) substituted (30.6.2026) by [The Train Driving Licences and Certificates (Amendment) Regulations 2026 (S.I. 2026/461)](https://www.legislation.gov.uk/uksi/2026/461), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/461/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/461/regulation/2/3)
+
+[^c20193281]: Marginal citation: O.J. No. L 199, 31.7.1985, p. 56.
+
+[^key-dd9d1e2dcc49e673ceec5be0484cd63e]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/uksi/2010/724/regulation/8/5) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 96(2)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/96/2/a)
+
+[^key-816a92e4661aa8a2cb5088c1cd688cd3]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/uksi/2010/724/regulation/8/6) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 96(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/96/2/b)
+
+[^key-1b1c594231622793c74282d82ab9b79f]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/9/1A) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9efebc72d155473cc3d4ac95c432a43a]: Textual amendment: Words in [reg. 9(1A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/9/1A) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/4)
+
+[^key-9a3db16c1cc53bf997f1c1811d837a7a]: Textual amendment: [Reg. 13(1A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/13/1A) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b85508155f1506b9023f35f1ff9a6ccc]: Textual amendment: [Reg. 17(6)](https://www.legislation.gov.uk/uksi/2010/724/regulation/17/6) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-319ce75a040f6db2a5f47191186a48f5]: Textual amendment: Words in [reg. 17(6)](https://www.legislation.gov.uk/uksi/2010/724/regulation/17/6) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/5)
+
+[^key-9177e999f49c15cd76cc98bb7c14b2c5]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/18/1) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-59c64070fdc42d568499cd537cd1007e]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/uksi/2010/724/regulation/18/3) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(8)(b)(i)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/8/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-21c8a80f1876e134dcf4800d003d33a5]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/uksi/2010/724/regulation/18/3) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/8/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-747b2ccb1afe8672f38e6baed0fabc88]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2010/724/regulation/19) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-92707e83a4a028b9531a7d563a0245aa]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/uksi/2010/724/regulation/19/2) substituted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/6)
+
+[^key-c28524105b96daf471488d348a42b35c]: Textual amendment: [Reg. 20(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/20/1)[(1A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/20/1A) substituted for [reg. 20(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/20/1) (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/7/a)
+
+[^key-4c00ec8b63c11706e3e0c713b840ceba]: Textual amendment: [Reg. 20(5)](https://www.legislation.gov.uk/uksi/2010/724/regulation/20/5)[(5A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/20/5A) substituted for [reg. 20(5)](https://www.legislation.gov.uk/uksi/2010/724/regulation/20/5) (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/7/b)
+
+[^key-db0e9ea2e1cced6af363d8d28e1ae4f5]: Textual amendment: [Reg. 21(3)](https://www.legislation.gov.uk/uksi/2010/724/regulation/21/3) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-790a1cc01ec43626d3e7d07e3af92158]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2010/724/regulation/22) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8f6c4177079eb0edc1bcd4be891fe89c]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/2010/724/regulation/23/3) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(13)(a)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/13/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2b3dfaf89409f0e61590d541110585cd]: Textual amendment: [Reg. 23(4)](https://www.legislation.gov.uk/uksi/2010/724/regulation/23/4) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(13)(b)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/13/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7c860b6c612fc0bfa3cc0ead6b253ba7]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/24/1) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(14)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a9392eca51d91e87ecb7fefe833a3fb8]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/2010/724/regulation/26) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(15)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-485cb857e36059f50e37b275f125258b]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/2010/724/regulation/26A) inserted (31.1.2022 at 11:00 p.m.) by [The Train Driving Licences and Certificates (Amendment) Regulations 2022 (S.I. 2022/85)](https://www.legislation.gov.uk/uksi/2022/85), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/85/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2022/85/regulation/2/8)
+
+[^key-a96fdc0c04917fa527571b4cb66fb345]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2010/724/regulation/27) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(16)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2f1fea4df649043b1bca234a744ac00f]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2010/724/regulation/28) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(17)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d9ed5d1404a84e4403be1535322e150c]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2010/724/regulation/30/1) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(18)(a)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/18/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-189febfa2211b421508156db18e651da]: Textual amendment: [Reg. 30(1A)](https://www.legislation.gov.uk/uksi/2010/724/regulation/30/1A) inserted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(18)(b)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3358fe4c5820bc3bdb33940f3fa93256]: Textual amendment: [Reg. 31(3)(b)](https://www.legislation.gov.uk/uksi/2010/724/regulation/31/3/b) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(19)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20193291]: Marginal citation: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53).
+
+[^key-b58404f65d8e2e0cadd8149e7b167873]: Textual amendment: [Reg. 35(7)](https://www.legislation.gov.uk/uksi/2010/724/regulation/35/7) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 83(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/83/a)
+
+[^c20193311]: Marginal citation: [S.I. 1974/2040](https://www.legislation.gov.uk/uksi/1974/2040).
+
+[^c20193321]: Marginal citation: [S.I. 1974/2068](https://www.legislation.gov.uk/uksi/1974/2068).
+
+[^key-d99606afb13b92f85762babaebf47124]: Textual amendment: [Reg. 36(7)](https://www.legislation.gov.uk/uksi/2010/724/regulation/36/7) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 83(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/83/b)
+
+[^c20193331]: Marginal citation: Section 20(7) was amended by the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), [Schedule 27](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27), [paragraph 49](https://www.legislation.gov.uk/ukpga/2004/33/paragraph/49).
+
+[^c20193341]: Marginal citation: Section 22(1) and (2) were amended by, and section 22(4) was substituted by, the [Consumer Protection Act 1987 (c.43)](https://www.legislation.gov.uk/ukpga/1987/43), [Schedule 3](https://www.legislation.gov.uk/ukpga/1987/43/schedule/3).
+
+[^c20193351]: Marginal citation: Section 24(2) and (4) were amended by the [Employment Rights (Dispute Resolution) Act 1998 (c.8)](https://www.legislation.gov.uk/ukpga/1998/8), [section 1(2)(a)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/a).
+
+[^c20193361]: Marginal citation: Section 28(4) was substituted by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960). Section 28(5) was amended by [S.I. 2004/3363](https://www.legislation.gov.uk/uksi/2004/3363). Section 28(9) was inserted by the [Employment Protection Act 1975 (c.71)](https://www.legislation.gov.uk/ukpga/1975/71), [Schedule 15](https://www.legislation.gov.uk/ukpga/1975/71/schedule/15), [paragraph 9](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/9). There are other amendments to section 28 not relevant to these Regulations.
+
+[^c20193371]: Marginal citation: Section 33(1)(c) was amended by the [Employment Protection Act 1975 (c.71)](https://www.legislation.gov.uk/ukpga/1975/71), [Schedule 15](https://www.legislation.gov.uk/ukpga/1975/71/schedule/15), [paragraph 11](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/11), and Schedule 18. Section 33(1)(m) was amended by the [Forgery and Counterfeiting Act 1981 (c.45)](https://www.legislation.gov.uk/ukpga/1981/45), the Schedule, Part 1.
+
+[^key-e2e0a8f230b74688e13fbc0446322328]: Textual amendment: Words in reg. 38(5) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(z)(iii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/z/iii)
+
+[^key-ac8489cd09eb0ce4c3829b945d6ae049]: Textual amendment: Words in [reg. 39(1)(a)](https://www.legislation.gov.uk/uksi/2010/724/regulation/39/1/a) substituted (31.12.2020) by [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ea2e2504f1ed3b5292c3e21b2115701f]: Textual amendment: [Pt. 15](https://www.legislation.gov.uk/uksi/2010/724/part/15) inserted (21.5.2013) by [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2013/950/regulation/4/4)
+
+[^key-b2809961553e338f767a11f4f9e3c7b9]: Textual amendment: Words in [Sch. 1 para. 1(2)(g)](https://www.legislation.gov.uk/uksi/2010/724/schedule/1/paragraph/1/2/g) omitted (1.1.2016) by virtue of [The Train Driving Licences and Certificates (Amendment) Regulations 2015 (S.I. 2015/1798)](https://www.legislation.gov.uk/uksi/2015/1798), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1798/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2015/1798/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1798/regulation/3))
+
+[^key-e63c2a438620a39ef758e92434b3f2bb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/724/schedule/2) heading omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(21)(a)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20193381]: Marginal citation: ISO standards are published in Geneva by the International Organisation for Standardisation, and are available on their website (www.iso.org.). ISO standard 7810:2003 (identification cards, physical characteristics, edition 3) was published on 31-10-03. ISO standard 7816-1:1998 (identification cards, integrated circuit(s) cards with contacts, Part 1, physical characteristics, edition 1) was published on 8-10-98.
+
+[^c20193391]: Marginal citation: ISO standard 10373-1:2006 (identification cards, test methods, Part 1, General Characteristics, edition 2) was published on 26-4-06.
+
+[^key-1129c735e0bc5b6c09e473d3ddff6201]: Textual amendment: Words in [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2010/724/schedule/2/paragraph/2/a) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(21)(b)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/21/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c0b9d38e7aa31224a6da6552b1522039]: Textual amendment: [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2010/724/schedule/2/paragraph/2/c) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(21)(c)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/21/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_85c716fc-033f-4ff9-b80b-e2d61de707fc]: Textual amendment: Words in Sch. 2 para. 2(d)(iv) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(z)(iv)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/z/iv)
+
+[^key-133b37a8141f0087965d0f4b4ce5457a]: Textual amendment: [Sch. 2 para. 2(e)](https://www.legislation.gov.uk/uksi/2010/724/schedule/2/paragraph/2/e) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(21)(c)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/21/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-631af4d8a803f931d16aeb4d77caf7fa]: Textual amendment: [Sch. 2 para. 2(f)](https://www.legislation.gov.uk/uksi/2010/724/schedule/2/paragraph/2/f) omitted (31.12.2020) by virtue of [The Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/677)](https://www.legislation.gov.uk/uksi/2019/677), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/677/regulation/1/2), [2(21)(c)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/21/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_d8982d07-1cd6-4917-ad56-97800b9896c7]: Textual amendment: Words in Sch. 2 para. 2 omitted (21.05.2013) by [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2013/950/regulation/4/5)
+
+[^key-dff597f4ffcdc1155c965c35515f2e65]: Textual amendment: Sch. 3 substituted (1.1.2016) by [The Train Driving Licences and Certificates (Amendment) Regulations 2015 (S.I. 2015/1798)](https://www.legislation.gov.uk/uksi/2015/1798), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1798/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2015/1798/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1798/regulation/3))
+
+[^key-2191f1370da6eb1a1bdf928445a04979]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2010/724/schedule/4/paragraph/8) substituted (1.1.2016) by [The Train Driving Licences and Certificates (Amendment) Regulations 2015 (S.I. 2015/1798)](https://www.legislation.gov.uk/uksi/2015/1798), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1798/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2015/1798/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/1798/regulation/3))
+
+[^key-cdda063c45241e49313563e61d3389e6]: Textual amendment: Words in [Sch. 4 para. 8(2)](https://www.legislation.gov.uk/uksi/2010/724/schedule/4/paragraph/8/2) substituted (31.12.2020) by S.I. 2019/677, reg. 2(22)(a) (as inserted by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [4(1)](https://www.legislation.gov.uk/uksi/2020/318/regulation/4/1))
+
+[^key-47828bb72df598e748ef38abf92c4ec3]: Textual amendment: Sch. 4 para. 8(4) inserted by [S.I. 2019/677](https://www.legislation.gov.uk/uksi/2019/677), [reg. 2(22)(b)](https://www.legislation.gov.uk/uksi/2019/677/regulation/2/22/b) (as inserted by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [4(1)](https://www.legislation.gov.uk/uksi/2020/318/regulation/4/1))

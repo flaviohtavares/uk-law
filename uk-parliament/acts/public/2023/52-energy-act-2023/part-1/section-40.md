@@ -1,0 +1,58 @@
+---
+title: Energy Act 2023, section 40
+act: Energy Act 2023
+section: '40'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/52/section/40
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2023, section 40
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 40. Information in relation to CCUS strategy and policy statement[^key-a5cc326810dbca004c50ee49291de4f9]
+
+*Extent: E+W+S+N.I.*
+
+(1) As soon as reasonably practicable after the designation of a statement as the CCUS strategy and policy statement for the purposes of this Part, the economic regulator must publish a document setting out the required information in relation to the statement.
+
+(2) The economic regulator must include the required information in relation to a CCUS strategy and policy statement in the transport and storage forward work programme for each financial year, subject to making such modifications to the information as the economic regulator considers appropriate from the version as last published under this subsection.
+
+(3) The required information in relation to a CCUS strategy and policy statement to be set out in a document or forward work programme is—
+
+- (a) the strategy the economic regulator intends to adopt for the purpose of furthering the delivery of the policy outcomes contained in the statement (both in respect of the year in or for which the document or programme is issued and beyond);
+- (b) the things the economic regulator proposes to do in implementing that strategy (including when the economic regulator proposes to do them);
+- (c) the ways in which the economic regulator has had regard to the strategic priorities contained in the statement in setting out the information required under paragraphs (a) and (b).
+
+(4) The duty under subsection (1) does not apply if—
+
+- (a) the economic regulator does not think it reasonably practicable to publish the document mentioned in that subsection before the time when the economic regulator is next required to publish a transport and storage forward work programme, and
+- (b) the economic regulator includes the required information in that forward work programme.
+
+(5) The duty under subsection (2) does not apply in relation to the first financial year beginning after the designation of the statement if—
+
+- (a) the economic regulator does not think it reasonably practicable to include the required information in the transport and storage forward work programme for that year, and
+- (b) the economic regulator includes the required information in a document published under subsection (1).
+
+(6) The duty under subsection (2) does not apply in relation to a financial year if the Secretary of State gives notice to the economic regulator under this subsection that the statement’s designation—
+
+- (a) will be withdrawn before the beginning of the year, or
+- (b) is expected to have been withdrawn before the beginning of the year.
+
+(7) Subsections (4) and (5) of section 39 (notice requirements) apply to a document published under subsection (1) as they apply to a transport and storage forward work programme.
+
+(8) In this section—
+
+- “**CCUS strategy and policy statement**”, “**policy outcomes**” and “**strategic priorities**” have the same meaning as in Chapter 3 of Part 2 (see section 99);
+- “**designation**”, in relation to a CCUS strategy and policy statement, means designation of the statement by the Secretary of State under section 99;
+- “**transport and storage forward work programme**” has the meaning given by section 39.
+
+## Annotations
+
+[^key-a5cc326810dbca004c50ee49291de4f9]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/52/section/40) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

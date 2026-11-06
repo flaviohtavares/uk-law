@@ -1,0 +1,726 @@
+---
+title: The Scottish and Northern Ireland Banknote Regulations 2009
+id: uksi/2009/3056
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-11-18'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2009/3056
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/3056/pdfs/uksiem_20093056_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/3056/pdfs/uksi_20093056_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/3056/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Scottish and Northern Ireland Banknote Regulations 2009
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2009 No. 3056
+
+Banks And Banking
+
+The Scottish and Northern Ireland Banknote Regulations 2009
+
+Made
+
+18th November 2009
+
+Coming into force
+
+23rd November 2009
+
+The Treasury make these Regulations in exercise of the powers conferred by sections 215 to 220, 222 to 224, 226 and 259(1) of the Banking Act 2009 [^c19954381]. In accordance with section 215 of that Act, a draft of these Regulations has been laid before and approved by resolution of each House of Parliament.
+
+## PART 1 — General
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Scottish and Northern Ireland Banknote Regulations 2009 and shall come into force on 23rd November 2009.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Banking Act 2009;
+- “**backing assets**” means assets of a kind specified by regulation 6(2);
+- “**Bank of England banknotes**” means banknotes issued by the Bank of England;
+- “**excluded banknote**” has the meaning given by regulation 7(3);
+- “**location**” includes a vehicle;
+- “**rules**” means rules made by the Bank of England under these Regulations.
+
+(2) For the purposes of these Regulations—
+
+- (a) a banknote is in circulation from the time that it is issued by an authorised bank until the time that it is returned to the bank;
+- (b) a banknote has the potential to enter circulation if the banknote is not—
+  - (i) in circulation; or
+  - (ii) an excluded banknote;
+- (c) a reference to the value of a banknote is a reference to the face value of the banknote.
+
+## PART 2 — Bank of England
+
+### 3. Rules
+
+(1) The Bank of England may, subject to the provisions of these Regulations, make rules about any aspect of the treatment, holding or issuing of banknotes by authorised banks.
+
+(2) The Bank of England must make rules in respect of the matters referred to in regulations 6(2)(a), 7(1), 8(4)(b) and 11(1).
+
+(3) The Bank of England must consult an authorised bank which is or may be affected by—
+
+- (a) a proposed rule; or
+- (b) the proposed amendment or revocation of a rule.
+
+(4) Rules (including any rule amending or revoking a rule) may only be made with the approval of the Treasury.
+
+(5) Rules must be published by the Bank of England.
+
+### 4. Bank of England approval
+
+(1) Where these Regulations confer a power of approval on the Bank of England, the Bank of England may grant approval subject to conditions.
+
+(2) The Bank of England may amend or revoke a condition to which an approval is subject.
+
+(3) The Bank of England must consult an authorised bank which is or may be affected by—
+
+- (a) a proposed condition to which an approval may be subject;
+- (b) the proposed withdrawal of an approval; or
+- (c) the proposed amendment or revocation of a condition to which an approval is subject.
+
+(4) An authorised bank must comply with any conditions to which an approval is subject.
+
+### 5. Consultation before commencement of Regulations
+
+Where the Bank of England is required by regulation 3(3), 4(3) or 7(5) to consult an authorised bank, the Bank of England may rely on consultation with the bank carried out before the coming into force of these Regulations.
+
+## PART 3 — Requirements as to backing assets
+
+### 6. Backing assets
+
+(1) An authorised bank must have backing assets in accordance with these Regulations and the rules.
+
+(2) The following kinds of assets are specified as backing assets—
+
+- (a) Bank of England banknotes of such denominations and series as are specified in the rules;
+- (b) current coins of the United Kingdom; and
+- (c) funds placed on deposit in sterling in an account held by the Bank of England and designated by the Bank of England for the purposes of this regulation.
+
+(3) Backing assets in the form of Bank of England banknotes must be held either—
+
+- (a) by the Bank of England; or
+- (b) at one or more locations for the time being approved by the Bank of England for this purpose.
+
+(4) Backing assets in the form of coins must be held at one or more locations for the time being approved by the Bank of England for this purpose.
+
+(5) At least 60% of a bank's backing assets which are held by a bank in respect of its banknotes in circulation must consist of assets of the kinds specified in paragraph (2)(a) and (b).
+
+(6) The rules may prohibit an authorised bank from maintaining more than a specified proportion of its backing assets—
+
+- (a) in locations approved under paragraph (3)(b) or (4); or
+- (b) in the form of current coins of the United Kingdom.
+
+(7) The rules may specify requirements with which an authorised bank must comply where it—
+
+- (a) places funds on deposit in an account designated under paragraph (2)(c); or
+- (b) holds backing assets in a location approved under paragraph (3)(b) or (4).
+
+(8) Rules may specify the procedure by which authorised banks may acquire or dispose of Bank of England banknotes and coins held as backing assets.
+
+### 7. Value of backing assets to be held by an authorised bank
+
+(1) The rules must make provision for determining the value of backing assets which must be held by an authorised bank.
+
+(2) Excluded banknotes are not to be taken into account for the purposes of any such determination.
+
+(3) An excluded banknote is a banknote of an authorised bank which satisfies—
+
+- (a) such requirements as the Bank of England may specify in the rules; and
+- (b) such conditions as may be specified for the purposes of this regulation by the Bank of England in relation to the banknotes of the bank.
+
+(4) The Bank of England may amend or revoke any condition relating to an authorised bank's banknotes.
+
+(5) The Bank of England must consult an authorised bank before specifying a condition in relation to its banknotes under paragraph (3)(b), or amending or revoking such a condition under paragraph (4).
+
+### 8. Interest on a designated account
+
+(1) The Bank of England must pay interest to an authorised bank on the funds held by the bank in an account designated under regulation 6(2)(c).
+
+(2) If the amount of funds held by the bank in a designated account exceeds the qualifying limit, the Bank of England shall only be required to pay interest on an amount equal to the qualifying limit.
+
+(3) For the purposes of this regulation, the qualifying limit is an amount equal to the total of—
+
+- (a) 40% of the value of an authorised bank's banknotes in circulation; and
+- (b) the value of the bank's banknotes with the potential to enter circulation.
+
+(4) Interest shall be—
+
+- (a) calculated on a daily basis at the rate paid on commercial bank reserves at the Bank of England; and
+- (b) credited to the account at the end of such periods as are specified in the rules.
+
+### 9. Ownership of, and interests in, backing assets
+
+(1) A bank's backing assets are—
+
+- (a) assets of the bank; and
+- (b) held for the purpose of protecting holders of banknotes of the bank in accordance with these Regulations and the rules.
+
+(2) No person may have any interest in or right over the backing assets, except as provided in these Regulations.
+
+## PART 4 — Requirements as to banknotes
+
+### 10. Unissued banknotes
+
+(1) An authorised bank may only arrange for a person to hold its banknotes on its behalf otherwise than as bearer where that person is for the time being approved by the Bank of England for this purpose.
+
+(2) The rules may specify requirements with which an authorised bank must comply where it arranges for a person to hold its banknotes on its behalf otherwise than as bearer.
+
+### 11. Cessation of note issue
+
+(1) The rules must set out the procedure which an authorised bank must follow if it—
+
+- (a) intends to stop issuing banknotes; or
+- (b) loses the right to rely on section 213 of the Act (saving for existing issuers) by virtue of—
+  - (i) a determination by the Treasury under section 223(1)(b) of the Act (termination of right to issue); or
+  - (ii) section 223(5) of the Act (bank ceasing to have permission to carry on the regulated activity of accepting deposits).
+
+(2) Where an authorised bank stops issuing banknotes—
+
+- (a) these Regulations and the rules shall continue to apply to the bank for a period of two years from the date on which it stops issuing banknotes; and
+- (b) the Bank of England must, by the end of that period, return to the bank any of the bank's backing assets which it still holds.
+
+(3) Rules under paragraph (1) may, in particular, specify—
+
+- (a) in a case where an authorised bank intends to stop issuing banknotes, the period of notice which the bank must give to the Bank of England before it stops issuing banknotes;
+- (b) the arrangements which an authorised bank must make for the purpose of bringing the following matters to the attention of the public—
+  - (i) the proposed cessation or termination of note issue;
+  - (ii) the effect of the Regulations and rules ceasing to apply after a period of two years; and
+  - (iii) the arrangements which an authorised bank must make for the purpose of removing its banknotes from circulation.
+
+### 12. Temporary continuation of note issuing after cessation
+
+(1) The Bank of England may, with the consent of the Treasury, permit an authorised bank to issue banknotes for a transitional period of no more than six months after the bank loses the right to rely on section 213 of the Act by virtue of section 223(4) or (5) of the Act.
+
+(2) The Bank of England may grant such permission before or after the bank loses the right to rely on section 213.
+
+(3) Where the Bank of England permits a bank to issue banknotes under paragraph (1), the total value at any time during the transitional period of the bank's banknotes in circulation and with the potential to enter circulation must not exceed the value of the bank's backing assets at that time.
+
+(4) The Bank of England may grant permission under paragraph (1) subject to conditions.
+
+(5) The Bank of England may, by giving reasonable notice to the bank—
+
+- (a) withdraw permission under paragraph (1);
+- (b) amend or revoke a condition to which the permission is subject.
+
+## PART 5 — Information
+
+### 13. Provision of information to the Bank of England
+
+(1) The rules may require authorised banks to provide the Bank of England with such information as it may reasonably require for the purpose of—
+
+- (a) exercising its functions under these Regulations or the rules; or
+- (b) verifying or monitoring a bank's compliance with a provision of these Regulations or the rules.
+
+(2) The rules may specify the period within which, and the form in which, the information is to be provided.
+
+(3) No person may be required by rules made under paragraph (1) to supply information that the person could not be compelled to supply in evidence in civil proceedings in the High Court or, in Scotland, in the Court of Session.
+
+### 14. Reports as to banknotes and backing assets
+
+(1) The rules may require an authorised bank to provide reports to the Bank of England in respect of its banknotes which—
+
+- (a) are in circulation;
+- (b) have the potential to enter circulation;
+- (c) are excluded banknotes;
+- (d) have been ordered from a printer;
+- (e) are in the course of being printed;
+- (f) have been printed;
+- (g) have been destroyed; or
+- (h) are being held on behalf of the bank otherwise than as bearer.
+
+(2) The rules may require an authorised bank to provide reports to the Bank of England in respect of its backing assets.
+
+(3) The rules may make provision—
+
+- (a) for the frequency with which such reports must be provided and the period to which they must relate; and
+- (b) for the reports to include an estimate of the value of any description of banknotes or backing assets, and the method by which such an estimate is to be obtained.
+
+### 15. Independent reports
+
+(1) The rules may require an authorised bank to provide the Bank of England with a report by an independent auditor on—
+
+- (a) the accuracy of the information or reports provided in accordance with rules made under regulations 13 and 14; and
+- (b) the adequacy of the methods used by the bank to calculate or obtain the information or compile the reports.
+
+(2) The rules may require an authorised bank to provide the Bank of England with a report on any matter about which the Bank of England has required or may require the provision of information or a report under rules made under regulation 13 or 14.
+
+(3) A report under rules made under paragraph (2) must be made by a person who—
+
+- (a) is nominated or approved by the Bank of England; and
+- (b) appears to the Bank of England to have the skills necessary to make a report on the matter concerned.
+
+(4) A report under rules made under paragraph (1) or (2) must—
+
+- (a) relate to such period as may be specified either in the rules or by notice by the Bank of England to the authorised bank; and
+- (b) satisfy such other requirements as may be specified in the rules.
+
+### 16. Publication or disclosure by Bank of England of enforcement action
+
+(1) The Bank of England may publish or disclose details of—
+
+- (a) anything done in contravention of Part 6 of the Act (Banknotes: Scotland and Northern Ireland) or these Regulations or the rules;
+- (b) any action taken under—
+  - (i) section 221 (offence: unlawful issue), 223 or 224 (application to court) of the Act, or
+  - (ii) regulation 33 of, or Schedule 3 to, these Regulations,
+
+  and may include details of the reason for the action and its result.
+
+(2) But the Bank of England must not publish details of any action taken under section 223 of the Act, regulation 33 or Schedule 3—
+
+- (a) before the end of a period of 3 months beginning with the relevant date; or
+- (b) until any judicial review brought by the authorised bank in respect of that action has been determined.
+
+(3) For the purposes of paragraph (2)(a), the relevant date is—
+
+- (a) in a case where action has been taken under regulation 33 or Schedule 3, the date when the Bank of England has completed the process set out in the statement of policy published by it in accordance with paragraph 5(a) of Schedule 3;
+- (b) in a case where the Treasury has determined for the purposes of section 223(1)(b) of the Act that an authorised bank should no longer be permitted to issue banknotes in reliance on section 213 of the Act, the date when the bank receives the notice referred to in section 223(4) of the Act.
+
+### 17. Permitted publication or disclosure of information
+
+(1) Information provided to the Bank of England in accordance with the rules may be published or disclosed by—
+
+- (a) the Bank of England, or any officer or servant of it; or
+- (b) any person obtaining the information directly or indirectly from the Bank of England,
+
+in any of the circumstances mentioned in paragraph (2).
+
+(2) The circumstances referred to in paragraph (1) are—
+
+- (a) the authorised bank has given its consent to the publication or disclosure;
+- (b) the information has been made available to the public from another source;
+- (c) the information is in the form of a summary or collection of information so framed as not to enable information relating to a particular authorised bank to be ascertained from it;
+- (d) the publication or disclosure is made for the purpose of enabling or assisting the Bank of England to discharge its functions under these Regulations;
+- (e) the disclosure is made with a view to the instigation of, or otherwise for the purposes of, any criminal proceedings;
+- (f) the disclosure is made with a view to the enforcement of any civil penalty imposed under regulation 33;
+- (g)[^key-349ffe8aa11acb15c3ddc9c2863f8385] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^key-0e7afa0672ac545e3c47029ae8c2cd19] the disclosure is made to the Treasury, the Financial Conduct Authority or the Prudential Regulation Authority, and the Bank of England considers that the disclosure would assist—
+  - (i) the Financial Conduct Authority or the Prudential Regulation Authority (as the case may be) in the discharge of their functions under the Financial Services and Markets Act 2000, or
+  - (ii) the Treasury in the discharge of their functions under the Financial Services and Markets Act 2000, the Act or these Regulations.
+
+(3) The Treasury, the Financial Conduct Authority or the Prudential Regulation Authority[^key-69be1c9cf4129821ced96f88ab5b8f1d] may, for the purpose of assisting them in the discharge of their functions under the Financial Services and Markets Act 2000 or, in the case of the Treasury, under the Act or these Regulations, publish or disclose information obtained by them under paragraph (2)(h).
+
+### 18. Annual report by Bank of England
+
+(1) At least once a year the Bank of England must publish a report on the discharge of its functions under these Regulations.
+
+(2) The Bank of England must send a copy of each such report to the Treasury.
+
+## PART 6 — Insolvency
+
+### 19. Interpretation
+
+(1) In this Part—
+
+- “**appointed insolvency practitioner**” means an insolvency practitioner or similar office holder appointed in respect of an insolvent bank for the purposes of an insolvency process;
+- “**insolvency process**” means—
+  - (a) liquidation;
+  - (b) bank insolvency;
+  - (c) the appointment of a provisional liquidator;
+  - (d) the appointment of a provisional bank liquidator;
+  - (e) administration;
+  - (f) bank administration;
+  - (g) the appointment of a provisional bank administrator;
+  - (h) receivership;
+  - (i) a composition between a bank and its creditors;
+  - (j) a scheme of arrangement of a bank's affairs; and
+  - (k) the processes specified in Part 1 of Schedule 2;
+- “**insolvent bank**” means an authorised bank which has entered an insolvency process;
+- “**note exchange programme**” means the arrangements made by the Bank of England for the purposes of regulation 21(1);
+- “**noteholder**” means a person holding banknotes of an insolvent bank;
+- “**protected period**” means the duration of the note exchange programme.
+
+(2) In this Part, a reference to a noteholder's claim is a reference to a claim which is—
+
+- (a) by a noteholder against an insolvent bank; and
+- (b) for the payment of the total amount of money recorded as payable on the banknotes issued by that bank of which the noteholder is bearer.
+
+### 20. Notification of insolvency
+
+An authorised bank must notify the Bank of England without delay if it is, or is likely to be, unable to pay its debts as they fall due.
+
+### 21. Note exchange programme
+
+(1) The Bank of England must make arrangements in relation to an insolvent bank to ensure that—
+
+- (a) noteholders may exchange the banknotes giving rise to their claims for an equal value of banknotes, coins or funds of such other bank as the Bank of England may specify; and
+- (b) the insolvent bank's backing assets are applied for the purpose of satisfying noteholders' claims.
+
+(2) The reference to another bank in paragraph (1)(a) includes a reference to the Bank of England.
+
+(3) The Bank of England shall have the right, for the purpose of such arrangements, to—
+
+- (a) take immediate control of the insolvent bank's backing assets;
+- (b) exchange backing assets for other assets, and require the insolvent bank to hold those other assets as backing assets;
+- (c) transfer the backing assets to noteholders in satisfaction of their claims;
+- (d) satisfy the claims of noteholders with banknotes, coins or other funds belonging to the Bank of England and obtain reimbursement from the backing assets.
+
+### 22. Rights of noteholders
+
+(1) The noteholders in respect of an insolvent bank shall, during the protected period, have the right to have the bank's backing assets applied solely for the purpose of satisfying their claims.
+
+(2) The right referred to in paragraph (1) may only be exercised by a noteholder by participating in a note exchange programme.
+
+(3) At the end of the protected period, the right referred to in paragraph (1) shall cease.
+
+### 23. Backing assets
+
+(1) During the protected period, the Bank of England may issue directions in relation to the insolvent bank's backing assets, with which the bank must comply.
+
+(2) An insolvent bank's backing assets shall—
+
+- (a) be excluded from any insolvency process; and
+- (b) during the protected period, be used solely for the purpose of satisfying noteholders' claims by means of the note exchange programme.
+
+(3) At the end of the protected period—
+
+- (a) paragraph (2)(a) and regulation 9(1)(b) and (2) shall cease to apply to any remaining backing assets; and
+- (b) any remaining backing assets under the control of the Bank of England shall be returned to the insolvent bank or the appointed insolvency practitioner.
+
+### 24. Note exchange programme: commencement and duration
+
+(1) The Bank of England must determine the date on which a note exchange programme commences, which must be after the authorised bank has entered an insolvency process.
+
+(2) Subject to regulation 11(2)(a), a note exchange programme shall continue for a period of one year, or for such longer period as the Treasury may determine after consulting the Bank of England.
+
+(3) The Bank of England must make such arrangements as it considers appropriate for ensuring that the commencement of a note exchange programme and any extension by the Treasury of its duration are brought to the attention of the noteholders, the insolvent bank and any appointed insolvency practitioner.
+
+### 25. Unissued banknotes
+
+(1) During the protected period—
+
+- (a) the Bank of England shall have the right to take immediate control of the banknotes of the insolvent bank which have not been issued;
+- (b) the Bank of England may issue directions in relation to the insolvent bank's unissued banknotes, with which the bank must comply.
+
+(2) All other claims to or interests in such banknotes shall be extinguished on the commencement of the protected period or, if the Bank of England has granted the bank permission under regulation 27(1) to issue notes for a transitional period, at the end of that transitional period.
+
+### 26. Rules relating to a note exchange programme and destruction of banknotes
+
+(1) The rules may make provision for the implementation of a note exchange programme and for the collection and destruction of an authorised bank's banknotes.
+
+(2) In particular, the rules may specify—
+
+- (a) the procedure which noteholders must follow in order to make their claims;
+- (b) requirements with which an authorised bank must comply;
+- (c) assistance and information which an authorised bank must provide; and
+- (d) permissions or consents which an authorised bank must grant to the Bank of England or a person acting on its behalf.
+
+### 27. Temporary continuation of note issuing after insolvency
+
+(1) The Bank of England may, with the consent of the Treasury, permit an authorised bank to issue banknotes for a transitional period of no more than six months after the bank loses the right to rely on section 213 of the Act by virtue of section 220(5) of the Act.
+
+(2) The Bank of England may grant such permission before or after the bank loses the right to rely on section 213.
+
+(3) Where the Bank of England permits a bank to issue banknotes under paragraph (1), the total value at any time during the transitional period of the bank's banknotes in circulation and with the potential to enter circulation must not exceed the value of the bank's backing assets at that time.
+
+(4) The Bank of England may grant permission under paragraph (1) subject to conditions.
+
+(5) The Bank of England may, by giving reasonable notice to the insolvent bank—
+
+- (a) withdraw permission under paragraph (1);
+- (b) amend or revoke a condition to which the permission is subject.
+
+### 28. Notes issued after loss of note issuing rights
+
+(1) This regulation applies where any banknotes are issued by an insolvent bank—
+
+- (a) after it loses the right to rely on section 213 of the Act by virtue of section 220(5) or 223(5) of the Act; and
+- (b) without the permission of the Bank of England under regulation 27(1).
+
+(2) The holders of any such banknotes may participate in a note exchange programme despite the matters referred to in paragraph (1)(a) and (b).
+
+### 29. Modification of law of insolvency
+
+Schedule 1, which contains modifications to the law of insolvency as it applies in relation to an authorised bank, has effect.
+
+### 30. Processes serving a similar purpose to insolvency
+
+For the purposes of section 217(6)(h) of the Act (backing assets), the processes in the Republic of Ireland set out in Part 1 of Schedule 2 serve a similar purpose to the processes listed in section 217(6)(a) to (g).
+
+### 31. Laws serving a similar purpose to Part 4 of the Financial Services and Markets Act 2000
+
+For the purposes of section 223(6) of the Act, the provision of the law of the Republic of Ireland referred to in Part 2 of Schedule 2 serves a similar purpose to Part 4 of the Financial Services and Markets Act 2000 (permission to carry on regulated activities).
+
+## PART 7 — Enforcement
+
+### 32. Court orders
+
+The Bank of England may apply to the High Court or the Court of Session for—
+
+- (a) relief in respect of failure to comply with these Regulations or with the rules; or
+- (b) an order designed to ensure, or facilitate monitoring of, compliance with a provision of these Regulations or the rules.
+
+### 33. Penalties
+
+(1) Where the Bank of England is satisfied that an authorised bank has failed to comply with any provision of these Regulations or of the rules, it may impose a penalty on the bank.
+
+(2) Schedule 3 contains supplementary provisions in relation to the imposition of penalties under this regulation.
+
+Frank Roy
+
+Dave Watts
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+## SCHEDULE 1 — Modifications to the law of insolvency
+
+Regulation 29
+
+### 1. Interpretation
+
+In this Schedule, a reference to backing assets is a reference to the backing assets of an authorised bank, other than backing assets that have been returned to the bank or an appointed insolvency practitioner under regulation 11(2)(b) or 23(3)(b).
+
+### PART 1 — Modifications to primary legislation
+
+#### 2. Modifications to the Insolvency Act 1986 and the Insolvency (Northern Ireland) Order 1989
+
+The provisions of the Insolvency Act 1986[^c19954421] and the Insolvency (Northern Ireland) Order 1989 [^c19954431] apply in relation to an authorised bank—
+
+- (a) with any reference to “property” or “asset” modified so that it does not include a reference to the bank's backing assets; and
+- (b) with the modifications specified in the following table;
+
+but sub-paragraph (a) does not apply to the reference to “assets” in section 123(2) of the Insolvency Act 1986 or article 103(2) of the Insolvency (Northern Ireland) Order 1989.
+
+| *Provision of Insolvency Act 1986* | *Provision of Insolvency (Northern Ireland) Order 1989* | *Subject* | *Modification* |
+| --- | --- | --- | --- |
+| Section 4 | Article 17 | Company Voluntary Proposal - Decisions of meetings | A meeting may not approve any proposal or modification which affects—<br>- (a) the rights of the noteholders under regulations 9(1)(b) and 22;<br>- (b) the rights of the Bank of England in relation to the backing assets; or<br>- (c) the backing assets. |
+| – | Article 52 | Receivers and managers – General powers | A receiver may do anything necessary or expedient for the purpose of ensuring that an authorised bank complies with the directions referred to in regulation 23(1). |
+| Section 55 | – | Receivers (Scotland) – Powers | A receiver may do anything necessary or expedient for the purpose of ensuring that an authorised bank complies with the directions referred to in regulation 23(1). |
+| Section 126 | Article 106 | Liquidation – power to stay or restrain proceedings against company | This section and article do not prevent the Bank of England from bringing or continuing any action or proceedings under or by virtue of these Regulations in relation to the backing assets. |
+| Section 128 | Article 108 | Liquidation – avoidance of attachments | This section and article do not apply to anything done by the Bank of England in relation to the backing assets. |
+| Section 130(2) and (3) | Article 110(2) and (3) | Liquidation – Consequences of Winding-up order | These subsections and paragraphs do not apply to any action or proceedings brought by the Bank of England under or by virtue of these Regulations in relation to the backing assets. |
+| Section 143 | Article 121 | Liquidation – General Functions | A liquidator must also ensure that an authorised bank complies with the directions referred to in regulation 23(1). |
+| Section 144 | – | Liquidation – custody of company's property | The reference in this section to “**things in action**” does not include a reference to an account designated by the Bank of England for the purposes of regulation 6(2)(c). |
+| Section 165 | Article 140 | Liquidators – Voluntary winding up | A liquidator—<br>- (a) must also ensure that an authorised bank complies with the directions referred to in regulation 23(1); and<br>- (b) may do anything necessary or expedient to ensure such compliance. |
+| Sections 167 | Article 142 | Liquidators – Winding up by the court | A liquidator—<br>- (a) must also ensure that an authorised bank complies with the directions referred to in regulation 23(1); and<br>- (b) may do anything necessary or expedient to ensure such compliance. |
+| Section 436 | Article 2 | Expressions used generally | The definition of “property” shall be modified in accordance with paragraph 2(a) of this Schedule. |
+| Part 3 of Schedule A1 [^c19954441] | Part 3 of Schedule A1 [^c19954451] | Company Voluntary Arrangements – Effects of Moratorium | Nothing in Part 3 shall prevent the Bank of England from—<br>- (a) taking any step; or<br>- (b) bringing or continuing an action or proceedings brought under or by virtue of these Regulations;<br>against an authorised bank in relation to its backing assets. |
+| Paragraph 43 of Schedule B1 [^c19954461] | Paragraph 44 of Schedule B1 [^c19954471] | Administration – Moratorium on other legal process | Nothing in this paragraph shall prevent the Bank of England from—<br>- (a) taking any step; or<br>- (b) bringing or continuing an action or proceedings brought under or by virtue of these Regulations;<br>against an authorised bank in relation to its backing assets. |
+| Paragraph 59 of Schedule B1 | Paragraph 60 of Schedule B1 | Administration – General powers of administrators | An administrator may do anything necessary or expedient for the purpose of ensuring that an authorised bank complies with the directions referred to in regulation 23(1). |
+| Paragraphs 67 and 68 of Schedule B1 | Paragraphs 68 and 69 of Schedule B1 | Administration – General duties of administrators | An administrator must ensure that an authorised bank complies with the directions referred to in regulation 23(1). |
+
+#### 3. Modifications to the Companies Act 2006
+
+(1) Section 899 of the Companies Act 2006 [^c19954481] (Court sanction for compromise or arrangement) applies in relation to an authorised bank with the modifications specified in paragraph (2).
+
+(2) The court may not sanction any composition between an authorised bank and its creditors, or any arrangement of an authorised bank's affairs, if the composition or arrangement would affect—
+
+- (a) the rights of the noteholders under regulations 9(1)(b) and 22;
+- (b) the rights of the Bank of England in relation to the backing assets; or
+- (c) the backing assets.
+
+#### 4. Modifications to the Banking Act 2009
+
+The provisions of the Act specified in the following table apply in relation to an authorised bank with the modifications specified in the table.
+
+| *Provision* | *Subject* | *Modification* |
+| --- | --- | --- |
+| Section 103 | Bank insolvency – General Powers, duties and effect | (1) A bank liquidator—<br>- (a) must also ensure that an authorised bank complies with the directions referred to in regulation 23(1);<br>- (b) may do anything necessary or expedient to ensure such compliance;<br>- (c) may only exercise the powers conferred by this section in relation to the backing assets for the purpose of securing such compliance.<br>(2) The provisions of the Insolvency Act 1986 specified in this section apply subject to the additional modifications to those provisions specified in paragraph 2 of this Schedule. |
+| Section 104 | Bank insolvency – Additional general powers | The reference to “**property**” does not include a reference to the backing assets. |
+| Section 134 | Northern Ireland | Where a provision of the Insolvency (Northern Ireland) Order 1989 is an equivalent enactment for the purposes of this section, then that provision shall apply subject to the additional modifications to the Insolvency (Northern Ireland) Order 1989 specified in paragraph 2 of this Schedule. |
+| Section 145 | Bank administration – General powers, duties and effect | (1) A bank administrator—<br>- (a) must ensure that the insolvent bank complies with the directions referred to in regulation 23(1);<br>- (b) may do anything necessary or expedient to ensure such compliance;<br>- (c) may only exercise the powers conferred by this section in relation to the backing assets for the purpose of securing such compliance.<br>(2) The provisions of the Insolvency Act 1986 specified in this section apply subject to the additional modifications to those provisions specified in paragraph 2 of this Schedule. |
+| Section 167 | Northern Ireland | Where a provision of the Insolvency (Northern Ireland) Order 1989 is an equivalent enactment for the purposes of this section, then that provision shall apply subject to the additional modifications to the Insolvency (Northern Ireland) Order 1989 specified in paragraph 2 of this Schedule. |
+
+### PART 2 — Modifications to secondary legislation
+
+#### 5. Modifications to the Insolvency (Scotland) Rules 1986
+
+The provisions of the Insolvency (Scotland) Rules 1986 [^c19954491] apply in relation to an authorised bank with any reference to “asset”, “property”, “estate”, “sum” or “fund” modified so that it does not include a reference to the backing assets.
+
+#### 6. Modifications to the Insolvency Rules (Northern Ireland) 1991
+
+The provisions of the Insolvency Rules (Northern Ireland) 1991 [^c19954501] apply in relation to an authorised bank with any reference to “insolvent estate”, “property” or “asset” modified so that it does not include a reference to the backing assets.
+
+#### 7. Modifications to the Bank Administration Rules (Northern Ireland) 2009
+
+The provisions of the Bank Administration Rules (Northern Ireland) 2009 [^c19954511] apply in relation to an authorised bank—
+
+- (a) with any reference to “insolvent estate”, “property” or “asset” modified so that it does not include a reference to the backing assets; and
+- (b) with any reference to the “**1991 Rules**” modified so that it is a reference to the Insolvency Rules (Northern Ireland) 1991 as modified by paragraph 6 of this Schedule.
+
+#### 8. Modifications to the Bank Insolvency (No. 2) Rules (Northern Ireland) 2009
+
+The provisions of the Bank Insolvency (No. 2) Rules (Northern Ireland) 2009 [^c19954521] apply in relation to an authorised bank—
+
+- (a) with any reference to “insolvent estate”, “property” or “asset” modified so that it does not include a reference to the backing assets; and
+- (b) with any reference to the “**1991 Rules**” modified so that it is a reference to the Insolvency Rules (Northern Ireland) 1991 as modified by paragraph 6 of this Schedule.
+
+#### 9. Modifications to the Bank Administration (Scotland) Rules 2009
+
+The provisions of the Bank Administration (Scotland) Rules 2009 [^c19954531] apply in relation an authorised bank—
+
+- (a) with any reference to “asset”, “property” or “fund” modified so that it does not include a reference to the backing assets; and
+- (b) with any reference to the “**1986 Rules**” modified so that it is a reference to the Insolvency (Scotland) Rules 1986 as modified by paragraph 5 of this Schedule.
+
+#### 10. Modifications to the Bank Insolvency (Scotland) Rules 2009
+
+The provisions of the Bank Insolvency (Scotland) Rules 2009 [^c19954541] apply in relation to an authorised bank—
+
+- (a) with any reference to “asset”, “property”, “sum” or “fund” modified so that it does not include a reference to the backing assets; and
+- (b) with any reference to the “**1986 Rules**” modified so that it is a reference to the Insolvency (Scotland) Rules 1986 as modified by paragraph 5 of this Schedule.
+
+## SCHEDULE 2 — Similar processes and laws in the Republic of Ireland
+
+Regulations 30 and 31
+
+### PART 1
+
+A compromise or arrangement between a bank and its creditors
+
+Company examinership
+
+Receivership
+
+Liquidation
+
+The appointment of a provisional liquidator
+
+### PART 2
+
+Section 7 of the Central Bank Act 1971 [^c19954551]
+
+## SCHEDULE 3 — Imposition of penalties
+
+Regulation 33(2)
+
+### 1. Notice of proposal
+
+(1) Before imposing a penalty under regulation 33 on an authorised bank, the Bank of England must give written notice to the bank—
+
+- (a) stating that it proposes to impose the penalty and the amount of the proposed penalty;
+- (b) setting out the provision of the Regulations or the rules which the Bank of England considers has been breached;
+- (c) specifying the acts or omissions which, in the Bank of England's opinion, constitute the breach and any other facts which, in the Bank of England's opinion, justify the imposition of the penalty and its amount;
+- (d) specifying the date by which the Bank of England proposes to require the penalty to be paid to it;
+- (e) specifying the period (of not less than 30 days from the date on which the notice is received by the authorised bank) within which the bank may make representations regarding the proposed penalty.
+
+(2) The Bank of England must not give notice under sub-paragraph (1) in respect of a contravention of a provision of these Regulations or the rules more than two years after the Bank of England first had knowledge of the facts giving rise to the breach.
+
+(3) The Bank of England must consider any representations made during the period mentioned in sub-paragraph (1)(e).
+
+### 2. Variation of proposal
+
+(1) The Bank of England may vary a proposal to impose a penalty only if—
+
+- (a) the authorised bank consents to the variation,
+- (b) the variation consists of a reduction in the amount of the proposed penalty or a deferral of the date by which the Bank of England proposes to require the penalty to be paid, or
+- (c) the Bank of England gives written notice to the authorised bank setting out the proposed variation and the reasons for it.
+
+(2) Where the Bank of England gives notice under sub-paragraph (1)(c), the notice must also specify the period (of not less than 30 days from the date the notice is received by the authorised bank) within which the bank may make representations regarding the proposed variation.
+
+(3) The Bank of England must consider any representations made during the period mentioned in sub-paragraph (2).
+
+### 3. Decision notice
+
+(1) As soon as practicable after imposing a penalty, the Bank of England must give written notice to the authorised bank—
+
+- (a) stating that it has imposed the penalty and the amount of the penalty;
+- (b) setting out the provision of the Regulations or the rules which the Bank of England is satisfied has been breached;
+- (c) specifying the acts or omissions which, in the Bank of England's opinion, constitute the breach and any other facts which, in the Bank of England's opinion, justify the imposition of the penalty and its amount;
+- (d) specifying the manner in which, and the date by which, the Bank of England requires the penalty to be paid.
+
+(2) The date mentioned in sub-paragraph (1)(d) must be at least 3 months after the date on which the notice is given to the authorised bank.
+
+### 4. Maximum penalty
+
+(1) The total amount of the penalties imposed on an authorised bank by the Bank of England in a calendar year must not exceed 10% of the mean average value of the estimated amount of the bank's banknotes in circulation at any time in the previous calendar year.
+
+(2) For the purposes of paragraph (1), the Bank of England must estimate the amount of a bank's banknotes in circulation at any time by reference to—
+
+- (a) information received from Her Majesty's Revenue and Customs under section 218(3) of the Act (information); or
+- (b) information or a report provided by the bank in accordance with rules made under regulation 13, 14 or 15.
+
+### 5. Statement of policy on penalties
+
+The Bank of England must publish a statement of policy, with which it must comply, in respect of—
+
+- (a) the process it will follow when it imposes a penalty under these Regulations; and
+- (b) the amount of any such penalty.
+
+### 6. Service of notices
+
+(1) The Bank of England may send a notice to the authorised bank by post.
+
+(2) Where the Bank of England has sent a notice by pre-paid post to the registered office of the authorised bank, it shall be deemed to have been received by the bank on the second business day after posting unless the bank can prove that it did not receive the notice on that day.
+
+(3) In this paragraph, “**business day**” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 [^c19954561] in any part of the United Kingdom.
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made under Parts 6 and 8 of the Banking Act 2009 (c. 1) and make provision about the treatment, holding and issuing of banknotes by the banks who are authorised to issue banknotes in Scotland and Northern Ireland (other than the Bank of England).
+
+Part 2 of the Regulations sets out provision in relation to the Bank of England. In particular, regulation 3 gives the Bank of England a power to make banknote rules.
+
+Part 3 sets out provision in relation to backing assets. In particular, regulation 9 makes provision in relation to the ownership of, and interests in, backing assets.
+
+Part 4 sets out various requirements in relation to banknotes.
+
+Part 5 concerns the provision of information and reports to the Bank of England.
+
+Part 6 sets out provision in relation to the insolvency of a note issuing bank. In particular, regulation 21 requires the Bank of England to conduct a note exchange programme, whereby the banknotes of the insolvent bank are exchanged for banknotes of another bank (which may include the Bank of England).
+
+Part 7 sets out provision in relation to enforcement of these Regulations and the banknote rules.
+
+Schedule 1 specifies modifications to the law of insolvency as it applies to note issuing banks.
+
+Schedule 2 specifies similar processes and laws in the Republic of Ireland.
+
+Schedule 3 sets out further provision in relation to the imposition of penalties by the Bank of England.
+
+An Impact Assessment of the effect of these Regulations is available on HM Treasury's website (www.hm-treasury.gov.uk) and is annexed to the Explanatory Memorandum which is available alongside these Regulations on the OPSI website (www.opsi.gov.uk).
+
+## Annotations
+
+[^c19954381]: Marginal citation: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1).
+
+[^key-349ffe8aa11acb15c3ddc9c2863f8385]: Textual amendment: [Reg. 17(2)(g)](https://www.legislation.gov.uk/uksi/2009/3056/regulation/17/2/g) omitted (31.12.2020) by virtue of [The Bank of England (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1297)](https://www.legislation.gov.uk/uksi/2018/1297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2018/1297/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0e7afa0672ac545e3c47029ae8c2cd19]: Textual amendment: Reg. 17(2)(h) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 180(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/180/a)
+
+[^key-69be1c9cf4129821ced96f88ab5b8f1d]: Textual amendment: Words in reg. 17(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 180(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/180/b)
+
+[^c19954421]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^c19954431]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
+
+[^c19954441]: Marginal citation: Schedule A1 was inserted by section 1 of, and paragraphs 1 and 4 of Schedule 1 to, the [Insolvency Act 2000 (c. 39)](https://www.legislation.gov.uk/ukpga/2000/39).
+
+[^c19954451]: Marginal citation: Schedule A1 was inserted by article 3 of, and schedule 1 to, the [Insolvency (Northern Ireland) Order 2002 (S.I. 2002/3152 (N.I. 6))](https://www.legislation.gov.uk/nisi/2002/3152).
+
+[^c19954461]: Marginal citation: Schedule B1 was inserted by section 248(2) of, and Schedule 16 to, the [Enterprise Act 2002 (c. 45)](https://www.legislation.gov.uk/ukpga/2002/45).
+
+[^c19954471]: Marginal citation: Schedule B1was inserted by article 3(2) of, and Schedule 1 to, the [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455).
+
+[^c19954481]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c19954491]: Marginal citation: [S.I. 1986/1915](https://www.legislation.gov.uk/uksi/1986/1915).
+
+[^c19954501]: Marginal citation: S.R. [1991 No. 364](https://www.legislation.gov.uk/ukcm/1991/364), amended by the Insolvency (Amendment) Rules (Northern Ireland) 1994 (S.R. [1994 No. 26](https://www.legislation.gov.uk/ukcm/1994/26)), the Insolvency (Amendment) Rules (Northern Ireland) 1995 (S.R. [1995 No. 291](https://www.legislation.gov.uk/ukcm/1995/291)), the Insolvency (Amendment) Rules (Northern Ireland) 2000 (S.R. [2000 No. 247](https://www.legislation.gov.uk/ukcm/2000/247)), the Insolvency (Amendment) Rules (Northern Ireland) 2002 (S.R. [2002 No.261](https://www.legislation.gov.uk/ukcm/2002/261)), the Insolvency (Amendment) Rules (Northern Ireland) 2003 (S.R. [2003 No. 549](https://www.legislation.gov.uk/ukcm/2003/549)), the Insolvency (Amendment) Rules (Northern Ireland) 2006 (S.R. [2006 No. 47](https://www.legislation.gov.uk/ukcm/2006/47)), the Insolvency (Amendment) Rules (Northern Ireland) 2008 (S.R. [2008 No. 118](https://www.legislation.gov.uk/ukcm/2008/118)) and the Financial Services and Markets Act 2000 (Consequential Amendments) Order 2004 (S.I. 2004/355).
+
+[^c19954511]: Marginal citation: [S.R. 2009/63](https://www.legislation.gov.uk/nisr/2009/63).
+
+[^c19954521]: Marginal citation: [S.R. 2009/122](https://www.legislation.gov.uk/nisr/2009/122).
+
+[^c19954531]: Marginal citation: [S.I. 2009/350](https://www.legislation.gov.uk/uksi/2009/350).
+
+[^c19954541]: Marginal citation: [S.I. 2009/351](https://www.legislation.gov.uk/uksi/2009/351).
+
+[^c19954551]: Marginal citation: No. 24 of 1971.
+
+[^c19954561]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).

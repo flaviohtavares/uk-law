@@ -1,0 +1,230 @@
+---
+title: The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2009
+id: uksi/2009/2047
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2009-07-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2009/2047
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/2047/pdfs/uksiem_20092047_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2047/pdfs/uksi_20092047_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2047/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2009
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2009 No. 2047
+
+Income Tax
+
+The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2009
+
+Made
+
+21st July 2009
+
+Laid before the House of Commons
+
+23rd July 2009
+
+Coming into force
+
+13th August 2009
+
+The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by paragraphs 7, 12 and 19 of Schedule 34 to the Finance Act 2004[^f00001], and now exercisable by them[^f00002].
+
+## 1. Citation, commencement etc.
+
+(1) These Regulations may be cited as the Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) (Amendment) Regulations 2009 and shall come into force on 13th August 2009.
+
+(2) Regulations 3 to 8 have effect where—
+
+- (a) there is a paragraph 15 BCE which is treated as occurring on a date (“the specified date”) on or after 6th April 2006, and
+- (b) the member becomes entitled to a lump sum under a relevant non-UK scheme on or after the specified date.
+
+(3) Regulation 9 has effect where—
+
+- (a) there is a paragraph 15 BCE,
+- (b) the notice given under paragraph 15 of Schedule 34 to the Finance Act 2004 (non-UK schemes: application of certain charges) is given on or after 23rd July 2009, and
+- (c) the member becomes entitled to a lump sum under a relevant non-UK scheme on or after the date on which the paragraph 15 BCE is treated as occurring.
+
+(4) In this regulation—
+
+- “paragraph 15 BCE” means the benefit crystallisation event treated as occurring by virtue of paragraph 15 of Schedule 34 to the Finance Act 2004;
+- “relevant non-UK scheme” has the meaning given by paragraph 1(5) of that Schedule.
+
+## 2. Amendment of the Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006
+
+Regulation 15 of the Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006[^f00003] (modification of Schedule 29) is amended as follows.
+
+**3.** Substitute for the paragraph 1(4A) and (4B) of Schedule 29[^f00004] that is inserted by paragraph (2)—
+
+> (4A) In determining whether all or part of the member’s lifetime allowance is available—
+>
+> - (a) there shall be disregarded any amount treated as crystallising by virtue of a relevant BCE; but
+> - (b) the amount of the allowance available shall be reduced by the amount determined in accordance with sub-paragraph (4B) or (4C), as the case may require.
+>
+> (4B) Where benefit crystallisation event 8 has occurred, the member’s lifetime allowance that is available shall be reduced by the aggregate of—
+>
+> - (a) the referable portion of any previous pension commencement lump sum paid to or in respect of the member by a recognised overseas pension scheme; and
+> - (b) the referable portion of the amount which would have crystallised by virtue of the member becoming entitled to a pension, had the scheme paying it been a registered pension scheme.
+>
+> (4C) Where the paragraph 15 BCE has occurred, the member’s lifetime allowance that is available shall be reduced by the aggregate of—
+>
+> - (a) the referable portion of any previous pension commencement lump sum to which the member became entitled under a relevant non-UK scheme since the paragraph 15 BCE occurred; and
+> - (b) in respect of any pension to which the member has become entitled since the paragraph 15 BCE occurred, the referable portion of the amount which would have crystallised by virtue of the member’s becoming entitled to the pension, had the scheme paying it been a registered pension scheme.
+
+.
+
+**4.** In paragraph (3)—
+
+- (a) substitute for the definition of “AAC” in paragraph 2(6) of Schedule 29[^f00005] that is substituted by paragraph (3)(a)—
+
+  > AAC is the aggregate of—
+  >
+  > - (a) the amounts crystallised by each benefit crystallisation event (other than a relevant BCE) which has occurred in relation to the member before the member becomes entitled to the lump sum on each occasion on which entitlement to a pension arises; and
+  > - (b) if a relevant BCE has occurred, RP.
+  >
+  > RP is the referable portion of the amount which would have crystallised, had the scheme paying it been a registered pension scheme, in respect of any previous pension commencement lump sum or pension to which the member became entitled since the relevant BCE occurred, but excluding any amount included in paragraph (a).
+
+  ; and
+- (b) in the paragraph 2(6A) of Schedule 29 that is inserted by paragraph (3)(b), for “paragraph (b) of the definition of AAC” substitute “the definition of RP”.
+
+**5.** Substitute for the paragraph 4(4) of Schedule 29 that is inserted by paragraph (4)(b)—
+
+> (4) In determining whether all or part of the member’s lifetime allowance is available—
+>
+> - (a) there shall be disregarded any amount treated as crystallising by virtue of a relevant BCE; but
+> - (b) the amount of the allowance available shall be reduced by the amount determined in accordance with sub-paragraph (5) or (6), as the case may require.
+>
+> (5) Where benefit crystallisation event 8 has occurred, the member’s lifetime allowance that is available shall be reduced by the aggregate of—
+>
+> - (a) the referable portion of any previous pension commencement lump sum paid to or in respect of the member by a recognised overseas pension scheme; and
+> - (b) the referable portion of the amount which would have crystallised by virtue of the member becoming entitled to a pension, had the scheme paying it been a registered pension scheme.
+>
+> (6) Where the paragraph 15 BCE has occurred, the member’s lifetime allowance that is available shall be reduced by the aggregate of—
+>
+> - (a) the referable portion of any earlier pension commencement lump sum to which the member became entitled under a relevant non-UK scheme since the paragraph 15 BCE occurred; and
+> - (b) in respect of any pension to which the member has become entitled since the paragraph 15 BCE occurred, the referable portion of the amount which would have crystallised by virtue of the member’s becoming entitled to the pension, had the scheme paying it been a registered pension scheme.
+
+.
+
+**6.** For the text inserted in paragraph 5(1)(c) of Schedule 29[^f00006] by paragraph (5) substitute “, other than an event which constitutes a relevant BCE,”.
+
+**7.** Substitute for the paragraph 7(6) of Schedule 29 that is inserted by paragraph (6)—
+
+> (6) In determining whether all or part of the member’s lifetime allowance is available—
+>
+> - (a) there shall be disregarded any amount treated as crystallising by virtue of a relevant BCE; but
+> - (b) the amount of the allowance available shall be reduced by the amount determined in accordance with sub-paragraph (7) or (8), as the case may require.
+>
+> (7) Where benefit crystallisation event 8 has occurred, the member’s lifetime allowance that is available shall be reduced by the aggregate of—
+>
+> - (a) the referable portion of any previous pension commencement lump sum paid to or in respect of the member by a recognised overseas pension scheme; and
+> - (b) the referable portion of the amount which would have crystallised by virtue of the member becoming entitled to a pension, had the scheme paying it been a registered pension scheme.
+>
+> (8) Where the paragraph 15 BCE has occurred, the member’s lifetime allowance that is available shall be reduced by the aggregate of—
+>
+> - (a) the referable portion of any earlier pension commencement lump sum to which the member became entitled under a relevant non-UK scheme since the paragraph 15 BCE occurred; and
+> - (b) in respect of any pension to which the member has become entitled since the paragraph 15 BCE occurred, the referable portion of the amount which would have crystallised by virtue of the member’s becoming entitled to the pension, had the scheme paying it been a registered pension scheme.
+
+.
+
+**8.** Substitute for the paragraph 10(4) of Schedule 29[^f00007] that is inserted by paragraph (7)—
+
+> (4) In determining whether all or part of the member’s lifetime allowance is available—
+>
+> - (a) there shall be disregarded any amount treated as crystallising by virtue of a relevant BCE; but
+> - (b) the amount of the allowance available shall be reduced by the amount determined in accordance with sub-paragraph (5) or (6), as the case may require.
+>
+> (5) Where benefit crystallisation event 8 has occurred, the member’s lifetime allowance that is available shall be reduced by the aggregate of—
+>
+> - (a) the referable portion of any previous pension commencement lump sum paid to or in respect of the member by a recognised overseas pension scheme; and
+> - (b) the referable portion of the amount which would have crystallised by virtue of the member becoming entitled to a pension, had the scheme paying it been a registered pension scheme.
+>
+> (6) Where the paragraph 15 BCE has occurred, the member’s lifetime allowance that is available shall be reduced by the aggregate of—
+>
+> - (a) the referable portion of any earlier pension commencement lump sum to which the member became entitled under a relevant non-UK scheme since the paragraph 15 BCE occurred; and
+> - (b) in respect of any pension to which the member has become entitled since the paragraph 15 BCE occurred, the referable portion of the amount which would have crystallised by virtue of the member’s becoming entitled to the pension, had the scheme paying it been a registered pension scheme.
+
+.
+
+**9.** Substitute for the paragraph 11(bb) of Schedule 29 inserted by paragraph (8)—
+
+> - (bb) it is not paid from the relevant transfer fund of a qualifying recognised overseas pension scheme,
+> - (bc) it is not paid from the UK tax-relieved fund of a relevant non-UK scheme,
+
+.
+
+**10.** After paragraph 9 add—
+
+> (10) After paragraph 12 add—
+>
+> > **12A. Interpretation of Part 1 – Non-UK Schemes**
+> >
+> > (1) The referable portion of a lump sum, pension or an amount which is or would have been crystallised is—
+> >
+> > - (a) in a case where benefit crystallisation event 8 has occurred, the extent to which it is referable to the member’s relevant transfer fund; or
+> > - (b) in a case where the paragraph 15 BCE has occurred, the extent to which it is referable to the member’s UK tax-relieved fund.
+> >
+> > (2) In this Part—
+> >
+> > - “the paragraph 15 BCE” means the benefit crystallisation event treated as occurring by virtue of paragraph 15 of Schedule 34;
+> > - “relevant BCE” means—
+> >   - (a) benefit crystallisation event 8; or
+> >   - (b) the paragraph 15 BCE;
+> > - “relevant transfer fund” shall be construed in accordance with paragraph 4(2) of Schedule 34;
+> > - “UK tax-relieved fund” shall be construed in accordance with paragraph 3(2) of Schedule 34.
+>
+> .
+
+.
+
+Dave Hartnett
+
+Bernadette Kenny
+
+Two of the Commissioners for Her Majesty’s Revenue and Customs
+
+21st July 2009
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Pension Schemes (Application of UK Provisions to Relevant Non-UK Schemes) Regulations 2006 (“the 2006 Regulations”) so as to make further modifications to Schedule 29 to the Finance Act 2004 (“the Act”) in its application to relevant non-UK schemes.
+
+The effect of regulation 1(2) is that regulations 3 to 8 have some retrospective effect. The regulations concerned have the potential to operate on lump sums paid before these Regulations are made. Paragraphs 7(2)(a), 12(2)(a) and 19(2)(a) of Schedule 34 to the Finance Act 2004 provide that regulations may have effect in relation to times before they are made.
+
+Regulations 2 to 10 amend regulation 15 of the 2006 Regulations. Regulation 15 made modifications to Schedule 29 to the Act to ensure that the new taxation regime for pensions taxation, which took effect on 6th April 2006, would operate correctly in relation to the lump sums that may be paid by relevant non-UK schemes (defined by paragraph 1(5) of Schedule 34 to the Act) and not give rise to inappropriate member payment charges (defined by paragraph 1 of Schedule 34). Those modifications were directed at the case where there had been a transfer of assets to a qualifying recognised overseas pension scheme (benefit crystallisation event 8, as defined by regulation 1(2) of the 2006 Regulations). The effect of these Regulations is to make similar modifications in relation to lump sums payable by a relevant non-UK scheme after the member has made an election under paragraph 15 of Schedule 34 that a benefit crystallisation event be treated as occurring.
+
+A full and final Impact Assessment has not been produced for this instrument as a negligible impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). 34 was amended by paragraph 14 of Schedule 21 to the [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), paragraph 18 of Schedule 19 and Part 3(1) of Schedule 27 to the [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11) and paragraphs 16 and 19 of Schedule 29 to the [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2009/9).
+
+[^f00002]: Footnote: The functions of the Commissioners of Inland Revenue were transferred to the Commissioners for Her Majesty’s Revenue
+
+    and Customs by section 5(2) of the [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50 of that Act
+
+    provides that, in so far as it is appropriate in consequence of section 5, a reference, however expressed, to the Commissioners of Inland Revenue is to be read as a reference to the Commissioners for Her Majesty’s Revenue and Customs.
+
+[^f00003]: Footnote: [S.I. 2006/207](https://www.legislation.gov.uk/uksi/2006/207); a relevant amending instrument is [S.I. 2006/1960](https://www.legislation.gov.uk/uksi/2006/1960).
+
+[^f00004]: Footnote: Paragraph 1 of Schedule 29 was amended by paragraph 34 of Schedule 10 to the [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), paragraph 21 of Schedule 23 to the [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2005/25) and paragraph 11 of Schedule 20 to the [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
+
+[^f00005]: Footnote: Paragraph 2 of Schedule 29 was amended by paragraph 23 of Schedule 23 to the [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25) and paragraph 11 of Schedule 20 to the [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
+
+[^f00006]: Footnote: Paragraph 5 of Schedule 29 was amended by paragraph 27 of Schedule 23 to the [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25).
+
+[^f00007]: Footnote: Paragraph 10 of Schedule 29 was amended by paragraph 12 of Schedule 20 to the [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).

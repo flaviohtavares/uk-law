@@ -1,0 +1,71 @@
+---
+title: Greater London Authority Act 1999, section 273
+act: Greater London Authority Act 1999
+section: '273'
+status: revised-with-pending-changes
+text_date: '2026-08-05'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1999/29/section/273
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Greater London Authority Act 1999, section 273
+
+> **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 273. Power to place traffic signs in connection with GLA roads etc.
+
+*Extent: E+W+S*
+
+(1) Section 73 of the [^c12806261]Road Traffic Regulation Act 1984 (powers and duties of local traffic authorities in Greater London in respect of traffic signs) shall be amended as follows.
+
+(2) In subsection (1) (power to fix traffic signs to lamp-posts etc in connection with orders under section 6 or 9)—
+
+- (a) after proposed by them, there shall be inserted “ Transport for London, ”;
+- (b) the words in their area shall be omitted; and
+- (c) after whether or not belonging to there shall be inserted “ Transport for London or ”.
+
+(3) After subsection (1) there shall be inserted—
+
+> (1A) In connection with any GLA road, Transport for London may—
+>
+> - (a) exercise, as respects any road in Greater London which is neither a trunk road nor a GLA road, any powers exercisable by the traffic authority for that road in connection with the placing of traffic signs on or near that road in pursuance of section 65 of this Act; and
+> - (b) affix any such sign to any lamp-post or other structure in the highway, whether or not belonging to Transport for London.
+>
+> (1B) The power conferred by subsection (1A) above shall be exercisable—
+>
+> - (a) in connection with any order under section 6 or 9 of this Act made or proposed to be made by Transport for London; or
+> - (b) in any other circumstances.
+>
+> (1C) Before exercising the power conferred by subsection (1A) above, Transport for London shall consult the traffic authority for the road on or near which Transport for London proposes to place the traffic sign.
+
+(4) In subsection (2) (duty of London borough council and Common Council as to maintenance, alteration and removal of traffic signs in their area)—
+
+- (a) for their area there shall be substituted “ Greater London ”; and
+- (b) for the council of a London borough and of the Common Council of the City of London there shall be substituted “ the appropriate traffic authority ”.
+
+(5) After subsection (2) there shall be inserted—
+
+> (2A) For the purposes of subsection (2) above, the appropriate traffic authority, in the case of any traffic sign, is the authority which is the traffic authority for the road as respects which the order under section 6 or 9 of this Act is made in connection with which the traffic sign is required.
+
+(6) At the end of the section there shall be inserted—
+
+> (6) The powers of Transport for London exercisable under subsection (1A) above by virtue of subsection (1B)(b) above shall extend to the removal or repositioning of any traffic sign on or near the road in question, whether placed by Transport for London or not.
+>
+> (7) On the removal or repositioning by Transport for London of any such traffic sign placed by another authority, the traffic sign shall vest in Transport for London.
+>
+> (8) Except—
+>
+> - (a) with the consent of Transport for London, or
+> - (b) in pursuance of a direction under section 65(2) of this Act,
+>
+> the traffic authority for a road shall not remove, alter or in any way interfere with any traffic sign placed or repositioned on or near the road by Transport for London by virtue of subsection (1B)(b) above.
+
+(7) In consequence of the provisions of this section, the sidenote to the section becomes Powers and duties of local traffic authorities in Greater London in respect of traffic signs.
+
+## Annotations
+
+[^c12806261]: Marginal citation: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).

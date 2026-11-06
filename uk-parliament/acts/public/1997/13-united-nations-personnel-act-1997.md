@@ -1,0 +1,302 @@
+---
+title: United Nations Personnel Act 1997
+id: ukpga/1997/13
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1997-02-27'
+text_date: '2010-07-28'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1997/13
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1997/13/pdfs/ukpga_19970013_en.pdf
+- http://www.legislation.gov.uk/ukpga/1997/13/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# United Nations Personnel Act 1997
+
+> Text as at 2010-07-28.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+United Nations Personnel Act 1997
+
+1997 c. 13
+
+An Act to enable effect to be given to certain provisions of the Convention on the Safety of United Nations and Associated Personnel adopted by the General Assembly of the United Nations on 9th December 1994.
+
+\[27th February 1997\]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1. Attacks on UN workers.[^c1303347]
+
+(1) If a person does outside the United Kingdom any act to or in relation to a UN worker which, if he had done it in any part of the United Kingdom, would have made him guilty of any of the offences mentioned in subsection (2), he shall in that part of the United Kingdom be guilty of that offence.
+
+(2) The offences referred to in subsection (1) are—
+
+- (a) murder, manslaughter, culpable homicide, rape, assault causing injury, kidnapping, abduction and false imprisonment;
+- (b) an offence under section 18, 20, 21, 22, 23, 24, 28, 29, 30 or 47 of the Offences against the [^c1303348]Person Act 1861; and
+- (c) an offence under section 2 of the [^c1303349]Explosive Substances Act 1883.
+
+## 2. Attacks in connection with premises and vehicles.[^c1303350]
+
+(1) If a person does outside the United Kingdom any act, in connection with an attack on relevant premises or on a vehicle ordinarily used by a UN worker which is made when a UN worker is on or in the premises or vehicle, which, if he had done it in any part of the United Kingdom, would have made him guilty of any of the offences mentioned in subsection (2), he shall in that part of the United Kingdom be guilty of that offence.
+
+(2) The offences referred to in subsection (1) are—
+
+- (a) an offence under section 2 of the Explosive Substances Act 1883;
+- (b) an offence under section 1 of the [^c1303351]Criminal Damage Act 1971;
+- (c) an offence under article 3 of the [^c1303352]Criminal Damage (Northern Ireland) Order 1977; and
+- (d) wilful fire-raising.
+
+(3) In this section—
+
+- “**relevant premises**” means premises at which a UN worker resides or is staying or which a UN worker uses for the purpose of carrying out his functions as such a worker; and
+- “**vehicle**” includes any means of conveyance.
+
+## 3. Threats of attacks on UN workers.[^c1303353]
+
+(1) If a person in the United Kingdom or elsewhere contravenes subsection (2) he shall be guilty of an offence.
+
+(2) A person contravenes this subsection if, in order to compel a person to do or abstain from doing any act, he—
+
+- (a) makes to a person a threat that any person will do an act which is—
+  - (i) an offence mentioned in section 1(2) against a UN worker, or
+  - (ii) an offence mentioned in subsection (2) of section 2 in connection with such an attack as is mentioned in subsection (1) of that section, and
+- (b) intends that the person to whom he makes the threat shall fear that it will be carried out.
+
+(3) A person guilty of an offence under this section shall be liable on conviction on indictment to imprisonment for a term—
+
+- (a) not exceeding ten years, and
+- (b) not exceeding the term of imprisonment to which a person would be liable for the offence constituted by doing the act threatened at the place where the conviction occurs and at the time of the offence to which the conviction relates.
+
+## 4. Meaning of UN worker.[^c1303354]
+
+(1) For the purposes of this Act a person is a UN worker, in relation to an alleged offence, if at the time of the alleged offence—
+
+- (a) he is engaged or deployed by the Secretary-General of the United Nations as a member of the military, police or civilian component of a UN operation,
+- (b) he is, in his capacity as an official or expert on mission of the United Nations, a specialised agency of the United Nations or the International Atomic Energy Agency, present in an area where a UN operation is being conducted,
+- (c) he is assigned, with the agreement of an organ of the United Nations, by the Government of any State or by an international governmental organisation to carry out activities in support of the fulfilment of the mandate of a UN operation,
+- (d) he is engaged by the Secretary-General of the United Nations, a specialised agency or the International Atomic Energy Agency to carry out such activities, or
+- (e) he is deployed by a humanitarian non-governmental organisation or agency under an agreement with the Secretary-General of the United Nations, with a specialised agency or with the International Atomic Energy Agency to carry out such activities.
+
+(2) Subject to subsections (3) and (3A)[^key-c683c30dfee78843a69483299216c4ad], in this section “**UN operation**” means an operation—
+
+- (a) which is established, in accordance with the Charter of the United Nations, by an organ of the United Nations,
+- (b) which is conducted under the authority and control of the United Nations, and
+- (c) which—
+  - (i) has as its purpose a purpose mentioned in subsection (2A)[^key-ac0225257814468b58e98e3552f63d00], or
+  - (ii) has, for the purposes of the Convention, been declared by the Security Council or the General Assembly of the United Nations to be an operation where there exists an exceptional risk to the safety of the participating personnel.
+
+(2A)[^key-de87370a20e209db06424016cddf94cb] The purposes referred to in subsection (2)(c)(i) are—
+
+- (a) maintaining or restoring international peace and security;
+- (b) delivering humanitarian, political or development assistance in peacebuilding;
+- (c) delivering emergency humanitarian assistance.
+
+(3) In this section “**UN operation**” does not include any operation—
+
+- (a) which is authorised by the Security Council of the United Nations as an enforcement action under Chapter VII of the Charter of the United Nations,
+- (b) in which UN workers are engaged as combatants against organised armed forces, and
+- (c) to which the law of international armed conflict applies.
+
+(3A)[^key-0969109c08b097675110fcbbd757ebea] In this section “ UN operation” also does not include any operation in respect of which a declaration is made in accordance with Article II (3) of the Optional Protocol (opt-out for operation to deliver emergency humanitarian assistance in response to natural disaster).
+
+(4) In this section—
+
+- “**the Convention**” means the Convention on the Safety of United Nations and Associated Personnel adopted by the General Assembly of the United Nations on 9th December 1994;
+- “[^key-1bfae018b928f596606ede310893729e]**the Optional Protocol**” means the Optional Protocol to the Convention adopted by the General Assembly of the United Nations on 8 December 2005; and
+- “ **specialised agency** ” has the meaning assigned to it by Article 57 of the Charter of the United Nations.
+
+(5) If, in any proceedings, a question arises as to whether—
+
+- (a) a person is or was a UN worker, or
+- (b) an operation is or was a UN operation,
+
+a certificate issued by or under the authority of the Secretary of State and stating any fact relating to the question shall be conclusive evidence of that fact.
+
+## 5. Provisions supplementary to sections 1 to 3.[^c1303355]
+
+(1) Proceedings for an offence which (disregarding the provisions of the [^c1303356]Internationally Protected Persons Act 1978, the [^c1303357]Suppression of Terrorism Act 1978, the Nuclear Material (Offences) Act 1983 and the Terrorism Act 2000[^key-55340ecd56ae835fb1d298eabf8c8236]) would not be an offence apart from section 1, 2 or 3 above shall not be begun—
+
+- (a) in England and Wales, except by or with the consent of the Attorney General;
+- (b) in Northern Ireland, except by or with the consent of the Attorney General for Northern Ireland.
+
+(2) Without prejudice to any jurisdiction exercisable apart from this subsection, every sheriff court in Scotland shall have jurisdiction to entertain proceedings for an offence which (disregarding the provisions of the [^c1303359]Internationally Protected Persons Act 1978, the [^c1303360]Suppression of Terrorism Act 1978, the Nuclear Material (Offences) Act 1983 and the Terrorism Act 2000[^key-cba1b2dfc8aebf5606dc2e37f50693d1]) would not be an offence in Scotland apart from section 1, 2 or 3 above.
+
+(3) A person is guilty of an offence under, or by virtue of, section 1, 2 or 3 regardless of his nationality.
+
+(4) For the purposes of those sections, it is immaterial whether a person knows that another person is a UN worker.
+
+## 6. Extradition.[^key-b20dae7b3c4f307d0fe164a3ae2a8397][^c1303362]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Consequential amendments.[^c1303365]
+
+The Schedule to this Act (consequential amendments) shall have effect.
+
+## 8. Interpretation.[^c1303366]
+
+In this Act—
+
+- “**act**” includes omission; and
+- “**UN worker**” has the meaning given in section 4.
+
+## 9. Extent.
+
+(1) This Act extends to Northern Ireland.
+
+(2)[^key-e6c98635ea7087455479570a8dfbf800] Her Majesty may by Order in Council make provision for extending any of the provisions of this Act, with such exceptions, adaptations or modifications as may be specified in the Order, to any of the Channel Islands, the Isle of Man or any colony.
+
+## 10. Short title and commencement.[^c1303367]
+
+(1) This Act may be cited as the United Nations Personnel Act 1997.
+
+(2) This Act shall come into force at the end of the period of two months beginning with the day on which it is passed.
+
+## SCHEDULE[^c1303368]
+
+Section 7.
+
+### Consequential Amendments
+
+#### Visiting Forces Act 1952 (c. 67)
+
+**1.** (1) The Schedule to the Visiting Forces Act 1952 (which specifies the offences which are offences against the person and against property for the purposes of section 3 of that Act) shall be amended as follows.
+
+(2) In paragraph 1, after sub-paragraph (d) there shall be inserted—
+
+> - (e) an offence of making such a threat as is mentioned in section 3 of the United Nations Personnel Act 1997 and any of the following offences against a UN worker within the meaning of that Act—
+>   - (i) an offence of kidnapping;
+>   - (ii) an offence of false imprisonment;
+>   - (iii) an offence under section 2 of the Explosive Substances Act 1883 of causing an explosion likely to endanger life.
+
+;
+
+(3) In paragraph 2, after sub-paragraph (d) there shall be inserted—
+
+> - (e) an offence of making such a threat as is mentioned in section 3 of the United Nations Personnel Act 1997 and an offence of causing an explosion likely to endanger life, committed against a UN worker (within the meaning of that Act), under section 2 of the Explosive Substances Act 1883.
+
+;
+
+(4) In paragraph 3, after sub-paragraph (k) there shall be inserted—
+
+> - (l) an offence under section 2 of the Explosive Substances Act 1883 of causing an explosion likely to cause serious injury to property in connection with such an attack as is mentioned in section 2(1) of the United Nations Personnel Act 1997.
+
+;
+
+(5) in paragraph 4, after sub-paragraph (d) there shall be inserted—
+
+> - (e) any of the following offences in connection with such an attack as is mentioned in section 2(1) of the United Nations Personnel Act 1997—
+>   - (i) an offence of wilful fireraising;
+>   - (ii) an offence under section 2 of the Explosive Substances Act 1883 of causing an explosion likely to cause serious injury to property.
+
+.
+
+#### Internationally Protected Persons Act 1978 (c. 17)
+
+**2.** In section 2 of the Internationally Protected Persons Act 1978 (supplementary provision about proceedings for offences under that Act), in subsections (1) and (2) for “and the Nuclear Material (Offences) Act 1983” there shall be substituted “ , the Nuclear Material (Offences) Act 1983 and the United Nations Personnel Act 1997 ”.
+
+#### Suppression of Terrorism Act 1978 (c. 26)
+
+**3.** In section 4 of the Suppression of Terrorism Act 1978 (jurisdiction in respect of certain offences committed outside the United Kingdom), in subsections (4) and (5) for “and the Nuclear Material (Offences) Act 1983” there shall be substituted “ , the Nuclear Material (Offences) Act 1983 and the United Nations Personnel Act 1997 ”.
+
+#### Nuclear Material (Offences) Act 1983 (c. 18)
+
+**4.** In section 3 of the Nuclear Material (Offences) Act 1983 (supplementary provision about proceedings for offences under that Act), in subsections (1) and (2) for “and the Suppression of Terrorism Act 1978” there shall be substituted “ , the Suppression of Terrorism Act 1978 and the United Nations Personnel Act 1997 ”.
+
+## Annotations
+
+[^c1303347]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1997/13/section/1) extended (with modifications) (Guernsey) by [S.I. 1998/1075](https://www.legislation.gov.uk/uksi/1998/1075), [art. 2](https://www.legislation.gov.uk/uksi/1998/1075/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1075/schedule) (with effect as mentioned in [art. 2](https://www.legislation.gov.uk/uksi/1998/1075/article/2))
+
+    [S. 1](https://www.legislation.gov.uk/ukpga/1997/13/section/1) extended (with modifications) (Jersey) (20.7.1998) by [S.I. 1998/1267](https://www.legislation.gov.uk/uksi/1998/1267), [art. 2](https://www.legislation.gov.uk/uksi/1998/1267/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1267/schedule)
+
+    [S. 1](https://www.legislation.gov.uk/ukpga/1997/13/section/1) extended (with modifications) (Isle of Man) (24.8.1998) by [S.I. 1998/1509](https://www.legislation.gov.uk/uksi/1998/1509), [art. 2](https://www.legislation.gov.uk/uksi/1998/1509/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1509/schedule)
+
+[^c1303348]: Marginal citation: [1861 c. 100](https://www.legislation.gov.uk/ukpga/1861/100).
+
+[^c1303349]: Marginal citation: [1883 c. 3](https://www.legislation.gov.uk/ukpga/1883/3).
+
+[^c1303350]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/1997/13/section/2) extended (with modifications) (Guernsey) by [S.I. 1998/1075](https://www.legislation.gov.uk/uksi/1998/1075), [art. 2](https://www.legislation.gov.uk/uksi/1998/1075/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1075/schedule) (with effect as mentioned in [art. 2](https://www.legislation.gov.uk/uksi/1998/1075/article/2))
+
+    [S. 2](https://www.legislation.gov.uk/ukpga/1997/13/section/2) extended (with modifications) (Jersey) (20.7.1998) by [S.I. 1998/1267](https://www.legislation.gov.uk/uksi/1998/1267), [art. 2](https://www.legislation.gov.uk/uksi/1998/1267/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1267/schedule)
+
+    [S. 2](https://www.legislation.gov.uk/ukpga/1997/13/section/2) extended (with modifications) (Isle of Man) (24.8.1998) by [S.I. 1998/1509](https://www.legislation.gov.uk/uksi/1998/1509), [art. 2](https://www.legislation.gov.uk/uksi/1998/1509/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1509/schedule)
+
+[^c1303351]: Marginal citation: [1971 c. 48](https://www.legislation.gov.uk/ukpga/1971/48).
+
+[^c1303352]: Marginal citation: [S.I](https://www.legislation.gov.uk/ukpga/1997/13/section/I). [1977 No. 426](https://www.legislation.gov.uk/ukcm/1977/426) (N.I. 1).
+
+[^c1303353]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/1997/13/section/3) extended (with modifications) (Guernsey) by [S.I. 1998/1075](https://www.legislation.gov.uk/uksi/1998/1075), [art. 2](https://www.legislation.gov.uk/uksi/1998/1075/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1075/schedule) (with effect as mentioned in [art. 2](https://www.legislation.gov.uk/uksi/1998/1075/article/2))
+
+    [S. 3](https://www.legislation.gov.uk/ukpga/1997/13/section/3) extended (with modifications) (Jersey) (20.7.1998) by [S.I. 1998/1267](https://www.legislation.gov.uk/uksi/1998/1267), [art. 2](https://www.legislation.gov.uk/uksi/1998/1267/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1267/schedule)
+
+    [S. 3](https://www.legislation.gov.uk/ukpga/1997/13/section/3) extended (with modifications) (Isle of Man) (24.8.1998) by [S.I. 1998/1509](https://www.legislation.gov.uk/uksi/1998/1509), [art. 2](https://www.legislation.gov.uk/uksi/1998/1509/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1509/schedule)
+
+[^c1303354]: Modification: S. 4 extended (with modifications) (Guernsey) by [S.I. 1998/1075](https://www.legislation.gov.uk/uksi/1998/1075) , [art. 2](https://www.legislation.gov.uk/uksi/1998/1075/article/2) , [Sch.](https://www.legislation.gov.uk/uksi/1998/1075/schedule) (with effect as mentioned in [art. 2](https://www.legislation.gov.uk/uksi/1998/1075/article/2) )
+
+    S. 4 extended (with modifications) (Jersey) (20.7.1998) by [S.I. 1998/1267](https://www.legislation.gov.uk/uksi/1998/1267) , [art. 2](https://www.legislation.gov.uk/uksi/1998/1267/article/2) , [Sch.](https://www.legislation.gov.uk/uksi/1998/1267/schedule)
+
+    S. 4 extended (with modifications) (Isle of Man) (24.8.1998) by [S.I. 1998/1509](https://www.legislation.gov.uk/uksi/1998/1509) , [art. 2](https://www.legislation.gov.uk/uksi/1998/1509/article/2) , [Sch.](https://www.legislation.gov.uk/uksi/1998/1509/schedule)
+
+[^key-c683c30dfee78843a69483299216c4ad]: Textual amendment: Words in s. 4(2) substituted (28.7.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6) , [ss. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2009/6/section/2/2/a) , [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1) ; [S.I. 2010/1779](https://www.legislation.gov.uk/uksi/2010/1779) , [art. 2](https://www.legislation.gov.uk/uksi/2010/1779/article/2)
+
+[^key-ac0225257814468b58e98e3552f63d00]: Textual amendment: Words in s. 4(2)(c)(i) substituted (28.7.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6) , [ss. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2009/6/section/2/2/b) , [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1) ; [S.I. 2010/1779](https://www.legislation.gov.uk/uksi/2010/1779) , [art. 2](https://www.legislation.gov.uk/uksi/2010/1779/article/2)
+
+[^key-de87370a20e209db06424016cddf94cb]: Textual amendment: S. 4(2A) inserted (28.7.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6) , [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2009/6/section/2/3) , [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1) ; [S.I. 2010/1779](https://www.legislation.gov.uk/uksi/2010/1779) , [art. 2](https://www.legislation.gov.uk/uksi/2010/1779/article/2)
+
+[^key-0969109c08b097675110fcbbd757ebea]: Textual amendment: S. 4(3A) inserted (28.7.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6) , [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2009/6/section/2/4) , [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1) ; [S.I. 2010/1779](https://www.legislation.gov.uk/uksi/2010/1779) , [art. 2](https://www.legislation.gov.uk/uksi/2010/1779/article/2)
+
+[^key-1bfae018b928f596606ede310893729e]: Textual amendment: Words in s. 4(4) inserted (28.7.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6) , [ss. 2(5)](https://www.legislation.gov.uk/ukpga/2009/6/section/2/5) , [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1) ; [S.I. 2010/1779](https://www.legislation.gov.uk/uksi/2010/1779) , [art. 2](https://www.legislation.gov.uk/uksi/2010/1779/article/2)
+
+[^c1303355]: Modification: S. 5 extended (with modifications) (Guernsey) by [S.I. 1998/1075](https://www.legislation.gov.uk/uksi/1998/1075), [art. 2](https://www.legislation.gov.uk/uksi/1998/1075/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1075/schedule) (with effect as mentioned in [art. 2](https://www.legislation.gov.uk/uksi/1998/1075/article/2))
+
+    S. 5 extended (with modifications) (Jersey) (20.7.1998) by [S.I. 1998/1267](https://www.legislation.gov.uk/uksi/1998/1267), [art. 2](https://www.legislation.gov.uk/uksi/1998/1267/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1267/schedule)
+
+    S. 5 extended (with modifications) (Isle of Man) (24.8.1998) by [S.I. 1998/1509](https://www.legislation.gov.uk/uksi/1998/1509), [art. 2](https://www.legislation.gov.uk/uksi/1998/1509/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1509/schedule)
+
+[^c1303356]: Marginal citation: [1978 c. 17](https://www.legislation.gov.uk/ukpga/1978/17).
+
+[^c1303357]: Marginal citation: [1978 c. 26](https://www.legislation.gov.uk/ukpga/1978/26).
+
+[^key-55340ecd56ae835fb1d298eabf8c8236]: Textual amendment: Words in s. 5(1) substituted (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 67](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/67); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/786/article/3/1)
+
+[^c1303359]: Marginal citation: [1978 c. 17](https://www.legislation.gov.uk/ukpga/1978/17).
+
+[^c1303360]: Marginal citation: [1978 c. 26](https://www.legislation.gov.uk/ukpga/1978/26).
+
+[^key-cba1b2dfc8aebf5606dc2e37f50693d1]: Textual amendment: Words in s. 5(2) substituted (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 67](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/67); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/786/article/3/1)
+
+[^key-b20dae7b3c4f307d0fe164a3ae2a8397]: Textual amendment: S. 6 repealed (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [s. 221](https://www.legislation.gov.uk/ukpga/2003/41/section/221), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/41/schedule/4); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended (11.12.2003) by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), art. 2 and (18.12.2003) by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), art. 2)
+
+[^c1303362]: Modification: S. 6 extended (with modifications) (Guernsey) by [S.I. 1998/1075](https://www.legislation.gov.uk/uksi/1998/1075), [art. 2](https://www.legislation.gov.uk/uksi/1998/1075/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1075/schedule) (with effect as mentioned in [art. 2](https://www.legislation.gov.uk/uksi/1998/1075/article/2))
+
+    S. 6 extended (with modifications) (Jersey) (20.7.1998) by [S.I. 1998/1267](https://www.legislation.gov.uk/uksi/1998/1267), [art. 2](https://www.legislation.gov.uk/uksi/1998/1267/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1267/schedule)
+
+    S. 6 extended (with modifications) (Isle of Man) (24.8.1998) by [S.I. 1998/1509](https://www.legislation.gov.uk/uksi/1998/1509), [art. 2](https://www.legislation.gov.uk/uksi/1998/1509/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1509/schedule)
+
+[^c1303365]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/1997/13/section/7) extended (with modifications) (Jersey) (20.7.1998) by [S.I. 1998/1267](https://www.legislation.gov.uk/uksi/1998/1267), [art. 2](https://www.legislation.gov.uk/uksi/1998/1267/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1267/schedule)
+
+    [S. 7](https://www.legislation.gov.uk/ukpga/1997/13/section/7) extended (with modifications) (Isle of Man) (24.8.1998) by [S.I. 1998/1509](https://www.legislation.gov.uk/uksi/1998/1509), [art. 2](https://www.legislation.gov.uk/uksi/1998/1509/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1509/schedule)
+
+[^c1303366]: Modification: [S. 8](https://www.legislation.gov.uk/ukpga/1997/13/section/8) extended (with modifications) (Guernsey) by [S.I. 1998/1075](https://www.legislation.gov.uk/uksi/1998/1075), [art. 2](https://www.legislation.gov.uk/uksi/1998/1075/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1075/schedule) (with effect as mentioned in [art. 2](https://www.legislation.gov.uk/uksi/1998/1075/article/2))
+
+    [S. 8](https://www.legislation.gov.uk/ukpga/1997/13/section/8) extended (with modifications) (Jersey) (20.7.1998) by [S.I. 1998/1267](https://www.legislation.gov.uk/uksi/1998/1267), [art. 2](https://www.legislation.gov.uk/uksi/1998/1267/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1267/schedule)
+
+    [S. 8](https://www.legislation.gov.uk/ukpga/1997/13/section/8) extended (with modifications) (Isle of Man) (24.8.1998) by [S.I. 1998/1509](https://www.legislation.gov.uk/uksi/1998/1509), [art. 2](https://www.legislation.gov.uk/uksi/1998/1509/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1509/schedule)
+
+[^key-e6c98635ea7087455479570a8dfbf800]: Modification: [S. 9(2)](https://www.legislation.gov.uk/ukpga/1997/13/section/9/2) applied (2.7.2009) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6), [s. 3(4)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/4)
+
+[^c1303367]: Modification: [S. 10](https://www.legislation.gov.uk/ukpga/1997/13/section/10) extended (with modifications) (Isle of Man) (24.8.1998) by [S.I. 1998/1509](https://www.legislation.gov.uk/uksi/1998/1509), [art. 2](https://www.legislation.gov.uk/uksi/1998/1509/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1509/schedule)
+
+[^c1303368]: Modification: [Sch.](https://www.legislation.gov.uk/ukpga/1997/13/schedule) extended (with modifications) (Jersey) (20.7.1998) by [S.I. 1998/1267](https://www.legislation.gov.uk/uksi/1998/1267), [art. 2](https://www.legislation.gov.uk/uksi/1998/1267/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1267/schedule)
+
+    [Sch.](https://www.legislation.gov.uk/ukpga/1997/13/schedule) extended (with modifications) (Isle of Man) (24.8.1998) by [S.I. 1998/1509](https://www.legislation.gov.uk/uksi/1998/1509), [art. 2](https://www.legislation.gov.uk/uksi/1998/1509/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1509/schedule)

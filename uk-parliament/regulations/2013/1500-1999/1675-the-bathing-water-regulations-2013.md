@@ -1,0 +1,959 @@
+---
+title: The Bathing Water Regulations 2013
+id: uksi/2013/1675
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-07-03'
+text_date: '2026-05-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/1675
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/1675/pdfs/uksiem_20131675_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2013/1675/pdfs/uksiem_20131675_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1675/pdfs/uksi_20131675_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1675/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bathing Water Regulations 2013
+
+> Text as at 2026-05-15.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 1675
+
+Water Resources
+
+The Bathing Water Regulations 2013
+
+Made
+
+3rd July 2013
+
+Laid before Parliament
+
+9th July 2013
+
+Laid before the National Assembly for Wales
+
+9th July 2013
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State is designated [^c21854861] for the purposes of section 2(2) of the European Communities Act 1972 [^c21854871] in relation to the environment, and the Welsh Ministers are designated [^c21854881] for the purposes of that section in relation to measures relating to water resources.
+
+The Secretary of State in relation to England and Scotland [^c21854891], and the Welsh Ministers in relation to Wales, make the following Regulations in exercise of the powers conferred by that section of that Act.
+
+## PART 1 — GENERAL PROVISIONS
+
+### 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Bathing Water Regulations 2013.
+
+(2) The following provisions come into force on 31st July 2013—
+
+- (a) this regulation and regulations 2 to 9;
+- (b) in regulation 14—
+  - (i) paragraph (1) in so far as it relates to paragraphs (2) to (5);
+  - (ii) paragraphs (2) to (5);
+- (c) regulations 15 to 18;
+- (d) in regulation 19—
+  - (i) paragraph (1);
+  - (ii) paragraph 3(b) and (c);
+  - (iii) paragraph (4)(b);
+- (e) regulation 20.
+
+(3) All remaining provisions come into force on 24th March 2015.
+
+(4) Subject to paragraph (5), these Regulations extend to England and Wales only.
+
+(5) Any amendment or revocation made by these Regulations has the same extent as the enactment being amended or revoked.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**abnormal situation**” means an event or combination of events impacting on bathing water quality which the appropriate agency would not expect to occur, on average, more than once every four years;
+- “**the appropriate agency**” means—
+  - (a) in relation to surface waters in England, the Environment Agency;
+  - (b) in relation to surface waters in Wales, the Natural Resources Body for Wales;
+- “**appropriate agency management measures**” means any measures taken by the appropriate agency in relation to a bathing water—
+  - (a) to identify and assess the causes of pollution that might, in the particular circumstances of each case, affect bathing waters and impair bathers' health;
+  - (b) to reduce the risk of pollution (being measures within the appropriate agency's relevant functions referred to in regulation 5);
+  - (c) to issue advice against bathing; or
+  - (d) under regulations 7 to 11;
+- “**the appropriate Minister**” means—
+  - (a) in relation to surface waters in England, the Secretary of State;
+  - (b) in relation to surface waters in Wales, the Welsh Ministers;
+- “[^key-a84eb087c2aaa4f819aa04a8b04ef5dc]**bathing season**” , in relation to a bathing water, means the bathing season specified in, or (as the case may be) determined under regulation 4(1);
+- “**a bathing water**” means an area of surface water identified under regulation 3 [^key-30233769911de03c46b57dd6e332618e]... , at which permanent advice against bathing is not currently in place under regulation 13;
+- “**the Bathing Water Directive**” means Directive [2006/7/EC](https://www.legislation.gov.uk/eudr/2006/7) of the European Parliament and of the Council concerning the management of bathing water quality and repealing Directive [76/160/EEC](https://www.legislation.gov.uk/eudr/1976/160) [^c21854901];
+- “**bathing water profile**” means a profile established under regulation 7;
+- “**cyanobacterial proliferation**” means an accumulation of cyanobacteria including in the form of a bloom, mat or scum;
+- “**the Decision**” means the Commission Implementing Decision 2011/321/EU establishing, pursuant to Directive [2006/7/EC](https://www.legislation.gov.uk/eudr/2006/7) of the European Parliament and of the Council, a symbol for information to the public on bathing water classification and any bathing prohibition or advice against bathing [^c21854911];
+- “**England**” includes the territorial sea adjacent to England and not forming any part of Wales;
+- “[^key-06b43846f40d9071623251570bdb93a5]**environmental protection measures**” means any measures to—
+  - (a) protect the natural environment from the effects of human activity;
+  - (b) protect people from the effects of human activity on the natural environment;
+  - (c) maintain, restore or enhance the natural environment;
+  - (d) monitor, assess, consider, advise or report on any of the measures referred to in paragraphs (a) to (c);
+- “**local authority**” means—
+  - (a) in England, the council of any district, parish or town, the unitary authority of a place in which there are no districts, the council of a London borough, the Common Council of the City of London or the Council of the Isles of Scilly; or
+  - (b) in Wales, the council of a county or county borough;
+- “**local authority management measures**” means measures taken by a local authority in relation to a bathing water which it controls—
+  - (a) to give information to the public; or
+  - (b) to prevent, by means of public information (including issuing an advice against bathing), bathers' exposure to pollution;
+- “**management measures**” means appropriate agency management measures or local authority management measures;
+- “**permanent advice against bathing**” means advice issued by the appropriate agency under regulation 13(2) in relation to at least one upcoming bathing season that would have been applicable to that former bathing water[^key-c3d04b639a7888d4a2aa10077331171b];
+- “**pollution**” means contamination which affects bathing water quality and presents a risk to bathers' health from any of the following—
+  - (a) intestinal enterococci or *Escherichia coli*;
+  - (b) cyanobacterial proliferation;
+  - (c) a proliferation of macro-algae or marine phytoplankton;
+  - (d) waste, including tarry residues, glass, plastic or rubber;
+- “relevant land” is land which is—
+  - (a) normally used to access a bathing water from the landward side, and
+  - (b) immediately adjacent to that bathing water or, where the bathing water is tidal, immediately above the high water mark;
+- “**relevant procedures for short-term pollution**” means—
+  - (a) in relation to the appropriate agency, any measures, including appropriate agency management measures, to prevent reduce or eliminate the causes of pollution and may include surveillance, early warning systems or monitoring with a view to preventing bathers' exposure to pollution by means of a warning, or, where necessary, an advice against bathing; and
+  - (b) in relation to a local authority, any measures, including local authority management measures, to notify the public that the bathing water is affected by short-term pollution;
+- “**set of bathing water quality data**” means data obtained from results of samples taken under Part 1 of Schedule 4;
+- “**short-term pollution**” means contamination by intestinal enterococci or *Escherichia coli* where the appropriate agency—
+  - (a) has identified the causes, and
+  - (b) does not normally expect the contamination to affect bathing water quality for more than approximately 72 hours after the bathing water is first affected;
+- “**Wales**” has the meaning given by section 158 of the Government of Wales Act 2006 [^c21854921].;
+
+(2) In these Regulations, “coastal water”, “groundwater”, “inland water”, “lake”, “river”, “surface water” and “transitional waters” have the same meaning as in Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy , as last amended by Commission[^key-45b36ebe9808912bb72b2f5e3cbec368] [Directive 2014/101/EU](https://www.legislation.gov.uk/eudr/2014/0101), and are listed in Schedule 1 to these Regulations.
+
+(3) For the purposes of these Regulations, a local authority controls a bathing water if the relevant land relating to that bathing water is located within its area.
+
+(4)[^key-a1e1ae44c1ad91d39663fe31f5a8e7b4] For the purposes of these Regulations, a reference to an EU Directive is to be read as if any reference in that Directive to one or more member States in a provision imposing an obligation on, or conferring a discretion on, a member State or member States were a reference to the appropriate Minister, appropriate agency or local authority which, immediately before exit day, was responsible for the United Kingdom's compliance with that obligation, or able to exercise that discretion, in respect of England or Wales.
+
+### 3. Identification of bathing waters
+
+(1) The Secretary of State must identify, and maintain a list of, the surface waters[^key-691a0f864e580b0c63ac60d42eca0ebb] in England, other than excluded pools and waters, at which the Secretary of State expects a large number of people to bathe, having regard in particular to past trends and any infrastructure or facilities provided, or other measures taken, to promote bathing at those waters.
+
+(2) The Welsh Ministers must identify, and maintain a list of, the surface waters[^key-088f510405a319398d29bc268f537b78] in Wales, other than excluded pools and waters, at which the Welsh Ministers expect a large number of people to bathe, having regard in particular to past trends and any infrastructure or facilities provided, or other measures taken, to promote bathing at those waters.
+
+(2A)[^key-f3694f4f2fd6c6f132e3f322c705f165] The appropriate Minister must not identify or list a surface water under paragraph (1) or (2) (as the case may be) if—
+
+- (a) the appropriate agency, having consulted the local authority that controls the relevant surface water, advises the appropriate Minister that—
+  - (i) it would be infeasible or disproportionately expensive for the surface water to achieve a classification of at least “sufficient” under regulation 11; or
+  - (ii) a large number of bathers is likely to have a significant adverse impact on the effectiveness of any environmental protection measures at, or in the vicinity of, the surface water,
+
+  and the appropriate Minister accepts that advice; or
+- (b) the appropriate Minister has reasonable grounds to believe that there is likely to be a significant risk to the physical safety of bathers arising from the features of the relevant surface water.
+
+(3) For the purposes of paragraphs (1) and (2), excluded pools and waters are—
+
+- (a) swimming pools and spa pools;
+- (b) confined waters subject to treatment or used for therapeutic purposes;
+- (c) artificially created confined waters separated from surface water and groundwater.
+
+(4) The Secretary of State must publish the following information annually, and in accordance with paragraph (6)—
+
+- (a)[^key-87c23f982f56fad1dcebbb89d833827f] details of each bathing water listed under paragraph (1), including—
+  - (i) classification; and
+  - (ii) the bathing season determined under regulation 4(1), if relevant.
+- (b) details of all surface waters in England at which permanent advice against bathing is currently in place under regulation 13, including, in relation to each such surface water, the reasons for that advice.
+
+(5) The Welsh Ministers must publish the following information annually, and in accordance with paragraph (6)—
+
+- (a)[^key-0cfa0d099f2e0b96f83d9be9e51ecb22] details of each bathing water listed under paragraph (2), including—
+  - (i) classification; and
+  - (ii) the bathing season determined under regulation 4(1), if relevant.
+- (b) details of all surface waters in Wales at which permanent advice against bathing is currently in place under regulation 13, including, in relation to each such surface water, the reasons for that advice.
+
+(6)[^key-502400acec1b45df043a1ac8c6382e83] The information published under paragraphs (4) and (5) must be actively disseminated using appropriate media and technologies including the internet, and in such languages as the appropriate Minister considers appropriate, before the earlier of—
+
+- (a) 15th May in each year; or
+- (b) in the case of a bathing water for which the appropriate Minister determines a bathing season under regulation 4(1), the start of that bathing season.
+
+(7) For the purposes of these Regulations[^key-46c6f7f18e1080adbd53c68f6305cc18], section 104(1) of the Water Resources Act 1991 [^c21854931] (meaning of “controlled waters”) has effect as if “inland freshwaters” included any lake or pond (other than a relevant lake or pond within the meaning of that section) identified under this regulation.
+
+### 4. Length of the bathing season[^key-46bb79a685d185e2366e911892955033]
+
+*Extent: E*
+
+(1) For the purposes of these Regulations, the bathing season for bathing waters in England or Wales (as the case may be) in a year is—
+
+- (a) the period beginning with 15th May and ending at the end of 30th September; or
+- (b) such other period as the appropriate Minister has for the time being determined.
+
+(2) For the purposes of paragraph (1)(b), the appropriate Minister may determine different periods for different bathing waters.
+
+(3) The appropriate Minister may only make a determination under paragraph (1)(b) in relation to a particular bathing water before—
+
+- (a) 15th May in the year in which the determination is to take effect; or
+- (b) if a determination under paragraph (1)(b) currently has effect in respect of the bathing water, the end of the period of 12 months beginning with the first day of the period currently determined in relation to that bathing water.
+
+(4) The appropriate Minister may revoke a determination made under paragraph (1)(b) before the earlier of—
+
+- (a) the start of the upcoming bathing season currently determined for that bathing water; or
+- (b) 15th May each year.
+
+(5) A determination that is revoked under paragraph (4) ceases to have effect immediately after the day on which it is revoked.
+
+(6) The appropriate Minister must maintain a list of the bathing seasons determined under paragraph (1)(b) and which have not been revoked under paragraph (4).
+
+### 5. General duties
+
+(1) The Secretary of State, the Welsh Ministers, the Environment Agency and the Natural Resources Body for Wales must exercise their relevant functions in England and Wales—
+
+- (a) so as to ensure that, by the end of the bathing season in 2015, all bathing waters are classified under regulation 11 at least as “sufficient”;
+- (b) so as to take such realistic and proportionate measures as they each consider appropriate with a view to increasing the number of bathing waters classified under regulation 11 as “good” or “excellent”; and
+- (c) in all other respects, so as to ensure compliance with the provisions[^key-864bc54de85516a095b4d10dccdd46c0] of the Bathing Water Directive , except where there is alternative provision in these Regulations[^key-204d008cb715de4dbbdf14dc02f07943].
+
+(2) In this regulation, “**relevant functions**” means functions, so far as relevant, under the enactments listed in Schedule 2 (enactments) to the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017[^key-0fac142cf375226fcff4e7063caf28b3].
+
+(3) The appropriate agency must promptly provide—
+
+- (a) to the appropriate Minister such information about the quality of bathing waters as the appropriate Minister may by notice reasonably require; and
+- (b) to a local authority such information about the quality of the bathing waters that it controls as that local authority may by notice reasonably require.
+
+(4)[^key-3be69794ce6b188353091bf19a14a7ef] For the purposes of this regulation, the Bathing Water Directive is to be read as if—
+
+- (a) in Article 2(13), the reference to Council Directive [85/337/EEC](https://www.legislation.gov.uk/eudr/1985/337) on the assessment of the effects of certain public and private projects on the environment were a reference to Council Directive 2011/92/EU on the assessment of the effects of certain public and private projects on the environment;
+- (b) the following provisions were omitted—
+  - (i) Article 3(8);
+  - (ii) in Article 3(9), the final sentence;
+  - (iii) in Article 4(2), in the second subparagraph, the second and third sentences;
+- (c) in Article 6(3), the reference to Council Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) were a reference to Article 8 of that Directive;
+- (d) the following provisions were omitted—
+  - (i) Article 13;
+  - (ii) Article 14;
+  - (iii) Article 18;
+- (e) in Annex 3, in paragraph 1(a), the reference to Council Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) were omitted.
+
+(5) For the purposes of paragraph (4)(c), Article 8 of Council Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) is to be read as if—
+
+- (a) in paragraph 1, in the final indent, the reference to Community legislation were a reference to assimilated[^key-4a0c069ece943c58513c9183638e634e] law;
+- (b) in paragraph 2, the reference in the second sentence to Annex 5 to Council Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) were a reference to that Annex as modified by Part 1 of Schedule 5 to the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017.
+
+### 6. Public participation
+
+(1) The Secretary of State, the Welsh Ministers and the appropriate agency must—
+
+- (a) encourage public participation in the exercise of their respective functions under these Regulations; and
+- (b) ensure that the public has an opportunity—
+  - (i) to find out how to participate, and
+  - (ii) to submit suggestions, comments or complaints.
+
+(2) The Secretary of State, the Welsh Ministers and the appropriate agency must take due account of any suggestions, comments or complaints they have obtained from the public when exercising their respective functions under these Regulations.
+
+## PART 2 — BATHING WATER PROFILES
+
+### 7. Bathing water profiles
+
+(1) The appropriate agency must—
+
+- (a) ensure that prior to the start of each bathing season, it has established a bathing water profile for every bathing water; and
+- (b) keep every bathing water profile under review.
+
+(2) The appropriate agency may combine the bathing water profiles of contiguous bathing waters.
+
+(3) When complying with paragraph (1), the appropriate agency must take into account the data which it has obtained or analysed under—
+
+- (a) the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017[^key-641eac107946fab2e5d6462261bebc03];
+- (b) the Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003 [^c21854951]; or
+- (c) the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004 [^c21854961].
+
+(4) Schedule 3 (bathing water profiles) has effect.
+
+## PART 3 — MONITORING ETC. OF BATHING WATERS AND PUBLIC INFORMATION
+
+### 8. Monitoring etc.
+
+(1) The appropriate agency must establish a monitoring programme for every bathing water.
+
+(2) The monitoring programme for intestinal enterococci and *Escherichia coli* must be in accordance with Part 1 of Schedule 4.
+
+(3) The appropriate agency must undertake appropriate monitoring for cyanobacteria in accordance with Part 2 of Schedule 4.
+
+(4) The appropriate agency must undertake investigations for macro-algae and marine phytoplankton in accordance with Part 3 of Schedule 4.
+
+(5) The appropriate agency must undertake visual inspections for waste, including tarry residues, glass, plastic or rubber in accordance with Part 4 of Schedule 4.
+
+(6) After the end of every bathing season, the appropriate agency must notify the appropriate Minister, giving reasons, if it has suspended the monitoring calendar in accordance with paragraph 2 of Schedule 4.
+
+### 9. Public information
+
+(1) Every local authority that controls a bathing water must ensure that the following information about the bathing water is actively disseminated and promptly made available to the public during the bathing season in an easily accessible place in the near vicinity of the bathing water—
+
+- (a) the bathing water's current classification pursuant to regulation 11, represented by a symbol in accordance with Part 2 of the Annex to the Decision;
+- (b) any advice against bathing which has been issued there, represented by a symbol in accordance with Part 1 of the Annex to the Decision, and giving reasons;
+- (c) a general description of the bathing water, in non-technical language, based on its bathing water profile;
+- (d) information on the nature and expected duration of abnormal situations there; and
+- (e) an indication of the sources of more complete information published in accordance with paragraph (2).
+
+(2) In relation to every bathing water, the appropriate agency must use appropriate media and technologies including the internet to actively and promptly disseminate the following information in such languages as the appropriate agency considers appropriate—
+
+- (a) the information referred to in paragraph (1);
+- (b) before the start of every bathing season, the bathing water's classification in accordance with regulation 11 over the last three years;
+- (c) the current bathing water profile;
+- (d) as soon as possible after the completion of the analysis under Schedule 4, the results of the monitoring carried out in accordance with regulation 8(2) since the beginning of the current bathing season;
+- (e) where the bathing water is classified as “poor” under regulation 11, information as to—
+  - (i) the causes of pollution there, and
+  - (ii) the management measures being taken there under regulation 13; and
+- (f) information as to incidences of short-term pollution so far as required by regulation 14(2)(c)(i) to (v).
+
+(3) The appropriate agency must—
+
+- (a) prepare a general description of every bathing water for use under paragraph (1)(c); and
+- (b) make the descriptions available to local authorities.
+
+(4) Public information under these Regulations must—
+
+- (a) wherever possible, be provided using a geographic information system; and
+- (b) be presented in a clear and coherent manner.
+
+## PART 4 — BATHING WATER ASSESSMENT AND CLASSIFICATION
+
+### 10. Assessment
+
+(1) At the end of every bathing season, for every bathing water, the appropriate agency must—
+
+- (a) prepare a set of bathing water quality data for that season; and
+- (b) carry out a bathing water quality assessment using the set of bathing water quality data compiled in relation to that season and the relevant assessment period.
+
+(2) In this regulation, the “relevant assessment period” is—
+
+- (a) the immediately preceding three bathing seasons;
+- (b) the immediately preceding two bathing seasons, if the appropriate agency so determines in accordance with paragraph (3); or
+- (c) the number of immediately preceding bathing seasons, being less than three, that the appropriate agency determines in accordance with paragraph (4).
+
+(3) The appropriate agency may make a determination under paragraph (2)(b) where—
+
+- (a) it has consulted the appropriate Minister; and
+- (b) it is at least five years since the last change in the relevant assessment period.
+
+(4) The appropriate agency may make a determination under paragraph (2)(c), if—
+
+- (a) it has consulted the appropriate Minister;
+- (b) the set of bathing water quality data used is based on at least 16 samples; and
+- (c) it considers that any factors identified in the bathing water profile as likely to affect the classification of the bathing water under regulation 11 have changed, and the set of bathing water quality data used is based only on samples taken since those factors have changed.
+
+### 11. Classification
+
+(1) On the basis of each assessment made under regulation 10, the appropriate agency must classify every bathing water as “poor”, “sufficient”, “good” or “excellent” in accordance with Schedule 5.
+
+(2) The first classification of bathing waters under this regulation must be completed at the end of the bathing water season in 2015.
+
+## PART 5 — MANAGEMENT OF BATHING WATERS
+
+### 12. Management measures at bathing waters subject to pollution incidents
+
+(1) This regulation applies where a body mentioned in paragraph (2) is aware of—
+
+- (a) an incident of contamination by intestinal enterococci or *Escherichia coli*, other than an incident of short-term pollution to which regulation 15 applies, that the body considers may pose a risk to bathing water quality and bathers' health;
+- (b) a cyanobacterial proliferation which the body considers may pose a risk to bathers' health;
+- (c) a proliferation of macro-algae or marine phytoplankton which the body considers is unacceptable or may pose a risk to bathers' health;
+- (d) the presence of waste, including tarry residues, glass, plastic or rubber; or
+- (e) any other incident, other than an incident of short-term pollution to which regulation 15 applies, that the body considers may pose a risk to bathing water quality and bathers' health.
+
+(2) The bodies are:
+
+- (a) the appropriate agency;
+- (b) a sewerage undertaker;
+- (c) a local authority.
+
+(3) The appropriate agency must promptly or, in the case of a cyanobacterial proliferation under paragraph (1)(b), immediately—
+
+- (a) consult—
+  - (i) the local authority that controls the bathing water, and
+  - (ii) if necessary, the local sewerage undertaker;
+- (b) use appropriate media and technologies to actively and promptly disseminate information to the public, in such languages as are appropriate, and take such other appropriate agency management measures as it considers appropriate, to prevent exposing bathers to identified or presumed health risks.
+
+(4) The sewerage undertaker must, if necessary, promptly consult—
+
+- (a) the appropriate agency, and
+- (b) the local authority that controls the bathing water.
+
+(5) The local authority must promptly or, in the case of a cyanobacterial proliferation under paragraph (1)(b), immediately—
+
+- (a) consult the appropriate agency so far as necessary;
+- (b) notify the local sewerage undertaker, if necessary;
+- (c) ensure that appropriate information is actively disseminated and promptly made available to the public during the bathing season in an easily accessible place in the near vicinity of the bathing water, and take such other local authority management measures as it considers appropriate, to prevent exposing bathers to identified or presumed health risks; and
+- (d) in the case of pollution by waste, remove the waste.
+
+### 13. Additional management measures at “poor” bathing waters
+
+(1) Where the appropriate agency classifies a bathing water as “poor” under regulation 11—
+
+- (a) the appropriate agency must, during the bathing season following this classification—
+  - (i) take or cause to be taken appropriate agency management measures at the bathing water to prevent, reduce or eliminate (as appropriate) the causes of pollution;
+  - (ii) take, or cause to be taken appropriate agency management measures at the bathing water as it considers adequate with a view to preventing bathers' exposure to pollution;
+  - (iii) notify the local authority that controls the bathing water; and
+  - (iv) identify the reasons why the bathing water failed to achieve a classification of “sufficient”;
+- (b) the local authority that controls the bathing water must issue an advice against bathing at that bathing waters, and must take such local authority management measures as it considers adequate, with a view to preventing bathers' exposure to pollution.
+
+(1A)[^key-cfcd1b8d0113e1dd2da1c26df8202405] Where the appropriate agency classifies a bathing water as “poor” under regulation 11 for five consecutive years, the appropriate agency must, having consulted the local authority that controls the bathing water, advise the appropriate Minister on whether it would be feasible and not disproportionately expensive for the bathing water to achieve a classification of at least “sufficient” within a specified period.
+
+(1B) In this regulation the “**specified period**”, in relation to a bathing water, is the period of time which the appropriate agency advises the appropriate Minister to allow a bathing water to achieve a classification of at least “sufficient” under regulation 11.
+
+(1C) The period advised by the appropriate agency under paragraph (1B) must not exceed a period of five years beginning with the date on which the most recent classification under regulation 11 is published.
+
+(2) The appropriate agency must issue permanent advice against bathing in respect of a bathing water if—
+
+- (a)[^key-b0c40177b0df733bc88bda4e465dbee5] the appropriate agency classifies the bathing water as “poor” under regulation 11 for five consecutive years and advises the appropriate Minister under paragraph (1A) that it would be—
+  - (i) infeasible or disproportionately expensive for the bathing water to achieve a classification of at least “sufficient” within a period of five years beginning with the date on which the most recent classification under regulation 11 is published, and the appropriate Minister accepts that advice; or
+  - (ii) feasible and not disproportionately expensive for the bathing water to achieve a classification of at least “sufficient” within the specified period—
+    - (aa) but the appropriate Minister rejects that advice; or
+    - (bb) the appropriate Minister accepts that advice, but the bathing water does not achieve a classification of at least “sufficient” before the end of the specified period; or
+- (b) the appropriate agency has not classified the bathing water as “poor” under regulation 11 for five consecutive years but,[^key-bee0dc9b6adb3ea74a44a3c8ded472f3] having consulted the local authority that controls the bathing water, the appropriate agency advises the appropriate Minister that it considers that it would be infeasible or disproportionately expensive for the bathing water to achieve a classification of “sufficient” and the appropriate Minister accepts that advice.
+
+(3) Where permanent advice against bathing has been issued under paragraph (2) in relation to a bathing water, the appropriate agency must—
+
+- (a) notify the local authority that controlled the former bathing water—
+  - (i) that permanent advice against bathing has been issued there, giving reasons; and
+  - (ii) that it is no longer a bathing water; and
+- (b) use appropriate media and technologies including the internet to actively and promptly disseminate all the following information to the public, in such languages as the appropriate agency considers appropriate, in relation to the former bathing water—
+  - (i) that permanent advice against bathing has been issued there;
+  - (ii) the fact that it is no longer a bathing water;
+  - (iii) the reasons for its declassification.
+
+(4) When a local authority has received notification under paragraph (3)(a), it must ensure that the following information in relation to the former bathing water is actively disseminated and promptly made available to the public in an easily accessible place in the near vicinity of that former bathing water [^key-09b65b81b81e78e9bfe78ecce670b332]...–
+
+- (a) that permanent advice against bathing has been issued there, represented by a symbol in accordance with Part 1 of the Annex to the Decision;
+- (b) the fact that it is no longer a bathing water;
+- (c) the reasons for the declassification.
+
+### 14. Public information and general provisions about short-term pollution
+
+(1) This regulation applies where, having consulted the local authority that controls a bathing water, the appropriate agency has established relevant procedures for short-term pollution at the bathing water.
+
+(2) The appropriate agency must—
+
+- (a) ensure that the bathing water profile established under regulation 7 contains—
+  - (i) information as to the anticipated nature, frequency and duration of expected short-term pollution;
+  - (ii) details of any remaining causes of short-term pollution;
+  - (iii) details of the appropriate agency management measures taken and the time schedule for the elimination of the causes of the short-term pollution; and
+  - (iv) information on relevant procedures for short-term pollution taken during a short-term pollution incident and the [^key-fd544eafb811b13eb967d8f63555f864]... contact details of the appropriate agency[^key-b3dc721e8a715406a8fadcce6fa4a24d] responsible for taking such action;
+- (b) notify the local authority that controls the bathing water when short-term pollution is predicted there; and
+- (c) publish on its website the following information—
+  - (i) the conditions likely to lead to short-term pollution at the bathing water;
+  - (ii) the likelihood of short-term pollution there and its likely duration;
+  - (iii) the causes of short-term pollution there;
+  - (iv) the relevant procedures for short-term pollution in place there; and
+  - (v) the information referred to in paragraph (3).
+
+(3) The local authority must ensure that the following information is actively disseminated and promptly made available to the public during the bathing season in an easily accessible place in the near vicinity of the bathing water—
+
+- (a) an indication of the number of days for which advice against bathing was issued there during the immediately preceding bathing season because of short-term pollution; and
+- (b) a warning whenever short-term pollution is predicted or present there.
+
+(4)[^key-d461f035b460307e25544e5a8a9b611a] In the event of short-term pollution, the appropriate agency may, where the appropriate agency considers it necessary, take one additional sample as soon as reasonably practicable after the pollution incident is presumed to have ended, to verify that it has ended.
+
+(5)[^key-3d794f21a13f383f9ce512b35d02974d] The appropriate agency may disregard samples taken during short-term pollution from the set of bathing water quality data for the bathing water, and—
+
+- (a) after the end of short-term pollution and before the end of the bathing season, the appropriate agency must, where necessary, take additional samples to ensure that it has the minimum number required for the bathing water for the bathing season;
+- (b) where the appropriate agency expects to have the minimum number of samples required for the bathing water for the bathing season, the appropriate agency may take additional samples to replace those disregarded due to the short-term pollution, where the appropriate agency considers appropriate.
+
+(6) The appropriate agency must not classify the bathing water under regulation 11 as “sufficient”, “good” or “excellent” unless the number of samples disregarded under paragraph (5) represents no more than the greater of—
+
+- (a) 15% of the total number of samples provided for in the monitoring calendars established under paragraph 2 of Schedule 4 for the same period; and
+- (b) one sample per bathing season.
+
+### 15. Relevant procedures for short-term pollution
+
+Where there is short-term pollution at a bathing water to which regulation 14 applies—
+
+- (a) the appropriate agency must—
+  - (i) notify the local authority that controls the bathing water, and
+  - (ii) operate, or cause to be operated, any relevant procedures for short-term pollution which are not in operation and for which it is responsible;
+- (b) the local authority must—
+  - (i) take the local authority management measures which form part of the relevant procedures for short-term pollution there; and
+  - (ii) ensure that notification that the bathing water is affected by short-term pollution is actively disseminated and promptly made available to the public during the bathing season in an easily accessible place in the near vicinity of the bathing water.
+
+## PART 6 — FINAL PROVISIONS
+
+### 15A. Annual reports[^key-4759b1c021a11075a3e448f91f54645e]
+
+(1)[^key-25ccd37ac3fc49f930a81854ece7cf75] Following the end of the latest bathing season that applies in England or Wales (as the case may be) in each year, the appropriate Minister must prepare and publish a report on the bathing season or seasons for that year.
+
+(2)[^key-7f9182f4fa233fff777f9214db3e06c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A report must—
+
+- (a) be published in such manner as the appropriate Minister considers appropriate;
+- (b) contain the following information for a bathing water—
+  - (i) the results of monitoring carried out under regulation 8;
+  - (ii) the reasons for any suspension of the monitoring calendar notified by the appropriate agency under regulation 8(6);
+  - (iii) the results of bathing water quality assessments carried out under regulation 10;
+  - (iv) a description of any significant management measures taken.
+
+### 16. Enforcement
+
+(1) If the appropriate Minister becomes aware that a local authority has failed in its duties under these Regulations, the appropriate Minister may by notice to the local authority specify—
+
+- (a) measures that the local authority must take to ensure that the local authority complies with these Regulations; and
+- (b) the deadline by which those measures must be taken.
+
+(2) If the appropriate Minister becomes aware that a private operator has caused or is continuing to cause a local authority to fail in its duties under these Regulations, the appropriate Minister may by notice to the private operator specify—
+
+- (a) measures that the private operator must take; and
+- (b) the deadline by which those measures must be taken.
+
+(3) The appropriate Minister must consider any representations about the notice received from the local authority or private operator to whom the notice is addressed, and may amend or withdraw the notice.
+
+(4) If the specified measures have not been taken by the specified deadline, the appropriate Minister may—
+
+- (a) take the measures; or
+- (b) apply to the High Court for an order requiring (as the case may be)—
+  - (i) the local authority to comply with the notice or otherwise carry out its duties under these Regulations; or
+  - (ii) the private operator to comply with that notice.
+
+(5) Section 108 of the Environment Act 1995 [^c21854971] (powers of enforcing authorities and persons authorised by them) has effect in relation to England and Wales as if—
+
+- (a) “**pollution control functions**” in relation to the Secretary of State, the Welsh Ministers, the Environment Agency and the Natural Resources Body for Wales included their respective functions under these Regulations; and
+- (b) the powers in paragraph (4) of that section included the power to take any measure required of a local authority under these Regulations.
+
+(6) Section 202(2) of the Water Resources Act 1991 [^c21854981](information in connection with the control of pollution) has effect as if it conferred power on the Secretary of State, the Welsh Ministers, the Environment Agency and the Natural Resources Body for Wales to require the furnishing of information reasonably required for the purposes of these Regulations[^key-bbc25eaf83a418de6d50d61e8e7948e7].
+
+(7) In this regulation, “**private operator**” means a person, other than a local authority, who controls the relevant land in relation to a bathing water.
+
+### 17. Guidance
+
+The appropriate Minister may give guidance to the appropriate agency or any local authority with respect to the practical implementation of these Regulations[^key-7c91254aca741931b6c0c61b79efb6da], and the appropriate agency or local authority (as the case may be) to whom guidance is given must have regard to it.
+
+### 18. Amendment of the Bathing Waters (Classification) Regulations 1991 and transitional provision
+
+(1) In the Bathing Waters (Classification) Regulations 1991 [^c21854991], in regulation 2(4), for the words from “Schedule 3” to the end substitute “ Schedule 4 to the Bathing Water Regulations 2013. ”
+
+(2) Every notice served, or deemed to have been served, on the appropriate agency under section 83 of the Water Resources Act 1991 [^c21855001](water quality objectives) in relation to classification BW1, and every notice which has effect as if so served, has effect subject to the transitional provision in paragraph (1).
+
+(3) The National Rivers Authority (Bathing Waters) Directions 1992 [^c21855011] have effect as if—
+
+- (a) the only entries in the Annex to Council Directive [76/160/EEC](https://www.legislation.gov.uk/eudr/1976/160) concerning the quality of bathing water [^c21855021] were intestinal enterococci or *Escherichia coli*; and
+- (b) conformity with the values which appear in column G of that Annex were met where—
+  - (i) at least 90% of samples of waters taken and tested in accordance with these Regulations for intestinal enterococci meet the parametric value of 100 per 100 millilitres; and
+  - (ii) at least 80% of samples of waters taken and tested in accordance with these Regulations for *Escherichia coli* meet the parametric value of 100 per 100 millilitres.
+
+(4) Until the appropriate agency classifies a bathing water under regulation 11, for the purposes of regulation 9, the appropriate agency must, subject to the transitional provision in this regulation, classify the bathing water by reference to whether it conforms to the values in column I or G of the Annex to Council Directive [76/160/EEC](https://www.legislation.gov.uk/eudr/1976/160).
+
+### 19. Revocations, other amendments and savings
+
+(1) The Bathing Water Regulations 2008 [^c21855031] are revoked.
+
+(2) The Bathing Waters (Classification) Regulations 1991 and the Bathing Waters (Classification) (England) Regulations 2003 [^c21855041] are revoked.
+
+(3) In the Water Environment (Water Framework Directive) (England and Wales) Regulations 2003 [^c21855051], in Schedule 2 (enactments), in Part 2 (subordinate instruments)—
+
+- (a) omit paragraphs 11 and 26;
+- (b) omit paragraph 29;
+- (c) after paragraph 32 insert—
+
+  > **33.**
+  >
+  > The Bathing Water Regulations 2013
+
+  .
+
+(4) In the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004 [^c21855061], in Schedule 2 (enactments), in Part 2 (subordinate instruments)—
+
+- (a) omit paragraphs 11 and 26;
+- (b) for paragraph 28 substitute—
+
+  > **28.**
+  >
+  > The Bathing Water Regulations 2013.
+
+### 20.[^key-9cb9782f75029d0873300cff8d00db18]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Richard Benyon
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+Alun Davies
+
+Minister for Natural Resources and Food, one of the Welsh Ministers
+
+## SCHEDULE 1 — DEFINITIONS FROM THE WATER FRAMEWORK DIRECTIVE
+
+Regulation 2
+
+- “**Coastal water**” means surface water on the landward side of a line, every point of which is at a distance of one nautical mile on the seaward side from the nearest point of the baseline from which the breadth of territorial waters is measured [^c21855071], extending where appropriate up to the outer limit of transitional waters.
+- “**Groundwater**” means all water which is below the surface of the ground in the saturation zone and in direct contact with the ground or subsoil.
+- “**Inland water**” means all standing or flowing water on the surface of the land, and all groundwater on the landward side of the baseline from which the breadth of territorial waters is measured.
+- “**Lake**” means a body of standing inland surface water.
+- “**River**” means a body of inland water flowing for the most part on the surface of the land but which may flow underground for part of its course.
+- “**Surface water**” means inland waters, except groundwater; transitional waters and coastal waters, except in respect of chemical status for which it shall also include territorial waters.
+- “Transitional waters” are bodies of surface water in the vicinity of river mouths which are partly saline in character as a result of their proximity to coastal waters but which are substantially influenced by freshwater flows.
+
+## SCHEDULE 2 — SURFACE WATERS IDENTIFIED IN ENGLAND AND WALES[^key-2bc7d26dfe4f182e7a819a2f98b5cf91]
+
+**No longer in force.**
+
+Regulation 3
+
+### PART 1 — Surface Waters in England[^key-2bc7d26dfe4f182e7a819a2f98b5cf91]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Surface Waters in Wales[^key-2bc7d26dfe4f182e7a819a2f98b5cf91]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — BATHING WATER PROFILES
+
+Regulation 7
+
+### 1. Contents
+
+(1) Every bathing water profile must—
+
+- (a) contain a description of the physical, geographical and hydrological characteristics of—
+  - (i) the bathing water; and
+  - (ii) any other surface water in the catchment area of the bathing water where the surface water could be a source of pollution for the bathing water;
+- (b) identify and assess the causes of pollution that might affect bathing water quality and pose a risk to bathers' health;
+- (c) assess the potential for cyanobacterial proliferation;
+- (d) assess the potential for the proliferation of macro-algae or phytoplankton; and
+- (e) identify the location of the monitoring point.
+
+(2) The information in sub-paragraph (1)(a) and (b) must be detailed on a map whenever practicable.
+
+### 2. Review
+
+(1) Where a bathing water is classified as “poor”, “sufficient” or “good” under regulation 11, the appropriate agency must review, and if necessary update, the bathing water profile, taking into account the nature and severity of the pollution which affects the bathing water and at the following minimum frequency—
+
+- (a) if classified as “poor”, every two years;
+- (b) if classified as “sufficient”, every three years; and
+- (c) if classified as “good”, every four years.
+
+(2) Where there are significant construction works or infrastructure changes in or around a bathing water, the appropriate agency must review the bathing water profile before the start of the next bathing season.
+
+## SCHEDULE 4 — MONITORING ETC
+
+Regulation 8
+
+### PART 1 — INTESTINAL ENTEROCOCCI AND ESCHERICHIA COLI
+
+#### 1. Location of monitoring point
+
+The appropriate agency must—
+
+- (a) at every bathing water, locate the monitoring point where most bathers are expected; and
+- (b) subject to paragraph 7, where possible, take samples 30 centimetres below the water's surface and in water at least one metre deep.
+
+#### 2. Monitoring calendar
+
+(1) The appropriate agency must—
+
+- (a) establish a monitoring calendar for every bathing water before the start of every bathing season; and
+- (b) take samples at every bathing water no later than four days after the date specified in the monitoring calendar.
+
+(2)[^key-b2f86903ba5483b882abe8e8cd12a93f] In relation to any abnormal situation, the appropriate agency—
+
+- (a) may suspend the monitoring calendar for the duration of the situation;
+- (b) after the end of the situation and before the end of the bathing season must, where necessary, take sufficient additional samples to ensure that it has the minimum number required for the bathing water for the bathing season;
+- (c) may, where the appropriate agency expects to have the minimum number of samples required for the bathing water for the bathing season, take additional samples to replace those disregarded due to the suspension, where the appropriate agency considers appropriate.
+
+#### 3. Frequency of monitoring
+
+The appropriate agency must—
+
+- (a)[^key-4c3dcf729168bdb42a3acab94c0c0ab4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) take and analyse samples at intervals not exceeding one month, from every bathing water throughout the bathing season[^key-c869b5415c46afb6bd2361607208f2ce].
+
+#### 4. Sampling equipment
+
+(1) Subject to paragraph 7, the appropriate agency must only use sampling bottles which—
+
+- (a) have been—
+  - (i) sterilised in an autoclave for at least 15 minutes at 121 degrees Celsius;
+  - (ii) dry sterilised at no lower than 160 degrees Celsius and no higher than 170 degrees Celsius for at least one hour; or
+  - (iii) irradiated by their manufacturer and not used previously;
+- (b) are of a size which allows sufficient water to be taken and analysed for the presence of intestinal enterococci and *Escherichia coli*; and
+- (c) are made of transparent and colourless material.
+
+(2) The appropriate agency must—
+
+- (a) use aseptic techniques to maintain the sterility of the sample bottles; and
+- (b)[^key-a0f9104906eb1bb7695ea0e0794631ab] clearly identify every sample taken by marking the sample bottle and linking the bottle to its associated documentation.
+
+#### 5. Storage and transport of samples before analysis
+
+(1) Subject to paragraph 7, the appropriate agency must—
+
+- (a) at all times, protect every sample taken from exposure to light, and in particular, direct sunlight; and
+- (b) conserve every sample at a temperature of around 4 degrees Celsius between sampling and laboratory analysis.
+
+(2) In relation to any sample, if the interval between sampling and laboratory analysis is likely to exceed four hours, the appropriate agency must conserve the sample in a refrigerator.
+
+(3) The appropriate agency must ensure that the time between sampling and laboratory analysis does not exceed 24 hours and must use its best endeavours to keep this time as short as possible.
+
+#### 6. Reference methods of analysis
+
+(1) Subject to paragraph 7, the appropriate agency must use the following reference methods of analysis—
+
+- (a) for intestinal enterococci, one of the following standards of the International Organization for Standardization—
+  - (i) ISO 7899-1:1998 (water quality, detection and enumeration of intestinal enterococci, Part 1, miniaturized method, most probable number, for surface and waste water) as amended by Cor 1:2000, or
+  - (ii) ISO 7899-2:2000 (water quality, detection and enumeration of intestinal enterococci, Part 2, membrane filtration method); and
+- (b) for *Escherichia coli*, one of the following standards of the International Organization for Standardization—
+  - (i) ISO 9308-1:2000 (water quality, detection and enumeration of Escherichia coli and coliform bacteria, Part 1, membrane filtration method) as amended by Cor 1:2007, or
+  - (ii) ISO 9308-3:1998 (water quality, detection and enumeration of Escherichia coli and coliform bacteria, Part 3, miniaturized method, most probable number, for the detection and enumeration of E. coli in surface and waste water) as amended by Cor 1:2000.
+
+#### 7. General provisions in relation to rules or reference methods of analysis
+
+The appropriate agency—
+
+- (a) must have regard to the guidelines on the handling of samples for microbiological analyses given in Annex V to the Bathing Water Directive; and
+- (b) may use such rules or reference methods of analysis as it considers are substantively equivalent to those specified in this Schedule, where the appropriate agency has notified the appropriate Minister giving details of such rules and methods and their equivalence.
+
+### PART 2 — CYNOBACTERIA
+
+**8.** Where any bathing water profile indicates a potential for cyanobacterial proliferation, the appropriate agency must undertake appropriate monitoring at the bathing water at the frequency necessary to allow adequate management measures to be put in place in accordance with regulation 12.
+
+### PART 3 — MACRO-ALGAE AND MARINE PHYTOPLANKTON
+
+**9.** Where any bathing water profile indicates a tendency for proliferation of macro-algae or marine phytoplankton, the appropriate agency must undertake investigations at the bathing water to allow adequate management measures to be put in place in accordance with regulation 12.
+
+### PART 4 — WASTE
+
+**10.** The appropriate agency must undertake visual inspections at every bathing water at the frequency necessary to allow adequate management measures to be put in place in accordance with regulation 12.
+
+## SCHEDULE 5 — CLASSIFICATION
+
+Regulation 11
+
+### 1. Standards
+
+The appropriate agency must use the following standards for classification—
+
+Standards for inland waters
+
+<table>
+<tfoot>
+<tr><td colspan="4"><sup>1</sup> Colony forming units per 100 millilitres (“cfu/100 ml”).</td></tr>
+<tr><td colspan="4"><sup>2</sup> Based upon a 95-percentile evaluation-see paragraph 2.</td></tr>
+<tr><td colspan="4"><sup>3</sup> Based upon a 90-percentile evaluation-see paragraph 2.</td></tr>
+</tfoot>
+<tbody>
+<tr><th><em>Parameter</em></th><th><em>“Excellent”</em></th><th><em>“Good”</em></th><th><em>“Sufficient”</em></th></tr>
+<tr><td>Intestinal enterococci<sup>1</sup></td><td>200<sup>2</sup></td><td>400<sup>2</sup></td><td>330<sup>3</sup></td></tr>
+<tr><td><em>Escherichia coli</em><sup>(1)</sup></td><td>500<sup>2</sup></td><td>1,000<sup>2</sup></td><td>900<sup>3</sup></td></tr>
+</tbody>
+</table>
+
+Standards for coastal and transitional waters
+
+<table>
+<tfoot>
+<tr><td colspan="4"><sup>1</sup> Colony forming units per 100 millilitres (“cfu/100 ml”).</td></tr>
+<tr><td colspan="4"><sup>2</sup> Based upon a 95-percentile evaluation-see paragraph 2.</td></tr>
+<tr><td colspan="4"><sup>3</sup> Based upon a 90-percentile evaluation-see paragraph 2.</td></tr>
+</tfoot>
+<tbody>
+<tr><th><em>Parameter</em></th><th><em>“Excellent”</em></th><th><em>“Good”</em></th><th><em>“Sufficient”</em></th></tr>
+<tr><td>Intestinal enterococci<sup>1</sup></td><td>100<sup>2</sup></td><td>200<sup>2</sup></td><td>185<sup>3</sup></td></tr>
+<tr><td><em>Escherichia coli</em><sup>1</sup></td><td>250<sup>2</sup></td><td>500<sup>2</sup></td><td>500<sup>3</sup></td></tr>
+</tbody>
+</table>
+
+### 2. Methodology
+
+(1) In this Schedule, “percentile value” is based on a percentile evaluation of the log<sub>10</sub> normal probability density function of microbiological data used for the assessment under regulation 10.
+
+(2) The appropriate agency must derive a percentile value as follows—
+
+- (a) take the log<sub>10</sub> value of all bacterial concentrations in the data sequence to be evaluated or, if a zero value is obtained, take the log<sub>10</sub> value of the minimum detection limit of the analytical method used;
+- (b) calculate the arithmetic mean (“μ”) of the log<sub>10</sub> values taken under paragraph (a);
+- (c) calculate the standard deviation (“σ”) of the log<sub>10</sub> values taken under paragraph (a);
+- (d) derive the upper 90-percentile point of the data probability density function from the following equation: upper 90-percentile = antilog (μ + 1.282 σ); and
+- (e) derive the upper 95-percentile point of the data probability density function from the following equation: upper 95-percentile = antilog (µ + 1.645 σ)[^key-3c04778fdf8006f08550715049a49209].
+
+### 3. Classification
+
+(1) At the end of every bathing season, the appropriate agency must classify a bathing water as “poor” if, in the set of bathing water quality data used, the percentile values for microbiological concentrations are higher than the “sufficient” standards set out in paragraph 1.
+
+(2) At the end of every bathing season, the appropriate agency must classify a bathing water as “sufficient” if—
+
+- (a) in the set of bathing water quality data, the percentile values for microbiological concentrations are equal to or lower than the “sufficient” standards set out in paragraph 1; and
+- (b) the bathing water is not classifiable as “good” or “excellent”.
+
+(3) At the end of every bathing season, the appropriate agency must classify a bathing water as “good” if—
+
+- (a) in the set of bathing water quality data, the percentile values for microbiological concentrations are equal to or lower than the “good” standards set out in paragraph 1; and
+- (b) the bathing water is not classifiable as “excellent”.
+
+(4) At the end of every bathing season, the appropriate agency must classify a bathing water as “excellent” if, in the set of bathing water quality data used, the percentile values for microbiological concentrations are equal to or lower than the “excellent” standards set out in paragraph 1.
+
+*(This note is not part of the Regulations)*
+
+These Regulations revoke and replace the Bathing Water Regulations 2008 and implement, in England and Wales only, Directive [2006/7/EC](https://www.legislation.gov.uk/eudr/2006/7) of the European Parliament and of the Council concerning the management of bathing water quality and repealing Directive [76/160/EEC](https://www.legislation.gov.uk/eudr/1976/160) (OJ L64, 4.3.2006, p.37) (“**the Bathing Water Directive**”). The Bathing Water Directive is available from the Europa website:
+
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006L0007:EN:NOT.
+
+These Regulations also implement Commission Implementing Decision 2011/321/EU establishing, pursuant to Directive 2006/7, a symbol for information to the public on bathing water classification and any bathing prohibition or advice against bathing (OJ No L 143, 31.5.2011, p.38) (“**the Decision**”).
+
+Regulation 2(1) sets out various definitions including the definition of bathing waters which are defined as surface waters that are identified under regulation 3 and listed in Schedule 2, and at which no permanent advice against bathing is currently in force under regulation 13. Regulation 2(1) refers to the definitions in Schedule 1 which have the same meaning as in Directive 2006/60 EC of the European Parliament and of the Council establishing a framework for community action in the field of water policy.
+
+Regulation 3 provides for specified criteria which must be applied to the identification of such surface waters and other matters which must be given consideration. Regulation 3 also provides that the Secretary of State and the Welsh Ministers must also publish, annually, before the start of the bathing season, a list of all bathing waters within their respective areas, and a list of all surface waters at which permanent advice against bathing has been issued (and which are therefore no longer bathing waters). A copy of the English list (including a list of the names by which some bathing waters were formerly known) may be obtained from , or inspected on request in writing to the Department for Environment, Food and Rural Affairs, Bathing Waters Team, Area 3D Nobel House, 17 Smith Square, London SW19 3JR, by emailing bathingwater@defra.gsi.gov or by downloading from the Department's website at www.gov.uk/defra. A copy of the Welsh list may be obtained on request by writing to the Welsh Government, Water Branch, Cathays Park, Cardiff, CF10 3NQ, by emailing water@wales.gsi.gov.uk or by downloading from the Welsh Government's website at www.wales.gov.uk.
+
+Regulation 4 provides that the bathing season lasts from 15th May to 30th September each year.
+
+Regulation 5 provides for the classification of “sufficient” as the minimum standard to be achieved for all bathing waters by the end of the 2015 bathing season.
+
+Regulation 6 sets out duties in relation to public participation, imposed on the Secretary of State, the Welsh Ministers and ‘the appropriate agency’ (defined in regulation 2(1) as the Environment Agency in relation to surface waters in England, and the Natural Resources Body for Wales (known as ‘Natural Resources Wales’) in relation to surface waters in Wales) in order to secure compliance with the Bathing Water Directive.
+
+Under regulation 7, the appropriate agency must establish a bathing water profile for every bathing water. Copies of bathing water profiles in relation to English bathing waters are available from the Environment Agency, National Customer Contact Centre, PO Box 544, Rotherham S60 1BY, by emailing enquiries@environment-agency.gov.uk or from the Agency's website at www.environment-agency.gov.uk/contactus/default.aspx. Copies of bathing water profiles in relation to Welsh bathing waters are available from Natural Resources Wales, Strategic Water Quality and Planning, Ty Cambria, 29 Newport Road, Cardiff, CF24 0TP, by emailing enquiries@naturalresourceswales.gov.uk or from Natural Resources Wales' website at www.naturalresourceswales.gov.uk
+
+Under regulation 8 (and Schedule 4), the appropriate agency must establish a suitable monitoring programme for every bathing water.
+
+Regulation 9 provides for the dissemination of the specified information by local authorities and gives effect to signage requirements in the Decision. It also provides that the appropriate agency must disseminate the specified information using appropriate media and technologies.
+
+Under regulations 10 and 11, the appropriate agency must assess the bathing water quality data gathered under its monitoring programme and classify each bathing water as “poor”, “sufficient”, “good” or “excellent”. The meaning of each classification is set out in Schedule 5.
+
+Regulation 12 provides for the management measures which the appropriate agency, sewerage undertakers and local authorities must take in the event of certain pollution events occurring at a bathing water. It also imposes express obligations on the appropriate agency and local authorities to inform the public when such events occur.
+
+Regulation 13 requires the appropriate agency in specified circumstances to issue permanent advice against bathing at a bathing water. The regulation also provides for express obligations on the appropriate agency and local authorities for publicising the advice and the reasons for declassification of the former bathing water.
+
+Regulations 14 and 15 set out the obligations on the appropriate agency and local authorities to make specified information available to the public in relation to ‘short-term pollution’ (as defined in regulation 2(1)) at relevant bathing waters.
+
+Regulation 16 contains enforcement provisions and sets out the measures which the appropriate Minister may take against a local authority or private operator.
+
+Regulation 17 states that the appropriate Minister may give guidance to the appropriate agency or any local authority regarding the implementation of the Bathing Water Directive.
+
+Regulation 18 contains transitional provisions.
+
+Regulation 19 revokes the Bathing Water Regulations 2008 and amends with effect from 24th March 2015 certain legislation transposing Council Directive [76/160/EEC](https://www.legislation.gov.uk/eudr/1976/160) concerning the quality of bathing water (OJ No L31, 5.2.1976, p.1) which is repealed by the Bathing Water Directive.
+
+Regulation 20 requires the Secretary of State to review the operation and effect of these Regulations in England and publish a report within five years and within every five years after that. Following a review it will fall to the Secretary of State to consider, in relation to England, whether these Regulations should remain as they are, or be revoked or amended. A further instrument would be needed to revoke or amend these Regulations.
+
+A transposition note and full impact assessment of the effect that this instrument (including the impact assessment prepared in relation to the Bathing Water Regulations 2008) will have on the costs of business and the voluntary sector is available from the Department for Environment, Food and Rural Affairs, Bathing Waters Team, Area 3D Nobel House, 17 Smith Square, London SW19 3JR, by email to bathingwater@defra.gov.uk or from the Department's website at www.gov.uk/defra. These documents are also available from the Welsh Government, Water Branch, Cathays Park, Cardiff, CF10 3NQ, by email to water@wales.gsi.gov.uk or from the Welsh Government's website at www.wales.gov.uk.
+
+The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has been prepared as to the likely costs and benefits of complying with these Regulations. A copy can be obtained from the Welsh Government, Water Branch, Cathays Park, Cardiff, CF10 3NQ, by email to water@wales.gsi.gov.uk or from the Welsh Government's website at www.wales.gov.uk.
+
+## Annotations
+
+[^c21854861]: Marginal citation: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
+
+[^c21854871]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^c21854881]: Marginal citation: See [S.I. 2003/2901](https://www.legislation.gov.uk/uksi/2003/2901) for the designation conferred on the National Assembly for Wales. By virtue of sections 59 and 162 of, and paragraph 28 of Schedule 11 to, the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), that designation is now conferred on the Welsh Ministers.
+
+[^c21854891]: Marginal citation: The power of the Secretary of State to make regulations in relation to matters as regards Scotland is preserved by section 57(1) of the [Scotland Act 1988 (c. 46)](https://www.legislation.gov.uk/ukpga/1988/46).
+
+[^key-a84eb087c2aaa4f819aa04a8b04ef5dc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/2/1) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/3/a)
+
+[^key-30233769911de03c46b57dd6e332618e]: Textual amendment: Words in reg. 2(1) omitted (29.3.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/4/2)
+
+[^c21854901]: Marginal citation: OJ No L 64, 4.3.2006, p.37, as amended by Regulation (EC) No 596/2009 (OJ No L 188, 18.7.2009, p.14).
+
+[^c21854911]: Marginal citation: OJ No L 143, 31.5.2011, p.38.
+
+[^key-06b43846f40d9071623251570bdb93a5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/2/1) inserted (1.4.2026 for W., 15.5.2026 for E.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/3/b)
+
+[^key-c3d04b639a7888d4a2aa10077331171b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/2/1) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [3(c)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/3/c)
+
+[^c21854921]: Marginal citation: [2006 c.32](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^key-45b36ebe9808912bb72b2f5e3cbec368]: Textual amendment: Words in reg. 2(2) inserted (E.) (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2018/575/regulation/9) and (W.) (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [12](https://www.legislation.gov.uk/wsi/2018/1216/regulation/12)
+
+[^key-a1e1ae44c1ad91d39663fe31f5a8e7b4]: Textual amendment: Reg. 2(4) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-691a0f864e580b0c63ac60d42eca0ebb]: Textual amendment: Words in reg. 3(1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/526/regulation/4/3/a)
+
+[^key-088f510405a319398d29bc268f537b78]: Textual amendment: Words in reg. 3(2) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/526/regulation/4/3/b)
+
+[^key-f3694f4f2fd6c6f132e3f322c705f165]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/3/2A) inserted (1.4.2026 for W., 15.5.2026 for E.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/4/a)
+
+[^key-87c23f982f56fad1dcebbb89d833827f]: Textual amendment: [Reg. 3(4)(a)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/3/4/a) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/4/b)
+
+[^key-0cfa0d099f2e0b96f83d9be9e51ecb22]: Textual amendment: [Reg. 3(5)(a)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/3/5/a) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [4(c)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/4/c)
+
+[^key-502400acec1b45df043a1ac8c6382e83]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/3/6) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [4(d)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/4/d)
+
+[^key-46c6f7f18e1080adbd53c68f6305cc18]: Textual amendment: Words in reg. 3(7) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(3)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21854931]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
+
+[^key-46bb79a685d185e2366e911892955033]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1675/regulation/4) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2025/1129/regulation/5)
+
+[^key-864bc54de85516a095b4d10dccdd46c0]: Textual amendment: Word in reg. 5(1)(c) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(4)(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-204d008cb715de4dbbdf14dc02f07943]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/5/1/c) inserted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/1129/regulation/6)
+
+[^key-0fac142cf375226fcff4e7063caf28b3]: Textual amendment: Words in reg. 5(2) substituted (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/4/2) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+
+[^key-3be69794ce6b188353091bf19a14a7ef]: Textual amendment: Reg. 5(4)(5) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(4)(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4a0c069ece943c58513c9183638e634e]: Textual amendment: Word in reg. 5(5)(a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 29](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/29)
+
+[^key-641eac107946fab2e5d6462261bebc03]: Textual amendment: Words in reg. 7(3)(a) substituted (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/4/3) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+
+[^c21854951]: Marginal citation: [S.I. 2003/3245](https://www.legislation.gov.uk/uksi/2003/3245).
+
+[^c21854961]: Marginal citation: [S.I. 2004/99](https://www.legislation.gov.uk/uksi/2004/99). This instrument is amended by regulation 19(4) of these Regulations.
+
+[^key-cfcd1b8d0113e1dd2da1c26df8202405]: Textual amendment: [Reg. 13(1A)-(1C)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/13/1A) inserted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [7(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/7/a)
+
+[^key-b0c40177b0df733bc88bda4e465dbee5]: Textual amendment: [Reg. 13(2)(a)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/13/2/a) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [7(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/7/b)
+
+[^key-bee0dc9b6adb3ea74a44a3c8ded472f3]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/13/2/b) inserted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [7(c)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/7/c)
+
+[^key-09b65b81b81e78e9bfe78ecce670b332]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/13/4) omitted (21.11.2025 for E., 1.4.2026 for W.) by virtue of [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [7(d)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/7/d)
+
+[^key-fd544eafb811b13eb967d8f63555f864]: Textual amendment: Words in [reg. 14(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/14/2/a/iv) omitted (21.11.2025 for E., 1.4.2026 for W.) by virtue of [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [8(a)(i)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/8/a/i)
+
+[^key-b3dc721e8a715406a8fadcce6fa4a24d]: Textual amendment: Words in [reg. 14(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/14/2/a/iv) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/8/a/ii)
+
+[^key-d461f035b460307e25544e5a8a9b611a]: Textual amendment: [Reg. 14(4)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/14/4) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [8(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/8/b)
+
+[^key-3d794f21a13f383f9ce512b35d02974d]: Textual amendment: [Reg. 14(5)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/14/5) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [8(c)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/8/c)
+
+[^key-4759b1c021a11075a3e448f91f54645e]: Textual amendment: Reg. 15A inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(5)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-25ccd37ac3fc49f930a81854ece7cf75]: Textual amendment: [Reg. 15A(1)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/15A/1) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [9(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/9/a)
+
+[^key-7f9182f4fa233fff777f9214db3e06c5]: Textual amendment: [Reg. 15A(2)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/15A/2) omitted (21.11.2025 for E., 1.4.2026 for W.) by virtue of [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [9(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/9/b)
+
+[^c21854971]: Marginal citation: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25), as amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90); there are other amending instruments but none is relevant.
+
+[^c21854981]: Marginal citation: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57), as amended [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90).
+
+[^key-bbc25eaf83a418de6d50d61e8e7948e7]: Textual amendment: Words in [reg. 16(6)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/16/6) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(6)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7c91254aca741931b6c0c61b79efb6da]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2013/1675/regulation/17) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [15(7)](https://www.legislation.gov.uk/uksi/2019/558/regulation/15/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21854991]: Marginal citation: [S.I. 1991/1597](https://www.legislation.gov.uk/uksi/1991/1597), as amended by [S.I. 2008/1097](https://www.legislation.gov.uk/uksi/2008/1097). The Bathing Water (Classification) Regulations 1991 will be revoked by paragraph (2) of regulation 19 when that paragraph comes into force.
+
+[^c21855001]: Marginal citation: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57), as amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90).
+
+[^c21855011]: Marginal citation: Copies are available from the Department for Environment, Food and Rural Affairs, Bathing Waters Team, Area 3D Nobel House, 17 Smith Square, London SW1P 3JR. By virtue of section 2(1)(a)(ii) of the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), the National Rivers Authority's functions under or by virtue of [Part III of the Water Resources Act 1991 (c. 57)](https://www.legislation.gov.uk/ukpga/1991/57) in respect of the control of pollution of water resources in England and Wales were transferred to the Environment Agency. The National Rivers Authority (Bathing Waters) Directions 1992 (“the Direction”) deal with the exercise of functions under that Part. Section 55(3),(4)(d) and (6) of the Environment Act 1995 have the effect that the Direction applies as if given to the Environment Agency. In relation to Wales, the Environment Agency's functions under the relevant provisions of Part III of the Water Resources Act 1991 were subsequently transferred to the Natural Resources Body for Wales by virtue of article 4(1) of, and paragraphs 272 to 274 of Schedule 2 to, the Natural Resources Body for Wales (Functions) Order 2013 ([W.S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90)).  Article 10 of, and paragraphs 2(3) and (4) of Schedule 7 to, that Order have the effect that, in relation to Wales, the Direction applies as if given to the Natural Resources Body for Wales.
+
+[^c21855021]: Marginal citation: OJ No L 31, 5.2.1976, p.1, as last amended by Regulation (EC) No 1137/2008 of the European Parliament and of the Council (OJ No L 311, 21.11.2008, p.1).
+
+[^c21855031]: Marginal citation: [S.I. 2008/1097](https://www.legislation.gov.uk/uksi/2008/1097), as amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90).
+
+[^c21855041]: Marginal citation: [S.I. 2003/1238](https://www.legislation.gov.uk/uksi/2003/1238).
+
+[^c21855051]: Marginal citation: [S.I. 2003/3242](https://www.legislation.gov.uk/uksi/2003/3242), as amended by [S.I. 2007/3538](https://www.legislation.gov.uk/uksi/2007/3538), [2008/1097](https://www.legislation.gov.uk/uksi/2008/1097), [2010/675](https://www.legislation.gov.uk/uksi/2010/675), [2011/556](https://www.legislation.gov.uk/uksi/2011/556), [2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90).
+
+[^c21855061]: Marginal citation: [S.I. 2004/99](https://www.legislation.gov.uk/uksi/2004/99).
+
+[^key-9cb9782f75029d0873300cff8d00db18]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/1675/regulation/20) omitted (21.11.2025 for E., 1.4.2026 for W.) by virtue of [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2025/1129/regulation/10)
+
+[^c21855071]: Marginal citation: The relevant baseline, for the purposes of this definition and the definition of “inland water”, is that from which the breadth of the territorial sea is measured and is established by section 1 of the [Territorial Sea Act 1987 (c.49)](https://www.legislation.gov.uk/ukpga/1987/49) and the Territorial Waters Order in Council 1964 (1965 III, p.6452A).
+
+[^key-2bc7d26dfe4f182e7a819a2f98b5cf91]: Textual amendment: Sch. 2 omitted (29.3.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2019/526/regulation/4/4)
+
+[^key-b2f86903ba5483b882abe8e8cd12a93f]: Textual amendment: [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/uksi/2013/1675/schedule/4/paragraph/2/2) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [11(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/11/a)
+
+[^key-4c3dcf729168bdb42a3acab94c0c0ab4]: Textual amendment: [Sch. 4 para. 3(a)](https://www.legislation.gov.uk/uksi/2013/1675/schedule/4/paragraph/3/a) omitted (21.11.2025 for E., 1.4.2026 for W.) by virtue of [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [11(b)(i)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/11/b/i)
+
+[^key-c869b5415c46afb6bd2361607208f2ce]: Textual amendment: Words in [Sch. 4 para. 3(b)](https://www.legislation.gov.uk/uksi/2013/1675/schedule/4/paragraph/3/b) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/11/b/ii)
+
+[^key-a0f9104906eb1bb7695ea0e0794631ab]: Textual amendment: [Sch. 4 para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2013/1675/schedule/4/paragraph/4/2/b) substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3), [11(c)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/11/c)
+
+[^key-3c04778fdf8006f08550715049a49209]: Textual amendment: [Sch. 5 para. 2(2)(e)](https://www.legislation.gov.uk/uksi/2013/1675/schedule/5/paragraph/2/2/e): formula substituted (21.11.2025 for E., 1.4.2026 for W.) by [The Bathing Water (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/1129)](https://www.legislation.gov.uk/uksi/2025/1129), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/3), [12](https://www.legislation.gov.uk/uksi/2025/1129/regulation/12)

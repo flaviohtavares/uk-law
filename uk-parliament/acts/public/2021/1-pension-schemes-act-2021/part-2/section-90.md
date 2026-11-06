@@ -1,0 +1,54 @@
+---
+title: Pension Schemes Act 2021, section 90
+act: Pension Schemes Act 2021
+section: '90'
+status: revised
+text_date: '2026-07-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2021/1/section/90
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pension Schemes Act 2021, section 90
+
+> Text as at 2026-07-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 90. Implementation strategy[^c24481151][^key-c7d94488510e0ded6e6f0ca7220048a0]
+
+*Extent: N.I.*
+
+(1) If a triggering event occurs in relation to a collective money purchase scheme, the trustees must—
+
+- (a) produce a document setting out how the interests of members of the scheme are to be protected following the occurrence of the event (an “implementation strategy”), and
+- (b) submit it to the Pensions Regulator for approval before the end of a period specified in regulations made by the Department.
+
+This is subject to subsections (2)(a) and (3)(a).
+
+(2) If an item 1, 2 or 3 triggering event occurs within the triggering event period for an earlier triggering event—
+
+- (a) the trustees are not required to submit an implementation strategy in respect of the earlier triggering event;
+- (b) any implementation strategy approved by the Pensions Regulator in respect of the earlier triggering event ceases to have effect when the later triggering event occurs.
+
+(3) In the case of an item 1 or 2 triggering event—
+
+- (a) the trustees are required to submit an implementation strategy only if the decision to withdraw authorisation has become final (see section 86);
+- (b) if it becomes clear that authorisation is not to be withdrawn, subsection (2) ceases to have effect on the date on which that becomes clear.
+
+Subsections (3) to (5) of section 83 apply for the purposes of paragraph (b) above as they apply for the purposes of subsection (2)(c) of that section.
+
+(4) The Pensions Regulator may direct the trustees to comply with a requirement imposed by this section.
+
+(5) Article 10 of the Pensions (Northern Ireland) Order 1995 (civil penalties) applies to a person who fails to comply with a direction under subsection (4).
+
+(6) This section overrides any provision of the collective money purchase scheme, to the extent that there is a conflict.
+
+(7) Regulations under subsection (1)(b) are subject to negative resolution.
+
+## Annotations
+
+[^c24481151]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2021/1/section/90) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
+
+[^key-c7d94488510e0ded6e6f0ca7220048a0]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2021/1/section/90) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

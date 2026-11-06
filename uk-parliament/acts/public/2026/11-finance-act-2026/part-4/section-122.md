@@ -1,0 +1,39 @@
+---
+title: Finance Act 2026, section 122
+act: Finance Act 2026
+section: '122'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/122
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2026, section 122
+
+> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 122. Approved stamp holders
+
+*Extent: E+W+S+N.I.*
+
+(1) A duty stamp may not be issued to a person who is not approved under this section.
+
+(2) The Commissioners may approve a person if they are satisfied that the person—
+
+- (a) has a fixed place of business in the United Kingdom, and
+- (b) meets such other requirements as may be specified in regulations under section 45 of TCTA 2018.
+
+(3) An approved stamp holder may not transfer a duty stamp to any person before it has been affixed to, and activated in respect of, a vaping product (in which case it may be transferred as part of the vaping product).
+
+(4) Subsection (3) does not prevent the return of stamps to a stamp issuer.
+
+(5) The Commissioners may by regulations make provision—
+
+- (a) about what it means to have a fixed place of business in the United Kingdom;
+- (b) for exceptions to subsection (3);
+- (c) limiting the number of duty stamps that may be issued to (or, in the case of an overseas person, in respect of) a person within a specified period;
+- (d) permitting or requiring duty stamps to be voided, destroyed or returned in certain circumstances, including on the expiry of a specified period.

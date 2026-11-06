@@ -1,0 +1,338 @@
+---
+title: The Pharmacy (Preparation and Dispensing Errors – Hospital and Other Pharmacy Services) Order 2022
+id: uksi/2022/851
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-07-19'
+text_date: '2022-12-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2022/851
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/851/pdfs/uksiem_20220851_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/851/pdfs/uksi_20220851_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/851/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pharmacy (Preparation and Dispensing Errors – Hospital and Other Pharmacy Services) Order 2022
+
+> Text as at 2022-12-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2022 No. 851
+
+Medicines
+
+Health Care And Associated Professions
+
+The Pharmacy (Preparation and Dispensing Errors – Hospital and Other Pharmacy Services) Order 2022
+
+Made
+
+19th July 2022
+
+Coming into force in accordance with article 1
+
+At the Court at Windsor Castle, the 19th day of July 2022
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+This Order in Council is made in exercise of the powers conferred by sections 60(1)(a), (2)(aa) and (2A) and 62(4) and (4A) of, and paragraphs 1(e), 2, 3 and 6 of Schedule 3 to, the Health Act 1999[^f00001].
+
+The Secretary of State published a draft of this Order in Council and invited representations as required by paragraph 9(1) of Schedule 3 to the Health Act 1999.
+
+The period of three months mentioned in paragraph 9(2) of that Schedule expired before a draft of this Order in Council, together with a report about the consultation, was laid before Parliament.
+
+A draft of this Order in Council has been approved by resolution of each House of Parliament in accordance with section 62(9) of the Health Act 1999.
+
+Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council, to make the following Order in Council:
+
+## PART 1 — General provisions
+
+### 1. Citation, commencement and interpretation[^key-aa5145c52e8f0e9d4afb331ad7e422c2]
+
+(1) This Order may be cited as the Pharmacy (Preparation and Dispensing Errors – Hospital and Other Pharmacy Services) Order 2022.
+
+(2) This Part comes into force on the twenty-eighth day after the day on which this Order is made.
+
+(3) Parts 2 and 3 come into force on such days as the Privy Council may by order appoint.
+
+(4) Different days may be appointed under paragraph (3) for different purposes.
+
+(5) In this Order, “**the 1968 Act**” means the Medicines Act 1968[^f00002].
+
+### 2. Extent[^key-f214750ef4a0f4e6739e5410168fe38f]
+
+(1) Subject to paragraphs (2) and (3), this Order extends to England, Wales, Scotland and Northern Ireland.
+
+(2) Article 10(1) extends to England, Wales and Scotland only.
+
+(3) Article 10(2) extends to Northern Ireland only.
+
+### 3. Transitional and saving provisions[^key-f781e490662a14e597b6bc9beccd6444]
+
+(1) In connection with the commencement of any provision of Part 2 or 3, the Privy Council may by order make such transitional or saving provisions as it considers appropriate.
+
+(2) The power to make an order under paragraph (1) may be exercised—
+
+- (a) so as to make different provision—
+  - (i) for different areas,
+  - (ii) with respect to different cases or different classes of cases, and
+  - (iii) in respect of the same case or class of case for different purposes;
+- (b) in relation to all cases to which the power extends or in relation to those cases subject to specified exceptions; and
+- (c) so as to make any supplementary, incidental or consequential provisions which the Privy Council considers necessary or expedient.
+
+### 4. Privy Council procedures and legislative procedures[^key-a767b22a43e1a805e608bbdd055e9616]
+
+(1) Any power vested in the Privy Council to make an order under this Part may be exercised by any two or more members of the Privy Council.
+
+(2) Any power of the Privy Council to make an order under this Part is exercisable by statutory instrument, and for the purposes of section 1 of the Statutory Instruments Act 1946[^f00003] (definition of “Statutory Instrument”), any power of the Privy Council to make an order under this Part is to be taken to be conferred by an Act of Parliament.
+
+(3) An order made (wholly or partly) under article 3(1) is subject to annulment by resolution of either House of Parliament.
+
+(4) Before making an order under article 1(3) that commences an amendment of the 1968 Act as it applies in Northern Ireland, or article 10(2), the Privy Council must obtain the agreement of the Department of Health in Northern Ireland to the making of the order.
+
+(5) Any act of the Privy Council under this Part is sufficiently signified by an instrument signed by the Clerk of the Privy Council.
+
+(6) Where an order of the Privy Council under this Part is signified by an instrument purporting to be signed by the Clerk of the Privy Council, that is evidence and in Scotland sufficient evidence of—
+
+- (a) the fact that the order was duly made; and
+- (b) the order’s terms.
+
+## PART 2 — Amendment of the Medicines Act 1968
+
+### 5. Amendment of section 67A of the 1968 Act[^key-4b9f7edc22cc76bd2978b7df92a31d62][^key-6b7feb0b053ce77b31d6f594c4fea1ef]
+
+(1) Section 67A of the 1968 Act[^f00004] (defence to offence of contravening section 63(a) or (b): product not sold or supplied) is amended as follows.
+
+(2) In subsection (2), for paragraph (a) substitute—
+
+> - (a) the adulteration took place—
+>   - (i) at a registered pharmacy, or
+>   - (ii) in the course of the provision of a relevant pharmacy service;
+
+.
+
+(3) In subsection (3), for paragraph (a) substitute—
+
+> - (a) the adulteration took place—
+>   - (i) at a registered pharmacy, or
+>   - (ii) in the course of the provision of a relevant pharmacy service;
+
+.
+
+### 6. Amendment of section 67B of the 1968 Act[^key-6ab07e6a1975057f40efe9d0545e92aa][^key-6e420ad4136312a837801d7480023d43]
+
+(1) Section 67B of the 1968 Act[^f00005] (defence to offence of contravening section 63(a) or (b): product sold or supplied) is amended as follows.
+
+(2) In subsection (2), for paragraph (a) substitute—
+
+> - (a) the adulteration took place—
+>   - (i) at a registered pharmacy, or
+>   - (ii) in the course of the provision of a relevant pharmacy service;
+
+.
+
+(3) In subsection (4), in paragraph (c), after “retail pharmacy business” insert “, or the relevant pharmacy service,”.
+
+(4) In subsection (6), in paragraph (b), after “retail pharmacy business” insert “, or the relevant pharmacy service,”.
+
+### 7. Amendment of section 67C of the 1968 Act[^key-b5ca6d71b50d5e91bd70c5feb54e9e67][^key-741ebcb6389fee41861bfcd9ddf30395]
+
+(1) Section 67C of the 1968 Act[^f00006] (defence to offence of contravening section 64) is amended as follows.
+
+(2) In subsection (2), for paragraph (a) substitute—
+
+> - (a) the product was dispensed—
+>   - (i) at or from a registered pharmacy, or
+>   - (ii) in the course of the provision of a relevant pharmacy service;
+
+.
+
+(3) In subsection (4), in paragraph (c), after “retail pharmacy business” insert “, or the relevant pharmacy service,”.
+
+(4) In subsection (6), in paragraph (b), after “retail pharmacy business” insert “, or the relevant pharmacy service,”.
+
+### 8. Amendment of section 67D of the 1968 Act[^key-66246772492303c2870233a0d139e0d1][^key-c422769806e4d2f112fa68d87070a98d]
+
+In section 67D of the 1968 Act[^f00007] (defences under sections 67A, 67B and 67C: evidence etc) in subsection (4), after “pharmacy” insert “or a relevant pharmacy service”.
+
+### 9. New section 67F of the 1968 Act[^key-953557a3399dc035e74f049b4270296e][^key-db705c9d78c886a203d0c6e498d3038a]
+
+(1) After section 67E of the 1968 Act[^f00008] (sections 67A to 67D: interpretation) insert—
+
+> **67F. Sections 67A to 67D: “relevant pharmacy service”**
+>
+> (1) For the purposes of sections 67A to 67D a pharmacy service is a relevant pharmacy service if conditions A and B are met in respect of it.
+>
+> (2) Condition A is met in respect of a pharmacy service if—
+>
+> - (a) the service is provided in England by a person in the course of carrying on a regulated activity in respect of which the person is registered under Chapter 2 of Part 1 of the Health and Social Care Act 2008[^f00009];
+> - (b) the service is provided in Wales—
+>   - (i) in the course of the business of a hospital,
+>   - (ii) in a prison or youth detention accommodation within the meaning of sections 185 to 187 of the Social Services and Well-being (Wales) Act 2014 (anaw 4) (see section 188 of that Act[^f00010]),
+>   - (iii) in a removal centre, short-term holding facility or pre-departure accommodation within the meaning of Part 8 of the Immigration and Asylum Act 1999[^f00011] (see section 147 of that Act[^f00012]),
+>   - (iv) by a person in the course of carrying on or managing an establishment in respect of which the person is registered under Part 2 of the Care Standards Act 2000[^f00013], or
+>   - (v) by a person in the course of providing a regulated service in respect of which the person is registered under Chapter 2 of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2);
+> - (c) the service is provided in Scotland—
+>   - (i) in the course of the business of a hospital,
+>   - (ii) in a prison within the meaning of section 49C of the Criminal Law (Consolidation) (Scotland) Act 1995[^f00014] (see subsection (7) of that section),
+>   - (iii) in a removal centre, short-term holding facility or pre-departure accommodation within the meaning of Part 8 of the Immigration and Asylum Act 1999 (see section 147 of that Act),
+>   - (iv) by a person in the course of providing an independent health care service which is registered under section 10P of the National Health Service (Scotland) Act 1978[^f00015], or
+>   - (v) by a person in the course of carrying on a care service which is registered under Chapter 3 of Part 5 of the Public Services Reform (Scotland) Act [2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8); or
+> - (d) the service is provided in Northern Ireland—
+>   - (i) in the course of the business of a hospital,
+>   - (ii) in a prison or other institution for the treatment of offenders, including a place mentioned in section 2 of the Treatment of Offenders Act (Northern Ireland) 1968[^f00016] (c. 29 (N.I.)) and a juvenile justice centre within the meaning of the Criminal Justice (Children) (Northern Ireland) Order 1998 ([S.I. 1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504)) (see Article 51(1) of that Order),
+>   - (iii) in a removal centre, short-term holding facility or pre-departure accommodation within the meaning of Part 8 of the Immigration and Asylum Act 1999 (see section 147 of that Act), or
+>   - (iv) by a person in the course of carrying on or managing an establishment in respect of which the person is registered under Part 3 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 ([S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/uksi/2003/431)).
+>
+> (3) Condition B is met in respect of a pharmacy service if it has a chief pharmacist.
+>
+> (4) A chief pharmacist, in relation to a pharmacy service, is a pharmacist who—
+>
+> - (a) plays a significant role (irrespective of whether other individuals also do so) in—
+>   - (i) the making of decisions about how the whole or a substantial part of the activities of the pharmacy service are to be managed or organised, or
+>   - (ii) the actual managing or organising of the whole or a substantial part of those activities,
+> - (b) has the authority to make decisions that affect the running of the pharmacy service so far as concerns the sale or supply of medicinal products, and
+> - (c) is responsible for securing that the pharmacy service is carried on safely and effectively.
+>
+> (5) For the purposes of subsection (4)(c) a pharmacy service is carried on safely and effectively if it is carried on in ways that ensure its safe and effective running so far as concerns the sale or supply of medicinal products.
+
+.
+
+(2) In consequence of paragraph (1), in section 67E of the 1968 Act (interpretation of sections 67A to 67D), in the heading, for “interpretation” substitute ““adulteration” and “registrant””.
+
+## PART 3 — Amendment of the Pharmacy Order 2010 and the Pharmacy (Northern Ireland) Order 1976
+
+### 10. Standards of conduct, ethics and performance[^key-285afc4679708b781fd9b848b4791239][^key-d6f035bf9efab9c4bf3f6a90ae6d5a59]
+
+*Extent: E+W+S*
+
+(1) In article 48 of the Pharmacy Order 2010[^f00017] (standards of conduct and performance)—
+
+- (a) in paragraph (1A), before sub-paragraph (a) insert—
+
+  > - (za) chief pharmacists for the purposes of section 67F of the Medicines Act 1968[^f00018],
+
+  ; and
+- (b) in paragraph (1B), after “responsibilities of” insert “chief pharmacists,”.
+
+(2) In paragraph 1 of Schedule 3 to the Pharmacy (Northern Ireland) Order 1976[^f00019] (standards of conduct and performance)—
+
+- (a) in sub-paragraph (1A), before paragraph (a) insert—
+
+  > - (za) chief pharmacists for the purposes of section 67F of the Medicines Act 1968,
+
+  ; and
+- (b) in sub-paragraph (1B), after “responsibilities of” insert “chief pharmacists,”.
+
+Richard Tilbrook
+
+Clerk of the Privy Council
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision relating to preparation errors and dispensing errors by registered pharmacists and registered pharmacy technicians, or persons supervised by them, in the course of the provision of certain pharmacy services. Pharmacy technicians are not statutorily registered in Northern Ireland, and so, as regards Northern Ireland, this Order only makes provision relating to preparation errors and dispensing errors by registered pharmacists and persons supervised by them.
+
+Part 1 contains general provisions, including powers to make commencement orders and transitional provisions orders – and the procedural requirements relating to them.
+
+Part 2 contains amendments to the Medicines Act 1968 (“**the 1968 Act**”) which modify the defences to offences of contravening sections 63 and 64 of the 1968 Act that were inserted by the Pharmacy (Preparation and Dispensing Errors – Registered Pharmacies) Order 2018[^f00020] (“**the 2018 Order**”). The 2018 Order inserted defences that were only available in respect of preparation or dispensing errors in respect of medicinal products for human use prepared or dispensed at registered pharmacies, which generally are retail pharmacy premises. In summary, these defences are modified so that they are now also available in respect of medicinal products for human use prepared or dispensed in certain other settings.
+
+The offences of contravening section 63 of the 1968 Act relate to adulteration of medicinal products for human use. If the product is not sold or supplied, in order to benefit from the defence in section 67A of the 1968 Act in relation to contravening section 63, the defendant is already required to show firstly that the person who adulterated the product was either a registered pharmacist or a registered pharmacy technician who was acting in the course of his or her profession, or was someone acting under the supervision of such a registrant – and secondly that he or she did not know that the product was being or had been adulterated. The third element of the defence, that the adulteration must have taken place at a registered pharmacy, has been broadened (article 5) so that it is now also available if the adulteration took place in the course of the provision of a relevant pharmacy service.
+
+What is meant by a “relevant pharmacy service” is set out in section 67F of the 1968 Act (article 9). Pharmacy services are “relevant pharmacy services” if two conditions are met. Firstly, the pharmacy service has to be the pharmacy service for a facility where certain regulated activities are carried on – hospitals, care homes, places where people are lawfully detained (such as prisons and pre-departure accommodation for people facing deportation) and other similar facilities. Secondly, the pharmacy service must have a chief pharmacist. Some of the requirements of the role of the chief pharmacist are specified, but amendments are also made, in Part 3, to the Pharmacy Order 2010 and the Pharmacy (Northern Ireland) Order 1976 to give the General Pharmaceutical Council and the Pharmaceutical Society of Northern Ireland additional powers in relation to describing chief pharmacists’ responsibilities and setting standards of conduct and performance in relation to them (article 10).
+
+Essentially, the approach taken to modification of the defence in section 67A of the 1968 Act is also applied in relation to the other defences in respect of errors inserted into the 1968 Act by the 2018 Order. If an adulterated product is sold or supplied, the defence in relation to contravening section 63 that was inserted by the 2018 Order is in section 67B of the 1968 Act. As was the case in relation to section 67A, the section 67B defence, as originally inserted, was only available if the adulteration by or under the supervision of a registered pharmacist or pharmacy technician took place at a registered pharmacy. However, section 67B has been modified so that the defence is also available if the adulteration takes place in the course of the provision of a relevant pharmacy service (article 6).
+
+In cases where the product is sold or supplied, in order to benefit from the section 67B defence, the defendant must also show that the product is a dispensed medicinal product and that if an appropriate person (such as the dispenser) becomes aware of the error, all reasonable steps are taken to ensure that the patient is notified of the error, unless the appropriate person forms the view that it is neither necessary nor appropriate to do so. These conditions, which were in the defence as originally inserted, also apply in the new circumstances in which the defence now applies.
+
+The offence of contravening section 64 of the 1968 Act relates to the sale, or supply in pursuance of a prescription, of medicinal products for human use which are not of the nature or quality demanded by the purchaser or as specified in a prescription. The defence in relation to contravening section 64 in section 67C of the 1968 Act, which functions along similar lines to the defence in relation to contravening section 63 that is in section 67B of the 1968 Act, has been modified in a similar way. Previously the section 67C defence was only available if the medicinal product was dispensed at a registered pharmacy, but it has been modified so that it is also available if the medicinal product was dispensed from a registered pharmacy or in the course of the provision of a relevant pharmacy service (article 7).
+
+A consequential amendment is also made to a rule of evidence relating to standard operating procedures (article 8).
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8). Section 60 has been amended by: the National Health Service Reform and Health Care Professions Act [2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17) (“**the 2002 Act**”), section 26(9); the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14) (“**the 2008 Act**”), Schedule 8, paragraph 1, Schedule 10, paragraph 10, and Schedule 15, Part 2; the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“**the 2012 Act**”), sections 209, 210 and 213(7)(i), and Schedule 15, paragraphs 60 and 72; the Children and Social Work Act [2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16) (“**the 2017 Act**”), section 61, and Schedule 5, paragraph 47(h); and [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253) and 254, 2010/231 and 2012/1916. Section 62 has been amended by: the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), section 48; the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43) (“**the 2003 Act**”), Schedule 14, Part 2; the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), Schedule 4; and the 2008 Act, Schedule 8, paragraph 2, and Schedule 10, paragraph 11. Schedule 3 has been amended by: the 2002 Act, sections 26(10) and 35; the 2003 Act, Schedule 11, paragraph 67, and Schedule 14, Part 4; the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), section 33 and Schedule 9; the 2008 Act, Schedule 8, paragraphs 3 to 10, and Schedule 15, Part 2; the 2012 Act, section 211 and Schedule 15, paragraphs 61 and 72(4); the 2017 Act, section 61(1) and (4); and [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253) and 254. See the definition of “the relevant regulatory body” in section 60(2B) of the Health Act 1999, inserted by the 2008 Act, Schedule 8, paragraph 1, which is relevant to the powers being exercised.
+
+[^key-aa5145c52e8f0e9d4afb331ad7e422c2]: Commencement: Art. 1 in force at 16.8.2022 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/851/article/1/2)
+
+[^f00002]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
+
+[^key-f214750ef4a0f4e6739e5410168fe38f]: Commencement: Art. 2 in force at 16.8.2022 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/851/article/1/2)
+
+[^key-f781e490662a14e597b6bc9beccd6444]: Commencement: Art. 3 in force at 16.8.2022 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/851/article/1/2)
+
+[^key-a767b22a43e1a805e608bbdd055e9616]: Commencement: Art. 4 in force at 16.8.2022 in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/851/article/1/2)
+
+[^f00003]: Footnote: [1946 c. 36](https://www.legislation.gov.uk/ukpga/1946/36). Section 1 was amended by the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), Schedule 12, paragraph 2, and the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), Schedule 10, paragraphs 1 and 2.
+
+[^key-4b9f7edc22cc76bd2978b7df92a31d62]: Commencement: Art. 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3)
+
+[^key-6b7feb0b053ce77b31d6f594c4fea1ef]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2022/851/article/5) in force at 1.12.2022 by [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
+
+[^f00004]: Footnote: Section 67A was inserted by [S.I. 2018/181](https://www.legislation.gov.uk/uksi/2018/181).
+
+[^key-6ab07e6a1975057f40efe9d0545e92aa]: Commencement: Art. 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3)
+
+[^key-6e420ad4136312a837801d7480023d43]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2022/851/article/6) in force at 1.12.2022 by [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
+
+[^f00005]: Footnote: Section 67B was inserted by [S.I. 2018/181](https://www.legislation.gov.uk/uksi/2018/181).
+
+[^key-b5ca6d71b50d5e91bd70c5feb54e9e67]: Commencement: Art. 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3)
+
+[^key-741ebcb6389fee41861bfcd9ddf30395]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2022/851/article/7) in force at 1.12.2022 by [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
+
+[^f00006]: Footnote: Section 67C was inserted by [S.I. 2018/181](https://www.legislation.gov.uk/uksi/2018/181).
+
+[^key-66246772492303c2870233a0d139e0d1]: Commencement: Art. 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3)
+
+[^key-c422769806e4d2f112fa68d87070a98d]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2022/851/article/8) in force at 1.12.2022 by [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
+
+[^f00007]: Footnote: Section 67D was inserted by [S.I. 2018/181](https://www.legislation.gov.uk/uksi/2018/181).
+
+[^key-953557a3399dc035e74f049b4270296e]: Commencement: Art. 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3)
+
+[^key-db705c9d78c886a203d0c6e498d3038a]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2022/851/article/9) in force at 1.12.2022 by [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
+
+[^f00008]: Footnote: Section 67E was inserted by [S.I. 2018/181](https://www.legislation.gov.uk/uksi/2018/181) and amended by [S.I. 2019/593](https://www.legislation.gov.uk/uksi/2019/593).
+
+[^f00009]: Footnote: [2008 c. 14](https://www.legislation.gov.uk/ukpga/2008/14).
+
+[^f00010]: Footnote: Section 188 has been amended by: the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), Schedule 9, paragraph 32; the Regulation and Inspection of Social Care (Wales) Act [2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), Schedule 3, Part 1; and the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), Schedule 24, paragraph 32.
+
+[^f00011]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^f00012]: Footnote: Section 147 has been amended by: the Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), sections 62(14) and 66(1) to (3)(a), and Schedule 9; the Borders, Citizenship and Immigration Act [2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), section 25; and the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), section 6(1) and (2).
+
+[^f00013]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14).
+
+[^f00014]: Footnote: [1995 c. 39](https://www.legislation.gov.uk/ukpga/1995/39). Section 49C was inserted by the Custodial Sentences and Weapons (Scotland) Act [2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17), section 63, and amended by the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), section 37(1) and (5), and the Criminal Justice (Scotland) Act [2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), section 84(1) and (5).
+
+[^f00015]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29). Section 10P was inserted by the Public Services Reform (Scotland) Act [2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), section 108.
+
+[^f00016]: Footnote: Section 2 has been amended by [S.I. 1989/1344 (N.I. 15)](https://www.legislation.gov.uk/nisi/1989/1344), 1998/1504 (N.I. 9) and 2005/1965 (N.I. 15).
+
+[^key-285afc4679708b781fd9b848b4791239]: Commencement: Art. 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/851/article/1/3)
+
+[^key-d6f035bf9efab9c4bf3f6a90ae6d5a59]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2022/851/article/10) in force at 1.12.2022 by [S.I. 2022/1024](https://www.legislation.gov.uk/uksi/2022/1024), [art. 2](https://www.legislation.gov.uk/uksi/2022/1024/article/2)
+
+[^f00017]: Footnote: [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^f00018]: Footnote: Inserted by article 9 of this Order.
+
+[^f00019]: Footnote: [S.I. 1976/1213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1976/1213). Schedule 3 was substituted by the Pharmacy (1976 Order) (Amendment) Order (Northern Ireland) 2012 ([S.R. 2012/308](https://www.legislation.gov.uk/nisr/2012/308)) and has been amended by the Data Protection Act [2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), Schedule 19, paragraph 17, and by [S.I. 2015/806](https://www.legislation.gov.uk/uksi/2015/806).
+
+[^f00020]: Footnote: [S.I. 2018/181](https://www.legislation.gov.uk/uksi/2018/181).

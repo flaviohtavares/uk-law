@@ -1,0 +1,416 @@
+---
+title: The Enterprise Act 2002 (Merger Fees and Determination of Turnover) Order 2003
+id: uksi/2003/1370
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-05-23'
+text_date: '2023-12-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2003/1370
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/1370/pdfs/uksi_20031370_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/1370/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Enterprise Act 2002 (Merger Fees and Determination of Turnover) Order 2003
+
+> Text as at 2023-12-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2003 No. 1370
+
+COMPETITION
+
+The Enterprise Act 2002 (Merger Fees and Determination of Turnover) Order 2003
+
+Made
+
+23rd May 2003
+
+Laid before Parliament
+
+27th May 2003
+
+Coming into force
+
+20th June 2003
+
+The Secretary of State in exercise of the powers conferred on her by sections 28, 121 and 124(2) of the Enterprise Act 2002[^f00001], hereby makes the following Order:
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement[^key-222308c16828921b0f14ee729c22fd87]
+
+This Order may be cited as the Enterprise Act 2002 (Merger Fees and Determination of Turnover) Order 2003 and shall come into force on 20th June 2003.
+
+### 2. Interpretation[^key-5420e6def19771e333d21d6a150bca83]
+
+In this Order—
+
+- (a) “the Act” means the Enterprise Act 2002;
+- (b) “applicable turnover” means the turnover of an enterprise in the preceding business year, or in a case to which article 11(4) applies, in the period referred to in that article, determined in accordance with the Schedule to this Order; and where a business year or a period under article 11(4) does not equal 12 months the applicable turnover shall be the amount which bears the same proportion to the applicable turnover during that business year as 12 months does to that period;
+- (c) “business year” means a period of more than six months in respect of which an enterprise or, if applicable, the business of which it forms part, prepares or is required to prepare accounts; [^key-2c39c5a6a65d1d0169d3a9ae5ef6d41b]...
+- (d)[^key-578b519c10f08222336e15cfdef17a8d] “merger reference” means a reference by the CMA to its chair under section 22, 33, 68B or 68C[^key-1989253ea1fecc2e9521b6e3be62edb2] of the Act or section 32 of the Water Industry Act 1991, or a reference by the Secretary of State to the chair of the CMA under section 45 of the Act; and
+- (e)[^key-3813ebfb795492eaf2914f25418cc9a5] “water enterprise” means an enterprise carried on by a water undertaker or sewerage undertaker.
+
+## PART 2 — MERGER FEES
+
+### 3. Matters in respect of which fees are payable[^key-9a192d868a54948173f3423cf4d2fad7]
+
+A fee of the amount specified in Article 5 shall be payable in respect of—
+
+- (a)[^key-4552b57758ac785e0a467589e895cfbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) subject to article 4(1) and (2), the decision by the CMA[^key-797b0e12c6ddf3364a49e8aa1c87c7e8] in relation to a possible reference under section 22, 33, 68B or 68C[^key-f8df0de42b369907c65dd30a63f1f8de] of the Act that it is or may be the case that a relevant merger situation has been created or (as the case may be) that arrangements are in progress or in contemplation which, if carried into effect, will result in the creation of a relevant merger situation;
+- (c) subject to article 4(1), the decision by the Secretary of State in relation to a possible reference under section 45 of the Act that it is or may be the case that a relevant merger situation has been created or (as the case may be) that arrangements are in progress or in contemplation which, if carried into effect, will result in the creation of a relevant merger situation;
+- (d)[^key-4ca95d234e098b28a101ca5938484dc9] subject to article 4(3) and (4), the decision by the CMA in relation to a possible merger reference under section 32(a) or (b) of the Water Industry Act 1991 that it is or may be the case—
+  - (i) that arrangements are in progress which, if carried into effect, will result in a merger of any two or more water enterprises; or
+  - (ii) that such a merger has taken place otherwise than as a result of the carrying into effect of arrangements that have been the subject of a reference by virtue of sub-paragraph (i) above.
+
+### 4. Circumstances in which certain fees are not payable[^key-03f1e59f840ee436d0a81700e1f302c6]
+
+(1)[^key-11ccffa97199fee1ce3775f43a30ae29] Except where the decision in respect of which a fee is payable under article 3(b) or (c) is made in relation to arrangements or proposed arrangements of which the CMA was given notice under section 96 of the Act, a fee shall not be payable under article 3(b) or (c) where the creation or possible creation of the relevant merger situation depends or would depend on the operation of section 26(3) or (4)(b) of the Act.
+
+(2) A fee shall not be payable under article 3(b) in relation to arrangements that are in progress or in contemplation which, if carried into effect, will result in the creation of a relevant merger situation, where the CMA decides pursuant to section 33(2)(b)[^key-4e73bbe299797b81c1bcca6411e5899b] or 68C(2)(a)[^key-002935f86d63e009231c31bb86acc831] of the Act that the arrangements concerned are not sufficiently far advanced, or are not sufficiently likely to proceed, to justify the making of a merger reference.
+
+(3)[^key-fb45774ae39703652d9001437f3c4bca] A fee shall not be payable under article 3(d)—
+
+- (a) where the merger or prospective merger of two or more water enterprises depends or would depend on the operation of section 26(3) or (4)(b) of the Act; or
+- (b) in relation to arrangements of a kind specified in paragraph (4), where the CMA decides pursuant to section 33A(1)(a) of the Water Industry Act 1991 that they are not sufficiently far advanced, or are not sufficiently likely to proceed, to justify the making of a merger reference.
+
+(4) The arrangements are those in progress or in contemplation which, if carried into effect, will result in a merger of any two or more water enterprises.
+
+### 5. Amount of fees[^key-2ff50087c02048cf4cc6eb9aa0ed4b92]
+
+(1) The amount of the fee payable under article 3(b) or (c)[^key-90bc8f0afe5929d55c64b4f6a9a03ccb] shall be—
+
+- (a) where the value of the turnover in the United Kingdom of the enterprise which has been taken over or (as the case may be) which it is proposed or contemplated should be taken over, does not exceed £20 million, £40,000[^key-da8dfa1256fba18e48f2bd92367a2d71];
+- (b) where the value of such turnover exceeds £20 million but does not exceed £70 million, £80,000[^key-a4e337ffdbebd200f7e14832420f08b3];
+- (c) where the value of such turnover exceeds £70 million but does not exceed £120 million, £120,000;[^key-41e3c1d328c7b45df2626b38da109546]
+- (d)[^key-5c3129959a1263b0b4764e36086ac2df] where the value of such turnover exceeds £120 million, £160,000.
+
+(2) For the purposes of paragraph (1)[^key-9f543d45837ad9acd76291742e2fc127] the value of the turnover in the United Kingdom of the enterprise which has been taken over or (as the case may be) which it is proposed or contemplated should be taken over, shall be determined by taking the total value of the turnover in the United Kingdom of the enterprises which cease to be distinct enterprises and deducting—
+
+- (a) the turnover in the United Kingdom of any enterprise which continues to be carried on under the same ownership and control; or
+- (b) if no enterprise continues to be carried on under the same ownership and control, the turnover in the United Kingdom which, of all the turnovers concerned, is the turnover of the highest value.
+
+(3) For the purposes of paragraph (2)[^key-dc5b18cf1f24787bee82b92ac5b69360] the turnover in the United Kingdom of an enterprise shall be determined in accordance with article 11(2) to (4).
+
+(3A)[^key-04b665f86ba276ac6a54ed410d78cee8] For the purpose of determining the amount of the fee payable under article 3(b) for decisions made in relation to a possible reference under section 68B or 68C of the Act including as part of a combined reference described in section 68E(1) of the Act, paragraphs (1) to (3) of this article have effect as if references to the United Kingdom were to Great Britain.
+
+(3B) The amount of fee payable under article 3(b) for a decision made in relation to a combined reference described in section 68E(1) of the Act is—
+
+- (a) in relation to a combined reference described in section 68E(1)(a) of the Act, the sum of the amounts that would have been payable under article 3(b) for—
+  - (i) a decision made in relation to a possible reference under section 22 of the Act; and
+  - (ii) a decision made in relation to a possible reference under section 68B of the Act;
+- (b) in relation to a combined reference described in section 68E(1)(b) of the Act, the sum of the amounts that would have been payable under article 3(b) for—
+  - (i) a decision made in relation to a possible reference under section 33 of the Act; and
+  - (ii) a decision made in relation to a possible reference under section 68C of the Act.
+
+(4)[^key-3fbcb0aaafcba7a7279788aba21078ac] The amount of the fee payable under article 3(d) shall be—
+
+- (a) where the value of the turnover in England and Wales of the water enterprise which has been taken over or (as the case may be) which it is proposed should be taken over, does not exceed £20 million, £40,000[^key-d82f9e3ef4bcc2842cbff62d7c01e059];
+- (b) where the value of such turnover exceeds £20 million but does not exceed £70 million, £80,000[^key-2fd8b65177f146ab662a35b0128ee584];
+- (c) where the value of such turnover exceeds £70 million but does not exceed £120 million, £120,000;[^key-13fb8f07536ec164414eb96fbf610029]
+- (d)[^key-089a73b91591b1faa1b4e844be0a9358] where the value of such turnover exceeds £120 million, £160,000.
+
+(5) For the purposes of paragraph (4) the value of the turnover in England and Wales of the water enterprise which has been taken over or (as the case may be) which it is proposed should be taken over, shall be determined by taking the total value of the turnover of the water enterprises ceasing to be distinct enterprises and deducting—
+
+- (a) the turnover of any water enterprise continuing to be carried on under the same ownership and control; or
+- (b) if there is no water enterprise continuing to be carried on under the same ownership and control, the turnover which, of all the turnovers concerned, is the turnover of the highest value.
+
+(6) For the purposes of paragraph (5) the turnover in England and Wales of a water enterprise shall be determined in accordance with the Regulations made pursuant to section 33(4) of the Water Industry Act 1991.
+
+### 6. Person by whom fees are payable[^key-6e0cd497340c69d2d635c8818426ab44]
+
+(1)[^key-67bf27b69d3281f750096f66fcf5d9f7] Where the decision in respect of which a fee is payable under article 3(b) or (c) is made in relation to arrangements or proposed arrangements of which the CMA was given notice under section 96 of the Act and the person who gave the notice still exists at the time when the fee is payable under article 9, the fee is payable by the person who gave the notice.
+
+(2) In any other case, the fee payable under article 3 is payable by the acquirer.
+
+(3) For the purposes of this article and article 7 “the acquirer” means the person, or group of persons, who has or have acquired or will, if those arrangements are carried into effect, acquire either—
+
+- (a) a controlling interest in one of the enterprises which was or is involved in the creation or possible creation of a relevant merger situation or the merger or prospective merger of two or more water enterprises[^key-c1e6a86168bd360f47438dbb9bcf1845] which is the subject of the merger reference or, as the case may be, the CMA’s[^key-0d9ce847d75f8a406aaf2ea74c1408a0] or the Secretary of State’s decision not to make such a merger reference, and in which he or they did not previously have such an interest; or
+- (b) in the case of such an enterprise carried on by a body corporate in which he or they did not previously have a controlling interest, a controlling interest in that body corporate.
+
+(4) In a case where paragraph (3) applies to more than one person, whether by virtue of them being treated as associated persons, as defined in section 127 of the Act, or otherwise, the persons to whom it applies shall be jointly and severally liable for the fee in that case.
+
+(5)[^key-54c514467242702dd3a15b2171d7aeec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Exemption for acquisitions by small and medium sized enterprises[^key-9584dc81a9cac478c48c2b58a2899ec3]
+
+(1) In a case in which, by virtue of article 6(1), the obligation to pay the fee under article 3(b) or (c) falls on a person who gave a merger notice under section 96 of the Act, no fee shall be payable if—
+
+- (a) that person is the acquirer;
+- (b) the notified arrangements relate to the enterprise that has been, or will be, taken over by the acquirer; and
+- (c) the acquirer qualifies as small or medium sized.
+
+(2) In any other case, no fee is payable under article 3 where the acquirer qualifies as small or medium sized.
+
+(3) But paragraphs (1) and (2) do not apply where the acquirer is an individual.
+
+(4) For the purposes of paragraphs (1) and (2) an acquirer qualifies as small or medium sized if—
+
+- (a) the acquirer (whether or not it is a company) met, in its most recent financial year before the time when the fee would otherwise become payable, the qualifying conditions to be small specified in section 382(3) to (6) of the Companies Act 2006 or the qualifying conditions to be medium-sized specified in section 465(3) to (6) of that Act; and
+- (b) where the acquirer is a member of a group as defined in section 474 of the Companies Act 2006 (whether or not the acquirer is a company), that group met, in its most recent financial year before the time when the fee would otherwise become payable, the qualifying conditions to be small specified in section 383(4) to (7) of that Act or the qualifying conditions to be medium-sized specified in section 466(4) to (7) of that Act.
+
+### 8. Person to whom fees are payable[^key-57cb4b0fbbe6677a933fdcc67e154f60]
+
+In a case falling within article 3 the fee shall be payable to the CMA[^key-eadbd4a6bc1dcfa7acb05eab3d41bc40].
+
+### 9. Time when fees are payable[^key-45e5682d438537d5a55de0345c36ce3d]
+
+(1) In a case falling within article 3(b) or (d), the fee shall be payable when the CMA publishes the merger reference or, as the case may be, publishes its decision that the duty to make such a merger reference does not apply.
+
+(2) In a case falling within article 3(c), the fee shall be payable when the Secretary of State publishes the merger reference, or as the case may be, when the Secretary of State’s decision not to make such a merger reference is published.
+
+### 10. Repayment of fees[^key-19e41d5920164750e6f4e1918e699971]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — DETERMINATION OF TURNOVER
+
+### 11. Determination of turnover in the United Kingdom of an enterprise[^key-511d68179e86a84a88d5cd3ef49b7be7]
+
+(1) This article shall apply for the purposes referred to in section 28(2) of the Act and article 5(3)[^key-9ffa08ee47d4be51bf09d34b5741bbac].
+
+(2) The turnover in the United Kingdom of an enterprise shall be, subject to paragraph (3), the applicable turnover for the business year preceding—
+
+- (a) where the question whether a relevant merger situation has been created is being determined, the date when the enterprises concerned ceased to be distinct enterprises or such earlier date as the decision-making authority considers appropriate;
+- (b) where the question whether it is or may be the case that arrangements are in progress or in contemplation which, if carried into effect, will result in the creation of a relevant merger situation is being determined, the date when the decision in relation to a possible reference has been or is to be made, or such earlier date as the decision-making authority considers appropriate.
+
+(3) Where an acquisition or divestment or other transaction or event has occurred since the end of the preceding business year which the decision-making authority considers may have a significant impact on the turnover of the enterprise, that acquisition or divestment or other transaction or event may be taken into account if the decision-making authority considers it appropriate to do so.
+
+(4) Where in the application of this article there is any period in respect of which there is no preceding business year then the applicable turnover shall be the turnover for that period.
+
+(5)[^key-44f03bb0bab9f6e4b0bd0e4b364a8ea1] For the purpose of determining the turnover of an enterprise which is subject to a possible reference under section 68B or 68C of the Act, this article and Schedule 1 have effect as if references to the United Kingdom were to Great Britain.
+
+Brian Wilson,
+
+Minister of State for Energy and Construction,
+
+Department of Trade and Industry
+
+23rd May 2003
+
+## SCHEDULE — APPLICABLE TURNOVER
+
+Article 2
+
+### 1. Interpretation[^key-98e04e191b7dcd97357a5702b66f5134]
+
+In this Schedule:
+
+- “[^key-6dd6bf7ee20a17f2b04312f4c5593c4b]**aid**” means a measure which—
+  - (a) fulfils the conditions set out in Article 1.1 of the Agreement on Subsidies and Countervailing Measures contained in Annex 1A to the WTO Agreement, and
+  - (b) is specific within the meaning of Article 2 of that Agreement, irrespective of whether the recipient deals in goods or services;
+- “branch” means a place of business in the United Kingdom which forms a legally dependent part of a credit institution or financial institution and which conducts directly all or some of the operations inherent in the business of the undertaking and any number of branches set up in the United Kingdom shall for the purposes of this Order be regarded as a single branch;
+- “[^key-24f128117145dd347a70c0116dbd9c18]**credit institution**” means a credit institution for the purposes of Article 4(1)(1) of Regulation (EU) 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012;
+- “[^key-dcd197a471b2fec81cb21f1fd7f2351e]**financial institution**” means a financial institution for the purposes of Article 4(1)(26) of Regulation (EU) 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012;
+- “insurance undertaking” means an insurance undertaking carrying on the business of direct insurance of a class set out in Article 2(3) or Annex I of Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II);[^key-614219c0f1226d3931a46baf526c0ef6]
+- terms used in this Schedule in respect of the determination of the applicable turnover of credit institutions, financial institutions and insurance undertakings shall (except where the contrary intention appears) have the same meaning as in the relevant Directive.
+
+### 2.[^key-dc7ec5233291ffd13ba8c071202a356f]
+
+Save in paragraphs 4 to 9, the provisions of this Schedule shall be interpreted in accordance with accounting principles and practices that are generally accepted in the United Kingdom.
+
+### 3. General[^key-0c7861ea8b349fa02aa5ce465fca81dd]
+
+The applicable turnover of an enterprise, other than an enterprise which is a credit institution, financial institution or insurance undertaking shall be limited to the amounts derived from the sale of products and the provision of services falling within the ordinary activities of the enterprise to businesses or consumers in the United Kingdom after deduction of sales rebates, value added tax and other taxes directly related to turnover.
+
+### 4.[^key-d3611b6d3ec5a967ea38933d1fdd44ad]
+
+Subject to paragraphs 8 and 9, where an enterprise consists of two or more enterprises which are under common ownership or control the applicable turnover shall be calculated by adding together the respective applicable turnover of each of the enterprises under common ownership or control.
+
+### 5.[^key-bb5404918a0a72aa6b17730430b41ba4]
+
+For the purposes of paragraphs 4 and 7 to 9, enterprises shall in particular be treated as being under common control if they are—
+
+- (a) enterprises of interconnected bodies corporate;
+- (b) enterprises carried on by two or more bodies corporate of which one and the same person or group of persons has control; or
+- (c) an enterprise carried on by a body corporate and an enterprise carried on by a person or group of persons having control of that body corporate.
+
+### 6.[^key-6041afde8b56afb72e373f99ec12ef80]
+
+A person or group of persons able, directly or indirectly, to control or materially influence the policy of a body corporate, or the policy of any person in carrying on an enterprise but without having a controlling interest in that body corporate or in that enterprise, may, for the purposes of paragraph 4, be treated by the decision-making authority as having control of it.
+
+### 7.[^key-91f14e903d82594eb2e7a8c3ace698fb]
+
+Section 127 of the Act shall apply to the determination of whether enterprises are under common control for the purposes of paragraphs 5 and 6 as it applies, for the purposes specified in section 127, to section 26 of the Act.
+
+### 8.[^key-ed2a4e65ffa9964bfed5ac3e87d0bf84]
+
+Subject to paragraph 9, applicable turnover shall not include amounts derived from the sale of products or the provision of services between enterprises under common ownership or control.
+
+### 9.[^key-a1fb91ab70e54d5859d2745a2e685117]
+
+Where, as a result of the merger situation, one or more enterprises ceases or will cease to be under common ownership or control with the enterprise being taken over, the decision-making authority may treat amounts derived from the sale of products or the provision of services between the enterprise being taken over and any enterprises ceasing to be under common ownership or control with that enterprise as applicable turnover and if such sale of products or provision of services has not resulted in any turnover or the decision-making authority considers that the turnover attributed to them does not reflect open market value, the decision-making authority may attribute such value to them as it considers appropriate and include them in the calculation of applicable turnover.
+
+### 10.[^key-29ec6bb7690001b36023ab16770caaf8]
+
+Where an enterprise has applicable turnover part of which is attributable to a credit institution, financial institution or insurance undertaking, that part or those parts of the applicable turnover shall be calculated in accordance with paragraphs 3, 11 and 12.
+
+### 11. Credit institutions and financial institutions[^key-4752c1187b22eddf9a2ec228cafae0cb]
+
+The applicable turnover of an enterprise which is a credit institution or financial institution shall be limited to the sum of the following income as defined in Council Directive [(EEC) 86/635](https://www.legislation.gov.uk/european/regulation/1986/0635)[^f00006] received by the branch or division of that institution established in the United Kingdom after deduction of value added tax and other taxes directly related to those items:
+
+- (a) interest income and similar income;
+- (b) income from securities:
+  - income from shares and other variable yield securities;
+  - income from participating interests;
+  - income from shares in affiliated undertakings;
+- (c) commissions receivable;
+- (d) net profit on financial operations;
+- (e) other operating income.
+
+### 12. Insurance undertakings[^key-6b678e1821233b95b56882f0a1939bf6]
+
+The applicable turnover of an enterprise which is an insurance undertaking shall be limited to the value of gross premiums received from residents of the United Kingdom which shall comprise all amounts received and receivable in respect of insurance contracts issued by or on behalf of the undertaking, including outgoing reinsurance premiums, and after deduction of taxes and parafiscal contributions or levies charged by reference to the amounts of individual premiums or the total volume of premiums.
+
+### 13. Aid granted to businesses[^key-5f4cf5ad07451625b2503ccce07280ae]
+
+Any aid granted by a public body to a business which relates to one of the ordinary activities of the business shall be included in the calculation of turnover if the business is itself the recipient of the aid and if the aid is directly linked to the sale of products or the provision of services by the business and is therefore reflected in the price.
+
+(This note is not part of the Order)
+
+Part 2 of this Order provides for fees to be payable in connection with the exercise by the Secretary of State, the OFT and the Competition Commission of their functions relating to completed and anticipated mergers under Part 3 of the Enterprise Act 2002 (“the Act”).
+
+Article 3 provides that fees are payable in the following cases: in respect of a pre-notification of a merger under section 96 of the Act; in respect of a decision by the OFT regarding the creation or possible creation of a relevant merger situation under section 22 or 33 of the Act and in respect of a decision by the Secretary of State regarding the creation or possible creation of a relevant merger situation under section 45 of the Act.
+
+Article 4 specifies certain cases in which fees are not payable, for example, where a fee has already been paid when pre-notifying the merger. Article 5 specifies the amount of fee payable, which is linked to the UK turnover of the enterprise being taken over which is determined in accordance with Part 3 of this Order. Provision is also made as to the persons by whom the fee is payable (Article 6). There is an exemption for acquisitions made by small and medium sized enterprises in Article 7. Provision is made as to the persons to whom fees are payable (Article 8), and the time when fees are payable (Article 9).
+
+Provision is also made for the refund of fees payable in respect of merger pre-notifications where, for example, the notice is rejected because the notified arrangements are, or would result in, a concentration with a Community dimension (within the meaning of Council Regulation [(EEC) No. 4064/89](https://www.legislation.gov.uk/european/regulation/1989/4064) as amended by Council Regulation [(EC) No. 1310/97](https://www.legislation.gov.uk/european/regulation/1997/1310)), or where the notified arrangements would not, if carried into effect, result in a relevant merger situation (Article 10).
+
+Part 3 of this Order specifies how the UK turnover of an enterprise is to be determined for the purposes of establishing the fee payable and section 28(2) of the Act in order to establish whether a relevant merger situation under section 23 of the Act has been created.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^key-222308c16828921b0f14ee729c22fd87]: Commencement: Art. 1 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-5420e6def19771e333d21d6a150bca83]: Commencement: Art. 2 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-2c39c5a6a65d1d0169d3a9ae5ef6d41b]: Textual amendment: Word in [art. 2(c)](https://www.legislation.gov.uk/uksi/2003/1370/article/2/c) ceases to have effect (29.12.2004) by virtue of [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2004 (S.I. 2004/3204)](https://www.legislation.gov.uk/uksi/2004/3204), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3204/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2004/3204/article/2/2/a)
+
+[^key-578b519c10f08222336e15cfdef17a8d]: Textual amendment: [Art. 2(d)](https://www.legislation.gov.uk/uksi/2003/1370/article/2/d) substituted (1.4.2014) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2014 (S.I. 2014/534)](https://www.legislation.gov.uk/uksi/2014/534), [arts. 1](https://www.legislation.gov.uk/uksi/2014/534/article/1), [3](https://www.legislation.gov.uk/uksi/2014/534/article/3) (with [art. 12](https://www.legislation.gov.uk/uksi/2014/534/article/12))
+
+[^key-1989253ea1fecc2e9521b6e3be62edb2]: Textual amendment: Words in [art. 2(d)](https://www.legislation.gov.uk/uksi/2003/1370/article/2/d) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [3](https://www.legislation.gov.uk/uksi/2023/1185/article/3)
+
+[^key-3813ebfb795492eaf2914f25418cc9a5]: Textual amendment: [Art. 2(e)](https://www.legislation.gov.uk/uksi/2003/1370/article/2/e) inserted (29.12.2004) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2004 (S.I. 2004/3204)](https://www.legislation.gov.uk/uksi/2004/3204), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3204/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2004/3204/article/2/2/c)
+
+[^key-9a192d868a54948173f3423cf4d2fad7]: Commencement: Art. 3 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-4552b57758ac785e0a467589e895cfbd]: Textual amendment: [Art. 3(a)](https://www.legislation.gov.uk/uksi/2003/1370/article/3/a) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2014 (S.I. 2014/534)](https://www.legislation.gov.uk/uksi/2014/534), [arts. 1](https://www.legislation.gov.uk/uksi/2014/534/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2014/534/article/4/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2014/534/article/12))
+
+[^key-797b0e12c6ddf3364a49e8aa1c87c7e8]: Textual amendment: Word in [art. 3(b)](https://www.legislation.gov.uk/uksi/2003/1370/article/3/b) substituted (1.4.2014) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2014 (S.I. 2014/534)](https://www.legislation.gov.uk/uksi/2014/534), [arts. 1](https://www.legislation.gov.uk/uksi/2014/534/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/534/article/4/b) (with [art. 12](https://www.legislation.gov.uk/uksi/2014/534/article/12))
+
+[^key-f8df0de42b369907c65dd30a63f1f8de]: Textual amendment: Words in [art. 3(b)](https://www.legislation.gov.uk/uksi/2003/1370/article/3/b) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1185/article/4)
+
+[^key-4ca95d234e098b28a101ca5938484dc9]: Textual amendment: [Art. 3(d)](https://www.legislation.gov.uk/uksi/2003/1370/article/3/d) substituted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [23](https://www.legislation.gov.uk/uksi/2015/1936/regulation/23) (with [reg. 25](https://www.legislation.gov.uk/uksi/2015/1936/regulation/25))
+
+[^key-03f1e59f840ee436d0a81700e1f302c6]: Commencement: Art. 4 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-11ccffa97199fee1ce3775f43a30ae29]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/uksi/2003/1370/article/4/1) substituted (1.4.2014) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2014 (S.I. 2014/534)](https://www.legislation.gov.uk/uksi/2014/534), [arts. 1](https://www.legislation.gov.uk/uksi/2014/534/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/534/article/5/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2014/534/article/12))
+
+[^key-4e73bbe299797b81c1bcca6411e5899b]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2003/1370/article/4/2) substituted (1.4.2014) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2014 (S.I. 2014/534)](https://www.legislation.gov.uk/uksi/2014/534), [arts. 1](https://www.legislation.gov.uk/uksi/2014/534/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2014/534/article/5/b) (with [art. 12](https://www.legislation.gov.uk/uksi/2014/534/article/12))
+
+[^key-002935f86d63e009231c31bb86acc831]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2003/1370/article/4/2) inserted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [5](https://www.legislation.gov.uk/uksi/2023/1185/article/5)
+
+[^key-fb45774ae39703652d9001437f3c4bca]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/uksi/2003/1370/article/4/3)[(4)](https://www.legislation.gov.uk/uksi/2003/1370/article/4/4) inserted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [24](https://www.legislation.gov.uk/uksi/2015/1936/regulation/24) (with [reg. 25](https://www.legislation.gov.uk/uksi/2015/1936/regulation/25))
+
+[^key-2ff50087c02048cf4cc6eb9aa0ed4b92]: Commencement: Art. 5 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-90bc8f0afe5929d55c64b4f6a9a03ccb]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2003/1370/article/5/1) substituted (1.4.2014) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2014 (S.I. 2014/534)](https://www.legislation.gov.uk/uksi/2014/534), [arts. 1](https://www.legislation.gov.uk/uksi/2014/534/article/1), [6](https://www.legislation.gov.uk/uksi/2014/534/article/6) (with [art. 12](https://www.legislation.gov.uk/uksi/2014/534/article/12))
+
+[^key-da8dfa1256fba18e48f2bd92367a2d71]: Textual amendment: Sum in [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2003/1370/article/5/1/a) substituted (1.10.2012) by [The Enterprise Act 2002 (Merger Fees) (Amendment and Revocation) Order 2012 (S.I. 2012/1878)](https://www.legislation.gov.uk/uksi/2012/1878), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1878/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/1878/article/2/2) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1878/article/1/2))
+
+[^key-a4e337ffdbebd200f7e14832420f08b3]: Textual amendment: Sum in [art. 5(1)(b)](https://www.legislation.gov.uk/uksi/2003/1370/article/5/1/b) substituted (1.10.2012) by [The Enterprise Act 2002 (Merger Fees) (Amendment and Revocation) Order 2012 (S.I. 2012/1878)](https://www.legislation.gov.uk/uksi/2012/1878), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1878/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/1878/article/2/3) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1878/article/1/2))
+
+[^key-41e3c1d328c7b45df2626b38da109546]: Textual amendment: Words in [art. 5(1)(c)](https://www.legislation.gov.uk/uksi/2003/1370/article/5/1/c) substituted (1.10.2012) by [The Enterprise Act 2002 (Merger Fees) (Amendment and Revocation) Order 2012 (S.I. 2012/1878)](https://www.legislation.gov.uk/uksi/2012/1878), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1878/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/1878/article/2/4) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1878/article/1/2))
+
+[^key-5c3129959a1263b0b4764e36086ac2df]: Textual amendment: [Art. 5(1)(d)](https://www.legislation.gov.uk/uksi/2003/1370/article/5/1/d) inserted (1.10.2012) by [The Enterprise Act 2002 (Merger Fees) (Amendment and Revocation) Order 2012 (S.I. 2012/1878)](https://www.legislation.gov.uk/uksi/2012/1878), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1878/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2012/1878/article/2/5) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1878/article/1/2))
+
+[^key-9f543d45837ad9acd76291742e2fc127]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2003/1370/article/5/2) substituted (29.12.2004) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2004 (S.I. 2004/3204)](https://www.legislation.gov.uk/uksi/2004/3204), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3204/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2004/3204/article/2/4/b)
+
+[^key-dc5b18cf1f24787bee82b92ac5b69360]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2003/1370/article/5/3) substituted (29.12.2004) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2004 (S.I. 2004/3204)](https://www.legislation.gov.uk/uksi/2004/3204), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3204/article/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2004/3204/article/2/4/c)
+
+[^key-04b665f86ba276ac6a54ed410d78cee8]: Textual amendment: [Arts. 5(3A)](https://www.legislation.gov.uk/uksi/2003/1370/article/5/3A), [(3B)](https://www.legislation.gov.uk/uksi/2003/1370/article/5/3B) inserted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [6](https://www.legislation.gov.uk/uksi/2023/1185/article/6)
+
+[^key-3fbcb0aaafcba7a7279788aba21078ac]: Textual amendment: Art. 5(4)-(6) inserted (29.12.2004) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2004 (S.I. 2004/3204)](https://www.legislation.gov.uk/uksi/2004/3204), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3204/article/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2004/3204/article/2/4/d)
+
+[^key-d82f9e3ef4bcc2842cbff62d7c01e059]: Textual amendment: Sum in [art. 5(4)(a)](https://www.legislation.gov.uk/uksi/2003/1370/article/5/4/a) substituted (1.10.2012) by [The Enterprise Act 2002 (Merger Fees) (Amendment and Revocation) Order 2012 (S.I. 2012/1878)](https://www.legislation.gov.uk/uksi/2012/1878), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1878/article/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2012/1878/article/2/6) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1878/article/1/2))
+
+[^key-2fd8b65177f146ab662a35b0128ee584]: Textual amendment: Sum in [art. 5(4)(b)](https://www.legislation.gov.uk/uksi/2003/1370/article/5/4/b) substituted (1.10.2012) by [The Enterprise Act 2002 (Merger Fees) (Amendment and Revocation) Order 2012 (S.I. 2012/1878)](https://www.legislation.gov.uk/uksi/2012/1878), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1878/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2012/1878/article/2/7) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1878/article/1/2))
+
+[^key-13fb8f07536ec164414eb96fbf610029]: Textual amendment: Words in [art. 5(4)(c)](https://www.legislation.gov.uk/uksi/2003/1370/article/5/4/c) substituted (1.10.2012) by [The Enterprise Act 2002 (Merger Fees) (Amendment and Revocation) Order 2012 (S.I. 2012/1878)](https://www.legislation.gov.uk/uksi/2012/1878), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1878/article/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2012/1878/article/2/8) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1878/article/1/2))
+
+[^key-089a73b91591b1faa1b4e844be0a9358]: Textual amendment: [Art. 5(4)(d)](https://www.legislation.gov.uk/uksi/2003/1370/article/5/4/d) inserted (1.10.2012) by [The Enterprise Act 2002 (Merger Fees) (Amendment and Revocation) Order 2012 (S.I. 2012/1878)](https://www.legislation.gov.uk/uksi/2012/1878), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1878/article/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2012/1878/article/2/9) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1878/article/1/2))
+
+[^key-6e0cd497340c69d2d635c8818426ab44]: Commencement: Art. 6 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-67bf27b69d3281f750096f66fcf5d9f7]: Textual amendment: [Art. 6(1)](https://www.legislation.gov.uk/uksi/2003/1370/article/6/1)[(2)](https://www.legislation.gov.uk/uksi/2003/1370/article/6/2) substituted (1.4.2014) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2014 (S.I. 2014/534)](https://www.legislation.gov.uk/uksi/2014/534), [arts. 1](https://www.legislation.gov.uk/uksi/2014/534/article/1), [7(a)](https://www.legislation.gov.uk/uksi/2014/534/article/7/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2014/534/article/12))
+
+[^key-c1e6a86168bd360f47438dbb9bcf1845]: Textual amendment: Words in [art. 6(3)(a)](https://www.legislation.gov.uk/uksi/2003/1370/article/6/3/a) inserted (29.12.2004) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2004 (S.I. 2004/3204)](https://www.legislation.gov.uk/uksi/2004/3204), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3204/article/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2004/3204/article/2/5/b)
+
+[^key-0d9ce847d75f8a406aaf2ea74c1408a0]: Textual amendment: Word in [art. 6(3)(a)](https://www.legislation.gov.uk/uksi/2003/1370/article/6/3/a) substituted (1.4.2014) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2014 (S.I. 2014/534)](https://www.legislation.gov.uk/uksi/2014/534), [arts. 1](https://www.legislation.gov.uk/uksi/2014/534/article/1), [7(b)](https://www.legislation.gov.uk/uksi/2014/534/article/7/b) (with [art. 12](https://www.legislation.gov.uk/uksi/2014/534/article/12))
+
+[^key-54c514467242702dd3a15b2171d7aeec]: Textual amendment: [Art. 6(5)](https://www.legislation.gov.uk/uksi/2003/1370/article/6/5) omitted (6.4.2006) by virtue of [The Enterprise Act 2002 (Merger Fees) (Amendment) Order 2005 (S.I. 2005/3558)](https://www.legislation.gov.uk/uksi/2005/3558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/3558/article/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2005/3558/article/2/8) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2005/3558/article/1/2))
+
+[^key-9584dc81a9cac478c48c2b58a2899ec3]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2003/1370/article/7) substituted (1.4.2014) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2014 (S.I. 2014/534)](https://www.legislation.gov.uk/uksi/2014/534), [arts. 1](https://www.legislation.gov.uk/uksi/2014/534/article/1), [8](https://www.legislation.gov.uk/uksi/2014/534/article/8) (with [art. 12](https://www.legislation.gov.uk/uksi/2014/534/article/12))
+
+[^key-57cb4b0fbbe6677a933fdcc67e154f60]: Commencement: Art. 8 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-eadbd4a6bc1dcfa7acb05eab3d41bc40]: Textual amendment: Word in [art. 8](https://www.legislation.gov.uk/uksi/2003/1370/article/8) substituted (1.4.2014) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2014 (S.I. 2014/534)](https://www.legislation.gov.uk/uksi/2014/534), [arts. 1](https://www.legislation.gov.uk/uksi/2014/534/article/1), [9](https://www.legislation.gov.uk/uksi/2014/534/article/9) (with [art. 12](https://www.legislation.gov.uk/uksi/2014/534/article/12))
+
+[^key-45e5682d438537d5a55de0345c36ce3d]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2003/1370/article/9) substituted (1.4.2014) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2014 (S.I. 2014/534)](https://www.legislation.gov.uk/uksi/2014/534), [arts. 1](https://www.legislation.gov.uk/uksi/2014/534/article/1), [10](https://www.legislation.gov.uk/uksi/2014/534/article/10) (with [art. 12](https://www.legislation.gov.uk/uksi/2014/534/article/12))
+
+[^key-19e41d5920164750e6f4e1918e699971]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/uksi/2003/1370/article/10) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2014 (S.I. 2014/534)](https://www.legislation.gov.uk/uksi/2014/534), [arts. 1](https://www.legislation.gov.uk/uksi/2014/534/article/1), [11](https://www.legislation.gov.uk/uksi/2014/534/article/11) (with [art. 12](https://www.legislation.gov.uk/uksi/2014/534/article/12))
+
+[^key-511d68179e86a84a88d5cd3ef49b7be7]: Commencement: Art. 11 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-9ffa08ee47d4be51bf09d34b5741bbac]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/uksi/2003/1370/article/11/1) substituted (29.12.2004) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) Order 2004 (S.I. 2004/3204)](https://www.legislation.gov.uk/uksi/2004/3204), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3204/article/1), [2(8)](https://www.legislation.gov.uk/uksi/2004/3204/article/2/8)
+
+[^key-44f03bb0bab9f6e4b0bd0e4b364a8ea1]: Textual amendment: [Art. 11(5)](https://www.legislation.gov.uk/uksi/2003/1370/article/11/5) inserted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [7](https://www.legislation.gov.uk/uksi/2023/1185/article/7)
+
+[^key-98e04e191b7dcd97357a5702b66f5134]: Commencement: Sch. para. 1 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-6dd6bf7ee20a17f2b04312f4c5593c4b]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2003/1370/schedule/paragraph/1) substituted (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/4/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+
+[^key-24f128117145dd347a70c0116dbd9c18]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2003/1370/schedule/paragraph/1) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 60(a)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/60/a)
+
+[^key-dcd197a471b2fec81cb21f1fd7f2351e]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2003/1370/schedule/paragraph/1) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 60(b)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/60/b)
+
+[^key-614219c0f1226d3931a46baf526c0ef6]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2003/1370/schedule/paragraph/1) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/16)
+
+[^key-dc7ec5233291ffd13ba8c071202a356f]: Commencement: Sch. para. 2 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-0c7861ea8b349fa02aa5ce465fca81dd]: Commencement: Sch. para. 3 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-d3611b6d3ec5a967ea38933d1fdd44ad]: Commencement: Sch. para. 4 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-bb5404918a0a72aa6b17730430b41ba4]: Commencement: Sch. para. 5 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-6041afde8b56afb72e373f99ec12ef80]: Commencement: Sch. para. 6 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-91f14e903d82594eb2e7a8c3ace698fb]: Commencement: Sch. para. 7 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-ed2a4e65ffa9964bfed5ac3e87d0bf84]: Commencement: Sch. para. 8 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-a1fb91ab70e54d5859d2745a2e685117]: Commencement: Sch. para. 9 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-29ec6bb7690001b36023ab16770caaf8]: Commencement: Sch. para. 10 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-4752c1187b22eddf9a2ec228cafae0cb]: Commencement: Sch. para. 11 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^f00006]: Footnote: OJ No. L372, 31.12.86, p. 1.
+
+[^key-6b678e1821233b95b56882f0a1939bf6]: Commencement: Sch. para. 12 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)
+
+[^key-5f4cf5ad07451625b2503ccce07280ae]: Commencement: Sch. para. 13 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1370/article/1)

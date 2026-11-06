@@ -1,0 +1,708 @@
+---
+title: The Payment Card Interchange Fee Regulations 2015
+id: uksi/2015/1911
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2015-11-16'
+text_date: '2025-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/1911
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/1911/pdfs/uksiem_20151911_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1911/pdfs/uksi_20151911_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1911/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Payment Card Interchange Fee Regulations 2015
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2025-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2015/1911
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 1911
+
+Financial Services And Markets
+
+The Payment Card Interchange Fee Regulations 2015
+
+Made
+
+16th November 2015
+
+Laid before Parliament
+
+17th November 2015
+
+Coming into force
+
+9th December 2015
+
+[^c22693481][^c22693491]The Treasury are a government department designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to financial services.
+
+The Treasury make these Regulations in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972.[^key-ca634ecdff0ca7e0de8405f2882028af]
+
+## PART 1 — Introductory provisions
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Payment Card Interchange Fee Regulations 2015 and come into force on 9th December 2015.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 2013 Act**” means the Financial Services (Banking Reform) Act 2013 [^c22693501];
+- “[^key-8a4524f3f918a6f8a9e4457070fe5a46]**card-based payment transaction**” means a service based on a payment card scheme’s infrastructure and business rules to make a payment transaction by means of any card, telecommunication, digital or IT device or software if this results in a debit or a credit card transaction, but does not include transactions based on other kinds of payment services;
+- “**co-badging**” means the inclusion of two or more payment brands or payment applications of the same brand on the same card-based payment instrument;
+- “**compliance failure**” means a failure by a person to comply with—
+  - (a) an obligation, prohibition or restriction imposed by the interchange fee regulation, or
+  - (b) a direction given under regulation 4 or 4A[^key-76f99a99e09ea22c1c30d3b439343b3a];
+- “**general direction**” has the meaning given in regulation 4(6) or 4A(8)[^key-93120460c50618963b3d0c9522792051];
+- “**general guidance**” has the meaning given in regulation 13(3);
+- “[^key-01f3e1b88cf759b8e93979caaae0f7f9]**interchange fee**” means a fee paid for each transaction directly or indirectly (including fees paid through a third party) between the issuer and the acquirer involved in a card-based payment transaction, and includes the net compensation or other agreed remuneration;
+- “**the interchange fee regulation**” means Regulation (EU) 2015/751 of the European Parliament and of the Council of 29th April 2015 on interchange fees for card-based payment transactions [^c22693511];
+- “[^key-414d55dc0f1a4f325f541a5afc84b9c6]**payee**” means a person who is the intended recipient of funds which have been the subject of a payment transaction;
+- “**payer**” means a person who holds a payment account and allows a payment order from that payment account, or, where there is no payment account, a natural or legal person who gives a payment order;
+- “**payment account**” means an account held in the name of one or more payment service users which is used for the execution of payment transactions, including a specific account for electronic money as defined in regulation 2(1) of the Electronic Money Regulations 2011;
+- “**payment application**” means computer software or equivalent loaded on a device enabling card-based payment transactions to be initiated and allowing the payer to issue payment orders;
+- “**payment brand**” means any material or digital name, term, sign, symbol or combination thereof, capable of denoting under which payment card scheme card-based payment transactions are carried out;
+- “**payment card**” means a category of payment instrument that enables the payer to initiate a debit or credit card transaction;
+- “**payment card scheme**” means a single set of rules, practices, standards and/or implementation guidelines for the execution of card-based payment transactions and which is separated from any infrastructure or payment system that supports its operation, and includes any specific decision-making body, organisation or entity accountable for the functioning of the scheme;
+- “**payment instrument**” means any personalised device and/or set of procedures agreed between the payment service user and the payment service provider and used in order to initiate a payment order;
+- “**payment order**” means any instruction by a payer to its payment service provider requesting the execution of a payment transaction;
+- “**payment service provider**” has the meaning given in regulation 2(1) of the Payment Services Regulations 2017;
+- “**payment services**” has the meaning given in regulation 2 of the Payment Services Regulations 2017;
+- “**payment system**” has the meaning given in regulation 2 of the Payment Services Regulations 2017;
+- “**payment transaction**” means an action, initiated by the payer or on its behalf by the payee of transferring funds, irrespective of any underlying obligation between the payer and the payee;
+- “**processing**” means the performance of payment transaction processing services in terms of the actions required for the handling of a payment instruction between the acquirer and the issuer;
+- “**processing entity**” means any person providing payment transaction processing services;
+- “**the Payment Systems Regulator**” means the body established under section 40(1) of the 2013 Act; and
+- “[^key-87a0ede266c132eb0249626ef381ece2]**regulated person**” means a person—
+  - (a) on whom an obligation, prohibition or restriction is imposed by any provision of the interchange fee regulation, or
+  - (b) who is subject to a direction under regulation 4A(1).
+
+(1A)[^key-ab333c16795fd4429554aa3f74294e15] For the purposes of paragraph (1)—
+
+- “**acquirer**” means a payment service provider contracting with a payee to accept and process card-based payment transactions, which result in a transfer of funds to the payee;
+- “**credit card transaction**” means a card-based payment transaction where the amount of the transaction is debited in full or in part, with or without interest, on a date agreed with the payer, under the terms of a prearranged credit facility;
+- “debit card transaction’ means a card-based payment transaction that is not a credit card transaction, and which includes a transaction using a prepaid card;
+- “**issuer**” means a payment service provider contracting to provide a payer with a payment instrument to initiate and process the payer’s card-based payment transactions;
+- “**net compensation**” means the total net amount of payments, rebates or incentives received by an issuer from the payment card scheme, the acquirer or any other intermediary in relation to card-based payment transactions or related activities.
+
+(2) Any expression used in these Regulations which is used in the interchange fee regulation has the same meaning as in the interchange fee regulation.
+
+## PART 2 — The Payment Systems Regulator
+
+### 3. Functions[^key-b030bda88c52cd0166c970ef50f913e7]
+
+(1)[^key-c2770c5d7694d42687ccb8f5a3a72a34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The Payment Systems Regulator must maintain arrangements to enable it to—
+
+- (a)[^key-afdf26066edad91d67397a969c4d9568] determine whether regulated persons comply [^key-8451e9314f78de311d3f473834a96871]... with obligations, prohibitions and restrictions imposed on them by—
+  - (i) the interchange fee regulation, read together with regulations 22 (weighted average interchange fees for domestic debit card transactions) and 23 (exemption from maximum interchange fees for certain three party payment card schemes); [^key-0abc3785737033d7eed725abeacb0c3a]...
+  - (ii) a technical standard made under section 97A of the 2013 Act or;[^key-24ee8f08ee7f4f2a5f8e72ce81ff5e3c]
+  - (iii) a direction given under regulation 4A;
+- (b) enforce compliance [^key-82f3f8effb71a3c5b77ee733ef6299ae]... by regulated persons with those obligations, prohibitions and restrictions.
+
+(3) In paragraph (2) references to regulated persons include reference to regulated persons situated outside the United Kingdom.
+
+(4) In discharging its functions mentioned in paragraph (5), the Payment Systems Regulator must have regard to—
+
+- (a) the need to use the resources of the Payment Systems Regulator in the most efficient and economic way;
+- (b) the principle that a burden or restriction which is imposed on a person, or on the carrying on of an activity, should be proportionate to the benefits, in general terms, which are expected to result from the imposition of that burden or restriction;
+- (c)[^key-91cb40925fd7888fe6fd6d7697f5e139] the desirability of sustainable growth in the economy of the United Kingdom in the medium or long term, including in a way consistent with contributing towards achieving compliance by the Secretary of State with—
+  - (i) section 1 (target for 2050) of the Climate Change Act 2008, and
+  - (ii) section 5 (environmental targets: effect) of the Environment Act 2021,
+
+  where the Payment Systems Regulator considers the exercise of its functions to be relevant to the making of such a contribution.
+- (d) the general principle that those who use services provided under payment card schemes should take responsibility for their decisions;
+- (e) the responsibilities of the senior management of regulated persons in relation to compliance with obligations, prohibitions and restrictions imposed by the interchange fee regulation read together with regulations 22 and 23, or imposed under this Part;
+- (f) the desirability where appropriate of the Payment Systems Regulator exercising its functions in a way that recognises differences in the nature of, and objectives of, businesses carried on by different regulated persons;
+- (g) the desirability in appropriate cases of the Payment Systems Regulator publishing information relating to regulated persons, or requiring such persons to publish information;
+- (h) the principle that the Payment Systems Regulator should exercise its functions as transparently as possible.
+
+(5) The functions are—
+
+- (a) the function of giving general directions under regulation 4 and 4A (in each case considered as a whole)[^key-bb57f9fecc2efd4f798763e8be5e2740], [^key-83d3c02b8fa728ac271338eca0a48d17]...
+- (b) functions in relation to giving general guidance under regulation 13 (considered as a whole);
+- (c)[^key-0cea89bb770c075d3decdfcdb77b2392] the function of making technical standards under section 97A of the 2013 Act; and
+- (d) the function of making EU Exit instruments under the Financial Regulators’ Powers (Technical Standards) (Amendment etc.) (EU Exit) Regulations 2018.
+
+### 4. Directions
+
+(1) The Payment Systems Regulator may give a direction in writing to any regulated person.
+
+(2) A direction may be given for the purpose of—
+
+- (a) obtaining information about—
+  - (i) compliance with an obligation, prohibition or restriction imposed by the interchange fee regulation read together with regulations 22 and 23 or by a direction given under regulation 4A[^key-0911d14c3a555a0be7c2a56475010d8d], or
+  - (ii) the application of any such obligation, prohibition or restriction to a person;
+- (b) remedying a failure to comply with an obligation, prohibition or restriction imposed by the interchange fee regulation read together with regulations 22 and 23 or by a direction given under regulation 4A[^key-6a04cfd4eb993751e6bfd2256190f63d];
+- (c) preventing a failure to comply, or continued non-compliance, with such an obligation, prohibition or restriction;
+- (d) providing redress or compensation to a person who has suffered a loss as a result of a failure to comply with such an obligation, prohibition or restriction.
+
+(3) A direction may require or prohibit the taking of specified action.
+
+(4) A direction given for the purpose mentioned at paragraph (2)(b) or (c) may, in particular, require or prohibit the taking of specified action in relation to the rules, practices, standards or implementation guidelines of a payment card scheme, or the terms of agreements between regulated persons.
+
+(5) A direction may apply—
+
+- (a) in relation to all regulated persons or in relation to every regulated person of a specified description; or
+- (b) in relation to a specified regulated person or specified regulated persons.
+
+(6) A direction that applies as mentioned in paragraph (5)(a) is referred to in this Part as a “**general direction**”.
+
+(7) The Payment Systems Regulator must publish any general direction.
+
+### 4A. Directions: payment card schemes[^key-a65b2c064eb8e866e00fa362db910a82]
+
+(1) The Payment Systems Regulator may give a direction in writing to any person who is—
+
+- (a) accountable for the functioning of a payment card scheme;
+- (b) an operator of a payment card scheme;
+- (c) a payment service provider;
+- (d) a processing entity;
+- (e) a technical service provider providing services in relation to a payment card scheme.
+
+(2) A direction under paragraph (1) may be given in relation to—
+
+- (a) the imposition of interchange fees by a payment service provider;
+- (b) the information to be provided in relation to such fees;
+- (c) the operations, rules and practices of a person referred to in paragraph (1), including the information which must be provided by that person to specified people and in specified circumstances;
+- (d) the terms on which payments services are provided in relation to payment card schemes or card-based payment transactions or fees may be charged for those services.
+
+(3) A direction may only be given under paragraph (2)(c) or (d) for the following purposes—
+
+- (a) to ensure the separation of a payment card scheme and processing entities;
+- (b) to regulate the use by a payment card scheme of terms, conditions, practices, rules or restrictions which may affect the cost and ease of—
+  - (i) payees accepting payments by payment card, and
+  - (ii) payers making payments by payment card;
+- (c) to ensure the interoperability of systems in relation to processing entities;
+- (d) to ensure transparency as to the fees charged and the terms on which an individual card-based payment transaction is made;
+- (e) to prevent the use of territorial restrictions within the United Kingdom or rules having an equivalent effect in—
+  - (i) licensing agreements, or
+  - (ii) the rules of a payment card scheme for issuing payment cards or acquiring card-based payment transactions; or
+- (f) to support the co-badging of payment brands or payment applications.
+
+(4) A direction under paragraph (1) may—
+
+- (a) require or prohibit the taking of specified action in relation to any payment card scheme;
+- (b) set standards to be met—
+  - (i) by any person referred to in paragraph (1), or
+  - (ii) by or in relation to any card-based payment transaction or payment card scheme.
+
+(5) A direction setting standards under paragraph (4)(b) may require—
+
+- (a) the establishment of rules relating to—
+  - (i) the operation of a payment card scheme;
+  - (ii) the provision of payment services, payment transaction processing services or technical services in relation to a payment card scheme;
+  - (iii) licensing agreements entered into in relation to a payment card scheme;
+- (b) the amendment of the rules in a specified way or to achieve a specified purpose;
+- (c) the notification to the Payment Systems Regulator of any proposed change to the rules;
+- (d) the approval of the Payment Systems Regulator for any amendment to the rules.
+
+(6) A requirement imposed under paragraph (5)(c) or (d) may be general or specific.
+
+(7) A direction may apply in relation to—
+
+- (a) a specified person,
+- (b) all persons referred to in one or more sub-paragraphs of paragraph (1), or
+- (c) to a specified class of such persons.
+
+(8) A direction that applies as mentioned in paragraph (7)(b) or (c) is referred to in this Part as a “**general direction**”.
+
+(9) The Payment Systems Regulator must publish any general direction.
+
+### 4B. Directions: co-operation between regulators[^key-3e70d7111aa743e5ef67bf254f5f94f4]
+
+For the purposes of section 98 of the 2013 Act (duty of regulators to ensure co-ordinated exercise of functions), the reference in section 98(6)(a) to the interchange fee regulation is to be read as including a reference to a direction given under regulation 4A.
+
+### 4C. Power of FCA to require Regulator to refrain from specified action
+
+For the purposes of section 101 of the 2013 Act (power of FCA to require the Regulator to refrain from specified action), in section 101(2)—
+
+- (a) the reference to “this Part” is to be read as including a reference to regulation 4A;
+- (b) the reference to “a participant in a regulated payment system” is to be read as a person referred to in regulation 4A(1).
+
+### 5. Publication of compliance failures etc
+
+The Payment Systems Regulator may publish details of—
+
+- (a) a compliance failure by a regulated person; or
+- (b) a penalty imposed under regulation 6.
+
+### 6. Penalties
+
+(1) The Payment Systems Regulator may require a regulated person to pay a penalty in respect of a compliance failure.
+
+(2) A penalty—
+
+- (a) must be paid to the Payment Systems Regulator; and
+- (b) may be enforced by the Payment Systems Regulator as a debt.
+
+(3) The Payment Systems Regulator must prepare a statement of the principles which it will apply in determining—
+
+- (a) whether to impose a penalty, and
+- (b) the amount of a penalty.
+
+(4) The Payment Systems Regulator must—
+
+- (a) publish the statement on its website,
+- (b) send a copy to the Treasury,
+- (c) review the statement from time to time and revise it if necessary (and paragraphs (a) and (b) apply to a revision), and
+- (d) in applying the statement to a compliance failure, apply the version in force when the compliance failure occurred.
+
+### 7. Warning notices
+
+Before publishing details of a compliance failure by a regulated person under regulation 5(a) or imposing a penalty on a regulated person under regulation 6, the Payment Systems Regulator must—
+
+- (a) give the person a notice in writing,
+- (b) give the person at least 21 days to make representations,
+- (c) consider any representations made, and
+- (d) as soon as is reasonably practicable, give the person a notice in writing stating whether or not it intends to publish the details or impose the penalty.
+
+### 8. Injunctions
+
+(1) If, on the application of the Payment Systems Regulator, the court is satisfied—
+
+- (a) that there is a reasonable likelihood that there will be a compliance failure, or
+- (b) that there has been a compliance failure and there is a reasonable likelihood that it will continue or be repeated,
+
+the court may make an order restraining the conduct constituting the failure.
+
+(2) If, on the application of the Payment Systems Regulator, the court is satisfied—
+
+- (a) that there has been a compliance failure by a regulated person, and
+- (b) that there are steps which could be taken for remedying the failure,
+
+the court may make an order requiring the regulated person, and anyone else who appears to have been knowingly concerned in the failure, to take such steps as the court may direct to remedy it.
+
+(3) If, on the application of the Payment Systems Regulator, the court is satisfied—
+
+- (a) that there may have been a compliance failure by a regulated person, or
+- (b) that another person may have been knowingly concerned in a compliance failure,
+
+the court may make an order restraining the regulated person or other person (as the case may be) from dealing with any assets which it is satisfied the person is reasonably likely to deal with.
+
+(4) The jurisdiction conferred by this regulation is exercisable—
+
+- (a) in England and Wales and Northern Ireland, by the High Court, and
+- (b) in Scotland, by the Court of Session.
+
+(5) In this regulation—
+
+- (a) references to an order restraining anything are, in Scotland, to be read as references to an interdict prohibiting that thing,
+- (b) references to remedying a failure include mitigating its effect, and
+- (c) references to dealing with assets include disposing of them.
+
+### 9. Appeals: general
+
+(1) A person who is affected by—
+
+- (a) a decision to give a direction under regulation 4 or 4A[^key-eb2869dd74ce367a8990ad2a1e7697f1] other than a general direction, or
+- (b) a decision to publish details under regulation 5(a),
+
+may appeal against the decision to the Competition Appeal Tribunal in accordance with regulation 10.
+
+(2) A person who is affected by a decision to impose a penalty under regulation 6 may appeal against the decision to the Competition Appeal Tribunal in accordance with regulation 11.
+
+### 10. Appeals against directions and publication of compliance failures
+
+(1) This regulation applies where a person is appealing to the Competition Appeal Tribunal (“**the Tribunal**”) against a decision to give a direction under regulation 4 or 4A[^key-015daead782bad5a7ed48065bb96542f] or to publish details under regulation 5(a).
+
+(2) The means of making an appeal is by sending the Tribunal a notice of appeal in accordance with Tribunal rules.
+
+(3) The notice of appeal must be sent within the period specified, in relation to the decision appealed against, in those rules.
+
+(4) In determining an appeal made in accordance with this regulation, the Tribunal must apply the same principles as would be applied by a court on an application for judicial review.
+
+(5) The Tribunal must either—
+
+- (a) dismiss the appeal, or
+- (b) quash the whole or part of the decision to which the appeal relates.
+
+(6) If the Tribunal quashes the whole or part of a decision, it may refer the matter back to the Payment Systems Regulator with a direction to reconsider and make a new decision in accordance with its ruling.
+
+(7) The Tribunal may not direct the Payment Systems Regulator to take any action which it would not otherwise have the power to take in relation to the decision.
+
+(8) In this regulation and regulation 11 “**Tribunal rules**” means rules under section 15 of the Enterprise Act 2002 [^c22693521].
+
+### 11. Appeals in relation to penalties
+
+(1) This regulation applies where a person is appealing to the Competition Appeal Tribunal (“**the Tribunal**”) against a decision to impose a penalty under regulation 6.
+
+(2) The person may appeal against—
+
+- (a) the imposition of the penalty,
+- (b) the amount of the penalty, or
+- (c) any date by which the penalty, or any part of it, is required to be paid.
+
+(3) The means of making an appeal is by sending the Tribunal a notice of appeal in accordance with Tribunal rules.
+
+(4) The notice of appeal must be sent within the period specified, in relation to the decision appealed against, in those rules.
+
+(5) The Tribunal may do any of the following—
+
+- (a) uphold the penalty;
+- (b) set aside the penalty;
+- (c) substitute for the penalty a penalty of an amount decided by the Tribunal;
+- (d) vary any date by which the penalty, or any part of it, is required to be paid.
+
+(6) If an appeal is made in accordance with this regulation, the penalty is not required to be paid until the appeal has been determined.
+
+(7) Paragraphs (2), (5) and (6) do not restrict the power to make Tribunal rules; and those paragraphs are subject to Tribunal rules.
+
+(8) Except as provided by this regulation, the validity of the penalty may not be questioned by any legal proceedings whatever.
+
+(9) In the case of an appeal made in accordance with this regulation, a decision of the Tribunal has the same effect as, and may be enforced in the same manner as, a decision of the Payment Systems Regulator.
+
+### 12. Payees' complaints and dispute resolution
+
+(1) This regulation applies where a payee makes an application to the Payment Systems Regulator seeking resolution of a dispute between the payee and the payee's payment service provider arising under the interchange fee regulation read together with regulation 23 and any direction given under regulation 4A[^key-cd96438415be79bfa875966338f949f5].
+
+(2) If the payee's complaint appears to the Payment Systems Regulator to be justified, the Payment Systems Regulator—
+
+- (a) must consider whether to exercise its powers under these Regulations in relation to any suspected compliance failure by the payment service provider; and
+- (b) may take any other steps it considers appropriate for the purpose of seeking resolution of the dispute.
+
+### 13. Guidance
+
+(1) The Payment Systems Regulator may give guidance consisting of such information and advice as it considers appropriate—
+
+- (a) with respect to the operation of specified provisions of the interchange fee regulation and these Regulations;
+- (b) with respect to any other matter relating to its functions under the interchange fee regulation and these Regulations;
+- (c) with respect to any other matters about which it appears to the Payment Systems Regulator to be desirable to give information or advice.
+
+(2) Guidance given by the Payment Systems Regulator under this regulation—
+
+- (a) may be given to persons generally or to a class of persons;
+- (b) may be intended to have continuing effect, and
+- (c) may be given in writing or other legible form.
+
+(3) Guidance which is given as described in paragraph (2)(a), (b) and (c) is referred to in this Part as “**general guidance**”.
+
+(4) The Payment Systems Regulator may give financial or other assistance to persons giving information or advice of a kind which the Payment Systems Regulator could give under this regulation.
+
+(5) The Payment Systems Regulator may—
+
+- (a) publish its guidance,
+- (b) offer copies of its published guidance for sale at a reasonable price, and
+- (c) if it gives guidance in response to a request made by any person, make a reasonable charge for that guidance.
+
+### 14. Information and investigation
+
+(1) Sections 81 to 93 of the 2013 Act (information and investigation powers and disclosure of information) apply for the purposes of the Payment Systems Regulator's functions under the interchange fee regulation and these Regulations as if—
+
+- (a) references to Part 5 of the 2013 Act were references to the interchange fee regulation and these Regulations;
+- (b) references to a participant in a regulated payment system were references to a regulated person and references to participation in a payment system were references to compliance with the interchange fee regulation read together with regulation 23 and with a direction given under regulation 4A[^key-22e0b358c825fd8ce9a06ab595aea716];
+- (c) references to a compliance failure were references to a compliance failure as defined in regulation 2(1);
+- (d) in section 81 (power to obtain information or documents), subsection (1)(a) were omitted;
+- (e) in section 83 (appointment of persons to conduct investigations), subsection (1) were omitted;
+- (f) in section 90 (enforcement of information and investigation powers)—
+  - (i) in subsection (7)(a)(i) for “ the general limit in a magistrates’ court[^key-fdf2b6ac246e0bec47c657903df82c7d] (or 6 months, if the offence was committed before 2nd May 2022[^key-afdeb66fcd0dd27891279feb717ec91f])” there were substituted “ 3 months ”;
+  - (ii) in subsection (7)(a)(iii) for “6 months” there were substituted “ 3 months ”; and
+  - (iii) in subsection (8)(a) for “51 weeks (or 3 months, if the offence was committed before the commencement of section 280(2) of the Criminal Justice Act 2003)” there were substituted “ 3 months ”;
+- (g) in section 91 (restrictions on disclosure of confidential information), subsection (6) were omitted; and
+- (h) in section 93 (offences relating to disclosure of confidential information), in subsection (4)(a) for “51 weeks (or 3 months, if the offence was committed before the commencement of section 280(2) of the Criminal Justice Act 2003)” there were substituted “ 3 months ”.
+
+(2) The Financial Services (Banking Reform) Act 2013 (Disclosure of Confidential Information) Regulations 2014 [^c22693531] (“**the 2014 Regulations**”) apply for the purposes of the Payment Systems Regulator's functions under the interchange fee regulation and these Regulations as if—
+
+- (a) the reference in regulation 5(3)(a) of the 2014 Regulations (disclosure for the purposes of certain other proceedings) to Part 5 of the 2013 Act were a reference to the interchange fee regulation and these Regulations; and
+- (b) the following entry were included in the table in the Schedule to the 2014 Regulations (persons and functions in respect of which disclosure is permitted)—
+
+  > |  |  |
+  > | --- | --- |
+  > | The Competition and Markets Authority; local weights and measures authorities in Great Britain; and the Department for the Economy in Northern Ireland[^key-eb87e0411b8b3f4b7fe515bd9c09660e] | - (a) Their functions under Part 3 of the Digital Markets, Competition and Consumers Act 2024 (enforcement of consumer protection law) in so far as they relate to Article 10(4) of [Regulation (EU) 2015/751](https://www.legislation.gov.uk/european/regulation/2015/0751) of the European Parliament and of the Council of 29th April 2015 on interchange fees for card-based payment transactions.<br>- (b) Co-operation with the Payment Systems Regulator under regulation 20 of the Payment Card Interchange Fee Regulations 2015 (co-operation between the Payment Systems Regulator and enforcers). |
+
+  .
+
+### 15. Application of other provisions of the 2013 Act
+
+(1) For the purposes of these Regulations section 40(3) and (4) of the 2013 Act (Financial Conduct Authority to ensure capability of Payment Systems Regulator) applies as if the reference in section 40(3) of that Act to the functions conferred on the Payment Systems Regulator by or under Part 5 of that Act were a reference to the functions of the Payment Systems Regulator under the interchange fee regulation and these Regulations.
+
+(2) For the purposes of these Regulations section 104 of the 2013 Act (consultation in relation to generally applicable requirements) applies as if—
+
+- (a) in subsection (1)—
+  - (i) the reference in paragraph (a) to a general direction under section 54 of that Act were a reference to a general direction under regulation 4 or 4A[^key-060df3041a083c137446ff5948c8aaeb];
+  - (ii) paragraph (b) were omitted;
+- (b) in subsection (3)(c), the reference to the Payment Systems Regulator's duties under section 49 were a reference to the Payment Systems Regulator's duties under regulation 3(2) and (4) (duties to maintain arrangements for supervision and compliance and to have regard to regulatory principles); and
+- (c) in subsection (10), the reference to regulated payment systems were a reference to regulated persons.
+
+(3) For the purposes of these Regulations paragraphs 5, 7 and 9 to 14 of Schedule 4 to the 2013 Act (the Payment Systems Regulator) apply as if—
+
+- (a) references to the functions of the Payment Systems Regulator by or under Part 5 of the 2013 Act were references to the functions of the Payment Systems Regulator under the interchange fee regulation and these Regulations;
+- (b) in paragraph 5 of that Schedule (arrangements for discharging functions)—
+  - (i) in sub-paragraph (3), the reference to general directions under section 54 of the 2013 Act were a reference to general directions under regulation 4 or 4A[^key-017debc3b9851c31a4503b480da38f5d];
+  - (ii) sub-paragraph (3)(b) were omitted;
+  - (iii) in sub-paragraph (4), the reference to general guidance were a reference to general guidance under regulation 13;
+- (c) in paragraph 7 of that Schedule (annual report), sub-paragraph (2)(b) were omitted;
+- (d) in paragraph 9 (funding) of that Schedule, in sub-paragraph (1) the reference to participants in regulated payment systems were a reference to regulated persons;
+- (e) in paragraph 10 of that Schedule (penalty receipts)—
+  - (i) references to penalties imposed under section 73 of the 2013 Act were references to penalties imposed under regulation 6;
+  - (ii) in sub-paragraph (4)—
+    - (aa) in paragraph (a) the reference to the Payment Systems Regulator's powers under sections 72 to 75 of the 2013 Act were a reference to the Payment Systems Regulator's powers under regulations 5 to 8;
+    - (bb) paragraph (b) were omitted;
+    - (cc) in paragraphs (c) and (d) the reference to relevant offences were to offences under Part 5 of the 2013 Act as applied by regulation 14; and
+  - (iii) sub-paragraph (5) were omitted; and
+- (f) in paragraph 11 of that Schedule (penalty receipts)—
+  - (i) in sub-paragraph (1), the reference to penalties imposed under section 73 of the 2013 Act were a reference to penalties imposed under regulation 6; and
+  - (ii) in sub-paragraphs (1) and (2), the references to participants in regulated payment systems were references to regulated persons.
+
+## PART 3 — The Financial Conduct Authority
+
+### 16. Designation as a competent authority[^key-175a9435b699db125eaeb2f386b0fcac]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Amendment of the Payment Services Regulations 2009
+
+(1) The Payment Services Regulations 2009 [^c22693541] are amended as follows.
+
+(2) After regulation 80 (functions of the Authority) insert—
+
+> **80A. Application of this Part to requirements of the Interchange Fee Regulation**
+>
+> (1) For the purposes of this Part with the exception of regulation 92A and Schedule 4A—
+>
+> - (a) the requirements imposed on payment services providers by Articles 8(2), 9(2) and 12 of the interchange fee regulation are to be treated as if they were included in Part 5 of these Regulations, and
+> - (b) the requirements imposed on payment services providers by Articles 8(5) and (6), 9(1), 10(1) and (5) and 11 of the interchange fee regulation are to be treated as if they were included in Part 6 of these Regulations.
+>
+> (2) In paragraph (1) “**the interchange fee regulation**” means Regulation (EU) 2015/751 of the European Parliament and of the Council of 29th April 2015 on interchange fees for card-based payment transactions.
+
+.
+
+(3) In paragraph 10 of Schedule 5 (application and modification of the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001)—
+
+- (a) for sub-paragraph (a)(i) substitute—
+
+  > - (i) in the definition of “EEA competent authority” after “single market directives” insert “ , the payment services directive, Regulation (EU) 2015/751 of the European Parliament and of the Council of 29th April 2015 on interchange fees for card-based payment transactions ”;
+- (b) after sub-paragraph (a)(iii) insert—
+
+  > - (iv) in the definition of “single market restrictions” after paragraph (m) insert—
+  >
+  >   > - (n) article 22 of the payment services directive;
+  >
+  >   ;
+
+  ;
+- (c) for sub-paragraph (e)(i) substitute—
+
+  > - (i) in paragraph (1) after “paragraphs” insert “ (1B) ”;
+
+  ;
+- (d) in sub-paragraph (e)(ii)—
+  - (i) for “(3B)” substitute “ (1A) ”;
+  - (ii) renumber the inserted paragraph (4) as paragraph (1B); and
+  - (iii) in that inserted paragraph, for “Part 5” substitute “ Part 4A ”; and
+- (e) in sub-paragraph (h), renumber the inserted Part 5 as Part 4A.
+
+## PART 4 — General enforcers under Part 8 of the Enterprise Act 2002
+
+### 18. Amendment of the Enterprise Act 2002
+
+(1) The Enterprise Act 2002 [^c22693551] is amended as follows.
+
+(2) In Part 2 of Schedule 13 (listed Directives and Regulations) [^c22693561], after paragraph 14 insert—
+
+> **15.**
+>
+> Article 10(4) of Regulation (EU) 2015/751 of the European Parliament and of the Council of 29th April 2015 on interchange fees for card-based payment transactions.
+
+.
+
+(3) In Schedule 15 (enactments conferring functions) [^c22693571] at the end insert—
+
+> The Payment Card Interchange Fee Regulations 2015.
+
+.
+
+## PART 5 — Co-operation between regulators
+
+### 19. Amendment of the 2013 Act
+
+In section 98 of the 2013 Act (duty of regulators to ensure co-ordinated exercise of functions)—
+
+- (a) in subsection (5)—
+  - (i) in paragraph (a), after “this Part” insert “ or Part 2 of the Payment Card Interchange Fee Regulations 2015 ”;
+  - (ii) in paragraph (c), after “(see section 1A(6) of that Act)” insert “ or Part 3 of the Payment Card Interchange Fee Regulations 2015 ”;
+- (b) in subsection (6)—
+  - (i) in paragraph (a), after “payment systems objectives” insert “ and ensuring compliance with the interchange fee regulation (see Part 2 of the Payment Card Interchange Fee Regulations 2015) ”;
+  - (ii) in paragraph (c), after “FSMA 2000” insert “ and ensuring compliance with Articles 8(2), (5) and (6), 9, 10(1) and (5), 11 and 12 of the interchange fee regulation (see Part 3 of the Payment Card Interchange Fee Regulations 2015) ”;
+- (c) after subsection (6) insert—
+
+  > (7) In subsection (6) “**the interchange fee regulation**” means Regulation (EU) 2015/751 of the European Parliament and of the Council of 29th April 2015 on interchange fees for card-based payment transactions.
+
+  .
+
+### 20. Co-operation between the Payment Systems Regulator and enforcers[^key-036b0cae193f7be65f95a3b66d5f128a]
+
+The Payment Systems Regulator and, in the context of their functions under Part 3 of the Digital Markets, Competition and Consumers Act 2024 (enforcement of consumer protection law), the Competition and Markets Authority, local weights and measures authorities in Great Britain and the Department for the Economy in Northern Ireland, must take such steps as they consider appropriate to co-operate with each other for the purposes of the exercise of their functions in relation to Article 10(4) of the interchange fee regulation.
+
+### 21. Co-operation with competent authorities in other Member States[^key-db0ec9ed3241c0f1d146b0b586d2bf21]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 6 — Transitional relief from requirements of the interchange fee regulation
+
+### 22. Exemption from maximum interchange fees for certain three party payment card schemes[^key-3e3224cb3fa57b25c7c772f09900ceaa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Weighted average interchange fees for UK debit card transactions[^key-ff0d0fc2c45932ebb3c64c65a95be914]
+
+Until 9th December 2020—
+
+- (a) payment service providers need not comply with Article 3(1) (maximum interchange fees for consumer debit card transactions) of the interchange fee regulation in relation to UK debit card transactions;
+- (b) payment service providers that do not comply with Article 3(1) of the interchange fee regulation in relation to UK debit card transactions must apply to such transactions within each payment card scheme a weighted average interchange fee of no more than the equivalent of 0.2% of the annual average transaction value of all UK debit card transactions within that scheme.
+
+## PART 7 — Review
+
+### 24. Review
+
+(1) The Treasury must from time to time—
+
+- (a) carry out a review of these Regulations,
+- (b) set out the conclusions of the review in a report, and
+- (c) publish the report.
+
+(2)[^key-273f5906cb9b6b2fb4b9ea27ca82726e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations,
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the day on which these Regulations come into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+David Evennett
+
+George Hollingbery
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations comply with the obligations to designate competent authorities, lay down rules on penalties and take measures for the settlement of disputes under Articles 13 to 15 of Regulation (EU) 2015/751 of the European Parliament and of the Council of 29th April 2015 on interchange fees for card-based payment transactions (OJ L 123, 19.5.2013, p.1.) (“**the interchange fee regulation**”). They also exercise in the United Kingdom the options under Articles 1(5) and 3(3) of the interchange fee regulation to grant relief from some requirements of the interchange fee regulation for a limited time.
+
+Part 2 designates the Payment Systems Regulator as a competent authority in the United Kingdom for the interchange fee regulation and sets out the duties and powers of the Payment Systems Regulator in that role. The regulatory regime set out in Part 2 is closely aligned to the existing regime overseen by the Payment Systems Regulator under Part 5 of the Financial Services (Banking Reform) Act 2013 (c. 33).
+
+Part 3 designates the Financial Conduct Authority as a competent authority in the United Kingdom for certain provisions of the interchange fee regulation, and amends the Payment Services Regulations 2009 (S.I. 2009/209) so that the relevant requirements of the interchange fee regulation are treated as being requirements imposed by those Regulations. The Financial Conduct Authority may act under the Payment Services Regulations 2009 to supervise and enforce compliance with those requirements by firms regulated under those Regulations.
+
+Part 4 adds Article 10(4) of the interchange fee regulation (which requires payees to inform consumers if they do not accept all cards issued under a payment card scheme) to Schedule 13 of the Enterprise Act 2002 (c. 40) so that the Competition and Markets Authority, local weights and measures authorities in Great Britain and the Department of Enterprise, Trade and Investment in Northern Ireland may enforce a contravention of Article 10(4) which harms the collective interests of consumers under Part 8 of the Enterprise Act 2002.
+
+Part 5 amends provisions in the Financial Services (Banking Reform) Act 2013, which require co-operation between the Payment Systems Regulator, the Financial Conduct Authority, the Bank of England and the Prudential Regulation Authority, such that those co-operation requirements include the functions of the Payment Systems Regulator and Financial Conduct Authority in relation to the interchange fee regulation. Part 5 also requires co-operation between the Payment Systems Regulator and the Competition and Markets Authority, local weights and measures authorities in Great Britain and the Department of Enterprise, Trade and Investment in Northern Ireland.
+
+Part 6 exercises the option in Article 1(5) of the interchange fee regulation, exempting from the interchange fee cap until 9th December 2018 domestic transactions under any three party payment card scheme which is considered to be a four party payment card scheme pursuant to Article 1(5) of the interchange fee regulation, and which does not exceed the market share set out in Article 1(5). Part 6 also exercises the option in Article 3(3) of the interchange fee regulation, allowing payment service providers to apply the interchange fee cap on a weighted average basis for domestic debit card transactions, until 9th December 2020.
+
+Part 7 provides for the Treasury to review the Regulations at intervals not exceeding five years. In addition, Article 17 of the interchange fee regulation requires the European Commission to review the application of the interchange fee regulation by 9th June 2019.
+
+A full Impact Assessment of the effect that these Regulations will have on the costs of business and the voluntary sector is available from Her Majesty's Treasury, 1 Horse Guards Road, London SW1A 2HQ or on HM Treasury's website (www.gov.uk/government/organisations/hm-treasury) and is published with the Explanatory Memorandum alongside these Regulations on the legislation.gov.uk website.
+
+## Annotations
+
+[^c22693481]: Marginal citation: [S.I. 2012/1759](https://www.legislation.gov.uk/uksi/2012/1759).
+
+[^c22693491]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c. 51) and the European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7), [Sch](https://www.legislation.gov.uk/ukpga/2008/7/schedule)edule, Part 1. By virtue of the amendment of section 1(2) by section 1 of the [European Economic Area Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) legislation may be made under section 2(2) of the European Communities Act to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1992 (Cm 2183).
+
+[^key-ca634ecdff0ca7e0de8405f2882028af]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2015/1911): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^c22693501]: Marginal citation: [2013 c. 33](https://www.legislation.gov.uk/ukpga/2013/33).
+
+[^key-8a4524f3f918a6f8a9e4457070fe5a46]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/2/1) inserted (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/2/a)
+
+[^key-76f99a99e09ea22c1c30d3b439343b3a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/2/1) inserted (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/2/b)
+
+[^key-93120460c50618963b3d0c9522792051]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/2/1) inserted (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(2)(c)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/2/c)
+
+[^key-01f3e1b88cf759b8e93979caaae0f7f9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/2/1) inserted (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(2)(d)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/2/d)
+
+[^c22693511]: Marginal citation: OJ L 123, 19.5.2013, p.1.
+
+[^key-414d55dc0f1a4f325f541a5afc84b9c6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/2/1) inserted (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(2)(e)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/2/e)
+
+[^key-87a0ede266c132eb0249626ef381ece2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/2/1) substituted (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(2)(f)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/2/f)
+
+[^key-ab333c16795fd4429554aa3f74294e15]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/2/1A) inserted (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(2)(g)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/2/g)
+
+[^key-b030bda88c52cd0166c970ef50f913e7]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1911/regulation/3) heading substituted (31.12.2020) by [The Interchange Fee (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/284)](https://www.legislation.gov.uk/uksi/2019/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/284/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2019/284/regulation/2/2/c) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c2770c5d7694d42687ccb8f5a3a72a34]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/3/1) omitted (31.12.2020) by virtue of [The Interchange Fee (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/284)](https://www.legislation.gov.uk/uksi/2019/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/284/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/284/regulation/2/2/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-afdf26066edad91d67397a969c4d9568]: Textual amendment: Reg. 3(2)(a) substituted (26.10.2018) by [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [11(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/11/2/a/i)
+
+[^key-8451e9314f78de311d3f473834a96871]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/3/2/a) omitted (31.12.2020) by virtue of [The Interchange Fee (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/284)](https://www.legislation.gov.uk/uksi/2019/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/284/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/284/regulation/2/2/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0abc3785737033d7eed725abeacb0c3a]: Textual amendment: Word in [reg. 3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/3/2/a/i) omitted (1.1.2024) by virtue of [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/3/a/i)
+
+[^key-24ee8f08ee7f4f2a5f8e72ce81ff5e3c]: Textual amendment: [Reg. 3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/3/2/a/iii) and word inserted (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/3/a/ii)
+
+[^key-82f3f8effb71a3c5b77ee733ef6299ae]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/3/2/b) omitted (31.12.2020) by virtue of [The Interchange Fee (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/284)](https://www.legislation.gov.uk/uksi/2019/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/284/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/284/regulation/2/2/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-91cb40925fd7888fe6fd6d7697f5e139]: Textual amendment: Reg. 3(4)(c) substituted (1.1.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)(3)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b/3/b), [3(3)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/3/b); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 12(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/12/a) (with [reg. 16(1)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/16/1))
+
+[^key-bb57f9fecc2efd4f798763e8be5e2740]: Textual amendment: Words in [reg. 3(5)(a)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/3/5/a) substituted (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(3)(c)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/3/c)
+
+[^key-83d3c02b8fa728ac271338eca0a48d17]: Textual amendment: Word in reg. 3(5)(a) omitted (26.10.2018) by virtue of [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [11(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/11/2/b/i)
+
+[^key-0cea89bb770c075d3decdfcdb77b2392]: Textual amendment: Reg. 3(5)(c)(d) inserted (26.10.2018) by [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [11(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/11/2/b/ii)
+
+[^key-0911d14c3a555a0be7c2a56475010d8d]: Textual amendment: Words in [reg. 4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/4/2/a/i) inserted (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(4)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/4)
+
+[^key-6a04cfd4eb993751e6bfd2256190f63d]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/4/2/b) inserted (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(4)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/4)
+
+[^key-a65b2c064eb8e866e00fa362db910a82]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2015/1911/regulation/4A) inserted (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(5)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/5)
+
+[^key-3e70d7111aa743e5ef67bf254f5f94f4]: Textual amendment: [Regs. 4B](https://www.legislation.gov.uk/uksi/2015/1911/regulation/4B), [4C](https://www.legislation.gov.uk/uksi/2015/1911/regulation/4C) inserted (1.1.2024) by [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/1410/regulation/10)
+
+[^key-eb2869dd74ce367a8990ad2a1e7697f1]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/9/1/a) inserted (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(6)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/6)
+
+[^key-015daead782bad5a7ed48065bb96542f]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/10/1) inserted (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(7)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/7)
+
+[^c22693521]: Marginal citation: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40). Section 15 was amended by paragraph 20 of Schedule 8 to the [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15).
+
+[^key-cd96438415be79bfa875966338f949f5]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/12/1) substituted (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(8)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/8)
+
+[^key-22e0b358c825fd8ce9a06ab595aea716]: Textual amendment: Words in [reg. 14(1)(b)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/14/1/b) substituted (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(9)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/9)
+
+[^key-fdf2b6ac246e0bec47c657903df82c7d]: Textual amendment: Words in [reg. 14(1)(f)(i)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/14/1/f/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
+
+[^key-afdeb66fcd0dd27891279feb717ec91f]: Textual amendment: Words in [reg. 14(1)(f)(i)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/14/1/f/i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/2)
+
+[^c22693531]: Marginal citation: [S.I. 2014/882](https://www.legislation.gov.uk/uksi/2014/882).
+
+[^key-eb87e0411b8b3f4b7fe515bd9c09660e]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2015/1911/regulation/14) substituted (6.4.2025) by [The Digital Markets, Competition and Consumers Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/381)](https://www.legislation.gov.uk/uksi/2025/381), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/381/regulation/1/2), [Sch. para. 37(2)](https://www.legislation.gov.uk/uksi/2025/381/schedule/paragraph/37/2)
+
+[^key-060df3041a083c137446ff5948c8aaeb]: Textual amendment: Words in [reg. 15(2)(a)(i)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/15/2/a/i) inserted (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(10)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/10)
+
+[^key-017debc3b9851c31a4503b480da38f5d]: Textual amendment: Words in [reg. 15(3)(b)(i)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/15/3/b/i) inserted (1.1.2024) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/b), [3(10)](https://www.legislation.gov.uk/uksi/2023/790/regulation/3/10)
+
+[^key-175a9435b699db125eaeb2f386b0fcac]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/1911/regulation/16) omitted (31.12.2020) by virtue of [The Interchange Fee (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/284)](https://www.legislation.gov.uk/uksi/2019/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/284/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2019/284/regulation/2/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22693541]: Marginal citation: [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209).
+
+[^c22693551]: Marginal citation: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^c22693561]: Marginal citation: [Part 2](https://www.legislation.gov.uk/uksi/2015/1911/part/2) of Schedule 13 was amended by [S.I. 2005/2759](https://www.legislation.gov.uk/uksi/2005/2759), 2008/1277, 2011/1208 and 2015/542 and 1392.
+
+[^c22693571]: Marginal citation: There are amendments to Schedule 15 but none is relevant to these Regulations.
+
+[^key-036b0cae193f7be65f95a3b66d5f128a]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2015/1911/regulation/20) substituted (6.4.2025) by [The Digital Markets, Competition and Consumers Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/381)](https://www.legislation.gov.uk/uksi/2025/381), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/381/regulation/1/2), [Sch. para. 37(3)](https://www.legislation.gov.uk/uksi/2025/381/schedule/paragraph/37/3)
+
+[^key-db0ec9ed3241c0f1d146b0b586d2bf21]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/1911/regulation/21) omitted (31.12.2020) by virtue of [The Interchange Fee (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/284)](https://www.legislation.gov.uk/uksi/2019/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/284/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2019/284/regulation/2/4) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3e3224cb3fa57b25c7c772f09900ceaa]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/1911/regulation/22) omitted (31.12.2020) by virtue of [The Interchange Fee (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/284)](https://www.legislation.gov.uk/uksi/2019/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/284/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2019/284/regulation/2/5) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ff0d0fc2c45932ebb3c64c65a95be914]: Textual amendment: Word in [reg. 23](https://www.legislation.gov.uk/uksi/2015/1911/regulation/23) substituted (31.12.2020) by [The Interchange Fee (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/284)](https://www.legislation.gov.uk/uksi/2019/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/284/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2019/284/regulation/2/6) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-273f5906cb9b6b2fb4b9ea27ca82726e]: Textual amendment: [Reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/24/2) omitted (31.12.2020) by virtue of [The Interchange Fee (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/284)](https://www.legislation.gov.uk/uksi/2019/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/284/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2019/284/regulation/2/7) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

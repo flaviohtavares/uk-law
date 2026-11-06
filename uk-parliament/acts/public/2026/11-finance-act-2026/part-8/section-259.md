@@ -1,0 +1,65 @@
+---
+title: Finance Act 2026, section 259
+act: Finance Act 2026
+section: '259'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/259
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2026, section 259
+
+> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 259. Penalties: amendments consequential on section 258 etc
+
+*Extent: E+W+S+N.I.*
+
+(1) Schedule 24 to FA 2021 (penalties for failure to make returns etc) is amended as follows.
+
+(2) In paragraph 2 (returns), in the Table—
+
+- (a) in the entry in item 1, in columns A and B—
+  - (i) in paragraph (1), for “return under section 8” substitute “return, accounts, statements or documents required under section 8”;
+  - (ii) omit paragraph (2);
+- (b) in the entry in item 2, in columns A and B—
+  - (i) in paragraph (1), for “return under section 8A” substitute “return, accounts, statements or documents required under section 8A”;
+  - (ii) omit paragraph (2);
+- (c) in the entries in item 1 and 2, in column B, omit paragraph (3);
+- (d) in the entry in item 3, in column A—
+  - (i) in paragraph (1), for “return under section 12AA(2)(a) or (3)(a)” substitute “return, accounts, statements or documents required under section 12AA(2) or (3)”;
+  - (ii) omit paragraph (2).
+
+(3) In paragraph 2 (returns), omit sub-paragraphs (3) and (4).
+
+(4) In paragraph 5 (liability to penalty points)—
+
+- (a) in sub-paragraph (2)—
+  - (i) in the opening words for “the following groups of returns” substitute “group 4A, 4B or 4C”;
+  - (ii) omit paragraphs (a) and (b);
+- (b) omit sub-paragraph (4).
+
+(5) In paragraph 6 (award of penalty points), in sub-paragraph (3)(b), omit “(3) or”.
+
+(6) In paragraph 15, omit sub-paragraph (6).
+
+(7) In paragraph 17 (time limit for assessments), in sub-paragraph (1)(b), omit “(3) or”.
+
+(8) In Schedule 25 to FA 2021 (penalties for deliberately withholding information), in paragraph 1—
+
+- (a) in the Table—
+  - (i) for “section 8(1AB)(b)” substitute “section 8(1)(b)”;
+  - (ii) for “section 8A(1AB)(b)” substitute “section 8A(1)(b)”;
+- (b) omit sub-paragraphs (3) and (4).
+
+(9) The amendments made by subsections (2)(c), (3) and (8)(b) come into force on the day on which this Act is passed.
+
+(10) The other amendments made by this section come into force—
+
+- (a) for the purposes for which the Schedule being amended is in force immediately before 1 April 2026, on 1 April 2026, and
+- (b) for any other purposes, at the same time as the Schedule being amended comes into force for those purposes.

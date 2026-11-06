@@ -1,0 +1,30 @@
+---
+title: Financial Services Act 2012, section 118
+act: Financial Services Act 2012
+section: '118'
+status: revised-with-pending-changes
+text_date: '2026-07-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2012/21/section/118
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Financial Services Act 2012, section 118
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-07-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/21
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 118. Power to make further consequential amendments etc
+
+*Extent: E+W+S+N.I.*
+
+(1) The Treasury or the Secretary of State may by order make such provision amending, repealing, revoking or applying with modifications any enactment to which this section applies as they consider necessary or expedient in consequence of any provision made by or under this Act.
+
+(2) This section applies to—
+
+- (a) any enactment passed or made before the passing of this Act, and
+- (b) any enactment passed or made on or before the last day of the Session in which this Act is passed.
+
+(3) Amendments and repeals made under this section are additional to those made by or under any other provision of this Act.

@@ -1,0 +1,23 @@
+---
+title: The Virgin Islands Constitution Order 2007, section 4
+act: The Virgin Islands Constitution Order 2007
+section: '4'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/1678/section/4
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Virgin Islands Constitution Order 2007, section 4
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 4. Appointments
+
+(1) In this Constitution, unless it is otherwise provided or required by the context, any reference to power to make appointments to any office shall be construed as including a reference to power to make appointments on promotion or transfer to that office and to power to appoint a person to perform the functions of that office during any period when it is vacant or the holder of it is unable (whether by reason of absence or infirmity of body or mind or any other cause) to perform those functions.
+
+(2) Where by this Constitution any person is directed, or power is conferred on any person or authority to appoint a person, to perform the functions of an office if the holder of that office is unable to perform those functions, the validity of any performance of those functions by the person so directed or of any appointment made in exercise of that power shall not be called in question in any court on the ground that the holder of the office is not unable to perform the functions of that office.
+
+(3) Where this Constitution vests in any person power to make appointments to any office, a person may be appointed to that office, notwithstanding that some other person may be holding that office, when that other person is on leave of absence pending relinquishment of that office; and where two or more persons are holding the same office by reason of an appointment made in pursuance of this subsection, then, for the purposes of any function conferred on the holder of that office, the person last appointed to the office shall be deemed to be the sole holder of the office.

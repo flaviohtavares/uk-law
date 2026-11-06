@@ -1,0 +1,201 @@
+---
+title: The Common Agricultural Policy and Agriculture and Horticulture Development Board (Amendment etc.) (EU Exit) Regulations 2019
+id: uksi/2019/733
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-03-28'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/733
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/733/pdfs/uksiem_20190733_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/733/pdfs/uksi_20190733_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/733/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Common Agricultural Policy and Agriculture and Horticulture Development Board (Amendment etc.) (EU Exit) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 733
+
+Exiting The European Union
+
+Agriculture
+
+The Common Agricultural Policy and Agriculture and Horticulture Development Board (Amendment etc.) (EU Exit) Regulations 2019
+
+Made
+
+28th March 2019
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23687611].
+
+In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## 1. Citation and commencement[^key-e18f3254ed95fec7e6733d8d1d0fac6d]
+
+These Regulations may be cited as the Common Agricultural Policy and Agriculture and Horticulture Development Board (Amendment etc.) (EU Exit) Regulations 2019 and come into force on exit day.
+
+## 2. Amendment to the Environmental Stewardship (England) Regulations 2005[^key-2cdfff9f3dd39b764cb5edc60a12afe4]
+
+In regulation 3(3) of the Environmental Stewardship (England) Regulations 2005 [^c23687621], for “the EU Treaties” substitute “ retained EU law ”.
+
+## 3. Amendments to the Agriculture and Horticulture Development Board Order 2008[^key-4ade6ef85cf315a2f65b5e4079423443]
+
+In Schedule 3 to the Agriculture and Horticulture Development Board Order 2008 [^c23687631]—
+
+- (a) in paragraph 4(1), for “from another member State” substitute “ into the United Kingdom ”;
+- (b) in paragraph 16(2), for “another” substitute “ a ”.
+
+## 4. Amendments to the Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014[^key-8fc75cf39162ac53b045131351414525]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendments to the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^key-7d8e77da229f9e2b8341888d512e0597]
+
+(1) The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 [^c23687661] are amended as follows.
+
+(2) In regulation 2(1)—
+
+- (a) after the definition of “beneficiary”, insert—
+
+  > “**CMO support**” means financial support granted under—
+  >
+  > - (a) Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products (“Regulation 1308/2013”);
+  > - (b) any regulations made under, or delegated or implementing acts adopted on the basis of, Regulation 1308/2013;
+  > - (c) any delegated or implementing acts adopted on the basis of Council Regulation (EC) No1234/2007 establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products;
+  > - (d) Regulation (EU) No 1144/2014 of the European Parliament and of the Council on information provision and promotion measures concerning agricultural products implemented in the internal market and in third countries (“Regulation 1144/2014”);
+  > - (e) any regulations made under, or delegated or implementing acts adopted on the basis of, Regulation 1144/2014;
+
+  ;
+- (b)[^key-8dcba91626cdb0148879ffd412efd348] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) omit the definitions of “EAFRD” and “EAGF”.
+
+(3) In regulation 10, for paragraph (7) substitute—
+
+> (7) An authorised person entering any land or premises by virtue of this regulation may be accompanied by such other persons as the authorised person considers necessary for any purpose mentioned in paragraph (1).
+
+.
+
+(4) In regulation 20—
+
+- (a) in the definition of “authorised person”, in paragraph (b), omit “EU”;
+- (b) for the defined term “EU debt” substitute “ debt ”;
+- (c) for the definition of “EU requirement” substitute—
+
+  > “**EU requirement**” means, in relation to a regulated transaction, a requirement specified by or in pursuance of—
+  >
+  > - (a) EU law prior to exit day;
+  > - (b) retained EU law;
+
+  ;
+- (d) in the definitions of “regulated transaction”, “specified beneficiary” and “specified contributor”, for “the EAGF” substitute “ CMO support ”.
+
+(5) In regulation 21, for paragraph (6) substitute—
+
+> (6) An authorised person entering any land or premises by virtue of this regulation may be accompanied by such other persons as the authorised person considers necessary for any purpose mentioned in paragraph (1).
+
+.
+
+(6) In regulation 22(2)(a), omit “EU”.
+
+(7) In regulation 25(10)(a)(i), for “the EAGF” substitute “ CMO support ”.
+
+(8) For regulation 29 substitute—
+
+> **29.**
+>
+> The competent authority may recover from any specified person any debt owing to the authority by that person.
+
+.
+
+(9) In regulation 30—
+
+- (a) in the definition of “Pillar 1 decision”—
+  - (i) for “the EAGF” substitute “ [^key-da7f134d9534a95712a39c82a3506404]... CMO support ”;
+  - (ii) omit “European”;
+- (b) in the definition of “Pillar 2 decision”—
+  - (i) for “the EAFRD” substitute “ rural development support granted under Title III of the Rural Development Regulation or Title III, Chapter 2 of the Common Provisions Regulation ”;
+  - (ii) in paragraph (a), omit “European”.
+
+(10)[^key-1873c51b46f4d0d7762660d9741bd230] Omit regulation 36(2).
+
+## 6. Revocation[^key-96e42e17790ac3d82360fa4e2810bdd2]
+
+The Common Agricultural Policy (Competent Authority and Coordinating Body) Regulations 2014 [^c23687671] are revoked.
+
+## 7. Saving provisions[^M_I_a579bb3a-4f90-45f3-a0b6-64f3fed946cc][^key-74667d7e42412df39a258ce3806e1767]
+
+The Environmental Stewardship Regulations 2005 apply in respect of any programme or activity to which Article 138 of the withdrawal agreement applies as if the amendments made by regulation 2 had not been made.
+
+## 8.[^M_I_03bff831-d116-4134-87d5-4d97a5b7cc95]
+
+The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 apply in respect of any programme or activity to which Article 138 of the withdrawal agreement applies as if the amendments made by regulation 5 had not been made and any reference to a Regulation originating from the European Union in those Regulations is to be read as a reference to that Regulation as it has effect in EU law.
+
+## 9.[^M_I_e7e54021-5b2e-4fc7-f7e4-440e1484448c]
+
+Regulations 1 to 3 of the Common Agricultural Policy (Competent Authority and Coordinating Body) Regulations 2014 continue to apply in respect of any programmes or activities to which Article 138 of the withdrawal agreement applies as if the revocation made by regulation 6 had not been made.
+
+Robert Goodwill
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers conferred by the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(a) and (g) of that Act) arising from the withdrawal of the United Kingdom from the European Union.
+
+These Regulations make amendments to, or in the case of regulation 6 revoke, domestic legislation that is concerned with the implementation and administration of the common agricultural policy. These Regulations also make amendments, in regulation 3, to the Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576).
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^c23687611]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-e18f3254ed95fec7e6733d8d1d0fac6d]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-2cdfff9f3dd39b764cb5edc60a12afe4]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23687621]: Marginal citation: [S.I. 2005/621](https://www.legislation.gov.uk/uksi/2005/621), amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); there are other amending instruments but none is relevant.
+
+[^key-4ade6ef85cf315a2f65b5e4079423443]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23687631]: Marginal citation: [S.I. 2008/576](https://www.legislation.gov.uk/uksi/2008/576), to which there are amendments not relevant to these Regulations.
+
+[^key-8fc75cf39162ac53b045131351414525]: Textual amendment: Reg. 4 omitted (31.12.2020) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/2)
+
+[^key-7d8e77da229f9e2b8341888d512e0597]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23687661]: Marginal citation: [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263), to which there are amendments not relevant to these Regulations.
+
+[^key-8dcba91626cdb0148879ffd412efd348]: Textual amendment: Reg. 5(2)(b) omitted (31.12.2020) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(3)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/3/a)
+
+[^key-da7f134d9534a95712a39c82a3506404]: Textual amendment: Words in reg. 5(9) omitted (31.12.2020) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(3)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/3/b)
+
+[^key-1873c51b46f4d0d7762660d9741bd230]: Textual amendment: Reg. 5(10) inserted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(3)(c)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/3/c)
+
+[^key-96e42e17790ac3d82360fa4e2810bdd2]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23687671]: Marginal citation: [S.I. 2014/3260](https://www.legislation.gov.uk/uksi/2014/3260).
+
+[^M_I_a579bb3a-4f90-45f3-a0b6-64f3fed946cc]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-74667d7e42412df39a258ce3806e1767]: Textual amendment: Regs. 7-9 inserted (31.12.2020) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(4)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/4)
+
+[^M_I_03bff831-d116-4134-87d5-4d97a5b7cc95]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^M_I_e7e54021-5b2e-4fc7-f7e4-440e1484448c]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

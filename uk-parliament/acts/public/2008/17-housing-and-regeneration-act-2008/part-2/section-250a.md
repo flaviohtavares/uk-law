@@ -1,0 +1,43 @@
+---
+title: Housing and Regeneration Act 2008, section 250A
+act: Housing and Regeneration Act 2008
+section: 250A
+status: revised-with-pending-changes
+text_date: '2026-05-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2008/17/section/250A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing and Regeneration Act 2008, section 250A
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 250A. Sections 247 and 249: local authorities[^key-19b708dc94577573c7a05ea93f6f3cd1]
+
+*Extent: E+W*
+
+(1) This section makes further provision about the application of sections 247 and 249 in a case where the registered provider is a local authority.
+
+(2) The regulator may act under those sections even if the local authority already has a management agreement in place.
+
+(3) But while a section 247 or 249 arrangement is in force, the local authority may not give effect to a management agreement as respects functions of the authority which are the subject of the arrangement.
+
+(4) Any duty the local authority may have to consult with respect to the exercise of its management functions (for example, a duty arising by virtue of section 27BA of the Housing Act 1985) does not apply so far as it is acting pursuant to a requirement imposed on it under section 247 or 249.
+
+(5) A section 247 or 249 arrangement—
+
+- (a) is not to be considered a management agreement, but
+- (b) subsections (13) and (15) of section 27 of the Housing Act 1985 apply to it as they apply to a management agreement.
+
+(6) In this section—
+
+- “management agreement” has the meaning given by section 27(2)(a) and 27B(4) of the Housing Act 1985;
+- “section 247 or 249 arrangement” means an arrangement which is entered into pursuant to a requirement imposed on a local authority under section 247 or 249 and by which functions of the authority are to be exercised by a manager on its behalf.
+
+## Annotations
+
+[^key-19b708dc94577573c7a05ea93f6f3cd1]: Textual amendment: S. 250A inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/67)

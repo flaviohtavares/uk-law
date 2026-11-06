@@ -1,0 +1,168 @@
+---
+title: The M1 Motorway (Junctions 6A to 10) (Variable Speed Limits) Regulations 2011
+id: uksi/2011/1015
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-03-30'
+text_date: '2013-11-20'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2011/1015
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/1015/pdfs/uksiem_20111015_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1015/pdfs/uksi_20111015_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1015/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The M1 Motorway (Junctions 6A to 10) (Variable Speed Limits) Regulations 2011
+
+> Text as at 2013-11-20.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2011 No. 1015
+
+Road Traffic
+
+The M1 Motorway (Junctions 6A to 10) (Variable Speed Limits) Regulations 2011
+
+Made
+
+30th March 2011
+
+Laid before Parliament
+
+4th April 2011
+
+Coming into force
+
+16th May 2011
+
+The Secretary of State for Transport makes the following Regulations in exercise of the powers conferred by sections 17(2) and (3) of the Road Traffic Regulation Act 1984[^f00001].
+
+Representative organisations have been consulted in accordance with section 134(2) of that Act.
+
+## 1. Citation and commencement[^key-e684cfdf2a5016b73eedcce7cfcaff4e]
+
+These Regulations may be cited as the M1 Motorway (Junctions 6A to 10) (Variable Speed Limits) Regulations 2011 and they come into force on 16th May 2011.
+
+## 2. Interpretation[^key-6a00a00745ce17f70f898c858e8176bc]
+
+In these Regulations—
+
+- “the 1982 Regulations” means the Motorways Traffic (England and Wales) Regulations 1982[^f00002];
+- “the 2002 Regulations” means the Traffic Signs Regulations 2002[^f00003]; and
+- “carriageway”, “hard shoulder”, “motorway” and “verge” have the same meaning as in the 1982 Regulations.
+
+## 3. Variable Speed Limits[^key-f80064d9e6a0359253058cf394dc8801]
+
+(1) No person shall drive a vehicle on a section of a road which is subject to a variable speed limit at a speed exceeding that indicated by a speed limit sign.
+
+(2) A section of road is subject to a variable speed limit in relation to a vehicle being driven along it if—
+
+- (a) the road is specified in the Schedule;
+- (b) the vehicle has passed a speed limit sign; and
+- (c) the vehicle has not passed—
+  - (i) another speed limit sign indicating a different speed limit; or
+  - (ii) a traffic sign which indicates that the national speed limit is in force.
+
+(3) In relation to a vehicle, the speed limit indicated by a speed limit sign is the speed shown at the time the vehicle passes the sign, or, if higher, the speed limit shown by the sign ten seconds before the vehicle passed the sign.
+
+(4) For the purpose of this regulation a speed limit sign is to be taken as not indicating any speed limit if, ten seconds before the vehicle passed it, the sign had indicated no speed limit or that the national speed limit was in force.
+
+(5) In this regulation—
+
+- “national speed limit” has the meaning given by regulation 5(2) of the 2002 Regulations;
+- “road” includes the adjacent hard shoulder and verge;
+- “speed limit sign”, in relation to a vehicle, means a traffic sign of the type shown in diagram 670 in Schedule 2 to the 2002 Regulations which is—
+  - (a) situated on or near any part of a road specified in the Schedule; and
+  - (b) directed at traffic on the carriageway on which the vehicle is being driven.
+
+Signed by authority of the Secretary of State for Transport
+
+Mike Penning
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+30th March 2011
+
+## SCHEDULE — SPECIFIED ROADS[^key-9c7ea91d3974ed4ecba1b41bb892d977]
+
+Regulation 3(2)
+
+**1.** The specified roads are the—
+
+- (a) northbound carriageway of the M1 from marker post 33/4 to marker post 50/0;
+- (b) carriageways of the northbound slip roads;
+- (c) southbound carriageway of the M1 from marker post 50/0 to marker post 33/3; and
+- (d) carriageways of the southbound slip roads.
+
+**2.** Any reference in this Schedule to—
+
+- (a) the letter “M” followed by a number is a reference to the motorway known by that name;
+- (b) the letter “A” followed by a number is a reference to the road known by that name; and
+- (c) a junction followed by a number is (unless the context otherwise requires) a reference to the junction of the M1 of that number.
+
+**3.** In this Schedule—
+
+- “northbound slip roads” is a reference to the lengths of carriageway specified in paragraph 4;
+- “off-slip road” means a slip road intended for the use of traffic leaving the M1;
+- “on-slip road” means a slip-road intended for the use of traffic entering the M1;
+- “southbound slip roads” is a reference to the lengths of carriageway specified in paragraph 5; and
+- “zone sign” means a sign authorised by the Secretary of State under section 64 of the Road Traffic Regulation Act 1984 for the purpose of indicating that vehicles are entering, have entered or are leaving a specified road.
+
+**4.** The northbound slip roads are as follows—
+
+- (a) the linking carriageways which connect the M25 at junction 21A with the M1 at junction 6A; these commence at the exits from the clockwise and anti-clockwise carriageways of the M25 and end at the junction with the northbound carriageway of the M1;
+- (b) the off-slip road which connects the northbound carriageway of the M1 with the westbound carriageway of the A414 at junction 7;
+- (c) the on-slip roads which connect the westbound and eastbound carriageways of the A414 at junction 8 with the northbound carriageway of the M1;
+- (d) the off-slip road which connects the northbound carriageway of the M1 with the A5 at junction 9;
+- (e) the on-slip road which connects the A5 at junction 9 with the northbound carriageway of the M1;
+- (f) the off-slip road which connects to the junction 10 roundabout; this commences at the junction of the off-slip road with the northbound carriageway of the M1 and ends at the entry to the Junction 10 roundabout; and
+- (g) the on-slip road leading to the northbound carriageway of the M1; this commences at the exit from the Junction 10 roundabout and ends at the junction of the on-slip road with the northbound carriageway of the M1.
+
+**5.** The southbound slip roads are as follows—
+
+- (a) the off-slip road which connects (both directly and via the junction 10 roundabout) the southbound carriageway of the M1 with the eastbound carriageway of the Luton spur road; this commences at the junction of the off-slip road with the southbound carriageway of the M1 and ends at a point 45 metres to the north-west of the entry to the Junction 10 roundabout and at an equivalent point on the direct link;
+- (b) the on-slip road leading to the southbound carriageway of the M1 from the westbound carriageway of the Luton spur road (both directly and via the junction 10 roundabout); this commences at a point 100 metres to the south of the exit from the Junction 10 roundabout and at an equivalent point on the direct link and ends at the junction of the on-slip road with the southbound carriageway of the M1;
+- (c) the off-slip road which connects the southbound carriageway of the M1 with the A5 at junction 9;
+- (d) the on-slip road which connects the A5 at junction 9 with the southbound carriageway of the M1;
+- (e) the off-slip road which connects the southbound carriageway of the M1 with the westbound and eastbound carriageways of the A414 at junction 8;
+- (f) the on-slip road which connects the eastbound carriageway of the A414 at junction 7 with the southbound carriageway of the M1; and
+- (g) the linking carriageway which connects the M1 at junction 6A with the M25 at junction 21A; this commences at the exit from the southbound carriageway of the M1 and ends at the junctions with the clockwise and anti-clockwise carriageways of the M25.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations introduce variable speed limits on the M1 Motorway between junctions 6A and 10, and on the slip roads for entering and exiting at junctions 6A to 10.
+
+*Regulation 3* provides for variable speed limits to have effect on the roads specified in the Schedule. Where variable speed limit signs are in operation a vehicle may not be driven at a speed above the maximum indicated by each speed limit sign passed by the vehicle until it passes a sign indicating that the national speed limit applies or the vehicle leaves the roads covered by the regulation. Where a speed limit changes less than 10 seconds before a vehicle passes the sign and the sign had indicated a higher speed limit, the regulation allows a driver to proceed at a speed up to the maximum applicable before the change. Where the speed limit sign indicates a speed limit when it is passed by a vehicle but less than 10 seconds previously it was either giving no indication of a speed limit or that the national speed limit applied, the sign is to be taken as giving no indication of a speed limit to the vehicle passing it.
+
+It is an offence to use a special road in contravention of regulations made under section 17(2) of the Road Traffic Regulation Act 1984.
+
+A copy of the impact assessment prepared in respect of these Regulations can be obtained from the Highways Agency Major Projects Team, The Cube, 199 Wharfside Street, Birmingham, B1 1RN. A copy has been placed in the library of each House of Parliament and is also annexed to the Explanatory Memorandum which is available alongside the instrument on www.legislation.gov.uk
+
+## Annotations
+
+[^f00001]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27). Section 17(2) was amended by the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), Schedule 8, Part 2, paragraph 28(3); section 17(2)(b) was amended by the Road Traffic Act [1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 8; section 17(2)(d) was inserted by the Road Traffic Act 1991, Schedule 4, paragraph 25. There have been other amendments made to sections 17 and 134 which are not relevant to these Regulations.
+
+[^key-e684cfdf2a5016b73eedcce7cfcaff4e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/1015/regulation/1) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1015/regulation/1)
+
+[^key-6a00a00745ce17f70f898c858e8176bc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/1015/regulation/2) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1015/regulation/1)
+
+[^f00002]: Footnote: [S.I. 1982/1163](https://www.legislation.gov.uk/uksi/1982/1163); relevant amending instruments are [S.I. 1983/374](https://www.legislation.gov.uk/uksi/1983/374), [1984/1479](https://www.legislation.gov.uk/uksi/1984/1479), [1992/1364](https://www.legislation.gov.uk/uksi/1992/1364) and [2004/3258](https://www.legislation.gov.uk/uksi/2004/3258).
+
+[^f00003]: Footnote: Part 1 of [S.I. 2002/3113](https://www.legislation.gov.uk/uksi/2002/3113), as amended by [S.I. 2005/1670](https://www.legislation.gov.uk/uksi/2005/1670). There are other amending instruments but none is relevant to these Regulations.
+
+[^key-f80064d9e6a0359253058cf394dc8801]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/1015/regulation/3) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1015/regulation/1)
+
+[^key-9c7ea91d3974ed4ecba1b41bb892d977]: Textual amendment: Sch. substituted (with effect in accordance with arts. 10(1)(2), 12(1) of the amending S.I.) by [The M1 Junction 10a (Grade Separation) Order 2013 (S.I. 2013/2808)](https://www.legislation.gov.uk/uksi/2013/2808), [art. 1](https://www.legislation.gov.uk/uksi/2013/2808/article/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2013/2808/schedule/4/part/1)

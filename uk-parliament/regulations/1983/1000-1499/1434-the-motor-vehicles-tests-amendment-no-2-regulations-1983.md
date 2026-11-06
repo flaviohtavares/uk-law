@@ -1,0 +1,101 @@
+---
+title: The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1983
+id: uksi/1983/1434
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1983-09-27'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1983/1434
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1983/1434/pdfs/uksi_19831434_en.pdf
+- http://www.legislation.gov.uk/uksi/1983/1434/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1983
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1983 No. 1434
+
+ROAD TRAFFIC
+
+The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1983
+
+Made
+
+27th September 1983
+
+Laid before Parliament
+
+10th October 1983
+
+Coming into Operation
+
+1st November 1983
+
+The Secretary of State for Transport, in exercise of the powers conferred by section 43(2) and (6) of the Road Traffic Act 1972 and now vested in him[^f00001], and of all other enabling powers, and after consultation with representative organisations in accordance with the provisions of section 199(2) of that Act, hereby makes the following Regulations:—
+
+**1.** These Regulations shall come into operation on 1st November 1983 and may be cited as the Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1983.
+
+**2.** The Motor Vehicles (Tests) Regulations 1981[^f00002] are amended in accordance with the following provisions of these Regulations.
+
+**3.** In Regulation 3, in paragraph (1), in the definition of “goods vehicle” for sub-paragraphs (i) and (ii) substitute the following sub-paragraphs:—
+
+> - (i) a dual-purpose vehicle,
+> - (ii) a motor caravan, and
+> - (iii) a play bus,
+
+.
+
+**4.** In Regulation 6, in paragraph (5), in the definition of “test”, for sub-paragraph (i) substitute the following sub-paragraph:—
+
+> - (i) by a person appointed to act as an inspector under section 43, or a person authorised as an examiner or acting on his behalf, or
+
+.
+
+**5.** In Regulation 27, after the words “any day which is” insert the words “a Saturday, Sunday, Good Friday, Christmas Day or”.
+
+**6.** In Regulation 28, in paragraph (4), omit the words “shall be” in the first place where they occur.
+
+**7.** In Part VI of Schedule 3, in paragraph 9, for sub-paragraphs (c) to (e) substitute the following sub-paragraphs:—
+
+> - (c) any tyre has—
+>   - (i) a cut in excess of 25 millimetres or 10 per cent of the section width of the tyre, whichever is the greater, measured in any direction on the outside of the tyre and deep enough to reach the ply or cord,
+>   - (ii) a lump, bulge or tear caused by separation or partial failure of its structure, or
+>   - (iii) any portion of the ply or cord exposed;
+> - (d) the base of any groove which showed in the original tread pattern of the tyre is not clearly visible;
+> - (e) except in the case of a motorcycle with an engine capacity which does not exceed 50 cubic centimetres, either—
+>   - (i) the grooves of the tread pattern of the tyre do not have a depth of at least 1 millimetre throughout a continuous band measuring at least three-quarters of the breadth of the tread and round the entire outer circumference of the tyre; or—
+>   - (ii) in a case where the original tread pattern of the tyre did not extend beyond three-quarters of the breadth of the tread the base of any groove which showed in the original tread pattern does not have a depth of at least 1 millimetre;
+
+.
+
+Tom King
+
+Secretary of State for Transport
+
+27th September 1983
+
+EXPLANATORY NOTE
+
+These Regulations amend the Motor Vehicles (Tests) Regulations 1981 so that:—
+
+(i)the definition of “goods vehicle” is amended so as to exclude a play bus (Regulation 3);
+
+(ii)the provisions about the computation of time are amended so as to exclude, besides a bank holiday, any day which is a Saturday, Sunday, Good Friday or Christmas Day (Regulation 5);
+
+(iii)the specification of the Tyre Requirements is amended to take account of amendments to the Motor Vehicles (Construction and Use) Regulations 1978 (S.I. 1978/1017) by the Motor Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1983 (S.I. 1983/932) (Regulation 7); and
+
+(iv)the definition of “test” for the purpose of Regulation 6 (Exemptions) is refined (Regulation 4) and a minor error is corrected (Regulation 6).
+
+## Annotations
+
+[^f00001]: Footnote: S.I. 1979/571 and 1981/238.
+
+[^f00002]: Footnote: the relevant amending Instruments are S.I. 1982/1477 and 1715.

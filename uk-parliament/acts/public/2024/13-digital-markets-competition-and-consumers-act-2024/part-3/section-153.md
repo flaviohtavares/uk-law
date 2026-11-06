@@ -1,0 +1,46 @@
+---
+title: Digital Markets, Competition and Consumers Act 2024, section 153
+act: Digital Markets, Competition and Consumers Act 2024
+section: '153'
+status: revised-with-pending-changes
+text_date: '2026-10-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2024/13/section/153
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Digital Markets, Competition and Consumers Act 2024, section 153
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/13
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 153. Applications[^key-24dc5d04859191eb8e11cd95de19727a][^key-db40a783d80ee619528c6caff68384b8]
+
+*Extent: E+W+S+N.I.*
+
+(1) An enforcer may (subject to subsection (2)) apply to the appropriate court for an enforcement order or an interim enforcement order if the enforcer considers that—
+
+- (a) a person has engaged in, is engaging in or is likely to engage in a commercial practice which constitutes a relevant infringement, or
+- (b) a person is an accessory to such a practice.
+
+(2) An enforcer may make an application in respect of a relevant infringement only if—
+
+- (a) in the case of a commercial practice in breach of an enactment listed in the first column of the Table in Part 1 of Schedule 15, the enforcer is an authorised enforcer in respect of that enactment in accordance with the second column of that Table;
+- (b) in the case of a commercial practice in breach of an obligation or rule of law listed in the first column of the Table in Part 2 of Schedule 15, the enforcer is an authorised enforcer in respect of that obligation or rule of law in accordance with the second column of that Table.
+
+(3) An application for an enforcement order or an interim enforcement order—
+
+- (a) must be made in respect of the person the enforcer considers falls within subsection (1)(a) or (b) (“**the respondent**”), and
+- (b) must (where known) name the respondent.
+
+(4) An application by a public designated enforcer for an enforcement order may, subject to subsection (5), include an application for the respondent to pay a monetary penalty.
+
+(5) In the case of a respondent within subsection (1)(a), an application under subsection (4) may be made only in respect of a commercial practice that the enforcer considers a person has engaged, or is engaging, in (but not in respect of a practice that the enforcer considers a person is likely to engage in).
+
+## Annotations
+
+[^key-24dc5d04859191eb8e11cd95de19727a]: Commencement: S. 153 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+
+[^key-db40a783d80ee619528c6caff68384b8]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2024/13/section/153) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

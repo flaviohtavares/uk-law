@@ -1,0 +1,92 @@
+---
+title: The Sea Fishing (North Norfolk Coast) (Prohibition of Trawling) Order 1972
+id: uksi/1972/1662
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1972-11-03'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1972/1662
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1972/1662/pdfs/uksi_19721662_en.pdf
+- http://www.legislation.gov.uk/uksi/1972/1662/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Sea Fishing (North Norfolk Coast) (Prohibition of Trawling) Order 1972
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1972 No. 1662
+
+SEA FISHERIES
+
+BOATS AND METHODS OF FISHING
+
+The Sea Fishing (North Norfolk Coast) (Prohibition of Trawling) Order 1972
+
+Made
+
+3rd November 1972
+
+Laid before Parliament
+
+13th November 1972
+
+Coming into Operation
+
+1st May 1973
+
+The Minister of Agriculture, Fisheries and Food and the Secretaries of State respectively concerned with the sea fishing industry in Scotland and Northern Ireland, in exercise of the powers conferred on them by sections 5(1) and (2) and 15 of the Sea Fish (Conservation) Act 1967 as the latter section is amended by section 22(1) of, and paragraph 38 of Part II of Schedule 1 to, the Sea Fisheries Act 1968 and of all other powers enabling them in that behalf, hereby make the following Order:—
+
+## Citation and Commencement
+
+**1.** This Order may be cited as the Sea Fishing (North Norfolk Coast) (Prohibition of Trawling) Order 1972 and shall come into operation on 1st May 1973.
+
+## Interpretation
+
+**2.** (1) In this Order “**sea fish**” does not include salmon or migratory trout.
+
+(2) The Interpretation Act 1889 shall apply to the interpretation of this Order as it applies to the interpretation of an Act of Parliament.
+
+## Prohibition
+
+**3.** During the period 1st May to 15th October, both dates inclusive, in every year commencing with the year 1973 the fishing for sea fish by trawling within the area of sea specified in the Schedule to this Order is hereby prohibited.
+
+**4.** In accordance with section 5(3) of the Sea Fish (Conservation) Act 1967 it is hereby declared that this Order is not made for the sole purpose of giving effect to such a convention or agreement as is mentioned in section 5(1) of that Act.
+
+## Enforcement
+
+**5.** For the purpose of the enforcement of this Order, there are hereby conferred on every British sea-fishery officer the powers of a British sea-fishery officer under section 8(2) to (4) of the Sea Fisheries Act 1968.
+
+In witness whereof the Official Seal of the Minister of Agriculture, Fisheries and Food is hereunto affixed on 27th October 1972.
+
+J.M.L. Prior
+
+Minister of Agriculture, Fisheries and Food
+
+Gordon Campbell
+
+Secretary of State for Scotland
+
+31st October 1972
+
+W.S.I. Whitelaw
+
+Secretary of State for Northern Ireland
+
+3rd November 1972
+
+## SCHEDULE
+
+The area of sea adjacent to England within the fishery limits of the British Islands but excluding the territorial waters thereof which is bounded on the west by the meridian of 0° 45′ east longitude and on the east by the meridian of 1° 06′ east longitude.
+
+EXPLANATORY NOTE
+
+This Order prohibits trawling in an area of sea adjacent to the North Norfolk coast within the fishery limits of the British Islands but excluding the territorial waters during the period 1st May to 15th October, both dates inclusive, in every year commencing with the year 1973.
+
+By virtue of section 5(8) of the Act the Order applies to all fishing boats including foreign vessels.

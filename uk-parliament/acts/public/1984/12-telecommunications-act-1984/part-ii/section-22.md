@@ -1,0 +1,70 @@
+---
+title: Telecommunications Act 1984, section 22
+act: Telecommunications Act 1984
+section: '22'
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1984/12/section/22
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Telecommunications Act 1984, section 22
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/12
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 22. Approval etc. of apparatus.
+
+*Extent: E+W+S+N.I.*
+
+(1)[^c19227241] Where licences granted under section 7 above include provisions which are framed by reference to apparatus for the time being approved under this section for connection to telecommunication systems to which the licences relate, then, for the purposes of those provisions, apparatus may be approved for connection to those systems— *(affected by repeal, see note)*[^c19227241]
+
+- (a) by the Secretary of State; or *(affected by repeal, see note)*[^c19227241]
+- (b) with the consent of, or in accordance with a general authorisation given by, the Secretary of State, by the Director. *(affected by repeal, see note)*[^c19227241]
+
+(2) A person applying for an approval under this section may be required by the person to whom the application is made to comply with such requirements as the person to whom the application is made may think appropriate; and those requirements may include a requirement to satisfy some other person with respect to any matter. *(affected by repeal, see note)*[^c19227241]
+
+(3) An approval under this section may apply either to particular apparatus or to any apparatus of a description specified in the approval, and may so apply either for the purposes of a particular telecommunication system or for the purposes of any telecommunication system of a description so specified. *(affected by repeal, see note)*[^c19227241]
+
+(4) An approval under this section may specify conditions which must be complied with if the approval is to apply, for any purposes specified in the approval, to any apparatus which is so specified or is of a description so specified; and any such condition may impose on the person to whom the approval is given a requirement from time to time to satisfy any person with respect to any matter. *(affected by repeal, see note)*[^c19227241]
+
+(5) Nothing in this section shall preclude a person (not being the Secretary of State or the Director) by whom any matter falls to be determined for the purposes of any requirement imposed in pursuance of subsection (2) or (4) above from charging any fee in respect of the carrying out of any test or other assessment made by him. *(affected by repeal, see note)*[^c19227241]
+
+(6) Standards to which apparatus of a description specified in the designation must conform if it is to be approved for connection to a telecommunication system so specified or of a description so specified may be designated— *(affected by repeal, see note)*[^c19227241]
+
+- (a) by the Secretary of State; or *(affected by repeal, see note)*[^c19227241]
+- (b) with the consent of, or in accordance with a general authorisation given by, the Secretary of State, by the Director; *(affected by repeal, see note)*[^c19227241]
+
+and a standard so designated may apply subject to such exceptions as may be determined by or under the designation. *(affected by repeal, see note)*[^c19227241]
+
+(7) A designation under this section may specify conditions which must be complied with if any apparatus of a description specified in the designation is to be regarded, for any purposes so specified, as conforming to the standard to which the designation relates. *(affected by repeal, see note)*[^c19227241]
+
+(8) Before designating a standard under this section, the Secretary of State or the Director shall give notice— *(affected by repeal, see note)*[^c19227241]
+
+- (a) stating that he proposes to make the designation and setting out its effect; *(affected by repeal, see note)*[^c19227241]
+- (b) stating any conditions which he proposes to specify in the designation; and *(affected by repeal, see note)*[^c19227241]
+- (c) specifying the time (not being less than 28 days from the date of publication of the notice) within which representations or objections with respect to the proposed designation may be made, *(affected by repeal, see note)*[^c19227241]
+
+and shall consider any representations or objections which are duly made and not withdrawn. *(affected by repeal, see note)*[^c19227241]
+
+(9) A notice under subsection (8) above shall be given by sending a copy of the notice to the person running the system and such other persons (if any) as the Secretary of State or the Director considers appropriate. *(affected by repeal, see note)*[^c19227241]
+
+(10) Any power conferred by this section to give an approval or designate a standard includes power to vary or withdraw an approval given or designation made in the exercise of that power. *(affected by repeal, see note)*[^c19227241]
+
+(11) The Secretary of State shall send to the Director— *(affected by repeal, see note)*[^c19227241]
+
+- (a) a copy of every approval given or designation made by him under this section; and *(affected by repeal, see note)*[^c19227241]
+- (b) particulars of every variation or withdrawal of an approval so given or a designation so made, *(affected by repeal, see note)*[^c19227241]
+
+except where it appears to him requisite or expedient not to do so in the interests of national security. *(affected by repeal, see note)*[^c19227241]
+
+(12) The Secretary of State may by order provide for the charging of fees in respect of the exercise of any functions conferred by or under this section. *(affected by repeal, see note)*[^c19227241]
+
+(13) Any sums received by the Secretary of State or the Director under this section shall be paid into the Consolidated Fund. *(affected by repeal, see note)*[^c19227241]
+
+## Annotations
+
+[^c19227241]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/1984/12/section/22) repealed (25.7.2003 for specified purposes, 29.12.2003 otherwise) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 406](https://www.legislation.gov.uk/ukpga/2003/21/section/406), [408](https://www.legislation.gov.uk/ukpga/2003/21/section/408), [411](https://www.legislation.gov.uk/ukpga/2003/21/section/411), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note [1](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [3(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/3/2) (as amended ([8](https://www.legislation.gov.uk/uksi/2003/1900/article/8).[12](https://www.legislation.gov.uk/uksi/2003/1900/article/12).[2003](https://www.legislation.gov.uk/uksi/2003/1900/article/2003)) by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3142/article/1/3))); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3](https://www.legislation.gov.uk/uksi/2003/3142/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

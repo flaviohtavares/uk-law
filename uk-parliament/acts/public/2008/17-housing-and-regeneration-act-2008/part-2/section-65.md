@@ -1,0 +1,42 @@
+---
+title: Housing and Regeneration Act 2008, section 65
+act: Housing and Regeneration Act 2008
+section: '65'
+status: revised-with-pending-changes
+text_date: '2026-05-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2008/17/section/65
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing and Regeneration Act 2008, section 65
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 65. Transfer schemes[^key-d293784a4c1ce050c9b60a08dab1bfb3]
+
+*Extent: E+W*
+
+(1) The Secretary of State may make one or more schemes for the transfer of the Housing Corporation's property, rights or liabilities to—
+
+- (a) the regulator,
+- (b) the HCA, or
+- (c) the Secretary of State.
+
+(2) On the transfer date, the designated property, rights or liabilities are transferred and vest in accordance with the scheme.
+
+(3) Schedule 6 applies to a scheme under this section.
+
+(4) In this section—
+
+- “**designated**”, in relation to a scheme, means specified in or determined in accordance with the scheme;
+- “**the transfer date**” means the date specified by a scheme as the date on which the scheme is to have effect.
+
+(5) Schedule 7 makes provision about the tax implications of schemes under this section (and schemes under section 51).
+
+## Annotations
+
+[^key-d293784a4c1ce050c9b60a08dab1bfb3]: Commencement: S. 65 in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)

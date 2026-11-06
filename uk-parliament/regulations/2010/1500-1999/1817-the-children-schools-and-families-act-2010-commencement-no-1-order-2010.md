@@ -1,0 +1,92 @@
+---
+title: The Children, Schools and Families Act 2010 (Commencement No. 1) Order 2010
+id: uksi/2010/1817
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2010-07-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2010/1817
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/1817/pdfs/uksi_20101817_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1817/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Children, Schools and Families Act 2010 (Commencement No. 1) Order 2010
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2010 No. 1817 (C. 93)
+
+Education, England And Wales
+
+The Children, Schools and Families Act 2010 (Commencement No. 1) Order 2010
+
+Made
+
+14th July 2010
+
+The Secretary of State for Education makes the following Order in exercise of the power conferred by section 29(5) of the Children, Schools and Families Act 2010[^f00001].
+
+## 1. Citation and interpretation
+
+(1) This Order may be cited as the Children, Schools and Families Act 2010 (Commencement No.1) Order 2010.
+
+(2) In this Order “the Act” means the Children, Schools and Families Act 2010.
+
+## 2. Provisions coming into force on 19th July 2010
+
+19th July 2010 is the day appointed for the coming into force of the following provisions of the Act—
+
+sections 5 and 6;
+
+paragraph 2 of Schedule 3, and section 25 so far as it relates to that paragraph of that Schedule.
+
+## 3. Provisions coming into force on 1st September 2010
+
+1st September 2010 is the day appointed for the coming into force of sections 1 and 2 of the Act.
+
+## 4. Provisions coming into force on 1st April 2011
+
+1st April 2011 is the day appointed for the coming into force of section 4(2), (3) and (4) of the Act.
+
+Nick Gibb
+
+Minister of State
+
+Department for Education
+
+14th July 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order brings into force provisions of the Children, Schools and Families Act 2010 (“the Act”) on 19th July 2010, 1st September 2010 and 1st April 2011.
+
+## Provisions coming into force on 19th July 2010
+
+Section 5 of the Act enables a governing body of a maintained school in England to form an “Academy Trust” (a company which can enter into an agreement with the Secretary of State to establish and maintain an Academy), or to be a member of an existing Academy Trust. For the purposes of section 5 a maintained school means a community, foundation or voluntary school or a community or foundation special school but does not include a maintained nursery school.
+
+Section 6 of the Act amends paragraph 3 of Schedule 1 to the Education Act 2002 to allow a governing body of a maintained school in England (other than a maintained nursery school) to provide advice and assistance to the proprietor of an Academy and to enable a governing body of a maintained school, including a maintained nursery school in England, to be a member of the foundation of another maintained school.
+
+Section 25 gives effect to Schedule 3 which contains minor and consequential amendments. Paragraph 2 of that Schedule amends section 580 of the Education Act 1996 to update the entry for “sex education” in the index of defined expressions.
+
+## Provisions coming into force on 1st September 2010
+
+Section 1 of the Act amends section 5 of the Education Act 2005. This amendment requires Her Majesty’s Chief Inspector of Education, Children’s Services and Skills to consider the needs of children with disabilities or special educational needs in reporting on how far the education provided in a mainstream school meets the needs of the range of pupils at the school.
+
+Section 2 of the Act inserts section 328A into the Education Act 1996 and provides a new right of appeal for parents to the First-tier Tribunal (Special Educational Needs and Disability), which sits in the Health, Education and Social Care Chamber of the First-tier Tribunal, in circumstances where, following a review of a statement of special educational needs, a local authority in England decides not to make any changes to the statement.
+
+## Provisions coming into force on 1st April 2011
+
+Section 4(2) and (3) of the Act amends section 50 of the School Standards and Framework Act 1998 (“the SSFA”) to enable governing bodies in England to use their delegated budgets for the provision of community facilities and services under section 27 of the Education Act 2002. Section 27 enables governing bodies to provide community facilities or services which further any charitable purposes for the benefit of their pupils, families of pupils and the wider community. Section 51A of the SSFA (which prohibits the use of the delegated budget on community facilities or services) is amended by section 4(4) of the Act so that it no longer applies to governing bodies in England.
+
+## Annotations
+
+[^f00001]: Footnote: [2010 c.26](https://www.legislation.gov.uk/ukpga/2010/26).

@@ -1,0 +1,308 @@
+---
+title: The Control of Explosives Precursors and Poisons Regulations 2023
+id: uksi/2023/63
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2023-01-23'
+text_date: '2023-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2023/63
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2023/63/pdfs/uksiem_20230063_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2023/63/pdfs/uksiem_20230063_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/63/pdfs/uksi_20230063_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/63/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Control of Explosives Precursors and Poisons Regulations 2023
+
+> Text as at 2023-10-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2023 No. 63
+
+Health And Safety
+
+The Control of Explosives Precursors and Poisons Regulations 2023
+
+Made
+
+at 12.45 p.m. on 23rd January 2023
+
+Laid before Parliament
+
+at 4.30 p.m. on 23rd January 2023
+
+Coming into force
+
+1st October 2023
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 2A(1)(a), 3A(8), 3C(7), 7(1)(a), (f) and (2), and 10(1)(a) and (b) of the Poisons Act 1972[^f00001] (“**the 1972 Act**”).
+
+In accordance with section 2A(3) of the 1972 Act, the Secretary of State, in determining the distribution of substances as between the various parts of Schedule 1A[^f00002] to the 1972 Act, has had regard to the desirability of restricting Parts 3 and 4 to substances that meet the criteria provided by section 2A(3)(a) and (b) of the 1972 Act.
+
+## 1. Citation, commencement, extent and interpretation[^key-f4826c8ceb3bafe44f8737d24f3d02ff]
+
+(1) These Regulations may be cited as the Control of Explosives Precursors and Poisons Regulations 2023 and come into force on 1st October 2023.
+
+(2) These Regulations extend to England and Wales and Scotland.
+
+(3) In these Regulations—
+
+- (a) “**the 1972 Act**” means the Poisons Act 1972;
+- (b) “**the 2015 Regulations**” means the Control of Poisons and Explosives Precursors Regulations 2015[^f00003];
+- (c) a person is a business customer in relation to the supply of a regulated substance or a reportable substance[^f00004] if the person acquires, or seeks to acquire, the regulated substance or the reportable substance for purposes connected with that person’s trade, business or profession, or the person’s performance of a public function.
+
+## 2. Notification requirement[^key-1dfd6d498a1828089b5623c5d117b677]
+
+A person must not supply a regulated substance or a reportable substance (“the substance”) to a business customer unless the person first notifies the business customer in writing that the substance is a regulated substance or a reportable substance for the purposes of the 1972 Act.
+
+## 3. Additional requirements relating to the supply of a regulated explosives precursor[^key-6272e8bbb8e43ee8d92e3af5e7c86a94]
+
+(1) A person must not supply a regulated explosives precursor to a business customer unless the person first complies with the requirements imposed by paragraphs (2) to (4) (but see paragraph (6)).
+
+(2) The person must obtain the following from the business customer—
+
+- (a) the business customer’s name and address;
+- (b) if the business customer is not an individual, the name of an individual who is authorised on behalf of the business customer to acquire the regulated explosives precursor;
+- (c) a form of photographic identification of the business customer or, if the business customer is not an individual, of the individual referred to in sub-paragraph (b);
+- (d) a statement of the nature of the business customer’s trade, business or profession, or of the public function that the business customer performs; and
+- (e) the business customer’s VAT registration number, if the business customer has such a number.
+
+(3) The person must be reasonably satisfied that acquisition of the regulated explosives precursor by the business customer is reasonably consistent with the nature of the business customer’s trade, business or profession, or of the public function that the business customer performs.
+
+(4) The person must make a record of the information, document and statement obtained from the business customer in accordance with paragraph (2).
+
+(5) The person must preserve the record referred to in paragraph (4) for a period of 18 months beginning with the date on which the record is made.
+
+(6) A person may supply a regulated explosives precursor to a business customer without first complying with the requirements imposed by paragraphs (2) and (4) if—
+
+- (a) the person has made an earlier supply of a regulated explosives precursor to the business customer;
+- (b) the person made the record referred to in paragraph (4) in relation to that earlier supply (“the record”);
+- (c) the person continues to hold the record; and
+- (d) the period that has elapsed since the date on which the record was made is not more than 18 months.
+
+(7) In this regulation “**VAT registration number**” means the number allocated by the Commissioners for His Majesty’s Revenue and Customs to a person registered under the Value Added Tax Act 1994[^f00005].
+
+## 4. Provision of information to workers[^key-af697f70ab41e45f2defad1aec29e7ef]
+
+(1) This regulation applies to a person who carries on a trade, business or profession involving the supply of regulated substances or reportable substances, and who engages a worker in connection with making such supplies (“the worker”).
+
+(2) The person must ensure that the worker is not involved in the making of supplies of regulated substances or reportable substances unless first provided with such information on the following matters as is relevant to the worker’s role and responsibilities—
+
+- (a) the requirements that are imposed by the 1972 Act, by these Regulations, and by the 2015 Regulations, in relation to the supply of regulated substances and reportable substances;
+- (b) the offences that apply in respect of a failure to comply with the requirements referred to in sub-paragraph (a); and
+- (c) the regulated substances or reportable substances that the person supplies.
+
+(3) In this regulation “**worker**” has the meaning given by section 230(3) of the Employment Rights Act 1996[^f00006].
+
+## 5. Online marketplaces[^key-65a63334bfc35341b8359952830b5ae9]
+
+(1) An operator of an online marketplace must take all reasonably practicable measures to provide information to any supplier who uses the online marketplace to make a relevant transaction, about—
+
+- (a) the requirements that are imposed by the 1972 Act, by these Regulations, and by the 2015 Regulations, in relation to the supply of regulated substances and reportable substances; and
+- (b) the offences that apply in respect of a failure to comply with the requirements referred to in sub-paragraph (a).
+
+(2) An operator of an online marketplace must—
+
+- (a) take all reasonably practicable measures to identify any relevant transaction that a supplier makes or proposes to make using the online marketplace, that would give the operator reasonable grounds for believing the transaction to be suspicious; and
+- (b) report a relevant transaction if the operator has reasonable grounds for believing that transaction to be suspicious.
+
+(3) In this regulation—
+
+- (a) “**online marketplace**” means any software (including a website, part of a website, or an application) through which persons other than the operator are able to sell goods (whether or not the operator also does so);
+- (b) “**operator**” means the person who controls access to, and the contents of, the online marketplace;
+- (c) “**relevant transaction**” has the meaning given by section 3C(2) of the 1972 Act;
+- (d) whether or not a relevant transaction is suspicious is to be construed in accordance section 3C(3) and (4) of the 1972 Act;
+- (e) a duty to report a relevant transaction is a duty to give notice of it to the Secretary of State in accordance with regulation 6.
+
+## 6. Reporting of suspicious transactions etc.[^key-9e39b1d596ae3cff66d1f56eaa4be5e6]
+
+(1) This regulation applies to a person who—
+
+- (a) is required by section 3C of the 1972 Act, or by regulation 5(2)(b), to report a relevant transaction; or
+- (b) is required by section 3C of the 1972 Act to report a disappearance or a theft of a regulated substance or a reportable substance.
+
+(2) The person must satisfy the requirement imposed by paragraph (1)(a) or (b) (“the reporting requirement”) within the period of 24 hours beginning with—
+
+- (a) in the case of a relevant transaction, the time when the person forms the belief that the transaction is suspicious; or
+- (b) in the case of a disappearance or a theft, the time when the person discovers the disappearance or the theft.
+
+(3) The reporting requirement must be satisfied by the person, or by another person who is authorised to act on the person’s behalf, using either the electronic reporting service or the telephone reporting service that is provided by the Secretary of State for this purpose.
+
+(4) If the reporting requirement arises in respect of a relevant transaction, the report provided to the Secretary of State must be accompanied by all such information that is held by the person that is likely to be of reasonable assistance to the Secretary of State in identifying—
+
+- (a) if the reporting requirement applies to a person in the case of a relevant transaction, the customer or the prospective customer to the relevant transaction; or
+- (b) if the reporting requirement applies to an operator of an online marketplace, the supplier using the online marketplace to make a relevant transaction, and the customer or prospective customer to that transaction.
+
+## 7. Review[^key-17c022346ff07175a1c2dc20163476b9]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision contained in these Regulations, and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The report referred to in paragraph 1(b) must be published before 1st October 2028.
+
+(3) Subsequent reports must be published at intervals not exceeding five years.
+
+## 8. Amendments to Schedule 1A to the 1972 Act[^key-6c081f40801c084cbfbe998ba7167cd1]
+
+(1) Schedule 1A to the 1972 Act (regulated substances and reportable substances) is amended as follows.
+
+(2) In the table in Part 1 (regulated explosives precursors)—
+
+- (a) insert as the first three entries—
+
+  > |  |  |
+  > | --- | --- |
+  > | Ammonium nitrate (CAS RN 6484-52-2) in concentration of 16% by weight of nitrogen in relation to ammonium nitrate or higher | \- |
+  > | Hexamine (CAS RN 100-97-0) | \- |
+  > | Hydrochloric acid (CAS RN 7647-01-0) | 10% w/w |
+
+  ;
+- (b) after the entry for “Nitric acid” insert—
+
+  > |  |  |
+  > | --- | --- |
+  > | Phosphoric acid (CAS RN 7664-38-2) | 30% w/w |
+
+  .
+
+(3) In the table in Part 2 (regulated poisons)—
+
+- (a) after the entry for “Aluminium phosphide” insert—
+
+  > |  |  |
+  > | --- | --- |
+  > | Aluminium sulfide (CAS RN 1302-81-4) | \- |
+
+  ;
+- (b) in the entry for “Arsenic” omit “, other than those listed in Part 4 of this Schedule”;
+- (c) after the entry for “Bromomethane” insert—
+
+  > |  |  |
+  > | --- | --- |
+  > | Calcium phosphide (CAS RN 1305-99-3) | \- |
+  > | Calcium sulfide (CAS RN 20548-54-3) | \- |
+
+  ;
+- (d) after the entry for “Magnesium phosphide” insert—
+
+  > |  |  |
+  > | --- | --- |
+  > | Magnesium sulfide (CAS RN 12032-36-9) | \- |
+
+  ;
+- (e) in the entry for “Mercury” for the text after “(CAS RN 7439-97-6)” substitute “; its compounds”;
+- (f) after the entry for “Phosphorus” insert—
+
+  > |  |  |
+  > | --- | --- |
+  > | Sodium sulfide (CAS RN 1313-82-2) | \- |
+
+  ;
+- (g) after the entry for “Thallium” insert—
+
+  > |  |  |
+  > | --- | --- |
+  > | Zinc phosphide (CAS RN 1314-84-7) | \- |
+  > | 2,4-Dinitrophenol (CAS RN 51-28-5) and compounds including sodium dinitrophenolate (CAS RN 1011-73-0) | \- |
+
+  .
+
+(4) In Part 3 (reportable explosives precursors)—
+
+- (a) omit the entries for “Hexamine” and “Ammonium nitrate”;
+- (b) after the entry for “Magnesium powders” insert “Sulfur (CAS RN 7704-34-9)”.
+
+(5) In the table in Part 4 (reportable poisons)—
+
+- (a) omit the entries for “Arsenic”, “Hydrochloric acid”, “Mercuric chloride”, “Phosphoric acid” and “Zinc phosphide”;
+- (b) after the entry for “Metallic oxalates” insert—
+
+  > |  |  |
+  > | --- | --- |
+  > | Metal phosphides | \- |
+  > | Metal sulfides and polysulfides | \- |
+- (c) after the entry for “Sodium hydroxide” insert—
+
+  > |  |  |
+  > | --- | --- |
+  > | Sodium hypochlorite (CAS RN 7681-52-9) solutions above 6% available chlorine | \- |
+
+  .
+
+## 9. Amendments to the 2015 Regulations[^key-162e29cd0206788f67ac976d6f9e10df]
+
+Regulation 2 of the 2015 Regulations (supplies of substances involving despatch to Northern Ireland or export from the UK: modification of section 3A of the Act) is amended as follows—
+
+- (a) omit paragraph (3)[^f00008];
+- (b) in paragraph (4), for “Except as provided by paragraph (3), nothing” substitute “Nothing”;
+- (c) omit paragraph (5).
+
+Tom Tugendhat
+
+Minister of State
+
+Home Office
+
+At 12.45 p.m. on 23rd January 2023
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations concern the supply of regulated and reportable substances (see section 2 of the Poisons Act [1972 (c. 66)](https://www.legislation.gov.uk/ukpga/1972/66) (“**the 1972 Act**”) for definitions of a regulated substance and a reportable substance).
+
+Regulations 2 to 6 impose various requirements on persons who are either involved in the supply of regulated or reportable substances (or, in the case of regulation 3, regulated explosives precursors only (this term is also defined by section 2 of the 1972 Act)), or who operate an online marketplace that is used by suppliers to make supplies of such substances.
+
+Failure to comply with the requirements imposed by regulations 2 to 6 is a criminal offence (see section 7(4) of the 1972 Act).
+
+Regulation 8 makes amendments to the lists of regulated and reportable substances that are found in Schedule 1A to the 1972 Act.
+
+Regulation 9 makes amendments to regulation 2 of the Control of Poisons and Explosives Precursors Regulations 2015 (S. I. 2015/966) to remove references to licences issued or recognised in accordance with a provision of European Union law that has now been repealed.
+
+A full impact assessment of the effect that these Regulations will have on the costs of business, the voluntary sector and the public sector has been undertaken. A copy is annexed to the Explanatory Memorandum which is available alongside these Regulations on www.legislation.gov.uk. Copies may also be obtained from the Explosives Precursors and Poisons team at the Home Office, 2 Marsham Street, London SW1P 4DF (precursorsandpoisons@homeoffice.gov.uk).
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 66](https://www.legislation.gov.uk/ukpga/1972/66). Section 90 of, and Schedule 21 to, the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20) (“**Schedule 21**”) made relevant amendments to the Poisons Act [1972 (c. 66)](https://www.legislation.gov.uk/ukpga/1972/66). Section 2A was inserted by paragraph 3 of Schedule 21, sections 3A and 3C were inserted by paragraph 4 of Schedule 21, section 7 was substituted by paragraph 8 of Schedule 21, and section 10 was substituted by paragraph 14 of Schedule 21.
+
+[^f00002]: Footnote: Schedule 1A was inserted by section 90 of, and paragraph 16 of Schedule 21 to, the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
+
+[^key-f4826c8ceb3bafe44f8737d24f3d02ff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/63/regulation/1) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
+
+[^f00003]: Footnote: [S.I. 2015/966](https://www.legislation.gov.uk/uksi/2015/966).
+
+[^f00004]: Footnote: The terms “regulated substance”, “reportable substance” and “regulated explosives precursor”, which are used in various places in these Regulations, are defined by section 2 of the Poisons Act [1972 (c. 66)](https://www.legislation.gov.uk/ukpga/1972/66).
+
+[^key-1dfd6d498a1828089b5623c5d117b677]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/63/regulation/2) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
+
+[^key-6272e8bbb8e43ee8d92e3af5e7c86a94]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/63/regulation/3) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
+
+[^f00005]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
+
+[^key-af697f70ab41e45f2defad1aec29e7ef]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/63/regulation/4) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
+
+[^f00006]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^key-65a63334bfc35341b8359952830b5ae9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/63/regulation/5) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
+
+[^key-9e39b1d596ae3cff66d1f56eaa4be5e6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/63/regulation/6) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
+
+[^key-17c022346ff07175a1c2dc20163476b9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/63/regulation/7) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
+
+[^key-6c081f40801c084cbfbe998ba7167cd1]: Textual amendment: Reg. 8 substituted (1.10.2023) by [The Control of Explosives Precursors and Poisons (Amendment) Regulations 2023 (S.I. 2023/810)](https://www.legislation.gov.uk/uksi/2023/810), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/810/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/810/regulation/2)
+
+[^key-162e29cd0206788f67ac976d6f9e10df]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/63/regulation/9) in force at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1)
+
+[^f00008]: Footnote: Regulation 2(3) was amended by regulation 50(2) of the Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 ([S.I. 2019/742](https://www.legislation.gov.uk/uksi/2019/742)).

@@ -1,0 +1,132 @@
+---
+title: The Friendly Societies (Modification of the Corporation Tax Acts) (Amendment) Regulations 2005
+id: uksi/2005/2005
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2005-07-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/2005
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/2005/pdfs/uksiem_20052005_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2005/pdfs/uksi_20052005_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2005/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Friendly Societies (Modification of the Corporation Tax Acts) (Amendment) Regulations 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2005 No. 2005
+
+CORPORATION TAX
+
+The Friendly Societies (Modification of the Corporation Tax Acts) (Amendment) Regulations 2005
+
+Made
+
+20th July 2005
+
+Laid before the House of Commons
+
+21st July 2005
+
+Coming into force
+
+11th August 2005
+
+The Treasury, in exercise of the powers conferred upon them by section 463 of the Income and Corporation Taxes Act 1988[^f00001], make the following Regulations:
+
+## 1. Citation, commencement and effect
+
+(1) These Regulations may be cited as the Friendly Societies (Modification of the Corporation Tax Acts) (Amendment) Regulations 2005 and shall come into force on 11<sup>th</sup> August 2005.
+
+(2) These Regulations shall have effect in relation to accounting periods beginning on or after 1<sup>st</sup> January 2004 and ending on or before 31<sup>st</sup> December 2004.
+
+## 2. Amendments to the Friendly Societies (Modification of the Corporation Tax Acts) Regulations 1997
+
+The Friendly Societies (Modification of the Corporation Tax Acts) Regulations 1997[^f00002] are amended as follows.
+
+**3.** In regulation 2[^f00003]—
+
+- (a) in both of the definitions of “annual return society” and “non annual return society” add at the end “or Rule 9.4 of the Prudential Sourcebook (Insurers)”;
+- (b) add at the appropriate place the following definition—
+
+  > - The Prudential Sourcebook (Insurers)” means the Interim Prudential Sourcebook for Insurers made by the Financial Services Authority under the Financial Services and Markets Act 2000[^f00004];
+
+  .
+
+**4.** In regulation 4A(1)[^f00005] add at the end “to which Chapter 5 of the Prudential Sourcebook (Friendly Societies) applies”.
+
+**5.** In regulation 6[^f00006]—
+
+- (a) in paragraph (1), add at the end “to which Chapter 5 of the Prudential Sourcebook (Friendly Societies) applies and, in the case of paragraph (4), by friendly societies”;
+- (b) in paragraph (2)—
+  - (i) in both of the definitions of “annual return society” and “non annual return society” treated as inserted in section 431 of the Income and Corporation Taxes Act 1988, add at the end “or Rule 9.4 of the Prudential Sourcebook (Insurers)”;
+  - (ii) add at the appropriate place the following definition—
+
+    > - “The Prudential Sourcebook (Insurers)” means the Interim Prudential Sourcebook for Insurers made by the Financial Services Authority under the Financial Services and Markets Act 2000;
+
+    .
+
+**6.** In regulation 9(2)[^f00007], in the subsection (1B) treated as inserted in section 432A of the Income and Corporation Taxes Act 1988, in paragraph (a), for “as the society's” to “in relation” substitute—
+
+> as—
+>
+> - (i) the society’s valuation report but which are limited to an investigation of the matters referred to in rule 5.1(3) of the Prudential Sourcebook (Friendly Societies), or
+> - (ii) the society’s periodical return but which are limited to an investigation of the matters referred to in Rule 9.4(2) of the Prudential Sourcebook (Insurers),
+>
+> in relation
+
+.
+
+**7.** In regulation 32A(1)[^f00008] after “society” insert “to which Chapter 5 of the Prudential Sourcebook (Friendly Societies) applies”.
+
+**8.** In regulation 36(1)[^f00009] add at the end “to which Chapter 5 of the Prudential Sourcebook (Friendly Societies) applies”.
+
+**9.** In regulation 53A(1)[^f00010] add at the end “for friendly societies to which Chapter 5 of the Prudential Sourcebook (Friendly Societies) applies”.
+
+Gillian Merron
+
+Vernon Coaker
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+20th July 2005
+
+(This note is not part of the Regulations)
+
+Section 463 of the Income and Corporation Taxes Act 1988 provides that the enactments relating to corporation tax apply to the life or endowment business carried on by friendly societies in the same way as they apply to long-term business of insurance companies, subject to such modifications and exceptions as may be prescribed by the Treasury.
+
+These Regulations amend the Friendly Societies (Modification of the Corporation Tax Acts) Regulations 1997 (S.I. [1997/473](https://www.legislation.gov.uk/uksi/1997/473)) for accounting periods beginning and ending in 2004. For that year, directive friendly societies are governed by the Interim Prudential Sourcebook (Insurers). These Regulations make technical amendments to include references to that Sourcebook, and amend references to the Interim Prudential Sourcebook (Friendly Societies) so as to refer to non-directive friendly societies.
+
+The power to make retrospective provision is conferred by section 463(4) of the Income and Corporation Taxes Act 1988.
+
+These Regulations do not impose any new costs on business.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 463 was amended by section 50 of the Finance Act [1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29), paragraphs 10 and 22 of Schedule 9 to the Finance (No. 2) Act [1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), section 171 of the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8) and Article 52(2)(i) of S.I. [2001/3629](https://www.legislation.gov.uk/uksi/2001/3629).
+
+[^f00002]: Footnote: S.I. [1997/473](https://www.legislation.gov.uk/uksi/1997/473); relevantly amended by S.I. [1997/2877](https://www.legislation.gov.uk/uksi/1997/2877), [2000/2710](https://www.legislation.gov.uk/uksi/2000/2710), [2001/3629](https://www.legislation.gov.uk/uksi/2001/3629) and [2004/822](https://www.legislation.gov.uk/uksi/2004/822).
+
+[^f00003]: Footnote: Regulation 2 was relevantly amended by S.I. [2004/822](https://www.legislation.gov.uk/uksi/2004/822).
+
+[^f00004]: Footnote: Available from the Financial Services Authority.
+
+[^f00005]: Footnote: Regulation 4A was inserted by S.I. [2000/2710](https://www.legislation.gov.uk/uksi/2000/2710).
+
+[^f00006]: Footnote: Regulation 6 was relevantly amended by S.I. [2004/822](https://www.legislation.gov.uk/uksi/2004/822).
+
+[^f00007]: Footnote: Regulation 9(2) was relevantly amended by S.I. [2001/3629](https://www.legislation.gov.uk/uksi/2001/3629).
+
+[^f00008]: Footnote: Regulation 32A was inserted by S.I. [2004/822](https://www.legislation.gov.uk/uksi/2004/822).
+
+[^f00009]: Footnote: Regulation 36(1) was relevantly amended by S.I. [2004/822](https://www.legislation.gov.uk/uksi/2004/822).
+
+[^f00010]: Footnote: Regulation 53A was inserted by S.I. [1997/2877](https://www.legislation.gov.uk/uksi/1997/2877).

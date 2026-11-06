@@ -1,0 +1,52 @@
+---
+title: Finance Act 2014, section 202
+act: Finance Act 2014
+section: '202'
+status: revised-with-pending-changes
+text_date: '2026-06-25'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2014/26/section/202
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2014, section 202
+
+> **Warning: changes not yet applied to this text (30).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 202. “Tax enquiry” and “return”
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies for the purposes of this Part.
+
+(2) “**Tax enquiry**” means—
+
+- (a) an enquiry under section 9A or 12AC of TMA 1970 (enquiries into self-assessment returns for income tax and capital gains tax), including an enquiry by virtue of notice being deemed to be given under section 9A of that Act by virtue of section 12AC(6) of that Act,
+- (b) an enquiry under paragraph 5 of Schedule 1A to that Act (enquiry into claims made otherwise than by being included in a return),
+- (c) an enquiry under paragraph 24 of Schedule 18 to FA 1998 (enquiry into company tax return for corporation tax etc), including an enquiry by virtue of notice being deemed to be given under that paragraph by virtue of section 12AC(6) of TMA 1970,
+- (d) an enquiry under paragraph 12 of Schedule 10 to FA 2003 (enquiries into SDLT returns),
+- (e) an enquiry under paragraph 8 of Schedule 33 to FA 2013 (enquiries into annual tax for enveloped dwellings returns), or
+- (f) a deemed enquiry under subsection (6).
+
+(3) The period during which an enquiry is in progress—
+
+- (a) begins with the day on which notice of enquiry is given, and
+- (b) ends with the day on which the enquiry is completed.
+
+(4) Subsection (3) is subject to subsection (6).
+
+(5) In the case of inheritance tax, each of the following is to be treated as a return—
+
+- (a) an account delivered by a person under section 216 or 217 of IHTA 1984 (including an account delivered in accordance with regulations under section 256 of that Act);
+- (b) a statement or declaration which amends or is otherwise connected with such an account produced by the person who delivered the account;
+- (c) information or a document provided by a person in accordance with regulations under section 256 of that Act;
+
+and such a return is to be treated as made by the person in question.
+
+(6) An enquiry is deemed to be in progress, in relation to a return to which subsection (5) applies, during the period which—
+
+- (a) begins with the time the account is delivered or (as the case may be) the statement, declaration, information or document is produced, and
+- (b) ends when the person is issued with a certificate of discharge under section 239 of that Act, or is discharged by virtue of section 256(1)(b) of that Act, in respect of the return (at which point the enquiry is to be treated as completed).

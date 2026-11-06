@@ -1,0 +1,430 @@
+---
+title: The Legal Aid (Information about Financial Resources) Regulations 2013
+id: uksi/2013/628
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-03-13'
+text_date: '2025-04-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/628
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/628/pdfs/uksiem_20130628_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/628/pdfs/uksi_20130628_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/628/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Legal Aid (Information about Financial Resources) Regulations 2013
+
+> Text as at 2025-04-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 628
+
+Legal Aid And Advice, England And Wales
+
+The Legal Aid (Information about Financial Resources) Regulations 2013
+
+Made
+
+13th March 2013
+
+Coming into force
+
+1st April 2013
+
+The Lord Chancellor makes the following Regulations[^f00001] in exercise of the powers conferred by sections 22(3)(f), (4)(h), (5) and (8)[^f00002] and 41(1) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00003].
+
+The Commissioners for Her Majesty’s Revenue and Customs have agreed to the making of regulations 3 and 4 in accordance with section 22(6) of that Act.
+
+In accordance with section 41(6) and (7)(h) of that Act, a draft of this instrument has been laid before and approved by a resolution of each House of Parliament.
+
+## PART 1 — INTRODUCTION
+
+### 1. Citation and commencement[^key-91d434ea30bc4a7199a92e72939c61ab]
+
+These Regulations may be cited as the Legal Aid (Information about Financial Resources) Regulations 2013 and come into force on 1st April 2013.
+
+### 2. Interpretation[^key-dcf80d08b26d1a3f90257b0a6218394e]
+
+In these regulations—
+
+- “the 1992 Act” means the Social Security Contributions and Benefits Act 1992[^f00004];
+- “the 1992 (Northern Ireland) Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00005];
+- “the 2002 Act” means the Tax Credits Act 2002[^f00006];
+- “the 2003 Act” means the Income Tax (Earnings and Pensions) Act 2003[^f00007];
+- “the 2012 Act” means the Welfare Reform Act 2012[^f00008];
+- “the Act” means the Legal Aid, Sentencing and Punishment of Offenders Act 2012;
+- “relevant year” means, in relation to an information request under section 22(1) of the Act, the tax year in which that request is made; and
+- “tax year” has the meaning given in section 4 of the Income Tax Act 2007[^f00009].
+
+## PART 2 — INFORMATION REQUESTS
+
+### 3. Information request: prescribed income and capital[^key-ffe59d913bd71249f663c5e5ae0428d9]
+
+An information request made by the relevant authority to a relevant Northern Ireland Department or the Commissioners under section 22(1)(b) or (c) of the Act may include, in relation to a relevant individual, a request for the disclosure of any of the following information about that individual—
+
+- (a) for the relevant year and for each of the two tax years that precede the relevant year, the amount of any of the following types of income charged to income tax—
+  - (i) employment income under Part 2 of the 2003 Act;
+  - (ii) pension income under Part 9 of the 2003 Act;
+  - (iii) social security income under Part 10 of the 2003 Act; and
+  - (iv) any income under the Income Tax (Trading and Other Income) Act 2005[^f00010]; and
+- (b) for the relevant year and for each of the two tax years that precede the relevant year, the amount of any chargeable gains charged to capital gains tax under the Taxation of Chargeable Gains Act 1992[^f00011].
+
+### 4. Information request: names of companies and partnerships[^key-18aff420a61920453ad31bf0dc911e32]
+
+An information request made by the relevant authority to a relevant Northern Ireland Department or the Commissioners under section 22(1)(b) or (c) of the Act may include, in relation to a relevant individual, a request for the disclosure of information relating to—
+
+- (a) whether the individual is, or has at some point during the relevant year or the two tax years that precede the relevant year been, a director of a company and, if so, the name of that company; and
+- (b) whether the individual is, or has at some point during the relevant year or the two tax years that precede the relevant year been, one of two or more persons carrying on a trade, profession or business in partnership and, if so, the name of that partnership.
+
+### 4A. Information request: particulars contained in the register[^key-0f7c97307f992b309b3f26de959c7c6a]
+
+(1) An information request made by the relevant authority to the Secretary of State under section 22(1)(a) of the Act may include a request for the disclosure of register information.
+
+(2) In this regulation—
+
+- “register” and “registered keeper” have the meaning given in regulation 3(1) of the Road Vehicles (Registration and Licensing) Regulations 2002;
+- “register information” means, in relation to any registration mark—
+  - (a) whether a particular relevant individual is the registered keeper of the vehicle identified by that registration mark; and
+  - (b) if the relevant individual is the registered keeper of that vehicle, any particulars contained in the register in relation to that registration mark;
+- “registration mark” has the meaning given in section 23(1) of the Vehicle Excise and Registration Act 1994.
+
+## PART 3 — PRESCRIBED BENEFITS
+
+### 5. Prescribed benefits[^key-0598da1fd1b2fdea21954007ca8172d4]
+
+For the purpose of an information request made by the relevant authority to the Secretary of State for the disclosure of a relevant individual’s benefit status under section 22(3)(e) of the Act, the benefits listed in the Schedule are prescribed benefits.
+
+**6.**[^key-50a12619a97e341cfd69c9f443c173f6] For the purpose of an information request made by the relevant authority to a relevant Northern Ireland Department for the disclosure of a relevant individual’s benefit status under section 22(3)(e) of the Act, the following benefits are prescribed benefits—
+
+- (a) the benefits listed in the Schedule;
+- (b) child benefit under section 137 of the 1992 (Northern Ireland) Act[^f00012];
+- (c) child tax credit under Part 1 of the 2002 Act[^f00013];
+- (d) working tax credit under Part 1 of the 2002 Act[^f00014]; and
+- (e) statutory sick pay under Part 12 of the 1992 (Northern Ireland) Act.
+
+**7.**[^key-88450126e982dc9beb749be302d286fb] For the purpose of an information request made by the relevant authority to the Commissioners for the disclosure of a relevant individual’s benefit status under section 22(4)(g) of the Act, the following benefits are prescribed benefits—
+
+- (a) child benefit under section 141 of the 1992 Act[^f00015];
+- (b) child tax credit under Part 1 of the 2002 Act;
+- (c) working tax credit under Part 1 of the 2002 Act; [^key-2a5d321e411d1dfb77f0f7e432a87a53]...
+- (d) statutory sick pay under Part 12 of the 1992 Act ; and[^key-a5520b2335f7b176b1203246f7007c04]
+- (e)[^key-12be95183d4db9db68b92074cf90c636] statutory neonatal care pay under Part 12ZE of the 1992 Act.
+
+### 8. Prescribed benefits: amount of benefit and elements of benefit[^key-f0427e8b14fc46be58fdb08d793c0a85]
+
+In any case where a relevant individual is in receipt of a prescribed benefit, the individual’s benefit status includes—
+
+- (a) the amount the individual is receiving by way of a prescribed benefit; and
+- (b) in respect of benefits that consist of a number of elements, what each of those elements are and the amount included in respect of each element in calculating the benefit amount.
+
+Signed by the authority of the Lord Chancellor
+
+McNally
+
+Minister of State
+
+Ministry of Justice
+
+13th March 2013
+
+## SCHEDULE — Prescribed benefits
+
+Regulations 5 and 6
+
+**1.**[^key-7e6c5cda6c756b3d2eccfefed40e0964] Any payments payable out of—
+
+- (a) the Independent Living Fund[^f00016];
+- (b) the Independent Living (Extension) Fund[^f00017];
+- (c) the Independent Living (1993) Fund[^f00018]; or
+- (d) the Independent Living Fund (2006)[^f00019].
+
+**2.**[^key-d40a4ea509265503efe30d21b56079fa] Job grant, return to work credit or in-work credit payable pursuant to arrangements made under section 2 of the Employment and Training Act 1973[^f00020] or section 1 of the Employment and Training Act (Northern Ireland) 1950[^f00021].
+
+**3.**[^key-e8f657d93672877967c550ce18af44e9] Any exceptionally severe disablement allowance payable under the Personal Injuries (Civilians) Scheme 1983[^f00022].
+
+**4.**[^key-53d0698094934d55307a875f19680d51] Incapacity benefit payable under section 30A of the 1992 Act[^f00023] or section 30A of the 1992 (Northern Ireland) Act[^f00024].
+
+**5.**[^key-7ebbfeb40d19073841a5c5fffeb6f986] Maternity allowance payable under section 35 of the 1992 Act or section 35 of the 1992 (Northern Ireland) Act.
+
+**5A.**[^key-786a39c3a80237a348a35397f257b73a] Maternity allowance payable under section 35B of the 1992 Act or section 35B of the 1992 (Northern Ireland) Act.
+
+**6.**[^key-4ee8a7f5e8333507f858e6581f147163] Benefits for surviving spouses and civil partners payable under section 39A[^key-28d6173570d8b2a2ccf23411e30020b2] of the 1992 Act[^f00025] or section 39A of the 1992 (Northern Ireland) Act[^f00026].
+
+**6A.**[^key-565aa8a55fd1365d1825cc918645e5ad] Benefits for surviving spouses and civil partners under section 30 of the Pensions Act 2014 or section 29 of the Pensions Act (Northern Ireland) 2015.
+
+**7.**[^key-3c8f127d0674a3d887fc1086fcc79a2f] Benefits for widows payable under sections 37 and 38 of the 1992 Act or sections 37 and 38 of the 1992 (Northern Ireland) Act.
+
+**8.**[^key-28a7031085d6ddc5f2aa4e78800fae43] Long-term incapacity benefit for widows and widowers payable under sections 40 and 41 of the 1992 Act[^f00027] or sections 40 and 41 of the 1992 (Northern Ireland) Act[^f00028].
+
+**9.**[^key-e1f9216e52eb7f83a63bdf009e98a0d2] Category A and Category B retirement pension payable under sections 44, 48A, 48AA,[^key-6c96eb0f50de4bb96969ce485e4f7074] 48B, 48BB and 51 of the 1992 Act[^f00029] or sections 44, 48A, 48AA, 48B, 48BB and 51 of the 1992 (Northern Ireland) Act[^f00030].
+
+**9A.**[^key-78737ac037350cbc66715f36dfbc4621] A state pension under Part 1 of the Pensions Act 2014 or Part 1 of the Pensions Act (Northern Ireland) 2015.
+
+**10.**[^key-6df47b047fe2ee3f4079f3fc42cc58e3] Shared additional pension payable under section 55A or 55AA[^key-8f86524039e684b605275155da469cdf] of the 1992 Act[^f00031] or section 55A or 55AA of the 1992 (Northern Ireland) Act[^f00032].
+
+**11.**[^key-e5599f21ff256af1f4a00f8294ceeec1] Attendance allowance payable under section 64 of the 1992 Act or section 64 of the 1992 (Northern Ireland) Act.
+
+**12.**[^key-f7d16d758a8907b58eaba749974f4fe1] Severe disablement allowance payable under section 68 of the 1992 Act[^f00033] or section 68 of the 1992 (Northern Ireland) Act[^f00034].
+
+**13.**[^key-9d572a9a037b3e0eb4407565c1fa00bc] Carer’s allowance payable under section 70 of the 1992 Act[^f00035] or section 70 of the 1992 (Northern Ireland) Act[^f00036].
+
+**14.**[^key-df59c11acbc554517832395d547cdecd] Disability living allowance payable under section 71 of the 1992 Act[^f00037] or section 71 of the 1992 (Northern Ireland) Act.
+
+**15.**[^key-bd6330c8991cc3327dd55ce3ebb4b2f2] Industrial injuries benefit payable under section 94 of the 1992 Act or section 94 of the 1992 (Northern Ireland) Act.
+
+**16.**[^key-73716e4a6d73c8a5504cd98948a5fdff] Income support payable under section 124 of the 1992 Act[^f00038] or section 123 of the 1992 (Northern Ireland) Act.
+
+**17.**[^key-994335668f03fffef3aae6b30904414f] Housing benefit payable under section 130 of the 1992 Act[^f00039] or section 129 of the 1992 (Northern Ireland) Act.
+
+**18.**[^key-5426653dcccc5aa7a2214f7db1d2414a] Council tax benefit payable under section 131 of the 1992 Act[^f00040].
+
+**19.**[^key-cd26a55c5cedfae3a4f304dd04db5075] Statutory maternity pay payable under Part 12 of the 1992 Act or Part 12 of the 1992 (Northern Ireland) Act.
+
+**20.**[^key-ad8db1d6bfb34e4f447674748db31509] Statutory paternity pay payable under Part 12ZA of the 1992 Act[^f00041] or Part 12ZA of the 1992 (Northern Ireland) Act[^f00042].
+
+**21.**[^key-1bf8295e8c7967d978269ccd0bacb598] Statutory adoption pay payable under Part 12ZB of the 1992 Act[^f00043] or Part 12ZB of the 1992 (Northern Ireland) Act[^f00044].
+
+**22.**[^key-ac3d446a2a2e38a183261395e16c7e9c] An allowance payable under the Jobseekers Act 1995 or an allowance payable under Part II of the Jobseekers (Northern Ireland) Order 1995[^f00045].
+
+**23.**[^key-b78ef3bdabe4cea9383d47abd46aa88a] Any direct payment payable under section 17A of the Children Act 1989, section 49(3) of the Children and Families Act 2014 (personal budgets and direct payments),[^key-209013770f9f01e8f57810161bda66ca] [^key-aa0afc8544ecc7a62e903605545b22b2]... sections 31 to 33 of the Care Act 2014 (direct payments) or under[^key-65e97da06d0f8370c5ce5b9be38f98c1] regulations made under section 57(1) of the Health and Social Care Act 2001[^f00046] , section 8(1)[^key-4b0ebfb0d2e433cabaa117a688b46fb9] of the Carers and Direct Payments Act (Northern Ireland) 2002[^f00047] or sections 50 to 53 of the Social Services and Well-being (Wales) Act 2014 (direct payments)[^key-ee16f0011f3630193583fb33ddc8de42].
+
+**24.**[^key-982614f449966d41d09520ad6f4f833d] Guarantee credit payable under section 1(3)(a) of the State Pension Credit Act 2002[^f00048] or section 1(3)(a) of the State Pension Credit Act (Northern Ireland) 2002[^f00049].
+
+**25.**[^key-fc70f033e6f328f8be26557e314d6322] Any pensions payable under The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006[^f00050].
+
+**26.**[^key-c7281dd67b5cf64e1eb66bb241f5d4bf] An allowance payable under Part 1 of the Welfare Reform Act 2007 or an allowance payable under section 1(2)(b) of the Welfare Reform Act (Northern Ireland) 2007[^f00051].
+
+**27.**[^key-5742c852a8ac12c1f68f4d9649a72122] Universal credit payable under Part 1 of the 2012 Act.
+
+**28.**[^key-cda2538fc529e76722a13ed7dd753ab9] Personal independence payment payable under Part 4 of the 2012 Act.
+
+**29.**[^key-677055643aad089a421931fef94f9818] Armed forces independence payment payable under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Section 22 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10) (“the Act”) provides that the relevant authority (in practice, the Director of Legal Aid Casework) may make an information request to the Secretary of State, a relevant Northern Ireland Department (defined in section 22(8) of the Act as the Department for Social Development in Northern Ireland or the Department of Finance and Personnel in Northern Ireland) or the Commissioners for Her Majesty’s Revenue and Customs (“the Commissioners”) for the purposes of facilitating a determination about an individual’s financial resources for the purpose of legal aid available under Part 1 of the Act.
+
+Section 22(3) of the Act sets out the information that may be requested from the Secretary of State or a relevant Northern Ireland Department and section 22(4) of the Act sets out the information that may be requested from the Commissioners. Regulations 3 and 4 prescribe additional information that may be requested from a relevant Northern Ireland Department and the Commissioners.
+
+Section 22(3)(e) and (4)(g) of the Act provide that the relevant authority may request information about the benefit status of an individual. Regulations 5, 6 and 7, and the Schedule specify the particular benefits in relation to which an individual’s benefit status may be requested.
+
+Regulation 8 prescribes cases in which an individual’s benefit status includes the amount of a prescribed benefit an individual is receiving, and where the benefit consists of a number of elements, what those elements are and how much the individual is receiving in respect of each element of the benefit.
+
+## Annotations
+
+[^f00001]: Footnote: Section 42(1) of the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) provides that in Part 1 of that Act “regulations” means regulations made by the Lord Chancellor.
+
+[^f00002]: Footnote: Section 22(8) includes a definition of “benefit status”. This means, in relation to an individual, whether or not the individual is in receipt of a prescribed benefit. Paragraph (c) of the definition includes a power to prescribe cases in which “benefit status” also means the amount the individual is receiving by way of the benefit. Paragraph (d) of the definition includes a power, in relation to benefits consisting of a number of elements, to prescribe cases in which “benefit status” also means what those elements are and the amount included in respect of each element in calculating the benefit amount. Section 42(1) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 provides that in Part 1 of that Act “prescribed” means prescribed by regulations.
+
+[^f00003]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
+
+[^key-91d434ea30bc4a7199a92e72939c61ab]: Commencement: Reg. 1 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^key-dcf80d08b26d1a3f90257b0a6218394e]: Commencement: Reg. 2 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00004]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^f00005]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
+
+[^f00006]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
+
+[^f00007]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1).
+
+[^f00008]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^f00009]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
+
+[^key-ffe59d913bd71249f663c5e5ae0428d9]: Commencement: Reg. 3 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00010]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5).
+
+[^f00011]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
+
+[^key-18aff420a61920453ad31bf0dc911e32]: Commencement: Reg. 4 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^key-0f7c97307f992b309b3f26de959c7c6a]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2013/628/regulation/4A) inserted (24.10.2013) by [The Legal Aid (Information about Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2726)](https://www.legislation.gov.uk/uksi/2013/2726), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2726/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/2726/regulation/3)
+
+[^key-0598da1fd1b2fdea21954007ca8172d4]: Commencement: Reg. 5 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^key-50a12619a97e341cfd69c9f443c173f6]: Commencement: Reg. 6 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00012]: Footnote: Section 137 was amended by section 2 of the Child Benefit Act [2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6).
+
+[^f00013]: Footnote: Sections 8 and 9 of the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), which provide for child tax credits, are in force for specified purposes only. Part 1 of the Tax Credits Act 2002, which includes these sections, is to be repealed by Part 1 of Schedule 14 to the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) at a date to be appointed.
+
+[^f00014]: Footnote: Sections 10 to 12 of the Tax Credits Act 2002, which provide for working tax credits, are in force for specified purposes only. Part 1 of the Tax Credits Act 2002, which includes these sections, is to be repealed by Part 1 of Schedule 14 to the Welfare Reform Act 2012 at a date to be appointed.
+
+[^key-88450126e982dc9beb749be302d286fb]: Commencement: Reg. 7 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00015]: Footnote: Section 141 was amended by section 1 of the Child Benefit Act 2005.
+
+[^key-2a5d321e411d1dfb77f0f7e432a87a53]: Textual amendment: Word in [reg. 7(c)](https://www.legislation.gov.uk/uksi/2013/628/regulation/7/c) omitted (6.4.2025) by virtue of [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [22(2)(a)](https://www.legislation.gov.uk/uksi/2025/201/regulation/22/2/a)
+
+[^key-a5520b2335f7b176b1203246f7007c04]: Textual amendment: Word in [reg. 7(d)](https://www.legislation.gov.uk/uksi/2013/628/regulation/7/d) substituted for full stop (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [22(2)(b)](https://www.legislation.gov.uk/uksi/2025/201/regulation/22/2/b)
+
+[^key-12be95183d4db9db68b92074cf90c636]: Textual amendment: [Reg. 7(e)](https://www.legislation.gov.uk/uksi/2013/628/regulation/7/e) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [22(2)(c)](https://www.legislation.gov.uk/uksi/2025/201/regulation/22/2/c)
+
+[^key-f0427e8b14fc46be58fdb08d793c0a85]: Commencement: Reg. 8 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^key-7e6c5cda6c756b3d2eccfefed40e0964]: Commencement: Sch. para. 1 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00016]: Footnote: The Independent Living Fund is a discretionary trust established by deed and funded by grants made by the Secretary of State, whose trustees have power to make payments to assist certain severely disabled people to live independently.
+
+[^f00017]: Footnote: The Independent Living (Extension) Fund is a Trust established by a deed dated 25th February 1993 and made between the Secretary of State for Social Security of the one part and Robin Glover Wendt and John Fletcher Shepherd of the other part.
+
+[^f00018]: Footnote: The Independent Living (1993) Fund is a Trust established by a deed dated 25th February 1993 and made between the Secretary of State for Social Security of the one part and Robin Glover Wendt and John Fletcher Shepherd of the other part.
+
+[^f00019]: Footnote: The Independent Living Fund (2006) is a Trust established by a deed dated 10th April 2006 and made between the Secretary of State for Work and Pensions of the one part and Margaret Rosemary Cooper, Michael Beresford Boyall and Marie Theresa Martin of the other part.
+
+[^key-d40a4ea509265503efe30d21b56079fa]: Commencement: Sch. para. 2 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00020]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50). Section 2 was substituted by section 25(1) of the Employment Act [1988 (c. 19)](https://www.legislation.gov.uk/ukpga/1988/19) and amended by Part 1 of Schedule 7 to the Employment Act [1989 (c.38)](https://www.legislation.gov.uk/ukpga/1989/38) and section 47 of the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19).
+
+[^f00021]: Footnote: [1950 c. 29](https://www.legislation.gov.uk/apni/1950/29). Section 1 has been amended by the Youth Employment Service (Northern Ireland) Order 1974 ([S.I. 1974/2144 (N.I. 7)](https://www.legislation.gov.uk/nisi/1974/2144)), the Employment and Training (Amendment) (Northern Ireland) Order 1988 ([S.I. 1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087)) and the Industrial Training (Northern Ireland) Order 1990 ([S.I. 1990/1200 (N.I. 8)](https://www.legislation.gov.uk/nisi/1990/1200)).
+
+[^key-e8f657d93672877967c550ce18af44e9]: Commencement: Sch. para. 3 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00022]: Footnote: [S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686). Article 15 of the Scheme, under which exceptionally severe disablement allowance is payable, was amended by paragraph 4 of Schedule 1 to the Personal Injuries (Civilians) Amendment Scheme 2001 ([S.I. 2001/420](https://www.legislation.gov.uk/uksi/2001/420)). Paragraph 4 of Schedule 3 to the Scheme, which sets out the rate at which exceptionally severe disablement allowance is payable was substituted by paragraph 1 of Schedule 1 to the Personal Injuries (Civilians) Scheme (Amendment) Order 2010 ([S.I. 2010/283](https://www.legislation.gov.uk/uksi/2010/283)).
+
+[^key-53d0698094934d55307a875f19680d51]: Commencement: Sch. para. 4 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00023]: Footnote: Section 30A was inserted by section 1(1) of the Social Security (Incapacity for Work) Act [1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18). Section 30A is to be repealed by Schedule 8 to the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5) at a date to be appointed.
+
+[^f00024]: Footnote: Section 30A was inserted by Article 3(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 ([S.I.1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)). Section 30A is to be repealed by Schedule 8 to the Welfare Reform Act (Northern Ireland) [2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2) at a date to be appointed.
+
+[^key-7ebbfeb40d19073841a5c5fffeb6f986]: Commencement: Sch. para. 5 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^key-786a39c3a80237a348a35397f257b73a]: Textual amendment: [Sch. para. 5A](https://www.legislation.gov.uk/uksi/2013/628/schedule/paragraph/5A) inserted (2.4.2014) by [The Legal Aid (Information about Financial Resources) (Amendment) Regulations 2014 (S.I. 2014/901)](https://www.legislation.gov.uk/uksi/2014/901), [regs. 1](https://www.legislation.gov.uk/uksi/2014/901/regulation/1), [2](https://www.legislation.gov.uk/uksi/2014/901/regulation/2)
+
+[^key-4ee8a7f5e8333507f858e6581f147163]: Commencement: Sch. para. 6 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^key-28d6173570d8b2a2ccf23411e30020b2]: Textual amendment: Words in [Sch. para. 6](https://www.legislation.gov.uk/uksi/2013/628/schedule/paragraph/6) substituted (6.4.2017) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [45(a)](https://www.legislation.gov.uk/uksi/2017/422/article/45/a) (with [arts. 2](https://www.legislation.gov.uk/uksi/2017/422/article/2), [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)); [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2017/297/article/3/1/b)
+
+[^f00025]: Footnote: Section 36 was substituted by section 54 of Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30). Sections 39A and 39B were inserted by section 55 of the same Act.
+
+[^f00026]: Footnote: Section 36 was substituted by article 51 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)). Sections 39A and 39B were inserted by article 52 of the same Order.
+
+[^key-565aa8a55fd1365d1825cc918645e5ad]: Textual amendment: [Sch. para. 6A](https://www.legislation.gov.uk/uksi/2013/628/schedule/paragraph/6A) inserted (6.4.2017) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [45(b)](https://www.legislation.gov.uk/uksi/2017/422/article/45/b) (with [arts. 2](https://www.legislation.gov.uk/uksi/2017/422/article/2), [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)); [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2017/297/article/3/1/b)
+
+[^key-3c8f127d0674a3d887fc1086fcc79a2f]: Commencement: Sch. para. 7 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^key-28a7031085d6ddc5f2aa4e78800fae43]: Commencement: Sch. para. 8 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00027]: Footnote: Sections 40 and 41 were substituted by paragraphs 8 and 9 of Schedule 1 to the Social Security (Incapacity for Work) Act 1994. Sections 40 and 41 are to be repealed by Schedule 8 to the Welfare Reform Act 2007 at a date to be appointed.
+
+[^f00028]: Footnote: Sections 40 and 41 were substituted by paragraphs 8 and 9 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994. Sections 40 and 41 are to be repealed by Schedule 8 to the Welfare Reform Act (Northern Ireland) 2007 at a date to be appointed.
+
+[^key-e1f9216e52eb7f83a63bdf009e98a0d2]: Commencement: Sch. para. 9 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^key-6c96eb0f50de4bb96969ce485e4f7074]: Textual amendment: Word in [Sch. para. 9](https://www.legislation.gov.uk/uksi/2013/628/schedule/paragraph/9) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [43(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/43/a)
+
+[^f00029]: Footnote: Sections 48A and 48B were inserted by paragraph 3 of Schedule 4 to the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26). Section 48BB was inserted by section 56 of the Welfare Reform and Pensions Act 1999.
+
+[^f00030]: Footnote: Sections 48A and 48B were inserted by paragraph 3 of Schedule 2 to the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)). Section 48BB was inserted by article 53 of the Welfare Reform and Pensions (Northern Ireland) Order 1999.
+
+[^key-78737ac037350cbc66715f36dfbc4621]: Textual amendment: [Sch. para. 9A](https://www.legislation.gov.uk/uksi/2013/628/schedule/schedule/paragraph/9A) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [43(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/43/b)
+
+[^key-6df47b047fe2ee3f4079f3fc42cc58e3]: Commencement: Sch. para. 10 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^key-8f86524039e684b605275155da469cdf]: Textual amendment: Word in [Sch. para. 10](https://www.legislation.gov.uk/uksi/2013/628/schedule/paragraph/10) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [43(c)](https://www.legislation.gov.uk/uksi/2015/1985/article/43/c)
+
+[^f00031]: Footnote: Section 55A was inserted by paragraph 3 of Schedule 6 to the Welfare Reform and Pensions Act 1999.
+
+[^f00032]: Footnote: Section 55A was inserted by paragraph 3 of Schedule 6 to the Welfare Reform and Pensions (Northern Ireland) Order 1999.
+
+[^key-e5599f21ff256af1f4a00f8294ceeec1]: Commencement: Sch. para. 11 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^key-f7d16d758a8907b58eaba749974f4fe1]: Commencement: Sch. para. 12 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00033]: Footnote: Section 68 was repealed by section 65 of, and Part IV of Schedule 13 to, the Welfare Reform and Pensions Act 1999, but is subject to the savings provision specified in article 4 of the Welfare Reform and Pensions Act 1999 (Commencement No. 9, and Transitional and Savings Provisions) Order 2000 ([S.I. 2000/2958](https://www.legislation.gov.uk/uksi/2000/2958)).
+
+[^f00034]: Footnote: Section 68 was repealed by article 62 of, and paragraph 25 of Schedule 8 and Part IV of Schedule 10 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999, but is subject to the savings provision specified in article 4 of the Welfare Reform and Pensions (1999 Order)(Commencement No. 6 and Transitional and Savings Provisions) Order (Northern Ireland) 2000 ([S.I. 2000/332 (C. 14)](https://www.legislation.gov.uk/uksi/2000/332)).
+
+[^key-9d572a9a037b3e0eb4407565c1fa00bc]: Commencement: Sch. para. 13 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00035]: Footnote: Section 70 was amended to provide for carer’s allowance by article 3 of, and paragraph 2 of Schedule 1 to, the Regulatory Reform (Carer’s Allowance) Order 2002 ([S.I. 2002/1457](https://www.legislation.gov.uk/uksi/2002/1457)).
+
+[^f00036]: Footnote: Section 70 was amended to provide for carer’s allowance by article 3 of the [Deregulation (Carer’s Allowance) Order (Northern Ireland) 2002 S.R. (NI) 2002 No 321](https://www.legislation.gov.uk/nisr/2002/321).
+
+[^key-df59c11acbc554517832395d547cdecd]: Commencement: Sch. para. 14 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00037]: Footnote: Section 71 is to be repealed by section 90 of the Welfare Reform Act 2012 at a date to be appointed.
+
+[^key-bd6330c8991cc3327dd55ce3ebb4b2f2]: Commencement: Sch. para. 15 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^key-73716e4a6d73c8a5504cd98948a5fdff]: Commencement: Sch. para. 16 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00038]: Footnote: Section 124 is to be repealed by Part 1 of Schedule 14 to the Welfare Reform Act 2012 at a date to be appointed.
+
+[^key-994335668f03fffef3aae6b30904414f]: Commencement: Sch. para. 17 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00039]: Footnote: Section 130 is to be repealed by Part 1 of Schedule 14 to the Welfare Reform Act 2012 at a date to be appointed.
+
+[^key-5426653dcccc5aa7a2214f7db1d2414a]: Commencement: Sch. para. 18 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00040]: Footnote: Section 131 is to be repealed by Part 1 of Schedule 14 to the Welfare Reform Act 2012 at a date to be appointed.
+
+[^key-cd26a55c5cedfae3a4f304dd04db5075]: Commencement: Sch. para. 19 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^key-ad8db1d6bfb34e4f447674748db31509]: Commencement: Sch. para. 20 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00041]: Footnote: Part 12ZA was inserted by section 2 of the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22).
+
+[^f00042]: Footnote: Part 12ZA was inserted by article 5 of the Employment (Northern Ireland) Order 2002 ([S.I. 2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836)).
+
+[^key-1bf8295e8c7967d978269ccd0bacb598]: Commencement: Sch. para. 21 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00043]: Footnote: Part 12ZB was inserted by section 4 of the Employment Act 2002.
+
+[^f00044]: Footnote: Part 12ZB was inserted by article 6 of the Employment (Northern Ireland) Order 2002.
+
+[^key-ac3d446a2a2e38a183261395e16c7e9c]: Commencement: Sch. para. 22 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00045]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705).
+
+[^key-b78ef3bdabe4cea9383d47abd46aa88a]: Commencement: Sch. para. 23 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^key-209013770f9f01e8f57810161bda66ca]: Textual amendment: Words in [Sch. para. 23](https://www.legislation.gov.uk/uksi/2013/628/schedule/paragraph/23) inserted (10.12.2015) by [The Civil Legal Aid (Merits Criteria and Information about Financial Resources) (Amendment) Regulations 2015 (S.I. 2015/2005)](https://www.legislation.gov.uk/uksi/2015/2005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/2005/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2015/2005/regulation/3)
+
+[^key-aa0afc8544ecc7a62e903605545b22b2]: Textual amendment: Words in [Sch. para. 23](https://www.legislation.gov.uk/uksi/2013/628/schedule/paragraph/23) omitted (26.6.2015) by virtue of [The Legal Aid (Information about Financial Resources) (Amendment) Regulations 2015 (S.I. 2015/1408)](https://www.legislation.gov.uk/uksi/2015/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1408/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/1408/regulation/2)
+
+[^key-65e97da06d0f8370c5ce5b9be38f98c1]: Textual amendment: Words in [Sch. para. 23](https://www.legislation.gov.uk/uksi/2013/628/schedule/paragraph/23) inserted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 46](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/46) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
+
+[^f00046]: Footnote: [2001 c. 15](https://www.legislation.gov.uk/ukpga/2001/15).
+
+[^key-4b0ebfb0d2e433cabaa117a688b46fb9]: Textual amendment: Words in [Sch. para. 23](https://www.legislation.gov.uk/uksi/2013/628/schedule/paragraph/23) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 158(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/158/a)
+
+[^f00047]: Footnote: [2002 c. 6](https://www.legislation.gov.uk/nia/2002/6).
+
+[^key-ee16f0011f3630193583fb33ddc8de42]: Textual amendment: Words in [Sch. para. 23](https://www.legislation.gov.uk/uksi/2013/628/schedule/paragraph/23) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 158(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/158/b)
+
+[^key-982614f449966d41d09520ad6f4f833d]: Commencement: Sch. para. 24 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00048]: Footnote: [2002 c. 16](https://www.legislation.gov.uk/ukpga/2002/16).
+
+[^f00049]: Footnote: [2002 c. 14](https://www.legislation.gov.uk/nia/2002/14).
+
+[^key-fc70f033e6f328f8be26557e314d6322]: Commencement: Sch. para. 25 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00050]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606)
+
+[^key-c7281dd67b5cf64e1eb66bb241f5d4bf]: Commencement: Sch. para. 26 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^f00051]: Footnote: [2007 c. 2](https://www.legislation.gov.uk/nia/2007/2).
+
+[^key-5742c852a8ac12c1f68f4d9649a72122]: Commencement: Sch. para. 27 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^key-cda2538fc529e76722a13ed7dd753ab9]: Commencement: Sch. para. 28 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/628/regulation/1)
+
+[^key-677055643aad089a421931fef94f9818]: Textual amendment: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2013/628/schedule/paragraph/29) inserted (24.10.2013) by [The Legal Aid (Information about Financial Resources) (Amendment) Regulations 2013 (S.I. 2013/2726)](https://www.legislation.gov.uk/uksi/2013/2726), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2726/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/2726/regulation/4)

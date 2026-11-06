@@ -1,0 +1,1753 @@
+---
+title: The Marketing of Fruit Plant and Propagating Material (England) Regulations 2017
+id: uksi/2017/595
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-04-25'
+text_date: '2025-10-07'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2017/595
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/595/pdfs/uksiem_20170595_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/595/pdfs/uksi_20170595_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/595/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Marketing of Fruit Plant and Propagating Material (England) Regulations 2017
+
+> Text as at 2025-10-07.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2017 No. 595
+
+Plant Health, England
+
+Seeds, England
+
+The Marketing of Fruit Plant and Propagating Material (England) Regulations 2017
+
+Made
+
+25th April 2017
+
+Laid before Parliament
+
+26th April 2017
+
+Coming into force
+
+1st June 2017
+
+[^c23030311][^c23030321]The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to the common agricultural policy .
+
+[^c23030331]The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and paragraph 1A of Schedule 2 to the European Communities Act 1972 .
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Secretary of State that it is expedient for any reference to Annexes I to V to Commission Implementing Directive 2014/98/EU [^c23030341] to be construed as a reference to those Annexes as amended from time to time.[^key-2130fe85910edb38c671786885650fe1]
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement, extent and application
+
+(1) These Regulations may be cited as the Marketing of Fruit Plant and Propagating Material (England) Regulations 2017 and come into force on 1st June 2017.
+
+(2) They extend to England and Wales but only apply to England.
+
+### 2. Interpretation: general
+
+In these Regulations—
+
+- “**basic material**” means propagating material intended for the production of certified material, which has been—
+  - (a) in relation to propagating material produced in England, certified as basic material in accordance with regulation 9;
+  - (b) in relation to propagating material produced outside England, certified as basic material by a responsible authority in accordance with —[^key-038e6013a491fd8aa08f324e001a1b25]
+    - (i) in the case of material and plants produced in the United Kingdom, the relevant fruit marketing regulations;
+    - (ii) in the case of material and plants produced in a Crown Dependency or a country granted equivalence, legislation recognised by the Secretary of State as having equivalent effect to Schedule 1;
+- “**basic mother plant**” means a mother plant intended for the production of basic material;
+- “**CAC material**” means—
+  - (a) in relation to propagating material and fruit plants produced in England, material and plants that meet the requirements for CAC material in Schedule 1;
+  - (b) in relation to propagating material and fruit plants produced outside England, material and plants that meet the requirements for CAC material in —[^key-ff099e539192876f35e0c1a144bd84e0]
+    - (i) in the case of material and plants produced in the United Kingdom, the relevant fruit marketing regulations;
+    - (ii) in the case of material and plants produced in a Crown Dependency or a country granted equivalence, legislation recognised by the Secretary of State as having equivalent effect to Schedule 1;
+- “**certification**” means the certification of plant material in accordance with regulation 9 and “**certified**” is to be construed accordingly;
+- “**certified material**” means any propagating material or fruit plants intended for the production of fruit plants, which has been—
+  - (a) in relation to propagating material and fruit plants produced in England, certified as certified material in accordance with regulation 9;
+  - (b) in relation to propagating material and fruit plants produced outside England, certified as certified material by a responsible authority in accordance with —[^key-21c02eb851efd1d2ce2a3338c942fb96]
+    - (i) in the case of material and plants produced in the United Kingdom, the relevant fruit marketing regulations;
+    - (ii) in the case of material and plants produced in a Crown Dependency or a country granted equivalence, legislation recognised by the Secretary of State as having equivalent effect to regulation 9(1) and (2);
+- “**certified mother plant**” means a mother plant intended for the production of certified material;
+- “**certified plant material**” means plant material that is certified (as the case may be) as pre-basic material, basic material or certified material;
+- “country granted equivalence” means a country that has been assessed under regulation 5(3) and the Secretary of State is satisfied that the plant material from the country is produced under conditions equivalent to the requirements in these Regulations for plant material;[^key-8a3aedb5eeb3f44c2a85b55bb7f58c49]
+- “Crown Dependency” means the Isle of Man or any of the Channel Islands;
+- “**cryopreservation**” means the maintenance of plant material by cooling to ultra-low temperatures in order to retain the viability of the material;
+- “defects” include injuries, discoloration, scar tissues or desiccation that affect the quality and usefulness of a mother plant or plant material as propagating material;
+- “[^key-1bdf6b2353824e1031fc3c636ce98ef8]**the fruit marketing regulations**” means—
+  - (a) as regards Wales, the Marketing of Fruit Plant and Propagating Material (Wales) Regulations 2017;
+  - (b) as regards Scotland, the Marketing of Fruit Plant and Propagating Material (Scotland) Regulations 2017;
+  - (c) as regards Northern Ireland, the Marketing of Fruit Plant and Propagating Material Regulations (Northern Ireland) 2017;
+- “**the relevant fruit marketing regulations**”, in relation to any constituent part of the United Kingdom, means the fruit marketing regulations applicable in relation to that part;
+- “**fruit plant**” means a plant intended to be planted or replanted, after marketing;
+- “**inspector**” means a person appointed under regulation 16;
+- “**lot**” means a number of units of a single commodity, identifiable by its homogeneity of composition and origin;
+- “[^key-d6edd4f4155a45ead2afa11ddaaff6ca]**marketing**” means the sale, holding with a view to a sale, offer for sale, and any disposal, supply or transfer aimed at commercial exploitation of propagating material or fruit plants to third parties, whether or not for consideration;
+- “**micropropagation**” means the multiplication of plant material in order to produce a large number of plants, using in vitro culture of differentiated vegetative buds or differentiated vegetative meristems taken from a plant;
+- “**mother plant**” means an identified plant intended for propagation;
+- “**official description**” means the description of a variety provided for—
+  - (a) registration as a variety; or
+  - (b) the grant of plant variety rights;
+- “**official examination**” means an examination or inspection conducted by an inspector, including one conducted by way of sample;
+- “**official label**” means—
+  - (a) for certified plant material produced in England, a label issued or approved in accordance with regulation 10(2);
+  - (b) for certified plant material produced outside England, a label issued or approved by the responsible authority in the country or territory where the plant material was produced and which meets, as appropriate to the plant material to which the label relates, the requirements of —[^key-542b67883f3bba2441a0962162c9b2f0]
+    - (i) in the case of material produced in the United Kingdom, the relevant fruit marketing regulations;
+    - (ii) in the case of plant material produced in a Crown Dependency or a country granted equivalence, legislation recognised by the Secretary of State as having equivalent effect to Part 1 of Schedule 2;
+- “**officially recognised description**” means a description of key morphological features that enable the variety to be identified;
+- “**outside England**” means any part of the United Kingdom other than England , any Crown Dependency or country granted equivalence[^key-ad9b0212ed415ff1728fd5e90005729d];
+- “**plant material**” means the plants and materials described in regulation 4;
+- “**plant variety rights**” means rights granted under—
+  - (a) Part 1 of the Plant Varieties Act 1997 [^c23030351]; or[^key-d93f0c9ab5b34befce47a84484730d8c]
+  - (b) [^key-cd358c30489447a80380e4419680afe4]...
+  - (c) domestic legislation in countries or territories, other than those forming part of the United Kingdom, that affords plant variety protection in accordance with UPOV;
+- “practically free from defects'” means that defects likely to impair the quality and usefulness of the propagating material or fruit plants, are present at a level equal to, or lower than, the level expected to result from good cultivating and handling practices, and that level is consistent with good cultivating and handling practices;
+- “**pre-basic material**” means propagating material intended for the production of basic or certified material, which has been—
+  - (a) in relation to propagating material produced in England, certified as pre-basic material in accordance with regulation 9;
+  - (b) in relation to propagating material produced outside England, certified as pre-basic material by a responsible authority in accordance with —[^key-cdcfc897fb929e8cd3722e6666b2c684]
+    - (i) in the case of material produced in the United Kingdom, the relevant fruit marketing regulations;
+    - (ii) in the case of material produced in a Crown Dependency or a country granted equivalence, legislation recognised by the Secretary of State as having equivalent effect to regulation 9(1) and (2);
+- “**pre-basic mother plant**” means a mother plant intended for the production of pre-basic material;
+- “**propagating material**” means seeds, parts of plants and all plant material, including rootstocks, intended for the propagation and production of fruit plants;
+- “RNQP” means a[^key-4adc1edf122755a322aa46edd676a794] GB[^key-3c61d36d983a54b257a192d28771f133] regulated non-quarantine pest within the meaning given by Article 36 of Regulation (EU) 2016/2031 of the European Parliament and of the Council on protective measures against pests of plants;
+- “**responsible authority**” means the authority responsible for the quality of plant material in the country or territory where the plant material was produced;
+- “**supplier**” means any person involved professionally in the reproduction, production, preserving, treating, importing or marketing of plant material;
+- “**supplier's document**” means a document accompanying CAC material and which meets the requirements in Part 2 of Schedule 2;
+- “**UPOV**” means the International Union for the Protection of New Varieties of Plants [^c23030371];
+- “**variety**” means a plant grouping within a single botanical taxon of the lowest known rank, which can be—
+  - (a) defined by the expression of the characteristics resulting from a given genotype or combination of genotypes;
+  - (b) distinguished from any other plant grouping by the expression of at least one of the said characteristics; and
+  - (c) considered as an entity in view of its ability to be propagated unchanged;
+- “**visual inspection**” means the examination of plants or parts of plants in facilities, fields and lots, by an inspector or, where appropriate, the supplier, using the unaided eye, lens, stereoscope or microscope.
+
+### 3. Interpretation: Directives
+
+(1) In these Regulations—
+
+- [^key-95d0c692eadfde0add0cfd499b4934db]...
+- “**Directive [2008/90/EC](https://www.legislation.gov.uk/eudr/2008/90)**” means Council Directive [2008/90/EC](https://www.legislation.gov.uk/eudr/2008/90) on the marketing of fruit plant propagating material and fruit plants intended for fruit production [^c23030391];
+- “**Directive 2014/96/EU**” means Commission Implementing Directive 2014/96/EU on the requirements for the labelling, sealing and packaging of fruit plant propagating material and fruit plants intended for fruit production, falling within the scope of Council Directive [2008/90/EC](https://www.legislation.gov.uk/eudr/2008/90) [^c23030401];
+- “**Directive 2014/97/EU**” means Commission Implementing Directive 2014/97/EU implementing Council Directive [2008/90/EC](https://www.legislation.gov.uk/eudr/2008/90) as regards the registration of suppliers and of varieties and the common list of varieties [^c23030411];
+- “[^key-90e4de1b000d1f179a6aad82a8d5a353][Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098)” means Commission Implementing [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098) implementing Council [Directive 2008/90/EC](https://www.legislation.gov.uk/eudr/2008/0090) as regards specific requirements for the genus and species of fruit plants referred to in Annex I thereto, specific requirements to be met by suppliers and detailed rules concerning official inspections.
+
+(2) References in these Regulations to Annexes I, II, III, IV or V to Directive 2014/98/EU are references to that Annex as amended from time to time as modified by Schedule 6 to these Regulations[^key-01857d3bd0ec102f3db077d90392c309].
+
+(3)[^key-1c5898dba674a7485bc7119523042dc1] Schedule 6 has effect for making modifications to [Directive 2014/98/EU](https://www.legislation.gov.uk/european/directive/2014/0098).
+
+### 4. Plant material to which these Regulations apply
+
+(1) These Regulations apply in relation to fruit plants and propagating material of the genera and species listed in Schedule 3 and their hybrids.
+
+(2) They also apply in relation to parts of plants, including rootstocks, of other genera or species and their hybrids if material from fruit plants listed in Schedule 3 (or any hybrid of such fruit plants) is, or is to be, grafted on to them.
+
+(3) They do not apply in relation to plant material intended for export from England to any country outside the Great Britain[^key-95d41fd0ceeda22694cbac0e7d5e8aba] provided the plant material is identified as such and kept sufficiently isolated.
+
+## PART 2 — Marketing of Plant Material
+
+### 5. Marketing of plant material
+
+(1) A supplier may only market plant material if—
+
+- (a) the supplier is registered in accordance with regulation 11; and
+- (b) the plant material meets the requirements in paragraph (2).
+
+(2) The plant material must be—
+
+- (a) certified plant material or CAC material;
+- (b) a variety that may be marketed in accordance with regulation 7;
+- (c) marketed with a reference to the variety to which the plant material belongs in accordance with regulation 8;
+- (d) in relation to certified plant material, labelled, sealed and packaged in accordance with regulation 10; and
+- (e) in relation to CAC material, accompanied by a supplier's document.
+
+(3)[^key-6647f79888ec77154bda501adb85c867] The Secretary of State may authorise the marketing of plant material from any country outside the United Kingdom[^key-4f0a72fe9e366c023d2334155a9469a9] if satisfied that the plant material has been produced under conditions equivalent to the requirements in these Regulations for plant material.
+
+### 6. Exceptions
+
+Regulation 5(1)(b) does not apply to the marketing of plant material intended for—
+
+- (a) trials or scientific purposes;
+- (b) selection work;
+- (c) measures aimed at the conservation of genetic diversity.
+
+### 7. Varieties that may be marketed
+
+(1) Plant material is of a variety that may be marketed if the variety fulfils one or more of the requirements of paragraph (2).
+
+(2) The variety must—
+
+- (a) have been granted plant variety rights;
+- (b) be registered as a variety;
+- (c) be the subject of an application for—
+  - (i) plant variety rights; or
+  - (ii) registration as a variety;
+- (d) have been marketed prior to 30th September 2012 within the European Union and have an officially recognised description; or
+- (e) in relation to varieties with no intrinsic value for commercial crop production being marketed within the United Kingdom—
+  - (i) have an officially recognised description; and
+  - (ii) is CAC material.
+
+(3) A supplier who markets plant material of a variety described in paragraph (2)(e) must ensure the plant material is accompanied by a supplier's document stating that it is marketed in accordance with that paragraph[^key-cadc987522d86923ce86c802be324fed].
+
+(4) In this regulation, “registered as a variety” (and “**registration**” is to be construed accordingly) means—
+
+- (a) registration in England as a variety in accordance with Schedule 4; or
+- (b)[^key-c3b8d07422c7a7cf348eac4762cbf69e] registration as a variety by the responsible authority in any part of the United Kingdom outside England in accordance with—
+  - (i) in relation to Wales, Schedule 4 to the Marketing of Fruit Plant and Propagating Material (Wales) Regulations 2017;
+  - (ii) in relation to Scotland, Schedule 4 to the Marketing of Fruit Plant and Propagating Material (Scotland) Regulations 2017;
+  - (iii) in relation to Northern Ireland, Schedule 3 to the Marketing of Fruit Plant and Propagating Material (Northern Ireland) Regulations 2017.
+
+### 8. References to variety of plant material
+
+Plant material is marketed with a reference to its variety if it is marketed, in relation to—
+
+- (a) a variety of plant material that is the subject of an application for a grant of plant variety rights, by reference to the breeder's reference or the proposed name of the variety;
+- (b) a registered variety, by reference to its registered name;
+- (c) a variety that is the subject of an application for such registration, by reference to the breeders' reference or the proposed name of the variety;
+- (d) rootstocks that do not belong to a variety, by reference to the appropriate species or interspecific hybrid.
+
+### 9. Certification of plant material
+
+(1) If the requirements of paragraph (2) are satisfied, an inspector must—
+
+- (a) certify plant material produced in England as being—
+  - (i) pre-basic material;
+  - (ii) basic material; or
+  - (iii) certified material;
+- (b) issue a certificate confirming certification (a crop inspection certificate).
+
+(2) The requirements are that on official examination, the plant material has been found to comply with the requirements for certification set out in the relevant provisions of Schedule 5.
+
+(3) An application for certification of plant material produced in England must be made in writing to the Secretary of State and must be accompanied by such information as the Secretary of State may require.
+
+(4) An official label issued in accordance with these Regulations in relation to certified plant material is sufficient evidence that an inspector has certified the plant material to which the official label relates as being certified plant material.
+
+### 10. Labelling, sealing and packaging of certified plant material
+
+(1) Certified plant material, which is marketed, must be labelled, sealed and packaged in accordance with this regulation.
+
+(2) The Secretary of State must issue or approve a label (an official label) if that label meets the requirements in Part 1 of Schedule 2.
+
+(3) But a label used in the retail supply of certified plant material to a non-professional final consumer need only contain appropriate product information, including the name of the responsible authority, the supplier's name or registration number, the botanical name and variety denomination.
+
+(4) An official label must be affixed to the certified plant material.
+
+(5) Where certified plant material forms part of the same lot and is being marketed in a package, bundle or container, an official label must be affixed to that package, bundle or container.
+
+(6)[^key-a8d6d5b4f0943fc581c4ff83df76818d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) A supplier must not market certified plant material in lots of two or more plants or parts of plants unless those lots are sufficiently homogeneous and are properly packaged.
+
+(8) For the purposes of paragraph (7), “**properly packaged**” means the plants or parts of plants—
+
+- (a) are in a package or container that is sealed in a way that prevents the package or container from being opened without damaging the closure or rendering the official label invalid; or
+- (b) form part of a bundle that is tied in such a way that the plants or parts of plants forming part of the bundle cannot be separated without damaging the tie or ties.
+
+## PART 3 — Suppliers
+
+### 11. Registration of suppliers
+
+(1) A supplier must not market plant material unless registered as a supplier by the Secretary of State in accordance with this regulation.
+
+(2) But paragraph (1) does not apply to suppliers who are only marketing plant material to non-professional final consumers.
+
+(3) An application for registration must be made in writing to the Secretary of State and must be accompanied by such information as the Secretary of State may require.
+
+(4) The Secretary of State must register a supplier if satisfied that person will comply with these Regulations.
+
+(5) The Secretary of State must inform the supplier—
+
+- (a) of the Secretary of State's decision under paragraph (4) within 28 days of making it; and
+- (b) where the decision is to register the supplier, of their registration number.
+
+(6) A person who, immediately before the coming into force of these Regulations, was registered as a supplier in accordance with regulation 7 of the Marketing of Fruit Plant Material Regulations 2010 [^c23030431] is registered for the purposes of this regulation.
+
+(7) A person who is registered as a professional operator for the purposes of Regulation (EU) 2016/2031 of the European Parliament and of the Council on protective measures against pests of plants[^key-6b19e585bef6188dad78cd2088479209] is registered for the purposes of this regulation.
+
+(8) The Secretary of State may, by notice—
+
+- (a) modify a supplier's registration; or
+- (b) revoke or suspend a supplier's registration if satisfied the supplier—
+  - (i) has failed to comply with any provision of these Regulations; or
+  - (ii) is no long acting as a supplier.
+
+(9) Unless the Secretary of State otherwise directs, a revocation or suspension under paragraph (8)(b) has immediate effect and continues in effect unless the registration is reinstated.
+
+### 12. Appeals
+
+(1) A supplier aggrieved by a decision of the Secretary of State not to register them under regulation 11(4) or to modify, revoke or suspend their registration under regulation 11(8) may, within 21 days of being notified of the decision, appeal against it to a person appointed for the purpose by the Secretary of State.
+
+(2) The appointed person must consider the appeal and any representations made by the Secretary of State, and, within a period of 21 days beginning with the day on which they receive the appeal or representations (whichever is the later), report in writing with a recommended course of action to the Secretary of State.
+
+(3) The Secretary of State must then make a final decision and notify the appellant, together with the reasons for that decision.
+
+### 13. Register of suppliers
+
+(1) The Secretary of State must maintain a register of registered suppliers.
+
+(2) The register must contain the following information—
+
+- (a) the name, address and contact details of the supplier;
+- (b) which of the activities listed in paragraph (3) the supplier is involved in;
+- (c) the genera or species concerned;
+- (d) the address of the premises where the activity is carried out;
+- (e) the supplier's registration number.
+
+(3) For the purposes of paragraph (2)(b), the activities are the reproduction, production, preserving, treating, importing or marketing of plant material.
+
+(4) A supplier must notify the Secretary of State as soon as practicable of any change to the information required under paragraph (2)(a) to (d).
+
+(5) The Secretary of State may publish the register, or any part of it, at the Secretary of State's discretion.
+
+### 14. Suppliers: plan to identify and monitor production process
+
+(1) A supplier involved in the production of plant material must have in place a plan to identify and monitor critical points in the production of that plant material.
+
+(2) The plan must include details on—
+
+- (a) the location and number of plants;
+- (b) the timing of cultivation;
+- (c) propagating operations;
+- (d) packaging, storage and transportation operations.
+
+### 14A. Suppliers: notification requirements[^key-6e7e44a4a7c165117d772272df61ab8f]
+
+(1) A supplier must immediately report to an inspector—
+
+- (a) plant material that shows the presence of any RNQP listed in Annex 1 or 2 to [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098);
+- (b) the presence in the soil of any RNQP listed in Annex 3 to Directive 2014/98;
+- (c) the presence of any RNQP at the production site at a level greater than the tolerance specified for such organism in Annex 4 to Directive 2014/98; or
+- (d) plant material that shows the presence of any pest listed in Annex 2 or 3 to Commission Implementing Regulation (EU) 2019/2072 establishing uniform conditions for the implementation of Regulation (EU) 2016/2031 of the European Parliament and of the Council, as regards protective measures against pests of plants.
+
+(2) Where a supplier has reported to an inspector plant material referred to in paragraph (1)(d), the supplier must carry out any measures laid down by the inspector.
+
+### 15. Suppliers: record keeping
+
+(1) A supplier must keep records of —
+
+- (a) any sales or purchases of plant material;
+- (b) all deliveries of plant material to and from the supplier's premises;
+- (c) any monitoring of critical points in the production of that plant material;
+- (d) the composition and origin of any plant material of different origins mixed by the supplier during packaging, storage or transport or at delivery;
+- (e) all plant material under production on their premises;
+- (f) field inspections and sampling and testing undertaken in relation to plant material under their control; and
+- (g) any occurrence on their premises of—
+  - (i) any of the organisms or diseases listed in [^key-a5c269d2bb059a7c3d8faecd878259d2]... Annex I, and in Annex II, to Directive 2014/98/EU;
+  - (ii)[^key-1a65cf319a681cdd537fc58d056a4fed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^key-b30e5a85882f1701c790f4d09596ed8f] a plant pest of a description specified in Annex 2 or 3[^key-f8a240a348e2dff3dc926493d0bce7b0] to Commission Implementing Regulation (EU) 2019/2072 establishing uniform conditions for the implementation of Regulation (EU) 2016/2031 of the European Parliament and the Council, as regards protective measures against pests of plants.
+  - (iv)[^key-7672570a01cd7514b5c70013d7ad9284] any RNQP listed in Annex 3 to Directive 2014/98, where present in the soil; and
+  - (v) any RNQP at a level greater than the tolerance specified for that RNQP in Annex 4 to Directive 2014/98.
+
+(2) The records referred to in this regulation must be kept for a minimum of 3 years.
+
+## PART 4 — Enforcement
+
+### 16. Inspectors
+
+(1) The Secretary of State must appoint inspectors for the purposes of these Regulations.
+
+(2) An inspector has the powers set out in this Part of the Regulations.
+
+### 17. Entry and inspection of land and premises
+
+(1) For the purposes of enforcing these Regulations, an inspector has power, on producing a duly authenticated authorisation, to enter any land or premises (except any premises used wholly or mainly as a private dwelling house) at any reasonable hour by giving reasonable notice.
+
+(2) But the requirement to give notice is not necessary—
+
+- (a) where reasonable efforts to agree an appointment have failed;
+- (b) where an inspector has reasonable suspicion of a failure to comply with these Regulations;
+- (c) in an emergency.
+
+(3) A justice of the peace may, by signed warrant, permit an inspector to enter any land or premises, if necessary by reasonable force, if the justice, on sworn information in writing, is satisfied that—
+
+- (a) there are reasonable grounds to enter that land or premises for the purpose of enforcing these Regulations; and
+- (b) any of the conditions in paragraph (4) are met.
+
+(4) The conditions are—
+
+- (a) entry to the premises has been, or is likely to be, refused, and notice of the intention to apply for a warrant has been given to the occupier;
+- (b) asking for admission to the premises, or giving notice, would defeat the object of the entry;
+- (c) entry is required urgently:
+- (d) the premises are unoccupied or the occupier is temporarily absent.
+
+(5) A warrant is valid for three months.
+
+(6) An inspector entering any land or premises may be accompanied by any person (up to a maximum of 4 persons), equipment, materials or vehicle as the inspector considers necessary for the purposes of this regulation.
+
+(7) An inspector entering any premises which are unoccupied or from which the occupier is temporarily absent must leave them as effectively secured against unauthorised entry as they were before entry.
+
+### 18. Search and examination of items on land and premises
+
+(1) Where an inspector exercises the power conferred by regulation 17, the inspector may—
+
+- (a) open any container;
+- (b) carry out any searches, inspections, measurements and tests;
+- (c) take samples;
+- (d) have access to, and inspect, any books, documents or records (in whatever form they are held) relating to these Regulations and remove them to enable them to be copied;
+- (e) photograph or copy anything whose production the inspector has power to require under paragraph (d);
+- (f) photograph anything which the inspector has reasonable cause to believe may be relevant in connection with the enforcement of these Regulations;
+- (g) seize any computers and associated equipment for the purpose of copying documents provided that they are returned as soon as practicable.
+
+(2) Any person who accompanies an inspector in accordance with this regulation may perform any of the inspector's functions but only under the supervision of that inspector.
+
+### 19. Information notice
+
+An inspector may, by notice served on any person, require that person to provide such information as is specified in the notice in such form and within such period following service of the notice or at such time as is so specified.
+
+### 20. Prohibition on movement notice
+
+An inspector may, by notice served on any person, prohibit that person from moving plant material from any premises where the inspector has reasonable grounds to suspect the plant material fails to comply with the requirements of these Regulations.
+
+### 21. Enforcement and prohibition notice
+
+(1) An inspector may serve a notice on any person who contravenes, or who the inspector has reasonable grounds to suspect may contravene, these Regulations—
+
+- (a) requiring that person to act in accordance with the Regulations (an “enforcement notice”);
+- (b) prohibiting that person from acting in breach of them (a “prohibition notice”).
+
+(2) The notice must give reasons for serving it and, if appropriate, specify what action must be taken and give time limits.
+
+### 22. Appeals against notices
+
+(1) Any person who is aggrieved by a decision of an inspector to serve a notice under this Part may appeal to a magistrate's court.
+
+(2) The procedure on appeal to a magistrate's court is by way of complaint and the Magistrates' Courts Act 1980 [^c23030451] applies to the proceedings.
+
+(3) The period within which an appeal must be brought is 28 days from the service of the notice or, in the case of an enforcement notice, the period specified in the notice, whichever ends earlier.
+
+(4) A notice served under this Part must state—
+
+- (a) the right of appeal to a magistrates' court;
+- (b) the period in which such an appeal may be brought.
+
+(5) On an appeal under this regulation, the court may either cancel or affirm the notice and, if it affirms the notice, it may do so either in its original form or with such modifications as it thinks fit.
+
+### 23. Compliance with notices
+
+A notice served under this Part must be complied with at the expense of the person on whom it is served and, if it is not complied with, an inspector may arrange for it to be complied with at the expense of that person.
+
+### 24. Offences and penalties
+
+(1) It is an offence for a person to—
+
+- (a) fail to comply with a notice served under—
+  - (i) regulation 19 (information notice);
+  - (ii) regulation 20 (prohibition on movement notice);
+  - (iii) regulation 21(1)(a) (enforcement notice);
+  - (iv) regulation 21(1)(b) (prohibition notice).
+- (b) fail, without reasonable excuse, to give any assistance that a person may require for the performance of that person's functions under these Regulations.
+- (c) intentionally obstruct an inspector in the exercise of any powers conferred by these Regulations.
+
+(2) A person guilty of an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 25. Offences by bodies corporate
+
+(1) If an offence committed under these Regulations by a body corporate is proved—
+
+- (a) to have been committed with the consent or connivance of an officer, or
+- (b) to be attributable to any neglect on the part of an officer,
+
+the officer as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with the member's functions of management as if the member were a director of the body.
+
+(3) In paragraph (1), “**officer**”, in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
+
+## PART 5 — Administration and revocations
+
+### 26. Notices and authorisations
+
+A notice or authorisation given under these Regulations—
+
+- (a) must be in writing;
+- (b) may be made subject to conditions;
+- (c) may be amended, suspended or revoked by notice.
+
+### 27. Arrangements for official measures
+
+(1) The Secretary of State may make such arrangements with any person (“A”) as the Secretary of State considers necessary or desirable for the purpose of enabling A to carry out official measures under these Regulations on the Secretary of State's behalf.
+
+(2) But the Secretary of State must not make any arrangement under this regulation unless satisfied that the arrangement makes provision for the purpose of preventing any person from—
+
+- (a) deriving any private gain from any official measures carried out under the arrangement; and
+- (b) carrying out any official measures under the arrangement except under official supervision.
+
+(3) The Secretary of State may include in any arrangement such conditions as the Secretary of State considers necessary or desirable for the purposes referred to in paragraphs (1) and (2), including conditions—
+
+- (a) specifying—
+  - (i) the official measures that A must carry out;
+  - (ii) the methods to be used in connection with the official measures that A carries out;
+  - (iii) the fees that A may charge in relation to the official measures that A carries out;
+  - (iv) the records that A must keep in connection with the official measures that A carries out;
+- (b) prohibiting A from—
+  - (i) charging fees in relation to the official measures that A carries out under the arrangement except to the extent that these do not exceed the costs that A incurs in carrying them out;
+  - (ii) carrying out the official measures except under official supervision;
+- (c) prohibiting A from making any further arrangement with any other person (“B”) for any purpose in connection with the carrying out of the official measures that A has arranged with the Secretary of State to carry out, unless—
+  - (i) the Secretary of State has approved all the conditions of the further arrangement and A has received the prior written approval of the Secretary of State to make the further arrangement;
+  - (ii) the further arrangement includes a condition prohibiting B from making any subsequent arrangements for any purpose connected with the carrying out of the official measures in respect of which the Secretary of State made the arrangement with A;
+  - (iii) the further arrangement includes an acknowledgment by A that the Secretary of State may vary, revoke or suspend the further arrangement if it appears to the Secretary of State that B is not complying, or has failed to comply, with any condition of the further arrangement; and
+  - (iv) the further arrangement includes the conditions specified in sub-paragraphs (a) and (b) of this paragraph and for these purposes references in those sub-paragraphs to A are to be construed as references to B and references to “the arrangement” are to be construed as references to the further arrangement.
+
+(4) The Secretary of State must not approve the making of any further arrangement under this regulation unless satisfied that B will not—
+
+- (a) derive any private gain from any official measures that B is to be authorised to carry out under the further arrangement;
+- (b) carry out any official measures under the further arrangement except under official supervision.
+
+(5) The Secretary of State may, by notice to A or B (as the case may be), vary, suspend or revoke an arrangement or further arrangement, or any conditions of an arrangement or further arrangement made under this regulation.
+
+(6) A notice given under paragraph (5) must specify—
+
+- (a) in respect of a variation or revocation, the date from which the variation or revocation takes effect;
+- (b) in respect of a suspension, the period during which the suspension has effect.
+
+(7) When a variation, revocation or suspension has effect, the Secretary of State may, for any purposes in relation to these Regulations, continue to have regard to such of the official measures carried out under an arrangement (or further arrangement) which was varied, revoked or suspended as appear to the Secretary of State to be official measures carried out in accordance with the provisions of these Regulations.
+
+(8) In this regulation, “official measures” include official examinations, growing trials, tests and assessments.
+
+### 28. Transitional provisions for plant material from parent plant existing pre-commencement[^key-d6a98270c6a25cf3d51400a8bd88fe79]
+
+(1) This regulation applies where plant material is produced from a parent plant existing before 1st June 2017.
+
+(2) A supplier may market such plant material if—
+
+- (a) the parent plant meets any certification or CAC requirements relevant to it under the Marketing of Fruit Plant Material Regulations 2010; and
+- (b) the supplier's document accompanying it, or the official label affixed to it, includes a reference to Article 32 of Directive 2014/98/EU.
+
+(3) In this regulation, “**parent plant**” means a pre-basic, basic or certified mother plant or CAC material.
+
+(4) This regulation ceases to have effect on 31st December 2022.
+
+### 28ZA. Transitional provision for supplier’s documents affixed to CAC material[^key-a933681ef68cfda4b1531e3221e91190]
+
+(1) A supplier may market CAC material to which a supplier’s document which does not comply with paragraph 8A of Schedule 2 is affixed in the form of a label if that document—
+
+- (a) is of a colour of supplier’s document that was in use before 1st April 2020; and
+- (b) states that it is marketed in accordance with Article 3 of Commission Implementing Directive (EU) 2019/1813.
+
+(2) This regulation ceases to have effect on 1st July 2021.
+
+### 29. Consequential amendment
+
+(1) In Part 2 of the Schedule to the Legislative and Regulatory Reform (Regulatory Functions) Order 2007 [^c23030461], for “Marketing of Fruit Plant Material Regulations 1995”, substitute “ Marketing of Fruit Plant and Propagating Material (England) Regulations 2017 ”.
+
+(2) In Part 3 of the Schedule to the Economic Growth (Regulatory Functions) Order 2017 [^c23030471], for “Marketing of Fruit Plant Material Regulations 2010”, substitute “ Marketing of Fruit Plant and Propagating Material (England) Regulations 2017 ”.
+
+### 30. Revocation
+
+The Marketing of Fruit Plant Material Regulations 2010 [^c23030481] are revoked in relation to England.
+
+### 31. Review[^key-c4ea86832fab94660ef2ebbf28c56a6f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+George Eustice
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+## SCHEDULE 1 — CAC material[^key-5ca48af9ce782702b4e01d76284505db]
+
+Regulation 2
+
+### 1. Conditions for CAC material (other than rootstocks not belonging to a variety)[^key-5ca48af9ce782702b4e01d76284505db]
+
+(1) CAC material (other than rootstocks not belonging to a variety) may only be marketed if it fulfils the requirements in sub-paragraph (2).
+
+(2) The requirements are that the CAC material—
+
+- (a) is propagated from an identified source of material recorded by the supplier;
+- (b) is true to the description of its variety in accordance with paragraph 3;
+- (c)[^key-47c9e76bb57d804840737e03885b23ce] complies with health requirements in paragraph 4;
+- (d) complies with requirements concerning defects in paragraph 5; and
+- (e) complies with production site requirements in paragraph 6
+
+(3) Where CAC material no longer complies with sub-paragraph (2), the supplier—
+
+- (a) must remove it from the vicinity of other CAC material;
+- (b) may take appropriate measures to ensure that that material complies with sub-paragraph (2) again.
+
+### 2. Rootstocks not belonging to a variety[^key-5ca48af9ce782702b4e01d76284505db]
+
+(1) CAC material consisting of rootstocks not belonging to a variety may only be marketed if it fulfils the requirements in sub-paragraph (2).
+
+(2) The requirements are that the CAC material—
+
+- (a) is true to the description of its species;
+- (b)[^key-7d16f220e9af5e388fca255dec6bd89d] complies with health requirements in paragraph 4;
+- (c) complies with requirements concerning defects in paragraph 5; and
+- (d) complies with production site requirements in paragraph 6
+
+(3) Where CAC material no longer complies with sub-paragraph (2), the supplier—
+
+- (a) must remove it from the vicinity of other CAC material;
+- (b) may take appropriate measures to ensure that that material complies with sub-paragraph (2) again.
+
+### 3. Trueness to the description of the variety[^key-5ca48af9ce782702b4e01d76284505db]
+
+(1) A supplier must establish and regularly verify the trueness of CAC material to the description of its variety in accordance with this paragraph.
+
+(2) This is done by observing the expression of the characteristics of a variety, that observation being based on one of the following elements—
+
+- (a) its official description;
+- (b) the description accompanying an application for registration;
+- (c) the description accompanying an application for plant variety rights;
+- (d) where the variety is registered with an officially recognised description, or subject to an application for registration with an officially recognised description, that description.
+
+### 4. Health requirements[^key-5ca48af9ce782702b4e01d76284505db]
+
+(1)[^M_F_17c4ac42-381b-433d-e17b-8b6b4bac7b89] CAC material must be found, on visual inspection by the supplier at the stage of production, to be practically free from the RNQPs listed in Annex 1 or 2 to [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098) in relation to the genus or species concerned, unless stated otherwise in Annex 4 to that Directive.
+
+(2) The supplier must sample and test the identified source of material or CAC material—
+
+- (a) in cases of doubt as to the presence of any RNQP listed in Annex 1 to [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098), for such pests;
+- (b) for the RNQPs listed in Annex 2 to [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098), subject to the requirements of Annex 4 to that Directive specified in relation to the genus or species concerned, and category.
+
+(3) CAC material must be found after production, on visual inspection by the supplier, to be free from signs or symptoms of any RNQP listed in Annex 1 or 2 to [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098).
+
+(4) Visual inspections and sampling and testing must be conducted in accordance with the requirements specified in Annex 4 to [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098) in relation to the genus or species concerned, and category.
+
+(5) But paragraphs (1) to (3) do not apply to CAC material during cryopreservation.
+
+(6) In this paragraph, “**practically free from pests**” means that the extent to which pests are present on the propagating material or fruit plants is sufficiently low to ensure acceptable quality and usefulness of the propagating material.
+
+### 5. Requirements concerning defects likely to impair quality[^key-5ca48af9ce782702b4e01d76284505db]
+
+(1) CAC material must be practically free from defects.
+
+(2) This is established on the basis of a visual inspection.
+
+(3) Injuries, discoloration, scar tissues or desiccation are considered as defects, if they affect the quality and usefulness of CAC material as propagating material.
+
+### 6. Requirements concerning production site[^key-606ce223fdfcf3e55518e49f4347adf1][^key-5ca48af9ce782702b4e01d76284505db]
+
+CAC material must be produced in accordance with the requirements for the production site, place of production or area set out in Annex 4 to [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098) and specified in relation to the genus or species concerned.
+
+## SCHEDULE 2 — Official labels and supplier's documents[^key-684141f0746241baeb9f0b7a2b037c8e]
+
+Regulation 2
+
+### PART 1 — Official labels
+
+**1.** An official label used in relation to pre-basic material must be white with a diagonal violet stripe.
+
+**2.** An official label used in relation to basic material must be white.
+
+**3.** An official label used in relation to certified material must be blue.
+
+**4.** An official label must—
+
+- (a) not have been previously used;
+- (b) contain the statement “ GB[^key-380fa039a51a00d6b3a7b2d39db8780d] rules and Standards”;
+- (c) state the following particulars—
+  - (i) the name of the responsible authority or its distinguishing abbreviation;
+  - (ii) the name of the supplier or their supplier's registration number;
+  - (iii) the crop inspection certificate number;
+  - (iv) the botanical name of the plant material;
+  - (v) the category of plant material (pre-basic material, basic material, certified material or CAC material) and, for basic material, the generation number;
+  - (vi) the denomination of the variety, and where appropriate, the clone.
+  - (vii) in the case of rootstocks not belonging to a variety, the name of the species or the interspecific hybrid concerned;
+  - (viii) in the case of grafted fruit plants, the denomination of the variety of the rootstock and of the top-graft;
+  - (ix) for varieties for which an application for registration of plant variety right is pending, any information given in relation to sub-paragraphs (b)(vi) and (viii) must be prefaced with the words “proposed denomination” and “application pending”;
+  - (x) where appropriate, the words “variety with an officially recognised description”;
+  - (xi) the quantity of plant material;
+  - (xii) where not England, the country of production and its respective code or abbreviation;
+  - (xiii) the year of issue, or in the case of a replacement label, the year of issue of the original label;
+  - (xiv) in the case of a genetically modified variety—
+    - (aa) a statement that the variety has been genetically modified; and
+    - (bb) a list of the genetically modified organisms.
+
+**5.** The information and particulars required on an official label must be —[^key-4a63978e6beb99b86da3e455b40594f8]
+
+- (a) easily visible and legible, and
+- (b) indelibly printed in English (but may also be printed in other languages).
+
+**6.** An official label may contain such further particulars as the Secretary of State considers appropriate.
+
+**7.** In this Part, the “**crop inspection certificate number**” means the number allocated to the crop inspection certificate by the inspector at the time of issue.
+
+### PART 2 — Supplier's document: CAC material
+
+**8.** A supplier's document accompanying CAC material must—
+
+- (a) contain the statements “GB[^key-0d3cd8632191e07e41aff1a9cc9a063e] rules and Standards” and “CAC material”; and
+- (b) state the following particulars—
+  - (i) the responsible authority and country[^key-962a79e59886d02d012a421e593a6888] where the supplier's document was prepared or their distinguishing abbreviations;
+  - (ii) the supplier's registration number;
+  - (iii) the individual serial, week or batch number;
+  - (iv) the botanical name of the plant material;
+  - (v) the denomination of the variety and, where appropriate, the clone;
+  - (vi) in the case of rootstocks not belonging to a variety, the name of the species or the interspecific hybrid concerned;
+  - (vii) in the case of grafted fruit plants, the denomination of the variety of the rootstock and of the top-graft;
+  - (viii) for varieties for which an application for registration of plant variety right is pending, any information given in relation to sub-paragraphs (v) and (vii) must be pre-fixed with the words “proposed denomination” and “application pending”;
+  - (ix)[^key-53f283d2e09aced2284fd5ae9f44ef72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (x)[^key-73dd8e86cc6e6bf45e52e0226caa904d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (xi) the date the supplier's document was issued.
+  - (xii)[^key-2c137fd893fa02fb5c3b32b98f66ef4d] in the case of a genetically modified variety, a statement that the variety has been genetically modified and a list of the genetically modified organisms
+
+**8A.**[^key-e0321c995b2394149ad90745ae070b9f] A supplier’s document affixed to CAC material in the form of a label must be yellow.
+
+**9.** The information and particulars required in a supplier's document must be —[^key-c067fc03d6f9de0329add29a376bba98]
+
+(a) easily visible and legible, and
+
+(b) indelibly printed in English (but may also be printed in other languages).
+
+**10.** A supplier's document accompanying CAC material produced in England may contain such further particulars as the Secretary of State considers appropriate.
+
+## SCHEDULE 3 — Genera and species to which these Regulations apply[^key-8b3d99c8b80f3cd6abf701b18fbaa519]
+
+Regulation 4
+
+| *Genera and species* | *Common name (for guidance only)* |
+| --- | --- |
+| *Castanea sativa* Mill. | Chestnut |
+| *Citrus* L. | includes Grapefruit, Lemon, Lime, Mandarin and Orange |
+| *Corylus avellana* L. | Hazel |
+| *Cydonia oblonga* Mill. | Quince |
+| *Ficus carica* L. | Common edible fig |
+| *Fortunella* Swingle | Kumquat |
+| *Fragaria* L. | all cultivated strawberry species |
+| *Juglans regia* L. | Walnut |
+| *Malus* Mill. | Apple |
+| *Olea europaea* L. | Olive |
+| *Pistacia vera* L. | Pistachio |
+| *Poncirus* Raf. | Trifoliate orange |
+| *Prunus armeniaca* L. | Apricot |
+| *Prunus avium* (L.) L. | Sweet cherry |
+| *Prunus cerasus* L. | Sour cherry |
+| *Prunus domestica* L. | Plum |
+| *Prunus dulcis* (Mill) D A Webb (otherwise known as *Prunus amygdalus* Batsch) | Almond |
+| *Prunus persica* (L.) Batsch | Peach |
+| *Prunus salicina* Lindley | Japanese plum |
+| *Pyrus* L. | All cultivated edible pears, including perry pears |
+| *Ribes* L. | Blackcurrant, gooseberry, redcurrant and white currant |
+| *Rubus* L. | Blackberry, raspberry and hybrid berries |
+| *Vaccinium* L. | includes Blueberry, cranberry and bilberry |
+
+## SCHEDULE 4 — Registration of varieties
+
+Regulation 7(4)
+
+### 1. Interpretation
+
+In this Schedule—
+
+- “**appropriate protocol**” means—
+  - (a) [^key-d2f4bb98475e82bce5e26ad49444ffc9]...
+  - (b) [^key-ae2a74562e087019b6e134e5e67f9858]... guidelines produced by UPOV relating to the conduct of tests for distinctness, uniformity and stability or the particular genus or species concerned[^key-62210413842802a636f5d53e309b50cd]; or
+  - (c) where [^key-fae23c215f7f22b68666bb9564c109ad]... guidelines mentioned at (b) do not exist, a protocol or guidelines established or recognised[^key-e5d542b7f570813b7665380e0d52f859] by the Secretary of State in relation to the same matters.
+- “**Directive [2001/18/EC](https://www.legislation.gov.uk/european/directive/2001/0018)**” means Directive [2001/18/EC](https://www.legislation.gov.uk/european/directive/2001/0018) of the European Parliament and of the Council on the deliberate release into the environment of genetically modified organisms and repealing Council Directive [90/220/EEC](https://www.legislation.gov.uk/european/directive/1990/0220) [^c23030501];
+- “**distinct**” means variety is clearly distinguishable by one or more characteristics that result from a particular genotype or combination of genotypes, from any other variety whose existence is a matter of common knowledge at the time of the application for registration as a variety;
+- “[^key-992c1cb11c7659e3a4c2d05f357d389c]**the GMO regulations**” means—
+  - (a) in relation to England, the Genetically Modified Organisms (Deliberate Release) Regulations 2002 [^M_F_56699aa6-0176-4794-c3a6-8ec511e4ea6a];
+  - (b) in relation to Wales, the Genetically Modified Organisms (Deliberate Release) (Wales) Regulations 2002 [^M_F_d247fc8b-540a-405c-a520-094bfd8386b8];
+  - (c) in relation to Scotland, the Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002 [^M_F_9eef8893-5299-4400-ba48-c6efc57dafe6];
+  - (d) in relation to Northern Ireland, the Genetically Modified Organisms (Deliberate Release) Regulations (Northern Ireland) 2003 [^M_F_086e5210-e443-4894-ab9a-4c0dd1b8ad17];
+- “**Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829)**” means Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) of the European Parliament and of the Council on genetically modified food and feed [^c23030511];
+- “**stable**” means the characteristics of the variety, which are included in the examination for distinctness, as well as any others used for the variety description, remain unchanged after repeated propagation or, in the case of micropropagation, at the end of each such cycle;
+- “**uniform**” means, subject to the variation that may be expected from the particular features of its propagation, the variety is sufficiently uniform in those characteristics which are included in the examination for distinctness, as well as any other characteristics used for the variety description.
+
+### 2. Application for registration with an official description
+
+(1) An application for registration of a variety with an official description must be made in writing to the Secretary of State in such form as the Secretary of State may require.
+
+(2) An application must be accompanied by—
+
+- (a) any technical information (such as, but not limited to, details of the genus and species to which the variety belongs, its common name, the applicant's details, the variety denomination, origin, and characteristics of the variety) required under an appropriate species that is relevant to the species;
+- (b) information on whether the variety is officially registered elsewhere in the United Kingdom [^key-3fd257f1ca5299061fb68cf806f99e76]... or is the subject of an application for such a registration;
+- (c) a proposed denomination; and
+- (d) such other information as the Secretary of State may require.
+
+(3) Where applicable, an application may be accompanied by details of an official description established by a responsible authority elsewhere in the United Kingdom or in another country which is a member of UPOV[^key-4edfdd7b9d1432829fc6cd10851196ae].
+
+### 3. Registration
+
+(1) The Secretary of State must register a variety with an official description if satisfied that—
+
+- (a) the variety is distinct, uniform and stable;
+- (b) a sample of the variety is available; and
+- (c) in relation to genetically modified varieties, the genetically modified organism of which the variety consists —[^key-532759aac5b18d76a94d9f74a0512542]
+  - (i) is authorised for cultivation pursuant to Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/eur/2003/1829) or the GMO regulations, or
+  - (ii) before the day on which IP completion day falls has been authorised for cultivation pursuant to Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18).
+
+(2) The Secretary of State must base acceptance that a variety is distinct, uniform and stable on the results of growing trials in accordance with paragraph 6.
+
+(3) Growing trials are not required where the Secretary of State is satisfied, on the basis of information submitted by the application, that an official description established by a responsible body elsewhere in the United Kingdom or in another country which is a member of UPOV[^key-ae1483e613b42fbcdf82ad0cde89249a] fulfils the conditions for registration required by sub-paragraph (1).
+
+(4) The Secretary of State may register a variety that has been marketed within the European Union prior to 30th September 2012 provided that variety has an officially recognised description.
+
+### 4. Register of varieties
+
+(1) The Secretary of State must maintain and publish a register of varieties (“**the register**”).
+
+(2) The register must include the following information for each registered variety—
+
+- (a) the denomination of the variety and synonyms;
+- (b) the species the variety belongs to;
+- (c) the indication ‘official description’ or ‘officially recognised description’, as appropriate;
+- (d) the date of registration, or, where applicable, of renewal of registration;
+- (e) the date the validity of the registration ends.
+
+(3) The Secretary of State must also, in relation to each variety registered, keep a file containing a description of the variety and a summary of the facts relevant to its registration.
+
+### 5. Additional requirements for products to be used as genetically modified food or feed
+
+(1) This paragraph applies to any variety from which products are derived for use as, or in—
+
+- (a) food within the scope of Article 3 of Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829); or
+- (b) feed within the scope of Article 15 of Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829).
+
+(2) Before registering any such variety, the Secretary of State must be satisfied that the food or feed has been authorised pursuant to Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829).
+
+(3) Where a growing trial is required, a sample of the material of the variety must be submitted on request.
+
+### 6. Growing trials
+
+(1) Growing trials may be carried out—
+
+- (a) by the Secretary of State;
+- (b) for the Secretary of State in accordance with arrangements for official measures made under regulation 27; or
+- (c) by a responsible authority elsewhere in the United Kingdom ; or[^key-2b8f0688ec657ad84908447e642ce7e4]
+- (d)[^key-4e6fa260fbd77d3257344120c9d75889] by a competent authority outside the United Kingdom if the Secretary of State is satisfied that those growing trials are of equivalent standards to those carried out by or on behalf of the Secretary of State.
+
+(2) Growing trials must—
+
+- (a) establish whether a variety is distinct, uniform and stable; and
+- (b) be conducted, as regards trial design, growing conditions and characteristics of the variety to be covered, in accordance with an appropriate protocol.
+
+### 7. Duration and renewal of registration
+
+(1) Registration of a variety is valid—
+
+- (a) in the case of a genetically modified variety, for the period for which the genetically modified organism of which the variety consists—[^key-9d291ba96f167755cfe73be0f597fe2b]
+  - (i) is authorised for cultivation pursuant to Regulation 1829/2003 or the GMO regulations, or
+  - (ii) has, before the day on which IP completion day falls, been authorised for cultivation pursuant to Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18); or
+- (b) otherwise until the end of the 30th calendar year from the date of acceptance.
+
+(2) But sub-paragraph (1) does not apply if the registration is—
+
+- (a) renewed in accordance with sub-paragraphs (3) or 4 (as appropriate);
+- (b) revoked in accordance with paragraph 8.
+
+(3) Subject to sub-paragraph (4), the Secretary of State may, on the basis of a written application, renew the registration for a further period of 30 years if—
+
+- (a) the variety is distinct, uniform and stable;
+- (b) there is material of that variety available on the market.
+
+(4) In the case of a genetically modified variety—
+
+- (a) any renewal of registration must be subject to a condition that the respective genetically modified organism continues to be authorised for cultivation pursuant to [^key-63cf27882c7c055805bc77fc04c77e0f]... Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829);
+- (b) the renewal period must be limited to the period of authorisation of the genetically modified organism concerned.
+
+(5) Subject to sub-paragraph 4, the Secretary of State may renew the registration in the absence of a written application if satisfied renewal serves to preserve genetic diversity and sustainable production.
+
+### 8. Removal from register
+
+(1) The Secretary of State must revoke the registration of a variety if—
+
+- (a) it is no longer distinct, uniform or stable;
+- (b) there is no longer available any material of that variety that is sufficiently uniform or which corresponds to the description of the variety at the time of registration;
+- (c) false or misleading information material to registration was provided to the Secretary of State in connection with the application for registration;
+- (d) in the case of any genetically modified variety, the genetically modified organism contained in that variety —[^key-afcf08bb24c8c7687982474f8fe6e171]
+  - (i) ceases to be authorised pursuant to Regulation 1829/2003 or the GMO regulations; or
+  - (ii) has, before the day on which IP completion day falls, been authorised for cultivation pursuant to Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18) and ceases to be authorised.
+
+(2) But sub-paragraphs (1)(a) to (c) do not apply if the Secretary of State is satisfied that the variety should remain on the register in the interests of preserving the genetic diversity of varieties.
+
+## SCHEDULE 5 — Certification of plant material[^key-057fb8ec59e731c1fb9798c0c69c20a5]
+
+Regulation 9
+
+### PART 1 — Introduction
+
+#### 1. Interpretation
+
+In this Schedule—
+
+- “**appropriate protocol**” means—
+  - (a) a protocol published by the European and Mediterranean Plant Protection Organisation in relation to the particular activity (such as, but not limited to, sampling and testing or multiplication, renewal and propagation, including by micropropagation, of mother plants) and the particular genus or species concerned;
+  - (b) where no protocol mentioned at (a) exists, a protocol in relation to the same matters which has international recognition; or
+  - (c) where neither protocol mentioned at (a) or (b) exists, a protocol established by the Secretary of State in relation to the same matters;
+- “**candidate pre-basic mother plant**” means a mother plant which the supplier intends to have accepted as a pre-basic mother plant;
+- “**multiplication**” means the vegetative production of plants in order to obtain a sufficient number of plants in the same category;
+- “**official inspection**” means a visual inspection and, where appropriate, sampling and testing carried out by an inspector in accordance with paragraph 2;
+- “**renewal**” means replacing a plant with a plant vegetatively produced from it.
+
+#### 2. Official inspections
+
+(1) During an official inspection, an inspector must pay attention to—
+
+- (a) the suitability and use of methods by the supplier for checking each of the critical points in the production process;
+- (b) the overall competence of the supplier's staff to carry out the production or reproduction of propagating material and fruit plants.
+
+(2) An inspector must keep records of the results and dates of all field inspections and sampling and testing carried out by that inspector.
+
+### PART 2 — Certification of pre-basic material
+
+#### 3. Propagating material (other than mother plants and rootstocks)
+
+(1) Propagating material (other than mother plants and rootstocks) may be certified as pre-basic material if that material meets the requirements in sub-paragraph (2).
+
+(2) The requirements are that the propagating material—
+
+- (a) is directly propagated from a mother plant—
+  - (i) accepted in accordance with paragraph 5;
+  - (ii) obtained by multiplication or micropropagation in accordance with paragraph 13;
+- (b) has been verified by an inspector as being true to the description of its variety in accordance with paragraph 7;
+- (c) has been maintained in accordance with paragraph 8;
+- (d) complies with the health requirements in paragraph 10;
+- (e) where authorised under paragraph 8(2) to be grown in the field under non-insect proof conditions, is grown in soil that is found, by sampling and testing, to comply with paragraph 11;
+- (f) complies with paragraph 12 concerning defects.
+- (g)[^key-a71402c88058db78d34fe343b04893d3] complies with the production site requirements in paragraph 12A.
+
+(3) Where the mother plant or propagating material no longer fulfils the relevant requirements in sub-paragraph (2), the supplier—
+
+- (a) must remove the plant or material from the vicinity of other pre-basic mother plants and pre-basic material;
+- (b) may take appropriate measures in order to ensure that the mother plant or material complies with those requirements again.
+
+(4) A supplier may use any mother plant or material removed in accordance with sub-paragraph (3)(a) as basic, certified or CAC material provided the plant or material fulfils the requirements set out in these Regulations for the respective categories.
+
+#### 4. Rootstocks not belonging to a variety
+
+(1) A rootstock not belonging to a variety may be certified as pre-basic material if it meets the requirements in sub-paragraph (2).
+
+(2) The requirements are that the rootstock—
+
+- (a) is directly propagated from a mother plant—
+  - (i) by vegetative or sexual propagation, and in the case of sexual propagation, by pollinating trees (pollenisers) that are directly produced by vegetative propagation from a mother plant;
+  - (ii) accepted in accordance with paragraph 5;
+  - (iii) obtained by multiplication or micropropagation in accordance with paragraph 13;
+- (b) has been verified by an inspector as being true to the description of its species[^key-a34c0ad8eba4774a0265c41819ae4e09] in accordance with paragraph 7;
+- (c) has been maintained in accordance with paragraph 8;
+- (d) complies with the health requirements in paragraph 10;
+- (e) where authorised under paragraph 8(2) to be grown in the field under non-insect proof conditions, is grown in soil that is found, by sampling and testing, to comply with paragraph 11;
+- (f) complies with paragraph 12 concerning defects.
+- (g)[^key-87c423c9e3ebc2a143e434cd7c36667e] complies with the production site requirements in paragraph 12A.
+
+(3) Where a rootstock, which is a pre-basic mother plant or pre-basic material, no longer fulfils the relevant requirements in sub-paragraph (2), the supplier—
+
+- (a) must remove the mother plant or material from the vicinity of other pre-basic mother plants and pre-basic material;
+- (b) may take appropriate measures to ensure the mother plant or the material complies with those requirements again.
+
+(4) A supplier may use any mother plant or material removed in accordance with sub-paragraph (3)(a) as basic, certified or CAC material provided the mother plant or material fulfils the requirements set out in these Regulations for the respective categories.
+
+#### 5. Requirements for the acceptance of a pre-basic mother plant
+
+(1) A plant may be accepted as a pre-basic mother plant if an official inspection confirms—
+
+- (a) compliance with paragraphs 7 to 12A[^key-823542695570ba2aa71d04bbccd1906b]; and
+- (b) its trueness to the description of its variety is established in accordance with this regulation.
+
+(2) An inspector must establish the trueness of the pre-basic mother plant to the description of its variety by the observation of the expression of the characteristics of the variety.
+
+(3) That observation must be based on one of the following elements—
+
+- (a) the official description for varieties registered in a register of varieties, and for varieties legally protected by a plant variety right;
+- (b) the description accompanying the application for varieties which are the subject of an application for registration in a register of varieties;
+- (c) the description accompanying the application for varieties which are the subject of an application for registration of a plant variety right;
+- (d) the officially recognised description, if the variety subject to that description is registered in a register of varieties.
+
+(4) Where sub-paragraphs (3)(b) or (c) applies—
+
+- (a) the pre-basic mother plant may only be accepted if a report, produced by an inspector or by a responsible authority in any part of the United Kingdom other than England or in another country which is a member of UPOV[^key-96e5f1624ce01f3ec24b40a87ff9f951], is available proving that the respective variety is distinct, uniform and stable;
+- (b) pending the registration of the variety, the mother plant concerned and the material produced from it may only be used for the production of basic or certified material and must not be marketed as pre-basic, basic or certified material.
+
+(5) Where the establishment of the trueness to the description of the variety is only possible on the basis of the characteristics of a fruiting plant—
+
+- (a) the observation of the expression of the characteristics of the variety must be carried out on the fruits of a fruiting plant propagated from the pre-basic mother plant; and
+- (b) those fruiting plants must be kept separate from the pre-basic mother plants and pre-basic material.
+
+(6) Fruiting plants must be visually inspected in the most appropriate periods of the year taking into account climatic and growing conditions of plants of the genera or species concerned.
+
+(7) In this paragraph—
+
+- “**fruiting plant**” means a plant propagated from a mother plant and grown for the production of fruit in order to permit the verification of the varietal identity of that mother plant;
+- “[^key-6b104e06c0ac1b8cbc5892c6c76ca85c]**register of varieties**” means, in relation to the registration of varieties, the register maintained—
+  - (a) in England, under paragraph 4(1) of Schedule 4;
+  - (b) in Wales, under paragraph 4(1) of Schedule 4 to the Marketing of Fruit Plant and Propagating Material (Wales) 2017 [^M_F_3ed8124b-b16a-4f45-e3e7-b09b9d32dc2b];
+  - (c) in Scotland, under paragraph 2(1) of Schedule 4 to the Marketing of Fruit Plant and Propagating Material (Scotland) 2017 [^M_F_5425b810-c062-4a5a-bd98-4106d05ea532];
+  - (d) in Northern Ireland, for the purposes of paragraph 1 of Schedule 3 to the Marketing of Fruit Plant and Propagating Material Regulations (Northern Ireland) 2017 [^M_F_174d1883-36a2-49ae-e9ba-2e48058f0a48];
+
+#### 6. Requirements for the acceptance of a rootstock not belonging to a variety
+
+An inspector may accept a rootstock not belonging to a variety as a pre-basic mother plant if it is true to the description of its species and if it complies with paragraphs 8 to 12A[^key-557484c11f38402da6119fa56f0d5011].
+
+#### 7. Verification of trueness to the description of the variety
+
+(1) An inspector and, where appropriate, the supplier, must regularly verify the trueness of pre-basic mother plants and of pre-basic material to the description of their variety, in accordance with paragraph 5(2) and (3), as appropriate for the variety concerned and the propagation method used.
+
+(2) In addition to the regular verification of pre-basic mother plants and pre-basic material, the inspector and, where appropriate, the supplier must, after each renewal of a mother plant, verify the pre-basic mother plants resulting from it.
+
+#### 8. Maintenance requirements: pre-basic material and pre-basic mother plants
+
+(1) A supplier must—
+
+- (a) maintain pre-basic mother plants and pre-basic material in facilities designated for the genera or species concerned, which are insect proof and ensure freedom from infection through aerial vectors and any other possible sources throughout the production process;
+- (b) grow or produce pre-basic mother plants and pre-basic material isolated from the soil, in individually labelled pots of soil-free or of sterilised growing media;
+- (c) ensure pre-basic mother plants and pre-basic material are individually identified throughout the production process;
+- (d) keep candidate pre-basic mother plants under insect proof conditions, and physically isolated from pre-basic mother plants in the facilities referred to in sub-paragraph 1(a), until all tests concerning compliance with paragraph 9 have been concluded.
+
+(2) But paragraph (1) does not apply where the Secretary of State authorises the production of pre-basic mother plants (including candidate pre-basic mother plants) and pre-basic material in a field under non-insect proof conditions, which the Secretary of State may do if satisfied—
+
+- (a)[^key-5b0f626bbc27feaeb61dd488ac61ba25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the plants and material are identified by labels that ensure traceability; and
+- (c) appropriate measures are taken to prevent infection of the plants and material by aerial vectors, root contact, cross infection by machinery, grafting tools or any other possible source.
+
+(3) Pre-basic mother plants and pre-basic material—
+
+- (a) may be maintained by cryopreservation; and
+- (b) may only be used for a period calculated on the basis of the stability of the variety or the environmental conditions under which they are grown and any other determinants having an impact on the stability of the variety.
+
+#### 9. Health requirements: candidate pre-basic mother plants and pre-basic mother plants produced by renewal
+
+(1) A candidate pre-basic mother plant and a pre-basic mother plant produced by renewal must be free from the pests listed in Annex I and Annex II to Directive 2014/98/EU, as regards the genus or species concerned.
+
+(2) This is established—
+
+- (a) for pests listed in Annex I to Directive 2014/98/EU, by visual inspection and, in cases of doubt concerning the presence of those pests, by sampling and testing;
+- (b) for pests listed in Annex II to Directive 2014/98/EU, by visual inspection and sampling and testing.
+
+(3) Subject to paragraph (4), sampling and testing—
+
+- (a) must be carried out by an inspector or, where appropriate, the supplier in accordance with the appropriate protocol;
+- (b) in relation to viruses, viroids, virus-like diseases and phytoplasmas, is by means of biological indexing on indicator plants, or such other method the Secretary of State considers to be as reliable;
+- (c) must take place—
+  - (i) in the most appropriate period of the year taking into account the climatic conditions and the growing conditions of the plant, and the biology of the pests relevant for that plant;
+  - (ii) in case of doubts concerning the presence of those pests, at any time of the year.
+
+(4) Where a candidate pre-basic mother plant is a seedling, visual inspection and sampling and testing is only required in respect of the viruses, viroids or virus-like diseases listed in Annex II to Directive 2014/98/EU, as regards the genus or species concerned, that are transmitted by pollen if—
+
+- (a) an official inspection confirms the seedling was grown from a seed produced by a plant free from symptoms caused by those viruses, viroids and virus-like diseases;
+- (b) the seedling has been maintained in accordance with paragraph 8 .
+
+#### 10. Health requirements: pre-basic material and pre-basic mother plants[^key-8041acea2b3a4c354c176285d907d695]
+
+(1) A pre-basic mother plant or pre-basic material must be found to be free from any RNQP listed in Annex 1 or 2 to [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098) in relation to the genus or species concerned, subject to the requirements of Annex 4 to that Directive specified in relation to the genus or species concerned, and category.
+
+(2) An inspector and, where appropriate, the supplier must sample and test the pre-basic mother plant or pre-basic material—
+
+- (i) in cases of doubt as to the presence of any RNQP listed in Annex 1 to [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098), for such pests;
+- (ii) for the RNQPs listed in Annex 2 to [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098), subject to the requirements of Annex 4 to that Directive specified in relation to the genus or species concerned, and category.
+
+(3) But paragraphs (1) and (2) do not apply to pre-basic mother plants or pre-basic material during cryopreservation.
+
+(4)[^key-710eea7801c8ad23b1637c451dfa7ea7] Compliance with sub-paragraph (1) is established by visual inspection by an inspector and, where appropriate, the supplier.
+
+(5) Visual inspections and sampling and testing must be conducted in accordance with Annex IV to Directive 2014/98/EU, as regards the genus or species concerned and, in the case of sampling and testing, also in accordance with the appropriate protocol.
+
+#### 11. Soil requirements; pre-basic material
+
+(1) Pre-basic mother plants and pre-basic material must be grown in soil that is free from any of the pests listed in Annex III to Directive 2014/98/EU relevant to the genus or species concerned and which host viruses affecting that genus or species.
+
+(2) Freedom from such pests must be established by sampling and testing by an inspector and, where appropriate, the supplier.
+
+(3) Sampling and testing must be carried out—
+
+- (a) before the pre-basic mother plants or the pre-basic material is planted, and must be repeated during growth where there is suspicion concerning the presence of the pests referred to in sub-paragraph (1):
+- (b) taking into account the climatic conditions and the biology of the pests listed in Annex III to Directive 2014/98/EU, and where those pests are relevant for the pre-basic mother plants or the pre-basic material concerned;
+- (c) in accordance with the appropriate protocol.
+
+(4) Sampling and testing is not required—
+
+- (a) where plants, which are hosts for the pests listed in Annex III to Directive 2014/98/EU for the genus or species concerned, have not been grown in the soil of production for a period of at least five years and where there is no doubt concerning the absence of the relevant pests in that soil;
+- (b) where an inspector concludes, on the basis of an official inspection, that the soil is free from any pests which are listed in Annex III to Directive 2014/98/EU, for the genus or species concerned, and which host viruses affecting that genus or species.
+
+#### 12. Requirements concerning defects likely to impair quality
+
+(1) Pre-basic mother plants and pre-basic material must be found to be practically free from defects on the basis of visual inspection.
+
+(2) That visual inspection must be carried out by an inspector and, where appropriate, the supplier.
+
+#### 12A. Requirements concerning production site[^key-f41f2ec68d2113e27bbc7567e5f067b2]
+
+Pre-basic mother plants and pre-basic material must be produced in accordance with the requirements for the production site, place of production or area set out in Annex 4 to [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098) and specified in relation to the genus or species concerned.
+
+#### 13. Requirements concerning multiplication, renewal and propagation of pre-basic mother plants
+
+(1) A supplier may multiply or renew a pre-basic mother plant accepted in accordance with paragraph 5.
+
+(2) A supplier may propagate a pre-basic mother plant to produce pre-basic material.
+
+(3) Multiplication, renewal and propagation (including micropropagation) of pre-basic mother plants must take place in accordance with the appropriate protocol.
+
+(4) In the case of micropropagation, the appropriate protocol must have been tested on the relevant genus or species for a period of time considered sufficient to allow phenotype validation of the plants as regards the trueness to the description of the variety based on the observation of the fruit production or of the vegetative development of rootstocks.
+
+(5) A supplier may only renew a pre-basic mother plant before the end of the period referred to in paragraph 8(3)(b).
+
+### PART 3 — Certification of basic material
+
+#### 14. Propagating material (other than basic mother plants and other than rootstocks not belonging to a variety)
+
+(1) Propagating material (other than basic mother plants and rootstocks not belonging to a variety) may be certified as basic material if that material meets the requirements in sub-paragraph (2).
+
+(2) The requirements are that the propagating material—
+
+- (a) is propagated from a basic mother plant—
+  - (i) grown from pre-basic material;
+  - (ii) produced by multiplication from a basic mother plant in accordance with paragraph 19;
+- (b) is verified by an inspector as being true to the description of its variety in accordance with paragraph 7;
+- (c) complies with the time period specified in paragraph 8(3)(b);
+- (d) complies with paragraph 12 concerning defects;
+- (e) complies with the health requirements in paragraph 16;
+- (f) is grown in soil that is found, by sampling and testing, to comply with paragraph 17;
+- (g)[^key-116033f9da746f1d9c03caf248d6e987] has been maintained in accordance with paragraph 18;
+- (h) where appropriate, has been multiplied in accordance with paragraph 19; and
+- (i) has been produced in accordance with the production site requirements in paragraph 12A.
+
+(3) For the purpose of this paragraph, any reference to pre-basic mother plants or to pre-basic material in the paragraphs mentioned in sub-paragraph (2)(b) to (i)[^key-c4487ef8b165b226fea0d25d3beb2d00] is to be construed as reference to basic mother plants or basic material, as the case may be.
+
+(4) Where the mother plant or material no longer fulfils the requirements referred to in sub-paragraphs (2), the supplier—
+
+- (a) must remove the mother plant or material from the vicinity of other basic mother plants and basic material;
+- (b) may take appropriate measures in order to ensure that the mother plant or the material complies with those requirements again.
+
+(5) A supplier may use any mother plant or material removed in accordance with sub-paragraph (4)(a) as certified or CAC material provided the mother plant or material fulfils the requirements set out in these Regulations for the respective categories.
+
+#### 15. Rootstock not belonging to a variety
+
+(1) A rootstock not belonging to a variety may be certified as basic material if it meets the requirements in sub-paragraph (2).
+
+(2) The requirements are that the rootstock—
+
+- (a) is true to the description of its species;
+- (b) is individually identified throughout the production;
+- (c) complies with the time period specified in paragraph 8(3)(b);
+- (d) complies with paragraph 12 concerning defects;
+- (e) complies with the health requirements in paragraph 16;
+- (f) is grown in soil that is found, by sampling and testing, to comply with paragraph 17;
+- (g)[^key-22287597f7cc82a36d119ed9162c4af6] has been maintained in accordance with paragraph 18;
+- (h) where appropriate, has been multiplied in accordance with paragraph 19; and
+- (i) has been produced in accordance with the production site requirements in paragraph 12A.
+
+(3) For the purpose of this paragraph, any reference to pre-basic mother plants or pre-basic material in the paragraphs mentioned in sub-paragraph (2) is to be construed as reference to basic mother plants or basic material, as the case may be.
+
+(4) Where a rootstock not belonging to a variety is a basic mother plant or basic material that no longer fulfils the requirements of sub-paragraph (2) the supplier—
+
+- (a) must remove the rootstock from the vicinity of other basic mother plants and basic material;
+- (b) may take appropriate measures in order to ensure the rootstock complies with those requirements again.
+
+(5) A supplier may use any rootstock removed in accordance with sub-paragraph (4)(a) as certified or CAC material provided the rootstock fulfils the requirements set out in these Regulations for the respective categories.
+
+#### 16. Health requirements: basic mother plant or basic material
+
+(1)[^key-94702d7fc1465e29e276bf9a99516356] A basic mother plant or basic material must be found to be free from any RNQP listed in Annex 1 or 2 to [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098) in relation to the genus or species concerned, subject to the requirements of Annex 4 to that Directive specified in relation to the genus or species concerned, and category.
+
+(2) An inspector and, where appropriate the supplier, must sample and test the basic mother plant or basic material—
+
+- (a) in cases of doubt as to the presence of any RNQP listed in Annex 1 to [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098), for such pests;
+- (b) for the RNQPs listed in Annex 2 to [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098), subject to the requirements of Annex 4 to that Directive specified in relation to the genus or species concerned, and category.
+
+(3) But paragraphs (1) and (2) do not apply to basic mother plants or basic material during cryopreservation.
+
+(4)[^key-6d1644e820ab70250d2f273203f719d5] Compliance with sub-paragraph (1) is established by visual inspection by an inspector and, where appropriate, the supplier.
+
+(5) Visual inspections and sampling and testing must be conducted in accordance with Annex IV to Directive 2014/98/EU, as regards the genus or species concerned and, in the case of sampling and testing, also in accordance with the appropriate protocol.
+
+#### 17. Soil requirements; basic material
+
+(1) Basic mother plants and basic material may only be grown in soil that is free from any pests which are listed in Annex III of Directive 2014/98/EU relevant to the genus or species concerned and which host viruses affecting that genus or species.
+
+(2) Freedom from such pests must be established by sampling and testing by an inspector and, where appropriate, a supplier.
+
+(3) Sampling and testing must be carried out—
+
+- (a) before the basic mother plants or the basic material is planted, and must be repeated during growth where there is suspicion concerning the presence of the pests referred to in sub-paragraph (1):
+- (b) taking into account the climatic conditions and the biology of the pests listed in Annex III to Directive 2014/98/EU, and where those pests are relevant for the basic mother plants or the basic material concerned;
+- (c) in accordance with the appropriate protocol.
+
+(4) Sampling and testing need not be carried out—
+
+- (a) where plants, which are hosts for the pests listed in Annex III to Directive 2014/98/EU for the genus or species concerned, have not been grown in the soil of production for a period of at least five years and where there is no doubt concerning the absence of the relevant pests in that soil;
+- (b) where an inspector concludes on the basis of an official inspection that the soil is free from any pests which are listed in Annex III to Directive 2014/98/EU, for the genus or species concerned, and which host viruses affecting that genus or species.
+
+#### 18. Maintenance requirements: basic mother plants and basic material
+
+Basic mother plants and basic material must be maintained in fields isolated by distance from potential sources of infection including aerial vectors, root contact, cross infection by machinery, grafting tools and any other possible sources.
+
+#### 19. Conditions for multiplication: basic mother plants
+
+(1) Basic mother plants grown from pre-basic material may be multiplied in a number of generations to obtain the necessary number of basic mother plants in accordance with this paragraph.
+
+(2) Any multiplication of a basic mother plant under paragraph (1) must be done in accordance with paragraph 13 and, for the purposes of this sub-paragraph, a reference to a pre-basic mother plant in paragraph 13 is to be construed as reference to a basic mother.
+
+(3) The maximum permitted number of generations, and the maximum permitted life span of a basic mother plant must not exceed the limits set out in Annex V to Directive 2014/98/EU for the relevant genera or species.
+
+(4) Where multiple generations of basic mother plants are permitted, each generation, other than the first one, may derive from any previous generation.
+
+(5) Propagating material of different generations must be kept separate.
+
+### PART 4 — Certification of certified material
+
+#### 20. Propagating material (other than mother plants) and fruit plants
+
+(1) Propagating material (other than mother plants) and fruit plants may be certified as certified material if the propagating material or fruit plant meets the requirements in sub-paragraph (2).
+
+(2) The requirements are that the propagating material or fruit plant—
+
+- (a) is grown from a certified mother plant grown from pre-basic or basic material;
+- (b) is verified by an inspector as being true to the description of its variety in accordance with paragraph 7;
+- (c) complies with the time period specified in paragraph 8(3)(b);
+- (d) complies with paragraph 12 concerning defects;
+- (e)[^key-d29bbd11fe5ca39ebdf4313302df6495] complies with the health requirements in paragraph 22;
+- (f) is grown in soil that is found by sampling and testing to comply with paragraph 23; and
+- (g) complies with the production site requirements in paragraph 12A.
+
+(3) For the purpose of this paragraph, any reference to pre-basic mother plants or pre-basic material in the paragraphs mentioned in sub-paragraph (2) is to be construed as reference to certified mother plants or certified material, as the case may be.
+
+(4) Where a certified mother plant or certified material no longer fulfils the requirements referred to in sub-paragraphs (2)(b) to (g)[^key-1d6da7e222e047348ce9599e4905995a], the supplier—
+
+- (a) must remove the mother plant or material from the vicinity of other certified mother plants and certified material;
+- (b) may take appropriate measures in order to ensure that the mother plant or the material complies with those requirements again.
+
+(5) A supplier may use any mother plant or material removed in accordance with sub-paragraph (3)(a) as CAC material provided the mother plant or material fulfils the requirements set out in Schedule 1 for CAC material.
+
+#### 21. Rootstock not belonging to a variety
+
+(1) A rootstock not belonging to a variety may be certified as certified material if it meets the requirements in sub-paragraph (2).
+
+(2) The requirements are that the rootstock—
+
+- (a) is grown from a certified mother plant grown from pre-basic or basic material;
+- (b) complies with the time period specified in paragraph 8(3)(b);
+- (c) complies with paragraph 12 concerning defects;
+- (d) complies with the health requirements in paragraph 22; and
+- (e) is grown in soil that is found, by sampling and testing, to comply with paragraph 23.
+
+(3) For the purpose of this paragraph, any reference to pre-basic mother plants or pre-basic material in the paragraphs mentioned in sub-paragraph (2) is to be construed as reference to certified mother plants or certified material, as the case may be.
+
+(4) Where a rootstock not belonging to a variety is a certified mother plant or certified material that no longer fulfils the requirements referred to in sub-paragraph (2), the supplier—
+
+- (a) must remove the rootstock from the vicinity of other certified mother plants and certified material;
+- (b) may take appropriate measures in order to ensure the rootstock complies with those requirements again.
+
+(5) A supplier may use any rootstock removed in accordance with paragraph (3)(a) as CAC material provided the rootstock fulfils the requirements set out in Schedule 1 for CAC material.
+
+#### 22. Health requirements: certified mother plants and material
+
+(1)[^key-88b13bcfac47eda127532f2222d6ae99] A certified mother plant or certified material must be found to be free from any RNQP listed in Annex 1 or 2 to [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098) in relation to the genus or species concerned, subject to the requirements of Annex 4 to that Directive specified in relation to the genus or species concerned, and category.
+
+(2) An inspector and, where appropriate, the supplier must sample and test the certified mother plant or certified material—
+
+- (a) in cases of doubt as to the presence of any RNQP listed in Annex 1 to [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098), for such pests;
+- (b) for the RNQPs listed in Annex 2 to [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098), subject to the requirements of Annex 4 to that Directive specified in relation to the genus or species concerned, and category.
+
+(3) But paragraphs (1) and (2) do not apply to certified mother plants or certified material during cryopreservation.
+
+(4) An inspector and, where appropriate, a supplier, establishes compliance with paragraph (1) by visual inspection[^key-df8310e612f48c8a1f39c0d5493200eb].
+
+(5) Visual inspections and sampling and testing must be conducted in accordance with Annex IV to Directive 2014/98/EU, as regards the genus or species concerned and, in the case of sampling and testing, also in accordance with the appropriate protocol.
+
+#### 23. Soil requirements; certified mother plants and material
+
+(1) Certified mother plants and certified material must be grown in soil that is free from any of the pests listed in Annex III of Directive 2014/98/EU relevant to the genus or species concerned and which host viruses affecting that genus or species.
+
+(2) Freedom from such pests must be established by sampling and testing by an inspector and, where appropriate, a supplier.
+
+(3) Sampling and testing must be carried out—
+
+- (a) before the certified mother plant or the certified material is planted, and must be repeated during growth if the presence of such pests is suspected;
+- (b) taking account of climatic conditions, the biology of the pests, and the relevance of the pests for the certified mother plant or the certified material concerned;
+- (c) in accordance with the appropriate protocol.
+
+(4) Sampling and testing is not required—
+
+- (a) unless otherwise stated,[^key-57ceedd7971884155215287dd70f5489] in the case of certified fruit plants;
+- (b) where plants, which are hosts for the pests listed in Annex III to Directive 2014/98/EU for the genus or species concerned, have not been grown in the soil of production for a period of at least five years and where there is no doubt concerning the absence of the relevant pests in that soil;
+- (c) where an inspector concludes, on the basis of an official inspection, that the soil is free from any pests which are listed in Annex III to Directive 2014/98/EU, for the genus or species concerned, and which host viruses affecting that genus or species.
+
+## Schedule 6 — Modifications to [Directive 2014/98/EU](https://www.legislation.gov.uk/european/directive/2014/0098)[^key-6a9b5b6aefed24a7c6502f35d93a1bd5]
+
+Regulation 3(2) and (3)
+
+### 1. Modifications to Annex 1
+
+Annex 1 (list of RNQPs for the presence of which visual inspection, and, in the case of doubts, sampling and testing, are required pursuant to Article 9(1), Article 10(1), Article 16(1), Article 21(1) and Article 26(1)) is to be read as if at the entry for—
+
+- (a) “*Ficus carica* L.”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas” the entry for “Fig mosaic agent \[FGM000\]” were omitted;
+- (b) “ *Fragaria* L.”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas” the entry for “*Candidatus* Phytoplasma *australiense* Davis *et al*. \[PHYPAU\]” were omitted;
+- (c) “*Vaccinium* L.”, in the second column under “RNQPs”, at “Fungi and oomycetes”, after the entry for “*Godronia cassandrae* (anamorph Topospora myrtilli) Peck \[GODRCA\]” were inserted—
+
+  > |  |
+  > | --- |
+  > | *Pucciniastrum minimum* (Schweinitz) Arthur \[THEKMI\] |
+
+  .
+
+### 2. Modifications to Annex 2
+
+Annex 2 (list of RNQPs for the presence of which visual inspection, and, where applicable, sampling and testing are required pursuant to Article 9(2) and (4), Article 10(1), Article 16(1), Article 21(1), Article 26(1), and Annex IV) is to be read as if at the entry for—
+
+- (a) “*Malus* Mill.”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas”, after the entry for “Fruit disorders” were inserted—
+
+  > |  |
+  > | --- |
+  > | Tomato ringspot virus \[TORSV0\] |
+
+  ;
+- (b) “*Prunus dulcis* (Miller) Webb”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas”, after the entry for “*Prunus* necrotic ringspot virus \[PNRSV0\]” were inserted—
+
+  > |  |
+  > | --- |
+  > | Tomato ringspot virus \[TORSV0\] |
+
+  ;
+- (c) “*Prunus armeniaca* L.”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas”, after the entry for “*Prunus* necrotic ringspot virus \[PNRSV0\]” were inserted—
+
+  > |  |
+  > | --- |
+  > | Tomato ringspot virus \[TORSV0\] |
+
+  ;
+- (d) “*Prunus avium* L. and *Prunus cerasus* L.”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas”, after the entry for “Tomato black ring virus \[TBRV00\]” were inserted—
+
+  > |  |
+  > | --- |
+  > | Tomato ringspot virus \[TORSV0\] |
+
+  ;
+- (e) “*Prunus domestica* L., *Prunus salicina* Lindley, and other species of *Prunus* L. susceptible to Plum pox virus in the case of *Prunus* L. hybrids”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas”, after the entry for “*Prunus* necrotic ringspot virus \[PNRSV0\]” were inserted—
+
+  > |  |
+  > | --- |
+  > | Tomato ringspot virus \[TORSV0\] |
+
+  ;
+- (f) “*Prunus persica* (L.) Batsch”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas”, after the entry for “Strawberry latent ringspot virus \[SLRSV0\]” were inserted—
+
+  > |  |
+  > | --- |
+  > | Tomato ringspot virus \[TORSV0\] |
+
+  ;
+- (g) “*Rubus* L.”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas”, after the entry for “Tomato black ring virus \[TBRV00\]” were inserted—
+
+  > |  |
+  > | --- |
+  > | Tomato ringspot virus \[TORSV0\] |
+
+  ;
+- (h) “ *Vaccinium* L.”, in the second column under “RNQPs”, at “Viruses, viroids, virus-like diseases and phytoplasmas”, after the entry for “Cranberry false blossom phytoplasma \[PHYPFB\]” were inserted—
+
+  > |  |
+  > | --- |
+  > | Tobacco ringspot virus \[TRSV0\] |
+  > | Tomato ringspot virus \[TORSV0\] |
+
+  .
+
+### 3. Modifications to Annex 4
+
+Annex 4 (requirements concerning measures per genera or species and category pursuant to Article 10(4), Article 16(4), Article 21(4) and Article 26(2)) is to be read as if—
+
+- (a) at point 6 (*Fragaria* L.), at point (d)(iii), the entry for “*Candidatus* Phytoplasma *australiense* Davis *et al*.” were omitted;
+- (b) at point 8 (*Malus* Mill.)—
+  - (i) at point (b) in the paragraph “*Requirements with regard to the production site, place of production or area*”, in the first unnumbered paragraph—
+    - (aa) for “and” were substituted “,”;
+    - (bb) after “*et al.*” were inserted “and Tomato ringspot virus”;
+  - (ii) after point (b)(ii) were inserted—
+
+    > ;
+    >
+    > - (iii) Tomato ringspot virus
+    >   - propagating material and fruit plants of the pre-basic category shall be produced in areas known to be free from Tomato ringspot virus; or
+    >   - no symptoms of Tomato ringspot virus are observed on propagating material and fruit plants of the pre-basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed
+
+    ;
+  - (iii) at point (c), in the paragraph “*Sampling and testing*”, in the second unnumbered paragraph, after the second reference to “*Candidatus* Phytoplasma *mali* Seemüller & Schneider”, for “and other than” were inserted “, Tomato ringspot virus and”;
+  - (iv) at the end of point (c), were inserted—
+
+    > Basic mother plants shall be sampled and tested every twenty years concerning the presence of Tomato ringspot virus.
+    >
+    > *Requirements with regard to the production site, place of production or area*
+    >
+    > - (i) *Candidatus* Phytoplasma *mali* Seemüller & Schneider
+    >   - propagating material and fruit plants of the basic category shall be produced in areas known to be free from *Candidatus* Phytoplasma *mali* Seemüller & Schneider; or
+    >   - no symptoms of *Candidatus* Phytoplasma *mali* Seemüller & Schneider shall be observed on propagating material and fruit plants of the basic category at the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed;
+    > - (ii) *Erwinia amylovora* (Burrill) Winslow *et al.*
+    >   - propagating material and fruit plants of the basic category shall be produced in areas known to be free from *Erwinia amylovora* (Burrill) Winslow *et al.*; or
+    >   - propagating material and fruit plants of the basic category in the production site shall be inspected over the last complete growing season, and any propagating material and fruit plants showing symptoms of *Erwinia amylovora* (Burrill) Winslow *et al.* and any surrounding host plants have been immediately rogued out and destroyed.
+    > - (iii) Tomato ringspot virus \[TORSV0\]
+    >   - propagating material and fruit plants of the basic category shall be produced in areas known to be free from Tomato ringspot virus; or
+    >   - no symptoms of Tomato ringspot virus are observed on propagating material and fruit plants of the basic category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed.
+
+    ;
+  - (v) at point (d), in the paragraph “*Sampling and testing*”—
+    - (aa) in the second unnumbered paragraph, after the second reference to “*Candidatus* Phytoplasma *mali* Seemüller & Schneider”, for “and other than” were inserted “, Tomato ringspot virus and”;
+    - (bb) after the third unnumbered paragraph, were inserted—
+
+      > Certified mother plants shall be sampled and tested every twenty years concerning the presence of Tomato ringspot virus.
+      >
+      > *Requirements with regard to the production site, place of production or area*
+      >
+      > - (i) *Candidatus* Phytoplasma *mali* Seemüller & Schneider
+      >   - propagating material and fruit plants of the certified category shall be produced in areas known to be free from *Candidatus* Phytoplasma *mali* Seemüller & Schneider; or
+      >   - no symptoms of *Candidatus* Phytoplasma *mali* Seemüller & Schneider shall be observed on propagating material and fruit plants of the certified category at the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed; or
+      >   - symptoms of *Candidatus* Phytoplasma *mali* Seemüller & Schneider shall be observed on no more than 2% of propagating material and fruit plants of the certified category at the production site over the last complete growing season, and that propagating material and those fruit plants, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed, and a representative sample of the remaining asymptomatic propagating material and fruit plants in the lots in which symptomatic propagating material and fruit plants were found has been tested and found free from *Candidatus* Phytoplasma *mali* Seemüller & Schneider.
+      > - (ii) *Erwinia amylovora* (Burrill) Winslow *et al.*
+      >   - propagating material and fruit plants of the certified category shall be produced in areas known to be free from *Erwinia amylovora* (Burrill) Winslow *et al.*; or
+      >   - propagating material and fruit plants of the certified category in the production site shall be inspected over the last complete growing season, and any propagating material and fruit plants showing symptoms of *Erwinia amylovora* (Burrill) Winslow *et al.* and any surrounding host plants have been immediately rogued out and destroyed.
+      > - (iii) Tomato ringspot virus \[TORSV0\]
+      >   - propagating material and fruit plants of the certified category shall be produced in areas known to be free from Tomato ringspot virus; or
+      >   - no symptoms of Tomato ringspot virus are observed on propagating material and fruit plants of the certified category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed.
+
+      ;
+  - (vi) point (e) were omitted;
+  - (vii) after point (f)(ii), were inserted—
+
+    > - (iii) Tomato ringspot virus
+    >   - propagating material and fruit plants of the CAC category shall be produced in areas known to be free from Tomato ringspot virus; or
+    >   - no symptoms of Tomato ringspot virus are observed on propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed; or
+    >   - symptoms of Tomato ringspot virus have been observed on no more than 2% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and those symptomatic plants have been immediately rogued out and destroyed.
+
+    ;
+- (c) at point 11 (*Prunus armeniaca* L., *Prunus avium* L., *Prunus cerasifera* Ehrh., *Prunus cerasus* L., *Prunus domestica* L., *Prunus dulcis* (Miller) Webb, *Prunus persica* (L.) Batsch and *Prunus salicina* Lindley)—
+  - (i) at point (a), in the paragraph “*Requirements with regard to the production site, place of production or area*”—
+    - (aa) in the first unnumbered paragraph, for the words from “and *Pseudomonas*” to “Wilkie” were substituted “, *Pseudomonas syringae pv. persicae* (Prunier, Luisetti & Gardan) Young, Dye & Wilkie and Tomato ringspot virus”;
+    - (bb) after entry (iii), were inserted—
+
+      > - (aiv) Tomato ringspot virus
+      >   - propagating material and fruit plants of the pre-basic category shall be produced in areas known to be free from Tomato ringspot virus; or
+      >   - no symptoms of Tomato ringspot virus are observed in propagating material and fruit plants of the pre-basic category in the production site over the last complete growing season, any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed;
+
+      ;
+  - (ii) at the end of point (c)(ii) were inserted—
+
+    > A representative portion of basic mother plants shall be sampled and tested every twenty years on the basis of an assessment of the risk of infection of those plants concerning the presence of Tomato ringspot virus.
+  - (iii) at point (d)(ii)—
+    - (aa) in the third unnumbered paragraph which starts “A representative portion of certified mother plants shall be sampled” for “and Plum pox virus” were substituted “, Plum pox virus and Tomato ringspot virus”;
+    - (bb) at the end were inserted—
+
+      > A representative portion of certified mother plants shall be sampled every twenty years and tested on the basis of an assessment of the risk of infection of those plants concerning the presence of Tomato ringspot virus.
+
+      ;
+  - (iv) at point (e) after entry (iii) were inserted—
+
+    > - (aiv) Tomato ringspot virus
+    >   - propagating material and fruit plants of the basic and certified categories shall be produced in areas known to be free from Tomato ringspot virus; or
+    >   - no symptoms of Tomato ringspot virus are observed on propagating material and fruit plants of the basic and certified categories in the production site over the last complete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed;
+
+    ;
+  - (v) at point (f)—
+    - (aa) in the paragraph “*Requirements with regard to the production site, place of production or area*”, at point (i), the fourth unnumbered paragraph starting “symptoms of *Pseudomonas*” were omitted;
+    - (bb) after entry (iii) were inserted—
+
+      > - (aiv) Tomato ringspot virus
+      >   - propagating material and fruit plants of the CAC category shall be produced in areas known to be free from Tomato ringspot virus; or
+      >   - no symptoms of Tomato ringspot virus are observed in the production site over the last compete growing season, and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed; or
+      >   - symptoms of Tomato ringspot virus have been observed on no more than 2% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and those symptomatic plants have been immediately rogued out and destroyed;
+
+      ;
+- (d) at point 12 (*Pyrus* L.)—
+  - (i) at point (b), in the paragraph “*Requirements with regard to the production site, place of production or area*”, at point (i) in the second unnumbered indent—
+    - (aa) after “last”, were inserted “three”;
+    - (bb) for “season” were substituted “seasons”;
+  - (ii) at point (e), in the paragraph “*Requirements with regard to the production site, place of production or area*”, at point (i)—
+    - (aa) in the second unnumbered indent for “are observed” were substituted “shall be observed on propagating material and fruit plants of the basic and certified categories”;
+    - (bb) for the third unnumbered indent were substituted—
+
+      > — propagating material and fruit plants of the basic and certified categories at the production site any plants in the immediate vicinity, which have shown symptoms of *Candidatus* Phytoplasma *pyri* Seemüller & Schneider during visual inspections during the last three growing seasons, shall be immediately rogued out and destroyed;
+
+      ;
+  - (iii) at point (f), in the paragraph “*Requirements with regard to the production site, place of production or area*”, at point (i)—
+    - (aa) in the second unnumbered indent for “are observed” were substituted “shall be observed on propagating material and fruit plants of the CAC category”;
+    - (bb) for the third unnumbered indent were substituted—
+
+      > — propagating material and fruit plants of the CAC category at the production site and any plants in the immediate vicinity, which have shown symptoms of *Candidatus* Phytoplasma *pyri* Seemüller & Schneider during visual inspections during the last three growing seasons, shall be immediately rogued out and destroyed;
+
+      ;
+- (e) at point 14 (*Rubus* L.)—
+  - (i) for “and Tomato” in each place it occurs, were substituted “, Tomato”;
+  - (ii) after “and Tomato black ring virus” in each place it occurs, were inserted “and Tomato ringspot virus”;
+  - (iii) for “or Tomato” in each place it occurs, were substituted “, Tomato”;
+  - (iv) after “or Tomato black ring virus” in each place it occurs, were inserted “or Tomato ringspot virus”;
+  - (v) at point (d) in the paragraph “*Requirements with regard to the production site, place of production or area*”—
+    - (aa) the unnumbered paragraph were numbered “(i)”;
+    - (bb) after the new paragraph (i), were inserted—
+
+      > - (ii) In the case where symptoms of Tomato ringspot virus have been observed on no more than 2% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and those symptomatic plants have been immediately rogued out and destroyed.
+
+      ;
+- (f) at point 15 (*Vaccinium* L.)—
+  - (i) at the end of point (b) were inserted—
+
+    > - (iv) Tobacco ringspot virus and Tomato ringspot virus
+    >   - propagating material and fruit plants of the basic category shall be produced in areas known to be free from Tobacco ringspot virus and Tomato ringspot virus; or
+    >   - no symptoms of Tobacco ringspot virus or Tomato ringspot virus are observed in the production site over the last complete growing season and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed.
+
+    ;
+  - (ii) at the end of point (d) were inserted—
+
+    > - (iii) Tobacco ringspot virus and Tomato ringspot virus
+    >   - propagating material and fruit plants of the certified category shall be produced in areas known to be free from Tobacco ringspot virus and Tomato ringspot virus; or
+    >   - no symptoms of Tobacco ringspot virus or Tomato ringspot virus are observed in the production site over the last complete growing season and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed.
+    > - (e) CAC category
+    >
+    > *Requirements with regard to the production site, place of production or area*
+    >
+    > Tobacco ringspot virus and Tomato ringspot virus
+    >
+    > - propagating material and fruit plants of the CAC category shall be produced in areas known to be free from Tobacco ringspot virus and Tomato ringspot virus; or
+    > - no symptoms of Tobacco ringspot virus or Tomato ringspot virus are observed in the production site over the last complete growing season and any symptomatic plants in the immediate vicinity have been immediately rogued out and destroyed; or
+    > - symptoms of Tobacco ringspot virus or Tomato ringspot virus have been observed on no more than 2% of propagating material and fruit plants of the CAC category in the production site over the last complete growing season, and those symptomatic plants have been immediately rogued out and destroyed.
+
+    .
+
+*(This note is not part of these Regulations)*
+
+These Regulations, which apply in England, continue to implement Council Directive [2008/90/EC](https://www.legislation.gov.uk/european/directive/2008/0090) on the marketing of fruit plant propagating material and fruit plants intended for fruit production (OJ No L 267, 8.10.2008, p 8). They also implement—
+
+Commission Implementing Directive 2014/96/EU on the requirements for the labelling, sealing and packaging of fruit plant propagating material and fruit plants intended for fruit production, falling within the scope of Council Directive [2008/90/EC](https://www.legislation.gov.uk/european/directive/2008/0090) (OJ L 298, 16.10.2014, p. 12);
+
+Commission Implementing Directive 2014/97/EU implementing Council Directive [2008/90/EC](https://www.legislation.gov.uk/european/directive/2008/0090) as regards the registration of suppliers and of varieties and the common list of varieties (OJ L 298, 16.10.2014, p. 16);
+
+Commission Implementing Directive 2014/98/EU implementing Council Directive [2008/90/EC](https://www.legislation.gov.uk/european/directive/2008/0090) as regards specific requirements for the genus and species of fruit plants referred to in Annex I thereto, specific requirements to be met by suppliers and detailed rules concerning official inspections (OJ No L, 298, 16.10.2014, p. 22).
+
+They revoke and replace the Marketing of Fruit Plant Material Regulations (S.I. 2010/2079).
+
+Part 1 of the Regulations is introductory. The fruit plants and propagating material (plant material) to which the Regulations apply is set out in regulation 4 and Schedule 3.
+
+Part 2 contains requirements for marketing plant material (regulation 5). In order to be marketed, plant material must comply with requirements set out for certification (regulation 9 and Schedule 5) and packaging, sealing and labelling (regulation 10 and Schedule 2). Plant material must be, or be in the process of being, registered (Schedule 4) and have been granted, or an application made for, plant variety rights (regulation 7). CAC material must comply with requirements set out in Schedule 1 and be accompanied by a supplier's document (Schedule 2). Regulation 4 sets out exceptions to these general requirements.
+
+Part 3 requires the registration of suppliers (regulation 11) and a register of suppliers (regulation 13). Suppliers are required to monitor the production of plant material (regulation 14) and keep records (regulation 15).
+
+Part 4 deals with the enforcement of these Regulations and sets out inspectors' powers, including a power to serve a notice on any person to require that person to provide information and a power to prohibit the movement of plant material suspected of failing to comply with these Regulations. An inspector also has a power to serve a notice on any person acting in contravention of these Regulations to require that person to comply with the Regulations or to prohibit that person from acting in breach of them. Under regulation 23(1) a person who fails to comply with any such notice or to give assistance to the inspector is guilty of an offence. Under regulation 23(2) a person guilty of an offence under the Regulations is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+Part 5 sets out administrative provisions including arrangements for official measures (regulation 26), a transitional provision (regulation 27), consequential amendments (regulation 28) and a review clause (regulation 31).
+
+An impact assessment has not been produced for this instrument as no impact, or no significant impact, on the private, voluntary or public sector is foreseen. An Explanatory Memorandum and transposition note will be published alongside this instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^c23030311]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^c23030321]: Marginal citation: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^c23030331]: Marginal citation: [Paragraph 1A](https://www.legislation.gov.uk/uksi/2017/595/paragraph/1A) of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 and amended by Part 1 of the Schedule to the European Union (Amendment) Act 2008 and [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388).
+
+[^c23030341]: Marginal citation: Commission Implementing Directive 2014/98/EU implementing Council Directive 2008/90/EC as regards specific requirements for the genus and species of fruit plants referred to in Annex I thereto, specific requirements to be met by suppliers and detailed rules concerning official inspections (OJ No L 298, 16.10.2014, p. 22).
+
+[^key-2130fe85910edb38c671786885650fe1]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/595): power to amend conferred (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [reg. 22(1)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/22/1) (with [reg. 22(2)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/22/2))
+
+[^key-038e6013a491fd8aa08f324e001a1b25]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/2/a) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [29(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/29/6/a/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ff099e539192876f35e0c1a144bd84e0]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/2/b) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [29(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/29/6/a/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-21c02eb851efd1d2ce2a3338c942fb96]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/2/c) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [29(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/29/6/a/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8a3aedb5eeb3f44c2a85b55bb7f58c49]: Textual amendment: Words in reg. 2 inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/2/d) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [29(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/29/6/a/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1bdf6b2353824e1031fc3c636ce98ef8]: Textual amendment: Words in reg. 2 inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(2)(e)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/2/e) (as amended by [S.I. 2019/809](https://www.legislation.gov.uk/uksi/2019/809), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2019/809/regulation/1/a), [8(3)](https://www.legislation.gov.uk/uksi/2019/809/regulation/8/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d6edd4f4155a45ead2afa11ddaaff6ca]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/595/regulation/2) inserted (7.10.2025) by [The Marketing of Fruit Plant and Propagating Material (England) (Amendment) Regulations 2025 (S.I. 2025/812)](https://www.legislation.gov.uk/uksi/2025/812), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/812/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/812/regulation/3)
+
+[^key-542b67883f3bba2441a0962162c9b2f0]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(2)(f)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/2/f) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [29(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/29/6/a/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ad9b0212ed415ff1728fd5e90005729d]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(2)(g)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/2/g) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [29(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/29/6/a/iii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23030351]: Marginal citation: [1997 c. 66](https://www.legislation.gov.uk/ukpga/1997/66). Part I was amended by [S.I. 2000/311](https://www.legislation.gov.uk/uksi/2000/311), 2005/2726 and 2011/1043.
+
+[^key-d93f0c9ab5b34befce47a84484730d8c]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2017/595/regulation/2) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(2)(h)(i)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/2/h/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cd358c30489447a80380e4419680afe4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/595/regulation/2) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(2)(h)(ii)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/2/h/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cdcfc897fb929e8cd3722e6666b2c684]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(2)(i)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/2/i) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [29(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/29/6/a/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4adc1edf122755a322aa46edd676a794]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/595/regulation/2) inserted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/2)
+
+[^key-3c61d36d983a54b257a192d28771f133]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2017/595/regulation/2) substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/3/2)
+
+[^c23030371]: Marginal citation: The International Union for the Protection of New Varieties of Plants (UPOV) was established by the International Convention for the Protection of New Varieties of Plants (“UPOV Convention”). The UPOV Convention was adopted on 2nd December 1961 by a Diplomatic Conference held in Paris, revised in 1972 and 1991 and ratified by the United Kingdom on 3rd December 1998.
+
+[^key-95d0c692eadfde0add0cfd499b4934db]: Textual amendment: Words in reg. 3(1) omitted (14.1.2020) by virtue of [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 5 para. 6(2)](https://www.legislation.gov.uk/uksi/2019/1517/schedule/5/paragraph/6/2)
+
+[^c23030391]: Marginal citation: OJ No L 267, 8.10.2008, p. 8; as last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No L 189, 27.6.2014, p. 1).
+
+[^c23030401]: Marginal citation: OJ No L 298, 16.10.2014, p. 12.
+
+[^c23030411]: Marginal citation: OJ No L 298, 16.10.2014, p. 16.
+
+[^key-90e4de1b000d1f179a6aad82a8d5a353]: Textual amendment: Words in reg. 3(1) substituted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/3)
+
+[^key-01857d3bd0ec102f3db077d90392c309]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2017/595/regulation/3/2) inserted (7.10.2025) by [The Marketing of Fruit Plant and Propagating Material (England) (Amendment) Regulations 2025 (S.I. 2025/812)](https://www.legislation.gov.uk/uksi/2025/812), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/812/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2025/812/regulation/4/1)
+
+[^key-1c5898dba674a7485bc7119523042dc1]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2017/595/regulation/3/3) inserted (7.10.2025) by [The Marketing of Fruit Plant and Propagating Material (England) (Amendment) Regulations 2025 (S.I. 2025/812)](https://www.legislation.gov.uk/uksi/2025/812), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/812/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2025/812/regulation/4/2)
+
+[^key-95d41fd0ceeda22694cbac0e7d5e8aba]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2017/595/regulation/4/3) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/3) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [29(6)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/29/6/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6647f79888ec77154bda501adb85c867]: Textual amendment: Reg. 5(3) substituted for reg. 5(3)(4) (26.9.2019) by [The Animal Health, Invasive Alien Species, Plant Breeders Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2019/1220/regulation/4)
+
+[^key-4f0a72fe9e366c023d2334155a9469a9]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2017/595/regulation/5/3) substituted (31.12.2020) by S.I. 2019/131, reg. 8(4) (as substituted by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [29(6)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/29/6/c))
+
+[^key-cadc987522d86923ce86c802be324fed]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2017/595/regulation/7/3) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(5)(a)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c3b8d07422c7a7cf348eac4762cbf69e]: Textual amendment: [Reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2017/595/regulation/7/4/b) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(5)(b)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a8d6d5b4f0943fc581c4ff83df76818d]: Textual amendment: Reg. 10(6) omitted (14.1.2020) by virtue of [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 5 para. 6(3)](https://www.legislation.gov.uk/uksi/2019/1517/schedule/5/paragraph/6/3)
+
+[^c23030431]: Marginal citation: [S.I. 2010/2079](https://www.legislation.gov.uk/uksi/2010/2079).
+
+[^key-6b19e585bef6188dad78cd2088479209]: Textual amendment: Words in reg. 11(7) substituted (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 5 para. 6(4)](https://www.legislation.gov.uk/uksi/2019/1517/schedule/5/paragraph/6/4)
+
+[^key-6e7e44a4a7c165117d772272df61ab8f]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2017/595/regulation/14A) inserted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/4)
+
+[^key-a5c269d2bb059a7c3d8faecd878259d2]: Textual amendment: Words in [reg. 15(1)(g)(i)](https://www.legislation.gov.uk/uksi/2017/595/regulation/15/1/g/i) omitted (24.7.2020) by virtue of [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/5/a)
+
+[^key-1a65cf319a681cdd537fc58d056a4fed]: Textual amendment: [Reg. 15(1)(g)(ii)](https://www.legislation.gov.uk/uksi/2017/595/regulation/15/1/g/ii) omitted (24.7.2020) by virtue of [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/5/b)
+
+[^key-b30e5a85882f1701c790f4d09596ed8f]: Textual amendment: Reg. 15(1)(g)(iii) substituted (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 5 para. 6(5)](https://www.legislation.gov.uk/uksi/2019/1517/schedule/5/paragraph/6/5)
+
+[^key-f8a240a348e2dff3dc926493d0bce7b0]: Textual amendment: Words in [reg. 15(1)(g)(iii)](https://www.legislation.gov.uk/uksi/2017/595/regulation/15/1/g/iii) substituted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(5)(c)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/5/c)
+
+[^key-7672570a01cd7514b5c70013d7ad9284]: Textual amendment: [Reg. 15(1)(g)(iv)](https://www.legislation.gov.uk/uksi/2017/595/regulation/15/1/g/iv)[(v)](https://www.legislation.gov.uk/uksi/2017/595/regulation/15/1/g/v) inserted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(5)(d)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/5/d)
+
+[^c23030451]: Marginal citation: 1980 c 43; [sections 51](https://www.legislation.gov.uk/uksi/2017/595/section/51) and 52 have been substituted by section 47 of the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39). Sections 53 and 54 have been amended by section 17(6) of the [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
+
+[^key-d6a98270c6a25cf3d51400a8bd88fe79]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2017/595/regulation/28) heading inserted (1.4.2020) by [The Marketing of Fruit Plant and Propagating Material (England) (Amendment) Regulations 2020 (S.I. 2020/248)](https://www.legislation.gov.uk/uksi/2020/248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/248/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/248/regulation/2/2)
+
+[^key-a933681ef68cfda4b1531e3221e91190]: Textual amendment: Reg. 28ZA inserted (1.4.2020) by [The Marketing of Fruit Plant and Propagating Material (England) (Amendment) Regulations 2020 (S.I. 2020/248)](https://www.legislation.gov.uk/uksi/2020/248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/248/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/248/regulation/2/3)
+
+[^c23030461]: Marginal citation: [S.I. 2007/3544](https://www.legislation.gov.uk/uksi/2007/3544), to which there are amendments not relevant to these Regulations.
+
+[^c23030471]: Marginal citation: [S.I. 2017/267](https://www.legislation.gov.uk/uksi/2017/267).
+
+[^c23030481]: Marginal citation: [S.I. 2010/2079](https://www.legislation.gov.uk/uksi/2010/2079).
+
+[^key-c4ea86832fab94660ef2ebbf28c56a6f]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/2017/595/regulation/31) omitted (7.10.2025) by virtue of [The Marketing of Fruit Plant and Propagating Material (England) (Amendment) Regulations 2025 (S.I. 2025/812)](https://www.legislation.gov.uk/uksi/2025/812), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/812/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/812/regulation/5)
+
+[^key-5ca48af9ce782702b4e01d76284505db]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2017/595/schedule/1): power to amend conferred (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [20(1)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/20/1) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/20/2))
+
+[^key-47c9e76bb57d804840737e03885b23ce]: Textual amendment: Sch. 1 para. 1(2)(c)-(e) substituted for Sch. 1 para. 1(2)(c)(d) (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(6)(a)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/6/a)
+
+[^key-7d16f220e9af5e388fca255dec6bd89d]: Textual amendment: [Sch. 1 para. 2(2)(b)-(d)](https://www.legislation.gov.uk/uksi/2017/595/schedule/1/paragraph/2/2/b) substituted for [Sch. 1](https://www.legislation.gov.uk/uksi/2017/595/schedule/1) [para. 2(2)(b)(c)](https://www.legislation.gov.uk/uksi/2017/595/schedule/1/paragraph/2/2/b) (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(6)(b)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/6/b)
+
+[^M_F_17c4ac42-381b-433d-e17b-8b6b4bac7b89]: Textual amendment: Sch. 1 para. 4(1)-(5) substituted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(6)(c)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/6/c)
+
+[^key-606ce223fdfcf3e55518e49f4347adf1]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2017/595/schedule/1/paragraph/6) inserted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(6)(d)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/6/d)
+
+[^key-684141f0746241baeb9f0b7a2b037c8e]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/2017/595/schedule/2): power to amend conferred (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [21(1)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/21/1) (with [reg. 21(2)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/21/2))
+
+[^key-380fa039a51a00d6b3a7b2d39db8780d]: Textual amendment: Words in [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2017/595/schedule/2/paragraph/4/b) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(10)(a)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/10/a) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [29(6)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/29/6/e/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4a63978e6beb99b86da3e455b40594f8]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2017/595/schedule/2/paragraph/5) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(10)(b)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0d3cd8632191e07e41aff1a9cc9a063e]: Textual amendment: Words in [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2017/595/schedule/2/paragraph/8/a) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(10)(c)(i)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/10/c/i) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [29(6)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/29/6/e/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-962a79e59886d02d012a421e593a6888]: Textual amendment: Word in [Sch. 2 para. 8(b)(i)](https://www.legislation.gov.uk/uksi/2017/595/schedule/2/paragraph/8/b/i) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(10)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/10/c/ii) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [29(6)(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/29/6/e/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-53f283d2e09aced2284fd5ae9f44ef72]: Textual amendment: [Sch. 2 para. 8(b)(ix)](https://www.legislation.gov.uk/uksi/2017/595/schedule/2/paragraph/8/b/ix) omitted (1.4.2020) by virtue of [The Marketing of Fruit Plant and Propagating Material (England) (Amendment) Regulations 2020 (S.I. 2020/248)](https://www.legislation.gov.uk/uksi/2020/248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/248/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/248/regulation/2/4/a)
+
+[^key-73dd8e86cc6e6bf45e52e0226caa904d]: Textual amendment: [Sch. 2 para. 8(b)(x)](https://www.legislation.gov.uk/uksi/2017/595/schedule/2/paragraph/8/b/x) omitted (1.4.2020) by virtue of [The Marketing of Fruit Plant and Propagating Material (England) (Amendment) Regulations 2020 (S.I. 2020/248)](https://www.legislation.gov.uk/uksi/2020/248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/248/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/248/regulation/2/4/a)
+
+[^key-2c137fd893fa02fb5c3b32b98f66ef4d]: Textual amendment: [Sch. 2 para. 8(b)(xii)](https://www.legislation.gov.uk/uksi/2017/595/schedule/2/paragraph/8/b/xii) inserted (7.10.2025) by [The Marketing of Fruit Plant and Propagating Material (England) (Amendment) Regulations 2025 (S.I. 2025/812)](https://www.legislation.gov.uk/uksi/2025/812), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/812/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2025/812/regulation/6)
+
+[^key-e0321c995b2394149ad90745ae070b9f]: Textual amendment: [Sch. 2 para. 8A](https://www.legislation.gov.uk/uksi/2017/595/schedule/2/paragraph/8A) inserted (1.4.2020) by [The Marketing of Fruit Plant and Propagating Material (England) (Amendment) Regulations 2020 (S.I. 2020/248)](https://www.legislation.gov.uk/uksi/2020/248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/248/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/248/regulation/2/4/b)
+
+[^key-c067fc03d6f9de0329add29a376bba98]: Textual amendment: Words in [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2017/595/schedule/2/paragraph/9) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(10)(d)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/10/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8b3d99c8b80f3cd6abf701b18fbaa519]: Modification: [Sch. 3](https://www.legislation.gov.uk/uksi/2017/595/schedule/3): power to amend conferred (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [19(1)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/19/1) (with [reg. 19(2)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/19/2))
+
+[^key-d2f4bb98475e82bce5e26ad49444ffc9]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2017/595/schedule/4/paragraph/1) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(12)(a)(i)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/12/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ae2a74562e087019b6e134e5e67f9858]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2017/595/schedule/4/paragraph/1) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(12)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/12/a/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-62210413842802a636f5d53e309b50cd]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2017/595/schedule/4/paragraph/1) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(12)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/12/a/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fae23c215f7f22b68666bb9564c109ad]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2017/595/schedule/4/paragraph/1) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(12)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/12/a/iii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e5d542b7f570813b7665380e0d52f859]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2017/595/schedule/4/paragraph/1) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(12)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/12/a/iii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23030501]: Marginal citation: OJ No L 106, 17.4.2001, p. 1 as last amended by Directive (EU) 2015/412 (OJ No L 68, 13.3.2015, p. 1).
+
+[^key-992c1cb11c7659e3a4c2d05f357d389c]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2017/595/schedule/4/paragraph/1) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(12)(b)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_56699aa6-0176-4794-c3a6-8ec511e4ea6a]: Textual amendment: [S.I. 2002/2443](https://www.legislation.gov.uk/uksi/2002/2443), as amended by [S.I. 2004/2411](https://www.legislation.gov.uk/uksi/2004/2411), 2005/2759, 2009/1892, 2018/575.
+
+[^M_F_d247fc8b-540a-405c-a520-094bfd8386b8]: Textual amendment: [S.I. 2002/3188](https://www.legislation.gov.uk/uksi/2002/3188) (W. 304), amended by [S.I. 2005/2759](https://www.legislation.gov.uk/uksi/2005/2759), 2013/755 (W. 90).
+
+[^M_F_9eef8893-5299-4400-ba48-c6efc57dafe6]: Textual amendment: [S.S.I. 2002/541](https://www.legislation.gov.uk/ssi/2002/541), amended by [S.I. 2004/439](https://www.legislation.gov.uk/uksi/2004/439), 2015/100.
+
+[^M_F_086e5210-e443-4894-ab9a-4c0dd1b8ad17]: Textual amendment: S.R. [2003 No. 167](https://www.legislation.gov.uk/ukcm/2003/167).
+
+[^c23030511]: Marginal citation: OJ No L 268, 18.10.2003, p.1 as last amended by Regulation (EC) No.298/2008 of the European Parliament and of the Council (OJ No L 97.9.4.2008, p.64).
+
+[^key-3fd257f1ca5299061fb68cf806f99e76]: Textual amendment: Words in [Sch. 4 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2017/595/schedule/4/paragraph/2/2/b) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(13)(i)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/13/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4edfdd7b9d1432829fc6cd10851196ae]: Textual amendment: Words in [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/uksi/2017/595/schedule/4/paragraph/2/3) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(13)(ii)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/13/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-532759aac5b18d76a94d9f74a0512542]: Textual amendment: Words in Sch. 4 para. 3(1)(c) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(14)(a)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/14/a) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [29(6)(f)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/29/6/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ae1483e613b42fbcdf82ad0cde89249a]: Textual amendment: Words in [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/uksi/2017/595/schedule/4/paragraph/3/3) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(14)(b)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/14/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2b8f0688ec657ad84908447e642ce7e4]: Textual amendment: Word in [Sch. 4 para. 6(1)(c)](https://www.legislation.gov.uk/uksi/2017/595/schedule/4/paragraph/6/1/c) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(15)(a)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/15/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4e6fa260fbd77d3257344120c9d75889]: Textual amendment: [Sch. 4 para. 6(1)(d)](https://www.legislation.gov.uk/uksi/2017/595/schedule/4/paragraph/6/1/d) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(15)(b)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/15/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9d291ba96f167755cfe73be0f597fe2b]: Textual amendment: Words in Sch. 4 para. 7(1)(a) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(16)(a)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/16/a) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [29(6)(f)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/29/6/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-63cf27882c7c055805bc77fc04c77e0f]: Textual amendment: Words in [Sch. 4 para. 7(4)(a)](https://www.legislation.gov.uk/uksi/2017/595/schedule/4/paragraph/7/4/a) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(16)(b)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/16/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-afcf08bb24c8c7687982474f8fe6e171]: Textual amendment: Words in Sch. 4 para. 8(1)(d) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(17)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/17) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [29(6)(f)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/29/6/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-057fb8ec59e731c1fb9798c0c69c20a5]: Modification: [Sch. 5](https://www.legislation.gov.uk/uksi/2017/595/schedule/5): power to amend conferred (31.12.2020) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b), [20(1)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/20/1) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/20/2))
+
+[^key-a71402c88058db78d34fe343b04893d3]: Textual amendment: [Sch. 5 para. 3(2)(g)](https://www.legislation.gov.uk/uksi/2017/595/schedule/5/paragraph/3/2/g) inserted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(7)(a)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/7/a)
+
+[^key-a34c0ad8eba4774a0265c41819ae4e09]: Textual amendment: Word in [Sch. 5 para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2017/595/schedule/5/paragraph/4/2/b) substituted (7.10.2025) by [The Marketing of Fruit Plant and Propagating Material (England) (Amendment) Regulations 2025 (S.I. 2025/812)](https://www.legislation.gov.uk/uksi/2025/812), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/812/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2025/812/regulation/7)
+
+[^key-87c423c9e3ebc2a143e434cd7c36667e]: Textual amendment: [Sch. 5 para. 4(2)(g)](https://www.legislation.gov.uk/uksi/2017/595/schedule/5/paragraph/4/2/g) inserted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(7)(a)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/7/a)
+
+[^key-823542695570ba2aa71d04bbccd1906b]: Textual amendment: Word in [Sch. 5 para. 5(1)(a)](https://www.legislation.gov.uk/uksi/2017/595/schedule/5/paragraph/5/1/a) substituted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(7)(b)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/7/b)
+
+[^key-96e5f1624ce01f3ec24b40a87ff9f951]: Textual amendment: Words in [Sch. 5 para. 5(4)(a)](https://www.legislation.gov.uk/uksi/2017/595/schedule/5/paragraph/5/4/a) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(18)(a)(i)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/18/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6b104e06c0ac1b8cbc5892c6c76ca85c]: Textual amendment: Words in [Sch. 5 para. 5(7)](https://www.legislation.gov.uk/uksi/2017/595/schedule/5/paragraph/5/7) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(18)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/18/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_3ed8124b-b16a-4f45-e3e7-b09b9d32dc2b]: Textual amendment: [S.I.2017/691](https://www.legislation.gov.uk/uksi/2017/691) (W. 163).
+
+[^M_F_5425b810-c062-4a5a-bd98-4106d05ea532]: Textual amendment: [S.S.I. 2017/177](https://www.legislation.gov.uk/ssi/2017/177).
+
+[^M_F_174d1883-36a2-49ae-e9ba-2e48058f0a48]: Textual amendment: S.R. [2017 No. 119](https://www.legislation.gov.uk/ukcm/2017/119).
+
+[^key-557484c11f38402da6119fa56f0d5011]: Textual amendment: Word in [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2017/595/schedule/5/paragraph/6) substituted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(7)(b)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/7/b)
+
+[^key-5b0f626bbc27feaeb61dd488ac61ba25]: Textual amendment: [Sch. 5 para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2017/595/schedule/5/paragraph/8/2/a) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019 (S.I. 2019/131)](https://www.legislation.gov.uk/uksi/2019/131), [regs. 1](https://www.legislation.gov.uk/uksi/2019/131/regulation/1), [8(18)(b)](https://www.legislation.gov.uk/uksi/2019/131/regulation/8/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8041acea2b3a4c354c176285d907d695]: Textual amendment: Sch. 5 para. 10(1)(2) substituted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(7)(c)(i)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/7/c/i)
+
+[^key-710eea7801c8ad23b1637c451dfa7ea7]: Textual amendment: Sch. 5 para. 10(4) substituted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/7/c/ii)
+
+[^key-f41f2ec68d2113e27bbc7567e5f067b2]: Textual amendment: [Sch. 5 para. 12A](https://www.legislation.gov.uk/uksi/2017/595/schedule/5/paragraph/12A) inserted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(7)(d)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/7/d)
+
+[^key-116033f9da746f1d9c03caf248d6e987]: Textual amendment: Sch. 5 para. 14(2)(g)-(i) substituted for Sch. 5 para. 14(2)(g)(h) (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(7)(e)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/7/e)
+
+[^key-c4487ef8b165b226fea0d25d3beb2d00]: Textual amendment: Word in Sch. 5 para. 14(3) substituted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(7)(f)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/7/f)
+
+[^key-22287597f7cc82a36d119ed9162c4af6]: Textual amendment: Sch. 5 para. 15(2)(g)-(i) substituted for Sch. 5 para. 15(2)(g)(h) (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(7)(e)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/7/e)
+
+[^key-94702d7fc1465e29e276bf9a99516356]: Textual amendment: Sch. 5 para. 16(1)(2) substituted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(7)(g)(i)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/7/g/i)
+
+[^key-6d1644e820ab70250d2f273203f719d5]: Textual amendment: Sch. 5 para. 16(4) substituted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(7)(g)(ii)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/7/g/ii)
+
+[^key-d29bbd11fe5ca39ebdf4313302df6495]: Textual amendment: Sch. 5 para. 20(2)(e)-(g) substituted for Sch. 5 para. 20(2)(e)(f) (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(7)(h)(i)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/7/h/i)
+
+[^key-1d6da7e222e047348ce9599e4905995a]: Textual amendment: Word in Sch. 5 para. 20(4) substituted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(7)(h)(ii)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/7/h/ii)
+
+[^key-88b13bcfac47eda127532f2222d6ae99]: Textual amendment: Sch. 5 para. 22(1)(2) substituted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(7)(i)(i)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/7/i/i)
+
+[^key-df8310e612f48c8a1f39c0d5493200eb]: Textual amendment: Words in Sch. 5 para. 22(4) substituted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(7)(i)(ii)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/7/i/ii)
+
+[^key-57ceedd7971884155215287dd70f5489]: Textual amendment: Words in [Sch. 5 para. 23(4)(a)](https://www.legislation.gov.uk/uksi/2017/595/schedule/5/paragraph/23/4/a) inserted (24.7.2020) by [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [6(7)(j)](https://www.legislation.gov.uk/uksi/2020/682/regulation/6/7/j)
+
+[^key-6a9b5b6aefed24a7c6502f35d93a1bd5]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2017/595/schedule/6) inserted (7.10.2025) by [The Marketing of Fruit Plant and Propagating Material (England) (Amendment) Regulations 2025 (S.I. 2025/812)](https://www.legislation.gov.uk/uksi/2025/812), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/812/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/812/schedule)

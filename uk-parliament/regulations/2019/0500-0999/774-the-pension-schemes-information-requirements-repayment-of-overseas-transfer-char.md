@@ -1,0 +1,188 @@
+---
+title: The Pension Schemes (Information Requirements – Repayment of Overseas Transfer Charge) Regulations 2019
+id: uksi/2019/774
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2019-04-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2019/774
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/774/pdfs/uksiem_20190774_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/774/pdfs/uksi_20190774_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/774/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pension Schemes (Information Requirements – Repayment of Overseas Transfer Charge) Regulations 2019
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2019 No. 774
+
+Income Tax
+
+The Pension Schemes (Information Requirements – Repayment of Overseas Transfer Charge) Regulations 2019
+
+Made
+
+2nd April 2019
+
+Laid before House of Commons
+
+3rd April 2019
+
+Coming into force
+
+25th April 2019
+
+The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by section 244M(7) of the Finance Act 2004[^f00001].
+
+## 1. Citation, commencement and interpretation
+
+These Regulations may be cited as the Pension Schemes (Information Requirements – Repayment of Overseas Transfer Charge) Regulations 2019 and come into force on 25th April 2019.
+
+**2.** In these Regulations—
+
+- “the Act” means the Finance Act 2004 and a reference (without more) to a numbered section or Schedule is a reference to the section of, or a Schedule to, the Act,
+- “HMRC” means the Commissioners for Her Majesty’s Revenue and Customs,
+- “Overseas transfer charge” has the meaning given in section 244A[^f00002],
+- “QROPS” means qualifying recognised overseas pension scheme and has the meaning given in section 169(2)[^f00003],
+- “Ring-fenced transfer fund” has the meaning given in paragraph 1(6C) of Schedule 34[^f00004],
+- “Relevant period” has the meaning given in section 244A(4).
+
+## 3. Claim for repayment
+
+(1) For the purposes of section 244M, a claim for repayment of the overseas transfer charge (“the charge”) must—
+
+- (a) subject to regulation 6, be submitted by the person who paid the charge (“the claimant”),
+- (b) be in writing,
+- (c) be in a form prescribed by HMRC,
+- (d) contain the information specified in paragraph (2), and
+- (e) include a declaration made by the claimant that the information supplied is true and complete to the best of the claimant’s knowledge and belief.
+
+(2) The information required in respect of each claim is—
+
+- (a) the member’s name, date of birth and principal residential address,
+- (b) unless the member is—
+  - (i) aged under 16, or
+  - (ii) a citizen of a country outside the United Kingdom who is not resident in the United Kingdom,
+
+  the member’s National Insurance number, or a statement that they do not have one,
+- (c) the date of the transfer and, if different, the date of the event triggering the liability to pay the charge on the transfer,
+- (d) the amount of the transfer,
+- (e) the date the claimant paid the charge to HMRC,
+- (f) the circumstances giving rise to the exclusion from the charge,
+- (g) the date during the relevant period for the transfer on which the circumstances in sub-paragraph (f) arose, and
+- (h) the amount in respect of which the claim is made.
+
+## 4. Processing of claim
+
+(1) Where the claimant has not provided all the information required, an officer of HMRC must, by notice in writing—
+
+- (a) require the claimant to provide the outstanding information, and
+- (b) inform the claimant that the claim will not be processed until that information has been provided.
+
+(2) Paragraph (3) applies where the claimant has provided all the information required and, on the basis of that information, had those circumstances existed at the time of the transfer—
+
+- (a) the charge would have been excluded by sections 244B to 244F or under section 244H[^f00005], or
+- (b) the charge would not have been excluded by sections 244B to 244F or under section 244H.
+
+(3) An officer of HMRC must, by notice in writing—
+
+- (a) where paragraph (2)(a) applies, issue a repayment reference number to the claimant, or
+- (b) where paragraph (2)(b) applies, inform the claimant of the reasons why the charge is not repayable.
+
+(4) Where a repayment reference number is issued and the claimant is the scheme administrator, they must make an amended return under section 254[^f00006], citing the repayment reference number.
+
+## 5. Appeals
+
+Part V of the Taxes Management Act 1970[^f00007] (appeals and other proceedings) shall apply to an appeal to a notice under regulation 4(3)(b) and on an appeal that is notified to the tribunal, the tribunal may vary the decision appealed against whether or not the variation is to the advantage of the appellant.
+
+## 6. Repayment
+
+(1) Except where paragraphs (4) to (7) apply, the repayment of the charge must be made to the—
+
+- (a) member who paid the charge,
+- (b) scheme administrator who paid the charge, or
+- (c) scheme manager who paid the charge.
+
+(2) Where the repayment is made to the scheme manager, it must be attributed back to the ring-fenced transfer fund from which the payment originated.
+
+(3) Where the scheme administrator paid the charge and the original registered pension scheme—
+
+- (a) has ceased to exist, or
+- (b) no longer meets the criteria to be a registered pension scheme
+
+the repayment of the charge must, where the conditions in paragraph (4) are met, be made to the scheme administrator of another registered pension scheme (“the new scheme”).
+
+(4) The conditions are that—
+
+- (a) the member must provide HMRC with the details of the new scheme, and
+- (b) the scheme administrator of that scheme must make the claim for repayment.
+
+(5) Where the scheme administrator paid the charge and the original pension scheme has merged with another registered pension scheme—
+
+- (a) the repayment of the charge must be made to the scheme administrator of that merged registered pension scheme, and
+- (b) the scheme administrator of that merged registered pension scheme must make the claim for repayment.
+
+(6) Where the scheme manager paid the charge and the original QROPS—
+
+- (a) has ceased to exist,
+- (b) is no longer a QROPS, or
+- (c) has merged with another QROPS
+
+the repayment of the charge must, where the conditions in paragraph (7) are met, be made to the scheme administrator of a registered pension scheme.
+
+(7) The conditions are that—
+
+- (a) the member must provide HMRC with the details of the registered pension scheme, and
+- (b) the scheme administrator of that scheme must make the claim for repayment.
+
+Jim Harra
+
+Melissa Tatton
+
+Two of the Commissioners for Her Majesty’s Revenue and Customs
+
+2nd April 2019
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in relation to the repayment of the overseas transfer charge on subsequent excluding events under section 244M of the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) in respect of transfers to a qualifying recognised overseas pension scheme (“QROPS”).
+
+Regulation 1 provides for citation and commencement.
+
+Regulation 2 provides for interpretation.
+
+Regulation 3 specifies the conditions for making a claim for repayment and the particulars required to be included when making a claim.
+
+Regulation 4 specifies the procedure for processing the claim on the basis of the information provided. It also specifies that a repayment reference number must be issued where the charge is repayable as well as the obligations on the claimant in these circumstances.
+
+Regulation 5 makes provision for an appeal to a decision to refuse the claim.
+
+Regulation 6 specifies to whom the repayment must be made, including when circumstances have changed since the charge was paid. It also provides for the treatment of the repayment of the charge.
+
+A Tax Information and Impact Note covering the overseas transfer charge was published on 8 March 2017 and is available on the website at https://www.gov.uk/government/publications/qualifying-recognised-overseas-pension-schemes-charge-on-transfers/qualifying-recognised-overseas-pension-schemes-charge-on-transfers. It remains an accurate summary of the impacts that apply to this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Section 244M was inserted by section 10 of, and paragraph 11 of Schedule 4 to, the Finance Act [2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10) (“FA 2017”).
+
+[^f00002]: Footnote: Section 244A was inserted by section 10 of, and paragraph 11 of Schedule 4 to the FA 2017.
+
+[^f00003]: Footnote: Section 169(2) was amended by paragraph 13(2) of Schedule 4(2) to the FA 2017 and section 53(3) of the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29).
+
+[^f00004]: Footnote: Paragraphs 1(6C) and (6D) were inserted by paragraph 2(2) of Schedule 4(1) to the FA 2017.
+
+[^f00005]: Footnote: Sections 244B to 244F and 244H were inserted by section 10 of, and paragraph 11 of Schedule 4 to, FA 2017.
+
+[^f00006]: Footnote: Section 254 was amended by section 66 of, and Schedule 17 to, the Finance Act [2011 (c. 10)](https://www.legislation.gov.uk/ukpga/2011/10) and section 10 of, and Schedule 4 to, FA 2017.
+
+[^f00007]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).

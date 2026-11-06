@@ -1,0 +1,213 @@
+---
+title: The Criminal Justice Act 2003 (Surcharge) Order 2012
+id: uksi/2012/1696
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-06-28'
+text_date: '2022-06-16'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/1696
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/1696/pdfs/uksiem_20121696_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1696/pdfs/uksi_20121696_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/1696/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Criminal Justice Act 2003 (Surcharge) Order 2012
+
+> Text as at 2022-06-16.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 1696
+
+Criminal Law, England And Wales
+
+The Criminal Justice Act 2003 (Surcharge) Order 2012
+
+Made
+
+28th June 2012
+
+Laid before Parliament
+
+2nd July 2012
+
+Coming into force
+
+1st October 2012
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 161A(2), 161B and 330(4) of the Criminal Justice Act 2003[^f00001]:
+
+## 1. Citation, commencement and interpretation[^key-da5984df8b97661aa02b9439e69df0d1]
+
+(1) This Order may be cited as the Criminal Justice Act 2003 (Surcharge) Order 2012 and comes into force on 1st October 2012.
+
+(2)[^key-ae54a6c045e06c23157c92711bd373d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A reference in this Order to a table is a reference to a table in the Schedule.
+
+## 2. Cases in which the duty to order payment of the surcharge does not apply[^key-8cd02bf81e30cf8bc651195ed44917a3]
+
+Section 42(1) of the Sentencing Code[^key-70586a429bbaef23218f339a52457cb4] (court’s duty to order payment of surcharge) does not apply in cases in which a court deals with a person for one or more offences and does not impose any disposal described in the Schedule.
+
+## 3. Amount of surcharge: offences committed by an individual aged under 18[^key-36202d9d5f6aca3dd16aa30486c1d0e6]
+
+(1) Where a court deals with an individual for one or more offences by way of a single disposal described in column 1 of table 1, and every one of those offences was committed when that individual was aged under 18, the surcharge payable under section 42 of the Sentencing Code[^key-371321ea2102361c2ab4af461a60ffbe] is the amount specified in the corresponding entry in column 2 of that table.
+
+(2) Where a court deals with an individual for one or more offences by way of more than one disposal described in column 1 of table 1, and every one of those offences was committed when that individual was aged under 18, the surcharge payable under section 42 of the Sentencing Code[^key-b51b424700ecd3d80968c903f848f2f9] is—
+
+- (a) where the amount in column 2 of that table corresponding to each of those disposals is the same, that amount;
+- (b) where the amount in column 2 of that table corresponding to each of those disposals is not the same, the highest such amount.
+
+## 4. Amount of surcharge: offences committed by an individual aged 18 or over[^key-5a034576a8fc64bea0cf7a6fa759892f]
+
+(1) Where a court deals with an individual for one or more offences by way of a single disposal described in column 1 of table 2, and every one of those offences was committed when that individual was aged 18 or over[^key-d15187021df0b9eefee2f8ca99f88335], the surcharge payable under section 42 of the Sentencing Code[^key-61e7ffff840552e121c415e0befd3355] is the amount specified in the corresponding entry in column 2 of that table.
+
+(2) Where a court deals with an individual for one or more offences by way of more than one disposal described in column 1 of table 2, and every one of those offences was committed when that individual was aged 18 or over[^key-d79269efe867b9c95557bf567fd101a7], the surcharge payable under section 42 of the Sentencing Code[^key-0182a2d3630d77043597d6074035b198] is—
+
+- (a) where the amount in column 2 of that table corresponding to each of those disposals is the same, that amount;
+- (b) where the amount in column 2 of that table corresponding to each of those disposals is not the same, the highest such amount.
+
+## 5. Amount of surcharge: other cases involving offences committed by an individual[^key-103c91015f4f3d6c992eab801f1b9650]
+
+(1) Where a court deals with an individual for more than one offence by way of a single disposal described in column 1 of table 1, and the condition in paragraph (3) is satisfied in relation to those offences, the surcharge payable under section 42 of the Sentencing Code[^key-57853d51effabcf4a725fdec59901907] is the amount specified in the corresponding entry in column 2 of that table.
+
+(2) Where a court deals with an individual for more than one offence by way of more than one disposal described in column 1 of table 1, and the condition in paragraph (3) is satisfied in relation to those offences, the surcharge payable under section 42 of the Sentencing Code[^key-407fc7d44e63208a47a9b649d3e6d31e] is—
+
+- (a) where the amount in column 2 of that table corresponding to each of those disposals is the same, that amount;
+- (b) where the amount in column 2 of that table corresponding to each of those disposals is not the same, the highest such amount.
+
+(3) The condition in this paragraph is satisfied in relation to the offences for which a court is dealing with an individual if at least one of those offences was committed when the individual was under 18 and at least one of those offences was committed when the individual was aged 18 or over.
+
+## 6. Amount of Surcharge: offences committed by a person who is not an individual[^key-e2a4f0852f2bc29ec429585b9928770c]
+
+(1) Where a court deals with a person who is not an individual for one or more offences by way of a single disposal described in column 1 of table 3, the surcharge payable under section 42 of the Sentencing Code[^key-9d89b928eb0227dfdaa44cce9d634ae5] is the amount in column 2 of that table corresponding to that disposal.
+
+(2) Where a court deals with a person who is not an individual for one or more offences by way of more than one disposal described in column 1 of table 3, the surcharge payable under section 42 of the Sentencing Code[^key-3096a042608887cd386e25b5487d08f7] is the highest amount in column 2 of that table corresponding to each of those disposals.
+
+## 7. Revocation and transitional and saving provision[^key-6185860908be57883574fe4652eb19bc]
+
+(1) The Criminal Justice Act 2003 (Surcharge) (No. 2) Order 2007[^f00002] (“the 2007 Order”) is revoked.
+
+(2) Notwithstanding its revocation by paragraph (1), the 2007 Order continues to apply, and Articles 2 to 6 of this Order do not apply, where after the coming into force of this Order a court deals with a person for—
+
+- (a) a single offence committed before 1st October 2012; or
+- (b) more than one offence, at least one of which was committed before 1st October 2012.
+
+Signed by the authority of the Secretary of State
+
+Crispin Blunt
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+28th June 2012
+
+## SCHEDULE[^key-36d5b42a2da66ae444865b472cb731c4]
+
+Articles 2 to 6
+
+Table 1
+
+| Column 1 | Column 2 |
+| --- | --- |
+| An order for conditional discharge as defined in section 80 of the Sentencing Act 2020 | £20 |
+| A fine | £26 |
+| A youth rehabilitation order as defined in section 173 of the Sentencing Act 2020 | £26 |
+| A referral order as defined in section 83 of the Sentencing Act 2020 | £26 |
+| A community order as defined in section 200 of the Sentencing Act 2020 | £26 |
+| A custodial sentence as defined in section 222 of the Sentencing Act 2020 | £41 |
+
+Table 2
+
+| Column 1 | Column 2 |
+| --- | --- |
+| An order for conditional discharge as defined in section 80 of the Sentencing Act 2020. | £26 |
+| A fine | 40 per cent of the value of the fine, rounded up or down to the nearest pound, subject to a maximum of £2,000. |
+| A community order as defined in section 200 of the Sentencing Act 2020 | £114 |
+| A suspended sentence of imprisonment, as defined in section 286 of the Sentencing Act 2020, where the sentence of imprisonment or detention in a young offender institution is for a period of up to and including 6 months | £154 |
+| A suspended sentence of imprisonment, as defined in section 286 of the Sentencing Act 2020 where the sentence of imprisonment or detention in a young offender institution is for a determinate period of more than 6 months | £187 |
+| A sentence of imprisonment, or detention in a young offender institution, for a determinate period of up to and including 6 months | £154 |
+| A sentence of imprisonment, or detention in a young offender institution, for a determinate period of more than 6 months and up to and including 24 months | £187 |
+| A sentence of imprisonment, or detention in a young offender institution, for a determinate period exceeding 24 months | £228 |
+| A sentence of imprisonment or custody for life | £228 |
+
+Table 3
+
+| Column 1 | Column 2 |
+| --- | --- |
+| An order for conditional discharge, as defined in section 80 of the Sentencing Act 2020 | £26 |
+| A fine | 40 per cent of the value of the fine, rounded up or down to the nearest pound, subject to a maximum of £2,000. |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Section 161A(1) of the Criminal Justice Act 2003 (“the 2003 Act”) requires a court, when dealing with a person for one or more offences, to order the person to pay a surcharge. This Order prescribes, in accordance with section 161A(2) of the 2003 Act, those cases where a court is not required to order a surcharge. In accordance with Article 2 a surcharge will not be payable in cases where the offender is dealt with by way of a disposal which is not described in the Schedule to this Order.
+
+This Order also prescribes, in accordance with section 161B(1) of the 2003 Act, the amount of the surcharge where one is payable. Articles 3 to 6 set out further detail on the amount payable as follows.
+
+Article 3 provides for the surcharge payable in relation to offences committed by individuals under 18. Where a court imposes only one of the disposals described in column 1 of table 1 in relation to one or more offences committed by an individual who was under 18 when the offence was committed, the surcharge payable is the amount specified in the corresponding entry in column 2. Where a court imposes more than one disposal described in column 1, the surcharge amount, where the corresponding amounts specified in column 2 are the same, is that amount; where the corresponding amounts are not the same, the surcharge amount is the highest of those amounts.
+
+Article 4 makes similar provision to that in Article 3 but in respect of offences committed by individuals who were 18 or over at the time the offence was committed. In such cases, the surcharge amount is to be determined by reference to table 2.
+
+Article 5 provides for the surcharge payable when a court deals with an individual in relation to more than one offence, at least one of which was committed when the individual was under 18, and at least one of which was committed when the individual was 18 or over. In such a case, the amount of the surcharge is to be determined by reference to table 1: where a court imposes only one of the disposals described in column 1 of table 1, the surcharge payable is the amount specified in the corresponding entry in column 2. Where a court imposes more than one disposal described in column 1, the surcharge amount, where the corresponding amounts specified in column 2 are the same, is that amount; where the corresponding amounts are not the same, the surcharge amount is the highest of those amounts.
+
+Article 6 provides for the surcharge payable when a court deals with a person who is not an individual (for example a legal person) in relation to one or more offences. The surcharge payable by such a person is determined by reference to table 3 in the Schedule. Where a court imposes only one of the disposals described in column 1 of that table, the surcharge payable is the amount specified in the corresponding entry in column 2; when the court imposes both of the disposals, the surcharge payable is the highest of those amounts.
+
+Article 7 of the Order revokes the Criminal Justice Act 2003 (Surcharge) (No. 2) Order 2007 ([S.I. 2007/1079](https://www.legislation.gov.uk/uksi/2007/1079)) (“the 2007 Order”). However the 2007 Order continues to apply where a court deals with a person in relation to any offence committed before the coming into force of this Order on 1st October 2012.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44). Sections 161A and 161B of the Criminal Justice Act 2003 were inserted by section 14(1) of the Domestic Violence, Crime and Victims Act [2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28) which was brought into force on 1 April 2007 by the Domestic Violence, Crime and Victims Act 2004 (Commencement No. 8) Order 2007 ([S.I. 2007/602 (C. 26)](https://www.legislation.gov.uk/uksi/2007/602)).
+
+[^key-da5984df8b97661aa02b9439e69df0d1]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/1696/article/1) in force at 1.10.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1696/article/1/1)
+
+[^key-ae54a6c045e06c23157c92711bd373d4]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1696/article/1/2) omitted (1.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 404](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/404) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-8cd02bf81e30cf8bc651195ed44917a3]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/1696/article/2) in force at 1.10.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1696/article/1/1)
+
+[^key-70586a429bbaef23218f339a52457cb4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1696/article/2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 405](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/405) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-36202d9d5f6aca3dd16aa30486c1d0e6]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/1696/article/3) in force at 1.10.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1696/article/1/1)
+
+[^key-371321ea2102361c2ab4af461a60ffbe]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/1696/article/3/1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 406(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/406/a) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-b51b424700ecd3d80968c903f848f2f9]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2012/1696/article/3/2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 406(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/406/a) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-5a034576a8fc64bea0cf7a6fa759892f]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/1696/article/4) in force at 1.10.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1696/article/1/1)
+
+[^key-d15187021df0b9eefee2f8ca99f88335]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2012/1696/article/4/1) substituted (28.6.2019) by [The Criminal Justice Act 2003 (Surcharge) (Amendment) Order 2019 (S.I. 2019/985)](https://www.legislation.gov.uk/uksi/2019/985), [arts. 1](https://www.legislation.gov.uk/uksi/2019/985/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2019/985/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2019/985/article/3))
+
+[^key-61e7ffff840552e121c415e0befd3355]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2012/1696/article/4/1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 406(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/406/b) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-d79269efe867b9c95557bf567fd101a7]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2012/1696/article/4/2) substituted (28.6.2019) by [The Criminal Justice Act 2003 (Surcharge) (Amendment) Order 2019 (S.I. 2019/985)](https://www.legislation.gov.uk/uksi/2019/985), [arts. 1](https://www.legislation.gov.uk/uksi/2019/985/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2019/985/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2019/985/article/3))
+
+[^key-0182a2d3630d77043597d6074035b198]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2012/1696/article/4/2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 406(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/406/b) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-103c91015f4f3d6c992eab801f1b9650]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2012/1696/article/5) in force at 1.10.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1696/article/1/1)
+
+[^key-57853d51effabcf4a725fdec59901907]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2012/1696/article/5/1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 406(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/406/c) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-407fc7d44e63208a47a9b649d3e6d31e]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2012/1696/article/5/2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 406(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/406/c) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-e2a4f0852f2bc29ec429585b9928770c]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/1696/article/6) in force at 1.10.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1696/article/1/1)
+
+[^key-9d89b928eb0227dfdaa44cce9d634ae5]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2012/1696/article/6/1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 406(d)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/406/d) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-3096a042608887cd386e25b5487d08f7]: Textual amendment: Words in [art. 6(2)](https://www.legislation.gov.uk/uksi/2012/1696/article/6/2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 406(d)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/406/d) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-6185860908be57883574fe4652eb19bc]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/1696/article/7) in force at 1.10.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1696/article/1/1)
+
+[^f00002]: Footnote: [S.I. 2007/1079](https://www.legislation.gov.uk/uksi/2007/1079).
+
+[^key-36d5b42a2da66ae444865b472cb731c4]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2012/1696/schedule) substituted (16.6.2022) by [The Sentencing Act 2020 (Surcharge) (Amendment) Regulations 2022 (S.I. 2022/584)](https://www.legislation.gov.uk/uksi/2022/584), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/584/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/584/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/584/regulation/3))

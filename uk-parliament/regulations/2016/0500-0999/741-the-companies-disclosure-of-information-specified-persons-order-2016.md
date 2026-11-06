@@ -1,0 +1,91 @@
+---
+title: The Companies (Disclosure of Information) (Specified Persons) Order 2016
+id: uksi/2016/741
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2016-07-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2016/741
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/741/pdfs/uksiem_20160741_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/741/pdfs/uksi_20160741_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/741/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Companies (Disclosure of Information) (Specified Persons) Order 2016
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2016 No. 741
+
+Companies
+
+The Companies (Disclosure of Information) (Specified Persons) Order 2016
+
+Made
+
+12th July 2016
+
+Laid before Parliament
+
+13th July 2016
+
+Coming into force
+
+1st October 2016
+
+The Secretary of State makes the following Order in exercise of the powers conferred by section 449(3) of the Companies Act 1985[^f00001].
+
+## 1. Citation and commencement
+
+This Order may be cited as the Companies (Disclosure of Information) (Specified Persons) Order 2016 and comes into force on 1st October 2016.
+
+## 2. Addition of specified persons to Schedule 15C to the Companies Act 1985
+
+Schedule 15C (specified persons) to the Companies Act 1985[^f00002] is amended as follows—
+
+- (a) after paragraph 3 insert—
+
+  > **3A.** The Commissioners for Her Majesty’s Revenue and Customs.
+- (b) after paragraph 6 insert—
+
+  > **6A.** The Director of the Serious Fraud Office.
+- (c) after paragraph 7B insert—
+
+  > **7C.** The registrar of companies.
+  >
+  > **7D.** The Gangmasters and Labour Abuse Authority.
+
+  .
+
+Anna Soubry
+
+Minister of State for Small Business, Industry and Enterprise
+
+Department for Business, Innovation and Skills
+
+12th July 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends Schedule 15C to the Companies Act 1985.
+
+Part XIV of the Companies Act 1985 empowers the Secretary of State to appoint inspectors to investigate the affairs of a company and makes provisions relating to the conduct of investigations.
+
+Section 449 of the Companies Act 1985 makes provision for the security of certain information obtained during the course of such investigations. Schedule 15C contains a list of specified persons to whom information may be disclosed. This Order adds persons to that list.
+
+An impact assessment has not been prepared in relation to this Order as minimal or no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1985 c.6](https://www.legislation.gov.uk/ukpga/1985/6).
+
+[^f00002]: Footnote: Schedule 15C was inserted by the Companies (Audit, Investigations and Community Enterprise) Act [2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27).

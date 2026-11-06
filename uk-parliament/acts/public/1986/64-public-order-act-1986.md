@@ -1,0 +1,1959 @@
+---
+title: Public Order Act 1986
+id: ukpga/1986/64
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1986-11-07'
+text_date: '2026-06-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1986/64
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1986/64/pdfs/ukpga_19860064_en.pdf
+- http://www.legislation.gov.uk/ukpga/1986/64/data.pdf
+pending_changes: 8
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Public Order Act 1986
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/64
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+*Extent: E+W*
+
+Public Order Act 1986
+
+1986 c. 64
+
+An Act to abolish the common law offences of riot, rout, unlawful assembly and affray and certain statutory offences relating to public order; to create new offences relating to public order; to control public processions and assemblies; to control the stirring up of racial hatred; to provide for the exclusion of certain offenders from sporting events; to create a new offence relating to the contamination of or interference with goods; to confer power to direct certain trespassers to leave land; to amend section 7 of the Conspiracy and Protection of Property Act 1875, section 1 of the Prevention of Crime Act 1953, Part V of the Criminal Justice (Scotland) Act 1980 and the Sporting Events (Control of Alcohol etc.) Act 1985; to repeal certain obsolete or unnecessary enactments; and for connected purposes.
+
+\[7th November 1986\]
+
+[^c13655461]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — New Offences
+
+*Extent: E+W+S*
+
+### 1. Riot.
+
+*Extent: E+W*
+
+(1) Where 12 or more persons who are present together use or threaten unlawful violence for a common purpose and the conduct of them (taken together) is such as would cause a person of reasonable firmness present at the scene to fear for his personal safety, each of the persons using unlawful violence for the common purpose is guilty of riot.
+
+(2) It is immaterial whether or not the 12 or more use or threaten unlawful violence simultaneously.
+
+(3) The common purpose may be inferred from conduct.
+
+(4) No person of reasonable firmness need actually be, or be likely to be, present at the scene.
+
+(5) Riot may be committed in private as well as in public places.
+
+(6) A person guilty of riot is liable on conviction on indictment to imprisonment for a term not exceeding ten years or a fine or both.
+
+### 2. Violent disorder.
+
+*Extent: E+W*
+
+(1) Where 3 or more persons who are present together use or threaten unlawful violence and the conduct of them (taken together) is such as would cause a person of reasonable firmness present at the scene to fear for his personal safety, each of the persons using or threatening unlawful violence is guilty of violent disorder.
+
+(2) It is immaterial whether or not the 3 or more use or threaten unlawful violence simultaneously.
+
+(3) No person of reasonable firmness need actually be, or be likely to be, present at the scene.
+
+(4) Violent disorder may be committed in private as well as in public places.
+
+(5) A person guilty of violent disorder is liable on conviction on indictment to imprisonment for a term not exceeding 5 years or a fine or both, or on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum or both.
+
+### 3. Affray.
+
+*Extent: E+W*
+
+(1) A person is guilty of affray if he uses or threatens unlawful violence towards another and his conduct is such as would cause a person of reasonable firmness present at the scene to fear for his personal safety.
+
+(2) Where 2 or more persons use or threaten the unlawful violence, it is the conduct of them taken together that must be considered for the purposes of subsection (1).
+
+(3) For the purposes of this section a threat cannot be made by the use of words alone.
+
+(4) No person of reasonable firmness need actually be, or be likely to be, present at the scene.
+
+(5) Affray may be committed in private as well as in public places.
+
+(6) [^c21446741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) A person guilty of affray is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or a fine or both, or on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum or both.
+
+### 4. Fear or provocation of violence.
+
+*Extent: E+W*
+
+(1) A person is guilty of an offence if he—
+
+- (a) uses towards another person threatening, abusive or insulting words or behaviour, or
+- (b) distributes or displays to another person any writing, sign or other visible representation which is threatening, abusive or insulting,
+
+with intent to cause that person to believe that immediate unlawful violence will be used against him or another by any person, or to provoke the immediate use of unlawful violence by that person or another, or whereby that person is likely to believe that such violence will be used or it is likely that such violence will be provoked.
+
+(2) An offence under this section may be committed in a public or a private place, except that no offence is committed where the words or behaviour are used, or the writing, sign or other visible representation is distributed or displayed, by a person inside a dwelling and the other person is also inside that or another dwelling.
+
+(3) [^c21446751]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale or both.
+
+### 4A. Intentional harassment, alarm or distress.[^c13655471]
+
+*Extent: E+W*
+
+(1) A person is guilty of an offence if, with intent to cause a person harassment, alarm or distress, he—
+
+- (a) uses threatening, abusive or insulting words or behaviour, or disorderly behaviour, or
+- (b) displays any writing, sign or other visible representation which is threatening, abusive or insulting,
+
+thereby causing that or another person harassment, alarm or distress.
+
+(2) An offence under this section may be committed in a public or a private place, except that no offence is committed where the words or behaviour are used, or the writing, sign or other visible representation is displayed, by a person inside a dwelling and the person who is harassed, alarmed or distressed is also inside that or another dwelling.
+
+(3) It is a defence for the accused to prove—
+
+- (a) that he was inside a dwelling and had no reason to believe that the words or behaviour used, or the writing, sign or other visible representation displayed, would be heard or seen by a person outside that or any other dwelling, or
+- (b) that his conduct was reasonable.
+
+(4) [^c21446761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale or both.
+
+### 4B. Intentional harassment, alarm or distress on account of sex[^key-5a7a71264479683f73daa22bd59a2d89]
+
+*Extent: E+W*
+
+(1) A person (A) is guilty of an offence under this section if—
+
+- (a) A commits an offence under section 4A (intentional harassment, alarm or distress), and
+- (b) A carried out the conduct referred to in section 4A(1) because of the relevant person’s sex (or presumed sex).
+
+(2) In subsection (1)—
+
+- “**presumed**” means presumed by A;
+- “**the relevant person**” means the person to whom A intended to cause harassment, alarm or distress.
+
+(3) For the purposes of subsection (1)(b) it does not matter whether or not—
+
+- (a) A also carried out the conduct referred to in section 4A(1) because of any other factor not mentioned in subsection (1)(b), or
+- (b) A carried out the conduct referred to in section 4A(1) for the purposes of sexual gratification.
+
+(4) A person guilty of an offence under this section is liable—
+
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court or a fine or both;
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine or both.
+
+(5) If, on the trial on indictment of a person charged with an offence under this section, the jury find the person not guilty of the offence charged, they may find the person guilty of the offence in section 4A.
+
+### 5. Harassment, alarm or distress.
+
+*Extent: E+W*
+
+(1) A person is guilty of an offence if he—
+
+- (a) uses threatening or abusive[^key-f5820f6be880330067a694c379b4e178] words or behaviour, or disorderly behaviour, or
+- (b) displays any writing, sign or other visible representation which is threatening or abusive,
+
+within the hearing or sight of a person likely to be caused harassment, alarm or distress thereby.
+
+(2) An offence under this section may be committed in a public or a private place, except that no offence is committed where the words or behaviour are used, or the writing, sign or other visible representation is displayed, by a person inside a dwelling and the other person is also inside that or another dwelling.
+
+(3) It is a defence for the accused to prove—
+
+- (a) that he had no reason to believe that there was any person within hearing or sight who was likely to be caused harassment, alarm or distress, or
+- (b) that he was inside a dwelling and had no reason to believe that the words or behaviour used, or the writing, sign or other visible representation displayed, would be heard or seen by a person outside that or any other dwelling, or
+- (c) that his conduct was reasonable.
+
+(4) [^c21446771]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) [^c21446771]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 6. Mental element: miscellaneous.
+
+*Extent: E+W*
+
+(1) A person is guilty of riot only if he intends to use violence or is aware that his conduct may be violent.
+
+(2) A person is guilty of violent disorder or affray only if he intends to use or threaten violence or is aware that his conduct may be violent or threaten violence.
+
+(3) A person is guilty of an offence under section 4 only if he intends his words or behaviour, or the writing, sign or other visible representation, to be threatening, abusive or insulting, or is aware that it may be threatening, abusive or insulting.
+
+(4) A person is guilty of an offence under section 5 only if he intends his words or behaviour, or the writing, sign or other visible representation, to be threatening or abusive[^key-5419097edb91b2f407da96eb7bfd7dc3], or is aware that it may be threatening or abusive or (as the case may be) he intends his behaviour to be or is aware that it may be disorderly.
+
+(5) For the purposes of this section a person whose awareness is impaired by intoxication shall be taken to be aware of that of which he would be aware if not intoxicated, unless he shows either that his intoxication was not self-induced or that it was caused solely by the taking or administration of a substance in the course of medical treatment.
+
+(6) In subsection (5) “**intoxication**” means any intoxication, whether caused by drink, drugs or other means, or by a combination of means.
+
+(7) Subsections (1) and (2) do not affect the determination for the purposes of riot or violent disorder of the number of persons who use or threaten violence.
+
+### 7. Procedure: miscellaneous.[^c21447421]
+
+*Extent: E+W*
+
+(1) No prosecution for an offence of riot or incitement to riot may be instituted except by or with the consent of the Director of Public Prosecutions.
+
+(2) For the purposes of the rules against charging more than one offence in the same count or information, each of sections 1 to 5 creates one offence.
+
+(3) If on the trial on indictment of a person charged with violent disorder or affray the jury find him not guilty of the offence charged, they may (without prejudice to section 6(3) of the [^c13655491]Criminal Law Act 1967) find him guilty of an offence under section 4.
+
+(4) The Crown Court has the same powers and duties in relation to a person who is by virtue of subsection (3) convicted before it of an offence under section 4 as a magistrates’ court would have on convicting him of the offence.
+
+### 8. Interpretation.
+
+*Extent: E+W*
+
+In this Part—
+
+- “**dwelling**” means any structure or part of a structure occupied as a person’s home or as other living accommodation (whether the occupation is separate or shared with others) but does not include any part not so occupied, and for this purpose “**structure**” includes a tent, caravan, vehicle, vessel or other temporary or movable structure;
+- “**violence**” means any violent conduct, so that—
+  - (a) except in the context of affray, it includes violent conduct towards property as well as violent conduct towards persons, and
+  - (b) it is not restricted to conduct causing or intended to cause injury or damage but includes any other violent conduct (for example, throwing at or towards a person a missile of a kind capable of causing injury which does not hit or falls short).
+
+### 9. Offences abolished.
+
+(1) The common law offences of riot, rout, unlawful assembly and affray are abolished.
+
+(2) The offences under the following enactments are abolished—
+
+- (a) section 1 of the [^c13655501]Tumultuous Petitioning Act 1661 (presentation of petition to monarch or Parliament accompanied by excessive number of persons),
+- (b) section 1 of the [^c13655511]Shipping Offences Act 1793 (interference with operation of vessel by persons riotously assembled),
+- (c) section 23 of the [^c13655521]Seditious Meetings Act 1817 (prohibition of certain meetings within one mile of Westminster Hall when Parliament sitting), and
+- (d) section 5 of the [^c13655531]Public Order Act 1936 (conduct conducive to breach of the peace).
+
+### 10. Construction of other instruments.
+
+*Extent: E+W*
+
+(1)[^key-29386d0bd98d3b2acd0f441908b14b90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In Schedule 1 to the [^c13655591]Marine Insurance Act 1906 (form and rules for the construction of certain insurance policies) “rioters” in rule 8 and “riot” in rule 10 shall, in the application of the rules to any policy taking effect on or after the coming into force of this section, be construed in accordance with section 1 above unless a different intention appears.
+
+(3) “Riot” and cognate expressions in any enactment in force before the coming into force of this section (other than the enactments mentioned in subsections (1) and (2) above) shall be construed in accordance with section 1 above if they would have been construed in accordance with the common law offence of riot apart from this Part.
+
+(4) Subject to subsections (1) to (3) above and unless a different intention appears, nothing in this Part affects the meaning of “**riot**” or any cognate expression in any enactment in force, or other instrument taking effect, before the coming into force of this section.
+
+## Part II — Processions and Assemblies
+
+*Extent: E+W+S*
+
+### 11. Advance notice of public processions.
+
+*Extent: E+W*
+
+(1) Written notice shall be given in accordance with this section of any proposal to hold a public procession intended—
+
+- (a) to demonstrate support for or opposition to the views or actions of any person or body of persons,
+- (b) to publicise a cause or campaign, or
+- (c) to mark or commemorate an event,
+
+unless it is not reasonably practicable to give any advance notice of the procession.
+
+(2) Subsection (1) does not apply where the procession is one commonly or customarily held in the police area (or areas) in which it is proposed to be held or is a funeral procession organised by a funeral director acting in the normal course of his business.
+
+(3) The notice must specify the date when it is intended to hold the procession, the time when it is intended to start it, its proposed route, and the name and address of the person (or of one of the persons) proposing to organise it.
+
+(4) Notice must be delivered to a police station—
+
+- (a) in the police area in which it is proposed the procession will start, or
+- (b) where it is proposed the procession will start in Scotland and cross into England, in the first police area in England on the proposed route.
+
+(5) If delivered not less than 6 clear days before the date when the procession is intended to be held, the notice may be delivered by post by the recorded delivery service; but section 7 of the [^c13655601]Interpretation Act 1978 (under which a document sent by post is deemed to have been served when posted and to have been delivered in the ordinary course of post) does not apply.
+
+(6) If not delivered in accordance with subsection (5), the notice must be delivered by hand not less than 6 clear days before the date when the procession is intended to be held or, if that is not reasonably practicable, as soon as delivery is reasonably practicable.
+
+(7) Where a public procession is held, each of the persons organising it is guilty of an offence if—
+
+- (a) the requirements of this section as to notice have not been satisfied, or
+- (b) the date when it is held, the time when it starts, or its route, differs from the date, time or route specified in the notice.
+
+(8) It is a defence for the accused to prove that he did not know of, and neither suspected nor had reason to suspect, the failure to satisfy the requirements or (as the case may be) the difference of date, time or route.
+
+(9) To the extent that an alleged offence turns on a difference of date, time or route, it is a defence for the accused to prove that the difference arose from circumstances beyond his control or from something done with the agreement of a police officer or by his direction.
+
+(10) A person guilty of an offence under subsection (7) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 12. Imposing conditions on public processions.
+
+(1) If a[^key-5142081fba2a05cb6e1126ad4ac4817b] senior police officer, having regard to the time or place at which and the circumstances in which any public procession is being held or is intended to be held and to its route or proposed route, reasonably believes that—
+
+- (a) it may result in serious public disorder, serious damage to property or serious disruption to the life of the community,
+- (aa)[^key-8b66045fb76d45cd208ca454d93e933d] in the case of a procession in England and Wales, the noise generated by persons taking part in the procession may result in serious disruption to the activities of an organisation which are carried on in the vicinity of the procession,
+- (ab) in the case of a procession in England and Wales—
+  - (i) the noise generated by persons taking part in the procession may have a relevant impact on persons in the vicinity of the procession, and
+  - (ii) that impact may be significant, [^key-377e6fc04543f3b9d969acc2faf53099]...
+- (b) the purpose of the persons organising it is the intimidation of others with a view to compelling them not to do an act they have a right to do, or to do an act they have a right not to do, or[^key-d4592271ba8470c9655492337a646df3]
+- (c) in the case of a procession in England and Wales, the procession is in the vicinity of a place of worship and may intimidate persons of reasonable firmness with the result that those persons are deterred from—
+  - (i) accessing that place of worship for the purpose of carrying out religious activities, or
+  - (ii) carrying out religious activities at that place of worship,
+
+he may give directions imposing on the persons organising or taking part in the procession such conditions as appear to him necessary to prevent such disorder, damage, disruption , impact[^key-8c7210ebfe2e7595ae49890535cd0ac0] or intimidation, including conditions as to the route of the procession or prohibiting it from entering any public place specified in the directions.
+
+(2) In subsection (1) “**[^key-573038abfe2be3ec834b7cf2cb8875ec]... senior police officer**” means—
+
+- (a) in relation to a procession being held, or to a procession intended to be held in a case where persons are assembling with a view to taking part in it —[^key-ebbc0c4f701f0b0bc8320543dd77c52a]
+  - (i) the most senior in rank of the police officers present at the scene, or
+  - (ii) in the case of a procession in England and Wales, a police officer authorised by a chief officer of police for the purposes of this subsection, and
+- (b) in relation to a procession intended to be held in a case where paragraph (a) does not apply, the chief officer of police.
+
+(2A)[^key-a90cbaacb6601ffce71640634ad6559c] For the purposes of subsection (1)(a), the cases in which a public procession in England and Wales may result in serious disruption to the life of the community include, in particular, where—
+
+- (a) it may result in a significant delay to the delivery of a time-sensitive product to consumers of that product, or
+- (b) it may result in a prolonged disruption of access to any essential goods or any essential service, including, in particular, access to—
+  - (i) the supply of money, food, water, energy or fuel,
+  - (ii) a system of communication,
+  - (iii) a place of worship,
+  - (iv) a transport facility,
+  - (v) an educational institution, or
+  - (vi) a service relating to health.
+
+(2B) In subsection (2A)(a) “**time-sensitive product**” means a product whose value or use to its consumers may be significantly reduced by a delay in the supply of the product to them.
+
+(2BA)[^key-51a526fcf663fd184f65c47a9da59274] In considering for the purposes of subsection (1)(a) whether a public procession in England and Wales may result in serious disruption to the life of the community, a senior police officer must take into account any relevant cumulative disruption.
+
+(2BB) In subsection (2BA) “**relevant cumulative disruption”** means the cumulative disruption to the life of the community resulting from—
+
+- (a) the procession,
+- (b) any other public procession in England and Wales that was held, is being held or is intended to be held in the same area as the area in which the procession mentioned in paragraph (a) is being held or is intended to be held (whether or not directions have been given under subsection (1) in relation to that other procession), and
+- (c) any public assembly in England and Wales that was held, is being held or is intended to be held in the same area as the area in which the procession mentioned in paragraph (a) is being held or is intended to be held (whether or not directions have been given under section 14(1A) in relation to that assembly),
+
+and it does not matter whether or not the procession mentioned in paragraph (a) and any procession or assembly within paragraph (b) or (c) are organised by the same person, are attended by any of the same persons or are held or are intended to be held at the same time.
+
+(2BC) In subsection (2BB) “**area**”, in relation to a public procession or public assembly, means such area as the senior police officer considers appropriate, having regard to the nature and extent of the disruption that may result from the procession or assembly.
+
+(2C) For the purposes of subsection (1)(aa), the cases in which the noise generated by persons taking part in a public procession may result in serious disruption to the activities of an organisation which are carried on in the vicinity of the procession include, in particular, where it may result in persons connected with the organisation not being reasonably able, for a prolonged period of time, to carry on in that vicinity the activities or any one of them.
+
+(2D) For the purposes of subsection (1)(ab)(i), the noise generated by persons taking part in a public procession may have a relevant impact on persons in the vicinity of the procession if—
+
+- (a) it may result in the intimidation or harassment of persons of reasonable firmness with the characteristics of persons likely to be in the vicinity, or
+- (b) it may cause such persons to suffer alarm or distress.
+
+(2E) In considering for the purposes of subsection (1)(ab)(ii) whether the noise generated by persons taking part in a public procession may have a significant impact on persons in the vicinity of the procession, the senior police officer must have regard to—
+
+- (a) the likely number of persons of the kind mentioned in paragraph (a) of subsection (2D) who may experience an impact of the kind mentioned in paragraph (a) or (b) of that subsection,
+- (b) the likely duration of that impact on such persons, and
+- (c) the likely intensity of that impact on such persons.
+
+(3) A direction given by a chief officer of police by virtue of subsection (2)(b) shall be given in writing.
+
+(4) Subject to subsection (5A), a person[^key-78103e675ef0eab68be6160268cf051f] who organises a public procession and [^key-7787d12b911b3a069e122fafe0240369]... fails to comply with a condition imposed under this section is guilty of an offence, but it is a defence for him to prove that the failure arose from circumstances beyond his control.
+
+(5) Subject to subsection (5A), a person[^key-9dbc73d4f62f0e3e801a030ca0d92978] who takes part in a public procession and [^key-492544c1caa6c7b0b7515d646defa68a]... fails to comply with a condition imposed under this section is guilty of an offence, but it is a defence for him to prove that the failure arose from circumstances beyond his control.
+
+(5A)[^key-dce30185a25723b844670273a8a8a80b] A person is guilty of an offence under subsection (4) or (5) only if—
+
+- (a) in the case of a public procession in England and Wales, at the time the person fails to comply with the condition the person knows or ought to know that the condition has been imposed;
+- (b) in the case of a public procession in Scotland, the person knowingly fails to comply with the condition.
+
+(6) A person who incites another to commit an offence under subsection (5) is guilty of an offence.
+
+(7)[^c21446791] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-68706d1fb898739c2a80e329183ae183] A person guilty of an offence under subsection (4) is liable on summary conviction—
+
+- (a) in the case of a public procession in England and Wales, to imprisonment for a term not exceeding 51 weeks or a fine not exceeding level 4 on the standard scale or both;
+- (b) in the case of a public procession in Scotland, to imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale or both.
+
+(9) A person guilty of an offence under subsection (5) is liable on summary conviction—
+
+- (a) in the case of a public procession in England and Wales, to a fine not exceeding level 4 on the standard scale;
+- (b) in the case of a public procession in Scotland, to a fine not exceeding level 3 on the standard scale.
+
+(10) A person guilty of an offence under subsection (6) is liable on summary conviction—
+
+- (a) in the case of a public procession in England and Wales, to imprisonment for a term not exceeding 51 weeks or a fine not exceeding level 4 on the standard scale or both;
+- (b) in the case of a public procession in Scotland, to imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale or both.
+
+(10A) In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003 (alteration of penalties for certain summary offences: England and Wales), the references in subsections (8)(a) and to (10)(a) to 51 weeks are to be read as references to 6 months.
+
+(11) In Scotland this section applies only in relation to a procession being held, and to a procession intended to be held in a case where persons are assembling with a view to taking part in it.
+
+(12)[^key-cf879ba5ce061a12f049d8bbf5bb9041] The Secretary of State may by regulations amend any of subsections (2A) to (2C) for the purposes of making provision about the meaning for the purposes of this section of—
+
+- (a) serious disruption to the activities of an organisation which are carried on in the vicinity of a public procession, or
+- (b) serious disruption to the life of the community.
+
+(13) Regulations under subsection (12) may, in particular, amend any of those subsections for the purposes of—
+
+- (a) defining any aspect of an expression mentioned in subsection (12)(a) or (b) for the purposes of this section;
+- (b) giving examples of cases in which a public procession is or is not to be treated as resulting in—
+  - (i) serious disruption to the activities of an organisation which are carried on in the vicinity of the procession, or
+  - (ii) serious disruption to the life of the community.
+
+(14) Regulations under subsection (12)—
+
+- (a) are to be made by statutory instrument;
+- (b) may apply only in relation to public processions in England and Wales;
+- (c) may make incidental, supplementary, consequential, transitional, transitory or saving provision, including provision which makes consequential amendments to this Part.
+
+(15) A statutory instrument containing regulations under subsection (12) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+### 13. Prohibiting public processions.
+
+*Extent: E+W*
+
+(1) If at any time the chief officer of police reasonably believes that, because of particular circumstances existing in any district or part of a district, the powers under section 12 will not be sufficient to prevent the holding of public processions in that district or part from resulting in serious public disorder, he shall apply to the council of the district for an order prohibiting for such period not exceeding 3 months as may be specified in the application the holding of all public processions (or of any class of public procession so specified) in the district or part concerned.
+
+(2) On receiving such an application, a council may with the consent of the Secretary of State make an order either in the terms of the application or with such modifications as may be approved by the Secretary of State.
+
+(3) Subsection (1) does not apply in the City of London or the metropolitan police district.
+
+(4) If at any time the Commissioner of Police for the City of London or the Commissioner of Police of the Metropolis reasonably believes that, because of particular circumstances existing in his police area or part of it, the powers under section 12 will not be sufficient to prevent the holding of public processions in that area or part from resulting in serious public disorder, he may with the consent of the Secretary of State make an order prohibiting for such period not exceeding 3 months as may be specified in the order the holding of all public processions (or of any class of public procession so specified) in the area or part concerned.
+
+(5) An order made under this section may be revoked or varied by a subsequent order made in the same way, that is, in accordance with subsections (1) and (2) or subsection (4), as the case may be.
+
+(6) Any order under this section shall, if not made in writing, be recorded in writing as soon as practicable after being made.
+
+(7) A person who organises a public procession the holding of which he knows is prohibited by virtue of an order under this section is guilty of an offence.
+
+(8) A person who takes part in a public procession the holding of which he knows is prohibited by virtue of an order under this section is guilty of an offence.
+
+(9) A person who incites another to commit an offence under subsection (8) is guilty of an offence.
+
+(10) [^c21446801]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) A person guilty of an offence under subsection (7) is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale or both.
+
+(12) A person guilty of an offence under subsection (8) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(13) A person guilty of an offence under subsection (9) is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale or both [^c21447551]. . . .
+
+### 14. Imposing conditions on public assemblies.[^c21446671]
+
+(1) Subsection (1A) applies if[^key-eb3c5c9d4b2ab6ac4db7ada203efe0e6] a[^key-c4e6a6b23ed5c4d83a9a80c7933a5142] senior police officer, having regard to the time or place at which and the circumstances in which any public assembly is being held or is intended to be held, reasonably believes that—
+
+- (a) it may result in serious public disorder, serious damage to property or serious disruption to the life of the community,
+- (aa)[^key-447a82d906f389c2fda9d130ffc75ec2] in the case of an assembly in England and Wales, the noise generated by persons taking part in the assembly may result in serious disruption to the activities of an organisation which are carried on in the vicinity of the assembly,
+- (ab) in the case of an assembly in England and Wales—
+  - (i) the noise generated by persons taking part in the assembly may have a relevant impact on persons in the vicinity of the assembly, and
+  - (ii) that impact may be significant, [^key-6343b73294f56c9ee3dcda17eacaa925]...
+- (b) the purpose of the persons organising it is the intimidation of others with a view to compelling them not to do an act they have a right to do, or to do an act they have a right not to do, or[^key-415cd13ced8559ed1c32eb133f0f9721]
+- (c) in the case of an assembly in England and Wales, the assembly is in the vicinity of a place of worship and may intimidate persons of reasonable firmness with the result that those persons are deterred from—
+  - (i) accessing that place of worship for the purpose of carrying out religious activities, or
+  - (ii) carrying out religious activities at that place of worship.
+
+[^key-024bc91cd9f1f09c6a964aceaa00d3fc]...
+
+(1A)[^key-956d23bb2bcdbed92d5741b5f018c6dc] The senior police officer may give directions imposing on the persons organising or taking part in the assembly—
+
+- (a) in the case of an assembly in England and Wales, such conditions as appear to the officer necessary to prevent the disorder, damage, disruption, impact or intimidation mentioned in subsection (1);
+- (b) in the case of an assembly in Scotland, such conditions as to the place at which the assembly may be (or continue to be) held, its maximum duration, or the maximum number of persons who may constitute it, as appear to the officer necessary to prevent the disorder, damage, disruption or intimidation mentioned in subsection (1)(a) or (b).
+
+(2) In this section[^key-3b3d102900226fd9642f95b8fa156948] “**[^key-151bd959d15ac795f4cd6377d20b220b]... senior police officer**” means—
+
+- (a) in relation to an assembly being held —[^key-80c118d043be87c33c3c958ce95b8b3c]
+  - (i) the most senior in rank of the police officers present at the scene, or
+  - (ii) in the case of an assembly in England and Wales, a police officer authorised by a chief officer of police for the purposes of this subsection, and
+- (b) in relation to an assembly intended to be held, the chief officer of police.
+
+This is subject to subsections (2ZA) and (2ZB).[^key-925d4a5d1114807f96140bf5ee6eed7b]
+
+(2ZA)[^key-5a9b7713eb18940e43fa29faca228a75] The reference in subsection (2)(a) to a police officer includes—
+
+- (a) a constable of the British Transport Police Force, in relation to a place within section 31(1)(a) to (f) of the Railways and Transport Safety Act 2003;
+- (b) a member of the Ministry of Defence Police, in relation to a place to which section 2(2) of the Ministry of Defence Police Act 1987 applies.
+
+(2ZB) The references in subsection (2) to a chief officer of police include[^key-c42677a0ecf55677a8a8c7619e067219]—
+
+- (a) the chief constable of the British Transport Police Force, in relation to a place within section 31(1)(a) to (f) of the Railways and Transport Safety Act 2003;
+- (b) the chief constable of the Ministry of Defence Police, in relation to a place to which section 2(2) of the Ministry of Defence Police Act 1987 applies.
+
+(2A)[^key-30c140cc2dea87b2cdad4de1b81cfac8] For the purposes of subsection (1)(a), the cases in which a public assembly in England and Wales may result in serious disruption to the life of the community include, in particular, where—
+
+- (a) it may result in a significant delay to the supply of a time-sensitive product to consumers of that product, or
+- (b) it may result in a prolonged disruption of access to any essential goods or any essential service, including, in particular, access to—
+  - (i) the supply of money, food, water, energy or fuel,
+  - (ii) a system of communication,
+  - (iii) a place of worship,
+  - (iv) a transport facility,
+  - (v) an educational institution, or
+  - (vi) a service relating to health.
+
+(2B) In subsection (2A)(a) “**time-sensitive product**” means a product whose value or use to its consumers may be significantly reduced by a delay in the supply of the product to them.
+
+(2BA)[^key-26527a489dae6e3286e0d73cbae746ec] In considering for the purposes of subsection (1)(a) whether a public assembly in England and Wales may result in serious disruption to the life of the community, a senior police officer must take into account any relevant cumulative disruption.
+
+(2BB) In subsection (2BA) “**relevant cumulative disruption”** means the cumulative disruption to the life of the community resulting from—
+
+- (a) the assembly,
+- (b) any other public assembly in England and Wales that was held, is being held or is intended to be held in the same area as the area in which the assembly mentioned in paragraph (a) is being held or is intended to be held (whether or not directions have been given under subsection (1A) in relation to that other assembly), and
+- (c) any public procession in England and Wales that was held, is being held or is intended to be held in the same area as the area in which the assembly mentioned in paragraph (a) is being held or is intended to be held (whether or not directions have been given under section 12(1) in relation to that procession),
+
+and it does not matter whether or not the assembly mentioned in paragraph (a) and any assembly or procession within paragraph (b) or (c) are organised by the same person, are attended by any of the same persons or are held or are intended to be held at the same time.
+
+(2BC) In subsection (2BB) “**area**”, in relation to a public assembly or public procession, means such area as the senior police officer considers appropriate, having regard to the nature and extent of the disruption that may result from the assembly or procession.
+
+(2C) For the purposes of subsection (1)(aa), the cases in which the noise generated by persons taking part in a public assembly may result in serious disruption to the activities of an organisation which are carried on in the vicinity of the assembly include, in particular, where it may result in persons connected with the organisation not being reasonably able, for a prolonged period of time, to carry on in that vicinity the activities or any one of them.
+
+(2D) For the purposes of subsection (1)(ab)(i), the noise generated by persons taking part in an assembly may have a relevant impact on persons in the vicinity of the assembly if—
+
+- (a) it may result in the intimidation or harassment of persons of reasonable firmness with the characteristics of persons likely to be in the vicinity, or
+- (b) it may cause such persons to suffer alarm or distress.
+
+(2E) In considering for the purposes of subsection (1)(ab)(ii) whether the noise generated by persons taking part in an assembly may have a significant impact on persons in the vicinity of the assembly, the senior police officer must have regard to—
+
+- (a) the likely number of persons of the kind mentioned in paragraph (a) of subsection (2D) who may experience an impact of the kind mentioned in paragraph (a) or (b) of that subsection,
+- (b) the likely duration of that impact on such persons, and
+- (c) the likely intensity of that impact on such persons.
+
+(3) A direction given [^key-e23052c73c82ccb712f730f10ed017fa]... by virtue of subsection (2)(b) or (2ZB)[^key-2553b186abe0b1d2bce19ae29afe8abb] shall be given in writing.
+
+(4) Subject to subsection (5A), a person[^key-7ba5e2b6738bdedbf4fe39db52f0fece] who organises a public assembly and [^key-791edf5a7a4cd443131d26c39a7de381]... fails to comply with a condition imposed under this section is guilty of an offence, but it is a defence for him to prove that the failure arose from circumstances beyond his control.
+
+(5) Subject to subsection (5A), a person[^key-2a1c7faac2ec7709ad5f16e915d3a902] who takes part in a public assembly and [^key-63abb7265d480e42cf6648347c379a4f]... fails to comply with a condition imposed under this section is guilty of an offence, but it is a defence for him to prove that the failure arose from circumstances beyond his control.
+
+(5A)[^key-2c046904a06c711531725b7385220e22] A person is guilty of an offence under subsection (4) or (5) only if—
+
+- (a) in the case of a public assembly in England and Wales, at the time the person fails to comply with the condition the person knows or ought to know that the condition has been imposed;
+- (b) in the case of a public assembly in Scotland, the person knowingly fails to comply with the condition.
+
+(6) A person who incites another to commit an offence under subsection (5) is guilty of an offence.
+
+(7)[^c21446811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-8f0d5a98b37953495774c19ff332452a] A person guilty of an offence under subsection (4) is liable on summary conviction—
+
+- (a) in the case of a public assembly in England and Wales, to imprisonment for a term not exceeding 51 weeks or a fine not exceeding level 4 on the standard scale or both;
+- (b) in the case of a public assembly in Scotland, to imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale or both.
+
+(9) A person guilty of an offence under subsection (5) is liable on summary conviction—
+
+- (a) in the case of a public assembly in England and Wales, to a fine not exceeding level 4 on the standard scale;
+- (b) in the case of a public assembly in Scotland, to a fine not exceeding level 3 on the standard scale.
+
+(10) A person guilty of an offence under subsection (6) is liable on summary conviction—
+
+- (a) in the case of a public assembly in England and Wales, to imprisonment for a term not exceeding 51 weeks or a fine not exceeding level 4 on the standard scale or both;
+- (b) in the case of a public assembly in Scotland, to imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale or both.
+
+(10A) In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003 (alteration of penalties for certain summary offences: England and Wales), the references in subsections (8)(a) and to (10)(a) to 51 weeks are to be read as references to 6 months.
+
+(11)[^key-413c97ee572bf622f8a65bfe5953dee4] The Secretary of State may by regulations amend any of subsections (2A) to (2C) for the purposes of making provision about the meaning for the purposes of this section of—
+
+- (a) serious disruption to the activities of an organisation which are carried on in the vicinity of a public assembly, or
+- (b) serious disruption to the life of the community.
+
+(12) Regulations under subsection (11) may, in particular, amend any of those subsections for the purposes of—
+
+- (a) defining any aspect of an expression mentioned in subsection (11)(a) or (b) for the purposes of this section;
+- (b) giving examples of cases in which a public assembly is or is not to be treated as resulting in—
+  - (i) serious disruption to the activities of an organisation which are carried on in the vicinity of the assembly, or
+  - (ii) serious disruption to the life of the community.
+
+(13) Regulations under subsection (11)—
+
+- (a) are to be made by statutory instrument;
+- (b) may apply only in relation to public assemblies in England and Wales;
+- (c) may make incidental, supplementary, consequential, transitional, transitory or saving provision, including provision which makes consequential amendments to this Part.
+
+(14) A statutory instrument containing regulations under subsection (11) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+### 14ZA. Imposing conditions on one-person protests[^key-95b1ffaebe294f025ed940d6f889afef]
+
+*Extent: E+W*
+
+(1) Subsection (2) applies if the senior police officer, having regard to the time or place at which and the circumstances in which any one-person protest in England and Wales is being carried on or is intended to be carried on, reasonably believes—
+
+- (a) that the noise generated by the person carrying on the protest may result in serious disruption to the activities of an organisation which are carried on in the vicinity of the protest, [^key-a8ca37ff4b2509a3e4d35ebae9692142]...
+- (b) that—
+  - (i) the noise generated by the person carrying on the protest may have a relevant impact on persons in the vicinity of the protest, and
+  - (ii) that impact may be significant, or[^key-a8852360efa6b761e7e5165ab6d1edd4]
+- (c) the protest is in the vicinity of a place of worship and may intimidate persons of reasonable firmness with the result that those persons are deterred from—
+  - (i) accessing that place of worship for the purpose of carrying out religious activities, or
+  - (ii) carrying out religious activities at that place of worship.
+
+(2) The senior police officer may give directions imposing on the person organising or carrying on the protest such conditions as appear to the officer necessary to prevent such disruption or impact.
+
+(3) Where the one-person protest is moving, or is intended to move, from place to place—
+
+- (a) the senior police officer must also have regard under subsection (1) to its route or proposed route, and
+- (b) the conditions which may be imposed under subsection (2) include conditions as to the route of the protest or prohibiting the person carrying on the protest from entering any public place specified in the direction while the person is carrying it on.
+
+(4) In this section “one-person protest” means a protest which, at any one time, is carried on by one person in a public place.
+
+(5) In this section “the senior police officer” means—
+
+- (a) in relation to a one-person protest being held or to a one-person protest intended to be held in a case where a person is in a place with a view to carrying on such a protest, the most senior in rank of the police officers present at the scene, and
+- (b) in relation to a one-person protest intended to be held in a case where paragraph (a) does not apply, the chief officer of police.
+
+This is subject to subsections (5A) and (5B).[^key-0ae53719f3af381d61832e8ac768b969]
+
+(5A)[^key-c40ab975f864e85324444ec16d1c22c5] The reference in subsection (5)(a) to a police officer includes—
+
+- (a) a constable of the British Transport Police Force, in relation to a one-person protest—
+  - (i) being held at a place within section 31(1)(a) to (f) of the Railways and Transport Safety Act 2003, or
+  - (ii) intended to be held at a place within sub-paragraph (i) in a case where a person is in that place with a view to carrying on such a protest;
+- (b) a member of the Ministry of Defence Police, in relation to a one-person protest—
+  - (i) being held at a place to which section 2(2) of the Ministry of Defence Police Act 1987 applies, or
+  - (ii) intended to be held at a place within sub-paragraph (i) in a case where a person is in that place with a view to carrying on such a protest.
+
+(5B) The reference in subsection (5)(b) to a chief officer of police includes—
+
+- (a) the chief constable of the British Transport Police Force, in relation to a one-person protest intended to be held at a place within section 31(1)(a) to (f) of the Railways and Transport Safety Act 2003, other than a one-person protest within subsection (5A)(a)(ii);
+- (b) the chief constable of the Ministry of Defence Police, in relation to a one-person protest intended to be held at a place to which section 2(2) of the Ministry of Defence Police Act 1987 applies, other than a one-person protest within subsection (5A)(b)(ii).
+
+(6) For the purposes of subsection (1)(a), the cases in which the noise generated by a person taking part in a one-person protest may result in serious disruption to the activities of an organisation which are carried on in the vicinity of the protest include, in particular, where it may result in persons connected with the organisation not being reasonably able, for a prolonged period of time, to carry on in that vicinity the activities or any one of them.
+
+(7) For the purposes of subsection (1)(b)(i), the noise generated by a person carrying on a one-person protest may have a relevant impact on persons in the vicinity of the protest if—
+
+- (a) it may result in the intimidation or harassment of persons of reasonable firmness with the characteristics of persons likely to be in the vicinity, or
+- (b) it may cause such persons to suffer alarm or distress.
+
+(8) In considering for the purposes of subsection (1)(b)(ii) whether the noise generated by a person carrying on a one-person protest may have a significant impact on persons in the vicinity of the protest, the senior police officer must have regard to—
+
+- (a) the likely number of persons of the kind mentioned in paragraph (a) of subsection (7) who may experience an impact of the kind mentioned in paragraph (a) or (b) of that subsection,
+- (b) the likely duration of that impact on such persons, and
+- (c) the likely intensity of that impact on such persons.
+
+(9) A direction given [^key-161eb1b32a7a2890bdd775cf13c65a69]... by virtue of subsection (5)(b) or (5B)[^key-897c1f30ab3264b6eb1abe52de2c6905] must be given in writing.
+
+(10) A person (“P”) is guilty of an offence if—
+
+- (a) P organises or carries on a one-person protest,
+- (b) P fails to comply with a condition imposed under this section, and
+- (c) at the time P fails to comply with the condition, P knows or ought to know that the condition has been imposed.
+
+(11) It is a defence for a person charged with an offence under subsection (10) to prove that the failure arose from circumstances beyond the person’s control.
+
+(12) A person who incites another to commit an offence under subsection (10) is guilty of an offence.
+
+(13) A person guilty of an offence under subsection (10) is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(14) A person guilty of an offence under subsection (12) is liable on summary conviction to imprisonment for a term not exceeding 51 weeks or a fine not exceeding level 4 on the standard scale or both.
+
+(15) In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003 (alteration of penalties for certain summary offences: England and Wales), the reference in subsection (14) to 51 weeks is to be read as a reference to 6 months.
+
+(16) The Secretary of State may by regulations amend subsection (6) for the purposes of making provision about the meaning for the purposes of this section of serious disruption to the activities of an organisation which are carried on in the vicinity of a one-person protest.
+
+(17) Regulations under subsection (16) may, in particular, amend that subsection for the purposes of—
+
+- (a) defining any aspect of that expression for the purposes of this section;
+- (b) giving examples of cases in which a one-person protest is or is not to be treated as resulting in serious disruption to the activities of an organisation which are carried on in the vicinity of the protest.
+
+(18) Regulations under subsection (16)—
+
+- (a) are to be made by statutory instrument;
+- (b) may make incidental, supplementary, consequential, transitional, transitory or saving provision, including provision which makes consequential amendments to this Part.
+
+(19) A statutory instrument containing regulations under subsection (16) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+### 14A. Prohibiting trespassory assemblies.[^c13655641]
+
+(1) If at any time the chief officer of police reasonably believes that an assembly is intended to be held in any district at a place on land to which the public has no right of access or only a limited right of access and that the assembly—
+
+- (a) is likely to be held without the permission of the occupier of the land or to conduct itself in such a way as to exceed the limits of any permission of his or the limits of the public’s right of access, and
+- (b) may result—
+  - (i) in serious disruption to the life of the community, or
+  - (ii) where the land, or a building or monument on it, is of historical, architectural, archaeological or scientific importance, in significant damage to the land, building or monument,
+
+he may apply to the council of the district for an order prohibiting for a specified period the holding of all trespassory assemblies in the district or a part of it, as specified.
+
+(2) On receiving such an application, a council may—
+
+- (a) in England and Wales, with the consent of the Secretary of State make an order either in the terms of the application or with such modifications as may be approved by the Secretary of State; or
+- (b) in Scotland, make an order in the terms of the application.
+
+(3) Subsection (1) does not apply in the City of London or the metropolitan police district.
+
+(4) If at any time the Commissioner of Police for the City of London or the Commissioner of Police of the Metropolis reasonably believes that an assembly is intended to be held at a place on land to which the public has no right of access or only a limited right of access in his police area and that the assembly—
+
+- (a) is likely to be held without the permission of the occupier of the land or to conduct itself in such a way as to exceed the limits of any permission of his or the limits of the public’s right of access, and
+- (b) may result—
+  - (i) in serious disruption to the life of the community, or
+  - (ii) where the land, or a building or monument on it, is of historical, architectural, archaeological or scientific importance, in significant damage to the land, building or monument,
+
+he may with the consent of the Secretary of State make an order prohibiting for a specified period the holding of all trespassory assemblies in the area or a part of it, as specified.
+
+(4A)[^key-4e0194be9da9754fb179b478819a464e] Subsection (4D) applies if at any time the chief constable of the British Transport Police Force reasonably believes that—
+
+- (a) an assembly is intended to be held at a place—
+  - (i) within section 31(1)(a) to (f) of the Railways and Transport Safety Act 2003, and
+  - (ii) on land to which the public has no right of access or only a limited right of access, and
+- (b) the conditions in subsections (4B) and (4C) are met.
+
+(4B) The condition in this subsection is that the assembly is likely—
+
+- (a) to be held without the permission of the occupier of the land, or
+- (b) to conduct itself in such a way as to exceed—
+  - (i) the limits of any permission of the occupier, or
+  - (ii) the limits of the public’s right of access.
+
+(4C) The condition in this subsection is that the assembly may result—
+
+- (a) in serious disruption to the provision of railway services (within the meaning of Part 3 of the Railways and Transport Safety Act 2003),
+- (b) in serious disruption to the life of the community, or
+- (c) where the land, or a building or monument on it, is of historical, architectural, archaeological or scientific importance, in significant damage to the land, building or monument.
+
+(4D) Where this subsection applies, the chief constable of the British Transport Police Force may with the consent of the relevant national authority make an order prohibiting for a specified period the holding of all trespassory assemblies in a specified area.
+
+(4E) An area specified in an order under subsection (4D) must comprise only—
+
+- (a) the place mentioned in subsection (4A)(a), or
+- (b) that place together with any place—
+  - (i) within section 31(1)(a) to (f) of the Railways and Transport Safety Act 2003, or
+  - (ii) where an assembly could affect a railway within the meaning of Part 3 of that Act or anything occurring on or in relation to such a railway.
+
+(4F) In subsection (4D) “**the relevant national authority**” means—
+
+- (a) in relation to an area in England and Wales, the Secretary of State;
+- (b) in relation to an area in Scotland, the Scottish Ministers.
+
+(4G) Subsection (4J) applies if at any time the chief constable of the Ministry of Defence Police reasonably believes that—
+
+- (a) an assembly is intended to be held at a place—
+  - (i) to which section 2(2) of the Ministry of Defence Police Act 1987 applies, and
+  - (ii) on land to which the public has no right of access or only a limited right of access, and
+- (b) the conditions in subsections (4H) and (4I) are met.
+
+(4H) The condition in this subsection is that the assembly is likely—
+
+- (a) to be held without the permission of the occupier of the land, or
+- (b) to conduct itself in such a way as to exceed—
+  - (i) the limits of any permission of the occupier, or
+  - (ii) the limits of the public’s right of access.
+
+(4I) The condition in this subsection is that the assembly may result—
+
+- (a) in serious disruption to the use for a defence purpose of—
+  - (i) a place within section 2(2)(a) to (c) of the Ministry of Defence Police Act 1987,
+  - (ii) a place within section 4(1) of the Atomic Weapons Establishment Act 1991, or
+  - (iii) in relation to a time after the coming into force of section 5 of the Defence Reform Act 2014, a place within subsection (1) of that section,
+- (b) in serious disruption to the life of the community, or
+- (c) where the land, or a building or monument on it, is of historical, architectural, archaeological or scientific importance, in significant damage to the land, building or monument.
+
+(4J) Where this subsection applies, the chief constable of the Ministry of Defence Police may with the consent of the Secretary of State make an order prohibiting for a specified period the holding of all trespassory assemblies in a specified area.
+
+(4K) An area specified in an order under subsection (4J) which is not made in reliance on subsection (4I)(a) must comprise only one or more places to which section 2(2) of the Ministry of Defence Police Act 1987 applies.
+
+(5) An order prohibiting the holding of trespassory assemblies operates to prohibit any assembly which—
+
+- (a) is held on land to which the public has no right of access or only a limited right of access, and
+- (b) takes place in the prohibited circumstances, that is to say, without the permission of the occupier of the land or so as to exceed the limits of any permission of his or the limits of the public’s right of access.
+
+(6) No order under this section shall prohibit the holding of assemblies for a period exceeding 4 days or in an area exceeding an area represented by a circle with a radius of 5 miles from a specified centre.
+
+(7) An order made under this section may be revoked or varied by a subsequent order made in the same way, that is, in accordance with subsection (1) and (2) , subsection (4), subsection (4D) or subsection (4J)[^key-bbb66fea2f4276c39ab45540f4b34f35], as the case may be.
+
+(8) Any order under this section shall, if not made in writing, be recorded in writing as soon as practicable after being made.
+
+(9) In this section and sections 14B and 14C—
+
+- “**assembly**” means an assembly of 20 or more persons;
+- “**land**” , except in subsections (4A) to (4C) of this section,[^key-ab905d311010b0934c37a01b6962eb8d] means land in the open air;
+- “**limited**”, in relation to a right of access by the public to land, means that their use of it is restricted to use for a particular purpose (as in the case of a highway or road) or is subject to other restrictions;
+- “**occupier**” means—
+  - (a) in England and Wales, the person entitled to possession of the land by virtue of an estate or interest held by him; or
+  - (b) in Scotland, the person lawfully entitled to natural possession of the land,
+
+  and in subsections (1) , (4), (4B) and (4H)[^key-5aeaa44dc9fe93f2dd6661da64262dc4] includes the person reasonably believed by the authority applying for or making the order to be the occupier;
+- “**public**” includes a section of the public; and
+- “**specified**” means specified in an order under this section.
+
+(9A)[^c21446651] In relation to Scotland, the references in this section to the public’s rights (or limited right) of access do not include any right which the public or any member of the public may have by way of access rights within the meaning of the Land Reform (Scotland) Act 2003 (asp 2).
+
+(10) In relation to Scotland, the references in subsection (1) above to a district and to the council of the district shall be construed—
+
+- (a) as respects applications before 1st April 1996, as references to the area of a regional or islands authority and to the authority in question; and
+- (b) as respects applications on and after that date, as references to a local government area and to the council for that area.
+
+(11) In relation to Wales, the references in subsection (1) above to a district and to the council of the district shall be construed, as respects applications on and after 1st April 1996, as references to a county or county borough and to the council for that county or county borough.
+
+### 14B. Offences in connection with trespassory assemblies and arrest therefor.[^c13655651]
+
+(1) A person who organises an assembly the holding of which he knows is prohibited by an order under section 14A is guilty of an offence.
+
+(2) A person who takes part in an assembly which he knows is prohibited by an order under section 14A is guilty of an offence.
+
+(3) In England and Wales, a person who incites another to commit an offence under subsection (2) is guilty of an offence.
+
+(4)[^M_F_1fb7d34a-c91a-42ea-9123-e620191fac7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) A person guilty of an offence under subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale or both.
+
+(6) A person guilty of an offence under subsection (2) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(7) A person guilty of an offence under subsection (3) is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale or both [^c21447571]. . . .
+
+(8) Subsection (3) above is without prejudice to the application of any principle of Scots Law as respects art and part guilt to such incitement as is mentioned in that subsection.
+
+### 14C. Stopping persons from proceeding to trespassory assemblies.[^c13655671]
+
+(1) If a constable in uniform reasonably believes that a person is on his way to an assembly within the area to which an order under section 14A applies which the constable reasonably believes is likely to be an assembly which is prohibited by that order, he may, subject to subsection (2) below—
+
+- (a) stop that person, and
+- (b) direct him not to proceed in the direction of the assembly.
+
+(2) The power conferred by subsection (1) may only be exercised within the area to which the order applies.
+
+(3) A person who fails to comply with a direction under subsection (1) which he knows has been given to him is guilty of an offence.
+
+(4)[^key-968b535144acd1ecbe7f1e6768714c14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) A person guilty of an offence under subsection (3) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 15. Delegation.
+
+(1) The chief officer of police may delegate, to such extent and subject to such conditions as he may specify, any of his functions under sections 12 to 14A[^c13655701] to an[^c13655711] assistant chief constable; and references in those sections to the person delegating shall be construed accordingly.
+
+(2)[^key-214e41cdbce499d8bfe86478483d4e41] Subsection (1) has effect—
+
+- (a) in the City of London as if “an assistant chief constable” read “an assistant commissioner of police or a commander”, and
+- (b) in the metropolitan police district as if “an assistant chief constable” read “an assistant commissioner of police, a deputy assistant commissioner of police or a commander”.
+
+(3)[^key-1cb594f040c1ff6edc4499d919b6b465] The chief constable of the British Transport Police Force may delegate, to such extent and subject to such conditions as the chief constable may specify, any of the chief constable’s functions under sections 14 to 14A to an assistant chief constable of that Force; and references in those sections to the person delegating shall be construed accordingly.
+
+(4) The chief constable of the Ministry of Defence Police may delegate, to such extent and subject to such conditions as the chief constable may specify, any of the chief constable’s functions under sections 14 to 14A to a deputy chief constable or assistant chief constable of that force; and references in those sections to the person delegating shall be construed accordingly.
+
+### 16. Interpretation.
+
+In this Part—
+
+- “**the City of London**” means the City as defined for the purposes of the Acts relating to the City of London police;
+- “**the metropolitan police district**” means that district as defined in section 76 of the [^c13655731]London Government Act 1963;
+- “**public assembly**” means an assembly of 20[^c21445891] 2 or more persons in a public place which is —[^key-e4165d8c42acce0a35ad70c91d5a8712]
+  - (a) wholly or partly open to the air, or
+  - (b) within any of paragraphs (a) to (f) of section 31(1) of the Railways and Transport Safety Act 2003;
+- “**public place**” means—
+  - (a) any highway, or in Scotland any road within the meaning of the [^c13655741]Roads (Scotland) Act 1984, and
+  - (b) any place to which at the material time the public or any section of the public has access, on payment or otherwise, as of right or by virtue of express or implied permission;
+- “**public procession**” means a procession in a public place.
+
+## Part III — Racial Hatred
+
+*Extent: E+W+S*
+
+### Meaning of “racial hatred”
+
+#### 17. Meaning of “racial hatred”.
+
+In this Part “**racial hatred**” means hatred against a group of persons [^c13655751]. . . defined by reference to colour, race, nationality (including citizenship) or ethnic or national origins.
+
+### Acts intended or likely to stir up racial hatred
+
+#### 18 (Extent: S) (affected by repeal, see note). Use of words or behaviour or display of written material.[^key-a800a341a95e15051ff931ed7ed99357]
+
+(1 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] A person who uses threatening, abusive or insulting words or behaviour, or displays any written material which is threatening, abusive or insulting, is guilty of an offence if— *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+- (a (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] he intends thereby to stir up racial hatred, or *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+- (b (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] having regard to all the circumstances racial hatred is likely to be stirred up thereby. *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+(2 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] An offence under this section may be committed in a public or a private place, except that no offence is committed where the words or behaviour are used, or the written material is displayed, by a person inside a dwelling and are not heard or seen except by other persons in that or another dwelling. *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+(3 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] [^c21446841]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+(4 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] In proceedings for an offence under this section it is a defence for the accused to prove that he was inside a dwelling and had no reason to believe that the words or behaviour used, or the written material displayed, would be heard or seen by a person outside that or any other dwelling. *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+(5 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] A person who is not shown to have intended to stir up racial hatred is not guilty of an offence under this section if he did not intend his words or behaviour, or the written material, to be, and was not aware that it might be, threatening, abusive or insulting. *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+(6 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] This section does not apply to words or behaviour used, or written material displayed, solely for the purpose of being included in a programme *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357] included in a programme service[^c13655761] *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]. *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+#### 19 (Extent: S) (affected by repeal, see note). Publishing or distributing written material.[^key-a800a341a95e15051ff931ed7ed99357]
+
+(1 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] A person who publishes or distributes written material which is threatening, abusive or insulting is guilty of an offence if— *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+- (a (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] he intends thereby to stir up racial hatred, or *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+- (b (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] having regard to all the circumstances racial hatred is likely to be stirred up thereby. *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+(2 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] In proceedings for an offence under this section it is a defence for an accused who is not shown to have intended to stir up racial hatred to prove that he was not aware of the content of the material and did not suspect, and had no reason to suspect, that it was threatening, abusive or insulting. *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+(3 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] References in this Part to the publication or distribution of written material are to its publication or distribution to the public or a section of the public. *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+#### 20 (Extent: S) (affected by repeal, see note). Public performance of play.[^key-a800a341a95e15051ff931ed7ed99357]
+
+(1 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] If a public performance of a play is given which involves the use of threatening, abusive or insulting words or behaviour, any person who presents or directs the performance is guilty of an offence if— *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+- (a (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] he intends thereby to stir up racial hatred, or *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+- (b (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] having regard to all the circumstances (and, in particular, taking the performance as a whole) racial hatred is likely to be stirred up thereby. *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+(2 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] If a person presenting or directing the performance is not shown to have intended to stir up racial hatred, it is a defence for him to prove— *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+- (a (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] that he did not know and had no reason to suspect that the performance would involve the use of the offending words or behaviour, or *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+- (b (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] that he did not know and had no reason to suspect that the offending words or behaviour were threatening, abusive or insulting, or *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+- (c (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] that he did not know and had no reason to suspect that the circumstances in which the performance would be given would be such that racial hatred would be likely to be stirred up. *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+(3 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] This section does not apply to a performance given solely or primarily for one or more of the following purposes— *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+- (a (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] rehearsal, *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+- (b (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] making a recording of the performance, or *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+- (c (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] enabling the performance to be *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357] included in a programme service[^c13655771] *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]; *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+but if it is proved that the performance was attended by persons other than those directly connected with the giving of the performance or the doing in relation to it of the things mentioned in paragraph (b) or (c), the performance shall, unless the contrary is shown, be taken not to have been given solely or primarily for the purposes mentioned above. *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+(4 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] For the purposes of this section— *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+- (a (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] a person shall not be treated as presenting a performance of a play by reason only of his taking part in it as a performer, *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+- (b (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] a person taking part as a performer in a performance directed by another shall be treated as a person who directed the performance if without reasonable excuse he performs otherwise than in accordance with that person’s direction, and *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+- (c (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] a person shall be taken to have directed a performance of a play given under his direction notwithstanding that he was not present during the performance; *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+and a person shall not be treated as aiding or abetting the commission of an offence under this section by reason only of his taking part in a performance as a performer. *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+(5 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] In this section “ *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]**play *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]**” and “ *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]**public performance *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]**” have the same meaning as in the *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357] [^c13655781]Theatres Act 1968. *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+(6 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] The following provisions of the Theatres Act 1968 apply in relation to an offence under this section as they apply to an offence under section 2 of that Act— *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+- section 9 (script as evidence of what was performed), *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+- section 10 (power to make copies of script), *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+- section 15 (powers of entry and inspection). *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+#### 21 (Extent: S) (affected by repeal, see note). Distributing, showing or playing a recording.[^key-a800a341a95e15051ff931ed7ed99357]
+
+(1 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] A person who distributes, or shows or plays, a recording of visual images or sounds which are threatening, abusive or insulting is guilty of an offence if— *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+- (a (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] he intends thereby to stir up racial hatred, or *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+- (b (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] having regard to all the circumstances racial hatred is likely to be stirred up thereby. *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+(2 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] In this Part “ *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]**recording *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]**” means any record from which visual images or sounds may, by any means, be reproduced; and references to the distribution, showing or playing of a recording are to its distribution, showing or playing of a recording are to its distribution, showing or playing to the public or a section of the public. *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+(3 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] In proceedings for an offence under this section it is a defence for an accused who is not shown to have intended to stir up racial hatred to prove that he was not aware of the content of the recording and did not suspect, and had no reason to suspect, that it was threatening, abusive or insulting. *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+(4 (Extent: S) (affected by repeal, see note))[^key-a800a341a95e15051ff931ed7ed99357] This section does not apply to the showing or playing of a recording solely for the purpose of enabling the recording to be *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357] included in a programme service[^c13655791] *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]. *(Extent: S)* *(affected by repeal, see note)*[^key-a800a341a95e15051ff931ed7ed99357]
+
+#### 22. Broadcasting or including programme in cable programme service.
+
+(1) If a programme involving threatening, abusive or insulting visual images or sounds is included in a programme service[^c13655801], each of the persons mentioned in subsection (2) is guilty of an offence if—
+
+- (a) he intends thereby to stir up racial hatred, or
+- (b) having regard to all the circumstances racial hatred is likely to be stirred up thereby.
+
+(2) The persons are—
+
+- (a) the person providing the . . . [^c13655811] programme service,
+- (b) any person by whom the programme is produced or directed, and
+- (c) any person by whom offending words or behaviour are used.
+
+(3) If the person providing the service, or a person by whom the programme was produced or directed, is not shown to have intended to stir up racial hatred, it is a defence for him to prove that—
+
+- (a) he did not know and had no reason to suspect that the programme would involve the offending material, and
+- (b) having regard to the circumstances in which the programme was included in a programme service[^c13655821], it was not reasonably practicable for him to secure the removal of the material.
+
+(4) It is a defence for a person by whom the programme was produced or directed who is not shown to have intended to stir up racial hatred to prove that he did not know and had no reason to suspect—
+
+- (a) that the programme would be included in a programme service, or
+- (b) that the circumstances in which the programme would be . . . [^c13655841]so included would be such that racial hatred would be likely to be stirred up.
+
+(5) It is a defence for a person by whom offending words or behaviour were used and who is not shown to have intended to stir up racial hatred to prove that he did not know and had no reason to suspect—
+
+- (a) that a programme involving the use of the offending material would be included in a programme service, or
+- (b) that the circumstances in which a programme involving the use of the offending material would be . . . [^c13655841] so included, or in which a programme . . . [^c13655841] so included would involve the use of the offending material, would be such that racial hatred would be likely to be stirred up.
+
+(6) A person who is not shown to have intended to stir up racial hatred is not guilty of an offence under this section if he did not know, and had no reason to suspect, that the offending material was threatening, abusive or insulting.
+
+(7),(8) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13655881]
+
+### Racially inflammatory material
+
+#### 23. Possession of racially inflammatory material.
+
+(1) A person who has in his possession written material which is threatening, abusive or insulting, or a recording of visual images or sounds which are threatening, abusive or insulting, with a view to—
+
+- (a) in the case of written material, its being displayed, published, distributed, *(Extent: S)* *(affected by repeal, see note)*[^key-20dbb7f0ba78bd671ff47824fab658c1] or[^c13655891] *(Extent: S)* *(affected by repeal, see note)*[^key-20dbb7f0ba78bd671ff47824fab658c1] included in a cable programme service, whether by himself or another, or
+- (b) in the case of a recording, its being distributed, shown, played, *(Extent: S)* *(affected by repeal, see note)*[^key-d73b6966d4596099190269085a2568cc] or *(Extent: S)* *(affected by repeal, see note)*[^key-d73b6966d4596099190269085a2568cc] included in a cable programme service, whether by himself or another,
+
+is guilty of an offence if he intends racial hatred to be stirred up thereby or, having regard to all the circumstances, racial hatred is likely to be stirred up thereby.
+
+(2) For this purpose regard shall be had to such display, publication, distribution, showing, playing, *(Extent: S)* *(affected by repeal, see note)*[^key-ac7e1bad8826e17ecb1b0282c6c0a662] or[^c13655911] *(Extent: S)* *(affected by repeal, see note)*[^key-ac7e1bad8826e17ecb1b0282c6c0a662] inclusion in a programme service as he has, or it may reasonably be inferred that he has, in view.
+
+(3) In proceedings for an offence under this section it is a defence for an accused who is not shown to have intended to stir up racial hatred to prove that he was not aware of the content of the written material or recording and did not suspect, and had no reason to suspect, that it was threatening, abusive or insulting.
+
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13655921]
+
+#### 24. Powers of entry and search.
+
+(1) If in England and Wales a justice of the peace is satisfied by information on oath laid by a constable that there are reasonable grounds for suspecting that a person has possession of written material or a recording in contravention of section 23, the justice may issue a warrant under his hand authorising any constable to enter and search the premises where it is suspected the material or recording is situated.
+
+(2) If in Scotland a sheriff or justice of the peace is satisfied by evidence on oath that there are reasonable grounds for suspecting that a person has possession of written material or a recording in contravention of section 23, the sheriff or justice may issue a warrant authorising any constable to enter and search the premises where it is suspected the material or recording is situated.
+
+(3) A constable entering or searching premises in pursuance of a warrant issued under this section may use reasonable force if necessary.
+
+(4) In this section “**premises**” means any place and, in particular, includes—
+
+- (a) any vehicle, vessel, aircraft or hovercraft,
+- (b) any offshore installation as defined in section 1(3) (b) of the [^c13655931]Mineral Workings (Offshore Installations) Act 1971, and
+- (c) any tent or movable structure.
+
+#### 25. Power to order forfeiture.
+
+(1) A court by or before which a person is convicted of—
+
+- (a (Extent: S) (affected by repeal, see note))[^key-cae9897f5236335b38fcc50d562dc54a] an offence under section 18 relating to the display of written material, or *(Extent: S)* *(affected by repeal, see note)*[^key-cae9897f5236335b38fcc50d562dc54a]
+- (b (Extent: S) (affected by repeal, see note))[^key-cae9897f5236335b38fcc50d562dc54a] an offence under section 19, 21 or 23, *(Extent: S)* *(affected by repeal, see note)*[^key-cae9897f5236335b38fcc50d562dc54a]
+
+an offence under section 23 *(Extent: S)*
+
+shall order to be forfeited any written material or recording produced to the court and shown to its satisfaction to be written material or a recording to which the offence relates.
+
+(2) An order made under this section shall not take effect—
+
+- (a) in the case of an order made in proceedings in England and Wales, until the expiry of the ordinary time within which an appeal may be instituted or, where an appeal is duly instituted, until it is finally decided or abandoned;
+- (b) in the case of an order made in proceedings in Scotland, until the expiration of the time within which, by virtue of any statute, an appeal may be instituted or, where such an appeal is duly instituted, until the appeal is finally decided or abandoned.
+
+(3) For the purposes of subsection (2)(a)—
+
+- (a) an application for a case stated or for leave to appeal shall be treated as the institution of an appeal, and
+- (b) where a decision on appeal is subject to a further appeal, the appeal is not finally determined until the expiry of the ordinary time within which a further appeal may be instituted or, where a further appeal is duly instituted, until the further appeal is finally decided or abandoned.
+
+(4) For the purposes of subsection (2)(b) the lodging of an application for a stated case or note of appeal against sentence shall be treated as the institution of an appeal.
+
+### Supplementary provisions
+
+#### 26. Savings for reports of parliamentary or judicial proceedings.
+
+(1) Nothing in this Part applies to a fair and accurate report of proceedings in Parliament or in the Scottish Parliament[^c13655941] or in the National Assembly for Wales[^c21446951].
+
+(2) Nothing in this Part applies to a fair and accurate report of proceedings publicly heard before a court or tribunal exercising judicial authority where the report is published contemporaneously with the proceedings or, if it is not reasonably practicable or would be unlawful to publish a report of them contemporaneously, as soon as publication is reasonably practicable and lawful.
+
+#### 27. Procedure and punishment.
+
+(1) No proceedings for an offence under this Part may be instituted in England and Wales except by or with the consent of the Attorney General.
+
+(2) For the purposes of the rules in England and Wales against charging more than one offence in the same count or information, each of sections 18 to 23 creates one offence.
+
+(3) A person guilty of an offence under this Part is liable—
+
+- (a) on conviction on indictment to imprisonment for a term not exceeding seven years[^c13655951] or a fine or both;
+- (b) on summary conviction to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both.
+
+#### 28. Offences by corporations.
+
+(1) Where a body corporate is guilty of an offence under this Part and it is shown that the offence was committed with the consent or connivance of a director, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity, he as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with his functions of management as it applies to a director.
+
+#### 29. Interpretation.
+
+In this Part—
+
+- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13655961]
+- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13655961]
+- “distribute”, and related expressions, shall be construed in accordance with section 19(3) (written material) and section 21(2) (recordings); *(Extent: S)* *(affected by repeal, see note)*[^key-d0d3b0195b6fc3273726b265f4a677c1]
+- “ *(Extent: S)* *(affected by repeal, see note)*[^key-d0d3b0195b6fc3273726b265f4a677c1]**dwelling *(Extent: S)* *(affected by repeal, see note)*[^key-d0d3b0195b6fc3273726b265f4a677c1]**” means any structure or part of a structure occupied as a person’s home or other living accommodation (whether the occupation is separate or shared with others) but does not include any part not so occupied, and for this purpose “ *(Extent: S)* *(affected by repeal, see note)*[^key-d0d3b0195b6fc3273726b265f4a677c1]**structure *(Extent: S)* *(affected by repeal, see note)*[^key-d0d3b0195b6fc3273726b265f4a677c1]**” includes a tent, caravan, vehicle, vessel or other temporary or movable structure; *(Extent: S)* *(affected by repeal, see note)*[^key-d0d3b0195b6fc3273726b265f4a677c1]
+- “**programme**” means any item which is included in a programme service[^c13655981];
+- “[^c13655991]**programme service**” has the same meaning as in the Broadcasting Act 1990;
+- “ *(Extent: S)* *(affected by repeal, see note)*[^key-d0d3b0195b6fc3273726b265f4a677c1]**publish *(Extent: S)* *(affected by repeal, see note)*[^key-d0d3b0195b6fc3273726b265f4a677c1]**”, and related expressions, in relation to written material, shall be construed in accordance with section 19 (3); *(Extent: S)* *(affected by repeal, see note)*[^key-d0d3b0195b6fc3273726b265f4a677c1]
+- “**racial hatred**” has the meaning given by section 17;
+- “ *(Extent: S)* *(affected by repeal, see note)*[^key-c088c3d1762aa761ac1f11e19d56584e]**recording *(Extent: S)* *(affected by repeal, see note)*[^key-c088c3d1762aa761ac1f11e19d56584e]**” has the meaning given by section 21(2), and “ *(Extent: S)* *(affected by repeal, see note)*[^key-c088c3d1762aa761ac1f11e19d56584e]**play *(Extent: S)* *(affected by repeal, see note)*[^key-c088c3d1762aa761ac1f11e19d56584e]**” and “ *(Extent: S)* *(affected by repeal, see note)*[^key-c088c3d1762aa761ac1f11e19d56584e]**show *(Extent: S)* *(affected by repeal, see note)*[^key-c088c3d1762aa761ac1f11e19d56584e]**”, and related expressions, in relation to a recording, shall be construed in accordance with that provision; *(Extent: S)* *(affected by repeal, see note)*[^key-c088c3d1762aa761ac1f11e19d56584e] “ *(Extent: S)***recording *(Extent: S)***” means any record from which visual images or sounds may, by any means, be reproduced; *(Extent: S)*
+- “**written material**” includes any sign or other visible representation.
+
+## Part 3A — Hatred against persons on religious grounds or grounds of sexual orientation[^c21446971][^c21447711]
+
+*Extent: E+W*
+
+### Meaning of “religious hatred” and “hatred on the grounds of sexual orientation”[^c21447731]
+
+#### 29A. Meaning of “religious hatred”
+
+In this Part “**religious hatred**” means hatred against a group of persons defined by reference to religious belief or lack of religious belief.
+
+#### 29AB. Meaning of “hatred on the grounds of sexual orientation”[^c21447751]
+
+In this Part “**hatred on the grounds of sexual orientation**” means hatred against a group of persons defined by reference to sexual orientation (whether towards persons of the same sex, the opposite sex or both).
+
+### Acts intended to stir up religious hatred or hatred on the grounds of sexual orientation[^c21447771]
+
+#### 29B. Use of words or behaviour or display of written material
+
+(1) A person who uses threatening words or behaviour, or displays any written material which is threatening, is guilty of an offence if he intends thereby to stir up religious hatred or hatred on the grounds of sexual orientation[^c21447791].
+
+(2) An offence under this section may be committed in a public or a private place, except that no offence is committed where the words or behaviour are used, or the written material is displayed, by a person inside a dwelling and are not heard or seen except by other persons in that or another dwelling.
+
+(3) [^c21447111]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In proceedings for an offence under this section it is a defence for the accused to prove that he was inside a dwelling and had no reason to believe that the words or behaviour used, or the written material displayed, would be heard or seen by a person outside that or any other dwelling.
+
+(5) This section does not apply to words or behaviour used, or written material displayed, solely for the purpose of being included in a programme service.
+
+#### 29C. Publishing or distributing written material
+
+(1) A person who publishes or distributes written material which is threatening is guilty of an offence if he intends thereby to stir up religious hatred or hatred on the grounds of sexual orientation[^c21447811].
+
+(2) References in this Part to the publication or distribution of written material are to its publication or distribution to the public or a section of the public.
+
+#### 29D. Public performance of play
+
+(1) If a public performance of a play is given which involves the use of threatening words or behaviour, any person who presents or directs the performance is guilty of an offence if he intends thereby to stir up religious hatred or hatred on the grounds of sexual orientation[^c21447851].
+
+(2) This section does not apply to a performance given solely or primarily for one or more of the following purposes—
+
+- (a) rehearsal,
+- (b) making a recording of the performance, or
+- (c) enabling the performance to be included in a programme service;
+
+but if it is proved that the performance was attended by persons other than those directly connected with the giving of the performance or the doing in relation to it of the things mentioned in paragraph (b) or (c), the performance shall, unless the contrary is shown, be taken not to have been given solely or primarily for the purpose mentioned above.
+
+(3) For the purposes of this section—
+
+- (a) a person shall not be treated as presenting a performance of a play by reason only of his taking part in it as a performer,
+- (b) a person taking part as a performer in a performance directed by another shall be treated as a person who directed the performance if without reasonable excuse he performs otherwise than in accordance with that person's direction, and
+- (c) a person shall be taken to have directed a performance of a play given under his direction notwithstanding that he was not present during the performance;
+
+and a person shall not be treated as aiding or abetting the commission of an offence under this section by reason only of his taking part in a performance as a performer.
+
+(4) In this section “**play**” and “**public performance**” have the same meaning as in the Theatres Act 1968.
+
+(5) The following provisions of the Theatres Act 1968 apply in relation to an offence under this section as they apply to an offence under section 2 of that Act—
+
+- section 9 (script as evidence of what was performed),
+- section 10 (power to make copies of script),
+- section 15 (powers of entry and inspection).
+
+#### 29E. Distributing, showing or playing a recording
+
+(1) A person who distributes, or shows or plays, a recording of visual images or sounds which are threatening is guilty of an offence if he intends thereby to stir up religious hatred or hatred on the grounds of sexual orientation[^c21448191].
+
+(2) In this Part “**recording**” means any record from which visual images or sounds may, by any means, be reproduced; and references to the distribution, showing or playing of a recording are to its distribution, showing or playing to the public or a section of the public.
+
+(3) This section does not apply to the showing or playing of a recording solely for the purpose of enabling the recording to be included in a programme service.
+
+#### 29F. Broadcasting or including programme in programme service
+
+(1) If a programme involving threatening visual images or sounds is included in a programme service, each of the persons mentioned in subsection (2) is guilty of an offence if he intends thereby to stir up religious hatred or hatred on the grounds of sexual orientation[^c21448321].
+
+(2) The persons are—
+
+- (a) the person providing the programme service,
+- (b) any person by whom the programme is produced or directed, and
+- (c) any person by whom offending words or behaviour are used.
+
+### Inflammatory material
+
+#### 29G. Possession of inflammatory material
+
+(1) A person who has in his possession written material which is threatening, or a recording of visual images or sounds which are threatening, with a view to—
+
+- (a) in the case of written material, its being displayed, published, distributed, or included in a programme service whether by himself or another, or
+- (b) in the case of a recording, its being distributed, shown, played, or included in a programme service, whether by himself or another,
+
+is guilty of an offence if he intends thereby to stir up religious hatred or hatred on the grounds of sexual orientation[^c21448361].
+
+(2) For this purpose regard shall be had to such display, publication, distribution, showing, playing, or inclusion in a programme service as he has, or it may reasonably be inferred that he has, in view.
+
+#### 29H. Powers of entry and search
+
+(1) If [^c21447121]. . . a justice of the peace is satisfied by information on oath laid by a constable that there are reasonable grounds for suspecting that a person has possession of written material or a recording in contravention of section 29G, the justice may issue a warrant under his hand authorising any constable to enter and search the premises where it is suspected the material or recording is situated.
+
+(2) [^c21447131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A constable entering or searching premises in pursuance of a warrant issued under this section may use reasonable force if necessary.
+
+(4) In this section “**premises**” means any place and, in particular, includes—
+
+- (a) any vehicle, vessel, aircraft or hovercraft,
+- (b) any offshore installation as defined in section 12 of the Mineral Workings (Offshore Installations) Act 1971, and
+- (c) any tent or movable structure.
+
+#### 29I. Power to order forfeiture
+
+(1) A court by or before which a person is convicted of—
+
+- (a) an offence under section 29B relating to the display of written material, or
+- (b) an offence under section 29C, 29E or 29G,
+
+shall order to be forfeited any written material or recording produced to the court and shown to its satisfaction to be written material or a recording to which the offence relates.
+
+(2) An order made under this section shall not take effect—
+
+- (a) [^c21447141]. . . until the expiry of the ordinary time within which an appeal may be instituted or, where an appeal is duly instituted, until it is finally decided or abandoned;
+- (b) [^c21447151]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) For the purposes of subsection (2)(a)—
+
+- (a) an application for a case stated or for leave to appeal shall be treated as the institution of an appeal, and
+- (b) where a decision on appeal is subject to a further appeal, the appeal is not finally determined until the expiry of the ordinary time within which a further appeal may be instituted or, where a further appeal is duly instituted, until the further appeal is finally decided or abandoned.
+
+(4) [^c21447161]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 29J. Protection of freedom of expression
+
+Nothing in this Part shall be read or given effect in a way which prohibits or restricts discussion, criticism or expressions of antipathy, dislike, ridicule, insult or abuse of particular religions or the beliefs or practices of their adherents, or of any other belief system or the beliefs or practices of its adherents, or proselytising or urging adherents of a different religion or belief system to cease practising their religion or belief system.
+
+#### 29JA. Protection of freedom of expression (sexual orientation)[^c21447171]
+
+(1)[^key-6b2ba75dd872519303312d8a64759742] In this Part, for the avoidance of doubt, the discussion or criticism of sexual conduct or practices or the urging of persons to refrain from or modify such conduct or practices shall not be taken of itself to be threatening or intended to stir up hatred.
+
+(2)[^key-2686807b3eaaa8aa16c54c2c0c74a46d] In this Part, for the avoidance of doubt, any discussion or criticism of marriage which concerns the sex of the parties to marriage shall not be taken of itself to be threatening or intended to stir up hatred.
+
+### Supplementary provisions
+
+#### 29K. Savings for reports of parliamentary or judicial proceedings
+
+(1) Nothing in this Part applies to a fair and accurate report of proceedings in Parliament , in the Scottish Parliament or in the National Assembly for Wales[^c21447191].
+
+(2) Nothing in this Part applies to a fair and accurate report of proceedings publicly heard before a court or tribunal exercising judicial authority where the report is published contemporaneously with the proceedings or, if it is not reasonably practicable or would be unlawful to publish a report of them contemporaneously, as soon as publication is reasonably practicable and lawful.
+
+#### 29L. Procedure and punishment
+
+(1) No proceedings for an offence under this Part may be instituted [^c21447271]... except by or with the consent of the Attorney General.
+
+(2) For the purposes of the rules [^c21447271]... against charging more than one offence in the same count or information, each of sections 29B to 29G creates one offence.
+
+(3) A person guilty of an offence under this Part is liable—
+
+- (a) on conviction on indictment to imprisonment for a term not exceeding seven years or a fine or both;
+- (b) on summary conviction to imprisonment for a term not exceeding 12 months[^c21447291] or a fine not exceeding the statutory maximum or both.
+
+(4)[^c21447341] In subsection (3)(b) the reference to 12 months shall be read as a reference to 6 months in relation to an offence committed before 2 May 2022[^key-c582eb5b76cc66b443de7d222cab6351].
+
+#### 29M. Offences by corporations
+
+(1) Where a body corporate is guilty of an offence under this Part and it is shown that the offence was committed with the consent or connivance of a director, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity, he as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with his functions of management as it applies to a director.
+
+#### 29N. Interpretation
+
+In this Part—
+
+- “**distribute**”, and related expressions, shall be construed in accordance with section 29C(2) (written material) and section 29E(2) (recordings);
+- “**dwelling**” means any structure or part of a structure occupied as a person's home or other living accommodation (whether the occupation is separate or shared with others) but does not include any part not so occupied, and for this purpose “**structure**” includes a tent, caravan, vehicle, vessel or other temporary or movable structure;
+- “[^c21448401]**hatred on the grounds of sexual orientation**” has the meaning given by section 29AB;
+- “**programme**” means any item which is included in a programme service;
+- “**programme service**” has the same meaning as in the Broadcasting Act 1990;
+- “**publish**”, and related expressions, in relation to written material, shall be construed in accordance with section 29C(2);
+- “**religious hatred**” has the meaning given by section 29A;
+- “**recording**” has the meaning given by section 29E(2), and “**play**” and “**show**”, and related expressions, in relation to a recording, shall be construed in accordance with that provision;
+- “**written material**” includes any sign or other visible representation.
+
+## Part IV
+
+*Extent: E+W*
+
+### 30–37. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c13656001]
+
+## Part V — Miscellaneous and General
+
+### 38. Contamination of or interference with goods with intention of causing public alarm or anxiety, etc.
+
+*Extent: E+W+N.I.*
+
+(1) It is an offence for a person, with the intention—
+
+- (a) of causing public alarm or anxiety, or
+- (b) of causing injury to members of the public consuming or using the goods, or
+- (c) of causing economic loss to any person by reason of the goods being shunned by members of the public, or
+- (d) of causing economic loss to any person by reason of steps taken to avoid any such alarm or anxiety, injury or loss,
+
+to contaminate or interfere with goods, or make it appear that goods have been contaminated or interfered with, or to place goods which have been contaminated or interfered with, or which appear to have been contaminated or interfered with, in a place where goods of that description are consumed, used, sold or otherwise supplied.
+
+(2) It is also an offence for a person, with any such intention as is mentioned in paragraph (a), (c)*or* (d) of subsection (1), to threaten that he or another will do, or to claim that he or another has done, any of the acts mentioned in that subsection.
+
+(3) It is an offence for a person to be in possession of any of the following articles with a view to the commission of an offence under subsection (1)—
+
+- (a) materials to be used for contaminating or interfering with goods or making it appear that goods have been contaminated or interfered with, or
+- (b) goods which have been contaminated or interfered with, or which appear to have been contaminated or interfered with.
+
+(4) A person guilty of an offence under this section is liable—
+
+- (a) on conviction on indictment to imprisonment for a term not exceeding 10 years or a fine or both, or
+- (b) on summary conviction to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both.
+
+(5) In this section “**goods**” includes substances whether natural or manufactured and whether or not incorporated in or mixed with other goods.
+
+(6) The reference in subsection (2) to a person claiming that certain acts have been committed does not include a person who in good faith reports or warns that such acts have been, or appear to have been, committed.
+
+### 39. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c13656051]
+
+*Extent: E+W+S*
+
+### 40. Amendments, repeals and savings.
+
+*Extent: E+W+S*
+
+(1) Schedule 1, which amends the [^c13656061]Sporting Events (Control of Alcohol etc.) Act 1985 and Part V of the [^c13656071]Criminal Justice (Scotland) Act 1980, shall have effect.
+
+(2) Schedule 2, which contains miscellaneous and consequential amendments, shall have effect.
+
+(3) The enactments mentioned in Schedule 3 (which include enactments related to the subject matter of this Act but already obsolete or unnecessary) are repealed to the extent specified in column 3.
+
+(4) Nothing in this Act affects the common law powers in England and Wales to deal with or prevent a breach of the peace.
+
+(5) As respects Scotland, nothing in this Act affects any power of a constable under any rule of law.
+
+### 41. Commencement.[^c13656081]
+
+*Extent: E+W+N.I.*
+
+(1) This Act shall come into force on such day as the Secretary of State may appoint by order made by statutory instrument, and different days may be appointed for different provisions or different purposes.
+
+(2) Nothing in a provision of this Act applies in relation to an offence committed or act done before the provision comes into force.
+
+(3) Where a provision of this Act comes into force for certain purposes only, the references in subsection (2) to the provision are references to it so far as it relates to those purposes.
+
+### 42. Extent
+
+(1) The provisions of this Act extend to England and Wales except so far as they—
+
+- (a) amend or repeal an enactment which does not so extend, or
+- (b) relate to the extent of provisions to Scotland or Northern Ireland.
+
+(2) The following provisions of this Act extend to Scotland—
+
+- in Part I, section 9(2) except paragraph (a);
+- in Part II, sections 12 and 14 to 16;
+- Part III;
+- Part V, except sections 38, [^c13656101]. . ., 40(4), subsections (1) and (3) of this section and any provision amending or repealing an enactment which does not extend to Scotland.
+
+(3) The following provisions of this Act extend to Northern Ireland—
+
+sections 38, 41, this subsection, and section 43[^c13656111].
+
+### 43. Short title.
+
+*Extent: E+W+N.I.*
+
+This Act may be cited as the Public Order Act 1986.
+
+SCHEDULES
+
+## SCHEDULE 1 — Sporting Events
+
+Section 40 (1).
+
+### Part I — England and Wales
+
+#### Introduction
+
+**1.** The [^c13656121]Sporting Events (Control of Alcohol etc.) Act 1985 shall be amended as mentioned in this Part.
+
+#### Vehicles
+
+**2.** The following shall be inserted after section 1 (offences in connection with alcohol on coaches and trains)—
+
+> **1A. Alcohol on certain other vehicles.**
+>
+> (1) This section applies to a motor vehicle which—
+>
+> - (a) is not a public service vehicle but is adapted to carry more than 8 passengers, and
+> - (b) is being used for the principal purpose of carrying two or more passengers for the whole or part of a journey to or from a designated sporting event.
+>
+> (2) A person who knowingly causes or permits intoxicating liquor to be carried on a motor vehicle to which this section applies is guilty of an offence—
+>
+> - (a) if he is its driver, or
+> - (b) if he is not its driver but is its keeper, the servant or agent of its keeper, a person to whom it is made available (by hire, loan or otherwise) by its keeper or the keeper’s servant or agent, or the servant or agent of a person to whom it is so made available.
+>
+> (3) A person who has intoxicating liquor in his possession while on a motor vehicle to which this section applies is guilty of an offence.
+>
+> (4) A person who is drunk on a motor vehicle to which this section applies is guilty of an offence.
+>
+> (5) In this section—
+>
+> - “**keeper**”, in relation to a vehicle, means the person having the duty to take out a licence for it under section 1(1) of the Vehicles (Excise) Act 1971,
+> - “**motor vehicle**” means a mechanically propelled vehicle intended or adapted for use on roads, and
+> - “**public service vehicle**” has the same meaning as in the Public Passenger Vehicles Act 1981.
+
+.
+
+#### Fireworks etc.
+
+**3.** The following shall be inserted after section 2 (offences in connection with alcohol, containers etc. at sports grounds)—
+
+> **2A. Fireworks etc.**
+>
+> (1) A person is guilty of an offence if he has an article or substance to which this section applies in his possession—
+>
+> - (a) at any time during the period of a designated sporting event when he is in any area of a designated sports ground from which the event may be directly viewed, or
+> - (b) while entering or trying to enter a designated sports ground at any time during the period of a designated sporting event at the ground.
+>
+> (2) It is a defence for the accused to prove that he had possession with lawful authority.
+>
+> (3) This section applies to any article or substance whose main purpose is the emission of a flare for purposes of illuminating or signalling (as opposed to igniting or heating) or the emission of smoke or a visible gas; and in particular it applies to distress flares, fog signals, and pellets and capsules intended to be used as fumigators or for testing pipes, but not to matches, cigarette lighters or heaters.
+>
+> (4) This section also applies to any article which is a firework.
+
+.
+
+#### Licensing etc.
+
+**4.** [^c21446691]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Supplementary
+
+**5.** [^c21446701]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.** In section 7(3) (power to stop and search vehicles), after “public service vehicle (within the meaning of section 1 of this Act)” insert “or a motor vehicle to which section 1A of this Act applies”.
+
+**7.** (1) Section 8 (penalties) shall be amended as follows.
+
+(2) In paragraph (a) after “1(2)” there shall be inserted “or 1A(2)”.
+
+(3) In paragraph (b) after “1(3)” there shall be inserted “, 1A(3)”, after “2(1)” there shall be inserted “, 2A(1)” and after “3(10)” there shall be inserted “, 5B(2), 5C(3), 5D(2)”.
+
+(4) In paragraph (c) after “1(4)” there shall be inserted “, 1A(4)”.
+
+(5) [^c21446711]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Minor amendment
+
+**8.** [^c21446721]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part II — Scotland
+
+#### Introduction
+
+**9.** Part V of the [^c13656131]Criminal Justice (Scotland) Act 1980 (sporting events: control of alcohol etc.) shall be amended as mentioned in this Part.
+
+#### Vehicles
+
+**10.** After section 70 there shall be inserted the following—
+
+> **70A. Alcohol on certain other vehicles.**
+>
+> (1) This section applies to a motor vehicle which is not a public service vehicle but is adapted to carry more than 8 passengers and is being operated for the principal purpose of conveying two or more passengers for the whole or part of a journey to or from a designated sporting event.
+>
+> (2) Any person in possession of alcohol on a vehicle to which this section applies shall be guilty of an offence and liable on summary conviction to imprisonment for a period not exceeding 60 days or a fine not exceeding level 3 on the standard scale or both.
+>
+> (3) Any person who is drunk on a vehicle to which this section applies shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+>
+> (4) Any person who permits alcohol to be carried on a vehicle to which this section applies and—
+>
+> - (a) is the driver of the vehicle, or
+> - (b) where he is not its driver, is the keeper of the vehicle, the employee or agent of the keeper, a person to whom it is made available (by hire, loan or otherwise) by the keeper or the keeper’s employee or agent, or the employee or agent of a person to whom it is so made available,
+>
+> shall, subject to section 71 of this Act, be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+.
+
+**11.** In section 71 (defences in connection with carriage of alcohol) for “or 70” there shall be substituted “, 70 or 70A(4)”.
+
+**12.** In section 75 (police powers of enforcement) for “or 70” there shall be substituted “, 70 or 70A”.
+
+**13.** In section 77 (interpretation of Part V)—
+
+- (a) the following definitions shall be inserted in the appropriate places alphabetically—
+
+  > - “**keeper**”, in relation to a vehicle, means the person having the duty to take out a licence for it under section 1(1) of the Vehicles (Excise) Act 1971;
+  > - “**motor vehicle**” means a mechanically propelled vehicle intended or adapted for use on roads;
+
+  ; and
+- (b) in the definition of “**public service vehicle**” for the words “Part I of the Transport Act 1980” there shall be substituted the words “the [^c13656141]Public Passenger Vehicles Act 1981”;”.
+
+#### Fireworks etc.
+
+**14.** (1) After section 72 there shall be inserted the following—
+
+> **72A. Possession of fireworks etc. at sporting events.**
+>
+> (1) Any person who has entered the relevant area of a designated sports ground and is in possession of a controlled article or substance at any time during the period of a designated sporting event shall be guilty of an offence.
+>
+> (2) Any person who, while in possession of a controlled article or substance, attempts to enter the relevant area of a designated sports ground at any time during the period of a designated sporting event at the ground shall be guilty of an offence.
+>
+> (3) A person guilty of an offence under subsection (1) or (2) above shall be liable on summary conviction to imprisonment for a period not exceeding 60 days or to a fine not exceeding level 3 on the standard scale or both.
+>
+> (4) It shall be a defence for a person charged with an offence under subsection (1) or (2) above to show that he had lawful authority to be in possession of the controlled article or substance.
+>
+> (5) In subsections (1) and (2) above “**controlled article or substance**” means—
+>
+> - (a) any article or substance whose main purpose is the emission of a flare for purposes of illuminating or signalling (as opposed to igniting or heating) or the emission of smoke or a visible gas; and in particular it includes distress flares, fog signals, and pellets and capsules intended to be used as fumigators or for testing pipes, but not matches, cigarette lighters or heaters; and
+> - (b) any article which is a firework.
+
+.
+
+(2) In section 75 (police powers of enforcement) at the end of subparagraph (ii) of paragraph (e) there shall be inserted—
+
+> ; or
+>
+> - (iii) a controlled article or substance as defined in section 72A(5) of this Act.
+
+.
+
+## SCHEDULE 2 — Other Amendments
+
+Section 40(2).
+
+### Conspiracy and Protection of Property Act 1875 (c.86)
+
+*Extent: E+W+S*
+
+**1.**[^c13656151] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Prevention of Crime Act 1953 (c.14)
+
+**2.** In section 1 of the Prevention of Crime Act 1953 (offence to have offensive weapon) at the end of subsection (4) (offensive weapon includes article intended by person having it for use by him) there shall be added “or by some other person”.
+
+### Civic Government (Scotland) Act 1982 (c.45)
+
+**3.** (1) Part V of the Civic Government (Scotland) Act 1982 (public processions) shall be amended in accordance with this paragraph.
+
+(2) In section 62 (notification of processions)—
+
+- (a) in subsection (1)—
+  - (i) after “below” there shall be inserted “(a)”; and
+  - (ii) at the end there shall be inserted—
+
+  “; and
+
+  - (b) to the chief constable.”
+- (b) in subsection (2)—
+  - (i) in paragraph (a), after “council” there shall be inserted “and to the office of the chief constable”;
+  - (ii) in paragraph (b), for “that office” there shall be substituted “those offices”;
+- (c) in subsection (4)—
+  - (i) after “area” there shall be inserted “(a)”; and
+  - (ii) after “them” there shall be inserted—
+
+  “; and
+
+  - (b) intimated to the chief constable,”; and
+- (d) in subsection (12), in the definition of “**public place**”, for “the Public Order Act 1936” there shall be substituted “Part II of the Public Order Act 1986”.
+
+(3) In section 63 (functions of regional and islands councils in relation to processions)—
+
+- (a) after subsection (1) there shall be inserted—
+
+  > (1A) Where notice of a proposal to hold a procession has been given or falls to be treated as having been given in accordance with section 62(1) of this Act—
+  >
+  > - (a) if a regional or islands council have made an order under subsection (1) above they may at any time thereafter, after consulting the chief constable, vary or revoke the order and, where they revoke it, make any order which they were empowered to make under that subsection;
+  > - (b) if they have decided not to make an order they may at any time thereafter, after consulting the chief constable, make any order which they were empowered to make under that subsection.
+
+  ;
+- (b) in subsection (2) after “(1)” there shall be inserted “or (1A)”;
+- (c) in subsection (3)—
+  - (i) in paragraph (a)(i), after “(1)” there shall be inserted or (1A) above”;
+  - (ii) in paragraph (a)(ii), for “such an order” there shall be substituted “an order under subsection (1) above or to revoke an order already made under subsection (1) or (1A) above”;
+  - (iii) at the end of paragraph (a)(ii), for “and” there shall be substituted—
+
+    > - (iii) where they have, under subsection (1A) above, varied such an order, a copy of the order as varied and a written statement of the reasons for the variation; and
+
+    ;
+  - (iv) in paragraph (b), after “(1)” there shall be inserted “or (1A)”, and after “made” where third occurring there shall be inserted “and, if the order has been varied under subsection (1A) above, that it has been so varied”; and
+  - (v) at the end of paragraph (b) there shall be inserted—
+
+  “; and
+- (c) where they have revoked an order made under subsection (1) or (1A) above in relation to a proposal to hold a procession, make such arrangements as will ensure that persons who might take or are taking part in that procession are made aware of the fact that the order has been revoked.”.
+
+(4) In section 64 (appeals against orders under section 63)—
+
+- (a) in subsection (1) for the words from “against” to the end there shall be substituted—
+
+  > against—
+  >
+  > - (a) an order made under section 63(1) or (1A) of this Act; or
+  > - (b) a variation under section 63(1A) of this Act of an order made under section 63(1) or (1A),
+  >
+  > in relation to the procession.
+
+  ;
+- (b) in subsection (4) after “make” there shall be inserted “or, as the case may be, to vary”; and
+- (c) in subsection (7) after “order” there shall be inserted “or, as the case may be, the variation of whose order”.
+
+(5) In section 65 (offences and enforcement)—
+
+- (a) in paragraphs (b) and (c) of subsection (1), after “(1)” there shall be inserted “or (1A)”; and
+- (b) in paragraphs (b) and (c) of subsection (2), after “(1)” there shall be inserted “or (1A)”.
+
+(6) In section 66 (relationship with Public Order Act 1936)—
+
+- (a) for “the Public Order Act 1936” there shall be substituted “Part II of the Public Order Act 1986”;
+- (b) in paragraph (a), for “or order made under section 3” there shall be substituted “under section 12”, and “or that order” shall be omitted; and
+- (c) in paragraph (b), “or order under the said section 3” shall be omitted.
+
+### Criminal Justice Act 1982 (c.48)
+
+**4.** The following shall be inserted at the end of Part II of Schedule 1 to the Criminal Justice Act 1982 (statutory offences excluded from provisions for early release of prisoners)—
+
+> **Public Order Act 1986**
+>
+> **27.** Section 1 (riot).
+>
+> **28.** Section 2 (violent disorder).
+>
+> **29.** Section 3 (affray).”.
+
+*Extent: E+W*
+
+**5.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13656161]
+
+*Extent: E+W*
+
+**6.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13656171]
+
+### Police and Criminal Evidence Act 1984 (c.60)
+
+**7.** In section 17(1)(c) of the Police and Criminal Evidence Act 1984 (entry for purpose of arrest for certain offences) in sub-paragraph (i) the words from “4” to “peace)” shall be omitted and after sub-paragraph (ii) there shall be inserted—
+
+> - (iii) section 4 of the Public Order Act 1986 (fear or provocation of violence);
+
+.
+
+## SCHEDULE 3 — Repeals
+
+Section 40(3).
+
+| Chapter | Short title | Extent of repeal |
+| --- | --- | --- |
+| 13 Chas. 2. Stat. 1. c. 5. | Tumultuous Petitioning Act 1661. | The whole Act. |
+| 33 Geo. 3. c. 67. | Shipping Offences Act 1793. | The whole Act. |
+| 57 Geo. 3. c. 19. | Seditious Meetings Act 1817. | The whole Act. |
+| 5 Geo. 4. c. 83. | Vagrancy Act 1824. | In section 4, the words from “every person being armed” to “arrestable offence” and from “and every such gun” to the end. |
+| 2 & 3 Vict. c. 47. | Metropolitan Police Act 1839. | In section 54, paragraph 13. |
+| 2 & 3 Vict. c. xciv. | City of London Police Act 1839. | In section 35, paragraph 13. |
+| 3 Edw. 7.c .ccl. | Erith Tramways and Improvement Act 1903. | Section 171. |
+| 1 Edw. 8 & 1 Geo. 6. c. 6. | Public Order Act 1936. | Section 3. |
+|  |  | Section 4. |
+|  |  | Section 5. |
+|  |  | Section 5A. |
+|  |  | In section 7, in subsection (2) the words “or section 5 or 5A” and in subsection (3) the words “, four or five”. |
+|  |  | Section 8(6). |
+|  |  | In section 9, in subsection (1) the definition of “public procession” and in subsection (3) the words “by the council of any borough or district or”. |
+| 7 & 8 Geo. 6. c.xxi. | Middlesex County Council Act 1944. | Section 309. |
+| 1967 c. 58. | Criminal Law Act 1967. | Section 11(3). |
+|  |  | In Schedule 2, paragraph 2(1) (b). |
+| 1968 c. 54. | Theatres Act 1968. | Section 5. |
+|  |  | In sections 7(2), 8, 9(1), 10 (1) (a) and (b), 15(1)(a) and 18(2), the references to section 5. |
+| 1976 c. 74. | Race Relations Act 1976. | Section 70. |
+|  |  | Section 79(6). |
+| 1976 c. xxxv. | County of South Glamorgan Act 1976. | Section 25. |
+|  |  | In Part I of Schedule 3, the entry relating to section 25. |
+| 1980 c. 62. | Criminal Justice (Scotland) Act 1980. | In section 75(e)(i), the word “or” at the end. |
+| 1980 c. x. | County of Merseyside Act 1980. | In section 30(2), paragraph (b), the word “and” preceding that paragraph and the words from “and may make” to the end. |
+|  |  | In section 30(5), the words “in the said section 31 or”. |
+|  |  | Section 31. |
+|  |  | In section 137(2), the reference to section 31. |
+| 1980 c. xi. | West Midlands County Council Act 1980. | Section 38, except subsection (4). |
+|  |  | In section 116(2), the reference to section 38. |
+| 1980 c. xiii. | Cheshire County Council Act 1980. | Section 28, except subsection (4). |
+|  |  | In section 108(2), the reference to section 28. |
+| 1980 c. xv. | Isle of Wight Act 1980. | Section 26, except subsection (4). |
+|  |  | In section 63(2), the reference to section 26. |
+| 1981 c. ix. | Greater Manchester Act 1981. | Section 56, except subsection (4). |
+|  |  | In section 179(2), the reference to section 56. |
+| 1981 c. xxv. | East Sussex Act 1981. | Section 29. |
+|  |  | In section 102(2), the reference to section 29. |
+| 1982 c. 45. | Civic Government (Scotland) Act 1982. | Section 62(10). |
+|  |  | In section 63(3)(a)(i), the word “or” at the end. |
+|  |  | In section 66, in paragraph (a), the words “or that order”, and in paragraph (b) the words “or order under the said section 3”. |
+| 1982 c. 48. | Criminal Justice Act 1982. | In Part I of Schedule 1, the entries relating to riot and affray. |
+| 1984 c. 46. | Cable and Broadcasting Act 1984. | Section 27. |
+|  |  | In section 33 (2), the words “an offence under section 27 above or”. |
+| 1984 c. 60. | Police and Criminal Evidence Act 1984. | In section 17(1)(c)(i) the words from “4” to “peace)”. |
+| 1985 c. 57. | Sporting Events (Control of Alcohol etc.) Act 1985. | In section 8, the word “and” at the end of paragraph (b). |
+
+## Annotations
+
+[^c13655461]: Commencement: Act wholly in force at 1.4.1987 by s. 41(1) and [S.I. 1987/198](https://www.legislation.gov.uk/uksi/1987/198)
+
+[^c21446741]: Textual amendment: [S. 3(6)](https://www.legislation.gov.uk/ukpga/1986/64/section/3/6) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 111](https://www.legislation.gov.uk/ukpga/2005/15/section/111), [174(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/174/2), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 26(2)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/26/2), [Sch 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(m)(u)(xxvi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/m/u/xxvi)
+
+[^c21446751]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/1986/64/section/4/3) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 111](https://www.legislation.gov.uk/ukpga/2005/15/section/111), [174(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/174/2), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 26(3)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/26/3), [Sch 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(m)(u)(xxvi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/m/u/xxvi)
+
+[^c13655471]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/1986/64/section/4A) inserted (3.2.1995) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s. 154](https://www.legislation.gov.uk/ukpga/1994/33/section/154); [S.I. 1995/127](https://www.legislation.gov.uk/uksi/1995/127), [art. 2](https://www.legislation.gov.uk/uksi/1995/127/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1995/127/schedule/1)
+
+[^c21446761]: Textual amendment: [S. 4A(4)](https://www.legislation.gov.uk/ukpga/1986/64/section/4A/4) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 111](https://www.legislation.gov.uk/ukpga/2005/15/section/111), [174(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/174/2), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 26(4)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/26/4), [Sch 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(m)(u)(xxvi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/m/u/xxvi)
+
+[^key-5a7a71264479683f73daa22bd59a2d89]: Textual amendment: [S. 4B](https://www.legislation.gov.uk/ukpga/1986/64/section/4B) inserted (E.W.) (1.4.2026) by [Protection from Sex-based Harassment in Public Act 2023 (c. 47)](https://www.legislation.gov.uk/ukpga/2023/47), [ss. 1](https://www.legislation.gov.uk/ukpga/2023/47/section/1), [4(3)](https://www.legislation.gov.uk/ukpga/2023/47/section/4/3); [S.I. 2026/344](https://www.legislation.gov.uk/uksi/2026/344), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/344/regulation/2/a)
+
+[^key-f5820f6be880330067a694c379b4e178]: Textual amendment: Words in s. 5(1) substituted (1.2.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/57/2), [61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 3](https://www.legislation.gov.uk/uksi/2013/2981/article/3)
+
+[^c21446771]: Textual amendment: S. 5(4)(5) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 111](https://www.legislation.gov.uk/ukpga/2005/15/section/111), [174(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/174/2), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 26(5)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/26/5), [Sch 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(m)(u)(xxvi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/m/u/xxvi)
+
+[^key-5419097edb91b2f407da96eb7bfd7dc3]: Textual amendment: Words in s. 6(4) substituted (1.2.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 57(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/57/3), [61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 3](https://www.legislation.gov.uk/uksi/2013/2981/article/3)
+
+[^c21447421]: Modification: [S. 7(1)](https://www.legislation.gov.uk/ukpga/1986/64/section/7/1) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 63(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/63/1), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/13) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+
+[^c13655491]: Marginal citation: [1967 c. 58](https://www.legislation.gov.uk/ukpga/1967/58).
+
+[^c13655501]: Marginal citation: [1661 c. 5](https://www.legislation.gov.uk/aep/1661/5).
+
+[^c13655511]: Marginal citation: [1793 c. 67](https://www.legislation.gov.uk/apgb/1793/67).
+
+[^c13655521]: Marginal citation: [1817 c. 19](https://www.legislation.gov.uk/ukpga/1817/19).
+
+[^c13655531]: Marginal citation: [1936 c. 6](https://www.legislation.gov.uk/ukpga/1936/6).
+
+[^key-29386d0bd98d3b2acd0f441908b14b90]: Textual amendment: S. 10(1) omitted (6.4.2017) by virtue of [Riot Compensation Act 2016 (c. 8)](https://www.legislation.gov.uk/ukpga/2016/8), [ss. 10(3)(b)](https://www.legislation.gov.uk/ukpga/2016/8/section/10/3/b), [12(1)](https://www.legislation.gov.uk/ukpga/2016/8/section/12/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/8/section/12/2); [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+
+[^c13655591]: Marginal citation: [1906 c. 41](https://www.legislation.gov.uk/ukpga/1906/41).
+
+[^c13655601]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-5142081fba2a05cb6e1126ad4ac4817b]: Textual amendment: Word in [s. 12(1)](https://www.legislation.gov.uk/ukpga/1986/64/section/12/1) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 166(2)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/166/2/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(r)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/r)
+
+[^key-8b66045fb76d45cd208ca454d93e933d]: Textual amendment: [S. 12(1)(aa)](https://www.legislation.gov.uk/ukpga/1986/64/section/12/1/aa)[(ab)](https://www.legislation.gov.uk/ukpga/1986/64/section/12/1/ab) substituted (28.6.2022) for word by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 73(2)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/73/2/a), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i) (as amended by [S.I. 2022/680](https://www.legislation.gov.uk/uksi/2022/680), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/680/regulation/2/a))
+
+[^key-377e6fc04543f3b9d969acc2faf53099]: Textual amendment: Word in [s. 12(1)(ab)](https://www.legislation.gov.uk/ukpga/1986/64/section/12/1/ab) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 164(2)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/164/2/a), [255(3)(d)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/d)
+
+[^key-d4592271ba8470c9655492337a646df3]: Textual amendment: [S. 12(1)(c)](https://www.legislation.gov.uk/ukpga/1986/64/section/12/1/c) and word inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 164(2)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/164/2/b), [255(3)(d)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/d)
+
+[^key-8c7210ebfe2e7595ae49890535cd0ac0]: Textual amendment: Word in [s. 12(1)](https://www.legislation.gov.uk/ukpga/1986/64/section/12/1) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 73(2)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/73/2/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i) (as amended by [S.I. 2022/680](https://www.legislation.gov.uk/uksi/2022/680), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/680/regulation/2/a))
+
+[^key-573038abfe2be3ec834b7cf2cb8875ec]: Textual amendment: Word in [s. 12(2)](https://www.legislation.gov.uk/ukpga/1986/64/section/12/2) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 166(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/166/2/b/i), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(r)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/r)
+
+[^key-ebbc0c4f701f0b0bc8320543dd77c52a]: Textual amendment: [S. 12(2)(a)(i)](https://www.legislation.gov.uk/ukpga/1986/64/section/12/2/a/i)[(ii)](https://www.legislation.gov.uk/ukpga/1986/64/section/12/2/a/ii) substituted for words (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 166(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/20/section/166/2/b/ii), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(r)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/r)
+
+[^key-a90cbaacb6601ffce71640634ad6559c]: Textual amendment: [S. 12(2A)-(2E)](https://www.legislation.gov.uk/ukpga/1986/64/section/12/2A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/73/3), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i) (as amended by [S.I. 2022/680](https://www.legislation.gov.uk/uksi/2022/680), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/680/regulation/2/a))
+
+[^key-51a526fcf663fd184f65c47a9da59274]: Textual amendment: [S. 12(2BA)-(2BC)](https://www.legislation.gov.uk/ukpga/1986/64/section/12/2BA) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 165(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/165/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(q)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/q)
+
+[^key-78103e675ef0eab68be6160268cf051f]: Textual amendment: Words in [s. 12(4)](https://www.legislation.gov.uk/ukpga/1986/64/section/12/4) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 75(3)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/75/3/a), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^key-7787d12b911b3a069e122fafe0240369]: Textual amendment: Word in [s. 12(4)](https://www.legislation.gov.uk/ukpga/1986/64/section/12/4) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 75(3)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/75/3/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^key-9dbc73d4f62f0e3e801a030ca0d92978]: Textual amendment: Words in [s. 12(5)](https://www.legislation.gov.uk/ukpga/1986/64/section/12/5) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 75(4)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/75/4/a), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^key-492544c1caa6c7b0b7515d646defa68a]: Textual amendment: Word in [s. 12(5)](https://www.legislation.gov.uk/ukpga/1986/64/section/12/5) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 75(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/75/4/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^key-dce30185a25723b844670273a8a8a80b]: Textual amendment: [S. 12(5A)](https://www.legislation.gov.uk/ukpga/1986/64/section/12/5A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 75(5)](https://www.legislation.gov.uk/ukpga/2022/32/section/75/5), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^c21446791]: Textual amendment: S. 12(7) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 111](https://www.legislation.gov.uk/ukpga/2005/15/section/111), [174(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/174/2), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 26(6)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/26/6), [Sch 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(m)(u)(xxvi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/m/u/xxvi)
+
+[^key-68706d1fb898739c2a80e329183ae183]: Textual amendment: S. 12(8)-(10A) substituted for s. 12(8)-(10) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 75(6)](https://www.legislation.gov.uk/ukpga/2022/32/section/75/6), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 75(12)](https://www.legislation.gov.uk/ukpga/2022/32/section/75/12)); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^key-cf879ba5ce061a12f049d8bbf5bb9041]: Textual amendment: [S. 12(12)-(15)](https://www.legislation.gov.uk/ukpga/1986/64/section/12/12) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 73(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/73/4), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i) (as amended by [S.I. 2022/680](https://www.legislation.gov.uk/uksi/2022/680), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/680/regulation/2/a))
+
+[^c21446801]: Textual amendment: S. 13(10) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 111](https://www.legislation.gov.uk/ukpga/2005/15/section/111), [174(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/174/2), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 26(7)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/26/7), [Sch 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(m)(u)(xxvi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/m/u/xxvi)
+
+[^c21447551]: Textual amendment: Words in [s. 13(13)](https://www.legislation.gov.uk/ukpga/1986/64/section/13/13) omitted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 63(1)(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/63/1/2), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 58(3)(b)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/58/3/b) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+
+[^c21446671]: Modification: S. 14 excluded (E.W.) (1.8.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 132(6)](https://www.legislation.gov.uk/ukpga/2005/15/section/132/6), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 4(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/4/1)
+
+[^key-eb3c5c9d4b2ab6ac4db7ada203efe0e6]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/1) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 74(2)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/74/2/a), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^key-c4e6a6b23ed5c4d83a9a80c7933a5142]: Textual amendment: Word in [s. 14(1)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/1) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 166(3)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/166/3/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(r)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/r)
+
+[^key-447a82d906f389c2fda9d130ffc75ec2]: Textual amendment: [S. 14(1)(aa)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/1/aa)[(ab)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/1/ab) substituted (28.6.2022) for word by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 74(2)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/74/2/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^key-6343b73294f56c9ee3dcda17eacaa925]: Textual amendment: Word in [s. 14(1)(ab)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/1/ab) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 164(3)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/164/3/a), [255(3)(d)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/d)
+
+[^key-415cd13ced8559ed1c32eb133f0f9721]: Textual amendment: [S. 14(1)(c)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/1/c) and word inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 164(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/164/3/b), [255(3)(d)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/d)
+
+[^key-024bc91cd9f1f09c6a964aceaa00d3fc]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/1) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 74(2)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/74/2/c), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^key-956d23bb2bcdbed92d5741b5f018c6dc]: Textual amendment: [S. 14(1A)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/1A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 74(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/74/3), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^key-3b3d102900226fd9642f95b8fa156948]: Textual amendment: Words in [s. 14(2)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/2) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 74(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/74/4), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^key-151bd959d15ac795f4cd6377d20b220b]: Textual amendment: Word in [s. 14(2)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/2) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 166(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/166/3/b/i), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(r)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/r)
+
+[^key-80c118d043be87c33c3c958ce95b8b3c]: Textual amendment: [S. 14(2)(a)(i)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/2/a/i)[(ii)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/2/a/ii) substituted for words (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 166(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/20/section/166/3/b/ii), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(r)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/r)
+
+[^key-925d4a5d1114807f96140bf5ee6eed7b]: Textual amendment: Words in [s. 14(2)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/2) inserted (2.7.2023) by [Public Order Act 2023 (c. 15)](https://www.legislation.gov.uk/ukpga/2023/15), [ss. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2023/15/section/16/2/a), [35(4)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/4)
+
+[^key-5a9b7713eb18940e43fa29faca228a75]: Textual amendment: [S. 14(2ZA)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/2ZA)[(2ZB)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/2ZB) inserted (2.7.2023) by [Public Order Act 2023 (c. 15)](https://www.legislation.gov.uk/ukpga/2023/15), [ss. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2023/15/section/16/2/b), [35(4)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/4)
+
+[^key-c42677a0ecf55677a8a8c7619e067219]: Textual amendment: Words in [s. 14(2ZB)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/2ZB) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 166(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/166/3/c), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(r)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/r)
+
+[^key-30c140cc2dea87b2cdad4de1b81cfac8]: Textual amendment: [S. 14(2A)-(2E)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/2A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 74(5)](https://www.legislation.gov.uk/ukpga/2022/32/section/74/5), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^key-26527a489dae6e3286e0d73cbae746ec]: Textual amendment: [S. 14(2BA)-(2BC)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/2BA) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 165(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/165/3), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(q)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/q)
+
+[^key-e23052c73c82ccb712f730f10ed017fa]: Textual amendment: Words in [s. 14(3)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/3) omitted (2.7.2023) by virtue of [Public Order Act 2023 (c. 15)](https://www.legislation.gov.uk/ukpga/2023/15), [ss. 16(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2023/15/section/16/2/c/i), [35(4)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/4)
+
+[^key-2553b186abe0b1d2bce19ae29afe8abb]: Textual amendment: Words in [s. 14(3)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/3) inserted (2.7.2023) by [Public Order Act 2023 (c. 15)](https://www.legislation.gov.uk/ukpga/2023/15), [ss. 16(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2023/15/section/16/2/c/ii), [35(4)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/4)
+
+[^key-7ba5e2b6738bdedbf4fe39db52f0fece]: Textual amendment: Words in [s. 14(4)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/4) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 75(8)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/75/8/a), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^key-791edf5a7a4cd443131d26c39a7de381]: Textual amendment: Word in [s. 14(4)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/4) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 75(8)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/75/8/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^key-2a1c7faac2ec7709ad5f16e915d3a902]: Textual amendment: Words in [s. 14(5)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/5) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 75(9)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/75/9/a), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^key-63abb7265d480e42cf6648347c379a4f]: Textual amendment: Word in [s. 14(5)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/5) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 75(9)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/75/9/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^key-2c046904a06c711531725b7385220e22]: Textual amendment: [S. 14(5A)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/5A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 75(10)](https://www.legislation.gov.uk/ukpga/2022/32/section/75/10), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^c21446811]: Textual amendment: S. 14(7) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 111](https://www.legislation.gov.uk/ukpga/2005/15/section/111), [174(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/174/2), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 26(8)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/26/8), [Sch 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(m)(u)(xxvi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/m/u/xxvi)
+
+[^key-8f0d5a98b37953495774c19ff332452a]: Textual amendment: S. 14(8)-(10A) substituted for s. 14(8)-(10) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 75(11)](https://www.legislation.gov.uk/ukpga/2022/32/section/75/11), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 75(12)](https://www.legislation.gov.uk/ukpga/2022/32/section/75/12)); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^key-413c97ee572bf622f8a65bfe5953dee4]: Textual amendment: [S. 14(11)-(14)](https://www.legislation.gov.uk/ukpga/1986/64/section/14/11) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 74(6)](https://www.legislation.gov.uk/ukpga/2022/32/section/74/6), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+
+[^key-95b1ffaebe294f025ed940d6f889afef]: Textual amendment: [S. 14ZA](https://www.legislation.gov.uk/ukpga/1986/64/section/14ZA) inserted (E.W.) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 79(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/79/1), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
+
+[^key-a8ca37ff4b2509a3e4d35ebae9692142]: Textual amendment: Word in [s. 14ZA(1)(a)](https://www.legislation.gov.uk/ukpga/1986/64/section/14ZA/1/a) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 164(4)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/164/4/a), [255(3)(d)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/d)
+
+[^key-a8852360efa6b761e7e5165ab6d1edd4]: Textual amendment: [S. 14ZA(1)(c)](https://www.legislation.gov.uk/ukpga/1986/64/section/14ZA/1/c) and word inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 164(4)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/164/4/b), [255(3)(d)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/d)
+
+[^key-0ae53719f3af381d61832e8ac768b969]: Textual amendment: Words in [s. 14ZA(5)](https://www.legislation.gov.uk/ukpga/1986/64/section/14ZA/5) inserted (2.7.2023) by [Public Order Act 2023 (c. 15)](https://www.legislation.gov.uk/ukpga/2023/15), [ss. 16(3)(a)](https://www.legislation.gov.uk/ukpga/2023/15/section/16/3/a), [35(4)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/4)
+
+[^key-c40ab975f864e85324444ec16d1c22c5]: Textual amendment: [S. 14ZA(5A)](https://www.legislation.gov.uk/ukpga/1986/64/section/14ZA/5A)[(5B)](https://www.legislation.gov.uk/ukpga/1986/64/section/14ZA/5B) inserted (2.7.2023) by [Public Order Act 2023 (c. 15)](https://www.legislation.gov.uk/ukpga/2023/15), [ss. 16(3)(b)](https://www.legislation.gov.uk/ukpga/2023/15/section/16/3/b), [35(4)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/4)
+
+[^key-161eb1b32a7a2890bdd775cf13c65a69]: Textual amendment: Words in [s. 14ZA(9)](https://www.legislation.gov.uk/ukpga/1986/64/section/14ZA/9) omitted (2.7.2023) by virtue of [Public Order Act 2023 (c. 15)](https://www.legislation.gov.uk/ukpga/2023/15), [ss. 16(3)(c)(i)](https://www.legislation.gov.uk/ukpga/2023/15/section/16/3/c/i), [35(4)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/4)
+
+[^key-897c1f30ab3264b6eb1abe52de2c6905]: Textual amendment: Words in [s. 14ZA(9)](https://www.legislation.gov.uk/ukpga/1986/64/section/14ZA/9) inserted (2.7.2023) by [Public Order Act 2023 (c. 15)](https://www.legislation.gov.uk/ukpga/2023/15), [ss. 16(3)(c)(ii)](https://www.legislation.gov.uk/ukpga/2023/15/section/16/3/c/ii), [35(4)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/4)
+
+[^c13655641]: Textual amendment: [S. 14A](https://www.legislation.gov.uk/ukpga/1986/64/section/14A) inserted (3.11.1994) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [ss. 70](https://www.legislation.gov.uk/ukpga/1994/33/section/70), [172(4)](https://www.legislation.gov.uk/ukpga/1994/33/section/172/4)
+
+[^key-4e0194be9da9754fb179b478819a464e]: Textual amendment: [S. 14A(4A)-(4K)](https://www.legislation.gov.uk/ukpga/1986/64/section/14A/4A) inserted (2.7.2023) by [Public Order Act 2023 (c. 15)](https://www.legislation.gov.uk/ukpga/2023/15), [ss. 16(4)(a)](https://www.legislation.gov.uk/ukpga/2023/15/section/16/4/a), [35(4)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/4)
+
+[^key-bbb66fea2f4276c39ab45540f4b34f35]: Textual amendment: Words in [s. 14A(7)](https://www.legislation.gov.uk/ukpga/1986/64/section/14A/7) substituted (2.7.2023) by [Public Order Act 2023 (c. 15)](https://www.legislation.gov.uk/ukpga/2023/15), [ss. 16(4)(b)](https://www.legislation.gov.uk/ukpga/2023/15/section/16/4/b), [35(4)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/4)
+
+[^key-ab905d311010b0934c37a01b6962eb8d]: Textual amendment: Words in [s. 14A(9)](https://www.legislation.gov.uk/ukpga/1986/64/section/14A/9) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 167(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/167/2), [255(3)(e)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/e)
+
+[^key-5aeaa44dc9fe93f2dd6661da64262dc4]: Textual amendment: Words in [s. 14A(9)](https://www.legislation.gov.uk/ukpga/1986/64/section/14A/9) substituted (2.7.2023) by [Public Order Act 2023 (c. 15)](https://www.legislation.gov.uk/ukpga/2023/15), [ss. 16(4)(c)](https://www.legislation.gov.uk/ukpga/2023/15/section/16/4/c), [35(4)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/4)
+
+[^c21446651]: Textual amendment: S. 14A(9A) inserted (S.) (9.2.2005) by [Land Reform (Scotland) Act 2003 (asp 2)](https://www.legislation.gov.uk/asp/2003/2), [ss. 99](https://www.legislation.gov.uk/asp/2003/2/section/99), [100(3)](https://www.legislation.gov.uk/asp/2003/2/section/100/3), [sch. 2 para. 9](https://www.legislation.gov.uk/asp/2003/2/schedule/2/paragraph/9) (with [s. 100(2)](https://www.legislation.gov.uk/asp/2003/2/section/100/2)); [S.S.I. 2005/17](https://www.legislation.gov.uk/ssi/2005/17), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/17/article/2/b)
+
+[^c13655651]: Textual amendment: S. 14B inserted (3.11.1994) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [ss. 70](https://www.legislation.gov.uk/ukpga/1994/33/section/70), [172(4)](https://www.legislation.gov.uk/ukpga/1994/33/section/172/4)
+
+[^M_F_1fb7d34a-c91a-42ea-9123-e620191fac7d]: Textual amendment: S. 14B(4) repealed (E.W.) (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 111](https://www.legislation.gov.uk/ukpga/2005/15/section/111), [174(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/174/2), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 26(9)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/26/9), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(m)(u)(xxvi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/m/u/xxvi); and (S.) (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 10](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/10)
+
+[^c21447571]: Textual amendment: Words in s. 14B(7) omitted (E.W.) (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 63(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/63/2), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 58(3)(d)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/58/3/d) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+
+[^c13655671]: Textual amendment: S. 14C inserted (3.11.1994) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [ss. 71](https://www.legislation.gov.uk/ukpga/1994/33/section/71), [172(4)](https://www.legislation.gov.uk/ukpga/1994/33/section/172/4)
+
+[^key-968b535144acd1ecbe7f1e6768714c14]: Textual amendment: S. 14C(4) repealed (E.W.) (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 111](https://www.legislation.gov.uk/ukpga/2005/15/section/111), [174(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/174/2), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 26(10)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/26/10), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(m)(u)(xxvi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/m/u/xxvi); and (S.) (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 10](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/10)
+
+[^c13655701]: Textual amendment: Word in [s. 15(1)](https://www.legislation.gov.uk/ukpga/1986/64/section/15/1) substituted (1.3.1998) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s. 168(2)](https://www.legislation.gov.uk/ukpga/1994/33/section/168/2), [Sch. 10 para. 60](https://www.legislation.gov.uk/ukpga/1994/33/schedule/10/paragraph/60); [S.I. 1998/277](https://www.legislation.gov.uk/uksi/1998/277), [art. 3](https://www.legislation.gov.uk/uksi/1998/277/article/3)
+
+[^c13655711]: Textual amendment: Words in [s. 15(1)](https://www.legislation.gov.uk/ukpga/1986/64/section/15/1) substituted (1.4.1995) by [1994 c. 29](https://www.legislation.gov.uk/ukpga/1994/29), [s. 44](https://www.legislation.gov.uk/ukpga/1994/29/section/44), [Sch. 5 Pt. II para. 37](https://www.legislation.gov.uk/ukpga/1994/29/schedule/5/part/II/paragraph/37); [S.I. 1994/3262](https://www.legislation.gov.uk/uksi/1994/3262), [art. 4](https://www.legislation.gov.uk/uksi/1994/3262/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1994/3262/schedule)
+
+[^key-214e41cdbce499d8bfe86478483d4e41]: Textual amendment: [S. 15(2)](https://www.legislation.gov.uk/ukpga/1986/64/section/15/2) substituted (3.5.2023) by [Public Order Act 2023 (c. 15)](https://www.legislation.gov.uk/ukpga/2023/15), [ss. 15](https://www.legislation.gov.uk/ukpga/2023/15/section/15), [35(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/5); [S.I. 2023/502](https://www.legislation.gov.uk/uksi/2023/502), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/502/regulation/2/e)
+
+[^key-1cb594f040c1ff6edc4499d919b6b465]: Textual amendment: [S. 15(3)](https://www.legislation.gov.uk/ukpga/1986/64/section/15/3)[(4)](https://www.legislation.gov.uk/ukpga/1986/64/section/15/4) inserted (2.7.2023) by [Public Order Act 2023 (c. 15)](https://www.legislation.gov.uk/ukpga/2023/15), [ss. 16(5)](https://www.legislation.gov.uk/ukpga/2023/15/section/16/5), [35(4)](https://www.legislation.gov.uk/ukpga/2023/15/section/35/4)
+
+[^c13655731]: Marginal citation: [1963 c. 33](https://www.legislation.gov.uk/ukpga/1963/33).
+
+[^c21445891]: Textual amendment: S. 16: in definition of "public assembly", reference to "20" substituted (E.W.) (20.1.2004) for reference to "2" by [Anti-social Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 57](https://www.legislation.gov.uk/ukpga/2003/38/section/57), [93(1)](https://www.legislation.gov.uk/ukpga/2003/38/section/93/1); [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/e/i)
+
+[^key-e4165d8c42acce0a35ad70c91d5a8712]: Textual amendment: Words in [s. 16](https://www.legislation.gov.uk/ukpga/1986/64/section/16) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 167(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/167/3), [255(3)(e)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/e)
+
+[^c13655741]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
+
+[^c13655751]: Textual amendment: Words in [s. 17](https://www.legislation.gov.uk/ukpga/1986/64/section/17) repealed (14.12.2001) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [ss. 37](https://www.legislation.gov.uk/ukpga/2001/24/section/37), [125](https://www.legislation.gov.uk/ukpga/2001/24/section/125), [127(2)](https://www.legislation.gov.uk/ukpga/2001/24/section/127/2), [Sch. 8 Pt. 4](https://www.legislation.gov.uk/ukpga/2001/24/schedule/8/part/4) (with [s. 42](https://www.legislation.gov.uk/ukpga/2001/24/section/42))
+
+[^key-a800a341a95e15051ff931ed7ed99357]: Textual amendment: [Ss. 18-21](https://www.legislation.gov.uk/ukpga/1986/64/section/18) repealed (S.) (1.4.2024) by [Hate Crime and Public Order (Scotland) Act 2021 (asp 14)](https://www.legislation.gov.uk/asp/2021/14), [s. 21(2)](https://www.legislation.gov.uk/asp/2021/14/section/21/2), [sch. 2 para. 1(2)](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/1/2); [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+
+[^c21446841]: Textual amendment: [S. 18(3)](https://www.legislation.gov.uk/ukpga/1986/64/section/18/3) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 111](https://www.legislation.gov.uk/ukpga/2005/15/section/111), [174(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/174/2), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 26(11)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/26/11), [Sch 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(m)(u)(xxvi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/m/u/xxvi)
+
+[^c13655761]: Textual amendment: Words substituted by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 164(2)](https://www.legislation.gov.uk/ukpga/1990/42/section/164/2)
+
+[^c13655771]: Textual amendment: Words substituted by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 164(2)](https://www.legislation.gov.uk/ukpga/1990/42/section/164/2)
+
+[^c13655781]: Marginal citation: [1968 c. 54](https://www.legislation.gov.uk/ukpga/1968/54).
+
+[^c13655791]: Textual amendment: Words substituted by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 164(2)](https://www.legislation.gov.uk/ukpga/1990/42/section/164/2)
+
+[^c13655801]: Textual amendment: Words substituted by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 164(3)(a)](https://www.legislation.gov.uk/ukpga/1990/42/section/164/3/a)
+
+[^c13655811]: Textual amendment: Words repealed by [Broadcating Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [ss. 164(3)(b)(i)](https://www.legislation.gov.uk/ukpga/1990/42/section/164/3/b/i), [203(3)](https://www.legislation.gov.uk/ukpga/1990/42/section/203/3), [Sch. 21](https://www.legislation.gov.uk/ukpga/1990/42/schedule/21)
+
+[^c13655821]: Textual amendment: Words substituted by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 164(3)(a)](https://www.legislation.gov.uk/ukpga/1990/42/section/164/3/a)
+
+[^c13655841]: Textual amendment: Words repealed by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [ss. 164(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/1990/42/section/164/3/b/ii), [203(3)](https://www.legislation.gov.uk/ukpga/1990/42/section/203/3), [Sch. 21](https://www.legislation.gov.uk/ukpga/1990/42/schedule/21)
+
+[^c13655881]: Textual amendment: [S. 22(7)(8)](https://www.legislation.gov.uk/ukpga/1986/64/section/22/7/8) repealed by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [ss. 164(3)(b)(iii)(iv)](https://www.legislation.gov.uk/ukpga/1990/42/section/164/3/b/iii/iv), [203(3)](https://www.legislation.gov.uk/ukpga/1990/42/section/203/3), [Sch. 21](https://www.legislation.gov.uk/ukpga/1990/42/schedule/21)
+
+[^key-20dbb7f0ba78bd671ff47824fab658c1]: Textual amendment: Words in [s. 23(1)(a)](https://www.legislation.gov.uk/ukpga/1986/64/section/23/1/a) repealed (S.) (1.4.2024) by [Hate Crime and Public Order (Scotland) Act 2021 (asp 14)](https://www.legislation.gov.uk/asp/2021/14), [s. 21(2)](https://www.legislation.gov.uk/asp/2021/14/section/21/2), [sch. 2 para. 1(3)(a)](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/1/3/a); [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+
+[^c13655891]: Textual amendment: Words substituted by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 164(4)(a)](https://www.legislation.gov.uk/ukpga/1990/42/section/164/4/a)
+
+[^key-d73b6966d4596099190269085a2568cc]: Textual amendment: Words in [s. 23(1)(b)](https://www.legislation.gov.uk/ukpga/1986/64/section/23/1/b) repealed (S.) (1.4.2024) by [Hate Crime and Public Order (Scotland) Act 2021 (asp 14)](https://www.legislation.gov.uk/asp/2021/14), [s. 21(2)](https://www.legislation.gov.uk/asp/2021/14/section/21/2), [sch. 2 para. 1(3)(b)](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/1/3/b); [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+
+[^key-ac7e1bad8826e17ecb1b0282c6c0a662]: Textual amendment: Words in [s. 23(2)](https://www.legislation.gov.uk/ukpga/1986/64/section/23/2) repealed (S.) (1.4.2024) by [Hate Crime and Public Order (Scotland) Act 2021 (asp 14)](https://www.legislation.gov.uk/asp/2021/14), [s. 21(2)](https://www.legislation.gov.uk/asp/2021/14/section/21/2), [sch. 2 para. 1(3)(c)](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/1/3/c); [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+
+[^c13655911]: Textual amendment: Words substituted by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 164(4)(b)](https://www.legislation.gov.uk/ukpga/1990/42/section/164/4/b)
+
+[^c13655921]: Textual amendment: [S. 23(4)](https://www.legislation.gov.uk/ukpga/1986/64/section/23/4) repealed by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [ss. 164(4)(c)](https://www.legislation.gov.uk/ukpga/1990/42/section/164/4/c), [203(3)](https://www.legislation.gov.uk/ukpga/1990/42/section/203/3), [Sch. 21](https://www.legislation.gov.uk/ukpga/1990/42/schedule/21)
+
+[^c13655931]: Marginal citation: [1971 c. 61](https://www.legislation.gov.uk/ukpga/1971/61).
+
+[^key-cae9897f5236335b38fcc50d562dc54a]: Textual amendment: Words in s. 25(1) substituted for s. 25(1)(a)(b) (S.) (1.4.2024) by [Hate Crime and Public Order (Scotland) Act 2021 (asp 14)](https://www.legislation.gov.uk/asp/2021/14), [s. 21(2)](https://www.legislation.gov.uk/asp/2021/14/section/21/2), [sch. 2 para. 1(4)](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/1/4); [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+
+[^c13655941]: Textual amendment: Words in [s. 26](https://www.legislation.gov.uk/ukpga/1986/64/section/26) inserted (6.5.1999) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [s. 125](https://www.legislation.gov.uk/ukpga/1998/46/section/125), [Sch. 8 para. 24](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8/paragraph/24) (with s 126(3)-(11); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2](https://www.legislation.gov.uk/uksi/1998/3178/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1998/3178/schedule/3)
+
+[^c21446951]: Textual amendment: Words in [s. 26(1)](https://www.legislation.gov.uk/ukpga/1986/64/section/26/1) inserted by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [s. 160(1)](https://www.legislation.gov.uk/ukpga/2006/32/section/160/1), [Sch. 10 para. 19](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/19), the amending provision coming into force immediately after the 2007 election (held on 3.5.2007) subject to [s. 161(4)(5)](https://www.legislation.gov.uk/ukpga/1986/64/section/161/4/5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of the initial period (which ended with the day of the first appointment of a First Minister on 25.5.2007) see [ss. 46](https://www.legislation.gov.uk/ukpga/1986/64/section/46), [161(1)(4)(5)](https://www.legislation.gov.uk/ukpga/1986/64/section/161/1/4/5) of the amending Act).
+
+[^c13655951]: Textual amendment: Words in [s. 27(3)](https://www.legislation.gov.uk/ukpga/1986/64/section/27/3) substituted (14.12.2001) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [ss. 40](https://www.legislation.gov.uk/ukpga/2001/24/section/40), [127(2)](https://www.legislation.gov.uk/ukpga/2001/24/section/127/2) (with [s. 42](https://www.legislation.gov.uk/ukpga/2001/24/section/42))
+
+[^c13655961]: Textual amendment: Definitions repealed by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [ss. 164(5)(a)](https://www.legislation.gov.uk/ukpga/1990/42/section/164/5/a), [203(3)](https://www.legislation.gov.uk/ukpga/1990/42/section/203/3), [Sch. 21](https://www.legislation.gov.uk/ukpga/1990/42/schedule/21)
+
+[^key-d0d3b0195b6fc3273726b265f4a677c1]: Textual amendment: Words in [s. 29](https://www.legislation.gov.uk/ukpga/1986/64/section/29) repealed (S.) (1.4.2024) by [Hate Crime and Public Order (Scotland) Act 2021 (asp 14)](https://www.legislation.gov.uk/asp/2021/14), [s. 21(2)](https://www.legislation.gov.uk/asp/2021/14/section/21/2), [sch. 2 para. 1(5)(a)](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/1/5/a); [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+
+[^c13655981]: Textual amendment: Words substituted by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 164(5)(b)](https://www.legislation.gov.uk/ukpga/1990/42/section/164/5/b)
+
+[^c13655991]: Textual amendment: Definition inserted by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 164(5)(c)](https://www.legislation.gov.uk/ukpga/1990/42/section/164/5/c)
+
+[^key-c088c3d1762aa761ac1f11e19d56584e]: Textual amendment: Words in [s. 29](https://www.legislation.gov.uk/ukpga/1986/64/section/29) substituted (S.) (1.4.2024) by [Hate Crime and Public Order (Scotland) Act 2021 (asp 14)](https://www.legislation.gov.uk/asp/2021/14), [s. 21(2)](https://www.legislation.gov.uk/asp/2021/14/section/21/2), [sch. 2 para. 1(5)(b)](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/1/5/b); [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+
+[^c21446971]: Textual amendment: Pt. 3A inserted (E.W.) (1.10.2007 except so far as relating to the insertion of ss. 29B(3), 29H(2), 29I(2)(b)(4)) by [Racial and Religious Hatred Act 2006 (c. 1)](https://www.legislation.gov.uk/ukpga/2006/1), [ss. 1](https://www.legislation.gov.uk/ukpga/2006/1/section/1), [3(2)](https://www.legislation.gov.uk/ukpga/2006/1/section/3/2), [Sch.](https://www.legislation.gov.uk/ukpga/2006/1/schedule); [S.I. 2007/2490](https://www.legislation.gov.uk/uksi/2007/2490), [art. 2](https://www.legislation.gov.uk/uksi/2007/2490/article/2)
+
+[^c21447711]: Textual amendment: Words in [Pt. 3A](https://www.legislation.gov.uk/ukpga/1986/64/part/3A) heading inserted (23.3.2010) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/2); [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/712/article/2/d)
+
+[^c21447731]: Textual amendment: Words in cross-heading preceding s. 29A inserted (23.3.2010) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/3); [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/712/article/2/d)
+
+[^c21447751]: Textual amendment: [S. 29AB](https://www.legislation.gov.uk/ukpga/1986/64/section/29AB) inserted (23.3.2010) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 16 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/4); [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/712/article/2/d)
+
+[^c21447771]: Textual amendment: Words in cross-heading preceding s. 29B inserted (23.3.2010) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/5); [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/712/article/2/d)
+
+[^c21447791]: Textual amendment: Words in [s. 29B(1)](https://www.legislation.gov.uk/ukpga/1986/64/section/29B/1) inserted (23.3.2010) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 16 para. 6(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/6/2); [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/712/article/2/d)
+
+[^c21447111]: Textual amendment: [S. 29B(3)](https://www.legislation.gov.uk/ukpga/1986/64/section/29B/3) repealed (8.5.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [149](https://www.legislation.gov.uk/ukpga/2008/4/section/149), [153(1)(j)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/1/j), [Sch. 16 para. 6(3)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/6/3), [Sch. 28 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/5)
+
+[^c21447811]: Textual amendment: Words in [s. 29C(1)](https://www.legislation.gov.uk/ukpga/1986/64/section/29C/1) inserted (23.3.2010) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 16 para. 7](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/7); [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/712/article/2/d)
+
+[^c21447851]: Textual amendment: Words in [s. 29D(1)](https://www.legislation.gov.uk/ukpga/1986/64/section/29D/1) inserted (23.3.2010) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 16 para. 8](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/8); [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/712/article/2/d)
+
+[^c21448191]: Textual amendment: Words in [s. 29E(1)](https://www.legislation.gov.uk/ukpga/1986/64/section/29E/1) inserted (23.3.2010) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 16 para. 9](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/9); [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/712/article/2/d)
+
+[^c21448321]: Textual amendment: Words in [s. 29F(1)](https://www.legislation.gov.uk/ukpga/1986/64/section/29F/1) inserted (23.3.2010) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 16 para. 10](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/10); [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/712/article/2/d)
+
+[^c21448361]: Textual amendment: Words in [s. 29G(1)](https://www.legislation.gov.uk/ukpga/1986/64/section/29G/1) substituted (23.3.2010) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 16 para. 11](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/11); [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/712/article/2/d)
+
+[^c21447121]: Textual amendment: Words in [s. 29H(1)](https://www.legislation.gov.uk/ukpga/1986/64/section/29H/1) repealed (8.5.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [149](https://www.legislation.gov.uk/ukpga/2008/4/section/149), [153(1)(j)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/1/j), [Sch. 16 para. 12(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/12/2), [Sch. 28 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/5)
+
+[^c21447131]: Textual amendment: [S. 29H(2)](https://www.legislation.gov.uk/ukpga/1986/64/section/29H/2) repealed (8.5.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [149](https://www.legislation.gov.uk/ukpga/2008/4/section/149), [153(1)(j)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/1/j), [Sch. 16 para. 12(3)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/12/3), [Sch. 28 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/5)
+
+[^c21447141]: Textual amendment: Words in [s. 29I(2)(a)](https://www.legislation.gov.uk/ukpga/1986/64/section/29I/2/a) repealed (8.5.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [149](https://www.legislation.gov.uk/ukpga/2008/4/section/149), [153(1)(j)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/1/j), [Sch. 16 para. 13(2)(a)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/13/2/a), [Sch. 28 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/5)
+
+[^c21447151]: Textual amendment: [S. 29I(2)(b)](https://www.legislation.gov.uk/ukpga/1986/64/section/29I/2/b) repealed (8.5.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [149](https://www.legislation.gov.uk/ukpga/2008/4/section/149), [153(1)(j)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/1/j), [Sch. 16 para. 13(2)(b)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/13/2/b), [Sch. 28 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/5)
+
+[^c21447161]: Textual amendment: [S. 29I(4)](https://www.legislation.gov.uk/ukpga/1986/64/section/29I/4) repealed (8.5.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [149](https://www.legislation.gov.uk/ukpga/2008/4/section/149), [153(1)(j)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/1/j), [Sch. 16 para. 13(3)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/13/3), [Sch. 28 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/5)
+
+[^c21447171]: Textual amendment: S. 29JA inserted (8.5.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [153(1)(j)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/1/j), [Sch. 16 para. 14](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/14)
+
+[^key-6b2ba75dd872519303312d8a64759742]: Textual amendment: S. 29JA(1): s. 29JA renumbered as s. 29JA(1) (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 7 para. 28(2)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/7/paragraph/28/2); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(k)(ii)](https://www.legislation.gov.uk/uksi/2014/93/article/3/k/ii)
+
+[^key-2686807b3eaaa8aa16c54c2c0c74a46d]: Textual amendment: S. 29JA(2) inserted (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 7 para. 28(3)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/7/paragraph/28/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(k)(ii)](https://www.legislation.gov.uk/uksi/2014/93/article/3/k/ii)
+
+[^c21447191]: Textual amendment: Words in [s. 29K(1)](https://www.legislation.gov.uk/ukpga/1986/64/section/29K/1) substituted (8.5.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [153(1)(j)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/1/j), [Sch. 16 para. 15](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/15)
+
+[^c21447271]: Textual amendment: Words in s. 29L(1)(2) repealed (8.5.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [149](https://www.legislation.gov.uk/ukpga/2008/4/section/149), [153(1)(j)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/1/j), [Sch. 16 para. 16(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/16/2), [Sch. 28 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/5)
+
+[^c21447291]: Textual amendment: Words in s. 29L(3)(b) substituted (8.5.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [153(1)(j)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/1/j), [Sch. 16 para. 16(3)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/16/3)
+
+[^c21447341]: Textual amendment: S. 29L(4) inserted (8.5.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [153(1)(j)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/1/j), [Sch. 16 para. 16(4)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/16/4)
+
+[^key-c582eb5b76cc66b443de7d222cab6351]: Textual amendment: Words in [s. 29L(4)](https://www.legislation.gov.uk/ukpga/1986/64/section/29L/4) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+
+[^c21448401]: Textual amendment: [S. 29N](https://www.legislation.gov.uk/ukpga/1986/64/section/29N): definition of "hatred on the grounds of sexual orientation" inserted (23.3.2010) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/4/section/74), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 16 para. 17](https://www.legislation.gov.uk/ukpga/2008/4/schedule/16/paragraph/17); [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/712/article/2/d)
+
+[^c13656001]: Textual amendment: [Ss. 30–37](https://www.legislation.gov.uk/ukpga/1986/64/section/30) repealed with saving by [Football Supporters Act 1989 (c. 37, SIF 45A)](https://www.legislation.gov.uk/ukpga/1989/37), [s. 27(5)](https://www.legislation.gov.uk/ukpga/1989/37/section/27/5); Subject to amendment (27.9.1999) (E.W.) by [1999 c. 21](https://www.legislation.gov.uk/ukpga/1999/21), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/1999/21/section/6/1), [6(2)(a)(b)](https://www.legislation.gov.uk/ukpga/1999/21/section/6/2/a/b), [7(1)](https://www.legislation.gov.uk/ukpga/1999/21/section/7/1), [8(1)(2)(4)(5)](https://www.legislation.gov.uk/ukpga/1999/21/section/8/1/2/4/5); Subject to amendment (1.4.2001) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [ss. 90](https://www.legislation.gov.uk/ukpga/1999/22/section/90), [106](https://www.legislation.gov.uk/ukpga/1999/22/section/106), [108](https://www.legislation.gov.uk/ukpga/1999/22/section/108), [Sch. 13 para. 134](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/134), [Sch. 15 Pt. V(7)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/15/part/V/7); [S.I. 2001/916](https://www.legislation.gov.uk/uksi/2001/916), [art. 2](https://www.legislation.gov.uk/uksi/2001/916/article/2) (with transitional provisions and savings in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2001/916/schedule/2/paragraph/2)); Subject to amendment (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/165/1), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 9 para. 101](https://www.legislation.gov.uk/ukpga/2000/6/schedule/9/paragraph/101); Subject to amendment (28.8.2000) by [2000 c. 25](https://www.legislation.gov.uk/ukpga/2000/25), [s. 1(2)(3)](https://www.legislation.gov.uk/ukpga/2000/25/section/1/2/3), [Sch. 2 paras. 3-7](https://www.legislation.gov.uk/ukpga/2000/25/schedule/2/paragraph/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2000/25/schedule/3); [S.I. 2000/2125](https://www.legislation.gov.uk/uksi/2000/2125), [art. 2](https://www.legislation.gov.uk/uksi/2000/2125/article/2)
+
+[^c13656051]: Textual amendment: [S. 39](https://www.legislation.gov.uk/ukpga/1986/64/section/39) repealed (3.11.1994) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [ss. 168(3)](https://www.legislation.gov.uk/ukpga/1994/33/section/168/3), [172(4)](https://www.legislation.gov.uk/ukpga/1994/33/section/172/4), [Sch. 11](https://www.legislation.gov.uk/ukpga/1994/33/schedule/11)
+
+[^c13656061]: Marginal citation: [1985 c. 57](https://www.legislation.gov.uk/ukpga/1985/57).
+
+[^c13656071]: Marginal citation: [1980 c. 62](https://www.legislation.gov.uk/ukpga/1980/62).
+
+[^c13656081]: Modification: Power of appointment conferred by s. 41 partly exercised: [S.I. 1986/2041](https://www.legislation.gov.uk/uksi/1986/2041), 1987/198, 852
+
+[^c13656101]: Textual amendment: Word in [s. 42(2)](https://www.legislation.gov.uk/ukpga/1986/64/section/42/2) repealed (3.11.1994) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s. 168(3)](https://www.legislation.gov.uk/ukpga/1994/33/section/168/3), [172(2)](https://www.legislation.gov.uk/ukpga/1994/33/section/172/2), [Sch. 11](https://www.legislation.gov.uk/ukpga/1994/33/schedule/11)
+
+[^c13656111]: Textual amendment: Words substituted by [S.I. 1987/463 (N.I. 7)](https://www.legislation.gov.uk/nisi/1987/463), [art. 28(1)](https://www.legislation.gov.uk/nisi/1987/463/article/28/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/nisi/1987/463/schedule/1/paragraph/6)
+
+[^c13656121]: Marginal citation: [1985 c. 57](https://www.legislation.gov.uk/ukpga/1985/57).
+
+[^c21446691]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1986/64/schedule/1/paragraph/4) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [ss. 1](https://www.legislation.gov.uk/ukpga/2003/17/section/1){4}, 201(2), {Sch. 7} (with ss. 2(3), 15(2), 195); [S.I. 2005/3068](https://www.legislation.gov.uk/uksi/2005/3068), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3068/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3068/article/4))
+
+[^c21446701]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1986/64/schedule/1/paragraph/5) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [ss. 1](https://www.legislation.gov.uk/ukpga/2003/17/section/1){4}, 201(2), {Sch. 7} (with ss. 2(3), 15(2), 195); [S.I. 2005/3068](https://www.legislation.gov.uk/uksi/2005/3068), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3068/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3068/article/4))
+
+[^c21446711]: Textual amendment: [Sch. 1 para. 7(5)](https://www.legislation.gov.uk/ukpga/1986/64/schedule/1/paragraph/7/5) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [ss. 1](https://www.legislation.gov.uk/ukpga/2003/17/section/1){4}, 201(2), {Sch. 7} (with ss. 2(3), 15(2), 195); [S.I. 2005/3068](https://www.legislation.gov.uk/uksi/2005/3068), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3068/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3068/article/4))
+
+[^c21446721]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1986/64/schedule/1/paragraph/8) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [ss. 1](https://www.legislation.gov.uk/ukpga/2003/17/section/1){4}, 201(2), {Sch. 7} (with ss. 2(3), 15(2), 195); [S.I. 2005/3068](https://www.legislation.gov.uk/uksi/2005/3068), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3068/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3068/article/4))
+
+[^c13656131]: Marginal citation: [1980 c. 62](https://www.legislation.gov.uk/ukpga/1980/62).
+
+[^c13656141]: Marginal citation: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).
+
+[^c13656151]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1986/64/schedule/2/paragraph/1) repealed (16.10.1992) by [Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52), [ss. 300(1)](https://www.legislation.gov.uk/ukpga/1992/52/section/300/1), [302](https://www.legislation.gov.uk/ukpga/1992/52/section/302), [Sch.1](https://www.legislation.gov.uk/ukpga/1992/52/schedule/1)
+
+[^c13656161]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1986/64/schedule/2/paragraph/5) repealed by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 203(3)](https://www.legislation.gov.uk/ukpga/1990/42/section/203/3), [Sch. 21](https://www.legislation.gov.uk/ukpga/1990/42/schedule/21)
+
+[^c13656171]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1986/64/schedule/2/paragraph/6) repealed by [S.I. 1987/463 (N.I. 7)](https://www.legislation.gov.uk/nisi/1987/463), [art. 28(5)](https://www.legislation.gov.uk/nisi/1987/463/article/28/5), [Sch. 2](https://www.legislation.gov.uk/nisi/1987/463/schedule/2), and [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 203(3)](https://www.legislation.gov.uk/ukpga/1990/42/section/203/3), [Sch. 21](https://www.legislation.gov.uk/ukpga/1990/42/schedule/21)

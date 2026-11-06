@@ -1,0 +1,144 @@
+---
+title: Animal Welfare (Sentience) Act 2022
+id: ukpga/2022/22
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '2022-04-28'
+text_date: '2023-05-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2022/22
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2022/22/pdfs/ukpgaen_20220022_en.pdf
+- http://www.legislation.gov.uk/ukpga/2022/22/pdfs/ukpga_20220022_en.pdf
+- http://www.legislation.gov.uk/ukpga/2022/22/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Animal Welfare (Sentience) Act 2022
+
+> Text as at 2023-05-22.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Animal Welfare (Sentience) Act 2022
+
+2022 Chapter 22
+
+An Act to make provision for an Animal Sentience Committee with functions relating to the effect of government policy on the welfare of animals as sentient beings.
+
+\[28th April 2022\]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Animal Sentience Committee
+
+### 1. Animal Sentience Committee[^key-03437c600e1d2d414e5a9a4f91c871b0][^key-24845568f31137b449d451d6765abc6d]
+
+(1) The Secretary of State must establish and maintain a committee called the Animal Sentience Committee.
+
+(2) The members of the Committee are to be appointed by the Secretary of State.
+
+(3) The appointment of a person to the Committee is to be on such terms as the Secretary of State may determine when making the appointment.
+
+### 2. Reports of the Committee[^key-eabd8536b8085b120115726617fd0ae3][^key-eefe51d2f42501c0e8277b167cfe7c2d]
+
+(1) When any government policy is being or has been formulated or implemented, the Animal Sentience Committee may produce a report containing its views on the question in subsection (2).
+
+(2) The question is whether, or to what extent, the government is having, or has had, all due regard to the ways in which the policy might have an adverse effect on the welfare of animals as sentient beings.
+
+(3) The report may also contain recommendations as to the steps the Committee considers the government should take for the purpose in subsection (4).
+
+(4) The purpose is that of ensuring that, in any further formulation or implementation of the policy, the government has all due regard to the ways in which the policy might have an adverse effect on the welfare of animals as sentient beings.
+
+(5) Recommendations made by the Committee must respect legislative or administrative provisions and customs relating in particular to religious rites, cultural traditions and regional heritage.
+
+(6) A report under this section must be published in such manner as the Committee thinks appropriate.
+
+(7) References in this section to government policy are to policy of the government of the United Kingdom, but do not include any policy if, or to the extent that, the policy relates to legislative provision falling within devolved competence.
+
+(8) For the purposes of subsection (7) legislative provision falls within devolved competence if and to the extent that—
+
+- (a) the provision would be within the legislative competence of the Scottish Parliament if contained in an Act of that Parliament,
+- (b) the provision would be within the legislative competence of Senedd Cymru if contained in Act of the Senedd (including any provision that could only be made with the consent of a Minister of the Crown), and
+- (c) the provision would be within the legislative competence of the Northern Ireland Assembly if contained in an Act of that Assembly made without the Secretary of State’s consent.
+
+### 3. Response to reports[^key-4621d7a762abfbd7d22e3871399eb940][^key-275574fedc0c6680fd84e22547c9b877]
+
+(1) Where the Animal Sentience Committee publishes a report under section 2, the Secretary of State must lay a response to the report before Parliament within the period specified in subsection (2).
+
+(2) The period is three months beginning with the day on which the Committee’s report is published.
+
+(3) The following do not count towards the three months referred to in subsection (2)—
+
+- (a) any day in a period during which Parliament is dissolved or prorogued, and
+- (b) any day in a period of four or more days during which both Houses of Parliament are adjourned.
+
+## Supplementary and general
+
+### 4. Information[^key-dd4872e0905c3b5f0915efc44db4c75b][^key-2f5a86a5e010f9bcb55ea25c6ea606f9]
+
+(1) In Schedule 1 to the Public Records Act 1958 (definition of public records), in Part 1 of the table, in the second column, after the entry relating to Agricultural Wages Committees insert—
+
+> |  |
+> | --- |
+> | The Animal Sentience Committee. |
+
+(2) In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which that Act applies) at the appropriate place insert—
+
+> - The Animal Sentience Committee.
+
+### 5. Interpretation[^key-60652fc50f1fa8a7104cc9f0c2dea12d][^key-37528e3ce817dadf1e89440596f35443]
+
+(1) In this Act “**animal**” means—
+
+- (a) any vertebrate other than *homo sapiens,*
+- (b) any cephalopod mollusc, and
+- (c) any decapod crustacean.
+
+(2) The Secretary of State may by regulations amend this section so as to bring invertebrates of any description within the meaning of “**animal**” for the purposes of this Act, where they are not already within that meaning.
+
+(3) Regulations under this section must be made by statutory instrument.
+
+(4) Regulations under this section may not be made unless a draft of the instrument containing them has been laid before, and approved by resolution of, each House of Parliament.
+
+(5) In this section “vertebrate” and “invertebrate” have the meanings given by section 1(5) of the Animal Welfare Act 2006.
+
+### 6. Extent, commencement and short title[^key-5e7e87ba630fb12349c3502edfd6b4e0]
+
+(1) This Act extends to England and Wales, Scotland and Northern Ireland.
+
+(2) This Act, apart from this section, comes into force on such day or days as the Secretary of State may by regulations made by statutory instrument appoint.
+
+(3) This section comes into force on the day on which this Act is passed.
+
+(4) This Act may be cited as the Animal Welfare (Sentience) Act 2022.
+
+## Annotations
+
+[^key-03437c600e1d2d414e5a9a4f91c871b0]: Commencement: S. 1 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/22/section/6/2)
+
+[^key-24845568f31137b449d451d6765abc6d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/22/section/1) in force at 22.5.2023 by [S.I. 2023/563](https://www.legislation.gov.uk/uksi/2023/563), [reg. 2](https://www.legislation.gov.uk/uksi/2023/563/regulation/2)
+
+[^key-eabd8536b8085b120115726617fd0ae3]: Commencement: S. 2 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/22/section/6/2)
+
+[^key-eefe51d2f42501c0e8277b167cfe7c2d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/22/section/2) in force at 22.5.2023 by [S.I. 2023/563](https://www.legislation.gov.uk/uksi/2023/563), [reg. 2](https://www.legislation.gov.uk/uksi/2023/563/regulation/2)
+
+[^key-4621d7a762abfbd7d22e3871399eb940]: Commencement: S. 3 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/22/section/6/2)
+
+[^key-275574fedc0c6680fd84e22547c9b877]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/22/section/3) in force at 22.5.2023 by [S.I. 2023/563](https://www.legislation.gov.uk/uksi/2023/563), [reg. 2](https://www.legislation.gov.uk/uksi/2023/563/regulation/2)
+
+[^key-dd4872e0905c3b5f0915efc44db4c75b]: Commencement: S. 4 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/22/section/6/2)
+
+[^key-2f5a86a5e010f9bcb55ea25c6ea606f9]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/22/section/4) in force at 22.5.2023 by [S.I. 2023/563](https://www.legislation.gov.uk/uksi/2023/563), [reg. 2](https://www.legislation.gov.uk/uksi/2023/563/regulation/2)
+
+[^key-60652fc50f1fa8a7104cc9f0c2dea12d]: Commencement: S. 5 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/22/section/6/2)
+
+[^key-37528e3ce817dadf1e89440596f35443]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/22/section/5) in force at 22.5.2023 by [S.I. 2023/563](https://www.legislation.gov.uk/uksi/2023/563), [reg. 2](https://www.legislation.gov.uk/uksi/2023/563/regulation/2)
+
+[^key-5e7e87ba630fb12349c3502edfd6b4e0]: Commencement: S. 6 in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/22/section/6/3)

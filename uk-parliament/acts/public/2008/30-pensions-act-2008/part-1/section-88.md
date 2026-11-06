@@ -1,0 +1,40 @@
+---
+title: Pensions Act 2008, section 88
+act: Pensions Act 2008
+section: '88'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2008/30/section/88
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pensions Act 2008, section 88
+
+> **Warning: changes not yet applied to this text (79).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/30
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 88. “Employer”, “worker” and related expressions
+
+*Extent: E+W+S*
+
+(1) This section applies for the purposes of this Part.
+
+(2) “**Contract of employment**” means a contract of service or apprenticeship, whether express or implied, and (if it is express) whether oral or in writing.
+
+(3) “**Worker**” means an individual who has entered into or works under—
+
+- (a) a contract of employment, or
+- (b) any other contract by which the individual undertakes to do work or perform services personally for another party to the contract.
+
+(4) But a contract is not within subsection (3)(b) if the status of the other party is by virtue of the contract that of a client or customer of a profession or business undertaking carried on by the individual concerned.
+
+(5) For the purposes of subsection (3)(b), it does not matter whether the contract is express or implied or (if it is express) whether it is oral or in writing.
+
+(6) Any reference to a worker's contract is to be read in accordance with subsections (3) to (5).
+
+(7) “**Employer**”, in relation to a worker, means the person by whom the worker is employed (subject to sections 37(5) and 38(6)).
+
+(8) “**Employment**” in relation to a worker, means employment under the worker's contract, and related expressions are to be read accordingly.

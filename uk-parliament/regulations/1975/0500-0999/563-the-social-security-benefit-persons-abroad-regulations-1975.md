@@ -1,0 +1,768 @@
+---
+title: The Social Security Benefit (Persons Abroad) Regulations 1975
+id: uksi/1975/563
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1975-04-03'
+text_date: '2026-04-06'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1975/563
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1975/563/pdfs/uksi_19750563_310319_en.pdf
+- http://www.legislation.gov.uk/uksi/1975/563/pdfs/uksi_19750563_310817_en.pdf
+- http://www.legislation.gov.uk/uksi/1975/563/pdfs/uksi_19750563_300617_en.pdf
+- http://www.legislation.gov.uk/uksi/1975/563/pdfs/uksi_19750563_290216_en.pdf
+- http://www.legislation.gov.uk/uksi/1975/563/pdfs/uksi_19750563_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1975/563/pdfs/uksi_19750563_280215_en.pdf
+- http://www.legislation.gov.uk/uksi/1975/563/pdfs/uksi_19750563_en.pdf
+- http://www.legislation.gov.uk/uksi/1975/563/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Social Security Benefit (Persons Abroad) Regulations 1975
+
+> Text as at 2026-04-06.
+
+1975 No. 563
+
+SOCIAL SECURITY
+
+The Social Security Benefit (Persons Abroad) Regulations 1975
+
+Made
+
+3rd April 1975
+
+Laid before Parliament
+
+4th April 1975
+
+Coming into Operation
+
+6th April 1975
+
+The Secretary of State for Social Services, in exercise of the powers conferred upon her by sections 21(3), 30(3), 32(5), 82(5), 114(1), 131 and 132 of the Social Security Act 1975 and of all other powers enabling her in that behalf, without having referred any proposals on the matter to the National Insurance Advisory Committee or the Industrial Injuries Advisory Council since it appears to her that by reason of urgency it is inexpedient to do so, hereby makes the following regulations:—[^key-fbfe9fa768c86183f90d6d30d7729085]
+
+## 1. Citation, commencement and interpretation
+
+(1) These regulations may be cited as the Social Security Benefit (Persons Abroad) Regulations 1975 and shall come into operation on 6th April 1975.
+
+(2) In these regulations, unless the context otherwise requires—
+
+- “**the Act**” means the Social Security Act 1975;
+- [^key-4ff788be49f6c9fcde075503717cbec7]...
+- [^key-4ff788be49f6c9fcde075503717cbec7]...
+- [^key-4ff788be49f6c9fcde075503717cbec7]...
+- **“the Child Benefit Act”[^key-c56cc33baeeb08b8cf5dc6fd8b752947]** means the Child Benefit Act 1975
+- “the[^key-75e48bb948fee3492516656e9f2877b3] Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992;
+- “**the Contributions Regulations**” means the Social Security (Contributions) Regulations 1979[^key-d5d4114c7c656780ac820200d678cc92];
+- “**the former Death Grant Regulations**” means the National Insurance (Death Grant) Regulations 1973;
+- “**the former Principal Act**” means the National Insurance Act 1965;
+- “**the former Widow's Benefit and Retirement Pensions Regulations**” means the National Insurance (Widow's Benefit and Retirement Pensions) Regulations 1972;
+- “guaranteed minimum pension” has the meaning given to it in section 26(2) of the Social Security Pensions Act 1975 as construed in accordance with section 9 of the Social Security Act 1986;[^M_F_f335eeaa-ee12-4c85-ad7e-e2e6d6fdce31]
+- [^key-9337366e48fa02df6d43275e62ec73be]...
+- “**the Industrial Injuries Employment Regulations**” means the Social Security (Employed Earners' Employments for Industrial Injuries Purposes) Regulations 1975;
+- “jobseeker’s allowance” means an allowance under the Jobseekers Act 1995 as amended by the provisions of Part 1 of Schedule 14 to the Welfare Reform Act 2012 that remove references to an income-based allowance, and a contribution-based allowance under the Jobseekers Act 1995 as that Act has effect apart from those provisions;[^key-0abf207b65016b7aba3863266c107f82]
+- “the other party” in the case of a person who has been married or been in a civil partnership more than once, refers to the person by virtue of whose contributions that person is entitled to the benefit in question;[^key-20b554bc655046673add23c01617029b]
+- “**the Overlapping Benefits Regulations**” means the National Insurance (Overlapping Benefits) Regulations 1975;
+- “**the former Old Persons' Pensions Regulations**” means the National Insurance (Old Persons' Pensions) Regulations 1970;
+- “**retired**” means retired from regular employment;
+- “serving member of the forces” has the meaning given to it in regulation 1(2) of the Contributions Regulations;[^key-fb5a6ea8602eb796df937afc845bb1c7]
+- “shared additional pension” means a shared additional pension under section 55A[^key-f21fed5e4b0394d785884f39580b7a4a] or 55AA[^key-3783d1ac9356270e2dcd5ea92f88fd28] of the Contributions and Benefits Act;
+- “**the Special Provisions Regulations**” means the Social Security (Benefit) (Married Women and Widows Special Provisions) Regulations 1974:
+- “**the Widow's Benefit and Retirement Pensions Regulations**” means the Social Security (Widow's Benefit and Retirement Pensions) Regulations 1974;
+- “**widow's benefit**” and “**widow's pension**” include benefit under section 39(4) of the Act corresponding to a widow's pension or a widowed mother's allowance;
+- “widowed parent’s allowance” means an allowance referred to in section 39A of the Social Security Contributions and Benefits Act 1992;[^key-d08d29c460cfb2540c98fa6e325bfa63]
+- **“child benefit[^key-cb0e577557c31dd98b02390f9e5594ae]**” means benefit under Part I of the Child Benefit Act;
+- “**entitled to child benefit**” includes treated as so entitled;
+
+and other expressions have the same meanings as in the Act.
+
+(3) Any reference in these regulations to any provision made by or contained in any enactment or instrument shall, except in so far as the context otherwise requires, be construed as a reference to that provision as amended or extended by any enactment or instrument, and as including a reference to any provision which it re-enacts or replaces, or which may re-enact or replace it, with or without modification.
+
+(4) The rules for the construction of Acts of Parliament contained in the Interpretation Act 1889 shall apply for the purposes of the interpretation of these regulations as they apply for the purposes of the interpretation of an Act of Parliament.
+
+## 2. Modification of the Act in relation to incapacity benefit, severe disablement allowance, unemployability supplement and maternity allowance[^key-030a57b0a7a9246660b08052a5789f61][^key-a3356a71e26edb13bf912795d173e012]
+
+(1) Except as provided by paragraph (1A) or (1B) below,[^key-30e22552d3a1cf1fdf428ddcbd5a525b] a person shall not be disqualified for receiving any benefit in respect of incapacity[^key-6af845a125197ae3b19c9b4c545ae843] by reason of being temporarily absent from Great Britain for any day falling within the first twenty-six weeks beginning with the day following the day on which he left Great Britain[^key-512267ea4dcc57c302725a4dd7c67687] if—
+
+- (a)[^key-026c14f75c7e5f5fbe9f6ba823ee224b] the Secretary of State has certified that it is consistent with the proper administration of the Act that, subject to the satisfaction of one of the conditions in sub-paragraphs (b), (bb)[^key-0986e8162459fee17d2ef1af313120d4]and (c)[^key-c586ff3af9cabf52e4025f05b6141df1] below, the disqualification under section 82(5)(a) of the Act should not apply, and [^key-0c98f1d76d4720cde8eba5e680d9f4a5]...
+- (b) the absence is for the specific purpose of being treated for incapacity which commenced before he left Great Britain, or
+- (bb)[^key-d0511a6bcf1e3d78cdec178485e134bd] in the case of[^M_F_a0a0f50c-4abc-4971-c64f-f7e94e6dc3ec] incapacity benefit[^key-27a88203e8ef09df1da0a97b813486d9], the incapacity for work is the result of a personal injury of a kind mentioned in section 50(1) of the Act, and the absence is for the specific purpose of receiving treatment which is appropriate to that injury, or
+- (c) on the day on which the absence began he was, and had for the past 6 months continuously been, incapable of work and on the day for which benefit is claimed he has remained continuously so incapable since the absence began[^key-649697de12fb169c2332955d19af7562][^key-a4ce86cb3013b5c2c6a8ed7066249ca4]...
+- (d)[^key-a4ce86cb3013b5c2c6a8ed7066249ca4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1A)[^key-2cfd13e4d75a8bf873888a141065cc0e] Subject to paragraph (1B), a person who is in receipt of attendance allowance, disability living allowance[^key-6003a9d5c7e08843b25fe821ab18c3da], armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^key-feb4474fb445cb6377f1dec811a7463b] , personal independence payment[^key-541e0d51ff012c3164d406ff04b412a2] under Part 4 of the Welfare Reform Act 2012 or Scottish disability assistance[^key-25f965134682a1b11aa93c760ad00739] shall not by reason of being temporarily absent from Great Britain be disqualified for receiving any benefit in respect of incapacity if—
+
+- (a) the absence is for the specific purpose of being treated for incapacity which commenced before he left Great Britain; or
+- (b) in the case of incapacity benefit[^key-ee9ca17470bc4bce03780bfc10124afd] the incapacity for work is the result of a personal injury of a kind mentioned in section 94(1) of the Social Security Contributions and Benefits Act 1992 and the absence is for the specific purpose of receiving treatment which is appropriate to that injury; or
+- (c) on the day on which the absence began he was, and had for the past 6 months continuously been, incapable of work and on the day for which benefit is claimed he has remained continuously so incapable since the absence began.
+
+(1B) A person who is a member of the family of a serving member of the forces and temporarily absent from Great Britain by reason only of the fact that he is living with that member shall not by reason of being temporarily absent be disqualified—
+
+- (a) for receiving any benefit in respect of incapacity except severe disablement allowance if—
+  - (i) the absence is for the specific purpose of being treated for incapacity which began before he left Great Britain, or
+  - (ii) in the case of incapacity benefit[^key-562ab4d11c8b41b21596e4f3103f6636] the incapacity for work is the result of a personal injury of a kind mentioned in section 94(1) of the Social Security Contributions and Benefits Act 1992 and the absence is for the specific purpos of receiving treatment which is appropriate to that injury, or
+  - (iii) on the day on which the absence began he was, and had for the past 6 months continuously been, incapable of work and on the day for which benefit is claimed he has remained continuously so incapable since the absence began; or
+- (b) for the receipt of severe disablement allowance.
+
+(2)[^key-f4a529efbca3c391350a7c7bc1f6ef55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-05eb9ebe48c7427820d41880905a1424] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-05eb9ebe48c7427820d41880905a1424] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-87e218334023e492b2d31582c7aee4c2] In this regulation—
+
+- (a) “benefit in respect of incapacity” means incapacity benefit[^key-076889bd54e92968c4ab064b43bbe6d9], severe disablement allowance, an unemployability supplement or a maternity allowance;
+- (b) “member of the family of a serving member of the forces” means the spouse, civil partner,[^key-fd53aaba69c49adf21367bf601978842] son, daughter, step-son, step-daughter, father, father-in-law, step-father, mother, mother-in-law or step-mother of such a member; [^key-722ad1753546c5a44940abfc30054131]...
+- (ba)[^key-33d7be50ee922dcaa7684926bd078637] “**Scottish disability assistance**” means disability assistance given in accordance with regulations made under section 31 of the Social Security (Scotland) Act 2018; and
+- (c) “week” means any period of seven days.
+
+## 3. Modifications of the Act in relation to title to maternity grant[^key-d6dd9c5e577e3fb7f6627d479a0d9469]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Modification of the Act in relation to widow's benefit, widowed parent’s allowance, child's special allowance, guardian's allowance and retirement pension[^key-aaf55db69218f54a03965dc2f667e11d]
+
+(1) Subject to the provisions of this regulation and of regulation 5 below, a person shall not be disqualified for receiving widow's benefit, widowed parent’s allowance[^key-fbd080c2fd2640062537a76d653ce06b], child's special allowance, a guardian's allowance, a retirement pension of any category[^M_F_f72ffb7e-4c4e-4481-f3cc-8fc11be56480], a shared additional pension[^key-e0bad1470be616632fea939d45402b7d] or graduated retirement benefit by reason of being absent from Great Britain.
+
+(2) In the case of a widow's allowance paragraph (1) above shall apply only where either—
+
+- (a) the woman or her late husband was in Great Britain at the time of his death; or
+- (b) the contribution conditions for widowed mother's allowance and widow's pension set out in paragraph 5 of Schedule 3 to the Contributions and Benefits Act[^key-15f8400cc4981ecbe79c7164df6b33f4] or in regulation 6 of the Social Security (Widow's Benefit and Retirement Pensions) Regulations 1979[^key-a87dd723e3a76ffdf337a0fe26a52396] are satisfied in relation to the woman.
+
+(2A)[^M_F_43204d49-51c9-4c1a-af8d-0408b6f8304d] In the case of a widow’s payment, paragraph (1) above shall apply only where—
+
+- (a) the woman or her late husband was in Great Britain at the time of his death; or
+- (b) Sub-paragraph (a) above does not apply but the woman returned to Great Britain within 4 weeks of her husband’s death; or
+- (c) the contribution conditions for widowed mother’s allowance and widow’s pension set out in paragraph 5 of Schedule 3 to the Contributions and Benefits Act[^key-971c9e10724994cdc528417e2fa53bd9] or in regulation 6 of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations 1979 are satisfied in relation to the woman.
+
+(2B)[^key-8ad60822bff79b83b23e6092d702202c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-86a49086ad6b585630a931eb37ffad50] In the case of a Category A retirement pension the basic pension[^M_F_ad344de8-367b-4be1-f9a8-e31f70c0134c] of which falls to be increased under the provisions of section 51A(2) or 52(2) of the Contributions and Benefits Act (special provision for married people and for surviving spouses)[^key-cebdc8eaedab4d364ecf642900995ba7], the amount of the increase shall not exceed the sum which would be required to raise the basic pension of that Category A retirement pension to the sum specified in section 44(4) of the Contributions and Benefits Act[^key-06704fbaaa894dbd46bd54d991276daf] (rate of basic pension of Category A retirement pension) or the weekly rate of Category B retirement pension specified in paragraph 5 of Part 1 of Schedule 4 to the Contributions and Benefits Act[^key-ae6b227d1977a37365d9e822a041a71d], as the case may be, current at—
+
+- (a)[^key-ad8144a6f3839d6fbc1a408e3e75a32e] the date on which the person whose pension falls to be so increased first became entitled to that pension; or
+- (b) the date on which that person was last ordinarily resident in Great Britain;
+
+whichever is the later.
+
+(4) Where, in the case of a Category A retirement pension the additional pension of which falls to be increased under the provisions of section 52(3) of the Contributions and Benefits Act[^key-2a0e12cba8ea61c1178619e742d2a552], the surviving spouse or surviving civil partner[^key-e649edc1f5594f131de53c1e01592be6] whose pension falls to be so increased, being over pensionable age at the date of the death of the former spouse or former civil partner[^key-735b1174a6546f6563561d94a95c76f4], is not ordinarily resident in Great Britain, the amount of the increase shall not exceed the sum which would be required to raise the additional pension of that Category A retirement pension to the maximum prescribed by regulation 3 of the Social Security (Maximum Additional Pension) Regulations 2010[^key-71ed558de5a473fa984df158ca58182d] which would have been appropriate had the former spouse or former civil partner died on—
+
+- (a) the date on which the surviving spouse or surviving civil partner was last ordinarily resident in Great Britain; or
+- (b) 6th April 1979;
+
+whichever is the later.
+
+## 5. Application of disqualification in respect of up-rating of benefit[^key-a023accb8c527894c86fc6ad1b261a73][^key-acbf6e504313666c877d9d8a914f5487][^key-ce08c0b43d86f992329378e269015a2d][^key-e0c00e9b5d415d8131d6f790d01e37e3][^key-eafd14f9f728b3e46e9b527528f68395][^key-3e09932cfb2a0db650d4151695fa179c][^key-802197b78d2cbb9673b91629b9994ffc][^key-0170f3d0cf46a7a53db6c75fda58b953][^key-5e3a75704e0cb0219a60f2ab46de7e36][^key-e20bc45382d3e7737fbab28be32b758a][^key-9b334e41d6e6506161dfc349c68f3327][^key-602207483b20e390664a972a03f53f38][^key-903d9fd4ee4caa33ce4d69fbe33b8f79][^key-8e8f2a7d0f86393527c7905cfc68ca60][^key-6b810c99000fa8aab26c915891ab53e8][^key-8cd9c9fb08d0dee930eaf37325467658]
+
+(1) Where regulations made in consequence of an order under section 150 (annual up-rating of benefits) or 150A (annual uprating of basic pension[^key-4426d07cc18ff544e1bede8c87895db6] etc and standard minimum guarantee) of the Social Security Administration Act 1992 provide for the application of this regulation to any additional benefit becoming payable by virtue of that order, the following provisions of this regulation shall, subject to regulation 12 below and the provisions of those regulations, have effect in relation to the entitlement to that benefit of persons absent from Great Britain.
+
+(2) In this regulation and in regulation 5A[^M_F_e9c47aa9-b4a5-4da1-fe22-216641e89baa]—
+
+- (a) references to additional benefit of any description are to be construed as referring to additional benefit of that description which is, or but for this regulation would be, payable by virtue (either directly or indirectly) of the said order; and
+- (b) “**the appointed date**” means the date appointed for the coming into force of the said order.
+
+(3) Subject to paragraph (8) and the Schedule below,[^M_F_b9e6b54e-9203-4c12-86d5-5c2f150ecd01] where a person is not ordinarily resident in Great Britain immediately before the appointed date the provisions of these regulations (except this regulation) shall not, unless and until he becomes ordinarily resident in Great Britain, affect his disqualification while he is absent from Great Britain for receiving—
+
+- (a) in the case of a person[^key-3aaaff878198db0127144cd63d6807b2] who immediately before the appointed date was a married person or a civil partner[^key-60510e0e2882da3c99e801b8a2ac946d] and was not entitled to a Category B retirement pension[^key-1ce1b7bfc3715eeaa8e254ffa6f42296], any additional Category B retirement pension, if immediately before that date the other party to the marriage or civil partnership[^key-ca5fb323ab00ce82aa8a2012820a8af8] was entitled to a Category A retirement pension and was not ordinarily resident in Great Britain;
+- (aa)[^M_F_71103e60-d446-427e-a5a6-206740096c43] in the case of a married person or a civil partner[^key-536ffdebd6881b417d151cce310473b4], any additional Category B retirement pension if immediately before the appointed date the other party to the marriage or civil partnership[^key-77925003e598063eb13656fb0d8effd2] was entitled to a Category A retirement pension and was not ordinarily resident in Great Britain (whether or not they were married to each other or were civil partners of each other[^key-412bbc88ed1285e3caf918b027a4ad66] immediately before that date);
+- (b)[^key-fd1eff7594656b18249d31427273a774] in the case of a person who immediately before the appointed date is a widow, a widower or a surviving civil partner[^key-7d3f2840c0225a6fe7bc6fd67354b658], any additional Category B retirement pension, if the former spouse or former civil partner[^key-affafab27de95cb266a272bcf2a6d7fe] had died before the appointed date;
+- (ba)[^key-d31d4e471ad426ca6bcf4d580d417c73] in the case of a married person or civil partner entitled to a Category B retirement pension under section 48A of the Contributions and Benefits Act (Category B retirement pension for a married person or a civil partner), other than a case that falls within sub-paragraphs (a) to (b), any additional Category B retirement pension where immediately before the appointed date that person’s spouse or civil partner was not ordinarily resident in Great Britain;
+- (c) in any other case, any additional retirement pension of any category, any additional shared additional pension[^key-36262e911107ec399322aca5c765be7d] or any additional graduated retirement benefit[^M_F_97f3f5ed-99dc-4ab7-c550-731663533095], if that person had [^key-3a318d4a3be5c1706f232e66b1c6664f]... become entitled to a retirement pension, a shared additional pension[^key-a1ac366b6ced4cc3433c0c31a1aaa226] or to graduated retirement benefit[^M_F_0183a048-73a8-451c-8329-47406cad5985] before the appointed date;
+- (d) any additional widow's benefit or[^key-7e0b14c24de37df62ff782c1aa91bfc8] widowed parent’s allowance[^key-7c20bdcd5a71c98f37a3f211a842a4b4] if the deceased spouse or deceased civil partner[^key-a11f4a150718cab622526a07a7122f24] had become entitled to a Category A retirement pension or had[^key-1b66ce32c545d8e6ca15cba8c06eeb11] died before the appointed date;
+- (e) any additional child's special allowance if her former husband had died before the appointed date.
+- (f)[^key-70295be4fae0e6667e94316ce63e454c] any additional guardian's allowance in respect of a child if he were entitled to that allowance in respect of that child before the appointed date.
+
+(4)[^key-cb94a574a87a427a6ed9afaee4499a3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The provisions of these regulations shall not affect the disqualification while absent from Great Britain of a widow who—
+
+- (a) is not ordinarily resident in Great Britain immediately before the appointed date, and was entitled to widow's benefit immediately before attaining pensionable age, or would, but for any provision of the Act disqualifying her for the receipt of such benefit, have been so entitled; and
+- (b) is or becomes entitled to a Category A retirement pension the right to which is determined by taking into account under regulation 8 of the Social Security (Widow's Benefit and Retirement Pensions) Regulations 1979[^key-5f0fc48f0d25a7e8c1858ce31532455f] her husband's contributions;
+
+for receiving any additional Category A retirement pension the right to which is so determined unless and until she becomes ordinarily resident in Great Britain if—
+
+- (i) before the appointed date her husband was entitled to a Category A retirement pension[^key-128d076b60b35ab1486862a0f1c1ed50] and was not ordinarily resident in Great Britain; or
+- (ii) he died before the appointed date.
+
+(6)[^key-2ada188e70f6143d5f2e81b5be47202b] Subject to paragraph (8) and the Schedule below,[^M_F_64f1fecd-a0b0-4abf-a45f-919a0e61fc79] the provisions of these regulations shall not affect the disqualification while absent from Great Britain of a person referred to in regulation 8 of the Social Security (Widow's Benefit and Retirement Pensions) Regulations 1979, being any such person other than a widow, who—
+
+- (a) is not ordinarily resident in Great Britain immediately before the appointed date; and
+- (b) is or becomes entitled to a Category A retirement pension the right to which is determined by taking into account under regulation 8 of the Social Security (Widow's Benefit and Retirement Pensions) Regulations 1979 the contributions of that person's former spouse or former civil partner[^key-19fed3c0c9d11ff105d7f5e51aa2edaa];
+
+for receiving any additional Category A retirement pension the right to which is so determined unless and until that person becomes ordinarily resident in Great Britain if—
+
+- (i) before the appointed date the former spouse or former civil partner was entitled to a Category A retirement pension[^key-354beeb5b9b1392e4f82432ef4fecfc9] and was not ordinarily resident in Great Britain; or
+- (ii) the former spouse or former civil partner died before the appointed date.
+
+(7)[^key-47b4c77f62a9d725e70d6a41ae502f5c] Paragraph (3)(c) of this regulation shall not apply to a person in relation to a Category B retirement pension if that person's spouse or civil partner[^key-5294eebe2adf2a909888711aaa520321] was not entitled to a Category A retirement pension[^key-7a8d753142647aa6b6221ed440cce212] before the appointed date and either that person and that person's spouse or civil partner—
+
+- (i) were husband and wife or were civil partners[^key-6508b7b0bb00f2c8be171b0a817265dd] immediately before that date; or
+- (ii) became husband and wife or formed a civil partnership[^key-a949566f0fb727a768f1e6c15dd4b15e] on or after that date.
+
+(8)[^M_F_410d0131-4b6a-4b7e-8d06-305ed1c0c5a2] The Schedule below shall have effect in relation to the disqualification of persons for receiving additional benefit in the circumstances specified in that Schedule (being certain cases in which a person was awarded a widow’s benefit or a retirement pension or a higher rate of retirement pension between 1st September 1985 and 7th August 1991).
+
+## 5A. Rate of guaranteed minimum pension for the purposes of section 29 of the Pensions Act[^M_F_351b4712-16c7-4e4b-d0bb-6d18cc83a9b9]
+
+Where a person is absent from Great Britain and disqualified for receiving additional Category A or Category B retirement pension, additional widowed mother’s allowance,[^key-fae816b0ca8076b323eb8985eaa6b9f1] [^key-63d7bfaadc79fa267e0c8dcdfbf461cf]... widowed parent’s allowance or additional widow’s pension then—
+
+- (a) the rate of guaranteed minimum pension shall for the purposes only of section 29(1) of the Pensions Act be determined in his case as if any Order under section 37A of the Pensions Act which came into force while he was disqualified had instead come into force on the first day on which he ceased to be disqualified, and
+- (b) so long as the person is disqualified, section 37A(7) shall apply to him as if the reference to section 29(1) were omitted.
+
+## 6. Modification of right to elect to be treated as not having retired
+
+Notwithstanding the provisions of regulation 2 of the Widow's Benefit and Retirement Pensions Regulations [^key-a9fb87348f89e677aa6b32d62017cb39]... a person who is not ordinarily resident in Great Britain shall not be entitled to elect that that regulation shall apply in his case.
+
+## 7. Modification of the Act in relation to death grant[^key-64610d6b0ca79c17a4c94be661ff4999]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Modification of the Act in relation to age addition
+
+(1) A person shall not be disqualified for receiving age addition by reason of being absent from Great Britain if—
+
+- (a) he is ordinarily resident in Great Britain; or
+- (b) he was ordinarily resident in Great Britain and was entitled to age addition before he ceased to be ordinarily so resident; or
+- (c) in the case of a person who ceased to be ordinarily resident in Great Britain before 20th September 1971, he is entitled to a retirement pension of any category and, by virtue of an Order in Council made under section 143 of the Act or under section 105 of the former Principal Act, he is not disqualified for receiving that pension at a higher rate than was applicable in his case when he was last ordinarily resident in Great Britain; or
+- (d) in the case of a person who ceased to be ordinarily resident in Great Britain on or after 20th September 1971, he is entitled to a retirement pension of any category, and had he ceased to be ordinarily resident in Great Britain before that date, by virtue of an Order in Council made under section 143 of the Act or under section 105 of the former Principal Act, he would not have been disqualified for receiving that pension at a higher rate after that date than before it.
+
+(2) Where a person is entitled to a retirement pension of any category at a rate which is calculated by reference to any period completed by that person in some territory outside Great Britain, any age addition to which he may be entitled shall be calculated as if it were an increase in that pension.
+
+## 9. Modification of the Act in relation to title to ... disablement benefit and industrial death benefit[^key-a7a20aaecb43fddb4e5ab66102806ff9]
+
+(1)[^key-eb427cfeb35fd9b6026a1afcc315eaed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-4a285bd0664bd2ebe25fa96dfc94de5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A person shall not be disqualified for receiving disablement benefit (other than any increase thereof under sections 58, 59, 61, 62, 63 or 66 of the Act)[^key-956591ee1204545c9410e747cca75e30] by reason of being absent from Great Britain.
+
+(4) A person shall not be disqualified for receiving an increase of disablement pension in respect of the need for constant attendance under section 61, or under regulations made under section 159(3), or in respect of exceptionally severe disablement under section 63, of the Act, by reason of being temporarily absent from Great Britain during the period of 6 months from the date on which such absence commences or during such longer period as the Secretary of State may, having regard to the purpose of the absence and any other factors which appear to him to be relevant, allow.
+
+(5) A person shall not be disqualified for receiving reduced earnings allowance under section 59A of the Act,[^key-4414c1ee1a2bb87751f61fb21816f129] by reason of being temporarily absent from Great Britain during the period of 3 months from the date on which such absence commences or during such longer period as the Secretary of State may, having regard to the purpose of the absence and any other factors which appear to him to be relevant, allow, so however that—
+
+- (a) such absence or any part thereof is not for the purpose of or in connection with any employment, trade or business;
+- (b) a claim as a result of which a decision is given awarding such allowance in respect of such period of absence or part thereof was made before the commencement of such absence; and
+- (c) the period taken into account by the award of such allowance to that person either includes the day of commencement of such absence or follows a period so taken into account which includes that day without there being a break in entitlement by that person to such increase from that day.
+
+(6) A person shall not be disqualified for receiving industrial death benefit by reason of being absent from Great Britain.
+
+(7)[^key-698732b6564ddcfb58318f7687597d49] A person shall not be disqualified for receiving retirement allowance under paragraph 13 of Schedule 7 to the Contributions and Benefits Act by reason of being absent from Great Britain.
+
+## 10. Modification of the Act in relation to attendance allowance
+
+A person shall not be disqualified for receiving attendance allowance or disability living allowance[^key-5fc0c2ff92affc970205887d693df1f1] by reason of being absent from Great Britain.
+
+## 10A. Modification of the Act in relation to mobility allowance[^key-5da49b227143d848757e15ab44304068][^M_F_a90b2374-7a79-469b-eea4-2134f465ae80]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10B. Modification of the Act in relation to invalid care allowance[^M_F_70681fb8-a65a-44e7-a8a4-838090ad05d6]
+
+A person shall not be disqualified for receiving a carer’s allowance[^key-fbfc72a1de3d380ced4eea7534ad92f7] by reason of being absent from Great Britain.
+
+## 10C. Modification of Parts II and III of the Act in relation to accidents happening or prescribed diseases contracted outside Great Britain[^M_F_f839ce49-9bcb-4f94-e3c6-28869677383e]
+
+(1) In this regulation—
+
+- **\`prescribed area'** means an area over which Norway or any member State [^key-0045b0f356bb649626adceaa32ced44e]...exercises sovereign rights for the purpose of exploring the seabed and subsoil and exploiting their natural resources, being an area outside the territorial seas of Norway or such member State;
+- **\`prescribed disease'** means a disease or injury prescribed for the purposes of Chapter V of Part II of the Act; and
+- **\`prescribed employment'** means employment in a prescribed area in connection with the exploration of the seabed and subsoil and the exploitation of the natural resources of that area, or prescribed employment as defined in regulation 11 of these regulations (modification of the Act in relation to the United Kingdom continental shelf).
+
+(2) Where on or after 30th November 1964 a person sustains or has sustained an accident or contracts or has contracted a prescribed disease while outside Great Britain, for the purposes of Chapter IV or V of Part II of the Act (benefit for industrial injuries and diseases) section 50(5) of the Act or regulation 14 of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations 1975 shall not operate to make benefit not payable in respect of that accident or prescribed disease if that person—
+
+- (a) in connection with prescribed employment has sustained the accident or contracted the prescribed disease in a prescribed area, or while travelling between one prescribed area and another, or while travelling between a designated area (as defined in regulation 11 of these regulations) and a prescribed area, or while travelling between Norway, a member State or the United Kingdom[^key-bb8a2eefffb4c1663752e69fe78fd4be] and a prescribed area; or
+- (b) has sustained the accident or contracted the prescribed disease while in the territory of a member State[^key-2a33f72ef88577840718b87891da928c]....
+
+(2A)[^M_F_b2de9283-123f-41e1-fa02-4070a2ffbbd2] Where a person sustains an accident or contracts a prescribed disease while outside Great Britain in circumstances to which paragraph (2)(a) applies and the employment of that person would, but for the employment being outside Great Britain, have been employed earner's employment, that employment shall for the purposes of Chapter IV or V of Part II of the Act (benefit for industrial injuries and diseases) be treated as employed earner's employment if:—
+
+- (a) that person is ordinarily resident in Great Britain and immediately before the commencement of the employment was resident therein, and
+- (b) the employer of that person has a place of business in Great Britain.
+
+(3) Where, before the date on which this regulation comes into operation, a decision has been given disallowing a claim for industrial injuries benefit in respect of an accident sustained or a prescribed disease contracted on or after 30th November 1964, then notwithstanding the provisions of section 107(6)(b) of the Act (decision that an accident not an industrial accident not reviewable) that decision may be reviewed by an insurance officer under section 104(1)(b) of the Act (review on ground of relevant change of circumstances) if he is satisfied that had paragraphs (1) and (2) of this regulation been in force when that decision was given those paragraphs would have applied, but a decision on review under this paragraph shall not make industrial injuries benefit payable for any period before the date on which this regulation comes into operation.
+
+(4) Paragraph (3) of this regulation shall apply to a decision refusing a declaration that an accident was an industrial accident as it applies to a decision disallowing a claim for industrial injuries benefit.
+
+(5)[^M_F_729ee349-1d5d-427c-8abf-b46ab39a6c13] Where on or after 1st October 1986 a person to whom this paragraph applies sustains an accident arising out of, and in the course of, his employment, or contracts a prescribed disease due to the nature of his employment, such employment shall for the purposes of Chapters IV and V of Part II of the Act (benefit for industrial injuries and diseases) be treated as employed earner's employment notwithstanding that he is employed outside Great Britain, and any benefit which would be payable under those chapters but for the provisions of section 50(5) of the Act and regulation 14 of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations 1985 shall be payable from the date of his return to Great Britain notwithstanding that the accident happened or the disease was contracted while he was outside it.
+
+(6) Paragraph (5) applies to any person in respect of whom Class 1 contributions are payable by virtue of regulation 120 of the Social Security (Contributions) Regulations 1979 or who is paying Class 2 (volunteer development workers) contributions under Case G of those regulations.
+
+## 11. Modification of the Act in relation to employment on the Continental Shelf
+
+(1) In this regulation—
+
+- “**the Continental Shelf Act**” means the Continental Shelf Act 1964;
+- “**designated area**” means any area which may from time to time be designated by Order in Council under the Continental Shelf Act as an area within which the rights of the United Kingdom with respect to the seabed and subsoil and their natural resources may be exercised;
+- “**prescribed disease**” means a disease or injury prescribed for the purposes of Chapter V of Part II of the Act; and
+- **'prescribed employment'[^key-f324f679dde997beec47c8c1d7af6d47]** means any employment (whether under a contract of service or not) in any designated area or prescribed area, being employment in connection with any activity mentioned in section 23(2) of the Oil and Gas (Enterprise) Act 1982 in any designated area or in any prescribed area
+- **'prescribed area'[^key-4ef46e07d3cfb65f9647241f8fa93c15]** means any area over which Norway or any member State [^key-39e0b7bb5cc552be583d39f4469b48a9]...exercises sovereign rights for the purpose of exploring the seabed and subsoil and exploiting their natural resources, being an area outside the territorial seas of Norway or such member State, or any other area which is from time to time specified under section 22(5) of the Oil and Gas (Enterprise) Act 1982.
+
+(1A)[^M_F_43f0e404-642d-4ab9-dcf7-370005289769] Where a claimant would be entitled to a [^key-ed84eac0efdf57e9c045bd76dbde44fc]... jobseeker’s allowance but for section 1(2)(i) of the Jobseekers Act 1995 (conditions of entitlement to a jobseeker’s allowance: requirement to be in Great Britain), he shall be entitled to a [^key-ed84eac0efdf57e9c045bd76dbde44fc]... jobseeker’s allowance notwithstanding his absence from Great Britain if—
+
+- (a) the absence from Great Britain is due to his being or having been in prescribed employment in a designated area; or
+- (b) subject to paragraph (2B), he is, in connection with prescribed employment–
+  - (i) in a prescribed area; or
+  - (ii) travelling between one prescribed area and another; or
+  - (iii) travelling between a designated area and a prescribed area; or
+  - (iv) travelling between Norway, a member State or the United Kingdom[^key-6c2c4ca197b4c239cfd0b64ab1e376bd] and a prescribed area.
+
+(2) Where benefit under Part II of the Act would, but for the provisions of section 82(5)(a) of the Act (absence from Great Britain), be payable to a person in a designated area, that benefit shall be payable notwithstanding the absence of that person from Great Britain, if the absence is due to his being or having been in prescribed employment in a designated area[^key-0e331d2997db750b92b057cffc268da7].
+
+(2A)[^key-de03fe44beb2bb2ef2fb9c56f52ebb37] Subject to paragraph (2B) where benefit under Part II of the Act would be payable to a person were that person in Great Britain, that person shall not be disqualified for receiving such benefit by reason only of the fact that he is, in connection with prescribed employment:—
+
+- (a) in a prescribed area; or
+- (b) travelling between one prescribed area and another; or
+- (c) travelling between a designated area and a prescribed area; or
+- (d) travelling between Norway, a member State or the United Kingdom[^key-bd500fc1bc2d2181149dbd7bea808b51] and a prescribed area.
+
+(2B) Paragraphs (1A) and (2A)[^M_F_d79ad14e-eb14-4540-aa71-97690ba0e895] shall not apply where, under the legislation administered by Norway or any member State[^key-48a29c061a4e2cc312883a85ef2705c2]... benefit is payable in respect of a person for the same contingency and for the same period for which benefit is claimed under the Act.
+
+(3) Where benefit under Chapter IV or V of Part II of the Act would, but for the provisions of section 50(5) of the Act, be payable to a person in respect of an accident arising out of and in the course of, or a prescribed disease due to the nature of, any employment by virtue of which any person is treated as an employed earner under paragraph 7 of Part I of Schedule 1 to the Industrial Injuries Employments Regulations, that benefit shall be payable notwithstanding that the accident happens or the disease is contracted while such person is outside Great Britain, if at the time that the accident happens or the disease is contracted the person is either in a designated area or travelling from one designated area to another or from or to Great Britain to or from a designated area.
+
+(4) The provisions of the Act and of the regulations and orders made thereunder, and the Jobseekers Act 1995 and regulations made thereunder[^M_F_7b296d41-701a-4d0f-c83a-b171d9389d1e] shall, so far as they are not inconsistent with the provisions of this regulation, apply in relation to persons in prescribed employment with this modification, that where such a person is, on account of his being outside Great Britain by reason of his employment, being prescribed employment, unable to perform any act required to be done either forthwith or on the happening of a certain event or within a specified time, he shall be deemed to have complied with that requirement if he performs the act as soon as is reasonably practicable, although after the happening of the event or the expiration of the specified time.
+
+## 12. Modification of the Act in relation to the Channel Islands
+
+(1) Notwithstanding any provision of the Act or of these regulations a person shall not—
+
+- (a) be disqualified for receiving any benefit under the Act by reason of absence from Great Britain[^key-266477dbf6d6dd6045cdfeae6bd6ee8a]...;
+- (b) be disentitled to a maternity grant in respect of a confinement outside Great Britain; or
+- (c) be disqualified for receiving a death grant in respect of a death occurring outside Great Britain,
+
+if that person is, or, as the case may be, that confinement or that death occurred, in any part of the Channel Islands which is not subject to an order made under section 143 of the Act or section 105 of the former Principal Act.
+
+(2) A person who—
+
+- (a)
+  - (i) is in any part of the Channel Islands which is not the subject of an order made under section 143 of the Act or section 84 of the National Insurance (Industrial Injuries) Act 1965, or
+  - (ii) is going from (or to) Great Britain to (or from) such a part of the Channel Islands; and who
+- (b) suffers an industrial accident in the course of his employment (being employed earner's employment by virtue of regulation 94 of the Contributions Regulations),
+
+shall, subject to the provisions of section 51 of the Act, be treated as if the employment were employed earner's employment for the purposes of industrial injuries and as if the accident occurred in Great Britain.
+
+## 13. Modification of the Act in relation to a dependant
+
+A husband or wife or civil partner[^key-a871448d8d068a29b8408456262aa786] shall not be disqualified for receiving any increase (where payable) of benefit in respect of his or her spouse or civil partner[^key-90ac005720e1b42c2d232db33a004fe8] by reason of the spouse's or civil partner's[^key-706f4961d81828c2d9a0705aebdf1393] being absent from Great Britain, provided that the spouse or civil partner is residing with the husband, wife or civil partner[^key-4aa8cede1d22ebb5fea848d0a585e619], as the case may be.
+
+## 13A. Modification of the Act in relation to title to benefit for beneficiary's child dependants[^key-dc4613e6561e87744fbfcf95b424de9e]
+
+(1) By reason only of the fact that he is not entitled to child benefit in respect of a child, a person shall not be disentitled from receiving a benefit or an allowance or an increase of a benefit or an allowance under the Act in respect of a child (hereafter in this regulation referred to as “**child dependency benefit**”) in respect of that child for any period during which he and the child are, or the child is, absent from Great Britain in a country in circumstances in which he would, in pursuance of any agreement with the government of a country outside the United Kingdom, be entitled to receive child dependency benefit in respect of the child were he entitled to child benefit in respect of the child if—
+
+- (a) he would, or could, had he made an appropriate claim, have been entitled to child benefit in respect of the child had all the requirements of section 13(2) and (3) of the Child Benefit Act (requirements as to presence in Great Britain) been satisfied; and
+- (b) in a case where he would not be treated for the purposes of the Child Benefit Act as having the child living with him, he is contributing to the cost of providing for the child, in addition to any contribution he may be required to make under the Act, at a weekly rate not less than that of the child benefit which would be payable to him in respect of the child were child benefit so payable to him; and
+- (c) no other person is entitled to child benefit in respect of the child.
+
+(2) For any period during which a person who is absent from Great Britain would satisfy the requirements of paragraph (1) in relation to a child but for the fact that that child is present in Great Britain, that child shall, for the purposes of that paragraph, be treated as being present in the country in which that person is.
+
+(3) By reason only of the fact that he is not entitled to child benefit in respect of a child, a person shall not be disentitled from receiving child dependency benefit in respect of that child for any period during which he or the child is, or both of them are, absent from Great Britain in circumstances in which, otherwise than in pursuance of such an agreement as is referred to in paragraph (1) or of regulations made under section 142 of the Act (co-ordination with Northern Ireland) were he entitled to child benefit in respect of the child he would be entitled to receive child dependency benefit in respect of the child if—
+
+- (a) he would, or could had he made an appropriate claim, have been entitled to child benefit in respect of the child had all the requirements of section 13(2) and (3) of the Child Benefit Act (requirements as to presence in Great Britain) been satisfied; and
+- (b) in a case where he would not be treated for the purposes of the Child Benefit Act as having the child living with him, he is contributing to the cost of providing for the child, in addition to any contribution he may be required to make under the Act, at a weekly rate not less than that of the child benefit which would be payable to him in respect of the child were child benefit so payable to him; and
+- (c) he establishes that any absence from Great Britain of himself or the child was, when it began, intended to be temporary and has throughout continued to be temporary; and
+- (d) no other person is entitled to child benefit in respect of the child.
+
+(4) For the purpose of paragraph (1), such a person or child as is there referred to may be treated as being absent from Great Britain notwithstanding that he has not previously been present in Great Britain; and for the purposes of paragraph (3), a child born during the absence from Great Britain of his mother shall, if she was pregnant of that child at a time when she was present in Great Britain, be treated as having been present in Great Britain on the date on which his mother was last present in Great Britain before the child was born.
+
+(5) Where a person—
+
+- (a) immediately before returning to Great Britain was entitled to receive child dependency benefit in respect of a child; and
+- (b) would on his return to Great Britain have continued to be entitled to receive child dependency benefit in respect of that child were he entitled to child benefit in respect of the child,
+
+he shall not be disentitled from receiving child dependency benefit in respect of the child by reason only of the fact that he is not entitled to child benefit in respect of the child if—
+
+- (i) he would, or could had he made an appropriate claim, have been entitled to child benefit in respect of the child had all the requirements of section 13(2) and (3) of the Child Benefit Act (requirements as to presence in Great Britain) been satisfied; and
+- (ii) in a case where he would not be treated for the purposes of the Child Benefit Act as having the child living with him, he is contributing to the cost of providing for the child, in addition to any contribution he may be required to make under the Act, at a weekly rate not less than that of the child benefit which would be payable to him in respect of the child were child benefit so payable to him; and
+- (iii) no other person is entitled to child benefit in respect of the child.
+
+(6) Where a person who was absent from Great Britain immediately before 4th April 1977 (the date on which child benefit first becomes payable) or a subsequent date on which the rate or any of the rates of child benefit is or are increased—
+
+- (a) is entitled to receive child dependency benefit in respect of a child for a continuous period beginning before and continuing after that date; and
+- (b) no other person is entitled to child benefit in respect of that child for that period,
+
+any provision made pursuant to section 17(1) or (4) of the Child Benefit Act whereby, having regard to the introduction of child benefit or to an increase in the rate or any of the rates of child benefit, the weekly rate of child dependency benefit payable in respect of that child would be subject to a reduction shall not have effect so as (by reason only of that reduction) to reduce the total weekly rate of benefit (including benefit (if any) which is not child dependency benefit payable in respect of that child) payable to that person below the total weekly rate of such benefit payable to him immediately before that date.
+
+## 13B. Modification of the Act in relation to the contribution conditions for unemployment benefit[^key-7cf8a038160a0d925d478fb6440a3fa7][^M_F_f49829dd-0362-436e-c19f-8a2559e2a0b0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 14. Administrative arrangement about payment of benefits
+
+Where the right to benefit arises by virtue of these regulations the benefit shall be payable subject to the furnishing of such information and evidence as the Secretary of State may from time to time require; and the Secretary of State shall make arrangements as to the time and manner of payment which shall have effect in place of the provisions as to time and manner of payment which would have been applicable by virtue of other regulations made under the Act, or in connection with jobseeker’s allowance,[^key-2e88e3f1f171f93f833bafa72abfe208] if the person concerned had not been absent from Great Britain.
+
+## 15. Transitional provisions
+
+(1) If, on 5th April 1975, a person, by virtue of any regulation having comparable effect to any provision of these regulations, and which ceases to be in force on 6th April 1975, is not disentitled to or not disqualified for receiving any benefit by reason of being absent from Great Britain, or by reason of some event occurring outside Great Britain, that person shall continue to be not disentitled or not disqualified, as the case may be, if—
+
+- (a) he satisfies the relevant provision of these regulations; or
+- (b) he would, had the relevant regulation in force on 5th April 1975 continued in force after that date, have satisfied the provisions of that regulation.
+
+(2) In any case to which these regulations apply, the contribution conditions for the receipt of benefit shall be modified as follows—
+
+- (a) for maternity grant in respect of a confinement occurring before 6th April 1976 the condition shall be that not less than 45 contributions under the former Principal Act have been paid by or credited to the contributor concerned in the period of 12 months immediately preceding 6th April 1975;
+- (b) for death grant in respect of a death occurring before 6th April 1977 the condition shall be either that specified in regulation 7(1)(i) of these regulations or that specified in regulation 6(1)(e) of the former Death Grant Regulations so however that for the figure of 45 specified in the last mentioned regulation there shall be substituted the figure of 25.
+
+(3) Subject to the provisions of regulation 5, where a person was not ordinarily resident in Great Britain on 5th April 1975 and the rate of benefit under the former Principal Act which was applicable in his case or would have been applicable had he been absent from Great Britain was, or if he had been entitled to such benefit would have been, reduced by virtue of the provisions of subsection (1) of section 49 of that Act or of regulations under that subsection, the rate of benefit to which he is or may be entitled under the Act shall, unless and until he becomes ordinarily resident in Great Britain and except during any period when he is in Great Britain, be reduced by the same amount.
+
+Signed by authority of the Secretary of State for Social Services,
+
+Brian O'Malley
+
+Minister of State
+
+Department of Health and Social Security
+
+## SCHEDULE — UP-RATING IN RESPECT OF CERTAIN AWARDS MADE BETWEEN 1ST SEPTEMBER 1985 AND 7TH AUGUST 1991[^M_F_4d8488b2-7b80-4b84-806c-982498b9cbd2]
+
+Regulation 5(8)
+
+**1.** A person referred to in a case set out in column (1) shall not be disqualified by reason of being absent from Great Britain for receiving any additional widow’s benefit or retirement pension which became payable by virtue of an up-rating order which came into force on or before the date referred to in column (3) if—
+
+- (a) the award referred to in column (1) was made during the period specified in column (2); and
+- (b) immediately before 6th August 1994 that person was being paid a widow’s benefit or a retirement pension (as the case may be) at the rate current at the date referred to in column (3).
+
+  <table>
+  <thead>
+  <tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+  <tr><th><em>Case</em></th><th><em>Period in which award was made</em></th><th><em>Date after which disqualification to take effect</em></th></tr>
+  </thead>
+  <tbody>
+  <tr><td>1. A woman who was awarded a widow’s benefit</td><td>after 30th May 1988 but not later than 19th February 1990</td><td>the date on which she became entitled to a widow’s benefit</td></tr>
+  <tr><td>2. A woman who had been receiving a Category B retirement pension and was awarded that pension at a higher rate after her husband’s death</td><td>after 13th September 1988 but not later than 6th August 1991</td><td>the date of her husband’s death</td></tr>
+  <tr><td>3. A woman who was first awarded a Category B retirement pension on the death of her husband after she attained the age of 60</td><td>after 31st January 1990 but not later than 6th August 1991</td><td>the date on which she became entitled to a Category B retirement pension</td></tr>
+  <tr><td>4. A man who had been receiving a Category A retirement pension and was awarded a Category B retirement pension after his wife’s death</td><td>after 16th November 1986 but not later than 6th August 1991</td><td>the date on which he became entitled to a Category B retirement pension</td></tr>
+  <tr><td>5. A woman who had been receiving a Category B retirement pension and was awarded a Category A retirement pension</td><td>after 1st September 1985 but not later than 6th August 1991</td><td>the date on which she became entitled to a Category A retirement pension</td></tr>
+  <tr><td>6. A person who was awarded a Category A retirement pension determined by taking into account the contributions of his or her former spouse under regulation 8 of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations 1979</td><td>after 16th November 1986 but not later than 6th August 1991</td><td>the date on which that person first became entitled to a Category A retirement pension</td></tr>
+  </tbody>
+  </table>
+
+**2.** In paragraph 1 “up-rating order” means an order which was made under section 124 of the Act or section 63 of the Social Security Act 1986.
+
+EXPLANATORY NOTE
+
+These Regulations set out the circumstances in which the disqualification for the receipt of benefit during periods of absence from Great Britain may be removed. They also contain provisions relating to entitlement to benefit for a death or confinement abroad and other matters of a minor nature relative to the payment of benefit abroad.
+
+## Annotations
+
+[^key-fbfe9fa768c86183f90d6d30d7729085]: Modification: reg.SA amended (9.4.2001) by [The Welfare Reform and Pensions (Persons Abroad: Benefits for Widows and Widowers) (Consequential Amendments) Regulations 2000 (S.I. 2000/2876)](https://www.legislation.gov.uk/uksi/2000/2876), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2000/2876/regulation/2/5)
+
+[^key-4ff788be49f6c9fcde075503717cbec7]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1975/563/regulation/1/2) omitted (coming into force in accordance with art. 1-3 of the amending S.I.) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2017/422/article/5/2)
+
+[^key-c56cc33baeeb08b8cf5dc6fd8b752947]: Textual amendment: Words in reg. 1(2) inserted (4.4.1977) by [The Social Security (Child Benefit Consequential) Regulations 1977 (S.I. 1977/342)](https://www.legislation.gov.uk/uksi/1977/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1977/342/regulation/1/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/1977/342/regulation/13/2/a)
+
+[^key-75e48bb948fee3492516656e9f2877b3]: Textual amendment: Words in reg. 1(2) inserted (16.11.1992) by [The Social Security (Miscellaneous Provisions) Amendment (No. 2) Regulations 1992 (S.I. 1992/2595)](https://www.legislation.gov.uk/uksi/1992/2595), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2595/regulation/1), [9](https://www.legislation.gov.uk/uksi/1992/2595/regulation/9)
+
+[^key-d5d4114c7c656780ac820200d678cc92]: Textual amendment: Word in reg. 1(2) substituted (1.4.1982) by [The Social Security (Maternity Grant) Regulations 1981 (S.I. 1981/1157)](https://www.legislation.gov.uk/uksi/1981/1157), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1157/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/1981/1157/regulation/3/2)
+
+[^M_F_f335eeaa-ee12-4c85-ad7e-e2e6d6fdce31]: Textual amendment: Words in reg. 1(2) inserted (6.4.1990) by [The Social Security Benefit (Persons Abroad) Amendment (No. 2) Regulations 1990 (S.I. 1990/621)](https://www.legislation.gov.uk/uksi/1990/621), regs. 1, 2(2)
+
+[^key-9337366e48fa02df6d43275e62ec73be]: Textual amendment: Words in reg. 1(2) omitted (6.4.2010) by virtue of [The Social Security Benefit (Persons Abroad) (Amendment) Regulations 2010 (S.I. 2010/788)](https://www.legislation.gov.uk/uksi/2010/788), [regs. 1](https://www.legislation.gov.uk/uksi/2010/788/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2010/788/regulation/3/a)
+
+[^key-0abf207b65016b7aba3863266c107f82]: Textual amendment: Words in reg. 1(2) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [23(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/23/2)
+
+[^key-20b554bc655046673add23c01617029b]: Textual amendment: Words in reg. 1(2) inserted (6.4.2010) by [The Social Security Benefit (Persons Abroad) (Amendment) Regulations 2010 (S.I. 2010/788)](https://www.legislation.gov.uk/uksi/2010/788), [regs. 1](https://www.legislation.gov.uk/uksi/2010/788/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2010/788/regulation/3/b)
+
+[^key-fb5a6ea8602eb796df937afc845bb1c7]: Textual amendment: Words in reg. 1(2) inserted (8.2.1990) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1990 (S.I. 1990/40)](https://www.legislation.gov.uk/uksi/1990/40), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/40/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1990/40/regulation/2/2)
+
+[^key-f21fed5e4b0394d785884f39580b7a4a]: Textual amendment: Words in reg. 1(2) inserted (6.7.2005) by [The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/1551)](https://www.legislation.gov.uk/uksi/2005/1551), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/1/1/a), [4(2)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/4/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/1551/regulation/10))
+
+[^key-3783d1ac9356270e2dcd5ea92f88fd28]: Textual amendment: Words in reg. 1(2) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [3](https://www.legislation.gov.uk/uksi/2015/1985/article/3)
+
+[^key-d08d29c460cfb2540c98fa6e325bfa63]: Textual amendment: Words in reg. 1(2) inserted (9.4.2001) by [The Welfare Reform and Pensions (Persons Abroad: Benefits for Widows and Widowers) (Consequential Amendments) Regulations 2000 (S.I. 2000/2876)](https://www.legislation.gov.uk/uksi/2000/2876), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2000/2876/regulation/2/2)
+
+[^key-cb0e577557c31dd98b02390f9e5594ae]: Textual amendment: Words in reg. 1(2) added (4.4.1977) by [The Social Security (Child Benefit Consequential) Regulations 1977 (S.I. 1977/342)](https://www.legislation.gov.uk/uksi/1977/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1977/342/regulation/1/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/1977/342/regulation/13/2/b)
+
+[^key-030a57b0a7a9246660b08052a5789f61]: Textual amendment: Heading and words in reg. 2(1) substituted (29.11.1984) by [The Social Security (Severe Disablement Allowance) Regulations 1984 (S.I. 1984/1303)](https://www.legislation.gov.uk/uksi/1984/1303), [regs. 1](https://www.legislation.gov.uk/uksi/1984/1303/regulation/1), [16](https://www.legislation.gov.uk/uksi/1984/1303/regulation/16)
+
+[^key-a3356a71e26edb13bf912795d173e012]: Textual amendment: Words in reg. 2 heading substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/1995/829/regulation/7/a) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-30e22552d3a1cf1fdf428ddcbd5a525b]: Textual amendment: Words in reg. 2(1) inserted (8.3.1994) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1994 (S.I. 1994/268)](https://www.legislation.gov.uk/uksi/1994/268), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/268/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/1994/268/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/1994/268/regulation/3))
+
+[^key-6af845a125197ae3b19c9b4c545ae843]: Textual amendment: Words in reg. 2(1) substituted (8.3.1994) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1994 (S.I. 1994/268)](https://www.legislation.gov.uk/uksi/1994/268), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/268/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/1994/268/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/1994/268/regulation/3))
+
+[^key-512267ea4dcc57c302725a4dd7c67687]: Textual amendment: Words in reg. 2(1) inserted (8.3.1994) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1994 (S.I. 1994/268)](https://www.legislation.gov.uk/uksi/1994/268), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/268/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/1994/268/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/1994/268/regulation/3))
+
+[^key-026c14f75c7e5f5fbe9f6ba823ee224b]: Textual amendment: Reg. 2(1)(a) substituted (14.11.1977) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1977 (S.I. 1977/1679)](https://www.legislation.gov.uk/uksi/1977/1679), [regs. 1(1),](https://www.legislation.gov.uk/uksi/1977/1679/regulation/1/1) 2(2)
+
+[^key-0986e8162459fee17d2ef1af313120d4]: Textual amendment: Word in reg. 2(1)(a) inserted (6.4.1983) by [The Social Security (Abolition of Injury Benefit) (Consequential) Regulations 1983 (S.I. 1983/186)](https://www.legislation.gov.uk/uksi/1983/186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1983/186/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/1983/186/regulation/5/2)
+
+[^key-c586ff3af9cabf52e4025f05b6141df1]: Textual amendment: Words in reg. 2(1)(a) substituted (8.3.1994) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1994 (S.I. 1994/268)](https://www.legislation.gov.uk/uksi/1994/268), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/268/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/1994/268/regulation/2/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/1994/268/regulation/3))
+
+[^key-0c98f1d76d4720cde8eba5e680d9f4a5]: Textual amendment: Word in reg. 2(1)(a) omitted (8.2.1990) by virtue of [The Social Security Benefit (Persons Abroad) Amendment Regulations 1990 (S.I. 1990/40)](https://www.legislation.gov.uk/uksi/1990/40), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/40/regulation/1/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/1990/40/regulation/2/3/a/ii)
+
+[^key-d0511a6bcf1e3d78cdec178485e134bd]: Textual amendment: Reg. 2(1)(bb) inserted (6.4.1983) by [The Social Security (Abolition of Injury Benefit) (Consequential) Regulations 1983 (S.I. 1983/186)](https://www.legislation.gov.uk/uksi/1983/186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1983/186/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/1983/186/regulation/5/2)
+
+[^M_F_a0a0f50c-4abc-4971-c64f-f7e94e6dc3ec]: Textual amendment: Words in reg. 2(1)(bb) substituted (1.10.1986) by [The Social Security Benefit (Persons Abroad) Amendment (No. 2) Regulations 1986 (S.I. 1986/1545)](https://www.legislation.gov.uk/uksi/1986/1545), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1545/regulation/1), [2](https://www.legislation.gov.uk/uksi/1986/1545/regulation/2)
+
+[^key-27a88203e8ef09df1da0a97b813486d9]: Textual amendment: Words in reg. 2(1)(bb) substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/1995/829/regulation/7/b) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-649697de12fb169c2332955d19af7562]: Textual amendment: Words in reg. 2(1)(c) substituted (8.2.1990) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1990 (S.I. 1990/40)](https://www.legislation.gov.uk/uksi/1990/40), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/40/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/1990/40/regulation/2/3/b)
+
+[^key-a4ce86cb3013b5c2c6a8ed7066249ca4]: Textual amendment: Reg. 2(1)(d) and word omitted (8.3.1994) by virtue of [The Social Security Benefit (Persons Abroad) Amendment Regulations 1994 (S.I. 1994/268)](https://www.legislation.gov.uk/uksi/1994/268), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/268/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/1994/268/regulation/2/2/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/1994/268/regulation/3))
+
+[^key-2cfd13e4d75a8bf873888a141065cc0e]: Textual amendment: Reg. 2(1A)(1B) inserted (8.3.1994) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1994 (S.I. 1994/268)](https://www.legislation.gov.uk/uksi/1994/268), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/268/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/1994/268/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/1994/268/regulation/3))
+
+[^key-6003a9d5c7e08843b25fe821ab18c3da]: Textual amendment: Words in reg. 2(1A) substituted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/8)
+
+[^key-feb4474fb445cb6377f1dec811a7463b]: Textual amendment: Words in reg. 2(1A) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/1/2)
+
+[^key-541e0d51ff012c3164d406ff04b412a2]: Textual amendment: Words in [reg. 2(1A)](https://www.legislation.gov.uk/uksi/1975/563/regulation/2/1A) substituted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/919/article/3/2/a/i)
+
+[^key-25f965134682a1b11aa93c760ad00739]: Textual amendment: Words in [reg. 2(1A)](https://www.legislation.gov.uk/uksi/1975/563/regulation/2/1A) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/919/article/3/2/a/ii)
+
+[^key-ee9ca17470bc4bce03780bfc10124afd]: Textual amendment: Words in reg. 2(1A)(b) substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [7(c)](https://www.legislation.gov.uk/uksi/1995/829/regulation/7/c) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-562ab4d11c8b41b21596e4f3103f6636]: Textual amendment: Words in reg. 2(1B)(a)(ii) substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [7(d)](https://www.legislation.gov.uk/uksi/1995/829/regulation/7/d) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-f4a529efbca3c391350a7c7bc1f6ef55]: Textual amendment: Reg. 2(2) revoked (14.11.1977) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1977 (S.I. 1977/1679)](https://www.legislation.gov.uk/uksi/1977/1679), [regs. 1(1),](https://www.legislation.gov.uk/uksi/1977/1679/regulation/1/1) 2(4)
+
+[^key-05eb9ebe48c7427820d41880905a1424]: Textual amendment: Reg. 2(3)(4) omitted (13.4.1995) by virtue of [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [7(e)](https://www.legislation.gov.uk/uksi/1995/829/regulation/7/e) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-87e218334023e492b2d31582c7aee4c2]: Textual amendment: Reg. 2(5) inserted (8.3.1994) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1994 (S.I. 1994/268)](https://www.legislation.gov.uk/uksi/1994/268), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/268/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/1994/268/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/1994/268/regulation/3))
+
+[^key-076889bd54e92968c4ab064b43bbe6d9]: Textual amendment: Words in reg. 2(5)(a) substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [7(f)](https://www.legislation.gov.uk/uksi/1995/829/regulation/7/f) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-fd53aaba69c49adf21367bf601978842]: Textual amendment: Words in reg. 2(5)(b) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/5/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-722ad1753546c5a44940abfc30054131]: Textual amendment: Word in [reg. 2(5)(b)](https://www.legislation.gov.uk/uksi/1975/563/regulation/2/5/b) omitted (21.10.2024) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/919/article/3/2/b)
+
+[^key-33d7be50ee922dcaa7684926bd078637]: Textual amendment: [Reg. 2(5)(ba)](https://www.legislation.gov.uk/uksi/1975/563/regulation/2/5/ba) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2024/919/article/3/2/c)
+
+[^key-d6dd9c5e577e3fb7f6627d479a0d9469]: Textual amendment: Reg. 3 revoked (8.2.1990) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1990 (S.I. 1990/40)](https://www.legislation.gov.uk/uksi/1990/40), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/40/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1990/40/regulation/3)
+
+[^key-aaf55db69218f54a03965dc2f667e11d]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1975/563/regulation/4/1) heading substituted (coming into force in accordance with art. 1-3 of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2017/422/article/5/3)
+
+[^key-fbd080c2fd2640062537a76d653ce06b]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1975/563/regulation/4/1) substituted (coming into force in accordance with art. 1-3 of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2017/422/article/5/3)
+
+[^M_F_f72ffb7e-4c4e-4481-f3cc-8fc11be56480]: Textual amendment: Words in reg. 4(1) substituted (5.8.1992) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1992 (S.I. 1992/1700)](https://www.legislation.gov.uk/uksi/1992/1700), regs. 1(1), 2
+
+[^key-e0bad1470be616632fea939d45402b7d]: Textual amendment: Words in reg. 4(1) inserted (6.7.2005) by [The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/1551)](https://www.legislation.gov.uk/uksi/2005/1551), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/1/1/a), [4(3)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/4/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/1551/regulation/10))
+
+[^key-15f8400cc4981ecbe79c7164df6b33f4]: Textual amendment: Words in reg. 4(2)(b) substituted (6.4.2010) by [The Social Security Benefit (Persons Abroad) (Amendment) Regulations 2010 (S.I. 2010/788)](https://www.legislation.gov.uk/uksi/2010/788), [regs. 1](https://www.legislation.gov.uk/uksi/2010/788/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/788/regulation/4/2)
+
+[^key-a87dd723e3a76ffdf337a0fe26a52396]: Textual amendment: Words in reg. 4(2)(b) substituted (10.11.1979) by [The Social Security Benefit (Persons Abroad) Amendment (No. 2) Regulations 1979 (S.I. 1979/1432)](https://www.legislation.gov.uk/uksi/1979/1432), [regs. 1](https://www.legislation.gov.uk/uksi/1979/1432/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/1979/1432/regulation/2/a)
+
+[^M_F_43204d49-51c9-4c1a-af8d-0408b6f8304d]: Textual amendment: Reg. 4(2A) inserted (11.4.1988) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1988 (S.I. 1988/435)](https://www.legislation.gov.uk/uksi/1988/435), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/435/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1988/435/regulation/2)
+
+[^key-971c9e10724994cdc528417e2fa53bd9]: Textual amendment: Words in reg. 4(2A)(c) substituted (6.4.2010) by [The Social Security Benefit (Persons Abroad) (Amendment) Regulations 2010 (S.I. 2010/788)](https://www.legislation.gov.uk/uksi/2010/788), [regs. 1](https://www.legislation.gov.uk/uksi/2010/788/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/788/regulation/4/2)
+
+[^key-8ad60822bff79b83b23e6092d702202c]: Textual amendment: [Reg. 4(2B)](https://www.legislation.gov.uk/uksi/1975/563/regulation/4/2B) omitted (coming into force in accordance with art. 1-3 of the amending S.I.) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2017/422/article/5/4)
+
+[^key-86a49086ad6b585630a931eb37ffad50]: Textual amendment: Reg. 4(3)(4) inserted (10.11.1979) by [The Social Security Benefit (Persons Abroad) Amendment (No. 2) Regulations 1979 (S.I. 1979/1432)](https://www.legislation.gov.uk/uksi/1979/1432), [regs. 1](https://www.legislation.gov.uk/uksi/1979/1432/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1979/1432/regulation/2/b)
+
+[^M_F_ad344de8-367b-4be1-f9a8-e31f70c0134c]: Textual amendment: Words in reg. 4(3)(4) substituted (6.4.1987) by [The Social Security Act 1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), s. 18(1) (as amended (6.4.1987) by [S.I. 1987/354](https://www.legislation.gov.uk/uksi/1987/354), [arts. 2(2)](https://www.legislation.gov.uk/uksi/1987/354/article/2/2), [Sch 1](https://www.legislation.gov.uk/uksi/1987/354/schedule/1))
+
+[^key-cebdc8eaedab4d364ecf642900995ba7]: Textual amendment: Words in reg. 4(3) substituted (6.4.2010) by [The Social Security Benefit (Persons Abroad) (Amendment) Regulations 2010 (S.I. 2010/788)](https://www.legislation.gov.uk/uksi/2010/788), [regs. 1](https://www.legislation.gov.uk/uksi/2010/788/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2010/788/regulation/4/3/a)
+
+[^key-06704fbaaa894dbd46bd54d991276daf]: Textual amendment: Words in reg. 4(3) substituted (6.4.2010) by [The Social Security Benefit (Persons Abroad) (Amendment) Regulations 2010 (S.I. 2010/788)](https://www.legislation.gov.uk/uksi/2010/788), [regs. 1](https://www.legislation.gov.uk/uksi/2010/788/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2010/788/regulation/4/3/b)
+
+[^key-ae6b227d1977a37365d9e822a041a71d]: Textual amendment: Words in reg. 4(3) substituted (6.4.2010) by [The Social Security Benefit (Persons Abroad) (Amendment) Regulations 2010 (S.I. 2010/788)](https://www.legislation.gov.uk/uksi/2010/788), [regs. 1](https://www.legislation.gov.uk/uksi/2010/788/regulation/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2010/788/regulation/4/3/c)
+
+[^key-ad8144a6f3839d6fbc1a408e3e75a32e]: Textual amendment: Reg. 4(3)(a) substituted (1.10.1989) by [The Social Security (Abolition of Earnings Rule) (Consequential) Regulations 1989 (S.I. 1989/1642)](https://www.legislation.gov.uk/uksi/1989/1642), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1642/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/1989/1642/regulation/8/2)
+
+[^key-2a0e12cba8ea61c1178619e742d2a552]: Textual amendment: Words in reg. 4(4) substituted (6.4.2010) by [The Social Security Benefit (Persons Abroad) (Amendment) Regulations 2010 (S.I. 2010/788)](https://www.legislation.gov.uk/uksi/2010/788), [regs. 1](https://www.legislation.gov.uk/uksi/2010/788/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2010/788/regulation/4/4/a)
+
+[^key-e649edc1f5594f131de53c1e01592be6]: Textual amendment: Words in reg. 4(4) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 5(3)(b)(i)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/5/3/b/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-735b1174a6546f6563561d94a95c76f4]: Textual amendment: Words in reg. 4(4) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 5(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/5/3/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-71ed558de5a473fa984df158ca58182d]: Textual amendment: Words in reg. 4(4) substituted (6.4.2010) by [The Social Security Benefit (Persons Abroad) (Amendment) Regulations 2010 (S.I. 2010/788)](https://www.legislation.gov.uk/uksi/2010/788), [regs. 1](https://www.legislation.gov.uk/uksi/2010/788/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2010/788/regulation/4/4/b)
+
+[^key-a023accb8c527894c86fc6ad1b261a73]: Modification: Reg. 5 applied (8.4.2019) by [The Guardians Allowance Up-rating Regulations 2019 (S.I. 2019/525)](https://www.legislation.gov.uk/uksi/2019/525), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/525/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/525/regulation/3)
+
+[^key-acbf6e504313666c877d9d8a914f5487]: Modification: Reg. 5 applied (8.4.2019) by [The Social Security Benefits Up-rating Regulations 2019 (S.I. 2019/552)](https://www.legislation.gov.uk/uksi/2019/552), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/552/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/552/regulation/3)
+
+[^key-ce08c0b43d86f992329378e269015a2d]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/1975/563/regulation/5) applied (6.4.2020) by [The Guardians Allowance Up-rating Regulations 2020 (S.I. 2020/302)](https://www.legislation.gov.uk/uksi/2020/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/302/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/302/regulation/3)
+
+[^key-e0c00e9b5d415d8131d6f790d01e37e3]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/1975/563/regulation/5) applied (6.4.2020) by [The Social Security Benefits Up-rating Regulations 2020 (S.I. 2020/266)](https://www.legislation.gov.uk/uksi/2020/266), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/266/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/266/regulation/3)
+
+[^key-eafd14f9f728b3e46e9b527528f68395]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/1975/563/regulation/5) applied (12.4.2021) by [The Guardian’s Allowance Up-rating Regulations 2021 (S.I. 2021/256)](https://www.legislation.gov.uk/uksi/2021/256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/256/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/256/regulation/3)
+
+[^key-3e09932cfb2a0db650d4151695fa179c]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/1975/563/regulation/5) applied (12.4.2021) by [The Social Security Benefits Up-rating Regulations 2021 (S.I. 2021/312)](https://www.legislation.gov.uk/uksi/2021/312), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/312/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/312/regulation/3)
+
+[^key-802197b78d2cbb9673b91629b9994ffc]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/1975/563/regulation/5) applied (11.4.2022) by [The Social Security Benefits Up-rating Regulations 2022 (S.I. 2022/342)](https://www.legislation.gov.uk/uksi/2022/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/342/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/342/regulation/3)
+
+[^key-0170f3d0cf46a7a53db6c75fda58b953]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/1975/563/regulation/5) applied (11.4.2022) by [The Guardian’s Allowance Up-rating Regulations 2022 (S.I. 2022/236)](https://www.legislation.gov.uk/uksi/2022/236), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/236/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/236/regulation/3)
+
+[^key-5e3a75704e0cb0219a60f2ab46de7e36]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/1975/563/regulation/5) applied (10.4.2023) by [The Guardian’s Allowance Up-rating Regulations 2023 (S.I. 2023/280)](https://www.legislation.gov.uk/uksi/2023/280), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/280/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/280/regulation/3)
+
+[^key-e20bc45382d3e7737fbab28be32b758a]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/1975/563/regulation/5) applied (10.4.2023) by [The Social Security Benefits Up-rating Regulations 2023 (S.I. 2023/340)](https://www.legislation.gov.uk/uksi/2023/340), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/340/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/340/regulation/3)
+
+[^key-9b334e41d6e6506161dfc349c68f3327]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/1975/563/regulation/5) applied (8.4.2024) by [The Social Security Benefits Up-rating Regulations 2024 (S.I. 2024/386)](https://www.legislation.gov.uk/uksi/2024/386), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/386/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/386/regulation/3)
+
+[^key-602207483b20e390664a972a03f53f38]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/1975/563/regulation/5) applied (8.4.2024) by [The Guardian’s Allowance Up-rating Regulations 2024 (S.I. 2024/309)](https://www.legislation.gov.uk/uksi/2024/309), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/309/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/309/regulation/3)
+
+[^key-903d9fd4ee4caa33ce4d69fbe33b8f79]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/1975/563/regulation/5) applied (7.4.2025) by [The Social Security Benefits Up-rating Regulations 2025 (S.I. 2025/352)](https://www.legislation.gov.uk/uksi/2025/352), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/352/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2025/352/regulation/3)
+
+[^key-8e8f2a7d0f86393527c7905cfc68ca60]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/1975/563/regulation/5) applied (7.4.2025) by [The Guardian’s Allowance Up-rating Regulations 2025 (S.I. 2025/337)](https://www.legislation.gov.uk/uksi/2025/337), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/337/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2025/337/regulation/3)
+
+[^key-6b810c99000fa8aab26c915891ab53e8]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/1975/563/regulation/5) applied (6.4.2026) by [The Guardian’s Allowance Up-rating Regulations 2026 (S.I. 2026/287)](https://www.legislation.gov.uk/uksi/2026/287), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/287/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2026/287/regulation/3)
+
+[^key-8cd9c9fb08d0dee930eaf37325467658]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/1975/563/regulation/5) applied (6.4.2026) by [The Social Security Benefits Up-rating Regulations 2026 (S.I. 2026/218)](https://www.legislation.gov.uk/uksi/2026/218), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/218/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2026/218/regulation/3)
+
+[^key-4426d07cc18ff544e1bede8c87895db6]: Textual amendment: Words in reg. 5(1) substituted (6.4.2010) by [The Social Security Benefit (Persons Abroad) (Amendment) Regulations 2010 (S.I. 2010/788)](https://www.legislation.gov.uk/uksi/2010/788), [regs. 1](https://www.legislation.gov.uk/uksi/2010/788/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2010/788/regulation/5/2)
+
+[^M_F_e9c47aa9-b4a5-4da1-fe22-216641e89baa]: Textual amendment: Words in reg. 5(2) inserted (6.4.1990) by [The Social Security Benefit (Persons Abroad) Amendment (No. 2) Regulations 1990 (S.I. 1990/621)](https://www.legislation.gov.uk/uksi/1990/621), regs. 1, 2(3)
+
+[^M_F_b9e6b54e-9203-4c12-86d5-5c2f150ecd01]: Textual amendment: Words in reg. 5(3) inserted (6.8.1994) by [The Social Security Benefit (Persons Abroad) Amendment (No. 2) Regulations 1994 (S.I. 1994/1832)](https://www.legislation.gov.uk/uksi/1994/1832), regs. 1(1), 2(2)
+
+[^key-3aaaff878198db0127144cd63d6807b2]: Textual amendment: Word in reg. 5(3)(a) substituted (6.4.2010) by [The Social Security Benefit (Persons Abroad) (Amendment) Regulations 2010 (S.I. 2010/788)](https://www.legislation.gov.uk/uksi/2010/788), [regs. 1](https://www.legislation.gov.uk/uksi/2010/788/regulation/1), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2010/788/regulation/5/3/a/i)
+
+[^key-60510e0e2882da3c99e801b8a2ac946d]: Textual amendment: Words in reg. 5(3)(a) substituted (6.4.2010) by [The Social Security Benefit (Persons Abroad) (Amendment) Regulations 2010 (S.I. 2010/788)](https://www.legislation.gov.uk/uksi/2010/788), [regs. 1](https://www.legislation.gov.uk/uksi/2010/788/regulation/1), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2010/788/regulation/5/3/a/ii)
+
+[^key-1ce1b7bfc3715eeaa8e254ffa6f42296]: Textual amendment: Words in reg. 5(3)(a) substituted (1.10.1989) by [The Social Security (Abolition of Earnings Rule) (Consequential) Regulations 1989 (S.I. 1989/1642)](https://www.legislation.gov.uk/uksi/1989/1642), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1642/regulation/1), [8(3)(a)(i)](https://www.legislation.gov.uk/uksi/1989/1642/regulation/8/3/a/i)
+
+[^key-ca5fb323ab00ce82aa8a2012820a8af8]: Textual amendment: Words in reg. 5(3)(a) substituted (6.4.2010) by [The Social Security Benefit (Persons Abroad) (Amendment) Regulations 2010 (S.I. 2010/788)](https://www.legislation.gov.uk/uksi/2010/788), [regs. 1](https://www.legislation.gov.uk/uksi/2010/788/regulation/1), [5(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2010/788/regulation/5/3/a/iii)
+
+[^M_F_71103e60-d446-427e-a5a6-206740096c43]: Textual amendment: Reg. 5(3)(aa) inserted (6.8.1994) by [The Social Security Benefit (Persons Abroad) Amendment (No. 2) Regulations 1994 (S.I. 1994/1832)](https://www.legislation.gov.uk/uksi/1994/1832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1832/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/1994/1832/regulation/2/3)
+
+[^key-536ffdebd6881b417d151cce310473b4]: Textual amendment: Words in reg. 5(3)(aa) substituted (6.4.2010) by [The Social Security Benefit (Persons Abroad) (Amendment) Regulations 2010 (S.I. 2010/788)](https://www.legislation.gov.uk/uksi/2010/788), [regs. 1](https://www.legislation.gov.uk/uksi/2010/788/regulation/1), [5(3)(b)(i)](https://www.legislation.gov.uk/uksi/2010/788/regulation/5/3/b/i)
+
+[^key-77925003e598063eb13656fb0d8effd2]: Textual amendment: Words in reg. 5(3)(aa) substituted (6.4.2010) by [The Social Security Benefit (Persons Abroad) (Amendment) Regulations 2010 (S.I. 2010/788)](https://www.legislation.gov.uk/uksi/2010/788), [regs. 1](https://www.legislation.gov.uk/uksi/2010/788/regulation/1), [5(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2010/788/regulation/5/3/b/ii)
+
+[^key-412bbc88ed1285e3caf918b027a4ad66]: Textual amendment: Words in reg. 5(3)(aa) substituted (6.4.2010) by [The Social Security Benefit (Persons Abroad) (Amendment) Regulations 2010 (S.I. 2010/788)](https://www.legislation.gov.uk/uksi/2010/788), [regs. 1](https://www.legislation.gov.uk/uksi/2010/788/regulation/1), [5(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2010/788/regulation/5/3/b/iii)
+
+[^key-fd1eff7594656b18249d31427273a774]: Textual amendment: Reg. 5(3)(b) substituted (10.11.1979) by [The Social Security Benefit (Persons Abroad) Amendment (No. 2) Regulations 1979 (S.I. 1979/1432)](https://www.legislation.gov.uk/uksi/1979/1432), [regs. 1](https://www.legislation.gov.uk/uksi/1979/1432/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/1979/1432/regulation/3/3)
+
+[^key-7d3f2840c0225a6fe7bc6fd67354b658]: Textual amendment: Words in reg. 5(3)(b) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 5(4)(a)(i)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/5/4/a/i), [(aa)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/5/4/aa) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-affafab27de95cb266a272bcf2a6d7fe]: Textual amendment: Words in reg. 5(3)(b) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 5(4)(a)(i)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/5/4/a/i), [(bb)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/5/4/bb) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-d31d4e471ad426ca6bcf4d580d417c73]: Textual amendment: Reg. 5(3)(ba) inserted (6.4.2010) by [The Social Security Benefit (Persons Abroad) (Amendment) Regulations 2010 (S.I. 2010/788)](https://www.legislation.gov.uk/uksi/2010/788), [regs. 1](https://www.legislation.gov.uk/uksi/2010/788/regulation/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/2010/788/regulation/5/3/c)
+
+[^key-36262e911107ec399322aca5c765be7d]: Textual amendment: Words in reg. 5(3)(c) inserted (6.7.2005) by [The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/1551)](https://www.legislation.gov.uk/uksi/2005/1551), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/1/1/a), [4(4)(a)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/4/4/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/1551/regulation/10))
+
+[^M_F_97f3f5ed-99dc-4ab7-c550-731663533095]: Textual amendment: Words in reg. 5(3)(c) inserted (5.8.1992) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1992 (S.I. 1992/1700)](https://www.legislation.gov.uk/uksi/1992/1700), regs. 1(1), 3(a)
+
+[^key-3a318d4a3be5c1706f232e66b1c6664f]: Textual amendment: Words in reg. 5(3)(c) omitted (1.10.1989) by virtue of [The Social Security (Abolition of Earnings Rule) (Consequential) Regulations 1989 (S.I. 1989/1642)](https://www.legislation.gov.uk/uksi/1989/1642), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1642/regulation/1), [8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/1989/1642/regulation/8/3/a/ii)
+
+[^key-a1ac366b6ced4cc3433c0c31a1aaa226]: Textual amendment: Words in reg. 5(3)(c) inserted (6.7.2005) by [The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/1551)](https://www.legislation.gov.uk/uksi/2005/1551), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/1/1/a), [4(4)(b)](https://www.legislation.gov.uk/uksi/2005/1551/regulation/4/4/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2005/1551/regulation/10))
+
+[^M_F_0183a048-73a8-451c-8329-47406cad5985]: Textual amendment: Words in reg. 5(3)(c) inserted (5.8.1992) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1992 (S.I. 1992/1700)](https://www.legislation.gov.uk/uksi/1992/1700), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/1700/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/1992/1700/regulation/3/b)
+
+[^key-7e0b14c24de37df62ff782c1aa91bfc8]: Textual amendment: Words in reg. 5(3)(d) substituted (9.4.2001) by [The Welfare Reform and Pensions (Persons Abroad: Benefits for Widows and Widowers) (Consequential Amendments) Regulations 2000 (S.I. 2000/2876)](https://www.legislation.gov.uk/uksi/2000/2876), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2876/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2000/2876/regulation/2/4)
+
+[^key-7c20bdcd5a71c98f37a3f211a842a4b4]: Textual amendment: Words in reg. 5(3)(d) substituted (coming into force in accordance with art. 1-3 of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2017/422/article/5/5)
+
+[^key-a11f4a150718cab622526a07a7122f24]: Textual amendment: Words in reg. 5(3)(d) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 5(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/5/4/a/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-1b66ce32c545d8e6ca15cba8c06eeb11]: Textual amendment: Words in reg. 5(3)(d) substituted (1.10.1989) by [The Social Security (Abolition of Earnings Rule) (Consequential) Regulations 1989 (S.I. 1989/1642)](https://www.legislation.gov.uk/uksi/1989/1642), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1642/regulation/1), [8(3)(a)(iii)](https://www.legislation.gov.uk/uksi/1989/1642/regulation/8/3/a/iii)
+
+[^key-70295be4fae0e6667e94316ce63e454c]: Textual amendment: Reg. 5(3)(f) added (4.4.1977) by [The Social Security (Child Benefit Consequential) Regulations 1977 (S.I. 1977/342)](https://www.legislation.gov.uk/uksi/1977/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1977/342/regulation/1/1), [13(3)(a)](https://www.legislation.gov.uk/uksi/1977/342/regulation/13/3/a)
+
+[^key-cb94a574a87a427a6ed9afaee4499a3f]: Textual amendment: Reg. 5(4) omitted (4.4.1977) by virtue of [The Social Security (Child Benefit Consequential) Regulations 1977 (S.I. 1977/342)](https://www.legislation.gov.uk/uksi/1977/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1977/342/regulation/1/1), [13(3)(b)](https://www.legislation.gov.uk/uksi/1977/342/regulation/13/3/b)
+
+[^key-5f0fc48f0d25a7e8c1858ce31532455f]: Textual amendment: Words in reg. 5(5)(b) substituted (10.11.1979) by [The Social Security Benefit (Persons Abroad) Amendment (No. 2) Regulations 1979 (S.I. 1979/1432)](https://www.legislation.gov.uk/uksi/1979/1432), [regs. 1](https://www.legislation.gov.uk/uksi/1979/1432/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/1979/1432/regulation/3/4)
+
+[^key-128d076b60b35ab1486862a0f1c1ed50]: Textual amendment: Words in reg. 5(5)(i) substituted (1.10.1989) by [The Social Security (Abolition of Earnings Rule) (Consequential) Regulations 1989 (S.I. 1989/1642)](https://www.legislation.gov.uk/uksi/1989/1642), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1642/regulation/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/1989/1642/regulation/8/3/b)
+
+[^key-2ada188e70f6143d5f2e81b5be47202b]: Textual amendment: Reg. 5(6) substituted (10.11.1979) by [The Social Security Benefit (Persons Abroad) Amendment (No. 2) Regulations 1979 (S.I. 1979/1432)](https://www.legislation.gov.uk/uksi/1979/1432), [regs. 1](https://www.legislation.gov.uk/uksi/1979/1432/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/1979/1432/regulation/3/5)
+
+[^M_F_64f1fecd-a0b0-4abf-a45f-919a0e61fc79]: Textual amendment: Words in reg. 5(6) inserted (6.8.1994) by [The Social Security Benefit (Persons Abroad) Amendment (No. 2) Regulations 1994 (S.I. 1994/1832)](https://www.legislation.gov.uk/uksi/1994/1832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/1700/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1992/1700/regulation/2/2)
+
+[^key-19fed3c0c9d11ff105d7f5e51aa2edaa]: Textual amendment: Words in reg. 5(6) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 5(4)(b)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/5/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-354beeb5b9b1392e4f82432ef4fecfc9]: Textual amendment: Words in reg. 5(6)(i) substituted (1.10.1989) by [The Social Security (Abolition of Earnings Rule) (Consequential) Regulations 1989 (S.I. 1989/1642)](https://www.legislation.gov.uk/uksi/1989/1642), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1642/regulation/1), [8(3)(c)](https://www.legislation.gov.uk/uksi/1989/1642/regulation/8/3/c)
+
+[^key-47b4c77f62a9d725e70d6a41ae502f5c]: Textual amendment: Reg. 5(7) substituted (10.11.1979) by [The Social Security Benefit (Persons Abroad) Amendment (No. 2) Regulations 1979 (S.I. 1979/1432)](https://www.legislation.gov.uk/uksi/1979/1432), [regs. 1](https://www.legislation.gov.uk/uksi/1979/1432/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/1979/1432/regulation/3/6)
+
+[^key-5294eebe2adf2a909888711aaa520321]: Textual amendment: Words in reg. 5(7) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 5(4)(c)(i)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/5/4/c/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-7a8d753142647aa6b6221ed440cce212]: Textual amendment: Words in reg. 5(7) substituted (1.10.1989) by [The Social Security (Abolition of Earnings Rule) (Consequential) Regulations 1989 (S.I. 1989/1642)](https://www.legislation.gov.uk/uksi/1989/1642), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1642/regulation/1), [8(3)(d)](https://www.legislation.gov.uk/uksi/1989/1642/regulation/8/3/d)
+
+[^key-6508b7b0bb00f2c8be171b0a817265dd]: Textual amendment: Words in reg. 5(7) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 5(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/5/4/c/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-a949566f0fb727a768f1e6c15dd4b15e]: Textual amendment: Words in reg. 5(7) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 5(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/5/4/c/iii) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^M_F_410d0131-4b6a-4b7e-8d06-305ed1c0c5a2]: Textual amendment: Reg. 5(8) inserted (6.8.1994) by [The Social Security Benefit (Persons Abroad) Amendment (No. 2) Regulations 1994 (S.I. 1994/1832)](https://www.legislation.gov.uk/uksi/1994/1832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1832/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/1994/1832/regulation/2/4)
+
+[^M_F_351b4712-16c7-4e4b-d0bb-6d18cc83a9b9]: Textual amendment: Reg. 5A inserted (6.4.1990) by [The Social Security Benefit (Persons Abroad) Amendment (No. 2) Regulations 1990 (S.I. 1990/621)](https://www.legislation.gov.uk/uksi/1990/621), regs. 1, 2(4)
+
+[^key-fae816b0ca8076b323eb8985eaa6b9f1]: Textual amendment: Words in reg. 5A inserted (9.4.2001) by [The Welfare Reform and Pensions (Persons Abroad: Benefits for Widows and Widowers) (Consequential Amendments) Regulations 2000 (S.I. 2000/2876)](https://www.legislation.gov.uk/uksi/2000/2876), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2876/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2000/2876/regulation/2/5)
+
+[^key-63d7bfaadc79fa267e0c8dcdfbf461cf]: Textual amendment: Words in [reg. 5A](https://www.legislation.gov.uk/uksi/1975/563/regulation/5A) omitted (coming into force in accordance with art. 1-3 of the amending S.I.) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2017/422/article/5/6)
+
+[^key-a9fb87348f89e677aa6b32d62017cb39]: Textual amendment: Words in reg. 6 omitted (1.10.1989) by virtue of [The Social Security (Abolition of Earnings Rule) (Consequential) Regulations 1989 (S.I. 1989/1642)](https://www.legislation.gov.uk/uksi/1989/1642), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1642/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/1989/1642/regulation/8/4)
+
+[^key-64610d6b0ca79c17a4c94be661ff4999]: Textual amendment: Reg. 7 revoked (8.2.1990) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1990 (S.I. 1990/40)](https://www.legislation.gov.uk/uksi/1990/40), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/40/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1990/40/regulation/3)
+
+[^key-a7a20aaecb43fddb4e5ab66102806ff9]: Textual amendment: Words in reg. 9 heading omitted (6.4.1983) by virtue of [The Social Security (Abolition of Injury Benefit) (Consequential) Regulations 1983 (S.I. 1983/186)](https://www.legislation.gov.uk/uksi/1983/186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1983/186/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/1983/186/regulation/5/3)
+
+[^key-eb427cfeb35fd9b6026a1afcc315eaed]: Textual amendment: Reg. 9(1) revoked (6.4.1983) by [The Social Security (Abolition of Injury Benefit) (Consequential) Regulations 1983 (S.I. 1983/186)](https://www.legislation.gov.uk/uksi/1983/186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1983/186/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/1983/186/regulation/5/4)
+
+[^key-4a285bd0664bd2ebe25fa96dfc94de5e]: Textual amendment: Reg. 9(2) revoked (14.11.1977) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1977 (S.I. 1977/1679)](https://www.legislation.gov.uk/uksi/1977/1679), [regs. 1(1),](https://www.legislation.gov.uk/uksi/1977/1679/regulation/1/1) 2(4)
+
+[^key-956591ee1204545c9410e747cca75e30]: Textual amendment: Words in reg. 9(3) substituted (1.10.1986) by [The Social Security (Industrial Injuries and Diseases) Miscellaneous Provisions Regulations 1986 (S.I. 1986/1561)](https://www.legislation.gov.uk/uksi/1986/1561), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1986/1561/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/1986/1561/regulation/4/a)
+
+[^key-4414c1ee1a2bb87751f61fb21816f129]: Textual amendment: Words in reg. 9(5) substituted (1.10.1986) by [The Social Security (Industrial Injuries and Diseases) Miscellaneous Provisions Regulations 1986 (S.I. 1986/1561)](https://www.legislation.gov.uk/uksi/1986/1561), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1986/1561/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/1986/1561/regulation/4/b)
+
+[^key-698732b6564ddcfb58318f7687597d49]: Textual amendment: Reg. 9(7) added (16.11.1992) by [The Social Security (Miscellaneous Provisions) Amendment (No. 2) Regulations 1992 (S.I. 1992/2595)](https://www.legislation.gov.uk/uksi/1992/2595), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2595/regulation/1), [10](https://www.legislation.gov.uk/uksi/1992/2595/regulation/10)
+
+[^key-5fc0c2ff92affc970205887d693df1f1]: Textual amendment: Words in reg. 10 inserted (6.4.1992) by [The Disability Living Allowance and Disability Working Allowance (Consequential Provisions) Regulations 1991 (S.I. 1991/2742)](https://www.legislation.gov.uk/uksi/1991/2742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/2742/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1991/2742/regulation/2/2)
+
+[^key-5da49b227143d848757e15ab44304068]: Textual amendment: Reg. 10A omitted (6.4.1992) by virtue of [The Disability Living Allowance and Disability Working Allowance (Consequential Provisions) Regulations 1991 (S.I. 1991/2742)](https://www.legislation.gov.uk/uksi/1991/2742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/2742/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/1991/2742/regulation/2/3)
+
+[^M_F_a90b2374-7a79-469b-eea4-2134f465ae80]: Textual amendment: Reg. 10A inserted (1.10.1975) by [The Social Security Mobility Allowance Regulations 1975 (S.I. 1975/1573)](https://www.legislation.gov.uk/uksi/1975/1573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1975/1573/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/1975/1573/regulation/10).
+
+[^M_F_70681fb8-a65a-44e7-a8a4-838090ad05d6]: Textual amendment: Reg. 10B inserted (12.4.1976) by [The Social Security (Invalid Care Allowance) Regulations 1976 (S.I. 1976/409)](https://www.legislation.gov.uk/uksi/1976/409), regs. 1, 20
+
+[^key-fbfc72a1de3d380ced4eea7534ad92f7]: Textual amendment: Words in [reg. 10B](https://www.legislation.gov.uk/uksi/1975/563/regulation/10B) substituted (1.4.2003) by [The Social Security Amendment (Carer's Allowance) Regulations 2002 (S.I. 2002/2497)](https://www.legislation.gov.uk/uksi/2002/2497), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2002/2497/regulation/1/b), [Sch. 2 paras. 1](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/2)
+
+[^M_F_f839ce49-9bcb-4f94-e3c6-28869677383e]: Textual amendment: Reg. 10C inserted (17.4.1979) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1979 (S.I. 1979/463)](https://www.legislation.gov.uk/uksi/1979/463), [regs. 1](https://www.legislation.gov.uk/uksi/1975/1573/regulation/1), [2](https://www.legislation.gov.uk/uksi/1975/1573/regulation/2)
+
+[^key-0045b0f356bb649626adceaa32ced44e]: Textual amendment: Words in [reg. 10C(1)](https://www.legislation.gov.uk/uksi/1975/563/regulation/10C/1) omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/1/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bb8a2eefffb4c1663752e69fe78fd4be]: Textual amendment: Words in [reg. 10C(2)(a)](https://www.legislation.gov.uk/uksi/1975/563/regulation/10C/2/a) substituted (31.12.2020) by [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/1/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2a33f72ef88577840718b87891da928c]: Textual amendment: Words in [reg. 10C(2)(b)](https://www.legislation.gov.uk/uksi/1975/563/regulation/10C/2/b) omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/1/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_b2de9283-123f-41e1-fa02-4070a2ffbbd2]: Textual amendment: Reg. 10C(2A) inserted (14.4.1982) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1982 (S.I. 1982/388)](https://www.legislation.gov.uk/uksi/1982/388), [regs. 1](https://www.legislation.gov.uk/uksi/1975/1573/regulation/1), [2](https://www.legislation.gov.uk/uksi/1975/1573/regulation/2)
+
+[^M_F_729ee349-1d5d-427c-8abf-b46ab39a6c13]: Textual amendment: Reg. 10C(5)(6) inserted (1.10.86) by The Social Security Benefit (Persons Abroad) Amendment (No. 2) Regulations 1986 (1986/1545), regs. 1, 3
+
+[^key-f324f679dde997beec47c8c1d7af6d47]: Textual amendment: Words in reg. 11(1) substituted (31.12.1982) by [The Social Security and Statutory Sick Pay (Oil and Gas (Enterprise) Act 1982) (Consequential) Regulations 1982 (S.I. 1982/1738)](https://www.legislation.gov.uk/uksi/1982/1738), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1982/1738/regulation/1/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/1982/1738/regulation/2/a/i)
+
+[^key-4ef46e07d3cfb65f9647241f8fa93c15]: Textual amendment: Words in reg. 11(1) added (31.12.1982) by [The Social Security and Statutory Sick Pay (Oil and Gas (Enterprise) Act 1982) (Consequential) Regulations 1982 (S.I. 1982/1738)](https://www.legislation.gov.uk/uksi/1982/1738), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1982/1738/regulation/1/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/1982/1738/regulation/2/a/ii)
+
+[^key-39e0b7bb5cc552be583d39f4469b48a9]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/1975/563/regulation/11/1) omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/1/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_43f0e404-642d-4ab9-dcf7-370005289769]: Textual amendment: Reg. 11(1A) inserted (7.10.1996) by The Jobseeker’s [Allowance Regulations 1996 (S.I. 1996/207)](https://www.legislation.gov.uk/uksi/1996/207), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1996/207/regulation/1/2), [165(2)](https://www.legislation.gov.uk/uksi/1996/207/regulation/165/2)
+
+[^key-ed84eac0efdf57e9c045bd76dbde44fc]: Textual amendment: Words in reg. 11(1A) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [23(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/23/3)
+
+[^key-6c2c4ca197b4c239cfd0b64ab1e376bd]: Textual amendment: Words in [reg. 11(1A)(b)(iv)](https://www.legislation.gov.uk/uksi/1975/563/regulation/11/1A/b/iv) substituted (31.12.2020) by [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/1/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0e331d2997db750b92b057cffc268da7]: Textual amendment: Words in reg. 11(2) added (31.12.1982) by [The Social Security and Statutory Sick Pay (Oil and Gas (Enterprise) Act 1982) (Consequential) Regulations 1982 (S.I. 1982/1738)](https://www.legislation.gov.uk/uksi/1982/1738), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1982/1738/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/1982/1738/regulation/2/b)
+
+[^key-de03fe44beb2bb2ef2fb9c56f52ebb37]: Textual amendment: Reg. 11(2A)(2B) inserted (31.12.1982) by [The Social Security and Statutory Sick Pay (Oil and Gas (Enterprise) Act 1982) (Consequential) Regulations 1982 (S.I. 1982/1738)](https://www.legislation.gov.uk/uksi/1982/1738), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1982/1738/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/1982/1738/regulation/2/c)
+
+[^key-bd500fc1bc2d2181149dbd7bea808b51]: Textual amendment: Words in [reg. 11(2A)(d)](https://www.legislation.gov.uk/uksi/1975/563/regulation/11/2A/d) substituted (31.12.2020) by [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 1(3)(c)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/1/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_d79ad14e-eb14-4540-aa71-97690ba0e895]: Textual amendment: Words in reg. 11(2B) substituted (7.10.1996) by The Jobseeker’s [Allowance Regulations 1996 (S.I. 1996/207)](https://www.legislation.gov.uk/uksi/1996/207), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1996/207/regulation/1/2), [165(3)](https://www.legislation.gov.uk/uksi/1996/207/regulation/165/3)
+
+[^key-48a29c061a4e2cc312883a85ef2705c2]: Textual amendment: Words in [reg. 11(2B)](https://www.legislation.gov.uk/uksi/1975/563/regulation/11/2B) omitted (31.12.2020) by virtue of [The Social Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/128)](https://www.legislation.gov.uk/uksi/2019/128), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/128/regulation/1/2), [Sch. para. 1(3)(d)](https://www.legislation.gov.uk/uksi/2019/128/schedule/paragraph/1/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_7b296d41-701a-4d0f-c83a-b171d9389d1e]: Textual amendment: Words in reg. 11(4) inserted (7.10.1996) by The Jobseeker’s [Allowance Regulations 1996 (S.I. 1996/207)](https://www.legislation.gov.uk/uksi/1996/207), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1996/207/regulation/1/2), [165(4)](https://www.legislation.gov.uk/uksi/1996/207/regulation/165/4)
+
+[^key-266477dbf6d6dd6045cdfeae6bd6ee8a]: Textual amendment: Words in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/1975/563/regulation/12/1/a) omitted (7.10.1996) by virtue of [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/15/2)
+
+[^key-a871448d8d068a29b8408456262aa786]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/1975/563/regulation/13) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 5(5)(a)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/5/5/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-90ac005720e1b42c2d232db33a004fe8]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/1975/563/regulation/13) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 5(5)(b)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/5/5/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-706f4961d81828c2d9a0705aebdf1393]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/1975/563/regulation/13) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 5(5)(c)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/5/5/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-4aa8cede1d22ebb5fea848d0a585e619]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/1975/563/regulation/13) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 5(5)(d)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/5/5/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-dc4613e6561e87744fbfcf95b424de9e]: Textual amendment: Reg. 13A inserted (4.4.1977) by [The Social Security (Child Benefit Consequential) Regulations 1977 (S.I. 1977/342)](https://www.legislation.gov.uk/uksi/1977/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1977/342/regulation/1/1), [13(5)](https://www.legislation.gov.uk/uksi/1977/342/regulation/13/5)
+
+[^key-7cf8a038160a0d925d478fb6440a3fa7]: Textual amendment: [Reg. 13B](https://www.legislation.gov.uk/uksi/1975/563/regulation/13B) revoked (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [27](https://www.legislation.gov.uk/uksi/1996/1345/regulation/27), [Sch.](https://www.legislation.gov.uk/uksi/1996/1345/schedule)
+
+[^M_F_f49829dd-0362-436e-c19f-8a2559e2a0b0]: Textual amendment: Reg. 13B inserted (6.4.1986) by [The Social Security Benefit (Persons Abroad) Amendment Regulations 1986 (S.I. 1986/486)](https://www.legislation.gov.uk/uksi/1986/486), regs. 1, 2
+
+[^key-2e88e3f1f171f93f833bafa72abfe208]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/1975/563/regulation/14) inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/15/3)
+
+[^M_F_4d8488b2-7b80-4b84-806c-982498b9cbd2]: Textual amendment: Sch. added (6.8.1994) by [The Social Security Benefit (Persons Abroad) Amendment (No. 2) Regulations 1994 (S.I. 1994/1832)](https://www.legislation.gov.uk/uksi/1994/1832), [regs 1(1)](https://www.legislation.gov.uk/uksi/1994/1832/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1994/1832/regulation/3), [Sch](https://www.legislation.gov.uk/uksi/1994/1832/schedule)

@@ -1,0 +1,182 @@
+---
+title: The Whiplash Injury Regulations 2021
+id: uksi/2021/642
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2021-05-26'
+text_date: '2025-05-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2021/642
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/642/pdfs/uksiem_20210642_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/642/pdfs/uksi_20210642_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/642/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Whiplash Injury Regulations 2021
+
+> Text as at 2025-05-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2021 No. 642
+
+Damages, England And Wales
+
+Legal Services, England And Wales
+
+The Whiplash Injury Regulations 2021
+
+Made
+
+26th May 2021
+
+Coming into force
+
+31st May 2021
+
+The Lord Chancellor makes the following Regulations in exercise of the powers conferred by sections 3(2), (4), (5) and (6), 5(1) and (2), 6(3) and (4) and 12(4)(a) of the Civil Liability Act 2018[^f00001], having consulted in accordance with sections 3(11) and 5(5) of that Act.
+
+A draft of these Regulations has been laid before Parliament in accordance with sections 3(12), 5(6) and 6(5) of the Civil Liability Act 2018, and has been approved by a resolution of each House of Parliament.
+
+## 1. Citation, commencement and interpretation[^key-017d324120e92c5d54ba69e43631efeb]
+
+(1) These Regulations may be cited as the Whiplash Injury Regulations 2021 and come into force on 31st May 2021.
+
+(2) These Regulations apply only to causes of action which accrue on or after 31st May 2021.
+
+(3) In these Regulations, “the Act” means the Civil Liability Act 2018.
+
+## 2. Damages for whiplash injuries[^key-a8340fe71bf3508ac1625dcf230950df]
+
+(1) Subject to regulation 3—
+
+- (a) the total amount of damages for pain, suffering and loss of amenity payable in relation to one or more whiplash injuries, taken together (“the tariff amount” for the purposes of section 5(7)(a) of the Act), is the figure specified in the second column of —[^key-3ae65f7bb92b0e659b66f12108949e54]
+  - (i) Table 1 where the cause of action accrues before 31st May 2025;
+  - (ii) Table 2 where the cause of action accrues on or after 31st May 2025; and
+- (b) the total amount of damages for pain, suffering and loss of amenity payable in relation to both one or more whiplash injuries and one or more minor psychological injuries suffered on the same occasion as the whiplash injury or injuries, taken together (“the tariff amount” for the purposes of section 5(7)(b) of the Act), is the figure specified in the third column of —[^key-c714e8f3df269d4bcf515b5da7da2167]
+  - (i) Table 1 where the cause of action accrues before 31st May 2025;
+  - (ii) Table 2 where the cause of action accrues on or after 31st May 2025
+
+  Table 1[^key-3cfe2c8435d664b45f8386626f1c9cfd]
+
+  | Duration of injury | Amount - Regulation 2(1)(a) | Amount - Regulation 2(1)(b) |
+  | --- | --- | --- |
+  | Not more than 3 months | £240 | £260 |
+  | More than 3 months, but not more than 6 months | £495 | £520 |
+  | More than 6 months, but not more than 9 months | £840 | £895 |
+  | More than 9 months, but not more than 12 months | £1,320 | £1,390 |
+  | More than 12 months, but not more than 15 months | £2,040 | £2,125 |
+  | More than 15 months, but not more than 18 months | £3,005 | £3,100 |
+  | More than 18 months, but not more than 24 months | £4,215 | £4,345 |
+
+  Table 2
+
+  | Duration of injury | Amount - Regulation 2(1)(a) | Amount - Regulation 2(1)(b) |
+  | --- | --- | --- |
+  | Not more than 3 months | £275 | £300 |
+  | More than 3 months, but not more than 6 months | £565 | £595 |
+  | More than 6 months, but not more than 9 months | £965 | £1,025 |
+  | More than 9 months, but not more than 12 months | £1,510 | £1,595 |
+  | More than 12 months, but not more than 15 months | £2,335 | £2,435 |
+  | More than 15 months, but not more than 18 months | £3,445 | £3,550 |
+  | More than 18 months, but not more than 24 months | £4,830 | £4,975 |
+
+(2) In this regulation, “duration of injury” means—
+
+- (a) the duration, or likely duration, of the whiplash injury a person has suffered; or
+- (b) where a person suffers more than one whiplash injury on the same occasion, the whiplash injury of the longest duration, or likely longest duration, suffered on that occasion,
+
+if the person were to take, or had taken, reasonable steps to mitigate the effect of that injury or those injuries.
+
+## 3. Uplift in exceptional circumstances[^key-2dae890e3e70d597bdd612f6b9d7a5c0]
+
+(1) Subject to paragraphs (2) and (3), a court—
+
+- (a) may determine that the amount of damages payable for pain, suffering and loss of amenity in respect of one or more whiplash injuries is an amount greater than the tariff amount relating to that injury or those injuries;
+- (b) may determine that the amount of damages payable for pain, suffering and loss of amenity in respect of one or more whiplash injuries, or one or more whiplash injuries and one or more minor psychological injuries, taken together, is an amount greater than the tariff amount relating to those injuries; and
+- (c) in a case where the court considers the combined effect of—
+  - (i) an injury or injuries in respect of which a tariff amount is specified in regulation 2(1); and
+  - (ii) one or more other injuries,
+
+  may determine that an amount greater than the tariff amount is to be taken into account when deciding the amount of damages payable for pain, suffering and loss of amenity in respect of the injuries mentioned in paragraphs (i) and (ii).
+
+(2) Before making a determination under paragraph (1)(a), (b) or (c), the court must be satisfied that—
+
+- (a) the degree of pain, suffering or loss of amenity caused by the whiplash injury or injuries in question makes it appropriate to use the greater amount; and
+- (b) it is the case that—
+  - (i) the whiplash injury is, or one or more of the whiplash injuries are, exceptionally severe, or
+  - (ii) where the person’s circumstances increase the pain, suffering or loss of amenity caused by the injury or injuries, those circumstances are exceptional.
+
+(3) The greater amount in paragraph (1)(a), (b) or (c) may not exceed the relevant tariff amount by more than 20%.
+
+## 4. Settlement of a whiplash claim[^key-fa8a3728791ed3f62887116a22fe2d8f]
+
+(1) For the purposes of section 6 of the Act, “appropriate evidence of an injury” means—
+
+- (a) where the claimant lives, or chooses to be examined, in England or Wales—
+  - (i) evidence of a whiplash injury or injuries provided in a fixed cost medical report from an accredited medical expert who has been instructed via a search of the online database of medical reporting organisations and experts held by MedCo Registration Solutions (“MedCo”); or
+  - (ii) evidence of a whiplash injury or injuries provided in a medical report from a doctor who is listed on the General Medical Council’s Specialist Register where that medical report has been obtained in respect of another injury which was suffered on the same occasion as the whiplash injury or injuries and which is identified in the report as being more serious than the whiplash injury or injuries; or
+- (b) in any other case where the claimant lives outside England and Wales, evidence of a whiplash injury or injuries provided in a medical report from a medical expert of a description specified in paragraph (3).
+
+(2) In paragraph (1)(a)(i)—
+
+- (a) “accredited medical expert” means a medical expert who, on the date that they are instructed, is accredited by MedCo to provide fixed cost medical reports in respect of whiplash claims;
+- (b) “associate” means, in respect of a medical expert, a colleague, partner, director or employee in the same practice and “associated with” has the equivalent meaning;
+- (c) “fixed cost medical report” means an initial report in a whiplash claim from an accredited medical expert who, unless there are exceptional circumstances—
+  - (i) has not provided treatment to the claimant;
+  - (ii) is not associated with any person who has provided treatment; and
+  - (iii) does not propose or recommend treatment that they or an associate then provide;
+- (d) “medical expert” means a person who is—
+  - (i) registered with the General Medical Council;
+  - (ii) registered with the General Dental Council; or
+  - (iii) a psychologist or physiotherapist registered with the Health Care Professions Council; and
+- (e) “whiplash claim” has the meaning ascribed to it by section 6(6) of the Act.
+
+(3) In paragraph (1)(b), “medical expert” means a person who is recognised by the country in which they practise as—
+
+- (a) being a medical expert; and
+- (b) having the required qualifications for the purposes of diagnosis and prognosis of a whiplash injury.
+
+Signed by authority of the Lord Chancellor
+
+David Wolfson
+
+Parliamentary Under Secretary of State for Justice
+
+Ministry of Justice
+
+26th May 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations specify, by way of a tariff, the total amount of damages for pain, suffering and loss of amenity that a court may award for road traffic accident (‘RTA’) related whiplash injuries of up to two-years duration and any minor psychological injuries suffered on the same occasion. The Regulations permit the court to award a maximum uplift of 20% on those damages in exceptional circumstances.
+
+These Regulations further specify the medical evidence that must be provided before a regulated person (defined in section 9 of the Civil Liability Act 2018) may invite a payment in settlement of, or offer payment to settle, or make or accept a payment in settlement of, an RTA related whiplash injury claim.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 29](https://www.legislation.gov.uk/ukpga/2018/29).
+
+[^key-017d324120e92c5d54ba69e43631efeb]: Commencement: Reg. 1 in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/642/regulation/1/1)
+
+[^key-a8340fe71bf3508ac1625dcf230950df]: Commencement: Reg. 2 in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/642/regulation/1/1)
+
+[^key-3ae65f7bb92b0e659b66f12108949e54]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/642/regulation/2/1) substituted (31.5.2025) by [The Whiplash Injury (Amendment) Regulations 2025 (S.I. 2025/615)](https://www.legislation.gov.uk/uksi/2025/615), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/615/regulation/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2025/615/regulation/2/1/b)
+
+[^key-c714e8f3df269d4bcf515b5da7da2167]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/642/regulation/2/1/a) substituted (31.5.2025) by [The Whiplash Injury (Amendment) Regulations 2025 (S.I. 2025/615)](https://www.legislation.gov.uk/uksi/2025/615), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/615/regulation/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2025/615/regulation/2/1/a)
+
+[^key-3cfe2c8435d664b45f8386626f1c9cfd]: Textual amendment: [Reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/642/regulation/2/1/b): Tables 1, 2 substituted (31.5.2025) for Table by [The Whiplash Injury (Amendment) Regulations 2025 (S.I. 2025/615)](https://www.legislation.gov.uk/uksi/2025/615), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/615/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2025/615/regulation/2/1/a)
+
+[^key-2dae890e3e70d597bdd612f6b9d7a5c0]: Commencement: Reg. 3 in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/642/regulation/1/1)
+
+[^key-fa8a3728791ed3f62887116a22fe2d8f]: Commencement: Reg. 4 in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/642/regulation/1/1)

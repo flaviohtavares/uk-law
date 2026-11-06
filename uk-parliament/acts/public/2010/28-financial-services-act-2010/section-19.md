@@ -1,0 +1,44 @@
+---
+title: Financial Services Act 2010, section 19
+act: Financial Services Act 2010
+section: '19'
+status: revised
+text_date: '2026-07-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/28/section/19
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Financial Services Act 2010, section 19
+
+> Text as at 2026-07-13.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 19. Asset protection scheme etc
+
+*Extent: E+W+S+N.I.*
+
+(1) The Treasury may, by notice in writing, require a person who participates (or is proposing to participate) in the asset protection scheme or a qualifying scheme—
+
+- (a) to provide such information, or
+- (b) to produce such documents,
+
+as they may reasonably require for the purposes of, or in connection with, the scheme or a relevant scheme agreement.
+
+(2) “**The asset protection scheme**” means the scheme known as the Asset Protection Scheme that was the subject of a statement made by the Chancellor of the Exchequer on 26 February 2009.
+
+(3) “**Qualifying scheme**” means a scheme specified in an order made by the Treasury.
+
+(4) “**Relevant scheme agreement**” means an agreement entered into (or proposed to be entered into) under the asset protection scheme or a qualifying scheme.
+
+(5) The information or documents must be provided or produced at such times, and at such place, as the Treasury may specify in the notice.
+
+(6) The Treasury may require the information to be provided in such form as they may reasonably require.
+
+(7) A requirement imposed on a person as a result of this section is enforceable by an injunction or, in Scotland, by an order for specific performance under section 45 of the Court of Session Act 1988.
+
+(8) The Treasury may specify a scheme in an order under subsection (3) only if it appears to them that the purpose of the scheme corresponds to, or is connected with, the purpose of the asset protection scheme.
+
+(9) An order under subsection (3) is subject to negative resolution procedure.

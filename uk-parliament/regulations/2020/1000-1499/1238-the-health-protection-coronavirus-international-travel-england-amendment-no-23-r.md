@@ -1,0 +1,124 @@
+---
+title: The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 23) Regulations 2020
+id: uksi/2020/1238
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-11-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/1238
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/1238/pdfs/uksiem_20201238_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1238/pdfs/uksi_20201238_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1238/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 23) Regulations 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 1238
+
+Public Health, England
+
+The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 23) Regulations 2020
+
+Made
+
+at 1.34 a.m. on 7th November 2020
+
+Coming into force
+
+at 4.00 a.m. on 7th November 2020
+
+Laid before Parliament
+
+9th November 2020
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 45B, 45F(2) and 45P(2) of the Public Health (Control of Disease) Act 1984[^f00001].
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 23) Regulations 2020 and come into force at 4.00 a.m. on 7th November 2020.
+
+(2) In these Regulations, “the principal Regulations” means the Health Protection (Coronavirus, International Travel) (England) Regulations 2020[^f00002].
+
+## 2. Amendment to regulation 3 of the principal Regulations
+
+In regulation 3 of the principal Regulations, after paragraph (10), insert—
+
+> (10A) Paragraph (10) does not apply in relation to a person who has, at any time in the period beginning with the 14th day before the date of their arrival in England, departed from or transited through Denmark.
+
+.
+
+## 3. Amendments to regulation 4 of the principal Regulations
+
+(1) Regulation 4 of the principal Regulations is amended as follows.
+
+(2) In paragraph (1)(b), after “transited through a non-exempt country or territory” insert—
+
+> , or
+>
+> - (c) is residing with another person (“D”), and D is required to self-isolate under these Regulations because D has arrived in England from Denmark or has, within the period beginning with the 14th day before the date of D’s arrival in England, departed from or transited through Denmark
+
+.
+
+(3) In paragraph (3)—
+
+- (a) in sub-paragraph (a), for “or (c)” substitute “, (c) or (d)”;
+- (b) after sub-paragraph (c), insert—
+
+  > - (d) where P is a person described in paragraph (1)(c) (residing with another person, “D”), at the address at which P is residing with D.
+
+  .
+
+(4) In paragraph (7), before “P must” insert “Where P is a person described in paragraph (1)(a) or (b),”.
+
+(5) After paragraph (7), insert—
+
+> (7A) Where P is a person described in paragraph (1)(c) (residing with another person, “D”), P must self-isolate until the end of the period during which D is required to self-isolate.
+
+.
+
+(6) After paragraph (13), insert—
+
+> (14) Paragraph (13) does not apply in relation to—
+>
+> - (a) a person who has, at any time in the period beginning with the 14th day before the date of their arrival in England, departed from or transited through Denmark, or
+> - (b) a person residing with a person described in sub-paragraph (a).
+
+.
+
+## 4. Transitional and saving provision
+
+In relation to any person who arrived in England on or after 10th July but before 4.00 a.m. on 7th November 2020, or any person residing with such a person, the principal Regulations apply as if the amendments made by regulations 2 and 3 had not been made.
+
+Grant Shapps
+
+Secretary of State
+
+Department for Transport
+
+at 1.34 a.m. on 7th November 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Health Protection (Coronavirus, International Travel) (England) Regulations 2020 ([S.I. 2020/568](https://www.legislation.gov.uk/uksi/2020/568)) (“the principal Regulations”) to—
+
+- (a) remove exemptions from the requirement to self-isolate and the requirement to complete a Passenger Locator Form for people who have arrived in England from Denmark or who have arrived in England from elsewhere and, during the 14 days preceding their arrival in England, have been in or transited through Denmark (“Denmark arrivals”).
+- (b) require people residing with Denmark arrivals to self-isolate.
+
+An impact assessment has not been produced for this instrument. An explanatory memorandum has been published alongside this instrument at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Part 2A was inserted by section 129 of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).
+
+[^f00002]: Footnote: [S.I. 2020/568](https://www.legislation.gov.uk/uksi/2020/568), amended by [S.I. 2020/691](https://www.legislation.gov.uk/uksi/2020/691), [724](https://www.legislation.gov.uk/uksi/2020/724), [799](https://www.legislation.gov.uk/uksi/2020/799), [805](https://www.legislation.gov.uk/uksi/2020/805), [813](https://www.legislation.gov.uk/uksi/2020/813), [819](https://www.legislation.gov.uk/uksi/2020/819), [841](https://www.legislation.gov.uk/uksi/2020/841), [866](https://www.legislation.gov.uk/uksi/2020/866), [890](https://www.legislation.gov.uk/uksi/2020/890), [913](https://www.legislation.gov.uk/uksi/2020/913), [959](https://www.legislation.gov.uk/uksi/2020/959), [980](https://www.legislation.gov.uk/uksi/2020/980), [1013](https://www.legislation.gov.uk/uksi/2020/1013), [1039](https://www.legislation.gov.uk/uksi/2020/1039), [1070](https://www.legislation.gov.uk/uksi/2020/1070), [1076](https://www.legislation.gov.uk/uksi/2020/1076), [1094](https://www.legislation.gov.uk/uksi/2020/1094), [1129](https://www.legislation.gov.uk/uksi/2020/1129), [1161](https://www.legislation.gov.uk/uksi/2020/1161), [1190](https://www.legislation.gov.uk/uksi/2020/1190) and [1227](https://www.legislation.gov.uk/uksi/2020/1227).

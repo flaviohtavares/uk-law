@@ -1,0 +1,27 @@
+---
+title: English Devolution and Community Empowerment Act 2026, section 44
+act: English Devolution and Community Empowerment Act 2026
+section: '44'
+status: revised-with-pending-changes
+text_date: '2026-11-04'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2026/23/section/44
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# English Devolution and Community Empowerment Act 2026, section 44
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/23
+>
+> Extent: England, Wales.
+
+## 44. Miscellaneous local authority functions[^key-a1fcd6e512cb03d983159c99df743327]
+
+*Extent: E+W*
+
+Schedule 23 confers on combined authorities and CCAs and the GLA miscellaneous functions exercisable by local authorities.
+
+## Annotations
+
+[^key-a1fcd6e512cb03d983159c99df743327]: Commencement: S. 44 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

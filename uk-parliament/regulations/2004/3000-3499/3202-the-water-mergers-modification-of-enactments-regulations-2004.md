@@ -1,0 +1,930 @@
+---
+title: The Water Mergers (Modification of Enactments) Regulations 2004
+id: uksi/2004/3202
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-12-02'
+text_date: '2025-01-01'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2004/3202
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/3202/pdfs/uksiem_20043202_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/3202/pdfs/uksi_20043202_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/3202/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Water Mergers (Modification of Enactments) Regulations 2004
+
+> Text as at 2025-01-01.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2004 No. 3202
+
+WATER INDUSTRY, ENGLAND AND WALES
+
+The Water Mergers (Modification of Enactments) Regulations 2004
+
+Made
+
+2nd December 2004
+
+Laid before Parliament
+
+7th December 2004
+
+Coming into force
+
+29th December 2004
+
+The Secretary of State, in exercise of her powers under paragraphs 1 and 2 of Schedule 4ZA to, and section 213(2)(f) of, the Water Industry Act 1991[^f00001], hereby makes the following Regulations:[^key-6130f7f794ad138b25ce783f69abc1c8]
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Water Mergers (Modification of Enactments) Regulations 2004 and shall come into force on 29th December 2004.
+
+(2) In these Regulations—
+
+- “the 1991 Act” means the Water Industry Act 1991; and
+- “the 2002 Act” means the Enterprise Act 2002[^f00002].
+
+## 2. Modification of Part 3 of the 2002 Act
+
+In its application in relation to water mergers and merger references under section 32 of the 1991 Act, Part 3 of the 2002 Act has effect with the modifications prescribed in these Regulations.
+
+## 3. Omitted provisions
+
+(1) Part 3 of the 2002 Act has effect as if the following provisions were omitted—
+
+- (a) section 28 (turnover test);
+- (aa)[^key-7483b33207dd77864f6e16c9ec982321] sections 34ZD to 34ZF (fast track reference requests);
+- (b)[^key-fa3f8aec558cf071de6c598abbd03ac9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ba)[^key-3d75e44a1927d5ed103ad233ba391e15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) Chapter 2, section 85 and Schedule 7 (public interest cases);
+- (d) sections 59 to 66[^key-abdd59305e06528be6d112fc3927c111] (other special cases);
+- (da)[^key-5ef94876df0a5e383d3080d4cb4ff34d] sections 68A to 68F and Schedule 5A (mergers of energy network enterprises in Great Britain);
+- (e)[^key-48dd0cc02c62462b70b242b2e81b0975] section 73 (undertakings in lieu of references under section 22 or 33);
+- (f) sections 96 to 102 (merger notices); [^key-7be6b5879573506d3ff35de6a6b844f3]... and[^key-543c40e1e4a0872c5c6f2d3f23411255]
+- (fa)[^key-91536e0972acc441ba5ca22b3fefa72e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) section 123 (power to alter share of supply test).
+
+(2) Accordingly, any reference in Part 3 of the 2002 Act to those provisions (and any provisions of that Part so far as applying to them) shall be disregarded.
+
+## 4. Sections 22 to 24: References in relation to completed mergers
+
+Part 3 of the 2002 Act has effect as if, for sections 22 to 24, there were substituted—
+
+> **22. References in relation to completed water mergers**
+>
+> (1) A reference under section 32(b) of the 1991 Act shall specify—
+>
+> - (a) the enactment under which it is made; and
+> - (b) the date on which it is made.
+>
+> (2) In this Part “the decision-making authority” means the CMA[^key-4c9fe2ed401aee5afbb167f025a8111a].
+>
+> (3)[^key-f18e500f329faa3e3b9f4df8f2930702] No reference shall be made under section 32(b) of the 1991 Act if the period within which the CMA is required by section 34ZA of the 2002 Act to decide whether the duty to make a reference applies has expired without such a decision having been made.
+>
+> **23. Water mergers**
+>
+> (1) For the purposes of this Chapter and Chapter 3 of Part 2 of the 1991 Act, the question whether a water merger has taken place shall be determined as at—
+>
+> - (a) in the case of a reference which is treated as having been made under section 32(b) of the 1991 Act by virtue of section 37(2), such time as the CMA[^key-418058eeb2996e0f4846cf1066d9f1c7] may determine; and
+> - (b) in any other case, immediately before the time when the reference has been, or is to be, made.
+>
+> (2) In this Part—
+>
+> - (a) “water merger” means a merger of any two or more water enterprises;
+> - (b) “water enterprise” means an enterprise carried on by a water undertaker or sewerage undertaker; and
+> - (c) a reference to a merger of any two or more water enterprises is a reference to those enterprises ceasing to be distinct enterprises.
+>
+> **24. Time-limits for enforcement action**
+>
+> (1) No enforcement action shall be taken on a merger reference under section 32(b) of the 1991 Act in respect of an actual merger unless the reference was made within the period of four months beginning with whichever is the later of—
+>
+> - (a) the day on which the merger took place; and
+> - (b) the day on which the material facts about the transactions which resulted in the merger first came to the attention of the CMA[^key-855b3d1d3d530da3136915b500c75df6] or were made public.
+>
+> (2) In this section “made public” means so publicised as to be generally known or readily ascertainable.
+
+.
+
+## 5. Section 25: Extension of time-limits
+
+Section 25 (extension of time-limits) has effect as if—
+
+- (a) in subsections (1), (2), (4), (9) and (10)[^key-01a51655a08a24bb5e16705fb707119c], for “section 24(1)(a) or (2)(b)” there were substituted “section 24(1)”;
+- (aa)[^key-511470cd865121831f8f13ec1a855622] in subsection (4), for “section 73” there were substituted “section 33D of the 1991 Act”; and[^key-661a8580fbbad9ffa2cb263000fe67cf]
+- (b)[^key-a02352079bcf337a4c17d0df5721433b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-49c9d872fd937c114b54ca738aeab61b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Section 30: Relevant customer benefits
+
+Part 3 of the 2002 Act has effect as if, for section 30 (relevant customer benefits), there were substituted—
+
+> **30. Relevant customer benefits in relation to water mergers**
+>
+> (1) For the purposes of this Part a benefit is a relevant customer benefit if—
+>
+> - (a) it is a benefit to relevant customers in the form of—
+>   - (i) lower prices, higher quality or greater choice of goods or services in any market in the United Kingdom (whether or not the market or markets in relation to which the prejudice to the Authority has, or may have, occurred or (as the case may be) may occur); or
+>   - (ii) greater innovation in relation to such goods or services; and
+> - (b) the CMA[^key-4cbd6ffe35f0dea16ad713e8dfe4d59b] believes—
+>   - (i) in the case of a merger reference under section 32(a) of the 1991 Act, as mentioned in subsection (2); and
+>   - (ii) in the case of a merger reference under section 32(b) of the 1991 Act, as mentioned in subsection (3).
+>
+> (2) The belief, in the case of a merger reference under section 32(a) of the 1991 Act, is that—
+>
+> - (a) the benefit may be expected to accrue within a reasonable period as a result of the merger concerned; and
+> - (b) the benefit is unlikely to accrue without the merger concerned or a similar prejudice to the Authority.
+>
+> (3) The belief, in the case of a merger reference under section 32(b) of the 1991 Act, is that—
+>
+> - (a) the benefit has accrued as a result of the merger concerned or may be expected to accrue within a reasonable period as a result of the merger concerned; and
+> - (b) the benefit was, or is, unlikely to accrue without the merger concerned or a similar prejudice to the Authority.
+>
+> (4) In subsection (1) “relevant customers” means—
+>
+> - (a) customers of any person carrying on an enterprise which, in the merger concerned, has ceased to be, or (as the case may be) will cease to be, a distinct enterprise;
+> - (b) customers of such customers; and
+> - (c) any other customers in a chain of customers beginning with the customers mentioned in paragraph (a);
+>
+> and in this subsection “customers” includes future customers.
+>
+> (5) For the purposes of subsection (1) “market in the United Kingdom” includes—
+>
+> - (a) so far as it operates in the United Kingdom or a part of the United Kingdom, any market which operates there and in another country or territory or in a part of another country or territory; and
+> - (b) any market which operates only in a part of the United Kingdom;
+>
+> and references to a market for goods or services include references to a market for goods and services.
+
+.
+
+## 7. Section 31: Information powers in relation to completed mergers[^key-42815382cbccdba5fdc45daa059b057a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Section 32: Supplementary provision for purposes of section 25[^key-16bd47fdfa9c0fb8bfe75ca77611f62b][^key-99ea05a439c9eeb43a00767948b0a99f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Section 33: Duty to make references in relation to anticipated mergers
+
+*Extent: E+W+S+N.I.*
+
+(1)[^M_F_8759414b-f490-40e9-9a6c-edd5f6311a30] Part 3 of the 2002 Act has effect as if, for section 33 (duty to make references in relation to anticipated mergers), there were substituted—
+
+> **33. References in relation to anticipated water mergers**
+>
+> A reference under section 32(a) of the 1991 Act shall specify—
+>
+> - (a) the enactment under which it is made; and
+> - (b) the date on which it is made.
+
+(2)[^key-4ef12ea76d4c83f17f527de0fd08a66d] No reference shall be made under section 32(a) of the 1991 Act if the period within which the CMA is required by section 34ZA of the 2002 Act to decide whether the duty to make a reference applies has expired without such a decision having been made.
+
+## 10. Section 34: Supplementary provision in relation to anticipated mergers
+
+(1) Section 34 (supplementary provision in relation to anticipated mergers) has effect as if, in subsection (1)(a), for the words from “this Part” to “contemplation” there were substituted “section 32(a) of the 1991 Act”.
+
+(2) The Enterprise Act 2002 (Anticipated Mergers) Order 2003[^f00003] shall have effect, for the purposes of references under section 32(a) of the 1991 Act, as if it had been made under section 34 of the 2002 Act as modified by paragraph (1) and as if—
+
+- (a) in article 2, for the definition of “reference” there were substituted—
+
+  > - “reference” means a reference under section 32(a) of the Water Industry Act 1991;
+
+  ;and
+- (b) in article 4, for “36(2)(a) and (b)” there were substituted “36(4)(a) and (b)”.
+
+## 10ZA. Section 34ZA: Time-limits for decisions about references[^key-4a8412361c5483fd0f0775bff69e63c8]
+
+Section 34ZA (time-limits for decisions about references) has effect as if—
+
+- (a) in subsection (1)—
+  - (i) in the words before paragraph (a), for “section 22(1) or 33(1)[^key-79aba85722baa95e7a9ff647d184d6de]” there were substituted “section 32(a) or (b) of the 1991 Act”; and
+  - (ii) in paragraph (a), for “(taking account of the power under section 22(2) or (as the case may be) 33(2) and the operation of section 22(3) or (as the case may be) 33(3))” there were substituted “(taking account of the operation of sections 33(1) and 33A(4) of the 1991 Act and the power under section 33A(1) or (as the case may be) (2) of the 1991 Act)”;
+- (aa)[^key-e81330448ccf888df3c89251716cb146] subsection (1A) were omitted;
+- (b) in subsection (2)—
+  - (i) in the words before paragraph (a), for “section 22(1) or 33(1)[^key-0be864b3cf497ef9d686d32b17f5959f]” there were substituted “section 32(a) or (b) of the 1991 Act”; and
+  - (ii) in paragraph (a), for “section 73” there were substituted “section 33D of the 1991 Act”;
+- (c) in subsection (3), in the definition of “the initial period”—
+  - (i) paragraph (a) were omitted; and
+  - (ii) in paragraph (b), “in any other case,” were omitted and the remaining text ceased to be paragraph (b); and
+- (d) subsection 4[^key-787286c6f68220fe62d25eeec71453f1] were omitted.
+
+## 10ZB. Section 34ZB: Extension of time-limits[^key-aa50e3eaa0673a6e773890dd30135be4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10ZC. Section 34ZC: Sections 34ZA and 34ZB: supplementary[^key-b9959ff2763ccfaf4a595eb02ddc8393]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10A. Section 34C: functions to be exercised by CMA groups[^key-a48ad6ac643cb9b05594d2a25b4c0d2a]
+
+Section 34C (functions to be exercised by CMA groups) has effect as if, in subsection (1)—
+
+- (a) in the words before paragraph (a), for “section 22 or 33” there were substituted “section 32(a) or (b) of the 1991 Act”,
+- (b) in paragraph (a), for “sections 35(6) and (7), 36(5) and (6) and” there were substituted “section”, and
+- (c) in paragraph (b), for “section 22, section 23(9)(a)” there were substituted “section 32(b) of the 1991 Act, section 23(1)(a)
+
+## 11. Sections 35 to 36: Questions to be decided in relation to mergers
+
+Part 3 of the 2002 Act has effect as if, for sections 35 and 36, there were substituted—
+
+> **35. Questions to be decided in relation to completed water mergers**
+>
+> (1) Subject to section 127(3), the first questions to be decided by the CMA[^key-04df04930793a87c3d00c5f8fbde589b] on a merger reference under section 32(b) of the 1991 Act shall be—
+>
+> - (a) whether a water merger has taken place; and
+> - (b) if so, whether that merger has prejudiced, or may be expected to prejudice, the ability of the Authority, in carrying out its functions by virtue of the 1991 Act, to make comparisons between different water enterprises.
+>
+> (2) Any decision of the CMA on a merger reference under section 32(b) of the 1991 Act that a water merger has taken place shall be treated as a decision that no water merger has taken place if the decision is not that of at least two-thirds of the members of the group constituted in connection with the reference under Schedule 4 to the Enterprise and Regulatory Reform Act 2013[^key-1fe03abf6d0814f64c50134b206fa553].
+>
+> (3) Any decision of the CMA on a merger reference under section 32(b) of the 1991 Act that a water merger has prejudiced, or may be expected to prejudice, the ability of the Authority, in carrying out its functions by virtue of the 1991 Act, to make comparisons between different water enterprises shall be treated as a decision that the water merger has not prejudiced, or may be expected not to prejudice, that ability of the Authority if the decision is not that of at least two-thirds of the members of the group constituted in connection with the reference under Schedule 4 to the Enterprise and Regulatory Reform Act 2013.
+>
+> (4) For the purposes of this Part there is a prejudicial outcome if—
+>
+> - (a) a water merger has taken place and that merger has prejudiced, or may be expected to prejudice, the ability of the Authority, in carrying out its functions by virtue of the 1991 Act, to make comparisons between different water enterprises; or
+> - (b) arrangements are in progress which, if carried into effect, will result in a water merger and that merger may be expected to prejudice the ability of the Authority, in carrying out its functions by virtue of the 1991 Act, to make comparisons between different water enterprises.
+>
+> (5) The CMA shall, if it has decided on a reference under section 32(b) of the 1991 Act that there is a prejudicial outcome (within the meaning given by subsection (4)(a)), decide the following additional questions—
+>
+> - (a) whether action should be taken by it under section 41(2) for the purpose of remedying, mitigating or preventing the prejudice to the Authority or any adverse effect which has resulted from, or may be expected to result from, the prejudice to the Authority;
+> - (b) whether it should recommend the taking of action by others for the purpose of remedying, mitigating or preventing the prejudice to the Authority or any adverse effect which has resulted from, or may be expected to result from, the prejudice to the Authority; and
+> - (c) in either case, if action should be taken, what action should be taken and what is to be remedied, mitigated or prevented.
+>
+> (6) In deciding the questions mentioned in subsection (5) the CMA shall, in particular, have regard to the need to achieve as comprehensive a solution as is reasonable and practicable to the prejudice to the Authority and any adverse effects resulting from it.
+>
+> (7) In deciding, on a merger reference under section 32(b) of the 1991 Act, whether to take action for the purpose of remedying, mitigating or preventing the prejudice to the Authority or any adverse effect which has resulted from, or may be expected to result from, the prejudice to the Authority and, if so, what action should be taken, the CMA may, in particular, have regard to the effect of any such action on any relevant customer benefits in relation to the merger concerned provided that—
+>
+> - (a) a consideration of those benefits would not prevent a solution to the prejudice concerned; or
+> - (b) the benefits which have accrued, or may be expected to accrue, are substantially more important than the prejudice concerned.
+>
+> **36. Questions to be decided in relation to anticipated water mergers**
+>
+> (1) Subject to section 127(3), the first questions to be decided by the CMA[^key-32ec38bec8a574baf8be12da91c49c21] on a merger reference under section 32(a) of the 1991 Act shall be—
+>
+> - (a) whether arrangements are in progress which, if carried into effect, will result in a water merger; and
+> - (b) if so, whether that merger may be expected to prejudice the ability of the Authority, in carrying out its functions by virtue of the 1991 Act, to make comparisons between different water enterprises.
+>
+> (2) Any decision of the CMA on a merger reference under section 32(a) of the 1991 Act that arrangements are in progress which, if carried into effect, will result in a water merger shall be treated as a decision that no arrangements are in progress which, if carried into effect, will result in a water merger if the decision is not that of at least two-thirds of the members of the group constituted in connection with the reference under Schedule 4 to the Enterprise and Regulatory Reform Act 2013[^key-713e69db0a9fb6cc16e52cd8941f9346].
+>
+> (3) Any decision of the CMA on a merger reference under section 32(a) of the 1991 Act that a water merger may be expected to prejudice the ability of the Authority, in carrying out its functions by virtue of the 1991 Act, to make comparisons between different water enterprises shall be treated as a decision that the water merger may be expected not to prejudice that ability of the Authority if the decision is not that of at least two-thirds of the members of the group constituted in connection with the reference under Schedule 4 to the Enterprise and Regulatory Reform Act 2013.
+>
+> (4) The CMA shall, if it has decided on a reference under section 32(a) of the 1991 Act that there is a prejudicial outcome within the meaning given by section 35(4)(b), decide the following additional questions—
+>
+> - (a) whether action should be taken by it under section 41(2) for the purpose of remedying, mitigating or preventing the prejudice to the Authority or any adverse effect which may be expected to result from the prejudice to the Authority;
+> - (b) whether it should recommend the taking of action by others for the purpose of remedying, mitigating or preventing the prejudice to the Authority or any adverse effect which may be expected to result from the prejudice to the Authority; and
+> - (c) in either case, if action should be taken, what action should be taken and what is to be remedied, mitigated or prevented.
+>
+> (5) In deciding the questions mentioned in subsection (4) the CMA shall, in particular, have regard to the need to achieve as comprehensive a solution as is reasonable and practicable to the prejudice to the Authority and any adverse effects resulting from it.
+>
+> (6) In deciding, on a merger reference under section 32(a) of the 1991 Act, whether to take action for the purpose of remedying, mitigating or preventing the prejudice to the Authority or any adverse effect which may be expected to result from the prejudice to the Authority and, if so, what action should be taken, the CMA may, in particular, have regard to the effect of any such action on any relevant customer benefits in relation to the merger concerned provided that—
+>
+> - (a) a consideration of those benefits would not prevent a solution to the prejudice concerned; or
+> - (b) the benefits which may be expected to accrue are substantially more important than the prejudice concerned.
+
+.
+
+## 12. Section 37: Cancellation and variation of references
+
+Section 37 (cancellation and variation of references) has effect as if—
+
+- (a) in subsection (1), for “section 33” there were substituted “section 32(a) of the 1991 Act”; and
+- (b) for subsections (2) and (3) there were substituted—
+
+  > (2) The CMA[^key-b9b5decd16eaa750379bbdfee4371b4b] may, if it considers that doing so is justified by the facts (including events occurring on or after the making of the reference concerned), treat a reference made under paragraph (a) or paragraph (b) of section 32 of the 1991 Act as if it had been made under paragraph (b) or (as the case may be) paragraph (a) of that section; and, in such cases, references in this Part to references under those paragraphs shall, so far as may be necessary, be construed accordingly.
+  >
+  > (3) Where, by virtue of subsection (2), the CMA treats a reference made under paragraph (a) or paragraph (b) of section 32 of the 1991 Act as if it had been made under paragraph (b) or (as the case may be) paragraph (a) of that section, sections 77 to 81 shall, in particular, apply as if the reference had been made under paragraph (b) or (as the case may be) paragraph (a) of section 32 of that Act instead of under paragraph (a) or paragraph (b) of that section.
+
+  ;
+- (c) in subsection (4), for “section 22 or 33 as if it had been made under section 33 or (as the case may be) 22” there were substituted “paragraph (a) or paragraph (b) of section 32 of the 1991 Act as if it had been made under paragraph (b) or (as the case may be) paragraph (a) of that section”;
+- (d) in subsection (5)(a)—
+  - (i) for “section 22” there were substituted “section 32(a) of the 1991 Act”; and
+  - (ii) for “section 33” there were substituted “section 32(b) of that Act”;
+- (e) in subsection (5)(b)—
+  - (i) for “section 33” there were substituted “section 32(b) of the 1991 Act”; and
+  - (ii) for “section 22” there were substituted “section 32(a) of that Act”; and
+- (f) in subsection (6), for “section 22 or 33” there were substituted “section 32(a) or (b) of the 1991 Act”.
+
+## 13. Section 38: Investigations and reports on references
+
+Section 38 (investigations and reports on references) has effect as if—
+
+- (a) in subsection (1), for “section 22 or 33” there were substituted “section 32 of the 1991 Act”; and
+- (b) in subsection (2)—
+  - (i) in paragraph (b), the word “and” were omitted; and
+  - (ii) after paragraph (c), there were inserted—
+
+    > ; and
+    >
+    > - (d) if the merger reference is under section 32(b) of the 1991 Act and the CMA[^key-0bcec96b9978fcfebf2331d58fd96489] is satisfied that the reference was not made within the period of four months mentioned in section 24, a statement of that fact.
+
+    .
+
+## 13A. Section 39: Time-limits for investigations and reports[^key-68125a9253036deb3adbe86811493438]
+
+Section 39 (time-limits for investigations and reports) has effect as if—[^key-cdbe55013978fabad82eda3b37e09c1a]
+
+- (a) in subsection (3), for “section 22(1) or 33(1)” there were substituted “section 32(a) or (b) of the 1991 Act”;
+- (b) subsection (3A) were omitted;
+- (c) in subsection (7), “, (3A)” were omitted; and
+- (d) in subsection (8A), for “section 33” there were substituted “section 32(a) of the 1991 Act”.
+
+## 14. Section 40: Section 39: supplementary
+
+Section 40 (section 39: supplementary) has effect as if—[^key-fd5f2fd49941d5dffdd9629b20697d4c]
+
+- (a) in subsection (4), “or (3A)” were omitted;
+- (b) in subsection (5), “, (3A)” were omitted; and
+- (c) in subsection (10), for “section 22 or 33” there were substituted “section 32(a) or (b) of the 1991 Act”.
+
+## 15. Section 41: Duty to remedy effects of completed or anticipated mergers
+
+Section 41 (duty to remedy effects of completed or anticipated mergers) has effect as if—
+
+- (a) in subsection (1), for “an anti-competitive” there were substituted “a prejudicial”;
+- (b) in paragraphs (a) and (b) of subsection (2), and in subsection (4), for “substantial lessening of competition” there were substituted “prejudice to the Authority ”;
+- (c) in subsection (3)—
+  - (i) for “35(3)” there were substituted “35(5)”; and
+  - (ii) for “36(2)” there were substituted “36(4)”; and
+- (d) for subsection (5) there were substituted—
+
+  > (5) In making a decision under subsection (2), the CMA[^key-76eca00290a7ef7420573b8ae75431a8] may, in particular, have regard to the effect of any action on any relevant customer benefits in relation to the merger concerned in accordance with section 35(7) or (as the case may be) section 36(6)
+
+  .
+
+## 16. Section 71: Initial undertakings: completed mergers[^key-7f7312ad33f11165826ec103cb57c2e2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 17. Section 72: Initial enforcement orders: completed or anticipated mergers[^key-4778360e5b2d0aa516aaa621cc99afac]
+
+*Extent: E+W+S+N.I.*
+
+Section 72 (initial enforcement orders: completed or anticipated mergers[^key-2cd718dab8b1684197c89e549cfb82d6]) has effect as if—
+
+- (a)[^key-9d564531428207f45518f934ed5a2aa6] in subsection (1)—
+  - (i)[^key-72de9d4bb7a22727e9146cce3c1bb6b8] in paragraph (a), for “section 22, 33, 68B or 68C[^key-4a342d4a59e75d715ffebf7c80c14c8f]” there were substituted “section 32(a) or (b) of the 1991 Act”; and
+  - (ii) in paragraph (b), after “two or more” (in both places where it occurs), there were inserted “water”;
+- (b)[^key-8a26b5d6f691c2b3eb616fc69a52c683] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-8a26b5d6f691c2b3eb616fc69a52c683] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) in subsection (6)—
+  - (i)[^key-d38b443fadc01e37074bfefc09e5c984] in the words before paragraph (a)[^key-e3e9fdba1319bb7929d523c7ed73e0f9], for “section 22, 33, 68B or 68C[^key-05dd0e8c743e0a942c1952518e85e38d]” there were substituted “section 32(a) or (b) of the 1991 Act”; [^key-657ad025ed7b65a59d2ac18b62981238]...
+  - (ia)[^key-232323f0fa21c97787c3530ac35aa3a8] in paragraph (b), for “section 73” there were substituted “section 33D of the 1991 Act”; and
+  - (ii)[^key-093e41412957f2139249b2e8ede24135] in paragraph (d), for “section 22, 33, 68B or 68C[^key-4fa6f877a7495b808f2749a2b40173e0]” there were substituted “section 32(a) or (b) of the 1991 Act”.
+
+## 17A. Section 73A: Time-limits for consideration of undertakings[^key-ae6118339ec9d5797440f8086bbb3f15]
+
+Section 73A (time-limits for consideration of undertakings) has effect as if—
+
+- (a) in subsection (1)—
+  - (i) in the words before paragraph (a), for “section 73(2) or (3B)[^key-3a13b937e8fa639f5ac2e5593f9821b2]” there were substituted “section 33D(1) of the 1991 Act”; and
+  - (ii)[^key-0ec8a06e249f549f2be6c594828025c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-8cb414d19b0e2a5140061e41e2f3cdca] in subsection (2)—
+  - (i) for “the purposes of section 73(2) or (3B)” there were substituted “those purposes”; and
+  - (ii) in paragraph (a) for “section 73(2) or (3B)[^key-a6bf6ec0d98529f62d4b989ed7037f58]” there were substituted “section 33D(1) of the 1991 Act”.
+
+## 17B. Section 74: Effect of undertakings under section 73
+
+Section 74 (effect of undertakings under section 73) has effect as if—
+
+- (a) in the heading, for “section 73” there were substituted “section 33D of the 1991 Act”;
+- (b) in subsection (1)—
+  - (i) in the words before paragraph (a), for “relevant authority shall not make a reference under section 22, 33 or 45[^key-ce2839d961c24af3b9a42b4f3c33226b]” there were substituted “CMA shall not make a reference under section 32(a) or (b) of the 1991 Act”; and
+  - (ii) in paragraph (a), for “section 73(2)[^key-ccf78ad6a822542da369ed51b1a6ffa3]” there were substituted “section 33D of the 1991 Act”; [^key-c47da00210d74e5d0a55003d49de9218]...
+- (ba)[^key-980a4a586dd855005b7082138057926c] subsection (1A) were omitted;
+- (bb) in subsection (2), for “Subsections (1) and (1A) do not” there were substituted “Subsection (1) does not”; and
+- (c) subsection (5) were omitted.
+
+## 17C. Section 75: Order making power where undertakings under section 73 not fulfilled etc
+
+Section 75 (order making power where undertakings under section 73 not fulfilled etc) has effect as if—
+
+- (a) in the heading, for “section 73” there were substituted “section 33D of the 1991 Act”;
+- (b) in subsection (1)(a), for “section 73(2) or (3B)[^key-085e7c1507dd5d16351814b3add71be2]” there were substituted “section 33D of the 1991 Act”;
+- (c) in subsection (2), for “section 73(2) or (3B) (as the case may be)[^key-024ca78b42cbba11971582acd7f8d239]” there were substituted “section 33D(2) of the 1991 Act”; and
+- (d)[^key-2bf1ba4f3b67729e9ef0eedbec3cff9f] for subsections (3A) and (3B) there were substituted—
+
+  > (3A) Subsections (4) and (5) of section 33D of the 1991 Act apply for the purposes of subsection (2) above as they apply for the purposes of subsection (1) of that section.
+
+  .
+
+## 18. Section 77: Restrictions on certain dealings: completed mergers
+
+Section 77 (restrictions on certain dealings: completed mergers) has effect as if—
+
+- (a) in paragraph (a) of subsection (1), for “section 22 or 68B[^key-63510ecd2569b477f36596e835d35ff4]” there were substituted “section 32(b) of the 1991 Act”; and
+- (b) in paragraph (b) of subsection (1)—
+  - (i) for “relevant merger situation” there were substituted “water merger”; and
+  - (ii) for “that situation” there were substituted “that merger”.
+
+## 19. Section 78: Restrictions on certain share dealings: anticipated mergers
+
+Section 78 (restrictions on certain share dealings: anticipated mergers) has effect as if—
+
+- (a) in paragraph (a) of subsection (1), for “section 33 or 68C[^key-2a91d9f5eb0e582ead988087416274c5]” there were substituted “section 32(a) of the 1991 Act ”; and
+- (b) in paragraph (b) of subsection (1)—
+  - (i) for “relevant merger situation” there were substituted “proposed water merger”; and
+  - (ii) for “that situation” there were substituted “that merger”.
+
+## 20. Section 79: Sections 77 and 78: further interpretation provisions
+
+Section 79 (sections 77 and 78: further interpretation provisions) has effect as if—
+
+- (a) in subsections (1) and (2), for “section 22 , 33, 68B or 68C[^key-24f2a84da2863aca960c83de3e7a15ec]” there were substituted “section 32(a) or (b) of the 1991 Act”; [^key-45c9455c0037f0e8e2ac479b0523e8e9]...
+- (b)[^key-31e7804caa7000448b4934238d45c8c1] for paragraphs (c), (d) and (e) of subsection (1), there were substituted—
+
+  > - (c) the report of the CMA under section 38 contains the decision that there is not a prejudicial outcome;
+  > - (d) the report of the CMA under section 38 contains the decision that there is a prejudicial outcome and the CMA has decided under section 41(2) neither to accept an undertaking under section 82 nor to make an order under section 84; or
+  > - (e) the report of the CMA under section 38 contains the decision that there is a prejudicial outcome and the CMA has decided under section 41(2) to accept an undertaking under section 82 or to make an order under section 84.
+
+  ; and
+- (c)[^key-f2b2a3cfaf882df95ee43d4bc1ded3c1] subsection (5A) were omitted.
+
+## 21. Section 80: Interim undertakings
+
+Section 80 (interim undertakings) has effect as if, in subsections (1), (7) and (8), for “section 22 , 33, 68B or 68C[^key-0d3c9d1659fc87d862276dddcdb35f77]” there were substituted “section 32(a) or (b) of the 1991 Act”.
+
+## 22. Section 81: Interim orders
+
+Section 81 (interim orders) has effect as if, in subsections (1), (7) and (8), for “section 22 , 33, 68B or 68C[^key-c618581e338382f727ff963db88e5977]” there were substituted “section 32(a) or (b) of the 1991 Act”.
+
+## 23. Section 82: Final undertakings
+
+Section 82 (final undertakings) has effect as if, in subsections (3) and (4), for “section 22 , 33, 68B or 68C[^key-2757e6e85d49766a37d6213dc061969c]” there were substituted “section 32(a) or (b) of the 1991 Act”.
+
+## 24. Section 84: Final orders
+
+Section 84 (final orders) has effect as if, in subsection (5), for “section 22 , 33, 68B or 68C[^key-7dcfaed1704beae7e23fddbcad1ae294]” there were substituted “section 32(a) or (b) of the 1991 Act”.
+
+## 24A. Section 89: Subject-matter of undertakings[^key-ee22e4f9958a164b0ae0c51ee94a1e22]
+
+Section 89 (subject-matter of undertakings) has effect as if for subsection (2) there were substituted—
+
+> (2) In this Part “enforcement undertaking” means an undertaking under section 33D of the 1991 Act or an undertaking under section 80 or 82.
+
+.
+
+## 25. Section 103: Duty of expedition in relation to references[^key-6a450c6efc6883580b8c5e2aa7ef2ae4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 25A. Section 103: Duty of expedition in relation to references[^key-8cdfe7da74201ca284c6e2b91127be18]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 26. Section 104: Certain duties of relevant authorities to consult
+
+Section 104 (certain duties of relevant authorities to consult) has effect as if, in subsection (6), in the definition of “relevant decision”—
+
+- (a)[^key-cafb41565ac151e3c219b36a4c675366] in sub-paragraph (i) of paragraph (a), for “section 22(1), 33(1)[^key-d0a061804c67ffb17dc6c21e6fd8463a] , 68B or 68C[^key-dd152b435ea26c765b7879cc8f08b4de] or accept undertakings under section 73” there were substituted “section 32(a) or (b) of the 1991 Act or accept undertakings under section 33D of that Act”; [^key-e63337444d9b091ac52d934afd6d1f4b]...
+- (aa)[^key-56a969fe9aed1e340dd35212a48bbe69] in sub-paragraph (ii) of paragraph (a), for “section 22, 33, 68B or 68C” there were substituted “section 32(a) or (b) of the 1991 Act”; and
+- (b) in sub-paragraph (iii) of paragraph (a)[^key-423c33fed56b17f8e8447bd172514fe4], for “(3), 36(1) or (2)” there were substituted “(5), 36(1) or (4 )”.
+
+## 27. Section 105: General information duties of OFT and Commission
+
+Section 105 (general information duties of OFT and Commission) has effect as if, in subsection (1)—
+
+- (a)[^key-3cf06c587ab1607a02cf1d1abaad5ed6] for “section 22 , 33, 68B or 68C[^key-c310b8abb97d896047d9df35d4023d95]” there were substituted “section 32(a) or (b) of the 1991 Act”; and
+- (b) for “creation of the relevant merger situation” there were substituted “water merger”.
+
+## 28. Section 106: Advice and information about references under section 22, 33, 68B or 68C[^key-62d4591747d00f6d4e1ac2182fc5a29f][^key-6f1f6fd53adac37949f2a7578263213d]
+
+Section 106 (advice and information about references under section 22, 33, 68B or 68C[^key-51b009130878dccff47cd66128c2ad4d]) has effect as if—
+
+- (a) in the heading, for “ section 22, 33, 68B or 68C” there were substituted “section 32 of the 1991 Act”;
+- (b) in subsection (1), for “section 22 , 33, 68B or 68C[^key-691a492ae442b312ed2c3fb3ae14e60d]” there were substituted “section 32(a) or (b) of the 1991 Act”; and
+- (c) in subsection (6), after “a function conferred by this Part” there were inserted “or by sections 32 to 35 of the 1991 Act”.
+
+## 29. Section 107: Further publicity requirements
+
+Section 107 (further publicity requirements) has effect as if—
+
+- (a) in subsection (1)—
+  - (i) in paragraph (a)[^key-1c92368b148fa9550750df5e64b66cdf], for “section 22(1), 33(1)[^key-52420f03d9c1ceb846b66772ff9b4ba1] , 68B or 68C[^key-456f542e02dc26b9241c3cf3e197f96a]” there were substituted “section 32(a) or (b) of the 1991 Act”; [^key-550d45575a1be4e68c9348c7ef449995]...
+  - (ii)[^key-1dfe898016e1f7048b00b2fb522b4bd6] in paragraph (aa), for “section 33(2)(b) or 68C(2)(a)[^key-aaf6dc6ae30401e1f57b52f72cfdb878]” there were substituted “section 33A(1)(a) of the 1991 Act”;
+  - (iia)[^key-dbed8bc80b63547909ba269955f252b0] paragraph (aaa) were omitted;
+  - (iii) in paragraph (ab), “paragraph (b) of” were omitted;
+  - (iiia)[^key-d5f4384b8d8531fd0c5a2f1a24e7f066] in paragraph (b), for “section 22, 33, 68B or 68C” there were substituted “section 32(a) or (b) of the 1991 Act”;
+  - (iv)[^key-d4dbad4aa670ac50d36f2fc48218fdcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (v) paragraph (c) were omitted;
+  - (vi) in paragraph (eb), for “section 73” there were substituted “section 33D of the 1991 Act;” and
+  - (vii) paragraph (i) were omitted.
+- (b) in subsection (2)—
+  - (i) in paragraph (a), for "section 33 or 68C[^key-56256966d14c76fed98ffe3a883279de]” there were substituted “section 32(a) of the 1991 Act”; [^key-e6fc97c7ffac291dd12b3e34e6236cce]...
+  - (ii) in paragraph (b), for “section 22 or 68B as if it had been made under section 33 or 68C or to treat a reference under section 33 or 68C as if it had been made under section 22 or 68B[^key-15c9264f8eab53c894d005e38a345b29]” there were substituted “paragraph (a) or paragraph (b) of section 32 of the 1991 Act as if it had been made under paragraph (b) or (as the case may be) paragraph (a) of that section” ; and[^key-23a73108c33c13d7847f2c926984f5fe]
+  - (iii) paragraphs (g) to (m) were omitted;
+- (c) in subsection (3), paragraphs (b) to (j) were omitted; and
+- (d) subsections (6) to (11) were omitted.
+
+## 29A. Section 108: Defamation[^key-77996d9fdecfb7dafe77ba8a87300b8a]
+
+Section 108 (defamation) has effect as if after “under this Part” there were inserted “or sections 32 to 35 of the 1991 Act”.
+
+## 30. Section 109: Attendance of witnesses and production of documents etc.
+
+Section 109 (attendance of witnesses and production of documents etc) has effect as if, in subsection (A1)(a)—[^key-b4dcdf72105415aa41947f2070360213]
+
+- (a) after “this Part” there were inserted “or section 32 of the 1991 Act”, and
+- (b) for “section 22 , 33, 68B or 68C[^key-670af8657fd9baef7f4712093afd85e2]” there were substituted “section 32(a) or (b) of the 1991 Act.
+
+## 30ZA. Section 109B: Extra-territorial application of notices under section 109[^key-2a02934fa8d7f8ca0491f1586d51706a]
+
+Section 109B (extra-territorial application of notices under section 109) has effect as if, in subsection (3)(a), for the words from “section 22, 33, 45, 62, 62B or 68C” to “section 70A(1),” there were substituted “section 32(a) or (b) of the 1991 Act”.
+
+## 30ZB. Section 110: Enforcement of powers under section 109: imposition of penalties[^key-82f7575689326bfdaf08e19141706dde]
+
+Section 110 (enforcement of powers under section 109: imposition of penalties) has effect as if—
+
+- (a) in subsection (1A)(a) and (b), after the word “Part” there were inserted “or section 32 of the 1991 Act”;
+- (b) in subsection (1B), paragraphs (b) and (c) were omitted; and
+- (c) in subsection (9), paragraph (b) were omitted.
+
+## 30A. Section 110A: Restriction on powers to impose penalties under section 110[^key-ac9f18e4d749659c65fd62e0bc804ce1]
+
+Section 110A has effect as if [^key-6d099023c56d3af795b4ec42adbbc791]... in subsections (5) and (6), for “section 22 , 33, 68B or 68C[^key-4d21a949792b203388362c4e60e91a2c]” there were substituted “section 32(a) or (b) of the 1991 Act”.
+
+- (b)[^key-4017f444c94d6443ebc38b5bca054573] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 30B. Section 110B: Section 110A: supplementary provision[^key-6f52626c293d023404e25b3eb2b9a50e]
+
+Section 110B (section 110A: supplementary provision) has effect as if—
+
+- (a) in subsection (1)—
+  - (i) in the words before paragraph (a), for “section 22 , 33, 68B or 68C[^key-256e1dd92902b0f0747c760b4732ef3f]”, there were substituted “section 32(a) or (b) of the 1991 Act”; and[^key-a58cb65c7ed05f3c76a2581014fb41dd]
+  - (ii) in paragraphs (b) and (c), for “section 73”, there were substituted “section 33D of the 1991 Act”; [^key-d580287bc27a5745357153673e1bd4ee]...
+  - (iii)[^key-d580287bc27a5745357153673e1bd4ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in subsection (2)—
+  - (i) in the words before paragraph (a), for “section 22 , 33, 68B or 68C[^key-09ff1f8ae82a74704763a3ab617d8497]”, there were substituted “section 32(a) or (b) of the 1991 Act”; and
+  - (ii)[^key-a66d4947a1ca50972ded7b5c2f2f5cb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) subsections (3) to (6) were omitted.
+
+## 31. Section 117: False or misleading information
+
+Section 117 (false or misleading information) has effect as if, in subsections (1) and (2), after the word “Part” there were inserted “or section 32 of the 1991 Act”.
+
+## 31A. Section 119: Minority reports of CMA[^key-a6f38a4b434562b13a3d9e521767e59d]
+
+Section 119 (minority reports of CMA) has effect as if, in subsection (1), for “this Part” there were substituted “section 32 of the 1991 Act”.
+
+## 32. Section 120: Review of decisions under Part 3
+
+Section 120 (review of decisions under Part 3) has effect as if—
+
+- (za)[^key-9eb6b734f2c89ac0d5d3beff31929920] in the heading, after “Part 3” there were inserted “or sections 32 to 35 of the 1991 Act”
+- (a) for subsection (1), there were substituted —
+
+  > (1) Any person aggrieved by a decision of the CMA[^key-3a791a8e2429c99c400f3cbeb8eed5fa] under this Part or sections 32 to 35 of the[^key-23e44af0bc557562f41d29dba8425eac] 1991 Act in connection with a reference or possible reference in relation to a water merger may apply to the Competition Appeal Tribunal for a review of that decision.
+
+  ; [^key-2b3f832c86a1a70a50ca2f8691d102d6]...
+- (aa)[^key-e70a00356df74b3fdaf4afa118747ba2] subsection (1A) were omitted; and
+- (b) in subsection (2)(b), after the words “this Part” there were inserted “or sections 32 to 35 of the[^key-ed99959f94cb039f0bbc96833d2e8812] 1991 Act.”.
+
+## 33. Section 122: Primacy of EU law[^key-0dd9ee80e439cd8d9ec73f55f1ce0ff6][^M_F_4346c626-e8bc-412f-bc8f-38ef02da00dc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 34. Section 127: Associated persons
+
+Section 127 (associated persons) has effect as if, in subsection (3), for “section 22, 33, 45 , 62, 68B or 68C[^key-53428843c8da3e81d609a20583cc04c2]” there were substituted “section 32(a) or (b) of the 1991 Act”.
+
+## 35. Section 129: Other interpretation provisions
+
+Section 129 (other interpretation provisions) has effect as if, in subsection (1), the following definitions were inserted—
+
+- (a) before the definition of “action”—
+
+  > - “the 1991 Act” means the Water Industry Act 1991;
+
+  ;
+- (b) before the definition of “business”—
+
+  > - “the Authority” means the Water Services Regulation Authority or, until the coming into force of section 36 of the Water Act 2003, the Director General of Water Services;
+
+  .
+
+## 36. Schedule 10: procedural requirements for certain enforcement undertakings and orders[^key-46dc7cbd697b13ef7ab3c9c2b2b11c9b]
+
+Schedule 10 (procedural requirements for certain enforcement undertakings and orders) has effect as if, in paragraphs 1(a) and 6(a), for “section 73 or 82 or paragraph 3 or 9 of Schedule 7” there were substituted “section 33D of the 1991 Act or section 82 of, or paragraph 3 or 9 of Schedule 7 to, this Act”.
+
+## 37. Review[^key-1371c515aad319ebc583eec7941e0129]
+
+(1) The Secretary of State must—
+
+- (a) carry out reviews of these Regulations; and
+- (b) for each review, publish a report setting out the conclusions of the review.
+
+(2) The reports must, in particular—
+
+- (a) set out the objectives intended to be achieved by these Regulations;
+- (b) assess the extent to which those objective are achieved; and
+- (c) assess whether those objectives remain appropriate, and if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(3) The first report must be published by 17th December 2020.
+
+(4) Subsequent reports must be published at intervals not exceeding five years.
+
+Gerry Sutcliffe,
+
+Parliamentary Under Secretary of State for Employment Relations, Postal Services and Consumers,
+
+Department of Trade and Industry
+
+(This note is not part of the Regulations)
+
+Part 3 of the Enterprise Act 2002 (“the 2002 Act”) contains the main statutory scheme for the regulation of mergers. Sections 32 to 35 of, and Schedule 4ZA to, the Water Industry Act 1991 (“the 1991 Act”) (as substituted by section 70 of the 2002 Act) provide a separate scheme for the regulation of mergers between water or sewerage undertakers (“water mergers”) in England and Wales. Section 32 of that Act places a duty on the OFT to refer to the Competition Commission any such mergers which exceed certain thresholds that are set pursuant to section 33 of that Act.
+
+Paragraph 1 of Schedule 4ZA provides that Part 3 of the 2002 Act and related provisions in that Act shall apply to water mergers with certain modifications, which must in particular give effect to paragraphs 3 to 6 of that Schedule. These Regulations give effect to those provisions with relevant modifications.
+
+The central modifications are made by regulation 11, which sets out the questions the Competition Commission must decide in relation to completed and anticipated mergers. They must decide whether the merger may be expected to prejudice the ability of the Director General of Water Services or, in future, the Water Services Regulation Authority (the Authority), in carrying out its functions by virtue of the 1991 Act, to make comparisons between different water enterprises. In that event, in deciding what remedial action should be taken, the Commission may have regard to any relevant customer benefits in relation to the merger, provided that a consideration of those benefits would not prevent a solution to the prejudice concerned, and those benefits are substantially more important than the prejudice concerned.
+
+The Regulations expressly disapply certain provisions of Part 3 of the 2002 Act for the purposes of assessing water mergers under the 1991 Act. These include the provisions that allow for public interest considerations specified in section 58 of the 2002 Act to be taken into account.
+
+Council Regulation [(EC) No 139/2004](https://www.legislation.gov.uk/european/regulation/2004/0139) on the control of concentrations between undertakings (the EC Merger Regulation) may also apply to water mergers that are the subject of these Regulations and which fall within the exclusive competence of the European Commission by virtue of its provisions. Regulation 21(4) of the EC Merger Regulation recognises that Member States may take appropriate measures to protect legitimate interests other than those taken into consideration by them, and it is considered that securing the ability of the Authority to perform its functions as described above constitutes such a legitimate interest.
+
+A full regulatory impact assessment has not been produced for this instrument as it has no impact on the costs of business.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
+
+[^key-6130f7f794ad138b25ce783f69abc1c8]: Modification: Regulations applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [5(i)](https://www.legislation.gov.uk/uksi/2020/214/article/5/i)
+
+[^f00002]: Footnote: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^key-7483b33207dd77864f6e16c9ec982321]: Textual amendment: [Reg. 3(1)(aa)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/3/1/aa) inserted (1.1.2025) by [The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024 (S.I. 2024/1234)](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/1234/regulation/3)
+
+[^key-fa3f8aec558cf071de6c598abbd03ac9]: Textual amendment: [Reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/3/1/b) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 12(2)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/12/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3d75e44a1927d5ed103ad233ba391e15]: Textual amendment: [Reg. 3(1)(ba)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/3/1/ba) omitted (18.12.2015) by virtue of [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/3/a)
+
+[^key-abdd59305e06528be6d112fc3927c111]: Textual amendment: Words in [reg. 3(1)(d)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/3/1/d) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 12(2)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/12/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5ef94876df0a5e383d3080d4cb4ff34d]: Textual amendment: [Reg. 3(da)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/3/da) inserted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1185/article/9)
+
+[^key-48dd0cc02c62462b70b242b2e81b0975]: Textual amendment: Words in [reg. 3(1)(e)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/3/1/e) substituted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/3/b)
+
+[^key-7be6b5879573506d3ff35de6a6b844f3]: Textual amendment: Word in reg. 3(f) omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(2)(c)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-543c40e1e4a0872c5c6f2d3f23411255]: Textual amendment: Word in [reg. 3(1)(f)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/3/1/f) inserted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/3/c)
+
+[^key-91536e0972acc441ba5ca22b3fefa72e]: Textual amendment: [Reg. 3(1)(fa)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/3/1/fa) omitted (18.12.2015) by virtue of [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/3/d)
+
+[^key-4c9fe2ed401aee5afbb167f025a8111a]: Textual amendment: Word in reg. 4 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(3)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/3/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-f18e500f329faa3e3b9f4df8f2930702]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2004/3202/regulation/4) inserted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/1936/regulation/4)
+
+[^key-418058eeb2996e0f4846cf1066d9f1c7]: Textual amendment: Word in reg. 4 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(3)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/3/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-855b3d1d3d530da3136915b500c75df6]: Textual amendment: Word in reg. 4 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(3)(c)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/3/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-01a51655a08a24bb5e16705fb707119c]: Textual amendment: Words in [reg. 5(a)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/5/a) substituted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/5/a)
+
+[^key-511470cd865121831f8f13ec1a855622]: Textual amendment: [Reg. 5(aa)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/5/aa) inserted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/5/b)
+
+[^key-661a8580fbbad9ffa2cb263000fe67cf]: Textual amendment: Word in [reg. 5(aa)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/5/aa) inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 12(3)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/12/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a02352079bcf337a4c17d0df5721433b]: Textual amendment: [Reg. 5(b)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/5/b) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 12(3)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/12/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-49c9d872fd937c114b54ca738aeab61b]: Textual amendment: [Reg. 5(d)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/5/d) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 12(3)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/12/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4cbd6ffe35f0dea16ad713e8dfe4d59b]: Textual amendment: Word in reg. 6 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(4)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-42815382cbccdba5fdc45daa059b057a]: Textual amendment: Reg. 7 omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(5)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/549/schedule/2/paragraph/4))
+
+[^key-16bd47fdfa9c0fb8bfe75ca77611f62b]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2004/3202/regulation/8) omitted (1.1.2025) by virtue of [The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024 (S.I. 2024/1234)](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2024/1234/regulation/4)
+
+[^key-99ea05a439c9eeb43a00767948b0a99f]: Textual amendment: Words in reg. 8 heading substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(6)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/6/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/549/schedule/2/paragraph/4))
+
+[^M_F_8759414b-f490-40e9-9a6c-edd5f6311a30]: Textual amendment: Reg. 9(1) renumbered (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/6/a)
+
+[^key-4ef12ea76d4c83f17f527de0fd08a66d]: Textual amendment: Reg. 9(2) inserted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/6/b)
+
+[^f00003]: Footnote: S.I. [2003/1595](https://www.legislation.gov.uk/uksi/2003/1595).
+
+[^key-4a8412361c5483fd0f0775bff69e63c8]: Textual amendment: Regs. 10ZA-10ZC inserted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/1936/regulation/7)
+
+[^key-79aba85722baa95e7a9ff647d184d6de]: Textual amendment: Words in [reg. 10ZA(a)(i)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/10ZA/a/i) substituted (1.1.2025) by [The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024 (S.I. 2024/1234)](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/5/a)
+
+[^key-e81330448ccf888df3c89251716cb146]: Textual amendment: [Reg. 10ZA(aa)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/10ZA/aa) inserted (1.1.2025) by [The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024 (S.I. 2024/1234)](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/5/b)
+
+[^key-0be864b3cf497ef9d686d32b17f5959f]: Textual amendment: Words in [reg. 10ZA(b)(i)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/10ZA/b/i) substituted (1.1.2025) by [The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024 (S.I. 2024/1234)](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/5/c)
+
+[^key-787286c6f68220fe62d25eeec71453f1]: Textual amendment: Words in [reg. 10ZA(d)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/10ZA/d) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 12(4)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/12/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-aa50e3eaa0673a6e773890dd30135be4]: Textual amendment: [Reg. 10ZB](https://www.legislation.gov.uk/uksi/2004/3202/regulation/10ZB) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 12(5)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/12/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b9959ff2763ccfaf4a595eb02ddc8393]: Textual amendment: [Reg. 10ZC](https://www.legislation.gov.uk/uksi/2004/3202/regulation/10ZC) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 12(5)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/12/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a48ad6ac643cb9b05594d2a25b4c0d2a]: Textual amendment: Reg. 10A inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(7)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/7) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-04df04930793a87c3d00c5f8fbde589b]: Textual amendment: Words in reg. 11 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(8)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/8/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-1fe03abf6d0814f64c50134b206fa553]: Textual amendment: Words in reg. 11 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(8)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/8/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-32ec38bec8a574baf8be12da91c49c21]: Textual amendment: Words in reg. 11 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(8)(c)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/8/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-713e69db0a9fb6cc16e52cd8941f9346]: Textual amendment: Words in reg. 11 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(8)(d)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/8/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-b9b5decd16eaa750379bbdfee4371b4b]: Textual amendment: Word in reg. 12 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(9)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/9) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-0bcec96b9978fcfebf2331d58fd96489]: Textual amendment: Word in reg. 13 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(10)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/10) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-68125a9253036deb3adbe86811493438]: Textual amendment: Reg. 13A inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(11)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/11) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-cdbe55013978fabad82eda3b37e09c1a]: Textual amendment: Words in reg. 13A substituted (1.1.2025) by [The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024 (S.I. 2024/1234)](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/1234/regulation/6)
+
+[^key-fd5f2fd49941d5dffdd9629b20697d4c]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2004/3202/regulation/14) substituted (1.1.2025) by [The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024 (S.I. 2024/1234)](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2024/1234/regulation/7)
+
+[^key-76eca00290a7ef7420573b8ae75431a8]: Textual amendment: Word in reg. 15 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(12)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/12) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-7f7312ad33f11165826ec103cb57c2e2]: Textual amendment: Reg. 16 omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(13)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/13) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2014/549/schedule/2/paragraph/5))
+
+[^key-4778360e5b2d0aa516aaa621cc99afac]: Textual amendment: Words in reg. 17 heading substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(14)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/14/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-2cd718dab8b1684197c89e549cfb82d6]: Textual amendment: Words in reg. 17 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(14)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/14/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-9d564531428207f45518f934ed5a2aa6]: Textual amendment: Reg. 17(a) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(14)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/14/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-72de9d4bb7a22727e9146cce3c1bb6b8]: Textual amendment: Reg. 17(a)(i) substituted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/8/a)
+
+[^key-4a342d4a59e75d715ffebf7c80c14c8f]: Textual amendment: Words in [reg. 17(a)(i)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/17/a/i) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [10](https://www.legislation.gov.uk/uksi/2023/1185/article/10)
+
+[^key-8a26b5d6f691c2b3eb616fc69a52c683]: Textual amendment: Reg. 17(b)(c) omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(14)(c)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/14/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-d38b443fadc01e37074bfefc09e5c984]: Textual amendment: Reg. 17(d)(i) substituted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [8(b)(i)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/8/b/i)
+
+[^key-e3e9fdba1319bb7929d523c7ed73e0f9]: Textual amendment: Words in [reg. 17(d)(i)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/17/d/i) substituted (23.8.2024) by [The Digital Markets, Competition and Consumers Act 2024 (Water Mergers) (Consequential Amendments) Regulations 2024 (S.I. 2024/840)](https://www.legislation.gov.uk/uksi/2024/840), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/840/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/840/regulation/3)
+
+[^key-05dd0e8c743e0a942c1952518e85e38d]: Textual amendment: Words in [reg. 17(d)(i)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/17/d/i) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [10](https://www.legislation.gov.uk/uksi/2023/1185/article/10)
+
+[^key-657ad025ed7b65a59d2ac18b62981238]: Textual amendment: Word in reg. 17(d)(i) omitted (18.12.2015) by virtue of [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/8/b/ii)
+
+[^key-232323f0fa21c97787c3530ac35aa3a8]: Textual amendment: Reg. 17(d)(ia) inserted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [8(b)(iii)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/8/b/iii)
+
+[^key-093e41412957f2139249b2e8ede24135]: Textual amendment: Reg. 17(d)(ii) substituted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [8(b)(iv)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/8/b/iv)
+
+[^key-4fa6f877a7495b808f2749a2b40173e0]: Textual amendment: Words in [reg. 17(d)(ii)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/17/d/ii) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [10](https://www.legislation.gov.uk/uksi/2023/1185/article/10)
+
+[^key-ae6118339ec9d5797440f8086bbb3f15]: Textual amendment: Regs. 17A-17C inserted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [9](https://www.legislation.gov.uk/uksi/2015/1936/regulation/9)
+
+[^key-3a13b937e8fa639f5ac2e5593f9821b2]: Textual amendment: Words in [reg. 17A(a)(i)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/17A/a/i) inserted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2023/1185/article/11/a)
+
+[^key-0ec8a06e249f549f2be6c594828025c3]: Textual amendment: [Reg. 17A(a)(ii)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/17A/a/ii) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 12(6)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/12/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8cb414d19b0e2a5140061e41e2f3cdca]: Textual amendment: [Reg. 17A(b)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/17A/b) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2023/1185/article/11/b)
+
+[^key-a6bf6ec0d98529f62d4b989ed7037f58]: Textual amendment: Words in [reg. 17A(b)(ii)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/17A/b/ii) inserted (23.8.2024) by [The Digital Markets, Competition and Consumers Act 2024 (Water Mergers) (Consequential Amendments) Regulations 2024 (S.I. 2024/840)](https://www.legislation.gov.uk/uksi/2024/840), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/840/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2024/840/regulation/4)
+
+[^key-ce2839d961c24af3b9a42b4f3c33226b]: Textual amendment: Words in [reg. 17B(b)(i)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/17B/b/i) substituted (23.8.2024) by [The Digital Markets, Competition and Consumers Act 2024 (Water Mergers) (Consequential Amendments) Regulations 2024 (S.I. 2024/840)](https://www.legislation.gov.uk/uksi/2024/840), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/840/regulation/1/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2024/840/regulation/5/a/i)
+
+[^key-ccf78ad6a822542da369ed51b1a6ffa3]: Textual amendment: Word in [reg. 17B(b)(ii)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/17B/b/ii) substituted (23.8.2024) by [The Digital Markets, Competition and Consumers Act 2024 (Water Mergers) (Consequential Amendments) Regulations 2024 (S.I. 2024/840)](https://www.legislation.gov.uk/uksi/2024/840), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/840/regulation/1/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2024/840/regulation/5/a/ii)
+
+[^key-c47da00210d74e5d0a55003d49de9218]: Textual amendment: Word in [reg. 17B(b)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/17B/b) omitted (23.8.2024) by virtue of [The Digital Markets, Competition and Consumers Act 2024 (Water Mergers) (Consequential Amendments) Regulations 2024 (S.I. 2024/840)](https://www.legislation.gov.uk/uksi/2024/840), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/840/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2024/840/regulation/5/b)
+
+[^key-980a4a586dd855005b7082138057926c]: Textual amendment: [Reg. 17B(ba)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/17B/ba)[(bb)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/17B/bb) inserted (23.8.2024) by [The Digital Markets, Competition and Consumers Act 2024 (Water Mergers) (Consequential Amendments) Regulations 2024 (S.I. 2024/840)](https://www.legislation.gov.uk/uksi/2024/840), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/840/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2024/840/regulation/5/c)
+
+[^key-085e7c1507dd5d16351814b3add71be2]: Textual amendment: Words in [reg. 17C(b)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/17C/b) substituted (23.8.2024) by [The Digital Markets, Competition and Consumers Act 2024 (Water Mergers) (Consequential Amendments) Regulations 2024 (S.I. 2024/840)](https://www.legislation.gov.uk/uksi/2024/840), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/840/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2024/840/regulation/6/a)
+
+[^key-024ca78b42cbba11971582acd7f8d239]: Textual amendment: Words in [reg. 17C(c)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/17C/c) inserted (23.8.2024) by [The Digital Markets, Competition and Consumers Act 2024 (Water Mergers) (Consequential Amendments) Regulations 2024 (S.I. 2024/840)](https://www.legislation.gov.uk/uksi/2024/840), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/840/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2024/840/regulation/6/b)
+
+[^key-2bf1ba4f3b67729e9ef0eedbec3cff9f]: Textual amendment: [Reg. 17C(d)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/17C/d) substituted (23.8.2024) by [The Digital Markets, Competition and Consumers Act 2024 (Water Mergers) (Consequential Amendments) Regulations 2024 (S.I. 2024/840)](https://www.legislation.gov.uk/uksi/2024/840), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/840/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2024/840/regulation/6/c)
+
+[^key-63510ecd2569b477f36596e835d35ff4]: Textual amendment: Words in [reg. 18(a)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/18/a) inserted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [13](https://www.legislation.gov.uk/uksi/2023/1185/article/13)
+
+[^key-2a91d9f5eb0e582ead988087416274c5]: Textual amendment: Words in [reg. 19(a)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/19/a) inserted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [14](https://www.legislation.gov.uk/uksi/2023/1185/article/14)
+
+[^key-24f2a84da2863aca960c83de3e7a15ec]: Textual amendment: Words in [reg. 20(a)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/20/a) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [15](https://www.legislation.gov.uk/uksi/2023/1185/article/15)
+
+[^key-45c9455c0037f0e8e2ac479b0523e8e9]: Textual amendment: Word in [reg. 20(a)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/20/a) omitted (23.8.2024) by virtue of [The Digital Markets, Competition and Consumers Act 2024 (Water Mergers) (Consequential Amendments) Regulations 2024 (S.I. 2024/840)](https://www.legislation.gov.uk/uksi/2024/840), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/840/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2024/840/regulation/7/a)
+
+[^key-31e7804caa7000448b4934238d45c8c1]: Textual amendment: [Reg. 20(b)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/20/b) substituted (23.8.2024) by [The Digital Markets, Competition and Consumers Act 2024 (Water Mergers) (Consequential Amendments) Regulations 2024 (S.I. 2024/840)](https://www.legislation.gov.uk/uksi/2024/840), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/840/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2024/840/regulation/7/b)
+
+[^key-f2b2a3cfaf882df95ee43d4bc1ded3c1]: Textual amendment: [Reg. 20(c)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/20/c) inserted (23.8.2024) by [The Digital Markets, Competition and Consumers Act 2024 (Water Mergers) (Consequential Amendments) Regulations 2024 (S.I. 2024/840)](https://www.legislation.gov.uk/uksi/2024/840), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/840/regulation/1/1), [7(c)](https://www.legislation.gov.uk/uksi/2024/840/regulation/7/c)
+
+[^key-0d3c9d1659fc87d862276dddcdb35f77]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2004/3202/regulation/21) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [16](https://www.legislation.gov.uk/uksi/2023/1185/article/16)
+
+[^key-c618581e338382f727ff963db88e5977]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2004/3202/regulation/22) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [17](https://www.legislation.gov.uk/uksi/2023/1185/article/17)
+
+[^key-2757e6e85d49766a37d6213dc061969c]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2004/3202/regulation/23) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [18](https://www.legislation.gov.uk/uksi/2023/1185/article/18)
+
+[^key-7dcfaed1704beae7e23fddbcad1ae294]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/uksi/2004/3202/regulation/24) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [19](https://www.legislation.gov.uk/uksi/2023/1185/article/19)
+
+[^key-ee22e4f9958a164b0ae0c51ee94a1e22]: Textual amendment: Reg. 24A inserted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [10](https://www.legislation.gov.uk/uksi/2015/1936/regulation/10)
+
+[^key-6a450c6efc6883580b8c5e2aa7ef2ae4]: Textual amendment: Reg. 25 omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(15)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/15) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-8cdfe7da74201ca284c6e2b91127be18]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/2004/3202/regulation/25A) omitted (1.1.2025) by virtue of [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 327(3)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/327/3/b), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(5)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/5/b/i)
+
+[^key-cafb41565ac151e3c219b36a4c675366]: Textual amendment: [Reg. 26(a)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/26/a) substituted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [12](https://www.legislation.gov.uk/uksi/2015/1936/regulation/12)
+
+[^key-d0a061804c67ffb17dc6c21e6fd8463a]: Textual amendment: Words in [reg. 26(a)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/26/a) substituted (1.1.2025) by [The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024 (S.I. 2024/1234)](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/8/a)
+
+[^key-dd152b435ea26c765b7879cc8f08b4de]: Textual amendment: Words in [reg. 26(a)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/26/a) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1185/article/20)
+
+[^key-e63337444d9b091ac52d934afd6d1f4b]: Textual amendment: Word in [reg. 26(a)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/26/a) omitted (1.1.2025) by virtue of [The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024 (S.I. 2024/1234)](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/8/b)
+
+[^key-56a969fe9aed1e340dd35212a48bbe69]: Textual amendment: [Reg. 26(aa)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/26/aa) inserted (1.1.2025) by [The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024 (S.I. 2024/1234)](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/8/c)
+
+[^key-423c33fed56b17f8e8447bd172514fe4]: Textual amendment: Words in reg. 26(b) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(16)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/16) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-3cf06c587ab1607a02cf1d1abaad5ed6]: Textual amendment: [Reg. 27(a)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/27/a) substituted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [13](https://www.legislation.gov.uk/uksi/2015/1936/regulation/13)
+
+[^key-c310b8abb97d896047d9df35d4023d95]: Textual amendment: Words in [reg. 27(a)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/27/a) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [21](https://www.legislation.gov.uk/uksi/2023/1185/article/21)
+
+[^key-62d4591747d00f6d4e1ac2182fc5a29f]: Textual amendment: Reg. 28 substituted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [14](https://www.legislation.gov.uk/uksi/2015/1936/regulation/14)
+
+[^key-6f1f6fd53adac37949f2a7578263213d]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2004/3202/regulation/28) heading substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2023/1185/article/22/a)
+
+[^key-51b009130878dccff47cd66128c2ad4d]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2004/3202/regulation/28) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2023/1185/article/22/a)
+
+[^key-691a492ae442b312ed2c3fb3ae14e60d]: Textual amendment: Words in [reg. 28(b)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/28/b) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2023/1185/article/22/b)
+
+[^key-1c92368b148fa9550750df5e64b66cdf]: Textual amendment: Words in [reg. 29(a)(i)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/29/a/i) substituted (1.1.2025) by [The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024 (S.I. 2024/1234)](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [9(a)(i)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/9/a/i)
+
+[^key-52420f03d9c1ceb846b66772ff9b4ba1]: Textual amendment: Words in [reg. 29(a)(i)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/29/a/i) substituted (1.1.2025) by [The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024 (S.I. 2024/1234)](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [9(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/9/a/ii)
+
+[^key-456f542e02dc26b9241c3cf3e197f96a]: Textual amendment: Words in [reg. 29(a)(i)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/29/a/i) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [23(a)](https://www.legislation.gov.uk/uksi/2023/1185/article/23/a)
+
+[^key-550d45575a1be4e68c9348c7ef449995]: Textual amendment: Word in [reg. 29(a)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/29/a) omitted (1.1.2025) by virtue of [The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024 (S.I. 2024/1234)](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/9/b)
+
+[^key-1dfe898016e1f7048b00b2fb522b4bd6]: Textual amendment: Reg. 29(a)(ii)-(vii) substituted for reg. 29(a)(ii) (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/15/a)
+
+[^key-aaf6dc6ae30401e1f57b52f72cfdb878]: Textual amendment: Words in [reg. 29(a)(ii)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/29/a/ii) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [23(b)](https://www.legislation.gov.uk/uksi/2023/1185/article/23/b)
+
+[^key-dbed8bc80b63547909ba269955f252b0]: Textual amendment: [Reg. 29(a)(iia)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/29/a) inserted (1.1.2025) by [The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024 (S.I. 2024/1234)](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/9/c)
+
+[^key-d5f4384b8d8531fd0c5a2f1a24e7f066]: Textual amendment: [Reg. 29(a)(iiia)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/29/a) inserted (1.1.2025) by [The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024 (S.I. 2024/1234)](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [9(d)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/9/d)
+
+[^key-d4dbad4aa670ac50d36f2fc48218fdcb]: Textual amendment: [Reg. 29(a)(iv)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/29/a/iv) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 12(7)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/12/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-56256966d14c76fed98ffe3a883279de]: Textual amendment: Words in [reg. 29(b)(i)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/29/b/i) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [23(c)](https://www.legislation.gov.uk/uksi/2023/1185/article/23/c)
+
+[^key-e6fc97c7ffac291dd12b3e34e6236cce]: Textual amendment: Word in reg. 29(b)(i) omitted (18.12.2015) by virtue of [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [15(b)(i)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/15/b/i)
+
+[^key-15c9264f8eab53c894d005e38a345b29]: Textual amendment: Words in [reg. 29(b)(ii)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/29/b/ii) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [23(d)](https://www.legislation.gov.uk/uksi/2023/1185/article/23/d)
+
+[^key-23a73108c33c13d7847f2c926984f5fe]: Textual amendment: Words in reg. 29 inserted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [15(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/15/b/ii)
+
+[^key-77996d9fdecfb7dafe77ba8a87300b8a]: Textual amendment: Reg. 29A inserted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [16](https://www.legislation.gov.uk/uksi/2015/1936/regulation/16)
+
+[^key-b4dcdf72105415aa41947f2070360213]: Textual amendment: Words in reg. 30 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(19)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/19) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2014/549/schedule/2/paragraph/3))
+
+[^key-670af8657fd9baef7f4712093afd85e2]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/uksi/2004/3202/regulation/30) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [24](https://www.legislation.gov.uk/uksi/2023/1185/article/24)
+
+[^key-2a02934fa8d7f8ca0491f1586d51706a]: Textual amendment: [Reg. 30ZA](https://www.legislation.gov.uk/uksi/2004/3202/regulation/30ZA) inserted (1.1.2025) by [The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024 (S.I. 2024/1234)](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2024/1234/regulation/10)
+
+[^key-82f7575689326bfdaf08e19141706dde]: Textual amendment: [Reg. 30ZB](https://www.legislation.gov.uk/uksi/2004/3202/regulation/30ZB) inserted (1.1.2025) by [The Water Mergers (Modification of Enactments) (Amendment) Regulations 2024 (S.I. 2024/1234)](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2024/1234/regulation/10) (with [reg. 11](https://www.legislation.gov.uk/uksi/2024/1234/regulation/11))
+
+[^key-ac9f18e4d749659c65fd62e0bc804ce1]: Textual amendment: Reg. 30A inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(20)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/20) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2014/549/schedule/2/paragraph/3))
+
+[^key-6d099023c56d3af795b4ec42adbbc791]: Textual amendment: Reg. 30A(a) renumbered (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [17](https://www.legislation.gov.uk/uksi/2015/1936/regulation/17)
+
+[^key-4d21a949792b203388362c4e60e91a2c]: Textual amendment: Words in [reg. 30A](https://www.legislation.gov.uk/uksi/2004/3202/regulation/30A) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [25](https://www.legislation.gov.uk/uksi/2023/1185/article/25)
+
+[^key-4017f444c94d6443ebc38b5bca054573]: Textual amendment: Reg. 30A(b) omitted (18.12.2015) by virtue of [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [17](https://www.legislation.gov.uk/uksi/2015/1936/regulation/17)
+
+[^key-6f52626c293d023404e25b3eb2b9a50e]: Textual amendment: Reg. 30B inserted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [18](https://www.legislation.gov.uk/uksi/2015/1936/regulation/18)
+
+[^key-256e1dd92902b0f0747c760b4732ef3f]: Textual amendment: Words in [reg. 30B(a)(i)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/30B/a/i) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [26](https://www.legislation.gov.uk/uksi/2023/1185/article/26)
+
+[^key-a58cb65c7ed05f3c76a2581014fb41dd]: Textual amendment: Word in [reg. 30B(a)(i)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/30B/a/i) inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 12(8)(a)(i)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/12/8/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d580287bc27a5745357153673e1bd4ee]: Textual amendment: [Reg. 30B(a)(iii)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/30B/a/iii) and word omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 12(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/12/8/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-09ff1f8ae82a74704763a3ab617d8497]: Textual amendment: Words in [reg. 30B(b)(i)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/30B/b/i) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [26](https://www.legislation.gov.uk/uksi/2023/1185/article/26)
+
+[^key-a66d4947a1ca50972ded7b5c2f2f5cb5]: Textual amendment: [Reg. 30B(b)(ii)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/30B/b/ii) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 12(8)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/12/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a6f38a4b434562b13a3d9e521767e59d]: Textual amendment: Reg. 31A inserted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [19](https://www.legislation.gov.uk/uksi/2015/1936/regulation/19)
+
+[^key-9eb6b734f2c89ac0d5d3beff31929920]: Textual amendment: [Reg. 32(za)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/32/za) inserted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/20/a)
+
+[^key-3a791a8e2429c99c400f3cbeb8eed5fa]: Textual amendment: Word in reg. 32 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22(21)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22/21) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-23e44af0bc557562f41d29dba8425eac]: Textual amendment: Words in [reg. 32(a)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/32/a) substituted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [20(b)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/20/b)
+
+[^key-2b3f832c86a1a70a50ca2f8691d102d6]: Textual amendment: Word in reg. 32(a) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 12(8A)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/12/8A/a) (as inserted by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [33](https://www.legislation.gov.uk/uksi/2020/1343/regulation/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e70a00356df74b3fdaf4afa118747ba2]: Textual amendment: Reg. 32(aa) inserted by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 12(8A)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/12/8A/b) (as inserted by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [33](https://www.legislation.gov.uk/uksi/2020/1343/regulation/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ed99959f94cb039f0bbc96833d2e8812]: Textual amendment: Words in [reg. 32(b)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/32/b) substituted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [20(c)](https://www.legislation.gov.uk/uksi/2015/1936/regulation/20/c)
+
+[^key-0dd9ee80e439cd8d9ec73f55f1ce0ff6]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/uksi/2004/3202/regulation/33) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 12(9)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/12/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_4346c626-e8bc-412f-bc8f-38ef02da00dc]: Textual amendment: Word in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+
+[^key-53428843c8da3e81d609a20583cc04c2]: Textual amendment: Words in [reg. 34](https://www.legislation.gov.uk/uksi/2004/3202/regulation/34) substituted (6.12.2023) by [The Enterprise Act 2002 (Merger Fees and Determination of Turnover) (Amendment) and Energy Network Mergers (Consequential Amendments) Order 2023 (S.I. 2023/1185)](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [27](https://www.legislation.gov.uk/uksi/2023/1185/article/27)
+
+[^key-46dc7cbd697b13ef7ab3c9c2b2b11c9b]: Textual amendment: [Reg. 36](https://www.legislation.gov.uk/uksi/2004/3202/regulation/36) inserted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [21](https://www.legislation.gov.uk/uksi/2015/1936/regulation/21)
+
+[^key-1371c515aad319ebc583eec7941e0129]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/uksi/2004/3202/regulation/37) inserted (18.12.2015) by [The Water Mergers (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1936)](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [22](https://www.legislation.gov.uk/uksi/2015/1936/regulation/22)

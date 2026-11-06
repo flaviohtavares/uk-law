@@ -1,0 +1,79 @@
+---
+title: Energy Act 2023, section 93
+act: Energy Act 2023
+section: '93'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/52/section/93
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2023, section 93
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 93. Section 92: supplementary[^key-a7e434b0ebabdcf1d2a04fa526a0e577]
+
+*Extent: E+W+S+N.I.*
+
+(1) Regulations under section 92(1) may make provision—
+
+- (a) enabling a relevant authority to charge fees to relevant persons in order to cover the costs of the exercise of the authority’s functions under the regulations;
+- (b) about how fees payable by virtue of the regulations are to be determined;
+- (c) about when fees payable by virtue of the regulations are to be paid.
+
+(2) Regulations under section 92(1) may make provision about the supplying of information, including—
+
+- (a) provision for the Secretary of State to require any other person to supply information to the Secretary of State for the purposes of the Secretary of State’s functions under regulations under that section;
+- (b) about the sharing by the Secretary of State with the Oil and Gas Authority or the economic regulator of information about funds established as mentioned in section 92(7)(a).
+
+(3) Regulations under section 92(1) may make provision about compliance with requirements imposed by or under the regulations, including—
+
+- (a) provision imposing civil penalties;
+- (b) provision making it an offence to contravene specified provisions of the regulations.
+
+(4) Where regulations under section 92(1) provide for the imposition of a civil penalty, they must also provide for a right of appeal against the imposition of the penalty.
+
+(5) Where regulations under section 92(1) create an offence, they must also make provision as to the mode of trial and punishment of offences, but—
+
+- (a) any provision as to punishment on summary conviction must not authorise imprisonment or, in the case of summary conviction in Scotland or Northern Ireland, a fine exceeding the statutory maximum;
+- (b) any provision as to punishment on conviction on indictment must not authorise imprisonment for a term exceeding 2 years.
+
+(6) Regulations under section 92(1) may—
+
+- (a) make different provision for different purposes;
+- (b) create exceptions to any requirement imposed by the regulations.
+
+(7) Regulations under section 92(1) may confer any function on any person.
+
+(8) Regulations under section 92(1) may provide for a function conferred on a person to be exercisable on that person’s behalf by another person.
+
+(9) In this section—
+
+- “**economic regulator**” has the same meaning as in Part 1 (see section 55);
+- “**relevant authority**” means the Secretary of State, the economic regulator or the Oil and Gas Authority;
+- “**relevant person**” has the same meaning as in section 92.
+
+(10) Regulations under section 92(1) may make any amendments of—
+
+- (a) the Storage of Carbon Dioxide (Licensing etc.) Regulations 2010 ([S.I. 2010/2221](https://www.legislation.gov.uk/uksi/2010/2221)),
+- (b) the Storage of Carbon Dioxide (Licensing etc.) (Scotland) Regulations 2011 ([S.S.I. 2011/24](https://www.legislation.gov.uk/ssi/2011/24)),
+- (c) the Storage of Carbon Dioxide (Termination of Licences) Regulations 2011 ([S.I. 2011/1483](https://www.legislation.gov.uk/uksi/2011/1483)), or
+- (d) the Storage of Carbon Dioxide (Licensing etc.) Regulations (Northern Ireland) 2015 ([S.R. (N.I.) 2015 No. 387](https://www.legislation.gov.uk/nisr/2015/387)),
+
+that the Secretary of State considers appropriate in consequence of, or of provision made under, section 92 or this section.
+
+(11) Regulations under section 92(1) containing any of the following (with or without other provision) are subject to the affirmative procedure—
+
+- (a) provision creating a criminal offence;
+- (b) provision creating a civil penalty.
+
+(12) Any other regulations under section 92(1) are subject to the negative procedure.
+
+## Annotations
+
+[^key-a7e434b0ebabdcf1d2a04fa526a0e577]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2023/52/section/93) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

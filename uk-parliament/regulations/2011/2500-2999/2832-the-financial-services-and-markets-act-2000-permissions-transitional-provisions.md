@@ -1,0 +1,612 @@
+---
+title: The Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011
+id: uksi/2011/2832
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-11-23'
+text_date: '2013-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/2832
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/2832/pdfs/uksiem_20112832_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2832/pdfs/uksi_20112832_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2832/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011
+
+> Text as at 2013-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 2832
+
+Financial Services And Markets
+
+The Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011
+
+Made
+
+23rd November 2011
+
+Laid before Parliament
+
+24th November 2011
+
+Coming into force
+
+for the purposes of articles 1 and 10
+
+15th December 2011
+
+for the purposes of articles 5, 6, 7, 8 and 9
+
+31st December 2011
+
+for all other purposes
+
+31st March 2012
+
+The Treasury, in exercise of the powers conferred by sections 426 to 428 of the Financial Services and Markets Act 2000[^f00001], make the following Order:
+
+## 1. Citation, commencement and interpretation[^key-fd51aa00cf264925edd3ecb74463ee49]
+
+(1) This Order may be cited as the Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011.
+
+(2) This Order comes into force on—
+
+- (a) 15th December 2011 for the purposes of this article and article 10;
+- (b) 31st December 2011 for the purposes of articles 5 to 9; and
+- (c) 31st March 2012 for all other purposes.
+
+(3) In this Order—
+
+- “the 1985 Order” means the Credit Unions (Northern Ireland) Order 1985[^f00002];
+- “the Act” means the Financial Services and Markets Act 2000;
+- “the Authority” means the Financial Services Authority;
+- “commencement” means the beginning of 31st March 2012;
+- “credit union” means a society registered under the 1985 Order or a society registered under the Industrial and Provident Societies Act (Northern Ireland) 1969[^f00003] as a credit union.
+
+## PART 1 — Permissions and Applications etc.
+
+### 2. Credit unions registered at commencement[^key-407ef7e3974eb1a49b08f43fe45befdb]
+
+(1) An unauthorised credit union is to be treated as having, at commencement, a Part 4 permission to accept deposits—
+
+- (a) by way of subscription for its shares; and
+- (b) from a person who is under the age at which they may become a member of the credit union by virtue of Article 15 of the 1985 Order.
+
+(2) The permission acquired by virtue of paragraph (1) is subject to any restrictions imposed by virtue of article 3(1) or (2).
+
+(3) In this Part—
+
+- “deposits” has the meaning given by article 5(2) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00004];
+- “P” is the person defined as such in article 4(1);
+- “Part 4 permission” has the meaning given in section 40(4) of the Act;
+- “unauthorised credit union” means a credit union which immediately before commencement is not an authorised person.
+
+### 3. Effect of restrictions and prohibitions under the 1985 Order[^key-067f1a42f733a8153726a7e83e2ec608]
+
+(1) Where immediately before commencement an unauthorised credit union was subject to a direction under Article 59 of the 1985 Order, that direction has effect from commencement as if it were a requirement imposed on that credit union under section 43 of the Act (imposition of requirements).
+
+(2) For the purposes of rules and guidance made before commencement by the Authority under Part 10 of the Act (rules and guidance) that relate to credit unions[^f00005], a credit union which, immediately before commencement—
+
+- (a) did not hold a certificate under Article 28C of the 1985 Order[^f00006] is to be treated from commencement as a version 1 credit union for the purposes of the Credit Unions Sourcebook[^f00007]; or
+- (b) held a certificate under that Article is to be treated from commencement as a version 2 credit union for the purposes of the Credit Unions Sourcebook.
+
+(3) Paragraphs (1) and (2) are subject to anything done under the Act that has effect from or after commencement.
+
+### 4. Approved persons[^key-32f47390fe40a9ad92ea7ba17245f9bf]
+
+(1) Where, at commencement, a person (“P”) is performing a function for an unauthorised credit union under an arrangement entered into by that credit union or by a contractor of that credit union, if P’s continued performance of that function after commencement would, but for this article, require the approval of the Authority under section 59(1) or (2) of the Act (approval), then that continued performance by P of that function after commencement is to be taken to have been approved by the Authority for the purposes of section 59 of the Act.
+
+(2) Paragraph (1) does not apply if P performs a function by virtue of the fact that P holds or has held an office in a credit union and, immediately before commencement, P was ineligible by virtue of Article 39 of the 1985 Order to hold that office.
+
+### 5. Requirement to reapply for Part 4 permission[^key-e2a0547b6596454bc07ad6b5c4cff925]
+
+(1) At any time on or before 31st March 2014, the FCA or the PRA[^key-5c61d9ee3d75015b11b67bcb2b2ff300] may give a direction under this article to a named unauthorised credit union or a specified class of unauthorised credit unions.
+
+(2) A direction under this article is a direction that each credit union named or falling within the specified class must, before a date so specified, apply to the regulator which gave the direction under section 55A[^key-32ae68fe61d0890b9fef8a902af8f2a3] of the Act for permission to carry on the regulated activities which it wishes to carry on.
+
+(3) Section 55A(3)[^key-d81522ff272df64eaa7972f685fd98f3] of the Act does not apply in relation to an application made in pursuance of the direction.
+
+(4) If a credit union fails to comply with the direction, the regulator which gave the direction must consider whether to exercise the power in section 55J (variation or cancellation on initiative of regulator) and, for this purpose, section 55J(1)[^key-8d454eb08bf5d98511e42cd9363d1398] applies as if there was added after sub-paragraph (c)—
+
+> ; or
+>
+> - (d) the person has failed to comply with a direction given by the regulator[^key-a25c7aca1fd964f0fa5263e74eaff436] under article 5(1) of the Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011
+
+.
+
+(5) If a credit union complies with the direction but the application which it makes pursuant to it is refused, its Part 4 permission ceases to have effect on such date as the regulator which gave the direction[^key-cc5f9cee50d3b68aad35b9ca0397d884] may in its decision notice specify or, if no date is specified, when the matter is no longer open to review.
+
+(6) If a credit union complies with the direction and the PRA[^key-cbe0dd96f9f8b8c5029a5d5573c0819d] gives it a Part 4 permission, that permission has effect on such date as may be specified in the PRA’s[^key-fc129fed05ed8e9b0e1fdbe0cd2ba79d] written notice in place of the Part 4 permission which the credit union had by virtue of article 2.
+
+(7) For the purposes of this article and article 6, whether a matter is open to review is to be determined in accordance with section 391(8) of the Act.
+
+(8) A direction given under this article or article 6 before commencement has effect on commencement.
+
+### 6. Requirement to reapply for approved person status[^key-19b31fff66be490c2c26cdd9d62479be]
+
+(1) At any time on or before 31st March 2014, the FCA[^key-2db4b4b0fa02ab38baa12de691db8dde] or the PRA may give a direction under this article to a named unauthorised credit union or a specified class of unauthorised credit unions.
+
+(2) A direction under this article is a direction that each credit union named or falling within the specified class must, before a date so specified, apply to the regulator which gave the direction[^key-a01a50dcdf3edbd7b8c48abe37413a8e] under section 60 of the Act (applications for approval) for approval under section 59(1) or (2) of the Act in relation to the performance by P of the function referred to in article 4(1).
+
+(3) If a credit union fails to comply with the direction, the regulator which gave the direction must consider whether to exercise the power in section 63(1) of the Act (withdrawal of approval) to withdraw the approval P is taken to have by virtue of article 4(1), and for this purpose, section 63 applies as if for “given under section 59” there is substituted “taken to have been given under section 59 by virtue of article 4(1) of the Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011”.
+
+(4) If a credit union complies with the direction but the application which it makes in pursuance of it is refused, P’s performance of the function ceases to be taken to have been approved [^key-d6b80754b4d92942653c15292ffd099c]... on such date as the regulator which gave the direction may in its decision notice specify or, if no date is specified, when the matter is no longer open to review.
+
+(5) If a credit union complies with the direction and in response to its application the regulator which gave the direction approves the performance by P of the controlled function, that approval has effect on such date as may be specified in that regulator’s[^key-45a8b01aedefc241a3c09356c7dacfac] written notice in place of the approval which the credit union was taken to have by virtue of article 4(1).
+
+### 7. Requirements to reapply: procedure[^key-7b9c333f6674223813f2619fd0daf415]
+
+(1) A direction given under article 5 or 6 must state the reasons why it has been given to the named credit union or specified class of credit unions.
+
+(2) The date specified in a direction under article 5(2) or 6(2) must be such as to allow a reasonable time for compliance, and in any event must fall after the end of three months beginning with the date when the direction has effect.
+
+(3) If the FCA[^key-1628b4c199e10e393bd2406b3d37e18c] or the PRA gives a direction under article 5 or 6, it must as soon as practicable, and in any event not later than the due date, give a copy to each named credit union and to each credit union which falls, or which it considers may on the due date, fall within the specified class of credit unions.
+
+(4) If the FCA or the PRA fails to give a copy of the direction to a credit union by the due date, the direction (and therefore articles 5(4) and 6(3)) do not apply to it. But if the FCA or the PRA gives the credit union a copy of the direction after the due date the direction has effect in relation to that credit union as if the date specified under article 5(2) or 6(2) were three months after the date on which the copy was given to that credit union, and the copy must indicate that fact.
+
+(5) In this article, “due date” means the date three months before the date specified in a direction.
+
+(6) Any failure by the FCA or the PRA to comply with paragraph (3) does not invalidate the direction in relation to any credit union to which a copy is given in accordance with this article.
+
+### 8. Pre-commencement applications etc.[^key-c184e03273bcc72bb361f54075ba1dcd]
+
+(1) Sections 44 (variation etc. at request of authorised person)[^f00009], 45 (except subsections (1)(b), (2A) or (2B)), 46 (variation of permission on acquisition of control), 47 (exercise of power in support of overseas regulator), 48 (prohibitions and restrictions), 49(1) (persons connected with an applicant), 51 (except subsection (1)) (applications), 52 (determination of applications), 53 (exercise of own-initiative power: procedure), 54 (cancellation of Part 4 permission: procedure), 55 (references to the Tribunal), 56 to 58 (prohibition orders), 60 to 63 and 148 (modification or waiver of rules)[^f00010] apply until commencement with the following modifications—
+
+- (a) the references to an authorised person are to be read as including a reference to an unauthorised credit union;
+- (b) the references to a Part 4 permission are to be read as including a reference to the Part 4 permission which an unauthorised credit union will be treated as having at commencement by virtue of article 2; and
+- (c) the references to the Authority’s approval under section 59 are to be read as including a reference to the approval which a person will be taken to have by virtue of article 4.
+
+(2) Nothing done under the Act by virtue of paragraph (1) (including the determination of any application) may come into force or have any effect before commencement.
+
+### 9. Information gathering and investigations[^key-44c83ece5b0b8b193c29d6341b0dc570]
+
+(1) Sections 165 (Authority’s power to require information)[^f00011] and 167 (general investigations)[^f00012] of the Act have effect until commencement as if—
+
+- (a) each reference to an authorised person (except for the references in subsections 165(7)(b) and (8)) included a reference to a credit union;
+- (b) the reference in section 165(4) to functions conferred on the Authority by or under the Act included a reference to functions conferred by or under the Act which the Authority has reasonable grounds to believe will be exercisable by it at commencement.
+
+(2) In determining whether a person is connected with a credit union under section 165(11) of the Act, Part 1 of Schedule 15 to the Act has effect as if each reference to an authorised person were a reference to a credit union.
+
+(3) At commencement—
+
+- (a) any requirement imposed under section 165, 171(1) or (2) or 175(1) of the Act ceases to have effect if it could not be imposed under that enactment immediately after commencement;
+- (b) any requirement imposed under section 175(2) or (3) of the Act ceases to have effect if the requirement pursuant to which the supplementary requirement was imposed ceases to have effect at commencement by virtue of sub-paragraph (a) (and no such supplementary requirement may be imposed thereafter); and
+- (c) no action may be taken or continued under or pursuant to the Act in relation to any requirement which ceases to have effect by virtue of this paragraph.
+
+### 10. Information sharing by the registrar[^key-8556bfe4e7c8e9e98199184dc4ebefe9]
+
+(1) Until commencement Article 2A of the 1985 Order (the registrar and assistant registrar)[^f00013] is amended as follows.
+
+(2) After Article 2A(3) insert—
+
+> (4) The registrar may share with the Financial Services Authority any information held or obtained by the registrar relating to credit unions which that Authority might reasonably require for the performance by it of any function relating to credit unions which that Authority exercises or has reasonable grounds to believe will be exercisable by it on 31st March 2012.
+
+.
+
+### 11. Application of wider definition of “consumer” to customers of credit unions[^key-d3efc3898c9d8412a575201d9e542201]
+
+Section 425B of the Act[^f00014] (consumers: regulated activities carried on by others) applies for the purposes of section 391(6) of the Act (publication) until 31st March 2014 in addition to the definition of “consumers” in section 425A of the Act (consumers: regulated activities etc. carried on by authorised persons) in relation to activities carried on by credit unions.
+
+## PART 2 — Consequential Amendments
+
+### 12. Amendments to banking legislation[^key-79bf42fcf6f46923bce47c0274727e13]
+
+(1) In section 7(5) of the Dormant Bank and Building Society Accounts Act 2008[^f00015], for the definition of “credit union”, substitute—
+
+> - “credit union” means a credit union within the meaning of section 31(1) of the Credit Unions Act 1979 or a credit union within the meaning of Article 2(2) of the Credit Unions (Northern Ireland) Order 1985;
+
+.
+
+(2) In section 2(2)(b) of the Banking Act 2009[^f00016], after “Credit Unions Act 1979”, insert “or a credit union within the meaning of Article 2(2) of the Credit Unions (Northern Ireland) Order 1985”.
+
+### 13. Amendments to the 1985 Order[^key-bda0d167364dcf1ee1f55783cb55edd1]
+
+(1) The 1985 Order is amended as follows.
+
+(2) In Article 2 (interpretation) insert at the appropriate place—
+
+> - “the 2000 Act” means the Financial Services and Markets Act 2000;
+
+> - “the Authority” means the Financial Services Authority;
+
+.
+
+(3) In Article 2(2A)[^f00017] for “Sub-paragraphs” substitute “In this Order, references to a deposit or accepting deposits and sub-paragraphs”.
+
+(4) After paragraph (3) of Article 2A (the registrar and assistant registrar)[^f00018] insert—
+
+> (4) In the exercise of the registrar’s functions under this Order, the registrar must cooperate with the Authority in the exercise by the Authority of any of its functions in relation to credit unions.
+>
+> (5) The registrar may share with the Authority any information obtained by the registrar relating to credit unions which the Authority might reasonably require for the purpose of the performance of any of its functions in relation to credit unions.
+
+.
+
+(5) In Article 3(1) (registration)—
+
+- (a) for “Articles 13, 24(1) and 37(1)”, substitute “Article 13”;
+- (b) omit the word “and” immediately before sub-paragraph (c) and, at the end of sub-paragraph (c), change the full stop to a semi-colon; and
+- (c) after sub-paragraph (c), insert—
+
+  > - (d) the society has made an application to the Authority for a permission under Part 4 of the 2000 Act to accept deposits; and
+  > - (e) the Authority has confirmed to the registrar that the Authority is satisfied that, once registered under this Order, the society will satisfy, and continue to satisfy, the threshold conditions set out in Schedule 6 to the 2000 Act in relation to the regulated activity of accepting deposits.
+
+  .
+
+(6) After Article 4(2) (supplementary provisions as to registration), insert—
+
+> (2A) The registrar must not issue an acknowledgement of registration under paragraph (2) unless the Authority has confirmed to the registrar that it proposes to give the society permission under Part 4 of the 2000 Act to accept deposits.
+
+.
+
+(7) After Article 8(1) (rules) insert—
+
+> (1A) The rules of a credit union must not be inconsistent with the 2000 Act or any rules made or any requirements imposed by or under that Act.
+
+.
+
+(8) Omit paragraphs (2) to (5) of Article 13 (minimum and maximum number of members) (the title to which becomes “Minimum number of members”).
+
+(9) Omit paragraphs (3) to (4A)[^f00019] and (10) of Article 14 (membership and voting rights).
+
+(10) Omit Article 22 (restriction on business of credit union).
+
+(11) Omit Article 24 (prohibition on carrying on banking).
+
+(12) In Article 25 (prohibition on deposit-taking), omit paragraphs (2)[^f00020], (4) and (5)*.*
+
+(13) In Article 26 (deposits by persons too young to be members)—
+
+- (a) in paragraph (1) omit “up to a total of £10,000”; and
+- (b) omit paragraphs (2) to (9).
+
+(14) In Article 27 (power to borrow money)—
+
+- (a) in paragraph (1), omit “temporarily” to the end of that paragraph; and
+- (b) omit paragraphs (2) to (6).
+
+(15) In Article 28 (loans by credit unions)—
+
+- (a) for paragraph (1) substitute—
+
+  > (1) A credit union may make to a member a loan, upon such security (or without security) and terms as the rules of the credit union may provide.
+
+  ; and
+- (b) omit paragraphs (2), (4)[^f00021] and (6).
+
+(16) Omit Articles 28B (loans by approved credit unions), 28C (grant of certificates of approval) and 28D (withdrawal of certificates of approval)[^f00022].
+
+(17) In Article 31(3) (charges on assets of credit unions), omit the word “and” immediately before sub-paragraph (b) and insert after that sub-paragraph—
+
+> and
+>
+> - (c) that copies of the instrument included in such an application, the note of any prescribed particulars so included, and the acknowledgement of the application issued are sent to the Authority;
+
+.
+
+(18) Omit paragraphs (3) and (4) of Article 32 (holding of land).
+
+(19) Omit Article 33 (investments).
+
+(20) In Article 36 (computation and application of surplus) (the title to which becomes “Application of surplus”)—
+
+- (a) omit paragraphs (1), (2), (6) and (7);
+- (b) for paragraph (3) substitute—
+
+  > (3) Following the application of such amount of its surplus funds to its reserves as may be required by rules made by the Authority under the 2000 Act, a credit union may apply such proportion of the remaining amount available for distribution in respect of any year of account (that is to say, the surplus for that year reduced or increased by any transfer to or from general reserve) in one or more of the following ways as the credit union may in general meeting determine—
+  >
+  > - (a) subject to paragraph (4), in the payment to members of dividends on the amount of their paid-up shares;
+  > - (b) as a rebate of interest paid by or due from members who have received loans from the credit union, such rebate being proportional to the interest paid by or due from such members during that year of account; and
+  > - (c) subject to paragraph (5), for social, cultural or charitable purposes.
+
+  .
+
+(21) Omit Article 37 (insurance against fraud or other dishonesty).
+
+(22) In Article 38 (guarantee funds)—
+
+- (a) in paragraph (2), for “Subject to paragraph (3), a” substitute “A”; and
+- (b) omit paragraph (3).
+
+(23) Omit Article 39 (prohibition on undischarged bankrupts and other persons).
+
+(24) In Article 42 (accounts and balance sheets)—
+
+- (a) in paragraph (1) omit the words “and shall, in particular, identify the funds held in trust under Article 26”;
+- (b) in paragraph (3), omit the words “and shall, in particular, identify the funds mentioned in paragraph (1)”.
+
+(25) For Article 49 (annual returns) substitute—
+
+> **49.** (1) Every credit union must, by the due date, send to the registrar a return relating to its affairs for the year required by this Article to be included in the return together with—
+>
+> - (a) a copy of the report of the auditors on the credit union’s accounts for the year of account; and
+> - (b) subject to paragraph (7), a copy of each balance sheet made during that year and of any report of the auditors on that balance sheet.
+>
+> (2) The return required by paragraph (1) must—
+>
+> - (a) contain the revenue account of the credit union prepared in accordance with Article 42(2) in respect of the year of account to which the return relates, and a balance sheet as at the end of that year; and
+> - (b) not contain any accounts other than the revenue account for that year unless those other accounts have been examined by the auditors of the credit union under Article 47.
+>
+> (3) For the purposes of this Article—
+>
+> - (a) the end of a credit union’s year of account is 30th September; and
+> - (b) the due date is the date specified in rules made by the Authority under the 2000 Act or, if no date is specified, 6 months after the end of its year of account.
+>
+> (4) A credit union may alter the date on which its current and subsequent years of account end by notice to the Authority.
+>
+> (5) A notice under paragraph (4) must state whether it extends or shortens the current year of account.
+>
+> (6) A notice extending a credit union’s current year of account is not effective if it extends that year of account such that it exceeds 15 months.
+>
+> (7) Paragraph (1)(b) does not apply to an interim balance sheet made up and displayed under Article 42(5).
+>
+> (8) The last return under this Article by a credit union which is being terminated by an instrument of dissolution under Article 68(b) shall be made up to the date of the instrument of dissolution.
+>
+> (9) Every credit union must, on request, supply free of charge to every member or person interested in the funds of the credit union a copy of the latest return of the credit union under this Article, and must supply with every such copy a copy of the report of the auditors on the accounts and balance sheet relating to that return.
+
+.
+
+(26) Omit Article 50 (display of latest balance sheet).
+
+(27) In Article 53 (duties of receiver or manager of credit union’s property) after “the registrar” each time it appears add “and the Authority”.
+
+(28) In Article 57 (production of documents and provision of information) omit—
+
+- (a) paragraph (3); and
+- (b) in paragraph (4) “or (3)”.
+
+(29) Omit Article 59 (suspension of credit union’s operations).
+
+(30) In Article 60(1) (cancellation of registration), after “by writing under his hand” insert “and with the consent of the Authority”.
+
+(31) In Article 61(1) (suspension of registration) after “by writing under his hand” insert “and with the consent of the Authority”.
+
+(32) In Article 62 (appeals), for paragraph (1) substitute—
+
+> (1) A society may appeal to the High Court from the decision of the registrar to refuse registration of the society as a credit union (including a refusal by reason only of anything contained in or omitted from the society’s rules) on any ground other than that—
+>
+> - (a) he is not satisfied that a common bond exists between the members of the society;
+> - (b) the society has not made an application to the Authority for Part 4 permission under section 40 of the 2000 Act to accept deposits; or
+> - (c) the Authority has not confirmed to the registrar that the Authority is satisfied that, once registered under this Order, the society will satisfy, and continue to satisfy, the threshold conditions set out in Schedule 6 to the 2000 Act in relation to the regulated activity of accepting deposits.
+
+.
+
+(33) In Article 63 (petition for winding-up), after “the registrar” insert “, having first obtained the consent of the Authority,”.
+
+(34) After paragraph (6) of Article 65 (amalgamation of credit unions) insert—
+
+> (7) The registrar must not register a special resolution under this Article unless the Authority has first confirmed to the registrar that the proposed amalgamation would not, in its opinion, result in a contravention of the 2000 Act, or any requirement imposed by or under that Act.
+
+.
+
+(35) After paragraph (3) of Article 66 (transfer of engagements between credit unions) insert—
+
+> (4) The registrar must not register a special resolution under this Article unless the Authority has first confirmed to the registrar that the proposed transfer would not, in its opinion, result in a contravention of the 2000 Act, or any requirement imposed by or under that Act.
+
+.
+
+(36) In paragraph (5) of Article 70 (instrument of dissolution) for “Article 49(4)” substitute “Article 49(8)”.
+
+(37) In Article 72 (decision of disputes)[^f00023]—
+
+- (a) in paragraph (1) for “(2), (4) and (5)”, substitute “(2), (4), (5) and (7)”;
+- (b) for paragraph (2) substitute—
+
+  > (2) Unless—
+  >
+  > - (a) the rules of the credit union expressly forbid it; or
+  > - (b) a complainant is eligible to have the complaint dealt with under the ombudsman scheme,
+  >
+  > the parties to a dispute in a credit union may by consent refer the dispute to the registrar who shall hear and determine it.
+
+  ; and
+- (c) after paragraph (9) insert—
+
+  > (10) Nothing in this Article or in rules of a kind mentioned in paragraph (1) prevents any person from having a complaint dealt with under the ombudsman scheme.
+  >
+  > (11) In this Article, “the ombudsman scheme” has the meaning it has in section 225(3) of the 2000 Act.
+
+  .
+
+(38) In Article 76(2) (prosecution of offences) omit “, other than under Article 24(2)(b), 25(4)(b), 27(6)(b), 32(4)(b), 33(6)(b) or 59(7)(b)”.
+
+(39) In Schedule 1 (matters to be provided for in rules of credit union)—
+
+- (a) in paragraph 7, for “subject to Article 14(3)”, substitute “subject to any applicable rules made by the Authority under the 2000 Act”;
+- (b) in paragraph 11, after “credit union”, insert “in accordance with any applicable rules made by the Authority under section 340 of the 2000 Act”; and
+- (c) in paragraph 13, omit sub-paragraph (a).
+
+(40) Omit Schedule 3 (procedure in relation to directions under Article 59)
+
+(41) Omit paragraph 2 of Schedule 4 (savings).
+
+### 14. Revocations[^key-8711349f50eb58d5803a084db8855037]
+
+The following regulations and statutory rules are revoked—
+
+- (a) the Credit Unions (Limit on Loans) Regulations (Northern Ireland) 1986[^f00024];
+- (b) the Credit Unions (Insurance against Fraud etc.) Order (Northern Ireland) 1988[^f00025];
+- (c) the Credit Unions (Authorised Investments) Regulations (Northern Ireland) 1995[^f00026];
+- (d) the Credit Unions (Limit on Membership) Order (Northern Ireland) 2006[^f00027];
+- (e) the Credit Unions (Limit on Shares) Order (Northern Ireland) 2006[^f00028];
+- (f) the Credit Unions (Deposits and Loans) Order (Northern Ireland) 2006[^f00029].
+
+### 15. Review[^key-6ed793fec57a7a6e023ca90bf9ec6fcd]
+
+(1) The Treasury must from time to time—
+
+- (a) carry out a review of articles 12 to 14,
+- (b) set out the conclusions of the review in a report, and
+- (c) publish the report.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the amendments made by articles 12 to 14,
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(3) The first report under this article must be published before the end of the period of five years beginning with 31st March 2012 in conjunction with the Treasury’s report setting out the conclusions of its review of the Financial Services and Markets Act 2000 (Exemption) (Amendment No. 2) Order 2011[^f00030].
+
+(4) Reports under this article are afterwards to be published at intervals not exceeding five years.
+
+Michael Fabricant
+
+Angela Watkinson
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+23rd November 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes transitional provisions and consequential amendments relating to the revocation, on 31st March 2012, of the exemption for Northern Ireland credit unions from the general prohibition imposed by section 19 of the Financial Services and Markets Act [2000 (c.8)](https://www.legislation.gov.uk/ukpga/2000/8) (“the Act”). The exemption, contained in paragraph 24A of the Schedule to the Financial Services and Markets Act 2000 (Exemption) Order 2001 ([S.I. 2001/1201](https://www.legislation.gov.uk/uksi/2001/1201)), is revoked by [S.I. 2011/2716](https://www.legislation.gov.uk/uksi/2011/2716).
+
+Article 2 provides that all credit unions which are not authorised persons (“unauthorised credit unions”) are to be treated, at 31st March 2012 (“commencement”), as having permission under Part 4 of the Act to accept deposits by way of subscription for their shares or from a minor. Article 3 provides that restrictions or prohibitions imposed on a credit union before commencement under Article 59 of the Credit Unions (Northern Ireland) Order 1985 ([S.I. 1985/1205 (N.I. 12)](https://www.legislation.gov.uk/nisi/1985/1205)) (“the 1985 Order”) have effect from commencement as if they were requirements imposed under section 43 of the Act and provides for how credit unions should be categorised under the Financial Services Authority’s Handbook. Article 4 provides that where, at commencement, a person is performing a controlled function for an unauthorised credit union, the continued performance of the function by that person after commencement is to be taken to have been approved by the Authority for the purposes of section 59.
+
+Article 5 enables the Authority to require credit unions of a specified description to reapply for permission. The Authority may impose such a requirement before commencement but the requirement does not have effect until commencement. Article 6 enables the Authority to require credit unions of a specified description to reapply for the Authority’s approval under section 59 in respect of the performance by a person of a controlled function. Article 7 sets out procedural provisions that relate to these requirements.
+
+Article 8 enables credit unions from 31st December 2011 (“applications day”) to apply for a variation of a requirement to which they will, by virtue of article 5, be subject from commencement. Applications may also be made for approval of persons who will, after commencement, be subject to the regime established under Part 5 of the Act (approved persons). The Authority may also initiate action under section 45 of the Act (exercise of own initiative powers) or section 56 (prohibition orders) from applications day but nothing done under the Act by virtue of this article takes effect before commencement.
+
+Article 9 enables the Authority, from applications day, to exercise its powers under section 165 of the Act (information gathering) in relation to those credit unions which it has reasonable grounds to believe will be authorised persons at commencement.
+
+Article 10 amends the 1985 Order before commencement expressly to permit the registrar to share information relating to credit unions with the Financial Services Authority.
+
+Article 11 modifies the definition of “consumer” in section 391 of the Act for a transitional period until 31st March 2014 to include those who used the services provided by a credit union while it was not an authorised person.
+
+Article 12 makes technical amendments to the Dormant Bank and Building Society Accounts Act [2008 (c.31)](https://www.legislation.gov.uk/ukpga/2008/31) and the Banking Act [2009 (c.1)](https://www.legislation.gov.uk/ukpga/2009/1) to maintain, after commencement, the position of Northern Ireland credit unions as regards the application of those Acts.
+
+Article 13 amends the 1985 Order. Article 4(2) of the Order is amended so as to provide that the registrar, a function held by the Department of Enterprise, Trade and Investment, shall not issue an acknowledgement of registration unless the Financial Services Authority (“the FSA”) proposes to give that credit union permission under Part 4 of the Act to accept deposits. Provisions of the 1985 Order which relate to matters which are also dealt with under the Act itself are revoked or amended. Similarly, provisions which relate to matters on which the FSA could make rules under the Act are also revoked.
+
+Article 14 revokes certain instruments and rules which were made under the 1985 Order and in relation to which the FSA could make rules under the Act.
+
+Article 15 requires the Treasury to review the operation and effect of articles 12 to 14 and publish a report within five years after they come into force and within every five years after that. Following a review it will fall to the Treasury to consider whether the legislative amendments made by this Order should remain as they are, or be revoked or amended. A further instrument would be needed to revoke or amend them.
+
+No separate impact assessment has been prepared for this instrument. An impact assessment of the effect that bringing Northern Ireland credit unions under the 2000 Act will have on the costs of business and the voluntary sector is available from the Mutuals Team, HM Treasury, 1 Horse Guards Road, London SW1A 2HQ and is published with the Explanatory Memorandum alongside [S.I. 2011/2716](https://www.legislation.gov.uk/uksi/2011/2716) on legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Section 427 was amended by the Enterprise Act 2002, section 278(1), Schedule 25, paragraph 40(1) and (18).
+
+[^key-fd51aa00cf264925edd3ecb74463ee49]: Commencement: Art. 1 in force at 15.12.2011, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/a)
+
+[^f00002]: Footnote: [S.I. 1985/1205 (N.I. 12)](https://www.legislation.gov.uk/nisi/1985/1205).
+
+[^f00003]: Footnote: [1969 c. 24 (N.I.)](https://www.legislation.gov.uk/apni/1969/24).
+
+[^key-407ef7e3974eb1a49b08f43fe45befdb]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/2832/article/2) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
+
+[^f00004]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544); article 5 was amended by [S.I. 2002/682](https://www.legislation.gov.uk/uksi/2002/682), article 3(1).
+
+[^key-067f1a42f733a8153726a7e83e2ec608]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2011/2832/article/3) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
+
+[^f00005]: Footnote: See the Authority’s Handbook. When made by the Authority, new rules and guidance for credit unions will be available at http://fsahandbook.info/FSA/html/handbook/CREDS.
+
+[^f00006]: Footnote: [S.I. 1205/1985 (N.I. 12)](https://www.legislation.gov.uk/nisi/1205/1985); Article 28C was inserted by [S.I. 1997/2984 (N.I. 22)](https://www.legislation.gov.uk/nisi/1997/2984), Article 3, Schedule 1.
+
+[^f00007]: Footnote: The Credit Unions Sourcebook is part of the Authority’s Handbook. See http://fsahandbook.info/FSA/html/handbook/CREDS.
+
+[^key-32f47390fe40a9ad92ea7ba17245f9bf]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2011/2832/article/4) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
+
+[^key-e2a0547b6596454bc07ad6b5c4cff925]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2011/2832/article/5) in force at 31.12.2011, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/b)
+
+[^key-5c61d9ee3d75015b11b67bcb2b2ff300]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/i)
+
+[^key-32ae68fe61d0890b9fef8a902af8f2a3]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/ii)
+
+[^key-d81522ff272df64eaa7972f685fd98f3]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/iii)
+
+[^key-8d454eb08bf5d98511e42cd9363d1398]: Textual amendment: Words in [art. 5(4)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/aa), [(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/iv)
+
+[^key-a25c7aca1fd964f0fa5263e74eaff436]: Textual amendment: Word in [art. 5(4)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/bb), [(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/iv)
+
+[^key-cc5f9cee50d3b68aad35b9ca0397d884]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(v)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/v)
+
+[^key-cbe0dd96f9f8b8c5029a5d5573c0819d]: Textual amendment: Word in [art. 5(6)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/aa), [(vi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/vi)
+
+[^key-fc129fed05ed8e9b0e1fdbe0cd2ba79d]: Textual amendment: Word in [art. 5(6)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/bb), [(vi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/vi)
+
+[^key-19b31fff66be490c2c26cdd9d62479be]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2011/2832/article/6) in force at 31.12.2011, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/b)
+
+[^key-2db4b4b0fa02ab38baa12de691db8dde]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2011/2832/article/6/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/b/i)
+
+[^key-a01a50dcdf3edbd7b8c48abe37413a8e]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2011/2832/article/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(b)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/b/iii)
+
+[^key-d6b80754b4d92942653c15292ffd099c]: Textual amendment: Words in [art. 6(4)](https://www.legislation.gov.uk/uksi/2011/2832/article/6/4) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/b/ii)
+
+[^key-45a8b01aedefc241a3c09356c7dacfac]: Textual amendment: Words in [art. 6(5)](https://www.legislation.gov.uk/uksi/2011/2832/article/6/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(b)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/b/iv)
+
+[^key-7b9c333f6674223813f2619fd0daf415]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2011/2832/article/7) in force at 31.12.2011, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/b)
+
+[^key-1628b4c199e10e393bd2406b3d37e18c]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2011/2832/article/7) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/c)
+
+[^key-c184e03273bcc72bb361f54075ba1dcd]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2011/2832/article/8) in force at 31.12.2011, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/b)
+
+[^f00009]: Footnote: Section 44(3) was substituted by the Financial Services Act 2010, section 3(1) and (2).
+
+[^f00010]: Footnote: Section 148 was amended by [S.I. 2007/1973](https://www.legislation.gov.uk/uksi/2007/1973).
+
+[^key-44c83ece5b0b8b193c29d6341b0dc570]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2011/2832/article/9) in force at 31.12.2011, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/b)
+
+[^f00011]: Footnote: Section 165 was amended by the Financial Services Act 2010, section 24(1) and (2), Schedule 2, Part 1, paragraphs 1 and 15.
+
+[^f00012]: Footnote: Section 167 was amended by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
+
+[^key-8556bfe4e7c8e9e98199184dc4ebefe9]: Commencement: Art. 10 in force at 15.12.2011, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/a)
+
+[^f00013]: Footnote: Article 2A was inserted by the Friendly Societies Act [1992 (c.40)](https://www.legislation.gov.uk/ukpga/1992/40), section 120, Schedule 21, Part 2, paragraph 29.
+
+[^key-d3efc3898c9d8412a575201d9e542201]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2011/2832/article/11) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
+
+[^f00014]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Sections 425A and 425B were inserted by the Financial Services Act 2010, section 24(1), (2), Schedule 2, Part 1, paragraphs 1, 32.
+
+[^key-79bf42fcf6f46923bce47c0274727e13]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2011/2832/article/12) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
+
+[^f00015]: Footnote: [2008 c. 31](https://www.legislation.gov.uk/ukpga/2008/31).
+
+[^f00016]: Footnote: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1).
+
+[^key-bda0d167364dcf1ee1f55783cb55edd1]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2011/2832/article/13) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
+
+[^f00017]: Footnote: Article 2(2A) was inserted by [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555). There are other amendments to Article 2 not relevant to this Order.
+
+[^f00018]: Footnote: Article 2A was inserted by the Friendly Societies Act [1992 (c.40)](https://www.legislation.gov.uk/ukpga/1992/40), section 120, Schedule 21, Part 2, paragraph 29.
+
+[^f00019]: Footnote: Article 14(4A) was inserted by [S.I. 1997/2984 (N.I. 22)](https://www.legislation.gov.uk/nisi/1997/2984).
+
+[^f00020]: Footnote: Article 25(2) was inserted by [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555).
+
+[^f00021]: Footnote: Paragraphs (2) and (4) of Article 28 were amended by [S.R. 1993/429](https://www.legislation.gov.uk/nisr/1993/429).
+
+[^f00022]: Footnote: Articles 28B, 28C and 28D were inserted by [S.I. 1997/2984 (N.I. 22)](https://www.legislation.gov.uk/nisi/1997/2984).
+
+[^f00023]: Footnote: Article 72 was amended by the Arbitration Act [1996 (c. 23)](https://www.legislation.gov.uk/ukpga/1996/23), section 107(1), Schedule 3, paragraph 44.
+
+[^key-8711349f50eb58d5803a084db8855037]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2011/2832/article/14) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
+
+[^f00024]: Footnote: [S.R. 1986 No. 130](https://www.legislation.gov.uk/nisr/1986/130).
+
+[^f00025]: Footnote: [S.R. 1988 No. 245](https://www.legislation.gov.uk/nisr/1988/245).
+
+[^f00026]: Footnote: [S.R. 1995 No. 31](https://www.legislation.gov.uk/nisr/1995/31).
+
+[^f00027]: Footnote: [S.R. 2006 No. 76](https://www.legislation.gov.uk/nisr/2006/76).
+
+[^f00028]: Footnote: [S.R. 2006 No. 77](https://www.legislation.gov.uk/nisr/2006/77).
+
+[^f00029]: Footnote: [S.R. 2006 No. 78](https://www.legislation.gov.uk/nisr/2006/78).
+
+[^key-6ed793fec57a7a6e023ca90bf9ec6fcd]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2011/2832/article/15) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
+
+[^f00030]: Footnote: [S.I. 2011/2716](https://www.legislation.gov.uk/uksi/2011/2716).

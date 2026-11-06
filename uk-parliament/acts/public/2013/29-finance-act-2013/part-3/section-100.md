@@ -1,0 +1,64 @@
+---
+title: Finance Act 2013, section 100
+act: Finance Act 2013
+section: '100'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2013/29/section/100
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2013, section 100
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 100. Interim relief
+
+*Extent: E+W+S+N.I.*
+
+(1) Where tax is charged for a chargeable period with respect to a single-dwelling interest, the chargeable person may claim relief before the end of the chargeable period if—
+
+- (a) one or more days in the period is relievable with respect to the interest (by virtue of any of sections 133 to 150),
+- (b) one or more days in the chargeable period (after the first day in the period on which the chargeable person is within the charge with respect to the interest) are days on which the chargeable person is not within the charge with respect to the interest, or
+- (c) the taxable value of the single-dwelling interest on the first day in the chargeable period on which the chargeable person is within the charge with respect to the interest is higher than its taxable value on a later day in the chargeable period on which the chargeable person remains within the charge with respect to the interest.
+
+(2) Relief under this section is called “interim relief”, and must be claimed—
+
+- (a) in an annual tax on enveloped dwellings return, or
+- (b) by amending such a return.
+
+(3) Where interim relief is claimed under this section, section 163(1) (payment of tax by filing date for annual tax on enveloped dwellings return) has effect as if the amount of tax charged with respect to the single-dwelling interest were the sum of amounts A and B.
+
+(4) Amount A is the total of all the daily amounts for days in the pre-claim period on which the chargeable person is within the charge with respect to the single-dwelling interest, other than days that are relievable with respect to the single-dwelling interest.
+
+(5) Amount B is zero if—
+
+- (a) the day of the claim is relievable with respect to the single-dwelling interest by virtue of any of sections 133 to 150, or
+- (b) the chargeable person is not within the charge with respect to the single-dwelling interest on the day of the claim.
+
+(6) Otherwise, amount B is the appropriate fraction of the annual chargeable amount for the single-dwelling interest.
+
+For this purpose the annual chargeable amount is determined (under section 99(4)) on the basis that the day of the claim is the relevant day.
+
+(7) In subsection (6) “**appropriate fraction**” means—
+
+[formula: see source](https://www.legislation.gov.uk/ukpga/2013/29)
+
+where—
+
+“X” is the number of days in the period beginning with the day of the claim and ending at the end of the chargeable period, and
+
+“Y” is the number of days in the chargeable period.
+
+(8) In this section—
+
+- “**day of the claim**” means the day on which the return mentioned in subsection (2)(a), or notice of the amendment made under subsection (2)(b), is delivered to HMRC;
+- “**pre-claim period**” means the period—
+  - (a) beginning with the first day in the chargeable period mentioned in subsection (1) on which the chargeable person is within the charge with respect to the single-dwelling interest, and
+  - (b) ending with the day before the day of the claim.
+
+(9) See sections 105 and 106 for provision about the adjustment of the amount of tax charged.

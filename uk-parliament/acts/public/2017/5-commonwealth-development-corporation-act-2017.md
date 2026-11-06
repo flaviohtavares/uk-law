@@ -1,0 +1,59 @@
+---
+title: Commonwealth Development Corporation Act 2017
+id: ukpga/2017/5
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '2017-02-23'
+text_date: '2017-02-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2017/5
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2017/5/pdfs/ukpgaen_20170005_en.pdf
+- http://www.legislation.gov.uk/ukpga/2017/5/pdfs/ukpga_20170005_en.pdf
+- http://www.legislation.gov.uk/ukpga/2017/5/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Commonwealth Development Corporation Act 2017
+
+> Text as at 2017-02-23.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Commonwealth Development Corporation Act 2017
+
+2017 c. 5
+
+An Act to amend the amount of the limit in section 15 of the Commonwealth Development Corporation Act 1999 on the government's financial assistance.
+
+\[23rd February 2017\]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1. Amount of the limit on government assistance
+
+(1) Section 15 of the Commonwealth Development Corporation Act 1999 (limit on government assistance) is amended as follows.
+
+(2) In subsection (1), for “£1,500 million” substitute “ £6,000 million ”.
+
+(3) After subsection (3) insert—
+
+> (4) The Secretary of State may by regulations substitute for the amount for the time being specified in subsection (1) a larger amount not exceeding £12,000 million.
+>
+> (5) Regulations made by the Secretary of State under this section are to be made by statutory instrument.
+>
+> (6) A statutory instrument containing regulations under this section may not be made unless a draft of the instrument has been laid before and approved by a resolution of the House of Commons.
+
+## 2. Short title, extent and commencement
+
+(1) This Act may be cited as the Commonwealth Development Corporation Act 2017.
+
+(2) This Act extends to the whole of the United Kingdom.
+
+(3) This Act comes into force on the day on which it is passed.

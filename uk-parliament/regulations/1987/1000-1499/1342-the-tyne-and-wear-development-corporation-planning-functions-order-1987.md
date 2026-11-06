@@ -1,0 +1,109 @@
+---
+title: The Tyne and Wear Development Corporation (Planning Functions) Order 1987
+id: uksi/1987/1342
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1987-07-29'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1987/1342
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1987/1342/pdfs/uksi_19871342_en.pdf
+- http://www.legislation.gov.uk/uksi/1987/1342/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tyne and Wear Development Corporation (Planning Functions) Order 1987
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1987 No. 1342
+
+URBAN DEVELOPMENT
+
+The Tyne and Wear Development Corporation (Planning Functions) Order 1987
+
+Made
+
+29th July 1987
+
+Laid before Parliament
+
+10th August 1987
+
+Coming into force
+
+1st October 1987
+
+The Secretary of State for the Environment, in exercise of the powers conferred on him by section 149(1), (3) and (11) of the Local Government, Planning and Land Act 1980[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Order:—
+
+## 1. Citation and commencement
+
+This Order may be cited as the Tyne and Wear Development Corporation (Planning Functions) Order 1987 and shall come into force on 1st October 1987.
+
+## 2. Interpretation
+
+In this Order —
+
+- “the 1971 Act” means the Town and Country Planning Act 1971[^f00002];
+- “the 1980 Act” means the Local Government, Planning and Land Act 1980;
+- “the development area” means the area designated as an urban development area by the Tyne and Wear Development Corporation (Area and Constitution) Order 1987[^f00003]; and
+- “the development corporation” means the Tyne and Wear Development Corporation.
+
+## 3. Planning functions of the development corporation
+
+Subject to the provisions of articles 5 and 6 of this Order —
+
+- (a) the development corporation shall be the local planning authority for the development area, in place of any other authority which would otherwise be the local planning authority, for all the purposes of Part III of the 1971 Act in relation to all kinds of development;
+- (b) the development corporation shall have in the whole of the development area, and in place of any authority (except the Secretary of State) which would otherwise have them, the functions conferred by all the provisions of the 1971 Act specified in Part I of Schedule 29 to the 1980 Act.
+
+## 4. Modifications of provisions of the 1971 Act
+
+All the provisions of the 1971 Act specified in Part II of Schedule 29 to the 1980 Act shall have effect in relation to the development corporation and to the development area with all the modifications specified in that Part.
+
+## 5. Transitional provision: planning applications
+
+(1) This article applies as respects any application for planning permission or for a consent, approval or determination under the 1971 Act or any order or regulations made, or having effect under that Act, which —
+
+- (a) was duly made before this Order came into force to an authority which ceases by virtue of the preceding provisions of this Order to be the planning authority responsible for determining the application (“the previous authority”); and
+- (b) has not been determined when this Order comes into force.
+
+(2) Except where the previous authority resolves with the agreement of the applicant to transmit the application to the development corporation for determination, that authority shall, have in relation to the application the same powers and duties as it would have if this Order had not been made.
+
+(3) Where the previous authority transmits an application to the development corporation for determination, the application shall be treated as received by the corporation from the applicant on the day on which it is transmitted to the corporation.
+
+(4) Where an appeal is made to the Secretary of State under section 36 of the 1971 Act against a decision or determination made in relation to land within the development area by an authority which ceased by virtue of the preceding provisions of this Order to be the local planning authority responsible for making such decisions or determinations, that authority shall continue to be the local planning authority for the purposes of the appeal, but shall notify the development corporation of the appeal and transmit to the Secretary of State any representation received from the development corporation.
+
+## 6. Transitional provision: compensation
+
+(1) Where a right to compensation arises under Part VIII of the 1971 Act in consequence of action taken in relation to land within the development area by an authority which ceases by virtue of this Order to be the local planning authority in relation to that matter, the liability to pay compensation shall lie with that authority.
+
+(2) Where the Secretary of State makes a determination of an appeal against action taken by such authority as is mentioned in paragraph (1), or on a reference made to him by such authority, and that determination gives rise to a right to compensation, that authority shall be liable to pay the compensation.
+
+(3) Where the Secretary of State make an order under section 276 in respect of a matter arising before this Order comes into force, which relates to land in the development area, the authority which was the local planning authority in relation to that land when the matter arose shall remain liable to pay any compensation arising from the order.
+
+Nicholas Ridley
+
+Secretary of State for the Environment
+
+29th July 1987
+
+(This note is not part of the Order)
+
+The Tyne and Wear Development Corporation was established by the 1987 Development Corporation (Area and Constitution) Order for the purpose of regenerating the Tyne and Wear urban development area. This Order makes the corporation the local planning authority for that area for all the purposes of Part III (general planning control) of the Town and Country Planning Act 1971 (article 3(a)), and for those purposes which are specified in Part I of Schedule 29 to the Local Government, Planning and Land Act 1980, which deal with additional control in special cases, enforcement of control, listed buildings and conservation areas (article 3(b)).
+
+The Order applies other provisions of the Act specified in Part II of Schedule 29 to the 1980 Act to the corporation and to the area subject to the modification set out in that Part (article 4).
+
+Provision is made for the former local planning authorities to determine applications received by them prior to the date on which the Order comes into operation or with the applicant’s agreement to transmit them to the corporation for determination (article 5). A second transitional provision (article 6) leaves responsibility for the payment of compensation under Part VIII of the Town and Country Planning Act 1971 with the local planning authority who took the action by virtue of which the claim arose.
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
+
+[^f00002]: Footnote: [1971 c. 78](https://www.legislation.gov.uk/ukpga/1971/78).
+
+[^f00003]: Footnote: S.I. [1987/924](https://www.legislation.gov.uk/uksi/1987/924).

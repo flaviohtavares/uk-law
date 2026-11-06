@@ -1,0 +1,50 @@
+---
+title: Enterprise Act 2016, section 11
+act: Enterprise Act 2016
+section: '11'
+status: revised
+text_date: '2025-06-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2016/12/section/11
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Enterprise Act 2016, section 11
+
+> Text as at 2025-06-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 11. Power to abolish the Commissioner[^c22567851][^key-2bfb7036f2c099f984766b118d9cd43c]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State may, by regulations, abolish the office of Small Business Commissioner if, as a result of a review under section 10, the Secretary of State is satisfied that—
+
+- (a) it is no longer necessary for there to be a Small Business Commissioner carrying out the functions under this Part, or
+- (b) the Commissioner's role has not been sufficiently effective to justify the office's continued existence.
+
+(2) For the purposes of subsection (1)(b), the Secretary of State must, in particular, take account of the Commissioner's role in—
+
+- (a) carrying out any of the functions under this Part,
+- (b) improving payment practices in commercial transactions, and
+- (c) improving the awareness of small businesses of alternative dispute resolution procedures.
+
+(3) For the purposes of giving effect to the abolition of the office of Small Business Commissioner, the regulations may amend or repeal this Part or any provision made by or under any other enactment (whether passed or made before or after this Act).
+
+(4) Regulations under this section may make incidental, supplemental, consequential, transitional or transitory provision or savings.
+
+(5) Before making regulations under this section, the Secretary of State must consult—
+
+- (a) the Small Business Commissioner (unless that office is vacant),
+- (b) such other persons as appear to the Secretary of State to be persons affected by the regulations, and
+- (c) such other persons as the Secretary of State considers appropriate.
+
+(6) If, as a result of consultation under subsection (5), the Secretary of State considers it appropriate to change the whole or part of the proposed regulations, the Secretary of State must carry out such further consultation with respect to the changes as seems appropriate.
+
+## Annotations
+
+[^c22567851]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/12/section/11) in force at Royal Assent for specified purposes, see [s. 44(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1)
+
+[^key-2bfb7036f2c099f984766b118d9cd43c]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/12/section/11) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/a)

@@ -1,0 +1,406 @@
+---
+title: The Human Medicines Regulations 2012, SCHEDULE 21
+act: The Human Medicines Regulations 2012
+section: schedule-21
+status: revised-with-pending-changes
+text_date: '2026-03-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/1916/schedule/21
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Human Medicines Regulations 2012, SCHEDULE 21
+
+> **Warning: changes not yet applied to this text (9).** Text as at 2026-03-31. See https://www.legislation.gov.uk/changes/affected/uksi/2012/1916
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## SCHEDULE 21 — Medicinal products at high dilutions
+
+*Extent: E+W+S+N.I.*
+
+Regulation 242
+
+### PART 1 — Dilutions of unit preparations diluted to at least one part in a thousand (3x)
+
+- Agaricus muscarius
+- Ailanthus glandulosa
+- Apocynum cannabinum
+- Aurum lodatum
+- Belladonna
+- Bismuth Subgallate
+- Bryonia alba dioica
+- Calcium Fluoride
+- Cantharis
+- Cerium oxalicum
+- Chelidonium majus
+- Chenopodium oil
+- Cina
+- Colocynthis
+- Convallaria majalis
+- Gelsemium sempervirens
+- Hyoscyamus niger
+- Lycopodium
+- Manganese acetate
+- Ranunculus bulbosus
+- Terebinthinae oleum
+
+### PART 2 — Dilutions of unit preparations diluted to at least one part in a million (6x)
+
+- Adonis vernalis
+- Agaricus bulbosus
+- Agaricus muscarius
+- Agnus castus
+- Ailanthus glandulosa
+- Alum
+- Amethyst
+- Ammonium Iodide
+- Amygdalae amarae
+- Apatite
+- Apocynum androsaemifolium
+- Apocynum cannabinum
+- Argentite
+- Argentum Chloride
+- Argentum Iodide
+- Arnica
+- Artemisia cina
+- Aspidium filix-mas
+- Aspidium anthelmintica
+- Aurum Sulphide
+- Balsamum copivae
+- Balsamum peruvianum
+- Barium Citrate
+- Barium Citrate
+- Barium Sulphate
+- Bismuth Metal
+- Bismuth Subgallate
+- Bismuth Subnitrate
+- Boletus laricis
+- Bovista
+- Cade Oil
+- Calcium Fluoride
+- Cantharis
+- Carduus marianus
+- Cedar Wood Oil
+- Cerium Oxalicum
+- Chalcocite
+- Chalcopyrite
+- Chelidonium majus
+- Chenopodium Oil
+- Colocynthis
+- Convallaria majalis
+- Copper Silicate, Nat.
+- Crotalus horridus
+- Cucurbita
+- Cucumis melo
+- Datura Stramonium
+- Derris
+- Diamond
+- Ephedra vulgaris
+- Ferric Acetate
+- Ferrous Iodide
+- Ferrous Oxalate
+- Ferrous Sulphide
+- Formic Acid
+- Gall
+- Gelsemium sempervirens
+- Gneiss
+- Granatum ( Pomegranate) Bark
+- Harmamelis Virginiana
+- Hepar Sulfuris
+- Hyoscyamus niger
+- Iris florentine
+- Jaborandi
+- Juniperus sabina
+- Kalinite
+- Lachmanthus tinctoria
+- Lapis Albus
+- Lycopodium
+- Magnesium
+- Magnesium Acetate
+- Magnesium Chloride
+- Magnetite
+- Manganese Acetate
+- Nicotiana tabacum
+- Nicotiana tabacum oil
+- Oleander
+- Opuntia vulgaris
+- Oxalic Acid
+- Petroleum
+- Phellandrium aquaticum
+- Pix Liquida
+- Platinum
+- Platinum Chloride
+- Potassium Hydroxide
+- Potassium Silicate
+- Pyrethrum
+- Pyrolusite
+- Ranunculus acris
+- Ranunculus bulbosus
+- Ranunculus flammula
+- Ranunculus repens
+- Ranunculus sceleratus
+- Rhodium Oxynitrate
+- Rhododendron chrysanthemum
+- Rhus toxicodendron
+- Salicylic Acid
+- Scrophularia aquatica
+- Sodium Aluminium Chloride
+- Sodium Auro-chloride
+- Sodium Hypochlorite
+- Sodium Nitrate
+- Squill
+- Stannum Metal
+- Staphisagria
+- Sulphur Iodide
+- Tamus communis
+- Tannic Acid
+- Terebinthinae Oleum
+- Theridion
+- Thuja occidentalis
+- Topaz
+- Uric Acid
+- Zinc Hypophosphite
+- Zinc Isovalerate
+
+### PART 3 — Dilutions of unit preparations diluted to at least one part in ten (1x)
+
+- Abies excelsa
+- Abies nigra
+- Abies nobilis
+- Acalpha indica
+- Agate
+- Alisma plantago Aq.
+- Alstonia scholaris
+- Aluminium
+- Amber (Succinum)
+- Ambra grisea
+- Ammonium Phosphate
+- Angostura vera
+- Anthoxanthum
+- Apis mellifera
+- Aqua Marina
+- Aqua Mellis
+- Aralia racemosa
+- Aranea diadema
+- Arum maculatum
+- Arum triphyllum
+- Asarum
+- Asperula odorata
+- Astacus fluviatillis
+- Auric Chloride
+- Badiaga
+- Beech (fagus sylvestris)
+- Bellis perennis
+- Berberis aquifolium
+- Borago officinalis
+- Butyric Acid
+- Calcium Metal
+- Calcium Chloride
+- Calcium Oxide
+- Calcium Sulphate
+- Castoreum
+- Ceanothus americanus
+- Cedron
+- Cerato (Ceratostigma Willmottiana)
+- Cherry Plum (Prunus cerasifera)
+- Chestnut, Red and Sweet
+- Cholesterinum
+- Chrysolite
+- Cistus canadensis
+- Clematis erecta
+- Conchae vera
+- Conchiolinum
+- Corallium Rubrum
+- Crab Apple
+- Crocus sativus
+- Erbium
+- Erigeron Canadense
+- Fuligo
+- Genista tinctoria
+- Geum urbanum
+- Glycogen
+- Gnaphalium leontopodium
+- Gold
+- Gorse (Ulex europaeus)
+- Graphites
+- Gratiola officinalis
+- Gymnocladus (American Coffee Tree)
+- Haematoxylon Campechianum
+- Hecla Lava (Ash from Mount Hecla)
+- Hedeoma pulegioides
+- Hedra helix
+- Heliotrope
+- Heracleum spondylium
+- Herniaria
+- Hornbeam (Carpinus betulus)
+- Iberis amara
+- Impatiens
+- Iris germanica
+- Iris pseudacorus
+- Jacaranda procera
+- Jatropha curcas
+- Juncus communis
+- Justica adhatoda
+- Lamium album
+- Laurus nobilis oil
+- Laurocerasus
+- Ledum palustre
+- Lilium tigrinum
+- Lonicera caprifolium
+- Lysimachia vulgaris
+- Magnesium Phosphate
+- Magnesite
+- Magnolia
+- Marum verum
+- Melilotus officinalis
+- Menispermum canadense
+- Pephitis putorius
+- Mercurialis perennis
+- Mimulus (Mimullis guttatus)
+- Moschus
+- Myrica gale
+- Myrtus communis
+- Ocimum basilicum
+- Olive
+- Oxalis acetosella
+- Pangamic Acid
+- Paullinia cupana
+- Penthorum sedoides
+- Pollen (mixed)
+- Polygonatum multiflorum
+- Polygonum aviculare
+- Polypodium vulgare
+- Primula vulgaris
+- Prunella vulgaris
+- Ptellea trifoliata
+- Ratanhia
+- Robinia pseudoacacia
+- Rubia tinctorum
+- Rumex acetosella
+- Sal Marina
+- Sarcolactic Acid
+- Sarracenia purpurea
+- Scleranthus (Scleranthus annuus)
+- Silica
+- Silphium laciniathum
+- Sodium Benzoate
+- Spongia marina
+- Star of Bethlehem (Ornithogalum umbellatum)
+- Ulmus campestris
+- Vine
+- Walnut (juglerus regia)
+- Water Violet (Hottonia palustris)
+- Wild Oat
+- Wild Rose
+
+### PART 4 — Dilutions of unit preparations diluted to at least one part in ten (1x) for external use
+
+- Adonis vernalis
+- Agricus bulbosus
+- Agricus muscarius
+- Agnus castus
+- Allanthus glandulosa
+- Alum
+- Amethyst
+- Ammonium Iodide
+- Amygdalae amarae
+- Apatite
+- Apocynum androsaemifolium
+- Apocynum cannabinum
+- Argentite
+- Argentum Chloride
+- Argentum Iodide
+- Artemisia cina
+- Aspidium filix-mas
+- Aspidium anthelmintica
+- Aurum Sulphide
+- Balsamum copaivae
+- Balsamum peruvianum
+- Barium Citrate
+- Barium Sulphate
+- Bismuth Metal
+- Bismuth Subgallate
+- Bismuth Subnitrate
+- Boletus laricis
+- Bovista
+- Cade Oil
+- Calcium Fluoride
+- Carduus marianus
+- Cedar Wood Oil
+- Cerium Oxalicum
+- Chalcocite
+- Chalcopyrite
+- Chelidonium majus
+- Chenopodium Oil
+- Colocynthis
+- Convallaria majalis
+- Copper Silicate, Nat
+- Crotalus horridus
+- Cucurbita
+- Cucumis melo
+- Datura stramonium
+- Derris
+- Diamond
+- Ephedra vulgaris
+- Ferric Acetate
+- Ferrous Iodide
+- Ferrous Oxalate
+- Ferrous Sulphide
+- Formic Acid
+- Gall
+- Gelsemium sempervirens
+- Gneiss
+- Hamamelis virginiana
+- Hepar Sulfuris
+- Hyoscyamus niger
+- Iris florentine
+- Jaborandi
+- Juniperus sabina
+- Kaolinite
+- Lachmanthus tinctoria
+- Lapis Albus
+- Lycopodium
+- Magnesium
+- Magnesium Acetate
+- Magnesium Chloride
+- Magnetite
+- Manganese Acetate
+- Nicotiana tabacum
+- Nicotiana tabacum oil
+- Oleander
+- Opuntia vulgaris
+- Oxalic Acid
+- Petroleum
+- Phellandrium aquaticum
+- Pix Liquida
+- Platinum
+- Platinum Chloride
+- Potassium Hydroxide
+- Potassium Silicate
+- Pyrethrum
+- Pyrolusite
+- Ranunculus acris
+- Ranunculus bulbosus
+- Ranunculus flammula
+- Ranunculus repens
+- Ranunculus scelerantus
+- Rhodium Oxynitrate
+- Rhododendron chrysanthemum
+- Rhus toxicidendron
+- Salicylic Acid
+- Scrophularia aquatica
+- Sodium Aluminium Chloride
+- Sodium Auro-chloride
+- Sodium Hypochlorite
+- Sodium Nitrate
+- Squill
+- Stannum Metal
+- Sulphur Iodide
+- Tannic Acid
+- Terebinthinae Oleum
+- Topaz
+- Uric Acid
+- Zinc Hypophosphite
+- Zinc Isovalerate

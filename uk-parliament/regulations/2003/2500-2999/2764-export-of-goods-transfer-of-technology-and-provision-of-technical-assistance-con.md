@@ -1,0 +1,1142 @@
+---
+title: Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) Order 2003
+id: uksi/2003/2764
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-10-30'
+text_date: '2009-01-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2003/2764
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/2764/pdfs/uksi_20032764_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/2764/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) Order 2003
+
+> Text as at 2009-01-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2003 No. 2764
+
+CUSTOMS AND EXCISE
+
+Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) Order 2003
+
+Made
+
+30th October 2003
+
+Laid before Parliament
+
+31st October 2003
+
+Coming into force
+
+1st May 2004
+
+The Secretary of State, in exercise of the powers conferred by sections 1, 2, 3, 5, 7 and having regard to the matters specified in section 8, of the Export Control Act 2002 [^c5092281] hereby makes the following Order:[^key-a651c3273a0381a9de1d2b81f357e9b6]
+
+## 1. Citation and commencement
+
+This Order may be cited as the Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) Order 2003 and shall come into force on 1st May 2004.
+
+## 2. Interpretation
+
+(1) In this Order the following expressions have the meanings given to them below, save where an expression is also defined in a Schedule where it has, for the purposes of that Schedule, that meaning—
+
+- “**the Act**” means the Export Control Act 2002;
+- “**aircraft**” means a fixed wing, swivel wing, rotary wing, tilt rotor or tilt wing airborne vehicle or helicopter;
+- “**the Commissioners**” means the Commissioners of Customs and Excise;
+- “**the Community General Export Authorisation**” means the authorisation constituted by Article 6(1) of “the Regulation” and Annex II to “the Regulation”;
+- “**Community Licence**” means an authorisation granted by a “competent authority”(whether before or after commencement of this Order) under “the Regulation” or the[^key-b08702f7495194ce09ef754347fe7540] 2005 Regulation;
+- “**competent authority**” means in respect of the United Kingdom, the Secretary of State, and, in respect of another Member State, any authority empowered by that Member State to grant “exportation” or “transfer” authorisations under “the Regulation” or the[^key-74aab3cf06a049d508602997f4b1c3b4] 2005 Regulation;
+- “**country**” includes territory;
+- “**customs and excise Acts**” has the same meaning as in section 1 of the Customs and Excise Management Act 1979 [^c5092291];
+- “**dual-use**” in relation to “goods” or “technology”, means “goods” or “technology” which can be used for both civil and military purposes, and includes any “goods” or “technology” which can be used for both non-explosive uses and assisting in any way in the manufacture of nuclear weapons or other nuclear explosive devices;
+- “**the European Community**” means the customs territory of the European Community as defined in article 3(3) of Council Regulation [(EEC) No 2913/92](https://www.legislation.gov.uk/european/regulation/1992/2913) of 12th October 1992 [^c5092301];
+- “**exportation**” includes “shipment” as “stores” and, unless the context otherwise requires, means exportation from the United Kingdom to any destination outside the United Kingdom and the Isle of Man, except “**export**” in relation to the exportation from “the European Community” of dual-use “goods”, “software” and “technology”, which has the same meaning as in Article 2(b) of “the Regulation”;
+- “exporter” and other cognate expressions shall be construed accordingly;
+- “**goods**” means tangible goods, both used and unused and includes any goods on which “software” or “technology” is recorded;
+- “importation” and “**exportation**” in relation to a “vessel”, “vehicle”, submersible vehicle or “**aircraft**” includes the taking into or out of the United Kingdom of the “vessel”, “vehicle”, submersible vehicle or “aircraft”, notwithstanding that the “vessel”, “vehicle”, submersible vehicle or “aircraft” is conveying “goods” or passengers and whether or not it is moving under its own power; and cognate expressions shall be construed accordingly;
+- “**microprogramme**” means a sequence of elementary instructions, maintained in a special storage, the execution of which is initiated by the introduction of its reference instruction into an instruction register;
+- “**normal commercial journey**” means a journey providing transport services in the ordinary course of business;
+- “**prescribed sum**” and “**proper**” have the same meanings as in the Customs and Excise Management Act 1979;
+- “**programme**” means a sequence of instructions to carry out a process in, or convertible into, a form executable by an electronic computer;
+- “**in the public domain**” means available without restriction upon further dissemination (no account being taken of restrictions arising solely from copyright);
+- “**the Regulation**” means Council Regulation [(EC) No. 1334/2000](https://www.legislation.gov.uk/european/regulation/2000/1334) of 22nd June 2000 (as amended by the Council Regulations listed in Schedule 5 to this Order) setting up a Community regime for the control of exports of “dual-use” “goods” and “technology”[^c5092311];
+- “the[^key-74d3e0cb763e6563762e3506a214badb] 2005 Regulation” means Council Regulation [(EC) No 1236/2005](https://www.legislation.gov.uk/european/regulation/2005/1236) of 27th June 2005 concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment.
+- “**any relevant use**” means use in connection with the development, production, handling, operation, maintenance, storage, detection, identification or dissemination of chemical, biological or nuclear weapons or other nuclear explosive devices, or the development, production, maintenance or storage of missiles capable of delivering such weapons;
+- “**scheduled journey**” means one of a series of journeys which are undertaken between the same two places and which together amount to a systematic service operated in such manner that its benefits are available to members of the public from time to time seeking to take advantage of it;
+- “**shipment**”(and cognate expressions) and “**stores**” have the same meanings as in the Customs and Excise Management Act 1979;
+- “**software**” means one or more “programmes” or “microprogrammes” fixed in any tangible medium of expression;
+- “**surface effect vehicle**” means any air cushion “vehicle”(whether side wall or skirted) and any “vehicle” using the wing-in-ground effect for positive lift;
+- “**technical assistance**” means any technical support related to repairs, development, manufacture, assembly, testing, “use”, maintenance or any other technical service;
+- “**technology**” means information (including but not limited to information comprised in software and documents such as blueprints, manuals, diagrams and designs) that is capable of use in connection with the development, production or use of any goods;
+- “**transfer**”, in relation to any “**software**” or “**technology**”, means the “transfer by any electronic” or “**transfer by non-electronic means**”(or any combination of electronic and non-electronic means) from a person or place within the United Kingdom except in articles 8 and 9 to the extent that those articles make provision in respect of transfers other than from a person or place within the United Kingdom[^key-167066e44829d6315b10e3f81c2a58b6];
+- “**transferor**” and other cognate expressions shall be construed accordingly (except that where the transfer is to a destination outside “the European Community”, transferor has the same meaning as “exporter” in the definition in Article 2(c) of “the Regulation” to the extent that that definition applies);
+- “**transfer by any electronic means**”, in relation to any “software” or “technology”, means a transmission of “software” or “technology” by facsimile, telephone or other electronic media (except that oral transmission of “technology” by telephone is included only where the “technology” is contained in a document the relevant part of which is read out over the telephone, or is described over the telephone in such a way as to achieve substantially the same result as if it had been so read);
+- “**transfer by any non-electronic means**”, in relation to any “software” or “technology”, means a disclosure of “software” or “technology” by any means (or combination of means), including oral communication, other than as the “exportation” of “goods” or the “transfer by any electronic means”;
+- “**in transit**” means any “goods” imported into the United Kingdom for “transit or transhipment” and includes “goods” which only pass through “the European Community” within the meaning of Article 3(4) of “the Regulation” and “goods” being exported to another Member State which are not being exported from the United Kingdom to that other Member State within the meaning of Article 21 of “the Regulation”;
+- “**transit or transhipment**” means transit through the United Kingdom or transhipment with a view to re-exportation of the “goods” in question or transhipment of those “goods” for use as “stores”;
+- “**vehicle**” includes a railway carriage;
+- “**vessel**” includes any ship, “surface effect vehicle”, vessel of small waterplane area or hydrofoil and the hull or part of the hull of a vessel.
+
+(2) Any reference in this Order to time after an event is a reference to a period of that length of time beginning on the day after that event.
+
+(3) Except where this Order otherwise provides, expressions used in the Regulation which are also used in this Order have the same meaning in this Order as they have in the Regulation.
+
+## PART I — CONTROLS ON THE EXPORT OF GOODS
+
+### 3. Export of military and certain other goods
+
+(1) Subject to the provisions of this Order, goods of a description specified in Schedule 1 to this Order are prohibited to be exported to any destination.
+
+(1A)[^key-2b9f7df6fd9e8941c8a3ded5908825af] Subject to the provisions of this Order goods of a description in—
+
+- (a) Schedule 1A to this Order are prohibited to be exported to any Member State or any of the Channel Islands; and
+- (b) entry 1 or 2 of Schedule 1A to this Order are prohibited to be exported to any other destination when they are goods in transit to that other destination.
+
+(2) Paragraph (1) or 1A[^key-815ac081fa80af4abf7f741c067a95cd] does not prohibit the exportation of any goods in relation to which a licence in writing has been granted by the Secretary of State, provided that all conditions attaching to the licence are complied with.
+
+(3) Subject to the provisions of this Order, or any contrary provisions in a licence, a licence granted by the Secretary of State in relation to any goods specified in Schedule 1 shall also authorise the exportation or transfer of the minimum technology required for the installation, operation, maintenance and repair of the goods to the same destination as the goods.
+
+### 4. Export of dual-use goods and end-use control
+
+(1) Subject to the provisions of this Order, goods of a description specified in Schedule 2 to this Order are prohibited to be exported to the destinations specified in that Schedule as being prohibited destinations in relation to those goods.
+
+(2) Subject to the provisions of this Order—
+
+- (a) goods specified in Annex I but not in Annex IV to the Regulation;
+- (b) goods of a description specified in Schedule 2 to this Order; or
+- (c) goods not specified in Annex I to the Regulation or Schedule 2 to this Order but for the exportation of which from the European Community an authorisation is required pursuant to:
+  - (i) Article 4(1) of the Regulation; or
+  - (ii) Article 4(2), (3) or (4) of the Regulation,
+
+are prohibited to be exported to any destination in any Member State where the exporter knows at the time of exportation that the final destination of such goods is outside the European Community and no processing or working is to be performed on those goods in any Member State to which they are to be exported.
+
+(3) Subject to the provisions of this Order, dual-use goods not listed in Annex I of the Regulation, which the exporter has grounds for suspecting are or may be intended, in their entirety or in part, for any relevant use, are prohibited to be exported to any destination outside the European Community, unless the exporter has made all reasonable enquiries as to their proposed use and is satisfied that they will not be so used.
+
+(4) Subject to the provisions of this Order, goods of a description specified in Annex I to the Regulation, which are goods in transit, are prohibited to be exported to any destination.
+
+(5) Subject to the provisions of this Order, paragraphs (1), (2), (3) and (4) do not prohibit the exportation of any goods in relation to which a licence in writing has been granted by the Secretary of State, provided that all conditions attaching to the licence are complied with.
+
+### 5. End-use control and goods in transit
+
+(1) Subject to the provisions of this Order, goods which are goods in transit are prohibited to be exported to any destination where—
+
+- (a) the exporter (or, if the exporter is not within the United Kingdom, any agent of the exporter within the United Kingdom concerned in the exportation or intended exportation) has been informed by a competent authority that such goods are or may be intended, in their entirety or in part, for any relevant use; or
+- (b) the exporter is aware that such goods are intended, in their entirety or in part, for any relevant use; or
+- (c) the exporter has grounds for suspecting that such goods are or may be intended, in their entirety or in part, for any relevant use, unless the exporter has made all reasonable enquires as to their proposed use and is satisfied that they will not be so used.
+
+(2) Subject to the provisions of this Order, paragraph (1) does not prohibit the exportation of any goods in relation to which a licence in writing has been granted by the Secretary of State, provided that all conditions attaching to the licence are complied with.
+
+## PART II — CONTROLS ON THE TRANSFER OF TECHNOLOGY
+
+### 6. Electronic transfer of controlled military and certain other technology
+
+(1) Subject to the provisions of this Order, no person shall transfer by any electronic means to a person or place outside the United Kingdom any software or technology of a description specified in Schedule 1 to this Order.
+
+(2) Paragraph (1) does not prohibit the transfer of any software or technology of a description specified in Schedule 1 to this Order in relation to which a licence in writing has been granted by the Secretary of State, provided that all conditions attaching to the licence are complied with.
+
+### 7. Electronic transfer of controlled dual-use technology and software and end-use controls
+
+(1) Subject to the provisions of this Order, no person shall transfer by any electronic means any dual-use software or technology of a description specified in Schedule 2 to this Order where the transfer is to a person or place in any destination specified in that Schedule as being a prohibited destination in relation to that software or technology.
+
+(2) Subject to the provisions of this Order, no person shall transfer by any electronic means to a person or place in any Member State any dual-use software or technology that is either—
+
+- (a) specified in Annex I but not in Annex IV to the Regulation;
+- (b) specified in Schedule 2 to this Order; or
+- (c) not specified in Annex I to the Regulation or Schedule 2 to this Order but for the transfer of which from the European Community an authorisation is required pursuant to—
+  - (i) Article 4(1) of the Regulation; or
+  - (ii) Article 4(2), (3) or (4) of the Regulation,
+
+  if he knows at the time of the transfer that such software or technology is intended for use outside the European Community and no processing or working is to be performed on that software or technology in any Member State to which it is to be transferred.
+
+(3) Subject to the provisions of this Order, no person shall transfer by any electronic means any dual-use software or technology not listed in Annex 1 of the Regulation, to a person or place outside the European Community where he has grounds for suspecting that such software or technology is or may be intended, in its entirety or in part, for any relevant use, unless he has made all reasonable enquiries as to its proposed use and is satisfied that it will not be so used.
+
+(4) Subject to the provisions of this Order—
+
+- (a) Article 21(1) of the Regulation and paragraphs (1), (2) and (3) of this article do not prohibit the transfer of any dual-use software or technology in relation to which a licence in writing has been granted by the Secretary of State provided that all conditions attaching to the licence are complied with; and
+- (b) Article 3(1) of the Regulation does not prohibit the transfer of any dual-use software or technology under the authority of the Community General Export Authorisation, or in relation to which a licence in writing has been granted by the Secretary of State or a Community Licence has been granted by any competent authority, provided that all conditions applying to that authorisation or attaching to the licence or Community Licence are complied with.
+
+### End-Use Controls on the transfer of all software and technology by any means
+
+ 
+
+### Electronic transfer of all software and technology and end-use controls
+
+#### 8.
+
+(1) Subject to the provisions of this Order, no person shall transfer by any electronic means any software or technology to a person or place within the United Kingdom, where—
+
+- (a) he has been informed by the Secretary of State that such software or technology is or may be intended, in its entirety or in part, for any relevant use; or
+- (b) he is aware that such software or technology is intended, in its entirety or in part, for any relevant use,
+
+if he has reason to believe that such software or technology may be used outside the European Community.
+
+(2) Subject to the provisions of this Order and where paragraph (3) applies, no United Kingdom person shall transfer by any electronic means any software or technology from any place outside the European Community to—
+
+- (a) a person or place outside the European Community; or
+- (b) a person or place in any Member State, if he knows at the time of transfer that such software or technology is intended for use outside the European Community and no processing or working is to be performed on that software or technology in any Member State to which it is to be transferred.
+
+(3) This paragraph applies where—
+
+- (a) the United Kingdom person has been informed by a competent authority that such software or technology is or may be intended, in its entirety or in part, for any relevant use; or
+- (b) the United Kingdom person is aware that such software or technology is intended, in its entirety or in part, for any relevant use.
+
+(4) Subject to the provisions of this Order, no United Kingdom person shall transfer by any electronic means any software or technology from any place outside the European Community to a person or place within the United Kingdom where—
+
+- (a) he has been informed by a competent authority that such software or technology is or may be intended, in its entirety or in part, for any relevant use; or
+- (b) he is aware that such software or technology is intended, in its entirety or in part, for any relevant use,
+
+if he has reason to believe that such software or technology may be used outside the European Community.
+
+(5) For the purposes of paragraphs (1) and (4) a person has reason to believe that software or technology may be used outside the European Community if he knows that it may be or is intended to be so used or if he has been informed by the Secretary of State that it may be or is intended to be so used.
+
+(6) Nothing in paragraph (1), (2) or (4) shall be taken to prohibit the transfer of any software or technology in the public domain.
+
+(7) Paragraph (1), (2) or (4) do not prohibit the transfer of any software or technology in relation to which a licence in writing has been granted by the Secretary of State, provided that all conditions attaching to the licence are complied with.
+
+### Non-electronic transfer of all software and technology and end-use controls
+
+#### 9.
+
+(1) Subject to the provisions of this Order, and where paragraph (2) applies, no person (“**the person concerned**”) shall transfer by any non-electronic means any software or technology to—
+
+- (a) a person or place outside the European Community; or
+- (b) a person or place in any Member State if he knows at the time of transfer that such software or technology is intended for use outside the European Community and no processing or working is to be performed on that software or technology in any Member State to which it is to be transferred.
+
+(2) This paragraph applies where—
+
+- (a) the person concerned has been informed by the Secretary of State that such software or technology is or may be intended, in its entirety or in part, for any relevant use; or
+- (b) the person concerned is aware that such software or technology is intended, in its entirety or in part, for any relevant use.
+
+(3) Subject to the provisions of this Order, no person shall transfer by any non-electronic means any software or technology to a person or place within the United Kingdom where—
+
+- (a) he has been informed by the Secretary of State that such software or technology is or may be intended, in its entirety or in part, for any relevant use; or
+- (b) he is aware that such software or technology is intended, in its entirety or in part, for any relevant use,
+
+if he has reason to believe that such software or technology may be used outside the European Community.
+
+(4) Subject to the provisions of this Order and where paragraph (5) applies, no United Kingdom person shall transfer by any non-electronic means any software or technology from any place outside the European Community to—
+
+- (a) a person or place outside the European Community; or
+- (b) a person or place in any Member State if he knows at the time of transfer that such software or technology is intended for use outside the European Community and no processing or working is to be performed on that software or technology in any Member State to which it is to be transferred.
+
+(5) This paragraph applies where—
+
+- (a) the United Kingdom person has been informed by a competent authority that such software or technology is or may be intended, in its entirety or in part, for any relevant use; or
+- (b) the United Kingdom person is aware that such software or technology is intended, in its entirety or in part, for any relevant use.
+
+(6) For the purposes of paragraph (3) a person has reason to believe that software or technology may be used outside the European Community if he knows that it may be or is intended to be so used or if he has been informed by the Secretary of State that it may be or is intended to be so used.
+
+(7) Nothing in paragraph (1), (3) or (4) shall be taken to prohibit the transfer of any software or technology in the public domain.
+
+(8) Paragraphs (1), (3) and (4) do not prohibit the transfer of any software or technology in relation to which a licence in writing has been granted by the Secretary of State, provided that all conditions attaching to the licence are complied with.
+
+## PART III — CONTROLS ON THE PROVISION OF TECHNICAL ASSISTANCE
+
+### 10. End-use control on technical assistance
+
+(1) Subject to paragraphs (3) and (4), no person shall directly or indirectly provide to a person or place outside the European Community any technical assistance related to the supply, delivery, manufacture, maintenance or use of anything which—
+
+- (a) he has been informed by the Secretary of State is or may be intended, in its entirety or in part, for any relevant use; or
+- (b) he is aware is intended, in its entirety or in part, for any relevant use.
+
+(2) Subject to paragraphs (3) and (4), no United Kingdom person shall directly or indirectly provide from a place outside the European Community to any person or place outside the European Community any technical assistance related to the supply, delivery, manufacture, maintenance or use of anything which—
+
+- (a) he has been informed by the Secretary of State is or may be intended, in its entirety or in part, for any relevant use; or
+- (b) he is aware is intended, in its entirety or in part, for any relevant use.
+
+(3) For the purposes of paragraphs (1) and (2)—
+
+- (a) a person directly provides technical assistance if in particular he provides technical assistance or agrees to do so; and
+- (b) a person indirectly provides technical assistance if in particular he makes arrangements under which another person provides technical assistance or agrees to do so.
+
+(4) Paragraphs (1) and (2) do not prohibit the provision of any technical assistance in relation to which a licence in writing has been granted by the Secretary of State, provided that all conditions attaching to the licence are complied with.
+
+## PART IV — EXCEPTIONS TO THE CONTROLS IN PARTS I, II AND III
+
+### 11. Aircraft, Vessels, Firearms and ammunition and Goods in Transit
+
+(1) Nothing in article 4 shall be taken to prohibit the exportation of any aircraft the immediately preceding importation of which was on a scheduled journey and which is intended for further scheduled journeys.
+
+(2) Nothing in article 3 shall be taken to prohibit the exportation of any aircraft which is being exported (except to a destination in Iran[^key-2249b2e2152ea836d0a1a0782dbdccfc] or to a country or destination specified in Schedule 3 to this Order) after temporary importation into the United Kingdom provided there has been no change of ownership or registration since such importation and that no goods of a description specified in Schedule 1 to this Order have been incorporated into the aircraft since such importation other than by way of replacement for a component essential for the departure of the aircraft.
+
+(3) Nothing in article 4 shall be taken to prohibit the exportation of any aircraft on a scheduled journey.
+
+(4) Nothing in article 3 or 4 shall be taken to prohibit the exportation of any aircraft which is departing temporarily from the United Kingdom on trials.
+
+(5) Nothing in article 3 or 4 shall be taken to prohibit the exportation of any vessel which is departing temporarily from the United Kingdom on trials.
+
+(6) Nothing in article 3 shall be taken to prohibit the exportation of any vessel registered or constructed outside the United Kingdom which is being exported (except to a destination in Iran[^key-c6df7b80f8e05cf6ec3b9e253d1a7e3a] or to a country or destination specified in Schedule 3 to this Order) after temporary importation into the United Kingdom provided that no goods of a description specified in Schedule 1 to this Order have been incorporated into the vessel since such importation other than by way of replacement for a component essential for the departure of the vessel.
+
+(7) Nothing in article 4 shall be taken to prohibit the exportation of any vessel proceeding on a normal commercial journey.
+
+(8) Nothing in article 3 shall be taken to prohibit the exportation of any firearm falling within category B, C or D of Annex I to Council Directive [91/477/EEC](https://www.legislation.gov.uk/eudr/1991/477) [^c5092321], related ammunition and sight using non-electronic image enhancement for use therewith to any destination in a Member State if—
+
+- (a) the firearm, ammunition and sight using non-electronic image enhancement form part of the personal effects of a person who is in possession of—
+  - (i) a European firearms pass which has been issued to him under section 32A of the Firearms Act 1968 [^c5092331]; or
+  - (ii) a document which has been issued to him under the provisions of the law of a Member State corresponding to the provisions of that section,
+
+which, in either case, relates to the firearm in question; and
+
+- (b) either the said pass or document issued to him contains authorisation for the possession of the said firearm from the Member State of destination and any other Member State through which the holder intends that the firearm will pass on its way to that destination, or the holder of the firearm on request satisfies the proper officer of Customs and Excise at the place of exportation—
+  - (i) that the exportation of the firearm is necessary to enable the holder to participate in one of the activities specified in article 12(2) of that Directive;
+  - (ii) that the firearm falls within the category appropriate to that activity in accordance with that article; and
+  - (iii) that the exportation or passage of the firearm is not to or through a Member State which prohibits or requires an authorisation for the acquisition or possession of the said firearm.
+
+(9) Nothing in article 3 shall be taken to prohibit the exportation of any firearm authorised to be possessed or, as the case may be, purchased or acquired by a valid firearm certificate or shot gun certificate granted under the Firearms Act 1968 or by a visitor’s firearm or shot gun permit granted under section 17 of the Firearms (Amendment) Act 1988 [^c5092341] or by a valid firearm certificate granted under the Firearms (Northern Ireland) Order 1981 [^c5092351] or granted in the Isle of Man under the Firearms Act 1947 (an Act of Tynwald) [^c5092361] as amended by the Firearms Act 1968 (an Act of Tynwald) [^c5092371] and the Air Guns and Shot Guns, etc. Act 1968 (an Act of Tynwald) [^c5092381], related ammunition and sight using non-electronic image enhancement for use therewith—
+
+- (a) to any destination in a Member State by any person or body specified in article 2(2) of that Directive, or by the holder of a firearm certificate granted under the said Act of 1947, or
+- (b) to any other destination other than a destination in Iran[^key-95024fdd4886908c8f077260cb7985a1] or to a country or destination specified in Schedule 3 to this Order,
+
+provided that the firearm, related ammunition and sight using non-electronic image enhancement form part of the personal effects of the holder of the certificate and, in a case to which sub-paragraph (b) applies, the certificate is produced by the holder, or his duly authorised agent, with the firearm and ammunition to the proper officer of Customs and Excise at the place of exportation.
+
+(10) Subject to article 5 and paragraph (11) below, nothing in article 3(1) or 3(1A)(a)[^key-8c16aa389c0051e91d4083dfc5dd458f], 4(1), 4(2)(a), (b), (c)(ii) or (4) shall be taken to prohibit the exportation of any goods which are goods in transit provided that the conditions in paragraph (12) below are met.
+
+(11) Paragraph (10) does not apply to—
+
+- (a) anti-personnel landmines;
+- (b)[^key-f0f9787fa96ee5980607dda8f44d2393] the following goods;
+  - (i) any goods falling within paragraph d., g., h. or i.[^key-5521b1c68eb8ce27f18a630efcba7c52] of entry PL5001 in Part 1 of Schedule 1 to this Order;
+  - (ii) any goods falling within entry 1 or 2 in Schedule 1A to this Order; or
+  - (iii) any goods falling within entry 3 in Schedule 1A to this Order where those goods are in transit from one Member State to another Member State, or from a Member State to any of the Channel Islands or from any of the Channel Islands to a Member State[^key-1cbd7408d9bed261d3baf5d22e6b48a9].
+- (c) components specially designed for goods falling within sub-paragraph (a);
+- (d) equipment, software or technology falling within entry ML18, ML21 or ML22 in Part I of Schedule 1 to this Order specifically related to goods falling within sub-paragraph (a) or (b);
+- (e) any goods being exported to a destination in Iran or North Korea[^key-a37fcfed11889e80d2f6681e380bea2c]; or
+- (f) any goods of a description specified in Schedule 1 to this Order being exported to any country or destination specified in Schedule 3 to this Order.
+
+(12) The conditions are that—
+
+- (a) the goods remain on board a vessel or aircraft for the entire period that they remain in the United Kingdom or are goods on a through bill of lading or through air waybill and in any event are exported within 30 days of their importation;
+- (b) the destination of those goods following exportation from the United Kingdom has been determined in the country from which they were originally exported prior to their original exportation in connection with the transaction which has given rise to transit or transhipment and has not been changed prior to their exportation from the United Kingdom, or the goods are being returned to that country; and
+- (c) the goods in question were exported from that country in accordance with any laws or regulations relating to the exportation of goods applying therein at the time of exportation of those goods.
+
+## PART V — LICENCES AND PERMITS
+
+### 12. Licences
+
+(1) The Secretary of State may grant licences and Community Licences.
+
+(2)[^key-47c99658088f4713356fa5c0a18e7f89] A Community Licence is the authorisation required by—
+
+- (a) Article 3(1) of the Regulation, for the exportation or transfer from the European Community of any goods, software or technology specified in Annex 1 to the Regulation where the export or transfer is not subject to Article 6(1) of the Regulation;
+- (b) Article 4(1), (2) and (3) of the Regulation for the exportation or transfer from the European Community, in the circumstances respectively described in those paragraphs, of any goods, software or technology not listed in Annex 1 to the Regulation where the export or transfer is not subject to Article 6(1) of the Regulation; or
+- (c) Articles 3(2) and 5(1) of the 2005 Regulation.
+
+(3) A licence granted by the Secretary of State is the authorisation required by Article 21(1) of the Regulation for the exportation or transfer from the United Kingdom to another Member State of any goods, software or technology specified in Annex IV to the Regulation.
+
+(4) Any licence or Community Licence granted or issued by the Secretary of State in pursuance of this Order, may be—
+
+- (a) either general or individual,
+- (b) limited so as to expire on a specified date unless renewed, and
+- (c) subject to, or without, conditions and any such condition may require any act or omission before or after the doing of the act authorised under that licence or Community Licence.
+
+(5) Any licence or Community Licence granted under this Order, may be amended, suspended or revoked by the Secretary of State at any time and in such circumstances and on such terms as he thinks fit by serving notice to that effect on the holder of the licence or Community Licence.
+
+(6) For the purposes of articles 3(2), (3), 4(5) and 5(2) of this Order but subject to paragraph (7) below, the exportation of goods to any destination outside the European Community shall be regarded as being under the authority of a licence granted by the Secretary of State to, or for the benefit of, a particular person only if—
+
+- (a) he is the person on whose behalf the exportation declaration is made; and
+- (b) he is established within the European Community and either—
+  - (i) he is the owner of the goods or has a similar right of disposal over them; or
+  - (ii) if no person who is the owner of the goods or has a similar right of disposal over them, is established within the European Community, he is a party to one or more contracts under which ownership of the goods or a similar right of disposal over them has passed to a person not established within the European Community and pursuant to which the goods are to be, are being or have been exported from the European Community.
+
+(7) Paragraph (6) does not apply if no person falls within sub-paragraph (b) of that paragraph or if the exportation is of goods imported into the United Kingdom for transit or transhipment in respect of which the conditions in article 11(12) of this Order are met.
+
+### 13. Registration with the Secretary of State
+
+(1) Not later than 30 days after—
+
+- (a) any person first does any act under the authority of—
+  - (i) any general licence or Community Licence granted by the Secretary of State that does not provide otherwise,
+  - (ii) any individual licence granted under article 4 or 5 by the Secretary of State that does not provide otherwise, or
+- (b) any person established in the United Kingdom first does any act under the authority of the Community General Export Authorisation,
+
+the person in question shall give to the Secretary of State written notice of his name and the address at which copies of the records referred to in article 14(1) of this Order may be inspected by any person authorised by the Secretary of State or the Commissioners under article 14(4) of this Order.
+
+(2) A person who has given to the Secretary of State written notice of particulars under paragraph (1) shall, not later than 30 days after any change in those particulars, give to the Secretary of State written notice of the changed particulars.
+
+(3) Not later than 30 days after the first exportation or transfer of any goods, software or technology specified in Part 2 of category 5 in Annex I to the Regulation but not specified in Part I of Schedule 4 to this Order from the United Kingdom under the authority of the Community General Export Authorisation by any person, he shall (in addition to any notice given under paragraph (1)) give to the Secretary of State in relation to those goods or that software or technology written notice of such of the information specified in Part II of Schedule 4 to this Order as is in his possession and such other information as he can reasonably be expected to obtain within that time.
+
+(4) A person who has given to the Secretary of State written notice of information under paragraph (3) shall, not later than 30 days after any change in that information, give to the Secretary of State written notice of the changed information.
+
+### 14. Record keeping and inspection
+
+(1) Any person acting under the authority of any general licence granted under this Order shall keep detailed registers or records.
+
+(2) The registers or records shall contain sufficient detail as may be necessary to allow the following information, where appropriate, to be identified—
+
+- (a) a description of the goods that have been exported or the software or technology that has been transferred;
+- (b) the date of the exportation or transfer;
+- (c) the quantity of the goods;
+- (d) the name and address of the person referred to in paragraph (1);
+- (e) the name and address of any consignee of the goods;
+- (f) in so far as it is known to the person referred to in paragraph (1) the name and address of the end-user of the goods, software or technology; and
+- (g) any further information required to be kept by the competent authority who has authorised the exportation or transfer.
+
+(3) Any person established in the United Kingdom who exports any goods or transfers any software or technology from the European Community under the authority of a Community Licence, and any such person who exports any goods or transfers any software or technology from the United Kingdom under the authority of the Community General Export Authorisation shall keep detailed registers or records to allow the information specified in paragraph (2) to be identified.
+
+(4) The register or records referred to in paragraphs (1) and (3) shall be kept for at least 3 years from the end of the calendar year in which the authorised act took place and the person referred to in paragraphs (1) and (3) shall permit any such registers or records to be inspected and copied by any person authorised by the Secretary of State or the Commissioners.
+
+(5) Any person who has been granted a Community Licence under this Order in relation to the exportation or transfer from the European Community of any goods, software or technology shall, upon request in writing by the Secretary of State or the Commissioners, produce any registers or records he may hold that relate to the application for that Community Licence and any such register or records shall be kept for at least 3 years from the end of the calendar year in which the authorised act took place and he shall permit any such registers or records to be inspected or copied by any person authorised by the Secretary of State or the Commissioners.
+
+(6) Any person authorised by the Secretary of State or the Commissioners shall have the right, on producing, if required to do so, a duly authenticated document showing his authority, at any reasonable hour to enter—
+
+- (a) for the purpose of paragraph (4), the premises of the address which has most recently been notified to the Secretary of State under article 13; or
+- (b) for the purpose of paragraph (5), any premises the address of which has been notified for this purpose by the licence holder to a competent authority when applying for a licence.
+
+(7) Where the registers or records required to be maintained under this article are kept in a form which is not legible the exporter or transferor shall at the request of the person authorised by the Secretary of State or the Commissioners, reproduce such registers or records in a legible form.
+
+(8) The documents and the records to be kept in accordance with Article 21(5) of the Regulation shall be the registers or records referred to in paragraph (2)(a) to (g). Paragraphs (6) and (7) and the provision in paragraph (4) relating to inspection and copying shall apply for the production of such documents and records to the competent authorities in accordance with Article 21(5) of the Regulation as they apply in respect of the inspection and copying of records referred to in paragraph (4) or (as the case may be) in respect of entry into premises for the purpose of paragraph (4).
+
+(9) Any person who exports or transfers to another Member State any goods, software or technology listed in Part 2 of category 5 in Annex I to the Regulation but not listed in Annex IV to the Regulation shall maintain registers or records in relation to each such exportation or transfer that contain such of the information specified in Part II of Schedule 4 to this Order as he can reasonably be expected to obtain and such other of that information as comes into his possession. These registers or records shall be kept for at least 3 years from the end of the calendar year in which the authorised act took place, and he shall permit any such registers or records to be inspected and copied by any person authorised by the Secretary of State or the Commissioners. Paragraphs (6) and (7) and the provision in paragraph (4) relating to inspection and copying, shall apply to the production of such documents or records as they apply in respect of registers or records referred to in paragraph (4) or (as the case may be) in respect of entry into premises for the purpose of paragraph (4).
+
+### 15. Licence refusals etc. and appeals
+
+(1) In the event that the Secretary of State decides not to grant a licence under this Order to any person who has applied for a licence, he shall be provided with a written notification setting out the reason or reasons for the decision.
+
+(2) In the event that the Secretary of State decides to suspend a licence that has been granted under this Order, the licence holder shall be provided with a written notification setting out the terms of the suspension and the reason or reasons for the decision.
+
+(3) In the event that the Secretary of State decides to revoke a licence that has been granted under this Order, the licence holder shall be provided with a written notification setting out the reason or reasons for the decision.
+
+(4) Any person who has a licence application refused under this Order or who has a licence suspended or revoked under article 12 of this Order shall have 28 calendar days from the date of the written notification in which to submit an appeal in writing to the Secretary of State, Export Control Organisation, Department for Business, Enterprise and Regulatory Reform[^key-645201bd4926d01e297a9738263825c7] [^key-82ae26943fa372bb1dc725616a50785a]....
+
+(5) Any appeal submitted under paragraph (4) shall specify the grounds on which that appeal is made and may provide further information or arguments in support of the appeal.
+
+(6) Pending determination of any appeal submitted under paragraph (4), any decision taken by the Secretary of State shall continue to have effect.
+
+## PART VI — GENERAL
+
+### 16. Offences and penalties
+
+(1) Any person who contravenes a prohibition or restriction in—
+
+- (a) article 6, 7(1), 7(2)(a), 7(2)(b) or 7(2)(c)(ii) of this Order; or
+- (b) Article 3(1), 4(2), 4(3) or 21(1) of the Regulation in respect of the transfer of software and technology, or[^key-f256539c63d0be8fe0eb83f1278c9615]
+- (c) Article 3(1) of the 2005 Regulation, in respect of the supply of technical assistance, as defined in the 2005 Regulation,
+
+shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) Any person who contravenes a prohibition or restriction in—
+
+- (a) article 4(2)(c)(i), 4(3) or 5 of this Order;
+- (b) article 7(2)(c)(i), 7(3), 8(2), 8(4), 9(1), 9(4), 10(1) or 10(2) of this Order;
+- (c) article 8(1) or 9(3) of this Order; or
+- (d) Article 4(1) of the Regulation,
+
+shall be guilty of an offence and may be arrested.
+
+(3) A person guilty of an offence under paragraph (2) shall be liable—
+
+- (a) on summary conviction to a fine of the prescribed sum or to imprisonment for a term not exceeding 6 months, or to both; or
+- (b) on conviction on indictment to a fine of any amount or to imprisonment for a term not exceeding 2 years, or to both.
+
+(4) Any person knowingly concerned in the transfer of software or technology, or in the attempted transfer of software or technology, with intent to evade any prohibition or restriction in—
+
+- (a) article 6, 7(1), 7(2), 7(3), 8(2), 8(4), 9(1) or 9(4) of this Order;
+- (b) article 8(1) or 9(3) of this Order; or
+- (c) Article 3(1), 4(1), 4(2), 4(3) or 21(1) of the Regulation,
+
+shall be guilty of an offence and may be arrested[^key-01772f2c71e95c74344c93c1e5d76280].
+
+(5) Any person knowingly concerned in the provision, or attempted provision, of technical assistance related to the supply, delivery, manufacture, maintenance or use of anything, with intent to evade any prohibition or restriction in article 10 of this Order shall be guilty of an offence and may be arrested.
+
+(5A)[^key-67b1d2ac48833a90808434a4985b58d4] Any person knowingly concerned in the provision of technical assistance, as defined in the 2005 Regulation, with intent to evade the prohibition on the provision of technical assistance in article 3(1) of the 2005 Regulation shall be guilty of an offence and liable to arrest.
+
+(6) A person guilty of an offence under paragraph (4), (5) or (5A)[^key-2e2e8a62c65870c6e1fe5371b79bd2d2] shall be liable—
+
+- (a) on summary conviction to a fine of the prescribed sum or to imprisonment for a term not exceeding 6 months, or to both; or
+- (b) on conviction on indictment, to a fine of any amount, or to imprisonment for a term not exceeding 10 years, or to both.
+
+(7) Any person who fails to comply with the requirement in Article 4(4) of the Regulation shall be guilty of an offence and liable—
+
+- (a) on summary conviction to a fine of the prescribed sum;
+- (b) on conviction on indictment to a fine of any amount or to imprisonment for a term not exceeding two years, or to both.
+
+(8) Any person who fails to comply with Article 21(5) or (7) of the Regulation shall be guilty of an offence and liable to a fine not exceeding level 3 on the standard scale.
+
+(9) Any person who fails to comply with Article 9(1) of the Regulation shall be guilty of an offence and liable to a fine not exceeding level 3 on the standard scale and any licence or Community Licence or permission which may have been granted by the Secretary of State, or any competent authority in connection with the application shall be void as from the time it was granted.
+
+### 17. Misleading applications for licences
+
+(1) Where for the purpose of obtaining any licence or Community Licence or permission under this Order any person either—
+
+- (a) makes any statement or furnishes any document or information which to his knowledge is false in a material particular; or
+- (b) recklessly makes any statement or furnishes any document or information which is false in a material particular,
+
+he shall be guilty of an offence.
+
+(2) A person guilty of an offence under paragraph (1) shall be liable—
+
+- (a) on summary conviction to a fine of the prescribed sum; or
+- (b) on conviction on indictment, to a fine of any amount, or to imprisonment for a term not exceeding 2 years, or to both,
+
+and any licence, Community Licence or permission which may have been granted by the Secretary of State or any competent authority in connection with the application for which the false statement was made or the false document or information was furnished, shall be void as from the time it was granted.
+
+### 18. Failure to comply with licence conditions
+
+(1) Subject to the provisions of paragraph (3), any person who—
+
+- (a) has done any act under the authority of—
+  - (i) a licence granted by the Secretary of State under this Order;
+  - (ii) the Community General Export Authorisation;
+  - (iii) a Community Licence granted by the Secretary of State under this Order; or
+  - (iv) a Community Licence sought by or on behalf of a person in or established in the United Kingdom; and
+- (b) fails to comply with—
+  - (i) any conditions attaching to that licence, Community Licence or applying on the use of the Community General Export Authorisation;
+  - (ii) any obligation under article 13; or
+  - (iii) any obligation under article 14,
+
+shall be guilty of an offence.
+
+(2) A person guilty of an offence under paragraph (1) shall be liable—
+
+- (a) on summary conviction to a fine of the prescribed sum; and
+- (b) on conviction on indictment, to a fine of any amount, or to imprisonment for a term not exceeding 2 years, or to both.
+
+(3) No person shall be guilty of an offence under paragraph (1) where—
+
+- (a) as the case may be—
+  - (i) in the case of a licence the condition in question had been previously modified by the Secretary of State; or
+  - (ii) in the case of a Community Licence the condition in question had been previously modified by the Secretary of State or other competent authority which granted that Community Licence; or
+  - (iii) in the case of the Community General Export Authorisation the condition in question had been previously modified; and
+- (b) the alleged failure to comply would not have been a failure had the licence, Community Licence or Community General Export Authorisation not been so modified; and
+- (c) the condition with which he failed to comply was modified, by the competent authority that granted the licence, Community Licence or Community General Export Authorisation after the doing of the act authorised by the licence, Community Licence or Community General Export Authorisation.
+
+### 19. Customs powers to require evidence of destination
+
+(1) Any person who exports, or ships any controlled good, shall, if so required by the Commissioners, provide within such time as the Commissioners may determine evidence of the destination to which the goods were delivered and, if he fails to do so, he shall be guilty of an offence.
+
+(2) Any person guilty of an offence under paragraph (1) shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+### 20. Customs powers
+
+(1) Goods in relation to which a Community Licence has not been granted and which are brought to any place in the United Kingdom for the purpose of being exported, may be detained by the proper officer of Customs and Excise as if they were liable to forfeiture, if and so long as that officer has reason to believe that a competent authority (after, if necessary, having had the impending exportation brought to its attention) might inform the exporter as provided in Article 4(1), (2) or (3) of the Regulation or article 5 of this Order.
+
+(2) Any goods, listed in Annex I to the Regulation in relation to which a Community Licence has been granted which are brought to any place in the United Kingdom for the purpose of being exported to a destination outside the European Community may be detained by the proper officer of Customs and Excise for a period of ten working days as if they were liable to forfeiture where that officer or the Secretary of State has grounds for suspicion that—
+
+- (a) relevant information was not taken into account when the Community Licence was granted; or
+- (b) circumstances have materially changed since the issue of the Community Licence, provided that the period shall be extended to 30 working days where the Secretary of State certifies that a request for such an extension in accordance with Article 12(4) of the Regulation has been received from the Member State which granted the Community Licence.
+
+### 21. Application of the Customs and Excise Management Act 1979
+
+(1) It shall be the duty of the Commissioners to take such action as they consider appropriate to secure the enforcement of the provisions of this Order described in paragraph (3).
+
+(2) It shall be the duty of the Commissioners to take such action as they consider appropriate to secure the enforcement of the Regulation in respect of the export of dual-use goods, software and technology and the[^key-93204fada6fe4a08c074817a095f6263] 2005 Regulation in respect of the export of goods, and the provision of technical assistance as defined in the 2005 Regulation.
+
+(3) The provisions referred to in (1) are articles 3, 4, 5, 6, 7, 8, 9, 10, 17, 18 and 19 but excluding articles 8(1) and 9(3). Article 14 of this Order shall be enforced only insofar as the obligation relates to the powers of the Commissioners.
+
+(4) Sections 145 to 148 and 150 to 152(b) and 153 to 155 of the Customs and Excise Management Act 1979 (proceedings for offences, mitigation of penalties, proof and other matters) apply in relation to offences and penalties created under this Order and proceedings for such offences as they apply in relation to offences and penalties and proceedings for offences under the customs and excise Acts.
+
+(5) For the purposes of this Order, offences other than those in respect of which a duty is imposed upon the Commissioners by virtue of paragraph (3) shall not be offences under the customs and excise Acts for the purposes of section 145 of the Customs and Excise Management Act 1979.
+
+(6)[^key-62cdd56eda1638b1a4726467564870be] In the case of any person who is guilty of any offence related to any prohibition or restriction in articles 3, 4 or 5 of this Order, Article 3(1), 4(1), (2), (3) or 21(1) of the Regulation, or Article 3(1) or 5(1) of the 2005 Regulation, sections 68(3)(b) and 170(3)(b) of the Customs and Excise Management Act 1979 shall have effect as if for the words “7 years” there shall be substituted “10 years”.
+
+(7) Paragraph 6 does not apply in respect of prohibitions or restrictions on the exportation of firearms falling within section 5 of the Firearms Act 1968.
+
+(8)[^key-35f6d0c6b2bde2413f4a9b6647a517fb] Section 138 of the Customs and Excise Management Act 1979 (provision as to arrest of persons) shall apply to any person who has committed, or in respect of whom there are reasonable grounds to suspect of having committed, an offence for which he is liable to be arrested under article 16(4), (5) or (5A)[^key-b488977b46362abc32ba2af678f75432] of this Order as that section applies to the arrest of any person for offences for which he is liable to be arrested under the customs and excise Acts.
+
+(9)[^key-30f6a7864a41b46841afe4c454907a58] Section 77A of the Customs and Excise Management Act 1979 (provision as to information powers) shall apply to any person concerned in an activity requiring—
+
+- (a) a licence under this Order for the transfer of software or technology or the provision of technical assistance [^key-21f09592e0f21e5a89eb72ad03d236bf]...; or
+- (b) an authorisation required by Article 3(1) of the 2005 Regulation in respect of technical assistance, as defined in that Regulation;
+
+as it applies to any person who is concerned in the exportation of goods for which an entry is required by or under that Act and accordingly references in section 77A of the Customs and Excise Management Act to goods shall, as the context requires, be read as including software, technology and technical assistance, and references to exportation shall as the context requires, be read as including the transfer of technology or software or the provision of technical assistance.
+
+### 22. Use and disclosure of information
+
+(1) This article applies to information which is held by—
+
+- (a) the Secretary of State, or
+- (b) the Commissioners,
+
+in connection with the operation of controls imposed by this Order or by any directly applicable Community provision on the exportation of goods, the transfer of technology or participation in the provision of services connected with the development, production or use of goods or technology.
+
+(2) Information to which this article applies may be used for the purposes of, or for any purposes connected with—
+
+- (a) the exercise of functions in relation to any control imposed by this Order or by any other order made under the Act;
+- (b) giving effect to any European Community or other international obligation of the United Kingdom;
+- (c) facilitating the exercise by an authority or international organisation outside the United Kingdom of functions which correspond to functions conferred by or in connection with any activity subject to control by this Order or any other order made under the Act; and
+
+may be disclosed to any person for use for these purposes.
+
+(3) No disclosure of information shall be made by virtue of this article unless the making of the disclosure is proportionate to the object of the disclosure.
+
+(4) For the purposes of this article “information” is any information that relates to a particular business or other activity carried on by a person.
+
+(5) Nothing in this article shall be taken to affect any power to disclose information that exists apart from this article.
+
+(6) The information that may be disclosed by virtue of this article includes information obtained before the commencement of this Order.
+
+### 23. Service of notices
+
+Any notice to be given to the Secretary of State by a person under this Order may be given by an agent of his; and shall be sent by post or delivered to the Secretary of State at the Export Control Organisation, Department for Business, Enterprise and Regulatory Reform[^key-331986f1816d15adfb1e40665dffb99e] [^key-7fd38db999dc7a6db763a47c349b7edf]....
+
+### 24. Revocations
+
+Subject to article 25, the Regulations specified in Schedule 6 to this Order are hereby revoked.
+
+### 25. Transitional arrangements
+
+Notwithstanding the revocation of the Regulations specified in article 24—
+
+- (a) licences issued by the Secretary of State which have not ceased to have effect before 1st May 2004 shall continue to have effect until the same date as they would have had effect if those Regulations had not been revoked, and any licence shall be deemed on and after 1st May 2004 to have been made under this Order;
+- (b) the Regulations specified in article 24 shall continue to apply in relation to any export which has occurred before 1st May 2004 and to any export which takes place on or after that date in respect of which a licence has been issued before that date.
+
+Patricia Hewitt,
+
+Secretary of State for Trade and Industry
+
+## SCHEDULE 1 — PROHIBITED GOODS, SOFTWARE AND TECHNOLOGY[^key-9f76d9315cb436d386e9f18878f7ceb2]
+
+Articles 3 and 6
+
+*Note: In this Schedule, defined terms are printed in quotation marks.*
+
+### Definitions
+
+In this Schedule:
+
+- “adapted for use in war” means any modification or selection (eg, altering purity, shelf life, virulence, dissemination characteristics, or resistance to ultra violet (UV) radiation) designed to increase the effectiveness in producing casualties in humans or animals, degrading equipment or damaging crops or the environment;
+- “basic scientific research” means experimental or theoretical work undertaken principally to acquire new knowledge of the fundamental principles of phenomena or observable facts, not primarily directed towards a specific practical aim or objective;
+- “biocatalyst” means enzymes for specific chemical or biochemical reactions and other biological compounds which bind to and accelerate the degradation of chemical warfare (CW) agents;
+- “biopolymer” means the following biological macromolecules:
+  - a. enzymes for specific chemical or biochemical reactions;
+  - b. ‘monoclonal antibodies’, ‘polyclonal antibodies’ or ‘anti-idiotypic antibodies’;
+  - c. specially designed or specially processed ‘receptors’;
+  - *Technical Note:*
+  - *‘Monoclonal antibodies’ means proteins which bind to a specific antigenic site and are produced by a single clone of cells;*
+  - *‘Polyclonal antibodies’ means a mixture of proteins which bind to a specific antigen and are produced by more than one clone of cells;*
+  - *‘Anti-idiotypic antibodies’ means antibodies which bind to the specific antigen binding sites of other antibodies;*
+  - *‘Receptors’ means biological macromolecular structures capable of binding ligands, the binding of which affects physiological functions.*
+- “development” means all stages prior to “production” (eg, design, design research, design analyses, design concepts, assembly and testing of prototypes, pilot production schemes, design data, process of transforming design data into “goods” or “software”, configuration design, integration design, layouts);
+- “end-effectors” means grippers, active tooling units (ie, devices for applying motive power, process energy or sensing to the workpiece) and any other tooling that is attached to the baseplate on the end of a “robot” manipulator arm;
+- “energetic materials” means substances or mixtures that react chemically to release energy required for their intended application; “explosives”, “pyrotechnics” and “propellants” are sub-classes of energetic materials;
+- “explosive signatures” are features which are characteristic of explosives in any form prior to their initiation, as detected using technology including, but not limited to, ion mobility spectrometry, chemiluminescence, fluorescence, nuclear, acoustic or electromagnetic techniques;
+- “explosives” means solid, liquid or gaseous substances or mixtures of substances which, in their application as primary, booster, or main charges in warheads, demolition and other applications, are required to detonate;
+- “expression vectors” means carriers (eg, plasmid or virus) used to introduce genetic material into host cells;
+- “first generation image intensifier tubes” mean electrostatically focused tubes, employing input and output fibre optic or glass face plates, multi-alkali photocathodes (S-20 or S-25), but not microchannel plate amplifiers;
+- “improvised explosive devices” means devices fabricated or intended to be placed in an improvised manner incorporating destructive, lethal, noxious, “pyrotechnic” or incendiary chemicals designed to destroy, disfigure or harass; they may incorporate military stores, but are normally devised from non-military components;
+- “laser” means an assembly of components which produce both spatially and temporally coherent light which is amplified by stimulated emission of radiation;
+- “lighter-than-air vehicles” means balloons and airships that rely on hot air or on lighter-than-air gases such as helium or hydrogen for their lift;
+- “nuclear reactor” means the “goods” within or attached directly to the reactor vessel, the equipment which controls the level of power in the core, and the components which normally contain, come into direct contact with or control the primary coolant of the reactor core;
+- “production” means all production stages (eg, product engineering, manufacture, integration, assembly (mounting), inspection, testing, quality assurance);
+- “propellants” means substances or mixtures that react chemically to produce large volumes of hot gases at controlled rates to perform mechanical work;
+- “pyrotechnic(s)” means mixtures of solid or liquid fuels and oxidisers which, when ignited, undergo an energetic chemical reaction at a controlled rate intended to produce specific time delays, or quantities of heat, noise, smoke, visible light or infrared radiation; pyrophorics are a subclass of pyrotechnics, which contain no oxidisers but ignite spontaneously on contact with air;
+- “required” as applied to “technology”, refers to only that portion of “technology” which is peculiarly responsible for achieving or exceeding the controlled performance levels, characteristics or functions. Such “required” “technology” may be shared by different “goods”;
+- “riot control agents” means substances which under the expected conditions of use for riot control purposes, produce rapidly in humans sensory irritation or disabling physical effects which disappear within a short time following termination of exposure;
+  - *Technical Note:*
+  - *Tear gases are a subset of “riot control agents”.*
+- “robot” means a manipulation mechanism, which may be of the continuous path or of the point-to-point variety, may use sensors, and which:
+  - a. is multifunctional;
+  - b. is capable of positioning or orienting material, parts, tools or special devices through variable movements in three dimensional space;
+  - c. incorporates three or more closed or open loop servo-devices which may include stepping motors; and
+  - d. has “user-accessible programmability” by means of the teach/playback method or by means of an electronic computer which may be a programmable logic controller, ie, without mechanical intervention;
+
+  *Note: This definition does not include:*
+
+  - a. *Manipulation mechanisms which are only manually/teleoperator controllable;*
+  - b. *Fixed sequence manipulation mechanisms, which are automated moving devices, operating according to “programmes” where the motions are limited by fixed stops, such as pins or cams and the sequence of motions and the selection of paths or angles are not variable or changeable by mechanical, electronic or electrical means;*
+  - c. *Mechanically controlled variable sequence manipulation mechanisms, which are automated moving devices, operating according to “programmes” where the motions are limited by fixed, but adjustable stops, such as pins or cams and the sequence of motions and the selection of paths or angles are variable within the fixed programme pattern; variations or modifications of the programme pattern (such as changes of pins or exchanges of cams) in one or more motion axes are accomplished only through mechanical operations;*
+  - d. *Non-servo-controlled variable sequence manipulation mechanisms, which are automated moving devices, operating according to mechanically fixed programmed motions; the “programme” is variable but the sequence proceeds only by the binary signal from mechanically fixed electrical binary devices or adjustable stops;*
+  - e. *Stacker cranes defined as Cartesian coordinate manipulator systems manufactured as an integral part of a vertical array of storage bins and designed to access the contents of those bins for storage or retrieval.*
+- “special gun-mounting” means any fixture designed to mount a gun;
+- “superconductive” in relation to materials (eg, metals, alloys or compounds) means those which can lose all electrical resistance (ie, which can attain infinite electrical conductivity and carry very large electrical currents without Joule heating); the superconductive state of a material is individually characterised by a ‘critical temperature’, a critical magnetic field, which is a function of temperature, and a critical current density which is a function of both magnetic field and temperature;
+  - *Technical Note:*
+  - *‘Critical temperature’ (also known as the transition temperature) of a specific “superconductive” material means the temperature at which the specific material loses all resistance to the flow of direct electrical current.*
+- “technology” means specific ‘information’ necessary for the “development”, “production” or “use” of “goods” or “software”;
+  - *Technical Note:*
+  - *‘Information’ may take forms including, but not limited to: blueprints, plans, diagrams, models, formulae, tables, ‘source code’, engineering designs and specifications, manuals and instructions written or recorded on other media or devices (eg, disk, tape, read-only memories);*
+  - *‘source code’ (or source language) is a convenient expression of one or more processes which may be turned by a programming system into equipment executable form.*
+- “use” means operation, installation (eg, on-site installation), maintenance, checking, repair, overhaul and refurbishing;
+- “user-accessible programmability” means the facility allowing a user to insert, modify or replace “programmes” by means other than:
+  - a. A physical change in writing or interconnections; or
+  - b. The setting of function controls including entry of parameters.
+
+### PART I — MILITARY, SECURITY AND PARA-MILITARY GOODS, SOFTWARE AND TECHNOLOGY AND ARMS, AMMUNITION AND RELATED MATERIEL
+
+|  |  |
+| --- | --- |
+| **ML1** | Smooth-bore weapons with a calibre of less than 20 mm, other firearms and automatic weapons with a calibre of 12.7 mm (calibre 0.50 inches) or less and accessories, as follows, and specially designed components therefor:<br>- a. Rifles, carbines, revolvers, pistols, machine pistols and machine guns;<br>- b. Smooth-bore weapons;<br>- c. Weapons using caseless ammunition;<br>- d. Silencers, “special gun-mountings”, weapon sights, clips and flash suppressers for firearms specified in ML1.a., ML1.b. or ML1.c.<br>*Note: ML1 does not control:*<br>- a. *Air weapons (other than those declared by the Firearms (Dangerous Air Weapons) Rules 1969 to be specially dangerous);*<br>- b. *Firearms specially designed for dummy ammunition and which are incapable of firing any ammunition in this Part of this Schedule;*<br>- c. *Firearms certified by a registered UK Proof House as having been rendered incapable of firing any ammunition in this Part of this Schedule;*<br>- d. *Bayonets;*<br>- e. *Air (pneumatic) or cartridge (explosive) powered guns or pistols designed as:*<br>  - 1. *Industrial tools; or*<br>  - 2. *Humane stunning devices employed specifically for animal slaughter;*<br>- f. *Signal pistols*<br>- g. *Optical weapon sights without electronic image processing (ie, using only lenses to view the target)[^key-f6f9a42f129a82eea87a1e34a9cf963d], with a magnification of 4 times or less, provided they are not specially designed or modified for military use.* |
+| **ML2** | Smooth-bore weapons with a calibre of 20 mm or more, other armament or weapons with a calibre greater than 12.7 mm (calibre 0.50 inches), projectors and accessories, as follows, and specially designed components therefor:<br>- a. Guns, howitzers, cannon, mortars, anti-tank weapons, projectile launchers, military flame throwers, rifles, recoilless rifles, smooth-bore weapons and signature reduction devices therefor;<br>- b. Military smoke, gas and “pyrotechnic” projectors or generators;<br>- c. Weapons sights for firearms specified in ML2.a. or ML2.b.<br>*Note 1[^key-fc1d1445154fa88f69998eb8ac0bf72f]: ML2 does not control signal pistols.*<br>*Note 2: ML2.a. does not apply to hand-held projectile launchers specially designed to launch tethered projectiles, having no high explosive charge or communications link, to a range of 500m or less.[^key-1e23648a85aa5cc6a8042a61d36c5f02]* |
+| **ML3** | Ammunition and fuze setting devices, as follows, and specially designed components therefor:<br>- a. Ammunition for weapons specified in ML1, ML2 or ML12;<br><br>  *Note: ML3.a. does not control:*<br><br>  - a. *Ammunition crimped without a projectile (blank star) and dummy ammunition with a pierced powder chamber;*<br>  - b. *Lead or lead alloy pellet ammunition specially designed for air weapons;*<br>  - c. *Cartridges specially designed for signalling, bird scaring or lighting of gas flares at oil wells.*<br>- b. Fuze setting devices specially designed for ammunition specified in ML3.a. |
+| **ML4** | Bombs, torpedoes, rockets, missiles, other explosive devices and charges, and related equipment and accessories, as follows, and specially designed components therefor:<br>*N.B. 1: Electronic guidance and navigation equipment is controlled in ML11.a.*<br>*N.B. 2: Aircraft missile protection systems are controlled in ML4.c.*<br>- a. Bombs, torpedoes, grenades, smoke canisters, rockets, mines, missiles, depth charges, demolition-charges, demolition-devices, demolition-kits, devices that contain “pyrotechnics”, cartridges and simulators (ie, equipment simulating the characteristics of any of these “goods”), specially designed for military use;<br>- b. Equipment that is both specially designed for military use and specially designed for the handling, controlling, activating, powering with one-time operational output, launching, laying, sweeping, discharging, decoying, jamming, detonating, disrupting or detecting of any of the following:<br>  - 1. “goods” specified in ML4.a.; or<br>  - 2. “improvised explosive devices”;<br><br>    *Note: ML4.b. does not control hand held devices limited by design solely to the detection of metal objects and incapable of distinguishing between mines and other metal objects.*<br>- c. Aircraft missile protection systems (AMPS). |
+| **ML5** | Fire control equipment and related alerting and warning equipment, related systems, test and alignment and countermeasure equipment, as follows, specially designed for military use, and specially designed components and accessories therefor:<br>- a. Weapon sights, bombing computers, gun laying equipment and weapon control systems;<br>- b. Target acquisition, designation, range-finding, surveillance or tracking systems; detection, data fusion, recognition or identification equipment; and sensor integration equipment;<br>- c. Countermeasure equipment for “goods” specified in ML5.a. or ML5.b.;<br>- d. Field test or alignment equipment, specially designed for “goods” specified in ML5.a. or ML5.b. |
+| **ML6** | Ground “vehicles” and components as follows:<br>*N.B.: Electronic guidance and navigation equipment is controlled in ML11.a.*<br>- a. Ground “vehicles” and components therefor, specially designed or modified for military use;<br><br>  *Technical Note:*<br><br>  *For the purposes of ML6.a. the term ground “vehicles” includes trailers.*<br><br>  *Note: In ML6.a. modification of a ground “vehicle” for military use entails a structural, electrical or mechanical change involving one or more specially designed military components.*<br>- b. All-wheel drive “vehicles” capable of off-road use which have been manufactured or fitted with metallic or non-metallic materials to provide ballistic protection, other than those specified in ML6.a.<br><br>  *Note 1: ML6.b. does not control “vehicles” designed or fitted out for the transportation of valuables or funds.*<br><br>  *Note 2: ML6.b. does not control “vehicles” fitted with, or designed or modified to be fitted with, a plough, flail or tiller for the purpose of land mine clearance.* |
+| **PL5035[^key-11f12d2ac163a257801340a5040b8cb6]** | Components that are both specially designed to provide ballistic protection and specially designed or modified for “vehicles” specified in ML6.b.<br>*N.B.: See also ML13.a. for armoured plate.* |
+| **ML7** | Chemical or biological toxic agents, toxic chemicals and mixtures containing such agents or chemicals, “riot control agents”, radioactive materials, related equipment, components and materials as follows:<br>*Note[^key-1d5c3827bf51b4d9043d3724f6e4a452]: Chemicals are listed by name and Chemical Abstract Service (CAS) number. Chemicals of the same structural formula (eg, hydrates) are controlled regardless of name or CAS number. CAS numbers are shown to assist in identifying whether a particular chemical or mixture is controlled, irrespective of nomenclature. CAS numbers cannot be used as unique identifiers because some forms of the listed chemical have different CAS numbers, and mixtures containing a listed chemical may also have different CAS numbers.*<br>- a. Biological agents and radioactive materials “adapted for use in war” to produce casualties in humans or animals, degrade equipment or damage crops or the environment;<br>- b. Chemical warfare (CW) agents including, but not limited to, the following:<br>  - 1. CW nerve agents:<br>    - a. O-Alkyl (equal to or less than C<sub>10</sub>:, including cycloalkyl) alkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-phosphonofluoridates, such as:<br><br>      Sarin (GB):O-Isopropyl methylphosphonofluoridate (CAS 107-44-8);<br><br>      and<br><br>      Soman (GD):O-Pinacolyl methylphosphonofluoridate (CAS 96-64-0);<br>    - b. O-Alkyl (equal to or less than C10, including cycloalkyl) N,N-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphoramidocyanidates, such as:<br><br>      Tabun (GA):O-Ethyl N,N-dimethylphosphoramidocyanidate (CAS 77-81-6);<br>    - c. O-Alkyl (H or equal to or less than C10, including cycloalkyl) S-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonothiolates and corresponding alkylated and protonated salts, such as:<br><br>      VX: O-Ethyl S-2-diisopropylaminoethyl methyl phosphonothiolate (CAS 50782-69-9);<br>  - 2. CW vesicant agents:<br>    - a. Sulphur mustards, such as:<br>      - 1. 2-Chloroethylchloromethylsulphide (CAS 2625-76-5);<br>      - 2. Bis(2-chloroethyl) sulphide (CAS 505-60-2);<br>      - 3. Bis(2-chloroethylthio) methane (CAS 63869-13-6);<br>      - 4. 1,2-bis (2-chloroethylthio) ethane (CAS 3563-36-8);<br>      - 5. 1,3-bis (2-chloroethylthio)-n-propane (CAS 63905-10-2);<br>      - 6. 1,4-bis (2-chloroethylthio)-n-butane (CAS 142868-93-7);<br>      - 7. 1,5-bis (2-chloroethylthio)-n-pentane (CAS 142868-94-8);<br>      - 8. Bis (2-chloroethylthiomethyl) ether (CAS 63918-90-1);<br>      - 9. Bis (2-chloroethylthioethyl) ether (CAS 63918-89-8);<br>    - b. Lewisites, such as:<br>      - 1. 2-chlorovinyldichloroarsine (CAS 541-25-3);<br>      - 2. Tris (2-chlorovinyl) arsine (CAS 40334-70-1);<br>      - 3. Bis (2-chlorovinyl) chloroarsine (CAS 40334-69-8);<br>    - c. Nitrogen mustards, such as:<br>      - 1. HN1: bis (2-chloroethyl) ethylamine (CAS 538-07-8);<br>      - 2. HN2: bis (2-chloroethyl) methylamine (CAS 51-75-2);<br>      - 3. HN3: tris (2-chloroethyl) amine (CAS 555-77-1);<br>  - 3. CW incapacitating agents, such as:<br>    - a. 3-Quinuclidinyl benzilate (BZ) (CAS 6581-06-2);<br>  - 4. CW defoliants, such as:<br>    - a. Butyl 2-chloro-4-fluorophenoxyacetate (LNF);<br>    - b. 2,4,5-trichlorophenoxyacetic acid mixed with 2,4-dichlorophenoxyacetic acid (Agent Orange);<br>- c. CW binary precursors and key precursors, as follows, and chemical mixtures containing one or more of these precursors:<br>  - 1. Alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) Phosphonyl Difluorides, such as:<br><br>    DF: Methyl Phosphonyldifluoride (CAS 676-99-3);<br>  - 2. O-Alkyl (H or equal to or less than C10, including cycloalkyl) O-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl) aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonite and corresponding alkylated and protonated salts, such as:<br><br>    QL: O-Ethyl-2-di-isopropylaminoethyl methylphosphonite (CAS 57856-11-8);<br>  - 3. Chlorosarin: O-Isopropyl methylphosphonochloridate (CAS 1445-76-7);<br>  - 4. Chlorosoman: O-Pinacolyl methylphosphonochloridate (CAS 7040-57-5);<br>- d. “Riot control agents”, active constituent chemicals and combinations thereof including:<br>  - 1. α-Bromobenzeneacetonitrile, (Bromobenzyl cyanide) (CA) (CAS 5798-79-8);<br>  - 2. \[(2-chlorophenyl) methylene\] propanedinitrile, (o-Chlorobenzylidenemalononitrile) (CS) (CAS 2698-41-1);<br>  - 3. 2-Chloro-1-phenylethanone, Phenylacyl chloride (w-chloroacetophenone) (CN) (CAS 532-27-4);<br>  - 4. Dibenz-(b,f)-1,4-oxazephine (CR) (CAS 257-07-8);<br>  - 5. 10-Chloro-5,10-dihydrophenarsazine, (Phenarsazine chloride), (Adamsite), (DM) (CAS 578-94-9);<br>  - 6. N-Nonanoylmorpholine, (MPA) (CAS 5299-64-9);<br><br>  *Note 1: ML7.d. does not control “riot control agents” individually packaged for personal self-defence purposes.*<br><br>  *Note 2: ML7.d. does not control active constituent chemicals and combinations thereof identified and packaged for food production or medical purposes.*<br>- e. Equipment specially designed or modified for military use , designed or modified[^key-999e640066e05373681fbc3973598004] for the dissemination of any of the following, and specially designed components therefor:<br>  - 1. Materials or agents specified in ML7.a., ML7.b. or ML7.d.;<br>  - 2. CW agents made up of precursors specified in ML7.c.;<br>- f. Protective and decontamination “goods”, specially designed or modified for military use, components and chemical mixtures as follows:[^key-b00d6425915c508726d9050565f8d779]<br>  - 1. “Goods” [^key-5a2dac3be45e48f88cb42ddb29befd8f]... designed or modified for defence against materials specified in ML7.a., ML7.b. or ML7.d. and specially designed components therefor;<br><br>    *N.B.: See also 1A of Annex I to* “*the Regulation*”.<br>  - 2. “Goods” [^key-5a2dac3be45e48f88cb42ddb29befd8f]... designed or modified for decontamination of “goods” contaminated with materials specified in ML7.a. or ML7.b. and specially designed components therefor;<br>  - 3. Chemical mixtures specially developed or formulated for the decontamination of “goods” contaminated with materials specified in ML7.a. or ML7.b.;<br>- g. “Goods” specially designed or modified for military use, designed or modified[^key-ed709b26390e8cf5f6af377b4f2a2382] for the detection or identification of materials specified in ML7.a., ML7.b. or ML7.d. and specially designed components therefor;<br><br>  *N.B.: See also 1A in Annex I to “the Regulation”.[^key-7a637edfadc03b05f6e8ce6a77f34279]*<br><br>  *Note: ML7.g. does not control personal radiation monitoring dosimeters.*<br>- h. “Biopolymers” specially designed or processed for the detection or identification of CW agents specified in ML7.b., and the cultures of specific cells used to produce them;<br>- i. “Biocatalysts” for the decontamination or degradation of CW agents, and biological systems therefor, as follows:<br>  - 1. “Biocatalysts” specially designed for the decontamination or degradation of CW agents specified in ML7.b. resulting from directed laboratory selection or genetic manipulation of biological systems;<br>  - 2. Biological systems as follows: “expression vectors”, viruses or cultures of cells containing the genetic information specific to the “production” of “biocatalysts” specified in ML7.i.1.<br>*Note 1: ML7.b. and ML7.d. do not control:*<br>- a. *Cyanogen chloride (CAS 506-77-4);*<br><br>  *N.B.: See 1C of Annex I to “the Regulation”.*<br>- b. *Hydrocyanic acid (CAS 74-90-8);*<br>- c. *Chlorine (CAS 7782-50-5);*<br>- d. *Carbonyl chloride (phosgene) (CAS 75-44-5);*<br><br>  *N.B.: See 1C of Annex I to “the Regulation”.*<br>- e. *Diphosgene (trichloromethyl-1-chloroformate) (CAS 503-38-8);*<br>- f. *Not used;*<br>- g. *Xylyl bromide: ortho: (CAS 89-92-9), meta: (CAS 620-13-3), para: (CAS 104-81-4);*<br>- h. *Benzyl bromide (CAS 100-39-01);*<br>- i. *Benzyl iodide (CAS 620-05-3);*<br>- j. *Bromo acetone (CAS 598-31-2);*<br>- k. *Cyanogen bromide (CAS 506-68-3);*<br>- l. *Bromo methylethylketone (CAS 816-40-0);*<br>- m. *Chloro acetone (CAS 78-95-5);*<br>- n. *Ethyl iodoacetate (CAS 623-48-3);*<br>- o. *Iodo acetone (CAS 3019-04-3);*<br>- p. *Chloropicrin (CAS 76-06-2);*<br><br>  *N.B.: See 1C of Annex I to “the Regulation”.*<br>- q. *Pelargonic acid vanillylamide (PAVA) (CAS 2444-46-4);*<br><br>  *N.B.: See 3.2. of Annex III to “the 2005 Regulation”.*<br>- r. *Oleoresin capsicum (OC) (CAS 8023-77-6).*<br><br>  *N.B.: See 3.3. of Annex III to “the 2005 Regulation”.*<br>*Note 2: The cultures of cells and biological systems specified in ML7.h. and ML7.i.2. are exclusive and ML7.h. and ML7.i.2 do not include cells or biological systems for civil purposes, (eg, agricultural, pharmaceutical, medical, veterinary, environmental, waste management, or in the food industry).* |
+| **ML8** | “Energetic materials”, and related substances, as follows:<br>*Note[^key-111e97dd6e033db5b43441f27145c438]: Chemicals are listed by name and Chemical Abstract Service (CAS) number. Chemicals of the same structural formula (eg, hydrates) are controlled regardless of name or CAS number. CAS numbers are shown to assist in identifying whether a particular chemical or mixture is controlled, irrespective of nomenclature. CAS numbers cannot be used as unique identifiers because some forms of the listed chemical have different CAS numbers, and mixtures containing a listed chemical may also have different CAS numbers.*<br>*Technical Note:*<br>*A ‘mixture’ refers to a composition of two or more substances with at least one substance being controlled in ML8.*<br>- a. “Explosives”, as follows, and ‘mixtures’ thereof:<br>  - 1. ADNBF (aminodinitrobenzofuroxan or 7-amino-4,6-dinitrobenzofurazane-1-oxide) (CAS 97096-78-1);<br>  - 2. BNCP (cis-bis (5-nitrotetrazolato) tetra amine-cobalt (III) perchlorate) (CAS 117412-28-9);<br>  - 3. CL-14 (diamino dinitrobenzofuroxan or 5,7-diamino-4,6- dinitrobenzofurazane-1-oxide) (CAS 117907-74-1);<br>  - 4. CL-20 (HNIW or Hexanitrohexaazaisowurtzitane) (CAS 135285-90-4); chlathrates of CL-20;<br>  - 5. CP (2-(5-cyanotetrazolato) penta amine-cobalt (III) perchlorate) (CAS 70247-32-4);<br>  - 6. DADE (1,1-diamino-2,2-dinitroethylene, FOX7);<br>  - 7. DA TB (diaminotrinitrobenzene) (CAS 1630-08-6);<br>  - 8. DDFP (1,4-dinitrodifurazanopiperazine);<br>  - 9. DDPO (2,6-diamino-3,5-dinitropyrazine-1-oxide, PZO) (CAS 194486-77-6);<br>  - 10. DIPAM (3,3'-diamino-2,2',4,4',6,6'-hexanitrobiphenyl or dipicramide) (CAS 17215-44-0);<br>  - 11. DNGU (DINGU or dinitroglycoluril) (CAS 55510-04-8);<br>  - 12. Furazans as follows:<br>    - a. DAAOF (diaminoazoxyfurazan);<br>    - b. DAAzF (diaminoazofurazan) (CAS 78644-90-3);<br>  - 13. HMX and derivatives as follows:<br>    - a. HMX (Cyclotetramethylenetetranitramine, octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazine, 1,3,5,7-tetranitro-1,3,5,7-tetraza-cyclooctane, octogen or octogene) (CAS 2691-41-0);<br>    - b. difluoroaminated analogs of HMX;<br>    - c. K-55 (2,4,6,8-tetranitro-2,4,6,8-tetraazabicyclo-\[3,3,0\]-octanone-3, tetranitrosemiglycouril or keto-bicyclic HMX) (CAS 130256-72- 3);<br>  - 14. HNAD (hexanitroadamantane) (CAS 143850-71-9);<br>  - 15. HNS (hexanitrostilbene) (CAS 20062-22-0);<br>  - 16. Imidazoles as follows:<br>    - a. BNNII (Octahydro-2,5-bis(nitroimino)imidazo \[4,5-d\]imidazole);<br>    - b. DNI (2,4-dinitroimidazole) (CAS 5213-49-0);<br>    - c. FDIA (1-fluoro-2,4-dinitroimidazole);<br>    - d. NTDNIA (N-(2-nitrotriazolo)-2,4-dinitroimidazole);<br>    - e. PTIA (1-picryl-2,4,5-trinitroimidazole);<br>  - 17. NTNMH (1-(2-nitrotriazolo)-2-dinitromethylene hydrazine);<br>  - 18. NTO (ONTA or 3-nitro-1,2,4-triazol-5-one) (CAS 932-64-9);<br>  - 19. Polynitrocubanes with more than four nitro groups;<br>  - 20. PYX (2,6-bis(picrylamino)-3,5-dinitropyridine) (CAS 38082-89-2);<br>  - 21. RDX and derivatives as follows:<br>    - a. RDX (cyclotrimethylenetrinitramine, cyclonite, T4, hexahydro-1,3,5-trinitro-1,3,5-triazine, 1,3,5-trinitro-1,3,5-triaza-cyclohexane, hexogen or hexogene) (CAS 121-82-4);<br>    - b. Keto-RDX (K-6 or 2,4,6-trinitro-2,4,6-triazacyclohexanone) (CAS 115029-35-1);<br>  - 22. TAGN (triaminoguanidinenitrate) (CAS 4000-16-2);<br>  - 23. TA TB (triaminotrinitrobenzene) (CAS 3058-38-6);<br>  - 24. TEDDZ (3,3,7,7-tetrabis(difluoroamine) octahydro-1,5-dinitro-1,5-diazocine);<br>  - 25. Tetrazoles as follows:<br>    - a. NTAT (nitrotriazol aminotetrazole);<br>    - b. NTNT (1-N-(2-nitrotriazolo)-4-nitrotetrazole);<br>  - 26. Tetryl (trinitrophenylmethylnitramine) (CAS 479-45-8);<br>  - 27. TNAD (1,4,5,8-tetranitro-1,4,5,8-tetraazadecalin) (CAS 135877-16-6);<br>  - 28. TNAZ (1,3,3-trinitroazetidine) (CAS 97645-24-4);<br>  - 29. TNGU (SORGUYL or tetranitroglycoluril) (CAS 55510-03-7);<br>  - 30. TNP (1,4,5,8-tetranitro-pyridazino\[4,5-d\]pyridazine) (CAS 229176-04-9);<br>  - 31. Triazines as follows:<br>    - a. DNAM (2-oxy-4,6-dinitroamino-s-triazine) (CAS 19899-80-0);<br>    - b. NNHT (2-nitroimino-5-nitro-hexahydro-1,3,5-triazine) (CAS 130400-13-4);<br>  - 32. Triazoles as follows:<br>    - a. 5-azido-2-nitrotriazole;<br>    - b. ADHTDN (4-amino-3,5-dihydrazino-1,2,4-triazole dinitramide) (CAS 1614-08-0);<br>    - c. ADNT (1-amino-3,5-dinitro-1,2,4-triazole);<br>    - d. BDNTA (\[bis-dinitrotriazole\]amine);<br>    - e. DBT (3,3'-dinitro-5,5-bi-1,2,4-triazole) (CAS 30003-46-4);<br>    - f. DNBT (dinitrobistriazole) (CAS 70890-46-9);<br>    - g. NTDNA (2-nitrotriazole-5-dinitramide) (CAS 75393-84-9);<br>    - h. NTDNT (1-N-(2-nitrotriazolo)-3,5-dinitrotriazole);<br>    - i. PDNT (1-picryl-3,5-dinitrotriazole);<br>    - j. TACOT (tetranitrobenzotriazolobenzotriazole) (CAS 25243-36-1);<br>  - 33. “Explosives” not listed elsewhere in ML8.a. having a detonation velocity exceeding 8,700 m/s at maximum density or a detonation pressure exceeding 34 GPa (340 kbar);<br>  - 34. Organic “explosives” not listed elsewhere in ML8.a. yielding detonation pressures of 25 GPa (250 kbar) or more that will remain stable at temperatures of 523 K (250°C) or higher for periods of 5 minutes or longer;<br>- b. “Propellants” as follows:<br>  - 1. Any United Nations (UN) Class 1.1 solid “propellant” with a theoretical specific impulse (under standard conditions) of more than 250 seconds for non-metallised, or more than 270 seconds for aluminised compositions;<br>  - 2. Any UN Class 1.3 solid “propellant” with a theoretical specific impulse (under standard conditions) of more than 230 seconds for non-halogenised, 250 seconds for non-metallised compositions and 266 seconds for metallised compositions;<br>  - 3. “Propellants” having a force constant of more than 1,200 kJ/kg;<br>  - 4. “Propellants” that can sustain a steady-state linear burning rate of more than 38 mm/s under standard conditions (as measured in the form of an inhibited single strand) of 6.89 MPa (68.9 bar) pressure and 294 K (21°C);<br>  - 5. Elastomer modified cast double base (EMCDB) “propellants” with extensibility at maximum stress of more than 5% at 233 K (−40°C);<br>  - 6. Any “propellant” containing substances specified in ML8.a.;<br>- c. “Pyrotechnics”, fuels and related substances, as follows, and ‘mixtures’ thereof:<br>  - 1. Aircraft fuels specially formulated for military purposes;<br><br>    *Note: Aircraft fuels in ML8.c.1. are finished “goods”, not their constituents.*<br>  - 2. Alane (aluminium hydride) (CAS 7784-21-6);<br>  - 3. Carboranes; decaborane (CAS 17702-41-9); pentaboranes (CAS 19624-22-7 and 18433-84-6) and their derivatives;<br>  - 4. Hydrazine and derivatives as follows (see also ML8.d.8. and ML8.d.9. for oxidising hydrazine derivatives):<br>    - a. Hydrazine (CAS 302-01-2) in concentrations of 70% or more;<br><br>      *Note: ML8.c.4.a. does not control hydrazine ‘mixtures’ specially formulated for corrosion control.*<br>    - b. Monomethyl hydrazine (CAS 60-34-4);<br>    - c. Symmetrical dimethyl hydrazine (CAS 540-73-8);<br>    - d. Unsymmetrical dimethyl hydrazine (CAS 57-14-7);<br>  - 5. Metal fuels in particle form whether spherical, atomised, spheroidal, flaked or ground, manufactured from material consisting of 99% or more of any of the following:<br>    - a. Metals as follows and ‘mixtures’ thereof:<br>      - 1. Beryllium (CAS 7440-41-7) in particle sizes of less than 60 mm;<br>      - 2. Iron powder (CAS 7439-89-6) with particle size of 3 mm or less produced by reduction of iron oxide with hydrogen;<br>    - b. ‘Mixtures’ containing any of the following:<br>      - 1. Zirconium (CAS 7440-67-7), magnesium (CAS 7439-95-4) or alloys of these in particle sizes of less than 60 mm;<br>      - 2. Boron (CAS 7440-42-8) or boron carbide (CAS 12069-32-8) fuels of 85% purity or higher and particle sizes of less than 60 mm;<br><br>        *Note: ML8.c.5.b.2. does not control boron and boron carbide enriched with boron-10 (20% or more of total boron-10 content).*<br><br>      *Note: “Explosives” and fuels containing the metals or alloys specified in ML8.c.5. are controlled whether or not the metals or alloys are encapsulated in aluminium, magnesium, zirconium, or beryllium.*<br>  - 6. Military materiel containing thickeners for hydrocarbon fuels specially formulated for use in flame throwers or incendiary munitions, such as metal stearates or palmates (eg, octal (CAS 637-12-7)) and M1, M2 and M3 thickeners;<br>  - 7. Perchlorates, chlorates and chromates composited with powdered metal or other high energy fuel components;<br>  - 8. Spherical aluminium powder (CAS 7429-90-5) with a particle size of 60 mm or less, manufactured from material with an aluminium content of 99% or more;<br>  - 9. Titanium subhydride (TiHn) of stoichiometry equivalent to n = 0.65-1.68;<br>- d. Oxidisers, as follows, and ‘mixtures’ thereof:<br>  - 1. ADN (ammonium dinitramide or SR 12) (CAS 140456-78-6);<br>  - 2. AP (ammonium perchlorate) (CAS 7790-98-9);<br>  - 3. Compounds composed of fluorine and any of the following:<br>    - a. Other halogens;<br>    - b. Oxygen; or<br>    - c. Nitrogen;<br><br>    *Note 1: ML8.d.3. does not control chlorine trifluoride.*<br><br>    *Note 2: ML8.d.3. does not control nitrogen trifluoride in its gaseous state.*<br><br>    *N.B.: See also 1C of Annex I to “the Regulation”.*<br>  - 4. DNAD (1,3-dinitro-1,3-diazetidine) (CAS 78246-06-7);<br>  - 5. HAN (hydroxylammonium nitrate) (CAS 13465-08-2);<br>  - 6. HAP (hydroxylammonium perchlorate) (CAS 15588-62-2);<br>  - 7. HNF (hydrazinium nitroformate) (CAS 20773-28-8);<br>  - 8. Hydrazine nitrate (CAS 37836-27-4);<br>  - 9. Hydrazine perchlorate (CAS 27978-54-7);<br>  - 10. Liquid oxidisers comprised of or containing inhibited red fuming nitric acid (IRFNA) (CAS 8007-58-7);<br>- e. Binders, plasticisers, monomers and polymers as follows:<br>  - 1. AMMO (azidomethylmethyloxetane and its polymers) (CAS 90683-29-7);<br>  - 2. BAMO (bisazidomethyloxetane and its polymers) (CAS 17607-20-4);<br>  - 3. BDNPA (bis (2,2-dinitropropyl)acetal) (CAS 5108-69-0);<br>  - 4. BDNPF (bis (2,2-dinitropropyl)formal) (CAS 5917-61-3);<br>  - 5. BTTN (butanetrioltrinitrate) (CAS 6659-60-5);<br>  - 6. Energetic monomers, plasticisers and polymers containing nitro, azido, nitrate, nitraza or difluoroamino groups specially formulated for military use;<br>  - 7. FAMAO (3-difluoroaminomethyl-3-azidomethyl oxetane) and its polymers;<br>  - 8. FEFO (bis-(2-fluoro-2,2-dinitroethyl) formal) (CAS 17003-79-1);<br>  - 9. FPF-1 (poly-2,2,3,3,4,4-hexafluoropentane-1,5-diol formal) (CAS 376-90-9);<br>  - 10. FPF-3 (poly-2,4,4,5,5,6,6-heptafluoro-2-tri-fluoromethyl-3-oxaheptane-1,7-diol formal);<br>  - 11. GAP (glycidylazide polymer) (CAS 143178-24-9) and its derivatives;<br>  - 12. HTPB (hydroxyl terminated polybutadiene) with a hydroxyl functionality equal to or greater than 2.2 and less than or equal to 2.4, a hydroxyl value of less than 0.77 meq/g, and a viscosity at 30°C of less than 47 poise (CAS 69102-90-5);<br>  - 13. Low (less than 10,000) molecular weight, alcohol functionalised, poly(epichlorohydrin); poly(epichlorohydrindiol) and triol;<br>  - 14. NENAs (nitratoethylnitramine compounds) (CAS 17096-47-8, 85068-73-1, 82486-83-7, 82486-82-6 and 85954-06-9);<br>  - 15. PGN (poly-GLYN, polyglycidylnitrate or poly(nitratomethyl oxirane) (CAS 27814-48-8);<br>  - 16. Poly-NIMMO (poly nitratomethylmethyloxetane) or poly-NMMO (poly\[3-Nitratomethyl-3-methyloxetane\]) (CAS 84051-81-0);<br>  - 17. Polynitroorthocarbonates;<br>  - 18. TVOPA (1,2,3-tris\[1,2-bis(difluoroamino)ethoxy\] propane or tris vinoxy propane adduct) (CAS 53159-39-0);<br>- f. Additives as follows:<br>  - 1. Basic copper salicylate (CAS 62320-94-9);<br>  - 2. BHEGA (bis-(2-hydroxyethyl) glycolamide) (CAS 17409-41-5);<br>  - 3. BNO (butadienenitrileoxide) (CAS 9003-18-3);<br>  - 4. Ferrocene derivatives as follows:<br>    - a. Butacene (CAS 125856-62-4);<br>    - b. Catocene (2,2-bis-ethylferrocenyl propane) (CAS 37206-42-1);<br>    - c. Ferrocene carboxylic acids;<br>    - d. n-butyl-ferrocene (CAS 31904-29-7);<br>    - e. Other adducted polymer ferrocene derivatives;<br>  - 5. Lead beta-resorcylate (CAS 20936-32-7);<br>  - 6. Lead citrate (CAS 14450-60-3);<br>  - 7. Lead-copper chelates of beta-resorcylate or salicylates (CAS 68411-07-4);<br>  - 8. Lead maleate (CAS 19136-34-6);<br>  - 9. Lead salicylate (CAS 15748-73-9);<br>  - 10. Lead stannate (CAS 12036-31-6);<br>  - 11. MAPO (tris-1-(2-methyl)aziridinyl phosphine oxide) (CAS 57-39-6), and BOBBA 8 (bis(2-methyl aziridinyl)-2-(2-hydroxypropanoxy) propylamino phosphine oxide); and other MAPO derivatives;<br>  - 12. Methyl BAPO (bis(2-methyl aziridinyl) methylamino phosphine oxide) (CAS 85068-72-0);<br>  - 13. N-methyl-p-nitroaniline (CAS 100-15-2);<br>  - 14. 3-Nitraza-1,5-pentane diisocyanate (CAS 7406-61-9);<br>  - 15. Organo-metallic coupling agents as follows:<br>    - a. Neopentyl\[diallyl\]oxy, tri\[dioctyl\]phosphato-titanate (CAS 103850-22-2); also known as titanium IV, 2,2-\[bis 2-propenolatomethyl, butanolato, tris (dioctyl) phosphato\] (CAS 110438-25-0); or LICA 12 (CAS 103850-22-2);<br>    - b. Titanium IV, \[(2-propenolato-1) methyl, n-propanolatomethyl\] butanolato-1, tris\[dioctyl\] pyrophosphate or KR3538;<br>    - c. Titanium IV, \[(2-propenolato-1) methyl, n-propanolatomethyl\] butanolato-1, tris(dioctyl)phosphate;<br>  - 16. Polycyanodifluoroaminoethyleneoxide;<br>  - 17. Polyfunctional aziridine amides with isophthalic, trimesic (BITA or butyleneimine trimesamide), isocyanuric or trimethyladipic backbone structures and 2-methyl or 2-ethyl substitutions on the aziridine ring;<br>  - 18. Propyleneimine (2-methylaziridine) (CAS 75-55-8);<br>  - 19. Superfine iron oxide (Fe2O3) with a specific surface area more than 250 m2/g and an average particle size of 3.0 nm or less;<br>  - 20. TEPAN (tetraethylenepentaamineacrylonitrile) (CAS 68412-45-3); cyanoethylated polyamines and their salts;<br>  - 21. TEPANOL (tetraethylenepentaamineacrylonitrileglycidol) (CAS 68412-46-4); cyanoethylated polyamines adducted with glycidol and their salts;<br>  - 22. TPB (triphenyl bismuth) (CAS 603-33-8);<br>- g. Precursors as follows:<br>  - 1. BCMO (bischloromethyloxetane) (CAS 142173-26-0);<br>  - 2. Dinitroazetidine-t-butyl salt (CAS 125735-38-8);<br>  - 3. HBIW (hexabenzylhexaazaisowurtzitane) (CAS 124782-15-6);<br>  - 4. TAIW (tetraacetyldibenzylhexaazaisowurtzitane);<br>  - 5. TAT (1,3,5,7-tetraacetyl-1,3,5,7-tetraaza cyclo-octane) (CAS 41378-98-7);<br>  - 6. 1,4,5,8-tetraazadecalin (CAS 5409-42-7);<br>  - 7. 1,3,5-trichlorobenzene (CAS 108-70-3);<br>  - 8. 1,2,4-trihydroxybutane (1,2,4-butanetriol) (CAS 3068-00-6).<br>*Note: ML8 does not control charges and devices.*<br>*N.B.: Charges and devices are controlled in ML4.* |
+| **ML9** | “Vessels”, special naval equipment and accessories, as follows, and components therefor, specially designed or modified for military use:<br>*N.B.: Electronic guidance and navigation equipment is controlled in ML11.a.*<br>- a. Combatant “vessels” and “vessels” (surface or underwater) specially designed or modified for offensive or defensive action, whether or not converted to non-military use, regardless of current state of repair or operating condition, and whether or not they contain weapon delivery systems or armour;<br>- b. Submarine and torpedo nets;<br>- c. Hull penetrators and connectors specially designed for military use that enable interaction with equipment external to a “vessel”. |
+| **ML10** | “Aircraft”, “lighter-than-air vehicles”, unmanned aerial vehicles, aero-engines, “aircraft” equipment and related “goods”, as follows, specially designed or modified for military use and specially designed components therefor:<br>*N.B.: Electronic guidance and navigation equipment is controlled in ML11.a.*<br>- a. Combat “aircraft”;<br>- b. Other “aircraft” and “lighter-than-air vehicles” (eg, military reconnaissance, assault, military training, transporting and airdropping troops or military equipment, logistics support);<br>- c. Unmanned aerial vehicles (UAV) (eg, remotely piloted air vehicles (RPVs), autonomous programmable vehicles (APV) and “lighter-than-air vehicles”), and their launchers, ground support equipment and related equipment for command and control;<br>- d. Aero-engines;<br>- e. Airborne equipment (eg, airborne refuelling equipment), specially designed for “use” with “aircraft” specified in ML10.a. or ML10.b. or aero-engines specified in ML10.d.;<br>- f. Pressure refuellers, pressure refuelling equipment, equipment specially designed to facilitate operations in confined areas and ‘ground equipment’, specially designed or modified for “use” with “aircraft” specified in ML10.a. or ML10.b., or aero-engines specified in ML10.d.;<br><br>  *Technical Note:*<br><br>  *“Ground equipment” means ground-based equipment for the operation, handling, maintenance, checking, repair, overhaul and refurbishment of “aircraft” or aero-engines.*<br>- g. Military aircrew protective headgear and masks, pressurised breathing equipment and partial pressure suits for use in “aircraft”, anti-g suits, liquid oxygen converters used for “aircraft” or missiles, and catapults and cartridge actuated devices for emergency escape of personnel from “aircraft”;<br>- h. Parachutes and related equipment used for combat personnel, cargo dropping or “aircraft” deceleration, as follows:<br>  - 1. Parachutes for:<br>    - a. Pin point dropping of military personnel;<br>    - b. Dropping of paratroopers;<br>  - 2. Cargo parachutes;<br>  - 3. Paragliders, drag parachutes, drogue parachutes for stabilisation and attitude control of dropping bodies;<br>  - 4. Drogue parachutes for use with ejection seat systems for deployment and inflation sequence regulation of emergency parachutes;<br>  - 5. Recovery parachutes for guided missiles, drones or space vehicles;<br>  - 6. Approach parachutes and landing deceleration parachutes;<br>  - 7. Other military parachutes;<br>  - 8. Equipment specially designed for high altitude parachutists;<br>- i. Automatic piloting systems for parachuted loads and equipment for controlled opening of parachutes at any pre-determined height. |
+| **ML11** | Electronic equipment, not specified elsewhere in this Part of this Schedule, as follows, and specially designed components therefor:<br>- a. Electronic equipment specially designed or modified for military use;<br>- b. Global navigation satellite systems (GNSS) jamming equipment.<br>*Note: ML11.a. controls all electronic guidance and navigation equipment.* |
+| **ML12** | High velocity kinetic energy weapon (KEW) systems and related equipment, as follows, and specially designed components therefor:<br>- a. Kinetic energy weapon systems specially designed for destruction or effecting mission abort of a target;<br><br>  *N.B.: For weapon systems using sub-calibre ammunition or employing solely chemical propulsion, and ammunition therefor, see ML1 to ML4.*<br>- b. Specially designed test and evaluation facilities and test models (eg, diagnostic instrumentation and targets), for dynamic testing of kinetic energy projectiles and systems. |
+| **ML13** | Armoured or protective “goods” and constructions, as follows, and specially designed components therefor:<br>- a. Armoured plate, having any of the following characteristics:<br>  - 1. Manufactured to comply with a military standard or specification; or<br>  - 2. Suitable for military use;<br>- b. Constructions of metallic or non-metallic materials or combinations thereof specially designed to provide ballistic protection for military systems;<br>- c. Helmets manufactured according to military standards or specifications, or comparable national standards;<br><br>  *Note: ML13.c. does not control:*<br><br>  - a. *Conventional steel helmets, neither modified nor designed to accept, nor equipped with any type of accessory device;*<br>  - b. *Helmets manufactured before 1945.*<br>  - c. *Individual helmets not specially designed for military use when accompanying their users.*<br><br>  *N.B. 1: Military aircrew protective headgear is controlled in ML10.g.*<br><br>  *N.B. 2: Military high altitude parachutists' protective headgear is controlled in ML10.h.8.*<br>- d. Body armour and ballistic protective garments manufactured according to military standards or specifications, or equivalent.<br><br>  *Note: ML13.d. does not control individual suits of body armour or ballistic protective garments for personal protection and accessories therefor when accompanying their users.*<br><br>  *N.B.: See also 1A of Annex I to “the Regulation”.* |
+| **ML14** | Specialised equipment for military training or for simulating military scenarios, simulators specially designed for training in the “use” of any firearm or weapon specified in ML1 or ML2, and specially designed components and accessories therefor. |
+| **ML15** | Imaging or countermeasure equipment, as follows, specially designed for military use, and specially designed components and accessories therefor:<br>- a. Recorders and image processing equipment;<br>- b. Cameras, photographic equipment and film processing equipment;<br>- c. Image intensifier equipment;<br>- d. Infrared or thermal imaging equipment;<br>- e. Imaging radar sensor equipment;<br>- f. Countermeasure or counter-countermeasure equipment for the equipment specified in ML15.a. to ML15.e.<br>*Note: ML15 does not control “first generation image intensifier tubes” or equipment specially designed so that only “first generation image intensifier tubes” are or can be incorporated in it.*<br>*N.B. 1: For weapons sights incorporating “first generation image intensifier tubes” see ML1, ML2 and ML5.*<br>*N.B. 2: See also 6A of Annex I to “the Regulation”.* |
+| **ML16** | Forgings, castings and other unfinished “goods”, the use of which in controlled “goods” is identifiable by material composition, geometry or function, and which are specially designed for any of the “goods” specified in ML1 to ML4, ML6, ML9, ML10, ML12 or ML19. |
+| **ML17** | Miscellaneous “goods”, material and ‘libraries’, as follows, and specially designed components therefor:<br>- a. Self-contained diving and underwater swimming apparatus as follows:<br>  - 1. Closed or semi-closed circuit (rebreathing) apparatus specially designed for military use (ie, specially designed to be non-magnetic);<br>  - 2. Specially designed components for use in the conversion of open-circuit apparatus to military use;<br>  - 3. “Goods” designed exclusively for military use with self-contained diving and underwater swimming apparatus;<br>- b. Construction equipment specially designed for military use;<br>- c. Fittings, coatings and treatments for signature suppression, specially designed for military use;<br>- d. Field engineer equipment specially designed for “use” in a combat zone;<br>- e. “Robots”, “robot” controllers and “robot” “end-effectors”, having any of the following characteristics:<br>  - 1. Specially designed for military use;<br>  - 2. Incorporating means of protecting hydraulic lines against externally induced punctures caused by ballistic fragments (eg, incorporating self-sealing lines) and designed to use hydraulic fluids with flash points higher than 839 K (566°C); or<br>  - 3. Specially designed or rated for operating in an electro-magnetic pulse (EMP) environment;<br><br>  *Technical Note:[^key-152da9d4947388d70856f02c21515dda]*<br><br>  *Electro-magnetic pulse does not refer to unintentional interference caused by electromagnetic radiation from nearby equipment (eg, machinery, appliances or electronics) or lightning.*<br>- f. ‘Libraries’ (parametric technical databases) specially designed for military use with equipment specified in this Part of this Schedule;<br><br>  *Technical Note:*<br><br>  *For the purpose of ML17, the term ‘libraries’ (parametric technical database) means a collection of technical information of a military nature, reference to which may enhance the performance of military equipment or systems.*<br>- g. Nuclear power generating equipment or propulsion equipment (eg, “nuclear reactors”), specially designed for military use and components therefor, specially designed or modified for military use;<br>- h. “Goods” and material, coated, treated or prepared to provide signature suppression, specially designed for military use, other than those controlled elsewhere in this Part of this Schedule;<br>- i. Simulators specially designed for military “nuclear reactors”;<br>- j. Mobile repair shops specially designed or modified to service military equipment;<br>- k. Field generators specially designed or modified for military use;<br>- l. Containers specially designed or modified for military use;<br>- m. Ferries, other than those controlled elsewhere in this Part of this Schedule, rafts, bridges and pontoons, specially designed for military use;<br>- n. Test models specially designed for the “development” of “goods” or “technology” specified in ML4, ML6, ML9 or ML10;<br>- o. Laser protection equipment (eg, eye and sensor protection) specially designed for military use. |
+| **ML18** | Production equipment and components, as follows:<br>- a. Specially designed or modified production equipment for the “production” of “goods” specified in this Part of this Schedule, and specially designed components therefor;<br>- b. Specially designed environmental test facilities and specially designed equipment therefor, for the certification, qualification or testing of “goods” specified in this Part of this Schedule. |
+| **PL5017** | Equipment and test models other than those specified in ML11, ML12.b., ML17.n. or ML19.e. specially designed or modified for the “development” or “use” of military “goods” specified in this Part of this Schedule. |
+| **ML19** | Directed energy weapon (DEW) systems, related or countermeasure equipment and test models, as follows, and specially designed components therefor:<br>- a. “Laser” systems specially designed for destruction or effecting mission-abort of a target;<br>- b. Particle beam systems capable of destruction or effecting mission-abort of a target;<br>- c. High power radio-frequency (RF) systems capable of destruction or effecting mission-abort of a target;<br>- d. Equipment specially designed for the detection or identification of, or defence against, systems specified in ML19.a. to ML19.c.;<br>- e. Physical test models for the systems, equipment and components specified in ML19;<br>- f. Continuous wave or pulsed “laser” systems specially designed to cause permanent blindness to un-enhanced vision (ie, to the naked eye or to the eye with corrective eyesight devices). |
+| **ML20** | Cryogenic and “superconductive” equipment, as follows, and specially designed components and accessories therefor:<br>- a. Equipment specially designed or configured to be installed in a vehicle for military ground, marine, airborne or space applications, capable of operating while in motion and of producing or maintaining temperatures below 103 K (−170°C);<br>- b. “Superconductive” electrical equipment (rotating machinery and transformers) specially designed or configured to be installed in a vehicle for military ground, marine, airborne or space applications and capable of operating while in motion.<br>*Note: ML20 does not control direct-current hybrid homopolar generators that have single-pole normal metal armatures which rotate in a magnetic field produced by superconducting windings, provided those windings are the only superconducting component in the generator.* |
+| **ML21** | “Software” as follows:<br>- a. “Software” specially designed or modified for the “development”, “production” or “use” of equipment, materiel or “software” specified in this Part of this Schedule;<br>- b. Specific “software”, other than that specified in ML21.a., as follows:<br>  - 1. “Software” that is both specially designed for military use and specially designed for modelling, simulating or evaluating military weapons systems;<br>  - 2. “Software” that is both specially designed for military use and specially designed for modelling or simulating military operational scenarios;<br>  - 3. “Software” for determining the effects of conventional, nuclear, chemical or biological weapons;<br>  - 4. “Software” that is both specially designed for military use and[^key-6a96c09ea2b524915de7269a290c30d4] specially designed for Command, Communications, Control and Intelligence (C3I) applications or Command, Communications, Control, Computer and Intelligence (C4I) applications;<br>- c. “Software”, not specified in ML21.a. or b., specially designed or modified to enable equipment not specified in this Part of this Schedule to perform the military functions of equipment specified in this Part of this Schedule;<br>- d. Other “software” specially designed or modified for military use.<br>*N.B.: Source code for “software” is controlled in ML22.* |
+| **PL5001** | Other security and para-military police “goods” as follows:<br>- a. Acoustic devices represented by the manufacturers or suppliers thereof as suitable for riot control purposes, and specially designed components therefor;<br>- b. Anti-riot and ballistic shields and specially designed components therefor;<br>- c. Shackles designed for restraining human beings having an overall dimension including chain, when measured from the outer edge of one cuff to the outer edge of the other cuff, of between 240mm and 280mm when locked;<br><br>  *N.B.: See also 1.2 of Annex III to “the 2005 Regulation” and Schedule 1A to this Order.*<br>- d. Electric-shock belts designed for restraining human beings by the administration of electric shocks having a no-load voltage not exceeding 10 000 volts;<br><br>  *N.B.: See also 2.1 of Annex II to “the 2005 Regulation” and Schedule 1A to this Order.*<br>- e. Water cannon and specially[^key-7b52c4a3abc177d585744cf50b8eb6d9] designed components therefor;<br>- f. Riot control vehicles which have been specially designed or modified to be electrified to repel boarders and components therefor specially designed or modified for that purpose;<br>- g. Electric-shock dart guns having a no load voltage not exceeding 10,000 volts;<br><br>  *N.B.: See also 2.1 of Annex III to “the 2005 Regulation” and Schedule 1A to this Order.*<br>- h. Components specially designed or modified for portable devices designed or modified for the purposes of riot control or self-protection by the administration of an electric shock (eg, electric-shock batons, electric-shock shields, stun-guns and electric-shock dart-guns);<br>- i. Hand-held, spiked batons. |
+| **ML22** | “Technology” as follows:<br>- a. “Technology”, other than “technology” specified in ML22.b., which is “required” for the “development”, “production” or “use” of “goods” or “software” specified in this Part of this Schedule;<br>- b. “Technology” as follows:<br>  - 1. “Technology” “required” for the design of, the assembly of components into, and the operation, maintenance and repair of complete production installations for “goods” specified in this Part of this Schedule, even if the components of such production installations are not specified;<br>  - 2. “Technology” “required” for the “development”, “production” or “use” of toxicological agents, related equipment or components specified in ML7.a. to ML7.g.;<br>  - 3. “Technology” “required” for the “development”, “production” or “use” of “biopolymers” or cultures of specific cells specified in ML7.h.;<br>  - 4. “Technology” “required” exclusively for the incorporation of “biocatalysts”, specified in ML7.i.1., into military carrier substances or military materiel.<br>*Note 1 Subject to note 2 below, the export or transfer of technology in ML22 is prohibited by articles 3 and 6 of this Order if it is “required” for the “development”, “production” or “use” of “goods” or “software” in this Schedule, whether or not the “technology” being exported or transferred in the particular case is intended to be applied in respect of such “goods” or “software”.*<br>*Note 2 The prohibitions in Articles 3 and 6 do not apply to that “technology” in ML22 which is the minimum necessary for the installation, operation, maintenance (checking) and repair of “goods” or “software” not in this Schedule, to “technology” “in the public domain”, to “basic scientific research” or to the minimum necessary for patent applications.* |
+
+### PART II — EXPLOSIVE-RELATED GOODS AND TECHNOLOGY
+
+|  |  |
+| --- | --- |
+| **PL8001** | Explosive-related “goods” and “technology” as follows:<br>- a. Equipment and devices, other than those in Part I of this Schedule or in 1A005, 1A006, 1A007,[^key-9a9850388e97e4caf71ac026c69a1f0e] 3A229 or 3A232 in Annex I to “the Regulation”, for detection of or “use” with “explosives” or for dealing with or protecting against “improvised explosive devices”, as follows, and specially designed components therefor:<br>  - 1. Electronic equipment designed to detect “explosives” or “explosive signatures”;<br><br>    *Note: PL8001.a.1. does not control equipment requiring operator judgment to establish the presence of “explosives” or “explosive signatures”.*<br>  - 2. Electronic jamming equipment specially designed to prevent the detonation by radio remote control of “improvised explosive devices”;<br>  - 3. Equipment and devices specially designed to initiate explosions by electrical or non-electrical means, (eg, firing sets, detonators and igniters);<br><br>    *N.B.: See also 1A007, 3A229 and 3A232 in Annex I to “the Regulation”.[^key-6f8e0a091dd6fe1855c2aa9885370f2f]*<br><br>    *Note: PL8001.a.3. does not control:*<br><br>    - a. *Equipment and devices specially designed for a specific commercial use consisting of the actuation or operation by explosive means of other equipment or devices the function of which is not the initiation or creation of explosions;*<br>    - b. *Pressure controlled equipment specially designed for down-hole oilfield equipment applications and which are incapable of use at atmospheric pressure; and*<br>    - c. *Detonating cord.*<br>  - 4. Equipment and devices, including, but not limited to: shields and helmets, specially designed for the disposal of “improvised explosive devices”;<br><br>    *N.B.: See also 1A005 and 1A006 in Annex I to “the Regulation”.[^key-d394b0ef3b724344b74a8f4162091413]*<br><br>    *Note: PL8001.a.4. does not control bomb blankets, mechanical handling equipment for manoeuvring or exposing “improvised explosive devices”, containers designed for holding “improvised explosive devices” or objects suspected of being such devices or other equipment specially designed to temporarily protect against “improvised explosive devices” or objects suspected of being such devices.*<br>- b. Linear cutting explosive charges;<br>- c. “Technology” “required” for the “use” of “goods” in this Part of this Schedule. |
+
+## SCHEDULE 1A — CERTAIN PROHIBITED SECURITY AND PARAMILITARY GOODS[^key-8c1bb0bc1d69f9843afbaa8cbb585071]
+
+Article 3
+
+Security and para-military police “ goods” as follows:
+
+**1.** Gangchains and leg-irons specially designed for restraining human beings.
+
+**2.** Portable devices designed or modified for the purpose of riot control or self-protection by the administration of an electric shock (e.g., electric-shock batons, electric-shock shields, stun-guns and electric- shock dart-guns having a no load voltage exceeding 10,000 volts).
+
+**3.** Electric–shock belts designed for restraining human beings by the administration of electric shocks having a no-load voltage exceeding 10 000 volts.
+
+## SCHEDULE 2 — PROHIBITED DUAL-USE GOODS, SOFTWARE AND TECHNOLOGY
+
+Articles 4 and 7
+
+*Note: In this Schedule, defined terms are printed in quotation marks.*
+
+### 1. General Technology Note[^key-cd29f32b095b25e7e155f5e544cf759f]
+
+Subject to paragraph 2 below, the export or transfer of “technology” in this Schedule is prohibited by articles 4 and 7 of this Order if it is “required” for the “development”, “production” or “use” of “goods” or “software” in this Schedule, whether or not the “technology” being exported or transferred in the particular case is intended to be applied in respect of such “goods” or “software”.
+
+**2.** The prohibitions in articles 4 and 7 do not apply to that “technology” which is the minimum necessary for the installation, operation, maintenance (checking) and repair of “goods” or “software” not in this Schedule, to “technology” “in the public domain”, to “basic scientific research” or to the minimum necessary for patent applications.
+
+### Definitions
+
+In this Schedule:
+
+- “**development**” means all stages prior to “production”(e.g., design, design research, design analyses, design concepts, assembly and testing of prototypes, pilot production schemes, design data, process of transforming design data into “goods”, configuration design, integration design, layouts);
+- “**energetic materials**” means substances or mixtures that react chemically to release energy required for their intended application; “explosives”, “pyrotechnics” and “propellants” are subclasses of energetic materials;
+- “**explosives**” means solid, liquid or gaseous substances or mixtures of substances which, in their application as primary, booster, or main charges in warheads, demolition and other applications, are required to detonate;
+- “lighter-than-air vehicles” means balloons and airships that rely on hot air or on lighter-than-air gases such as helium or hydrogen for their lift;[^key-2a73dc5b0cd0e5347583c5202458d6db]
+- “**previously separated**” means the application of any process intended to increase the concentration of the controlled isotope;
+- “**production**” means all production stages (e.g., product engineering, manufacture, integration, assembly (mounting), inspection, testing, quality assurance);
+- “**propellants**” means substances or mixtures that react chemically to produce large volumes of hot gases at controlled rates to perform mechanical work;
+- “**pyrotechnic(s)**” means mixtures of solid or liquid fuels and oxidisers which, when ignited, undergo an energetic chemical reaction at a controlled rate intended to produce specific time delays, or quantities of heat, noise, smoke, visible light or infrared radiation; pyrophorics are a subclass of pyrotechnics, which contain no oxidisers but ignite spontaneously on contact with air;
+- “[^key-23dc29c1f0a0a5509fe27e266566edee]**required**” as applied to “technology”, refers only to that portion of “technology” which is peculiarly responsible for achieving or exceeding the controlled performance levels, characteristics or functions. Such “required” “technology” may be shared by different goods;
+- “**technology**” means specific “information” necessary for the “development”, “production” or “use” of “goods” or “software”;
+
+  *Technical Note:* *“Information” may take forms including, but not limited to: blueprints, plans, diagrams, models, formulae, tables, “source code”, engineering designs and specifications, manuals and instructions written or recorded on other media or devices (e.g., disk, tape, read-only memories);* *“Source code”(or source language) is a convenient expression of one or more processes which may be turned by a programming system into equipment executable form.*
+- “**use**” means operation, installation (e.g., on-site installation), maintenance, checking, repair, overhaul and refurbishing;
+- “vaccines” are medicinal products in a pharmaceutical formulation licensed by, or having marketing or clinical trial authorisation from, the regulatory authorities of either the country of manufacture or of use, which is intended to stimulate a protective immunological response in humans or animals in order to prevent disease in those to whom or to which it is administered.
+
+### MATERIALS, CHEMICALS, MICRO-ORGANISMS AND TOXINS
+
+#### ...[^key-54b22fe0c6a79bfeb60f15a2923d6a3d]
+
+[^key-54b22fe0c6a79bfeb60f15a2923d6a3d]...
+
+#### PL9002
+
+The export of the following “goods” is prohibited to any destination:
+
+“Energetic materials”, as follows, and mixtures containing one or more thereof:
+
+- (a.) Nitrocellulose (containing more than 12.5% nitrogen);
+- (b.) Nitroglycol;
+- (c.) Pentaerythritol tetranitrate (PETN);
+- (d.) Picryl chloride;
+- (e.) Trinitrophenylmethylnitramine (tetryl);
+- (f.) 2,4,6-Trinitrotoluene (TNT).
+
+  *Note: PL9002 does not control single, double and triple base “propellants”.*
+
+#### PL9003
+
+The export of the following “goods” is prohibited to any destination:
+
+“Vaccines” for protection against:
+
+- (a.) bacillus anthracis;
+- (b.) botulinum toxin.
+
+#### PL9004
+
+The export of the following “goods” is prohibited to any destination:
+
+“Previously separated” americium-241, -242m or -243 in any form.
+
+*Note: PL9004 does not control “goods” with an americium content of 10 grams or less.*
+
+### TELECOMMUNICATIONS AND RELATED TECHNOLOGY
+
+**No longer in force (ended 2006-06-06).**
+
+#### PL9005
+
+The export or “transfer” of the following “goods” or “technology” is prohibited to any destination in Iran [^key-90c41ea53a77e2918cd9e72ae29a2d37]...:
+
+- (a.) Tropospheric scatter communication equipment using analogue or digital modulation techniques and specially designed components therefor;
+- (b.) “Technology” according to the General Technology Note [^key-90c41ea53a77e2918cd9e72ae29a2d37]... for the “development”, “production” or “use” of “goods” specified[^key-238532cc687bd64bbda5823218e582ef] in PL9005.a.
+
+### VESSELS AND RELATED SOFTWARE AND TECHNOLOGY
+
+**No longer in force (ended 2006-06-06).**
+
+#### PL9008
+
+The export or “transfer” of the following “goods”, “software” or “technology”, is prohibited to any destination in Iran [^key-90c41ea53a77e2918cd9e72ae29a2d37]...:
+
+- (a.)[^key-00c538e0ea10dda9a0475976115b8204] “Vessels”, inflatable craft and ‘submersible vehicles’, and related equipment and components, as follows, other than those specified in Part I of Schedule 1 to this Order or Annex I to “the Regulation”:
+  - (1.) Marine “vessels” (surface or underwater), inflatable craft and ‘submersible vehicles’;
+  - (2.) Equipment and components, designed for “vessels”, inflatable craft and ‘submersible vehicles’ as follows:
+    - (a.) Hull and keel structures and components;
+    - (b.) Propulsive engines designed or modified for marine use and specially designed components therefor;
+    - (c.) Marine radar, sonar and speed log equipment, and specially designed components therefor;.
+- (b.) “Software” designed for the “development”, “production” or “use” of “goods” specified[^key-e271a32dbdcfcd7e2a4775ed16992692] in PL9008.a.;
+- (c.) “Technology” according to the General Technology Note[^key-90c41ea53a77e2918cd9e72ae29a2d37]...for the “development”, “production” or “use” of “goods” or “software” specified[^key-e2150948af05776469fc715a42b8afb8] in PL9008.a. or PL9008.b.
+
+Technical Note:[^key-0ca62351115ca6e1a8120149798a8c9c]
+
+*‘Submersible vehicles’ include manned, unmanned, tethered or untethered vehicles.*
+
+### AIRCRAFT AND RELATED TECHNOLOGY
+
+**No longer in force (ended 2006-06-06).**
+
+#### PL9009
+
+The export or “transfer” of the following “goods” or “technology” is prohibited to any destination in Iran [^key-90c41ea53a77e2918cd9e72ae29a2d37]...:
+
+- (a.) “Aircraft” , “lighter-than-air vehicles” and steerable parachutes,[^key-e9aaed21432d7e3ffa53301a4ee15f6a] and related equipment and components, as follows, other than those specified in[^key-4f0d8a2e993e42e3bf982bcf2f994d6d] Part I of Schedule 1 to this Order or Annex I to “the Regulation”:
+  - (1.) “Aircraft” , “lighter-than-air vehicles” and steerable parachutes[^key-5e255d4801079db3f50c3d0519341143];
+  - (2.) Equipment and components designed for “aircraft” and “lighter-than-air-vehicles,”[^key-cd1228478f69f1c04667264b5c46e61b] as follows:
+    - (a.) Airframe structures and components;
+    - (b.) Aero-engines and specially designed components therefor;
+    - (c.) Avionics and navigation equipment and specially designed components therefor;
+    - (d.) Landing gear and specially designed components therefor, and aircraft tyres;
+    - (e.) Propellers and rotors;[^key-99bc9c35733048bb3cf065f04a3c690d]
+    - (f.) Transmissions and gearboxes, and specially designed components therefor;
+    - (g.) Unmanned aerial vehicle (UAV) recovery systems;
+- (b.)[^key-c4780da360babbcc191217e57791b96e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c.) “Technology” according to the General Technology Note [^key-90c41ea53a77e2918cd9e72ae29a2d37]... for the “development”, “production” or “use” of “goods” specified[^key-b23781d74c2a5acf29d6d93ee29ce835] in PL9009.a.[^key-726e07729d91dc27bebc4afefb0a3252]...
+
+  *Note: PL9009.c. does not control technical data, drawings or documentation for maintenance activities directly associated with calibration, removal or replacement of damaged or unserviceable “goods” that are necessary for the continuing airworthiness and safe operation of civil “aircraft”.*
+
+## SCHEDULE 3 — LIST OF COUNTRIES AND DESTINATIONS REFERRED TO IN ARTICLE 11
+
+Article 11
+
+Afghanistan
+
+Argentina
+
+Armenia
+
+Azerbaijan
+
+[^key-55d72186dae54fa8209cd5427e382d90]...
+
+Burma (Myanmar)
+
+Burundi
+
+China (People’s Republic) excluding Special Administrative Regions
+
+Democratic Republic of the Congo
+
+Iraq[^key-236ae3a05319b8b31adca0e642db1c00]
+
+Ivory Coast
+
+Lebanon[^key-7d5c50388b4440428c6405ffd07bf9f0]
+
+Liberia
+
+Macao Special Administrative Region
+
+Rwanda
+
+Sierra Leone
+
+Somalia
+
+Sudan
+
+Tanzania
+
+Uganda
+
+Uzbekistan[^key-d30b2fbfe256a2d0e4f6be2c6c0db682]
+
+Zimbabwe
+
+## SCHEDULE 4
+
+Articles 13 and 14
+
+### PART I: — REGISTRATION OF CATEGORY 5 GOODS
+
+Article 13(3) does not apply to “goods” or “software” which are for “use” by the exporter, or by any “subsidiary” or “parent undertaking” of the exporter, or by a “business or academic collaborator” of the exporter, in his or their own commercial cryptographic “goods”, “software” or “development” activities but only insofar as they are activities pursuant to the agreement establishing the collaboration, as follows:
+
+**1.** Any cryptography “development” “software” in entry 5D002 of Annex I to “the Regulation”, other than “software” having the characteristics, or performing or simulating the functions, of equipment designed or modified to perform cryptanalytic functions; or
+
+**2.** Any cryptography “development” “technology” in entry 5E002 of Annex I to “the Regulation”, other than “technology” for the “development”, “production” or “use” of:
+
+- (a.) Equipment designed or modified to perform cryptanalytic functions; or
+- (b.) “Software” having the characteristics, or performing or simulating the functions, of equipment designed or modified to perform cryptanalytic functions.
+
+*Note 1.: “**Business or academic collaborator**” means a person who is either working by way of business in research and “development” of cryptography or cryptographic “goods” or “software” or is teaching, or undertaking research as a member of or at a university or institution of higher education into, cryptography or cryptographic “goods” or “software” and with whom an exporter has previously entered into an agreement for the carrying out of work comprising or related to research into or “development” of cryptography or cryptographic “goods” or “software”.*
+
+*Note 2.: “**Parent undertaking**” and “**subsidiary undertaking**” have the same meanings assigned by sections 258 and 259 of the Companies Act 1985 (as substituted by sections 21 and 22 of the Companies Act 1989).*
+
+### PART II: — INFORMATION REQUIRED UNDER ARTICLE 14(9)
+
+The following information is required to be kept on record in relation to certain “goods” and “software” in Part 2 of Category 5 of Annex I to “the Regulation”:
+
+**1.** A general description of the “goods” and “software”(as defined in “the Regulation”), such as might be contained in a product brochure;
+
+**2.** Descriptions of all relevant encryption algorithms and key management schemes, and descriptions of how they are used by the “goods” and “software”(e.g., which algorithm is used for authentication, which for confidentiality and which for key exchange); and details (e.g., source code) of how they are implemented (e.g., how keys are generated and distributed, how key length is governed and how the algorithm and keys are called by the “software”);
+
+**3.** Details of any measures taken to preclude user modification of the encryption algorithm, key management scheme or key length;
+
+**4.** Details of pre- or post-processing of data, such as compression of plain text or packetisation of encrypted data;
+
+**5.** Details of programming interfaces that can be used to gain access to the cryptographic functionality of the “goods” and “software”; and
+
+**6.** A list of any standards or protocols to which the “goods” and “software” adhere.
+
+## SCHEDULE 5 — AMENDMENTS TO COUNCIL REGULATION (EC) NO. 1334/2000[^key-0cb991686a750e7d6d9547c0f2b748a7]
+
+- Article 1(a) of Council Regulation [(EC) No. 2432/2001](https://www.legislation.gov.uk/eur/2001/2432) of 20 November 2001 (O.J. L 338, 20.12.2001, p.1)
+- Council Regulation[^key-f415b827e1357028f8ed7b204b4019e2] [(EC) No. 1167/2008](https://www.legislation.gov.uk/eur/2008/1167) of 24 October 2008 (O.J. L 325, 3.12.2008, p.1).
+
+## SCHEDULE 6 — REVOCATIONS
+
+Article 24
+
+The Dual-Use Items (Export Control) Regulations 2000 (S.I. 2000/2620)
+
+The Dual-Use Items (Export Control) (Amendment) Regulations 2000 (S.I. 2000/3304)
+
+The Dual-Use Items (Export Control) (Amendment) Regulations 2001 (S.I. 2001/1344)
+
+The Dual-Use Items (Export Control) (Amendment) Regulations 2002 (S.I. 2002/50)
+
+The Dual-Use Items (Export Control) (Amendment) (No.2) Regulations 2002 (S.I. 2002/2033)
+
+*(This note is not part of the Order)*
+
+This Order, made under the Export Control Act 2002, establishes a new framework for the control of strategic goods, software and technology. This Order brings together controls on the export or transfer of military and dual-use goods, software and technology, controls on goods, software and technology related to weapons of mass destruction (WMD) and the provision of WMD related technical assistance. The controls in this Order apply to persons in the United Kingdom and in respect of certain provisions, to United Kingdom persons anywhere in the world.
+
+The Order consolidates existing controls on the export of military goods, software and technology in physical form, previously provided for by the Export of Goods (Control) Order 1994 (S.I. 1994/1191), with the provisions of the Dual-Use Items (Export Control) Regulations 2000 (S.I. 2000/2620)) (the DUEC). The DUEC gave effect in the United Kingdom to certain provisions of Council Regulation [(EC) No. 1334/2000](https://www.legislation.gov.uk/european/regulation/2000/1334) of 22 June 2000, (O.J. No. L 159, 30.06.2000 p.1.) which set up a Community regime for the control of exports of dual-use items and technology (the Regulation).
+
+Military and para-military goods, software and technology whose export or transfer is controlled are specified in Schedule 1 to this Order. Dual-use goods, software and technology, the export or transfer of which, are controlled in addition to those set out in the Annexes to the Regulation, are specified in Schedule 2.
+
+This Order imposes WMD end-use controls on “any relevant use” in connection with WMD. A relevant use is any use in connection with the development, production, handling, operation, maintenance, storage, detection, identification or dissemination of chemical, biological or nuclear weapons or other nuclear explosive devices, or the development, production, maintenance or storage of missiles capable of delivering such weapons.
+
+In addition to the consolidation of existing export control provisions, the Order also introduces the following new controls on:
+
+- (a) the transfer of listed military technology in Schedule 1 by electronic means. Electronic transfer includes transfers by fax, e-mail or telephone;
+- (b) the transfer by any means of technology intended for use in connection with WMD or a related missile programme. This supplements existing end-use controls on the physical export of goods, software and technology and the electronic transfer of technology contained in the Regulation. The new control will apply to anyone in the United Kingdom or a United Kingdom person anywhere in the world who communicates technology which the provider knows or has been informed by Government, is or might be intended for use outside the European Union in connection with WMD or missiles capable of delivering WMD; and
+- (c) the provision of technical assistance in relation to WMD. This control will apply to anyone in the United Kingdom or to any United Kingdom person abroad who provides or facilitates the provision of technical assistance outside the United Kingdom where he knows or is informed by the Government, that it is or may be intended for use in connection with WMD or missiles capable of delivering WMD. This control, together with the WMD transfer controls, implements the European Joint Action of 22 June 2000 concerning the control of technical assistance related to certain military end-uses (2000/401/CFSP).
+
+The Order is divided into six parts:
+
+Part I deals with controls on the export of military goods, dual-use goods and goods in transit with a WMD end-use;
+
+Part II deals with controls on the electronic transfer of military and dual-use technology and the transfer of technology with a WMD end-use by both electronic and non- electronic means;
+
+Part III deals with controls on the provision of WMD technical assistance;
+
+Part IV sets out exceptions to the controls in Parts I, II and III;
+
+Part V provides for the granting of licences, record keeping and appeals. The appeals procedure in article 15 is new and sets out the procedure for appealing against any decision of the Secretary of State to refuse, suspend or revoke any licence issued under this order or the Regulation. Appeals must be made within 28 days of the date of the written notification recording the Secretary of State’s decision; and
+
+Part VI sets out the penalties and means of enforcement for breach of the controls in the Regulation and Parts I, II and III of this Order. In article 16 the maximum penalty for the intentional breach of controls on exports, transfer of technology and technical assistance is set at 10 years, the maximum penalty permitted under section 7(1) of the Export Control Act 2002.
+
+Article 24 of this Order revokes the DUEC but provision is made for the continuation of all licences issued before 1st May 2004 for the duration of their original validity and for the DUEC to continue to have effect in respect of any export which occurs before 1 May 2004.
+
+Guidance issued pursuant to Section 9 of the Export Control Act 2002 on the operation of these controls, and a full regulatory impact assessment of the effect that this instrument will have on the costs of business, are available from *http://www.dti.gov.uk/export.control/* or the ECO help-line–Telephone (020) 7215 8070, Fax (020) 7215 0558 or E-mail: ECO.help@dti.gsi.gov.uk.
+
+## Annotations
+
+[^c5092281]: Marginal citation: [2002 c. 28](https://www.legislation.gov.uk/ukpga/2002/28).
+
+[^key-a651c3273a0381a9de1d2b81f357e9b6]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2003/2764) extended (with modifications) (16.12.2004) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Overseas Territories) Order 2004 (S.I. 2004/3101)](https://www.legislation.gov.uk/uksi/2004/3101), [art. 3](https://www.legislation.gov.uk/uksi/2004/3101/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3101/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3101/schedule/2)
+
+[^key-b08702f7495194ce09ef754347fe7540]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2764/article/2/1) inserted (30.7.2006) by [The Export Control (Security and Para-military Goods) Order 2006 (S.I. 2006/1696)](https://www.legislation.gov.uk/uksi/2006/1696), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1696/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2006/1696/article/3/a)
+
+[^key-74aab3cf06a049d508602997f4b1c3b4]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2764/article/2/1) inserted (30.7.2006) by [The Export Control (Security and Para-military Goods) Order 2006 (S.I. 2006/1696)](https://www.legislation.gov.uk/uksi/2006/1696), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1696/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2006/1696/article/3/b)
+
+[^c5092291]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
+
+[^c5092301]: Marginal citation: O.J. No. L 302, 19.10.92, p. 1. as amended by the Act of Accession of Austria, Sweden and Finland (O.J. c. 241, 29.08.1994. p. 21.)
+
+[^c5092311]: Marginal citation: O.J. No. L 159, 30.06.2000, p. 1.
+
+[^key-74d3e0cb763e6563762e3506a214badb]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2764/article/2/1) inserted (30.7.2006) by [The Export Control (Security and Para-military Goods) Order 2006 (S.I. 2006/1696)](https://www.legislation.gov.uk/uksi/2006/1696), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1696/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2006/1696/article/3/c)
+
+[^key-167066e44829d6315b10e3f81c2a58b6]: Textual amendment: Words in art. 2 added (28.3.2005) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) Order 2005 (S.I. 2005/468)](https://www.legislation.gov.uk/uksi/2005/468), [arts. 1](https://www.legislation.gov.uk/uksi/2005/468/article/1), [3](https://www.legislation.gov.uk/uksi/2005/468/article/3)
+
+[^key-2b9f7df6fd9e8941c8a3ded5908825af]: Textual amendment: [Art. 3(1A)](https://www.legislation.gov.uk/uksi/2003/2764/article/3/1A) substituted (11.10.2006) by [The Export Control (Lebanon, etc.) Order 2006 (S.I. 2006/2683)](https://www.legislation.gov.uk/uksi/2006/2683), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2683/article/1), [3](https://www.legislation.gov.uk/uksi/2006/2683/article/3)
+
+[^key-815ac081fa80af4abf7f741c067a95cd]: Textual amendment: Words in art. 3(2) inserted (30.7.2006) by [The Export Control (Security and Para-military Goods) Order 2006 (S.I. 2006/1696)](https://www.legislation.gov.uk/uksi/2006/1696), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1696/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2006/1696/article/4/b)
+
+[^key-2249b2e2152ea836d0a1a0782dbdccfc]: Textual amendment: Words in art. 11(2) substituted (9.2.2005) by [The Export Control (Iraq and Ivory Coast) Order 2005 (S.I. 2005/232)](https://www.legislation.gov.uk/uksi/2005/232), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/232/article/1/1), [6](https://www.legislation.gov.uk/uksi/2005/232/article/6)
+
+[^key-c6df7b80f8e05cf6ec3b9e253d1a7e3a]: Textual amendment: Words in art. 11(6) substituted (9.2.2005) by [The Export Control (Iraq and Ivory Coast) Order 2005 (S.I. 2005/232)](https://www.legislation.gov.uk/uksi/2005/232), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/232/article/1/1), [6](https://www.legislation.gov.uk/uksi/2005/232/article/6)
+
+[^c5092321]: Marginal citation: O.J. No. L 256, 13.09.91, p. 51.
+
+[^c5092331]: Marginal citation: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27) Section 32A inserted by Firearms Act (Amendment) Regulations 1992 [S.I. 1992/2823](https://www.legislation.gov.uk/uksi/1992/2823). regulation 5(1) amended by [Firearms Amendment Act 1997 (c. 5)](https://www.legislation.gov.uk/ukpga/1997/5).
+
+[^c5092341]: Marginal citation: [1988 c. 45](https://www.legislation.gov.uk/ukpga/1988/45).
+
+[^c5092351]: Marginal citation: [S.I. 1981/155](https://www.legislation.gov.uk/uksi/1981/155) (N. 12)
+
+[^c5092361]: Marginal citation: Acts of Tynwald 1947, p. 586
+
+[^c5092371]: Marginal citation: Acts of Tynwald 1968, p. 464
+
+[^c5092381]: Marginal citation: Acts of Tynwald 1968, p. 509
+
+[^key-95024fdd4886908c8f077260cb7985a1]: Textual amendment: Words in art. 11(9)(b) substituted (9.2.2005) by [The Export Control (Iraq and Ivory Coast) Order 2005 (S.I. 2005/232)](https://www.legislation.gov.uk/uksi/2005/232), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/232/article/1/1), [6](https://www.legislation.gov.uk/uksi/2005/232/article/6)
+
+[^key-8c16aa389c0051e91d4083dfc5dd458f]: Textual amendment: Words in art. 11(10) substituted (11.10.2006) by [The Export Control (Lebanon, etc.) Order 2006 (S.I. 2006/2683)](https://www.legislation.gov.uk/uksi/2006/2683), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2683/article/1), [4](https://www.legislation.gov.uk/uksi/2006/2683/article/4)
+
+[^key-f0f9787fa96ee5980607dda8f44d2393]: Textual amendment: Art. 11(11)(b) substituted (30.7.2006) by [The Export Control (Security and Para-military Goods) Order 2006 (S.I. 2006/1696)](https://www.legislation.gov.uk/uksi/2006/1696), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1696/article/1), [5](https://www.legislation.gov.uk/uksi/2006/1696/article/5)
+
+[^key-5521b1c68eb8ce27f18a630efcba7c52]: Textual amendment: Words in [art. 11(11)(b)(i)](https://www.legislation.gov.uk/uksi/2003/2764/article/11/11/b/i) substituted (3.6.2008) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) Order 2008 (S.I. 2008/1281)](https://www.legislation.gov.uk/uksi/2008/1281), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/1281/article/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2008/1281/article/2/1)
+
+[^key-1cbd7408d9bed261d3baf5d22e6b48a9]: Textual amendment: Words in art. 11(11)(b)(iii) inserted (23.8.2006) by [The Export Control (Amendment) Order 2006 (S.I. 2006/2271)](https://www.legislation.gov.uk/uksi/2006/2271), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2271/article/1), [4](https://www.legislation.gov.uk/uksi/2006/2271/article/4)
+
+[^key-a37fcfed11889e80d2f6681e380bea2c]: Textual amendment: Words in art. 11(11)(e) substituted (9.2.2005) by [The Export Control (Iraq and Ivory Coast) Order 2005 (S.I. 2005/232)](https://www.legislation.gov.uk/uksi/2005/232), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/232/article/1/1), [6](https://www.legislation.gov.uk/uksi/2005/232/article/6)
+
+[^key-47c99658088f4713356fa5c0a18e7f89]: Textual amendment: [Art. 12(2)](https://www.legislation.gov.uk/uksi/2003/2764/article/12/2) substituted (30.7.2006) by [The Export Control (Security and Para-military Goods) Order 2006 (S.I. 2006/1696)](https://www.legislation.gov.uk/uksi/2006/1696), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1696/article/1), [6](https://www.legislation.gov.uk/uksi/2006/1696/article/6)
+
+[^key-645201bd4926d01e297a9738263825c7]: Textual amendment: Words in [art. 15(4)](https://www.legislation.gov.uk/uksi/2003/2764/article/15/4) substituted (12.12.2007) by [The Secretaries of State for Children, Schools and Families, for Innovation, Universities and Skills and for Business, Enterprise and Regulatory Reform Order 2007 (S.I. 2007/3224)](https://www.legislation.gov.uk/uksi/2007/3224), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/3224/article/1/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2007/3224/schedule/paragraph/38)
+
+[^key-82ae26943fa372bb1dc725616a50785a]: Textual amendment: Words in art. 15(4) omitted (6.6.2006) by virtue of [The Export Control Order 2006 (S.I. 2006/1331)](https://www.legislation.gov.uk/uksi/2006/1331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1331/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/1331/article/2)
+
+[^key-f256539c63d0be8fe0eb83f1278c9615]: Textual amendment: Art. 16(1)(c) and preceding word inserted (30.7.2006) by [The Export Control (Security and Para-military Goods) Order 2006 (S.I. 2006/1696)](https://www.legislation.gov.uk/uksi/2006/1696), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1696/article/1), [7(a)](https://www.legislation.gov.uk/uksi/2006/1696/article/7/a)
+
+[^key-01772f2c71e95c74344c93c1e5d76280]: Textual amendment: Words in art. 16(4)(5) added (28.3.2005) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) Order 2005 (S.I. 2005/468)](https://www.legislation.gov.uk/uksi/2005/468), [arts. 1](https://www.legislation.gov.uk/uksi/2005/468/article/1), [4](https://www.legislation.gov.uk/uksi/2005/468/article/4)
+
+[^key-67b1d2ac48833a90808434a4985b58d4]: Textual amendment: Art. 16(5A) inserted (30.7.2006) by [The Export Control (Security and Para-military Goods) Order 2006 (S.I. 2006/1696)](https://www.legislation.gov.uk/uksi/2006/1696), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1696/article/1), [7(b)](https://www.legislation.gov.uk/uksi/2006/1696/article/7/b)
+
+[^key-2e2e8a62c65870c6e1fe5371b79bd2d2]: Textual amendment: Words in art. 16(6) substituted (30.7.2006) by [The Export Control (Security and Para-military Goods) Order 2006 (S.I. 2006/1696)](https://www.legislation.gov.uk/uksi/2006/1696), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1696/article/1), [7(c)](https://www.legislation.gov.uk/uksi/2006/1696/article/7/c)
+
+[^key-93204fada6fe4a08c074817a095f6263]: Textual amendment: Words in art. 21(2) inserted (30.7.2006) by [The Export Control (Security and Para-military Goods) Order 2006 (S.I. 2006/1696)](https://www.legislation.gov.uk/uksi/2006/1696), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1696/article/1), [8](https://www.legislation.gov.uk/uksi/2006/1696/article/8)
+
+[^key-62cdd56eda1638b1a4726467564870be]: Textual amendment: Art. 21(6) substituted (30.7.2006) by [The Export Control (Security and Para-military Goods) Order 2006 (S.I. 2006/1696)](https://www.legislation.gov.uk/uksi/2006/1696), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1696/article/1), [9](https://www.legislation.gov.uk/uksi/2006/1696/article/9)
+
+[^key-35f6d0c6b2bde2413f4a9b6647a517fb]: Textual amendment: Art. 21(8)(9) added (28.3.2005) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) Order 2005 (S.I. 2005/468)](https://www.legislation.gov.uk/uksi/2005/468), [arts. 1](https://www.legislation.gov.uk/uksi/2005/468/article/1), [5](https://www.legislation.gov.uk/uksi/2005/468/article/5)
+
+[^key-b488977b46362abc32ba2af678f75432]: Textual amendment: Words in art. 21(8) substituted (30.7.2006) by [The Export Control (Security and Para-military Goods) Order 2006 (S.I. 2006/1696)](https://www.legislation.gov.uk/uksi/2006/1696), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1696/article/1), [10](https://www.legislation.gov.uk/uksi/2006/1696/article/10)
+
+[^key-30f6a7864a41b46841afe4c454907a58]: Textual amendment: Art. 21(9) substituted (30.7.2006) by [The Export Control (Security and Para-military Goods) Order 2006 (S.I. 2006/1696)](https://www.legislation.gov.uk/uksi/2006/1696), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1696/article/1), [11](https://www.legislation.gov.uk/uksi/2006/1696/article/11)
+
+[^key-21f09592e0f21e5a89eb72ad03d236bf]: Textual amendment: Words in [art. 21(9)(a)](https://www.legislation.gov.uk/uksi/2003/2764/article/21/9/a) repealed (23.8.2006) by [The Export Control (Amendment) Order 2006 (S.I. 2006/2271)](https://www.legislation.gov.uk/uksi/2006/2271), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2271/article/1), [5](https://www.legislation.gov.uk/uksi/2006/2271/article/5)
+
+[^key-331986f1816d15adfb1e40665dffb99e]: Textual amendment: Words in [art. 23](https://www.legislation.gov.uk/uksi/2003/2764/article/23) substituted (12.12.2007) by [The Secretaries of State for Children, Schools and Families, for Innovation, Universities and Skills and for Business, Enterprise and Regulatory Reform Order 2007 (S.I. 2007/3224)](https://www.legislation.gov.uk/uksi/2007/3224), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/3224/article/1/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2007/3224/schedule/paragraph/38)
+
+[^key-7fd38db999dc7a6db763a47c349b7edf]: Textual amendment: Words in art. 23 omitted (6.6.2006) by virtue of [The Export Control Order 2006 (S.I. 2006/1331)](https://www.legislation.gov.uk/uksi/2006/1331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1331/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/1331/article/2)
+
+[^key-9f76d9315cb436d386e9f18878f7ceb2]: Textual amendment: Sch. 1 substituted (3.6.2008) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) Order 2008 (S.I. 2008/1281)](https://www.legislation.gov.uk/uksi/2008/1281), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1281/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1281/schedule/1)
+
+[^key-f6f9a42f129a82eea87a1e34a9cf963d]: Textual amendment: Words in Sch. 1 inserted (2.1.2009) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) (No. 2) Order 2008 (S.I. 2008/3161)](https://www.legislation.gov.uk/uksi/2008/3161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3161/article/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2008/3161/article/2/1/a)
+
+[^key-fc1d1445154fa88f69998eb8ac0bf72f]: Textual amendment: Sch. 1: Sch. 1 Entry ML2 Note renumbered Sch. 1 Entry ML2 Note 1 (2.1.2009) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) (No. 2) Order 2008 (S.I. 2008/3161)](https://www.legislation.gov.uk/uksi/2008/3161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3161/article/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2008/3161/article/2/1/b)
+
+[^key-1e23648a85aa5cc6a8042a61d36c5f02]: Textual amendment: Sch. 1 Entry ML2 Note 2 inserted (2.1.2009) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) (No. 2) Order 2008 (S.I. 2008/3161)](https://www.legislation.gov.uk/uksi/2008/3161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3161/article/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2008/3161/article/2/1/b)
+
+[^key-11f12d2ac163a257801340a5040b8cb6]: Textual amendment: Sch. 1 Entry PL5035 inserted (2.1.2009) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) (No. 2) Order 2008 (S.I. 2008/3161)](https://www.legislation.gov.uk/uksi/2008/3161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3161/article/1/1), [2(1)(c)](https://www.legislation.gov.uk/uksi/2008/3161/article/2/1/c)
+
+[^key-1d5c3827bf51b4d9043d3724f6e4a452]: Textual amendment: Word in Sch. 1 substituted (2.1.2009) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) (No. 2) Order 2008 (S.I. 2008/3161)](https://www.legislation.gov.uk/uksi/2008/3161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3161/article/1/1), [2(1)(d)](https://www.legislation.gov.uk/uksi/2008/3161/article/2/1/d)
+
+[^key-999e640066e05373681fbc3973598004]: Textual amendment: Words in Sch. 1 inserted (2.1.2009) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) (No. 2) Order 2008 (S.I. 2008/3161)](https://www.legislation.gov.uk/uksi/2008/3161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3161/article/1/1), [2(1)(e)](https://www.legislation.gov.uk/uksi/2008/3161/article/2/1/e)
+
+[^key-b00d6425915c508726d9050565f8d779]: Textual amendment: Words in Sch. 1 substituted (2.1.2009) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) (No. 2) Order 2008 (S.I. 2008/3161)](https://www.legislation.gov.uk/uksi/2008/3161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3161/article/1/1), [2(1)(f)(i)](https://www.legislation.gov.uk/uksi/2008/3161/article/2/1/f/i)
+
+[^key-5a2dac3be45e48f88cb42ddb29befd8f]: Textual amendment: Word in Sch. 1 omitted (2.1.2009) by virtue of [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) (No. 2) Order 2008 (S.I. 2008/3161)](https://www.legislation.gov.uk/uksi/2008/3161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3161/article/1/1), [2(1)(f)(ii)](https://www.legislation.gov.uk/uksi/2008/3161/article/2/1/f/ii)
+
+[^key-ed709b26390e8cf5f6af377b4f2a2382]: Textual amendment: Words in Sch. 1 inserted (2.1.2009) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) (No. 2) Order 2008 (S.I. 2008/3161)](https://www.legislation.gov.uk/uksi/2008/3161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3161/article/1/1), [2(1)(g)](https://www.legislation.gov.uk/uksi/2008/3161/article/2/1/g)
+
+[^key-7a637edfadc03b05f6e8ce6a77f34279]: Textual amendment: Words in Sch. 1 inserted (2.1.2009) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) (No. 2) Order 2008 (S.I. 2008/3161)](https://www.legislation.gov.uk/uksi/2008/3161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3161/article/1/1), [2(1)(h)](https://www.legislation.gov.uk/uksi/2008/3161/article/2/1/h)
+
+[^key-111e97dd6e033db5b43441f27145c438]: Textual amendment: Word in Sch. 1 substituted (2.1.2009) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) (No. 2) Order 2008 (S.I. 2008/3161)](https://www.legislation.gov.uk/uksi/2008/3161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3161/article/1/1), [2(1)(i)](https://www.legislation.gov.uk/uksi/2008/3161/article/2/1/i)
+
+[^key-152da9d4947388d70856f02c21515dda]: Textual amendment: Words in Sch. 1 inserted (2.1.2009) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) (No. 2) Order 2008 (S.I. 2008/3161)](https://www.legislation.gov.uk/uksi/2008/3161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3161/article/1/1), [2(1)(j)](https://www.legislation.gov.uk/uksi/2008/3161/article/2/1/j)
+
+[^key-6a96c09ea2b524915de7269a290c30d4]: Textual amendment: Words in Sch. 1 inserted (2.1.2009) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) (No. 2) Order 2008 (S.I. 2008/3161)](https://www.legislation.gov.uk/uksi/2008/3161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3161/article/1/1), [2(1)(k)](https://www.legislation.gov.uk/uksi/2008/3161/article/2/1/k)
+
+[^key-7b52c4a3abc177d585744cf50b8eb6d9]: Textual amendment: Word in Sch. 1 substituted (2.1.2009) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) (No. 2) Order 2008 (S.I. 2008/3161)](https://www.legislation.gov.uk/uksi/2008/3161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3161/article/1/1), [2(1)(l)](https://www.legislation.gov.uk/uksi/2008/3161/article/2/1/l)
+
+[^key-9a9850388e97e4caf71ac026c69a1f0e]: Textual amendment: Words in Sch. 1 inserted (2.1.2009) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) (No. 2) Order 2008 (S.I. 2008/3161)](https://www.legislation.gov.uk/uksi/2008/3161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3161/article/1/1), [2(1)(m)](https://www.legislation.gov.uk/uksi/2008/3161/article/2/1/m)
+
+[^key-6f8e0a091dd6fe1855c2aa9885370f2f]: Textual amendment: Words in Sch. 1 inserted (2.1.2009) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) (No. 2) Order 2008 (S.I. 2008/3161)](https://www.legislation.gov.uk/uksi/2008/3161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3161/article/1/1), [2(1)(n)](https://www.legislation.gov.uk/uksi/2008/3161/article/2/1/n)
+
+[^key-d394b0ef3b724344b74a8f4162091413]: Textual amendment: Words in Sch. 1 inserted (2.1.2009) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) (No. 2) Order 2008 (S.I. 2008/3161)](https://www.legislation.gov.uk/uksi/2008/3161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3161/article/1/1), [2(1)(o)](https://www.legislation.gov.uk/uksi/2008/3161/article/2/1/o)
+
+[^key-8c1bb0bc1d69f9843afbaa8cbb585071]: Textual amendment: Sch. 1A inserted (30.7.2006) by [The Export Control (Security and Para-military Goods) Order 2006 (S.I. 2006/1696)](https://www.legislation.gov.uk/uksi/2006/1696), [art. 1](https://www.legislation.gov.uk/uksi/2006/1696/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1696/schedule/1)
+
+[^key-cd29f32b095b25e7e155f5e544cf759f]: Textual amendment: Words in Sch. 2 inserted (6.6.2006) by [The Export Control Order 2006 (S.I. 2006/1331)](https://www.legislation.gov.uk/uksi/2006/1331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1331/article/1/1), [4](https://www.legislation.gov.uk/uksi/2006/1331/article/4)
+
+[^key-2a73dc5b0cd0e5347583c5202458d6db]: Textual amendment: Words in Sch. 2 inserted (19.7.2007) by [The Export and Trade Control Order 2007 (S.I. 2007/1863)](https://www.legislation.gov.uk/uksi/2007/1863), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1863/article/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2007/1863/schedule/2/paragraph/1)
+
+[^key-23dc29c1f0a0a5509fe27e266566edee]: Textual amendment: Words in Sch. 2 inserted (6.6.2006) by [The Export Control Order 2006 (S.I. 2006/1331)](https://www.legislation.gov.uk/uksi/2006/1331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1331/article/1/1), [5](https://www.legislation.gov.uk/uksi/2006/1331/article/5)
+
+[^key-54b22fe0c6a79bfeb60f15a2923d6a3d]: Textual amendment: Words in Sch. 2 omitted (30.7.2006) by virtue of [The Export Control (Security and Para-military Goods) Order 2006 (S.I. 2006/1696)](https://www.legislation.gov.uk/uksi/2006/1696), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1696/article/1), [14](https://www.legislation.gov.uk/uksi/2006/1696/article/14)
+
+[^key-90c41ea53a77e2918cd9e72ae29a2d37]: Textual amendment: Words in Sch. 2 omitted (6.6.2006) by virtue of [The Export Control Order 2006 (S.I. 2006/1331)](https://www.legislation.gov.uk/uksi/2006/1331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1331/article/1/1), [6](https://www.legislation.gov.uk/uksi/2006/1331/article/6)
+
+[^key-238532cc687bd64bbda5823218e582ef]: Textual amendment: Word in Sch. 2 inserted (3.6.2008) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) Order 2008 (S.I. 2008/1281)](https://www.legislation.gov.uk/uksi/2008/1281), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1281/article/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/1281/schedule/2/paragraph/1)
+
+[^key-00c538e0ea10dda9a0475976115b8204]: Textual amendment: Words in Sch. 2 substituted (3.6.2008) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) Order 2008 (S.I. 2008/1281)](https://www.legislation.gov.uk/uksi/2008/1281), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1281/article/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/1281/schedule/2/paragraph/2)
+
+[^key-e271a32dbdcfcd7e2a4775ed16992692]: Textual amendment: Word in Sch. 2 inserted (3.6.2008) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) Order 2008 (S.I. 2008/1281)](https://www.legislation.gov.uk/uksi/2008/1281), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1281/article/1/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2008/1281/schedule/2/paragraph/3)
+
+[^key-e2150948af05776469fc715a42b8afb8]: Textual amendment: Word in Sch. 2 inserted (3.6.2008) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) Order 2008 (S.I. 2008/1281)](https://www.legislation.gov.uk/uksi/2008/1281), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1281/article/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2008/1281/schedule/2/paragraph/4)
+
+[^key-0ca62351115ca6e1a8120149798a8c9c]: Textual amendment: Words in Sch. 2 inserted (3.6.2008) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) Order 2008 (S.I. 2008/1281)](https://www.legislation.gov.uk/uksi/2008/1281), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1281/article/1/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2008/1281/schedule/2/paragraph/5)
+
+[^key-e9aaed21432d7e3ffa53301a4ee15f6a]: Textual amendment: Words in Sch. 2 inserted (3.6.2008) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) Order 2008 (S.I. 2008/1281)](https://www.legislation.gov.uk/uksi/2008/1281), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1281/article/1/1), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2008/1281/schedule/2/paragraph/6/a)
+
+[^key-4f0d8a2e993e42e3bf982bcf2f994d6d]: Textual amendment: Words in Sch. 2 substituted (3.6.2008) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) Order 2008 (S.I. 2008/1281)](https://www.legislation.gov.uk/uksi/2008/1281), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1281/article/1/1), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2008/1281/schedule/2/paragraph/6/b)
+
+[^key-5e255d4801079db3f50c3d0519341143]: Textual amendment: Words in Sch. 2 substituted (19.7.2007) by [The Export and Trade Control Order 2007 (S.I. 2007/1863)](https://www.legislation.gov.uk/uksi/2007/1863), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1863/article/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2007/1863/schedule/2/paragraph/2)
+
+[^key-cd1228478f69f1c04667264b5c46e61b]: Textual amendment: Words in Sch. 2 substituted (19.7.2007) by [The Export and Trade Control Order 2007 (S.I. 2007/1863)](https://www.legislation.gov.uk/uksi/2007/1863), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1863/article/1/1), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2007/1863/schedule/2/paragraph/3/a)
+
+[^key-99bc9c35733048bb3cf065f04a3c690d]: Textual amendment: Words in Sch. 2 inserted (19.7.2007) by [The Export and Trade Control Order 2007 (S.I. 2007/1863)](https://www.legislation.gov.uk/uksi/2007/1863), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1863/article/1/1), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2007/1863/schedule/2/paragraph/3/b)
+
+[^key-c4780da360babbcc191217e57791b96e]: Textual amendment: Entry in Sch. 2 omitted (19.7.2007) by virtue of [The Export and Trade Control Order 2007 (S.I. 2007/1863)](https://www.legislation.gov.uk/uksi/2007/1863), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1863/article/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2007/1863/schedule/2/paragraph/4)
+
+[^key-b23781d74c2a5acf29d6d93ee29ce835]: Textual amendment: Word in Sch. 2 inserted (3.6.2008) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) Order 2008 (S.I. 2008/1281)](https://www.legislation.gov.uk/uksi/2008/1281), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1281/article/1/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2008/1281/schedule/2/paragraph/7)
+
+[^key-726e07729d91dc27bebc4afefb0a3252]: Textual amendment: Words in Sch. 2 omitted (19.7.2007) by virtue of [The Export and Trade Control Order 2007 (S.I. 2007/1863)](https://www.legislation.gov.uk/uksi/2007/1863), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1863/article/1/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2007/1863/schedule/2/paragraph/5)
+
+[^key-55d72186dae54fa8209cd5427e382d90]: Textual amendment: Words in Sch. 3 omitted (6.3.2006) by virtue of [The Export Control (Bosnia and Herzegovina) Order 2006 (S.I. 2006/300)](https://www.legislation.gov.uk/uksi/2006/300), [arts. 1](https://www.legislation.gov.uk/uksi/2006/300/article/1), [2](https://www.legislation.gov.uk/uksi/2006/300/article/2)
+
+[^key-236ae3a05319b8b31adca0e642db1c00]: Textual amendment: Words in Sch. 3 added (9.2.2005) by [The Export Control (Iraq and Ivory Coast) Order 2005 (S.I. 2005/232)](https://www.legislation.gov.uk/uksi/2005/232), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/232/article/1/1), [7](https://www.legislation.gov.uk/uksi/2005/232/article/7)
+
+[^key-7d5c50388b4440428c6405ffd07bf9f0]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2003/2764/schedule/3) added (11.10.2006) by [The Export Control (Lebanon, etc.) Order 2006 (S.I. 2006/2683)](https://www.legislation.gov.uk/uksi/2006/2683), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2683/article/1), [5](https://www.legislation.gov.uk/uksi/2006/2683/article/5)
+
+[^key-d30b2fbfe256a2d0e4f6be2c6c0db682]: Textual amendment: Word in Sch. 3 added (26.11.2005) by [The Export Control (Uzbekistan) Order 2005 (S.I. 2005/3257)](https://www.legislation.gov.uk/uksi/2005/3257), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/3257/article/1/1), [7](https://www.legislation.gov.uk/uksi/2005/3257/article/7)
+
+[^key-0cb991686a750e7d6d9547c0f2b748a7]: Textual amendment: Sch. 5 substituted (31.10.2004) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment No.2) Order 2004 (S.I. 2004/2561)](https://www.legislation.gov.uk/uksi/2004/2561), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/2561/article/1/1), [2](https://www.legislation.gov.uk/uksi/2004/2561/article/2)
+
+[^key-f415b827e1357028f8ed7b204b4019e2]: Textual amendment: Words in Sch. 5 substituted (2.1.2009) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Amendment) (No. 2) Order 2008 (S.I. 2008/3161)](https://www.legislation.gov.uk/uksi/2008/3161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/3161/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/3161/article/2/2)

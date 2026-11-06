@@ -1,0 +1,172 @@
+---
+title: Agricultural, Fishery and Aquaculture Products (Improvement Grant) Regulations 1991
+id: uksi/1991/777
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1991-03-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1991/777
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1991/777/made/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Agricultural, Fishery and Aquaculture Products (Improvement Grant) Regulations 1991
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1991 No. 777
+
+AGRICULTURE
+
+SEA FISHERIES
+
+FISHERIES
+
+Agricultural, Fishery and Aquaculture Products (Improvement Grant)Regulations 1991
+
+Approved by both Houses of Parliament
+
+Made
+
+20th March 1991
+
+Coming into force
+
+21st March 1991
+
+The Minister of Agriculture, Fisheries and Food and the Secretary ofState, being Ministers designated[^f00001] for the purposes of section 2(2) of the EuropeanCommunities Act 1972[^f00002] in relation to the common agricultural policy of theEuropean Economic Community, acting jointly, in exercise of the powersconferred on them by the said section 2(2) and of all other powersenabling them in that behalf, hereby make the following Regulations ofwhich a draft has been approved by resolution of each House ofParliament:—
+
+## 1. Title, extent and commencement
+
+These Regulations, which may be cited as the Agricultural, Fisheryand Aquaculture Products (Improvement Grant) Regulations 1991, shallapply in Great Britain and shall come into force on the day after theday on which they are made.
+
+## 2. Interpretation
+
+(1) In these Regulations, unless the context otherwiserequires—
+
+- “applicant”, in relation to the approval of expenditure for the purposes ofCommunity aid or of a grant under these Regulations, means the personwho is making or has made the application for that approval;
+- “the appropriate Minister” means, in relation to England, the Minister of Agriculture,Fisheries and Food and, in relation to Wales or Scotland, the Secretaryof State;
+- “approved” means approved by the appropriate Minister in writing, and“approve” and“approval” shall be construed accordingly;
+- “authorised officer” means an officer authorised by the appropriate Minister for thepurposes of these Regulations;
+- “the Commission” means the Commission of the European Communities;
+- “Community aid” means aid from the Guidance section of the European AgriculturalGuidance and Guarantee Fund payable in accordance with the CouncilRegulations;
+- “the Council Regulations” means Council Regulation [(EEC) No 4028/86](https://www.legislation.gov.uk/european/regulation/1986/4028) on Community measures toimprove and adapt structures in the fisheries and aquaculture sector[^f00003], Council Regulation [(EEC) No 4042/89](https://www.legislation.gov.uk/european/regulation/1989/4042) on the improvementof the conditions under which fishery and aquaculture products areprocessed and marketed[^f00004] and Council Regulation [(EEC) No 866/90](https://www.legislation.gov.uk/european/regulation/1990/0866) on improving theprocessing and marketing conditions of agricultural products[^f00005];
+- “eligible expenditure” means, in relation to any operation, expenditure which theappropriate Minister has approved for the receipt of Community aid; and
+- “operation” means an investment or project in respect of which Community aid isclaimed or paid.
+
+(2) Other expressions used in these Regulations have, insofar as thecontext admits, the same meanings as in the Council Regulations.
+
+## 3. Improvement grants in respect of the processing and marketing ofagricultural, fishery and aquaculture products and the provision offacilities at fishing ports
+
+(1) The appropriate Minister may make to any applicant a grant towardseligible expenditure incurred in connection with an operation.
+
+(2) The amount of any such grant shall be 5 per cent of the eligibleexpenditure or such other sum which when added to any other grantpayable under United Kingdom public funds in relation to the eligibleexpenditure equals 5 per cent of such expenditure.
+
+## 4. Approval of expenditure and payment of grant
+
+(1) Applications for approval of expenditure for the purposes ofCommunity aid and for the purposes of a grant under these Regulationsshall be made in such form and manner and at such time as theappropriate Minister may from time to time require and the applicantshall furnish all such particulars and information relating to theapplication as the appropriate Minister may require.
+
+(2) The appropriate Minister may either refuse to approve expenditure,or approve it in whole or in part, for the purposes of Community aid orfor the purposes of a grant under these Regulations and any suchapproval may be given, or any payments by way of Community aid and ofgrant made, subject to such conditions as the appropriate Ministerthinks fit.
+
+(3) Approval of expenditure for the purposes of Community aid and forthe purposes of a grant under these Regulations may be varied by theappropriate Minister with the applicant’s written consent.
+
+(4) Payments by way of Community aid and of grant under theseRegulations may be made at such time, or by such instalments at suchintervals or times, as the appropriate Minister may determine.
+
+## 5. Records
+
+An applicant shall preserve invoices, accounts and any otherrelevant documents as proof of expenditure incurred in connection withan operation, shall retain them for three years from the last payment ofCommunity aid or of grant under these Regulations in respect of thatoperation and shall produce them for inspection if so required by anauthorised officer.
+
+## 6. Powers of entry
+
+(1) For the purposes of ascertaining whether in respect of anyoperation—
+
+- (a) any amount of Community aid or of grant under these Regulations ispayable or recoverable; or
+- (b) an offence under these Regulations has been, or is being, committedof his authority, at any reasonable time enter upon any land to whichthe operation relates.
+
+(2) An authorised officer who has entered any land in accordance withparagraph (1) of this regulation may—
+
+- (a) inspect that land and any equipment on it to which the operationrelates; and
+- (b) require the applicant to produce for inspection, and allow theofficer to make a copy of, or extracts from, and to examine and removefor a reasonable period, any invoice, account or other document relatingto that application which is relevant to the purposes mentioned inparagraph (1) of this regulation.
+
+## 7. False statements
+
+(1) If any person, for the purposes of obtaining for himself or anyother person Community aid or any grant under these Regulations,knowingly or recklessly makes a false statement, he shall be liable onsummary conviction to a fine not exceeding level 5 on the standardscale.
+
+(2) Any information relating to the offence referred to in paragraph (1)of this regulation which is triable by a magistrates' court in Englandand Wales may be so tried if it is laid at any time within five yearsafter the commission of the offence and within six months after therelevant date.
+
+(3) Summary proceedings for such an offence may be commenced in Scotlandat any time within five years after the commission of the offence andwithin six months after the relevant date; and for the purposes of thisparagraph proceedings shall be deemed to be commenced on the date onwhich a warrant to apprehend or to cite the accused is granted, if sucha warrant is executed without undue delay.
+
+(4) In this regulation“relevant date” means the date on which evidence sufficient in the opinion of theprosecutor to justify proceedings comes to his knowledge.
+
+(5) For the purposes of paragraph (4) of this regulation, a certificateof the prosecutor as to the date on which such evidence as is therementioned came to his knowledge shall be conclusive evidence of thatfact.
+
+## 8. Revocation of approval and recovery of grant
+
+(1) If at any time after the appropriate Minister has approved anyexpenditure for the purposes of Community aid or for the purposes of agrant under these Regulations it appears to that Ministerthat—
+
+- (a) any condition subject to which the approval was given or the granthas been made or the Community aid has been paid has not been compliedwith;
+- (b) the operation in respect of which the expenditure was incurred hasnot been in fact carried out or has not been properly carried out;
+- (c) the operation has been or is being unreasonably delayed, or isunlikely to be completed;
+- (d) the operation was commenced more than six months before the date onwhich the Commission received the application for Community aid;
+- (e) the Commission has decided to reduce, suspend or discontinueCommunity aid and to recover any sums unduly paid; or
+- (f) the applicant—
+  - (i) has failed to comply with a requirement imposed under regulation 5or 6(2)(b) above;
+  - (ii) has intentionally obstructed any officer in the exercise of hispowers under regulation 6 above; or
+  - (iii) has given information on any matter relevant to the giving of theapproval or the making of the payment which is false or misleading in amaterial particular
+
+the appropriate Minister may revoke the approval in respect of the whole or part of the expenditure and, where any payment has been made byway of Community aid or of grant under these Regulations, may on demandrecover an amount equal to the whole or any part of the payment whichhas been so made.
+
+(2) Before revoking an approval in whole or in part under paragraph (a),(b), (c), (d) or (f) of this regulation the appropriate Ministershall—
+
+- (a) give to the applicant a written notification of the reasons for theaction proposed to be taken by the appropriate Minister,
+- (b) afford that person an opportunity of appearing before and beingheard by a person appointed for the purpose by the appropriate Minister,and
+- (c) consider the report by a person so appointed and supply a copy ofthe report to the person mentioned in paragraph (a) above.
+
+In witness whereof the Official Seal of the Minister ofAgriculture, Fisheries and Food is hereto affixed on 18th March 1991.
+
+Trumpington
+
+Minister of State, Ministry of Agriculture, Fisheries and Food
+
+Strathclyde
+
+Parliamentary Under Secretary of State, Scottish Office
+
+20th March 1991
+
+(This note is not part of the Regulations)
+
+These Regulations, which come into force on 21st March 1991 andapply throughout Great Britain, supplement Council Regulation (EEC) No866/90 (OJ No L91, 6.4.90, p.1), Council Regulation [(EEC) No 4042/89](https://www.legislation.gov.uk/european/regulation/1989/4042) (OJNo L388, 30.12.89, p.1) and provisions of Council Regulation (EEC) No4028/86 (OJ No L376, 31.12.86, p.7) (“the Council Regulations”) which respectively contain measures for improving—
+
+- (a) the processing and marketing conditions of agricultural products;
+- (b) the processing and marketing conditions of fishery and aquacultureproducts; and
+- (c) the facilities by which fisheries products are produced, landed andoffered for sale at fishing ports.
+
+The Council Regulations empower the Commission to grant aid from theGuidance Section of the European Agricultural Guidance and GuaranteeFund (“the Guidance Fund”) towards investments or projects which fufil those objectives andtowards which the Member States on the territory of which theinvestments or projects are to be located make a financial contribution.
+
+The Regulations—
+
+- (a) empower Ministers to make grants towards expenditure in respect ofinvestments or projects approved for the payment of aid from theGuidance Fund of amounts sufficient to enable those investments orprojects to qualify for that aid (regulation 3);
+- (b) lay down procedures for approval of expenditure for the purposes ofCommunity aid and of a grant under the Regulations, and for the paymentof such Community aid or grant (regulation 4),
+- (c) confer on applicants a duty to keep, retain and produce records ofexpenditure (regulation 5),
+- (d) confer on authorised officers of the appropriate Minister powers toenter upon land and to require the production of documents (regulation6),
+- (e) create an offence in respect of false statements made to obtainCommunity aid or grant (regulation 7), and
+- (f) specify circumstances in which approval of expenditure may berevoked and Community aid or grant may be recovered (regulation 8).
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2 is subject to Schedule 2 to thatAct and is to be read, as regards England and Wales, with sections 37,40 and 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48) and with section 52(4)of the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33) and with S.I. [1984/447](https://www.legislation.gov.uk/uksi/1984/447); and, asregards Scotland, with section 289GA(2) of the Criminal Procedure(Scotland) Act [1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), as inserted by section 66 of the CriminalJustice (Scotland) Act [1987 (c. 41)](https://www.legislation.gov.uk/ukpga/1987/41), and with S.I. [1984/526](https://www.legislation.gov.uk/uksi/1984/526).
+
+[^f00003]: Footnote: OJ No L376, 31.12.86, p.7.
+
+[^f00004]: Footnote: OJ No L388, 30.12.89, p.1.
+
+[^f00005]: Footnote: OJ No L91, 6.4.90, p.1.

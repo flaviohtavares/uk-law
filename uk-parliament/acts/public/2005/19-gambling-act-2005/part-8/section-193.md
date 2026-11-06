@@ -1,0 +1,29 @@
+---
+title: Gambling Act 2005, section 193
+act: Gambling Act 2005
+section: '193'
+status: revised-with-pending-changes
+text_date: '2025-07-22'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2005/19/section/193
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Gambling Act 2005, section 193
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 193. Revocation for failure to pay fee[^key-c98c30df62a19b5b6b9d850e0ff86f72]
+
+*Extent: E+W+S*
+
+(1) Where the holder of a premises licence fails to pay the annual fee in accordance with regulations under section 184 the licensing authority shall revoke the licence.
+
+(2) But the licensing authority may disapply subsection (1) if they think that a failure to pay is attributable to administrative error.
+
+## Annotations
+
+[^key-c98c30df62a19b5b6b9d850e0ff86f72]: Commencement: [S. 193](https://www.legislation.gov.uk/ukpga/2005/19/section/193) in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)

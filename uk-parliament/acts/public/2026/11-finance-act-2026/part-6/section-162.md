@@ -1,0 +1,50 @@
+---
+title: Finance Act 2026, section 162
+act: Finance Act 2026
+section: '162'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2026/11/section/162
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2026, section 162
+
+> **Warning: changes not yet applied to this text (118).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/11
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 162. Civil penalties
+
+*Extent: E+W+S+N.I.*
+
+(1) A person who promotes arrangements in breach of section 159(1) is liable to a penalty.
+
+(2) The maximum penalty under this section is the sum of—
+
+- (a) £1,000,000, and
+- (b) £5,000 for each person who participated in the arrangements.
+
+(3) Before imposing a penalty under this section, an authorised officer of Revenue and Customs must—
+
+- (a) notify the person of the fact that the authorised officer considers subsection (1) to apply, and
+- (b) allow the person 30 days from the date of notification to make representations to HMRC.
+
+(4) In imposing a penalty under this section, an authorised officer of Revenue and Customs must have regard to—
+
+- (a) the number of persons participating, or targeted to participate, in the arrangements,
+- (b) the amount of tax that was likely at risk in connection with the arrangements,
+- (c) whether and to what extent the person cooperated with HMRC, and
+- (d) whether the wrongdoing was repeated, or continued over an extended period.
+
+(5) A penalty imposed under this section is to be treated as a penalty determined under section 100(1) of TMA 1970.
+
+(6) A penalty imposed under this section is to carry interest in accordance with section 101 of FA 2009.
+
+(7) A person is not liable to a penalty under this section in respect of anything for which the person has been convicted of an offence.
+
+(8) In paragraph 5(6) of Schedule 13 to FA 2020 (joint and several liability of company directors etc) after paragraph (f) insert—
+
+> - (g) section 162 of FA 2026 (prohibition of promotion of certain tax avoidance arrangements: penalties).

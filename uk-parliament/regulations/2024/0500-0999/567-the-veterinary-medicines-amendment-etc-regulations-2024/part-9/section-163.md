@@ -1,0 +1,22 @@
+---
+title: The Veterinary Medicines (Amendment etc.) Regulations 2024, section 163
+act: The Veterinary Medicines (Amendment etc.) Regulations 2024
+section: '163'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2024/567/section/163
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Veterinary Medicines (Amendment etc.) Regulations 2024, section 163
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 163. Amendment to paragraph 4
+
+In paragraph 4 (multiple inspections)—
+
+- (a) omit “, approval”;
+- (b) after “time,” insert “and in relation to the same legal entity,”.

@@ -1,0 +1,1129 @@
+---
+title: The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015
+id: uksi/2015/1677
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-09-09'
+text_date: '2023-12-20'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2015/1677
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/1677/pdfs/uksiem_20151677_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1677/pdfs/uksi_20151677_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1677/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015
+
+> Text as at 2023-12-20.
+
+This Statutory Instrument has been made in consequence of a defect in [S.I. 2015/1452](https://www.legislation.gov.uk/uksi/2015/1452) and is being issued free of charge to all known recipients of that Statutory Instrument.
+
+2015 No. 1677
+
+Pensions
+
+The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015
+
+Made
+
+9th September 2015
+
+Laid before Parliament
+
+16th September 2015
+
+Coming into force in accordance with regulation 1(2)
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers set out in the Schedule.
+
+The Secretary of State has consulted such persons as the Secretary of State considers appropriate, in accordance with section 185(1) of the Pension Schemes Act 1993[^f00001].
+
+## PART 1 — GENERAL
+
+### 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015.
+
+(2) These Regulations come into force—
+
+- (a) for the purposes of regulation 45, on 31st October 2015;
+- (b) for all purposes, other than that of regulation 33 and 45, on 6th April 2016; and
+- (c) for the purposes of regulation 33, on 6th April 2019.
+
+(3) These Regulations, except for Part 8, extend to England and Wales and Scotland.
+
+(4) Parts 8 and 9, and this regulation and regulation 2 in so far as they relate to those Parts, extend to Northern Ireland.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “the 1993 Act” means the Pension Schemes Act 1993;
+- “the 1995 Act” means the Pensions Act 1995;
+- “the 2004 Act” means the Pensions Act 2004;
+- “the 1996 Regulations” means the Occupational Pension Schemes (Contracting-out) Regulations 1996;
+- “administrator” means the person resident in the United Kingdom having responsibility for the management of an occupational pension scheme or, in the case of an overseas scheme (within the meaning of regulation 6), the person who is appointed in accordance with section 270 of the Finance Act;
+- “bereavement support payment” means the benefit described in section 30 (bereavement support payment) of the Pensions Act 2014;[^key-da455b6526a85cec5bf4c8f9820c74a9]
+- “the Commissioners” means the Commissioners for Her Majesty’s Revenue and Customs;
+- “the Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992;
+- “the Finance Act” means the Finance Act 2004;
+- “scheme reconciliation service” means the service set up by the Commissioners which allows schemes to compare the scheme’s records of members who have been contracted-out, and the value of members’ guaranteed minimum pensions, with the Commissioner’s records of the same, with a view to removing any errors in the scheme’s or the Commissioner’s records;[^key-b24542877d1290e78f6d7f923a73b1f4]
+- “section 9(2B) rights” are—
+  - (a) rights to the payment of pensions and accrued rights to pensions (other than rights attributable to voluntary contributions)—[^key-ea793103406bd2b27e0c426e478cf64c]
+    - (i) under a scheme that was a salary-related contracted-out scheme, or
+    - (ii) under a salary-related scheme, as defined in regulation 1(2) of the Contracting-out (Transfer and Transfer Payment) Regulations 1996, that has never been a contracted-out scheme, following a transfer in accordance with regulation 9 of those Regulations,
+
+    so far as attributable to an earner’s service in contracted-out employment on or after 6th April 1997; and
+  - (b) where a transfer payment has been made (other than a payment made in accordance with regulation 10 (transfers payments to occupational and personal pension schemes in respect of section 9(2B) rights) of the Contracting-out (Transfer and Transfer Payment) Regulations 1996)[^key-9869786a2efd6c1ff53143ecadf34af8] to such a scheme, whether before or after the second abolition date,[^key-8029318afec0c1d291c839c866d4449e] any rights arising under the scheme as a consequence of that payment which are derived directly or indirectly from—
+    - (i) such rights as are referred to in paragraph (a) under another salary-related scheme[^key-3bef19775dd5ad8871fc782c94ce7d90]; or
+    - (ii) protected rights under another occupational pension scheme or under a personal pension scheme attributable to payments or contributions in respect of employment on or after the principal appointed day where that transfer payment was made before the first abolition date;
+- “trustees” in relation to a scheme which is not set up or established under a trust, means the managers or administrators of the scheme.
+
+(2) For the purposes of these Regulations—
+
+- (a) any person, government department or public authority who, under or by virtue of Part 1 of the Contributions and Benefits Act is, or is to be treated as, the secondary Class 1 contributor, is to be treated as the employer of the earner in respect of whom the Class 1 contributions are payable;
+- (b) without prejudice to sub-paragraph (a), there is to be treated as the employer of a self-employed earner to whom a scheme that was a salary related contracted-out scheme applies any person (other than the self-employed earner), government department or public authority who makes or is liable to make payments towards the resources of the scheme in respect of the self-employed earner (either under actual or contingent legal obligation or in the exercise of power conferred, or duty imposed, on a Minister of the Crown, government department or any other person, being a power or duty which extends to the disbursement or allocation of public money).
+
+## PART 2 — GENERAL PROVISIONS RELATING TO SCHEMES THAT WERE SALARY RELATED CONTRACTED-OUT SCHEMES
+
+### 3. Alteration of scheme rules
+
+For the purposes of section 37(1) of the 1993 Act (prohibition on alteration of rules of schemes that were contracted-out unless alteration is of a prescribed description), the alterations which are prescribed are any alterations which are allowed by regulations 17 and 20.
+
+### 4. Determination that an earner was in contracted-out employment
+
+(1) This regulation applies where—
+
+- (a) an earner (“E”) has been in employment, during a period in which employment of the same description as E’s employment was contracted-out, but E’s employment was not (apart from this regulation) contracted-out in relation to E; and
+- (b) the Commissioners are satisfied—
+  - (i) that the employment was not contracted-out in relation to E solely because E was not, during that period, a member of the relevant scheme; and
+  - (ii) that E, during that period, was not a member of that scheme solely because of inadvertence.
+
+(2) Where this regulation applies, the Commissioners may determine that E was in contracted-out employment by reference to that scheme during that period.
+
+### 5. Provision of information
+
+(1) The Secretary of State or the Commissioners may give any information that they could give to the trustees of an occupational pension scheme, under section 156(1) of the 1993 Act (information for purposes of contracting-out), to the following persons—
+
+- (a) an earner, or widow, widower or surviving civil partner of an earner, to whom the information relates;
+- (b) the employer in relation to the contracted-out employment of an earner to whom the information relates;
+- (c) any independent trade union recognised in relation to earners who are members of a scheme that was a salary related contracted-out scheme; and
+- (d) any person who is or who, in the opinion of the Commissioners, is likely to become, responsible for paying guaranteed minimum pensions, or pensions in respect of section 9(2B) rights, in accordance with the pension scheme.
+
+(2) Paragraph (1)(c) is subject to the condition that the information to be given is either—
+
+- (a) as to—
+  - (i) the total amount of the guaranteed minimum pensions to which it appears to the Commissioners that all persons entitled under the scheme (whether immediately or prospectively) are so entitled; or
+  - (ii) whether the scheme is liable in respect of any section 9(2B) rights; or
+- (b) given with the consent of the earner, widow, widower or surviving civil partner to whom it relates, such consent being given in writing, or by means of an electronic communication in such form as the Commissioners may approve.
+
+(3) For the purposes of this regulation, “independent trade union” means an independent trade union which is recognised to any extent for the purpose of collective bargaining.
+
+### 6. Overseas schemes
+
+(1) The rules of an overseas scheme are to provide—
+
+- (a) that, if the scheme is wound up, the assets of the scheme are to be applied first towards satisfying the amounts of the liabilities mentioned in section 73(4) of the 1995 Act (preferential liabilities on winding up) and, if they are insufficient to satisfy those amounts in full, then—
+  - (i) they are to be applied first towards satisfying the amounts of the liabilities mentioned in earlier paragraphs of that subsection before those mentioned in later paragraphs; and
+  - (ii) where the amounts of the liabilities mentioned in one of those paragraphs cannot be satisfied in full, all such liabilities are to be satisfied in the same proportions;
+- (b) that not more than 5 per cent of the current market value of the scheme’s resources are invested in a person who is an employer, or connected with an employer, in relation to the scheme if such investments are required to meet the liabilities specified in sub-paragraph (a) and the value of such investments is to be calculated and determined in a manner approved by the Commissioners; and
+- (c) in respect of rights that have accrued as a result of contracted-out employment in the scheme in Great Britain, for revaluation of accrued rights in accordance with sections 83 to 86 of the 1993 Act and for indexation of pensions in accordance with sections 51 to 54 of the 1995 Act.
+
+(2) In this regulation “overseas scheme” means an occupational pension scheme that was a salary related contracted-out scheme and that has its main administration outside the United Kingdom[^key-dac7848064308a8dfc8a6b4b43b17aa8], but does not include a scheme that was contracted-out in the Isle of Man by virtue of satisfying section 9(2) of the 1993 Act as it had effect in the Isle of Man before the second abolition date.
+
+### 7. Restoration of state scheme rights
+
+(1) This regulation applies where paragraph 5(3B) of Schedule 2 to the 1993 Act (state scheme premiums: schemes which were being wound up before the second abolition date) applies in relation to a member of a scheme that was a contracted-out scheme and that was being wound up before the second abolition date if, by virtue of that provision—
+
+- (a) the member was treated as if sections 46 to 48 or 48A(1) of the 1993 Act (effect of entitlement to guaranteed minimum pensions on payments of social security benefits) did not apply; or
+- (b) in a case where the cash equivalent of the member’s rights was less than the amount required for restoring their state scheme rights, the member was treated as if sections 46 to 48 or 48A(1) of the 1993 Act applied only in so far as they extinguish such part of the member’s state scheme rights as, in the opinion of the Commissioners, corresponded to that shortfall.
+
+(2) Where this regulation applies, the member is to continue to be treated as mentioned in paragraph (1)(a) or, as the case may be, (1)(b).
+
+### 8. Contributions equivalent premiums: prescribed person
+
+(1) For the purposes of section 55(2) of the 1993 Act (which requires the prescribed person to pay a contributions equivalent premium in the case mentioned in section 55(2B) of that Act and enables them to elect to do so in certain other cases) the prescribed person is—
+
+- (a) in a case where a transfer has been made in relation to a scheme under section 161 of the 2004 Act (effect of Board assuming responsibility for a scheme), the Board of the Pension Protection Fund (as defined in that Act); and
+- (b) in all other cases, the trustees of the scheme.
+
+(2) Where, in accordance with paragraph (1)(a), the prescribed person is the Board of the Pension Protection Fund, regulations 9, 12 and 13 apply with the following modifications—
+
+- (a) except in regulation 12(1), references to “the trustees of the scheme”, “the trustees” or “the trustees of a scheme” are to be read as references to “the Board of the Pension Protection Fund”; and
+- (b) references to “the resources of the scheme” are to be read as references to “the Pension Protection Fund”, being the Pension Protection Fund specified in section 173(1) of the 2004 Act (Pension Protection Fund).
+
+### 9. Notification of requirement to pay a contributions equivalent premium
+
+(1) Where a contributions equivalent premium is required to be paid in respect of an earner by virtue of section 55(2) of the 1993 Act (payment of state scheme premiums on termination of certified status), the trustees of the scheme are to notify the Commissioners of that fact in such form as the Commissioners may reasonably require for the purpose of identifying the earner.
+
+(2) Such notification is to be given—
+
+- (a) where the scheme is being wound up, within the period of two years starting with the date the scheme started to wind up; and
+- (b) where the earner ceased to serve in employment which was contracted-out employment for any other reason mentioned in section 55(2A) of the 1993 Act, within the period starting one month before and ending six months after the date on which the earner so ceased.
+
+(3)[^key-e6ebb1f1f20b014a6ced1b2d1d9649ca] The Commissioners may in any particular case or class of case extend the period within which notification is to be given—
+
+- (a) if it appears to them that notification could not reasonably have been given within the period specified in paragraph (2); or
+- (b) if—
+  - (i) the trustees are seeking to reach, or have reached, an agreement with the Commissioners as to the scheme’s liabilities for guaranteed minimum pensions or section 9(2B) rights of members through the scheme reconciliation service; and
+  - (ii) as a result of doing so, the Commissioners and the trustees agree that a premium is payable.
+
+### 10. Cases where payment of a contributions equivalent premium is not required
+
+(1) Section 55(2B) of the 1993 Act (by virtue of which a contributions equivalent premium must be paid in any case where the earner has no accrued right to benefit under the scheme) does not apply if any of the following paragraphs of this regulation apply.
+
+(2) This paragraph applies where—
+
+- (a) the earner’s service in the employment ceased on the earner’s death; and
+- (b) the earner left a surviving spouse or civil partner who is not entitled to any of the following benefits—
+  - (i) a widowed mother’s allowance under section 37 of the Contributions and Benefits Act;
+  - (ii) a widow’s pension under section 38 of that Act;
+  - (iii) a widowed parent’s allowance under section 39A of that Act;
+  - (iv) a bereavement support payment under section 30 of the Pensions Act 2014.
+
+(3) This paragraph applies where the earner is a woman who has made, or is treated as having made, an election under regulations made under section 19(4) of the Contributions and Benefits Act (general power to regulate liability for contributions), which has not been revoked, that her liability in respect of primary Class 1 contributions is to be at a reduced rate.
+
+(4) This paragraph applies where, on termination of an earner’s pensionable service, the earner elects to acquire a right to a cash transfer sum in accordance with section 101AB(1)(a) of the 1993 Act (right to cash transfer sum and contribution refund).
+
+### 11. Elections to pay contributions equivalent premiums
+
+(1) Subject to paragraph (2), the obligation under section 57(2) of the 1993 Act (not to discriminate between different earners when making or abstaining from making elections to pay contributions equivalent premiums) does not apply to cases where—
+
+- (a) an earner’s rights are transferred in accordance with regulations made under section 37A of the 1993 Act (transfer of liabilities etc.: schemes contracted-out on or after 6th April 1997);
+- (b) the earner is a woman who has made, or is treated as having made, an election under regulations made under section 19(4) of the Contributions and Benefits Act, which has not been revoked, that her liability in respect of primary Class 1 contributions is to be at a reduced rate;
+- (c) on the death of an earner, there arose an entitlement to a widow’s, widower’s or surviving civil partner’s pension which comprises amounts of pension which accrued by reference both to the earner’s service in employment which was not contracted-out and to service in employment which was contracted-out;
+- (d) the earner—
+  - (i) has completed less than two years qualifying service for the purposes of Chapter 1 of Part IV of the 1993 Act (preservation); and
+  - (ii) has made an election under the rules of the scheme to preserve the earner’s accrued rights; or
+- (e) any liability to provide pensions to an earner has been discharged in accordance with regulations made under section 12C (transfer, commutation etc.) or 37A of the 1993 Act (as it had effect before the second abolition date).
+
+(2) An employer is not to discriminate between different earners falling within the same class of case mentioned in paragraph (1).
+
+(3) An election under section 55(2) of the 1993 Act is to be notified to the Commissioners in such form as they may reasonably require for the purpose of identifying the earner to whom the election relates.
+
+(4) Such notification is to be given—
+
+- (a) where the scheme is being wound up, within the period of two years starting with the date the scheme started to wind up;
+- (b) where the earner ceased to serve in employment which was contracted-out employment for any other reason mentioned in section 55(2A) of the 1993 Act, within the period starting one month before and ending six months after the date on which the earner so ceased.
+
+(5)[^key-4f18f67cbcdb078d68706c76ea63f977] The Commissioners may in any particular case or class of case extend the period within which notification of an election is to be given—
+
+- (a) if it appears to them that notification could not reasonably have been given within the period specified in paragraph (4); or
+- (b) if—
+  - (i) the trustees are seeking to reach, or have reached, an agreement with the Commissioners as to the scheme’s liabilities for guaranteed minimum pensions or section 9(2B) rights of members through the scheme reconciliation service; and
+  - (ii) as a result of doing so, the Commissioners and the trustees agree that a premium is payable.
+
+### 12. Payment of a contributions equivalent premium
+
+(1) A contributions equivalent premium which the trustees are required or have elected to pay is to be paid on or before—
+
+- (a) the day six months after the date of termination of contracted-out employment in respect of which the premium is payable; or
+- (b) the day one month after the day on which the Commissioners send to the trustees a notice certifying the amount of the premium payable,
+
+whichever is the later.
+
+(2) In a case to which regulation 8(1)(a) applies, the Board of the Pension Protection Fund (as defined in that regulation) (“the Board”) is to pay the contributions equivalent premium on or before—
+
+- (a) the day six months after the date the assessment period (construed in accordance with section 132 of the 2004 Act) ended; or
+- (b) the day one month after the day on which the Commissioners send to the Board a notice certifying the amount of the premium payable,
+
+whichever is the later.
+
+(3) On an application made to them for that purpose, the Commissioners may in any particular case or class of case extend the period within which a premium is to be paid under paragraph (1) or (2)—
+
+- (a) if they are satisfied that the circumstances are such that payment of the premium could not reasonably be required to be made within the period specified in that paragraph, by a period not exceeding six months; [^key-87e2809e1681efac6295d2a5bcf2d755]...
+- (b) if they are satisfied that to require earlier payment would be prejudicial to the interests of the earner in respect of whom the premium is payable or of the generality of the members of the scheme, by such further period as they consider reasonable; and[^key-3629f0b5a27e2ffade43b7f441dd08d8]
+- (c) if—
+  - (i) the trustees are seeking to reach, or have reached, an agreement with the Commissioners as to the scheme’s liabilities for guaranteed minimum pensions or section 9(2B) rights of members through the scheme reconciliation service; and
+  - (ii) as a result of doing so, the Commissioners and the trustees agree that a premium is payable,
+
+  by such further period as they consider reasonable.
+
+(4) Where the amount of any contributions equivalent premium which is payable does not exceed £17, the trustees are not liable to pay it and, accordingly, if it is not paid, it is to be treated as paid for the purposes of section 48A(2) (additional pension and other benefits) and section 60 (effect of payment of premiums on rights) of the 1993 Act.
+
+(5) Any liability for a contributions equivalent premium is a liability to make payment out of the resources of the scheme.
+
+### 13. Payment in lieu of benefit and delay in refund for the purposes of the employer’s right of recovery
+
+(1) For the purposes of section 61(10) of the 1993 Act (payments in lieu of benefit) a payment in lieu of benefit is to include a payment made or to be made out of the resources of the scheme towards the provision of deferred benefits for the earner.
+
+(2) The following provisions of this regulation apply, for the purpose of enabling any right of recovery conferred by section 61 of the 1993 Act to be exercised, where an employed earner (or, by virtue of a connection with the earner, any other person) is entitled to a refund of any payments made under a scheme that was contracted-out in respect of the earner towards the provision of benefits under the scheme (“the refund”).
+
+(3) Subject to paragraph (4), where a contributions equivalent premium falls to be paid in respect of the earner under the 1993 Act and the person liable for the refund has been given a notice of delay in accordance with paragraph (5), that person is not to make the refund in whole or in part until after the end of the period of four weeks starting with—
+
+- (a) the date of payment of the contributions equivalent premium; or
+- (b) the last day of the prescribed period for payment of that premium,
+
+whichever occurs first.
+
+(4) Paragraph (3) does not apply to so much, if any, of the refund as exceeds the amount certified by the Commissioners under section 63(1)(d) of the 1993 Act (certification of amount attributable to reductions of contributions).
+
+(5) A notice of delay is a notice in writing given by the trustees of the scheme concerned, relating either to a particular case or to a class of case and containing the following particulars—
+
+- (a) the name of the earner or such particulars as will sufficiently identify the class of case concerned;
+- (b) such particulars as will sufficiently identify the refund or refunds concerned; and
+- (c) a memorandum in a form approved by the Commissioners giving brief particulars of the effect of paragraphs (3) and (4).
+
+(6) Where the trustees of a scheme have given a notice of delay, they are to inform the person to whom the notice was given of the end date of the period during which they may not make a refund to which the notice applies.
+
+### 14. Refund of a contributions equivalent premium
+
+(1) The Commissioners are to refund a contributions equivalent premium if—
+
+- (a) it was paid in error;
+- (b) they are satisfied that a transfer of the earner’s accrued rights will be made in accordance with regulations made under section 20 (transfer of accrued rights) or section 37A of the 1993 Act; or
+- (c) the scheme is one under which a member may qualify for benefits by virtue of service either in employed earner’s employment or as a self-employed earner (within the meaning of section 2 of the Contributions and Benefits Act) or both and the Commissioners are satisfied that the earner in respect of whom the premium was paid has completed a period of membership of the scheme as a self-employed earner which, when aggregated with service in employed earner’s employment, amounts to not less than two years.
+
+(2) Where a contributions equivalent premium is refunded under paragraph (1), the earner’s accrued rights under the scheme, which were extinguished by payment of the premium, are to be restored.
+
+(3) A refund under this regulation is only to be made if an application is made in writing in such form as the Commissioners may reasonably require for that purpose, or by means of an electronic communication in such form as the Commissioners may approve.
+
+(4) In paragraph (1)(a), “error” means an error which—
+
+- (a) was made at the time of payment; and
+- (b) relates to some present or past matter.
+
+(5) Where—
+
+- (a) an earner has been employed concurrently in two or more contracted-out employments, on the termination of one or more of which a contributions equivalent premium has been paid; and
+- (b) the aggregate amount of any such payments has the effect that the National Insurance Fund has gained, by reference to any employment in respect of which such a payment has been made, a greater amount than it would have gained from Class 1 contributions under the Contributions and Benefits Act if those employments had not been contracted-out,
+
+there is to be paid out of the National Insurance Fund to the earner (or to the earner’s estate) an amount which bears the same proportion to the amount of the excess as the reduction under section 41(1A) of the 1993 Act (as it had effect immediately before the second abolition date) (reduced rates of Class 1 contributions) in the normal percentage of primary Class 1 contributions bears to the total reduction under subsections (1A) and (1B) of that section in the total normal percentage of Class 1 contributions.
+
+(6) The Commissioners are also to refund a contributions equivalent premium if they are satisfied that—
+
+- (a) where it was paid in the circumstances mentioned in section 55(2A)(a), (b), (d) or (e) of the 1993 Act, the person in respect of whom it was paid has died, without leaving a widow, widower or surviving civil partner, on or before the later of the days mentioned in sub-paragraphs (a) and (b) respectively of regulation 12(1); or
+- (b) where it was paid in the circumstances mentioned in section 55(2A)(c) of the 1993 Act, there are no accrued rights to guaranteed minimum pensions or section 9(2B) rights under the scheme in question in respect of the widow, widower or surviving civil partner in question.
+
+### 15. Continuation of transitional arrangements for schemes that began winding up before 6th April 1997
+
+Where a scheme that was a salary related contracted-out scheme began winding up before the principal appointed day—
+
+- (a) regulation 40 (priorities on the winding-up of a scheme) of the Occupational Pension Schemes (Contracting-out) Regulations 1984 continues to have effect in relation to that scheme; and
+- (b) the resources of the scheme must be sufficient to meet the liabilities specified in section 24(1)(c) of the 1993 Act (as it had effect on the day the scheme began winding up), such resources being calculated, determined and verified in a manner approved by the Commissioners.
+
+### 16. Continuation of savings in respect of state scheme premiums
+
+The following continue to have effect in relation to any state scheme premium (payment required to be made under section 55(1) of the 1993 Act) which was paid before the principal appointed day—
+
+- (a) regulations 18 to 26, 34, 44, 45, 47, 48 and 49 of the Occupational Pension Schemes (Contracting-out) Regulations 1984;
+- (b) the Occupational Pension Schemes (Contracted-out Protected Rights Premiums) Regulations 1987.
+
+## PART 3 — ADDITIONAL REQUIREMENTS IN RELATION TO RIGHTS ATTRIBUTABLE TO CONTRACTED-OUT EMPLOYMENT ON AND AFTER 6TH APRIL 1997
+
+### 17. Alteration of scheme rules
+
+(1) The rules of a scheme may be altered in relation to section 9(2B) rights only if—
+
+- (a) following the alteration, the scheme provides benefits for the earner and for the earner’s widow, widower or surviving civil partner, in respect of the period of pensionable service to which the alteration relates, that are at least equal to the benefits that would have been provided by a reference scheme (within the meaning of section 12B(2) of the 1993 Act (reference scheme) as it had effect immediately before the second abolition date);
+- (b) the alteration is one to which the subsisting rights provisions (within the meaning of section 67(4) of the 1995 Act) do not apply, by virtue of section 67 of that Act;
+- (c) the alteration is one that is not a protected modification or a detrimental modification (within the meaning of section 67A of the 1995 Act) and the requirement in paragraph (2) is met; or
+- (d) the alteration is a detrimental modification (within the meaning of section 67A(4) of the 1995 Act) and—
+  - (i) the actuarial equivalence requirements provided for in sections 67C and 67D of that Act are met in relation to the proposed modification of those rights; and
+  - (ii) the requirement in paragraph (2) is met.
+
+(2) Subject to paragraph (3), the requirement is the altered scheme is to provide for a pension to be paid to the earner’s widow, widower or surviving civil partner (referred to in this regulation as the “relevant survivor’s section 9(2B) pension”) that is at least as generous, either as regards the amount of the pension or as regards the circumstances in which it will be paid, as it would have been before the alteration.
+
+(3) In relation to an earner who is in pensionable service under the scheme immediately before the alteration takes effect, the requirement in paragraph (2) is to be deemed to be satisfied if the relevant survivor’s section 9(2B) pension that the scheme would provide in respect of the earner if the earner left pensionable service immediately after the alteration is at least as generous as the relevant survivor’s section 9(2B) pension that the scheme would have provided in respect of the earner had the earner left service immediately before the alteration.
+
+### 18. Payment of a lump sum instead of a pension
+
+(1) A relevant scheme may not provide for the payment of a lump sum instead of a pension that is attributable to section 9(2B) rights, unless the payment to be made is authorised under section 164 of the Finance Act (authorised member payments) and the payment is—
+
+- (a) permitted by the lump sum rule in section 166 of the Finance Act and qualifies as—
+  - (i) a pension commencement lump sum for the purposes of paragraph 1 of Schedule 29 to that Act;
+  - (ii) a serious ill-health lump sum for the purposes of paragraph 4 of that Schedule;
+  - (iii) an uncrystallised funds pension lump sum for the purposes of paragraph 4A of that Schedule;
+  - (iv) a trivial commutation lump sum for the purposes of paragraph 7 of that Schedule; or
+  - (v) a winding-up lump sum for the purposes of paragraph 10 of that Schedule;
+- (b) permitted by the lump sum death benefit rule in section 168 of the Finance Act and qualifies as a trivial commutation lump sum death benefit for the purposes of paragraph 20 of Schedule 29 to that Act; or
+- (c) made by a registered pension scheme (within the meaning of section 150(2) of the Finance Act), is a payment that is described in Part 2 of the Registered Pension Schemes (Authorised Payments) Regulations 2009 (commutation payments), and is made to or in respect of a member.
+
+(2) Where, under the scheme—
+
+- (a) an earner qualifies for a lump sum payment on the ground of serious ill-health; and
+- (b) the earner’s widow, widower or surviving civil partner qualifies for a pension (“a survivor’s pension”),
+
+the scheme is to continue to provide for a survivor’s pension notwithstanding the payment of a lump sum to the earner.
+
+### 19. Forfeiture of accrued rights
+
+Section 92(1) of the 1995 Act (no forfeiture of entitlement under an occupational pension scheme) does not prevent forfeiture of section 9(2B) rights under a relevant scheme if—
+
+- (a) the person entitled to payments giving effect to those rights (“the pensioner”) is, in the opinion of the trustees of the scheme, unable to act by reason of mental disorder; and
+- (b) there is provision in the scheme that requires that, in those circumstances, sums equivalent to those payments—
+  - (i) must be paid or applied for the maintenance of the pensioner, except in so far as they are not, in the opinion of the trustees, required for that purpose;
+  - (ii) may, in so far as they are not in the opinion of the trustees required for the maintenance of the pensioner, be paid or applied for the maintenance of any dependants of the pensioner; and
+  - (iii) must, in so far as they are not in the opinion of the trustees required for the maintenance of the pensioner or any dependant of the pensioner, be held by the trustees for the pensioner until the pensioner is again able to act, or if the pensioner dies before that happens, for the pensioner’s estate.
+
+## PART 4 — ADDITIONAL REQUIREMENTS IN RELATION TO GUARANTEED MINIMUM PENSIONS
+
+### 20. Alteration of scheme rules
+
+The rules of a scheme may be altered in relation to a guaranteed minimum under section 14 (earner’s guaranteed minimum) or 17 (minimum pensions for widows and widowers) of the 1993 Act only if the alteration[^key-ee3d2d2341c2447901a10b560382a0e4]...—
+
+- (a)[^key-7ba61c456a83c699304a36ecc4fe6197] would not—
+  - (i) affect any of the matters dealt with in Part III of the 1993 Act (schemes that were contracted-out etc. and effects on members’ state scheme rights), or any regulations made under that Part, that relate to guaranteed minimum pensions, in a manner that would or might adversely affect any entitlement or accrued rights of any member of the scheme acquired before the alteration takes effect;
+  - (ii) affect any of the matters dealt with in sections 87 to 92 of the 1993 Act (protection of increases in guaranteed minimum pensions) or sections 109 and 110 of that Act (annual increases of guaranteed minimum pensions) or any matters dealt with in regulations made under any of those provisions; or
+- (b) is made for either or both of the purposes referred to in regulation 7C(1) (modification of schemes: revaluation of guaranteed minimum pensions) of the Occupational Pension Schemes (Modification of Schemes) Regulations 2006.
+
+### 21. Circumstances for the purposes of section 17(6) of the 1993 Act in which widower’s, widow’s or surviving civil partner’s guaranteed minimum pension is payable
+
+(1) In addition to providing for a widower’s, widow’s or surviving civil partner’s pension to be payable in the circumstances specified in section 17(4A) of the 1993 Act, a scheme that was a salary related contracted-out scheme is to make provision for such a pension to be payable if—
+
+- (a) the widower, widow or surviving civil partner and the earner were both over pensionable age when the earner died;
+- (b) the widower, widow or surviving civil partner is either residing with a child, or is entitled to child benefit in respect of a child, who is—
+  - (i) a child of the widower, widow or surviving civil partner and the earner;
+  - (ii) a child in respect of whom the earner was, immediately before the earner’s death, entitled to child benefit, or would have been so entitled, if the child had not been absent from Great Britain; or
+  - (iii) if the widower, widow or surviving civil partner and the earner were residing together immediately before the earner’s death, a child in respect of whom the widower, widow or surviving civil partner was, at that time, entitled to child benefit, or would have been so entitled, if the child had not been absent from Great Britain; [^key-232f3e273dc44434fa9b741fced47aec]...
+- (c) the widower, widow or surviving civil partner attained the age of 45—
+  - (i) before the earner died; or
+  - (ii) during a period when the circumstances mentioned in sub-paragraph (b) existed.
+- (d)[^key-88e27df5b3f41216d283cb50e8e6009f] the widower, widow or surviving civil partner is entitled to a bereavement support payment by virtue of the earner’s contributions; or
+- (e) the widower, widow or surviving civil partner was entitled to a bereavement support payment by virtue of the earner’s contributions but that entitlement came to an end at a time after the widower, widow or surviving civil partner attained the age of 45.
+
+(2) For the purposes of this regulation “child benefit” has the same meaning as in the Contributions and Benefits Act.
+
+### 22. Period for the purposes of section 17(6) of the 1993 Act for which widower’s, widow’s or surviving civil partner’s guaranteed minimum pension is payable
+
+(1) Where a pension is payable by virtue of regulation 21(1)(a), the scheme is to make provision for the pension to be payable for the remainder of the widower’s, widow’s or surviving civil partner’s life.
+
+(2) Subject to paragraph (4), where a pension is payable by virtue of regulation 21(1)(b) but not by virtue of regulation 21(1)(a) or (c), the scheme is to make provision for the pension to be payable for the period during which the circumstances described in regulation 21(1)(b) continue to exist.
+
+(3) Subject to paragraph (4), where a pension is payable by virtue of regulation 21(1)(c), but not by virtue of regulation 21(1)(a), the scheme is to make provision for the pension to be payable for the remainder of the widower’s, widow’s or surviving civil partner’s life.
+
+(3A)[^key-4cc8d523fa4b2018233b79be07756b27] Where a pension is payable by virtue of regulation 21(1)(d) but not by virtue of regulation 21(1)(a), (b), (c) or (e), the scheme is to make provision for the pension to be payable for the period during which the circumstances described in regulation 21(1)(d) continue to exist.
+
+(3B) Subject to paragraph (4A), where a pension is payable by virtue of regulation 21(1)(e) but not by virtue of regulation 21(1)(a), (b), (c) or (d), the scheme is to make provision for the pension to be payable for the remainder of the widower’s, widow’s or surviving civil partner’s life.
+
+(4)[^key-c14c258fa05afce923cec6a2edfa9987] Subject to paragraph (5), there is excluded from the periods prescribed by paragraphs (2) and (3) any period—
+
+- (a) after the time of any—
+  - (i) marriage; or
+  - (ii) formation of a civil partnership,
+
+    by the widower, widow or surviving civil partner whilst under pensionable age and which takes place after the earner’s death; or
+- (b) during which the widower, widow or surviving civil partner is under pensionable age and he or she and another person are living together as if they were a married couple or civil partners[^key-49ce183a57d46081dd38052f2dcddcf1]; or
+- (c) after the widower, widow or surviving civil partner has attained pensionable age if, immediately before he or she attained that age, he or she and another person were living together as if they were a married couple or civil partners[^key-683caeadd25ced79bf5ab367ea53e18d].
+
+(4A) Subject to paragraph (5), there is excluded from the period prescribed by paragraph (3B) any period—
+
+- (a) after the time of any—
+  - (i) marriage; or
+  - (ii) formation of a civil partnership,
+
+    by the widower, widow or surviving civil partner which takes place after the earner’s death; or
+- (b) during which the widower, widow or surviving civil partner and another person are living together as if they were a married couple or civil partners[^key-d2a05ca32caf2b6eb6a92a6ef325e176].
+
+(5) The following provisions do not apply where a man became a widower before 5th December 2005—
+
+- (a) paragraphs 4(a)(i) and (4A)(a)(i) so far as they relate to a marriage involving two people of the same sex;
+- (b) paragraphs 4(a)(ii) and (4A)(a)(ii); and
+- (c) paragraphs (4)(b), (4)(c) and (4A)(b) so far as they relate to the living together of two people of the same sex.
+
+### 23. Fixed rate revaluation of guaranteed minimum pensions secured by insurance policies or annuity contracts
+
+A scheme may make provision by virtue of section 16(2) of the 1993 Act (revaluation of earnings factors for the purposes of section 14: early leavers etc.) for those of its members whose guaranteed minimum pensions are, or are to be, appropriately secured (within the meaning of section 19(3) of the 1993 Act), even though the same provision is not made for other members of the scheme.
+
+### 24. Fixed rate revaluation of guaranteed minimum pensions for early leavers
+
+(1) This regulation applies where a scheme provides, in accordance with section 16(2) of the 1993 Act (as substituted by paragraph 16 of Schedule 13 to the Pensions Act 2014), for a person’s earnings factors to be determined for the purposes of section 14(2) of the 1993 Act by reference to the last order to come into force under section 148 of the Social Security Administration Act 1992 before the end of the last service tax year.
+
+(2)[^key-d41d1b3b541e3ff84aa26ef01534bf50] Subject to paragraph (3), in a case to which this regulation applies, the scheme is to provide for the weekly equivalent mentioned in section 14(2) of the 1993 Act to be increased, in relation to the period of service in respect of which accrued rights to a guaranteed minimum pension have been acquired under, or transferred to, the scheme, by at least—
+
+- (a) 4.75 per cent compound, where the period of pensionable service under the scheme terminates on or after 6th April 2016 but before 6th April 2017;
+- (b) 3.5 per cent compound, where the period of pensionable service under the scheme terminates on or after 6th April 2017[^key-0e24bd5b0d8b0ee2448f42bd15affad1]... but before 6th April 2022;[^key-0e25d74e43b6f76c42ea49b027ccb4da]
+- (c)[^key-dacc8b5d053c9247254ecd58ad870573] 3.25 per cent compound, where the period of pensionable service under the scheme terminates on or after 6th April 2022.
+
+(3) The scheme may make provision which is different to that made by virtue of paragraph (2) with respect to—
+
+- (a) members whose rights to guaranteed minimum pensions under the scheme arise in respect of a transfer or transfer payment made in accordance with section 20(1) of the 1993 Act or regulations made under that provision;
+- (b) members whose guaranteed minimum pensions are, or are to be, appropriately secured within the meaning of section 19(3) of the 1993 Act.
+
+### 25. Payment of a lump sum instead of a pension
+
+(1) The scheme may provide for the payment of a lump sum instead of a pension that the scheme is required to provide in accordance with section 13 or 17 of the 1993 Act if—
+
+- (a) a guaranteed minimum pension has become payable (but see also paragraph (3)); and
+- (b) the payment of a lump sum is authorised under section 164 of the Finance Act and the payment fulfils the conditions in paragraph (2).
+
+(2) The conditions are that the payment is—
+
+- (a) permitted by the lump sum rule in section 166 of the Finance Act and qualifies as—
+  - (i) a trivial commutation lump sum for the purposes of paragraph 7 of Schedule 29 to that Act; or
+  - (ii) a winding-up lump sum for the purposes of paragraph 10 of that Schedule;
+- (b) permitted by the lump sum death benefit rule in section 168 of the Finance Act and qualifies as a trivial commutation lump sum death benefit for the purposes of paragraph 20 of Schedule 29 to that Act; or
+- (c) made by a registered pension scheme (within the meaning of section 150(2) of the Finance Act), is a payment that is described in Part 2 of the Registered Pension Schemes (Authorised Payments) Regulations 2009 and is made to or in respect of a member.
+
+(3) The condition in paragraph (1)(a) does not apply in cases where—
+
+- (a) the scheme is being wound up or an earner retires before pensionable age;
+- (b) a premium under section 55(2) of the 1993 Act (contributions equivalent premium) has been paid or treated as paid or the scheme has made the provision mentioned in section 16(2) and (3) of the 1993 Act; and
+- (c) the conditions in paragraph (4) are met.
+
+(4) The conditions are—
+
+- (a) the aggregate amount of the benefits that have accrued to the earner at the date of winding-up or, as the case may be, of the earner’s retirement, increased—
+  - (i) in accordance with section 16(2) and (3) of the 1993 Act; or
+  - (ii) in a case where section 16(2) and (3) applies, to the amount that would have been payable at pensionable age,
+
+  is to be treated as the amount of benefits currently payable to the earner under the scheme;
+- (b) in the case of an earner who retires before normal pension age, commutation is not permitted before the date on which benefits become payable to the earner under the scheme’s early retirement provisions;
+- (c) in cases where the earner is a member of more than one scheme relating to the same employment, all those schemes are being wound up or, as the case may be, the earner is treated by all those schemes as having retired and, in each case, all those schemes have paid a contributions equivalent premium or have made the provisions mentioned in section 16(2) and (3) of the 1993 Act.
+
+(5) Subject to paragraph (6), the scheme may provide for the payment of a lump sum instead of a pension that the scheme is required to provide in accordance with section 13 or 17 of the 1993 Act if the payment—
+
+- (a) is authorised under section 164 of the Finance Act;
+- (b) is permitted by the lump sum rule in section 166 of that Act; and
+- (c) qualifies as a serious ill-health lump sum for the purposes of paragraph 4 of Schedule 29 to that Act.
+
+(6) Where—
+
+- (a) under the scheme, an earner qualifies for a lump sum payment on the ground of serious ill-health; and
+- (b) the scheme also provides for the payment of a guaranteed minimum pension to the widow, widower or surviving civil partner of the earner (“a survivor’s pension”),
+
+the scheme is to continue to include provision for a survivor’s pension notwithstanding the payment of a lump sum to the earner.
+
+### 26. Suspension and forfeiture of guaranteed minimum pension
+
+(1) The scheme may provide for an earner’s or an earner’s widow’s, widower’s or surviving civil partner’s guaranteed minimum pension to be suspended if—
+
+- (a) the person entitled to payments giving effect to those rights (“the pensioner”) is, in the opinion of the trustees of the scheme, unable to act by reason of mental disorder, and there is provision in the scheme that requires that, in those circumstances, sums equivalent to the guaranteed minimum pension—
+  - (i) must be paid or applied for the maintenance of the pensioner, except in so far as they are not, in the opinion of the trustees, required for that purpose;
+  - (ii) may, in so far as they are not in the opinion of the trustees required for the maintenance of the pensioner, be paid or applied for the maintenance of any dependants of the pensioner;
+  - (iii) must, in so far as such sums are not in the opinion of the trustees required for the maintenance of the pensioner or of any dependant of the pensioner, be held by the trustees for the pensioner until the pensioner is again able to act, or if the pensioner dies before that happens, for the pensioner’s estate;
+- (b) the pensioner is in prison or detained in legal custody and there is provision in the scheme for sums equivalent to the guaranteed minimum pension to be paid or applied during such circumstances for the maintenance of such one or more of the pensioner’s dependants as the trustees of the scheme may in their discretion determine;
+- (c) the earner is re-employed by the employer by whom the earner was previously employed in contracted-out employment in respect of which the guaranteed minimum pension became payable and there is provision in the scheme for the guaranteed minimum pension that becomes payable when the suspension is lifted to be increased in accordance with section 15(1) of the 1993 Act.
+
+(2) The scheme may provide for an earner’s or an earner’s widow’s, widower’s or surviving civil partner’s guaranteed minimum pension (whether current or prospective) to be forfeited if—
+
+- (a) the person entitled to that pension has been convicted of—
+  - (i) an offence of treason; or
+  - (ii) one or more offences under the Official Secrets Acts 1911 to 1989 , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^key-04a179ee30ed556cd1da103d6bd7f2ef] for which the person has been sentenced on the same occasion to a term of imprisonment of, or to two or more consecutive terms amounting in aggregate to, at least ten years;
+- (b) in the case of a widow’s, widower’s or surviving civil partner’s guaranteed minimum pension, the earner by reference to whose contracted-out employment that pension is payable has been convicted of an offence of treason, or has been convicted of an offence or offences and has been sentenced to a term or terms of imprisonment as set out in sub-paragraph (a)(ii);
+- (c) in the case of a guaranteed minimum pension payable under a scheme for members of Her Majesty’s forces, being a scheme for which the Secretary of State is responsible, the person entitled to that pension or, as the case may be, the member of the forces whose widow, widower or surviving civil partner is currently or prospectively entitled to that pension has, in the opinion of the Secretary of State, committed an act which is gravely prejudicial to the defence, security or other interests of the State;
+- (d) in the case of any payment of guaranteed minimum pension for which a claim has not been made, a period of at least eight years has elapsed from the date on which that payment became due;
+- (e) in the case of a widow’s, widower’s or surviving civil partner’s guaranteed minimum pension, that person is convicted of the offence of murder or manslaughter of the earner by reference to whose contracted-out employment that pension is payable, or any other offence of which unlawful killing of that member is an element.
+
+(3) For the purposes of paragraph (2)(e), “unlawful killing” includes unlawfully aiding, abetting, counselling or procuring the death of a person.
+
+### 27. Conversion into other benefits: actuarial equivalence
+
+(1) For the purposes of Condition 1 of section 24B of the 1993 Act (the conversion conditions), actuarial equivalence is to be determined in accordance with this regulation.
+
+(2) The trustees are responsible for determining actuarial equivalence.
+
+(3) In determining actuarial equivalence, the trustees must—
+
+- (a) obtain advice from the actuary appointed for the scheme in accordance with section 47(1)(b) of the 1995 Act (“the actuary”) about what assumptions are appropriate at the conversion date;
+- (b) consider that advice;
+- (c) decide what assumptions are appropriate at the conversion date and, if the trustees later think it is necessary, change that decision; and
+- (d) arrange for the actuary to calculate the actuarial values of the post-conversion benefits and the pre-conversion benefits in accordance with paragraph (4).
+
+(4) In calculating the actuarial values mentioned in paragraph (3)(d), the actuary must—
+
+- (a) use the assumptions chosen by the trustees under paragraph (3)(c); and
+- (b) ignore the value of any—
+  - (i) benefits that have been commuted;
+  - (ii) amounts that have been paid in respect of any benefits;
+  - (iii) amounts in respect of any benefits that, before the conversion date, became due to be paid; and
+  - (iv) discretionary benefits that might be awarded in the future.
+
+(5) When the actuarial values mentioned in paragraph (3)(d) have been calculated, the actuary must send the trustees a certificate if the post-conversion benefits are actuarially at least equivalent to the pre-conversion benefits.
+
+(6) The certificate is to—
+
+- (a) state that—
+  - (i) the calculations have been completed; and
+  - (ii) the post-conversion benefits are actuarially at least equivalent to the pre-conversion benefits; and
+- (b) be sent to the trustees no later than three months after the calculations have been completed.
+
+### 27A. Conversion into other benefits: survivors’ benefits[^key-8dece41bf1441ba042f4dc7a142f2296]
+
+(1) For the purposes of Condition 4 of section 24B of the 1993 Act, the circumstances in which, and periods during which, the converted scheme must provide survivors’ benefits are the circumstances set out in paragraph (2) and the periods set out in paragraph (3).
+
+(2) The circumstances are—
+
+- (a) an earner’s pre-conversion benefits include a guaranteed minimum pension; and
+- (b) the scheme before conversion provided that—
+  - (i) if the earner died (whether before or after attaining pensionable age) leaving a widow, widower or surviving civil partner, the widow, widower or surviving civil partner would be entitled to a guaranteed minimum pension; and
+  - (ii) in a case where section 17(6) of the 1993 Act (minimum pensions for widows, widowers and surviving civil partners) applies, a widower’s, widow’s or surviving civil partner’s guaranteed minimum pension would be payable in the circumstances set out in regulation 21(1).
+
+(3) The periods are—
+
+- (a) for widows, widowers and surviving civil partners, any period mentioned in section 17(4A)(a), (aa), (ab) or (b) of the 1993 Act;
+- (b) subject to paragraph (4), for widows, widowers and surviving civil partners whose entitlement by virtue of the earner’s contributions to a widowed parent’s allowance or bereavement allowance has come to an end at a time after the widow, widower or surviving civil partner attained the age of 45, so much of the period beginning with the time when that entitlement came to an end as neither—
+  - (i) comprises a period during which the widow, widower or surviving civil partner and another person are living together as if they were a married couple or civil partners[^key-017af9feff8901fee8f41600737e9bf2]; nor
+  - (ii) falls after the time of any—
+    - (aa) marriage; or
+    - (bb) formation of a civil partnership,
+
+    by the widow, widower or surviving civil partner which takes place after the earner’s death;
+- (c) for widows whose spouse was a man, any period for which a widowed mother’s allowance or widow’s pension is payable to the widow by virtue of the earner’s contributions; and
+- (d) for widowers, widows whose spouse was a woman and surviving civil partners, any period for which a scheme must make provision for the payment of a widow’s, widower’s or surviving civil partner’s pension, by virtue of section 17(6) of the 1993 Act and regulation 22.
+
+(4) For the purposes of paragraph (3)(b), the following provisions do not apply where the earner died before 5th December 2005—
+
+- (a) paragraph (3)(b)(i) so far as it relates to the living together of two people of the same sex;
+- (b) paragraph (3)(b)(ii)(aa) so far as it relates to a marriage involving two people of the same sex; and
+- (c) paragraph (3)(b)(ii)(bb).
+
+## PART 5 — AMENDMENT OF THE OCCUPATIONAL PENSION SCHEMES (CONTRACTING-OUT) REGULATIONS 1996
+
+### 28. Amendments relating to certification of employments for a period before the second abolition date
+
+(1) The 1996 Regulations are amended as follows.
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) in the definition of “the 1993 Act”, at the end insert “as it had effect immediately before the second abolition date (except where otherwise stated)”;
+- (b) in the definition of “overseas scheme”—
+  - (i) for “is contracted-out” substitute “was contracted-out”; and
+  - (ii) for “has effect” substitute “had effect”; and
+- (c) in paragraph (b)(ii) of the definition of “section 9(2B) rights”, before “abolition date” insert “first”.
+
+(3) In regulation 3 (notices by employers of intended election), in paragraph (2)(b) after “specify the date” insert “(being a date before the second abolition date)”.
+
+(4) In regulation 6 (information to be included in an election)—
+
+- (a) in paragraph (1)(d), after “shall have effect” insert “(being a date before the second abolition date)”; and
+- (b) in paragraph (3), for sub-paragraph (a) substitute—
+
+  > - (a) unless the scheme is a public service pension scheme to which Part 3 of the 2004 Act does not apply, or a scheme in respect of which any Minister of the Crown has given a guarantee, or made any other arrangements for the purpose of securing that the assets of the scheme are sufficient to meet its liabilities, written confirmation or evidence that the actuary is satisfied that the resources of the scheme are sufficient to meet the requirement prescribed in regulation 18 (as it had effect immediately before the second abolition date)(requirement as to resources of the scheme); and
+
+  .
+
+(5) In regulation 8 (issue of contracting-out certificates)—
+
+- (a) in paragraph (2)(d) for the words after “is to have effect,” substitute “being a date before the second abolition date”; and
+- (b) after paragraph (2) insert—
+
+  > (3) The Commissioners of Inland Revenue are not to issue a contracting-out certificate unless they consider it appropriate to do so and the scheme satisfied any contracting-out conditions or requirements which applied to the scheme from the date on which the certificate is to have effect.
+
+  .
+
+(6) In regulation 9(5)(b) (notice of date from which variation or surrender of a contracting-out certificate is to have effect), after “specify the date” insert “(being a date before the second abolition date)”.
+
+(7) In regulation 10 (special provision with regard to elections for the issue, variation or surrender of certificates where the employment remains contracted out)—
+
+- (a) in the heading after “where” insert “(before the second abolition date)”;
+- (b) in paragraph (1)—
+  - (i) omit “regulation 71 (elections for replacement certificates by salary-related schemes during transitional period) and to”; and
+  - (ii) in sub-paragraph (c) at the end insert “when the election takes effect”; and
+- (c) in paragraph (3)(c), after “the date” insert “(being a date before the second abolition date)”.
+
+(8) In regulation 15 (further information and change of circumstances), omit “or an employer to whom such a certificate has been issued”.
+
+(9) In regulation 23(g) (requirements for meeting the statutory standard), after “regulation 20A(2)” insert “(as it had effect immediately before the second abolition date)”.
+
+### 29. Amendments relating to cessation of contracting-out before the second abolition date
+
+(1) The 1996 Regulations are amended as follows.
+
+(2) In regulation 44 (notifications to the Commissioners of Inland Revenue)—
+
+- (a) in paragraph (1)—
+  - (i) after “treated as terminated” insert “before the second abolition date”; and
+  - (ii) after “regulation 43” insert “(as it had effect immediately before that date)”;
+- (b) in paragraph (2) for “A notification required to be given under paragraph (1) may be given at any time within the period of one month before the expected date of termination but if not so given” substitute “If a notification required to be given under paragraph (1) was not given before the expected date of termination it”;
+- (c) in paragraph (4) after “any case where” insert “, before the second abolition date,”; and
+- (d) in paragraph (7)—
+  - (i) for “to whom a contracting-out certificate has been issued” substitute “to whom a contracting-out certificate was issued”; and
+  - (ii) for “relates” in both places where it occurs, substitute “related”.
+
+(3) In regulation 45 (approval of arrangements for schemes ceasing to be contracted-out)—
+
+- (a) in paragraph (1)—
+  - (i) omit the words from the beginning to “principal appointed day),”; and
+  - (ii) after “arrangements” in the final place where it occurs, insert “for cessation of contracting-out before the second abolition date”;
+- (b) in paragraph (2) for “sections 12C of the 1993 Act (transfer or discharge of section 9(2B) rights)” substitute “section 37A of the 1993 Act (transfer of liabilities etc.: schemes contracted-out on or after 6th April 1997)”; and
+- (c) in paragraph (3)(a), after “the scheme must” in the first place in which those words appear insert “, until the second abolition date,”.
+
+(4) In regulation 46 (supervision of schemes that have ceased to contract out), in the heading at the end insert “before the second abolition date”.
+
+(5) In regulation 47 (circumstances in which the Commissioners of Inland Revenue may vary or cancel a contracting-out certificate)—
+
+- (a) in paragraph (1)—
+  - (i) for “applies” substitute “applied”; and
+  - (ii) after “from such date” insert “(being a date before the second abolition date)”; and
+- (b) in paragraph (2)(a) and (b), before “salary-related contracted-out scheme” insert “scheme that was a”.
+
+(6) In regulation 76(1) (prevention of recovery by employers of Class 1 contributions where certificate cancelled under section 36(3) of the 1993 Act) at the end insert “before the second abolition date”.
+
+(7) In regulation 78 (revocations), for “73 and 77” substitute “15 and 16 of the Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015”.
+
+## PART 6 — AMENDMENT OF THE CONTRACTING-OUT (TRANSFER AND TRANSFER PAYMENT) REGULATIONS 1996
+
+### 30. Revaluation after transfer from another scheme
+
+(1) The Contracting-out (Transfer and Transfer Payment) Regulations 1996 are amended as follows.
+
+(2) In regulation 1(2) (interpretation), insert in the appropriate place—
+
+> - “Administration Act” means the Social Security Administration Act 1992;
+
+.
+
+(3) After regulation 13A (modification of section 12C of the 1993 Act), insert the following—
+
+> **13B. Modification of section 16: revaluation after transfer from another scheme**
+>
+> (1) This regulation applies where the following conditions are satisfied—
+>
+> - (a) on or after 5th April 1983, a transfer of the earner’s accrued rights to guaranteed minimum pensions under a scheme (“scheme A”) was made (under or by virtue of section 20(1) of the 1993 Act) to another scheme (“scheme B”) that was at the time a contracted-out scheme;
+> - (b) the earner commenced employment that was contracted-out by reference to scheme B;
+> - (c) by virtue of section 14(1) of the 1993 Act, as modified by regulation 12(a), the calculation, under the provisions of scheme B, of the earner’s guaranteed minimum pension for the purposes of section 14(2) falls to include earnings factors arising out of contracted-out employment in any period of linked qualifying service that was contracted-out employment by reference to scheme A; and
+> - (d) either—
+>   - (i) scheme B provides for the earnings factors to be increased at the rate by which they fell to be increased under the provisions of scheme A, or would have fallen to be increased under the provisions of that scheme relating to an earner whose pensionable service under the scheme terminated before the earner attained pensionable age;
+>   - (ii) if scheme A provided for those earning factors to be increased by reference to orders under section 148 of the Administration Act, scheme B provides for them to be increased in accordance with the provisions of section 16(2) and (3) of the 1993 Act;
+>   - (iii) if scheme A provided for those earnings factors to be increased in accordance with the provisions of section 16(2) and (3) of the 1993 Act, scheme B includes provision for them to be increased by reference to orders under section 148 of the Administration Act from the date of termination of the earner’s pensionable service under the scheme; or
+>   - (iv) if a transfer of the earner’s accrued rights to scheme B is not one to which paragraph (iii) applies and those rights were previously being increased at a rate calculated by reference to orders under section 148 of the Administration Act, scheme B includes provision for those earnings factors to be increased at a rate calculated otherwise than by reference to orders under that section.
+>
+> (2) In paragraph (1), references to earnings factors include the weekly equivalent mentioned in section 14(2) of the 1993 Act.
+>
+> (3) Where this regulation applies section 16(1) of the 1993 Act applies as if there were added at the end “or, in respect of the earner’s earnings factor (or the weekly equivalent mentioned in section 14(2)) for any relevant year in a period of linked qualifying service, shall be taken to be that factor (or weekly equivalent) as increased in accordance with the provisions of the scheme under regulations made under subsection (3)”.
+>
+> (4) Where this regulation applies, the modifications of section 16(2) and (3) contained in paragraph (5) apply where earnings factors of an earner whose accrued rights to guaranteed minimum pensions, including such rights derived from linked qualifying service, have been transferred under or by virtue of section 20(1) of the 1993 Act to another scheme that was contracted-out.
+>
+> (5) The modifications referred to in paragraph (4) are that section 16(2) and (3) of the 1993 Act applies as if it permitted that scheme to provide for those earnings factors to be determined for the purpose of section 14(2) of the 1993 Act without reference to any order coming into force under section 148 of the Administration Act—
+>
+> - (a) where such earnings factors had previously fallen to be determined by reference to orders under section 148 of the Administration Act, after the relevant year in which the earner’s pensionable service under the scheme, from which those rights were transferred, was terminated; or
+> - (b) in any other case, in and after the relevant year in which that service was terminated,
+>
+> and as if section 16(3) of the 1993 Act had effect accordingly, save, in a case to which paragraph (b) applies, for treating the reference to the amount of the increase in section 16(3) as a reference to the amount by which the earnings factors relevant to the weekly equivalent would be increased.
+
+.
+
+## PART 7 — REVOCATION AND SAVINGS OF THE OCCUPATIONAL PENSION SCHEMES (CONTRACTING-OUT) REGULATIONS 1996
+
+### 31. Revocations taking effect on the second abolition date
+
+The following provisions of the 1996 Regulations are revoked—
+
+- (a) regulation 11;
+- (b) regulations 16 to 21;
+- (c) regulations 41 to 43;
+- (d) regulation 48(5) to (7);
+- (e) regulations 49 to 61;
+- (f) regulation 62 (but see regulation 32);
+- (g) regulation 63;
+- (h) regulations 65 and 66 (but see regulation 32);
+- (i) regulations 67 to 69A;
+- (j) regulations 70 to 74;
+- (k) regulations 76A and 76B;
+- (l) regulation 77.
+
+### 32. Saving of provisions relating to the revaluation of Guaranteed Minimum Pensions
+
+Regulations 62 (fixed rate revaluation of guaranteed minimum pensions for early leavers), 65 (modification of section 16 of the 1993 Act) and 66 (circumstances in which the modifications in regulation 65 apply) of the 1996 Regulations are saved for the purposes of an earner whose service in contracted-out employment ended before the second abolition date.
+
+### 33. Revocations taking effect on 6th April 2019
+
+The following provisions of the 1996 Regulations are revoked –
+
+- (a) regulations 12 to 14;
+- (b) regulation 48(1) to (4);
+- (c) regulation 75.
+
+## PART 8 — PROVISION FOR NORTHERN IRELAND
+
+### 34. Interpretation of Part 8
+
+In this Part—
+
+- “the 1993 (NI) Act” means the Pension Schemes (Northern Ireland) Act 1993;
+- “the 2005 Order” means the Pensions (Northern Ireland) Order 2005;
+- “the Contributions and Benefits (NI) Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+- “section 5(2B) rights” are—
+  - (a) rights to the payment of pensions and accrued rights to pensions (other than rights attributable to voluntary contributions) under a scheme contracted-out by virtue of section 5(2B) of the 1993 (NI) Act, so far as attributable to an earner’s service in contracted-out employment on or after the principal appointed day; and
+  - (b) where a transfer payment has been made to such a scheme, any rights arising under the scheme as a consequence of that payment which are derived directly or indirectly from—
+    - (i) such rights as are referred to in paragraph (a) under another scheme contracted-out by virtue of section 5(2B) of the 1993 (NI) Act; or
+    - (ii) protected rights under another occupational pension scheme or under a personal pension scheme attributable to payments or contributions in respect of employment on or after the principal appointed day where that transfer payment was made before the first abolition date.
+
+### 35. Restoration of state scheme rights: Northern Ireland
+
+(1) This regulation applies where paragraph 5(3B) of Schedule 1 to the 1993 (NI) Act(state scheme premiums: schemes which were being wound up before the second abolition date) applies in relation to a member of a scheme that was a contracted-out scheme and that was being wound up before the second abolition date if, by virtue of that provision—
+
+- (a) the member was treated as if sections 42 to 44 or 44A(1) of the 1993 (NI) Act (effect of entitlement to guaranteed minimum pensions on payments of social security benefits) did not apply; or
+- (b) in a case where the cash equivalent of the member’s rights was less than the amount required for restoring their state scheme rights, the member was treated as if sections 42 to 44 or 44A(1) of the 1993 (NI) Act applied only in so far as they extinguish such part of the member’s state scheme rights as, in the opinion of the Commissioners, corresponded to that shortfall.
+
+(2) Where this regulation applies, the member is to continue to be treated as mentioned in paragraph (1)(a) or, as the case may be, (1)(b).
+
+### 36. Contributions equivalent premiums: prescribed person in Northern Ireland
+
+(1) For the purposes of section 51(2) of the 1993 (NI) Act (which requires the prescribed person to pay a contributions equivalent premium in the case mentioned in section 51(2B) of that Act and enables them to elect to do so in certain other cases) the prescribed person is—
+
+- (a) in a case where a transfer has been made in relation to a scheme under Article 145 of the 2005 Order (effect of the Board assuming responsibility for a scheme), the Board of the Pension Protection Fund (as defined in that Order); and
+- (b) in all other cases, the trustees of the scheme.
+
+(2) Where, in accordance with paragraph (1)(a), the prescribed person is the Board of the Pension Protection Fund, regulations 37 to 42 apply with the following modifications—
+
+- (a) except in regulation 40(1), references to “the trustees of the scheme”, “the trustees” or “the trustees of a scheme” are to be read as references to “the Board of the Pension Protection Fund”; and
+- (b) references to “the resources of the scheme” are to be read as references to “the Pension Protection Fund”, being the Pension Protection Fund specified in section 173(1) of the 2004 Act.
+
+### 37. Notification of requirement to pay a contributions equivalent premium: Northern Ireland
+
+(1) Where a contributions equivalent premium is required to be paid in respect of an earner by virtue of section 51(2) of the 1993 (NI) Act (payment of state scheme premiums on termination of certified status), the trustees of the scheme are to notify the Commissioners of that fact in such form as the Commissioners may reasonably require for the purpose of identifying the earner.
+
+(2) Such notification is to be given—
+
+- (a) where the scheme is being wound up, within the period of two years starting with the date the scheme started to wind up; and
+- (b) where the earner ceased to serve in employment which was contracted-out employment for any other reason mentioned in section 51(2A) of the 1993 (NI) Act, within the period starting one month before and ending six months after the date on which the earner so ceased.
+
+(3)[^key-841f05244978c9263ad4a276c7361696] The Commissioners may in any particular case or class of case extend the period within which notification is to be given—
+
+- (a) if it appears to them that notification could not reasonably have been given within the period specified in paragraph (2); or
+- (b) if—
+  - (i) the trustees are seeking to reach, or have reached, an agreement with the Commissioners as to the scheme’s liabilities for guaranteed minimum pensions or section 5(2B) rights of members through the scheme reconciliation service; and
+  - (ii) as a result of doing so, the Commissioners and the trustees agree that a premium is payable.
+
+### 38. Cases where payment of a contributions equivalent premium is not required: Northern Ireland
+
+(1) Section 51(2B) of the 1993 (NI) Act (by virtue of which a contributions equivalent premium must be paid in any case where the earner has no accrued right to benefit under the scheme) does not apply if any of the following paragraphs of this regulation apply.
+
+(2) This paragraph applies where—
+
+- (a) the earner’s service in the employment ceased on the earner’s death; and
+- (b) the earner left a surviving spouse or civil partner who is not entitled to any of the following benefits—
+  - (i) a widowed mother’s allowance under section 37 of the Contributions and Benefits (NI) Act;
+  - (ii) a widow’s pension under section 38 of that Act;
+  - (iii) a widowed parent’s allowance under section 39A of that Act;
+  - (iv) a bereavement support payment under section 29 of the Pensions Act (Northern Ireland) 2015.
+
+(3) This paragraph applies where the earner is a woman who has made, or is treated as having made, an election under regulations made under section 19(4) of the Contributions and Benefits (NI) Act, which has not been revoked, that her liability in respect of primary Class 1 contributions is to be at a reduced rate.
+
+(4) This paragraph applies where, on termination of an earner’s pensionable service, the earner elects to acquire a right to a cash transfer sum in accordance with section 97AB(1)(a) of the 1993 (NI) Act (right to cash transfer sum and contribution refund).
+
+### 39. Elections to pay contributions equivalent premiums: Northern Ireland
+
+(1) Subject to paragraph (2), the obligation under section 53(2) of the 1993 (NI) Act (not to discriminate between different earners when making or abstaining from making elections to pay contributions equivalent premiums) does not apply to cases where—
+
+- (a) an earner’s rights are transferred in accordance with regulations made under section 33A of the 1993 (NI) Act (transfer of liabilities etc.: schemes contracted-out on or after 6th April 1997);
+- (b) the earner is a woman who has made, or is treated as having made, an election under regulations made under section 19(4) of the Contributions and Benefits (NI) Act, which has not been revoked, that her liability in respect of primary Class 1 contributions is to be at a reduced rate;
+- (c) on the death of an earner, there arose an entitlement to a widow’s, widower’s or surviving civil partner’s pension which comprises amounts of pension which accrued by reference both to the earner’s service in employment which was not contracted-out and to service in employment which was contracted-out;
+- (d) the earner—
+  - (i) has completed less than two years qualifying service for the purposes of Chapter 1 of Part IV of the 1993 (NI) Act (preservation); and
+  - (ii) has made an election under the rules of the scheme to preserve the earner’s accrued rights; or
+- (e) any liability to provide pensions to an earner has been discharged in accordance with regulations made under section 8C (transfer, commutation etc.) or 33A of the 1993 (NI) Act (as it had effect before the second abolition date).
+
+(2) An employer is not to discriminate between different earners falling within the same class of case mentioned in paragraph (1).
+
+(3) An election under section 51(2) of the 1993 (NI) Act is to be notified to the Commissioners in such form as they may reasonably require for the purpose of identifying the earner to whom the election relates.
+
+(4) Such notification is to be given—
+
+- (a) where the scheme is being wound up, within the period of two years starting with the date the scheme started to wind up;
+- (b) where the earner ceased to serve in employment which was contracted-out for any other reason mentioned in section 51(2A) of the 1993 (NI) Act, within the period beginning one month before and ending six months after the date on which the earner so ceased.
+
+(5)[^key-804fca1b496b135ef6e8139414309f88] The Commissioners may in any particular case or class of case extend the period within which notification of an election is to be given—
+
+- (a) if it appears to them that notification could not reasonably have been given within the period specified in paragraph (4); or
+- (b) if—
+  - (i) the trustees are seeking to reach, or have reached, an agreement with the Commissioners as to the scheme’s liabilities for guaranteed minimum pensions or section 5(2B) rights of members through the scheme reconciliation service; and
+  - (ii) as a result of doing so, the Commissioners and the trustees agree that a premium is payable.
+
+### 40. Payment of a contributions equivalent premium: Northern Ireland
+
+(1) A contributions equivalent premium which the trustees are required or have elected to pay is to be paid on or before—
+
+- (a) the day six months after the date of termination of contracted-out employment in respect of which the premium is payable; or
+- (b) the day one month after the day on which the Commissioners send to the trustees a notice certifying the amount of the premium payable,
+
+whichever is later.
+
+(2) In a case to which regulation 36(1)(a) applies, the Board of the Pension Protection Fund (as defined in that regulation) (“the Board”) is to pay the contributions equivalent premium on or before—
+
+- (a) the day six months after the date the assessment period (construed in accordance with Article 116 of the 2005 Order) ended; or
+- (b) the day one month after the day on which the Commissioners send to the Board a notice certifying the amount of the premium payable,
+
+whichever is the later.
+
+(3) On an application made to them for that purpose, the Commissioners may in any particular case or class of case extend the period within which a premium is to be paid under paragraph (1) or (2)—
+
+- (a) if they are satisfied that the circumstances are such that payment of the premium could not reasonably be required to be made within the period specified in that paragraph, by a period not exceeding six months; [^key-31befc1d3b465b0106df0bedc38b65e5]...
+- (b) if they are satisfied that to require earlier payment would be prejudicial to the interests of the earner in respect of whom the premium is payable or of the generality of the members of the scheme, by such further period as they consider reasonable; and[^key-7408098c23dcb37dd85951dc4c1c6ccb]
+- (c) if—
+  - (i) the trustees are seeking to reach, or have reached, an agreement with the Commissioners as to the scheme’s liabilities for guaranteed minimum pensions or section 5(2B) rights of members through the scheme reconciliation service; and
+  - (ii) as a result of doing so, the Commissioners and the trustees agree that a premium is payable,
+
+  by such further period as they consider reasonable.
+
+(4) Where the amount of any contributions equivalent premium which is payable does not exceed £17, the trustees are not liable to pay it and, accordingly, if it is not paid, it is to be treated as paid for the purposes of section 44A(2) (additional pension and other benefits) and section 56 (effect of payment of premiums on rights) of the 1993 (NI) Act.
+
+(5) Any liability for a contributions equivalent premium is a liability to make payment out of the resources of the scheme.
+
+### 41. Payment in lieu of benefit and delay in refund for the purposes of the employer’s right of recovery: Northern Ireland
+
+(1) For the purposes of section 57(10) of the 1993 (NI) Act (payments in lieu of benefit) a payment in lieu of benefit is to include a payment made or to be made out of the resources of the scheme towards the provision of deferred benefits for the earner.
+
+(2) The following provisions of this regulation apply, for the purpose of enabling any right of recovery conferred by section 57 of the 1993 (NI) Act to be exercised, where an employed earner (or, by virtue of a connection with the earner, any other person) is entitled to a refund of any payments made under a scheme that was contracted-out in respect of the earner towards the provision of benefits under the scheme (“the refund”).
+
+(3) Subject to paragraph (4), where a contributions equivalent premium falls to be paid in respect of the earner under the 1993 (NI) Act and the person liable for the refund has been given a notice of delay in accordance with paragraph (5), that person is not to make the refund in whole or in part until after the end of the period of four weeks starting with—
+
+- (a) the date of payment of the contributions equivalent premium; or
+- (b) the last day of the prescribed period for payment of that premium,
+
+whichever occurs first.
+
+(4) Paragraph (3) does not apply to so much, if any, of the refund as exceeds the amount certified by the Commissioners under section 59(1)(d) of the 1993 (NI) Act (certification of amount attributable to reductions of contributions).
+
+(5) A notice of delay is a notice in writing given by the trustees of the scheme concerned, relating either to a particular case or to a class of case and containing the following particulars—
+
+- (a) the name of the earner or such particulars as will sufficiently identify the class of case concerned;
+- (b) such particulars as will sufficiently identify the refund or refunds concerned; and
+- (c) a memorandum in a form approved by the Commissioners giving brief particulars of the effect of paragraphs (3) and (4).
+
+(6) Where the trustees of a scheme have given a notice of delay, they are to inform the person to whom the notice was given of the end date of the period during which they may not make a refund to which the notice applies.
+
+### 42. Refund of a contributions equivalent premium: Northern Ireland
+
+(1) The Commissioners are to refund a contributions equivalent premium if—
+
+- (a) it was paid in error;
+- (b) they are satisfied that a transfer of the earner’s accrued rights will be made in accordance with regulations made under section 16 (transfer of accrued rights) or section 33A of the 1993 (NI) Act; or
+- (c) the scheme is one under which a member may qualify for benefits by virtue of service either in employed earner’s employment or as a self-employed earner (within the meaning of section 2 of the Contributions and Benefits (NI) Act) or both and the Commissioners are satisfied that the earner in respect of whom the premium was paid has completed a period of membership of the scheme as a self-employed earner which, when aggregated with service in employed earner’s employment, amounts to not less than two years.
+
+(2) Where a contributions equivalent premium is refunded under paragraph (1), the earner’s accrued rights under the scheme, which were extinguished by payment of the premium, are to be restored.
+
+(3) A refund under this regulation is only to be made if an application is made in writing in such form as the Commissioners may reasonably require for that purpose, or by means of an electronic communication in such form as the Commissioners may approve.
+
+(4) In paragraph (1)(a), “error” means an error which—
+
+- (a) was made at the time of payment; and
+- (b) relates to some present or past matter.
+
+(5) Where—
+
+- (a) an earner has been employed concurrently in two or more contracted-out employments, on the termination of one or more of which a contributions equivalent premium has been paid; and
+- (b) the aggregate amount of any such payments has the effect that the National Insurance Fund has gained, by reference to any employment in respect of which such a payment has been made, a greater amount than it would have gained from Class 1 contributions under the Contributions and Benefits (NI) Act if those employments had not been contracted-out,
+
+there is to be paid out of the National Insurance Fund to the earner (or to the earner’s estate) an amount which bears the same proportion to the amount of the excess as the reduction under section 37(1A) of the 1993 (NI) Act (as it had effect immediately before the second abolition date) (reduced rates of Class 1 contributions) in the normal percentage of primary Class 1 contributions bears to the total reduction under subsections (1A) and (1B) in the total normal percentage of Class 1 contributions.
+
+(6) The Commissioners are also to refund a contributions equivalent premium if they are satisfied that—
+
+- (a) where it was paid in the circumstances mentioned in section 51(2A)(a), (b), (d) or (e) of the 1993 (NI) Act, the person in respect of whom it was paid has died, without leaving a widow, widower or surviving civil partner, on or before the later of the days mentioned in sub-paragraphs (a) and (b) respectively of regulation 40(1); or
+- (b) where it was paid in the circumstances mentioned in section 51(2A)(c) of the 1993 (NI) Act, there are no accrued rights to guaranteed minimum pensions or section 5(2B) rights under the scheme in question in respect of the widow, widower or surviving civil partner in question.
+
+### 43. Continuation of savings in respect of state scheme premiums: Northern Ireland
+
+The following continue to have effect in relation to any state scheme premium (payment required to be made under section 51(1) of the 1993 (NI) Act) which was paid before the principal appointed day—
+
+- (a) regulations 17 to 25, 31, 41, 42 and 44 to 46 of the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1985;
+- (b) the Occupational Pension Schemes (Contracted-out Protected Rights Premiums) Regulations (Northern Ireland) 1987.
+
+### 44. Revocations of the Occupational Pension Schemes (Contracting-Out) Regulations (Northern Ireland) 1996 taking effect on the second abolition date
+
+Regulations 49 to 54 of the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996 are revoked.
+
+## PART 9 — REVOCATION OF PART OF THE OCCUPATIONAL PENSION SCHEMES (SCHEMES THAT WERE CONTRACTED-OUT) REGULATIONS 2015
+
+### 45. Revocation of part of the Occupational Pension Schemes (Schemes that were Contracted-out) Regulations 2015
+
+The Occupational Pension Schemes (Schemes that were Contracted-out) Regulations 2015, except for regulation 28, and regulation 32 in so far as it revokes regulation 69B of the 1996 Regulations, are revoked.
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Altmann
+
+Minister of State,
+
+Department for Work and Pensions
+
+## SCHEDULE — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS
+
+Preamble
+
+The following provisions of the 1993 Act—
+
+- section 7[^f00119]
+- section 9[^f00120]
+- section 11(5)[^f00121]
+- section 12A(4)[^f00122]
+- section 12D[^f00123]
+- section 16(3) and (4)
+- section 17(6)
+- section 20(1) and (3)[^f00124]
+- section 21(1) and (2)[^f00125]
+- section 24C[^f00126]
+- section 25(2)[^f00127]
+- section 34[^f00128]
+- section 36(6)[^f00129]
+- section 37(1)
+- section 37A(1)(c)
+- section 50(1B)[^f00130]
+- section 51(2) and (4)
+- section 53(3)[^f00131]
+- section 55(2), (2B) and (2C)
+- section 56(2)[^f00132]
+- section 57(1) and (2)
+- section 61(7) and (11)
+- section 155[^f00133]
+- section 156(2)[^f00134]
+- section 181(1) and (2)[^f00135]
+- section 182(2) and (3)
+- section 183(1)[^f00136]
+- Schedule 2, Part I[^f00137].
+- The following provisions of the Pension Schemes (Northern Ireland) Act 1993 and now vested in the Secretary of State[^f00138]—
+- section 51(2), (2B) and (2C)[^f00139]
+- section 52(2)[^f00140]
+- section 53(1) and (2)
+- section 57(7) and (11)
+- section 176(1)
+- section 177(2) to (4)
+- section 178(1)[^f00141]
+
+Schedule 1, paragraphs 1, 2 and 5[^f00142].
+
+- The following provisions of the 1995 Act—
+- section 92(6)
+- section 174(3).
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are being made to correct a defect in an earlier instrument (the Occupational Pension Schemes (Schemes that were Contracted-out) Regulations 2015 ([S.I. 2015/1452](https://www.legislation.gov.uk/uksi/2015/1452))). Regulation 45 revokes that instrument, with exceptions, and this instrument re-makes the provisions in that instrument without the provisions contained within regulation 28 of that instrument, and the provision within regulation 32 of that instrument which revokes regulation 69B of the Occupational Pension Schemes (Contracting-out) Regulations 1996 ([S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172)) (“the 1996 Regulations”).
+
+These Regulations revoke and replace most of the 1996 Regulations in consequence of provision made by the Pensions Act [2014 (c.19)](https://www.legislation.gov.uk/ukpga/2014/19) (“the 2014 Act”).
+
+The 2014 Act creates a new state pension for people reaching pensionable age after implementation on 6th April 2016. This date is referred to in the Pension Schemes Act [1993 (c.48)](https://www.legislation.gov.uk/ukpga/1993/48) (“the 1993 Act”) (as amended by the 2014 Act) as “the second abolition date”. The new pension will be paid at a single weekly rate, replacing the current state pension which has two components: a basic state pension and an additional state pension. The 2014 Act therefore also makes amendments to existing primary legislation to abolish contracting-out of the state additional pension for salary related pension schemes. Much of the provision made by the 1996 Regulations is revoked with effect from the second abolition date by regulation 31.
+
+Some provisions of the 1993 Act and the 1996 Regulations will remain in force until 6th April 2019, in accordance with savings provisions contained in [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502). In particular, provisions relating to the issue, variation and surrender of contracting-out certificates remain in force to enable the Commissioners for Her Majesty’s Revenue and Customs (“the Commissioners”) to issue certificates relating to a period before the second abolition date, and to deal with any variation or surrender of such a certificate which is to take effect from a date preceding that date. Provisions relating to schemes which have ceased to contract-out before the second abolition date also remain in force, to ensure that the Commissioners are notified of the termination of contracted-out employment in these circumstances and that earner’s pension rights are protected.
+
+Provisions of the 1996 Regulations which are to continue to have effect after the second abolition date are, where necessary, amended by regulations 28 and 29 to reflect the abolition of contracting-out.
+
+Provisions of the 1996 Regulations which are to continue to apply indefinitely to pension schemes which were contracted-out prior to the second abolition date are re-enacted, with modifications reflecting the abolition of contracting-out, in these Regulations. Part 2 contains provisions relating to all pension schemes which were salary related contracted-out schemes, Part 3 carries forward additional requirements relating to section 9(2B) rights and Part 4 continues additional requirements in relation to guaranteed minimum pensions. “Section 9(2B) rights” are rights attributable to employment which was contracted-out on and after 6th April 1997 under section 9(2B) of the 1993 Act. Guaranteed minimum pensions relate to contracted-out employment before that date where, under scheme rules, the weekly rate of the pension is to be not less than the guaranteed minimum under sections 14 to 16 of the 1993 Act.
+
+In Part 2, regulation 3 imposes limitations on the alteration of scheme rules, regulation 4 deals with correction of errors as to whether an earner was in contracted-out employment, regulation 5 provides for the disclosure of certain information by the Secretary of State and the Commissioners and regulation 6 continues requirements as to the rules of overseas schemes. Regulation 7 provides for restoration of rights in the State scheme where a scheme is insolvent and regulations 8 to 14 carry forward provisions relating to contributions equivalent premiums. Under the savings provisions contained within [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502), these provisions apply only in relation to schemes which ceased to be contracted-out before the second abolition date and, after 6th April 2019, only in relation to such schemes which are winding up. Regulations 15 and 16 carry forward certain transitional provisions and savings from the 1996 Regulations.
+
+In Part 3, regulation 17 sets out the circumstances in which scheme rules may be altered in relation to section 9(2B) rights and regulation 18 carries forward requirements for the payment of lump sums and commutation of benefits. Regulation 19 governs the circumstances in which section 9(2B) rights may be forfeited.
+
+In Part 4, regulation 20 continues limitations on the alteration of scheme rules in relation to guaranteed minimum pensions and regulations 21 and 22 carry forward requirements as to the payment of pensions to surviving spouses and civil partners. Regulations 23 and 24 deal with revaluation of guaranteed minimum pensions (GMPs) and regulation 25 describes the circumstances in which a lump sum may be paid instead of a pension. Provision as to suspension and forfeiture of guaranteed minimum pensions is carried forward by regulation 26; regulation 27 deals with conversion of guaranteed minimum pensions into other benefits.
+
+Part 6 carries forward modifications of section 16 in relation to revaluation after transfer from another scheme previously located in the 1996 Regulations, by inserting those provisions into the Contracting-out (Transfer and Transfer Payment) Regulations 1996 ([S.I. 1996/1462](https://www.legislation.gov.uk/uksi/1996/1462)).
+
+Part 7 provides for revocations and savings of the 1996 Regulations. Regulations 62, 66 and 66 of the 1996 Regulations are saved for the purposes of maintaining the current provisions for fixed rate revaluation of GMPs where an earner ceased contracted-out employment before the second abolition date.
+
+Part 8 of these Regulations replicates provisions of Part 2 relating to contributions equivalent premiums for Northern Ireland. Contributions equivalent premiums and rights to return to the state pension scheme are excepted matters under the Northern Ireland Act [1998 (c.47)](https://www.legislation.gov.uk/ukpga/1998/47). Regulation 43 reflects for the [Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996 (S.R.1996 No.493)](https://www.legislation.gov.uk/nisr/1996/493) revocations of provisions relating to contributions equivalent premiums in the 1996 Regulations by regulation 31.
+
+An analysis of the impact of this legislation has been made as part of the analysis of the Pensions Act 2014. A copy is available in the libraries of both Houses of Parliament and from the Better Regulation Unit of the Department for Work and Pensions, 2D, Caxton House, Tothill Street, London SW1H 9NA.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48). Relevant amendments are made by paragraph 46 of Schedule 3 to, paragraph 80 of Schedule 5 to, and Part I of Schedule 7 to, the Pensions Act [1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26). A draft of [S.I. 2015/1452](https://www.legislation.gov.uk/uksi/2015/1452) was consulted on and these Regulations are materially identical to [S.I. 2015/1452](https://www.legislation.gov.uk/uksi/2015/1452) except for the removal of the provisions in regulation 28 of that Instrument, and that regulation 69B of the Occupational Pension Schemes (Contracting-out) Regulations 1996 is not revoked by this instrument.
+
+[^key-da455b6526a85cec5bf4c8f9820c74a9]: Textual amendment: Words in reg. 2 inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2017/354/regulation/4/2/a)
+
+[^key-b24542877d1290e78f6d7f923a73b1f4]: Textual amendment: Words in reg. 2 inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2017/354/regulation/4/2/b)
+
+[^key-ea793103406bd2b27e0c426e478cf64c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/2/1) substituted (6.4.2018) by [The Contracting-out (Transfer and Transfer Payment) (Amendment) Regulations 2018 (S.I. 2018/234)](https://www.legislation.gov.uk/uksi/2018/234), [regs. 1](https://www.legislation.gov.uk/uksi/2018/234/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/234/regulation/3/2/a)
+
+[^key-9869786a2efd6c1ff53143ecadf34af8]: Textual amendment: Words in reg. 2(1)(b) inserted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [28(b)(i)](https://www.legislation.gov.uk/uksi/2016/200/article/28/b/i)
+
+[^key-8029318afec0c1d291c839c866d4449e]: Textual amendment: Words in reg. 2(1)(b) inserted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [28(b)(ii)](https://www.legislation.gov.uk/uksi/2016/200/article/28/b/ii)
+
+[^key-3bef19775dd5ad8871fc782c94ce7d90]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/2/1) substituted (6.4.2018) by [The Contracting-out (Transfer and Transfer Payment) (Amendment) Regulations 2018 (S.I. 2018/234)](https://www.legislation.gov.uk/uksi/2018/234), [regs. 1](https://www.legislation.gov.uk/uksi/2018/234/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/234/regulation/3/2/b)
+
+[^key-dac7848064308a8dfc8a6b4b43b17aa8]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/6/2) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/36/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e6ebb1f1f20b014a6ced1b2d1d9649ca]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/9/3) substituted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2017/354/regulation/4/3)
+
+[^key-4f18f67cbcdb078d68706c76ea63f977]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/11/5) substituted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2017/354/regulation/4/4)
+
+[^key-87e2809e1681efac6295d2a5bcf2d755]: Textual amendment: Word in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/12/3) omitted (6.4.2017) by virtue of [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [4(5)(a)](https://www.legislation.gov.uk/uksi/2017/354/regulation/4/5/a)
+
+[^key-3629f0b5a27e2ffade43b7f441dd08d8]: Textual amendment: [Reg. 12(3)(c)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/12/3/c) and word inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [4(5)(b)](https://www.legislation.gov.uk/uksi/2017/354/regulation/4/5/b)
+
+[^key-ee3d2d2341c2447901a10b560382a0e4]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/2015/1677/regulation/20) omitted (6.4.2016) by virtue of [The Occupational and Personal Pension Schemes (Modification of Schemes - Miscellaneous Amendments) Regulations 2016 (S.I. 2016/231)](https://www.legislation.gov.uk/uksi/2016/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/231/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2016/231/regulation/4/a)
+
+[^key-7ba61c456a83c699304a36ecc4fe6197]: Textual amendment: [Reg. 20(a)(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/20/a/b) substituted for [reg. 20(a)(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/20/a/b) (6.4.2016) by [The Occupational and Personal Pension Schemes (Modification of Schemes - Miscellaneous Amendments) Regulations 2016 (S.I. 2016/231)](https://www.legislation.gov.uk/uksi/2016/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/231/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2016/231/regulation/4/b)
+
+[^key-232f3e273dc44434fa9b741fced47aec]: Textual amendment: Word in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/21/1) omitted (6.4.2017) by virtue of [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [4(6)(a)](https://www.legislation.gov.uk/uksi/2017/354/regulation/4/6/a)
+
+[^key-88e27df5b3f41216d283cb50e8e6009f]: Textual amendment: [Reg. 21(1)(d)-(e)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/21/1/d) inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [4(6)(b)](https://www.legislation.gov.uk/uksi/2017/354/regulation/4/6/b)
+
+[^key-4cc8d523fa4b2018233b79be07756b27]: Textual amendment: Reg. 22(3A)-(3B) inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [4(7)(a)](https://www.legislation.gov.uk/uksi/2017/354/regulation/4/7/a)
+
+[^key-c14c258fa05afce923cec6a2edfa9987]: Textual amendment: Reg. 22(4)-(5) substituted for reg. 22(4)(5) (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [4(7)(b)](https://www.legislation.gov.uk/uksi/2017/354/regulation/4/7/b)
+
+[^key-49ce183a57d46081dd38052f2dcddcf1]: Textual amendment: Words in [reg. 22(4)(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/22/4/b) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 101(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/101/a)
+
+[^key-683caeadd25ced79bf5ab367ea53e18d]: Textual amendment: Words in [reg. 22(4)(c)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/22/4/c) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 101(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/101/a)
+
+[^key-d2a05ca32caf2b6eb6a92a6ef325e176]: Textual amendment: Words in [reg. 22(4A)(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/22/4A/b) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 101(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/101/a)
+
+[^key-d41d1b3b541e3ff84aa26ef01534bf50]: Textual amendment: [Reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/24/2) substituted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [4(8)](https://www.legislation.gov.uk/uksi/2017/354/regulation/4/8)
+
+[^key-0e24bd5b0d8b0ee2448f42bd15affad1]: Textual amendment: [Reg. 24(2)(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/24/2/b) full stop omitted (6.4.2022) by virtue of [The Occupational Pension Schemes (Schemes that were Contracted-out) (No. 2) (Amendment) Regulations 2022 (S.I. 2022/158)](https://www.legislation.gov.uk/uksi/2022/158), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/158/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/158/regulation/2/2/a)
+
+[^key-0e25d74e43b6f76c42ea49b027ccb4da]: Textual amendment: Words in [reg. 24(2)(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/24/2/b) inserted (6.4.2022) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No. 2) (Amendment) Regulations 2022 (S.I. 2022/158)](https://www.legislation.gov.uk/uksi/2022/158), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/158/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/158/regulation/2/2/a)
+
+[^key-dacc8b5d053c9247254ecd58ad870573]: Textual amendment: [Reg. 24(2)(c)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/24/2/c) inserted (6.4.2022) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No. 2) (Amendment) Regulations 2022 (S.I. 2022/158)](https://www.legislation.gov.uk/uksi/2022/158), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/158/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/158/regulation/2/2/b)
+
+[^key-04a179ee30ed556cd1da103d6bd7f2ef]: Textual amendment: Words in [reg. 26(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/26/2/a/ii) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 49](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/49)
+
+[^key-8dece41bf1441ba042f4dc7a142f2296]: Textual amendment: Reg. 27A inserted (6.4.2016) by [The State Pension and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/199)](https://www.legislation.gov.uk/uksi/2016/199), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/199/regulation/1/3), [6(3)](https://www.legislation.gov.uk/uksi/2016/199/regulation/6/3)
+
+[^key-017af9feff8901fee8f41600737e9bf2]: Textual amendment: Words in [reg. 27A(3)(b)(i)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/27A/3/b/i) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 101(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/101/b)
+
+[^key-841f05244978c9263ad4a276c7361696]: Textual amendment: [Reg. 37(3)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/37/3) substituted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [4(9)](https://www.legislation.gov.uk/uksi/2017/354/regulation/4/9)
+
+[^key-804fca1b496b135ef6e8139414309f88]: Textual amendment: [Reg. 39(5)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/39/5) substituted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [4(10)](https://www.legislation.gov.uk/uksi/2017/354/regulation/4/10)
+
+[^key-31befc1d3b465b0106df0bedc38b65e5]: Textual amendment: Word in [reg. 40(3)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/40/3) omitted (6.4.2017) by virtue of [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [4(11)(a)](https://www.legislation.gov.uk/uksi/2017/354/regulation/4/11/a)
+
+[^key-7408098c23dcb37dd85951dc4c1c6ccb]: Textual amendment: [Reg. 40(3)(c)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/40/3/c) and word inserted (6.4.2017) by [The Occupational Pension Schemes and Social Security (Schemes that were Contracted-out and Graduated Retirement Benefit) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/354)](https://www.legislation.gov.uk/uksi/2017/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/354/regulation/1/2), [4(11)(b)](https://www.legislation.gov.uk/uksi/2017/354/regulation/4/11/b)
+
+[^f00119]: Footnote: Section 7 was amended by section 136 of the 1995 Act, and sections 15(3)(a) and 27(2) of, and paragraphs 1 and 2 of Schedule 4 to, and Part 6 of Schedule 7 to, the Pensions Act 2007. Section 7 is repealed by paragraph 5 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502).
+
+[^f00120]: Footnote: Section 9 was amended by section 136 of, and paragraph 21 of Schedule 5 to, the 1995 Act, paragraph 35 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999, section 283 of the 2004 Act, [S.I. 2006/745](https://www.legislation.gov.uk/uksi/2006/745) and sections 15(3)(a) and 27(2) of, and paragraphs 1 and 4 of Schedule 4 to, and Part 6 of Schedule 7 to, the Pensions Act 2007. Section 9 is repealed by paragraph 9 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502).
+
+[^f00121]: Footnote: Section 11(5) was amended by paragraph 37 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999, and section 1(2)(a) of the Employment Rights (Dispute Resolution) Act [1998 (c.8)](https://www.legislation.gov.uk/ukpga/1998/8). Section 11 is repealed by paragraph 9 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502).
+
+[^f00122]: Footnote: Section 12A was inserted by section 136 of the 1995 Act, and amended by [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050), and paragraph 5 of Schedule 5, and Part 8 of Schedule 7 to the Pensions Act 2007. It is repealed by paragraph 11 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502).
+
+[^f00123]: Footnote: Section 12D was inserted by section 136 of the 1995 Act. It is repealed by paragraph 11 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502).
+
+[^f00124]: Footnote: Section 20(1) was amended by paragraph 2 of Schedule 5 to the Child Support, Pensions and Social Security Act 2000. Section 20(3) was amended by sections 15(3)(a) and 27(2) of, and paragraphs 46 and 48 of Schedule 4 to, and Part 7 of Schedule 7 to, the Pensions Act 2007, and [S.I. 2011/1730](https://www.legislation.gov.uk/uksi/2011/1730).
+
+[^f00125]: Footnote: Section 21 was amended by section 284(1) of the 2004 Act and [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050).
+
+[^f00126]: Footnote: Section 24C was inserted by section 14(3) of the Pensions Act 2007.
+
+[^f00127]: Footnote: Section 25(2) was substituted by paragraph 33(b) of Schedule 5 to the 1995 Act, and amended by paragraph 40 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999.
+
+[^f00128]: Footnote: Section 34 is repealed by paragraph 22 of Schedule 13 to the Pensions Act 2014, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502). It was amended by section 151 of the 1995 Act, paragraph 45 of Schedule 1 to the Social Security Contributions (Transfer of Functions etc.) Act 1999, sections 15(3)(a) and 27(2) of, and paragraphs 1 and 15 of Schedule 4 to, and Part 6 of Schedule 7 to, the Pensions Act 2007.
+
+[^f00129]: Footnote: Section 36 is repealed by paragraph 22 of Schedule 13 to the Pensions Act 2014, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502). Section 36(6) was amended by [S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172).
+
+[^f00130]: Footnote: Section 50 is repealed by paragraph 33 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502). Section 50(1B) was inserted by paragraph 45(b) of Schedule 5 to the 1995 Act.
+
+[^f00131]: Footnote: Section 53(3) is repealed by paragraph 36 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502). It was amended by paragraph 48(c) of Schedule 5 to the 1995 Act, paragraph 52 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999, and [S.I. 2011/1730](https://www.legislation.gov.uk/uksi/2011/1730).
+
+[^f00132]: Footnote: Section 56 is repealed by paragraph 37 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502). Section 56(2) was amended by paragraph 51(a) of Schedule 5 to the 1995 Act, and paragraph 54 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999.
+
+[^f00133]: Footnote: Section 155 was amended by paragraph 65 of Schedule 5 to the 1995 Act, paragraph 59 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999, and [S.I. 2011/1730](https://www.legislation.gov.uk/uksi/2011/1730).
+
+[^f00134]: Footnote: Section 156 was substituted by paragraph 9 of Schedule 5 to the Child Support, Pensions and Social Security Act 2000, and amended by [S.I. 2011/1730](https://www.legislation.gov.uk/uksi/2011/1730).
+
+[^f00135]: Footnote: Section 181(2) was amended by paragraph 44(b) of Schedule 3 to the 1995 Act.
+
+[^f00136]: Footnote: Section 183(1) was amended by paragraph 79 of Schedule 5, paragraph 15(a) of Schedule 6, and Parts 3 and 4 of Schedule 7, to the 1995 Act.
+
+[^f00137]: Footnote: Paragraphs 1 to 4 and 6 to 8 of Part I of Schedule 2 are repealed by, and paragraph 5 of that Part is amended by, paragraph 46 of Schedule 13 to the 2014 Act, but saved for certain purposes *see* [S.I. 2015/1502](https://www.legislation.gov.uk/uksi/2015/1502). Part 1 of Schedule 2 was amended by section 141 of, and paragraph 84 of Schedule 5, and Part 3 of Schedule 7 to, the 1995 Act, paragraph 62 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999, and paragraphs 46 and 59 of Schedule 4 to the Pensions Act 2007.
+
+[^f00138]: Footnote: *See* paragraphs 66 and 77 of Schedule 1 to [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671).
+
+[^f00139]: Footnote: Section 51(2) was substituted by Article 138(1) of [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213) and amended by paragraph 7(2)(a) of Schedule 2 to the Welfare Reform and Pensions Act 1999 and paragraph 26 of Schedule 4 to the Pensions Act (Northern Ireland) 2008 (c.1 (N.I.)). Subsections (2B) and (2C) were inserted by paragraph 7(2)(c) of Schedule 2 to the Welfare Reform and Pensions Act 1999.
+
+[^f00140]: Footnote: Section 52(2) was amended by Schedule 5 to [S.I. 1995/3213](https://www.legislation.gov.uk/uksi/1995/3213), and paragraph 64(2) of Schedule 1 to [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671).
+
+[^f00141]: Footnote: Section 178(1) was amended by Schedule 5 to [S.I. 1995/3213](https://www.legislation.gov.uk/uksi/1995/3213).
+
+[^f00142]: Footnote: Paragraphs 2 and 5 were amended by paragraph 77 of Schedule 1 to [S.I.1999/671](https://www.legislation.gov.uk/uksi/1999/671). Paragraph 5 was also amended by Article 138(2) and Schedule 5 to [S.I. 1995/3213](https://www.legislation.gov.uk/uksi/1995/3213), and paragraph 58 of Schedule 4 to the Pensions Act (Northern Ireland) 2008.

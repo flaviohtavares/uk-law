@@ -1,0 +1,391 @@
+---
+title: The Police and Crime Commissioner Elections (Welsh Forms) Order 2021
+id: uksi/2021/291
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2021-03-10'
+text_date: '2024-12-04'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2021/291
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/291/pdfs/uksiem_20210291_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/291/pdfs/uksi_20210291_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/291/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police and Crime Commissioner Elections (Welsh Forms) Order 2021
+
+> Text as at 2024-12-04.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2021 No. 291
+
+Police, England And Wales
+
+The Police and Crime Commissioner Elections (Welsh Forms) Order 2021
+
+Made
+
+10th March 2021
+
+Coming into force
+
+11th March 2021
+
+The Minister for the Cabinet Office, in exercise of the powers conferred by section 58(1)(a) (as extended by section 26(3) of the Welsh Language Act 1993[^f00001]) and section 154(5) of the Police Reform and Social Responsibility Act 2011 (“the 2011 Act”)[^f00002], makes the following Order.
+
+In accordance with section 7(1) and (2)(hc) of the Political Parties, Elections and Referendums Act 2000[^f00003], the Minister for the Cabinet Office has consulted the Electoral Commission before making this Order.
+
+In accordance with section 154(2)(b) of the 2011 Act, a draft of this Order has been laid before and approved by a resolution of each House of Parliament.
+
+## 1. Citation, commencement and application[^key-b41ab8ddd3c0667e86d23c4c8ee74ad5]
+
+(1) This Order may be cited as the Police and Crime Commissioner Elections (Welsh Forms) Order 2021.
+
+(2) This Order comes into force the day after the day on which it is made.
+
+(3) Articles 2 to 5 apply to an election of a police and crime commissioner in Wales.
+
+## 2. Interpretation[^key-babde0b27e8927efe90b7f17718e9359]
+
+In this Order—
+
+- “the 2012 Order” means the Police and Crime Commissioner Elections Order 2012[^f00004];
+- “PCC election” means an election of a police and crime commissioner in accordance with Chapter 6 of Part 1 of the Police Reform and Social Responsibility Act 2011;
+- “the PCC elections rules” means the rules set out in Parts 1 to 7 of Schedule 3 to the 2012 Order.
+
+## 3. Welsh versions of forms of words[^key-df20ce08fbeb5822efd2d6dc293b8531]
+
+(1)[^key-f29c825140aa702fe32675a24c925872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The form of words set out in Part 1B of Schedule 1 is prescribed as the Welsh version of the form of words referred to in Table 1b, which is to be used at a PCC election in Wales alongside the corresponding English version.
+
+Table 1b[^key-358f99f7e79fda1a669b687491cdc19b]
+
+<table>
+<tbody>
+<tr><td>Form of words</td><td>English version in the 2012 Order</td></tr>
+<tr><td rowspan="2">Notice for the guidance of voters</td><td>Words in quotation marks in rule 30(1)(a) of the PCC elections rules</td></tr>
+<tr><td>Words in quotation marks in rule 30(3A) of the PCC elections rules, as modified by paragraph 25 of Schedule 4</td></tr>
+</tbody>
+</table>
+
+(3) The form of words set out in Part 2 of Schedule 1 is prescribed as the Welsh version of the form of words specified in the table in paragraph (1) of rule 37 (questions to be put to voters) of the PCC elections rules, which is to be available for use (and used if preferred by a voter) at a PCC election in Wales as an alternative to the corresponding English version.
+
+## 4. Welsh versions of forms[^key-f89f47abd804f0cf9b17f33b4ae3d081]
+
+Each of the forms listed in Table 2 and set out in Welsh in Schedule 2 in the same order as listed in Table 2 is prescribed as the Welsh version of the form, which is to be available for use (and used if preferred by the person completing the form) at a PCC election in Wales in place of the corresponding English version.
+
+Table 2
+
+| Form | English version in the 2012 Order |
+| --- | --- |
+| Form 6 (nomination paper)[^key-557638d4fc49ba82a84eb8ad993349a5] | Referred to in rule 5(1) of Part 2 of, and set out in Part 8 of, the PCC elections rules |
+| Form 7 (consent to nomination) | Referred to in rule 8(b) of Part 2 of, and set out in Part 8 of, the PCC elections rules |
+| Form 17 (certificate as to employment on duty on the day of the poll) | Referred to in rule 34(4)(b) of, and set out in Part 8 of, the PCC elections rules |
+| Form 18 (declaration to be made by companion of a voter with disabilities) | Referred to in rule 41(4)(a) of, and set out in Part 8 of, the PCC elections rules |
+| Form 24 (return of expenses incurred in support of a candidate) | Referred to in article 34(7), and set out in Schedule 6 |
+| Form 25 (declaration of expenses incurred in support of a candidate) | Referred to in article 34(7), and set out in Schedule 6 |
+| Form 26 (election agent’s declaration as to election expenses) | Referred to in article 41(1), and set out in Schedule 6 |
+| Form 27 (candidate’s declaration as to election expenses) | Referred to in article 41(2), and set out in Schedule 6 |
+| Form 28 (declaration as to election expenses by candidate who is his or her own election agent) | Referred to in article 41(5), and set out in Schedule 6 |
+| Form 29 (form in which election address to be submitted) | Referred to in paragraph 4(1)(a) of Schedule 8, and set out in Part 2 of that Schedule |
+
+## 5. Welsh and English versions of forms[^key-f5fcfca29b7bd58c31e8bd742d4bb93a]
+
+Each of the forms listed in Table 3 and set out in bilingual (Welsh and English) form in Schedule 3 in the same order as listed in Table 3 is prescribed as the Welsh and English version of the form, which is to be used at a PCC election in Wales in place of the corresponding English version.
+
+Table 3
+
+| Form | English version in the 2012 Order |
+| --- | --- |
+| Form 1 (proxy paper) | Referred to in paragraph 5(5) of Schedule 2, and set out in Part 4 of that Schedule |
+| Form 2 (postal voting statement where PCC election taken alone) | Referred to in paragraph 30(2) and (6)(a) of Schedule 2, and set out in Part 4 of that Schedule |
+| Form 4 (postal voting statement where polls are combined but proceedings on issue and receipt of postal ballot papers are not combined) | Referred to in paragraph 30(5) and (6)(a) of Schedule 2, and set out in Part 4 of that Schedule |
+| Form 5 (statement of the number of postal ballot papers issued) | Referred to in paragraph 59(1)(b) of Schedule 2, and set out in Part 4 of that Schedule |
+| Form 9 (corresponding number list for issue of postal ballot papers at a PCC election) | Referred to in rule 20(2) of, and set out in Part 8 of, the PCC elections rules |
+| Form 10 (corresponding number list for use in polling station at a PCC election) | Referred to in rule 20(3) of, and set out in Part 8 of, the PCC elections rules |
+| Form 11 (official poll card) | Referred to in rule 28(1)(a) of, and set out in Part 8 of, the PCC elections rules |
+| Form 12 (official postal poll card) | Referred to in rule 28(1)(b) of, and set out in Part 8 of, the PCC elections rules |
+| Form 13 (official proxy poll card) | Referred to in rule 28(1)(c) of, and set out in Part 8 of, the PCC elections rules |
+| Form 14 (official postal proxy poll card) | Referred to in rule 28(1)(d) of, and set out in Part 8 of, the PCC elections rules |
+| Form 14A (ballot paper refusal list)[^key-210eac43a967506cf426194f5b4d5fd8] | Referred to in rule 29(4A) of, and set out in Part 8 of, the PCC elections rules |
+| Form 16 (notice for guidance of voters for exhibition inside and outside polling station) | Referred to in rule 30(1)(b) of, and set out in Part 8 of, the PCC elections rules |
+
+Chloe Smith
+
+Minister for the Constitution and Devolution
+
+Cabinet Office
+
+## SCHEDULE 1 — Welsh versions of forms of words
+
+Article 3
+
+### PART 1A — Notice for the guidance of voters – Welsh version of the form of words where there are three or more candidates[^key-61335996124fb379a188496bd1f42714]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 1B — Notice for the guidance of voters – Welsh version of the form of words ...[^key-dc48edae9387e668a99e61870a0231af][^key-0483a79a947484d3057a73d17154328c]
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_002)
+
+### PART 2 — Welsh version of questions to be put to voters[^M_C_aabc86e7-fd01-4528-cd1a-af4c0263ee67][^key-832dea5b49a7823c6d21d381daf6214f]
+
+| Person sy’n gwneud cais am bapur pleidleisio | Cwestiynau |
+| --- | --- |
+| 1 Person sy’n gwneud cais fel etholwr | (za) Beth yw’ch enw? |
+|  | (zb) Beth yw’ch cyfeiriad? |
+|  | (a) Ai chi yw’r person sydd wedi’i gofrestru ar y gofrestr etholwyr fel a ganlyn (*rhaid i chi ddarllen yn uchel y cofnod cyfan o’r gofrestr*)? \[R\] |
+|  | (b) A ydych eisoes wedi pleidleisio yn yr etholiad hwn ar gyfer comisiynydd yr heddlu a throseddu, naill ai yma neu rywle arall, ac eithrio fel dirprwy i rywun arall? \[R\] |
+|  |  |
+| 2 Person sy’n gwneud cais fel dirprwy | (za) Beth yw’ch enw? |
+|  | (zb) Beth yw’ch cyfeiriad? |
+|  | (a) Ai chi yw’r person y mae ei enw yn ymddangos fel A B ar y rhestr dirprwyon ar gyfer yr etholiad hwn ar gyfer comisiynydd yr heddlu a throseddu fel y person sydd â hawl i bleidleisio fel dirprwy ar ran C D? \[R\] |
+|  | (b) A ydych eisoes wedi pleidleisio yn yr etholiad hwn ar gyfer comisiynydd yr heddlu a throseddu, naill ai yma neu rywle arall, fel y person sydd â hawl i bleidleisio fel dirprwy ar ran C D? \[R\] |
+|  | (c) Ydych chi eisoes wedi pleidleisio fel dirprwy yn yr etholiad hwn neu mewn unrhyw etholiad arall ar gyfer comisiynwyr yr heddlu a throseddu gyda’r diwrnod pleidleisio ar ei gyfer heddiw, p’un a wnaethoch hynny yma neu rywle arall yn ardal yr heddlu hwn neu yn ardal unrhyw heddlu arall, ar ran pedwar etholwr neu fwy? \[R\] |
+|  | (d) Os bydd yr unigolyn yn rhoi ateb negyddol i gwestiwn (c): “Ydych chi eisoes wedi pleidleisio fel dirprwy yn yr etholiad hwn neu mewn unrhyw etholiad arall ar gyfer comisiynwyr yr heddlu a throseddu gyda’r diwrnod pleidleisio ar ei gyfer heddiw, p’un a wnaethoch hynny yma neu rywle arall yn ardal yr heddlu hwn neu yn ardal unrhyw heddlu arall, ar ran ddau etholwr neu fwy?” \[R\] |
+|  |  |
+|  | (e) Os bydd yr unigolyn yn rhoi ateb cadarnhaol i gwestiwn (d): “A oedd dau neu fwy o’r etholwyr y gwnaethoch bleidleisio ar eu rhan yn yr etholiad hwn, neu mewn unrhyw etholiad arall ar gyfer comisiynwyr yr heddlu a throseddu, wedi’u cofrestru mewn cofrestr o etholwyr ac eithrio yn unol â datganiad gwasanaeth?” \[R\] |
+|  | (f) Os bydd yr unigolyn yn rhoi ateb cadarnhaol i gwestiwn (e): “A yw’r etholwr (etholwyr) rydych yn pleidleisio ar ei ran (eu rhan) heddiw wedi’i gofrestru (wedi’u cofrestru) mewn cofrestr o etholwyr ac eithrio yn unol â datganiad gwasanaeth?” \[R\] |
+|  |  |
+| 3 Person sy’n gwneud cais fel dirprwy ar gyfer etholwr â chofnod dienw (yn hytrach na’r cwestiynau yng nghofnod 2) | (za) Beth yw’ch enw? |
+|  | (zb) Beth yw’ch cyfeiriad? |
+|  | (a) Ai chi yw’r person y mae hawl ganddo bleidleisio fel dirprwy ar ran yr etholwr sydd â’r rhif (*darllenwch yn uchel rif yr etholwr o’r gofrestr*) ar y gofrestr etholwyr? \[R\] |
+|  | (b) A ydych eisoes wedi pleidleisio yn yr etholiad hwn ar gyfer comisiynydd yr heddlu a throseddu, yma neu rywle arall, fel dirprwy ar ran yr etholwr sydd â’r rhif (*darllenwch yn uchel rif yr etholwr o’r gofrestr*) ar y gofrestr etholwyr? \[R\] |
+|  | (c) Ydych chi eisoes wedi pleidleisio fel dirprwy yn yr etholiad hwn neu mewn unrhyw etholiad arall ar gyfer comisiynwyr yr heddlu a throseddu gyda’r diwrnod pleidleisio ar ei gyfer heddiw, p’un a wnaethoch hynny yma neu rywle arall yn ardal yr heddlu hwn neu yn ardal unrhyw heddlu arall, ar ran pedwar etholwr neu fwy? \[R\] |
+|  | (d) Os bydd yr unigolyn yn rhoi ateb negyddol i gwestiwn (c): “Ydych chi eisoes wedi pleidleisio fel dirprwy yn yr etholiad hwn neu mewn unrhyw etholiad arall ar gyfer comisiynwyr yr heddlu a throseddu gyda’r diwrnod pleidleisio ar ei gyfer heddiw, p’un a wnaethoch hynny yma neu rywle arall yn ardal yr heddlu hwn neu yn ardal unrhyw heddlu arall, ar ran ddau etholwr neu fwy?” \[R\] |
+|  | (e) Os bydd yr unigolyn yn rhoi ateb cadarnhaol i gwestiwn (d): “A oedd dau neu fwy o’r etholwyr y gwnaethoch bleidleisio ar eu rhan yn yr etholiad hwn, neu mewn unrhyw etholiad arall ar gyfer comisiynwyr yr heddlu a throseddu, wedi’u cofrestru mewn cofrestr o etholwyr ac eithrio yn unol â datganiad gwasanaeth?” \[R\] |
+|  | (f) Os bydd yr unigolyn yn rhoi ateb cadarnhaol i gwestiwn (e): “A yw’r etholwr (etholwyr) rydych yn pleidleisio ar ei ran (eu rhan) heddiw wedi’i gofrestru (wedi’u cofrestru) mewn cofrestr o etholwyr ac eithrio yn unol â datganiad gwasanaeth?” \[R\] |
+|  |  |
+| 5 Person sy’n gwneud cais fel etholwr y mae cofnod ganddo ar y rhestr pleidleiswyr post | (za) Beth yw’ch enw? |
+|  | (zb) Beth yw’ch cyfeiriad? |
+|  | (a) A wnaethoch gais i bleidleisio drwy’r post? |
+|  | (b) Pam nad ydych wedi pleidleisio drwy’r post? |
+|  |  |
+| 6 Person sy’n gwneud cais fel dirprwy y mae cofnod ganddo ar y rhestr dirprwyon sy’n pleidleisio drwy’r post | (za) Beth yw’ch enw? |
+|  | (zb) Beth yw’ch cyfeiriad? |
+|  | (a) A wnaethoch gais i bleidleisio drwy’r post fel dirprwy? |
+|  | (b) Pam nad ydych wedi pleidleisio drwy’r post fel dirprwy? |
+
+## SCHEDULE 2 — Welsh versions of prescribed forms[^key-7f2ae97799581a82150d9049c1a1fa73]
+
+Article 4
+
+Form/Ffurflen 6[^key-e4041dd5b70c6bc08bf5b909882b261d]
+
+Enwebu ymgeiswyr
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_029.gif)[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_030.gif)[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_031.gif)
+
+[^key-0ea41e01136118dd404f974b92757d45]Form/Ffurflen 7
+
+Cydsynio ag enwebiad
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_032.gif)
+
+Form/Ffurflen 17
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_006)
+
+[^M_F_5a4e6883-997e-4836-e088-d7ed3ff54f9f]Form/Ffurflen 18
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291)[image: see source](https://www.legislation.gov.uk/uksi/2021/291)
+
+Form/Ffurflen 24
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_010)
+
+Form/Ffurflen 25
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_011)
+
+Form/Ffurflen 26
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_012)
+
+Form/Ffurflen 27
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_013)
+
+Form/Ffurflen 28
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_014)
+
+Form/Ffurflen 29
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_015)
+
+## SCHEDULE 3 — Welsh and English versions of prescribed forms[^key-6b20640a26a193a14a7b3c6ae4ebb8ec]
+
+Article 5
+
+[^key-ea96f1ce1d8c43ff6d04b58073d14f1a]Form/Ffurflen 1
+
+Proxy paper at particular PCC election/Papur pleidleisio drwy ddirprwy mewn etholiad penodol ar gyfer Comisiynydd yr Heddlu a Throseddu
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_047.gif)[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_048.gif)[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_049.gif)
+
+[^key-23c39ab0024cb009733315ec810f3f50]Form/Ffurflen 2 (Bilingual)
+
+Postal voting statement where PCC election taken alone
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_033.gif)[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_034.gif)
+
+[^key-8579b607b5627b9427f51e07b651f09b]Form/Ffurflen 4 (Bilingual)
+
+Postal voting statement where polls are combined but proceedings on issue and receipt of postal ballots are not combined
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_035.gif)[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_036.gif)
+
+[^key-8898da861d884906cdb507b459e24fc1]Form/Ffurflen 5
+
+Statement of the number of postal ballot papers issued
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_037.gif)[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_038.gif)[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_039.gif)[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_040.gif)
+
+Form/Ffurflen 9
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_031)
+
+Form/Ffurflen 10
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_033)
+
+[^key-9a8155431065ebc8214d00467750cf92][^key-0b98c39f424e2364b2ce8415b2970af6]Form/Ffurflen 11
+
+Poll Card/Cerdyn pleidleisio
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_050.gif)[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_051.gif)
+
+[^key-69542a44be55b8a2c45a2072f855c1ec][^key-7669d47f59bb81518176bc5cc1637e17]Form/Ffurflen 12
+
+Official postal poll card
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_041.gif)[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_042.gif)
+
+[^key-0c522f46746626d880250134b117b752][^key-a60236aa0f39d3552b1b8226776c282f]Form/Ffurflen 13
+
+Proxy poll card/Cerdyn pleisdleisio dirprwy
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_052.gif)[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_053.gif)
+
+[^key-7bc968d732e6b6433078dc25bf4d8d8a][^key-869d06e7404847be0698925261ec4efb]Form/Ffurflen 14
+
+Official proxy postal poll card
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_043.gif)[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_044.gif)
+
+Form/Ffurflen 14A[^key-0219cf2351ed19d56325948d8f86884e]
+
+Ballot paper refusal list/Rhestr o Achosion o Wrthod Rhoi Papur Pleidleisio
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_018.gif)[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_019.gif)
+
+[^key-be732d35dc68f24f4438cd45811a392d]Form/Flurflen 16
+
+Notice for guidance of voters for exhibition inside and outside polling station/Hysbysiad canllaw i bleidleiswyr i’w arddangos y tu mewn a’r tu allan i’r orsaf bleidleisio
+
+[image: see source](https://www.legislation.gov.uk/uksi/2021/291/images/uksi_20210291_en_epp_017.gif)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order prescribes forms, and forms of wording, for use at a police and crime commissioner (“PCC”) election taking place in Wales. The Welsh versions of the forms of words prescribed by article 3, the Welsh versions of the forms prescribed by article 4, and the Welsh and English versions of the forms prescribed by article 5 are translations of corresponding English wording that is contained in the Police and Crime Commissioner Elections Order 2012 ([S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917)). The Welsh versions are to be available for use in any election of police and crime commissioners which takes place in Wales.
+
+In Schedule 1, Part 1A sets out the Welsh version of the notice for the guidance of voters that is appropriate for use in a case where there are three or more candidates standing in the election, and Part 1B sets out the Welsh version of the notice for the guidance of voters that is appropriate for use in a case where there are only 2 candidates standing in the election.
+
+Part 2 of Schedule 1 sets out the Welsh version of the questions to be put to voters. The effect of article 3(2) is that the Welsh version is to be used for any voter who prefers to communicate in Welsh rather than English.
+
+Article 4 and Schedule 2 prescribe forms in Welsh only, which are to be used where the person completing the form prefers to communicate in Welsh rather than English.
+
+Article 5 and Schedule 3 prescribe forms in Welsh and English, which are to be used in this bilingual form in place of the English only versions.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen. An Explanatory Memorandum has been published alongside this Order on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 38](https://www.legislation.gov.uk/ukpga/1993/38).
+
+[^f00002]: Footnote: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13). Section 58 of the Police Reform and Social Responsibility Act 2011 (“the 2011 Act”) was amended by [S.I. 2014/268](https://www.legislation.gov.uk/uksi/2014/268), [2015/1526](https://www.legislation.gov.uk/uksi/2015/1526), [2016/997](https://www.legislation.gov.uk/uksi/2016/997) and [2018/1310](https://www.legislation.gov.uk/uksi/2018/1310). Section 154(5) was amended by [S.I. 2014/268](https://www.legislation.gov.uk/uksi/2014/268) and [2016/997](https://www.legislation.gov.uk/uksi/2016/997).
+
+[^f00003]: Footnote: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41); section 7(2)(hc) was inserted by paragraph 11 of Schedule 10 to the 2011 Act.
+
+[^key-b41ab8ddd3c0667e86d23c4c8ee74ad5]: Commencement: Art. 1 in force at 11.3.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/291/article/1/2)
+
+[^key-babde0b27e8927efe90b7f17718e9359]: Commencement: Art. 2 in force at 11.3.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/291/article/1/2)
+
+[^f00004]: Footnote: [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917), as amended by [S.I. 2014/921](https://www.legislation.gov.uk/uksi/2014/921) and [2016/300](https://www.legislation.gov.uk/uksi/2016/300); there are other amending instruments but none is relevant.
+
+[^key-df20ce08fbeb5822efd2d6dc293b8531]: Commencement: Art. 3 in force at 11.3.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/291/article/1/2)
+
+[^key-f29c825140aa702fe32675a24c925872]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2021/291/article/3/1) omitted (with saving) (21.12.2022) by virtue of [The Police and Crime Commissioner Elections and Welsh Forms (Amendment) Order 2022 (S.I. 2022/1354)](https://www.legislation.gov.uk/uksi/2022/1354), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1354/article/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2022/1354/article/8/2/a)
+
+[^key-358f99f7e79fda1a669b687491cdc19b]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2021/291/article/3/2) Table 1b substituted (with saving) (21.12.2022) by [The Police and Crime Commissioner Elections and Welsh Forms (Amendment) Order 2022 (S.I. 2022/1354)](https://www.legislation.gov.uk/uksi/2022/1354), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1354/article/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2022/1354/article/8/2/b)
+
+[^key-f89f47abd804f0cf9b17f33b4ae3d081]: Commencement: Art. 4 in force at 11.3.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/291/article/1/2)
+
+[^key-557638d4fc49ba82a84eb8ad993349a5]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2021/291/article/4) Table 2 inserted (1.11.2023) by [The Mayoral and Police and Crime Commissioner Elections, Recall Petitions and Referendums (Ballot Secrecy, Candidates and Undue Influence) Regulations 2023 (S.I. 2023/1141)](https://www.legislation.gov.uk/uksi/2023/1141), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/11/2) (with [reg. 1(6)(d)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/6/d)[(8)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/8))
+
+[^key-f5fcfca29b7bd58c31e8bd742d4bb93a]: Commencement: Art. 5 in force at 11.3.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/291/article/1/2)
+
+[^key-210eac43a967506cf426194f5b4d5fd8]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/uksi/2021/291/article/5) Table 3 inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [97(2)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/97/2) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+
+[^key-61335996124fb379a188496bd1f42714]: Textual amendment: [Sch. 1 Pt. 1A](https://www.legislation.gov.uk/uksi/2021/291/schedule/1/part/1A) omitted (with saving) (21.12.2022) by virtue of [The Police and Crime Commissioner Elections and Welsh Forms (Amendment) Order 2022 (S.I. 2022/1354)](https://www.legislation.gov.uk/uksi/2022/1354), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1354/article/1/2), [8(3)(a)](https://www.legislation.gov.uk/uksi/2022/1354/article/8/3/a)
+
+[^key-dc48edae9387e668a99e61870a0231af]: Commencement: Sch. 1 Pt. 1B in force at 11.3.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/291/article/1/2)
+
+[^key-0483a79a947484d3057a73d17154328c]: Textual amendment: Words in [Sch. 1 Pt. 1B](https://www.legislation.gov.uk/uksi/2021/291/schedule/1/part/1B) heading omitted (with saving) (21.12.2022) by virtue of [The Police and Crime Commissioner Elections and Welsh Forms (Amendment) Order 2022 (S.I. 2022/1354)](https://www.legislation.gov.uk/uksi/2022/1354), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1354/article/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2022/1354/article/8/3/b)
+
+[^M_C_aabc86e7-fd01-4528-cd1a-af4c0263ee67]: Modification: Sch. 1 Pt. 2 modified (temp.) (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [Sch. 2 para. 21(2)(4)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/21/2/4), [Pt. 7](https://www.legislation.gov.uk/uksi/2023/1147/part/7)
+
+[^key-832dea5b49a7823c6d21d381daf6214f]: Textual amendment: Sch. 1 Pt. 2 substituted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [reg. 1(3)(h)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/h), [Sch. 12 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1147/schedule/12/part/1) (with [Sch. 2 paras. 18](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/18), [21(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/21/1))
+
+[^key-7f2ae97799581a82150d9049c1a1fa73]: Commencement: Sch. 2 in force at 11.3.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/291/article/1/2)
+
+[^key-e4041dd5b70c6bc08bf5b909882b261d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2021/291/schedule/2) Form 6 inserted (1.11.2023) by [The Mayoral and Police and Crime Commissioner Elections, Recall Petitions and Referendums (Ballot Secrecy, Candidates and Undue Influence) Regulations 2023 (S.I. 2023/1141)](https://www.legislation.gov.uk/uksi/2023/1141), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2023/1141/schedule/5) (with [reg. 1(6)(d)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/6/d)[(8)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/8))
+
+[^key-0ea41e01136118dd404f974b92757d45]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2021/291/schedule/2) Form 7 substituted (1.11.2023) by [The Mayoral and Police and Crime Commissioner Elections, Recall Petitions and Referendums (Ballot Secrecy, Candidates and Undue Influence) Regulations 2023 (S.I. 2023/1141)](https://www.legislation.gov.uk/uksi/2023/1141), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2023/1141/schedule/5) (with [reg. 1(6)(d)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/6/d)[(8)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/8))
+
+[^M_F_5a4e6883-997e-4836-e088-d7ed3ff54f9f]: Textual amendment: Sch. 2 Form 18 substituted (29.12.2022) by The Assistance with Voting for Persons with [Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2022/1309/schedule/8) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
+
+[^key-6b20640a26a193a14a7b3c6ae4ebb8ec]: Commencement: Sch. 3 in force at 11.3.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/291/article/1/2)
+
+[^key-ea96f1ce1d8c43ff6d04b58073d14f1a]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/291/schedule/3) Form 1 substituted (7.5.2024) by [The Representation of the People (Franchise Amendment and Eligibility Review) Regulations 2023 (S.I. 2023/1150)](https://www.legislation.gov.uk/uksi/2023/1150), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1150/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/1150/schedule/3)
+
+[^key-23c39ab0024cb009733315ec810f3f50]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/291/schedule/3) Form 2 substituted (12.12.2023) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/1/2), [Sch. 10](https://www.legislation.gov.uk/uksi/2023/1225/schedule/10)
+
+[^key-8579b607b5627b9427f51e07b651f09b]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/291/schedule/3) Form 4 substituted (12.12.2023) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/1/2), [Sch. 10](https://www.legislation.gov.uk/uksi/2023/1225/schedule/10)
+
+[^key-8898da861d884906cdb507b459e24fc1]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/291/schedule/3) Form 5 substituted (12.12.2023) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/1/2), [Sch. 10](https://www.legislation.gov.uk/uksi/2023/1225/schedule/10)
+
+[^key-9a8155431065ebc8214d00467750cf92]: Modification: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/291/schedule/3) Form 11 modified (temp.) (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [Sch. 2 para. 23(2)(4)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/23/4) (with [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/18))
+
+[^key-0b98c39f424e2364b2ce8415b2970af6]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/291/schedule/3) Form 11 substituted (4.12.2024) by [The Voter Identification (Amendment of List of Specified Documents) Regulations 2024 (S.I. 2024/1275)](https://www.legislation.gov.uk/uksi/2024/1275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1275/regulation/1/1), [Sch. 10](https://www.legislation.gov.uk/uksi/2024/1275/schedule/10) (with [reg. 1(5)-(7)](https://www.legislation.gov.uk/uksi/2024/1275/regulation/1/5))
+
+[^key-69542a44be55b8a2c45a2072f855c1ec]: Modification: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/291/schedule/3) Form 12 modified (temp.) (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [Sch. 2 para. 23(3)(5)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/23/5) (with [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/18))
+
+[^key-7669d47f59bb81518176bc5cc1637e17]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/291/schedule/3) Form 12 substituted (12.12.2023) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/1/2), [Sch. 10](https://www.legislation.gov.uk/uksi/2023/1225/schedule/10)
+
+[^key-0c522f46746626d880250134b117b752]: Modification: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/291/schedule/3) Form 13 modified (temp.) (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [Sch. 2 para. 23(2)(4)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/23/4) (with [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/18))
+
+[^key-a60236aa0f39d3552b1b8226776c282f]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/291/schedule/3) Form 13 substituted (4.12.2024) by [The Voter Identification (Amendment of List of Specified Documents) Regulations 2024 (S.I. 2024/1275)](https://www.legislation.gov.uk/uksi/2024/1275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1275/regulation/1/1), [Sch. 10](https://www.legislation.gov.uk/uksi/2024/1275/schedule/10) (with [reg. 1(5)-(7)](https://www.legislation.gov.uk/uksi/2024/1275/regulation/1/5))
+
+[^key-7bc968d732e6b6433078dc25bf4d8d8a]: Modification: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/291/schedule/3) Form 14 modified (temp.) (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [Sch. 2 para. 23(3)(5)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/23/5) (with [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/18))
+
+[^key-869d06e7404847be0698925261ec4efb]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/291/schedule/3) Form 14 substituted (12.12.2023) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/1/2), [Sch. 10](https://www.legislation.gov.uk/uksi/2023/1225/schedule/10)
+
+[^key-0219cf2351ed19d56325948d8f86884e]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/291/schedule/3) Form 14A inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [97(4)(d)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/97/4/d), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2022/1382/schedule/14/part/2) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+
+[^key-be732d35dc68f24f4438cd45811a392d]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2021/291/schedule/3) Form 16 substituted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [97(4)(e)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/97/4/e), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2022/1382/schedule/14/part/2) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))

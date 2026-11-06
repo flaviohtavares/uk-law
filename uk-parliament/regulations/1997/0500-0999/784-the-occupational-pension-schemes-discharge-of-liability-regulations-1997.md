@@ -1,0 +1,439 @@
+---
+title: The Occupational Pension Schemes (Discharge of Liability) Regulations 1997
+id: uksi/1997/784
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1997-03-11'
+text_date: '2021-04-06'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1997/784
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/784/pdfs/uksi_19970784_310319_en.pdf
+- http://www.legislation.gov.uk/uksi/1997/784/pdfs/uksi_19970784_290216_en.pdf
+- http://www.legislation.gov.uk/uksi/1997/784/pdfs/uksi_19970784_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1997/784/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational Pension Schemes (Discharge of Liability) Regulations 1997
+
+> Text as at 2021-04-06.
+
+1997 No. 784
+
+PENSIONS
+
+The Occupational Pension Schemes (Discharge of Liability) Regulations 1997
+
+Made
+
+11th March 1997
+
+Laid before Parliament
+
+14th March 1997
+
+Coming into force
+
+6th April 1997
+
+The Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 12C, 19, 181(1), 182(2) and (3), 183(1) of the Pension Schemes Act 1993[^c1681094] and of all other powers enabling him in that behalf, after agreement by the Occupational Pensions Board that certain proposals embodied within these Regulations need not be referred to them, by this instrument, which otherwise contains regulations in Part II made for the purposes of consolidating regulations revoked herein[^c1681095], hereby makes the following Regulations:
+
+## PART I — GENERAL
+
+### 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Occupational Pension Schemes (Discharge of Liability) Regulations 1997 and shall come into force on 6th April 1997.
+
+(1A) For the purposes of these Regulations, two people of the same sex are to be regarded as living together as if they were civil partners if, but only if, they would be regarded as living together as husband and wife were they instead two people of the opposite sex. *(Extent: E+W)* *(affected by repeal, see note)*[^key-5d270f8c416f678bc1995c8293f409a9] *(Extent: S)* *(affected by repeal, see note)*[^key-89a39f53e441507601c3a94a5e07b561]
+
+(2) In these Regulations—
+
+“the 1995 Act" means the Pensions[^key-430c853bef51b06e5a848123a595c970] Act 1995;
+
+“the 1993 Act" means the Pension Schemes Act 1993;
+
+[^key-a3d0865bd88a3b9a94db733b3d3d1f31]...
+
+“pensionable age" has the same meaning as in section 181 of the 1993 Act [^c1681096];
+
+“relevant scheme" has the same meaning as in section 37A[^key-dc17a0ccab3f4a4fc0c8c57e9b77c4db] of the 1993 Act [^c1681097];
+
+“supplementary credits" has the same meaning as in section 75 of the 1993 Act; and
+
+“trustees", in relation to an occupational pension scheme which is not set up or established under a trust, means the managers of that scheme.
+
+(3) In these Regulations a reference—
+
+- (a) to a numbered regulation is to the regulation bearing that number in these Regulations;
+- (b) in a regulation to a numbered paragraph is to the paragraph bearing that number in that regulation; and
+- (c) in a regulation to a numbered Part is to the Part bearing that number in these Regulations.
+
+## PART II — DISCHARGE OF LIABILITY WHERE GUARANTEED MINIMUM PENSIONS, SHORT SERVICE BENEFITS AND ALTERNATIVES TO SHORT SERVICE BENEFITS ARE SECURED BY INSURANCE POLICIES OR ANNUITY CONTRACTS
+
+### 2. Requirements applying to policies of insurance and annuity contracts
+
+(1) The requirements referred to in section 19(4)(a)(ii) of the 1993 Act (requirements applying to policies of insurance or annuity contracts for the purposes of discharging liabilities for guaranteed minimum pensions) are that the insurance policy is taken out or the annuity contract is entered into with
+
+- (a)[^key-d8436988accc8f3ebfc891cca85162f8] a person who has permission under Part 4 of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance; [^key-22bb3e1b00f8ca4787ac715d172f33a4]...
+- (b)[^key-22bb3e1b00f8ca4787ac715d172f33a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-bd5d83622b1c8565abb2a7fd1f6c7bbd] Sub-paragraph (a)[^key-f58ddadf2b5fb747492ddd2ac028cada] of paragraph (1) must be read with—
+
+- (a) section 22 of the Financial Services and Markets Act 2000;
+- (b) any relevant order under that section; and
+- (c) Schedule 2 to that Act.
+
+### 3. Conditions on which policies of insurance and annuity contracts may be assigned or surrendered
+
+The conditions referred to in section 19(4)(b) of the 1993 Act (policy of insurance or annuity contract appropriate for the purposes if it may not be assigned or surrendered except on conditions which satisfy prescribed requirements) are—
+
+- (a) that the written consent of the earner or, if the earner has died, the earner’s widow, widower or surviving civil partner[^key-5bbca1dfb455149230fd028ad44230c9] to the assignment or surrender is obtained; and
+- (b) that in consideration of the assignment or surrender the benefits previously secured by the policy of insurance or annuity contract become secured, or are replaced by benefits which are secured, by one or more of the following means—
+  - (i) another policy of insurance or annuity contract which is appropriate within the meaning of section 19(4) of the 1993 Act,
+  - (ii) subject to regulations 3, 5 and 6 of the Contracting-out (Transfer and Transfer Payment) Regulations 1996 [^c1681101] in the case of benefits which include guaranteed minimum pensions, the award of supplementary credits under an occupational pension scheme which applies to the employment of the earner at the time of the assignment or surrender or the granting of rights to money purchase benefits under a personal pension scheme, or
+  - (iii) in the case only of benefits which are not, and do not include guaranteed minimum pensions, the award of rights to money purchase benefits under a self-employed pension arrangement within the meaning of regulation 12(6)(a) of the Occupational Pension Schemes (Transfer Values) Regulations 1996 [^c1681102] or regulation 2A of the Personal Pension Schemes (Transfer Values) Regulations 1987 [^c1681103].
+
+### 4. Conditions on which policies of insurance and annuity contracts may be commuted
+
+(1)[^key-51e5d8db1e43463c67e3b54134b43431] The requirements referred to in section 19(4)(c) of the 1993 Act (policy of insurance or annuity contract appropriate where commutation conditional on satisfying prescribed requirements) are that—
+
+- (a) the amount secured by the policy of insurance or annuity contract does not exceed the amount for the time being permitted for a lump sum payment by—
+  - (i) the lump sum rule in section 166 of the Finance Act 2004 and qualifies as a trivial commutation lump sum for the purposes of paragraph 7 of Part 1 of Schedule 29 to that Act; or
+  - (ii) the lump sum death benefit rule in section 168 of that Act and qualifies as a trivial commutation lump sum death benefit for the purposes of paragraph 20 of Part 2 of Schedule 29 to that Act; or
+- (b) subject to paragraph (2), the earner requests or consents to the amount secured by the policy of insurance or annuity contract being paid as a lump sum and that payment does not exceed the amount for the time being permitted for a lump sum payment by the lump sum rule in section 166 of that Act and qualifies as a serious ill-health lump sum for the purposes of paragraph 4 of Part 1 of Schedule 29 to that Act; or[^key-8f263c2327ac47c44e9f43ed20ea5fa9]
+- (c)[^key-93a632d55593328f85a189a6166f5ac3] subject to paragraph (2A)—
+  - (i) the benefits secured by the policy of insurance or annuity contract have become payable;
+  - (ii) the earner requests or consents to the amount secured by the policy of insurance or annuity contract being paid as a lump sum; and
+  - (iii) that payment does not exceed the amount for the time being permitted for a lump sum payment by the lump sum rule in section 166 of the Finance Act 2004 and qualifies as a pension commencement lump sum for the purposes of paragraph 1 of Part 1 of Schedule 29 to that Act.
+
+(2) The commutation referred to in paragraph (1)(b) does not apply to that part of the benefits which consist of [^key-d6227b7577bb5208f5c7bb81b78ada75]... the earner’s widow's, widower’s or surviving civil partner's[^key-7237b4eb338cb52b23f349749aa8a683] guaranteed minimum pensions.
+
+(2A)[^key-dd8e9e24c3258e5d908e07e919eb6bd4] The commutation referred to in paragraph (1)(c) does not apply to that part of the benefits which consist of the earner’s and the earner’s widow’s, widower’s or surviving civil partner’s guaranteed minimum pensions.
+
+(3) For the purposes of paragraph (1)(a)—
+
+- (a)[^key-7b80bd6664951b384afd6fb30dad756f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) any benefit secured by means of another policy of insurance or annuity contract which is appropriate for the purposes of section 19(4) of the 1993 Act shall be treated as payable or prospectively payable under the occupational pension scheme which was liable to provide it before it was so secured; and
+- (c) any guaranteed minimum pension which is prospectively payable shall be reckoned as having the value that it will have (in accordance with the provisions of the occupational pension scheme in question) when the earner reaches pensionable age.
+
+(4)[^key-d89fa6d4a26e37c57f0fdeaf775c6430] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Other requirements applying to policies of insurance and annuity contracts[^key-58927d33089ee6cb94b284b6bb9eb10d]
+
+(1) The requirements referred to in section 19(4)(d) of the 1993 Act (policy of insurance or annuity contract appropriate if it satisfies such other requirements as may be prescribed) are—
+
+- (a) that the insurance company with which the policy is taken out or the contract entered into assumes an obligation to the earner in question or to trustees of a trust for the benefit of the earner and, if appropriate, dependants of his, to pay the benefits secured by the policy or contract to him or, as the case may be, to dependants of his, or to the trustees of such a trust;
+- (b) that the policy or contract contains, or is endorsed with, terms so as to provide for such increase (if any) in the payments under the policy or contract as is required by paragraph (2);[^key-96c1c6b571d4fe31ecff216442fe8567]
+- (c) that, if any guaranteed minimum pension is due or prospectively due to the earner in question, the policy or contract contains, or is endorsed with, terms so as to provide—
+  - (i) that the annuity to be paid thereunder to or for his benefit will be at least equal to the guaranteed minimum pension due to him, or, as the case may be, prospectively due to him, at pensionable age, subject to section 15 (increase of guaranteed minimum pension) or section 16 (revaluation of earnings factors) of the 1993 Act, and
+  - (ii) in the case where the earner dies leaving a widow, widower or surviving civil partner[^key-ea6386aa4d07eb17bb0a45fe4a66ab96] , that the annuity payable for the widow's, widower’s or surviving civil partner's[^key-d654d36c804d6bd4ac68a338a807df3a] will be at least equal to the guaranteed minimum pension due or prospectively due to the widow, widower or surviving civil partner , and
+  - (iii) in each case mentioned in sub-paragraphs (i) and (ii), that any increase of guaranteed minimum pension under Chapter II of Part V of the 1993 Act [^c1681104] results in a similar increase in the annuity.
+
+(2)[^key-885fc14617fdc187a7e7d8ca92251298] For the purposes of paragraph (1)(b)—
+
+- (a) an increase is required if sections 51 and 52 of the 1995 Act, and regulations made under those sections, would apply to payments under the policy or contract if those payments were benefits payable under an occupational pension scheme (and for this purpose, the provisions of the 1995 Act shall be construed in accordance with regulation 11(6)(a) to (d)); and
+- (b) such an increase shall be payable at the same rate, and to the same extent, as would be required under those provisions.
+
+### 6. Further conditions on which liability may be discharged
+
+(1) The conditions referred to in section 19(5)(c)(ii) of the 1993 Act (further conditions on which liability may be discharged) are that the requirements of one or more of paragraphs (2) to (5) are satisfied.
+
+(2) The requirements of this paragraph are satisfied if—
+
+- (a) the earner is dead and benefit is payable to a person other than the earner’s widow, widower or surviving civil partner[^key-4b3ff2881a06c9a516f3ada6df434f4e]; and
+- (b) the arrangement for securing the benefit by means of the policy or contract was made at the written request of the person entitled to it, or with the consent of that person given in writing in the form set out in Schedule 1 to these Regulations.
+
+(3) The requirements of this paragraph are satisfied if the benefit is provided as an alternative to short service benefit by virtue of a provision that conforms with the requirements of regulation 9(4) of the Occupational Pension Schemes (Preservation of Benefit) Regulations 1991 (bought out benefits without consent)[^c1681105].
+
+(4) In a case where an occupational pension scheme is being wound up and sections 73 and 74 of the 1995 Act and regulations made under those sections do not apply, the requirements of this paragraph are satisfied if the earner is able to assign or surrender the policy of insurance or annuity contract and the conditions specified in regulation 3 are satisfied.
+
+(5) The requirements of this paragraph are satisfied if the conditions set out in sub-paragraphs (a) and (b) are satisfied, namely—
+
+- (a) the benefit concerned includes a guaranteed minimum pension that is payable to the earner’s widow, widower or surviving civil partner[^key-32709f1d3eec28176ddda0b4ce192bf0];
+- (b) the trustees—
+  - (i) give the widow, widower or surviving civil partner at least 30 days written notice (“the notice") of their intention to take out the insurance policy or enter into the annuity contract, and
+  - (ii) send the notice to the widow, widower or surviving civil partner in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (giving information and documents)[^key-94db4f2ed169681bf97d1a6c630d46cb] or deliver the notice to the widow, widower or surviving civil partner personally.
+
+### 7. Form of consent
+
+For the purpose of section 19(5)(a)(ii) of the 1993 Act (form of consent to arrangements for securing benefits) the prescribed form is the form set out in Schedule 1 to these Regulations.
+
+## PART III — DISCHARGE OF LIABILITY TO PROVIDE PENSIONS UNDER A RELEVANT SCHEME
+
+### 8. Prohibition and restriction of the discharge of liability to provide pensions under a relevant scheme
+
+The trustees of a relevant scheme are prohibited or restricted from discharging any liability to provide pensions under a relevant scheme except—
+
+- (a) in the circumstances and on the conditions prescribed in this Part; or
+- (b) where the requirements imposed by the Occupational Pension Schemes (Winding Up) Regulations 1996[^c1681106], regulations 45 or 46 (as they had effect at the time of approval of arrangements for the scheme ceasing to be contracted-out) of the Occupational Pension Schemes (Contracting-out) Regulations 1996, or regulations 6, 17 or 20 of the Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 apply.[^key-721decd4b0bcc084690d28806d50028d]
+
+### 9. Circumstances in which liability to provide pensions under a relevant scheme may be discharged
+
+(1) The trustees of a relevant scheme may discharge any liability to provide pensions under a relevant scheme where the circumstances specified in paragraph (2)[^key-3a5916d1d2c2ef50d7fd971b58b7352e] apply.
+
+(2) The member or, if the member has died, the member’s widow, widower or surviving civil partner or, if there is no such person[^key-2c11d6fc629c357a32b56253b1364aba], any person who may be entitled to payment of the pension under the scheme, consents in writing to the discharge of liability and the transaction to discharge the liability—
+
+- (a) is to be carried out not earlier than the time when the member’s pensionable service terminates; and
+- (b) satisfies all the conditions specified in regulation 11.
+
+(3)[^key-1748ad1a9725dd018b2ee7e64a7379d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Meaning of “transaction"
+
+For the purposes of regulation 9 “transaction" means—
+
+- (a) the taking out of a policy of insurance or a number of such policies;
+- (b) the entry into an annuity contract or a number of such contracts; or
+- (c) the transfer of pensions and accrued rights to such a policy or policies or such a contract or contracts.
+
+### 11. Conditions on which liability to provide pensions under a relevant scheme may be discharged
+
+(1) The conditions referred to in regulation 9(2)(b) [^key-5ac4fe604b931e6cca23efbff6a7c4f1]... which must be satisfied are specified in paragraphs (2) and (3).
+
+(2) The policy of insurance or annuity contract must be taken out or entered into with an insurance company such as is described in section 19(4)(a) of the 1993 Act.
+
+(3) The policy of insurance or annuity contract contains provision to the effect that, or is endorsed so as to provide that—
+
+- (a) except in the circumstances specified in paragraph (4), where a pension or annuity is in payment at the date of the beneficiary’s death at least 50 per cent. of the annual rate attributable to pensions and accrued rights under the relevant scheme which was in payment at the date of death shall be payable to the beneficiary’s widow, widower or surviving civil partner[^key-d00bd94de29860317938c1790c3c28ee];
+- (b) except in the circumstances referred to in paragraph (4)(b) [^key-429438d313054d5d2f94418efebb3be2]..., where a pension or annuity is not in payment at the date of the beneficiary’s death at least 50 per cent of the accumulated value of the policy of insurance or annuity contract at the date of death attributable to pension and accrued rights under the relevant scheme shall be applied so as to provide a pension or annuity for the beneficiary’s widow, widower or surviving civil partner;
+- (c)[^key-b44c9bc3c65df1f4f00b0e9a53df4312] payments to a beneficiary, or to his widow, widower or surviving civil partner[^key-2ea096964af69974c9c5497a39c54e34], under the policy or contract which derive from a pension or accrued rights under the relevant scheme shall be subject to such increase (if any) as is required by paragraph (4A);
+- (d) the benefits secured under the policy or contract shall become payable with the beneficiary’s consent, and the beneficiary—
+  - (i) [^key-0968336b7a5b787bb98bc74c77ac0ded]...is under the age of 75, or
+  - (ii) is suffering from an incapacity or serious ill-health prior to normal pension age;
+- (e) any rights of a beneficiary to a payment under the policy or contract which derive from a pension or accrued rights under the relevant scheme shall be treated as if—
+  - (i)[^key-121ed40342ee4d597841489ff38e995a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) section 37A(1)[^key-2abc2f9e995d8c3b20706682caa1c435] of the 1993 Act and regulations made under that section,
+
+  were applicable to them.
+
+(4)[^key-36704b26814253190ae2c58888e60c93] Subject to paragraph (7), the circumstances referred to in paragraph (3) are—
+
+- (a) the beneficiary marries or forms a civil partnership after having received benefits under the policy or contract;
+- (b) the widow, widower or surviving civil partner of the beneficiary—
+  - (i) remarries or, as the case may be, marries;
+  - (ii) forms a civil partnership or, as the case may be, forms a subsequent civil partnership;
+  - (iii) lives together as husband and wife with another person to whom he or she is not married; *(Extent: E+W)* *(affected by repeal, see note)*[^key-bb8af8fd53428e9f928eb02e7677bdc4]
+
+    lives together *(Extent: E+W)* *(Extent: S)* *(affected by repeal, see note)*[^key-c735a374012c5c567a94b8b2dcbe73ec] with another person, whom he or she is not married to or in a civil partnership with, as if they were a married couple or civil partners; or[^key-ab2a76bfa0a06c29e92609c83d60ff6e]
+  - (iv) lives together with a person of the same sex as if they were civil partners *(Extent: S)* *(affected by repeal, see note)*[^key-c735a374012c5c567a94b8b2dcbe73ec] *(affected by repeal, see note)*[^key-bb8af8fd53428e9f928eb02e7677bdc4]lives together as a married couple with another person whom he or she is not married to or in a civil partnership with; or *(Extent: S)* *(Extent: S)* *(affected by repeal, see note)*[^key-c735a374012c5c567a94b8b2dcbe73ec] *(affected by repeal, see note)*[^key-bb8af8fd53428e9f928eb02e7677bdc4]; or *(affected by repeal, see note)*[^key-bb8af8fd53428e9f928eb02e7677bdc4]
+  - (v) at the time of the beneficiary's death— *(Extent: E+W)* *(affected by repeal, see note)*[^key-9d8ed74769addea6d898e067eb76ed0f]
+    - (a (Extent: E+W) (affected by repeal, see note))[^key-9d8ed74769addea6d898e067eb76ed0f] is living together as husband and wife with another person to whom he or she is not married; or *(Extent: S)* *(affected by repeal, see note)*[^key-ade9e597a39c704453c186652fd60278] *(Extent: E+W)* *(affected by repeal, see note)*[^key-9d8ed74769addea6d898e067eb76ed0f] is living together as a married couple with another person whom he or she is not married to or in a civil partnership with. *(Extent: S)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-9d8ed74769addea6d898e067eb76ed0f]
+    - (b (Extent: E+W) (affected by repeal, see note))[^key-9d8ed74769addea6d898e067eb76ed0f] is living together with a person of the same sex as if they were civil partners *(Extent: S)* *(affected by repeal, see note)*[^key-ade9e597a39c704453c186652fd60278] *(Extent: E+W)* *(affected by repeal, see note)*[^key-9d8ed74769addea6d898e067eb76ed0f] is living together as a married couple with another person whom he or she is not married to or in a civil partnership with. *(Extent: S)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-9d8ed74769addea6d898e067eb76ed0f]
+  - (v) at the time of the beneficiary's death is living together as a married couple with another person whom he or she is not married to or in a civil partnership with. *(Extent: E+W)*
+
+(4A)[^key-d594549878cb4a30b619a91c3cb75581] For the purposes of paragraph (3)(c)—
+
+- (a) an increase is required if sections 51 and 52 of the 1995 Act, and regulations made under those sections, would apply to payments under the policy or contract if those payments were benefits payable under an occupational pension scheme; and
+- (b) such an increase shall be payable at the same rate, and to the same extent, as would be required under those provisions.
+
+(5)[^key-7212eea298581ee182599ed8dde7a5fe] For the purposes of paragraph 3(d)–
+
+- “incapacity" means physical or mental deterioration which is sufficiently serious to prevent a person from following his normal employment or which seriously impairs his earning capacity;
+- “serious ill-health" has the same meaning as in regulation 4(4).
+
+(6) For the purposes of paragraphs (3)(e) and (4A)[^key-ccfa9bfd46392f389dc03f54a3f9ec3c] the provisions in the 1993 Act and the 1995 Act shall be construed as if—
+
+- (a) the policy of insurance or annuity contract is a relevant scheme;
+- (b) the insurance company is the trustee of the relevant scheme;
+- (c) the beneficiary is the member of the relevant scheme; and
+- (d) the terms of the policy or contract are the rules of the relevant scheme.
+
+(7)[^key-d7b55ccd4c6fe73c11d37b8917bce7fa] The following provisions do not apply where the beneficiary died before 5th December 2005—
+
+- (a) paragraph (4)(b)(i) so far as it relates to a marriage or remarriage involving two people of the same sex;
+- (b) paragraph (4)(b)(ii); and
+- (c) paragraphs (iii) and (v) of paragraph (4)(b) so far as they relate to the living together of two people of the same sex.
+
+## PART IV — REVOCATIONS
+
+### 12.
+
+The regulations set out in column (1) of Schedule 2 to these Regulations are revoked to the extent mentioned in column (3) of that Schedule.
+
+Signed by authority of the Secretary of State for Social Security.
+
+Oliver Heald
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+## SCHEDULE 1 — FORM OF CONSENT TO ARRANGEMENT FOR SECURING BENEFITS
+
+Regulation 7
+
+|  |
+| --- |
+| To the trustees/managers\* of the……………………………….......................................……‡ |
+| Full name of earner/widow/widower/surviving civil partner[^M_F_0ef3d6d2-9560-4be1-c44b-4aa3f634e95a]\* |
+| Present address of earner/widow/widower/surviving civil partner\* |
+| Benefit to be provided by the proposed policy/contract\*: |
+| Name of insurer with whom benefits are to be secured: |
+| I consent to the securing, under an insurance policy taken out/annuity contract entered into\* with the insurer named above, of the benefits specified above substitution for benefits which would otherwise have fallen to be provided for or in respect of me under the pension scheme named above. |
+|  |
+| Signed................................................................... |
+| Date...................................................................... |
+| \*delete whichever is inapplicable |
+| ‡insert name of pension scheme |
+
+## SCHEDULE 2 — REVOCATIONS
+
+Regulation 12
+
+| *Regulations revoked* | *References* | *Extent of revocation* |
+| --- | --- | --- |
+| The Occupational Pension Schemes (Discharge of Liability) Regulations 1985 | S.I. 1985/1929 | The whole of the Regulations. |
+| The Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1986 | S.I. 1986/2171 | Regulation 3 and the Schedule. |
+| The Occupational Pension Schemes (Qualifying Service—Consequential and Other Provisions) Regulations 1987 | S.I. 1987/1106 | Regulation 4. |
+| The Personal and Occupational Pension Schemes (Consequential Provisions) Regulations 1987 | S.I. 1987/1114 | Regulation 7. |
+| The Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1988 | S.I. 1988/476 | Regulation 4. |
+| The Personal and Occupational Pension Schemes (Transfer to Self-employed Pension Arrangements) Regulations 1988 | S.I. 1988/1016 | Regulation 4(1). |
+| The Occupational Pension Schemes (Preservation of Benefit) Regulations 1991 | S.I. 1991/167 | Regulation 28 and Schedule 1 in so far as it relates to the Occupational Pension Schemes (Discharge of Liability) Regulations 1985. |
+| The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 1992 | S.I. 1992/1531 | Regulation 3. |
+| The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 | S.I. 1994/1062 | Regulation 2 and paragraph 6 of Schedule 2 in so far as it relates to The Occupational Pension Schemes (Discharge of Liability) Regulations 1985. |
+| The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 1995 | S.I. 1995/35 | Regulation 3. |
+
+(This note is not part of the Regulations)
+
+The Occupational Pension Schemes (Discharge of Liability) Regulations 1997 (“the Regulations") consolidate the Occupational Pension Schemes (Discharge of Liability) Regula tions 1985 with minor and drafting amendments and make provision in respect of pensions and accrued rights under a scheme contracted out by virtue of section 9(2B) of the Pension Schemes Act 1993 so far as is attributable to an earner’s service on or after 6th April 1997.
+
+Regulations 2 and 5 prescribe the requirements which apply to policies of insurance and annuity contracts for the purposes of discharging liability.
+
+Regulations 3 and 4 prescribe the conditions on which policies of insurance and annuity contracts may be assigned or surrendered or commuted.
+
+Regulation 6 prescribes further conditions on which liability may be discharged.
+
+Regulation 7 and Schedule 1 set out the form of consent to the arrangements for securing benefits.
+
+Part III makes provision in respect of the discharge of liability to provide pensions under a scheme contracted-out by virtue of section 9(2B) of the Pension Schemes Act 1993 (“the relevant scheme"). Regulations 8, 9 and 11 provide the circumstances in which and conditions on which the discharge of liability to provide pensions under a relevant scheme may occur.
+
+Regulation 10 defines the meaning of “transaction" for the purposes of regulation 9.
+
+Regulation 12 and Schedule 2 provide for revocations.
+
+An assessment of the cost compliance for employers of the measures arising from the Pensions Act 1995, including regulations, has been placed in the libraries of both Houses of Parliament. Copies can be obtained by post from the Department of Social Security, OPS, 11th Floor, Adelphi, 1—11 John Adam Street, London WC2N 6HT.
+
+## Annotations
+
+[^c1681094]: Marginal citation: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48). See definition in section 181(1) of “prescribed" and “regulations". Section 12C was inserted by section 136 of the [Pensions Act 1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^c1681095]: Marginal citation: See section 185(1), (2)(b) and (6) of the Pension Schemes Act 1993 and section 173(1)(b) of the [Social Security Administration Act 1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^key-5d270f8c416f678bc1995c8293f409a9]: Textual amendment: Reg. 1(1A) omitted (E.W.) (13.3.2014) by virtue of [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 24(2)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/24/2)
+
+[^key-89a39f53e441507601c3a94a5e07b561]: Textual amendment: Reg. 1(1A) omitted (E.W.) (13.3.2014) by virtue of [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 24(2)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/24/2) and omitted (S.) (16.12.2014) by virtue of [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 16(2)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/16/2)
+
+[^key-430c853bef51b06e5a848123a595c970]: Textual amendment: Word in reg. 1(2) substituted (30.12.1999) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/3198)](https://www.legislation.gov.uk/uksi/1999/3198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3198/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/1999/3198/regulation/14/2)
+
+[^key-a3d0865bd88a3b9a94db733b3d3d1f31]: Textual amendment: Words in reg. 1(2) omitted (6.4.2012) by virtue of [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers Amendment) Regulations 2012 (S.I. 2012/692)](https://www.legislation.gov.uk/uksi/2012/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/692/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2012/692/regulation/7)
+
+[^c1681096]: Marginal citation: The definition of “pensionable age" was substituted by the Pensions Act 1995, Schedule 4, paragraph 17.
+
+[^key-dc17a0ccab3f4a4fc0c8c57e9b77c4db]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/784/regulation/1/2) substituted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2016/200/article/12/2)
+
+[^c1681097]: Marginal citation: Section 12C was inserted by section 136(5) of the Pensions Act 1995.
+
+[^key-d8436988accc8f3ebfc891cca85162f8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1997/784/regulation/2/1) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [553(1)](https://www.legislation.gov.uk/uksi/2001/3649/article/553/1)
+
+[^key-22bb3e1b00f8ca4787ac715d172f33a4]: Textual amendment: [Reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/1997/784/regulation/2/1/b) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2019/192/regulation/12/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bd5d83622b1c8565abb2a7fd1f6c7bbd]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/784/regulation/2/2) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [553(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/553/2)
+
+[^key-f58ddadf2b5fb747492ddd2ac028cada]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/784/regulation/2/2) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2019/192/regulation/12/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5bbca1dfb455149230fd028ad44230c9]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/1997/784/regulation/3/a) substituted (5.12.2005) by [The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 (S.I. 2005/2050)](https://www.legislation.gov.uk/uksi/2005/2050), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2050/article/1/3), [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2005/2050/schedule/2/paragraph/39)
+
+[^c1681101]: Marginal citation: [S.I. 1996/1462](https://www.legislation.gov.uk/uksi/1996/1462).
+
+[^c1681102]: Marginal citation: [S.I. 1996/1847](https://www.legislation.gov.uk/uksi/1996/1847).
+
+[^c1681103]: Marginal citation: [S.I. 1987/1112](https://www.legislation.gov.uk/uksi/1987/1112); relevant amending instrument is [S.I. 1988/1016](https://www.legislation.gov.uk/uksi/1988/1016).
+
+[^key-51e5d8db1e43463c67e3b54134b43431]: Textual amendment: Reg. 4(1) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2006/744/article/13/2/a)
+
+[^key-8f263c2327ac47c44e9f43ed20ea5fa9]: Textual amendment: Word in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/1997/784/regulation/4/1/b) inserted (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/540)](https://www.legislation.gov.uk/uksi/2014/540), [regs. 1](https://www.legislation.gov.uk/uksi/2014/540/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2014/540/regulation/3/2/a)
+
+[^key-93a632d55593328f85a189a6166f5ac3]: Textual amendment: [Reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/1997/784/regulation/4/1/c) inserted (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/540)](https://www.legislation.gov.uk/uksi/2014/540), [regs. 1](https://www.legislation.gov.uk/uksi/2014/540/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2014/540/regulation/3/2/b)
+
+[^key-d6227b7577bb5208f5c7bb81b78ada75]: Textual amendment: Words in reg. 4(2) omitted (6.4.2006) by virtue of [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2006/744/article/13/2/b)
+
+[^key-7237b4eb338cb52b23f349749aa8a683]: Textual amendment: Words in reg. 4(2) substituted (5.12.2005) by [The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 (S.I. 2005/2050)](https://www.legislation.gov.uk/uksi/2005/2050), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2050/article/1/3), [Sch. 2 para. 40(b)](https://www.legislation.gov.uk/uksi/2005/2050/schedule/2/paragraph/40/b)
+
+[^key-dd8e9e24c3258e5d908e07e919eb6bd4]: Textual amendment: [Reg. 4(2A)](https://www.legislation.gov.uk/uksi/1997/784/regulation/4/2A) inserted (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/540)](https://www.legislation.gov.uk/uksi/2014/540), [regs. 1](https://www.legislation.gov.uk/uksi/2014/540/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2014/540/regulation/3/2/c)
+
+[^key-7b80bd6664951b384afd6fb30dad756f]: Textual amendment: Reg. 4(3)(a) omitted (6.4.2006) by virtue of [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [13(2)(c)](https://www.legislation.gov.uk/uksi/2006/744/article/13/2/c)
+
+[^key-d89fa6d4a26e37c57f0fdeaf775c6430]: Textual amendment: Reg. 4(4) omitted (6.4.2006) by virtue of [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [13(2)(d)](https://www.legislation.gov.uk/uksi/2006/744/article/13/2/d)
+
+[^key-58927d33089ee6cb94b284b6bb9eb10d]: Textual amendment: Reg. 5(1): reg. 5 renumbered as reg. 5(1) (6.4.2005) by [The Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/704)](https://www.legislation.gov.uk/uksi/2005/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/12/2)
+
+[^key-96c1c6b571d4fe31ecff216442fe8567]: Textual amendment: Reg. 5(1)(b) substituted (6.4.2005) by [The Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/704)](https://www.legislation.gov.uk/uksi/2005/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2005/704/regulation/12/3)
+
+[^key-ea6386aa4d07eb17bb0a45fe4a66ab96]: Textual amendment: Words in reg. 5(1)(c)(ii) substituted (5.12.2005) by [The Occupational and Personal Pension Schemes (Civil Partnership) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3164)](https://www.legislation.gov.uk/uksi/2005/3164), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/4/a/i)
+
+[^key-d654d36c804d6bd4ac68a338a807df3a]: Textual amendment: Words in reg. 5(1)(c)(ii) substituted (5.12.2005) by [The Occupational and Personal Pension Schemes (Civil Partnership) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3164)](https://www.legislation.gov.uk/uksi/2005/3164), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/4/a/ii)
+
+[^c1681104]: Marginal citation: Chapter II Part V was amended by sections 53(4) and 55 of the Pensions Act 1995.
+
+[^key-885fc14617fdc187a7e7d8ca92251298]: Textual amendment: Reg. 5(2) added (6.4.2005) by [The Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/704)](https://www.legislation.gov.uk/uksi/2005/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2005/704/regulation/12/4)
+
+[^key-4b3ff2881a06c9a516f3ada6df434f4e]: Textual amendment: Words in reg. 6(2)(a) substituted (5.12.2005) by [The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 (S.I. 2005/2050)](https://www.legislation.gov.uk/uksi/2005/2050), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2050/article/1/3), [Sch. 2 para. 41(a)](https://www.legislation.gov.uk/uksi/2005/2050/schedule/2/paragraph/41/a)
+
+[^c1681105]: Marginal citation: [S.I. 1991/167](https://www.legislation.gov.uk/uksi/1991/167); relevant amending instruments are 1994/1062, 1995/3067 and 1996/2131.
+
+[^key-32709f1d3eec28176ddda0b4ce192bf0]: Textual amendment: Words in reg. 6(5) substituted (5.12.2005) by [The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 (S.I. 2005/2050)](https://www.legislation.gov.uk/uksi/2005/2050), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2050/article/1/3), [Sch. 2 para. 41(b)](https://www.legislation.gov.uk/uksi/2005/2050/schedule/2/paragraph/41/b)
+
+[^key-94db4f2ed169681bf97d1a6c630d46cb]: Textual amendment: Words in [reg. 6(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/784/regulation/6/5/b/ii) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 6](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/6)
+
+[^c1681106]: Marginal citation: [S.I. 1996/3126](https://www.legislation.gov.uk/uksi/1996/3126).
+
+[^key-721decd4b0bcc084690d28806d50028d]: Textual amendment: Words in [reg. 8(b)](https://www.legislation.gov.uk/uksi/1997/784/regulation/8/b) substituted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2016/200/article/12/3)
+
+[^key-3a5916d1d2c2ef50d7fd971b58b7352e]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/1997/784/regulation/9/1) substituted (6.4.2021) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2016/200/article/1/5), [35(2)(a)](https://www.legislation.gov.uk/uksi/2016/200/article/35/2/a)
+
+[^key-2c11d6fc629c357a32b56253b1364aba]: Textual amendment: Words in reg. 9(2) substituted (5.12.2005) by [The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 (S.I. 2005/2050)](https://www.legislation.gov.uk/uksi/2005/2050), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2050/article/1/3), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2005/2050/schedule/2/paragraph/42)
+
+[^key-1748ad1a9725dd018b2ee7e64a7379d9]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/1997/784/regulation/9/3) omitted (6.4.2021) by virtue of [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2016/200/article/1/5), [35(2)(b)](https://www.legislation.gov.uk/uksi/2016/200/article/35/2/b)
+
+[^key-5ac4fe604b931e6cca23efbff6a7c4f1]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/1997/784/regulation/11/1) omitted (6.4.2021) by virtue of [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2016/200/article/1/5), [35(3)](https://www.legislation.gov.uk/uksi/2016/200/article/35/3)
+
+[^key-d00bd94de29860317938c1790c3c28ee]: Textual amendment: Words in reg. 11(3)(a)(b) substituted (5.12.2005) by [The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 (S.I. 2005/2050)](https://www.legislation.gov.uk/uksi/2005/2050), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2050/article/1/3), [Sch. 2 para. 43(a)(i)](https://www.legislation.gov.uk/uksi/2005/2050/schedule/2/paragraph/43/a/i)
+
+[^key-429438d313054d5d2f94418efebb3be2]: Textual amendment: Words in reg. 11(3)(b) omitted (5.12.2005) by virtue of [The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 (S.I. 2005/2050)](https://www.legislation.gov.uk/uksi/2005/2050), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2050/article/1/3), [Sch. 2 para. 43(a)(ii)](https://www.legislation.gov.uk/uksi/2005/2050/schedule/2/paragraph/43/a/ii)
+
+[^key-b44c9bc3c65df1f4f00b0e9a53df4312]: Textual amendment: Reg. 11(3)(c) substituted (6.4.2005) by [Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/704)](https://www.legislation.gov.uk/uksi/2005/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/1/2), [13(2)(a)](https://www.legislation.gov.uk/uksi/2005/704/regulation/13/2/a)
+
+[^key-2ea096964af69974c9c5497a39c54e34]: Textual amendment: Words in reg. 11(3)(c) substituted (5.12.2005) by [The Occupational and Personal Pension Schemes (Civil Partnership) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3164)](https://www.legislation.gov.uk/uksi/2005/3164), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/4/b)
+
+[^key-0968336b7a5b787bb98bc74c77ac0ded]: Textual amendment: Words in reg. 11(3)(d)(i) omitted (6.4.2006) by virtue of [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [13(3)](https://www.legislation.gov.uk/uksi/2006/744/article/13/3)
+
+[^key-121ed40342ee4d597841489ff38e995a]: Textual amendment: Reg. 11(3)(e)(i) omitted (6.4.2005) by virtue of [Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/704)](https://www.legislation.gov.uk/uksi/2005/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/1/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/2005/704/regulation/13/2/b)
+
+[^key-2abc2f9e995d8c3b20706682caa1c435]: Textual amendment: Words in reg. 11(3)(e)(ii) substituted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [12(5)](https://www.legislation.gov.uk/uksi/2016/200/article/12/5)
+
+[^key-36704b26814253190ae2c58888e60c93]: Textual amendment: Reg. 11(4) substituted (5.12.2005) by [The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 (S.I. 2005/2050)](https://www.legislation.gov.uk/uksi/2005/2050), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2050/article/1/3), [Sch. 2 para. 43(b)](https://www.legislation.gov.uk/uksi/2005/2050/schedule/2/paragraph/43/b)
+
+[^key-bb8af8fd53428e9f928eb02e7677bdc4]: Textual amendment: Reg. 11(4)(b)(iii) substituted for reg. 11(4)(b)(iii)(iv) (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 24(3)(a)(i)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/24/3/a/i)
+
+[^key-c735a374012c5c567a94b8b2dcbe73ec]: Textual amendment: Reg. 11(4)(b)(iii)(iv) substituted for reg. 11(4)(b)(iii)(iv) (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 24(3)(a)(i)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/24/3/a/i) and (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 16(3)(a)(i)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/16/3/a/i)
+
+[^key-ab2a76bfa0a06c29e92609c83d60ff6e]: Textual amendment: Words in [reg. 11(4)(b)(iii)](https://www.legislation.gov.uk/uksi/1997/784/regulation/11/4/b/iii) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 52](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/52)
+
+[^key-9d8ed74769addea6d898e067eb76ed0f]: Textual amendment: Words in reg. 11(4)(b)(v) substituted for reg. 11(4)(b)(v)(a)(b) (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 24(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/24/3/a/ii)
+
+[^key-ade9e597a39c704453c186652fd60278]: Textual amendment: Words in reg. 11(4)(b)(v) substituted for reg. 11(4)(a)(b) (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 24(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/24/3/a/ii) and (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 16(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/16/3/a/ii)
+
+[^key-d594549878cb4a30b619a91c3cb75581]: Textual amendment: Reg. 11(4A) inserted (6.4.2005) by [Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/704)](https://www.legislation.gov.uk/uksi/2005/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2005/704/regulation/13/3)
+
+[^key-7212eea298581ee182599ed8dde7a5fe]: Textual amendment: Reg. 11(5) substituted (30.12.1999) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/3198)](https://www.legislation.gov.uk/uksi/1999/3198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3198/regulation/1/1), [14(4)](https://www.legislation.gov.uk/uksi/1999/3198/regulation/14/4)
+
+[^key-ccfa9bfd46392f389dc03f54a3f9ec3c]: Textual amendment: Words in reg. 11(6) substituted (6.4.2005) by [Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/704)](https://www.legislation.gov.uk/uksi/2005/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/1/2), [13(4)](https://www.legislation.gov.uk/uksi/2005/704/regulation/13/4)
+
+[^key-d7b55ccd4c6fe73c11d37b8917bce7fa]: Textual amendment: Reg. 11(7) substituted (E.W.) (13.3.2014) by The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107), art. 1(2), Sch. 1 para. 24(3)(b) and (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 16(3)(b)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/16/3/b)
+
+[^M_F_0ef3d6d2-9560-4be1-c44b-4aa3f634e95a]: Textual amendment: Words in sch. 1 substituted (5.12.2005) by [The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 (S.I. 2005/2050)](https://www.legislation.gov.uk/uksi/2005/2050), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2050/article/1/3), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2005/2050/schedule/2/paragraph/44)

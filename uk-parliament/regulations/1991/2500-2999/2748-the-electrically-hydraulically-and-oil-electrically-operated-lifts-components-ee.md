@@ -1,0 +1,301 @@
+---
+title: The Electrically, Hydraulically and Oil-Electrically Operated Lifts (Components) (EEC Requirements) Regulations 1991
+id: uksi/1991/2748
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1991-12-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1991/2748
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1991/2748/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electrically, Hydraulically and Oil-Electrically Operated Lifts (Components) (EEC Requirements) Regulations 1991
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1991 No. 2748
+
+HEALTH AND SAFETY
+
+The Electrically, Hydraulically and Oil-Electrically Operated Lifts (Components) (EEC Requirements) Regulations 1991
+
+Made
+
+5th December 1991
+
+Laid before Parliament
+
+9th December 1991
+
+Coming into force
+
+1st January 1992
+
+The Secretary of State, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to technical requirements relating to electrically operated lifts and their components[^f00002] and to hydraulically and oil-electrically operated lifts and their components[^f00003], in exercise of the powers conferred on him by that section and of all his other enabling powers, hereby makes the following Regulations:–
+
+## 1. Citation, commencement and revocation
+
+(1) These Regulations may be cited as the Electrically, Hydraulically and Oil-Electrically Operated Lifts (Components)(EEC Requirements) Regulations 1991, and shall come into force on 1st January 1992.
+
+(2) The Electrically Operated Lifts (EECRequirements) Regulations 1986[^f00004] (“the 1986 Regulations”) are hereby revoked provided that
+
+- (a) any application made for an EEC type-examination certificate;
+- (b) any undertaking provided with or in respect of any such application;
+- (c) any EEC type-examination certificate issued (together with any conditions attached to such certificate);
+- (d) any certificate of conformity issued in respect of a component and EEC mark placed on a component, pursuant to such a certificate; or
+- (e) any other thing done under the 1986 Regulations (even if the form specified in the 1986 Regulations is different from that specified for the purposes of these Regulations) shall be deemed to have been made, provided, issued, placed or done under these Regulations and accordingly the provisions of these Regulations shall apply thereto.
+
+## 2. Interpretation
+
+(1) In these Regulations, unless the context otherwise requires, the following expressions have the following meanings–
+
+- “approved body” means a body approved by the Secretary of State under regulation 3;
+- “approved other body” means a body charged by a member State other than the United Kingdom to carry out functions similar to those authorised to be carried out by an approved body under these Regulations;
+- “component” means–
+  - (i) landing-door locking devices;
+  - (ii) overspeed governors (car and counterweight);
+  - (iii) safety gears (car and counterweight);
+  - (iv) buffers (energy accumulation type with buffered return movement and energy dissipation buffers),
+
+  designed for use with a lift;
+- “the Directives” means Council Directive [84/528/EEC](https://www.legislation.gov.uk/european/directive/1984/0528) on the approximation of the laws of the member States relating to common provisions for lifting and mechanical handling appliances[^f00005] and Council Directive [84/529/EEC](https://www.legislation.gov.uk/european/directive/1984/0529) on the approximation of the laws of the member States relating to electrically operated lifts[^f00006] as adapted to technical progress by Commission Directive [86/312/EEC](https://www.legislation.gov.uk/european/directive/1986/0312)[^f00007] and as extended to hydraulically and oil-electrically operated lifts by Council Directive [90/486/EEC](https://www.legislation.gov.uk/european/directive/1990/0486)[^f00008];
+- “EEC inspection” means the procedure by which an approved body or an approved other body checks–
+  - (a) whether components conform with the type of component in respect of which an EEC type-examination certificate has been issued or extended;
+  - (b) whether adequate manufacturing control facilities are provided and adequate manufacturing control records are kept by or on behalf of the manufacturer;
+  - (c) whether the manufacturer actually carries out adequate checks to verify whether components manufactured by him conform with the type of component in respect of which an EEC type-examination certificate has been issued or extended; and
+  - (d) whether the EEC mark is being used correctly;
+- “EEC type-examination certificate” means a certificate that a type of component conforms with the EEC type-examination requirements;
+- “EEC type-examination requirements” means the technical requirements referred to in the Directives as set out in Schedule 1;
+- “extend” or
+- “extended” in relation to an EEC type-examination certificate means extend or extended pursuant to regulation 4(5);
+- “holder” means the manufacturer, or the authorised representative established in the Community, to whom an EEC type-examination certificate has been issued pursuant to an application under regulation 4(1); and
+- “lift” means any permanently installed electrically, hydraulically or oil-electrically operated hoisting appliance serving specific levels, having a car designed for the transport of persons or of persons and goods, suspended by ropes or chains or supported by one or more rams and moving at least partially between guides which are vertical or inclined at an angle of less than 15° to the vertical, but excluding–
+  - (i) lifts specially designed for military or research purposes, or those used as equipment on ships, on offshore prospecting and drilling rigs, in mines, or for the handling of radioactive materials;
+  - (ii) lifts intended exclusively for the transport of goods; and
+  - (iii) any of the following hoisting appliances: paternosters, rack-and-pinion elevators, screw-driven elevators, theatre elevators, loading appliances, skips, lifts and goods hoists on building or public works sites, construction or maintenance equipment and lifts specially constructed for transporting the handicapped.
+
+(2) Any reference in these Regulations to a numbered regulation or Schedule is a reference to the regulation or Schedule so numbered in these Regulations.
+
+## 3. Approved bodies
+
+(1) The Secretary of State may approve a body–
+
+- (a) to carry out examinations of components to ascertain whether or not they conform with the EEC type-examination requirements;
+- (b) to issue and extend EEC type-examination certificates;
+- (c) to carry out EEC inspection; and
+- (d) to do such other things as may be required or permitted under or in connection with these Regulations.
+
+(2) Any approval of a body as an approved body by the Secretary of State, for the purposes of paragraph (1) of this regulation, may be given for an unlimited period or a specified period and may be given subject to terms and conditions and the Secretary of State may withdraw any such approval if the body ceases to comply with any such term or condition.
+
+## 4. EEC type-examination certificates
+
+(1) An application for an EEC type-examination certificate may be made to an approved body by a manufacturer, or his authorised representative established in the Community; such application shall be in writing, shall contain the information and documents set out in Schedule 2, and shall be accompanied by–
+
+- (a) an undertaking by the manufacturer in the form set out in Schedule 3; and
+- (b) where the application is made by his authorised representative, an undertaking by that authorised representative in the form set out in Schedule 3A;
+
+and, if required by the approved body–
+
+- (c) an example of the type of component in respect of which the application is made; or
+- (d) the prescribed fee in advance; or
+- (e) both (c) and (d) above.
+
+(2) Where an application is made to an approved body in respect of a type of component and the approved body is aware, on receipt of that application, that another application has been made to another approved body or to an approved other body in respect of a component of that type manufactured by the same manufacturer, the approved body shall reject the application made to it and shall return any prescribed fee accompanying that application.
+
+(3) Where the approved body is satisfied, on application made to it and after examination of an example of the type of component in respect of which the application was made, that the examined component conforms with the EEC type-examination requirements and after payment of the prescribed fee (if so required), unless such prescribed fee has been paid in advance under paragraph (1) of this regulation, it shall issue an EEC type-examination certificate in the form set out in Schedule 4 in respect of that type of component which shall be valid for a period of 10 years.
+
+(4) Where the approved body is satisfied, on application made to it and after examination of an example of the type of component in respect of which the application was made, that the examined component does not conform with the EEC type-examination requirements and after payment of the prescribed fee (if so required), unless such prescribed fee has been paid in advance under paragraph (1) of this regulation, it shall issue a test failure report which states the reasons for the issue of such report and informs the applicant of his right to apply for review of the decision of the approved body under regulation 9.
+
+(5) On application made to the approved body by the manufacturer, or his authorised representative established in the Community, in writing and accompanied, if required by the approved body, by the prescribed fee, the approved body shall extend by a period of ten years the validity of an EEC type-examination certificate issued or extended by it under these Regulations and which has not been suspended or withdrawn.
+
+(6) An approved body shall issue an EEC type-examination certificate or extend such a certificate subject to the conditions set out in the form of undertaking specified in Schedule 3 and, where the applicant is an authorised representative, specified in Schedule 3A.
+
+## 5. Certificate of conformity and EEC mark of conformity
+
+The manufacturer of a component which conforms with a type of component in respect of which an EEC type-examination certificate issued or extended under these Regulations, or under the law of a member State other than the United Kingdom, is in force may issue a certificate of conformity in the form set out in Schedule 5 that such component conforms with that type, and may place on such component the EEC mark of conformity in the form set out in Schedule 6.
+
+## 6. EEC inspection
+
+(1) An approved body shall either carry out or ensure that another approved body or an approved other body carries out at its request and on its behalf EEC inspection in respect of components of the same type as that for which it has issued or extended an EEC type-examination certificate under these Regulations and during the period for which such certificate remains in force.
+
+(2) An approved body may carry out EEC inspection in respect of components of the type for which an EEC type-examination certificate has been issued or extended by another approved body or an approved other body if requested to do so by and on behalf of that other body, and shall send a report in writing following such inspection to that other body.
+
+(3) Following an EEC inspection under paragraph (1) of this regulation, the approved body shall issue a report in writing to the holder of the EEC type-examination certificate and may require the holder of such certificate to pay to the approved body the prescribed fee.
+
+## 7. Prescribed Fee
+
+The prescribed fee mentioned in regulation 4(1), (3), (4) and (5) and in regulation 6(3) in each case shall not exceed the sum of–
+
+- (a) the costs of the approved body of and in connection with the work done or to be done by it or on its behalf under these Regulations; and
+- (b) an amount on account of profit which is reasonable in the circumstances having regard to–
+  - (i) the character and the extent of the work done or to be done by the approved body under these Regulations, and
+  - (ii) the commercial rate normally charged on account of profit for that work or similar work.
+
+## 8. Suspension and withdrawal of EEC type-examination certificate
+
+(1) If an approved body, after checking a component or after receipt of a report from another approved body or an approved other body made at the request of the approved body, is satisfied that a component of the same type as that in respect of which it has issued or extended an EEC type-examination certificate under these Regulations and which certificate remains in force has not been manufactured to conform with the EEC type-examination requirements in respect of such component, the approved body shall give notice to the holder of such certificate.
+
+(2) If it appears to an approved body which has issued or extended an EEC type-examination certificate and which certificate remains in force that any condition subject to which it was issued or extended has not been fulfilled, the approved body may give notice to the holder of such certificate.
+
+(3) Any notice given under paragraph (1) or (2) of this regulation shall specify–
+
+- (a) the respects in which the component does not so conform or the condition appears not to have been fulfilled; and
+- (b) that, unless the approved body is satisfied by the holder of the certificate within a specified period that components of the same type manufactured by the same manufacturer do so conform or that the condition is fulfilled, the certificate will be suspended or withdrawn; or
+- (c) if the approved body thinks fit, that the certificate is suspended with immediate effect.
+
+(4) If, after the period specified under paragraph (3)(b) of this regulation, the approved body decides to suspend or withdraw an EEC type-examination certificate the approved body shall immediately give notice of the decision to the holder of the certificate and shall specify that the suspension or withdrawal is of immediate effect or the date on which the suspension or withdrawal is to take effect.
+
+(5) A notice given under this regulation in respect of a decision to suspend or withdraw an EEC type-examination certificate shall specify the grounds for the decision, the conditions for revoking any suspension and shall inform the holder of the certificate of his right to apply for a review of the decision under regulation 9.
+
+(6) If the approved body decides to suspend or withdraw an EEC type-examination certificate under this regulation it shall immediately give notice of the decision to the Secretary of State.
+
+(7) The suspension or withdrawal of an EEC type-examination certificate shall not affect the validity of any certificate of conformity or EEC mark of conformity issued or placed on a component under regulation 5 prior to that suspension or withdrawal.
+
+## 9. Review
+
+(1) A person who is aggrieved by a decision given by an approved body under regulation 4(4), or under regulation 8(1), (2) or (4) may, in accordance with paragraphs (2) and (3) of this regulation, apply to the Secretary of State to review that decision and on such application the Secretary of State–
+
+- (a) shall have the like powers as an approved body;
+- (b) may hold an inquiry in connection therewith; and
+- (c) may appoint an assessor for the purpose of assisting him with his review or any such inquiry.
+
+(2) An application under paragraph (1) of this regulation shall be made by notice to the Secretary of State, and shall be lodged with him not later than twenty eight days from the date of receipt of the test failure report issued under regulation 4(4) or of the notice issued under regulation 8 containing the decision in respect of which the application for review is made.
+
+(3) A notice of application for review under this regulation shall state the grounds on which the application is made and shall be accompanied by copies of the information, documents, and the undertaking or undertakings which, in accordance with regulation 4(1), were contained in or accompanied the application under that regulation for the EEC type-examination certificate in question, and
+
+- (a) where the application is for review of a decision under regulation 4(4), a copy of the test failure report; or
+- (b) where the application for review relates to the suspension or withdrawal of an EEC type-examination certificate, a copy of that certificate and of any notice issued under regulation 8.
+
+(4) On completion of the review the Secretary of State shall inform the aggrieved person and the approved body concerned of the outcome of such review.
+
+Reay,
+
+Parliamentary Under Secretary of State for Industryand Technology,
+
+Department of Tradeand Industry
+
+5th December 1991
+
+## schedule 1 — eec Type-examination requirements
+
+Regulation 2(1)
+
+The EEC type-examination requirements referred to in regulation 2(1), with which components must comply, are the following standards adopted by the European Committee for Standardisation (CEN):
+
+- EN81–1 (edition: December 1985). Safety rules for the constructionand installation of liftsand service lifts. Part 1: electric lifts, for electrically operated lifts, and
+- EN81–2 (edition: November 1987). Safety rules for the constructionand installation of liftsand service lifts. Part 2: hydraulic lifts, for hydraulicallyand oil-electrically operated lifts.
+
+These standards shall apply, subject to the following modifications required by the Directives:
+
+- Section 13.1.1.4
+- Replace by the following:
+
+  > - The electrical installations for lifts must:
+  >   - (a) comply with the requirements stated in the Cenelec harmonised documents accepted by the national electro-technical committees of the EEC member States;
+  >   - (b) where no harmonised documents on electrical installations as referred to in (a) exist, comply with the requirements of the national rules of the country in which the lift is installed.
+- Section 13.1.2
+- Replace by the following:
+
+  > - In the machineand pulley rooms, protection against direct contact by means of casings providing a degree of protection of at least IP 2 X is necessary.
+- Section F.O.1.6
+- Add the following:
+
+  > - . . . . in accordance with Article 13(2) of Directive [84/528/EEC](https://www.legislation.gov.uk/european/directive/1984/0528).
+
+## SCHEDULE 2 — INFORMATION AND DOCUMENTS TO BE PROVIDED BY THE APPLICANT FOR EEC TYPE-EXAMINATION
+
+Regulation 4(1)
+
+The following informationand documents shall be given in English:
+
+- the name and address of the manufacturer,and of his authorised representative established in the Community if the latter is the applicant.
+- the category of component.
+- its intended use and any prohibited use.
+- its trade name, if any, or type.
+- the technical characteristics of the component.
+- the position on the component where the EEC mark of conformity is to be affixed.
+- a statement certifying that no other application for EEC type-examination has been submitted for the same type of component to another approved body or an approved other body.
+
+Two copies are to be provided of all required documents.
+
+## SCHEDULE 3 — FORM OF UNDERTAKING BY MANUFACTURER
+
+Regulation 4(1)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1991/2748/images/uksi_19912748_en_002)
+
+## SCHEDULE 3A — FORM OF UNDERTAKING BY THE AUTHORISED REPRESENTATIVE WHERE THAT AUTHORISED REPRESENTATIVE IS THE APPLICANT FOR AN EEC TYPE-EXAMINATION CERTIFICATE
+
+Regulation 4(1)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1991/2748/images/uksi_19912748_en_003)
+
+## SCHEDULE 4 — EEC TYPE-EXAMINATION CERTIFICATE
+
+Regulation 4(3)
+
+[image: see source](https://www.legislation.gov.uk/uksi/1991/2748/images/uksi_19912748_en_004)
+
+## SCHEDULE 5 — EEC CERTIFICATE OF CONFORMITY
+
+Regulation 5
+
+[image: see source](https://www.legislation.gov.uk/uksi/1991/2748/images/uksi_19912748_en_005)
+
+## SCHEDULE 6 — EEC MARK OF CONFORMITY
+
+Regulation 5
+
+[image: see source](https://www.legislation.gov.uk/uksi/1991/2748/images/uksi_19912748_en_001)
+
+Note:
+
+1. Letters and digits must be at least 5mm high.
+
+2. The mark must be visibly, legibly and indelibly fixed to each component.
+
+3. The figure 91 is for purposes of illustration and refers to an EEC type-examination in 1991.
+
+(This note is not part of the Regulations)
+
+The Regulations supersede the Electrically Operated Lifts (EEC Requirements) Regulations 1986 ([S.I. 1986/1500](https://www.legislation.gov.uk/uksi/1986/1500)) which are referred to in this note as the 1986 Regulations.
+
+The 1986 Regulations implemented Council Directives [84/528/EEC](https://www.legislation.gov.uk/european/directive/1984/0528) and [84/529/EEC](https://www.legislation.gov.uk/european/directive/1984/0529) (OJ No. L300 pp. 72-94) as adapted to technical progress by Commission Directive [86/312/EEC](https://www.legislation.gov.uk/european/directive/1986/0312) (OJ No. L196 pp. 56-57). These Directives specify that electrically operated lifts and specified components thereof which satisfy certain requirements must be accorded free circulation in the Community, but they do not provide for the type-examination of lifts (as opposed to the specified lift components).
+
+There was (and is) no need to make regulations for such lifts or lift components to be accorded free circulation, but the 1986 Regulations implied that, on application by or on behalf of manufacturers, type-examination certificates could be granted in respect of lifts. This has been corrected in these Regulations which revoke the 1986 Regulations, subject to the proviso that things done under the 1986 Regulations are deemed to have been done under these Regulations which from the date that they come into force apply to such matters (Regulation 1).
+
+The Regulations also implement Council Directive [90/486/EEC](https://www.legislation.gov.uk/european/directive/1990/0486) (OJ No. L270 pp.21-22) which extends the requirements of the previous Directives to hydraulically and oil-electrically operated lifts and lift components and also amends certain technical requirements which must be complied with (see Regulation 2 and Schedule 1).
+
+The 1986 Regulations extended to Great Britain whereas these Regulations extend to the United Kingdom. The Regulations provide:
+
+- (a) for the approval by the Secretary of State of bodies to carry out examinations, to issue EEC type-examination certificates and to carry out EEC inspections in respect of specified lift components (Regulation 3);
+- (b) for applications to be made by the manufacturer, or his authorised representative established in the Community, for the issue by an approved body, subject to conditions, of EEC type-examination certificates for specified lift components which comply with the technical requirements of the Directives as set out in Schedule 1, for subsequent EEC inspection by the approved body which has issued such certificate to ensure continuing compliance with EEC requirements, and the elements which the approved body can take into account in charging fees for type-examination and EEC inspection (Regulations 4, 6 and 7);
+- (c) for the issue of certificates of conformity and the placing of EEC marks by a manufacturer in respect of specified lift components for which there is an EEC type-examination certificate (Regulation 5);
+- (d) for notices in respect of non-conforming lift components or breach of conditions in respect of EEC type-examination certificates, for the suspension and withdrawal of such certificates and for review by the Secretary of State of decisions by an approved body on the application of an aggrieved person (Regulations 8 and 9).
+
+The Schedules to the Regulations set out the information which has to be supplied by an applicant for an EEC type-examination certificate (Schedule 2), the undertakings which have to be given in respect of any such application (Schedule 3 and 3A), the form of EEC type-examination certificate (Schedule 4), the form of the EEC certificate of conformity (Schedule 5) and the EEC mark of conformity (Schedule 6).
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00002]: Footnote: [S.I. 1986/947](https://www.legislation.gov.uk/uksi/1986/947).
+
+[^f00003]: Footnote: [S.I. 1991/187](https://www.legislation.gov.uk/uksi/1991/187).
+
+[^f00004]: Footnote: [S.I. 1986/1500](https://www.legislation.gov.uk/uksi/1986/1500)
+
+[^f00005]: Footnote: OJ No. L300. 19.11.84. p.72.
+
+[^f00006]: Footnote: OJ No. L300. 19.11.84. p.86.
+
+[^f00007]: Footnote: OJ No. L196. 18.7.86. p.56.
+
+[^f00008]: Footnote: OJ No. L270. 2.10.90. p.21.

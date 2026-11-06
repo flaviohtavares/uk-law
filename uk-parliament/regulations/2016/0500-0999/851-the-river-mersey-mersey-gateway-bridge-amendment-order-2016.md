@@ -1,0 +1,156 @@
+---
+title: The River Mersey (Mersey Gateway Bridge) (Amendment) Order 2016
+id: uksi/2016/851
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2016-08-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2016/851
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/851/pdfs/uksi_20160851_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/851/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The River Mersey (Mersey Gateway Bridge) (Amendment) Order 2016
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2016 No. 851
+
+Transport And Works, England
+
+Transport, England
+
+The River Mersey (Mersey Gateway Bridge) (Amendment) Order 2016
+
+Made
+
+24th August 2016
+
+Coming into force
+
+14th September 2016
+
+An application has been made to the Secretary of State in accordance with the Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006[^f00001] for an Order under sections 3 and 5 of the Transport and Works Act 1992[^f00002] (“the 1992 Act”).
+
+The Secretary of State, having considered the objections made and not withdrawn, has determined to make an Order giving effect to the proposals comprised in the application with modifications which in the opinion of the Secretary of State do not make any substantial change in the proposals.
+
+The Secretary of State is of the opinion that the primary object of this Order cannot be achieved by means of an Order under the Harbours Act 1964[^f00003].
+
+Notice of the Secretary of State’s determination was published in the London Gazette on 23rd<sup> </sup>August 2016.
+
+The Secretary of State in exercise of the powers conferred by sections 3 and 5 of, and paragraph 12 of Schedule 1 to, the 1992 Act and article 2 of the Transport and Works (Description of Works Interfering with Navigation) Order 1992[^f00004], makes the following Order—
+
+## 1. Citation, commencement and interpretation
+
+This Order may be cited as the River Mersey (Mersey Gateway Bridge) (Amendment) Order 2016 and comes into force on 14th September 2016.
+
+**2.** In this Order, any reference to an article is a reference to an article in the River Mersey (Mersey Gateway Bridge) Order 2011[^f00005].
+
+## 3. Amendments to the River Mersey (Mersey Gateway Bridge) Order 2011
+
+(1) The River Mersey (Mersey Gateway Bridge) Order 2011 is amended as follows.
+
+(2) In article 2(1) insert the following definitions in the appropriate alphabetical place—
+
+> - “the 2013 Regulations” means the Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) Regulations 2013[^f00006];
+
+;
+
+> - “charging scheme” means a charging scheme made by order under Part 3 of the 2000 Act;
+
+; and
+
+> - “Silver Jubilee Bridge roads” means the A533 road between its junctions with the A557 Weston Point Expressway and the A533 Daresbury Expressway in Runcorn and Ditton Junction in Widnes carried in part upon the Silver Jubilee Bridge;
+
+.
+
+(3) After article 42, insert—
+
+> **42A. Power to make road user charging schemes**
+>
+> (1) The undertaker may make charging schemes in respect of the bridge roads or Silver Jubilee Bridge roads, or a single charging scheme for both.
+>
+> (2) Section 164(3) (local charging schemes) of the 2000 Act does not apply to such a charging scheme.
+>
+> (3) A charging scheme to which this article relates may make provision, in addition to anything provided for under the 2000 Act, for—
+>
+> - (a) charges to be levied for any services or facilities provided in connection with the new crossing and the Silver Jubilee Bridge; and
+> - (b) any other matter that is provided for in articles 41 (power to charge tolls) and 42 (payment of tolls).
+>
+> (4) Where a charging scheme is in force on 14th September 2016 in respect of the bridge roads or Silver Jubilee Bridge roads, or both, and does not make express provision for such matters, the following is to apply in addition to that charging scheme—
+>
+> - (a) the undertaker may levy charges for any other services or facilities provided in connection with the new crossing or the Silver Jubilee Bridge;
+> - (b) where any charge, including a penalty charge under a charging scheme or a charge levied under sub-paragraph (a), remains unpaid after it has become due for payment the person to whom it is payable may recover from the person liable to pay it the amount of the charge together with all other reasonable costs and expenses including administrative expenses, enforcement expenses and interest arising out of such failure to pay;
+> - (c) the undertaker may appoint any person to act as its agent to collect charges and other sums as provided for within sub-paragraph (b); and
+> - (d) regardless of paragraph 8 of Schedule 12 (road user charging and workplace parking levy: financial provisions) to the 2000 Act, any charge may be applied by the undertaker to the purposes specified in article 41(10) but the undertaker may not apply any charges for the purposes mentioned in sub-paragraphs (e) or (f) of that article—
+>   - (i) in a manner that would contravene [Directive 1999/62/EC](https://www.legislation.gov.uk/european/directive/1999/0062) of the European Parliament and of the Council of 17th June 1999[^f00007] on the charging of heavy goods vehicles for the use of certain infrastructure as amended by [Directive 2006/38/EC](https://www.legislation.gov.uk/european/directive/2006/0038) of the European Parliament and of the Council of 17th May 2006[^f00008] and Council [Directive 2006/103/EC](https://www.legislation.gov.uk/european/directive/2006/0103) of 20th November 2006[^f00009]; or
+>   - (ii) unless it is satisfied that it has applied for the purposes of sub-paragraphs (a) to (d) of article 41(10) sufficient funds to ensure the safe, efficient and economic management, operation and maintenance of the new crossing in accordance with all applicable statutory requirements.
+>
+> (5) Subject to the provisions of this article, when a charging scheme is in force in respect of the bridge roads (whether for the bridge roads alone or with the Silver Jubilee Bridge roads) the charging scheme has effect in substitution for articles 41, 42 and 46 (enforcement), but when there is no charging scheme in force in respect of the bridge roads the imposition, payment and enforcement of payment of tolls and charges imposed under this Order is to be under the powers conferred by articles 41, 42 and 46.
+>
+> (6) The powers conferred by this article may not be transferred under article 43(1) (power to enter into concession agreements and lease or transfer the undertaking, etc.) to any person who is not a traffic authority under section 121A (traffic authorities) of the Road Traffic Regulation Act 1984[^f00010].
+
+(4) In paragraph (9) of article 42, for “shall be void” substitute “may be voided by the undertaker”.
+
+(5) For article 46 substitute—
+
+> **46. Enforcement**
+>
+> (1) The provisions of this article apply in respect of tolls and charges imposed under the powers conferred by article 41.
+>
+> (2) The undertaker, or any person authorised by the undertaker in writing, is an authorised person for the purposes of this article, and any authorised person who is about to exercise, is in the course of exercising or has exercised any power conferred by this article must, if so requested, produce written evidence of their authority to do so.
+>
+> (3) Any authorised person may examine a motor vehicle whilst it is on a road to ascertain if any of the circumstances described in regulation 22(1)(a) to (c) (power to examine motor vehicles) of the 2013 Regulations exists and any reference in that regulation to “a charging scheme” or “the charging scheme” is a reference to this Order, or any byelaws made under it, any reference to “a designated road” is a reference to the new crossing, and the reference to “a road user charge” is a reference to a toll or charge payable under article 41 (power to charge tolls).
+>
+> (4) Any authorised person may enter a motor vehicle whilst it is on a road where the authorised person has reasonable grounds for suspecting that any of the circumstances described in regulation 23(1)(a) and (b) (power to enter motor vehicles) of the 2013 Regulations exists and any reference in that regulation to “a charging scheme” is a reference to this Order, or any byelaws made under it, the reference to “a road designated by the charging scheme and in respect of which road user charges have been imposed” is a reference to the new crossing, and any reference to “a road user charge” is a reference to a toll or charge payable under article 41.
+>
+> (5) Any authorised person may seize anything (if necessary by detaching it from a motor vehicle) and detain it as evidence that a person has committed an offence under article 40(7)(b) (contravention of byelaws about the evasion of payment of tolls).
+>
+> (6) The powers conferred by paragraphs (4) and (5) must not be exercised by an authorised person who is not a constable except in the presence of a constable.
+>
+> (7) The powers conferred by paragraphs (2) to (5) may only be exercised in respect of motor vehicles on roads in England.
+
+Signed by Authority of the Secretary of State
+
+Martin Woods
+
+Head of the Transport and Works Act Orders Unit
+
+Department for Transport
+
+24th August 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the River Mersey (Mersey Gateway Bridge) Order 2011 (“2011 Order”). This Order allows Halton Borough Council to make a road user charging scheme under the Transport Act 2000 in place of the tolling provisions in respect of the Mersey Gateway Bridge and Silver Jubilee Bridge to enable an open road charging scheme to be introduced. It also modifies the provisions in the 2011 Order that relate to the enforcement of the payment of tolls and charges if no road user charging scheme is in force.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2006/1466](https://www.legislation.gov.uk/uksi/2006/1466).
+
+[^f00002]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42). Section 3 was amended by paragraphs 51 and 53 of Schedule 2 to the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), section 5 was amended by [S.I. 2012/1659](https://www.legislation.gov.uk/uksi/2012/1659).
+
+[^f00003]: Footnote: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
+
+[^f00004]: Footnote: [S.I. 1992/3230](https://www.legislation.gov.uk/uksi/1992/3230), as amended by [S.I. 1997/2906](https://www.legislation.gov.uk/uksi/1997/2906).
+
+[^f00005]: Footnote: [S.I. 2011/41](https://www.legislation.gov.uk/uksi/2011/41).
+
+[^f00006]: Footnote: [S.I. 2013/1783](https://www.legislation.gov.uk/uksi/2013/1783).
+
+[^f00007]: Footnote: OJL 187, 20. 7. 1999, p 42.
+
+[^f00008]: Footnote: OJL 157, 9. 6. 2006, p 8.
+
+[^f00009]: Footnote: OJL 363, 20. 12. 2006, p 344.
+
+[^f00010]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27). Section 121A was inserted by paragraph 70 of Part 2 of Schedule 8 to the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), and amended by section 271 of the Greater London Authority Act [1999 (c. 20)](https://www.legislation.gov.uk/ukpga/1999/20), paragraphs 70 and 95 of Part 2 of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [S.1. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820) and [S.1. 2001/1400](https://www.legislation.gov.uk/uksi/2001/1400).

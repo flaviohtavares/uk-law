@@ -1,0 +1,187 @@
+---
+title: Nuclear Safeguards and Electricity (Finance) Act 1978
+id: ukpga/1978/25
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1978-06-30'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1978/25
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1978/25/pdfs/ukpga_19780025_en.pdf
+- http://www.legislation.gov.uk/ukpga/1978/25/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Nuclear Safeguards and Electricity (Finance) Act 1978
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Nuclear Safeguards and Electricity (Finance) Act 1978
+
+1978 c.25
+
+An Act to make provision for giving effect to an International Agreement for the application of Safeguards in the United Kingdom in connection with the Treaty on the Non-Proliferation of Nuclear Weapons; and to authorise contributions by the Secretary of State to expenditure by the Central Electricity Generating Board in connection with the construction of the second stage of the Board’s generating station at Drax.
+
+\[30th June 1978\][^key-1f922160d3b7204462c25479d8f936ed][^key-d0f078217f02a653b35d439db06c45c3][^key-c890879fdde6600f5a696647f70d22b9][^key-bc7b2e5cca2f8780b01f56c82036a488]
+
+## Safeguards on nuclear material
+
+### 1. The Safeguards Agreement.
+
+(1) The provisions of sections 2 and 3 below shall have effect for the purpose of enabling effect to be given in the United Kingdom to the Agreement made on 7th June 2018 at Vienna between the United Kingdom and the International Atomic Energy Agency[^key-b746f1ac6afcf025c41e9bbf3bcffdd1] for the application of Safeguards in the United Kingdom in connection with the Treaty on the Non-Proliferation of Nuclear Weapons.
+
+(2) [^key-3d824b0fc7ea7e326bc16c4ba0ee0249]... In the following provisions of this Act—
+
+- (a) the Agreement [^key-2154a8c3f0592daf3f2ee2ddd4410155]... is referred to as “**the Safeguards Agreement**”; and
+- (b) any reference to a numbered article is a reference to the article of the Safeguards Agreement which bears that number.
+
+### 2. Rights of Agency inspectors.
+
+(1) Subject to subsection (2) below, for the purpose of—
+
+- (a) making any inspection permitted by articles 69 to 82[^key-d44bc225aef4ca0727af11348014e36c]; or
+- (b) verifying design information, as mentioned in article 48[^key-3394ce9e27c8ed836e499302cd971954],
+
+any person designated as an inspector of the International Atomic Energy Agency under article 83 of the Safeguards Agreement[^key-de542c17efe67adf280cc0753e1c68a1] or Article 11 of the Additional Protocol (within the meaning of the Nuclear Safeguards Act 2000)[^key-ad98ef8d4f7dce0c8edc4ae0b59481dd] may enter any facility or part thereof and there make any inspection or do any other thing which may reasonably be required for that purpose.
+
+(2) The powers conferred by subsection (1) above shall be exercisable only in the cases specified in, and subject to the provisions of, the Safeguards Agreement and, in particular,—
+
+- (a) shall be exercisable only in accordance with articles 4, 9(c) and 85[^key-2bc5e80441f6d82aa49d22eebeefbbf3]; [^key-6783a841dd1c689fbf1cb5cfef8f07a6]... and
+- (b) where article 81 applies[^key-9c4a80b8aa39be364db68cc95155a960], shall not be exercisable unless any advance notice required by that article has been given.
+
+(3)[^c980682] In the following provisions (which restrict the rights of entry to certain prohibited places which belong to or are used for the purposes of the United Kingdom Atomic Energy Authority or which are sites of nuclear installations) namely—
+
+- (a) subsection (3) of section 6 of the [^c980683]Atomic Energy Authority Act 1954; and
+- (b) sub-paragraph (2) of paragraph 3 of Schedule 1 to the [^c980684]Nuclear Installations Act 1965 (as inserted into that Act by the [^c980685]Atomic Energy Authority Act 1971),
+
+at the end of paragraph (b) there shall be added the words
+
+> or
+>
+> - (bb) a person designated as an inspector of the International Atomic Energy Agency under article 85 of the Agreement made on the 6th September 1976 for the application of Safeguards in the United Kingdom in connection with the Treaty on the Non-Proliferation of Nuclear Weapons (Cmnd. 6730)
+
+.
+
+(4) Any person who—
+
+- (a) intentionally obstructs any person exercising a power conferred by subsection (1) above; or
+- (b) without reasonable excuse refuses or fails to provide any information or to permit any inspection reasonably required by any such person; or
+- (c) without reasonable excuse refuses or fails to carry out in a facility any operation which he is requested to carry out by a person designated as mentioned in subsection (1) above,
+
+shall be guilty of an offence..[^key-d3100a1c8e1ce136a80ab24d77a48bef]
+
+(4A) A person guilty of an offence under subsection (4) above shall be liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; and
+- (b) on conviction on indictment, to a fine.
+
+(5) If any person in giving any information reasonably required by any person exercising a power conferred by subsection (1) above makes any statement which he knows to be false in a material particular or recklessly makes any statement which is false in a material particular he shall be liable—
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum; and
+- (b) on conviction on indictment, to imprisonment for a term not exceeding two years, or a fine, or both.
+
+(6)[^c980687] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In this section “**facility**” has the meaning assigned to it by article 90[^key-9b7fd5472bc143d034885e4e8686d83d]I.
+
+(8)[^key-845bab0fcf2fc301c51bd09421eb113e] If in any proceedings any question arises whether a person at any time when purporting to exercise powers under this section was or was not a person designated as mentioned in subsection (1) above, a certificate issued by or under the authority of the Office for Nuclear Regulation[^key-0c64624ac1df1b067bbe648fc46d126f] stating any fact relevant to that question shall be conclusive evidence of that fact.
+
+### 3. Regulations for giving effect to certain provisions of Safeguards Agreement.
+
+(1) The Secretary of State may by regulations make such provision as appears to him to be necessary—
+
+- (a) for taking any action required in the United Kingdom under article 18 or article 19; and
+- (b) for giving effect to any arrangements made under article 74(d)[^key-c7d5635b4e2dd8184011ef095f7dc6e0];
+
+and any such provision may impose limitations on the scope or exercise of any power conferred by section 2(1) above.
+
+(1A)[^key-c9451430d39fe58ed59298b86ca363b4] Regulations under this section may in particular modify functions of, or confer functions on, the Office for Nuclear Regulation.
+
+(2) Regulations under this section may provide that any person contravening or failing to comply with any provision of the regulations shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale[^c980696].
+
+(2A)[^key-42b905ce0ae74310af7fd0c3ffc1544b] The Secretary of State must consult the Office for Nuclear Regulation before making regulations under this section unless the regulations give effect, without modification, to any proposals for them submitted by the Office for Nuclear Regulation under section 81(1)(a)(v) of the Energy Act 2013.
+
+(3) The power to make regulations under this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 4. Offences by bodies corporate.
+
+(1) Where an offence under section 2 above or under regulations made under section 3 above which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) above shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+### 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c980697]
+
+## Supplemental
+
+### 6. Short title and extent.
+
+(1) This Act may be cited as the Nuclear Safeguards and Electricity (Finance) Act 1978.
+
+(2) This Act extends to Northern Ireland.
+
+## Annotations
+
+[^key-1f922160d3b7204462c25479d8f936ed]: Modification: Act extended (with modifications) (7.5.2004) by [Nuclear Safeguards (Isle of Man) Order 2004 (S.I. 2004/1289)](https://www.legislation.gov.uk/uksi/2004/1289), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/1289/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/1289/schedule/1)
+
+[^key-d0f078217f02a653b35d439db06c45c3]: Modification: Act extended (with modifications) (7.5.2004) by [Nuclear Safeguards (Guernsey) Order 2004 (S.I. 2004/1290)](https://www.legislation.gov.uk/uksi/2004/1290), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/1290/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/1290/schedule/1)
+
+[^key-c890879fdde6600f5a696647f70d22b9]: Modification: Act extended (with modifications) (7.5.2004) by [Nuclear Safeguards (Jersey) Order 2004 (S.I. 2004/1288)](https://www.legislation.gov.uk/uksi/2004/1288), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/1288/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/1288/schedule/1)
+
+[^key-bc7b2e5cca2f8780b01f56c82036a488]: Modification: Act: power to amend conferred (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [ss. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2018/15/section/2/1/a), [6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2) (with [ss. 2(6)](https://www.legislation.gov.uk/ukpga/2018/15/section/2/6), [5(3)](https://www.legislation.gov.uk/ukpga/2018/15/section/5/3)); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/c)
+
+[^key-b746f1ac6afcf025c41e9bbf3bcffdd1]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/1978/25/section/1/1) substituted (31.12.2020) by [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/2/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3d824b0fc7ea7e326bc16c4ba0ee0249]: Textual amendment: Words in [s. 1(2)](https://www.legislation.gov.uk/ukpga/1978/25/section/1/2) omitted (31.12.2020) by virtue of [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/2/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2154a8c3f0592daf3f2ee2ddd4410155]: Textual amendment: Words in [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1978/25/section/1/2/a) omitted (31.12.2020) by virtue of [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 2(c)](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/2/c) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d44bc225aef4ca0727af11348014e36c]: Textual amendment: Words in [s. 2(1)(a)](https://www.legislation.gov.uk/ukpga/1978/25/section/2/1/a) substituted (31.12.2020) by [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/3/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3394ce9e27c8ed836e499302cd971954]: Textual amendment: Words in [s. 2(1)(b)](https://www.legislation.gov.uk/ukpga/1978/25/section/2/1/b) substituted (31.12.2020) by [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/3/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-de542c17efe67adf280cc0753e1c68a1]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/1978/25/section/2/1) substituted (31.12.2020) by [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 3(c)](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/3/c) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ad98ef8d4f7dce0c8edc4ae0b59481dd]: Textual amendment: Words in s. 2(1) inserted (1.5.2004) by [Nuclear Safeguards Act 2000 (c. 5)](https://www.legislation.gov.uk/ukpga/2000/5), [ss. 11(3)(a)](https://www.legislation.gov.uk/ukpga/2000/5/section/11/3/a), [12(2)](https://www.legislation.gov.uk/ukpga/2000/5/section/12/2) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2000/5/section/12/3)); [S.I. 2004/1242](https://www.legislation.gov.uk/uksi/2004/1242), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1242/article/2), [3](https://www.legislation.gov.uk/uksi/2004/1242/article/3)
+
+[^key-2bc5e80441f6d82aa49d22eebeefbbf3]: Textual amendment: Words in [s. 2(2)(a)](https://www.legislation.gov.uk/ukpga/1978/25/section/2/2/a) substituted (31.12.2020) by [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 4(a)(i)](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/4/a/i) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6783a841dd1c689fbf1cb5cfef8f07a6]: Textual amendment: Words in [s. 2(2)(a)](https://www.legislation.gov.uk/ukpga/1978/25/section/2/2/a) omitted (31.12.2020) by virtue of [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/4/a/ii) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9c4a80b8aa39be364db68cc95155a960]: Textual amendment: Words in [s. 2(2)(b)](https://www.legislation.gov.uk/ukpga/1978/25/section/2/2/b) substituted (31.12.2020) by [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 4(b)](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/4/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c980682]: Modification: The text of s. 2(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c980683]: Marginal citation: [1954 c. 32](https://www.legislation.gov.uk/ukpga/1954/32)
+
+[^c980684]: Marginal citation: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57).
+
+[^c980685]: Marginal citation: [1971 c. 11](https://www.legislation.gov.uk/ukpga/1971/11).
+
+[^key-d3100a1c8e1ce136a80ab24d77a48bef]: Textual amendment: S. 2(4A) and words substituted for words in s. 2(4) (1.5.2004) by [Nuclear Safeguards Act 2000 (c. 5)](https://www.legislation.gov.uk/ukpga/2000/5), [ss. 11(3)(b)](https://www.legislation.gov.uk/ukpga/2000/5/section/11/3/b), [12(2)](https://www.legislation.gov.uk/ukpga/2000/5/section/12/2) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2000/5/section/12/3)); [S.I. 2004/1242](https://www.legislation.gov.uk/uksi/2004/1242), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1242/article/2), [3](https://www.legislation.gov.uk/uksi/2004/1242/article/3)
+
+[^c980687]: Textual amendment: S. 2(6) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt.XIV](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XIV) Group 2.
+
+[^key-9b7fd5472bc143d034885e4e8686d83d]: Textual amendment: Words in [s. 2(7)](https://www.legislation.gov.uk/ukpga/1978/25/section/2/7) substituted (31.12.2020) by [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-845bab0fcf2fc301c51bd09421eb113e]: Textual amendment: S. 2(8) inserted (1.5.2004) by [Nuclear Safeguards Act 2000 (c. 5)](https://www.legislation.gov.uk/ukpga/2000/5), [ss. 11(3)(c)](https://www.legislation.gov.uk/ukpga/2000/5/section/11/3/c), [12(2)](https://www.legislation.gov.uk/ukpga/2000/5/section/12/2) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2000/5/section/12/3)); [S.I. 2004/1242](https://www.legislation.gov.uk/uksi/2004/1242), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1242/article/2), [3](https://www.legislation.gov.uk/uksi/2004/1242/article/3)
+
+[^key-0c64624ac1df1b067bbe648fc46d126f]: Textual amendment: Words in [s. 2(8)](https://www.legislation.gov.uk/ukpga/1978/25/section/2/8) substituted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 40](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/40); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+
+[^key-c7d5635b4e2dd8184011ef095f7dc6e0]: Textual amendment: Words in [s. 3(1)(b)](https://www.legislation.gov.uk/ukpga/1978/25/section/3/1/b) substituted (31.12.2020) by [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/6) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c9451430d39fe58ed59298b86ca363b4]: Textual amendment: [S. 3(1A)](https://www.legislation.gov.uk/ukpga/1978/25/section/3/1A) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 41(a)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/41/a); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+
+[^c980696]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46), (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G) and (N.I.) by [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703), [art. 5](https://www.legislation.gov.uk/nisi/1984/703/article/5)
+
+[^key-42b905ce0ae74310af7fd0c3ffc1544b]: Textual amendment: [S. 3(2A)](https://www.legislation.gov.uk/ukpga/1978/25/section/3/2A) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 41(b)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/41/b); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+
+[^c980697]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1978/25/section/5) repealed by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 112(4)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/4), [Sch. 18](https://www.legislation.gov.uk/ukpga/1989/29/schedule/18)

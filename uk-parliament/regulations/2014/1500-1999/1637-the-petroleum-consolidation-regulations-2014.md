@@ -1,0 +1,894 @@
+---
+title: The Petroleum (Consolidation) Regulations 2014
+id: uksi/2014/1637
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-06-23'
+text_date: '2015-06-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2014/1637
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/1637/pdfs/uksiem_20141637_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1637/pdfs/uksi_20141637_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/1637/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Petroleum (Consolidation) Regulations 2014
+
+> Text as at 2015-06-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2014 No. 1637
+
+Health And Safety
+
+The Petroleum (Consolidation) Regulations 2014
+
+Made
+
+23rd June 2014
+
+Laid before Parliament
+
+30th June 2014
+
+Coming into force
+
+1st October 2014
+
+The Secretary of State makes these Regulations in exercise of the powers conferred upon him by sections 15(1), (2), (3)(a) and (c), (4), (6)(b) and (8), 18(2)(a), 43(2) and (4), 80(1) and 82(3)(a) of, and paragraphs 1(1), (2), (3) and (4), 3(1), 4, 9, 12 and 15(1) of Schedule 3 to, the Health and Safety at Work etc. Act 1974[^f00001] (“the 1974 Act”)—
+
+- (a) for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Executive under section 11(3)[^f00002] of the 1974 Act, the Executive having consulted in accordance with section 50(3)[^f00003] of that Act, and
+- (b) it appearing to him that the repeal of the Acts and the provisions of the Act mentioned in Part 1 of Schedule 4, and modification of the provisions of the Acts and instrument mentioned in paragraphs 1 to 5 of Part 2 of Schedule 4, are expedient as set out in section 80(1) of the 1974 Act and after consulting such bodies which appeared to him to be appropriate in accordance with section 80(4)[^f00004] of that Act.
+
+## PART 1 — INTRODUCTION AND GENERAL PROHIBITION ON THE KEEPING OF PETROL
+
+### 1. Citation and commencement[^key-d6acedb2cc280169c1f8df432d9b1a76]
+
+(1) These Regulations may be cited as the Petroleum (Consolidation) Regulations 2014.
+
+(2) They come into force on 1st October 2014.
+
+### 2. Interpretation[^key-e0ef78268b204d0db3faf67a5c4a974f]
+
+In these Regulations—
+
+- “the 1974 Act” means the Health and Safety at Work etc. Act 1974;
+- “dispenser” means a mechanical or electrical device for the dispensing of petrol;
+- “dispensing of petrol” means the manual or electrical pumping of petrol from a storage tank into—
+  - (a) the fuel tank for an internal combustion engine; or
+  - (b) any container, including a demountable fuel tank;
+- “dispensing premises” means a workplace for the dispensing of petrol that is not within the curtilage of a domestic premises and does not include a road tanker or similar vehicle;
+- “demountable fuel tank” means the fuel tank for the internal combustion engine of a motor boat or similar vessel, motor vehicle, hovercraft or aircraft that has been designed so that it can be safely removed and re-affixed to the engine without leaking fuel;
+- “dock” includes any pier, jetty or other place, in or at which ships can ship or unship goods or passengers;
+- “domestic or other relevant premises” means—
+  - (a) domestic premises; or
+  - (b) non-domestic premises that are not a workplace;
+- “domestic or other relevant user” means a person who stores petrol in domestic or other relevant premises;
+- “harbour” means any harbour, whether natural or artificial, and any port, haven, estuary, tidal or other river, canal or inland navigation navigated by sea-going ships and any dock;
+- “motor vehicle” means all mechanically propelled vehicles intended or adapted for use on land;
+- “petroleum enforcement authority” means—
+  - (a) in England—
+    - (i) in Greater London[^f00005] or a metropolitan county[^f00006], the fire and rescue authority[^f00007];
+    - (ii) in a non-metropolitan county, the county council, and may include district borough, city or unitary councils;
+    - (iii) in the Isles of Scilly, the Council for the Isles of Scilly;
+  - (b) in Wales, the county council or county borough council;
+  - (c) in Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00008];
+- “petrol” means petroleum or a mixture of petroleum with one or more substances which—
+  - (a) is liquid or viscous at a temperature of 15°C and a pressure of 101.325 kPa (1013.25 mb); and
+  - (b) when tested in accordance with Part A.9 of the Annex to Council Regulation [(EC) No 440/2008](https://www.legislation.gov.uk/european/regulation/2008/0440)[^f00009] (laying down the test methods pursuant to Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907) of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals REACH), has a flash point (as defined in that Part) of less than 21°C;
+- “portable petrol storage container” means any container designed, manufactured or sold for storing petrol, other than a demountable fuel tank or a fuel tank attached to an internal combustion engine, that is designed to be carried by hand;
+- “relevant date” means the date on which these Regulations come into force;
+- “ship”, except in regulation 18, includes every description of vessel used in navigation, whatever its method of propulsion, including hovercraft;
+- “workplace” means a workplace within the meaning of the Dangerous Substances and Explosive Atmospheres Regulations 2002[^f00010].
+
+### 3. Application[^key-38fb6b8917a12b08af3a746f5ade2d67]
+
+(1) These Regulations do not apply to—
+
+- (a) a workplace except one—
+  - (i) used, or intended for use, for the dispensing of petrol; or
+  - (ii) within the curtilage of domestic premises; or
+- (b) any establishment to which the Control of Major Accident Hazards Regulations 2015[^key-8c0cd8465c12878c57fe9da152b5e554] apply by virtue of regulation 3 of those Regulations.
+
+(2) Regulations 12(2), (3) and (4), 18(1)(b) and 21 do not apply to Her Majesty’s Forces.
+
+(3) In this regulation “Her Majesty’s Forces” means any of the naval, military or air forces of the Crown, whether raised inside or outside the United Kingdom and whether any such force is a regular, auxiliary or reserve force, and includes any civilian employed by those forces.
+
+### 4. General prohibition on the keeping of petrol[^key-a8c78c6b15f5a6863ac069730314f20c]
+
+No person is to keep petrol except in compliance with regulation 5 or regulation 13.
+
+## PART 2 — STORAGE OF PETROL ON DISPENSING PREMISES
+
+### 5. Storage under certificate[^key-fb446412efff7f8577bdf493592724c8]
+
+A person keeps petrol in compliance with this regulation if the petrol is kept on dispensing premises in respect of which there is—
+
+- (a) a valid storage certificate; and
+- (b) compliance with the notification requirements set out in regulations 9 and 10, as applicable.
+
+### 6. Application and grant of storage certificates[^key-2c2d7ef4c045d6b1fcd7ac32cc01937d]
+
+(1) A petroleum enforcement authority must grant a certificate in respect of dispensing premises (a “storage certificate”) where—
+
+- (a) an application has been made in accordance with this regulation; and
+- (b) it is satisfied that the containment system for petrol at the dispensing premises, including storage tanks, pipework and dispensers, may reasonably be used to store petrol and would not create an unacceptable risk to the health or safety of any person.
+
+(2) An application under this regulation may be made by any person.
+
+(3) An application under this regulation must include the following information—
+
+- (a) the name and address of the applicant;
+- (b) the address of the dispensing premises;
+- (c) a drawing of the layout of the dispensing premises;
+- (d) a drawing of the containment system for petrol at the dispensing premises, including storage tanks and pipework;
+- (e) a drawing of the drainage system for petrol at the dispensing premises.
+
+(4) A storage certificate must contain the following information—
+
+- (a) the name of the petroleum enforcement authority granting the certificate;
+- (b) the address of the dispensing premises in respect of which the certificate is granted;
+- (c) a drawing of the layout of the dispensing premises;
+- (d) a drawing of the containment system for petrol at the dispensing premises, including storage tanks and pipe work;
+- (e) a drawing of the drainage system for petrol at the dispensing premises.
+
+(5) An application for a storage certificate must be made within—
+
+- (a) a maximum of six months; and
+- (b) a minimum of 28 days,
+
+before the day on which the storage of petrol is to be undertaken at the dispensing premises.
+
+(6) A storage certificate is not personal to the person to whom it is granted and remains valid on transfer of ownership, operation or management of the dispensing premises.
+
+### 7. Validity of storage certificates[^key-b23fdf55c7ccd474eeccf0e030cc61bb]
+
+A storage certificate remains valid for so long as—
+
+- (a) there is no prescribed material change (see regulation 8); and
+- (b) the dispensing premises do not cease to be used for the keeping of petrol for a continuous period exceeding 12 months.
+
+### 8. Prescribed material changes[^key-6d29218b62991f042239461225ed88ff]
+
+(1) For the purposes of regulation 7 a “prescribed material change” is a change to dispensing premises of a description falling within Schedule 1.
+
+(2) A prescribed material change must be notified to the petroleum enforcement authority at least 28 days before the commencement of any works to effect the change.
+
+(3) Where a prescribed material change has been effected to dispensing premises, the petroleum enforcement authority must issue, subject to the requirements of regulation 6(1)(b) being met, a new storage certificate containing the information specified in regulation 6(4) to—
+
+- (a) the person to whom the certificate which it replaces was granted; or
+- (b) if that petroleum enforcement authority has subsequently been notified of the keeping of petrol at the premises by another person under regulation 10, the last such person to notify the petroleum enforcement authority.
+
+### 9. Notification before ceasing to occupy dispensing premises in respect of which there is a storage certificate[^key-5d9738680570387e2969528f1a968df3]
+
+(1) A person keeping petrol on dispensing premises in respect of which there is a storage certificate must notify the petroleum enforcement authority in accordance with this regulation before ceasing to occupy the dispensing premises.
+
+(2) The notification must be made in writing and must state—
+
+- (a) the person’s name and address;
+- (b) the address of the dispensing premises; and
+- (c) the date on which the person proposes to cease occupation of the dispensing premises.
+
+(3) The notification must be given—
+
+- (a) a maximum of six months; and
+- (b) a minimum of 28 days,
+
+before the day on which the person ceases to occupy the dispensing premises.
+
+(4) A contravention of paragraph (3)(b) does not relieve a person from the duty to notify the petroleum enforcement authority under paragraphs (1) and (2).
+
+### 10. Notification before keeping petrol on dispensing premises in respect of which there is an existing storage certificate[^key-37fcbcd827692a518327d8f5de7644f0]
+
+(1) This regulation applies where a person proposes to keep petrol on dispensing premises in respect of which there is a valid storage certificate, and that person was not the person to whom the storage certificate was granted.
+
+(2) A person proposing to keep petrol where this regulation applies must notify the petroleum enforcement authority in accordance with this regulation before keeping petrol on the dispensing premises.
+
+(3) The notification must be made in writing and must state—
+
+- (a) the person’s name and address;
+- (b) the address of the dispensing premises; and
+- (c) the date on which the person proposes to commence keeping petrol at the dispensing premises.
+
+(4) The notification must be given—
+
+- (a) a maximum of six months; and
+- (b) a minimum of 28 days,
+
+before the day on which the person proposes to keep petrol on the dispensing premises.
+
+(5) A contravention of paragraph (4)(b) does not relieve a person from the duty to notify the petroleum enforcement authority under paragraphs (2) and (3).
+
+### 11. Appeals from refusals by petroleum enforcement authorities to grant storage certificates[^key-67651b1c05e82c436b157eba0364e0fe]
+
+(1) A person who is aggrieved by a decision of a petroleum enforcement authority not to grant a storage certificate may appeal to the Secretary of State.
+
+(2) Subsections (2) to (6) of section 44 of the 1974 Act apply for the purposes of this regulation as they apply to an appeal under section 44(1) of that Act.
+
+(3) The Health and Safety Licensing Appeals (Hearings Procedure) Rules 1974[^f00012] apply for the purposes of this regulation, but as if any reference in those Rules—
+
+- (a) to an appeal were a reference to an appeal under paragraph (1); and
+- (b) to a licensing authority were a reference to a petroleum enforcement authority.
+
+(4) Paragraph (3) applies in Scotland as if the reference to the Health and Safety Licensing Appeals (Hearings Procedure) Rules 1974 were a reference to the Health and Safety Licensing Appeals (Hearings Procedure) (Scotland) Rules 1974[^f00013].
+
+(5) The Secretary of State, when determining the appeal, may direct the petroleum enforcement authority to grant a storage certificate.
+
+(6) In paragraph (5) “Secretary of State” includes a person who under section 44(2) of the 1974 Act determines the appeal on behalf of the Secretary of State.
+
+### 12. General prohibitions on dispensing and supply of petrol[^key-dd5a4d2728a9551c7fbd543b9678a287]
+
+(1) No person is to dispense, or allow the dispensing of, petrol from a dispenser on dispensing premises except—
+
+- (a) for use in a motor vehicle or motor boat;
+- (b) to fill a suitable portable container or a demountable fuel tank; or
+- (c) for the purpose of maintenance or calibration of the dispenser.
+
+(2) No person under the age of sixteen years is to operate a dispenser on dispensing premises.
+
+(3) No person is to supply, or allow the supply of, petrol to a person under the age of sixteen years.
+
+(4) No person is to dispense petrol from a dispenser otherwise than on dispensing premises except to fill a suitable portable container.
+
+(5) Paragraph (4) does not apply in relation to the re-fuelling of an aircraft by a bowser or vehicle specifically designed for the purpose of re-fuelling aircraft.
+
+(6) In this regulation “suitable portable container” has the meaning given by paragraph 6 of Schedule 2.
+
+## PART 3 — STORAGE OF PETROL IN DOMESTIC OR OTHER RELEVANT PREMISES
+
+### 13. Storage of petrol in domestic or other relevant premises[^key-07446ed41ac9cbe5dccff99a240b2007]
+
+(1) A person keeps petrol in compliance with this regulation if the petrol—
+
+- (a) is kept in domestic or other relevant premises;
+- (b) is kept otherwise than for sale; and
+- (c) is kept—
+  - (i) in accordance with paragraph 1 or 2 of Schedule 2; or
+  - (ii) where there is a valid licence authorising the keeping of petrol granted by the petroleum enforcement authority under regulation 14, in accordance with that licence.
+
+(2) A person keeps petrol in compliance with this regulation if the person keeps no more than 500 millilitres of petrol in a suitable container that is securely stopped, in the circumstances described in paragraph (1)(a) and (b), whether or not the person also keeps petrol pursuant to paragraph (1)(c).
+
+(3) Petrol kept pursuant to paragraph (2) is not to be counted towards the amount of petrol kept in a storage place in accordance with Schedule 2.
+
+### 14. Licences for storage in domestic or other relevant premises[^key-7715dee3e5b16d92fea86f899d1af94a]
+
+(1) A petroleum enforcement authority may grant a person a licence authorising the keeping of petrol in excess of 275 litres in domestic or other relevant premises.
+
+(2) A licence may only authorise the keeping of petrol for private use.
+
+(3) “Private use” does not include keeping petrol for the purpose of sale.
+
+(4) A petroleum enforcement authority may only grant a licence if it is satisfied that the keeping of petrol in accordance with the licence, including any proposed conditions of the licence, would not create an unacceptable risk to the health or safety of any person.
+
+(5) A petroleum enforcement authority may attach conditions to a licence concerning any or all of the following matters—
+
+- (a) the nature and location of the premises in which petrol is to be kept;
+- (b) the amount of petrol kept;
+- (c) the mode of storage of petrol;
+- (d) the dispensing of petrol;
+- (e) the nature of any goods with which petrol is to be stored;
+- (f) the systems, if any, for fire detection;
+- (g) the equipment, if any, for the extinguishing of fires;
+- (h) the security of the site and petrol stored on the premises;
+- (i) the safe-keeping of petrol, generally.
+
+(6) A licence must specify the premises, and the places within the premises where petrol is to be kept, and the name of the licensee.
+
+(7) A licence may be granted for a maximum of three years.
+
+(8) A licence is personal to the licensee and is not transferrable.
+
+### 15. Appeals from refusals by petroleum enforcement authorities to grant licences[^key-ea98e9fff31b9d0cd07685f7dfcbe56c]
+
+(1) A person who is aggrieved by a decision of a petroleum enforcement authority not to grant a licence under regulation 14 may appeal to the Secretary of State.
+
+(2) Subsections (2) to (6) of section 44 of the 1974 Act apply for the purposes of this regulation as they apply to an appeal under section 44(1) of that Act.
+
+(3) The Health and Safety Licensing Appeals (Hearings Procedure) Rules 1974 apply for the purposes of this regulation, but as if any reference in those Rules—
+
+- (a) to an appeal were a reference to an appeal under paragraph (1); and
+- (b) to a licensing authority were a reference to a petroleum enforcement authority.
+
+(4) Paragraph (3) applies in Scotland as if the reference to the Health and Safety Licensing Appeals (Hearings Procedure) Rules 1974 were a reference to the Health and Safety Licensing Appeals (Hearings Procedure) (Scotland) Rules 1974.
+
+(5) The Secretary of State, when determining the appeal, may direct the petroleum enforcement authority to grant a licence.
+
+(6) In paragraph (5) “Secretary of State” includes a person who under section 44(2) of the 1974 Act determines the appeal on behalf of the Secretary of State.
+
+### 16. Renewal and variation of licences[^key-404a721cd960dd31806aab24b2be7ba4]
+
+(1) A petroleum enforcement authority may renew a licence, on the application of the licensee, for a period of up to three years if it is satisfied that the keeping of petrol in accordance with the conditions of the licence would not create an unacceptable risk to the health or safety of any person.
+
+(2) A petroleum enforcement authority may vary the conditions of a licence, on the application of the licensee, if the petroleum enforcement authority is satisfied that the storage of petrol in accordance with the conditions of the licence, as it is proposed they be varied, would not create an unacceptable risk to the health or safety of any person.
+
+(3) In varying the conditions of a licence a petroleum enforcement authority may attach only conditions that it would be able to attach pursuant to regulation 14 on the grant of a licence.
+
+### 17. Revocation of licences[^key-13d8717423db9f0ef4341ec0e1b1394f]
+
+(1) A petroleum enforcement authority may revoke a licence where—
+
+- (a) there has been a change in circumstances so that the continued keeping of petrol in accordance with the conditions of the licence would create an unacceptable risk to the health or safety of any person; or
+- (b) a condition of the licence has been contravened.
+
+(2) Where a licence is revoked, the licensee must return the licence to the petroleum enforcement authority within 28 days of the date of the revocation.
+
+## PART 4 — MISCELLANEOUS PROVISIONS
+
+### 18. Enforcing authorities[^key-25f1a81381bae88338eccdc7f7cda446]
+
+(1) A petroleum enforcement authority is the enforcing authority within its area for—
+
+- (a) these Regulations;
+- (b) sections 2 to 4 and 7 and 8 of the 1974 Act for the purposes of regulation 21(1), even if the road tanker in question is on a road at the time of that filling or replenishing; and
+- (c) the Dangerous Substances and Explosive Atmospheres Regulations 2002 in so far as they apply to any activity—
+  - (i) at a retail petrol filling station relating to fuelling motor vehicles, ships with vehicle fuel or aircraft with petrol; or
+  - (ii) at a non-retail petrol filling station relating to fuelling motor vehicles, ships or aircraft with petrol.
+
+(2) Paragraph (1)(c) does not apply to—
+
+- (a) any activity at a retail petrol filling station connected with—
+  - (i) repairing motor vehicles, ships or aircraft; or
+  - (ii) retailing goods other than vehicle fuel; or
+- (b) any activity at a non-retail petrol filling station connected with repairing motor vehicles, ships or aircraft.
+
+(3) In this regulation—
+
+- “non-retail petrol filling station” means premises used, or intended for use, for dispensing petrol for use in motor vehicles, ships or aircraft and includes any petrol dispenser, other apparatus or storage tank for storing petrol used there in connection with that fuelling, but it does not include any retail petrol filling station;
+- “retail petrol filling station” means premises used, or intended for use, for dispensing petrol to the public for use in motor vehicles, ships or aircraft by way of sale and includes any vehicle fuel dispenser, other apparatus or storage tank for storing vehicle fuel used there in connection with that fuelling;
+- “ship” includes every description of vessel used in navigation propelled by means of an internal combustion engine and includes hovercraft;
+- “vehicle fuel” means petrol or any other substance which provides the power in an internal-combustion engine in a motor vehicle, ship or aircraft;
+- “vehicle fuel dispenser” means a mechanical or electrical device for the dispensing of vehicle fuel.
+
+### 19. Manufacture etc. of portable petrol storage containers[^key-9e723edae39b96cfb99e58bc020b37cc]
+
+(1) Any person who manufactures, imports or supplies any container for use as a portable petrol storage container must ensure that the container meets the standards for such containers specified in Schedule 3.
+
+(2) In any proceedings for an offence under paragraph (1) it is a defence for any person who supplied the container, but did not manufacture it, to prove that the person took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+### 20. Repairs of vessels or containers that have contained petrol[^key-f09af21e4f5734b94e043e997c6f56f7]
+
+A domestic or other relevant user must not repair, or allow the repair of, any container or other vessel, which to the person’s knowledge has contained petrol, or still contains petrol, without first taking all reasonable precautions to ensure that the container or other vessel has been rendered free from petrol and any flammable petrol vapours.
+
+### 21. Prohibition on direct filling of fuel tanks from road tankers[^key-a29e58af4f2e0b3c05cbd6e89817da7b]
+
+(1) No person is to fill or replenish a fuel tank for an internal combustion engine or a portable container with petrol directly from a road tanker conveying petrol.
+
+(2) A road tanker is conveying petrol where it is conveying petrol by road in circumstances where the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009[^f00014] apply to that tanker.
+
+### 22. Limited continuation of activities that were formerly compliant[^key-9fa974247e885be0c6aed81f6bfae750]
+
+(1) A petrol storage container that either—
+
+- (a) is made of metal and immediately before the relevant date complied with the requirements of regulations 2(1) and 4 of the Petroleum-Spirit (Motor Vehicles, etc.) Regulations 1929[^f00015]; or
+- (b) immediately before the relevant date complied with sub-paragraphs (a) to (d) of regulation 3(1) of, and the Schedule to, the Petroleum-Spirit (Plastic Containers) Regulations 1982[^f00016],
+
+may be manufactured and sold for use in Great Britain for up to two years after the relevant date.
+
+(2) A person storing petrol in domestic or other relevant premises in accordance with the storage requirements in the Petroleum-Spirit (Motor Vehicles, etc.) Regulations 1929 immediately before the relevant date is to be treated as complying with the storage requirements in Schedule 2 for up to two years after the relevant date.
+
+(3) A person storing up to 15 litres of petrol in domestic or other relevant premises in accordance with the storage requirements in section 1 of the Petroleum (Consolidation) Act 1928[^f00017] immediately before the relevant date is to be treated as complying with the storage requirements in Schedule 2 for up to two years after the relevant date.
+
+(4) For petrol stored domestically in accordance with the storage requirements in the Petroleum-Spirit (Motor Vehicles, etc.) Regulations 1929 any valid notice already given under those Regulations is deemed to be notice given in accordance with paragraph 4 of Schedule 2 to these Regulations, and remains valid for up to one year after the relevant date, or until the user gives or renews notice under these Regulations, whichever occurs first.
+
+(5) An application for a licence under section 2 of the Petroleum (Consolidation) Act 1928 received, but not determined, by a petroleum licensing authority before the relevant date, is to be considered under regulation 6, 14 or 16 of these Regulations, as applicable, and the provisions of these Regulations apply.
+
+(6) An application for the transfer of a licence under section 1 of the Petroleum (Transfer of Licences) Act 1936[^f00018] received, but not determined, by the petroleum licensing authority before the relevant date, is to be considered under regulation 6 or 14 of these Regulations, as applicable, and the provisions of these Regulations apply.
+
+(7) Fees paid for the grant or transfer of a licence in the circumstances described in paragraphs (5) and (6) are deemed to be fees paid in full for the determination of the application under these Regulations.
+
+### 23. Transitional provisions in relation to licences granted under the Petroleum (Consolidation) Act 1928[^key-32a3b799fdfae30ad7a8b3baadd2350e]
+
+(1) This regulation applies to the keeping of petrol that immediately before the relevant date was authorised by a licence granted under section 2(2) of the Petroleum (Consolidation) Act 1928.
+
+(2) Where the keeping of petrol to which this regulation applies—
+
+- (a) occurs on dispensing premises; and
+- (b) fulfils the requirements in paragraph (4),
+
+it is deemed to be kept in compliance with a valid certificate granted under regulation 6.
+
+(3) Where the keeping of petrol to which this regulation applies—
+
+- (a) occurs on domestic or other relevant premises;
+- (b) is for private use; and
+- (c) fulfils the requirements in paragraph (4),
+
+it is deemed to be kept in compliance with a valid licence granted under regulation 14.
+
+(4) The requirements are the conditions attached to the licence referred to in paragraph (1), but excluding any provision for renewal of the licence.
+
+(5) “Private use” does not include keeping petrol for the purpose of sale.
+
+(6) Except for paragraph (7), this regulation ceases to have effect at the end of the period of three years beginning with the relevant date.
+
+(7) A licence deemed to be tantamount to a valid storage certificate under paragraph (2), where the storage arrangements remain unaltered, is to be converted, by the petroleum enforcement authority, to a storage certificate on its expiry without having to fulfil the requirements set out in regulation 6.
+
+### 24. Savings in relation to byelaws[^key-e0996e66792ddb8a3be7bb936cf3319d]
+
+Despite the revocation of regulation 17(5) of the Dangerous Substances and Explosive Atmospheres Regulations 2002 (which saves byelaws made or having effect under section 9 of the Petroleum (Consolidation) Act 1928), byelaws made or having effect under section 9 of the Petroleum (Consolidation) Act 1928 which are in force immediately before the relevant date are to continue.
+
+### 25. Repeals, revocations and consequential amendments[^key-61d7b868b50f0c2aab26d236c3516468]
+
+(1) The Acts and instruments referred to in column 1 of Part 1 of Schedule 4 are repealed or revoked to the extent specified in the corresponding entry in column 3 of that Part.
+
+(2) Part 2 of Schedule 4 (which makes consequential amendments) has effect.
+
+### 26. Review[^key-ab840938ec15be8662af4999aa0d706a]
+
+(1) Before the end of the review period, the Secretary of State must—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(3) “Review period” means the period of five years beginning with the relevant date.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Mike Penning
+
+Minister of State
+
+Department of Work and Pensions
+
+23rd June 2014
+
+## SCHEDULE 1 — Prescribed material changes to dispensing premises
+
+Regulation 8
+
+**1.**[^key-6c6e3013423360c6b0b7e7e4b007eea9] The cessation of use of one or more of the petrol storage tanks.
+
+**2.**[^key-4728a050812bf523969ba53efb069a00] The removal or permanent decommissioning of one or more of the petrol storage tanks.
+
+**3.**[^key-3a21e3c06154544512b5202a1fca7dbc] The installation of any tank, pipework or vapour pipework associated with the storage and dispensing of petrol.
+
+**4.**[^key-d274ff7bae5186f803ad1211b540d92b] The installation of any petrol pump, any other automotive pump, or dispenser in a new location.
+
+## SCHEDULE 2 — Petrol Storage in Domestic or Other Relevant Premises
+
+Regulation 13(1)(c)
+
+### 1. Requirements for keeping up to 30 litres of petrol in suitable portable containers or in a single demountable fuel tank[^key-c543e3cbcbfae96a54fc8fd0e300459a]
+
+A person keeps petrol in accordance with this paragraph if—
+
+- (a) no more than a total of 30 litres in suitable portable containers or in a single demountable fuel tank is kept, of which—
+  - (i) no more than 30 litres is kept in one or more suitable portable containers;
+  - (ii) no more than 30 litres is kept in one demountable fuel tank; or
+  - (iii) no more than 30 litres is kept in no more than two suitable portable containers in any motor vehicle, motor boat, hovercraft or aircraft;
+- (b) the storage place is—
+  - (i) within, above, below, attached to, or within the curtilage of a building (but, subject to paragraphs (ii) and (iii), not a flat or public building);
+  - (ii) below a flat;
+  - (iii) attached to a public building; or
+  - (iv) in a vehicle for the purpose of using it as fuel for any internal combustion engine;
+- (c) the storage place, where it is—
+  - (i) within a building, is fire-separated from the rest of the building and any exit route from the building; and
+  - (ii) above, below or attached to a building, is fire-separated from the building; and
+- (d) the common storage requirements of paragraph 3 are met.
+
+### 2. Requirements for keeping of up to 275 litres of petrol[^key-f2bf70521f4f5beff7de2a658b8e46ae]
+
+A person keeps petrol in accordance with this paragraph if—
+
+- (a) petrol is kept in accordance with the common storage requirements of paragraph 3;
+- (b) notice has been given to the petroleum enforcement authority in accordance with paragraph 4;
+- (c)
+  - (i) more petrol is kept than may be kept in accordance with paragraph 1; and
+  - (ii) within the entirety of the domestic or other relevant premises no more than 275 litres is kept; and either
+- (d) no more than so much petrol as may be kept in accordance with paragraph 1 is kept in accordance with that paragraph and the remainder is kept in accordance with (e); or
+- (e) all petrol is kept—
+  - (i) in suitable portable containers, or demountable fuel tanks, or both of those types of container;
+  - (ii) in a storage place that is—
+    - (aa) a detached building; or
+    - (bb) attached to a building (but not domestic premises), and is fire-separated from the building; and
+  - (iii) where fire extinguishing and spillage containment apparatus is available either within the storage place, or as close as is reasonably practicable to the storage place.
+
+### 3. Common storage requirements for the keeping of intermediate quantities of petrol[^key-fcf7590f4442687d34a1e1a93f88779a]
+
+The requirements of this paragraph are met if—
+
+- (a) the storage place is not living accommodation;
+- (b) no dispensing of petrol occurs at the storage place;
+- (c) where the storage place is not in the open air, it has a direct exit to the open air and is ventilated to the open air;
+- (d) all reasonable precautions are taken in the storage place to prevent any sources of ignition or heat that would be liable to ignite petrol or its vapour; and
+- (e) petrol is not used in the storage place otherwise than—
+  - (i) in the fuel tank of any internal combustion engine; or
+  - (ii) in quantities, not exceeding at any one time 150 millilitres, for cleaning or as a solvent for repair purposes.
+
+### 4. Notification of petrol storage[^key-41fb7391d1dc642fe5e1c8c19b83cc5b]
+
+A petroleum enforcement authority is given notice in accordance with this paragraph where notice—
+
+- (a) is made in writing, stating—
+  - (i) the name of the occupier of the storage place;
+  - (ii) the address of the domestic or other relevant premises where the storage place is located;
+  - (iii) that petrol is kept, or to be kept, on those domestic or other relevant premises in accordance with paragraph 2; and
+- (b) is given by the occupier of the storage place—
+  - (i) before keeping, or permitting the keeping, of petrol in accordance with paragraph 2; and
+  - (ii) after that, annually in the month of January.
+
+### 5. Calculating the amount of petrol kept in a storage place[^key-168715230c24577a602a293ce93f97d3]
+
+For the purpose of calculating the amount of petrol kept in domestic or other relevant premises, any petrol contained in a fuel tank that is connected to an internal combustion engine in the way it would ordinarily be connected when the engine is running, is not to be counted towards the total amount of petrol kept.
+
+### 6. Suitable portable containers[^key-bc18585da3e48b8da94b8289490cc727]
+
+For the purposes of this Schedule (and regulation 12) a container is a “suitable portable container” if it—
+
+- (a) is in a good state of repair, secure from leaking, has not degraded from exposure to chemicals or light and is not unsteady when placed on a level surface; and
+- (b) fulfils one of the following requirements—
+  - (i) it meets the requirements of Schedule 3;
+  - (ii) it is made of metal and immediately before the relevant date complied (or would have complied if it were used for the purpose of keeping petrol) with the requirements of regulations 2(1) and 4 of the Petroleum-Spirits (Motor Vehicles, etc.) Regulations 1929; or
+  - (iii) immediately before the relevant date it had the characteristics described in sub-paragraphs (a) to (d) of regulation 3(1) of, and the Schedule to, the Petroleum-Sprits (Plastic Containers) Regulations 1982.
+
+### 7. Interpretation[^key-e2a0e9f6cae8cc8c673c50f25401c1fb]
+
+In this Schedule—
+
+- “fire-resistant internal linings” means materials or products used in lining any partition, wall, ceiling or other internal structure that—
+  - (a) adequately resist the spread of flame over their surfaces; and
+  - (b) have, if ignited, either a rate of heat release or a rate of fire growth, that is reasonable in the circumstances;
+- “fire-separated” means—
+  - (a) separated by an external wall of a building which is able to resist adequately the spread of fire over the wall and from one building to another, having regard to the height, use and position of the building;
+  - (b) separated by a partition, wall, ceiling or other internal structure, containing fire-resistant internal linings; or
+  - (c) separated by the means described in sub-paragraph (a) or (b), other than a floor or ceiling, where there is an opening fitted with a self-closing door constructed of hard wood or other fire-resisting material;
+- “flat” means a separate and self-contained premises constructed or adapted for use for residential purposes and forming part of a building, from some other part of which it is divided horizontally;
+- “public building” means a building consisting of or containing a place of public resort but a building is not to be treated as a place of public resort because it is, or it contains, a dwelling to which the public are occasionally admitted;
+- “storage place” in domestic or other relevant premises means the place where petrol is stored.
+
+## SCHEDULE 3 — PORTABLE PETROL STORAGE CONTAINERS
+
+Regulation 19
+
+**1.**[^key-0e94ca2571619b2e188fc5430e8960e4] A portable petrol storage container must—
+
+- (a) have a nominal capacity —
+  - (i) no greater than 10 litres if made of plastic; and
+  - (ii) no greater than 20 litres if made of metal;
+- (b) have a total capacity between 10% and 15% more than the nominal capacity;
+- (c) be made of either metal or plastic that is suitable and safe for the purpose and will not significantly degrade due to exposure to petrol or naturally occurring ultra-violet radiation;
+- (d) be designed and constructed so that—
+  - (i) it is reasonably robust and not liable to break under the normal conditions of use;
+  - (ii) the escape of liquid or vapour is prevented;
+  - (iii) petrol can be poured safely from it; and
+  - (iv) it is not unsteady when placed on a flat surface;
+- (e) be marked or labelled in a legible and indelible form with—
+  - (i) the words “PETROL” and “HIGHLY FLAMMABLE”;
+  - (ii) an appropriate hazard warning sign;
+  - (iii) the nominal capacity in litres; and
+  - (iv) the manufacturer’s name and the date and month of manufacture.
+
+**2.**[^key-a224aff53f87f8a5f3142a93cda92505] In paragraph 1—
+
+- “nominal capacity” means the maximum volume of liquid that the container is intended to hold at 20°C;
+- “total capacity” means the maximum volume of liquid that the container would hold if filled to the brim.
+
+## SCHEDULE 4
+
+Regulation 25
+
+### PART 1 — Repeals and revocations[^key-6d823dd29330cd4b83706166276d35e2]
+
+| *Column 1*<br>*Title* | *Column 2*<br>*Reference* | *Column 3*<br>*Extent of repeal or revocation* |
+| --- | --- | --- |
+| London County Council (General Powers) Act 1912 | c. civ | The whole Act. |
+| Petroleum (Consolidation) Act 1928 | c. 32 | The whole Act. |
+| Petroleum (Transfer of Licences) Act 1936 | c. 27 | The whole Act. |
+| Regulatory Enforcement and Sanctions Act 2008 | c. 13 | The entries in Schedule 3 relating to the Petroleum (Consolidation) Act 1928 and the Petroleum (Transfer of Licences) Act 1936, and the entry in Schedule 6 relating to the Petroleum (Consolidation) Act 1928, sections 1, 5 and 18. |
+| Petroleum-Spirit (Motor Vehicles, etc.) Regulations 1929 | [S.R. & O. 1929/952](https://www.legislation.gov.uk/uksro/1929/952) | The whole Regulations. |
+| Petroleum (Mixtures) Order 1929 | [S.R. & O. 1929/993](https://www.legislation.gov.uk/uksro/1929/993) | The whole Order. |
+| Petroleum (Liquid Methane) Order 1957 | [S.R. & O. 1957/859](https://www.legislation.gov.uk/uksi/1957/859) | The whole Order. |
+| Petroleum (Regulation) Acts 1928 and 1936 (Repeals and Modifications) Regulations 1974 | [S.I. 1974/1942](https://www.legislation.gov.uk/uksi/1974/1942) | The whole Regulations. |
+| Petroleum (Consolidation) Act 1928 (Enforcement) Regulations 1979 | [S.I. 1979/427](https://www.legislation.gov.uk/uksi/1979/427) | The whole Regulations. |
+| Petroleum-Spirit (Plastic Containers) Regulations 1982 | [S.I. 1982/630](https://www.legislation.gov.uk/uksi/1982/630) | The whole Regulations. |
+| Dangerous Substances in Harbour Areas Regulations 1987 | [S.I. 1987/37](https://www.legislation.gov.uk/uksi/1987/37) | Regulation 47(3). |
+| Health and Safety (Explosives and Petroleum Fees) (Modification) Regulations 1987 | [S.I. 1987/52](https://www.legislation.gov.uk/uksi/1987/52) | The whole Regulations. |
+| Health and Safety (Miscellaneous Provisions) (Metrication etc.) Regulations 1992 | [S.I. 1992/1811](https://www.legislation.gov.uk/uksi/1992/1811) | The entry in the first column in the table in Part 1 of Schedule 1 referring to the Petroleum (Consolidation) Act 1928 and the corresponding entries below in the first, second, third and fourth columns in that table. |
+| Health and Safety Information for Employees (Modifications and Repeals) Regulations 1995 | [S.I. 1995/2923](https://www.legislation.gov.uk/uksi/1995/2923) | The entry in the first column in the table in Part 1 of the Schedule referring to the Petroleum (Consolidation) Act 1928 and the corresponding entry in the second column in that table. |
+| Carriage of Dangerous Goods by Rail Regulations 1996 | [S.I. 1996/2089](https://www.legislation.gov.uk/uksi/1996/2089) | The whole Regulations. |
+| Carriage of Dangerous Goods by Road Regulations 1996 | [S.I. 1996/2095](https://www.legislation.gov.uk/uksi/1996/2095) | The whole Regulations. |
+| Quarries Regulations 1999 | [S.I. 1999/2024](https://www.legislation.gov.uk/uksi/1999/2024) | In column 1 of Part II of Schedule 5, the reference to the Carriage of Dangerous Goods by Rail Regulations 1996 and the corresponding entries in column 2 of that Part. |
+| Dangerous Substances and Explosive Atmospheres Regulations 2002 | [S.I. 2002/2776](https://www.legislation.gov.uk/uksi/2002/2776) | Regulation 17(4) and (5).<br>Paragraphs 2, 3, 4, 5, and 6 of Schedule 6.<br>The entry in the first column in the table in Part 1 of Schedule 7 referring to the Petroleum (Consolidation) Act 1928 and the corresponding entries in the second and third columns in that table. |
+
+### PART 2
+
+**1.**[^key-e77584877c527708e1e4e8b3fad5a002] In section 143(4)(a) (regulations for building near dangerous businesses) of the London Building Act 1930[^f00019] for “licence is in force under the provisions of the Petroleum (Consolidation) Act 1928” substitute “storage certificate or licence is in force under the provisions of the Petroleum (Consolidation) Regulations 2014”.
+
+**2.**[^key-a778ff416ed27814bad0ac857129f264] For section 69(8) (control of petroleum-filling stations) of the London County Council (General Powers) Act 1933[^f00020] substitute—
+
+> (8) In this section the expression “petroleum-filling station” means any premises or place used or intended to be used by way of trade or for purposes of gain for fuelling motor vehicles with petrol by means of a pump or standpipe or other like apparatus and includes any building advertisement pump or other apparatus used in connection with such premises or place and the expression “petrol” has the meaning given by regulation 2 of the Petroleum (Consolidation) Regulations 2014.
+
+.
+
+**3.**[^key-8acb5326483fa9372518a4ce1080d8b1] In section 73 (derelict petrol tanks) of the Public Health Act 1961[^f00021]—
+
+(1) in subsection (1), for “petroleum spirit” substitute “petrol”;
+
+(2) in subsection (5), for “section twenty-three of the Petroleum (Consolidation) Act 1928” substitute “section 57 of the Harbours Act 1964”; and
+
+(3) for subsection (6) substitute—
+
+> (6) In this section “petrol” has the meaning given by regulation 2 of the Petroleum (Consolidation) Regulations 2014.
+
+.
+
+**4.**[^key-bccf9d9f430d5f9247b985cd2b3d0450] In section 94 (disused petrol containers) of the Civic Government (Scotland) Act 1982[^f00022]—
+
+(1) in subsection (1), for “petroleum spirit” substitute “petrol”;
+
+(2) in subsection (4), for “section 23 of the Petroleum (Consolidation) Act 1928” substitute “section 57 of the Harbours Act 1964”; and
+
+(3) for subsection (5) substitute—
+
+> (5) In this section “petrol” has the meaning given by regulation 2 of the Petroleum (Consolidation) Regulations 2014.
+
+.
+
+**5.**[^key-7c168ad7bb4d2718ba45180d0916ee8a] In article 3(e) of the Isles of Scilly (Functions) Order 1979[^f00023] (functions), for “the Petroleum (Consolidation) Act 1928” substitute “the Petroleum (Consolidation) Regulations 2014”.
+
+**6.**[^key-8f8c4e1dd3d8774ebd10259866af5669] In the Dangerous Substances in Harbour Areas Regulations 1987[^f00024]—
+
+- (a) in regulation 2(1) (interpretation), for the definition beginning with “petroleum-spirit” substitute ““petroleum-spirit” means petrol within the meaning of regulation 2 of the Petroleum (Consolidation) Regulations 2014”;
+- (b) for regulation 5(2)(a) (application of these Regulations) substitute—
+
+  > - (a) petroleum-spirit, intended for use in any internal combustion engine and not wholly or partly for the purpose of sale, kept in a container which meets the requirements of the Petroleum (Consolidation) Regulations 2014.
+
+  ;
+- (c) for regulation 29(b) (application of this Part) substitute—
+
+  > - (b) to petroleum-spirit kept in accordance with the requirements of the Petroleum (Consolidation) Regulations 2014.
+
+  .
+
+**7.**[^key-9844e512cc5cd39a032c5fc930bb48ac] In the Dangerous Substances (notification and marking of sites) Regulations 1990[^f00025], in Schedule 1 (Exceptions)—
+
+- (a) for paragraph 2(c) substitute—
+
+  > - (c) sites in respect of which a storage certificate or licence is in force for the keeping of petrol under the Petroleum (Consolidation) Regulations 2014
+
+  ;
+- (b) for paragraph 4 substitute—
+
+  > **4.** Regulations 5 and 6 (which relate to access and location marking respectively) do not apply to retail or non-retail petrol filling stations within the meaning of regulation 18 of the Petroleum (Consolidation) Regulations 2014.
+
+  .
+
+**8.**[^key-dad5cf58e5bb127d5ee0a46bff95f1fa] In paragraph (10) of regulation 7 (labelling of dangerous substances and dangerous preparations) of the Chemicals (Hazard Information and Packaging for Supply) Regulations 2009[^f00026], for sub-paragraph (a) substitute—
+
+> - (a) regulation 19 of and paragraph 1(e) of Schedule 3 to the Petroleum (Consolidation) Regulations 2014;
+
+.
+
+**9.**[^key-ab360bccb8f44a0af306c00b2de57804] In the Health and Safety (Fees) Regulations 2012[^f00027]—
+
+- (a) in the heading to regulation 9 for “Petroleum (Consolidation) Act 1928 and the Petroleum (Transfer of Licences) Act 1936” substitute “Petroleum (Consolidation) Regulations 2014”;
+- (b) for paragraph (5) of regulation 9 substitute—
+
+  > (5) Where an application in relation to the provision specified in column 1 of Part 4 of Schedule 8 is made for the purpose described in the corresponding entry in column 2 of that Part, the fee specified in the corresponding entry in column 3 of that Part is payable by the applicant to the petroleum enforcement authority.
+
+  ;
+- (c) in paragraph (12) of regulation 9 omit “, 4” in each place where it appears;
+- (d) for regulation 10 substitute—
+
+  > **10. Date from which fees are payable under Petroleum (Consolidation) Regulations 2014**
+  >
+  > (1) The fee prescribed by these Regulations in respect of an application for a storage certificate under regulation 6 of the Petroleum (Consolidation) Regulations 2014 is payable on the certificate first having effect on or after the date the Petroleum (Consolidation) Regulations 2014 come into force, irrespective of the date of the application for that storage certificate.
+  >
+  > (2) The fee prescribed by these Regulations in respect of an application for a licence under regulation 14 of the Petroleum (Consolidation) Regulations 2014 is payable on the licence first having effect or any renewal of a licence first taking effect, on or after the date the Petroleum (Consolidation) Regulations 2014 come into force, irrespective of the date of the application for that licence or renewal.
+
+  ;
+- (e) for Part 4 of Schedule 8 substitute—
+
+  > **PART 4 — Fee Payable in Respect of Applications for the Granting of Storage Certificates and Petrol Licences**
+  >
+  > | *1*<br>*Provision under which a fee is payable* | *2*<br>*Purpose of application* | *3*<br>*Fee* |
+  > | --- | --- | --- |
+  > | Petroleum (Consolidation) Regulations 2014 |  |  |
+  > | Regulation 6 | Storage certificate, where premises to be used to store petrol of a quantity— |  |
+  > |  | not exceeding 2,500 litres | £42 for each year of certificate |
+  > |  | exceeding 2,500 litres but not exceeding 50,000 litres | £58 for each year of certificate |
+  > |  | exceeding 50,000 litres | £120 for each year of certificate |
+  > |  |  |  |
+  > | Regulation 14 | Licence to keep petrol of a quantity— |  |
+  > |  | not exceeding 2,500 litres | £42 for each year of licence |
+  > |  | exceeding 2,500 litres but not exceeding 50,000 litres | £58 for each year of licence |
+  > |  | exceeding 50,000 litres | £120 for each year of licence |
+  > |  |  |  |
+
+  .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)*.*
+
+These Regulations consolidate and modernise the petrol storage legislative framework in England, Scotland and Wales.
+
+Regulation 4 provides the general prohibition preventing the keeping of petrol, except in compliance with regulations 5 or 13.
+
+Part 2 (regulations 5 to 12) deals with the storage of petrol in dispensing premises, i.e. non-domestic premises.
+
+Regulation 5 requires that such storage be in accordance with a valid storage certificate. Regulations 6 and 7 make provision for the application, grant and validity of storage certificates. Prescribed material changes (regulation 8 and specified in Schedule 1) require notification to the petroleum enforcement authority, which results in the issue of a new storage certificate subject to certain requirements in regulation 6.
+
+Regulations 9 and 10 make provision for a change of operator of a dispensing premises to be notified to the petroleum enforcement authority.
+
+Regulation 11 makes provision for appeals to the Secretary of State from refusals to grant storage certificates by petroleum enforcement authorities and regulation 12 applies general prohibitions on the dispensing and supply of petrol.
+
+Part 3 (regulations 13 to 17) deals with the storage of petrol in domestic and other relevant premises. Regulation 13 and paragraph 1 of Schedule 2 make provision for the storage of minimal amounts up to a maximum of 30 litres. Where there is a larger quantity, up to 275 litres, storage is provided for on notification under paragraph 2 of Schedule 2. Where storage is required for quantities in excess of 275 litres provision is made on the basis of a licence issued under regulation 14. Appeals from refusals to grant licences for storage are provided for in regulation 15, while regulations 16 and 17 make provision for the renewal, variation and revocation of licences.
+
+Part 4 of the Regulations (regulations 18 to 26) contains various miscellaneous provisions for enforcement, manufacture of portable petrol storage containers (regulation 19 and Schedule 3), repairs of containers (regulation 20), the prohibition on direct filling of fuel tanks from road tankers, and transitional provisions relating to repealed or revoked legislation listed in Schedule 4 (regulations 22 to 25).
+
+Regulation 26 requires the Secretary of State to review the operation and effect of these Regulations and publish a report within five years after they come into force and every five years after that. Following the review the Secretary of State must consider whether the Regulations should be allowed to remain as they are, or be revoked or amended. A further instrument would be needed to revoke the Regulations or to amend them.
+
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public is available from the website: www.legislation.gov.uk and a copy has been placed in the Library of each House of Parliament.
+
+Regulations concerning the standards for portable petrol storage containers and fire-resistant partitions were notified in draft to the European Commission in accordance with Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034), as amended by Directive [98/48/EC](https://www.legislation.gov.uk/european/directive/1998/0048).
+
+## Annotations
+
+[^f00001]: Footnote: [1974 c.37](https://www.legislation.gov.uk/ukpga/1974/37); section 15 was amended by the Employment Protection Act [1975 (c.71)](https://www.legislation.gov.uk/ukpga/1975/71), section 116 and Schedule 15, paragraph 6, and [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794), article 5(2) and Schedule 2 as regards subsection (1); by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960), articles 3 and 7, as regards subsection (4).
+
+[^f00002]: Footnote: Section 11(3) was substituted by the Legislative Reform (Health and Safety Executive) Order 2008 ([S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960)).
+
+[^f00003]: Footnote: Section 50(3) was amended by the Employment Protection Act 1975, Schedule 15, paragraph 16(3); by the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7), Schedule 7, paragraph 6; by the Energy Act [2013 (c.32)](https://www.legislation.gov.uk/ukpga/2013/32), Schedule 12, paragraph 11; and by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
+
+[^f00004]: Footnote: Section 80(4) was substituted by the Employment Protection Act 1975, section 116 and Schedule15, paragraph 1.
+
+[^key-d6acedb2cc280169c1f8df432d9b1a76]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-e0ef78268b204d0db3faf67a5c4a974f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/1637/regulation/2) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^f00005]: Footnote: That is the area comprising the areas of the London boroughs, the City and the Temples which together constitute an administrative area known as Greater London, see section 2(1) of the London Government Act [1963 (c.33)](https://www.legislation.gov.uk/ukpga/1963/33) (which is the subject of amendment not relevant to these regulations). The London Boroughs are defined in section 1 of that Act, and the City and Temples are defined in section 89(1) of that Act.
+
+[^f00006]: Footnote: Metropolitan counties are established in England by section 1 of the Local Government Act [1972 (c.70)](https://www.legislation.gov.uk/ukpga/1972/70) and exclude Greater London and the Isles of Scilly.
+
+[^f00007]: Footnote: See section 1(1) and (2)(c) and (d) of the Fire and Rescue Services Act [2004 (c.21)](https://www.legislation.gov.uk/ukpga/2004/21).
+
+[^f00008]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^f00009]: Footnote: OJ L 142, 31.5.2008, p. 1-739; there are amendments to the Regulation, none of which is relevant.
+
+[^f00010]: Footnote: [S.I. 2002/2776](https://www.legislation.gov.uk/uksi/2002/2776); to which there are amendments none of which is relevant.
+
+[^key-38fb6b8917a12b08af3a746f5ade2d67]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-8c0cd8465c12878c57fe9da152b5e554]: Textual amendment: Word in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1/b) substituted (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/2015/483/schedule/6/paragraph/10) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
+
+[^key-a8c78c6b15f5a6863ac069730314f20c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/1637/regulation/4) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-fb446412efff7f8577bdf493592724c8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/1637/regulation/5) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-2c2d7ef4c045d6b1fcd7ac32cc01937d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/1637/regulation/6) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-b23fdf55c7ccd474eeccf0e030cc61bb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/1637/regulation/7) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-6d29218b62991f042239461225ed88ff]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/1637/regulation/8) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-5d9738680570387e2969528f1a968df3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/1637/regulation/9) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-37fcbcd827692a518327d8f5de7644f0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/1637/regulation/10) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-67651b1c05e82c436b157eba0364e0fe]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/1637/regulation/11) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^f00012]: Footnote: [S.I. 1974/2040](https://www.legislation.gov.uk/uksi/1974/2040).
+
+[^f00013]: Footnote: [S.I. 1974/2068](https://www.legislation.gov.uk/uksi/1974/2068).
+
+[^key-dd5a4d2728a9551c7fbd543b9678a287]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/1637/regulation/12) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-07446ed41ac9cbe5dccff99a240b2007]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2014/1637/regulation/13) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-7715dee3e5b16d92fea86f899d1af94a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/1637/regulation/14) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-ea98e9fff31b9d0cd07685f7dfcbe56c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/1637/regulation/15) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-404a721cd960dd31806aab24b2be7ba4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/1637/regulation/16) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-13d8717423db9f0ef4341ec0e1b1394f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/1637/regulation/17) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-25f1a81381bae88338eccdc7f7cda446]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2014/1637/regulation/18) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-9e723edae39b96cfb99e58bc020b37cc]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/1637/regulation/19) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-f09af21e4f5734b94e043e997c6f56f7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2014/1637/regulation/20) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-a29e58af4f2e0b3c05cbd6e89817da7b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2014/1637/regulation/21) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^f00014]: Footnote: [S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348).
+
+[^key-9fa974247e885be0c6aed81f6bfae750]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/1637/regulation/22) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^f00015]: Footnote: [S.R. & O. 1929/952](https://www.legislation.gov.uk/uksro/1929/952); regulation 2 was substituted by [S.I. 2002/2776](https://www.legislation.gov.uk/uksi/2002/2776); regulation 4 was amended by [S.I. 1982/630](https://www.legislation.gov.uk/uksi/1982/630).
+
+[^f00016]: Footnote: [S.I. 1982/630](https://www.legislation.gov.uk/uksi/1982/630).
+
+[^f00017]: Footnote: [1928 c.32](https://www.legislation.gov.uk/ukpga/1928/32); section 1 was amended by [S.I. 1974/1942](https://www.legislation.gov.uk/uksi/1974/1942) and by [S.I. 1992/1811](https://www.legislation.gov.uk/uksi/1992/1811); section 2 was amended by Schedule 29 to the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), section 37 of and Schedule 11 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), Schedule 9 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), Schedule 1 to the Fire and Rescue Services Act [2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21) and by [S.I. 1995/2923](https://www.legislation.gov.uk/uksi/1995/2923) and [S.I. 2002/2776](https://www.legislation.gov.uk/uksi/2002/2776).
+
+[^f00018]: Footnote: [1936 c. 27](https://www.legislation.gov.uk/ukpga/1936/27); section 1(4) was amended by [S.I. 1974/1942](https://www.legislation.gov.uk/uksi/1974/1942) and [S.I. 1987/52](https://www.legislation.gov.uk/uksi/1987/52).
+
+[^key-32a3b799fdfae30ad7a8b3baadd2350e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2014/1637/regulation/23) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-e0996e66792ddb8a3be7bb936cf3319d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2014/1637/regulation/24) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-61d7b868b50f0c2aab26d236c3516468]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2014/1637/regulation/25) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-ab840938ec15be8662af4999aa0d706a]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2014/1637/regulation/26) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-6c6e3013423360c6b0b7e7e4b007eea9]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/1/paragraph/1) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-4728a050812bf523969ba53efb069a00]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/1637/schedule/1/paragraph/2) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-3a21e3c06154544512b5202a1fca7dbc]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2014/1637/schedule/1/paragraph/3) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-d274ff7bae5186f803ad1211b540d92b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2014/1637/schedule/1/paragraph/4) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-c543e3cbcbfae96a54fc8fd0e300459a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/1) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-f2bf70521f4f5beff7de2a658b8e46ae]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/2) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-fcf7590f4442687d34a1e1a93f88779a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/3) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-41fb7391d1dc642fe5e1c8c19b83cc5b]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/4) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-168715230c24577a602a293ce93f97d3]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/5) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-bc18585da3e48b8da94b8289490cc727]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/6) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-e2a0e9f6cae8cc8c673c50f25401c1fb]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2014/1637/schedule/2/paragraph/7) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-0e94ca2571619b2e188fc5430e8960e4]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/3/paragraph/1) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-a224aff53f87f8a5f3142a93cda92505]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2014/1637/schedule/3/paragraph/2) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-6d823dd29330cd4b83706166276d35e2]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^key-e77584877c527708e1e4e8b3fad5a002]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/1) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^f00019]: Footnote: [1930 c.clviii](https://www.legislation.gov.uk/ukla/1930/158).
+
+[^key-a778ff416ed27814bad0ac857129f264]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/2) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^f00020]: Footnote: [1933 c.xxviii](https://www.legislation.gov.uk/ukla/1933/28).
+
+[^key-8acb5326483fa9372518a4ce1080d8b1]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/3) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^f00021]: Footnote: [1961 c.64](https://www.legislation.gov.uk/ukpga/1961/64).
+
+[^key-bccf9d9f430d5f9247b985cd2b3d0450]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/4) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^f00022]: Footnote: [1982 c.45](https://www.legislation.gov.uk/ukpga/1982/45).
+
+[^key-7c168ad7bb4d2718ba45180d0916ee8a]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/5) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^f00023]: Footnote: [S.I. 1979/72](https://www.legislation.gov.uk/uksi/1979/72).
+
+[^key-8f8c4e1dd3d8774ebd10259866af5669]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/6) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^f00024]: Footnote: [S.I. 1987/37](https://www.legislation.gov.uk/uksi/1987/37).
+
+[^key-9844e512cc5cd39a032c5fc930bb48ac]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/7) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^f00025]: Footnote: [S.I. 1990/304](https://www.legislation.gov.uk/uksi/1990/304).
+
+[^key-dad5cf58e5bb127d5ee0a46bff95f1fa]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/8) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^f00026]: Footnote: [S.I. 2009/716](https://www.legislation.gov.uk/uksi/2009/716) – to be revoked by regulation 36(b) of [S.I. 2013/506](https://www.legislation.gov.uk/uksi/2013/506) with effect from 1st June 2015.
+
+[^key-ab360bccb8f44a0af306c00b2de57804]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/paragraph/9) in force at 1.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2)
+
+[^f00027]: Footnote: [S.I. 2012/1652](https://www.legislation.gov.uk/uksi/2012/1652).

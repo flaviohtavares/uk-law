@@ -1,0 +1,339 @@
+---
+title: Coinage Act 1971
+id: ukpga/1971/24
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1971-05-12'
+text_date: '2023-05-03'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1971/24
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1971/24/pdfs/ukpga_19710024_en.pdf
+- http://www.legislation.gov.uk/ukpga/1971/24/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Coinage Act 1971
+
+> Text as at 2023-05-03.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Coinage Act 1971
+
+1971 c.24
+
+An Act to consolidate, so far as they are part of the law of the United Kingdom, the Coinage Acts 1870 to 1946 and certain other enactments relating to coinage, with amendments to give effect to recommendations of the Law Commission and the Scottish Law Commission.
+
+\[12th May 1971\] [^c8483961]
+
+## 1. Standards of certain coins.[^c8483971]
+
+(1) The following provisions of this section have effect with respect to coins made at the Mint.
+
+(2) Gold coins and coins of silver of the Queen’s Maundy money shall, if of a denomination mentioned in Schedule 1 to this Act, be of the weight and fineness specified there, but in the making of the coins a remedy (that is, a variation from the standard weight and fineness so specified) shall be allowed of an amount not exceeding that specified in that Schedule.
+
+(3) Gold coins and coins of silver of the Queen’s Maundy money shall, if of any other denomination, be of such weight and fineness as may be specified in a proclamation under section 3 of this Act.
+
+(4) Coins other than gold coins and coins of silver of the Queen’s Maundy money shall be of such weight, composition and dimensions as may be specified in a proclamation under that section.
+
+(5) In the making of the coins to which subsections (3) and (4) above apply, such remedy shall be allowed as may be specified in the proclamation.
+
+(6) The variation from the standard weight of any coin [^key-82ab0bf4fbbcb300fd1b8bbd1f355d30]... specified for that coin in accordance with this section shall be measured in accordance with provision made by proclamation under section 3[^key-cd8a6d23548ac08a598fb72aa193b96f].
+
+(7) In subsection (5) above “ **remedy** ”means—
+
+- (a) in relation to gold coins and coins of silver of the Queen’s Maundy money, a variation from the standard weight and fineness specified in the proclamation of an amount not exceeding that so specified;
+- (b) in relation to other coins, a variation from the standard weight, composition or dimensions so specified of an amount not exceeding that so specified.
+
+## 2. Legal tender.
+
+(1)[^c8483981] Gold coins shall be legal tender for payment of any amount, but shall not be legal tender if their weight has become less than that specified in Schedule 1 to this Act, or in the proclamation under which they are made, as the least current weight.
+
+(1A) Subject to any provision made by proclamation under section 3 of this Act, coins of cupro-nickel, silver or bronze shall be legal tender as follows—
+
+- (a) coins of cupro-nickel or silver of denominations of more than 10 pence, for payment of any amount not exceeding £10;
+- (b) coins of cupro-nickel or silver of denominations of not more than 10 pence, for payment of any amount not exceeding £5;
+- (c) coins of bronze, for payment of any amount not exceeding 20 pence.
+
+(1B) Other coins, if made current by a proclamation under section 3 of this Act, shall be legal tender in accordance with the provision made by that proclamation or by any later proclamation made under that section.
+
+(2) References in subsection (1A)[^c8483991]of this section to coins of any denomination include references to coins treated as being of such a denomination by virtue of a proclamation made in pursuance of section 15(5) of the [^c8484001]Decimal Currency Act 1969; and silver coins of the Queen’s Maundy money issued before 15th February 1971 shall be treated for the purposes of this section as being denominated in the same number of new pence as the number of pence in which they were denominated.
+
+(3)[^c8484011] In this section “**coins**”means coins made by the Mint in accordance with this Act and not called in by proclamation under section 3 of this Act.
+
+## 3. Power to regulate coinage by proclamation.
+
+(1)[^c8484021] Her Majesty may from time to time by proclamation made with the advice of Her Privy Council—
+
+- (a)[^c8484031] determine the denominations of coins to be made at the Mint;
+- (b)[^c8484031] determine the design of any coin;
+- (c)[^c8484051] determine the weight and fineness of any gold coins or coins of silver of the Queen’s Maundy money, other than those of a denomination mentioned in Schedule 1 to this Act, the remedy to be allowed in making them and (for gold coins) their least current weight;
+- (cc)[^c8484031] determine the weight and composition of any coins, other than gold coins or coins of silver of the Queen’s Maundy money, and the remedy (if any) to be allowed in making them;
+- (cd) provide for the variation from the standard weight for coins[^key-6f954390a1f4653f166234352c675c90] to be measured in the manner specified in the proclamation;
+- (d)[^c8484031] determine the dimensions of any coins . . . [^c8484081]
+- (dd)[^c8484031][^c8484091] determine the percentage of impurities which coins other than gold coins and coins of silver of the Queen’s Maundy money may contain;
+- (e)[^c8484111] call in coins of any date or denomination, or coins made before a date specified in the proclamation;
+- (f) direct that coins made by the Mint other than gold, silver, cupro-nickel and bronze coins shall be current . . . [^c8484121]
+- (ff)[^c8484131] direct that any coin shall be legal tender for payment of any amount not exceeding such amount as may be specified in the proclamation or for payment of any amount (without limit);
+- (g) regulate any matter relating to coinage which was, before the passing of the [^c8484141]Coinage Act 1870, within the prerogative of the Crown and is not provided for by this Act nor was provided for by that Act;
+- (h) revoke or alter any proclamation previously made under this section.
+
+(2)[^c8484151] So far as it relates to the matters mentioned in paragraph (ff) of subsection (1) above, a proclamation under this section may make different provision in relation to different parts of the United Kingdom.
+
+## 4. The Mint.
+
+(1) The Chancellor of the Exchequer shall be the master of the Mint.
+
+(2)[^c8484161] There shall be a deputy master of the Mint, appointed by the Treasury
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c8484171]
+
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c8484171]
+
+(5) All duties, powers and authorities imposed on, vested in or to be transacted before the master of the Mint may be performed and exercised by or transacted before him or his sufficient deputy.
+
+(6)[^c8484191] The expenses incurred by the Mint in the purchase of metal to be made into coins shall be defrayed out of moneys provided by Parliament.
+
+(7)[^c8484191] All sums received by the master of the Mint, or any deputy master or officer of the Mint, in payment for coin made from metal purchased by him, and all fees and payments received by him in that capacity, shall be paid into the Consolidated Fund.
+
+## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c8484211]
+
+## 6. Standard trial plates.[^c8484221]
+
+(1) The Secretary of State shall, from time to time when necessary, cause to be made and verified standard trial plates to be used for determining the justness of gold, silver and cupro-nickel coins issued from the Mint, or of coins so issued of any other metal or mixture of metals specified in a proclamation made by virtue of this Act.
+
+(2) The plates to be so used for coins of any description specified in the first column of the following Table shall have the composition specified in relation thereto in the second column of that Table.
+
+Table
+
+| Description of coins | Composition of plates |
+| --- | --- |
+| Gold coins of a denomination mentioned in Schedule 1 to this Act[^c8484231] | Eleven-twelfths fine gold and one-twelfth alloy. |
+| Other gold coins | Gold of the standard fineness specified in the proclamation under which the coins are made. |
+| Silver coins | Pure silver. |
+| Cupro-nickel coins | Pure copper and pure nickel. |
+| Coins of any other metal or mixture of metals. | Such composition as may be prescribed by the proclamation under which the coins are made. |
+
+(3) The plates, and all books, documents and other things used in connection with the determination of the justness of coins issued from the Mint or in relation thereto, shall be in the custody of the Secretary of State, and shall be kept in such places and in such manner as the Secretary of State may from time to time direct; and the performance of all duties in relation to the plates shall be part of the business of the Department for Business and Trade[^key-20e603861310f0a56ad0e85536e27f03].
+
+## 7. Standard weights for coin.
+
+The master of the Mint shall from time to time cause copies to be made of the coinage standards (that is to say the standard weights for coins) maintained by the Secretary of State, and once at least in every year the Secretary of State and the master of the Mint shall cause the copies to be compared and duly verified with the coinage standards.
+
+## 8. Trial of the pyx.[^c8484271]
+
+(1) For the purpose of ascertaining that coins issued from the Mint have been coined in accordance with this Act a trial of the pyx shall be held at least once in every year in which coins have been issued from the Mint.
+
+(2) Her Majesty may from time to time by Order in Council make provision with respect to the trial of the pyx and all matters incidental thereto, and in particular with respect to the following matters, that is to say—
+
+- (a) the time and place of the trial;
+- (b) the setting apart out of the coins issued by the Mint of certain coins for the trial;
+- (c) the summoning of a jury of not less than six out of competent freemen of the mystery of goldsmiths of the City of London or other competent persons;
+- (d) the attendance at the trial of the jury so summoned and of the proper officers of the Treasury, the Department for Business and Trade[^key-89f082b90c6c53e0dfb60cf11506b7f0] and the Mint, and the production of the coins so set apart, the standard trial plates and the standard weights;
+- (e) the proceedings at and the conduct of the trial, including the nomination of a person to preside at it, the swearing of the jury and the method of examining the coins;
+- (f) the recording and the publication of the verdict, the custody of the record thereof and the proceedings (if any) to be taken in consequence of the verdict.
+
+(3) An Order in Council made under this section may be revoked or amended by a subsequent Order in Council.
+
+## 9. Prohibition of coins and tokens not issued by authority.
+
+(1) No piece of gold, silver, copper, or bronze, or of any metal or mixed metal, of any value whatever, shall be made or issued except with the authority of the Treasury[^c8484281], as a coin or a token for money, or as purporting that the holder thereof is entitled to demand any value denoted thereon.
+
+(2) Every person who acts in contravention of this section shall be liable on summary conviction to a fine not exceeding level 2 on the standard scale[^c8484291].
+
+## 10. Restrictions on melting or breaking of metal coins.
+
+(1) No person shall, except under the authority of a licence granted by the Treasury, melt down or break up any metal coin which is for the time being current in the United Kingdom or which, having been current there, has at any time after 16th May 1969 ceased to be so.
+
+(2) Any person who contravenes subsection (1) of this section shall be liable—
+
+- (a) on summary conviction, to a fine not exceeding £400;
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years, or both.
+
+(3) If any condition attached to a licence granted under subsection (1) of this section is contravened or not complied with, the person to whom the licence was granted shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale[^c8484301] unless he proves that the contravention or non-compliance occurred without his consent or connivance and that he exercised all due diligence to prevent it.
+
+(4) The court by or before which any person is convicted of an offence under this section may, whether or not it imposes any other punishment, order the articles in respect of which the offence was committed to be forfeited to Her Majesty.
+
+(5) Where an offence under this section committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+## 11. Interpretation.
+
+References in this Act to coins made by the Mint include references to coins made at any place with the authority of the Mint.
+
+## 12. Consequential amendment of enactments.
+
+(1) References to silver coin in . . . [^c8484311]section 3(2) of the [^c8484321]Currency and Bank Notes Act 1928 shall include references to coin of cupro-nickel; . . . [^c8484311].
+
+(2) Any reference to silver coin in any enactment mentioned in Schedule 2 to this Act shall include a reference to coin specified in a proclamation made by virtue of section 3([^c8484341]*cc*)of this Act, not being coin of gold,[^c8484351]silver or cupro-nickel or coin of a denomination of less than five new pence.
+
+(3) The Treasury may by regulations made by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament, make provision for modifications consequential on the provisions of this Act in provisions relating to silver coin of any enactments passed before the [^c8484361]Coinage Act 1946 other than those referred to in subsection (1) of this section.
+
+(4) The form prescribed by any of the following enactments (which relate to certain periodical returns), that is to say—
+
+- (a) Schedule A to the [^c8484371]Bank Charter Act 1844;
+- (b) Schedule A or Schedule B to the Bankers (Ireland) Act 1845; and *(affected by repeal, see note)*[^key-50cbcc2136080528183d525ddc95f11e]
+- (c) Schedule A or Schedule B to the Bank Notes (Scotland) Act 1845; *(affected by repeal, see note)*[^key-50cbcc2136080528183d525ddc95f11e]
+
+shall be modified to such extent as the Treasury may direct having regard to the provisions of this Act.
+
+## 13. Repeals and savings.
+
+(1)[^c8484401] The enactments mentioned in Schedule 3 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+(2) The repeals made by this Act shall not be taken to extend to any country outside the United Kingdom and shall not affect any proclamation applying any enactment to such a country or otherwise making provision as to the coinage of such a country or any power to make, vary or revoke such a proclamation.
+
+(3) The repeal by this Act of any enactment shall not affect any instrument made or other thing done under that enactment; but—
+
+- (a) any such instrument that could have been made under this Act shall have effect as if so made and as if any reference therein to an enactment repealed by this Act were a reference to the corresponding provision of this Act or, as the case may require, to this Act;
+- (b) any proclamation made by virtue of section 15(5) of the [^c8484411]Decimal Currency Act 1969 may (notwithstanding that it could not have been made under this Act) be altered or revoked by a proclamation under this Act.
+
+## 14. Short title, commencement and extent.
+
+(1) This Act may be cited as the Coinage Act 1971.
+
+(2) This Act shall come into force at the end of the transitional period defined by section 16(1) of the [^c8484421]Decimal Currency Act 1969.
+
+(3) This Act extends to Northern Ireland.
+
+SCHEDULES
+
+## SCHEDULE 1 — SPECIFICATION OF COINS
+
+Section 1
+
+### Part I
+
+[image: see source](https://www.legislation.gov.uk/ukpga/1971/24/images/ukpga_19710024_en_sld_001)
+
+### Part II[^c8484441][^c8484441]
+
+. . . [^c8484441]
+
+## SCHEDULE 2 — Enactments referring to Silver Coin
+
+Section 12(2)
+
+Section 1 of the [^c8484451]Carriers Act 1830.
+
+The Bankers (Ireland) Act 1845. *(affected by repeal, see note)*[^key-c3e611fd7cafd2e43af042354a1cd53d]
+
+The Bank Notes (Scotland) Act 1845. *(affected by repeal, see note)*[^key-c3e611fd7cafd2e43af042354a1cd53d]
+
+. . . [^c8484471]
+
+Section 3(2) of the [^c8484481]Currency and Bank Notes Act 1928.
+
+Section 3 of the Bankers (Northern Ireland) Act 1928. *(affected by repeal, see note)*[^key-c3e611fd7cafd2e43af042354a1cd53d]
+
+. . . [^c8484501]
+
+## SCHEDULE 3[^c8484511]
+
+Section 13
+
+[image: see source](https://www.legislation.gov.uk/ukpga/1971/24/images/ukpga_19710024_en_sld_002)
+
+## Annotations
+
+[^c8483961]: Commencement: Act wholly in force; transitional period referred to in s. 14(2) ends with 31. 8. 1971 by [S.I. 1971/1123](https://www.legislation.gov.uk/uksi/1971/1123), [art. 3](https://www.legislation.gov.uk/uksi/1971/1123/article/3).
+
+[^c8483971]: Textual amendment: S. 1 substituted by [Currency Act 1983 (c. 9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/1)
+
+[^key-82ab0bf4fbbcb300fd1b8bbd1f355d30]: Textual amendment: Words in [s. 1(6)](https://www.legislation.gov.uk/ukpga/1971/24/section/1/6) omitted (31.1.2012) by virtue of [Coinage (Measurement) Act 2011 (c. 17)](https://www.legislation.gov.uk/ukpga/2011/17), [ss. 1(1)(a)](https://www.legislation.gov.uk/ukpga/2011/17/section/1/1/a), [2(2)](https://www.legislation.gov.uk/ukpga/2011/17/section/2/2)
+
+[^key-cd8a6d23548ac08a598fb72aa193b96f]: Textual amendment: Words in [s. 1(6)](https://www.legislation.gov.uk/ukpga/1971/24/section/1/6) substituted (31.1.2012) by [Coinage (Measurement) Act 2011 (c. 17)](https://www.legislation.gov.uk/ukpga/2011/17), [ss. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2011/17/section/1/1/b), [2(2)](https://www.legislation.gov.uk/ukpga/2011/17/section/2/2)
+
+[^c8483981]: Textual amendment: [S. 2(1)(1A)(1B)](https://www.legislation.gov.uk/ukpga/1971/24/section/2/1/1A/1B) substituted by [Currency Act 1983 (c. 9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [s. 1(3)(a)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/3/a)
+
+[^c8483991]: Textual amendment: Words substituted by [Currency Act 1983 (c. 9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [s. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/3/b)
+
+[^c8484001]: Marginal citation: [1969 c. 19](https://www.legislation.gov.uk/ukpga/1969/19).
+
+[^c8484011]: Textual amendment: [S. 2(3)](https://www.legislation.gov.uk/ukpga/1971/24/section/2/3) inserted by [Currency Act 1983 (c.9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [s. 1(3)(c)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/3/c)
+
+[^c8484021]: Textual amendment: S. 3 by [Currency Act 1983 (c. 9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [s. 1(4)(f) section 3](https://www.legislation.gov.uk/ukpga/1983/9/section/1/4/f/section/3) is renumbered so as to become subsection (1)
+
+[^c8484031]: Subordinate legislation: S. 3(1)(a)(b)(cc)(d)(dd): s. 3(1)(a)(b)(cc)(d)(dd) powers exercised byproclamations both dated 19. 11. 1992.
+
+[^c8484051]: Textual amendment: S. 3(c)(cc)(cd) substituted by [Currency Act 1983 (c. 9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [s. 1(4)(a)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/4/a)
+
+[^key-6f954390a1f4653f166234352c675c90]: Textual amendment: Words in [s. 3(1)(cd)](https://www.legislation.gov.uk/ukpga/1971/24/section/3/1/cd) substituted (31.1.2012) by [Coinage (Measurement) Act 2011 (c. 17)](https://www.legislation.gov.uk/ukpga/2011/17), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2011/17/section/1/2), [2(2)](https://www.legislation.gov.uk/ukpga/2011/17/section/2/2)
+
+[^c8484081]: Textual amendment: Words repealed by [Currency Act 1983 (c. 9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [ss. 1(4)(b)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/4/b), [4](https://www.legislation.gov.uk/ukpga/1983/9/section/4), [Sch.](https://www.legislation.gov.uk/ukpga/1983/9/schedule)
+
+[^c8484091]: Textual amendment: S. 3 (dd) inserted by [Currency Act 1983 (c. 9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [s. 1(4)(c)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/4/c)
+
+[^c8484111]: Subordinate legislation: S. 3(1)(e): s. 3(1)(e) power exercised by aproclamation dated 19. 11. 1992.
+
+[^c8484121]: Textual amendment: Words repealed by [Currency Act 1983 (c. 9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [ss. 1(4)(d)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/4/d), [4](https://www.legislation.gov.uk/ukpga/1983/9/section/4), [Sch.](https://www.legislation.gov.uk/ukpga/1983/9/schedule)
+
+[^c8484131]: Textual amendment: S. 3(ff) inserted by [Currency Act 1983 (c.9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [s. 1(4)(e)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/4/e)
+
+[^c8484141]: Marginal citation: [1870 c. 10](https://www.legislation.gov.uk/ukpga/1870/10).
+
+[^c8484151]: Textual amendment: S. 3(2) inserted by [Currency Act 1983 (c.9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [s. 1(4)(f)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/4/f)
+
+[^c8484161]: Textual amendment: [S. 4(2)](https://www.legislation.gov.uk/ukpga/1971/24/section/4/2) substituted by [Government Trading Funds Act 1973 (c. 63)](https://www.legislation.gov.uk/ukpga/1973/63), [s. 7(2)](https://www.legislation.gov.uk/ukpga/1973/63/section/7/2)
+
+[^c8484171]: Textual amendment: [s. 4(3)(4)](https://www.legislation.gov.uk/ukpga/1971/24/section/4/3/4)repealed by [Government Trading Funds Act 1973 (c. 63)](https://www.legislation.gov.uk/ukpga/1973/63), [s. 7(2)](https://www.legislation.gov.uk/ukpga/1973/63/section/7/2)
+
+[^c8484191]: Modification: [s. 4(6)(7)](https://www.legislation.gov.uk/ukpga/1971/24/section/4/6/7) suspended by [Government Trading Funds Act 1973 (c. 63)](https://www.legislation.gov.uk/ukpga/1973/63), [s. 7(2)](https://www.legislation.gov.uk/ukpga/1973/63/section/7/2)
+
+[^c8484211]: Textual amendment: [s. 5](https://www.legislation.gov.uk/ukpga/1971/24/section/5) repealed by [Government Trading Funds Act 1973 (c. 63)](https://www.legislation.gov.uk/ukpga/1973/63), [s. 7(3)](https://www.legislation.gov.uk/ukpga/1973/63/section/7/3)
+
+[^c8484221]: Modification: Functions of Department of Trade and Industry under this Act now exercisable by Secretary of State: [S.I. 1974/692](https://www.legislation.gov.uk/uksi/1974/692)
+
+[^c8484231]: Textual amendment: First entry in the Table substituted by [Currency Act 1983 (c. 9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [s. 1(6)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/6)
+
+[^key-20e603861310f0a56ad0e85536e27f03]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/1971/24/section/6/3) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/4/2) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+
+[^c8484271]: Modification: Functions of Department of Trade and Industry under this Act now exercisable by Secretary of State: [S.I. 1974/692](https://www.legislation.gov.uk/uksi/1974/692)
+
+[^key-89f082b90c6c53e0dfb60cf11506b7f0]: Textual amendment: Words in [s. 8(2)(d)](https://www.legislation.gov.uk/ukpga/1971/24/section/8/2/d) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/4/3) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+
+[^c8484281]: Textual amendment: Words substituted by [Government Trading Funds Act 1973 (c. 63)](https://www.legislation.gov.uk/ukpga/1973/63), [s. 7(4)](https://www.legislation.gov.uk/ukpga/1973/63/section/7/4)
+
+[^c8484291]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Law Act 1977 (c.45, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1977/45), [s. 31](https://www.legislation.gov.uk/ukpga/1977/45/section/31), [Criminal Justice Act 1982 (c.48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) by [Criminal Procedure (Scotland) Act 1975 (c.21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289C](https://www.legislation.gov.uk/ukpga/1975/21/section/289C), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G) and (N.I.) by [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703), [arts. 5](https://www.legislation.gov.uk/nisi/1984/703/article/5), [6](https://www.legislation.gov.uk/nisi/1984/703/article/6)
+
+[^c8484301]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c.48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46), (S.) [Criminal Procedure (Scotland) Act 1975 (c.21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G) and (N.I.) [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703), [arts. 5](https://www.legislation.gov.uk/nisi/1984/703/article/5), [6](https://www.legislation.gov.uk/nisi/1984/703/article/6)
+
+[^c8484311]: Textual amendment: Words repealed by [Forgery and Counterfeiting Act 1981 (c. 45, SIF 39:7)](https://www.legislation.gov.uk/ukpga/1981/45), [s. 30](https://www.legislation.gov.uk/ukpga/1981/45/section/30), [Sch. Pt. II](https://www.legislation.gov.uk/ukpga/1981/45/schedule/part/II)
+
+[^c8484321]: Marginal citation: [1928 c. 13](https://www.legislation.gov.uk/ukpga/1928/13).
+
+[^c8484341]: Textual amendment: Words substituted by [Currency Act 1983 (c. 9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [s. 1(7)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/7)
+
+[^c8484351]: Textual amendment: Words inserted by [Currency Act 1983 (c. 9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [s.1(7)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/7)
+
+[^c8484361]: Marginal citation: [1946 c. 74](https://www.legislation.gov.uk/ukpga/1946/74).
+
+[^c8484371]: Marginal citation: [1844 c. 32](https://www.legislation.gov.uk/ukpga/1844/32).
+
+[^key-50cbcc2136080528183d525ddc95f11e]: Textual amendment: S. 12(4)(b)(c) cease to have effect (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(3)(d)(i)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/3/d/i), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+
+[^c8484401]: Modification: The text of s. 13(1) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c8484411]: Marginal citation: [1969 c. 19](https://www.legislation.gov.uk/ukpga/1969/19).
+
+[^c8484421]: Marginal citation: [1969 c. 19](https://www.legislation.gov.uk/ukpga/1969/19).
+
+[^c8484441]: Textual amendment: [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1971/24/schedule/1/part/II) repealed by [Currency Act 1983 (c. 9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/2), [4](https://www.legislation.gov.uk/ukpga/1983/9/section/4), [Sch.](https://www.legislation.gov.uk/ukpga/1983/9/schedule)
+
+[^c8484451]: Marginal citation: [1830 c. 68](https://www.legislation.gov.uk/ukpga/1830/68).
+
+[^key-c3e611fd7cafd2e43af042354a1cd53d]: Textual amendment: Sch. 2: entries cease to have effect (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(3)(d)(ii)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/3/d/ii), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+
+[^c8484471]: Textual amendment: Entry relating to section 42 of the Customs Consolidation Act 1876 repealed by [Statute Law (Repeals) Act 1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1989/43/section/1/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1989/43/schedule/1/part/II)
+
+[^c8484481]: Marginal citation: [1928 c. 13](https://www.legislation.gov.uk/ukpga/1928/13).
+
+[^c8484501]: Textual amendment: Words repealed by [Forgery and Counterfeiting Act 1981 (c. 45, SIF 39:7)](https://www.legislation.gov.uk/ukpga/1981/45), [s. 30](https://www.legislation.gov.uk/ukpga/1981/45/section/30), [Sch. Pt. II](https://www.legislation.gov.uk/ukpga/1981/45/schedule/part/II)
+
+[^c8484511]: Modification: The text of Sch. 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

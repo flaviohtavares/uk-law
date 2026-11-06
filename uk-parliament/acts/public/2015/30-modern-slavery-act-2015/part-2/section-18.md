@@ -1,0 +1,47 @@
+---
+title: Modern Slavery Act 2015, section 18
+act: Modern Slavery Act 2015
+section: '18'
+status: revised-with-pending-changes
+text_date: '2026-09-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2015/30/section/18
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Modern Slavery Act 2015, section 18
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/30
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 18. Prohibitions on foreign travel[^key-d63bd1b03a76db6bc71e08cc34c5d6e0]
+
+*Extent: E+W*
+
+(1) A prohibition on foreign travel contained in a slavery and trafficking prevention order must be for a fixed period of not more than 5 years.
+
+(2) A “**prohibition on foreign travel**” means—
+
+- (a) a prohibition on travelling to any country outside the United Kingdom named or described in the order,
+- (b) a prohibition on travelling to any country outside the United Kingdom other than a country named or described in the order, or
+- (c) a prohibition on travelling to any country outside the United Kingdom.
+
+(3) Subsection (1) does not prevent a prohibition on foreign travel from being extended for a further period (of no more than 5 years each time) under section 20.
+
+(4) A slavery and trafficking prevention order that contains a prohibition within subsection (2)(c) must require the defendant to surrender all of the defendant's passports at a police station specified in the order—
+
+- (a) on or before the date when the prohibition takes effect, or
+- (b) within a period specified in the order.
+
+(5) Any passports surrendered must be returned as soon as reasonably practicable after the person ceases to be subject to a slavery and trafficking prevention order containing a prohibition within subsection (2)(c).
+
+(6) Subsection (5) does not apply in relation to—
+
+- (a) a passport issued by or on behalf of the authorities of a country outside the United Kingdom if the passport has been returned to those authorities;
+- (b) a passport issued by or on behalf of an international organisation if the passport has been returned to that organisation.
+
+## Annotations
+
+[^key-d63bd1b03a76db6bc71e08cc34c5d6e0]: Commencement: S. 18 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)

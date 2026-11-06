@@ -1,0 +1,115 @@
+---
+title: The West Midlands Rail Freight Interchange (Correction) Order 2020
+id: uksi/2020/1163
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-10-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/1163
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/1163/pdfs/uksi_20201163_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/1163/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The West Midlands Rail Freight Interchange (Correction) Order 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 1163
+
+Infrastructure Planning
+
+The West Midlands Rail Freight Interchange (Correction) Order 2020
+
+Made
+
+20th October 2020
+
+Coming into force
+
+21st October 2020
+
+The West Midlands Rail Freight Interchange Order 2020[^f00001] (“the West Midlands RFI Order”), which granted development consent within the meaning of the Planning Act 2008[^f00002] (“the Act”) contains correctable errors within the meaning of paragraph 1 of Schedule 4 to the Act.
+
+In accordance with paragraph 1(5)(a) of Schedule 4 to the Act, before the end of the relevant period, the Secretary of State received a written request from the applicant[^f00003] for the corrections errors and omissions in the West Midlands RFI Order.
+
+In accordance with paragraph 1(7) of Schedule 4 to the Act, the Secretary of State has informed each relevant local planning authority foe the area in which the land to which the West Midlands RFI Order relates is situated that the request has been received.
+
+The Secretary of State, in exercise of the powers conferred by sections 119 of, and paragraph 1(4) and (8) of Schedule 4 to, the Act, makes the following Order:
+
+## 1. Citation and commencement
+
+This Order may be cited as the West Midlands Rail Freight Interchange (Correction) Order 2020 and comes into force on 21st October 2020.
+
+## 2. Corrections
+
+(1) The West Midlands RFI Order is corrected as follows—
+
+(2) In article 2(1) (interpretation)—
+
+- (a) in the definition of “apparatus”, for “37” substitute “36”;
+- (b) in the definition of “highway works”, for “12” substitute “11”; and
+- (c) in the definition of “relocation works”, for “37” substitute “36”.
+
+(3) In article 10(6) (permanent stopping up of streets), for “37” substitute “36”.
+
+(4) In article 13(3) (accesses), after “If either a” omit “local”.
+
+(5) In article 22(6) (authority to survey and investigate the land), after “If either a” omit “local”.
+
+(6) In article 23(1) (guarantees in respect of payments of compensation), for “liabilities of the undertakers” substitute “liabilities of the undertaker”.
+
+(7) In article 30(3) (modification of Part 1 of the 1965 Act), for “article 29 (time limit for exercise of authority to acquire land and rights compulsory)” substitute “article 29 (time limit for exercise of authority to acquire land and rights compulsorily)”.
+
+(8) In article 31(10) (application of the 1981 Act), for “article 30 (application of Part 1 of the 1965 Act)” substitute “article 30 (modification of Part 1 of the 1965 Act)”.
+
+(9) In article 41(4) (felling or lopping of trees and removal of hedgerows), for “management and mitigation plan” substitute “mitigation and management plan”.
+
+(10) In Part 1 of Schedule 2 (requirements)—
+
+- (a) in paragraph 4(2)(d), for “45(5)” substitute “44(4)”;
+- (b) in paragraph 6(3), after “approved” insert “under sub-paragraph (2)”;
+- (c) in paragraph 7(2), for “(2)” substitute “(3)”; and
+- (d) in paragraph 14(1)(b), for “requirement 12 (ecological mitigation and management plan)” substitute “requirement 13 (ground conditions – contaminated risk)”.
+
+(11) In paragraph 43 of Part 3 of Schedule 2 (requirements), after “under the requirements in” omit “Part 1 of”.
+
+(12) In paragraph 3(5) of Part 2 of Schedule 13 (protective provisions), for “article 20 (arrangements with highway authorities)” substitute “article 20 (agreements with highway authorities)”.
+
+(13) In Part 6 of Schedule 13 (protective provisions)—
+
+- (a) in paragraph 3, after “paragraph 7” omit “(1)”;
+- (b) in paragraph 3(f), for “28” substitute “26”; and
+- (c) in paragraph 3(g), for “29” substitute “27”.
+
+(14) In paragraph 1 of Schedule 15 (certification documents), in the section of the table regarding “The highway classification plans” omit the row in relation to “Sheet 4”.
+
+Signed by authority of the Secretary of State for Transport
+
+Natasha Kopala
+
+Head of the Transport and Works Act Orders Unit
+
+Department for Transport
+
+20th October 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order corrects errors in the West Midlands Rail Freight Interchange Order 2020 ([S.I. 2020/511](https://www.legislation.gov.uk/uksi/2020/511)), a development consent order made under the Planning Act 2008, following a request made under paragraph 1(5)(a) of Schedule 4 to that Act.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2020/511](https://www.legislation.gov.uk/uksi/2020/511).
+
+[^f00002]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). Paragraph 1 of Schedule 4 was amended by paragraph 70 of Schedule 13 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20). There are other amendments to paragraph 1 that are not relevant to this Order.
+
+[^f00003]: Footnote: The term “applicant” is defined in paragraph 4 of Schedule 4.

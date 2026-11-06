@@ -1,0 +1,396 @@
+---
+title: The Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013
+id: uksi/2013/276
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: null
+text_date: '2022-03-14'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2013/276
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/276/pdfs/uksiem_20130276_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/276/pdfs/uksi_20130276_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/276/pdfs/uksi_20130276_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/276/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013
+
+> Text as at 2022-03-14.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2013 No. 276
+
+Social Security
+
+The Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013
+
+Made
+
+4.19 p.m. on 12th February 2013
+
+Laid before Parliament
+
+6.15 p.m. on 12th February 2013
+
+Coming into force
+
+6.45 p.m. on 12th February 2013
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by sections 123(1)(d) and (e), 136(3) and (5)(a) and (b), 137(1) and 175(1), (3) and (4) of the Social Security Contributions and Benefits Act 1992 [^c2156395], section 113(1) and (2) of, and paragraph 4 of Schedule 1A to, the Local Government Finance Act 1992 [^c2156396], sections 12(1), (4)(a) and (b), 17A(1), (2) and (5)(a) and (b), 20E(3)(a), 35(1) and 36(2) and (4) of the Jobseekers Act 1995 [^c2156397] and sections 30 and 146(1) and (2) of the Housing Grants, Construction and Regeneration Act 1996 [^c2156398] and sections 17(1) and (3)(a) and (b), 24(1) and 25(2) and (3) of the Welfare Reform Act 2007 [^c2156399].
+
+These Regulations are made with the consent of the Treasury in respect of provisions relating to section 30 (means testing in case of application by owner-occupier or tenant) of the Housing Grants, Construction and Regeneration Act 1996 [^c2156400].
+
+In respect of provisions in these Regulations relating to housing benefit and council tax benefit, in accordance with section 176(2) of the Social Security Administration Act 1992 [^c2156401], it appears to the Secretary of State that by reason of the urgency of the matter it is inexpedient to undertake consultations with organisations appearing to the Secretary of State to be representative of the authorities concerned.
+
+In accordance with section 173(1)(a) of the Social Security Administration Act 1992, it appears to the Secretary of State that by reason of the urgency of the matter it is inexpedient to refer the proposals in respect of these Regulations to the Social Security Advisory Committee.[^key-3c947c03a008fcf4d1166425df2f5e9b]
+
+## PART 1 — Schemes for Assisting Persons to Obtain Employment
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 and come into force on 12th February 2013 at 6.45pm.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Jobseekers Act 1995;
+- “**claimant**” means a person who claims a jobseeker's allowance, except that in relation to a joint-claim couple [^c2156402] claiming a joint-claim jobseeker's allowance, it means either or both of the members of the couple;
+- “**the Council Tax Benefit Regulations**” means the Council Tax Benefit Regulations 2006 [^c2156403];
+- “**the Housing Benefit Regulations**” means the Housing Benefit Regulations 2006 [^c2156404];
+- “**the Housing Renewal Grants Regulations**” means the Housing Renewal Grants Regulations 1996 [^c2156405];
+- “**the Jobseeker's Allowance Regulations**” means the Jobseeker's Allowance Regulations 1996 [^c2156406];
+- “**working day**” means any day except for a Saturday, Sunday, Christmas Day, Good Friday or bank holiday under the Banking and Financial Dealings Act 1971 [^c2156407] in England and Wales or in Scotland.
+
+(2) For the purpose of these Regulations where a written notice is given by sending it by post it is taken to have been received on the second working day after posting.
+
+### 3. Schemes for Assisting Persons to Obtain Employment
+
+(1) The schemes described in the following paragraphs are prescribed for the purposes of section 17A(1) (schemes for assisting persons to obtain employment: “work for your benefit” schemes etc) of the Act.
+
+(2)[^key-ec54736ec67006669ab41f7b3838d3f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-7490162480a048d9b415600ecfd96843] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Full-time Training Flexibility is a scheme comprising training of 16 to 30 hours per week, for any claimant who has been receiving jobseeker's allowance for a continuous period of not less than 26 weeks ending on the first required entry date to the scheme.
+
+(5) New Enterprise Allowance is a scheme designed to assist a claimant into self-employed earner's employment comprising guidance and support provided by a business mentor, access to a loan to help with start-up costs (subject to status) and a weekly allowance for a period of 26 weeks once the claimant starts trading.
+
+(6) The sector-based work academy is a scheme which provides, for a period of up to 6 weeks, training to enable a claimant to gain the skills needed in the work place and a work experience placement for a period to be agreed with the claimant, and either a job interview with an employer or support to help participants through an employer's application process.
+
+(7) Skills Conditionality is a scheme comprising training or other activity designed to assist a claimant to obtain skills needed to obtain employment.
+
+(8)[^key-258e4627b21317f6fa44991a87efc6b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8A)[^key-c604a0ff2383e8137e520f575998d026][^key-b21015ae74f2f0daff5acff609fd14b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8B)[^key-4e30f95a579f6ed3d7b7bbec01819739] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8C)[^key-1787c5a36bde292abc13ede3b1948693] The Work and Health Programme is a scheme designed to assist a claimant who is long-term unemployed in which, for a period of up to 456 calendar days, the claimant is given such support, and required to participate in such activity, as the provider of the Work and Health Programme considers appropriate and reasonable in the claimant’s circumstances to assist the claimant to obtain and sustain employment.
+
+(8D)[^key-d4c859ab8bc34fe1b3a9e3fdc793c2f3] The Restart Scheme is a scheme which provides support for a period of up to 12 months for claimants who have been unemployed for 9 months or more and reside in England and Wales.
+
+(9) In this regulation—
+
+- [^key-2a3b29e5cdedc3588d8f552374f2b366]...
+- [^key-2a3b29e5cdedc3588d8f552374f2b366]...
+- “**self-employed earner**” has the same meaning as in section 2(1)(b) of the Social Security Contributions and Benefits Act 1992; and
+- [^key-2a3b29e5cdedc3588d8f552374f2b366]...
+
+### 4. Selection for participation in a Scheme
+
+(1) The Secretary of State may select a claimant for participation in a scheme described in regulation 3.
+
+(2) The scheme in which the claimant is selected to participate is referred to in these Regulations as “**the Scheme**”.
+
+### 5. Requirement to participate and notification
+
+(1) Subject to regulation 6, a claimant selected under regulation 4 is required to participate in the Scheme where the Secretary of State gives the claimant a notice in writing complying with paragraph (2).
+
+(2) The notice must specify—
+
+- (a) that the claimant is required to participate in the Scheme;
+- (b) the day on which the claimant's participation will start;
+- (c) details of what the claimant is required to do by way of participation in the Scheme;
+- (d) that the requirement to participate in the Scheme will continue until the claimant is given notice by the Secretary of State that the claimant's participation is no longer required, or the claimant's award of jobseeker's allowance terminates, whichever is earlier; and
+- (e) information about the consequences of failing to participate in the Scheme.
+
+(3) Any changes made to the requirements mentioned in paragraph (2)(c) after the date on which the claimant's participation starts must be notified to the claimant in writing.
+
+### 6. Circumstances in which requirement to participate in the Scheme is suspended or ceases to apply
+
+(1) Paragraph (2) applies where a claimant is—
+
+- (a) subject to a requirement to participate in the Scheme; and
+- (b) while the claimant is subject to such a requirement, the Jobseeker's Allowance Regulations apply so that the claimant is not required to meet the jobseeking conditions [^c2156409].
+
+(2) Where this paragraph applies the claimant's requirement to participate in the Scheme is suspended for the period during which the claimant is not required to meet the jobseeking conditions.
+
+(3) A requirement to participate in the Scheme ceases to apply to a claimant if—
+
+- (a) the Secretary of State gives the claimant notice in writing that the claimant is no longer required to participate in the Scheme; or
+- (b) the claimant's award of jobseeker's allowance terminates,
+
+whichever is earlier.
+
+(4) If the Secretary of State gives the claimant a notice in writing under paragraph (3)(a), the requirement to participate in the Scheme ceases to apply on the day specified in the notice.
+
+### 7. Exemptions from requirement to meet the jobseeking conditions
+
+(1) A claimant who is participating in the New Enterprise Allowance scheme described in regulation 3(5) is not required to meet the condition set out in section 1(2)(c) of the Act (conditions for entitlement to a jobseeker's allowance: actively seeking employment).
+
+(2) A claimant who is participating in the Scheme is not required to meet the conditions set out in section 1(2)(a) and (c) of the Act (conditions for entitlement to a jobseeker's allowance: available for and actively seeking employment) if the claimant is a full-time student.
+
+(3) A claimant who is participating in the Scheme is not required to meet the conditions set out in section 1(2)(a) and (c) of the Act if the claimant has been discharged from detention in a prison, remand centre or youth custody institution, for one week commencing with the date of that discharge.
+
+(4) In this regulation, “**full-time student**” has the same meaning as in regulation 1(3) of the Jobseeker's Allowance Regulations.
+
+## PART 2 — Consequential Amendments
+
+### 8. Definitions
+
+(1) Paragraph (2) applies to the following provisions (which relate to interpretation)—
+
+- (a) regulation 2(1) of the Council Tax Benefit Regulations;
+- (b) regulation 2(1) of the Housing Benefit Regulations; and
+- (c) regulation 1(3) of the Jobseeker's Allowance Regulations.
+
+(2) At the end of paragraph (b) of the definition of “self-employment route” in each of the provisions to which this paragraph applies insert—
+
+> ; or
+>
+> - (c) a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013;
+
+.
+
+(3) At the end of paragraph (b)(iv) of the definition of “self-employment route” in regulation 2(1) of the Housing Renewal Grants Regulations (interpretation) insert—
+
+> ; or
+>
+> - (v) a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013;
+
+.
+
+### 9. Notional income
+
+(1) This regulation applies to the following provisions (which relate to notional income)—
+
+- (a) regulation 32(7) of the Council Tax Benefit Regulations;
+- (b) regulation 42(7) of the Housing Benefit Regulations;
+- (c) regulation 31(9A) of the Housing Renewal Grants Regulations; and
+- (d) regulation 105(10A) of the Jobseeker's Allowance Regulations.
+
+(2) In each of the provisions to which this regulation applies, after sub-paragraph (cb) insert—
+
+> - (cc) in respect of a claimant's participation in a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013;
+
+.
+
+### 10. Notional capital
+
+(1) This regulation applies to the following provisions (which relate to notional capital)—
+
+- (a) regulation 39(4) of the Council Tax Benefit Regulations;
+- (b) regulation 49(4) of the Housing Benefit Regulations;
+- (c) regulation 38(3A) of the Housing Renewal Grants Regulations; and
+- (d) regulation 113(3A) of the Jobseeker's Allowance Regulations.
+
+(2) In each of the provisions to which this regulation applies, after sub-paragraph (bb) insert—
+
+> - (bc) in respect of a claimant's participation in a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013;
+
+.
+
+### 11. Income to be disregarded
+
+(1) This regulation applies to the following provisions (which relate to sums to be disregarded in the calculation of income other than earnings)—
+
+- (a) Schedule 4 to the Council Tax Benefit Regulations;
+- (b) Schedule 5 to the Housing Benefit Regulations;
+- (c) Schedule 3 to the Housing Renewal Grants Regulations; and
+- (d) Schedule 7 to the Jobseeker's Allowance Regulations.
+
+(2) In each of the provisions to which this regulation applies, after paragraph A2 insert—
+
+> **A3.**
+>
+> Any payment made to the claimant in respect of any travel or other expenses incurred, or to be incurred, by him in respect of his participation in a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013.
+
+.
+
+### 12. Capital to be disregarded
+
+(1) This regulation applies to the following provisions (which relate to capital to be disregarded)—
+
+- (a) Schedule 5 to the Council Tax Benefit Regulations;
+- (b) Schedule 6 to the Housing Benefit Regulations;
+- (c) Schedule 4 to the Housing Renewal Grants Regulations; and
+- (d) Schedule 8 to the Jobseeker's Allowance Regulations.
+
+(2) In each of the provisions to which this regulation applies, after paragraph A2 insert—
+
+> **A3.**
+>
+> Any payment made to the claimant in respect of any travel or other expenses incurred, or to be incurred, by him in respect of his participation in a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 but only for 52 weeks beginning with the date of receipt of the payment.
+
+.
+
+### 13. Amendments to the Income Support (General) Regulations 1987
+
+The Income Support (General) Regulations 1987 [^c2156410] are amended as follows—
+
+- (a) in regulation 2 (interpretation) omit the definition of “the Employment, Skills and Enterprise Scheme”; and
+- (b) in regulation 42(4ZA)(ca) (notional income), regulation 51(3A)(ba) (notional capital), paragraph 1A of Schedule 9 (sums to be disregarded in the calculation of income other than earnings) and paragraph 1A of Schedule 10 (capital to be disregarded) for “the Employment, Skills and Enterprise Scheme” substitute “ a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 ”.
+
+### 14. Further amendments to the Jobseeker's Allowance Regulations
+
+The Jobseeker's Allowance Regulations are amended as follows—
+
+- (a) in regulation 14(1)(h) (circumstances in which a person is to be treated as available) for “the Employment, Skills and Enterprise Scheme under regulation 4(1) of the Jobseeker's Allowance (Employment, Skills and Enterprise Scheme) Regulations 2011” substitute “ a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 ”;
+- (b) in the definition of “relevant notification” in regulation 25(1A) (entitlement ceasing on a failure to comply), after “training scheme” insert “ , under a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 ”; and
+- (c) at the end of regulation 53 (persons treated as not engaged in remunerative work) insert—
+
+  > - (m) he is participating in a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013.
+
+  .
+
+### 15. Amendments to the Employment and Support Allowance Regulations 2008
+
+The Employment and Support Allowance Regulations 2008 [^c2156411] are amended as follows—
+
+- (a) in regulation 2 (interpretation) omit the definition of “the Employment, Skills and Enterprise Scheme”; and
+- (b) in regulation 107(5)(ca) (notional income – income due to be paid or income paid to or in respect of a third party), regulation 115(5)(ba) (notional capital), paragraph 1A of Schedule 8 (sums to be disregarded in the calculation of income other than earnings) and paragraph 1A of Schedule 9 (capital to be disregarded) for “the Employment, Skills and Enterprise Scheme” substitute “ a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 ”.
+
+### 16. Amendments to the Council Tax Reduction Schemes (Default Scheme) (England) Regulations 2012
+
+The Schedule to the Council Tax Reduction Schemes (Default Scheme) (England) Regulations 2012 [^c2156412] is amended as follows—
+
+- (a) in paragraph 2 (interpretation)—
+  - (i) omit the definition of “the Employment, Skills and Enterprise Scheme”;
+  - (ii) in the definition of “self-employment route” for paragraph (c) substitute—
+
+    > - (c) a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013;
+
+    ;
+- (b) in paragraphs 56(4)(f) (notional income: persons who are not pensioners) and 67(6)(e) (notional capital) for “the Employment, Skills and Enterprise Scheme” substitute “ a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 ”; and
+- (c) in paragraph 3 of Schedule 8 (sums disregarded in the calculation of income other than earnings: persons who are not pensioners) and paragraph 3 of Schedule 10 (capital disregards: persons who are not pensioners) for “the Employment, Skills and Enterprise Scheme” substitute “ a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 ”.
+
+## PART 3 — Contracting Out
+
+### 17. Contracting out certain functions
+
+(1) Any function of the Secretary of State specified in paragraph (2) may be exercised by, or by employees of, such person (if any) as may be authorised by the Secretary of State.
+
+(2) The functions are any function under—
+
+- (a) regulation 5 (requirement to participate and notification); and
+- (b) regulation 6(3)(a) (notice that requirement to participate ceases).
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+Mark Hoban
+
+Minister of State
+
+Department for Work and Pensions
+
+We consent
+
+David Evennett
+
+Stephen Crabb
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision for schemes under section 17A of the Jobseekers Act 1995 (“**the Jobseekers Act**”) which are designed to assist claimants to obtain employment, including self-employment, and which may include, for any individual, work-related activity, such as work experience or work search.
+
+Regulation 3 prescribes various schemes for the purposes of section 17A of the Jobseekers Act 1995.
+
+Regulation 4 enables the Secretary of State to select a claimant to participate in a scheme described in regulation 3 and the scheme the claimant is selected to participate in is referred to in the Regulations as “**the Scheme**”.
+
+Regulation 5 requires a person so selected to participate in the Scheme upon being notified by the Secretary of State from the date specified in the notice. It also sets out the content of the notice.
+
+Regulation 6 sets out the circumstances in which a requirement to participate in the Scheme is suspended and circumstances in which a claimant is not required (or no longer required) to participate in the Scheme. These are where a participant's award of jobseeker's allowance terminates or where the Secretary of State gives the participant notice in writing that his or her participation is no longer required.
+
+Regulation 7 sets out circumstances in which a claimant participating in the Scheme is not required to meet the jobseeking conditions.
+
+Part 2 makes various consequential amendments to other Regulations in relation to a person's participation in a scheme prescribed in regulation 3.
+
+Regulation 8 amends the definition of “self-employment route” in the Jobseeker's Allowance Regulations 1996, the Housing Renewal Grants Regulations 1996, the Council Tax Benefit Regulations 2006 and the Housing Benefit Regulations 2006 so that the definition includes a scheme prescribed in regulation 3.
+
+Regulations 9 and 10 ensure that persons will not be treated as having notional income or notional capital by virtue of their participation in a Scheme prescribed in regulation 3, and regulations 11 and 12 provide that travel and other expenses paid to participants are disregarded as income and capital for the purposes of certain income-related benefits.
+
+Regulation 13 makes consequential amendments to the Income Support (General) Regulations 1987, regulation 14 makes further consequential amendments to the Jobseeker's Allowance Regulations 1996, regulation 15 makes consequential amendments to the Employment and Support Allowance Regulations 2008 and regulation 16 makes consequential amendments to the Council Tax Reduction Schemes (Default Scheme) (England) Regulations 2012.
+
+Regulation 17 makes provision for contracting out functions of the Secretary of State under the Regulations.
+
+An impact assessment has not been produced for this instrument as it has no impact on businesses and civil society organisations. The instrument has no impact on the public sector.
+
+## Annotations
+
+[^c2156395]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 123(1)(e) was amended by Schedule 9 to the [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14); [section 137(1)](https://www.legislation.gov.uk/uksi/2013/276/section/137/1) is an interpretation provision and is cited because of the meaning given to the word “prescribed”; [section 175(1)](https://www.legislation.gov.uk/uksi/2013/276/section/175/1) and (4) was amended by paragraph 29(1), (2) and (4) of Schedule 3 to the [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^c2156396]: Marginal citation: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). Section 113(1) and (2) was amended by paragraphs 2 and 9(a) of Schedule 1 to the [Local Government Act 1999 (c. 27)](https://www.legislation.gov.uk/ukpga/1999/27), [paragraphs 40](https://www.legislation.gov.uk/ukpga/1999/27/paragraph/40) and 52 of Schedule 7 to the [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26) and section 80 of the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20); [Schedule 1A](https://www.legislation.gov.uk/uksi/2013/276/schedule/1A) was inserted by Schedule 4 to the [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17).
+
+[^c2156397]: Marginal citation: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18). Section 17A was inserted by section 1 of the [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24); [section 20E(3)(a)](https://www.legislation.gov.uk/uksi/2013/276/section/20E/3/a) was amended by Schedule 14 to the [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5); [sections 35(1)](https://www.legislation.gov.uk/uksi/2013/276/section/35/1) and 36(4) were amended by paragraphs 62 and 63 of Schedule 3 to the [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2). Section 35(1) is an interpretation provision and is cited because of the meaning given to the words “prescribed” and “regulations”.
+
+[^c2156398]: Marginal citation: [1996 c. 53](https://www.legislation.gov.uk/ukpga/1996/53). Section 30 was amended by [S.I. 2002/1860](https://www.legislation.gov.uk/uksi/2002/1860) and by paragraph 62 of Schedule 8 to the [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33); the functions of the Secretary of State and the Treasury, so far as exercisable in relation to Wales were transferred to the National Assembly for Wales, by Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672); [section 146](https://www.legislation.gov.uk/uksi/2013/276/section/146) was amended by section 138(1) and (4)(a) of the [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20) and the functions of the Secretary of State, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales, by Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672).
+
+[^c2156399]: Marginal citation: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5). Section 24(1) is an interpretation provision and is cited because of the meaning given to the words “prescribed” and “regulations”.
+
+[^c2156400]: Marginal citation: See section 30(9) of the 1996 Act.
+
+[^c2156401]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^key-3c947c03a008fcf4d1166425df2f5e9b]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2013/276) modified (26.3.2013) by [Jobseekers (Back to Work Schemes) Act 2013 (c. 17)](https://www.legislation.gov.uk/ukpga/2013/17), [ss. 1](https://www.legislation.gov.uk/ukpga/2013/17/section/1), [3(2)](https://www.legislation.gov.uk/ukpga/2013/17/section/3/2)
+
+[^c2156402]: Marginal citation: “Joint-claim couple” is defined in section 1 of the Jobseekers Act 1995 as inserted by paragraphs 1 and 2(1) and (4)(b) of the Welfare Reform and Pensions Act 1999 (c 30).
+
+[^c2156403]: Marginal citation: [S.I. 2006/215](https://www.legislation.gov.uk/uksi/2006/215); relevant amending instruments are [S.I. 2006/588](https://www.legislation.gov.uk/uksi/2006/588), 2008/698 and 2767, 2009/480, 2010/641 and 2011/688 and 2425.
+
+[^c2156404]: Marginal citation: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213); relevant amending instruments are [S.I. 2006/588](https://www.legislation.gov.uk/uksi/2006/588), 2008/698 and 2767, 2009/480, 2010/641 and 2011/688 and 2425.
+
+[^c2156405]: Marginal citation: [S.I. 1996/2890](https://www.legislation.gov.uk/uksi/1996/2890); relevant amending instruments are [S.I. 1998/808](https://www.legislation.gov.uk/uksi/1998/808) and 1523, 2000/531 and 973, 2001/2073, 2002/530 and 2798 and 2011/688.
+
+[^c2156406]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207); relevant amending instruments are 1998/2117 and 2640, 1999/2640, 2000/2910, 2001/1029, 2003/455, 2004/2308, 2005/2929, 2006/588, 2008/698 and 2767, 2009/480, 2010/509 and 641, 2011/688 and 2425 and 2012/397.
+
+[^c2156407]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-ec54736ec67006669ab41f7b3838d3f4]: Textual amendment: Reg. 3(2) omitted (20.11.2017) by virtue of [The Jobseekers Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2017 (S.I. 2017/1020)](https://www.legislation.gov.uk/uksi/2017/1020), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1020/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/1020/regulation/2/2/a)
+
+[^key-7490162480a048d9b415600ecfd96843]: Textual amendment: Reg. 3(3) omitted (20.11.2017) by virtue of [The Jobseekers Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2017 (S.I. 2017/1020)](https://www.legislation.gov.uk/uksi/2017/1020), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1020/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/1020/regulation/2/2/a)
+
+[^key-258e4627b21317f6fa44991a87efc6b4]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/uksi/2013/276/regulation/3/8) omitted (14.3.2022) by virtue of [The Jobseeker’s Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2022 (S.I. 2022/154)](https://www.legislation.gov.uk/uksi/2022/154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/154/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/154/regulation/2/2/a)
+
+[^key-c604a0ff2383e8137e520f575998d026]: Textual amendment: Reg. 3(8A) omitted (20.11.2017) by virtue of [The Jobseekers Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2017 (S.I. 2017/1020)](https://www.legislation.gov.uk/uksi/2017/1020), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1020/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/1020/regulation/2/2/a)
+
+[^key-b21015ae74f2f0daff5acff609fd14b7]: Textual amendment: Reg. 3(8A)(8B) inserted (5.11.2013) by [The Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2013 (S.I. 2013/2584)](https://www.legislation.gov.uk/uksi/2013/2584), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2584/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/2584/regulation/2/2/a)
+
+[^key-4e30f95a579f6ed3d7b7bbec01819739]: Textual amendment: Reg. 3(8B) omitted (27.3.2015) by virtue of [The Social Security (Traineeships and Qualifying Young Persons) Amendment Regulations 2015 (S.I. 2015/336)](https://www.legislation.gov.uk/uksi/2015/336), [regs. 1](https://www.legislation.gov.uk/uksi/2015/336/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/336/regulation/3)
+
+[^key-1787c5a36bde292abc13ede3b1948693]: Textual amendment: Reg. 3(8C) inserted (20.11.2017) by [The Jobseekers Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2017 (S.I. 2017/1020)](https://www.legislation.gov.uk/uksi/2017/1020), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1020/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/1020/regulation/2/2/b)
+
+[^key-d4c859ab8bc34fe1b3a9e3fdc793c2f3]: Textual amendment: [Reg. 3(8D)](https://www.legislation.gov.uk/uksi/2013/276/regulation/3/8D) inserted (14.3.2022) by [The Jobseeker’s Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2022 (S.I. 2022/154)](https://www.legislation.gov.uk/uksi/2022/154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/154/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/154/regulation/2/2/b)
+
+[^key-2a3b29e5cdedc3588d8f552374f2b366]: Textual amendment: Words in reg. 3(9) omitted (20.11.2017) by virtue of [The Jobseekers Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2017 (S.I. 2017/1020)](https://www.legislation.gov.uk/uksi/2017/1020), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1020/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2017/1020/regulation/2/2/c)
+
+[^c2156409]: Marginal citation: See section 17A(10) of the Act for the meaning of the “jobseeking conditions”.
+
+[^c2156410]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instruments are [S.I. 1998/2117](https://www.legislation.gov.uk/uksi/1998/2117), [S.I](https://www.legislation.gov.uk/uksi/1998/2117/section/I). 1999/2640 and
+
+    3156, 2001/1029, 2003/455 and 2308, 2005/2294 and 3391, 2006/588, 2008/698 and 2767, 2010/641 and 2011/1707 and 2425.
+
+[^c2156411]: Marginal citation: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794); relevant amending instruments are [S.I. 2008/2428](https://www.legislation.gov.uk/uksi/2008/2428), 2010/641 and 2011/1707 and 2425.
+
+[^c2156412]: Marginal citation: [S.I. 2012/2886](https://www.legislation.gov.uk/uksi/2012/2886), to which there are amendments not relevant to these Regulations.

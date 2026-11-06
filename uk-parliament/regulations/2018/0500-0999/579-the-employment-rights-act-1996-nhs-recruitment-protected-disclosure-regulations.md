@@ -1,0 +1,258 @@
+---
+title: The Employment Rights Act 1996 (NHS Recruitment – Protected Disclosure) Regulations 2018
+id: uksi/2018/579
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2018-05-02'
+text_date: '2018-05-23'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2018/579
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/579/pdfs/uksiem_20180579_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/579/pdfs/uksi_20180579_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/579/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Employment Rights Act 1996 (NHS Recruitment – Protected Disclosure) Regulations 2018
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2018-05-23. See https://www.legislation.gov.uk/changes/affected/uksi/2018/579
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2018 No. 579
+
+Terms And Conditions Of Employment
+
+The Employment Rights Act 1996 (NHS Recruitment – Protected Disclosure) Regulations 2018
+
+Made
+
+2nd May 2018
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 49B(1), (4) and (6) and 236(5) of the Employment Rights Act 1996[^f00001].
+
+In accordance with section 236(3)[^f00002] of that Act, a draft of these Regulations was laid before Parliament and approved by a resolution of each House of Parliament.
+
+In accordance with section 49B(8) of that Act, the Secretary of State has consulted the Welsh Ministers before prescribing certain Welsh NHS bodies for the purposes of the definition of “NHS employer” in section 49B(6) of that Act by virtue of provision made in regulation 2*.*
+
+In accordance with section 49B(9) of that Act, the Secretary of State has consulted the Scottish Ministers before prescribing certain Scottish NHS bodies for the purposes of the definition of “NHS employer” in section 49B(6) of that Act by virtue of provision made in regulation 2.
+
+## 1. Citation, commencement and extent[^key-bd3801e7f3eb3be23d06c2789745c562]
+
+(1) These Regulations may be cited as the Employment Rights Act 1996 (NHS Recruitment – Protected Disclosure) Regulations 2018.
+
+(2) These Regulations come into force 21 days after the day on which they are made.
+
+(3) These Regulations extend to England and Wales and Scotland.
+
+## 2. NHS public bodies prescribed for the purposes of the definition of “NHS employer”[^key-6e5298d075148e3eab4d31cdab8a47bd]
+
+The NHS public bodies prescribed for the purposes of section 49B(6) of the Employment Rights Act 1996 (which defines “NHS employer” by reference to those NHS public bodies that are prescribed by regulations) are the bodies listed in paragraphs (a) to (p) of subsection (7) of that section.
+
+## 3. Prohibition of discrimination because of protected disclosure[^key-21cb5faf3025abe6e0f26fff9383ece2]
+
+An NHS employer[^f00003] must not discriminate[^f00004] against an applicant[^f00005] because it appears to the NHS employer that the applicant has made a protected disclosure[^f00006].
+
+## 4. Right of complaint to an employment tribunal[^key-67873933c1def3ab39b4c89e25d8e9d4]
+
+(1) An applicant has a right of complaint to an employment tribunal[^f00007] against an NHS employer if the NHS employer contravenes regulation 3.
+
+(2) If there are facts from which the employment tribunal could decide, in the absence of any other explanation, that an NHS employer contravened regulation 3, the tribunal must find that such a contravention occurred unless the NHS employer shows that it did not contravene regulation 3.
+
+## 5. Time limit for proceedings under regulation 4[^key-f06da1170ffb84be2dab2f172ccd01f1]
+
+(1) Subject to paragraph (4), an employment tribunal must not consider a complaint under regulation 4 unless it is presented to the tribunal before the end of the period of three months beginning with the date of the conduct to which the complaint relates.
+
+(2) An employment tribunal may consider a complaint under regulation 4 that is otherwise out of time if, in all the circumstances of the case, it considers it just and equitable to do so.
+
+(3) In the cases specified in paragraphs (a) to (e), the date of the conduct to which a complaint under regulation 4 relates is—
+
+- (a) in the case of a decision by an NHS employer not to employ or appoint an applicant, the date that decision was communicated to the applicant;
+- (b) in the case of a deliberate omission—
+  - (i) to entertain and process an applicant’s application or enquiry, or
+  - (ii) to offer a contract of employment, a contract to do work personally, or an appointment to an office or post,
+
+  the end of the period within which it was reasonable to expect the NHS employer to act;
+- (c) in the case of conduct which causes an applicant to withdraw or no longer pursue an application or enquiry, the date of that conduct;
+- (d) in a case where the NHS employer withdrew an offer, the date when the offer was withdrawn;
+- (e) in any other case where the NHS employer made an offer which was not accepted, the date when the NHS employer made the offer.
+
+(4) Where a complaint under regulation 4 relates to conduct extending over a period, the conduct is to be treated as done at the end of the period.
+
+## 6. Remedies in proceedings under regulation 4[^key-bd78d8a3d98f91e4f210a702d821c6f1]
+
+Where an employment tribunal finds in proceedings under regulation 4 that there has been a contravention of regulation 3—
+
+- (a) it must make a declaration to that effect;
+- (b) it may order the NHS employer to pay compensation to the applicant in respect of the conduct complained of; and
+- (c) it may recommend that, within a specified period, the NHS employer takes specified steps for the purpose of obviating or reducing the adverse effect on the applicant of the discrimination to which the proceedings relate.
+
+## 7. Amount of compensation[^key-dbe20098ee12f00eac1c4af17706cffd]
+
+(1) Subject to the following paragraphs, the amount of compensation which the employment tribunal may award must be such as the tribunal considers just and equitable in all the circumstances.
+
+(2) When considering the amount of compensation to award, if any, the tribunal must have regard to the conduct complained of and to any loss sustained by the applicant which was caused by that conduct.
+
+(3) The reference in paragraph (2) to loss sustained by the applicant includes—
+
+- (a) expenses which the applicant reasonably incurred because of the discriminatory conduct of the NHS employer; and
+- (b) the loss of any benefit which the applicant might reasonably be expected to have had but for that conduct.
+
+(4) In ascertaining the loss, the tribunal must apply the same rule concerning the duty to mitigate loss as applies to damages recoverable under the common law of England and Wales or (as the case may be) Scotland.
+
+(5) When considering the amount of compensation, if any, to award, the tribunal may also have regard to—
+
+- (a) the actions of the applicant before the conduct complained of; and
+- (b) whether the applicant acted so as to contribute to or cause, to any extent, that conduct.
+
+(6) If the NHS employer fails without reasonable justification to comply with a recommendation under regulation 6(c), the tribunal may increase its award or, if it has not made such an award, make one.
+
+## 8. Action for breach of statutory duty[^key-c1794ef5b93f6295f2595e177f2190a3]
+
+(1) A contravention of regulation 3 is actionable as a breach of statutory duty.
+
+(2) If there are facts from which the court could conclude, in the absence of any other explanation, that the defendant has contravened, or is likely to contravene, regulation 3, the court must find that such a contravention has occurred, or is likely to occur, unless the defendant shows that it did not, or is not likely to occur.
+
+(3) In proceedings brought by virtue of this regulation, the court may (without prejudice to any of its other powers)—
+
+- (a) make such order as it considers appropriate for the purpose of restraining or preventing the defendant from contravening regulation 3; and
+- (b) award damages, which may include compensation for injured feelings.
+
+(4) Except as provided in paragraph (5), an applicant may not complain to an employment tribunal under regulation 4 and bring an action for breach of statutory duty in respect of the same conduct.
+
+(5) An applicant may complain to an employment tribunal under regulation 4 and bring an action for breach of statutory duty in respect of the same conduct for the purpose of restraining or preventing the defendant from contravening regulation 3.
+
+## 9. Discrimination by worker or agent of NHS employer[^key-84d3934c52a2ebd994f214cd51ab693a]
+
+(1) Discrimination by a worker[^f00008] of an NHS employer is to be treated, for the purposes of these Regulations, as discrimination by the NHS employer where the discriminatory conduct occurs in the course of the worker’s employment.
+
+(2) It does not matter whether the NHS employer knows about or approves the conduct of the worker.
+
+(3) Discrimination by an agent of an NHS employer is to be treated, for the purposes of these Regulations, as discrimination by the NHS employer where the discriminatory conduct occurs with the authority of the NHS employer.
+
+(4) In proceedings under regulation 4 or 8, in respect of anything alleged to have been done in the course of employment by a worker of an NHS employer, or anything alleged to have been done by an agent acting with the authority of the NHS employer, it is a defence for the NHS employer to show that it took all reasonable steps to prevent the worker or agent—
+
+- (a) from doing that thing; or
+- (b) from doing anything of that description.
+
+## 10. Consequential amendments[^key-8bc04059f337930214cad9aa4cac8a58]
+
+(1) The Employment Tribunals Act 1996 is amended as follows.
+
+(2) In section 10(1) (dismissal of complaint where action taken for purpose of safeguarding national security)—
+
+- (a) omit “or” at the end of paragraph (b); and
+- (b) after paragraph (c) insert—
+
+  > or
+  >
+  > - (d) regulation 4 of the Employment Rights Act 1996 (NHS Recruitment – Protected Disclosure) Regulations 2018 (complaint to employment tribunal),
+
+  .
+
+(3) In section 16(1) (recoupment of benefits: payments in relation to which power exercisable)—
+
+- (a) omit “or” at the end of paragraph (d); and
+- (b) after paragraph (e) insert—
+
+  > or
+  >
+  > - (f) payments by NHS employers to applicants under regulation 6 of the Employment Rights Act 1996 (NHS Recruitment – Protected Disclosure) Regulations 2018 (remedies),
+
+  .
+
+(4) In section 18(1) (conciliation: relevant proceedings etc)—
+
+- (a) omit “or” at the end of paragraph (z3); and
+- (b) after paragraph (z4) insert—
+
+  > or
+  >
+  > - (z5) under regulation 4 of the Employment Rights Act 1996 (NHS Recruitment – Protected Disclosure) Regulations 2018.
+
+  .
+
+Signed by the authority of the Secretary of State for Health and Social Care.
+
+Caroline Dinenage
+
+Minister of State,
+
+Department of Health and Social Care
+
+2nd May 2018
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made under sections 49B and 236 of the Employment Rights Act 1996. They give protection to individuals (“applicants”) who apply to an NHS employer for a contract of employment, a contract to do work personally or appointment to an office or post.
+
+Regulation 1 deals with citation, commencement and extent.
+
+Regulation 2 prescribes the NHS public bodies referred to in section 49B(7)(a) to (p) of the Employment Rights Act 1996 as NHS employers for the purposes of the definition of “NHS employer” in section 49B(6) of that Act.
+
+Regulation 3 prohibits an NHS employer from discriminating against an applicant because it appears to the NHS employer that the applicant has made a protected disclosure.
+
+Regulation 4 provides an applicant with a right of complaint to an employment tribunal against an NHS employer if the NHS employer contravenes the prohibition of discrimination in regulation 3.
+
+Regulation 5 deals with the time limit for bringing such a complaint.
+
+Regulation 6 deals with the remedies which an employment tribunal may award where a complaint is made under regulation 4.
+
+Regulation 7 provides for how awards of compensation are to be calculated in proceedings under regulation 4.
+
+Regulation 8 provides that an action may also be brought for breach of statutory duty in respect of a contravention of the prohibition of discrimination in regulation 3.
+
+Regulation 9 provides for circumstances in which discrimination by a worker or agent of an NHS employer is to be treated as discrimination by the NHS employer.
+
+Regulation 10 makes consequential amendments to other legislation.
+
+A full regulatory impact assessment has not been prepared as this instrument will have no impact on the costs of business and the voluntary sector.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18) (“the 1996 Act”). Section 49B was inserted by section 149 of the Small Business, Enterprise and Employment Act [2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) (“the 2015 Act”).
+
+[^f00002]: Footnote: Section 236(3) was amended by paragraph 42 of Schedule 4 to the Employment Relations Act [1999 (c.26)](https://www.legislation.gov.uk/ukpga/1999/26) and section 149 of the 2015 Act.
+
+[^key-bd3801e7f3eb3be23d06c2789745c562]: Commencement: Reg. 1 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+
+[^key-6e5298d075148e3eab4d31cdab8a47bd]: Commencement: Reg. 2 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+
+[^key-21cb5faf3025abe6e0f26fff9383ece2]: Commencement: Reg. 3 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+
+[^f00003]: Footnote: *See* section 49B(6) and (7) of the 1996 Act read with regulation 2 of these Regulations as to the definition of “NHS employer”.
+
+[^f00004]: Footnote: *See* section 49B(3) of the 1996 Act as to when an NHS employer discriminates against an applicant for the purposes of section 49B(1) of that Act.
+
+[^f00005]: Footnote: *See* section 49B(2) of the 1996 Act as to the definition of “applicant”.
+
+[^f00006]: Footnote: *See* sections 43A and 235 of the 1996 Act as to the definition of “protected disclosure”. Section 43A was inserted by section 1 of the Public Interest Disclosure Act [1998 (c.23)](https://www.legislation.gov.uk/ukpga/1998/23) (“the 1998 Act”). Section 235 was amended, so far as relevant, by section 15 of the 1998 Act.
+
+[^key-67873933c1def3ab39b4c89e25d8e9d4]: Commencement: Reg. 4 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+
+[^f00007]: Footnote: An “employment tribunal” is a tribunal established under section 1 of the Employment Tribunals Act [1996 (c.17)](https://www.legislation.gov.uk/ukpga/1996/17).
+
+[^key-f06da1170ffb84be2dab2f172ccd01f1]: Commencement: Reg. 5 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+
+[^key-bd78d8a3d98f91e4f210a702d821c6f1]: Commencement: Reg. 6 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+
+[^key-dbe20098ee12f00eac1c4af17706cffd]: Commencement: Reg. 7 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+
+[^key-c1794ef5b93f6295f2595e177f2190a3]: Commencement: Reg. 8 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+
+[^key-84d3934c52a2ebd994f214cd51ab693a]: Commencement: Reg. 9 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)
+
+[^f00008]: Footnote: *See* sections 43K and 230 of the 1996 Act as to the definition of “worker” and “employment”. Section 43K was inserted by section 1 of the 1998 Act, amended by paragraph 65 of Schedule 11 to the Health and Social Care (Community Health and Standards) Act [2003 (c.43)](https://www.legislation.gov.uk/ukpga/2003/43), paragraphs 177 and 178 of Schedule 1 to the National Health Service (Consequential Provisions) Act [2006 (c.43)](https://www.legislation.gov.uk/ukpga/2006/43), paragraphs 72 and 73 of Schedule 5 to the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) and section 20 of the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24) and by [S.I. 2004/957](https://www.legislation.gov.uk/uksi/2004/957), [2006/1056](https://www.legislation.gov.uk/uksi/2006/1056) (from a date to be appointed), [2007/961](https://www.legislation.gov.uk/ssi/2007/961) and [2015/491](https://www.legislation.gov.uk/ssi/2015/491), and modified by [S.S.I. 2004/163](https://www.legislation.gov.uk/ssi/2004/163). Section 230 of the 1996 Act was amended by section 15 of the 1998 Act and section 149 of the 2015 Act.
+
+[^key-8bc04059f337930214cad9aa4cac8a58]: Commencement: Reg. 10 in force at 23.5.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/579/regulation/1/2)

@@ -1,0 +1,33 @@
+---
+title: Broadcasting Act 1981, section 50
+act: Broadcasting Act 1981
+section: '50'
+status: revised
+text_date: '1992-01-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1981/68/section/50
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Broadcasting Act 1981, section 50
+
+> Text as at 1992-01-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 50. Modification of certain provisions relating to the IBA.
+
+*Extent: E+W+S+N.I.*
+
+(1) The provisions mentioned in subsection (2) shall, in their operation in relation to the Fourth Channel in Wales, have effect subject to the modifications specified in Schedule 6 (being modifications for substituting the Welsh Authority for the IBA in those provisions and for other purposes arising out of the special arrangements for that Channel); but nothing in this section or that Schedule affects those provisions in their operation in relation to the Fourth Channel so far as it consists of advertisements broadcast for reception in Wales.
+
+(2) Those provisions are—
+
+- (a) section 2(1) and (2) (function and duties of IBA);
+- (b) section 4 (general provisions as to content of programmes);
+- (c) section 5 (code for programmes other than advertisements);
+- (d) section 7 (programme prizes);
+- (e) section 45 (audience research).
+
+(3) So long as the Fourth Channel is being provided in Wales, so much of section 4(1)(d) as relates to cases where another language as well as English is in common use among persons served by the station or stations in question, shall, in the case of programmes broadcast on ITV for reception in Wales, apply only to languages other than Welsh.

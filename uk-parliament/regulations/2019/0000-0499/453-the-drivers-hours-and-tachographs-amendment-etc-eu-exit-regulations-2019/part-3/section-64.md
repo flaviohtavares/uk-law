@@ -1,0 +1,40 @@
+---
+title: The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019, section 64
+act: The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019
+section: '64'
+status: revised
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/453/section/64
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019, section 64
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 64.[^key-bf7cfe0b5ce75e04510e5f9b3704cab8]
+
+*Extent: E+W+S+N.I.*
+
+For Article 11 substitute—
+
+> **Article 11**
+>
+> Articles 6 to 9 are subject to—
+>
+> - (a) regulation 2 of the Community Drivers' Hours and Recording Equipment Regulations 2007;
+> - (b) regulation 3 of the Community Drivers' Hours and Recording Equipment Regulations 2012 [^c23621161];
+> - (c) regulation 3 of the Community Drivers' Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009;
+> - (d) any provision made under Article 14(1) or (2).
+
+.
+
+## Annotations
+
+[^key-bf7cfe0b5ce75e04510e5f9b3704cab8]: Commencement: Reg. 64 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+
+[^c23621161]: Marginal citation: [S.I. 2012/1502](https://www.legislation.gov.uk/uksi/2012/1502).

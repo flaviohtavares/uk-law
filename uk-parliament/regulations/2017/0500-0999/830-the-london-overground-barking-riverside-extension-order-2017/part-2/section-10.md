@@ -1,0 +1,35 @@
+---
+title: The London Overground (Barking Riverside Extension) Order 2017, section 10
+act: The London Overground (Barking Riverside Extension) Order 2017
+section: '10'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2017/830/section/10
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The London Overground (Barking Riverside Extension) Order 2017, section 10
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 10. Temporary stopping up and diversion of streets
+
+(1) TfL may, during and for the purposes of the execution of the authorised works temporarily stop up, alter or divert any street and may for any reasonable time—
+
+- (a) divert the traffic from the street; and
+- (b) subject to paragraph (3), prevent all persons from passing along the street.
+
+(2) Without limitation on the scope of paragraph (1), TfL may use any street stopped up under the powers conferred by this article within the Order limits as a temporary working site.
+
+(3) TfL must provide reasonable access for pedestrians going to or from premises abutting a street affected by the exercise of the powers conferred by this article if there would otherwise be no such access.
+
+(4) Without limitation on the scope of paragraph (1), TfL may exercise the powers conferred by this article in relation to the streets specified in columns (1) and (2) of Part 2 (streets to the temporarily stopped up) of Schedule 2 (streets to be stopped up).
+
+(5) TfL must not exercise the powers conferred by this article—
+
+- (a) in relation to any street specified in Part 2 of Schedule 2 without first consulting the street authority; and
+- (b) in relation to any other street, without the consent of the street authority, which may attach reasonable conditions to any consent, but the consent must not be unreasonably withheld.
+
+(6) Any person who suffers loss by the suspension of any private right of way under this article is entitled to compensation to be determined, in case of dispute, under Part 1 of the 1961 Act.

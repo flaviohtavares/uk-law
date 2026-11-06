@@ -1,0 +1,117 @@
+---
+title: The Freedom of Information (Excluded Welsh Authorities) Order 2002
+id: uksi/2002/2832
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2002-11-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2002/2832
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/2832/pdfs/uksi_20022832_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/2832/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Freedom of Information (Excluded Welsh Authorities) Order 2002
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2002 No. 2832
+
+FREEDOM OF INFORMATION
+
+The Freedom of Information (Excluded Welsh Authorities) Order 2002
+
+Made
+
+11th November 2002
+
+Coming into force
+
+30th November 2002
+
+The Lord Chancellor, in exercise of the powers conferred upon him by section 83(2) of the Freedom of Information Act 2000[^f00001], and after consultation with the National Assembly for Wales in accordance with section 83(3) of that Act, hereby makes the following Order:
+
+**1.** This Order may be cited as the Freedom of Information (Excluded Welsh Authorities) Order 2002 and shall come into force on 30th November 2002.
+
+**2.** The public authorities listed in the Schedule to this Order are designated as excluded authorities for the purposes of section 83(1)(a) of the Freedom of Information Act 2000.
+
+Signed by the authority of the Lord Chancellor
+
+Yvette Cooper
+
+Parliamentary Secretary,
+
+Lord Chancellor’s Department
+
+11th November 2002
+
+## SCHEDULE — EXCLUDED AUTHORITIES
+
+Article 2
+
+### PART I — LOCAL GOVERNMENT
+
+The magistrates' court committee established under section 27 of the Justices of the Peace Act 1997[^f00002] for each of the following areas:
+
+- Dyfed Powys;
+- Gwent;
+- North Wales; and
+- South Wales.
+
+### PART II — OTHER BODIES AND OFFICES: GENERAL
+
+- The Advisory Committee on General Commissioners of Income Tax[^f00003] for each of the following areas:
+  - Clwyd;
+  - Dyfed-Carmarthen;
+  - Dyfed-Ceredigion;
+  - Dyfed-Pembroke;
+  - Gwent;
+  - Gwynedd-Anglesey;
+  - Gwynedd-Caernavon;
+  - Gwynedd-Meirionnydd;
+  - Mid Glamorgan;
+  - Powys;
+  - South Glamorgan; and
+  - West Glamorgan.
+- The Advisory Committee on Justices of the Peace[^f00004] for each of the following areas:
+  - Clwyd;
+  - Dyfed-Carmarthen;
+  - Dyfed-Ceredigion;
+  - Dyfed-Pembroke;
+  - Gwent;
+  - Gwynedd;
+  - Mid Glamorgan;
+  - Powys;
+  - South Glamorgan; and
+  - West Glamorgan.
+- The Parliamentary Boundary Commission for Wales[^f00005].
+- Sianel Pedwar Cymru, in respect of information held for purposes other than those of journalism, art or literature[^f00006].
+- The Traffic Commissioner for the Welsh Traffic Area, in respect of information held otherwise than as a tribunal[^f00007].
+
+(This note is not part of the Order)
+
+The obligations under the Freedom of Information Act 2000 apply to public authorities. A “public authority” is defined for the purposes of the Act in section 3, and includes any body or office which is listed in Schedule 1 to the Act.
+
+Certain provisions of the Act apply to Welsh public authorities. A “Welsh public authority” is defined for the purposes of the Act in section 83(1), and includes any public authority which is listed in Part II, III, IV or VI of Schedule 1 to the Act and whose functions are exercisable only or mainly in or as regards Wales, other than an excluded authority. Article 2 of this Order designates the public authorities listed in the Schedule to the Order as excluded authorities for these purposes.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36). The functions of the Secretary of State under section 83 were transferred to the Lord Chancellor by the Transfer of Functions (Miscellaneous) Order 2001 (S.I. [2001/3500](https://www.legislation.gov.uk/uksi/2001/3500)), which Order amended section 83 accordingly.
+
+[^f00002]: Footnote: [1997 c. 25](https://www.legislation.gov.uk/ukpga/1997/25). “A magistrates' court committee established under section 27 of the Justices of the Peace Act 1997” is listed in paragraph 34 of Schedule 1 to the Freedom of Information Act 2000.
+
+[^f00003]: Footnote: “An Advisory Committee on General Commissioners of Income Tax” is listed in Part VI of Schedule 1 to the Act.
+
+[^f00004]: Footnote: “An Advisory Committee on Justices of the Peace in England and Wales” is listed in Part VI of Schedule 1 to the Act.
+
+[^f00005]: Footnote: This body is listed in Part VI of Schedule 1 to the Act.
+
+[^f00006]: Footnote: This body is listed in Part VI of Schedule 1 to the Act in respect of information held for purposes other than those of journalism, art or literature.
+
+[^f00007]: Footnote: “The Traffic Commissioners, in respect of information held by them otherwise than as a tribunal” are listed in Part VI of Schedule 1 to the Act.

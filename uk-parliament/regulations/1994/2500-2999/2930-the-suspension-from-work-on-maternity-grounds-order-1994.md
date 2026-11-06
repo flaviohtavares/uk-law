@@ -1,0 +1,89 @@
+---
+title: The Suspension from Work (on Maternity Grounds) Order 1994
+id: uksi/1994/2930
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1994-11-21'
+text_date: '1999-12-29'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1994/2930
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/2930/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Suspension from Work (on Maternity Grounds) Order 1994
+
+> Text as at 1999-12-29.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1994 No. 2930
+
+TERMS AND CONDITIONS OF EMPLOYMENT
+
+The Suspension from Work (on Maternity Grounds) Order 1994
+
+Made
+
+21st November 1994
+
+Laid before Parliament
+
+21st November 1994
+
+Coming into force
+
+1st December 1994
+
+The Secretary of State, in exercise of the powers conferred on him by section 45(3) of the Employment Protection (Consolidation) Act 1978[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Order:
+
+## 1. Citation, commencement and interpretation[^key-cd8011484a653f44506a62fbf855eda9]
+
+(1) This Order may be cited as the Suspension from Work (on Maternity Grounds) Order 1994 and shall come into force on 1st December 1994.
+
+(2) In this Order —
+
+- (a) “the 1978 Act” means the Employment Protection (Consolidation) Act 1978; and
+- (b) “the 1999 Regulations" means the Management of Health and Safety at Work Regulations 1999[^key-3303147bf1bcc4722949e0b327ce5c27].
+
+## 2. Relevant provisions under section 45(1) of the 1978 Act[^key-e9739187c74d893c0e4a2db6c4a345c7]
+
+The following provisions are specified as relevant provisions for the purposes of section 45(1) of the 1978 Act:
+
+- (a) regulation 13A(3) of the 1992 Regulations; and
+- (b) regulation 17 of the 1999 Regulations[^key-4688309c3843de9fcd471489c548bbb4].
+
+Signed by order of the Secretary of State.
+
+Ann Widdecombe
+
+Minister of State,
+
+Department of Employment
+
+21st November 1994
+
+(This note is not part of the Order)
+
+This Order (in combination with the Management of Health and Safety at Work Regulations 1992 (S.I. [1992/2051](https://www.legislation.gov.uk/uksi/1992/2051)) (as amended by the Management of Health and Safety at Work (Amendment) Regulations 1994 (S.I. [1994/2865](https://www.legislation.gov.uk/uksi/1994/2865))) (collectively referred to as“the 1992 Regulations”)) gives effect, in Great Britain, to Articles 5(2) and 7(2) of Council Directive [92/85/EEC](https://www.legislation.gov.uk/european/directive/1992/0085) (OJ No. L348, 28.11.92, p.1) on the introduction of measures to encourage improvements in the safety and health at work of pregnant workers and workers who have recently given birth or are breastfeeding.
+
+The Order specifies the requirements imposed by the 1992 Regulations so that, by virtue of section 45(1) of the Employment Protection (Consolidation) Act [1978 (c. 44)](https://www.legislation.gov.uk/ukpga/1978/44), where an employee is suspended from work in consequence of any of those requirements, she will have rights under section 46 (right to offer of alternative work) and section 47(right to remuneration on suspension) of that Act.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c. 44](https://www.legislation.gov.uk/ukpga/1978/44); section 45 was substituted by section 25 of, andSchedule 3 to, the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19).
+
+[^key-cd8011484a653f44506a62fbf855eda9]: Commencement: Art. 1 in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2930/article/1/1)
+
+[^key-3303147bf1bcc4722949e0b327ce5c27]: Textual amendment: Words in [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/1994/2930/article/1/2/b) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
+
+[^key-e9739187c74d893c0e4a2db6c4a345c7]: Commencement: Art. 2 in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2930/article/1/1)
+
+[^key-4688309c3843de9fcd471489c548bbb4]: Textual amendment: Words in [art. 2(b)](https://www.legislation.gov.uk/uksi/1994/2930/article/2/b) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))

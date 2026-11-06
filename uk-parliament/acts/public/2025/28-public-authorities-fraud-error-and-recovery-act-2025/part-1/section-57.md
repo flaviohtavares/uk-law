@@ -1,0 +1,48 @@
+---
+title: Public Authorities (Fraud, Error and Recovery) Act 2025, section 57
+act: Public Authorities (Fraud, Error and Recovery) Act 2025
+section: '57'
+status: revised
+text_date: '2026-10-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2025/28/section/57
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Public Authorities (Fraud, Error and Recovery) Act 2025, section 57
+
+> Text as at 2026-10-26.
+>
+> Extent: England, Wales, Scotland.
+
+## 57. Procedural rights[^key-41de976ae0d51e747cfd318446ac5064][^key-f6728d087ef9f390585c8c1fbd075675]
+
+*Extent: E+W*
+
+(1) This section and sections 58 and 59 set out steps that must be taken before the Minister may impose a penalty on a person under section 51 or 54.
+
+(2) Where the Minister proposes that a person should be given a penalty under section 51 or 54, the Minister must give the person a notice (a “notice of intent”) inviting them to make representations about the proposed penalty.
+
+(3) The notice of intent must include—
+
+- (a) the amount of the proposed penalty,
+- (b) the reasons for the penalty being of that amount, and
+- (c) the means by which, and the period within which, representations may be made.
+
+(4) The period must be at least 28 days beginning with the day after the day on which the notice is given.
+
+(5) The Minister must—
+
+- (a) consider any representations received in accordance with the notice, and
+- (b) in light of those representations—
+  - (i) decide whether to impose the penalty, and
+  - (ii) make any changes to the terms of the proposed penalty that the Minister considers appropriate.
+
+(6) Where the Minister decides not to impose a penalty on the person, the Minister must give the person a notice to that effect.
+
+## Annotations
+
+[^key-41de976ae0d51e747cfd318446ac5064]: Commencement: S. 57 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+
+[^key-f6728d087ef9f390585c8c1fbd075675]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2025/28/section/57) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

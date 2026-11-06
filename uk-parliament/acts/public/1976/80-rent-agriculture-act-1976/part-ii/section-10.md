@@ -1,0 +1,38 @@
+---
+title: Rent (Agriculture) Act 1976, section 10
+act: Rent (Agriculture) Act 1976
+section: '10'
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1976/80/section/10
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Rent (Agriculture) Act 1976, section 10
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/80
+>
+> Extent: England, Wales.
+
+## 10. Terms and conditions.
+
+*Extent: E+W*
+
+(1) Schedule 5 to this Act contains provisions about the terms of a statutory tenancy.
+
+(2) Schedule 5 to this Act shall not impose any liability to pay rent under a statutory tenancy (whether the protected occupier was a tenant or a licensee), and accordingly no rent shall be payable under a statutory tenancy until rent becomes payable by virtue of an agreement under section 11 of this Act, or by virtue of a notice of increase under section 12 or 14 of this Act.
+
+(3) Rent under a statutory tenancy which is a weekly tenancy shall be payable weekly in arrear, except that—
+
+- (a) if a rent or equivalent payment was payable under the protected occupancy, and was so payable otherwise than in arrear, rent under the statutory tenancy shall be payable in that other way, and
+- (b) this subsection has effect subject to any agreement between the landlord and the tenant.
+
+(4) The day on which rent is payable weekly in arrear in accordance with subsection (3) above shall be—
+
+- (a) where rent or any equivalent payment was payable weekly in arrear under the protected occupancy, the day on which it was so payable,
+- (b) where paragraph (a) does not apply, and at the end of the protected occupancy the protected occupier was being paid weekly wages, the day on which the wages were paid,
+- (c) in any other case such day as the landlord and tenant may agree, or in default of agreement, Friday in each week.
+
+(5) The covenants implied in the statutory tenancy shall include a covenant to pay rent in accordance with this Part of this Act.

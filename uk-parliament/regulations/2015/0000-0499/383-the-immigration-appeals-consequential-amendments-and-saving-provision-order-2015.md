@@ -1,0 +1,141 @@
+---
+title: The Immigration (Appeals) (Consequential Amendments and Saving Provision) Order 2015
+id: uksi/2015/383
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-02-25'
+text_date: '2015-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/383
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/383/pdfs/uksiem_20150383_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/383/pdfs/uksi_20150383_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/383/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Immigration (Appeals) (Consequential Amendments and Saving Provision) Order 2015
+
+> Text as at 2015-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 383
+
+Immigration
+
+The Immigration (Appeals) (Consequential Amendments and Saving Provision) Order 2015
+
+Made
+
+25th February 2015
+
+Laid before Parliament
+
+26th February 2015
+
+Coming into force
+
+6th April 2015
+
+The Secretary of State, in exercise of the powers conferred by section 73(2), (3) and 74(8) of the Immigration Act 2014[^f00001], makes the following Order:
+
+## 1. Citation and Commencement[^key-1ac61358e1115a9bc53af17cd44e825d]
+
+This Order may be cited as the Immigration (Appeals) (Consequential Amendments and Saving Provision) Order 2015 and comes into force on 6th April 2015.
+
+## 2. Amendment to the Asylum (Procedures) Regulations 2007[^key-d5e7a435202dec0181876198ded0790f]
+
+(1) The Asylum (Procedures) Regulations 2007[^f00002] are amended as follows.
+
+(2) In regulation 5(1)(a) (Interpreters), omit “, 83 or 83A”[^f00003].
+
+## 3. Amendment to the Appeals (Excluded Decisions) Order 2009[^key-bc83233ff879732e8218e61ce991431f]
+
+(1) The Appeals (Excluded Decisions) Order 2009[^f00004] is amended as follows.
+
+(2) In article 3(m) (Excluded decisions), omit “, 83 or 83A”.
+
+## 4. Amendments to the UK Border Agency (Complaints and Misconduct) Regulations 2010[^key-2c8393aeb27976fbd1a59b872584c3e7]
+
+(1) The UK Border Agency (Complaints and Misconduct) Regulations 2010[^f00005] are amended as follows.
+
+(2) In regulation 2(1) (Interpretation)—
+
+- (a) omit the definition of “immigration decision”;
+- (b) at the appropriate points, insert—
+
+  > - “human rights claim” has the same meaning as in section 113 of the Nationality, Immigration and Asylum Act 2002[^f00006];
+
+  and
+
+  > - “protection status” and “protection claim” have the same meaning as in section 82(2) of the Nationality, Immigration and Asylum Act 2002[^f00007];
+
+  .
+
+(3) In regulation 2(3)(ii), for “asylum” substitute “a person’s protection or human rights claim, or to revoke a person’s protection status”.
+
+## 5. Saving provision[^key-05b11fcc5a9d6e95e4a75aaf4131c0e7]
+
+(1) In this article, “the Commencement Order” means the Immigration Act 2014 (Commencement No. 3, Transitional and Saving Provisions) Order 2014[^f00008].
+
+(2) Where the Secretary of State has made a decision to which article 9 of the Commencement Order applies and an appeal has been brought against that decision—
+
+- (a) regulation 5(1)(a) (Interpreters) of the Asylum (Procedures) Regulations 2007; and
+- (b) article 3(m) (Excluded decisions) of the Appeals (Excluded Decisions) Order 2009
+
+continue to have effect as if the references to sections 83 and 83A were not omitted.
+
+(3) Where the Secretary of State has made a decision to which article 9 of the Commencement Order applies, regulation 2(1) and (3)(i) and (ii) of the UK Border Agency (Complaints and Misconduct) Regulations 2010 continues to have effect as if the amendments made by article 4(2) and (3) had not been made.
+
+James Brokenshire
+
+Minister of State
+
+Home Office
+
+25th February 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes amendments to the Asylum (Procedures) Regulations 2007 ([S.I. 2007/3187](https://www.legislation.gov.uk/uksi/2007/3187)), the Appeals (Excluded Decisions) Order 2009 ([S.I. 2009/275](https://www.legislation.gov.uk/uksi/2009/275)) and the UK Border Agency (Complaints and Misconduct) Regulations 2010 ([S.I. 2010/782](https://www.legislation.gov.uk/uksi/2010/782)) which are consequential upon the amendments made by the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22) to the appeals provisions in the Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41).
+
+Articles 2, 3 and 4 of this Order do not have effect in so far as article 9 of the Immigration Act 2014 (Commencement No. 3, Transitional and Saving Provisions) Order 2014 ([S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771)) applies as set out in article 5.
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22). See section 73(4) for the definition of “enactment”.
+
+[^key-1ac61358e1115a9bc53af17cd44e825d]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/383/article/1) in force at 6.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/383/article/1)
+
+[^key-d5e7a435202dec0181876198ded0790f]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/383/article/2) in force at 6.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/383/article/1)
+
+[^f00002]: Footnote: [S.I. 2007/3187](https://www.legislation.gov.uk/uksi/2007/3187); amendments have been made to these Regulations but they are not relevant to this Order.
+
+[^f00003]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41); section 83 was amended by section 26 of the Asylum and Immigration Act 2004 and section 83A was inserted by section 1 of the Immigration, Asylum and Nationality Act 2006. Both sections are repealed by section 15(3) of the Immigration Act 2014, subject to transitional and saving provisions specified in the Immigration Act 2014 (Commencement No. 3, Transitional and Saving Provisions) Order 2014 ([S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771)), and as amended by the Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 ([S.I. 2015/371 (C.18)](https://www.legislation.gov.uk/uksi/2015/371)).
+
+[^key-bc83233ff879732e8218e61ce991431f]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/383/article/3) in force at 6.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/383/article/1)
+
+[^f00004]: Footnote: [S.I. 2009/275](https://www.legislation.gov.uk/uksi/2009/275); amended by [S.I. 2010/41](https://www.legislation.gov.uk/uksi/2010/41).
+
+[^key-2c8393aeb27976fbd1a59b872584c3e7]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/383/article/4) in force at 6.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/383/article/1)
+
+[^f00005]: Footnote: [S.I. 2010/782](https://www.legislation.gov.uk/uksi/2010/782).
+
+[^f00006]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41); the relevant part of section 113 was substituted by section 12(3) of the Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41) although this substitution has not come into force and was amended by Schedule 9 to the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22).
+
+[^f00007]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41); section 82 was amended by sections 26(2) and 31 of the Asylum and Immigration (Treatment of Claimants, etc) Act [2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), sections 2, 11 and 47(6) of the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), section 35(3) of the UK Borders Act [2007 (c. 30)](https://www.legislation.gov.uk/ukpga/2007/30) and substituted by section 15(2) of the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22).
+
+[^key-05b11fcc5a9d6e95e4a75aaf4131c0e7]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/383/article/5) in force at 6.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/383/article/1)
+
+[^f00008]: Footnote: [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771); this Order was amended by the Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 ([S.I. 2015/371 (C.18)](https://www.legislation.gov.uk/uksi/2015/371)).

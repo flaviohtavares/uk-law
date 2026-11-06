@@ -1,0 +1,79 @@
+---
+title: Finance Act 2005, section 37
+act: Finance Act 2005
+section: '37'
+status: revised
+text_date: '2025-03-21'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/7/section/37
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2005, section 37
+
+> Text as at 2025-03-21.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 37. Vulnerable person election
+
+*Extent: E+W+S+N.I.*
+
+(1) Where the trustees of a settlement[^key-29c8a90793469519d3ac88d52212ff39] hold property on trusts for the benefit of a person, the trustees and that person may jointly make a vulnerable person election in relation to those trusts and that person if—
+
+- (a) the person in relation to whom the election is made is a vulnerable person, and
+- (b) the trusts in relation to which the election is made are qualifying trusts.
+
+(2) A vulnerable person election is an election in such form as the Board of Inland Revenue may require—
+
+- (a) specifying the date from which it is to have effect (“**the effective date**”),
+- (b) made by notice to the Inland Revenue no later than 12 months after 31st January next following the tax year in which the effective date falls, or within such further time, if any, as the Board of Inland Revenue may by notice have allowed, and
+- (c) containing the items specified in subsection (3).
+
+(3) Those items are—
+
+- (a) such information as the Board of Inland Revenue may require, including in particular information relating to the trusts, the trustees, the vulnerable person and his entitlement under the trusts and any other person connected with the trusts,
+- (b) a statement that the trusts in relation to which the election is made are qualifying trusts,
+- (c) a declaration that all the information contained in the election is correct to the best of the knowledge and belief of the trustees and vulnerable person,
+- (d) a declaration by the vulnerable person that he authorises the trustees to make any claim under this Chapter for any tax year as they consider appropriate, and
+- (e) such other declarations as the Board of Inland Revenue may reasonably require.
+
+(4) A vulnerable person election is irrevocable.
+
+(5) A vulnerable person election has effect from the effective date until one of the following events occurs—
+
+- (a) the person in relation to whom the election is made ceases to be a vulnerable person,
+- (b) the trusts in relation to which the election is made cease to be qualifying trusts, and
+- (c) the trusts are terminated.
+
+(6) If the trustees become aware that an event mentioned in subsection (5) has occurred—
+
+- (a) they must inform the Inland Revenue that the vulnerable person election has ceased to have effect, and
+- (b) they must do so by giving notice containing particulars of the event within the period of 90 days beginning on the date on which they first become aware that the event has occurred.
+
+(7)[^key-c11db00423cf0dd33bf4f84a1e3b2740] Where—
+
+- (a) a vulnerable person election has effect in relation to qualifying trusts,
+- (b) the property held on those trusts is treated for the purposes of TCGA 1992 and of the Tax Acts as comprised in a sub-fund settlement, and
+- (c) the vulnerable person election was not made by the trustees of the sub-fund settlement,
+
+the vulnerable person election shall have effect, in relation to the trusts mentioned in paragraph (a), in respect of matters arising at or after the time when the sub-fund election is treated as having taken effect, as if it had been made by the trustees of the sub-fund settlement and the vulnerable person.
+
+(8) In relation to matters arising before the time when the sub-fund election is treated as having taken effect, nothing in subsection (7)—
+
+- (a) relieves the trustees of the settlement which is the principal settlement in relation to the sub-fund settlement of their obligation under subsection (6), or
+- (b) prevents a notice from being given to those trustees under section 40(1) or (3).
+
+(9) In this section—
+
+- (a) “**principal settlement**” has the meaning given by paragraph 1 of Schedule 4ZA to TCGA 1992,
+- (b) “**sub-fund election**” has the meaning given by paragraph 2 of that Schedule,
+- (c) “**sub-fund settlement**” has the meaning given by paragraph 1 of that Schedule, and
+- (d) the time when a sub-fund election is treated as having taken effect shall be the time when it is treated as having taken effect under paragraph 2 of that Schedule.
+
+## Annotations
+
+[^key-29c8a90793469519d3ac88d52212ff39]: Textual amendment: Words in s. 37(1) substituted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 13 para. 35(2)(d)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/35/2/d)[(7)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/35/7)
+
+[^key-c11db00423cf0dd33bf4f84a1e3b2740]: Textual amendment: S. 37(7)-(9) inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 48(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/48/4)[(5)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/48/5)

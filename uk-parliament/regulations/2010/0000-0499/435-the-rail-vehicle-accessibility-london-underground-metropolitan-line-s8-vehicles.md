@@ -1,0 +1,207 @@
+---
+title: The Rail Vehicle Accessibility (London Underground Metropolitan Line S8 Vehicles) Exemption Order 2010
+id: uksi/2010/435
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-02-23'
+text_date: '2013-09-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2010/435
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/435/pdfs/uksiem_20100435_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/435/pdfs/uksi_20100435_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/435/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Rail Vehicle Accessibility (London Underground Metropolitan Line S8 Vehicles) Exemption Order 2010
+
+> Text as at 2013-09-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2010 No. 435
+
+Disabled Persons
+
+Transport
+
+The Rail Vehicle Accessibility (London Underground Metropolitan Line S8 Vehicles) Exemption Order 2010
+
+Made
+
+23rd February 2010
+
+Coming into force
+
+24th February 2010
+
+The Secretary of State makes the following order in exercise of the powers conferred by sections 47(1), (1A), (3)(a) and (4) and 67(2) of the Disability Discrimination Act 1995[^f00001].
+
+In accordance with section 47(3) of that Act the Secretary of State has consulted the Disabled Persons Transport Advisory Committee[^f00002] and such other persons as the Secretary of State considers appropriate.
+
+In accordance with sections 67(5A) and 67A[^f00003] of that Act and regulation 5(1) of the Rail Vehicle Accessibility Exemption Orders (Parliamentary Procedures) Regulations 2008[^f00004], a draft of the Order has been laid before Parliament and approved by a resolution of each House of Parliament.[^key-b36f6e1e4565f068ec041f72cb236695]
+
+## 1. Citation and commencement[^key-83178a7f59e88b5785f64720e299b3f2]
+
+This Order may be cited as the Rail Vehicle Accessibility (London Underground Metropolitan Line S8 Vehicles) Exemption Order 2010 and shall come into force on the day after the day on which it is made.
+
+## 2. Interpretation[^key-14226319c55b41e3c4b6c138690d6ce7]
+
+(1) In this Order—
+
+- “exempt vehicle” means a rail vehicle of the type known as Metropolitan Line 2010 Tube Stock (S8) and with a number in the series 21001 to 21116, 22001 to 22116, 23057 to 23116, 24001 to 24116, an odd number in the series 23001 to 23055 or an even number in the series 25002 to 25056;
+- “Metropolitan Line” means the London Underground route between Aldgate and Amersham, Chesham, Watford and Uxbridge stations;
+- “MS exempt vehicle” means a rail vehicle of the type known as Metropolitan Line 2010 Tube Stock (S8) and with a number in the series 24001 to 24116;
+- “step-free access” means access from the station entrance to the platform level without the use of stairs or escalators;
+
+(2) In this Order, a reference to a numbered regulation is a reference to the regulation in the Rail Vehicle Accessibility Regulations 1998[^f00005].
+
+## 3. Exemptions relating to facilities for disabled persons[^key-2a51d89d9fae68f294eb2dff6e8c9e7e]
+
+Subject to articles 5 and 6, an exempt vehicle is authorised to be used for carriage on the Metropolitan Line even if it does not conform with, or it is used in a manner that does not conform with the requirements of—
+
+- (a) regulation 4(3)(b) (audible warning before door closes), but only in respect of the period of time for which the distinct sound should be emitted before the door starts to close;
+- (b) regulation 5(2) (control devices for doors), but only in respect of the period of time between the control device ceasing to be illuminated and the door starting to close;
+- (c) regulation 13(4) (passenger information when vehicle is stationary at a station), but only in so far as it applies to the systems inside the passenger saloon.
+
+## 4. Exemptions relating to facilities for disabled persons in wheelchairs[^key-146179000638edd3e902bb331b7e5554]
+
+Subject to article 5[^key-d64bfd2f84f33b735c0bbe7799ece5af] an MS exempt vehicle is authorised to be used for carriage on the Metropolitan Line even if it does not conform with, or it is used in a manner that does not conform with the requirements of—
+
+- (a) regulation 16(1)(b) and (d) (wheelchair space specifications);
+- (b)[^key-1fa4b978dec0be42c8ff5b9374e63b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Conditions[^key-6a3ace1de275cd5e1f21412e20292ace]
+
+(1) The exemption from regulation 4(3)(b) only applies if the audible warning device emits a distinct sound which is different from that emitted when the doors are opening and which commences at least 1.75 seconds before the door starts to close.
+
+(2) The exemption from regulation 5(2) only applies if the illumination of each control device ceases not less than 1.75 seconds before the door starts to close.
+
+(3) The exemption from regulation 13(4) only applies to a vehicle that is stationary at a station named in Schedule 2 and travelling in the direction indicated against its name and if—
+
+- (a) whilst the vehicle is stationary at a station named in that Schedule, the systems inside the passenger saloon are used to announce that the vehicle is a Metropolitan Line train and at least one of the following items of information—
+  - (i) the destination of the vehicle;
+  - (ii) the next stop;
+- (b) where under sub-paragraph 3(a) no announcement is made at a station as to the destination of a vehicle, that information is provided after leaving the station and before the vehicle stops at the next station;
+- (c) where under paragraph 3(a) no announcement is made at a station as to the next stop, that information is provided after leaving the station and before the vehicle stops at the next station.
+
+(4) The exemption from regulation 16(1) (b) and (d) only applies where a horizontal handrail is fitted above the wheelchair space and if it is fitted—
+
+- (a) with a clearance of at least 1950 millimetres between the bottom of the handrail and the floor;
+- (b) not more than 250 millimetres within the wheelchair space from the passenger gangway.
+
+## 6. Expiry[^key-fd370d72ec65c77143832d31b93bffdc]
+
+(1) The exemptions from regulations 4(3)(b), 5(2) and 13(4) expire at the end of 30th May 2015.
+
+(2)[^key-5088c0ace609423ab1f26d97b09cc150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Transport
+
+C. D. Mole
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+23rd February 2010
+
+## SCHEDULE 1[^key-ba7087b12d414c611f23cec4bb23d7a5]
+
+Articles 4(b) and 6(2)
+
+...
+
+## SCHEDULE 2[^key-6b1674523164c649a1be6bbb0f6cafad]
+
+Article 5(3)
+
+Stations and the direction of travel of a vehicle to which article 5(3) refers
+
+| Station | Direction of travel |
+| --- | --- |
+| Baker Street | Southbound |
+| Barbican | Northbound or Southbound |
+| Chalfont and Latimer | Southbound |
+| Chorleywood | Northbound or Southbound |
+| Croxley | Northbound or Southbound |
+| Great Portland Street | Northbound or Southbound |
+| Eastcote | Northbound or Southbound |
+| Euston Square | Northbound or Southbound |
+| Farringdon | Northbound or Southbound |
+| Hillingdon | Northbound or Southbound |
+| Ickenham | Northbound or Southbound |
+| Kings Cross | Northbound or Southbound |
+| Liverpool Street | Northbound |
+| Moorgate | Northbound or Southbound |
+| North Harrow | Northbound or Southbound |
+| Northwick Park | Northbound or Southbound |
+| Northwood | Northbound or Southbound |
+| Northwood Hills | Northbound or Southbound |
+| Pinner | Northbound or Southbound |
+| Preston Road | Northbound or Southbound |
+| Rickmansworth | Northbound or Southbound |
+| Ruislip | Northbound or Southbound |
+| Ruislip Manor | Northbound or Southbound |
+| West Harrow | Northbound or Southbound |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order exempts certain rail vehicles of the type S8 from the specified requirements of the Rail Vehicle Accessibility Regulations 1998 where the vehicles are used on the Metropolitan Line or at specified station platforms on the Metropolitan Line.
+
+The Order exempts the vehicles (*articles 3 and 4*) from requirements relating to:
+
+- (a) the length of the audible warning of doors closing;
+- (b) the period of time between when the door control device ceases to be illuminated and when the door starts to close;
+- (c) the information provided to passengers inside the passenger saloons whilst stationary;
+- (d) the permissible obstacles and fittings in wheelchair spaces; and
+- (e) the provision of boarding devices on station platforms where there is an excessive gap between the edge of the platform and the door sill of the rail vehicle.
+
+The exemptions are subject to conditions (*article 5*). Some of the exemptions are of limited duration (*article 6*). The exemptions from regulation 16(1)(b) and (d), and from regulation 23(1) in so far as it relates to the station platforms named in table 3 in Schedule 1, are without limitation of time but the Secretary of State may revoke them by Order.
+
+An impact assessment has not been produced for this instrument as no impact on the costs of business, the public sector, third sector organisations, regulators or consumers is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c.50](https://www.legislation.gov.uk/ukpga/1995/50). Section 47(1) and (1A) was substituted by section 6(3) of the Disability Discrimination Act [2005 (c.13)](https://www.legislation.gov.uk/ukpga/2005/13).
+
+[^f00002]: Footnote: The Disabled Persons Transport Advisory Committee was established under section 125 of the Transport Act [1985 (c.67)](https://www.legislation.gov.uk/ukpga/1985/67) and has a statutory duty to provide the Government with advice on the transport needs of disabled people.
+
+[^f00003]: Footnote: Section 67(5A) was inserted by Schedule 1, Part 1, paragraphs 1 and 33(1) and (5) of the Disability Discrimination Act 2005 and section 67A was inserted by section 6(4) of that Act.
+
+[^f00004]: Footnote: [S.I. 2008/2975](https://www.legislation.gov.uk/uksi/2008/2975).
+
+[^key-b36f6e1e4565f068ec041f72cb236695]: Modification: [Order](https://www.legislation.gov.uk/uksi/2010/435) continued under new enabling powers in 2010 c. 15 (1.10.2010 immediately after the commencement of S.I. 2010/2279) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [21](https://www.legislation.gov.uk/uksi/2010/2317/article/21), [Sch. 7](https://www.legislation.gov.uk/uksi/2010/2317/schedule/7)
+
+[^key-83178a7f59e88b5785f64720e299b3f2]: Commencement: Art. 1 in force at 24.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/435/article/1)
+
+[^key-14226319c55b41e3c4b6c138690d6ce7]: Commencement: Art. 2 in force at 24.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/435/article/1)
+
+[^f00005]: Footnote: [S.I 1998/2456](https://www.legislation.gov.uk/uksi/1998/2456).
+
+[^key-2a51d89d9fae68f294eb2dff6e8c9e7e]: Commencement: Art. 3 in force at 24.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/435/article/1)
+
+[^key-146179000638edd3e902bb331b7e5554]: Commencement: Art. 4 in force at 24.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/435/article/1)
+
+[^key-d64bfd2f84f33b735c0bbe7799ece5af]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2010/435/article/4) substituted (1.9.2013) by [The Rail Vehicle Accessibility (Non-Interoperable Rail System) (London Underground Metropolitan Line S8 Vehicles) (Boarding Devices) Exemption Order 2013 (S.I. 2013/1931)](https://www.legislation.gov.uk/uksi/2013/1931), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1931/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2013/1931/article/4/a)
+
+[^key-1fa4b978dec0be42c8ff5b9374e63b8b]: Textual amendment: [Art. 4(b)](https://www.legislation.gov.uk/uksi/2010/435/article/4/b) omitted (1.9.2013) by virtue of [The Rail Vehicle Accessibility (Non-Interoperable Rail System) (London Underground Metropolitan Line S8 Vehicles) (Boarding Devices) Exemption Order 2013 (S.I. 2013/1931)](https://www.legislation.gov.uk/uksi/2013/1931), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1931/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2013/1931/article/4/b)
+
+[^key-6a3ace1de275cd5e1f21412e20292ace]: Commencement: Art. 5 in force at 24.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/435/article/1)
+
+[^key-fd370d72ec65c77143832d31b93bffdc]: Commencement: Art. 6 in force at 24.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/435/article/1)
+
+[^key-5088c0ace609423ab1f26d97b09cc150]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/uksi/2010/435/article/6/2) omitted (1.9.2013) by virtue of [The Rail Vehicle Accessibility (Non-Interoperable Rail System) (London Underground Metropolitan Line S8 Vehicles) (Boarding Devices) Exemption Order 2013 (S.I. 2013/1931)](https://www.legislation.gov.uk/uksi/2013/1931), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1931/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2013/1931/article/4/b)
+
+[^key-ba7087b12d414c611f23cec4bb23d7a5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/435/schedule/1) omitted (1.9.2013) by virtue of [The Rail Vehicle Accessibility (Non-Interoperable Rail System) (London Underground Metropolitan Line S8 Vehicles) (Boarding Devices) Exemption Order 2013 (S.I. 2013/1931)](https://www.legislation.gov.uk/uksi/2013/1931), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1931/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2013/1931/article/4/b)
+
+[^key-6b1674523164c649a1be6bbb0f6cafad]: Commencement: Sch. 2 in force at 24.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/435/article/1)

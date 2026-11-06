@@ -1,0 +1,42 @@
+---
+title: European Union (Withdrawal Agreement) Act 2020, section 20
+act: European Union (Withdrawal Agreement) Act 2020
+section: '20'
+status: revised
+text_date: '2024-02-20'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2020/1/section/20
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# European Union (Withdrawal Agreement) Act 2020, section 20
+
+> Text as at 2024-02-20.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 20. Financial provision
+
+*Extent: E+W+S+N.I.*
+
+(1) Any sum that is required to be paid to the EU or an EU entity to meet any obligation that the United Kingdom has by virtue of the withdrawal agreement is to be charged on and paid out of the Consolidated Fund or, if the Treasury so decides, the National Loans Fund.
+
+(2) After 31 March 2021, subsection (1) does not apply in relation to any expenditure other than sums required to be paid in respect of the traditional own resources of the EU.
+
+(3) Any money received by a Minister of the Crown or a government department by virtue of the withdrawal agreement is to be paid into the Consolidated Fund or, if the Treasury so decides, the National Loans Fund.
+
+(4) A Minister of the Crown, government department or devolved authority may incur expenditure, for the purpose of, or in connection with, preparing for anything about which provision may be made under a power to make subordinate legislation conferred or modified by or under this Act, before any such provision is made.
+
+(5) There is to be paid out of money provided by Parliament—
+
+- (a) any expenditure in relation to which subsection (1) does not apply which is incurred by a Minister of the Crown, government department or other public authority by virtue of this Act, and
+- (b) any increase attributable to this Act in the sums payable by virtue of any other Act out of money so provided.
+
+(6) Subsections (1), (3) and (5) are subject to any other provision made by or under this Act or any other enactment.
+
+(7) In this section—
+
+- “**EU entity**” means an EU institution or any office, body or agency of the EU;
+- “**government department**” means any department of the Government of the United Kingdom;
+- “**the traditional own resources of the EU**” means the EU's traditional own resources referred to in Article 2(1)(a) of the Council Decision of 26 May 2014 on the system of own resources of the European Union (2014/335/EU, Euratom).

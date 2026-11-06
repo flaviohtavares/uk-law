@@ -1,0 +1,86 @@
+---
+title: The Upper Spey and Associated Waters Protection (Renewal) Order 1993
+id: uksi/1993/3216
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1993-12-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1993/3216
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1993/3216/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Upper Spey and Associated Waters Protection (Renewal) Order 1993
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1993 No. 3216 (S.311)
+
+RIVER, SCOTLAND
+
+SALMON AND FRESHWATER FISHERIES
+
+The Upper Spey and Associated Waters Protection (Renewal) Order 1993
+
+Made
+
+20th December 1993
+
+Coming into force
+
+6th January 1994
+
+The Secretary of State, having received no complaints concerning the implementation of proposals, in exercise of the powers conferred on him by section 1(7) of the Freshwater and Salmon Fisheries (Scotland) Act 1976[^f00001] and of all other powers enabling him in that behalf, hereby makes the following renewal Order:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Upper Spey and Associated Waters Protection (Renewal) Order 1993 and shall come into force on 6th January 1994.
+
+## 2. Interpretation
+
+In this Order–
+
+- “the 1982 Order” means the Upper Spey and Associated Waters Protection Order 1982[^f00002]; and
+- “the 1991 Order” means the Upper Spey and Associated Waters Protection (Renewal) Order 1991[^f00003].
+
+## 3. Renewal of Order
+
+The 1991 Order is hereby renewed.
+
+## 4. Prohibition
+
+During the period from 6th January 1994 to 6th October 1996, both dates inclusive, fishing for or taking freshwater fish in the inland waters in the area prescribed in article 4 of the 1982 Order, without legal right or without written permission from a person having such a right, is hereby prohibited.
+
+D R Dickson
+
+Assistant Secretary, Scottish Office
+
+Pentland House,
+
+Edinburgh
+
+20th December 1993
+
+(This note is not part of the Order)
+
+This Order has the effect of renewing for a fourth time the protection first granted by the Upper Spey and Associated Waters Protection Order 1982 which prohibited fishing for or taking freshwater fish in inland waters in the area prescribed in that Order without legal right or without written permission from someone having such a right. The effect of the renewal is that the prohibition applies during the period from 6th January 1994 to 6th October 1996.
+
+The prescribed area referred to is those parts of the catchment areas of the Rivers Spey, Spean and Tummel lying within Highland and Tayside Regions. The area is defined by reference to a large scale map which may be inspected at the Scottish Office Agriculture and Fisheries Department, Pentland House, Robb’s Loan, Edinburgh on any working day between 10.00am and 4.00pm.
+
+The map annexed to and forming part of this note gives a general guide to the boundaries of the prescribed area.
+
+[image: see source](https://www.legislation.gov.uk/uksi/1993/3216/images/uksi_19933216_en_001)
+
+## Annotations
+
+[^f00001]: Footnote: [1976 c. 22](https://www.legislation.gov.uk/ukpga/1976/22).
+
+[^f00002]: Footnote: S.I. [1982/377](https://www.legislation.gov.uk/uksi/1982/377).
+
+[^f00003]: Footnote: S.I. [1991/215](https://www.legislation.gov.uk/uksi/1991/215).

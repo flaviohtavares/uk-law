@@ -1,0 +1,61 @@
+---
+title: Local Democracy, Economic Development and Construction Act 2009, section 62
+act: Local Democracy, Economic Development and Construction Act 2009
+section: '62'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2009/20/section/62
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Democracy, Economic Development and Construction Act 2009, section 62
+
+> **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 62. Transfer schemes
+
+*Extent: E+W*
+
+(1) For the purpose of the exercise of functions conferred on the Local Government Boundary Commission for England by or under this Part, the Electoral Commission must make one or more schemes for the transfer of property, rights and liabilities from the Electoral Commission to the Local Government Boundary Commission for England.
+
+(2) The Electoral Commission may not make a scheme under this section—
+
+- (a) without consulting the Secretary of State;
+- (b) without the consent of the Electoral Commission's Boundary Committee.
+
+(3) If the Electoral Commission and the Electoral Commission's Boundary Committee fail to agree on the provision to be included in a scheme under this section, the Secretary of State may by order specify the provision to be included in the scheme.
+
+(4) A scheme under this section must be made on or before—
+
+- (a) 31 December 2009, or
+- (b) such later date as the Secretary of State may by order specify.
+
+(5) A transfer under a scheme under this section has effect in accordance with the terms of the scheme.
+
+(6) A transfer under a scheme under this section may have effect—
+
+- (a) whether or not the property, rights and liabilities would otherwise be capable of being transferred;
+- (b) without any instrument or other formality being required.
+
+(7) The rights and liabilities which may be transferred by a scheme under this section include rights and liabilities in relation to a contract of employment.
+
+(8) The Transfer of Undertakings (Protection of Employment) Regulations 2006 (SI 2006/246) apply to the transfer under a scheme under this section (whether or not the transfer is a relevant transfer for the purposes of those regulations).
+
+(9) A scheme under this section may define the property, rights and liabilities to be transferred by specifying or describing them.
+
+(10) A scheme under this section may include supplementary, incidental, transitional and consequential provision and may in particular—
+
+- (a) make provision for the continuing effect of things done by the Electoral Commission in relation to anything transferred by the scheme;
+- (b) make provision for the continuation of things (including legal proceedings) in the process of being done, by or on behalf of or in relation to the Electoral Commission in relation to anything transferred by the scheme;
+- (c) make provision for references to the Electoral Commission in an agreement (whether written or not), instrument or other document in relation to anything transferred by the scheme to be treated (so far as necessary for the purposes of or in consequence of the transfer) as references to the Local Government Boundary Commission for England;
+- (d) make provision for the shared ownership or use of any property or facilities.
+
+(11) Where a scheme has been made under this section, the Electoral Commission and the Local Government Boundary Commission for England may (subject to any order under this section) agree in writing to modify the scheme; and any such modification is to have effect as from the date the original scheme came into effect.
+
+(12) An order under this section is to be made by statutory instrument.
+
+(13) A statutory instrument containing an order under this section is subject to annulment in pursuance of a resolution of either House of Parliament.

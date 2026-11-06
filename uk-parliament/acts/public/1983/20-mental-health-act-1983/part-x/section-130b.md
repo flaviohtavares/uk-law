@@ -1,0 +1,67 @@
+---
+title: Mental Health Act 1983, section 130B
+act: Mental Health Act 1983
+section: 130B
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1983/20/section/130B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Mental Health Act 1983, section 130B
+
+> **Warning: changes not yet applied to this text (398).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/20
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 130B. Arrangements under section 130A[^c20370262]
+
+*Extent: E+W*
+
+(1) The help available to a qualifying patient under arrangements under section 130A above shall include help in obtaining information about and understanding—
+
+- (a) the provisions of this Act by virtue of which he is a qualifying patient;
+- (b) any conditions or restrictions to which he is subject by virtue of this Act;
+- (c) what (if any) medical treatment is given to him or is proposed or discussed in his case;
+- (d) why it is given, proposed or discussed;
+- (e) the authority under which it is, or would be, given; and
+- (f) the requirements of this Act which apply, or would apply, in connection with the giving of the treatment to him.
+
+(2) The help available under the arrangements to a qualifying patient shall also include—
+
+- (a) help in obtaining information about and understanding any rights which may be exercised under this Act by or in relation to him; and
+- (b) help (by way of representation or otherwise) in exercising those rights.
+
+(3) For the purpose of providing help to a patient in accordance with the arrangements, an independent mental health advocate may—
+
+- (a) visit and interview the patient in private;
+- (b) visit and interview any person who is professionally concerned with his medical treatment;
+- (c) require the production of and inspect any records relating to his detention or treatment in any hospital or registered establishment or to any after-care services provided for him under section 117 above;
+- (d) require the production of and inspect any records of, or held by, a local social services authority which relate to him.
+
+(4) But an independent mental health advocate is not entitled to the production of, or to inspect, records in reliance on subsection (3)(c) or (d) above unless—
+
+- (a) in a case where the patient has capacity or is competent to consent, he does consent; or
+- (b) in any other case, the production or inspection would not conflict with a decision made by a donee or deputy or the Court of Protection and the person holding the records, having regard to such matters as may be prescribed in regulations under section 130A above, considers that—
+  - (i) the records may be relevant to the help to be provided by the advocate; and
+  - (ii) the production or inspection is appropriate.
+
+(5) For the purpose of providing help to a patient in accordance with the arrangements, an independent mental health advocate shall comply with any reasonable request made to him by any of the following for him to visit and interview the patient—
+
+- (a) the person (if any) appearing to the advocate to be the patient's nearest relative;
+- (b) the responsible clinician for the purposes of this Act;
+- (c) an approved mental health professional.
+
+(6) But nothing in this Act prevents the patient from declining to be provided with help under the arrangements.
+
+(7) In subsection (4) above—
+
+- (a) the reference to a patient who has capacity is to be read in accordance with the Mental Capacity Act 2005;
+- (b) the reference to a donee is to a donee of a lasting power of attorney (within the meaning of section 9 of that Act) created by the patient, where the donee is acting within the scope of his authority and in accordance with that Act;
+- (c) the reference to a deputy is to a deputy appointed for the patient by the Court of Protection under section 16 of that Act, where the deputy is acting within the scope of his authority and in accordance with that Act.
+
+## Annotations
+
+[^c20370262]: Textual amendment: Ss. 130A-130D inserted (1.4.2008 for ss. 130A, 130C for certain purposes, otherwise 3.11.2008 for W. and 1.4.2009 for E.) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2007/12/section/30/2), [56](https://www.legislation.gov.uk/ukpga/2007/12/section/56) (with [Sch. 10](https://www.legislation.gov.uk/ukpga/2007/12/schedule/10)); [S.I. 2008/745](https://www.legislation.gov.uk/uksi/2008/745), [arts. 2(b)(i)](https://www.legislation.gov.uk/uksi/2008/745/article/2/b/i), [3(d)](https://www.legislation.gov.uk/uksi/2008/745/article/3/d): [S.I. 2008/2561](https://www.legislation.gov.uk/uksi/2008/2561), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2561/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2561/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/2561/schedule)); [S.I. 2009/139](https://www.legislation.gov.uk/uksi/2009/139), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/139/article/2/a)

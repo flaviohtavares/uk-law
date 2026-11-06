@@ -1,0 +1,486 @@
+---
+title: The Dual-Use and Related Goods (Export Control) Regulations 1996
+id: uksi/1996/2721
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1996-10-25'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1996/2721
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/2721/made/data.pdf
+pending_changes: 23
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Dual-Use and Related Goods (Export Control) Regulations 1996
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1996 No. 2721
+
+CUSTOMS AND EXCISE
+
+The Dual-Use and Related Goods (Export Control) Regulations 1996
+
+Made
+
+25th October 1996
+
+Laid before Parliament
+
+28th October 1996
+
+Coming into force
+
+15th November 1996
+
+The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the control of the export of goods and measures relating to trade in dual-use goods, in the exercise of the powers conferred on him by that section, hereby makes the following Regulations:
+
+## 1. Citation, commencement and revocation
+
+(1) These Regulations may be cited as the Dual-Use and Related Goods (Export Control) Regulations 1996 and shall come into force on 15th November 1996.
+
+(2) The Regulations specified in Schedule 1 hereto are hereby revoked.
+
+## 2. Interpretation
+
+In these Regulations, unless the context otherwise requires—
+
+- “aircraft” means a fixed wing, swivel wing, rotary wing (helicopter), tilt rotor or tilt wing airborne vehicle;
+- “the Commissioners” means the Commissioners of Customs and Excise;
+- “Community Licence” means an authorisation granted under the Regulation by a competent authority for the export of dual-use goods from the European Community;
+- “competent authority” means the Secretary of State or any other competent authority empowered by a Member State to grant export authorisations for dual-use goods under the Regulation;
+- “country” includes territory;
+- “the Decision” means Council Decision No. 94/942/CFSP of 19 December 1994 on the joint action adopted by the Council of the European Union on the basis of Article J.3 of the Treaty on European Union concerning the control of exports of dual-use goods[^f00003], amended by Council Decision No. 96/613/CFSP[^f00004];
+- “dual-use goods” has the same meaning as in the Regulation;
+- “export” means export from the United Kingdom, and “exporter” and other cognate expressions shall be construed accordingly;
+- “goods” means both used and unused goods;
+- “import” and “export” in relation to a vessel, submersible vehicle or aircraft includes the taking into or out of the United Kingdom of the vessel, submersible vehicle or aircraft notwithstanding that the vessel, submersible vehicle or aircraft is conveying goods or passengers, and whether or not it is moving under its own power; and cognate expressions shall be construed accordingly;
+- “Member State” means a Member State of the European Community;
+- “normal commercial journey” means a journey providing transport services in the ordinary course of business;
+- “proper” shall have the same meaning as in the Customs and Excise Management Act 1979[^f00005];
+- “the Regulation” means Council Regulation [(EC) No. 3381/94](https://www.legislation.gov.uk/european/regulation/1994/3381) of 19 December 1994 setting up a Community regime for the control of exports of dual-use goods[^f00006];
+- “scheduled journey” means one of a series of journeys which are undertaken between the same two places and which together amount to a systematic service operated in such manner that the benefits thereof are available to members of the public from time to time seeking to take advantage of it;
+- “surface effect vehicle” means any air cushion vehicle (whether side wall or skirted) and any vehicle using the wing-in-ground effect for positive lift;
+- “vessel” includes any ship, surface effect vehicle, vessel of small waterplane area or hydrofoil, and the hull or part of the hull of a vessel.
+
+## 3. Granting and Revocation etc of Licences
+
+(1) The Secretary of State may—
+
+- (a) grant licences and Community Licences, and
+- (b) give notice for the purposes of Article 4 of the Regulation.
+
+(2) Any licence or Community Licence granted by the Secretary of State in pursuance of these Regulations or having effect as if so granted may be either general or special, may be limited so as to expire on a specified date unless renewed and may be varied or revoked by the Secretary of State.
+
+(3) Any licence or Community Licence referred to in paragraph (2) above may be subject to or without conditions and any such condition may require or prohibit any act before or after the exportation of goods under that licence.
+
+## 4. Dual-Use and Related Goods
+
+(1) A Community Licence shall be the authorisation required by—
+
+- (a) Article 3 of the Regulation for the export from the European Community of all goods of a description specified in Annex I to the Decision, and
+- (b) Article 4(1) of the Regulation for the export from the European Community, in the circumstances therein described, of dual-use goods not of a description specified in Annex I to the Decision; and a licence granted by the Secretary of State shall be the authorisation required by Articles 19(1)(b) and 21 of the Regulation for the export to another Member State of goods specified in Annex IV to the Decision.
+
+(2) Subject to the provisions of these Regulations—
+
+- (a) goods of a description specified in Schedule 2 hereto are prohibited to be exported as therein provided;
+- (b) goods other than dual-use goods which—
+  - (i) the exporter (or, if the exporter is not within the United Kingdom, any agent of his within the United Kingdom concerned in the exportation or intended exportation) has been informed by a competent authority are or may be intended, wholly or in part, to be used in connection with the development, production, handling, operation, maintenance, storage, detection, identification or dissemination of chemical, biological or nuclear weapons or the development, production, maintenance or storage of missiles capable of delivering such weapons, or
+  - (ii) the exporter knows are intended, wholly or in part, to be used in connection with one of the activities referred to in sub-paragraph (i) above, or
+  - (iii) the exporter has grounds for suspecting might be used, wholly or in part, in connection with an activity referred to in sub-paragraph (i) above unless he has made all reasonable enquiries as to their proposed use and satisfied himself that they will not be so used, are prohibited to be exported to any destination;
+- (c) dual-use goods which the exporter has grounds for suspecting might be used, wholly or in part, in connection with an activity referred to in sub-paragraph (b)(i) above, unless he has made all reasonable enquiries as to their proposed use and satisfied himself that they will not be so used, are prohibited to be exported to any destination not in a Member State; and
+- (d) the following goods are prohibited to be exported to a destination in a Member State:
+  - (i) all goods specified in Schedule 3 hereto; and
+  - (ii) any—
+    - (aa) goods of a description specified in Annex I to the Decision or Schedule 2 hereto, or
+    - (bb) dual-use goods which are not of a description specified in Annex I to the Decision but for the export of which from the European Community an authorisation is required in accordance with Article 4(1) of the Regulation, in respect of which in either case the exporter knows at the time of export that the final destination of those goods is outside the European Community and no processing or working is to be performed on those goods in any Member State to which they are exported; and in this sub-paragraph, “processing or working” has the same meaning as in Article 24 of Council Regulation [(EEC) No. 2913/92](https://www.legislation.gov.uk/european/regulation/1992/2913) establishing the Community Customs Code[^f00007].
+
+(3) Subject to the provisions of these Regulations, paragraph (2) above does not prohibit the export of any goods in relation to which a licence has been granted by the Secretary of State provided that all conditions attaching to the said licence are complied with.
+
+(4) Any dual-use goods which are not of a description specified in Annex I to the Decision, in relation to which a Community licence has not been granted and which are brought to any place in the United Kingdom for the purpose of being exported to a destination outside the European Community, not being goods which pass only through the territory of the Community within the meaning of Article 3(3) of the Regulation, may be detained by the proper officer of Customs and Excise as if they were liable to forfeiture if and so long as he has reason to believe that the appropriate authorities (after, if necessary, having had the impending exportation brought to their attention) might inform the exporter (within the meaning of the Regulation) as provided in Article 4(1) of the Regulation.
+
+(5) Any goods, other than dual-use goods, in relation to which a licence has not been granted and which are brought to any place in the United Kingdom for the purpose of being exported may be detained by the proper officer of Customs and Excise as if they were liable to forfeiture if and so long as he has reason to believe that a competent authority (after, if necessary, having had the impending exportation brought to its attention) might inform the exporter (or his agent, as the case may be) as provided in paragraph (2)(b)(i) above.
+
+(6) Where either—
+
+- (a) a Community licence has been granted by a competent authority in another member state for the export of any goods to any destination outside the European Community, or
+- (b) goods of which the exporter (within the meaning of the Regulation) is established in a member state other than the United Kingdom but not in the United Kingdom are or have been detained under paragraph (4) above, the Secretary of State may give notice to the proper officer of Customs and Excise that he considers that export of the goods would be contrary to the essential foreign policy or security interests or to the fulfilment of the international obligations or commitments of the United Kingdom; and in such a case, subject to any rights arising out of the second sub-paragraph of Article 10(4) of the Regulation (goods to be put at disposal of exporter), and notwithstanding, in a case falling within sub-paragraph (a) above, the grant of the licence therein referred to, such export is prohibited.
+
+(7) Any goods of a description specified in Annex I to the Decision in relation to which a Community Licence has been granted which are brought to any place in the United Kingdom for the purpose of being exported to a destination outside the European Community may be detained by the proper officer of Customs and Excise for a period of ten working days as if they were liable to forfeiture where the proper officer of Customs and Excise or the Secretary of State has grounds for suspicion that—
+
+- (a) relevant information was not taken into account when the authorisation was granted; or
+- (b) circumstances have materially changed since the issue of the authorisation.
+
+## 5. Exceptions
+
+Nothing in these Regulations shall prohibit the export of:
+
+Aircraft
+
+- (a)
+  - (i) any aircraft which is being exported after temporary import into the United Kingdom provided that there has been no change in ownership or registration since such import;
+  - (ii) any aircraft on a scheduled journey;
+
+Vessels
+
+- (b)
+  - (i) any vessel registered or constructed outside the United Kingdom which is being exported after temporary import into the United Kingdom;
+  - (ii) any vessel which is departing temporarily from the United Kingdom on trials;
+  - (iii) any vessel proceeding on a normal commercial journey.
+
+## 6. Customs powers to demand evidence of destination which goods reach
+
+Any exporter of goods shall, if so required by the Commissioners, furnish within such time as they may allow proof to their satisfaction that the goods have reached either—
+
+- (a) a destination to which they were authorised to be exported by a licence granted for the purposes of these Regulations, or
+- (b) a destination to which their export was not prohibited by these Regulations, and, if he fails to do so, he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale unless he proves that he did not consent to or connive at the goods reaching any destination other than such a destination as aforesaid.
+
+## 7. Misleading applications for licences etc.
+
+For the purposes of obtaining any licence from the Secretary of State or any Community Licence from any competent authority no person shall—
+
+- (a) make a statement or furnish any document or information which to his knowledge is false in a material particular, or
+- (b) recklessly make any statement or furnish any document or information which is false in a material particular; and any licence or Community Licence which may have been granted by the Secretary of State in connection with the application for which the false statement was made or the false document or information was furnished shall be void as from the time it was granted.
+
+## 8. Failure to comply with licence conditions
+
+(1) Subject to paragraph (2) below, any person who—
+
+- (a) has exported goods from the United Kingdom or from the European Community under the authority of a licence or Community Licence, as the case may be, granted by the Secretary of State, or from the European Community under the authority of a Community Licence sought by or on behalf of a person in, or established in, the United Kingdom, and
+- (b) fails to comply with any condition attaching to that licence or Community Licence as the case may be, shall be guilty of an offence and liable—
+  - (i) on summary conviction to a fine not exceeding the statutory maximum, and
+  - (ii) on conviction on indictment to a fine or imprisonment for a term not exceeding 2 years, or to both.
+
+(2) No person shall be guilty of an offence under paragraph (1) above where he proves—
+
+- (a) that the condition with which he failed to comply was modified, otherwise than with his consent—
+  - (i) in the case of a licence, by the Secretary of State, or
+  - (ii) in the case of a Community Licence, by the Secretary of State or other competent authority who granted that Community Licence; and
+- (b) that the goods in relation to which he failed to comply with the condition had, at the time the condition was modified, been exported from the United Kingdom in the case of a licence or from the European Community in a case of a Community Licence.
+
+## 9. Registration with the Secretary of State
+
+(1) Before or within 30 days after the first export of any goods from the United Kingdom or from the European Community by a person under the authority of any licence or Community Licence, as the case may be, granted by the Secretary of State that does not provide otherwise, that person shall give written notice to the Secretary of State of the following particulars:
+
+- (a) the name of the person; and
+- (b) the address at which copies of the records referred to in regulation 10 below may be inspected by any person authorised by the Secretary of State or the Commissioners under regulation 10.
+
+(2) After any change in any of the said particulars, before or within 30 days after the first export from the United Kingdom or the European Community, as the case may be, of any goods under the authority of any such licence that does not provide otherwise, the said person shall give written notice to the Secretary of State of that change.
+
+(3) Any notice to be given by a person under paragraph (1) or (2) above may be given by the agent of that person and shall be sent by post or delivered to the Secretary of State at the Export Control Compliance Unit, DTI, Kingsgate House, 66-74 Victoria Street, London SWIE 6SW.
+
+(4) Paragraph (3) above shall apply for the provision of details to the competent authorities in accordance with Article 19(2) of the Regulation; and paragraph (2) above shall apply in respect of any change in any of those details as it applies in respect of any change in any of the particulars of which notice is given in accordance with paragraph (1) above.
+
+## 10. Record keeping and inspection
+
+(1) Any person established in the United Kingdom who exports any goods from the European Community under the authority of a Community Licence shall maintain records in relation to each such export that contain the following information:
+
+- (a) a description of the goods,
+- (b) the quantity of the goods,
+- (c) his name and address,
+- (d) the name and address of any consignee of the goods,
+- (e) in so far as it is known to him, the end-use of the goods and the name and address of the end-user,
+- (f) any further information required by the Community Licence to be kept;
+
+and any such records shall be kept for at least 3 years from the end of the calendar year in which the export took place, and he shall permit any such records to be inspected, and copied, by any person authorised by the Secretary of State or the Commissioners.
+
+(2) Any person who has been granted a Community Licence under these Regulations in relation to the export from the European Community of any goods shall, upon request in writing by the Secretary of State or the Commissioners, produce any documents or other records he may hold that relate to his application for that Community Licence; and any such documents or records shall be kept for at least 3 years from the end of the calendar year in which such application was made, and he shall permit any such documents or records to be inspected, and copied, by any person authorised by the Secretary of State or the Commissioners.
+
+(3) Any person authorised by the Secretary of State or the Commissioners shall, on producing, if required to do so, a duly authenticated document showing his authority, have the right at all reasonable hours to enter the premises for the purpose of paragraph (1) above the address of which has most recently been notified to the Secretary of State under regulation 9 above, or, for the purpose of paragraph (2) above, any address notified for this purpose by the exporter to a competent authority when applying for a licence.
+
+(4) Where any documents or records referred to in paragraph (1) or (2) above are kept in a form which is not legible the exporter shall at the request of the person authorised by the Secretary of State or the Commissioners, as the case may be, reproduce such documents or records in a legible form.
+
+(5) The documents and records to be kept in accordance with Article 19(2) of the Regulation shall be the records referred to in paragraph (1) above; and paragraphs (3) and (4) above and the provision in paragraph (1) above relating to inspection and copying shall apply for the production of such documents and records to the competent authorities in accordance with the said Article 19(2) as they apply in respect of records referred to in paragraph (1) above or (as the case may be) in respect of entry into premises for the purpose of paragraph (1) above.
+
+## 11. Penalties for failure to comply with these Regulations
+
+(1) Any person who contravenes a prohibition in regulation 4(2) or (6) above shall be guilty of an offence under these Regulations and may be arrested, and for these purposes section 68(2) of the Customs and Excise Management Act 1979 shall not apply.
+
+(2) A person guilty of an offence under paragraph (1) above shall be liable—
+
+- (a) on conviction on indictment to a fine or imprisonment for a term not exceeding 2 years, or to both; or
+- (b) on summary conviction to a fine not exceeding the statutory maximum.
+
+(3) Any person who fails to comply with regulation 7, 9 or 10 above or Article 4(2) or 19(1)(a) or (2) of the Regulation shall be guilty of an offence under these Regulations and shall be liable—
+
+- (a) on conviction on indictment to a fine or imprisonment for a term not exceeding 2 years, or to both; or
+- (b) on summary conviction to a fine not exceeding the statutory maximum.
+
+(4) In England and Wales, subsection (2) of section 24 of the Police and Criminal Evidence Act 1984[^f00008] shall apply to the offence in paragraph (1) above (which is not an arrestable offence by virtue of the term of imprisonment for which a person may be sentenced in respect of it) as if it was mentioned in that subsection; and accordingly such offence shall be an arrestable offence within the meaning of that Act.
+
+(5) In Northern Ireland, paragraph (2) of Article 26 of the Police and Criminal Evidence (Northern Ireland) Order 1989[^f00009] shall apply to the offence in paragraph (1) above (which is not an arrestable offence by virtue of the term of imprisonment for which a person may be sentenced in respect of it) as if it was mentioned in that paragraph; and accordingly such offence shall be an arrestable offence within the meaning of that Order.
+
+## 12. Customs and Excise
+
+(1) Section 138 of the Customs and Excise Management Act 1979 (provision as to arrest of persons) shall apply to the arrest of any person for any offence under regulation 11 above in the event of contravention of regulation 4(2) or (6) above as it applies to arrest of any person for any offence under the customs and excise Acts.
+
+(2) Sections 145 to 148 and 150 to 155 of the Customs and Excise Management Act 1979[^f00010] (proceedings for offences, mitigation of penalties, proof and other matters) shall apply in relation to offences and penalties under these Regulations and proceedings for such offences above as they apply in relation to offences and penalties and proceedings for offences under the customs and excise Acts.
+
+(3) Nothing in subsections (1) to (4) of section 145 of the said Act (institution of proceedings for offences under the customs and excise Acts to be by order of the Commissioners) shall prevent the institution of proceedings by the Secretary of State for an offence of failing to comply with regulation 7, 8, 9 or 10 of these Regulations.
+
+(4) In this regulation, “customs and excise Acts” has the same meaning as in section 1 of the said Act.
+
+## 13. Goods in transit
+
+(1) In this regulation and regulation 14 below, “goods in transit” means—
+
+- (a) goods which pass only through the territory of the Community within the meaning of Article 3(3) of the Regulation, and
+- (b) goods being exported to another Member State which are not being dispatched from the United Kingdom to that other Member State within the meaning of Articles 19 and 20 of the Regulation.
+
+(2) Regulation 4(2)(a) and (d) of these Regulations shall not apply in respect of goods in transit.
+
+(3) Regulation 4(2)(b) and (5) of these Regulations shall apply in respect of dual-use goods which are goods in transit as they apply in respect of goods other than dual-use goods.
+
+## 14. Exclusion and modification of the Export of Goods (Control) Order 1994
+
+The Export of Goods (Control) Order 1994[^f00011] shall not apply in respect of the export of dual-use goods or goods of a description specified in Schedule 2 to these Regulations, other than the export of goods in transit, and in respect of goods in transit shall have effect as if Part III of Schedule 1 thereto included Annex I to the Decision and Schedule 2 hereto.
+
+## 15. Transitional
+
+Any licence or Community licence granted by the Secretary of State under the Regulations specified in Schedule 1 hereto or which has effect as if so granted and which (in either case) is in force immediately before 15th November 1996 shall have effect as if granted under regulation 3(1)(a) of these Regulations.
+
+Anthony Nelson
+
+Minister for TradeDepartment of Trade and Industry
+
+25th October 1996
+
+## SCHEDULE 1 — REGULATIONS REVOKED
+
+Regulations 1(2), 15
+
+- Dual-Use and Related Goods (Export Control) Regulations 1995 (S.I. [1995/271](https://www.legislation.gov.uk/uksi/1995/271)).
+- Dual-Use and Related Goods (Export Control) (Suspension) Regulations 1995 (S.I. [1995/441](https://www.legislation.gov.uk/uksi/1995/441)).
+- Dual-Use and Related Goods (Export Control) (Suspension No. 2) Regulations 1995 (S.I. [1995/1151](https://www.legislation.gov.uk/uksi/1995/1151)).
+- Dual-Use and Related Goods (Export Control) (Amendment) Regulations 1995 (S.I. [1995/1424](https://www.legislation.gov.uk/uksi/1995/1424)).
+- Dual-Use and Related Goods (Export Control) (Amendment No. 2) Regulations 1995 (S.I. [1995/3298](https://www.legislation.gov.uk/uksi/1995/3298)).
+- Dual-Use and Related Goods (Export Control) (Amendment) Regulations 1996 (S.I. [1996/1124](https://www.legislation.gov.uk/uksi/1996/1124)).
+- Dual-Use and Related Goods (Export Control) (Amendment No. 2) Regulations 1996 (S.I. [1996/1736](https://www.legislation.gov.uk/uksi/1996/1736)).
+
+## SCHEDULE 2 — PROHIBITED GOODS — ANY DESTINATION
+
+Regulations 4(2)(a), (d)(ii)(aa), 14
+
+### 1. Interpretations, exclusions and definitions
+
+Where notes are included in any entry of this Schedule they are to be treated as part of the entry.
+
+**2.** “Software” described by the General Software Note in Annex I to the “Decision” is not specified in this Schedule.
+
+**3.** References in this Schedule to the General Technology Note are to that Note in Annex I to the “Decision”; and “according to the General Technology Note” means that these Regulations apply to the extent indicated in the General Technology Note.
+
+**4.** For convenience only, defined terms are printed in quotation marks.
+
+**5.** In this Schedule:
+
+- “Annex I” means Annex I to the “Decision”;
+- “basic scientific research” means experimental or theoretical work undertaken principally to acquire new knowledge of the fundamental principles of phenomena or observable facts and not primarily directed towards a specific practical aim or objective;
+- “development” means any activity or phase prior to production and may include or relate to design, design research, design analysis, design concepts, design data, assembly and testing of prototypes, pilot production schemes, the process of transforming design data into a product, configuration design, integration design or layout;
+- “improvised explosive devices” means devices fabricated or intended to be placed in an improvised manner incorporating destructive, lethal, noxious, pyrotechnic or incendiary chemicals, designed to destroy, disfigure or harass; they may incorporate military stores, but are normally devised from non-military components;
+- “microprogramme” means a sequence of elementary instructions, maintained in a special storage, the execution of which is initiated by the introduction of a reference instruction into an instruction register;
+- “production” includes all production phases, including construction, production engineering, manufacture, integration, assembly (which includes mounting), inspection, testing and quality assurance;
+- “production equipment” means tooling, templates, jigs, mandrels, moulds, dies, fixtures, alignment mechanisms, test equipment, other machinery and components therefor, limited to those specially designed or modified for “development” or for one or more phases of “production”;
+- “production facilities” means equipment and specially designed software therefor integrated into installations for “development” or for one or more phases of “production”;
+- “programme” means a sequence of instructions to carry out a process in, or convertible into, a form executable by an electronic computer;
+- “required”, as applied to “technology” means only that portion of “technology” which is peculiarly responsible for achieving or exceeding the specified performance levels, characteristics or functions; such “required”“technology” may be shared by different “goods” and is specified in this Schedule whether or not the “technology” being exported in the particular case is intended to be applied in respect of “goods” specified in this Schedule;
+- “software” means one or more programmes or microprogrammes fixed in any tangible medium of expression;
+- “technology” means technology as defined in Annex I to the “Decision” in a tangible form;
+- “use” means operation, installation (which includes on-site installation), maintenance, checking, repair, overhaul and refurbishing.
+
+  **CATEGORY 1 — MATERIALS, CHEMICALS, MICROORGANISMS & TOXINS**
+
+  <table>
+  <thead>
+  <tr><th><em>1B</em></th></tr>
+  <tr><th>Test, Inspection and Production Equipment.</th></tr>
+  </thead>
+  <tbody>
+  <tr><td>1B915</td><td>The export of goods specified in this entry is prohibited to any destination except to Member States.<br>Equipment for the “production”, handling and acceptance testing of “goods” specified in entries 1C011.a, 1C011.b and 1C111 of “Annex I” or in entries ML8a.1., ML8a.2., ML8a.3., ML8a. 5., ML8a.6., ML8a.7., ML8a.18., ML8a.19., ML8a.20., ML8d., ML8e.10., ML8e.11., ML8e.18., ML8e.22., ML8e.29., ML8e.32., ML8e.39. and ML8e.41 in Group I of Part III of Schedule 1 to the Export of Goods (Control) Order 1994, except equipment described in entry ML18a of that Group, and specially designed components therefor.<br><em>Notes:</em><br>1. The only mixers specified in this entry are those which have provision for mixing under vacuum in the range of zero to 13.326 kPa and with temperature control capability of the mixing chamber:<br>(a) batch mixers having a total volumetric capacity of 110 litres or more and at least one mixing/kneading shaft mounted off centre;<br>(b) continuous mixers having two or more mixing/kneading shafts and capability to open the mixing chamber.<br>2. This entry includes fluid energy mills capable of processing ammonium perchlorate, cyclotetramethylene-tetranitramine (HMX) or cyclotrimethylene-trinitramine (RDX).<br>3. This entry does not include “goods” specified in entry 1B115 of “Annex I”.</td></tr>
+  </tbody>
+  </table>
+
+  <table>
+  <thead>
+  <tr><th><em>1C</em></th></tr>
+  <tr><th>Materials.</th></tr>
+  </thead>
+  <tbody>
+  <tr><td>1C950</td><td>The export of goods specified in this entry is prohibited to any destination except to member States.<br>Mixtures containing any of the chemicals specified in entry 1C350 of “Annex I”.<br><em>Except:</em><br>Mixtures which include any of the controlled chemicals, which:<br>1. are put up for retail sale and intended for individual personal use or consumption; or<br>2. contain the chemical in such a way that it cannot be easily recovered by standard processes.</td></tr>
+  <tr><td>1C991</td><td>The export of goods specified in this entry is prohibited to any destination.<br>Other explosives and propellants and related substances as follows:<br>a. Amatol;<br>b. Nitrocellulose (containing more than 12.5% nitrogen);<br>c. Nitroglycol;<br>d. Pentaerythritol tetranitrate (PETN);<br>e. Picryl chloride;<br>f. Trinitrophenylmethylnitramine (tetryl);<br>g. 2, 4, 6-Trinitotoluene (TNT);</td></tr>
+  <tr><td>1C992</td><td>The export of goods specified in this entry is prohibited to any destination.<br>Vaccines for protection against either of the following:<br>a. bacillus anthracis; or<br>b. botulinum toxin.</td></tr>
+  </tbody>
+  </table>
+
+  <table>
+  <thead>
+  <tr><th><em>1E</em></th></tr>
+  <tr><th>Technology.</th></tr>
+  </thead>
+  <tbody>
+  <tr><td>1E915</td><td>The export of goods specified in this entry is prohibited to any destinations except to Member States.<br>“Technology” according to the General Technology Note for the “development”, “production” or “use” of equipment specified in entry 1B915 of this Schedule.</td></tr>
+  <tr><td>1E950</td><td>The export of goods specified in this entry is prohibited to any destination except to Member States.<br>“Technology”“required” for the “development” or “production” of mixtures specified in entry 1C950 of this Schedule.</td></tr>
+  </tbody>
+  </table>
+
+  **CATEGORY 3 —ELECTRONICS**
+
+  <table>
+  <thead>
+  <tr><th><em>3A</em></th></tr>
+  <tr><th>Equipment, Assemblies and Components.</th></tr>
+  </thead>
+  <tbody>
+  <tr><td>3A990</td><td>The export of goods specified in this entry is prohibited to any destination.<br>Apparatus or devices, other than those specified in entry PL5006 of Group 1 of Part III of Schedule 1 to the Export of Goods (Control) Order 1994 or entries 3A229 to 3A232 of “Annex I” designed for the handling, control, discharging, decoying, jamming, detonation, disruption or detection of explosive devices or “improvised explosive devices”;<br><em>except:</em><br>inspection devices not employing electronic management;<br>X-ray apparatus or devices. For controls on X-ray apparatus or devices see “Annex I”.</td></tr>
+  </tbody>
+  </table>
+
+  <table>
+  <thead>
+  <tr><th><em>3E</em></th></tr>
+  <tr><th>Technology.</th></tr>
+  </thead>
+  <tbody>
+  <tr><td>3E990</td><td>The export of goods in this entry is prohibited to any destination.<br>“Technology”“required” for the “use” of “goods” specified in entry 3A990 of this Schedule.</td></tr>
+  </tbody>
+  </table>
+
+  **CATEGORY 5—TELECOMMUNICATIONS AND INFORMATION SECURITY**
+
+  <table>
+  <thead>
+  <tr><th><em>Part 1</em></th></tr>
+  <tr><th>Telecommunications.</th></tr>
+  </thead>
+  <tbody>
+  <tr><td></td><td></td></tr>
+  </tbody>
+  </table>
+
+  | *5A1* |  |
+  | --- | --- |
+  | Equipment, Assemblies and Components. |  |
+  | 5A990 | The export of goods in this entry is prohibited to any destinations in Iran, Iraq or Libya.<br>Tropospheric scatter communication equipment using analogue or digital modulation techniques and specially designed components therefor. |
+  | 5E990 | The export of goods specified in this entry is prohibited to any destination in Iran, Iraq or Libya.<br>- “Technology”“required” for the “development”, “production” or “use” of “goods” specified in entry 5A990 of this Schedule. |
+
+  **CATEGORY 8 — MARINE**
+
+  <table>
+  <thead>
+  <tr><th><em>8A</em></th></tr>
+  <tr><th>Equipment, Assemblies and Components.</th></tr>
+  </thead>
+  <tbody>
+  <tr><td>8A990</td><td>The export of goods specified in this entry is prohibited to any destination in Iran or Iraq.<br>Vessels, other than those specified in entry 8A001 of “Annex I”, as follows, and specially designed components therefor:<br>a. vessels having special structural features for landing personnel and/or vehicles on a beach;<br>b. vessels capable of supporting helicopter operations and maintenance;<br>c. vessels capable of submerging;<br>d. Vessels, not elsewhere specified in this Schedule or in “Annex I”, with a gross tonnage below 100 including inflatable craft in an inflated or uninflated state;<br><em>except:</em><br>light vessels, fire floats and dredgers.</td></tr>
+  <tr><td>8E990</td><td>The export of goods specified in this entry is prohibited to any destination in Iran or Iraq.<br>“Technology”“required” for the “development”, “production” or “use” of “goods” specified in entry 8A990.</td></tr>
+  </tbody>
+  </table>
+
+  **CATEGORY 9—AIRCRAFT, SPACE VEHICLES, PROPULSION SYSTEMSAND RELATED EQUIPMENT**
+
+  <table>
+  <thead>
+  <tr><th><em>9A</em></th></tr>
+  <tr><th>Equipment, Assemblies and Components.</th></tr>
+  </thead>
+  <tbody>
+  <tr><td>9A905</td><td>The export of goods specified in this entry is prohibited to any destination except to Member States.<br>Liquid-propellant rocket engines usable in complete rocket systems capable of a range of at least 300 km, other than those specified in entries 9A005 and 9A105 of “Annex I” having a total impulse capacity of 0.841 MNs or greater.<br>NB: SEE ALSO 9A919 OF THIS SCHEDULE AND 9A119 OF “ANNEX I”.</td></tr>
+  <tr><td>9A907</td><td>The export of goods specified in this entry is prohibited to any destination except to Member States.<br>Solid-propellant rocket engines, usable in complete rocket systems capable of a range of at least 300 km, other than those specified in entries 9A007 and 9A107 of “Annex I”, having a total impulse capacity of 0.841 MNs or greater.<br>NB: SEE ALSO 9A919 IN THIS SCHEDULE AND 9A119 OF “ANNEX I”.</td></tr>
+  <tr><td>9A919</td><td>The export of goods specified in this entry is prohibited to any destination except to Member States.<br>Individual rocket stages as follows:<br>(a) usable in complete rocket systems capable of a range of at least 300 km, but not specified in entry 9A119 of “Annex I”;<br>(b) incorporating “goods” specified in entry 9A905 or 9A907 of this Schedule; or<br>(c) incorporating hybrid rocket motors, usable in complete rocket systems capable of a range of at least 300 km, other than those specified in entry 9A109 of “Annex I” having a total impulse capacity of 0.841 MNs or greater.<br><em>Note:</em> This entry does not include “goods” specified in entry 9A119 of “Annex I”.</td></tr>
+  <tr><td>9A990</td><td>The export of goods specified in this entry is prohibited to any destination in Iran, Iraq or Libya.<br>“Aircraft” having a maximum all up weight of 390 kg or more, and aeroengines, and equipment or components designed therefor, other than those specified elsewhere in this Schedule and “Annex I”.</td></tr>
+  <tr><td>9A991</td><td>The export of goods specified in this entry is prohibited to any destination except to Member States.<br>“Aircraft” or steerable parachutes other than those specified in entry ML10 of Group 1 of Part III of Schedule 1 to the Export of Goods (Control) Order 1994, having a maximum all up weight of not more than 390 kg.</td></tr>
+  <tr><td>9A993</td><td>The export of goods specified in this entry is prohibited to any destination in Libya.</td></tr>
+  <tr><td></td><td>Equipment for simulating or modelling any function of any “aircraft” or any part of any “aircraft”, specially designed components and specially designed accessories therefor.</td></tr>
+  </tbody>
+  </table>
+
+  <table>
+  <thead>
+  <tr><th><em>9B</em></th></tr>
+  <tr><th>Test, Inspection and Production Equipment.</th></tr>
+  </thead>
+  <tbody>
+  <tr><td>9B915</td><td>The export of goods specified in this entry is prohibited to any destination except to Member States.<br>Specially designed “production equipment” for the systems, sub-systems and components specified in entries 9A905, 9A907 and 9A919 of this Schedule.<br><em>Note:</em> This entry does not include “goods” specified in entry 9B115 of “Annex I”.</td></tr>
+  <tr><td>9B916</td><td>The export of goods specified in this entry is prohibited to any destination except to Member States.<br>Specially designed “production facilities” for the systems, sub-systems, and components specified in entries 9A905, 9A907 and 9A919 of this Schedule.<br><em>Note:</em> This entry does not include “goods” specified in entry 9B116 of “Annex I”.</td></tr>
+  </tbody>
+  </table>
+
+  <table>
+  <thead>
+  <tr><th><em>9D</em></th></tr>
+  <tr><th>Software.</th></tr>
+  </thead>
+  <tbody>
+  <tr><td>9D901</td><td>The export of goods specified in this entry is prohibited to any destination except to Member States.<br>“Software” specially designed for the “use” of “goods” specified in entry 9B916 of this Schedule.<br><em>Note:</em> This entry does not include “goods” specified in entry 9D101 of “Annex I”.</td></tr>
+  <tr><td>9D993</td><td>The export of goods specified in this entry is prohibited to any destination in Libya.<br>“Software” specially designed or modified for the “use” of “goods” specified in entry 9A993 of this Schedule.</td></tr>
+  </tbody>
+  </table>
+
+  <table>
+  <thead>
+  <tr><th><em>9E</em></th></tr>
+  <tr><th>Technology.</th></tr>
+  </thead>
+  <tbody>
+  <tr><td>9E901</td><td>The export of goods specified in this entry is prohibited to any destination except to Member States.<br>“Technology” according to the General Technology Note for the “development” of equipment or “software” specified in entries 9A905, 9A907, 9A919, 9B915, 9B916 and 9D901 of this Schedule.<br><em>Note:</em> This entry does not include “goods” specified in entries 9E001 and 9E101 of “Annex I”.</td></tr>
+  <tr><td>9E902</td><td>The export of goods specified in this entry is prohibited to any destination except to Member States.<br>“Technology” according to the General Technology Note for the “production” of equipment or “software” specified in entries 9A905, 9A907, 9A919, 9B915, 9B916 and 9D901 of this Schedule.<br><em>Note:</em> This entry does not include “goods” specified in entries 9E002 and 9E101 of “Annex I”.</td></tr>
+  <tr><td>9E903</td><td>The export of goods specified in this entry is prohibited to any destination except to Member States.<br>“Technology” according to the General Technology Note for the “use” of equipment or “software” specified in entries 9A905, 9A907, 9A919, 9B915, 9B916 and 9D901 of this Schedule.<br><em>Note:</em> This entry does not include “goods” specified in entry 9E102 of “Annex I”.</td></tr>
+  <tr><td>9E990</td><td>The export of goods specified in this entry is prohibited to any destination in Iran, Iraq or Libya.<br>“Technology”“required” for the “development”, “production” or “use” of equipment or “software” specified in entry 9A990 of this Schedule.</td></tr>
+  <tr><td>9E991</td><td>The export of goods specified in this entry is prohibited to any destination except to Member States.<br>“Technology”“required” for the “development”, “production” or “use” of equipment or “software” specified in entry 9A991 of this Schedule.</td></tr>
+  <tr><td>9E993</td><td>The export of goods specified in this entry is prohibited to any destination in Libya.<br>“Technology”“required” for the “development”, “production” or “use” of equipment or “software” specified in entry 9A993 of this Schedule.</td></tr>
+  </tbody>
+  </table>
+
+## SCHEDULE 3 — PROHIBITED GOODS—MEMBER STATES ONLY
+
+Regulation 4(2)(d)(i)
+
+|  |  |
+| --- | --- |
+| NOTE: | The goods in this Schedule are fully specified in Annex I to the Decision. |
+| 1C239 | High Explosives |
+| 3A229 | Electric detonators, firing sets and high-current pulse generators |
+| 3A232 | Detonators and multipoint initiation systems. |
+
+(This note is not part of the Regulations)
+
+These Regulations revoke and replace the Dual-Use and Related Goods (Export Control) Regulations 1995, as amended. They give effect to certain provisions of Council Regulation [(EC) No. 3381/94](https://www.legislation.gov.uk/european/regulation/1994/3381) on the control of exports of dual-use goods, and make certain additional provisions relating to the export of dual-use goods.
+
+The changes of significance from the 1995 Regulations are—
+
+- (a) Annexes I and IV to Council Decision No 94/942/CFSP on the control of exports of dual-use goods, as amended by Council Decision No. 96/613/CFSP, which are referred to in the Council Regulation and in these Regulations, are not reproduced as Schedules to these Regulations (they were reproduced as Schedules 1 and 2 to the 1995 Regulations);
+- (b) dual-use goods which the exporter has grounds for suspecting might be used for purposes connected with weapons of mass destruction are no longer prohibited to be exported to other Member States of the European Community (their export outside the Community is prohibited by regulation 4(2)(c), and their export to another Member State for further export outside the Community can be prohibited under Article 4(1) of the Council Regulation and regulation 4(2)(d) of these Regulations);
+- (c) the obligation to keep and produce documents relating to export licence applications contained in regulation 10(2) of the 1995 Regulations is limited in regulation 10(2) of these Regulations to documents relating to applications for Community Licences (that is, authorisations required by the Council Regulation); and
+- (d) separate licences are required for the export of technology in entries 1E950, 9E990, 9E991 and 9E993 as they are already required for the export of technology in entries 3E990, 5E990 and 8E990.
+
+A number of consequential and drafting amendments of no substance have been made.
+
+Copies of the issue of the Official Journal of the European Communities which contains the current version of Annexes I and IV to the Council Decision (O.J. No. L.278, 30.10.96) can be obtained from HMSO.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1983/1706](https://www.legislation.gov.uk/uksi/1983/1706) and [1994/2791](https://www.legislation.gov.uk/uksi/1994/2791).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: O.J. No. L367, 31.12.94, p. 8.
+
+[^f00004]: Footnote: O.J. No. L278, 30.10.96.
+
+[^f00005]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
+
+[^f00006]: Footnote: O.J. No. L367, 31.12.94, p. 1.
+
+[^f00007]: Footnote: O.J. No. L302, 19.10.92, p 1.
+
+[^f00008]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
+
+[^f00009]: Footnote: S.I. [1989/1341 (N.I.12)](https://www.legislation.gov.uk/nisi/1989/1341).
+
+[^f00010]: Footnote: Section 145(6) was amended by the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60), section 114(1); section 146(1) was modified by S.I. [1990/2167](https://www.legislation.gov.uk/uksi/1990/2167); section 146A was inserted by the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), section 16(1) and (4); section 147(1) was repealed by the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), section 16(2) and (4), section 187(1) and Schedule 17, Part I; section 147(2) was amended by the Magistrates' Courts Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), section 154 and Schedule 7, paragraph 176; section 147(5) was repealed by the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), section 77 and Schedule 14, paragraph 42 and section 78 and Schedule 16; section 148 was extended by S.I. [1993/1813](https://www.legislation.gov.uk/uksi/1993/1813); section 151 was amended by the Magistrates' Courts Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), section 154 and Schedule 7, paragraph 177; section 153(4) was inserted by the Finance Act [1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), section 11(1) and Schedule 8, Part I, paragraph 9; section 154(2) was modified by S.I. [1990/2167](https://www.legislation.gov.uk/uksi/1990/2167).
+
+[^f00011]: Footnote: S.I. [1994/1191](https://www.legislation.gov.uk/uksi/1994/1191); the relevant amending instruments are S.I. [1994/2711](https://www.legislation.gov.uk/uksi/1994/2711), [1995/3060](https://www.legislation.gov.uk/uksi/1995/3060) and [3249](https://www.legislation.gov.uk/uksi/1995/3249) and [1996/1341](https://www.legislation.gov.uk/uksi/1996/1341) and [2663](https://www.legislation.gov.uk/uksi/1996/2663).

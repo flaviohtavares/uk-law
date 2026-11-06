@@ -1,0 +1,899 @@
+---
+title: The Enterprise Act 2002 (Insolvency) Order 2003
+id: uksi/2003/2096
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-08-08'
+text_date: '2016-08-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2003/2096
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/2096/pdfs/uksi_20032096_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/2096/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Enterprise Act 2002 (Insolvency) Order 2003
+
+> Text as at 2016-08-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2003 No. 2096
+
+INSOLVENCY
+
+COMPANIES
+
+INDIVIDUALS
+
+The Enterprise Act 2002 (Insolvency) Order 2003
+
+Made
+
+8th August 2003
+
+Laid before Parliament
+
+13th August 2003
+
+Coming into force
+
+15th September 2003
+
+The Secretary of State, in exercise of the powers conferred upon her by sections 248(4) and 277 of the Enterprise Act 2002[^f00001] hereby makes the following Order:—
+
+## 1. Citation, commencement and interpretation[^key-26fc409ea775111cbe4cb6ad1deb4685]
+
+(1) This Order may be cited as the Enterprise Act 2002 (Insolvency) Order 2003 and shall come into force on 15th September 2003.
+
+(2) In this Order “the Act” means the Enterprise Act 2002.
+
+## 2. Amendments to Schedule 16 to the Act[^key-2e181aff9b9442e3fefd5e853c23bc54]
+
+(1) Schedule 16 to the Act (Schedule B1 to the Insolvency Act 1986[^f00002]) is amended as follows.
+
+(2) At the end of paragraph 12 (administration application) add—
+
+> (5) Sub-paragraph (1) is without prejudice to section 7(4)(b).
+
+.
+
+(3) In paragraph 43 (moratorium on other legal process) after sub-paragraph (6) insert—
+
+> (6A) An administrative receiver of the company may not be appointed.
+
+.
+
+(4) In paragraph 87(2)(b) (resignation of administrator) for “person who appointed him” substitute “holder of the floating charge by virtue of which the appointment was made”.
+
+(5) In paragraph 89(2)(b) (administrator ceasing to be qualified) for “person who appointed him” substitute “holder of the floating charge by virtue of which the appointment was made”.
+
+## 3. Amendment to Schedule 19 to the Act[^key-0e92e8abe3a4290e919a28229b8cf275]
+
+In paragraph 4(1) of Schedule 19 to the Act (duration of bankruptcy: transitional provisions) after “A pre-commencement bankrupt is” insert “, subject to sub-paragraphs (2) and (3),”.
+
+## 4. Consequential amendments to primary legislation[^key-d1b7f064dbda723f2513670833a11f1f]
+
+Subject to Article 6, the amendments to the primary legislation set out in Part 1 of the Schedule to this Order shall have effect.
+
+## 5. Consequential amendments to secondary legislation[^key-09a763b6ef9d15cb5c4fd60ae1fa241e]
+
+Subject to Article 6, the amendments to the secondary legislation set out in Part 2 of the Schedule to this Order shall have effect.
+
+## 6. Transitional provisions[^key-1ddf8c889359aa462469ee0eb68987ab]
+
+Nothing in Articles 4 or 5 or the Schedule to this Order shall apply in any case where a petition for an administration order was presented before the date mentioned in Article 1(1).
+
+Nigel Griffiths,
+
+Parliamentary Under-Secretary of State for Small Business and Enterprise,
+
+Department of Trade and Industry
+
+8th August 2003
+
+## SCHEDULE
+
+Articles 4 and 5
+
+### PART 1 — PRIMARY LEGISLATION
+
+#### THIRD PARTIES (RIGHTS AGAINST INSURERS) ACT 1930
+
+**1.**[^key-f344e3fdeb0126d3719e73279d411b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-f344e3fdeb0126d3719e73279d411b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-f344e3fdeb0126d3719e73279d411b84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### PUBLIC PASSENGER VEHICLES ACT 1981
+
+**4.**[^key-ac9220a3d87fc36cbcd85487e457497d] In section 19(3)(a) of the Public Passenger Vehicles Act 1981[^f00004] (duty to inform traffic commissioners of relevant convictions etc) for “the making of an administration order under Part II of the Insolvency Act 1986 in relation to” substitute “the entry into administration of”.
+
+#### ADMINISTRATION OF JUSTICE ACT 1985
+
+**5.**[^key-ab7ba6630f83cf1dc368400f0d588dbc] The Administration of Justice Act 1985[^f00005] shall be amended as follows.
+
+**6.**[^key-9dd8682d7d2aecac59bac87c47a78b85] In Schedule 2 (incorporated practices: supplementary provisions)—
+
+- (a) in paragraph 30(c) for “making of an administration order under Part II of the Insolvency Act 1985” substitute “appointment of an administrator under Schedule B1 to the Insolvency Act 1986”, and
+- (b) in paragraph 32(1)(c)—
+  - (i) omit “, or an administration order under Part II of the Insolvency Act 1985,”, and
+  - (ii) at the end add “or a recognised body has entered administration”.
+
+**7.**[^key-c657aa89e2c6eafa8ab208dbd3ee95e2] In Schedule 6 (bodies recognised under s.32: supplementary provisions), in paragraph 10(1)(c)—
+
+- (a) omit “, or an administration order under Part II of the Insolvency Act 1985,”, and
+- (b) at the end add “or a recognised body has entered administration”.
+
+#### INSOLVENCY ACT 1986
+
+**8.**[^key-abd79b0090f132b0b24358efb644c85f] The Insolvency Act 1986 is amended as follows.
+
+**9.**[^key-76a989159c2a53aca9da0a80a3eed645] In section 62(6) (cessation of appointment of receiver)—
+
+- (a) for “an administration order” substitute “the company is in administration,”, and
+- (b) omit “is in force”.
+
+**10.**[^key-b4ea8c9c687f13bc1cba9332c113d9c1] After section 84(2) (voluntary winding up) insert—
+
+> (2A) Before a company passes a resolution for voluntary winding up it must give written notice of the resolution to the holder of any qualifying floating charge to which section 72A applies.
+>
+> (2B) Where notice is given under subsection (2A) a resolution for voluntary winding up may be passed only—
+>
+> - (a) after the end of the period of five business days beginning with the day on which the notice was given, or
+> - (b) if the person to whom the notice was given has consented in writing to the passing of the resolution.
+
+.
+
+**11.**[^key-77538482522052cc9f536be1ba8a8734] In section 422 (recognised banks etc.) omit subsection (1A) as inserted by Article 16(4) of the Financial Services and Markets Act 2000 (Consequential Amendments) Order 2002[^f00006].
+
+#### COMPANY DIRECTORS DISQUALIFICATION ACT 1986
+
+**12.**[^key-eace33cc822fd9db4b44c20e4e76d893] In Part II of Schedule 1 to the Company Directors Disqualification Act 1986[^f00007] (matters for determining unfitness of directors) in paragraph 10(a) for “section 22” substitute “paragraph 47 of Schedule B1”.
+
+#### DEBTORS (SCOTLAND) ACT 1987
+
+**13.**[^key-41d0c477262ee5ff3c5c2053e90f921f] In section 93 of the Debtors (Scotland) Act 1987[^f00008] (recovery from debtor of expenses of certain diligences)—
+
+- (a) in subsection (4)(c) after “Part II of” insert “, or the appointment of an administrator under paragraph 14 or 22 of Schedule B1 to,”, and
+- (b) in subsection (5)(b) for “administration order” substitute “administration”.
+
+#### ROAD TRAFFIC ACT 1988
+
+**14.**[^key-c6c71937bd131696bae7d8a8d8bfecf6] In section 153(2)(c)(i) of the Road Traffic Act 1988[^f00009] (bankruptcy etc of insured or secured persons not to affect claims by third parties)—
+
+- (a) omit “or an administration order”, and
+- (b) at the end add “or the company enters administration”.
+
+#### INCOME AND CORPORATION TAXES ACT 1988
+
+**15.**[^key-edb38af39b89f9ab2b073049c36e6d76] The Income and Corporation Taxes Act 1988[^f00010] shall be amended as follows.
+
+**16.**[^key-18be706b92b55cc766f04bbbb7767a4f] In section 289A(8A) (form of relief) in paragraph (a) for “the making of the order in question” substitute “the entry into administration or receivership”.
+
+**17.**[^key-d47ec8652875618eae63b1119c0b2778] In section 293(4B) (qualifying companies) in paragraph (a) for “the making of the order in question” substitute “the entry into administration or receivership”.
+
+**18.**[^key-3fc5880bc7f1719fcc38b36bad9caccc] For paragraph (a) of section 312(2A) (interpretation of Chapter III) substitute—
+
+> - (a) references to a company being “in administration” are to a company being in administration within the meaning of Schedule B1 to the Insolvency Act 1986, or to there being in force in relation to it—
+>   - (i) an administration order under Part III of the Insolvency (Northern Ireland) Order 1989, or
+>   - (ii) any corresponding order under the law of a country or territory outside the United Kingdom;
+
+.
+
+**19.**[^key-40f1fb87f0288419882a6ca2168f177e] In paragraph 11A of Schedule 28B (venture capital trusts: meaning of “qualifying holdings”)—
+
+- (a) for sub-paragraph (2)(a) substitute—
+
+  > - (a) a company is “in administration” if it is in administration within the meaning of Schedule B1 to the Insolvency Act 1986, or there is in force in relation to it—
+  >   - (i) an administration order under Part III of the Insolvency (Northern Ireland) Order 1989, or
+  >   - (ii) any corresponding order under the law of a country or territory outside the United Kingdom;
+
+  , and
+- (b) in sub-paragraph (3)(a) for “the making of the order in question” substitute “the entry into administration or receivership”.
+
+#### LEASEHOLD REFORM, HOUSING AND URBAN DEVELOPMENT ACT 1983
+
+**20.**[^key-51e2a23bd62e03b81899d1e2dbe33465] In section 29(4A) of the Leasehold Reform, Housing and Urban Development Act 1993[^f00011] (deemed withdrawal of initial notice)—
+
+- (a) in paragraph (a) omit “or an administration order”, and
+- (b) at the end add “or the RTE company enters administration,”.
+
+#### NATIONAL LOTTERY ETC ACT 1993
+
+**21.**[^key-1bae458139b566bcc8f2e6bc547d8eca] In Part I of Schedule 3 to the National Lottery etc Act 1993[^f00012] (revocation of licences: discretionary grounds) in paragraph 3—
+
+- (a) in sub-paragraph (2) omit “for an administration order to be made in respect of the licensee or”, and
+- (b) after sub-paragraph (4) insert—
+
+  > (5) An administration application has been made or a notice of intention to appoint an administrator or a notice of an appointment of an administrator under paragraph 14 or 22 of Schedule B1 to the Insolvency Act [1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45) has been filed.
+
+  .
+
+#### PENSION SCHEMES ACT 1993
+
+**22.**[^key-06ac436ed8b753ecfab52315144f9374] In section 123 of the Pension Schemes Act 1993[^f00013] (interpretation of Chapter II)—
+
+- (a) in subsection (1)(c)(i)—
+  - (i) omit “or an administration order”, and
+  - (ii) at the end add “or the company enters administration”, and
+- (b) in subsection (2)(c)(i)—
+  - (i) omit “or an administration order”, and
+  - (ii) at the end add “or the company enters administration”.
+
+#### FINANCE ACT 1994
+
+**23.**[^key-11b58b8dc2341396ee058d67a4654617] In section 62(5) of the Finance Act 1994[^f00014] (partnership, bankruptcy, transfer of business etc) for “in relation to which an administration order is in force” substitute “administration”.
+
+#### VALUE ADDED TAX ACT 1994
+
+**24.**[^key-22c7dec59a82f1eae5dc70471960ae5b] The Value Added Tax Act 1994[^f00015] shall be amended as follows.
+
+**25.**[^key-e9e42d250a153fd154a11f9d983d2cff] In section 46(5) (business carried on in divisions or by unincorporated bodies, personal representatives etc) for “to an administration order being in force in relation to it” substitute “administration”.
+
+**26.**[^key-2a7fa0d4769a63b83ce63d1796e53d9d] In section 81 (interest given by way of credit and set-off of credits)—
+
+- (a) in subsection (4B) for paragraph (a) substitute—
+
+  > - (a) when a bankruptcy order or winding-up order or award of sequestration is made or an administrator is appointed in relation to that person;
+
+  , and
+- (b) in subsection (4C)—
+  - (i) in paragraph (a) omit “, administration order”,
+  - (ii) in paragraph (a) after “sequestration” insert “or the appointment of an administrator”, and
+  - (iii) for paragraph (b)(i) substitute—
+
+    > - (i) immediately upon the appointment of an administrator in respect of the person ceasing to have effect;
+
+    .
+
+#### FINANCE ACT 1996
+
+**27.**[^key-bd3276c03f3c12bf8d763e756a76dab6] The Finance Act 1996[^f00016] shall be amended as follows.
+
+**28.**[^key-b43dfd72ce203cda0fc8c11e89ad72ca] In section 58(4) (partnership, bankruptcy, transfer of business, etc) for “in relation to which an administration order is in force” substitute “administration”.
+
+**29.**[^key-2406e09e406f6327088cd93d2edef1c8] In paragraph 6A of Schedule 9 (loan relationships: special computational provisions)—
+
+- (a) in sub-paragraph (1)(b)—
+  - (i) at the beginning insert “that company has entered administration or”, and
+  - (ii) omit “Part 2 of the Insolvency Act 1986 or”, and
+- (b) in sub-paragraph (2)(b) after “at a time when” insert “the company is in administration or”.
+
+#### HOUSING GRANTS, CONSTRUCTION AND REGENERATION ACT 1996
+
+**30.**[^key-00fa4b220af166c1671824a853b4a371] In section 113(2) of the Housing Grants, Construction and Regeneration Act 1996[^f00017] (prohibition of conditional payment provisions) for paragraph (a) substitute—
+
+> - (a) when it enters administration within the meaning of Schedule B1 to the Insolvency Act 1986,
+
+.
+
+#### FINANCE ACT 2000
+
+**31.**[^key-6916eca68c9324edb31089da54b95dd3] The Finance Act 2000[^f00018] shall be amended as follows.
+
+**32.**[^key-9a0a1ded282e00dc0e0d5c1d56d05305] In Part VI of Schedule 6 (climate change levy: credits and repayments) in paragraph 75—
+
+- (a) in sub-paragraph (2)(a) after “administration order is made” insert “or an administrator is appointed”,
+- (b) in sub-paragraph (3)(a)—
+  - (i) omit “, administration order”, and
+  - (ii) after “sequestration” insert “or the appointment of an administrator”,
+- (c) for sub-paragraph (3)(b)(i) substitute—
+
+  > - (i) immediately upon the appointment of an administrator in respect of the person ceasing to have effect;
+
+  , and
+- (d) in sub-paragraph (5) in the definition of “administration order” for “section 8 of” substitute “Schedule B1 to”.
+
+**33.**[^key-eabacb47620d82b322a2a4a7799355b8] In Part X of Schedule 6 in paragraph 120 (climate change levy: special cases)—
+
+- (a) in sub-paragraph (7)(a) after “is made” insert “or an administrator is appointed”, and
+- (b) in sub-paragraph (9) for “section 8 of” substitute “Schedule B1 to”.
+
+**34.**[^key-1353f4496383d2f2e9fb43b3e812c7b1] In Schedule 15 (the corporate venturing scheme)—
+
+- (a) for paragraph 21(4)(a)(i) substitute—
+
+  > - (i) the entry into administration or receivership, and
+
+  ,
+- (b) for paragraph 24(2)(a) substitute—
+
+  > - (a) the entry into administration or receivership, and
+
+  ,
+- (c) in paragraph 40(6)(b) for “the making of the order within paragraph (a) or, as the case may be, (b) of paragraph 102(4) (administration orders and orders for appointment of receiver etc)” substitute “the entry into administration or receivership”, and
+- (d) for paragraph 102(4)(a) substitute—
+
+  > - (a) references to a company being “in administration” are to the company being in administration within the meaning of Schedule B1 to the Insolvency Act 1986, or to there being in force in relation to it—
+  >   - (i) an administration order under Part III of the Insolvency (Northern Ireland) Order 1989, or
+  >   - (ii) any corresponding order under the law of a country or territory outside the United Kingdom;
+
+  .
+
+#### FINANCE ACT 2001
+
+**35.**[^key-0892cf61771f40f0b9371125dc506f4e] The Finance Act 2001[^f00019] shall be amended as follows.
+
+**36.**[^key-d913c3a92e881a5be79890a9a9b32e2f] In section 37 (insolvency etc)—
+
+- (a) in subsection (7)(a) after “is made” insert “or an administrator is appointed”, and
+- (b) in subsection (9)(a) for “section 8 of” substitute “Schedule B1 to”.
+
+**37.**[^key-9816d980ca71d4ae3d2fe18b07e15de1] In paragraph 11 of Schedule 8 (aggregates levy: repayments and credits)—
+
+- (a) in sub-paragraph (2)(a) after “is made” insert “or an administrator is appointed”,
+- (b) in sub-paragraph (3)(a)—
+  - (i) omit “, administration order”, and
+  - (ii) after “sequestration” insert “or the appointment of an administrator”,
+- (c) for sub-paragraph (3)(b)(i) substitute—
+
+  > - (i) immediately upon the appointment of an administrator in respect of the person ceasing to have effect;
+
+  , and
+- (d) in sub-paragraph (5) in the definition of “administration order” for “section 8 of” substitute “Schedule B1 to”.
+
+#### COMMONHOLD AND LEASEHOLD REFORM ACT 2002
+
+**38.**[^key-562b1bc42f44188093906c42eb5121a6] The Commonhold and Leasehold Reform Act 2002[^f00020] shall be amended as follows.
+
+**39.**[^key-206c48d0a71f37649673ec793a973829] In section 87(4)(a) (deemed withdrawal)—
+
+- (a) omit “or an administration order”, and
+- (b) at the end add “or the RTM company enters administration,”.
+
+**40.**[^key-4700c1fb5cf6637d758f9572ad602e6b] In section 105(3)(a) (cessation of management)—
+
+- (a) omit “or an administration order”, and
+- (b) at the end add “or the RTM company enters administration,”.
+
+### PART 2 — SECONDARY LEGISLATION
+
+#### THE LAND REGISTRATION RULES 1925
+
+**41.**[^key-661b64479d30f3f4860e0ee5814e1cc4] In Rule 185(1) of the Land Registration Rules 1925[^f00021] (administration orders and liquidation of a company)—
+
+- (a) for “an administration order has been made by the court in respect of the company” substitute “a company enters administration”, and
+- (b) after “the order” insert “or the notice of appointment,”.
+
+#### THE STATUTORY SICK PAY (GENERAL) REGULATIONS 1982
+
+**42.**[^key-74a76562ac4a7b0ba19cb38077a8655e] In regulation 9B(2) of the Statutory Sick Pay (General) Regulations 1982[^f00022] (insolvency of employer)—
+
+- (a) in sub-paragraph (a)(iii)—
+  - (i) omit “or an administration order”, and
+  - (ii) after “with respect to it” insert “or it enters administration”, and
+- (b) in sub-paragraph (b)(iii)—
+  - (i) omit “or an administration order”, and
+  - (ii) after “with respect to it” insert “or it enters administration”.
+
+#### THE ROAD VEHICLES (CONSTRUCTION AND USE) REGULATIONS 1986
+
+**43.**[^key-87421950128114340417fbe738d00534] In Schedule 3B to the Road Vehicles (Construction and Use) Regulations 1986[^f00023] authorised sealers) in paragraph 5(3)(a) for “an administration order is made in relation to it” substitute “enters administration”.
+
+#### THE STATUTORY MATERNITY PAY (GENERAL) REGULATIONS 1986
+
+**44.**[^key-173db332d2bd62ad3e4499167123e1ee] In regulation 7(4) of the Statutory Maternity Pay (General) Regulations 1986[^f00024] (liability of Commissioners of Inland Revenue to pay Statutory Maternity Pay)—
+
+- (a) in sub-paragraph (a)(iii)—
+  - (i) omit “or an administration order”, and
+  - (ii) after “with respect to it” insert “or it enters administration”, and
+- (b) in sub-paragraph (b)(iii)—
+  - (i) omit “or an administration order”, and
+  - (ii) after “with respect to it” insert “or it enters administration”.
+
+#### THE DOCK WORK (COMPENSATION PAYMENTS SCHEME) REGULATIONS 1989
+
+**45.**[^key-470f562bed3bdf04fabaf17c6e6d8a8b] In paragraph 9(4)(c) of the Schedule to the Dock Work (Compensation Payments Scheme) Regulations 1989[^f00025] (compensation payments scheme)—
+
+- (a) omit “or an administration order”, and
+- (b) after “made with respect to it” insert “or the company has entered administration”.
+
+#### THE TAX-EXEMPT SPECIAL SAVINGS ACCOUNT REGULATIONS 1990
+
+**46.**[^key-031ebf3177aeee5aee452b4c69f0b3d4] In regulation 11(c) of the Tax-exempt Special Savings Account Regulations 1990[^f00026] (society, person or institution ceasing to be entitled to operate accounts) for “an administration order is made in relation to it” substitute “it enters administration”.
+
+#### THE FINANCIAL MARKETS AND INSOLVENCY REGULATIONS 1991
+
+**47.**[^key-65dca5615db794ce57e2a82daf0c1d40] The Financial Markets and Insolvency Regulations 1991[^f00027] shall be amended as follows.
+
+**48.**[^key-87c12f47b7303e06e94c2de0ead5f6e2] In regulation 14 (limitation on disapplication of sections 10(1)(b) and 11(3)(c) of Insolvency Act 1986 in relation to CGO Service charges)
+
+- (a) for the sub-heading to that regulation substitute—
+
+  > - Limitation on disapplication of moratorium on certain legal processes under Schedule B1 to the Insolvency Act 1986 (administration) in relation to CGO Service charges
+
+  ,
+- (b) in paragraph (1) for “a petition” substitute “an application”,
+- (c) after paragraph (1) insert—
+
+  > (1A) A reference in paragraph (1) to an application for an administration order shall be treated as including a reference to—
+  >
+  > - (a) appointing an administrator under paragraph 14 or 22 of Schedule B1 to the Insolvency Act 1986, or
+  > - (b) filing with the court a notice of intention to appoint an administrator under either of those paragraphs,
+  >
+  > and a reference to “an administration order” shall include the appointment of an administrator under paragraph 14 or 22 of Schedule B1 to the Insolvency Act 1986.
+
+  , and
+- (d) in paragraph (2) for “The disapplication of section 10(1)(b) and 11(3)(c) of the Insolvency Act 1986” substitute
+
+  > The disapplication of paragraph 43(2) of Schedule B1 to the Insolvency Act 1986 (including that provisions as applied by paragraph 44 of that Schedule)
+
+  .
+
+**49.**[^key-918b6b509fc9387c7998d0cd2ded4adc] In regulation 15 (ability of administrator or receiver to recover assets in case of property subject to CGO service charge or Talisman charge)—
+
+- (a) in paragraph (1) for “The disapplication of sections 15(1) and (2), 43 and 61 of the Insolvency Act 1986 by section 175(1)(b) and 175(3) of the Act shall cease to have effect” substitute—
+
+  > - The disapplication—
+  >   - (a) by section 175(1)(b) of the Act, of paragraphs 70, 71 and 72 of Schedule B1 to the Insolvency Act 1986, and
+  >   - (b) by section 175(3) of the Act, of sections 43 and 61 of the 1986 Act,
+  >
+  >   shall cease to have effect
+
+  , and
+- (b) after paragraph (1) insert—
+
+  > (1A) A reference in paragraph (1) to “an administration order” shall include the appointment of an administrator under paragraph 14 or 22 of Schedule B1 to the Insolvency Act 1986.
+
+  .
+
+**50.**[^key-4adb81cf4f15187e15caf6030158df87] In regulation 19(2) (court having jurisdiction in respect of proceedings under Part VII of Act)—
+
+- (a) after “(2)” insert “and (2A)”,
+- (b) for “petition” substitute “application”, and
+- (c) after “presented” insert “or the notice of intention to appoint has been filed”.
+
+#### THE RETIREMENT BENEFITS SCHEMES (RESTRICTION ON DISCRETION TO APPROVE) (SMALL SELF-ADMINISTERED SCHEMES) REGULATIONS 1991
+
+**51.**[^key-f7348eac391b723ebac9d1e3f0e554e1] In regulation 6 of the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Small Self-administered Schemes) Regulations 1991[^f00028] (provisions as to lending and the acquisition of shares)—
+
+- (a) in paragraph (4)(c) omit “or an administration order” and after “made with respect to it,” (where it first occurs) insert “or it has entered administration,”, and
+- (b) in paragraph (6)(c) omit “or an administration order” and after “with respect to it,” insert “or it has entered administration,”.
+
+#### THE IRAQ (UNITED NATIONS) (SEQUESTRATION OF ASSETS) (DEPENDENT TERRITORIES) ORDER 1993
+
+**52.**[^key-241733fcab0004ff140b2163e9514eb3] In Article 20(3)(iii) of the Iraq (United Nations) (Sequestration of Assets) (Dependent Territories) Order 1993[^f00029] (restitution) for “is the subject of an administration order” substitute “is in administration”.
+
+#### THE MONEY LAUNDERING REGULATIONS 1993
+
+**53.**[^key-bcf7faf1abba8f491b713137de5a0cfa] In regulation 13 of the Money Laundering Regulations 1993[^f00030] (record-keeping procedures; supplementary provisions)—
+
+- (a) in paragraph (1)(d) omit “or an administration order” and after “with respect to it” insert “, or it has entered administration,” and
+- (b) in paragraph (2)(b) omit “or an administration order” and after “with respect to it” insert “, or it has entered administration”.
+
+#### THE INSURANCE PREMIUM TAX REGULATIONS 1994
+
+**54.**[^key-0f2f9761ceb4ac393dd79f48ee5469fe] In regulation 11(4) of the Insurance Premium Tax Regulations 1994[^f00031] (death, bankruptcy or incapacity of registrable persons) for “an administration order being made in relation to it” substitute “entering administration”.
+
+#### THE VALUE ADDED TAX REGULATIONS 1995
+
+**55.**[^key-f7728c6cb6b86a8908546f403798493c] The Value Added Tax Regulations 1995[^f00032] shall be amended as follows.
+
+**56.**[^key-11e1c16ddecfe4d678975ef2543cf9cd] In regulation 9(3) (death, bankruptcy or incapacity of taxable person) for “to an administration order being made in relation to it” substitute “entering administration”.
+
+**57.**[^key-912f2ed05e4283941755140b38f23237] In regulation 10(6) (VAT representatives) for “to an administration order being made in relation to it” substitute “entering administration”.
+
+**58.**[^key-eca1f7707362c8c076aaf7b6ca6376f2] In regulation 24(b)(ii) (interpretation of Part V) for “an administration order has been made” substitute “an administrator has been appointed”.
+
+**59.**[^key-18ecf00d7aef677f5ce380c9554f1529] In regulation 207(3) (death, bankruptcy or incapacity of certified person) for “to an administration order being made in relation to it” substitute “entering administration”.
+
+#### THE GOODS VEHICLES (LICENSING OF OPERATORS) REGULATIONS 1995
+
+**60.**[^key-e2bbe19cb2dc66b0893576781a6a67e0] In regulation 31(2)(d) of the Good Vehicles (Licensing of Operators) Regulations 1995[^f00033] (continuance of licence on death, bankruptcy etc) for “an administration order being made in relation to the actual holder” substitute “entering administration”.
+
+#### THE FINANCIAL MARKETS AND INSOLVENCY REGULATIONS 1996
+
+**61.**[^key-949e2cf93bc27238acd842043fed54a7] The Financial Markets and Insolvency Regulations 1996[^f00034] shall be amended as follows.
+
+**62.**[^key-8d61718f569cf1d2df7a5f1f01670015] In regulation 6 (limitation on disapplication of sections 10(1)(b) and 11(3)(c) of Insolvency Act 1986 in relation to system-charges)—
+
+- (a) for the sub-heading to that regulation substitute—
+
+  > - Limitation on disapplication of moratorium on certain legal processes under Schedule B1 to the Insolvency Act 1986 (administration) in relation to system-charges
+
+  ,
+- (b) after paragraph (1) insert—
+
+  > (1A) A reference in paragraph (1) to “an administration order” shall include the appointment of an administrator under paragraph 14 or 22 of Schedule B1 to the Insolvency Act 1986
+
+  ,
+- (c) in paragraph (2) for “The disapplication of section 10(1)(b) and 11(3)(c) of the Insolvency Act 1986” substitute “The disapplication of paragraph 43(2) of Schedule B1 to the Insolvency Act 1986 (including that provision as applied by paragraph 44 of that Schedule)”,
+- (d) in paragraph (5) for “a petition” substitute “an application”, and
+- (e) after paragraph (5) insert—
+
+  > (5A) A reference in paragraph (5) to an application for an administration order shall be treated as including a reference to—
+  >
+  > - (a) appointing an administrator under paragraph 44 or 22 of Schedule B1 to the Insolvency Act 1986, or
+  > - (b) filing with the court a notice of intention to appoint an administrator under either of those paragraphs,
+  >
+  > and a reference to “an administration order” shall include the appointment of an administrator under paragraph 14 or 22 of Schedule B1 to the Insolvency Act 1986.
+
+  .
+
+**63.**[^key-e53682ca51b3f1de59ad491ea42fb850] In regulation 7 (limitation on disapplication of section 10(1)(b) and 11(3)(c) of Insolvency Act 1986 in relation to system-charges granted by a system-beneficiary)—
+
+- (a) for the sub-heading to that regulation substitute—
+
+- “Limitation on disapplication of moratorium on certain legal processes under Schedule B1 to the Insolvency Act 1986 (administration) in relation to system-charges granted by a system-beneficiary”,
+  - (a) after paragraph (1) insert—
+
+    > (1A) A reference in paragraph (1) to “an administration order” shall include the appointment of an administrator under paragraph 14 or 22 of Schedule B1 to the Insolvency Act 1986
+
+    , and
+  - (b) in paragraph (2) for “The disapplication of section 10(1)(b) and 11(3)(c) of the Insolvency Act 1986” substitute “The disapplication of paragraph 43(2) of Schedule B1 to the Insolvency Act 1986 (including that provision as applied by paragraph 44 of that Schedule)”.
+
+**64.**[^key-f7b931978817c413a3f717895c7f6a40] In regulation 8 (ability of administrator or receiver to recover assets in case of property subject to system-charge)—
+
+- (a) after paragraph (1) insert—
+
+  > (1A) A reference in paragraph (1) to “an administration order” shall include the appointment of an administrator under paragraph 14 or 22 of Schedule B1 to the Insolvency Act 1986.
+
+  ,
+- (b) in paragraph (2) for “The disapplication, by section 175(1)(b) and (3) of the Act, of sections 15(1) and (2), 43 and 61 of the Insolvency Act 1986 shall cease to have effect” substitute—
+
+  > - The disapplication—
+  >   - (a) by section 175(1)(b) of the Act, of paragraphs 70, 71 and 72 of Schedule B1 to the Insolvency Act 1986, and
+  >   - (b) by section 175(3) of the Act, of sections 43 and 61 of the 1986 Act,
+  >
+  >   shall cease to have effect
+
+  , and
+- (c) in paragraph (7) for “administration order is made” substitute “company enters administration”.
+
+#### THE LANDFILL TAX REGULATIONS 1996
+
+**65.**[^key-e165f8484f9280ddcfcb7d3b1087fbbb] The Landfill Tax Regulations 1996[^f00035] shall be amended as follows.
+
+**66.**[^key-6dc8b9d5394b2b99a263e656a9a3b58e] In regulation 9(4) (bankruptcy or incapacity of registrable persons) for “to an administration order being made in relation to it” substitute “entering administration”.
+
+**67.**[^key-1b85bf60693a0b3ebe4c97e9d415f684] In regulation 47 (no set-off where insolvency procedure applied)—
+
+- (a) in paragraph (2)(a) omit “administration order” and after “that person” insert “or that person enters administration”, and
+- (b) in paragraph (3)—
+  - (i) in sub-paragraph (a) omit “administration order” and after “sequestration” insert “or that person entering administration”, and
+  - (ii) in sub-paragraph (b)(i) for the words “the discharge of an administration order made in relation to that person” substitute “the appointment of the administrator ceasing to have effect”.
+
+#### THE INSOLVENT COMPANIES (REPORT ON CONDUCT OF DIRECTORS) RULES 1996
+
+**68.**[^key-1a0a818235c6b292810573c64051e976] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**69.**[^key-1a0a818235c6b292810573c64051e976] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**70.**[^key-1a0a818235c6b292810573c64051e976] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### THE PRODUCER RESPONSIBILITY OBLIGATIONS (PACKAGING WASTE) REGULATIONS 1997
+
+**71.**[^key-faabbbc6733a1e177e6d06d467e4d677] In Part III of Schedule 9 to the Producer Responsibility Obligations (Packaging Waste) Regulations 1997[^f00037] (incapacity) in paragraph 21 omit the words “to an administration order being made in relation to it” and substitute “entering administration”.
+
+#### THE TEACHERS' PENSIONS REGULATIONS 1997
+
+**72.**[^key-f5c0446c101ef5cb1de6d212ac28a898] In regulation B3A(6)(b)(ii) of the Teachers' Regulations 1997[^f00038] (employment in accepted school) for “a petition for an administration order has been presented, or an administration order made under Part II of” substitute “an administration application has been made or a notice of intention to appoint an administrator has been filed with the court or an administrator has been appointed under Schedule B1 to”.
+
+#### THE INDIVIDUAL SAVINGS ACCOUNT REGULATIONS 1998
+
+**73.**[^key-17cc94e5e5b9374294278dc1b8170c9e] In regulation 20(1)(d)(iii) of the Individual Savings Account Regulations 1998[^f00039] (account manager ceasing to qualify) for “an administration order is made in relation to it” substitute “it enters administration”.
+
+#### THE FINANCIAL MARKETS AND INSOLVENCY (SETTLEMENT FINALITY) REGULATIONS 1999
+
+**74.**[^key-26d92e873c9d2f7923673ab56bc84374] The Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^f00040] shall be amended as follows.
+
+**75.**[^key-04d15500f091041182b1d4d14207fd46] In regulation 14 (proceedings of designated system take precedence over insolvency proceedings)—
+
+- (a) in paragraph (5)—
+  - (i) in sub-paragraph (a)(ii) for “one in relation to which an administration order is made” substitute “in administration”, and
+  - (ii) for “section 19(4) of the Insolvency Act 1986, section 40 (or, in Scotland, section 59 and 60(1)(e)) of that Act” substitute “section 40 (or, in Scotland, section 59 and 60(1)(e)) of the Insolvency Act 1986, paragraph 99(3) of Schedule B1 to that Act”, and
+- (b) in paragraph (6)(a) for “section 19(4) of that Act” substitute “paragraph 99(3) of Schedule B1 to that Act”.
+
+**76.**[^key-835b618d360609e39a055a87b3c3e213] In regulation 19 (administration orders &c)—
+
+- (a) in paragraph (1)—
+  - (i) after “The following provisions of” insert “Schedule B1 to”,
+  - (ii) for sub-paragraphs (a) and (b) substitute—
+
+    > - (a) paragraph 43(2) including that provision as applied by paragraph 44; and
+    > - (b) paragraphs 70, 71 and 72 of that Schedule.
+
+    , and
+  - (iii) for “section 11(2) of that Act” substitute “paragraph 41(2) of that Schedule”, and
+- (b) after paragraph (2) insert—
+
+  > (2A) A reference in paragraph (2) to “an administration order” shall include the appointment of an administrator under paragraph 14 or 22 of Schedule B1 to the Insolvency Act 1986.
+
+  .
+
+#### THE ELECTRICITY FROM NON-FOSSIL FUEL SOURCES SAVING ARRANGEMENTS ORDER 2000
+
+**77.**[^key-ea9ae9ffe56d1da96c1c30e25e7f0ed6] In Article 7(1)(b) of the Electricity from Non-Fossil Fuel Sources Saving Arrangements Order 2000[^f00041] (replacement supply successor companies) omit “an administration order or” and after “the Company” insert “or the Company enters administration”.
+
+#### THE GENERAL INSURANCE RESERVES (TAX) REGULATIONS 2001
+
+**78.**[^key-327a9b84e6b76598ffe08cda6b99f3ca] In regulation 6(b) of the General Insurance Reserves (Tax) Regulations 2001[^f00042] (excluded descriptions of general insurer) omit “section 8 of the Act or” and at the end add “or a company which is in administration within the meaning of Schedule B1 to the Act”.
+
+#### THE STATUTORY PATERNITY PAY AND STATUTORY ADOPTION PAY (GENERAL) REGULATIONS 2002
+
+**79.**[^key-9fc7c95746ccc08af9291d50f64c0ac2] In regulation 43(3) of the Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations 2002[^f00043] (liability of the Board to pay statutory paternity pay or statutory adoption pay)—
+
+- (a) in sub-paragraph (a)(iii) omit “or an administration order” and after “respect to it” insert “or it enters administration”, and
+- (b) in sub-paragraph (b)(iii) delete “or an administration order” and after “with respect to it” insert “or it enters administration”.
+
+#### THE LAND REGISTRATION RULES 2003
+
+**80.**[^key-9e953f31a624960141dfc185a3a8fcf4] In Rule 184 of the Land Registration Rules 2003[^f00044] (administration orders and liquidation of a company)—
+
+- (a) in paragraph (1), for the words “is the subject of an administration order made” substitute “enters administration”, and
+- (b) in paragraph (2), after the words “the order” in each place that it occurs insert “or the notice of appointment”.
+
+(This Note is not part of the Order)
+
+This Order makes minor amendments to provisions of the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40). It also makes amendments to both primary and secondary legislation consequent upon the changes made by the Enterprise Act 2002 to the Insolvency Act [1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45).
+
+Article 2 makes amendments to Schedule B1 to the Insolvency Act 1986 as set out in Schedule 16 to the Enterprise Act 2002, which is given effect by section 248 of the Enterprise Act 2002.
+
+- Article 2(2) amends paragraph 12 of Schedule B1. This amendment states that the provisions of paragraph 12 are without prejudice to the right of a supervisor of a voluntary arrangement to make an application for an administration order under section 7 of the Insolvency Act 1986.
+- Article 2(3) amends paragraph 43 of Schedule B1. This amendment makes clear that an administrative receiver may not be appointed once the company is subject to a moratorium under paragraph 44 of Schedule B1.
+- Articles 2(4) and (5) reword the description of the person who must be notified when an administrator resigns or ceases to qualify to act. The substituted description takes account of the fact that the person who appointed the administrator under the floating charge may have transferred the floating charge to another holder since the appointment, and it is the current holder of the floating charge who should be informed of the resignation or ceasing to qualify.
+
+Article 3 amends paragraph 4 of Schedule 19 to the Enterprise Act 2002 to make it clear that the provisions of paragraph 4(1) are subject to the provisions of paragraphs 2 and 3.
+
+Articles 4 and 5 give effect to the Schedule to the Order, Part 1 of which makes amendments to primary legislation and Part 2 of which makes amendments to secondary legislation all of which are consequential upon changes made by the Enterprise Act 2002 to the law on the procedure for administration as set out in the Insolvency Act 1986. Article 6 contains transitional provisions for cases where a petition for an administration order is presented before the 15th September 2003.
+
+The costs to business of the commencement of the provisions of the Enterprise Act 2002 are set out in the Regulatory Impact Assessment prepared for that Act. Copies of the assessment are available from Policy Unit, The Insolvency Service, 21 Bloomsbury Street, London, WC1B 3QW.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^key-26fc409ea775111cbe4cb6ad1deb4685]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2003/2096/article/1) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-2e181aff9b9442e3fefd5e853c23bc54]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2003/2096/article/2) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00002]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^key-0e92e8abe3a4290e919a28229b8cf275]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2003/2096/article/3) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-d1b7f064dbda723f2513670833a11f1f]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2003/2096/article/4) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-09a763b6ef9d15cb5c4fd60ae1fa241e]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2003/2096/article/5) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-1ddf8c889359aa462469ee0eb68987ab]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-f344e3fdeb0126d3719e73279d411b84]: Textual amendment: Sch. paras. 1-3 revoked (1.8.2016) by [Third Parties (Rights against Insurers) Act 2010 (c. 10)](https://www.legislation.gov.uk/ukpga/2010/10), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2010/10/section/21/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2010/10/schedule/4) (with [s. 15](https://www.legislation.gov.uk/ukpga/2010/10/section/15)); [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+
+[^key-ac9220a3d87fc36cbcd85487e457497d]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/4) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00004]: Footnote: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).
+
+[^key-ab7ba6630f83cf1dc368400f0d588dbc]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/5) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00005]: Footnote: [1985 c. 61](https://www.legislation.gov.uk/ukpga/1985/61).
+
+[^key-9dd8682d7d2aecac59bac87c47a78b85]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/6) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-c657aa89e2c6eafa8ab208dbd3ee95e2]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/7) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-abd79b0090f132b0b24358efb644c85f]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/8) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-76a989159c2a53aca9da0a80a3eed645]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/9) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-b4ea8c9c687f13bc1cba9332c113d9c1]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/10) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-77538482522052cc9f536be1ba8a8734]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/11) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00006]: Footnote: S.I. [2002/1555](https://www.legislation.gov.uk/uksi/2002/1555)
+
+[^key-eace33cc822fd9db4b44c20e4e76d893]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/12) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00007]: Footnote: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46).
+
+[^key-41d0c477262ee5ff3c5c2053e90f921f]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/13) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00008]: Footnote: [1987 c. 18](https://www.legislation.gov.uk/ukpga/1987/18).
+
+[^key-c6c71937bd131696bae7d8a8d8bfecf6]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/14) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00009]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
+
+[^key-edb38af39b89f9ab2b073049c36e6d76]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/15) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00010]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
+
+[^key-18be706b92b55cc766f04bbbb7767a4f]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/16) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-d47ec8652875618eae63b1119c0b2778]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/17) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-3fc5880bc7f1719fcc38b36bad9caccc]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/18) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-40f1fb87f0288419882a6ca2168f177e]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/19) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-51e2a23bd62e03b81899d1e2dbe33465]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/20) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00011]: Footnote: [1983 c. 28](https://www.legislation.gov.uk/ukpga/1983/28).
+
+[^key-1bae458139b566bcc8f2e6bc547d8eca]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/21) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00012]: Footnote: [1993 c. 39](https://www.legislation.gov.uk/ukpga/1993/39).
+
+[^key-06ac436ed8b753ecfab52315144f9374]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/22) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00013]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
+
+[^key-11b58b8dc2341396ee058d67a4654617]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/23) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00014]: Footnote: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
+
+[^key-22c7dec59a82f1eae5dc70471960ae5b]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/24) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00015]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
+
+[^key-e9e42d250a153fd154a11f9d983d2cff]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/25) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-2a7fa0d4769a63b83ce63d1796e53d9d]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/26) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-bd3276c03f3c12bf8d763e756a76dab6]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/27) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00016]: Footnote: [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8).
+
+[^key-b43dfd72ce203cda0fc8c11e89ad72ca]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/28) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-2406e09e406f6327088cd93d2edef1c8]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/29) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-00fa4b220af166c1671824a853b4a371]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/30) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00017]: Footnote: [1996 c. 53](https://www.legislation.gov.uk/ukpga/1996/53).
+
+[^key-6916eca68c9324edb31089da54b95dd3]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/31) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00018]: Footnote: [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17).
+
+[^key-9a0a1ded282e00dc0e0d5c1d56d05305]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/32) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-eabacb47620d82b322a2a4a7799355b8]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/33) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-1353f4496383d2f2e9fb43b3e812c7b1]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/34) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-0892cf61771f40f0b9371125dc506f4e]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/35) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00019]: Footnote: [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9).
+
+[^key-d913c3a92e881a5be79890a9a9b32e2f]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/36) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-9816d980ca71d4ae3d2fe18b07e15de1]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/37) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-562b1bc42f44188093906c42eb5121a6]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/38) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00020]: Footnote: [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15).
+
+[^key-206c48d0a71f37649673ec793a973829]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/39) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-4700c1fb5cf6637d758f9572ad602e6b]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/40) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-661b64479d30f3f4860e0ee5814e1cc4]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/41) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00021]: Footnote: S.I. [1925/1093](https://www.legislation.gov.uk/uksi/1925/1093).
+
+[^key-74a76562ac4a7b0ba19cb38077a8655e]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/42) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00022]: Footnote: S.I. [1982/894](https://www.legislation.gov.uk/uksi/1982/894).
+
+[^key-87421950128114340417fbe738d00534]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/43) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00023]: Footnote: S.I. [1986/1078](https://www.legislation.gov.uk/uksi/1986/1078).
+
+[^key-173db332d2bd62ad3e4499167123e1ee]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/44) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00024]: Footnote: S.I. [1986/1960](https://www.legislation.gov.uk/uksi/1986/1960).
+
+[^key-470f562bed3bdf04fabaf17c6e6d8a8b]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/45) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00025]: Footnote: S.I. [1989/1111](https://www.legislation.gov.uk/uksi/1989/1111).
+
+[^key-031ebf3177aeee5aee452b4c69f0b3d4]: Commencement: [Sch. para. 46](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/46) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00026]: Footnote: S.I. [1990/2361](https://www.legislation.gov.uk/uksi/1990/2361).
+
+[^key-65dca5615db794ce57e2a82daf0c1d40]: Commencement: [Sch. para. 47](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/47) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00027]: Footnote: S.I. [1991/880](https://www.legislation.gov.uk/uksi/1991/880).
+
+[^key-87c12f47b7303e06e94c2de0ead5f6e2]: Commencement: [Sch. para. 48](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/48) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-918b6b509fc9387c7998d0cd2ded4adc]: Commencement: [Sch. para. 49](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/49) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-4adb81cf4f15187e15caf6030158df87]: Commencement: [Sch. para. 50](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/50) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-f7348eac391b723ebac9d1e3f0e554e1]: Commencement: [Sch. para. 51](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/51) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00028]: Footnote: S.I. [1991/1614](https://www.legislation.gov.uk/uksi/1991/1614).
+
+[^key-241733fcab0004ff140b2163e9514eb3]: Commencement: [Sch. para. 52](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/52) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00029]: Footnote: S.I. [1993/1245](https://www.legislation.gov.uk/uksi/1993/1245).
+
+[^key-bcf7faf1abba8f491b713137de5a0cfa]: Commencement: [Sch. para. 53](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/53) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00030]: Footnote: S.I. [1993/1933](https://www.legislation.gov.uk/uksi/1993/1933).
+
+[^key-0f2f9761ceb4ac393dd79f48ee5469fe]: Commencement: [Sch. para. 54](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/54) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00031]: Footnote: S.I. [1994/1774](https://www.legislation.gov.uk/uksi/1994/1774).
+
+[^key-f7728c6cb6b86a8908546f403798493c]: Commencement: [Sch. para. 55](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/55) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00032]: Footnote: S.I. [1995/2518](https://www.legislation.gov.uk/uksi/1995/2518).
+
+[^key-11e1c16ddecfe4d678975ef2543cf9cd]: Commencement: [Sch. para. 56](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/56) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-912f2ed05e4283941755140b38f23237]: Commencement: [Sch. para. 57](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/57) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-eca1f7707362c8c076aaf7b6ca6376f2]: Commencement: [Sch. para. 58](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/58) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-18ecf00d7aef677f5ce380c9554f1529]: Commencement: [Sch. para. 59](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/59) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-e2bbe19cb2dc66b0893576781a6a67e0]: Commencement: [Sch. para. 60](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/60) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00033]: Footnote: S.I. [1995/2869](https://www.legislation.gov.uk/uksi/1995/2869).
+
+[^key-949e2cf93bc27238acd842043fed54a7]: Commencement: [Sch. para. 61](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/61) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00034]: Footnote: S.I. [1996/1469](https://www.legislation.gov.uk/uksi/1996/1469).
+
+[^key-8d61718f569cf1d2df7a5f1f01670015]: Commencement: [Sch. para. 62](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/62) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-e53682ca51b3f1de59ad491ea42fb850]: Commencement: [Sch. para. 63](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/63) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-f7b931978817c413a3f717895c7f6a40]: Commencement: [Sch. para. 64](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/64) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-e165f8484f9280ddcfcb7d3b1087fbbb]: Commencement: [Sch. para. 65](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/65) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00035]: Footnote: S.I. [1996/1527](https://www.legislation.gov.uk/uksi/1996/1527).
+
+[^key-6dc8b9d5394b2b99a263e656a9a3b58e]: Commencement: [Sch. para. 66](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/66) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-1b85bf60693a0b3ebe4c97e9d415f684]: Commencement: [Sch. para. 67](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/67) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-1a0a818235c6b292810573c64051e976]: Textual amendment: Sch. paras. 68-70 revoked (6.4.2016) by [The Insolvent Companies (Reports on Conduct of Directors) (England and Wales) Rules 2016 (S.I. 2016/180)](https://www.legislation.gov.uk/uksi/2016/180), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/180/rule/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2016/180/article/2/c) (with [rule 10](https://www.legislation.gov.uk/uksi/2016/180/rule/10))
+
+[^key-faabbbc6733a1e177e6d06d467e4d677]: Commencement: [Sch. para. 71](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/71) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00037]: Footnote: S.I. [1997/648](https://www.legislation.gov.uk/uksi/1997/648).
+
+[^key-f5c0446c101ef5cb1de6d212ac28a898]: Commencement: [Sch. para. 72](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/72) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00038]: Footnote: S.I. [1997/3001](https://www.legislation.gov.uk/uksi/1997/3001).
+
+[^key-17cc94e5e5b9374294278dc1b8170c9e]: Commencement: [Sch. para. 73](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/73) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00039]: Footnote: S.I. [1998/1870](https://www.legislation.gov.uk/uksi/1998/1870).
+
+[^key-26d92e873c9d2f7923673ab56bc84374]: Commencement: [Sch. para. 74](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/74) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00040]: Footnote: S.I. [1999/2979](https://www.legislation.gov.uk/uksi/1999/2979).
+
+[^key-04d15500f091041182b1d4d14207fd46]: Commencement: [Sch. para. 75](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/75) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-835b618d360609e39a055a87b3c3e213]: Commencement: [Sch. para. 76](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/76) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^key-ea9ae9ffe56d1da96c1c30e25e7f0ed6]: Commencement: [Sch. para. 77](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/77) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00041]: Footnote: S.I. [2000/2727](https://www.legislation.gov.uk/uksi/2000/2727).
+
+[^key-327a9b84e6b76598ffe08cda6b99f3ca]: Commencement: [Sch. para. 78](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/78) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00042]: Footnote: S.I. [2001/1757](https://www.legislation.gov.uk/uksi/2001/1757).
+
+[^key-9fc7c95746ccc08af9291d50f64c0ac2]: Commencement: [Sch. para. 79](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/79) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00043]: Footnote: S.I. [2002/2822](https://www.legislation.gov.uk/uksi/2002/2822).
+
+[^key-9e953f31a624960141dfc185a3a8fcf4]: Commencement: [Sch. para. 80](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/80) in force at 15.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1)
+
+[^f00044]: Footnote: S.I. [2003/1417](https://www.legislation.gov.uk/uksi/2003/1417).

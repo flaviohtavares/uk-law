@@ -1,0 +1,47 @@
+---
+title: The Land Registration Rules 2003, section 57
+act: The Land Registration Rules 2003
+section: '57'
+status: revised-with-pending-changes
+text_date: '2024-03-07'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2003/1417/section/57
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Land Registration Rules 2003, section 57
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2024-03-07. See https://www.legislation.gov.uk/changes/affected/uksi/2003/1417
+>
+> Extent: England, Wales.
+
+## 57. Duty to disclose unregistered interests that override registered dispositions[^key-294657fece4ee00fb4295b661862712d]
+
+*Extent: E+W*
+
+(1) Subject to paragraph (2), a person applying to register a registrable disposition of a registered estate must provide information to the registrar about any of the interests that fall within Schedule 3 to the Act that—
+
+- (a) are within the actual knowledge of the applicant, and
+- (b) affect the estate to which the application relates,
+
+in Form DI.
+
+(2) The applicant is not required to provide information about—
+
+- (a) an interest that under section 33 or 90(4) of the Act cannot be protected by notice,
+- (b) a public right,
+- (c) a local land charge, or
+- (d) a leasehold estate in land if—
+  - (i) it is within paragraph 1 of Schedule 3 to the Act, and
+  - (ii) at the time of the application, the term granted by the lease has one year or less to run.
+
+(3) In this rule and in Form AP1, a “**disclosable overriding interest**” is an interest that the applicant must provide information about under paragraph (1).
+
+(4) The applicant must produce to the registrar any documentary evidence of the existence of a disclosable overriding interest that is under his control.
+
+(5) Where the applicant provides information about a disclosable overriding interest under this rule, the registrar may enter a notice in the register in respect of that interest.
+
+## Annotations
+
+[^key-294657fece4ee00fb4295b661862712d]: Modification: Rule 57 excluded (4.8.2008) by [The Land Registration (Electronic Conveyancing) Rules 2008 (S.I. 2008/1750)](https://www.legislation.gov.uk/uksi/2008/1750), [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1), [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/1750/schedule/2/part/2/paragraph/2)

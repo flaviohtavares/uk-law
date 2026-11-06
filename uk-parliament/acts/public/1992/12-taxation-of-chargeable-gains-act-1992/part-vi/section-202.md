@@ -1,0 +1,64 @@
+---
+title: Taxation of Chargeable Gains Act 1992, section 202
+act: Taxation of Chargeable Gains Act 1992
+section: '202'
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1992/12/section/202
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation of Chargeable Gains Act 1992, section 202
+
+> **Warning: changes not yet applied to this text (23).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/12
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 202. Capital losses.
+
+*Extent: E+W+S+N.I.*
+
+(1) This section has effect in relation to capital losses which accrue during the currency of a mineral lease or agreement entered into before the relevant date[^key-8dc6ac615f84cd27fae30dc4d8474d66], and applies in any case where, at the time of the occurrence of a relevant event in relation to a mineral lease or agreement entered into before that date[^key-b9279443bac71fe86c49e14fed6d54ef], the person who immediately before that event occurred was entitled to receive mineral royalties under the lease or agreement (“**the taxpayer**”) has an interest in the land to which the mineral lease or agreement relates (“**the relevant interest**”).
+
+(1A)[^key-96ac0dc6b1b05c4a959c03a7a4f40685] For the purposes of this section “**the relevant date**” means—
+
+- (a) for the purposes of capital gains tax, 6 April 2013; and
+- (b) for the purposes of corporation tax in respect of chargeable gains, 1 April 2013.
+
+(2) For the purposes of this section, a relevant event occurs in relation to a mineral lease or agreement—
+
+- (a) on the expiry or termination of the mineral lease or agreement;
+- (b) if the relevant interest is disposed of, or is treated as having been disposed of by virtue of any provision of this Act.
+
+(3) On the expiry or termination of a mineral lease or agreement entered into before the relevant date[^key-edd32d25d59e1eefe9c4c64a74d48e98] the taxpayer shall, if he makes a claim in that behalf, be treated for purposes of tax in respect of chargeable gains as if he had disposed of and immediately reacquired the relevant interest for a consideration equal to its market value, but a claim may not be made under this subsection—
+
+- (a) if the expiry or termination of the mineral lease or agreement is also a relevant event falling within subsection (2)(b) above; nor
+- (b) unless, on the notional disposal referred to above, an allowable loss would accrue to the taxpayer.
+
+(4) In this section “**the terminal loss**”, in relation to a relevant event in respect of which a claim is made under subsection (3) above, means the allowable loss which accrues to the taxpayer by virtue of the notional disposal occurring on that relevant event by virtue of that subsection.
+
+(5) On making a claim under subsection (3) above, the taxpayer shall specify whether he requires the terminal loss to be dealt with in accordance with subsection (6) or subsections (9) to (11) below.
+
+(6) Where the taxpayer requires the loss to be dealt with in accordance with this subsection it shall be treated as an allowable loss accruing to him in the chargeable period in which the mineral lease or agreement expires.
+
+(7) If on the occurrence of a relevant event falling within subsection (2)(b) above, an allowable loss accrues to the taxpayer on the disposal or notional disposal which constitutes that relevant event, the taxpayer may make a claim under this subsection requiring the loss to be dealt with in accordance with subsections (9) to (11) below and not in any other way.
+
+(8) In subsections (9) to (11) below “**the terminal loss**” in relation to a relevant event in respect of which a claim is made under subsection (7) above means the allowable loss which accrues to the taxpayer as mentioned in that subsection.
+
+(9) Where, as a result of a claim under subsection (3) or (7) above, the terminal loss is to be dealt with in accordance with this subsection, then, subject to subsection (10) below, it shall be deducted from or set off against the amount on which the taxpayer was chargeable to capital gains tax, or as the case may be corporation tax, for chargeable periods preceding that in which the relevant event giving rise to the terminal loss occurred and falling wholly or partly within the period of 15 years ending with the date of that event.
+
+(10) The amount of the terminal loss which, by virtue of subsection (9) above, is to be deducted from or set off against the amount on which the taxpayer was chargeable to capital gains tax, or as the case may be corporation tax, for any chargeable period shall not exceed the amount of the gain which in that period was treated, by virtue of section 201(1), as accruing to the taxpayer in respect of mineral royalties under the mineral lease or agreement in question; and subject to this limit any relief given to the taxpayer by virtue of subsection (9) above shall be given as far as possible for a later rather than an earlier chargeable period.
+
+(11) If in any case where relief has been given to the taxpayer in accordance with subsections (9) and (10) above there remains an unexpended balance of the terminal loss which cannot be applied in accordance with those subsections, there shall be treated as accruing to the taxpayer in the chargeable period in which the relevant event occurs an allowable loss equal to that unexpended balance.
+
+## Annotations
+
+[^key-8dc6ac615f84cd27fae30dc4d8474d66]: Textual amendment: Words in s. 202(1) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 46(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/46/2/a)
+
+[^key-b9279443bac71fe86c49e14fed6d54ef]: Textual amendment: Words in s. 202(1) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 46(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/46/2/b)
+
+[^key-96ac0dc6b1b05c4a959c03a7a4f40685]: Textual amendment: S. 202(1A) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 46(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/46/3)
+
+[^key-edd32d25d59e1eefe9c4c64a74d48e98]: Textual amendment: Words in s. 202(3) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 46(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/46/4)

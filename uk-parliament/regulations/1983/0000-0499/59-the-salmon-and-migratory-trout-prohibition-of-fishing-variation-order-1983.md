@@ -1,0 +1,88 @@
+---
+title: The Salmon and Migratory Trout (Prohibition of Fishing) (Variation) Order 1983
+id: uksi/1983/59
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1983-01-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1983/59
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1983/59/pdfs/uksi_19830059_en.pdf
+- http://www.legislation.gov.uk/uksi/1983/59/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Salmon and Migratory Trout (Prohibition of Fishing) (Variation) Order 1983
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1983 No. 59
+
+SEA FISHERIES
+
+CONSERVATION OF SEA FISH
+
+The Salmon and Migratory Trout (Prohibition of Fishing) (Variation) Order 1983
+
+Made
+
+24th January 1983
+
+Laid before Parliament
+
+25th January 1983
+
+Coming into Operation
+
+14th February 1983
+
+The Minister of Agriculture, Fisheries and Food and the Secretaries of State respectively concerned with the sea fishing industry in Scotland, Wales and Northern Ireland, acting jointly, in exercise of the powers conferred on them by sections 5(1) and 20(1) of the Sea Fish (Conservation) Act 1967[^f00001] and of all other powers enabling them in that behalf, hereby make the following order:—
+
+## 1. Title and commencement
+
+This order may be cited as the Salmon and Migratory Trout (Prohibition of Fishing) (Variation) Order 1983 and shall come into operation on 14th February 1983.
+
+## 2. Variation of principal order
+
+In article 3 of the Salmon and Migratory Trout (Prohibition of Fishing) Order 1972[^f00002] and in article 3 of the Salmon and Migratory Trout (North-East Atlantic) Order 1972[^f00003] the words from the beginning to “both days inclusive,” shall be deleted.
+
+In Witness whereof the Official Seal of the Minister of Agriculture, Fisheries and Food is hereunto affixed on 24th January 1983.
+
+Peter Walker
+
+Minister of Agriculture, Fisheries and Food
+
+George Younger
+
+Secretary of State for Scotland
+
+24th January 1983
+
+James Prior
+
+Secretary of State for Northern Ireland
+
+24th January 1983
+
+Nicholas Edwards
+
+Secretary of State for Wales
+
+24th January 1983
+
+EXPLANATORY NOTE
+
+This order varies the Salmon and Migratory Trout (Prohibition of Fishing) Order 1972 and the Salmon and Migratory Trout (North-East Atlantic) Order 1972 by removing the time limit at the end of which those orders were to expire.
+
+## Annotations
+
+[^f00001]: Footnote: section 5(1) was amended by the Fisheries Act 1981 (c. 29), section 22(1).
+
+[^f00002]: Footnote: S.I. 1973/188.
+
+[^f00003]: Footnote: S.I. 1973/189.

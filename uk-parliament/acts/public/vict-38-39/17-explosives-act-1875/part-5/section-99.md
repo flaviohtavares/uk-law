@@ -1,0 +1,25 @@
+---
+title: Explosives Act 1875, section 99
+act: Explosives Act 1875
+section: '99'
+status: revised-with-pending-changes
+text_date: '2015-08-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/Vict/38-39/17/section/99
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Explosives Act 1875, section 99
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2015-08-17. See https://www.legislation.gov.uk/changes/affected/ukpga/Vict/38-39/17
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 99. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c5689891]
+
+*Extent: E+W+S+N.I.*
+
+## Annotations
+
+[^c5689891]: Textual amendment: S. 99 repealed by [Statute Law (Repeals) Act 1977 (c. 18)](https://www.legislation.gov.uk/ukpga/1977/18), [Sch. 1 Pt. XI](https://www.legislation.gov.uk/ukpga/1977/18/schedule/1/part/XI)

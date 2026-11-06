@@ -1,0 +1,167 @@
+---
+title: The Electronic Communications Code (Jurisdiction) Regulations 2017
+id: uksi/2017/1284
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-12-14'
+text_date: '2024-04-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2017/1284
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/1284/pdfs/uksiem_20171284_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/1284/pdfs/uksi_20171284_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/1284/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electronic Communications Code (Jurisdiction) Regulations 2017
+
+> Text as at 2024-04-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2017 No. 1284
+
+Electronic Communications
+
+The Electronic Communications Code (Jurisdiction) Regulations 2017
+
+Made
+
+14th December 2017
+
+Coming into force in accordance with regulation 1(1)
+
+The Secretary of State, in exercise of the powers conferred by section 402(3) of, and paragraphs 95(1) to (4) of Schedule 3A to, the Communications Act 2003[^f00001], makes the following Regulations.
+
+The Secretary of State has consulted the Scottish Ministers in accordance with paragraph 95(5)(a) of Schedule 3A to that Act.
+
+A draft of these Regulations was laid before Parliament and approved by a resolution of each House of Parliament in accordance with section 402(2A) of that Act[^f00002].
+
+## 1. Citation, commencement and extent[^key-9b0ceb32849731d1d89d5d2af1af0717]
+
+(1) These Regulations may be cited as the Electronic Communications Code (Jurisdiction) Regulations 2017 and come into force on the day that section 4 of, and Schedule 1 to, the Digital Economy Act 2017 come fully into force.
+
+(2) These Regulations extend to England and Wales and to Scotland.
+
+## 2. Interpretation[^key-8c392b946d977e3adb632ef1a371442c]
+
+(1) In these Regulations—
+
+- “the code” means the electronic communications code set out in Schedule 3A to the Communications Act 2003;
+- “[^key-9bc2110ca879699f32b65c709008fe41]**Part 4A proceedings**” means proceedings under Part 4A of the code;
+- “relevant proceedings” means proceedings under any of the following provisions of the code—
+  - (a) Parts 4, 5, 6, 12 or 13, or
+  - (b) paragraph 53.
+
+## 3. Conferral of jurisdiction on tribunals[^key-38a8e22fa3204d5166c7445196782ff7]
+
+(1)[^key-9a686d81aaf20dd1875bd3d4e27e8838] Subject to [^key-de66171f2e7ffd06f91aaaf9ad6c435e]... regulation 4, the functions conferred by the code on the court[^f00003] are also exercisable by the following tribunals—
+
+- (aa)[^key-5a4bde739cd59ea6c6459d2a31c20578] in relation to England and Wales, the First-tier Tribunal and the Upper Tribunal, and
+- (c) in relation to Scotland, the Lands Tribunal for Scotland,
+
+[^key-6d1d6292e5c180ea4d845c6ea13b5b06]...
+
+(2)[^key-3cb303e9c6e8003f771a34dae5ae6bd2][^key-45ecbd9e8356830afdcf5112ea6391df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Any provision of the code which confers a function on the court is, to the extent that the function is exercisable by a tribunal under this regulation, to be read as if the reference to the court included reference to that tribunal.
+
+## 4. Restriction on jurisdiction for commencement of certain proceedings[^key-845f00719863559545c83628793cf414][^key-5ec512a06a6e2710d250baccb1bf753c]
+
+(1)[^key-c22fbfc93a7310f07ea84e3704b9b91e] Relevant proceedings must be commenced—
+
+- (a)[^key-67cc2846f4dcda677be5fd4f008abc62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in relation to Scotland, in[^key-f74a42fa8a694ed2f9bb6e6fe463677f] the Lands Tribunal for Scotland.
+
+(2)[^key-35a7bdc30ae53e8eeb32b5c491196dec] Part 4A proceedings must be commenced—
+
+- (a) in relation to England and Wales, in the First-tier Tribunal, or
+- (b) in relation to Scotland, in the sheriff court.
+
+## 5. Transfer of relevant proceedings to the court[^key-39be85459a7288c0c85d2aea89df3e32]
+
+(1) A tribunal referred to in regulation 3 may transfer relevant proceedings to—
+
+- (a) in relation to England or Wales, the county court, or
+- (b) in relation to Scotland the sheriff court,
+
+if that tribunal considers the court to be a more appropriate forum for the determination of those proceedings.
+
+(2) A tribunal may transfer proceedings in accordance with paragraph (1) of its own motion or on the application of a party to those proceedings.
+
+Matthew Hancock
+
+Minister of State
+
+Department for Digital, Culture, Media and Sport
+
+14th December 2017
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Electronic Communications Code (“the code”) is set out in Schedule 3A to the Communications Act 2003. Schedule 3A was inserted by Part 2 of the Digital Economy Act 2017. The code replaces the previous code set out in Schedule 2 to the Telecommunications Act 1984.
+
+The code sets out the basis on which electronic communications operators authorised by Ofcom under section 106 of the Communications Act 2003 may exercise rights to deploy and maintain their electronic communications apparatus on, over and under land. Electronic communications apparatus is defined in paragraph 5 of the code. Under the provisions of the code, “the court” has jurisdiction for most disputes.
+
+Regulation 3 permits functions conferred on the court by the code to be exercised by certain tribunals, and modifies the code accordingly. These regulations do not extend to Northern Ireland. Accordingly, all functions conferred by the code on a county court in Northern Ireland are exercisable in Northern Ireland only by a county court.
+
+Regulation 4 provides that “relevant proceedings” (defined in regulation 2) under the code must be commenced only in the Upper Tribunal or the Lands Tribunal for Scotland.
+
+The First-tier Tribunal can hear relevant proceedings only if the Upper Tribunal transfers a case to it in accordance with rule 5(3)(k)(ii) of the Tribunal Procedure (Upper Tribunal) (Lands Chamber) Rules 2010 ([S.I. 2010/2600](https://www.legislation.gov.uk/uksi/2010/2600)).
+
+Regulation 5 gives each of the tribunals listed in regulation 3 power to transfer relevant proceedings to the respective court, if the court would be a more appropriate forum.
+
+The county court (in England and Wales) and the sheriff court (in Scotland) can hear relevant proceedings, brought after the date on which these Regulations come into force, only if a tribunal transfers those proceedings in accordance with the provisions of regulation 5.
+
+An Impact Assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen. An Explanatory Memorandum is published alongside this instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Schedule 3A was inserted by Schedule 1 to the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
+
+[^f00002]: Footnote: Section 402(2A) was inserted by paragraph 47(3) of Schedule 3 to the Digital Economy Act 2017.
+
+[^key-9b0ceb32849731d1d89d5d2af1af0717]: Commencement: Reg. 1 in force at 28.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1284/regulation/1/1)
+
+[^key-8c392b946d977e3adb632ef1a371442c]: Commencement: Reg. 2 in force at 28.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1284/regulation/1/1)
+
+[^key-9bc2110ca879699f32b65c709008fe41]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/1284/regulation/2/1) inserted (15.3.2021 for specified purposes, 26.12.2022 for E.W. in so far as not already in force, 1.7.2023 for S. in so far as not already in force) by [Telecommunications Infrastructure (Leasehold Property) Act 2021 (c. 7)](https://www.legislation.gov.uk/ukpga/2021/7), [s. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/4), [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/6) (with [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/9)); [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+
+[^key-38a8e22fa3204d5166c7445196782ff7]: Commencement: Reg. 3 in force at 28.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1284/regulation/1/1)
+
+[^key-9a686d81aaf20dd1875bd3d4e27e8838]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/1284/regulation/3) renumbered as reg. 3(1) (15.3.2021 for specified purposes, 26.12.2022 for E.W. in so far as not already in force, 1.7.2023 for S. in so far as not already in force) by [Telecommunications Infrastructure (Leasehold Property) Act 2021 (c. 7)](https://www.legislation.gov.uk/ukpga/2021/7), [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b/4), [Sch. para. 7(2)](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/7/2) (with [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/9))
+
+[^key-de66171f2e7ffd06f91aaaf9ad6c435e]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/1284/regulation/3/1) omitted (6.4.2024) by virtue of [The Electronic Communications Code (Jurisdiction) (Amendment) Regulations 2023 (S.I. 2023/1220)](https://www.legislation.gov.uk/uksi/2023/1220), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1220/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/1220/regulation/2/2/a)
+
+[^f00003]: Footnote: See paragraph 94(1) of Schedule 3A to the Communications Act 2003 for the definition of “the court”.
+
+[^key-5a4bde739cd59ea6c6459d2a31c20578]: Textual amendment: [Reg. 3(1)(aa)](https://www.legislation.gov.uk/uksi/2017/1284/regulation/3/1/aa) substituted for reg. 3(1)(a)(b) (15.3.2021 for specified purposes, 26.12.2022 for E.W. in so far as not already in force, 1.7.2023 for S. in so far as not already in force) by [Telecommunications Infrastructure (Leasehold Property) Act 2021 (c. 7)](https://www.legislation.gov.uk/ukpga/2021/7), [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b/4), [Sch. para. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/7/3/b) (with [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/9)); [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+
+[^key-6d1d6292e5c180ea4d845c6ea13b5b06]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/1284/regulation/3/1) omitted (15.3.2021 for specified purposes, 26.12.2022 for E.W. in so far as not already in force, 1.7.2023 for S. in so far as not already in force) by virtue of [Telecommunications Infrastructure (Leasehold Property) Act 2021 (c. 7)](https://www.legislation.gov.uk/ukpga/2021/7), [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b/4), [Sch. para. 7(3)(c)](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/7/3/c) (with [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/9)); [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+
+[^key-3cb303e9c6e8003f771a34dae5ae6bd2]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2017/1284/regulation/3/2) omitted (6.4.2024) by virtue of [The Electronic Communications Code (Jurisdiction) (Amendment) Regulations 2023 (S.I. 2023/1220)](https://www.legislation.gov.uk/uksi/2023/1220), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1220/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/1220/regulation/2/2/b)
+
+[^key-45ecbd9e8356830afdcf5112ea6391df]: Textual amendment: [Reg. 3(2)(3)](https://www.legislation.gov.uk/uksi/2017/1284/regulation/3/2/3) inserted (15.3.2021 for specified purposes, 26.12.2022 for E.W. in so far as not already in force, 1.7.2023 for S. in so far as not already in force) by [Telecommunications Infrastructure (Leasehold Property) Act 2021 (c. 7)](https://www.legislation.gov.uk/ukpga/2021/7), [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b/4), [Sch. para. 7(4)](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/7/4) (with [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/9)); [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+
+[^key-845f00719863559545c83628793cf414]: Commencement: Reg. 4 in force at 28.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1284/regulation/1/1)
+
+[^key-5ec512a06a6e2710d250baccb1bf753c]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2017/1284/regulation/4) heading substituted (15.3.2021 for specified purposes, 26.12.2022 for E.W. in so far as not already in force, 1.7.2023 for S. in so far as not already in force) by [Telecommunications Infrastructure (Leasehold Property) Act 2021 (c. 7)](https://www.legislation.gov.uk/ukpga/2021/7), [s. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/4), [Sch. para. 8(2)](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/8/2) (with [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/9)); [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+
+[^key-c22fbfc93a7310f07ea84e3704b9b91e]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/1284/regulation/4) renumbered as reg. 4(1) (15.3.2021 for specified purposes, 26.12.2022 for E.W. in so far as not already in force, 1.7.2023 for S. in so far as not already in force) by [Telecommunications Infrastructure (Leasehold Property) Act 2021 (c. 7)](https://www.legislation.gov.uk/ukpga/2021/7), [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b/4), [Sch. para. 8(3)](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/8/3) (with [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/9))
+
+[^key-67cc2846f4dcda677be5fd4f008abc62]: Textual amendment: [Reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2017/1284/regulation/4/1/a) omitted (6.4.2024) by virtue of [The Electronic Communications Code (Jurisdiction) (Amendment) Regulations 2023 (S.I. 2023/1220)](https://www.legislation.gov.uk/uksi/2023/1220), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1220/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/1220/regulation/2/3/a)
+
+[^key-f74a42fa8a694ed2f9bb6e6fe463677f]: Textual amendment: Word in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2017/1284/regulation/4/1/b) inserted (6.4.2024) by [The Electronic Communications Code (Jurisdiction) (Amendment) Regulations 2023 (S.I. 2023/1220)](https://www.legislation.gov.uk/uksi/2023/1220), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1220/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2023/1220/regulation/2/3/b)
+
+[^key-35a7bdc30ae53e8eeb32b5c491196dec]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2017/1284/regulation/4/2) inserted (15.3.2021 for specified purposes, 26.12.2022 for E.W. in so far as not already in force, 1.7.2023 for S. in so far as not already in force) by [Telecommunications Infrastructure (Leasehold Property) Act 2021 (c. 7)](https://www.legislation.gov.uk/ukpga/2021/7), [s. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/4), [Sch. para. 8(4)](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/8/4) (with [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/9)); [S.I. 2022/1308](https://www.legislation.gov.uk/uksi/2022/1308), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/1308/regulation/3/c)
+
+[^key-39be85459a7288c0c85d2aea89df3e32]: Commencement: Reg. 5 in force at 28.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1284/regulation/1/1)

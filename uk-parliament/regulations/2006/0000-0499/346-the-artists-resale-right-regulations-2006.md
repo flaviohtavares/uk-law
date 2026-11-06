@@ -1,0 +1,449 @@
+---
+title: The Artist’s Resale Right Regulations 2006
+id: uksi/2006/346
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-02-13'
+text_date: '2024-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2006/346
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/346/pdfs/uksiem_20060346_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/346/pdfs/uksi_20060346_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/346/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Artist’s Resale Right Regulations 2006
+
+> Text as at 2024-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2006 No. 346
+
+INTELLECTUAL PROPERTY
+
+ARTISTS
+
+The Artist’s Resale Right Regulations 2006
+
+Made
+
+13th February 2006
+
+Coming into force in accordance with regulation 1(1)
+
+The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to the right of artists to receive a payment on the sale of their works[^f00002].
+
+A draft of this instrument was laid before Parliament in accordance with paragraph 2(2) of Schedule 2 to that Act and approved by a resolution of each House of Parliament.
+
+Accordingly the Secretary of State, in exercise of the powers conferred upon him by section 2(2) of that Act, makes the following Regulations:
+
+## 1. Citation, commencement and extent[^key-3d007f2e1ee4b34df924258c4f3c65cd]
+
+(1) These Regulations may be cited as the Artist’s Resale Right Regulations 2006 and shall come into force on the day after the day on which they are made.
+
+(2) These Regulations extend to the whole of the United Kingdom.
+
+## 2. Interpretation[^key-3d0cc2f8a4bb51754068bae9f084e914]
+
+In these Regulations—
+
+- “author”, in relation to a work, means the person who creates it;
+- “collecting society” has the meaning given in regulation 14(5);
+- “contract date”, in relation to a sale, means the time at which the contract of sale was made (and “contract of sale” has the meaning given in section 2 of the Sale of Goods Act 1979[^f00003]);
+- “copyright” has the meaning given in section 1 of the Copyright, Designs and Patents Act 1988[^f00004];
+- [^key-57014c774c3ff42781a05dc6736a42df]...
+- “[^key-8eeb48d3aead6e83986ab395535e144d]**national of the United Kingdom**” has the meaning given by section 178 of the Copyright, Designs and Patents Act 1988
+- “qualifying body” has the meaning given in regulation 7(4);
+- [^key-a90f07ae176f3dc32027a9d8677c9fd9]...
+- “resale” is to be construed in accordance with regulation 12;
+- “resale right” has the meaning given in regulation 3 (and, unless the context otherwise requires, includes a share in resale right);
+- “resale royalty” has the meaning given in regulation 3;
+- “sale” has the meaning given in section 2 of the Sale of Goods Act 1979;
+- “sale price” has the meaning given in regulation 3(4);
+- “trustee in bankruptcy” means, in relation to Scotland, an interim or permanent trustee appointed under the Bankruptcy (Scotland) Act 1985[^f00005];
+- “work” has the meaning given in regulation 4;
+- “work of joint authorship” has the meaning given in regulation 5(4).
+
+## 3. Artist’s resale right[^key-9ad563a08711a2ec8764dfbcf12f5fb7]
+
+(1) The author of a work in which copyright subsists shall, in accordance with these Regulations, have a right (“resale right”) to a royalty on any sale of the work which is a resale subsequent to the first transfer of ownership by the author (“resale royalty”).
+
+(2) Resale right in a work shall continue to subsist so long as copyright subsists in the work.
+
+(3) The royalty shall be an amount based on the sale price which is calculated in accordance with Schedule 1.
+
+(4) The sale price is the price obtained for the sale, net of the tax payable on the sale [^key-f9e513cb4735f315e50d093d35485e9c]....
+
+(5) For the purposes of paragraph (1), “transfer of ownership by the author” includes in particular—
+
+- (a) transmission of the work from the author by testamentary disposition, or in accordance with the rules of intestate succession;
+- (b) disposal of the work by the author’s personal representatives for the purposes of the administration of his estate; and
+- (c) disposal of the work by an official receiver (or, in Northern Ireland, the Official Receiver for Northern Ireland) or a trustee in bankruptcy, for the purposes of the realisation of the author’s estate.
+
+## 4. Works covered[^key-b66a270ad87c081d8ef347ddfef0376b]
+
+(1) For the purposes of these Regulations, “work” means any work of graphic or plastic art such as a picture, a collage, a painting, a drawing, an engraving, a print, a lithograph, a sculpture, a tapestry, a ceramic, an item of glassware or a photograph.
+
+(2) However, a copy of a work is not to be regarded as a work unless the copy is one of a limited number which have been made by the author or under his authority.
+
+## 5. Joint authorship[^key-c79d4d8538aa50c3a84ba4ca3128c31f]
+
+(1) In the case of a work of joint authorship, the resale right shall belong to the authors as owners in common.
+
+(2) The right shall be held in equal shares or in such other shares as may be agreed.
+
+(3) Such an agreement must be in writing signed by or on behalf of each party to the agreement.
+
+(4) “Work of joint authorship” means a work created by two or more authors.
+
+## 6. Proof of authorship[^key-3b702fe289e07e2884d3498e40c5d441]
+
+(1) Where a name purporting to be that of the author appeared on the work when it was made, the person whose name appeared shall, unless the contrary is proved, be presumed to be the author of the work.
+
+(2) In the case of a work alleged to be a work of joint authorship, paragraph (1) applies in relation to each person alleged to be one of the authors.
+
+## 7. Assignment etc.[^key-c7396e6f3891b19fc7af9a8a7d96da46]
+
+(1) Resale right is not assignable.
+
+(2) Any charge on a resale right is void.
+
+(3) Paragraph (1) does not prevent the transfer of a resale right which was transmitted to a qualifying body under regulation 9 (or is deemed to have been so transmitted under regulation 16), provided that the transfer is to another qualifying body.
+
+(4) A qualifying body is a body which—
+
+- (a) is a charity within the meaning of section 96(1) of the Charities Act 1993[^f00006] or section 35 of the Charities Act (Northern Ireland) 1964[^f00007];
+- (b) is a Scottish charity; or
+- (c)[^key-b0dd3906f99f82405c5458d556343d69] is a foreign charity.
+
+(5) In paragraph (4)—
+
+- (a) “Scottish charity” means—
+  - (i) a body entered in the Scottish Charity Register under section 3 of the Charities and Trustee Investment (Scotland) Act 2005[^f00008]; or
+  - (ii) a “recognised body” within the meaning of section 1(7) of the Law Reform (Miscellaneous Provisions)(Scotland) Act 1990[^f00009]; and
+- (b) “foreign charity” means a body which is established outside the United Kingdom for purposes similar to those for which a body within paragraph (4)(a) or (b) may be established, and which is subject to similar rules regarding the distribution and application of its assets.
+
+## 8. Waiver etc.[^key-b9edd3b51abf80d07e26591f39ce864b]
+
+(1) A waiver of a resale right shall have no effect.
+
+(2) An agreement to share or repay resale royalties shall be void.
+
+(3) Paragraph (2) does not affect any agreement made for the purposes of the management of resale right in accordance with regulation 14.
+
+## 9. Transmission and vesting of resale right[^key-8838c8f395e5a87d623114b1f354f41e]
+
+(1) Where by virtue of this regulation resale right is transmitted to, or vests in, any person, it may be exercised by that person.
+
+(2) Resale right—
+
+- (a) is transmissible as personal or moveable property by testamentary disposition or in accordance with the rules of intestate succession but only to a natural person or a qualifying body; and
+- (b) may vest by operation of law in the personal representative of a deceased person.
+
+(3) Resale right may be further transmitted to a natural person or a qualifying body by any person to whom it passes under paragraph (2)(a).
+
+(4) Resale right may be transmitted as bona vacantia.
+
+(5) Resale right may vest by operation of law in an official receiver (or in Northern Ireland, the Official Receiver for Northern Ireland) or a trustee in bankruptcy.
+
+(6) Where resale right is transmitted to more than one person it belongs to them as owners in common.
+
+## 10. Requirements as to nationality[^key-1a8dcd347d077a02e5ce87fbb1c469cc]
+
+Resale right may only be exercised in respect of the sale of a work where its author is—
+
+- (a) living at the date of the sale and is at that date a national of—
+  - (i) the United Kingdom[^key-f2504ca3a3ef368c526b400bb78b581d]; or
+  - (ii) a state the legislation of which permits resale right protection for authors from the United Kingdom and their successors in title; or
+- (b) deceased at the date of the sale and, at the date of the author’s death, the author was a national of a state falling within paragraph (a)(i) or (ii).
+
+## 11. Trusts[^key-12a66c3373fba1fb4c431051ee0c01b3]
+
+Nothing in regulations 7, 9 or 10 prevents a resale right from being—
+
+- (a) held, and exercised in respect of a sale, by any person acting as trustee for the person who would otherwise be entitled to exercise the right (“the beneficiary”); or
+- (b) transferred to such a trustee, or from the trustee to the beneficiary.
+
+## 12. “Resale”[^key-210dd98b734836b696bd862666eff339]
+
+(1) The sale of a work may be regarded as a resale notwithstanding that the first transfer of ownership was not made for a money (or any) consideration.
+
+(2) The sale of a work may regarded as a resale only if the conditions mentioned in paragraph (3) are satisfied in respect of that sale.
+
+(3) The conditions are that—
+
+- (a) the buyer or the seller, or (where the sale takes place through an agent) the agent of the buyer or the seller, is acting in the course of a business of dealing in works of art; and
+- (b) the sale price is not less than £1,000[^key-681a667257f99b0af89ba996122be591].
+
+(4) The sale of a work is not to be regarded as a resale if—
+
+- (a) the seller previously acquired the work directly from the author less than three years before the sale; and
+- (b) the sale price does not exceed £10,000[^key-85426709b62f4188da5d998414aca5aa].
+
+## 13. Liability to pay resale royalty[^key-81d49eea02df491b9d48c54bcec593d2]
+
+(1) The following shall be jointly and severally liable to pay the resale royalty due in respect of a sale—
+
+- (a) the seller; and
+- (b) the relevant person (within the meaning of paragraph (2)).
+
+(2) The relevant person is a person who satisfies the condition mentioned in regulation 12(3)(a) and who is—
+
+- (a) the agent of the seller; or
+- (b) where there is no such agent, the agent of the buyer; or
+- (c) where there are no such agents, the buyer.
+
+(3) Liability shall arise on the completion of the sale; however, a person who is liable may withhold payment until evidence of entitlement to be paid the royalty is produced.
+
+(4) Any liability to pay resale royalty in respect of a resale right which belongs to two or more persons as owners in common is discharged by a payment of the total amount of royalty to one of those persons.
+
+## 14. Collective management[^key-2777263ed4e9b43643681a96bfade855]
+
+(1) Resale right may be exercised only through a collecting society.
+
+(2) Where the holder of the resale right has not transferred the management of his right to a collecting society, the collecting society which manages copyright on behalf of artists shall be deemed to be mandated to manage his right.
+
+(3) Where there is more than one such collecting society, the holder may choose which of them is so mandated.
+
+(4) A holder to whom paragraph (2) applies has the same rights and obligations, in respect of the management of his right, as have holders who have transferred the management of their right to the collecting society concerned.
+
+(5) For those purposes—
+
+- (a) “collecting society” means a society or other organisation which has as its main object, or one of its main objects, the administration of rights on behalf of more than one artist; and
+- (b) the management of resale right is the collection of resale royalty on behalf of the holder of the right in return for a fixed fee or a percentage of the royalty.
+
+## 15. Right to information[^key-81b17a710827f6cb736baf660fcd64c6]
+
+(1) A holder of resale right in respect of a sale, or a person acting on his behalf, shall have the right to obtain information by making a request under this regulation.
+
+(2) Such a request—
+
+- (a) may be made to any person who (in relation to that sale) satisfies the condition mentioned in regulation 12(3)(a); but
+- (b) must be made within three years of the sale to which it relates.
+
+(3) The information that may be so requested is any that may be necessary in order to secure payment of the resale royalty, and in particular to ascertain—
+
+- (a) the amount of royalty that is due; and
+- (b) where the royalty is not paid by the person to whom the request is made, the name and address of any person who is liable.
+
+(4) The person to whom the request is made shall do everything within his power to supply the information requested within 90 days of the receipt of the request.
+
+(5) If that information is not supplied within the period mentioned in paragraph (4), the person making the request may, in accordance with rules of court, apply to the county court for an order requiring the person to whom the request is made to supply the information.
+
+(6) In Scotland, such an application shall be by way of summary application to the sheriff, and the procedure for breach of an order shall proceed in like manner as for a contempt of court.
+
+(7) Information obtained under this regulation shall be treated as confidential.
+
+## 16. Transitional provisions[^key-bab50531b71854d6b091ab2569d2a1ca]
+
+(1) These Regulations—
+
+- (a) do not apply to sales where the contract date preceded the commencement of the Regulations; but
+- (b) apply notwithstanding that the work sold was made before that commencement.
+
+(2) Where the author of a work (or a person to whom the resale right in that work is deemed to have been transmitted under this regulation) died before the commencement of these Regulations, and was at the time of his death a qualifying individual within the meaning of regulation 10(3) as originally enacted[^key-3580e2d70261c24d2f64d33d40b1d151]—
+
+- (a) if he was the owner of the copyright in the work immediately before his death, and on his death a qualifying person became beneficially entitled to that copyright (or to part of it), the resale right in the work shall be deemed to have been transmitted to that person;
+- (b) if he was the owner of the work (but not the copyright in it) immediately before his death, and on his death a qualifying person became beneficially entitled to the work, the resale right shall be deemed to have been transmitted to that person;
+- (c) otherwise, the resale right shall be deemed to have been transmitted to the qualifying persons who were beneficially entitled to the residue of his personal estate.
+
+(3) Where the author of the work was one of a number of joint authors, the right deemed to have been transmitted by the author under this regulation is one of that number of equal shares in the resale right.
+
+(4) Where a resale right is deemed to have been transmitted to more than one person under paragraph (2)(a), (b) or (c), the resale right shall be deemed to have been transmitted to them in equal shares as owners in common.
+
+(5) In this regulation, “qualifying person” means a person to whom a resale right may be transmitted under regulation 9(2) and (3) as originally enacted[^key-b3d215eb4ffb6f30b54d24f229ef5f43].
+
+## 17. Review of Regulations[^key-f506bde44edaf33baf1fde69509df918]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of these Regulations,
+- (b) set out the conclusions of the review in the report, and
+- (c) publish the report.
+
+(2)[^key-1d0d6f3f9e514e897d0b639c7956c4b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations,
+- (b) assess the extent to which those objectives are achieved, and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of five years beginning with the 1st January 2012.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Sainsbury of Turville
+
+Parliamentary Under-Secretary of State for Science and Innovation
+
+Department of Trade and Industry
+
+13th February 2006
+
+## SCHEDULE 1 — CALCULATION OF RESALE ROYALTY
+
+Regulation 3(3)
+
+**1.**[^key-5d8a97d5d96a0ccabc9f1f48a63a5433] The resale royalty payable on the sale of a work shall be the sum of the following amounts, being percentage amounts of consecutive portions of the sale price—
+
+| Portion of the sale price | Percentage amount |
+| --- | --- |
+| From £0 to £50,000[^key-37c92a58dc355452c98d6d4fdba529d0] | 4% |
+| From £50,000.01 to £200,000[^key-7afb6ff6512197535d2c7839dfe0318b] | 3% |
+| From £200,000.01 to £350,000[^key-7f6636fd1e07649c80538d74ffc0e3df] | 1% |
+| From £350,000.01 to £500,000[^key-2e82d51b797c72ca02675e22e432c83a] | 0.5% |
+| Exceeding £500,000[^key-7e4cb0c6348c697f2067f35318865fa1] | 0.25% |
+
+**2.**[^key-b99f78f0be39d1b831fbcfa08f04929a] However, the total amount of royalty payable on the sale shall not in any event exceed £12,500[^key-f46d446f5ca0643d74923241903ece99].
+
+## SCHEDULE 2 — COUNTRIES OUTSIDE THE EEA WHOSE NATIONALS MAY ENJOY RESALE RIGHT[^key-992b9edbf8c57c4a0fa32fe3a471fa38]
+
+**No longer in force.**
+
+Regulations 7(4) and 10(3)
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(This note is not part of the Regulations)
+
+These Regulations implement Directive [2001/84/EC](https://www.legislation.gov.uk/european/directive/2001/0084) of the European Parliament and of the Council of 27 September 2001 on the resale right for the benefit of the author of an original work of art (OJ No L 272, 13.10.2001, p.32) (“the Directive”). The Regulations also amount to the implementation, by the United Kingdom, of the option given by Article 14ter of the Berne Copyright Convention (Cmnd. 5002).
+
+*Regulation 3* creates a new intellectual property right (“resale right”) to be enjoyed by the creator of a work of art (and that artist’s successors in title) for as long as copyright continues to subsist in the work. The right consists in the entitlement to claim a royalty on the resale of the work following its first transfer by the artist. The amount of the royalty is based on the sale price (denominated in euro), and *Schedule 1* sets out how that amount is to be calculated.
+
+*Regulation 4(1)* defines the works of art which are covered by the Regulations. *Regulation 4(2)* lays down the conditions under which a copy of a work is to be regarded as a work covered.
+
+*Regulation 5* makes provision for works which are the joint product of two or more artists, and *regulation 6* lays down a rebuttable presumption that a signatory of the work is its creator.
+
+*Regulation 7* ensures that resale right may not be assigned or charged, but does not prevent the transfer of a resale right where it has been transmitted to a qualifying charitable body, provided that the transfer is to another such body. (See also *regulation 11* on trustees.) The relevant bodies are defined in *regulation 7(4) and (5).*
+
+*Regulation 8* prevents resale right from being waived, and precludes any agreement to share or repay resale royalties; however, this does not prevent a collecting society from collecting resale right on the holder’s behalf in return for a percentage of the royalty (see *regulation 14*).
+
+*Regulation 9* enables a resale right to be transmitted, on the death of its holder, to a natural person or to a qualifying charitable body, and makes it clear that in the absence of any heirs it may pass to the Crown as “bona vacantia” (“ownerless property”).
+
+*Regulation 10* lays down certain nationality requirements. Resale right may be exercised only by an individual who is an EEA national (or national of a country listed in *Schedule 2*), or by a qualifying charitable body. Similarly, only such an individual may transmit resale right under *regulation 9*. It follows from the combined provisions of *regulations 9 and 10* that an individual who does not satisfy those requirements may none the less inherit resale right, but such an individual may not exercise it or further pass it on while the requirements continue not to be satisfied.
+
+*Regulation 11* enables any person to hold and to exercise resale right in the capacity of a trustee for a person entitled to the right, and enables legal title to the right to be transferred to such a trustee or to the beneficiary. Thus in particular the nationality and other requirements of *regulations 9 and 10* are to be satisfied by the beneficial owner of a resale right rather than by the trustee.
+
+*Regulation 12* defines when a sale is to be regarded as a “resale” for the purposes of the Regulations (thereby attracting the obligation to pay resale royalty). *Regulation 12(1)* makes it clear that a sale may be a resale, even though the initial transfer of ownership in the work was not itself a sale. Thus for example a “resale” following a gift by the artist would also qualify (and see also *regulation 3(5)*). *Regulation 12(3)* provides that an art-market professional must be involved in the sale, either as principal or agent, and imposes a minimum price threshold of 1,000 euro. *Regulation 12(4)* exempts certain sales where the work was recently acquired from the artist.
+
+*Regulation 13* makes a specified art-market professional involved in the sale jointly and severally liable with the seller. The art-market professional who is so liable is the agent of the seller, if any, or failing that the agent of the buyer, or (again if there is no such agent) the buyer. Thus where the agent of the seller is a professional, that agent will be liable; and a buyer who is a professional will be liable only if no professional is involved either as an agent of the seller or the buyer.
+
+*Regulation 14* imposes the requirement of compulsory collective management (an option permitted by Article 6(2) of the Directive). Thus resale right may be exercised only through an artists' collecting society (although the holder may select for those purposes any such society which manages rights on behalf of artists).
+
+*Regulation 15* enables holders of a resale right to obtain the information necessary to enforce their rights. Information regarding a sale may be requested from any art-market professional involved in the sale; if the necessary information is not provided within 90 days of the request, an application may be made to the court. Such requests must, however, be made within three years of the sale in question.
+
+*Regulation 16* contains transitional provisions. By *regulation 16(1)*, the Regulations do not apply where the relevant contract of sale was made before the date that the Regulations come into force. But as regards contracts made subsequently, the Regulations apply notwithstanding that the work sold was made before that date. (However, by *regulation 3(1) and (2)*, resale right will exist only if the work is still in copyright.)
+
+*Regulation 16(2) to (5)* provides for the case where the artist died before the Regulations come into force. In such circumstances, resale right cannot at that time have been transmitted to the artist’s successors under *regulation 9*. Accordingly, *regulation 16(2)* provides a rule for determining who should then be regarded as the artist’s successors for the purpose of holding resale right. Resale right is deemed to have passed with copyright in the work, if the copyright formed part of the artist’s estate; or, failing that, to have passed with the work itself. If the artist owned neither the work nor the copyright in it, or if neither passed to a specific beneficiary, resale right in the work is deemed to have formed part of his residuary estate. The same rule applies where the deemed successor in turn died before the commencement of the Regulations.
+
+*Regulation 17* exercises the option under Article 8(2) of the Directive, which is available to member States such as the United Kingdom which did not have resale right at the date of entry into force of the Directive (13th October 2001). In accordance with that option, those to whom a resale right is transmitted (or deemed to be transmitted) after the death of the artist may not exercise the right until 1st January 2010.
+
+A Regulatory Impact Assessment, and a Transposition Note setting out how these Regulations implement the Directive, have been placed in the libraries of both Houses of Parliament.
+
+The Regulatory Impact Assessment and the Transposition Note are also available from the Patent Office, Intellectual Property and Innovation Directorate, Concept House, Newport, South Wales, NP10 8QQ, and are available electronically at:
+
+www.patent.gov.uk/about/consultations/responses/resale.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00002]: Footnote: [SI 2004/1984](https://www.legislation.gov.uk/uksi/2004/1984).
+
+[^key-3d007f2e1ee4b34df924258c4f3c65cd]: Commencement: Reg. 1 in force at 14.2.2006 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/346/regulation/1/1)
+
+[^key-3d0cc2f8a4bb51754068bae9f084e914]: Commencement: Reg. 2 in force at 14.2.2006 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/346/regulation/1/1)
+
+[^f00003]: Footnote: [1979 c. 54](https://www.legislation.gov.uk/ukpga/1979/54).
+
+[^f00004]: Footnote: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48). There is an amendment to section 1 that is not relevant to these Regulations.
+
+[^key-57014c774c3ff42781a05dc6736a42df]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2006/346/regulation/2) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [29(2)(a)](https://www.legislation.gov.uk/uksi/2019/605/regulation/29/2/a) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8eeb48d3aead6e83986ab395535e144d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2006/346/regulation/2) inserted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [29(2)(b)](https://www.legislation.gov.uk/uksi/2019/605/regulation/29/2/b) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a90f07ae176f3dc32027a9d8677c9fd9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2006/346/regulation/2) omitted (1.1.2012) by virtue of [The Artist’s Resale Right (Amendment) Regulations 2011 (S.I. 2011/2873)](https://www.legislation.gov.uk/uksi/2011/2873), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2873/regulation/1), [3](https://www.legislation.gov.uk/uksi/2011/2873/regulation/3)
+
+[^f00005]: Footnote: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66).
+
+[^key-9ad563a08711a2ec8764dfbcf12f5fb7]: Commencement: Reg. 3 in force at 14.2.2006 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/346/regulation/1/1)
+
+[^key-f9e513cb4735f315e50d093d35485e9c]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2006/346/regulation/3/4) omitted (1.4.2024) by virtue of [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/1285/regulation/4))
+
+[^key-b66a270ad87c081d8ef347ddfef0376b]: Commencement: Reg. 4 in force at 14.2.2006 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/346/regulation/1/1)
+
+[^key-c79d4d8538aa50c3a84ba4ca3128c31f]: Commencement: Reg. 5 in force at 14.2.2006 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/346/regulation/1/1)
+
+[^key-3b702fe289e07e2884d3498e40c5d441]: Commencement: Reg. 6 in force at 14.2.2006 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/346/regulation/1/1)
+
+[^key-c7396e6f3891b19fc7af9a8a7d96da46]: Commencement: Reg. 7 in force at 14.2.2006 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/346/regulation/1/1)
+
+[^f00006]: Footnote: [1993 c. 10](https://www.legislation.gov.uk/ukpga/1993/10).
+
+[^f00007]: Footnote: [1964 c. 33](https://www.legislation.gov.uk/apni/1964/33).
+
+[^key-b0dd3906f99f82405c5458d556343d69]: Textual amendment: [Reg. 7(4)(c)](https://www.legislation.gov.uk/uksi/2006/346/regulation/7/4/c) substituted (1.1.2012) by [The Artist’s Resale Right (Amendment) Regulations 2011 (S.I. 2011/2873)](https://www.legislation.gov.uk/uksi/2011/2873), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2873/regulation/1), [4](https://www.legislation.gov.uk/uksi/2011/2873/regulation/4)
+
+[^f00008]: Footnote: [2005 asp10](https://www.legislation.gov.uk/asp/2005/10); section 3 comes into force on such day as the Scottish Ministers may by order appoint.
+
+[^f00009]: Footnote: [1990 c. 40](https://www.legislation.gov.uk/ukpga/1990/40); section 1 is amended by paragraph 7(a) of Schedule 4 to the Charities and Trustee Investment (Scotland) Act 2005, which comes into force on such day as the Scottish Ministers may by order appoint.
+
+[^key-b9edd3b51abf80d07e26591f39ce864b]: Commencement: Reg. 8 in force at 14.2.2006 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/346/regulation/1/1)
+
+[^key-8838c8f395e5a87d623114b1f354f41e]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/346/regulation/9) substituted (1.1.2012) by [The Artist’s Resale Right (Amendment) Regulations 2011 (S.I. 2011/2873)](https://www.legislation.gov.uk/uksi/2011/2873), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2873/regulation/1), [5](https://www.legislation.gov.uk/uksi/2011/2873/regulation/5)
+
+[^key-1a8dcd347d077a02e5ce87fbb1c469cc]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/346/regulation/10) substituted (1.1.2012) by [The Artist’s Resale Right (Amendment) Regulations 2011 (S.I. 2011/2873)](https://www.legislation.gov.uk/uksi/2011/2873), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2873/regulation/1), [6](https://www.legislation.gov.uk/uksi/2011/2873/regulation/6)
+
+[^key-f2504ca3a3ef368c526b400bb78b581d]: Textual amendment: Words in [reg. 10(a)](https://www.legislation.gov.uk/uksi/2006/346/regulation/10/a) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [29(3)](https://www.legislation.gov.uk/uksi/2019/605/regulation/29/3) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-12a66c3373fba1fb4c431051ee0c01b3]: Commencement: Reg. 11 in force at 14.2.2006 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/346/regulation/1/1)
+
+[^key-210dd98b734836b696bd862666eff339]: Commencement: Reg. 12 in force at 14.2.2006 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/346/regulation/1/1)
+
+[^key-681a667257f99b0af89ba996122be591]: Textual amendment: Sum in [reg. 12(3)(b)](https://www.legislation.gov.uk/uksi/2006/346/regulation/12/3/b) substituted (1.4.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/3/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/1285/regulation/4))
+
+[^key-85426709b62f4188da5d998414aca5aa]: Textual amendment: Sum in [reg. 12(4)(b)](https://www.legislation.gov.uk/uksi/2006/346/regulation/12/4/b) substituted (1.4.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/3/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/1285/regulation/4))
+
+[^key-81d49eea02df491b9d48c54bcec593d2]: Commencement: Reg. 13 in force at 14.2.2006 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/346/regulation/1/1)
+
+[^key-2777263ed4e9b43643681a96bfade855]: Commencement: Reg. 14 in force at 14.2.2006 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/346/regulation/1/1)
+
+[^key-81b17a710827f6cb736baf660fcd64c6]: Commencement: Reg. 15 in force at 14.2.2006 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/346/regulation/1/1)
+
+[^key-bab50531b71854d6b091ab2569d2a1ca]: Commencement: Reg. 16 in force at 14.2.2006 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/346/regulation/1/1)
+
+[^key-3580e2d70261c24d2f64d33d40b1d151]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2006/346/regulation/16/2) added (1.1.2012) by [The Artist’s Resale Right (Amendment) Regulations 2011 (S.I. 2011/2873)](https://www.legislation.gov.uk/uksi/2011/2873), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2873/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2011/2873/regulation/7/a)
+
+[^key-b3d215eb4ffb6f30b54d24f229ef5f43]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/uksi/2006/346/regulation/16/5) added (1.1.2012) by [The Artist’s Resale Right (Amendment) Regulations 2011 (S.I. 2011/2873)](https://www.legislation.gov.uk/uksi/2011/2873), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2873/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2011/2873/regulation/7/b)
+
+[^key-f506bde44edaf33baf1fde69509df918]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2006/346/regulation/17) substituted (1.1.2012) by [The Artist’s Resale Right (Amendment) Regulations 2011 (S.I. 2011/2873)](https://www.legislation.gov.uk/uksi/2011/2873), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2873/regulation/1), [8](https://www.legislation.gov.uk/uksi/2011/2873/regulation/8)
+
+[^key-1d0d6f3f9e514e897d0b639c7956c4b0]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/uksi/2006/346/regulation/17/2) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [29(4)](https://www.legislation.gov.uk/uksi/2019/605/regulation/29/4) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5d8a97d5d96a0ccabc9f1f48a63a5433]: Commencement: Sch. 1 para. 1 in force at 14.2.2006 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/346/regulation/1/1)
+
+[^key-37c92a58dc355452c98d6d4fdba529d0]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2006/346/schedule/1/paragraph/1) table substituted (1.4.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/3), [3(5)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/3/5/a/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/1285/regulation/4))
+
+[^key-7afb6ff6512197535d2c7839dfe0318b]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2006/346/schedule/1/paragraph/1) table substituted (1.4.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/3), [3(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/3/5/a/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/1285/regulation/4))
+
+[^key-7f6636fd1e07649c80538d74ffc0e3df]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2006/346/schedule/1/paragraph/1) table substituted (1.4.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/3), [3(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/3/5/a/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/1285/regulation/4))
+
+[^key-2e82d51b797c72ca02675e22e432c83a]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2006/346/schedule/1/paragraph/1) table substituted (1.4.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/3), [3(5)(a)(iv)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/3/5/a/iv) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/1285/regulation/4))
+
+[^key-7e4cb0c6348c697f2067f35318865fa1]: Textual amendment: Sum in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2006/346/schedule/1/paragraph/1) table substituted (1.4.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/3), [3(5)(a)(v)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/3/5/a/v) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/1285/regulation/4))
+
+[^key-b99f78f0be39d1b831fbcfa08f04929a]: Commencement: Sch. 1 para. 2 in force at 14.2.2006 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/346/regulation/1/1)
+
+[^key-f46d446f5ca0643d74923241903ece99]: Textual amendment: Sum in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2006/346/schedule/1/paragraph/2) substituted (1.4.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/3), [3(5)(b)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/3/5/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/1285/regulation/4))
+
+[^key-992b9edbf8c57c4a0fa32fe3a471fa38]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2006/346/schedule/2) revoked (1.1.2012) by [The Artist’s Resale Right (Amendment) Regulations 2011 (S.I. 2011/2873)](https://www.legislation.gov.uk/uksi/2011/2873), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2873/regulation/1), [9](https://www.legislation.gov.uk/uksi/2011/2873/regulation/9)

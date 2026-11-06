@@ -1,0 +1,96 @@
+---
+title: The Transport for Greater Manchester (Light Rapid Transit System) (Trafford Park Extension) Order 2016, section 2
+act: The Transport for Greater Manchester (Light Rapid Transit System) (Trafford Park Extension) Order 2016
+section: '2'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2016/1035/section/2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Transport for Greater Manchester (Light Rapid Transit System) (Trafford Park Extension) Order 2016, section 2
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 2. Interpretation
+
+(1) In this Order—
+
+- “the 1961 Act” means the Land Compensation Act 1961[^f00003];
+- “the 1965 Act” means the Compulsory Purchase Act 1965[^f00004];
+- “the 1980 Act” means the Highways Act 1980[^f00005];
+- “the 1984 Act” means the Road Traffic Regulation Act 1984[^f00006];
+- “the 1990 Act” means the Town and Country Planning Act 1990[^f00007];
+- “the 1991 Act” means the New Roads and Street Works Act 1991[^f00008];
+- “address” includes any number or address used for the purposes of electronic transmission;
+- “authorised street tramway” means any street tramway authorised by this Order;
+- “the authorised transit system” means the transit system authorised by this Order;
+- “the authorised works” means the scheduled works and any other works authorised by this Order, or any part of them;
+- “the book of reference” means the book of reference certified by the Secretary of State as the book of reference for the purposes of this Order;
+- “the Borough Council” means Trafford Metropolitan Borough Council;
+- “building” includes any structure or erection, or any part of a building, structure or erection;
+- “carriageway” has the same meaning as in the 1980 Act;
+- “cycle track” has the same meaning as in section 329(1) (further provisions as to interpretation) of the 1980 Act[^f00009];
+- “electric line” has the meaning given by section 64(1) (interpretation etc. of Part 1) of the Electricity Act 1989[^f00010];
+- “electronic transmission” means a communication transmitted—
+  - (a) by means of an electronic communications network; or
+  - (b) by other means but while in electronic form;
+- “footway” has the same meaning as in the 1980 Act;
+- “highway” and “highway authority” have the same meaning as in the 1980 Act;
+- “the limits of land to be acquired or used” means the limits of land to be acquired or used shown on the works and land plans;
+- “the limits of deviation” means the limits of lateral deviation for the scheduled works mentioned in article 8(1)(a) and (2) (power to deviate);
+- “maintain” includes inspect, repair, adjust, alter, remove, reconstruct and replace, and “maintenance” is to be construed accordingly;
+- “the Order limits” means the permanent limits and the temporary limits;
+- “owner”, in relation to land, has the same meaning as in section 7 (interpretation) of the Acquisition of Land Act 1981[^f00011];
+- “parking place” has the same meaning as in section 32 (power of local authorities to provide parking places) of the 1984 Act;
+- “the permanent limits” means the limits of deviation and of land to be acquired or used, as shown on the works and land plans, and described in the book of reference;
+- “the scheduled works” means the works specified in Schedule 1 (scheduled works), or any part of them;
+- “the sections” means the sections included in the works and land plans;
+- “street” includes part of a street;
+- “street authority”, in relation to a street, has the same meaning as in Part 3 of the 1991 Act;
+- “street tramway” means any part of a transit system which is laid along a street whether or not the section of the street in which its rails are laid may be used by other traffic;
+- “the temporary limits” means the limits of land to be used temporarily as shown on the works and land plans, described in the book of reference and specified in columns (1) and (2) of Schedule 6 (land of which temporary possession may be taken);
+- “the traffic regulation plans” means the plans certified by the Secretary of State as the traffic regulation plans for the purposes of this Order;
+- “tramcar” means any vehicle (whether or not used for the carriage of passengers) carried on flanged wheels along the rails of a transit system;
+- “tramroad” means any part of a transit system which is not a street tramway;
+- “transit system” means a system of transport used wholly or mainly for the carriage of passengers and employing parallel rails which—
+  - (a) provide support and guidance for vehicles carried on flanged wheels; and
+  - (b) are laid in part along a street or in any other place to which the public has access (including a place to which the public has access only on making a payment);
+- “the tribunal” means the Lands Chamber of the Upper Tribunal;
+- “the undertaker” means Transport for Greater Manchester established by the South East Lancashire and North East Cheshire Passenger Transport Area (Designation) Order 1969[^f00012];
+- “watercourse” includes all docks, rivers, streams, ditches, drains, canals, cuts, culverts, dykes, sluices, sewers and passages through which water flows (whether or not the flow is intermittent) except a public sewer or drain; and
+- “the works and land plans” means the plans and sections certified by the Secretary of State as the works and land plans for the purposes of this Order.
+
+(2) References in this Order to rights over land include references to rights to do, or to place and maintain, anything in or on land or in the air-space over its surface.
+
+(3) In the case of any street in relation to which a pedestrian planning order made under section 249(2) (order extinguishing right to use vehicles on highway) of the 1990 Act is in force, the kerbline of the street, where there is no kerb, is to be taken to be the edge of the part of the street on which the passage of vehicles is permitted.
+
+(4) Any reference in this Order to a work identified by the number of the work is to be construed as a reference to the work of that number authorised by this Order.
+
+(5) References in this Order to points identified by letters with numbers are to be construed as references to the points so marked on the works and land plans.
+
+(6) All distances, directions, lengths and points stated in the description of the scheduled works or in any description of powers or lands are approximate and distances between points on a scheduled work are taken to be measured along the scheduled work.
+
+## Annotations
+
+[^f00003]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
+
+[^f00004]: Footnote: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
+
+[^f00005]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^f00006]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
+
+[^f00007]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^f00008]: Footnote: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22).
+
+[^f00009]: Footnote: The definition of “cycle track” was amended by section 1 of the Cycle Tracks Act [1984 (c. 38)](https://www.legislation.gov.uk/ukpga/1984/38) and paragraph 21(2) of Schedule 3 to the Road Traffic (Consequential Provisions) Act [1988 (c. 54)](https://www.legislation.gov.uk/ukpga/1988/54).
+
+[^f00010]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
+
+[^f00011]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
+
+[^f00012]: Footnote: [S.I. 1969/25](https://www.legislation.gov.uk/uksi/1969/25), amended by [S.I. 1973/1727](https://www.legislation.gov.uk/uksi/1973/1727). By virtue of [S.I. 2011/908](https://www.legislation.gov.uk/uksi/2011/908) the passenger transport executive was re-named “Transport for Greater Manchester”.

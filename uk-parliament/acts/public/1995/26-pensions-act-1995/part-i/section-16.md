@@ -1,0 +1,27 @@
+---
+title: Pensions Act 1995, section 16
+act: Pensions Act 1995
+section: '16'
+status: revised-with-pending-changes
+text_date: '2026-07-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1995/26/section/16
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pensions Act 1995, section 16
+
+> **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 16. Requirement for member-nominated trustees.[^key-690f9aed0f66e654edf3ec3b595bdbdb]
+
+*Extent: E+W+S*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-690f9aed0f66e654edf3ec3b595bdbdb]: Textual amendment: [Ss. 16-21](https://www.legislation.gov.uk/ukpga/1995/26/section/16) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(6)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/6)

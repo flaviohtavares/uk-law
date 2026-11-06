@@ -1,0 +1,905 @@
+---
+title: Courts and Tribunals (Judiciary and Functions of Staff) Act 2018
+id: ukpga/2018/33
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '2018-12-20'
+text_date: '2020-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2018/33
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/2018/33/pdfs/ukpgaen_20180033_en.pdf
+- http://www.legislation.gov.uk/ukpga/2018/33/pdfs/ukpga_20180033_en.pdf
+- http://www.legislation.gov.uk/ukpga/2018/33/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Courts and Tribunals (Judiciary and Functions of Staff) Act 2018
+
+> Text as at 2020-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Courts and Tribunals (Judiciary and Functions of Staff) Act 2018
+
+2018 c. 33
+
+An Act to make provision about the judiciary and the functions of the staff of courts and tribunals.
+
+\[20th December 2018\]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Judiciary
+
+### 1. Deployment of judges
+
+(1) In section 94AA of the Constitutional Reform Act 2005 (appointments not subject to section 85: High Court deputy judge), in subsection (2)(a), after “Crown Court” insert “ or any other court or tribunal to which a deputy judge of the High Court may be deployed ”.
+
+(2) In section 6 of the Tribunals, Courts and Enforcement Act 2007 (certain judges who are also judges of the First-tier Tribunal and Upper Tribunal), in subsection (1)—
+
+- (a) after paragraph (e) insert—
+
+  > - (ea) is a Recorder,
+
+  ;
+- (b) omit the “or” at the end of paragraph (h);
+- (c) after paragraph (i) insert—
+
+  > - (j) is the President of Employment Tribunals (England and Wales),
+  > - (k) is the President of Employment Tribunals (Scotland),
+  > - (l) is the Vice President of Employment Tribunals (Scotland), or
+  > - (m) is a Regional Employment Judge.
+
+(3) Accordingly, in section 6A of that Act (certain judges who are also judges of the First-tier Tribunal), omit paragraph (b).
+
+(4) In section 7 of the Tribunals, Courts and Enforcement Act 2007 (chambers of the First-tier Tribunal and Upper Tribunal: jurisdiction and Presidents)—
+
+- (a) for subsection (3) substitute—
+
+  > (3) A person may at a particular time—
+  >
+  > - (a) preside over more than one chamber of the First-tier Tribunal;
+  > - (b) preside over more than one chamber of the Upper Tribunal;
+  > - (c) preside over—
+  >   - (i) one or more chambers of the First-tier Tribunal, and
+  >   - (ii) one or more chambers of the Upper Tribunal.
+
+  ;
+- (b) in subsections (6) and (7), for “subsections (2) and (3)” substitute “ subsection (2) ”.
+
+(5) In section 22(2A) of the Employment Tribunals Act 1996 (membership of Employment Appeal Tribunal)—
+
+- (a) omit the “or” at the end of paragraph (i);
+- (b) after paragraph (j) insert—
+
+  > - (k) is the President of Employment Tribunals (England and Wales), or
+  > - (l) is the President of Employment Tribunals (Scotland).
+
+(6) In section 93 of the Arbitration Act 1996 (appointment of judges as arbitrators)—
+
+- (a) in subsections (1) and (2), for “A judge of the Commercial Court” substitute “ An eligible High Court judge ”;
+- (b) in subsection (4), for “a judge of the Commercial Court” substitute “ an eligible High Court judge ”;
+- (c) after subsection (4) insert—
+
+  > (4A) The Lord Chief Justice may nominate a senior judge (as defined in section 109(5) of the Constitutional Reform Act 2005) to exercise functions of the Lord Chief Justice under this section.
+
+  ;
+- (d) in subsection (5)—
+  - (i) omit the “and” at the end of the definition of “arbitration agreement”;
+  - (ii) after that definition insert—
+
+    > - “**eligible High Court judge**” means—
+    >   - (a) a puisne judge of the High Court, or
+    >   - (b) a person acting as a judge of the High Court under or by virtue of section 9(1) of the Senior Courts Act 1981;
+
+    .
+
+(7) In Schedule 2 to the Arbitration Act 1996 (modifications of Part 1 in relation to judge-arbitrators), in paragraph 1, for “a judge of the Commercial Court” substitute “ an eligible High Court judge ”.
+
+### 2. Alteration of judicial titles
+
+(1) In section 89 of the Senior Courts Act 1981 (masters and registrars), in subsection (3C), in the first column of the table, for “Chief Bankruptcy Registrar” substitute “ Chief Insolvency and Companies Court Judge ”.
+
+(2) In Schedule 14 to the Constitutional Reform Act 2005 (the Judicial Appointments Commission: relevant offices and enactments), in Part 1 (appointments by Her Majesty), in the first column of table 2, for “Chief Bankruptcy Registrar” substitute “ Chief Insolvency and Companies Court Judge ”.
+
+(3) In section 64 of the Courts Act 2003 (power to alter judicial titles)—
+
+- (a) in subsection (2), at the appropriate places insert the following entries— “ Chief Chancery Master ”; “ Chief Insolvency and Companies Court Judge ”; “ Chief Taxing Master ”; “ Senior District Judge of the Family Division ”; “ Senior Master of the Queen's Bench Division ”;
+- (b) in subsection (3), for “91(1)(a)” substitute “ 91(1) ”.
+
+## Functions of staff
+
+### 3. Authorised court and tribunal staff: legal advice and judicial functions[^key-5e1d6aee02713d5b29e02d7c6e83dd8e][^key-468737891af8b939fea405758f982946]
+
+(1) The Schedule provides for authorised court and tribunal staff—
+
+- (a) to provide legal advice to judges of the family court and justices of the peace, and
+- (b) to exercise judicial functions where procedure rules so provide.
+
+(2) The Secretary of State or Lord Chancellor may, by regulations made by statutory instrument, make consequential, transitional, transitory or saving provision in relation to the Schedule.
+
+(3) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) Regulations under this section may make different provision for different purposes.
+
+## Final provisions
+
+### 4. Short title, commencement and extent
+
+(1) This Act may be cited as the Courts and Tribunals (Judiciary and Functions of Staff) Act 2018.
+
+(2) Sections 1 and 2 come into force at the end of the period of two months beginning with the day on which this Act is passed.
+
+(3) Section 3 and the Schedule come into force on such day as the Secretary of State may by regulations made by statutory instrument appoint.
+
+(4) Regulations under subsection (3) may—
+
+- (a) appoint different days for different purposes;
+- (b) appoint different days for different areas;
+- (c) make transitional, transitory or saving provision.
+
+(5) This section comes into force on the day on which this Act is passed.
+
+(6) Any amendment, repeal or revocation made by this Act has the same extent as the enactment amended, repealed or revoked.
+
+(7) The rest of this Act extends to England and Wales, Scotland and Northern Ireland.
+
+## SCHEDULE — Authorised court and tribunal staff: legal advice and judicial functions
+
+Section 3
+
+### PART 1 — Courts
+
+#### Criminal Justice Act 1972
+
+**1.**[^key-bafd98c7d8e9536e995e3fc2ae4d1450] In section 51 of the Criminal Justice Act 1972 (execution of process between England and Wales and Scotland), omit subsection (4).
+
+#### Solicitors Act 1974
+
+**2.**[^key-479d2e67cab975d5e477439ba73b5d5b] In section 3(1) of the Solicitors Act 1974 (admission as solicitor), omit the words from the beginning to “clerk),”.
+
+#### Bail Act 1976
+
+**3.**[^key-f706739a2c63ed3561f3963fdcbe3156] In section 8(4)(a) of the Bail Act 1976 (recognizance of surety), omit “, a justices' clerk”.
+
+#### Magistrates' Courts Act 1980
+
+**4.**[^key-0639d0cf593d875218b95fabd913d0d2] The Magistrates' Courts Act 1980 is amended as follows.
+
+**5.**[^key-f70709db050472ce2d94e47f3324313a] (1) Section 12 (non-appearance of accused: plea of guilty) is amended as follows.
+
+(2) In subsection (7), omit “by the clerk of the court”.
+
+(3) In subsection (7ZA), at the end insert—
+
+> - (c) specify the persons, or description of persons, who must—
+>   - (i) read out the things mentioned in such of those paragraphs as apply, and
+>   - (ii) give the account mentioned in subsection (7A).
+
+(4) In subsection (7A), omit “by the clerk of the court”.
+
+**6.**[^key-c3729dc58c32280a6517ab8b213fa44f] In section 77(6)(a) (postponement of issue of warrant: reference of application to court), omit “clerk of the”.
+
+**7.**[^key-4bb921e6339c5e39162e22078ac27f5e] In section 114 (recognizances and fees on case stated)—
+
+- (a) for “justices' clerk” substitute “ designated officer for the court ”, and
+- (b) omit “for the court”.
+
+**8.**[^key-cc3f136fe64b8a90a029ad3fe9897bfc] (1) Section 125C (disclosure of information for enforcing warrants) is amended as follows.
+
+(2) In subsection (1), omit “(or to a justices' clerk who is specified in the application)”.
+
+(3) In subsection (3)(c) omit “justices' clerk or other”.
+
+**9.**[^key-13809ca48bca38daf951a855e8fa26d9] In section 125CB(1)(c) (use of information supplied under disclosure order), omit “justices' clerk or other”.
+
+**10.**[^key-f49858882bc0f9c4de3688ad9fc863b9] In section 144 (rules of procedure), for subsections (1) and (1ZA) substitute—
+
+> (1) The Lord Chief Justice may, with the concurrence of the Lord Chancellor, make rules for regulating and prescribing, except in relation to any criminal cause or matter, the procedure and practice to be followed—
+>
+> - (a) in magistrates' courts, and
+> - (b) by designated officers for magistrates' courts.
+
+#### Highways Act 1980
+
+**11.**[^key-a09af4deed9482cec01a201dc772b2b3] In section 116(9) of the Highways Act 1980 (power of magistrates' court to authorise stopping up or diversion of highway), for “justices' clerk” substitute “ designated officer for the court ”.
+
+#### Matrimonial and Family Proceedings Act 1984
+
+**12.**[^key-d93dcf251289cd15f0b18a52aa8ba0d6][^key-ac581d32418cecbd11553472c395d41e] The Matrimonial and Family Proceedings Act 1984 is amended as follows.
+
+**13.**[^key-3fb775982d90334d65830b5ebaa68353] In section 31C(2) (precedent in the family court), for “justices' clerk or an assistant to a justices' clerk,” substitute “ person authorised under section 67B(2) of the Courts Act 2003, ”.
+
+**14.**[^key-88ea66d8aabc84be653d3b534e1a9913][^key-1f3c82cfd015ead2f1aeebb80a0928cc] For section 31O substitute—
+
+> **31O. Function of giving legal advice to judges**
+>
+> (1) The Lord Chief Justice may authorise a person—
+>
+> - (a) to give advice to judges of the family court about matters of law (including procedure and practice) on questions arising in connection with the discharge by them of functions conferred on them or the court, including questions arising when the person is not personally attending on them, and
+> - (b) to bring to the attention of judges of the family court, at any time when the person thinks appropriate, any point of law (including procedure and practice) that is or may be involved in any question so arising.
+>
+> (2) The Lord Chief Justice may authorise a person under subsection (1) only if the person—
+>
+> - (a) is appointed under section 2(1) of the Courts Act 2003 or section 40(1) of the Tribunals, Courts and Enforcement Act 2007, and
+> - (b) has such qualifications as may be prescribed by regulations made by the Lord Chancellor with the agreement of the Lord Chief Justice.
+>
+> (3) An authorisation under subsection (1)—
+>
+> - (a) may be subject to conditions, and
+> - (b) may be varied or revoked by the Lord Chief Justice at any time.
+>
+> (4) The Lord Chief Justice may give directions to a person authorised to exercise functions under subsection (1).
+>
+> (5) Apart from such directions, a person authorised to exercise functions under subsection (1) is not subject to the direction of the Lord Chancellor or any other person when exercising the functions.
+>
+> (6) The Lord Chief Justice may nominate one or more of the following to exercise the Lord Chief Justice's functions under the preceding provisions of this section—
+>
+> - (a) a judicial office holder;
+> - (b) a person appointed under section 2(1) of the Courts Act 2003 or section 40(1) of the Tribunals, Courts and Enforcement Act 2007.
+>
+> (7) A person nominated under subsection (6)(b) to exercise functions of the Lord Chief Justice is not subject to the direction of any person other than—
+>
+> - (a) the Lord Chief Justice, or
+> - (b) a judicial office holder nominated by the Lord Chief Justice,
+>
+> when exercising the functions.
+>
+> (8) In this section “**judicial office holder**” has the meaning given by section 109(4) of the Constitutional Reform Act 2005.
+
+**15.**[^key-df2c10c080371085798b706192c6d2e6][^key-0679891240dc20ab979f0199fa46de77] In section 31P (orders, regulations and rules), omit subsection (2).
+
+#### Police and Criminal Evidence Act 1984
+
+**16.**[^key-6025d0151f5bb7b1ed360206ed333f32] Omit section 47A of the Police and Criminal Evidence Act 1984 (early administrative hearings conducted by justices' clerks).
+
+#### Criminal Justice Act 1991
+
+**17.**[^key-b8451908bde8185600a26442d1c9d91f] In Schedule 3 to the Criminal Justice Act 1991 (reciprocal enforcement of certain orders), in paragraph 11(7)(b), for “clerk of” substitute “ designated officer for ”.
+
+#### Criminal Procedure (Scotland) Act 1995
+
+**18.**[^key-0c64bbeab16999bbdcaf7effe10a2ba2] In Schedule 13 (transfer of community payback orders), in paragraph 5(4)(a), omit “the clerk of”.
+
+#### Civil Procedure Act 1997
+
+**19.**[^key-95fa74b83ee0e89d54d29cd8cf048035] In Schedule 1 to the Civil Procedure Act 1997 (civil procedure rules), omit paragraph 2.
+
+#### Crime and Disorder Act 1998
+
+**20.**[^key-651995b4bf58377c8b80d6b67704b7a2] The Crime and Disorder Act 1998 is amended as follows.
+
+**21.**[^key-406414f2e495d7e4276eabba519a6cc5] In section 49 (powers of magistrates' courts exercisable by single justice), omit subsections (2) to (5).
+
+**22.**[^key-7e22d66a5bf10a895e83b700711704ae] In section 50 (early administrative hearings), in subsection (4), for the words from the beginning to “such a clerk” substitute “ Where the powers of a single justice are exercised by a person authorised under section 67B(2) of the Courts Act 2003, nothing in subsection (3)(b) above authorises the person ”.
+
+**23.**[^key-308626d48a60366a2218ef84fda3fbed] In Schedule 3 (procedure where persons are sent for trial under section 51), in paragraph 6(9)(a), omit “the clerk of”.
+
+#### Licensing Act 2003
+
+**24.**[^key-4bd1a32b635cc29774dd02a8fbec86bb] In section 131 of the Licensing Act 2003 (court's duty to notify licensing authority of convictions), in subsection (5)(a), for “clerk of” substitute “ designated officer for ”.
+
+#### Courts Act 2003
+
+**25.**[^key-78de104c6a6e73572ee7d2fbffbea253][^key-afac4941322bed29108a4a145b452f03] The Courts Act 2003 is amended as follows.
+
+**26.**[^key-da385afa12ac6e344fe4b0660005403a][^key-2731aeb792699255e563ddf644b9bb64] For sections 27 to 29 substitute—
+
+> **Legal advice**
+>
+> **28. Function of giving legal advice to justices of the peace**
+>
+> (1) The Lord Chief Justice may authorise a person—
+>
+> - (a) to give advice to justices of the peace about matters of law (including procedure and practice) on questions arising in connection with the discharge of their functions, including questions arising when the person is not personally attending on them, and
+> - (b) to bring to the attention of justices of the peace, at any time when the person thinks appropriate, any point of law (including procedure and practice) that is or may be involved in any question so arising.
+>
+> (2) For the purposes of subsection (1), the functions of justices of the peace do not include functions as a judge of the family court or the Crown Court.
+>
+> (3) The Lord Chief Justice may authorise a person under subsection (1) only if the person—
+>
+> - (a) is appointed under section 2(1) of this Act or section 40(1) of the Tribunals, Courts and Enforcement Act 2007, and
+> - (b) has such qualifications as may be prescribed by regulations made by the Lord Chancellor with the agreement of the Lord Chief Justice.
+>
+> (4) An authorisation under subsection (1)—
+>
+> - (a) may be subject to conditions, and
+> - (b) may be varied or revoked by the Lord Chief Justice at any time.
+>
+> (5) The Lord Chief Justice may nominate one or more of the following to exercise the Lord Chief Justice's functions under the preceding provisions of this section—
+>
+> - (a) a judicial office holder;
+> - (b) a person appointed under section 2(1) of the Courts Act 2003 or section 40(1) of the Tribunals, Courts and Enforcement Act 2007.
+>
+> (6) A person nominated under subsection (5)(b) to exercise functions of the Lord Chief Justice is not subject to the direction of any person other than—
+>
+> - (a) the Lord Chief Justice, or
+> - (b) a judicial office holder nominated by the Lord Chief Justice,
+>
+> when exercising the functions.
+>
+> (7) In this section “**judicial office holder**” has the meaning given by section 109(4) of the Constitutional Reform Act 2005.
+>
+> **29. Directions and independence**
+>
+> (1) The Lord Chief Justice may give directions to a person authorised to exercise functions under section 28(1).
+>
+> (2) Apart from such directions, a person authorised to exercise functions under section 28(1) is not subject to the direction of the Lord Chancellor or any other person when exercising the functions.
+>
+> (3) The Lord Chief Justice may nominate one or more of the following to exercise the Lord Chief Justice's functions under subsection (1)—
+>
+> - (a) a judicial office holder;
+> - (b) a person appointed under section 2(1) of this Act or section 40(1) of the Tribunals, Courts and Enforcement Act 2007.
+>
+> (4) A person nominated under subsection (3)(b) to exercise functions of the Lord Chief Justice is not subject to the direction of any person other than—
+>
+> - (a) the Lord Chief Justice, or
+> - (b) a judicial office holder nominated by the Lord Chief Justice,
+>
+> when exercising the functions.
+>
+> (5) In this section “**judicial office holder**” has the meaning given by section 109(4) of the Constitutional Reform Act 2005.
+
+**27.**[^key-a78712501d64f0142c683b04f40bfec3] In section 31 (immunity for acts within jurisdiction), omit subsection (2).
+
+**28.**[^key-0020edbf7a8e6419a5edee6e491ffccc] In section 32 (immunity for certain acts beyond jurisdiction), omit subsection (2).
+
+**29.**[^key-8418c5fd435f68d324e0936dd01f0a5d] (1) Section 34 (costs in legal proceedings) is amended as follows.
+
+(2) Omit subsection (2).
+
+(3) In subsection (3)—
+
+- (a) for “subsections (1) and (2) do” substitute “ subsection (1) does ”, and
+- (b) omit “, justices' clerk or assistant clerk”.
+
+(4) In subsection (4), for “or (2) from ordering a justice of the peace, justices' clerk or assistant clerk” substitute “ from ordering a justice of the peace ”.
+
+(5) In consequence of the preceding provisions of this paragraph, the Justices and Justices' Clerks (Costs) Regulations 2001 (S.I. 2001/1296) are revoked.
+
+**30.**[^key-c24b3c3695d00453c0fb5ee6226d6207] (1) Section 35 (indemnity) is amended as follows.
+
+(2) In subsection (1), omit “, justices' clerk or assistant clerk” (in both places).
+
+(3) In subsection (3), omit “, justices' clerk or assistant clerk”.
+
+(4) In subsection (4), omit “, justices' clerk or assistant clerk”.
+
+**31.**[^key-40569b55eae0056bd64d8435ca14db16] In section 37(2) (designated officers and magistrates' courts)—
+
+- (a) omit the “and” at the end of paragraph (a), and
+- (b) omit paragraph (b).
+
+**32.**[^key-b2d69244e7e9759203696b9873286bd1][^key-f00b08116be31d3625fd9acfb938439b] After Part 6 insert—
+
+> **PART 6A — Exercise of judicial functions by authorised persons**
+>
+> **67A. Meaning of “judicial office holder” and “relevant judicial function”**
+>
+> (1) In this Part—
+>
+> - “**judicial office holder**” has the meaning given by section 109(4) of the Constitutional Reform Act 2005;
+> - “**relevant judicial function**” means—
+>   - (a) a function of a court to which the general duty of the Lord Chancellor under section 1 of this Act applies;
+>   - (b) a judicial function of a person holding an office that entitles the person to exercise functions of such a court;
+>
+>   but does not include a function to which any of the following subsections applies.
+>
+> (2) This subsection applies to any function so far as its exercise involves authorising a person's committal to prison.
+>
+> (3) This subsection applies to any function so far as its exercise involves authorising a person's arrest, but it does not apply to the issue of a warrant (whether or not endorsed for bail) for a person's arrest in order to secure that the person attends court proceedings relating to an offence of which the person has been accused or convicted in a case in which no objection is made by or on behalf of the person to the issue of the warrant.
+>
+> (4) This subsection applies to the function of making an order to recover possession of a building, or part of a building, which is occupied as a dwelling by—
+>
+> - (a) the person against whom the order is made, or
+> - (b) the person's spouse, civil partner or dependent child aged under 18,
+>
+> but it does not apply to the making of an order in a case in which no objection is made by or on behalf of the person against whom the order is made to the making of the order.
+>
+> (5) This subsection applies to the function of granting an injunction under section 37 of the Senior Courts Act 1981.
+>
+> (6) This subsection applies to the function of making an order under section 7 of the Civil Procedure Act 1997 (order for preserving evidence etc).
+>
+> **67B. Authorisation to exercise relevant judicial functions**
+>
+> (1) Rules of court may provide for the exercise of relevant judicial functions by persons who—
+>
+> - (a) are appointed under section 2(1) of this Act or section 40(1) of the Tribunals, Courts and Enforcement Act 2007, and
+> - (b) satisfy any requirements specified in the rules as to qualifications or experience.
+>
+> (2) A person may exercise functions by virtue of subsection (1) only if authorised to do so by the Lord Chief Justice.
+>
+> (3) Such a person is referred to in this Part as an “**authorised person**”.
+>
+> (4) An authorisation under subsection (2)—
+>
+> - (a) may be subject to conditions, and
+> - (b) may be varied or revoked by the Lord Chief Justice at any time.
+>
+> (5) The Lord Chief Justice may nominate one or more of the following to exercise the Lord Chief Justice's functions under the preceding provisions of this section—
+>
+> - (a) a judicial office holder;
+> - (b) a person appointed under section 2(1) of this Act or section 40(1) of the Tribunals, Courts and Enforcement Act 2007.
+>
+> (6) A person nominated under subsection (5)(b) to exercise functions of the Lord Chief Justice is not subject to the direction of any person other than—
+>
+> - (a) the Lord Chief Justice, or
+> - (b) a judicial office holder nominated by the Lord Chief Justice,
+>
+> when exercising the functions.
+>
+> (7) Nothing in this Part is to be taken to affect the generality of any enactment conferring powers to make rules of court.
+>
+> **67C. Exercise of relevant judicial functions: reconsideration of decisions**
+>
+> (1) Before making rules of court that provide for the exercise of relevant judicial functions by authorised persons by virtue of section 67B(1), the authority with power to make the rules must take the following steps in relation to each of the functions in question.
+>
+> (2) The authority must consider whether the rules should include a right for the parties to proceedings in which a decision is made by an authorised person exercising the function to have the decision reconsidered by a judicial office holder.
+>
+> (3) If the authority considers that the rules should include such a right, it must include provision to that effect when it makes the rules.
+>
+> (4) If the authority does not consider that the rules should include such a right, it must inform the Lord Chancellor of—
+>
+> - (a) its decision, and
+> - (b) its reasons for reaching that decision.
+>
+> **67D. Directions and independence: authorised persons**
+>
+> (1) The Lord Chief Justice may give directions to an authorised person.
+>
+> (2) Apart from such directions, an authorised person exercising a relevant judicial function by virtue of section 67B(1) is not subject to the direction of the Lord Chancellor or any other person when exercising the function.
+>
+> (3) The Lord Chief Justice may nominate one or more of the following to exercise the Lord Chief Justice's functions under subsection (1)—
+>
+> - (a) a judicial office holder;
+> - (b) a person appointed under section 2(1) of this Act or section 40(1) of the Tribunals, Courts and Enforcement Act 2007.
+>
+> (4) A person nominated under subsection (3)(b) to exercise functions of the Lord Chief Justice is not subject to the direction of any person other than—
+>
+> - (a) the Lord Chief Justice, or
+> - (b) a judicial office holder nominated by the Lord Chief Justice,
+>
+> when exercising the functions.
+>
+> **67E. Protection of authorised persons**
+>
+> (1) No action lies against an authorised person in respect of what the person does or omits to do—
+>
+> - (a) in the execution of the person's duty as an authorised person exercising, by virtue of section 67B(1), a relevant judicial function, and
+> - (b) in relation to a matter within the person's jurisdiction.
+>
+> (2) An action lies against an authorised person in respect of what the person does or omits to do—
+>
+> - (a) in the purported execution of the person's duty as an authorised person exercising, by virtue of section 67B(1), a relevant judicial function, but
+> - (b) in relation to a matter not within the person's jurisdiction,
+>
+> if, but only if, it is proved that the person acted in bad faith.
+>
+> (3) If an action is brought in circumstances in which subsection (1) or (2) provides that no action lies, the court in which the action is brought—
+>
+> - (a) may, on the application of the defendant, strike out the proceedings in the action, and
+> - (b) if it does so, may if it thinks fit order the person bringing the action to pay costs.
+>
+> **67F. Costs in legal proceedings: authorised persons**
+>
+> (1) A court may not order an authorised person to pay costs in any proceedings in respect of what the person does or omits to do in the execution (or purported execution) of the person's duty as an authorised person exercising, by virtue of section 67B(1), a relevant judicial function.
+>
+> (2) But subsection (1) does not apply in relation to any proceedings in which an authorised person—
+>
+> - (a) is being tried for an offence or is appealing against a conviction, or
+> - (b) is proved to have acted in bad faith in respect of the matters giving rise to the proceedings.
+>
+> (3) A court which is prevented by subsection (1) from ordering an authorised person to pay costs in any proceedings may instead order the Lord Chancellor to make a payment in respect of the costs of a person in the proceedings.
+>
+> (4) The Lord Chancellor may, after consulting the Lord Chief Justice, make regulations specifying—
+>
+> - (a) circumstances in which a court must or must not exercise the power conferred on it by subsection (3), and
+> - (b) how the amount of any payment ordered under subsection (3) is to be determined.
+>
+> (5) The Lord Chief Justice may nominate a judicial office holder to exercise the Lord Chief Justice's functions under this section.
+>
+> **67G. Indemnification of authorised persons**
+>
+> (1) “**Indemnifiable amounts**”, in relation to an authorised person, means—
+>
+> - (a) costs which the person reasonably incurs in or in connection with proceedings in respect of anything done or omitted to be done in the exercise (or purported exercise) of the person's duty as an authorised person,
+> - (b) costs which the person reasonably incurs in taking steps to dispute a claim which might be made in such proceedings,
+> - (c) damages awarded against the person or costs ordered to be paid by the person in such proceedings, or
+> - (d) sums payable by the person in connection with a reasonable settlement of such proceedings or such a claim.
+>
+> (2) Indemnifiable amounts relate to criminal matters if the duty mentioned in subsection (1)(a) relates to criminal matters.
+>
+> (3) The Lord Chancellor must indemnify an authorised person in respect of—
+>
+> - (a) indemnifiable amounts which relate to criminal matters, unless it is proved, in respect of the matters giving rise to the proceedings or claim, that the person acted in bad faith, and
+> - (b) other indemnifiable amounts if, in respect of the matters giving rise to the proceedings or claim, the person acted reasonably and in good faith.
+>
+> (4) The Lord Chancellor may indemnify an authorised person in respect of other indemnifiable amounts unless it is proved, in respect of the matters giving rise to the proceedings or claim, that the person acted in bad faith.
+>
+> (5) Any question whether, or to what extent, an authorised person is to be indemnified under this section is to be determined by the Lord Chancellor.
+>
+> (6) The Lord Chancellor may, if the person claiming to be indemnified so requests, make a determination for the purposes of this section with respect to—
+>
+> - (a) costs such as are mentioned in subsection (1)(a) or (b), or
+> - (b) sums such as are mentioned in subsection (1)(d),
+>
+> before the costs are incurred or the settlement in connection with which the sums are payable is made.
+>
+> (7) But a determination under subsection (6) before costs are incurred—
+>
+> - (a) is subject to such limitations (if any) as the Lord Chancellor thinks proper and to the subsequent determination of the costs reasonably incurred, and
+> - (b) does not affect any other determination which may fall to be made in connection with the proceedings or claim in question.
+
+**33.**[^key-1ff69e799f752cb0979f242025f6dbc2] (1) Section 70 (Criminal Procedure Rule Committee) is amended as follows.
+
+(2) In subsection (2), for paragraph (f) substitute—
+
+> - (f) one person authorised under section 28(1) (authorisation to provide legal advice to justices of the peace),
+
+.
+
+(3) After subsection (4) insert—
+
+> (4A) A person falling within subsection (2)(f) exercising a function as a member of the Criminal Procedure Rule Committee is not subject to the direction of the Lord Chancellor or any other person when exercising the function.
+
+**34.**[^key-cc703c0de42c3d3dc9312827195e97f3] In section 76(2) (scope of Family Procedure Rules)—
+
+- (a) omit the “and” at the end of paragraph (a), and
+- (b) omit paragraph (aa).
+
+**35.**[^key-5f27afb3159111144524f91f0c25c1df] (1) Section 77 (membership of Family Procedure Rule Committee) is amended as follows.
+
+(2) In subsection (2), for paragraph (g) substitute—
+
+> - (g) one person authorised under section 31O(1) of the Matrimonial and Family Proceedings Act 1984 (authorisation to provide legal advice to judges of the family court),
+
+.
+
+(3) After subsection (5) insert—
+
+> (5A) A person falling within subsection (2)(g) exercising a function as a member of the Family Procedure Rule Committee is not subject to the direction of the Lord Chancellor or any other person when exercising the function.
+
+**36.**[^key-8f39eb647c05dd0ec6e6723259133613][^key-7e807e6885d59559d380171287f4b22c] In section 108(3)(b) (orders and regulations subject to affirmative resolution procedure), after “34(5)” insert “ or 67F(4) ”.
+
+#### Criminal Justice Act 2003
+
+**37.**[^key-1d0b8030136e9f191d184334f6cb7296] In section 305(1) of the Criminal Justice Act 2003 (interpretation of Part 12), in the definition of “the appropriate officer of the court”, for “clerk of” substitute “ designated officer for ”.
+
+#### Mental Capacity Act 2005
+
+**38.**[^key-5bdcb463ac374f0355061f7814665c37] In section 51(2) of the Mental Capacity Act 2005 (scope of Court of Protection Rules), omit paragraph (d).
+
+### PART 2 — Tribunals
+
+#### Tribunals, Courts and Enforcement Act 2007
+
+**39.**[^key-cd4eae6b0b8040f490e08d122db667d6][^key-238b4d945f40484208e6934b27afc305] The Tribunals, Courts and Enforcement Act 2007 is amended as follows.
+
+**40.**[^key-9f02d2de15af875eb3ff26d6e4d7c136] In section 8(2) (functions of Senior President of Tribunals excluded from general power to delegate), at the appropriate places insert—
+
+> section 29B;
+>
+> section 29D;
+
+, and “ paragraph 3 of Schedule 5; ”.
+
+**41.**[^key-6bf650424ad50c2bd14ac55acc59e878][^key-8e8988e507a354ba0eb0f5dca905e3fd] After section 29 insert—
+
+> **CHAPTER 2A — Exercise of tribunal functions by authorised persons**
+>
+> **29A. Meaning of “authorised person” and “judicial office holder”**
+>
+> In this Chapter—
+>
+> - “**authorised person**” means a person authorised under paragraph 3 of Schedule 5 to exercise functions of the First-tier Tribunal or Upper Tribunal;
+> - “**judicial office holder**” has the meaning given by section 109(4) of the Constitutional Reform Act 2005.
+>
+> **29B. Directions and independence: authorised persons**
+>
+> (1) The Senior President of Tribunals may give directions to an authorised person.
+>
+> (2) Apart from such directions, an authorised person exercising a function by virtue of paragraph 3 of Schedule 5 is not subject to the direction of the Lord Chancellor or any other person when exercising the function.
+>
+> (3) The Senior President of Tribunals may delegate to one or more of the following the Senior President of Tribunals' functions under subsection (1)—
+>
+> - (a) a judicial office holder;
+> - (b) a person appointed under section 2(1) of the Courts Act 2003 or section 40(1) of this Act.
+>
+> (4) A person to whom functions of the Senior President of Tribunals are delegated under subsection (3)(b) is not subject to the direction of any person other than—
+>
+> - (a) the Senior President of Tribunals, or
+> - (b) a judicial office holder nominated by the Senior President of Tribunals,
+>
+> when exercising the functions.
+>
+> (5) Subsections (3) to (5) of section 8 apply to—
+>
+> - (a) a delegation under subsection (3) of this section, and
+> - (b) a nomination under subsection (4) of this section,
+>
+> as they apply to a delegation under subsection (1) of that section.
+>
+> **29C. Protection of authorised persons**
+>
+> (1) No action lies against an authorised person in respect of what the person does or omits to do—
+>
+> - (a) in the execution of the person's duty as an authorised person exercising, by virtue of paragraph 3 of Schedule 5, functions of a tribunal, and
+> - (b) in relation to a matter within the person's jurisdiction.
+>
+> (2) An action lies against an authorised person in respect of what the person does or omits to do—
+>
+> - (a) in the purported execution of the person's duty as an authorised person exercising, by virtue of paragraph 3 of Schedule 5, functions of a tribunal, but
+> - (b) in relation to a matter not within the person's jurisdiction,
+>
+> if, but only if, it is proved that the person acted in bad faith.
+>
+> (3) If an action is brought in a court in Scotland in circumstances in which subsection (1) or (2) provides that no action lies, the court in which the action is brought—
+>
+> - (a) may, on the application of the defender, dismiss the action, and
+> - (b) if it does so, may find the person bringing the action liable in expenses.
+>
+> (4) If an action is brought in any other court in circumstances in which subsection (1) or (2) provides that no action lies, the court in which the action is brought—
+>
+> - (a) may, on the application of the defendant, strike out the proceedings in the action, and
+> - (b) if it does so, may if it thinks fit order the person bringing the action to pay costs.
+>
+> **29D. Costs or expenses in legal proceedings: authorised persons**
+>
+> (1) A court may not order an authorised person to pay costs in any proceedings in respect of what the person does or omits to do in the execution (or purported execution) of the person's duty as an authorised person exercising, by virtue of paragraph 3 of Schedule 5, a function of a tribunal.
+>
+> (2) But subsection (1) does not apply in relation to any proceedings in which an authorised person—
+>
+> - (a) is being tried for an offence or is appealing against a conviction, or
+> - (b) is proved to have acted in bad faith in respect of the matters giving rise to the proceedings.
+>
+> (3) A court which is prevented by subsection (1) from ordering an authorised person to pay costs in any proceedings may instead order the Lord Chancellor to make a payment in respect of the costs of a person in the proceedings.
+>
+> (4) The Lord Chancellor may, after consulting the Senior President of Tribunals, make regulations specifying—
+>
+> - (a) circumstances in which a court must or must not exercise the power conferred on it by subsection (3), and
+> - (b) how the amount of any payment ordered under subsection (3) is to be determined.
+>
+> (5) The power to make regulations under subsection (4) includes power to make—
+>
+> - (a) any supplementary, incidental or consequential provision, and
+> - (b) any transitory, transitional or saving provision,
+>
+> which the Lord Chancellor considers necessary or expedient.
+>
+> (6) The Senior President of Tribunals may delegate the Senior President of Tribunals' functions under subsection (4) to a person who is a judicial office holder.
+>
+> (7) Subsections (3) to (5) of section 8 apply to a delegation under subsection (6) of this section as they apply to a delegation under subsection (1) of that section.
+>
+> (8) In the application of this section to Scotland—
+>
+> - (a) references to a court ordering an authorised person to pay costs are to be read as references to a court finding an authorised person liable in expenses, and
+> - (b) the second reference to costs in subsection (3) is to be read as a reference to expenses.
+>
+> **29E. Indemnification of authorised persons**
+>
+> (1) “**Indemnifiable amounts**”, in relation to an authorised person, means—
+>
+> - (a) costs which the person reasonably incurs in or in connection with proceedings in respect of anything done or omitted to be done in the exercise (or purported exercise) of the person's duty as an authorised person,
+> - (b) costs which the person reasonably incurs in taking steps to dispute a claim which might be made in such proceedings,
+> - (c) damages awarded against the person or costs ordered to be paid by the person in such proceedings, or
+> - (d) sums payable by the person in connection with a reasonable settlement of such proceedings or such a claim.
+>
+> (2) The Lord Chancellor must indemnify an authorised person in respect of indemnifiable amounts if, in respect of the matters giving rise to the proceedings or claim, the person acted reasonably and in good faith.
+>
+> (3) The Lord Chancellor may indemnify an authorised person in respect of other indemnifiable amounts unless it is proved, in respect of the matters giving rise to the proceedings or claim, that the person acted in bad faith.
+>
+> (4) Any question whether, or to what extent, an authorised person is to be indemnified under this section is to be determined by the Lord Chancellor.
+>
+> (5) The Lord Chancellor may, if an authorised person claiming to be indemnified so requests, make a determination for the purposes of this section with respect to—
+>
+> - (a) costs such as are mentioned in subsection (1)(a) or (b), or
+> - (b) sums such as are mentioned in subsection (1)(d),
+>
+> before the costs are incurred or the settlement in connection with which the sums are payable is made.
+>
+> (6) But a determination under subsection (5) before costs are incurred—
+>
+> - (a) is subject to such limitations (if any) as the Lord Chancellor thinks proper and to the subsequent determination of the costs reasonably incurred, and
+> - (b) does not affect any other determination which may fall to be made in connection with the proceedings or claim in question.
+>
+> (7) In the application of this section to Scotland, references to costs are to be read as references to expenses.
+
+**42.**[^key-12474f2d2773c512f72a9fcef10dc50a][^key-56c96a445ae107b500eb395aaa27353c] (1) Section 49 (orders and regulations under Part 1: supplemental and procedural provisions) is amended as follows.
+
+(2) In subsection (5), for the words from the beginning to “containing it” substitute “ None of the orders or regulations mentioned in subsection (6) may be made unless a draft of the statutory instrument containing the order or regulations ”.
+
+(3) In subsection (6)—
+
+- (a) for “Those orders” substitute “ The orders and regulations ”, and
+- (b) after paragraph (a) insert—
+
+  > - (aa) regulations under section 29D(4);
+
+  .
+
+**43.**[^key-87458741707de381e0ae42c158a0ddf0][^key-1131c0a8ef790089446a50b39f1d3f74] Schedule 5 (Tribunal Procedure Rules) is amended as follows.
+
+**44.**[^key-76d68acb8d1d7543b5df564e4000711e][^key-06d88e7c85a9d4bba800e0093d190a31] (1) Paragraph 3 is amended as follows.
+
+(2) In sub-paragraph (1), for “40(1)” substitute “ 2(1) of the Courts Act 2003 or section 40(1) of this Act ”.
+
+(3) At the end insert—
+
+> (3) A person may exercise functions by virtue of this paragraph only if authorised to do so by the Senior President of Tribunals.
+>
+> (4) An authorisation under this paragraph—
+>
+> - (a) may be subject to conditions, and
+> - (b) may be varied or revoked by the Senior President of Tribunals at any time.
+>
+> (5) The Senior President of Tribunals may delegate to one or more of the following the Senior President of Tribunals' functions under the preceding provisions of this paragraph—
+>
+> - (a) a judicial office holder;
+> - (b) a person appointed under section 2(1) of the Courts Act 2003 or section 40(1) of this Act.
+>
+> (6) A person to whom functions of the Senior President of Tribunals are delegated under sub-paragraph (5)(b) is not subject to the direction of any person other than—
+>
+> - (a) the Senior President of Tribunals, or
+> - (b) a judicial office holder nominated by the Senior President of Tribunals,
+>
+> when exercising the functions.
+>
+> (7) Subsections (3) to (5) of section 8 apply to—
+>
+> - (a) a delegation under sub-paragraph (5), and
+> - (b) a nomination under sub-paragraph (6),
+>
+> as they apply to a delegation under subsection (1) of that section.
+>
+> (8) In this paragraph—
+>
+> - “**function**” does not include—
+>   - (a) any function so far as its exercise involves authorising a person's committal to prison or arrest;
+>   - (b) any function of granting an injunction;
+> - “**judicial office holder**” has the meaning given by section 109(4) of the Constitutional Reform Act 2005.
+
+**45.**[^key-fa64988bb04b3bd7b30d3eec66b181b7][^key-1b09210fd027214b7998dbef5263720d] After paragraph 28 insert—
+
+> **Delegation of functions to staff: reconsideration of decisions**
+>
+> **28A.** (1) Before making Rules that provide for the exercise of functions of the First-tier Tribunal or Upper Tribunal by authorised persons by virtue of paragraph 3, the Committee must take the following steps in relation to each of the functions in question.
+>
+> (2) The Committee must consider whether the Rules should include a right for the parties to proceedings in which a decision is made by an authorised person exercising the function to have the decision reconsidered by a judicial office holder.
+>
+> (3) If the Committee considers that the rules should include such a right, it must include provision to that effect when it makes the Rules.
+>
+> (4) If the Committee does not consider that the rules should include such a right, it must inform the Lord Chancellor of—
+>
+> - (a) its decision, and
+> - (b) its reasons for reaching that decision.
+>
+> (5) In this paragraph “**authorised person**” and “**judicial office holder**” have the same meanings as in Chapter 2A of Part 1 of this Act (see section 29A).
+
+## Annotations
+
+[^key-5e1d6aee02713d5b29e02d7c6e83dd8e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2018/33/section/3) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/a)
+
+[^key-468737891af8b939fea405758f982946]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2018/33/section/3) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/a)
+
+[^key-bafd98c7d8e9536e995e3fc2ae4d1450]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/1) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-479d2e67cab975d5e477439ba73b5d5b]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/2) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-f706739a2c63ed3561f3963fdcbe3156]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/3) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-0639d0cf593d875218b95fabd913d0d2]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/4) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-f70709db050472ce2d94e47f3324313a]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/5) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-c3729dc58c32280a6517ab8b213fa44f]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/6) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-4bb921e6339c5e39162e22078ac27f5e]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/7) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-cc3f136fe64b8a90a029ad3fe9897bfc]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/8) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-13809ca48bca38daf951a855e8fa26d9]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/9) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-f49858882bc0f9c4de3688ad9fc863b9]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/10) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-a09af4deed9482cec01a201dc772b2b3]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/11) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-d93dcf251289cd15f0b18a52aa8ba0d6]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/12) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/i)
+
+[^key-ac581d32418cecbd11553472c395d41e]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/12) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-3fb775982d90334d65830b5ebaa68353]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/13) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-88ea66d8aabc84be653d3b534e1a9913]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/14) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/i)
+
+[^key-1f3c82cfd015ead2f1aeebb80a0928cc]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/14) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-df2c10c080371085798b706192c6d2e6]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/15) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/i)
+
+[^key-0679891240dc20ab979f0199fa46de77]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/15) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-6025d0151f5bb7b1ed360206ed333f32]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/16) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-b8451908bde8185600a26442d1c9d91f]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/17) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-0c64bbeab16999bbdcaf7effe10a2ba2]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/18) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-95fa74b83ee0e89d54d29cd8cf048035]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/19) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-651995b4bf58377c8b80d6b67704b7a2]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/20) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-406414f2e495d7e4276eabba519a6cc5]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/21) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-7e22d66a5bf10a895e83b700711704ae]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/22) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-308626d48a60366a2218ef84fda3fbed]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/23) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-4bd1a32b635cc29774dd02a8fbec86bb]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/24) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-78de104c6a6e73572ee7d2fbffbea253]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/25) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(ii)(iii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/ii/iii)
+
+[^key-afac4941322bed29108a4a145b452f03]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/25) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-da385afa12ac6e344fe4b0660005403a]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/26) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/ii)
+
+[^key-2731aeb792699255e563ddf644b9bb64]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/26) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-a78712501d64f0142c683b04f40bfec3]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/27) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-0020edbf7a8e6419a5edee6e491ffccc]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/28) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-8418c5fd435f68d324e0936dd01f0a5d]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/29) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-c24b3c3695d00453c0fb5ee6226d6207]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/30) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-40569b55eae0056bd64d8435ca14db16]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/31) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-b2d69244e7e9759203696b9873286bd1]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/32) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iii)
+
+[^key-f00b08116be31d3625fd9acfb938439b]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/32) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-1ff69e799f752cb0979f242025f6dbc2]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/33) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-cc703c0de42c3d3dc9312827195e97f3]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/34) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-5f27afb3159111144524f91f0c25c1df]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/35) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-8f39eb647c05dd0ec6e6723259133613]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/36) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iii)
+
+[^key-7e807e6885d59559d380171287f4b22c]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/36) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-1d0b8030136e9f191d184334f6cb7296]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/37) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-5bdcb463ac374f0355061f7814665c37]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/38) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-cd4eae6b0b8040f490e08d122db667d6]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/39) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv)
+
+[^key-238b4d945f40484208e6934b27afc305]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/39) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-9f02d2de15af875eb3ff26d6e4d7c136]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/40) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-6bf650424ad50c2bd14ac55acc59e878]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/41) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv)
+
+[^key-8e8988e507a354ba0eb0f5dca905e3fd]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/41) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-12474f2d2773c512f72a9fcef10dc50a]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/42) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv)
+
+[^key-56c96a445ae107b500eb395aaa27353c]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/42) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-87458741707de381e0ae42c158a0ddf0]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/43) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv)
+
+[^key-1131c0a8ef790089446a50b39f1d3f74]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/43) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-76d68acb8d1d7543b5df564e4000711e]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/44) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv)
+
+[^key-06d88e7c85a9d4bba800e0093d190a31]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/44) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+
+[^key-fa64988bb04b3bd7b30d3eec66b181b7]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/45) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv)
+
+[^key-1b09210fd027214b7998dbef5263720d]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/45) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)

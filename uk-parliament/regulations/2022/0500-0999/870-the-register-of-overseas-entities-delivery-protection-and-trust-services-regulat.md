@@ -1,0 +1,582 @@
+---
+title: The Register of Overseas Entities (Delivery, Protection and Trust Services) Regulations 2022
+id: uksi/2022/870
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-07-25'
+text_date: '2026-07-09'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2022/870
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/870/pdfs/uksiem_20220870_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/870/pdfs/uksi_20220870_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/870/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Register of Overseas Entities (Delivery, Protection and Trust Services) Regulations 2022
+
+> Text as at 2026-07-09.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2022 No. 870
+
+Companies
+
+The Register of Overseas Entities (Delivery, Protection and Trust Services) Regulations 2022
+
+Made
+
+25th July 2022
+
+Coming into force in accordance with regulation 1(1)
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 25(1), (3)(a) to (d) and (f) and (4) and 67(2) and (3)(a) of, and paragraph 7(1)(f) of Schedule 2 to, the Economic Crime (Transparency and Enforcement) Act 2022[^f00001] and sections 1069(1) and 1292(1)(a) and (b) of the Companies Act 2006[^f00002].
+
+In accordance with sections 25(6) and 67(4) of, and paragraph 7(2) of Schedule 2 to, the Economic Crime (Transparency and Enforcement) Act 2022 and sections 1069(3) and 1290 of the Companies Act 2006, a draft of these Regulations has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and extent[^key-d13cdd73bcaa26902ab0a0f53cdff3df]
+
+(1) These Regulations may be cited as the Register of Overseas Entities (Delivery, Protection and Trust Services) Regulations 2022 and come into force on the day section 3 of the ECTEA comes into force.
+
+(2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+### 2. Interpretation[^key-5e83975922b53028dbdbcf862996e8d1]
+
+(1)[^key-d7192996d304b9cd25e72c40d06cbb06] In these Regulations—
+
+- “[^key-77f05ca04e2ea9d8d750cb77ed732065]**applicant**” means:
+  - (a) the relevant individual;
+  - (b) the relevant overseas entity;
+  - (c) a person who is authorised to act on behalf of a relevant individual, where that relevant individual is under eighteen years of age or lacks capacity; or
+  - (d) where a relevant individual is the beneficiary of a trust and is under eighteen years of age or lacks capacity, a registrable beneficial owner who is a trustee of that trust.
+- “**the ECTEA**” means the Economic Crime (Transparency and Enforcement) Act 2022;
+- “**former name**” means a name by which an individual was formerly known for business purposes;
+- “managing officer”, in respect of an overseas entity, has the meaning given in section 44(1) of the ECTEA;
+- “**name**” means a person’s first name (or other forename) and surname, except in the case of—
+  - (a) a peer; or
+  - (b) an individual usually known by a title,
+
+  the title may be stated instead of that person’s first name (or other forename) and surname or in addition to either or both of them;
+- “**overseas entity**” has the meaning given in section 2 of the ECTEA;
+- “**overseas entity ID**” means an overseas entity ID allocated in accordance with section 5 of the ECTEA;
+- “**protected information**”, in relation to a relevant individual, means—
+  - (a) the name, any former name, date of birth and nationality of the relevant individual;
+  - (b) the usual residential address of the relevant individual;
+  - (c) a service address of the applicant;
+  - (d) the e-mail address of the applicant, if any;
+  - (e) the fact that the relevant individual is, or used to be, a relevant individual in respect of the overseas entity;
+  - (f) for an application made under regulation 7(1) on the ground in regulation 7(3)(b), the relevant individual’s usual residential address only;[^key-abc6045b10461ba460bec5c6d83a5363]
+- “**registrable beneficial owner**”, in relation to an overseas entity, has the meaning given in Schedule 2 to the ECTEA;
+- “**the registrar**” means the registrar of companies for England and Wales;
+- “[^key-c830dac28bb368041de366b6c7b86278]**relevant individual**” means any individual whose protected information is or may be made available for public inspection or disclosed by the registrar under the ECTEA or regulations under the ECTEA;
+- “[^key-18c6048f5103baa81cf9b6954725a672]**relevant overseas entity**” means the overseas entity whose registration under section 4 of the ECTEA caused the individual whose protected information is subject to an application under regulation 7 to become a relevant individual.
+- [^key-4482ce5d4eddac85a9d2205ca8dea271]...
+
+(2)[^key-17428266e4853a5cc365d4791fcc5405] For the purposes of these Regulations, a relevant individual lacks capacity if they meet the definition of people who lack capacity in section 2 of the Mental Capacity Act 2005.
+
+## PART 2 — Electronic delivery of documents
+
+### 3. Duty to deliver documents by electronic means[^key-60c5d1a868c7522dd5e2a59933055bb8]
+
+Subject to regulation 4 (exception to the duty to deliver documents by electronic means), the following documents must be delivered to the registrar by electronic means[^f00003]—
+
+- (a) an application for registration made under section 4 of the ECTEA (application for registration);
+- (b) the statements, information and any other thing required to be delivered to the registrar and referred to in section 7 of the ECTEA (updating duty);
+- (c) an application for removal made under section 9 of the ECTEA (application for removal);
+- (d) the replacement or additional documents referred to in section 27(2)(b) of the ECTEA (resolving inconsistencies in the register); and
+- (e) an application to rectify the register made under any regulations made under section 29 of the ECTEA (application to rectify register).
+
+### 4. Exception to the duty to deliver documents by electronic means[^key-98bcf44b596899621b0605c23f19a4fb]
+
+(1) The duty to deliver a document by electronic means in regulation 3 does not apply where the document relates to an application which has been made under regulation 7 and that application—
+
+- (a) has not yet been determined by the registrar and has not been withdrawn under regulation 9;
+- (b) has been determined by the registrar in favour of the applicant (but see paragraph (3));
+- (c) was unsuccessful and a period of 42 days beginning with the date of the notice sent under regulation 7(7) has not passed;
+- (d) was unsuccessful and an appeal to the court in respect of that application under regulation 10 has not been determined by the court; or
+- (e) was unsuccessful but the applicant has successfully appealed the determination and the final determination is that the application is successful (but see paragraph (3)).
+
+(2) For the purposes of paragraph (1), a document relates to such an application where the document is to be delivered by or in respect of the same overseas entity in relation of which P is or used to be a registerable beneficial owner or a managing officer, where P is the relevant individual in respect of whom the application under regulation 7 has been made.
+
+(3) Paragraph (1)(b) and (e) do not apply where the determination has ceased to have effect under regulation 12 (duration of a determination under regulation 7).
+
+## PART 3 — Protection of information
+
+### 5. Circumstances where the registrar must make information relating to a relevant individual unavailable for public inspection[^key-6ac8f4d5396bce8d9e583b0da35bf584]
+
+(1) The registrar must make protected information relating to a relevant individual (whether that information is on the register or otherwise) unavailable for public inspection if—
+
+- (a) in relation to that information, an application has been made under regulation 7 which—
+  - (i) has not yet been determined by the registrar and has not been withdrawn under regulation 9;
+  - (ii) has been determined by the registrar in favour of the applicant (but see paragraph (4));
+  - (iii) was unsuccessful and a period of 42 days beginning with the date of the notice sent under regulation 7(7) has not passed;
+  - (iv) was unsuccessful and an appeal to the court in respect of that application under regulation 10 has not been determined by the court; or
+  - (v) was unsuccessful but the applicant has successfully appealed the determination and the final determination is that the application is successful (but see paragraph (4); and
+- (b) that information is contained in a document delivered to the registrar in which such information is required to be stated and, in the case of a document having more than one part, the protected information is contained in a part of the document in which such information is required to be stated.
+
+(2) The registrar is not obliged to check documents, other than those described in paragraph (1)(b), to ensure the absence of protected information in relation to which an application under regulation 7 has been made.
+
+(3) If the protected information in relation to which an application under regulation 7 is made is available for public inspection at the time that the application is made, the registrar must comply with paragraph (1) as soon as reasonably practicable.
+
+(4) Paragraphs (ii) and (v) of paragraph (1)(a) do not apply where the determination has ceased to have effect under regulation 12 (duration of a determination under regulation 7).
+
+(5) For the purposes of this regulation, an application under regulation 7 is made when it has been registered by the registrar.
+
+### 6. Circumstances where the registrar must not disclose protected information[^key-2bf3a02312a8adde17403e140a3aa922]
+
+(1) Subject to paragraph (3), the registrar must not disclose protected information if in relation to that information an application has been made under regulation 7 which—
+
+- (a) has not yet been determined by the registrar and has not been withdrawn under regulation 9;
+- (b) has been determined by the registrar in favour of the applicant (but see paragraph (2));
+- (c) was unsuccessful and a period of 42 days beginning with the date of the notice sent under regulation 7(7) has not passed;
+- (d) was unsuccessful and an appeal to the court in respect of that application under regulation 10 has not been determined by the court; or
+- (e) was unsuccessful but the applicant has successfully appealed the determination and the final determination is that the application is successful (but see paragraph (2)).
+
+(2) Sub-paragraphs (b) and (e) of paragraph (1) do not apply where the determination has ceased to have effect under regulation 12 (duration of a determination under regulation 7).
+
+(3) Where the prohibition in paragraph (1) applies, the registrar may disclose that protected information—
+
+- (a) for communicating with the person to whom the application under regulation 7 relates and, if different, the applicant; and[^key-20782198a2b4d93b3b4f581e065d0c1f]
+- (b)[^key-508815ac92e75f505de4d03f8303b6e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) for the purposes of referring any question under regulation 8(1)(b).
+
+(4) For the purposes of this regulation, an application under regulation 7 is made when it has been registered by the registrar.
+
+### 7. Application to protect information relating to a relevant individual[^key-ccc04b0ab9fe58952584749e785c6f7e]
+
+(1)[^key-8b8bccc28532f7d92e355a0ebb1e5dde] An applicant may make an application to the registrar requiring the registrar to—
+
+- (a) make protected information relating to a relevant individual unavailable for public inspection; and
+- (b) refrain from disclosing protected information relating to that relevant individual.
+
+(2) An overseas entity may only make an application under paragraph (1) where the relevant individual has given consent for the overseas entity to make the application on their behalf.
+
+(3)[^key-4e9059d5f70f8502ac668fb0967bcc3f] The grounds on which an application may be made are—
+
+- (a) that the applicant reasonably believes that if protected information is available for public inspection or disclosed by the registrar, the relevant individual or a person living with the relevant individual would be at serious risk of being subjected to violence or intimidation; [^key-5d63d5f1d1f69b43dfa4287c7526a172]...
+- (b) that the relevant individual’s usual residential address is on the register ; or[^key-1b8779c1c7efd2831fa6f8f85a6816b8]
+- (c)[^key-e288515611f67e197c90ca0475d1dd57] that the relevant individual is under eighteen years of age or lacks capacity.
+
+(4) The application must contain—
+
+- (a) a statement of the grounds on which the application is made;
+- (b) the name, any former name, date of birth and nationality of the relevant individual , and if different, the applicant[^key-593c9911544fd59f404bf95f7890b84e];
+- (c) the usual residential address of the relevant individual , and if different, the applicant[^key-bd05df2d94467f8b065f60f7ce3368c3];
+- (d) a service address of the applicant, which may be stated as the entity’s registered or principal office where the applicant is or used to be a managing officer;
+- (e) the e-mail address of the applicant, if any;
+- (f) the name, registered number, overseas entity ID if any and address of the overseas entity in respect of which the relevant individual is or used to be a registerable beneficial owner or managing officer;
+- (g) where the relevant individual is or used to be a registerable beneficial owner, a statement as to—
+  - (i) the date on which the individual became a registrable beneficial owner in respect of the overseas entity;
+  - (ii) which of the conditions in paragraph 6 of Schedule 2 to the ECTEA is met in relation to the registrable beneficial owner and a statement as to why the condition is met;
+  - (iii) whether the relevant individual meets that condition by virtue of being a trustee;
+  - (iv) whether the relevant individual is a designated person within the meaning of section 9(2) of the Sanctions and Anti-Money Laundering Act 2018[^f00004], where that information is publicly available;
+- (h) where the relevant individual is or used to be a managing officer—
+  - (i) the business occupation of the relevant individual;
+  - (ii) a description of the officer’s roles and responsibilities in respect of the overseas entity;
+- (i)[^key-53618221f1917f36ef5ad870cc43abb3] where the application is made by a relevant overseas entity on behalf of a relevant individual who is at least eighteen years of age and who does not lack capacity, confirmation that the relevant individual consents to the making of the application;
+- (j)[^key-13129024e9137d80be7ef59edeec4534] where the applicant is a person who is authorised to act on behalf of a relevant individual who is under eighteen years of age or who lacks capacity, evidence of that authorisation.
+
+(5)[^key-942402609a69a263c9d10c042cf63793] Where an application under paragraph (1) is made on the grounds referred to in paragraph (3)(a) or (c), the application must be accompanied by evidence in support of the grounds on which the application is made.
+
+(5A)[^key-6451c1132e4e1ea93cca3002c04ed69c] Subject to paragraph (5B), applicants who make applications under paragraph (1) on the grounds referred to in paragraph (3)(b) must provide a service address in respect of the relevant individual to replace the usual residential address where it appears on the register.
+
+(5B) Paragraph (5A) does not apply if—
+
+- (a) the relevant overseas entity has been removed from the register; or
+- (b) the relevant individual is no longer the beneficial owner or managing officer of the relevant overseas entity.
+
+(5C) In paragraph (5B), “relevant overseas entity” means the overseas entity relating to the relevant individual.
+
+(6)[^key-c8e22384b27fd6c92c4118fe1807ceda] Where an applicant who is not the relevant overseas entity makes an application under paragraph (1) to the registrar, that applicant must inform the relevant overseas entity of that fact as soon as reasonably practicable.
+
+(7) The registrar must determine the application and, within 7 days beginning with the date that the determination is made, send notice of the determination to the applicant and, where they are not the applicant, the relevant individual or overseas entity (as the case may be).
+
+(8) Where the application is unsuccessful, the notice under paragraph (7) must inform the relevant individual , and, if different, the applicant,[^key-98740b40c7361f14c5e747d5f18d5c09] and the relevant[^key-aee511d7b11b0e49d441b84685c350dc] overseas entity of the right to apply for permission to appeal against the determination within 28 days beginning with the date of the notice.
+
+### 8. Matters relating to an application made under regulation 7[^key-4b4ed312cb5b59ee04fed78c3b4a8433]
+
+(1) For the purpose of determining an application made under regulation 7 the registrar may—
+
+- (a) direct that additional information or evidence should be delivered to the registrar;
+- (b) refer any question relating to an assessment of the nature or extent of any risk of violence or intimidation to any person the registrar considers may be able to assist in making that assessment; and
+- (c) accept any answer to a question referred under paragraph (1)(b) as providing sufficient evidence of the nature or extent of any risk.
+
+(2) The registrar must not make available for public inspection—
+
+- (a) any application made under regulation 7;
+- (b) any documents provided in support of that application;
+- (c) any notice provided under regulation 9 (notice of withdrawal of application);
+- (d) any notice provided under regulation 10 (notice of an appeal);
+- (e) any notice provided under regulation 12 (notice that determination no longer wanted);
+- (f) any representations delivered under regulation 13 (representations as to why determination should not be revoked); or
+- (g) any notice provided under regulation 13(1)(a)(ii) and (4) (notices of revocation).
+
+(3) A person who makes an application under regulation 7 must inform the registrar in writing without delay upon becoming aware of any change to any information or evidence provided to the registrar in connection with the application.
+
+(4)[^key-d2c382a2f5ffe1a5e741d002e5b10333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) For the purposes of this regulation, an application under regulation 7 is made when it has been registered by the registrar.
+
+### 9. Withdrawal of an application made under regulation 7[^key-8e21070ad8846742e0b782afbdddec69]
+
+(1) The registrar is not required to determine an application which has not yet been determined under regulation 7(7) where—
+
+- (a) the applicant, or
+- (b) where not the applicant, a relevant individual in respect of whom the application has been made,
+
+notifies the registrar in writing that they no longer wish the registrar to determine the application.
+
+(2) An overseas entity may only notify the registrar under paragraph (1) where the relevant individual has given consent for the overseas entity to make the notification on their behalf.
+
+(3) Where a relevant individual in respect of whom an application under regulation 7 has been made sends a notification to the registrar under paragraph (1), that relevant individual must notify the overseas entity in respect of which that relevant individual is or used to be a registrable beneficial owner or a managing officer as soon as reasonably practicable.
+
+(4) Where the registrar receives a notification under paragraph (1), the registrar must send a confirmation of receipt of that notification to the person who notified the registrar and must include in that confirmation a statement that—
+
+- (a) the application will not be determined; and
+- (b) information relating to the relevant individual will be available for public inspection and can be disclosed by the registrar.
+
+### 10. Appealing against an unsuccessful application made under regulation 7[^key-5d494973b500b9cf0cdf0b7510301243]
+
+(1) Subject to paragraph (3)—
+
+- (a) an applicant who has received notice under regulation 7(7) that the application has been unsuccessful, or
+- (b) where such an applicant was an overseas entity, the relevant individual to which the application related,
+
+may appeal to the High Court or, in Scotland, the Court of Session on the grounds mentioned in paragraph (2).
+
+(2) The grounds referred to in paragraph (1) are that the determination—
+
+- (a) is unlawful;
+- (b) is irrational or unreasonable; or
+- (c) has been made on the basis of a procedural impropriety or otherwise contravenes the rules of natural justice.
+
+(3) No appeal may be brought unless the permission of the court has been obtained.
+
+(4) No application for such permission may be made after 28 days beginning with the date of the notice under regulation 7(7) unless the court is satisfied that there was good reason for the failure of the applicant to seek permission before the end of that period.
+
+(5) An applicant who seeks permission to appeal must serve written notice of the application on the registrar within 7 days beginning with the date on which the application for permission was issued.
+
+(6) The court determining an appeal may—
+
+- (a) dismiss the appeal; or
+- (b) quash the determination.
+
+(7) Where the court quashes a determination it may refer the matter to the registrar with a direction to reconsider it and make a further determination under regulation 7(7) in accordance with the findings of the court.
+
+### 11. Unsuccessful determination made under regulation 7[^key-c3cf62e9cd7934b443253952e39a0c09]
+
+(1) This regulation applies where the registrar has made a determination in respect of an application made under regulation 7 that is not in favour of the applicant (an unsuccessful application).
+
+(2) The registrar must make available for public inspection protected information to which the application under regulation 7 relates—
+
+- (a) where notice of an application for permission to appeal has not been served on the registrar in accordance with regulation 10(5), as soon as reasonably practicable after the end of the period of 42 days beginning with the date of the notice given under regulation 7(7); or
+- (b) where notice of an application for permission to appeal has been served on the registrar in accordance with regulation 10(5), as soon as reasonably practicable after—
+  - (i) the court has dismissed the application for permission to appeal or has dismissed the appeal and there is no further appeal pending; or
+  - (ii) the registrar becomes aware that the application for permission to appeal or the appeal has been subsequently withdrawn or abandoned.
+
+(3)[^key-451b4a242c38425c18615fc7580c979f] Where the registrar makes protected information available for public inspection under this regulation, the registrar must notify the relevant individual to whom the protected information relates and, if different, the applicant and the relevant overseas entity of that action as soon as reasonably practicable.
+
+### 12. Duration of a determination under regulation 7[^key-20fd419b2c16d33f67f273dd030a8b86]
+
+(1) A determination under regulation 7(7) that an application is successful continues to have effect until—
+
+- (a) the relevant individual, or if the relevant individual is under eighteen years of age or lacks capacity, a person authorised to act on their behalf, notifies the registrar in writing that they wish the determination to cease to have effect; or
+- (b) the registrar revokes the determination under regulation 13.
+
+(2) Where a notice is given under paragraph (1)(a) by a person other than the relevant overseas entity, the person giving the notice must also notify the relevant overseas entity.
+
+### 13. Revocation of a determination under regulation 7(7)[^key-1d106a60b6edd1688e34ec755934e3f8]
+
+(1) The registrar may revoke a determination made under regulation 7(7) that an application is successful if—
+
+- (a)
+  - (i) the applicant in relation to the determination or (if different) any person to whom the application relates has been found guilty of an offence under section 32 of the ECTEA (general false statement offence) in respect of purported compliance with any provision of Part 1 of the ECTEA[^key-531b0e89315623637152d01330c891cf];
+  - (ii) the registrar has sent a notice in accordance with paragraph (2) to the applicant in relation to the determination and (if different) the relevant individual to whom the determination relates; and
+  - (iii) the period of 28 days beginning with the date of that notice has expired; or
+- (b) the registrar is notified, or otherwise becomes aware, that the relevant individual has died or become incapacitated or that the grounds relied on in the application under regulation 7 are no longer met by the relevant individual[^key-bf85f023f3107887f4e86c4514082dc5].
+
+(2) The notice mentioned in paragraph (1)(a)(ii) must inform the addressee—
+
+- (a) of the registrar’s intention to revoke the determination;
+- (b) that the addressee may, within 28 days beginning with the date of the notice, deliver representations in writing to the registrar as to why the registrar should not revoke the determination; and
+- (c) that if the registrar receives such representations within that period, the registrar will have regard to the representations in deciding whether to revoke the determination.
+
+(3) If within the period specified in paragraph (2)(b) an addressee of the notice delivers representations in writing to the registrar as to why the registrar should not revoke the determination, the registrar must have regard to the representations in deciding whether to revoke the determination.
+
+(4) The registrar must send notice of the registrar’s decision as to whether to revoke a determination to the applicant in relation to the determination and (if different) the relevant individual to whom the determination relates within 7 days beginning with the date of the decision.
+
+(5) Where the registrar has made a decision to revoke a determination, the registrar must make protected information to which the determination relates available for public inspection as soon as reasonably practicable after sending the notice mentioned in paragraph (4).
+
+(6) Where the registrar makes protected information available for public inspection under this regulation, the registrar must notify the person to whom the protected information relates and the overseas entity to which the application under regulation 7 related of that action as soon as reasonably practicable.
+
+## PART 4 — Registrable beneficial owners: Schedule 2 to the ECTEA
+
+### 14. Description of legal entity subject to its own disclosure requirements[^key-ed9c1d2b39e4b4020614131e27288824]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Callanan
+
+Parliamentary Under Secretary of State
+
+Department for Business, Energy and Industrial Strategy
+
+25th July 2022
+
+## SCHEDULE 1 — Specified public authorities[^key-6ca9f060a4b7f0295ad259b121b20ae6]
+
+**No longer in force.**
+
+Regulation 2
+
+**1.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**22.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**23.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**24.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**25.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**26.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**27.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**28.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**29.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**30.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**31.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**32.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**33.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**34.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**35.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**36.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**37.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**38.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**39.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**40.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**41.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**42.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**43.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**44.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**45.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**46.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**47.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**48.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**49.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**50.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**51.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**52.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**53.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**54.**[^key-6ca9f060a4b7f0295ad259b121b20ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Conditions for permitted disclosure[^key-4a6d0e2b7cb0055d8eaf09ff69ba1394]
+
+**No longer in force.**
+
+Regulation 6(3)(b)
+
+**1.**[^key-4a6d0e2b7cb0055d8eaf09ff69ba1394] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-4a6d0e2b7cb0055d8eaf09ff69ba1394] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-4a6d0e2b7cb0055d8eaf09ff69ba1394] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-4a6d0e2b7cb0055d8eaf09ff69ba1394] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-4a6d0e2b7cb0055d8eaf09ff69ba1394] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-4a6d0e2b7cb0055d8eaf09ff69ba1394] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision relating to the register of overseas entities (“**the register**”) kept by the registrar of companies for England and Wales (“**the registrar**”) in accordance with Part 1 of the Economic Crime (Transparency and Enforcement) Act [2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10). The provisions relate to the electronic delivery of documents, the protection of information and the definition of registrable beneficial owners.
+
+Part 2 makes provision under section 1069 of the Companies Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46) for certain specified documents which must be delivered to the registrar for the purposes of the register to be delivered by electronic means. Regulation 4 provides an exception.
+
+Part 3 makes provision under section 25 of the Economic Crime (Transparency and Enforcement) Act 2022 requiring the registrar to make information relating to a relevant individual (an individual who is or used to be a registrable beneficial owner or managing officer of an overseas entity) unavailable for public inspection and to refrain from disclosing that information except in specified circumstances.
+
+Regulations 5 and 6 set out when protected information must be made unavailable for public inspection and not disclosed by the registrar. Regulation 7 makes provision for the grounds on which an application to protect information can be made, the application process including details as to what the application must contain and determination of the application by the registrar. Regulation 8 makes further provision about the application and its determination, including the ability of the registrar to refer any question relating to the assessment of the nature or extent of any relevant risk to any other person who the registrar considers may be able to assist. Regulation 9 sets out how an application can be withdrawn before it is determined.
+
+Regulation 10 makes provision for appeals to the High Court or Court of Session when an application to protect information is unsuccessful. Regulation 10 provides that no appeal can be made without the permission of the court.
+
+Regulation 11 makes provision as to the steps the registrar must take following a determination that the application has been unsuccessful. Regulations 12 and 13 make provision for the duration of a determination that the information must be protected including provision for revocation by the registrar.
+
+Part 4 specifies that overseas trust service providers which are based where trust services are regulated are subject to its own disclosure requirements for the purposes of Schedule 2 to the Economic Crime (Transparency and Enforcement) Act 2022 (which defines “registrable beneficial owner”: a legal entity must be subject to its own disclosure requirements to be a registrable beneficial owner).
+
+A full regulatory impact assessment of the effect that the overseas entities register will have on the costs of business and the voluntary sector is available from the Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London SW1H 0ET and is published with the Explanatory Memorandum to this instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2022 c. 10](https://www.legislation.gov.uk/ukpga/2022/10).
+
+[^f00002]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-d13cdd73bcaa26902ab0a0f53cdff3df]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/870/regulation/1) in force at 12.10.2022 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/870/regulation/1/1)
+
+[^key-5e83975922b53028dbdbcf862996e8d1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/870/regulation/2) in force at 12.10.2022 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/870/regulation/1/1)
+
+[^key-d7192996d304b9cd25e72c40d06cbb06]: Textual amendment: Reg. 2 renumbered as reg. 2(1) (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/2/a)
+
+[^key-77f05ca04e2ea9d8d750cb77ed732065]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/870/regulation/2/1) inserted (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/2/a)
+
+[^key-abc6045b10461ba460bec5c6d83a5363]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/870/regulation/2) inserted (1.6.2023) by [The Register of Overseas Entities (Definition of Foreign Limited Partner, Protection and Rectification) Regulations 2023 (S.I. 2023/534)](https://www.legislation.gov.uk/uksi/2023/534), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/534/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2023/534/regulation/7/2)
+
+[^key-c830dac28bb368041de366b6c7b86278]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/870/regulation/2/1) substituted (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/2/b)
+
+[^key-18c6048f5103baa81cf9b6954725a672]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/870/regulation/2/1) inserted (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/2/c)
+
+[^key-4482ce5d4eddac85a9d2205ca8dea271]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/870/regulation/2/1) omitted (28.2.2025) by virtue of [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/2/d)
+
+[^key-17428266e4853a5cc365d4791fcc5405]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/870/regulation/2/2) inserted (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/3)
+
+[^key-60c5d1a868c7522dd5e2a59933055bb8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/870/regulation/3) in force at 12.10.2022 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/870/regulation/1/1)
+
+[^f00003]: Footnote: For the meaning of “delivered by electronic means” see section 1168(4) and (7) of the Companies Act 2006.
+
+[^key-98bcf44b596899621b0605c23f19a4fb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/870/regulation/4) in force at 12.10.2022 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/870/regulation/1/1)
+
+[^key-6ac8f4d5396bce8d9e583b0da35bf584]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/870/regulation/5) in force at 12.10.2022 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/870/regulation/1/1)
+
+[^key-2bf3a02312a8adde17403e140a3aa922]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/870/regulation/6) in force at 12.10.2022 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/870/regulation/1/1)
+
+[^key-20782198a2b4d93b3b4f581e065d0c1f]: Textual amendment: Word in [reg. 6(3)(a)](https://www.legislation.gov.uk/uksi/2022/870/regulation/6/3/a) inserted (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/4/a)
+
+[^key-508815ac92e75f505de4d03f8303b6e4]: Textual amendment: [Reg. 6(3)(b)](https://www.legislation.gov.uk/uksi/2022/870/regulation/6/3/b) omitted (28.2.2025) by virtue of [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/4/b)
+
+[^key-ccc04b0ab9fe58952584749e785c6f7e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/870/regulation/7) in force at 12.10.2022 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/870/regulation/1/1)
+
+[^key-8b8bccc28532f7d92e355a0ebb1e5dde]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2022/870/regulation/7/1) substituted (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/5)
+
+[^key-4e9059d5f70f8502ac668fb0967bcc3f]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2022/870/regulation/7/3) substituted (1.6.2023) by [The Register of Overseas Entities (Definition of Foreign Limited Partner, Protection and Rectification) Regulations 2023 (S.I. 2023/534)](https://www.legislation.gov.uk/uksi/2023/534), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/534/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2023/534/regulation/7/3)
+
+[^key-5d63d5f1d1f69b43dfa4287c7526a172]: Textual amendment: Word in [reg. 7(3)(a)](https://www.legislation.gov.uk/uksi/2022/870/regulation/7/3/a) omitted (28.2.2025) by virtue of [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/6/a)
+
+[^key-1b8779c1c7efd2831fa6f8f85a6816b8]: Textual amendment: Word in [reg. 7(3)(b)](https://www.legislation.gov.uk/uksi/2022/870/regulation/7/3/b) substituted for full stop (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(6)(b)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/6/b)
+
+[^key-e288515611f67e197c90ca0475d1dd57]: Textual amendment: [Reg. 7(3)(c)](https://www.legislation.gov.uk/uksi/2022/870/regulation/7/3/c) inserted (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(6)(c)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/6/c)
+
+[^key-593c9911544fd59f404bf95f7890b84e]: Textual amendment: Words in [reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2022/870/regulation/7/4/b) inserted (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(7)(a)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/7/a)
+
+[^key-bd05df2d94467f8b065f60f7ce3368c3]: Textual amendment: Words in [reg. 7(4)(c)](https://www.legislation.gov.uk/uksi/2022/870/regulation/7/4/c) inserted (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(7)(b)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/7/b)
+
+[^f00004]: Footnote: [2018 c. 13](https://www.legislation.gov.uk/ukpga/2018/13).
+
+[^key-53618221f1917f36ef5ad870cc43abb3]: Textual amendment: [Reg. 7(4)(i)](https://www.legislation.gov.uk/uksi/2022/870/regulation/7/4/i) substituted (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(7)(c)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/7/c)
+
+[^key-13129024e9137d80be7ef59edeec4534]: Textual amendment: [Reg. 7(4)(j)](https://www.legislation.gov.uk/uksi/2022/870/regulation/7/4/j) inserted (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(7)(d)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/7/d)
+
+[^key-942402609a69a263c9d10c042cf63793]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/uksi/2022/870/regulation/7/5) substituted (9.7.2026) by [The Register of Overseas Entities (Protection and Trusts) and Limited Liability Partnerships (Application of Company Law) (Amendment) Regulations 2026 (S.I. 2026/778)](https://www.legislation.gov.uk/uksi/2026/778), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/778/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/778/regulation/2/2/a)
+
+[^key-6451c1132e4e1ea93cca3002c04ed69c]: Textual amendment: [Reg. 7(5A)-(5C)](https://www.legislation.gov.uk/uksi/2022/870/regulation/7/5A) inserted (9.7.2026) by [The Register of Overseas Entities (Protection and Trusts) and Limited Liability Partnerships (Application of Company Law) (Amendment) Regulations 2026 (S.I. 2026/778)](https://www.legislation.gov.uk/uksi/2026/778), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/778/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/778/regulation/2/2/b)
+
+[^key-c8e22384b27fd6c92c4118fe1807ceda]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/uksi/2022/870/regulation/7/6) substituted (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/8)
+
+[^key-98740b40c7361f14c5e747d5f18d5c09]: Textual amendment: Words in [reg. 7(8)](https://www.legislation.gov.uk/uksi/2022/870/regulation/7/8) inserted (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/9)
+
+[^key-aee511d7b11b0e49d441b84685c350dc]: Textual amendment: Word in [reg. 7(8)](https://www.legislation.gov.uk/uksi/2022/870/regulation/7/8) inserted (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/9)
+
+[^key-4b4ed312cb5b59ee04fed78c3b4a8433]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/870/regulation/8) in force at 12.10.2022 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/870/regulation/1/1)
+
+[^key-d2c382a2f5ffe1a5e741d002e5b10333]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/uksi/2022/870/regulation/8/4) omitted (28.2.2025) by virtue of [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(10)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/10)
+
+[^key-8e21070ad8846742e0b782afbdddec69]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/870/regulation/9) in force at 12.10.2022 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/870/regulation/1/1)
+
+[^key-5d494973b500b9cf0cdf0b7510301243]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2022/870/regulation/10) in force at 12.10.2022 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/870/regulation/1/1)
+
+[^key-c3cf62e9cd7934b443253952e39a0c09]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2022/870/regulation/11) in force at 12.10.2022 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/870/regulation/1/1)
+
+[^key-451b4a242c38425c18615fc7580c979f]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2022/870/regulation/11/3) substituted (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(11)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/11)
+
+[^key-20fd419b2c16d33f67f273dd030a8b86]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2022/870/regulation/12) substituted (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(12)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/12)
+
+[^key-1d106a60b6edd1688e34ec755934e3f8]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2022/870/regulation/13) in force at 12.10.2022 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/870/regulation/1/1)
+
+[^key-531b0e89315623637152d01330c891cf]: Textual amendment: Words in [reg. 13(1)(a)(i)](https://www.legislation.gov.uk/uksi/2022/870/regulation/13/1/a/i) substituted (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(13)(a)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/13/a)
+
+[^key-bf85f023f3107887f4e86c4514082dc5]: Textual amendment: Words in [reg. 13(1)(b)](https://www.legislation.gov.uk/uksi/2022/870/regulation/13/1/b) inserted (28.2.2025) by [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(13)(b)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/13/b)
+
+[^key-ed9c1d2b39e4b4020614131e27288824]: Textual amendment: Reg. 14 revoked (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 161(6)](https://www.legislation.gov.uk/ukpga/2023/56/section/161/6), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z49)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z49) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/269/regulation/6))
+
+[^key-6ca9f060a4b7f0295ad259b121b20ae6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2022/870/schedule/1) omitted (28.2.2025) by virtue of [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(14)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/14)
+
+[^key-4a6d0e2b7cb0055d8eaf09ff69ba1394]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2022/870/schedule/2) omitted (28.2.2025) by virtue of [The Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025 (S.I. 2025/231)](https://www.legislation.gov.uk/uksi/2025/231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2), [3(14)](https://www.legislation.gov.uk/uksi/2025/231/regulation/3/14)

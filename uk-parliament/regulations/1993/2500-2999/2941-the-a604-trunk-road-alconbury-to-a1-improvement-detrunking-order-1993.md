@@ -1,0 +1,75 @@
+---
+title: The A604 Trunk Road (Alconbury to A1 Improvement) (Detrunking) Order 1993
+id: uksi/1993/2941
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1993-11-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1993/2941
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1993/2941/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The A604 Trunk Road (Alconbury to A1 Improvement) (Detrunking) Order 1993
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1993 No. 2941
+
+HIGHWAYS, ENGLAND AND WALES
+
+The A604 Trunk Road (Alconbury to A1 Improvement) (Detrunking) Order 1993
+
+Made
+
+17th November 1993
+
+Coming into force
+
+14th December 1993
+
+The Secretary of State for Transport makes this Order in exercise of powers conferred by sections 10 and 12 of the Highways Act 1980[^f00001], and now vested in him[^f00002], and of all other enabling powers:
+
+**1.** The lengths of the trunk road described in the Schedule to this Order and shown by broad striped hatching on the deposited plan shall cease to be trunk road and shall be classified as classified roads as from the date on which the Secretary of State notifies the County Council of Cambridgeshire that the special roads referred to in article 1 of the A604(M) Motorway (Alconbury to A1(M) Section) and Connecting Roads Scheme 1993[^f00003] are open for use as special roads.
+
+**2.** In this Order—
+
+(1) all measurements of distance are measured along the route of the relevant highway;
+
+(2)
+
+- (i) “classified road” as a classification for a highway, means that the highway is not a principal road for the purposes of enactments or instruments which refer to highways classified as principal roads but is a classified road for the purpose of every enactment and instrument which refers to highways classified by the Secretary of State and which does not specifically refer to their classification as principal roads;
+- (ii) “the deposited plan” means the plan numbered HA10/2E/341 marked “The A604 Trunk Road (Alconbury to A1 Improvement) (Detrunking) Order 1993”signed by authority of the Secretary of State and deposited at the Department of Transport, Romney House, 43 Marsham Street, London SW1P 3PY;
+- (iii) “the trunk road” means the A604 Trunk Road.
+
+**3.** This Order shall come into force on 14th December 1993 and may be cited as the A604 Trunk Road (Alconbury to A1 Improvement) (Detrunking) Order 1993.
+
+Signed by authority of the Secretary of State for Transport
+
+Peter Emms
+
+Regional Director Eastern Region
+
+Department of Transport
+
+17th November 1993
+
+## THE SCHEDULE — LENGTHS OF TRUNK ROAD CEASING TO BE TRUNK ROAD
+
+**1.** The southbound carriageway of the trunk road, from its junction with the A1 Trunk Road (685 metres south of Wheatsheaf Flyover) to a point 840 metres southeast of that junction, a distance of 840 metres.
+
+**2.** The slip road from the southbound carriageway of the trunk road to the existing roundabout linking with Rusts Lane and the B1043 Ermine Street, given the reference number 1 on the deposited plan.
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66)
+
+[^f00002]: Footnote: S.I. [1981/238](https://www.legislation.gov.uk/uksi/1981/238)
+
+[^f00003]: Footnote: S.I. [1993/2940](https://www.legislation.gov.uk/uksi/1993/2940)

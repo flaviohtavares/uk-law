@@ -1,0 +1,117 @@
+---
+title: The Income Support (Liable Relatives) Regulations 1990
+id: uksi/1990/1777
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1990-08-28'
+text_date: '2026-03-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1990/1777
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1990/1777/pdfs/uksi_19901777_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1990/1777/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income Support (Liable Relatives) Regulations 1990
+
+> Text as at 2026-03-15.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1990 No. 1777
+
+SOCIAL SECURITY
+
+The Income Support (Liable Relatives) Regulations 1990
+
+Made
+
+28th August 1990
+
+Laid before Parliament
+
+6th September 1990
+
+Coming into force
+
+15th October 1990
+
+The Secretary of State for Social Security, in exercise of the powers conferred by section 166(1) to (3A) of the Social Security Act 1975 [^c2181165] and sections 24A(1), 24B(5) and 84(1) [^c2181166] of the Social Security Act 1986 [^c2181167] and of all other powers enabling him in that behalf, by this instrument, which is made before the end of the period of 6 months beginning with the commencement of the enactments under which it is made, hereby makes the following regulations:—
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Income Support (Liable Relatives) Regulations 1990 and shall come into force on 15th October 1990.
+
+(2) In these Regulations—
+
+- “**the Act**” means the Social Security Act 1986; and
+- “**the Income Support Regulations**” means the Income Support (General) Regulations 1987 [^c2181168].
+
+## 2. Prescribed amounts for the purposes of section 24A of the Act
+
+(1) For the purposes of section 24A of the Act (recovery of expenditure on income support: additional amounts and transfer of orders) the amount which may be included in the sum which the court may order the other parent to pay under section 24(4) of the Act shall be the whole of the following amounts which are payable to or for the claimant—
+
+- (a) any personal allowance under paragraph 2 of Part I of Schedule 2 to the Income Support Regulations for each of the children whom the other parent is liable to maintain;
+- (b) any family premium under paragraph 3 of Part II of that Schedule;
+- (c) any lone parent premium under paragraph 8 of Part III of that Schedule;
+- (d) any disabled child premium under paragraph 14 of Part III of that Schedule in respect of a child whom the other parent is liable to maintain; and
+- (e) any carer premium under paragraph 14ZA of Part III of that Schedule if, but only if, that premium is payable because the claimant is in receipt, or is treated as being in receipt, of carer’s allowance[^key-7d3d8e173d1376e4876d594b60304060] or[^key-77f6379321ea464f3cad5d16ba5b6889] the carer support payment component of carer support given in accordance with[^key-a3576d1202e5814135905a9e1af2a8e5] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023, by reason of the fact that he is caring for a severely disabled child or young person whom the other parent is liable to maintain.
+
+(2) If the court is satisfied that in addition to the amounts specified in paragraph (1) above the liable parent has the means to pay, the sum which the court may order him to pay under section 24 of the Act may also include all or some of the amount of any personal allowance payable to or for the claimant under paragraph 1 of Part I of Schedule 2 to the Income Support Regulations.
+
+## 3. Notice to the Secretary of State of applications to alter etc. maintenance orders
+
+(1) For the purposes of section 24B(5) of the Act (prescribed person in prescribed circumstances to notify the Secretary of State of application to alter etc. a maintenance order) the prescribed person is, and in paragraph (2) below that expression means,—
+
+- (a) in England and Wales—
+  - (i) in relation to the High Court, where the case is proceeding in the deputy principal registry the senior registrar of that registry, and where the case is proceeding in a district registry the district registrar;
+  - (ii) in relation to a county court, the proper officer of that court within the meaning of Order 1, Rule 3 of the County Court Rules 1981 [^c2181169]; and
+  - (iii) in relation to a magistrates' court, the clerk to the justices of that court; and
+- (b) in Scotland—
+  - (i) in relation to the Court of Session, the deputy principal clerk of session; and
+  - (ii) in relation to a sheriff court, the sheriff clerk.
+
+(2) For the purposes of that subsection the prescribed circumstances are that before the final determination of the application the Secretary of State has made a written request to the prescribed person that he be notified of any such application, and has not made a written withdrawal of that request.
+
+Signed by authority of the Secretary of State for Social Security.
+
+Gillian Shephard
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+28thAugust 1990
+
+*(This note is not part of the Regulations)*
+
+When income support is claimed by or on behalf of a person who another person is liable to maintain, section 24 of the Social Security Act 1986 enables a magistrates' court, on a complaint by the Secretary of State, to order the liable person to pay such sum as it considers appropriate. The Social Security Act 1990 inserted a new section 24A into the 1986 Act which provides that the sum which may be so ordered to be paid may include an amount, determined in accordance with regulations, in respect of income support paid to or for the claimant under such provisions as may be prescribed. Regulation 2 of these Regulations prescribes the amount and the provisions which are to be taken into account.
+
+The 1990 Act also inserted a new section 24B into the 1986 Act which enables the Secretary of State to enforce a maintenance order which already exists in favour of a claimant for income support. Regulation 3 of these Regulations prescribes, under subsection (5) of that section, the person who is to give the Secretary of State notice of any application to vary etc. such an order, and the circumstances in which such notice is to be given.
+
+These Regulations are made before the end of the period of 6 months beginning with the commencement of the provisions under which they are made and accordingly, under section 61(5) of the Social Security Act 1986, proposals to make them were not required to be referred to the Social Security Advisory Committee, and no such reference has been made.
+
+## Annotations
+
+[^c2181165]: Marginal citation: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14). Section 166(1) to (3A) applies to regulations made under the Social Security Act 1986 by virtue of section 83(1) of that Act.
+
+[^c2181166]: Marginal citation: See the definitions of “prescribed” and “regulations”.
+
+[^c2181167]: Marginal citation: [1986 c. 50](https://www.legislation.gov.uk/ukpga/1986/50). Sections 24A and 24B were inserted by section 8 of the [Social Security Act 1990 (c. 27)](https://www.legislation.gov.uk/ukpga/1990/27).
+
+[^c2181168]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967). The relevant amending instruments are [S.I. 1988/663](https://www.legislation.gov.uk/uksi/1988/663), 1445 and 2022; 1989/43, 534, 1034 and 1678. Paragraph 7(b) of Schedule 2 was amended by paragraphs 1 and 4 of Schedule 5 to the [Employment Act 1989 (c. 38)](https://www.legislation.gov.uk/ukpga/1989/38).
+
+[^key-7d3d8e173d1376e4876d594b60304060]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1990/1777/regulation/2) substituted (1.4.2003) by [Social Security Amendment (Carer's Allowance) Regulations 2002 (S.I. 2002/2497)](https://www.legislation.gov.uk/uksi/2002/2497), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2002/2497/regulation/1/b), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/1)[Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/2)
+
+[^key-77f6379321ea464f3cad5d16ba5b6889]: Textual amendment: Words in [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/1990/1777/regulation/2/1/e) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [7](https://www.legislation.gov.uk/uksi/2023/1218/article/7)
+
+[^key-a3576d1202e5814135905a9e1af2a8e5]: Textual amendment: Words in [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/1990/1777/regulation/2/1/e) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [11](https://www.legislation.gov.uk/uksi/2026/246/article/11)
+
+[^c2181169]: Marginal citation: [S.I. 1981/1687](https://www.legislation.gov.uk/uksi/1981/1687), to which there are amendments not relevant to these Regulations.

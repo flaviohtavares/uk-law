@@ -1,0 +1,364 @@
+---
+title: The Electricity (Guarantees of Origin of Electricity Produced from Renewable Energy Sources) Regulations 2003
+id: uksi/2003/2562
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-10-03'
+text_date: '2023-04-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2003/2562
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/2562/pdfs/uksi_20032562_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/2562/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electricity (Guarantees of Origin of Electricity Produced from Renewable Energy Sources) Regulations 2003
+
+> Text as at 2023-04-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2003 No. 2562
+
+ELECTRICITY
+
+The Electricity (Guarantees of Origin of Electricity Produced from Renewable Energy Sources) Regulations 2003
+
+Made
+
+3rd October 2003
+
+Laid before Parliament
+
+6th October 2003
+
+Coming into force
+
+27th October 2003
+
+The Secretary of State, being a Minister designated [^c5330291] for the purposes of section 2(2) of the European Communities Act 1972 [^c5330301] in relation to measures relating to the regulation of the electricity sector, in exercise of the powers conferred on her by that section, hereby makes the following Regulations:—
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Electricity (Guarantees of Origin of Electricity Produced from Renewable Energy Sources) Regulations 2003 and shall come into force on 27th October 2003.
+
+(2) These Regulations do not extend to Northern Ireland.
+
+## 2. Interpretation
+
+(1) In these Regulations, unless the context otherwise requires—
+
+- “**the Authority**” means the Gas and Electricity Markets Authority established under section 1 of the Utilities Act 2000 [^c5330311];
+- “aerothermal energy” means energy stored in the form of heat in the ambient air;[^key-5bf7476f21f6de0c472209afbfe33eb8]
+- “biomass” means the biodegradable fraction of products, waste and residues of biological origin from agriculture (including vegetal and animal substances), forestry and related industries including fisheries and aquaculture, as well as the biodegradable fraction of industrial and municipal waste;[^key-10211923973d045be2a5924b5d88e832]
+- “**competent authority**” means—
+  - (a) the Authority; and
+  - (b) any Minister, government department, public body of any description or person holding a public office;
+- “**declared net capacity**” means the highest generation of electricity (calculated by adding together the highest generation of electricity at the main terminals of each alternator and dynamo) which, on the assumption that the source of power is available uninterruptedly, can be maintained indefinitely without causing damage to the plant, less so much of that electricity as is consumed by the plant;
+- “the Directive” means Directive[^key-10350b97404ea8b556e9392cc65db2e4] [2009/28/EC](https://www.legislation.gov.uk/eudr/2009/28) of the European Parliament and of the Council of 23 April 2009 on the promotion of the use of energy from renewable sources and amending and subsequently repealing Directives [2001/77/EC](https://www.legislation.gov.uk/eudr/2001/77) and [2003/30/EC](https://www.legislation.gov.uk/eudr/2003/30);
+- “**electricity produced from renewable energy sources**” means—
+  - (a) electricity produced by a plant which produces electricity derived only from renewable energy sources;
+  - (b) in the case of a plant which produces electricity derived from both renewable and other energy sources, the proportion of electricity derived from renewable energy sources,
+
+  and shall include electricity which is used for filling storage systems, but not electricity produced as a result of such filling of storage systems;
+- “geothermal energy” means energy stored in the form of heat beneath the surface of solid earth;[^key-a6b573d780528d78b16895f3b2333f85]
+- “guarantee of origin” means, except in relation to regulation 9(2) to (5) and (so far as it relates to guarantees of origin issued in[^key-251988947314a2a836c9def2615675ce] [^key-244383e4400eb35d0ee50d452fe48f3e]... Northern Ireland) regulation 9(6), a certificate issued by the Authority certifying that the electricity in respect of which the certificate is issued was electricity produced from renewable energy sources;
+- “**guarantee sequence number**” has the meaning given by regulation 7(4);
+- “**Great Britain**” includes—
+  - (a) the territorial sea of the United Kingdom which is adjacent to Great Britain; and
+  - (b) any area designated under section 1(7) of the Continental Shelf Act 1964 [^c5330331];
+- “hydrothermal energy” means energy stored in the form of heat in surface water;[^key-2a93c632dbb3ffb71255a98f2349657e]
+- [^key-0eaa748a1175f2c04debb99355e74f21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^key-672234b96ef14b1722c9e2ab6a418f24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^key-3c4d27502e2375d51aacc86356687d17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^key-b3f46de3fbc6351322424b4e22874b8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “[^key-dfa43ce26723c97efcf14fadf9f1fd5f]**Northern Ireland authority**” means a person in Northern Ireland corresponding to a competent authority;
+- [^key-904c926736649cd9bc58afb1d9ccbfdd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “recognise”, in relation to a guarantee of origin, means recognise as proof of the elements referred to in paragraphs 1 and 6(a) to (f) of Article 15 of the Directive;[^key-d7d0e7a08a13f7036f7af987859b5ff8]
+- “**the Register**” means the register established by the Authority under regulation 7(1);
+- “**registered holder**”, in relation to a guarantee of origin, means the person whose name is shown on the Register in accordance with paragraph 1(l) of Schedule 2[^key-d54d37e462b378ed3a1f08b63edc65de] as the last person to whom that guarantee of origin has been transferred or, where there is no person so shown, the person whose name is shown on the Register under paragraph 1(a) of that Schedule as the person to whom the guarantee of origin has been issued;
+- “**registered particulars**” means the information entered on the Register, as specified in paragraph 1 of Schedule 2, in relation to a guarantee of origin;
+- “renewable energy sources” means renewable non-fossil energy sources, that is, wind, solar, aerothermal, geothermal, hydrothermal and ocean energy, hydropower, biomass, landfill gas, sewage treatment plant gas and biogases;[^key-1fd749e7356e80f0d47415de34d9b67b]
+- “**storage system**” means a system for the storage of water or any other substance intended for use in the production of electricity produced from renewable energy sources;
+- “support scheme” means any instrument, scheme or mechanism that promotes the use of energy from renewable sources by reducing the cost of that energy, increasing the price at which it can be sold, or increasing the volume of such energy purchased.[^key-adf3cb51778ee2d3639812ef44d97ec9]
+- [^key-a1e81e8cd59fe122e52aff2b7edefa28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Unless the context otherwise requires, words and phrases used in these Regulations shall have the same meaning as in the Directive.
+
+(3) Any reference in these Regulations to the provision of information “in writing” shall include the provision of such information by electronic mail, facsimile or similar means which are capable of producing a document containing the text of any communication and any reference to certificates or other documents shall be construed as including a reference to such certificates or other documents in electronic form.
+
+## 3. Designation of the Authority as the issuer of guarantees or origin
+
+Guarantees of origin shall be issued, transferred, cancelled and revoked[^key-40143ee6a9aa330feb7f1ad3bd50685f] by the Authority in accordance with the provisions of these Regulations.
+
+## 4. Request for issue of guarantees of origin and information required
+
+(1)[^key-7482a3c2bdfc8a3e8b6847bf31978d52] The Authority shall issue guarantees of origin in response to a request from a producer of electricity from renewable energy sources.
+
+(2) No request for the issue of guarantees of origin may be made under paragraph (1) in respect of electricity produced outside Great Britain.
+
+(3) No request for the issue of guarantees of origin may be made under paragraph (1) in respect of a period of less than one month.
+
+(4) A request under paragraph (1) shall be made to the Authority, and shall not be considered duly made until the Authority has been provided with all the information and evidence specified in Schedule 1.
+
+(5) A request under paragraph (1) shall be accompanied by a statement signed by the person making the request (or, if the person making the request is a body corporate, by a representative of that body) that—
+
+- (a) the person making the request is entitled under these Regulations to the issue of guarantees of origin in respect of the electricity which is the subject of the request; and
+- (b) that the person making the request has not made, and does not intend to make, a request in [^key-0adeb68c9c19dbc00ac53041b420fa0c]... Northern Ireland for the issue of guarantees of origin in respect of the same electricity.
+
+## 5. Access to a plant
+
+Where—
+
+- (a) the Authority requests access to a plant pursuant to the exercise of its functions under these Regulations; and
+- (b) any person unreasonably fails or refuses to provide such access, or to provide the Authority with all relevant information and assistance that it may reasonably require for the purposes for which access has been requested,
+
+the Authority may refuse to issue guarantees of origin in respect of any electricity produced by that plant in respect of which it has not already issued guarantees of origin.
+
+## 6. Issue and transfer of guarantees of origin
+
+(1) Without prejudice to regulation 5, where the Authority has received a request for the issue of guarantees of origin which has been duly made in accordance with these Regulations, it shall issue guarantees of origin in respect of so much (but no more) of the electricity to which the request relates as the Authority is satisfied was electricity produced from renewable energy sources.
+
+(2) Where it issues guarantees of origin under paragraph (1) the Authority shall issue guarantees of origin to the person making the request or to such other person as the person making the request may direct.
+
+(3) One guarantee of origin shall be issued in respect of each megawatt hour[^key-a8a7727808c8c89978612f59f094bebd] of electricity produced from renewable energy sources (rounding upwards or downwards to the nearest whole megawatt hour, and with any exact half megawatt hour being rounded upwards).
+
+(4) Where a guarantee of origin has been issued and has not been revoked, no further guarantee of origin in respect of the electricity to which the guarantee relates shall be issued.
+
+(5) If the registered holder of a guarantee of origin requests the Authority to transfer that guarantee of origin to any other person, the Authority shall do so by amending the Register accordingly.
+
+## 7. Guarantees of origin and the Register
+
+(1) The Authority shall—
+
+- (a) establish and maintain a Register, which shall[^key-31cf560f4afc2ffa0401ebb476911447] be in electronic form, and which shall contain the information set out in Schedule 2; and
+- (b) publish that information on its website or by such means as it considers appropriate.
+
+(2) The Register shall be conclusive as regards whether a guarantee of origin subsists and as to the person who is for the time being its registered holder.
+
+(3) A guarantee of origin shall comprise its registered particulars, and shall be regarded as being issued when those particulars are entered in the Register by the Authority.
+
+(4) The Authority shall when issuing guarantees of origin—
+
+- (a) allocate a unique number (the “guarantee sequence number”) to each guarantee of origin issued; and
+- (b) allocate guarantee sequence numbers sequentially in ascending numerical order to all the guarantees of origin issued in respect of electricity produced from renewable energy sources by a particular plant during the period to which the request relates.
+
+(5) The Authority shall publish an explanation of how any code used by it in the Register to state information is to be interpreted.
+
+## 7A. Cancellation of guarantees of origin[^key-e7c896a39b31f1d5f8666ee79b45ca42]
+
+(1) Where a guarantee of origin is issued by the Authority in respect of electricity generated—
+
+- (a) during a period of one month, that guarantee of origin shall be cancelled not more than 16 months after the end of that month; or
+- (b) during a period of longer than one month, that guarantee of origin shall be cancelled not more than 16 months after the end of the first month during which the electricity to which it relates was generated.
+
+(2) Where a guarantee of origin has been cancelled under paragraph (1) or revoked under regulation 8(1) it shall no longer qualify as proof that the electricity to which it relates was produced from renewable energy sources.
+
+## 8. Revocation of guarantees of origin
+
+(1) The Authority shall revoke a guarantee of origin where—
+
+- (a) it is satisfied that the information provided in accordance with regulation 4(4) on the basis of which that guarantee of origin was issued is incorrect in a material particular or that the guarantee of origin was issued on the basis of any fraudulent behaviour, statement or undertaking; or
+- (b) it is otherwise satisfied that the guarantee of origin should not have been issued, is inaccurate or was issued to the wrong person.
+
+(2) Where the Authority revokes one or more guarantees of origin which were issued pursuant to a request under regulation 4, but does not revoke all the guarantees of origin which were issued pursuant to that request, it shall revoke the guarantees of origin sequentially in descending numerical order of guarantee sequence numbers.
+
+(3) Where the Authority has revoked a guarantee of origin it shall as soon as practicable give notice of such revocation in writing to the registered holder of the guarantee of origin.
+
+## 9. Recognition of guarantees of origin
+
+(1) A competent authority shall recognise a guarantee of origin issued by the Authority under regulation 6(1).
+
+(2)[^key-a08f7afc9944810e7d2c13a64d42f820] Subject to paragraph (3), a competent authority shall recognise—
+
+- (a)[^key-eb3d81320644a19b1b9f91ebf15c7956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) a guarantee of origin issued in Northern Ireland in accordance with the Electricity (Guarantees of Origin of Electricity Produced from Renewable Energy Sources) Regulations (Northern Ireland) 2003.
+
+(3) A competent authority shall refuse to recognise a guarantee of origin issued in [^key-ff6f28b52f893f7f079c6acc163e36ef]... Northern Ireland—
+
+- (a) if it has been requested to refuse such recognition by the Northern Ireland authority[^key-4c30c85fa7b6cd38e4a28ae5f769cee1] which issued or supervised the issue of that guarantee of origin; or
+- (b)[^key-c30f3ef9ad670bb9497542bbf5c79c45] if it is satisfied that there is good reason to doubt the accuracy, reliability or veracity of the guarantee of origin.
+
+(4) Where a competent authority has recognised a guarantee of origin in accordance with paragraph (2), it shall withdraw that recognition—
+
+- (a) if it has been requested by the Northern Ireland authority[^key-2f162a4df2ce90bbdc8a4a0087c50786] which issued or supervised the issue of that guarantee of origin to refuse or withdraw such recognition; or
+- (b)[^key-ada1b626179ade2bafe68f5a171cc085] if it is satisfied that there is good reason to doubt the accuracy, reliability or veracity of the guarantee of origin.
+
+(5) Paragraphs (2), (3)(b) and 4(b) impose no obligation on a competent authority to satisfy itself that a guarantee of origin issued in [^key-2f3038525e3779f7fecb0b20a99bca1b]... Northern Ireland has been properly issued.
+
+(6) Recognition by a competent authority of a guarantee of origin issued under regulation 6(1) or in [^key-be2ea4b76c8826b52075b14b464c9b5a]... Northern Ireland shall be in such form as that competent authority may determine.
+
+(7)[^key-b0c9ac26d922cf1428aefb42ed8c0ad6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Written requests, etc
+
+Any request, notification, statement or provision of information required or permitted to be made under these regulations shall be made in writing.
+
+Signed by authority of the Secretary of State for Trade and Industry
+
+Stephen Timms,
+
+Minister of State for Energy, E-Commerce and Postal Services
+
+## SCHEDULE 1 — INFORMATION TO BE PROVIDED UNDER REGULATION 4(4) IN A REQUEST FOR A GUARANTEE OF ORIGIN[^key-14babb8ded30c3f4dc263876b2e91b7b]
+
+Regulation 4(4)
+
+**1.** The name and address of the person requesting the issue of the guarantee of origin (if a body corporate, the registered or principal office) and, if a company, its registered number.
+
+**2.** Where the person signing the statement required under regulation 4(5) is not the person making the request, the name and address of the person signing the statement.
+
+**3.** Whether the person requesting the issue of the guarantee of origin is the producer of the electricity in respect of which the guarantee of origin is requested and, if not, the name and address of the producer (if a body corporate, the registered or principal office) and, if a company, its registered number.
+
+**4.** The energy source from which the electricity (for which the guarantee of origin is requested) was produced.
+
+**5.** The start and end dates of production of the electricity (for which the guarantee of origin is requested).
+
+**6.** The name (if any), location, type and capacity of the installation where the electricity (for which the guarantee of origin is requested) was produced.
+
+**7.** Whether and to what extent the installation specified in paragraph 6 has benefited from investment support through any support scheme and, if so, the name of the scheme.
+
+**8.** Whether and to what extent the electricity for which the guarantee of origin is requested has benefited from any United Kingdom support scheme (other than any specified in response to paragraph 7) and, if so, the name of the scheme.
+
+**9.** The date on which the installation specified in paragraph 6 became operational.
+
+**10.** The quantity of electricity in respect of which the guarantee of origin is requested, together with the total quantity of electricity produced by the installation during the period referred to in paragraph 5.
+
+**11.** Such further information or evidence as the Authority may, in the particular circumstances of the case, reasonably require for the purpose of ascertaining the accuracy of the information required to be provided under paragraphs 1 to 10 above or to enable it to be satisfied that any energy source specified in paragraph 4 is a renewable energy source.
+
+## SCHEDULE 2 — INFORMATION TO BE CONTAINED ON THE REGISTER[^key-dfd829c0fbe18ef0217dd676fce2970d]
+
+Regulation 7(1)
+
+### 1. Registered particulars
+
+In relation to each guarantee of origin issued in accordance with regulation 6—
+
+- (a) the name and address of the person to whom the guarantee of origin has been, or was originally, issued (if a body corporate, the registered or principal office) and, if a company, its registered number;
+- (b) the date that the guarantee of origin was issued;
+- (c) the fact that the guarantee of origin was issued in the United Kingdom;
+- (d) an identifier, which shall include the guarantee sequence number;
+- (e) the energy source from which the electricity (for which the guarantee of origin is issued) was produced;
+- (f) the start and end dates of production of the electricity (for which the guarantee of origin is issued);
+- (g) the fact that the guarantee of origin relates to electricity (not heating or cooling);
+- (h) the name (if any), location, type and capacity of the installation where the electricity (for which the guarantee of origin is issued) was produced;
+- (i) whether and to what extent the installation specified in sub-paragraph (h) has benefited from investment support through any support scheme and, if so, the type of the scheme;
+- (j) whether and to what extent the unit of energy has benefited from any United Kingdom support scheme other than any specified in relation to sub-paragraph (i) and, if so, the type of scheme;
+- (k) the date on which the installation became operational;
+- (l) where the guarantee of origin has been transferred in accordance with regulation 6(5), the name and address (if a body corporate, the registered or principal office) and, if a company, the registered number, of the last person to whom it has been transferred.
+
+### 2. Other information
+
+A list of guarantees of origin that have been—
+
+- (a) cancelled under regulation 7A, including the dates of cancellation;
+- (b) revoked under regulation 8, including the dates of revocation.
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement Article 5 of Directive [2001/77/EC](https://www.legislation.gov.uk/european/directive/2001/0077) of the European Parliament and of the Council of 27th September 2001 (O.J. No. L 283/33) on the promotion of electricity produced from renewable energy sources in the internal electricity market. The Regulations do not amend the Climate Change Levy (General) Regulations 2001, the Renewables Obligation Order 2002, or the Renewables Obligation (Scotland) Order 2002.
+
+Regulation 3 provides for guarantees of origin to be issued by the Gas and Electricity Markets Authority (“**the Authority**”).
+
+Regulation 4 and Schedule 1 make provision relating to a request for the issue of guarantees of origin and the information that is required in connection with such a request.
+
+Regulation 5 makes provision for the issue of guarantees of origin to be refused where access to plants is denied or relevant information withheld.
+
+Regulation 6 sets out the manner in which guarantees of origin are to be issued and transferred.
+
+Regulation 7 and Schedule 2 provide for a Register of guarantees of origin and revoked guarantees of origin.
+
+Regulation 8 sets out the circumstances in which guarantees of origin are to be revoked.
+
+Regulation 9 provides for the recognition of, and the refusal to recognise, guarantees of origin issued in other Member States or Northern Ireland, and for the recognition of guarantees of origin issued by the Authority.
+
+A Transposition Note setting out how the Government will transpose into UK law the main elements of Article 5 of the Directive is available from the Energy Innovation and Business Unit at the Department of Trade and Industry, 1 Victoria Street, London SW1H 0ET. Copies have been placed in the Libraries of both Houses of Parliament.
+
+## Annotations
+
+[^c5330291]: Marginal citation: [S.I. 1998/745](https://www.legislation.gov.uk/uksi/1998/745).
+
+[^c5330301]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c5330311]: Marginal citation: [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^key-5bf7476f21f6de0c472209afbfe33eb8]: Textual amendment: Words in reg. 2(1) inserted (5.12.2010) by [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/3/a) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-10211923973d045be2a5924b5d88e832]: Textual amendment: Words in reg. 2(1) substituted (5.12.2010) by [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/3/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-10350b97404ea8b556e9392cc65db2e4]: Textual amendment: Words in reg. 2(1) substituted (5.12.2010) by [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/3/c) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-a6b573d780528d78b16895f3b2333f85]: Textual amendment: Words in reg. 2(1) inserted (5.12.2010) by [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/3/d) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-251988947314a2a836c9def2615675ce]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/2562/regulation/2/1) substituted (31.12.2020) by [The Electricity (Guarantees of Origin of Electricity Produced from Renewable Energy Sources) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1093)](https://www.legislation.gov.uk/uksi/2018/1093), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1093/regulation/1/2), [Sch. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1093/schedule/1/paragraph/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-244383e4400eb35d0ee50d452fe48f3e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/2562/regulation/2/1) omitted (1.4.2023) by virtue of [The Guarantees of Origin of Electricity Produced from Renewable Energy Sources and High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1247)](https://www.legislation.gov.uk/uksi/2022/1247), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/3/2/a)
+
+[^c5330331]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29).
+
+[^key-2a93c632dbb3ffb71255a98f2349657e]: Textual amendment: Words in reg. 2(1) inserted (5.12.2010) by [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [3(e)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/3/e) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-0eaa748a1175f2c04debb99355e74f21]: Textual amendment: Word in reg. 2(1) omitted (5.12.2010) by virtue of [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [3(f)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/3/f) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-672234b96ef14b1722c9e2ab6a418f24]: Textual amendment: Word in reg. 2(1) omitted (5.12.2010) by virtue of [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [3(g)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/3/g) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-3c4d27502e2375d51aacc86356687d17]: Textual amendment: Word in reg. 2(1) omitted (5.12.2010) by virtue of [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [3(h)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/3/h) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-b3f46de3fbc6351322424b4e22874b8f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/2562/regulation/2/1) omitted (1.4.2023) by virtue of [The Guarantees of Origin of Electricity Produced from Renewable Energy Sources and High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1247)](https://www.legislation.gov.uk/uksi/2022/1247), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/3/2/b)
+
+[^key-dfa43ce26723c97efcf14fadf9f1fd5f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/2562/regulation/2/1) inserted (1.4.2023) by [The Guarantees of Origin of Electricity Produced from Renewable Energy Sources and High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1247)](https://www.legislation.gov.uk/uksi/2022/1247), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/1/3), [3(2)(c)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/3/2/c)
+
+[^key-904c926736649cd9bc58afb1d9ccbfdd]: Textual amendment: Word in reg. 2(1) omitted (5.12.2010) by virtue of [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [3(i)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/3/i) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-d7d0e7a08a13f7036f7af987859b5ff8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/2562/regulation/2/1) substituted (31.12.2020) by [The Electricity (Guarantees of Origin of Electricity Produced from Renewable Energy Sources) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1093)](https://www.legislation.gov.uk/uksi/2018/1093), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1093/regulation/1/2), [Sch. 1 para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/1093/schedule/1/paragraph/2/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d54d37e462b378ed3a1f08b63edc65de]: Textual amendment: Words in reg. 2(1) substituted (5.12.2010) by [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [3(k)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/3/k) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-1fd749e7356e80f0d47415de34d9b67b]: Textual amendment: Words in reg. 2(1) substituted (5.12.2010) by [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [3(l)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/3/l) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-adf3cb51778ee2d3639812ef44d97ec9]: Textual amendment: Words in reg. 2(1) inserted (5.12.2010) by [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [3(n)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/3/n) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-a1e81e8cd59fe122e52aff2b7edefa28]: Textual amendment: Words in reg. 2(1) omitted (5.12.2010) by virtue of [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [3(m)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/3/m) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-40143ee6a9aa330feb7f1ad3bd50685f]: Textual amendment: Words in reg. 3 inserted (5.12.2010) by [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/2715/regulation/4) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-7482a3c2bdfc8a3e8b6847bf31978d52]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2003/2562/regulation/4/1) substituted (5.12.2010) by [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2010/2715/regulation/5) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-0adeb68c9c19dbc00ac53041b420fa0c]: Textual amendment: Words in [reg. 4(5)(b)](https://www.legislation.gov.uk/uksi/2003/2562/regulation/4/5/b) omitted (1.4.2023) by virtue of [The Guarantees of Origin of Electricity Produced from Renewable Energy Sources and High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1247)](https://www.legislation.gov.uk/uksi/2022/1247), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/4/2)
+
+[^key-a8a7727808c8c89978612f59f094bebd]: Textual amendment: Words in reg. 6(3) substituted (5.12.2010) by [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2010/2715/regulation/6) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-31cf560f4afc2ffa0401ebb476911447]: Textual amendment: Word in [reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/2003/2562/regulation/7/1/a) substituted (5.12.2010) by [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2010/2715/regulation/7) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-e7c896a39b31f1d5f8666ee79b45ca42]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2003/2562/regulation/7A) inserted (5.12.2010) by [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2010/2715/regulation/8) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-a08f7afc9944810e7d2c13a64d42f820]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2003/2562/regulation/9/2) substituted (31.12.2020) by [The Electricity (Guarantees of Origin of Electricity Produced from Renewable Energy Sources) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1093)](https://www.legislation.gov.uk/uksi/2018/1093), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1093/regulation/1/2), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2018/1093/schedule/1/paragraph/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-eb3d81320644a19b1b9f91ebf15c7956]: Textual amendment: [Reg. 9(2)(a)](https://www.legislation.gov.uk/uksi/2003/2562/regulation/9/2/a) omitted (1.4.2023) by virtue of [The Guarantees of Origin of Electricity Produced from Renewable Energy Sources and High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1247)](https://www.legislation.gov.uk/uksi/2022/1247), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/5/2)
+
+[^key-ff6f28b52f893f7f079c6acc163e36ef]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2003/2562/regulation/9/3) omitted (1.4.2023) by virtue of [The Guarantees of Origin of Electricity Produced from Renewable Energy Sources and High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1247)](https://www.legislation.gov.uk/uksi/2022/1247), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/5/3/a)
+
+[^key-4c30c85fa7b6cd38e4a28ae5f769cee1]: Textual amendment: Words in [reg. 9(3)(a)](https://www.legislation.gov.uk/uksi/2003/2562/regulation/9/3/a) substituted (1.4.2023) by [The Guarantees of Origin of Electricity Produced from Renewable Energy Sources and High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1247)](https://www.legislation.gov.uk/uksi/2022/1247), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/1/3), [5(3)(b)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/5/3/b)
+
+[^key-c30f3ef9ad670bb9497542bbf5c79c45]: Textual amendment: [Reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2003/2562/regulation/9/3/b) substituted (5.12.2010) by [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/9/3) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-2f162a4df2ce90bbdc8a4a0087c50786]: Textual amendment: Words in [reg. 9(4)(a)](https://www.legislation.gov.uk/uksi/2003/2562/regulation/9/4/a) substituted (1.4.2023) by [The Guarantees of Origin of Electricity Produced from Renewable Energy Sources and High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1247)](https://www.legislation.gov.uk/uksi/2022/1247), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/5/4)
+
+[^key-ada1b626179ade2bafe68f5a171cc085]: Textual amendment: [Reg. 9(4)(b)](https://www.legislation.gov.uk/uksi/2003/2562/regulation/9/4/b) substituted (5.12.2010) by [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/9/4) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-2f3038525e3779f7fecb0b20a99bca1b]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/uksi/2003/2562/regulation/9/5) omitted (1.4.2023) by virtue of [The Guarantees of Origin of Electricity Produced from Renewable Energy Sources and High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1247)](https://www.legislation.gov.uk/uksi/2022/1247), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/5/5)
+
+[^key-be2ea4b76c8826b52075b14b464c9b5a]: Textual amendment: Words in [reg. 9(6)](https://www.legislation.gov.uk/uksi/2003/2562/regulation/9/6) omitted (1.4.2023) by virtue of [The Guarantees of Origin of Electricity Produced from Renewable Energy Sources and High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1247)](https://www.legislation.gov.uk/uksi/2022/1247), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/1/3), [5(6)](https://www.legislation.gov.uk/uksi/2022/1247/regulation/5/6)
+
+[^key-b0c9ac26d922cf1428aefb42ed8c0ad6]: Textual amendment: [Reg. 9(7)](https://www.legislation.gov.uk/uksi/2003/2562/regulation/9/7) omitted (31.12.2020) by virtue of [The Electricity (Guarantees of Origin of Electricity Produced from Renewable Energy Sources) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1093)](https://www.legislation.gov.uk/uksi/2018/1093), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1093/regulation/1/2), [Sch. 1 para. 4(6)](https://www.legislation.gov.uk/uksi/2018/1093/schedule/1/paragraph/4/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-14babb8ded30c3f4dc263876b2e91b7b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2562/schedule/1) substituted (5.12.2010) by [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2010/2715/regulation/10) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))
+
+[^key-dfd829c0fbe18ef0217dd676fce2970d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2562/schedule/2) substituted (5.12.2010) by [The Electricity (Guarantees of Origin of Electricity Producedfrom Renewable Energy Sources) (Amendment) Regulations 2010 (S.I. 2010/2715)](https://www.legislation.gov.uk/uksi/2010/2715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/2715/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2010/2715/regulation/11) (with [reg. 12](https://www.legislation.gov.uk/uksi/2010/2715/regulation/12))

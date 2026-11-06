@@ -1,0 +1,61 @@
+---
+title: Law of Property Act 1925, section 120B
+act: Law of Property Act 1925
+section: 120B
+status: revised-with-pending-changes
+text_date: '2025-04-15'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/120B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Law of Property Act 1925, section 120B
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2025-04-15. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5/15-16/20
+>
+> Extent: England, Wales.
+
+## 120B. Regulated rentcharges: notice of arrears before enforcement[^key-38876bb0834b74dd0e55a675f4e6757c]
+
+*Extent: E+W*
+
+(1) No action to recover or compel payment of regulated rentcharge arrears may be taken unless—
+
+- (a) the rent owner has served the landowner with notice demanding payment of those arrears,
+- (b) the demand for payment complies with the requirements of subsection (2),
+- (c) the demand for payment either—
+  - (i) complies with the requirements of subsection (3), or
+  - (ii) does not need to comply with those requirements (see subsection (5)), and
+- (d) the period of 30 days, beginning with the day on which the demand for payment is served, has ended.
+
+(2) The demand for payment must set out—
+
+- (a) the name of the rent owner;
+- (b) the address of the rent owner and, if that address is not in England and Wales, an address in England and Wales at which notices (including notices in proceedings) may be served on the rent owner by the landowner;
+- (c) the amount of the regulated rentcharge arrears;
+- (d) how that amount has been calculated;
+- (e) details of how to pay that amount.
+
+(3) The demand for payment must set out, or be served with—
+
+- (a) a copy of the instrument creating the regulated rentcharge;
+- (b) proof that title to the regulated rentcharge is held by the rent owner.
+
+(4) The demand for payment is to be taken to comply with the requirement in subsection (3)(b) if—
+
+- (a) in a case where the rent owner’s title to the regulated rentcharge is registered at the Land Registry, the demand includes a copy of that registered title; or
+- (b) in a case where title to the regulated rentcharge is not registered at the Land Registry, the demand includes copies of the instruments by which title to the rentcharge has passed to the rent owner.
+
+(5) A demand for payment served by a rent owner on a landowner in relation to a regulated rentcharge does not need to comply with subsection (3) if—
+
+- (a) a previous demand for payment that has been served by that rent owner on that landowner in relation to that rentcharge complied with that subsection, and
+- (b) since the service of that previous demand, there has been no material change in the matters to which subsection (3) relates.
+
+(6) No sum is payable by the landowner in respect of the preparation or service of a demand for payment (including obtaining or preparing documents or copies in order to comply with subsection (3)).
+
+(7) This section applies to action to recover or compel payment of rentcharge arrears whether the action is authorised by this Act or is otherwise available (and includes bringing proceedings).
+
+## Annotations
+
+[^key-38876bb0834b74dd0e55a675f4e6757c]: Textual amendment: [Ss. 120A-120D](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/120A) inserted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 113(2)](https://www.legislation.gov.uk/ukpga/2024/22/section/113/2), [124(2)(a)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/a) (with [s. 113(5)](https://www.legislation.gov.uk/ukpga/2024/22/section/113/5))

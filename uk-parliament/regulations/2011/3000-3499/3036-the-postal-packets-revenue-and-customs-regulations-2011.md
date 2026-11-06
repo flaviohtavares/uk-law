@@ -1,0 +1,360 @@
+---
+title: The Postal Packets (Revenue and Customs) Regulations 2011
+id: uksi/2011/3036
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-12-19'
+text_date: '2025-07-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/3036
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/3036/pdfs/uksiem_20113036_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/3036/pdfs/uksi_20113036_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/3036/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Postal Packets (Revenue and Customs) Regulations 2011
+
+> Text as at 2025-07-16.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 3036
+
+Customs
+
+The Postal Packets (Revenue and Customs) Regulations 2011
+
+Made
+
+19th December 2011
+
+Laid before the House of Commons
+
+20th December 2011
+
+Coming into force
+
+10th January 2012
+
+The Treasury, in exercise of the powers conferred by sections 105(2) and 122 of the Postal Services Act 2000 [^c21131001], and on the recommendation of the Commissioners for Her Majesty's Revenue and Customs [^c21131011] and the Secretary of State, make the following Regulations.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Postal Packets (Revenue and Customs) Regulations 2011 and come into force on 10th January 2012.
+
+## 2. Definitions
+
+In these Regulations—
+
+- “**the Act of 1979**” means the Customs and Excise Management Act 1979 [^c21131021];
+- “CN22” and “CN23” mean the customs forms[^key-874966f9586f7c304a2d5fd5b9ef6847] for postal items described under those names in the provisions of the Universal Postal Convention and detailed regulations made thereunder which are for the time being in force;
+- “**the Commissioners**” means the Commissioners for Her Majesty's Revenue and Customs;
+- “**the customs and excise Acts**” has the meaning given by section 1(1) of the Act of 1979;
+- “**the Customs and Excise Acts 1979**” has the meaning given by section 1(1) of the Act of 1979;
+- “**customs officer**” means an officer of Revenue and Customs [^c21131031];
+- [^key-a0f74ed39f53a576c1caa1f291dad6ec]...
+- “**duty**” includes value added tax and any other charge on imported goods; [^key-056ba71eaf8fb95d934db3c8fe5032c3]...
+- “exporter” and “importer” have the meanings given by section 1(1) of the Act of 1979 ;[^key-eb777d634dcef7a260a8352b40efc06e] [^key-d2db44075596ff2dbf1003326427b0e5]...
+- “[^key-93894f4b5ec3c904123d100aa7d163c3]**foreign designated operator**” means—
+  - (a) an authorised foreign designated operator within the meaning given by regulation 23AA(2) (declarations by conduct: authorisation of foreign designated operators) of the Customs (Export) (EU Exit) Regulations 2019 (“**the Export Regulations**”), or
+  - (b) a foreign designated operator within the meaning given by regulation 2 of the Export Regulations which is operating postal services in Northern Ireland;
+- “**GB-NI postal packet**” means any postal packet that is posted in Great Britain and is—
+  - (a) sent to a place in Northern Ireland, or
+  - (b) in transit through Northern Ireland to a place in Great Britain.
+- “[^key-45c45cfaefb867c64dd2259d27251d74]**goods in postal consignment**” has the meaning given by Article 1(24) of the Commission Delegated [Regulation (EU) 2015/2446](https://www.legislation.gov.uk/european/regulation/2015/2446) of 28 July 2015.
+
+## 3. Revocations
+
+The Postal Packets (Customs and Excise) Regulations 1986 [^c21131051] are revoked.
+
+## 4.
+
+The Postal Packets (Revenue and Customs) Regulations 2007 [^c21131061] are revoked.
+
+## 5. Application of Section 105 of the Postal Services Act 2000
+
+Section 105 [^c21131071] of the Postal Services Act 2000 applies to all foreign postal packets and all GB-NI postal packets[^key-0019592e33ca5feba77ef1db50e381f5].
+
+## 6. Modifications and Exceptions
+
+In its application to foreign postal packets and GB-NI postal packets[^key-182fce813f5622836540d21d0c388676], the Act of 1979 is subject to the modifications and exceptions made by regulations 7 and 8.
+
+## 7.
+
+Section 159 [^c21131081] (power to examine and take account of goods) has effect as if—
+
+- (a) in subsection (2), for “at such place as the Commissioners appoint for the purpose” there were substituted “ at the place of importation, the place of exportation or any premises where loading, unloading, sorting, distribution, handling or storage of foreign postal packets (within the meaning of section 105 of the Postal Services Act 2000) or GB-NI postal packets (within the meaning given by regulation 2 of the Postal Packets (Revenue and Customs) Regulations 2011)[^key-d2033291579b38160edabce680903342] takes place”, and
+- (b) in subsection (8), for the words after “the Commissioners may” there were substituted “ accept as the account of those goods for that purpose an account taken by the postal operator concerned or by a person authorised for that purpose by that postal operator. ”.
+
+## 8.
+
+Paragraph 1(1) of Schedule 3 (notice of seizure) does not apply where the seizure was made in the presence of an officer of the postal operator concerned, authorised for the purpose by that postal operator.
+
+## 9.
+
+In its application to foreign postal packets or GB-NI postal packets[^key-6aace6df5028b307b2fc9071987a6357] carried by a universal service provider acting in that capacity, the Act of 1979 is subject to the modifications and exceptions made by regulations 10 to 16.
+
+## 10.
+
+Section 5 (time of importation, exportation, etc) has effect as if—
+
+- (a) subsections (3) and (5) were omitted, and
+- (b) for subsection (4) there were substituted—
+
+  > (4)[^key-c4164ce1898102c75172482c2deae274] The time of exportation of goods is—
+  >
+  > - (a) in respect of goods that are posted (or redirected) in Northern Ireland for transmission to a place outside the United Kingdom or the customs territory of the European Union, the time they are so posted (or redirected), and
+  > - (b) in respect of goods that are posted (or redirected) in Great Britain for transmission to a place outside Great Britain, the time they are so posted (or redirected).
+
+  .
+
+## 11.
+
+Subsection (3) of section 40 [^c21131091] (sale of uncleared goods deposited in Queen's warehouse) applies to goods deposited under regulation 22(4) as it applies to goods deposited by a proper officer under that section.
+
+## 12.
+
+[^c21131101]Section 43 (duty on imported goods) has effect as if—
+
+- (a) subsection (1) were omitted, and
+- (b)[^key-cc957f952de358f75752cb86e58e36b9] for subsection (2)(c) there were substituted—
+
+  > - (c) if no entry is made thereof and the goods are not declared under section 78, shall be those in force at the time when the officer assesses the amount of duty.
+
+  .
+
+## 13.
+
+Section 49 (forfeiture of goods improperly imported) has effect as if subsection (1)(a) were omitted.
+
+## 14.
+
+Section 53 [^c21131111] (entry outwards of goods) has effect as if in subsection (8)—
+
+- (a) for “shipped for exportation or as stores or are waterborne for such shipment” there were substituted “ exported ”; and
+- (b) for “shipping or making waterborne” there were substituted “ exportation ”.
+
+## 15.
+
+Section 77 [^c21131121] (information in relation to goods imported or exported) applies in relation to any foreign postal packet or GB-NI postal packet[^key-fee2570ce4cbf728a98632c774a59ddb] and its contents as it applies in relation to goods.
+
+## 16.
+
+Section 99 (provisions as to deposit in Queen's warehouse) applies to any goods deposited in a Queen's Warehouse under regulation 22(4) as it applies to goods so deposited under or by virtue of the Customs and Excise Acts 1979.
+
+## 17. Customs forms for foreign postal packets carried by a universal service provider or a foreign designated operator[^key-f0c3bdc83560c5e3ae1da7881cbc7c51]
+
+(1) Where paragraph (2) or (3) applies to a foreign postal packet, that postal packet must be accompanied by form CN22 or CN23, as appropriate, completed accurately and in full.
+
+(2) This paragraph applies to all foreign postal packets which—
+
+- (a) contain goods in postal consignment,
+- (b) are carried by a universal service provider, and
+- (c) are posted—
+  - (i) to Great Britain from a place outside the United Kingdom, or
+  - (ii) to Northern Ireland from a place outside the United Kingdom and the customs territory of the European Union.
+
+(3) This paragraph applies to all foreign postal packets which—
+
+- (a) contain goods in postal consignment,
+- (b) are carried by a universal service provider or a foreign designated operator, and
+- (c) are posted—
+  - (i) in Great Britain to a place outside the United Kingdom, or
+  - (ii) from Northern Ireland to a place outside the United Kingdom and the customs territory of the European Union.
+
+## 18. Information accompanying and labelling of packets for exportation[^key-b43cd8b2dd5ba59b46b19caf91cd56a9]
+
+(1) Except where regulation 17 applies, every postal packet containing goods to be exported by post without payment of any duty to which they are subject, or on drawback or repayment of such duty, must—
+
+- (a) be accompanied by [^key-4a23cbf9608b1e689d798e2f34e7f5b5]... such other particulars as the Commissioners or the postal operator concerned may require,
+- (b) have affixed to its outer cover in the form and manner required by the Commissioners a label printed with the words “Exported by Post under Revenue and Customs control” or be distinguished in such other manner as the Commissioners may require.
+
+(2) Where the requirements of paragraph (b) have been fulfilled, the postal operator concerned must endorse a certificate of posting on the appropriate document and give it to the sender.
+
+## 19. Language of forms and particulars[^key-32856bc1e3e87c95440a35fa71d5bac5]
+
+The forms required by regulation 17, and the particulars required by regulation 18, must be completed legibly in English, French or the language of the destination country.
+
+## 20. Liability to forfeiture of non-compliant foreign postal packets
+
+(1) Where—
+
+- (a) the contents of a foreign postal packet or an GB-NI postal packet[^key-702d4cdc82cc361fedd0a3d4407f2722] are not in accordance with the accompanying customs form[^key-417f646e64dcab6ace2940f7e9b06ce4], or
+- (b) a foreign postal packet or an GB-NI postal packet is not accompanied by the prescribed form[^key-78be9ba537380304e93ec889181fd45d], completed in accordance with these Regulations, or
+- (c) a foreign postal packet or an GB-NI postal packet is not labelled in accordance with these Regulations,
+
+the packet and all its contents shall be liable to forfeiture.
+
+(2) Subject to regulation 8, section 139 [^c21131131] (provisions as to detention, seizure and condemnation of goods, etc.) of and Schedule 3 to the Act of 1979 shall apply to anything liable to forfeiture under paragraph (1) above as they apply to goods liable to forfeiture under that Act.
+
+## 21. Production and examination of postal packets
+
+Where a customs officer so requires, in relation to any foreign postal packet or GB-NI postal packet[^key-f89dd29f7d30f17f0d7299d20dbdd43d], the proper officer of the postal operator concerned must—
+
+- (a) produce the packet to that customs officer; or
+- (b) open the packet for examination by that customs officer.
+
+## 22. Power to require an entry or account and disposal of goods for which no entry or no proper account is given
+
+(1)[^key-faa1802721c2de51e05b451d9261a2f6] This regulation applies to goods contained in—
+
+- (a) postal packets which are brought into Northern Ireland from outside Northern Ireland and the customs territory of the European Union, and
+- (b) postal packets which are brought into Great Britain from outside the United Kingdom.
+
+(2) A customs officer may send to the addressee of the postal packet in which the goods are contained, or to any other person who is for the time being the importer of the goods, a notice requiring entry to be made of them or requiring a full and accurate account of them to be delivered to the officer.
+
+(3) Where such entry is not made or such account is not delivered within 28 days of the date of the notice or within such longer period as the Commissioners may allow, then the postal operator concerned shall either—
+
+- (a) return the goods to the sender of the packet in which they were contained or otherwise send them out of Great Britain or Northern Ireland[^key-68e4fa2729a91ef2681cefa585372981] in accordance with any request or indication appearing on the packet, or
+- (b) in accordance with arrangements agreed with the Commissioners, destroy the goods, or
+- (c) if required by the Commissioners, deliver them to any customs officer.
+
+(4) Where the goods have been delivered to a customs officer under paragraph (3)(c) of this regulation, that officer may deposit the goods in a Queen's warehouse.
+
+(5) This regulation is without prejudice to the Commissioners' powers of seizure if the goods are liable to forfeiture under these Regulations or any other provisions of the customs and excise Acts.
+
+(6) This regulation is without prejudice to the Commissioners' power to refuse customs clearance for the goods.
+
+## 23. Payment of duty and other sums
+
+(1) A postal operator must pay over to the Commissioners any sums due to them which are recovered by that postal operator pursuant to section 105(3) of the Postal Services Act 2000.
+
+(2) Where any sums due to the Commissioners and demanded by a postal operator pursuant to section 105(3) of the Postal Services Act 2000 are not paid to that postal operator, that postal operator may, with the agreement of the Commissioners, dispose of the goods contained in the postal packet concerned as that postal operator sees fit.
+
+## 24. Authorisation of postal operator to perform duties of importer or exporter
+
+The postal operator concerned is authorised to perform, in relation to any postal packet or its contents, such of the duties which the customs and excise Acts require the importer or exporter to perform as the Commissioners may require.
+
+## 25. The Postal Services Act 2000
+
+Nothing in these Regulations authorises any article to be brought into or sent out of the United Kingdom by post contrary to any provision of the Postal Services Act 2000.
+
+## 26. UK Border Agency
+
+References in these Regulations to the Commissioners shall include a reference to the Secretary of State by whom general customs functions are exercisable and the Director of Border Revenue [^c21131141].
+
+Michael Fabricant
+
+Angela Watkinson
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations revoke and replace the Postal Packets (Customs and Excise) Regulations 1986 (S.I. 1986/260) (“**the 1986 Regulations**”) and the Postal Packets (Revenue and Customs) Regulations 2007 (S.I. 2007/2195) (“**the 2007 Regulations**”).
+
+Provision concerning the posting of packages into and out of the customs territory of the member States of the European Union (“the customs territory”) is now made by Council Regulation 2913/92/EEC (OJ No L 302, 19.10.92, p1) establishing the Community Customs Code (“**the Code**”). Those provisions of the 1986 Regulations that have been entirely superseded by the Code are therefore revoked. The remainder are re-enacted, with some modifications, in these Regulations. It is no longer appropriate to confine the application of section 105 of the Postal Services Act 2000 to postal packets carried by postal operators that are not universal service providers and the 2007 Regulations (which prescribed that limitation) are therefore revoked in their entirety.
+
+Regulation 2 re-enacts the definitions provision in the 1986 Regulations with modifications and additional definitions.
+
+Regulations 3 and 4 repeal the 1986 and 2007 Regulations.
+
+Regulations 5 to 16 provide for the application to foreign postal packets, with modifications where appropriate, of section 105 of the Postal Services Act 2000 and of selected provisions of the Customs and Excise Management Act 1979.
+
+Regulation 17 provides that foreign postal packets posted to or from a place outside the customs territory and carried by a universal service provider are to be accompanied by a customs declaration in the form prescribed by the Universal Postal Convention.
+
+Regulation 18 makes corresponding provision in relation to postal packets for export not carried by a universal service provider.
+
+Regulation 19 requires that all declarations required by the Regulations be completed legibly and in English, French or the language of the destination country.
+
+Regulation 20 provides that postal packets that are not compliant with the Regulations are liable to forfeiture.
+
+Regulation 21 provides that the Commissioners may require the postal operator to produce any foreign packet to them or open it on their behalf.
+
+Regulation 22 allows the Commissioners to require an entry or account in relation to goods imported in postal packets and to dispose of those goods where no satisfactory entry or account of them is given to the Commissioners within the relevant deadline.
+
+Regulation 23 requires the postal operator to pay over to the Commissioners any duty or other sums recovered on the Commissioners' behalf in relation to a postal packet and allows the postal operator, where those sums are not recovered, to dispose of the relevant postal packet.
+
+Regulation 24 allows the postal operator, if the Commissioners so require, to perform the duties of the importer or exporter in relation to a postal packet.
+
+Regulation 25 provides that the Regulations are without prejudice to the Postal Services Act 2000.
+
+Regulation 26 provides that references in the Regulations to the Commissioners for Her Majesty's Revenue and Customs include a reference to the Secretary of State by whom general customs functions are exercisable and the Director of Border Revenue.
+
+A Tax Information and Impact Note covering this instrument will be published on the HMRC website at http://www.hmrc.gov.uk/thelibrary/tiins.htm.
+
+## Annotations
+
+[^c21131001]: Marginal citation: [2000 c. 26](https://www.legislation.gov.uk/ukpga/2000/26); [section 105(2)](https://www.legislation.gov.uk/uksi/2011/3036/section/105/2) provides for the Treasury to make regulations on the recommendation of the Commissioners of Customs and Excise.
+
+[^c21131011]: Marginal citation: The functions of the Commissioners of Customs and Excise were transferred to the Commissioners for Her Majesty's Revenue and Customs by section 5(2) of the [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50(1) of that Act provides that a reference to the Commissioners of Customs and Excise shall be taken as a reference to the Commissioners for Her Majesty's Revenue and Customs.
+
+[^c21131021]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
+
+[^key-874966f9586f7c304a2d5fd5b9ef6847]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2011/3036/regulation/2) substituted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/745/regulation/3/2/a)
+
+[^c21131031]: Marginal citation: [The Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [section 3(5)](https://www.legislation.gov.uk/ukpga/2009/11/section/3/5), provides that, so far as is appropriate, references to an officer of Revenue and Customs in an enactment to which the Act applies are to be construed as including a reference to a general customs official; [section 3(7)](https://www.legislation.gov.uk/uksi/2011/3036/section/3/7) provides that, subject to express provision to the contrary, section 3 applies to enactments passed after the Act is passed; [sections 11(4)](https://www.legislation.gov.uk/uksi/2011/3036/section/11/4) and 11(6) provide, in terms analogous to those of sections 3(5) and 3(7), for references to an officer of Revenue and Customs to include a reference to a customs revenue official.
+
+[^key-a0f74ed39f53a576c1caa1f291dad6ec]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2011/3036/regulation/2) omitted (31.12.2020) by virtue of [The Customs (Consequential Amendments) (EU Exit) Regulations 2019 (S.I. 2019/140)](https://www.legislation.gov.uk/uksi/2019/140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/140/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/140/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-056ba71eaf8fb95d934db3c8fe5032c3]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2011/3036/regulation/2) omitted (31.8.2023) by virtue of [The Postal Packets (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/872)](https://www.legislation.gov.uk/uksi/2023/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/872/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/872/regulation/3/2/a)
+
+[^key-eb777d634dcef7a260a8352b40efc06e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2011/3036/regulation/2) inserted (31.8.2023) by [The Postal Packets (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/872)](https://www.legislation.gov.uk/uksi/2023/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/872/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/872/regulation/3/2/b)
+
+[^key-d2db44075596ff2dbf1003326427b0e5]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2011/3036/regulation/2) omitted (16.7.2025) by virtue of [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/745/regulation/3/2/b/i)
+
+[^key-93894f4b5ec3c904123d100aa7d163c3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2011/3036/regulation/2) inserted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/745/regulation/3/2/b/ii)
+
+[^key-45c45cfaefb867c64dd2259d27251d74]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2011/3036/regulation/2) inserted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2025/745/regulation/3/2/c)
+
+[^c21131051]: Marginal citation: [S.I. 1986/260](https://www.legislation.gov.uk/uksi/1986/260), amended by [S.I. 1986/1019](https://www.legislation.gov.uk/uksi/1986/1019), 1992/3224, 2001/1149.
+
+[^c21131061]: Marginal citation: [S.I. 2007/2195](https://www.legislation.gov.uk/uksi/2007/2195).
+
+[^c21131071]: Marginal citation: As amended by the [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [section 99(4)](https://www.legislation.gov.uk/ukpga/2002/29/section/99/4) and by the Postal Services Act 2011, Schedule 12, Part 1, paragraphs 1, 36.
+
+[^key-0019592e33ca5feba77ef1db50e381f5]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2011/3036/regulation/5) inserted (31.8.2023) by [The Postal Packets (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/872)](https://www.legislation.gov.uk/uksi/2023/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/872/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2023/872/regulation/3/3)
+
+[^key-182fce813f5622836540d21d0c388676]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2011/3036/regulation/6) inserted (31.8.2023) by [The Postal Packets (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/872)](https://www.legislation.gov.uk/uksi/2023/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/872/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2023/872/regulation/3/4)
+
+[^c21131081]: Marginal citation: As amended by the [Isle of Man Act 1979 (c. 58)](https://www.legislation.gov.uk/ukpga/1979/58), [Schedule 1](https://www.legislation.gov.uk/ukpga/1979/58/schedule/1), by the [Finance Act 1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43), [Schedule 4](https://www.legislation.gov.uk/ukpga/1984/43/schedule/4), Part II, [paragraph 5](https://www.legislation.gov.uk/ukpga/1984/43/paragraph/5), by the [Police and Criminal Evidence Act 1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60), [section 114(1)](https://www.legislation.gov.uk/ukpga/1984/60/section/114/1), by the [Finance Act 1988 (c. 46)](https://www.legislation.gov.uk/ukpga/1988/46), [section 12(1)(a)](https://www.legislation.gov.uk/ukpga/1988/46/section/12/1/a), (6), and by the [Finance Act 2008 (c. 1)](https://www.legislation.gov.uk/ukpga/2008/1), [section 117(1)](https://www.legislation.gov.uk/ukpga/2008/1/section/117/1), (3), (4), (5).
+
+[^key-d2033291579b38160edabce680903342]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2011/3036/regulation/7) inserted (31.8.2023) by [The Postal Packets (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/872)](https://www.legislation.gov.uk/uksi/2023/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/872/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2023/872/regulation/3/5)
+
+[^key-6aace6df5028b307b2fc9071987a6357]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2011/3036/regulation/9) inserted (31.8.2023) by [The Postal Packets (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/872)](https://www.legislation.gov.uk/uksi/2023/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/872/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2023/872/regulation/3/6)
+
+[^key-c4164ce1898102c75172482c2deae274]: Textual amendment: Words in [reg. 10(b)](https://www.legislation.gov.uk/uksi/2011/3036/regulation/10/b) substituted (31.8.2023) by [The Postal Packets (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/872)](https://www.legislation.gov.uk/uksi/2023/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/872/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2023/872/regulation/3/7)
+
+[^c21131091]: Marginal citation: As amended by the [Finance Act 1981 (c. 16)](https://www.legislation.gov.uk/ukpga/1981/16), [section 10(1)](https://www.legislation.gov.uk/ukpga/1981/16/section/10/1), [Schedule 6](https://www.legislation.gov.uk/ukpga/1981/16/schedule/6), [paragraph 5](https://www.legislation.gov.uk/ukpga/1981/16/paragraph/5).
+
+[^c21131101]: Marginal citation: As amended by the Isle of Man Act 1979, section 13, Schedule 1, by the Finance Act 1981, section 10(1), Schedule 6, paragraphs 7(1), (2)(a), (4), by the [Customs Duty Regulations 1982 (S.I. 1982/1324)](https://www.legislation.gov.uk/uksi/1982/1324), [regulations 2(2)](https://www.legislation.gov.uk/uksi/1982/1324/regulation/2/2) and 2(4) and by the [Finance (No 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), [section 1](https://www.legislation.gov.uk/ukpga/1992/48/section/1), [Schedule 1](https://www.legislation.gov.uk/ukpga/1992/48/schedule/1), [paragraphs 2(a)](https://www.legislation.gov.uk/ukpga/1992/48/paragraph/2/a), [2(b)](https://www.legislation.gov.uk/ukpga/1992/48/paragraph/2/b).
+
+[^key-cc957f952de358f75752cb86e58e36b9]: Textual amendment: [Reg. 12(b)](https://www.legislation.gov.uk/uksi/2011/3036/regulation/12/b) substituted (31.8.2023) by [The Postal Packets (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/872)](https://www.legislation.gov.uk/uksi/2023/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/872/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2023/872/regulation/3/8)
+
+[^c21131111]: Marginal citation: Substituted by the Finance Act 1981, section 10(2), (4), Schedule 7, Part I; amended by the Police and Criminal Evidence Act 1984, section 114(1) and by the Finance Act 1988, section 12(1)(a), (6).
+
+[^c21131121]: Marginal citation: As amended by the [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), [sections 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38) and 46, by the [Finance Act 1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16), [sections 10](https://www.legislation.gov.uk/ukpga/1987/16/section/10), [72(7)](https://www.legislation.gov.uk/ukpga/1987/16/section/72/7), [Schedule 16](https://www.legislation.gov.uk/ukpga/1987/16/schedule/16), Part III and by the Customs and Excise (Single Market etc) Regulations 1992, regulation 10(1), Schedule 1, paragraph 7.
+
+[^key-fee2570ce4cbf728a98632c774a59ddb]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2011/3036/regulation/15) inserted (31.8.2023) by [The Postal Packets (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/872)](https://www.legislation.gov.uk/uksi/2023/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/872/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2023/872/regulation/3/9)
+
+[^key-f0c3bdc83560c5e3ae1da7881cbc7c51]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2011/3036/regulation/17) substituted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/745/regulation/3/3)
+
+[^key-b43cd8b2dd5ba59b46b19caf91cd56a9]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2011/3036/regulation/18) heading substituted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2025/745/regulation/3/4/a)
+
+[^key-4a23cbf9608b1e689d798e2f34e7f5b5]: Textual amendment: Words in [reg. 18(1)(a)](https://www.legislation.gov.uk/uksi/2011/3036/regulation/18/1/a) omitted (16.7.2025) by virtue of [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2025/745/regulation/3/4/b)
+
+[^key-32856bc1e3e87c95440a35fa71d5bac5]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2011/3036/regulation/19) substituted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2025/745/regulation/3/5)
+
+[^key-702d4cdc82cc361fedd0a3d4407f2722]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2011/3036/regulation/20/1) inserted (31.8.2023) by [The Postal Packets (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/872)](https://www.legislation.gov.uk/uksi/2023/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/872/regulation/1/2), [3(11)](https://www.legislation.gov.uk/uksi/2023/872/regulation/3/11)
+
+[^key-417f646e64dcab6ace2940f7e9b06ce4]: Textual amendment: Word in [reg. 20(1)(a)](https://www.legislation.gov.uk/uksi/2011/3036/regulation/20/1/a) substituted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2025/745/regulation/3/6)
+
+[^key-78be9ba537380304e93ec889181fd45d]: Textual amendment: Word in [reg. 20(1)(b)](https://www.legislation.gov.uk/uksi/2011/3036/regulation/20/1/b) substituted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2025/745/regulation/3/6)
+
+[^c21131131]: Marginal citation: As amended by the Criminal Justice Act 1982, section 46 and, in relation to Northern Ireland, by the [Police (Northern Ireland) Act 1998 (c. 32)](https://www.legislation.gov.uk/ukpga/1998/32), [section 74(1)](https://www.legislation.gov.uk/ukpga/1998/32/section/74/1), [Schedule 4](https://www.legislation.gov.uk/ukpga/1998/32/schedule/4), [paragraph 14](https://www.legislation.gov.uk/ukpga/1998/32/paragraph/14).
+
+[^key-f89dd29f7d30f17f0d7299d20dbdd43d]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2011/3036/regulation/21) inserted (31.8.2023) by [The Postal Packets (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/872)](https://www.legislation.gov.uk/uksi/2023/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/872/regulation/1/2), [3(12)](https://www.legislation.gov.uk/uksi/2023/872/regulation/3/12)
+
+[^key-faa1802721c2de51e05b451d9261a2f6]: Textual amendment: [Reg. 22(1)](https://www.legislation.gov.uk/uksi/2011/3036/regulation/22/1) substituted (31.8.2023) by [The Postal Packets (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/872)](https://www.legislation.gov.uk/uksi/2023/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/872/regulation/1/2), [3(13)(a)](https://www.legislation.gov.uk/uksi/2023/872/regulation/3/13/a)
+
+[^key-68e4fa2729a91ef2681cefa585372981]: Textual amendment: Words in [reg. 22(3)(a)](https://www.legislation.gov.uk/uksi/2011/3036/regulation/22/3/a) substituted (31.8.2023) by [The Postal Packets (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/872)](https://www.legislation.gov.uk/uksi/2023/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/872/regulation/1/2), [3(13)(b)](https://www.legislation.gov.uk/uksi/2023/872/regulation/3/13/b)
+
+[^c21131141]: Marginal citation: [Section 6](https://www.legislation.gov.uk/uksi/2011/3036/section/6) of the [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11) requires the Secretary of State to designate an official in the department of the Secretary of State by whom general customs functions are exercisable as the Director of Border Revenue.

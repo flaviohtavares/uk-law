@@ -1,0 +1,77 @@
+---
+title: Online Safety Act 2023, section 16
+act: Online Safety Act 2023
+section: '16'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/50/section/16
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Online Safety Act 2023, section 16
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 16. User empowerment duties: interpretation[^key-5431109c9961bd9bd7431f0a0d69896d][^key-8c81325fa91db47b71203eac0172e176]
+
+*Extent: E+W+S+N.I.*
+
+(1) In determining what is proportionate for the purposes of section 15(2), the following factors, in particular, are relevant—
+
+- (a) all the findings of the most recent assessment under section 14, and
+- (b) the size and capacity of the provider of the service.
+
+(2) Section 15(2) applies to content that—
+
+- (a) is regulated user-generated content in relation to the service in question, and
+- (b) is within subsection (3), (4) or (5).
+
+(3) Content is within this subsection if it encourages, promotes or provides instructions for—
+
+- (a) suicide or an act of deliberate self-injury, or
+- (b) an eating disorder or behaviours associated with an eating disorder.
+
+(4) Content is within this subsection if it is abusive and the abuse targets any of the following characteristics—
+
+- (a) race,
+- (b) religion,
+- (c) sex,
+- (d) sexual orientation,
+- (e) disability, or
+- (f) gender reassignment.
+
+(5) Content is within this subsection if it incites hatred against people—
+
+- (a) of a particular race, religion, sex or sexual orientation,
+- (b) who have a disability, or
+- (c) who have the characteristic of gender reassignment.
+
+(6) The duty set out in section 15(5) applies in relation to all registered adult users, not just those who begin to use a service after that duty begins to apply.
+
+(7) In section 15 and this section—
+
+- “**disability**” means any physical or mental impairment;
+- “**injury**” includes poisoning;
+- “**non-verified user**” means a user who—
+  - (a) is an individual, whether in the United Kingdom or outside it, and
+  - (b) has not verified their identity to the provider of a service;
+- “**race**” includes colour, nationality, and ethnic or national origins.
+
+(8) In section 15 and this section—
+
+- (a) references to features include references to functionalities and settings, and
+- (b) references to religion include references to a lack of religion.
+
+(9) For the purposes of section 15 and this section, a person has the characteristic of gender reassignment if the person is proposing to undergo, is undergoing or has undergone a process (or part of a process) for the purpose of reassigning the person’s sex by changing physiological or other attributes of sex, and the reference to gender reassignment in subsection (4) is to be construed accordingly.
+
+(10) See also, in relation to duties set out in section 15, section 22 (duties about freedom of expression and privacy).
+
+## Annotations
+
+[^key-5431109c9961bd9bd7431f0a0d69896d]: Commencement: S. 16 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+
+[^key-8c81325fa91db47b71203eac0172e176]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2023/50/section/16) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/e)

@@ -1,0 +1,90 @@
+---
+title: The Criminal Defence Service (General) (No. 2) (Amendment) Regulations 2003
+id: uksi/2003/644
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2003-03-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2003/644
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/644/pdfs/uksi_20030644_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/644/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Criminal Defence Service (General) (No. 2) (Amendment) Regulations 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 644
+
+LEGAL SERVICES COMMISSION, ENGLAND AND WALES
+
+The Criminal Defence Service (General) (No. 2) (Amendment) Regulations 2003
+
+Made
+
+7th March 2003
+
+Laid before Parliament
+
+11th March 2003
+
+Coming into force in accordance with regulation 1
+
+The Lord Chancellor, in exercise of the powers conferred upon him by section 13 of the Access to Justice Act 1999[^f00001], makes the following Regulations:
+
+**1.** These Regulations may be cited as the Criminal Defence Service (General) (No. 2) (Amendment) Regulations 2003 and shall come into force—
+
+- (a) for the purposes of regulation 4 on 7th April 2003; and
+- (b) for all other purposes on 6th April 2003.
+
+**2.** In these Regulations, except where the context requires otherwise, a reference to a regulation by number alone means a regulation so numbered in the Criminal Defence Service (General) (No. 2) Regulations 2001[^f00002].
+
+**3.** In regulation 2, after the definition of “representation order” insert—
+
+> - “tax credit” means a tax credit under the Tax Credits Act 2002[^f00003] and “working tax credit” and “child tax credit” shall be construed in accordance with section 1(1) and (2) of that Act;
+
+.
+
+**4.** (1) In regulation 5(3), for “£189” substitute “£192”.
+
+(2) In regulation 5(5), for “£89” substitute “£91”.
+
+**5.** For regulation 5(8)(c) and (d) substitute—
+
+> - (c) working tax credit claimed together with child tax credit where the gross annual income is not more than £14,213; and
+> - (d) working tax credit with a disability element or severe disability element (or both) where the gross annual income is not more than £14,213.
+
+.
+
+**6.** A person who is directly or indirectly in receipt of working families' tax credit or disabled persons' tax credit at any time on or after 6th April 2003 shall be treated as if regulation 5 of these Regulations had not come into force.
+
+Signed by authority of the Lord Chancellor
+
+Scotland of Asthal,
+
+QC
+
+Parliamentary Secretary
+
+Lord Chancellor’s Department
+
+7th March 2003
+
+(This note is not part of the Regulations)
+
+These regulations amend the Criminal Defence Service (General) (No. 2) Regulations 2001 (S.I. [2001/1437](https://www.legislation.gov.uk/uksi/2001/1437)) to provide for an increase in the financial eligibility limits for advice and assistance and to take account of change made to the system of tax credits under the Tax Credits Act 2002.
+
+## Annotations
+
+[^f00001]: Footnote: [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22); amended by the Criminal Defence Service (Advice and Assistance) Act 2001, section 1.
+
+[^f00002]: Footnote: [2001/1437](https://www.legislation.gov.uk/uksi/2001/1437), amended by S.I. [2002/712](https://www.legislation.gov.uk/uksi/2002/712).
+
+[^f00003]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).

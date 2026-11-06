@@ -1,0 +1,390 @@
+---
+title: The Building Societies (Financial Assistance) Order 2010
+id: uksi/2010/1188
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-04-06'
+text_date: '2016-06-28'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/1188
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/1188/pdfs/uksiem_20101188_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1188/pdfs/uksi_20101188_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1188/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Societies (Financial Assistance) Order 2010
+
+> Text as at 2016-06-28.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 1188
+
+Building Societies
+
+The Building Societies (Financial Assistance) Order 2010
+
+Made
+
+6th April 2010
+
+Coming into force
+
+7th April 2010
+
+This Order is made in exercise of the powers conferred by section 251(1), (2), (3), (5) and (8) and section 259(1) of the Banking Act 2009[^f00001] and by section 11 of the Banking (Special Provisions) Act 2008[^f00002].
+
+A draft of this Order has been laid before Parliament in accordance with section 251(6) of the Banking Act 2009 and section 13(3) of the Banking (Special Provisions) Act 2008 and approved by a resolution of each House of Parliament.
+
+Accordingly, the Treasury make the following Order:
+
+## 1. Citation and commencement[^key-7e3d2fa6075e74065ce12a2a8c714f6d]
+
+(1) This Order may be cited as the Building Societies (Financial Assistance) Order 2010.
+
+(2) It comes into force on the day after the day on which it is made.
+
+## 2. Interpretation[^key-8eb84d8e959c7798023a13698fe6f06e]
+
+(1) In this Order—
+
+- “the 1986 Act” means the Building Societies Act 1986[^f00003];
+- [^key-bf5a3d69a3c575dd2d6e4de89c19b2f4]...
+- “qualifying institution” means the Treasury, the Bank of England, another central bank of a Member State of the European Economic Area or the European Central Bank;
+- “relevant building society” means any building society which—
+  - (a) receives financial assistance[^f00005] from a qualifying institution,
+  - (b) has entered into an agreement with a qualifying institution under which it may receive financial assistance from that institution, or
+  - (c) has received an offer of such an agreement, or of financial assistance, from a qualifying institution;
+- [^key-46000d48f7e20cf1ee938d9ea2b3fc28]...
+
+(2) References in this Order to a qualifying institution include—
+
+- (a) any person acting for or on behalf of that qualifying institution;
+- (b) any person providing, offering, or entering into an agreement for the provision of, financial assistance to a building society, who does so on the basis of financial assistance that person receives from the qualifying institution in question for that purpose.
+
+## 3. Purpose or principal purpose of building societies[^key-50b5f71ffcfd6369c24c82dc34327ea7]
+
+(1) Section 5 of the 1986 Act (establishment, constitution and powers)[^f00007] applies in relation to a relevant building society with the following modification.
+
+(2) No relevant building society shall be regarded as failing to comply with section 5(1)(a) (purpose or principal purpose) by virtue of any financial assistance it receives from a qualifying institution.
+
+(3) The powers conferred [^key-0e229d3f5d41d75f9ceb002ad812ad18]... by sections 36 and 37 of the 1986 Act (power to direct restructuring of business etc and powers to petition for winding up etc) shall not become exercisable in relation to a building society which receives financial assistance if, but for the financial assistance, they would not have become exercisable.
+
+(4) Sections 5(4A), 36(1) and 37(1) shall be construed accordingly.
+
+(5)[^key-a3b320785d73f47b8259b126b513da1e] A building society to which paragraph (3) applies is to be disregarded for the purposes of section 1(1)(a) and (1A)(a) of the 1986 Act.
+
+## 4. The lending limit[^key-7e6ecff1a799c359baca933b59658109]
+
+(1) Section 6(1) of the 1986 Act (the lending limit)[^f00008] shall not apply in relation to a relevant building society for the relevant period where—
+
+- (a) the society receives financial assistance from a qualifying institution,
+- (b) as a consequence of the financial assistance, the society transfers, assigns or otherwise disposes of any of its assets, and
+- (c) that transfer, assignment or other disposal would, apart from this article, put the society in breach of section 6(1).
+
+(2) No building society within paragraph (1) shall be regarded as failing to comply with section 5(1)(a) of the 1986 Act in the relevant period by virtue of the matters referred to in paragraph (1).
+
+(3) The powers conferred [^key-073760369fb90727ecaf9cb5eae2e539]... by sections 36 and 37 of the 1986 Act shall not become exercisable in relation to a building society within paragraph (1) in respect of the relevant period.
+
+(4) Sections 5(4A), 36(1) and 37(1) shall be construed accordingly.
+
+(5)[^key-fb3a1bf20e39f8e60cbcd3a665b0ea7a] A building society to which paragraph (3) applies is to be disregarded for the purposes of section 1(1)(a) and (1A)(a) of the 1986 Act.
+
+(6) In this article “the relevant period” is the period commencing on the date on which paragraph (1) is first satisfied in relation to the society and ending—
+
+- (a) one year after that date, or
+- (b) if later, on the date on which the financial assistance referred to in paragraph (1) is no longer provided.
+
+## 5. The funding limit[^key-9c52d653c3b6b50818d9c498cad1d2bc]
+
+(1) Section 7 of the 1986 Act (the funding limit)[^f00009] applies to a relevant building society with the following modification.
+
+(2) There shall be disregarded for the purposes of section 7(2) any financial assistance the society receives from a qualifying institution.
+
+## 6. Raising funds and borrowing[^key-2460e9b59c95a4b75c675f9e91529891]
+
+Section 8(1)(c) of the 1986 Act (raising funds and borrowing)[^f00010] shall not apply to a relevant building society in relation to any financial assistance the society receives from, or is offered by, a qualifying institution.
+
+## 7. Floating charges[^key-41b5338230bb2e5146e44108b6fb233f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Memorandum and rules[^key-4b9c556c0c2bf579169a821620734c2d]
+
+(1) Schedule 2 to the 1986 Act (establishment, incorporation and constitution of building societies) applies in relation to a relevant building society with the following modifications.
+
+(2) Paragraph 2 (the memorandum)[^f00012] shall have effect as if, after sub-paragraph (4), there were inserted—
+
+> (4A) However, no provision of the memorandum of a building society shall be binding on any member or officer of the society, or on any person claiming on account of a member or under the rules, to the extent that it would prevent the society (whether acting through its officers or otherwise) from—
+>
+> - (a) receiving any financial assistance from a qualifying institution, or
+> - (b) entering into any transaction connected with the receipt of such financial assistance,
+>
+> and sub-paragraph (4) shall be construed accordingly.
+>
+> (4B) In sub-paragraph (4A)—
+>
+> - (a) “financial assistance” has the same meaning as in section 251 of the Banking Act 2009[^f00013] and “qualifying institution” means the Treasury, the Bank of England, another central bank of a Member State of the European Economic Area or the European Central Bank; and
+> - (b) references to a qualifying institution include—
+>   - (i) any person acting for or on behalf of that institution, and
+>   - (ii) any person providing, offering, or entering into an agreement for the provision of, financial assistance to a building society, who does so on the basis of financial assistance that person receives from the qualifying institution for that purpose.
+
+.
+
+(3) Paragraph 3 (the rules)[^f00014] shall have effect as if, after sub-paragraph (2), there were inserted—
+
+> (2A) However, nothing in the rules of a building society shall be binding on any member or officer of the society, or on any person claiming on account of a member or under the rules, to the extent that it would prevent the society (whether acting through its officers or otherwise) from—
+>
+> - (a) receiving any financial assistance from a qualifying institution, or
+> - (b) entering into any transaction connected with the receipt of such financial assistance,
+>
+> and sub-paragraph (2) shall be construed accordingly.
+>
+> (2B) In sub-paragraph (2A)—
+>
+> - (a) “financial assistance” and “qualifying institution” have the same meanings as in paragraph 2(4A) (see paragraph 2(4B)); and
+> - (b) references to a qualifying institution include—
+>   - (i) any person acting for or on behalf of that institution, and
+>   - (ii) any person providing, offering, or entering into an agreement for the provision of, financial assistance to a building society, who does so on the basis of financial assistance that person receives from the qualifying institution for that purpose.
+
+.
+
+(4) No member of a building society may bring proceedings under paragraph 16(2) (capacity of society not limited by its memorandum)[^f00015] to restrain the doing of any act by a building society for or in connection with the receipt of financial assistance from a qualifying institution.
+
+(5) Paragraph 16(3) shall not operate so as to—
+
+- (a) require the directors to observe any limitations on their powers flowing from the society’s memorandum which would, apart from this article, prevent them entering into any transaction for or in connection with the receipt of financial assistance by the society from a qualifying institution, or
+- (b) require any such action by the directors which, but for paragraph 16(1), would be beyond the society’s capacity, to be ratified by the society by special resolution.
+
+## 9. Application of companies winding up legislation to building societies[^key-ee3261e95adcba218ed6b6860185d9f6]
+
+(1) Schedule 15 to the 1986 Act (application of companies winding up legislation to building societies) applies in relation to a relevant building society with the following modifications.
+
+(2) In paragraph 3(2)[^f00016], omit paragraph (b).
+
+(3) In paragraph 33, for “subsections (2) and (4) to (6)” substitute “subsections (2), (5) and (6)”.
+
+(4) In paragraph 55E[^f00017], for “paragraphs (2) and (4) to (6)” substitute “paragraphs (2), (5) and (6)”.
+
+## 10. Application of other companies insolvency legislation to building societies[^key-96c291a2f6a036bfebd299365eca1c11]
+
+Section 90A of the 1986 Act (application of other companies insolvency legislation to building societies)[^f00018] applies in relation to a relevant building society as if for “or receivers,” in paragraph (c) there were substituted “receivers or administrative receivers”[^key-dcaa7b55919bda73a96644159349ee77].
+
+## 11.[^key-94f1379066125dc2f5bf4a61855ed404]
+
+(1) Schedule 15A to the 1986 Act (application of other companies insolvency legislation to building societies)[^f00019] applies in relation to a relevant building society with the following modifications.
+
+(2)[^key-72d5019132769ad9c3b1af61e134be89] In paragraph 1(2)(a), for “, II, III,” substitute “and II, Chapters I, II and III of Part III, Parts”.
+
+(2A) In paragraph 1(2)(b), for “Parts III, IV” substitute “Part III, Part IV (except Articles 59A to 59J)”.
+
+(3) In paragraph 2(2), omit paragraph (b).
+
+(4) In paragraph 11[^f00021]—
+
+- (a) in sub-paragraph (2), for “is a reference to the FCA or the PRA[^key-6069eb5a9e05628f00ac525e7a4a586c]” substitute “includes a reference to the FCA or the PRA”;
+- (b) omit sub-paragraph (3).
+
+(5) Omit paragraphs 12 and 13[^key-053c7c2d3f6ee706df90aed94c8b273d].
+
+(6)[^key-cbd801ade2af9c43dae2491d9c3d8e15] For paragraph 27A substitute—
+
+> **27A.** In Chapters I and II of Part III of the Act, as applied to a building society, the following provisions have effect as if a reference to the creditors or unsecured creditors of the society included a reference to the holders of shares in the society—
+>
+> - (a) subsection (1) of section 46 of the Act (information to be given by administrative receiver);
+> - (b) subsection (2) of section 47 of the Act (statement of affairs to be submitted);
+> - (c) subsection (2)(a) and (b) of section 48 of the Act (report by administrative receiver);
+> - (d) subsection (1) of section 65 of the Act (information to be given by receiver);
+> - (e) subsection (2) of section 66 of the Act (building society’s statement of affairs); and
+> - (f) subsection (2)(a) and (b) of section 67 of the Act (report by receiver).
+>
+> **27AA.** Subsection (1) of section 48 of the Act, as applied to a building society, has effect as if—
+>
+> - (a) the reference to the Financial Conduct Authority included a reference to the scheme manager; and
+> - (b) in paragraph (d) the reference to other creditors included a reference to shareholding members of the society in respect of deposits which are not relevant deposits.
+>
+> **27AB.** Sections 49 and 68 of the Act (committee of creditors), as applied to a building society, have effect as if the reference to the society’s unsecured creditors included a reference to the holders of shares in the society.
+
+.
+
+(6A) Until the coming into force of paragraph 12(3)(b) of Schedule 9 to the Small Business, Enterprise and Employment Act 2015 (“the 2015 Act”), paragraph 27AA (treated as substituted by paragraph (6) above) is to be read as also providing that subsection (2) of section 48 of the Insolvency Act 1986, as applied to a building society, has effect as if the reference to a meeting of the society’s unsecured creditors included a reference to a meeting of holders of shares in the society.
+
+(6B) Until the coming into force of paragraph 13 of Schedule 9 to the 2015 Act, paragraph 27AB (treated as substituted by paragraph (6) above) is to be read as providing that section 49 of the Insolvency Act 1986, as applied to a building society, has effect as if the reference to a meeting of creditors included a reference to a meeting of holders of shares in the society.
+
+(6C) Until the coming into force of paragraph 15 of Schedule 9 to the 2015 Act, paragraph 27AB (treated as substituted by paragraph (6) above) is to be read as providing that section 68 of the Insolvency Act 1986, as applied to a building society, has effect as if the reference to a meeting of creditors included a reference to a meeting of holders of shares in the society.
+
+(6D) Until the coming into force of paragraph 14(3)(b) of Schedule 9 to the 2015 Act, paragraph 27D has effect as if the existing provision became sub-paragraph (1) and after that sub-paragraph there were inserted—
+
+> (2) Subsection (2) of that section, as so applied, has effect as if the reference to a meeting of the society’s unsecured creditors included a reference to a meeting of the holders of shares in the society.
+
+.
+
+(6E) Omit paragraph 27F.
+
+(7) In paragraph 33[^f00022]—
+
+- (a) in sub-paragraph (2), for “is a reference to the FCA or, as the case may be, the PRA[^key-ca7ded1d79e1b92f1cffa90049db804a]” substitute “includes a reference to the FCA or, as the case may be, the PRA”;
+- (b) omit sub-paragraph (3).
+
+(8) Omit paragraphs 34 and 35[^key-8a447a39e3d8a491f60e975a61aabe34].
+
+(9)[^key-e977078e10d0417359956f0ea53d2a99] For paragraph 50 substitute—
+
+> **50.** In Part 4 of the Order, as applied to a building society, the following provisions have effect as if a reference to the creditors or unsecured creditors of the society included a reference to the holders of shares in the society—
+>
+> - (a) paragraph (1) of Article 56 of the Order (information to be given by administrative receiver);
+> - (b) paragraph (2) of Article 57 of the Order (statement of affairs to be submitted); and
+> - (c) paragraph (2)(a) and (b) of Article 58 of the Order (report by administrative receiver).
+>
+> **50A.** Article 58 of the Order, as applied to a building society, has effect as if—
+>
+> - (a) in paragraph (1)—
+>   - (i) the reference to the Financial Conduct Authority included a reference to the scheme manager; and
+>   - (ii) in sub-paragraph (d) the reference to other creditors included a reference to shareholding members of the society in respect of deposits which are not relevant deposits; and
+> - (b) in paragraph (2) the reference to a meeting of the society’s unsecured creditors included a reference to a meeting of holders of shares in the society.
+>
+> **50AA.** Article 59 of the Order (committee of creditors), as applied to a building society, has effect as if the reference to a meeting of creditors included a reference to a meeting of holders of shares in the society.
+
+.
+
+(10) Omit paragraphs 51 and 52.
+
+## 12.[^key-f31a0be543fa3888561e3bfd9f496a91]
+
+The Building Societies (Financial Assistance) Order 2008[^f00023] is revoked.
+
+Dave Watts
+
+Tony Cunningham
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+6th April 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order modifies the application of the Building Societies Act [1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53) (“the 1986 Act”), in specified circumstances, to facilitate the provision of financial assistance by a qualifying institution to building societies. It is made under sections 251 and 259 of the [Banking Act 2009 (c.1)](https://www.legislation.gov.uk/ukpga/2009/1). Section 257 of the Banking Act 2009 states that financial assistance “includes giving guarantees or indemnities and any other kind of financial assistance (actual or contingent)”.
+
+Article 2 defines terms used in the Order. It also provides that references to a qualifying institution include any person acting for or on behalf of the institution or providing financial assistance to a building society on the basis of financial assistance from the institution. This could include another institution which provides financial assistance to a building society on the basis of, for example, an indemnity or guarantee from the qualifying institution, provided the conditions in article 2(2)(b) are met.
+
+Articles 3 to 11 set out modifications to the 1986 Act which apply in relation to a building society which receives, or may receive, financial assistance from the Treasury, the Bank of England, another central bank of a state in the European Economic Area, or the European Central Bank (a “qualifying institution”).
+
+Article 3 modifies the application of section 5 of the 1986 Act so that no building society shall be regarded, by virtue of any financial assistance it receives from a qualifying institution, as failing to comply with the requirement that its purpose or principal purpose is that of making loans which are secured on residential property and funded substantially by its members.
+
+Article 4 disapplies section 6 of the 1986 Act where, as a consequence of any financial assistance received from a qualifying institution, a building society has transferred, assigned or otherwise disposed of any of its assets, and the society would otherwise be in breach of the lending limit in section 6.
+
+Article 5 modifies the application of section 7 of the 1986 Act, so that any financial assistance a society receives from a qualifying institution is disregarded for the purposes of the funding limit in that section.
+
+Article 6 disapplies section 8(1)(c) of the 1986 Act, so that the restriction in that section on raising funds from a body corporate does not apply in relation to financial assistance from a qualifying institution.
+
+Article 7 disapplies section 9B of the 1986 Act, so that a building society may create a floating charge in favour of a qualifying institution in connection with financial assistance received from it.
+
+Article 8 makes various modifications to the application of Schedule 2 to the 1986 Act, to remove any restrictions on the receipt of financial assistance arising from the memorandum or rules of a building society.
+
+Articles 9, 10 and 11 make various modifications to the application of section 90A of, and Schedules 15 and 15A to, the 1986 Act. These ensure that the relevant law on administrative receivers applies, with the appropriate modifications, in relation to any administrative receiver appointed by a qualifying institution under the terms of a loan secured by a floating charge. Schedule 15A already provides that references in the applicable insolvency legislation to “company” and “the registrar of companies” have effect as references to “building society” and “the Financial Services Authority” respectively: see paragraph 2(1) of Schedule 15A.
+
+Article 12 revokes the Building Societies (Financial Assistance) Order 2008 ([S.I. 2008/1427](https://www.legislation.gov.uk/uksi/2008/1427)), which was made under the [Banking (Special Provisions) Act 2008 (c.2)](https://www.legislation.gov.uk/ukpga/2008/2).
+
+An impact assessment has not been prepared for this instrument as no impact on the costs of business is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1).
+
+[^f00002]: Footnote: [2008 c.2](https://www.legislation.gov.uk/ukpga/2008/2).
+
+[^key-7e3d2fa6075e74065ce12a2a8c714f6d]: Commencement: Art. 1 in force at 7.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2)
+
+[^key-8eb84d8e959c7798023a13698fe6f06e]: Commencement: Art. 2 in force at 7.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2)
+
+[^f00003]: Footnote: [1986 c.53](https://www.legislation.gov.uk/ukpga/1986/53).
+
+[^key-bf5a3d69a3c575dd2d6e4de89c19b2f4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/1188/article/2) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 18(2)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/18/2/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+
+[^f00005]: Footnote: See section 257 of the Banking Act 2009.
+
+[^key-46000d48f7e20cf1ee938d9ea2b3fc28]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/1188/article/2) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 18(2)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/18/2/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+
+[^key-50b5f71ffcfd6369c24c82dc34327ea7]: Commencement: Art. 3 in force at 7.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2)
+
+[^f00007]: Footnote: Section 5 was amended by the Building Societies Act 1997, sections 1 and 3, and by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617). The [Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 (c. 26)](https://www.legislation.gov.uk/ukpga/2007/26), section 1(2), inserts section 5(11) to (14), from a date to be appointed.
+
+[^key-0e229d3f5d41d75f9ceb002ad812ad18]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/1188/article/3/3) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 18(3)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/18/3/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+
+[^key-a3b320785d73f47b8259b126b513da1e]: Textual amendment: [Art. 3(5)](https://www.legislation.gov.uk/uksi/2010/1188/article/3/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 18(3)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/18/3/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+
+[^key-7e6ecff1a799c359baca933b59658109]: Commencement: Art. 4 in force at 7.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2)
+
+[^f00008]: Footnote: Section 6 was substituted by the Building Societies Act 1997, section 4, and amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), and [2004/3380](https://www.legislation.gov.uk/uksi/2004/3380). Section 6(2) was modified in its application to assets of subsidiary undertakings by [S.I. 2004/3200](https://www.legislation.gov.uk/uksi/2004/3200).
+
+[^key-073760369fb90727ecaf9cb5eae2e539]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2010/1188/article/4/3) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 18(4)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/18/4/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+
+[^key-fb3a1bf20e39f8e60cbcd3a665b0ea7a]: Textual amendment: [Art. 4(5)](https://www.legislation.gov.uk/uksi/2010/1188/article/4/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 18(4)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/18/4/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+
+[^key-9c52d653c3b6b50818d9c498cad1d2bc]: Commencement: Art. 5 in force at 7.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2)
+
+[^f00009]: Footnote: Section 7 was substituted by the Building Societies Act 1997, section 8, and amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617). Section 7(2) was modified in its application to liabilities of subsidiary undertakings by [S.I. 2004/3200](https://www.legislation.gov.uk/uksi/2004/3200); section 7(2) and (3) were modified in their application to eligible debt securities by [S.I. 2003/1633](https://www.legislation.gov.uk/uksi/2003/1633), and in their application to the liabilities of EEA subsidiary undertakings by [S.I. 2007/860](https://www.legislation.gov.uk/uksi/2007/860). The Building Societies (Funding) and Mutual Societies (Transfers) Act 2007, section 1(1), inserts section 7(6A) to (6C) and (8A), from a date to be appointed.
+
+[^key-2460e9b59c95a4b75c675f9e91529891]: Commencement: Art. 6 in force at 7.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2)
+
+[^f00010]: Footnote: Section 8 was substituted by the Building Societies Act 1997, section 9, and amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617). It was modified, in its application to eligible debt securities, by [S.I. 2003/1633](https://www.legislation.gov.uk/uksi/2003/1633). Section 8(9) was amended by the [Income Tax Act 2007 (c.3)](https://www.legislation.gov.uk/ukpga/2007/3), section 1027 and Schedule 1 paragraph 273.
+
+[^key-41b5338230bb2e5146e44108b6fb233f]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2010/1188/article/7) omitted (26.3.2015) by virtue of [The Financial Services (Banking Reform) Act 2013 (Commencement (No. 8) and Consequential Provisions) Order 2015 (S.I. 2015/428)](https://www.legislation.gov.uk/uksi/2015/428), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/428/article/3/a)
+
+[^key-4b9c556c0c2bf579169a821620734c2d]: Commencement: Art. 8 in force at 7.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2)
+
+[^f00012]: Footnote: Paragraph 2(1) and (2) of Schedule 2 were substituted, for paragraphs (1) to (3) as originally enacted, by the Building Societies Act 1997, section 43 and Schedule 7, paragraph 56(3). Paragraph 2(5) was repealed by the Building Societies Act 1997, sections 43 and 46(2), Schedule 7 paragraph 56(4), and Schedule 9.
+
+[^f00013]: Footnote: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1). See in particular sections 251(8) and 257(1) of the Banking Act 2009.
+
+[^f00014]: Footnote: Paragraph 3(3) was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617). Paragraph 3(4) was amended by the Building Societies Act 1997, section 43 and Schedule 7, paragraph 56(5). Paragraph 3(5) was inserted by [S.I. 2003/404](https://www.legislation.gov.uk/uksi/2003/404).
+
+[^f00015]: Footnote: Paragraph 16 was substituted by the Building Societies Act 1997, section 3(2) and Schedule 1.
+
+[^key-ee3261e95adcba218ed6b6860185d9f6]: Commencement: Art. 9 in force at 7.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2)
+
+[^f00016]: Footnote: Paragraph 3(2)(b) was substituted by the Building Societies Act 1997, section 43 and Schedule 7, paragraph 65.
+
+[^f00017]: Footnote: Paragraph 55E was substituted, together with paragraphs 34 to 55D, by [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
+
+[^key-96c291a2f6a036bfebd299365eca1c11]: Commencement: Art. 10 in force at 7.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2)
+
+[^f00018]: Footnote: Section 90A was inserted by the Building Societies Act 1997, section 39(1).
+
+[^key-dcaa7b55919bda73a96644159349ee77]: Textual amendment: Words in [art. 10](https://www.legislation.gov.uk/uksi/2010/1188/article/10) substituted for art. 10(a)(b) (28.6.2016 with application in accordance with art. 1(4) of the amending S.I.) by [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1)[(2)](https://www.legislation.gov.uk/uksi/2016/679/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2016/679/article/5/2)
+
+[^key-94f1379066125dc2f5bf4a61855ed404]: Commencement: Art. 11 in force at 7.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2)
+
+[^f00019]: Footnote: Schedule 15A was inserted by the Building Societies Act 1997, section 39(2) and Schedule 6.
+
+[^key-72d5019132769ad9c3b1af61e134be89]: Textual amendment: [Art. 11(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/11/2)[(2A)](https://www.legislation.gov.uk/uksi/2010/1188/article/11/2A) substituted for [art. 11(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/11/2) (28.6.2016 with application in accordance with art. 1(4) of the amending S.I.) by [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1)[(2)](https://www.legislation.gov.uk/uksi/2016/679/article/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2016/679/article/5/3/a)
+
+[^f00021]: Footnote: Paragraph 11 was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
+
+[^key-6069eb5a9e05628f00ac525e7a4a586c]: Textual amendment: Words in [art. 11(4)(a)](https://www.legislation.gov.uk/uksi/2010/1188/article/11/4/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 18(5)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/18/5/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+
+[^key-053c7c2d3f6ee706df90aed94c8b273d]: Textual amendment: Words in [art. 11(5)](https://www.legislation.gov.uk/uksi/2010/1188/article/11/5) substituted (26.3.2015) by [The Financial Services (Banking Reform) Act 2013 (Commencement (No. 8) and Consequential Provisions) Order 2015 (S.I. 2015/428)](https://www.legislation.gov.uk/uksi/2015/428), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2015/428/article/3/b/i)
+
+[^key-cbd801ade2af9c43dae2491d9c3d8e15]: Textual amendment: [Art. 11(6)-(6E)](https://www.legislation.gov.uk/uksi/2010/1188/article/11/6) substituted for [art. 11(6)](https://www.legislation.gov.uk/uksi/2010/1188/article/11/6) (28.6.2016 with application in accordance with art. 1(4) of the amending S.I.) by [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1)[(2)](https://www.legislation.gov.uk/uksi/2016/679/article/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2016/679/article/5/3/b)
+
+[^f00022]: Footnote: Paragraph 33 was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
+
+[^key-ca7ded1d79e1b92f1cffa90049db804a]: Textual amendment: Words in [art. 11(7)](https://www.legislation.gov.uk/uksi/2010/1188/article/11/7) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 18(5)(c)](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/18/5/c) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+
+[^key-8a447a39e3d8a491f60e975a61aabe34]: Textual amendment: Words in [art. 11(8)](https://www.legislation.gov.uk/uksi/2010/1188/article/11/8) substituted (26.3.2015) by [The Financial Services (Banking Reform) Act 2013 (Commencement (No. 8) and Consequential Provisions) Order 2015 (S.I. 2015/428)](https://www.legislation.gov.uk/uksi/2015/428), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/428/article/3/b/ii)
+
+[^key-e977078e10d0417359956f0ea53d2a99]: Textual amendment: [Art. 11(9)](https://www.legislation.gov.uk/uksi/2010/1188/article/11/9)[(10)](https://www.legislation.gov.uk/uksi/2010/1188/article/11/10) substituted for [art. 11(9)](https://www.legislation.gov.uk/uksi/2010/1188/article/11/9) (28.6.2016 with application in accordance with art. 1(4) of the amending S.I.) by [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1)[(2)](https://www.legislation.gov.uk/uksi/2016/679/article/1/2), [5(3)(c)](https://www.legislation.gov.uk/uksi/2016/679/article/5/3/c)
+
+[^key-f31a0be543fa3888561e3bfd9f496a91]: Commencement: Art. 12 in force at 7.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2)
+
+[^f00023]: Footnote: [S.I. 2008/1427](https://www.legislation.gov.uk/uksi/2008/1427).

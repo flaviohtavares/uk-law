@@ -1,0 +1,153 @@
+---
+title: The Building Societies (Member States) Order 1992
+id: uksi/1992/1547
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1992-06-29'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1992/1547
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/1547/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Societies (Member States) Order 1992
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1992 No. 1547
+
+BUILDING SOCIETIES
+
+The Building Societies (Member States) Order 1992
+
+Made
+
+29th June 1992
+
+Coming into force
+
+1st July 1992
+
+The Treasury, in exercise of the powers conferred on them by section 14 of the Building Societies Act 1986[^f00001] and of all other powers enabling them in that behalf, hereby makes the following Order, a draft of which has been laid before and approved by each House of Parliament:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Building Societies (Member States) Order 1992 and shall come into force on 1st July 1992.
+
+## 2. Interpretation
+
+(1) In this Order, except where the context otherwise requires—
+
+- “the Act” means the Building Societies Act 1986;
+- “relevant provision” means a provision of the Act which applies in relation to advances secured on land;
+- “society” means a building society;
+- “specified advance” means an advance which a society may make by virtue of this order;
+- “specified country” means a member State other than the United Kingdom, and
+- “specified countries” shall be construed accordingly; and
+- “specified security” means the form of security to which paragraph 1 of Schedule 1 to this Order refers.
+
+(2) For the purposes of this Order, a provision of the Act which applies in relation to advances fully secured on land shall be treated as one which applies in relation to advances secured on land.
+
+## 3. Designation of specified countries
+
+(1) Subject to paragraph (2) below, the specified countries are designated as countries as respects which advances under section 14 of the Act (power to make advances secured on land overseas) may be secured on land.
+
+(2) Schedule 1 to this Order shall have effect in respect of—
+
+- (a) the forms of security on land which may be taken for such advances,
+- (b) the circumstances in, and the conditions subject to which, such forms of security may be taken, and
+- (c) the classification of specified advances as class 1 advances or class 2 advances for the purposes of Part III of the Act for the structure of commercial assets,
+
+in relation to the specified countries.
+
+## 4. Availability of power
+
+The power conferred by this Order is not available to a society which does not for the time being have a qualifying asset holding, but the cessation of its availability does not require the disposal of any property or rights.
+
+## 5. Other security
+
+Nothing in this Order is to be taken as precluding a society from taking security for an advance in addition to the form of security required by Schedule 1 to this order, but the value of the other security shall be disregarded for the purpose of that schedule.
+
+## 6. Application of relevant provisions
+
+Subject to Schedule 2 to this Order, the relevant provisions shall apply in relation to specified advances as they apply in relation to other advances secured on land and in any relevant provision—
+
+- (a) any reference to a mortgage shall include reference to the specified security, and
+- (b) any reference to a mortgage debt shall be construed accordingly.
+
+Tim Wood
+
+Tim Boswell
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+29th June 1992
+
+## SCHEDULE 1
+
+Articles 2 and 3
+
+**1.** The form of security which may be taken for an advance under section 14 of the Act in relation to a specified country is any form of security—
+
+- (a) acknowledging a debt and obliging the borrower to pay it, and
+- (b) securing payment of that debt on land in a specified country.
+
+**2.** The specified security may only be taken for a specified advance under section 14 of the Act where the advance is classifiable as a class 1 advance under paragraph 3 below or a class 2 advance under paragraph 4 below.
+
+**3.** (1) A specified advance shall be classified as a class 1 advance for the purposes of the requirements of Part III of the Act for the structure of commercial assets where the society at the time it makes the advance is satisfied that—
+
+- (a) the borrower is an individual;
+- (b) the land comprising the security is exclusively for the residential use of—
+  - (i) the borrower, or
+  - (ii) the borrower and any person residing with the borrower;
+- (c) the amount advanced will not exceed the value of the land comprising the security (after deducting from that value any debt of the borrower to the society outstanding under a relevant form of security relating to that land);
+- (d) the land comprising the security will not be security for any advance other than an advance by the society (except where that advance is postponed to the society’s advance); and
+- (e) any right of the spouse (if any) of the borrower relating to the land comprising the security will be subject to the rights of the society under the relevant form of security taken for the advance.
+
+(2) For the purposes of subparagraph (1) above and paragraph 4 below, where a society makes an advance by instalments, the reference to the time when the society makes the advance is a reference to the time when it pays the first of the instalments.
+
+**4.** A specified advance shall be classified as a class 2 advance for the purposes of the requirements of Part III of the Act for the structure of commercial assets where the society at the time when it makes the advance is satisfied that the requirements of paragraph 3(1)(c), (d) and (where applicable) (e) above are satisfied but is not satisfied that the requirements of paragraph 3(1)(a) and (b) above are satisfied.
+
+**5.** If at any time when an advance classified as a class 1 advance or a class 2 advance under paragraphs 3 or 4 above is outstanding the society is satisfied, on notice given to it by the borrower, that there has been a change in the use of the land comprising the security and is satisfied that, had the use been so changed before the making of the advance, the advance would instead have been a class 2 advance or a class 1 advance, as the case may be, the advance shall be reclassified accordingly as from that time.
+
+**6.** Where a society, in exercise of its powers arising as a result of having taken the specified security over land on which a specified advance is made, takes possession of the land, the land shall until sale be classified—
+
+- (a) if the advance was most recently classified as a class 1 advance by virtue of this Order, as a class 1 asset, and
+- (b) if the advance was most recently classified as a class 2 advance by virtue of this Order, as a class 2 asset,
+
+for the purposes of the requirements of Part III of the Act for the structure of commercial assets.
+
+## SCHEDULE 2 — EXCLUSION OR MODIFICATION OF RELEVANT PROVISIONS
+
+Article 7
+
+**1.** Section 10 of the Act (power to make advances secured on land) shall not apply to specified advances.
+
+**2.** Subsections (1) to (7), (9) to (13) and (15) of section 11 of the Act (classification of advances made under section 10) shall not apply to specified advances.
+
+**3.** Subsections (1) to (11) and (13) of section 12 of the Act (supplementary provisions) shall not apply to specified advances.
+
+**4.** Section 13(7) of, and Schedule 4 to, the Act (sale of mortgaged property and discharge of mortgages) shall not apply to specified advances.
+
+**5.** Section 18 of the Act (power to invest in associated bodies) shall have effect in relation to specified advances so as to treat them, for the purposes of subsection (4) thereof, as if they were advances secured on land in the United Kingdom.
+
+**6.** Section 69 of the Act (disclosure and record of income of related businesses) shall have effect in relation to specified advances as if, in subsection 17 thereof—
+
+- (a) the definition of “conveyancing services” related additionally to land in any specified country and included the preparation of conveyances, contracts and other documents in connection with, and other services ancillary to, the disposition or acquisition of interests in that land.
+- (b) the definition of “solicitor” included any person authorised to provide conveyancing services in the specified country.
+
+(This note is not part of the Order)
+
+This Order empowers building societies with commercial assets of at least £100 million to make advances on the security of land in any member State of the European Community other than the United Kingdom. Provision is made for the classification of those advances within the asset classification provisions of the Building Societies Act 1986.
+
+This Order provides (article 6 and Schedule 2) for the general treatment of those advances under the Building Societies Act 1986 to correspond to the treatment, under the Act, of advances secured on land in the United Kingdom.
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).

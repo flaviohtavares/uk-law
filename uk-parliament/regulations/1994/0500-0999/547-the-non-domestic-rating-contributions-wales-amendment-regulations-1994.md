@@ -1,0 +1,71 @@
+---
+title: The Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 1994
+id: uksi/1994/547
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1994-03-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1994/547
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/547/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 1994
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1994 No. 547
+
+RATING AND VALUATION
+
+The Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 1994
+
+Made
+
+7th March 1994
+
+Laid before Parliament
+
+10th March 1994
+
+Coming into force
+
+31st March 1994
+
+The Secretary of State for Wales, in exercise of the powers conferred on him by sections 140(4), 143(1) and 146(6) of, and paragraph 6(5) and (6) of Schedule 8 to, the Local Government Finance Act 1988[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+**1.** These Regulations may be cited as the Non-Domestic Rating Contributions (Wales) (Amendment) Regulations 1994 and shall come into force on 31st March 1994.
+
+**2.** Regulation 7A of the Non-Domestic Rating Contributions (Wales) Regulations 1992[^f00002] shall have effect in relation to the financial year beginning on 1st April 1994 with the following amendments —
+
+- (a) in paragraph (1), for “1993” there shall be substituted “1994”;
+- (b) in paragraph(2)(a), for “a day in the current year” there shall be substituted “or after 31st March 1994” and for “that year” there shall be substituted “the current year”;
+- (c) in paragraph (2)(d), for “or after 6th July 1993” there shall be substituted—“a day in the current year”;
+- (d) in paragraph (3), for the words from “1993 Act” to the end there shall be substituted “Non-Domestic Rating Act 1994”[^f00003]; and
+- (e) in paragraph (4), for “6th July 1993” there shall be substituted “31st March 1994”.
+
+John Redwood
+
+Secretary of State for Wales
+
+7th March 1994
+
+(This note is not part of the Regulations)
+
+Under Part II of Schedule 8 to the Local Government Finance Act 1988 (“the 1988 Act”) billing authorities are required to pay amounts (called non-domestic rating contributions) to the Secretary of State. Provisional amounts are paid during the year and final calculations and any payment adjustments are made after the year ends.
+
+Regulation 2 of these Regulations amends the rules for the calculation of payments contained in regulation 7A of the Non-Domestic Rating Contributions (Wales) Regulations 1992 in order to take account of the amendments made by the Non-Domestic Rating Act 1994 to Schedule 7A to the 1988 Act (non-domestic rating: 1990 to 1995).
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41); paragraph 6(6) of Schedule 8 is amended by section 5(2) of the Non-Domestic Rating Act [1992 (c. 46)](https://www.legislation.gov.uk/ukpga/1992/46).
+
+[^f00002]: Footnote: [S.I. 1992/3238](https://www.legislation.gov.uk/uksi/1992/3238); amended by [S.I. 1993/1505](https://www.legislation.gov.uk/uksi/1993/1505) and [S.I. 1993/3077](https://www.legislation.gov.uk/uksi/1993/3077).
+
+[^f00003]: Footnote: [1994 c. 3](https://www.legislation.gov.uk/ukpga/1994/3).

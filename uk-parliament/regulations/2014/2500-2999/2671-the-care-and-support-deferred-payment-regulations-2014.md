@@ -1,0 +1,372 @@
+---
+title: The Care and Support (Deferred Payment) Regulations 2014
+id: uksi/2014/2671
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-10-22'
+text_date: '2018-02-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2014/2671
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/2671/pdfs/uksiem_20142671_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2014/2671/pdfs/uksiem_20142671_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2671/pdfs/uksi_20142671_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2671/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Care and Support (Deferred Payment) Regulations 2014
+
+> Text as at 2018-02-05.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2014 No. 2671
+
+Social Care, England
+
+The Care and Support (Deferred Payment) Regulations 2014
+
+Made
+
+22nd October 2014
+
+Laid before Parliament
+
+31st October 2014
+
+Coming into force in accordance with regulation 1(1)
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 34(1), (2) and (4) to (8), 35 and 125(7) and (8) of the Care Act 2014[^f00001].
+
+## 1. Citation, commencement and interpretation[^key-0c75be88bc98667f9195040d19e8144b]
+
+(1) These Regulations may be cited as the Care and Support (Deferred Payment) Regulations 2014 and come into force immediately after sections 34(1) and 35(1) of the Care Act 2014 are both fully in force[^f00002].
+
+(2) In these Regulations—
+
+- “the Act” means the Care Act 2014 and a reference to a section is a reference to a section of the Act;
+- “care home” means a care home, within the meaning given in section 3 of the Care Standards Act 2000[^f00003], in respect of which a person is registered under the Health and Social Care Act 2008[^f00004] for the regulated activity of the provision of accommodation together with nursing or personal care;
+- “long tenancy” is a tenancy granted for a term of years certain exceeding twenty one years, whether or not the tenancy is, or may become, terminable before the end of that term by notice given by or to the tenant or by re-entry, forfeiture or otherwise and includes a lease for a term fixed by law under a grant with a covenant or obligation for perpetual renewal unless it is a lease by sub-demise from one which is not a long tenancy;
+- “specified time” means the time specified in regulation 7;
+- “supported living accommodation” has the meaning in regulation 3(2);
+- “the 2011 Act” means the Budget Responsibility and National Audit Act 2011[^f00005].
+
+## 2. Local authority required to enter into a deferred payment agreement[^key-fb756a8cc6e6c888595069c7dcbeb93d]
+
+(1) A local authority[^f00006] is required to enter into a deferred payment agreement with an adult if—
+
+- (a) paragraph (2) applies to the adult;
+- (b) the condition in regulation 4 is met; and
+- (c) the adult agrees to all the terms and conditions included in the agreement in accordance with regulation 11.
+
+(2) This paragraph applies to an adult if—
+
+- (a) the adult’s needs for care and support—
+  - (i) are being met or are going to be met under section 18 or section 19(1) or (2) and the care and support plan[^f00007] for the adult specifies that the local authority is going to meet the adult’s needs by the provision of accommodation in a care home; or
+  - (ii) are not being or going to be met by the local authority and the local authority considers that if it had been asked to meet the adult’s needs it would have done so under section 18 or section 19(1) or (2) and it would have met the adult’s needs by the provision to the adult of accommodation in a care home; or[^key-bf6bd576ef8d0147f304a2d554ea4ef6]
+  - (iii)[^key-b1cd78b5b3e38fb430fd45841ece415a] are not being or going to be met by the local authority under section 18 and are needs that the local authority considers it would be required to meet under that section by the provision of accommodation in a care home but for the fact that the local authority is satisfied that the adult’s financial resources are above the financial limit; and
+- (b) the local authority is satisfied that the adult has a legal or beneficial interest in a property which is the adult’s main or only home, and
+  - (i) where a financial assessment within the meaning of section 17(5) has been carried out in respect of the adult, that—
+    - (aa) the value of that interest has not been disregarded for the purposes of calculating the amount of the adult’s capital[^f00008]; and
+    - (bb) the adult’s capital less the value of that interest does not exceed £23,250; or
+  - (ii) where such a financial assessment has not been carried out in respect of the adult that sub-paragraph (i) would be satisfied if such an assessment were carried out.
+
+(3) But a local authority is only required to enter into a deferred payment agreement with an adult for amounts due from the adult to the authority under section 14, or for costs of care and support the provision of which the local authority considers to be necessary to meet the adult’s needs.
+
+## 3. Local authority permitted to enter into a deferred payment agreement[^key-d485ad05979f59c22fa48da93ccd1f3a]
+
+(1) A local authority is permitted to enter into a deferred payment agreement with an adult if—
+
+- (a) the adult’s needs for care and support—
+  - (i) are being met or are going to be met under section 18 or section 19(1) or (2) and the care and support plan for the adult specifies that the local authority is going to meet the adult’s needs by the provision to the adult of accommodation in a care home or supported living accommodation; or
+  - (ii) are not being or going to be met by the local authority and the local authority considers that if it had been asked to meet the adult’s needs it would have done so under section 18 or section 19(1) or (2) and it would have met the adult’s needs by the provision to the adult of accommodation in a care home or supported living accommodation; or[^key-c4ede09cfc68e65c756d5ec10858e7bd]
+  - (iii)[^key-c081fc714d9b61c8b1e1ff0d6c2233eb] are not being or going to be met by the local authority under section 18 and are needs that the local authority considers it would be required to meet under that section by the provision of accommodation in a care home but for the fact that the local authority is satisfied that the adult’s financial resources are above the financial limit;
+- (b) the condition in regulation 4 is met; and
+- (c) the adult agrees to all the terms and conditions included in the agreement in accordance with regulation 11.
+
+(2) For the purpose of paragraph (1), “supported living accommodation” means accommodation which is not a care home and is—
+
+- (a) in premises which are specifically designed or adapted for occupation by adults with needs for care and support to enable them to live as independently as possible; or
+- (b) provided—
+  - (i) in premises which are intended for occupation by adults with needs for care and support (whether or not the premises are specifically designed or adapted for that purpose); and
+  - (ii) in circumstances in which personal care is available if required.
+
+(3) For the purposes of paragraph (2)(b)(ii), personal care may be provided by a person other than the person who provides the accommodation.
+
+(4) The accommodation referred to in paragraph (2) does not include premises—
+
+- (a) in respect of which the adult is for the time being entitled to dispose of the fee simple, whether or not with the consent of other joint owners; or
+- (b) which the adult occupies other than under a licence or tenancy agreement.
+
+(5) In paragraph (4) “tenancy” means a tenancy which is not a long tenancy.
+
+## 4. Adequate security[^key-3a8db1dfb3a8d423b3417ae63de5caf5]
+
+(1) The local authority must obtain—
+
+- (a) adequate security for the payment of the adult’s deferred amount[^f00009] and any interest or administration costs which are treated in the same way as the adult’s deferred amount; and
+- (b) the consent referred to in paragraph (4), if the authority considers it is necessary to do so.
+
+(2) For the purposes of regulation 2, “adequate security” is a charge by way of legal mortgage for an amount which is at least equal to the deferred amount and any interest or administration costs which are to be treated in the same way as the adult’s deferred amount and which is capable of being registered as a first legal charge in favour of the local authority in the land register[^f00010].
+
+(3) For the purposes of regulation 3, “adequate security” is—
+
+- (a) a charge by way of legal mortgage for an amount which is at least equal to the adult’s deferred amount and any interest or administration costs which are to be treated in the same way as the adult’s deferred amount and which is capable of being registered as described in paragraph (2); or
+- (b) any other security which the local authority considers is sufficient to secure payment of the deferred amount and any interest and administration costs which are to be treated in the same way as the adult’s deferred amount.
+
+(4) The consent required by paragraph (1) is consent which in the opinion of the local authority is genuine and informed consent given in writing to the matters specified in paragraph (5) by any person—
+
+- (a) who the authority considers has an interest in the land or other asset in respect of which a charge will be obtained; and
+- (b) whose interest the authority considers may prevent it from exercising a power of sale of the land or asset or recovering the deferred amount.
+
+(5) The matters specified are—
+
+- (a) the creation of a charge; and
+- (b) the charge taking priority to and ranking before any interest the person has in the land or other asset which will be the subject of the charge.
+
+## 5. Deferred amount and equity limit[^key-3eb2994819574fea840f52b780674dc2]
+
+(1) Subject to paragraph (3), the deferred amount is the sum which is specified or determined in accordance with paragraph (2).
+
+(2) The sum is—
+
+- (a) The lower of—
+  - (i) 100% of the amount due from the adult under section 14 or, as the case may be, section 30(2) for the provision of care and support in a care home or supported living accommodation, less any amount which the local authority requires the adult to contribute under regulation 6;
+  - (ii) such lesser part of the amount due under section 14, or as the case may be, section 30(2) as the adult requests, less any amount which the local authority requires the adult to contribute under regulation 6;
+  - (iii) the amount deferred in accordance with sub-paragraphs (i) or (ii), less any amount which, during the time the agreement is in force and in accordance with the terms and conditions of the agreement, the authority does not agree to defer payment of until the specified time; or
+- (b) 100% of the loan made for the purpose of assisting the adult to obtain care and support in a care home or, as the case may be, supported living accommodation.
+
+(3) But—
+
+- (a) the deferred amount and any interest and administration costs which have been treated in the same way as the deferred amount must not exceed the equity limit and the authority must not agree to defer payment of an amount if to do so would exceed the equity limit; unless
+- (b) at the relevant time, the deferred amount and any interest and administration costs which have been treated in the same way as the deferred amount exceeds the equity limit, in which case the local authority must defer payment of those amounts if paragraph (4) applies.
+
+(4) This paragraph applies if the equity limit was not exceeded at the time when payment of an amount due to the authority under section 14 or 30(2) was last deferred or an instalment under the loan agreement was last advanced to the adult.
+
+(5) The equity limit is 90% of the value of the asset (that is, its current market or surrender value at the relevant time) which the local authority obtains as security for the deferred amount and any interest and administration costs which are to be treated in the same way as the deferred amount, less £14,250 and the amount of any encumbrance secured on it which ranks in priority to the authority’s charge.
+
+(6) For the purposes of paragraphs (3) and (5), the relevant time is the time that—
+
+- (a) an amount under section 14 or 30(2) is due to the authority; or
+- (b) the local authority is due to advance an instalment of the loan to the adult under the loan agreement.
+
+(7) Any interest and administration costs may continue to be treated in the same way as the deferred amount even after the equity limit is reached.
+
+## 6. Adult’s contribution[^key-0b70f712fabd996e47d1f99661954139]
+
+(1) If in any week during which the agreement is in force the adult’s weekly income exceeds £144, a local authority is permitted not to—
+
+- (a) defer an amount due to the authority under section 14 or 30(2) for meeting the adult’s needs for that week by the provision of accommodation in a care home or supported living accommodation; or
+- (b) advance an instalment or part of an instalment under the loan agreement for the purpose of assisting the adult to obtain for that week the provision of care and support in a care home or supported living accommodation.
+
+(2) But the amount which under this regulation the local authority may decide not to defer or advance in respect of that week may not exceed the amount by which the adult’s income in that week exceeds £144.
+
+(3) Where the local authority decides not to defer an amount or advance an instalment or part of an instalment under paragraph (1), it may include a term in the agreement to require the adult to pay or ensure payment of the amount due to the authority or the provider of the care and support in a care home or supported living accommodation.
+
+(4) In paragraph (3) the amount due to the authority or provider of care and support is the amount which, in accordance with this regulation, the authority decides not to defer.
+
+(5) The amount of the adult’s weekly income must be calculated in accordance with regulations made under section 17.
+
+(6)[^key-d5a5dc295b5dbd1a5ade5a03f9e5e917] But nothing in this regulation requires the local authority to—
+
+- (a) defer any amount which is due to it under section 14 or 30(2); or
+- (b) advance any or all of an instalment or part of an instalment under the loan agreement to the adult,
+
+if, under regulation 5(3) of these Regulations or in accordance with the terms of the agreement, the authority is required to, or is permitted to, cease to defer that amount or cease to advance any or all of the instalment or part of the instalment under the loan agreement.
+
+## 7. Time for repayment of the deferred amount[^key-2d78082015c04bc5afe964611e30ed72]
+
+The specified time for repayment of the deferred amount and any interest and administration costs which have been treated in the same way as the deferred amount is the sooner of—
+
+- (a) the date of sale or disposal of the land or other asset in respect of which the authority has a charge; or
+- (b) 90 days after the date of the death of the adult with whom the agreement is made or such longer time as the authority may permit.
+
+## 8. Termination[^key-018c1ea1ad5cf62cb400099c588a1756]
+
+The adult may terminate the deferred payment agreement at any time prior to the specified time by giving the authority reasonable notice in writing and paying to the local authority the deferred amount and any interest and administration costs which have been treated in the same way as the deferred amount.
+
+## 9. Interest[^key-f0b784edfea31c336074421254f76ea6]
+
+(1) A local authority may charge interest on an adult’s deferred amount and any amounts which are treated in the same way as the deferred amount provided that, before entering into the agreement, it informs the adult that it proposes to do so and of the rate at which interest will be charged.
+
+(2) The interest may be treated in the same way as the adult’s deferred amount, unless the adult requests to pay the interest separately.
+
+(3) The interest rate is a rate that does not exceed the relevant rate for the relevant period plus 0.15%.
+
+(4) The relevant rate is the weighted average interest rate on conventional gilts specified for the financial year in which the relevant period starts in the most recent report published before the start of the relevant period by the Office of Budget Responsibility[^f00011] under section 4(3) of the 2011 Act[^f00012].
+
+(5) The relevant period is the period starting on—
+
+- (a) 1st January and ending on 30th June in any year; or
+- (b) 1st July and ending on 31st December in any year.
+
+(6) “Financial year” has the meaning given in section 25(2) of the 2011 Act.
+
+## 10. Administration costs[^key-d3568bc14cd9e54a3bd5cd6bfc49dd5a]
+
+(1) The local authority may charge the adult its administration costs in accordance with paragraph (3) or (4) provided that it informs the adult that it proposes to do so, before entering into the agreement, and complies with sub–paragraphs (a) to (c) of paragraph (5).
+
+(2) The administration costs may be treated in the same way as the adult’s deferred amount, unless the adult requests to pay them separately.
+
+(3) In this paragraph the administration costs are the total of any costs incurred by the authority in relation to the adult’s deferred payment agreement including but not limited to—
+
+- (a) the costs of postage, printing and photocopying;
+- (b) the costs of time spent by persons in relation to the agreement;
+- (c) the costs of overheads, such as computer equipment and utility charges (to the extent that they are not already included in the costs of time spent by persons in relation to the agreement);
+- (d) the costs incurred for the purpose of ascertaining the value of the adequate security;
+- (e) the costs incurred in registering the charge on the land or land charges register;
+- (f) the costs incurred in perfecting the security obtained in respect of the deferred amount;
+- (g) the costs incurred in discharging or redeeming the security obtained in respect of the deferred amount; and
+- (h) the costs which are incurred by the authority for the purpose of ensuring compliance by the parties of the terms and conditions in the agreement.
+
+(4) In this paragraph the administration costs are—
+
+- (a) the average cost to the local authority incurred in relation to deferred payment agreements generally, having regard to the costs and fees referred to in sub-paragraphs (a) to (c) of paragraph (3), and for these purposes the local authority may provide for different average costs for different situations;
+- (b) the costs incurred for the purpose of ascertaining the value of the adequate security;
+- (c) the costs incurred in registering the charge on the land or land charges register;
+- (d) the costs incurred in perfecting the security obtained in respect of the deferred amount;
+- (e) the costs incurred in discharging or redeeming the security obtained in respect of the deferred amount; and
+- (f) the costs which are incurred by the authority for the purpose of ensuring compliance by the parties of its terms and conditions.
+
+(5) But the local authority must—
+
+- (a) before entering into the agreement, give the adult an estimate of the amount of any charge it envisages levying in respect of making the agreement and registering any charge;
+- (b) before entering into the agreement give the adult an indication of its current charges for, and the matters in respect of which, it considers it may impose a charge under the agreement and information to enable the adult to ascertain the charges if they change during the period during which the agreement is in force;
+- (c) before requesting payment of any charge, or treating it in the same way as the deferred amount, provide the adult with a statement which sets out the amount of the charge—
+  - (i) which, in a case where the administration costs are calculated in accordance with paragraph (3), is attributable to each of the items referred to in paragraph (3); or
+  - (ii) which, in a case where the costs are calculated in accordance with paragraph 4, is attributable to the costs referred to in paragraph (4)(a) and each of the items referred to in sub-paragraphs (b) to (f) of that paragraph.
+
+## 11. Terms, conditions and information[^key-0cc3f1dc5f79e190c2879ebc761fe864]
+
+(1) The deferred payment agreement must include any terms, conditions and information, without which the adult is unable to ascertain his or her rights and obligations under the agreement including—
+
+- (a) in the case of an agreement under which a local authority agrees to defer until the specified time the repayment of the part of the loan specified in regulation 5, a term to make clear that the local authority will make advances of that loan to the adult in instalments and when those instalments will be made;
+- (b) a term to explain that the local authority must cease to defer amounts due to the authority under section 14 or 30(2) or advance instalments under the loan agreement if the adult is no longer receiving care and support in a care home or supported living accommodation or if the local authority no longer considers that the adult’s needs should be met by the provision of such accommodation;
+- (c) a term to explain any other circumstances in which the local authority will or may cease to defer amounts due to it under sections 14 or 30(2) or advance instalments under the loan agreement;
+- (d) a term which requires the local authority to produce a written statement—
+  - (i) which is provided to the adult—
+    - (aa) at the end of the period of six months beginning with the date on which the agreement is entered into;
+    - (bb) every six months after that; and
+    - (cc) within 28 days of a request made by the adult; and
+  - (ii) which shows—
+    - (aa) the amount that the adult would have to pay to the local authority in order to terminate the agreement on the date on which the statement is sent by the authority to the adult or such later date as is requested by the adult; and
+    - (bb) the amount of interest and administration charges which have accrued on the amounts deferred under section 14 or 30(2) or the loan instalments since the commencement of the loan;
+- (e) a term which requires the local authority to give the adult 30 days written notice of the date on which the equity limit and, if different, the amount which the parties have agreed to defer is likely to be reached;
+- (f) if the interest is to be treated in the same way as the adult’s deferred amount, a term to explain how the interest will compound;
+- (g) information as to administration costs which the authority may charge under the agreement;
+- (h) in the case of a loan, a term to make clear that its purpose is to pay the costs of care and support in a care home or supported living accommodation, as the case may be, and that the adult must pay those costs as and when they fall due;
+- (i) a term which explains that, subject to regulation 5(3), the maximum amount which may be deferred is the equity limit in regulation 5(5), and that this is likely to vary over the term of the agreement;
+- (j) a term which describes the adequate security accepted by the local authority;
+- (k) a term requiring the adult to obtain the consent of the local authority for any person to occupy the property; and
+- (l) a term to explain how the adult may exercise his or her right to terminate the agreement.
+
+(2) The deferred payment agreement may include such other terms and conditions as the local authority considers appropriate.
+
+Signed by authority of the Secretary of State for Health.
+
+Norman Lamb
+
+Minister of State
+
+Department of Health
+
+22nd October 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for local authorities to enter into a deferred payment agreement with an adult and specify the amount of the agreement and conditions which relate to the agreement.
+
+Regulation 2 sets out the circumstances in which a local authority must enter into a deferred payment agreement.
+
+Regulation 3 sets out the circumstances in which a local authority may enter into a deferred payment agreement.
+
+Regulation 4 provides that a local authority must not enter into a deferred payment agreement unless it obtains adequate security for the payment of the deferred amount. It sets out that, for cases where a local authority is required to enter into a deferred payment agreement, the adequate security must be a charge by way of legal mortgage for an amount which is at least equal to the adult’s deferred amount and any interest and administration costs which are treated in the same way as the adult’s deferred amount and which is capable of being registered as a first legal charge in favour of the local authority in the land register. In the case of a deferred payment agreement which the authority is permitted to enter into, paragraph (3) provides that adequate security is such a charge or such other security as the authority considers will secure payment of the deferred amount.
+
+The regulation also provides that if the authority considers that it is necessary to do so it must also obtain written consent to the matters specified in paragraph (5) from a person who has an interest in the asset over which it has obtained the charge.
+
+Regulation 5 makes provision as to the amount which is deferred under the agreement. Regulation 5(1) provides that, subject to paragraph (3), the deferred amount is the sum in paragraph (2).
+
+Regulation 5(2) provides in effect that, in cases where the adult is required to pay charges for the costs of their care and support to the authority, the amount is 100% of the amount due to the authority from the adult under section 14 (power of local authority to charge) or the amount due to the authority under section 30(2) (additional costs in cases where the adult expresses a preference for particular accommodation) or such lesser amount as the adult requests. In either case these amounts may be reduced by the amount by which the local authority is permitted not to defer under regulation 6 or in accordance with terms and conditions of the agreement.
+
+In the case of a loan, regulation 5(2)(b) provides that the deferred amount is the whole of the loan made to the adult to obtain accommodation in a care home or supported living accommodation.
+
+Regulation 5(3)(a) provides in effect that apart from in the circumstance described in sub-paragraph (b) the deferred amount and interest and costs which have been added to it must not exceed the equity limit specified in paragraph (5). Paragraph (b) of regulation 5(3) requires the authority to defer payment of an amount which exceeds the equity limit if regulation 5(4) applies. Regulation 5(4) applies if the equity limit was not exceeded when amounts were last deferred. This may arise if the value of the adequate security has fallen since the date of the last deferral. Regulation 5(7) makes clear that interest and administration costs can continue to be added to the deferred amount even after the equity limit is reached.
+
+Regulation 6(1) and (2) provides in effect that the local authority does not have to defer an amount, where, after payment by the adult of the amounts due to the authority, or payment by the adult of the charges due to the provider of care and support in a care home or supported living accommodation, the adult would retain at least £144 of his or her weekly income.
+
+It also provides, by paragraphs (3) and (4), that the local authority may include a term in the agreement to require the adult to pay, or ensure payment of, the amounts which in accordance with the regulation the adult has decided not to defer.
+
+Regulations 7 and 8 make provision as to the time for repayment of the deferred amount and the adult’s right to terminate the deferred payment agreement.
+
+Regulations 9 and 10 make provision as to the payment of interest and administration costs.
+
+Regulation 11 details terms and conditions which must or may be in the agreement.
+
+A separate impact assessment has not been prepared for these Regulations. These Regulations are part of a package of legislative measures and the relevant impact assessment can be requested via careactconsultation@dh.gsi.gov.uk or the Department of Health, Richmond House, 79 Whitehall, London SW1A 2NS and is available online at https://www.gov.uk/government/organisations/department-of-health.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 c.23](https://www.legislation.gov.uk/ukpga/2014/23). The powers to make regulations are exercisable by the Secretary of State; see section 125(1).
+
+[^key-0c75be88bc98667f9195040d19e8144b]: Commencement: Reg. 1 in force at 1.4.2015 in accordance with reg. 1(1)
+
+[^f00002]: Footnote: Sections 34(1) and 35(1) have been commenced for the purpose of making regulations by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473).
+
+[^f00003]: Footnote: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14).
+
+[^f00004]: Footnote: [2008 c.14](https://www.legislation.gov.uk/ukpga/2008/14).
+
+[^f00005]: Footnote: [2011 c.4](https://www.legislation.gov.uk/ukpga/2011/4).
+
+[^key-fb756a8cc6e6c888595069c7dcbeb93d]: Commencement: Reg. 2 in force at 1.4.2015 in accordance with reg. 1(1)
+
+[^f00006]: Footnote: *See* section 1(4) of the Act as to the meaning of “local authority”; the definition in section 1(4) is limited to local authorities in England.
+
+[^f00007]: Footnote: *See* section 25 for the definition of “care and support plan”.
+
+[^key-bf6bd576ef8d0147f304a2d554ea4ef6]: Textual amendment: Word in [reg. 2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2671/regulation/2/2/a/ii) substituted (5.2.2018) by [The Care and Support (Deferred Payment) (Amendment) Regulations 2017 (S.I. 2017/1318)](https://www.legislation.gov.uk/uksi/2017/1318), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1318/article/1/1), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/1318/regulation/2/a)
+
+[^key-b1cd78b5b3e38fb430fd45841ece415a]: Textual amendment: [Reg. 2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2014/2671/regulation/2/2/a/iii) inserted (5.2.2018) by [The Care and Support (Deferred Payment) (Amendment) Regulations 2017 (S.I. 2017/1318)](https://www.legislation.gov.uk/uksi/2017/1318), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1318/article/1/1), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1318/regulation/2/b)
+
+[^f00008]: Footnote: *See* section 17(11)(b) which provides that regulations under that section must make provision for calculating capital.
+
+[^key-d485ad05979f59c22fa48da93ccd1f3a]: Commencement: Reg. 3 in force at 1.4.2015 in accordance with reg. 1(1)
+
+[^key-c4ede09cfc68e65c756d5ec10858e7bd]: Textual amendment: Word in [reg. 3(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2671/regulation/3/1/a/ii) inserted (5.2.2018) by [The Care and Support (Deferred Payment) (Amendment) Regulations 2017 (S.I. 2017/1318)](https://www.legislation.gov.uk/uksi/2017/1318), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1318/article/1/1), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1318/regulation/3/a)
+
+[^key-c081fc714d9b61c8b1e1ff0d6c2233eb]: Textual amendment: [Reg. 3(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2014/2671/regulation/3/1/a/iii) inserted (5.2.2018) by [The Care and Support (Deferred Payment) (Amendment) Regulations 2017 (S.I. 2017/1318)](https://www.legislation.gov.uk/uksi/2017/1318), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1318/article/1/1), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/1318/regulation/3/b)
+
+[^key-3a8db1dfb3a8d423b3417ae63de5caf5]: Commencement: Reg. 4 in force at 1.4.2015 in accordance with reg. 1(1)
+
+[^f00009]: Footnote: *See* section 34(6) for the meaning of “deferred amount”.
+
+[^f00010]: Footnote: *See* the Land Registration Act [2002 (c.9)](https://www.legislation.gov.uk/ukpga/2002/9), section 132(1) for the meaning of “charge”, “legal mortgage”, “register”.
+
+[^key-3eb2994819574fea840f52b780674dc2]: Commencement: Reg. 5 in force at 1.4.2015 in accordance with reg. 1(1)
+
+[^key-0b70f712fabd996e47d1f99661954139]: Commencement: Reg. 6 in force at 1.4.2015 in accordance with reg. 1(1)
+
+[^key-d5a5dc295b5dbd1a5ade5a03f9e5e917]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/2014/2671/regulation/6/6) inserted (coming into force in accordance with reg. 1(2)(3) of the amending S.I.) by [The Care and Support (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/644)](https://www.legislation.gov.uk/uksi/2015/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2015/644/regulation/2)
+
+[^key-2d78082015c04bc5afe964611e30ed72]: Commencement: Reg. 7 in force at 1.4.2015 in accordance with reg. 1(1)
+
+[^key-018c1ea1ad5cf62cb400099c588a1756]: Commencement: Reg. 8 in force at 1.4.2015 in accordance with reg. 1(1)
+
+[^key-f0b784edfea31c336074421254f76ea6]: Commencement: Reg. 9 in force at 1.4.2015 in accordance with reg. 1(1)
+
+[^f00011]: Footnote: The Office of Budget Responsibility is established by section 3 of the 2011 Act.
+
+[^f00012]: Footnote: A copy of the report can be requested via careactconsultation@dh.gsi.gov.uk or the Department of Health, Richmond House, 79 Whitehall, London SW1A 2NS and is available at http://budgetresponsibility.org.uk/ .
+
+[^key-d3568bc14cd9e54a3bd5cd6bfc49dd5a]: Commencement: Reg. 10 in force at 1.4.2015 in accordance with reg. 1(1)
+
+[^key-0cc3f1dc5f79e190c2879ebc761fe864]: Commencement: Reg. 11 in force at 1.4.2015 in accordance with reg. 1(1)

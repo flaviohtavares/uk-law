@@ -1,0 +1,43 @@
+---
+title: Industrial and Provident Societies Act 1965, SCHEDULE 3
+act: Industrial and Provident Societies Act 1965
+section: schedule-3
+status: repealed
+text_date: '2014-12-08'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1965/12/schedule/3
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Industrial and Provident Societies Act 1965, SCHEDULE 3
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland.
+
+## SCHEDULE 3 — Form of Receipt on Mortgage, Heritable Security, Etc.[^key-34c362397c3355edb42a2aea3f55402b]
+
+*Extent: E+W+S*
+
+**No longer in force.**
+
+Sections 33, 34, 35.
+
+### Part I[^key-34c362397c3355edb42a2aea3f55402b]
+
+#### Forms applicable in England and Wales[^key-34c362397c3355edb42a2aea3f55402b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part II[^key-34c362397c3355edb42a2aea3f55402b]
+
+#### Forms applicable in Scotland[^key-34c362397c3355edb42a2aea3f55402b]
+
+*Extent: S*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-34c362397c3355edb42a2aea3f55402b]: Textual amendment: Act repealed (1.8.2014 immediately after the Co-operative and Community Benefit Societies and Credit Unions Act 2010 came into force) by Co-operative and [Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)) (Act previously amended (1.8.2014) by Co-operative and [Community Benefit Societies and Credit Unions Act 2010 (c. 7)](https://www.legislation.gov.uk/ukpga/2010/7), [ss. 1](https://www.legislation.gov.uk/ukpga/2010/7/section/1), [8(2)](https://www.legislation.gov.uk/ukpga/2010/7/section/8/2); [S.I. 2014/183](https://www.legislation.gov.uk/uksi/2014/183), [art. 3](https://www.legislation.gov.uk/uksi/2014/183/article/3))

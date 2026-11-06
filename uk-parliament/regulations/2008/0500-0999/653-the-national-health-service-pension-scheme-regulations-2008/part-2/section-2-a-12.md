@@ -1,0 +1,46 @@
+---
+title: The National Health Service Pension Scheme Regulations 2008, section 2.A.12
+act: The National Health Service Pension Scheme Regulations 2008
+section: 2.A.12
+status: revised
+text_date: '2026-03-28'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2008/653/section/2.A.12
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service Pension Scheme Regulations 2008, section 2.A.12
+
+> Text as at 2026-03-28.
+>
+> Extent: England, Wales.
+
+## 2.A.12. Restriction on pensionable pay used for calculating benefits in respect of capped transferred-in service
+
+*Extent: E+W*
+
+(1) This regulation applies for determining the amount of a member’s pensionable pay for the purposes of calculating so much of any benefit under this Section of[^key-101ebf06596faf68825f6de56a6d54c4] the Scheme as falls to be calculated by reference to capped transferred-in service.
+
+(2) If a member’s pensionable pay exceeds the permitted maximum, the excess is disregarded for the purposes of any such calculation as is mentioned in paragraph (1).
+
+(3) In this regulation “permitted maximum” means–
+
+- (a) in relation to the tax year 2008-09, £117,600, and
+- (b) in relation to any later tax year, the figure found for that year under paragraphs (5) and (6).
+
+(4) If the retail prices index for the month of September preceding the tax year 2009-10 or any later tax year is higher than it was for the previous September, the figure for that year is an amount arrived at by—
+
+- (a) increasing the figure for the previous tax year by the same percentage as the percentage increase in the retail prices index, and
+- (b) if the result is not a multiple of £600, rounding it up to the nearest amount which is such a multiple.
+
+(5) If the retail prices index for the month of September preceding the tax year 2009-10 or any later tax year is not higher than it was for the previous September, the figure for that year is the same as for the previous tax year.
+
+(6) In this regulation—
+
+- (a) “capped transferred-in service” has the meaning given by regulation 2.F.12; and
+- (b) “pensionable pay” has the meaning given by regulation 2.A.8.
+
+## Annotations
+
+[^key-101ebf06596faf68825f6de56a6d54c4]: Textual amendment: Words in [reg. 2.A.12(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.12/1) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)

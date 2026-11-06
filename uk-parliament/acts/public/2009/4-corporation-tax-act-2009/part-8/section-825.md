@@ -1,0 +1,55 @@
+---
+title: Corporation Tax Act 2009, section 825
+act: Corporation Tax Act 2009
+section: '825'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/4/section/825
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2009, section 825
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 825. Application of sections 780 and 785 where transfer within section 824 occurs
+
+*Extent: E+W+S+N.I.*
+
+(1) This section deals with the application of—
+
+- (a) section 780 (deemed realisation and reacquisition at market value), and
+- (b) section 785 (principal company becoming member of another group),
+
+where there is a transfer within section 824.
+
+(2) If, because of the transfer, a company ceases to be a member of the same group as the building society, that event does not cause section 780 or 785 to apply as respects any asset acquired by the company from the building society or any other member of the same group.
+
+(3) If the building society and the successor company are members of the same group at the time of the transfer but later cease to be, that later event does not cause section 780 or 785 to apply to any asset to which this subsection applies.
+
+(4) Subsection (3) applies to—
+
+- (a) any asset acquired by the successor company on or before the transfer from the building society or any other member of that same group, or
+- (b) any asset acquired from the building society or any other member of that group by a company other than the successor company that is a member of that group at the time of the transfer.
+
+(5) Subsection (6) applies if a company which is a member of the same group as the building society at the time of the transfer—
+
+- (a) ceases to be a member of that group and becomes a member of the same group as the successor company, and
+- (b) later ceases to be a member of that group.
+
+(6) Section 780 applies on that later event as if any asset to which this subsection applies that has not been acquired from the successor company had been so acquired.
+
+(7) Subsection (6) applies to—
+
+- (a) any asset acquired by the company from the building society when the company and the building society were members of the same group, or
+- (b) any asset acquired by the company from another company which is a member of the same group at the time of the transfer, when the company, the building society and the other company, were members of the same group.
+
+(8) Subsection (6) does not apply if—
+
+- (a) the company which acquired the asset is a 75% subsidiary of the company from which it was acquired, or vice versa,
+- (b) those companies cease simultaneously to be members of the same group as the successor company, and
+- (c) those companies continue to be members of the same group as one another.

@@ -1,0 +1,57 @@
+---
+title: Coroners and Justice Act 2009, section 9B
+act: Coroners and Justice Act 2009
+section: 9B
+status: revised-with-pending-changes
+text_date: '2026-03-22'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2009/25/section/9B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Coroners and Justice Act 2009, section 9B
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-03-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/25
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 9B. Surrender of electronic communications devices: powers of search etc[^key-bcf05d5f2ad3770222a297aa79a5d131]
+
+*Extent: E+W*
+
+(1) This section applies where an order has been made under section 9A in respect of the members of a jury.
+
+(2) A coroners' officer must, if ordered to do so by a senior coroner, search a member of the jury in order to determine whether the juror has failed to surrender an electronic communications device in accordance with the order.
+
+(3) Subsection (2) does not authorise the officer to require a person to remove clothing other than a coat, jacket, headgear, gloves or footwear.
+
+(4) If the search reveals a device which is required by the order to be surrendered—
+
+- (a) the officer must ask the juror to surrender the device, and
+- (b) if the juror refuses to do so, the officer may seize it.
+
+(5) Subject to subsection (6), a coroners' officer may retain an article which was surrendered or seized under subsection (4) until the end of the period specified in the order.
+
+(6) If a coroners' officer reasonably believes that the device may be evidence of, or in relation to, an offence, the officer may retain it until the later of—
+
+- (a) the end of the period specified in the order, and
+- (b) the end of such period as will enable the officer to draw it to the attention of a constable.
+
+(7) A coroners' officer may not retain a device under subsection (6)(b) for a period of more than 24 hours from the time when it was surrendered or seized.
+
+(8) The Lord Chancellor may by regulations make provision as to—
+
+- (a) the provision of written information about coroners' officers' powers of retention to persons by whom devices have been surrendered, or from whom devices have been seized, under this section,
+- (b) the keeping of records about devices which have been surrendered or seized under this section,
+- (c) the period for which unclaimed devices have to be kept, and
+- (d) the disposal of unclaimed devices at the end of that period.
+
+(9) In this section—
+
+- “**electronic communications device**” has the same meaning as in section 9A;
+- “**unclaimed device**” means a device retained under this section which has not been returned and whose return has not been requested by a person entitled to it.
+
+## Annotations
+
+[^key-bcf05d5f2ad3770222a297aa79a5d131]: Textual amendment: Ss. 9A, 9B inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2015/2/schedule/13/paragraph/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/79)

@@ -1,0 +1,91 @@
+---
+title: The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012, SCHEDULE 1
+act: The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012
+section: schedule-1
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2012/3039/schedule/1
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012, SCHEDULE 1
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## SCHEDULE 1 — Additional conditions for the grant of certain project licences
+
+Regulation 9(2)
+
+> **SCHEDULE 2B — ADDITIONAL CONDITIONS FOR THE GRANT OF CERTAIN PROJECT LICENCES**
+>
+> Section 5C(4)
+>
+> **Project licences authorising the use of endangered primates**
+>
+> **1.** (1) A project licence that would authorise the application of regulated procedures to endangered primates must not be granted unless the Secretary of State has verified that the following conditions are met—
+>
+> - (a) Condition 1 or 2; and
+> - (b) Condition 3.
+>
+> (2) Condition 1 is that the programme of work to be specified in the licence is to be carried out—
+>
+> - (a) for the purpose mentioned in paragraph (b)(i) or (c) of section 5C(3); and
+> - (b) for the purpose of the avoidance, prevention, diagnosis or treatment of debilitating or potentially life-threatening clinical conditions in man.
+>
+> (3) Condition 2 is that the programme of work to be specified in the licence is to be carried out for the purpose mentioned in paragraph (e) of section 5C(3).
+>
+> (4) Condition 3 is that there is scientific justification to the effect that the purpose of the programme of work to be specified in the licence cannot be achieved by the use of animals which—
+>
+> - (a) are not primates; and
+> - (b) are not of a species listed in Annex A to the Council Regulation.
+>
+> **Project licences authorising the use of non-endangered primates**
+>
+> **2.** (1) A project licence that would authorise the application of regulated procedures to non-endangered primates must not be granted unless the Secretary of State has verified that the following conditions are met—
+>
+> - (a) Condition 4 or 5; and
+> - (b) Condition 6.
+>
+> (2) Condition 4 is that the programme of work to be specified in the licence is to be carried out—
+>
+> - (a) for the purpose mentioned in paragraph (b)(i) or (c) of section 5C(3); and
+> - (b) for the purpose of the avoidance, prevention, diagnosis or treatment of debilitating or potentially life-threatening clinical conditions in man.
+>
+> (3) Condition 5 is that the programme of work to be specified in the licence is to be carried out for the purpose mentioned in paragraph (a) or (e) of section 5C(3).
+>
+> (4) Condition 6 is that there is scientific justification to the effect that the purpose of the programme of work to be specified in the licence cannot be achieved by the use of animals which are not primates.
+>
+> **Project licences authorising the use of endangered animals that are not primates**
+>
+> **3.** (1) A project licence that would authorise the application of regulated procedures to endangered animals other than primates must not be granted unless the Secretary of State has verified that conditions 7 and 8 are met.
+>
+> (2) Condition 7 is that the programme of work to be specified in the licence is to be carried out for a purpose mentioned in paragraph (b)(i), (c) or (e) of section 5C(3).
+>
+> (3) Condition 8 is that there is scientific justification to the effect the purpose of the programme of work to be specified in the licence cannot be achieved by the use of animals which are not of a species listed in Annex A to the Council Regulation.
+>
+> **Project licences authorising the use of cats, dogs and equidae**
+>
+> **4.** (1) A project licence that would authorise the application of regulated procedures to cats, dogs or equidae must not be granted unless the Secretary of State has verified that Condition 9 is met.
+>
+> (2) Condition 9 is that the purpose of the programme of work to be specified in the licence can be achieved—
+>
+> - (a) only by the use of cats, dogs or equidae; or
+> - (b) only by the use of cats, dogs, equidae and other animals which it is not practicable to obtain.
+>
+> **Interpretation**
+>
+> **5.** In this Schedule—
+>
+> - “**the Council Regulation**” means Council Regulation [(EC) No 338/97](https://www.legislation.gov.uk/european/regulation/1997/0338)[^f00035] on the protection of species of wild fauna and flora by regulating trade therein;
+> - “**debilitating clinical condition**” means a condition which causes a reduction in a person’s normal physical or psychological ability to function;
+> - “**endangered animal**” means an animal of a species which—
+> - (a) is listed in Annex A to the Council Regulation; and
+> - (b) is not within the scope of Article 7(1) of that Regulation;
+>
+>   and “endangered primate” and “non-endangered primate” are to be construed accordingly.
+
+## Annotations
+
+[^f00035]: Footnote: OJL 61, 3.3.1997, P.1.

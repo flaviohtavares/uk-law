@@ -1,0 +1,19 @@
+---
+title: The Fresh Meat (Hygiene and Inspection) Regulations 1992, section 24
+act: The Fresh Meat (Hygiene and Inspection) Regulations 1992
+section: '24'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1992/2037/section/24
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Fresh Meat (Hygiene and Inspection) Regulations 1992, section 24
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 24. Information to be provided by the local authorities
+
+Every local authority shall provide the appropriate Minister with such information relating to the execution of its duties under these Regulations as he may from time to time require.

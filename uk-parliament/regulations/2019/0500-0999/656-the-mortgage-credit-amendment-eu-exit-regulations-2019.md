@@ -1,0 +1,249 @@
+---
+title: The Mortgage Credit (Amendment) ( EU Exit) Regulations 2019
+id: uksi/2019/656
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2019-03-25'
+text_date: '2023-07-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/656
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/656/pdfs/uksiem_20190656_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/656/pdfs/uksi_20190656_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/656/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Mortgage Credit (Amendment) ( EU Exit) Regulations 2019
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2023-07-11. See https://www.legislation.gov.uk/changes/affected/uksi/2019/656
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 656
+
+Exiting The European Union
+
+Financial Services And Markets
+
+The Mortgage Credit (Amendment) (EU Exit) Regulations 2019
+
+Made
+
+25th March 2019
+
+Coming into force in accordance with regulation 1(2)
+
+The Treasury, in exercise of the powers conferred by sections 8(1) and 23(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018[^f00001], make the following Regulations.[^key-c2a036ba07babacf91497a629f53a071]
+
+A draft of these Regulations has been approved by a resolution of each House of Parliament in accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018.[^key-c2a036ba07babacf91497a629f53a071]
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-f50439d936f015f0ef915fdbc8e595e0]
+
+(1) These Regulations may be cited as the Mortgage Credit (Amendment) (EU Exit) Regulations 2019.
+
+(2) These Regulations come into force on exit day.
+
+### 2. Interpretation[^key-0c8a5dba446190e1a3069ec787c7544c]
+
+In these Regulations “the 2015 Order” means the Mortgage Credit Directive Order 2015[^f00002].
+
+## PART 2 — Amendment of the 2015 Order
+
+### 3. Amendment of the 2015 Order[^key-2f9b1ba20ae6be6daf7e98c37ef62e00]
+
+The 2015 Order is amended by the following regulations of this Part.
+
+### 4. Article 2 (interpretation)[^key-ee0cfbb68f08e9fca2f51899d2231ff3]
+
+(1) At the beginning of article 2(2)(a) insert “subject to paragraph (3),”.
+
+(2) After article 2(2) insert—
+
+> (3) In this Order the expressions set out in paragraph (4) have the same meaning as in the mortgages directive subject to the modification made in paragraph (5).
+>
+> (4) The expressions are—
+>
+> - (a) “ancillary service” (in Article 4(4) of the mortgages directive);
+> - (b) “bridging loan” (in Article 4(23) of the mortgages directive);
+> - (c) “contingent liability or guarantee” (in Article 4(24) of the mortgages directive);
+> - (d) “creditworthiness assessment” (in Article 4(17) of the mortgages directive).
+>
+> (5) The modification is that each reference in the expression concerned to “credit agreement” is to be read as if there were substituted a reference to “buy-to-let mortgage contract” (as defined in this Order).
+
+.
+
+### 5. Article 4 (interpretation of this Part)[^key-01ac804c7359d937081feb9bd8fb6b8b]
+
+(1) Article 4 is amended as follows.
+
+(2) In paragraph (1)—
+
+- (a) in the definition of “buy-to-let mortgage contract” for paragraph (b)(i) substitute—
+
+  > - (i) falls within section 423A(2)(b) of the Act[^f00003], and
+
+  ;
+- (b) after the definition of “decision notice” insert—
+
+- “durable medium” means any instrument which enables a consumer to store information which is addressed personally to the consumer in a way accessible for future reference for a period of time adequate for the purposes for which the information is provided and which allows the unchanged reproduction of the information stored;”;
+  - (a) after the definition of “related person” omit “and” and insert—
+
+    > - “staff” means—
+    >   - (a) any individual working for a creditor or credit intermediary who—
+    >     - (i) is directly engaged in consumer buy-to-let mortgage business, or
+    >     - (ii) has contacts with consumers in the course of consumer buy-to-let mortgage business,
+    >   - (b) any individual working for a relevant person (see paragraph (1A)) who has contacts with consumers in the course of consumer buy-to-let mortgage business, or
+    >   - (c) any individual directly managing or supervising any individual falling within paragraph (a) or (b);
+
+    .
+
+(3) After paragraph (1) insert—
+
+> (1A) A “relevant person” is a person who, acting on behalf of and under the full and unconditional responsibility of only one credit intermediary, carries on one or more of the activities referred to in article 5(2) to (4).
+
+.
+
+### 6. Article 8 (register of consumer buy-to-let mortgage firms)[^key-af294b025d8a2b8bde284832fdf4fd59]
+
+In article 8(3)(f) for the words “specified in Commission Delegated Regulation (EU) No 1125/2014” to the end substitute “of such insurance or guarantee specified for mortgage intermediaries in the FCA’s Prudential sourcebook for Mortgage and Home Finance Firms, and Insurance Intermediaries as amended from time to time”.
+
+### 7. Article 33 (review)[^key-f84256203d6bed5e22743575a6d932ad]
+
+Omit article 33(2).
+
+### 8. Schedule 2 (references to ‘credit agreement’)[^key-a1bb9ea76cfdda81cdebe3874113792e]
+
+(1) In the paragraphs of Schedule 2 set out in paragraph (2)—
+
+- (a) for “credit agreement” in each place it occurs substitute “buy-to-let mortgage contract”;
+- (b) for “credit agreements” in each place it occurs substitute “buy-to-let mortgage contracts”.
+
+(2) The paragraphs of Schedule 2 are—
+
+- (a) paragraph 4(2)(c);
+- (b) paragraph 6(1)(b) and (2)(o);
+- (c) paragraph 9(6);
+- (d) paragraph 13(5)(a);
+- (e) paragraph 21.
+
+(3) In paragraph 21(17)(b) of Schedule 2 for “the agreement” substitute “the contract”.
+
+### 9. Schedule 2, paragraph 5 (general information)[^key-fd9977b0c9cdf9f14127b0fbc9794239]
+
+In paragraph 5(2)(c) of Schedule 2 for “in another EEA State” substitute “outside the United Kingdom”.
+
+### 10. Schedule 2, paragraph 12 (disclosure and verification of borrower information)[^key-252cfbea9ac735daee55d94873e9c912]
+
+In paragraph 12(2)(b) of Schedule 2 for “appointed representative” substitute “relevant person”.
+
+### 11. Schedule 2, paragraph 14 (foreign currency loans)[^key-a2411acb4a0f00fb1f9abe433cc9bc5c]
+
+In paragraph 14 of Schedule 2[^f00004] for sub-paragraph (2)(b) substitute—
+
+> - (b) pounds sterling.
+
+.
+
+### 12. Schedule 2, paragraph 21 (additional assumptions for the calculation of the annual percentage rate of charge)[^key-fcc23778a73f8574cc4c52453209bf91]
+
+In paragraph 21 of Schedule 2—
+
+- (a) in sub-paragraph (17)—
+  - (i) for “central bank” substitute “Bank of England”;
+  - (ii) for “the EEA State where the property is located” substitute “the United Kingdom”;
+- (b) insert after sub-paragraph (17)—
+
+  > (18) In this paragraph “total amount of credit” has the meaning given in paragraph 9(6).
+
+  .
+
+## PART 3 — Miscellaneous
+
+### 13. Revocation of Commission Delegated Regulation (EU) No. 1125/2014[^key-e13adfbbf23f19dac51aeb55cba496cd]
+
+Commission Delegated Regulation (EU) No. 1125/2014 of 19 September 2014 supplementing [Directive 2014/17/EU](https://www.legislation.gov.uk/european/directive/2014/0017) of the European Parliament and of the Council with regard to regulatory technical standards on the minimum monetary amount of the professional indemnity insurance or comparable guarantee to be held by credit intermediaries is revoked.
+
+### 14. Treasury regulations: annual percentage rate of change[^key-029082dca754cdace965751ccd8dd58f]
+
+(1) The Treasury may, if the condition in paragraph (2) is satisfied, by regulations amend paragraph 9(2) to (4), 20(2) or 21 of Schedule 2 to the 2015 Order (“the provisions”).
+
+(2) The condition in this paragraph is that the Treasury consider that one or more remarks or assumptions set out in the provisions—
+
+- (a) do not suffice to calculate the annual percentage rate of change within the meaning of paragraph 9(6) of Schedule 2 to the 2015 Order in a uniform manner, or
+- (b) are no longer adapted to the commercial situation of the market.
+
+(3) The power to make regulations under paragraph (1) is exercisable by statutory instrument.
+
+(4) Such regulations may—
+
+- (a) contain incidental, supplemental, consequential and transitional provision;
+- (b) make different provision for different purposes.
+
+(5) A statutory instrument containing regulations made under this regulation is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+Mike Freer
+
+Rebecca Harris
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+25th March 2019
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made in exercise of the powers in sections 8 and 23 of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) in order to address failures of retained EU law to operate effectively and other deficiencies arising from the withdrawal of the United Kingdom from the European Union (see section 8(2)(d), (f) and (g) of that Act).
+
+These Regulations make amendments to legislation in the field of the regulation of credit relating to residential property. Part 2 amends the Mortgage Credit Directive Order 2015 ([S.I. 2015/910](https://www.legislation.gov.uk/uksi/2015/910)). Part 3 revokes binding technical standards made by EU entities. It also creates a power for the Treasury to make regulations (in place of a power for the European Commission to adopt delegated acts in Article 17(8) of [Directive 2014/17/EU](https://www.legislation.gov.uk/european/directive/2014/0017) of 4 February 2014 on credit agreements for consumers relating to residential immovable property and amending Directives [2008/48/EC](https://www.legislation.gov.uk/european/directive/2008/0048) and [2013/36/EU](https://www.legislation.gov.uk/european/directive/2013/0036) and Regulation (EU) No 1093/2010 (OJ No. L 60, 28.2.2014, p. 34.)).
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-c2a036ba07babacf91497a629f53a071]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^key-f50439d936f015f0ef915fdbc8e595e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/656/regulation/1) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+
+[^key-0c8a5dba446190e1a3069ec787c7544c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/656/regulation/2) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+
+[^f00002]: Footnote: [S.I. 2015/910](https://www.legislation.gov.uk/uksi/2015/910); amended by [S.I. 2015/1557](https://www.legislation.gov.uk/uksi/2015/1557).
+
+[^key-2f9b1ba20ae6be6daf7e98c37ef62e00]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/656/regulation/3) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+
+[^key-ee0cfbb68f08e9fca2f51899d2231ff3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/656/regulation/4) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+
+[^key-01ac804c7359d937081feb9bd8fb6b8b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/656/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+
+[^f00003]: Footnote: Section 423A was inserted into the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) by [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
+
+[^key-af294b025d8a2b8bde284832fdf4fd59]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/656/regulation/6) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+
+[^key-f84256203d6bed5e22743575a6d932ad]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/656/regulation/7) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+
+[^key-a1bb9ea76cfdda81cdebe3874113792e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/656/regulation/8) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+
+[^key-fd9977b0c9cdf9f14127b0fbc9794239]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/656/regulation/9) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+
+[^key-252cfbea9ac735daee55d94873e9c912]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/656/regulation/10) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+
+[^key-a2411acb4a0f00fb1f9abe433cc9bc5c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/656/regulation/11) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+
+[^f00004]: Footnote: [S.I. 2015/910](https://www.legislation.gov.uk/uksi/2015/910); amended by [S.I. 2015/1557](https://www.legislation.gov.uk/uksi/2015/1557).
+
+[^key-fcc23778a73f8574cc4c52453209bf91]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/656/regulation/12) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+
+[^key-e13adfbbf23f19dac51aeb55cba496cd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/656/regulation/13) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+
+[^key-029082dca754cdace965751ccd8dd58f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2019/656/regulation/14) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)

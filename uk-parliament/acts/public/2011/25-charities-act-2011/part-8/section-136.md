@@ -1,0 +1,35 @@
+---
+title: Charities Act 2011, section 136
+act: Charities Act 2011
+section: '136'
+status: revised
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2011/25/section/136
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Charities Act 2011, section 136
+
+> Text as at 2026-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 136. Exempt charities
+
+*Extent: E+W*
+
+(1) Nothing in sections 130 to 134 (preparation and preservation of individual accounts) applies to an exempt charity.
+
+(2) But the charity trustees of an exempt charity—
+
+- (a) must keep proper books of account with respect to the affairs of the charity, and
+- (b) if not required by or under the authority of any other Act to prepare periodical statements of account must prepare consecutive statements of account consisting on each occasion of—
+  - (i) an income and expenditure account relating to a period of not more than 15 months, and
+  - (ii) a balance sheet relating to the end of that period.
+
+(3) The books of accounts and statements of account relating to an exempt charity must be preserved for a period of at least 6 years unless—
+
+- (a) the charity ceases to exist, and
+- (b) the Commission consents in writing to their being destroyed or otherwise disposed of.

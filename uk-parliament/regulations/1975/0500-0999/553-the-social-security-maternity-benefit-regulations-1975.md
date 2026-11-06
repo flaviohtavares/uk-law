@@ -1,0 +1,215 @@
+---
+title: The Social Security (Maternity Benefit) Regulations 1975
+id: uksi/1975/553
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1975-04-03'
+text_date: '2018-11-15'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1975/553
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1975/553/pdfs/uksi_19750553_en.pdf
+- http://www.legislation.gov.uk/uksi/1975/553/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Social Security (Maternity Benefit) Regulations 1975
+
+> Text as at 2018-11-15.
+
+1975 No. 553
+
+SOCIAL SECURITY
+
+The Social Security (Maternity Benefit) Regulations 1975
+
+Made
+
+3rd April 1975
+
+Laid before Parliament
+
+4th April 1975
+
+Coming into Operation
+
+6th April 1975
+
+The Secretary of State for Social Services, in exercise of powers conferred by sections 17(2), 21(4) and (5), 22(1) and (6) to (9), 33 and 79(4) of the Social Security Act 1975 and section 2 of, and paragraph 3 of Schedule 3 to, the Social Security (Consequential Provisions) Act 1975 and of all other powers enabling her in that behalf, without having referred any proposals on the matter to the National Insurance Advisory Committee since it appears to her that by reason of urgency it is inexpedient to do so, hereby makes the following regulations:—
+
+## 1. Citation, commencement and interpretation
+
+(1) These regulations may be cited as the Social Security (Maternity Benefit) Regulations 1975 and shall come into operation on 6th April 1975.
+
+(2) In these regulations, unless the context otherwise requires—
+
+- “**the Act**” means the Social Security Act 1975;
+- “[^M_F_3d33d369-f4d1-428b-cb4b-78ea7b5be33a]**child benefit**” means benefit under Part I of the Child Benefit Act 1975;
+- “**the determining authority**” means, as the case may require, the insurance officer, local tribunal or a Commissioner by whom the relevant question falls to be determined under Part III of the Act;
+- “**expected week of confinement**” means, in relation to a woman who is pregnant, the week in which it is to be expected that she will be confined and, in relation to a woman who has been confined, the week in which it was to have been expected that she would be confined;
+- “**qualifying period**” has the meaning assigned to it in regulation 3B;
+- “**serving member of the forces**” has the same meaning as in regulation 1(2) of the Social Security (Contributions) Regulations 1979 except that it does not include:—
+  - (a) a member of any territorial or reserve force mentioned in Part I of Schedule 3 to those regulations who is not undergoing training or instruction as such a member for a continuous period exceeding 72 consecutive hours, or
+  - (b) a member of the Ulster Defence Regiment who is neither serving also as a member of any of the regular naval, military or air forces of the Crown, nor on the full-time permanent staff of that regiment, nor serving or undergoing training in that regiment for a continuous period exceeding 72 consecutive hours;
+
+and other expressions have the same meanings as in the Act.
+
+(2A)[^M_F_b174a67c-1b5e-4dd6-e639-ef4dfd12811b] For the purposes of regulations 3, 3A and 3B if, at the beginning of any day, a woman is either present in or absent from Great Britain, that state of affairs shall be treated as continuing throughout that day.
+
+(3) Unless the context otherwise requires, any reference in these regulations—
+
+- (a) to a numbered section or Schedule is to the section of or, as the case may be, the Schedule to the Act bearing that number;
+- (b) to a numbered regulation is a reference to the regulation bearing that number in these regulations and any reference in a regulation to a numbered paragraph is a reference to the paragraph of that regulation bearing that number;
+- (c) any provision made by or contained in any enactment or instrument shall be construed as a reference to that provision as amended or extended by any enactment or instrument and as including a reference to any provision which it re-enacts or replaces, or which may re-enact or replace it, with or without modification.
+
+(4) The rules for the construction of Acts of Parliament contained in the Interpretation Act 1889 shall apply for the purposes of the interpretation of these regulations as they apply for the purposes of the interpretation of an Act of Parliament.
+
+## 2. Maternity grants in respect of multiple births
+
+A woman who has given birth to twins or a greater number of children shall, if the other conditions for the payment of a maternity grant are satisfied in respect of the confinement, be entitled to a maternity grant for each child who has lived for at least 12 hours after being born; but it shall be a condition for such entitlement that she makes a claim for the grant before the expiration of the prescribed time for making a claim for it and furnishes sufficient evidence as to the number of the children who lived for at least 12 hours after being born.
+
+## 3. Maternity grant in respect of expectation of confinement
+
+Where a woman makes a claim for a maternity grant and indicates in it that she wishes that the provisions of section 21 (which confers title to a maternity grant) shall apply to her with the substitution, for the condition that she has been confined, of the condition that she is pregnant and has reached a stage in her pregnancy which is not more than 11 weeks before the expected week of confinement, then that section shall so apply to her in relation to that claim and[^M_F_68e6638d-6dd0-4958-c2d4-e2da53d6afad]
+
+- (a) where the expected week of confinement ends on or before 3rd July 1982, the contribution conditions for a maternity grant as set out in paragraph 2 of Schedule 3 shall apply in her case as if, for sub-paragraph (4)(a) of that paragraph, there were substituted the following:—
+
+  > - (a) \`the relevant time' is the beginning of the week in which it is to be expected that the claimant will be confined or, where the relevant person is the husband and he was dead or over pensionable age when the claim was made, the date of his attaining pensionable age or dying under that age;
+
+  ;
+- (b) where the expected week of confinement begins on or after 4th July 1982 the prescribed conditions as to presence in Great Britain shall be that:
+  - (i) she must have been present in Great Britain for a period of, or periods amounting in aggregate to, more than 182 days in the 52 weeks immediately preceding the expected week of confinement, and
+  - (ii) she must be present in Great Britain on the date of her claim;
+- (c) any qualifying period or periods may be included as part of the total of more than 182 days referred to in paragraph (b)(i);
+- (d) paragraph (b)(ii) shall not apply to a woman who, at the date of claim, is a serving member of the forces or who is the wife of a serving member of the forces and is residing with him.
+
+## 3A. Maternity grant after confinement[^M_F_4d20a4da-3697-498c-c1ea-b9c83a4bcf2b]
+
+(1) The prescribed condition as to presence in Great Britain to be satisfied by a woman for the purposes of section 21(1), where a claim for maternity grant is made after confinement and the date of confinement is on or after 4th July 1982, shall be that she must have been present in Great Britain for a period of, or periods amounting in aggregate to, more than 182 days in the 52 weeks immediately preceding the date of confinement.
+
+(2) Any qualifying period or periods may be included as part of the total of more than 182 days referred to in paragraph (1).
+
+## 3B. Temporary absences from Great Britain
+
+A qualifying period shall mean any day or days during which a woman is temporarily absent from Great Britain during the 52 weeks referred to in regulations 3(b)(i) and 3A(1) where
+
+- (a) that day or those days form part of any week or weeks for which she is entitled to child benefit; or
+- (b) her absence is due to her own employment or, where she is residing with him, her husband's employment and either Class 1 contributions are payable in respect of that employment, or the employment for the first 52 weeks of absence was treated as employed earner's employment by virtue of regulation 120 of the Social Security (Contributions) Regulations 1979; or
+- (c) her absence is due to her own employment or, where she is residing with him, her husband's employment and Class 1 contributions would have been payable in respect of that employment or in respect of the first 52 weeks of that employment by virtue of the said regulation 120 but for the provisions of either an Order in Council made under section 143 or Council Regulation No. 1408/71/EEC, as amended from time to time, or Regulation[^key-11f2447c7652b0d9ef8cda2790de9b8a] [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) of the European Parliament and of the Council of 29 April 2004, as amended from time to time, on the coordination of social security systems; or
+- (d) her absence is due to her own employment or, where she is residing with him, her husband's employment, and a Class 2 or Class 3 contribution is paid for the week or weeks of which that day or those days form part; or
+- (e) her absence is due to her service as a serving member of the forces or, where she is the wife of a serving member of the forces and is residing with him, her absence is due to her husband's service.
+
+## 4. Conditions attaching to a maternity allowance in respect of expectation of confinement
+
+(1) For the purposes of section 22(1)(a) (which specifies, as a condition of a woman's entitlement to a maternity allowance, the condition that she shall have reached a stage in her pregnancy which is not more than the prescribed number of weeks before the expected week of confinement), the prescribed number of weeks shall be 11[^M_F_82d5f519-0ef3-435b-f385-66faa3fc0111].
+
+(2)[^M_F_2e537a42-4e0c-4dcd-8877-72b293069981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A woman who has made a claim for a maternity allowance in respect of expectation of her confinement shall, on receipt of not less than 3 clear days' notice in writing given by or on behalf of the Secretary of State, submit herself to medical examination at such time and place as may be specified in the notice, unless she has been confined by then.
+
+## 5. Duration of a maternity allowance in respect of expectation of confinement
+
+(1)[^M_F_a09ede6b-31cc-41c9-d506-6578793e5c22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Subject to paragraph (3), where a woman has become entitled to a maternity allowance in expectation of her confinement and the date of the confinement has not occured before the end of the expected week of confinement—
+
+- (a) if she has not been confined before the end of the maternity allowance period, it shall be extended for a period of 6 weeks and thereafter if and so long as she has still not been confined, be further extended for a like period at intervals of 6 weeks; and
+- (b) if she was confined before the end of the maternity allowance period, or before the end of that period as extended or further extended in accordance with sub-paragraph (a), it shall be extended or further extended until the end of the 6th week after the week in which she was confined.
+
+(3) No extension or further extension shall be made in accordance with paragraph (2)[^M_F_bbd61efa-64b3-4cfd-c328-4d8f40fec89e]... unless—
+
+- (a) the beneficiary gives to the Secretary of State written notice, in such form as is approved by him for the purpose, that it is still to be expected that she will be confined or (as the case may be) that she has been confined; and
+- (b) that notice is given before the expiration of 6 weeks, or such longer period, not exceeding three months, as the determining authority may for good cause allow, calculated—
+  - (i) in a case falling within paragraph (2)(a), from the end of the maternity allowance period or that period as extended or further extended; or
+  - (ii) in a case falling within paragraph (2)(b), from the end of the week in which she was confined; and
+- (c) the beneficiary thereafter furnishes sufficient evidence in confirmation of her notice.
+
+## 6. Conditions for, and duration of, a maternity allowance by virtue of the fact of confinement[^M_F_73e022b3-b66a-4503-a67f-11307d17873b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Modification of s.22(5)[^M_F_ae7092df-f3c7-4aa3-e6c6-e1f4b7fc797e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Maternity allowance at a reduced rate where contribution conditions are not satisfied in full
+
+(1) Where a woman would be entitled to a maternity allowance but for the fact that the second contribution condition set out in paragraph 3 of Schedule 3 is not satisfied, she shall, if a rate is prescribed for her in paragraph (2), be entitled to such benefit at that rate.
+
+(2) The weekly rate of the allowance shall be calculated as a percentage of the rate set out in Part I of Schedule 4; in a case where the second contribution condition would have been satisfied if the multiplier in that condition (instead of being 50) had been 37½ that percentage shall be 75 per cent, and in a case where that condition would have been satisfied if the multiplier had been 25, it shall be 50 per cent.
+
+(3)[^M_F_12d6755b-9549-4359-a186-7b7ebde14a01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Disqualification for the receipt of a maternity allowance[^M_F_ec814cf4-7ca4-4128-8907-37e4dacb6b9b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Days to be treated as days of incapacity[^M_F_377178f4-e9d7-4ab8-b3cd-d3807a9ca243]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Special provision for certain persons who have been employed abroad[^M_F_114c61d9-45bc-417c-f8d4-85aecbb08134]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Special provisions relating to delay or failure in claiming maternity allowance
+
+For the purposes of section 22(4) (earnings-related supplement of maternity allowance), a woman shall be treated as having been entitled to maternity allowance for any day if she would have been so entitled but for any delay or failure to make or prosecute a claim, so however that she shall not be so treated where she shows that she did not intend, by failing to acquire or establish a right to benefit for that day, to cause a new period of interruption of employment to begin for the purposes of earnings-related supplement.
+
+## 13. Transitional provisions[^M_F_e7cfc532-e7df-4786-f3cb-6c7c5d5f9b40]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Social Services.
+
+Brian O'Malley
+
+Minister of State
+
+Department of Health and Social Security
+
+EXPLANATORY NOTE
+
+These Regulations contain provisions relating to maternity benefit under the Social Security Act 1975.
+
+The provisions relate to: payment of more than one maternity grant in respect of multiple births (regulation 2); entitlement to a maternity grant in expectation of confinement (regulation 3); conditions for, and duration of, a maternity allowance whether in expectation of confinement or by virtue of confinement (regulations 4 to 7); entitlement to maternity allowance at a reduced rate where the contribution conditions are not satisfied in full (regulation 8); disqualification for the receipt of a maternity allowance in certain circumstances (regulation 9); days to be treated as days of incapacity for work (regulation 10). Special provisions are made for certain persons who have been employed abroad (regulation 11) and for persons who have delayed or failed in claiming maternity allowance (regulation 12).
+
+The Regulations also contain transitional provisions.
+
+## Annotations
+
+[^M_F_3d33d369-f4d1-428b-cb4b-78ea7b5be33a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1975/553/regulation/1/2) inserted (1.4.1982) by [The Social Security (Maternity Grant) Regulations 1981 (S.I. 1981/1157)](https://www.legislation.gov.uk/uksi/1981/1157), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1157/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1981/1157/regulation/2/2)
+
+[^M_F_b174a67c-1b5e-4dd6-e639-ef4dfd12811b]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/uksi/1975/553/regulation/1/2A) inserted (1.4.1982) by [The Social Security (Maternity Grant) Regulations 1981 (S.I. 1981/1157)](https://www.legislation.gov.uk/uksi/1981/1157), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1157/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1981/1157/regulation/2/3)
+
+[^M_F_68e6638d-6dd0-4958-c2d4-e2da53d6afad]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1975/553/regulation/3) substituted (1.4.1982) by [The Social Security (Maternity Grant) Regulations 1981 (S.I. 1981/1157)](https://www.legislation.gov.uk/uksi/1981/1157), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1157/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/1981/1157/regulation/2/4)
+
+[^M_F_4d20a4da-3697-498c-c1ea-b9c83a4bcf2b]: Textual amendment: [Regs. 3A](https://www.legislation.gov.uk/uksi/1975/553/regulation/3A), [3B](https://www.legislation.gov.uk/uksi/1975/553/regulation/3B) inserted (1.4.1982) by [The Social Security (Maternity Grant) Regulations 1981 (S.I. 1981/1157)](https://www.legislation.gov.uk/uksi/1981/1157), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1157/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/1981/1157/regulation/2/5)
+
+[^key-11f2447c7652b0d9ef8cda2790de9b8a]: Textual amendment: Words in reg. 3B(c) inserted (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) Regulations 2018 (S.I. 2018/1084)](https://www.legislation.gov.uk/uksi/2018/1084), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1084/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/1084/schedule/paragraph/1)
+
+[^M_F_82d5f519-0ef3-435b-f385-66faa3fc0111]: Textual amendment: Word in reg. 4(1) substituted (30.6.1986) by [The Social Security (Claims and Payments, Hospital In-Patients and Maternity Benefit) Amendment Regulations 1986 (S.I. 1986/903)](https://www.legislation.gov.uk/uksi/1986/903), [regs. 1](https://www.legislation.gov.uk/uksi/1986/903/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/1986/903/regulation/4/1)
+
+[^M_F_2e537a42-4e0c-4dcd-8877-72b293069981]: Textual amendment: Reg. 4(2) revoked (30.6.1986) by [The Social Security (Claims and Payments, Hospital In-Patients and Maternity Benefit) Amendment Regulations 1986 (S.I. 1986/903)](https://www.legislation.gov.uk/uksi/1986/903), [regs. 1](https://www.legislation.gov.uk/uksi/1986/903/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1986/903/regulation/4/2)
+
+[^M_F_a09ede6b-31cc-41c9-d506-6578793e5c22]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/1975/553/regulation/5/1) revoked (6.4.1987) by virtue of [The Social Security (Maternity Allowance) Regulations 1987 (S.I. 1987/416)](https://www.legislation.gov.uk/uksi/1987/416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1987/416/regulation/1/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1987/416/schedule/part/1) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/1987/416/regulation/4/2))
+
+[^M_F_bbd61efa-64b3-4cfd-c328-4d8f40fec89e]: Textual amendment: Word in [reg. 5(3)](https://www.legislation.gov.uk/uksi/1975/553/regulation/5/3) omitted (1.4.1982) by [The Social Security (Maternity Grant) Regulations 1981 (S.I. 1981/1157)](https://www.legislation.gov.uk/uksi/1981/1157), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1157/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/1981/1157/regulation/2/6)
+
+[^M_F_73e022b3-b66a-4503-a67f-11307d17873b]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1975/553/regulation/6) revoked (6.4.1987) by virtue of [The Social Security (Maternity Allowance) Regulations 1987 (S.I. 1987/416)](https://www.legislation.gov.uk/uksi/1987/416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1987/416/regulation/1/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1987/416/schedule/part/1) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/1987/416/regulation/4/2))
+
+[^M_F_ae7092df-f3c7-4aa3-e6c6-e1f4b7fc797e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1975/553/regulation/7) revoked (6.4.1987) by virtue of [The Social Security (Maternity Allowance) Regulations 1987 (S.I. 1987/416)](https://www.legislation.gov.uk/uksi/1987/416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1987/416/regulation/1/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1987/416/schedule/part/1) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/1987/416/regulation/4/2))
+
+[^M_F_12d6755b-9549-4359-a186-7b7ebde14a01]: Textual amendment: Reg. 8(3) revoked (4.4.1977) by [The Social Security Benefit (Dependency) Regulations 1977 (S.I. 1977/343)](https://www.legislation.gov.uk/uksi/1977/343), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1977/343/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1977/343/schedule/3)
+
+[^M_F_ec814cf4-7ca4-4128-8907-37e4dacb6b9b]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1975/553/regulation/9) revoked (6.4.1987) by virtue of [The Social Security (Maternity Allowance) Regulations 1987 (S.I. 1987/416)](https://www.legislation.gov.uk/uksi/1987/416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1987/416/regulation/1/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1987/416/schedule/part/1) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/1987/416/regulation/4/2))
+
+[^M_F_377178f4-e9d7-4ab8-b3cd-d3807a9ca243]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1975/553/regulation/10) revoked (6.4.1987) by virtue of [The Social Security (Maternity Allowance) Regulations 1987 (S.I. 1987/416)](https://www.legislation.gov.uk/uksi/1987/416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1987/416/regulation/1/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1987/416/schedule/part/1) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/1987/416/regulation/4/2))
+
+[^M_F_114c61d9-45bc-417c-f8d4-85aecbb08134]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1975/553/regulation/11) revoked (6.4.1987) by virtue of [The Social Security (Maternity Allowance) Regulations 1987 (S.I. 1987/416)](https://www.legislation.gov.uk/uksi/1987/416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1987/416/regulation/1/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1987/416/schedule/part/1) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/1987/416/regulation/4/2))
+
+[^M_F_e7cfc532-e7df-4786-f3cb-6c7c5d5f9b40]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1975/553/regulation/13) revoked (1.4.1982) by virtue of [The Social Security (Maternity Grant) Regulations 1981 (S.I. 1981/1157)](https://www.legislation.gov.uk/uksi/1981/1157), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1157/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/1981/1157/regulation/2/8)

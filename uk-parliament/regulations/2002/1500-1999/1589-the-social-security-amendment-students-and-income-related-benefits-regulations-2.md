@@ -1,0 +1,291 @@
+---
+title: The Social Security Amendment (Students and Income-related Benefits) Regulations 2002
+id: uksi/2002/1589
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2002-06-13'
+text_date: '2006-03-06'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2002/1589
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/1589/pdfs/uksi_20021589_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/1589/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security Amendment (Students and Income-related Benefits) Regulations 2002
+
+> Text as at 2006-03-06.
+
+2002 No. 1589
+
+SOCIAL SECURITY
+
+The Social Security Amendment (Students and Income-related Benefits) Regulations 2002
+
+Made
+
+13th June 2002
+
+Laid before Parliament
+
+21st June 2002
+
+Coming into force in accordance with regulation 1(1)
+
+The Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 123(1)(a), (d) and (e), 130(2), 136(3) and (5)(b), 137(1) and 175(1), (3) and (4) of the Social Security Contributions and Benefits Act 1992[^c960272] and sections 12(1) and (4)(b), 35(1) and 36(2) of the Jobseekers Act 1995[^c960273] and of all other powers enabling him in that behalf, after consultation, in respect of provisions in these Regulations relating to housing benefit and council tax benefit, with organisations appearing to him to be representative of the authorities concerned[^c960274] and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^c960275], hereby makes the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Social Security Amendment (Students and Income-related Benefits) Regulations 2002 and shall come into force—
+
+- (a) for the purposes of this regulation and regulation 2, on 1st August 2002;
+- (b) for the purposes of regulations 3 to 6—
+  - (i) in the case of a student whose period of study begins on or after 1st August 2002 but before 26th August 2002, on the day the period of study begins;
+  - (ii) in any other case, on 26th August 2002.
+
+(2) In these Regulations—
+
+[^key-53809f7081c54599bcf170d10d7a2ef5]...
+
+[^key-53809f7081c54599bcf170d10d7a2ef5]...
+
+“the Income Support Regulations” means the Income Support (General) Regulations 1987 [^c960278];
+
+“the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations 1996 [^c960279].
+
+## 2. Definitions
+
+(1) In the provisions specified in paragraph (2) below—
+
+- (a) in the definition of “access funds”, the word “or” at the end of paragraph (c) shall be omitted and after paragraph (d), there shall be added the following—
+
+  > or
+  >
+  > - (e) Financial Contingency Funds made available by the National Assembly for Wales;
+
+  ;
+- (b) for the definition of “periods of experience”, there shall be substituted the following definition—
+
+  > “periods of experience” means periods of work experience which form part of a sandwich course;
+
+  ;
+- (c) in the definition of “sandwich course”—
+  - (i) for the words “Education (Student Support) Regulations 2000” there shall be substituted the words “ Education (Student Support) Regulations 2002 [^c960280] ”;
+  - (ii) for the words “Education (Student Support) Regulations (Northern Ireland) 2000” there shall be substituted the words “ Education (Student Support) Regulations (Northern Ireland) 2001 [^c960281] ”.
+
+(2) The provisions specified for the purposes of paragraph (1) above [^c960282] (students: interpretation) are—
+
+- (a)[^key-80a87e32d1d6abd061236ca5bf526eaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-80a87e32d1d6abd061236ca5bf526eaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) regulation 61(1) of the Income Support Regulations.
+
+(3) In the Jobseeker’s Allowance Regulations—
+
+- (a) in the definition of “sandwich course” in regulation 1(3) (interpretation)—
+  - (i) for the words “Education (Student Support) Regulations 2000” there shall be substituted the words “ Education (Student Support) Regulations 2002 ”;
+  - (ii) for the words “Education (Student Support) Regulations (Northern Ireland) 2000” there shall be substituted the words “ Education (Student Support) Regulations (Northern Ireland) 2001 ”;
+- (b) in regulation 130 (students: interpretation)—
+  - (i) in the definition of “access funds”, the word “or” at the end of paragraph (c) shall be omitted and after paragraph (d), there shall be added the following—
+
+    > or
+    >
+    > - (c) Financial Contingency Funds made available by the National Assembly for Wales;
+
+    ;
+  - (ii) for the definition of “periods of experience”, there shall be substituted the following definition—
+
+    > “periods of experience” means periods of work experience which form part of a sandwich course;
+
+    .
+
+## 3. Disregards
+
+(1) In sub-paragraph (a) of each of the provisions specified in paragraph (3) below, for the sum “£260” there shall be substituted the sum “ £265 ”.
+
+(2) In sub-paragraph (b) of each of the provisions specified in paragraph (3) below, for the sum “£319” there shall be substituted the sum “ £327 ”.
+
+(3) The provisions specified for the purposes of paragraphs (1) and (2) above [^c960283] (which relate respectively to sums to be disregarded from the calculation of grant income and from student loans) are—
+
+- (a)[^key-c48f4ad6cd45706657fbdcbfec682e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-c48f4ad6cd45706657fbdcbfec682e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) regulations 62(2A) and 66A(5) of the Income Support Regulations;
+- (d) regulations 131(3) and 136(5) of the Jobseeker’s Allowance Regulations.
+
+## 4. Calculation of grant income
+
+(1) In each of the provisions specified in paragraph (2) below—
+
+- (a) at the end of sub-paragraph (c), there shall be added the words “or under regulation 16 of the Education (Student Support) Regulations (Northern Ireland) 2001”;
+- (b) after sub-paragraph (c), there shall be inserted the following paragraph—
+
+  > - (cc) the child care component of the National Assembly for Wales Learning Grant;
+
+  .
+
+(2) The provisions specified for the purposes of paragraph (1) above [^c960284] are—
+
+- (a)[^key-8e1c09a6a43e441c0a42e9d230c5a2dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-8e1c09a6a43e441c0a42e9d230c5a2dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) regulation 62(2B) of the Income Support Regulations;
+- (d) regulation 131(3A) of the Jobseeker’s Allowance Regulations.
+
+(3) In each of the provisions specified in paragraph (4) below—
+
+- (a) in sub-paragraph (a), for the words “in that period” there shall be substituted the words “ in the period beginning with the benefit week, the first day of which coincides with, or immediately follows, the first day of the period of study and ending with the benefit week, the last day of which coincides with, or immediately precedes, the last day of the period of study ”;
+- (b) in sub-paragraph (b), for the words “in respect of which it is payable” there shall be substituted the words “ beginning with the benefit week, the first day of which coincides with, or immediately follows, the first day of the period for which it is payable and ending with the benefit week, the last day of which coincides with, or immediately precedes, the last day of the period for which it is payable ”.
+
+(4) The provisions specified for the purposes of paragraph (3) above are—
+
+- (a)[^key-7b7d49f5afb98134ed71c57fee977b68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-7b7d49f5afb98134ed71c57fee977b68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) regulation 62(3) of the Income Support Regulations;
+- (d) regulation 131(4) of the Jobseeker’s Allowance Regulations.
+
+(5) In each of the provisions specified in paragraph (6) below—
+
+- (a) at the beginning, there shall be inserted the words “In a case where a student is in receipt of a student loan or where he could have acquired a student loan by taking reasonable steps but had not done so,”;
+- (b) for the words “would have been apportioned had he had one” there shall be substituted the words “ , as the case may be, would have been apportioned ”.
+
+(6) The provisions specified for the purposes of paragraph (5) above [^c960285] are—
+
+- (a)[^key-6cca4a19e992c6abac105b633a04b395] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-6cca4a19e992c6abac105b633a04b395] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) regulation 62(3B) of the Income Support Regulations;
+- (d) regulation 131(5A) of the Jobseeker’s Allowance Regulations.
+
+(7) In each of the provisions specified in paragraph (8) below, for the words “the remaining weeks in that period” there shall be substituted the words “ the weeks in the period beginning with the benefit week, the first day of which immediately follows the last day of the period of experience and ending with the benefit week, the last day of which coincides with, or immediately precedes, the last day of the period of study ”.
+
+(8) The provisions specified for the purposes of paragraph (7) above are—
+
+- (a)[^M_F_a033f95f-a180-48cb-c3d2-b48a91990c80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^M_F_86f57e6d-b077-4097-a854-fbcd01157c4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) regulation 62(4) of the Income Support Regulations;
+- (d) regulation 131(6) of the Jobseeker’s Allowance Regulations.
+
+## 5. Treatment of student loans
+
+(1) This regulation amends the provisions specified in paragraph (6) below and references in this regulation to sub-paragraphs are to the relevant sub-paragraphs of those provisions.
+
+(2) For sub-paragraph (a), there shall be substituted the following—
+
+> - (a) in respect of a course that is of a single academic year’s duration or less, a loan which is payable in respect of that period shall be apportioned equally between the weeks in the period beginning with—
+>   - (i) except in a case where (ii) below applies, the benefit week, the first day of which coincides with, or immediately follows, the first day of the single academic year;
+>   - (ii) where the student is required to start attending the course in August or where the course is of less than an academic year’s duration, the benefit week, the first day of which coincides with, or immediately follows, the first day of the course,
+>
+>   and ending with the benefit week, the last day of which coincides with, or immediately precedes, the last day of the course;
+
+.
+
+(3) In sub-paragraph (aa), for the words “immediately following that which includes the first day of that academic year and ending with the benefit week which includes”, there shall be substituted the words “ , the first day of which coincides with, or immediately follows, the first day of that academic year and ending with the benefit week, the last day of which coincides with, or immediately precedes, ”.
+
+(4) In sub-paragraph (b)—
+
+- (a) the words “the earlier of” shall be omitted;
+- (b) for heads (i) and (ii), there shall be substituted the following heads—
+
+  > - (i) except in a case where (ii) below applies, the benefit week, the first day of which coincides with, or immediately follows, the first day of that academic year;
+  > - (ii) where the final academic year starts on 1st September, the benefit week, the first day of which coincides with, or immediately follows, the earlier of 1st September or the first day of the autumn term;
+
+  ;
+- (c) for the words “the last day of the last benefit week before”, there shall be substituted the words “ the benefit week, the last day of which coincides with, or immediately precedes, ”.
+
+(5) In sub-paragraph (c)—
+
+- (a) for head (ii), there shall be substituted the following head—
+
+  > - (ii) the benefit week, the first day of which coincides with, or immediately follows, the first day of the autumn term,
+
+  ;
+- (b) for the words “the last day of the last benefit week in June”, there shall be substituted the words “ the benefit week, the last day of which coincides with, or immediately precedes, the last day of June ”.
+
+(6) The provisions specified for the purposes of this regulation [^c960286] above are—
+
+- (a)[^key-afdf619b0d4a8eb791d558eb59ddba65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-afdf619b0d4a8eb791d558eb59ddba65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) regulation 66A(2) of the Income Support Regulations;
+- (d) regulation 136(2) of the Jobseeker’s Allowance Regulations.
+
+## 6. Eligible rent[^key-24e725b6ebe3af7f3c7bbd644eb0f9f9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Malcolm Wicks
+
+Parliamentary Under-Secretary of State,
+
+Department for Work and Pensions
+
+*(This note is not part of the Regulations)*
+
+These Regulations amend the Council Tax Benefit (General) Regulations 1992 (S.I. 1992/1814), the Housing Benefit (General) Regulations 1987 (S.I. 1987/1971), the Income Support (General) Regulations 1987 (S.I. 1987/1967) and the Jobseeker’s Allowance Regulations 1996 (S.I. 1996/207) in so far as those Regulations apply to students.
+
+In particular, they—
+
+amend the definitions of “access funds”, “periods of experience” and of “sandwich course” (regulation 2);
+
+increase the amounts of grant and loan income to be disregarded in respect of books and equipment and for travel costs (regulation 3);
+
+provide for the disregard of childcare grants payable under Northern Ireland legislation and of the child care component of National Assembly for Wales Learning Grants (regulation 4(1) and (2));
+
+provide for both grant income and student loans to be apportioned over complete benefit weeks (regulations 4(3), (4), (7) and (8) and 5);
+
+clarify the position as regards the apportionment of amounts in grants intended for the maintenance of dependents (regulation 4(5) and (6));
+
+abolish the student rent deduction and make consequential amendments (regulation 6).
+
+These Regulations do not impose any charge on business.
+
+## Annotations
+
+[^c960272]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4); [section 123(1)(e)](https://www.legislation.gov.uk/uksi/2002/1589/section/123/1/e) was inserted and section 137 amended, with respect to council tax benefit, by Schedule 9 to the [Local Government Finance Act 1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14), [paragraphs 1](https://www.legislation.gov.uk/ukpga/1992/14/paragraph/1) and 9. Section 137(1) is an interpretation provision and is cited because of the meaning ascribed to the word “prescribed”.
+
+[^c960273]: Marginal citation: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18); [section 35(1)](https://www.legislation.gov.uk/uksi/2002/1589/section/35/1) is an interpretation provision and is cited because of the meaning ascribed to the words “prescribed” and “regulations”.
+
+[^c960274]: Marginal citation: *See* section 176(1) of the Social Security Administration Act 1992.
+
+[^c960275]: Marginal citation: *See* sections 170 and 173(1)(b) of the Social Security Administration Act 1992; [paragraph 67](https://www.legislation.gov.uk/uksi/2002/1589/paragraph/67) of Schedule 2 to the Jobseekers Act 1995 added that Act to the list of “relevant enactments” in respect of which regulations must normally be referred to the Committee.
+
+[^key-53809f7081c54599bcf170d10d7a2ef5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/1589/regulation/1/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^c960278]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
+
+[^c960279]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
+
+[^c960280]: Marginal citation: [S.I. 2002/195](https://www.legislation.gov.uk/uksi/2002/195).
+
+[^c960281]: Marginal citation: [S.R. 2001/277](https://www.legislation.gov.uk/nisr/2001/277).
+
+[^c960282]: Marginal citation: The relevant amending instruments are [S.I. 2000/1922](https://www.legislation.gov.uk/uksi/2000/1922) and 1981.
+
+[^key-80a87e32d1d6abd061236ca5bf526eaa]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2002/1589/regulation/2/2/a)[(b)](https://www.legislation.gov.uk/uksi/2002/1589/regulation/2/2/b) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^c960283]: Marginal citation: The relevant amending instruments are [S.I. 1990/1549](https://www.legislation.gov.uk/uksi/1990/1549), 1999/1935, 2000/1922 and 2001/2319.
+
+[^key-c48f4ad6cd45706657fbdcbfec682e93]: Textual amendment: [Reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2002/1589/regulation/3/3/a)[(b)](https://www.legislation.gov.uk/uksi/2002/1589/regulation/3/3/b) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^c960284]: Marginal citation: The relevant paragraphs were inserted by [S.I. 2001/2319](https://www.legislation.gov.uk/uksi/2001/2319).
+
+[^key-8e1c09a6a43e441c0a42e9d230c5a2dc]: Textual amendment: Reg. 4(2)(a)(b) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^key-7b7d49f5afb98134ed71c57fee977b68]: Textual amendment: Reg. 4(4)(a)(b) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^c960285]: Marginal citation: The relevant paragraphs were inserted by [S.I. 2000/1922](https://www.legislation.gov.uk/uksi/2000/1922).
+
+[^key-6cca4a19e992c6abac105b633a04b395]: Textual amendment: Reg. 4(6)(a)(b) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^M_F_a033f95f-a180-48cb-c3d2-b48a91990c80]: Textual amendment: Reg. 4(8)(a) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^M_F_86f57e6d-b077-4097-a854-fbcd01157c4f]: Textual amendment: Reg. 4(8)(b) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^c960286]: Marginal citation: The relevant amending instruments are [S.I. 1990/1549](https://www.legislation.gov.uk/uksi/1990/1549), 2000/1922 and 2001/2319.
+
+[^key-afdf619b0d4a8eb791d558eb59ddba65]: Textual amendment: [Reg. 5(6)(a)](https://www.legislation.gov.uk/uksi/2002/1589/regulation/5/6/a)[(b)](https://www.legislation.gov.uk/uksi/2002/1589/regulation/5/6/b) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^key-24e725b6ebe3af7f3c7bbd644eb0f9f9]: Textual amendment: Reg. 6 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))

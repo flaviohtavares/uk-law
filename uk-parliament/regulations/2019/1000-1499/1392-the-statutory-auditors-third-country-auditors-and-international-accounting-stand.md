@@ -1,0 +1,279 @@
+---
+title: The Statutory Auditors, Third Country Auditors and International Accounting Standards (Amendment) (EU Exit) Regulations 2019
+id: uksi/2019/1392
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-10-23'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2019/1392
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/1392/pdfs/uksiem_20191392_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/1392/pdfs/uksi_20191392_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/1392/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Statutory Auditors, Third Country Auditors and International Accounting Standards (Amendment) (EU Exit) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2019 No. 1392
+
+Exiting The European Union
+
+Auditors
+
+Companies
+
+The Statutory Auditors, Third Country Auditors and International Accounting Standards (Amendment) (EU Exit) Regulations 2019
+
+Made
+
+23rd October 2019
+
+Coming into force in accordance with regulation 1(2)
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c24469471], section 104(1) of the Deregulation Act 2015 [^c24469481], sections 484(1) and 1292(1) of the Companies Act 2006 [^c24469491] and sections 15 and 17 of the Limited Liability Partnerships Act 2000 [^c24469501].
+
+In accordance with paragraph 1(3) of Schedule 7 to the European Union (Withdrawal) Act 2018, sections 484(3) and 1290 of the Companies Act 2006 and section 17(4) of the Limited Liability Partnerships Act 2000, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## PART 1 — Introductory
+
+### 1. Citation and commencement[^key-301621726655c8ab6c41c72cdfbc74d2]
+
+(1) These Regulations may be cited as the Statutory Auditors, Third Country Auditors and International Accounting Standards (Amendment) (EU Exit) Regulations 2019.
+
+(2) These Regulations come into force immediately before exit day, except for regulations 2 and 3 which come into force 21 days after the day on which these Regulations are made.
+
+## PART 2 — Amendments to the Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019
+
+### 2.[^key-66a7f772c8d878a5dba20cf872d660a9]
+
+The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 [^c24469511] are amended in accordance with this Part.
+
+### 3.[^key-0a1dfe4b29dd63679cc0161947d285ca]
+
+In regulation 2, for “Part 5 which comes into force 21 days after the day on which it is made” substitute—
+
+> - (a) regulation 14, which comes into force 21 days after the day on which the Statutory Auditors, Third Country Auditors and International Accounting Standards (Amendment) (EU Exit) Regulations 2019 are made; and
+> - (b) Part 5, which comes into force on 22 February 2019
+
+.
+
+### 4.[^key-f5eddf2e074274fe276181fd5143a797]
+
+For regulation 4 substitute—
+
+> **4.**
+>
+> In section 479A (subsidiary companies: conditions for exemption from audit) [^c24469521]—
+>
+> - (a) in subsection (1)(b), for “an EEA State” substitute “ any part of the United Kingdom ”;
+> - (b) in subsection (2)(c), for sub-paragraph (i) substitute—
+>
+>   > - (i) if the undertaking is a company, the requirements of Part 15 of this Act, or, if the undertaking is not a company, the legal requirements which apply to the drawing up of consolidated accounts for that undertaking, or
+>
+>   .
+>
+> **4A.**
+>
+> In section 479C(2) (subsidiary companies audit exemption: parent undertaking declaration of guarantee) [^c24469531]—
+>
+> - (a) for paragraph (b) substitute—
+>
+>   > - (b) the registered number (if any) of the parent undertaking,
+>
+>   ;
+> - (b) omit paragraph (c).
+
+.
+
+### 5.[^key-b2eb0e7e9d881cfa239999869853087c]
+
+In regulation 16, after paragraph (b) insert—
+
+> - (c) in subsection (4)(b)—
+>   - (i) for “UK-traded non-EEA company” substitute “ UK-traded third country company ”;
+>   - (ii) for “UK-traded non-EEA companies” substitute “ UK-traded third country companies ”;
+> - (d) in subsection (4)(c)—
+>   - (i) for “UK-traded non-EEA company” substitute “ UK-traded third country company ”;
+>   - (ii) for “UK-traded non-EEA companies” substitute “ UK-traded third country companies ”.
+
+.
+
+### 6.[^key-98a88bf876a3d62c738fe20fd12dea70]
+
+In regulation 28(b), for paragraph (b) of inserted sub-paragraph (1A) substitute—
+
+> - (b) the individual is an EEA auditor who[^key-f660bcfed2e714e3e7368e4cff969f91]—
+>   - (i) on or before IP completion day[^key-7bd1e5c3781d364bf32ad0b781d6efff], holds a professional qualification which does not cover all those subjects,
+>   - (ii) on or before IP completion day, has been approved by the body or is in the process of seeking approval from the body, and
+>   - (iii) has met whichever of the requirements of sub-paragraph (1B) is specified in the body's rules.
+
+.
+
+### 7.[^key-8564d5e4e2a07a01d6b45f497c380c72]
+
+For regulation 50(b) substitute—
+
+> - (b) in regulation 34A (exemption from audit: qualifying subsidiaries) [^c24469541], in the modified section 479A—
+>   - (i) in subsection (1)(b), for “an EEA State” substitute “ any part of the United Kingdom ”;
+>   - (ii) in subsection (2)(c), for sub-paragraph (i) substitute—
+>
+>     > - (i) if the undertaking is a company, the requirements of Part 15 of this Act, or, if the undertaking is not a company, the legal requirements which apply to the drawing up of consolidated accounts for that undertaking, or
+>
+>     ;
+> - (c) in regulation 34A, in the modified section 479C(2)—
+>   - (i) for paragraph (b) substitute—
+>
+>     > - (b) the registered number (if any) of the parent undertaking,
+>
+>     ;
+>   - (ii) omit paragraph (c).
+
+.
+
+### 8.[^key-d5ed49e99ebda01ab70ab885a5579263]
+
+In regulation 100(b)(ii)(bb), in substituted point (a), for “ which ” substitute “other than those which,”.
+
+## PART 3 — Amendments to the Accounts and Reports (Amendment) (EU Exit) Regulations 2019
+
+### 9.[^key-130c6173d175f1effc98d116278de13c]
+
+The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 [^c24469551] are amended in accordance with this Part.
+
+### 10.[^key-bdb13f67e0d4e9a8b2c0974548420052]
+
+In Schedule 2 (amendments made under the European Union (Withdrawal) Act 2018: primary legislation)—
+
+- (a) in paragraph 6, for sub-paragraph (a) substitute—
+
+  > - (a) for paragraph (b), substitute—
+  >
+  >   > - (b) the registered number (if any) of the parent undertaking,
+  >
+  >   ; and
+
+  ;
+- (b) in paragraph 14, for sub-paragraph (a) substitute—
+
+  > - (a) for paragraph (b), substitute—
+  >
+  >   > - (b) the registered number (if any) of the parent undertaking,
+  >
+  >   ; and
+
+  .
+
+## PART 4 — Amendments to the International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019
+
+### 11.[^key-60f82f0f0d39acf3cae0dd51b9a9fec4]
+
+The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 [^c24469561] are amended in accordance with this Part.
+
+### 12.[^key-314a2cf752f5efb2b1a8d354acf230e0]
+
+In Schedule 2 (revocations)—
+
+- (a) after entry 54 insert—
+
+  > |  |  |
+  > | --- | --- |
+  > | 54A. | Commission Regulation (EU) 2017/1986 of 31 October 2017 amending Regulation [(EC) No. 1126/2008](https://www.legislation.gov.uk/eur/2008/1126) adopting certain international accounting standards in accordance with Regulation [(EC) No. 1606/2002](https://www.legislation.gov.uk/eur/2002/1606) of the European Parliament and of the Council as regards International Financial Reporting Standard 16 |
+- (b) after entry 61 insert—
+
+  > |  |  |
+  > | --- | --- |
+  > | 61A. | Commission Regulation (EU) 2018/498 of 22 March 2018 amending Regulation [(EC) No. 1126/2008](https://www.legislation.gov.uk/eur/2008/1126) adopting certain international accounting standards in accordance with Regulation [(EC) No. 1606/2002](https://www.legislation.gov.uk/eur/2002/1606) of the European Parliament and of the Council as regards International Financial Reporting Standard 9 |
+- (c) after entry 62 insert—
+
+  > |  |  |
+  > | --- | --- |
+  > | 63\. | Commission Regulation (EU) 2018/1595 of 23 October 2018 amending Regulation [(EC) No. 1126/2008](https://www.legislation.gov.uk/eur/2008/1126) adopting certain international accounting standards in accordance with Regulation [(EC) No. 1606/2002](https://www.legislation.gov.uk/eur/2002/1606) of the European Parliament and of the Council as regards Interpretation 23 of the International Financial Reporting Interpretations Committee |
+  > | 64\. | Commission Regulation (EU) 2019/237 of 8 February 2019 amending Regulation [(EC) No. 1126/2008](https://www.legislation.gov.uk/eur/2008/1126) adopting certain international accounting standards in accordance with Regulation [(EC) No. 1606/2002](https://www.legislation.gov.uk/eur/2002/1606) of the European Parliament and of the Council as regards International Accounting Standard 28 |
+  > | 65\. | Commission Regulation (EU) 2019/402 of 13 March 2019 amending Regulation [(EC) No. 1126/2008](https://www.legislation.gov.uk/eur/2008/1126) adopting certain international accounting standards in accordance with Regulation [(EC) No. 1606/2002](https://www.legislation.gov.uk/eur/2002/1606) of the European Parliament and of the Council as regards International Accounting Standard 19 |
+  > | 66\. | Commission Regulation (EU) 2019/412 of 14 March 2019 on amending Regulation [(EC) No. 1126/2008](https://www.legislation.gov.uk/eur/2008/1126) adopting certain international accounting standards in accordance with Regulation [(EC) No. 1606/2002](https://www.legislation.gov.uk/eur/2002/1606) of the European Parliament and of the Council as regards International Accounting Standards 12 and 23 and International Financial Reporting Standards 3 and 11 |
+
+Kelly Tolhurst
+
+Parliamentary Under Secretary of State
+
+Department for Business, Energy and Industrial Strategy
+
+*(This note is not part of the Regulations)*
+
+These Regulations amend the Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177) (“the Audit SI”), the Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145) and the International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685) (“the Accounting Standards SI”).
+
+These Regulations are made partly in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018 (c. 16), and address failures of retained EU law to operate effectively in the fields of audit regulation and of the adoption and use of international accounting standards arising from the withdrawal of the UK from the European Union.
+
+Regulation 3 makes an amendment to the commencement provision of the Audit SI. The effect is to bring provisions concerning new powers inserted into the Companies Act 2006 by the Audit SI (sections 1240A and 1240B concerning the equivalence of third countries and the adequacy of third country competent authorities) into force 21 days after the making of these Regulations. New sections 1240A and 1240B were introduced to address deficiencies of retained EU law falling within paragraph (f) of section 8(2) of the European Union (Withdrawal) Act 2018.
+
+Regulations 4 and 7 remove access to exemption from audit for a subsidiary which is a company (in the case of regulation 4) or a limited liability partnership (in the case of regulation 7) and which has an EEA parent where the subsidiary is included in the parent's consolidated accounts and the accounts are drawn up in accordance with the EU's Accounting Directive (Directive 2013/34/EU of the European Parliament and of the Council on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings (OJ No. L 182, 29.06.2013, p. 19)) or in accordance with UK-adopted international accounting standards. This exemption will now only be available to subsidiaries which have a UK parent.
+
+Regulations 5, 6 and 10 make some minor and technical consequential amendments to the Companies Act 2006 (c. 46).
+
+Regulation 8 corrects an error made in the Audit SI. This was in a measure to address a deficiency of retained EU law falling within paragraph (g) of section 8(2) of the European Union (Withdrawal) Act 2018. The error was contained in a textual amendment which the Audit SI made to Regulation (EU) No. 537/2014 of the European Parliament and of the Council of 16 April 2014 on specific requirements regarding statutory audit of public-interest entities and repealing Commission Decision [2005/909/EC](https://www.legislation.gov.uk/european/decision/2005/0909) (OJ No. L 158, 27.05.2014, p. 77) (“**the Audit Regulation**”). The Audit Regulation becomes domestic law on exit day by operation of section 3 of the European Union (Withdrawal) Act 2018. The consequence of the error would have been to change the effect of part of Article 26 of the Audit Regulation, which sets the frequency of inspections of audit firms by the national competent authority for audit. The error would have affected the frequency of inspections of some auditors of public interest entities (which include banks, building societies, insurers and undertakings with transferable securities admitted to trading on a regulated market). This instrument corrects the error, so that the frequency of inspections will continue to be as it was under the Audit Regulation before the UK's exit from the EU.
+
+Regulation 12 updates the list of revocations of directly applicable EU legislation concerning international accounting standards in Schedule 2 to the Accounting Standards SI. This is to correct a deficiency of retained EU law falling within paragraph (d) of section 8(2) of the European Union (Withdrawal) Act 2018.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^c24469471]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^c24469481]: Marginal citation: [2015 c. 20](https://www.legislation.gov.uk/ukpga/2015/20).
+
+[^c24469491]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c24469501]: Marginal citation: [2000 c. 12](https://www.legislation.gov.uk/ukpga/2000/12). Section 17(5) was amended by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804).
+
+[^key-301621726655c8ab6c41c72cdfbc74d2]: Commencement: Reg. 1 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-66a7f772c8d878a5dba20cf872d660a9]: Commencement: Reg. 2 in force at 13.11.2019, see reg. 1(2)
+
+[^c24469511]: Marginal citation: [S.I. 2019/177](https://www.legislation.gov.uk/uksi/2019/177).
+
+[^key-0a1dfe4b29dd63679cc0161947d285ca]: Commencement: Reg. 3 in force at 13.11.2019, see reg. 1(2)
+
+[^key-f5eddf2e074274fe276181fd5143a797]: Commencement: Reg. 4 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^c24469521]: Marginal citation: Section 479A was inserted by [S.I. 2012/2301](https://www.legislation.gov.uk/uksi/2012/2301) and amended by [S.I. 2015/980](https://www.legislation.gov.uk/uksi/2015/980).
+
+[^c24469531]: Marginal citation: Section 479C was inserted by [S.I. 2012/2301](https://www.legislation.gov.uk/uksi/2012/2301).
+
+[^key-b2eb0e7e9d881cfa239999869853087c]: Commencement: Reg. 5 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-98a88bf876a3d62c738fe20fd12dea70]: Commencement: Reg. 6 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^key-f660bcfed2e714e3e7368e4cff969f91]: Textual amendment: Words in reg. 6 inserted (31.12.2020 immediately before reg. 6 comes into force) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [27(a)](https://www.legislation.gov.uk/uksi/2020/523/regulation/27/a)
+
+[^key-7bd1e5c3781d364bf32ad0b781d6efff]: Textual amendment: Words in reg. 6 substituted (31.12.2020 immediately before reg. 6 comes into force) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [27(b)](https://www.legislation.gov.uk/uksi/2020/523/regulation/27/b)
+
+[^key-8564d5e4e2a07a01d6b45f497c380c72]: Commencement: Reg. 7 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^c24469541]: Marginal citation: Regulation 34A was inserted by [S.I. 2012/2301](https://www.legislation.gov.uk/uksi/2012/2301).
+
+[^key-d5ed49e99ebda01ab70ab885a5579263]: Commencement: Reg. 8 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-130c6173d175f1effc98d116278de13c]: Commencement: Reg. 9 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^c24469551]: Marginal citation: [S.I. 2019/145](https://www.legislation.gov.uk/uksi/2019/145).
+
+[^key-bdb13f67e0d4e9a8b2c0974548420052]: Commencement: Reg. 10 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^key-60f82f0f0d39acf3cae0dd51b9a9fec4]: Commencement: Reg. 11 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)
+
+[^c24469561]: Marginal citation: [S.I. 2019/685](https://www.legislation.gov.uk/uksi/2019/685).
+
+[^key-314a2cf752f5efb2b1a8d354acf230e0]: Commencement: Reg. 12 in force immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(2)

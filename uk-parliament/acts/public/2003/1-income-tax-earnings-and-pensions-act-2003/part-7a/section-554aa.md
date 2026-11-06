@@ -1,0 +1,93 @@
+---
+title: Income Tax (Earnings and Pensions) Act 2003, section 554AA
+act: Income Tax (Earnings and Pensions) Act 2003
+section: 554AA
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/1/section/554AA
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Earnings and Pensions) Act 2003, section 554AA
+
+> **Warning: changes not yet applied to this text (46).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 554AA. Application of Chapter 2: close companies[^key-c84d73615a818af82052fff9a9cc76fe][^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+
+*Extent: E+W+S+N.I.*
+
+(1) Chapter 2 applies if—
+
+- (a) there is an arrangement (“the relevant arrangement”) to which an individual (“A”) is a party or which otherwise (wholly or partly) covers or relates to A,
+- (b) it is reasonable to suppose that, in essence—
+  - (i) the relevant arrangement, or
+  - (ii) the relevant arrangement so far as it covers or relates to A,
+
+  is (wholly or partly) a means of providing, or is otherwise concerned (wholly or partly) with the provision of, A-linked payments or benefits or loans,
+- (c) a close company (“B”) enters into a relevant transaction (see section 554AB),
+- (d) it is reasonable to suppose that, in essence—
+  - (i) the relevant transaction is entered into (wholly or partly) in pursuance of the relevant arrangement, or
+  - (ii) there is some other connection (direct or indirect) between the relevant transaction and the relevant arrangement,
+- (e) at the time B enters into the relevant transaction, or at any earlier time in the 3 years ending with the date of the transaction, A is a director or an employee of B,
+- (f) at the time B enters into the relevant transaction, or at any earlier time in the 3 years ending with the date of the transaction, A has a material interest in B (see section 554AE),
+- (g) a relevant step is taken by a relevant third person,
+- (h) it is reasonable to suppose—
+  - (i) that the sum of money or asset which is the subject of the relevant step represents (directly or indirectly), or has arisen or derives from, the sum of money or asset which is the subject of the relevant transaction, or
+  - (ii) that the sum of money or asset which is the subject of the relevant transaction represents (directly or indirectly), or has arisen or derives from, the sum of money or asset which is the subject of the relevant step, and
+- (i) there is a time in the relevant period when the main purpose, or one of the main purposes, of operating, implementing, maintaining or terminating the relevant arrangement so far as it covers or relates to—
+  - (i) the relevant transaction, and the relevant step so far as related to the relevant transaction, or
+  - (ii) the relevant step, and the relevant transaction so far as related to the relevant step,
+
+  is the avoidance of? income tax, national insurance contributions, corporation tax or a charge to tax under section 455 of CTA 2010.
+
+(2) In this section “**close company**” includes a company that would be a close company but for section 442(a) of CTA 2010 (exclusion of companies not resident in the United Kingdom).
+
+(3) For the purposes of subsection (1)(b), a payment or benefit or loan is “A-linked” if—
+
+- (a) it is being provided to A, or a person chosen by A or within a class of persons chosen by A,
+- (b) it is being provided to a person on A's behalf, or at A's direction or request, or
+- (c) it is being provided to a person linked with A and it is reasonable to suppose that the main reason, or one of the main reasons, for it being provided is that the person is linked with A.
+
+(4) For the purposes of subsection (1)(i), the “relevant period” consists of the time of the relevant transaction, the time of the relevant step, the times around each of those two times, and any other times between those two times.
+
+(5) Subsections (6) and (7) apply where—
+
+- (a) a payment to a person other than A, or to A as a trustee, is of earnings from—
+  - (i) A's employment with B, or
+  - (ii) A's office as a director of B, and
+- (b) the earnings are, in whole or part, charged to tax under the employment income Parts otherwise than by virtue of this Part,
+
+and for this purpose it does not matter whether all or some only or none of the tax is paid (but see sections 554Z5 and 554Z11B).
+
+(6) For the purposes of subsection (7), an arrangement is a “redirected-earnings arrangement” if it (wholly or partly) covers or relates to redirected earnings; and for the purposes of this subsection and subsection (7) “**redirected earnings**” means—
+
+- (a) the payment mentioned in subsection (5)(a), or
+- (b) any sum or other property which (directly or indirectly)—
+  - (i) represents, or
+  - (ii) is derived from,
+
+  that payment.
+
+(7) The circumstances mentioned in subsection (5)—
+
+- (a) do not prevent a redirected-earnings arrangement being within subsection (1)(a),
+- (b) do not prevent payments or benefits or loans being A-linked for the purposes of subsection (1)(b) where there is use of redirected earnings for the provision of the whole, or part, of the payments or benefits or loans, and
+- (c) do not prevent the making of the payment mentioned in subsection (5)(a) being entry into a relevant transaction.
+
+(8) In this section and in section 554AB “**relevant third person**” means—
+
+- (a) A acting as a trustee,
+- (b) B acting as a trustee, or
+- (c) any person other than A or B.
+
+(9) See also sections 554AD to 554AF (further interpretation and supplementary provision).
+
+## Annotations
+
+[^key-c84d73615a818af82052fff9a9cc76fe]: Textual amendment: [Ss. 554AA-554AF](https://www.legislation.gov.uk/ukpga/2003/1/section/554AA) and cross-heading inserted (with effect in accordance with Sch. 1 para. 14 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/2)
+
+[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)

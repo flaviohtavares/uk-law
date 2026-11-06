@@ -1,0 +1,51 @@
+---
+title: Children Act 1989, section 57
+act: Children Act 1989
+section: '57'
+status: revised-with-pending-changes
+text_date: '2026-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1989/41/section/57
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Children Act 1989, section 57
+
+> **Warning: changes not yet applied to this text (96).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/41
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 57. Closure by local authority of controlled or assisted community home.[^c15166271]
+
+*Extent: E+W*
+
+(1) The local authority specified in the instrument of management for a controlled or assisted community home may give—
+
+- (a) the Secretary of State; and
+- (b) the voluntary organisation by which the home is provided,
+
+not less than two years’ notice in writing of their intention to withdraw their designation of the home as a controlled or assisted community home.
+
+(2) A notice under subsection (1) shall specify the date (“the specified date”) on which the designation is to be withdrawn.
+
+(3) Where—
+
+- (a) a notice is given under subsection (1) in respect of a controlled or assisted community home;
+- (b) the home’s managers give notice in writing to the Secretary of State that they are unable or unwilling to continue as managers until the specified date; and
+- (c) the managers’ notice is not withdrawn,
+
+the Secretary of State may by order revoke the home’s instrument of management from such date earlier than the specified date as may be specified in the order.
+
+(4) Before making an order under subsection (3), the Secretary of State shall consult the local authority and the voluntary organisation.
+
+(5) Where a notice has been given under subsection (1) and is not withdrawn, the home’s instrument of management shall cease to have effect on—
+
+- (a) the specified date; or
+- (b) where an earlier date has been specified under subsection (3), that earlier date,
+
+and the home shall then cease to be a community home.
+
+## Annotations
+
+[^c15166271]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/1989/41/section/57) wholly in force at 14.10.1991 see [s. 108(2)(3)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/2/3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)

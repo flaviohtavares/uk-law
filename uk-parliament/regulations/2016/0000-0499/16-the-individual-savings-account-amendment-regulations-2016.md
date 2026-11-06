@@ -1,0 +1,353 @@
+---
+title: The Individual Savings Account (Amendment) Regulations 2016
+id: uksi/2016/16
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-01-07'
+text_date: '2016-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2016/16
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/16/pdfs/uksiem_20160016_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/16/pdfs/uksi_20160016_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/16/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Individual Savings Account (Amendment) Regulations 2016
+
+> Text as at 2016-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2016 No. 16
+
+Income Tax
+
+Capital Gains Tax
+
+The Individual Savings Account (Amendment) Regulations 2016
+
+Made
+
+7th January 2016
+
+Laid before the House of Commons
+
+11th January 2016
+
+Coming into force in accordance with regulation 1
+
+The Treasury, in exercise of the powers conferred by sections 694, 695, 696 and 701(1) and (5) of the Income Tax (Trading and Other Income) Act 2005[^f00001] and section 151(1) and (2) of the Taxation of Chargeable Gains Act 1992[^f00002], make the following Regulations:
+
+## 1. Citation and commencement[^key-efbb0faf9c545771f30b4495c7c30db1][^key-03aa222e73cf1e28378a0e029ab8b1f3]
+
+These Regulations may be cited as the Individual Savings Account (Amendment) Regulations 2016 and come into force on 1st February 2016 but regulations 3(2) and (3), 4(a), 7(a), 8, 10 (only in relation to new regulation 5DDB), 11(b), 16(1)(d) and 16(2)(c), have effect from 6th April 2016.
+
+## 2. Amendment of the Individual Savings Account Regulations 1998[^key-4258f2c545dedf0d1f62992d191c88a6]
+
+The Individual Savings Account Regulations 1998[^f00003] are amended as follows.
+
+## 3. Amendment of regulation 2 (interpretation)[^key-c9a2aca2ba015e1ae7265222f0d1ef59]
+
+(1) In regulation 2(1)(a) (interpretation), after the meanings for “51% subsidiary” and “75% subsidiary”, insert—
+
+> - “first subscription”, in any year, means the first subscription into an account in that year which is not a subscription made in accordance with regulation 5D;
+
+.
+
+(2) After the meaning for “first subscription” in that regulation inserted by paragraph (1), insert—
+
+> - “flexible account” has the meaning given in regulation 5DDB;
+
+.
+
+(3) After the meaning for “relevant authorised person” in that regulation, insert—
+
+> - “replacement subscription” has the meaning given in regulation 5DDB;
+
+.
+
+## 4. Amendment of regulation 2D (regulations that do not apply to junior ISA accounts)[^key-b9d4960651a76bde4308d289bad052c0]
+
+In regulation 2D after “5DDA,” insert –
+
+- (a) “5DDB,”; and
+- (b) “5DDC,”.
+
+## 5. Amendment of regulation 4(1B) (general conditions for accounts and subscriptions to accounts)[^key-cc576fefbb303eacbd60d96b31e08193]
+
+In regulation 4(1B)-
+
+- (a) in paragraph (a) at the beginning, insert “except for a subscription made in accordance with regulation 5D(2)(a)(i),(iv) or (v),”; and
+- (b) in paragraph (b) at the beginning, insert “except for a subscription made in accordance with regulation 5D(2)(a)(iv),”.
+
+## 6. Amendment of regulation 4B (closure of cash accounts)[^key-33371ac06a89f93b68b9d04a7acfb970]
+
+In regulation 4B, after paragraph (3), insert−
+
+> (4) This regulation does not apply to a subscription to an account made in accordance with regulation 5D.
+
+.
+
+## 7. Amendment of regulation 5D (subscriptions disregarded for the purposes of the subscription limits in regulations 4ZA and 4ZB)[^key-963ea45e9e5f110d7d555aff3a4740b9]
+
+In regulation 5D(2)-
+
+- (a) after paragraph (a)(ii), insert-
+
+  > - (iia) a replacement subscription;
+
+  ;
+- (b) at the end of paragraph (a)(iii) omit “or”;
+- (c) at the end of paragraph (a)(iv) substitute “or” for “and”; and
+- (d) after paragraph (a)(iv) insert-
+
+  > - (v) permitted in accordance with regulation 5DDC; and
+
+  .
+
+## 8. Amendment of regulation 5DA (defaulted cash account subscription)[^key-b19b54db9a9d6f54a8418b6b7f22e2bd]
+
+In regulation 5DA, at the end of paragraph (b) insert “plus, in the case of a flexible account, in the year in which the default event occurred and before such event, the amount (if any) of cash withdrawn from the account which was not replaced by a replacement subscription”.
+
+## 9. Amendment of regulation 5DDA (additional permitted subscriptions to an account other than a junior account)[^key-81109607a890077c2437f65c37030c1e]
+
+In regulation 5DDA-
+
+- (a) in paragraph (7) omit sub-paragraphs[^key-81017d036c3f142eb7d531cda6368691] (a),(b),(d),(e) and (f);and
+- (b) omit paragraphs (8) to (10).
+
+## 10. New regulation 5DDB (flexible account) and new regulation 5DDC (closure of Help to Buy ISA)[^key-aa7e91253b03c1002143bf5d710fe8d5]
+
+After regulation 5DDA insert-
+
+> **5DDB. Flexible account**
+>
+> (1) − The terms and conditions of an account (other than a junior ISA account) (“flexible account”) may provide for an account investor to be able to replace (in whole or part) a cash amount withdrawn by the account investor in any year by a replacement subscription of a cash amount (“replacement subscription”) made in that year.
+>
+> (2) Subject to regulation 4(1B)(a) and (b), a replacement subscription in respect of a subscription counting towards the limit in regulation 4ZA(1) may be made into any account of the account investor.
+>
+> (3) Any other replacement subscription may be made only to the account from which the withdrawal of a cash amount it is replacing was made.
+>
+> (4) Any withdrawal of a cash amount in any year is to be deemed to be made first out of a current year’s subscription.
+>
+> (5) Any replacement subscription is to be deemed to be a replacement first of any withdrawal of a cash amount made out of a previous years’ subscription.
+>
+> (6) On any transfer under regulation 21 of the whole of previous years’ subscriptions, the right of the account investor under paragraph (1) in relation to an account transferred is to cease in respect of a withdrawal of a cash amount from the account made before the transfer.
+>
+> (7) Paragraph (6) does not apply where an account is transferred in a bulk transfer of accounts.
+>
+> (8) For the purposes of this regulation−
+>
+> - “current year’s subscription” means (other than a subscription made in accordance with regulation 5D)−
+>   - (a) a subscription made to the account by the account investor in the year in which a replacement subscription is made;
+>   - (b) a subscription made to any other account by the account investor in the year in which a replacement subscription is made and transferred to the account; and
+>   - (c) the qualifying investments and other proceeds (including income) representing the subscriptions in sub-paragraphs (a) and (b) of this definition;
+>
+> - “previous years’ subscription” means−
+>   - (a) a subscription made to the account (or any other account or former personal equity plan) in any earlier year or years;
+>   - (b) any replacement subscription of a withdrawal of a cash amount made out of that subscription; and
+>   - (c) the qualifying investments and other proceeds (including income) representing the subscriptions in sub-paragraphs (a) and (b) of this definition.
+>
+> **5DDC. Additional permitted subscription of cash to an account other than a junior ISA on closure of Help to Buy ISA**
+>
+> (1) A subscription of cash to an account, other than a junior ISA account, is permitted by this regulation if—
+>
+> - (a) it is made in the circumstances described in paragraph (2); and
+> - (b) the amount of the subscription does not exceed in value the amount determined in accordance with paragraph (3).
+>
+> (2) The circumstances are—
+>
+> - (a) the account investor has closed their Help to Buy ISA;
+> - (b) the account investor has provided to the account manager evidence in accordance with the terms and conditions of the Help to Buy ISA of a failure of a completion of a purchase of a home;
+> - (c) the subscription is within the permitted period described in paragraph (4).
+>
+> (3) The amount is an amount up to that which the account investor withdrew from the Help to Buy ISA at the time of closure.
+>
+> (4) In this regulation, the permitted period means the period of no more than 12 months beginning with the date of closure of the Help to Buy ISA.
+>
+> (5) Only one subscription may be made under paragraph (1) in the circumstances of paragraph (2), even if the subscription made is less than the full amount which could have been made in accordance with paragraph (3).
+>
+> (6) In this regulation “Help to Buy ISA” means a cash account (or an element of one) which is managed and held in accordance with these Regulations and scheme rules[^f00004] from time to time made by the Treasury in order to help an individual who is eligible under those rules to purchase a home.
+
+## 11. Amendment of regulation 5DF (information required by regulation 5D)[^key-c1d622b2cf0d2463e2da421c33ace1fc]
+
+In regulation 5DF−
+
+- (a) in paragraph (1)(a) before “the amount” insert “evidence of ”;
+- (b) after paragraph (1)(a)(i) insert-
+
+  > - (ia) in the case of a flexible account, in the year in which the default event occurred and before such event, evidence of the amount (if any) of cash withdrawn from the account which was not replaced by a replacement subscription;
+
+  ; and
+- (c) in paragraph (2)(a) after “subscriptions” insert “(other than a subscription to the account made in accordance with regulation 5D)”.
+
+## 12. Amendment of regulation 10 (qualifying individuals who may invest under an account that is not a junior ISA account)[^key-a315f85fa53d1fb42bd9dc7f6aa31491]
+
+In regulation 10(2)−
+
+- (a) in paragraph (b) after “who,” insert “except for a subscription made in accordance with regulation 5D(2)(a)(i),(iia),(iv) or (v),”;
+- (b) in paragraph (c) after “who,” insert “except for a subscription made in accordance with regulation 5D(2)(a)(iia) or (iv),”;
+- (c) in paragraph (d)(iii) omit the full stop and substitute “; or”; and
+- (d) after paragraph (d)(iii) insert−
+
+  > - (iv) who, where the terms and conditions of an account allow for it, though not resident in the United Kingdom, makes a subscription to the account in accordance with regulation 5D .
+
+  .
+
+## 13. Amendment of regulation 12 (conditions for application to open an account that is not a junior ISA account)[^key-547de82fab31ecbc5da0479e3f355286]
+
+In regulation 12(3)-
+
+- (a) in paragraph (d), after “applicant” insert “,except for a subscription made in accordance with regulation 5D(2)(a)(i),(iia),(iv) or (v)”;
+- (b) in paragraph (e), after “applicant” insert “,except for a subscription made in accordance with regulation 5D(2)(a)(iia) or (iv),”; and
+- (c) in paragraph (f), after “or over, and” insert “ except in relation to a subscription made in accordance with regulation 5D into an account opened solely to receive such a subscription”.
+
+## 14. Amendment of regulation 21 (transfers relating to accounts other than junior ISA accounts)[^key-2651950bdd5a41a3aa4fa1184f36ef7d]
+
+In regulation 21, at the end of paragraph (6)(b)(iii), insert−
+
+> ,disregarding a subscription made in accordance with regulation 5D (except for a replacement subscription), less, in the case of a flexible account, the amount of any cash withdrawn from it during that period and if the result is in the negative, the amount to be reported is nil
+
+.
+
+## 15. Amendment of regulation 21A (further requirements relating to transfers between cash accounts)[^key-5520a622493ebeb2b5672c0fcc8bf425]
+
+In regulation 21A, at the end of paragraph (3)(b)(ii), insert—
+
+> ,disregarding a subscription made in accordance with regulation 5D (except for a replacement subscription), less, in the case of a flexible account, the amount of any cash withdrawn from it during that period and if the result is in the negative, the amount to be reported is nil
+
+.
+
+## 16. Amendment of regulation 31 (returns of information by account manager)[^key-3397e1d02813b6ff52879118b20ec23b]
+
+(1) In regulation 31(3)(c)−
+
+- (a) after “as regards each such account” omit from “, to which” to “a year”;
+- (b) after sub-paragraph[^key-48751e1fd88c29271b5f616dc06b84e2] (ia), insert−
+
+  > - (ib) whether the account is a flexible account,
+
+  ;
+- (c) in sub-paragraph (ii) after “ total amount” for “of cash” substitute “,disregarding a subscription made in accordance with regulation 5D,”; and
+- (d) after sub-paragraph (ii), insert−
+
+  > - (iia) in place of the provision in paragraph (ii) in the case of a flexible account, in the year or part of the year for which the return is made, disregarding a subscription made in accordance with regulation 5D (except for a replacement subscription), the total amount subscribed to the account less the amount of any cash withdrawn from it and if the result is in the negative, the amount to be reported is nil,
+
+  ;
+- (e) in sub-paragraph (iii), after “subscription” insert “,if any,”; and
+- (f) after sub-paragraph (iv) insert “and”;
+- (g) after sub-paragraph (v) substitute a full stop for the comma and omit “and”; and
+- (h) omit sub-paragraph (vi).
+
+(2) In regulation 31(7)-
+
+- (a) in paragraph (a) after sub-paragraph (iv) insert-
+
+  > - (v) accounts receiving subscriptions made in accordance with regulation 5D(2)(a)(iv); and
+
+  ; and
+- (b) in paragraph (b)-
+  - (i) after “total amount of ” omit “cash”;
+  - (ii) after “part of the year” insert “,disregarding a subscription made in accordance with regulation 5D,”; and
+  - (iii) after sub-paragraph (ii) insert[^key-b25571f355efac9fefe8b3a29a8bebfd] -
+
+    > - (iia) in respect of subscriptions made in accordance with regulation 5(D)(2)(a)(iv);
+
+    ;
+- (c) after paragraph (b)(iv), insert −
+
+  > In the case of a flexible account, in the year or part of the year for which the return is made, there is to be disregarded, in respect of each account, a subscription made in accordance with regulation 5D (except for a replacement subscription) and there is to be deducted from the total amount subscribed the amount of any cash withdrawn from the account and if the result is in the negative, the amount to be reported is nil.
+
+  .
+
+Mel Stride
+
+David Evennett
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+7th January 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Individual Savings Account Regulations 1998 ([S.I. 1998/1870](https://www.legislation.gov.uk/uksi/1998/1870)) (“the principal regulations”).
+
+The regulations amend the principal regulations to provide for the terms and conditions of an account (“flexible account”) to allow a saver to replace cash they have withdrawn from their account earlier in the year, without this replacement (“replacement subscription”) counting towards their annual subscription limit which is currently £15,240 under regulation 4ZA of the principal regulations (“annual subscription limit”). The provision for a flexible account does not apply to junior ISA accounts (defined in the principal regulations), which generally do not permit withdrawals to be made until the account matures. They also provide for an amount of up to an amount withdrawn from a Help to Buy ISA (defined in the Regulations), on the closure of that account, to be subscribed to an ISA account on the failure of a completion of a home without it counting for the purpose of the subscription limit under regulation 4ZA.
+
+Regulation 3 amends regulation 2 of the principal regulations relating to interpretation.
+
+Regulation 4 amends regulation 2D of the principal regulations by adding new regulation 5DDB and 5DDC as a regulation which does not apply to junior ISA accounts.
+
+Regulation 6 amends regulation 4B of the principal regulations, so that subscriptions under regulation 5D of the principal regulations which are to be disregarded for the purpose of the annual subscription limit are also to be disregarded for the purposes of regulation 4B.
+
+Regulation 7 amends regulation 5D of the principal regulations so that replacement subscriptions and subscriptions made on the closure of a Help to Buy ISA are to be disregarded for the purposes of the annual subscription limit.
+
+Regulation 10 inserts into the principal regulations new regulation 5DDB to provide for flexible accounts and new regulation 5DDC to provide for additional permitted subscriptions to be made on the closure of a Help to Buy ISA.
+
+Regulation 12 makes an amendment to regulation 10(2) of the principal regulations to enable a non-resident to make a subscription in accordance with regulation 5D.
+
+Regulation 16 amends regulation 31 in relation to the returns of information required from an account manager relating to certain subscriptions made in accordance with regulation 5D, so that, for example, the ‘net’ (rather than total) subscriptions made to the account are required to be reported and certain payments that do not count towards the annual subscription limit are excluded from the reporting requirement.
+
+Regulations 5, 8, 9, 11 and 13 to 15 make further minor and consequential amendments to the principal regulations.
+
+A Tax Information and Impact Note covering this instrument will be published on the website at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins.
+
+## Annotations
+
+[^f00001]: Footnote: [2005 c.5](https://www.legislation.gov.uk/ukpga/2005/5); sections 694 and 701 were amended by section 40 of the Finance Act [2011 (c.11)](https://www.legislation.gov.uk/ukpga/2011/11), sections 695 and 696 were amended by paragraphs 131 and 132 of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11), section 701(5) was inserted by section 40 of the Finance Act [2008 (c.9)](https://www.legislation.gov.uk/ukpga/2008/9).
+
+[^f00002]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12); section 151 was amended by section 85 of the Finance Act [1993 (c.34)](https://www.legislation.gov.uk/ukpga/1993/34), section 64(2) of the Finance Act [1995 (c.4)](https://www.legislation.gov.uk/ukpga/1995/4), paragraph 436 of Schedule 1 to the Income Tax (Trading and Other Income) Act 2005 and section 40(7) of the Finance Act 2011.
+
+[^key-efbb0faf9c545771f30b4495c7c30db1]: Commencement: Reg. 1 in force at 1.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/16/regulation/1)
+
+[^key-03aa222e73cf1e28378a0e029ab8b1f3]: Textual amendment: Reg. 1(1) renumbered as reg. 1. (6.4.2016) by [The Individual Savings Account (Amendment No. 2) Regulations 2016 (S.I. 2016/364)](https://www.legislation.gov.uk/uksi/2016/364), [regs. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1), [19](https://www.legislation.gov.uk/uksi/2016/364/regulation/19)
+
+[^key-4258f2c545dedf0d1f62992d191c88a6]: Commencement: Reg. 2 in force at 1.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/16/regulation/1)
+
+[^f00003]: Footnote: [S.I 1998/1870](https://www.legislation.gov.uk/uksi/1998/1870). Relevant amending instruments are: [S.I. 2001/908](https://www.legislation.gov.uk/uksi/2001/908), [S.I. 2002/3158](https://www.legislation.gov.uk/uksi/2002/3158), [S.I. 2007/2119](https://www.legislation.gov.uk/uksi/2007/2119), [S.I. 2008/704](https://www.legislation.gov.uk/uksi/2008/704), [S.I. 2012/1871](https://www.legislation.gov.uk/uksi/2012/1871), [S.I. 2013/605](https://www.legislation.gov.uk/uksi/2013/605), [S.I. 2014/654](https://www.legislation.gov.uk/uksi/2014/654), [S.I. 2014/1450](https://www.legislation.gov.uk/uksi/2014/1450), [S.I. 2015/608](https://www.legislation.gov.uk/uksi/2015/608) and [S.I. 2015/869](https://www.legislation.gov.uk/uksi/2015/869).
+
+[^key-c9a2aca2ba015e1ae7265222f0d1ef59]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/16/regulation/3) in force at 1.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/16/regulation/1)
+
+[^key-b9d4960651a76bde4308d289bad052c0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/16/regulation/4) in force at 1.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/16/regulation/1)
+
+[^key-cc576fefbb303eacbd60d96b31e08193]: Commencement: Reg. 5 in force at 1.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/16/regulation/1)
+
+[^key-33371ac06a89f93b68b9d04a7acfb970]: Commencement: Reg. 6 in force at 1.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/16/regulation/1)
+
+[^key-963ea45e9e5f110d7d555aff3a4740b9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2016/16/regulation/7) in force at 1.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/16/regulation/1)
+
+[^key-b19b54db9a9d6f54a8418b6b7f22e2bd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2016/16/regulation/8) in force at 1.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/16/regulation/1)
+
+[^key-81109607a890077c2437f65c37030c1e]: Commencement: Reg. 9 in force at 1.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/16/regulation/1)
+
+[^key-81017d036c3f142eb7d531cda6368691]: Textual amendment: Words in [reg. 9(a)](https://www.legislation.gov.uk/uksi/2016/16/regulation/9/a) substituted (6.4.2016) by [The Individual Savings Account (Amendment No. 2) Regulations 2016 (S.I. 2016/364)](https://www.legislation.gov.uk/uksi/2016/364), [regs. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1), [20](https://www.legislation.gov.uk/uksi/2016/364/regulation/20)
+
+[^key-aa7e91253b03c1002143bf5d710fe8d5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2016/16/regulation/10) in force at 1.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/16/regulation/1)
+
+[^f00004]: Footnote: Help to Buy: ISA scheme rules published by the Treasury on 17th November 2015, having effect from 1st December 2015. A copy can be obtained from http://www.helptobuy.gov.uk/docs/default-source/default-document-library/151102---scheme-rules.pdf and from the Treasury: the Banking and Credit Team, Help to Buy, HM Treasury,1 Horse Guards Road, London SW1A 2HQ.
+
+[^key-c1d622b2cf0d2463e2da421c33ace1fc]: Commencement: Reg. 11 in force at 1.2.2016 but reg. 11(b) has effect from 6.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/16/regulation/1)
+
+[^key-a315f85fa53d1fb42bd9dc7f6aa31491]: Commencement: Reg. 12 in force at 1.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/16/regulation/1)
+
+[^key-547de82fab31ecbc5da0479e3f355286]: Commencement: Reg. 13 in force at 1.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/16/regulation/1)
+
+[^key-2651950bdd5a41a3aa4fa1184f36ef7d]: Commencement: Reg. 14 in force at 1.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/16/regulation/1)
+
+[^key-5520a622493ebeb2b5672c0fcc8bf425]: Commencement: Reg. 15 in force at 1.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/16/regulation/1)
+
+[^key-3397e1d02813b6ff52879118b20ec23b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2016/16/regulation/16) in force at 1.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/16/regulation/1)
+
+[^key-48751e1fd88c29271b5f616dc06b84e2]: Textual amendment: Word in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2016/16/regulation/16/1) substituted (6.4.2016) by [The Individual Savings Account (Amendment No. 2) Regulations 2016 (S.I. 2016/364)](https://www.legislation.gov.uk/uksi/2016/364), [regs. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2016/364/regulation/21/a)
+
+[^key-b25571f355efac9fefe8b3a29a8bebfd]: Textual amendment: Words in [reg. 16(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2016/16/regulation/1/2/b/iii) substituted (6.4.2016) by [The Individual Savings Account (Amendment No. 2) Regulations 2016 (S.I. 2016/364)](https://www.legislation.gov.uk/uksi/2016/364), [regs. 1](https://www.legislation.gov.uk/uksi/2016/364/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/2016/364/regulation/21/b)

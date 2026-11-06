@@ -1,0 +1,147 @@
+---
+title: The Carbon Accounting (Provision for 2020) Regulations 2022
+id: uksi/2022/62
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-01-24'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/62
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/62/pdfs/uksiem_20220062_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/62/pdfs/uksi_20220062_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/62/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Carbon Accounting (Provision for 2020) Regulations 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 62
+
+Climate Change
+
+The Carbon Accounting (Provision for 2020) Regulations 2022
+
+Made
+
+24th January 2022
+
+Laid before Parliament
+
+25th January 2022
+
+Coming into force
+
+15th February 2022
+
+Before making these Regulations, the Secretary of State has consulted with the Scottish Ministers, the Welsh Ministers and the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, in accordance with section 28(4)(b) of the Climate Change Act 2008[^f00001].
+
+Accordingly the Secretary of State, in exercise of the powers conferred by sections 27(3) and (4) and 90(3)(a) and (b) of the Climate Change Act 2008, makes the following Regulations:
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Carbon Accounting (Provision for 2020) Regulations 2022 and come into force on 15th February 2022.
+
+(2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 2009 Regulations**” means the Carbon Accounting Regulations 2009[^f00002];
+- “**aerodrome**” has the same meaning as in article 4(4) of the Climate Change Act 2008 (2020 Target, Credit Limit and Definitions) Order 2009[^f00003];
+- “**the domestic aviation cap**” means the figure produced as a result of carrying out the calculation set out in paragraph 2 of the Schedule;
+- “**domestic aviation emissions**” means the emissions of carbon dioxide arising from any aircraft during taking off, flying and landing when the aerodrome from which the aircraft takes off and the aerodrome at which the aircraft next lands are both located in the United Kingdom.
+
+(2) In calculating domestic aviation emissions and the domestic aviation cap, the Secretary of State must use such data about aviation emissions as appear to the Secretary of State to be the best available data.
+
+## 3. Crediting and debiting of carbon units as a result of the operation of the EU Emissions Trading Scheme in respect of installations during 2020
+
+If, in accordance with the Greenhouse Gas Emissions Trading Scheme Regulations 2012[^f00004], the amount of carbon units surrendered by operators of installations[^f00005] in the United Kingdom in respect of 2020 was—
+
+- (a) greater than 104,023,383, an amount of carbon units equal to the difference is to be credited to the net UK carbon account in respect of 2020;
+- (b) less than 104,023,383, an amount of carbon units equal to the difference is to be debited from the net UK carbon account in respect of 2020.
+
+## 4. Crediting and debiting of carbon units to take into account domestic aviation emissions during 2020
+
+If domestic aviation emissions in 2020 were—
+
+- (a) greater than the domestic aviation cap, an amount of carbon units equal to the difference is to be credited to the net UK carbon account in respect of 2020;
+- (b) less than the domestic aviation cap, an amount of carbon units equal to the difference is to be debited from the net UK carbon account in respect of 2020.
+
+## 5. Duty to cancel carbon units credited to the net UK carbon account in respect of 2020
+
+(1) The Secretary of State must, during the period beginning on 1st January 2023 and ending on 15th May 2024, ensure that each carbon unit credited to the net UK carbon account in respect of 2020 under regulation 5 of the 2009 Regulations is cancelled.
+
+(2) A carbon unit is cancelled for the purpose of this regulation if an operation is performed in relation to it that is equivalent to the operation of cancellation or deletion under [Commission Regulation (EU) No 389/2013](https://www.legislation.gov.uk/european/regulation/2013/0389) of 2 May 2013 establishing a Union Registry pursuant to [Directive 2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council, Decisions No [280/2004/EC](https://www.legislation.gov.uk/european/decision/19280/2004) and No [406/2009/EC](https://www.legislation.gov.uk/european/decision/19406/2009) of the European Parliament and of the Council and repealing Commission Regulations [(EU) No 920/2010](https://www.legislation.gov.uk/european/regulation/2010/0920) and No 1193/2011, as it had effect immediately before IP completion day[^f00006].
+
+## 6. Amendments to the Carbon Accounting Regulations 2009
+
+In regulation 9(7) of the 2009 Regulations, after sub-paragraph (d) insert—
+
+> - (e) the Carbon Accounting (Provision for 2020) Regulations 2022.
+
+.
+
+Greg Hands
+
+Minister of State for Energy, Clean Growth and Climate Change
+
+Department for Business, Energy and Industrial Strategy
+
+24th January 2022
+
+## SCHEDULE — The Domestic Aviation Cap
+
+Regulation 2
+
+**1.** For the purpose of this Schedule—
+
+- “**EEA aviation emissions**” means the emissions of carbon dioxide arising from any aircraft during taking off, flying and landing when the aerodrome from which the aircraft takes off and the aerodrome at which the aircraft next lands are both located in the same EEA State;
+- “**EEA State**” means a state which was an EEA state on 31st December 2020 (whether or not that state was an EEA state in the years referred to in sub-paragraphs (a) and (c) of paragraph 2).
+
+**2.** The domestic aviation cap (“**DAC**”), expressed in tonnes of carbon dioxide equivalent, is calculated as follows—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2022/62)
+
+Where
+
+- (a) E is the arithmetic mean of the EEA aviation emissions for each of the years 2004, 2005 and 2006
+- (b) F is domestic aviation emissions for 2010, and
+- (c) G is EEA aviation emissions for 2010.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for carbon accounting in respect of 2020 for the purposes of Part 1 of the Climate Change Act [2008 (c. 27)](https://www.legislation.gov.uk/ukpga/2008/27) (“**the Act**”). They form part of the rules for determining the net UK carbon account, defined in section 27(1) of the Act. The amount of the net UK carbon account for different periods determines whether the targets in the Act for emissions reductions have been met. These Regulations are relevant to the third carbon budget set under the Act by the Carbon Budgets Order 2009 ([S.I. 2009/1259](https://www.legislation.gov.uk/uksi/2009/1259)) covering 2018-2022.
+
+Regulation 3 sets out the circumstances in which carbon units are to be credited to and debited from the net UK carbon account in respect of 2020 as a result of the operation of the European Union Emissions Trading Scheme in that year other than in relation to aviation.
+
+Regulation 4 sets out the circumstances in which carbon units are to be credited to and debited from the net UK carbon account to take into account domestic aviation emissions during 2020. It relies on the calculation of a domestic aviation cap in accordance with the Schedule.
+
+Regulation 5 places a duty on the Secretary of State to cancel all the carbon units (if any) credited to the net UK carbon account in respect of 2020.
+
+Regulation 6 makes a consequential amendment to the Carbon Accounting Regulations 2009.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2008 c. 27](https://www.legislation.gov.uk/ukpga/2008/27). See sections 95 and 96 for the definitions of “national authority” and “the relevant Northern Ireland department” in that Act.
+
+[^f00002]: Footnote: [S.I. 2009/1257](https://www.legislation.gov.uk/uksi/2009/1257), amended by [S.I. 2009/3146](https://www.legislation.gov.uk/uksi/2009/3146), [2015/775](https://www.legislation.gov.uk/uksi/2015/775), [2020/115](https://www.legislation.gov.uk/uksi/2020/115) and [2021/189](https://www.legislation.gov.uk/uksi/2021/189).
+
+[^f00003]: Footnote: [S.I. 2009/1258](https://www.legislation.gov.uk/uksi/2009/1258).
+
+[^f00004]: Footnote: [S.I. 2012/3038](https://www.legislation.gov.uk/uksi/2012/3038), to which there are amendments not relevant to these Regulations.
+
+[^f00005]: Footnote: See the definitions of “operator” and “installation” in regulation 3 of [S.I. 2012/3038](https://www.legislation.gov.uk/uksi/2012/3038).
+
+[^f00006]: Footnote: OJ No. L 122, 3.5.2013, p. 1 as last amended by Commission Delegated Regulation (EU) 2019/1122 of 12 March 2019 (OJ No. L 177, 2.7.2019, p. 3).

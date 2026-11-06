@@ -1,0 +1,369 @@
+---
+title: The Police (Pensions and Injury Benefit) (Amendment) Regulations 1992
+id: uksi/1992/2349
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1992-09-30'
+text_date: '1992-09-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1992/2349
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/2349/data.pdf
+pending_changes: 21
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police (Pensions and Injury Benefit) (Amendment) Regulations 1992
+
+> **Warning: changes not yet applied to this text (21).** Text as at 1992-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/1992/2349
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+**Not yet in force.**
+
+1992 No. 2349
+
+POLICE
+
+The Police (Pensions and Injury Benefit) (Amendment) Regulations 1992
+
+Made
+
+30th September 1992
+
+Laid before Parliament
+
+8th October 1992
+
+Coming into force
+
+1st November 1992
+
+In exercise of the powers conferred on me by sections 1, 3 and 4 of the Police Pensions Act 1976[^f00001], and after consultation with the Police Negotiating Board for the United Kingdom, I hereby with the consent of the Treasury[^f00002] make the following Regulations:
+
+## 1. Citation, commencement and interpretation[^key-258c521a92e4ed1bf1ca42e604035453]
+
+(1) These Regulations may be cited as the Police (Pensions and Injury Benefit) (Amendment) Regulations 1992 and shall come into force on 1st November 1992, but—
+
+- (a) regulations 9 and 17(2)(b) shall have effect as from 1st June 1989,
+- (b) regulations 3 to 5, 7, 8, 11 to 16 and 18 shall have effect as from 17th May 1990,
+- (c) regulations 2 and 17(1) shall have effect as from 28th February 1991,
+- (d) regulation 17(2)(a) shall have effect as from 1st July 1992, and
+- (e) regulations 6, 10 and 19 shall have effect as from 1st September 1992.
+
+(2) In these Regulations “the Pensions Regulations” means the Police Pensions Regulations 1987[^f00003] and “the Injury Benefit Regulations” means the Police (Injury Benefit) Regulations 1987[^f00004].
+
+## 2. Policeman’s deferred pension[^key-246b1721c8953b5518dee70b3e941697]
+
+Regulation B5 of the Pensions Regulations is amended by deleting paragraph (5).
+
+## 3. Limitation on award to widow living apart from her husband and widow’s requisite benefits pension[^key-69725fb542ce2747f70bad13436eb855]
+
+Regulation C8(1) of the Pensions Regulations is amended by substituting for the word “woman” the word “widow”.
+
+## 4. Termination of widow’s award on remarriage[^key-7b48b57297df9a2f3f0dcb51aa9efca4]
+
+Regulation C9(3) of the Pensions Regulations is amended by substituting—
+
+- (a) for the words “a woman and a man” the words “a widow and a person”; and
+- (b) for the words “she were married to him” the words “the widow were married to that person”.
+
+## 5. Child’s special gratuity[^key-9076f6c1faf576188412b681b2e35837]
+
+Regulation D3(1) of the Pensions Regulations is amended by substituting for the words after “satisfied and” the words “he does not leave a widow entitled to a gratuity under regulations C2 and C3.”.
+
+## 6. Lump sum death grant[^key-a195ef8d9fffbb758759cf2a806b48a2]
+
+The Pensions Regulations are amended by inserting after regulation E3—
+
+> **Widows and widowers**
+>
+> **E3A. Lump sum death grant**
+>
+> (1) On the death of a person while serving as a regular policeman a lump sum death grant becomes payable unless an election under regulation G4 not to pay pension contributions had effect at the time of the death.
+>
+> (2) The grant is payable whether or not any pension or gratuity is payable under Part C.
+>
+> (3) The amount of the grant is twice that of the deceased’s pensionable pay, expressed as an annual rate—
+>
+> - (a) at the time of the death, or
+> - (b) if he was then absent from duty without pay, immediately before that absence began.
+>
+> (4) The grant is to be paid—
+>
+> - (a) to any widow who qualifies for it, or
+> - (b) if there is no such widow, to the personal representatives.
+>
+> (5) A widow qualifies for the grant unlesss at the time of the death—
+>
+> - (a) the widow and the deceased were separated by an order or decree of a competent court, and
+> - (b) the deceased was not required by such an order to contribute, and was not in fact regularly contributing, to the support of the widow or to the widow for the support of a child of the widow's.
+
+.
+
+## 7. Gratuity in lieu of widow’s pension[^key-bbff75428e9fd9dfa9bbf8482e880e3f]
+
+Regulation E4(2) of the Pensions Regulations is amended by substituting for the word “woman” the word “widow”.
+
+## 8. Increase of widow’s pension or child’s allowance during first 13 weeks[^key-374771cbc4560f1c6c0644be83c0813f]
+
+Regulation E8(3) of the Pensions Regulations is amended by substituting for sub- paragraphs (a) and (b) the words “did not leave a widow entitled to a pension which was payable for a continuous period of 13 weeks”.
+
+## 9. Pensionable pay and average pensionable pay[^key-6c1ecd71f637f7d3111af7b97cecc517]
+
+Regulation G1 of the Pensions Regulations is amended—
+
+- (a) in paragraph (1), by substituting for the words “The pensionable pay” the words “Subject to paragraph (1A), the pensionable pay” and deleting the proviso; and
+- (b) by inserting after paragraph (1)—
+
+  > (1A) For the purposes of paragraph (1), in the case of a person by whom contributions became payable after 31st May 1989 either—
+  >
+  > - (a) for the first time, or
+  > - (b) following any period in respect of which they were not payable,
+  >
+  > except where regulation 4 of the Retirement Benefit Schemes (Tax Relief on Contributions) (Disapplication of Earnings Cap) Regulations 1990[^f00005] applies his pay shall be taken not to include any excess, in any tax year, over the figure which is the permitted maximum for that year for the purposes of section 594(2) and (3) of the Income and Corporation Taxes Act 1988[^f00006] (that is to say, the figure specified for the year by an order made by the Treasury under section 590C(6) of that Act).
+
+  .
+
+## 10. Pension contributions payable by regular policeman[^key-fd13ec80f73fe4d8df35687fb7935473]
+
+Regulation G2(1) of the Pensions Regulations is amended by substituting for the words after “less than” the words “11% of his pensionable pay.”.
+
+## 11. Policeman with guaranteed minimum for the purposes of the Social Security Pensions Act 1975[^key-36ac3b4184d6eaad2f6f01cae6b5915d]
+
+Regulation J1 of the Pensions Regulations is amended—
+
+- (a) in paragraph (4A)(a), and
+- (b) in paragraph (5A),
+
+by inserting after the words “regulation E1(1)(c)” the words “or under Part C”.
+
+## 12. Glossary of expressions[^key-815dcedd2d1cfc764c30608349cb8725]
+
+Schedule A to the Pensions Regulations is amended—
+
+- (a) by inserting after the definition of “home police force”—
+
+  > - “husband” includes wife;
+
+  ; and
+- (b) by inserting after the definition of “transfer”—
+
+  > - “widow”, except in regulation J1, includes widower;
+
+  > - “wife” includes husband.
+
+  .
+
+## 13. Widow’s ordinary pension[^key-d6703e86d112c1f96e0dbd890f59d252]
+
+(1) Paragraph 1 of Part I of Schedule C to the Pensions Regulations is amended by inserting after sub-paragraph (2)—
+
+> (2A) Where a pension becomes payable under regulation C1 to a man—
+>
+> - (a) the pension or notional pension referred to in sub-paragraph (1)(a) shall be taken to be that which would be payable if no account were taken of any pensionable service before 17th May 1990, and
+> - (b) sub-paragraph (1)(b) has effect with the substitution for “5th April 1978” of “16th May 1990”.
+
+.
+
+(2) Paragraph 3 of Part I of Schedule C to the Pensions Regulations is amended by inserting after the words “(flat rate award)” the words “; but a man may make an election under this paragraph only if the amount so determined would not exceed the amount calculated in accordance with paragraph 1”.
+
+## 14. Widow’s accrued pension[^key-8b40217d98c59d69f56fc81b149cde18]
+
+(1) Paragraph 1 of Part III of Schedule C to the Pensions Regulations is amended by inserting after sub-paragraph (1)—
+
+> (1A) Where a pension becomes payable under regulation C4 to a man, the amount of the deceased’s deferred pension shall for the purposes of sub-paragraph (1) be taken to be what it would be if no account were taken of any pensionable service before 17th May 1990.
+
+.
+
+(2) Paragraph 3 of Part III of Schedule C to the Pensions Regulations is amended by inserting after sub-paragraph (3)—
+
+> (4) A man may make an election under this paragraph only if the amount determined in accordance with regulation E10 would not exceed the amount calculated in accordance with paragraph 1 above.
+
+.
+
+## 15. Widow’s pension in case of post-retirement marriage[^key-7534a5222589d218d9f835ec1f7556ef]
+
+Part IV of Schedule C to the Pensions Regulations is amended by inserting after paragraph 3—
+
+> **4.** Where a pension becomes payable under regulation C5(3) to a man, paragraphs 2(a)(ii) and 3 above have effect with the substitution for “5th April 1978” of “16th May 1990”.
+
+.
+
+## 16. Widow’s requisite benefit pension[^key-91867f7df116d6c553e2a392a98dc42e]
+
+Paragraph 1 of Part V of Schedule C to the Pensions Regulations is amended by inserting after the words “5th April 1978” the words “; but where the pension is payable to a man this paragraph has effect with the substitution for “5th April 1978” of “16th May 1990””.
+
+## 17. Special cases[^key-666d11a853267e2027d0d6764299b330]
+
+(1) Part I of Schedule J to the Pensions Regulations (personal awards) is amended by deleting paragraph 8.
+
+(2) Part VI of Schedule J to the Pensions Regulations (pensionable pay and contributions etc.) is amended—
+
+- (a) in paragraph 4(2) by inserting after the words “of the same rank” the words “and with the same length of service in that rank”; and
+- (b) by inserting after paragraph 4—
+
+  > **5. Earnings cap: former members of Royal Ulster Constabulary**
+  >
+  > (1) This paragraph applies in the case of a regular policeman by whom contributions were payable under the Royal Ulster Constabulary pensions legislation for a period that included 31st May 1989.
+  >
+  > (2) For the purposes of regulation G1 (1A) (earnings cap) contributions that were payable as mentioned in sub-paragraph (1) shall be treated as having been payable under regulation G2.
+
+  .
+
+## 18. Death gratuity[^key-af481c3bf184d63620a9fd96450fb001]
+
+Regulation 3(2) of the Injury Benefit Regulations is amended by inserting after sub-paragraph (a)(iii)—
+
+> - (iv) “widow” includes “widower”; and
+
+.
+
+## 19. Abatement of certain gratuities[^key-83bf3a1c38b6283341d36a06c08e9091]
+
+Regulation 7(2)(a) of the Injury Benefit Regulations is amended by inserting after the words “or E3” the words “and of any death grant paid under regulation E3A”.
+
+## 20. Transitional provision[^key-72c55e263e5b0cc4bbcf8004308dd794]
+
+(1) Regulations C1 to C4, C5(3), C6, C7 and C8(2) of the Pensions Regulations apply to a widower only where the death occurred after 16th May 1990.
+
+(2) Where before 1st November 1992 a widower both—
+
+- (a) was granted a special pension under regulation E1 of the Pensions Regulations (“the dependant’s pension”), and
+- (b) became entitled by virtue of regulations 1(1) and 12 above to a special award under regulation C2 of the Pensions Regulations (“the special award”),
+
+he shall be treated as not having become entitled to the special award until 1st November 1992 or until the end of the period for which the dependant’s pension was payable, whichever is the earlier.
+
+(3) Where before 1st November 1992—
+
+- (a) a pension payable to a widower under regulation J1(4A) of the Pensions Regulations (guaranteed minimum) was commuted for a gratuity under regulation J1(6A) (“the gratuity”), and
+- (b) he became entitled by virtue of regulations 1(1) and 12 above to an award under Part C of the Pensions Regulations (“the Part C award”),
+
+the Part C award shall be reduced by the amount of the gratuity.
+
+(4) The reduction required by paragraph (3) shall be made—
+
+- (a) by deduction from any gratuity comprised in the Part C award, and
+- (b) if or to the extent that it cannot be made in that way, by deduction from the arrears of any pension comprised in the Part C award.
+
+(5) Where—
+
+- (a) before 1st November 1992 a transfer value became payable under regulation F9 or F10 of the Pensions Regulations, and
+- (b) its amount would have been greater if rights to awards to a widower arising by virtue of regulations 1(1) and 12 above had been included in the accrued rights (within the meaning of Section 1 of Part IV of Schedule F to the Pensions Regulations),
+
+an additional transfer value of the appropriate amount is payable.
+
+(6) The appropriate amount is the difference between the amount of the transfer value as originally calculated and the greater amount mentioned in paragraph (5)(b).
+
+(7) Where before 1st November 1992—
+
+- (a) a widower became entitled by virtue of regulations 1(1) and 18 above to a gratuity, and
+- (b) a gratuity was paid to a child or dependent relative,
+
+under regulation 5(3) of the Injury Benefits Regulations, the widower shall be treated as not having become entitled to a gratuity.
+
+## 21. Elections in respect of protected benefits[^key-80aae6d4023f4c2693bbed7e1be75b53]
+
+(1) This regulation applies to a person—
+
+- (a) to whom a protected benefit is being paid or may become payable, and
+- (b) who is placed in a worse position than he would have been in if an amendment made to the Pensions Regulations or to the Injury Benefit Regulations by these Regulations (“the relevant amendment”) had not applied in relation to the protected benefit.
+
+(2) A protected benefit is one which is being paid or may become payable by a police authority, under the Pensions Regulations or the Injury Benefit Regulations, to or in respect of a person who, having served as a member of a police force, ceased to serve as one, or died, before 1st November 1992.
+
+(3) A person to whom this regulation applies may, by giving written notice to the police authority within 3 months after 1st November 1992, elect that the relevant amendment is not to apply in relation to the protected benefit.
+
+Kenneth Clarke
+
+One of Her Majesty’s Principal Secretaries of State
+
+Home Office
+
+22nd September 1992
+
+We consent
+
+Tim Wood
+
+Tim Boswell
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+30th September 1992
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Police Pensions Regulations 1987 (“the Pensions Regulations”) and the Police (Injury Benefit) Regulations 1987 (“the Injury Benefit Regulations”).
+
+In conformity with the Occupational Pension Schemes (Preservation of Benefit) Regulations 1991 (S.I. [1991/167](https://www.legislation.gov.uk/uksi/1991/167)), regulations 2 and 17(1) remove, for persons becoming entitled to deferred pensions after 27th February 1991, the option available in some cases to take a reduced pension and a refund of pre-April 1975 contributions.
+
+Regulation 6 introduces a new lump sum death grant, equivalent to 2 years' pensionable pay. The grant is payable, in addition to any other death benefits, on the death after 31st August 1992 of a contributing regular policeman. If the policeman leaves a widow (which by virtue of regulation 12 includes a widower) and they were not separated, the grant is payable to the widow; otherwise, it is payable to the personal representatives. Regulation 19 correspondingly abates death gratuities payable under the Injury Benefit Regulations.
+
+Regulations 12 and 18 introduce, for deaths occurring after 16th May 1990, widowers' benefits of the same kinds as those provided for widows. For benefits calculated by reference to service, only service after that date counts (regulations 13 to 16). Regulations 3 to 5, 7, 8 and 11 make related amendments. Regulation 10 raises women’s contributions to the same rate as men’s with effect from 1st September 1992.
+
+Regulation 9 relaxes the “earnings cap” imposed on pensionable pay by the proviso to regulation G1(1) of the Pensions Regulations: it will, with effect from 1st June 1989, keep pace with the figure specified from time to time for tax purposes, and will not apply in cases where the “cap” is disapplied for those purposes. Regulation 17(2)(b) protects the position of senior officers who were serving in the Royal Ulster Constabulary when the “cap” was introduced and have since transferred to a mainland force. Regulation 17(2)(a) corrects a defect in the method of calculation of average pensionable pay for a period of part-time service.
+
+Transitional provision is made by regulation 20.
+
+Sections 1(5) and 3(1) of the Police Pensions Act 1976 confer express power to make regulations retrospective in effect and framed so as to apply in relation to pensions of, or in respect of, persons who left pensionable police service, or died, before the regulations come into force. These amending Regulations are to a large extent retrospective and so framed. Regulation 20 gives persons placed in a worse position the opportunity, required by section 3(2) of the 1976 Act, to elect that the relevant amendment is not to apply.
+
+## Annotations
+
+[^f00001]: Footnote: [1976 c. 35](https://www.legislation.gov.uk/ukpga/1976/35), amended by the Police Negotiating Board Act [1980 (c. 10)](https://www.legislation.gov.uk/ukpga/1980/10), section 2(3).
+
+[^f00002]: Footnote: Formerly the Minister for the Civil Service; see S.I. [1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).
+
+[^key-258c521a92e4ed1bf1ca42e604035453]: Commencement: Reg. 1 in force at 1.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^f00003]: Footnote: S.I. [1987/257](https://www.legislation.gov.uk/uksi/1987/257); relevant amendments were made by S.I. [1989/733](https://www.legislation.gov.uk/uksi/1989/733), [1990/805](https://www.legislation.gov.uk/uksi/1990/805), [1992/1343](https://www.legislation.gov.uk/uksi/1992/1343).
+
+[^f00004]: Footnote: S.I. [1987/156](https://www.legislation.gov.uk/uksi/1987/156), amended by S.I. [1987/256](https://www.legislation.gov.uk/uksi/1987/256), [341](https://www.legislation.gov.uk/uksi/1987/341).
+
+[^key-246b1721c8953b5518dee70b3e941697]: Commencement: Reg. 2 in force at 1.11.1992 with effect in accordance with reg. 1(1)(c), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^key-69725fb542ce2747f70bad13436eb855]: Commencement: Reg. 3 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^key-7b48b57297df9a2f3f0dcb51aa9efca4]: Commencement: Reg. 4 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^key-9076f6c1faf576188412b681b2e35837]: Commencement: Reg. 5 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^key-a195ef8d9fffbb758759cf2a806b48a2]: Commencement: Reg. 6 in force at 1.11.1992 with effect in accordance with reg. 1(1)(e), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^key-bbff75428e9fd9dfa9bbf8482e880e3f]: Commencement: Reg. 7 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^key-374771cbc4560f1c6c0644be83c0813f]: Commencement: Reg. 8 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^key-6c1ecd71f637f7d3111af7b97cecc517]: Commencement: Reg. 9 in force at 1.11.1992 with effect in accordance with reg. 1(1)(a), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^f00005]: Footnote: S.I. [1990/586](https://www.legislation.gov.uk/uksi/1990/586).
+
+[^f00006]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 590C was inserted, and section 594 amended, by the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), section 75 and Schedule 6 paragraphs 4 and 6.
+
+[^key-fd13ec80f73fe4d8df35687fb7935473]: Commencement: Reg. 10 in force at 1.11.1992 with effect in accordance with reg. 1(1)(e), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^key-36ac3b4184d6eaad2f6f01cae6b5915d]: Commencement: Reg. 11 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^key-815dcedd2d1cfc764c30608349cb8725]: Commencement: Reg. 12 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^key-d6703e86d112c1f96e0dbd890f59d252]: Commencement: Reg. 13 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^key-8b40217d98c59d69f56fc81b149cde18]: Commencement: Reg. 14 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^key-7534a5222589d218d9f835ec1f7556ef]: Commencement: Reg. 15 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^key-91867f7df116d6c553e2a392a98dc42e]: Commencement: Reg. 16 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^key-666d11a853267e2027d0d6764299b330]: Commencement: Reg. 17 in force at 1.11.1992 with effect in accordance with reg. 1(1)(a)(c)(d), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^key-af481c3bf184d63620a9fd96450fb001]: Commencement: Reg. 18 in force at 1.11.1992 with effect in accordance with reg. 1(1)(b), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^key-83bf3a1c38b6283341d36a06c08e9091]: Commencement: Reg. 19 in force at 1.11.1992 with effect in accordance with reg. 1(1)(e), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^key-72c55e263e5b0cc4bbcf8004308dd794]: Commencement: Reg. 20 in force at 1.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)
+
+[^key-80aae6d4023f4c2693bbed7e1be75b53]: Commencement: Reg. 21 in force at 1.11.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2349/regulation/1/1)

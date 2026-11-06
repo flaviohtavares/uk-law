@@ -1,0 +1,83 @@
+---
+title: The Financial Services and Markets Act 2000 (Exemption) (Amendment) Order 2020
+id: uksi/2020/322
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-03-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/322
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/322/pdfs/uksiem_20200322_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/322/pdfs/uksi_20200322_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/322/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Exemption) (Amendment) Order 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 322
+
+Financial Services And Markets
+
+The Financial Services and Markets Act 2000 (Exemption) (Amendment) Order 2020
+
+Made
+
+at 10.40 a.m. on 20th March 2020
+
+Laid before Parliament
+
+at 1.30 p.m. on 20th March 2020
+
+Coming into force
+
+23rd March 2020
+
+The Treasury make the following Order in exercise of the powers conferred by section 38 of the Financial Services and Markets Act 2000[^f00001].
+
+## 1. Citation and commencement
+
+This Order may be cited as the Financial Services and Markets Act 2000 (Exemption) (Amendment) Order 2020 and comes into force on 23rd March 2020.
+
+## 2. Amendment of the Financial Services and Markets Act 2000 (Exemption) Order 2001
+
+(1) The Financial Services and Markets Act 2000 (Exemption) Order 2001[^f00002] is amended as follows.
+
+(2) In Part 1 of the Schedule (persons exempt in respect of any regulated activity other than insurance business), after paragraph 15B, insert—
+
+> **15C.** Covid Corporate Financing Facility Limited.
+
+.
+
+Iain Stewart
+
+Maggie Throup
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+At 10.40 a.m. on 20th March 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Financial Services and Markets Act 2000 (Exemption) Order 2001 ([S.I. 2001/1201](https://www.legislation.gov.uk/uksi/2001/1201)) (“the principal order”).
+
+The principal order exempts certain persons from the general prohibition set out in section 19 of the Financial Services and Markets Act [2000 (c.8)](https://www.legislation.gov.uk/ukpga/2000/8), which provides that no person may carry on a regulated activity within the UK unless that person is (a) an authorised person, or (b) an exempt person.
+
+This Order amends the principal order by adding Covid Corporate Financing Facility Limited to the list of persons in Part 1 of the Schedule who are exempt in respect of any regulated activity other than insurance business.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on business or the voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^f00002]: Footnote: [S.I. 2001/1201](https://www.legislation.gov.uk/uksi/2001/1201). Part 1 of the Schedule was amended by [S.I. 2003/47](https://www.legislation.gov.uk/uksi/2003/47) and [S.I. 2009/118](https://www.legislation.gov.uk/uksi/2009/118); there are other amendments to that Part not relevant to this Order.

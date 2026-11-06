@@ -1,0 +1,136 @@
+---
+title: The Visiting Forces and International Headquarters (Application of Law) (Amendment) Order 2009
+id: uksi/2009/705
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2009-03-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2009/705
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/705/pdfs/uksiem_20090705_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/705/pdfs/uksi_20090705_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/705/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Visiting Forces and International Headquarters (Application of Law) (Amendment) Order 2009
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2009 No. 705
+
+Defence
+
+The Visiting Forces and International Headquarters (Application of Law) (Amendment) Order 2009
+
+Made
+
+18th March 2009
+
+Coming into force
+
+19th March 2009
+
+At the Court at Buckingham Palace, the 18th day of March 2009
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+A draft of this Order has in accordance with section 8(6) of the Visiting Forces Act 1952[^f00001] been laid before Parliament and approved by a resolution of each House of Parliament;
+
+Her Majesty, on the advice of Her Privy Council and in exercise of the power conferred on Her by section 8 of the Visiting Forces Act 1952 and by virtue of paragraph 7 of the Schedule to the International Headquarters and Defence Act 1964[^f00002], makes the following Order:
+
+## 1. Citation and Commencement
+
+This Order may be cited as the Visiting Forces and International Headquarters (Application of Law)(Amendment) Order 2009 and shall come into force on the day after that on which it is made.
+
+## 2. Interpretation
+
+In this Order “1999 Order” means the Visiting Forces and International Headquarters (Application of Law) Order 1999[^f00003].
+
+## 3. Preliminary
+
+The 1999 Order shall be amended in accordance with Articles 4 and 5.
+
+## 4. Amendment of Part II of Schedule 1 to the 1999 Order
+
+In the list of countries contained in Part II of Schedule 1 to the 1999 Order[^f00004]—
+
+- (a) “Bosnia-Herzegovina” shall be inserted between “Belgium” and “Bulgaria”;
+- (b) “Croatia” shall be inserted between “Bulgaria” and “The Czech Republic”;
+- (c) “Ireland shall be inserted between “Hungary” and “Italy”;
+- (d) “Montenegro” shall be inserted between “Moldova” and “The Netherlands”;
+- (e) “Serbia” shall be inserted between “Russia” and “Slovakia”; and
+- (f) “Tajikistan” shall be inserted between “Switzerland” and “Turkey”.
+
+## 5. New Schedule 2 to the 1999 Order
+
+For Schedule 2 to the 1999 Order there shall be substituted—
+
+> **SCHEDULE 2 — HEADQUARTERS TO WHICH THE ORDER APPLIES**
+>
+> Article 3(2)
+>
+> - Headquarters of the Supreme Allied Commander Transformation (HQ SACT)
+> - Supreme Headquarters Allied Powers Europe (SHAPE)
+> - Maritime Component Command Headquarters Northwood (CC-MAR HQ NORTHWOOD)
+> - Commander Submarines Allied Naval Forces North (COMSUBNORTH)
+> - NATO Airborne Early Warning and Control Force (NAEW&CF)
+> - NATO Joint Electronic Warfare Core Staff (NATO JEWCS)
+> - Headquarters United Kingdom – Netherlands Amphibious Force (UKNLAF)
+> - Headquarters United Kingdom – Netherlands Landing Force (UKNLLF)
+> - The European Air Group (EAG)
+> - The Intelligence Fusion Centre (IFC)
+> - Headquarters Allied Rapid Reaction Corps (HQ ARRC)
+
+Judith Simpson
+
+Clerk of the Privy Council
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Visiting Forces and International Headquarters (Application of Law) Order 1999 ([S.I.1999/1736](https://www.legislation.gov.uk/uksi/1999/1736)) (“1999 Order”).
+
+It adds Bosnia-Herzegovina, Croatia, Ireland, Montenegro, Serbia and Tajikistan to the list of countries in Part II of Schedule 1 to the 1999 Order, with the effect that the 1999 Order applies to the visiting forces of those countries. Bosnia-Herzegovina, Croatia, Ireland, Montenegro, Serbia and Tajikistan are added as part of meeting the UK’s obligations under the NATO Partnership for Peace Status of Forces Agreement. Additionally, Ireland is added as part of meeting the UK’s obligations under the European Union Status of Forces Agreement (Official Journal of the European Union, 2003/C 321/02).
+
+The Order also substitutes a new Schedule 2 to the 1999 Order, which lists the headquarters to which the 1999 Order applies. To reflect the changes to the NATO command structure, certain headquarters are removed from Schedule 2 to the 1999 Order, namely:
+
+- Headquarters Allied Forces North Western Europe (AFNORTHWEST);
+- Headquarters Allied Air Forces North Western Europe (AIRNORTHWEST);
+- Headquarters Allied Maritime Air Forces North West (MARAIRNORTHWEST);
+- Headquarters Submarine Forces North West (SUBNORTHWEST);
+- Headquarters Allied Forces Eastern Atlantic Area (EASTLANT);
+- Headquarters Maritime Air Forces Eastern Atlantic Area (MARAIREASTLANT); and
+- Headquarters Submarine Forces Eastern Atlantic Area (SUBEASTLANT).
+- Three headquarters remain in Schedule 2 to the 1999 Order, but are renamed:
+- Headquarters of the Supreme Allied Commander Atlantic (SACLANT) as Headquarters of the Supreme Allied Commander Transformation (HQ SACT);
+- Headquarters Allied Naval Forces North Western Europe (NAVNORTHWEST) as Maritime Component Command Headquarters Northwood (CC-MAR HQ NORTHWOOD); and
+- NATO Airborne Early Warning Force Headquarters and the NATO E-3A Component as NATO Airborne Early Warning and Control Force (NAEW&CF).
+- Three headquarters remain unchanged:
+- The Supreme Headquarters Allied Powers Europe (SHAPE);
+- Headquarters United Kingdom – Netherlands Amphibious Force (UKNLAF); and
+- Headquarters United Kingdom – Netherlands Landing Force (UKNLAF).
+- Four headquarters are new, having been set up since the 1999 Order:
+- Commander Submarines Allied Naval Forces North (COMSUBNORTH);
+- NATO Joint Electronic Warfare Core Staff (NATO JEWCS);
+- The European Air Group (EAG); and
+- The Intelligence Fusion Centre (IFC).
+- Headquarters Allied Rapid Reaction Corps (HQ ARRC) is due to relocate to the United Kingdom in 2010.
+
+## Annotations
+
+[^f00001]: Footnote: [1952 c.67](https://www.legislation.gov.uk/ukpga/1952/67).
+
+[^f00002]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5).
+
+[^f00003]: Footnote: [S.I. 1999/1736](https://www.legislation.gov.uk/uksi/1999/1736).
+
+[^f00004]: Footnote: The countries being added to Part II by this article have also been designated by [S.I. 2008/299](https://www.legislation.gov.uk/uksi/2008/299) under section 1(2) of the Visiting Forces Act [1952 (c.67)](https://www.legislation.gov.uk/ukpga/1952/67).

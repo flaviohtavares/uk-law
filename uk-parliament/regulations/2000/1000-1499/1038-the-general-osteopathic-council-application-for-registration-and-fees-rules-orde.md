@@ -1,0 +1,324 @@
+---
+title: The General Osteopathic Council (Application for Registration and Fees) Rules Order of Council 2000
+id: uksi/2000/1038
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2000-04-13'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2000/1038
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2000/1038/pdfs/uksi_20001038_en.pdf
+- http://www.legislation.gov.uk/uksi/2000/1038/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The General Osteopathic Council (Application for Registration and Fees) Rules Order of Council 2000
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2000 No. 1038
+
+OSTEOPATHS
+
+The General Osteopathic Council (Application for Registration and Fees) Rules Order of Council 2000
+
+Made
+
+13th April 2000
+
+Coming into force
+
+9th May 2000
+
+At the Council Chamber, Whitehall, the 13th day of April 2000
+
+By the Lords of Her Majesty’s Most Honourable Privy Council
+
+Whereas in exercise of its powers under sections 3(2)(a), 4(2)(a) and 6(2), (3) and (4) of the Osteopaths Act 1993[^c17274771] ( “the Act") the General Osteopathic Council has made the General Osteopathic Council (Application for Registration and Fees) Rules 2000 as set out in the Schedule to this Order:
+
+And whereas by section 35(1) of the Act the approval of the Privy Council is required for this exercise of the powers of the General Osteopathic Council:
+
+Now, therefore, Their Lordships, having taken the Rules into consideration, in exercise of their powers under section 36 of the Act, and of all other powers enabling them in that behalf, are pleased to approve them.
+
+This Order may be cited as the General Osteopathic Council (Application for Registration and Fees) Rules Order of Council 2000, and shall come into force on 9th May 2000.
+
+A.K. Galloway
+
+Clerk of the Privy Council
+
+## SCHEDULE — THE GENERAL OSTEOPATHIC COUNCIL (APPLICATION FOR REGISTRATION AND FEES) RULES 2000[^key-afb0275dfe3512fdfedd7288bbddee20]
+
+[^key-afb0275dfe3512fdfedd7288bbddee20]
+
+[^c20927511]The General Osteopathic Council, in exercise of its powers under sections 3(2)(a), 4(2)(a) and 6(2), (3) and (4) of the Osteopaths Act 1993 , and of all other powers enabling it in that behalf, hereby makes the following Rules:
+
+### PART I — Introduction
+
+#### 1. Citation and commencement
+
+These Rules may be cited as the General Osteopathic Council (Application for Registration and Fees) Rules 2000 and shall come into force on 9th May 2000.
+
+#### 2. Interpretation
+
+(1) In these Rules, unless the context otherwise requires—
+
+- “the Act" means the Osteopaths Act 1993;
+- “applicant" means a person applying to be registered as a registered osteopath;
+- “bank authority" means any form of authority which a person may give to his bank including a letter of authority, banker’s order, standing order or variable direct debit;
+- “doctor" means a registered medical practitioner;
+- [^key-c02ae22742713548c71650843e0845fc]...
+- [^key-2ced6cb218a7f346b84615997ebf748d]...
+- “relative", in relation to any person, means any of the following—
+  - (a) his spouse;
+  - (b) any lineal ancestor, lineal descendant, brother, sister, aunt, uncle, nephew, niece or first cousin of his or his spouse;
+  - (c) the spouse of any relative within paragraph (b) above; and for the purposes of deducing any such relationship “spouse" includes a former spouse, a partner to whom the person is not married, and a partner of the same sex; and “relevant qualification" means a recognised qualification or a qualification treated as a recognised qualification by rules made under section 3(6) of the Act.
+
+(2) In these Rules, any reference to the date on which the retention fee is due is a reference to—
+
+- (a) where the entry in the register was first made during the transitional period, the first 9th May following the end of that period and 9th May in every subsequent year;
+- (b) where the entry in the register was first made after the end of the transitional period, the anniversary of the date on which the entry was first made in the register and on that date in every subsequent year and if the entry was first made on 29th February it shall be treated as having been made on 1st March;
+- (c) where an entry in the register has been removed and is subsequently restored, the anniversary of the date on which restoration was made and on that date in every subsequent year and if restoration was made on 29th February it shall be treated as having been made on 1st March.
+
+(3) Unless the context otherwise requires—
+
+- (a) any reference in these Rules to a numbered rule is a reference to the rule bearing that number in these Rules; and
+- (b) any reference in a rule to a numbered paragraph is a reference to the paragraph bearing that number in that rule.
+
+#### 3. Service of documents
+
+(1) In these Rules—
+
+- (a) any reference to the sending of a notice to an applicant or a registered osteopath is a reference to the sending of the notice to an electronic mail address that the applicant or registered osteopath has notified to the Council as an address for communications or[^key-e1f627964118e26509c9fe3a5491ac08] by registered post service or by a postal service in which delivery or receipt is recorded to the address at which he has his practice or his principal practice or, if he is not practising, the address which he has informed the Registrar in writing is the address to be shown in the register in relation to his name; and
+- (b) where any notice or document is sent to an applicant or a registered osteopath, it shall be treated as having been sent on the day that it was posted.
+
+(2) The address at which a registered osteopath has his principal practice is the address which he has informed the Registrar is the address to be shown as such in the register in relation to his name.
+
+### PART II — Application for Registration
+
+#### 4. Application for registration as a fully registered osteopath
+
+(1) An application for registration as a fully registered osteopath shall be—
+
+- (a) in writing;
+- (b) on the form approved by the General Council for the purpose which shall require the applicant to provide the following information—
+  - (i) the applicant’s personal details, including his full name, title, sex, age, date of birth, practice or principal practice address or, if not practising, the address to be shown in the register, telephone and fax numbers, details of any criminal convictions and state of health;
+  - (ii) the applicant’s professional details, including the name and address of the osteopathic institution he attended and the qualification gained, the outcome of any civil or negligence claims, membership of any other professional body and the outcome of any disciplinary proceedings; and
+  - (iii) such other information as the General Council may reasonably require;
+- (c) completed and signed by the applicant; and
+- (d) given or sent to the Registrar.
+
+(2) The applicant shall provide in connection with the application for registration—
+
+- (a) a character reference, that is a reference as to the good character of the applicant given on the form specified in Part I of the Schedule by a person who—
+  - (i) is not a relative of the applicant;
+  - (ii) is a person of standing in the community which includes a registered osteopath, solicitor, accountant, bank manager, Justice of the Peace, principal of the institution which granted the applicant a relevant qualification or a person authorised by the principal of that institution, Minister of the Church, Rabbi, Imam or other religious official acceptable to he Registrar; and
+  - (iii) has known the applicant for a period of at least four years;
+- (b) subject to paragraph (3), a health reference, that is a reference as to the physical and mental health of the applicant given on the form specified in Part II of the Schedule by the applicant’s doctor provided—
+  - (i) he is not a relative of the applicant, and
+  - (ii) he has known the applicant for a period of at least four years;
+- (c) the document conferring or evidencing the possession by the applicant of a relevant qualification; and
+- (d) such other information and documents as the Registrar may reasonably require for the purpose of determining the application.
+
+(3) Where the Registrar is satisfied that the applicant cannot provide a health reference in the terms provided by paragraph (2)(b) for whatever reason, the Registrar may satisfy himself as to the physical and mental health of the applicant in any of the following ways—
+
+- (a) by a reference given by a doctor who, in giving the reference, relies on the medical records of the applicant made by a doctor of whom the applicant was a patient for a period of at least four years or the records of a doctor who has practised in partnership with such a doctor;
+- (b) by an examination by a doctor nominated by the Registrar; or
+- (c) by such other manner as the Registrar considers appropriate in a particular case.
+
+#### 5. Other conditions of registration
+
+(1) For the purpose of satisfying himself as to the good character of the applicant, the Registrar shall have regard to—
+
+- (a) the character reference referred to in rule 4(2)(a);
+- (b) any criminal offence which the applicant has been convicted of;
+- (c) such other matters as appear to him to be relevant;
+
+and for this purpose the Registrar may seek information additional to that provided with the application for registration from both the applicant and from any other person or source.
+
+(2) For the purpose of satisfying himself as to the physical and mental health of the applicant, the Registrar shall have regard to—
+
+- (a) the health reference referred to in rule 4(2)(b);
+- (b) such other matters as appear to him to be relevant;
+
+and for this purpose the Registrar may seek information additional to that provided with the application for registration from both the applicant and from any other person or source and may require the applicant to be examined by a doctor nominated by the Registrar.
+
+### PART III — Fees
+
+#### 6. Entry fee
+
+(1) Subject to paragraph (2), the fee to be charged for making an entry in the register (“the entry fee") in respect of a person who—
+
+- (a) has made an application for registration as a registered osteopath after the end of the transitional period shall be £750 or, where the fee is to be paid by instalments, £795;
+- (b)[^key-0640455df5ee812bd9760c940f507bd8] has made an application to which rule 2 of the General Osteopathic Council (Registration of Osteopaths with United Kingdom Qualifications that are not Recognised Qualifications) Rules 2009 relates shall be £1,250 or, where the fee is to be paid by instalments, £1,375.
+
+(2) Where one or more of the following circumstances apply—
+
+- (a) the applicant does not intend to practise for at least three months during the twelve month period beginning with the date on which he either—
+  - (i) delivers the entry fee to the Registrar personally, or
+  - (ii) sends the entry fee by registered post service or by a postal service in which delivery or receipt is recorded to the Registrar at the address of any office of the General Council;
+- (b) the applicant resides outside the United Kingdom [^key-e97df699997bfa62ee15fe090cbfdb83]... or the Channel Islands or the Isle of Man;
+- (c) the application for registration is the first successful application made by the applicant;
+
+the entry fee shall be £320[^key-474490d2549ac2bf084fcdd671175211] or, where the fee is to be paid by instalments, £330[^key-d535c19fddb36d8637b0661869c869a3].
+
+(3) The entry fee may only be paid by instalments with the agreement of both the applicant and the Registrar and where the Registrar has sent the applicant a notice in writing specifying the date by which each instalment is to be paid to the Registrar and the amount thereof.
+
+(4) Where it has been agreed in accordance with paragraph (3) that the entry fee shall be paid by instalments, the Registrar shall not enter the applicant’s name in the register until the first instalment has been paid.
+
+#### 7. Registrar’s authority in relation to entry fees
+
+(1) Where it has been agreed in accordance with rule 6(3) that the entry fee shall be paid by instalments and the osteopath concerned fails to pay an instalment on the date on which it is due, the Registrar shall send the osteopath a notice in writing stating that, if the instalment is not paid within the period of 28 days beginning with the date on which the notice is sent, the Registrar will remove the osteopath’s entry from the register unless the osteopath satisfies him that removal from the register would cause him undue hardship.
+
+(2) If the instalment is not paid within the period referred to in paragraph (1), the Registrar shall remove the osteopath’s entry from the register unless he is satisfied that removal would cause the osteopath concerned undue hardship.
+
+(3) In this rule, a reference to the date on which an instalment is due is a reference to a date which, in accordance with rule 6(3), the Registrar has notified the applicant is a date by which an instalment of the entry fee is payable.
+
+#### 8. Retention fee
+
+(1) Subject to paragraphs (2), (3) and (4), the fee to be charged in respect of the retention in the register of any entry in any year following the year in which the entry was first made (“the retention fee") shall be £570[^key-1c3d94fdca9a8e90f5619fdbe8565b98] or, where the fee is to be paid by instalments, £590[^key-17068b83f4bd5af182299ae527d127e0].
+
+(2) Where–
+
+- (a) the osteopath is not, on the date on which the retention fee is due, practising as an osteopath and does not intend to practise as an osteopath for at least three months during the twelve month period beginning with the date on which the retention fee is due; or
+- (b) the osteopath resides outside the United Kingdom [^key-cf3cb59933a84f2e99b57de1baae0416]... the Channel Islands or the Isle of Man;
+
+the retention fee shall be £320[^key-9d496a6d6e139f81c314ed340b6a4079] or, where the fee is to be paid by instalments, £330[^key-f48599e099ee6eec28ff5a6418c0739e].
+
+(3) Where an osteopath satisfies the following conditions—
+
+- (a) the osteopath is paying a retention fee for the first time;
+- (b) he has been granted a qualification in osteopathy, whether or not it is a relevant qualification, during the period of one year immediately preceding the date on which he was first registered; and
+- (c) he has not been practising as an osteopath for longer than a period of eighteen months ending with the date on which he was first registered,
+
+the retention fee shall be £430[^key-2010668e004b85158d964bb9591c123a] or, where the fee is to be paid by instalments, £445[^key-ae94123ca157719d325c485e66c54941].
+
+(4) Where paragraphs (2) and (3) apply, the retention fee shall be £215[^key-43b6c8b45807e8fee7ec6a10a5cebbf0] or, where the fee is to be paid by instalments, £225[^key-9eae6d3726f7299942ae1bbb50b8ea20].
+
+(5) The retention fee may only be paid by instalments with the agreement of both the osteopath and the Registrar and where the Registrar has sent the osteopath a notice in writing specifying the date by which each instalment is to be paid to the Registrar and the amount thereof.
+
+#### 9. Registrar’s authority in relation to retention fees
+
+(1) Except where it has been agreed that the retention fee shall be paid by instalments, the Registrar shall remove from the register any entry relating to a registered osteopath who, after the appropriate notices specified in either paragraph (2) or (3) have been sent, fails to pay the retention fee unless he is satisfied that the removal would cause the osteopath undue hardship.
+
+(2) Where a registered osteopath has not given the Registrar a bank authority, the Registrar shall—
+
+- (a) send the osteopath a notice in writing not less than 28 days before the date on which the retention fee is due which states that the retention fee is due and the date on which it is due; and
+- (b) if the retention fee has not been paid by the date on which it is due, send a further notice (“the second notice") in writing stating that if the retention fee is not paid within the period of 14 days beginning with the day on which the second notice is sent the Registrar will remove the osteopath’s entry from the register unless the osteopath satisfies him that removal from the register would cause him undue hardship.
+
+(3) Where a registered osteopath has given the Registrar a bank authority and the retention fee has not been paid in accordance with that authority by the date on which that fee is due, the Registrar shall send the osteopath a notice in writing stating that, if the retention fee is not paid within the period of 28 days beginning with the day on which the notice is sent, the Registrar will remove the osteopath’s entry from the register unless the osteopath satisfies him that removal from the register would cause him undue hardship.
+
+(4) Where it has been agreed in accordance with rule 8(5) that the retention fee shall be paid by instalments and the osteopath has failed to pay an instalment on the date when it is due, the Registrar shall send the osteopath a notice in writing stating that, if the instalment is not paid within the period of 14 days beginning with the day on which the notice is sent, the Registrar will remove the osteopath’s entry from the register unless the osteopath satisfies him that removal from the register would cause him undue hardship.
+
+(5) If the instalment is not paid within the period referred to in paragraph (4), the Registrar shall remove the osteopath’s entry from the register unless he is satisfied that the removal would cause the osteopath concerned undue hardship.
+
+(6) In this rule, a reference to the date on which an instalment of a retention fee is due is a reference to a date which the Registrar has notified the osteopath concerned under rule 8(5) is a date on which an instalment is payable.
+
+#### 10. Restoration fee
+
+(1) Subject to paragraphs (2) and (3), the fee to be charged for restoring an entry in the register (“the restoration fee") shall be £570[^key-054d89809b880fefd7d90a77b8533ef8].
+
+(2) Where—
+
+- (a) the person applying for restoration to the register does not intend to practise for at least three months during the twelve month period beginning with the date on which he either—
+  - (i) delivers the restoration fee to the Registrar, or
+  - (ii) sends the restoration fee by registered post service or by a postal service in which delivery or receipt is recorded to the Registrar at the address of any office of the General Council; or
+- (b) the osteopath resides outside the United Kingdom [^key-f6762cb44502bb6835b5d325804a35ec]... the Channel Islands or the Isle of Man;
+
+the restoration fee shall be £320[^key-ceecfd9ddca5a18532515d1ac7696cfd].
+
+(3) Where the osteopath applying for restoration to the register has never paid a retention fee, the restoration fee shall be £430[^key-a6a205b0c81af84643b53d525e0a5384].
+
+#### 11. Entry in the register, and payment of fees
+
+The Registrar shall refuse to make an entry in the register in respect of a person who has made an application for registration as a registered osteopath unless the fees specified in rules 6 and 8 have been paid and shall refuse to restore an entry to the register unless the fee specified in rule 10 has been paid.
+
+### PART IV — Revocation and Savings
+
+#### 12. Revocation
+
+Subject to rule 13, with effect from 9th May 2000, the General Osteopathic Council (Transitional Period) (Application for Registration and Fees) Rules 1998 (“the 1998 Rules") set out in the Schedule to the General Osteopathic Council (Transitional Period) (Application for Registration and Fees) Rules Order of Council 1998 [^c17274811] are revoked.
+
+#### 13. Savings
+
+Parts I and II of the 1998 Rules shall continue to have effect only for the purpose of determining applications for registration as a registered osteopath made during the transitional period.
+
+## SCHEDULE — REFERENCES
+
+### PART I — Form For Good Character Reference
+
+**Rule 4(2)(a)**
+
+[image: see source](https://www.legislation.gov.uk/uksi/2000/1038/images/uksi_20001038_en_sld_001)
+
+### PART II — Form for Health Reference
+
+Rule 4(2)(b)
+
+[image: see source](https://www.legislation.gov.uk/uksi/2000/1038/images/uksi_20001038_en_sld_002)[image: see source](https://www.legislation.gov.uk/uksi/2000/1038/images/uksi_20001038_en_sld_003)
+
+(This note is not part of the Order)
+
+This Order, made under the Osteopaths Act 1993, approves Rules made by the General Osteopathic Council—
+
+prescribing the procedure for applying for registration as a registered osteopath after the end of the transitional period (the period of two years beginning with the opening of the register of osteopaths); and
+
+specifying the various fees to be charged after the end of that period for making, retaining and restoring an entry in the register of osteopaths.
+
+## Annotations
+
+[^c17274771]: Marginal citation: [1993 c. 21](https://www.legislation.gov.uk/ukpga/1993/21).
+
+[^key-afb0275dfe3512fdfedd7288bbddee20]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/2000/1038/schedule) applied (with modifications) (10.8.2009) by [The General Osteopathic Council (Registration of Osteopaths with United Kingdom Qualifications that are not Recognised Qualifications) Rules Order of Council 2009 (S.I. 2009/1993)](https://www.legislation.gov.uk/uksi/2009/1993), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2009/1993/schedule/paragraph/1/1), [3](https://www.legislation.gov.uk/uksi/2009/1993/schedule/paragraph/3)
+
+[^c20927511]: Marginal citation: [1993 c. 21](https://www.legislation.gov.uk/ukpga/1993/21).
+
+[^key-c02ae22742713548c71650843e0845fc]: Textual amendment: Words in [Sch. rule 2(1)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/2/1) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 13(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/13/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2ced6cb218a7f346b84615997ebf748d]: Textual amendment: Words in Sch. rule 2(1) omitted (18.8.2004) by virtue of [The European Qualifications (Health and Social Care Professions and Accession of New Member States) Regulations 2004 (S.I. 2004/1947)](https://www.legislation.gov.uk/uksi/2004/1947), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/1947/regulation/1/2), [15(2)(b)](https://www.legislation.gov.uk/uksi/2004/1947/regulation/15/2/b)
+
+[^key-e1f627964118e26509c9fe3a5491ac08]: Textual amendment: Words in [Sch. rule 3(1)(a)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/3/1/a) inserted (16.7.2020) by [The General Osteopathic Council (Coronavirus) (Amendment) Rules Order of Council 2020 (S.I. 2020/596)](https://www.legislation.gov.uk/uksi/2020/596), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2020/596/schedule/paragraph/1), [4](https://www.legislation.gov.uk/uksi/2020/596/schedule/paragraph/4)
+
+[^key-0640455df5ee812bd9760c940f507bd8]: Textual amendment: [Sch. rule 6(1)(b)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/6/1/b) substituted (10.8.2009) by [The General Osteopathic Council (Registration of Osteopaths with United Kingdom Qualifications that are not Recognised Qualifications) Rules Order of Council 2009 (S.I. 2009/1993)](https://www.legislation.gov.uk/uksi/2009/1993), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2009/1993/schedule/paragraph/1/1), [5](https://www.legislation.gov.uk/uksi/2009/1993/schedule/paragraph/5)
+
+[^key-e97df699997bfa62ee15fe090cbfdb83]: Textual amendment: Words in [Sch. rule 6(2)(b)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/6/2/b) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 13(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/13/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-474490d2549ac2bf084fcdd671175211]: Textual amendment: Sum in [Sch. rule 6(2)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/6/2) substituted (1.5.2014) by [The General Osteopathic Council (Application for Registration and Fees) (Amendment) Rules Order of Council 2014 (S.I. 2014/598)](https://www.legislation.gov.uk/uksi/2014/598), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/1/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/2/a/i)
+
+[^key-d535c19fddb36d8637b0661869c869a3]: Textual amendment: Sum in [Sch. rule 6(2)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/6/2) substituted (1.5.2014) by [The General Osteopathic Council (Application for Registration and Fees) (Amendment) Rules Order of Council 2014 (S.I. 2014/598)](https://www.legislation.gov.uk/uksi/2014/598), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/1/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/2/a/ii)
+
+[^key-1c3d94fdca9a8e90f5619fdbe8565b98]: Textual amendment: Sum in [Sch. rule 8(1)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/8/1) substituted (1.5.2014) by [The General Osteopathic Council (Application for Registration and Fees) (Amendment) Rules Order of Council 2014 (S.I. 2014/598)](https://www.legislation.gov.uk/uksi/2014/598), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/2/b/i)
+
+[^key-17068b83f4bd5af182299ae527d127e0]: Textual amendment: Sum in [Sch. rule 8(1)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/8/1) substituted (1.5.2014) by [The General Osteopathic Council (Application for Registration and Fees) (Amendment) Rules Order of Council 2014 (S.I. 2014/598)](https://www.legislation.gov.uk/uksi/2014/598), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/1/1), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/2/b/ii)
+
+[^key-cf3cb59933a84f2e99b57de1baae0416]: Textual amendment: Words in [Sch. rule 8(2)(b)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/8/2/b) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 13(c)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/13/c) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9d496a6d6e139f81c314ed340b6a4079]: Textual amendment: Sum in [Sch. rule 8(2)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/8/2) substituted (1.5.2014) by [The General Osteopathic Council (Application for Registration and Fees) (Amendment) Rules Order of Council 2014 (S.I. 2014/598)](https://www.legislation.gov.uk/uksi/2014/598), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/1/1), [2(c)(i)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/2/c/i)
+
+[^key-f48599e099ee6eec28ff5a6418c0739e]: Textual amendment: Sum in [Sch. rule 8(2)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/8/2) substituted (1.5.2014) by [The General Osteopathic Council (Application for Registration and Fees) (Amendment) Rules Order of Council 2014 (S.I. 2014/598)](https://www.legislation.gov.uk/uksi/2014/598), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/1/1), [2(c)(ii)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/2/c/ii)
+
+[^key-2010668e004b85158d964bb9591c123a]: Textual amendment: Sum in [Sch. rule 8(3)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/8/3) substituted (1.5.2014) by [The General Osteopathic Council (Application for Registration and Fees) (Amendment) Rules Order of Council 2014 (S.I. 2014/598)](https://www.legislation.gov.uk/uksi/2014/598), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/1/1), [2(d)(i)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/2/d/i)
+
+[^key-ae94123ca157719d325c485e66c54941]: Textual amendment: Sum in [Sch. rule 8(3)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/8/3) substituted (1.5.2014) by [The General Osteopathic Council (Application for Registration and Fees) (Amendment) Rules Order of Council 2014 (S.I. 2014/598)](https://www.legislation.gov.uk/uksi/2014/598), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/1/1), [2(d)(ii)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/2/d/ii)
+
+[^key-43b6c8b45807e8fee7ec6a10a5cebbf0]: Textual amendment: Sum in [Sch. rule 8(4)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/8/4) substituted (1.5.2014) by [The General Osteopathic Council (Application for Registration and Fees) (Amendment) Rules Order of Council 2014 (S.I. 2014/598)](https://www.legislation.gov.uk/uksi/2014/598), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/1/1), [2(e)(i)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/2/e/i)
+
+[^key-9eae6d3726f7299942ae1bbb50b8ea20]: Textual amendment: Sum in [Sch. rule 8(4)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/8/4) substituted (1.5.2014) by [The General Osteopathic Council (Application for Registration and Fees) (Amendment) Rules Order of Council 2014 (S.I. 2014/598)](https://www.legislation.gov.uk/uksi/2014/598), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/1/1), [2(e)(ii)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/2/e/ii)
+
+[^key-054d89809b880fefd7d90a77b8533ef8]: Textual amendment: Sum in [Sch. rule 10(1)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/10/1) substituted (1.5.2014) by [The General Osteopathic Council (Application for Registration and Fees) (Amendment) Rules Order of Council 2014 (S.I. 2014/598)](https://www.legislation.gov.uk/uksi/2014/598), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/1/1), [2(f)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/2/f)
+
+[^key-f6762cb44502bb6835b5d325804a35ec]: Textual amendment: Words in [Sch. rule 10(2)(b)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/10/2/b) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 13(d)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/13/d) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ceecfd9ddca5a18532515d1ac7696cfd]: Textual amendment: Sum in [Sch. rule 10(2)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/10/2) substituted (1.5.2014) by [The General Osteopathic Council (Application for Registration and Fees) (Amendment) Rules Order of Council 2014 (S.I. 2014/598)](https://www.legislation.gov.uk/uksi/2014/598), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/1/1), [2(g)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/2/g)
+
+[^key-a6a205b0c81af84643b53d525e0a5384]: Textual amendment: Sum in [Sch. rule 10(3)](https://www.legislation.gov.uk/uksi/2000/1038/schedule/paragraph/10/3) substituted (1.5.2014) by [The General Osteopathic Council (Application for Registration and Fees) (Amendment) Rules Order of Council 2014 (S.I. 2014/598)](https://www.legislation.gov.uk/uksi/2014/598), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/1/1), [2(h)](https://www.legislation.gov.uk/uksi/2014/598/schedule/paragraph/2/h)
+
+[^c17274811]: Marginal citation: Command 2183 and OJ No. L1 3.1.1994 page 572.

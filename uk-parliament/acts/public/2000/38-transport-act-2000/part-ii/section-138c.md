@@ -1,0 +1,99 @@
+---
+title: Transport Act 2000, section 138C
+act: Transport Act 2000
+section: 138C
+status: revised-with-pending-changes
+text_date: '2026-10-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2000/38/section/138C
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Transport Act 2000, section 138C
+
+> **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 138C. Requirements in respect of local services[^key-d236b2a239992040336cae0951f6908e][^key-c05adb8597f2acc398b3fefbd54794ff][^key-652ea49e5927586cb07bdb4300947115]
+
+*Extent: E+W*
+
+(1) An enhanced partnership scheme may specify under section 138A(5)(b) requirements about the frequency or timing of particular local services or local services of particular descriptions.
+
+(2) A requirement falling within subsection (1) may, in particular, determine the frequency or timing allowed in relation to a local service—
+
+- (a) by reference only to that service, or
+- (b) by reference to that service and other local services, taken together.
+
+(3) An enhanced partnership scheme may specify under section 138A(5)(b) other requirements as to the standard of services to be provided.
+
+(4) The other requirements referred to in subsection (3) include—
+
+- (a) requirements which the vehicles being used to provide local services, or particular descriptions of local services, must meet,
+- (b) requirements about enabling tickets to be purchased or fares to be paid in particular ways,
+- (c) requirements about enabling entitlement to travel to be evidenced in particular ways,
+- (d) requirements about providing information to the public about local services or particular descriptions of local services,
+- (e) requirements as to the publicising of local services, fares or ticketing arrangements or particular descriptions of local services, fares or ticketing arrangements,
+- (f) requirements as to the appearance of tickets for local services or particular descriptions of local services,
+- (g) requirements as to the appearance of vehicles being used to provide local services or particular descriptions of local services,
+- (h) requirements as to the prices of multi-operator tickets,
+- (i) requirements as to dates upon which operators may change the timing of local services or particular descriptions of local services, and
+- (j) requirements as to ticketing arrangements.
+
+(5) The requirements that may be specified under subsection (4)(a) include—
+
+- (a) requirements about providing information to passengers by placing particular electronic equipment, or electronic equipment of particular descriptions, in vehicles, and
+- (b) requirements about emissions or types of fuel or power.
+
+(6) The requirements that may be specified under subsection (4)(b) include requirements about the persons from whom tickets may be purchased or to whom fares may be paid.
+
+(7) The requirements that may be specified under subsection (4)(j) include—
+
+- (a) requirements to make arrangements for—
+  - (i) travel to, within or through particular areas,
+  - (ii) travel at particular times,
+  - (iii) travel on particular local services or particular descriptions of local services,
+  - (iv) travel on particular journeys or on particular descriptions of journey, or
+  - (v) travel by persons of particular descriptions,
+- (b) requirements to make arrangements entitling persons to make a journey, or journeys, involving both travel on one or more local services and travel by one or more connecting rail or tram services, and
+- (c) requirements about the terms and conditions upon which such travel is made available.
+
+(8) A connecting rail or tram service, in relation to an enhanced partnership scheme, is a service for the carriage of passengers by railway or by tramway (or by both) which runs between—
+
+- (a) a station or stopping place at or in the vicinity of which local services stop and which serves any part of the area to which the scheme relates, and
+- (b) any other place.
+
+(9)[^key-264b3659c11e23985b8eabba857180ce] The requirements that may be specified in an enhanced partnership scheme also include requirements—
+
+- (a) as to operators of local services establishing and operating arrangements that facilitate the operation of the scheme;
+- (b) that persons using local services in the area to which the scheme relates benefit from any reduction in the cost of operating those services that results from facilities provided or measures taken by—
+  - (i) the Secretary of State,
+  - (ii) a local transport authority, or
+  - (iii) any other person exercising functions of a public nature.
+
+(9A)[^key-5889d89ddb7f377fe02b2c52da2bc78f] An enhanced partnership scheme must—
+
+- (a) specify requirements that apply where the operator of a socially necessary local service listed as required by section 138A(3)(ba) proposes—
+  - (i) to cancel a registration under section 6 of the [Transport Act 1985](https://www.legislation.gov.uk/ukpga/1985/67) in relation to the service, or
+  - (ii) to vary the registration in such a way as is likely to have a material adverse effect on the ability of passengers to access the goods, services, opportunities or activities mentioned in section 138A(15)(a) in relation to the service;
+- (b) require a local transport authority or authorities, having been notified of a proposed cancellation or a proposed variation which is likely to have such an effect, to consider whether any alternative arrangements may be made so as to mitigate that effect.
+
+(10) A requirement imposed by an enhanced partnership scheme has effect only in relation to so much of a local service as is provided in the area to which the scheme relates.
+
+(11) An enhanced partnership scheme may not impose requirements in relation to the use of vehicles under permits granted under section 22 of the Transport Act 1985.
+
+(12) In this section “**multi-operator ticket**” means a ticket, or a number of tickets purchased in a single transaction, entitling the holder to make a journey that involves or may involve, or journeys that involve or may involve, the use of local services provided by more than one operator.
+
+## Annotations
+
+[^key-d236b2a239992040336cae0951f6908e]: Modification: Ss. 138A-143B: functions transferred (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/15/2)
+
+[^key-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
+
+[^key-652ea49e5927586cb07bdb4300947115]: Textual amendment: Ss. 138A-138S and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 9](https://www.legislation.gov.uk/ukpga/2017/21/section/9), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
+
+[^key-264b3659c11e23985b8eabba857180ce]: Textual amendment: [S. 138C(9)](https://www.legislation.gov.uk/ukpga/2000/38/section/138C/9) substituted (1.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 16](https://www.legislation.gov.uk/ukpga/2025/24/section/16), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/c)
+
+[^key-5889d89ddb7f377fe02b2c52da2bc78f]: Textual amendment: [S. 138C(9A)](https://www.legislation.gov.uk/ukpga/2000/38/section/138C/9A) inserted (1.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 14(3)](https://www.legislation.gov.uk/ukpga/2025/24/section/14/3), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/a)

@@ -1,0 +1,23 @@
+---
+title: Inclosure Act 1845, section 14
+act: Inclosure Act 1845
+section: '14'
+status: revised
+text_date: '2014-04-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/Vict/8-9/118/section/14
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Inclosure Act 1845, section 14
+
+> Text as at 2014-04-06.
+>
+> Extent: England, Wales.
+
+## 14. Land within certain distances of large towns not to be inclosed without the previous direction of Parliament.
+
+*Extent: E+W*
+
+Provided also, that no lands situate within fifteen miles of the city of London, or within two miles of any city or town of ten thousand inhabitants, or within two miles and a half of any city or town of twenty thousand inhabitants, or within three miles of any city or town of thirty thousand inhabitants, or within three miles and a half of any city or town of seventy thousand inhabitants, or within four miles of any city or town of one hundred thousand inhabitants, shall be subject to be inclosed under the provisions of this Act without the previous authority of Parliament in each particular case, as herein-after provided; and in all such cases the number of inhabitants shall be ascertained by the then last Parliamentary census thereof, and that the distance shall be measured in a direct line from the town hall, if there shall be any town hall, or if there shall be no town hall then from the cathedral or church if there shall be only one church, or if there shall be more churches than one then from the principal market place, of any such city or town.

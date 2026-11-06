@@ -1,0 +1,117 @@
+---
+title: The Housing (Right to Acquire or Enfranchise) (Designated Rural Areas) Order 1999
+id: uksi/1999/1307
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1999-05-06'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1999/1307
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/1307/pdfs/uksi_19991307_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/1307/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Housing (Right to Acquire or Enfranchise) (Designated Rural Areas) Order 1999
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1999 No. 1307
+
+HOUSING, ENGLAND AND WALES
+
+The Housing (Right to Acquire or Enfranchise) (Designated Rural Areas) Order 1999
+
+Made
+
+6th May 1999
+
+Laid before Parliament
+
+13th May 1999
+
+Coming into force
+
+3rd June 1999
+
+The Secretary of State for the Environment, Transport and the Regions as respects England, in exercise of the powers conferred upon him by section 1AA(3)(a) of the Leasehold Reform Act 1967[^f00001] and section 17 of the Housing Act 1996[^f00002] (“the 1996 Act”) and of all other powers enabling him in that behalf, having consulted, in accordance with subsection (6) of section 17 of the 1996 Act, such local authorities and bodies as are mentioned in that subsection, hereby makes the following Order:–
+
+## 1. Citation, commencement and interpretation
+
+This Order may be cited as the Housing (Right to Acquire or Enfranchise) (Designated Rural Areas) Order 1999 and shall come into force on 3rd June 1999.
+
+## 2. Designation of rural areas
+
+There are designated as rural areas for the purposes of section 1AA(3)(a) of the Leasehold Reform Act 1967 (additional right to enfranchise) and section 17 of the Housing Act 1996 (the right to acquire)–
+
+- (a) the parishes named in the second column of Part I of the Schedule in the counties named in the first column, and
+- (b) the areas described in Part II of the Schedule and more particularly shown bounded by a black line and cross hatched on one of the maps entitled “Map referred to in the Housing (Right to Acquire or Enfranchise) (Designated Rural Areas) Order 1999” of which prints, signed by a member of the Senior Civil Service in the Department of the Environment, Transport and the Regions, are deposited and available for inspection at the offices of the Secretary of State for the Environment, Transport and the Regions.
+
+## 3. Revocation of designation for certain areas
+
+The references to the following parishes are deleted–
+
+- (a) in Schedule 1 to the Housing (Right to Acquire or Enfranchise) (Designated Rural Areas in the East) Order 1997[^f00003], in Part III (Derbyshire) “Dronfield” and in Schedule 2 to that Order, in Part VI (Leicestershire) “Ashby Woulds” and “Oakethorpe and Donisthorpe”;
+- (b) in Schedule 1 to the Housing (Right to Acquire or Enfranchise) (Designated Rural Areas in the North East) Order 1997[^f00004], in Part IX (Northumberland) “Tosson” and in Schedule 2 to that Order, in Part VI (Northumberland) “Broomley and Stocksfield”;
+- (c) in Schedule 2 to the Housing (Right to Acquire or Enfranchise) (Designated Rural Areas in the South West) Order 1997[^f00005], in Part V (Devon) “Buckland Monachorum”,
+
+and any parish or other area which ceases accordingly to be specified in any of those Orders ceases to be designated for the purposes specified in article 2 of this Order so far as it is not otherwise designated by that article.
+
+Signed by authority of the Secretary of State for the Environment, Transport and the Regions
+
+Hilary Armstrong
+
+Minister of State,
+
+Department of the Environment, Transport and the Regions
+
+6th May 1999
+
+## SCHEDULE
+
+Article 2
+
+### Part I — Designated Parishes
+
+| County | Parish |
+| --- | --- |
+| Derbyshire | Bakewell, Hatton |
+| Devon | Ashburton, Buckland Monachorum, Horrabridge |
+| Essex | Tollesbury |
+| Kent | Boughton in the Blean, Higham, Meopham, Newington (in the District of Swale) |
+| Leicestershire | Ashby Woulds, Oakethorpe and Donisthorpe |
+| Lincolnshire | Coningsby, Tattershall |
+| Medway Towns | Cuxton |
+| North Somerset | Locking |
+| Northumberland | Rothbury, Whitton and Tosson, Widdrington Station and Stobswood |
+| Suffolk | Rushmere |
+| Warwickshire | Binley Woods |
+| West Yorkshire | Clifford, East Keswick |
+
+### Part II — Other areas designated
+
+- In Leicestershire, the parish of Castle Donington excluding the settlement of Castle Donington.
+- In West Yorkshire, the unparished area of the borough of Pudsey excluding the settlements of Guiseley and Yeadon, and the unparished area of the county constituency of Elmet, bounded by the county constituency of Pontefract and Castleford, the county constituency of Normanton and the parishes of Swillington, Great and Little Preston, Austhorpe, Barwick in Elmet and Scholes, Parlington, Sturton Grange and Ledston excluding the settlements of Garforth, Great Preston and Kippax.
+
+(This note is not part of the Order)
+
+This Order designates the areas specified in the Schedule as rural areas for the purposes of section 1AA(3)(a) of the Leasehold Reform Act 1967 (additional right to enfranchise) and section 17 of the Housing Act 1996 (the right to acquire). The right of tenants with long leases to enfranchise under section 1AA of the 1967 Act and the right of tenants of registered social landlords to acquire their homes under section 16 and 17 of the 1996 Act do not apply in respect of properties in areas which have been designated as rural areas. In the case of tenants with long leases, the additional conditions in section 1AA(3)(b) and (c) of the 1967 Act must be fulfilled before the right to enfranchise is excluded.
+
+The parishes and areas listed in article 3 have ceased to be designated as rural areas, although in some instances they have been redesignated under the same name but by reference to a different area. The maps referred to in article 2(b), which show the areas listed in Part II of the Schedule, may be inspected during office hours at Eland House, Bressenden Place, London SW1E 5DU.
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c. 88](https://www.legislation.gov.uk/ukpga/1967/88); section 1AA was inserted by paragraph 1 of Schedule 9 of the Housing Act 1996.
+
+[^f00002]: Footnote: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52).
+
+[^f00003]: Footnote: [1997/623](https://www.legislation.gov.uk/uksi/1997/623).
+
+[^f00004]: Footnote: [1997/624](https://www.legislation.gov.uk/uksi/1997/624).
+
+[^f00005]: Footnote: [1997/621](https://www.legislation.gov.uk/uksi/1997/621).

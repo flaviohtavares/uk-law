@@ -1,0 +1,29 @@
+---
+title: Education (Scotland) Act 1980, section 65A
+act: Education (Scotland) Act 1980
+section: 65A
+status: repealed
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1980/44/section/65A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Education (Scotland) Act 1980, section 65A
+
+> This provision is no longer in force.
+>
+> Extent: Scotland.
+
+## 65A. Review by education authority of decision to record and information in Record.[^key-376d3c570e6dd885a145004198b0b819]
+
+*Extent: S*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-376d3c570e6dd885a145004198b0b819]: Textual amendment: Ss. 60-65G repealed (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 3(12)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/3/12); S.S.I. 2005/516, arts. 3, 4, 7, 8, 10, 11, sch; [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)

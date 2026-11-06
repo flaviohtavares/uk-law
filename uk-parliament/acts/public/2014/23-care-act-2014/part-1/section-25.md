@@ -1,0 +1,98 @@
+---
+title: Care Act 2014, section 25
+act: Care Act 2014
+section: '25'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2014/23/section/25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Care Act 2014, section 25
+
+> **Warning: changes not yet applied to this text (15).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/23
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 25. Care and support plan, support plan[^key-dce813b5ffb60b8f482bf6b5f649094e][^key-b5233cd91c08d092b8a21506059579ea][^key-4a62f516d0fe4d3070d9d19880c2ff17][^key-b5233cd91c08d092b8a21506059579ea][^key-4a62f516d0fe4d3070d9d19880c2ff17]
+
+*Extent: E+W*
+
+(1) A care and support plan or, in the case of a carer, a support plan is a document prepared by a local authority which—
+
+- (a) specifies the needs identified by the needs assessment or carer's assessment,
+- (b) specifies whether, and if so to what extent, the needs meet the eligibility criteria,
+- (c) specifies the needs that the local authority is going to meet and how it is going to meet them,
+- (d) specifies to which of the matters referred to in section 9(4) the provision of care and support could be relevant or to which of the matters referred to in section 10(5) and (6) the provision of support could be relevant,
+- (e) includes the personal budget for the adult concerned (see section 26), and
+- (f) includes advice and information about—
+  - (i) what can be done to meet or reduce the needs in question;
+  - (ii) what can be done to prevent or delay the development of needs for care and support or of needs for support in the future.
+
+(2) Where some or all of the needs are to be met by making direct payments, the plan must also specify—
+
+- (a) the needs which are to be so met, and
+- (b) the amount and frequency of the direct payments.
+
+(3) In preparing a care and support plan, the local authority must involve—
+
+- (a) the adult for whom it is being prepared,
+- (b) any carer that the adult has, and
+- (c) any person whom the adult asks the authority to involve or, where the adult lacks capacity to ask the authority to do that, any person who appears to the authority to be interested in the adult's welfare.
+
+(4) In preparing a support plan, the local authority must involve—
+
+- (a) the carer for whom it is being prepared,
+- (b) the adult needing care, if the carer asks the authority to do so, and
+- (c) any other person whom the carer asks the authority to involve.
+
+(5) In performing the duty under subsection (3)(a) or (4)(a), the local authority must take all reasonable steps to reach agreement with the adult or carer for whom the plan is being prepared about how the authority should meet the needs in question.
+
+(6) In seeking to ensure that the plan is proportionate to the needs to be met, the local authority must have regard in particular—
+
+- (a) in the case of a care and support plan, to the matters referred to in section 9(4);
+- (b) in the case of a support plan, to the matters referred to in section 10(5) and (6).
+
+(7) The local authority may authorise a person (including the person for whom the plan is to be prepared) to prepare the plan jointly with the authority.
+
+(8) The local authority may do things to facilitate the preparation of the plan in a case within subsection (7); it may, for example, provide a person authorised under that subsection with—
+
+- (a) in the case of a care and support plan, information about the adult for whom the plan is being prepared;
+- (b) in the case of a support plan, information about the carer and the adult needing care;
+- (c) in either case, whatever resources, or access to whatever facilities, the authority thinks are required to prepare the plan.
+
+(9) The local authority must give a copy of a care and support plan to—
+
+- (a) the adult for whom it has been prepared,
+- (b) any carer that the adult has, if the adult asks the authority to do so, and
+- (c) any other person to whom the adult asks the authority to give a copy.
+
+(10) The local authority must give a copy of a support plan to—
+
+- (a) the carer for whom it has been prepared,
+- (b) the adult needing care, if the carer asks the authority to do so, and
+- (c) any other person to whom the carer asks the authority to give a copy.
+
+(11) A local authority may combine a care and support plan or a support plan with a plan (whether or not prepared by it and whether or not under this Part) relating to another person only if the adult for whom the care and support plan or the support plan is being prepared agrees and—
+
+- (a) where the combination would include a plan prepared for another adult, that other adult agrees;
+- (b) where the combination would include a plan prepared for a child (including a young carer), the consent condition is met in relation to the child.
+
+(12) The consent condition is met in relation to a child if—
+
+- (a) the child has capacity or is competent to agree to the plans being combined and does so agree, or
+- (b) the child lacks capacity or is not competent so to agree but the local authority is satisfied that the combining the plans would be in the child's best interests.
+
+(13) Regulations may specify cases or circumstances in which such of paragraphs (a) to (f) of subsection (1) and paragraphs (a) and (b) of subsection (2) as are specified do not apply.
+
+(14) The regulations may in particular specify that the paragraphs in question do not apply as regards specified needs or matters.
+
+## Annotations
+
+[^key-dce813b5ffb60b8f482bf6b5f649094e]: Commencement: S. 25 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/993/article/2/f) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995))
+
+[^key-b5233cd91c08d092b8a21506059579ea]: Modification: Pt. 1 modified (1.4.2015) by [The Care and Support (Isles of Scilly) Order 2015 (S.I. 2015/642)](https://www.legislation.gov.uk/uksi/2015/642), [arts. 1](https://www.legislation.gov.uk/uksi/2015/642/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/642/article/2/2/a); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/993/article/2/a)
+
+[^key-4a62f516d0fe4d3070d9d19880c2ff17]: Modification: Pt. 1 applied in part (with modifications) (1.4.2015 coming into force in accordance with reg. 1(1)) by [The Care and Support (Children's Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/642/regulation/1/1), [2(1)(a)(2)](https://www.legislation.gov.uk/uksi/2015/642/regulation/2/1/a/2), [4-12](https://www.legislation.gov.uk/uksi/2015/642/regulation/4); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(q)](https://www.legislation.gov.uk/uksi/2015/993/article/2/q)

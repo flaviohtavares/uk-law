@@ -1,0 +1,265 @@
+---
+title: The Valuation Tribunal for England (Membership and Transitional Provisions) Regulations 2009
+id: uksi/2009/2267
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2009-08-25'
+text_date: '2009-08-25'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2009/2267
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/2267/pdfs/uksiem_20092267_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2267/pdfs/uksi_20092267_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2267/data.pdf
+pending_changes: 10
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Valuation Tribunal for England (Membership and Transitional Provisions) Regulations 2009
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2009-08-25. See https://www.legislation.gov.uk/changes/affected/uksi/2009/2267
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+2009 No. 2267
+
+Tribunals And Inquiries, England
+
+Rating And Valuation, England
+
+The Valuation Tribunal for England (Membership and Transitional Provisions) Regulations 2009
+
+Made
+
+25th August 2009
+
+Laid before Parliament
+
+2nd September 2009
+
+Coming into force
+
+30th September 2009
+
+The Secretary of State, in exercise of the powers conferred by section 220(2) of the Local Government and Public Involvement in Health Act 2007[^f00001], makes the following Regulations:
+
+## 1. Commencement, citation and interpretation[^key-85396e312ac8d8ccf0ee3e5449b0010a]
+
+(1) These Regulations may be cited as the Valuation Tribunal for England (Membership and Transitional Provisions) Regulations 2009 and shall come into force on 30th September 2009.
+
+(2) In these Regulations—
+
+- “the 2007 Act” means the Local Government and Public Involvement in Health Act 2007;
+- “the President” means the person who is for the time being the President of the Valuation Tribunal for England;
+- “spent conviction”—
+  - (a) in relation to a conviction in Great Britain, means a conviction that is a spent conviction for the purposes of the Rehabilitation of Offenders Act 1974[^f00002];
+  - (b) in relation to a conviction in Northern Ireland, means a conviction that is a spent conviction for the purposes of the Rehabilitation of Offenders (Northern Ireland) Order 1978[^f00003];
+  - (c) in relation to a conviction in the Channel Islands, means a conviction that is a spent conviction for the purposes of the Rehabilitation of Offenders (Jersey) Law 2001 or the Rehabilitation of Offenders (Bailiwick of Guernsey) Law 2002;
+  - (d) in relation to a conviction in the Isle of Man, means a conviction that is a spent conviction for the purposes of the Rehabilitation of Offenders Act 2001; and
+- “the VTE” means the Valuation Tribunal for England.
+
+## 2. Presidents and chairmen of existing English tribunals to become members of VTE and chairmen’s panel[^key-7d26df963c3f0bf02da84f9eda89833b]
+
+(1) On 1st October 2009 each person who, immediately before that date, is a chairman of an existing English tribunal (whether by virtue of holding office as president or otherwise)[^f00004] shall become a member of the VTE and a member of the panel of chairmen referred to in paragraph A4(c) of Schedule 11 to the 1988 Act[^f00005].
+
+(2) But paragraph (1) does not apply as regards any person—
+
+- (a) to whom paragraph (1) of regulation 4 applies;
+- (b) who has resigned the office of president of an existing English tribunal or has resigned as a chairman of any such tribunal with effect from 1st October 2009;
+- (c) whose office as president or appointment as a chairman of any such tribunal has been terminated by a notice that has effect on that date; or
+- (d) who has not accepted in writing the terms and conditions of membership of the VTE determined by the Secretary of State.
+
+## 3. Other members of existing English tribunals to become members of the VTE[^key-436a0de4d39f1ce2e5706d2995844c7b]
+
+(1) On 1st October 2009 each person who, immediately before that date, is a member, but not a chairman of an existing English tribunal[^f00006], shall, become a member of the VTE.
+
+(2) But paragraph (1) does not apply as regards any person—
+
+- (a) to whom paragraph (1) of regulation 4 applies;
+- (b) who has resigned as a member of an existing English tribunal with effect from 1st October 2009;
+- (c) whose appointment as a member has been terminated by a notice that has effect on that date;
+- (d) who has not accepted in writing the terms and conditions of membership of the VTE determined by the Secretary of State.
+
+## 4. Disqualifications relevant to regulations 2 and 3, etc[^key-04ab1a02b9ba5d12f2794c2a8953845d]
+
+(1) This paragraph applies to a person (“P”) if—
+
+- (a) P is aged 72 years or more;
+- (b) P or P’s spouse or civil partner is a member of the VTE’s staff[^f00007];
+- (c) P is the subject of a bankruptcy restrictions order or interim order;
+- (d) subject to paragraphs (2) and (3), a bankruptcy order has been made against P by a court in Northern Ireland, P’s estate has been sequestrated by a court in Scotland or, under the law of Northern Ireland or Scotland, P has made a composition or arrangement with, or granted a trust deed for, P’s creditors;
+- (e) subject to paragraph (4), P has been convicted in the United Kingdom, the Channel Islands or the Isle of Man of an offence for which he has been sentenced to any term of imprisonment (whether or not the sentence is suspended);
+- (f) P is disqualified for being a member of a local authority in pursuance of—
+  - (i) section 79 of the Local Government Act 2000 (decisions of case tribunals), whether before or after its amendment by section 199 of the 2007 Act[^f00008]; or
+  - (ii) section 78A(4)(a) of the Local Government Act 2000 (decisions of case tribunals: England) and regulations made for the purposes of subsection (4) of that section[^f00009] before the coming into force of these Regulations.
+
+(2) Where, but for this paragraph, paragraph (1) would apply to P by reason of a bankruptcy order or the sequestration of P’s estate by a court in Scotland, paragraph (1) shall not apply to P if, before 1st October 2009—
+
+- (a) P has obtained a discharge;
+- (b) the bankruptcy order is annulled; or
+- (c) the sequestration of P’s estate is recalled or reduced.
+
+(3) Where, but for this paragraph, paragraph (1) would apply to P by reason of a composition or arrangement with, or grant of a trust deed for, P’s creditors, paragraph (1) shall not apply to P if P’s debts are paid in full before 1st October 2009.
+
+(4) Where, but for this paragraph, paragraph (1) would apply to P by reason of P’s sentence to a term of imprisonment, paragraph (1) shall not apply to P if P’s conviction is a spent conviction immediately before 1st October 2009.
+
+(5) For the purposes of paragraph (1), the date of a conviction shall be taken to be the ordinary date on which the period allowed for making an appeal or application expires or, if an appeal or application is made, the date on which the appeal or application is finally disposed of or abandoned or fails by reason of its non-prosecution.
+
+(6) P shall not be disqualified for being a member of the VTE by reason only of being a member of an authority which derives revenue directly or indirectly from payments in respect of council tax or non-domestic rates which may be affected by the exercise of P’s functions as a member.
+
+## 5. Disqualification: general[^key-c303eccad4db1fb2141f683610a63ea9]
+
+(1) After 1st October 2009, a person (“M”) shall be disqualified for membership of the VTE if—
+
+- (a) M is aged 72 years or more;
+- (b) M or M’s spouse or civil partner is a member of the Valuation Tribunal Service or of its staff;
+- (c) M is the subject of a bankruptcy restrictions order or interim order;
+- (d) a bankruptcy order is made against M by a court in Northern Ireland, M’s estate is sequestrated by a court in Scotland or, under the law of Northern Ireland or Scotland, M makes a composition or arrangement with, or grants a trust deed for, M’s creditors;
+- (e) subject to paragraph (2), in the period of five years immediately preceding the date on which M applies for appointment as a member of the VTE, M is convicted in the United Kingdom, the Channel Islands or the Isle of Man of an offence for which M is sentenced to a term of imprisonment (whether or not the sentence is suspended);
+- (f) at any time while M is a member of the VTE, M is convicted in the United Kingdom, the Channel Islands or the Isle of Man of an offence for which M is sentenced to a term of imprisonment (whether or not the sentence is suspended); or
+- (g) M is for the time being disqualified for being a member of a local authority in pursuance of—
+  - (i) section 79 of the Local Government Act 2000 (decisions of case tribunals), whether before or after its amendment by section 199 of the 2007 Act; or
+  - (ii) section 78A(4)(a) of the Local Government Act 2000 (decisions of case tribunals: England) and regulations made for the purposes of subsection (4) of that section.
+
+(2) Where, but for this paragraph, paragraph (1) would apply to M by reason of M’s sentence to a term of imprisonment, paragraph (1) shall not apply to M if M’s conviction is a spent conviction at the date of M’s application for appointment.
+
+(3) A member of the VTE who is disqualified under paragraph (1) (“DM”) ceases to be a member of the VTE on the day on which that paragraph first applies to DM; but this is subject to paragraphs (4) and (5).
+
+(4) Where DM is disqualified by reason of a bankruptcy order or the sequestration of DM’s estate by a court in Scotland, the disqualification shall cease—
+
+- (a) on the date on which DM obtains a discharge; or
+- (b) if the bankruptcy order is annulled or the sequestration of DM’s estate is recalled or reduced, on the date of that event.
+
+(5) Where DM is disqualified by reason of DM having made a composition or arrangement with, or DM having granted a trust deed for, DM’s creditors, the disqualification shall cease—
+
+- (a) at the end of the period of five years beginning with the date on which the terms of the deed of composition or arrangement or the trust deed are fulfilled; or
+- (b) if before then DM’s debts are paid in full, on the date on which the payment is completed.
+
+(6) For the purposes of paragraph (1)(e), the date of a conviction shall be taken to be the ordinary date on which the period allowed for making an appeal or application expires or, if an appeal or application is made, the date on which the appeal or application is finally disposed of or abandoned or fails by reason of its non-prosecution.
+
+(7) M shall not be disqualified for being a member of the VTE by reason only of M being a member of an authority which derives revenue directly or indirectly from payments in respect of council tax or non-domestic rates which may be affected by the exercise of M’s functions as a member.
+
+## 6. Transfer of jurisdiction to the VTE: transitional provision[^key-03ab87f8092936e539237e5b0408c05c]
+
+(1) Where, immediately before 1st October 2009, an appeal relating to a matter in respect of which jurisdiction is transferred to the VTE on 1st October 2009 is part-heard by an existing English tribunal (“the original tribunal”), the President shall, as soon as practicable after 1st October 2009, make the necessary arrangements for the hearing of the appeal to be completed.
+
+(2) Where—
+
+- (a) before 1st October 2009—
+  - (i) an existing English tribunal has made a decision on an appeal relating to a matter in respect of which jurisdiction is transferred to the VTE on 1st October 2009;
+  - (ii) the decision is the subject of an appeal to a court; and
+  - (iii) the court has determined that a matter arising in relation to the appeal should be reconsidered by an existing English tribunal (“the reconsidering tribunal”); and
+- (b) immediately before 1st October 2009, the reconsidering tribunal has not begun its reconsideration of the matter or has begun, but not completed, its reconsideration of the matter,
+
+the President shall, as soon as practicable after 1st October 2009, make the necessary arrangements for the matter to be reconsidered.
+
+(3) Where—
+
+- (a) before 1st October 2009—
+  - (i) an existing English tribunal has made a decision on an appeal relating to a matter in respect of which jurisdiction is transferred to the VTE on 1st October 2009; and
+  - (ii) the decision has been referred for review by another existing English tribunal (“the reviewing tribunal”); and
+- (b) immediately before 1st October 2009, the reviewing tribunal has not begun its review of the decision or has begun, but not completed, its review of the decision,
+
+the President shall, as soon as practicable after 1st October 2009, make the necessary arrangements for the decision to be reviewed.
+
+(4) Paragraph (5) applies where—
+
+- (a) before 1st October 2009 a person has withdrawn an appeal made in relation to a matter as regards which jurisdiction is transferred to the VTE on 1st October 2009[^f00010]; and
+- (b) on or after that date the person notifies the President in writing that the withdrawal was made in error or under duress and that the person wishes to revive the appeal.
+
+(5) Where this paragraph applies, the President, having made such enquiries as the President thinks fit, may notify in writing the person by whom the notice under paragraph (4)(b) was given that the President consents to the appeal being revived.
+
+(6) Where the President consents to the revival of an appeal, the President shall make the necessary arrangements for the appeal to be considered by the VTE.
+
+(7) The Valuation Tribunal for England (Council Tax and Rating Appeals) (Procedure) Regulations 2009[^f00011] shall apply in relation to—
+
+- (a) the completion of a hearing pursuant to arrangements under paragraph (1);
+- (b) the reconsideration of a matter pursuant to arrangements under paragraph (2);
+- (c) the review of a decision pursuant to arrangements under paragraph (3); and
+- (d) the consideration of an appeal pursuant to arrangements under paragraph (6),
+
+so far as is required for enabling the hearing to be completed, the matter to be reconsidered, the decision to be reviewed or the appeal to be considered.
+
+## 7. Transfer of records and other documents[^key-817c649f88d85d4426bd5669fa850e65]
+
+All records and other documents held immediately before 1st October 2009 by an existing English tribunal and relating to—
+
+- (a) an appeal determined by, or in the process of being determined by, the tribunal; or
+- (b) a member of that or of any other existing English tribunal, who becomes a member of the VTE as mentioned in regulation 2 or 3,
+
+shall on 1st October 2009 transfer to, and become the property of, the VTE.
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Bill McKenzie
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+25th August 2009
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+On 1st October 2009 English valuation tribunals established by regulations under Schedule 11 to the Local Government Finance Act [1988 (c.41)](https://www.legislation.gov.uk/ukpga/1988/41) (“the 1988 Act”) are abolished and the Valuation Tribunal for England (the “VTE”) is established in place of those tribunals. (This is effected by section 219 of, and Schedule 15 to, the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28) and [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110).)
+
+These Regulations provide for the initial composition of the VTE (with the exception of the President and Vice-Presidents, who have been appointed by the Lord Chancellor) and for the transfer of appeals part-heard by English valuation tribunals when jurisdiction transfers to the VTE. They also provide for the transfer from English valuation tribunals to the VTE of records and other documents.
+
+Regulations 2(1) and 3(1) provide for persons who are presidents, chairmen and other members of English valuation tribunals immediately before 1st October 2009 to become members of the VTE on that date. Exceptions are specified in regulations 2(2) and 3(2), and include the disqualifying circumstances set out in regulation 4(1). Persons who are presidents or chairmen immediately before 1st October 2009 also become on that date members of the panel of persons who can act as chairmen of the VTE.
+
+Regulation 4(1) specifies circumstances in which persons who are members of existing English valuation tribunals will not become members under regulation 2 or 3. Regulation 4(6) ensures that, unless otherwise disqualified, a person may become a member of the VTE under regulation 2 or 3, notwithstanding that the person is a member of a local authority which derives revenue directly or indirectly from payments in respect of council tax or non-domestic rates which may be affected by the exercise of the person’s functions as a member.
+
+Regulation 5 sets out the circumstances, similar to those in regulation 4, in which, after 1st October 2009, a person may not become or continue to be a member of the VTE. Regulation 5(7) makes provision comparable to that in regulation 4(6).
+
+Regulation 6 contains transitional provisions relating to the transfer of jurisdiction. It requires the President of the VTE to make arrangements for the continuation of appeals that are part-heard, or appeals that have to be re-determined or reviewed but where the re-determination or review has not been completed by 1st October 2009. All these cases will proceed in accordance with the tribunal business arrangements that the President is required to make under paragraph A17 of Schedule 11 to the 1988 Act (inserted by paragraph 2 of Schedule 15 to the 2007 Act) and the Valuation Tribunal for England (Council Tax and Rating Appeals) (Procedure) Regulations 2009 ([S.I. 2009/2269](https://www.legislation.gov.uk/uksi/2009/2269)).
+
+Regulation 7 provides for the transfer from the English valuation tribunals to the VTE of records and other documents relating to appeals determined or part-heard by a tribunal that is abolished on 1st October 2009 and for the transfer of records and other documents relating to members of English valuation tribunals who, in accordance with these Regulations, become members of the VTE on its establishment on that date.
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28).
+
+[^key-85396e312ac8d8ccf0ee3e5449b0010a]: Commencement: Reg. 1 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
+
+[^f00002]: Footnote: [1974 c.53](https://www.legislation.gov.uk/ukpga/1974/53).
+
+[^f00003]: Footnote: [S.I. 1978/1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908).
+
+[^key-7d26df963c3f0bf02da84f9eda89833b]: Commencement: Reg. 2 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
+
+[^f00004]: Footnote: For the definition of “existing English tribunals” *see* section 219(3) of the Local Government and Public Involvement in Health Act 2007. By virtue of regulation 8(2) of [S.I. 1989/439](https://www.legislation.gov.uk/uksi/1989/439) a person who holds office as president of an existing English tribunal is also a chairman of that tribunal. Regulation 8(2) was substituted by regulation 7(1) of [S.I. 1995/363](https://www.legislation.gov.uk/uksi/1995/363).
+
+[^f00005]: Footnote: Paragraph A4 was inserted by the Local Government and Public Involvement in Health Act 2007, Schedule 15, paragraphs 1 and 2.
+
+[^key-436a0de4d39f1ce2e5706d2995844c7b]: Commencement: Reg. 3 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
+
+[^f00006]: Footnote: By virtue of regulation 7(2) of [S.I. 1989/439](https://www.legislation.gov.uk/uksi/1989/439), the president of an existing English tribunal must be a member of it. The chairmen of an existing English tribunal (other than the president) are elected from among the persons who are members of the tribunal; *see* regulation 8(2) of [S.I. 1989/439](https://www.legislation.gov.uk/uksi/1989/439), substituted by [S.I. 1995/363](https://www.legislation.gov.uk/uksi/1995/363).
+
+[^key-04ab1a02b9ba5d12f2794c2a8953845d]: Commencement: Reg. 4 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
+
+[^f00007]: Footnote: *See* the definition of “Tribunal’s staff” in paragraph A20(e) of Schedule 11 to the 1988 Act, inserted by the Local Government and Public Involvement in Health Act 2007, Schedule 15, paragraphs 1 and 2.
+
+[^f00008]: Footnote: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22). Section 79 is amended by section 199 of the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28) and, by virtue of [S.I. 2008/3110 (C.134)](https://www.legislation.gov.uk/uksi/2008/3110), applies only in relation to Wales with effect from 12th December 2008.
+
+[^f00009]: Footnote: Section 78A is inserted by section 198 of the Local Government and Public Involvement in Health Act 2007. *See also* [S.I. 2008/2938](https://www.legislation.gov.uk/uksi/2008/2938).
+
+[^key-c303eccad4db1fb2141f683610a63ea9]: Commencement: Reg. 5 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
+
+[^key-03ab87f8092936e539237e5b0408c05c]: Commencement: Reg. 6 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)
+
+[^f00010]: Footnote: For the transfer of jurisdiction of existing English tribunals, see paragraph A2 of Schedule 11 to the Local Government Finance Act [1988 (c.41)](https://www.legislation.gov.uk/ukpga/1988/41), inserted by paragraph 2 of Schedule 15 to the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28)
+
+[^f00011]: Footnote: [S.I. 2009/2269](https://www.legislation.gov.uk/uksi/2009/2269).
+
+[^key-817c649f88d85d4426bd5669fa850e65]: Commencement: Reg. 7 in force at 30.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2267/regulation/1/1)

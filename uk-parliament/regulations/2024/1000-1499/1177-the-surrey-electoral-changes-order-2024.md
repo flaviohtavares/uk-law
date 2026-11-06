@@ -1,0 +1,295 @@
+---
+title: The Surrey (Electoral Changes) Order 2024
+id: uksi/2024/1177
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2024-11-12'
+text_date: '2026-05-07'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2024/1177
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2024/1177/pdfs/uksiem_20241177_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2024/1177/pdfs/uksi_20241177_en.pdf
+- http://www.legislation.gov.uk/uksi/2024/1177/data.pdf
+pending_changes: 4
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Surrey (Electoral Changes) Order 2024
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-05-07. See https://www.legislation.gov.uk/changes/affected/uksi/2024/1177
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2024 No. 1177
+
+LOCAL GOVERNMENT, ENGLAND
+
+The Surrey (Electoral Changes) Order 2024
+
+Made
+
+12th November 2024
+
+Coming into force in accordance with article 1(2), (3) and (4)
+
+Under section 58(4) of the Local Democracy, Economic Development and Construction Act 2009[^f00001] (“**the Act**”) the Local Government Boundary Commission for England[^f00002] (“**the Commission**”) published a report dated May 2024[^f00003] stating its recommendations for changes to the electoral arrangements for Surrey. The Commission has decided to give effect to the recommendations.
+
+A draft of the instrument has been laid before Parliament and a period of forty days has expired since the day on which it was laid and neither House has resolved that the instrument be not made.
+
+The Commission makes the following Order in exercise of the power conferred by section 59(1) of the Act.
+
+## 1. Citation, commencement, extent and application[^key-e3448d74ce48a7c70585f43d23ef1da6]
+
+(1) This Order may be cited as the Surrey (Electoral Changes) Order 2024.
+
+(2) This article and article 2 come into force on the day after the day on which this Order is made.
+
+(3) Article 3 comes into force—
+
+- (a) for the purpose of proceedings preliminary or relating to the election of councillors, on the day after the day on which this Order is made;
+- (b) for all other purposes, on the ordinary day of election of councillors in England[^f00004] in 2027[^key-559d7fed1fb3cb76f30cb5522f2f1210].
+
+(4) Article 4 comes into force—
+
+- (a) for the purpose of proceedings preliminary or relating to the election of councillors, on 15th October 2026;
+- (b) for all other purposes, on the ordinary day of election of councillors in England in 2027.
+
+(5) This Order extends to England and Wales but applies in relation to England only.
+
+## 2. Interpretation[^key-6b69067f00892a98d8c65082652ef508]
+
+(1) In this Order, “**the map**” means the map marked “Map referred to in the Surrey (Electoral Changes) Order 2024”, held by the Local Government Boundary Commission for England[^f00005].
+
+(2) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
+
+## 3. Divisions of Surrey and number of councillors[^key-f92ddee6a31e2b8cb80fe49ade4a88a6][^key-e95535c585b7a02fc9dbb0d816cf85ae]
+
+(1) The existing divisions of Surrey are abolished.
+
+(2) Surrey is divided into the 81 divisions listed in Schedule 1.
+
+(3) Each division comprises the area identified on the map by reference to the name of the division.
+
+(4) The number of councillors to be elected for each division is one.
+
+## 4. Parish wards of the parishes of Ash, Horley, Witley & Milford and Worplesdon and number of councillors[^key-fc6b97359804f909ab5095d863db8eea][^key-60d39712dbe1af3f8f1d21ff29aee2a1]
+
+**Not yet in force.**
+
+(1) The existing parish wards of Ash, Horley, Witley & Milford and Worplesdon are abolished.
+
+(2) The parish of Ash is divided into the four parish wards listed in the first column of Table 1 in Schedule 2.
+
+(3) The parish of Horley is divided into the five parish wards listed in the first column of Table 2 in Schedule 2.
+
+(4) The parish of Witley & Milford is divided into the three parish wards listed in the first column of Table 3 in Schedule 2.
+
+(5) The parish of Worplesdon is divided into the two parish wards listed in the first column of Table 4 in Schedule 2.
+
+(6) Each parish ward comprises the area identified on the map by reference to the name of the parish ward.
+
+(7) The number of councillors to be elected for each parish ward is the number specified in relation to that parish ward in the second column of the relevant table in Schedule 2.
+
+Sealed with the seal of the Local Government Boundary Commission for England
+
+Ailsa Irvine
+
+Chief Executive
+
+Local Government Boundary Commission for England
+
+12th November 2024
+
+Schedules
+
+## Schedule 1 — Divisions of Surrey[^key-9c7de488dc238f8b8b9e43547dffe7da][^key-f616752e5f856847a9cb5c1ad36ad717]
+
+Article 3
+
+[^key-9c7de488dc238f8b8b9e43547dffe7da][^key-f616752e5f856847a9cb5c1ad36ad717]
+
+- 1. Addlestone
+- 2. Ash
+- 3. Ashford
+- 4. Ashtead
+- 5. Bagshot, Windlesham & Chobham
+- 6. Banstead, Woodmansterne & Chipstead
+- 7. Bookham & Fetcham West
+- 8. Camberley East
+- 9. Camberley West & Frimley
+- 10. Caterham Hill
+- 11. Caterham Valley
+- 12. Chertsey
+- 13. Cobham & Oxshott South
+- 14. Cranleigh & Ewhurst
+- 15. Dorking
+- 16. Dorking Hills
+- 17. Dorking Rural
+- 18. Earlswood & Reigate South
+- 19. Egham
+- 20. Englefield Green & Virginia Water
+- 21. Epsom Town & Downs
+- 22. Epsom West
+- 23. Esher, Claygate & Oxshott North
+- 24. Ewell Court, Auriol & Cuddington
+- 25. Ewell Village, Stoneleigh & Nonsuch
+- 26. Farnham Central
+- 27. Farnham North
+- 28. Farnham South
+- 29. Frimley Green & Mytchett
+- 30. Godalming North
+- 31. Godalming South, Milford & Witley
+- 32. Godstone
+- 33. Goldsworth East & Horsell Village
+- 34. Guildford East
+- 35. Guildford North
+- 36. Guildford South East
+- 37. Guildford South West
+- 38. Guildford West
+- 39. Haslemere
+- 40. Heatherside & Parkside
+- 41. Hersham
+- 42. Horley East
+- 43. Horley West, Salfords & Sidlow
+- 44. Horsleys
+- 45. Knaphill & Goldsworth West
+- 46. Laleham & Shepperton
+- 47. Leatherhead & Fetcham East
+- 48. Lightwater, West End & Bisley
+- 49. Lingfield
+- 50. Long Ditton, Hinchley Wood & Weston Green
+- 51. Lower Sunbury & Halliford
+- 52. Merstham & Banstead South
+- 53. Nork & Tattenhams
+- 54. Oxted
+- 55. Redhill East & North Earlswood
+- 56. Redhill West & Meadvale
+- 57. Reigate
+- 58. Shalford
+- 59. Shere
+- 60. Staines
+- 61. Staines South & Ashford West
+- 62. Stanwell, Stanwell Moor & Ashford North
+- 63. Sunbury Common & Ashford Common
+- 64. Tadworth, Walton & Kingswood
+- 65. Thames Ditton & East Molesey
+- 66. The Byfleets
+- 67. Thorpe, Longcross & Ottershaw
+- 68. Walton
+- 69. Walton South & Oatlands
+- 70. Warlingham
+- 71. Waverley Eastern Villages
+- 72. Waverley Western Villages
+- 73. West Ewell
+- 74. West Molesey
+- 75. Weybridge
+- 76. Woking North
+- 77. Woking South
+- 78. Woking South East
+- 79. Woking South West
+- 80. Woodham & New Haw
+- 81. Worplesdon
+
+## Schedule 2 — Names of parish wards and number of councillors[^key-719dbdfa36ffb507dba7544e1b98ef6b][^key-7656b7520fb2bb0eb02fa8c55f417992]
+
+**Not yet in force.**
+
+Article 4
+
+Table 1
+
+Parish wards of the parish of Ash and number of councillors
+
+| (1) Name of parish ward | (2) Number of councillors |
+| --- | --- |
+| Ash South | 2 |
+| Ash South West | 2 |
+| Ash Vale | 2 |
+| Ash Wharf | 6 |
+
+Table 2
+
+Parish wards of the parish of Horley and number of councillors
+
+| (1) Name of Parish ward | (2) Number of councillors |
+| --- | --- |
+| Horley Central North | 1 |
+| Horley East | 4 |
+| Horley South | 5 |
+| Horley Upper North | 1 |
+| Horley West | 7 |
+
+Table 3
+
+Parish wards of the parish of Witley & Milford and number of councillors
+
+| (1) Name of Parish ward | (2) Number of councillors |
+| --- | --- |
+| Milford | 8 |
+| Witley East | 5 |
+| Witley West | 3 |
+
+Table 4
+
+Parish wards of the parish of Worplesdon and number of councillors
+
+| (1) Name of Parish ward | (2) Number of councillors |
+| --- | --- |
+| Rydeshill | 3 |
+| Villages | 13 |
+
+Explanatory Note
+
+(This note is not part of the Order)
+
+This Order makes changes to electoral arrangements for Surrey following recommendations made by the Local Government Boundary Commission for England. The area of the county remains unchanged.
+
+Article 3 abolishes the existing electoral divisions of the county and replaces them with the 81 new ones listed in Schedule 1 for the purpose of elections to be held on or after the ordinary day of election of councillors in England in 2025. It also establishes the names and areas of the new electoral divisions and the number of councillors for each.
+
+Article 4 makes changes to parish wards which are consequential on the changes made by article 3. The changes to parish wards introduced by article 4 come into force for the purpose of parish elections in 2027 and in respect of subsequent parish elections.
+
+The area covered by each electoral division created by this Order is identified on a map which is available for inspection at reasonable times at the offices of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL.
+
+The map may also be accessed at: https://www.lgbce.org.uk/all-reviews/surrey/.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20).
+
+[^f00002]: Footnote: The Local Government Boundary Commission for England was established on 1st April 2010 by section 55(1) of the Local Democracy, Economic Development and Construction Act 2009.
+
+[^f00003]: Footnote: The report is available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/surrey/.
+
+[^key-e3448d74ce48a7c70585f43d23ef1da6]: Commencement: Art. 1 in force at 13.11.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/2)
+
+[^f00004]: Footnote: The ordinary day of election of councillors in England is prescribed by section 37(1) of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), as amended by section 18(2) of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), renumbered by paragraph 5 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and further amended by section 6(16) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
+
+[^key-559d7fed1fb3cb76f30cb5522f2f1210]: Textual amendment: Word in art. 1(3)(b) substituted (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [42](https://www.legislation.gov.uk/uksi/2026/264/article/42)
+
+[^key-6b69067f00892a98d8c65082652ef508]: Commencement: Art. 2 in force at 13.11.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/2)
+
+[^f00005]: Footnote: Prints of the map are available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/surrey/.
+
+[^key-f92ddee6a31e2b8cb80fe49ade4a88a6]: Commencement: Art. 3 in force at 13.11.2024 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/3/a)
+
+[^key-e95535c585b7a02fc9dbb0d816cf85ae]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2024/1177/article/3) in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(e)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/e))
+
+[^key-fc6b97359804f909ab5095d863db8eea]: Commencement: Art. 4 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/4/a)
+
+[^key-60d39712dbe1af3f8f1d21ff29aee2a1]: Commencement: Art. 4 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/4/b)
+
+[^key-9c7de488dc238f8b8b9e43547dffe7da]: Commencement: Sch. 1 in force at 13.11.2024 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/3/a)
+
+[^key-f616752e5f856847a9cb5c1ad36ad717]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1177/schedule/1) in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(e)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/e))
+
+[^key-719dbdfa36ffb507dba7544e1b98ef6b]: Commencement: Sch. 2 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/4/a)
+
+[^key-7656b7520fb2bb0eb02fa8c55f417992]: Commencement: Sch. 2 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2024/1177/article/1/4/b)

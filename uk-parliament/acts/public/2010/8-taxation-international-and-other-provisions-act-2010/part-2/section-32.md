@@ -1,0 +1,59 @@
+---
+title: Taxation (International and Other Provisions) Act 2010, section 32
+act: Taxation (International and Other Provisions) Act 2010
+section: '32'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/8/section/32
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation (International and Other Provisions) Act 2010, section 32
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 32. Calculation of amount received where UK tax charged on remittance basis
+
+*Extent: E+W+S+N.I.*
+
+(1) Subsection (2) applies if—
+
+- (a) under the arrangements, credit is to be allowed for foreign tax in respect of any income or capital gain, and
+- (b) income tax or capital gains tax is payable by reference to the amount received in the United Kingdom.
+
+(2) For the purposes of whichever of income tax and capital gains tax is payable as mentioned in subsection (1)(b), the amount received is to be treated as increased—
+
+- (a) by the amount of the foreign tax in respect of the income or gain,
+- (b) by the amount of any special withholding tax levied in respect of the income or gain, but see subsection (4), and
+- (c) if the credit is for foreign tax in respect of a dividend, by any underlying tax that under the arrangements is to be taken into account in considering whether any, and (if so) what, credit is to be allowed in respect of the dividend.
+
+(3) For the purposes of subsection (4), a gain is a “special gain” if—
+
+- (a) it is a chargeable gain that accrues to a person on a disposal by the person of assets,
+- (b) the consideration for the disposal consists of or includes an amount of savings income, and
+- (c) special withholding tax is levied in respect of the whole or any part of the consideration for the disposal.
+
+(4) If the credit is for foreign tax in respect of a gain that is a special gain, the amount of the increase under subsection (2)(b) is given by—
+
+[formula: see source](https://www.legislation.gov.uk/ukpga/2010/8)
+
+where—
+
+AWT is the amount of special withholding tax levied in respect of the whole or the part of the consideration for the disposal concerned,
+
+GUK is the amount of the gain received in the United Kingdom, and
+
+SG is the amount of the gain.
+
+(5) The amount of any income or gain is not to be increased under this section by reference to any foreign tax which, although not payable, is treated by section 20(2) as having been payable.
+
+(6) In this section—
+
+- “**savings income**” has the same meaning as in Part 3 (see section 136), and
+- “**special withholding tax**” means special withholding tax—
+  - (a) within the meaning of Part 3 (see section 136), and
+  - (b) in respect of which a claim has been made under that Part.

@@ -1,0 +1,624 @@
+---
+title: The Single Common Market Organisation (Consequential Amendments) Regulations 2013
+id: uksi/2013/3235
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-12-19'
+text_date: '2018-12-13'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2013/3235
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/3235/pdfs/uksiem_20133235_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/3235/pdfs/uksi_20133235_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/3235/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Single Common Market Organisation (Consequential Amendments) Regulations 2013
+
+> Text as at 2018-12-13.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2013 No. 3235
+
+Agriculture
+
+The Single Common Market Organisation (Consequential Amendments) Regulations 2013
+
+Made
+
+19th December 2013
+
+Laid before Parliament
+
+20th December 2013
+
+Coming into force
+
+1st January 2014
+
+The Secretary of State, who is a Minister designated [^c21974501] for the purposes of making regulations under section 2(2) of the European Communities Act 1972 [^c21974511] (“**the 1972 Act**”) in relation to the common agricultural policy of the European Union, makes these Regulations in exercise of the powers in section 2(2) of, and paragraph 1A of Schedule 2 to, the 1972 Act [^c21974521] and sections 6(4), 16(1), 17, 26 and 48(1) of the Food Safety Act 1990 [^c21974531] (“**the 1990 Act**”).
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act. It appears to the Secretary of State that it is expedient for references in these Regulations to the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), to be construed as references to that Regulation, as amended from time to time [^c21974541].
+
+Insofar as these Regulations are made in exercise of powers under the 1990 Act, the Secretary of State has had regard to advice given by the Food Standards Agency as required by section 48(4A) of the 1990 Act. There has been open and transparent public consultation during the preparation and evaluation of the following Regulations as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
+
+## PART 1 — INTRODUCTORY PROVISIONS
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Single Common Market Organisation (Consequential Amendments) Regulations 2013 and come into force on the 1st January 2014.
+
+## PART 2 — AMENDMENTS TO REGULATIONS WHICH APPLY TO ENGLAND, WALES, SCOTLAND OR NORTHERN IRELAND
+
+### 2. Amendments to the Beef and Pig Carcase Classification (England) Regulations 2010[^key-9dc760f5dd5dfad3ec353776b501645e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Amendments to the Beef and Veal Labelling Regulations 2010
+
+(1) The Beef and Veal Labelling Regulations 2010 [^c21974561] are amended as follows.
+
+(2) For regulation 2(1)(c) (competent authority) substitute—
+
+> - (c) Article 78 of, and Part I of Annex VII to, the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time;
+
+.
+
+(3) For regulation 4(1)(c) (offences under European legislation) substitute—
+
+> - (c) The following provisions of the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time—
+>   - (i) Article 78 and paragraph II of Part I of Annex VII (classification at the slaughterhouse);
+>   - (ii) Article 78 and paragraph III of Part I of Annex VII (sales descriptions);
+>   - (iii) Article 78 and paragraph IV of Part I of Annex VII (compulsory indication on the label);
+>   - (iv) Article 78 and paragraph V of Part I of Annex VII (recording).
+
+.
+
+(4) In regulation 4(2) (required information in relation to un-prepacked meat) for “paragraph IV(2) of Annex XIa to Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234)” substitute “ point IV(2) of Part I of Annex VII to the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time ”.
+
+### 4. Amendments to the Drinking Milk (England) Regulations 2008
+
+(1) The Drinking Milk (England) Regulations 2008 [^c21974571] are amended as follows.
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) omit the definition of “the Annex”;
+- (b) in the definitions of “drinking milk” and “milk” for “the Annex” substitute “ Part IV ”;
+- (c) after the definition of “milk” insert—
+
+  > Part IV” means Part IV of Annex VII to the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time.
+
+(3) In regulation 2(2) (interpretation) after “Council Regulation”, in each place it occurs, insert “ or Part IV ”.
+
+(4) Omit regulation 2(3) (interpretation).
+
+(5) In regulation 3 (sale or delivery of milk and use of sales description) for “the Annex as read with point III of the Annex” substitute “ Part IV as read with point III of Part IV ”.
+
+(6) Omit regulation 4 (imports of products from outside the EU for sale as drinking milk).
+
+(7) In regulation 5(3) (enforcement) for “the Annex” substitute “ Part IV ”.
+
+(8) In regulation 6 (offences and penalties) omit “or 4”.
+
+### 5. Amendments to the Eggs and Chicks (England) Regulations 2009
+
+(1) The Eggs and Chicks (England) Regulations 2009 [^c21974581] are amended as follows.
+
+(2) In regulation 3(1) (interpretation) after the definition of “Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160)” insert the following definition—
+
+> “**Regulation (EU) 2013**” means the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time;
+
+.
+
+(3) In regulation 3(3) (interpretation) for “Part A of Annex XIV to the Single CMO Regulation” substitute “ Part VI of Annex VII to Regulation (EU) 2013 ”.
+
+(4) In regulation 3(5)(a) and (6)(a) (interpretation) after “Single CMO Regulation insert “ or Regulation (EU) 2013 ”.
+
+(5) In regulation 8 (application of Part 3)—
+
+- (a) in paragraphs (1) and (2)(a) for “Part A of Annex XIV to the Single CMO Regulation” substitute “ Part VI of Annex VII to Regulation (EU) 2013 ”; and
+- (b) in paragraph (2)(b) for “Part A of Annex XIV to the Single CMO Regulation, to the sale of eggs to which point 1(1) of Part A of Annex XIV” substitute “ Part VI of Annex VII to Regulation (EU) 2013, to the sale of eggs to which point 1(1) of Part VI of Annex VII ”.
+
+(6) In regulation 11(1) and (2) (derogations relating to the marking of eggs) for “Part A of Annex XIV to the Single CMO Regulation”, in each place it occurs, substitute “ Part VI of Annex VII to Regulation (EU) 2013 ”.
+
+(7) In Part 1 of Schedule 1 (EU provisions relating to eggs for hatching and chicks contravention of which is an offence)—
+
+- (a) in the heading under Part 1 insert at the end “ or Regulation (EU) 2013 ”;
+- (b) in the headings to columns 1 and 2 after “Regulation” insert or “ Regulation (EU) 2013 ”;
+- (c) in column 1 for “Article 113(3), first sub-paragraph” substitute “ Article 74 of Regulation (EU) 2013 ”;
+- (d) in column 1 after “Annex XIV”, in each place it occurs, insert “ to the Single CMO Regulation ”.
+
+(8) In Schedule 2 (general EU provisions relating to eggs in shells for consumption contravention of which is an offence)–—
+
+- (a) for Part 1 (provisions of the Single CMO Regulation) substitute—
+
+  > **PART 1 — PROVISIONS OF REGULATION (EU) 2013**
+  >
+  > | *Column 1* | *Column 2* | *Column 3* |
+  > | --- | --- | --- |
+  > | Relevant provision of Regulation (EU) 2013 | Provisions to be read with the provisions of Regulation (EU) 2013 mentioned in column 1 | Subject matter |
+  > | Article 74 insofar as it relates to the marketing of eggs | Part VI of Annex VII to Regulation (EU) No 2013 and Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Prohibition on the marketing of eggs except in accordance with the marketing standards laid down in Part VI of Annex VII to Regulation (EU) 2013 and Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589). |
+  > | Point II(1) of Part VI of Annex VII | Article 2(1) and (4) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Quality grading of eggs as Class A (or fresh) or Class B eggs. |
+  > | Point II(2) of Part VI of Annex VII | Article 4(1) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Weight grading of Class A eggs. |
+  > | Point II(3) of Part VI of Annex VII |  | Prohibition on the delivery of Class B eggs except to the food and non-food industry. |
+  > | Point III(1) of Part VI of Annex VII, first sub-paragraph | Articles 9(1) and 11 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Marking of Class A eggs. |
+  > | Point III(1) of Part VI of Annex VII, second sub-paragraph | Articles 9, 10 and 11 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), paragraphs (a) and (b) of the second sub-paragraph of point 2 of Part D of Annex II to Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) and regulation 11(1) | Marking of Class B eggs. |
+  > | Point III(2) of Part VI of Annex VII | Point III(1) of Part VI of Annex VII to Regulation (EU) 2013 | Place at which eggs are marked. |
+  > | Point III(3) of Part VI of Annex VII, first sub-paragraph | Point III(1) of Part VI of Annex VII and the second sub-paragraph of point III(3) of Part VI of Annex VII to Regulation (EU) 2013 and regulation 11(2) | Marking of eggs sold by a producer to the final consumer at a local public market. |
+  > | Articles 75(2) and (3) of Regulation (EU) 2013 | Article 30(2) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Marking of eggs imported from a third country where the rules applied in relation to those eggs in that country have been found to offer sufficient guarantees as to equivalence with EU legislation |
+  > | Articles 75(2) and (3) of Regulation (EU) 2013 | Articles 11, 30(2) and (3) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Marking of eggs imported from a third country where sufficient guarantees of equivalence of the rules relating to those eggs with EU legislation have not been provided. |
+- (b) in the table in Part 2 (provisions of Commission Regulation [(EC) 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589))—
+  - (i) in column 2 for “point II(1) of Part A of Annex XIV to the Single CMO Regulation”, in each place it occurs, substitute “ point II(1) of Part VI of Annex VII to Regulation (EU) 2013 ”;
+  - (ii) in column 2 for “Point II(2) of Part A of Annex XIV to the Single CMO Regulation” substitute “ Point II(2) of Part VI of Annex VII to Regulation (EU) 2013 ”;
+  - (iii) in column 2 for “point III(1) of Part A of Annex XIV to the Single CMO Regulation”, in each place it occurs, substitute “ point III(2) of Part VI of Annex VII to Regulation (EU) 2013 ”;
+  - (iv) in relation to the entry for Article 30(3) in column 2 omit “point IV(3) of Part A of Annex XIV”;
+- (c) in column 2 of the table in Schedule 3 (Community salmonella related controls on eggs in shell for consumption contravention of which is an offence) for “Articles 113(3) and 116 of, and Part A of Annex XIV to, the Single CMO Regulation” substitute “ Article 74 and Part VI of Annex VII to Regulation (EU) 2013 ”.
+
+### 6. Amendments to the Food Labelling Regulations 1996[^key-6d7d9c592fa8709b76645759fea6cb85]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Amendments to the Legislative and Regulatory Reform (Regulatory Functions) Order 2007
+
+In Part 2 of the Schedule to the Legislative and Regulatory Reform (Regulatory Functions) Order 2007 [^c21974611] under the heading “Agriculture, animal health and welfare and horticulture” for “Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) of 22 October 2007 establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation)” substitute “ The Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time ”.
+
+### 8. Amendments to the Marketing of Fresh Horticultural Produce Regulations 2009
+
+(1) The Marketing of Fresh Horticultural Produce Regulations 2009 [^c21974621] are amended as follows.
+
+(2) In regulation 2(2) (interpretation)—
+
+- (a) in the definition of “EU marketing rules” for “Council Regulation 1234/2007, and includes the rules relating to those standards contained in Articles 113 and 113a of Council Regulation 1234/2007” substitute “ Regulation (EU) 2013, and includes the rules relating to those standards contained in Articles 74, 75 and 76 ”;
+- (b) omit the definition of “Council Regulation”;
+- (c) in the definition of “general marketing standard” for “Article 113a(1) of Regulation 1234/2007” substitute “ Article 76(1) of Regulation (EU) 2013 ”;
+- (d) in the definition of “horticultural produce” for “Council Regulation 1234/2007” substitute “ Regulation (EU) 2013 ”;
+- (e) after the definition of “re-graded label” insert the following definition—
+
+  > “**Regulation (EU) No 2013**” means the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time;
+
+  ;
+- (f) in the definition of specific marketing standards for “Article 113(1)(b) of Council Regulation 1234/2007” substitute “ under Article 75(1)(b) of Regulation (EU) 2013 ”.
+
+(3) In regulation 2(3) (interpretation) for “Council Regulation 1234/2007” substitute “ Regulation (EU) 2013 ”.
+
+### 9. Amendments to the Milk and Milk Products (Pupils in Educational Establishments) (England) Regulations 2008[^key-ad2a4d4eeb45e0b7b63612d1e3dd81ce]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Amendments to the Poultrymeat (England) Regulations 2011
+
+(1) The Poultrymeat (England) Regulations 2011 [^c21974641] are amended as follows.
+
+(2) In regulation 1(3) (application of Regulations to poultrymeat)—
+
+- (a) for “point I(1) of Part B of Annex XIV to the Single CMO Regulation” substitute “ point 1 of Part V of Annex VII to Regulation (EU) 2013 ”; and
+- (b) for “that Part of that Annex to that Regulation” substitute “ Part B of Annex XIV to the Single CMO Regulation ”.
+
+(3) In regulation 2 (interpretation)—
+
+- (a) in paragraph (1)—
+  - (i) in the definition of “European poultry provision” after “Single CMO Regulation” insert “ or Regulation (EU) 2013 ”;
+  - (ii) for the definition of “poultrymeat” substitute “ “**poultrymeat**” has the meaning given by point II(1) of Part V of Annex VII to Regulation (EU) 2013; ”;
+  - (iii) after the definition of “premises” insert the following definition— “ “**Regulation (EU) 2013**” means “the Regulation (EU) 2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time; and ”
+- (b) in paragraph (3) after “Single CMO Regulation” insert “ or Regulation (EU) 2013 ”.
+
+(4) In regulation 12 (powers of an authorised officer) for “Single CMO Regulation” substitute “ Regulation (EU) 2013 ”.
+
+(5) In Part 1 of Schedule 1 (European poultrymeat provisions – compliance notices)—
+
+- (a) in the heading under Part 1 after “CMO Regulation” insert “ or Regulation (EU) 2013 ”
+- (b) in the heading in column 1 of the table substitute “ Relevant provision of the Single CMO Regulation or Regulation (EU) 2013 ”;
+- (c) in the heading in column 2 of the table after “Single CMO Regulation” insert “ or Regulation (EU) 2013 ”;
+- (d) in column 1 of the table for “Article 113(3), first sub-paragraph” substitute “ Article 74 of Regulation (EU) No /2013 ”;
+- (e) in column 2 of the table for “Article 116 of, and Part B of Annex XIV to the Single CMO Regulation” substitute “ Article 116 and Part B(I)(2) and (3) and (III)(1) of the Annex XIV to the Single CMO Regulation and Part V of Annex VII to Regulation (EU) 2013 ”;
+- (f) in column 3 of the table for “Part B of Annex XIV to the Single CMO Regulation” substitute “ Part B(I)(2) and(3) and (III(I) of Annex XIV to the Single CMO Regulation and Part V of Annex VII to Regulation (EU) 2013 ”;
+- (g) in column 1 of the table after “point III(1) of Part B of Annex XIV” insert “ to the Single CMO Regulation ”;
+- (h) in column 1 of the table for “point III(2) of Part B of Annex XIV” substitute “ point III of Part V of Annex VII to Regulation (EU) 2013 ”; and
+- (i) in column 2 of the table for “Part B of Annex XIV to the Single CMO Regulation”, in each place it occurs, substitute “ Part V of Annex VII to Regulation (EU) 2013 ”.
+
+(6) In Part 2 of Schedule 1 (provisions of the Commission Regulation)—
+
+- (a) in column 2 for “Points III(1) and (2) of Part B of Annex XIV to the Single CMO Regulation” substitute “ Point III(1) of Part B of Annex XIV to the Single CMO Regulation and point III of Part V of Annex VII to Regulation (EU) 2013 ”; and
+- (b) for “Point II(3) of Part B of Annex XIV to the Single CMO Regulation” substitute “ Point II(3) of Part V of Annex VII to Regulation (EU) 2013 ”.
+
+### 11. Amendments to the Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (England) Regulations 2008
+
+(1) The Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (England) Regulations 2008 [^c21974651] are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) In paragraph (1), after the definition of “food authority”, insert—
+
+  > “**Regulation (EU) 2013**” means the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time
+
+  ;
+- (b) in paragraph (2) after the definition of “Council Regulation”, in each place it occurs, insert “ Regulation (EU) 2013 ”.
+
+(3) In regulation 6(2) (offences and penalty for breach of any EU provision)—
+
+- (a) in sub-paragraph (a) for “Annex XII to that Regulation” substitute “ Part III of Annex VII to Regulation (EU) 2013 ”;
+- (b) for sub-paragraph (b)(i) substitute “ (i) points 1,3,5 and 6 of Part II and point 2 of Part IV of Annex XV to the Council Regulation ”;
+- (c) insert after sub-paragraph (b) “ (ba) Articles 75(1)(h) and 78(1) and (2) of Regulation (EU) 2013 (definitions, designations and sales descriptions applying to spreadable fats) as read with Part VII of Annex VII to that Regulation ”.
+
+### 12. Amendments to the Weights and Measures (Intoxicating Liquor) Order 1988
+
+(1) The Weights and Measures (Intoxicating Liquor) Order 1988 [^c21974661] is amended as follows:
+
+(2) In column 2 of the table in Schedule A1—
+
+- (a) in relation to the entry for “still wine”, for “point 1 of Annex XIb to Council Regulation No [(EC) 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products” substitute “ point(1) of Part II of Annex VII to the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time ”;
+- (b) in relation to the entry for “sparkling wine”, for “points 4, 5, 6, 7, 8 and 9 of Annex XIb to Council Regulation No [(EC) 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products” substitute “ points (4) to (9) of Part II of Annex VII to the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time ”;
+- (c) in relation to the entry for “liqueur wine”, for “point 3 of Annex XIb to Council Regulation No [(EC) 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products” substitute “ point (3) of Part II of Annex VII to the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time ”.
+
+### 13. Amendments to the Wine Regulations 2011
+
+(1) The Wine Regulations 2011 [^c21974671] are amended as follows.
+
+(2) In regulation 2(2) (interpretation)—
+
+- (a) in the definition of “European Regulations” for sub-paragraph (b) substitute—
+
+  > - (b) the provisions of the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time, (“Regulation (EU) 2013”),
+
+  ; and
+- (b) in the definition of “wine sector product” for “Annex XIb” to the end substitute “ Part II of Annex VII to Regulation (EU) 2013 ”.
+
+(3) In regulation 4(2)(a)(ii) (competent authority) for “Article 118o of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234)” substitute “ Article 146(1) of Regulation (EU) 2013 ”.
+
+(4) In regulation 14 (offences)—
+
+- (a) in paragraph (1)(a) for “Article 118m(2) of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234)” substitute “ Article 103(2) of Regulation (EU) 2013 ”;
+- (b) in paragraph (1)(b) for “Article 118v(1) of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234)” substitute “ Article 113(1) of Regulation (EU) 2013 ” and for “Article 118u(1)” substitute “ Article 112 ”;
+- (c) in paragraph (1)(c) for “Article 120c of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234)” substitute “ Article 80(1), third sub-paragraph, of Regulation (EU) 2013 ”; and
+- (d) in paragraph (d) for “Article 158a(2) of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234)” substitute “ Article 90(2) of Regulation (EU) 2013 ”.
+
+(5) In paragraph 1 of Schedule 1 (protected geographical indications) for “Article 118c(2)(h) of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234)” substitute “ Article 94(2)(h) of Regulation (EU) 2013 ”.
+
+(6) In paragraph 1 of Schedule 2 (protected designations of origin) for “Article 118c(2)(h) of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234)” substitute “ Article 94(2)(h) of Regulation (EU) 2013 ”.
+
+## PART 3 — AMENDMENTS TO REGULATIONS THAT RELATE ONLY TO SCOTLAND
+
+### 14. Amendments to the Milk and Dairies (Scotland) Regulations 1990
+
+(1) The Milk and Dairies (Scotland) Regulations 1990 [^c21974681] are amended as follows.
+
+(2) In regulation 2(1) (interpretation), in the definition of “milk” for “Annex XIII to Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation)” substitute “ Part IV of Annex VII to and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234); ”.
+
+### 15. Amendments to the Milk and Milk Products (Pupils in Educational Establishments) (Scotland) Regulations 2001[^key-06c7bd8afd16a8201a24dedbe9cc7e3c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Amendments to the Food Hygiene (Scotland) Regulations 2006
+
+(1) The Food Hygiene (Scotland) Regulations 2006 [^c21974701] are amended as follows.
+
+(2) In paragraph 2(2)(g) of Schedule 4 (Temperature control requirements) for “Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products” substitute “ the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) ”.
+
+### 17. Amendments to the Spreadable Fats, Milk and Milk Products (Scotland) Regulations 2008
+
+(1) The Spreadable Fats, Milk and Milk Products (Scotland) Regulations 2008 [^c21974711] are amended as follows.
+
+(2) In regulation 2(1) (interpretation) after the definition of “the Act” insert—
+
+> “**Council Regulation 2013**” means the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234);
+
+.
+
+(3) In regulation 6(2) (offences and penalty for breach of any EU provision)-
+
+- (a) in sub-paragraph (a) for “Annex XII to that Regulation” substitute “ Part III of Annex VII to Council Regulation 2013 ”;
+- (b) for sub-paragraph (b)(i) substitute “ (i) points 1,3,5 and 6 of Part II and point 2 of Part IV of Annex XV to the Council Regulation ”;
+- (c) after sub-paragraph (b) insert “ (bc) Article 78(1)(f) and (2) of Council Regulation 2013 (definitions, designations and sales descriptions applying to spreadable fats) as read with Part VII of Annex VII to Council Regulation 2013; and ”.
+
+### 18. Amendments to the Eggs and Chicks (Scotland) (No. 2) Regulations 2008
+
+(1) The Eggs and Chicks (Scotland) (No. 2) Regulations 2008 [^c21974721] are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) in paragraph (1), after the definition of “Council Directive [1999/74/EC](https://www.legislation.gov.uk/european/directive/1999/0074)” insert “ “**Council Regulation 2013**” means the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time ”;
+- (b) in paragraph (3), for “Part A of Annex XIV to the Single CMO Regulation” substitute “ Part VI of Annex VII to Council Regulation 2013 ”;
+- (c) in paragraph (4)—
+  - (i) omit the full stop at the end of sub-paragraph (b); and
+  - (ii) at the end of sub-paragraph (b) insert—
+
+    > or the Council Regulation 2013 mentioned in column 1 of Part 1 of Schedule 1, as read with any provision mentioned in any corresponding entry in column 2 of that Part;
+
+    ; and
+- (d) in paragraph 5(a), for “the Single CMO Regulation” substitute “ the Council Regulation 2013 ”.
+
+(3) In regulation 3 (products to which these Regulations apply)—
+
+- (a) in paragraph (1)(b), for “Part A of Annex XIV to the Single CMO Regulation” substitute “ Part VI of Annex VII to Council Regulation 2013 ”;
+- (b) in paragraph (2)(b), for “Part A of Annex XIV to the Single CMO Regulation” substitute “ Part VI of Annex VII to Council Regulation 2013 ”; and
+- (c) for paragraph (2)(c) substitute—
+
+  > - (c) except in so far as they relate to the requirement imposed by point III(3) of Part VI of Annex VII to Council Regulation 2013, the sale of eggs to which point I(1) of Part VI of Annex VII to that Regulation and Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) apply, where the eggs are sold, without any quality or weight grading, directly to the final consumer by the producer in a local public market in the region of production.
+
+  .
+
+(4) In regulation 9 (derogations relating to the marking of eggs)—
+
+- (a) in paragraph (1) for “Part A of Annex XIV to the Single CMO Regulation” substitute “ Part VI of Annex VII to Council Regulation 2013 ”;
+- (b) in paragraph (2)—
+  - (i) for “Part A of Annex XIV to the Single CMO Regulation” substitute “ Part VI of Annex VII to Council Regulation 2013 ”; and
+  - (ii) for “Part A of Annex XIV to the Council Regulation” substitute “ Part VI of Annex VII to Council Regulation 2013 ”.
+
+(5) In Schedule 1 (EU provisions relating to eggs for hatching and chicks contravention of which is an offence), in part 1 (provisions of the Single CMO Regulation)—
+
+- (a) in the heading insert at the end “ or Council Regulation 2013 ”;
+- (b) for the heading to column 1 substitute “ Relevant EU provision ”;
+- (c) in column 1, for “Article 113(3) substitute “ Article 74 of the Council Regulation 2013 ”;
+- (d) in column 1, after “Annex XIV”, in each place it occurs, insert “ to the Single CMO ”;
+
+(6) In Schedule 2 (EU provisions relating to eggs in shell for consumption contravention of which is an offence),
+
+- (a) for Part 1 (provisions of the Single CMO Regulation) substitute—
+
+  > **PART 1 — PROVISIONS OF COUNCIL REGULATION 2013**
+  >
+  > | *Column 1* | *Column 2* | *Column 3* |
+  > | --- | --- | --- |
+  > | Relevant provision of Council Regulation 2013 | Provisions to be read with the provisions of Council Regulation 2013 mentioned in column 1 | Subject matter |
+  > | Article 75 insofar as it relates to the marketing of eggs | Part VI of Annex VII to Council Regulation 2013 and Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Prohibition on the marketing of eggs except in accordance with the marketing standards laid down in Part VI of Annex VII to Council Regulation 2013 and Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589). |
+  > | Point II(1) of Part VI of Annex VII | Article 2(1) and (4) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Grading of eggs as class A (“fresh”) or class B. |
+  > | Point II(2) of Part VI of Annex VII | Article 4(1) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Weight grading of class A eggs. |
+  > | Point II(3) of Part VI of Annex VII |  | Prohibition on the delivery of class B eggs except to the food and non food industry. |
+  > | Point III(1) of Part VI of Annex VII, first sub paragraph | Point III(3) of Part VI of Annex VII to Council Regulation 2013 and Articles 9(1) and 11 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Marking of class A eggs. |
+  > | Point III(1) of Part VI of Annex VII, second sub paragraph | Articles 9, 10 and 11 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), paragraphs (a) and (b) of the second sub-paragraph of point 2 of Part D of Annex II to Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) and regulation 9(1) | Marking of class B eggs. |
+  > | Point III(2) of Part VI of Annex VII | Point III(1) of Part VI of Annex VII to Council Regulation 2013 | Place at which eggs are marked. |
+  > | Point III(3) of Part VI of Annex VII, first sub paragraph | Point III(1) of Part VI of Annex VII and the second sub-paragraph of point III(3) of Part VI of Annex VII to Council Regulation 2013 | Marking of eggs sold by a producer to the final consumer at a local public market. |
+  > | Articles 75(2) and (3) of Council Regulation 2013 | Article 30(2) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Marking of eggs imported from a third country where the rules applied in relation to those eggs in that country have been found to offer sufficient guarantees as to equivalence with EU legislation |
+  > | Articles 75(2) and (3) of Council Regulation 2013 | Articles 11, 30(2) and (3) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) | Marking of eggs and packs imported from a third country where sufficient guarantees of equivalence of the rules relating to those eggs with EU legislation have not been provided. |
+- (b) in Part 2 (provisions of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589))—
+  - (i) in relation to the entry for Article 2(1) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) in column 2, for “Part A of Annex XIV, first indent, to the Single CMO Regulation” substitute “ Part VI of Annex VII, paragraph (a), to the Council Regulation 2013 ”;
+  - (ii) in relation to the entry for Article 2(4) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) in column 2, for “Part A of Annex XIV, second indent, to the Single CMO Regulation” substitute “ Part VI of Annex VII, paragraph (b), to the Council Regulation 2013 ”;
+  - (iii) in relation to the entry for Article 4(1) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) in column 2, for “Part A of Annex XIV to the Single CMO Regulation” substitute “ Part VI of Annex VII to the Council Regulation 2013 ”;
+  - (iv) in relation to the entry for Article 8(5) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) in column 2, for “Part A of Annex XIV, second sub-paragraph, of the Single CMO Regulation”, substitute “ Part VI of Annex VII, second sub-paragraph, to the Council Regulation 2013 ”;
+  - (v) in relation to the entry for Article 10 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) in column 2, for “Part A of Annex XIV, second sub-paragraph to the Single CMO Regulation”, substitute “ Part VI of Annex VII, second sub-paragraph, to the Council Regulation 2013 ”; and
+  - (vi) in relation to the entry for Article 30(3) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) in column 2, omit “Point IV(3) of Part A of Annex XIV to the Single CMO Regulation and”.
+
+(7) In Schedule 2A (EU provisions relating to eggs in shell for consumption: salmonella control related requirements where the contravention of which is an offence) in relation to the entry for Point 2, second sub-paragraph, paragraph (a), of Part D of Annex II of Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160), in column 2, for “Part A of Annex XIV to, the Single CMO Regulation” substitute “ Part VI of Annex VII to the Council Regulation 2013 ”.
+
+### 19. Amendments to the Marketing of Horticultural Produce (Scotland) Regulations 2009
+
+(1) The Marketing of Horticultural Produce (Scotland) Regulations 2009 [^c21974731] are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) in paragraph (1)—
+  - (i) in the definition of “EU marketing rules” for “Council Regulation 1234/2007, and includes the rules relating to those standards contained in Articles 113 and 113a” substitute “ Council Regulation 2013 and includes the rules relating to those standards contained in Articles 74, 75 and 76 ”;
+  - (ii) for the definition of “Council Regulation 1234/2007” substitute—
+
+    > “**Council Regulation 2013**” means the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time
+
+    ;
+  - (iii) in the definition of “general marketing standard” for “Article 113a(1) of Council Regulation 1234/2007” substitute “ for Article 76(1) of Council Regulation 2013 ”;
+  - (iv) in the definition of “horticultural produce” for “Council Regulation 1234/2007” substitute “ Council Regulation 2013 ”; and
+  - (v) in the definition of “specific marketing standards” for “Article 113(1)(b) of Council Regulation 1234/2007” substitute “ Article 75(1)(b) of Council Regulation 2013 ”; and
+- (b) in paragraph (3), for “Council Regulation 1234/2007” substitute “ Council Regulation 2013 ”.
+
+### 20. Amendments to the Beef and Pig Carcase Classification (Scotland) Regulations 2010
+
+(1) The Beef and Pig Carcase Classification (Scotland) Regulations 2010 [^c21974741] are amended as follows.
+
+(2) In regulation 2(1) (interpretation), for the definition of “Council Regulation” substitute—
+
+> “**Council Regulation**” means the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time;
+
+(3) In Schedule 1 (European provisions: bovine carcases), in Part 1, column 1 for “Annex V”, in each place it occurs, substitute “ Annex IV ”.
+
+(4) In Schedule 2 (European provisions: pig carcases), in column 1 for “Annex V”, in each place it occurs, substitute “ Annex IV ”.
+
+### 21. Amendments to the Beef and Veal Labelling (Scotland) Regulations 2010
+
+(1) The Beef and Veal Labelling (Scotland) Regulations 2010 [^c21974751] are amended as follows.
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) omit the definition of “Council Regulation 1234/2007”;
+- (b) after the definition of “Commission Regulation 566/2008” insert—
+
+  > “**the EU Regulation**” means the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time;
+
+  .
+
+(3) For regulation 3(1)(c) (authorities responsible for enforcement) substitute—
+
+> - (c) Article 78 of, and Part I of Annex VII to, the EU Regulation;
+
+.
+
+(4) In regulation 4 (offences under European legislation)—
+
+- (a) for paragraph (1)(c) substitute—
+
+  > - (c) the following provisions of the EU Regulation—
+  >   - (i) Article 78 and paragraph II of Part I of Annex VII (classification of bovine animals aged less than 12 months at the slaughterhouse);
+  >   - (ii) Article 78 and paragraph III of Part I of Annex VII (sales descriptions);
+  >   - (iii) Article 78 and paragraph IV of Part I of Annex VII (compulsory information on the label);
+  >   - (iv) Article 78 and paragraph V of Part I of Annex VII (recording); and
+  >   - (v) paragraph VI(5) of Part I of Annex VII (official checks);
+
+  ; and
+- (b) in paragraph (2), for “paragraph IV(2) of Annex XIa to Council Regulation 1234/2007,” substitute “ paragraph IV(2) of Part I of Annex VII to the EU Regulation 2013, ”.
+
+### 22. Amendments to the Drinking Milk (Scotland) Regulations 2011
+
+(1) The Drinking Milk (Scotland) Regulations 2011 [^c21974761] are amended as follows.
+
+(2) In regulation 2 (interpretation)
+
+- (a) in paragraph (1), for the definition of “the Annex” substitute—
+
+  > “**the Annex**” means Part IV of Annex VII to the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234);
+
+  ; and
+- (b) in paragraph (2), after “Council Regulation”, in each place it occurs, insert “ or the Annex ”.
+
+(3) Omit regulation 4.
+
+(4) In regulation 6 (offences and penalties) omit “or 4”.
+
+### 23. Amendments to the Poultrymeat (Scotland) Regulations 2011
+
+(1) The Poultrymeat (Scotland) Regulations 2011 [^c21974771] are amended as follows.
+
+(2) In regulation 1(4)—
+
+- (a) for “point I(1) of Part B of Annex XIV to the Single CMO Regulation” substitute “ point 1 of Part V of Annex VII to Council Regulation 2013 ”; and
+- (b) for “that Part of that Annex to that Regulation” substitute “ Part B of Annex XIV to that Regulation ”.
+
+(3) In regulation 2 (interpretation)—
+
+- (a) in paragraph (1)—
+  - (i) after the definition of “contravene” insert
+
+    > “**Council Regulation 2013**” means the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time;
+
+    ;
+  - (ii) in the definition of “European poultry provision” after “Single CMO Regulation” insert “ or, as the case may be, Council Regulation 2013 ”;
+  - (iii) for the definition of “poultrymeat” substitute—
+
+    > “poultrymeat” “has the meaning given by point II(1) of Part V of Annex VII to Council Regulation 2013;
+
+    ; and
+- (b) in paragraph (3) after “Single CMO Regulations” insert “ or, as the case may be, Council Regulation 2013 ”.
+
+(4) In regulation 11(1)(a)(v) (powers of an authorised officer) for “Single CMO Regulation” substitute “ Council Regulation 2013 ”.
+
+(5) In Part 1 of Schedule 1 (European poultry meat provisions – contravention of which is an offence)—
+
+- (a) for the heading under Part 1 after “SINGLE CMO REGULATION” insert “ OR THE COUNCIL REGULATION 2013 ”
+- (b) for the heading in column 1 substitute “ Relevant provision of the Single CMO or Council Regulation 2013 ”;
+- (c) in the heading in column 2 after “Single CMO Regulation” insert “ or Council Regulation 2013 ”;
+- (d) in column 1 for “Article 113(3), first sub-paragraph” substitute “ Article 74 of the Council Regulation 2013 ”;
+- (e) in column 2 for “Article 116 of, and Part B of Annex XIV to the Single CMO Regulation” substitute “ Article 116 of, and Part B (I)(2) and (3) and (III)(1) of the Single CMO Regulation and Part V of Annex VII to the Council Regulation 2013 ”;
+- (f) in column 1 after “point III(1) of Part B of Annex XIV” insert “ to the Single CMO Regulation ”;
+- (g) in column 1 for “point III(2) of Part B of Annex XIV” substitute “ point III of Part V of Annex VII to Council Regulation 2013 ”; and
+- (h) in column 2 for “Part B of Annex XIV to the Single CMO Regulation”, in each place it occurs, substitute “ Part V of Annex VII to Council Regulation 2013 ”.
+
+(6) In Part 2 of Schedule 1 (provisions of the EU Regulation)—
+
+- (a) in column 2 for “Points III(1) and (2) of Part B of Annex XIV to the Single CMO Regulation” substitute “ Point III(1) of Part B of Annex XIV to the Single CMO Regulation and Point III of Part V of Annex VII to Council Regulation 2013 ”; and
+- (b) for “Point II(3) of Part B of Annex XIV to the Single CMO Regulation” substitute “ Point II(3) of Part V of Annex VII to Council Regulation 2013 ”.
+
+### 24. Amendments to the Marketing of Bananas (Scotland) Regulations 2012
+
+(1) The Marketing of Bananas (Scotland) Regulations 2012 [^c21974781] are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) in paragraph (1)(a) of the definition of “bananas” for “CN code 0803 00 19 as provided for in Part XI of Annex 1 to Council Regulation 1234/2007” substitute “ CN code 0803 90 10 as provided for in Part XI of Annex I to Council Regulation 2013 ”;
+- (b) for the definition of “Council Regulation 1234/2007” substitute—
+
+  > “**Council Regulation 2013**”“ means the Regulation of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time
+
+  and
+- (c) in paragraph (2) for “Council Regulation 1234/2007” substitute “ Council Regulation 2013 ”.
+
+(3) In Regulation 3(1) (designations, provision of information and appointment of authorised officers) – for “Article 113(3) of Council Regulation 1234/2007” substitute “ Article 74 of Council Regulation 2013 ”.
+
+George Eustice
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+*(This note is not part of the Regulations)*
+
+These Regulations amend a number of Regulations (set out in Parts 2 and 3 of these Regulations) consequential upon the Regulation (EU) 2013 of the European Parliament and of the Council adopted on 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) (“Regulation (EU) 2013”). Regulation (EU) 2013 repeals (subject to transitional and final provisions set out in Article 230) the earlier Single Common Market Organisation - Council Regulation (EU) No 1234/2007 of 22 October 2007 (“Council Regulation 2007”) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products. The transitional provisions set out in Article 230 provide for certain Articles in Council Regulation 2007 to continue to apply until corresponding marketing rules made under Regulation (EU) 2013 (“corresponding marketing rules”) come into force.
+
+The following Regulations set out in Part 2 are amended—
+
+- (a) The Beef and Pig Carcase Classification (England) Regulations 2010 are amended to replace references to Council Regulation 2007 with Regulation (EU) 2013 (regulation 2).
+- (b) The Beef and Veal Labelling Regulations 2010 (which apply in relation to England only) are amended to replace references to Council Regulation 2007 with Regulation (EU) 2013 (regulation 3).
+- (c) The Drinking Milk (England) Regulations 2008 (which apply in England only) make provision for the enforcement of Article 114 (2) of Council Regulation 2007 (marketing standards for milk and milk products). Article 230(1)(c) provides that Article 114 is to continue to apply until the corresponding marketing rules come into force. The 2008 Regulations are amended to replace the reference in regulation 6 (sale or delivery of milk and use of sales descriptions) to Annex XIII to Council Regulation 2007 with Part IV of Annex VII (milk for human consumption) to Regulation (EU) 2013 (regulation 4).
+- (d) The Eggs and Chicks (England) Regulations 2009 make provision for the enforcement of EU marketing standards relating to eggs for hatching, poultry chicks and eggs in shell for consumption. Article 230(1)(c) provides that Article 116 of, and certain parts of Annex XIV to, Council Regulation 2007 are to continue to apply until the corresponding marketing rules come into force. Save to the extent that Council Regulation 2007 applies, Regulation (EU) 2013 applies and the 2009 Regulations are amended to refer to the relevant provisions in Regulation (EU) 2013 (regulation 5).
+- (e) The Food Labelling Regulations 1996 (which apply in England, Wales and Scotland) are amended to replace references to Council Regulation 2007 with Regulation (EU) 2013 (regulation 6).
+- (f) The Legislative and Regulatory Reform (Regulatory Functions) Order 2007 (which applies in England, Wales, Scotland and Northern Ireland) is amended to replace the reference to Council Regulation 2007 in Part 2 of the Schedule with Regulation (EU) 2013 (regulation 7).
+- (g) The Marketing of Fresh Horticultural Produce Regulations 2009 (which apply in England, Wales, Scotland and Northern Ireland) are amended to replace references to Council Regulation 2007 with Regulation (EU) 2013 (regulation 8).
+- (h) The Milk and Milk Products (Pupils in Educational Establishments) (England) Regulations 2008 are amended to replace references to Council Regulation 2007 with Regulation (EU) 2013 (regulation 9).
+- (i) The Poultrymeat (England) Regulations 2011 make provision for the enforcement of marketing standards relating to poultrymeat. Article 116 of, and certain parts of Annex XIV to, Council Regulation 2007 are to continue to apply until the corresponding marketing rules come into force. Save to the extent that Council Regulation 2007 applies, Regulation (EU) 2013 applies and the 2011 Regulations are amended to refer to the relevant provisions in Regulation (EU) 2013 (regulation 10).
+- (j) The Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (England) Regulations 2008 create offences of failing to comply with provisions in Council Regulation 2007 relating to marketing standards for fats and descriptions of milk and milk products (Articles 115 and 114 respectively). Article 230 (1)(c) of Regulation (EU) 2013 provides that Articles 114 and 115 of, and certain parts of Annex XIV to, Council Regulation 2007 are to continue to apply until the corresponding marketing rules come into force. Save to the extent that Council Regulation 2007 applies, Regulation (EU) 2013 applies and the 2008 Regulations are amended to refer to the relevant provisions in Regulation (EU) 2013 (regulation 11).
+- (k) The Weights and Measures (Intoxicating Liquor) Order 1988 (which applies in England, Wales, Scotland and Northern Ireland) is amended to replace the references to Council Regulation 2007 in Schedule A1 with Regulation (EU) 2013 (regulation 12).
+- (l) The Wine Regulations 2011 (which apply in England, Wales, Scotland and Northern Ireland) are amended to replace the references to Council Regulation 2007 with Regulation (EU) 2013 (regulation 13).
+
+The following Regulations set out in Part 3, which apply in Scotland only, are amended—
+
+- (a) The Milk and Dairies (Scotland) Regulations 1990 are amended to replace the reference to Council Regulation 2007 to Regulation (EU) 2013 (regulation 14).
+- (b) The Milk and Milk Products (Pupils in Educational Establishments) (Scotland) Regulations 2001 are amended to replace references to Council Regulation 2007 to Regulation (EU) 2013 (regulation 15).
+- (c) The Food Hygiene (Scotland) Regulations 2006 are amended to replace the reference to Council Regulation 2007 to Regulation (EU) 2013 (regulation 16).
+- (d) The Eggs and Chicks (Scotland) (No. 2) Regulations 2008 make provision for the enforcement of certain provisions of Council Regulation 2007 insofar as they relate to eggs for hatching and farmyard poultry chicks and other eggs. Article 230 (1)(c) provides that Article 116 of, and certain parts of Annex XIV to Council Regulation 2007 (marketing standards for products of eggs) are to continue to apply until the corresponding marketing rules come into force. Save to that extent Regulation (EU) 2013 applies and the 2008 Regulations are amended to refer to the relevant provisions of Regulation (EU) 2013 (regulation 18).
+- (e) The Marketing of Horticultural Produce (Scotland) Regulations 2009 are amended to replace references to Council Regulation 2007 to Regulation (EU) 2013 (regulation 19).
+- (f) The Beef and Pig Carcase Classification (Scotland) Regulations 2010 are amended to replace references to Council Regulation 2007 Regulation (EU) 2013 (regulation 20).
+- (g) The Beef and Veal Labelling (Scotland) Regulations 2010 only are amended to replace references to Council Regulation 2007 to Regulation (EU) 2013 (regulation 21).
+- (h) The Drinking Milk (Scotland) Regulations 2011 make provision for the enforcement of Article 114 (2) of Council Regulation 2007 (marketing standards for milk and milk products). Article 230 (1)(c) provides that Article 114 is to continue to apply until the corresponding marketing rules come into force. The 2011 Regulations are amended to replace the reference in regulation 2 (interpretation) to Annex XIII to Council Regulation 2007 to Part IV of Annex VII (milk for human consumption) to Regulation (EU) 2013 (regulation 22).
+- (i) The Poultrymeat (Scotland) Regulations 2011 make provision for the enforcement of marketing standards relating to poultrymeat. Article 116 of, and certain parts of Annex XIV to, Council Regulation 2007 (marketing standards for poultrymeat) are to continue to apply until the corresponding marketing rules come into force. Save to that extent Regulation (EU) 2013 applies and the 2011 Regulations are amended to refer to the relevant provisions in Regulation (EU) No 2013 (regulation 23).
+- (j) The Marketing of Bananas (Scotland) Regulations 2012 are amended to replace the references to Council Regulation 2007 to Regulation (EU) No /2013 (regulation 24).
+
+## Annotations
+
+[^c21974501]: Marginal citation: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811). The function of the Minister of Agriculture of making regulations under section 2(2) of the European Communities Act 1972 was transferred to the Secretary of State by the [Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/794)](https://www.legislation.gov.uk/uksi/2002/794).
+
+[^c21974511]: Marginal citation: 1972 c 68. Section 2(2) is amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006.
+
+[^c21974521]: Marginal citation: Under section 57(1) of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), despite the transfer to Scottish Ministers of functions in relation to implementing obligations under EU law in relation to devolved matters, the Secretary of State retains power to exercise such functions as regards Scotland. Under paragraph 5 of Schedule 3 to the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), despite the transfer to the Welsh Ministers of functions in relation to implementing obligations under EU law in relation to devolved matters, the Secretary of State retains power to exercise such functions as regards Wales. The Secretary of State's power, as a Minister so designated, to make regulations which extend to Northern Ireland is confirmed by article 3(2) of [S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812).
+
+[^c21974531]: Marginal citation: [1990 c.16](https://www.legislation.gov.uk/ukpga/1990/16).
+
+[^c21974541]: Marginal citation: O.J. L 347, 20.12.2013.
+
+[^key-9dc760f5dd5dfad3ec353776b501645e]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/3235/regulation/2) revoked (3.12.2018) by [The Carcase Classification and Price Reporting (England) Regulations 2018 (S.I. 2018/1164)](https://www.legislation.gov.uk/uksi/2018/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1164/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2018/1164/regulation/5/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/1164/regulation/3), [7](https://www.legislation.gov.uk/uksi/2018/1164/regulation/7), [13](https://www.legislation.gov.uk/uksi/2018/1164/regulation/13))
+
+[^c21974561]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2013/3235/section/I) 2010/983; as amended by 2012/2897.
+
+[^c21974571]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2013/3235/section/I) 2008/1317.
+
+[^c21974581]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2013/3235/section/I) 2009/2163; as amended by [S.I. 2012/2897](https://www.legislation.gov.uk/uksi/2012/2897).
+
+[^key-6d7d9c592fa8709b76645759fea6cb85]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/3235/regulation/6) revoked (13.12.2018) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/2) and (S.) (13.12.2018) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(4)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/4), [sch. 4 Pt. 2](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/2)
+
+[^c21974611]: Marginal citation: SI 2007/3544; as relevantly amended by 2009/2981.
+
+[^c21974621]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2013/3235/section/I) 2009/1361; as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I](https://www.legislation.gov.uk/uksi/2011/1043/section/I). 2011/2587.
+
+[^key-ad2a4d4eeb45e0b7b63612d1e3dd81ce]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/3235/regulation/9) revoked (1.8.2017) by [The Milk and Milk Products (Pupils in Educational Establishments) (England and Northern Ireland) Regulations 2017 (S.I. 2017/734)](https://www.legislation.gov.uk/uksi/2017/734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/734/regulation/1/1), [7(1)(b)](https://www.legislation.gov.uk/uksi/2017/734/regulation/7/1/b) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2017/734/regulation/7/2))
+
+[^c21974641]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2013/3235/section/I) 2011/452; as amended by [S.I. 2012/2897](https://www.legislation.gov.uk/uksi/2012/2897).
+
+[^c21974651]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2013/3235/section/I) 2008/1287, as amended by [S.I. 2013/2854](https://www.legislation.gov.uk/uksi/2013/2854).
+
+[^c21974661]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2013/3235/section/I) 1988/2039; as relevantly amended by [S.I. 2009/663](https://www.legislation.gov.uk/uksi/2009/663), [S.I](https://www.legislation.gov.uk/uksi/2009/663/section/I). 2011/2936.
+
+[^c21974671]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2013/3235/section/I) 2011/2936; as amended by 2012/2897.
+
+[^c21974681]: Marginal citation: [S.S.I. 1990/2507](https://www.legislation.gov.uk/ssi/1990/2507); as amended by [S.S.I.1992/3136](https://www.legislation.gov.uk/ssi/1992/3136), [S.S.I. 1995/1372](https://www.legislation.gov.uk/ssi/1995/1372), [S.S.I. 1998/2424](https://www.legislation.gov.uk/ssi/1998/2424) and [S.S.I. 2011/84](https://www.legislation.gov.uk/ssi/2011/84).
+
+[^key-06c7bd8afd16a8201a24dedbe9cc7e3c]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/3235/regulation/15) revoked (1.8.2017) by [The Milk and Other Products (Pupils in Educational Establishments) (Scotland) Regulations 2017 (S.S.I. 2017/178)](https://www.legislation.gov.uk/ssi/2017/178), [regs. 1](https://www.legislation.gov.uk/ssi/2017/178/regulation/1), [7(1)(c)](https://www.legislation.gov.uk/ssi/2017/178/regulation/7/1/c)
+
+[^c21974701]: Marginal citation: [S.S.I. 2006/3](https://www.legislation.gov.uk/ssi/2006/3), as relevantly amended by [S.S.I. 2008/395](https://www.legislation.gov.uk/ssi/2008/395).
+
+[^c21974711]: Marginal citation: [S.S.I. 2008/216](https://www.legislation.gov.uk/ssi/2008/216), as relevantly amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809).
+
+[^c21974721]: Marginal citation: S.S.I 2008/395; as amended by [S.S.I. 2010/450](https://www.legislation.gov.uk/ssi/2010/450) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
+
+[^c21974731]: Marginal citation: [S.S.I. 2009/225](https://www.legislation.gov.uk/ssi/2009/225) - as amended by [S.S.I. 2011/324](https://www.legislation.gov.uk/ssi/2011/324) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
+
+[^c21974741]: Marginal citation: [S.S.I. 2010/330](https://www.legislation.gov.uk/ssi/2010/330).
+
+[^c21974751]: Marginal citation: [S.S.I. 2010/402](https://www.legislation.gov.uk/ssi/2010/402).
+
+[^c21974761]: Marginal citation: S.S.I 2011/84.
+
+[^c21974771]: Marginal citation: [S.S.I. 2011/318](https://www.legislation.gov.uk/ssi/2011/318).
+
+[^c21974781]: Marginal citation: [S.S.I. 2012/349](https://www.legislation.gov.uk/ssi/2012/349).

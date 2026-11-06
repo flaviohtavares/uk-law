@@ -1,0 +1,27 @@
+---
+title: Adoption Act 1976, section 71
+act: Adoption Act 1976
+section: '71'
+status: revised-with-pending-changes
+text_date: '2009-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1976/36/section/71
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Adoption Act 1976, section 71
+
+> **Warning: changes not yet applied to this text (7).** Text as at 2009-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/36
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 71. Internal law of a country.[^key-4487bdebfb20e55ebd413702ad462657]
+
+*Extent: E+W*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-4487bdebfb20e55ebd413702ad462657]: Textual amendment: Ss. 50-74 repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)

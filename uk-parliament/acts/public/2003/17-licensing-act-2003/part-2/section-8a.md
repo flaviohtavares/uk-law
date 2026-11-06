@@ -1,0 +1,74 @@
+---
+title: Licensing Act 2003, section 8A
+act: Licensing Act 2003
+section: 8A
+status: revised-with-pending-changes
+text_date: '2026-06-29'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2003/17/section/8A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Licensing Act 2003, section 8A
+
+> **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/17
+>
+> Extent: England, Wales, Northern Ireland.
+
+## 8A. Greater London strategic licensing policy[^key-bf7e7c19b107f9986df6fee8be064ab7]
+
+*Extent: E+W*
+
+(1) The Mayor of London must in respect of each five year period—
+
+- (a) determine a policy in relation to the carrying out of relevant licensable activities in Greater London, and
+- (b) publish a statement of that policy before the beginning of the period.
+
+(2) The Mayor may replace a policy under subsection (1) in respect of a period, with effect from any date during that period, by—
+
+- (a) determining a policy in relation to the carrying out of relevant licensable activities in Greater London in respect of a period of five years beginning with that date, and
+- (b) publishing a statement of that policy before that date.
+
+(3) Before determining a policy under this section, the Mayor must consult—
+
+- (a) the chief officer of police for the area of each London licensing authority,
+- (b) each Local Health Board for an area any part of which is in the area of a London licensing authority,
+- (c) such persons as the Mayor considers to be representative of holders of premises licences issued by each London licensing authority,
+- (d) such other persons as the Mayor considers to be representative of businesses and residents in the area of each London licensing authority,
+- (e) the Secretary of State,
+- (f) each London licensing authority.
+
+(4) During each five year period, the Mayor must keep its policy in respect of that period under review and make such revisions to the policy, at such times, as the Mayor considers appropriate.
+
+(5) Subsection (3) applies in relation to any revision of a policy under this section as it applies in relation to the original determination of a policy.
+
+(6) Where revisions are made, the Mayor must publish a statement of the revisions or the revised policy.
+
+(7) In determining a policy under this section, or making revisions to such a policy, the Mayor must have regard to—
+
+- (a) the primary importance of promoting the licensing objectives, and
+- (b) any requirements imposed on licensing authorities when carrying out their licensing functions.
+
+(8) In determining or revising a policy under this section, the Mayor must have regard to any cumulative impact assessments published by a London licensing authority in accordance with section 5A.
+
+(9) A statement of a policy under this section must specify the five year period to which it relates.
+
+(10) Regulations may make provision about the determination and revision of policies, and the preparation and publication of policy statements, under this section.
+
+(11) The requirement to consult in subsection (3) in relation to a policy for the first five year period may be met by consultation carried out before this section comes into force.
+
+(12) In this section, references to “relevant licensable activities” are to—
+
+- (a) the sale by retail of alcohol,
+- (b) the provision of regulated entertainment, and
+- (c) the provision of late night refreshment.
+
+(13) In this section, “**five year period**” means—
+
+- (a) if paragraph (b) does not apply, the period of five years beginning 6 months after this section comes into force or with such earlier date as the Mayor may determine, and each subsequent period of five years, or
+- (b) if the Mayor has published a statement of policy under subsection (2), the period of five years to which the most recently published such statement relates, and each subsequent period of five years.
+
+## Annotations
+
+[^key-bf7e7c19b107f9986df6fee8be064ab7]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/2003/17/section/8A) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 26 para. 5](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))

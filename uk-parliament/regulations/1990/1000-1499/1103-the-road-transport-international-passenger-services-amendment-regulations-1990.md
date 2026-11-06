@@ -1,0 +1,98 @@
+---
+title: The Road Transport (International Passenger Services) (Amendment) Regulations 1990
+id: uksi/1990/1103
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1990-05-16'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1990/1103
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1990/1103/pdfs/uksi_19901103_en.pdf
+- http://www.legislation.gov.uk/uksi/1990/1103/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Road Transport (International Passenger Services) (Amendment) Regulations 1990
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1990 No. 1103
+
+PUBLIC PASSENGER TRANSPORT
+
+ROAD TRAFFIC
+
+The Road Transport (International Passenger Services) (Amendment) Regulations 1990
+
+Made
+
+16th May 1990
+
+Laid before Parliament
+
+30th May 1990
+
+Coming into force
+
+1st July 1990
+
+The Secretary of State for Transport, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the international carriage of passengers by road, in exercise of the powers conferred by that section, section 60(1) of the Public Passenger Vehicles Act 1981[^f00003] and, with the consent of the Treasury, in exercise of the powers conferred by section 56(1) of the Finance Act 1973[^f00004] and of all other enabling powers, and (in respect of the Regulations in so far as made under the said Act of 1981), after consultation with representative organisations in accordance with section 61(2) of that Act hereby makes the following Regulations:—
+
+**1.** These Regulations may be cited as the Road Transport (International Passenger Services) (Amendment) Regulations 1990 and shall come into force on 1st July 1990.
+
+**2.** (1) The Road Transport (International Passenger Services) Regulations 1984[^f00005] shall be amended in accordance with the following provisions of this regulation:—
+
+(2) In regulation 14:—
+
+- (a) after paragraph (2) there shall be inserted the following paragraph:—
+
+  > (2A) An application for a certified copy of any such authorisation as is referred to in paragraph (1) or (2) above shall be made to the Secretary of State and the applicant shall pay a fee of £10 in respect of each such copy.
+
+  ;
+- (b) in paragraph (3) for “£125” there shall be substituted “£140” and
+- (c) in paragraph (4) for “£25” there shall be substituted “£30”.
+
+Signed by authority of the Secretary of State for Transport
+
+Robert Atkins
+
+Parliamentary Under Secretary of State
+
+Department of Transport
+
+12th May 1990
+
+We consent to the making of these Regulations
+
+David Lightbown
+
+Thomas Sackville
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+16th May 1990
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Road Transport (International Passenger Services) Regulations 1984. They provide that:—
+
+- (a) the fee of £125 prescribed by regulation 14(3) payable on application for an authorisation under the Regulations shall be increased to £140 (this fee was last increased in 1987);
+- (b) the fee of £25 prescribed by regulation 14(4) payable in respect of each year of validity of a regular, or special regular, service authorisation shall be increased to £30; and
+- (c) an application for a certified copy of an authorisation shall be made to the Secretary of State on payment of a fee of £10 in respect of each such copy.
+
+## Annotations
+
+[^f00001]: Footnote: S.I. [1972/1811](https://www.legislation.gov.uk/uksi/1972/1811), [1979/571](https://www.legislation.gov.uk/uksi/1979/571) and [1981/238](https://www.legislation.gov.uk/uksi/1981/238).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^f00003]: Footnote: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).
+
+[^f00004]: Footnote: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51).
+
+[^f00005]: Footnote: S.I. [1984/748](https://www.legislation.gov.uk/uksi/1984/748), as amended by S.I. [1987/1755](https://www.legislation.gov.uk/uksi/1987/1755).

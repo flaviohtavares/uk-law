@@ -1,0 +1,43 @@
+---
+title: Capital Allowances Act 2001, section 264
+act: Capital Allowances Act 2001
+section: '264'
+status: revised-with-pending-changes
+text_date: '2026-05-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2001/2/section/264
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Capital Allowances Act 2001, section 264
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/2
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 264. Partnership using property of a partner
+
+*Extent: E+W+S+N.I.*
+
+(1) Subsection (2) applies if—
+
+- (a) a qualifying activity is carried on in partnership,
+- (b) plant or machinery is used for the purposes of the qualifying activity, and
+- (c) the plant or machinery is owned by one or more of the partners but is not partnership property.
+
+(2) The same allowances, deductions and charges are to be made under this Part in respect of the plant or machinery as would fall to be made if—
+
+- (a) the plant or machinery had at all material times been owned by all the partners and been partnership property, and
+- (b) everything done by or to any of the partners in relation to that plant or machinery had been done by or to all the partners.
+
+(3) The disposal value of plant or machinery is not required to be brought into account if—
+
+- (a) the plant or machinery is used for the purposes of a qualifying activity carried on in partnership,
+- (b) a sale or gift of the plant or machinery is made by one or more of the partners to one or more of the partners, and
+- (c) the plant or machinery continues to be used after the sale or gift for the purposes of the qualifying activity.
+
+(4) The references in this section to use for the purposes of a qualifying activity do not include use—
+
+- (a) as a result of a letting by the partner or partners in question to the partnership, or
+- (b) in consideration of the making to the partner or partners in question of any payment which may be deducted in calculating the profits of the qualifying activity.

@@ -1,0 +1,60 @@
+---
+title: The Education (Student Support) Regulations 2008, section 24
+act: The Education (Student Support) Regulations 2008
+section: '24'
+status: not-yet-in-force
+text_date: '2008-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2008/529/section/24
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Student Support) Regulations 2008, section 24
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 24. Old system students who are on end-on courses[^key-0bacd4b1a68ab76f5cccd2ca8e61e4e0]
+
+*Extent: E+W+S+N.I.*
+
+**Not yet in force.**
+
+(1) An old system student who is on an end-on course of the kind described in paragraph (a) of the definition of “end-on course” in regulation 2 that he began before 1st September 2006 qualifies for a grant for fees in respect of that course in accordance with regulation 22.
+
+(2) An old system student who is on an end-on course of the kind described in paragraph (c) of the definition of “end-on course” in regulation 2 qualifies for a grant for fees in respect of that course in accordance with regulation 22.
+
+(3) Paragraphs (4) to (10) apply to—
+
+- (a) an old system student in respect of an end-on course of the kind described in paragraph (a) of the definition of “end-on course” in regulation 2 that he—
+  - (i) began on or after 1st September 2006 and is continuing on after 31st August 2008; or
+  - (ii) begins on or after 1st September 2008;
+- (b) an old system student in respect of an end-on course of the kind described in paragraph (b) of the definition of “end-on course” in regulation 2.
+
+(4) An old system student to whom this paragraph applies does not qualify for fee support in respect of a course mentioned in paragraph (3) if he has an honours degree from an institution in the United Kingdom and the exemption in regulation 34(1) or (2) does not apply.
+
+(5) An old system student to whom this paragraph applies does not qualify for a grant for fees in respect of an academic year of a course mentioned in paragraph (3) that is a bursary year or an Erasmus year.
+
+(6) When assessing an application for support in respect of an academic year of a course mentioned in paragraph (3), the Secretary of State must determine the “standard entitlement”.
+
+(7) The standard entitlement is calculated as follows—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2008/529)
+
+where
+
+- *D* is the greater of 3 and the number of academic years that make up the ordinary duration of the course,
+- *X* is 1 where the ordinary duration of the preliminary course was less than three years and 2 where the ordinary duration of the preliminary course was three years,
+- *PrC* is the number of academic years that the student spent on the preliminary course excluding any years of repeat study for compelling personal reasons.
+
+(8) When assessing an application for support in respect of an academic year of a course to which this paragraph applies, the Secretary of State must allocate a grant for fees from the standard entitlement first to the final standard academic year of the course and then to each preceding standard academic year in turn until the standard entitlement is exhausted or a grant for fees has been allocated to each standard academic year of the course.
+
+(9) An old system student to whom this paragraph applies qualifies for a grant for fees in respect of a standard academic year of a course to which this paragraph applies if the Secretary of State allocates a grant for fees to that year when assessing the application for support for that year.
+
+(10) The amount of the grant for fees in respect of an academic year of a course to which this paragraph applies is determined in accordance with regulation 28, 29 or 30 and may be nil.
+
+## Annotations
+
+[^key-0bacd4b1a68ab76f5cccd2ca8e61e4e0]: Commencement: Reg. 24 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

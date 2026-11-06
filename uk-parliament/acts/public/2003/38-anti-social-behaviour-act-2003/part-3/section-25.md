@@ -1,0 +1,46 @@
+---
+title: Anti-social Behaviour Act 2003, section 25
+act: Anti-social Behaviour Act 2003
+section: '25'
+status: revised-with-pending-changes
+text_date: '2026-05-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2003/38/section/25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Anti-social Behaviour Act 2003, section 25
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
+>
+> Extent: England, Wales, Scotland.
+
+## 25. Parenting contracts in respect of criminal conduct and anti-social behaviour : youth offending teams[^key-4f8962af7c43d340d973d68356f9ea72][^key-ea68f1d5c3e840991e8f648faf54550f]
+
+*Extent: E+W*
+
+(1) This section applies where a child or young person has been referred to a youth offending team.
+
+(2) The youth offending team may enter into a parenting contract with a parent of the child or young person if a member of that team has reason to believe that the child or young person has engaged, or is likely to engage, in criminal conduct or anti-social behaviour.
+
+(3) A parenting contract is a document which contains—
+
+- (a) a statement by the parent that he agrees to comply with such requirements as may be specified in the document for such period as may be so specified, and
+- (b) a statement by the youth offending team that it agrees to provide support to the parent for the purpose of complying with those requirements.
+
+(4) The requirements mentioned in subsection (3)(a) may include (in particular) a requirement to attend a counselling or guidance programme.
+
+(5) The purpose of the requirements mentioned in subsection (3)(a) is to prevent the child or young person from engaging in criminal conduct or anti-social behaviour or further criminal conduct or further anti-social behaviour.
+
+(6) A parenting contract must be signed by the parent and signed on behalf of the youth offending team.
+
+(7) A parenting contract does not create any obligations in respect of whose breach any liability arises in contract or in tort.
+
+(8) Youth offending teams must, in carrying out their functions in relation to parenting contracts, have regard to any guidance which is issued by the Secretary of State from time to time for that purpose.
+
+## Annotations
+
+[^key-4f8962af7c43d340d973d68356f9ea72]: Commencement: S. 25 in force at 27.2.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/a/iii)
+
+[^key-ea68f1d5c3e840991e8f648faf54550f]: Textual amendment: Words in s. 25 heading inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 14 para. 53](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/53); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(d)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/d)

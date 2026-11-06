@@ -1,0 +1,1085 @@
+---
+title: The Child Benefit (General) Regulations 2006
+id: uksi/2006/223
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-02-02'
+text_date: '2025-09-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2006/223
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/223/pdfs/uksiem_20060223_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/223/pdfs/uksi_20060223_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/223/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Benefit (General) Regulations 2006
+
+> Text as at 2025-09-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2006 No. 223
+
+SOCIAL SECURITY
+
+The Child Benefit (General) Regulations 2006
+
+Made
+
+2nd February 2006
+
+Laid before Parliament
+
+3rd February 2006
+
+Coming into force
+
+10th April 2006
+
+The Treasury, in exercise of the powers conferred by sections 142(2) [^c15418481] 143(3)(c), (4) and (5),
+
+144(1), 145A(1) [^c15418491], 146(3) [^c15418501], 147(1) [^c15418511], (2) and (4) to (6), 175(3) to (5) of, and paragraphs 1, 2(2) and 3 of Schedule 9 to, the Social Security Contributions and Benefits Act 1992 [^c15418521], sections 138(2) [^c15418531], 139(4), and (5), 140(1), 141(1), 141A(1) [^c15418541], 142(3) [^c15418551], 143(1) [^c15418561], (2), (4), (5) and (6) and 171(3), (4) and (5) of, and paragraphs 1, 2(2) and 3 of Schedule 9 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c15418571] and section 133(1) of the Finance Act 1999 [^c15418581] and the Commissioners for Her Majesty's Revenue and Customs in exercise of the powers conferred by section 175(5) of, and paragraphs 5 and 6(1) of Schedule 10 to the Social Security Contributions and Benefits Act 1992 [^c15418591] section 13(1C) [^c15418601] of the Social Security Administration Act 1992 [^c15418611], section 171(5) of, and paragraphs 5 and 6(1) of Schedule 10 to the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c15418621], section 11(1C) [^c15418631] of the Social Security Administration (Northern Ireland) Act 1992 [^c15418641], and section 133(1) of the Finance Act 1999, and, in each case, now exercisable by them, make the following Regulations:
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Child Benefit (General) Regulations 2006 and shall come into force on 10th April 2006 immediately after the Child Benefit Act 2005.
+
+(2) In these Regulations—
+
+- “**the 1989 Act**” means the Children Act 1989[^c15418651];
+- “**the 1995 Act**” means the Children (Scotland) Act 1995[^c15418661];
+- “**the 1995 Order**” means the Children (Northern Ireland) Order 1995[^c15418671];
+- “**SSCBA**” means the Social Security Contributions and Benefits Act 1992;
+- “**SSCB(NI)A**” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
+
+(3) In these Regulations—
+
+- “**advanced education**” means full-time education for the purposes of—
+  - (a) a course in preparation for a degree, a diploma of higher education, a higher national certificate,[^key-75d330ecc347574a9fa7e6a204221e7a] a higher national diploma, or a teaching qualification; or
+  - (b) any other course which is of a standard above ordinary national diploma, a national diploma or national certificate of Edexcel, a general certificate of education (advanced level), or Scottish national qualifications at higher or advanced higher level;
+- “an appropriate office” means—[^key-6cd269618241a801e6389ea652f7ecbc]
+  - (a) Waterview Park, Washington, Tyne and Wear; or
+  - (b) any other office specified in writing by the Commissioners.
+- “**approved training**” means arrangements made by the Government—
+  - (a) [^key-7dfe36081b72695c80f508d4433c6698]...
+  - (b) in relation to Wales, known as [^key-a25c991ae11f46687b072e5721b2b3e6]... “Traineeships” or “Foundation Apprenticeships”[^key-7bbf4eda6e8c53e04a2f7b1087063de2] or “Jobs Growth Wales+”[^key-6cfc3173c78cb02190cee6f5c9776147];
+  - (c) in relation to Scotland, known as[^key-3e915943e17fdb8dc2678a4079fe64db] [^key-e849630963253fec27c1ec0bd1135409]... “No One Left Behind”; or
+  - (d) in relation to Northern Ireland, known as[^key-66cb2a987736966196a6ee216aa0b8c7] “PEACEPLUS Youth Programme 3.2”[^key-992fe94a78536060fb7985eb13c1bef7] , “Training for Success” or “Skills for Life and Work[^key-c61fa437d43f9b7423e78bbc15227067]
+- “**arrangements made by the Government**” means arrangements—
+  - (a) in relation to England and Wales, made by the Secretary of State under section 2 of the Employment and Training Act 1973[^c15418681];
+  - (b) in relation to Scotland, made—
+    - (i) by the Scottish Ministers under section 2 of the Employment and Training Act 1973[^c15418691];
+    - (ii) by Scottish Enterprise or Highlands and Islands Enterprise under section 2 of the Enterprise and New Towns (Scotland) Act 1990[^c15418701]; or
+  - (c) in relation to Northern Ireland, made by the Department for Communities or the Department for the Economy[^key-25df0a9780c4da610f802357ff619342] under sections 1 and 3[^key-e1ce7074ef407ba0ed49ac828122ea95] of the Employment and Training Act (Northern Ireland) 1950[^c15418711];
+- “**the Careers Service**” means—
+  - (a) in England and Wales, a person with whom the Secretary of State or the National Assembly of Wales has made arrangements under section 10(1) of the Employment and Training Act 1973, and a local authority[^key-3f1834b98051a8e00356a597764adab2] to whom the Secretary of State or the National Assembly of Wales has given a direction under section 10(2) of that Act;
+  - (b) in Scotland, a person with whom the Scottish Ministers have made arrangements under section 10(1) of the Employment and Training Act 1973 and any education authority to which a direction has been given by the Scottish Ministers under section 10(2) of that Act; [^key-7f5110a174ead0aaad82bb9b7138802a]...
+  - (c) [^key-49a599ce49c3203947b813de55b07dd5]...
+- “**child benefit**” has the meaning given in section 141 of SSCBA and section 137 of SSCB(NI)A (child benefit);
+- “**civil partnership**” means two people [^key-f5f88fa4d6d6c69d794e024f048026ac]... who are civil partners of each other and are neither—
+  - (a) separated under a court order; nor
+  - (b) separated in circumstances where the separation is likely to be permanent;
+- [^key-888ab45735e5ae2446ccc60b4807d72a]...
+- “**the Commissioners**” means the Commissioners for Her Majesty's Revenue and Customs (see section 1 of the Commissioners for Revenue and Customs Act 2005);
+- “**the Connexions Service**” means a person of any description with whom the Secretary of State has made an arrangement under section 114(2)(a) of the Learning and Skills Act 2000 and section 10(1) of the Employment and Training Act 1973, and any person to whom he has given a direction under section 114(2)(b) of the former, or section 10(2) of the latter, Act[^c15418721];
+- “**couple**” means two people—
+  - (a) who are spouses residing together, or civil partners in a civil partnership; or[^key-a17ddc037c2f55fb438a3abb92ed3b69]
+  - (b) who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners;
+- “**court**” means any court in the United Kingdom, the Channel Islands or the Isle of Man;
+- “**Crown servant posted overseas**” has the meaning given in regulation 30(2);
+- “**EEA State**” means—
+  - (a) a member State, other than the United Kingdom, or
+  - (b) Norway, Iceland or Liechtenstein;
+- “EU Agreement” means—[^key-c82ba9eb4b80a36097960d35c000fa98]
+  - (a) an Association Agreement concluded under Article 217 of the Treaty on the Functioning of the European Union which makes provision in the field of social security for equal treatment for workers who are nationals of the State with which the agreement has been concluded, or
+  - (b) a Stabilisation and Association Agreement concluded under Article 217 of the Treaty on the Functioning of the European Union which makes provision for receipt of family allowances for members of a worker’s family who are legally resident in the United Kingdom;
+- “full-time education” [^key-60fe648642694fbf8055dd306cc365ea]...—
+  - (a) is education undertaken in pursuit of a course, where the time spent during term time in receiving tuition, engaging in practical work, or supervised study, or taking examinations—[^key-7630a446be328ec470c3c728c653633b]
+    - (i) on average exceeds 12 hours per week, or
+    - (ii) in the case of a person who suffers from an illness or physical or mental disability, is any amount of hours appropriate for that person’s individual circumstances, and
+  - (b) in calculating the time spent in pursuit of the course, no account shall be taken of time occupied by meal breaks or spent on unsupervised study.
+
+- “**hospital or similar institution**” means a place in which persons suffering from mental disorders are or may be received for care or treatment but does not include a prison, a young offenders institution, Secure Training Centre, Local Authority Secure Unit, Juvenile Justice Centre, Young Offenders Centre or, if outside the United Kingdom, any comparable place;
+- “**mental disorder**” shall be construed as including references to any mental disorder within the meaning of the Mental Health Acts;
+- “**the Mental Health Acts**” means the Mental Health Act 1983[^c15418731], the Mental Health (Care and Treatment) (Scotland) Act 2003[^c15418741] or the Mental Health (Northern Ireland) Order 1986[^c15418751];
+- “**partner**” means, in relation to a person who is a member of a couple, the other member of that couple;
+- “**penalty**” means, in the case of any court in Great Britain or Northern Ireland—
+  - (a) in England and Wales, a sentence of a detention and training order under section 100 of the Powers of Criminal Courts (Sentencing) Act 2000[^c15418761] or Chapter 2 of Part 10 of the Sentencing Code[^key-b01ffd7f72c430f44bcb6539687c295f] or detention in a young offenders institution, and a sentence of detention under sections 90, 91, 92 and 93 of the Powers of Criminal Courts (Sentencing) Act 2000 or sections 250,[^key-69e204068dbc04a1a7da91a410dbd614] 252A,[^key-157d985b5f8dab15a6b5084eb0eb4bfb] 259 and 260 of the Sentencing Code;
+  - (b) in Scotland, a sentence of detention under sections 44, 205, 207, 208 or 216(7) of the Criminal Procedure (Scotland) Act 1995[^c15418771];
+  - (c) in Northern Ireland, a sentence of imprisonment, or detention under Article 39, 41, 45 or 54 of, or paragraph 6 of Schedule 2 to, the Criminal Justice (Children) (Northern Ireland) Order 1998[^c15418781], or an order for detention in a juvenile justice centre or young offenders centre,
+
+  and in the case of any court outside the United Kingdom, any comparable sentence or order;
+- “**relevant education**” means education which is—
+  - (a) full-time; and
+  - (b) not advanced education;
+- “relevant person of Northern Ireland” means a person who—[^key-a6404726adaa23ee606f705a7108f847]
+  - (a) is—
+    - (i) a British citizen; or
+    - (ii) an Irish citizen; or
+    - (iii) a British citizen and an Irish citizen; and
+  - (b) was born in Northern Ireland and, at the time of that person’s birth, at least one of their parents was—
+    - (i) a British citizen; or
+    - (ii) an Irish citizen; or
+    - (iii) a British citizen and an Irish citizen; or
+    - (iv) otherwise entitled to reside in Northern Ireland without any restriction on their period of residence;
+- “**remunerative work**” means work of not less than 24 hours a week—
+  - (a) in respect of which payment is made; or
+  - (b) which is done in expectation of payment;
+- “section 67 leave” means leave to remain in the United Kingdom granted by the Secretary of State to a person who has been relocated to the United Kingdom pursuant to arrangements made by the Secretary of State under section 67 of the Immigration Act 2016.[^key-f471c189a3bf4b867258d51b6f7f9e84]
+- “**the Taxes Act**” means the Income and Corporation Taxes Act 1988[^c15418791];
+- “**writing**” includes writing produced by electronic communications used in accordance with regulation 39.
+
+(3A)[^key-ce528ca871dc9162f7e6a00a57cb88b9] In these Regulations references to the Immigration (European Economic Area) Regulations 2016 are to be read with Schedule 4 to the Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020(Consequential, Saving, Transitional and Transitory Provisions) Regulations 2020.
+
+(4)[^key-e78490a7ac621202f5b323a72ae99836] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 2 — Qualifying young persons: prescribed conditions
+
+### 2. Introduction
+
+(1) Regulations 3 to 7 prescribe—
+
+- (a) the age which a person must not have attained, and
+- (b) the conditions which are to be satisfied,
+
+for a person to be a qualifying young person.
+
+(2) Where more than one of those regulations apply to a person, he is a qualifying young person until the last of them ceases to be satisfied.
+
+(3) Regulations 3 to 7 are subject to the following qualifications.
+
+(4) Regulation 8 prescribes an additional condition which must be satisfied for a person to be a qualifying young person in respect of a week.
+
+(5) No-one who had attained the age of 19 before 10<sup>th</sup> April 2006 is a qualifying young person.
+
+### 3. Education and training condition
+
+(1) This regulation applies in the case of a person who has not attained the age of 20.
+
+(2) The condition is that the person—
+
+- (a) is undertaking a course of full-time education, which is not advanced education and which is not provided by virtue of his employment or any office held by him—
+  - (i)[^key-0fa6d3042400b83eb2b08f53b9cb358e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^key-0fa6d3042400b83eb2b08f53b9cb358e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ab)[^key-22f2c34d4fe9fc0972e53d2de3e5940f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) having undertaken such a course as is mentioned in paragraph (a)[^key-29f69b28e16e0f2bf8bf37b9d3493b99] [^key-8e3d5732728e3b9f2c25c701e47cc9d2]... has been accepted or is enrolled to undertake a further such course;[^key-f0dc07e1f18edda9bd001ab0d9b217e5]
+- (c) is undertaking approved training that is not provided by means of a contract of employment; or[^key-7b1fdfbf7a114669c2423e4917a78a7b]
+- (d) having undertaken a course mentioned in paragraph (a) or approved training mentioned in paragraph (c), has been accepted or is enrolled to undertake such approved training.
+
+(3)[^key-c30dd45ea03d83e19a03ef6a5c61db9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) A person who is aged 19 is only a qualifying young person by virtue of paragraph (2)(a)[^key-371056e70f8e4ebe641d011b0388a6db][^key-d8818a43e0b77c8657e4d320d882b878]... or (2)(c) if he began the education or training (as the case may be) referred to in that sub-paragraph, or was accepted or enrolled to undertake that education or training,[^key-83d5f3ec447cbf8395b6b88e807c66b5] before attaining that age.
+
+(5)[^key-101107a3b6f67ed3df95529390b4e745] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Continuation of entitlement until 31<sup>st</sup> August: 16 year olds
+
+(1) This regulation applies in the case of a person who has not attained the age of 17 and who has left relevant education or training.
+
+(2) Subject to paragraph (3),[^key-b79d954c608ff0e6f065bc72fd61d230] the condition is that the 31<sup>st</sup> August next following the person's 16<sup>th</sup> birthday has not passed.
+
+(3)[^key-0332282aaf05a8483e338664c50b1404] In the case of a person who attains the age of 16 on 31 August in any year, the condition is that the 1st September immediately following has not passed.
+
+### 5. Extension period: 16 and 17 year olds
+
+(1) This regulation applies in the case of a person who has not attained the age of 18.
+
+(2) The condition is that—
+
+- (a) the person has ceased to be in education or training;
+- (b) the person is registered for work, education or for training with a qualifying body;
+- (c) the person is not engaged in remunerative work;
+- (d) the extension period which applies in the case of that person has not expired;
+- (e) immediately before the extension period begins, the person who is responsible for him is entitled to child benefit in respect of him without regard to this regulation; and
+- (f)[^key-4f06e2ecbb69d348fb01b720eb010c94] the individual who is responsible for that person, within three months of that person’s ceasing education or training, has made a request for the payment of child benefit during the extension period to the Commissioners, in writing, or by such other means as the Commissioners may accept.
+
+(3) For the purposes of paragraph (2) the extension period—
+
+- (a) begins on the first day of the week after that in which the person ceased to be in education or training; and
+- (b) ends 20 weeks after it started.
+
+(4) In this regulation “**qualifying body**” means—
+
+- (a) the Careers Service or Connexions Service;
+- (b) the Ministry of Defence;
+- (c) in Northern Ireland, the Department for Communities, the Department for the Economy or the Education Authority;[^key-78749543cb846350ea8420e5601f9733] or
+- (d) for the purposes of applying Council Regulation [(EEC) No. 1408/71](https://www.legislation.gov.uk/eur/1971/1408) or Regulation[^key-dc329ab928a308eca2c34f7e5803c32e] [(EC) No 883/2004](https://www.legislation.gov.uk/eur/2004/0883) of the European Parliament and of the Council, any corresponding body in another member State.
+
+### 6. Interruptions
+
+(1) This regulation applies in the case of a person who has not attained the age of 20.
+
+(2) If, immediately before the commencement of an interruption specified in paragraph (3)(a) or (b), a person was a qualifying young person by virtue of any other provision of these Regulations, he is such a person throughout a period of interruption during which he satisfies the condition specified in that sub-paragraph.
+
+(3) The periods of interruption are—
+
+- (a) one of up to six months (whether beginning before or after the person concerned became 16) but only to the extent to which, in the opinion of the Commissioners, that the interruption is reasonable; and
+- (b) one attributable to the illness or disability of mind or body of the person concerned for such period as is reasonable in the opinion of the Commissioners.
+
+This is subject to the following qualification.
+
+(4) Paragraph (3) does not apply to an interruption which is, or is likely to be, followed immediately by a period during which—
+
+- (a) provision is made for training of that person which is not approved training;
+- (b) he is receiving advanced education;
+- (c) he is receiving education by virtue of his employment or of any office held by him.
+
+### 7. Qualifying young person: terminal dates
+
+(1) This regulation applies in the case of a person who has not attained the age of 20.
+
+(2)[^key-5b33d511f758d20f4750eab7fd14f79b] The condition is that the period found in accordance with Cases 1 and 2 has not expired in that person’s case
+
+*Case 1*
+
+ 
+
+- 1.1 The period is from the date on which he ceases to receive relevant education or approved training, up to and including—
+  - (a) the week including the terminal date, or
+  - (b) if he attains the age of 20 on or before that date, the week including the last Monday before he attains that age.
+- 1.2 For the purposes of this Case the “**terminal date**” means—
+  - (a) the last day in February,
+  - (b) the last day in May,
+  - (c) the last day in August,
+  - (d) the last day in November,
+
+  whichever first occurs after the date on which the person's relevant education or approved training ceased (but subject to paragraph 1.3 of this Case).
+- 1.3 In the case of a person in Scotland who—
+  - (a) undertakes the Higher Certificate or Advanced Higher Certificate immediately before ceasing relevant education, and
+  - (b) ceases relevant education on a date earlier than he would have done had he undertaken the comparable examination in England and Wales,
+
+  the terminal date shall be reckoned by reference to the date on which the cessation would have occurred had he undertaken the comparable examination.
+
+*Case 2*
+
+ 
+
+- 2.1. Where a person's name is entered as a candidate for any external examination in connection with relevant education which he is receiving at that time, so long as his name continues to be so entered before ceasing to receive such education, the prescribed period is—
+  - (a) from the later of—
+    - (i) date when that person ceased to receive relevant education, or
+    - (ii) the date on which he attained the age of 16,
+  - (b) up to and including—
+    - (i) whichever of the dates in paragraph 1.2 (as modified by paragraph 1.3 where appropriate) first occurs after the conclusion of the examination (or the last of the examinations if the person is entered for more than one), or
+    - (ii) the expiry of the week which includes the last Monday before his 20th birthday,
+
+    whichever is the earlier.
+
+This paragraph is subject to the following qualification.
+
+*[^key-f011ffc5dcab129a1a655283d2ff01ed]...*
+
+(3) Child benefit is not payable in respect of a qualifying young person by virtue of this regulation for any week in which he is engaged in remunerative work.
+
+(4)[^key-f156f6a818bc444750369b2ee78de1ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Child benefit not payable in respect of qualifying young person: other financial support
+
+(1) This regulation applies in the case of a person who has not attained the age of 20 years.
+
+(2) The condition is that the person is not in receipt, in a week, of—
+
+- (a) income support,
+- (b) income-based jobseeker's allowance within the meaning of section 1(4) of the Jobseekers Act 1995 or Article 3(4) of the Jobseekers (Northern Ireland) Order 1995,
+- (c) incapacity benefit by virtue of being a person to whom section 30A(1)(b) of SSCBA [^c15418811] or section 30A(1)(b) of SSCB(NI)A [^c15418821] applies, [^key-152f5a367511f914a6b3034ca7e600b2]...
+- (d) tax credit under the Tax Credits Act 2002, [^key-252001553f52e9fcc2709eef587adfc6]...
+- (e)[^key-24a93454071bd76523481cead2f5c158] employment and support allowance payable under Part 1 of the Welfare Reform Act 2007 or Part 1 of the Welfare Reform Act (Northern Ireland) 2007[^M_F_46b69cfb-4a3e-48cd-a388-1bfd326b8bda] ;or[^key-0d3ba55c4b8bb30fb594eb6e3cd3c636]
+- (f) universal credit under Part 1 of the Welfare Reform Act 2012 or Part 2 of the Welfare Reform (Northern Ireland) Order 2015[^key-fc0260451aba6866bf202336fe7356ee].
+
+## PART 3 — Person responsible for child or qualifying young person
+
+### 9. Child or qualifying young person in residential accommodation in prescribed circumstances
+
+For the purposes of section 143(3)(c) of SSCBA and section 139(3)(c) of SSCB(NI)A (absence of child or qualifying young person in residential accommodation), the prescribed circumstances are that the residential accommodation has been provided solely—
+
+- (a) because of the disability of the child or qualifying young person, or
+- (b) because the child or qualifying young person's health would be likely to be significantly impaired, or further impaired, unless such accommodation were provided.
+
+### 10. Days disregarded in determining whether child or qualifying young person living with someone
+
+(1) For the purpose of section 143(4) of SSCBA and section 139(4) of SSCB(NI)A (number of days that may be disregarded), the prescribed number of days is 84 consecutive days, calculated in accordance with paragraph (2).
+
+(2) Two or more distinct relevant periods separated by one or more intervals each not exceeding 28 days are treated as a continuous period equal in duration to the total of such distinct periods and ending on the last day of the latter or last of such periods.
+
+(3) In paragraph (2) “**relevant periods**” means periods to which—
+
+- (a) section 143(3)(b) of SSCBA or section 139(3)(b) of SSCB(NI)A (absence of a child or qualifying young person undergoing medical or other treatment) applies;
+- (b) section 143(3)(c) of SSCBA or section 139(3)(c) of SSCB(NI)A (absence of a child or qualifying young person in residential accommodation) applies.
+
+### 11. Prescribed circumstances relating to contributions and expenditure in respect of child or qualifying young person
+
+(1) For the purposes of section 143(5)(a) of SSCBA and section 139(5)(a) of SSCB(NI)A (contributing to the cost of providing for a child or qualifying young person) the prescribed circumstances are that—
+
+- (a) two or more persons are contributing to the cost of providing for the same child or qualifying young person;
+- (b) the aggregate weekly amount of their contributions equals or exceeds, but the weekly amount of each of their individual contributions is less than, the weekly rate of child benefit which would be payable in respect of that child or qualifying young person had the aggregate weekly amount of their contributions been contributed by one only of them; and
+- (c) they by agreement nominate in writing or, in default of such agreement, the Commissioners in their discretion determine, that the aggregate weekly amount of their contributions is to be treated as having been made by the person so nominated or determined.
+
+This paragraph is subject to paragraph (3).
+
+(2) The contribution subject to the nomination or determination made under paragraph (1) shall be treated as made by the person nominated or determined.
+
+(3) Where pursuant to a nomination or determination made under paragraph (1) a person is awarded child benefit, the nomination or determination ceases to have effect in the week following that in which child benefit is awarded to that person (and accordingly thereafter the person shall be required to contribute to the maintenance of the child or qualifying young person at a rate which equals or exceeds the rate of child benefit payable in respect of that child or qualifying young person).
+
+(4) Where spouses or civil partners are residing together a contribution made or expenditure incurred by one of them in respect of a child or qualifying young person shall if they agree, or in default of such agreement if the Commissioners in their discretion so determine, be treated as made or incurred by the other.
+
+## PART 4 — Exclusions and priority
+
+### 12. Child benefit not payable: qualifying young person living with another as member of couple
+
+(1) Child benefit is not payable to any person (“**the claimant**”) in respect of a qualifying young person for any week in which the qualifying young person is living with another as if they were a married couple or civil partners,[^key-5ebca733821b0610f8b388340ed50260] unless paragraph (2) applies.
+
+The person with whom the qualifying young person is living is referred to in paragraph (2) as “the cohabitee”.
+
+(2) This paragraph applies if—
+
+- (a) the cohabitee is receiving relevant education or approved training; and
+- (b) the claimant is not the cohabitee.
+
+### 13. Qualifying young person in a relevant relationship
+
+(1) A person (“**the claimant**”) shall be entitled to child benefit in respect of a qualifying young person in a relevant relationship by virtue of paragraph 3 of Schedule 9 to SSCBA [^c15418831] or paragraph 3 of Schedule 9 to SSCB(NI)A (entitlement: children or qualifying young persons who are married or civil partners) only if—
+
+- (a) the claimant is not the spouse or civil partner of that qualifying young person; and
+- (b) the qualifying young person is not residing with his spouse or civil partner, or, if he is, the spouse or civil partner is receiving relevant education or approved training.
+
+(2) In paragraph (1) “**relevant relationship**” means a marriage or a civil partnership.
+
+### 14. Election under Schedule 10 to SSCBA and Schedule 10 to SSCB(NI)A
+
+(1) An election under Schedule 10 to SSCBA and Schedule 10 to SSCB(NI)A (any election under that Schedule to be made in the prescribed manner) shall be made by giving notice in writing to the Commissioners at an appropriate office on a form approved by the Commissioners or by telephone to an officer of Revenue and Customs at an appropriate office[^key-e50ebf8bbadeb251d795795683d0378d] or in such other manner being in writing as the Commissioners may accept as sufficient in the circumstances of any particular case or class of cases.
+
+(2) An election is not effective to confer entitlement to child benefit in respect of a child or qualifying young person for any week earlier than the week following that in which it is made if the earlier week is one in respect of which child benefit has been paid in respect of that child or qualifying young person and has not been required to be repaid or voluntarily repaid or recovered.
+
+(3) An election may be superseded by a subsequent election made in accordance with this regulation.
+
+### 15. Modification of priority between persons entitled to child benefit
+
+(1) If a person entitled to child benefit in respect of a child or qualifying young person in priority to another person gives the Commissioners notice in writing at an appropriate office or gives an officer of Revenue and Customs notice by telephone at such an office[^key-d3d849c069b59223f333c2ae186ba7e2] that he does not wish to have such priority, the provisions of Schedule 10 to SSCBA and Schedule 10 to SSCB(NI)A (priority between persons entitled) have effect with the modification that that person does not have such priority.
+
+(2) A notice under paragraph (1)—
+
+- (a) is not effective in relation to any week, before the date on which the election becomes effective, for which child benefit in respect of that child or qualifying young person is paid to the person who made the election or to another person on his behalf; and
+- (b) ceases to have effect if the person who gave it makes a further claim to child benefit in respect of that child or qualifying young person.
+
+### 16. Child or qualifying young persons in detention, care etc.
+
+(1) Paragraph 1 of Schedule 9 to SSCBA and paragraph 1 of Schedule 9 to SSCB(NI)A do not apply to disentitle a person to child benefit in respect of a child or qualifying young person for any week—
+
+- (a) unless that week is the 9th or a subsequent week in a series of consecutive weeks in which either of those paragraphs has applied to that child or qualifying young person; or
+- (b) notwithstanding paragraph (a), if—
+  - (i) that week is one in which falls the first day in a period of seven consecutive days in which the child or qualifying young person lives with that person for at least a part of the first day and throughout the following six days;
+  - (ii) that week is one in which falls the first day in a period of seven consecutive days throughout which the child or qualifying young person lives with that person, being a period of seven consecutive days which immediately follows either a similar period of seven consecutive days or the period of seven consecutive days referred to in head (i) above;
+  - (iii) that week is one in which falls the day, or the first day in a period of less than seven consecutive days, throughout which the child or qualifying young person lives with that person, being a day or days which immediately follow the period of seven consecutive days referred to in head (i) above or a period of seven consecutive days referred to in head (ii), or
+  - (iv) as at that week that person establishes that he is a person with whom the child or qualifying young person ordinarily lives throughout at least one day in each week.
+
+This paragraph is subject to the following qualifications.
+
+(2) For the purposes of paragraph (1), a person shall not be regarded as having a child or qualifying young person living with him throughout any day or week unless he actually has that child or qualifying young person living with him throughout that day or week.
+
+(3) Paragraph (1) does not apply for any day in any week to a person (“the carer”) with whom a child or qualifying young person—
+
+- (a)[^key-047db43c8a24acd5842bc76e48853e4d] is placed by a local authority in Great Britain in the carer’s home in accordance with the provisions of—
+  - (i) the Placement of Children (Wales) Regulations 2007,
+  - (ii) the Review of Children’s Cases (Wales) Regulations 2007,
+  - (iii) the Care Planning, Placement and Case Review (England) Regulations 2010,
+  - (iv) the Looked After Children (Scotland) Regulations 2009,
+  - (v) the Fostering Services (England) Regulations 2011,[^key-5313f69fc00cd8cf94a102169b77a2a6]...
+  - (vi) the Fostering Services (Wales) Regulations 2003, or[^key-b3ec6e105c96e6401197282dca4eefab]
+  - (vii)[^key-dbd915fb24c52ae80bd51577e6c1142f] Parts 4 and 6 of the Social Services and Well-being (Wales) Act 2014 and any regulations made under those parts,
+
+  and that authority is making a payment, in respect of either the child or qualifying young person’s accommodation or maintenance or both, under section 22C(10) [^key-88213d85b5ea39209e28b9317d20edbc]... of the 1989 Act or under regulation 33 of the Looked After Children (Scotland) Regulations 2009 or under section 81(13) of the Social Services and Well-being (Wales) Act 2014[^key-c5c14f29b899a758cc395f3077eb47e5];
+- (b) is placed by an authority in Northern Ireland, in the carer's home in accordance with the provisions of the Foster Placement (Children) Regulations (Northern Ireland) 1996 [^c15418881] where the authority has a duty to provide accommodation and maintenance for the child under the Arrangements for Placement of Children (General) Regulations (Northern Ireland) 1996 [^c15418891].
+
+(4) Paragraph (1) does not apply in respect of any child or qualifying young person who—
+
+- (a) is being looked after by a local authority in Great Britain or by an authority in Northern Ireland, and
+- (b) has been placed for adoption by that authority in the home of a person proposing to adopt him,
+
+provided that the local authority or authority is making a payment in respect of either the child or qualifying young person's accommodation or maintenance or both, under section 22C(10)[^key-d4e90380add6ca1e075ab5224a0dfd23] [^key-d334ecf0a4aab704f7971b156d0809d3]... of the 1989 Act, under regulation 33 of the Looked After Children (Scotland) Regulations 2009,[^key-03e6147bb107112194746c2edecae60d] under Article 27 of the 1995 Order or under section 81(13) of the Social Services and Well-being (Wales) Act 2014[^key-66ab193c5b11ef255a1258b3dba491e0].
+
+(5) For the purposes of paragraph (4), placing for adoption means placing for adoption in accordance with—
+
+- (a)[^key-237e07e3f4f1325b861b4466573083ea] the Adoption Agencies Regulations 2005,
+- (aa) the Adoption Agencies (Wales) Regulations 2005,
+- (b)[^key-3a687491143c051fea4904e391541667] the Adoption Agencies (Scotland) Regulations 2009, or
+- (c) the Adoption Agencies Regulations (Northern Ireland) 1989 [^c15418921].
+
+### 17. Child or qualifying young person undergoing imprisonment or detention in legal custody
+
+(1) For the purposes of paragraph 1(a) of Schedule 9 to SSCBA and paragraph 1(1)(a) of Schedule 9 to SSCB(NI)A, a child or qualifying young person is not regarded as undergoing imprisonment or detention in legal custody in any week unless—
+
+- (a) in connection with a charge brought or intended to be brought against him in criminal proceedings at the conclusion of those proceedings, or
+- (b) in the case of default of payment of a sum adjudged to be paid on conviction, in respect of such default,
+
+a court imposes a penalty upon him.
+
+(2) Subject to paragraph (3), paragraph 1(a) of Schedule 9 to SSCBA and paragraph 1(1)(a) of Schedule 9 to SSCB(NI)A do not apply to a child or qualifying young person in respect of any week in which that child or qualifying young person is liable to be detained in a hospital or similar institution in Great Britain or Northern Ireland as a person suffering from a mental disorder.
+
+(3) Subject to paragraph (5), paragraph (2) does not apply where subsequent to the imposition of a penalty, the child or qualifying young person was removed to the hospital or similar institution while still liable to be detained as a result of that penalty and, in the case of a person who is liable to be detained in the hospital or similar institution by virtue of any provisions of the Mental Health Acts, a direction restricting his discharge has been given under any of those Acts and is still in force.
+
+(4) In paragraph (3) a person who is liable to be detained by virtue of any provision of the Mental Health Acts shall be treated as if a direction restricting his discharge had been given under those Acts if he is to be so treated for the purposes of any of them.
+
+(5) Where a certificate given by or on behalf of the Secretary of State shows the earliest date on which the child or qualifying young person would have been expected to be discharged from detention pursuant to the penalty if he had not been transferred to a hospital or similar institution, paragraph (3) shall not apply from the day following that date.
+
+### 18. Child or qualifying young person in care
+
+For the purposes of paragraph 1(c) of Schedule 9 to SSCBA and paragraph 1(c) of Schedule 9 to SSCB(NI)A (child or qualifying young person in care in such circumstances as may be prescribed), the prescribed circumstances are that—
+
+- (a) the child or qualifying young person is provided with, or placed in, accommodation under Part 3 of the 1989 Act, under Part 4 or 6 of the Social Services and Well-being (Wales) Act 2014,[^key-dd7ee62a58282d905a9a6da38364a979] under Part 2 of the 1995 Act, by virtue of a requirement in a child assessment order within the meaning of section 35 of the Children’s Hearings (Scotland) Act 2011, a child protection order within the meaning of section 37 of that Act, a compulsory supervision order within the meaning of section 83 of that Act or an interim compulsory supervision order within the meaning of section 86 of that Act,[^key-cc817c2e04b55be5a8e4dd15622110f4] or under Part 4 of the 1995 Order and the cost of that child or qualifying young person's accommodation or maintenance is borne wholly or partly out of local authority funds, authority funds or any other public funds, and
+- (b) the child or qualifying young person is not in residential accommodation in the circumstances prescribed in regulation 9.
+
+### 19. Interpretation of facts existing in a week
+
+Where paragraph 1 of Schedule 9 to SSCBA or paragraph 1 of Schedule 9 to SSCB(NI)A applies, section 147(2) of SSCBA and section 143(2) of SSCB(NI)A (references to any condition being satisfied or any facts existing in a week to be construed as references to the condition being satisfied or the facts existing at the beginning of that week) has effect as if the words “at the beginning of that week” were substituted by “ throughout any day in that week ”.
+
+## PART 5 — Entitlement after death of child or qualifying young person
+
+### 20. Entitlement after death of child or qualifying young person
+
+The prescribed period for the purposes of section 145A of SSCBA [^c15418931] and section 141A of SSCB(NI)A [^c15418941] (entitlement after death of child or qualifying young person) is—
+
+- (a) in the case of a child, eight weeks, and
+- (b) in the case of a qualifying young person the shorter of—
+  - (i) the period of eight weeks; and
+  - (ii) the period commencing the week in which his death occurred and finishing on the Monday in the week following the week in which the qualifying young person would have attained the age of 20.
+
+## PART 6 — Residence
+
+### 21. Circumstances in which a child or qualifying young person treated as being in Great Britain
+
+(1) For the purposes of section 146(1) of SSCBA, a child or qualifying young person who is temporarily absent from Great Britain shall be treated as being in Great Britain during—
+
+- (a) the first 12 weeks of any period of absence;
+- (b) any period during which that person is absent by reason only of—
+  - (i) his receiving full-time education by attendance at a school or college[^key-fc566991a537fce083c4301eb9103c62] in an EEA State or in Switzerland; or
+  - (ii) his being engaged in an educational exchange or visit made with the written approval of the school or college which he normally attends;
+- (c) any period as is determined by the Commissioners during which the child or qualifying young person is absent for the specific purpose of being treated for an illness or physical or mental disability which commenced before his absence began; or
+- (d) any period when he is in Northern Ireland.
+
+(2) For the purposes of section 146(1) of SSCBA, where a child is born while his mother is absent from Great Britain in accordance with regulation 24, he shall be treated as being in Great Britain during such period of absence after his birth as is within 12 weeks of the date on which his mother became absent from Great Britain.
+
+### 22. Application of regulation 24 where the person is in Northern Ireland
+
+If a person who is in Northern Ireland is treated as being in Great Britain in accordance with regulation 24, he is treated as not being in Northern Ireland for the purposes of section 142 [^c15418951] of SSCB(NI)A.
+
+### 23. Circumstances in which person treated as not being in Great Britain[^key-46e6188626acb2cac34ec07774d520a6]
+
+(1) A person shall be treated as not being in Great Britain for the purposes of section 146(2) [^c15418961] of SSCBA if he is not ordinarily resident in the United Kingdom.
+
+(2) Paragraph (1) does[^key-168c76864537c6884b3dee08d965c1e9] not apply to a Crown servant posted overseas or his partner.
+
+(3) A person who is in Great Britain as a result of his deportation, expulsion or other removal by compulsion of law from another country to Great Britain shall be treated as being ordinarily resident in the United Kingdom [^key-94b371ac4cd7a9db980ed17ed6211079]....
+
+(4) A person shall be treated as not being in Great Britain for the purposes of section 146(2) of SSCBA where he makes a claim for child benefit on or after 1st May 2004[^key-b392a4cbefb6b851eb5c16e3a66c96ac] and[^key-1976ea4879aa947339e16afd4bb6bb78]
+
+- (a) does not have a right to reside in the United Kingdom; [^key-e4b1b0a457cf175474912b17e662560e]...
+- (b)[^key-ae1196908f78fa4be628f1639684960e] has a right to reside by virtue of paragraph (1) of regulation 16 of the Immigration (European Economic Area) Regulations 2016, but only in a case where a right exists under that regulation because that person satisfies the criteria in paragraph (5) of that regulation; or[^key-c35b12b2025fbde34a4cb47e4f87320b]
+- (c) would fall within sub-paragraph (a) or (b) but for the fact that that person has limited leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 which has been granted by virtue of
+  - (i)[^key-640f7b033fc31cc94c08890c78be0e7b] Appendix EU to the immigration rules; or
+  - (ii) having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules.
+
+(4A)[^key-05f39a13ee7f9eb745e9d5b13afe5c75] Paragraph (4)(b) does not apply to a person who is lawfully working in Great Britain—
+
+- (a) who—
+  - (i) made a claim for child benefit before 1st January 2021, and
+  - (i) is a national of a State with which the European Union had, before 1st January 2021, concluded an agreement under Article 217 of the Treaty on the Functioning of the European Union providing in the field of social security for the equal treatment of workers who are nationals of the signatory State and their families; or
+- (b) who is a national of a State with which the United Kingdom has concluded an agreement which replaces, in whole or in part, an EU Agreement which has ceased to apply in the United Kingdom.
+
+(4B)[^key-127ffaf0a4bbce1c9e037edcc8ab9b9c] Paragraph (4)(c) (i)[^key-5129141ebdd25481ff46e365d273eb4a] does not apply to a person who—
+
+- (a) has limited leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 which has been granted by virtue of Appendix EU to the Immigration Rules;
+- (b) has been granted such leave in reliance of being a family member of a relevant person of Northern Ireland in accordance with those Rules; and
+- (c) would have a right to reside under the Immigration (European Economic Area) Regulations 2016 if the relevant person of Northern Ireland were an EEA national within the meaning of regulation 2 of those Regulations.
+
+(5)[^key-e740f87a4d25ec73fd9d64ab65dc7a07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-e740f87a4d25ec73fd9d64ab65dc7a07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-e740f87a4d25ec73fd9d64ab65dc7a07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Persons temporarily absent from Great Britain
+
+(1) A person who is ordinarily resident in the United Kingdom and is temporarily absent from Great Britain shall be treated as being in Great Britain during the first—
+
+- (a) 8 weeks of any period of absence; or
+- (b) 12 weeks of any period of absence where that period of absence, or any extension to that period of absence, is in connection with—
+  - (i) the treatment of his illness or physical or mental disability;
+  - (ii) the treatment of his partner's illness or physical or mental disability;
+  - (iii) the death of a person who, immediately prior to the date of death, was his partner;
+  - (iv) the death, or the treatment of the illness or physical or mental disability, of a child or qualifying young person for whom either he or his partner is, or both of them are, responsible; or
+  - (v) the death, or the treatment of the illness or physical or mental disability, of his or his partner's relative.
+
+Here “**relative**” means brother, sister, forebear or lineal descendant.
+
+(2) A person is temporarily absent from Great Britain if at the beginning of the period of absence his absence is unlikely to exceed 52 weeks.
+
+### 25. Circumstances in which a child or qualifying young person treated as being in Northern Ireland
+
+(1) For the purposes of section 142(1) of SSCB(NI)A a child or qualifying young person who is temporarily absent from Northern Ireland shall be treated as being in Northern Ireland during—
+
+- (a) the first 12 weeks of any period of absence;
+- (b) any period during which the child or qualifying young person is absent by reason only of—
+  - (i) his receiving full-time education by attendance at a school or college[^key-8bc45dc58e2e174cac19eca514918076] in an EEA State or in Switzerland; or
+  - (ii) his being engaged in an educational exchange or visit made with the written approval of the school or college which he normally attends;
+- (c) any period as is determined by the Commissioners during which the child or qualifying young person is absent for the specific purpose of being treated for an illness or physical or mental disability which commenced before his absence began; or
+- (d) any period when he is in Great Britain.
+
+(2) For the purposes of section 142(1) of SSCB(NI)A, where a child is born while his mother is absent from Northern Ireland in accordance with regulation 28, he shall be treated as being in Northern Ireland during such period of absence after his birth as is within 12 weeks of the date on which his mother became absent from Northern Ireland.
+
+### 26. Application of regulation 28 where person in Great Britain
+
+Where a person who is in Great Britain is treated as being in Northern Ireland in accordance with regulation 28, he is treated as not being in Great Britain for the purposes of section 146 of SSCBA.
+
+### 27. Circumstances in which person treated as not being in Northern Ireland[^key-aef0e59d99a41855abcc21dd1d7b0ad4]
+
+(1) A person shall be treated as not being in Northern Ireland for the purposes of section 142(2) of SSCB(NI)A if he is not ordinarily resident in the United Kingdom.
+
+(2) A person who is in Northern Ireland as a result of his deportation, expulsion or other removal by compulsion of law from another country to Northern Ireland shall be treated as being ordinarily resident in the United Kingdom [^key-4b3b6d2be11d52cc910741d9e2622abd]....
+
+(3) A person shall be treated as not being in Northern Ireland for the purposes of section 142(2) of SSCB(NI)A where he makes a claim for child benefit on or after 1st May 2004[^key-9bb24562e5cc4f3191daf2929b865ef4] and[^key-052fb00314180ff7986afef2bcbb2fb6]
+
+- (a) does not have a right to reside in the United Kingdom; [^key-7d998d2990b0d7723847b9491650874c]...
+- (b)[^key-f407151c01c47c5f23600fa22594a602] has a right to reside in the United Kingdom by virtue of paragraph (1) of regulation 16 of the Immigration (European Economic Area) Regulations 2016, but only in a case where a right exists under that regulation because that person satisfies the criteria in paragraph (5) of that regulation; or[^key-73659562331331488d32dbd641938b8e]
+- (c) would fall within sub-paragraph (a) or (b) but for the fact that that person has limited leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 which has been granted by virtue of
+- (i)[^key-4736ac365277cb818cbfa9c3a0229a2c] Appendix EU to the immigration rules; or
+- (ii) having arrived in the United Kingdom with an entry clearance that was granted under Appendix EU (Family Permit) to the immigration rules.
+
+(3A)[^key-d62da7166d02d7fc9b67641f9ff6a954] Paragraph (3)(b) does not apply to a person who is lawfully working in Northern Ireland—
+
+- (a) who—
+  - (i) made a claim for child benefit before 1st January 2021, and
+  - (ii) is a national of a State with which the European Union had, before 1st January 2021, concluded an agreement under Article 217 of the Treaty on the Functioning of the European Union providing in the field of social security for the equal treatment of workers who are nationals of the signatory state and their families; or
+- (b) who is a national of a State with which the United Kingdom has concluded an agreement which replaces, in whole or in part, an EU Agreement which has ceased to apply in the United Kingdom.
+
+(3B)[^key-b1993f4939e77519812564aa91bc2a55] Paragraph (3)(c)(i)[^key-1df44b3541b125922f02e57276f25ded] does not apply to a person who—
+
+- (a) has limited leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 which has been granted by virtue of Appendix EU to the Immigration Rules;
+- (b) has been granted such leave in reliance of being a family member of a relevant person of Northern Ireland in accordance with those Rules; and
+- (c) would have a right to reside under the Immigration (European Economic Area) Regulations 2016 if the relevant person of Northern Ireland were an EEA national within the meaning of regulation 2 of those Regulations.
+
+(4)[^key-f641b6ed091c52ef11e5e29e4f8a9da8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-f641b6ed091c52ef11e5e29e4f8a9da8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-f641b6ed091c52ef11e5e29e4f8a9da8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Persons temporarily absent from Northern Ireland
+
+(1) A person who is ordinarily resident in the United Kingdom and is temporarily absent from Northern Ireland shall be treated as being in Northern Ireland during the first—
+
+- (a) 8 weeks of any period of absence; or
+- (b) 12 weeks of any period of absence where that period of absence, or any extension to that period of absence, is in connection with—
+  - (i) the treatment of his illness or physical or mental disability;
+  - (ii) the treatment of his partner's illness or physical or mental disability;
+  - (iii) the death of a person who, immediately prior to the date of death, was his partner;
+  - (iv) the death, or the treatment of the illness or physical or mental disability, of a child for whom either he or his partner is, or both of them are, responsible; or
+  - (v) the death, or the treatment of the illness or physical or mental disability, of his or his partner's relative.
+
+Here “**relative**” has the same meaning as in regulation 24.
+
+(2) A person is temporarily absent from Northern Ireland if, at the beginning of the period of absence, his absence is unlikely to exceed 52 weeks.
+
+### 29. Overlap of entitlement to child benefit under both the legislation of Northern Ireland and Great Britain
+
+(1) Where by virtue of these Regulations two or more persons would be entitled to child benefit in respect of the same child or qualifying young person for the same week under both the legislation of Northern Ireland and Great Britain, one of them only shall be so entitled.
+
+(2) Where the child is in Great Britain (except where regulation 25(1)(d) applies) or is treated as being in Great Britain, the question of which of the persons is entitled shall be determined in accordance with the legislation applying to Great Britain.
+
+(3) Where the child is in Northern Ireland (except where regulation 21(1)(d) applies) or is treated as being in Northern Ireland, the question of which of the persons is entitled shall be determined in accordance with the legislation applying to Northern Ireland.
+
+### 30. Crown servants posted overseas
+
+(1) For the purposes of section 146(2)[^key-0d006ab46d07d498f18ecd291127ccaf] of the Social Security and Contributions and Benefits Act, a Crown servant posted overseas shall be treated as being in Great Britain.
+
+(2) A Crown servant posted overseas is a person performing overseas (but not in Northern Ireland) the duties of any office or employment under the Crown in right of the United Kingdom—
+
+- (a) who is, or was, immediately prior to his posting or his first of consecutive postings, ordinarily resident in the United Kingdom; or
+- (b) who, immediately prior to his posting or his first of consecutive postings, was in the United Kingdom in connection with that posting.
+
+### 31. Partners of Crown servants posted overseas
+
+(1) For the purposes of section 146(2)[^key-308d38cbe76332528d596de1d98b601c] of the Social Security and Contributions and Benefits Act the partner of a Crown servant posted overseas who is accompanying the Crown servant posted overseas shall be treated as being in Great Britain when the partner is either—
+
+- (a) in the country where the Crown servant is posted, or
+- (b) absent from that country in accordance with regulation 24 as modified by paragraphs (3) and (4).
+
+(2) Regulations 22 and 24 apply to the partner of a Crown servant posted overseas with the modifications set out in paragraphs (3) and (4).
+
+(3) References to “Great Britain” in the phrase “temporarily absent from Great Britain” in paragraphs (1) and (2) of regulation 24 shall be construed as references to the country where the Crown servant is posted and regulation 21(2) shall apply, where appropriate, accordingly.
+
+(4) In regulation 24 omit the words “ ordinarily resident in the United Kingdom and is ”.
+
+### 32. Child or qualifying young persons normally living with Crown servants posted overseas
+
+(1) For the purposes of section 146(1)[^key-c34fbdd924eff193614414b728530080] of the Social Security and Contributions and Benefits Act a child or qualifying young person who normally lives with a Crown servant posted overseas shall be treated as being in Great Britain when he is either—
+
+- (a) in the country where the Crown servant is posted, or
+- (b) absent from that country in accordance with regulation 21 as modified by paragraph (2).
+
+(2) The reference to “Great Britain” in paragraph (1) of that regulation shall be construed as a reference to the country where the Crown servant is posted.
+
+### 33. Transitional provisions for Part 6
+
+(1) In relation to a period of temporary absence which commenced before 7th April 2003, and continues after the coming into force of these Regulations, regulations 24 and 28 shall have effect subject to the modifications in paragraphs (2) and (3) respectively.
+
+(2) For regulation 24(2) substitute—
+
+> (2) A person is temporarily absent from Great Britain if at the beginning of the period of absence his absence was intended to be temporary and has throughout continued to be so intended.
+
+.
+
+(3) For regulation 28(2) substitute—
+
+> (2) A person is temporarily absent from Northern Ireland if at the beginning of the period of absence his absence was intended to be temporary and has throughout continued to be so intended.
+
+.
+
+## PART 7 — General and supplementary provisions
+
+### 34. Persons treated as residing together
+
+For the purposes of Part 9 of SSCBA and Part 9 of SSCB(NI)A, the prescribed circumstances in which persons are treated as residing together are that spouses, two persons who are civil partners of each other, or two persons who are parents of a child or qualifying young person[^key-2401e5f6590dfe64e00cceeb9ab66e9c] are absent from one another—
+
+- (a) where such absence is not likely to be permanent; or
+- (b) by reason only of the fact that either of them is, or they both are, undergoing medical or other treatment as an in-patient in a hospital or similar institution whether such absence is temporary or not.
+
+### 35. Polygamous marriages
+
+(1) For the purposes of Part 9 of SSCBA and Part 9 of SSCB(NI)A, a polygamous marriage is treated as having the same consequences as a monogamous marriage for any day, but only for any day, throughout which the polygamous marriage is in fact monogamous.
+
+(2) In paragraph (1)—
+
+- (a) “**monogamous marriage**” means a marriage celebrated under a law which does not permit polygamy;
+- (b) “**polygamous marriage**” means a marriage celebrated under a law which, as it applies to the particular ceremony and to the parties in question, permits polygamy;
+- (c) a polygamous marriage is referred to as being in fact monogamous when neither party to it has any spouse additional to the other; and
+- (d) the day on which a polygamous marriage is contracted, or on which it terminates for any reason, shall be treated as a day throughout which that marriage was in fact monogamous if at all times on that day after the time at which it was contracted, or as the case may be, before it terminated, it was in fact monogamous.
+
+### 36. Right to child benefit of voluntary organisations
+
+(1) Subject to paragraph (4) and (5), for the purposes of section 147(6) of SSCBA and section 143(6) of SSCB(NI)A (right to child benefit of voluntary organisations), a voluntary organisation is regarded as the only person with whom a child is living for any week in which that child is—
+
+- (a) living in premises which are provided or managed by the voluntary organisation, being premises which are required to be registered with a Government Department or local authority or which are otherwise regulated under or by virtue of any enactment relating to England and Wales, Scotland, or Northern Ireland; or
+- (b) placed by the voluntary organisation in the home of any person in accordance with the provisions of the Fostering Services (England) Regulations 2011, the Fostering Services (Wales) Regulations 2003, the Looked After Children (Scotland) Regulations 2009[^key-8dd13e3316dbbaba7c089b527db4a42b] or the Foster Placement (Children) Regulations (Northern Ireland) 1996 [^c15418991].
+
+(2) A voluntary organisation shall not be regarded as having ceased to have a child living with it by reason only of any temporary absence of that child—
+
+- (a) if the child is undergoing medical or other treatment as an in-patient in a hospital, until such absence has lasted for more than 84 days; or
+- (b) if the child is temporarily absent for any other reason, until such absence has lasted for more than 56 days.
+
+(3) In calculating the period of 84 days for the purposes of paragraph (2)(a), two or more distinct periods of temporary absence separated by one or more intervals each not exceeding 28 days shall be treated as a continuous period equal in duration to the total of such distinct periods and ending on the last day of the latter or last of such periods.
+
+(4) A voluntary organisation shall not be regarded as a person with whom a child or qualifying young person is living in any week if in that week—
+
+- (a) that individual is in residential accommodation in the circumstances prescribed in regulation 3; or
+- (b) paragraph 1 of Schedule 9 to SSCBA or paragraph 1 of Schedule 9 to SSCB(NI)A applies to that individual.
+
+(5) Where immediately before the week in which paragraph (1) applies to a child or qualifying young person, that individual was living with a person who was then entitled to child benefit in respect of him, paragraph (1) shall have effect in relation to that person as if the words “the only person” were omitted for so long as the child or qualifying young person is treated as continuing to live with that person by virtue of section 143(2) of SSCBA or section 139(2) of SSCB(NI)A.
+
+(6) Section 143(1)(b) of SSCBA and section 139(1)(b) of SSCB(NI)A (person to be treated as responsible for a child in any week if he is contributing to the cost of providing for the qualifying individual at a weekly rate not less than the weekly rate of child benefit payable in respect of the child or qualifying young person for that week) and regulation 16(1) (child or qualifying young person in detention) shall not apply to a voluntary organisation).
+
+### 37. No requirement to state national insurance number[^key-757dda53967fa1169c25debcb250f3d2]
+
+Section 13(1A) of the Social Security Administration Act 1992 and section 11(1A) of the Social Security Administration (Northern Ireland) Act 1992 (necessity of application for child benefit: requirement to state national insurance number) do not apply—
+
+- (a) for the purposes of section 147(6) of SSCBA and section 143(6) of SSCB(NI)A, to a claim for child benefit in respect of a child or qualifying young person who is regarded as living with a voluntary organisation by virtue of regulation 36;
+- (b) to a claim for child benefit where the person making the claim—
+  - (i) has not attained the age of 16 at the time of making the claim, and
+  - (ii) is the biological parent of the child who is the subject of that claim.
+
+### 38. Exception to rules preventing duplicate payment
+
+(1) A person is not disentitled to child benefit in respect of a child or qualifying young person by virtue of section 13(2) of the Social Security Administration Act 1992 and section 11(2) of the Social Security Administration (Northern Ireland) Act 1992 (persons not entitled to benefit for any week if benefit already paid for that week to another person, whether or not that other person was entitled to it) if in respect of that week—
+
+- (a) the determining authority has decided that the Commissioners are entitled to recover the child benefit paid in respect of that child or qualifying young person from a person in consequence of his misrepresentation of, or his failure to disclose, any material fact and, where that determining authority is one from whose decision an appeal lies, the time limit for appealing has expired and no appeal has been made; or
+- (b) the child benefit paid to the other person has been voluntarily repaid to, or recovered by, the Commissioners in a case where the determining authority has decided under section 9 or 10 of the Social Security Act 1998 [^c15419021] or under Article 10 or 11 of the Social Security (Northern Ireland) Order 1998 [^c15419031] either—
+  - (i) that, while there was no entitlement to benefit, it is not recoverable, or
+  - (ii) that there was no entitlement to benefit but has made no decision as to its recoverability.
+
+(2) In this regulation “**determining authority**” means, as the case may require—
+
+- (a) the Commissioners;
+- (b) an appeal tribunal constituted under [^key-fce8d99daf683e81054b4202212be003]... Article 8 of the Social Security (Northern Ireland) Act 1998;
+- (c) the Chief or any other Social Security Commissioner, or a tribunal consisting of any three or more such Commissioners constituted in accordance with [^key-f28b327094e6fe30acda6cbb2c06d8b7]... Article 16(7) of the Social Security (Northern Ireland) Act 1998;
+- (d)[^key-c7440e44a9340f532c3f03bff84db0f9] the First-tier Tribunal;
+- (e) the Upper Tribunal.
+
+### 39. Use of electronic communications
+
+Schedule 2 to the Child Benefit and Guardian's Allowance (Administration) Regulations 2003 [^c15419041] (use of electronic communications) applies to the delivery of information to or by the Commissioners which is authorised or required by these Regulations in the same manner as it applies to the delivery of information to or by the Commissioners which is authorised or required by those Regulations.
+
+References in this regulation to the delivery of information shall be construed in accordance with section 132(8) of the Finance Act 1999 [^c15419051].
+
+## PART 8 — Revocations
+
+### 40. Revocations
+
+The instruments specified in column 1 of the Table below are revoked to the extent specified in column 2.
+
+<table>
+<tfoot>
+<tr><td colspan="2"><sup>(1)</sup> S.I.2003/493.</td></tr>
+<tr><td colspan="2"><sup>(2)</sup> S.I. 2004/1244.</td></tr>
+<tr><td colspan="2"><sup>(3)</sup> S.I. 2005/2078 (S. 9).</td></tr>
+<tr><td colspan="2"><sup>(4)</sup> S.I. 2005/2919.</td></tr>
+</tfoot>
+<tbody>
+<tr><th><em>Instrument</em></th><th><em>Extent of revocation</em></th></tr>
+<tr><td>The Child Benefit (General )Regulations 2003<sup>(1)</sup></td><td>The whole of the Regulations.</td></tr>
+<tr><td>The Child Benefit (General) (Amendment) Regulations 2004<sup>(2)</sup></td><td>The whole of the Regulations.</td></tr>
+<tr><td>The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005<sup>(3)</sup></td><td>In Schedule 2, paragraph 23.</td></tr>
+<tr><td>The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005<sup>(4)</sup></td><td>Article 10</td></tr>
+</tbody>
+</table>
+
+Gillian Merron
+
+Vernon Coaker
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+David Varney
+
+Paul Gray
+
+Two of the Commissioners for Her Majesty's Revenue and Customs
+
+*(This note is not part of the Regulations)*
+
+These Regulations make general provisions relating to child benefit, including provisions concerning residence, and consolidate the provisions contained in the Child Benefit (General) Regulations 2003 (S.I. 2003/493) with amendments reflecting the extension of child benefit authorised by the Child Benefit Act 2005 (c. 6).
+
+Part 1 contains regulation 1. This provides for citation, commencement and interpretation.
+
+Part 2 (regulations 2 to 8) contains provisions specifying the age which a person must not have attained, and the conditions which must be satisfied, in order to be a qualifying young person.
+
+Part 3 (regulations 9 to11) contains provisions determining who is the person responsible for a child or qualifying young person for the purposes of entitlement to child benefit.
+
+Part 4 (regulations 12 to 19) contains provisions relating to exclusions from entitlement to child benefit and priority between persons entitled to child benefit.
+
+Part 5 contains regulation 20. This deals with entitlement to child benefit after the death of a child.
+
+Part 6 (regulations 21 to 33) prescribe circumstances in which a person is to be treated as being, or as not being, in Great Britain or in Northern Ireland.
+
+Part 7 (regulations 34 to 39) contains general and supplementary provisions. Regulation 34 prescribes circumstances in which persons are treated as residing together. Regulation 35 provides when a polygamous marriage is treated as having the same consequences as a monogamous marriage. Regulation 36 makes provisions relating to the right of voluntary organisations to child benefit. Regulation 37 disapplies section 13(1A) of Social Security Administration Act 1992 (c. 5) and section 11(1A) of the Social Security Administration (Northern Ireland) Act 1992 (c. 8) (requirement to state national insurance number) where a child is treated as living with a voluntary organisation. Regulation 38 provides an exception to section 13(2) of the Social Security Administration Act 1992 and section 11(2) of the Social Security Administration (Northern Ireland) Act 1992 (person not entitled to child benefit for any week if benefit has already been paid to another person). Regulation 39 makes provision for use of electronic communications.
+
+Part 8 contains regulation 40. This revokes provisions re-enacted by these Regulations.
+
+A regulatory impact assessment has not been prepared for this instrument as it has no impact on businesses, charities or voluntary bodies. However, a full Regulatory Impact Assessment was produced for the draft indicative regulations that set out the Government's intended extensions to the scope of child benefit entitlement and which were published by HM Treasury on 10 January 2005. A copy of that Regulatory Impact Assessment has been placed in the Library of each House and is available on the website of HM Treasury at: www.hm–treasury.gov.uk/consultations\_and\_legislation/child\_benefit/child\_benefit.cfm.
+
+## Annotations
+
+[^c15418481]: Marginal citation: [Section 142](https://www.legislation.gov.uk/uksi/2006/223/section/142) is substituted by section 1(2) of the Child Benefit Act 2005 (c. 6: “the 2005 Act”).
+
+[^c15418491]: Marginal citation: [Section 145A](https://www.legislation.gov.uk/uksi/2006/223/section/145A) was inserted by section 55 of the Tax Credits Act 2002 (c. 21: the 2002 Act“), and amended by paragraph 48 of Part 3 of Schedule 24 to the Civil Partnership Act 2004 (c. 33: “the 2004 Act”) and paragraph 12 of Schedule 1 to the 2005 Act.
+
+[^c15418501]: Marginal citation: [Section 146](https://www.legislation.gov.uk/uksi/2006/223/section/146) was substituted by section 56 of the 2002 Act.
+
+[^c15418511]: Marginal citation: [Section 147(1)](https://www.legislation.gov.uk/uksi/2006/223/section/147/1) is cited because of the definition of “prescribe”.
+
+[^c15418521]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). There are amendments to section 175 which are not relevant for present purposes. The functions of the Secretary of State under Part 9 of the Act (other than those contained in paragraphs 5 and 6(1) of Schedule 10) were transferred to the Treasury by section 49(1) of the 2002 Act.
+
+[^c15418531]: Marginal citation: [Section 138](https://www.legislation.gov.uk/uksi/2006/223/section/138) is substituted by section 2(2) of the 2005 Act.
+
+[^c15418541]: Marginal citation: [Section 141A](https://www.legislation.gov.uk/uksi/2006/223/section/141A) was inserted by section 55 of the 2002 Act and amended by paragraph 101 of Part 5 of Schedule 24 to the 2004 Act and paragraph 38 of Schedule 1 to the 2005 Act.
+
+[^c15418551]: Marginal citation: [Section 142](https://www.legislation.gov.uk/uksi/2006/223/section/142) was substituted by section 56 of the 2002 Act.
+
+[^c15418561]: Marginal citation: [Section 143(1)](https://www.legislation.gov.uk/uksi/2006/223/section/143/1) is cited because of the definition of “prescribe”.
+
+[^c15418571]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7). There are amendments to section 171 which are not relevant for present purposes. The functions of the Department of Health and Social Services for Northern Ireland were transferred to the Department for Social Development by Article 8(b) of, and Part 2 of Schedule 6 to, the Departments (Transfer and Assignment of Functions) Order (Northern Ireland 1999 (S.R. [1999 No.481](https://www.legislation.gov.uk/ukcm/1999/481)). The functions of that Department under Part 9 of the Act (other than those contained in paragraphs 5 and 6(1) of Schedule 10) were transferred to the Treasury by section 49(2) of the 2002 Act.
+
+[^c15418581]: Marginal citation: [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16).
+
+[^c15418591]: Marginal citation: The functions of the Secretary of State in respect of paragraphs 5 and 6 of Schedule 10 were transferred to the Commissioners of Inland Revenue by section 50(1) and (2)(a) of the 2002 Act. The Commissioners of Inland Revenue were abolished, and their functions transferred to the Commissioners for Her Majesty's Revenue and Customs, by section 5(2) of the [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50 of that Act provides that insofar as it is appropriate in consequence of section 5 a reference, however expressed, to the Commissioners of Inland Revenue is to be read as a reference to the Commissioners for Her Majesty's Revenue and Customs.
+
+[^c15418601]: Marginal citation: Subsections (1A) to (1C) were inserted by section 69 of the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30). Subsection (1C) is amended by paragraph 20(2) of Part 1 of Schedule 1 to the 2005 Act. The functions of the Secretary of State were transferred to the Commissioners of Inland Revenue by section 50(1) and (2)(b) of the 2002 Act. As to the subsequent transfer of the functions of those Commissioners see the preceding footnote.
+
+[^c15418611]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^c15418621]: Marginal citation: The functions of the Department for Social Development in respect of paragraphs 5 and 6 of Schedule 10 were transferred to the Commissioners of Inland Revenue by section 50(1) and (2)(c) of the 2002 Act. As to the further transfer of these functions to the Commissioners for Her Majesty's Revenue and Customs, see footnote (l) above.
+
+[^c15418631]: Marginal citation: Subsections (1A) to (1C) were inserted by article 66 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147). Subsection (1C) is amended by paragraph 46(2) of Schedule 1 to the 2005 Act. The functions of the Department of Health and Social Services for Northern Ireland were transferred to the Department for Social Development by Article 8(b) of, and Part 2 of Schedule 6 to, the Departments (Transfer and Assignment of Functions) Order (Northern Ireland 1999 (S.R. [1999 No.481](https://www.legislation.gov.uk/ukcm/1999/481)). The functions of that Department under section 11 were transferred to the Commissioners of Inland Revenue by section 50(1) and (2)(d) of the 2002 Act. As to the further transfer of these functions to the Commissioners for Her Majesty's Revenue and Customs see footnote (l) above.
+
+[^c15418641]: Marginal citation: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8).
+
+[^c15418651]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^c15418661]: Marginal citation: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
+
+[^c15418671]: Marginal citation: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
+
+[^key-75d330ecc347574a9fa7e6a204221e7a]: Textual amendment: Words in reg. 1(3) inserted (6.4.2012) by [The Child Benefit (General) (Amendment) Regulations 2012 (S.I. 2012/818)](https://www.legislation.gov.uk/uksi/2012/818), [regs. 1](https://www.legislation.gov.uk/uksi/2012/818/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/818/regulation/3)
+
+[^key-6cd269618241a801e6389ea652f7ecbc]: Textual amendment: Words in reg. 1(3) substituted (1.1.2010) by [The Child Benefit and Guardians Allowance (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/3268)](https://www.legislation.gov.uk/uksi/2009/3268), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3268/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2009/3268/regulation/5/2)
+
+[^key-7dfe36081b72695c80f508d4433c6698]: Textual amendment: Words in reg. 1(3) omitted (31.8.2015) by virtue of [The Child Benefit (General) (Amendment) Regulations 2015 (S.I. 2015/1512)](https://www.legislation.gov.uk/uksi/2015/1512), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1512/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/1512/regulation/2/a)
+
+[^key-a25c991ae11f46687b072e5721b2b3e6]: Textual amendment: Word in reg. 1(3) omitted (6.4.2016) by virtue of [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2016/360/regulation/6/2)
+
+[^key-7bbf4eda6e8c53e04a2f7b1087063de2]: Textual amendment: Words in reg. 1(3) substituted (6.4.2012) by [The Child Benefit (General) (Amendment) Regulations 2012 (S.I. 2012/818)](https://www.legislation.gov.uk/uksi/2012/818), [regs. 1](https://www.legislation.gov.uk/uksi/2012/818/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2012/818/regulation/4/b)
+
+[^key-6cfc3173c78cb02190cee6f5c9776147]: Textual amendment: Words in [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2006/223/regulation/1/3/b) inserted (15.3.2023) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/179)](https://www.legislation.gov.uk/uksi/2023/179), [regs. 1](https://www.legislation.gov.uk/uksi/2023/179/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2023/179/regulation/6/2/a)
+
+[^key-3e915943e17fdb8dc2678a4079fe64db]: Textual amendment: Words in [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2006/223/regulation/1/3/c) substituted (9.12.2021) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1286)](https://www.legislation.gov.uk/uksi/2021/1286), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1286/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/1286/regulation/5/2)
+
+[^key-e849630963253fec27c1ec0bd1135409]: Textual amendment: Words in [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2006/223/regulation/1/3/c) omitted (15.3.2023) by virtue of [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/179)](https://www.legislation.gov.uk/uksi/2023/179), [regs. 1](https://www.legislation.gov.uk/uksi/2023/179/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2023/179/regulation/6/2/b)
+
+[^key-66cb2a987736966196a6ee216aa0b8c7]: Textual amendment: Words in reg. 1(3) substituted (1.6.2017) by [The Child Benefit (General) (Amendment) Regulations 2017 (S.I. 2017/607)](https://www.legislation.gov.uk/uksi/2017/607), [regs. 1](https://www.legislation.gov.uk/uksi/2017/607/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/607/regulation/2/2)
+
+[^key-992fe94a78536060fb7985eb13c1bef7]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/223/regulation/1/3) substituted (7.4.2025) by [The Child Benefit and Guardian's Allowance (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/207)](https://www.legislation.gov.uk/uksi/2025/207), [regs. 1](https://www.legislation.gov.uk/uksi/2025/207/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2025/207/regulation/4/2)
+
+[^key-c61fa437d43f9b7423e78bbc15227067]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/223/regulation/1/3) substituted (29.7.2021) by [The Tax Credits and Child Benefit (Miscellaneous and Coronavirus Amendments) Regulations 2021 (S.I. 2021/810)](https://www.legislation.gov.uk/uksi/2021/810), [regs. 1](https://www.legislation.gov.uk/uksi/2021/810/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/810/regulation/3/2)
+
+[^c15418681]: Marginal citation: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50). Section 2 was substituted by section 25(1) of the [Employment Act 1988 (c. 19)](https://www.legislation.gov.uk/ukpga/1988/19).
+
+[^c15418691]: Marginal citation: The functions of the Secretary of State as respects education and training in Scotland were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). Section 117(1) of that Act provides that so far as may be necessary in consequence of the exercise of a function by a member of the Scottish Executive within devolved competence a pre-commencement enactment is to be read as if references to a Minister of the Crown were references to the Scottish Ministers.
+
+[^c15418701]: Marginal citation: [1990 c. 35](https://www.legislation.gov.uk/ukpga/1990/35). Section 2 was amended by sections 47 and 51 of, and Schedule 10 to the [Trade Union Reform and Employment Rights Act 1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19).
+
+[^key-25df0a9780c4da610f802357ff619342]: Textual amendment: Words in reg. 1(3) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/364/regulation/11/2)
+
+[^key-e1ce7074ef407ba0ed49ac828122ea95]: Textual amendment: Words in reg. 1(3) substituted (6.4.2012) by [The Child Benefit (General) (Amendment) Regulations 2012 (S.I. 2012/818)](https://www.legislation.gov.uk/uksi/2012/818), [regs. 1](https://www.legislation.gov.uk/uksi/2012/818/regulation/1), [5](https://www.legislation.gov.uk/uksi/2012/818/regulation/5)
+
+[^c15418711]: Marginal citation: [1950 c. 29 (N.I)](https://www.legislation.gov.uk/apni/1950/29). Section 1 has been amended by [S.I. 1974/2144 (N.I. 7)](https://www.legislation.gov.uk/nisi/1974/2144), 1988/1087 (N.I. 10) and 1990/1200 (N.I. 8).
+
+[^key-3f1834b98051a8e00356a597764adab2]: Textual amendment: Words in reg. 1(3) substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 66](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/66)
+
+[^key-7f5110a174ead0aaad82bb9b7138802a]: Textual amendment: Word in reg. 1(3) omitted (6.4.2012) by virtue of [The Child Benefit (General) (Amendment) Regulations 2012 (S.I. 2012/818)](https://www.legislation.gov.uk/uksi/2012/818), [regs. 1](https://www.legislation.gov.uk/uksi/2012/818/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2012/818/regulation/6/a)
+
+[^key-49a599ce49c3203947b813de55b07dd5]: Textual amendment: Words in reg. 1(3) omitted (6.4.2012) by virtue of [The Child Benefit (General) (Amendment) Regulations 2012 (S.I. 2012/818)](https://www.legislation.gov.uk/uksi/2012/818), [regs. 1](https://www.legislation.gov.uk/uksi/2012/818/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2012/818/regulation/6/b)
+
+[^key-f5f88fa4d6d6c69d794e024f048026ac]: Textual amendment: Words in reg. 1(3) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 84(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/84/2/a/i)
+
+[^key-888ab45735e5ae2446ccc60b4807d72a]: Textual amendment: Words in reg. 1(3) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 84(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/84/2/a/ii)
+
+[^c15418721]: Marginal citation: [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21).
+
+[^key-a17ddc037c2f55fb438a3abb92ed3b69]: Textual amendment: Words in reg. 1(3) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 84(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/84/2/a/iii)
+
+[^key-c82ba9eb4b80a36097960d35c000fa98]: Textual amendment: Words in reg. 1(3) inserted (1.1.2021) by [The Social Security, Child Benefit and Child Tax Credit (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1505)](https://www.legislation.gov.uk/uksi/2020/1505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1505/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/1505/regulation/6/2)
+
+[^key-60fe648642694fbf8055dd306cc365ea]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/223/regulation/1/3) omitted (1.9.2025) by virtue of [The Child Benefit (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/818)](https://www.legislation.gov.uk/uksi/2025/818), [regs. 1](https://www.legislation.gov.uk/uksi/2025/818/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/818/regulation/2/2/a)
+
+[^key-7630a446be328ec470c3c728c653633b]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/223/regulation/1/3) substituted (1.9.2025) by [The Child Benefit (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/818)](https://www.legislation.gov.uk/uksi/2025/818), [regs. 1](https://www.legislation.gov.uk/uksi/2025/818/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/818/regulation/2/2/b)
+
+[^c15418731]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
+
+[^c15418741]: Marginal citation: 2003 asp13.
+
+[^c15418751]: Marginal citation: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595).
+
+[^c15418761]: Marginal citation: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6).
+
+[^key-b01ffd7f72c430f44bcb6539687c295f]: Textual amendment: Words in reg. 1(3) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 346(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/346/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-69e204068dbc04a1a7da91a410dbd614]: Textual amendment: Words in reg. 1(3) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 346(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/346/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-157d985b5f8dab15a6b5084eb0eb4bfb]: Textual amendment: Word in reg. 1(3) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 29](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/29)
+
+[^c15418771]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^c15418781]: Marginal citation: [S.I. 1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504).
+
+[^key-a6404726adaa23ee606f705a7108f847]: Textual amendment: Words in reg. 1(3) inserted (24.8.2020) by [The Child Benefit and Child Tax Credit (Persons of Northern Ireland) (Amendment) Regulations 2020 (S.I. 2020/672)](https://www.legislation.gov.uk/uksi/2020/672), [regs. 1](https://www.legislation.gov.uk/uksi/2020/672/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/672/regulation/2/2)
+
+[^key-f471c189a3bf4b867258d51b6f7f9e84]: Textual amendment: Words in reg. 1 inserted (20.7.2018) by [The Child Benefit, Tax Credits and Childcare Payments (Section 67 Immigration Act 2016 Leave) (Amendment) Regulations 2018 (S.I. 2018/788)](https://www.legislation.gov.uk/uksi/2018/788), [regs. 1](https://www.legislation.gov.uk/uksi/2018/788/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/788/regulation/2/2)
+
+[^c15418791]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
+
+[^key-ce528ca871dc9162f7e6a00a57cb88b9]: Textual amendment: Reg. 1(3A) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [66(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/66/2)
+
+[^key-e78490a7ac621202f5b323a72ae99836]: Textual amendment: Reg. 1(4) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 84(2)(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/84/2/b)
+
+[^key-0fa6d3042400b83eb2b08f53b9cb358e]: Textual amendment: [Reg. 3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2006/223/regulation/3/2/a/i)[(ii)](https://www.legislation.gov.uk/uksi/2006/223/regulation/3/2/a/ii) omitted (1.9.2025) by virtue of [The Child Benefit (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/818)](https://www.legislation.gov.uk/uksi/2025/818), [regs. 1](https://www.legislation.gov.uk/uksi/2025/818/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2025/818/regulation/2/3/a/i)
+
+[^key-22f2c34d4fe9fc0972e53d2de3e5940f]: Textual amendment: [Reg. 3(2)(ab)](https://www.legislation.gov.uk/uksi/2006/223/regulation/3/2/ab) omitted (1.9.2025) by virtue of [The Child Benefit (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/818)](https://www.legislation.gov.uk/uksi/2025/818), [regs. 1](https://www.legislation.gov.uk/uksi/2025/818/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/818/regulation/2/3/a/ii)
+
+[^key-29f69b28e16e0f2bf8bf37b9d3493b99]: Textual amendment: Words in reg. 3(2)(b) substituted (4.6.2014) by [The Child Benefit (General) and Child Tax Credit (Amendment) Regulations 2014 (S.I. 2014/1231)](https://www.legislation.gov.uk/uksi/2014/1231), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1231/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2014/1231/regulation/2/3/b)
+
+[^key-8e3d5732728e3b9f2c25c701e47cc9d2]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2006/223/regulation/3/2/b) omitted (1.9.2025) by virtue of [The Child Benefit (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/818)](https://www.legislation.gov.uk/uksi/2025/818), [regs. 1](https://www.legislation.gov.uk/uksi/2025/818/regulation/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/818/regulation/2/3/a/iii)
+
+[^key-f0dc07e1f18edda9bd001ab0d9b217e5]: Textual amendment: Words in reg. 3(2)(b) substituted (16.8.2007) by [The Child Benefit (General) (Amendment) Regulations 2007 (S.I. 2007/2150)](https://www.legislation.gov.uk/uksi/2007/2150), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2150/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2007/2150/regulation/4/a)
+
+[^key-7b1fdfbf7a114669c2423e4917a78a7b]: Textual amendment: Reg. 3(2)(d) and preceding word inserted (16.8.2007) by [The Child Benefit (General) (Amendment) Regulations 2007 (S.I. 2007/2150)](https://www.legislation.gov.uk/uksi/2007/2150), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2150/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2007/2150/regulation/4/b)
+
+[^key-c30dd45ea03d83e19a03ef6a5c61db9f]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2006/223/regulation/3/3) omitted (1.9.2025) by virtue of [The Child Benefit (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/818)](https://www.legislation.gov.uk/uksi/2025/818), [regs. 1](https://www.legislation.gov.uk/uksi/2025/818/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/818/regulation/2/3/b)
+
+[^key-371056e70f8e4ebe641d011b0388a6db]: Textual amendment: Words in reg. 3(4) substituted (4.6.2014) by [The Child Benefit (General) and Child Tax Credit (Amendment) Regulations 2014 (S.I. 2014/1231)](https://www.legislation.gov.uk/uksi/2014/1231), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1231/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/1231/regulation/2/4)
+
+[^key-d8818a43e0b77c8657e4d320d882b878]: Textual amendment: Word in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2006/223/regulation/3/4) omitted (1.9.2025) by virtue of [The Child Benefit (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/818)](https://www.legislation.gov.uk/uksi/2025/818), [regs. 1](https://www.legislation.gov.uk/uksi/2025/818/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2025/818/regulation/2/3/c)
+
+[^key-83d5f3ec447cbf8395b6b88e807c66b5]: Textual amendment: Words in reg. 3(4) inserted (16.8.2007) by [The Child Benefit (General) (Amendment) Regulations 2007 (S.I. 2007/2150)](https://www.legislation.gov.uk/uksi/2007/2150), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2150/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2007/2150/regulation/4/c)
+
+[^key-101107a3b6f67ed3df95529390b4e745]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2006/223/regulation/3/5) omitted (1.9.2025) by virtue of [The Child Benefit (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/818)](https://www.legislation.gov.uk/uksi/2025/818), [regs. 1](https://www.legislation.gov.uk/uksi/2025/818/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/818/regulation/2/3/b)
+
+[^key-b79d954c608ff0e6f065bc72fd61d230]: Textual amendment: Words in reg. 4(2) inserted (1.1.2010) by [The Child Benefit and Guardians Allowance (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/3268)](https://www.legislation.gov.uk/uksi/2009/3268), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3268/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2009/3268/regulation/5/4)
+
+[^key-0332282aaf05a8483e338664c50b1404]: Textual amendment: Reg. 4(3) added (1.1.2010) by [The Child Benefit and Guardians Allowance (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/3268)](https://www.legislation.gov.uk/uksi/2009/3268), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3268/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2009/3268/regulation/5/5)
+
+[^key-4f06e2ecbb69d348fb01b720eb010c94]: Textual amendment: Reg. 5(2)(f) substituted (1.1.2010) by [The Child Benefit and Guardians Allowance (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/3268)](https://www.legislation.gov.uk/uksi/2009/3268), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3268/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2009/3268/regulation/5/6)
+
+[^key-78749543cb846350ea8420e5601f9733]: Textual amendment: Words in [reg. 5(4)(c)](https://www.legislation.gov.uk/uksi/2006/223/regulation/5/4/c) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2019/364/regulation/11/3)
+
+[^key-dc329ab928a308eca2c34f7e5803c32e]: Textual amendment: Words in reg. 5(4)(d) inserted (6.4.2012) by [The Child Benefit (General) (Amendment) Regulations 2012 (S.I. 2012/818)](https://www.legislation.gov.uk/uksi/2012/818), [regs. 1](https://www.legislation.gov.uk/uksi/2012/818/regulation/1), [7](https://www.legislation.gov.uk/uksi/2012/818/regulation/7)
+
+[^key-5b33d511f758d20f4750eab7fd14f79b]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2006/223/regulation/7/2) substituted (9.6.2022) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/555)](https://www.legislation.gov.uk/uksi/2022/555), [regs. 1](https://www.legislation.gov.uk/uksi/2022/555/regulation/1), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/555/regulation/4/2/a/i)
+
+[^key-f011ffc5dcab129a1a655283d2ff01ed]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2006/223/regulation/7/2) omitted (9.6.2022) by virtue of [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/555)](https://www.legislation.gov.uk/uksi/2022/555), [regs. 1](https://www.legislation.gov.uk/uksi/2022/555/regulation/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/555/regulation/4/2/a/ii)
+
+[^key-f156f6a818bc444750369b2ee78de1ad]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2006/223/regulation/7/4) omitted (9.6.2022) by virtue of [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/555)](https://www.legislation.gov.uk/uksi/2022/555), [regs. 1](https://www.legislation.gov.uk/uksi/2022/555/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/555/regulation/4/2/b)
+
+[^c15418811]: Marginal citation: Section 30A was inserted by section 1(1) of the [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18) and amended by section 64 of the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30).
+
+[^c15418821]: Marginal citation: Section 30A was inserted by Article 1(1) of the [Social Security (Incapacity for Work) (N.I.) Order 1994 (S.I. 1994/1898 (N.I. 12))](https://www.legislation.gov.uk/nisi/1994/1898) and amended by Article 61(1) of the [Welfare Reform and Pensions (N.I.) Order 1999 (S.I. 1999/3147 (N.I. 11))](https://www.legislation.gov.uk/nisi/1999/3147).
+
+[^key-152f5a367511f914a6b3034ca7e600b2]: Textual amendment: Word in reg. 8(2)(c) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Consequential Provisions) (No. 3) Regulations 2008 (S.I. 2008/1879)](https://www.legislation.gov.uk/uksi/2008/1879), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/24/a)
+
+[^key-252001553f52e9fcc2709eef587adfc6]: Textual amendment: Word in reg. 8(2) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [84](https://www.legislation.gov.uk/uksi/2013/630/regulation/84)
+
+[^key-24a93454071bd76523481cead2f5c158]: Textual amendment: Reg. 8(2)(e) and word added (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 3) Regulations 2008 (S.I. 2008/1879)](https://www.legislation.gov.uk/uksi/2008/1879), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/24/b)
+
+[^M_F_46b69cfb-4a3e-48cd-a388-1bfd326b8bda]: Textual amendment: Words in reg. 8(2)(e) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions No. 2) Regulations (Northern Ireland) 2008 (S.R. 2008/412)](https://www.legislation.gov.uk/nisr/2008/412), [regs. 1](https://www.legislation.gov.uk/nisr/2008/412/regulation/1), [11](https://www.legislation.gov.uk/nisr/2008/412/regulation/11)
+
+[^key-0d3ba55c4b8bb30fb594eb6e3cd3c636]: Textual amendment: Reg. 8(2)(f) and word inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [84](https://www.legislation.gov.uk/uksi/2013/630/regulation/84)
+
+[^key-fc0260451aba6866bf202336fe7356ee]: Textual amendment: Words in [reg. 8(2)(f)](https://www.legislation.gov.uk/uksi/2006/223/regulation/8/2/f) inserted (27.9.2017 immediately after [S.R. 2016/216](https://www.legislation.gov.uk/nisr/2016/216) comes into force) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [60](https://www.legislation.gov.uk/nisr/2016/236/regulation/60)
+
+[^key-5ebca733821b0610f8b388340ed50260]: Textual amendment: Words in reg. 12(1) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 84(3)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/84/3)
+
+[^c15418831]: Marginal citation: [Paragraph3](https://www.legislation.gov.uk/uksi/2006/223/paragraph/3) has been amended by paragraph 17 of Part 1 of Schedule 1 to the Child Benefit Act
+
+[^key-e50ebf8bbadeb251d795795683d0378d]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2006/223/regulation/14/1) inserted (16.8.2007) by [The Child Benefit (General) (Amendment) Regulations 2007 (S.I. 2007/2150)](https://www.legislation.gov.uk/uksi/2007/2150), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2150/regulation/1), [5](https://www.legislation.gov.uk/uksi/2007/2150/regulation/5)
+
+[^key-d3d849c069b59223f333c2ae186ba7e2]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2006/223/regulation/15/1) inserted (16.8.2007) by [The Child Benefit (General) (Amendment) Regulations 2007 (S.I. 2007/2150)](https://www.legislation.gov.uk/uksi/2007/2150), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2150/regulation/1), [6](https://www.legislation.gov.uk/uksi/2007/2150/regulation/6)
+
+[^key-047db43c8a24acd5842bc76e48853e4d]: Textual amendment: Reg. 16(3)(a) substituted (6.4.2012) by [The Child Benefit (General) (Amendment) Regulations 2012 (S.I. 2012/818)](https://www.legislation.gov.uk/uksi/2012/818), [regs. 1](https://www.legislation.gov.uk/uksi/2012/818/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/818/regulation/8)
+
+[^key-5313f69fc00cd8cf94a102169b77a2a6]: Textual amendment: Word in [reg. 16(3)(a)(v)](https://www.legislation.gov.uk/uksi/2006/223/regulation/16/3/a/v) omitted (6.4.2016) by virtue of [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [6(3)(a)(i)](https://www.legislation.gov.uk/uksi/2016/360/regulation/6/3/a/i)
+
+[^key-b3ec6e105c96e6401197282dca4eefab]: Textual amendment: Word in [reg. 16(3)(a)(vi)](https://www.legislation.gov.uk/uksi/2006/223/regulation/16/3/a/vi) inserted (6.4.2016) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [6(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/360/regulation/6/3/a/ii)
+
+[^key-dbd915fb24c52ae80bd51577e6c1142f]: Textual amendment: [Reg. 16(3)(a)(vii)](https://www.legislation.gov.uk/uksi/2006/223/regulation/16/3/a/vii) inserted (6.4.2016) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [6(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/360/regulation/6/3/a/iii)
+
+[^key-88213d85b5ea39209e28b9317d20edbc]: Textual amendment: Words in [reg. 16(3)(a)](https://www.legislation.gov.uk/uksi/2006/223/regulation/16/3/a) omitted (6.4.2016) by virtue of [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [6(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2016/360/regulation/6/3/a/iv)
+
+[^key-c5c14f29b899a758cc395f3077eb47e5]: Textual amendment: Words in [reg. 16(3)(a)](https://www.legislation.gov.uk/uksi/2006/223/regulation/16/3/a) inserted (6.4.2016) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [6(3)(a)(v)](https://www.legislation.gov.uk/uksi/2016/360/regulation/6/3/a/v)
+
+[^c15418881]: Marginal citation: S.R. [1996 No. 467](https://www.legislation.gov.uk/ukcm/1996/467).
+
+[^c15418891]: Marginal citation: S.R. [1996 No. 453](https://www.legislation.gov.uk/ukcm/1996/453).
+
+[^key-d4e90380add6ca1e075ab5224a0dfd23]: Textual amendment: Words in reg. 16(4) substituted (6.4.2012) by [The Child Benefit (General) (Amendment) Regulations 2012 (S.I. 2012/818)](https://www.legislation.gov.uk/uksi/2012/818), [regs. 1](https://www.legislation.gov.uk/uksi/2012/818/regulation/1), [9](https://www.legislation.gov.uk/uksi/2012/818/regulation/9)
+
+[^key-d334ecf0a4aab704f7971b156d0809d3]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/uksi/2006/223/regulation/16/4) omitted (6.4.2016) by virtue of [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [6(3)(b)(i)](https://www.legislation.gov.uk/uksi/2016/360/regulation/6/3/b/i)
+
+[^key-03e6147bb107112194746c2edecae60d]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/uksi/2006/223/regulation/16/4) substituted (6.4.2016) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [6(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/360/regulation/6/3/b/ii)
+
+[^key-66ab193c5b11ef255a1258b3dba491e0]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/uksi/2006/223/regulation/16/4) inserted (6.4.2016) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [6(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2016/360/regulation/6/3/b/iii)
+
+[^key-237e07e3f4f1325b861b4466573083ea]: Textual amendment: Reg. 16(5)(a)(aa) substituted for reg. 16(5)(a) (6.4.2012) by [The Child Benefit (General) (Amendment) Regulations 2012 (S.I. 2012/818)](https://www.legislation.gov.uk/uksi/2012/818), [regs. 1](https://www.legislation.gov.uk/uksi/2012/818/regulation/1), [10](https://www.legislation.gov.uk/uksi/2012/818/regulation/10)
+
+[^key-3a687491143c051fea4904e391541667]: Textual amendment: Reg. 16(5)(b) substituted (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2011/1740/schedule/1/paragraph/43)
+
+[^c15418921]: Marginal citation: S.R. [1989 No. 253](https://www.legislation.gov.uk/ukcm/1989/253).
+
+[^key-dd7ee62a58282d905a9a6da38364a979]: Textual amendment: Words in [reg. 18(a)](https://www.legislation.gov.uk/uksi/2006/223/regulation/18/a) inserted (6.4.2016) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2016/360/regulation/6/4)
+
+[^key-cc817c2e04b55be5a8e4dd15622110f4]: Textual amendment: Words in reg. 18(a) inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/25)
+
+[^c15418931]: Marginal citation: [Section 145A](https://www.legislation.gov.uk/uksi/2006/223/section/145A) inserted by section 55 of the [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21).
+
+[^c15418941]: Marginal citation: [Section 141A](https://www.legislation.gov.uk/uksi/2006/223/section/141A) inserted by section 55 of the [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21).
+
+[^key-fc566991a537fce083c4301eb9103c62]: Textual amendment: Words in [reg. 21(1)(b)](https://www.legislation.gov.uk/uksi/2006/223/regulation/21/1/b) substituted (16.8.2007) by [The Child Benefit (General) (Amendment) Regulations 2007 (S.I. 2007/2150)](https://www.legislation.gov.uk/uksi/2007/2150), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2150/regulation/1), [7](https://www.legislation.gov.uk/uksi/2007/2150/regulation/7)
+
+[^c15418951]: Marginal citation: [Section 142](https://www.legislation.gov.uk/uksi/2006/223/section/142) of the Social Security Contributions and Benefits (Northern Ireland) Act (c.4) was substituted by section 56 of the [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21) and is further substituted, with effect from 10<sup>th</sup> April 2006, by section 2(2) of the [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6).
+
+[^key-46e6188626acb2cac34ec07774d520a6]: Modification: Reg. 23 applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/3), [4(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/4), [11(j)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/11/j)
+
+[^c15418961]: Marginal citation: Section 146 of the [Social Security Contributions and Benefits Act 1992 (c. 4)](https://www.legislation.gov.uk/ukpga/1992/4) was substituted by section 56 of the [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21).
+
+[^key-168c76864537c6884b3dee08d965c1e9]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2006/223/regulation/23/2) substituted (27.10.2023) by [The Child Benefit and Tax Credits (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1139)](https://www.legislation.gov.uk/uksi/2023/1139), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1139/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/1139/regulation/2/2/a)
+
+[^key-94b371ac4cd7a9db980ed17ed6211079]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/2006/223/regulation/23/3) omitted (27.10.2023) by virtue of [The Child Benefit and Tax Credits (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1139)](https://www.legislation.gov.uk/uksi/2023/1139), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1139/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/1139/regulation/2/2/b)
+
+[^key-b392a4cbefb6b851eb5c16e3a66c96ac]: Textual amendment: Words in reg. 23(4) inserted (16.8.2007) by [The Child Benefit (General) (Amendment) Regulations 2007 (S.I. 2007/2150)](https://www.legislation.gov.uk/uksi/2007/2150), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2150/regulation/1), [8](https://www.legislation.gov.uk/uksi/2007/2150/regulation/8)
+
+[^key-1976ea4879aa947339e16afd4bb6bb78]: Textual amendment: Words in reg. 23(4) substituted (8.11.2012) by [The Child Benefit and Child Tax Credit (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/2612)](https://www.legislation.gov.uk/uksi/2012/2612), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2612/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/2612/regulation/3)
+
+[^key-e4b1b0a457cf175474912b17e662560e]: Textual amendment: Word in reg. 23(4)(a) omitted (7.5.2019) by virtue of [The Child Benefit and Child Tax Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/867)](https://www.legislation.gov.uk/uksi/2019/867), [regs. 1](https://www.legislation.gov.uk/uksi/2019/867/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/867/regulation/2/2/a)
+
+[^key-ae1196908f78fa4be628f1639684960e]: Textual amendment: Reg. 23(4)(b) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [11(4)(a)](https://www.legislation.gov.uk/uksi/2019/364/regulation/11/4/a)
+
+[^key-c35b12b2025fbde34a4cb47e4f87320b]: Textual amendment: Reg. 23(4)(c) and preceding word inserted (7.5.2019) by [The Child Benefit and Child Tax Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/867)](https://www.legislation.gov.uk/uksi/2019/867), [regs. 1](https://www.legislation.gov.uk/uksi/2019/867/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/867/regulation/2/2/b)
+
+[^key-640f7b033fc31cc94c08890c78be0e7b]: Textual amendment: Reg. 23(4)(c)(i)(ii) substituted for words (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(d)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/d), [22(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/22/2/a)
+
+[^key-05f39a13ee7f9eb745e9d5b13afe5c75]: Textual amendment: Reg. 23(4A) substituted (1.1.2021) by [The Social Security, Child Benefit and Child Tax Credit (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1505)](https://www.legislation.gov.uk/uksi/2020/1505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1505/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/1505/regulation/6/3)
+
+[^key-127ffaf0a4bbce1c9e037edcc8ab9b9c]: Textual amendment: Reg. 23(4B) inserted (24.8.2020) by [The Child Benefit and Child Tax Credit (Persons of Northern Ireland) (Amendment) Regulations 2020 (S.I. 2020/672)](https://www.legislation.gov.uk/uksi/2020/672), [regs. 1](https://www.legislation.gov.uk/uksi/2020/672/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/672/regulation/2/3/a)
+
+[^key-5129141ebdd25481ff46e365d273eb4a]: Textual amendment: Word in reg. 23(4B) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(d)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/d), [22(2)(b)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/22/2/b)
+
+[^key-e740f87a4d25ec73fd9d64ab65dc7a07]: Textual amendment: [Reg. 23(5)-(7)](https://www.legislation.gov.uk/uksi/2006/223/regulation/23/5) omitted (27.10.2023) by virtue of [The Child Benefit and Tax Credits (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1139)](https://www.legislation.gov.uk/uksi/2023/1139), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1139/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/1139/regulation/2/2/c)
+
+[^key-8bc45dc58e2e174cac19eca514918076]: Textual amendment: Words in [reg. 25(1)(b)](https://www.legislation.gov.uk/uksi/2006/223/regulation/25/1/b) substituted (16.8.2007) by [The Child Benefit (General) (Amendment) Regulations 2007 (S.I. 2007/2150)](https://www.legislation.gov.uk/uksi/2007/2150), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2150/regulation/1), [9](https://www.legislation.gov.uk/uksi/2007/2150/regulation/9)
+
+[^key-aef0e59d99a41855abcc21dd1d7b0ad4]: Modification: Reg. 27 applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/3), [4(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/4), [11(j)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/11/j)
+
+[^key-4b3b6d2be11d52cc910741d9e2622abd]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/2006/223/regulation/27/2) omitted (27.10.2023) by virtue of [The Child Benefit and Tax Credits (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1139)](https://www.legislation.gov.uk/uksi/2023/1139), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1139/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/1139/regulation/2/3/a)
+
+[^key-9bb24562e5cc4f3191daf2929b865ef4]: Textual amendment: Words in reg. 27(3) inserted (16.8.2007) by [The Child Benefit (General) (Amendment) Regulations 2007 (S.I. 2007/2150)](https://www.legislation.gov.uk/uksi/2007/2150), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2150/regulation/1), [10](https://www.legislation.gov.uk/uksi/2007/2150/regulation/10)
+
+[^key-052fb00314180ff7986afef2bcbb2fb6]: Textual amendment: Words in reg. 27(3) substituted (8.11.2012) by [The Child Benefit and Child Tax Credit (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/2612)](https://www.legislation.gov.uk/uksi/2012/2612), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2612/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/2612/regulation/4)
+
+[^key-7d998d2990b0d7723847b9491650874c]: Textual amendment: Word in reg. 27(3)(a) omitted (7.5.2019) by virtue of [The Child Benefit and Child Tax Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/867)](https://www.legislation.gov.uk/uksi/2019/867), [regs. 1](https://www.legislation.gov.uk/uksi/2019/867/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/867/regulation/2/3/a)
+
+[^key-f407151c01c47c5f23600fa22594a602]: Textual amendment: Reg. 27(3)(b) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [11(5)(a)](https://www.legislation.gov.uk/uksi/2019/364/regulation/11/5/a)
+
+[^key-73659562331331488d32dbd641938b8e]: Textual amendment: Reg. 27(3)(c) and preceding word inserted (7.5.2019) by [The Child Benefit and Child Tax Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/867)](https://www.legislation.gov.uk/uksi/2019/867), [regs. 1](https://www.legislation.gov.uk/uksi/2019/867/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/867/regulation/2/3/b)
+
+[^key-4736ac365277cb818cbfa9c3a0229a2c]: Textual amendment: Reg. 27(3)(c)(i)(ii) substituted for words (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(d)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/d), [22(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/22/3/a)
+
+[^key-d62da7166d02d7fc9b67641f9ff6a954]: Textual amendment: Reg. 27(3A) substituted (1.1.2021) by [The Social Security, Child Benefit and Child Tax Credit (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1505)](https://www.legislation.gov.uk/uksi/2020/1505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1505/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2020/1505/regulation/6/4)
+
+[^key-b1993f4939e77519812564aa91bc2a55]: Textual amendment: Reg. 27(3B) inserted (24.8.2020) by [The Child Benefit and Child Tax Credit (Persons of Northern Ireland) (Amendment) Regulations 2020 (S.I. 2020/672)](https://www.legislation.gov.uk/uksi/2020/672), [regs. 1](https://www.legislation.gov.uk/uksi/2020/672/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/672/regulation/2/4/a)
+
+[^key-1df44b3541b125922f02e57276f25ded]: Textual amendment: Word in reg. 27(3B) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens' Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(d)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/d), [22(3)(b)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/22/3/b)
+
+[^key-f641b6ed091c52ef11e5e29e4f8a9da8]: Textual amendment: [Reg. 27(4)-(6)](https://www.legislation.gov.uk/uksi/2006/223/regulation/27/4) omitted (27.10.2023) by virtue of [The Child Benefit and Tax Credits (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1139)](https://www.legislation.gov.uk/uksi/2023/1139), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1139/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2023/1139/regulation/2/3/b)
+
+[^key-0d006ab46d07d498f18ecd291127ccaf]: Textual amendment: Word in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2006/223/regulation/30/1) substituted (16.8.2007) by [The Child Benefit (General) (Amendment) Regulations 2007 (S.I. 2007/2150)](https://www.legislation.gov.uk/uksi/2007/2150), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2150/regulation/1), [11(1)](https://www.legislation.gov.uk/uksi/2007/2150/regulation/11/1)
+
+[^key-308d38cbe76332528d596de1d98b601c]: Textual amendment: Word in [reg. 31(1)](https://www.legislation.gov.uk/uksi/2006/223/regulation/31/1) substituted (16.8.2007) by [The Child Benefit (General) (Amendment) Regulations 2007 (S.I. 2007/2150)](https://www.legislation.gov.uk/uksi/2007/2150), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2150/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2007/2150/regulation/11/2)
+
+[^key-c34fbdd924eff193614414b728530080]: Textual amendment: Word in [reg. 32(1)](https://www.legislation.gov.uk/uksi/2006/223/regulation/32/1) substituted (16.8.2007) by [The Child Benefit (General) (Amendment) Regulations 2007 (S.I. 2007/2150)](https://www.legislation.gov.uk/uksi/2007/2150), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2150/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2007/2150/regulation/11/3)
+
+[^key-2401e5f6590dfe64e00cceeb9ab66e9c]: Textual amendment: Words in [reg. 34](https://www.legislation.gov.uk/uksi/2006/223/regulation/34) inserted (16.8.2007) by [The Child Benefit (General) (Amendment) Regulations 2007 (S.I. 2007/2150)](https://www.legislation.gov.uk/uksi/2007/2150), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2150/regulation/1), [12](https://www.legislation.gov.uk/uksi/2007/2150/regulation/12)
+
+[^key-8dd13e3316dbbaba7c089b527db4a42b]: Textual amendment: Words in [reg. 36(1)(b)](https://www.legislation.gov.uk/uksi/2006/223/regulation/36/1/b) substituted (6.4.2012) by [The Child Benefit (General) (Amendment) Regulations 2012 (S.I. 2012/818)](https://www.legislation.gov.uk/uksi/2012/818), [regs. 1](https://www.legislation.gov.uk/uksi/2012/818/regulation/1), [11](https://www.legislation.gov.uk/uksi/2012/818/regulation/11)
+
+[^c15418991]: Marginal citation: S.R. [1996 No. 467](https://www.legislation.gov.uk/ukcm/1996/467).
+
+[^key-757dda53967fa1169c25debcb250f3d2]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/uksi/2006/223/regulation/37) substituted (7.4.2025) by [The Child Benefit and Guardian's Allowance (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/207)](https://www.legislation.gov.uk/uksi/2025/207), [regs. 1](https://www.legislation.gov.uk/uksi/2025/207/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2025/207/regulation/4/3)
+
+[^c15419021]: Marginal citation: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^c15419031]: Marginal citation: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506).
+
+[^key-fce8d99daf683e81054b4202212be003]: Textual amendment: Words in reg. 38(2)(b) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 308(a)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/308/a)
+
+[^key-f28b327094e6fe30acda6cbb2c06d8b7]: Textual amendment: Words in reg. 38(2)(c) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 308(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/308/b)
+
+[^key-c7440e44a9340f532c3f03bff84db0f9]: Textual amendment: Reg. 38(2)(d)(e) inserted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 308(c)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/308/c)
+
+[^c15419041]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2006/223/section/I). 2003/ 492. Schedule 2 was amended by paragraph 23(1)(e) of Part 5 of Schedule 1 to [S.I. 2003/2155](https://www.legislation.gov.uk/uksi/2003/2155).
+
+[^c15419051]: Marginal citation: [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16).

@@ -1,0 +1,55 @@
+---
+title: Income Tax (Earnings and Pensions) Act 2003, section 545
+act: Income Tax (Earnings and Pensions) Act 2003
+section: '545'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/1/section/545
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Earnings and Pensions) Act 2003, section 545
+
+> **Warning: changes not yet applied to this text (46).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 545. Discount not covered by exemption in section 544
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if the total of—
+
+- (a) the price payable by the director or employee for the shares of a company allocated to the director or employee under the employee offer, and
+- (b) the amount or value of any registrant discount made to the director or employee in respect of the shares,
+
+is not the same as, or as near as reasonably practicable to, the appropriate notional price for the shares of the company.
+
+(2) Section 544(2) (exemption: different offers made to public and employees) does not apply to the benefit (if any) represented by the amount by which the appropriate notional price exceeds the total referred to in subsection (1).
+
+(3) The “appropriate notional price” for the shares of a company is—
+
+- (a) if subsection (4) applies, the amount given by the formula in subsection (6), and
+- (b) in any other case, the notional price.
+
+(4) This subsection applies if shares of the company are subject to the public offer and there is a difference between CP and AFP—
+
+- (a) CP being the price for the combination of shares subject to the public offer determined by aggregating the notional prices for each one of the shares comprised in the combination, and
+- (b) AFP being the actual fixed price or (as the case may be) the lowest successfully tendered price for that combination of shares.
+
+(5) The “notional price” for the shares of a company is the price that might reasonably have been expected to be the fixed price for the shares of the company under a separate offer of those shares if—
+
+- (a) the shares of the company, and of each of the other companies had, instead of being subject to the public offer and the employee offer, been subject to separate offers to the public in respect of each company at fixed prices, and
+- (b) those separate offers had been made at the time at which the public offer was in fact made.
+
+(6) The formula referred to in subsection (3)(a) is—
+
+[formula: see source](https://www.legislation.gov.uk/ukpga/2003/1)
+
+where—
+
+NP is the notional price for the shares of the company, and
+
+AFP and CP have the same meanings as in subsection (4).

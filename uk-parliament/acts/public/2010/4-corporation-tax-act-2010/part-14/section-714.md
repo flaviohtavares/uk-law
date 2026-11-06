@@ -1,0 +1,42 @@
+---
+title: Corporation Tax Act 2010, section 714
+act: Corporation Tax Act 2010
+section: '714'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/714
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 714
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 714. The expectation condition
+
+*Extent: E+W+S+N.I.*
+
+(1) The condition mentioned in section 713(1)(d) is that it would be reasonable (apart from section 713) to make the inference specified in subsection (3) from any of the matters specified in subsection (2).
+
+(2) Those matters are—
+
+- (a) the terms of any transactions entered into in connection with the change in the ownership of Y, and
+- (b) the other circumstances of the change and of any such transactions.
+
+(3) The inference is that at least one of the transactions mentioned in subsection (2) was entered into by one or more of its parties on the assumption that, if a potential tax liability were to arise, it would be unlikely to be met or to be met in full.
+
+(4) A “potential tax liability” is a liability to pay corporation tax which would or might arise—
+
+- (a) from an assessment, made after the change in ownership, on Y or an associated company (whether or not a particular associated company), and
+- (b) in foreseeable circumstances.
+
+(5) Circumstances are “foreseeable circumstances” if—
+
+- (a) the circumstances were reasonably foreseeable at the time of the change in ownership, or
+- (b) there was a reasonably foreseeable risk at that time that the circumstances might occur.
+
+(6) For the meaning of “transaction entered into in connection with change in ownership”, see section 715.

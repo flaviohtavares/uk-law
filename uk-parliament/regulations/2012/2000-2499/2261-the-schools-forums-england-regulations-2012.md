@@ -1,0 +1,391 @@
+---
+title: The Schools Forums (England) Regulations 2012
+id: uksi/2012/2261
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-09-03'
+text_date: '2026-02-11'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/2261
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/2261/pdfs/uksiem_20122261_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2261/pdfs/uksi_20122261_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/2261/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Schools Forums (England) Regulations 2012
+
+> Text as at 2026-02-11.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 2261
+
+Education, England
+
+The Schools Forums (England) Regulations 2012
+
+Made
+
+3rd September 2012
+
+Laid before Parliament
+
+7th September 2012
+
+Coming into force
+
+1st October 2012
+
+The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 47A and 138(7) of the School Standards and Framework Act 1998 [^c21365551]:
+
+## 1. Citation, commencement, application and interpretation
+
+(1) These Regulations may be cited as the Schools Forums (England) Regulations 2012 and come into force on 1st October 2012.
+
+(2) These Regulations apply only in relation to England.
+
+(3) In these Regulations—
+
+- “16 to 19 provider” means—[^key-9303bd14a797fb5d6a8593c2e040dbd0]
+  - (a) an institution within the further education sector, or
+  - (b) an educational institution other than one referred to in subparagraph (a) that is principally concerned with providing further education suitable for persons over compulsory school age who have special educational needs [^key-01aea7712c7c4fd3c91377b9d63dce22]...,
+
+  where 20% or more of the students at the institution reside in the authority’s area;.
+
+- “**the Act**” means the School Standards and Framework Act 1998;
+- “**Academies member**” means a member who represents the proprietors of the Academies situated in the authority's area;
+- “alternative provision Academy” means an educational institution which meets the requirements of section 1C of the Academies Act 2010;[^key-f37bc84396e190b1d5920a8dee805bab]
+- “**authority**” means the local authority in whose area the schools forum is established;
+- “**early years providers**” means—
+  - (a) persons who are registered as early years childminders or other early years providers under Chapter 2 of Part 3 of the Childcare Act 2006 [^c21365561] (which provides for the compulsory registration of persons providing early years provision) or are exempt from compulsory registration by order of the Secretary of State under section 33(2) or 34(3) of that Act,
+  - (b) independent schools, and
+  - (c) non-maintained special schools,
+
+who provide early years provision;
+
+- “**early years provision**” has the meaning given by section 20 of the Childcare Act 2006;
+- “**executive member**” means any elected member of the authority appointed to the executive of that authority;
+- “**governor**” includes any interim executive member of an interim executive board constituted in accordance with paragraph 2 of Schedule 6 to the Education and Inspections Act 2006 [^c21365571];
+- “mainstream Academy” means an educational institution which meets the requirements of section 1A(1) of the Academies Act 2010;[^key-096f06b7349a9049dc984beaafc5eac6]
+- “**nursery school**” means a nursery school maintained by the authority;
+- “**primary school**” means a primary school maintained by the authority;
+- “**representative**” means either a head teacher or a senior member of staff representing a head teacher or a governor of a school maintained by the authority, save for in regulation 7(1)(a) and[^key-5b57ac868adfd15053506c72685c0acc] regulation 8 where it means a representative of the positions mentioned in that regulation;
+-
+- “**school**” means a school maintained by the authority;
+- “**school category**” means one of the following categories of school—
+  - (d) community schools,
+  - (e) foundation schools,
+  - (f) voluntary aided schools,
+  - (g) voluntary controlled schools,
+
+as described in Chapter 1 of Part 2 of the Act;
+
+- “**secondary school**” means a secondary school maintained by the authority;
+- “**senior member of staff**” means a principal, deputy head teacher, bursar or other person responsible for the financial management of the school;
+- “special Academy” means an educational institution which meets the requirements of section 1A(2) of the Academies Act 2010;[^key-c2e167bc18d047b3f87489364ddd5d3b]
+- “**special school**” means a community special school or a foundation special school.
+
+(4) In these Regulations, a reference to a governing body does not include a reference to the temporary governing body of a new school and a reference to a governor does not include a reference to a member of the temporary governing body of a new school, where “**new school**” has the meaning given by section 72(3) of the Act [^c21365581].
+
+## 2. Revocation
+
+The Schools Forums (England) Regulations 2010 [^c21365591] are revoked.
+
+## 3. Constitution of schools forum
+
+Every authority must ensure that the schools forum for their area is constituted in accordance with regulations 4 to 7 by 1st October 2012.
+
+## 4. Membership: general
+
+(1) Subject to the following paragraphs of this regulation, an authority may determine the size and composition of their schools forum and the forum members' terms of office.
+
+(2) A forum must comprise—
+
+- (a) schools members elected in accordance with regulation 5;
+- (b) [^key-e48ade18859dff2c6ea1838ebd9f6720]... at least one Academies member elected or selected in accordance with regulation 6; and
+- (c) non-schools members appointed or elected[^key-376d05a000f664ecffb5908ef787230f] in accordance with regulation 7.
+
+(3)[^key-4ff0b3fda57d94187f9fc3c29da2fdcf] If, for any reason, an election for a schools member under regulation 5(1), an Academies member under regulation 6(1), or person to represent 16 to 19 providers under regulation 7(1)(a) either does not take place by the date (if any) set by an authority or results in a tie between two or more candidates, the authority must appoint the schools member, Academies member or person to represent 16 to 19 providers to their schools forum instead.
+
+(4) Schools members and Academies members must together comprise at least two thirds of the membership of the forum.
+
+(5) At least one member must be a representative of the governing bodies of maintained schools and at least one member must be a representative of the head teachers of such schools.
+
+(6) Subject to paragraphs (7) to (10C)[^key-e269159891886889f74ee60c06c37ed0], primary schools, secondary schools and Academies must be broadly proportionately represented on the forum, having regard to the total number of pupils registered at them.
+
+(7) Where the authority maintain one or more secondary schools, at least one schools member must be a representative of a secondary school.
+
+(8) Where the authority maintain one or more special schools, at least one schools member must be a representative of a special school.
+
+(9) Where the authority maintain one or more nursery schools, at least one schools member must be a representative of a nursery school.
+
+(10) Where the authority maintain one or more pupil referral units, at least one schools member must be a representative of a pupil referral unit[^c21365601].
+
+(10A)[^key-a7f8a2c8e04dde27e3dc254e0436dd45] At least one Academies member must be a representative of a mainstream Academy.
+
+(10B) If there are any special Academies in the authority’s area, at least one Academies member must be a representative of a special Academy.
+
+(10C) If there are any alternative provision Academies in the authority’s area, at least one Academies member must be a representative of an alternative provision Academy.
+
+(11) An authority may determine that the number of members representing schools in a particular school category must be broadly proportionate to the total number of schools in that category when compared with the total number of schools.
+
+(12) A forum member remains in office until—
+
+- (a) the member's term of office expires;
+- (b) the member ceases to hold the office by virtue of which the member became eligible for election, selection or appointment to the forum;
+- (c) the member resigns from the forum by giving notice in writing to the authority; or
+- (d) in the case of a non-schools member, the member is replaced by the authority, at the request of the body which the member represents, by another person nominated by that body
+- (e) whichever comes first.
+
+(13) The authority must maintain a written record of the composition of their forum, to include—
+
+- (a) the number of schools members and by which group or sub-group they were elected;
+- (b) the number of Academies members; and
+- (c) the number of non-schools members, their terms of office, how they were chosen and whom they represent.
+
+## 5. Schools members
+
+(1) Schools members must be elected to the schools forum by the members of the relevant group, or sub-group, in the authority's area.
+
+(2) The groups are—
+
+- (a) representatives of nursery schools, where there are any such schools in the authority's area;
+- (b) representatives of primary schools other than nursery schools;
+- (c) representatives of secondary schools;
+- (d) representatives of special schools, where there are any such schools in the authority's area; and
+- (e) representatives of pupil referral units, where there are any such schools in the authority's area.
+
+(3) Each group referred to in paragraph (2) may consist of one or more of the following sub-groups—
+
+- (a) where the authority exercises its discretion under paragraph (4)(a), representatives of head teachers of schools in each group;
+- (b) where the authority exercises its discretion under paragraph (4)(b), representatives of governors of schools in each group;
+- (c) where the authority exercises its discretion under paragraph (4)(c), representatives of head teachers and governors of schools in each group.
+
+(4) The authority may determine that a certain number of representatives of each group must be—
+
+- (a) head teachers or head teachers' representatives;
+- (b) governors; or
+- (c) head teachers or head teachers' representatives and governors.
+
+## 6. Academies members[^key-5ee6d0e6c461d40200063406c93dc18f]
+
+(1) Academies members representing mainstream Academies must be elected to the schools forum by the proprietors of mainstream Academies in the authority’s area.
+
+(2) Where there is only one mainstream Academy in the authority’s area, the proprietor of that Academy must select the person who will represent it on the schools forum.
+
+(3) Academies members representing special Academies must be elected to the schools forum by the proprietors of special Academies in the authority’s area.
+
+(4) Where there is only one special Academy in the authority’s area, the proprietor of that special Academy must select the person who will represent it on the schools forum.
+
+(5) Academies members representing alternative provision Academies must be elected to the schools forum by the proprietors of alternative provision Academies in the authority’s area.
+
+(6) Where there is only one alternative provision Academy in the authority’s area, the proprietor of that alternative provision Academy must select the person who will represent it on the schools forum.
+
+## 7. Non-schools members
+
+(1)[^key-8738d6f17efb0a98a85a59bcc9a6029d] The schools forum must include—
+
+- (a) where there is at least one 16 to 19 provider, at least one person to represent 16 to 19 providers, that person to be elected by representatives of the 16 to 19 providers, or if there is only one 16 to 19 provider, by the representatives of that provider; and
+- (b) one or more persons appointed by the authority to represent early years providers.
+
+(2) Subject to paragraph (3) and regulation 4(4), the authority may appoint additional non-schools members to their forum to represent the interests of other bodies.
+
+(3) Prior to making any appointment under paragraph (2), the authority must consider whether the following bodies should be represented on their forum—
+
+- (a) the Diocesan Board of Education for any diocese any part of which is situated in the authority's area;
+- (b) the Bishop of any Roman Catholic Diocese any part of which is situated in the authority's area;
+- (c) where there are any schools or Academies within the authority's area that are designated under section 69(3) of the Act [^c21365621] as having a religious character (other than Church of England or Roman Catholic schools), the appropriate faith group in respect of any such school or Academy.
+
+(4) The authority may not appoint any executive member or relevant officer of the authority to their forum as a non-schools member.
+
+(5) Within one month of the appointment of any non-schools member, the authority must inform the governing bodies of schools maintained by them and of Academies within their area of the name of the member and the name of the body that member represents.
+
+(6) In this Regulation “**relevant officer**” means—
+
+- (a) the director of children's services of the authority,
+- (b) any officer employed or engaged to work under the management of the director of children's services, other than one who directly provides education to children or who manages such a person, or
+- (c) any officer whose work involves management of, or advice on, school funding.
+
+## 8. Meetings and proceedings of schools forum
+
+(1) The schools forum must meet at least four times a year.
+
+(1A)[^M_F_0266a6d3-4812-418d-f02c-10f76c2cfffd] A meeting of the schools forum is not limited to a meeting of persons all of whom, or any of whom, are physically in the same place and includes meetings held through remote means.
+
+(2) All meetings of the schools forum must be public meetings.
+
+(2A)[^M_F_690d15b9-3b6a-4105-d32d-0f3b0def69a6] “ public meeting” includes a meeting of the schools forum that the public can access through remote means.
+
+(3) The meetings are quorate if at least two fifths of the total membership is present at the meeting.
+
+(3A)[^M_F_e9b519fe-d9b8-45a0-83f3-8dfea704281d] For the purposes of regulation 8(3) reference to being “present” at the meeting includes members being present through remote means. A member will not be considered to be present through remote means unless the conditions in 8(3B) are satisfied.
+
+(3B) A member accessing the meeting by remote means must be able to–
+
+- (a) hear and be heard by, and where practicable, see and be seen by any members present;
+- (b) be heard and, where practicable, seen by any members of the public at the meeting.
+
+(4) The following persons may speak at meetings of the forum, even though they are not members of the forum-
+
+- (a) the director of children's services at the authority or their representative;
+- (b) the chief finance officer at the authority or their representative;
+- (c) any elected member of the authority who has primary responsibility for children's services or education in the authority;
+- (d) any elected member of the authority who has primary responsibility for the resources of the authority;
+- (e) any person who is invited by the forum to attend in order to provide financial or technical advice to the forum;
+- (f) an observer appointed by the Secretary of State; and
+- (g) any person presenting a paper or other item to the forum that is on the meeting's agenda, but that person's right to speak shall be limited to matters related to the item that the person is presenting.
+
+(5) The members of the forum must elect a person as chair from among their number and determine the chair's term of office.
+
+(6) The members of the forum may not elect as chair any member of the forum who is an elected member or officer of the authority.
+
+(7) The chair of the forum must decide upon an agenda for the meeting of the forum following consultation with members of the forum.
+
+(8) The authority must make arrangements to enable substitutes to attend and vote at meetings of the forum on behalf of schools members, Academies members and non-schools members, in consultation with members of the forum.
+
+(9) Apart from as provided for by paragraphs (9A) to (10)[^key-019e001efb8eba225960f9684fbbfe0c] all members are entitled to vote on all matters put to a vote.
+
+(9A)[^M_F_22ec9edd-2704-4774-cf8b-c5af64e77099] Only the schools members of the schools forum who are representatives of primary schools may vote to decide whether or not to authorise the matters referred to in regulation 13(1)(d) of the School and Early Years Finance (England) Regulations 2026[^key-4c7dfcb11cc85f0b827f143a2946d951] where they relate to primary schools.
+
+(9B) Only the schools members of the schools forum who are representatives of secondary schools may vote to decide whether or not to authorise the matters referred to in regulation 13(1)(d) of the School and Early Years Finance (England) Regulations 2026[^key-28652034160d350c7645cf207a86aa8e] where they relate to secondary schools.
+
+(9C) Only the schools members of the schools forum who are listed in regulation 5(2)(b) to (e) may vote to decide whether or not to authorise the matters referred to in regulation 13(1)(e) of the School and Early Years Finance (England) Regulations 2026[^key-d76f6791a00516be4d6b648de9c9bf0a].
+
+(10) Non-schools members, other than those who represent early years providers, must not vote on matters relating to the formulae to be used by the local authority to determine the amounts to be allocated to schools and early years providers in accordance with regulations made under sections 47 and 47ZA of the Act.
+
+(11) Subject to paragraphs (8) to (10), the members of the forum may determine their own voting procedures.
+
+(12) The proceedings of the forum are not invalidated by—
+
+- (a) any vacancy among their number;
+- (b) any defect in the election or appointment of any member; or
+- (c) any defect in the election of the chair.
+
+(13) The authority must promptly publish all papers considered by the forum and the minutes of their meetings on their website.
+
+(14)[^M_F_dbc944d0-d872-4e15-a8a2-4ab294889248] “ Remote means” means access to a meeting to enable persons to attend or participate simultaneously by electronic means, including (but not limited to) telephone conferencing, video conferencing, live webcast, and live interactive streaming.
+
+## 9. Consultation on contracts
+
+The authority must consult the schools forum on the terms of any proposed contract for supplies or services (being a contract paid or to be paid out of the authority's schools budget[^c21365631]) where the estimated value of the proposed contract is not less than the threshold which applies to the authority for that proposed contract pursuant to section 3 of, and Schedule 1 to, the Procurement Act 2023[^key-18fd59fdcf6e378f5b538cf13e62ffd7] at least one month prior to the issue of invitations to tender.
+
+## 10. Consultation on financial issues
+
+(1) The authority must consult the schools forum annually in respect of the authority's functions relating to the schools budget, in connection with the following—
+
+- (a) arrangements for the education of pupils with special educational needs , and in particular—[^key-6f1753863fb6f1ba8ef81e2fb8633741]
+  - (i) the places to be commissioned by the local authority in different schools and other institutions, and
+  - (ii) the arrangements for paying top-up funding to schools and other institutions;
+- (b) arrangements for the use of pupil referral units and the education of children otherwise than at school , and in particular—[^key-5469dec1997c927c45c357dde4753a97]
+  - (i) the places to be commissioned by the authority and by schools in pupil referral units and other providers of alternative provision, and
+  - (ii) the arrangements for paying top-up funding to pupil referral units and other providers of alternative provision;
+- (c) arrangements for early years provision;
+- (d) administrative arrangements for the allocation of central government grants paid to schools via the authority.
+
+(2) The authority may consult the forum on such other matters concerning the funding of schools as they see fit.
+
+## 11. Information about consultations
+
+The schools forum must inform the governing bodies of schools maintained by the authority of any consultation carried out by the authority under regulation 9 or 10, as soon as it reasonably can.
+
+## 12. Charging of schools forum's expenses
+
+The authority must pay the expenses of the schools forum and charge those expenses to the schools budget.
+
+## 13. Members' expenses
+
+The authority must reimburse all reasonable expenses of members in connection with their attendance at meetings of the forum and charge those expenses to the schools budget.
+
+Jonathan Hill
+
+Parliamentary Under Secretary of State
+
+Department for Education
+
+*(This note is not part of the Regulations)*
+
+These Regulations revoke and replace the Schools Forums (England) Regulations 2010.
+
+Regulations 3 to 8 provide for the constitution of a schools forum in every local authority in England, including the election of schools members, the election or selection of Academies members and the appointment of non-schools members to the schools forum, their meetings and proceedings. The restriction on non-schools members voting, and the Secretary of State observer status, are new.
+
+Regulations 9 to 11 require the authority to consult their schools forum before entering into certain types of contract and annually in relation to a range of financial issues and the governing bodies of schools maintained by them to be informed of any such consultation.
+
+Regulations 12 and 13 require the authority to pay the expenses of their schools forum out of the schools budget and the reasonable expenses of its members.
+
+An impact assessment has not been produced for this instrument as no impact on the private sector or civil society organisations is foreseen. The impact on the public sector is minimal.
+
+## Annotations
+
+[^c21365551]: Marginal citation: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31). Section 47A was inserted by section 43 of the [Education Act 2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32) and has been amended by paragraph 7 of Schedule 16 to the [Education Act 2005 (c.18)](https://www.legislation.gov.uk/ukpga/2005/18); [paragraphs 2(1)](https://www.legislation.gov.uk/uksi/2012/2261/paragraph/2/1), (3) and (4) of Schedule 5 and Part 6 of Schedule 18 to the [Education and Inspections Act 2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40); [section 165](https://www.legislation.gov.uk/uksi/2012/2261/section/165) of and Schedule 2 to the [Education and Skills Act 2008 (c.25)](https://www.legislation.gov.uk/ukpga/2008/25), [section 194](https://www.legislation.gov.uk/ukpga/2008/25/section/194) of the [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22) and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). For the meaning of “prescribed” and “regulations” see [section 142(1)](https://www.legislation.gov.uk/uksi/2010/1158/section/142/1) of the School Standards and Framework Act 1998.
+
+[^key-9303bd14a797fb5d6a8593c2e040dbd0]: Textual amendment: Words in reg. 1(3) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/3/2)
+
+[^key-01aea7712c7c4fd3c91377b9d63dce22]: Textual amendment: Words in reg. 1(3) revoked (1.9.2014) by virtue of [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [41](https://www.legislation.gov.uk/uksi/2014/2103/article/41)
+
+[^key-f37bc84396e190b1d5920a8dee805bab]: Textual amendment: Words in reg. 1(3) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/2/a)
+
+[^c21365561]: Marginal citation: [2006 c.21](https://www.legislation.gov.uk/ukpga/2006/21).
+
+[^c21365571]: Marginal citation: [2006 c.40](https://www.legislation.gov.uk/ukpga/2006/40).
+
+[^key-096f06b7349a9049dc984beaafc5eac6]: Textual amendment: Words in reg. 1(3) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/2/b)
+
+[^key-5b57ac868adfd15053506c72685c0acc]: Textual amendment: Words in reg. 1(3) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/3/3)
+
+[^key-c2e167bc18d047b3f87489364ddd5d3b]: Textual amendment: Words in reg. 1(3) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/2/c)
+
+[^c21365581]: Marginal citation: Section 72(3) was amended by section 215(1) of, and paragraph 106 of Schedule 21 to, the Education Act 2002.
+
+[^c21365591]: Marginal citation: [S.I. 2010/344](https://www.legislation.gov.uk/uksi/2010/344), amended by [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172).
+
+[^key-e48ade18859dff2c6ea1838ebd9f6720]: Textual amendment: Words in reg. 4(2)(b) revoked (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/3)
+
+[^key-376d05a000f664ecffb5908ef787230f]: Textual amendment: Words in reg. 4(2)(c) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/3/4)
+
+[^key-4ff0b3fda57d94187f9fc3c29da2fdcf]: Textual amendment: Reg. 4(3) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/3/5)
+
+[^key-e269159891886889f74ee60c06c37ed0]: Textual amendment: Word in reg. 4(6) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/4)
+
+[^c21365601]: Marginal citation: “**Pupil referral units**” has the meaning given in section 19(2B) of the Education Act 1996.
+
+[^key-a7f8a2c8e04dde27e3dc254e0436dd45]: Textual amendment: Reg. 4(10A)-(10C) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/5)
+
+[^key-5ee6d0e6c461d40200063406c93dc18f]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/2261/regulation/6) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/6)
+
+[^key-8738d6f17efb0a98a85a59bcc9a6029d]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2012/2261/regulation/7/1) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2013/3104/regulation/3/6)
+
+[^c21365621]: Marginal citation: Section 69(3) also applies to independent schools (which includes Academies) by virtue of section 124B, which was inserted by regulations 2 and 3 of [S.I. 2003/2037](https://www.legislation.gov.uk/uksi/2003/2037).
+
+[^M_F_0266a6d3-4812-418d-f02c-10f76c2cfffd]: Textual amendment: Reg. 8(1A) inserted (18.6.2020) by virtue of [The Schools Forums (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/540)](https://www.legislation.gov.uk/uksi/2020/540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/540/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/540/regulation/2/2) (as amended (11.2.2021) by [S.I. 2021/59](https://www.legislation.gov.uk/uksi/2021/59), [regs. 1](https://www.legislation.gov.uk/uksi/2021/59/regulation/1), [35(2)(b)](https://www.legislation.gov.uk/uksi/2021/59/regulation/35/2/b))
+
+[^M_F_690d15b9-3b6a-4105-d32d-0f3b0def69a6]: Textual amendment: Reg. 8(2A) inserted (18.6.2020) by virtue of [The Schools Forums (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/540)](https://www.legislation.gov.uk/uksi/2020/540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/540/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/540/regulation/2/3) (as amended (11.2.2021) by [S.I. 2021/59](https://www.legislation.gov.uk/uksi/2021/59), [regs. 1](https://www.legislation.gov.uk/uksi/2021/59/regulation/1), [35(2)(b)](https://www.legislation.gov.uk/uksi/2021/59/regulation/35/2/b))
+
+[^M_F_e9b519fe-d9b8-45a0-83f3-8dfea704281d]: Textual amendment: Reg. 8(3A)(3B) inserted (18.6.2020) by virtue of [The Schools Forums (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/540)](https://www.legislation.gov.uk/uksi/2020/540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/540/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2020/540/regulation/2/4) (as amended (11.2.2021) by [S.I. 2021/59](https://www.legislation.gov.uk/uksi/2021/59), [regs. 1](https://www.legislation.gov.uk/uksi/2021/59/regulation/1), [35(2)(b)](https://www.legislation.gov.uk/uksi/2021/59/regulation/35/2/b))
+
+[^key-019e001efb8eba225960f9684fbbfe0c]: Textual amendment: Words in reg. 8(9) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2012 (S.I. 2012/2991)](https://www.legislation.gov.uk/uksi/2012/2991), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2991/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2012/2991/regulation/3/2/a)
+
+[^M_F_22ec9edd-2704-4774-cf8b-c5af64e77099]: Textual amendment: Reg. 8(9A)-(9C) substituted for reg. 8(9A)(9B) (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2017 (S.I. 2017/44)](https://www.legislation.gov.uk/uksi/2017/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/44/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2017/44/regulation/3)
+
+[^key-4c7dfcb11cc85f0b827f143a2946d951]: Textual amendment: Words in [reg. 8(9A)](https://www.legislation.gov.uk/uksi/2012/2261/regulation/8/9A) substituted (11.2.2026) by [The School and Early Years Finance (England) Regulations 2026 (S.I. 2026/37)](https://www.legislation.gov.uk/uksi/2026/37), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2026/37/regulation/4/a)
+
+[^key-28652034160d350c7645cf207a86aa8e]: Textual amendment: Words in [reg. 8(9B)](https://www.legislation.gov.uk/uksi/2012/2261/regulation/8/9B) substituted (11.2.2026) by [The School and Early Years Finance (England) Regulations 2026 (S.I. 2026/37)](https://www.legislation.gov.uk/uksi/2026/37), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2026/37/regulation/4/a)
+
+[^key-d76f6791a00516be4d6b648de9c9bf0a]: Textual amendment: Words in [reg. 8(9C)](https://www.legislation.gov.uk/uksi/2012/2261/regulation/8/9C) substituted (11.2.2026) by [The School and Early Years Finance (England) Regulations 2026 (S.I. 2026/37)](https://www.legislation.gov.uk/uksi/2026/37), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2026/37/regulation/4/b)
+
+[^M_F_dbc944d0-d872-4e15-a8a2-4ab294889248]: Textual amendment: Reg. 8(14) inserted (18.6.2020) by virtue of [The Schools Forums (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/540)](https://www.legislation.gov.uk/uksi/2020/540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/540/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2020/540/regulation/2/5) (as amended (11.2.2021) by [S.I. 2021/59](https://www.legislation.gov.uk/uksi/2021/59), [regs. 1](https://www.legislation.gov.uk/uksi/2021/59/regulation/1), [35(2)(b)](https://www.legislation.gov.uk/uksi/2021/59/regulation/35/2/b))
+
+[^c21365631]: Marginal citation: “**Schools budget**” has the meaning given in section 45A(2) of the Schools Standards and Framework Act 1998.
+
+[^key-18fd59fdcf6e378f5b538cf13e62ffd7]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2012/2261/regulation/9) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/16/2)
+
+[^key-6f1753863fb6f1ba8ef81e2fb8633741]: Textual amendment: Words in reg. 10(1)(a) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/7)
+
+[^key-5469dec1997c927c45c357dde4753a97]: Textual amendment: Words in reg. 10(1)(b) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/3/8)

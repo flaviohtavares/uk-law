@@ -1,0 +1,1475 @@
+---
+title: The Employment Appeal Tribunal Rules 1993
+id: uksi/1993/2854
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1993-11-23'
+text_date: '2026-03-02'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1993/2854
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1993/2854/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Employment Appeal Tribunal Rules 1993
+
+> Text as at 2026-03-02.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1993 No. 2854
+
+INDUSTRIAL TRIBUNALS
+
+The Employment Appeal Tribunal Rules 1993
+
+Made
+
+23rd November 1993
+
+Laid before Parliament
+
+24th November 1993
+
+Coming into force
+
+16th December 1993
+
+The Lord Chancellor, in exercise of the powers conferred on him by section 154(3) of and paragraphs 17(1), 18, 18A(1) and 19(1) of Schedule 11 to the Employment Protection (Consolidation) Act 1978[^f00001], and of all other powers enabling him in that behalf, after consultation with the Lord President of the Court of Session, hereby makes the following Rules:—
+
+## 1. Citation and commencement[^key-500e318e7fe0af2b57c973b779aa65f9]
+
+(1) These Rules may be cited as the Employment Appeal Tribunal Rules 1993 and shall come into force on 16th December 1993.
+
+(2) As from that date the Employment Appeal Tribunal Rules 1980[^f00002], the Employment Appeal Tribunal (Amendment) Rules 1985[^f00003] and the Employment Appeal Tribunal (Amendment) Rules 1988[^f00004] shall be revoked.
+
+## 2. Interpretation[^key-69ec7e5c63589856aa9809d913b2d67f]
+
+(1) In these rules—
+
+- “the 1992 Act” means the Trade Union and Labour Relations (Consolidation) Act 1992;
+- “the 1996 Act” means the Employment Tribunals Act 1996;
+- “the 1999 Regulations” means the Transnational Information and Consultation of Employees Regulations 1999;
+- “the 2004 Regulations” means the European and Public Limited-Liability Company Regulations 2004;[^key-e8fdfdcf036f1323b8c5032d14dcf580]
+- “[^key-524c595a12f07449aa4607d700cdad67]**the Information and Consultation Regulations**” means the Information and Consultation of Employees Regulations 2004;
+- [^key-149793d7bf4e1f32a7d51cb8388ba11c]...
+- “the Appeal Tribunal” means the Employment Appeal Tribunal established under section 87 of the Employment Protection Act 1975 and continued in existence under section 20(1) of the 1996 Act and includes the President, a judge, a member or the Registrar acting on behalf of the Tribunal;
+- “the CAC” means the Central Arbitration Committee;
+- “the Certification Officer” means the person appointed to be the Certification Officer under section 254(2) of the 1992 Act;
+- “costs officer” means any officer of the Appeal Tribunal authorised by the President to assess costs or expenses;
+- “Crown employment proceedings” has the meaning given by section 10(8) of the 1996 Act;
+- “document” includes a document delivered by way of electronic communication;[^key-9e67024086866168ec93dbaf43157cdb]
+- “electronic communication” shall have the meaning given to it by section 15(1) of the Electronic Communications Act 2000;
+- “excluded person” means, in relation to any proceedings, a person who has been excluded from all or part of the proceedings by virtue of—
+  - (a) a direction of a Minister of the Crown under rule 30A(1)(b) or (c); or
+  - (b) an order of the Appeal Tribunal under rule 30A(2)(a) read with rule 30A(1)(b) or (c);
+- “[^key-85ee897cb01fbc3a6e1056c78272b0c0]**full reasons**” has the meaning given in rule 60(7) of the Procedure Rules
+- “judge” means a judge of the Appeal Tribunal nominated under section 22(1)(a) or (b) of the 1996 Act and includes a judge nominated under section 23(2) of, or a judge appointed under section 24(1) of, the 1996 Act to be a temporary additional judge of the Appeal Tribunal;
+- “[^key-3c88f672e2f0143a453f1b77991ed5c0]**legal representative**” means a person, including a person who is a party’s employee, who—
+  - (a) for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation within the meaning of that Act;
+  - (b) is an advocate or solicitor (as defined by section 65(1) of the Solicitors (Scotland) Act 1980 in Scotland; or
+  - (c) is a member of the Bar of Northern Ireland or a Solicitor of the Court of Judicature of Northern Ireland;
+- “member” means a member of the Appeal Tribunal appointed under section 22(1)(c) of the 1996 Act and includes a member appointed under section 23(3) of the 1996 Act to act temporarily in the place of a member appointed under that section;
+- “[^key-8d6f72fea1bc2275a2bc3fd0bbc297c5]**national security proceedings**” means proceedings in which a direction or order under rule 93 of the Procedure Rules[^key-e6ba38547d0bab312e6ad575e051d239] is in force;
+- “[^key-62bc8e1991466f07147c6f090ed7210f]**practice direction**” means a direction given under section 29A of the 1996 Act;
+- “the President” means the judge appointed under section 22(3) of the 1996 Act to be President of the Appeal Tribunal and includes a judge nominated under section 23(1) of the 1996 Act to act temporarily in his place;
+- “[^key-bbd1968eb8454155eb495d79f7660dc0]**the Procedure Rules**” means the Employment Tribunal Procedure Rules 2024;
+- “the Registrar” means the person appointed to be Registrar of the Appeal Tribunal and includes any officer of the Tribunal authorised by the President to act on behalf of the Registrar;
+- “the Secretary of Employment Tribunals” means the person acting for the time being as the Secretary of the Central Office of the Employment Tribunals (England and Wales) or, as may be appropriate, of the Central Office of the Employment Tribunals (Scotland);
+- “special advocate” means a person appointed pursuant to rule 30A(4);
+- “[^key-9e7e17d284ce46332067709702e5c30a]**summary reasons**” has the meaning given in rule 60(7) of the Procedure Rules;
+- “writing” includes writing delivered by means of electronic communication[^key-90142e1135a277c9eca1967d4820b56d].
+
+(2)[^key-fe032ba5ad654b75053fb5754ae75026] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Any reference in these Rules to a person who was the claimant[^key-3c1abc47f0c1018e56bdb8012b532cfa] or, as the case may be, the respondent in the proceedings before an employment tribunal includes, where those proceedings are still continuing, a reference to a person who is the claimant or, as the case may be, is the respondent in those proceedings.
+
+## 2A. Overriding Objective[^key-2df260c99e1f7532caf827fd43789989]
+
+(1) The overriding objective of these Rules is to enable the Appeal Tribunal to deal with cases justly.
+
+(2) Dealing with a case justly includes, so far as practicable –
+
+- (a) ensuring that the parties are on an equal footing;
+- (b) dealing with the case in ways which are proportionate to the importance and complexity of the issues;
+- (c) ensuring that it is dealt with expeditiously and fairly; and
+- (d) saving expense.
+
+(3) The parties shall assist the Appeal Tribunal to further the overriding objective.
+
+## 3. Institution of Appeal[^key-b72500bc5a2ab03cf22ddae8fee918a5]
+
+(1) Every appeal to the Appeal Tribunal shall, subject to paragraphs (2) and (4), be instituted by serving on the Tribunal the following documents—
+
+- (a) a notice of appeal in, or substantially in, accordance with Form 1, 1A or 2 in the Schedule to these rules;
+- (b)[^key-c06f06b589e54169a94843a0e0c19acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-2f428d22cf5384cfde9544faf60f0644] in the case of an appeal from a judgment of an employment tribunal a copy of the written record of the judgment of the employment tribunal which is subject to appeal and the written full reasons[^key-5cc8e2944eac07651c774afcd2fd3f0b] for the judgment, or an explanation as to why written full reasons are not included;
+- (d) in the case of an appeal made pursuant to regulation 38(8) of the 1999 Regulations or regulation 47(6) of the 2004 Regulations[^key-cd02127b9e3ff0a178b21eb287fe7585] or regulation 35(6) of the Information and Consultation Regulations[^key-a3c504603c159526527588823604236a] [^key-37ca7e5ce89556ce4b522349a7aadae9]... from a declaration or order of the CAC, a copy of that declaration or order ; and[^key-7cdfcf2140aab4401bfb018a83763609]
+- (e)[^key-4a75a324193a54b2b81e2c55ee8be6a5] in the case of an appeal from an order of an employment tribunal a copy of the written record of the order of the employment tribunal which is subject to appeal and (if available) the written reasons for the order;
+- (f) in the case of an appeal from a decision or order of the Certification Officer a copy of the decision or order of the Certification Officer which is subject to appeal and the written reasons for that decision or order.
+
+(2)[^key-35a6f2879b0f0f61a1063acfa1df7103] In an appeal from a judgment or order of the employment tribunal in relation to national security proceedings where the appellant was the claimant—
+
+- (i)[^key-c9fde6c37bf74e42e87da063d1542c59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ii) the appellant shall not be required by virtue of paragraph (1)(c) or (e) to serve on the Appeal Tribunal a copy of the written full reasons[^key-3ed063b0eb04e9079bf101443d884e09] for the judgment or written reasons for the order, if the written full reasons or the written reasons (as the case may be),[^key-c01a76f1b175f71d50fd67c01e3bba23] were not sent to the appellant but if a document containing edited reasons was sent to the appellant, he shall serve a copy of that document on the Appeal Tribunal.
+
+(3) The period within which an appeal to the Appeal Tribunal may be instituted is—
+
+- (a)[^key-039f28aa50c63ebb95ea3152f2033c26] in the case of an appeal from a judgment of the employment tribunal—
+  - (i) where the written full reasons[^key-c8ca2f234c1ad164f126d651bf8d3566] for the judgment subject to appeal—
+    - (aa) were requested orally at the hearing before the employment tribunal or in writing within the period specified in paragraph (4C) or (4D)(b) (as the case may be) of rule 60 of the Procedure Rules[^key-b167d0fc28b0db39255f40288d84e5e7]; [^key-3d325cd5809b76ca2a511c60465ced43]...
+    - (bb) were reserved and given in writing by the employment tribunal ; or[^key-5b75716c0f8bdd4415b7236e96dc3eef]
+    - (cc) were provided under paragraph (4E) of rule 60 of the Procedure Rules
+
+    42 days from the date on which the written full reasons[^key-f2368c79c8dbd8165518b9775abf9691] were sent to the parties;
+  - (ii) in an appeal from a judgment given in relation to national security proceedings, where there is a document containing edited reasons for the judgment subject to appeal, 42 days from the date on which that document was sent to the parties; or
+  - (iii) where the written full reasons[^key-f4586d535291d3a2c1b0ed3b7ec5a20f] for the judgment subject to appeal—
+    - (aa) were not requested orally at the hearing before the employment tribunal or in writing within the period specified in paragraph (4C) or (4D)(b) (as the case may be) of rule 60 of the Procedure Rules[^key-95516ed50f26634ed361ddebd040e02a]; [^key-b3181249ad29343202617b4098726e99]...
+    - (bb) were not reserved and given in writing by the employment tribunal ; and[^key-01331f603a0c87898d24cf5eb5d93820]
+    - (cc) were not provided under paragraph (4E) of rule 60 of the Procedure Rules
+
+    42 days from the date on which the written record of the judgment was sent to the parties;
+- (b)[^key-a8a8d71a7512935e02b9b1bf77455a62] in the case of an appeal from an order of an employment tribunal, 42 days from the date of the order;
+- (c) in the case of an appeal from a decision of the Certification Officer, 42 days from the date on which the written record of that decision was sent to the appellant;
+- (d) in the case of an appeal from a declaration or order of the CAC under regulation 38(8) of the 1999 Regulations or regulation 47(6) of the 2004 Regulations[^key-21c77ba03684b60ec033719b10776468] or regulation 35(6) of the Information and Consultation Regulations[^key-f2419579cbac00b486bc7da9b58b4499] or regulation 57(6) of the 2007 Regulations[^key-a5398ec912673836e25e52c15a6c05f2], 42 days from the date on which the written notification of that declaration or order was sent to the appellant.
+
+(4) In the case of an appeal from a judgment or order of the employment tribunal in relation to national security proceedings[^key-1ea599ba6cbfc31730b8e00aab549a98], the appellant shall not set out the grounds of appeal in his notice of appeal and shall not append to his notice of appeal the written full reasons or (if any) written summary reasons[^key-8b8cd75ac668155a95fd538e114e015e][^key-2b9d1edd71cd2a24e63f747507b6e06a] for the judgment of the tribunal.
+
+(5) In an appeal from the employment tribunal in relation to national security proceedings[^key-2593c0f9ff2d72c8d9d3ade55729616d] in relation to which the appellant was the respondent in the proceedings before the employment tribunal, the appellant shall, within the period described in paragraph (3)(a), provide to the Appeal Tribunal a document setting out the grounds on which the appeal is brought.
+
+(6) In an appeal from the employment tribunal in relation to national security proceedings[^key-6d9e4243720a5ae933992ca30851d0c4] in relation to which the appellant was the claimant[^key-aba17ca10672303c48cb2991d1b26a71] in the proceedings before the employment tribunal—
+
+- (a) the appellant may, within the period described in paragraph 3(a)(ii) or (iii) or paragraph 3(b), whichever is applicable,[^key-c5589a4ce9b989dd4e2da6190f0c54b6] provide to the Appeal Tribunal a document setting out the grounds on which the appeal is brought; and
+- (b) a special advocate appointed in respect of the appellant may, within the period described in paragraph 3(a)(ii) or (iii) or paragraph 3(b), whichever is applicable,[^key-2a550d7ee079ecba2860259820db9937] or within 21 days of his appointment, whichever is later, provide to the Appeal Tribunal a document setting out the grounds on which the appeal is brought or providing supplementary grounds of appeal.
+
+(7)[^key-dfd2d249cc3cf60c2211936120c6e8f2] Where it appears to the Appeal Tribunal[^key-33a154179b8953ced60f1b84a729a210] or the Registrar that a notice of appeal or a document provided under paragraph (5) or (6)—
+
+- (a) discloses no reasonable grounds for bringing the appeal; or
+- (b) is an abuse of the Appeal Tribunal’s process or is otherwise likely to obstruct the just disposal of proceedings,
+
+the Appeal Tribunal or the Registrar shall notify[^key-6d4932e47dd1676f8ea9f6d1d074bfde] the Appellant or special advocate accordingly informing him of the reasons for its opinion[^key-9b0589a5ad57b67a441d4fed9593fa91] and, subject to paragraph (10)[^key-e5e61fa97cc43e724c08e6bdc295e295], no further action shall be taken on the notice of appeal or document provided under paragraph (5) or (6).
+
+(7ZA)[^key-9f63c8d7a1105e749a61d1d0d51cf946] Where the Appeal Tribunal[^key-31e99f8646946239113f8050d982d096] or the Registrar has taken a decision under paragraph (7), and also considers that the notice of appeal or document provided under paragraph (5) or (6) is totally without merit, the Appeal Tribunal[^key-8c000a5a5fdbcb9e4af64ae7d35c1578] or Registrar may order that the appellant or special advocate is not entitled to have the matter heard before the Appeal Tribunal under paragraph (10), with such order to be included as part of the notice issued under paragraph (7).
+
+(7A)[^key-f28a0d63d149c0c66a9743be7d842fa6] In paragraphs (7) , (7ZA)[^key-c8574ab41fba4e3492809f32a12b4228] and (10) reference to a notice of appeal or a document provided under paragraph (5) or (6) includes reference to part of a notice of appeal or document provided under paragraph (5) or (6).
+
+(8)[^key-efe8b3bfbb98e19eab4b4175bfae25d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-efe8b3bfbb98e19eab4b4175bfae25d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-50f5eb856055d8c148d9ecc9b0e199b3] Subject to paragraph (7ZA), where[^key-d467cc0059af5c62058310bece90985c] notification has been given under paragraph (7) and within 28 days of the date the notification was sent, an appellant or special advocate expresses dissatisfaction in writing with the reasons given by the Appeal Tribunal or Registrar for their[^key-341d6a4ee93daaeb902b64f399673424] opinion, he is entitled to have the matter heard before the Appeal Tribunal which[^key-07537ca18bc751956867b34f0ca7f4cc] shall make a direction as to whether any further action should be taken on the notice of appeal or document under paragraph (5) or (6).
+
+## 4. Service of notice of appeal[^key-42f7d5edf47a540274798c3fb0ff4123]
+
+(1)[^key-70ea28134c8a82eea7c4a5f7537bfff1] On receipt of notice under rule 3, the Registrar shall seal the notice with the Appeal Tribunal’s seal and shall serve a sealed copy on the appellant and on—
+
+- (a) every person who, in accordance with rule 5, is a respondent to the appeal; and
+- (b) The Secretary of Industrial Tribunals in the case of an appeal from an industrial tribunal; or
+- (c) the Certification Officer in the case of an appeal from any of his decisions; or
+- (d) the Secretary of State in the case of an appeal under [^key-be9af42bea518aac7b6d61b0779b7a24]... Chapter II of Part IV of the 1992 Act or Part XI of the Employment Rights Act 1996[^key-7e7051297b4d80208666b3c9500a9a99] to which he is not a respondent ; or[^key-3a057fa2880d6e916bf19e2cec834f7d]
+- (e) the Chairman of the CAC in the case of an appeal from the CAC under regulation 38(8) of the 1999 Regulations or regulation 47(6) of the 2004 Regulations[^key-3f300c73ff467117c54587348c0e6504] or regulation 35(6) of the Information and Consultation Regulations[^key-1de098e815da202856568e9367d2deac] [^key-47b900fec1b2fe4baf31b1db8a30005a]....
+
+(2) On receipt of a document provided under rule 3(5)—
+
+- (a) the Registrar shall not send the document to a person in respect of whom a Minister of the Crown has informed the Registrar that he wishes to address the Appeal Tribunal in accordance with rule 30A(3) with a view to the Appeal Tribunal making an order applicable to this stage of the proceedings under rule 30A(2)(a) read with 30A(1)(b) or (c) (exclusion of a party or his representative), at any time before the Appeal Tribunal decides whether or not to make such an order; but if it decides not to make such an order, the Registrar shall, subject to sub-paragraph (b), send the document to such a person 14 days after the Appeal Tribunal’s decision not to make the order; and
+- (b) the Registrar shall not send a copy of the document to an excluded person, but if a special advocate is appointed in respect of such a person, the Registrar shall send a copy of the document to the special advocate.
+
+(3) On receipt of a document provided under rule 3(6)(a) or (b), the Registrar shall not send a copy of the document to an excluded person, but shall send a copy of the document to the respondent.
+
+## 5. Respondents to appeals[^key-ab750c012536d9626d694902fed80b23]
+
+The respondents to an appeal shall be—
+
+- (a) in the case of an appeal from an industrial tribunal or of an appeal made pursuant to section 45D, 56A, 95, 104 or 108C[^key-28d6130c4b0de9fa09f833fe741eecf3] of the 1992 Act from a decision of the Certification Officer, the parties (other than the appellant) to the proceedings before the industrial tribunal or the Certification Officer;
+- (b) in the case of an appeal made pursuant to section 9 or 126[^key-9b2b673a14fb3895af465268e77b949f] of the 1992 Act from a decision of the Certification Officer, that Officer;
+- (c)[^key-4c1fafed3092e1702268b34b350ddde1] in the case of an appeal made pursuant to regulation 38(8) of the 1999 Regulations or regulation 47(6) of the 2004 Regulations[^key-f7333b66f7312157a26e622d1ba9bcfd] or regulation 35(6) of the Information and Consultation Regulations[^key-80e20eb06f1bb39583ebba4355e4767a] [^key-c5eeea857309049f5be4d5311b886f8b]... from a declaration or order of the CAC, the parties (other than the appellant) to the proceedings before the CAC.
+
+## 6. Respondent’s answer and notice of cross-appeal[^key-ec3606b8cad9fd1b7a658b1e9da6f875]
+
+(1) The Registrar shall, as soon as practicable, notify every respondent of the date appointed by the Appeal Tribunal by which any answer under this rule must be delivered.
+
+(2) A respondent who wishes to resist an appeal shall, subject to paragraph (6), and[^key-1e42a27112c5e6ea30d7bd4c98d0668f] within the time appointed under paragraph (1) of this rule, deliver to the Appeal Tribunal an answer in writing in, or substantially in, accordance with Form 3 in the Schedule to these Rules, setting out the grounds on which he relies, so, however, that it shall be sufficient for a respondent to an appeal referred to in rule 5(a) or 5(c)[^key-0ef7acb93774c542342fd57611c68c8c] who wishes to rely on any ground which is the same as a ground relied on by the industrial tribunal , the Certification Officer or the CAC[^key-1506397fbb052b6e211a1e2ff4774004] for making the judgment,[^key-2679689c12245b70d6ba7103c2706c94] decision , declaration[^key-27cf9faa8a92416b0fb048557591e7cd] or order appealed from to state that fact in his answer.
+
+(3) A respondent who wishes to cross-appeal may subject to paragraph (6),[^key-0d5ec52b241c713d639a657df7074774] do so by including in his answer a statement of the grounds of his cross-appeal, and in that event an appellant who wishes to resist the cross-appeal shall, within a time to be appointed by the Appeal Tribunal, deliver to the Tribunal a reply in writing setting out the grounds on which he relies.
+
+(4) The Registrar shall serve a copy of every answer and reply to a cross-appeal on every party other than the party by whom it was delivered.
+
+(5) Where the respondent does not wish to resist an appeal, the parties may deliver to the Appeal Tribunal an agreed draft of an order allowing the appeal and the Tribunal may, if it thinks it right to do so, make an order allowing the appeal in the terms agreed.
+
+(6)[^key-60000f99e0a35151966d5a76a07ad511] In an appeal from the employment tribunal in relation to national security proceedings[^key-13fc1d83de0c18bb73dd02c6d274eff7], the respondent shall not set out the grounds on which he relies in his answer to an appeal, nor include in his answer a statement of the grounds of any cross-appeal.
+
+(7) In an appeal from the employment tribunal in relation to national security proceedings[^key-31bfe927eb9b09b7bf3eeb912c6b5522] in relation to which the respondent was not the claimant[^key-8885c3315fdaf88150cb937b46e5706f] in the proceedings before the employment tribunal, the respondent shall, within the time appointed under paragraph (1), provide to the Registrar a document, setting out the grounds on which he intends to resist the appeal, and may include in that document a statement of the grounds of any cross-appeal.
+
+(8) In an appeal from the employment tribunal in relation to national security proceedings[^key-c34dd675bb3b23dd865e8195fd09d855] in relation to which the respondent was the claimant[^key-08b8b6b20033e78447bee4e303ca404f] in the proceedings before the employment tribunal—
+
+- (a) the respondent may, within the time appointed under paragraph (1) provide to the Registrar a document, setting out the grounds on which he intends to resist the appeal, and may include in that document a statement of the grounds of any cross-appeal; and
+- (b) a special advocate appointed in respect of the respondent may, within the time appointed under paragraph (1), or within 21 days of his appointment, whichever is the later, provide to the Registrar a document, setting out the grounds, or the supplementary grounds, on which the respondent intends to resist the appeal, and may include in that document a statement of the grounds, or the supplementary grounds, of any cross-appeal.
+
+(9) In an appeal from the employment tribunal in relation to national security proceedings[^key-71ada53de8b93e734c7e8c14cf2d7299], if the respondent, or any special advocate appointed in respect of a respondent, provides in the document containing grounds for resisting an appeal a statement of grounds of cross-appeal and the appellant wishes to resist the cross-appeal—
+
+- (a) where the appellant was not the claimant[^key-ff7820b46fd26a3a85da876691c69df9] in the proceedings before the employment tribunal, the appellant shall within a time to be appointed by the Appeal Tribunal deliver to the Tribunal a reply in writing setting out the grounds on which he relies; and
+- (b) where the appellant was the claimant in the proceedings before the employment tribunal, the appellant, or any special advocate appointed in respect of him, may within a time to be appointed by the Appeal Tribunal deliver to the Tribunal a reply in writing setting out the grounds on which the appellant relies.
+
+(10) Any document provided under paragraph (7) or (9)(a) shall be treated by the Registrar in accordance with rule 4(2), as though it were a document received under rule 3(5).
+
+(11) Any document provided under paragraph (8) or (9)(b) shall be treated by the Registrar in accordance with rule 4(3), as though it were a document received under rule 3(6)(a) or (b).
+
+(12)[^key-809c3fd1d20b728bbf8fb9ff415b15e4] Where it appears to the Appeal Tribunal[^key-5901140332637f1a37083ba16bd24cde] or the Registrar that a statement of grounds of cross-appeal contained in the[^key-feaabfe3eb4485089069952dad9e9aca] respondent’s answer or document provided under paragraph (7) or (8)—
+
+- (a) discloses no reasonable grounds for bringing the cross-appeal; or
+- (b) is an abuse of the Appeal Tribunal’s process or is otherwise likely to obstruct the just disposal of proceedings,
+
+the Appeal Tribunal or the Registrar shall notify[^key-11d375e1ce77b00d0aae81bbd0e67e46] the respondent[^key-b0c3a3729839ec55e4003b67ce9c2836] or special advocate accordingly informing him of the reasons for its opinion[^key-33c63520db954b7364ecb40ad2d9e9e1] and, subject to paragraph (16)[^key-2ff1bca827616f0e9a0b8095d41aa859], no further action shall be taken on the statement of grounds of cross-appeal.
+
+(12A)[^key-f136ccc879be7f497b2949236d0a21b5] Where the Appeal Tribunal[^key-bbd0b9e27e70b1fabd8a11e2c6d1846e] or the Registrar has taken a decision under paragraph (12), and also considers that the statement of grounds of cross-appeal contained in the respondent’s answer or document provided under paragraph (7) or (8) is totally without merit, the Appeal Tribunal[^key-30b4230ce185f0b95757b0ce03d4018b] or Registrar may order that the respondent is not entitled to have the matter heard before the Appeal Tribunal under paragraph (16), with such order to be included as part of the notice issued under paragraph (12).
+
+(13) In paragraphs (12) , (12A)[^key-6ba495bfb9a99c44702862f36328aec2] and (16) reference to a statement of grounds of cross-appeal includes reference to part of a statement of grounds of cross-appeal.
+
+(14)[^key-38e9ca51f1c2531a09311db76161ce2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(15)[^key-38e9ca51f1c2531a09311db76161ce2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(16) Subject to paragraph (12A), where[^key-0a643efcf4789161dc6984d486d5dff3] notification has been given under paragraph (12) and within 28 days of the date the notification was sent, a respondent or special advocate expresses dissatisfaction in writing with the reasons given by the Appeal Tribunal[^key-733e1bb18bc63610855c5d981e7c4fb3] or Registrar for his opinion, he is entitled to have the matter heard before the Appeal Tribunal which[^key-0ab9902ee2da432bacf98b7ddc02bf29] shall make a direction as to whether any further action should be taken on the statement of grounds of cross-appeal.
+
+## 7. Disposal of appeal[^key-09f3bc41809eb49f1d21e4bb1f43b2e7]
+
+(1) The Registrar shall, as soon as practicable, give notice of the arrangements made by the Appeal Tribunal for hearing the appeal to —
+
+- (a) every party to the proceedings; and
+- (b) the Secretary of Industrial Tribunals in the case of an appeal from an industrial tribunal; or
+- (c) the Certification Officer in the case of an appeal from one of his decisions; or
+- (d) the Secretary of State in the case of an appeal under Part XI of the Employment Rights Act 1996[^key-f29c82206e394014fc815333a81371d4] or Chapter II of Part IV of the 1992 Act to which he is not a respondent ; or[^key-97fab8278ccd45670c1da83a182b169d]
+- (e) the Chairman of the CAC in the case of an appeal from a declaration or order of, or arising in any proceedings before, the CAC under regulation 38(8) of the 1999 Regulations or regulation 47(6) of the 2004 Regulations[^key-bc624f166a01bb41697f633cf827f077] or regulation 35(6) of the Information and Consultation Regulations[^key-98f3bbee6561791c0504ae3b1227d590] [^key-57ff8012fa62ec8f2ce444e9825b161e]....
+
+(2) Any such notice shall state the date appointed by the Appeal Tribunal by which any interim[^key-be681886a6d852581afb7314da3f053f] application must be made.
+
+## 8. Application in respect of exclusion or expulsion from, or unjustifiable discipline by, a trade union[^key-69227eb0bb9b6c2e53ff042768e2f6f2]
+
+Every application under section 67 or 176 of the 1992 Act[^f00010] to the Appeal Tribunal for:
+
+- (a) an award of compensation for exclusion or expulsion from a trade union; or
+- (b) one or both of the following, that is to say —
+  - (i) an award of compensation for unjustifiable discipline;
+  - (ii) an order that the union pay to the applicant an amount equal to any sum which he has paid in pursuance of any such determination as is mentioned in section 64(2)(b) of the 1992 Act; shall be made in writing in, or substantially in, accordance with Form 4 in the Schedule to these Rules and shall be served on the Appeal Tribunal together with a copy of the decision or order declaring that the applicant’s complaint against the trade union was well-founded.
+
+**9.**[^key-981a88400e93d5274ba13f9678f7051a] If on receipt of an application under rule 8(a) it becomes clear that at the time the application was made the applicant had been admitted or re-admitted to membership of the union against which the complaint was made, the Registrar shall forward the application to the Central Office of Industrial Tribunals.
+
+## 10. Service of application under rule 8[^key-1405fa01baef7d82706151a84b067064]
+
+On receipt of an application under rule 8, the Registrar shall seal it with the Appeal Tribunal’s seal and shall serve a sealed copy on the applicant and on the respondent trade union and the Secretary of Industrial Tribunals.
+
+## 11. Appearance by respondent trade union[^key-a510f9bf2f8060f1761a3ffa1967c6f8]
+
+(1) Subject to paragraph (2) of this rule, a respondent trade union wishing to resist an application under rule 8 shall within 14 days of receiving the sealed copy of the application enter an appearance in, or substantially in, accordance with Form 5 in the Schedule to these Rules and setting out the grounds on which the union relies.
+
+(2) Paragraph (1) above shall not require a respondent trade union to enter an appearance where the application is before the Appeal Tribunal by virtue of having been transferred there by an industrial tribunal and, prior to that transfer, the respondent had entered an appearance to the proceedings before the industrial tribunal.
+
+**12.**[^key-70f493f7da411406301f3cf2f8f0bdf5] On receipt of the notice of appearance under rule 11 the Registrar shall serve a copy of it on the applicant.
+
+## 13. Application for restriction of proceedings order[^key-4963a4dd57c2d234c1b6c0a03adbb39c]
+
+Every application to the Appeal Tribunal by the Attorney General or the Lord Advocate under section 33 of the 1996 Act[^key-76dc430c134c9ccdd30fc2d2da32b3be] for a restriction of proceedings order shall be made in writing in, or substantially in, accordance with Form 6 in the Schedule to these Rules, accompanied by an affidavit in support, and shall be served on the Tribunal.
+
+## 14. Service of application under rule 13[^key-e2cee3ad14b43ddd6879f775562f9506][^key-39b72f63f0b88e7ffac6c41e5b135d7f]
+
+On receipt of an application under rule 13, the Registrar shall seal it with the Appeal Tribunal’s seal and shall serve a sealed copy on the Attorney General or the Lord Advocate, as the case may be, on the Secretary of Industrial Tribunals and on the person named in the application.
+
+## 15. Appearance by person named in application under rule 13[^key-b4673c3c09858e13f2b1fd37ad486369]
+
+A person named in an application under rule 13 who wishes to resist the application shall within 14 days of receiving the sealed copy of the application enter an appearance in, or substantially in, accordance with Form 7 in the Schedule to these Rules, accompanied by an affidavit in support.
+
+**16.**[^key-2ee63f097d025ef0635615a4d7aec238][^M_C_eba0431a-5b88-4701-90c1-3b4a06a99d88] On receipt of the notice of appearance under rule 15 the Registrar shall serve a copy of it on the Attorney General or the Lord Advocate, as the case may be.
+
+## 16A. Complaints under regulations 20 and 21 of the 1999 Regulations[^key-64e0d1721645cf46e90817d16a9c7abb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 16AA. Applications under regulation 33(6) of the 2004 Regulations[^key-b73367fe402d88a2ecdf32c8cfd92dca]
+
+Every application under regulation 33(6) of the 2004 Regulations or regulation 22(6) of the Information and Consultation Regulations[^key-cd404340daf074e6d7e4786d2e99721e] [^key-3ae9baed96ce3e06bf97ca0ce78390a7]... or regulation 20(7), 21(6) or 21A(5) of the 1999 Regulations[^key-c7a8e18be391e09e7df5c3d66416ea43] shall be made by way of application in writing in, or substantially in, accordance with Form 4B in the Schedule to these Rules and shall be served on the Appeal Tribunal together with a copy of the declaration referred to in regulation 33(4) of the 2004 Regulations or regulation 22(4) of the Information and Consultation Regulations[^key-2fc474f6f56fd03dc7d584a54157edf0] [^key-3ae9baed96ce3e06bf97ca0ce78390a7]... or the decision referred to in regulation 20(4), 21(4) or 21A(3) of the 1999 Regulations, or an explanation as to why none is included.
+
+## 16B. Service of application under rule 16AA[^key-417a3186edd46912a11b2687a63e4efa]
+
+On receipt of an application under rule 16AA, the Registrar shall seal it with the Appeal Tribunal’s seal and shall serve a sealed copy on the applicant and on the respondent.
+
+## 16C. Appearance by respondent[^key-ff859955f54f961be9b1c52af36a4b55]
+
+A respondent wishing to resist an application under rule [^key-55fa2d0af4d4bc6f390c6b127cefcf71]... 16AA[^key-73bfb4d1e62ad348615534e83623f399] shall within 14 days of receiving the sealed copy of the application enter an appearance in, or substantially in, accordance with Form 5A in the Schedule to these Rules and setting out the grounds on which the respondent relies.
+
+**16D.** On receipt of the notice of appearance under rule 16C the Registrar shall serve a copy of it on the applicant.
+
+## 17. Disposal of application[^key-eaefbb5385afa1baa64ae09b694cf77c]
+
+(1) The Registrar shall, as soon as practicable, give notice to the parties to an application under rule 8 ,13[^key-c86cc254a0a9a3cd312b7c2419b175ba] [^key-e1c865ab52e21e13f5f53b1d4abe7efb]... or 16AA[^key-040a00290d8a0b989156b10caa52fe7d] of the arrangements made by the Appeal Tribunal for hearing the application.
+
+(2) Any such notice shall state the date appointed by the Appeal Tribunal by which any interim[^key-4b538a4a8413ae5d702669c401273e6e] application must be made.
+
+## 17A. Non-payment of fee[^key-fc2cd2675963522dac521d841a1c2865]
+
+(1) The Registrar must strike out an appeal, and must notify each party that the appeal has been struck out, where—
+
+- (a) upon receipt of a notice of appeal, or following a direction by the Appeal Tribunal that a matter proceed to an oral hearing, the Lord Chancellor has issued a notice to an appellant specifying that a fee is payable; and
+- (b) the appellant has not paid the fee or presented a remission application on or before the date specified in that notice.
+
+(2) Where an appeal has been struck out under paragraph (1), the appeal may be reinstated by the Registrar if—
+
+- (a) the appellant applies to have the appeal reinstated; and
+- (b) the fee specified in the Lord Chancellor’s notice has been paid or a remission application has been presented and accepted.
+
+(3) The Registrar must strike out an appeal, and must notify each party that the appeal has been struck out, where—
+
+- (a) after consideration of a remission application the Lord Chancellor has issued a notice to an appellant specifying that a fee is payable; and
+- (b) the appellant has not paid the fee on or before the date specified in that notice.
+
+(4) Where an appeal has been struck out under paragraph (3) the appeal may be reinstated by the Registrar if—
+
+- (a) the appellant applies to have the appeal reinstated; and
+- (b) the fee specified in the Lord Chancellor’s notice has been paid.
+
+(5) An application for reinstatement under paragraph (2) or (4) is deemed to be an interim application for the purposes of rule 20.
+
+## 18. Joinder of parties[^key-8025c62a826ba8c5bb489faad35c10ee]
+
+The Appeal Tribunal may, on the application of any person or of its own motion, direct that any person not already a party to the proceedings be added as a party, or that any party to proceedings shall cease to be a party, and in either case may give such consequential directions as it considers necessary.
+
+## 19. Interlocutory applications[^key-9091f985c1ae1ad9df0de636fb2a6af3]
+
+(1) An interim[^key-eb8cef3f158a487d57acfeb9f23d589b] application may be made to the Appeal Tribunal by giving notice in writing specifying the direction or order sought.
+
+(2) On receipt of a notice under paragraph (1) of this rule, the Registrar shall serve a copy on every other party to the proceedings who appears to him to be concerned in the matter to which the notice relates and shall notify the applicant and every such party of the arrangements made by the Appeal Tribunal for disposing of the application.
+
+## 20. Disposal of interim applications[^key-84990a3bbde57d6434a31944129ab3a5][^key-e281726d0460cd090ac91f7c1400f941]
+
+(1) Every interim application made to the Appeal Tribunal shall be considered in the first place by the Registrar who shall have regard to rule 2A (the overriding objective) and, where applicable, to rule 23(5).
+
+(2) Subject to sub-paragraphs (3) and (4), every interim application shall be disposed of by the Registrar except that any matter which he thinks should properly be decided by the Appeal Tribunal[^key-fbaf7dc6e2396b392446581e428484d3] shall be referred by him to the Appeal Tribunal, which[^key-604b79794ba98abd93e7532b25c10bd9] may dispose of it [^key-9bf5681683575d536b88648f509d7f43]... or refer it back to the Registrar with such directions as it[^key-275a81ddf9474e80a192404171a4b757] thinks fit.
+
+(3) Every interim application for a restricted reporting order shall be disposed of by the Appeal Tribunal[^key-9824df4d33354491906fee685cacc830].
+
+(4) Every interim application for permission to institute or continue or to make a claim or application in any proceedings before an employment tribunal or the Appeal Tribunal, pursuant to section 33(4) of the 1996 Act, shall be disposed of by the Appeal Tribunal[^key-aec07bc66cdcdad9154da0cc6986cc48].
+
+## 21. Appeals from Registrar[^key-401d4f3d0ffad38761d06f58b1e1426a]
+
+(1) Where an application is disposed of by the Registrar in pursuance of rule 20(2) any party aggrieved by his decision may appeal to the Appeal Tribunal[^key-aff364b55b96458012c779fec9f74b39].
+
+(2) Notice of appeal under paragraph (1) of this rule may be given to the Appeal Tribunal, either orally or in writing, within five days of the decision appealed from and the Registrar shall notify every other party who appears to him to be concerned in the appeal and shall inform every such party and the appellant of the arrangements made by the Tribunal for disposing of the appeal.
+
+## 22. Hearing of interim applications[^key-dcdc1cc5d19598b215d4b6811ca59cad][^key-2763e68d44382e141bd074bce4ad9348]
+
+(1) The Appeal Tribunal may, subject to any direction of a Minister of the Crown under rule 30A(1) or order of the Appeal Tribunal under rule 30A(2)(a) read with rule 30A(1),[^key-898a27a7f568cc773c4d469af3e17865] and, where applicable, to rule 23(6), sit either in private or in public for the hearing of any interim application.
+
+(2)[^key-f3c0b6d47f34946400455fb7f4b8cd5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 23. Cases involving allegations of sexual misconduct or the commission of sexual offences[^key-d0aa3c5e6a9bf0a9efa85f482475aebe]
+
+(1) This rule applies to any proceedings to which section 31 of the 1996 Act[^key-27649e41e46ade56de2e76bbd8c0a89e] applies.
+
+(2) In any such proceedings where the appeal appears to involve allegations of the commission of a sexual offence, the Registrar shall omit from any register kept by the Appeal Tribunal, which is available to the public, or delete from any order, judgment or other document, which is available to the public, any identifying matter which is likely to lead members of the public to identify any person affected by or making such an allegation.
+
+(3) In any proceedings to which this rule applies where the appeal involves allegations of sexual misconduct the Appeal Tribunal may at any time before promulgation of its decision either on the application of a party or of its own motion make a restricted reporting order having effect, if not revoked earlier by the Appeal Tribunal, until the promulgation of its decision.
+
+(4) A restricted reporting order shall specify the persons who may not be identified.
+
+(5)[^key-0c7b32c825f29c89333670c052548aac] Subject to paragraph (5A) the Appeal Tribunal shall not make a full restricted reporting order unless it has given each party to the proceedings an opportunity to advance oral argument at a hearing, if they so wish.
+
+(5A)[^key-b97497f6bbe38acbe8799aeba0811b7b] The Appeal Tribunal may make a temporary restricted reporting order without a hearing.
+
+(5B) Where a temporary restricted reporting order has been made the Registrar shall inform the parties to the proceedings in writing as soon as possible of:
+
+- (a) the fact that the order has been made; and
+- (b) their right to apply to have the temporary restricted reporting order revoked or converted into a full restricted reporting order within 14 days of the temporary order being made.
+
+(5C) If no such application is made under subparagraph (5B)(b) within the 14 days, the temporary restricted reporting order shall lapse and cease to have any effect on the fifteenth day after it was made. When such an application is made the temporary restricted reporting order shall continue to have effect until the Hearing at which the application is considered.
+
+(6) Any [^key-8af45fbabb11f96c6fc0612bbe0cc40a]... hearing shall, subject to any direction of a Minister of the Crown under rule 30A(1) or order of the Appeal Tribunal under rule 30A(2)(a) read with rule 30A(1),[^key-b3e2f41bc8604c808b8a72ba9cac9c65] or unless the Appeal Tribunal decides for any of the reasons mentioned in rule 29(2) to sit in private to hear evidence, be held in public.
+
+(7) The Appeal Tribunal may revoke a restricted reporting order at any time where it thinks fit.
+
+(8) Where the Appeal Tribunal makes a restricted reporting order, the Registrar shall ensure that a notice of that fact is displayed on the notice board of the Appeal Tribunal at the office in which the proceedings in question are being dealt with, on the door of the room in which those proceedings are taking place and with any list of the proceedings taking place before the Appeal Tribunal.
+
+(9) In this rule, “promulgation of its decision” means the date recorded as being the date on which the Appeal Tribunal’s order finally disposing of the appeal is sent to the parties.
+
+## 23A. Restricted reporting orders in disability cases[^key-63c9c22bc89d4aebfa5e519f3fd33269]
+
+(1) This rule applies to proceedings to which section 32(1) of the 1996 Act[^key-5b4e28bc12206979fba36f4a9f7deda4] applies.
+
+(2) In proceedings to which this rule applies the Appeal Tribunal may, on the application of the complainant or of its own motion, make a restricted reporting order having effect, if not revoked earlier by the Appeal Tribunal, until the promulgation of its decision.
+
+(3) Where the Appeal Tribunal makes a restricted reporting order under paragraph (2) of this rule in relation to an appeal which is being dealt with by the Appeal Tribunal together with any other proceedings, the Appeal Tribunal may direct that the order is to apply also in relation to those other proceedings or such part of them as it may direct.
+
+(4) Paragraphs (5) to (9) of rule 23 apply in relation to the making of a restricted reporting order under this rule as they apply in relation to the making of a restricted reporting order under that rule.
+
+## 24. Appointment for direction[^key-24b42a36d5f96e32f3b807ef77fe3667]
+
+(1) Where it appears to the Appeal Tribunal that the future conduct of any proceedings would thereby be facilitated, the Tribunal may (either of its own motion or on application) at any stage in the proceedings appoint a date for a meeting for directions as to their future conduct and thereupon the following provisions of this rule shall apply.
+
+(2) The Registrar shall give to every party in the proceedings notice of the date appointed under paragraph (1) of this rule and any party applying for directions shall, if practicable, before that date give to the Appeal Tribunal particulars of any direction for which he asks.
+
+(3) The Registrar shall take such steps as may be practicable to inform every party of any directions applied for by any other party.
+
+(4) On the date appointed under paragraph (1) of this rule, the Appeal Tribunal shall consider every application for directions made by any party and any written representations relating to the application submitted to the Tribunal and shall give such directions as it thinks fit for the purpose of securing the just, expeditious and economical disposal of the proceedings, including, where appropriate, directions in pursuance of rule 36, for the purpose of ensuring that the parties are enabled to avail themselves of opportunities for conciliation.
+
+(5) Without prejudice to the generality of paragraph (4) of this rule, the Appeal Tribunal may give such directions as it thinks fit as to —
+
+- (a) the amendment of any notice, answer or other document;
+- (b) the admission of any facts or documents;
+- (c) the admission in evidence of any documents;
+- (d) the mode in which evidence is to be given at the hearing;
+- (e) the consolidation of the proceedings with any other proceedings pending before the Tribunal;
+- (f) the place and date of the hearing.
+
+(6) An application for further directions or for the variation of any directions already given may be made in accordance with rule 19.
+
+## 25. Appeal Tribunal’s power to give directions[^key-5af94ab29c23820bff0b8cae6b0897f9]
+
+The Appeal Tribunal may either of its own motion or on application, at any stage of the proceedings, give any party directions as to any steps to be taken by him in relation to the proceedings.
+
+## 26. Default by parties[^key-6db72ef327e4be9e077a4d735b7a3628]
+
+(1)[^key-cb355cf92f7b53e2a1e3663d41180e01] If a respondent to any proceedings fails to deliver an answer or, in the case of an application made under section 67 or 176 of the 1992 Act , section 33 of the 1996 Act[^key-14f69dd64f146395709a4f75c0c93778] ,[^key-32cf3317d7d9e4d3ac0b437478ed4ce2] regulation 20, 21 or 21A of the 1999 Regulations[^key-325d07f8edd1a1e191a62b268d489086] [^key-51610b2a97496d80da33e94708e04afe]... regulation 33 of the 2004 Regulations[^key-39613dd48131e89d07be811946ca9f85] or[^key-2122977a3682419d3ab51aa1e22de58f] [^key-52f07864ee7d900852abccc579d8f7c5]... regulation 22 of the Information and Consultation Regulations[^key-24e337f46c0a994e98ab991db2242126] [^key-c0906de362f98981d4e7ac5d99516445]..., a notice of appearance within the time appointed under these Rules, or if any party fails to comply with an order or direction of the Appeal Tribunal, the Tribunal may order that he be debarred from taking any further part in the proceedings, or may make such other order as it thinks just.
+
+(2)[^key-093b4ac50c7e669fe9d59c8407edf255] An order made by the Appeal Tribunal under paragraph (1) may include, but is not limited to, an order that all or part of an appeal or answer is to be struck out.
+
+(3) An appeal or answer, or part of an appeal or answer, may not be struck out unless the party in question has been given a reasonable opportunity to make representations, either in writing, or if requested by the party, at a hearing.
+
+## 27. Attendance of witnesses and production of documents[^key-a4f6e6721cab20fb1a8750a75851e3b0]
+
+(1) The Appeal Tribunal may, on the application of any party, order any person to attend before the Tribunal as a witness or to produce any document.
+
+(1A)[^key-176e86be8abae4784f1732a4e89d967d] Where—
+
+- (a) a Minister has at any stage issued a direction under rule 30A(1)(b) or (c) (exclusion of a party or his representative), or the Appeal Tribunal has at any stage made an order under rule 30A(2)(a) read with rule 30A(1)(b) or (c); and
+- (b) the Appeal Tribunal is considering whether to impose, or has imposed, a requirement under paragraph (1) on any person, the Minister (whether or not he is a party to the proceedings) may make an application to the Appeal Tribunal objecting to the imposition of a requirement under paragraph (1) or, where a requirement has been imposed, an application to vary or set aside the requirement, as the case may be. The Appeal Tribunal shall hear and determine the Minister’s application in private and the Minister shall be entitled to address the Appeal Tribunal thereon. The application shall be made by notice to the Registrar and the Registrar shall give notice of the application to each party.
+
+(2) No person to whom an order is directed under paragraph (1) of this rule shall be treated as having failed to obey that order unless at the time at which the order was served on him there was tendered to him a sufficient sum of money to cover his costs of attending before the Appeal Tribunal.
+
+## 28. Oaths[^key-9e7e5f0424d8f14b5a964af1c558c0ee]
+
+The Appeal Tribunal may, either of its own motion or on application, require any evidence to be given on oath.
+
+## 29. Oral hearings[^key-8d088a83602558c24fa6f7fc47e7af91]
+
+(1) Subject to paragraph (2) of this rule and to any direction of a Minister of the Crown under rule 30A(1)(a) or order of the Appeal Tribunal under rule 30A(2)(a) read with rule 30A(1)(a),[^key-9849eeeab27571b0f85a2c37e84f5df8], an oral hearing at which any proceedings before the Appeal Tribunal are finally disposed of shall take place in public [^key-48c636f3b088f1f4f78a621dd2cfbaa0]....
+
+(2)[^key-3cf39b51c925f22a0fc761206ec4ce81] Notwithstanding paragraph (1), the Appeal Tribunal may sit in private for the purpose of hearing evidence from any person which in the opinion of the Tribunal is likely to consist of—
+
+- (a) information which he could not disclose without contravening a prohibition imposed by or by virtue of any enactment;
+- (b) information which has been communicated to him in confidence or which he has otherwise obtained in consequence of the confidence reposed in him by another person; or
+- (c) information the disclosure of which would, for reasons other than its effect on negotiations with respect to any of the matters mentioned in section 178(2) of the 1992 Act, cause substantial injury to any undertaking of his or in which he works.
+
+(3)[^key-84a77fa8960e28e2f4805858cc345b2c] Any oral hearing may be conducted, in whole or in part, by use of electronic communication (including by telephone) provided that the Appeal Tribunal considers that it would be just and equitable to do so and provided that the parties and members of the public attending the hearing are able to hear what the Appeal Tribunal hears and see any witness as seen by the Appeal Tribunal.
+
+## 30. Duty of Appeal Tribunal concerning disclosure of information[^key-24cb3af4b8a1de6d98c4b05ee81d1e97]
+
+When exercising its functions, the Appeal Tribunal shall ensure that information is not disclosed contrary to the interests of national security.
+
+## 30A. Proceedings in cases concerning national security
+
+(1) A Minister of the Crown (whether or not he is a party to the proceedings) may, if he considers it expedient in the interests of national security, direct the Appeal Tribunal by notice to the Registrar to—
+
+- (a) sit in private for all or part of particular Crown employment proceedings;
+- (b) exclude any party who was the claimant[^key-c23802f644bab1eb5d8b3ebb9679861b] in the proceedings before the employment tribunal from all or part of particular Crown employment proceedings;
+- (c) exclude the representatives of any party who was the claimant in the proceedings before the employment tribunal from all or part of particular Crown employment proceedings;
+- (d) take steps to conceal the identity of a particular witness in particular Crown employment proceedings.
+
+(2) The Appeal Tribunal may, if it considers it expedient in the interests of national security, by order—
+
+- (a) do in relation to particular proceedings before it[^key-c7eda826242cbceb950e1bfe29d1fc78] anything of a kind which the Appeal Tribunal can be required to do in relation to particular Crown employment proceedings[^key-9b0b4a7c86caebc3b43a509153c24ff3] by direction under paragraph (1) of this rule;
+- (b) direct any person to whom any document (including any decision or record of the proceedings) has been provided for the purposes of the proceedings not to disclose any such document or the content thereof—
+  - (i) to any excluded person;
+  - (ii) in any case in which a direction has been given under paragraph (1)(a) or an order has been made under paragraph (2)(a) read with paragraph (1)(a), to any person excluded from all or part of the proceedings by virtue of such direction or order; or
+  - (iii) in any case in which a Minister of the Crown has informed the Registrar in accordance with paragraph (3) that he wishes to address the Appeal Tribunal with a view to the Tribunal making an order under paragraph (2)(a) read with paragraph (1)(b) or (c), to any person who may be excluded from all or part of the proceedings by virtue of such an order, if an order is made, at any time before the Appeal Tribunal decides whether or not to make such an order;
+- (c) take steps to keep secret all or part of the reasons for any order it makes.
+
+The Appeal Tribunal shall keep under review any order it makes under this paragraph.
+
+(3) In any proceedings in which a Minister of the Crown considers that it would be appropriate for the Appeal Tribunal to make an order as referred to in paragraph (2), he shall (whether or not he is a party to the proceedings) be entitled to appear before and to address the Appeal Tribunal thereon. The Minister shall inform the Registrar by notice that he wishes to address the Appeal Tribunal and the Registrar shall copy the notice to the parties.
+
+(4) In any proceedings in which there is an excluded person, the Appeal Tribunal shall inform the Attorney General or, in the case of an appeal from an employment tribunal in Scotland, the Advocate General for Scotland, of the proceedings before it with a view to the Attorney General (or, as the case may be, the Advocate General), if he thinks it fit to do so, appointing a special advocate to represent the interests of the person who was the claimant in the proceedings before the employment tribunal in respect of those parts of the proceedings from which—
+
+- (a) any representative of his is excluded;
+- (b) both he and his representative are excluded; or
+- (c) he is excluded, where he does not have a representative.
+
+(5) A special advocate shall have a general qualification within the meaning of section 71 of the Courts and Legal Services Act 1990, or, in the case of an appeal from an employment tribunal in Scotland, shall be—
+
+- (a) an advocate; or
+- (b) a solicitor who has by virtue of section 25A of the Solicitors (Scotland) Act 1980 rights of audience in the Court of Session or the High Court of Justiciary.
+
+(6) Where the excluded person is a party to the proceedings, he shall be permitted to make a statement to the Appeal Tribunal before the commencement of the proceedings, or the part of the proceedings, from which he is excluded.
+
+(7) Except in accordance with paragraphs (8) to (10), the special advocate may not communicate directly or indirectly with any person (including an excluded person)—
+
+- (a) (except in the case of the Appeal Tribunal or the party who was the respondent in the proceedings before the employment tribunal) on any matter contained in the documents referred to in rule 3(5), 3(6), 6(7) or 6(8)(b); or
+- (b) (except in the case of a person who was present) on any matter discussed or referred to during any part of the proceedings in which the Appeal Tribunal sat in private pursuant to a direction of the Minister under paragraph (1)(a) or an order of the Appeal Tribunal under paragraph (2)(a) read with paragraph (1)(a).
+
+(8) The special advocate may apply for directions from the Appeal Tribunal authorising him to seek instructions from, or otherwise to communicate with, an excluded person—
+
+- (a) on any matter contained in the documents referred to in rule 3(5), 3(6), 6(7) or 6(8)(b); or
+- (b) on any matter discussed or referred to during any part of the proceedings in which the Appeal Tribunal sat in private as referred to in paragraph (7)(b).
+
+(9) An application under paragraph (8) shall be made by presenting to the Registrar a notice of application, which shall state the title of the proceedings and set out the grounds of the application.
+
+(10) The Registrar shall notify the Minister of an application for directions under paragraph (8) and the Minister shall be entitled to address the Appeal Tribunal on the application.
+
+(11) In these rules, in any case in which a special advocate has been appointed in respect of a party, any reference to a party shall (save in those references specified in paragraph (12)) include the special advocate.
+
+(12) The references mentioned in paragraph (11) are those in rules 5 and 18, the first and second references in rule 27(1A), paragraphs (1) and (6) of this rule, the first reference in paragraph (3) of this rule, rule 34(1), the reference in item 4 of Form 1, and in item 4 of Form 1A, in the Schedule to these Rules.
+
+## 31. Drawing up, reasons for, and enforcement of orders[^key-d1e26a405a77e7786c120deb49e46e05]
+
+(1) Every order of the Appeal Tribunal shall be drawn up by the Registrar and a copy, sealed with the seal of the Tribunal, shall be served by the Registrar on every party to the proceedings to which it relates and—
+
+- (a) in the case of an order disposing of an appeal from an industrial tribunal or of an order under section 33 of the 1996 Act[^key-2975e35abdcc39a7ef7169f40a2caae2], on the Secretary of the Industrial Tribunals; [^key-b5358ab96025c71820e0172b22c4529b]...
+- (b) in the case of an order disposing of an appeal from the Certification Officer, on that Officer;
+- (c)[^key-308ba947e4e9b657aba7869e4a87721c] in the case of an order imposing a penalty notice under regulation 20, 21 or 21A of the 1999 Regulations[^key-9dfe37a8cfc0a2fdfa72aa8a02a48d65] [^key-e6db979608618681bd7f25f83162f955]... regulation 33 of the 2004 Regulations[^key-85f4d3359cb09ef41932e83b61720094] or[^key-eb6c0796e9fca5e933d5064ddf3cc0fd] [^key-40390ef5e4677be210a7af5d20bf28b5]... regulation 22 of the Information and Consultation Regulations[^key-2025a9980ba1d6fa06995e851c71cef8] [^key-3ff9249cc085f5d4e5a63029c5d3f417]..., on the Secretary of State; or
+- (d) in the case of an order disposing of an appeal from the CAC made under regulation 38(8) of the 1999 Regulations, on the Chairman of the CAC.
+
+(2) Subject to rule 31A,[^key-2ee3961433dbbce70955283c31dee42a] the Appeal Tribunal shall, on the application of any party made within 14 days after the making of an order finally disposing of any proceedings, give its reasons in writing for the order unless it was made after the delivery of a reasoned judgment.
+
+(3) Subject to any order made by the Court of Appeal or Court of Session and to any directions given by the Appeal Tribunal, an appeal from the Tribunal shall not suspend the enforcement of any order made by it.
+
+## 31A. Reasons for orders in cases concerning national security[^key-b4880a421d47b15546e91389c5aafb45]
+
+(1) Paragraphs (1) to (5) of this rule apply to the document setting out the reasons for the Appeal Tribunal’s order prepared under rule 31(2) or any reasoned judgment of the Appeal Tribunal as referred to in rule 31(2), in any particular Crown employment proceedings in which a direction of a Minister of the Crown has been given under rule 30A(1)(a), (b) or (c) or an order of the Appeal Tribunal has been made under rule 30A(2)(a) read with rule 30A(1)(a), (b) or (c).
+
+(2) Before the Appeal Tribunal gives its reasons in writing for any order or delivers any reasoned judgment, the Registrar shall send a copy of the reasons or judgment to the Minister.
+
+(3) If the Minister considers it expedient in the interests of national security, he may—
+
+- (a) direct the Appeal Tribunal that the document containing its reasons for any order or its reasoned judgment shall not be disclosed to any person who was excluded from all or part of the proceedings and to prepare a further document setting out the reasons for its order, or a further reasoned judgment, but with the omission of such reasons as are specified in the direction; or
+- (b) direct the Appeal Tribunal that the document containing its reasons for any order or its reasoned judgment shall not be disclosed to any person who was excluded from all or part of the proceedings, but that no further document setting out the Appeal Tribunal’s reasons for its order or further reasoned judgment should be prepared.
+
+(4) Where the Minister has directed the Appeal Tribunal in accordance with paragraph (3)(a), the document prepared pursuant to that direction shall be marked in each place where an omission has been made. The document may then be given by the Registrar to the parties.
+
+(5) The Registrar shall send the document prepared pursuant to a direction of the Minister in accordance with paragraph (3)(a) and the full document without the omissions made pursuant to that direction—
+
+- (a) to whichever of the appellant and the respondent was not the claimant[^key-15c2c01be72db500fd8ddcec42e6eb3b] in the proceedings before the employment tribunal;
+- (b) if he was not an excluded person, to the person who was the claimant in the proceedings before the employment tribunal and, if he was not an excluded person, to his representative;
+- (c) if applicable, to the special advocate; and
+- (d) where there are proceedings before a superior court relating to the order in question, to that court.
+
+(6) Where the Appeal Tribunal intends to take steps under rule 30A(2)(c) to keep secret all or part of the reasons for any order it makes, it shall send the full reasons for its order to the persons listed in sub-paragraphs (a) to (d) of paragraph (5), as appropriate.
+
+## 32. Registration and proof of awards in respect of exclusion or expulsion from, or unjustifiable discipline by, a trade union[^key-38510bc160cb9ad0b729ea9b5ccf4d97]
+
+(1) This rule applies where an application has been made to the Appeal Tribunal under section 67 or 176 of the 1992 Act.
+
+(2) Without prejudice to rule 31, where the Appeal Tribunal makes an order in respect of an application to which this rule applies, and that order—
+
+- (a) makes an award of compensation, or
+- (b) is or includes an order of the kind referred to in rule 8(b)(ii),
+
+or both, the Registrar shall as soon as may be enter a copy of the order, sealed with the seal of the Tribunal, into a register kept by the Tribunal (in this rule referred to as “the Register”).
+
+(3) The production in any proceedings in any court of a document, purporting to be certified by the Registrar to be a true copy of an entry in the Register of an order to which this rule applies shall, unless the contrary is proved, be sufficient evidence of the document and of the facts stated therein.
+
+## 33. Review of decisions and correction of errors[^key-9228bbf0fbb5fa601a1507516ce7d39c]
+
+(1) The Appeal Tribunal may, either of its own motion or on application, review any order made by it and may, on such review, revoke or vary that order on the grounds that—
+
+- (a) the order was wrongly made as the result of an error on the part of the Tribunal or its staff;
+- (b) a party did not receive proper notice of the proceedings leading to the order; or
+- (c) the interests of justice require such review.
+
+(2) An application under paragraph (1) above shall be made within 14 days of the date of the order.
+
+(3) A clerical mistake in any order arising from an accidental slip or omission may at any time be corrected by, or on the authority of, the Appeal Tribunal[^key-94a2bda92a7f5cb2150f934880ae75b0].
+
+(4)[^key-84699aeab693945c9b69d773ea12712c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 34. General power to make costs or expenses orders[^key-64bdaafc9a0efd4b4f0a0a25c701e094]
+
+(1) In the circumstances listed in rule 34A the Appeal Tribunal may make an order (“a costs order”) that a party or a special advocate, (“the paying party”) make a payment in respect of the costs incurred by another party or a special advocate (“the receiving party”).
+
+(2) For the purposes of these Rules “costs” includes fees, charges, disbursements and expenses incurred by or on behalf of a party or special advocate in relation to the proceedings, including the reimbursement allowed to a litigant in person under rule 34D. In Scotland, all references to costs or costs orders (except in the expression “wasted costs”) shall be read as references to expenses or orders for expenses.
+
+(3) A costs order may be made against or in favour of a respondent who has not had an answer accepted in the proceedings in relation to the conduct of any part which he has taken in the proceedings.
+
+(4) A party or special advocate may apply to the Appeal Tribunal for a costs order to be made at any time during the proceedings. An application may also be made at the end of a hearing, or in writing to the Registrar within 14 days of the date on which the order of the Appeal Tribunal finally disposing of the proceedings was sent to the parties.
+
+(5) No costs order shall be made unless the Registrar has sent notice to the party or special advocate against whom the order may be made giving him the opportunity to give reasons why the order should not be made. This paragraph shall not be taken to require the Registrar to send notice to the party or special advocate if the party or special advocate has been given an opportunity to give reasons orally to the Appeal Tribunal as to why the order should not be made.
+
+(6) Where the Appeal Tribunal makes a costs order it shall provide written reasons for doing so if a request for written reasons is made within 21 days of the date of the costs order. The Registrar shall send a copy of the written reasons to all the parties to the proceedings.
+
+## 34A. When a costs or expenses order may be made[^key-6ad721c4e77e86a69ae5db86611fac55]
+
+(1) Where it appears to the Appeal Tribunal that any proceedings brought by the paying party were unnecessary, improper, vexatious or misconceived or that there has been unreasonable delay or other unreasonable conduct in the bringing or conducting of proceedings by the paying party, the Appeal Tribunal may make a costs order against the paying party.
+
+(2) The Appeal Tribunal may in particular make a costs order against the paying party when—
+
+- (a) he has not complied with a direction of the Appeal Tribunal;
+- (b) he has amended its notice of appeal, document provided under rule 3 sub- paragraphs (5) or (6), Respondent’s answer or statement of grounds of cross-appeal, or document provided under rule 6 sub-paragraphs (7) or (8); or
+- (c) he has caused an adjournment of proceedings.
+
+(2A)[^key-046ad5e64e92515bb9a2e38ef3186e98] If the Appeal Tribunal allows an appeal, in full or in part, it may make a costs order against the respondent specifying the respondent pay to the appellant an amount no greater than any fee paid by the appellant under a notice issued by the Lord Chancellor.
+
+(3) Nothing in paragraph (2) or (2A)[^key-fb25ecad5a591840a51f63825164149d] shall restrict the Appeal Tribunal’s discretion to award costs under paragraph (1).
+
+## 34B. The amount of a costs or expenses order
+
+(1) Subject to sub-paragraphs (2) and (3) the amount of a costs order against the paying party can be determined in the following ways:
+
+- (a) the Appeal Tribunal may specify the sum which the paying party must pay to the receiving party;
+- (b) the parties may agree on a sum to be paid by the paying party to the receiving party and if they do so the costs order shall be for the sum agreed; or
+- (c) the Appeal Tribunal may order the paying party to pay the receiving party the whole or a specified part of the costs of the receiving party with the amount to be paid being determined by way of detailed assessment in the High Court in accordance with the Civil Procedure Rules 1998 or in Scotland the Appeal Tribunal may direct that it be taxed by the Auditor of the Court of Session, from whose decision an appeal shall lie to a judge.
+
+(2) The Appeal Tribunal may have regard to the paying party’s ability to pay when considering the amount of a costs order.
+
+(3) The costs of an assisted person in England and Wales shall be determined by detailed assessment in accordance with the Civil Procedure Rules.
+
+## 34C. Personal liability of representatives for costs
+
+(1) The Appeal Tribunal may make a wasted costs order against a party’s representative.
+
+(2) In a wasted costs order the Appeal Tribunal may disallow or order the representative of a party to meet the whole or part of any wasted costs of any party, including an order that the representative repay to his client any costs which have already been paid.
+
+(3) “Wasted costs” means any costs incurred by a party (including the representative’s own client and any party who does not have a legal representative):
+
+- (a) as a result of any improper, unreasonable or negligent act or omission on the part of any representative; or
+- (b) which, in the light of any such act or omission occurring after they were incurred, the Appeal Tribunal considers it reasonable to expect that party to pay.
+
+(4) In this rule “representative” means a party’s legal or other representative or any employee of such representative [^key-1a8b358a2cf1323a139618fdf765742b]...
+
+(5) Before making a wasted costs order, the Appeal Tribunal shall give the representative a reasonable opportunity to make oral or written representations as to reasons why such an order should not be made. The Appeal Tribunal may also have regard to the representative’s ability to pay when considering whether it shall make a wasted costs order or how much that order should be.
+
+(6) When the Appeal Tribunal makes a wasted costs order, it must specify in the order the amount to be disallowed or paid.
+
+(7) The Registrar shall inform the representative’s client in writing—
+
+- (a) of any proceedings under this rule; or
+- (b) of any order made under this rule against the party’s representative.
+
+(8) Where the Appeal Tribunal makes a wasted costs order it shall provide written reasons for doing so if a request is made for written reasons within 21 days of the date of the wasted costs order. The Registrar shall send a copy of the written reasons to all parties to the proceedings.
+
+## 34D. Litigants in person and party litigants
+
+(1) This rule applies where the Appeal Tribunal makes a costs order in favour of a party who is a litigant in person.
+
+(2) The costs allowed under this rule must not exceed, except in the case of a disbursement, two-thirds of the amount which would have been allowed if the litigant in person had been represented by a legal representative.
+
+(3) The litigant in person shall be allowed —
+
+- (a) costs for the same categories of—
+  - (i) work; and
+  - (ii) disbursements,
+
+  which would have been allowed if the work had been done or the disbursements had been made by a legal representative on the litigant in person’s behalf;
+- (b) the payments reasonably made by him for legal services relating to the conduct of the proceedings;
+- (c) the costs of obtaining expert assistance in assessing the costs claim; and
+- (d) other expenses incurred by him in relation to the proceedings.
+
+(4) The amount of costs to be allowed to the litigant in person for any item of work claimed shall be—
+
+- (a) where the litigant in person can prove financial loss, the amount that he can prove he had lost for the time reasonably spent on doing the work; or
+- (b) where the litigant in person cannot prove financial loss, an amount for the time which the Tribunal considers reasonably spent on doing the work at the rate of £25.00 per hour;
+
+(5) For the year commencing 6th April 2006 the hourly rate of £25.00 shall be increased by the sum of £1.00 and for each subsequent year commencing on 6 April, the hourly rate for the previous year shall also be increased by the sum of £1.00.
+
+(6) A litigant in person who is allowed costs for attending at court to conduct his case is not entitled to a witness allowance in respect of such attendance in addition to those costs.
+
+(7) For the purpose of this rule, a litigant in person includes—
+
+- (a) a company or other corporation which is acting without a legal representative; and
+- (b)[^key-2228592e68feb2526850400d9360f212] a legal representative, who is acting for themselves.
+- (c)[^key-8c3d233bf76b7dbfb7915f283d296b5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) In the application of this rule to Scotland, references to a litigant in person shall be read as references to a party litigant.
+
+## 35. Service of documents[^key-7a7f1bf4ce0e041f6614af7d02b070ce]
+
+(1)[^key-b875d2cf2fb238c35a68ea92b07d73eb] Except where paragraph (1A) applies, any notice or other document required or authorised by these Rules or by direction to be served on, or delivered to, the Appeal Tribunal may be—
+
+- (a) sent by post or delivered by hand—
+  - (i) in the case of a notice instituting proceedings, to the central office or any other office of the Appeal Tribunal;
+  - (ii) in any other case, to the office of the Appeal Tribunal in which proceedings in question are being dealt with in accordance with rule 38(2) (tribunal offices and allocation of business);
+- (b) uploaded to the Appeal Tribunal’s online secure portal, in such manner specified by any practice direction, except in an appeal from a judgment or order of the employment tribunal in relation to national security proceedings; or
+- (c) sent or delivered by such other method as the Appeal Tribunal may permit or direct.
+
+(1A)[^key-627c928614e4ad58c21e42311a8dada2] If a party is represented by a legal representative and any notice or other document is required or authorised by these Rules or direction to be served on, or delivered to, the Appeal Tribunal by that party, it must be uploaded to the Appeal Tribunal’s secure portal, in such manner specified by any practice direction, except in an appeal from a judgment or order of the employment tribunal in relation to national security proceedings.
+
+(1B) In the circumstances in which paragraph (1A) applies, if a party who is represented by a legal representative provides any notice or other document to the Appeal Tribunal by any other method than that permitted by paragraph (1A)—
+
+- (a) the failure to comply with paragraph (1A) will not of itself render void the proceedings or any step taken in the proceedings; and
+- (b) the Appeal Tribunal may take such action as it considers just, which may include waiving the requirement, requiring the failure to be remedied, striking out the proceedings, or restricting the party’s participation in the proceedings.
+
+(1C) The online secure portal cannot be used to serve notices or documents on another party. Notices and documents that are required to be served on another party must be sent or delivered to that party by another method permitted by these Rules.
+
+(1D) Any notice or other document required or authorised by these Rules to be served on, or delivered to, any person may be sent to them by post to their address for service or, where no address for service has been given, to their registered office, principal place of business, head or main office or last known address, as the case may be.
+
+(2) Any notice or other document required or authorised to be served on, or delivered to, an unincorporated body may be sent to its secretary, manager or other similar officer.
+
+(3) Every document served by post shall be assumed, in the absence of evidence to the contrary, to have been delivered in the normal course of post.
+
+(4) The Appeal Tribunal may inform itself in such manner as it thinks fit of the posting of any document by an officer of the Tribunal.
+
+(5) The Appeal Tribunal may direct that service of any document be dispensed with or be effected otherwise than in the manner prescribed by these Rules.
+
+## 36. Conciliation[^key-71b4e146809bd56f62b00e893cb9a94b]
+
+Where at any stage of any proceedings it appears to the Appeal Tribunal that there is a reasonable prospect of agreement being reached between the parties or of disposal of the appeal or a part of it by consensual means[^key-1a7660afe7f58c4d4ae9cf2acfb25195], the Tribunal may take such steps as it thinks fit to enable the parties to avail themselves of any opportunities for conciliation, whether by adjourning any proceedings or otherwise.
+
+## 37. Time[^key-c89724c30c5a80b68ebad8a60b990edd]
+
+(1) The time prescribed by these Rules or by order of the Appeal Tribunal for doing any act may be extended (whether it has already expired or not) or abridged, and the date appointed for any purpose may be altered, by order of the Tribunal.
+
+(1A)[^key-26a1386ab0a76ad787e9062fe898ad2c] Where an act is required to be done on or before a particular day it shall be done by 4 pm on that day.
+
+(2) Where the last day for the doing of any act falls on a day on which the appropriate office of the Tribunal is closed and by reason thereof the act cannot be done on that day, it may be done on the next day on which that office is open.
+
+(3) An application for an extension of the time prescribed for the doing of an act, including the institution of an appeal under rule 3, shall be heard and determined as an interim[^key-a69379e9b032ba64b935cedd18e1fd6b] application under rule 20.
+
+(4)[^key-0437d13161761161cb0791cffeb37d7a] An application for an extension of the time prescribed for the institution of an appeal under rule 3 shall not be heard until the notice of appeal has been served on the Appeal Tribunal.
+
+(5)[^key-6d9d2df219a567867175b30ed84b420d] If the appellant makes a minor error in complying with the requirement under rule 3(1) to submit relevant documents to the Appeal Tribunal, and rectifies that error (on a request from the Appeal Tribunal or otherwise), the time prescribed for the institution of an appeal under rule 3 may be extended if it is considered just to do so having regard to all the circumstances, including the manner in which, and the timeliness with which, the error has been rectified and any prejudice to any respondent.
+
+## 38. Tribunal offices and allocation of business[^key-80b01c197f252cd8012f662e435b61ca]
+
+(1) The central office and any other office of the Appeal Tribunal shall be open at such times as the President may direct.
+
+(2) Any proceedings before the Tribunal may be dealt with at the central office or at such other office as the President may direct.
+
+## 39. Non-compliance with, and waiver of, rules[^key-68efc5c43f51f4360d1c70e06dff7fa9]
+
+(1) Failure to comply with any requirements of these Rules shall not invalidate any proceedings unless the Appeal Tribunal otherwise directs.
+
+(2) The Tribunal may, if it considers that to do so would lead to the more expeditious or economical disposal of any proceedings or would otherwise be desirable in the interests of justice, dispense with the taking of any step required or authorised by these Rules, or may direct that any such steps be taken in some manner other than that prescribed by these Rules.
+
+(3) The powers of the Tribunal under paragraph (2) extend to authorising the institution of an appeal notwithstanding that the period prescribed in rule 3(2) may not have commenced.
+
+## 40. Transitional provisions[^key-6a59920edc3a7ada0f3f4d7f55912256]
+
+(1) Where, prior to 16th December 1993, an industrial tribunal has given full written reasons for its decision or order, those reasons shall be treated as extended written reasons for the purposes of rule 3(1)(c) and rule 3(2) and for the purposes of Form 1 in the Schedule to these Rules.
+
+(2) Anything validly done under or pursuant to the Employment Appeal Tribunal Rules 1980[^f00015] shall be treated as having been done validly for the purposes of these Rules, whether or not what was done could have been done under or pursuant to these Rules.
+
+Mackay of Clashfern, C.
+
+Dated 23rd November 1993
+
+## SCHEDULE[^key-f8f07182374dfc47118f4d712c20ce58]
+
+FORM 1[^key-b8b2d913cb733b99ff5cea37d4489ae8]
+
+*Notice of Appeal from Decision of Employment Tribunal*[^key-bdead71d01c34b97b8ecf78436dc15e0][^key-34e76549d94b55a9b225b13acc48f8aa][^M_F_5533046b-768c-44e1-9664-77d7857ab67a][^M_F_ddb11d45-9866-4dfd-cb2a-396531189ca8][^M_F_90cccd41-20a3-4d00-a601-76b030550431]
+
+Rule 3
+
+[image: see source](https://www.legislation.gov.uk/uksi/1993/2854/images/uksi_19932854_en_epp_010.gif)
+
+FORM 1A[^key-4c9eb4a37a11c1e062fa9b34482c9a36]
+
+*Notice of Appeal from the CAC made pursuant to regulation 38(8) of the Transnational Information and Consultation of Employees Regulations 1999 [^key-36ec97d967c2808591f6fe86e5e3dd2c]... regulation 47(6) of the European Public Limited-Liability Company Regulations 2004[^key-d1ffc426037eb19faccb7d983b822833] [^key-2f2a6a9efa796079284449c97ac37b94]... or[^key-b99c1ce85a684de53b986f4a218ec37f] regulation 35(6) of the Information and Consultation of Employees Regulations 2004[^key-4df4adfda590533330c1e389d898a25f] or regulation 57(6) of the Companies (Cross-Border Mergers) Regulations 2007[^key-e0cb65576d3a4dd645cd14fe2750bc0b]*[^key-bc1c5c506088514f51ddcf2d48a494d6]
+
+Rule 3
+
+[image: see source](https://www.legislation.gov.uk/uksi/1993/2854/images/uksi_19932854_en_epp_004.gif)
+
+FORM 2
+
+*Notice of Appeal from Decision of Certification Officer*[^key-4d225cd74761ddfc043978aec4a57acd]
+
+Rule 3
+
+[image: see source](https://www.legislation.gov.uk/uksi/1993/2854/images/uksi_19932854_en_002)
+
+FORM 3
+
+*Appeal from decision of employment tribunal/certification officer[^key-0480ad8d2faff6eb6c70b4973139535d]*
+
+*Respondent’s Answer*[^key-89a33746990e680b594ee74fbf6e9d45][^key-5c4e788bc90a13b875212a06d6ae30ac]
+
+Rule 6
+
+[image: see source](https://www.legislation.gov.uk/uksi/1993/2854/images/uksi_19932854_en_003)
+
+FORM 4
+
+*Application to the Employment Appeal Tribunal for Compensation for Exclusion or Expulsion from a Trade Union or for Compensation or an Order in respect of Unjustifiable Discipline*[^key-090f36ab8f2ddab838f95f08ecb5d1da]
+
+Rule 8
+
+[image: see source](https://www.legislation.gov.uk/uksi/1993/2854/images/uksi_19932854_en_004)
+
+[^key-0416aa6080de310e5a738b3efc1e5444]FORM 4A
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Rule 16A
+
+FORM 4B[^key-230c38ac3bd828de171369902053c69d]
+
+*Applications under Regulation 33 of the European Public Limited-Liability Company Regulations 2004 or regulation 22 of the Information and Consultation of Employees Regulations 2004[^key-27bd64268da1ee406c6b1a56fe0d7c29] or regulation 53 of the Companies (Cross-Border Mergers) Regulations 2007[^key-4edecc8f9f2e6f7e3bf68f47a56a1c3c] or regulation 20, 21 or 21A of the 1999 Regulations[^key-661de339a74664eeed320d8c3b9ca6e1]* [^key-234946181714062a10f234a0125f478c][^key-fc0d6bf6c0dedcdf99786f5326e46a8c][^M_F_4a5c933e-e793-45e3-aa8d-f289c91d65fb][^key-7d5c7901b1800e2647e3dd5b11981cf7]
+
+Rule 16AA
+
+[image: see source](https://www.legislation.gov.uk/uksi/1993/2854/images/uksi_19932854_en_epp_007.gif)
+
+FORM 5
+
+*Notice of appearance to Application to Employment Appeal Tribunal for Compensation for Exclusion or Expulsion from a Trade Union or for Compensation or an Order in respect of Unjustifiable Discipline*[^key-a451b91d5881061e7645a44beede86be]
+
+Rule 11
+
+[image: see source](https://www.legislation.gov.uk/uksi/1993/2854/images/uksi_19932854_en_005)
+
+FORM 5A[^key-2162a58d86ec1a0e2efd030d4b12bf20]
+
+*Notice of Appearance to the Employment Appeal Tribunal under Regulation 20, 21 or 21A of the Transnational Information and Consultation of Employees Regulations 1999 or Regulation 20(6) of the European Public Limited-Liability Company (Employee Involvement) (Great Britain) Regulations 2009 or Regulation 22(6) of the Information and Consultation of Employees Regulations 2004[^key-1a000f9cd83f3fd5d8173fc134d526c8] [^key-750b83bd4fc41af3a80fe097addfdcc5]...* [^key-611a8e024450fe49417334cc9344513c][^key-a014f093fe596dafacd691e9862399ca]
+
+Rule 16C
+
+[image: see source](https://www.legislation.gov.uk/uksi/1993/2854/images/uksi_19932854_en_epp_006.gif)
+
+FORM 6
+
+*Application to the Employment Appeal Tribunal Under section 33 of the 1996 Act[^key-860efd2112abe519a8e0fd794ea97964] for a Restriction of Proceedings Order*[^key-3159083b167e3c927348c9d1e1073eac]
+
+Rule 13
+
+[image: see source](https://www.legislation.gov.uk/uksi/1993/2854/images/uksi_19932854_en_006)
+
+FORM 7
+
+*Notice of appearance to Application to the Employment Appeal Tribunal under section 33 of the 1996 Act for a Restriction of Proceedings Order*[^key-19a9b13924e132510813a1800fb6feac]
+
+Rule 15
+
+[image: see source](https://www.legislation.gov.uk/uksi/1993/2854/images/uksi_19932854_en_007)
+
+(This note is not part of the Rules)
+
+These Rules consolidate, with amendments, the Employment Appeal Tribunal Rules 1980 (S.I.[1980/2035](https://www.legislation.gov.uk/uksi/1980/2035)) as amended by the Employment Appeal Tribunal (Amendment) Rules 1985 (S.I.[1985/29](https://www.legislation.gov.uk/uksi/1985/29)) and the Employment Appeal Tribunal (Amendment) Rules 1988 (S.I.[1988/2072](https://www.legislation.gov.uk/uksi/1988/2072)) (“the old rules”).The amendments made to the old rules are primarily consequent on the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19).
+
+In addition to minor and drafting amendments, these Rules, which come into force on 16th December 1993, make the following changes of substance to the old rules—
+
+- (a) they provide a procedure for the Attorney General or the Lord Advocate to apply to the Appeal Tribunal for a restriction of proceedings order under section 136A of the Employment Protection (Consolidation) Act [1978 (c. 44)](https://www.legislation.gov.uk/ukpga/1978/44) (rules 13-17).Two additional Forms are included in the Schedule to the Rules in connection with this;
+- (b) they provide for the Appeal Tribunal to be able to make a restricted reporting order in certain appeals involving allegations of sexual misconduct (rule 23);
+- (c) they provide, in certain appeals appearing to involve allegations of the commission of a sexual offence, for the Registrar to take steps so as to prevent the identification to members of the public of any person affected by or making such an allegation (rule 23);
+- (d) they provide that the Appeal Tribunal shall sit in private where the industrial tribunal has been required to sit in private by virtue of a direction on grounds of national security from a Minister of the Crown (rule 30);
+- (e) they provide that an interlocutory application for a restricted reporting order shall be disposed of by the President of the Appeal Tribunal, a judge or the Appeal Tribunal and that the hearing of any interlocutory application shall be by the President alone where a Minister has so directed on grounds of national security (rules 20-22);
+
+Form 3 in the Schedule to the old rules is not repeated because it related to appeals from an industrial tribunal on questions of fact in cases of unreasonable exclusion or explusion from a trade union which can no longer be brought.
+
+The Rules also contain transitional provisions (rule 40).
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c. 44](https://www.legislation.gov.uk/ukpga/1978/44); paragraph 18 was amended by the Employment Act [1980 (c. 42)](https://www.legislation.gov.uk/ukpga/1980/42), Schedule 1, paragraph 28; by the Employment Act [1982 (c. 46)](https://www.legislation.gov.uk/ukpga/1982/46), Schedule 3, paragraph 8(1); by the Trade Union and Labour Relations (Consolidation) Act [1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52), Schedule 2, paragraph 25; and by the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), Schedule 7, paragraph 7 and Schedule 8, paragraphs 29 and 30.Paragraph 18A was inserted by the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), section 41.
+
+[^key-500e318e7fe0af2b57c973b779aa65f9]: Commencement: Rule 1 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^f00002]: Footnote: S.I.[1980/2035](https://www.legislation.gov.uk/uksi/1980/2035), amended by the statutory instruments referred to in footnotes (c) and (d).
+
+[^f00003]: Footnote: S.I.[1985/29](https://www.legislation.gov.uk/uksi/1985/29).
+
+[^f00004]: Footnote: S.I.[1988/2072](https://www.legislation.gov.uk/uksi/1988/2072).
+
+[^key-69ec7e5c63589856aa9809d913b2d67f]: Textual amendment: [Rule 2](https://www.legislation.gov.uk/uksi/1993/2854/rule/2) substituted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [2](https://www.legislation.gov.uk/uksi/2001/1128/rule/2) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-e8fdfdcf036f1323b8c5032d14dcf580]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/2/1) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2004/2526/rule/2/1/a)
+
+[^key-524c595a12f07449aa4607d700cdad67]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/2/1) inserted (6.4.2005) by [The Information and Consultation of Employees Regulations 2004 (S.I. 2004/3426)](https://www.legislation.gov.uk/uksi/2004/3426), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/1/1), [41(a)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/41/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3426/regulation/3))
+
+[^key-149793d7bf4e1f32a7d51cb8388ba11c]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/2/1) omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9e67024086866168ec93dbaf43157cdb]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/2/1) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2004/2526/rule/2/1/b)
+
+[^key-85ee897cb01fbc3a6e1056c78272b0c0]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/2/1) inserted (2.3.2026) by [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/2/a) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^key-3c88f672e2f0143a453f1b77991ed5c0]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/2/1) substituted (1.2.2025) by [The Employment Appeal Tribunal (Amendment) Rules 2024 (S.I. 2024/1044)](https://www.legislation.gov.uk/uksi/2024/1044), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1044/rule/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1044/rule/2/2/a)
+
+[^key-8d6f72fea1bc2275a2bc3fd0bbc297c5]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/2/1) substituted (6.1.2025) by [The Employment Tribunals (Procedure Rules) (Consequential Amendments) Regulations 2024 (S.I. 2024/1156)](https://www.legislation.gov.uk/uksi/2024/1156), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/2/2)
+
+[^key-e6ba38547d0bab312e6ad575e051d239]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/2/1) substituted (2.3.2026) by [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/2/b) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^key-62bc8e1991466f07147c6f090ed7210f]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/2/1) inserted (1.2.2025) by [The Employment Appeal Tribunal (Amendment) Rules 2024 (S.I. 2024/1044)](https://www.legislation.gov.uk/uksi/2024/1044), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1044/rule/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1044/rule/2/2/b)
+
+[^key-bbd1968eb8454155eb495d79f7660dc0]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/2/1) inserted (2.3.2026) by [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/2/c) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^key-9e7e17d284ce46332067709702e5c30a]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/2/1) inserted (2.3.2026) by [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/2/d) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^key-90142e1135a277c9eca1967d4820b56d]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/2/1) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [2(1)(e)](https://www.legislation.gov.uk/uksi/2004/2526/rule/2/1/e)
+
+[^key-fe032ba5ad654b75053fb5754ae75026]: Textual amendment: [Rule 2(2)](https://www.legislation.gov.uk/uksi/1993/2854/rule/2/2) deleted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/2526/rule/2/2)
+
+[^key-3c1abc47f0c1018e56bdb8012b532cfa]: Textual amendment: Word in [rule 2(3)](https://www.legislation.gov.uk/uksi/1993/2854/rule/2/3) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2004/2526/rule/2/3)
+
+[^key-2df260c99e1f7532caf827fd43789989]: Textual amendment: [Rule 2A](https://www.legislation.gov.uk/uksi/1993/2854/rule/2A) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2004/2526/rule/3)
+
+[^key-b72500bc5a2ab03cf22ddae8fee918a5]: Textual amendment: Rule 3 substituted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2001/1128/rule/3) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-c06f06b589e54169a94843a0e0c19acd]: Textual amendment: [Rule 3(1)(b)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/1/b) omitted (30.9.2023) by virtue of [The Employment Appeal Tribunal (Amendment) Rules 2023 (S.I. 2023/967)](https://www.legislation.gov.uk/uksi/2023/967), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/967/rule/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/967/rule/2/2/a)
+
+[^key-2f428d22cf5384cfde9544faf60f0644]: Textual amendment: [Rule 3(1)(c)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/1/c) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2004/2526/rule/4/1/b) (with [rule 26(1)(b)](https://www.legislation.gov.uk/uksi/2004/2526/rule/26/1/b)[(c)](https://www.legislation.gov.uk/uksi/2004/2526/rule/26/1/c))
+
+[^key-5cc8e2944eac07651c774afcd2fd3f0b]: Textual amendment: Words in [rule 3(1)(c)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/1/c) substituted (2.3.2026) by [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/3/a) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^key-cd02127b9e3ff0a178b21eb287fe7585]: Textual amendment: Words in [rule 3(1)(d)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/1/d) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [4(1)(c)(i)](https://www.legislation.gov.uk/uksi/2004/2526/rule/4/1/c/i)
+
+[^key-a3c504603c159526527588823604236a]: Textual amendment: Words in [rule 3(1)(d)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/1/d) inserted (6.4.2005) by [The Information and Consultation of Employees Regulations 2004 (S.I. 2004/3426)](https://www.legislation.gov.uk/uksi/2004/3426), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/1/1), [41(b)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/41/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3426/regulation/3))
+
+[^key-37ca7e5ce89556ce4b522349a7aadae9]: Textual amendment: Words in [rule 3(1)(d)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/1/d) omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7cdfcf2140aab4401bfb018a83763609]: Textual amendment: Word in [rule 3(1)(d)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/1/d) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [4(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2004/2526/rule/4/1/c/ii)
+
+[^key-4a75a324193a54b2b81e2c55ee8be6a5]: Textual amendment: [Rule 3(1)(e)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/1/e)[(f)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/1/f) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [4(1)(d)](https://www.legislation.gov.uk/uksi/2004/2526/rule/4/1/d)
+
+[^key-35a6f2879b0f0f61a1063acfa1df7103]: Textual amendment: [Rule 3(2)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/2) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2004/2526/rule/4/2)
+
+[^key-c9fde6c37bf74e42e87da063d1542c59]: Textual amendment: [Rule 3(2)(i)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/2/i) omitted (30.9.2023) by virtue of [The Employment Appeal Tribunal (Amendment) Rules 2023 (S.I. 2023/967)](https://www.legislation.gov.uk/uksi/2023/967), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/967/rule/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/967/rule/2/2/b)
+
+[^key-3ed063b0eb04e9079bf101443d884e09]: Textual amendment: Words in [rule 3(2)(ii)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/2/ii) substituted (2.3.2026) by [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/3/b/i) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^key-c01a76f1b175f71d50fd67c01e3bba23]: Textual amendment: Words in [rule 3(2)(ii)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/2/ii) substituted (2.3.2026) by [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/3/b/ii) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^key-039f28aa50c63ebb95ea3152f2033c26]: Textual amendment: [Rule 3(3)(a)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/3/a) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2004/2526/rule/4/3/a) (with [rule 26(1)(c)](https://www.legislation.gov.uk/uksi/2004/2526/rule/26/1/c))
+
+[^key-c8ca2f234c1ad164f126d651bf8d3566]: Textual amendment: Words in [rule 3(3)(a)(i)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/3/a/i) substituted (2.3.2026) by [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(3)(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/3/c/i/aa) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^key-b167d0fc28b0db39255f40288d84e5e7]: Textual amendment: Words in [rule 3(3)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/3/a/i/aa) substituted (2.3.2026) by [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(3)(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/3/c/i/bb) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^key-3d325cd5809b76ca2a511c60465ced43]: Textual amendment: Word in [rule 3(3)(a)(i)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/3/a/i) omitted (2.3.2026) by virtue of [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(3)(c)(i)(cc)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/3/c/i/cc) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^key-5b75716c0f8bdd4415b7236e96dc3eef]: Textual amendment: [Rule 3(3)(a)(i)(cc)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/3/a/i/cc) inserted (2.3.2026) by [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(3)(c)(i)(dd)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/3/c/i/dd) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^key-f2368c79c8dbd8165518b9775abf9691]: Textual amendment: Words in [rule 3(3)(a)(i)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/3/a/i) substituted (2.3.2026) by [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(3)(c)(i)(ee)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/3/c/i/ee) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^key-f4586d535291d3a2c1b0ed3b7ec5a20f]: Textual amendment: Words in [rule 3(3)(a)(iii)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/3/a/iii) substituted (2.3.2026) by [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(3)(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/3/c/ii/aa) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^key-95516ed50f26634ed361ddebd040e02a]: Textual amendment: Words in [rule 3(3)(a)(iii)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/3/a/iii) substituted (2.3.2026) by [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(3)(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/3/c/ii/bb) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^key-b3181249ad29343202617b4098726e99]: Textual amendment: Word in [rule 3(3)(a)(iii)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/3/a/iii) omitted (2.3.2026) by virtue of [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(3)(c)(ii)(cc)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/3/c/ii/cc) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^key-01331f603a0c87898d24cf5eb5d93820]: Textual amendment: [Rule 3(3)(a)(iii)(cc)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/3/a/iii/cc) inserted (2.3.2026) by [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(3)(c)(ii)(dd)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/3/c/ii/dd) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^key-a8a8d71a7512935e02b9b1bf77455a62]: Textual amendment: [Rule 3(3)(b)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/3/b) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2004/2526/rule/4/3/b)
+
+[^key-21c77ba03684b60ec033719b10776468]: Textual amendment: Words in [rule 3(3)(d)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/3/d) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2004/2526/rule/4/3/c)
+
+[^key-f2419579cbac00b486bc7da9b58b4499]: Textual amendment: Words in [rule 3(3)(d)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/3/d) inserted (6.4.2005) by [The Information and Consultation of Employees Regulations 2004 (S.I. 2004/3426)](https://www.legislation.gov.uk/uksi/2004/3426), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/1/1), [41(b)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/41/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3426/regulation/3))
+
+[^key-a5398ec912673836e25e52c15a6c05f2]: Textual amendment: Words in [rule 3(3)(d)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/3/d) inserted (15.12.2007) by [The Companies (Cross-Border Mergers) Regulations 2007 (S.I. 2007/2974)](https://www.legislation.gov.uk/uksi/2007/2974), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2974/regulation/1), [64(2)](https://www.legislation.gov.uk/uksi/2007/2974/regulation/64/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2007/2974/regulation/5))
+
+[^key-1ea599ba6cbfc31730b8e00aab549a98]: Textual amendment: Words in [rule 3(4)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/4) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2004/2526/rule/4/4/a)
+
+[^key-8b8cd75ac668155a95fd538e114e015e]: Textual amendment: Words in [rule 3(4)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/4) substituted (2.3.2026) by [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/3/d) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^key-2b9d1edd71cd2a24e63f747507b6e06a]: Textual amendment: Words in [rule 3(4)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/4) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2004/2526/rule/4/4/b)
+
+[^key-2593c0f9ff2d72c8d9d3ade55729616d]: Textual amendment: Words in [rule 3(5)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/5) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2004/2526/rule/4/5)
+
+[^key-6d9e4243720a5ae933992ca30851d0c4]: Textual amendment: Words in [rule 3(6)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/6) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2004/2526/rule/4/6/a)
+
+[^key-aba17ca10672303c48cb2991d1b26a71]: Textual amendment: Word in [rule 3(6)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/6) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2004/2526/rule/4/6/b)
+
+[^key-c5589a4ce9b989dd4e2da6190f0c54b6]: Textual amendment: Words in [rule 3(6)(a)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/6/a) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [4(6)(c)](https://www.legislation.gov.uk/uksi/2004/2526/rule/4/6/c)
+
+[^key-2a550d7ee079ecba2860259820db9937]: Textual amendment: Words in [rule 3(6)(b)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/6/b) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [4(6)(c)](https://www.legislation.gov.uk/uksi/2004/2526/rule/4/6/c)
+
+[^key-dfd2d249cc3cf60c2211936120c6e8f2]: Textual amendment: [Rule 3(7)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/7) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2004/2526/rule/4/7)
+
+[^key-33a154179b8953ced60f1b84a729a210]: Textual amendment: Words in [rule 3(7)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/7) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/2/a/i) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-6d4932e47dd1676f8ea9f6d1d074bfde]: Textual amendment: Words in [rule 3(7)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/7) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/2/a/ii) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-9b0589a5ad57b67a441d4fed9593fa91]: Textual amendment: Words in [rule 3(7)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/7) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/2/a/iii) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-e5e61fa97cc43e724c08e6bdc295e295]: Textual amendment: Words in rule 3(7) substituted (29.7.2013) by [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/1693/rule/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2013/1693/rule/3/a)
+
+[^key-9f63c8d7a1105e749a61d1d0d51cf946]: Textual amendment: Rule 3(7ZA) inserted (29.7.2013) by [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2001/1128/rule/3/b)
+
+[^key-31e99f8646946239113f8050d982d096]: Textual amendment: Words in [rule 3(7ZA)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/7ZA) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/2/b/i) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-8c000a5a5fdbcb9e4af64ae7d35c1578]: Textual amendment: Words in [rule 3(7ZA)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/7ZA) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/2/b/ii) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-f28a0d63d149c0c66a9743be7d842fa6]: Textual amendment: [Rule 3(7A)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/7A) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [4(8)](https://www.legislation.gov.uk/uksi/2004/2526/rule/4/8)
+
+[^key-c8574ab41fba4e3492809f32a12b4228]: Textual amendment: Words in rule 3(7A) inserted (29.7.2013) by [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/1693/rule/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2013/1693/rule/3/c)
+
+[^key-efe8b3bfbb98e19eab4b4175bfae25d3]: Textual amendment: Rule 3(8)(9) omitted (29.7.2013) by virtue of [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/1693/rule/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2013/1693/rule/3/d)
+
+[^key-50f5eb856055d8c148d9ecc9b0e199b3]: Textual amendment: [Rule 3(10)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/10) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [4(11)](https://www.legislation.gov.uk/uksi/2004/2526/rule/4/11)
+
+[^key-d467cc0059af5c62058310bece90985c]: Textual amendment: Words in rule 3(10) substituted (29.7.2013) by [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/1693/rule/1/1), [3(e)](https://www.legislation.gov.uk/uksi/2013/1693/rule/3/e)
+
+[^key-341d6a4ee93daaeb902b64f399673424]: Textual amendment: Words in [rule 3(10)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/10) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(2)(c)(i)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/2/c/i) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-07537ca18bc751956867b34f0ca7f4cc]: Textual amendment: Words in [rule 3(10)](https://www.legislation.gov.uk/uksi/1993/2854/rule/3/10) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/2/c/ii) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-42f7d5edf47a540274798c3fb0ff4123]: Commencement: Rule 4 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-70ea28134c8a82eea7c4a5f7537bfff1]: Textual amendment: [Rule 4](https://www.legislation.gov.uk/uksi/1993/2854/rule/4) renumbered as rule 4(1) (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2001/1128/rule/4/a) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-be9af42bea518aac7b6d61b0779b7a24]: Textual amendment: Words in rule 4(d) omitted (16.7.2001) by virtue of [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2001/1128/rule/4/b) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-7e7051297b4d80208666b3c9500a9a99]: Textual amendment: Words in rule 4 inserted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2001/1128/rule/4/c) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-3a057fa2880d6e916bf19e2cec834f7d]: Textual amendment: Words in [rule 4](https://www.legislation.gov.uk/uksi/1993/2854/rule/4) inserted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2001/1128/rule/4/d) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-3f300c73ff467117c54587348c0e6504]: Textual amendment: Words in [rule 4(1)(e)](https://www.legislation.gov.uk/uksi/1993/2854/rule/4/1/e) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [5](https://www.legislation.gov.uk/uksi/2004/2526/rule/5)
+
+[^key-1de098e815da202856568e9367d2deac]: Textual amendment: Words in [rule 4(1)(e)](https://www.legislation.gov.uk/uksi/1993/2854/rule/4/1/e) inserted (6.4.2005) by [The Information and Consultation of Employees Regulations 2004 (S.I. 2004/3426)](https://www.legislation.gov.uk/uksi/2004/3426), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/1/1), [41(b)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/41/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3426/regulation/3))
+
+[^key-47b900fec1b2fe4baf31b1db8a30005a]: Textual amendment: Words in [rule 4(1)(e)](https://www.legislation.gov.uk/uksi/1993/2854/rule/4/1/e) omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ab750c012536d9626d694902fed80b23]: Commencement: Rule 5 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-28d6130c4b0de9fa09f833fe741eecf3]: Textual amendment: Words in rule 5(a) substituted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2001/1128/rule/5/a) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-9b2b673a14fb3895af465268e77b949f]: Textual amendment: Words in rule 5(b) substituted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2001/1128/rule/5/b) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-4c1fafed3092e1702268b34b350ddde1]: Textual amendment: Rule 5(c) inserted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2001/1128/rule/5/c) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-f7333b66f7312157a26e622d1ba9bcfd]: Textual amendment: Words in [rule 5(c)](https://www.legislation.gov.uk/uksi/1993/2854/rule/5/c) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [6](https://www.legislation.gov.uk/uksi/2004/2526/rule/6)
+
+[^key-80e20eb06f1bb39583ebba4355e4767a]: Textual amendment: Words in [rule 5(c)](https://www.legislation.gov.uk/uksi/1993/2854/rule/5/c) inserted (6.4.2005) by [The Information and Consultation of Employees Regulations 2004 (S.I. 2004/3426)](https://www.legislation.gov.uk/uksi/2004/3426), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/1/1), [41(b)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/41/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3426/regulation/3))
+
+[^key-c5eeea857309049f5be4d5311b886f8b]: Textual amendment: Words in [rule 5(c)](https://www.legislation.gov.uk/uksi/1993/2854/rule/5/c) omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ec3606b8cad9fd1b7a658b1e9da6f875]: Commencement: Rule 6 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-1e42a27112c5e6ea30d7bd4c98d0668f]: Textual amendment: Words in rule 6(2) inserted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [6(a)(i)](https://www.legislation.gov.uk/uksi/2001/1128/rule/6/a/i) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-0ef7acb93774c542342fd57611c68c8c]: Textual amendment: Words in rule 6(2) inserted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2001/1128/rule/6/a/ii) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-1506397fbb052b6e211a1e2ff4774004]: Textual amendment: Words in rule 6(2) substituted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [6(a)(iii)](https://www.legislation.gov.uk/uksi/2001/1128/rule/6/a/iii) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-2679689c12245b70d6ba7103c2706c94]: Textual amendment: Word in [rule 6(2)](https://www.legislation.gov.uk/uksi/1993/2854/rule/6/2) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [7(1)(a)](https://www.legislation.gov.uk/uksi/2004/2526/rule/7/1/a)
+
+[^key-27cf9faa8a92416b0fb048557591e7cd]: Textual amendment: Word in rule 6(2) inserted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [6(a)(iv)](https://www.legislation.gov.uk/uksi/2001/1128/rule/6/a/iv) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-0d5ec52b241c713d639a657df7074774]: Textual amendment: Words in rule 6(3) inserted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2001/1128/rule/6/b) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-60000f99e0a35151966d5a76a07ad511]: Textual amendment: Rule 6(6)-(11) inserted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2001/1128/rule/6/c) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-13fc1d83de0c18bb73dd02c6d274eff7]: Textual amendment: Words in [rule 6(6)](https://www.legislation.gov.uk/uksi/1993/2854/rule/6/6) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [7(1)(b)](https://www.legislation.gov.uk/uksi/2004/2526/rule/7/1/b)
+
+[^key-31bfe927eb9b09b7bf3eeb912c6b5522]: Textual amendment: Words in [rule 6(7)](https://www.legislation.gov.uk/uksi/1993/2854/rule/6/7) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [7(1)(b)](https://www.legislation.gov.uk/uksi/2004/2526/rule/7/1/b)
+
+[^key-8885c3315fdaf88150cb937b46e5706f]: Textual amendment: Word in [rule 6(7)](https://www.legislation.gov.uk/uksi/1993/2854/rule/6/7) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [7(1)(c)](https://www.legislation.gov.uk/uksi/2004/2526/rule/7/1/c)
+
+[^key-c34dd675bb3b23dd865e8195fd09d855]: Textual amendment: Words in [rule 6(8)](https://www.legislation.gov.uk/uksi/1993/2854/rule/6/8) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [7(1)(b)](https://www.legislation.gov.uk/uksi/2004/2526/rule/7/1/b)
+
+[^key-08b8b6b20033e78447bee4e303ca404f]: Textual amendment: Word in [rule 6(8)](https://www.legislation.gov.uk/uksi/1993/2854/rule/6/8) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [7(1)(c)](https://www.legislation.gov.uk/uksi/2004/2526/rule/7/1/c)
+
+[^key-71ada53de8b93e734c7e8c14cf2d7299]: Textual amendment: Words in [rule 6(9)](https://www.legislation.gov.uk/uksi/1993/2854/rule/6/9) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [7(1)(b)](https://www.legislation.gov.uk/uksi/2004/2526/rule/7/1/b)
+
+[^key-ff7820b46fd26a3a85da876691c69df9]: Textual amendment: Word in [rule 6(9)](https://www.legislation.gov.uk/uksi/1993/2854/rule/6/9) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [7(1)(c)](https://www.legislation.gov.uk/uksi/2004/2526/rule/7/1/c)
+
+[^key-809c3fd1d20b728bbf8fb9ff415b15e4]: Textual amendment: [Rule 6(12)-(16)](https://www.legislation.gov.uk/uksi/1993/2854/rule/6/12) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2004/2526/rule/7/2)
+
+[^key-5901140332637f1a37083ba16bd24cde]: Textual amendment: Words in [rule 6(12)](https://www.legislation.gov.uk/uksi/1993/2854/rule/6/12) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/3/a/i) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-feaabfe3eb4485089069952dad9e9aca]: Textual amendment: Word in rule 6(12) inserted (29.7.2013) by [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/1693/rule/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2013/1693/rule/4/a/i)
+
+[^key-11d375e1ce77b00d0aae81bbd0e67e46]: Textual amendment: Words in [rule 6(12)](https://www.legislation.gov.uk/uksi/1993/2854/rule/6/12) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/3/a/ii) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-b0c3a3729839ec55e4003b67ce9c2836]: Textual amendment: Word in rule 6(12) substituted (29.7.2013) by [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/1693/rule/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2013/1693/rule/4/a/ii)
+
+[^key-33c63520db954b7364ecb40ad2d9e9e1]: Textual amendment: Words in [rule 6(12)](https://www.legislation.gov.uk/uksi/1993/2854/rule/6/12) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/3/a/iii) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-2ff1bca827616f0e9a0b8095d41aa859]: Textual amendment: Words in rule 6(12) substituted (29.7.2013) by [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/1693/rule/1/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2013/1693/rule/4/a/iii)
+
+[^key-f136ccc879be7f497b2949236d0a21b5]: Textual amendment: Rule 6(12A) inserted (29.7.2013) by [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2001/1128/rule/4/b)
+
+[^key-bbd0b9e27e70b1fabd8a11e2c6d1846e]: Textual amendment: Words in [rule 6(12A)](https://www.legislation.gov.uk/uksi/1993/2854/rule/6/12A) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(3)(b)(i)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/3/b/i) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-30b4230ce185f0b95757b0ce03d4018b]: Textual amendment: Words in [rule 6(12A)](https://www.legislation.gov.uk/uksi/1993/2854/rule/6/12A) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/3/b/ii) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-6ba495bfb9a99c44702862f36328aec2]: Textual amendment: Words in rule 6(13) inserted (29.7.2013) by [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/1693/rule/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2013/1693/rule/4/c)
+
+[^key-38e9ca51f1c2531a09311db76161ce2d]: Textual amendment: Rule 6(14)(15) omitted (29.7.2013) by virtue of [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/1693/rule/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2013/1693/rule/4/d)
+
+[^key-0a643efcf4789161dc6984d486d5dff3]: Textual amendment: Words in rule 6(16) substituted (29.7.2013) by [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/1693/rule/1/1), [4(e)](https://www.legislation.gov.uk/uksi/2013/1693/rule/4/e)
+
+[^key-733e1bb18bc63610855c5d981e7c4fb3]: Textual amendment: Words in [rule 6(16)](https://www.legislation.gov.uk/uksi/1993/2854/rule/6/16) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(3)(c)(i)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/3/c/i) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-0ab9902ee2da432bacf98b7ddc02bf29]: Textual amendment: Words in [rule 6(16)](https://www.legislation.gov.uk/uksi/1993/2854/rule/6/16) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/3/c/ii) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-09f3bc41809eb49f1d21e4bb1f43b2e7]: Commencement: Rule 7 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-f29c82206e394014fc815333a81371d4]: Textual amendment: Words in rule 7(1)(d) substituted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2001/1128/rule/7/a) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-97fab8278ccd45670c1da83a182b169d]: Textual amendment: [Rule 7(1)(e)](https://www.legislation.gov.uk/uksi/1993/2854/rule/7/1/e) and preceding word inserted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2001/1128/rule/7/b) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-bc624f166a01bb41697f633cf827f077]: Textual amendment: Words in [rule 7(1)(e)](https://www.legislation.gov.uk/uksi/1993/2854/rule/7/1/e) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/8/1)
+
+[^key-98f3bbee6561791c0504ae3b1227d590]: Textual amendment: Words in [rule 7(1)(e)](https://www.legislation.gov.uk/uksi/1993/2854/rule/7/1/e) inserted (6.4.2005) by [The Information and Consultation of Employees Regulations 2004 (S.I. 2004/3426)](https://www.legislation.gov.uk/uksi/2004/3426), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/1/1), [41(b)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/41/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3426/regulation/3))
+
+[^key-57ff8012fa62ec8f2ce444e9825b161e]: Textual amendment: Words in [rule 7(1)(e)](https://www.legislation.gov.uk/uksi/1993/2854/rule/7/1/e) omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-be681886a6d852581afb7314da3f053f]: Textual amendment: Word in [rule 7(2)](https://www.legislation.gov.uk/uksi/1993/2854/rule/7/2) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2004/2526/rule/8/2)
+
+[^key-69227eb0bb9b6c2e53ff042768e2f6f2]: Commencement: Rule 8 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^f00010]: Footnote: Section 67 was amended by the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), Schedule 8, paragraph 51. Section 176 was amended by the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), section 14.
+
+[^key-981a88400e93d5274ba13f9678f7051a]: Commencement: Rule 9 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-1405fa01baef7d82706151a84b067064]: Commencement: Rule 10 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-a510f9bf2f8060f1761a3ffa1967c6f8]: Commencement: Rule 11 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-70f493f7da411406301f3cf2f8f0bdf5]: Commencement: Rule 12 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-4963a4dd57c2d234c1b6c0a03adbb39c]: Commencement: Rule 13 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-76dc430c134c9ccdd30fc2d2da32b3be]: Textual amendment: Words in rule 13 substituted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [8](https://www.legislation.gov.uk/uksi/2001/1128/rule/8) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-e2cee3ad14b43ddd6879f775562f9506]: Commencement: Rule 14 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-39b72f63f0b88e7ffac6c41e5b135d7f]: Modification: Rule 14: transfer of functions (temp.) (6.5.1999) by [The Scotland Act 1998 (General Transitory, Transitional and Savings Provisions) Order 1999 (S.I. 1999/901)](https://www.legislation.gov.uk/uksi/1999/901), [arts. 1](https://www.legislation.gov.uk/uksi/1999/901/article/1), [5](https://www.legislation.gov.uk/uksi/1999/901/article/5), [Sch.](https://www.legislation.gov.uk/uksi/1999/901/schedule) (with [arts. 8](https://www.legislation.gov.uk/uksi/1999/901/article/8), [9](https://www.legislation.gov.uk/uksi/1999/901/article/9))
+
+[^key-b4673c3c09858e13f2b1fd37ad486369]: Commencement: Rule 15 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-2ee63f097d025ef0635615a4d7aec238]: Commencement: Rule 16 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^M_C_eba0431a-5b88-4701-90c1-3b4a06a99d88]: Modification: Rule 16: transfer of functions (temp.) (6.5.1999) by [The Scotland Act 1998 (General Transitory, Transitional and Savings Provisions) Order 1999 (S.I. 1999/901)](https://www.legislation.gov.uk/uksi/1999/901), [arts. 1](https://www.legislation.gov.uk/uksi/1999/901/article/1), [5](https://www.legislation.gov.uk/uksi/1999/901/article/5), [Sch.](https://www.legislation.gov.uk/uksi/1999/901/schedule) (with [arts. 8](https://www.legislation.gov.uk/uksi/1999/901/article/8), [9](https://www.legislation.gov.uk/uksi/1999/901/article/9))
+
+[^key-64e0d1721645cf46e90817d16a9c7abb]: Textual amendment: [Rule 16A](https://www.legislation.gov.uk/uksi/1993/2854/rule/16A) omitted (5.6.2011) by virtue of [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [30(2)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/30/2)
+
+[^key-b73367fe402d88a2ecdf32c8cfd92dca]: Textual amendment: [Rule 16AA](https://www.legislation.gov.uk/uksi/1993/2854/rule/16AA) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [9](https://www.legislation.gov.uk/uksi/2004/2526/rule/9)
+
+[^key-cd404340daf074e6d7e4786d2e99721e]: Textual amendment: Words in [rule 16AA](https://www.legislation.gov.uk/uksi/1993/2854/rule/16AA) inserted (6.4.2005) by [The Information and Consultation of Employees Regulations 2004 (S.I. 2004/3426)](https://www.legislation.gov.uk/uksi/2004/3426), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/1/1), [41(c)(i)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/41/c/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3426/regulation/3))
+
+[^key-3ae9baed96ce3e06bf97ca0ce78390a7]: Textual amendment: Words in [rule 16AA](https://www.legislation.gov.uk/uksi/1993/2854/rule/16AA) omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c7a8e18be391e09e7df5c3d66416ea43]: Textual amendment: Words in [rule 16AA](https://www.legislation.gov.uk/uksi/1993/2854/rule/16AA) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [30(3)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/30/3)
+
+[^key-2fc474f6f56fd03dc7d584a54157edf0]: Textual amendment: Words in [rule 16AA](https://www.legislation.gov.uk/uksi/1993/2854/rule/16AA) substituted (6.4.2005) by [The Information and Consultation of Employees Regulations 2004 (S.I. 2004/3426)](https://www.legislation.gov.uk/uksi/2004/3426), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/1/1), [41(c)(ii)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/41/c/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3426/regulation/3))
+
+[^key-417a3186edd46912a11b2687a63e4efa]: Textual amendment: [Rule 16B](https://www.legislation.gov.uk/uksi/1993/2854/rule/16B) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [30(4)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/30/4)
+
+[^key-ff859955f54f961be9b1c52af36a4b55]: Textual amendment: Rules 16A-16D inserted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [9](https://www.legislation.gov.uk/uksi/2001/1128/rule/9) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-55fa2d0af4d4bc6f390c6b127cefcf71]: Textual amendment: Words in [rule 16C](https://www.legislation.gov.uk/uksi/1993/2854/rule/16C) omitted (5.6.2011) by virtue of [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [30(5)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/30/5)
+
+[^key-73bfb4d1e62ad348615534e83623f399]: Textual amendment: Words in [rule 16C](https://www.legislation.gov.uk/uksi/1993/2854/rule/16C) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [10](https://www.legislation.gov.uk/uksi/2004/2526/rule/10)
+
+[^key-eaefbb5385afa1baa64ae09b694cf77c]: Commencement: Rule 17 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-c86cc254a0a9a3cd312b7c2419b175ba]: Textual amendment: Words in rule 17 substituted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [10](https://www.legislation.gov.uk/uksi/2001/1128/rule/10) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-e1c865ab52e21e13f5f53b1d4abe7efb]: Textual amendment: Word in [rule 17](https://www.legislation.gov.uk/uksi/1993/2854/rule/17) omitted (5.6.2011) by virtue of [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [30(6)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/30/6)
+
+[^key-040a00290d8a0b989156b10caa52fe7d]: Textual amendment: Words in [rule 17](https://www.legislation.gov.uk/uksi/1993/2854/rule/17) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [11](https://www.legislation.gov.uk/uksi/2004/2526/rule/11)
+
+[^key-4b538a4a8413ae5d702669c401273e6e]: Textual amendment: Word in [rule 17](https://www.legislation.gov.uk/uksi/1993/2854/rule/17) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [12](https://www.legislation.gov.uk/uksi/2004/2526/rule/12)
+
+[^key-fc2cd2675963522dac521d841a1c2865]: Textual amendment: Rule 17A inserted (29.7.2013) by [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/1693/rule/1/1), [5](https://www.legislation.gov.uk/uksi/2013/1693/rule/5)
+
+[^key-8025c62a826ba8c5bb489faad35c10ee]: Commencement: Rule 18 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-9091f985c1ae1ad9df0de636fb2a6af3]: Commencement: Rule 19 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-eb8cef3f158a487d57acfeb9f23d589b]: Textual amendment: Word in [rule 19](https://www.legislation.gov.uk/uksi/1993/2854/rule/19) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [12](https://www.legislation.gov.uk/uksi/2004/2526/rule/12)
+
+[^key-84990a3bbde57d6434a31944129ab3a5]: Commencement: Rule 20 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-e281726d0460cd090ac91f7c1400f941]: Textual amendment: [Rule 20](https://www.legislation.gov.uk/uksi/1993/2854/rule/20) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [13](https://www.legislation.gov.uk/uksi/2004/2526/rule/13)
+
+[^key-fbaf7dc6e2396b392446581e428484d3]: Textual amendment: Words in [rule 20(2)](https://www.legislation.gov.uk/uksi/1993/2854/rule/20/2) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(4)(a)(i)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/4/a/i) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-604b79794ba98abd93e7532b25c10bd9]: Textual amendment: Words in [rule 20(2)](https://www.legislation.gov.uk/uksi/1993/2854/rule/20/2) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/4/a/ii) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-9bf5681683575d536b88648f509d7f43]: Textual amendment: Words in [rule 20(2)](https://www.legislation.gov.uk/uksi/1993/2854/rule/20/2) omitted (27.1.2024) by virtue of [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/4/a/iii) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-275a81ddf9474e80a192404171a4b757]: Textual amendment: Word in [rule 20(2)](https://www.legislation.gov.uk/uksi/1993/2854/rule/20/2) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(4)(a)(iv)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/4/a/iv) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-9824df4d33354491906fee685cacc830]: Textual amendment: Words in [rule 20(3)](https://www.legislation.gov.uk/uksi/1993/2854/rule/20/3) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/4/b) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-aec07bc66cdcdad9154da0cc6986cc48]: Textual amendment: Words in [rule 20(4)](https://www.legislation.gov.uk/uksi/1993/2854/rule/20/4) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/4/b) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-401d4f3d0ffad38761d06f58b1e1426a]: Commencement: Rule 21 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-aff364b55b96458012c779fec9f74b39]: Textual amendment: Words in [rule 21(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/21/1) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/5) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-dcdc1cc5d19598b215d4b6811ca59cad]: Commencement: Rule 22 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-2763e68d44382e141bd074bce4ad9348]: Textual amendment: Word in [rule 22](https://www.legislation.gov.uk/uksi/1993/2854/rule/22) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [14](https://www.legislation.gov.uk/uksi/2004/2526/rule/14)
+
+[^key-898a27a7f568cc773c4d469af3e17865]: Textual amendment: Words in rule 22(1) substituted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2001/1128/rule/13/a) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-f3c0b6d47f34946400455fb7f4b8cd5e]: Textual amendment: Rule 22(2) omitted (16.7.2001) by virtue of [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2001/1128/rule/13/b) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-d0aa3c5e6a9bf0a9efa85f482475aebe]: Commencement: Rule 23 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-27649e41e46ade56de2e76bbd8c0a89e]: Textual amendment: Words in rule 23(1) substituted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2001/1128/rule/14/a) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-0c7b32c825f29c89333670c052548aac]: Textual amendment: [Rule 23(5)](https://www.legislation.gov.uk/uksi/1993/2854/rule/23/5) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/15/1)
+
+[^key-b97497f6bbe38acbe8799aeba0811b7b]: Textual amendment: [Rule 23(5A)-(5C)](https://www.legislation.gov.uk/uksi/1993/2854/rule/23/5A) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2004/2526/rule/15/2)
+
+[^key-8af45fbabb11f96c6fc0612bbe0cc40a]: Textual amendment: Word in [rule 23(6)](https://www.legislation.gov.uk/uksi/1993/2854/rule/23/6) deleted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [15(3)](https://www.legislation.gov.uk/uksi/2004/2526/rule/15/3)
+
+[^key-b3e2f41bc8604c808b8a72ba9cac9c65]: Textual amendment: Words in rule 23(6) substituted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2001/1128/rule/14/b) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-63c9c22bc89d4aebfa5e519f3fd33269]: Textual amendment: [Rule 23A](https://www.legislation.gov.uk/uksi/1993/2854/rule/23A) inserted (10.1.1997) by [The Employment Appeal Tribunal (Amendment) Rules 1996 (S.I. 1996/3216)](https://www.legislation.gov.uk/uksi/1996/3216), [rules 1](https://www.legislation.gov.uk/uksi/1996/3216/rule/1), [2](https://www.legislation.gov.uk/uksi/1996/3216/rule/2)
+
+[^key-5b4e28bc12206979fba36f4a9f7deda4]: Textual amendment: Words in rule 23A(1) substituted (16.7.2001) by virtue of [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [15](https://www.legislation.gov.uk/uksi/2001/1128/rule/15) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-24b42a36d5f96e32f3b807ef77fe3667]: Commencement: Rule 24 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-5af94ab29c23820bff0b8cae6b0897f9]: Commencement: Rule 25 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-6db72ef327e4be9e077a4d735b7a3628]: Commencement: Rule 26 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-cb355cf92f7b53e2a1e3663d41180e01]: Textual amendment: Rule 26 renumbered as rule 26(1) (29.7.2013) by [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/1693/rule/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2013/1693/rule/6/1)
+
+[^key-14f69dd64f146395709a4f75c0c93778]: Textual amendment: Words in rule 26 substituted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [16](https://www.legislation.gov.uk/uksi/2001/1128/rule/16) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-32cf3317d7d9e4d3ac0b437478ed4ce2]: Textual amendment: [Rule 26](https://www.legislation.gov.uk/uksi/1993/2854/rule/26): comma substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [17(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/17/1)
+
+[^key-325d07f8edd1a1e191a62b268d489086]: Textual amendment: Words in [rule 26](https://www.legislation.gov.uk/uksi/1993/2854/rule/26) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [30(7)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/30/7)
+
+[^key-51610b2a97496d80da33e94708e04afe]: Textual amendment: Word in [rule 26](https://www.legislation.gov.uk/uksi/1993/2854/rule/26) omitted (6.4.2005) by virtue of [The Information and Consultation of Employees Regulations 2004 (S.I. 2004/3426)](https://www.legislation.gov.uk/uksi/2004/3426), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/1/1), [41(d)(i)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/41/d/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3426/regulation/3))
+
+[^key-39613dd48131e89d07be811946ca9f85]: Textual amendment: Words in [rule 26](https://www.legislation.gov.uk/uksi/1993/2854/rule/26) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2004/2526/rule/17/2)
+
+[^key-2122977a3682419d3ab51aa1e22de58f]: Textual amendment: Word in [rule 26(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/26/1) inserted (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-52f07864ee7d900852abccc579d8f7c5]: Textual amendment: Word in [rule 26](https://www.legislation.gov.uk/uksi/1993/2854/rule/26) omitted (15.12.2007) by virtue of [The Companies (Cross-Border Mergers) Regulations 2007 (S.I. 2007/2974)](https://www.legislation.gov.uk/uksi/2007/2974), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2974/regulation/1), [64(4)](https://www.legislation.gov.uk/uksi/2007/2974/regulation/64/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2007/2974/regulation/5))
+
+[^key-24e337f46c0a994e98ab991db2242126]: Textual amendment: Words in [rule 26](https://www.legislation.gov.uk/uksi/1993/2854/rule/26) inserted (6.4.2005) by [The Information and Consultation of Employees Regulations 2004 (S.I. 2004/3426)](https://www.legislation.gov.uk/uksi/2004/3426), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/1/1), [41(d)(ii)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/41/d/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3426/regulation/3))
+
+[^key-c0906de362f98981d4e7ac5d99516445]: Textual amendment: Words in [rule 26(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/26/1) omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-093b4ac50c7e669fe9d59c8407edf255]: Textual amendment: Rule 26(2)(3) inserted (29.7.2013) by [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/1693/rule/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2013/1693/rule/6/2)
+
+[^key-a4f6e6721cab20fb1a8750a75851e3b0]: Commencement: Rule 27 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-176e86be8abae4784f1732a4e89d967d]: Textual amendment: Rule 27(1A) inserted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [17](https://www.legislation.gov.uk/uksi/2001/1128/rule/17) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-9e7e5f0424d8f14b5a964af1c558c0ee]: Commencement: Rule 28 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-8d088a83602558c24fa6f7fc47e7af91]: Commencement: Rule 29 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-9849eeeab27571b0f85a2c37e84f5df8]: Textual amendment: Words in rule 29(1) substituted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [18(a)(i)](https://www.legislation.gov.uk/uksi/2001/1128/rule/18/a/i) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-48c636f3b088f1f4f78a621dd2cfbaa0]: Textual amendment: Words in [rule 29(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/29/1) omitted (27.1.2024) by virtue of [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/6) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-3cf39b51c925f22a0fc761206ec4ce81]: Textual amendment: Rule 29(2) substituted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [18(b)](https://www.legislation.gov.uk/uksi/2001/1128/rule/18/b) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-84a77fa8960e28e2f4805858cc345b2c]: Textual amendment: [Rule 29(3)](https://www.legislation.gov.uk/uksi/1993/2854/rule/29/3) inserted (25.9.2022) by [The Employment Appeal Tribunal (Amendment) Rules 2022 (S.I. 2022/932)](https://www.legislation.gov.uk/uksi/2022/932), [rules 1](https://www.legislation.gov.uk/uksi/2022/932/rule/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/932/rule/2/2)
+
+[^key-24cb3af4b8a1de6d98c4b05ee81d1e97]: Textual amendment: Rules 30, 30A substituted for rule 30 (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [19](https://www.legislation.gov.uk/uksi/2001/1128/rule/19) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-c23802f644bab1eb5d8b3ebb9679861b]: Textual amendment: Word in [rule 30A](https://www.legislation.gov.uk/uksi/1993/2854/rule/30A) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [16](https://www.legislation.gov.uk/uksi/2004/2526/rule/16)
+
+[^key-c7eda826242cbceb950e1bfe29d1fc78]: Textual amendment: Words in [rule 30A(2)(a)](https://www.legislation.gov.uk/uksi/1993/2854/rule/30A/2/a) inserted (1.10.2005) by [The Employment Appeal Tribunal (Amendment) Rules 2005 (S.I. 2005/1871)](https://www.legislation.gov.uk/uksi/2005/1871), [rules 1(1)](https://www.legislation.gov.uk/uksi/2005/1871/rule/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2005/1871/rule/2/a)
+
+[^key-9b0b4a7c86caebc3b43a509153c24ff3]: Textual amendment: Words in [rule 30A(2)(a)](https://www.legislation.gov.uk/uksi/1993/2854/rule/30A/2/a) inserted (1.10.2005) by [The Employment Appeal Tribunal (Amendment) Rules 2005 (S.I. 2005/1871)](https://www.legislation.gov.uk/uksi/2005/1871), [rules 1(1)](https://www.legislation.gov.uk/uksi/2005/1871/rule/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2005/1871/rule/2/b)
+
+[^key-d1e26a405a77e7786c120deb49e46e05]: Commencement: Rule 31 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-2975e35abdcc39a7ef7169f40a2caae2]: Textual amendment: Words in rule 31(1)(a) substituted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [20(a)](https://www.legislation.gov.uk/uksi/2001/1128/rule/20/a) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-b5358ab96025c71820e0172b22c4529b]: Textual amendment: Word in rule 31(1)(a) omitted (16.7.2001) by virtue of [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [20(b)](https://www.legislation.gov.uk/uksi/2001/1128/rule/20/b) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-308ba947e4e9b657aba7869e4a87721c]: Textual amendment: Rule 31(1)(c)(d) inserted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [20(c)](https://www.legislation.gov.uk/uksi/2001/1128/rule/20/c) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-9dfe37a8cfc0a2fdfa72aa8a02a48d65]: Textual amendment: Words in [rule 31(1)(c)](https://www.legislation.gov.uk/uksi/1993/2854/rule/31/1/c) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [30(8)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/30/8)
+
+[^key-e6db979608618681bd7f25f83162f955]: Textual amendment: Word in [rule 31(1)(c)](https://www.legislation.gov.uk/uksi/1993/2854/rule/31/1/c) omitted (6.4.2005) by virtue of [The Information and Consultation of Employees Regulations 2004 (S.I. 2004/3426)](https://www.legislation.gov.uk/uksi/2004/3426), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/1/1), [41(d)(i)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/41/d/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3426/regulation/3))
+
+[^key-85f4d3359cb09ef41932e83b61720094]: Textual amendment: Words in [rule 31(1)(c)](https://www.legislation.gov.uk/uksi/1993/2854/rule/31/1/c) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [18](https://www.legislation.gov.uk/uksi/2004/2526/rule/18)
+
+[^key-eb6c0796e9fca5e933d5064ddf3cc0fd]: Textual amendment: Word in [rule 31(1)(c)](https://www.legislation.gov.uk/uksi/1993/2854/rule/31/1/c) inserted (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-40390ef5e4677be210a7af5d20bf28b5]: Textual amendment: Word in [rule 31(1)(c)](https://www.legislation.gov.uk/uksi/1993/2854/rule/31/1/c) omitted (15.12.2007) by virtue of [The Companies (Cross-Border Mergers) Regulations 2007 (S.I. 2007/2974)](https://www.legislation.gov.uk/uksi/2007/2974), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2974/regulation/1), [64(4)](https://www.legislation.gov.uk/uksi/2007/2974/regulation/64/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2007/2974/regulation/5))
+
+[^key-2025a9980ba1d6fa06995e851c71cef8]: Textual amendment: Words in [rule 31(1)(c)](https://www.legislation.gov.uk/uksi/1993/2854/rule/31/1/c) inserted (6.4.2005) by [The Information and Consultation of Employees Regulations 2004 (S.I. 2004/3426)](https://www.legislation.gov.uk/uksi/2004/3426), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/1/1), [41(d)(ii)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/41/d/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3426/regulation/3))
+
+[^key-3ff9249cc085f5d4e5a63029c5d3f417]: Textual amendment: Words in [rule 31(1)(c)](https://www.legislation.gov.uk/uksi/1993/2854/rule/31/1/c) omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2ee3961433dbbce70955283c31dee42a]: Textual amendment: Words in rule 31(2) inserted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [20(d)](https://www.legislation.gov.uk/uksi/2001/1128/rule/20/d) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-b4880a421d47b15546e91389c5aafb45]: Textual amendment: Rule 31A inserted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [21](https://www.legislation.gov.uk/uksi/2001/1128/rule/21) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-15c2c01be72db500fd8ddcec42e6eb3b]: Textual amendment: Word in [rule 31A](https://www.legislation.gov.uk/uksi/1993/2854/rule/31A) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [16](https://www.legislation.gov.uk/uksi/2004/2526/rule/16)
+
+[^key-38510bc160cb9ad0b729ea9b5ccf4d97]: Commencement: Rule 32 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-9228bbf0fbb5fa601a1507516ce7d39c]: Commencement: Rule 33 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-94a2bda92a7f5cb2150f934880ae75b0]: Textual amendment: Words in [rule 33(3)](https://www.legislation.gov.uk/uksi/1993/2854/rule/33/3) substituted (27.1.2024) by [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(7)(a)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/7/a) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-84699aeab693945c9b69d773ea12712c]: Textual amendment: [Rule 33(4)](https://www.legislation.gov.uk/uksi/1993/2854/rule/33/4) omitted (27.1.2024) by virtue of [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [7(7)(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/7/7/b) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+
+[^key-64bdaafc9a0efd4b4f0a0a25c701e094]: Textual amendment: [Rule 34](https://www.legislation.gov.uk/uksi/1993/2854/rule/34) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [20](https://www.legislation.gov.uk/uksi/2004/2526/rule/20)
+
+[^key-6ad721c4e77e86a69ae5db86611fac55]: Textual amendment: [Rules 34A-34D](https://www.legislation.gov.uk/uksi/1993/2854/rule/34A) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [21](https://www.legislation.gov.uk/uksi/2004/2526/rule/21) (with [rule 26(2)](https://www.legislation.gov.uk/uksi/2004/2526/rule/26/2))
+
+[^key-046ad5e64e92515bb9a2e38ef3186e98]: Textual amendment: Rule 34A(2A) inserted (29.7.2013) by [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/1693/rule/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2013/1693/rule/7/a)
+
+[^key-fb25ecad5a591840a51f63825164149d]: Textual amendment: Words in rule 34A(3) inserted (29.7.2013) by [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/1693/rule/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2013/1693/rule/7/b)
+
+[^key-1a8b358a2cf1323a139618fdf765742b]: Textual amendment: Words in rule 34C(4) omitted (29.7.2013) by virtue of [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/1693/rule/1/1), [8](https://www.legislation.gov.uk/uksi/2013/1693/rule/8)
+
+[^key-2228592e68feb2526850400d9360f212]: Textual amendment: [Rule 34D(7)(b)](https://www.legislation.gov.uk/uksi/1993/2854/rule/34D/7/b) substituted (1.2.2025) by [The Employment Appeal Tribunal (Amendment) Rules 2024 (S.I. 2024/1044)](https://www.legislation.gov.uk/uksi/2024/1044), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1044/rule/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/1044/rule/2/3/a)
+
+[^key-8c3d233bf76b7dbfb7915f283d296b5a]: Textual amendment: [Rule 34D(7)(c)](https://www.legislation.gov.uk/uksi/1993/2854/rule/34D/7/c) omitted (1.2.2025) by virtue of [The Employment Appeal Tribunal (Amendment) Rules 2024 (S.I. 2024/1044)](https://www.legislation.gov.uk/uksi/2024/1044), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1044/rule/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/1044/rule/2/3/b)
+
+[^key-7a7f1bf4ce0e041f6614af7d02b070ce]: Commencement: Rule 35 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-b875d2cf2fb238c35a68ea92b07d73eb]: Textual amendment: [Rule 35(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/35/1) substituted (1.2.2025) by [The Employment Appeal Tribunal (Amendment) Rules 2024 (S.I. 2024/1044)](https://www.legislation.gov.uk/uksi/2024/1044), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1044/rule/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1044/rule/2/4/a)
+
+[^key-627c928614e4ad58c21e42311a8dada2]: Textual amendment: [Rule 35(1A)-(1D)](https://www.legislation.gov.uk/uksi/1993/2854/rule/35/1A) inserted (1.2.2025) by [The Employment Appeal Tribunal (Amendment) Rules 2024 (S.I. 2024/1044)](https://www.legislation.gov.uk/uksi/2024/1044), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1044/rule/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/1044/rule/2/4/b)
+
+[^key-71b4e146809bd56f62b00e893cb9a94b]: Commencement: Rule 36 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-1a7660afe7f58c4d4ae9cf2acfb25195]: Textual amendment: Words in [rule 36](https://www.legislation.gov.uk/uksi/1993/2854/rule/36) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [22](https://www.legislation.gov.uk/uksi/2004/2526/rule/22)
+
+[^key-c89724c30c5a80b68ebad8a60b990edd]: Commencement: Rule 37 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-26a1386ab0a76ad787e9062fe898ad2c]: Textual amendment: [Rule 37(1A)](https://www.legislation.gov.uk/uksi/1993/2854/rule/37/1A) inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [23(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/23/1)
+
+[^key-a69379e9b032ba64b935cedd18e1fd6b]: Textual amendment: Word in [rule 37(3)](https://www.legislation.gov.uk/uksi/1993/2854/rule/37/3) substituted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2004/2526/rule/23/2)
+
+[^key-0437d13161761161cb0791cffeb37d7a]: Textual amendment: Rule 37(4) inserted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [23](https://www.legislation.gov.uk/uksi/2001/1128/rule/23) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-6d9d2df219a567867175b30ed84b420d]: Textual amendment: [Rule 37(5)](https://www.legislation.gov.uk/uksi/1993/2854/rule/37/5) inserted (30.9.2023) by [The Employment Appeal Tribunal (Amendment) Rules 2023 (S.I. 2023/967)](https://www.legislation.gov.uk/uksi/2023/967), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/967/rule/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/967/rule/2/3)
+
+[^key-80b01c197f252cd8012f662e435b61ca]: Commencement: Rule 38 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-68efc5c43f51f4360d1c70e06dff7fa9]: Commencement: Rule 39 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-6a59920edc3a7ada0f3f4d7f55912256]: Commencement: Rule 40 in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^f00015]: Footnote: S.I.[1980/2035](https://www.legislation.gov.uk/uksi/1980/2035), amended by S.I.[1985/29](https://www.legislation.gov.uk/uksi/1985/29), [1988/2072](https://www.legislation.gov.uk/uksi/1988/2072).
+
+[^key-f8f07182374dfc47118f4d712c20ce58]: Commencement: Sch. in force at 16.12.1993, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1993/2854/rule/1/1)
+
+[^key-b8b2d913cb733b99ff5cea37d4489ae8]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 1 substituted (1.10.2005) by [The Employment Appeal Tribunal (Amendment) Rules 2005 (S.I. 2005/1871)](https://www.legislation.gov.uk/uksi/2005/1871), [rules 1(1)](https://www.legislation.gov.uk/uksi/2005/1871/rule/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2005/1871/rule/3/a)
+
+[^key-bdead71d01c34b97b8ecf78436dc15e0]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 1 amended as follows (29.7.2013) by [The Employment Appeal Tribunal (Amendment) Rules 2013 (S.I. 2013/1693)](https://www.legislation.gov.uk/uksi/2013/1693), [rules 1(1)](https://www.legislation.gov.uk/uksi/2013/1693/rule/1/1), [9](https://www.legislation.gov.uk/uksi/2013/1693/rule/9): after “Date:” insert “Once you have submitted an appeal you will be asked to pay a fee or you can apply for a fee remission. If you fail to do so on or before the date such fee is due, your appeal will be struck out.”
+
+[^key-34e76549d94b55a9b225b13acc48f8aa]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 1 amended as follows (30.9.2023) by [The Employment Appeal Tribunal (Amendment) Rules 2023 (S.I. 2023/967)](https://www.legislation.gov.uk/uksi/2023/967), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/967/rule/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2023/967/rule/2/4/a):
+
+    (i) in paragraph 2 for “including telephone number if any” substitute “including email address and telephone number, if any - please state your preferred method of communication”;
+
+    (ii) in paragraph 4 after “addresses” insert “- including email addresses and telephone numbers if available -”;
+
+    (iii) for paragraph 5 substitute— “(5) You must attach to this notice— (a) in the case of an appeal from a judgment of an employment tribunal a copy of the written record of the judgment of the employment tribunal which is subject to appeal and the written reasons for the judgment, or an explanation as to why written reasons are not included; (b) in the case of an appeal from an order or other decision of an employment tribunal in relation to the conduct of proceedings, a copy of the written record of the order or decision of the employment tribunal which is subject to appeal and (if available) the written reasons for that order or decision.”;
+
+    (iv) in paragraph 6— (aa) for “review” in each place it occurs substitute “reconsideration”; (ab) in the words after sub-paragraph (d) for “must” substitute “should”;
+
+    (v) after paragraph 7 insert— “Before submitting a Notice of Appeal, you should read and consider the relevant sections of the Appeal Tribunal Practice Direction. If you decide to submit an appeal, you must comply with the sections of the Appeal Tribunal Practice Direction relevant to each step you take in the appeal. You must also comply with the overriding objective and communicate with the Appeal Tribunal and the other party or parties in a respectful and appropriate manner.”;
+
+    (vi) after “Date” omit the words from “Once you have” to “struck out.”
+
+[^M_F_5533046b-768c-44e1-9664-77d7857ab67a]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 1 para. 5(a): words “written full reasons” substituted for “written reasons” in both places (2.3.2026) by [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/4/a) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^M_F_ddb11d45-9866-4dfd-cb2a-396531189ca8]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 1 para. 6 before sub-paragraph (a): words “or decision” omitted (2.3.2026) by [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/4/b/i) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^M_F_90cccd41-20a3-4d00-a601-76b030550431]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 1 para. 6(c): words “written full reasons” substituted for “written reasons” (2.3.2026) by [The Employment Appeal Tribunal (Amendment) Rules 2026 (S.I. 2026/114)](https://www.legislation.gov.uk/uksi/2026/114), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/114/rule/1/2), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/114/rule/2/4/b/ii) (with [rule 3](https://www.legislation.gov.uk/uksi/2026/114/rule/3))
+
+[^key-4c9eb4a37a11c1e062fa9b34482c9a36]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 1A inserted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [24](https://www.legislation.gov.uk/uksi/2001/1128/rule/24) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-36ec97d967c2808591f6fe86e5e3dd2c]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 1A heading omitted (6.4.2005) by virtue of [The Information and Consultation of Employees Regulations 2004 (S.I. 2004/3426)](https://www.legislation.gov.uk/uksi/2004/3426), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/1/1), [41(e)(i)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/41/e/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3426/regulation/3))
+
+[^key-d1ffc426037eb19faccb7d983b822833]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 1A inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [25(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/25/1)
+
+[^key-2f2a6a9efa796079284449c97ac37b94]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 1A heading omitted (15.12.2007) by virtue of [The Companies (Cross-Border Mergers) Regulations 2007 (S.I. 2007/2974)](https://www.legislation.gov.uk/uksi/2007/2974), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2974/regulation/1), [64(5)](https://www.legislation.gov.uk/uksi/2007/2974/regulation/64/5) (with [reg. 5](https://www.legislation.gov.uk/uksi/2007/2974/regulation/5))
+
+[^key-b99c1ce85a684de53b986f4a218ec37f]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 1A heading inserted (30.9.2023) by [The Employment Appeal Tribunal (Amendment) Rules 2023 (S.I. 2023/967)](https://www.legislation.gov.uk/uksi/2023/967), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/967/rule/1/1), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2023/967/rule/2/4/b/i)
+
+[^key-4df4adfda590533330c1e389d898a25f]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 1A heading inserted (6.4.2005) by [The Information and Consultation of Employees Regulations 2004 (S.I. 2004/3426)](https://www.legislation.gov.uk/uksi/2004/3426), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/1/1), [41(e)(ii)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/41/e/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3426/regulation/3))
+
+[^key-e0cb65576d3a4dd645cd14fe2750bc0b]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 1A heading inserted (15.12.2007) by [The Companies (Cross-Border Mergers) Regulations 2007 (S.I. 2007/2974)](https://www.legislation.gov.uk/uksi/2007/2974), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2974/regulation/1), [64(5)](https://www.legislation.gov.uk/uksi/2007/2974/regulation/64/5) (with [reg. 5](https://www.legislation.gov.uk/uksi/2007/2974/regulation/5))
+
+[^key-bc1c5c506088514f51ddcf2d48a494d6]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 1A amended as follows (30.9.2023) by [The Employment Appeal Tribunal (Amendment) Rules 2023 (S.I. 2023/967)](https://www.legislation.gov.uk/uksi/2023/967), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/967/rule/1/1), [2(4)(b)(ii)-(iv)](https://www.legislation.gov.uk/uksi/2023/967/rule/2/4/b/ii):
+
+    (ii) in paragraph 2 for “including telephone number if any” substitute “including email address and telephone number, if any - please state your preferred method of communication”;
+
+    (iii) in paragraph 4 after “addresses” insert “- including email addresses and telephone numbers if available-”;
+
+    (iv) after paragraph 6 insert— “Before submitting a Notice of Appeal, you should read and consider the relevant sections of the Appeal Tribunal Practice Direction. If you decide to submit an appeal, you must comply with the sections of the Appeal Tribunal Practice Direction relevant to each step you take in the appeal. You must also comply with the overriding objective and communicate with the Appeal Tribunal and the other party or parties in a respectful and appropriate manner.”
+
+[^key-4d225cd74761ddfc043978aec4a57acd]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 2 amended as follows (30.9.2023) by [The Employment Appeal Tribunal (Amendment) Rules 2023 (S.I. 2023/967)](https://www.legislation.gov.uk/uksi/2023/967), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/967/rule/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2023/967/rule/2/4/c):
+
+    (i) in paragraph 2 for “including telephone number if any” substitute “including email address and telephone number, if any - please state your preferred method of communication”;
+
+    (ii) after paragraph 4 insert— “Before submitting a Notice of Appeal, you should read and consider the relevant sections of the Appeal Tribunal Practice Direction. If you decide to submit an appeal, you must comply with the sections of the Appeal Tribunal Practice Direction relevant to each step you take in the appeal. You must also comply with the overriding objective and communicate with the Appeal Tribunal and the other party or parties in a respectful and appropriate manner.”
+
+[^key-0480ad8d2faff6eb6c70b4973139535d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 3 inserted (1.10.2005) by [The Employment Appeal Tribunal (Amendment) Rules 2005 (S.I. 2005/1871)](https://www.legislation.gov.uk/uksi/2005/1871), [rules 1(1)](https://www.legislation.gov.uk/uksi/2005/1871/rule/1/1), [3(b)(i)](https://www.legislation.gov.uk/uksi/2005/1871/rule/3/b/i)
+
+[^key-89a33746990e680b594ee74fbf6e9d45]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 3 para. 3: word “judgment,” inserted before “decision” (1.10.2005) by [The Employment Appeal Tribunal (Amendment) Rules 2005 (S.I. 2005/1871)](https://www.legislation.gov.uk/uksi/2005/1871), [rules 1(1)](https://www.legislation.gov.uk/uksi/2005/1871/rule/1/1), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2005/1871/rule/3/b/ii)
+
+[^key-5c4e788bc90a13b875212a06d6ae30ac]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 3 amended as follows (30.9.2023) by [The Employment Appeal Tribunal (Amendment) Rules 2023 (S.I. 2023/967)](https://www.legislation.gov.uk/uksi/2023/967), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/967/rule/1/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2023/967/rule/2/4/d):
+
+    (i) in paragraph 2 for “including telephone number if any” substitute “including email address and telephone number, if any - please state your preferred method of communication”;
+
+    (ii) before “Date” insert— “You must read and comply with the sections of the Appeal Tribunal Practice Direction relevant to each step you take in this appeal/application. You must also comply with the overriding objective and communicate with the Appeal Tribunal and other party or parties in a respectful and appropriate manner.”
+
+[^key-090f36ab8f2ddab838f95f08ecb5d1da]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 4 amended as follows (30.9.2023) by [The Employment Appeal Tribunal (Amendment) Rules 2023 (S.I. 2023/967)](https://www.legislation.gov.uk/uksi/2023/967), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/967/rule/1/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2023/967/rule/2/4/e):
+
+    (i) in paragraph 2 for “including telephone number, if any” substitute “including email address and telephone number, if any - please state your preferred method of communication”;
+
+    (ii) before “Date” insert— “You must read and comply with the sections of the Appeal Tribunal Practice Direction relevant to each step you take in this appeal/application. You must also comply with the overriding objective and communicate with the Appeal Tribunal and other party or parties in a respectful and appropriate manner.”
+
+[^key-0416aa6080de310e5a738b3efc1e5444]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 4A omitted (5.6.2011) by virtue of [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [30(9)(a)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/30/9/a)
+
+[^key-230c38ac3bd828de171369902053c69d]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 4B inserted (1.10.2004) by [The Employment Appeal Tribunal (Amendment) Rules 2004 (S.I. 2004/2526)](https://www.legislation.gov.uk/uksi/2004/2526), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/2526/rule/1/1), [25(2)](https://www.legislation.gov.uk/uksi/2004/2526/rule/25/2)
+
+[^key-27bd64268da1ee406c6b1a56fe0d7c29]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 4B heading inserted (6.4.2005) by [The Information and Consultation of Employees Regulations 2004 (S.I. 2004/3426)](https://www.legislation.gov.uk/uksi/2004/3426), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/1/1), [41(f)(i)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/41/f/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3426/regulation/3))
+
+[^key-4edecc8f9f2e6f7e3bf68f47a56a1c3c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 4B heading inserted (15.12.2007) by [The Companies (Cross-Border Mergers) Regulations 2007 (S.I. 2007/2974)](https://www.legislation.gov.uk/uksi/2007/2974), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2974/regulation/1), [64(6)(a)](https://www.legislation.gov.uk/uksi/2007/2974/regulation/64/6/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2007/2974/regulation/5))
+
+[^key-661de339a74664eeed320d8c3b9ca6e1]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 4B heading inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [30(9)(b)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/30/9/b)
+
+[^key-234946181714062a10f234a0125f478c]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 4B: words “or regulation 22 of the Information and Consultation of Employees Regulations 2004 (delete which does not apply)” inserted after “Regulations 2004” in Form 4B para. 5 (6.4.2005) by [The Information and Consultation of Employees Regulations 2004 (S.I. 2004/3426)](https://www.legislation.gov.uk/uksi/2004/3426), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/1/1), [41(f)(ii)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/41/f/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3426/regulation/3))
+
+[^key-fc0d6bf6c0dedcdf99786f5326e46a8c]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 4B: words “or regulation 53 of the Companies (Cross-Border Mergers) Regulations 2007 ” inserted after “regulation 22 of the Information and Consultation Regulations” and before “(delete which does not apply).” in Form 4B para. 5 (15.12.2007) by [The Companies (Cross-Border Mergers) Regulations 2007 (S.I. 2007/2974)](https://www.legislation.gov.uk/uksi/2007/2974), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2974/regulation/1), [64(6)(b)](https://www.legislation.gov.uk/uksi/2007/2974/regulation/64/6/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2007/2974/regulation/5))
+
+[^M_F_4a5c933e-e793-45e3-aa8d-f289c91d65fb]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 4B: words “or decision (delete which does not apply)” inserted after “declaration” and words “or regulation 20, 21 or 21A of the Transnational Information and Consultation of Employees Regulations 1999” inserted after “or regulation 53 of the Companies (Cross-Border Mergers) Regulations 2007” in Form 4B heading (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [30(9)(c)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/30/9/c)
+
+[^key-7d5c7901b1800e2647e3dd5b11981cf7]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 4B amended as follows (30.9.2023) by [The Employment Appeal Tribunal (Amendment) Rules 2023 (S.I. 2023/967)](https://www.legislation.gov.uk/uksi/2023/967), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/967/rule/1/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2023/967/rule/2/4/d):
+
+    (i) in paragraph 2 for “including telephone number if any” substitute “including email address and telephone number, if any - please state your preferred method of communication”;
+
+    (ii) before “Date” insert— “You must read and comply with the sections of the Appeal Tribunal Practice Direction relevant to each step you take in this appeal/application. You must also comply with the overriding objective and communicate with the Appeal Tribunal and other party or parties in a respectful and appropriate manner.”
+
+[^key-a451b91d5881061e7645a44beede86be]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 5 amended as follows (30.9.2023) by [The Employment Appeal Tribunal (Amendment) Rules 2023 (S.I. 2023/967)](https://www.legislation.gov.uk/uksi/2023/967), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/967/rule/1/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2023/967/rule/2/4/e):
+
+    (i) in paragraph 2 for “including telephone number, if any” substitute “including email address and telephone number, if any - please state your preferred method of communication”;
+
+    (ii) before “Date” insert— “You must read and comply with the sections of the Appeal Tribunal Practice Direction relevant to each step you take in this appeal/application. You must also comply with the overriding objective and communicate with the Appeal Tribunal and other party or parties in a respectful and appropriate manner.”
+
+[^key-2162a58d86ec1a0e2efd030d4b12bf20]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 5A inserted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [26](https://www.legislation.gov.uk/uksi/2001/1128/rule/26) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-1a000f9cd83f3fd5d8173fc134d526c8]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 5A heading substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [30(9)(d)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/30/9/d)
+
+[^key-750b83bd4fc41af3a80fe097addfdcc5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 5A heading omitted (30.9.2023) by virtue of [The Employment Appeal Tribunal (Amendment) Rules 2023 (S.I. 2023/967)](https://www.legislation.gov.uk/uksi/2023/967), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/967/rule/1/1), [2(4)(f)(i)](https://www.legislation.gov.uk/uksi/2023/967/rule/2/4/f/i)
+
+[^key-611a8e024450fe49417334cc9344513c]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 5A amended as follows (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [30(9)(e)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/30/9/e): in the text below paragraph 3, after “Transnational Information and Consultation of Employees Regulations 1999” insert “or European Public Limited-Liability Company (Employee Involvement) (Great Britain) Regulations 2009 or Information and Consultation of Employees Regulations 2004 or Companies (Cross-Border Mergers) Regulations 2007”
+
+[^key-a014f093fe596dafacd691e9862399ca]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 5A amended as follows (30.9.2023) by [The Employment Appeal Tribunal (Amendment) Rules 2023 (S.I. 2023/967)](https://www.legislation.gov.uk/uksi/2023/967), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/967/rule/1/1), [2(4)(f)(ii)-(iv)](https://www.legislation.gov.uk/uksi/2023/967/rule/2/4/f/ii):
+
+    (ii) in paragraph 2 for “including telephone number, if any” substitute “including email address and telephone number, if any - please state your preferred method of communication”;
+
+    (iii) in the text immediately after paragraph 3 omit “or Companies (Cross-Border Mergers) Regulations 2007”;
+
+    (iv) before “Date” insert— “You must read and comply with the sections of the Appeal Tribunal Practice Direction relevant to each step you take in this appeal/application. You must also comply with the overriding objective and communicate with the Appeal Tribunal and other party or parties in a respectful and appropriate manner.”
+
+[^key-860efd2112abe519a8e0fd794ea97964]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Forms 6, 7 substituted (16.7.2001) by [The Employment Appeal Tribunal (Amendment) Rules 2001 (S.I. 2001/1128)](https://www.legislation.gov.uk/uksi/2001/1128), [rules 1(1)](https://www.legislation.gov.uk/uksi/2001/1128/rule/1/1), [27](https://www.legislation.gov.uk/uksi/2001/1128/rule/27) (with [rule 28](https://www.legislation.gov.uk/uksi/2001/1128/rule/28)) (as amended by [S.I. 2001/1476](https://www.legislation.gov.uk/uksi/2001/1476), [rule 2](https://www.legislation.gov.uk/uksi/2001/1476/rule/2))
+
+[^key-3159083b167e3c927348c9d1e1073eac]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1993/2854/schedule) Form 6 amended as follows (30.9.2023) by [The Employment Appeal Tribunal (Amendment) Rules 2023 (S.I. 2023/967)](https://www.legislation.gov.uk/uksi/2023/967), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/967/rule/1/1), [2(4)(g)](https://www.legislation.gov.uk/uksi/2023/967/rule/2/4/g):
+
+    (i) in paragraph 2 for “including telephone number” substitute “including email address and telephone number, if any - please state your preferred method of communication”;
+
+    (ii) after paragraph 4 insert— “You must read and comply with the sections of the Appeal Tribunal Practice Direction relevant to each step you take in this appeal/application. You must also comply with the overriding objective and communicate with the Appeal Tribunal and other party or parties in a respectful and appropriate manner.”
+
+[^key-19a9b13924e132510813a1800fb6feac]: Textual amendment: Sch. Form 7 amended as follows (30.9.2023) by [The Employment Appeal Tribunal (Amendment) Rules 2023 (S.I. 2023/967)](https://www.legislation.gov.uk/uksi/2023/967), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/967/rule/1/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2023/967/rule/2/4/e):
+
+    (i) in paragraph 2 for “including telephone number, if any” substitute “including email address and telephone number, if any - please state your preferred method of communication”;
+
+    (ii) before “Date” insert— “You must read and comply with the sections of the Appeal Tribunal Practice Direction relevant to each step you take in this appeal/application. You must also comply with the overriding objective and communicate with the Appeal Tribunal and other party or parties in a respectful and appropriate manner.”

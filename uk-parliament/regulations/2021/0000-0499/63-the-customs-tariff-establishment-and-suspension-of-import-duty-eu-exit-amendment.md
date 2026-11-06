@@ -1,0 +1,106 @@
+---
+title: The Customs Tariff (Establishment and Suspension of Import Duty) (EU Exit) (Amendment) Regulations 2021
+id: uksi/2021/63
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-01-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2021/63
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/63/pdfs/uksiem_20210063_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/63/pdfs/uksi_20210063_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/63/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Customs Tariff (Establishment and Suspension of Import Duty) (EU Exit) (Amendment) Regulations 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+This Statutory Instrument has been printed to correct errors in [S.I. 2020/1430](https://www.legislation.gov.uk/uksi/2020/1430) and [S.I. 2020/1435](https://www.legislation.gov.uk/uksi/2020/1435) and is being issued free of charge to all known recipients of those Statutory Instruments.
+
+2021 No. 63
+
+Customs
+
+The Customs Tariff (Establishment and Suspension of Import Duty) (EU Exit) (Amendment) Regulations 2021
+
+Approved by the House of Commons
+
+Made
+
+at 9.15 a.m. on 21st January 2021
+
+Laid before the House of Commons
+
+at 1.30 p.m. on 21st January 2021
+
+Coming into force
+
+22nd January 2021
+
+The Treasury, in exercise of the powers conferred by sections 8 and 12(1) of, and paragraph 1(3)(c) of Schedule 7 to, the Taxation (Cross-border Trade) Act 2018[^f00001], make the following Regulations.
+
+In considering the rate of import duty that ought to apply to goods in a standard case[^f00002] for which provision is made by the following Regulations, the Treasury have had regard to the matters in section 8(5) of that Act and the recommendation about the rate made to the Treasury by the Secretary of State further to section 8(6) of that Act[^f00003].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Customs Tariff (Establishment and Suspension of Import Duty) (EU Exit) (Amendment) Regulations 2021 and come into force on 22nd January 2021.
+
+## 2. Amendment of the Customs Tariff (Establishment) (EU Exit) Regulations 2020
+
+In regulation 1(2) of the Customs Tariff (Establishment) (EU Exit) Regulations 2020[^f00004], in the definition of “Tariff of the United Kingdom”, for “1.0, dated 8th December 2020” substitute “1.1, dated 19th January 2021[^f00005]”.
+
+## 3. Amendment of the Customs Tariff (Suspension of Import Duty Rates) (EU Exit) Regulations 2020
+
+In regulation 2 of the Customs Tariff (Suspension of Import Duty Rates) (EU Exit) Regulations 2020[^f00006]—
+
+- (a) omit the definition of “Suspensions of Import Duty Rates Document”;
+- (b) after the definition of “standard rate of import duty”, insert—
+
+  > - “Suspensions of Import Duty Rates Document” means the Tariff Suspension Document, version 1.1, dated 19th January 2021[^f00007];
+
+  .
+
+Maggie Throup
+
+Michael Tomlinson
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+At 9.15 a.m. on 21st January 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made by the Treasury further to Part 1 of the Taxation (Cross-border Trade) Act [2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22) (the “Act”) and amend the Customs Tariff (Establishment) (EU Exit) Regulations 2020 ([S.I. 2020/1430](https://www.legislation.gov.uk/uksi/2020/1430)) (the “Establishment Regulations”) and the Customs Tariff (Suspension of Import Duty Rates) (EU Exit) Regulations 2020 ([S.I. 2020/1435](https://www.legislation.gov.uk/uksi/2020/1435)) (the “Suspension Regulations”).
+
+Regulation 2 amends the definition of “Tariff of the United Kingdom” in the Establishment Regulations to refer to a revised United Kingdom tariff document. This document is revised to correct errors in relation to the rate of import duty applicable to goods, for the purposes of the system known as the customs tariff (see section 8(2) of the Act) established by regulation 2 of those Regulations.
+
+Regulation 3 replaces the definition of “Suspensions of Import Duty Rates Document” in the Suspension Regulations to refer to a revised tariff suspension document. This document is revised to correct errors in relation to the applicable duty rate in the list of goods that are subject to a suspension.
+
+The Establishment Regulations and the Suspension Regulations which these Regulations amend are two of a group of instruments covered by an overarching Tax Information and Impact Note (TIIN). The TIIN primarily focuses on the Establishment Regulations and is available at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins.
+
+There is no significant impact on business, charities or voluntary bodies as this instrument broadly replicates the effect of European Union legislation.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
+
+[^f00002]: Footnote: “Standard case” is defined in section 8(8) of the Taxation (Cross-border Trade) Act 2018.
+
+[^f00003]: Footnote: A summary explanation about the rate of import duty, including the recommendation, is available electronically from: https://www.gov.uk/government/collections/customs-vat-and-excise-uk-transition-legislation-from-1-january-2021. A person unable to access this electronically can arrange access to a hard copy, while government advice on social distancing and unnecessary travel applies, by calling 020 7270 5000, and otherwise by inspection free of charge at HMRC, 100 Parliament Street, London SW1A 2BQ.
+
+[^f00004]: Footnote: [S.I. 2020/1430](https://www.legislation.gov.uk/uksi/2020/1430).
+
+[^f00005]: Footnote: The Tariff of the United Kingdom, version 1.1, dated 19th January 2021, is available electronically from https://www.gov.uk/government/collections/customs-vat-and-excise-uk-transition-legislation-from-1-january-2021. A person unable to access the document electronically can arrange access to a hard copy, while government advice on social distancing and unnecessary travel applies, by calling 020 7270 5000 and otherwise by inspection free of charge at HMRC, 100 Parliament Street, London SW1A 2BQ.
+
+[^f00006]: Footnote: [S.I. 2020/1435](https://www.legislation.gov.uk/uksi/2020/1435).
+
+[^f00007]: Footnote: The Tariff Suspension Document version 1.1 dated 19th January 2021, is available electronically from: https://www.gov.uk/government/collections/customs-vat-and-excise-uk-transition-legislation-from-1-january-2021. A person unable to access this electronically can arrange access to a hard copy, while government advice on social distancing and unnecessary travel applies, by calling 020 7215 5000, and otherwise by inspection free of charge at the Department for International Trade, 3 Whitehall Place, London SW1A 2AW.

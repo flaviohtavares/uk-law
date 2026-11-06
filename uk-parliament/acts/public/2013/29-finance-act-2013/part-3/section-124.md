@@ -1,0 +1,39 @@
+---
+title: Finance Act 2013, section 124
+act: Finance Act 2013
+section: '124'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2013/29/section/124
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2013, section 124
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 124. New dwellings
+
+*Extent: E+W+S+N.I.*
+
+(1) Where a new dwelling is being or has been constructed (whether or not as part of a larger building) the earlier of the following days is a valuation date in the case of a single-dwelling interest in that dwelling—
+
+- (a) the completion day;
+- (b) the day on which the dwelling is first occupied.
+
+(2) The reference in subsection (1) to the construction of a new dwelling—
+
+- (a) includes the production of a new dwelling by the alteration (whether structural or otherwise) of an existing building, but
+- (b) does not include a case to which section 125 (dwellings produced from other dwellings) or section 128 (demolition and replacement: new dwellings) applies.
+
+(3) The reference in subsection (1) to the “completion day” is to the day on which the new dwelling is treated as having come into existence for the purposes of—
+
+- (a) Part 1 of the Local Government Finance Act 1992 (council tax: England and Wales) (see section 17 of that Act), or
+- (b) Part 2 of that Act (council tax: Scotland) (see section 83 of that Act), or
+- (c) the Rates (Northern Ireland) Order 1977 (S.I. 1977/2157 (N.I. 28)) (see Article 25B of that Order).
+
+(4) In this section “**building**” includes a part of a building.

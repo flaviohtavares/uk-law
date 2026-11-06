@@ -1,0 +1,984 @@
+---
+title: The Postal Services Act 2011 (Transfer of Assets) Order 2012
+id: uksi/2012/688
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-03-08'
+text_date: '2012-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2012/688
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/688/pdfs/uksiem_20120688_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/688/pdfs/uksi_20120688_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/688/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Postal Services Act 2011 (Transfer of Assets) Order 2012
+
+> Text as at 2012-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2012 No. 688
+
+Postal Services
+
+The Postal Services Act 2011 (Transfer of Assets) Order 2012
+
+Made
+
+8th March 2012
+
+Laid before Parliament
+
+9th March 2012
+
+Coming into force in accordance with article 1(2)
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 21, 22, 25, 26(1), and 89(2) of the Postal Services Act 2011[^f00001]. The Secretary of State has consulted the parties required by section 25(1), obtained consent of the Treasury in accordance with section 25(2), and makes this Order in compliance with section 22(1) of the Postal Services Act 2011:
+
+## 1. Citation, commencement and interpretation[^key-ee59b8a3f13a24ebe9e73211453e44b6]
+
+(1)[^key-ee59b8a3f13a24ebe9e73211453e44b6] This Order may be cited as the Postal Services Act 2011 (Transfer of Assets) Order 2012.
+
+(2)[^key-ee59b8a3f13a24ebe9e73211453e44b6] Article 1(1) and (2) will come into force on 31 March 2012, and articles 1(3) and 2 to 9 will come into force on a day to be specified by Order made under section 25(4) and (5) of the Postal Services Act 2011.
+
+(3)[^key-1dabe6c1a9f52fd750523759879fdf80] In this Order—
+
+- “Adjusted Final Transfer Amount” means the Final Transfer Amount adjusted in accordance with whichever of paragraphs 9 or 12 of Schedule 6 (assets comprising the transfers) applies;
+- “Amended RMPP Rules” means the trust deed and rules governing the RMPP as amended by article 11 but not article 13 of the Benefits Order;
+- “Associated Liability” means any liability related to an Asset or Claim (where Asset has the meaning given in Schedule 5 (further provision about transfer of assets));
+- “Benefits Order” means the Postal Services Act 2011 (Transfer of Accrued Pension Rights) Order 2012[^f00002];
+- “Claim” has the meaning given in Schedule 5;
+- “Cut-Off Date” and “Effective Date” both mean 31 March 2012;
+- “Estimated Final Transfer Amount” is the amount calculated in accordance with paragraph 9 of Schedule 1;
+- “Estimated Final Transfer Amount Portfolio” has the meaning given in paragraph 4 of Schedule 6;
+- “Final Transfer” has the meaning given in article 6(a);
+- “Final Transfer Amount” is the amount calculated in accordance with paragraph 10 of Schedule 1;
+- “Final Transfer Date” means the fifth business day after the day on which the Government Actuary verifies that the calculation of the Final Transfer Amount is complete in accordance with article 3(b);
+- “Fund” means BIS (Postal Services Act 2011) Company Limited (registered number 7941521);
+- “Fund Subsidiary” means BIS (Postal Services Act 2011) B Company Limited (registered number 7970529);
+- “Gilts” means stock or bonds of any of the descriptions included in Part I of Schedule 11 to the Finance Act 1942[^f00003];
+- “Government Actuary” means the Government Actuary or the Deputy Government Actuary;
+- “Interim Transfer” has the meaning given in article 5(a);
+- “Interim Transfer Amount” is the amount calculated in accordance with paragraph 8 of Schedule 1;
+- “money purchase benefits” has the meaning given by the words used to define “money purchase benefits” at section 181 of the Pension Schemes Act 1993[^f00004] read together with section 29 of the Pensions Act 2011[^f00005];
+- “Transfer” is the Interim Transfer or the Final Transfer, as the case may be, and “Transfers” means both of them; and
+- “Trustee” means Royal Mail Pensions Trustees Limited or such other person who is trustee of the RMPP as at the applicable time.
+
+## 2. Determination of Transfer Amounts[^key-bd756b590a71a2678029becbac40fa01][^key-78d688e386a2786f12ed13e02abfcab4]
+
+The Government Actuary must determine—
+
+- (a) the Interim Transfer Amount, the Estimated Final Transfer Amount and the Final Transfer Amount in accordance with Schedules 1, 2, and 3, and
+- (b) the Adjusted Final Transfer Amount in accordance with those Schedules and also paragraphs 9 and 12 of Schedule 6.
+
+## 3.[^key-b8fc9ebc2d350081cd9314059c3c39f0][^key-802bf2e11a365edf7577553cd8d16704]
+
+The determinations must be made at the following times—
+
+- (a) the Interim Transfer Amount, the Estimated Final Transfer Amount must be determined as soon as is reasonably practicable after the Effective Date.
+- (b) The Final Transfer Amount must be determined as soon as is reasonably practicable after the time that the Government Actuary is able to make that determination;
+- (c) The Adjusted Final Transfer Amount must be determined as soon as is reasonably practicable after the Final Transfer Date.
+
+## 4. Interim and Final Transfers[^key-28c5dbe465126786780ab6c4a52f9c35][^key-8738d6a63ef9680928d7335a4b6fc44b]
+
+The Trustee must make the Transfers in accordance with articles 5 to 9.
+
+## 5.[^key-eb211a8007def3d8d815f15d49aa7d8d][^M_I_fab66868-0cfc-4370-be6c-a683e736ab1f]
+
+The Interim Transfer—
+
+- (a) is the transfer of an amount of assets which have a value, determined in accordance with Schedule 4, as at the Effective Date equal to the Interim Transfer Amount, together with any Associated Liabilities and Claims related to those assets, and
+- (b) must take effect at the time provided for by whichever of paragraphs 2, 5, 6, 7, 8, 9 or 10 of Schedule 5 applies in respect of each asset.
+
+## 6.[^key-9f8085334563bfce1f8f52f105955374][^key-0a233e60c22402ba15efd4e9a2592be4]
+
+The Final Transfer—
+
+- (a) is the transfer of an amount of assets which have a value, determined in accordance with Schedule 4, as at the Final Transfer Date equal to the Adjusted Final Transfer Amount, together with any Associated Liabilities and Claims related to those assets, and
+- (b) must take effect at the time provided for by whichever of paragraphs 2, 5, 6, 7, 8, 9 or 10 of Schedule 5 applies in respect of each asset.
+
+## 7.[^key-aa4c9e94e0ced589d86aafb2d2082c62][^key-5d7300359112f8a40bc5954d8dbe7efa]
+
+The Transfers are to the Fund, other than in respect of any assets listed at paragraph 2 of Schedule 6, which are to the Fund Subsidiary.
+
+## 8.[^key-db6e23e454f67acfbaae08c25f732c2d][^key-bf7f848a2fa42e65304dcff371ab27b1]
+
+The Transfers are subject to Schedule 5 which makes provision in respect of the Transfers and arrangements relating to the assets, Associated Liabilities and Claims.
+
+## 9.[^key-0e09de77c655c63ae797e797ef9b4fcf][^key-7d926f0daf013f938d3d44026682ed6f]
+
+Schedule 6 makes further provision about—
+
+- (a) the assets comprising the Transfers,
+- (b) the investment by the Trustee of assets in the Estimated Final Transfer Amount Portfolio, and
+- (c) the calculation of the Adjusted Final Transfer Amount.
+
+Norman Lamb
+
+Parliamentary Under Secretary of State for Employment Relations, Consumer and Postal Affairs
+
+Department for Business, Innovation and Skills
+
+7th March 2012
+
+Michael Fabricant
+
+James Duddridge
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+8th March 2012
+
+## SCHEDULE 1 — CALCULATION OF TRANSFER AMOUNTS
+
+Article 2
+
+### 1. Definitions[^key-b41ae69bc076fb09866cc0dfbbe272cb][^key-5c14a8db14adc3d63bd1cc515f8ba050]
+
+In this Schedule—
+
+- “C” means the Cut-Off Date (31 March 2012);
+- “E” means the Effective Date (31 March 2012);
+- “F” means the Final Transfer Date;
+- “Interim Calculation Date 1” or “I1” means 30 September 2011;
+- “Interim Calculation Date 2” or “I2” means 31 January 2012;
+- “Interim Calculation Date 3” or “I3” means 31 March 2011;
+- “Market Value Adjustment 1” or “MVA1” has the meaning given in paragraphs 5 and 6;
+- “Market Value Adjustment 2” or “MVA2” has the meaning given in paragraphs 5 and 7;
+- “RMPP Cut-Off Date Rules” has the meaning given in Schedule 1 of the Benefits Order[^f00006];
+- “RMPP A<sub>x</sub>” means the audited value of the assets of the RMPP (determined in accordance with paragraphs 3 and 4) as at a particular date X (being a date before the Interim Transfer is made);
+- “RMPP A′<sub>x</sub>” means the estimated value of the assets of the RMPP (determined in accordance with paragraphs 3 and 4) as at a particular date X (being a date before the Interim Transfer is made);
+- “RMPP L<sub>SAM</sub>” means the liabilities of the RMPP (determined in accordance with paragraph (2)) where—
+  - “S” represents the date up to and including which members’ service is measured for the calculation;
+  - “A” represents the date as at which the financial assumptions are to be determined for the purpose of the calculation;
+  - “M” represents the date of the membership (but not service) and salary data to be used in the liability calculation;
+- “RMPP FL<sub>XY</sub>” means the funding level of the RMPP, which is calculated as—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2012/688)
+- (where Y, X, and X have the role of S, A and M respectively by reference to the definition of RMPP L<sub>SAM</sub>);
+- “RMPP FL′<sub>XYZA</sub>” means the estimated funding level of the RMPP, which is calculated as—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2012/688)
+- (where Y, Z and A have the role of S, A and M respectively by reference to the definition of RMPP L<sub>SAM</sub>);
+
+### 2. Basis for calculating the liabilities of the RMPP[^key-04781d2a7ff7678effe716617323d744][^key-89936b67d2eaa85385f05dbbc64c5fad]
+
+The liabilities of the RMPP must be determined—
+
+- (a) using the standard actuarial method known as the projected accrued benefit method;
+- (b) on the basis of the financial assumptions in Schedule 2;
+- (c) on the basis of the demographic assumptions in Schedule 3;
+- (d) by reference to the applicable trust deed and rules governing the RMPP and membership as provided for in paragraph 11;
+- (e) without reference to any liabilities in respect of money purchase benefits; and
+- (f) including provision for members’ contractual added years purchased by the payment of additional voluntary contributions.
+
+### 3. Basis for calculating the value of the RMPP assets[^key-6e4057f6821f15557b7380664e202619][^key-4ff1a8fa382dc0ff66592b5a05d3d72e]
+
+The assets of the RMPP must be valued applying the methodology in Schedule 4.
+
+### 4.[^key-8ca00a96e80db4826be576d5073d16bd][^key-7e09ae55ca74b2534132251f59923e6a]
+
+For the purposes of that valuation—
+
+- (a) the value of the assets includes net current assets and liabilities, but excludes—
+  - (i) any assets and liabilities relating to money purchase benefits, and
+  - (ii) any contributions paid to the RMPP in advance of the Effective Date but in respect of amounts falling due after this date under the schedule of contributions for the RMPP (as defined in section 227(2) of the Pensions Act 2004[^f00007]), and
+- (b) the obligations of the Trustee to make the Transfers must be disregarded.
+
+### 5. Adjustments for market value at time of transfer[^key-aee173ccca8fe016f071dc8029d0e015][^key-ca26e129578cb6455f6bdf7422291059]
+
+Paragraphs 6 and 7 set out the adjustment (the “Market Value Adjustment” or “MVA”) which must be made when calculating the Interim Transfer Amount and the Estimated Final Transfer Amount in respect of the period between the Interim Calculation Date 2 and the Effective Date.
+
+### 6.[^key-95077d103f9f432213d3d4910a771c50][^key-eaab3ca523cf8e7a5909759c0d151f71]
+
+The “Market Value Adjustment 1” or “MVA1” must be determined by the Government Actuary, based on the returns achieved between those dates on a weighted portfolio of index-linked Gilts of similar duration to the liabilities of the RMPP, by reference to the Amended RMPP Rules.
+
+### 7.[^key-a0e601a05a4ae1500b7ae520655935ec][^key-2b9c8a2f7bdbe6a5d162ad3953f44b4f]
+
+The “Market Value Adjustment 2” or “MVA2” is defined as the greater of—
+
+- (a) MVA1, and
+- (b) 100%.
+
+### 8. Calculation of Interim Transfer Amount[^key-b48a0eb885c9dbc969ddd6ac65a413c1][^key-c3d12cff70d69cdb8a9a1a8bdac88376]
+
+The Interim Transfer Amount is dependent on the Estimated RMPP Funding Level as at the Effective Date (RMPP FL′<sub>ECI2I3</sub>) and must be determined as follows—
+
+- If RMPP FL′<sub>ECI2I3</sub> ≤100% then—
+- Interim Transfer Amount = \[RMPP A′<sub>E</sub>\] – \[1.25 x RMPP L<sub>CI2I1</sub> x MVA2\]
+- If RMPP FL′<sub>ECI2I3 </sub>> 100% then—
+- Interim Transfer Amount = \[RMPP A′<sub>E</sub>\] – \[1.25 x RMPP L<sub>CI2I1</sub> x MVA2 x RMPP FL′<sub>E</sub> <sub>C</sub> <sub>I2</sub> <sub>I3</sub>\] where RMPP L<sub>CI2I1</sub> is calculated by reference to the Amended RMPP Rules.
+
+### 9. Calculation of Estimated Final Transfer Amount[^key-633a09ee4097e5eb366f624a037a1d00][^key-2ee19d702fc39e688e133e3ece7c209b]
+
+The Estimated Final Transfer Amount is dependent on the Estimated RMPP Funding Level as at the Effective Date (RMPP FL′<sub>ECI2I3</sub>) and must be determined as follows—
+
+- If (RMPP FL′<sub>ECI2I3</sub>) ≤100% then—
+  - Estimated Final Transfer Amount = \[RMPP A′<sub>E</sub> – RMPP L<sub>CI2I1</sub> x MVA1 – Interim Transfer Amount\]
+- If RMPP FL′<sub>ECI2I3</sub> > 100% then—
+  - Estimated Final Transfer Amount = \[(RMPP A′<sub>E</sub>) – (RMPP L<sub>CI2I1</sub> x MVA1 x RMPP FL′<sub>ECI2I3</sub>) – Interim Transfer Amount\]
+
+### 10. Calculation of Final Transfer Amount[^key-2c0f295941bdef937f439057a9a3c9a0][^key-70cfad93326a8e19eb812e691f1b768a]
+
+The Final Transfer Amount is dependent on the RMPP Funding Level as at the Effective Date (RMPP FL<sub>EC</sub>) and must be determined as follows—
+
+- If (RMPP FL<sub>EC</sub>) ≤100% then—
+  - Final Transfer Amount = \[RMPP A<sub>E</sub> – RMPP L<sub>CEE</sub> – Interim Transfer Amount\]
+- If RMPP FL<sub>EC</sub> > 100% then—
+  - Final Transfer Amount = \[(RMPP A<sub>E</sub>) – (RMPP L<sub>CEE</sub> x RMPP FL<sub>EC</sub>) – Interim Transfer Amount\]
+- For the purpose of this paragraph the Interim Transfer Amount must be determined as the audited value of assets that were transferred in the Interim Transfer (as at the Effective Date).
+
+### 11. Applicable trust deed and rules governing the RMPP and members when calculating the liabilities of the RMPP[^key-7a72ac825b0806db8ad60aa83d6cfb9f][^key-0bfd307708dbdf0b04f6a95202c96661]
+
+In the above calculations, liabilities of the RMPP must be determined by reference to the trust deed and rules governing the RMPP and membership as follows—
+
+- (a) RMPP FL′<sub>ECI2I3</sub> will be calculated by reference to the RMPP Cut-Off Date Rules. The calculation will be based on liabilities in respect of all members of the RMPP at the end of Interim Calculation Date 3; and
+- (b) RMPP FL<sub>EC</sub> will be calculated by reference to the RMPP Cut-Off Date Rules. The calculation will be based on liabilities in respect of all members of the RMPP at the end of the Cut-Off Date; and
+- (c) RMPP L<sub>CI2I1</sub> will be calculated by reference to the Amended RMPP Rules. The calculation will be based only on liabilities in respect of members of the RMPP who are active members at the end of Interim Calculation Date 1; and
+- (d) RMPP L<sub>CEE</sub> will be calculated by reference to the Amended RMPP Rules. The calculation will be based only on liabilities in respect of members of the RMPP who are active members at the end of the Effective Date.
+
+## SCHEDULE 2 — FINANCIAL ASSUMPTIONS[^key-d07a56b3ab88150dee420a6574e2d05f][^key-73e9c06a0d6b165bbcb6b573e9294e70]
+
+Article 2
+
+[^key-73e9c06a0d6b165bbcb6b573e9294e70]
+
+The liabilities of the RMPP must be determined using the financial assumptions set out in this Schedule.
+
+<table>
+<tbody>
+<tr><td>Nominal discount rate</td><td>Term-dependent discount rate equal to the spot yield on UK nominal gilts plus a margin of 0.41% pa post-retirement and 1.01% pre-retirement.</td></tr>
+<tr><td>RPI inflation</td><td>Term-dependent inflation rate equal to the UK gilt implied inflation spot yield.</td></tr>
+<tr><td rowspan="2">Real discount rate (net of RPI)</td><td>Term-dependent assumption derived at each duration geometrically from nominal discount rate and RPI inflation assumptions, where:</td></tr>
+<tr><td>(1 + real discount rate) = (1 + nominal discount rate)/(1 + RPI inflation)</td></tr>
+<tr><td rowspan="2">Differential between RPI and CPI inflation</td><td>Annual CPI inflation to be assumed lower than annual RPI inflation by the following margins (where for example 2012-13 means 1 April 2012 to 31 March 2013)—</td></tr>
+<tr><td>  -  2012/13 - 0.6%<br>  -  2013/14 - 0.8%<br>  -  2014/15 - 1.1%<br>  -  2015/16 - 1.6%<br>  -  2016/17 - 1.9%<br>  -  2017/18 - 1.578%<br>  -  2018/19 - 1.310%<br>  -  2019/20 - 1.088%<br>  -  2020/21 - 0.903%<br>  -  2021/22 and thereafter - 0.750%</td></tr>
+<tr><td>Salary growth</td><td>  -  April 2012: 3.5% nominal<br>  -  Thereafter: 1% pa in excess of RPI inflation<br>In each case adjusted for clerical staff in accordance with the age-related scale shown in Schedule 3.</td></tr>
+<tr><td>Pension increases</td><td>In line with the relevant inflation index (RPI or CPI) according to the provision of the appropriate section of the Amended RMPP Rules, with no adjustment for caps or floors.</td></tr>
+<tr><td>Expense reserve</td><td>1.2% of the liability for active members at the end of the Cut-Off Date assessed by reference to the RMPP Cut-Off Date Rules.</td></tr>
+</tbody>
+</table>
+
+[^f00008]
+
+## SCHEDULE 3 — DEMOGRAPHIC ASSUMPTIONS
+
+Article 2
+
+**1.**[^key-ebfd1bcf28ebb2c5352892b638476ba9][^key-525bd2024e2ff2aaca82a127b6e4c15d] The liabilities of the RMPP must be determined using the demographic assumptions set out in this Schedule.
+
+### 2. Mortality[^key-16f39f8a21225734a6b1a589766616e4][^key-4165237c206e60d433d6ead1c81685b7]
+
+(1) The mortality tables that must be used in deferment and after retirement in respect of a member and the member’s dependants are set out in the following table—
+
+|  | ***Amount of pension***<br>***in 2012 terms*** | **Base table** | **mprovements** |
+| --- | --- | --- | --- |
+| Male members | Less than £4,802 pa | 120% S1PMA | 100% Medium/Long cohort 2.0% tapered floor from 2009 |
+| Male members | £4,802 - £7,995 pa | 114% S1PMA | 100% Medium/Long cohort 2.0% tapered floor from 2009 |
+| Male members | £7,995 - £15,280 pa | 99% S1PMA | 100% Medium/Long cohort 2.0% tapered floor from 2009 |
+| Male members | Over £15,280 pa | 89% S1PMA\_L | 100% Medium/Long cohort 2.0% tapered floor from 2009 |
+| Male dependants | All pension amounts | 101% S1PMA | 100% Medium/Long cohort 2.0% tapered floor from 2009 |
+| Female members | All pension amounts | 96% S1DFA | 75% Medium/Long cohort 2.0% tapered floor from 2009 |
+| Female dependants | All pension amounts | 106% S1DFA | 75% Medium/Long cohort 2.0% tapered floor from 2009 |
+
+(2) The amount of pension used to determine the base mortality tables for male RMPP members must be determined based on the following—
+
+- (a) for pensioners, the amount of pension in payment;
+- (b) for deferred pensions, the amount of the member’s deferred pension at the valuation date; and
+- (c) for active members, the amount of the member’s projected pension at retirement, estimated in 2012 terms.
+
+(3) The mortality tables are those produced by the Institute and Faculty of Actuaries Continuous Mortality Investigation with a year of use of 2012 after allowing for the mortality improvements specified under (4) and (5). S1PMA represents the SAPS series 1 table for all male pensioners excluding dependants, based on amounts. S1PMA\_L represents the equivalent light table. S1DFA represents the SAPS series 1 table for female dependants, based on amounts.
+
+(4) All the base tables used must also include an allowance for medium cohort improvements with a 1.5% per annum minimum rate of improvement (floor) from the date of the tables up to 2009.
+
+(5) Medium/Long cohort represents a blend of 50% medium cohort improvements and 50% long cohort improvements from 2009 onwards.
+
+(6) Future ill-health retirees shall be assumed to be subject to the above mortality on the basis that the members were born 3 years earlier than their actual date of birth; no adjustment is to be made to the standard mortality assumption for pensioners who have already retired on ill health grounds.
+
+(7) Future death in-service rates must be assumed to follow the rates applicable to calendar year 2003 based on the standard PMA92 (males) and PFA92 (females) tables, as appropriate, in each case with the medium cohort mortality improvement rates.
+
+### 3. Proportion married and age differences of members and dependants[^key-fc22e7075b16a52e96951c2a7e99e793][^key-0368b59e203231c06d5edf380631ce19]
+
+(1) The following table shows the assumed proportion of members that are married and assumed age differences of members and dependants—
+
+<table>
+<thead>
+<tr><th><em><strong>Age</strong></em></th><th colspan="2"><em><strong>Proportion of members that are married</strong></em></th><th><em><strong>Age difference (years) [male – female]</strong></em></th></tr>
+<tr><th></th><th><em><strong>Male</strong></em></th><th><em><strong>Female</strong></em></th><th></th></tr>
+</thead>
+<tbody>
+<tr><td>20</td><td>0.800</td><td>0.032</td><td>0.5</td></tr>
+<tr><td>25</td><td>0.800</td><td>0.256</td><td>1.0</td></tr>
+<tr><td>30</td><td>0.800</td><td>0.532</td><td>1.5</td></tr>
+<tr><td>35</td><td>0.800</td><td>0.672</td><td>2.0</td></tr>
+<tr><td>40</td><td>0.800</td><td>0.707</td><td>2.5</td></tr>
+<tr><td>45</td><td>0.800</td><td>0.723</td><td>3.0</td></tr>
+<tr><td>50</td><td>0.800</td><td>0.731</td><td>3.0</td></tr>
+<tr><td>55</td><td>0.800</td><td>0.738</td><td>3.0</td></tr>
+<tr><td>60</td><td>0.800</td><td>0.742</td><td>3.0</td></tr>
+<tr><td>65</td><td>0.800</td><td>0.746</td><td>3.0</td></tr>
+</tbody>
+</table>
+
+(2) After age 65 it is assumed that males are three years older than females.
+
+(3) The assumed proportion married after Normal Retirement Date must be calculated using the proportion at Normal Retirement Date adjusted thereafter by the assumed dependant’s mortality.
+
+### 4. Voluntary withdrawal and ill-health retirement[^key-78c7476df940b70aa1b5d08794d03f15][^key-43d41db680cef03df1d9af52bb4181fb]
+
+(1) The following table shows the assumed rates of voluntary withdrawal and ill health retirement in the year following the age shown—
+
+<table>
+<thead>
+<tr><th><em><strong>Age</strong></em></th><th><em><strong>Voluntary withdrawal rate</strong></em></th><th colspan="2"><em><strong>Ill-health retirement rate</strong></em></th></tr>
+<tr><th></th><th></th><th><em><strong>Male</strong></em></th><th><em><strong>Female</strong></em></th></tr>
+</thead>
+<tbody>
+<tr><td>20</td><td>0.1700</td><td>0.0004</td><td>0.0004</td></tr>
+<tr><td>25</td><td>0.1200</td><td>0.0004</td><td>0.0004</td></tr>
+<tr><td>30</td><td>0.0700</td><td>0.0004</td><td>0.0004</td></tr>
+<tr><td>35</td><td>0.0430</td><td>0.0005</td><td>0.0005</td></tr>
+<tr><td>40</td><td>0.0360</td><td>0.0008</td><td>0.0008</td></tr>
+<tr><td>45</td><td>0.0285</td><td>0.0011</td><td>0.0011</td></tr>
+<tr><td>50</td><td>0.0210</td><td>0.0011</td><td>0.0015</td></tr>
+<tr><td>55</td><td>0.0135</td><td>0.0075</td><td>0.0084</td></tr>
+<tr><td>60</td><td>0.0000</td><td>0.0075</td><td>0.0131</td></tr>
+</tbody>
+</table>
+
+(2) No allowance may be made for members retiring before their Normal Retirement Date in normal health, and no allowance is to be made for the exercise of members’ options such as commutation. A member’s Normal Retirement Date is 60 for pensionable service up to 31 March 2010 and 65 for pensionable service after this date. Members who have already attained age 60 must be assumed to retire immediately or at age 65, whichever is later.
+
+### 5. Age-related salary scale[^key-de1e90a8edb3fff4d6b073dc02ec4201][^key-ee3aac8e69df9ab528da6615f4b748ec]
+
+The age-related adjustment used for clerical staff is calculated as the ratio of the figures from the scale at the relevant ages.
+
+| ***Age*** | ***Males*** | ***Females*** |
+| --- | --- | --- |
+| 20 | 1262 | 1262 |
+| 25 | 1658 | 1554 |
+| 30 | 2076 | 1785 |
+| 35 | 2465 | 1956 |
+| 40 | 2755 | 2108 |
+| 45 | 2925 | 2271 |
+| 50 | 2991 | 2446 |
+| 55 | 2991 | 2635 |
+| 60 | 2991 | 2838 |
+
+### 6.[^key-3ae1411ba42283bd1697eee89cc2ddcc][^key-63efd36e1fdcb1a181f65cf2a0f1ccc9]
+
+The tables of assumptions set out in this Schedule show sample rates at quinquennial ages, rates at intermediate ages are consistent with the rates shown.
+
+## SCHEDULE 4 — ASSET VALUATION METHODOLOGY
+
+Articles 5 and 6
+
+**1.**[^key-30917bbb443cc4f4cfe28d88f4045e62][^key-3b3c3370aded4e08efb5124999c08930] The assets must be valued according to UK generally accepted accounting practices (UK GAAP) and the Statement of Recognised Practice ‘Financial Reports of Pension Schemes’ (Revised May 2007) as produced by the Pensions Research Accountants Group.
+
+**2.**[^key-f163a7e0742edce0ad49696c2a913b75][^key-3564ed551c8112adbbba32e0ed5870c7] The assets constituted by the Trustee’s rights and interests listed in paragraph 3 must be valued as at the close of business on 31 December 2011, adjusted by the Total Return on the GBP MSCI World Standard Core Equity index between 31 December 2011 and—
+
+- (a) in the case of the Interim Transfer Amount, the Estimated Final Transfer Amount and the Final Transfer Amount, the Effective Date; and
+- (b) in the case of the Adjusted Final Transfer Amount, the Final Transfer Date.
+
+**3.**[^key-843149227af76516078e035896ad6797][^key-b86af04dfc4304c3f083e46f3ea9726e] The assets referred to in paragraph 2 are the Trustee’s rights and interests in the following holdings or funds—
+
+- (a) Pantheon SA 203 L.P.;
+- (b) Pathway Private Equity Fund IV, LP;
+- (c) Hamilton Lane COPTL, L.P.;
+- (d) HPE II L.P.
+
+**4.**[^key-e2e30bd9ad273a5a1fc8f62493b7463c][^key-d4ebc5022215265a1b8c444076fdb52a] Assets of the RMPP other than those in paragraph 3 must be valued—
+
+- (a) in the case of the Interim Transfer Amount, the Estimated Final Transfer Amount and the Final Transfer Amount, as at close of business on the Effective Date;
+- (b) in the case of the Adjusted Final Transfer Amount, as at close of business on the Final Transfer Date.
+
+## SCHEDULE 5 — FURTHER PROVISION ABOUT TRANSFER OF ASSETS
+
+Article 8
+
+### 1.[^key-5680dad6f3fa42b0b0fc9e80ccf546e1][^key-b4d83854150dba65d54e6c72ec399656]
+
+In this Schedule—
+
+- (a) “Assets” means any of the property and rights held for the purposes of the RMPP, whether held by or on behalf of or for the benefit either of the Trustee in its capacity as trustee of the RMPP or any Relevant Trustee, but excluding any Assets that are also Claims. Assets include—
+  - (i) Cash;
+  - (ii) property and rights that would not, but for the provisions of this Schedule, be capable of being transferred or assigned;
+  - (iii) property situated anywhere in the United Kingdom or elsewhere;
+  - (iv) contractual rights, other than contractual rights and liabilities in respect of a service provider to the Trustee, an adviser or employee of either the Trustee or the premises and operations of the Trustee, but including those contracts referred to in paragraph 9 and contracts relating to any property referred to in Paragraph (iii) above; and
+  - (v) rights under the law of any part of the United Kingdom or of any country or territory outside the United Kingdom, whether or not those rights and liabilities are ascertained at the time a Transfer occurs.
+
+  References to Assets in this Schedule do not include Assets which will not comprise a Transfer;
+- (b) “Claim” means a right of action of the Trustee in issue in any action before a court or adjudicatory body in the United Kingdom or abroad (whether existing, ongoing, contemplated, threatened or potential), including a right that would not, but for the provisions of this Schedule, be capable of being transferred or assigned, and that is related to or connected with—
+  - (i) any Asset that is transferred to the Fund under paragraph 2 or 5(2) or to which paragraph 7 applies;
+  - (ii) any contract to which paragraph 9 or 10 applies; or
+
+    any tax paid or payable by the Trustee, or which any revenue authority asserts is so payable, in respect of the Assets transferred to the Fund under paragraph 2 or 5(2) or to which paragraph 7 applies, or in respect of the services to which any contract to which paragraph 9 or 10 relates;
+- (c) “Relevant Trustee” means any person (other than the Trustee) who is acting in the capacity of a trustee or custodian of or nominee for the RMPP;
+- (d) subject to paragraph (f)—
+  - (i) a reference to the transfer of an Asset to the Fund shall mean the transfer to and vesting in the Fund of title to, beneficial interest in and any rights in respect of that Asset;
+  - (ii) a reference to the transfer of a Claim to the Fund shall mean the transfer to and vesting in the Fund of title to, beneficial interest in and any rights and liabilities or other obligations in respect of that Claim, including rights that would not otherwise be capable of being transferred or assigned; and
+  - (iii) a reference to the transfer of any Associated Liability to the Fund shall mean the transfer to and vesting in the fund of any liabilities or other obligations in respect of that Associated Liability;
+- (e) in relation to the assets listed at paragraph 2 of Schedule 6, and any Associated Liabilities in respect of those assets, and any Claim that is related to or connected with those assets, a reference in the provisions of this Schedule to the Fund shall be read as a reference to the Fund Subsidiary; and
+- (f) if any Assets are held by or on behalf of or for the benefit of a Relevant Trustee, a reference in the provisions of this Schedule to the Trustee shall be read as a reference to the Relevant Trustee in relation to those Assets, any Associated Liabilities in respect of them, and any Claim related to or connected with them.
+
+### 2. Obligation to transfer Assets[^key-ea7bcc1e8a911db8d8c5abf430adf09d][^key-ff2a8e57d5ac65000a07c6fd40545320]
+
+(1) The Trustee must transfer the Assets comprising the Transfers and each Associated Liability to the Fund or procure the transfer of the Assets comprising the relevant Transfer and each Associated Liability to the Fund.
+
+(2) The Trustee must transfer the Assets and each Associated Liability that relates to them on or as soon as reasonably practicable after—
+
+- (a) the Effective Date if the Assets comprise part of the Interim Transfer, or
+- (b) the Final Transfer Date if the Assets comprise part of the Final Transfer.
+
+(3) This paragraph does not apply in respect of Assets or Associated Liabilities to which paragraph 4, 5, 6 or 9 apply.
+
+### 3.[^key-75d39d596374a5da9cd51006d06e15dd][^M_I_fbd102ff-a951-4a32-89cf-e8afa576987b]
+
+Until the time that an Asset comprising a Transfer and any Associated Liability that relates to it, is transferred, paragraph 7 shall apply in respect of that Asset and Associated Liability, unless the Fund has served a notice under paragraph 4(3).
+
+### 4. Where transfer would incur material cost[^key-93d40cced042baf43a8b005510bc1e34][^key-cd500ccbbb37ad69d09de2f09f1994a7]
+
+(1) If the Trustee considers, for any reason, that a transfer to the Fund of any Asset would (notwithstanding paragraphs 12 and 13) incur or require a material charge, penalty or market value adjustment or otherwise materially reduce the value of the Asset or incur or require a material charge or penalty under or cause the termination of any agreement ancillary to or connected with such Assets—
+
+- (a) the Trustee must not transfer the Asset or any Associated Liability related to it until the Fund has provided consent for the Asset and Associated Liability to transfer; and
+- (b) until the Asset transfers, paragraph 7 applies in respect of that Asset and any Associated Liability related to it.
+
+(2) The Trustee must provide written confirmation to the Fund if it considers that an Asset falls within this paragraph.
+
+(3) Upon receipt of the written confirmation under sub-paragraph (2), the Fund may serve a notice on the Trustee that paragraph 7(a) does not apply to that Asset.
+
+### 5. Where the Trustee is unable to transfer an Asset[^key-42eae92beb742125195cc30c467c8f43][^key-45800e7c7a1fabc722e2fa752c6001d7]
+
+(1) This paragraph applies to an Asset that the Trustee is (or, but for this paragraph, would be) unable to transfer because—
+
+- (a) there is a legal requirement to obtain the consent of a third party; or
+- (b) any other legal restriction applies.
+
+(2) If an Asset falls within this paragraph and it is not constituted by any foreign property or right, either—
+
+- (a) in respect of any such Asset that is constituted by rights under any contract, trust or other arrangement, the Fund will become a party to that contract, trust or other arrangement, in place of and on the same terms as applied to the Trustee immediately before that time on the first business day after the Effective Date or the Final Transfer Date; or
+- (b) in respect of any such Asset not falling within (a), this sub-paragraph applies to override the legal requirement or restriction described in sub-paragraph (1), and the Trustee shall take all reasonable steps to transfer the asset as soon as is practicable.
+
+(3) Paragraph 7 applies in respect of an Asset that falls within this paragraph and is constituted by any foreign property or right and any Associated Liability related to that Asset, until that Asset transfers.
+
+(4) The Trustee must provide written confirmation to the Fund if it considers for any reason that an Asset falls within this paragraph, specifying whether the Asset falls within sub-paragraph (2)(a), 2(b) or (3).
+
+### 6.[^key-45ab1fd2486d4c35fe59ecafa1a40967][^key-becde8f2911faa49bb9cdcd39f42562c]
+
+(1) This paragraph applies where the Trustee is unable to transfer any Associated Liability because—
+
+- (a) there is a legal requirement to obtain the consent of a third party; or
+- (b) any other legal restriction applies.
+
+(2) If an Associated Liability falls within this paragraph and it is not constituted by any rights or obligations arising under foreign law, either—
+
+- (a) in respect of an Associated Liability that is constituted by rights under any contract, trust or other arrangement, the Fund will become party to that contract, trust or other arrangement, in place of and on the same terms as applied to the Trustee immediately before that time; and
+- (b) in respect of an Associated Liability not falling within (a), this sub-paragraph applies to override the legal requirement or restriction described in sub-paragraph (1), and to the extent that the Associated Liability does not transfer with the Asset to which it relates, the Trustee shall take all reasonable steps to transfer the Associated Liability as soon as is practicable.
+
+(3) Paragraph 7 applies in respect of an Associated Liability that falls within this paragraph and is constituted by rights or obligations arising under foreign law, until that Associated Liability transfers.
+
+(4) The arrangements provided for by paragraphs (a) and (b) above shall take effect at the following time in respect of each Associated Liability—
+
+- (a) in the case of an Associated Liability that relates to an Asset which the Trustee transfers to the Fund under paragraph 2 or 5(2)(b), or to which paragraph 5(2)(a) applies, at the time that the transfer takes effect in respect of the Asset; and
+- (b) in the case of an Associated Liability that relates to a Claim which the Trustee transfers to the Fund under paragraph 8, at the time that the transfer takes effect in respect of the Claim; and
+- (c) in the case of an Associated Liability that relates to a contract to which paragraph 9 or 10 applies, at the time the arrangements provided for in the relevant paragraph come into effect in respect of that contract.
+
+(5) The Trustee must provide written confirmation to the Fund if it considers for any reason that an Associated Liability falls within this paragraph, specifying whether the Associated Liability comes within sub-paragraph (2)(a), 2(b) or (3).
+
+### 7. Assets to be held on trust and discharge of Associated Liabilities[^key-3440b0702d9db1f644c6e8a11319cc9e][^key-8fb3dd33b284d779ab9bfaeccf0a3aab]
+
+In relation to any Asset or Associated Liability to which this paragraph applies, the Trustee must, with effect on and from the first business day after the Effective Date or the Final Transfer Date, as applicable—
+
+- (a) hold that Asset, and any proceeds of or income derived from that Asset, on trust for the benefit of the Fund;
+- (b) deal with, exercise rights under or apply that Asset at the direction of the Fund;
+- (c) transfer to the Fund (or apply at the Fund’s direction in relation to the Asset) any proceeds of or income derived from that Asset; and
+- (d) discharge that Associated Liability on behalf of the Fund.
+
+### 8. Transfer of Claims[^key-342f3563a8b4bf2f7c6b3c45faba3a0d][^key-bcd15349a21cccbd6a74b2b7296f9e4d]
+
+Claims, and each Associated Liability related to them, transfer from the Trustee to the Fund as follows—
+
+- (a) in relation to any Claim before any court or other adjudicatory tribunal in the United Kingdom, other than any Claim that relates to an Asset to which paragraph 4 or 5(3) applies, the interest in the Claim and any Associated Liability related to it will pass from the Trustee to the Fund and the Fund is deemed to be substituted for the Trustee as a party to the Claim;
+- (b) in relation to any Claim before any foreign court or adjudicatory tribunal, or any Claim that relates to an Asset to which paragraph 4 or 5(3) applies, the Trustee must as soon as practicable take such steps as are reasonably available and advisable under applicable law to transfer the interest in the Claim and any Associated Liability related to it, and enable the Fund to pursue or defend the Claim in substitution for the Trustee, and until such time, if any, that the Claim is transferred and the Fund is substituted, paragraph 7 shall apply as if the references to an Asset were to a Claim; and
+- (c) the arrangements provided for by paragraphs (a) and (b) above shall take effect at the following time in respect of each Claim—
+  - (i) in the case of any Claim that relates to an Asset which the Trustee is able to transfer to the Fund under paragraph 2, at the time that the transfer takes effect in respect of the Asset;
+  - (ii) in the case of any Claim that relates to an Asset to which paragraph 5(2) applies, at the time that the transfer takes effect in respect of the Asset;
+  - (iii) in the case of any Claim that relates to an Asset to which paragraph 7 applies, at the time that paragraph takes effect in respect of that Asset;
+  - (iv) in the case of any Claim that relates to a contract to which paragraph 9 or 10 applies, at the time the arrangements provided for in the relevant paragraph come into effect in respect of that contract; and
+  - (v) in the case of any Claim that does not relate to any specific Asset, on the first business day after the Effective Date.
+
+(2) The Trustee must provide written confirmation to the Fund where a Claim falls within this paragraph, specifying whether the Claim comes within sub-paragraph (1)(a) or (b).
+
+### 9. Transfer under investment management agreements[^key-b48331ff3447f5b6ab9de5ead865c5c9][^key-bb8da92ac91b17896ab1175f2366293c]
+
+Rights and liabilities of the Trustee under or in respect of contracts relating to the investment management of Assets which are transferred to the Fund in their entirety under article 5 or 6 are novated to the Fund on the first business day after the Effective Date or the Final Transfer Date, as applicable, and—
+
+- (a) the Trustee will have no continuing rights and liabilities under the original contract;
+- (b) the Fund is deemed to have been party to the agreement in place of the Trustee from the commencement of the agreement, and assumes all rights and liabilities accrued under the agreement, including any liabilities which become payable after the novation of the agreement becomes effective.
+
+### 10.[^key-bb0af2d698dd1c80b286b3fabd9e62fd][^key-d7fd7f55ca4eed9b8be467672532b7f4]
+
+(1) Where a service is provided by a person to the Trustee under a contract relating to the investment management of assets of the RMPP and only part of those assets are transferred to the Fund under this Order, the Trustee must, if required by the Fund—
+
+- (a) use the service for the benefit of the Fund, or a nominee of the Fund, in whole or in part; or
+- (b) provide for the Fund, or a nominee of the Fund, to enjoy the benefit, in whole or in part, of that service.
+
+(2) The Trustee must serve a notice to a person providing a service under a contract that falls under this paragraph explaining the Fund’s requirements under sub-paragraph (1).
+
+(3) Upon receipt of a notice under sub-paragraph (2), a person providing a service under a contract that falls under this paragraph must provide the service to the Fund, directly, to the extent specified in such notice.
+
+### 11. General provision[^key-143ac21d46f337fd83c85b1040e31d39][^key-0f615a29d7cfb3fae34e9fb285004b50]
+
+Paragraphs 5, 6, 7, 8, 9 and 10 of this Schedule are binding on all persons, even if, apart from these paragraphs, the provisions made by them would have required the consent or concurrence of any person.
+
+### 12.[^key-25365aaad6fc589802210cbd0dbe75e1][^key-1b458a4dffc6137f64c6411ea1e4bcc7]
+
+Save as otherwise provided by this Order, no interest or right of any third party arises or becomes exercisable in respect of any property, right or liability of the Trustee (whether nor not transferred by this Order) by virtue of or in connection with—
+
+- (a) the making of this Order,
+- (b) anything done by, under, by virtue of or in consequence of this Order, or
+- (c) anything omitted to be done by virtue of or in consequence of this Order.
+
+### 13.[^key-ed49236764cdf51d88fb0bd0fc2beff3][^key-526c2696e26b9a4ced0420ee0976ecf2]
+
+Save as otherwise provided by this Order, no liability or obligation arises or is incurred by any third party in respect of any property, right or liability of the Trustee (whether or not transferred by this Order) by virtue of or in connection with—
+
+- (a) the making of this Order,
+- (b) anything done by, under, by virtue of or in consequence of this Order, or
+- (c) anything omitted to be done by virtue of or in consequence of this Order.
+
+### 14.[^key-a138c9bd62902ed9379beb26173364e2][^key-b28957c98c087ddc5575bc42d89478c4]
+
+Any reference in any agreement, document or instrument of any description to the Trustee (or any other person who is or was trustee of the RMPP at the time such agreement, document or instrument was entered into) has effect as a reference to the Fund so far as necessary for the purposes of giving effect to paragraphs 5(2)(a), 6(2)(a), 7, 8 and 9 of this Schedule.
+
+### 15.[^key-d0aa3faee18e5f6c2016b79c728d1f27][^key-c043ba837746b09af6c91e9946c50104]
+
+The Trustee must, as soon as reasonably practicable after the completion of each of the Transfers, provide to the Fund written confirmation of—
+
+- (a) the Assets that have been transferred,
+- (b) the contracts to which paragraphs 9 and 10 apply.
+
+## SCHEDULE 6 — ASSETS COMPRISING THE TRANSFERS
+
+Article 9
+
+### 1. Composition of Interim Transfer[^key-85f7a2c3fdc5add3ae5eb531a83763c6][^key-4644a7de9ac899609578511fbd6712ab]
+
+The Trustee must not include the following assets in the Interim Transfer—
+
+- (a) properties comprising the following addresses—
+  - Ryder Court, 18-20 Bury Street and 73-76 Jermyn Street London SW1Y 6NP,
+  - 35, 37, 37A, 38, 38A and 35B George Street and 19 St James’s Cottages, Paradise Road, Richmond TW9 1HY
+  - The Loom Retail & Leisure Park, Spinning Jenning Way, Leigh, WN7 4PE
+  - 201-209 High Street, Cheltenham GL50 3JH
+  - 145 Morningside Road, Edinburgh, EH10 4AX
+  - Exe Bridges Retail Park, Alphington Street, Exeter EX4 1AH
+  - St Nicholas Gate Retail Park, Carlisle CA1 2EA
+  - Bricklayers Arms, Mandela Way London SE1 5SP
+  - 1 to 87 Crick House, Station Place Cambridge CB1 2FA
+  - 1 to 19 Aston House, Brookgate Cambridge CB1 2BP
+  - 1 to 48 Bragg House, Brookgate Cambridge CB1 2AA
+- (b) a 33% share of the Trustee’s interest in Hamilton Lane COPTL, L.P., which is as far as reasonably practicable a pro-rata proportion of that interest immediately prior to the Interim Transfer;
+- (c) the account managed by Hermes known as The Royal Mail Pension Plan re: Residual Positions, Account number 63815;
+- (d) the assets forming part of the assets managed by Beach Point Capital Management, L.P. which—
+  - (i) are as far as reasonably practicable a pro-rata proportion of those assets immediately prior to the Interim Transfer; and
+  - (ii) have an aggregate value equal to 4% of the liabilities remaining with RMPP as estimated for the purposes of the Interim Transfer pursuant to article 5 such that—
+
+    Value = 4% x RMPP L<sub>CI2I1</sub> x MVA1 (as such terms are defined in Schedule 1); and
+- (e) the assets relating to money purchase benefits, as defined in Schedule 1.
+
+### 2.[^key-8506ac90eab846aa06b8797970cac8c0][^key-8f2f2b7858e6586db56101ad9b0d547e]
+
+If any of the following assets are held by or on behalf of the Trustee at the Effective Date, they must be included in the Interim Transfer—
+
+- (a) One Ordinary Share of £1 in Hermes Factory Outlets GP Limited;
+- (b) One Ordinary Share of £1 in Talke General Partner Limited;
+- (c) One B Ordinary share of £1 in Highcross (GP) Limited;
+- (d) 22,050 A Ordinary shares of £0.01 in Tower General Partner Limited.
+
+### 3. Estimated Final Transfer Amount Portfolio[^key-9e3422ab1abd20ef589eada65b1d77a3][^key-0532d5624d018d5e55fac9305d75a36b]
+
+On or as soon as practicable following the calculation of the Estimated Final Transfer Amount, the Trustee must invest assets with a value as at the Effective Date equal to the Estimated Final Transfer Amount in the Estimated Final Transfer Amount Portfolio.
+
+### 4.[^key-b27eb2ded695e3ebe543710fdab92c84][^key-b97b57bd9fe0d0c9b39fdf9fbb06d229]
+
+The “Estimated Final Transfer Amount Portfolio” is a portfolio, invested by the Trustee under paragraph 3, comprised of assets invested in accordance with the following investment strategy, under the management of the following investment managers—
+
+| ***Investment Manager*** | ***Mandate*** | ***Percentage*** |
+| --- | --- | --- |
+| Walter Scott | Global Unconstrained Equities | 5% |
+| Blackrock | Cash | 75% |
+| Wellington | Global Investment Grade Credit | 20% |
+
+### 5.[^key-244c572184a7a39f71b6339f18782b41][^key-56e9a9b2fd0d7084302220fae14fe360]
+
+The Trustee must maintain the Estimated Final Transfer Amount Portfolio, and until it has made the Final Transfer, must not transfer funds between the mandates within the Estimated Final Transfer Amount Portfolio after investment without the written consent of the Secretary of State.
+
+### 6. Confirmation of assets being retained by RMPP and notional portfolio[^key-2c1ed6b866f238c8b2dc6c813a2bf3b1][^key-7afaaaf3a529e272e88755fbf90a355f]
+
+The Trustee must, no later than five business days after the Effective Date, provide to the Secretary of State written confirmation of—
+
+- (a) the percentage of each of RMPP’s manager accounts or pooled fund holdings (or the formula which will be used to determine that percentage) which will not form part of the Estimated Final Transfer Amount Portfolio or the Interim Transfer; or
+- (b) where a percentage is not used, the assets which will not form part of the Estimated Final Transfer Amount Portfolio or the Interim Transfer.
+
+### 7.[^key-6ff25dbadae73ab55feb3f14b0d09faf][^key-d552e5d31200095314f23338bf36902e]
+
+(1) The Trustee must notionally construct a portfolio from the assets which will not form part of the Estimated Final Transfer Amount Portfolio or the Interim Transfer, for the purpose of calculating the adjustment at paragraph 14.
+
+(2) The Trustee must provide written confirmation to the Secretary of State, no later than five business days after the Effective Date of either—
+
+- (a) the proportions in which it will combine the assets not forming part of the Estimated Final Transfer Amount Portfolio or the Interim Transfer to form this portfolio; or
+- (b) the formula which will be used to define those proportions.
+
+### 8. Composition of Final Transfer and calculation of Adjusted Final Transfer Amount[^key-b9fe94c06d7c35918b692caf39cb299d][^key-1b1ffecf20705e2ea8b71b38c5471698]
+
+If the Final Transfer Amount is equal to or less than the Estimated Final Transfer Amount (as at the Effective Date), paragraphs 9 and 10 apply.
+
+### 9.[^key-9b0ee894933fcc01b2f57063446a9a9f][^key-52687aa56ff2ac722594afc5ac1424aa]
+
+The Adjusted Final Transfer Amount must be equal in value to the Final Transfer Amount (as at the Effective Date) adjusted in accordance with the change in value of the Estimated Final Transfer Amount Portfolio between the Effective Date and the Final Transfer Date, net of management fees and expenses in maintaining the portfolio, such that—
+
+- Adjusted Final Transfer Amount (as at the Final Transfer Date)
+- \= Final Transfer Amount (as at the Effective Date) x
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2012/688)
+
+### 10.[^key-178535716c6e7ec54c3b0607cc4c3c53][^key-7fbb19deac82ff6158ce796706c0d0dd]
+
+(1) The Final Transfer must consist of assets in accordance with either sub-paragraphs (2) or (3).
+
+(2) If the Final Transfer Amount (as at the Effective Date) is £50million or less, assets that have been allocated to the BlackRock Cash Portfolio.
+
+(3) If the Final Transfer Amount (as at the Effective Date) is more than £50million, the assets must—
+
+- (a) comprise part of the Estimated Final Transfer Amount Portfolio;
+- (b) be allocated to the same asset classes as the assets that comprise the entire Estimated Final Transfer Amount Portfolio, and
+- (c) be allocated between the mandates in the same proportions as the Estimated Final Transfer Amount Portfolio as far as reasonably practicable, immediately before the Final Transfer Date.
+
+### 11.[^key-62b83177ef4a1209f076db01b7639d0e][^key-4a5ebebef014c67c317acc613982625b]
+
+If the Final Transfer Amount exceeds the Estimated Final Transfer Amount (as at the Effective Date), paragraphs 12 and 13 apply.
+
+### 12.[^key-c053dee1952282da5a291b87a2347156][^key-42283e8db946b469a5a78e7f2ce99ca0]
+
+The Adjusted Final Transfer Amount must be equal in value to—
+
+- (a) the value of the Estimated Final Transfer Amount Portfolio as at the Final Transfer Date, plus
+- (b) any excess amount of the Final Transfer Amount over the Estimated Final Transfer Amount as at the Effective Date, as adjusted in accordance with paragraph 14.
+
+### 13.[^key-3e5d7b6b8c64bc46116c502b9fb4bf9d][^key-7b4266160889275a9ca926ad4f0cc0b4]
+
+The Final Transfer must consist of—
+
+- (a) the assets comprising the Estimated Final Transfer Amount Portfolio at the time the Final Transfer is being made, together with
+- (b) assets equal in value to the excess amount referred to in paragraph 12(b), as adjusted in accordance with paragraph 14, comprising assets under the management of the investment managers of the Estimated Final Transfer Amount Portfolio.
+
+### 14.[^key-71d1dca8c4b086d81f9ea2bbe56c3a8a][^key-693c11b0ed52b03e2a8ef13f74bbe35a]
+
+(1) The excess amount referred to in paragraph 12(b) and 13(b) must be adjusted in accordance with subparagraph (2) if it is £50 million or less as at the Effective Date, and paragraph (3) if it is more than £50 million as at the Effective Date.
+
+(2) The adjustment must be in accordance with the investment returns achieved on the BlackRock Cash Portfolio, between the Effective Date and the Final Transfer Date, net of management fees and expenses in maintaining the portfolio.
+
+(3) The adjustment must be in accordance with the change in value of the notional portfolio constructed by the Trustee in accordance with paragraph 7 between the Effective Date and the Final Transfer Date; net of—
+
+- (a) the relevant proportion of the management fees and expenses of maintaining the assets in the notional portfolio; and
+- (b) any disinvestment costs reasonably incurred by the Trustee, such that—
+  - excess over the Estimated Final Transfer Amount (as at the Final Transfer Date)
+  - \= excess over the Estimated Final Transfer Amount (as at the Effective Date) x
+  - [formula: see source](https://www.legislation.gov.uk/uksi/2012/688)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order implements sections 21 and 22 of the Postal Services Act [2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5) (“the Act”). It transfers assets from the Royal Mail Pension Plan (“RMPP”) to a Fund established by the Secretary of State for Business, Innovation and Skills (the Business Innovation and Skills Fund Limited, “the Fund”) and prescribes how the assets and liabilities of the RMPP must be valued for the purposes of the transfer. This Order will come into force at the same time as the [Postal Services Act 2011 (Transfer of Accrued Pension Rights) Order 2012 (SI No. 2012/687)](https://www.legislation.gov.uk/uksi/2012/687) (“the Benefits Order”), which transfers all the historic liabilities of the RMPP to a new public scheme.
+
+Article 1 provides for the operative provisions of this Order to come into force by way of a separate Order.
+
+Articles 2 and 3 prescribe the Government Actuary as the person to perform the calculations necessary for determining the value of assets to transfer, and state when those calculations must be performed.
+
+Articles 4 to 9 establish the requirements for the transfer of assets from the RMPP to the Fund that are detailed in the rest of the Order.
+
+Article 4 requires the Trustee to make the transfer. Article 5 provides that the transfer must be made up of two transfers, an interim transfer (article 5) and a final transfer (article 6). Both transfers are an obligation on the Trustee to transfer assets, equal to an amount calculated by the Government Actuary in accordance with the calculations in Schedule 1. The interim transfer is to be made upon the coming into force of this Order, subject to the provisions in Schedule 5 about when each asset can actually transfer. The final transfer must occur 5 business days after the day on which the Government Actuary is able to verify that the calculations for the total amount to transfer are complete.
+
+Article 7 provides that the transfers must be made to a company established by the Secretary of State for this purpose, referred to as the Fund, or to its subsidiary, the Fund subsidiary, to which specific assets must transfer instead of the Fund.
+
+Article 8 applies Schedule 5 to the transfers, which provides further detail about when and how the Trustees must effect the transfer of each asset, and deals with assets which in certain situations do not transfer.
+
+Article 9 applies Schedule 6 to the transfers, which contains requirements about the assets making up the transfers. It specifies, to the extent required, the assets which are to be retained by the RMPP, assets which are to be invested by the Trustee immediately which will the constitute the final transfer, and the composition of the final transfer if the amount of assets required to be transferred is more or less than those invested for that purpose.
+
+Schedule 1 prescribes the valuation methodology to determine the amount of assets to be transferred in each transfer. Along with schedules 2, 3 and 4, it provides the methodology and assumptions for the Government Actuary to value the assets and liabilities of the RMPP, and determine the amount to transfer in order to leave the RMPP fully funded to meet its liabilities after the transfer. Paragraph 10 in particular ensures that the RMPP will be fully funded as at 31 March 2012 after the transfers, and that the test at section 22 of the Act requiring the funding level of the RMPP to be at least as good after the transfers as before, is met.
+
+Schedule 2 prescribes the financial assumptions to be used in determining the liabilities of the RMPP. Schedule 3 prescribes the demographic assumptions to be used in determining those liabilities. Schedule 4 prescribes the principles to be applied in valuing the assets of the RMPP, and sets out the date as at which assets are to be valued. This date is different for those assets which are considered to be private equity.
+
+Schedules 5 and 6 are dealt with above.
+
+An Explanatory Memorandum accompanying this Order is available alongside the instrument on the OPSI website (www.opsi.gov.uk). Copies have also been placed in the Libraries of the House of Commons and the House of Lords.
+
+An impact assessment has not been produced for this Order as a full impact assessment was prepared for the enabling provisions in the Act, the findings of which have not changed.
+
+## Annotations
+
+[^f00001]: Footnote: [2011 c.5](https://www.legislation.gov.uk/ukpga/2011/5).
+
+[^key-ee59b8a3f13a24ebe9e73211453e44b6]: Commencement: Art. 1(1)(2) in force at 31.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-1dabe6c1a9f52fd750523759879fdf80]: Commencement: [Art. 1(3)](https://www.legislation.gov.uk/uksi/2012/688/article/1/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^f00002]: Footnote: [S.I. No. 2012/687](https://www.legislation.gov.uk/uksi/2012/687).
+
+[^f00003]: Footnote: [1942 c.21](https://www.legislation.gov.uk/ukpga/1942/21). Part 1 of Schedule 11 was amended by the Finance Act [1963 (c.25)](https://www.legislation.gov.uk/ukpga/1963/25), Schedule 14, Part 7; the National Loans Act [1968 (c.13)](https://www.legislation.gov.uk/ukpga/1968/13), Schedule 6, Part 2); the Statute Law (Repeals) Act [1986 (c.12)](https://www.legislation.gov.uk/ukpga/1986/12), Schedule 1, Part 2; and the Finance Act [1989 (c.26)](https://www.legislation.gov.uk/ukpga/1989/26), Schedule 17, Part 14.
+
+[^f00004]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48).
+
+[^f00005]: Footnote: [2011 c.19](https://www.legislation.gov.uk/ukpga/2011/19).
+
+[^key-bd756b590a71a2678029becbac40fa01]: Commencement: Art. 2 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-78d688e386a2786f12ed13e02abfcab4]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/688/article/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-b8fc9ebc2d350081cd9314059c3c39f0]: Commencement: Art. 3 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-802bf2e11a365edf7577553cd8d16704]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/688/article/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-28c5dbe465126786780ab6c4a52f9c35]: Commencement: Art. 4 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-8738d6a63ef9680928d7335a4b6fc44b]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/688/article/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-eb211a8007def3d8d815f15d49aa7d8d]: Commencement: Art. 5 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^M_I_fab66868-0cfc-4370-be6c-a683e736ab1f]: Commencement: Art. 5 in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-9f8085334563bfce1f8f52f105955374]: Commencement: Art. 6 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-0a233e60c22402ba15efd4e9a2592be4]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/688/article/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-aa4c9e94e0ced589d86aafb2d2082c62]: Commencement: Art. 7 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-5d7300359112f8a40bc5954d8dbe7efa]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/688/article/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-db6e23e454f67acfbaae08c25f732c2d]: Commencement: Art. 8 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-bf7f848a2fa42e65304dcff371ab27b1]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/688/article/8) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-0e09de77c655c63ae797e797ef9b4fcf]: Commencement: Art. 9 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-7d926f0daf013f938d3d44026682ed6f]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2012/688/article/9) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-b41ae69bc076fb09866cc0dfbbe272cb]: Commencement: Sch. 1 para. 1 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-5c14a8db14adc3d63bd1cc515f8ba050]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2012/688/schedule/1/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^f00006]: Footnote: [S.I. 2012/687](https://www.legislation.gov.uk/uksi/2012/687).
+
+[^key-04781d2a7ff7678effe716617323d744]: Commencement: Sch. 1 para. 2 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-89936b67d2eaa85385f05dbbc64c5fad]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2012/688/schedule/1/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-6e4057f6821f15557b7380664e202619]: Commencement: Sch. 1 para. 3 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-4ff1a8fa382dc0ff66592b5a05d3d72e]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2012/688/schedule/1/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-8ca00a96e80db4826be576d5073d16bd]: Commencement: Sch. 1 para. 4 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-7e09ae55ca74b2534132251f59923e6a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2012/688/schedule/1/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^f00007]: Footnote: [2004 c.35](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^key-aee173ccca8fe016f071dc8029d0e015]: Commencement: Sch. 1 para. 5 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-ca26e129578cb6455f6bdf7422291059]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2012/688/schedule/1/paragraph/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-95077d103f9f432213d3d4910a771c50]: Commencement: Sch. 1 para. 6 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-eaab3ca523cf8e7a5909759c0d151f71]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2012/688/schedule/1/paragraph/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-a0e601a05a4ae1500b7ae520655935ec]: Commencement: Sch. 1 para. 7 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-2b9c8a2f7bdbe6a5d162ad3953f44b4f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2012/688/schedule/1/paragraph/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-b48a0eb885c9dbc969ddd6ac65a413c1]: Commencement: Sch. 1 para. 8 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-c3d12cff70d69cdb8a9a1a8bdac88376]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2012/688/schedule/1/paragraph/8) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-633a09ee4097e5eb366f624a037a1d00]: Commencement: Sch. 1 para. 9 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-2ee19d702fc39e688e133e3ece7c209b]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2012/688/schedule/1/paragraph/9) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-2c0f295941bdef937f439057a9a3c9a0]: Commencement: Sch. 1 para. 10 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-70cfad93326a8e19eb812e691f1b768a]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2012/688/schedule/1/paragraph/10) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-7a72ac825b0806db8ad60aa83d6cfb9f]: Commencement: Sch. 1 para. 11 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-0bfd307708dbdf0b04f6a95202c96661]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2012/688/schedule/1/paragraph/11) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-d07a56b3ab88150dee420a6574e2d05f]: Commencement: Sch. 2 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-73e9c06a0d6b165bbcb6b573e9294e70]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/688/schedule/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^f00008]: Footnote: Annual increases are assumed to take place in April each year.
+
+[^key-ebfd1bcf28ebb2c5352892b638476ba9]: Commencement: Sch. 3 para. 1 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-525bd2024e2ff2aaca82a127b6e4c15d]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2012/688/schedule/3/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-16f39f8a21225734a6b1a589766616e4]: Commencement: Sch. 3 para. 2 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-4165237c206e60d433d6ead1c81685b7]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2012/688/schedule/3/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-fc22e7075b16a52e96951c2a7e99e793]: Commencement: Sch. 3 para. 3 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-0368b59e203231c06d5edf380631ce19]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2012/688/schedule/3/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-78c7476df940b70aa1b5d08794d03f15]: Commencement: Sch. 3 para. 4 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-43d41db680cef03df1d9af52bb4181fb]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2012/688/schedule/3/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-de1e90a8edb3fff4d6b073dc02ec4201]: Commencement: Sch. 3 para. 5 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-ee3aac8e69df9ab528da6615f4b748ec]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2012/688/schedule/3/paragraph/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-3ae1411ba42283bd1697eee89cc2ddcc]: Commencement: Sch. 3 para. 6 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-63efd36e1fdcb1a181f65cf2a0f1ccc9]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2012/688/schedule/3/paragraph/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-30917bbb443cc4f4cfe28d88f4045e62]: Commencement: Sch. 4 para. 1 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-3b3c3370aded4e08efb5124999c08930]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/688/schedule/4/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-f163a7e0742edce0ad49696c2a913b75]: Commencement: Sch. 4 para. 2 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-3564ed551c8112adbbba32e0ed5870c7]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2012/688/schedule/4/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-843149227af76516078e035896ad6797]: Commencement: Sch. 4 para. 3 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-b86af04dfc4304c3f083e46f3ea9726e]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2012/688/schedule/4/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-e2e30bd9ad273a5a1fc8f62493b7463c]: Commencement: Sch. 4 para. 4 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-d4ebc5022215265a1b8c444076fdb52a]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2012/688/schedule/4/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-5680dad6f3fa42b0b0fc9e80ccf546e1]: Commencement: Sch. 5 para. 1 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-b4d83854150dba65d54e6c72ec399656]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2012/688/schedule/5/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-ea7bcc1e8a911db8d8c5abf430adf09d]: Commencement: Sch. 5 para. 2 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-ff2a8e57d5ac65000a07c6fd40545320]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2012/688/schedule/5/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-75d39d596374a5da9cd51006d06e15dd]: Commencement: Sch. 5 para. 3 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^M_I_fbd102ff-a951-4a32-89cf-e8afa576987b]: Commencement: Sch. 5 para. 3 in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-93d40cced042baf43a8b005510bc1e34]: Commencement: Sch. 5 para. 4 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-cd500ccbbb37ad69d09de2f09f1994a7]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2012/688/schedule/5/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-42eae92beb742125195cc30c467c8f43]: Commencement: Sch. 5 para. 5 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-45800e7c7a1fabc722e2fa752c6001d7]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2012/688/schedule/5/paragraph/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-45ab1fd2486d4c35fe59ecafa1a40967]: Commencement: Sch. 5 para. 6 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-becde8f2911faa49bb9cdcd39f42562c]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2012/688/schedule/5/paragraph/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-3440b0702d9db1f644c6e8a11319cc9e]: Commencement: Sch. 5 para. 7 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-8fb3dd33b284d779ab9bfaeccf0a3aab]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2012/688/schedule/5/paragraph/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-342f3563a8b4bf2f7c6b3c45faba3a0d]: Commencement: Sch. 5 para. 8 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-bcd15349a21cccbd6a74b2b7296f9e4d]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2012/688/schedule/5/paragraph/8) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-b48331ff3447f5b6ab9de5ead865c5c9]: Commencement: Sch. 5 para. 9 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-bb8da92ac91b17896ab1175f2366293c]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2012/688/schedule/5/paragraph/9) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-bb0af2d698dd1c80b286b3fabd9e62fd]: Commencement: Sch. 5 para. 10 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-d7fd7f55ca4eed9b8be467672532b7f4]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2012/688/schedule/5/paragraph/10) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-143ac21d46f337fd83c85b1040e31d39]: Commencement: Sch. 5 para. 11 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-0f615a29d7cfb3fae34e9fb285004b50]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2012/688/schedule/5/paragraph/11) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-25365aaad6fc589802210cbd0dbe75e1]: Commencement: Sch. 5 para. 12 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-1b458a4dffc6137f64c6411ea1e4bcc7]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2012/688/schedule/5/paragraph/12) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-ed49236764cdf51d88fb0bd0fc2beff3]: Commencement: Sch. 5 para. 13 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-526c2696e26b9a4ced0420ee0976ecf2]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/2012/688/schedule/5/paragraph/13) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-a138c9bd62902ed9379beb26173364e2]: Commencement: Sch. 5 para. 14 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-b28957c98c087ddc5575bc42d89478c4]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/2012/688/schedule/5/paragraph/14) in force at 1.4.2012 by S.I. 2012/966, arts. 2, 3(b)
+
+[^key-d0aa3faee18e5f6c2016b79c728d1f27]: Commencement: Sch. 5 para. 15 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-c043ba837746b09af6c91e9946c50104]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/uksi/2012/688/schedule/5/paragraph/15) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-85f7a2c3fdc5add3ae5eb531a83763c6]: Commencement: Sch. 6 para. 1 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-4644a7de9ac899609578511fbd6712ab]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/2012/688/schedule/6/paragraph/1) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-8506ac90eab846aa06b8797970cac8c0]: Commencement: Sch. 6 para. 2 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-8f2f2b7858e6586db56101ad9b0d547e]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2012/688/schedule/6/paragraph/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-9e3422ab1abd20ef589eada65b1d77a3]: Commencement: Sch. 6 para. 3 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-0532d5624d018d5e55fac9305d75a36b]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2012/688/schedule/6/paragraph/3) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-b27eb2ded695e3ebe543710fdab92c84]: Commencement: Sch. 6 para. 4 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-b97b57bd9fe0d0c9b39fdf9fbb06d229]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2012/688/schedule/6/paragraph/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-244c572184a7a39f71b6339f18782b41]: Commencement: Sch. 6 para. 5 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-56e9a9b2fd0d7084302220fae14fe360]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2012/688/schedule/6/paragraph/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-2c1ed6b866f238c8b2dc6c813a2bf3b1]: Commencement: Sch. 6 para. 6 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-7afaaaf3a529e272e88755fbf90a355f]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2012/688/schedule/6/paragraph/6) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-6ff25dbadae73ab55feb3f14b0d09faf]: Commencement: Sch. 6 para. 7 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-d552e5d31200095314f23338bf36902e]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/uksi/2012/688/schedule/6/paragraph/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-b9fe94c06d7c35918b692caf39cb299d]: Commencement: Sch. 6 para. 8 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-1b1ffecf20705e2ea8b71b38c5471698]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/uksi/2012/688/schedule/6/paragraph/8) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-9b0ee894933fcc01b2f57063446a9a9f]: Commencement: Sch. 6 para. 9 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-52687aa56ff2ac722594afc5ac1424aa]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/2012/688/schedule/6/paragraph/9) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-178535716c6e7ec54c3b0607cc4c3c53]: Commencement: Sch. 6 para. 10 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-7fbb19deac82ff6158ce796706c0d0dd]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/2012/688/schedule/6/paragraph/10) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-62b83177ef4a1209f076db01b7639d0e]: Commencement: Sch. 6 para. 11 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-4a5ebebef014c67c317acc613982625b]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/uksi/2012/688/schedule/6/paragraph/11) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-c053dee1952282da5a291b87a2347156]: Commencement: Sch. 6 para. 12 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-42283e8db946b469a5a78e7f2ce99ca0]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/uksi/2012/688/schedule/6/paragraph/12) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-3e5d7b6b8c64bc46116c502b9fb4bf9d]: Commencement: Sch. 6 para. 13 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-7b4266160889275a9ca926ad4f0cc0b4]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/uksi/2012/688/schedule/6/paragraph/13) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)
+
+[^key-71d1dca8c4b086d81f9ea2bbe56c3a8a]: Commencement: Sch. 6 para. 14 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/688/article/1/2)
+
+[^key-693c11b0ed52b03e2a8ef13f74bbe35a]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/uksi/2012/688/schedule/6/paragraph/14) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2012/966/article/3/b)

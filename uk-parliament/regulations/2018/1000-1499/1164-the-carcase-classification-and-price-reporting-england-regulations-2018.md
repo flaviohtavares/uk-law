@@ -1,0 +1,723 @@
+---
+title: The Carcase Classification and Price Reporting (England) Regulations 2018
+id: uksi/2018/1164
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-11-06'
+text_date: '2025-02-27'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2018/1164
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/1164/pdfs/uksiem_20181164_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1164/pdfs/uksi_20181164_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1164/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Carcase Classification and Price Reporting (England) Regulations 2018
+
+> Text as at 2025-02-27.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2018 No. 1164
+
+Agriculture, England
+
+The Carcase Classification and Price Reporting (England) Regulations 2018
+
+Made
+
+6th November 2018
+
+Laid before Parliament
+
+9th November 2018
+
+Coming into force
+
+3rd December 2018
+
+The Secretary of State makes these Regulations under section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972 [^c23430581].
+
+The Secretary of State is a Minister designated [^c23430591] for the purposes of section 2(2) of that Act in relation to the common agricultural policy.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Secretary of State that it is expedient for references in these Regulations to the following EU instruments to be construed as references to those instruments as amended from time to time—
+
+- (a) Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products [^c23430601];
+- (b) Commission Delegated Regulation (EU) 2017/1182 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the Union scales for the classification of beef, pig and sheep carcases and as regards the reporting of market prices of certain categories of carcases and live animals [^c23430611]; and
+- (c) Commission Implementing Regulation (EU) 2017/1184 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the Union scales for the classification of beef, pig and sheep carcases and as regards the reporting of market prices of certain categories of carcases and live animals [^c23430621].
+
+## PART 1 — GENERAL PROVISIONS
+
+### 1. Title, application and commencement
+
+These Regulations may be cited as the Carcase Classification and Price Reporting (England) Regulations 2018; they apply in England and come into force on 3rd December 2018.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 2010 Regulations**” means the Beef and Pig Carcase Classification (England) Regulations 2010 [^c23430631];
+- “**adult bovine animal**” means a bovine animal aged eight months or more;
+- “**approved slaughterhouse**” means an establishment used for slaughtering pigs or adult bovine animals, the meat of which is intended for human consumption and which is approved or conditionally approved under Article 4 of Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/eur/2004/853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin [^c23430641];
+- “[^key-28228107034ff3d33c55f4010c915596]**assimilated beef provision**” means a provision which is specified in column 2 of Schedule 1, the subject matter of which is described in column 3 of that Schedule;
+- “[^key-0042e841a0659a72bac5ce367b536068]**assimilated pig provision**” means a provision which is specified in column 2 of Schedule 2, the subject matter of which is described in column 3 of that Schedule;
+- “**authorised officer**” means a person authorised by the Secretary of State for the purposes of these Regulations, but does not include a person appointed for the purpose of considering an appeal under regulation 11;
+- “**bovine carcase**” means a carcase or half-carcase of a slaughtered adult bovine animal bearing a health mark as defined in Article 3(51) of Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^key-4480d513591004d3d7740b94fe025a72];
+- “**classification**” means—
+  - (a) the classification of bovine carcases in accordance with the assimilated[^key-0dc895aeb85339e74edc53d99216a379][^key-2f4db341a73b5e4e73877cb8fe0139c8] beef provisions, or
+  - (b) the classification of pig carcases in accordance with the assimilated[^key-500ecedbbc57605f3d63e643cd99fb73] pig provisions and with regulation 15,
+
+  as the case may be and cognate terms are to be construed accordingly;
+- “**clean pig**” means a pig which has not been used for breeding;
+- “**Commission Delegated Regulation**” means Commission Delegated Regulation (EU) 2017/1182 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the Union scales for the classification of beef, pig and sheep carcases and as regards the reporting of market prices of certain categories of carcases and live animals;
+- “**Commission Implementing Regulation**” means Commission Implementing Regulation (EU) 2017/1184 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the Union scales for the classification of beef, pig and sheep carcases and as regards the reporting of market prices of certain categories of carcases and live animals;
+- [^key-c1f0e1ffd2b08b8b2c3b7d641abebbc3]...
+- [^key-c1f0e1ffd2b08b8b2c3b7d641abebbc3]...
+- “**operator**” means a person carrying on the business of an approved slaughterhouse;
+- “**pig carcase**” means the body of a slaughtered clean pig, bled and eviscerated, whole or divided down the mid-line;
+- “**prescribed communication**” means a communication of the results of the classification as required by Article 1 of the Commission Implementing Regulation; and
+- “**Regulation (EU) 2013**” means Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products.
+
+(2) Other terms used in these Regulations that are also used in Regulation (EU) 2013, the Commission Delegated Regulation or the Commission Implementing Regulation have the meaning they bear in those Regulations.
+
+(3) In these Regulations, any reference to—
+
+- (a) Regulation (EU) 2013,
+- (b) the Commission Delegated Regulation, or
+- (c) the Commission Implementing Regulation,
+
+is to be construed as a reference to that instrument as amended from time to time.
+
+### 3. Transitional provisions
+
+Any notice, licence, approval or authorisation, given or granted under the 2010 Regulations and which has effect at the coming into force of these Regulations remains in force as if it were given or granted under these Regulations.
+
+### 4. Consequential amendments
+
+(1) The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 [^c23430661] are amended in accordance with paragraph (2).
+
+(2) In Schedule 1 (the SCMO Regulations), for “Commission Regulation 1249/2008 laying down detailed rules on the implementation of the Community scales for the classification of beef, pig and sheep carcases and the reporting of prices thereof” substitute the following at the appropriate place—
+
+- “Commission Delegated Regulation (EU) 2017/1182 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the Union scales for the classification of beef, pig and sheep carcases and as regards the reporting of market prices of certain categories of carcases and live animals”; and
+- “Commission Implementing Regulation (EU) 2017/1184 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the Union scales for the classification of beef, pig and sheep carcases and as regards the reporting of market prices of certain categories of carcases and live animals”.
+
+### 5. Revocations
+
+The following are revoked—
+
+- (a) the Beef and Pig Carcase Classification (England) Regulations 2010;
+- (b) regulation 2 of the Single Common Market Organisation (Consequential Amendments) Regulations 2013 [^c23430671]; and
+- (c) regulation 28 of the Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 [^c23430681].
+
+## PART 2 — NOTIFICATIONS BY OPERATORS
+
+### 6. Notifications by operators
+
+(1) Every person who—
+
+- (a) is an operator on 3rd December 2018, or
+- (b) becomes an operator on a subsequent date
+
+must, within 28 days of 3rd December 2018 or of the date on which that person becomes an operator as the case may be, give notice to the Secretary of State of the particulars specified in paragraph (3).
+
+(2) A person—
+
+- (a) who has given notice, or who has been deemed to have given notice, under regulation 5(1) or (2) of the 2010 Regulations, and
+- (b) to whom these Regulations apply by virtue of regulation 7 or regulation 13
+
+is deemed to have given notice under paragraph (1).
+
+(3) The particulars referred to in paragraph (1) are—
+
+- (a) the full name and address of the operator;
+- (b) where the operator is a partnership or has joint owners, the full names and addresses of all the partners or joint owners;
+- (c) where the operator is a body corporate, the full name, registered office address and registration number of the body; and
+- (d) the address, telephone number and approval number of the slaughterhouse.
+
+(4) Where any change occurs in any of the particulars specified in paragraph (3), the operator must within 28 days of the change give notice to the Secretary of State of the particulars of the change.
+
+(5) Where an operator (“O”) ceases to be the operator of an approved slaughterhouse, O must within 10 days of the cessation give notice to the Secretary of State of—
+
+- (a) the date of the cessation; and
+- (b) the person (if any) succeeding O as operator of that slaughterhouse.
+
+(6) Where an approved slaughterhouse ceases to be such a slaughterhouse, its operator must within 10 days of such cessation give notice to the Secretary of State of the date of that cessation.
+
+## PART 3 — BOVINE CARCASES
+
+### 7. Application of these Regulations to small-scale bovine operators
+
+(1) A small-scale bovine operator is not required to classify bovine carcases.
+
+(2) These Regulations do not apply to a small-scale bovine operator which does not classify carcases.
+
+(3) But if a small-scale bovine operator chooses to classify bovine carcases, these Regulations apply in relation to that operator and the classification of those carcases.
+
+(4) In this regulation, “**small-scale bovine operator**” means an operator of an approved slaughterhouse at which fewer than 150 adult bovine animals per week as an annual average are slaughtered.
+
+(5) Any small-scale bovine operator who, until the coming into force of these Regulations, was required to classify bovine carcases under the 2010 Regulations shall not by that reason alone be deemed to have chosen to do so for the purposes of paragraph (3).
+
+(6) Nothing in this regulation prevents the application of these Regulations to an operator in relation to pig carcases if pigs are also slaughtered in that operator's slaughterhouse.
+
+### 8. Competent authority: bovine carcases
+
+(1) The Secretary of State is the competent authority for the purposes of—
+
+- (a) Article 12(2)(b) of the Commission Delegated Regulation (additional provisions on classification by automated grading techniques);
+- (b) Articles 13 and 14 of the Commission Delegated Regulation and Article 14 of the Commission Implementing Regulation (reporting of market prices and calculation of average price per class);
+- (c) Article 17(2) of the Commission Delegated Regulation (supplementary provisions for reporting of market prices for carcases);
+- (d) Article 4(1) of the Commission Implementing Regulation (making and keeping reports for on-the-spot checks).
+
+(2) The Secretary of State is responsible for—
+
+- (a) authorisation of automated grading methods for beef carcases as described in Article 10 of the Commission Delegated Regulation;
+- (b)[^key-8a174dbb522fb3b06c72f99623ec22ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) on-the-spot checks as described in Articles 2 and 3 of the Commission Implementing Regulation.
+
+### 9. Licence to carry out classification
+
+(1) The Secretary of State may grant a licence to carry out visual classification of bovine carcases to any person who applies for such a licence and who appears to the Secretary of State to be qualified to carry out the classification, if the Secretary of State is satisfied that the person is a fit and proper person to carry out classification of bovine carcases.
+
+(2) The licence may be made subject to such terms and conditions as the Secretary of State considers necessary for the purposes of paragraph (1).
+
+(3) In addition to the power to revoke a licence in the circumstances mentioned in Article 4(2) of the Commission Implementing Regulation (incorrect classification, presentations or identifications), the Secretary of State may suspend or revoke a licence granted to a person under this regulation if—
+
+- (a) the person has contravened any of the terms or conditions of that licence; or
+- (b) the Secretary of State is satisfied that the person holding that licence is no longer a fit and proper person to carry out classification of bovine carcases.
+
+(4) Where the Secretary of State takes any decision in relation to a licence under this regulation which gives rise to a right to appeal under regulation 11, the Secretary of State must—
+
+- (a) inform the person of the decision in writing;
+- (b) give the reasons; and
+- (c) explain that there is a right of appeal to a person appointed by the Secretary of State.
+
+### 10. Licence for automated grading
+
+(1) The Secretary of State may grant to the operator of an approved slaughterhouse a licence authorising the use of automated grading equipment for classification of bovine carcases at that slaughterhouse, if the Secretary of State is satisfied on the application of the operator for such a licence that the equipment and the manner of its operation would meet the standards required by Article 9(b) and 10(2) (read with Part A of Annex IV) of the Commission Delegated Regulation.
+
+(2) The licence may be made subject to such terms and conditions as are necessary to ensure compliance with those standards.
+
+(3) In addition to the power to revoke a licence in the circumstances mentioned in Article 4(2) of the Commission Implementing Regulation, the Secretary of State may suspend or revoke a licence granted to an operator under this regulation if—
+
+- (a) the operator has contravened any of the terms or conditions of the licence; or
+- (b) the Secretary of State considers that the automated grading equipment no longer meets the standards required by the Commission Delegated Regulation, whether for reasons connected with the equipment itself or with the operator's manner of operation of the equipment.
+
+(4) Where the Secretary of State takes any decision in relation to a licence under this regulation which gives rise to a right to appeal under regulation 11, the Secretary of State must—
+
+- (a) inform the person of the decision in writing;
+- (b) give the reasons; and
+- (c) explain that there is a right of appeal to a person appointed by the Secretary of State.
+
+### 11. Appeals regarding licences
+
+(1) A person may appeal against—
+
+- (a) a decision by the Secretary of State to refuse an application by that person for a licence under regulation 9 or 10;
+- (b) a term or condition imposed by the Secretary of State in a licence granted to that person under regulation 9 or 10; or
+- (c) a decision by the Secretary of State to suspend or revoke a licence under regulation 9 or 10.
+
+(2) The appeal must be made to a person appointed for the purpose by the Secretary of State.
+
+(3) The Secretary of State may also make written representations to the appointed person concerning the decision.
+
+(4) The appointed person must consider the appeal and any representations made by the Secretary of State and must report in writing to the Secretary of State with the person's conclusions on the appeal and a recommendation as to the manner in which the matter should be finally determined by the Secretary of State.
+
+(5) The Secretary of State must then make a final determination and notify the appellant of that determination and the reasons for it.
+
+### 12. Records: bovine carcases
+
+(1) An operator of an approved slaughterhouse must keep a record of the particulars specified in Schedule 3 relating to each bovine carcase which is classified in that slaughterhouse.
+
+(2) The operator must retain each record for a period of 12 months from the end of the calendar year to which the record relates.
+
+## PART 4 — PIG CARCASES
+
+### 13. Exemption for small-scale pig operators
+
+(1) These Regulations do not apply to the operator of an approved slaughterhouse at which fewer than 500 clean pigs per week as an annual average are slaughtered.
+
+(2) Nothing in paragraph (1) prevents the application of these Regulations to an operator in relation to bovine carcases if adult bovine animals are also slaughtered in that operator's slaughterhouse.
+
+### 14. Competent authority: pig carcases
+
+(1) The Secretary of State is the competent authority for the purposes of—
+
+- (a) Article 7(4) of the Commission Delegated Regulation (classification and weighing);
+- (b) Article 12(2)(b) of the Commission Delegated Regulation (additional provisions on classification by automated grading techniques);
+- (c) Articles 13 and 14 of the Commission Delegated Regulation and Article 14 of the Commission Implementing Regulation (reporting of market prices and calculation of average price per class);
+- (d) Article 17(2) of the Commission Delegated Regulation (supplementary provisions for reporting of market prices for carcases);
+- (e) Article 4(1) of the Commission Implementing Regulation (making and keeping reports for on-the-spot checks).
+
+(2) The Secretary of State is responsible for—
+
+- (a) authorisation of automated grading methods for pig carcases as described in Article 11 of the Commission Delegated Regulation;
+- (b)[^key-557371bc7a4369b7841a9def2a477e84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) on-the-spot checks as described in Articles 2 and 3 of the Commission Implementing Regulation.
+
+### 15. Authorised grading methods
+
+(1) The classification of pig carcases must be carried out at an approved slaughterhouse—
+
+- (a) using an authorised grading method provided for in Article 11 of the Commission Delegated Regulation; and
+- (b) using grading techniques provided for in Article 11 of the Commission Delegated Regulation which are operated by qualified personnel.
+
+(2) In this regulation, “**qualified personnel**” refers to any person who is proficient in using the equipment and the grading techniques being operated by that person.
+
+### 16. Records instead of marking
+
+An operator or the person responsible for the classification of pigs may, instead of marking a carcase in accordance with the assimilated[^key-972c2652673b00086b6771546047de65] pig provisions set out in Part 2 of Schedule 2, draw up a record for that carcase which comprises at least —
+
+- (a) the individual identification of the carcase by any unalterable means;
+- (b) the warm weight of the carcase; and
+- (c) the result of the classification.
+
+### 17. Records: pig carcases
+
+(1) An operator of an approved slaughterhouse must keep a record of the particulars specified in Schedule 4 relating to each pig carcase which is classified in that slaughterhouse.
+
+(2) The operator must retain each record for a period of 12 months from the end of the calendar year to which the record relates.
+
+## PART 5 — ENFORCEMENT AND OFFENCES
+
+### 18. Notices
+
+(1) Any notice required or authorised under these Regulations to be given to any person must be in writing.
+
+(2) Any such notice may be given by—
+
+- (a) delivering it to the person;
+- (b) leaving it at the person's proper address; or
+- (c) sending it by post to the person at that address.
+
+(3) Where any such notice is to be given to a body corporate, it may be given to an officer of the body.
+
+(4) For the purposes of this regulation, the proper address of any person to whom a notice is to be given is the person's last known address, except that in the case of a body corporate or an officer of the body, the proper address is the address of the registered or principal office of the body.
+
+(5) In this regulation—
+
+- “**director**”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate; and
+- “**officer**”, in relation to a body corporate, means any director, manager, secretary or other similar officer of the body corporate.
+
+### 19. Powers of entry
+
+(1) An authorised officer may at any reasonable hour and on producing, if so required, a duly authenticated authorisation, enter an approved slaughterhouse and any associated premises in which carcases may be handled or records relating to those carcases may be kept, for the purpose of ascertaining whether—
+
+- (a) any offence under these Regulations is being or has been committed on the premises; or
+- (b) there is on the premises any evidence of any such offence.
+
+(2) The officer may be accompanied by such other persons as the officer considers necessary.
+
+(3) A justice of the peace may by signed warrant permit an authorised officer to enter any premises, if necessary by reasonable force, if satisfied on sworn information in writing that—
+
+- (a) there is reasonable ground for entry into the premises for any purpose in paragraph (1); and
+- (b) any of the following conditions are met—
+  - (i) admission to the premises has been refused, or a refusal is anticipated and (in either case) notice of intention to apply for a warrant has been given to the operator;
+  - (ii) asking for admission, or the giving of such notice, would defeat the object of the entry;
+  - (iii) the case is one of urgency; or
+  - (iv) the premises are unoccupied, or the operator is temporarily absent.
+
+(4) A warrant granted under this regulation continues in force for three months.
+
+(5) An officer who enters any unoccupied premises, or premises from which the operator is temporarily absent, must leave them as effectively secured against unauthorised entry as they were before entry.
+
+### 20. Powers of authorised officers
+
+An authorised officer entering premises under these Regulations may—
+
+- (a) inspect any bovine carcase or pig carcase or part of such a carcase, or any carcase or part of a carcase which the officer reasonably suspects to be a bovine or pig carcase or part of such a carcase;
+- (b) examine any record which an operator is required to keep under regulation 12 or 17 or under the Commission Delegated Regulation or the Commission Implementing Regulation, and where any such record is kept by means of a computer, have access to and inspect and check the operation of any computer and associated apparatus or material which is or has been in use in connection with that record;
+- (c) require that copies of or extracts from any such record be produced and, where such record is kept by means of a computer, require it to be produced in a form in which it may be taken away; and
+- (d) retain any such record which the officer has reason to believe may be required as evidence in proceedings under these Regulations.
+
+### 21. Enforcement notices
+
+(1) If the Secretary of State has reason to believe that a person has committed an offence under these Regulations, the Secretary of State may give that person an enforcement notice in accordance with paragraph (2).
+
+(2) An enforcement notice must—
+
+- (a) state the Secretary of State's grounds for believing that an offence has been committed;
+- (b) specify the matter that constitutes the offence;
+- (c) specify what that person must stop doing, or the measures that, in the Secretary of State's opinion, the person must take in order to comply with these Regulations;
+- (d) require the person to stop doing the action specified in the notice, or to take the measures specified in the notice or measures at least equivalent to them, within the period (being not less than 14 days) specified in the notice;
+- (e) inform the person of the right of appeal conferred by regulation 22; and
+- (f) inform the person of the period within with such an appeal may be brought.
+
+(3) Any person who contravenes or fails to comply with an enforcement notice is guilty of an offence.
+
+### 22. Appeals against enforcement notices
+
+(1) A person may appeal to a magistrates' court against an enforcement notice if that person has reason to believe that the notice should not have been given.
+
+(2) A person may appeal within the period of one month beginning with the date on which the notice was given.
+
+(3) The procedure is by way of complaint for an order; and the Magistrates' Court Act 1980 [^c23430691] applies to the proceedings.
+
+(4) On an appeal the court may either cancel or affirm the notice and, if the court affirms the notice, it may do so either in its original form or with such modifications as the court thinks fit.
+
+### 23. Penalty notices
+
+(1) If the Secretary of State has reason to believe that a person has committed an offence under these Regulations, the Secretary of State may give that person a notice (a “penalty notice”) in accordance with paragraphs (2) and (3).
+
+(2) A penalty notice may be of any amount.
+
+(3) A penalty notice must—
+
+- (a) give such particulars of the circumstances alleged to constitute the offence as are necessary for giving reasonable information about the offence;
+- (b) state the amount of the penalty;
+- (c) state the period during which, by virtue of regulation 24, proceedings will not be taken for the offence;
+- (d) state the person to whom and the address at which the penalty may be paid; and
+- (e) state the means by which payment of the penalty may be made.
+
+### 24. Restriction on proceedings for penalty offence
+
+(1) Where a person is given a penalty notice—
+
+- (a) no proceedings may be brought against that person for the offence to which that notice relates before the end of the period of 28 days, beginning with the date on which the notice was given; and
+- (b) that person may not be convicted of the offence if the penalty is paid in accordance with regulation 25 before the end of that period.
+
+(2) Paragraph (1) does not apply if the penalty notice is withdrawn in accordance with regulation 26.
+
+### 25. Payment of penalty
+
+(1) Payment of any penalty must be made to the Secretary of State by sending it by post or by such method as may be specified in the penalty notice.
+
+(2) In any proceedings a certificate purporting to be signed by or on behalf of the Secretary of State stating that payment of a penalty was or was not received by the date specified in the certificate is evidence of the facts stated.
+
+### 26. Withdrawal of penalty notice
+
+(1) A penalty notice may be withdrawn if the Secretary of State has reason to believe that it ought not to have been given (whether to the person named in the penalty notice or otherwise).
+
+(2) A penalty notice may be withdrawn by the Secretary of State giving notice to the person named in the penalty notice before or after payment of the penalty.
+
+(3) Where a penalty notice is withdrawn, the Secretary of State must repay any penalty paid under the penalty notice to the person named in the penalty notice within 28 days, beginning with the date on which notice of the withdrawal of the penalty notice was sent.
+
+### 27. Offences: assimilated beef provisions[^key-3f6c339973b098219e7718cab8d62810]
+
+Any person who—
+
+- (a) fails to comply with any requirement under a assimilated beef provision, or
+- (b) contravenes any prohibition contained in a assimilated beef provision,
+
+is guilty of an offence.
+
+### 28. Offences: assimilated pig provision[^key-4c036a79fa19a36dc0f12779438f8cc2]
+
+(1) Any person who—
+
+- (a) fails to comply with any requirement under a assimilated pig provision, or
+- (b) contravenes any prohibition contained in a assimilated pig provision,
+
+is guilty of an offence.
+
+(2) But where an operator or the person responsible for the classification of pig carcases draws up a record in compliance with the conditions referred to in regulation 16 (records instead of marking) no offence is committed by failure to comply with or contravening a Part 2 assimilated pig provision.
+
+(3) In this regulation, “**Part 2 assimilated pig provision**” means a provision which is specified in column 2 of Part 2 of Schedule 2.
+
+### 29. Offences: notifications by operators
+
+Any person who fails to comply with any requirement of regulation 6 (notification by operators) is guilty of an offence.
+
+### 30. Offences: licences (bovine carcases)
+
+(1) If classification of a bovine carcase is carried out at an approved slaughterhouse—
+
+- (a) without a licence granted under regulation 9, or
+- (b) in breach of any term or condition of such a licence,
+
+the person who carries out the classification and the operator of that slaughterhouse are each guilty of an offence.
+
+(2) If classification of a bovine carcase is carried out at an approved slaughterhouse by means of automated grading equipment—
+
+- (a) without a licence granted under regulation 10 for the use of that equipment at that slaughterhouse, or
+- (b) in breach of any terms or condition of such a licence,
+
+the person who carries out that classification and the operator of that slaughterhouse are each guilty of an offence.
+
+(3) Any person who makes an alteration to a licence granted under regulation 9 or 10 is guilty of an offence.
+
+### 31. Offences: authorised grading methods (pig carcases)
+
+If classification of a pig carcase is carried out at an approved slaughterhouse using a grading method or grading technique in a manner which fails to comply with the requirements of regulation 15, the person who carries out the classification and the operator of that slaughterhouse are each guilty of an offence.
+
+### 32. Offences: records and marks
+
+(1) Any person who fails to comply with any requirement of regulation 12 (records: bovine carcases) or regulation 17 (records: pig carcases) is guilty of an offence.
+
+(2) Any person who marks a bovine carcase or part of such a carcase—
+
+- (a) as prescribed by Article 8(1), (2)(a), (3)(a) (read with the second paragraph of Article 8(3)), (4) and (5) of the Commission Delegated Regulation, or
+- (b) in a way closely resembling the marking prescribed by those provisions,
+
+which is likely to mislead, is guilty of an offence.
+
+(3) Any person who marks a pig carcase or part of such a carcase—
+
+- (a) as prescribed by Article 8(1), (2)(b), (3)(c) (read with the second paragraph of Article 8(3)), (4) and (5) of the Commission Delegated Regulation, or
+- (b) in a way closely resembling the marking prescribed by those provisions,
+
+which is likely to mislead, is guilty of an offence.
+
+### 33. Offences: obstruction etc.
+
+Any person who—
+
+- (a) without reasonable excuse, obstructs any person acting under these Regulations,
+- (b) without reasonable cause, fails to give any person acting under these Regulations any assistance or information that that person may reasonably require for the purpose of carrying out functions under these Regulations,
+- (c) gives any person acting under these Regulations any information knowing it to be false or misleading, or
+- (d) fails to produce any document or record when required to do so by any person acting under these Regulation,
+
+is guilty of an offence.
+
+### 34. Period for bringing prosecution
+
+(1) Proceedings for an offence under regulations 21(3), 27, 28, 29, 30, 31, 32(1) or 33 may be brought within a period of 12 months from the date on which the prosecutor first knows of evidence sufficient, in the prosecutor's opinion, to justify proceedings.
+
+(2) But no such proceedings may be brought more than 18 months from the commission of the offence.
+
+(3) For the purposes of paragraph (1)—
+
+- (a) a certificate signed by or on behalf of the prosecutor and stating the date on which the prosecutor first knew of evidence sufficient to justify the proceedings is conclusive evidence of that fact;
+- (b) a certificate stating the matter and purporting to be so signed is deemed to be so signed unless the contrary is proved.
+
+### 35. Offences by bodies corporate
+
+(1) If an offence under these Regulations committed by a body corporate is shown to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer, that officer as well as the body corporate is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(2) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with that member's functions of management as if that member were a director of the body.
+
+(3) In this regulation, “**officer**”, in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
+
+### 36. Defence of due diligence
+
+It is a defence for a person charged with an offence under these Regulations (P) to prove that P took all reasonable precautions and exercised all due diligence to avoid the commission of the offence by P or by a person under P's control.
+
+### 37. Offences: punishment
+
+(1) A person guilty of an offence under—
+
+- (a) regulation 21(3) (enforcement notices),
+- (b) regulation 27 (assimilated[^key-4441ad16cf48315becb3517b3fd5b13e] beef provisions),
+- (c) regulation 28 (assimilated pig provisions),
+- (d) regulation 29 (notifications by operators),
+- (e) regulation 30 (licences (bovine carcases)),
+- (f) regulation 31 (authorised grading methods: (pig carcases)),
+- (g) regulation 32(1) (records), or
+- (h) regulation 33 (obstruction etc.)
+
+is liable on summary conviction to a fine.
+
+(2) A person guilty of an offence under regulation 32(2) or (3) (misleading marks etc.) is liable—
+
+- (a) on summary conviction to a fine; or
+- (b) on conviction on indictment, to a fine.
+
+George Eustice
+
+Minister of State
+
+Department for Environment, Food and Rural Affairs
+
+## SCHEDULE 1 — Assimilated provisions: bovine carcases[^key-c3a260d2d67b72bd9e8b92ee20a328b1]
+
+Regulation 2
+
+| *(1) Regulation containing assimilated[^key-43dc6ca4df47614bcd58a2f5f30ca384] provision* | *(2) Provision* | *(3)Subject matter* |
+| --- | --- | --- |
+| Regulation (EU) 2013 | Article 10 and Annex IV, point A(II), together with Article 1 of the Commission Delegated Regulation (read with the Cattle Identification Regulations 2007 [^c23430701]) | Requirement to indicate the category of carcase as specified in these provisions |
+|  | Article 10 and Annex IV, point A(III), together with Article 3(1) of, and Annex 1 to, the Commission Delegated Regulation | Requirement to indicate, in relation to a carcase, the class of conformation and fat cover, as specified in these provisions |
+|  | Article 10 and Annex IV, point A(IV) | Requirement to present carcases in the specified manner |
+|  | Article 10 and Annex IV, point A(V), first sub-paragraph | Requirement for approved slaughterhouses to classify and identify carcases in accordance with the United Kingdom[^key-1c26a1aad5ef4301fee33e3f52e83dcb] scale |
+| Commission Delegated Regulation | Article 6(1) | Prohibition on removing fat, muscle or other tissue before weighing, grading and marking |
+|  | Article 6(3) | Requirement to present carcases in the specified manner, for the purpose of establishing market prices |
+|  | Article 7(1) | Requirement as to the time and place of classification |
+|  | Article 7(3)(a) | Requirements as to the time of classification and weighing |
+|  | Article 7(5) | Requirement as to time of classification in cases where automated graded method fails to classify carcase |
+|  | Article 8(1), Article 8(2)(a), Article 8(3)(a) read with the second paragraph of that Article, Article 8(4) | Requirements as to the marking of carcases to indicate the category and class of conformation of fat cover |
+|  | Article 8(5) | Requirements in relation to labelling of a carcase |
+|  | Article 10(7) | Prohibition on modifications of the technical specifications of authorised automatic grading methods without approval of the Secretary of State |
+|  | Article 12 | Requirements as to classification by automated grading techniques |
+|  | Article 14(1), (2) and (3) | Requirement concerning the weighing of the carcase for reporting market prices |
+|  | Article 14(4) | Requirements as to reporting of prices per class |
+|  | Article 17(2) in its application to supplementary payments for carcases | Requirements to notify supplementary payments |
+| Commission Implementing Regulation | Article 1 | Requirements as to the prescribed communication |
+|  | Subparagraphs one and three of Article 5(1) and the Annex | Requirements as to the adjustments to the weight of the carcase |
+|  | Article 7 | Requirement as to classes for recording of market prices for beef carcasses |
+|  | Article 8(1), (3) and (4) | Requirements as to the recording of prices |
+
+## SCHEDULE 2 — Assimilated provisions: pig carcases[^key-036413c96be6149417ca1eb22af38bb1]
+
+Regulation 2
+
+### PART 1
+
+| *(1) Regulation containing assimilated[^key-3645ac2c3284360f69a1e6c04ae72ee5] provision* | *(2) Provision* | *(3) Subject matter* |
+| --- | --- | --- |
+| Regulation (EU) 2013 | Article 10 and Annex IV, point B(II) | Requirement to classify carcases into one of the specified classes |
+|  | Article 10 and Annex IV, point B(III), as modified by Articles 3 and 4 of Commission Decision [2004/370/EC](https://www.legislation.gov.uk/european/decision/2004/0370) authorising methods for grading pig carcases in the United Kingdom [^c23430711] | Requirement to present carcases in a manner specified in these provisions |
+|  | Article 10 and Annex IV, point B(IV), sub-paragraph 1, together with Article 1 of, and Annex I to, Commission Decision [2004/370/EC](https://www.legislation.gov.uk/european/decision/2004/0370) authorising methods for grading pig carcases in the United Kingdom | Requirement to grade carcases by authorised methods[^key-e4c16f1db19923f92b5dcc8f7cd4f329] |
+| Commission Delegated Regulation | Article 6(1) | Prohibition on removing fat, muscle or other tissue before weighing, grading and marking |
+|  | Article 7(1) | Requirement as to the time and place of classification |
+|  | Article 7(3)(b) and 7(4)(a) | Requirements as to weighing of carcase and weight adjustments |
+|  | Article 12 | Requirements as to classification by automated grading techniques |
+|  | Article 14 (1), (2) and (3) | Requirement concerning the weighing of the carcase for reporting the market prices |
+|  | Article 14(4) | Requirements as to reporting of prices per class |
+|  | Article 17(2) in its application to supplementary payments for carcases | Requirements to notify supplementary payments |
+|  | Point 2 of Part A of Annex V | Requirements as to assessment of lean meat content of carcases |
+| Commission Implementing Regulation | Article 1 | Requirements as to the prescribed communication |
+|  |  |  |
+|  | Article 9 | Requirements as to classes and weights for recording of market prices for pig carcases |
+|  | Article 10 | Recording of market prices |
+
+### PART 2
+
+| *(1) Regulation containing assimilated[^key-a2a6564bc1f62335a5ea8e71dca9d0d1] provision* | *(2) Provision* | *(3) Subject matter* |
+| --- | --- | --- |
+| Commission Delegated Regulation | Article 8(1), 8(2)(b), Article 8(3)(c) read with the second paragraph of that Article and Article 8(4) | Requirements as to marking or labelling of carcases |
+|  | Article 8(5) | Requirements in relation to labelling of a carcase |
+
+## SCHEDULE 3 — Records: bovine carcases
+
+Regulation 12
+
+**1.** The results of the classification.
+
+**2.** The approval number of the slaughterhouse.
+
+**3.** The kill or slaughter number of the animal from which the carcase was obtained, as allocated by the operator.
+
+**4.** The date of slaughter.
+
+**5.** The warm weight of the carcase together with a note of—
+
+- (a) any adjustment made for the cold carcase weight, and
+- (b) any co-efficient applied.
+
+**6.** The dressing specification used.
+
+**7.** A record that the prescribed communication has been effected.
+
+**8.** The name, signature and classification licence serial number of the person who carried out the classification.
+
+## SCHEDULE 4 — Records: pig carcases
+
+Regulation 17
+
+**1.** The results of the classification.
+
+**2.** The approval number of the slaughterhouse.
+
+**3.** The kill or slaughter number of the animal from which the carcase was obtained, as allocated by the operator.
+
+**4.** The date of slaughter.
+
+**5.** The warm weight of the carcase, together with a note of—
+
+- (a) any adjustment made for the cold carcase weight, and
+- (b) any coefficient applied.
+
+**6.** The lean meat percentage of the carcase.
+
+**7.** An indication as to whether the tongue, flare, fat, kidneys and diaphragm were attached or removed.
+
+**8.** A record that the prescribed communication has been effected.
+
+**9.** The name and signature of the person who carried out the classification.
+
+*(This note is not part of the Regulations)*
+
+These Regulations, which apply in England only, revoke and remake the provisions of the Beef and Pig Carcase Classification (England) Regulations 2010, consequent to the repeal of Commission Regulation [(EC) No 1249/2008](https://www.legislation.gov.uk/european/regulation/2008/1249) (OJ No L 337, 16.12.2008, p 3). The Regulations enforce—
+
+- — Article 10 of, and Annex IV to, Regulation (EU) No 1308/2013 of the European Parliament and of the Council (OJ No L347, 20.12.2013, p 671), which relate to European Union scales for the classification of carcases; and
+- — Commission Delegated Regulation (EU) 2017/1182 (OJ No L171, 4.7.2017, p 74) (the Commission Delegated Regulation); and Commission Implementing Regulation (EU) 2017/1184 (OJ No L171, 4.7.2017, p 103) (the Commission Implementing Regulation) which set out further details regarding the implementation of those scales.
+
+The Regulations relate to the carcases of adult bovine animals (being animals aged eight months or more) and pigs.
+
+Regulation 6 requires notifications to be made to the Secretary of State by operators of slaughterhouses which slaughter adult bovine animals or pigs. However, the regulations do not apply to small-scale bovine operators slaughtering fewer than 150 adult bovine animals per week as an annual average, unless they choose to classify bovine carcases (regulation 7); or to the operators of slaughterhouses at which fewer than 500 clean pigs per week as an annual average are slaughtered (regulation 13).
+
+The Regulations provide for a licensing system for anybody who visually classifies bovine carcases and for the licensing of slaughterhouses using automated grading equipment for classifying such carcases (regulations 9 to 11). Breach of the licensing requirements is an offence (regulation 30).
+
+The classification of pig carcases must be carried out using an authorised grading method and grading techniques operated by qualified personnel (regulation 15). Breach of this requirement is an offence (regulation 31). An operator may, instead of marking a pig carcase, keep a record concerning its classification (regulation 16).
+
+Operators of approved slaughterhouses are required to keep records relating to bovine and pig carcases respectively (regulations 12 and 17 and Schedules 3 and 4).
+
+Part 5 of the Regulations concerns enforcement, and makes provision relating to the powers of authorised officers, enforcement notices, penalty notices and criminal proceedings. Regulations 21(3) and 27 to 33 set out the offences under the Regulations, which are all punishable on summary conviction by a fine, except for offences under regulation 32(2) or (3) (false marks).
+
+In particular, regulations 27 and 28 provide that breach of specified provisions of European Union legislation is an offence, namely European beef provisions set out in Schedule 1 and European pig provisions set out in Schedule 2. The provisions specified in Schedules 1 and 2 include requirements for recording and reporting market prices for bovine and pig carcases respectively.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^c23430581]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); [section 2(2)](https://www.legislation.gov.uk/uksi/2018/1164/section/2/2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). The function of the former Minister of Agriculture, Fisheries and Food of making regulations under section 2(2) was transferred to the Secretary of State by the [Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/794)](https://www.legislation.gov.uk/uksi/2002/794).
+
+[^c23430591]: Marginal citation: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811), to which there are amendments not relevant to these Regulations.
+
+[^c23430601]: Marginal citation: OJ No L347, 20.12.2013, p 671, as last amended by Regulation (EU) No 2017/2393 (OJ No L350, 29.12.2017, p15).
+
+[^c23430611]: Marginal citation: OJ No L171, 4.7.2017, p 74.
+
+[^c23430621]: Marginal citation: OJ No L171, 4.7.2017, p 103.
+
+[^c23430631]: Marginal citation: [S.I. 2010/1090](https://www.legislation.gov.uk/uksi/2010/1090), amended by [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235) and [S.I. 2018/575](https://www.legislation.gov.uk/uksi/2018/575).
+
+[^c23430641]: Marginal citation: OJ No L139, 30.4.2004, p 55, as last amended by Commission Regulation (EU) 2017/1981 (OJ No L285, 1.11.2017, p 10).
+
+[^key-28228107034ff3d33c55f4010c915596]: Textual amendment: Words in reg. 2(1) inserted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(a)(iii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/a/iii)
+
+[^key-0042e841a0659a72bac5ce367b536068]: Textual amendment: Words in reg. 2(1) inserted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(a)(iv)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/a/iv)
+
+[^key-4480d513591004d3d7740b94fe025a72]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2019/1488/regulation/31)
+
+[^key-0dc895aeb85339e74edc53d99216a379]: Textual amendment: Word in reg. 2(1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(a)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/a/i)
+
+[^key-2f4db341a73b5e4e73877cb8fe0139c8]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2019/824/regulation/10/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-500ecedbbc57605f3d63e643cd99fb73]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/10/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c1f0e1ffd2b08b8b2c3b7d641abebbc3]: Textual amendment: Words in reg. 2(1) omitted (27.2.2025) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(a)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/a/ii)
+
+[^c23430661]: Marginal citation: [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263), to which there are amendments not relevant to these Regulations.
+
+[^c23430671]: Marginal citation: [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235).
+
+[^c23430681]: Marginal citation: [S.I. 2018/575](https://www.legislation.gov.uk/uksi/2018/575).
+
+[^key-8a174dbb522fb3b06c72f99623ec22ad]: Textual amendment: [Reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2018/1164/regulation/8/2/b) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2019/824/regulation/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-557371bc7a4369b7841a9def2a477e84]: Textual amendment: [Reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2018/1164/regulation/14/2/b) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2019/824/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-972c2652673b00086b6771546047de65]: Textual amendment: Word in [reg. 16](https://www.legislation.gov.uk/uksi/2018/1164/regulation/16) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/b)
+
+[^c23430691]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); [sections 51](https://www.legislation.gov.uk/uksi/2018/1164/section/51) and 52 have been substituted by the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [section 47](https://www.legislation.gov.uk/ukpga/2003/39/section/47).
+
+[^key-3f6c339973b098219e7718cab8d62810]: Textual amendment: Word in [reg. 27](https://www.legislation.gov.uk/uksi/2018/1164/regulation/27) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/c)
+
+[^key-4c036a79fa19a36dc0f12779438f8cc2]: Textual amendment: Word in [reg. 28](https://www.legislation.gov.uk/uksi/2018/1164/regulation/28) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/d)
+
+[^key-4441ad16cf48315becb3517b3fd5b13e]: Textual amendment: Word in [reg. 37](https://www.legislation.gov.uk/uksi/2018/1164/regulation/37) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(e)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/e)
+
+[^key-c3a260d2d67b72bd9e8b92ee20a328b1]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1164/schedule/1) heading substituted (27.2.2025) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(f)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/f/i)
+
+[^c23430701]: Marginal citation: SI. 2007/529. The Cattle Identification Regulations 2007 establish a bovine animal identification and registration system in England, as specified in Article 1 of Regulation (EU) 2013.
+
+[^key-1c26a1aad5ef4301fee33e3f52e83dcb]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1164/schedule/1) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [10(9)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/10/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-43dc6ca4df47614bcd58a2f5f30ca384]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1164/schedule/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(f)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/f/ii)
+
+[^key-036413c96be6149417ca1eb22af38bb1]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2018/1164/schedule/2) heading substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(g)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/g/i)
+
+[^c23430711]: Marginal citation: OJ No L116, 22.4.2004, p 32, as last amended by Commission Decision 2006/374/EC (OJ No L142, 30.5.2006, p 34).
+
+[^key-e4c16f1db19923f92b5dcc8f7cd4f329]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1164/schedule/2/part/1) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [10(10)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/10/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3645ac2c3284360f69a1e6c04ae72ee5]: Textual amendment: Word in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1164/schedule/2/part/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(g)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/g/ii)
+
+[^key-a2a6564bc1f62335a5ea8e71dca9d0d1]: Textual amendment: Word in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1164/schedule/2/part/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(g)(iii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/g/iii)

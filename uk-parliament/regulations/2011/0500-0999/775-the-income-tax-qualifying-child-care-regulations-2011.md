@@ -1,0 +1,145 @@
+---
+title: The Income Tax (Qualifying Child Care) Regulations 2011
+id: uksi/2011/775
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2011-03-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2011/775
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/775/pdfs/uksiem_20110775_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/775/pdfs/uksi_20110775_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/775/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income Tax (Qualifying Child Care) Regulations 2011
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2011 No. 775
+
+Income Tax
+
+The Income Tax (Qualifying Child Care) Regulations 2011
+
+Made
+
+14th March 2011
+
+Laid before the House of Commons
+
+15th March 2011
+
+Coming into force
+
+6th April 2011
+
+The Treasury make the following Regulations, in exercise of the powers conferred by section 318D(2) of the Income Tax (Earnings and Pensions) Act 2003[^f00001], and having regard to the corresponding provisions of regulations under section 12 of the Tax Credits Act 2002[^f00002] relating to entitlement to the child care element of working tax credit.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Income Tax (Qualifying Child Care) Regulations 2011 and come into force on 6th April 2011.
+
+## 2. Amendment of section 318(5)(a) of the Income Tax (Earnings and Pensions) Act 2003
+
+In section 318(5)(a) of the Income Tax (Earnings and Pensions) Act 2003[^f00003] for “Part 10A of the Children Act 1989” substitute “Part 2 of the Children and Families (Wales) Measure 2010[^f00004]”.
+
+## 3. Amendments of section 318C of the Income Tax (Earnings and Pensions) Act 2003
+
+(1) Section 318C of the Income Tax (Earnings and Pensions) Act 2003[^f00005] (meaning of “qualifying child care”) is amended as follows.
+
+(2) In subsection (3) (Wales)—
+
+- (a) in paragraph (a) for “Part 10A of the Children Act 1989[^f00006]” substitute “Part 2 of the Children and Families (Wales) Measure 2010”,
+- (b) for paragraph (b) substitute—
+
+  > - (b) by a person in circumstances where, but for article 11, 12 or 14 of the Child Minding and Day Care Exceptions (Wales) Order 2010[^f00007], the care would be day care for the purposes of Part 2 of the Children and Families (Wales) Measure 2010,
+
+  , and
+- (c) for paragraph (g) substitute—
+
+  > - (g) by a foster parent in relation to a child (other than one whom the foster parent is fostering) in circumstances where, but for the fact that the child is too old, the care would be—
+  >   - (i) child minding, or day care, for the purposes of Part 2 of the Children and Families (Wales) Measure 2010, or
+  >   - (ii) qualifying child care for the purposes of the Tax Credits (Approval of Child Care Providers) (Wales) Scheme 2007[^f00008].
+
+  .
+
+(3) In subsection (4) (Scotland)—
+
+- (a) at the end of paragraph (a), insert “or”, and
+- (b) omit paragraph (c) (and the “or” at the end of paragraph (b)).
+
+(4) In subsection (5) (Northern Ireland)—
+
+- (a) omit paragraph (d) (and the “or” at the end of it), and
+- (b) at the end of paragraph (e) insert—
+
+  > , or
+  >
+  > - (f) by a foster parent in relation to a child (other than one whom the foster parent is fostering) in circumstances where, but for the fact that the child is too old, the care would be—
+  >   - (i) child minding, or day care, for the purposes of Part XI of the Children (Northern Ireland) Order 1995[^f00009], or
+  >   - (ii) qualifying child care for the purposes of the Tax Credits (Approval of Home Child Care Providers) Scheme (Northern Ireland) 2006[^f00010].
+
+  .
+
+(5) In subsection (7) (exclusions), in paragraph (d), omit “foster carer or kinship carer” and “or is looking after as the child’s kinship carer”.
+
+(6) Omit subsection (11) (definitions)[^f00011].
+
+Angela Watkinson
+
+Michael Fabricant
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+14th March 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, which come into force on 6th April 2011, amend sections 318 and 318C of the Income Tax (Earnings and Pensions) Act 2003 (“ITEPA”) ([2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1)).
+
+Regulation 2 amends subsection (5)(a) of section 318. It substitutes the reference to “Part 10A of the Children Act 1989” (“Part 10A”) with “Part 2 of the Children and Families (Wales) Measure 2010” (“the Measure”) ([2010 nawm 1](https://www.legislation.gov.uk/mwa/2010/1)) to reflect the fact that (a) Part 10A was repealed under the Measure and (b) the regime for the registration of child minding and day care in Wales is now in Part 2 of the Measure.
+
+Regulation 3 amends Section 318C of ITEPA (“section 318C”), which deals with the meaning of “qualifying child care” for the purpose of the exemptions from income tax and national insurance contributions for employer supported childcare.
+
+Regulation 3(2)(a) amends subsection (3)(a) of section 318C, on the same basis as the amendment to section 318(5)(a) of ITEPA under regulation 2.
+
+Regulation 3(2)(b) substitutes paragraph (b) in section 318C(3) so that child care in Wales is qualifying child care if it is provided by a person in circumstances where, but for the provisions of article 11, 12 or 14 of the Child Minding and Day Care (Exceptions) Order 2010 ([S.I. 2010/2839](https://www.legislation.gov.uk/uksi/2010/2839)), the care would be day care for the purposes of Part 2 of the Measure.
+
+Regulation 3(2)(c) substitutes paragraph (g) of section 318C(3) so that care provided in Wales by a foster parent is qualifying child care in the circumstances described. Regulation 3(4) inserts new paragraph (f) into section 318C(5) so that care provided in Northern Ireland by a foster parent is qualifying child care in the circumstances described.
+
+Regulation 3(3) omits paragraph (c) of subsection (4), so that care provided for a child in Scotland by a foster carer will no longer be qualifying child care and consequential amendments are made by way of amendments to paragraph (d) of subsection (7) and the removal of subsection (11) by regulation 3(5) and (6).
+
+A full Impact Assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). Sections 318 to 318D were substituted for section 318 by paragraph 1 of Schedule 13 to the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12).
+
+[^f00002]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21). [S.I. 2011/721](https://www.legislation.gov.uk/uksi/2011/721) contains the corresponding provisions this instrument is seeking to reflect.
+
+[^f00003]: Footnote: Subsection (5)(a) was amended by [S.I. 2008/2170](https://www.legislation.gov.uk/uksi/2008/2170).
+
+[^f00004]: Footnote: [2010 nawm 1](https://www.legislation.gov.uk/mwa/2010/1).
+
+[^f00005]: Footnote: Section 318C was amended by [S.I. 2005/770](https://www.legislation.gov.uk/uksi/2005/770), [2005/3229](https://www.legislation.gov.uk/uksi/2005/3229), [2007/849](https://www.legislation.gov.uk/uksi/2007/849), [2007/2478](https://www.legislation.gov.uk/uksi/2007/2478), [2008/2170](https://www.legislation.gov.uk/uksi/2008/2170), [2009/1544](https://www.legislation.gov.uk/uksi/2009/1544) and [2009/2888](https://www.legislation.gov.uk/uksi/2009/2888).
+
+[^f00006]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Part 10A was inserted by section 79 of the Care Standard Act [2010 (c. 14)](https://www.legislation.gov.uk/ukpga/2010/14).
+
+[^f00007]: Footnote: [S.I. 2010/2839 (W. 233)](https://www.legislation.gov.uk/wsi/2010/2839).
+
+[^f00008]: Footnote: [S.I. 2007/226](https://www.legislation.gov.uk/uksi/2007/226).
+
+[^f00009]: Footnote: [S.I. 1995/755](https://www.legislation.gov.uk/uksi/1995/755).
+
+[^f00010]: Footnote: [S.R. 2006 No.64](https://www.legislation.gov.uk/nisr/2006/64).
+
+[^f00011]: Footnote: Subsection (11) was inserted by [S.I. 2009/2888](https://www.legislation.gov.uk/uksi/2009/2888).

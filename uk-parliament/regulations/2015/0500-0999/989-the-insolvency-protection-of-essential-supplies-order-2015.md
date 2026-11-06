@@ -1,0 +1,369 @@
+---
+title: The Insolvency (Protection of Essential Supplies) Order 2015
+id: uksi/2015/989
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-03-26'
+text_date: '2017-03-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2015/989
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/989/pdfs/uksiem_20150989_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/989/pdfs/uksi_20150989_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/989/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Insolvency (Protection of Essential Supplies) Order 2015
+
+> Text as at 2017-03-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2015 No. 989
+
+Insolvency
+
+The Insolvency (Protection of Essential Supplies) Order 2015
+
+Made
+
+26th March 2015
+
+Coming into force
+
+1st October 2015
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 92, 93, 94 and 95 of the Enterprise and Regulatory Reform Act 2013[^f00001].
+
+In accordance with sections 92(5) and 95(4) of that Act, a draft of this Order has been laid before, and approved by a resolution of, each House of Parliament.
+
+## 1. Citation, commencement and extent[^key-fa42fcdc157c75881a1453b6d32a4f37]
+
+(1) This Order may be cited as the Insolvency (Protection of Essential Supplies) Order 2015 and comes into force on 1st October 2015.
+
+(2) This Order extends to England and Wales and Scotland, subject to paragraphs (3) and (4).
+
+(3) The following provisions of this Order extend to England and Wales only—
+
+- (a) Article 3;
+- (b) Article 5;
+- (c) paragraph 1 of the Schedule.
+
+(4) Paragraph 3 of the Schedule extends to Scotland only.
+
+## 2. Protection of essential supplies[^key-ac8f464e14585cacfc0203e93555a9c3]
+
+(1) Section 233 of the Insolvency Act 1986[^f00002] is amended in accordance with paragraphs (2) and (3).
+
+(2) In subsection (3)—
+
+- (a) after paragraph (a) insert—
+
+  > - (aa) a supply of gas by a person within paragraph 1 of Schedule 2A to the Gas Act 1986[^f00003] (supply by landlords etc.);
+
+  ;
+- (b) after paragraph (b) insert—
+
+  > - (ba) a supply of electricity by a class of person within Class A (small suppliers) or Class B (resale) of Schedule 4 to the Electricity (Class Exemptions from the Requirement for a Licence) Order 2001[^f00004] ([S.I. 2001/3270](https://www.legislation.gov.uk/uksi/2001/3270));
+
+  ;
+- (c) after paragraph (c) insert—
+
+  > - (ca) a supply of water by a water supply licensee within the meaning of the Water Industry Act 1991[^f00005];
+  > - (cb) a supply of water by a water services provider within the meaning of the Water Services etc. (Scotland) Act 2005[^f00006];
+  > - (cc) a supply of water by a person who has an interest in the premises to which the supply is given;
+
+  ;
+- (d) after paragraph (d) insert—
+
+  > - (e) a supply of communications services by a person who carries on a business which includes giving such supplies;
+  > - (f) a supply of goods or services mentioned in subsection (3A) by a person who carries on a business which includes giving such supplies, where the supply is for the purpose of enabling or facilitating anything to be done by electronic means.
+
+  .
+
+(3) After subsection (3) insert—
+
+> (3A) The goods and services referred to in subsection (3)(f) are—
+>
+> - (a) point of sale terminals;
+> - (b) computer hardware and software;
+> - (c) information, advice and technical assistance in connection with the use of information technology;
+> - (d) data storage and processing;
+> - (e) website hosting.
+
+.
+
+(4)[^key-feb04296a9a6c44803995a9175c951f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-2aa9e207f43f61122cb65436d2def645] (1) Section 372 of the Insolvency Act 1986[^f00008] is amended in accordance with paragraphs (2) and (3).
+
+(2) In subsection (4)—
+
+- (a) after paragraph (a) insert—
+
+  > - (aa) a supply of gas by a person within paragraph 1 of Schedule 2A to the Gas Act 1986 (supply by landlords etc.);
+
+  ;
+- (b) after paragraph (b) insert—
+
+  > - (ba) a supply of electricity by a class of person within Class A (small suppliers) or Class B (resale) of Schedule 4 to the Electricity (Class Exemptions from the Requirement for a Licence) Order 2001 ([S.I. 2001/3270](https://www.legislation.gov.uk/uksi/2001/3270));
+
+  ;
+- (c) after paragraph (c) insert—
+
+  > - (ca) a supply of water by a water supply licensee within the meaning of the Water Industry Act 1991;
+  > - (cb) a supply of water by a person who has an interest in the premises to which the supply is given;
+
+  ;
+- (d) after paragraph (d) insert—
+
+  > - (e) a supply of communications services by a person who carries on a business which includes giving such supplies;
+  > - (f) a supply of goods or services mentioned in subsection (4A) by a person who carries on a business which includes giving such supplies, where the supply is for the purpose of enabling or facilitating anything to be done by electronic means.
+
+  .
+
+(3) After subsection (4) insert—
+
+> (4A) The goods and services referred to in subsection (4)(f) are—
+>
+> - (a) point of sale terminals;
+> - (b) computer hardware and software;
+> - (c) information, advice and technical assistance in connection with the use of information technology;
+> - (d) data storage and processing;
+> - (e) website hosting.
+
+.
+
+(4) Until the commencement of section 1 of the Water Act 2014, paragraph (ca) of section 372(4) of the Insolvency Act 1986 (as inserted by paragraph (2)(c)) is to be read as if for the words “water supply licensee” there were substituted the words “licensed water supplier”.
+
+## 4. Corporate Insolvency: Insolvency-related terms of a contract[^key-4387343e5b05aaf15477f9dddadfd7a8]
+
+After section 233 of the Insolvency Act 1986 insert—
+
+> **233A. Further protection of essential supplies**
+>
+> (1) An insolvency-related term of a contract for the supply of essential goods or services to a company ceases to have effect if—
+>
+> - (a) the company enters administration, or
+> - (b) a voluntary arrangement approved under Part 1 takes effect in relation to the company.
+>
+> (2) An insolvency-related term of a contract does not cease to have effect by virtue of subsection (1) to the extent that—
+>
+> - (a) it provides for the contract or the supply to terminate, or any other thing to take place, because the company becomes subject to an insolvency procedure other than administration or a voluntary arrangement;
+> - (b) it entitles a supplier to terminate the contract or the supply, or do any other thing, because the company becomes subject to an insolvency procedure other than administration or a voluntary arrangement; or
+> - (c) it entitles a supplier to terminate the contract or the supply because of an event that occurs, or may occur, after the company enters administration or the voluntary arrangement takes effect.
+>
+> (3) Where an insolvency-related term of a contract ceases to have effect under this section the supplier may—
+>
+> - (a) terminate the contract, if the condition in subsection (4) is met;
+> - (b) terminate the supply, if the condition in subsection (5) is met.
+>
+> (4) The condition in this subsection is that—
+>
+> - (a) the insolvency office-holder consents to the termination of the contract,
+> - (b) the court grants permission for the termination of the contract, or
+> - (c) any charges in respect of the supply that are incurred after the company entered administration or the voluntary arrangement took effect are not paid within the period of 28 days beginning with the day on which payment is due.
+>
+> The court may grant permission under paragraph (b) only if satisfied that the continuation of the contract would cause the supplier hardship.
+>
+> (5) The condition in this subsection is that—
+>
+> - (a) the supplier gives written notice to the insolvency office-holder that the supply will be terminated unless the office-holder personally guarantees the payment of any charges in respect of the continuation of the supply after the company entered administration or the voluntary arrangement took effect, and
+> - (b) the insolvency office-holder does not give that guarantee within the period of 14 days beginning with the day the notice is received.
+>
+> (6) For the purposes of securing that the interests of suppliers are protected, where—
+>
+> - (a) an insolvency-related term of a contract (the “original term”) ceases to have effect by virtue of subsection (1), and
+> - (b) the company subsequently enters administration, or a voluntary arrangement subsequently has effect in relation to it,
+>
+> the contract is treated for the purposes of subsections (1) to (5) as if, immediately before the subsequent administration is entered into or the subsequent voluntary arrangement takes effect, it included an insolvency-related term identical to the original term.
+>
+> (7) A contract for the supply of essential goods or services is a contract for a supply mentioned in section 233(3).
+>
+> (8) An insolvency-related term of a contract for the supply of essential goods or services to a company is a provision of the contract under which—
+>
+> - (a) the contract or the supply would terminate, or any other thing would take place, because the company enters administration or the voluntary arrangement takes effect,
+> - (b) the supplier would be entitled to terminate the contract or the supply, or to do any other thing, because the company enters administration or the voluntary arrangement takes effect, or
+> - (c) the supplier would be entitled to terminate the contract or the supply because of an event that occurred before the company enters administration or the voluntary arrangement takes effect.
+>
+> (9) In this section “insolvency office-holder” means—
+>
+> - (a) in a case where a company enters administration, the administrator;
+> - (b) in a case where a voluntary arrangement under Part 1 takes effect in relation to a company, the supervisor of the voluntary arrangement.
+>
+> (10) Subsection (1) does not have effect in relation to a contract entered into before 1st October 2015.
+
+## 5. Individual Insolvency: Insolvency-related terms of a contract[^key-46c282426eb9a520512f498058dec076]
+
+*Extent: E+W*
+
+After section 372 of the Insolvency Act 1986 insert—
+
+> **372A. Further protection of essential supplies**
+>
+> (1) An insolvency-related term of a contract for the supply of essential goods or services to an individual ceases to have effect if—
+>
+> - (a) a voluntary arrangement proposed by the individual is approved under Part 8, and
+> - (b) the supply is for the purpose of a business which is or has been carried on by the individual, by a firm or partnership of which the individual is or was a member, or by an agent or manager for the individual or for such a firm or partnership.
+>
+> (2) An insolvency-related term of a contract does not cease to have effect by virtue of subsection (1) to the extent that—
+>
+> - (a) it provides for the contract or the supply to terminate, or any other thing to take place, because the individual becomes subject to an insolvency procedure other than a voluntary arrangement;
+> - (b) it entitles a supplier to terminate the contract or the supply, or do any other thing, because the individual becomes subject to an insolvency procedure other than a voluntary arrangement; or
+> - (c) it entitles a supplier to terminate the contract or the supply because of an event that occurs, or may occur, after the voluntary arrangement proposed by the individual is approved.
+>
+> (3) Where an insolvency-related term of a contract ceases to have effect under this section the supplier may—
+>
+> - (a) terminate the contract, if the condition in subsection (4) is met;
+> - (b) terminate the supply, if the condition in subsection (5) is met.
+>
+> (4) The condition in this subsection is that—
+>
+> - (a) the supervisor of the voluntary arrangement consents to the termination of the contract,
+> - (b) the court grants permission for the termination of the contract, or
+> - (c) any charges in respect of the supply that are incurred after the voluntary arrangement is approved are not paid within the period of 28 days beginning with the day on which payment is due.
+>
+> The court may grant permission under paragraph (b) only if satisfied that the continuation of the contract would cause the supplier hardship.
+>
+> (5) The condition in this subsection is that—
+>
+> - (a) the supplier gives written notice to the supervisor of the voluntary arrangement that the supply will be terminated unless the supervisor personally guarantees the payment of any charges in respect of the continuation of the supply after the arrangement was approved, and
+> - (b) the supervisor does not give that guarantee within the period of 14 days beginning with the day the notice is received.
+>
+> (6) For the purposes of securing that the interests of suppliers are protected, where—
+>
+> - (a) an insolvency-related term of a contract (the “original term”) ceases to have effect by virtue of subsection (1), and
+> - (b) a subsequent voluntary arrangement proposed by the individual is approved,
+>
+> the contract is treated for the purposes of subsections (1) to (5) as if, immediately before the subsequent voluntary arrangement proposed by the individual is approved, it included an insolvency-related term identical to the original term.
+>
+> (7) A contract for the supply of essential goods or services is a contract for a supply mentioned in section 372(4).
+>
+> (8) An insolvency-related term of a contract for the supply of essential goods or services to an individual is a provision of the contract under which—
+>
+> - (a) the contract or the supply would terminate, or any other thing would take place, because the voluntary arrangement proposed by the individual is approved,
+> - (b) the supplier would be entitled to terminate the contract or the supply, or to do any other thing, because the voluntary arrangement proposed by the individual is approved, or
+> - (c) the supplier would be entitled to terminate the contract or the supply because of an event that occurred before the voluntary arrangement proposed by the individual is approved.
+>
+> (9) Subsection (1) does not have effect in relation to a contract entered into before 1st October 2015.
+
+## 6. Consequential amendments[^key-127f24f6cdea8ddf0c991466143ce86f]
+
+The Schedule to this Order (which contains consequential amendments) shall have effect.
+
+Jo Swinson
+
+Parliamentary Under Secretary of State for Employment Relations and Consumer Affairs
+
+Department for Business, Innovation and Skills
+
+26th March 2015
+
+## SCHEDULE — CONSEQUENTIAL AMENDMENTS
+
+Article 6
+
+*Extent: E+W*
+
+**1.**[^key-fe51ae3e6b101b19793934a94cd2a0b3] In Article 4(3)(a) of the Insolvent Partnerships Order 1994[^f00009] after the words “section 233” insert “and section 233A”.
+
+**2.**[^key-ebb414402e59ada3755ea1c68b4d3f12] In Schedule 4 to the Limited Liability Partnerships Regulations 2001[^f00010] after the entry relating to section 233 insert—
+
+> Section 233A to the extent that that section applies in the case of a voluntary arrangement taking effect
+
+.
+
+*Extent: S*
+
+**3.**[^key-e52deb347704486e3b9b524ab932d687] In Schedule 2 to the Limited Liability Partnerships (Scotland) Regulations 2001[^f00011] after the entry relating to section 233 insert—
+
+> Section 233A to the extent that that section applies in the case of a voluntary arrangement taking effect
+
+.
+
+**4.**[^key-d215a831cacbe7118dff0e74457d9426] In section 145 of the Banking Act 2009[^f00012], in Table 2 after the entry for section 233 insert—
+
+> |  |  |
+> | --- | --- |
+> | Section 233A | Further protection of utilities |
+
+**5.**[^key-dd3bb8947117ee32f662335b484441a0] In regulation 15 of the Investment Bank Special Administration Regulations 2011[^f00013], in Table 2 after the entry for section 233 insert—
+
+> |  |  |
+> | --- | --- |
+> | Section 233A | Further protection of utilities |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Insolvency Act [1986 (c.45)](https://www.legislation.gov.uk/ukpga/1986/45) (the “1986 Act”) to give further protection to the essential supplies of insolvent businesses. The Order comes into force on 1st October 2015 and extends to the whole of Great Britain, subject to certain exceptions including Articles 3 and 5 which extend to England and Wales only, reflecting the extent of the 1986 Act.
+
+Articles 2 and 3 amend sections 233 and 372 of the 1986 Act. Sections 233 and 372 prohibit a supplier of utilities (such as gas, electricity, water and communication services) from compelling the payment of charges incurred before the commencement of an insolvency event by threatening to terminate the supply of the utilities on the grounds of non-payment. Section 233 provides this protection to insolvent companies, whilst section 372 provides similar protection to businesses carried on by insolvent individuals. Sections 233 and 372 require suppliers to continue to provide the utilities if a request is made by the office-holder of the insolvent company or individual for the continued supply. The supplier is, however, entitled to make it a condition of the supply that the office-holder provides a personal guarantee for the payment in respect of any supply made during the insolvency. The supplier is not entitled to make it a condition of the continued supply that any outstanding charges incurred before the insolvency are paid.
+
+The scope of section 233 and 372 is confined to a limited list of suppliers including statutory undertakers and similar bodies. The amendments made by Articles 2 and 3 extend the scope of sections 233 and 372 to include a wider list of private suppliers of gas, electricity, water or communication services including the supply of utilities from a landlord to tenant.
+
+Articles 2 and 3 also add to the present list of utility supplies to which sections 233 and 372 apply to include the supply of goods or services that are for the purpose of enabling or facilitating anything done by electronic means (“IT supplies”). Primarily these include goods or services relating to information technology, other than those to which sections 233 and 372 already apply by virtue of being a communication service, including the supply of point of sale terminals, computer hardware and software and other items identified under new subsections (3A) or (4A) of sections 233 and 372 respectively.
+
+Articles 4 and 5 insert new sections 233A and 372A into the 1986 Act. Section 233A applies to companies, whilst section 372A applies to businesses carried on by individuals. These new sections cause certain “insolvency-related terms” in contracts to cease to have effect, thereby preventing a supplier from terminating a supply or contract, altering the terms of the contract or compelling higher payments for the supply, when a company enters administration or when a voluntary arrangement is approved in respect of a company or individual respectively. The insolvency-related terms cease to have effect only in a contract for the supply of those utility and IT supplies listed under section 233 and 372. Furthermore, the insolvency-related terms may continue to be relied upon in respect of other insolvency procedures, thereby enabling a supplier to terminate a contract when a company goes into liquidation or a bankruptcy order is made against an individual. Sections 233A and 372A only apply to contracts entered into after this Order comes into force.
+
+A supplier may, however, terminate the contract or the supply if a condition outlined in subsections (4) or (5) of sections 233A and 372A is met.
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Insolvency Service, 4 Abbey Orchard Street, London SW1P 2HT and is published on the Insolvency Service website https://www.gov.uk/government/organisations/insolvency-serviceid. It is also published with the Explanatory Memorandum alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2013 c.24](https://www.legislation.gov.uk/ukpga/2013/24).
+
+[^key-fa42fcdc157c75881a1453b6d32a4f37]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/989/article/1) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+
+[^key-ac8f464e14585cacfc0203e93555a9c3]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/989/article/2) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+
+[^f00002]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45); section 233(3) was amended by paragraph 78 of Schedule 25 to the Water Act [1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15), paragraph 14 of Schedule 4 to the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45), paragraph 47 of Schedule 6 to the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), paragraph 82 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), and paragraph 14 of the Schedule to [S.I. 2004/1822](https://www.legislation.gov.uk/uksi/2004/1822).
+
+[^f00003]: Footnote: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44); paragraph 1 of Schedule 2A was inserted by Schedule 1 to the Gas Act [1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45).
+
+[^f00004]: Footnote: [S.I. 2001/3270](https://www.legislation.gov.uk/uksi/2001/3270).
+
+[^f00005]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56); the meaning of water supply licensee is given by section 17A of the Water Industry Act 1991, which is to be inserted by section 1 of the Water Act [2014 (c.21)](https://www.legislation.gov.uk/ukpga/2014/21) on a day yet to be appointed.
+
+[^f00006]: Footnote: [2005 asp 3](https://www.legislation.gov.uk/asp/2005/3).
+
+[^key-feb04296a9a6c44803995a9175c951f0]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/uksi/2015/989/article/2/4) omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [31](https://www.legislation.gov.uk/uksi/2017/506/article/31)
+
+[^key-2aa9e207f43f61122cb65436d2def645]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/989/article/3) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+
+[^f00008]: Footnote: Section 372(4) was amended by paragraph 78 of Schedule 25 to the Water Act [1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15), paragraph 14 of Schedule 4 to the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45), paragraph 47 of Schedule 6 to the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), paragraph 82 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^key-4387343e5b05aaf15477f9dddadfd7a8]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/989/article/4) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+
+[^key-46c282426eb9a520512f498058dec076]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/989/article/5) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+
+[^key-127f24f6cdea8ddf0c991466143ce86f]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/989/article/6) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+
+[^key-fe51ae3e6b101b19793934a94cd2a0b3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/989/schedule/paragraph/1) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+
+[^f00009]: Footnote: [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), to which there are amendments not relevant to this Order.
+
+[^key-ebb414402e59ada3755ea1c68b4d3f12]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/989/schedule/paragraph/2) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+
+[^f00010]: Footnote: [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090), to which there are amendments not relevant to this Order.
+
+[^key-e52deb347704486e3b9b524ab932d687]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/989/schedule/paragraph/3) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+
+[^f00011]: Footnote: [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), to which there are amendments not relevant to this Order.
+
+[^key-d215a831cacbe7118dff0e74457d9426]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/989/schedule/paragraph/4) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+
+[^f00012]: Footnote: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1).
+
+[^key-dd3bb8947117ee32f662335b484441a0]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/989/schedule/paragraph/5) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+
+[^f00013]: Footnote: [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245), to which there are amendments not relevant to this Order.

@@ -1,0 +1,54 @@
+---
+title: Proceeds of Crime Act 2002, section 67G
+act: Proceeds of Crime Act 2002
+section: 67G
+status: revised-with-pending-changes
+text_date: '2026-06-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2002/29/section/67G
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Proceeds of Crime Act 2002, section 67G
+
+> **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 67G. Appeals in relation to section 10A determinations[^key-cbaeedb61159e4a68f7c0c03ce4d0c55]
+
+*Extent: E+W*
+
+(1) If a court makes a determination under section 10A of the extent of the defendant’s interest in property, the following may appeal to the Court of Appeal in respect of the determination—
+
+- (a) the prosecutor;
+- (b) the defendant, if subsection (2) applies;
+- (c) a person who the Court of Appeal believes is or may be a person holding an interest in the property, if subsection (2) applies.
+
+(2) This subsection applies if—
+
+- (a) the defendant or (as the case may be) the person within subsection (1)(c) was not given a reasonable opportunity to make representations when the determination was made, or
+- (b) it appears to the Court of Appeal to be arguable that giving effect to the determination would result in a serious risk of injustice to the defendant or that other person.
+
+(3) But there is no right of appeal for the defendant or a person within subsection (1)(c) if—
+
+- (a) the Court of Appeal believes that an application under section 50 is to be made by the prosecutor for the appointment of a receiver,
+- (b) such an application has been made but not yet determined, or
+- (c) a receiver has been appointed under section 50.
+
+(4) On an appeal under this section the Court of Appeal may—
+
+- (a) confirm the determination, or
+- (b) make such order as it believes is appropriate.
+
+(5) An appeal lies to the Supreme Court from a decision of the Court of Appeal on an appeal under this section, at the instance of any person who was a party to the proceedings on the appeal.
+
+(6) On an appeal under subsection (5) the Supreme Court may—
+
+- (a) confirm the decision of the Court of Appeal, or
+- (b) make such order as it believes is appropriate.
+
+## Annotations
+
+[^key-cbaeedb61159e4a68f7c0c03ce4d0c55]: Textual amendment: Ss. 67E-67L and cross-heading inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 31(2)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/31/2); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)

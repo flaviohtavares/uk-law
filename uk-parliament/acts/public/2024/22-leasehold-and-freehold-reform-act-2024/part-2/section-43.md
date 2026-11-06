@@ -1,0 +1,93 @@
+---
+title: Leasehold and Freehold Reform Act 2024, section 43
+act: Leasehold and Freehold Reform Act 2024
+section: '43'
+status: not-yet-in-force
+text_date: '2025-03-03'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2024/22/section/43
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Leasehold and Freehold Reform Act 2024, section 43
+
+> This provision is not yet in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 43. References to “the court” in Part 1 of the LRHUDA 1993[^key-c185370686fdc5fe42d0348b51ef4ba0]
+
+*Extent: E+W*
+
+**Not yet in force.**
+
+(1) The LRHUDA 1993 is amended as follows.
+
+(2) In the following provisions, for “the court” substitute “the appropriate tribunal” in each place it occurs—
+
+- (a) sections 22 to 27;
+- (b) sections 46 to 51;
+- (c) section 74(3)(c);
+- (d) in Schedule 1—
+  - (i) paragraphs 2 to 5;
+  - (ii) paragraphs 5B to 5E;
+  - (iii) paragraph 6(3);
+- (e) in Schedule 3, paragraph 15(2);
+- (f) in Schedule 5—
+  - (i) paragraph 1(1);
+  - (ii) paragraph 2(1);
+- (g) in Schedule 11, paragraph 6(3);
+- (h) in Schedule 12, paragraph 9(2).
+
+(3) In the following provisions, for “into court” substitute “into the tribunal” in each place it occurs—
+
+- (a) section 27;
+- (b) section 51;
+- (c) in Schedule 1, paragraph 6(3)(c);
+- (d) in Schedule 5, paragraphs 2 to 4, including the heading of paragraph 4;
+- (e) in Schedule 8, paragraphs 2 and 4, including the heading of paragraph 4.
+
+(4) In section 19(6), after “any court” insert “or tribunal”.
+
+(5) In section 26(9), for “Rules of court” substitute “Tribunal Procedure Rules, and regulations under Schedule 12 to the Commonhold and Leasehold Reform Act 2002 (leasehold valuation tribunals: procedure),”.
+
+(6) In section 37A(8)(b)—
+
+- (a) after “the court” insert “or the appropriate tribunal”;
+- (b) after “court order” insert “or order of a tribunal”.
+
+(7) In section 61A(7)(b)—
+
+- (a) after “the court” insert “or the appropriate tribunal”;
+- (b) after “court order” insert “or order of a tribunal”.
+
+(8) In section 101(9), in the words before paragraph (a), after “a decision” insert “or order”.
+
+(9) In Schedule 1, in paragraph 6(2), in the words after paragraph (b), for “the court” substitute “the appropriate tribunal”.
+
+(10) In Schedule 3—
+
+- (a) in paragraph 10(1)(d)(ii), after “the court” insert “or the appropriate tribunal”;
+- (b) in paragraph 10(2), after “a court” insert “or tribunal”.
+
+(11) In Schedule 8, in paragraph 4(3)—
+
+- (a) in paragraph (b), after “any court” insert “or tribunal”;
+- (b) in the words after paragraph (b)—
+  - (i) after “a court” insert “or tribunal”;
+  - (ii) omit “other than the county court”;
+  - (iii) after “the court” insert “or tribunal”.
+
+(12) In Schedule 11, in paragraph 6(1), in the words after paragraph (c), for “the court” substitute “the appropriate tribunal”.
+
+(13) In Schedule 12—
+
+- (a) in paragraph 8(1)(c)(ii), after “the court” insert “or the appropriate tribunal”;
+- (b) in paragraph 8(2), after “a court” insert “or tribunal”.
+
+(14) In the headings before sections 22 and 46, omit “court or”.
+
+## Annotations
+
+[^key-c185370686fdc5fe42d0348b51ef4ba0]: Commencement: S. 43 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

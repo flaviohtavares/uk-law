@@ -1,0 +1,68 @@
+---
+title: Regulation of Investigatory Powers Act 2000, section 29B
+act: Regulation of Investigatory Powers Act 2000
+section: 29B
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2000/23/section/29B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Regulation of Investigatory Powers Act 2000, section 29B
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/23
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 29B. Covert human intelligence sources: criminal conduct authorisations[^key-f35fc2d86bbcd953c107f016b7f522de][^key-a20ee7bc671416d58eec43bd78e1e9cf][^key-4ee74621c8cfebe3d9d5b01fcf7aedca]
+
+*Extent: E+W+S+N.I.*
+
+(1) Subject to the following provisions of this Part, the persons designated for the purposes of this section each have power to grant criminal conduct authorisations.
+
+(2) A “criminal conduct authorisation” is an authorisation for criminal conduct in the course of, or otherwise in connection with, the conduct of a covert human intelligence source.
+
+(3) A criminal conduct authorisation may only be granted in relation to a covert human intelligence source after, or at the same time as, an authorisation under section 29 which authorises the conduct or the use of the covert human intelligence source concerned.
+
+(4) A person may not grant a criminal conduct authorisation unless the person believes—
+
+- (a) that the authorisation is necessary on grounds falling within subsection (5);
+- (b) that the authorised conduct is proportionate to what is sought to be achieved by that conduct; and
+- (c)[^key-a692464ba8f2f0eca2c7dbe713697165] that arrangements exist that satisfy such requirements as may be imposed by order made by the Secretary of State.
+
+(5) A criminal conduct authorisation is necessary on grounds falling within this subsection if it is necessary—
+
+- (a) in the interests of national security;
+- (b) for the purpose of preventing or detecting crime or of preventing disorder; or
+- (c) in the interests of the economic well-being of the United Kingdom.
+
+(6) In considering whether the requirements in subsection (4)(a) and (b) are satisfied, the person must take into account whether what is sought to be achieved by the authorised conduct could reasonably be achieved by other conduct which would not constitute crime.
+
+(7) Subsection (6) is without prejudice to the need to take into account other matters so far as they are relevant (for example, the requirements of the Human Rights Act 1998).
+
+(8) The conduct that is authorised by a criminal conduct authorisation is any conduct that—
+
+- (a) is comprised in any activities—
+  - (i) which involve criminal conduct in the course of, or otherwise in connection with, the conduct of a covert human intelligence source, and
+  - (ii) are specified or described in the authorisation;
+- (b) consists in conduct by or in relation to the person who is so specified or described as the covert human intelligence source to whom the authorisation relates; and
+- (c) is carried out for the purposes of, or in connection with, the investigation or operation so specified or described.
+
+(9) If an authorisation under section 29, which authorises the conduct or the use of a covert human intelligence source to whom a criminal conduct authorisation relates, ceases to have effect, the criminal conduct authorisation also ceases to have effect so far as it relates to that covert human intelligence source (but this is without prejudice to whether the criminal conduct authorisation continues to have effect so far as it relates to any other covert human intelligence source).
+
+(10) The Secretary of State may by order—
+
+- (a) prohibit the authorisation under this section of any such conduct as may be described in the order; and
+- (b) impose requirements, in addition to those provided for by subsections (3) and (4) and sections 29C and 29D, that must be satisfied before an authorisation is granted under this section for any such conduct as may be so described.
+
+## Annotations
+
+[^key-f35fc2d86bbcd953c107f016b7f522de]: Modification: S. 29B excluded (10.8.2021 for specified purposes, 15.9.2021 for specified purposes, 30.9.2021 in so far as not already in force) by [S.I. 2000/2793](https://www.legislation.gov.uk/uksi/2000/2793), [art. 7(1)](https://www.legislation.gov.uk/uksi/2000/2793/article/7/1) (as inserted by [Covert Human Intelligence Sources (Criminal Conduct) Act 2021 (c. 4)](https://www.legislation.gov.uk/ukpga/2021/4), [ss. 2(8)](https://www.legislation.gov.uk/ukpga/2021/4/section/2/8), [9(2)](https://www.legislation.gov.uk/ukpga/2021/4/section/9/2) (with [s. 2(9)](https://www.legislation.gov.uk/ukpga/2021/4/section/2/9)); [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)(b)(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a/b/c))
+
+[^key-a20ee7bc671416d58eec43bd78e1e9cf]: Modification: S. 29B excluded (10.8.2021 for specified purposes, 15.9.2021 for specified purposes, 30.9.2021 in so far as not already in force) by [S.I. 2000/2793](https://www.legislation.gov.uk/uksi/2000/2793), [art. 8(1)](https://www.legislation.gov.uk/uksi/2000/2793/article/8/1) (as inserted by [Covert Human Intelligence Sources (Criminal Conduct) Act 2021 (c. 4)](https://www.legislation.gov.uk/ukpga/2021/4), [ss. 2(8)](https://www.legislation.gov.uk/ukpga/2021/4/section/2/8), [9(2)](https://www.legislation.gov.uk/ukpga/2021/4/section/9/2) (with [s. 2(9)](https://www.legislation.gov.uk/ukpga/2021/4/section/2/9)); [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)(b)(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a/b/c))
+
+[^key-4ee74621c8cfebe3d9d5b01fcf7aedca]: Textual amendment: S. 29B inserted (10.8.2021 for specified purposes, 15.9.2021 for specified purposes, 30.9.2021 in so far as not already in force) by [Covert Human Intelligence Sources (Criminal Conduct) Act 2021 (c. 4)](https://www.legislation.gov.uk/ukpga/2021/4), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2021/4/section/1/5), [9(2)](https://www.legislation.gov.uk/ukpga/2021/4/section/9/2); [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)[(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)[(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c) (with [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/3/a)[(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/3/b)[(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/3/c))
+
+[^key-a692464ba8f2f0eca2c7dbe713697165]: Modification: S. 29B(4)(c) modified (10.8.2021 for specified purposes, 15.9.2021 for specified purposes, 30.9.2021 in so far as not already in force) by [S.I. 2000/2793](https://www.legislation.gov.uk/uksi/2000/2793), [art. 9](https://www.legislation.gov.uk/uksi/2000/2793/article/9) (as inserted by [Covert Human Intelligence Sources (Criminal Conduct) Act 2021 (c. 4)](https://www.legislation.gov.uk/ukpga/2021/4), [ss. 2(8)](https://www.legislation.gov.uk/ukpga/2021/4/section/2/8), [9(2)](https://www.legislation.gov.uk/ukpga/2021/4/section/9/2) (with [s. 2(9)](https://www.legislation.gov.uk/ukpga/2021/4/section/2/9)); [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)(b)(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a/b/c))

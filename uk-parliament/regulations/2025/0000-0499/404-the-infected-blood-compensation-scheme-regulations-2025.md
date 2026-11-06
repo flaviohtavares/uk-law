@@ -1,0 +1,4444 @@
+---
+title: The Infected Blood Compensation Scheme Regulations 2025
+id: uksi/2025/404
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-03-27'
+text_date: '2026-07-24'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2025/404
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/404/pdfs/uksiem_20250404_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2025/404/pdfs/uksi_20250404_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/404/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Infected Blood Compensation Scheme Regulations 2025
+
+> Text as at 2026-07-24.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2025 No. 404
+
+Payment Scheme
+
+The Infected Blood Compensation Scheme Regulations 2025
+
+Made
+
+27th March 2025
+
+Coming into force
+
+31st March 2025
+
+The Minister for the Cabinet Office makes these Regulations in exercise of the powers conferred by sections 49(1), (2), (4) and (5), 50, 51, 52 and 79(1) of, and paragraphs 4(1) and (2) and 12(3) of Schedule 1 to, the Victims and Prisoners Act 2024[^f00001].
+
+In accordance with section 79(10) of the Victims and Prisoners Act 2024, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+## PART 1 — General
+
+### 1. Citation, commencement and extent[^key-6ea7f8fb605ab6291e9c0922d62d9f14]
+
+(1) These Regulations may be cited as the Infected Blood Compensation Scheme Regulations 2025.
+
+(2) These Regulations come into force on 31st March 2025.
+
+(3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+### 2. Interpretation[^key-831cbcf1ac4c8516958abb5d23ab23a0]
+
+(1) In these Regulations—
+
+- “**the Act**” means the Victims and Prisoners Act 2024;
+- “**acceptance**” means an acceptance of an offer in accordance with regulation 75, and “accepting” and “accepted” are to be construed accordingly;
+- “**affected core application**” means an application for an affected core payment;
+- “**affected core payment**” has the meaning given in regulation 47(1);
+- “**affected supplemental payment**” has the meaning given in regulation 56(1);
+- “**affected SSP recipient**” means a person in respect of whom support scheme payments are being made because they are a bereaved partner of a person who was infected with HIV or Hepatitis C (or both);
+- “**application**” means an application for an IBCS payment;
+- “**assignable care award**” has the meaning given in regulation 14(5);
+- “**assigned care award payment**” means the amount of any assignable care award that is assigned to a notified care award assignee pursuant to an election in accordance with regulation 75(9);
+- “**average**” means the arithmetic mean;
+- “care”, except in regulation 34, includes—
+  - (a) domestic support or household maintenance;
+  - (b) personal care;
+  - (c) nursing care;
+  - (d) end of life care;
+- “**care award assignment notice**” has the meaning given in regulation 14(4)(a);
+- “**co-infection**” means infection with two or more of Hepatitis B, Hepatitis C and HIV;
+- “**consumer price index**” means the general index of consumer prices (for all items) published by the Statistics Board, a body corporate established by section 1 of the Statistics and Registration Service Act 2007[^f00002];
+- “**Crown Dependency**” means—
+  - (a) the Bailiwick of Guernsey;
+  - (b) the Bailiwick of Jersey;
+  - (c) the Isle of Man;
+- “**deductible payment**” has the meaning given in regulation 6;
+- “**diagnosed**” means—
+  - (a) diagnosed by a registered medical practitioner, or
+  - (b) diagnosed by a medical practitioner outside the United Kingdom, but only where that diagnosis is subsequently confirmed by a registered medical practitioner;
+- “**eligible affected person**” has the meaning given in regulation 4;
+- “**eligible IBSS recipient**” means—
+  - (a) an IBSS-registered infected person, or
+  - (b) an IBSS-registered affected person;
+- “**eligible infected person**” has the meaning given in regulation 3;
+- “**eligible person**” means an eligible affected person or an eligible infected person;
+- “**first year of infection**”, in relation to an eligible infected person (“**P**”), means—
+  - (a) where P has a single infection—
+    - (i) the year in which P contracted the infection, or
+    - (ii) if it is not possible to establish the year in which the infection was contracted, the earliest year in which P could have contracted the infection;
+  - (b) where P has a co-infection—
+    - (i) the earliest year in which P contracted one or more infections, or
+    - (ii) if it is not possible to establish the year in which the first infection was contracted, the earliest year in which P could have contracted one or more infections;
+- “[^key-35691f421901ef752ca0d6e44526aee2]**first year of P’s compensation period**”, in relation to an eligible infected person (“**P**”), means the later of—
+  - (a) 1952,
+  - (b) P’s first year of infection, or
+  - (c) where P is an eligible infected person by virtue of regulation 3(7)(a), the year in which P began living with the person to whom regulation 3(2) or (6) applies;
+- “**first year of Q’s compensation period**”, in relation to an eligible affected person (“**Q**”), means the later of—
+  - (a) 1952, or
+  - (b) the year immediately following—
+    - (i) where regulation 53(4) or 57(3) applies to Q, the year in which P2 died (for the meaning of “P2”, see regulation 53(11) or, as the case may be, 57(5));
+    - (ii) in any other case, the year in which P died (for the meaning of “P”, see regulation 53(1) or as the case may be, 57(1));
+- “**further infected core payment**” has the meaning given in regulation 41(1);
+- “**further infected payment**” means a further infected core payment or a further infected supplemental payment;
+- “**further infected supplemental payment**” has the meaning given in regulation 44(1);
+- “**healthy life expectancy**”, in relation to an eligible infected person, means the number of years that person could expect to live if they had no serious health conditions, calculated—
+  - (a) for the purposes of the calculation of an affected financial loss award in accordance with regulation 53, as at 1st January immediately following the date of death of the eligible infected person in relation to whom a person is an eligible affected person
+  - (b) in all other cases, as at the date of the infected core application, and the person’s healthy life expectancy is always that number of years irrespective of any provision of these Regulations which deems the date of the infected core application to be a date later than the date it was actually made;
+
+  and by reference to the typical life expectancies in the actuarial tables for use in personal injury and fatal accident cases published by the Government Actuary’s Department in 2020 and updated in 2022[^f00003];
+- “**HIV**” means human immunodeficiency virus;
+- “**IBCA support scheme payment**” has the meaning given in regulation 59(1);
+- “**the IBCS**” means the infected blood compensation scheme described in regulation 9(1);
+- an “**IBCS payment**” means—
+  - (a) an infected core payment;
+  - (b) an infected supplemental payment;
+  - (c) a further infected core payment;
+  - (d) a further infected supplemental payment;
+  - (e) an affected core payment;
+  - (f) an affected supplemental payment;
+- “**IBSS payment category**” means a payment category of a description specified in column 1 of the table in regulation 62 in relation to an infected blood support scheme;
+- “**IBSS-registered affected person**” means a person who is registered under an infected blood support scheme as the bereaved partner of a person infected with HIV or Hepatitis C (or both);
+- “**IBSS-registered infected person**” means a person who is registered under an infected blood support scheme by virtue of being infected with HIV or Hepatitis C (or both);
+- “**infected blood support scheme**” has the meaning given in section 56(3) of the Act;
+- “**infected core application**” means an application for an infected core payment;
+- “**infected core payment**” has the meaning given in regulation 13(1);
+- “**infected SSP recipient**” means a person in respect of whom support scheme payments are being made because they have an infection of HIV or Hepatitis C (or both);
+- “**infected supplemental award**” means—
+  - (a) an unethical research practices award,
+  - (b) a severe health condition award, or
+  - (c) an exceptional loss award;
+- “**infected supplemental payment**” has the meaning given in regulation 23(1);
+- “**infection**”, in relation to an eligible infected person, means an infection of the person of such description and which was contracted in such a manner as to cause them to be an eligible infected person, and “**infected**” is to be construed accordingly;
+- “**loss of services**” includes costs incurred in the provision of—
+  - (a) childcare or other care, and
+  - (b) domestic support;
+- “**notified care award assignee**” has the meaning given in regulation 14(4)(b);
+- an “**offer**” means an offer to make an IBCS payment in accordance with regulation 74;
+- “**parental responsibility**”, in relation to a person in—
+  - (a) England and Wales, has the same meaning as in section 3 of the Children Act 1989[^f00004];
+  - (b) Scotland, is to be construed as a reference to “parental responsibilities” within the meaning of section 1(3) of the Children (Scotland) Act 1995[^f00005];
+  - (c) Northern Ireland, has the same meaning as in Article 6 of the Children (Northern Ireland) Order 1995[^f00006];
+  - (d) a Crown Dependency, means any corresponding responsibility which applies to persons in its territory;
+- “**the Part 5 period**” has the meaning given for the purposes of Part 5 (see regulation 59(5)(c));
+- “**periodic payment**” has the meaning given in regulation 77(1)(a);
+- “**periodic payment election**” means an election made in accordance with regulation 75(4);
+- “**personal representatives**” has the meaning given in section 56(9) of the Act, and a reference to personal representatives is a reference to them acting in their capacity as such;
+- “**relevant person**” has the meaning given in regulation 5;
+- “**relevant date**”, in relation to—
+  - (a) an eligible infected person, means—
+    - (i) where the person was deceased on the date of the application, the date of the person’s death;
+    - (ii) otherwise, the date of the application;
+  - (b) an eligible affected person (“**Q**”), means—
+    - (i) where either (but not both) of Q or the eligible infected person in respect of whom Q is an eligible affected person (“[^key-863cb8d7e1c7eb0074cbb844177c1a77]**P**”) is deceased on the date of Q’s affected core application, the date that person died;
+    - ((ia)) where both of Q and P are deceased on the date of Q’s affected core application, the date of death of the first of them to die;[^key-14c97b0950ad427773dfe0149fc95d84]
+    - (iii) otherwise, the date of the affected core application;
+- “**single infection**” means infection with only one of Hepatitis B, Hepatitis C or HIV;
+- “**support scheme payment**” means—
+  - (a) a payment made, or to be made, in relation to an eligible IBSS recipient (“**E**”) by an infected blood support scheme, of—
+    - (i) an amount which corresponds to the IBSS payment category that applied to E or, as the case may be, E’s partner on 31st March 2025 or would have applied to E or E’s partner, if they had been registered with the infected blood support scheme on that date, and
+    - (ii) an amount for the purpose of helping E meet expenses for heating which have been or are likely to be incurred in cold weather, or
+  - (b) an IBCA support scheme payment.
+
+(2) In these Regulations—
+
+- (a) “**additional financial loss (core) award**” means an award determined in accordance with regulation 20
+- (b) “**additional financial loss (further core) award**” means an award determined in accordance with regulation 43(5);
+- (c) “**autonomy (core) award**” means an award determined in accordance with regulation 18;
+- (d) “**basic financial loss award**” means an award determined in accordance with regulation 19;
+- (e) “**care (core) award**” means an award determined in accordance with regulation 21;
+- (f) “**care (excess actual costs) award**” means an award determined in accordance with regulation 39;
+- (g) “**care (excess deemed costs) award**” means an award determined in accordance with regulation 40;
+- (h) “**care (further core) award**” means an award determined in accordance with regulation 43(6);
+- (i) “**care (further severe health condition) award**” means an award determined in accordance with regulation 46(2);
+- (j) “**care (severe health condition) award**” means an award determined in accordance with regulation 31;
+- (k) “**exceptional loss award**” means an award determined in accordance with Section 4 of Chapter 2 of Part 3;
+- (l) “**financial loss (further reduced earnings) award**” means an award determined in accordance with regulation 46(4);
+- (m) “**financial loss (further severe health condition) award**” means an award determined in accordance with regulation 46(3);
+- (n) “**financial loss (PAYE earnings) award**” means an award determined in accordance with regulation 37;
+- (na)[^key-134e3d54a4fc6a468f773789c4c3c40d] “**financial loss (potential earning capacity) award**” means an award determined in accordance with regulation 38A;
+- (o) “**financial loss (self-employment earnings) award**” means an award determined in accordance with regulation 38;
+- (p) “**financial loss (reduced earnings) award**” means—
+  - (i) a financial loss (PAYE earnings) award, or
+  - (ii) a financial loss (self-employment earnings) award;
+- (q) “**financial loss (severe health condition) award**” means an award determined in accordance with regulation 32;
+- (r) “**injury (core) award**” means an award determined in accordance with regulation 16;
+- (s) “**severe health condition award**” means an award determined in accordance with Section 3 of Chapter 2 of Part 3;
+- (t) “**social impact (core) award**” means an award determined in accordance with regulation 17;
+- (u) “**support scheme top-up (core) award**” means an award determined in accordance with regulation 22;
+- (v) “**support scheme top-up (supplemental) award**” means an award determined in accordance with regulation 24(5);
+- (w) “**unethical research practices award**” means an award determined in accordance with Section 2 of Chapter 2 of Part 3;
+- (x) the “future amount” of an award is the amount of that award determined in accordance with regulation 7(1A)(b) or (1B)(b)[^key-ba98e557e161e2a1982ce522088b0a4b];
+- (y) the “past amount” of an award is the amount of that award determined in accordance with regulation 7(1A)(a) or (1B)(a)[^key-8d6de4a3cb13f993260c25f2a04ad52a].
+
+(3) For the purposes of these Regulations—
+
+- (a) a period which is defined as beginning or ending with a month or year includes that month or year;
+- (b) a reference to an IBCS payment having been made includes a reference to a periodic payment determined by reference to an IBCS payment having been made;
+- (c) an application or an appeal is finally determined if—
+  - (i) it is decided or withdrawn, and
+  - (ii) all routes of review or appeal of a decision on the application have been exhausted (including where any periods for requesting a review or bringing an appeal have expired).
+
+(4) In these Regulations, in relation to the severity of—
+
+- (a) a Hepatitis C infection, “**level 1**” means an infection described in the first row of the table in Schedule 1;
+- (b) a Hepatitis B infection, a Hepatitis C infection, or a co-infection of Hepatitis B and Hepatitis C—
+  - (i) “**level 2**” means an infection described in the second row of the table in Schedule 1;
+  - (ia)[^key-ab8be992dc45e3f8ae522f34af01ff4c] “**level 2B**” means an infection described in the third row of the table in Schedule 1;
+  - (ii) “**level 3**” means an infection described in the fourth[^key-e02f39ca975bc27a295c1175367ec2e5] row of the table in Schedule 1;
+  - (iii) “**level 4**” means an infection described in the fifth[^key-0a7e61070ec84074e2c317c9a6702e0f] row of the table in Schedule 1;
+- (c) a Hepatitis B infection, “**level 5**” means an infection described in the sixth[^key-aa840cf8fc7288a2a2ae911d680a475c] row of the table in Schedule 1.
+
+(5) For the purpose of determining the amount of an award in relation to an eligible person (“**R**”)—
+
+- (a) except in regulations 14(1)(b), 21(6) and (7), 42(1), 45(1), 48(1)(b) and 75(4)(b), paragraph 4(2)(a) of Schedule 2 and Part 5—
+  - (i) a reference to a year, except in the term “tax year”, is a reference to the 12-month period from January to December;
+  - (ii) where R was infected for only part of a year, they are to be treated as if they were infected for the whole of that year;
+  - (iii) where R dies partway through a year, they are to be treated as if they had died at the end of that year;
+- (b) where R has an infection of Hepatitis B or Hepatitis C (or both)—
+  - (i) where the severity level of the infection varied over the course of a year, the severity level for the whole year is the highest severity level of the infection in that year;
+  - (ii) where, on the date of an application, R is not deceased and has not attained the age of their healthy life expectancy, the severity level of the infection for the period between the date of the application and the year in which R is expected to attain the age of their healthy life expectancy is be treated as the severity level on the date of the application, and such treatment is sufficient evidence to establish the level of the infection for the purposes of regulation 20(6)(b)(i);
+- (c) except in regulation 4 and Part 4, where R attains a specified age partway through a year, they are to be treated as if they had attained that age at the beginning of that year.
+
+### 3. Meaning of “eligible infected person”[^key-1fac64b3b0e0ce7af942c787c87a24b2]
+
+(1) For the purposes of these Regulations, a person is an eligible infected person where paragraph (1A),[^key-fb9c198e90a2db20b6bdf6be6ee0cd35] (2), (6), (7) or (8) applies to that person, whether or not that person is deceased.
+
+(1A)[^key-8404500813e1eaf7d9bf3cb178a5de9a] This paragraph applies to a person who is, or immediately before they died was, an infected SSP recipient.
+
+(2) Subject to paragraph (5), this paragraph applies to a person who—
+
+- (a) has received, in the course of NHS treatment or armed forces treatment overseas, infected blood treatment,
+- (b) was subsequently diagnosed with an infection specified in paragraph (3), and
+- (c) began, or continued, receiving the infected blood treatment at a time[^key-4095f3ae9fe22232e17fdec1869bf31b] specified in paragraph (4).
+
+(3) The infections are—
+
+- (a) HIV;
+- (b) Hepatitis C;
+- (c) Hepatitis B, where—
+  - (i) the infection caused the person’s death within a period of 12 months beginning with the date that—
+    - (aa) the infected blood treatment began, or
+    - (bb) the person’s Hepatitis B infection reactivated, or
+  - (ii) the infection did not cause the person’s death but continued for a period of at least six months beginning with the date that the infected blood treatment began.
+
+(4) The times[^key-fe8756525d58a56f84faa566ba895c64] specified for the purposes of paragraph (2)(c) are[^key-16ccdfe799a0dbbd337684e2fbb6f131]—
+
+- (a) for a person diagnosed with HIV, any time before[^key-3bbc8d0d4c10efc30e6882dae706b35c] 1st November 1985;
+- (b) for a person diagnosed with Hepatitis C, any time during the period which begins with 1st January 1952 and ends with 1st September 1991[^key-f51fab982930b114fadac9113b2ee99c];
+- (c) for a person diagnosed with Hepatitis B, any time during the period which begins with 1st January 1952 and ends with 1st December 1972[^key-932b101347fcc6cd482331fead845026].
+
+(5) Paragraph (2) does not apply to a person whom the IBCA[^f00007] is satisfied did not become infected with an infection specified in paragraph (3) as a result of the infected blood treatment.
+
+(6) This paragraph applies to a person who—
+
+- (a) has received, in the course of NHS treatment or armed forces treatment overseas, infected blood treatment,
+- (b) was subsequently diagnosed with an infection specified in paragraph (3),
+- (c) began, or continued, receiving the infected blood treatment after the time[^key-ab5ed98b78843ce295cc9e9dde3b820c] specified in paragraph (4), and
+- (d) satisfies the IBCA that the infected blood treatment caused the person to become infected with that infection.
+
+(7) Subject to paragraph (9), this paragraph applies to a person who has been diagnosed with an infection specified in paragraph (3) and who satisfies the IBCA that they became so infected as a result of its transmission to them from a person to whom paragraph (1A), (2)[^key-f754c1620bab55aea8f0b81baa96d199] or (6) applies (but see paragraph (7A))[^key-7ca5ed0804f871cf0c6918119e409c84] by means of—
+
+- (a) sexual contact, where the person to whom the infection was transmitted and the person to whom paragraph (1A), (2) or (6) applies were in a long-term relationship at the time of the contact,
+- (b) direct vertical transmission from mother to child,
+- (c) accidental needle stick injury, or
+- (d) another method of transmission resulting from living in close proximity to a person to whom paragraph (1A), (2) or (6) applies.
+
+(7A)[^key-a1e401677f59776f3ea77fb23c0d2e80] For the purposes of determining whether paragraph (7) applies to a person (“**A**”), a person (“**B**”) is to be treated as a person to whom paragraph (2) or (6) applies if—
+
+- (a) A has been diagnosed with the infection specified in regulation 3(3)(c), and
+- (b) the only reason that paragraph (2) or (6) does not apply to B is that neither of the conditions described in paragraph (3)(c)(i) and (ii) is met.
+
+(8) Subject to paragraph (9), this paragraph applies to a person who has been diagnosed with an infection specified in paragraph (3) and who satisfies the IBCA that they became so infected as a result of its transmission to them by a person to whom paragraph (7) applies by means of—
+
+- (a) sexual contact, where the person to whom paragraph (7) applies and the person to whom the infection was transmitted were in a long-term relationship at the time of the contact,
+- (b) direct vertical transmission from mother to child,
+- (c) accidental needle stick injury, or
+- (d) another method of transmission resulting from living in close proximity to a person to whom paragraph (7) applies.
+
+(9) Paragraphs (7) and (8) do not apply in relation to transmission caused by the sharing of needles for the purpose of intravenous drug use.
+
+(10) In this regulation—
+
+- “**armed forces**” means the naval, military and air forces of the Crown, excluding the forces of a Commonwealth country other than the United Kingdom;
+- “**armed forces treatment overseas**” means treatment received outside the United Kingdom by a person who was, at the time of their treatment—
+  - (a) acting in their capacity as a serving member of the armed forces;
+  - (b) acting in their capacity as a person employed by or in the service of the Government of the United Kingdom whose sole or main role was to work—
+    - (i) in support of the armed forces, or
+    - (ii) for or in support of the administration of the Sovereign Base Areas of Akrotiri and Dhekelia in the Island of Cyprus;
+  - (c) acting in their capacity as an employee of an organisation—
+    - (i) which provided support to the armed forces outside the United Kingdom, and
+    - (ii) for the employees of which the Government of the United Kingdom arranged or provided treatment;
+  - (d) a family member of a person acting in a capacity described in paragraphs (a) to (c) and who resided with that person;
+- “**infected blood treatment**” means treatment with blood, blood products or tissue capable of transmitting HIV, Hepatitis B or Hepatitis C , but does not include treatment consisting of a tissue transplant where the tissue was infected with HIV, Hepatitis B or Hepatitis C and, before the treatment, the recipient had been notified of the infection[^key-e6e9560ce9909e8459163b56a58f0965];
+- “**long-term relationship**” means a relationship between two people where—
+  - (a) the people are married to each other or are civil partners of each other, or
+  - (b) the people—
+    - (i) could have married or formed a civil partnership if the rules that apply to marrying or forming a civil partnership, other than rules about marrying or forming a civil partnership with more than one person, on the date of the application applied at the time of the sexual contact described in paragraph (7)(a) or (as the case may be) (8)(a), and
+    - (ii) at that or any subsequent time[^key-a19b96a608127b54d8e2123aec2cc812] lived with each other, and no other person at the same time[^key-c24ac547098ea92b061564d79394d74a], as if they were married or civil partners;
+- “**NHS treatment**” means—
+  - (a) treatment arranged or provided as part of the health service—
+    - (i) continued under section 1(1) of the National Health Service Act 2006[^f00008];
+    - (ii) continued under section 1(1) of the National Health Service (Wales) Act 2006[^f00009];
+    - (iii) continued under section 1(1) of the National Health Service (Scotland) Act 1978[^f00010];
+    - (iv) under section 1 of the Health Services Act (Northern Ireland) 1948[^f00011], section 1 of the Health Services Act (Northern Ireland) 1971[^f00012], Article 4 of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00013] or section 2(1) of the Health and Social Care (Reform) Act (Northern Ireland) 2009[^f00014];
+  - (b) treatment—
+    - (i) administered under a direction or prescription given or issued by a registered medical practitioner or other medical or healthcare professional in a Crown Dependency, or
+    - (ii) arranged or provided by the government of a Crown Dependency.
+
+### 4. Meaning of “eligible affected person”[^key-89dcef216ad8c075209165444b8b07e1]
+
+(1) For the purposes of these Regulations, a person is an eligible affected person if [^key-b2c55e19d673842827f41a89e93a0876]...—
+
+- (za)[^key-dc8a2e192638477496d4c5a53adca893] they—
+  - (i) are not deceased, or
+  - (ii) died during the period which begins on 21st May 2024 and ends on 31st March 2031,
+- (a) on or before the reference date, they were—
+  - (i) a partner of an eligible infected person,
+  - (ii) a parent of an eligible infected person,
+  - (iii) a child of an eligible infected person,
+  - (iv) a sibling of an eligible infected person, or
+  - (v) an unremunerated carer of an eligible infected person, and
+- (b) that eligible infected person has an infection other than a single infection of Hepatitis C of severity level 1.
+
+(1A)[^key-2800bc252153e5ddd9adab03c853c080] A person is also an eligible affected person if—
+
+- (a) they fall within paragraph (1)(za), and
+- (b) they are, or immediately before they died were, an affected SSP recipient.
+
+(2) In paragraph (1)—
+
+- “**child of an eligible infected person**” means a person—
+  - (a) who either—
+    - (i) an eligible infected person (“**P**”) had, or acted as if they had, parental responsibility for, or
+    - (ii) in the case of any marriage, civil partnership, or other relationship entered into as if it were a marriage or civil partnership, to which P was at any time a party, was treated by P as a child of the family in relation to that marriage, civil partnership or other relationship, and
+  - (b) who was cared for , or was but for the infection expected to be cared for,[^key-2c7b0c13c43b1609de0358371dbcb33f] on a regular basis by P for a continuous period of at least 12 months ending with a day no later than the day before that person attained the age of 18 (including where that 12 month period occurred before P’s first year of infection);
+- “**parent of an eligible infected person**” means a person—
+  - (a) who either—
+    - (i) had, or acted as if they had, parental responsibility for the eligible infected person (“**P**”), or
+    - (ii) in the case of any marriage, civil partnership, or other relationship entered into as if it were a marriage or civil partnership, to which that person was at any time a party, treated P as a child of the family in relation to that marriage, civil partnership or other relationship, and
+  - (b) who provided care for, or was but for the infection expected to provide care for, P on a regular basis whilst P was aged under 18 for a continuous period of at least 12 months ending with a day no later than the day before P attains the age of 18 (regardless of whether the first year of infection occurred before or after P attained the age of 18);
+- “**partner of an eligible infected person**” means—
+  - (za) a person who is an eligible affected person by virtue of paragraph (1A),[^key-3eb52a0106e81a769277b22714998ee5]
+  - (a) a person who was married to, or the civil partner, of an eligible infected person (“**P**”) and who lived with P for a continuous period of 12 months beginning with a date falling within or after P’s first year of infection, or
+  - (b) a person—
+    - (i) who could have married, or formed a civil partnership with, an eligible infected person (“**P**”) if the rules that apply to marrying or forming a civil partnership, other than rules about being married to or forming a civil partnership with more than one person, on the date of the application applied at the time of the infection, and
+    - (ii) who lived with P, and no other person, as if they were married or in a civil partnership for a continuous period of 12 months beginning with a date falling within or after P’s first year of infection;
+
+  the “reference date” is the later of—
+
+  - (a) 31st March 2025, or
+  - (b) the date of diagnosis of the eligible infected person in relation to whom a person is an eligible affected person;
+- “**sibling of an eligible infected person**” means a sibling who lived, or was but for the infection expected to live, in the same household as the eligible infected person (“**P**”) for a continuous period of at least 24 months whilst the sibling was under the age of 18 (including where that 24 month period occurred before P’s first year of infection), and for these purposes “**sibling**” includes—
+  - (a) a sibling of the half-blood,
+  - (b) a step-sibling,
+  - (c) an adopted sibling, and
+  - (d) any person who was treated as a sibling;
+- “**unremunerated carer**” means a person—
+  - (a) who, without reward or remuneration of any kind, provided to the eligible infected person (“**P**”) an average of 16.5 hours per week of care or support over a period of at least 6 months beginning with a date falling within or after the first year of infection, where—
+    - (i) the care or support was necessitated by P’s infection, and
+    - (ii) the level of the care or support was greater than they would otherwise reasonably have been expected to provide but for the infection and its consequences, and
+  - (b) who is not otherwise an eligible affected person by virtue of being a partner, parent, child or sibling of P.
+
+### 5. Meaning of “relevant person”[^key-942bae4ceb5c894a8caace16933b2bae]
+
+(1) In relation to a person (“**E**”) in respect of whom a non-payment activity[^key-52bdc88e78c4434f0a04dd28b114238c] is to be undertaken, the relevant person is E unless, on the date the non-payment activity is undertaken—
+
+- (a) E is under the relevant age, in which case the relevant person is a person with parental responsibility for E;
+- (b) E is the relevant age or older and lacks capacity to make some or all decisions about the non-payment activity, in which case the relevant person is a person who—
+  - (i) has a power of attorney in relation to E which authorises the relevant person to undertake the non-payment activity[^key-425404995c5f4ff8f656f9df653e79e5],
+  - (ii) is a deputy appointed in relation to E under section 16(2)(b) of the Mental Capacity Act 2005[^f00015],
+  - (iii) is a guardian appointed in relation to E under the Adults with Incapacity (Scotland) Act 2000[^f00016],
+  - (iv) is a controller appointed in relation to E under Article 101 of the Mental Health (Northern Ireland) Order 1986[^f00017], or
+  - (v) is authorised to exercise in relation to E powers corresponding to those of a person described in paragraphs (i) to (iv) which were granted by a court outside the United Kingdom;
+- (c) E is deceased, in which case the relevant person is E’s personal representative.
+
+(1A)[^key-8445c2228818ca6c7b46540a0a811095] In relation to a person (“**E**”) in respect of whom a payment activity is to be undertaken, the relevant person is E unless on the date the payment activity is undertaken—
+
+- (a) E is under the relevant age, in which case the relevant person is a person with parental responsibility for E;
+- (b) E is deceased, in which case the relevant person is E’s personal representative.
+
+(2) In this regulation[^key-fae3705cb13c6543697d9bba57c79216]—
+
+- “[^key-8816732a7013af5cccddce6928c6cc59]**non-payment activity**” means any step or decision, other than a payment activity, pursuant to these Regulations;
+- “**payment activity**” means the making of a payment, or the requiring of a repayment, pursuant to these Regulations;
+- “**relevant age**” means—
+  - (a) in relation to a person in Scotland, 16;
+  - (b) in relation to a person anywhere else, 18;
+- [^key-648939fd194dce7d95ef1426ff82f3ed]...
+
+(3) For the purposes of paragraph (1)(b), E lacks capacity to make a decision if, while the person is—
+
+- (a) in England and Wales, they lack capacity in relation to that decision for the purposes of section 2 of the Mental Capacity Act 2005;
+- (b) in Scotland, they are incapable in relation to that decision for the purposes of section 1 of the Adults with Incapacity (Scotland) Act 2000[^f00018];
+- (c) outside England, Wales and Scotland (including outside the United Kingdom), at the material time E is unable to make the decision for themselves because of an impairment of, or a disturbance in the functioning of, the mind or brain, whether permanent or temporary.
+
+(4) For the purposes of paragraph (1)(c) and (1A)(b)[^key-74a2f6ec5a121e8234121c418e447742], the IBCA must not treat a person as E’s personal representative unless the IBCA has been provided with a document that is by law sufficient evidence of—
+
+- (a) the grant of probate of E’s will,
+- (b) the grant of letters of administration of E’s estate, or
+- (c) the confirmation of a person as E’s executor.
+
+### 6. Meaning of “deductible payment”[^key-2c4303efef4c3a38bccb8e4704486d21]
+
+(1) In these Regulations, each of the following is a “deductible payment”—
+
+- (a) a deductible damages payment (see paragraph (3));
+- (b) a deductible non-IBCS compensation payment (see paragraph (4));
+- (c) a deductible IBSS payment (see paragraph (5));
+- (d) in relation to an eligible person who is not an infected SSP recipient or an affected SSP recipient, a support scheme payment made in relation to any period after 31st March 2025.
+
+(2) A payment is only a deductible payment for the purpose of determining the amount of an IBCS payment in relation to—
+
+- (a) an eligible infected person if the payment was made on the grounds that the person has an infection of HIV, Hepatitis B or Hepatitis C;
+- (b) an eligible affected person if the payment was made on the grounds that the person has been affected by their relationship to another person who has an infection of HIV, Hepatitis B or Hepatitis C.
+
+(3) A “deductible damages payment” is a payment, other than a payment from an organisation listed in section 56(4) of the Act, which it appears to the IBCA—
+
+- (a) has been, or is to be, made in relation to an eligible person—
+  - (i) pursuant to an award of a court or tribunal anywhere in the world,
+  - (ii) in settlement or compromise of a dispute preliminary to contemplated court action to be commenced anywhere in the world, or
+  - (iii) in settlement or compromise of a court action commenced anywhere in the world,
+- (b) relates to a head of loss which corresponds, or broadly corresponds, to any category of award in respect of which an IBCS payment has been, or is to be, made in relation to the eligible person, and
+- (c) has been, or is to be, determined without taking into account the amount of such IBCS payment made, or to be made, in relation to the eligible person.
+
+(4) A “deductible non-IBCS compensation payment” is a payment made in relation to an eligible person under—
+
+- (a) section 56(1) of the Act;
+- (b) the Infected Blood Interim Compensation Payment Scheme as defined in section 56(6) of the Act;
+- (c) the Infected Blood Further Interim Compensation Payment Scheme, being the scheme of that name administered by the persons who administer the infected blood support schemes (whether or not in conjunction with other persons);
+- (d) a scheme other than the IBCS established by or under statute for the purposes of providing compensation in respect of the same or similar losses as those for which an IBCS payment may be made in relation to the eligible person.
+
+(5) A “deductible IBSS payment” is any payment, other than a support scheme payment, made under an infected blood support scheme in relation to any period or event which occurs after 31st March 2025, except—
+
+- (a) a payment made for the purpose of meeting or assisting with the costs of any psychological therapy;
+- (b) in relation to an eligible infected person, a payment made for the purpose of meeting or assisting that person with the costs of any pre-payment certificate granted to them under regulation 16 of the National Health Service (Charges for Drugs and Appliances) Regulations 2015[^f00019];
+- (c) in relation to an eligible affected person, a payment made for the purpose of helping with the costs of bringing up a child of a person who is, or who immediately before their death was, an IBSS-registered infected person.
+
+### 7. Determining the “past amount” and “future amount” of certain awards[^key-471211d04d3d7d2bd1e874cf6c4e663c]
+
+(1) This regulation applies for the purpose of determining the “past amount” or the “future amount” of any of the following awards in relation to an eligible infected person (“**P**”)—
+
+- (a) an additional financial loss (core) award;
+- (b) an additional financial loss (further core) award;
+- (c) a basic financial loss award;
+- (d) a care (core) award;
+- (e) a care (further core) award;
+- (f) a care (further severe health condition) award;
+- (g) a care (severe health condition) award;
+- (h) a financial loss (further reduced earnings) award;
+- (i) a financial loss (further severe health condition) award;
+- (j) a financial loss (reduced earnings) award;
+- (k) a financial loss (severe health condition) award.
+
+(1A)[^key-9c0598eaa3531f8e5c06f3ad08028ff0] In relation to an award mentioned in paragraph (1)(a), (b), (j) or (k)—
+
+- (a) the “past amount” is the greater of—
+  - (i) the annual past amount;
+  - (ii) the averaged past amount;
+- (b) the “future amount” is—
+  - (i) where the past amount is the annual past amount, the annual future amount;
+  - (ii) otherwise, the averaged future amount.
+
+(1B) In relation to an award mentioned in paragraph (1)(c) to (i)—
+
+- (a) the “past amount” is the averaged past amount;
+- (b) the “future amount” is the averaged future amount.
+
+(2) Subject to paragraph (4A),[^key-42fb85162a712b5853ded449cc19db4c] the “averaged past amount[^key-8db28cc2554270cd3f8af07b7e67a702]” of an award mentioned in paragraph (1) in relation to P is *[^key-dbd44d28bba9ff15dccd94f66aebfd57]...* ((Y<sub>2</sub> + 0.25) ÷ Y<sub>1</sub>) × T.
+
+(3) Subject to paragraph (4A),[^key-c7f76ae849ada05f4f36b412f9bd2f89] the “averaged future amount[^key-8a67bfa701ab5d928b2fbb41277d57ac]” of an award mentioned in paragraph (1) in relation to P is ((Y<sub>3</sub> + 0.75) ÷ Y<sub>1</sub>) × T.
+
+(4) In paragraphs (2) and (3)—
+
+- (a) “T” is the amount of the award in relation to P;
+- (b)[^key-321499370d758d05c472ad296e11b5ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) “Y<sub>1</sub>”<sub></sub>is the number of years in the period which—
+  - (i) begins with the first year of P’s compensation period[^key-ea1205447afda66dbc1375238bd18aae], and
+  - (ii) ends with the year in which P attained, or is expected to attain, the age of their healthy life expectancy;
+- (d) “Y<sub>2</sub>”<sub></sub>is the number of years in the period which—
+  - (i) begins with the first year of P’s compensation period[^key-6b054e2d99031eba96678f823ee50a07], and
+  - (ii) ends with 2024;
+- (e) “Y<sub>3</sub>”<sub></sub>is the number of years in the period which—
+  - (i) begins with 2026, and
+  - (ii) ends with the year in which P attained, or is expected to attain, the age of their health life expectancy.
+
+(4A)[^key-15135e1e1c06b736beda490dd88a47da] For the purposes of calculating the “past amount” and “future amount” of a care (core) award which includes an amount under regulation 21(3)(b)(ia), (4)(b)(ia) or (6)(aa)—
+
+- (a) paragraph (4)(a) is to be read as if at the end there were inserted “, other than any amount under regulation 21(3)(b)(ia)(bb), (4)(b)(ia)(bb) or (6)(aa)(i)”;
+- (b) the “averaged past amount” of the award is A + B, where “A” is the amount calculated in accordance with paragraph (2) and “B” is any amount under regulation 21(3)(b)(ia)(bb), (4)(b)(ia)(bb) or (6)(aa)(i).
+
+(5)[^key-c272325d05611b1a9fd790894e9da9da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-7a4ca639f7f584fe358abfb670206dde] Subject to paragraphs (7) to (11)—
+
+- (a) the “annual past amount” of an award is C + (D × 0.25), where—
+  - (i) “C” is the sum of the annual amounts calculated for the purpose of the award for each year in the period beginning with P’s first year of infection and ending with 2024, and
+  - (ii) “D” is the annual amount calculated for the purpose of the award for 2025;
+- (b) the “annual future amount” of an award is E + (D × 0.75), where—
+  - (i) “E” is the sum of the annual amounts calculated for the purpose of the award for each year in the period beginning with 2026 and ending with the year in which P attained, or is expected to attain, the age of their healthy life expectancy, and
+  - (ii) “D” is the annual amount calculated for the purpose of the award for 2025.
+
+(7) In relation to the financial loss (PAYE earnings) award, the “annual amount” is—
+
+- (a) for a year of the reduced earnings period (within the meaning of regulation 37(2)), F - G, where—
+  - (i) “F” is the annual amount for that year determined in accordance with regulation 37(3), and
+  - (ii) “G” is the amount of the additional financial loss (core) award for that year;
+- (b) for a year of the reduced pension period (within the meaning of regulation 37(2)), H - I, where—
+  - (i) “H” is the annual amount for that year determined in accordance with regulation 37(4), and
+  - (ii) “I” is the amount of the additional financial loss (core) award for that year.
+
+(8) In relation to the additional financial loss (further core) award—
+
+- (a) the “annual past amount” is J - K, where—
+  - (i) “J” is the sum of the annual past amounts of all current financial loss awards (within the meaning of regulation 43(10)), and
+  - (ii) “K” is the sum of the annual past amounts of all previous financial loss awards (within the meaning of regulation 43(10));
+- (b) the “annual future amount” is L - M, where—
+  - (i) “L” is the sum of the annual future amounts of all current financial loss awards (within the meaning of regulation 43(10)), and
+  - (ii) “M” is the sum of the annual future amounts of all previous financial loss awards (within the meaning of regulation 43(10)).
+
+(9) In relation to the financial loss (self-employment earnings) award—
+
+- (a) the “annual past amount” is N - O, where—
+  - (i) “N” is the sum of the annual amounts in relation to each tax year of the period beginning with P’s first tax year of infection and ending with the 2024 tax year, determined in accordance with regulation 38(3), and
+  - (ii) “O” is the annual past amount of the additional financial loss (core) award calculated in accordance with paragraph (6);
+- (b) the “annual future amount” is Q - R, where—
+  - (i) “Q” is the sum of the annual amounts in relation to each tax year of the period beginning with the 2025 tax year and ending with the year in which P attained, or is expected to attain, the age of their healthy life expectancy, and
+  - (ii) “R” is the annual future amount for the additional financial loss (core) award calculated in accordance with paragraph (6).
+
+(10) In paragraph (9)(a)(i), “**first tax year of infection**”, in relation to P, means—
+
+- (a) where P has a single infection—
+  - (i) the tax year in which P contracted the infection, or
+  - (ii) if it is not possible to establish the tax year in which the infection was contracted, the earliest tax year in which P could have contracted the infection;
+- (b) where P has a co-infection—
+  - (i) the earliest tax year in which P contracted one or more infections, or
+  - (ii) if it is not possible to establish the tax year in which the first infection was contracted, the earliest tax year in which P could have contracted one or more infections.
+
+(11) In relation to the financial loss (severe health condition) award—
+
+- (a) the “annual past amount” is S + U, where—
+  - (i) “S” is the annual past amount, calculated in accordance with paragraph (6)(a), of such of the award as comes under regulation 32(1)(a), and
+  - (ii) “U” is the averaged past amount, calculated in accordance with paragraph (2), of such of the award as comes under regulation 32(1)(b);
+- (b) the “annual future amount” is V + W, where—
+  - (i) “V” is the annual future amount, calculated in accordance with paragraph (6)(b), of such of the award as comes under regulation 32(1)(a), and
+  - (ii) “W” is the averaged future amount, calculated in accordance with paragraph (3), of such of the award as comes under regulation 32(1)(b).
+
+### 8. Giving of notices and documents[^key-d3f99a640d30b4f7846dd0e4b04343fe]
+
+(1) This regulation applies where a provision in these Regulations requires or authorises a person to—
+
+- (a) notify another person (“**A**”) of something, or
+- (b) give a document to A (whether the provision uses the word “give” or some other term).
+
+(2) The notification or document must be given to A—
+
+- (a) by sending it by post in a pre-paid envelope—
+  - (i) addressed to A at A’s last known place of residence, or
+  - (ii) if A has given an address for service, addressed to A at that address, or
+- (b) if A has given an address for service using electronic communications, by sending it to A at that address using an electronic communication method which complies with the conditions in paragraph (3).
+
+(3) The conditions are that the notification or document is—
+
+- (a) capable of being accessed by A,
+- (b) legible in all material respects, and
+- (c) capable of being used by A for subsequent reference.
+
+(4) A notification or document given in accordance with these Regulations, is—
+
+- (a) if given electronically, to be treated for the purposes of these Regulations as having been given, unless the contrary is proved, on the day on which the electronic communication was sent;
+- (b) if given to the IBCA other than electronically, to be treated as having been given on the day it is received by the IBCA;
+- (c) if given by the IBCA other than electronically, to be treated as having been given on the day that it was sent.
+
+## PART 2 — Continuation and administration of the IBCS
+
+### 9. Continuation of the IBCS[^key-f564f549e2f52a89376f4e10ce07d334]
+
+(1) The infected blood compensation scheme for the making of payments in relation to eligible persons which was established in accordance with regulation 3(1) of the Infected Blood Compensation Scheme Regulations 2024[^f00020] is continued and expanded in accordance with these Regulations.
+
+(2) Payments under the IBCS must continue to be made, and the IBCS must otherwise continue to be administered, by the IBCA.
+
+### 10. Eligibility criteria for appointment as a member of the IBCA[^key-0a276caf36d276b2f03d24c6729fece0]
+
+(1) A person who meets the criteria specified in paragraph (3) is eligible for appointment as the Chair or as any other non-executive member of the IBCA.
+
+(2) At least one of the non-executive members of the IBCA must have experience of risk and audit.
+
+(3) The criteria are that the person—
+
+- (a) has not within the preceding five years had passed on them in the United Kingdom, the Channel Islands or the Isle of Man a sentence of imprisonment (whether suspended or not) for a period of three months or more without the option of a fine,
+- (b) is not the subject of—
+  - (i) a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A to the Insolvency Act 1986 (“**the 1986 Act**”)[^f00021] or Schedule 2A to the Insolvency (Northern Ireland) Order 1989 (“**the 1989 Order**”)[^f00022], or
+  - (ii) a debt relief restrictions order or an interim debt relief restrictions order under Schedule 4ZB to the 1986 Act[^f00023] or Schedule 2ZB to the 1989 Order[^f00024],
+- (c) has not within the preceding five years been dismissed, otherwise than by reason of redundancy, from any paid employment with a body listed in the Schedule to the Public Bodies (Admission to Meetings) Act 1960[^f00025],
+- (d) has not had their tenure of office as the Chair, a member, or a director of a body listed in the Schedule to the Public Bodies (Admission to Meetings) Act 1960 terminated on the grounds—
+  - (i) that it was not in the interests of that body that they should continue to hold the office,
+  - (ii) of non-attendance at meetings,
+  - (iii) of non-disclosure of a pecuniary interest, or
+  - (iv) of misbehaviour, misconduct or failure to carry out their duties,
+- (e) is not subject to a disqualification order under the Company Directors Disqualification Act 1986[^f00026], the Company Directors (Northern Ireland) Disqualification Order 2002[^f00027] or to an order made under section 429(2) of the 1986 Act[^f00028],
+- (f) has not been removed from the office of charity trustee or trustee for a charity by a relevant order on the grounds of—
+  - (i) any misconduct or mismanagement in the administration of the charity for which they were responsible or to which they were privy,
+  - (ii) that they knew of the misconduct or mismanagement and failed to take reasonable steps to oppose it, or
+  - (iii) that their conduct contributed to or facilitated the misconduct or mismanagement,
+- (g) has not been removed by the Court of Session under section 34(5)(e) of the Charities and Trustee Investment (Scotland) Act 2005[^f00029] from being concerned in the management or control of a charity or other body, or
+- (h) is not, in the opinion of the appropriate person, a person who has a conflict of interest which would affect their ability to carry out the functions of the Chair or a non-executive member of the IBCA if they were to be appointed as such.
+
+(4) If the Chair or a non-executive member of the IBCA, during their term of appointment as such, no longer meets the criteria specified in paragraph (3), the appropriate person must terminate their appointment.
+
+(5) In this regulation—
+
+- “**appropriate person**” has the same meaning as in paragraph 5(5) of Schedule 1 to the Act;
+- “**relevant order**” means an order made by—
+  - (a) the Charity Commission under section 79(4) of the Charities Act 2011[^f00030],
+  - (b) the Charity Commission for Northern Ireland under section 33(2)(b)(i) of the Charities Act (Northern Ireland) 2008[^f00031], or
+  - (c) the High Court.
+
+### 11. Cessation of disqualification from eligibility for appointment to the IBCA[^key-0feed85ac439963a14b18ff7aa34697c]
+
+(1) Subject to paragraph (2), where a person is disqualified under regulation 10(3)(c) or (f), they may, after the expiry of two years beginning with the date on which they were dismissed or, as the case may be, removed, apply in writing to the Minister for the Cabinet Office or the Secretary of State to remove the disqualification, and the Minister for the Cabinet Office or the Secretary of State may direct that the disqualification must cease.
+
+(2) Where the Minister for the Cabinet Office or the Secretary of State refuses an application to remove a disqualification, no further application may be made by that person until the expiry of the period of two years beginning with the date of the application and this paragraph applies to any subsequent application.
+
+(3) Where a person is disqualified under regulation 10(3)(d), the disqualification ceases on the expiry of the period of two years beginning on the date of the termination of their tenure of office but the Minister for the Cabinet Office or the Secretary of State may, on an application being made to the Minister for the Cabinet Office or the Secretary of State by that person, reduce the period of disqualification.
+
+### 12. Duties of the IBCA in relation to sums repaid to it[^key-2152b2d1640c27bd00cd6fa10f2ace07]
+
+(1) The IBCA must retain any payments it recovers under regulation 80.
+
+(2) The IBCA must use any such payments for—
+
+- (a) administering the IBCS, or
+- (b) making payments under the IBCS.
+
+## PART 3 — IBCS payments to eligible infected persons
+
+### CHAPTER 1 — Infected core payments
+
+#### 13. Infected core payments: general[^key-a514eb6dc429ea1d455396c899c4e8ef]
+
+(1) A payment (an “infected core payment”) is to be made under the IBCS in relation to an eligible infected person (“**P**”) in accordance with this Chapter.
+
+(2) The IBCA must make an infected core payment in relation to P where—
+
+- (a) an application has been made in relation to P in accordance with regulation 14 and Chapter 2 of Part 6,
+- (b) the IBCA has determined the application in accordance with regulation 70(1) and (2),
+- (c) the IBCA has made an offer to make the infected core payment, and
+- (d) that offer has been accepted.
+
+#### 14. Applications for infected core payments[^key-75b649dae61244b9d857c3c1717c322f]
+
+(1) An application for an infected core payment must be made by—
+
+- (a) the end of 31st March 2031, or
+- (b) if later, the end of the period of 6 years beginning with the day on which the person to whom the application relates (“**P**”) was diagnosed with an infection specified in regulation 3(3).
+
+(2) An application for an infected core payment must be accompanied by evidence which establishes—
+
+- (a) the diagnosis of the infection specified in regulation 3(3),
+- (b) which of paragraph (2), (6), (7) or (8) of regulation 3 applies as to the cause or origin of the infection,
+- (c)[^key-6cc6beadab8208d3b963b55b672a2d0c] where P is infected with HIV, the date on which their diagnosis of that infection was given,
+- (ca)[^key-da2b160c9d5f55024023e768ddf989bb] if P is deceased on the date of the application, the date of P’s death, and
+- (d) where P is infected with Hepatitis B or Hepatitis C (or both), the severity of the infection on the relevant date.
+
+(3) Where—
+
+- (a) P is, or immediately before they died was, an infected SSP recipient, and
+- (b) the application only seeks to establish that P is an eligible infected person by virtue of an infection in respect of which support scheme payments are, or immediately before P died were, being made,
+
+the application need not be accompanied by the evidence described in paragraph (2)(a) or (b).
+
+(4) Where the relevant person intends to make an election to assign some or all of any assignable care award in accordance with regulation 75(9), the application must—
+
+- (a) include notice that the relevant person intends to make such an election (a “care award assignment notice”),
+- (b) include information identifying one or more prospective eligible affected persons (each a “notified care award assignee”) to whom the relevant person intends to assign some or all of the assignable care award, and
+- (c) be accompanied by evidence that each notified care award assignee provided care to P.
+
+(5) In these Regulations, “**assignable care award**” means—
+
+- (a) where P is not an infected SSP recipient, the care (core) award which may be determined in relation to P;
+- (b) where P is an infected SSP recipient, the past amount of the care (core) award which may be determined in relation to P.
+
+(6) For the purposes of paragraph (4)(b), a “**prospective eligible affected person**” means a person (“**Q**”) in respect of whom it is intended that an affected core application will be made establishing that Q is an eligible affected person in relation to P.
+
+(7) No additional infected core application may be made in relation to P if the IBCA has determined, pursuant to a previous infected core application, that P is an eligible infected person.
+
+#### 15. Amount of an infected core payment[^key-b8e7416ca38da111fd8651a33e8afcb8]
+
+(1) The amount of the infected core payment in relation to an eligible infected person (“**P**”) is T – (D + C), where—
+
+- (a) “T” is the amount of the infected core award (see paragraph (2));
+- (b) “D” is the sum of any deductible payments made in relation to P (see regulation 6);
+- (c) “C” is the sum of any assigned care award payments.
+
+(2) The amount of the infected core award in relation to P is the sum of—
+
+- (a) the injury (core) award (see regulation 16),
+- (b) the social impact (core) award (see regulation 17),
+- (c) the autonomy (core) award (see regulation 18), and
+- (d) where P is not an infected SSP recipient—
+  - (i) the basic financial loss award (see regulation 19),
+  - (ii) the additional financial loss (core) award (see regulation 20), and
+  - (iii) the care (core) award (see regulation 21);
+- (e) where P is an infected SSP recipient—
+  - (i) the past amount of the basic financial loss award (for “past amount”, see regulation 7(1A)(a) and (1B)(a)[^key-4c394e9f11cde5726f32a9db5a0ff984]),
+  - (ii) the past amount of the additional financial loss (core) award,
+  - (iii) the past amount of the care (core) award, and
+  - (iv) the support scheme top-up (core) award (see regulation 22).
+
+(3) Where the provisions under which the amount of an award is determined do not establish an amount for an eligible infected person in P’s circumstances, the amount of that award is £0.
+
+#### 16. Injury (core) award[^key-7094dd5384af5ebb3f09be99fd19da8e]
+
+(1) The infected core award in relation to an eligible infected person (“**P**”) must include an amount by way of an injury (core) award for the purpose of compensating for—
+
+- (a) past and future physical and mental injury;
+- (b) emotional distress and injury to feelings caused by, or that will in the future be felt as a result of, the infection and treatments for it.
+
+(2) The amount of the injury (core) award is, where on the relevant date P has a single infection of—
+
+- (a) Hepatitis C of severity level 1, £10,000;
+- (b) Hepatitis B or Hepatitis C, and the severity of the infection is—
+  - (i) level 2, £60,000;
+  - (ia)[^key-331d07e3883b117e77aed8ad8fc058c4] level 2B, £70,000;
+  - (ii) level 3, £120,000;
+  - (iii) level 4, £180,000;
+- (c) Hepatitis B of severity level 5, £180,000;
+- (d) HIV, £180,000.
+
+(3) The amount of the injury (core) award is, where on the relevant date P has a co-infection of—
+
+- (a) Hepatitis B and Hepatitis C (but not HIV), and the severity of the infection is—
+  - (i) level 2, £75,000;
+  - (ia)[^key-82bcb5d97c9e802316c2dc42e159cdac] level 2B, £85,000;
+  - (ii) level 3, £150,000;
+  - (iii) level 4, £225,000;
+- (b) HIV and—
+  - (i) Hepatitis C of severity level 1, £182,500;
+  - (ii) Hepatitis B or Hepatitis C (or both), and the severity of the infection is—
+    - (aa) level 2 or level 2B[^key-9b734c0dac4cb78dd2ba649016980dda], £195,000;
+    - (bb) level 3, £240,000;
+    - (cc) level 4, £270,000;
+  - (iii) Hepatitis B of severity level 5, £270,000.
+
+#### 17. Social impact (core) award[^key-4812146cd04668d1ef33d1ed9483a443]
+
+(1) The infected core award in relation to an eligible infected person (“**P**”) must include an amount by way of a social impact (core) award for the purpose of compensating for the past and future social consequences of the infection including stigma and social isolation.
+
+(2) Subject to paragraphs (4) and (5), the amount of the social impact (core) award is, where on the relevant date P has a single infection of—
+
+- (a) Hepatitis C of severity level 1, £5,000;
+- (b) Hepatitis B or Hepatitis C of severity level 2 to 4 or HIV, £50,000;
+- (c) Hepatitis B of severity level 5, £50,000.
+
+(3) Subject to paragraphs (4) and (5), where P has a co-infection, the amount of the social impact (core) award is £70,000.
+
+(4) Where P is also an eligible affected person, the amount of the social impact (core) award is A – B, where—
+
+- (a) “A” is the amount of the social impact (core) award that would (but for this paragraph) be determined in accordance with paragraph (2) or (3);
+- (b) “B” is the sum of any affected social impact awards determined in relation to P in accordance with regulation 51.
+
+(5) Where the amount of the social impact (core) award is less than £0, that amount is to be treated as £0.
+
+#### 18. Autonomy (core) award[^key-1758db592767d2bf282db5d7598bd5dd]
+
+(1) The infected core award in relation to an eligible infected person (“**P**”) must include an amount by way of an autonomy (core) award for the purpose of compensating for the distress and suffering caused by the impact of the infection on, and the interference with, that person’s family and private life and autonomy, including any—
+
+- (a) loss of marriage or partnership prospects;
+- (b) loss of the opportunity to have children;
+- (c) impact on that person of attacks on that person’s home as a consequence of the infection;
+- (d)[^key-54cfb9c4b68c488fb004c4ded8e8019c] impact on a person relating to having been infected during childhood.
+
+(1A)[^key-84d0ee4bcf3fcf3019e3bc6772e668c8] Subject to paragraphs (4) and (5), the amount of the autonomy (core) award is—
+
+- (a) where P was infected as a child, A + B, where—
+  - (i) “A” is the basic autonomy amount, and
+  - (ii) “B” is the childhood infection amount;
+- (b) where P was not infected as a child, the basic autonomy amount.
+
+(2) The basic autonomy amount[^key-0ac764d08d7e1845dfecdedd8ec3da0c] is, where on the relevant date P has a single infection of—
+
+- (a) Hepatitis C of severity level 1, £10,000;
+- (b) Hepatitis B or Hepatitis C, and the severity of the infection is—
+  - (i) level 2 , level 2B[^key-632c88c4b91d5e5c1692a64e0bfb9deb] or level 3, £40,000;
+  - (ii) level 4, £50,000;
+- (c) Hepatitis B of severity level 5, £50,000;
+- (d) HIV, £60,000.
+
+(3)[^key-8976ac73cfc16531c51a4f6504a01c5c] Where P has a co-infection, the basic autonomy amount is £70,000.
+
+(3A)[^key-341dc409b2d07e2d7029c8cf8770cd3a] The childhood infection amount is, where on the day before the day on which P turned 18 P had a single infection of—
+
+- (a) Hepatitis C of severity level 1, £5,000;
+- (b) Hepatitis B or C, and the severity level of the infection was—
+  - (i) level 2, 2B or level 3, £20,000;
+  - (ii) level 4, £25,000;
+- (c) Hepatitis B of severity level 5, £25,000;
+- (d) HIV, £30,000.
+
+(3B) The childhood infection amount is, where on the day before the day on which P turned 18 P had a co-infection, £35,000.
+
+(4) Where P is also an eligible affected person, the amount of the autonomy (core) award is A – B, where—
+
+- (a) “A” is the amount of the autonomy (core) award that would (but for this paragraph) be determined in accordance with paragraph (1A) to (3A)[^key-e3286bd3a3ec0fdf890eccf569533c1f];
+- (b) “B” is the sum of any affected autonomy awards determined in relation to P in accordance with regulation 52.
+
+(5) Where the amount of the autonomy (core) award is less than £0, that amount is to be treated as £0.
+
+(6)[^key-c25d99416104b0f8588970339b1d7d59] In this regulation, “**child**” means a person aged 17 or under.
+
+#### 19. Basic financial loss award[^key-b30a7b69ff38d56e53df498cd4832399]
+
+(1) The infected core award in relation to an eligible infected person (“**P**”) must include an amount by way of a basic financial loss award for the purpose of compensating for notional expenses incurred by P as a consequence of the infection, including expenses incurred as a result of—
+
+- (a) travelling to and from medical appointments;
+- (b) additional insurance costs.
+
+(2) The amount of the basic financial loss award is—
+
+- (a) where on the relevant date P had an infection of Hepatitis B of severity level 5, £17,500;
+- (b) in any other case, £12,500.
+
+#### 20. Additional financial loss (core) award[^key-c389b3dcae24e9efce63b690555ebd9c]
+
+(1) The infected core award in relation to an eligible infected person (“**P**”) must, except where P had a single infection of Hepatitis B of severity level 5 or of Hepatitis C of severity level 1, include an amount by way of an additional financial loss (core) award for the purpose of compensating for—
+
+- (a) past financial loss, including loss of services, suffered by P, and
+- (b) except where P is an infected SSP recipient, future financial loss, including loss of services, suffered by P.
+
+(2) The amount of the additional financial loss (core) award for P is the sum of the annual amounts determined in relation to each year of P’s compensation period[^key-f6d24809985802bedd8f1437d0b003e5] in accordance with—
+
+- (a) where P has HIV (whether or not they also have Hepatitis B or Hepatitis C), paragraph (4);
+- (b) where P has Hepatitis B or Hepatitis C (or both, but not HIV), paragraphs (5) to (7).
+
+(3) Notwithstanding paragraphs (4) to (7)—
+
+- (a) for any year before the year in which P attained the age of 16, the annual amount is £0;
+- (b) for the year in which P attained, or is expected to attain, the age of 66 and each subsequent year, the annual amount is 50% of the annual amount that would (but for this paragraph) be determined in accordance with this regulation.
+
+(4) Where P has—
+
+- (a) a single infection of HIV or a co-infection of HIV and Hepatitis B of severity level 5—
+  - (i) the annual amount for each year of the period which begins with the first year of P’s compensation period[^key-0e2190583ddb6354faea3a66c28c9ea8] and ends with the year immediately before the year in which P was diagnosed as infected with HIV is £14,829;
+  - (ii) the annual amount for the year in which P was diagnosed as infected with HIV and for each subsequent year is £29,657;
+- (b) HIV and is co-infected with Hepatitis B (other than a Hepatitis B infection of severity level 5) or Hepatitis C (or both)—
+  - (i) the annual amount for each year of the period which begins with the first year of P’s compensation period[^key-faa58ae35d3cc86b01d90fb04d24f8a1] and ends with the year immediately before the year in which P was diagnosed as infected with HIV is, where, on the relevant date, the severity of P’s—
+    - (aa) Hepatitis C infection is level 1, £18,536;
+    - (bb) Hepatitis B or Hepatitis C infection is level 2 or level 2B[^key-3539c1b4299595160281d89090125493], £18,536;
+    - (cc) Hepatitis B or Hepatitis C infection is level 3 or level 4, £22,243;
+  - (ii) the annual amount for the year in which P was diagnosed as infected with HIV and for each subsequent year is £29,657.
+
+(5) Where P has an infection of Hepatitis B or Hepatitis C (or both, but not HIV) and P was born—
+
+- (a) in or before the relevant year, and the severity of P’s infection in a year is—
+  - (i) level 2, the annual amount for that year is £11,863;
+  - (ii) level 3, the annual amount for that year is £23,726;
+  - (iii) level 4, the annual amount for that year is £29,657;
+- (b) after the relevant year, and the severity of P’s infection in a year is—
+  - (i) level 2, the annual amount for that year is—
+    - (aa) if the year is the year of effective treatment or any previous year, £11,863;
+    - (bb) if the year is after the year of effective treatment, £5,931;
+  - (ii) level 3, the annual amount for that year is—
+    - (aa) if the year is the year of effective treatment or any previous year, £23,726;
+    - (bb) if the year is after the year of effective treatment, £17,794;
+  - (iii) level 4, the annual amount for that year is £29,657.
+
+(5A)[^key-6685e040b7e0c160ef13ecc4ea9347ef] Where P has an infection of Hepatitis B or Hepatitis C of severity level 2B (or both, but not HIV)—
+
+- (a) the annual amount for each qualifying interferon treatment year is £23,726;
+- (b) the annual amount for any other year is the amount that P would receive under paragraph (5) if the severity level of P’s infection were level 2.
+
+(6) In paragraph (5)—
+
+- (a) “the relevant year” is, where P is infected with—
+  - (i) Hepatitis B and is not co-infected with Hepatitis C, 1953;
+  - (ii) Hepatitis C (whether or not P is co-infected with Hepatitis B), 1961;
+- (b) “**the severity of P’s infection**”, in relation to a year, is—
+  - (i) the level of severity of P’s infection which has been established in relation to that year to the IBCA’s satisfaction;
+  - (ii) where insufficient evidence has been provided to establish the level of severity of P’s infection in relation to that year, to be determined in accordance with paragraph (7) (and each such year is a “deemed year”)[^key-e3cedbfca7d685c184bcd50ceec4f53f];
+- (c) “the year of effective treatment” is, where P is infected with—
+  - (i) Hepatitis B and is not co-infected with Hepatitis C, 2008;
+  - (ii) Hepatitis C (whether or not P is co-infected with Hepatitis B), 2016.
+
+(7)[^key-9cce1510abdffd41ee7e917b774773c3] For the purposes of paragraph (6)(b)(ii), where on the relevant date the severity of P’s infection is—
+
+- (a) level 2, the severity of P’s infection for each deemed year is level 2;
+- (aa)[^key-d37c251b169b0ceb17399bc4047b5037] level 2B, the severity of P’s infection for each deemed year is level 2B;
+- (b) level 3, the severity of P’s infection is—
+  - (i) level 3 for each deemed year which falls within the 6-year period which ends with the final year;
+  - (ii) level 2 for every other deemed year;
+- (c) level 4, the severity of P’s infection is—
+  - (i) level 4 for each deemed year which falls within the 4-year period which ends with the final year;
+  - (ii) level 3 for each deemed year which falls within the 6-year period which ends with the year immediately before the earliest year for which the severity of P’s infection is level 4 (whether that year is a deemed year or not);
+  - (iii) level 2 for every other deemed year.
+
+(8) In paragraph (7), the “final year” is the year in which the relevant date falls.
+
+(9)[^key-c12a900a7c9ebaaf5225a50ed697cee0] In this regulation—
+
+- “**each year of P’s compensation period**” means each year during the period which—
+  - (a) begins with the first year of P’s compensation period, and
+  - (b) ends with—
+    - (i) the year P attained, or is expected to attain, the age of their healthy life expectancy, or
+    - (ii) if P dies before the date of P’s infected core application, the year that P died;
+- “**qualifying interferon treatment year**” means—
+  - (a) a year in which P began a course of interferon treatment for an infection of Hepatitis B or Hepatitis C (or both);
+  - (b) a year immediately following a year which falls under paragraph (a).
+
+#### 21. Care (core) award[^key-749c4f93b380db1274b3d2f26562a1e4]
+
+(1) The infected core award in relation to an eligible infected person (“**P**”) must include an amount by way of a care (core) award for the purpose of compensating for—
+
+- (a) loss incurred in respect of the cost of care necessitated by P’s infection, and
+- (b) except where P is an infected SSP recipient, the cost of the future care needs for that person.
+
+(2)[^key-46830541fb094327c8ff6204cfbc5ee8] Where P is deceased, did not have a Hepatitis C infection of level 4 or HIV, and—
+
+- (a) had a single infection of Hepatitis B of level 5, the amount of the care (core) award in relation to P is £41,188.49;
+- (b) had a co-infection of Hepatitis B of level 5 and Hepatitis C of level 2 , 2B[^key-575ccf8492540ead54ce9b7b31912b2c] or 3, the amount of the care (core) award in relation to P is the sum of—
+  - (i) £41,188.49, and
+  - (ii) the amount of the care (core) award that would be determined in relation to P in accordance with whichever of paragraph (4) or (6) applies to P.
+
+(3) Where P is not deceased, the amount of the care (core) award in relation to P is—
+
+- (a) where on the relevant date P has a single infection of Hepatitis C of severity level 1, £500;
+- (b) where on the relevant date P has Hepatitis B or Hepatitis C (or both, but not HIV) and the severity of P’s infection is—
+  - (i) level 2, £54,600;
+  - (ia)[^key-b16937c7991012b01677148f0347dcbd] level 2B, the sum of—
+    - (aa) £54,600, and
+    - (bb) £17,568.54 × N, where “N” is the number of years in which P began a course of interferon treatment;
+  - (ii) level 3, £195,148.32;
+  - (iii) level 4, £446,751.74;
+- (c) where on the relevant date P has HIV (whether or not they also have Hepatitis B or Hepatitis C), £679,756.62.
+
+(4) Where P is deceased and P’s compensation period is[^key-c03e6b26d5d4728ee8c66d78455bb12b] equal to or longer than the relevant period, the amount of the care (core) award in relation to P is—
+
+- (a) where P had a single infection of Hepatitis C of severity level 1, £500;
+- (b) where P had Hepatitis B or Hepatitis C (or both, but not HIV) and the severity of P’s infection at the time of their death was—
+  - (i) level 2, £40,950;
+  - (ia)[^key-003e5604e2b5426a1522b267d50a1d91] level 2B, the sum of—
+    - (aa) £40,950, and
+    - (bb) £17,568.54 × N, where “N” is the number of years in which P began a course of interferon treatment;
+  - (ii) level 3, £146,361.24;
+  - (iii) level 4, £335,063.81;
+- (c) where P had HIV (whether or not they also had Hepatitis B or Hepatitis C), £509,817.47.
+
+(5) Where P is deceased and P’s compensation period is[^key-4dbb6da1cf1a771882c3f12161c76dfb] less than the relevant period, the amount of the care (core) award in relation to P is the sum of the amounts determined as set out in paragraph (6) or (7).
+
+(6) Where P had Hepatitis B or Hepatitis C (or both, but not HIV) and the severity of P’s infection at the time of their death was—
+
+- (a) level 2, the amount for each year of P’s compensation period[^key-44f45f1c56ad24cbdbac608e145af595] is £4,095;
+- (aa)[^key-aed41e8f080e1524d59acf4a1fc7e100] level 2B—
+  - (i) for the first N years of P’s compensation period, where “N” is the number of years in which P began a course of interferon treatment, the amount is £17,568.54;
+  - (ii) for each subsequent year of P’s compensation period, the amount is £4,095;
+- (b) level 3, the amount for—
+  - (i) each of the first 6 years of P’s compensation period is £17,568.54;
+  - (ii) each subsequent year of P’s compensation period is £4,095;
+- (c) level 4, the amount for—
+  - (i) the first 6 months of P’s compensation period is £41,188.49;
+  - (ii) the subsequent year of P’s compensation period is £47,056.80;
+  - (iii) the subsequent 6 months of P’s compensation period is £23,528.40;
+  - (iv) each of the subsequent 2 years of P’s compensation period is £38,464.44;
+  - (v) each of the subsequent 6 years of P’s compensation period is £17,568.54;
+  - (vi) each subsequent year of P’s compensation period is £4,095.
+
+(7) Where P had HIV (whether or not they also had Hepatitis B or Hepatitis C), the amount for—
+
+- (a) the first 6 months of P’s compensation period[^key-c719feec3d8e3b521e34ec6ff5bd919b] is £41,188.49;
+- (b) the subsequent year of P’s compensation period is £47,056.80;
+- (c) the subsequent 6 months of P’s compensation period is £23,528.40;
+- (d) each of the subsequent 7 years of P’s compensation period is £38,464.44;
+- (e) each of the subsequent 5 years of P’s compensation period is £17,568.54;
+- (f) each subsequent year of P’s compensation period is £4,095.
+
+(8) For the purposes of paragraphs (6) and (7), where P died partway through a period for which an amount is specified, they are to be treated as having died at the end of that period (and, accordingly, the care (core) award comprises the full amount in relation to that period).
+
+(9) In this regulation—
+
+- “[^key-56ddf8f05d810f61bec47e950d92c2d2]**P’s compensation period**” means the period beginning with the first year of P’s compensation period and ending with the year in which P died;
+- “**the relevant period**” means, where P had—
+  - (a) Hepatitis B or Hepatitis C (or both, but not HIV), and the severity of P’s infection at the time of their death was—
+    - (i) level 2, 10 years;
+    - (ia) level 2B, 10 + N years, where “N” is the number of years in which P began a course of interferon treatment;[^key-2ff579bee8b2caee578ced25b73f331d]
+    - (iii) level 3, 16 years;
+    - (iv) level 4, 20 years;
+  - (b) HIV (whether or not they also had Hepatitis B or Hepatitis C), 24 years.
+
+#### 22. Support scheme top-up (core) award[^key-5b79f7bf5046ae0f10c63aca124ec17a]
+
+(1) The infected core award in relation to an eligible infected person who is an infected SSP recipient (“**P**”) must include an amount by way of a support scheme top-up (core) award for the purpose of securing that P is no worse off because of any difference between—
+
+- (a) the future amounts of the basic financial loss award, the additional financial loss (core) award and the care (core) award that P would receive under this Chapter if P were not an infected SSP recipient, and
+- (b) the amount of the support scheme payments that P will receive in relation to periods after 31st March 2025.
+
+(2) The amount of the support scheme top-up (core) award in relation to an infected SSP recipient (“**P**”) is (F + C) – (S × (Y<sub>3 </sub>+ 0.75)), where—
+
+- (a) “F” is the sum of—
+  - (i) the future amount of the basic financial loss award (for “future amount”, see regulation 7(1A)(b) and (1B)(b)[^key-8eee919c8f16238006a4bf2919008692]), and
+  - (ii) the future amount of the additional financial loss (core) award;
+- (b) “C” is the future amount of the care (core) award;
+- (c) “S” is the sum of the annual amounts of any support scheme payments payable in relation to P immediately before 1st April 2025;
+- (d) “Y<sub>3</sub>”<sub></sub>has the meaning given in regulation 7(4)(e).
+
+(3) Where the amount of the support scheme top-up (core) award is less than £0, that amount is to be treated as £0.
+
+### CHAPTER 2 — Infected supplemental payments
+
+#### SECTION 1 — General
+
+##### 23. Infected supplemental payments: general[^key-5afe414eb4b0e61bc8f188208d89b1e3]
+
+(1) A payment (an “infected supplemental payment”) is to be made under the IBCS in relation to an eligible infected person (“**P**”) in accordance with this Chapter.
+
+(2) The IBCA must make an infected supplemental payment in relation to P where—
+
+- (a) in respect of each infected supplemental award—
+  - (i) an application for that type of award has been made and determined in relation to P, or
+  - (ii) the relevant person has indicated that no application for that type of award is to be made in relation to P,
+- (b) P is eligible for at least one infected supplemental award,
+- (c) the IBCA has made an offer to make the infected supplemental payment, and
+- (d) that offer has been accepted.
+
+##### 24. Amount of an infected supplemental payment[^key-81a68f6a50e9cc0a8ec4fd1cddbee6ea]
+
+(1) The amount of an infected supplemental payment in relation to an eligible infected person (“**P**”) is—
+
+- (a) except where paragraph (3) applies, (A + B) – C;
+- (b) where paragraph (3) applies, (A + B) – (C + D).
+
+(2) In paragraph (1)—
+
+- (a) “A” is the sum of the infected supplemental awards for which P is eligible;
+- (b) “**B**”, in relation to—
+  - (i) an infected SSP recipient, is the support scheme top-up (supplemental) award (see paragraph (5));
+  - (ii) any other person, is £0;
+- (c) “C” is whichever is the greater of £0 or E – F, where—
+  - (i) “E” is the sum of any deductible payments made in relation to P;
+  - (ii) “F” is the amount of the infected core award determined in relation to P under regulation 15;
+- (d) “D” is the amount or, in relation to an infected SSP recipient, the past amount of the financial loss (severe health condition) award.
+
+(3) This paragraph applies where—
+
+- (a) P is eligible for a severe health condition award, and that award comprises an amount by way of a financial loss (severe health condition) award (see regulation 32), and
+- (b) P is eligible for an exceptional loss award, and that award comprises an amount by way of a financial loss (reduced earnings) award (see regulations 37 and 38).
+
+(4) Where paragraph (3) applies, the infected supplemental payment in relation to P is to be treated for the purposes of Chapter 3 as if it does not comprise an amount by way of a financial loss (severe health condition) award.
+
+(5) Where P is an infected SSP recipient, the amount of the support scheme top-up (supplemental) award is G – H, where—
+
+- (a) “G” is (F2 + C2) – (S × (Y<sub>3 </sub>+ 0.75)), where—
+  - (i) “F2” is the sum of the future amounts (for “future amount”, see regulation 7(1A)(b) and (1B)(b)[^key-be91ab9a11092c78fe6069194efa4806]) of—
+    - (aa) the basic financial loss award;
+    - (bb) the additional financial loss (core) award;
+    - (cc) except where paragraph (3) applies, any financial loss (severe health condition) award;
+    - (dd) any financial loss (PAYE earnings) award;
+  - (ii) “C2” is the sum of the future amounts of—
+    - (aa) the care (core) award;
+    - (bb) any care (severe health condition) award;
+  - (iii) “**S**” has the meaning given in regulation 22(2)(c);
+  - (iv) “Y<sub>3</sub>” has the meaning given in regulation 7(4)(e);
+- (b) “H” is the support scheme top-up (core) award.
+
+(6) Where the amount of the support scheme top-up (supplemental) award is less than £0, that amount is to be treated as £0.
+
+#### SECTION 2 — Infected supplemental award: unethical research practices
+
+##### 25. Unethical research practices award[^key-06472125379d1c073f6c428d659b6d97]
+
+(1) An eligible infected person (“**P**”) is eligible for an unethical research practices award where—
+
+- (a) P was subject to unethical research practices within the meaning of regulation 26, and
+- (b) an application has been made in relation to P in accordance with—
+  - (i) Chapter 2 of Part 6, and
+  - (ii) paragraphs (2) and (3).
+
+(2) An application for an unethical research practices award may only be made in relation to P if an offer for an infected core payment has been accepted in relation to P.
+
+(3) An application for unethical research practices award must be accompanied by evidence which establishes that P was subject to unethical research practices.
+
+##### 26. Meaning of “unethical research practices”[^key-d0baa3e3c26abf85aaf329c4388d2f17]
+
+(1) An eligible infected person was subject to unethical research practices if they attended Lord Mayor Treloar College[^f00032] as a student at any time during the period beginning with 1970 and ending with 1983.
+
+(2)[^key-8d9388d625c137003b97977708d04b12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-a6ed2ca0313f5273eb59018fbafa5bd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-6f3a7664a5c1c04be1f08f04f829912e] An eligible infected person was also subject to unethical research practices if—
+
+- (a) they received, in the course of NHS treatment or armed forces treatment overseas, treatment for a bleeding disorder before 1986, and
+- (b) they were not subject to unethical research practices in accordance with paragraph (1).
+
+(5) In paragraph (4), “armed forces treatment overseas” and “NHS treatment” have the meanings given in regulation 3(10).
+
+##### 27. Amount of an unethical research practices award[^key-1f8a26394ae986291bfc2bc824983ce3]
+
+(1) Where the eligible infected person was subject to unethical research practices in accordance with regulation 26(1), the amount of an unethical practices award in relation to that person is £60,000[^key-8e0b843b57823b2e195b0aee36484825].
+
+(2)[^key-6afc3a3cb2faaa805ff91c3f589530fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-16f7a9baf127aa83fecba01c89293850] Where the eligible infected person (“**P**”) was subject to unethical research practices in accordance with regulation 26(4), the amount of an unethical research practices award in relation to that person is—
+
+- (a) where P was subject to unethical research practices while aged 17 or under, £45,000;
+- (b) where P was not subject to unethical research practices while aged 17 or under, £30,000.
+
+#### SECTION 3 — Infected supplemental award: severe health condition
+
+##### 28. Severe health conditions[^key-005f2d74027f46fb6afaf87a0cff59d2]
+
+(1) For the purposes of this Section—
+
+- (a) a person has a severe health condition if they have any of the conditions mentioned in sub-paragraph (b);
+- (b) subject to paragraph (2), a person—
+  - (i) has severe sight impairment if they are to be treated as such in accordance with paragraph 2 of Schedule 2;
+  - (ii) has a neurological condition resulting in long-term severe physical disability if they are to be treated as such in accordance with paragraph 3 of Schedule 2;
+  - (iii) has a neurological condition resulting in long-term severe neurocognitive impairment if they are to be treated as such in accordance with paragraph 4 of Schedule 2;
+  - (iv) has a severe psychiatric condition if they are to be treated as such in accordance with paragraph 5 of Schedule 2;
+  - (v) has end-stage kidney disease requiring renal replacement therapy if they are to be treated as such in accordance with paragraph 6 of Schedule 2;
+  - (vi) has a Hepatitis-associated condition resulting in long-term severe disability if they are to be treated as such in accordance with paragraph 7 of Schedule 2;
+  - (vii)[^key-3c217b886a7275fc0fbc71183fafcb21] has a qualifying chronic Hepatitis-associated condition if they are to be treated as such in accordance with paragraph 8 of Schedule 2.
+
+(2) For the purposes of this Section, an eligible infected person (“**P**”) has a severe health condition in each year of the severe health condition period.
+
+(3) The severe health condition period[^key-d1b0fa9a8e666872f0f9775e8e2915e1] in relation to P is the period which—
+
+- (a) begins with—
+  - (i) in relation to end-stage kidney disease requiring renal replacement therapy, the year in which the course of that therapy exceeded 3 months;
+  - (ia)[^key-11b8c69b198a52c116eff4b382778256] in relation to a qualifying chronic Hepatitis-associated condition, 1st January 2017;
+  - (ii) in relation to any other severe health condition, the year in which P was first diagnosed with the severe health condition, and
+- (b) ends with the earlier of—
+  - (i) where P had end-stage kidney disease requiring renal replacement therapy and before the date of the application P had received a successful kidney transplant which obviated the need for renal replacement therapy, the year in which P received that treatment,
+  - (ii) if P is deceased on the date of the application, the year in which P died, or
+  - (iii) if P is not deceased on the date of the application, the year in which P attained, or is expected to attain, the age of their healthy life expectancy.
+
+##### 29. Severe health condition award: general[^key-5f80a290484903c17a1db44e8f1f01be]
+
+(1) An eligible infected person (“**P**”) is eligible for a severe health condition award where—
+
+- (a) before the date of the application, P had a severe health condition, and
+- (b) an application has been made in relation to P in accordance with—
+  - (i) Chapter 2 of Part 6, and
+  - (ii) paragraphs (2) to (4).
+
+(2) A severe health condition award may not include an amount by way of a financial loss (severe health condition) award (see regulations 30(1) and 32) if the first year of the severe health condition period is the year in which P attained the age of 66 or any subsequent year.
+
+(3) An application for a severe health condition award may only be made if—
+
+- (a) an application for an unethical research practices award has been made in relation to P, or
+- (b) the relevant person has indicated that no such application is to be made in relation to P.
+
+(4) An application for a severe health condition award must be accompanied by evidence which establishes that P has a severe health condition.
+
+(5) Where the relevant person seeks to establish that P’s severe health condition is a severe psychiatric condition in respect of which P has been assessed as needing at least level 2 care within the meaning of paragraph 1 of Schedule 2, the application must also be accompanied by evidence establishing that assessment.
+
+(6) Where the relevant person seeks to establish that the severe health condition award should include an amount by way of a financial loss (severe health condition) award, and P’s severe health condition is—
+
+- (a) end-stage kidney disease requiring renal replacement therapy, the application must also be accompanied by evidence which establishes the years in which P received that therapy;
+- (b) any other severe health condition except a Hepatitis-associated condition resulting in long-term severe disability, the application must also be accompanied by evidence which establishes each year in which P could not work (whether for part or all of the year) as a result of the severe health condition.
+
+##### 30. Amount of a severe health condition award[^key-652cc0c971d0d30ad4b9870d97c553f3]
+
+(1) The amount of a severe health condition award in relation to an eligible infected person (“**P**”) is—
+
+- (a) where P is not an infected SSP recipient, the sum of—
+  - (i) the care (severe health condition) award (see regulation 31), and
+  - (ii) the financial loss (severe health condition) award (see regulation 32);
+- (b) where P is an infected SSP recipient, the sum of—
+  - (i) the past amount of the care (severe health condition) award, and
+  - (ii) the past amount of the financial loss (severe health condition) award.
+
+(2) Where regulation 31 or 32 do not establish an amount for an eligible infected person in P’s circumstances, the amount of that award is £0.
+
+##### 31. Care (severe health condition) award[^key-a2c6bd623484403e691b7a4e789762ae]
+
+(1) The amount of the care (severe health condition) award in relation to an eligible infected person (“**P**”) is the sum of the annual amounts determined in relation to each year in which P had a severe health condition as follows.
+
+(2) Where P had more than one severe health condition in a year, the annual amount for that year is the highest of the annual amounts determined in relation to any of the severe health conditions that P had in that year.
+
+(3) Paragraph (4) sets out the annual amounts for years in which P has—
+
+- (a) severe sight impairment,
+- (b) a severe psychiatric condition in respect of which P has not been assessed as needing at least level 2 care within the meaning of paragraph 1 of Schedule 2, [^key-54adbc93172fe0af52db880ad3ef92e1]...
+- (c) end-stage kidney disease requiring renal replacement therapy , or[^key-70a47068e26a55d949decf4318239c87]
+- (d) a qualifying chronic Hepatitis-associated condition.
+
+(4) Where P has a condition listed in paragraph (3), the annual amount is—
+
+- (a) if P is not deceased on the date of the application, £5,460 for each year which is before the period of core care;
+- (b) if P is deceased on the date of the application, £4,095 for each year which is before the period of core care.
+
+(5) Paragraph (6) sets out the annual amounts for years in which P has—
+
+- (a) a neurological condition resulting in long-term severe physical disability,
+- (b) a neurological condition resulting in long-term severe neurocognitive impairment, or
+- (c) a severe psychiatric condition in respect of which P has been assessed as needing at least level 2 care within the meaning of paragraph 1 of Schedule 2.
+
+(6) Where P has a condition listed in paragraph (5)—
+
+- (a) if P is not deceased on the date of the application—
+  - (i) the annual amount is £17,964.72 for each year which is within the period of level 1 core care;
+  - (ii) the annual amount is £23,424.72 for each year which is before the period of core care;
+- (b) if P is deceased on the date of the application—
+  - (i) the annual amount is £13,473.54 for each year which is within the period of level 1 core care;
+  - (ii) the annual amount is £17,568.54 for each year which is before the period of core care.
+
+(7) Where P has a Hepatitis-associated condition resulting in long-term severe disability, and—
+
+- (a) P is not deceased on the date of the application, the annual amount is £5,460 for each year which is before the period of core care;
+- (b) P is deceased on the date of the application, the annual amount is £4,095 for each year which is within the period which—
+  - (i) begins with the year which is 10 years before P’s first year of core care, and
+  - (ii) ends with the year which is immediately before P’s first year of core care.
+
+(8) In this regulation—
+
+- “**period of core care**” means the period which begins with P’s first year of core care and ends with P’s final year of core care;
+- “**period of level 1 core care**” means the period of 10 years which begins with P’s first year of core care.
+
+(9) In paragraph (8)—
+
+- “**final year of core care**” means—
+  - (a) where P is not deceased on the date of the application, the year in which P attained, or is expected to attain, the age of their healthy life expectancy;
+  - (b) where P is deceased on the date of the application, the year in which P died;
+- “**first year of core care**” means—
+  - (a) where P has HIV (whether or not they also have Hepatitis B or Hepatitis C), the year which is 23 years before P’s final year of core care;
+  - (b) where P has Hepatitis B or Hepatitis C (or both, but not HIV) and the infection is of—
+    - (i) severity level 2, the year which is 9 years before P’s final year of core care;
+    - (ia) severity level 2B, the year which is 9 + N years before P’s final year of core care, where “N” is the number of years in which P began a course of interferon treatment;[^key-8adc7b4615a3092ca79ba04d641b7d99]
+    - (iii) severity level 3, the year which is 15 years before P’s final year of core care;
+    - (iv) severity level 4, the year which is 19 years before P’s final year of core care.
+
+##### 32. Financial loss (severe health condition) award[^key-6338fba8c2a08fc9a6937fab1b96fcab]
+
+(1) The amount of the financial loss (severe health condition) award in relation to an eligible infected person (“**P**”) is the sum of—
+
+- (a) the annual amounts determined in accordance with paragraphs (2) to (7), and
+- (b) if paragraph (8) applies in relation to P, £71,178.
+
+(2) An annual amount is to be determined in relation to each year—
+
+- (a) in which P has the severe health condition,
+- (b) in which—
+  - (i) where P’s severe health condition is end-stage kidney disease requiring renal replacement therapy, P received that therapy (however many times P received that therapy in that year);
+  - (ii) where P’s severe health condition is any other severe health condition except a Hepatitis-associated condition resulting in long-term severe disability, P could not work as a result of the severe health condition (whether for part or all of that year), and
+- (c) in respect of which P’s additional financial loss (core) award (see regulation 20) included an annual amount (the “core annual amount”) of less than £29,657.
+
+(3) Where P had more than one severe health condition in a year, the annual amount for that year is the highest of the annual amounts determined in relation to any of the severe health conditions that P had in that year.
+
+(4) Notwithstanding the following—
+
+- (a) for any year before the year in which P attained the age of 16, the annual amount is £0;
+- (b) for the year in which P attained, or is expected to attain, the age of 66 and each subsequent year, the annual amount is 50% of the annual amount that would (but for this sub-paragraph) be determined in accordance with this regulation.
+
+(5) Except where P’s severe health condition is a specified condition[^key-74c8f018b1d9679392c94124d83cb3b2], the annual amount for each year is the difference between the core annual amount for that year and £29,657.
+
+(6) Paragraph (7) sets out the annual amounts for cases where—
+
+- (a) P’s severe health condition is a specified condition[^key-e8b7ad877d2276f5d0bf24e239214fdd], and
+- (b) P is not deceased on the date of the application.
+
+(7) Where the core annual amount for a year was determined in accordance with—
+
+- (a) regulation 20(5)(a)(i) or (5)(b)(i)(aa), the annual amount for that year is £8,897;
+- (b) regulation 20(5)(b)(i)(bb), the annual amount for that year is £11,863.
+
+(8) This paragraph applies where—
+
+- (a) P’s severe health condition is a specified condition[^key-9d873cf09844d0e0a368fb86120e1663], and
+- (b) P is deceased on the date of the application.
+
+(9)[^key-be79f3ca95a980683c1983785ea163d0] In this regulation, “**specified condition**” means—
+
+- (a) a Hepatitis-associated condition resulting in long-term severe disability;
+- (b) a qualifying chronic Hepatitis-associated condition.
+
+#### SECTION 4 — Infected supplemental award: exceptional loss
+
+##### 33. Exceptional reduced earnings[^key-68f5ce838053d41066d7eb87b8fbc228]
+
+(1) For the purposes of this Section, an eligible infected person (“**P**”) has suffered exceptional reduced PAYE earnings if—
+
+- (a) as a result of an infection or any associated treatment, P has suffered a reduction in PAYE earnings because they can no longer—
+  - (i) perform work that is remunerated at the same level as the work they were performing before they were diagnosed with the infection, or
+  - (ii) work for the same amount of time of that they could work for before they were diagnosed with the infection, [^key-d9a3be5bd27563e0cf47a21982fc1a6c]...
+- (b)[^key-d17d8ba23eab1d7f6954b16a6d071815] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) For the purposes of this Section, an eligible infected person (“**P**”) has suffered exceptional reduced self-employment earnings if—
+
+- (a) as a result of an infection or any associated treatment, P has suffered a reduction in self-employment earnings because they can no longer—
+  - (i) perform work that is remunerated at the same level as the work they were performing before they were diagnosed with the infection, or
+  - (ii) work for the same amount of time that they could work for before they were diagnosed with the infection, and
+- (b) the sum of the 5-year average of P’s gross self-employment earnings before the first tax year of reduced earnings and the 5-year average of P’s gross PAYE earnings before the first tax year of reduced earnings is—
+  - (i) where P has HIV (whether or not P also has Hepatitis B or Hepatitis C), at least the 75th percentile;
+  - (ii) where P has Hepatitis B or Hepatitis C (or both, but not HIV), at least the 60th percentile.
+
+(3) For the purposes of paragraph (2)(b), the percentile of the sum of the 5-year averages of P’s gross self-employment earnings and P’s gross PAYE earnings is found by—
+
+- (a) aggregating those earnings, and
+- (b) applying step 1 in regulation 37(9) to those aggregated earnings, and for these purposes the year of the aggregated earnings is to be treated as the year in which P is alleged to have first suffered exceptional reduced self-employment earnings.
+
+(4) In this Section, “**5-year average**”, in relation to a description of P’s earnings before a specified tax year, is the average of P’s earnings of that description in each of the 5 tax years immediately before the specified tax year, and for these purposes P’s earnings in a tax year other than the tax year immediately before the specified tax year are to be adjusted in accordance with paragraph (5).
+
+(5) For the purposes of paragraph (4), P’s earnings in a tax year other than the tax year immediately before the specified tax year are to be treated as if they had, on each 6th April during the period which—
+
+- (a) begins with (and includes) the 6th April immediately after tax year of the earnings, and
+- (b) ends with (and includes) 6th April of the tax year immediately before the specified tax year,
+
+been compounded by the consumer price index over the 12-month period ending with the month of September before that 6th April.
+
+(6) In this Section—
+
+- “**first tax year of reduced earnings**” means the tax year in which it is alleged that P first suffered exceptional reduced self-employment earnings;
+- “PAYE earnings”—
+  - (a) means basic pay (including pay such as fees and paid leave), overtime pay and incentive pay (including pay such as bonuses, piecework and commission) from an employment, and for these purposes “**employment**” has the meaning given by sections 4 and 5 of the Income Tax (Earnings and Pensions) Act 2003[^f00033];
+  - (b) excludes other forms of pay, such as expenses payments, benefits in kind and anything provided or made available in lieu of a cash payment otherwise payable to the employee (including salary sacrifice schemes);
+- “**self-employment earnings**” means the profits of any trade, profession or vocation carried on by P, and for these purposes “profits” are profits determined in accordance with Part 2 of the Income Tax (Trading and Other Income) Act 2005[^f00034];
+- “**tax year**” means the period of 12 months which begins with 6th April and ends with 5th April.
+
+##### 34. Excess past care costs[^key-25972d54ddbf4cf059c18c0b7209319c]
+
+(1) For the purposes of this Section, an eligible infected person (“**P**”) has incurred excess actual past care costs if—
+
+- (a) money has been paid to obtain commercially-provided care to P during the relevant period, and
+- (b) it does not appear to the IBCA that the care was needed other than as a result of P’s infection.
+
+(2) For the purposes of this Section, an eligible infected person (“**P**”) has incurred excess deemed past care costs in relation to a level of care if—
+
+- (a) money has been paid to obtain commercially-provided care of that level for P for a period of at least 6 months during the relevant period,
+- (b) it does not appear to the IBCA that the care was needed other than as a result of P’s infection, and
+- (c) either—
+  - (i) P was deceased on the date of the application, or
+  - (ii)[^key-5d7339e89bde9c3e7445b3ac661fa526] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^key-23c5ad7b03af80df83b8cfecdf03fb57] P has or had an infection of Hepatitis B or C of severity level 2B (or both, but not HIV).
+
+(3) In this Section—
+
+- “P’s total past care award” is the sum of—
+  - (a) the past amount of P’s care (core) award, and
+  - (b) the past amount of P’s care (severe health condition) award (if any);
+- “the relevant period”, except in regulation 40, is the period which—
+  - (a) begins with the first year of P’s compensation period[^key-c866a5f48e6f7212baf828db48726e53], and
+  - (b) ends with the earlier of—
+    - (i) if P is deceased, the year in which P died, or
+    - (ii) 31st March 2025.
+
+(4) In this Section, level 1 care is—
+
+- (a) care which was provided for at least 6 hours per week, or
+- (b) care which included—
+  - (i) support with home maintenance,
+  - (ii) support with heavy domestic tasks once a week, and
+  - (iii) support with attending medical appointments or with community access once a week.
+
+(5) In this Section, level 2 care is—
+
+- (a) care which—
+  - (i) was provided for at least 16.5 hours per week, and
+  - (ii) included at least 1.5 hours per day of support with personal care, or
+- (b) care which included—
+  - (i) support with home maintenance,
+  - (ii) support with light domestic tasks once a day,
+  - (iii) support with personal care once a day,
+  - (iv) support with heavy domestic tasks once a week, and
+  - (v) support with attending medical appointments or with community access once a week.
+
+(6) In this Section, level 3 care is—
+
+- (a) care which—
+  - (i) was provided for at least 34 hours per week, and
+  - (ii) included at least 4 hours per day of support with personal care, or
+- (b) care which included—
+  - (i) support with home maintenance,
+  - (ii) support with light domestic tasks once a day,
+  - (iii) support with personal care twice a day,
+  - (iv) support with heavy domestic tasks once a week,
+  - (v) support with mobility once a week,
+  - (vi) support with preparing and consuming food and drink once a day, and
+  - (vii) support with attending medical appointments or with community access more than once a week.
+
+(7) In this Section, level 4 care is—
+
+- (a) care which—
+  - (i) was provided for at least 41 hours per week, and
+  - (ii) included at least 5 hours per day of support with personal care, or
+- (b) care which included—
+  - (i) support with home maintenance,
+  - (ii) support with light domestic tasks more than twice a day,
+  - (iii) support with personal care more than twice a day,
+  - (iv) support with heavy domestic tasks once a day,
+  - (v) support with mobility once a day,
+  - (vi) support with preparing and consuming food and drink more than once a day,
+  - (vii) support with administering medical treatment once a day, and
+  - (viii) support with attending all medical appointments and with all hospital transfers.
+
+(8) In this Section, level 5 care is end of life care.
+
+(9) For the purposes of this Section, where the care received by a person at a particular time falls within a description of more than one level of care, that care is to be treated as being of the highest level of the descriptions it falls within.
+
+(10) In this regulation—
+
+- “**community access**” means accessing facilities such as public transport, leisure centres, libraries, banks and shops;
+- “**heavy domestic tasks**” includes vacuuming, laundry, changing bed sheets and shopping but excluding support with preparing or eating a meal;
+- “**light domestic tasks**” includes fetching and carrying but excludes support with preparing or eating a meal;
+- “**mobility**” means moving from place to place, including stair-climbing and transfers into and out of bed, a shower or a bath;
+- “**personal care**” includes washing, dressing and grooming;
+- “**support with home maintenance**” means support with maintaining a habitable home environment, such as with gardening and decorating.
+
+##### 35. Exceptional loss award: general[^key-c9d4fd24067a4a16d72ab768b907980f]
+
+(1) An eligible infected person (“**P**”) is eligible for an exceptional loss award where—
+
+- (a) P [^key-1600bf634b274b387a85d8f5982a10ee]...—
+  - (i) has[^key-edb0234e7600d44b70049821ad2bc30f] suffered exceptional reduced PAYE earnings,
+  - (ii) has[^key-4eb3d9518f4e6555927143a1f406fa47] suffered exceptional reduced self-employment earnings,
+  - (iia)[^key-131a488481368d5bd46d704054869353] is eligible for the financial loss (potential earning capacity) award,
+  - (iii) has[^key-acf48de7f9d90c11f56e133dc03541f9] incurred excess actual past care costs, or
+  - (iv) has[^key-ff53a4b0f1d69cb442edfc09c734e6f6] incurred excess deemed past care costs in relation to a level of care, and
+- (b) an application has been made in relation to P in accordance with—
+  - (i) Chapter 2 of Part 6, and
+  - (ii) paragraphs (3) to (7).
+
+(2) An exceptional loss award may only include—
+
+- (a) one of the following (whether or not it also includes an amount by way of an award mentioned in sub-paragraph (b))—
+  - (i)[^key-f4b3769ff115509f4f41dea7a402019b] an amount by way of a financial loss (reduced earnings) award, or
+  - (ii) an amount by way of a financial loss (potential earning capacity) award;
+- (b) one of the following (whether or not it also includes an amount by way of an award mentioned in sub-paragraph (a))—
+  - (i) an amount by way of a care (excess actual costs) award, or
+  - (ii) an amount by way of a care (excess deemed costs) award.
+
+(3) An application for an exceptional loss award may only be made in relation to P if—
+
+- (a) an application for a severe health condition award has been made in relation to P, or
+- (b) the relevant person has indicated that no such application is to be made in relation to P.
+
+(4) Where the relevant person seeks to establish that the exceptional loss award should include an amount by way of a financial loss (PAYE earnings) award, the application must be accompanied by evidence which establishes—
+
+- (a) P’s age when P first suffered exceptional reduced PAYE earnings,
+- (b) P’s actual gross earnings in the 12-month period which ended with the month before P first suffered exceptional reduced PAYE earnings,
+- (c) P’s actual gross earnings in respect of at least 2 out of 3 years of each rolling period of 3 years within the period which—
+  - (i) begins with the year in which P first suffered exceptional reduced PAYE earnings, and
+  - (ii) ends with the earlier of—
+    - (aa) if P is deceased, the year in which P died,
+    - (bb) the year in which P attained the age of 65, or
+    - (cc) the year immediately before the year in which the date of the application falls, and
+- (d) that P’s exceptional reduced PAYE earnings were due to an infection or any associated treatment.
+
+(5) If the period described in paragraph (4)(c)(i) and (ii) is shorter than 3 years, then the application must be accompanied by evidence which establishes P’s actual gross earnings in each year of that period.
+
+(6) Where the relevant person seeks to establish that the exceptional loss award should include an amount by way of a financial loss (self-employment earnings) award, the application must be accompanied by evidence which establishes—
+
+- (a) P’s self-employment earnings and PAYE earnings—
+  - (i) in each tax year of the pre-reduction period, and
+  - (ii) in each tax year of the post-reduction period in respect of which the relevant person seeks to establish that P has suffered exceptional reduced self-employment earnings, and
+- (b) that P’s exceptional reduced self-employment earnings were due to an infection or any associated treatment.
+
+(7) In paragraph (6)(a)—
+
+- “the pre-reduction period” is the period which—
+  - (a) begins with the tax year which is 5 years before the tax year in which P first suffered exceptional reduced self-employment earnings, and
+  - (b) ends with the tax year which is immediately before the tax year in which P first suffered exceptional reduced self-employment earnings,
+- “the post-reduction period” is the period which—
+  - (a) begins with the tax year in which P first suffered exceptional reduced self-employment earnings, and
+  - (b) ends with the earlier of—
+    - (i) if P is deceased, the tax year in which P died,
+    - (ii) the tax year in which P attained the age of 65, or
+    - (iii) the tax year immediately before the year in which the date of the application falls.
+
+(8) Where the relevant person seeks to establish that the exceptional loss award should include an amount by way of a care (excess actual costs) award, the application must be accompanied by evidence which establishes the amount of money that was paid to obtain commercially-provided care for P during the relevant period.
+
+(9) Where the relevant person seeks to establish that the exceptional loss award should include an amount by way of a care (excess deemed costs) award in relation to a level of care, the application must be accompanied by evidence which establishes that money was paid to obtain commercially-provided care of that level for P for a period of 6 months during the relevant period.
+
+(10) If the application is accompanied by evidence establishing that P has incurred excess deemed past care costs in relation to a higher level of care than any applicable level of care, that evidence is to be treated as evidence establishing that P has incurred excess deemed past care costs in relation to the highest applicable level of care in relation to which it has not otherwise been established that P has incurred excess deemed past care costs.
+
+(11) In paragraph (10), “**applicable level of care**” means a level of care in respect of which a care (excess deemed costs) award (see regulation 40) may comprise an amount in relation to P.
+
+##### 36. Amount of an exceptional loss award[^key-db6c25ac0db4154f91fd6ccce3bce79e]
+
+(1) The amount of an exceptional loss award in relation to an eligible infected person (“**P**”) is the sum of—
+
+- (a) where P—
+  - (i) is not an infected support scheme recipient, the amount of one of—
+    - (aa)[^key-793ead753699e61c013cdf29cfb149d8] the financial loss (reduced earnings) award, or
+    - (bb) the financial loss (potential earning capacity) award (see regulation 38A);
+  - (ii) is an infected support scheme recipient, the past amount of one of the awards mentioned in paragraph (i), and
+- (b) the amount of one of—
+  - (i) the care (excess actual costs) award (see regulation 39), or
+  - (ii) the care (excess deemed costs) award (see regulation 40).
+
+(2) Where regulation 37, 38, 39 or 40 does not establish an amount for an eligible infected person in P’s circumstances, the amount of that award is £0.
+
+##### 37. Financial loss (PAYE earnings) award[^key-b11fb4b5e48d8aa6960e812bd40f9a32]
+
+(1) The amount of the financial loss (PAYE earnings) award in relation to an eligible infected person (“**P**”) is (A + B) – C, where—
+
+- (a) “A” is the sum of the annual amounts in relation to each year of the reduced earnings period determined in accordance with paragraph (3);
+- (b) “B” is the sum of the annual amounts in relation to each year of the reduced pension period (if any) determined in accordance with paragraph (4);
+- (c) “C” is the amount of the additional financial loss (core) award in relation to P.
+
+(2) For the purposes of this regulation—
+
+- “the reduced earnings period” is the period which—
+  - (a) begins with the year in which P first suffered exceptional reduced PAYE earnings, and
+  - (b) ends with—
+    - (i) the year in which P attained, or is expected to attain, the age of 65, or
+    - (ii) if P died before that year, the year in which P died;
+- “the reduced pension period” is the period (if any) which—
+  - (a) begins with the year in which P attained, or is expected to attain, the age of 66, and
+  - (b) ends with—
+    - (i) the year in which P attained, or is expected to attain, the age of their healthy life expectancy, or
+    - (ii) if P died before that year, the year in which P died.
+
+(3) For each year of the reduced earnings period, the annual amount is the lesser of—
+
+- (a) £54,028, or
+- (b) D – E, where—
+  - (i) “D” is P’s deemed average PAYE annual earnings, net of reductions;
+  - (ii) “E” is P’s deemed actual PAYE earnings for the year, net of reductions.
+
+(4) For each year of the reduced pension period (if any), the annual amount is ((((F – 6,240) × 0.061) × G) – H) ÷ I, where—
+
+- (a) “F” is P’s deemed average PAYE annual earnings;
+- (b) “G” is the number of years in the reduced earnings period;
+- (c) “H” is the sum of the employer pension contribution amounts determined in relation to each year of the reduced earnings period, being (J – 6,240) × 0.061 for each year, where J is P’s deemed actual PAYE earnings for that year;
+- (d) “I” is the number of years in the reduced pension period.
+
+(5) For the purposes of determining the employer pension contribution amount in relation to a year in accordance with paragraph (4)(c), where P’s deemed actual PAYE earnings for that year are £6,240 or less, the year is to be disregarded.
+
+(6) In this regulation—
+
+- (a) “**net of reductions**”, in relation to earnings, means the amount of those earnings less the tax and national insurance (if any) that would have been paid on those earnings under the rates which applied on 31st March 2024 if the earnings were P’s sole source of income;
+- (b) “P’s deemed actual PAYE earnings” are, in relation to any year during the reduced earnings period which is—
+  - (i) before the year in which the date of the application falls, the 2023 equivalent of P’s actual PAYE earnings in that year (for “2023 equivalent”, see paragraph (9));
+  - (ii) any other year, the 2023 equivalent of P’s actual PAYE earnings in the year immediately before the year in which the date of the application falls;
+- (c) “P’s deemed average PAYE annual earnings” are K × L, where—
+  - (i) “K” is the 2023 equivalent of P’s pre-reduction PAYE annual earnings;
+  - (ii) “L” is the multiplier in the table in paragraph (10) which corresponds to P’s age on first suffering reduced earnings and to the percentile of P’s pre-reduction PAYE annual earnings, using linear interpolation between the closest values in the table where the percentile of P’s pre-reduction PAYE annual earnings falls between the values set out in the table.
+
+(7) For the purposes of paragraph (6)(b), P’s actual PAYE earnings in a year are—
+
+- (a) P’s actual PAYE earnings as established for that year by evidence which accompanies P’s application;
+- (b) where P’s application is not accompanied by such evidence in relation to a year (“the unverified year”), the average of, where the unverified year is—
+  - (i) the first year in which P suffered exceptional reduced PAYE earnings, P’s actual PAYE earnings in each of the two years immediately after that year;
+  - (ii) the final year of the reduced earnings period, P’s actual PAYE earnings in each of the two years immediately before that year;
+  - (iii) any other year during the reduced earnings period, P’s actual PAYE earnings in each of—
+    - (aa) the year which is immediately before the unverified year, and
+    - (bb) the year which is immediately after the unverified year.
+
+(8) For the purposes of—
+
+- (a) paragraph (6)(c), P’s pre-reduction PAYE annual earnings are the amount of P’s actual PAYE earnings in the 12-month period which ended with the month before P first suffered exceptional reduced PAYE earnings as established by evidence which accompanies P’s application, and
+- (b) determining the percentile of those earnings in accordance with step 1 in paragraph (9), the year of P’s pre-reduction PAYE annual earnings is deemed to be the year immediately before the year in which P first suffered exceptional reduced PAYE earnings.
+
+(9) For the purposes of paragraph (6)(b) and (c), the 2023 equivalent of, as the case may be, P’s actual PAYE earnings in a year or P’s pre-reduction PAYE annual earnings is found by taking the following steps—
+
+*Step 1*
+
+Identify the percentile of, as the case may be, P’s actual PAYE earnings in a year or P’s pre-reduction PAYE annual earnings by reference to the relevant earnings dataset using linear interpolation between the closest values where the earnings fall between the values set out in the dataset.
+
+The relevant earnings dataset is, where the year of the earnings was—
+
+- (a) 1997 or any subsequent year, the “Full-Time” worksheet of the Earnings and hours worked, age group: ASHE Table 6[^f00035] for—
+  - (i) in the case of 1997 and 1998, gross weekly pay;
+  - (ii) in the case of any subsequent year, gross annual pay,
+
+  which corresponds to the year of the earnings and to P’s age at the beginning of that year, and where the revised edition of the dataset is available it is to be used in preference to the provisional edition;
+- (b) any year during the period beginning with 1974 and ending with 1996, the “All Occupations” table of the New Earnings Survey – Age Group Gross Weekly and Hourly excluding Overtime data[^f00036] which corresponds to the year of the earnings, to P’s age at the beginning of that year, and to P’s gender;
+- (c) any year during the period beginning with 1970 and ending with 1973, the entry in the “GB Median Time-series” worksheet of the Earnings time series of median gross weekly earnings from 1968 to 2023[^f00037] which corresponds to the year of the earnings and to P’s gender.
+
+For the purposes of this step—
+
+- (a) where the percentile of, as the case may be, P’s actual PAYE earnings in a year or P’s pre-reduction PAYE annual earnings are higher than the 90th percentile, they are to be treated as if they were the 90th percentile;
+- (b) where P was 16 or 17 in the year of the earnings, they are to be treated as if they were 18;
+- (c) where, as the case may be, the year of P’s actual PAYE earnings in a year or P’s pre-reduction PAYE annual earnings was before 1970, the year of those earnings is to be treated as if it were 1970.
+
+*Step 2*
+
+Identify the earnings which are at that same percentile in the “Full-Time” worksheet of Table 6.7a of the Earnings and hours worked, age group: ASHE dataset for 2023[^f00038] using linear interpolation between the closest values where the percentile falls between the values set out in the dataset.
+
+Those earnings are the 2023 equivalent of, as the case may be, P’s actual PAYE earnings[^key-db1d61b498b2e799ebf21cf24f7b4631] in a year or P’s pre-reduction PAYE annual earnings.
+
+(10) The table mentioned in paragraph (6)(c)(ii) is—
+
+<table>
+<tbody>
+<tr><td rowspan="2"><em>P’s age on first suffering exceptional reduced PAYE earnings</em></td><td colspan="9"><em>Percentile of P’s pre-reduction PAYE earnings determined in accordance with step 1 of paragraph (9)</em></td></tr>
+<tr><td><em>10</em></td><td><em>20</em></td><td><em>30</em></td><td><em>40</em></td><td><em>50</em></td><td><em>60</em></td><td><em>70</em></td><td><em>80</em></td><td><em>90</em></td></tr>
+<tr><td>18 to 21</td><td>1.82</td><td>1.67</td><td>1.63</td><td>1.65</td><td>1.7</td><td>1.8</td><td>1.88</td><td>1.99</td><td>2.26</td></tr>
+<tr><td>22 to 29</td><td>1.09</td><td>1.12</td><td>1.15</td><td>1.19</td><td>1.24</td><td>1.27</td><td>1.3</td><td>1.35</td><td>1.45</td></tr>
+<tr><td>30 to 39</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1.01</td><td>1.02</td><td>1.04</td><td>1.05</td><td>1.09</td></tr>
+<tr><td>40 or older</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+</tbody>
+</table>
+
+[^key-9212fc06dede54071273e4f4390311cb]
+
+##### 38. Financial loss (self-employment earnings) award[^key-bb23a40a2d396fe86c8a7356b436268b]
+
+(1) The amount of the financial loss (self-employment earnings) award in relation to an eligible infected person (“**P**”) is A – B, where—
+
+- (a) “A” is the sum of the annual amounts in relation to each tax year of the reduced earnings period determined in accordance with paragraph (3);
+- (b) “B” is the amount of the additional financial loss (core) award in relation to P.
+
+(2) For the purposes of this regulation, “the reduced earnings period” is the period which—
+
+- (a) begins with the tax year in which P first suffered exceptional reduced self-employment earnings, and
+- (b) ends with—
+  - (i) the tax year in which P attained, or is expected to attain, the age of 65, or
+  - (ii) if P died before that tax year, the tax year in which P died.
+
+(3) For each tax year of the reduced earnings period, the annual amount is the amount of P’s reduction in earnings in that tax year, adjusted to 2023 values if the tax year is not the 2023 tax year.
+
+(4) If P’s application for an exceptional loss award is not accompanied by evidence which establishes P’s net self-employment earnings and P’s net PAYE earnings for a tax year, the annual amount for that tax year is £0.
+
+(5) For the purposes of paragraph (3)—
+
+- (a) the amount of P’s reduction in earnings in a tax year (“the relevant tax year”) is the greater of £0 or C – D, where—
+  - (i) “C” is the lesser of £54,028 or the amount of P’s average pre-reduction annual earnings in the relevant tax year as determined in accordance with paragraph (6);
+  - (ii) “D” is the sum of—
+    - (aa) P’s net self-employment earnings in the relevant tax year, and
+    - (bb) P’s net PAYE earnings in the relevant tax year;
+- (b) “**adjusted to 2023 values**”, in relation to the amount of P’s reduction in earnings in a tax year (“the relevant tax year”), means—
+  - (i) if the relevant tax year is before the 2023 tax year, what the amount would have been if it had, on each 6th April during the period which—
+    - (aa) begins with (and includes) the 6th April immediately after the relevant tax year, and
+    - (bb) ends with (and includes) 6th April 2023,
+
+    been compounded by the consumer price index over the 12-month period ending with the month of September before that 6th April;
+  - (ii) if the relevant tax year is after the 2023 tax year, what the amount would have been if it had—
+    - (aa) on the 5th April of the tax year immediately before the year of the earnings, and
+    - (bb) on each previous 5th April until (and including) 5th April 2024,
+
+    been discounted by the consumer price index over the 12-month period ending with the month of September before that 5th April.
+
+(6) For the purposes of paragraph (5)(a)(i), the amount of P’s average pre-reduction annual earnings in a relevant tax year is the amount that they would have been if they had, on each 6th April during the period which—
+
+- (a) begins with (and includes) the 6th April of the first tax year of reduced earnings, and
+- (b) ends with (and includes)—
+  - (i) where the relevant tax year is before the application tax year, the 6th April immediately after the relevant tax year;
+  - (ii) where the relevant tax year is the application tax year or any subsequent tax year, the 6th April of the application tax year,
+
+been compounded by the consumer price index over the 12-month period ending with the month of September before that 6th April.
+
+(7) For the purposes of paragraph (5)—
+
+- (a) “P’s average pre-reduction annual earnings” are the sum of—
+  - (i) the 5-year average of P’s net self-employment earnings before the first tax year of reduced earnings, and
+  - (ii) the 5-year average of P’s net PAYE earnings before the first tax year of reduced earnings;
+- (b) “P’s net self-employment earnings” are, in relation to any tax year during the reduced earnings period which is—
+  - (i) before the application tax year, P’s net self-employment earnings in that tax year;
+  - (ii) any other year, the 5-year average of P’s net self-employment earnings before the application tax year;
+- (c) “P’s net PAYE earnings” are, in relation to any tax year during the reduced earnings period which is—
+  - (i) before the application tax year, P’s net PAYE earnings in that tax year;
+  - (ii) any other year, the 5-year average of P’s net PAYE earnings before the application tax year.
+
+(8) In this regulation—
+
+- (a) “**the 2023 tax year**” means the tax year which begins with 6th April 2023 and ends with 5th April 2024.
+- (b) “**the application tax year**” means the tax year in which the date of the application falls;
+- (c) “**net**”, in relation to earnings in a tax year, means the amount of those earnings less the tax and national insurance (if any) that would have been paid on those earnings under the rates which applied in the tax year.
+
+##### 38A. Financial loss (potential earning capacity) award[^key-53b5960c8182f4f3c24e365f2faa975e]
+
+(1) An eligible infected person (“**P**”) is eligible for the financial loss (potential earning capacity) award where—
+
+- (a) on the relevant date, P has an infection of—
+  - (i) HIV, or
+  - (ii) Hepatitis B or C of severity level 2, 2B, 3 or 4, and
+- (b) paragraph (2) or (3) applies to P.
+
+(2) This paragraph applies to P if P began a qualifying period of employment in a higher earning job—
+
+- (a) within the period of 10 years ending with the date on which P contracted an infection mentioned in paragraph (1)(a), and
+- (b) before P attained the age of 66.
+
+(3) This paragraph applies to P if P received a qualifying offer of employment for a higher earning job—
+
+- (a) within the period of—
+  - (i) where P did not begin the job because of a qualifying reason, 10 years ending with the date on which P contracted an infection mentioned in paragraph (1)(a);
+  - (ii) otherwise, one year ending with the date on which P contracted an infection mentioned in paragraph (1)(a), and
+- (b) before P attained the age of 66.
+
+(4) The amount of the financial loss (potential loss of earnings) award is £60,000.
+
+(5) In paragraph (1)(a)—
+
+- (a) a reference to a person having an infection of HIV includes a reference to a person having a co-infection of HIV and Hepatitis B or Hepatitis C (or both);
+- (b) a reference to a person having an infection of Hepatitis B or Hepatitis C includes a reference to a person having a co-infection of Hepatitis B and Hepatitis C (but not of HIV).
+
+(6) For the purposes of paragraphs (2) and (3)—
+
+- (a) “**qualifying period of employment**” means a period of employment of at least a year;
+- (b) “**qualifying offer of employment**” means an offer of employment for a period of at least a year;
+- (c) “qualifying reason”—
+  - (i) means a reason which did not arise through any wrongdoing of P, and
+  - (ii) includes reasons such as—
+    - (aa) P’s pregnancy;
+    - (bb) P’s ill health or injury;
+    - (cc) the need for P to provide care to another;
+    - (dd) P undertaking training or education;
+- (d) “**higher earning job**” means a job which falls into a job description for which the median gross pay is at least £38,504 in the “Full-Time” worksheet of the Earnings and hours worked, occupation by four-digit SOC: ASHE Table 14.7a, 2023 revised edition;
+- (e) where a job falls into multiple descriptions in the Table, the job is treated as falling into the most specific description into which the job falls, ignoring any descriptions for which there is no median gross pay value in the Table.
+
+##### 39. Care (excess actual costs) award[^key-8f023ade8ff3669129741aae29c40e10]
+
+(1) The amount of the care (excess actual costs) award in relation to an eligible infected person (“**P**”) is the lesser of—
+
+- (a) A – B, where—
+  - (i) “A” is the sum of the annual amounts for each year of the relevant period, and the annual amount for a year is the aggregate of money paid to obtain commercially-provided care for P during that year as established by evidence accompanying the application and treated as increased in accordance with paragraph (2);
+  - (ii) “B” is P’s total past care award, or
+- (b) 0.25 × (B ÷ C), where—
+  - (i) “B” is P’s total past care award;
+  - (ii) “C” is—
+    - (aa) 1, if P is not deceased on the date of their infected core application and is not an infected SSP recipient;
+    - (bb) otherwise, 0.75.
+
+(2) The aggregate of money paid to obtain commercially-provided care for P during each year of the relevant period is to be treated as if it had been, at the beginning of each April during the period which—
+
+- (a) begins with the April after the end of the year in which the money was paid, and
+- (b) ends with April 2024,
+
+compounded by the consumer price index over the 12-month period ending with the month of September before that April.
+
+(3) Where the amount of the care (excess actual costs) award is less than £0, that amount is to be treated as £0.
+
+##### 40. Care (excess deemed costs) award[^key-0a1b03f78dac1a867a5c1463f8d456f3]
+
+(1) The amount of the care (excess deemed costs) award in relation to an eligible infected person (“**P**”) is the sum of the amounts in relation to each level of care in respect of which P has incurred excess deemed past care costs determined—
+
+- (a) where P is deceased on the date of the application and—
+  - (i) P’s period of infection was equal to or longer than the relevant period, in accordance with paragraph (2);
+  - (ii) P’s period of infection was shorter than the relevant period, in accordance with paragraph (3);
+- (b)[^key-05d95b46ace795b28b0c0f60438c364f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-5df9a6e0e3c8e770186143bc45c2cced] where P was not deceased on the date of the application, in accordance with paragraph (4A).
+
+(2) Where P incurred excess deemed past care costs in respect of—
+
+- (a) level 1 care and P had HIV or an infection of Hepatitis B or Hepatitis C of severity level 2 , 2B,[^key-a56e2c2a354a1d8b9d748637fb6ea416] 3 or 4, the amount is £13,650;
+- (b) level 2 care and P had—
+  - (i) HIV, the amount is £29,280.90;
+  - (ii) an infection of Hepatitis B or Hepatitis C of severity level 3 or 4, the amount is £35,137.08;
+- (c) level 3 care and P had—
+  - (i) HIV, the amount is £89,750.36;
+  - (ii) an infection of Hepatitis B or Hepatitis C of severity level 4, the amount is £25,642.96;
+- (d) level 4 care and P had HIV or an infection of Hepatitis B or Hepatitis C of severity level 4, the amount is £23,528.40;
+- (e) level 5 care and P had HIV, an infection of Hepatitis B of severity level 4 or 5 or of Hepatitis C of severity level 4, the amount is £13,729.50.
+
+(3) The amount is (A ÷ 0.75) × 0.25.
+
+(4) In paragraph (3), “A” is, where P has incurred excess deemed past care costs in respect of—
+
+- (a) level 1 care, the amount (if any) of the part of the care (core) award which was determined in relation to P in accordance with whichever of paragraphs (6)(a), (b)(ii) or (c)(vi) or (7)(f) of regulation 21 apply in relation to P;
+- (b) level 2 care, the amount (if any) of the part of the care (core) award which was determined in relation to P in accordance with whichever of paragraphs (6)(b)(i) or (c)(v) or (7)(e) of regulation 21 apply in relation to P;
+- (c) level 3 care, the amount (if any) of the part of the care (core) award which was determined in relation to P in accordance with whichever of paragraphs (6)(c)(iv) or (7)(d) of regulation 21 apply in relation to P;
+- (d) level 4 care, the amount (if any) of the part of the care (core) award which was determined in relation to P in accordance with whichever of paragraphs (6)(c)(ii) or (iii) or (7)(b) or (c) of regulation 21 apply in relation to P;
+- (e) level 5 care, the amount of the part of the care (core) award which was determined in relation to P in accordance with whichever of paragraphs (6)(c)(i) or (7)(a) of regulation 21 apply in relation to P.
+
+(4A)[^key-3b32e27b50e456027ca9e1d90fa7f2b6] The amount is N × £5,856.18, where “N” is the number of years in which P began a course of interferon treatment.
+
+(5)[^key-f7aefa973c21be1c775496e339799961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) In this regulation—
+
+- (a) a reference to a person having HIV includes a reference to a person having a co-infection of HIV and Hepatitis B or Hepatitis C (or both);
+- (b) a reference to a person having Hepatitis B or Hepatitis C includes a reference to a person having a co-infection of Hepatitis B and Hepatitis C (but not of HIV);
+- (c) “**the relevant period**” has the meaning given by regulation 21(9).
+
+### CHAPTER 3 — Further infected payments
+
+#### SECTION 1 — Further infected core payments
+
+##### 41. Further infected core payments: general[^key-46bf79ee67cee070da5e4f8096bfe79d]
+
+(1) A payment (a “further infected core payment”) is to be made under the IBCS in relation to an eligible infected person (“**P**”) in accordance with this Section.
+
+(2) P is eligible for a further infected core payment where—
+
+- (a) an offer to make an infected core payment in relation to P has been accepted, and
+- (b) since the date of that acceptance, P has been diagnosed with—
+  - (i) an infection which would cause them to be an eligible infected person if it were their first infection (a “new infection”), or
+  - (ii) an increase in the severity of any Hepatitis B or Hepatitis C infection which causes the infection to fall within a higher severity level.
+
+(3) The IBCA must make a further infected core payment in relation to P where—
+
+- (a) an application has been made in relation to P in accordance with regulation 42 and Chapter 2 of Part 6,
+- (b) the IBCA has determined that P is eligible for a further infected core payment in accordance with regulation 70(6),
+- (c) the IBCA has made an offer to make the further infected core payment, and
+- (d) that offer has been accepted.
+
+(4) In this Section—
+
+- “**further core application**” means an application for a further infected core payment;
+- “**further diagnosis**” means the diagnosis mentioned in paragraph (2)(b).
+
+##### 42. Applications for further infected core payments[^key-ea0804dfd3a64fd96c7537185c43e2b9]
+
+(1) A further core application in relation to an eligible infected person (“**P**”) must be made by the end of the period of 6 years beginning with the day on which the further diagnosis to which the application relates was made.
+
+(2) A further core application may not be made in relation to P—
+
+- (a) where P is deceased,
+- (b) where an application has been made in relation to P under Chapter 2, until, in respect of each infected supplemental award—
+  - (i) an application has been made in relation to P and that application has been finally determined, or
+  - (ii) the relevant person has confirmed that no such application is to be made, or
+- (c) where an application has been made in relation to P under this Chapter, until that application has been finally determined.
+
+(3) Where the relevant person seeks to establish that P has—
+
+- (a) a new infection, the application must be accompanied by evidence which establishes—
+  - (i) the diagnosis of the infection specified in regulation 3(3),
+  - (ii) which of paragraph (2), (6), (7) or (8) of regulation 3 applies as to the cause or origin of the new infection,
+  - (iii) where P’s new infection is HIV,[^key-f1cc63cbb8b8eafd20f031558c1ba4cd] the date on which the further diagnosis was given, and
+  - (iv) where P’s new infection is Hepatitis B or Hepatitis C (or both), the severity of the infection;
+- (b) an increase in the severity of any Hepatitis B or Hepatitis C infection which causes the infection to fall within a higher severity level, the application must be accompanied by evidence which establishes the new severity level of the infection.
+
+##### 43. Amount of a further infected core payment[^key-ac623984298590e484901e66f1af646f]
+
+(1) The amount of a further infected core payment in relation to an eligible infected person (“**P**”) is Y – Z, where—
+
+- (a) “Y” is the further infected core award, being the sum of—
+  - (i) the injury (further core) award (see paragraph (2)),
+  - (ii) the social impact (further core) award (see paragraph (3)),
+  - (iii) the autonomy (further core) award (see paragraph (4)),
+  - (iv) where P is not an infected SSP recipient—
+    - (aa) the additional financial loss (further core) award (see paragraph (5)), and
+    - (bb) the care (further core) award (see paragraph (6)),
+  - (v) where P is an infected SSP recipient—
+    - (aa) the past amount of the additional financial loss (further core) award (for “past amount”, see regulation 7(1A)(a) and (1B)(a)[^key-dd066444117a6fcf12f1ab684c3dc78f]),
+    - (bb) the past amount of the care (further core) award, and
+    - (cc) the support scheme top-up (further core) award (see paragraph (7)), and
+  - (vi) any care (further excess costs) award (see paragraph (8));
+- (b) “Z” is W – X, where—
+  - (i) “W” is the sum of any deductible payments made in relation to P;
+  - (ii) “X” is the sum of—
+    - (aa) the infected core award determined in relation to P under regulation 15,
+    - (bb) any infected supplemental awards determined in relation to P,
+    - (cc) each previous further infected core award determined in relation to P (if any), and
+    - (dd) any further infected supplemental award determined in relation to P under regulation 46,
+
+    but if Z is less than £0, it is to be treated as £0.
+
+(2) The amount of the injury (further core) award is A – B, where—
+
+- (a) “A” is the current injury (core) award;
+- (b) “B” is the sum of the previous injury (core) award and any previous injury (further core) awards,
+
+(3) The social impact (further core) award is C – D, where—
+
+- (a) “C” is the current social impact (core) award;
+- (b) “D” is the sum of the previous social impact (core) award and any previous social impact (further core) awards.
+
+(4) The amount of the autonomy (further core) award is E – F, where—
+
+- (a) “E” is the current autonomy (core) award;
+- (b) “F” is the sum of the previous autonomy (core) award and any previous autonomy (further core) awards.
+
+(5) The amount of the additional financial loss (further core) award is G – H, where—
+
+- (a) “G” is the sum of all current financial loss awards;
+- (b) “H” is the sum of all previous financial loss awards.
+
+(6) The care (further core) award is I – J, where—
+
+- (a) “I” is the sum of all relevant current care awards;
+- (b) “J” is the sum of all relevant previous care awards.
+
+(7) Where P is an infected SSP recipient, the amount of the support scheme top-up (further core) award is L – M, where—
+
+- (a) L is (F3 + C3) – (S × (Y<sub>3 </sub>+ 0.75)), where—
+  - (i) “F3” is the sum of the future amounts (for “future amount”, see regulation 7(1A)(b) and (1B)(b)[^key-9269e90e81651055a8f7b0dbd8468a62]) of the basic financial loss award and all current financial loss awards;
+  - (ii) “C3” is the sum of the future amounts of all relevant current care awards;
+  - (iii) “**S**” has the meaning given in regulation 22(2)(c);
+  - (iv) “Y<sub>3</sub>” has the meaning given in regulation 7(4)(e);
+- (b) M is the sum of—
+  - (i) the previous support scheme top-up (core) award,
+  - (ii) any previous support scheme top-up (supplemental) award, and
+  - (iii) any previous support scheme top-up (further core) awards.
+
+(8) Where an infected supplemental payment has been made in relation to P which included an amount by way of a care (excess actual costs) award or care (excess deemed costs) award, the care (further excess costs) award is K – L, where—
+
+- (a) “K” is the current care (excess actual costs) award or, as the case may be, the current care (excess deemed costs) award;
+- (b) “L” is the sum of—
+  - (i) the previous care (excess actual costs) award or, as the case may be, the previous care (excess deemed costs) award, and
+  - (ii) each previous care (further excess costs) award (if any).
+
+(9) Where the amount of any award determined in accordance with this regulation is less than £0, the amount of that award is to be treated as £0.
+
+(10) In this regulation—
+
+- “**all current financial loss awards**” means—
+  - (a) the current additional financial loss (core) award, and
+  - (b) where an infected supplemental payment has been made in relation to P which included an amount by way of—
+    - (i) a financial loss (severe health condition) award, the current financial loss (severe health condition) award;
+    - (ii) a financial loss (reduced earnings) award, the current financial loss (reduced earnings) award;
+- “**all previous financial loss awards**” means—
+  - (a) the previous additional financial loss (core) award,
+  - (b) any previous financial loss (severe health condition) award,
+  - (c) any previous financial loss (reduced earnings) award,
+  - (d) each previous additional financial loss (further core) award (if any),
+  - (e) any previous financial loss (further severe health condition) award, and
+  - (f) any previous financial loss (further reduced earnings) award;
+- “**all relevant current care awards**” means—
+  - (a) the current care (core) award, and
+  - (b) where an infected supplemental payment has been made in relation to P which included an amount by way of a care (severe health condition) award, the current care (severe health condition) award;
+- “**all relevant previous care awards**” means—
+  - (a) the previous care (core) award,
+  - (b) any previous care (severe health condition) award,
+  - (c) each previous care (further core) award (if any), and
+  - (d) any previous care (further severe health condition) award;
+- “**current**”, in relation to an award, is a reference to that award as if the amount of that award were determined as it would now be determined in relation to P if—
+  - (a) P’s infected core application had been made on the date of the most recent further core application and had included the additional matters established by the current and any previous further core applications (but see paragraph (11));
+  - (b) any previous application for a severe health condition award or an exceptional loss award made in relation to P had been made on the date of the most recent further core application and had included the additional matters established by any previous application for a further infected supplemental payment;
+- “**previous**”, in relation to an award, is a reference to that award as if the amount of that award were determined in relation to P pursuant to any previous application, taking account of any review under regulation 82 or 83 or any appeal pursuant to regulation 84.
+
+(11) Where—
+
+- (a) P’s further diagnosis is an increase in the severity of any Hepatitis B or Hepatitis C infection which causes the infection to fall within a higher severity level,
+- (b) this regulation requires applying the definition of “**current**” in relation to an additional financial loss (core) award determined in relation to P, and
+- (c) the severity of P’s infection for any year was determined, pursuant to P’s infected core application, in accordance with regulation 20(8),
+
+the severity of P’s infection remains for that year the level originally determined pursuant to the infected core application.
+
+#### SECTION 2 — Further infected supplemental payments
+
+##### 44. Further infected supplemental payments: general[^key-fb4fa0ed0ad2dac4a00a5b9edbbce2fc]
+
+(1) A payment (a “further infected supplemental payment”) is to be made under the Scheme in relation to an eligible infected person (“**P**”) in accordance with this Section.
+
+(2) P is eligible for a further infected supplemental payment where—
+
+- (a) an offer to make an infected core payment in relation to P has been accepted, and
+- (b) since the most recent acceptance of an offer for an IBCS payment determined in relation to P in accordance with Chapter 1 or 2, P has been diagnosed with—
+  - (i) an infection which would cause them to be an eligible infected person if it were their first infection (a “new infection”),
+  - (ii) an increase in the severity of any Hepatitis B or Hepatitis C infection which causes the infection to fall within a higher severity level, or
+  - (iii) a severe health condition (a “new severe health condition”).
+
+(3) The IBCA must make a further infected supplemental payment in relation to P where—
+
+- (a) an application has been made in relation to P in accordance with regulation 45 and Chapter 2 of Part 6,
+- (b) the IBCA has determined that P is eligible for a further infected core payment in accordance with regulation 70(6),
+- (c) the IBCA has made an offer to make the further infected supplemental payment, and
+- (d) that offer has been accepted.
+
+(4) In this Section—
+
+- (a) regulation 28(1) and Schedule 2 apply for the purposes of determining whether P has a severe health condition;
+- (b) regulation 33 applies for the purposes of determining whether P has suffered exceptional reduced PAYE earnings or exceptional reduced self-employment earnings as a result of the further diagnosis, and for these purposes a reference to “the infection” in regulation 33(1) or (2) is to be read as a reference to “the further diagnosis”.
+
+(5) For the purposes of this Section, P has a new severe health condition in each year of the period which—
+
+- (a) begins with—
+  - (i) in relation to end-stage kidney disease requiring renal replacement therapy, the year in which the course of that therapy exceeded 3 months;
+  - (ii) in relation to any other severe health condition, the year in which P was first diagnosed with the new severe health condition, and
+- (b) ends with the earlier of—
+  - (i) where P had end-stage kidney disease requiring renal replacement therapy and before the date of the further supplemental application P had received a successful kidney transplant which obviated the need for renal replacement therapy, the year in which P received that treatment,
+  - (ii) otherwise, the year in which P attained, or is expected to attain, the age of their healthy life expectancy.
+
+(6) In this Section—
+
+- “**further supplemental application**” means an application for a further infected supplemental payment;
+- “**further diagnosis**” means the diagnosis mentioned in paragraph (2)(b).
+
+##### 45. Applications for further infected supplemental payments[^key-d51e0a1b553ad282482cb53b019d811c]
+
+(1) A further supplemental application in relation to an eligible infected person (“**P**”) must be made by the end of the period of 6 years beginning with the day on which the further diagnosis to which the application relates was made.
+
+(2) A further supplemental application may not be made in relation to P—
+
+- (a) where P is deceased,
+- (b) until, in relation to each infected supplemental award—
+  - (i) an application has been finally determined in relation to P, or
+  - (ii) the relevant person has confirmed that no application is to be made in relation to P,
+- (c) until any application for a further infected core payment made in relation to P under Section 1 has been finally determined, or
+- (d) if a further infected supplemental payment has previously been made in relation to P.
+
+(3) Where the relevant person seeks to establish that P has evidence which establishes[^key-2914fc899e18c1705c5e21bcf97db401]—
+
+- (a) a new infection, the application must be accompanied by—
+  - (i) the diagnosis of the infection specified in regulation 3(3),
+  - (ii) which of paragraph (2), (6), (7) or (8) of regulation 3 applies as to the cause or origin of the infection,
+  - (iii) where P’s new infection is HIV,[^key-dd0f76eeb1c725a679bb2f99a7966744] the date on which the further diagnosis was given,
+  - (iv) where P’s new infection is Hepatitis B or Hepatitis C (or both), the severity of the infection ;
+- (b) an increase in the severity of any Hepatitis B or Hepatitis C infection which causes the infection to fall within a higher severity level, the application must be accompanied by evidence which establishes the new severity level of the infection;
+- (c) a new severe health condition, the application must be accompanied by evidence that P has the new severe health condition.
+
+(4) Where the relevant person seeks to establish that the further infected supplemental payment should include a financial loss (further severe health condition) award (see regulation 46(3)), a further supplemental application must be accompanied by evidence which establishes the matters mentioned in—
+
+- (a) regulation 32(2)(b)(i) (where P’s severe health condition is end-stage kidney disease requiring renal replacement therapy), or
+- (b) regulation 32(2)(b)(ii) (where P has any other severe health condition).
+
+(5) Where the relevant person seeks to establish that the further infected supplemental payment should include an amount by way of a financial loss (further reduced earnings) award, the further supplemental application must be accompanied by evidence which establishes—
+
+- (a) the matters set out in paragraph (6) if—
+  - (i) an exceptional loss award was determined in relation to P pursuant to an application under Section 4 of Part 3 and the award included an amount by way of a financial loss (reduced PAYE earnings) award, or
+  - (ii) any such exceptional loss award did not include an amount by way of a financial loss (reduced self-employment earnings) and the relevant person seeks to establish for the first time that P has suffered exceptional reduced PAYE earnings;
+- (b) the matters set out in paragraph (8) if—
+  - (i) an exceptional loss award was determined in relation to P pursuant to an application under Section 4 of Part 3 and the award included an amount by way of financial loss (reduced self-employment earnings) award, or
+  - (ii) any such exceptional loss award did not include an amount by way of a financial loss (reduced PAYE earnings) award and the relevant person seeks to establish for the first time that P has suffered exceptional reduced self-employment earnings.
+
+(6) The matters referred to in paragraph (5)(a) are—
+
+- (a) P’s age when they most recently suffered exceptional reduced PAYE earnings,
+- (b) P’s actual gross earnings in the 12-month period which ended with the month before P most recently suffered exceptional reduced PAYE earnings,
+- (c) P’s actual gross earnings in respect of at least 2 out of 3 years of each rolling period of 3 years within the period which—
+  - (i) begins with the year in which P most recently suffered exceptional reduced PAYE earnings, and
+  - (ii) ends with the earlier of—
+    - (aa) the year in which P attained the age of 65, or
+    - (bb) the year immediately before the year in which the further supplemental application was made, and
+- (d) that P’s exceptional reduced PAYE earnings were due to the further diagnosis or any associated treatment.
+
+(7) For the purposes of paragraph (6)—
+
+- (a) if the period described in paragraph (6)(c)(i) and (ii) is shorter than 3 years, then the application must be accompanied by evidence which establishes P’s actual gross earnings in each year of that period;
+- (b) P most recently suffered exceptional reduced PAYE earnings—
+  - (i) if an exceptional loss award has been determined in relation to P which included an amount by way of a financial loss (PAYE earnings) award, when P’s actual PAYE earnings in a post-award year fell below the amount of P’s deemed actual PAYE earnings as determined in accordance with regulation 37(6)(a)(ii);
+  - (ii) otherwise, when P first suffered exceptional reduced PAYE earnings.
+
+(8) The matters referred to in paragraph (5)(b) are—
+
+- (a) P’s self-employment earnings and PAYE earnings—
+  - (i) in each tax year of the pre-reduction period, and
+  - (ii) in each tax year of the post-reduction period in respect of which the relevant person seeks to establish that P has suffered exceptional reduced self-employment earnings, and
+- (b) that P’s exceptional reduced self-employment earnings were due to the further diagnosis or any associated treatment.
+
+(9) In paragraph (8)(a)—
+
+- “the pre-reduction period” is the period which—
+  - (a) begins with the tax year which is 5 years before the tax year in which P most recently suffered exceptional reduced self-employment earnings, and
+  - (b) ends with the tax year which is immediately before the tax year in which P most recently suffered exceptional reduced self-employment earnings,
+- “the post-reduction period” is the period which—
+  - (a) begins with the tax year in which P most recently suffered exceptional reduced self-employment earnings, and
+  - (b) ends with the earlier of—
+    - (i) if P is deceased, the tax year in which P died,
+    - (ii) the tax year in which P attained the age of 65, or
+    - (iii) the tax year immediately before the year in which the date of the application falls.
+
+(10) For the purposes of paragraph (9), P most recently suffered exceptional reduced self-employment earnings—
+
+- (a) if an exceptional loss award has been determined in relation to P which included an amount by way of a financial loss (self-employment earnings) award, when P’s actual net earnings in a post-award tax year fell below the amount of P’s deemed net earnings;
+- (b) otherwise, when P first suffered exceptional reduced self-employment earnings.
+
+(11) For the purposes of paragraph (10)(a)—
+
+- (a) “P’s actual net earnings” are the sum of—
+  - (i) P’s net self-employment earnings in the post-award tax year, and
+  - (ii) P’s net PAYE earnings in the post-award tax year;
+- (b) “P’s deemed net earnings” are the sum of—
+  - (i) P’s net self-employment earnings as they were determined in accordance with regulation 38(7)(b)(ii) pursuant to P’s application for an exceptional loss award, and
+  - (ii) P’s net PAYE earnings as determined in accordance with regulation 38(7)(c)(ii) pursuant to P’s application for an exceptional loss award.
+
+(12) In this regulation, “post-award year” and “post-award tax year” mean the year or (as the case may be) tax year in which P’s application for an exceptional loss award was made or any subsequent year or (as the case may be) tax year.
+
+##### 46. Amount of a further infected supplemental payment[^key-ae9da48cabffe47565b65a5884bfa2b2]
+
+(1) The amount of the further infected supplemental payment in relation to an eligible infected person (“**P**”) is Y – Z, where—
+
+- (a) “Y” is the further infected supplemental award, being—
+  - (i) where P is not an infected SSP recipient, the sum of—
+    - (aa) the care (further severe health condition) award (see paragraph (2)),
+    - (bb) the financial loss (further severe health condition) award (see paragraph (3)), and
+    - (cc) the financial loss (further reduced earnings) award (see paragraph (4));
+  - (ii) where P is an infected SSP recipient, the sum of—
+    - (aa) the past amount of the care (further severe health condition) award,
+    - (bb) the past amount of the financial loss (further severe health condition) award,
+    - (cc) the past amount of the financial loss (further reduced earnings) award, and
+    - (dd) the support scheme top-up (further supplemental) award (see paragraph (5));
+- (b) “Z” is W – X, where—
+  - (i) “W” is the sum of any deductible payments made in relation to P;
+  - (ii) “X” is the sum of—
+    - (aa) the infected core award determined in relation to P under regulation 15,
+    - (bb) any infected supplemental awards determined in relation to P, and
+    - (cc) each previous further infected core award determined in relation to P under regulation 43 (if any),
+
+    but if Z is less than £0, it is to be treated as £0.
+
+(2) The amount of the care (further severe health condition) award is A – B, where—
+
+- (a) “A” is the current care (severe health condition) award;
+- (b) “B” is any previous care (severe health condition) award.
+
+(3) The amount of the financial loss (further severe health condition) award is—
+
+- (a) £0, if—
+  - (i) the further diagnosis in respect of which the further supplemental application was made is a severe health condition, and
+  - (ii) the year of the further diagnosis was the year in which P attained, or is expected to attain, the age of 66;
+- (b) otherwise, C – D, where—
+  - (i) “C” is the current financial loss (severe health condition) award;
+  - (ii) “D” is any previous financial loss (severe health condition) award.
+
+(4) The amount of the financial loss (further reduced earnings) award, is E – F, where—
+
+- (a) “E” is the current financial loss (reduced earnings) award;
+- (b) “F” is any previous financial loss (reduced earnings) award.
+
+(5) Where P is an infected SSP recipient, the amount of the support scheme top-up (further supplemental) award is G – H, where—
+
+- (a) “G” is (F4 + C4) – (S × (Y<sub>3 </sub>+ 0.75)), where—
+  - (i) “F4” is the sum of the future amounts (for “future amount”, see regulation 7(1A)(b) and (1B)(b)[^key-9584acd69f787f06312e071ba50501cd]) of the basic financial loss award and all current financial loss awards within the meaning given by regulation 43(10);
+  - (ii) “C4” is the sum of the future amounts of all relevant current care awards within the meaning given by regulation 43(10);
+  - (iii) “**S**” has the meaning given in regulation 22(2)(c);
+  - (iv) “Y<sub>3</sub>” has the meaning given in regulation 7(4)(e);
+- (b) “H” is the sum of—
+  - (i) the support scheme top-up (core) award,
+  - (ii) any support scheme top-up (supplemental) award, and
+  - (iii) any support scheme top-up (further core) award.
+
+(6) Where the amount of any award determined in accordance with this regulation is less than £0, the amount of that award is to be treated as £0.
+
+(7) For the purposes of this regulation except paragraph (5)—
+
+- (a) “**current**”, in relation to an award, is a reference to that award as if the amount of that award were determined as it would now be determined in relation to P in accordance with Chapter 2 if—
+  - (i) P’s infected core application had included the additional matters established by each application for a further infected core payment made in relation to P under Section 1 (if any), and
+  - (ii) any application for an infected supplemental award made in relation to P had included the additional matters established by P’s further supplemental application;
+- (b) “**previous**”, in relation to an award, is a reference to that award as if the amount of that award were determined in relation to P in accordance with Chapter 2 pursuant to any previous application for an infected supplemental payment, taking account of any review under regulation 82 or 83 or any appeal pursuant to regulation 84.
+
+## PART 4 — IBCS payments to eligible affected persons
+
+### CHAPTER 1 — Affected core payments
+
+#### SECTION 1 — General
+
+##### 47. Affected core payments: general[^key-79b8e7711f7119af670d5c1df4fe84b3]
+
+(1) A payment (an “affected core payment”) is to be made under the IBCS in relation to an eligible affected person (“**Q**”) in accordance with this Chapter.
+
+(2) The IBCA must make an affected core payment in relation to Q where—
+
+- (a) an application has been made in relation to Q in accordance with regulation 48 and Chapter 2 of Part 6,
+- (b) the IBCA has determined the application in accordance with regulation 70(3) and (4),
+- (c) the IBCA has made an offer to make the affected core payment, and
+- (d) that offer has been accepted.
+
+##### 48. Applications for affected core payments[^key-de3f334f98fe472616ccf10af711bba6]
+
+(1) An application for an affected core payment must be made by—
+
+- (a) the end of 31st March 2031, or
+- (b) if later, the end of the period of 6 years beginning with the day on which B was diagnosed with an infection specified in regulation 3(3).
+
+(2) In this regulation—
+
+- (a) “A” is the person in respect of whom an affected core application is made;
+- (b) “B” is the person in relation to whom the application seeks to establish that A is an eligible affected person.
+
+(3) If the IBCA has determined pursuant to a previous affected core application that A is an eligible affected person in relation to B, no further affected core application may be made seeking to establish that A is an eligible affected person in relation to B.
+
+(4) An application for an affected core payment must be accompanied by evidence which establishes—
+
+- (a) that B is an eligible infected person,
+- (b) B’s first year of infection,
+- (c) if B is deceased on the date of the application, the date of B’s death,
+- (ca)[^key-ec61a0fbb07a049e62ccb226912acdb6] if A is deceased on the date of the application, the date of A’s death,
+- (d) that A is—
+  - (i) a partner of B,
+  - (ii) a parent of B,
+  - (iii) a child of B,
+  - (iv) a sibling of B, or
+  - (v) an unremunerated carer of B, and
+- (e) where the application seeks to establish that A is an unremunerated carer of B—
+  - (i) the average number of hours per week that A provided care or support to B,
+  - (ii) the nature of such care or support,
+  - (iii) that the care or support was first provided on a date which fell in or after B’s first year of infection, and
+  - (iv) the length of time that such care or support was provided.
+
+(5) The application need not be accompanied by evidence establishing the matters described in paragraph (4) if—
+
+- (a) the application seeks to establish that A is a partner of B, and
+- (b) A is , or immediately before death was,[^key-9be07fdb597e6e6d39ce951e22d0380b] receiving support scheme payments as a bereaved partner of B.
+
+(6) The evidence that may be used to establish the matters described in paragraph (4) is documentary evidence which is contemporaneous with the matter it purports to establish, such as—
+
+- (a) a marriage certificate or a civil partnership certificate;
+- (b) a birth certificate or an adoption certificate;
+- (c) a council tax statement;
+- (d) a bank statement;
+- (e) a document relating to—
+  - (i) the ownership or rental of any property where A and B cohabited;
+  - (ii) insurance;
+  - (iii) tax;
+  - (iv) employment;
+  - (v) medical information;
+  - (vi) child benefit entitlement;
+  - (vii) schools attended by A or B.
+
+(7) Where the application is accompanied by contemporaneous documentary evidence which purports to establish a matter described in paragraph (4) but which the IBCA does not consider is sufficient to establish that matter, the matter may be established by the contemporaneous documentary evidence together with written evidence provided by or on behalf of A or, where A is deceased, A’s personal representative[^key-5560d34ddeef95ff60562ac9173e0e17].
+
+(8) Where a matter described in paragraph (4) is not established by any contemporaneous documentary evidence which accompanies the application and the IBCA considers that it is impracticable for that matter to be established by contemporaneous documentary evidence, the matter may be established by—
+
+- (a) written evidence provided by or on behalf of A or, where A is deceased, A’s personal representative[^key-adc8b773f621674633c5cc572b3d7242], together with
+- (b) written evidence provided by or on behalf of a person that the IBCA considers is sufficiently independent of A.
+
+(9) For the purposes of paragraph (8)(b), a person is not sufficiently independent of A if (among any other matters the IBCA considers relevant)—
+
+- (a) the person has a family relationship to A, or
+- (b) the person otherwise has a pecuniary interest in A’s affected core application.
+
+(10) For the purposes of this regulation, written evidence must include a statement verifying that the person providing the written evidence believes that the matters stated as fact in the written evidence are true.
+
+#### SECTION 2 — Amount of an affected core payment
+
+##### 49. Amount of an affected core payment[^key-d5c84166947b71c4ada8f58b94667b87]
+
+(1) The amount of an affected core payment in relation to an eligible affected person (“**Q**”) is T – D, where—
+
+- (a) “T” is the amount of the affected core award (see paragraph (2));
+- (b) “D” is the sum of any deductible payments made in relation to Q.
+
+(2) The amount of an affected core award in relation to Q is the sum of—
+
+- (a) an affected injury award determined in relation to Q in accordance with regulation 50,
+- (b) an affected social impact award determined in relation to Q in accordance with regulation 51,
+- (c) an affected autonomy award determined in relation to Q in accordance with regulation 52 (the amount of which may be £0),
+- (d) an affected financial loss award (if any) determined in relation to Q in accordance with regulation 53, and
+- (e) a past affected financial loss award (if any) determined in relation to Q in accordance with regulation 54.
+
+##### 50. Affected injury award[^key-f2ffaeb2ae2f64400db8cf9510d887af]
+
+(1) The affected core award in relation to an eligible affected person (“**Q**”) must include an amount by way of an affected injury award for the purpose of compensating Q for—
+
+- (a) past and future mental injury;
+- (b) emotional distress and injury to Q’s feelings caused by, or that will in the future be felt as a result of—
+  - (i) the infection contracted by the eligible infected person (“**P**”) in relation to whom Q is an eligible affected person, and treatments for it;
+  - (ii) the death of P or the anticipation of P’s death.
+
+(1A)[^key-7e5b2d08072af8ca3c714688377854a4] The amount of the affected injury award is A + B, where—
+
+- (a) “A” is the basic affected injury amount, and
+- (b) “B” is the affected injury uplift.
+
+(2) Where, on the relevant date, P has a single infection of Hepatitis B or Hepatitis C of severity level 2 or level 2B[^key-ba98457403bf9cf8b397abf462c9e4a9], the basic affected injury amount[^key-a4f50326270afb1d06418e0fc6da7566] is—
+
+- (a) £34,000, where Q is a partner of P;
+- (b) £20,000, where Q is—
+  - (i) a parent of P;
+  - (ii) a child of P;
+  - (iii) a sibling of P;
+  - (iv) an unremunerated carer of P.
+
+(3) The basic affected injury amount[^key-6a1fa74dbfbf081380170d124efab9cf] is the amount specified in paragraph (4), where on the relevant date, P has—
+
+- (a) a single infection of Hepatitis B of severity level 3, 4 or 5;
+- (b) a single infection of Hepatitis C of severity level 3 or 4;
+- (c) a co-infection of Hepatitis B of severity level 3, 4 or 5, and Hepatitis C of severity level 3 or 4;
+- (d) a single infection of HIV;
+- (e) a co-infection of—
+  - (i) HIV and Hepatitis B, or
+  - (ii) HIV and Hepatitis C.
+
+(4) The amount mentioned in paragraph (3) is—
+
+- (a) £86,000, where Q is a partner of P;
+- (b)[^key-f120eb205f94821c82ca526ccb1432b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) £40,400, where Q is a child of P [^key-3cf0de6baa10361b4757978f11d6c381]...;
+- (d) £22,000, where Q is—
+  - (i) a parent of P [^key-369992e60d6840c1385cd6d12d553563]...;
+  - (ii)[^key-44a1d239b225cddd28bd4918a7c088e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) a sibling of P;
+  - (iv) an unremunerated carer of P.
+
+(4A)[^key-72362ff32bee5895086ead917d2d9260] The affected injury uplift is £17,000 where—
+
+- (a) on the relevant date, P has a single infection of Hepatitis B or Hepatitis C of severity level 2 or 2B, and
+- (b) Q is an affected SSP recipient as a bereaved partner of P.
+
+(4B) The affected injury uplift is £10,000 where—
+
+- (a) Q is a child or a sibling of P,
+- (b) Q is aged 17 or under during the first year of infection, and
+- (c) while Q is aged 17 or under, P—
+  - (i) has a single infection of Hepatitis B or Hepatitis C of severity level 2 or 2B, and
+  - (ii) does not have an infection mentioned in paragraph (3).
+
+(4C) The affected injury uplift is £11,000 where—
+
+- (a) Q is a sibling of P,
+- (b) Q is aged 17 or under during the first year of infection, and
+- (c) while Q is aged 17 or under, P has an infection mentioned in paragraph (3).
+
+(4D) The affected injury uplift is £20,200 where—
+
+- (a) Q is a child of P,
+- (b) Q is aged 17 or under during the first year of infection, and
+- (c) while Q is aged 17 or under, P has an infection mentioned in paragraph (3).
+
+(4E) Where, on the relevant date, P has an infection mentioned in paragraph (3), the affected injury uplift is—
+
+- (a) £76,100, where Q is a parent of P and P died—
+  - (i) at the age of 17 or under, and
+  - (ii) before 14th April 2026;
+- (b) £43,400, where—
+  - (i) Q is a parent of P,
+  - (ii) P is aged 17 or under during the first year of infection, and
+  - (iii) P is not dead or did not die in circumstances described in sub-paragraph (a);
+- (c) £43,000, where Q is a partner of P and—
+  - (i) P died before 14th April 2026, or
+  - (ii) Q is an affected SSP recipient as a bereaved partner of P.
+
+(4F) Where none of paragraphs (4A) to (4E) applies in relation to Q, the affected injury uplift is £0.
+
+(5) For the purposes of this regulation, where Q, or, as the case may be, P, attains the age of 18 during the first year of infection, they are to be treated as if they attained the age of 18 on the day immediately following the last day of the first year of infection.
+
+##### 51. Affected social impact award[^key-31332414095180fbbb3e650c64910366]
+
+(1) The affected core award in relation to an eligible affected person (“**Q**”) must include an amount by way of an affected social impact award for the purpose of compensating for the past and future social consequences on Q of the infection contracted by the eligible infected person (“**P**”) in relation to whom Q is an eligible affected person, including stigma and social isolation.
+
+(2) Subject to paragraphs (4) to (6), the amount of the affected social impact award is—
+
+- (a) £12,000, where Q is—
+  - (i) a partner of P;
+  - (ii) a parent of P, and P is aged 17 or under during the first year of infection;
+  - (iii) a child of P, and Q is aged 17 or under during the first year of infection;
+  - (iv) a sibling of P to whom paragraph (3) applies;
+- (b) £8,000, where Q is—
+  - (i) a parent of P, and P is aged 18 or over during the first year of infection;
+  - (ii) a child of P, and Q is aged 18 or over during the first year of infection;
+  - (iii) a sibling of P to whom paragraph (3) does not apply;
+  - (iv) an unremunerated carer of P.
+
+(3) This paragraph applies to a sibling of P where, during the continuous period described in the definition of “sibling of an eligible infected person” in regulation 4(3), P had been infected for a period of at least 24 months.
+
+(4) Where Q is an eligible infected person, or an eligible affected person in relation to more than one eligible infected person and an affected core payment has previously been made in relation to Q, the amount of the affected social impact award is A – B, where—
+
+- (a) “A” is the amount of the affected social impact award that would (but for this paragraph) be determined in accordance with paragraph (2);
+- (b) “B” is the sum of—
+  - (i) any social impact (core) award determined in relation to Q in accordance with regulation 17, and
+  - (ii) any affected social impact awards determined in relation to Q in accordance with this regulation in respect of any previous affected core applications.
+
+(5) For the purposes of paragraph (4), where A – B is less than £0, the amount of the affected social impact award is £0.
+
+(6) For the purposes of this regulation, where Q, or, as the case may be, P, attains the age of 18 during the first year of infection, they are to be treated as if they attained the age of 18 on the day immediately following the last day of the first year of infection.
+
+##### 52. Affected autonomy award[^key-1448aa8ebc87642914edf9edf4bbb4e9]
+
+(1) The affected core award in relation to an eligible affected person (“**Q**”) must include an amount by way of an affected autonomy award for the purpose of compensating for the distress and suffering caused by the impact of the infection contracted by the eligible infected person (“**P**”) in relation to whom Q is an eligible affected person, and on the interference with Q’s family and private life and autonomy, including any—
+
+- (a) loss of marriage or partnership prospects;
+- (b) loss of the opportunity to have children;
+- (c) impact on Q of attacks on Q’s home as a consequence of the infection.
+
+(2) Subject to paragraphs (3) to (5), the amount of the affected autonomy award is—
+
+- (a) £16,000, where Q is a partner of P;
+- (b) £6,600, where Q is—
+  - (i) a parent of P, and P is aged 17 or under during the first year of infection;
+  - (ii) a child of P, and Q is aged 17 or under during the first year of infection;
+- (c) £0, where Q is—
+  - (i) a parent of P, and P is aged 18 or over during the first year of infection;
+  - (ii) a child of P, and Q is aged 18 or over during the first year of infection;
+  - (iii) a sibling of P;
+  - (iv) an unremunerated carer of P.
+
+(3) Where Q is an eligible infected person, or an eligible affected person in relation to more than one eligible infected person and an affected core payment has previously been made in relation to Q, the amount of the affected autonomy award is A – B, where—
+
+- (a) “A” is the amount of the affected autonomy award that would (but for this paragraph) be determined in accordance with paragraph (2);
+- (b) “B” is the sum of—
+  - (i) any autonomy (core) award determined in relation to Q in accordance with regulation 18, and
+  - (ii) any affected autonomy awards determined in relation to Q in accordance with this regulation in respect of any previous affected core applications.
+
+(4) For the purposes of paragraph (3)[^key-4b9a7dab4e5fa37bf887362c768ee54f], where A – B is less than £0, the amount of the affected autonomy award is £0.
+
+(5) For the purposes of this regulation, where Q, or, as the case may be, P, attains the age of 18 during the first year of infection, they are to be treated as if they attained the age of 18 on the day immediately following the last day of the first year of infection.
+
+##### 53. Affected financial loss award[^key-568831441f7636998b06f2cdc27b88af]
+
+(1) The affected core award in relation to an eligible affected person (“**Q**”) must include an amount by way of an affected financial loss award for the purpose of compensating Q for financial loss incurred as a result of the death of the eligible infected person (“**P**”) in relation to whom Q is an eligible affected person if—
+
+- (a) where Q is a partner of P, paragraph (2) applies to Q;
+- (b) where Q is a child of P, paragraph (3) or (4) applies to Q.
+
+(2) This paragraph applies to Q if—
+
+- (a) Q is—
+  - (i) not an affected SSP recipient, or
+  - (ii) if Q is an affected SSP recipient, not an affected SSP recipient in relation to P,
+- (b) P is deceased on the date of Q’s affected core application,
+- (c) no IBCS payment was made in relation to P before they died, and
+- (d) Q was dependent upon P on the date of P’s death by virtue of being a partner of P.
+
+(3) This paragraph applies to Q if—
+
+- (a) Q is a child of P,
+- (b) P is deceased on the date of Q’s affected core application,
+- (c) no IBCS payment was made in relation to P before they died, and
+- (d) Q was dependent upon P on the date of P’s death by virtue of being a child of P who was aged 17 or under on that date.
+
+(4) This paragraph applies to Q if—
+
+- (a) Q was a child in relation to P and another eligible infected person,
+- (b) P1 and P2 were both deceased on the date of Q’s affected core application,
+- (c) no IBCS payment was made in relation to either P1 or P2 before they died,
+- (d) Q was dependent upon P1 or P2 (or both) on the date of P1’s death by virtue of being a child of P1 and P2 and being aged 17 or under on that date, and
+- (e) Q was dependent on P2 on the date of P2’s death by virtue of being a child of P1 and P2 and being aged 17 or under on that date.
+
+(5) Subject to paragraphs (8) and (9), the amount of the affected financial loss award where paragraph (2) applies to Q is an annual amount of £16,682 for the period—
+
+- (a) which begins with the first year of Q’s compensation period[^key-0c3b5c3111e926455bc0fb50262c40ce], and
+- (b)[^key-dadf5d5ab738dc83b1f67474b66088fd] which ends with—
+  - (i) the year in which P was expected to attain the age of their healthy life expectancy, or
+  - (ii) if Q died before that year, the year in which Q died.
+
+(6) Subject to paragraph (8), the amount of the affected financial loss award where paragraph (3) applies to Q is an annual amount of £5,561 for the period—
+
+- (a) which begins with the first year of Q’s compensation period[^key-5965934ee009f2052f18e3236100d398], and
+- (b)[^key-1ddaeac5f20b3876c37c917ea0f3fdfe] which ends with—
+  - (i) the year in which Q attains the age of 18, or
+  - (ii) if Q died before that year, the year in which Q died.
+
+(7) Subject to paragraph (8), the amount of the affected financial loss award where paragraph (4) applies to Q is an annual amount of £22,243 for the period—
+
+- (a) beginning with the first year of Q’s compensation period[^key-e1aa4d475bfe8d7ebd75e4294ba99903], and
+- (b)[^key-8bf920feec93580f42b40a4982f21273] ending with—
+  - (i) the year in which Q attains the age of 18, or
+  - (ii) if Q died before that year, the year in which Q died.
+
+(8) Where the annual amount is determined pursuant—
+
+- (a) to paragraph (5) or (6), the annual amount for any year in which P would have been 66 or older is 50% of the annual amount that would (but for this sub-paragraph) otherwise be determined;
+- (b) to paragraph (7), the annual amount for any year in which—
+  - (i) one of P1 or P2 would have been 66 or older is 75% of the annual amount that would (but for this paragraph) otherwise be determined;
+  - (ii) both P1 and P2 would have been 66 or older is 50% of the annual amount that would (but for this paragraph) otherwise be determined.
+
+(9) Where—
+
+- (a) Q has two or more relevant partners, and
+- (b) there are any overlapping years in their award periods,
+
+the annual amounts of the affected financial loss awards included in the relevant affected core payments for those overlapping years must not in total exceed the maximum AFL amount.
+
+(10) For the purposes of paragraph (9)—
+
+- (a) P is a relevant partner of Q if—
+  - (i) Q is an eligible affected person by virtue of being a partner of P, and
+  - (ii) paragraph (2) applies to Q as a partner of P;
+- (b) the “award period” of a relevant partner is the period determined in accordance with paragraph (5) for that partner;
+- (c) an “overlapping year” is a year which falls within the award period of two or more relevant partners, and references to “overlapping partners” are to be construed accordingly;
+- (d) “the maximum AFL amount” for an overlapping year is—
+  - (i) £16,682, or
+  - (ii) if paragraph (8)(a) applies to all of Q’s overlapping partners in that year, 50% of that amount;
+- (e) “**relevant affected core payment**”, in relation to Q, means an affected core payment that is made in respect of an application made establishing that Q is an eligible affected person by virtue of having a relevant partner.
+
+(11) In this regulation—
+
+- (a) “**P1**” refers to the eligible infected person who has the earliest date of death;
+- (b) “**P2**” refers to the eligible infected person who has the latest date of death.
+
+##### 54. Past affected financial loss award[^key-c3e1509ab7509e026f875d3a660d4a71]
+
+(1) The affected core award in relation to an eligible affected person (“**Q**”) must include an amount by way of a past affected financial loss award (a “PAFL award”) for the purpose of compensating Q for financial loss incurred as a result of the death of an eligible infected person (“**P**”) who is a relevant SSP partner of Q.
+
+(2) For the purposes of this regulation, P is a relevant SSP partner of Q if—
+
+- (a) Q is an eligible affected person by virtue of being a partner of P,
+- (b) P died on or before 31st December 2024, and
+- (c) Q is an affected SSP recipient as a bereaved partner of P.
+
+(3) Subject to paragraphs (6) to (8), where P died before 1st January 2024, the amount of the PAFL award is the sum of—
+
+- (a) an annual amount of £16,682 for the period which—
+  - (i) begins with the first year of Q’s compensation period[^key-85664ffaa45ca61a58794d7c985e7e5a], and
+  - (ii) ends with 2024, and
+- (b) the final year amount.
+
+(4) Subject to paragraphs (7) and (8), where P died on or after 1st January 2024, the amount of the PAFL award is the final year amount.
+
+(5) The final year amount is—
+
+- (a) £4,171, or
+- (b) if P would have been 66 or older in the year beginning 1st January 2024, 50% of that amount.
+
+(6) Where an annual amount is determined pursuant to paragraph (3)(a), the annual amount for any year in which P would have been 66 or older is 50% of the annual amount that would (but for this paragraph) otherwise be determined.
+
+(7) Where—
+
+- (a) Q has two or more relevant SSP partners who died before 1st January 2024, and
+- (b) there are any overlapping years in their award periods,
+
+the annual amounts of the PAFL awards included in the relevant affected core payments for those overlapping years must not in total exceed the maximum annual amount.
+
+(8) Where Q has two or more relevant SSP partners, the final year amounts of the PAFL awards included in the relevant affected core payments must not in total exceed the maximum final year amount.
+
+(9) For the purposes of this regulation—
+
+- (a) the “award period” of a relevant SSP partner is the period determined in accordance with paragraph (3)(a) for that partner;
+- (b) an “overlapping year” is a year which falls within the award period for two or more relevant SSP partners, and references to an “overlapping SSP partner” are to be construed accordingly;
+- (c) “**relevant affected core payment**”, in relation to Q, means an affected core payment that is made to Q in respect of an application establishing that Q is an eligible affected person by virtue of being the partner of a relevant SSP partner;
+- (d) the maximum annual amount for an overlapping SSP year is—
+  - (i) £16,682, or
+  - (ii) where paragraph (6) applies to all of Q’s overlapping SSP partners in the particular year, 50% of that amount;
+- (e) the maximum final year amount is—
+  - (i) £4,171, or
+  - (ii) where paragraph (6) applies to all of Q’s overlapping SSP partners in the year beginning 1st January 2024, 50% of that amount.
+
+##### 55. Past affected financial loss award: overlapping awards[^key-a81ef68de5e242808d4e5a624641e562]
+
+(1) This regulation applies where more than one affected core application has been made establishing that a person (“**Q**”) is an eligible affected person by virtue of being a partner of an eligible infected person, and—
+
+- (a) an award period determined for a relevant partner for the purposes of regulation 53 overlaps (whether wholly or partly) with an award period determined for a relevant SSP partner for the purposes of regulation 54, or
+- (b) an annual amount is to be included in a relevant affected core payment for a relevant partner under regulation 53 in respect of the year beginning 1st January 2025 and a final year amount is to be included in a relevant core affected payment for a relevant SSP partner under regulation 54.
+
+(2) Where this regulation applies, the relevant financial loss amounts included in the relevant affected core payments for each overlapping year must not in total exceed the maximum AFL amount.
+
+(3) For the purposes of this regulation—
+
+- (a) the “**relevant financial loss amounts**”, in relation to an overlapping year, are the annual amount of each affected financial loss award (determined in accordance with regulation 53) for that year and—
+  - (i) for any the year beginning before 1st January 2025, the annual amount of each PAFL award for that year (determined in accordance with regulation 54);
+  - (ii) for the year beginning 1st January 2025, the final year amount of each PAFL award for that year (determined in accordance with regulation 54);
+- (b) the final year amount of a PAFL award to be included in a relevant affected core payment is to be treated as included in that payment in respect of the year beginning 1st January 2025;
+- (c) “**overlapping year**” means—
+  - (i) a year which falls within—
+    - (aa) the award period for one or more of Q’s relevant partners, as determined for the purposes of regulation 53(5), and
+    - (bb) the award period for one or more of Q’s relevant SSP partners, as determined for the purposes of regulation 54(3)(a), or
+  - (ii) the year beginning 1st January 2025;
+- (d) “**relevant affected core payment**”, in relation to Q, means an affected core payment that is made in respect of an application made establishing that Q is an eligible affected person by virtue of being the partner of a relevant partner or a relevant SSP partner;
+- (e) “**the maximum AFL amount**”, in relation to an overlapping year, is—
+  - (i) £16,682, or
+  - (ii) if all of Q’s overlapping partners and overlapping SSP partners would have been 66 or over in that year, 50% of that amount;
+- (f) “relevant partner” and “overlapping partner” are to be construed in accordance with regulation 53;
+- (g) “relevant SSP partner” and “overlapping SSP partner” are to be construed in accordance with regulation 54.
+
+### CHAPTER 2 — Affected supplemental payments
+
+#### 56. Affected supplemental payments: general[^key-f4f1626c49b14ed0b8df27430ff5791b]
+
+(1) A payment (an “affected supplemental payment”) is to be made under the IBCS in relation to an eligible affected person (“**Q**”) to whom regulation 57 applies for the purpose of compensating Q for financial loss incurred as a result of the death of an eligible infected person (“**P**”) in relation to whom Q is an eligible affected person.
+
+(2) The IBCA must make an affected supplemental payment in relation to Q where—
+
+- (a) an offer for an affected core payment in relation to Q has been made and accepted,
+- (b) an application has been made in relation to Q in accordance with—
+  - (i) Chapter 2 of Part 6, and
+  - (ii) paragraph (3),
+- (c) the IBCA has determined the application in accordance with regulation 70(6),
+- (d) the IBCA has made an offer to make the affected supplemental payment, and
+- (e) that offer has been accepted.
+
+(3) An application for an affected supplemental payment must be accompanied by evidence which establishes—
+
+- (a) that P is deceased, and the date of P’s death,
+- (b) that Q was financially dependent upon P and had been so financially dependent for the period of 6 months immediately preceding the date of P’s death, and
+- (c) where Q is a disabled child aged 18 or over, that Q has a disability within the meaning of section 6 of the Equality Act 2010[^f00039].
+
+#### 57. Eligibility for an affected supplemental payment[^key-acf892babf8a85e543a0817ac2b40b0c]
+
+(1) This regulation applies to an eligible affected person (“**Q**”)—
+
+- (a) if Q is—
+  - (i) a disabled child of a deceased eligible infected person (“**P**”) and Q is aged 18 or over,
+  - (ii) a parent of P, or
+  - (iii) a sibling of P, and
+- (b) if—
+  - (i) where Q is a parent or a sibling of P, paragraph (2) applies to Q;
+  - (ii) where Q is a disabled child of P, paragraph (2) or (3) applies to Q.
+
+(2) This paragraph applies to Q if—
+
+- (a) Q was financially dependent upon P on the date of P’s death and had been so financially dependent for the period of 6 months immediately preceding that date,
+- (b) but for P’s death, Q had a reasonable expectation of receiving continued financial support from P, and
+- (c) before P died, P had not accepted any offer for an IBCS payment.
+
+(3) This paragraph applies to Q if—
+
+- (a) Q is a child of P and another eligible infected person,
+- (b) P1 and P2 had both died when Q was aged 17 or under,
+- (c) no IBCS payment was made in relation to either P1 or P2 on or before their respective dates of death,
+- (d) Q was financially dependent upon P1 or P2 (or both) on the date of P1’s death by virtue of being a disabled child of P1 and P2 and being aged 17 or under,
+- (e) Q was financially dependent on P2 on the date of P2’s death by virtue of being a disabled child of P1 and P2 and being aged 17 or under, and
+- (f) Q had a reasonable expectation of receiving continued financial support from P1 or P2 (or both) by virtue of being a disabled child of P1 and P2 and being aged 18 or over.
+
+(4) For the purposes of this Chapter—
+
+- (a) a child is disabled if they have a disability within the meaning of section 6 of the Equality Act 2010;
+- (b) Q is financially dependent upon P if Q was dependent upon P for all or most of Q’s living expenses, including where Q receives contributions in kind towards those living expenses.
+
+(5) In this regulation and regulation 58—
+
+- (a) “**P1**” refers to the eligible infected person who has the earliest date of death;
+- (b) “**P2**” refers to the eligible infected person who has the latest date of death.
+
+#### 58. Amount of the affected supplemental payment[^key-37de1281e473bf7cfd5c0eab8bd2caec]
+
+(1) The amount of the affected supplemental payment in relation to Q is, subject to paragraph (3)—
+
+- (a) where Q is a parent or a sibling of a deceased eligible infected person (“**P**”), (A × £5,561) – D;
+- (b) where Q is a disabled child of P and regulation 57(3) does not apply to Q, (A × £5,561) – (B + D);
+- (c) where Q is a disabled child of P and regulation 57(3) applies to Q, (C × £22,243) – (B + D).
+
+(2) For the purposes of paragraph (1)—
+
+- (a) “A” is the number of years in the period which—
+  - (i) begins with the first year of Q’s compensation period[^key-f29082f72dc963a8deed5c213d9136ca], and
+  - (ii) subject to paragraph (2A),[^key-1ae8d6d857c09d202fb20bba00649fc8] ends with the year in which P was expected to attain the age of their healthy life expectancy;
+- (b) “B” is the amount of the affected financial loss award determined in relation to Q in accordance with regulation 53;
+- (c) “C” is the number of years in the period which—
+  - (i) begins with the first year of Q’s compensation period[^key-c89a2dcee00d1881d486698be0ef2713], and
+  - (ii) subject to paragraph (2A),[^key-c9efdde8c8be4a56fd3ba39a9bf2672e] ends with whichever is the later of—
+    - (aa) the year P1 was expected to attain the age of their healthy life expectancy, or
+    - (bb) the year P2 was expected to attain the age of their healthy life expectancy;
+- (d) “D” is E – F, where—
+  - (i) “E” is the sum of any deductible payments made in relation to Q, and
+  - (ii) “F” is the amount of the affected core award determined in relation to Q under regulation 49(2),
+
+  but if D is less than £0, it is to be treated as £0.
+
+(2A)[^key-c93e7928708ac33c1f6a0e7de76b90ce] If Q died before the year which would otherwise be the end of a period as described in paragraph (2)(a)(ii) or (c)(ii), then the period instead ends with the year in which Q died.
+
+(3) The annual amount for any year in which P, P1 or P2 would have been 66 or older is 50% of the annual amount that would (but for this paragraph) be determined in accordance with paragraph (1).
+
+## PART 5 — Payment of support scheme payments by the IBCA
+
+### CHAPTER 1 — Introductory
+
+#### 59. IBCA support scheme payments: general[^key-5a9ac9e02a5c56a0941f39f1f939a71e]
+
+(1) A payment (an “IBCA support scheme payment”) is to be made under the IBCS in accordance with this Part in relation to an eligible IBSS recipient (“**E**”).
+
+(2) The IBCA must make the IBCA support scheme payment to E[^key-9475442aa32c75466f8bf4386ca08d48] in accordance with regulation 60.
+
+(3) But no IBCA support scheme payment is payable in relation to E—
+
+- (a) where E has given the IBCA notice in writing that they do not wish to be paid an IBCA support scheme payment in accordance with this Part;
+- (b) in respect of any period beginning on or after the date of E’s death.
+
+(4) For the purposes of this Part, any reference to a year is a reference to a period of 12 months beginning with April and ending with March.
+
+(4A)[^key-d75988ea72ed45eee8ce8aeda959f3bb] For the purposes of this Part, an IBSS-registered affected person (“**A**”) is in a recent bereavement period during the 12-month period beginning with the calendar month after the month in which the person in respect of whom A is an IBSS-registered affected person died.
+
+(5) In this Part—
+
+- (a) “**the IBSS transfer date**” means—
+  - (i) if E is registered under the England Infected Blood Support Scheme, 23rd March 2027[^key-2b41aaa97115b60e36f109b167237245];
+  - (ii) if E is registered under the Wales Infected Blood Support Scheme, 15th January 2027[^key-31f747f6eaed7976231435997b9c837c];
+  - (iii) if E is registered under the Scottish Infected Blood Support Scheme, 1st February 2027[^key-729702d8b185c5a88bc9d26f13799b3d];
+  - (iv) if E is registered under the Infected Blood Payment Scheme for Northern Ireland, 1st February 2027[^key-6b88531424cefc30425b18f95c6d1007];
+- (b) “**the IBSS transfer year**” means the year beginning 1st April 2026[^key-91d40852433c85a9708ce7cebd9b9f1c];
+- (c) “**the Part 5 period**” means the period which—
+  - (i) begins with the IBSS transfer year, and
+  - (ii) ends with the year in which E dies.
+
+#### 60. Amount, and payment, of an IBCA support scheme payment[^key-625122ae83444ee85c7be2be62271e24]
+
+(1) The amount of the IBCA support scheme payment in relation to an eligible IBSS recipient (“**E**”) is the sum of—
+
+- (a) the remaining IBSS winter fuel payment (if any),
+- (b) the remaining IBSS category amount (if any),
+- (c) the support scheme winter fuel payment (see regulation 61), and
+- (d) the IBSS amount determined in accordance with regulation 62 or 63.
+
+(2) The remaining IBSS winter fuel payment (“**I**”) is to be calculated as FP – IBSS FP, where—
+
+- (a) “FP” is £695[^key-315f7d9369ee801c8fb8643ada907d3c];
+- (b) “IBSS FP” is the total amount of any payments made in relation to E by an infected blood support scheme in respect of the IBSS transfer year for the purpose of helping E meet expenses for heating which have been or are likely to be incurred in cold weather,
+
+but if “I” is less than £0, it is to be treated as £0.
+
+(3) The remaining IBSS category amount[^key-cde3de9f14519f02e61fab77cbf7fd0b] is to be calculated as A – B, where
+
+- (a) “A” is the IBSS category amount for the IBSS transfer year;
+- (b) “B” is the sum of any IBSS instalments made in relation to E by an infected blood support scheme for that year.
+
+(4) For the purposes of paragraph (3)—
+
+- (a) the “IBSS category amount” is the amount payable by an infected blood support scheme in relation to E for the IBSS transfer year which corresponds to—
+  - (i) where E is an IBSS-registered infected person, the amount specified in column 3 of the table in regulation 62 for the IBSS payment category which applied to E on 31st March 2025 or would have applied to E on that date had E been an IBSS-registered infected person on that date;
+  - (ii) where E is an IBSS-registered affected person who is, on the IBSS transfer date, not in a recent bereavement period[^key-14ca6e667badd1f7cfd7d4495be9bcbd], 75% of the amount specified in column 3 of that table for the IBSS payment category which applied on 31st March 2025 to the person (“**A**”) in relation to whom E is an IBSS-registered affected person or would have applied to A on that date;
+  - (iii)[^key-346e56d7d9cd376e1226c86af31543dc] where E is an IBSS-registered affected person who is, on the IBSS transfer date, in a recent bereavement period, the amount determined in accordance with paragraph (4A).
+- (b) an “IBSS instalment” is a monthly or quarterly instalment of an IBSS category amount made in relation to E by an infected blood support scheme.
+
+(4A)[^key-23ba6dacac049c6c860302d6e8b5bb19] Where E is an IBSS-registered affected person who is, on the IBSS transfer date, in a recent bereavement period, the IBSS category amount is the sum of—
+
+- (a) (B ÷ 12) × M, where—
+  - (i) “B” is the amount specified in column 3 of the table in regulation 62 for the IBSS payment category which applied on 31st March 2025 to the person (“**A**”) in relation to whom E is an IBSS-registered affected person or would have applied to A on that date;
+  - (ii) “M” is the number of months during the IBSS transfer year during which E is in a recent bereavement period, and
+- (b) ((B ÷ 12) × 0.75) × N, where—
+  - (i) “**B**” has the meaning given in sub-paragraph (a)(i);
+  - (ii) “N” is the number of months during the IBSS transfer year in which E is not in a recent bereavement period.
+
+(5) The IBCA support scheme payment must be made in relation to E as follows—
+
+- (a) the remaining IBSS winter fuel payment (if any) must be paid on, or as soon as reasonably practicable after, the IBSS transfer date;
+- (b) the remaining IBSS category amount (if any) must be paid in—
+  - (i) (12 – X) monthly instalments, where “X” is the number of monthly IBSS instalments made in relation to E in the IBSS transfer year, or
+  - (ii) where paragraph (6) applies, (4 – Y) quarterly instalments, where “Y” is the number of quarterly IBSS instalments made in relation to E in the IBSS transfer year.
+
+  and the remaining instalment, or, if there is more than one remaining instalment, the first such instalment, must be paid on, or as soon as reasonably practicable after, the IBSS transfer date;
+- (c) the support scheme winter fuel payment must be paid as a lump sum in each year of the Part 5 period;
+- (d) the IBSS amount is to be paid in each year of the Part 5 period—
+  - (i) in 12 monthly instalments, or
+  - (ii) where paragraph (6) applies, in 4 quarterly instalments.
+
+(6) This paragraph applies where, on or before 31st March 2026[^key-89991fdbbdb64c5bc48079c0920f904f], support scheme payments were being made by an infected blood support scheme in relation to E every 3 months.
+
+(7) The annual amount of the support scheme winter fuel payment and the annual amount of the IBSS amount are to be compounded on 1st April 2027[^key-decdd782a3572b9ad5ff73e39c2883a3], and each following 1st April, by the consumer price index over the 12-month period ending with the September immediately before that 1st April.
+
+(8) But paragraph (7) does not apply to the amount specified in regulation 63(3).
+
+### CHAPTER 2 — Amount of a support scheme payment
+
+#### 61. The support scheme winter fuel payment[^key-091f9f5f2e7a59964affec4e29aeca16]
+
+The IBCA support scheme payment in relation to an eligible IBSS recipient (“**E**”) must include an annual amount of £695[^key-5b4235e6554da8e3948fdac275455d28] (a “support scheme winter fuel payment”) for the Part 5 period (other than the IBSS transfer year) for the purpose of helping E meet expenses for heating which have been or are likely to be incurred in cold weather (but see regulation 60(7) which makes provision for uprating).
+
+#### 62. The IBSS amount: IBSS-registered infected persons[^key-6a3b1b1c43c2d9798f3500dd1b44d1aa]
+
+(1) The IBSS amount for an IBSS-registered infected person (“**I**”) is an annual amount for the Part 5 period (other than the IBSS transfer year) of the amount specified in column 3 of the table in this regulation corresponding to the relevant payment category (but see regulation 60(7) which makes provision for uprating).
+
+(2) The “**relevant payment category**”, in relation to I, is the payment category described in column 1 of the table which—
+
+- (a) applied to I on 31st March 2025, or
+- (b) if I was not an IBSS-registered infected person on 31st March 2025, would have applied to I on that date,
+
+as an IBSS-registered infected person.
+
+<table>
+<thead>
+<tr><th><em>Column 1</em><br><em>(description of payment category)</em></th><th><em>Column 2</em><br><em>(infected blood support scheme(s) in which description is used)</em></th><th><em>Column 3</em><br><em>(amount)</em></th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="3">(a)<br>“SCM” or “Special Category Mechanism” is used in the England Infected Blood Support Scheme in the description of certain payment categories under that Scheme.</td></tr>
+</tfoot>
+<tbody>
+<tr><td>Co-infected with HIV and Hepatitis C stage 2</td><td>The England Infected Blood Support Scheme<br>The Infected Blood Payment Scheme for Northern Ireland</td><td rowspan="6">£57,628</td></tr>
+<tr><td>Hepatitis C and HIV</td><td>The Scottish Infected Blood Support Scheme</td></tr>
+<tr><td>Co-infected (HIV and Hepatitis C stage 2)</td><td>The Wales Infected Blood Support Scheme</td></tr>
+<tr><td>Co-infected with Hepatitis C Stage 1 and SCM and HIV</td><td>The England Infected Blood Support Scheme</td></tr>
+<tr><td>Co-infected with Hepatitis C Stage 1 (enhanced) and HIV</td><td>The Infected Blood Payment Scheme for Northern Ireland</td></tr>
+<tr><td>Co-infected (HIV and Hepatitis C stage 1 + (enhanced support))</td><td>The Wales Infected Blood Support Scheme</td></tr>
+<tr><td>Co-infected with HIV and Hepatitis C Stage 1</td><td>The England Infected Blood Support Scheme and the Infected Blood Payment Scheme for Northern Ireland</td><td rowspan="2">£49,774</td></tr>
+<tr><td>Co-infected (HIV and Hepatitis C stage 1)</td><td>The Wales Infected Blood Support Scheme</td></tr>
+<tr><td>Hepatitis C stage 2</td><td>The infected blood support schemes</td><td rowspan="6">£36,669</td></tr>
+<tr><td>HIV</td><td>The infected blood support schemes</td></tr>
+<tr><td>Hepatitis C stage 1 and SCM</td><td>The England Infected Support Blood Scheme</td></tr>
+<tr><td>Chronic HCV (severely affected by their Hepatitis C infection)</td><td>The Scottish Infected Blood Support Scheme</td></tr>
+<tr><td>Hepatitis C stage 1 (enhanced)</td><td>The Infected Blood Payment Scheme for Northern Ireland</td></tr>
+<tr><td>Hepatitis C stage 1 + enhanced support</td><td>The Wales Infected Blood Support Scheme</td></tr>
+<tr><td>Hepatitis C stage 1</td><td>The infected blood support schemes</td><td rowspan="2">£24,179</td></tr>
+<tr><td>Chronic HCV (moderately affected by their Hepatitis C infection)</td><td>The Scottish Infected Blood Support Scheme</td></tr>
+<tr><td>Hepatitis C Stage 1 - neither moderately nor severely affected by their Hepatitis C infection</td><td>The Scottish Infected Blood Support Scheme</td><td>£12,091</td></tr>
+</tbody>
+</table>
+
+[^key-9e94add483b01500048a68910706398b][^f01000][^key-bd4ab9efd62d170cf380d132ed8a2aa1][^key-f5be9a8b0e4875395703d1603b22fef0][^key-2c2543f8c08e34d9364156f366c4e422][^key-5538b3b31f19204e3acaefe4dd514d46][^key-706dee07e7cd62b05843ad5501ed7bd6][^key-6cad59cbd97d5bb4aaef338b6ef14d10]
+
+#### 63. The IBSS amount: IBSS-registered affected persons[^key-df58788f657e2f453ffe1fe67dd2f657]
+
+(1) Subject to paragraphs (2A) and (3)[^key-1dc8ef8b50a1b9a865ea57600897156c], the IBSS amount for an IBSS-registered affected person (“**A**”) is an annual amount for the Part 5 period (other than the IBSS transfer year) of 75% of the relevant IBSS category amount (but see regulation 60(7) which makes provision for uprating).
+
+(2) “**The relevant IBSS category amount**”, in relation to A, is the amount specified in column 3 of the table in regulation 62 corresponding to the payment category described in column 1 of that table which applied to A’s deceased partner (“**I**”) on 31st March 2025, or, if I was not an IBSS-registered infected person on 31st March 2025, would have applied to I on that date by virtue of I being an IBSS-registered infected person.
+
+(2A)[^key-e68b3a92ca91c1a9d1eff3031421dbce] Subject to paragraph (3), where, at the beginning of a year during the Part 5 period other than the IBSS transfer year, A is in a recent bereavement period, the IBSS amount is the sum of—
+
+- (a) (B ÷ 12) × M, where—
+  - (i) “B” is A’s relevant IBSS category amount;
+  - (ii) “M” is the number of months during the year during which E is in a recent bereavement period, and
+- (b) ((B ÷ 12) × 0.75) × N, where—
+  - (i) “B” is A’s relevant IBSS category amount;
+  - (ii) “N” is the number of months during the year during which E is not in a recent bereavement period.
+
+(3) Where A—
+
+- (a) is registered under the England Infected Blood Support Scheme, and
+- (b) immediately before the IBSS transfer date, an annual amount of £18,000 was being paid in relation to A by virtue of the fact that the IBSS payment category that applied, or would have applied, to I on 31st March 2025 was “Hepatitis C stage 1”,
+
+the annual amount determined in accordance with paragraph (1) or (2A)[^key-5990dc5b4d52c30897e3bff28964f7f7] may not be less than £18,000 for any year of the Part 5 period.
+
+## PART 6 — Applications, determinations, reviews of determinations, and payments
+
+### CHAPTER 1 — Interpretation
+
+#### 64. Interpretation of Part 6[^key-8426e0d7c3db5f713ba93f14f64400df]
+
+In this Part—
+
+- “**connected affected supplemental payment**”, in relation to an affected core payment, means an affected supplemental payment determined in accordance with Chapter 2 of Part 4 pursuant to the affected core payment;
+- “**support scheme amount**”, in relation to—
+  - (a) an infected core payment determined in relation to an infected SSP recipient, means the amount determined in accordance with regulation 70(2)(b)(i);
+  - (b) an affected core payment determined in relation to an affected SSP recipient, means the amount determined in accordance with regulation 70(4)(b)(ii);
+- “**non-support scheme amount**”, in relation to—
+  - (a) an infected core payment determined in relation to an infected SSP recipient, means the amount determined in accordance with regulation 70(2)(b)(ii);
+  - (b) an affected core payment determined in relation to an affected SSP recipient, means the amount determined in accordance with regulation 70(4)(b)(iii).
+
+### CHAPTER 2 — Making an application
+
+#### 65. Form and time of making an application[^key-010fff827566e2034953f2ce3b48648c]
+
+(1) An application must be—
+
+- (a) made in writing to the IBCA by the relevant person,
+- (b) in a form approved by the IBCA, and
+- (c) signed by the relevant person.
+
+(2) An application is[^key-102263c56d5df1848e8dd55a9c3dd033] to be treated as having been made on the date on which it is received by the IBCA.
+
+#### 66. General provisions on evidence[^key-8b4713da06dbfb80f2ae2b13c92a3625]
+
+(1) Where an application relates to a deceased person, the application must be accompanied by a document that is by law sufficient evidence of—
+
+- (a) the grant of probate of the deceased person’s will,
+- (b) the grant of letters of administration of the deceased person’s estate, or
+- (c) confirmation of a person as the deceased person’s executor.
+
+(2) Where these Regulations would (but for this paragraph) require an application to be accompanied by evidence to establish a matter, the application need not be accompanied by that evidence if—
+
+- (a) the IBCA is satisfied that the matter has been established on the basis of evidence it has otherwise obtained, and
+- (b) the IBCA has notified the relevant person that the application need not be accompanied by evidence establishing that matter.
+
+(3) The IBCA may require a relevant person to give, in relation to the person in respect of whom an application is made—
+
+- (a) details of any steps taken, or planned to be taken, to obtain a deductible damages payment within the meanings of regulation 6(3), and
+- (b) a written undertaking that if a deductible damages payment is received the relevant person will notify the IBCA.
+
+(4) Nothing in these Regulations prevents the IBCA from requesting the provision or production of evidence that it requires for the purpose of determining an application.
+
+#### 67. Duty of relevant persons[^key-0979dfb5e025944d38c8d7f15bf08971]
+
+(1) A relevant person who makes an application must, as soon as reasonably practicable, inform the IBCA of—
+
+- (a) any matter that comes to the relevant person’s attention which may be relevant to the question of whether the person in respect of whom the application was made is eligible for an IBCS payment, or the amount of an IBCS payment, or
+- (b) any change in—
+  - (i) the relevant person’s address for correspondence, or
+  - (ii) the bank details of any person who is to receive an IBCS payment or an assigned care award payment.
+
+(2) The duty in paragraph (1) continues to apply after the application has been finally determined.
+
+(3) A relevant person must, so far as reasonably practicable and within any period specified by the IBCA, provide any other assistance to the IBCA which the IBCA requests by written notice in connection with the consideration of an application made by the relevant person.
+
+#### 68. Amendment or withdrawal of an application[^key-e569ce05945e34085783bf32f61e6878]
+
+(1) The relevant person may—
+
+- (a) amend an application they have made, or
+- (b) withdraw an application they have made,
+
+by notice given to the IBCA at any time before notice of the decision on the application has been given to the relevant person by the IBCA.
+
+(2) Any notice of withdrawal given in accordance with paragraph (1)(b) has effect when it is received by the IBCA.
+
+(3) Where an application is withdrawn under paragraph (1)(b), that application may not be reinstated (but this paragraph does not prevent a further application in respect of similar matters being made in accordance with these Regulations).
+
+#### 69. Death before an application has been finally determined[^key-6927b013a3bdc95321463b9a35d5f0e7]
+
+(1) Paragraph (2) applies where—
+
+- (a) an application is made by or on behalf of a person (“**B**”) who is not deceased when the application is made, and
+- (b) B dies—
+  - (i) before the application has been determined in accordance with regulation 70,
+  - (ii) where the IBCA has made an offer pursuant to the application, before the offer is accepted, or
+  - (iii) where the IBCA has determined that B is not eligible for an IBCS payment pursuant to the application, before the right to request a review of that determination under regulation 82 has been exhausted.
+
+(2) Where this paragraph applies—
+
+- (a) the application is to be treated as if it had been withdrawn,
+- (b) any offer is revoked, and
+- (c) no review may be requested under regulation 82 in respect of the application, and any review so requested is to be treated as if it had not been requested.
+
+### CHAPTER 3 — Determination of applications
+
+#### 70. Determination of applications by the IBCA[^key-65c3e4ca51c6209173389875ae1f5f7c]
+
+(1) On receipt of an infected core application, the IBCA must as soon as reasonably practicable determine whether—
+
+- (a) the person in respect of whom the application is made (“**P**”) is an infected SSP recipient,
+- (b) P is in the process of becoming an IBSS-registered infected person, or
+- (c) P is in the process of having their treatment under an infected blood support scheme varied because of a change in the severity of an infection,
+
+and the IBCA must not proceed with considering the application until those matters have been determined or, if later, the time that the IBCA determines that any process described in sub-paragraph (b) or (c) has been concluded.
+
+(2) Once the matters described in paragraph (1) have been determined, the IBCA must as soon as reasonably practicable go on to determine—
+
+- (a) whether P is an eligible infected person, and
+- (b) if P is an eligible infected person—
+  - (i) the amount of the infected core payment in relation to P,
+  - (ii) if P is an infected SSP recipient, the amount of the infected core payment that would be determined in relation to P if they were not an infected SSP recipient, and
+  - (iii) if the application included a care award assignment notice, whether each notified care award assignee provided care to P.
+
+(3) On receipt of an affected core application, the IBCA must as soon as reasonably practicable determine whether—
+
+- (a) the person in respect of whom the application is made (“**Q**”) is an affected SSP recipient, or
+- (b) Q is in the process of becoming an IBSS-registered affected person,
+
+and the IBCA must not proceed with considering the application until those matters have been determined or, if later, the time that the IBCA determines that the process described in sub-paragraph (b) has been concluded.
+
+(4) Once the matters described in paragraph (3) have been determined, the IBCA must as soon as reasonably practicable go on to determine—
+
+- (a) whether Q is an eligible affected person, and
+- (b) if Q is an eligible affected person—
+  - (i) whether paragraph (5) applies to Q,
+  - (ii) if paragraph (5) does not apply to Q, the amount of the affected core payment in relation to Q, and
+  - (iii) if Q is an affected SSP recipient, the amount of the affected core payment that would be determined in relation to Q if they were not an affected SSP recipient.
+
+(5) This paragraph applies to an eligible affected person (“**Q**”) if—
+
+- (a) Q is both an affected SSP recipient and an eligible affected person in relation to a particular eligible infected person (“**P**”),
+- (b) an infected core payment was made in relation to P on or before 31st March 2025, and
+- (c) P died on or before 31st March 2025.
+
+(6) On receipt of an application for an infected supplemental award, a further infected payment or an affected supplemental payment, the IBCA must as soon as reasonably practicable determine—
+
+- (a) whether the eligible person in respect of whom the application was made is eligible for the award or the payment, and
+- (b) if the eligible person is so eligible, the amount of the award or payment.
+
+#### 71. Burden and standard of proof[^key-224d49676d4bd80730ce1c80de86bfed]
+
+(1) The burden of proving any issue in connection with an application is on the relevant person.
+
+(2) The standard of proof which applies for the purpose of determining any issue in connection with an application is the balance of probabilities.
+
+#### 72. Requirement to give notice that no payment is to be made pursuant to an application[^key-ac6b849c827cebf3ee6ff1bdd62c1fbd]
+
+(1) Where the IBCA determines in accordance with—
+
+- (a) regulation 70(2)(a) or (4)(a) that the person in respect of whom the application was made is not an eligible person,
+- (b) regulation 70(6)(a) that the person in respect of whom the application was made is not eligible for an infected supplemental award, a further infected payment or an affected supplemental payment, or
+- (c) regulation 70(2)(b)(i) or (ii), (4)(b)(ii) or (iii) or (6)(b) that the amount of an IBCS payment or an infected supplemental award is £0,
+
+the IBCA must as soon as reasonably practicable give the relevant person notice of that determination.
+
+(2) The notice must include—
+
+- (a) the reasons for the determination,
+- (b) where the application was for an infected supplemental award, information about any subsequent application that may be made for an infected supplemental award (including the period within which such an application may be made), and
+- (c) information about—
+  - (i) the right of review described in regulation 82,
+  - (ii) the right of appeal to the First-tier Tribunal following any such review described in regulation 84, and
+  - (iii) the periods within which those rights must be exercised.
+
+#### 73. Requirement to give notice of eligibility for an infected supplemental award[^key-bdac76a7c0d962a34334621099a00b37]
+
+(1) Where the IBCA determines in accordance with regulation 70(6)(a) that the person in respect of whom the application was made is eligible for an infected supplemental award, the IBCA must as soon as reasonably practicable give the relevant person notice of that determination.
+
+(2) The notice must include—
+
+- (a) the amount of the infected supplemental award and the basis on which it was determined,
+- (b) information about any subsequent application that may be made for an infected supplemental award (including the period within which such an application may be made), and
+- (c) information about—
+  - (i) the right of review described in regulation 82,
+  - (ii) the right of appeal to the First-tier Tribunal following any such review described in regulation 84, and
+  - (iii) the periods within which those rights must be exercised.
+
+### CHAPTER 4 — Offer and acceptance of an IBCS payment
+
+#### 74. Requirement to offer to make an IBCS payment[^key-32ad8a8de38b168a88a93552a4f42bae]
+
+(1) Where the IBCA determines pursuant to an application made in relation to a person (“**R**”)—
+
+- (a) that—
+  - (i) R is an eligible person,
+  - (ii) an infected supplemental payment may be made in relation to R, or
+  - (iii) R is eligible for a further infected payment or an affected supplemental payment, and
+- (b) the amount of any IBCS payment is more than £0,
+
+the IBCA must as soon as reasonably practicable give the relevant person an offer in writing to make an IBCS payment to the relevant person.
+
+(2) Except where the offer is to make an affected core payment in relation to an affected SSP recipient to whom regulation 70(5) applies, the offer must include—
+
+- (a) the amount of the IBCS payment and the basis on which it was determined,
+- (b) the time by which the offer must be accepted (see regulation 75(1) and (2)),
+- (c) where the offer is to make an IBCS payment in relation to an eligible person who is not deceased, information about the option of making a periodic payment election, and
+- (d) information about—
+  - (i) the right of review described in regulation 82,
+  - (ii) the right of appeal to the First-tier Tribunal following any such review described in regulation 84, and
+  - (iii) the periods within which those rights must be exercised.
+
+(3) Where the offer is to make an affected core payment in relation to an affected SSP recipient to whom regulation 70(5) applies, the offer must include—
+
+- (a) the reasons for the determination that regulation 70(5) applies to the person,
+- (b) the non-support scheme amount and the basis on which it was determined,
+- (c) the information described in paragraph (2)(b) to (d), and
+- (d) a statement explaining that accepting the offer has the consequences described in paragraph (6)(b)(ii)(aa) to (cc).
+
+(4) Where the offer is to make an infected core payment—
+
+- (a) the offer must also include—
+  - (i) information about applying for infected supplemental awards,
+  - (ii) information about the indication that may be made in accordance with regulation 75(7),
+  - (iii) notice that failing to provide such an indication means that no application for an infected supplemental award may be made in future, and
+- (b) if the person in respect of whom the infected core application is made is not deceased, the application[^key-43fb1a0aa489bbd43d38c4e6b17c8332] included a care award assignment notice and the IBCA determined pursuant to regulation 70(2)(b)(iii) that any of the notified care award assignees provided care to the person in respect of whom the application is made, the offer must also include—
+  - (i) information about the election that may be made to assign some or all of any assignable care award in accordance with regulation 75(9),
+  - (ii) notice that making such an election means that the infected core payment will be reduced by the amount of any assigned care award payment, and
+  - (iii) notice that the assigned care award payment may be made to the relevant person in the circumstances described in regulation 76(7).
+
+(5) Where the offer is to make an affected core payment and the relevant person has not made an application for a connected affected supplemental payment, the offer must also include—
+
+- (a) information about applying for an affected supplemental payment,
+- (b) information about the indication that may be made in accordance with regulation 75(8), and
+- (c) notice that failing to provide such an indication means that no application for a connected affected supplemental payment may be made in future.
+
+(6) Where the offer is to make an infected core payment in relation to an infected SSP recipient or an affected core payment in relation to an affected SSP recipient to whom regulation 70(5) does not apply, the offer must also include—
+
+- (a) the non-support scheme amount and the basis on which it was determined, and
+- (b) information about the election that may be made in accordance with regulation 75(6), including that electing for the IBCS payment to be of the—
+  - (i) support scheme amount means that the person may continue to receive support scheme payments;
+  - (ii) non-support scheme amount means that—
+    - (aa) the person will no longer continue to receive support scheme payments,
+    - (bb) the IBCS payment will not become payable until the person has satisfied the IBCA that they are no longer to receive support scheme payments (see regulation 76(8)(a)), and
+    - (cc) the amount of the IBCS payment set out in the offer may not reflect the final amount of the payment, as it will be reduced by the amount of any support scheme payments received in relation to any period after 31st March 2025.
+
+#### 75. Acceptance of an offer to make an IBCS payment[^key-f42441dc8701511897b49d79c52ef6d9]
+
+(1) A relevant person may only accept an offer by notifying the IBCA of their acceptance in writing before the end of the period of 3 months beginning with—
+
+- (a) the date the offer is made,
+- (b) where the contents of the offer have been the subject of a review under regulation 82, the date of the review decision, or
+- (c) where the review decision has been the subject of an appeal to the First-tier Tribunal, the date the appeal is finally determined.
+
+(2) The IBCA may extend the period specified in paragraph (1) upon a request of the relevant person.
+
+(3) If the relevant person does not accept the offer within the period specified in paragraph (1) or as extended under paragraph (2), the offer expires and no IBCS payment is to be made pursuant to the offer.
+
+(4) An acceptance of an offer in relation to an eligible person who is not deceased—
+
+- (a) may include an election for the IBCS payment to be made by periodic payments, and
+- (b) must, if—
+  - (i) the acceptance includes such an election, and
+  - (ii) there is no current periodic payment term in relation to the eligible person,
+
+  also include an election that the term over which the periodic payments are to be made is 5, 10 or 25 years.
+
+(5) For the purposes of paragraph (4)(b)(ii), there is a current periodic payment term in relation to an eligible person if—
+
+- (a) an offer to make an IBCS payment (“the previous IBCS payment”) in relation to the eligible person has previously been accepted in accordance with this regulation,
+- (b) the acceptance of the previous IBCS payment included an election that the previous IBCS payment is to be made by periodic payments, and
+- (c) the term over which the previous IBCS payment is to be made as periodic payments has not expired.
+
+(6) An acceptance of an offer to make—
+
+- (a) an infected core payment in relation to an infected SSP recipient, or
+- (b) an affected core payment in relation to an affected SSP recipient to whom regulation 70(5) does not apply,
+
+may include an election as to whether the amount of the IBCS payment is to be the support scheme amount or the non-support scheme amount.
+
+(7) An acceptance of an offer to make an infected core payment may include an indication that the relevant person intends to apply for an infected supplemental award.
+
+(8) An acceptance of an offer to make an affected core payment may include an indication that the relevant person intends to apply for a connected affected supplemental payment.
+
+(9) Where regulation 74(4)(b) applies in relation to an offer—
+
+- (a) an acceptance of that offer may include an election that some or all of the amount of any assignable care award is to be assigned to one or more of the notified care award assignees which the IBCA determined provided care to the person in respect of whom the application is made, and
+- (b) if the acceptance includes such an election, the acceptance must also state the amount of the assignable care award which is to be assigned to each such notified care award assignee and the sum of such amounts must not exceed the assignable amount.
+
+(10) For the purpose of paragraph (9)(b), the assignable amount is the lesser of—
+
+- (a) the assignable care award, or
+- (b) A – B, where—
+  - (i) “A” is the infected core award determined in relation to P under regulation 15;
+  - (ii) “B” is the sum of all deductible payments made in relation to P (if any).
+
+(11) If an acceptance does not—
+
+- (a) include an election in accordance with paragraph (4), then the IBCS payment is to be made as a lump sum;
+- (b) include an election in accordance with paragraph (6), then the amount of the IBCS payment is to be the support scheme amount;
+- (c) include an indication in accordance with paragraph (7), then—
+  - (i) the acceptance is to be treated as if it contained an indication that no application for an infected supplemental award is to be made, and
+  - (ii) no such application may be made;
+- (d) include an indication in accordance with paragraph (8), then—
+  - (i) the acceptance is to be treated as if it contained an indication that no application for a connected affected supplemental payment is to be made, and
+  - (ii) no such application may be made;
+- (e) include an election in accordance with paragraph (9)(a) together with a statement in accordance with paragraph (9)(b), then the assignable care award is not to be assigned.
+
+### CHAPTER 5 — Making and recovering IBCS payments
+
+#### 76. Requirement to make an IBCS payment[^key-e115d6740b0b6e2f1b5f620f2a0b15c5]
+
+(1) Where an offer to make an IBCS payment in relation to an eligible person (“**R**”) has been accepted, the IBCA must pay the IBCS payment in accordance with this regulation.
+
+(2) Where the acceptance does not include a periodic payment election, the IBCS payment must be made to the relevant person as a lump sum as soon as reasonably practicable after the relevant time.
+
+(3) Where—
+
+- (a) the acceptance includes a periodic payment election, and
+- (b) there is no current periodic payment term in relation to R,
+
+the IBCS payment is to be made as periodic payments commenced in accordance with regulation 77 as soon as reasonably practicable after the relevant time.
+
+(4) Where—
+
+- (a) the acceptance includes a periodic payment election, and
+- (b) there is a current periodic payment term in relation to the eligible person,
+
+the remaining amount of the previous IBCS payment is to be increased by the amount of the IBCS payment mentioned in paragraph (1).
+
+(5) Regulation 75(5) applies for the purpose of determining whether there is a current periodic payment term in relation to R.
+
+(6) Where an election has been made in accordance with regulation 75(9)(a) that an amount of the assignable care award is to be assigned to a notified care award assignee (“**N**”)—
+
+- (a) the IBCA must retain an amount corresponding to the amount of the assignable care award assigned to N in the statement made in accordance with regulation 75(9)(b), and
+- (b) if—
+  - (i) the IBCA determines pursuant to an affected core application made in respect of N that N is an eligible affected person in relation to R, and
+  - (ii) the amount retained under sub-paragraph (a) has not been paid to the relevant person in relation to R in accordance with paragraph (7),
+
+  then the IBCA must pay the amount retained under sub-paragraph (a) to the relevant person in relation to N.
+
+(7) The amount retained under paragraph (6)(a) must be paid to the relevant person in relation to R if—
+
+- (a) the amount has not been paid to the relevant person in relation to N in accordance with paragraph (6)(b), and
+- (b) either—
+  - (i) the relevant person in relation to R notifies the IBCA in writing that the amount is no longer to be assigned to N, [^key-3aad05acfb38af4925306fca8f187fa2]...
+  - (ii)[^key-a600d0f6426a6e5312046d1b0543a223] the IBCA is notified that R has died, or
+  - (iii)[^key-88639f64c5b3aeee4ba56848f20dd51b] it appears to the IBCA that no affected core application may be made to establish that N is an eligible affected person in relation to R.
+
+(8) In this regulation, “**relevant time**” means—
+
+- (a) in relation to an infected SSP recipient or an affected SSP recipient in respect of whom an election is made in accordance with regulation 75(6)[^key-7baa55e07c7e8f192030650913a5eebd] for the non-support scheme amount—
+  - (i) the time at which the IBCA is satisfied that the person is no longer registered under an infected blood support scheme, or
+  - (ii) where the person is receiving support scheme payments from the IBCA, the time at which the person notifies the IBCA that they no longer wish to receive such payments from the IBCA and no longer wish to be treated as an infected SSP recipient or, as the case may be, an affected SSP recipient;
+- (b) in relation to any other person, the time at which the IBCA receives the acceptance.
+
+#### 77. Making periodic payments[^key-621836b84a09cdd11206b21719f819ee]
+
+(1) Where an IBCS payment is to be made in relation to an eligible person as periodic payments—
+
+- (a) an amount of that IBCS payment is payable in respect of each month of the term of payment (a “periodic payment”) (see paragraph (2)),
+- (b) after each periodic payment, the remaining amount of the IBCS payment is to be reduced by the amount of the periodic payment,
+- (c) where a periodic payment election is made in respect of a subsequent IBCS payment to be made in relation to the same eligible person, the remaining amount of the IBCS payment is to be increased by the amount of the subsequent IBCS payment (see regulation 76(4)), and
+- (d) at the beginning of the second payment period and each subsequent payment period (and before a periodic payment is paid in respect of the first month of such payment period), the remaining amount of the IBCS payment is to be compounded by the consumer price index over the 12-month period ending with the September before the beginning of the payment period.
+
+(2) The amount of the periodic payment payable in respect of each month of a payment period is CR ÷ (MT – MP), where—
+
+- (a) “CR” is the remaining amount of the IBCS payment at the beginning of the payment period (and before a periodic payment is paid in respect of the first month of the payment period);
+- (b) “MT” is the total number of months in the term of payment;
+- (c) “MP” is the number of months in respect of which a periodic payment had been paid immediately before the beginning of the payment period.
+
+(3) In respect of any month which falls within an adjustment period (see paragraph (4)), the amount of the periodic payment is to be increased by an amount equal to CI ÷ (MT – MA), where—
+
+- (a) “CI” is the amount by which the remaining amount of the IBCS payment has been increased in accordance with paragraph (1)(c);
+- (b) “MT” is the total number of months in the term of payment;
+- (c) “MA” is the number of months in respect of which a periodic payment had been paid immediately before the beginning of the adjustment period.
+
+(4) For the purposes of paragraph (3), an adjustment period—
+
+- (a) begins with the month immediately after the month in which the remaining amount of the IBCS payment was increased in accordance with paragraph (1)(c), and
+- (b) ends with the final month of the payment period in which that increase occurred.
+
+(5) For the purposes of this regulation, the payment periods are—
+
+- (a) the first period, being—
+  - (i) where the first periodic payment is payable in respect of March, that March only;
+  - (ii) otherwise, the period which—
+    - (aa) begins with the month in respect of which the first periodic payment is payable, and
+    - (bb) ends with the following March,
+- (b) each subsequent period of 12 months beginning with April and ending with March, until such period which is immediately before the final period, and
+- (c) the final period, being the period which—
+  - (i) begins with the April in which (counting that month) there are fewer than 13 months remaining of the term of payment, and
+  - (ii) ends with the month in respect of which the final periodic payment is payable.
+
+(6) In this regulation—
+
+- the “**remaining amount of the IBCS payment**” means the amount of the IBCS payment that remains payable for the time being after each reduction (if any) under paragraph (1)(b) and each increase (if any) under paragraph (1)(c) or (d);
+- “**term of payment**” means the fixed term over which an IBCS payment is payable in accordance with a periodic payment election.
+
+#### 78. Payment of an IBCS payment where an eligible person dies or opts out of periodic payments[^key-43f241278e17ef10d006f4ec8e241c24][^key-5f10f6f00e048e6323febaa934c01786]
+
+(1) Where—
+
+- (a) an offer to make an IBCS payment in relation to an eligible person has been accepted,
+- (b) the IBCS payment is to be made as a lump sum, and
+- (c) the IBCA is notified that the person has died before the IBCS payment has been made,
+
+the IBCS payment must be made to the person’s personal representatives as a lump sum.
+
+(2)[^key-cfb9911d938a08d8eeffcf3677a2e98e] Where—
+
+- (a) an IBCS payment in relation to an eligible person (“**E**”) is being paid, or is to be paid, as periodic payments in accordance with regulation 77, and
+- (b) before the end of the term of payment, either—
+  - (i) the IBCA is notified that E has died, or
+  - (ii) the relevant person has provided written notice to the IBCA that the remaining amount of the IBCS payment is no longer to be paid as periodic payments,
+
+the IBCA must pay the relevant amount to the relevant person and, for the purposes of regulation 77, the term of payment is to be treated as having ended when such payment is made.
+
+(3)[^key-467d68a4464055d2d91ee67fc311eb3a] In this regulation—
+
+- “**relevant amount**” means—
+  - (a) where paragraph (2)(b)(i) applies, the remaining amount of the IBCS payment;
+  - (b) where paragraph (2)(b)(ii) applies, the greater of £0 or A − B, where—
+    - (i) “A” is the sum of each of E’s IBCS payments in respect of which the relevant person made a periodic payment election (disregarding any reduction, increase or compounding of the amounts of such payments by virtue of regulation 77(1));
+    - (ii) “B” is the sum of all periodic payments made in respect of those IBCS payments pursuant to regulation 77;
+- “**remaining amount of the IBCS payment**” and “term of payment” have the meaning given in regulation 77(6).
+
+#### 79. Payment of future financial loss and care awards where an SSP recipient dies[^key-91b469bb768a6bb068f8936824249548][^key-c96fb284be0ed019b72a8ab41a968b5a]
+
+(1)[^key-0c0bcdb49f8afe033d23b3aaf7faa1ba] Where the IBCA is notified that an infected SSP recipient or an affected SSP recipient (“**E**”) has died, the IBCA must determine which is the greater of—
+
+- (a) E’s future loss (see paragraph (1A)), or
+- (b) E’s post-implementation support scheme amount (see paragraph (1B)).
+
+(1A)[^key-75545b2609cc6708294c0da358905c07] For the purposes of paragraph (1)(a), E’s future loss is, where E was immediately before they died—
+
+- (a) an infected SSP recipient, the sum of the future amounts (see regulation 7(1A)(b) and (1B)(b)[^key-5577dfeef8ce46119890f4943ac3dbdc]) of each award mentioned in paragraph (2) determined in relation to E;
+- (b) an affected SSP recipient, the sum of the future amounts determined in accordance with paragraphs (2A) to (2C),
+
+as those future amounts are to be treated as compounded in accordance with paragraph (4).
+
+(1B) For the purposes of paragraph (1)(b), E’s post-implementation support scheme amount is the sum of all support scheme payments made in relation to any period after 31st March 2025 to E, or to a person on behalf of E, by virtue of, where E was immediately before they died—
+
+- (a) an infected SSP recipient, an infection of E;
+- (b) an affected SSP recipient, E being a bereaved partner of a person infected with HIV or Hepatitis C (or both).
+
+(2) The awards referred to in paragraph (1A)(a)[^key-0b58f9c03055d90d57e795f313bf72ac] are—
+
+- (a) the basic financial loss award,
+- (b) the additional financial loss (core) award,
+- (c) the care (core) award,
+- (d) where an offer to make an infected supplemental payment has been accepted—
+  - (i) any care (severe health condition) award,
+  - (ii) any financial loss (severe health condition) award, and
+  - (iii) any financial loss (PAYE earnings) award,
+- (e) where an offer to make a further infected core payment has been accepted—
+  - (i) any additional financial loss (further core) award, and
+  - (ii) any care (further core) award, and
+- (f) where an offer to make a further infected supplemental payment has been accepted—
+  - (i) any care (further severe health condition) award,
+  - (ii) any financial loss (further severe health condition) award, and
+  - (iii) any further loss (further reduced earnings) award.
+
+(2A)[^key-2613c23ea65dc4d3cbfbb752ec62ee28] The future amounts referred to in paragraph (1A)(b) are a future amount (determined in accordance with paragraph (2B)) for each year of the period which—
+
+- (a) begins with 2025, and
+- (b) ends with the year in which the person in respect of whom E is an affected SSP recipient attained, or was expected to attain, the age of their healthy life expectancy.
+
+(2B) The future amount for a year is—
+
+- (a) for 2025, the difference between—
+  - (i) the final year amount that was determined in relation to E in accordance with regulation 54(5), and
+  - (ii) E’s non-support scheme annual amount for 2025;
+- (b) for any later year, E’s non-support scheme annual amount for that year.
+
+(2C) In paragraph (2B), “**E’s non-support scheme annual amount**”, in relation to a year, means the amount that would have been determined in relation to E for that year in accordance with regulation 53 if E’s affected core payment had included an amount by way of an affected financial loss award under that regulation.
+
+(3) Where the amount described in paragraph (1)(a) is greater than the amount described in paragraph (1)(b), the IBCA must pay an amount equal to the difference between those amounts to E’s[^key-02a18ed47bdc2f05387d359854f9d00f] personal representatives as a lump sum.
+
+(4)[^key-ee67581f39a5298508f3a4ec8a111cd4] Each future amount mentioned in paragraph (1A) is to be treated as if it had been, at the beginning of each April during the period—
+
+- (a) beginning with—
+  - (i) where E is an infected SSP recipient, the month in which the IBCS payment which comprised the award became payable (but if the IBCS payment became payable in April, that April is to be disregarded);
+  - (ii) where E is an affected SSP recipient, the month in which E’s affected core payment became payable (but if the affected core payment became payable in April, that April is to be disregarded), and
+- (b) ending with the date of E’s death,
+
+compounded by the consumer price index over the 12-month period ending with the September before that April.
+
+#### 79A. Payment of future financial loss and care awards where an eligible SSP recipient opts out of support scheme payments[^key-a517eec286b5eda6662eb2c7aeee7054]
+
+(1) This regulation applies where—
+
+- (a) the relevant person has provided written notice to the IBCA that an infected SSP recipient or an affected SSP recipient (“**E**”) is no longer to be treated as an infected SSP recipient or (as the case may be) an affected SSP recipient, and
+- (b) where E was receiving support scheme payments by virtue of—
+  - (i) being registered under an infected blood support scheme, the IBCA is satisfied that the person is no longer registered under an infected blood support scheme, or
+  - (ii) Part 5, such payments are no longer payable in relation to P in accordance with regulation 59(3)(a).
+
+(2) Where this regulation applies, the IBCA must determine which is the greater of—
+
+- (a) the sum of—
+  - (i) where E was an infected SSP recipient, the future amounts (see regulation 7(1A)(b) and (1B)(b)[^key-8de18dcb3ab443a5d1f28988a1016d5e]) of each award mentioned in regulation 79(2) determined in relation to E;
+  - (ii) where E was an affected SSP recipient, the future amounts determined in accordance with regulation 79(2A) to (2C), or
+- (b) the sum of all support scheme payments made in relation to any period after 31st March 2025 to E, or to a person on behalf of E, by virtue of, where E was—
+  - (i) an infected SSP recipient, an infection of E;
+  - (ii) an affected SSP recipient, E being a bereaved partner of a person infected with HIV or Hepatitis C (or both).
+
+(3) Where the amount described in paragraph (2)(a) is greater than the amount described in paragraph (2)(b), the IBCA must pay an amount equal to the difference between those amounts to the relevant person.
+
+#### 80. Recovery of overpayments[^key-921ff138cd2058d593e465d5ab6c59a0]
+
+(1) This regulation applies where the IBCA has—
+
+- (a) made an IBCS payment, an assigned care award payment or an IBCA support scheme payment to a person, and
+- (b) determined, pursuant to a review under regulation 83, that the amount of the payment exceeds the amount that was payable to that person under the IBCS (and the “excess amount” is the difference between the amount the person was paid and the amount that was payable).
+
+(2) The IBCA may (but need not) require repayment of the excess amount by a notice given—
+
+- (a) where the excess amount relates to an IBCS payment or an IBCA support scheme payment, to the relevant person;
+- (b) where the excess amount relates to an assigned care award payment, to one or both of—
+  - (i) the relevant person in relation to the eligible infected person whose assignable care award was assigned;
+  - (ii) the relevant person in relation to the eligible affected person in respect of whom the assigned care award payment was made.
+
+(3) The notice must state—
+
+- (a) the excess amount,
+- (b) the period within which the excess amount must be repaid, and
+- (c) the means by which the excess amount must be repaid.
+
+(4) The excess amount is recoverable as a civil debt.
+
+#### 81. Offsetting[^key-a48f02af0f23d38948f66a4892daef55]
+
+(1) Where the IBCA is satisfied that any incorrect periodic payments or incorrect SSP instalments have been made to a relevant person, it may (but need not)—
+
+- (a) offset all or part of the periodic excess amount against one or more future periodic payments;
+- (b) offset all or part of the category excess amount against one or more future SSP instalments.
+
+(2) A periodic payment is incorrect if—
+
+- (a) following a review under regulation 83 of the determination of the application for the IBCS payment pursuant to which the payment was made (the “original determination”)—
+  - (i) it is determined that the amount of the IBCS payment payable to the relevant person under the IBCS is less than the amount offered to them following the original determination, and
+  - (ii) the periodic payment was made before the new determination was made, or
+- (b) for any reason, the amount of the periodic payment exceeded the amount calculated in accordance with regulation 77 for the month of the payment period in which it was made.
+
+(3) An SSP instalment is incorrect if—
+
+- (a) following a review under regulation 82 or 83—
+  - (i) the IBCA determines that the incorrect IBSS payment category was applied for the purposes of determining the amount of the SSP category amount payable in relation to an eligible IBSS recipient (“**E**”) and as a result that amount is less than originally determined, and
+  - (ii) the SSP instalment was made before the new determination was made, or
+- (b) for any reason, the amount of the SSP instalment exceeded the amount calculated in accordance with regulation 60(3) and (5)(b) or, as the case may be, regulation 60(5)(d) and regulation 62 or 63 for the month, or quarter, in respect of which the instalment was made.
+
+(4) The IBCA may only offset any part of the periodic excess amount against future periodic payments of—
+
+- (a) where paragraph (2)(a) applies, the IBCS payment offered to the relevant person following the new determination;
+- (b) where paragraph (2)(b) applies, the IBCS payment in relation to which the incorrect periodic payments were made.
+
+(5) The IBCA may (but need not) offset all or part of an outstanding excess amount against a payment (other than a periodic payment) of a future IBCS payment in relation to an eligible person (“**R**”) if it is satisfied—
+
+- (a) a relevant person was required, in accordance with regulation 80, to repay an excess amount (within the meaning of that regulation) relating to an IBCS payment in relation to P, and
+- (b) the relevant person has not repaid all or any part of that amount (and the amount that has not been repaid is referred to in this regulation as the “**outstanding lump sum excess amount**”).
+
+(6) The IBCA may (but need not) offset all or part of any outstanding WF excess amount against a future SSP winter fuel amount payable in relation E if it is satisfied—
+
+- (a) a relevant person was required, in accordance with regulation 80, to repay an excess amount (within the meaning of that regulation) relating to an SSP winter fuel amount in relation to E, and
+- (b) the relevant person has not repaid all or part of that amount (and the amount that has not been repaid is referred to in this regulation as the “**outstanding WF excess amount**”).
+
+(7) Before offsetting any sum against any payment or SSP instalment (each a “relevant payment”), the IBCA must notify the relevant person of—
+
+- (a) its intention to offset the whole of the relevant excess amount, or part of it, against the relevant payment or payments,
+- (b) the relevant excess amount, and, if the IBCA intends to offset only part of that amount, the amount which it intends to offset,
+- (c) where paragraph (2)(b) or (3)(b) applies, the correct amount of the relevant payments before any offsetting;
+- (d) if the IBCA proposes to offset the relevant excess amount or any part of it against one or more future relevant payments—
+  - (i) the relevant payment against which the relevant excess amount, or part of it, will be offset, or as the case may be the first relevant payment against which part of the relevant excess amount will be offset, and
+  - (ii) the number of relevant payments that will be affected and the amount by which each will be reduced.
+
+(8) The relevant payment notified for the purposes of paragraph (7)(d)(i) must not be earlier than—
+
+- (a) in the case of a periodic payment, the periodic payment which is due in the month of the payment period falling immediately after the month in which the notice is given to the relevant person;
+- (b) in the case of an SSP instalment, the SSP instalment which is due in the month, or, as the case may be, the quarter falling immediately after the month in which the notice is given to the relevant person.
+
+(9) If, in a case where paragraph (2)(b) or (3)(b) applies, the IBCA does not propose to offset the relevant excess amount against future relevant payments, it must ensure that the relevant person is notified of—
+
+- (a) where paragraph (2)(b) applies, the correct amount of the periodic payments to be made to them in the payment period;
+- (b) where paragraph (3)(b) applies, the correct amount of the SSP instalments to be made to them in the Part 5 period.
+
+(10) For the purposes of this regulation—
+
+- “the periodic excess amount”—
+  - (a) where paragraph (2)(a) applies, is OP – NP, where—
+    - (i) “OP” is the periodic payment that was, or, as the case may be, the sum of the periodic payments that were, made to the relevant person in the period before the offer of an IBCS payment was made following the new determination (the “old determination period”), and
+    - (ii) “NP” is the periodic payment, or, as the case may be, the sum of the periodic payments, that would have been made to the relevant person in the old determination period, had the offer to make an IBCS payment made following the original determination been of the same amount as the offer made following the new determination;
+  - (b) where paragraph (2)(b) applies—
+    - (i) is the amount by which the payment exceeded the amount calculated in accordance with regulation 77, or
+    - (ii) if two or more incorrect periodic payments were made, is the sum of the amounts by which each of those payments exceeded the amount calculated in accordance with regulation 77;
+- “the category excess amount”—
+  - (a) where paragraph (3)(a) applies, is OC – NC, where—
+    - (i) “OC” is the instalment that was, or, as the case may be, the sum of the instalments that were, made to the relevant person in the period before the IBCA determined that the incorrect IBSS payment category had been applied for the purposes of determining the SSP category amount in relation to E (“the old category period”), and
+    - (ii) “NC” is the instalment, or, as the case may be, the sum of the instalments that would have been made to the relevant person in the old category period, had the correct IBSS payment category been applied for the purposes of determining the SSP category amount in relation to E;
+  - (b) where paragraph (3)(b) applies—
+    - (i) is the amount by which the instalment exceeded the amount calculated in accordance with regulation 60(3) and (5)(b) or, as the case may be, regulation 60(5)(d) and regulation 62 or 63, or
+    - (ii) if two or more incorrect instalments were made, is the sum of the amounts by which each of those instalments exceeded the amount calculated in accordance with those provisions.
+
+(11) In this regulation—
+
+- “**the relevant excess amount**” means—
+  - (a) the periodic excess amount,
+  - (b) the outstanding lump sum excess amount,
+  - (c) the category excess amount, or
+  - (d) the outstanding WF excess amount;
+- “**SSP instalment**” means an instalment of an SSP category amount;
+- “**SSP category amount**” means—
+  - (a) the remaining IBSS category amount of an IBCA support scheme payment (see regulation 60(1)(b) and (3)), or
+  - (b) the IBSS category amount of an IBCA support scheme payment (see regulation 62 or 63);
+- “**SSP winter fuel amount**” means—
+  - (a) the remaining IBSS winter fuel payment (see regulation 60(1)(a) and (2)), or
+  - (b) the support scheme winter fuel payment (see regulation 61).
+
+(12) This regulation does not affect the operation of regulation 80.
+
+### CHAPTER 6 — Reviews and appeals
+
+#### 82. Review initiated by or on behalf of a person in respect of whom an application was made[^key-b1aa07b0ec1cb386f48842642cb1763b]
+
+(1) The IBCA must, on the request of a review applicant, review a determination (“the original determination”)—
+
+- (a) about who is the relevant person in relation to a person in respect of whom an application was made;
+- (b) about the amount of an IBCA support scheme payment to be made to a person;
+- (c) made in accordance with regulation 70(2)(a) or (4)(a) that the person in respect of whom the application was made is not an eligible person;
+- (d) made in accordance with regulation 70(2)(b)(iii) that a notified care award assignee did not provide care to the person in respect of whom the application was made;
+- (e) made in accordance with regulation 70(4)(b)(i) that regulation 70(5) applies to the person in respect of whom the application was made;
+- (f) made in accordance with regulation 70(6)(a) that the person in respect of whom the application was made is not eligible for an infected supplemental award, a further infected payment or an affected supplemental payment;
+- (g) made in accordance with regulation 70(2)(b), (4)(b)(ii) or (iii) or (6)(b) about the amount of an IBCS payment or infected supplemental award.
+
+(2) In paragraph (1), “**review applicant**” means—
+
+- (a) where the original determination relates to an IBCS payment or an assigned care award payment—
+  - (i) the person in respect of whom an application was made or a person acting on their behalf, or
+  - (ii) where the person in respect of whom the application was made is deceased, a personal representative of that person, and for the purposes of this paragraph regulation 5(4) applies to the treatment of someone as the person’s personal representative as it applies to the treatment of someone as E’s personal representative;
+- (b) where the original determination relates to an IBCA support scheme payment, the person in relation to whom the payment was made or a person acting on their behalf.
+
+(3) A request may not be made to review the original determination if—
+
+- (a) the original determination led to an offer, and
+- (b) the offer has been accepted.
+
+(4) The request referred to in paragraph (1) must—
+
+- (a) be in writing,
+- (b) be signed by the review applicant,
+- (c) specify the grounds on which the request for a review is made, and
+- (d) be given to the IBCA within a period of 3 months beginning with the day on which notice of the original determination is given to the applicant.
+
+(5) The review applicant may submit further evidence in connection with the request to review the original determination which the IBCA must consider when conducting the review.
+
+(6) Evidence may only be submitted under paragraph (5)—
+
+- (a) within the period of 6 months beginning with the day on which the request referred to in paragraph (1) is given to the IBCA, or
+- (b) where the IBCA determines that it is reasonable to extend that period, within the period of 12 months beginning with the day on which the request referred to in paragraph (1) is given to the IBCA.
+
+(7) The IBCA must take reasonable steps to ensure that the review is carried out by a member of the IBCA’s staff who had no involvement in the making of the original determination.
+
+(8) The decisions that may be made on a review are—
+
+- (a) to confirm the original determination, or
+- (b) to revoke the original determination and make a new determination in accordance with these Regulations.
+
+(9) The IBCA must give to the review applicant a notice of the decision on the review.
+
+(10) The notice must—
+
+- (a) state—
+  - (i) that the original determination has been confirmed or revoked and remade, and
+  - (ii) the terms of any new determination which has been made,
+- (b) give the reasons for the decision made on the review,
+- (c) state that the review applicant may appeal to the First-tier Tribunal against the decision made on review, and
+- (d) state the period within which such an appeal is to be made and provide information as to how to make such an appeal.
+
+(11) Nothing in this regulation requires the IBCA to review a decision made under this regulation or under regulation 83.
+
+#### 83. Review initiated by the IBCA[^key-b23f305124da1f14ab9f5f5f9e426f9e]
+
+(1) The IBCA may, at any time after it has determined—
+
+- (a) an application under regulation 70, or
+- (b) to commence making IBCA support scheme payments to a person,
+
+decide on its own initiative to conduct a review of the determination (“the original determination”) or any matter it has decided in connection with that determination.
+
+(2) Where the IBCA decides to conduct a review under paragraph (1), it must notify the relevant person of the review and the reasons for it unless the IBCA considers that such notification would jeopardise the proper administration of the IBCS.
+
+(3) The grounds on which the IBCA may conduct a review under this regulation include that—
+
+- (a) whether fraudulently or otherwise, any person has misrepresented or failed to disclose a material fact and the original determination was made in consequence of the misrepresentation or failure,
+- (b) the original determination was based on a mistake as to a material fact, or
+- (c) there was an error or omission which affected the substance of the original determination, including as to the amount of any payment made under the IBCS.
+
+(4) The relevant person may submit written representations to the IBCA about the IBCA’s decision to conduct a review and about any information on which the decision to conduct a review was based.
+
+(5) Any representation which is made under paragraph (4) must be sent so that it is received by the IBCA not later than 28 days after the date of the IBCA’s notice of the review under paragraph (2).
+
+(6) The IBCA may extend the time limit in paragraph (5) by a further period where the IBCA considers that there was good reason for the failure to submit written representations before the end of that initial period and for any delay since then in submitting written representations.
+
+(7) The decisions that may be made on a review under paragraph (1) are—
+
+- (a) to confirm the original determination, or
+- (b) to revoke the original determination and make a new determination in accordance with these Regulations.
+
+(8) Where the IBCA conducts a review under paragraph (1)—
+
+- (a) it must take reasonable steps to ensure that the review is carried out by a member of the IBCA’s staff who had no involvement in the making of the original determination, and
+- (b) it must notify the applicant of the decision on the review.
+
+(9) The notice under paragraph (8) must—
+
+- (a) state—
+  - (i) that the original determination has been confirmed or revoked and remade, and
+  - (ii) the terms of any new determination which has been made,
+- (b) give the reasons for the decision made on the review,
+- (c) state that the relevant person may appeal to the First-tier Tribunal against the decision made on review, and
+- (d) state the period within which such an appeal is to be made and provide information as to how to make such an appeal.
+
+#### 84. Appeals[^key-c9c907de03095937346a5c720b0d4e4d]
+
+(1) The review applicant may appeal to the First-tier Tribunal from a decision that has been made on a review under regulation 82(1).
+
+(2) The relevant person may appeal to the First-tier Tribunal from a decision that has been made on a review under regulation 83(1).
+
+## PART 7 — Miscellaneous
+
+### 85. Review of administration of the IBCS[^key-a653f753dbd9da958f70b9010af5f08b]
+
+(1) The Minister for the Cabinet Office or the Secretary of State must carry out a review of the administration of the IBCS by the IBCA under these Regulations.
+
+(2) The review referred to in paragraph (1) must begin on a date falling within the period beginning with 1st April 2026 and ending with 31st March 2027.
+
+### 86. Revocation and savings[^key-7883be2a23831c90956f99f6478c7d31]
+
+(1) The Infected Blood Compensation Scheme Regulations 2024[^f00040] (“**the first Regulations**”) are revoked.
+
+(2) But, subject to regulation 87, the first Regulations continue to have effect in relation to any—
+
+- (a) application for a compensation payment made under regulation 30 of the first Regulations before these Regulations come into force;
+- (b) review initiated under regulation 40 or 41 of the first Regulations before these Regulations come into force;
+- (c) offer to make a compensation payment given under regulation 10 of the first Regulations before these Regulations come into force;
+- (d) compensation payment, including any periodic payment, made or determined under Part 4 or Part 5 of the first Regulations before these Regulations come into force;
+- (e) excess amount recovered under regulation 43 of the first Regulations before these Regulations come into force.
+
+### 87. Transitional provision[^key-2207b50cd53c139ae9121b17c3895d38]
+
+(1) For the purposes of—
+
+- (a) Part 3, and
+- (b) Parts 4 and 6 so far as they apply in relation to applications made, and IBCS payments determined, under Part 3,
+
+a compensation payment determined and made under the Infected Blood Compensation Scheme Regulations 2024 (“**the first Regulations**”) is to be treated as if it was an infected core payment determined and made under the corresponding provisions of these Regulations.
+
+(2) The IBCA must give to the relevant person (“**R**”) in relation to each person (“**P**”) in respect of whom a compensation payment was made under the first Regulations written notice that R may make an application in relation to P for—
+
+- (a) any or all of the supplemental awards in accordance with Chapter 2 of Part 3;
+- (b) a further infected core payment or a further infected supplemental payment in accordance with Chapter 3 of Part 3.
+
+(3) The notice must include information about applying for those awards and payments.
+
+(4) On receipt of the notice, the relevant person may apply for a supplemental award in accordance with Chapter 2 of Part 3 as if the acceptance of the compensation payment under the first Regulations had included the indication described in regulation 75(7).
+
+Nick Thomas-Symonds
+
+Minister for the Cabinet Office
+
+Cabinet Office
+
+27th March 2025
+
+## SCHEDULE 1 — Infection severity levels for Hepatitis B and Hepatitis C[^key-59c175ee60240814b789fa4c0309e44b]
+
+Regulation 2(4)
+
+| Infection severity level | Description of infection severity level |
+| --- | --- |
+| Level 1: Hepatitis C only | Acute infection, being a transient, self-cleared infection |
+| Level 2: Hepatitis B and / or Hepatitis C | Chronic infection characterised by:<br>- (a) Hepatitis B – infection with confirmed Hepatitis B surface antigen (HBsAg) positivity for longer than 6 months with detectable Hepatitis B virus DNA on a polymerase chain reaction test, if not on antiviral therapy<br>- (b) Hepatitis C – infection with replicating Hepatitis C virus RNA |
+| Level 2B: Hepatitis B and / or Hepatitis C[^key-a62c45bf06cf812d92925749c0467720] | An infection of severity level 2 where the person has received interferon treatment for their Hepatitis B or Hepatitis C infection (or both) |
+| Level 3: Hepatitis B and / or Hepatitis C | (1) Cirrhosis, characterised by serious scarring (serious[^key-807409b7495fb182efde7ff0857fc742] fibrosis) of the liver caused by long-term liver damage caused by infection<br>(2) Treatment of B–cell non-Hodgkin’s lymphoma caused by infection – single round treatment (first line therapy)<br>(3) Type 2 or 3 cryoglobulinemia caused by infection accompanied by membranoproliferative glomerulonephritis |
+| Level 4: Hepatitis B and / or Hepatitis C | (1) Decompensated cirrhosis caused by infection, characterised by:<br>- (a) the presence of hepatic encephalopathy (confusion due to liver damage),<br>- (b) ascites (accumulation of fluid in the abdomen),<br>- (c) variceal haemorrhage (bleeding from dilated veins in the gullet or stomach), or<br>- (d) a Child-Pugh score greater than 7<br>(2) Treatment of B-cell non-Hodgkin’s lymphoma caused by infection – multiple round treatment (second line therapy)<br>(3) Long-term liver damage caused by infection necessitating liver transplantation<br>(4) Presence of liver cancer caused by infection |
+| Level 5: Hepatitis B only | Infection resulting in death from acute liver failure within 12 months of infection or within 12 months of reactivation of the infection |
+
+## SCHEDULE 2 — Severe health conditions
+
+Regulation 28(1)
+
+### 1. Interpretation of Schedule 2[^key-5c3564c0588959a16c844ffd6d812974]
+
+(1) In this Schedule, “**level 2 care**” has the meaning given in regulation 34(5)(b).
+
+(2) For the purposes of this Schedule, a person has been assessed as needing level 2 care if they have been so assessed by—
+
+- (a) a local authority in accordance with—
+  - (i) section 9 or 58 of the Care Act 2014[^f00041],
+  - (ii) section 36 of the Children and Families Act 2014[^f00042],
+  - (iii) section 19 or 21 of the Social Services and Well-being (Wales) Act 2014[^f00043], or
+  - (iv) section 12A of the Social Work (Scotland) Act 1968[^f00044],
+- (b) a body which was subject to any duties—
+  - (i) which correspond to the duties contained in the enactments mentioned in paragraph (a)(i) to (iv), and
+  - (ii) which applied before the commencement of those enactments,
+- (c) a Health and Social Care trust[^f00045] or any body which exercised corresponding functions to assess the health and social care needs of individuals in an area before the Health and Social Care trust for that area was established,
+- (d) a health service or government department in a Crown Dependency which exercises, or exercised, functions to assess the health and social care needs of individuals, or
+- (e) the IBCA or a person acting on its behalf for the purposes of this Schedule.
+
+### 2. Severe sight impairment[^key-bac39e568b04b9a39718b9e2bee85fab]
+
+A person (“**P**”) is to be treated as having severe sight impairment if—
+
+- (a) P has HIV,
+- (b) P has been diagnosed with any of the following conditions, secondary to advanced HIV disease—
+  - (i) optic neuropathy secondary to cryptococcal meningitis;
+  - (ii) cytomegalovirus retinitis;
+  - (iii) varicella zoster virus necrotising retinitis;
+  - (iv) herpes simplex virus necrotising retinitis;
+  - (v) toxoplasmosis chorioretinitis;
+  - (vi) cortical blindness secondary to progressive multifocal leucoencephalopathy, and
+- (c) a consultant ophthalmologist has certified that P is severely sight-impaired or blind.
+
+### 3. Neurological conditions resulting in long-term severe physical disability[^key-f1a5211ad211c0bca34bdf7591749ef3]
+
+(1) A person (“**P**”) is to be treated as having a neurological condition resulting in long-term severe physical disability if—
+
+- (a) P has—
+  - (i) HIV and has been diagnosed with any of the conditions listed in sub-paragraph (2);
+  - (ii) a Hepatitis B infection of severity level 2, 3 or 4 and has been diagnosed with any of the conditions listed in sub-paragraph (3);
+  - (iii) a Hepatitis C infection of severity level 2, 3 or 4 and has been diagnosed with any of the conditions listed in sub-paragraph (4), and
+- (b) P has been assessed as needing at least level 2 care as a result of the diagnosed condition.
+
+(2) The conditions referred to in sub-paragraph (1)(a)(i) are—
+
+- (a) any of the following conditions, if the condition is secondary to advanced HIV disease and neoplasia secondary to that disease—
+  - (i) cerebral toxoplasmosis;
+  - (ii) central nervous system tuberculosis;
+  - (iii) cytomegalovirus encephalitis;
+  - (iv) varicella zoster virus encephalitis;
+  - (v) herpes simplex virus encephalitis;
+  - (vi) Epstein Barr virus encephalitis;
+  - (vii) progressive multifocal leucoencephalopathy;
+  - (viii) cryptococcal meningitis;
+  - (ix) primary central nervous system lymphoma;
+  - (x) thromboembolic disease secondary to bacterial or fungal endocarditis;
+- (b) any of the following conditions, secondary to, or associated with, HIV infection—
+  - (i) HIV vacuolar myelopathy;
+  - (ii) transverse myelitis;
+  - (iii) thrombotic thrombocytopenic purpura;
+  - (iv) cerebrovascular ischaemic or haemorrhagic stroke;
+  - (v) coagulopathies: Antiphospholipid syndrome;
+  - (vi) chronic inflammatory demyelinating polyneuropathy;
+  - (vii) cytomegalovirus polyradiculopathy;
+  - (viii) HIV myopathy.
+
+(3) The conditions referred to in sub-paragraph (1)(a)(ii) are—
+
+- (a) peripheral neuropathy caused by mixed cryoglobulinaemic vasculitis that results in mobility disability;
+- (b) peripheral neuropathy occurring in the context of Hepatitis B-associated polyarteritis nodosa that results in mobility disability.
+
+(4) The conditions referred to in sub-paragraph (1)(a)(iii) are—
+
+- (a) cryoglobulinaemic vasculitis induced neurological disease that results in mobility disability;
+- (b) peripheral neuropathy caused by mixed cryoglobulinaemic vasculitis that results in mobility disability.
+
+### 4. Neurological conditions resulting in long-term severe neurocognitive impairment[^key-af4a84ffa18e4c31d0113e99dd3d549a]
+
+(1) A person (“**P**”) is to be treated as having a neurological condition resulting in long-term severe neurocognitive impairment if—
+
+- (a) P has HIV,
+- (b) P has been diagnosed with any of the following conditions—
+  - (i) HIV brain disease or cerebrovascular disease resulting in dementia or behavioural disorder;
+  - (ii) a legacy opportunistic central nervous system infection secondary to advanced HIV disease resulting in dementia or behavioural disorder,
+- (c) HIV infection is the main underlying cause or a significant contributing factor to that condition, and
+- (d) P has been assessed as needing at least level 2 care as a result of that condition.
+
+(2) P is also to be treated as having a neurological condition resulting in long-term severe neurocognitive impairment if—
+
+- (a) P has an infection of Hepatitis B or Hepatitis C (or both) of severity level 4 and has been diagnosed with chronic hepatic encephalopathy in association with decompensated cirrhosis for a period of at least 4 years, and
+- (b) P has been assessed as needing at least level 2 care as a result of that condition.
+
+### 5. Severe psychiatric conditions[^key-0c02c8224571a76aec754a0bffec8e6e]
+
+(1) A person (“**P**”) is to be treated as having a severe psychiatric condition if—
+
+- (a) P has—
+  - (i) HIV, or
+  - (ii) an infection of Hepatitis B or Hepatitis C (or both) of severity level 2, 3 or 4,
+- (b) a consultant psychiatrist has—
+  - (i) diagnosed P with a condition described in sub-paragraph (2), and
+  - (ii) confirmed that P’s infection or any consequent interferon treatment is the cause, or a major cause, of the condition or of its course, and
+- (c) as a result of the condition, P has received—
+  - (i) consultant-led secondary mental health treatment for a period of at least 6 months, or
+  - (ii) assessment or treatment as an inpatient (compulsorily or otherwise).
+
+(2) The descriptions of condition referred to in paragraph (1)(b)(i) are—
+
+- (a) depressive disorders;
+- (b) bipolar disorders;
+- (c) generalised anxiety or panic disorders;
+- (d) post-traumatic stress disorders;
+- (e) adjustment disorders;
+- (f) secondary psychotic disorders [^key-f27cf72309478acf842cd19db9f54a9f]...
+
+### 6. End-stage kidney disease requiring renal replacement therapy[^key-024907aabeb6e58792210d6a47ab9234]
+
+A person (“**P**”) is to be treated as having end-stage kidney disease requiring renal replacement therapy if they have required renal replacement therapy for at least 3 months as a result of—
+
+- (a) where P has HIV, any of the following conditions—
+  - (i) HIV-associated nephropathy;
+  - (ii) HIV-associated immune complex chronic kidney disease;
+  - (iii) drug associated kidney disease in conjunction with treatment with foscarnet sodium[^key-6a6aaadd6f8d182b5fe1036fc6c3bde7], cidofovir or tenofovir disoproxil;
+- (b) where P has a Hepatitis B infection of severity level 2, 3 or 4, any of the following conditions—
+  - (i) membranous nephropathy;
+  - (ii) membranoproliferative glomerulonephritis including in the presence of mixed cryoglobulinaemic vasculitis;
+  - (iii) IgA nephropathy;
+  - (iv) tenofovir-induced renal failure;
+- (c) where P has a Hepatitis C infection of severity level 2, 3 or 4, membranoproliferative glomerulonephritis mainly in the presence of mixed cryoglobulinaemic vasculitis.
+
+### 7. Hepatitis-associated conditions resulting in long-term severe disability[^key-62f5d5f688714cca9f7a6bf4c96c4d9e]
+
+(1) A person (“**P**”) is to be treated as having a Hepatitis-associated condition resulting in long-term severe disability if P—
+
+- (a) has a Hepatitis B infection of severity level 2, 3 or 4 and P has been diagnosed with any of the conditions listed in sub-paragraph (2);
+- (b) has a Hepatitis C infection of severity level 2, 3 or 4 and—
+  - (i) P has been diagnosed with any of the conditions listed in sub-paragraph (3), and
+  - (ii) in the case of a condition listed in sub-paragraph (3)(a) to (c), the condition was caused or exacerbated by interferon treatment for Hepatitis C.
+
+(2) The conditions referred to in sub-paragraph (1)(a) are—
+
+- (a) Coombs positive haemolytic anaemia caused or exacerbated by interferon treatment for Hepatitis B;
+- (b) idiopathic fibrosing alveolitis of the lung caused or exacerbated by interferon treatment for Hepatitis B;
+- (c) rheumatoid arthritis that is either related directly to Hepatitis B or caused or exacerbated by interferon treatment for Hepatitis B;
+- (d) aplastic anaemia.
+
+(3) The conditions referred to in sub-paragraph (1)(b)(i) are—
+
+- (a) Coombs positive haemolytic anaemia;
+- (b) idiopathic fibrosing alveolitis of the lung;
+- (c) rheumatoid arthritis;
+- (d) sporadic porphyria cutanea tarda causing photosensitivity with blistering;
+- (e) immune thrombocytopenic purpura;
+- (f) type 2 or 3 mixed cryoglobulinaemia accompanied by—
+  - (i) cerebral vasculitis,
+  - (ii) dermal vasculitis, or
+  - (iii) peripheral neuropathy with neuropathic pain.
+
+### 8. Qualifying chronic Hepatitis-associated conditions[^key-ef6d947d1a7fd1b03e6dfef3db6f1c55]
+
+(1) A person (“**P**”) is to be treated as having a qualifying chronic Hepatitis-associated condition if—
+
+- (a) P is an IBSS-registered infected person to whom a relevant payment category applies;
+- (b) P is not an IBSS-registered infected person and sub-paragraph (2), (4) or (5) applies to P.
+
+(2) This sub-paragraph applies to P if it appears to the IBCA that, if P had been assessed by the England Infected Blood Support Scheme on 31st March 2025 on the basis of P's infection on the relevant date—
+
+- (a) P would have been eligible for registration with the England Infected Blood Support Scheme, and
+- (b) the Hepatitis C stage 1 and SCM payment category would have applied to P.
+
+(3) For the purposes of sub-paragraph (2)(a), any eligibility requirement relating to the place where a person became infected is to be disregarded.
+
+(4) This sub-paragraph applies to P if sub-paragraph (2) would apply to P but for the fact that P contracted Hepatitis C on or after 1st September 1991.
+
+(5) This sub-paragraph applies to P if P has a Hepatitis B infection where—
+
+- (a) the severity of the infection, and
+- (b) the conditions associated with the infection,
+
+are such that, if P had a Hepatitis C infection of the same severity and with the same associated conditions, sub-paragraph (2) would apply to P.
+
+(6) In sub-paragraph (1), “**relevant payment category**” means—
+
+- (a) where P is registered under the England Infected Blood Support Scheme, Hepatitis C stage 1 and SCM;
+- (b) where P is registered under the Scottish Infected Blood Support Scheme, Chronic HCV (severely affected by their Hepatitis C infection);
+- (c) where P is registered under the Infected Blood Payment Scheme for Northern Ireland, Hepatitis C stage 1 (enhanced);
+- (d) where P is registered under the Wales Infected Blood Support Scheme, Hepatitis C stage 1 + enhanced support.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations expand the infected blood compensation scheme (“the IBCS”) established by the Infected Blood Compensation Scheme Regulations 2024 ([S.I. 2024/872](https://www.legislation.gov.uk/uksi/2024/872), “**the first Regulations**”). These Regulations implement new routes for the payment of compensation to victims of the infected blood scandal, and others affected by it. In doing so, these Regulations restate the provision made by the first Regulations, and ensures continuity for applications and compensation payments made under the first Regulations.
+
+Part 1 provides for citation, commencement and interpretation, including provision for determining which persons are eligible for compensation under the IBCS.
+
+Part 2 continues the IBCS and makes provision concerning the appointment of members to the Infected Blood Compensation Authority (“**IBCA**”) and concerning the funding of the IBCA.
+
+Part 3 makes provision concerning payments to be made from the IBCS to eligible infected persons, including those who are receiving support scheme payments (as defined in regulation 2(1)).
+
+Part 4 makes provision concerning payments to be made from the IBCS to eligible affected persons, including those who are receiving support scheme payments.
+
+Part 5 makes provision concerning the payment by the IBCA of payments that were previously made under infected blood support schemes.
+
+Part 6 makes general procedural provision in relation to applications for compensation payments, including provision about making and determining applications, the making of compensation payments, and reviews and appeals of decisions on applications.
+
+Part 7 makes provision about the review of certain aspects of the IBCS, and for the continuation of things done under the first Regulations.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2024 c. 21](https://www.legislation.gov.uk/ukpga/2024/21). See section 50(6) for the meaning of “specified”.
+
+[^key-6ea7f8fb605ab6291e9c0922d62d9f14]: Commencement: Reg. 1 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-831cbcf1ac4c8516958abb5d23ab23a0]: Commencement: Reg. 2 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^f00002]: Footnote: [2007 c. 18](https://www.legislation.gov.uk/ukpga/2007/18).
+
+[^key-35691f421901ef752ca0d6e44526aee2]: Textual amendment: Words in reg. 2(1) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/1)
+
+[^f00003]: Footnote: “The Actuarial Tables with explanatory notes for use in Personal Injury and Fatal Accident Cases”, 8th edition (updated August 2022), available online at https://www.gov.uk/government/publications/ogden-tables-actuarial-compensation-tables-for-injury-and-death.
+
+[^f00004]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^f00005]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
+
+[^f00006]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
+
+[^key-863cb8d7e1c7eb0074cbb844177c1a77]: Textual amendment: Words in reg. 2(1) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(1)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/1/a)
+
+[^key-14c97b0950ad427773dfe0149fc95d84]: Textual amendment: Words in reg. 2(1) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(1)(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/1/b)
+
+[^key-134e3d54a4fc6a468f773789c4c3c40d]: Textual amendment: [Reg. 2(2)(na)](https://www.legislation.gov.uk/uksi/2025/404/regulation/2/2/na) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [9(1)](https://www.legislation.gov.uk/uksi/2026/872/regulation/9/1)
+
+[^key-ba98e557e161e2a1982ce522088b0a4b]: Textual amendment: Words in [reg. 2(2)(x)](https://www.legislation.gov.uk/uksi/2025/404/regulation/2/2/x) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/uksi/2026/872/schedule/paragraph/1/1/a)
+
+[^key-8d6de4a3cb13f993260c25f2a04ad52a]: Textual amendment: Words in [reg. 2(2)(y)](https://www.legislation.gov.uk/uksi/2025/404/regulation/2/2/y) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/uksi/2026/872/schedule/paragraph/1/1/b)
+
+[^key-ab8be992dc45e3f8ae522f34af01ff4c]: Textual amendment: [Reg. 2(4)(b)](https://www.legislation.gov.uk/uksi/2025/404/regulation/2/4/b)[(ia)](https://www.legislation.gov.uk/uksi/2025/404/regulation/2/4/ia) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(1)(a)(i)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/1/a/i)
+
+[^key-e02f39ca975bc27a295c1175367ec2e5]: Textual amendment: Word in [reg. 2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/404/regulation/2/4/b/ii) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/1/a/ii)
+
+[^key-0a7e61070ec84074e2c317c9a6702e0f]: Textual amendment: Word in [reg. 2(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/404/regulation/2/4/b/iii) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/1/a/iii)
+
+[^key-aa840cf8fc7288a2a2ae911d680a475c]: Textual amendment: Word in [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2025/404/regulation/2/4/c) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/1/b)
+
+[^key-1fac64b3b0e0ce7af942c787c87a24b2]: Commencement: Reg. 3 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-fb9c198e90a2db20b6bdf6be6ee0cd35]: Textual amendment: Word in reg. 3(1) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/2/a)
+
+[^key-8404500813e1eaf7d9bf3cb178a5de9a]: Textual amendment: Reg. 3(1A) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/2/b)
+
+[^key-4095f3ae9fe22232e17fdec1869bf31b]: Textual amendment: Words in reg. 3(2)(c) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/2/c)
+
+[^key-fe8756525d58a56f84faa566ba895c64]: Textual amendment: Word in reg. 3(4) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(2)(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/2/d/i/aa)
+
+[^key-16ccdfe799a0dbbd337684e2fbb6f131]: Textual amendment: Word in reg. 3(4) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(2)(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/2/d/i/bb)
+
+[^key-3bbc8d0d4c10efc30e6882dae706b35c]: Textual amendment: Words in reg. 3(4)(a) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/2/d/ii)
+
+[^key-f51fab982930b114fadac9113b2ee99c]: Textual amendment: Words in reg. 3(4)(b) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/2/d/iii)
+
+[^key-932b101347fcc6cd482331fead845026]: Textual amendment: Words in reg. 3(4)(c) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(2)(d)(iv)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/2/d/iv)
+
+[^f00007]: Footnote: The IBCA is the Infected Blood Compensation Authority established by section 48(1) of the Victims and Prisoners Act 2024.
+
+[^key-ab5ed98b78843ce295cc9e9dde3b820c]: Textual amendment: Word in reg. 3(6)(c) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(2)(e)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/2/e)
+
+[^key-f754c1620bab55aea8f0b81baa96d199]: Textual amendment: Words in reg. 3(7) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(2)(f)(i)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/2/f/i)
+
+[^key-7ca5ed0804f871cf0c6918119e409c84]: Textual amendment: Words in reg. 3(7) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(2)(f)(ii)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/2/f/ii)
+
+[^key-a1e401677f59776f3ea77fb23c0d2e80]: Textual amendment: Reg. 3(7A) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(2)(g)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/2/g)
+
+[^key-e6e9560ce9909e8459163b56a58f0965]: Textual amendment: Words in reg. 3(10) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(2)(h)(i)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/2/h/i)
+
+[^key-a19b96a608127b54d8e2123aec2cc812]: Textual amendment: Words in reg. 3(10) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(2)(h)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/2/h/ii/aa)
+
+[^key-c24ac547098ea92b061564d79394d74a]: Textual amendment: Words in reg. 3(10) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(2)(h)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/2/h/ii/bb)
+
+[^f00008]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Section 1(1) was substituted by section 1 of the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7).
+
+[^f00009]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^f00010]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^f00011]: Footnote: [1948 c. 3 (N.I.)](https://www.legislation.gov.uk/apni/1948/3).
+
+[^f00012]: Footnote: [1971 c. 1 (N.I.)](https://www.legislation.gov.uk/apni/1971/1). This Act repealed and replaced the Health Services Act (Northern Ireland) 1948.
+
+[^f00013]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265). This Order repealed and replaced the Health Services Act (Northern Ireland) 1971.
+
+[^f00014]: Footnote: [2009 c.1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1). This Act repealed Article 4 of the Health and Personal Social Services (Northern Ireland) Order 1972.
+
+[^key-89dcef216ad8c075209165444b8b07e1]: Commencement: Reg. 4 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-b2c55e19d673842827f41a89e93a0876]: Textual amendment: Words in reg. 4(1) omitted (31.12.2025) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/2/a/i)
+
+[^key-dc8a2e192638477496d4c5a53adca893]: Textual amendment: Reg. 4(1)(za) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/2/a/ii)
+
+[^key-2800bc252153e5ddd9adab03c853c080]: Textual amendment: Reg. 4(1A) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/2/b)
+
+[^key-2c7b0c13c43b1609de0358371dbcb33f]: Textual amendment: Words in reg. 4(2) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/14/1)
+
+[^key-3eb52a0106e81a769277b22714998ee5]: Textual amendment: Reg. 4(2)(za) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/2/c)
+
+[^key-942bae4ceb5c894a8caace16933b2bae]: Commencement: Reg. 5 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-52bdc88e78c4434f0a04dd28b114238c]: Textual amendment: Words in reg. 5(1) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [5(a)(i)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/5/a/i)
+
+[^key-425404995c5f4ff8f656f9df653e79e5]: Textual amendment: Words in reg. 5(1)(b)(i) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/5/a/ii)
+
+[^f00015]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
+
+[^f00016]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4). Section 57 has been amended by paragraph 9(4)(b) of Schedule 4, and Schedule 5, to the Mental Health (Care and Treatment) (Scotland) Act [2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13) and section 60(1) of the Adult Support and Protection (Scotland) Act [2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10).
+
+[^f00017]: Footnote: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595).
+
+[^key-8445c2228818ca6c7b46540a0a811095]: Textual amendment: Reg. 5(1A) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/5/b)
+
+[^key-fae3705cb13c6543697d9bba57c79216]: Textual amendment: Words in reg. 5(2) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [5(c)(i)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/5/c/i)
+
+[^key-8816732a7013af5cccddce6928c6cc59]: Textual amendment: Words in reg. 5(2) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [5(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/5/c/ii)
+
+[^key-648939fd194dce7d95ef1426ff82f3ed]: Textual amendment: Words in reg. 5(2) omitted (31.12.2025) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [5(c)(iii)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/5/c/iii)
+
+[^f00018]: Footnote: Section 1 was amended by [S.S.I. 2005/465](https://www.legislation.gov.uk/ssi/2005/465).
+
+[^key-74a2f6ec5a121e8234121c418e447742]: Textual amendment: Words in reg. 5(4) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [5(d)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/5/d)
+
+[^key-2c4303efef4c3a38bccb8e4704486d21]: Commencement: Reg. 6 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^f00019]: Footnote: [S.I. 2015/570](https://www.legislation.gov.uk/uksi/2015/570). Regulation 16 has been amended by [S.I. 2020/201](https://www.legislation.gov.uk/uksi/2020/201), [S.I. 2021/178](https://www.legislation.gov.uk/uksi/2021/178), [S.I. 2022/634](https://www.legislation.gov.uk/uksi/2022/634) and [S.I. 2024/456](https://www.legislation.gov.uk/uksi/2024/456).
+
+[^key-471211d04d3d7d2bd1e874cf6c4e663c]: Commencement: Reg. 7 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-9c0598eaa3531f8e5c06f3ad08028ff0]: Textual amendment: [Reg. 7(1A)](https://www.legislation.gov.uk/uksi/2025/404/regulation/7/1A)[(1B)](https://www.legislation.gov.uk/uksi/2025/404/regulation/7/1B) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [4(1)(a)](https://www.legislation.gov.uk/uksi/2026/872/regulation/4/1/a)
+
+[^key-42fb85162a712b5853ded449cc19db4c]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/7/2) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [4(1)(b)(i)](https://www.legislation.gov.uk/uksi/2026/872/regulation/4/1/b/i)
+
+[^key-8db28cc2554270cd3f8af07b7e67a702]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/7/2) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [4(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/872/regulation/4/1/b/ii)
+
+[^key-dbd44d28bba9ff15dccd94f66aebfd57]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/7/2) omitted (24.7.2026) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [4(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/872/regulation/4/1/b/iii)
+
+[^key-c7f76ae849ada05f4f36b412f9bd2f89]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2025/404/regulation/7/3) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [4(1)(c)(i)](https://www.legislation.gov.uk/uksi/2026/872/regulation/4/1/c/i)
+
+[^key-8a67bfa701ab5d928b2fbb41277d57ac]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2025/404/regulation/7/3) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [4(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/872/regulation/4/1/c/ii)
+
+[^key-321499370d758d05c472ad296e11b5ca]: Textual amendment: [Reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2025/404/regulation/7/4/b) omitted (24.7.2026) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [4(1)(d)](https://www.legislation.gov.uk/uksi/2026/872/regulation/4/1/d)
+
+[^key-ea1205447afda66dbc1375238bd18aae]: Textual amendment: Words in reg. 7(4)(c)(i) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/3/a)
+
+[^key-6b054e2d99031eba96678f823ee50a07]: Textual amendment: Words in reg. 7(4)(d)(i) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/3/a)
+
+[^key-15135e1e1c06b736beda490dd88a47da]: Textual amendment: [Reg. 7(4A)](https://www.legislation.gov.uk/uksi/2025/404/regulation/7/4A) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [4(1)(e)](https://www.legislation.gov.uk/uksi/2026/872/regulation/4/1/e)
+
+[^key-c272325d05611b1a9fd790894e9da9da]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/uksi/2025/404/regulation/7/5) omitted (24.7.2026) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [4(1)(f)](https://www.legislation.gov.uk/uksi/2026/872/regulation/4/1/f)
+
+[^key-7a4ca639f7f584fe358abfb670206dde]: Textual amendment: [Reg. 7(6)-(11)](https://www.legislation.gov.uk/uksi/2025/404/regulation/7/6) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [4(1)(g)](https://www.legislation.gov.uk/uksi/2026/872/regulation/4/1/g)
+
+[^key-d3f99a640d30b4f7846dd0e4b04343fe]: Commencement: Reg. 8 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-f564f549e2f52a89376f4e10ce07d334]: Commencement: Reg. 9 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^f00020]: Footnote: [S.I. 2024/872](https://www.legislation.gov.uk/uksi/2024/872).
+
+[^key-0a276caf36d276b2f03d24c6729fece0]: Commencement: Reg. 10 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^f00021]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). Schedule 4A was inserted by section 257(2) of, and Schedule 20 to, the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40) and amended by paragraph 63 of Schedule 19 to the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24) and section 135(2)(b) of the Small Business, Enterprise and Regulatory Reform Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26).
+
+[^f00022]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405). Schedule 2A was inserted by the Insolvency (Northern Ireland) Order [2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455).
+
+[^f00023]: Footnote: Schedule 4ZB was inserted by section 108(2) of, and Schedule 19 to, the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
+
+[^f00024]: Footnote: Schedule 2ZB was inserted by the Debt Relief Act (Northern Ireland) [2010 (c. 16)](https://www.legislation.gov.uk/ukpga/2010/16).
+
+[^f00025]: Footnote: [1960 c. 67](https://www.legislation.gov.uk/ukpga/1960/67). There are a significant number of amendments to this Schedule to add named bodies to it to make them subject to the Public Bodies (Admission to Meetings) Act 1960. Amendments of particular relevance include that made by paragraph 23 of Part 3 of Schedule 1 to the Act to add the Infected Blood Compensation Authority to the list of bodies in the Schedule. Amendments have also removed bodies from the Schedule.
+
+[^f00026]: Footnote: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46).
+
+[^f00027]: Footnote: [S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150).
+
+[^f00028]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). Section 429(2) was amended by section 269 of, and paragraph 15 of Schedule 23 to, the Enterprise Act 2002.
+
+[^f00029]: Footnote: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
+
+[^f00030]: Footnote: [2011 c. 25](https://www.legislation.gov.uk/ukpga/2011/25). Section 79 was substituted by section 4(2) of the Charities (Protection and Social Investment) Act [2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4).
+
+[^f00031]: Footnote: [2008 c. 12 (N.I.)](https://www.legislation.gov.uk/nia/2008/12).
+
+[^key-0feed85ac439963a14b18ff7aa34697c]: Commencement: Reg. 11 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-2152b2d1640c27bd00cd6fa10f2ace07]: Commencement: Reg. 12 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-a514eb6dc429ea1d455396c899c4e8ef]: Commencement: Reg. 13 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-75b649dae61244b9d857c3c1717c322f]: Commencement: Reg. 14 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-6cc6beadab8208d3b963b55b672a2d0c]: Textual amendment: Reg. 14(2)(c) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/6/1)
+
+[^key-da2b160c9d5f55024023e768ddf989bb]: Textual amendment: Reg. 14(2)(ca) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/14/2)
+
+[^key-b8e7416ca38da111fd8651a33e8afcb8]: Commencement: Reg. 15 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-4c394e9f11cde5726f32a9db5a0ff984]: Textual amendment: Words in [reg. 15(2)(e)(i)](https://www.legislation.gov.uk/uksi/2025/404/regulation/15/2/e/i) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/schedule/paragraph/1/2)
+
+[^key-7094dd5384af5ebb3f09be99fd19da8e]: Commencement: Reg. 16 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-331d07e3883b117e77aed8ad8fc058c4]: Textual amendment: [Reg. 16(2)(b)](https://www.legislation.gov.uk/uksi/2025/404/regulation/16/2/b)[(ia)](https://www.legislation.gov.uk/uksi/2025/404/regulation/16/2/ia) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/2/a)
+
+[^key-82bcb5d97c9e802316c2dc42e159cdac]: Textual amendment: [Reg. 16(3)(a)](https://www.legislation.gov.uk/uksi/2025/404/regulation/16/3/a)[(ia)](https://www.legislation.gov.uk/uksi/2025/404/regulation/16/3/ia) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/2/b/i)
+
+[^key-9b734c0dac4cb78dd2ba649016980dda]: Textual amendment: Words in [reg. 16(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/404/regulation/16/3/b/ii/aa) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/2/b/ii)
+
+[^key-4812146cd04668d1ef33d1ed9483a443]: Commencement: Reg. 17 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-1758db592767d2bf282db5d7598bd5dd]: Commencement: Reg. 18 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-54cfb9c4b68c488fb004c4ded8e8019c]: Textual amendment: [Reg. 18(1)(d)](https://www.legislation.gov.uk/uksi/2025/404/regulation/18/1/d) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/5/2)
+
+[^key-84d0ee4bcf3fcf3019e3bc6772e668c8]: Textual amendment: [Reg. 18(1A)](https://www.legislation.gov.uk/uksi/2025/404/regulation/18/1A) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2026/872/regulation/5/3)
+
+[^key-0ac764d08d7e1845dfecdedd8ec3da0c]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/18/2) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2026/872/regulation/5/4)
+
+[^key-632c88c4b91d5e5c1692a64e0bfb9deb]: Textual amendment: Words in [reg. 18(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/404/regulation/18/2/b/i) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/3)
+
+[^key-8976ac73cfc16531c51a4f6504a01c5c]: Textual amendment: [Reg. 18(3)](https://www.legislation.gov.uk/uksi/2025/404/regulation/18/3) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2026/872/regulation/5/5)
+
+[^key-341dc409b2d07e2d7029c8cf8770cd3a]: Textual amendment: [Reg. 18(3A)](https://www.legislation.gov.uk/uksi/2025/404/regulation/18/3A)[(3B)](https://www.legislation.gov.uk/uksi/2025/404/regulation/18/3B) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2026/872/regulation/5/6)
+
+[^key-e3286bd3a3ec0fdf890eccf569533c1f]: Textual amendment: Words in [reg. 18(4)(a)](https://www.legislation.gov.uk/uksi/2025/404/regulation/18/4/a) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2026/872/regulation/5/7)
+
+[^key-c25d99416104b0f8588970339b1d7d59]: Textual amendment: [Reg. 18(6)](https://www.legislation.gov.uk/uksi/2025/404/regulation/18/6) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2026/872/regulation/5/8)
+
+[^key-b30a7b69ff38d56e53df498cd4832399]: Commencement: Reg. 19 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-c389b3dcae24e9efce63b690555ebd9c]: Commencement: Reg. 20 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-f6d24809985802bedd8f1437d0b003e5]: Textual amendment: Words in reg. 20(2) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/4)
+
+[^key-0e2190583ddb6354faea3a66c28c9ea8]: Textual amendment: Words in reg. 20(4)(a)(i) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/3/b)
+
+[^key-faa58ae35d3cc86b01d90fb04d24f8a1]: Textual amendment: Words in reg. 20(4)(b)(i) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/3/b)
+
+[^key-3539c1b4299595160281d89090125493]: Textual amendment: Words in [reg. 20(4)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2025/404/regulation/20/4/b/i/bb) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/4/a)
+
+[^key-6685e040b7e0c160ef13ecc4ea9347ef]: Textual amendment: [Reg. 20(5A)](https://www.legislation.gov.uk/uksi/2025/404/regulation/20/5A) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/4/b)
+
+[^key-e3cedbfca7d685c184bcd50ceec4f53f]: Textual amendment: Words in reg. 20(6)(b)(ii) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/7/a)
+
+[^key-9cce1510abdffd41ee7e917b774773c3]: Textual amendment: Reg. 20(7) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/7/b)
+
+[^key-d37c251b169b0ceb17399bc4047b5037]: Textual amendment: [Reg. 20(7)(aa)](https://www.legislation.gov.uk/uksi/2025/404/regulation/20/7/aa) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(4)(c)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/4/c)
+
+[^key-c12a900a7c9ebaaf5225a50ed697cee0]: Textual amendment: [Reg. 20(9)](https://www.legislation.gov.uk/uksi/2025/404/regulation/20/9) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(4)(d)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/4/d)
+
+[^key-749c4f93b380db1274b3d2f26562a1e4]: Commencement: Reg. 21 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-46830541fb094327c8ff6204cfbc5ee8]: Textual amendment: Reg. 21(2) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2025/1358/regulation/8)
+
+[^key-575ccf8492540ead54ce9b7b31912b2c]: Textual amendment: Word in [reg. 21(2)(b)](https://www.legislation.gov.uk/uksi/2025/404/regulation/21/2/b) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/5/a)
+
+[^key-b16937c7991012b01677148f0347dcbd]: Textual amendment: [Reg. 21(3)(b)](https://www.legislation.gov.uk/uksi/2025/404/regulation/21/3/b)[(ia)](https://www.legislation.gov.uk/uksi/2025/404/regulation/21/3/ia) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/5/b)
+
+[^key-c03e6b26d5d4728ee8c66d78455bb12b]: Textual amendment: Words in reg. 21(4) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/5/a)
+
+[^key-003e5604e2b5426a1522b267d50a1d91]: Textual amendment: [Reg. 21(4)(b)](https://www.legislation.gov.uk/uksi/2025/404/regulation/21/4/b)[(ia)](https://www.legislation.gov.uk/uksi/2025/404/regulation/21/4/ia) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(5)(c)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/5/c)
+
+[^key-4dbb6da1cf1a771882c3f12161c76dfb]: Textual amendment: Words in reg. 21(5) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/5/a)
+
+[^key-44f45f1c56ad24cbdbac608e145af595]: Textual amendment: Words in reg. 21(6)(a)-(c) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/5/b)
+
+[^key-aed41e8f080e1524d59acf4a1fc7e100]: Textual amendment: [Reg. 21(6)(aa)](https://www.legislation.gov.uk/uksi/2025/404/regulation/21/6/aa) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(5)(d)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/5/d)
+
+[^key-c719feec3d8e3b521e34ec6ff5bd919b]: Textual amendment: Words in reg. 21(7) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(5)(c)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/5/c)
+
+[^key-56ddf8f05d810f61bec47e950d92c2d2]: Textual amendment: Words in reg. 21(9) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(5)(d)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/5/d)
+
+[^key-2ff579bee8b2caee578ced25b73f331d]: Textual amendment: Words in [reg. 21(9)](https://www.legislation.gov.uk/uksi/2025/404/regulation/21/9) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(5)(e)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/5/e)
+
+[^key-5b79f7bf5046ae0f10c63aca124ec17a]: Commencement: Reg. 22 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-8eee919c8f16238006a4bf2919008692]: Textual amendment: Words in [reg. 22(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/404/regulation/22/2/a/i) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2026/872/schedule/paragraph/1/3)
+
+[^key-5afe414eb4b0e61bc8f188208d89b1e3]: Commencement: Reg. 23 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-81a68f6a50e9cc0a8ec4fd1cddbee6ea]: Commencement: Reg. 24 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-be91ab9a11092c78fe6069194efa4806]: Textual amendment: Words in [reg. 24(5)(a)(i)](https://www.legislation.gov.uk/uksi/2025/404/regulation/24/5/a/i) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [Sch. para. 1(4)](https://www.legislation.gov.uk/uksi/2026/872/schedule/paragraph/1/4)
+
+[^key-06472125379d1c073f6c428d659b6d97]: Commencement: Reg. 25 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-d0baa3e3c26abf85aaf329c4388d2f17]: Commencement: Reg. 26 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^f00032]: Footnote: Lord Mayor Treloar College is the institution at Powell Drive, Holybourne, Alton, Hampshire, GU34 4GL.
+
+[^key-8d9388d625c137003b97977708d04b12]: Textual amendment: [Reg. 26(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/26/2) omitted (24.7.2026) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [6(1)(a)](https://www.legislation.gov.uk/uksi/2026/872/regulation/6/1/a)
+
+[^key-a6ed2ca0313f5273eb59018fbafa5bd2]: Textual amendment: [Reg. 26(3)](https://www.legislation.gov.uk/uksi/2025/404/regulation/26/3) omitted (24.7.2026) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [6(1)(a)](https://www.legislation.gov.uk/uksi/2026/872/regulation/6/1/a)
+
+[^key-6f3a7664a5c1c04be1f08f04f829912e]: Textual amendment: [Reg. 26(4)](https://www.legislation.gov.uk/uksi/2025/404/regulation/26/4)[(5)](https://www.legislation.gov.uk/uksi/2025/404/regulation/26/5) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [6(1)(b)](https://www.legislation.gov.uk/uksi/2026/872/regulation/6/1/b)
+
+[^key-1f8a26394ae986291bfc2bc824983ce3]: Commencement: Reg. 27 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-8e0b843b57823b2e195b0aee36484825]: Textual amendment: Sum in reg. 27(1) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2026/872/regulation/6/2/a)
+
+[^key-6afc3a3cb2faaa805ff91c3f589530fe]: Textual amendment: [Reg. 27(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/27/2) omitted (24.7.2026) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2026/872/regulation/6/2/b)
+
+[^key-16f7a9baf127aa83fecba01c89293850]: Textual amendment: [Reg. 27(3)](https://www.legislation.gov.uk/uksi/2025/404/regulation/27/3) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2026/872/regulation/6/2/c)
+
+[^key-005f2d74027f46fb6afaf87a0cff59d2]: Commencement: Reg. 28 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-3c217b886a7275fc0fbc71183fafcb21]: Textual amendment: [Reg. 28(1)(b)(vii)](https://www.legislation.gov.uk/uksi/2025/404/regulation/28/1/b/vii) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [7(1)(a)](https://www.legislation.gov.uk/uksi/2026/872/regulation/7/1/a)
+
+[^key-d1b0fa9a8e666872f0f9775e8e2915e1]: Textual amendment: Word in [reg. 28(3)](https://www.legislation.gov.uk/uksi/2025/404/regulation/28/3) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [7(1)(b)(i)](https://www.legislation.gov.uk/uksi/2026/872/regulation/7/1/b/i)
+
+[^key-11b8c69b198a52c116eff4b382778256]: Textual amendment: [Reg. 28(3)(a)](https://www.legislation.gov.uk/uksi/2025/404/regulation/28/3/a)[(ia)](https://www.legislation.gov.uk/uksi/2025/404/regulation/28/3/ia) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [7(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/872/regulation/7/1/b/ii)
+
+[^key-5f80a290484903c17a1db44e8f1f01be]: Commencement: Reg. 29 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-652cc0c971d0d30ad4b9870d97c553f3]: Commencement: Reg. 30 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-a2c6bd623484403e691b7a4e789762ae]: Commencement: Reg. 31 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-54adbc93172fe0af52db880ad3ef92e1]: Textual amendment: Word in [reg. 31(3)](https://www.legislation.gov.uk/uksi/2025/404/regulation/31/3) omitted (24.7.2026) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2026/872/regulation/7/2/a)
+
+[^key-70a47068e26a55d949decf4318239c87]: Textual amendment: [Reg. 31(3)(d)](https://www.legislation.gov.uk/uksi/2025/404/regulation/31/3/d) and word inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2026/872/regulation/7/2/b)
+
+[^key-8adc7b4615a3092ca79ba04d641b7d99]: Textual amendment: Words in [reg. 31(9)](https://www.legislation.gov.uk/uksi/2025/404/regulation/31/9) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/6)
+
+[^key-6338fba8c2a08fc9a6937fab1b96fcab]: Commencement: Reg. 32 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-74c8f018b1d9679392c94124d83cb3b2]: Textual amendment: Words in [reg. 32(5)](https://www.legislation.gov.uk/uksi/2025/404/regulation/32/5) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/uksi/2026/872/regulation/7/3/a)
+
+[^key-e8b7ad877d2276f5d0bf24e239214fdd]: Textual amendment: Words in [reg. 32(6)(a)](https://www.legislation.gov.uk/uksi/2025/404/regulation/32/6/a) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2026/872/regulation/7/3/b)
+
+[^key-9d873cf09844d0e0a368fb86120e1663]: Textual amendment: Words in [reg. 32(8)](https://www.legislation.gov.uk/uksi/2025/404/regulation/32/8) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [7(3)(c)](https://www.legislation.gov.uk/uksi/2026/872/regulation/7/3/c)
+
+[^key-be79f3ca95a980683c1983785ea163d0]: Textual amendment: [Reg. 32(9)](https://www.legislation.gov.uk/uksi/2025/404/regulation/32/9) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [7(3)(d)](https://www.legislation.gov.uk/uksi/2026/872/regulation/7/3/d)
+
+[^key-68f5ce838053d41066d7eb87b8fbc228]: Commencement: Reg. 33 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-d9a3be5bd27563e0cf47a21982fc1a6c]: Textual amendment: Word in reg. 33(1)(a)(ii) omitted (31.12.2025) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [9(1)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/9/1/a)
+
+[^key-d17d8ba23eab1d7f6954b16a6d071815]: Textual amendment: Reg. 33(1)(b) omitted (31.12.2025) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [9(1)(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/9/1/b)
+
+[^f00033]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1).
+
+[^f00034]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5).
+
+[^key-25972d54ddbf4cf059c18c0b7209319c]: Commencement: Reg. 34 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-5d7339e89bde9c3e7445b3ac661fa526]: Textual amendment: [Reg. 34(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/404/regulation/34/2/c/ii) omitted (24.7.2026) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/4/2)
+
+[^key-23c5ad7b03af80df83b8cfecdf03fb57]: Textual amendment: [Reg. 34(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2025/404/regulation/34/2/c/iii) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/7)
+
+[^key-c866a5f48e6f7212baf828db48726e53]: Textual amendment: Words in reg. 34(3) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(3)(c)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/3/c)
+
+[^key-c9d4fd24067a4a16d72ab768b907980f]: Commencement: Reg. 35 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-1600bf634b274b387a85d8f5982a10ee]: Textual amendment: Word in [reg. 35(1)(a)](https://www.legislation.gov.uk/uksi/2025/404/regulation/35/1/a) omitted (24.7.2026) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [9(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/872/regulation/9/2/a/i)
+
+[^key-edb0234e7600d44b70049821ad2bc30f]: Textual amendment: Word in [reg. 35(1)(a)(i)](https://www.legislation.gov.uk/uksi/2025/404/regulation/35/1/a/i) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [9(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/872/regulation/9/2/a/ii)
+
+[^key-4eb3d9518f4e6555927143a1f406fa47]: Textual amendment: Word in [reg. 35(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/404/regulation/35/1/a/ii) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [9(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/872/regulation/9/2/a/ii)
+
+[^key-131a488481368d5bd46d704054869353]: Textual amendment: [Reg. 35(1)(a)](https://www.legislation.gov.uk/uksi/2025/404/regulation/35/1/a)[(iia)](https://www.legislation.gov.uk/uksi/2025/404/regulation/35/1/iia) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [9(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/872/regulation/9/2/a/iii)
+
+[^key-acf48de7f9d90c11f56e133dc03541f9]: Textual amendment: Word in [reg. 35(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/404/regulation/35/1/a/iii) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [9(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/872/regulation/9/2/a/ii)
+
+[^key-ff53a4b0f1d69cb442edfc09c734e6f6]: Textual amendment: Word in [reg. 35(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2025/404/regulation/35/1/a/iv) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [9(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/872/regulation/9/2/a/ii)
+
+[^key-f4b3769ff115509f4f41dea7a402019b]: Textual amendment: [Reg. 35(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/404/regulation/35/2/a/i)[(ii)](https://www.legislation.gov.uk/uksi/2025/404/regulation/35/2/a/ii) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2026/872/regulation/9/2/b)
+
+[^key-db6c25ac0db4154f91fd6ccce3bce79e]: Commencement: Reg. 36 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-793ead753699e61c013cdf29cfb149d8]: Textual amendment: [Reg. 36(1)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2025/404/regulation/36/1/a/i/aa)[(bb)](https://www.legislation.gov.uk/uksi/2025/404/regulation/36/1/bb) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2026/872/regulation/9/3)
+
+[^key-b11fb4b5e48d8aa6960e812bd40f9a32]: Commencement: Reg. 37 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^f00035]: Footnote: The Earnings and hours worked, age group: ASHE datasets are published by the Office for National Statistics and are available online at https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/agegroupashetable6
+
+[^f00036]: Footnote: The New Earnings Survey – Age Group Gross Weekly and Hourly excluding Overtime data is published by the Office for National Statistics and is available online at https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/adhocs/006810newearningssurveynesagegroupgrossweeklyandhourlyexcludingovertimedata
+
+[^f00037]: Footnote: the Earnings time series of median gross weekly earnings from 1968 to 2023 is published by the Office for National Statistics and is available online at https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/earningstimeseriesofmediangrossweeklyearningsfrom1968to2022
+
+[^f00038]: Footnote: Table 6.7a of the Earnings and hours worked, age group: ASHE dataset for 2023 is published by the Office for National Statistics and is available online at https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/agegroupashetable6
+
+[^key-db1d61b498b2e799ebf21cf24f7b4631]: Textual amendment: Words in [reg. 37(9)](https://www.legislation.gov.uk/uksi/2025/404/regulation/37/9) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2026/872/regulation/8)
+
+[^key-9212fc06dede54071273e4f4390311cb]: Textual amendment: Reg. 37(10) Table substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/9/2)
+
+[^key-bb23a40a2d396fe86c8a7356b436268b]: Commencement: Reg. 38 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-53b5960c8182f4f3c24e365f2faa975e]: Textual amendment: [Reg. 38A](https://www.legislation.gov.uk/uksi/2025/404/regulation/38A) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2026/872/regulation/9/4)
+
+[^key-8f023ade8ff3669129741aae29c40e10]: Commencement: Reg. 39 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-0a1b03f78dac1a867a5c1463f8d456f3]: Commencement: Reg. 40 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-05d95b46ace795b28b0c0f60438c364f]: Textual amendment: [Reg. 40(1)(b)](https://www.legislation.gov.uk/uksi/2025/404/regulation/40/1/b) omitted (24.7.2026) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2026/872/regulation/4/3/a)
+
+[^key-5df9a6e0e3c8e770186143bc45c2cced]: Textual amendment: [Reg. 40(1)(c)](https://www.legislation.gov.uk/uksi/2025/404/regulation/40/1/c) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(8)(a)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/8/a)
+
+[^key-a56e2c2a354a1d8b9d748637fb6ea416]: Textual amendment: Word in [reg. 40(2)(a)](https://www.legislation.gov.uk/uksi/2025/404/regulation/40/2/a) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(8)(b)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/8/b)
+
+[^key-3b32e27b50e456027ca9e1d90fa7f2b6]: Textual amendment: [Reg. 40(4A)](https://www.legislation.gov.uk/uksi/2025/404/regulation/40/4A) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(8)(c)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/8/c)
+
+[^key-f7aefa973c21be1c775496e339799961]: Textual amendment: [Reg. 40(5)](https://www.legislation.gov.uk/uksi/2025/404/regulation/40/5) omitted (24.7.2026) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2026/872/regulation/4/3/b)
+
+[^key-46bf79ee67cee070da5e4f8096bfe79d]: Commencement: Reg. 41 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-ea0804dfd3a64fd96c7537185c43e2b9]: Commencement: Reg. 42 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-f1cc63cbb8b8eafd20f031558c1ba4cd]: Textual amendment: Words in reg. 42(3)(a)(iii) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/6/2)
+
+[^key-ac623984298590e484901e66f1af646f]: Commencement: Reg. 43 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-dd066444117a6fcf12f1ab684c3dc78f]: Textual amendment: Words in [reg. 43(1)(v)(aa)](https://www.legislation.gov.uk/uksi/2025/404/regulation/43/1/v/aa) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [Sch. para. 1(5)(a)](https://www.legislation.gov.uk/uksi/2026/872/schedule/paragraph/1/5/a)
+
+[^key-9269e90e81651055a8f7b0dbd8468a62]: Textual amendment: Words in [reg. 43(7)(a)(i)](https://www.legislation.gov.uk/uksi/2025/404/regulation/43/7/a/i) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [Sch. para. 1(5)(b)](https://www.legislation.gov.uk/uksi/2026/872/schedule/paragraph/1/5/b)
+
+[^key-fb4fa0ed0ad2dac4a00a5b9edbbce2fc]: Commencement: Reg. 44 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-d51e0a1b553ad282482cb53b019d811c]: Commencement: Reg. 45 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-2914fc899e18c1705c5e21bcf97db401]: Textual amendment: Words in reg. 45(3)(a) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/14/3)
+
+[^key-dd0f76eeb1c725a679bb2f99a7966744]: Textual amendment: Words in reg. 45(3)(a)(iii) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/6/3)
+
+[^key-ae9da48cabffe47565b65a5884bfa2b2]: Commencement: Reg. 46 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-9584acd69f787f06312e071ba50501cd]: Textual amendment: Words in [reg. 46(5)(a)(i)](https://www.legislation.gov.uk/uksi/2025/404/regulation/46/5/a/i) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [Sch. para. 1(6)](https://www.legislation.gov.uk/uksi/2026/872/schedule/paragraph/1/6)
+
+[^key-79b8e7711f7119af670d5c1df4fe84b3]: Commencement: Reg. 47 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-de3f334f98fe472616ccf10af711bba6]: Commencement: Reg. 48 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-ec61a0fbb07a049e62ccb226912acdb6]: Textual amendment: Reg. 48(4)(ca) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/3/a)
+
+[^key-9be07fdb597e6e6d39ce951e22d0380b]: Textual amendment: Words in reg. 48(5)(b) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/3/b)
+
+[^key-5560d34ddeef95ff60562ac9173e0e17]: Textual amendment: Words in reg. 48(7) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(3)(c)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/3/c)
+
+[^key-adc8b773f621674633c5cc572b3d7242]: Textual amendment: Words in reg. 48(8)(a) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(3)(d)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/3/d)
+
+[^key-d5c84166947b71c4ada8f58b94667b87]: Commencement: Reg. 49 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-f2ffaeb2ae2f64400db8cf9510d887af]: Commencement: Reg. 50 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-7e5b2d08072af8ca3c714688377854a4]: Textual amendment: [Reg. 50(1A)](https://www.legislation.gov.uk/uksi/2025/404/regulation/50/1A) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/10/2)
+
+[^key-ba98457403bf9cf8b397abf462c9e4a9]: Textual amendment: Words in [reg. 50(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/50/2) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/9)
+
+[^key-a4f50326270afb1d06418e0fc6da7566]: Textual amendment: Words in [reg. 50(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/50/2) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2026/872/regulation/10/3)
+
+[^key-6a1fa74dbfbf081380170d124efab9cf]: Textual amendment: Words in [reg. 50(3)](https://www.legislation.gov.uk/uksi/2025/404/regulation/50/3) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2026/872/regulation/10/4)
+
+[^key-f120eb205f94821c82ca526ccb1432b9]: Textual amendment: [Reg. 50(4)(b)](https://www.legislation.gov.uk/uksi/2025/404/regulation/50/4/b) omitted (24.7.2026) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [10(5)(a)](https://www.legislation.gov.uk/uksi/2026/872/regulation/10/5/a)
+
+[^key-3cf0de6baa10361b4757978f11d6c381]: Textual amendment: Words in [reg. 50(4)(c)](https://www.legislation.gov.uk/uksi/2025/404/regulation/50/4/c) omitted (24.7.2026) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [10(5)(b)](https://www.legislation.gov.uk/uksi/2026/872/regulation/10/5/b)
+
+[^key-369992e60d6840c1385cd6d12d553563]: Textual amendment: Words in [reg. 50(4)(d)(i)](https://www.legislation.gov.uk/uksi/2025/404/regulation/50/4/d/i) omitted (24.7.2026) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [10(5)(c)(i)](https://www.legislation.gov.uk/uksi/2026/872/regulation/10/5/c/i)
+
+[^key-44a1d239b225cddd28bd4918a7c088e2]: Textual amendment: [Reg. 50(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2025/404/regulation/50/4/d/ii) omitted (24.7.2026) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [10(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/872/regulation/10/5/c/ii)
+
+[^key-72362ff32bee5895086ead917d2d9260]: Textual amendment: [Reg. 50(4A)-(4F)](https://www.legislation.gov.uk/uksi/2025/404/regulation/50/4A) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2026/872/regulation/10/6)
+
+[^key-31332414095180fbbb3e650c64910366]: Commencement: Reg. 51 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-1448aa8ebc87642914edf9edf4bbb4e9]: Commencement: Reg. 52 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-4b9a7dab4e5fa37bf887362c768ee54f]: Textual amendment: Words in reg. 52(4) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/14/4)
+
+[^key-568831441f7636998b06f2cdc27b88af]: Commencement: Reg. 53 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-0c3b5c3111e926455bc0fb50262c40ce]: Textual amendment: Words in reg. 53(5)(a) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/6/a)
+
+[^key-dadf5d5ab738dc83b1f67474b66088fd]: Textual amendment: Reg. 53(5)(b) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/4/a)
+
+[^key-5965934ee009f2052f18e3236100d398]: Textual amendment: Words in reg. 53(6)(a) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/6/a)
+
+[^key-1ddaeac5f20b3876c37c917ea0f3fdfe]: Textual amendment: Reg. 53(6)(b) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/4/b)
+
+[^key-e1aa4d475bfe8d7ebd75e4294ba99903]: Textual amendment: Words in reg. 53(7)(a) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(7)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/7/a)
+
+[^key-8bf920feec93580f42b40a4982f21273]: Textual amendment: Reg. 53(7)(b) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(4)(c)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/4/c)
+
+[^key-c3e1509ab7509e026f875d3a660d4a71]: Commencement: Reg. 54 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-85664ffaa45ca61a58794d7c985e7e5a]: Textual amendment: Words in reg. 54(3)(a)(i) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(6)(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/6/b)
+
+[^key-a81ef68de5e242808d4e5a624641e562]: Commencement: Reg. 55 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-f4f1626c49b14ed0b8df27430ff5791b]: Commencement: Reg. 56 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^f00039]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
+
+[^key-acf892babf8a85e543a0817ac2b40b0c]: Commencement: Reg. 57 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-37de1281e473bf7cfd5c0eab8bd2caec]: Commencement: Reg. 58 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-f29082f72dc963a8deed5c213d9136ca]: Textual amendment: Words in reg. 58(2)(a)(i) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(6)(c)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/6/c)
+
+[^key-1ae8d6d857c09d202fb20bba00649fc8]: Textual amendment: Words in reg. 58(2)(a)(ii) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(5)(a)(i)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/5/a/i)
+
+[^key-c89a2dcee00d1881d486698be0ef2713]: Textual amendment: Words in reg. 58(2)(c)(i) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [3(7)(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/3/7/b)
+
+[^key-c9efdde8c8be4a56fd3ba39a9bf2672e]: Textual amendment: Words in reg. 58(2)(c)(ii) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/5/a/ii)
+
+[^key-c93e7928708ac33c1f6a0e7de76b90ce]: Textual amendment: Reg. 58(2A) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(5)(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/5/b)
+
+[^key-5a9ac9e02a5c56a0941f39f1f939a71e]: Commencement: Reg. 59 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-9475442aa32c75466f8bf4386ca08d48]: Textual amendment: Word in [reg. 59(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/59/2) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/11/2)
+
+[^key-d75988ea72ed45eee8ce8aeda959f3bb]: Textual amendment: Reg. 59(4A) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/11/1)
+
+[^key-2b41aaa97115b60e36f109b167237245]: Textual amendment: Word in reg. 59(5)(a)(i) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [10(1)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/10/1/a)
+
+[^key-31f747f6eaed7976231435997b9c837c]: Textual amendment: Word in reg. 59(5)(a)(ii) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [10(1)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/10/1/a)
+
+[^key-729702d8b185c5a88bc9d26f13799b3d]: Textual amendment: Word in reg. 59(5)(a)(iii) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [10(1)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/10/1/a)
+
+[^key-6b88531424cefc30425b18f95c6d1007]: Textual amendment: Word in reg. 59(5)(a)(iv) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [10(1)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/10/1/a)
+
+[^key-91d40852433c85a9708ce7cebd9b9f1c]: Textual amendment: Word in reg. 59(5)(b) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [10(1)(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/10/1/b)
+
+[^key-625122ae83444ee85c7be2be62271e24]: Commencement: Reg. 60 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-315f7d9369ee801c8fb8643ada907d3c]: Textual amendment: Sum in reg. 60(2)(a) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [11(3)(a)](https://www.legislation.gov.uk/uksi/2026/872/regulation/11/3/a)
+
+[^key-cde3de9f14519f02e61fab77cbf7fd0b]: Textual amendment: Word in reg. 60(3) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [14(5)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/14/5)
+
+[^key-14ca6e667badd1f7cfd7d4495be9bcbd]: Textual amendment: Words in reg. 60(4)(a)(ii) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [11(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/11/2/a/i)
+
+[^key-346e56d7d9cd376e1226c86af31543dc]: Textual amendment: Reg. 60(4)(a)(iii) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [11(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/11/2/a/ii)
+
+[^key-23ba6dacac049c6c860302d6e8b5bb19]: Textual amendment: Reg. 60(4A) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/11/2/b)
+
+[^key-89991fdbbdb64c5bc48079c0920f904f]: Textual amendment: Word in reg. 60(6) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/10/2)
+
+[^key-decdd782a3572b9ad5ff73e39c2883a3]: Textual amendment: Word in [reg. 60(7)](https://www.legislation.gov.uk/uksi/2025/404/regulation/60/7) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [11(3)(b)](https://www.legislation.gov.uk/uksi/2026/872/regulation/11/3/b)
+
+[^key-091f9f5f2e7a59964affec4e29aeca16]: Commencement: Reg. 61 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-5b4235e6554da8e3948fdac275455d28]: Textual amendment: Sum in reg. 61 substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2026/872/regulation/11/4)
+
+[^key-6a3b1b1c43c2d9798f3500dd1b44d1aa]: Commencement: Reg. 62 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-9e94add483b01500048a68910706398b]: Textual amendment: Sum in [reg. 62](https://www.legislation.gov.uk/uksi/2025/404/regulation/62) Table substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [11(5)(a)(i)](https://www.legislation.gov.uk/uksi/2026/872/regulation/11/5/a/i)
+
+[^f01000]: Footnote: (a)
+
+    “SCM” or “Special Category Mechanism” is used in the England Infected Blood Support Scheme in the description of certain payment categories under that Scheme.
+
+[^key-bd4ab9efd62d170cf380d132ed8a2aa1]: Textual amendment: Words in [reg. 62](https://www.legislation.gov.uk/uksi/2025/404/regulation/62) table substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [14(6)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/14/6)
+
+[^key-f5be9a8b0e4875395703d1603b22fef0]: Textual amendment: Sum in reg. 62 Table substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [11(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/872/regulation/11/5/a/ii)
+
+[^key-2c2543f8c08e34d9364156f366c4e422]: Textual amendment: Sum in reg. 62 Table substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [11(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/872/regulation/11/5/a/iii)
+
+[^key-5538b3b31f19204e3acaefe4dd514d46]: Textual amendment: Word in [reg. 62](https://www.legislation.gov.uk/uksi/2025/404/regulation/62) Table inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [11(5)(b)](https://www.legislation.gov.uk/uksi/2026/872/regulation/11/5/b)
+
+[^key-706dee07e7cd62b05843ad5501ed7bd6]: Textual amendment: Sum in reg. 62 Table substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [11(5)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/872/regulation/11/5/a/iv)
+
+[^key-6cad59cbd97d5bb4aaef338b6ef14d10]: Textual amendment: Sum in reg. 62 Table substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [11(5)(a)(v)](https://www.legislation.gov.uk/uksi/2026/872/regulation/11/5/a/v)
+
+[^key-df58788f657e2f453ffe1fe67dd2f657]: Commencement: Reg. 63 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-1dc8ef8b50a1b9a865ea57600897156c]: Textual amendment: Words in reg. 63(1) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [11(3)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/11/3/a)
+
+[^key-e68b3a92ca91c1a9d1eff3031421dbce]: Textual amendment: Reg. 63(2A) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [11(3)(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/11/3/b)
+
+[^key-5990dc5b4d52c30897e3bff28964f7f7]: Textual amendment: Words in reg. 63(3) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [11(3)(c)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/11/3/c)
+
+[^key-8426e0d7c3db5f713ba93f14f64400df]: Commencement: Reg. 64 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-010fff827566e2034953f2ce3b48648c]: Commencement: Reg. 65 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-102263c56d5df1848e8dd55a9c3dd033]: Textual amendment: Word in reg. 65(2) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [14(7)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/14/7)
+
+[^key-8b4713da06dbfb80f2ae2b13c92a3625]: Commencement: Reg. 66 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-0979dfb5e025944d38c8d7f15bf08971]: Commencement: Reg. 67 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-e569ce05945e34085783bf32f61e6878]: Commencement: Reg. 68 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-6927b013a3bdc95321463b9a35d5f0e7]: Commencement: Reg. 69 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-65c3e4ca51c6209173389875ae1f5f7c]: Commencement: Reg. 70 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-224d49676d4bd80730ce1c80de86bfed]: Commencement: Reg. 71 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-ac6b849c827cebf3ee6ff1bdd62c1fbd]: Commencement: Reg. 72 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-bdac76a7c0d962a34334621099a00b37]: Commencement: Reg. 73 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-32ad8a8de38b168a88a93552a4f42bae]: Commencement: Reg. 74 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-43fb1a0aa489bbd43d38c4e6b17c8332]: Textual amendment: Words in reg. 74(4)(b) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [14(8)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/14/8)
+
+[^key-f42441dc8701511897b49d79c52ef6d9]: Commencement: Reg. 75 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-e115d6740b0b6e2f1b5f620f2a0b15c5]: Commencement: Reg. 76 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-3aad05acfb38af4925306fca8f187fa2]: Textual amendment: Word in reg. 76(7)(b) omitted (31.12.2025) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(6)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/6/a)
+
+[^key-a600d0f6426a6e5312046d1b0543a223]: Textual amendment: Reg. 76(7)(b)(ii) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(6)(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/6/b)
+
+[^key-88639f64c5b3aeee4ba56848f20dd51b]: Textual amendment: Reg. 76(7)(b)(iii) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [4(6)(c)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/4/6/c)
+
+[^key-7baa55e07c7e8f192030650913a5eebd]: Textual amendment: Word in reg. 76(8)(a) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [14(9)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/14/9)
+
+[^key-621836b84a09cdd11206b21719f819ee]: Commencement: Reg. 77 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-43f241278e17ef10d006f4ec8e241c24]: Commencement: Reg. 78 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-5f10f6f00e048e6323febaa934c01786]: Textual amendment: [Reg. 78](https://www.legislation.gov.uk/uksi/2025/404/regulation/78) heading substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2026/872/regulation/12)
+
+[^key-cfb9911d938a08d8eeffcf3677a2e98e]: Textual amendment: Reg. 78(2) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [12(1)(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/12/1/b)
+
+[^key-467d68a4464055d2d91ee67fc311eb3a]: Textual amendment: Reg. 78(3) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [12(1)(c)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/12/1/c)
+
+[^key-91b469bb768a6bb068f8936824249548]: Commencement: Reg. 79 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-c96fb284be0ed019b72a8ab41a968b5a]: Textual amendment: Words in reg. 79 heading substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/12/2/a)
+
+[^key-0c0bcdb49f8afe033d23b3aaf7faa1ba]: Textual amendment: Reg. 79(1) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/12/2/b)
+
+[^key-75545b2609cc6708294c0da358905c07]: Textual amendment: Reg. 79(1A)[(1B)](https://www.legislation.gov.uk/uksi/2025/404/regulation/79/1B) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [12(2)(c)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/12/2/c)
+
+[^key-5577dfeef8ce46119890f4943ac3dbdc]: Textual amendment: Words in [reg. 79(1A)(a)](https://www.legislation.gov.uk/uksi/2025/404/regulation/79/1A/a) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [Sch. para. 1(7)](https://www.legislation.gov.uk/uksi/2026/872/schedule/paragraph/1/7)
+
+[^key-0b58f9c03055d90d57e795f313bf72ac]: Textual amendment: Word in reg. 79(2) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [12(2)(d)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/12/2/d)
+
+[^key-2613c23ea65dc4d3cbfbb752ec62ee28]: Textual amendment: Reg. 79(2A)-(2C) inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [12(2)(e)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/12/2/e)
+
+[^key-02a18ed47bdc2f05387d359854f9d00f]: Textual amendment: Word in reg. 79(3) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [12(2)(f)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/12/2/f)
+
+[^key-ee67581f39a5298508f3a4ec8a111cd4]: Textual amendment: Reg. 79(4) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [12(2)(g)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/12/2/g)
+
+[^key-a517eec286b5eda6662eb2c7aeee7054]: Textual amendment: Reg. 79A inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/12/3)
+
+[^key-8de18dcb3ab443a5d1f28988a1016d5e]: Textual amendment: Words in [reg. 79A(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/404/regulation/79A/2/a/i) substituted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [Sch. para. 1(8)](https://www.legislation.gov.uk/uksi/2026/872/schedule/paragraph/1/8)
+
+[^key-921ff138cd2058d593e465d5ab6c59a0]: Commencement: Reg. 80 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-a48f02af0f23d38948f66a4892daef55]: Commencement: Reg. 81 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-b1aa07b0ec1cb386f48842642cb1763b]: Commencement: Reg. 82 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-b23f305124da1f14ab9f5f5f9e426f9e]: Commencement: Reg. 83 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-c9c907de03095937346a5c720b0d4e4d]: Commencement: Reg. 84 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-a653f753dbd9da958f70b9010af5f08b]: Commencement: Reg. 85 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-7883be2a23831c90956f99f6478c7d31]: Commencement: Reg. 86 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^f00040]: Footnote: [S.I. 2024/872](https://www.legislation.gov.uk/uksi/2024/872).
+
+[^key-2207b50cd53c139ae9121b17c3895d38]: Commencement: Reg. 87 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-59c175ee60240814b789fa4c0309e44b]: Commencement: Sch. 1 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-a62c45bf06cf812d92925749c0467720]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2025/404/schedule/1) Table inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [3(10)](https://www.legislation.gov.uk/uksi/2026/872/regulation/3/10)
+
+[^key-807409b7495fb182efde7ff0857fc742]: Textual amendment: Word in Sch. 1 inserted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [14(10)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/14/10)
+
+[^key-5c3564c0588959a16c844ffd6d812974]: Commencement: Sch. 2 para. 1 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^f00041]: Footnote: [2014 c. 23](https://www.legislation.gov.uk/ukpga/2014/23).
+
+[^f00042]: Footnote: [2014 c. 6](https://www.legislation.gov.uk/ukpga/2014/6).
+
+[^f00043]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4).
+
+[^f00044]: Footnote: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49). Section 12A was inserted by section 55 of the National Health Service and Community Care Act 1990, and has been amended by section 2 of the Carers (Recognition and Services) Act [1995 (c. 12)](https://www.legislation.gov.uk/ukpga/1995/12), sections 8 and 9 of the Community Care and Health (Scotland) Act [2002 (asp 5)](https://www.legislation.gov.uk/asp/2002/5), [S.S.I. 2015/157](https://www.legislation.gov.uk/ssi/2015/157), and section 30 of the Carers (Scotland) Act [2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9).
+
+[^f00045]: Footnote: The Health and Social Care trusts are the Belfast Health and Social Care Trust, the Northern Health and Social Care Trust, the South Eastern Health and Social Care Trust, the Southern Health and Social Care Trust and the Western Health and Social Care Trust. They were established by orders under Article 10 of [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194), which has been amended by paragraphs 1 and 13(7) of Schedule 6 to the Health and Social Care (Reform) Act (Northern Ireland) [2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1) and paragraph 141 of Schedule 1 to the Health and Social Care Act (Northern Ireland) [2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3).
+
+[^key-bac39e568b04b9a39718b9e2bee85fab]: Commencement: Sch. 2 para. 2 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-f1a5211ad211c0bca34bdf7591749ef3]: Commencement: Sch. 2 para. 3 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-af4a84ffa18e4c31d0113e99dd3d549a]: Commencement: Sch. 2 para. 4 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-0c02c8224571a76aec754a0bffec8e6e]: Commencement: Sch. 2 para. 5 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-f27cf72309478acf842cd19db9f54a9f]: Textual amendment: Words in Sch. 2 para. 5(2)(f) omitted (31.12.2025) by virtue of [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2025/1358/regulation/13)
+
+[^key-024907aabeb6e58792210d6a47ab9234]: Commencement: Sch. 2 para. 6 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-6a6aaadd6f8d182b5fe1036fc6c3bde7]: Textual amendment: Word in Sch. 2 para. 6(a)(iii) substituted (31.12.2025) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2025 (S.I. 2025/1358)](https://www.legislation.gov.uk/uksi/2025/1358), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/1/2), [14(11)](https://www.legislation.gov.uk/uksi/2025/1358/regulation/14/11)
+
+[^key-62f5d5f688714cca9f7a6bf4c96c4d9e]: Commencement: Sch. 2 para. 7 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/404/regulation/1/2)
+
+[^key-ef6d947d1a7fd1b03e6dfef3db6f1c55]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2025/404/schedule/2/paragraph/8) inserted (24.7.2026) by [The Infected Blood Compensation Scheme (Amendment) Regulations 2026 (S.I. 2026/872)](https://www.legislation.gov.uk/uksi/2026/872), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/872/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2026/872/regulation/7/4)

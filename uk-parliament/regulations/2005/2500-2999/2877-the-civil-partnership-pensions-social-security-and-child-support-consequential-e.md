@@ -1,0 +1,1616 @@
+---
+title: The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005
+id: uksi/2005/2877
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-10-13'
+text_date: '2024-09-16'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/2877
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/2877/pdfs/uksiem_20052877_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2877/pdfs/uksi_20052877_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2877/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005
+
+> Text as at 2024-09-16.
+
+2005 No. 2877
+
+CIVIL PARTNERSHIP
+
+The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005
+
+Made
+
+13th October 2005
+
+Laid before Parliament
+
+20th October 2005
+
+Coming into force
+
+5th December 2005
+
+The Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 254(3) and (4) [^c1313593], 258 and 259 of the Civil Partnership Act 2004 [^c1313594], makes the following Order:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 and shall come into force on 5th December 2005.
+
+## 2. Amendments of legislation
+
+(1) Schedule 1, which contains amendments of subordinate legislation relating to pension sharing on divorce, shall have effect.
+
+(2) Schedule 2, which contains amendments of subordinate legislation relating to occupational and personal pension schemes, shall have effect.
+
+(3) Schedule 3, which contains amendments of subordinate legislation relating to social security, shall have effect.
+
+(4) Schedule 4, which contains amendments of subordinate legislation relating to child support, shall have effect.
+
+(5) Schedule 5, which contains transitory provisions relating to child support, shall have effect.
+
+## 3. Transitional provision relating to housing benefit and council tax benefit
+
+(1) Paragraph (2) applies in the case of a claimant who is a member of a couple who live together as if they were civil partners on or after 5th December 2005, in respect of whom there is an award of housing benefit or council tax benefit on 5th December 2005.
+
+(2) In such a case, subject to paragraphs (3) and (4)—
+
+- (a) the provisions of regulation 8(2) [^c1313595] and (10) [^c1313596] of the Decisions and Appeals Regulations shall not apply; and
+- (b) a superseding decision made in consequence of the amendments made by paragraph 15, 16, 21 or 22 of Schedule 3 to this Order shall take effect—
+  - (i) from the date that the claimant reports to the relevant authority that the couple live together as if they were civil partners; or
+  - (ii) from the date on which the relevant authority otherwise becomes aware that the couple are living together as if they were civil partners; or
+  - (iii) where there exists an award of a relevant benefit on 5th December 2005, from the date the superseding decision is made in relation to the relevant benefit that is consequential on the amendments made by paragraph 13, 26 or 35 of Schedule 3 to this Order,
+
+  whichever is the earliest date.
+
+(3) The relevant authority may, where the provisions of paragraph (2)(b)(i) or (ii) apply, determine such earlier effective date for the superseding decision as it considers appropriate if it is satisfied that the claimant could reasonably have been expected to report that he is a member of a couple who live together as if they were civil partners earlier than the date which would otherwise apply under that paragraph.
+
+(4) The provisions of regulation 8(2) and (10) of the Decisions and Appeals Regulations shall apply in a case falling within paragraph (1) where the application of those provisions is advantageous to the claimant.
+
+(5) In this article—
+
+- “**couple**” has the same meaning as in regulation 2(1) of the Housing Benefit (General) Regulations 1987 [^c1313597];
+- “**the Decisions and Appeals Regulations**” means the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001 [^c1313598];
+- “**relevant authority**” has the same meaning as in regulation 2(1) of the Housing Benefit (General) Regulations 1987;
+- “**relevant benefit**” means income support, income-based jobseeker's allowance or a guarantee credit awarded under section 2(1) of the State Pension Credit Act 2002 [^c1313599].
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Philip A Hunt
+
+Parliamentary Under Secretary of State,
+
+Department for Work and Pensions
+
+13th October 2005
+
+## SCHEDULE 1 — Amendments of subordinate legislation relating to pension sharing on divorce
+
+Article 2(1)
+
+### 1. Pensions on Divorce etc. (Provision of Information) Regulations 2000
+
+(1) Amend the Pensions on Divorce etc. (Provision of Information) Regulations 2000 [^c1313600] as follows.
+
+(2) In regulation 1 (citation, commencement and interpretation), in paragraph (2)—
+
+- (a) in the definition of “notice of discharge of liability”, after “former spouse” insert “ or former civil partner ”;
+- (b) in the definition of “notice of implementation”, after “former spouse” insert “ or former civil partner ”.
+
+(3) In regulation 2 (basic information about pensions and divorce)—
+
+- (a) in the heading preceding it, at the end add “ or dissolution of a civil partnership ”;
+- (b) in paragraph (1), after “the spouse” (in each place) insert “ or civil partner ”;
+- (c) in paragraph (6)—
+  - (i) in sub-paragraph (b), after “spouse” insert “ or civil partner ”;
+  - (ii) after “his spouse,” insert “ civil partner, ”.
+
+(4) In regulation 3 (information about pensions and divorce: valuation of pension benefits)—
+
+- (a) in the heading preceding it, after “and divorce” insert “ and dissolution of a civil partnership ”;
+- (b) in paragraph (1), for “section 23(1)(a)(i) or (iii)” substitute “ section 23(a)(i), (ia), (iii) or (iv) ”[^c1313601].
+
+(5) In regulation 10 (provision of information after receipt of an earmarking order), in paragraph (5)(a), after “divorce” insert “ or dissolution of a civil partnership ”.
+
+### 2. Pensions on Divorce etc. (Charging) Regulations 2000
+
+(1) Amend the Pensions on Divorce etc. (Charging) Regulations 2000 [^c1313602] as follows.
+
+(2) In regulation 2 (general requirements as to charges)—
+
+- (a) in paragraph (1)(a)(i), after “divorce” insert “ or dissolution of a civil partnership ”;
+- (b) in paragraph (2), for “his spouse” (in each place) substitute “ the member's spouse or civil partner ”;
+- (c) in paragraph (8) [^c1313603]—
+  - (i) for “his spouse” where those words first appear substitute “ the member's spouse or civil partner ”;
+  - (ii) in sub-paragraph (a), for “his spouse” substitute “ the member's spouse, civil partner ”.
+
+(3) In regulation 6 (additional amounts recoverable in respect of pension sharing activity), in paragraph (2)(b), for “his spouse” substitute “ the member's spouse or civil partner ”.
+
+### 3. Pension Sharing (Valuation) Regulations 2000
+
+In regulation 2 of the Pension Sharing (Valuation) Regulations 2000 [^c1313604] (rights under a pension arrangement which are not shareable), in paragraph (1)(b), after “by virtue of being the widow, widower” insert “ , surviving civil partner ”.
+
+### 4. Pension Sharing (Implementation and Discharge of Liability) Regulations 2000
+
+In regulation 15 of the Pension Sharing (Implementation and Discharge of Liability) Regulations 2000 [^c1313605] (disqualification as a destination for pension credit – annuity contracts and insurance policies), in paragraph (2)(b), for “widow or widower” substitute “ widow, widower or surviving civil partner ”.
+
+### 5. Pension Sharing (Pension Credit Benefit) Regulations 2000
+
+In regulation 15 of the Pension Sharing (Pension Credit Benefit) Regulations 2000 [^c1313606] (further conditions on which liability may be discharged), in paragraph (2)(a), for “widow or widower” substitute “ widow, widower or surviving civil partner ”.
+
+### 6. Pension Sharing (Safeguarded Rights) Regulations 2000
+
+(1) Amend the Pension Sharing (Safeguarded Rights) Regulations 2000 [^c1313607] as follows.
+
+(2) In regulation 6 (ways of giving effect to safeguarded rights – money purchase schemes)—
+
+- (a) in paragraph (2)—
+  - (i) in sub-paragraph (a), for “widow or widower” substitute “ widow, widower or surviving civil partner ”;
+  - (ii) in sub-paragraph (b), after “widower,” insert “ surviving civil partner ”;
+- (b) in paragraph (9)(a), for “widow or widower” substitute “ widow, widower or surviving civil partner ”.
+
+(3) In regulation 9 (ways of giving effect to safeguarded rights – salary related schemes), in paragraph (8)(a), for “widow or widower” substitute “ widow, widower or surviving civil partner ”.
+
+### 7. Sharing of State Scheme Rights (Provision of Information and Valuation) (No. 2) Regulations 2000
+
+(1) Amend the Sharing of State Scheme Rights (Provision of Information and Valuation) (No. 2) Regulations 2000 [^c1313608] as follows.
+
+(2) In regulation 2 (basic information about the sharing of state scheme rights and divorce)—
+
+- (a) in the heading preceding it, after “and divorce” add “ or the dissolution of a civil partnership ”;
+- (b) in paragraph (1)(b), after “spouse” (in each place) insert “ or civil partner ”;
+- (c) in paragraph (3)(c), after “spouse” insert “ or civil partner ”;
+- (d) in paragraph (5)—
+  - (i) in sub-paragraph (b), after “the spouse” insert “ or civil partner ”;
+  - (ii) after “his spouse,” insert “ civil partner, ”.
+
+(3) In the heading preceding regulation 3 (information about the sharing of state scheme rights and divorce: valuation of shareable state scheme rights), after “and divorce” insert “ or dissolution of a civil partnership ”.
+
+## SCHEDULE 2 — Amendments of subordinate legislation relating to occupational and personal pension schemes
+
+Article 2(2)
+
+### 1. Personal Pension Schemes (Disclosure of Information) Regulations 1987
+
+(1) Amend the Personal Pension Schemes (Disclosure of Information) Regulations 1987 [^c1313609] as follows.
+
+(2) In regulation 3 (constitution of scheme), in paragraph (4)(a)(ii), after “spouses” insert “ and civil partners ”.
+
+(3) In regulation 4 (basic information about the scheme), in paragraph (3)(a)(ii), after “spouses” insert “ and civil partners ”.
+
+(4) In Schedule 2 (information to be made available to individuals), in paragraph 2A [^c1313610]—
+
+- (a) in sub-paragraph (4)(b)—
+  - (i) after “married” insert “ or in a civil partnership ”;
+  - (ii) after “spouse” insert “ or civil partner ”;
+- (b) in sub-paragraph (5)(a), after “not married” insert “ or in a civil partnership ”.
+
+### 2. Occupational Pension Schemes (Preservation of Benefit) Regulations 1991
+
+In regulation 19 of the Occupational Pension Schemes (Preservation of Benefit) Regulations 1991 [^c1313611] (widows, widowers and dependants)—
+
+- (a) in the heading preceding it, after “widowers” insert “ , surviving civil partners ”;
+- (b) after “if the person is married to,” insert “ in a civil partnership with, ”;
+- (c) after “or (as the case may be)” insert “ in a civil partnership with, or ”.
+
+### 3. Occupational Pension Schemes (Revaluation) Regulations 1991
+
+In regulation 8 of the Occupational Pension Schemes (Revaluation) Regulations 1991 [^c1313612] (commutation, forfeiture and surrender), in paragraph (4), for “widow or widower” substitute “ widow, widower or surviving civil partner ”.
+
+### 4. Occupational Pension Schemes (Internal Dispute Resolution Procedures) Regulations 1996
+
+In regulation 2 of the Occupational Pension Schemes (Internal Dispute Resolution Procedures) Regulations 1996 [^c1313613] (meaning of “**prescribed persons**” and “**complainant of a prescribed description**”), in paragraph (1)(b), after “widower” insert “ , surviving civil partner ”.
+
+### 5. Occupational Pension Schemes (Disclosure of Information) Regulations 1996
+
+(1) Amend the Occupational Pension Schemes (Disclosure of Information) Regulations 1996 [^c1313614] as follows.
+
+(2) In regulation 3 (constitution of scheme), in paragraph (3)(b), after “spouses” insert “ and civil partners ”.
+
+(3) In regulation 4 (basic information about the scheme), in paragraph (3)(b), after “spouse” insert “ or civil partner ”.
+
+(4) In regulation 6 (availability and content of annual report), in paragraph (6)(b), after “spouses” insert “ and civil partners ”.
+
+(5) In regulation 7 (availability of actuarial valuation, schedule of contributions, payment schedule and statement of investment principles), in paragraph (4)(b), after “spouses” insert “ and civil partners ”.
+
+(6) In Schedule 2 (information to be made available to individuals), in paragraph 6ZA [^c1313615]—
+
+- (a) in sub-paragraph (4)(b)—
+  - (i) after “married” insert “ or in a civil partnership ”;
+  - (ii) after “surviving spouse” insert “ or, as the case may be, a surviving civil partner ”;
+- (b) in sub-paragraph (5)(a), after “not married” insert “ or not in a civil partnership ”.
+
+### 6. Occupational Pension Schemes (Modification of Schemes) Regulations 1996[^key-90c567101b783ee3493b00b42d786f2b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations 1997
+
+(1) Amend the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations 1997 [^c1313617] as follows.
+
+(2) In regulation 2 (commutation of a pension under an occupational pension scheme)—
+
+- (a) in paragraph (1)(b), for “his widow or her widower” substitute “ the member's widow, widower or surviving civil partner ”;
+- (b) in paragraph (2), for “widow's or widower's” (in each place) substitute “ widow's, widower's or surviving civil partner's ”.
+
+(3) In regulation 6 (forfeiture of occupational pension), in paragraph (1)(a), for “widow or widower” substitute “ widow, widower or surviving civil partner ”.
+
+### 8. Stakeholder Pension Schemes Regulations 2000
+
+In regulation 18 of the Stakeholder Pension Schemes Regulations 2000 [^c1313618] (disclosure of information to members)—
+
+- (a) in paragraph (5E)(b) [^c1313619]—
+  - (i) after “is married” insert “ or in a civil partnership ”;
+  - (ii) after “surviving spouse” insert “ or surviving civil partner ”;
+- (b) in paragraph (5F)(a), after “not married” insert “ or not in a civil partnership ”.
+
+### 9. Occupational and Personal Pension Schemes (Bankruptcy) (No. 2) Regulations 2002
+
+In regulation 7 of the Occupational and Personal Pension Schemes (Bankruptcy) (No.2) Regulations 2002 [^c1313620] (calculation and verification of rights under pension arrangements), in paragraph (2)—
+
+- (a) after “and divorce” insert “ and dissolution of a civil partnership ”;
+- (b) after “domestic and overseas divorce etc.” insert “ and dissolution of a civil partnership ”.
+
+## SCHEDULE 3 — Amendments of subordinate legislation relating to social security
+
+Article 2(3)
+
+### 1. Social Security (Benefit)(Married Women and Widows Special Provisions) Regulations 1974
+
+In regulation 3 of the Social Security (Benefit) (Married Women and Widows Special Provisions) Regulations 1974 [^c1313621] (modifications, in relation to widows, of provisions with respect to unemployment and short-term incapacity benefit, maternity allowance and Category A retirement pension) [^c1313622] in paragraph (1) [^c1313623] after “by reason of remarriage” insert “ , the formation of a civil partnership ”.
+
+### 2. Social Security (Employed Earners' Employments for Industrial Injuries Purposes) Regulations 1975
+
+In Schedule 1 to the Social Security (Employed Earners' Employments for Industrial Injuries Purposes) Regulations 1975 [^c1313624], in paragraph 1 of Part II (employments not to be treated as employed earners' employments for industrial injuries purposes)—
+
+- (a) after “spouse” insert “ or civil partner ”;
+- (b) after “spouse's” insert “ or civil partner's ”.
+
+### 3. Social Security (Hospital In-Patients) Regulations 1975[^key-d88c924021d1991724d8c708997f16c5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Social Security (Credits) Regulations 1975
+
+(1) Amend the Social Security (Credits) Regulations 1975 [^c1313632] as follows.
+
+(2) In regulation 7A (credits for carer's allowance) [^c1313633], in paragraph (1) for “widow or widower” substitute “ widow, widower or surviving civil partner ”.
+
+(3) In regulation 7C (credits for working tax credit) [^c1313634]—
+
+- (a) in paragraphs (2)(a) and (3) for “a married or unmarried couple” substitute “ a couple ”;
+- (b) in paragraph (6) for “ “married couple” and “unmarried couple” have” substitute
+
+  > > couple
+  >
+  > has
+
+  [^c1313635].
+
+(4) In regulation 8C (credits on termination of bereavement benefits) [^c1313636], in paragraph (2) after “remarriage” insert “ , forming a civil partnership, ”.
+
+### 5. Social Security Benefit (Persons Abroad) Regulations 1975
+
+(1) Amend the Social Security Benefit (Persons Abroad) Regulations 1975 [^c1313637] as follows.
+
+(2) In regulation 2 (modification of the Act in relation to incapacity benefit, severe disablement allowance, unemployability supplement and maternity allowance) [^c1313638], in paragraph (5)(b) [^c1313639] after “spouse,” insert “ civil partner, ”.
+
+(3) In regulation 4 (modification of the Act in relation to widow's benefit, bereavement benefit, child's special allowance, guardian's allowance and retirement pension) [^c1313640]—
+
+- (a) in paragraph (2B) [^c1313641]—
+  - (i) in sub-paragraph (a)—
+    - (aa) after “deceased spouse” insert “ or deceased civil partner ”;
+    - (bb) after “surviving spouse” insert “ or surviving civil partner ”;
+    - (cc) after “deceased spouse's” insert “ or deceased civil partner's ”;
+  - (ii) in sub-paragraph (b)—
+    - (aa) after “surviving spouse” insert “ or surviving civil partner ”;
+    - (bb) after “deceased spouse's” insert “ or deceased civil partner's ”;
+  - (iii) in sub-paragraph (c), after “surviving spouse” insert “ or surviving civil partner ”;
+- (b) in paragraph (4) [^c1313642]—
+  - (i) after “surviving spouse” (in each place) insert “ or surviving civil partner ”;
+  - (ii) after “former spouse” (in each place) insert “ or former civil partner ”.
+
+(4) In regulation 5 (application of disqualification in respect of up-rating of benefit)—
+
+- (a) in paragraph (3)—
+  - (i) in sub-paragraph (b) [^c1313643]—
+    - (aa) for “a widow or a widower” substitute “ a widow, a widower or a surviving civil partner ”;
+    - (bb) after “former spouse” insert “ or former civil partner ”;
+  - (ii) in sub-paragraph (d) [^c1313644] after “deceased spouse” insert “ or deceased civil partner ”;
+- (b) in paragraph (6) [^c1313645] after “former spouse” (in each place) insert “ or former civil partner ”;
+- (c) in paragraph (7) [^c1313646]—
+  - (i) after “spouse” (in each place) insert “ or civil partner ”;
+  - (ii) after “were husband and wife” insert “ or were civil partners ”;
+  - (iii) after “became husband and wife” insert “ or formed a civil partnership ”.
+
+(5) In regulation 13 (modification of the Act in relation to a dependant)—
+
+- (a) after “A husband or wife” insert “ or civil partner ”;
+- (b) after “spouse” (in each place) insert “ or civil partner ”;
+- (c) after “spouse's” insert “ or civil partner's ”;
+- (d) for “the husband or wife” substitute “ the husband, wife or civil partner ”.
+
+### 6. Social Security (Invalid Care Allowance) Regulations 1976
+
+In regulation 9 of the Social Security (Invalid Care Allowance) Regulations 1976 [^c1313647] (conditions relating to residence and presence in Great Britain), in paragraph (3)(c) [^c1313648], after “spouse,” insert “ civil partner, ”.
+
+### 7. Social Security Benefit (Dependency) Regulations 1977
+
+(1) Amend the Social Security Benefit (Dependency) Regulations 1977 [^c1313649] as follows.
+
+(2) In regulation 3 (allocation of contributions for spouse) [^c1313650]—
+
+- (a) in the heading preceding it, after “spouse” insert “ or civil partner ”;
+- (b) in paragraph (1) [^c1313651] after “spouse” (in each place) insert “ or civil partner ”;
+- (c) in paragraph (2) [^c1313652] after “spouse” (in each place) insert “ or civil partner ”.
+
+(3) In regulation 4A (circumstances in which a person who is not entitled to child benefit is to be treated as if he were so entitled) [^c1313653]—
+
+- (a) in paragraph (1)(b) [^c1313654] after “spouse” insert “ or civil partner ”;
+- (b) in paragraph (4) [^c1313655] after “spouse” insert “ or civil partner ”.
+
+(4) In regulation 5 (contribution towards the cost of providing for child), in paragraph (5) [^c1313656]—
+
+- (a) after “neither the beneficiary nor his spouse” insert “ or, as the case may be, his civil partner ”;
+- (b) after “if he has a spouse” and “and his spouse” insert “ or civil partner ”.
+
+(5) In regulation 8 (earnings rules for increases for adult dependants) [^c1313657]—
+
+- (a) in paragraph (1)—
+  - (i) at the end of sub-paragraph (a), insert “ or ”;
+  - (ii) omit “or” at the end of sub-paragraph (b);
+  - (iii) omit sub-paragraph (c);
+- (b) after paragraph (1) insert—
+
+  > (1A) This paragraph applies in cases where an increase of benefit is claimed in respect of a spouse or a civil partner who, in either case, is residing with the beneficiary and the increase is claimed under paragraph 6(1)(a)(i) of Schedule 7 to the Contributions and Benefits Act (increase of disablement pension in respect of a spouse or civil partner where beneficiary entitled to unemployability supplement).
+
+  ;
+- (c) in paragraph (2)—
+  - (i) after “paragraph (1)” insert “ or (1A) ”;
+  - (ii) after “spouse” (in each place) insert “ or civil partner ”;
+- (d) in paragraph (6) after “spouse” (in each place) insert “ or civil partner ”.
+
+(6) In regulation 11 (contribution to maintenance of adult dependant), after paragraph (1) [^c1313658] insert—
+
+> (1A) Subject to paragraphs (2) and (3), for the purposes of section 82 of, and paragraph 6(1)(a)(i) of Schedule 7 to, the Contributions and Benefits Act (increase of maternity allowance and increase of disablement pension where beneficiary entitled to unemployability supplement) a beneficiary shall not be deemed to satisfy the requirement contained in those provisions (that he is contributing to the maintenance of his civil partner at a weekly rate of not less than the standard rate of increase) unless when in employment, or not incapable of work, or not entitled to a Category A or a Category B retirement pension, as the case may be (except in a case where the dependency did not arise until later), he contributed to his civil partner's maintenance at a weekly rate not less than the standard rate of increase.
+
+.
+
+(7) In Schedule 2 (prescribed circumstances for increase of a carer's allowance) [^c1313659]—
+
+- (a) in paragraph 2A [^c1313660]—
+  - (i) for sub-paragraph (a) substitute the following sub-paragraph—
+
+    > - (a) a beneficiary is a member of a couple; and
+
+    ;
+  - (ii) in sub-paragraph (b) for “person” substitute “ member of the couple ”;
+- (b) in paragraph 2C [^c1313661]—
+  - (i) omit the definition of “unmarried couple”;
+  - (ii) before the definition of “week” insert the following definition—
+
+    > “**couple**” means—
+    >
+    > - (a) a man and woman who are married to each other and are members of the same household;
+    > - (b) a man and woman who are not married to each other but are living together as husband and wife;
+    > - (c) two people of the same sex who are civil partners of each other and are members of the same household; or
+    > - (d) two people of the same sex who are not civil partners of each other but are living together as if they were civil partners,
+    >
+    > and for the purposes of paragraph (d), two people of the same sex are to be regarded as living together as if they were civil partners if, but only if, they would be regarded as living together as husband and wife were they instead two people of the opposite sex;;
+
+    ;
+- (c) in paragraph (4)(a)(ii) after “spouses” insert “ or civil partners ”;
+- (d) in paragraph (7)(a) [^c1313662] after “a spouse” insert “ or civil partner ”.
+
+### 8. Social Security Benefit (Persons Residing Together) Regulations 1977
+
+In regulation 2 of the Social Security Benefit (Persons Residing Together) Regulations 1977 [^c1313663] (circumstances in which a person is to be treated as residing or not residing with another person or in which persons are to be treated as residing or not residing together), in paragraph (2) [^c1313664] after “spouses” insert “ or civil partners ”.
+
+### 9. Social Security (Overlapping Benefits) Regulations 1979
+
+(1) Amend the Social Security (Overlapping Benefits) Regulations 1979 [^c1313665] as follows.
+
+(2) In regulation 6 (adjustments of personal benefit under Chapters I and II of Part II of the Act by reference to industrial injuries benefits and benefits not under the Act, and adjustments of industrial injuries benefits), in paragraph (5) [^c1313666], after “spouse” (in each place) insert “ or civil partner ”.
+
+(3) In regulation 15 (priority between persons entitled to increase of benefit), in paragraph (4)(a) after “spouse” insert “ or civil partner ”.
+
+(4) In Schedule 1 (personal benefits which are required to be adjusted by reference to benefits not under Chapters I and II of Part II of the Act), in column (2) of paragraph 4 [^c1313667], after “surviving spouse” insert “ or civil partner ”.
+
+### 10. Social Security (Widow's Benefit and Retirement Pensions) Regulations 1979
+
+(1) Amend the Social Security (Widow's Benefit and Retirement Pensions) Regulations 1979 [^c1313668] as follows.
+
+(2) In regulation 7A (Category B retirement pension for surviving spouses by virtue of deceased spouse's contributions) [^c1313669]—
+
+- (a) in the heading preceding it—
+  - (i) after “surviving spouses” insert “ and surviving civil partners ”;
+  - (ii) after “deceased spouse's” insert “ or deceased civil partner's ”;
+- (b) in paragraph (2)(e) after “remarried” insert “ or formed a civil partnership ”;
+- (c) in paragraph (3)(a) after “spouse” insert “ or civil partner ”.
+
+(3) In regulation 8 (substitution of former spouse's contribution record to give entitlement to a Category A retirement pension)—
+
+- (a) in the heading preceding it, after “former spouse's” insert “ or former civil partner's ”;
+- (b) in paragraph (1)—
+  - (i) in sub-paragraph (a) after “did not remarry” insert “ or, as the case may be, form a civil partnership ”;
+  - (ii) after sub-paragraph (a) insert the following sub-paragraph—
+
+    > - (aa) any person whose last civil partnership terminated before he attained pensionable age and who did not form a subsequent civil partnership or, as the case may be, marry before that date;
+  - (iii) in sub-paragraph (b) [^c1313670]—
+    - (aa) after “attaining pensionable age” insert “ or whose civil partner died on or after the man or woman had attained that age ”;
+    - (bb) after “former spouse” insert “ or former civil partner ”;
+  - (iv) in sub-paragraph (c)—
+    - (aa) after “last marriage” insert “ or last civil partnership ”;
+    - (bb) after “his spouse” insert “ or, as the case may be, his civil partner ”;
+- (c) in paragraph (2)—
+  - (i) after “marriage” insert “ or civil partnership ”;
+  - (ii) after “former spouse” insert “ or former civil partner ”;
+- (d) in paragraph (3)—
+  - (i) after “former spouse” insert “ or former civil partner ”;
+  - (ii) after “marriage” insert “ or civil partnership ”;
+- (e) in paragraph (6) after “his spouse's” insert “ or his civil partner's ”.
+
+(4) In regulation 16ZA (provision in relation to entitlement to child benefit for the purposes of a widowed parent's allowance) [^c1313671]—
+
+- (a) in paragraph (1)—
+  - (i) after “(“the surviving spouse”)” insert “ or whose civil partner has died (“surviving civil partner”) ”;
+  - (ii) in sub-paragraph (b) after “surviving spouse” insert “ or surviving civil partner ”;
+- (b) in paragraph (2)—
+  - (i) after “a surviving spouse” insert “ or surviving civil partner ”;
+  - (ii) after “more than once married” insert “ , has formed more than one civil partnership, or who has been both married and formed a civil partnership ”;
+  - (iii) after “with the deceased spouse” insert “ or, as the case may be, the deceased civil partner ”;
+  - (iv) after “the deceased spouse” insert “ or deceased civil partner ”;
+  - (v) in sub-paragraph (a)—
+    - (aa) after “spouse” (in each place) insert “ or civil partner ”;
+    - (bb) after “marriage” insert “ or, as the case may be, by the formation of a civil partnership ”;
+    - (cc) after “that previous spouse's” insert “ or previous civil partner's ”;
+  - (vi) in sub-paragraph (b) after “spouse” (in each place) insert “ or civil partner ”.
+
+(5) In Schedule 1 (method of treating former spouse's contributions as those of the beneficiary so as to entitle him to a Category A retirement pension)—
+
+- (a) in the heading preceding it, after “former spouse's” insert “ or former civil partner's ”;
+- (b) in paragraph 1—
+  - (i) after “the former spouse's” (in each place) insert “ or former civil partner's ”;
+  - (ii) after “the marriage” (in each place) insert “ or, as the case may be, the civil partnership ”;
+- (c) in paragraph 2 after “marriage” (in each place) insert “ or civil partnership ”;
+- (d) in paragraph 3—
+  - (i) after “in which the marriage took place” (in each place) insert “ or the civil partnership was formed ”;
+  - (ii) for “in which the marriage terminated” (in each place) substitute “ in which the marriage or civil partnership terminated ”.
+
+### 11. Social Security (Widow's Benefit, Retirement Pensions and Other Benefits)(Transitional) Regulations 1979
+
+(1) Amend the Social Security (Widow's Benefit, Retirement Pensions and Other Benefits)(Transitional) Regulations 1979 [^c1313672] as follows.
+
+(2) In regulation 12 (provision relating to increase of retirement pension where pensioner's deceased spouse had deferred retirement) [^c1313673]—
+
+- (a) in the heading preceding it, after “deceased spouse” insert “ or deceased civil partner ”;
+- (b) after “deceased spouse” (in each place) insert “ or deceased civil partner ”;
+- (c) after “whose spouse dies on or after 6th April 1979” insert “ or whose civil partner dies on or after 5th December 2005 ”;
+- (d) for “that date” substitute “ 6th April 1979 ”.
+
+### 12. Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit Scheme 1983
+
+(1) Amend the Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit Scheme 1983 [^c1313674] as follows.
+
+(2) In article 5 (increase of allowance in respect of spouse) [^c1313675]—
+
+- (a) in the heading preceding it, after “spouse” add “ or civil partner ”;
+- (b) in paragraph (1), after “spouse” insert “ or civil partner ”;
+- (c) in paragraph (3), after “spouse” (in each place) insert “ or civil partner ”.
+
+(3) In article 9 (death benefit)—
+
+- (a) in paragraph (2), after “Workmen's Compensation Act 1925” insert “ and is to be read as including a surviving civil partner of the deceased ”;
+- (b) in paragraph (4)—
+  - (i) in sub-paragraph (a)—
+    - (aa) in paragraph (ii), after “at her death,” insert “ or ”;
+    - (bb) after paragraph (ii) insert the following paragraph—
+
+      > - (iii) his or her surviving civil partner who was wholly dependant upon him or her and who was residing with him or her at the time of his or her death,
+
+      ;
+    - (cc) for “to that widow or, as the case may be, to that widower” substitute “ to that widow, that widower or, as the case may be, that surviving civil partner ”;
+  - (ii) in sub-paragraph (b)—
+    - (aa) for “widow or widower” substitute “ widow, widower or surviving civil partner ”;
+    - (bb) after paragraph (i) insert the following paragraph—
+
+      > - (ia) his or her surviving civil partner who was wholly dependant on the deceased at the time of the deceased's death; or
+
+      ;
+    - (cc) for “between the widow or, as the case may be, the widower and that child or, if there is more than one child, between the widow or widower and those children” substitute “ between the widow, widower or, as the case may be, the surviving civil partner and that child or, if there is more than one child, between the widow, widower or, as the case may be, the surviving civil partner and those children ”;
+- (c) in sub-paragraph (c)—
+  - (i) for “a widow or widower” substitute “ a widow, widower or surviving civil partner ”;
+  - (ii) for “to that widow or, as the case may be, to that widower” substitute “ to that widow, that widower or, as the case may be, to that surviving civil partner ”;
+- (d) in sub-paragraph (d), for “widow or widower” substitute “ widow, widower or surviving civil partner ”.
+
+(4) In Schedule 2 (conditions relating to increase of allowance in respect of a spouse) [^c1313676]—
+
+- (a) in the heading preceding it, after “spouse” add “ or civil partner ”;
+- (b) in paragraph 1, after “spouse” (in each place) insert “ or civil partner ”;
+- (c) in paragraph 2, after “spouse” (in each place) insert “ or civil partner ”.
+
+### 13. Income Support (General) Regulations 1987
+
+(1) Amend the Income Support (General) Regulations 1987 [^c1313677] as follows.
+
+(2) In regulation 2 (interpretation), in paragraph (1)—
+
+- (a) in the definition of “close relative”, for “or the spouse of any of the preceding persons or, if that person is one of an unmarried couple, the other member of that couple” substitute “ or, if any of the preceding persons is one member of a couple, the other member of that couple ”;
+- (b) for the definition of “couple” substitute the following definition—
+
+  > “**couple**” means—
+  >
+  > - (a) a man and woman who are married to each other and are members of the same household;
+  > - (b) a man and woman who are not married to each other but are living together as husband and wife;
+  > - (c) two people of the same sex who are civil partners of each other and are members of the same household; or
+  > - (d) two people of the same sex who are not civil partners of each other but are living together as if they were civil partners,
+  >
+  > and for the purposes of paragraph (d), two people of the same sex are to be regarded as living together as if they were civil partners if, but only if, they would be regarded as living together as husband and wife were they instead two people of the opposite sex;;
+
+  ;
+- (c) in the definition of “partner”, in paragraph (a), for “a married or an unmarried couple” substitute “ a couple ”;
+- (d) in the definition of “war widower's pension”[^c1313678]—
+  - (i) after “any widower's” insert “ or surviving civil partner's ”;
+  - (ii) after “for a widower” insert “ or surviving civil partner ”.
+
+(3) In regulation 21 (special cases), in paragraph (3), in the definition of “partner of a person subject to immigration control”[^c1313679], in sub-paragraph (iii)—
+
+- (a) for “his” substitute “ the member's ”;
+- (b) for “her” substitute “ the partner ”.
+
+(4) Amend regulation 54 (interpretation) as follows—
+
+- (a) in the definition of “liable relative”, for “or former spouse” substitute “ , former spouse, civil partner or former civil partner ”;
+- (b) in the definition of “payment”[^c1313680], in sub-paragraph (a)—
+  - (i) at the end of paragraph (ii), insert “ or ”;
+  - (ii) after paragraph (ii), as amended by sub-paragraph (i) above, insert the following paragraph—
+
+    > - (iii) any proceedings for separation, dissolution or nullity in relation to a civil partnership;
+
+    .
+
+(5) In regulation 61 (interpretation), in the definition of “contribution”[^c1313681], after “the holder's spouse” insert “ or civil partner ”.
+
+(6) In Schedule 1B (prescribed categories of person) [^c1313682], in paragraph 16A (certain persons aged between 55 and 60 whose spouse has died) [^c1313683]—
+
+- (a) in the heading preceding it, after “spouse” insert “ or civil partner ”;
+- (b) in sub-paragraph (b), after “9th April 2006” insert “ or whose civil partner died during the period beginning on 5th December 2005 and ending on 9th April 2006 ”.
+
+(7) In Schedule 2 (applicable amounts), in paragraph 8A (bereavement premium) [^c1313684], in sub-paragraph (1)(b), after “9th April 2001” insert “ or of a civil partner who died on or after 5th December 2005 ”.
+
+(8) In Schedule 9 (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a) in paragraph 16(c) [^c1313685], for “widow or widower” substitute “ widow, widower or surviving civil partner ”;
+- (b) in paragraph 39 [^c1313686]—
+  - (i) in sub-paragraph (2)(a), after “estranged or divorced” insert “ or with whom he has formed a civil partnership that has not been dissolved or, where that person has died, had not been dissolved at the time of that person's death ”;
+  - (ii) in sub-paragraph (3), after “estranged or divorced” insert “ or, where the partner or former partner and that person have formed a civil partnership, the civil partnership has not been dissolved or, if either of them has died, had not been dissolved at the time of the death ”;
+  - (iii) in sub-paragraph (4)(a), after “estranged or divorced” insert “ or with whom he has formed a civil partnership that has not been dissolved ”;
+  - (iv) in sub-paragraph (5)(a), after “estranged or divorced” insert “ or with whom he had formed a civil partnership that had not been dissolved ”;
+- (c) in paragraph 54 [^c1313687], for “widows or widowers” substitute “ widows, widowers or surviving civil partners ”;
+- (d) in paragraph 55 [^c1313688], for “widows or widowers” substitute “ widows, widowers or surviving civil partners ”;
+- (e) in paragraph 56(1) [^c1313689]—
+  - (i) in paragraph (a), for “widow or widower” substitute “ widow, widower or surviving civil partner ”;
+  - (ii) in paragraph (b), for “widows or widowers” substitute “ widows, widowers or surviving civil partners ”.
+
+(9) In Schedule 10 (capital to be disregarded)—
+
+- (a) in paragraph 4(b) [^c1313690], after “estranged or divorced” insert “ or with whom he formed a civil partnership that has been dissolved ”;
+- (b) in paragraph 22 [^c1313691]—
+  - (i) in sub-paragraph (2)(a), after “estranged or divorced” insert “ or with whom he has formed a civil partnership that has not been dissolved or, where that person has died, had not been dissolved at the time of that person's death ”;
+  - (ii) in sub-paragraph (3), after “estranged or divorced” insert “ or, where the partner or former partner and that person have formed a civil partnership, the civil partnership has not been dissolved or, if either of them has died, had not been dissolved at the time of the death ”;
+  - (iii) in sub-paragraph (4)(a), after “estranged or divorced” insert “ or with whom he has formed a civil partnership that has not been dissolved ”;
+  - (iv) in sub-paragraph (5)(a), after “estranged or divorced” insert “ or with whom he had formed a civil partnership that had not been dissolved ”;
+- (c) in paragraph 25 [^c1313692], after “estrangement or divorce from” insert “ , or dissolution of his civil partnership with, ”;
+- (d) in paragraph 61 [^c1313693], in sub-paragraphs (c) and (d), after “deceased spouse” insert “ or deceased civil partner ”;
+- (e) in paragraph 65 [^c1313694], after “deceased spouse” (in each place) insert “ or deceased civil partner ”.
+
+### 14. Social Security (Claims and Payments) Regulations 1987
+
+(1) Amend the Social Security (Claims and Payments) Regulations 1987 [^c1313695] as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) after the definition of “Contributions and Benefits Act” insert the following definition—
+
+  > “**couple**” means—
+  >
+  > - (a) a man and woman who are married to each other and are members of the same household;
+  > - (b) a man and woman who are not married to each other but are living together as husband and wife;
+  > - (c) two people of the same sex who are civil partners of each other and are members of the same household; or
+  > - (d) two people of the same sex who are not civil partners of each other but are living together as if they were civil partners,
+  >
+  > and for the purposes of paragraph (d), two people of the same sex are to be regarded as living together as if they were civil partners if, but only if, they would be regarded as living together as husband and wife were they instead two people of the opposite sex;;
+
+  ;
+- (b) omit the definitions of “married couple” and “unmarried couple”;
+- (c) in the definition of “partner”, for “a married or unmarried couple” substitute “ a couple ”.
+
+(3) In regulation 4 (making a claim for benefit), in paragraphs (3) [^c1313696], (3B)(a) [^c1313697], (3C) [^c1313698] and (4), for “a married or unmarried couple” substitute “ a couple ”.
+
+(4) In regulation 4D (making a claim for state pension credit) [^c1313699], in paragraphs (7) and (8) for “married or unmarried couple” substitute “ couple ”.
+
+(5) In regulation 6 (date of claim), in paragraph (31) [^c1313700], in sub-paragraphs (a)(ii), (b) and (ii), after “spouse” insert “ or civil partner ”.
+
+(6) In regulation 15 (advance notice of retirement and claim for and award of pension), in paragraph (6) [^c1313701], after “the spouse” (in each place) insert “ or civil partner ”.
+
+(7) In regulation 17 (duration of awards), in paragraph (1A) [^c1313702] for “a married or unmarried couple” substitute “ a couple ”.
+
+(8) In regulation 36 (payment to a partner as alternative payee), in paragraph (2)(a) [^c1313703], for “of a married or unmarried” substitute “ member of a ”.
+
+### 15. Housing Benefit (General) Regulations 1987[^key-74e577b7f085dece8d155da2bda3315d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^key-74e577b7f085dece8d155da2bda3315d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Housing Benefit (Supply of Information) Regulations 1988[^key-c5d00a94ffc371f8ab46826fe5935d7e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Social Security (Payments on account, Overpayments and Recovery) Regulations 1988
+
+In regulation 17 of the Social Security (Payments on account, Overpayments and Recovery) Regulations 1988 [^c1313724] (recovery from couples) [^c1313725], for “a married or unmarried couple” (in each place) substitute “ a couple ”.
+
+### 19. Social Security (Attendance Allowance) Regulations 1991
+
+In regulation 2 of the Social Security (Attendance Allowance) Regulations 1991 [^c1313726] (conditions as to residence and presence in Great Britain), in paragraph (2)(c), after “spouse,” insert “ civil partner, ”.
+
+### 20. Social Security (Disability Living Allowance) Regulations 1991
+
+In regulation 2 of the Social Security (Disability Living Allowance) Regulations 1991 [^c1313727] (conditions as to residence and presence in Great Britain), in paragraph (2)(c), after “spouse,” insert “ civil partner, ”.
+
+### 21. Council Tax Benefit (General) Regulations 1992[^key-8de0387379afebe43b4b0059db4fbd33]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**22.**[^key-8de0387379afebe43b4b0059db4fbd33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Social Security (Incapacity Benefit – Increases for Dependants) Regulations 1994
+
+(1) Amend the Social Security (Incapacity Benefit – Increases for Dependants) Regulations 1994 [^c1313743] as follows.
+
+(2) In regulation 3 (allocation of contributions for a spouse) [^c1313744]—
+
+- (a) in the heading preceding it, after “spouse” add “ or civil partner ”;
+- (b) after “spouse” (in each place) insert “ or civil partner ”.
+
+(3) In regulation 9 (increase of incapacity benefit for adult dependants and persons having the care of children), in paragraph (1) [^c1313745]—
+
+- (a) in sub-paragraph (a), after “spouse” (in each place) insert “ or civil partner ”;
+- (b) in sub-paragraph (b), after “a spouse” insert “ or civil partner ”.
+
+(4) In regulation 12 (contribution to maintenance of adult dependant), in paragraph (1)—
+
+- (a) in sub-paragraph (a)—
+  - (i) after “his spouse” insert “ or civil partner ”;
+  - (ii) after “that spouse's” insert “ , civil partner's ”.
+- (b) in sub-paragraph (b), after “the spouse” insert “ , civil partner ”.
+
+(5) In regulation 14 (disqualification for receipt of increases in cases of imprisonment and absence abroad), in paragraph (1), after “the spouse” insert “ or civil partner ”.
+
+### 24. Social Security (Incapacity Benefit) Regulations 1994
+
+In regulation 16 of the Social Security (Incapacity Benefit) Regulations 1994 [^c1313746] (conditions relating to residence or presence) [^c1313747], in paragraph (4)(a), after “spouse,” insert “ civil partner, ”.
+
+### 25. Social Security (Incapacity for Work) (General) Regulations 1995
+
+In regulation 2 of the Social Security (Incapacity for Work) (General) Regulations 1995 [^c1313748] (interpretation), in paragraph (1)—
+
+- (a) in the definition of “close relative”, for “or the spouse of any of the preceding persons or, if that person is one of an unmarried couple, the other member of that couple” substitute “ or if any of the preceding persons is one member of a couple, the other member of that couple ”;
+- (b) after the definition of “close relative” insert the following definition—
+
+  > “**couple**” means—
+  >
+  > - (a) a man and woman who are married to each other and are members of the same household;
+  > - (b) a man and woman who are not married to each other but are living together as husband and wife;
+  > - (c) two people of the same sex who are civil partners of each other and are members of the same household; or
+  > - (d) two people of the same sex who are not civil partners of each other but are living together as if they were civil partners,
+  >
+  > and for the purposes of paragraph (d), two people of the same sex are to be regarded as living together as if they were civil partners if, but only if, they would be regarded as living together as husband and wife were they instead two people of the opposite sex;;
+
+  ;
+- (c) in the definition of “relative”[^c1313749], for “a spouse or, in the case of an unmarried couple, the other member of that couple” substitute “ the other member of a couple ”.
+
+### 26. Jobseeker's Allowance Regulations 1996
+
+(1) Amend the Jobseeker's Allowance Regulations 1996 [^c1313750] as follows.
+
+(2) In regulation 1 (citation, commencement and interpretation), in paragraph (3)—
+
+- (a) in the definition of “close relative”[^c1313751], for “or the spouse of any of the preceding persons or, if that person is one of an unmarried couple, the other member of that couple” substitute “ or if any of the preceding persons is one member of a couple, the other member of that couple ”;
+- (b) for the definition of “couple” substitute the following definition—
+
+  > “**couple**” means—
+  >
+  > - (a) a man and woman who are married to each other and are members of the same household;
+  > - (b) a man and woman who are not married to each other but are living together as husband and wife;
+  > - (c) two people of the same sex who are civil partners of each other and are members of the same household; or
+  > - (d) two people of the same sex who are not civil partners of each other but are living together as if they were civil partners,
+  >
+  > and for the purposes of paragraph (d), two people of the same sex are to be regarded as living together as if they were civil partners if, but only if, they would be regarded as living together as husband and wife were they instead two people of the opposite sex;;
+
+  ;
+- (c) in the definition of “partner”, in paragraph (a) for “a married or unmarried couple” substitute “ a couple ”;
+- (d) in the definition of “war widower's pension”[^c1313752], after “to a man as a widower” insert “ or to a surviving civil partner ”.
+
+(3) In regulation 4 (interpretation of Parts 2, 4 and 5), in the definition of “close relative”[^c1313753]—
+
+- (a) for “a spouse or other member of an unmarried couple” substitute “ a member of a couple ”;
+- (b) for “or the spouse of any of the preceding persons or, if that person is one of an unmarried couple, the other member of that couple” substitute “ or if any of the preceding persons is one member of a couple, the other member of that couple ”.
+
+(4) In regulation 57 (interpretation of Part 4), in paragraph (2)(a)—
+
+- (a) after “of a married couple” insert “ or of a civil partnership ”;
+- (b) after “that couple” insert “ or civil partnership ”.
+
+(5) In regulation 85 (special cases), in paragraph (4), in the definition of “partner of a person subject to immigration control”[^c1313754], in sub-paragraph (iii)—
+
+- (a) for “his” substitute “ the member's ”;
+- (b) for “her” substitute “ the partner ”.
+
+(6) In regulation 117 (interpretation)—
+
+- (a) in the definition of “liable relative”, in sub-paragraph (a), for “or former spouse” substitute “ , former spouse, civil partner or former civil partner ”;
+- (b) in the definition of “payment”, in sub-paragraph (a)—
+  - (i) at the end of paragraph (ii), insert “ or ”;
+  - (ii) after paragraph (ii), as amended by sub-paragraph (i) above, insert the following paragraph—
+
+    > - (iii) any proceedings for separation, dissolution or nullity in relation to a civil partnership;
+
+    .
+
+(7) In regulation 130 (interpretation), in the definition of “contribution”[^c1313755], after “holder's spouse” insert “ or civil partner ”.
+
+(8) In regulation 140 (meaning of “person in hardship”), in paragraph (1) [^c1313756]—
+
+- (a) in sub-paragraph (c)—
+  - (i) for “a married or unmarried couple” substitute “ a couple ”;
+  - (ii) for paragraph (i) substitute the following paragraph—
+
+    > - (i) at least one member of the couple is a woman who is pregnant; and
+
+    ;
+- (b) in sub-paragraph (e), for “a married or unmarried couple” substitute “ a couple ”.
+
+(9) In regulation 146A (meaning of “couple in hardship”) [^c1313757], in paragraph (1)(a), for “the woman member of the joint-claim couple is pregnant” substitute “ at least one member of the joint-claim couple is a woman who is pregnant ”.
+
+(10) In regulation 169 (recovery orders), in paragraph (1), after “claimant's spouse”, insert “ or civil partner ”.
+
+(11) Amend Schedule 1 (applicable amounts) as follows—
+
+- (a) in paragraph 1, in sub-paragraph (3)(a)(iv) and (iva) [^c1313758] of column (1), after “married” insert “ or civil partners ”;
+- (b) in paragraph 9A(1)(b) (bereavement premium) [^c1313759] of Part 3 (premiums), after “9th April 2001” insert “ or of a civil partner who died on or after 5th December 2005 ”.
+
+(12) In Schedule 7 (sums to be disregarded in the calculation of income other than earnings)—
+
+- (a) in paragraph 41—
+  - (i) in sub-paragraph (2)(a), after “estranged or divorced” insert “ or with whom he has formed a civil partnership that has not been dissolved or, where that person has died, had not been dissolved at the time of that person's death ”;
+  - (ii) in sub-paragraph (3), after “estranged or divorced” insert “ or, where the partner or former partner and that person have formed a civil partnership, the civil partnership has not been dissolved or, if either of them has died, had not been dissolved at the time of the death ”;
+  - (iii) in sub-paragraph (4)(a), after “estranged or divorced” insert “ or with whom he has formed a civil partnership that has not been dissolved ”;
+  - (iv) in sub-paragraph (5)(a), after “estranged or divorced” insert “ or with whom he had formed a civil partnership that had not been dissolved ”;
+- (b) in paragraph 53 [^c1313760], for “widows or widowers” substitute “ widows, widowers or surviving civil partners ”;
+- (c) in paragraph 54 [^c1313761], for “widows or widowers” substitute “ widows, widowers or surviving civil partners ”;
+- (d) in paragraph 55(1) [^c1313762]—
+  - (i) in paragraph (a), for “widow or widower” substitute “ widow, widower or surviving civil partner ”;
+  - (ii) in paragraph (b), for “widows or widowers” substitute “ widows, widowers or surviving civil partners ”.
+
+(13) In Schedule 8 (capital to be disregarded)—
+
+- (a) in paragraph 4(b), after “estranged or divorced” insert “ or with whom he formed a civil partnership that has been dissolved ”;
+- (b) in paragraph 5 [^c1313763], after “estrangement or divorce from” insert “ or dissolution of a civil partnership with ”;
+- (c) in paragraph 27—
+  - (i) in sub-paragraph (2)(a), after “estranged or divorced” insert “ or with whom he has formed a civil partnership that has not been dissolved or, where that person has died, had not been dissolved at the time of that person's death ”;
+  - (ii) in sub-paragraph (3), after “estranged or divorced” insert “ or, where the partner or former partner and that person have formed a civil partnership, the civil partnership has not been dissolved or, if either of them has died, had not been dissolved at the time of the death ”;
+  - (iii) in sub-paragraph (4)(a), after “estranged or divorced” insert “ or with whom he has formed a civil partnership that has not been dissolved ”;
+  - (iv) in sub-paragraph (5)(a), after “estranged or divorced” insert “ or with whom he had formed a civil partnership that had not been dissolved ”;
+- (d) in paragraph 56 [^c1313764], in sub-paragraphs (c) and (d), after “deceased spouse” insert “ or deceased civil partner ”;
+- (e) in paragraph 58 [^c1313765], after “deceased spouse” (in each place) insert “ or deceased civil partner ”.
+
+### 27. Social Security Benefits (Maintenance Payments and Consequential Amendments) Regulations 1996
+
+In regulation 2 of the Social Security Benefits (Maintenance Payments and Consequential Amendments) Regulations 1996 [^c1313766] (interpretation for the purposes of section 74A of the Act), in paragraph (b), after “spouse” insert “ or civil partner ”.
+
+### 28. Social Security (Child Maintenance Bonus) Regulations 1996
+
+(1) Amend the Social Security (Child Maintenance Bonus) Regulations 1996 [^c1313767] as follows.
+
+(2) In regulation 1 (citation, commencement and interpretation), in paragraph (2)—
+
+- (a) for the definition of “couple” substitute the following definition—
+
+  > “**couple**” means—
+  >
+  > - (a) a man and woman who are married to each other and are members of the same household;
+  > - (b) a man and woman who are not married to each other but are living together as husband and wife;
+  > - (c) two people of the same sex who are civil partners of each other and are members of the same household; or
+  > - (d) two people of the same sex who are not civil partners of each other but are living together as if they were civil partners,
+  >
+  > and for the purposes of paragraph (d), two people of the same sex are to be regarded as living together as if they were civil partners if, but only if, they would be regarded as living together as husband and wife were they instead two people of the opposite sex;;
+
+  ;
+- (b) in the definition of “partner”, in paragraph (a), for “a married or unmarried couple” substitute “ a couple ”.
+
+(3) In regulation 7 (death of a person with care of a child) [^c1313768], in paragraph (2), for “or the spouse of any of the preceding persons or, if that person is one of an unmarried couple, the other member of that couple” substitute “ or if any of the preceding persons is one member of a couple, the other member of that couple ”.
+
+### 29. Rent Officers (Housing Benefit Functions) Order 1997
+
+In the Rent Officers (Housing Benefit Functions) Order 1997 [^c1313769], in Schedule 2 (size criteria), in paragraph 1(a), for “a married couple or an unmarried couple” substitute “ a couple ”.
+
+### 30. Rent Officers (Housing Benefit Functions)(Scotland) Order 1997
+
+In the Rent Officers (Housing Benefit Functions) (Scotland) Order 1997 [^c1313770], in Schedule 2 (size criteria), in paragraph 1(a), for “a married couple or an unmarried couple” substitute “ a couple ”.
+
+### 31. Social Security (Claims and Information) Regulations 1999
+
+In regulation 17 of the Social Security (Claims and Information) Regulations 1999 [^c1313771] (partners of claimants) [^c1313772], in paragraph (5)—
+
+- (a) for “partner” substitute “ partner ”
+- (b) for “a married or unmarried couple” substitute “ a couple ”;
+- (c) after “also a member” insert “ , and “**couple**” has the same meaning as in regulation 1(3) of the Jobseeker's Allowance Regulations 1996 ”[^c1313773].
+
+### 32. Social Fund Winter Fuel Payment Regulations 2000[^key-486b3cf584e7ec3e07e262f4d5b25199]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 33. Social Security (Breach of Community Order) Regulations 2001
+
+(1) Amend the Social Security (Breach of Community Order) Regulations 2001 [^c1313775] as follows.
+
+(2) In regulation 6 (meaning of “person in hardship”), in paragraph (1)—
+
+- (a) in sub-paragraph (c)—
+  - (i) for “a married or unmarried couple” substitute “ a couple ”;
+  - (ii) for paragraph (i) substitute the following paragraph—
+
+    > - (i) at least one member of the couple is a woman who is pregnant; and
+
+    ;
+- (b) in sub-paragraph (e), for “a married or unmarried couple” substitute “ a couple ”.
+
+(3) In regulation 12 (meaning of “couple in hardship”), in paragraph (1), in sub-paragraph (a), for “the woman member of the joint-claim couple is pregnant” substitute “ at least one member of the joint-claim couple is a woman who is pregnant ”.
+
+### 34. Social Security (Loss of Benefit) Regulations 2001
+
+(1) Amend the Social Security (Loss of Benefit) Regulations 2001 [^c1313776] as follows.
+
+(2) In regulation 5 (meaning of “person in hardship”), in paragraph (1)—
+
+- (a) in sub-paragraph (c)—
+  - (i) for “a married or unmarried couple” substitute “ a couple ”;
+  - (ii) for paragraph (i) substitute the following paragraph—
+
+    > - (i) at least one member of the couple is a woman who is pregnant; and
+
+    ;
+- (b) in sub-paragraph (e), for “a married or unmarried couple” substitute “ a couple ”.
+
+(3) In regulation 11 (application of Part and meaning of “couple in hardship”), in paragraph (2), in sub-paragraph (a), for “the woman member of the joint-claim couple is pregnant” substitute “ at least one member of the joint-claim couple is a woman who is pregnant ”.
+
+### 35. State Pension Credit Regulations 2002
+
+(1) Amend the State Pension Credit Regulations 2002 [^c1313777] as follows.
+
+(2) In regulation 1 (citation, commencement and interpretation)—
+
+- (a) in paragraph (2)—
+  - (i) in the definition of “close relative”, for “or the spouse of any of the preceding persons or, if that person is one of an unmarried couple, the other member of that couple” substitute “ or if any of the preceding persons is one member of a couple, the other member of that couple ”;
+  - (ii) after the definition of “close relative” insert the following definition—
+
+    > “**couple**” means—
+    >
+    > - (a) a man and woman who are married to each other and are members of the same household;
+    > - (b) a man and woman who are not married to each other but are living together as husband and wife;
+    > - (c) two people of the same sex who are civil partners of each other and are members of the same household; or
+    > - (d) two people of the same sex who are not civil partners of each other but are living together as if they were civil partners,
+    >
+    > and for the purposes of paragraph (d), two people of the same sex are to be regarded as living together as if they were civil partners if, but only if, they would be regarded as living together as husband and wife were they instead two people of the opposite sex;;
+
+    ;
+- (b) in paragraph (3), for “a married or unmarried couple” substitute “ a couple ”.
+
+(3) In regulation 15 (income for the purposes of the Act), in paragraph (5)(d), for “or former spouse” (in each place) substitute “ , civil partner, former spouse or former civil partner ”.
+
+(4) In Schedule IV (amounts to be disregarded in the calculation of income other than earnings)—
+
+- (a) in paragraph 1(c) [^c1313778], for “widow or widower” substitute “ widow, widower or surviving civil partner ”;
+- (b) in paragraph 4 [^c1313779], for “widows or widowers” substitute “ widows, widowers or surviving civil partners ”;
+- (c) in paragraph 5 [^c1313780], for “widows or widowers” substitute “ widows, widowers or surviving civil partners ”;
+- (d) in paragraph 6, in sub-paragraph (1) [^c1313781]—
+  - (i) in paragraph (a), for “widow or widower” substitute “ widow, widower or surviving civil partner ”;
+  - (ii) in paragraph (b), for “widows or widowers” substitute “ widows, widowers or surviving civil partners ”;
+- (e) in paragraph 12, after “spouse” insert “ or civil partner ”.
+
+(5) In Schedule V (income from capital)—
+
+- (a) in paragraph 4(b), after “estranged or divorced” insert “ or with whom he had formed a civil partnership that has been dissolved ”;
+- (b) in paragraph 6(1), after “estrangement or divorce from” insert “ , or dissolution of his civil partnership with, ”;
+- (c) in paragraph 12, in sub-paragraphs (c) and (d) after “deceased spouse” insert “ or deceased civil partner ”;
+- (d) in paragraph 14, after “deceased spouse” (in each place) insert “ or deceased civil partner ”;
+- (e) in paragraph 15—
+  - (i) in sub-paragraph (2), after “estranged or divorced” insert “ or with whom he has formed a civil partnership that has not been dissolved or, where that person has died, had not been dissolved at the time of that person's death ”;
+  - (ii) in sub-paragraph (3), after “estranged or divorced” insert “ or, where the partner or former partner and that person have formed a civil partnership, the civil partnership has not been dissolved or, if either of them has died, had not been dissolved at the time of the death ”;
+  - (iii) in sub-paragraph (4)(a), after “estranged or divorced” insert “ or with whom he has formed a civil partnership that has not been dissolved ”;
+  - (iv) in sub-paragraph (5)(a), after “estranged or divorced” insert “ or with whom he had formed a civil partnership that had not been dissolved ”.
+
+(6) In Schedule VI (sums disregarded from claimant's earnings), in paragraph 4A(1)(b) [^c1313782], for “married or unmarried couples” substitute “ couples ”.
+
+### 36. Tax Credit (Appeals) (No. 2) Regulations 2002
+
+(1) Amend the Tax Credits (Appeals) (No. 2) Regulations 2002 [^c1313783] as follows.
+
+(2) In regulation 1 (citation, commencement, duration and interpretation), in paragraph (3)—
+
+- (a) after the definition of “clerk to the appeal tribunal” insert the following definition—
+
+  > “**couple**” means—
+  >
+  > - (a) a man and woman who are married to each other and are members of the same household;
+  > - (b) a man and woman who are not married to each other but are living together as husband and wife;
+  > - (c) two people of the same sex who are civil partners of each other and are members of the same household; or
+  > - (d) two people of the same sex who are not civil partners of each other but are living together as if they were civil partners,
+  >
+  > and for the purposes of paragraph (d), two people of the same sex are to be regarded as living together as if they were civil partners if, but only if, they would be regarded as living together as husband and wife were they instead two people of the opposite sex;;
+
+  ;
+- (b) in the definition of “partner”—
+  - (i) omit “, where a person is a member of a married or an unmarried couple,”;
+  - (ii) for “that” substitute “ a ”.
+
+(3)[^key-017f93aca2992a90f4f9e420e095b0a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 37. Social Security (Jobcentre Plus Interviews for Partners) Regulations 2003
+
+In regulation 2 of the Social Security (Jobcentre Plus Interviews for Partners) Regulations 2003 [^c1313784] (interpretation and application), in paragraph (1) after the definition of “claimant” insert the following definition—
+
+> “**couple**” means—
+>
+> - (a) a man and woman who are married to each other and are members of the same household;
+> - (b) a man and woman who are not married to each other but are living together as husband and wife;
+> - (c) two people of the same sex who are civil partners of each other and are members of the same household; or
+> - (d) two people of the same sex who are not civil partners of each other but are living together as if they were civil partners,
+>
+> and for the purposes of paragraph (d), two people of the same sex are to be regarded as living together as if they were civil partners if, but only if, they would be regarded as living together as husband and wife were they instead two people of the opposite sex;.
+
+.
+
+### 38. Social Security (Working Neighbourhoods) Regulations 2004
+
+In regulation 2 of the Social Security (Working Neighbourhoods) Regulations 2004 [^c1313785] (interpretation and application), in paragraph (1) after the definition of “benefit recipient” insert the following definition—
+
+> “**couple**” means—
+>
+> - (a) a man and woman who are married to each other and are members of the same household;
+> - (b) a man and woman who are not married to each other but are living together as husband and wife;
+> - (c) two people of the same sex who are civil partners of each other and are members of the same household; or
+> - (d) two people of the same sex who are not civil partners of each other but are living together as if they were civil partners,
+>
+> and for the purposes of paragraph (d), two people of the same sex are to be regarded as living together as if they were civil partners if, but only if, they would be regarded as living together as husband and wife were they instead two people of the opposite sex;.
+
+.
+
+## SCHEDULE 4 — Amendments of subordinate legislation relating to child support
+
+Article 2(4)
+
+### 1. Child Support (Information, Evidence and Disclosure) Regulations 1992
+
+In regulation 3 of the Child Support (Information, Evidence and Disclosure) Regulations 1992 [^c1313786] (purposes for which information or evidence may be required), in paragraphs (2)(b) [^c1313787] and (c), after “marital” insert “ or civil partnership ”.
+
+### 2. Child Support (Maintenance Assessments and Special Cases) Regulations 1992
+
+(1) Amend the Child Support (Maintenance Assessments and Special Cases) Regulations 1992 [^c1313788] as follows.
+
+(2) In regulation 1 (citation, commencement and interpretation), in paragraph (2)—
+
+- (a) for the definition of “couple” substitute the following definition—
+
+  > “**couple**” means—
+  >
+  > - (a) a man and woman who are married to each other and are members of the same household;
+  > - (b) a man and woman who are not married to each other but are living together as husband and wife;
+  > - (c) two people of the same sex who are civil partners of each other and are members of the same household; or
+  > - (d) two people of the same sex who are not civil partners of each other but are living together as if they were civil partners,
+  >
+  > and for the purposes of paragraph (d), two people of the same sex are to be regarded as living together as if they were civil partners if, but only if, they would be regarded as living together as husband and wife were they instead two people of the opposite sex;;
+
+  ;
+- (b) in the definition of “family” for “a married or unmarried couple” (in each place) substitute “ a couple ”;
+- (c) omit the definitions of “married couple” and “unmarried couple”;
+- (d) in the definition of “partner”, in paragraph (a) for “a married or unmarried couple” substitute “ a couple ”.
+
+(3) In regulation 18 (excessive housing costs), in paragraph (2)(b), after “divorce from,” insert “ dissolution of a civil partnership with, ”.
+
+(4) In Schedule 1 (calculation of N and M)—
+
+- (a) in paragraph 9A(2) [^c1313789], for “a war widow's pension and a war widower's pension” substitute “ a war widow's pension, a war widower's pension and a surviving civil partner's war pension ”;
+- (b) in paragraph 22(1B)(2) [^c1313790], for “a war widow's pension and a war widower's pension” substitute “ a war widow's pension, a war widower's pension and a surviving civil partner's war pension ”.
+
+(5) In Schedule 2 (amounts to be disregarded when calculating or estimating N and M)—
+
+- (a) in paragraph 45—
+  - (i) after “a divorce” insert “ , dissolution of a civil partnership ”;
+  - (ii) after “the divorce” in sub-paragraph (a) insert “ , dissolution of the civil partnership ”;
+- (b) in paragraph 48F [^c1313791], for “widows and widowers” (in each place) substitute “ widows, widowers and surviving civil partners ”.
+
+(6) In Schedule 3 (eligible housing costs), in paragraph 7, in the definition of “close relative”, for “or the spouse of any of the preceding persons or, if that person is one of an unmarried couple, the other member of that couple” substitute “ or if any of the preceding persons is one member of a couple, the other member of that couple ”.
+
+### 3. Child Support (Collection and Enforcement) Regulations 1992
+
+In regulation 8 of the Child Support (Collection and Enforcement) Regulations 1992 [^c1313792] (interpretation of this Part), in paragraph (5)(c)(ii), after “widow,” insert “ surviving civil partner, ”.
+
+### 4. Child Support (Maintenance Arrangements and Jurisdiction) Regulations 1992
+
+In regulation 3 of the Child Support (Maintenance Arrangements and Jurisdiction) Regulations 1992 [^c1313793] (relationship between maintenance assessments and certain court orders), in paragraph (1) [^c1313794] at the end add the following sub-paragraph—
+
+> - (x) Schedule 5, 6 or 7 to the Civil Partnership Act 2004.
+
+.
+
+### 5. Child Support (Collection and Enforcement of Other Forms of Maintenance) Regulations 1992
+
+In regulation 2 of the Child Support (Collection and Enforcement of Other Forms of Maintenance) Regulations 1992 [^c1313795] (periodical payments and categories of person prescribed for the purposes of section 30 of the Act), in paragraph (b) [^c1313796] for “or former spouse” substitute “ , civil partner, former spouse or former civil partner ”.
+
+### 6. Child Support Departure Direction and Consequential Amendments Regulations 1996
+
+(1) Amend the Child Support Departure Direction and Consequential Amendments Regulations 1996 [^c1313797] as follows.
+
+(2) In regulation 16 (debts incurred before the absent parent became an absent parent)—
+
+- (a) in paragraph (1) for “a married or unmarried couple” substitute “ a couple ”;
+- (b) for sub-paragraph (e) of paragraph (2) substitute the following sub-paragraph—
+
+  > - (e) unpaid legal costs in respect of—
+  >   - (i) separation or divorce from the non-applicant parent;
+  >   - (ii) separation from the non-applicant parent or the dissolution of a civil partnership that had been formed with the non-applicant parent;
+
+  ;
+- (c) in paragraph (5), in sub-paragraph (a) for “married or unmarried couple” substitute “ couple ”.
+
+### 7. Child Support (Maintenance Calculations and Special Cases) Regulations 2000
+
+(1) Amend the Child Support (Maintenance Calculations and Special Cases) Regulations 2000 [^c1313798] as follows.
+
+(2) In regulation 1 (citation, commencement and interpretation), in paragraph (2)—
+
+- (a) for the definition of “couple” substitute the following definition—
+
+  > “**couple**” means—
+  >
+  > - (a) a man and woman who are married to each other and are members of the same household;
+  > - (b) a man and woman who are not married to each other but are living together as husband and wife;
+  > - (c) two people of the same sex who are civil partners of each other and are members of the same household; or
+  > - (d) two people of the same sex who are not civil partners of each other but are living together as if they were civil partners,
+  >
+  > and for the purposes of sub-paragraph (d), two people of the same sex are to be regarded as living together as if they were civil partners if, but only if, they would be regarded as living together as husband and wife were they instead two people of the opposite sex;;
+
+  ;
+- (b) in the definition of “war widow's pension”[^c1313799], after “and “war widower's pension”” insert “ and “surviving civil partner's war pension” .
+
+(3) In regulation 4 (flat rate), in paragraph (1), for sub-paragraph (f) [^c1313800] substitute the following sub-paragraph—
+
+> - (f) a war widow's pension, war widower's pension or surviving civil partner's war pension;
+
+.
+
+### 8. Child Support (Variations) Regulations 2000
+
+In regulation 12 of the Child Support (Variations) Regulations 2000 [^c1313801] (special expenses – prior debts), for sub-paragraph (e) of paragraph (3) substitute the following sub-paragraph—
+
+> - (e) unpaid legal costs in respect of—
+>   - (i) separation or divorce from the person with care;
+>   - (ii) separation from the person with care or the dissolution of a civil partnership that had been formed with the person with care;
+
+.
+
+## SCHEDULE 5 — Transitory provisions relating to child support
+
+Article 2(5)
+
+### 1. Transitory provisions
+
+In this Schedule—
+
+- “**the Act**” means the Civil Partnership Act 2004 [^c1313802];
+- “**the 2000 Act**” means the Child Support, Pensions and Social Security Act 2000 [^c1313803];
+- “**the 1991 Act**” means the Child Support Act 1991 [^c1313804] before its amendment by the 2000 Act;
+- “**maintenance assessment**” has the same meaning as it has in the 1991 Act by virtue of section 54 of that Act as read with any regulations in force under that section;
+- “**an old scheme case**” means any type of case which is not one in relation to which 3rd March 2003 is the day appointed for the coming into force of Part I and section 85 (so far as it relates to Part 1 of Schedule 9) of, and Schedules 1, 2, 3 and Part 1 of Schedule 9 to, the 2000 Act in so far as they are not already in force in relation to that type of case.
+
+**2.** (1) This paragraph applies to an old scheme case, until the day on which Part I and section 85 (so far as it relates to Part 1 of Schedule 9) of, and Schedules 1, 2, 3 and Part 1 of Schedule 9 to, the 2000 Act in so far as they are not already in force in relation to that type of case come into force in relation to that type of case.
+
+(2) Where this paragraph applies, paragraph 49(7) to (11) of Schedule 5 to the Act (duration of continuing orders in favour of children, and age limit on making certain orders in their favour) shall apply as if—
+
+- (a) in sub-paragraph (7)(a), (9), (10) and (11), for “maintenance calculation” there were substituted “ maintenance assessment ” (in each place);
+- (b) in sub-paragraph (7)(a), (7)(b)(ii) and (8)(b), for “current calculation” there were substituted “ current assessment ”;
+- (c) in sub-paragraph (8)(b), for—
+  - (i) “maintenance calculations” there were substituted “ maintenance assessments ”;
+  - (ii) “those calculations” there were substituted “ those assessments ”;
+- (d) in sub-paragraph (9)—
+  - (i) in paragraph (a), after “ceases to have effect” there were inserted “ or is cancelled ”;
+  - (ii) in paragraph (b), after “ceased to have effect” there were inserted “ or was cancelled ”;
+  - (iii) after “ceased to have effect” the second time it occurs, there were inserted “ , or as the case may be, the date with effect from which it was cancelled ”;
+- (e) after sub-paragraph (10), there were inserted—
+
+  > (10A) Where the maintenance assessment was cancelled, the relevant date is the later of—
+  >
+  > - (a) the date on which the person who cancelled it did so; and
+  > - (b) the date from which the cancellation first had effect.
+
+  .
+
+(3) Where this paragraph applies, paragraph 62(1) to (5) of Schedule 5 to the Act (power to direct when variation etc. is to take effect) shall apply as if in—
+
+- (a) sub-paragraph (1)(c), (2)(a), (2)(c) and (5), for “maintenance calculation” there were substituted “ maintenance assessment ”;
+- (b) sub-paragraph (1), for “the calculation” there were substituted “ the assessment ” (in each place).
+
+(4) Where this paragraph applies, paragraph 27(7) to (11) of Schedule 6 to the Act (age limit on making orders for financial provision for children and duration of such orders) shall apply as if—
+
+- (a) in sub-paragraph (7)(a), (9), (10) and (11), for “maintenance calculation” there were substituted “ maintenance assessment ” (in each place);
+- (b) in sub-paragraph (7)(a), (7)(b)(ii) and (8)(b), for “current calculation” there were substituted “ current assessment ”;
+- (c) in sub-paragraph (8)(b), for—
+  - (i) “maintenance calculations” there were substituted “ maintenance assessments ”;
+  - (ii) “those calculations” there were substituted “ those assessments ”;
+- (d) in sub-paragraph (9)—
+  - (i) in paragraph (a), after “ceases to have effect” there were inserted “ or is cancelled ”;
+  - (ii) in paragraph (b), after “ceased to have effect” there were inserted “ or was cancelled ”;
+  - (iii) after “ceased to have effect” the second time it occurs, there were inserted “ , or as the case may be, the date with effect from which it was cancelled ”;
+- (e) after sub-paragraph (10), there were inserted—
+
+  > (10A) Where the maintenance assessment was cancelled, the relevant date is the later of—
+  >
+  > - (a) the date on which the person who cancelled it did so; and
+  > - (b) the date from which the cancellation first had effect.
+
+  .
+
+(5) Where this paragraph applies, paragraph 33(1) to (3) of Schedule 6 to the Act (power to specify when order as varied is to take effect) shall apply as if in—
+
+- (a) sub-paragraph (1)(c), (2)(a) and (2)(c), for “maintenance calculation” there were substituted “ maintenance assessment ”;
+- (b) sub-paragraph (1), for “the calculation” there were substituted “ the assessment ” (in each place).
+
+*(This note is not part of the Order)*
+
+This Order makes amendments to various provisions of subordinate legislation, and contains a transitional provision relating to housing benefit and council tax benefit and a transitory provision for child support in relation to cases for which the provisions of the Child Support, Pensions and Social Security Act 2000 (c. 19) are not yet in force. The amendments are consequential upon the Civil Partnership Act 2004 (“**the Act**”). The Act, the substantive provisions of which come into force on the same date as this Order, enables same-sex couples to form a civil partnership by registering as civil partners of each other. Certain overseas relationships registered abroad may be treated as the formation of a civil partnership.
+
+This Order provides that, in matters of pension sharing on divorce, occupational and personal pension schemes, social security, and child support, civil partners will be afforded the same rights and responsibilities as spouses. The Order also provides that, in certain cases, same sex couples living together as if they were civil partners (but who have not formed a civil partnership) are to be treated in the same way as unmarried couples who are living together as if they were husband and wife.
+
+In a substantial number of cases the amendments to social security subordinate legislation insert a new definition of “couple” to provide for four different categories of couple: married couples who are members of the same household; unmarried couples who are living together as husband and wife; same-sex couples who have formed a civil partnership and are members of the same household; and same-sex couples who are living together as if they were civil partners, and amend the definition of “partner” to mean the other member of a couple so defined. The amendments also provide for inclusion of surviving civil partners where there is a reference to widows or widowers, and extend the definition of “war widower's pension” to include war pensions paid to surviving civil partners.
+
+*Article 3* makes transitional provision for a claimant who is a member of a couple who live together as if they were civil partners on or after 5th December 2005 and is in receipt of an award of housing benefit or council tax benefit.
+
+*Schedule 1* makes consequential amendments to subordinate legislation relating to pension sharing on divorce. The Regulations amended are:
+
+- The Pensions on Divorce etc. (Provision of Information) Regulations 2000 (S.I. 2000/1048)
+- The Pensions on Divorce etc. (Charging) Regulations 2000 (S.I. 2000/1049)
+- The Pension Sharing (Valuation) Regulations 2000 (S.I. 2000/1052)
+- The Pension Sharing (Implementation and Discharge of Liability) Regulations 2000 (S.I. 2000/1053)
+- The Pension Sharing (Pension Credit Benefit) Regulations 2000 (S.I. 2000/1054)
+- The Pension Sharing (Safeguarded Rights) Regulations 2000 (S.I. 2000/1055)
+- The Sharing of State Scheme Rights (Provision of Information and Valuation) (No. 2) Regulations 2000 (S.I. 2000/2914)
+
+*Schedule 2* makes consequential amendments to subordinate legislation relating to occupational and personal pension schemes. The Regulations amended are:
+
+- The Personal Pension Schemes (Disclosure of Information) Regulations 1987 (S.I. 1987/1110)
+- The Occupational Pension Schemes (Preservation of Benefit) Regulations 1991 (S.I. 1991/167)
+- The Occupational Pension Schemes (Revaluation) Regulations 1991 (S.I. 1991/168)
+- The Occupational Pension Schemes (Internal Dispute Resolution Procedures) Regulations 1996 (S.I. 1996/1270)
+- The Occupational Pension Schemes (Disclosure of Information) Regulations 1996 (S.I. 1996/1655)
+- The Occupational Pension Schemes (Modification of Schemes) Regulations 1996 (S.I. 1996/2517)
+- The Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations 1997 (S.I. 1997/785)
+- The Stakeholder Pension Schemes Regulations 2000 (S.I. 2000/1403)
+- The Occupational and Personal Pension Schemes (Bankruptcy) (No. 2) Regulations 2002 (S.I. 2002/836)
+
+*Schedule 3* makes consequential amendments to subordinate legislation relating to social security. The subordinate legislation amended is:
+
+- The Social Security (Benefit) (Married Women and Widows Special Provisions) Regulations 1974 (SI 1974/2010)
+- The Social Security (Employed Earners' Employments for Industrial Injuries Purposes) Regulations 1975 (S.I. 1975/467)
+- The Social Security (Hospital In-Patients) Regulations 1975 (S.I. 1975/555)
+- The Social Security (Credits) Regulations 1975 (S.I. 1975/556)
+- The Social Security Benefit (Persons Abroad) Regulations 1975 (S.I. 1975/563)
+- The Social Security (Invalid Care Allowance) Regulations 1976 (S.I. 1976/409)
+- The Social Security Benefit (Dependency) Regulations 1977 (S.I. 1977/343)
+- The Social Security Benefit (Persons Residing Together) Regulations 1977 (S.I. 1977/956)
+- The Social Security (Overlapping Benefits) Regulations 1979 (S.I. 1979/597)
+- The Social Security (Widow's Benefit and Retirement Pensions) Regulations 1979 (S.I. 1979/642)
+- The Social Security (Widow's Benefit, Retirement Pensions and Other Benefits) (Transitional) Regulations 1979 (S.I. 1979/643)
+- The Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefits Scheme 1983 (S.I. 1983/136)
+- The Income Support (General) Regulations 1987 (S.I. 1987/1967)
+- The Social Security (Claims and Payments) Regulations 1987 (S.I. 1987/1968)
+- The Housing Benefit (General) Regulations 1987 (S.I. 1987/1971) and those Regulations as modified for persons who have attained the qualifying age for state pension credit by the Housing Benefit and Council Tax Benefit (State Pension Credit) Regulations 2003 (S.I. 2003/325)
+- The Housing Benefit (Supply of Information) Regulations 1988 (S.I. 1988/662)
+- The Social Security (Payments on account, Overpayments and Recovery) Regulations 1988 (S.I. 1988/664)
+- The Social Security (Attendance Allowance) Regulations 1991 (S.I. 1991/2740)
+- The Social Security (Disability Living Allowance) Regulations 1991 (S.I. 1991/2890)
+- The Council Tax Benefit (General) Regulations 1992 (S.I. 1992/1814) and those Regulations as modified for persons who have attained the qualifying age for state pension credit by the Housing Benefit and Council Tax Benefit (State Pension Credit) Regulations 2003 (S.I. 2003/325)
+- The Social Security (Incapacity Benefit – Increases for Dependants) Regulations 1994 (S.I. 1994/2945)
+- The Social Security (Incapacity Benefit) Regulations 1994 (S.I. 1994/2946)
+- The Social Security (Incapacity for Work) (General) Regulations 1995 (S.I. 1995/311)
+- The Jobseeker's Allowance Regulations 1996 (S.I. 1996/207)
+- The Social Security Benefits (Maintenance Payments and Consequential Amendments) Regulations 1996 (S.I. 1996/940)
+- The Social Security (Child Maintenance Bonus) Regulations 1996 (S.I. 1996/3195)
+- The Rent Officers (Housing Benefit Functions) Order 1997 (S.I. 1997/1984)
+- The Rent Officers (Housing Benefit Functions) (Scotland) Order 1997 (S.I. 1997/1995)
+- The Social Security (Claims and Information) Regulations 1999 (S.I. 1999/3108)
+- The Social Fund Winter Fuel Payment Regulations 2000 (S.I. 2000/729)
+- The Social Security (Breach of Community Order) Regulations 2001 (S.I. 2001/1395)
+- The Social Security (Loss of Benefit) Regulations 2001 (S.I. 2001/4022)
+- The State Pension Credit Regulations 2002 (S.I. 2002/1792)
+- The Tax Credit (Appeals) (No. 2) Regulations 2002 (S.I. 2002/3196)
+- The Social Security (Jobcentre Plus Interviews for Partners) Regulations 2003 (S.I. 2003/1886)
+- The Social Security (Working Neighbourhoods) Regulations 2004 (S.I. 2004/959)
+
+*Schedule 4* makes consequential amendments to subordinate legislation relating to child support. The Regulations amended are:
+
+- The Child Support (Information, Evidence and Disclosure) Regulations 1992 (S.I. 1992/1812)
+- The Child Support (Maintenance Assessments and Special Cases) Regulations 1992 (S.I. 1992/1815)
+- The Child Support (Collection and Enforcement) Regulations 1992 (S.I. 1992/1989)
+- The Child Support (Maintenance Arrangements and Jurisdiction) Regulations 1992 (S.I. 1992/2645)
+- The Child Support (Collection and Enforcement of Other Forms of Maintenance) Regulations 1992 (S.I. 1992/2643)
+- The Child Support Departure Direction and Consequential Amendments Regulations 1996 (S.I. 1996/2907)
+- The Child Support (Maintenance Calculations and Special Cases) Regulations 2000 (S.I. 2001/155)
+- The Child Support (Variations) Regulations 2000 (S.I. 2001/156)
+
+*Schedule 5* makes transitory provision in relation to those child support cases for which the Child Support, Pensions and Social Security Act 2000 (“**the 2000 Act**”) has not been commenced (“an old scheme case”) until such time as that Act is commenced for those cases in so far as it is not already in force. It provides that specified paragraphs in Schedules 5 and 6 to the Civil Partnership Act 2004 relating to financial relief in the High Court and a county court in the case of Schedule 5 and in the magistrates' courts in the case of Schedule 6 shall apply to an old scheme case as if the prescribed substitutions and insertions were made.
+
+A regulatory impact assessment has not been prepared for this Order as it has no impact on the costs of business, charities, voluntary bodies or any public bodies distinct from that of the Act itself. A full regulatory impact assessment for civil partnership was published alongside the Act and can be viewed at http://www.dti.gov.uk/access/ria/index.htm#equality.
+
+## Annotations
+
+[^c1313593]: Marginal citation: Subsection (3) of section 254 applies in accordance with subsection (2); and subsection (4) applies section 175(3), (5) and (6) of the [Social Security Contributions and Benefits Act 1992 (c. 4)](https://www.legislation.gov.uk/ukpga/1992/4), disregarding the exceptions in subsections (3) and (5), to the exercise of the power under section 259 of the [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^c1313594]: Marginal citation: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^c1313595]: Marginal citation: Paragraph (2) was amended by [S.I. 2003/325](https://www.legislation.gov.uk/uksi/2003/325).
+
+[^c1313596]: Marginal citation: Paragraph (10) was inserted by [S.I. 2003/1050](https://www.legislation.gov.uk/uksi/2003/1050).
+
+[^c1313597]: Marginal citation: [S.I. 1987/1971](https://www.legislation.gov.uk/uksi/1987/1971).
+
+[^c1313598]: Marginal citation: [S.I. 2001/1002](https://www.legislation.gov.uk/uksi/2001/1002).
+
+[^c1313599]: Marginal citation: [2002 c. 16](https://www.legislation.gov.uk/ukpga/2002/16).
+
+[^c1313600]: Marginal citation: [S.I. 2000/1048](https://www.legislation.gov.uk/uksi/2000/1048).
+
+[^c1313601]: Marginal citation: Sub-paragraphs (ia) and (iv) were inserted by paragraph 157(2) and (4) of Schedule 27 to the [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^c1313602]: Marginal citation: [S.I. 2000/1049](https://www.legislation.gov.uk/uksi/2000/1049).
+
+[^c1313603]: Marginal citation: Paragraph (8) was substituted by [S.I. 2000/2691](https://www.legislation.gov.uk/uksi/2000/2691).
+
+[^c1313604]: Marginal citation: [S.I. 2000/1052](https://www.legislation.gov.uk/uksi/2000/1052).
+
+[^c1313605]: Marginal citation: [S.I. 2000/1053](https://www.legislation.gov.uk/uksi/2000/1053).
+
+[^c1313606]: Marginal citation: [S.I. 2000/1054](https://www.legislation.gov.uk/uksi/2000/1054).
+
+[^c1313607]: Marginal citation: [S.I. 2000/1055](https://www.legislation.gov.uk/uksi/2000/1055).
+
+[^c1313608]: Marginal citation: [S.I. 2000/2914](https://www.legislation.gov.uk/uksi/2000/2914).
+
+[^c1313609]: Marginal citation: [S.I. 1987/1110](https://www.legislation.gov.uk/uksi/1987/1110).
+
+[^c1313610]: Marginal citation: [Paragraph 2A](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/2A) was inserted by [S.I. 2002/1383](https://www.legislation.gov.uk/uksi/2002/1383).
+
+[^c1313611]: Marginal citation: [S.I. 1991/167](https://www.legislation.gov.uk/uksi/1991/167).
+
+[^c1313612]: Marginal citation: [S.I. 1991/168](https://www.legislation.gov.uk/uksi/1991/168); [regulation 8](https://www.legislation.gov.uk/uksi/2005/2877/regulation/8) was amended by [S.I. 1994/1062](https://www.legislation.gov.uk/uksi/1994/1062).
+
+[^c1313613]: Marginal citation: [S.I. 1996/1270](https://www.legislation.gov.uk/uksi/1996/1270).
+
+[^c1313614]: Marginal citation: [S.I. 1996/1655](https://www.legislation.gov.uk/uksi/1996/1655).
+
+[^c1313615]: Marginal citation: [Paragraph 6ZA](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/6ZA) was inserted by [S.I. 2002/1383](https://www.legislation.gov.uk/uksi/2002/1383).
+
+[^key-90c567101b783ee3493b00b42d786f2b]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2005/2877/schedule/2/paragraph/6) revoked (6.4.2006) by [Occupational Pension Schemes (Modification of Schemes) Regulations 2006 (S.I. 2006/759)](https://www.legislation.gov.uk/uksi/2006/759), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/759/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2006/759/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2006/759/schedule)
+
+[^c1313617]: Marginal citation: [S.I. 1997/785](https://www.legislation.gov.uk/uksi/1997/785).
+
+[^c1313618]: Marginal citation: [S.I. 2000/1403](https://www.legislation.gov.uk/uksi/2000/1403).
+
+[^c1313619]: Marginal citation: Paragraphs (5E) and (5F) were inserted by [S.I. 2002/1383](https://www.legislation.gov.uk/uksi/2002/1383).
+
+[^c1313620]: Marginal citation: [S.I. 2002/836](https://www.legislation.gov.uk/uksi/2002/836).
+
+[^c1313621]: Marginal citation: [S.I. 1974/2010](https://www.legislation.gov.uk/uksi/1974/2010).
+
+[^c1313622]: Marginal citation: The reference to unemployment benefit in the heading to regulation 3 became obsolete as from 7th October 1996 when all references to that benefit were deleted from the regulation, and the heading was amended by [S.I. 1995/829](https://www.legislation.gov.uk/uksi/1995/829).
+
+[^c1313623]: Marginal citation: Paragraph (1) was amended by [S.I. 1978/508](https://www.legislation.gov.uk/uksi/1978/508), [S.I](https://www.legislation.gov.uk/uksi/1978/508/section/I). 1995/829 and [S.I. 1996/1345](https://www.legislation.gov.uk/uksi/1996/1345).
+
+[^c1313624]: Marginal citation: [S.I. 1975/467](https://www.legislation.gov.uk/uksi/1975/467).
+
+[^key-d88c924021d1991724d8c708997f16c5]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/3) revoked (10.4.2006 for specified purposes) by [Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
+
+[^c1313632]: Marginal citation: [S.I. 1975/556](https://www.legislation.gov.uk/uksi/1975/556).
+
+[^c1313633]: Marginal citation: [Regulation 7A](https://www.legislation.gov.uk/uksi/2005/2877/regulation/7A) was inserted by [S.I. 1976/409](https://www.legislation.gov.uk/uksi/1976/409), and paragraph (1) was amended by [S.I. 1987/414](https://www.legislation.gov.uk/uksi/1987/414), [S.I](https://www.legislation.gov.uk/uksi/1987/414/section/I). 1988/1545, [S.I. 2000/1483](https://www.legislation.gov.uk/uksi/2000/1483), [S.I](https://www.legislation.gov.uk/uksi/2000/1483/section/I). 2002/490 and [S.I. 2002/2497](https://www.legislation.gov.uk/uksi/2002/2497).
+
+[^c1313634]: Marginal citation: [Regulation 7C](https://www.legislation.gov.uk/uksi/2005/2877/regulation/7C) was inserted by [S.I. 1995/2558](https://www.legislation.gov.uk/uksi/1995/2558), and amended by [S.I. 1996/2367](https://www.legislation.gov.uk/uksi/1996/2367), [S.I](https://www.legislation.gov.uk/uksi/1996/2367/section/I). 2000/1483 and [S.I. 2003/455](https://www.legislation.gov.uk/uksi/2003/455).
+
+[^c1313635]: Marginal citation: [Paragraph 46](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/46) of Schedule 24 to the [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) inserts a definition of “couple” into Part 7 of the [Social Security Contributions and Benefits Act 1992 (c. 4)](https://www.legislation.gov.uk/ukpga/1992/4) and removes the definitions of “married couple” and “unmarried couple”.
+
+[^c1313636]: Marginal citation: [Regulation 8C](https://www.legislation.gov.uk/uksi/2005/2877/regulation/8C) was inserted by [S.I. 2000/1483](https://www.legislation.gov.uk/uksi/2000/1483).
+
+[^c1313637]: Marginal citation: [S.I. 1975/563](https://www.legislation.gov.uk/uksi/1975/563).
+
+[^c1313638]: Marginal citation: The heading to regulation 2 was substituted by [S.I. 1994/268](https://www.legislation.gov.uk/uksi/1994/268) and amended by [S.I. 1995/829](https://www.legislation.gov.uk/uksi/1995/829).
+
+[^c1313639]: Marginal citation: Paragraph (5) was inserted by [S.I. 1994/268](https://www.legislation.gov.uk/uksi/1994/268) and amended by [S.I. 1995/829](https://www.legislation.gov.uk/uksi/1995/829).
+
+[^c1313640]: Marginal citation: The heading to regulation 4 was amended by [S.I. 2000/2876](https://www.legislation.gov.uk/uksi/2000/2876).
+
+[^c1313641]: Marginal citation: Paragraph (2B) was inserted by [S.I. 2000/2876](https://www.legislation.gov.uk/uksi/2000/2876), and sub-paragraph (a) was substituted by [S.I. 2001/2618](https://www.legislation.gov.uk/uksi/2001/2618).
+
+[^c1313642]: Marginal citation: Paragraph (4) was inserted by [S.I. 1979/1432](https://www.legislation.gov.uk/uksi/1979/1432).
+
+[^c1313643]: Marginal citation: Sub-paragraph (b) was substituted by [S.I. 1979/1432](https://www.legislation.gov.uk/uksi/1979/1432).
+
+[^c1313644]: Marginal citation: Sub-paragraph (d) was amended by [S.I. 1989/1642](https://www.legislation.gov.uk/uksi/1989/1642) and [S.I. 2000/2876](https://www.legislation.gov.uk/uksi/2000/2876).
+
+[^c1313645]: Marginal citation: Paragraph (6) was substituted by [S.I. 1979/1432](https://www.legislation.gov.uk/uksi/1979/1432) and amended by [S.I. 1989/1642](https://www.legislation.gov.uk/uksi/1989/1642) and [S.I. 1994/1832](https://www.legislation.gov.uk/uksi/1994/1832).
+
+[^c1313646]: Marginal citation: Paragraph (7) was substituted by [S.I. 1979/1432](https://www.legislation.gov.uk/uksi/1979/1432) and amended by [S.I. 1989/1642](https://www.legislation.gov.uk/uksi/1989/1642).
+
+[^c1313647]: Marginal citation: [S.I. 1976/409](https://www.legislation.gov.uk/uksi/1976/409).
+
+[^c1313648]: Marginal citation: Paragraph (3) was substituted by [S.I. 1977/342](https://www.legislation.gov.uk/uksi/1977/342).
+
+[^c1313649]: Marginal citation: [S.I. 1977/343](https://www.legislation.gov.uk/uksi/1977/343).
+
+[^c1313650]: Marginal citation: The heading to regulation 3 was amended by [S.I. 1983/1001](https://www.legislation.gov.uk/uksi/1983/1001) and [S.I. 2003/937](https://www.legislation.gov.uk/uksi/2003/937).
+
+[^c1313651]: Marginal citation: Paragraph (1) was amended by [S.I. 1983/1001](https://www.legislation.gov.uk/uksi/1983/1001), [S.I](https://www.legislation.gov.uk/uksi/1983/1001/section/I). 1984/1699, [S.I. 1985/1305](https://www.legislation.gov.uk/uksi/1985/1305), [S.I](https://www.legislation.gov.uk/uksi/1985/1305/section/I). 1994/2945, [S.I. 1996/1345](https://www.legislation.gov.uk/uksi/1996/1345) and [S.I. 2003/937](https://www.legislation.gov.uk/uksi/2003/937).
+
+[^c1313652]: Marginal citation: Paragraph (2) was amended by [S.I. 1983/1001](https://www.legislation.gov.uk/uksi/1983/1001).
+
+[^c1313653]: Marginal citation: Regulation 4A was inserted by [S.I. 1980/585](https://www.legislation.gov.uk/uksi/1980/585).
+
+[^c1313654]: Marginal citation: Paragraph (1) was amended by [S.I. 1989/523](https://www.legislation.gov.uk/uksi/1989/523) and [S.I. 2003/937](https://www.legislation.gov.uk/uksi/2003/937).
+
+[^c1313655]: Marginal citation: Paragraph (4) was amended by [S.I. 1984/1698](https://www.legislation.gov.uk/uksi/1984/1698).
+
+[^c1313656]: Marginal citation: Paragraph (5) was inserted by [S.I. 1977/620](https://www.legislation.gov.uk/uksi/1977/620).
+
+[^c1313657]: Marginal citation: Regulation 8 was substituted by [S.I. 1992/3041](https://www.legislation.gov.uk/uksi/1992/3041).
+
+[^c1313658]: Marginal citation: Paragraph (1) was amended by [S.I. 1983/1001](https://www.legislation.gov.uk/uksi/1983/1001), [S.I](https://www.legislation.gov.uk/uksi/1983/1001/section/I). 1984/1698, [S.I. 1989/1642](https://www.legislation.gov.uk/uksi/1989/1642), [S.I](https://www.legislation.gov.uk/uksi/1989/1642/section/I). 1994/2945 and [S.I. 1996/1345](https://www.legislation.gov.uk/uksi/1996/1345).
+
+[^c1313659]: Marginal citation: The title of Schedule 2 was amended by [S.I. 2002/2497](https://www.legislation.gov.uk/uksi/2002/2497).
+
+[^c1313660]: Marginal citation: Paragraph 2A was inserted by [S.I. 1984/1699](https://www.legislation.gov.uk/uksi/1984/1699).
+
+[^c1313661]: Marginal citation: Paragraph 2C was inserted by [S.I. 1984/1699](https://www.legislation.gov.uk/uksi/1984/1699) and amended by [S.I. 1996/2745](https://www.legislation.gov.uk/uksi/1996/2745).
+
+[^c1313662]: Marginal citation: Sub-paragraph (a) was substituted retrospectively by section 37(2) of the [Social Security Act 1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50) from 22nd December 1984 and substituted by [S.I. 1988/554](https://www.legislation.gov.uk/uksi/1988/554). Paragraph 7 was amended by [S.I. 2002/2497](https://www.legislation.gov.uk/uksi/2002/2497).
+
+[^c1313663]: Marginal citation: [S.I. 1977/956](https://www.legislation.gov.uk/uksi/1977/956).
+
+[^c1313664]: Marginal citation: Paragraph (2) was amended by [S.I. 1983/186](https://www.legislation.gov.uk/uksi/1983/186), [S.I](https://www.legislation.gov.uk/uksi/1983/186/section/I).1984/1303, [S.I. 1995/829](https://www.legislation.gov.uk/uksi/1995/829) and [S.I.1996/1345](https://www.legislation.gov.uk/uksi/1996/1345).
+
+[^c1313665]: Marginal citation: [S.I. 1979/597](https://www.legislation.gov.uk/uksi/1979/597).
+
+[^c1313666]: Marginal citation: Paragraph (5) was amended by [S.I. 1995/829](https://www.legislation.gov.uk/uksi/1995/829) and by section 18(1) of the [Social Security Act 1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50).
+
+[^c1313667]: Marginal citation: [Paragraph 4](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/4) was amended by [S.I. 1983/186](https://www.legislation.gov.uk/uksi/1983/186), [S.I](https://www.legislation.gov.uk/uksi/1983/186/section/I). 1984/1303, [S.I. 1995/829](https://www.legislation.gov.uk/uksi/1995/829) and [S.I. 2002/2497](https://www.legislation.gov.uk/uksi/2002/2497).
+
+[^c1313668]: Marginal citation: [S.I. 1979/642](https://www.legislation.gov.uk/uksi/1979/642).
+
+[^c1313669]: Marginal citation: [Regulation 7A](https://www.legislation.gov.uk/uksi/2005/2877/regulation/7A) was inserted by [S.I. 2000/1483](https://www.legislation.gov.uk/uksi/2000/1483).
+
+[^c1313670]: Marginal citation: Sub-paragraph (b) was substituted by [S.I. 2000/1483](https://www.legislation.gov.uk/uksi/2000/1483).
+
+[^c1313671]: Marginal citation: [Regulation 16ZA](https://www.legislation.gov.uk/uksi/2005/2877/regulation/16ZA) was inserted by [S.I. 2001/1235](https://www.legislation.gov.uk/uksi/2001/1235).
+
+[^c1313672]: Marginal citation: [S.I. 1979/643](https://www.legislation.gov.uk/uksi/1979/643).
+
+[^c1313673]: Marginal citation: [Regulation 12](https://www.legislation.gov.uk/uksi/2005/2877/regulation/12) was amended by [S.I. 1989/1642](https://www.legislation.gov.uk/uksi/1989/1642).
+
+[^c1313674]: Marginal citation: [S.I. 1983/136](https://www.legislation.gov.uk/uksi/1983/136).
+
+[^c1313675]: Marginal citation: The heading to article 5 was amended by [S.I. 1987/400](https://www.legislation.gov.uk/uksi/1987/400), and the article amended by [S.I. 1983/504](https://www.legislation.gov.uk/uksi/1983/504) and [S.I. 1987/400](https://www.legislation.gov.uk/uksi/1987/400).
+
+[^c1313676]: Marginal citation: The heading to Schedule 2 and Schedule 2 were amended by [S.I. 1987/400](https://www.legislation.gov.uk/uksi/1987/400).
+
+[^c1313677]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
+
+[^c1313678]: Marginal citation: The definition of “war widower's pension” was inserted by [S.I. 2002/841](https://www.legislation.gov.uk/uksi/2002/841).
+
+[^c1313679]: Marginal citation: The definition of “partner of a person subject to immigration control” was inserted by [S.I. 2000/636](https://www.legislation.gov.uk/uksi/2000/636).
+
+[^c1313680]: Marginal citation: The definition of “payment” was amended by [S.I. 1988/663](https://www.legislation.gov.uk/uksi/1988/663) and [S.I. 2003/455](https://www.legislation.gov.uk/uksi/2003/455).
+
+[^c1313681]: Marginal citation: The definition of “contribution” was substituted by [S.I. 1996/1944](https://www.legislation.gov.uk/uksi/1996/1944), and amended by [S.I. 1998/563](https://www.legislation.gov.uk/uksi/1998/563), [S.I](https://www.legislation.gov.uk/uksi/1998/563/section/I). 1999/1935 and [S.I. 2001/2319](https://www.legislation.gov.uk/uksi/2001/2319).
+
+[^c1313682]: Marginal citation: [Schedule 1B](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1B) was inserted by [S.I. 1996/206](https://www.legislation.gov.uk/uksi/1996/206).
+
+[^c1313683]: Marginal citation: [Paragraph 16A](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/16A) was inserted by S.I .2000/2239 for the period from 9th April 2001 to 9th April 2006 only.
+
+[^c1313684]: Marginal citation: [Paragraph 8A](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/8A) was inserted by [S.I. 2000/2239](https://www.legislation.gov.uk/uksi/2000/2239) for the period from 9th April 2001 to 9th April 2006 only.
+
+[^c1313685]: Marginal citation: [Paragraph 16](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/16) was substituted by [S.I. 1995/2792](https://www.legislation.gov.uk/uksi/1995/2792), and sub-paragraph (c) was amended by [S.I. 1995/3282](https://www.legislation.gov.uk/uksi/1995/3282) and [S.I. 2002/841](https://www.legislation.gov.uk/uksi/2002/841).
+
+[^c1313686]: Marginal citation: [Paragraph 39](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/39) was substituted by [S.I. 1991/1175](https://www.legislation.gov.uk/uksi/1991/1175) and amended by [S.I. 1992/1101](https://www.legislation.gov.uk/uksi/1992/1101), [S.I](https://www.legislation.gov.uk/uksi/1992/1101/section/I). 1993/963 and [S.I. 2000/1981](https://www.legislation.gov.uk/uksi/2000/1981).
+
+[^c1313687]: Marginal citation: [Paragraph 54](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/54) was inserted by [S.I. 1994/2139](https://www.legislation.gov.uk/uksi/1994/2139) and amended by [S.I. 2002/841](https://www.legislation.gov.uk/uksi/2002/841).
+
+[^c1313688]: Marginal citation: [Paragraph 55](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/55) was inserted by [S.I. 1994/2139](https://www.legislation.gov.uk/uksi/1994/2139) and amended by [S.I. 2002/841](https://www.legislation.gov.uk/uksi/2002/841).
+
+[^c1313689]: Marginal citation: [Paragraph 56](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/56) was inserted by [S.I. 1994/2139](https://www.legislation.gov.uk/uksi/1994/2139) and paragraph 56(1)(a) was amended by [S.I. 2002/841](https://www.legislation.gov.uk/uksi/2002/841).
+
+[^c1313690]: Marginal citation: [Paragraph 4(b)](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/4/b) was amended by [S.I. 1988/910](https://www.legislation.gov.uk/uksi/1988/910).
+
+[^c1313691]: Marginal citation: [Paragraph 22](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/22) was substituted by [S.I. 1991/1175](https://www.legislation.gov.uk/uksi/1991/1175) and amended by [S.I. 1992/1101](https://www.legislation.gov.uk/uksi/1992/1101), [S.I](https://www.legislation.gov.uk/uksi/1992/1101/section/I). 1993/1249, [S.I. 2000/1981](https://www.legislation.gov.uk/uksi/2000/1981) and [S.I. 2004/1141](https://www.legislation.gov.uk/uksi/2004/1141).
+
+[^c1313692]: Marginal citation: [Paragraph 25](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/25) was inserted by [S.I. 1988/910](https://www.legislation.gov.uk/uksi/1988/910) and amended by [S.I. 2003/511](https://www.legislation.gov.uk/uksi/2003/511).
+
+[^c1313693]: Marginal citation: [Paragraph 61](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/61) was inserted by [S.I. 2001/22](https://www.legislation.gov.uk/uksi/2001/22).
+
+[^c1313694]: Marginal citation: [Paragraph 65](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/65) was inserted by [S.I. 2001/3481](https://www.legislation.gov.uk/uksi/2001/3481).
+
+[^c1313695]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
+
+[^c1313696]: Marginal citation: Paragraph (3) was amended by [S.I. 1996/2431](https://www.legislation.gov.uk/uksi/1996/2431).
+
+[^c1313697]: Marginal citation: Paragraph (3B) was inserted by [S.I. 1996/1460](https://www.legislation.gov.uk/uksi/1996/1460) and amended by [S.I. 2000/1982](https://www.legislation.gov.uk/uksi/2000/1982).
+
+[^c1313698]: Marginal citation: Paragraph (3C) was inserted by [S.I. 1986/2431](https://www.legislation.gov.uk/uksi/1986/2431) and amended by [S.I. 2000/636](https://www.legislation.gov.uk/uksi/2000/636).
+
+[^c1313699]: Marginal citation: [Regulation 4D](https://www.legislation.gov.uk/uksi/2005/2877/regulation/4D) was inserted by [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019).
+
+[^c1313700]: Marginal citation: Paragraph (31) was inserted by [S.I. 2004/2283](https://www.legislation.gov.uk/uksi/2004/2283).
+
+[^c1313701]: Marginal citation: Paragraph (6) was substituted by [S.I. 1989/1642](https://www.legislation.gov.uk/uksi/1989/1642).
+
+[^c1313702]: Marginal citation: Paragraph (1A) was substituted by [S.I. 1996/1460](https://www.legislation.gov.uk/uksi/1996/1460).
+
+[^c1313703]: Marginal citation: [Regulation 36](https://www.legislation.gov.uk/uksi/2005/2877/regulation/36) was renumbered as regulation 36(1) and paragraph (2) was inserted by [S.I. 2002/2660](https://www.legislation.gov.uk/uksi/2002/2660).
+
+[^key-74e577b7f085dece8d155da2bda3315d]: Textual amendment: [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/16) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [Instrument](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^key-c5d00a94ffc371f8ab46826fe5935d7e]: Textual amendment: [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/17) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^c1313724]: Marginal citation: [S.I. 1988/664](https://www.legislation.gov.uk/uksi/1988/664).
+
+[^c1313725]: Marginal citation: [Regulation 17](https://www.legislation.gov.uk/uksi/2005/2877/regulation/17) has been amended by [S.I. 2003/492](https://www.legislation.gov.uk/uksi/2003/492), [S.I](https://www.legislation.gov.uk/uksi/2003/492/section/I). 1996/1345, [S.I. 1996/2571](https://www.legislation.gov.uk/uksi/1996/2571) and [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019).
+
+[^c1313726]: Marginal citation: [S.I. 1991/2740](https://www.legislation.gov.uk/uksi/1991/2740).
+
+[^c1313727]: Marginal citation: [S.I. 1991/2890](https://www.legislation.gov.uk/uksi/1991/2890).
+
+[^key-8de0387379afebe43b4b0059db4fbd33]: Textual amendment: [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/22) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^c1313743]: Marginal citation: [S.I. 1994/2945](https://www.legislation.gov.uk/uksi/1994/2945).
+
+[^c1313744]: Marginal citation: [Regulation 3](https://www.legislation.gov.uk/uksi/2005/2877/regulation/3) was substituted by [S.I. 2003/937](https://www.legislation.gov.uk/uksi/2003/937).
+
+[^c1313745]: Marginal citation: Paragraph (1) was amended by [S.I. 2003/937](https://www.legislation.gov.uk/uksi/2003/937).
+
+[^c1313746]: Marginal citation: [S.I. 1994/2946](https://www.legislation.gov.uk/uksi/1994/2946).
+
+[^c1313747]: Marginal citation: [Regulation 16](https://www.legislation.gov.uk/uksi/2005/2877/regulation/16) was inserted by [S.I. 2000/3120](https://www.legislation.gov.uk/uksi/2000/3120).
+
+[^c1313748]: Marginal citation: [S.I. 1995/311](https://www.legislation.gov.uk/uksi/1995/311).
+
+[^c1313749]: Marginal citation: The definition of “relative” was inserted by [S.I. 1996/3207](https://www.legislation.gov.uk/uksi/1996/3207).
+
+[^c1313750]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
+
+[^c1313751]: Marginal citation: The definition of “close relative” was amended by [S.I. 1996/2538](https://www.legislation.gov.uk/uksi/1996/2538).
+
+[^c1313752]: Marginal citation: The definition of “war widower's pension” was inserted by [S.I. 2002/841](https://www.legislation.gov.uk/uksi/2002/841).
+
+[^c1313753]: Marginal citation: The definition of “close relative” was amended by [S.I. 1996/2538](https://www.legislation.gov.uk/uksi/1996/2538).
+
+[^c1313754]: Marginal citation: The definition of “partner of a person subject to immigration control” was inserted by [S.I. 2000/636](https://www.legislation.gov.uk/uksi/2000/636).
+
+[^c1313755]: Marginal citation: The definition of “contribution” was amended by [S.I. 1998/563](https://www.legislation.gov.uk/uksi/1998/563), [S.I](https://www.legislation.gov.uk/uksi/1998/563/section/I). 1999/1935 and [S.I. 2001/2319](https://www.legislation.gov.uk/uksi/2001/2319).
+
+[^c1313756]: Marginal citation: Paragraph (1) was amended by [S.I. 1996/1516](https://www.legislation.gov.uk/uksi/1996/1516), [S.I](https://www.legislation.gov.uk/uksi/1996/1516/section/I). 1999/2860, [S.I. 2000/239](https://www.legislation.gov.uk/uksi/2000/239) and [S.I. 2000/1978](https://www.legislation.gov.uk/uksi/2000/1978).
+
+[^c1313757]: Marginal citation: [Regulation 146A](https://www.legislation.gov.uk/uksi/2005/2877/regulation/146A) was inserted by [S.I. 2000/1978](https://www.legislation.gov.uk/uksi/2000/1978).
+
+[^c1313758]: Marginal citation: Sub-paragraph (3)(a)(iv) and (iva) was inserted by [S.I. 1996/1516](https://www.legislation.gov.uk/uksi/1996/1516).
+
+[^c1313759]: Marginal citation: [Paragraph 9A](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/9A) was inserted by [S.I. 2000/2239](https://www.legislation.gov.uk/uksi/2000/2239) for the period 9th April 2001 to 9th April 2006 only.
+
+[^c1313760]: Marginal citation: [Paragraph 53](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/53) was amended by [S.I. 2002/841](https://www.legislation.gov.uk/uksi/2002/841).
+
+[^c1313761]: Marginal citation: [Paragraph 54](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/54) was amended by [S.I. 2002/841](https://www.legislation.gov.uk/uksi/2002/841).
+
+[^c1313762]: Marginal citation: [Paragraph 55(1)](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/55/1) was amended by [S.I. 2002/841](https://www.legislation.gov.uk/uksi/2002/841).
+
+[^c1313763]: Marginal citation: [Paragraph 5](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/5) was amended by [S.I. 2003/511](https://www.legislation.gov.uk/uksi/2003/511).
+
+[^c1313764]: Marginal citation: [Paragraph 56](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/56) was inserted by [S.I. 2001/22](https://www.legislation.gov.uk/uksi/2001/22).
+
+[^c1313765]: Marginal citation: [Paragraph 58](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/58) was inserted by [S.I. 2001/3481](https://www.legislation.gov.uk/uksi/2001/3481).
+
+[^c1313766]: Marginal citation: [S.I.1996/940](https://www.legislation.gov.uk/uksi/1996/940).
+
+[^c1313767]: Marginal citation: [S.I. 1996/3195](https://www.legislation.gov.uk/uksi/1996/3195).
+
+[^c1313768]: Marginal citation: [Regulations 2 to 13](https://www.legislation.gov.uk/uksi/2005/2877/regulation/2) were revoked by [S.I.2000/3176](https://www.legislation.gov.uk/uksi/2000/3176) from, in relation to any particular case, the date on which section 23 of the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) comes into force in relation to that type of case.
+
+[^c1313769]: Marginal citation: [S.I. 1997/1984](https://www.legislation.gov.uk/uksi/1997/1984).
+
+[^c1313770]: Marginal citation: [S.I. 1997/1995](https://www.legislation.gov.uk/uksi/1997/1995).
+
+[^c1313771]: Marginal citation: [S.I. 1999/3108](https://www.legislation.gov.uk/uksi/1999/3108).
+
+[^c1313772]: Marginal citation: [Regulation 17](https://www.legislation.gov.uk/uksi/2005/2877/regulation/17) was amended by [S.I. 2001/1189](https://www.legislation.gov.uk/uksi/2001/1189) and [S.I. 2002/2497](https://www.legislation.gov.uk/uksi/2002/2497).
+
+[^c1313773]: Marginal citation: The definition of “couple” in regulation 1(3) of the [Jobseeker's Allowance Regulations 1996 (S.I. 1996/207)](https://www.legislation.gov.uk/uksi/1996/207) has been substituted by paragraph 26(2)(b) of this Schedule.
+
+[^key-486b3cf584e7ec3e07e262f4d5b25199]: Textual amendment: [Sch. 3 para. 32](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/32) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2) (as amended by [S.I. 2024/898](https://www.legislation.gov.uk/uksi/2024/898), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/898/regulation/1/1), [2(3)(c)(i)](https://www.legislation.gov.uk/uksi/2024/898/regulation/2/3/c/i))
+
+[^c1313775]: Marginal citation: [S.I. 2001/1395](https://www.legislation.gov.uk/uksi/2001/1395).
+
+[^c1313776]: Marginal citation: [S.I. 2001/4022](https://www.legislation.gov.uk/uksi/2001/4022).
+
+[^c1313777]: Marginal citation: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792).
+
+[^c1313778]: Marginal citation: [Paragraph 1(c)](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/1/c) was amended by [S.I. 2003/2274](https://www.legislation.gov.uk/uksi/2003/2274).
+
+[^c1313779]: Marginal citation: [Paragraph 4](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/4) was amended by [S.I. 2003/2274](https://www.legislation.gov.uk/uksi/2003/2274).
+
+[^c1313780]: Marginal citation: [Paragraph 5](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/5) was amended by [S.I. 2003/2274](https://www.legislation.gov.uk/uksi/2003/2274).
+
+[^c1313781]: Marginal citation: [Paragraph 6(1)](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/6/1) was amended by [S.I. 2003/2274](https://www.legislation.gov.uk/uksi/2003/2274).
+
+[^c1313782]: Marginal citation: [Paragraph 4A](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/4A) was inserted by [S.I. 2002/3197](https://www.legislation.gov.uk/uksi/2002/3197).
+
+[^c1313783]: Marginal citation: [S.I. 2002/3196](https://www.legislation.gov.uk/uksi/2002/3196).
+
+[^key-017f93aca2992a90f4f9e420e095b0a5]: Textual amendment: [Sch. 3 para. 36(3)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/36/3) revoked () (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+
+[^c1313784]: Marginal citation: [S.I. 2003/1886](https://www.legislation.gov.uk/uksi/2003/1886).
+
+[^c1313785]: Marginal citation: [S.I. 2004/959](https://www.legislation.gov.uk/uksi/2004/959).
+
+[^c1313786]: Marginal citation: [S.I. 1992/1812](https://www.legislation.gov.uk/uksi/1992/1812).
+
+[^c1313787]: Marginal citation: Paragraph (2)(b) was amended by [S.I. 2001/161](https://www.legislation.gov.uk/uksi/2001/161).
+
+[^c1313788]: Marginal citation: [S.I. 1992/1815](https://www.legislation.gov.uk/uksi/1992/1815).
+
+[^c1313789]: Marginal citation: [Paragraph 9A](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/9A) was inserted by 1999/977, and sub-paragraph (2) was amended by [S.I. 2003/2779](https://www.legislation.gov.uk/uksi/2003/2779).
+
+[^c1313790]: Marginal citation: [Paragraph 22](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/22) was renumbered as paragraph 22(1) by [S.I. 1996/1345](https://www.legislation.gov.uk/uksi/1996/1345), [paragraph 22(1B)](https://www.legislation.gov.uk/uksi/1996/1345/paragraph/22/1B) was inserted by [S.I. 1999/977](https://www.legislation.gov.uk/uksi/1999/977) and paragraph 22(1B)(2) was amended by [S.I. 2003/2779](https://www.legislation.gov.uk/uksi/2003/2779).
+
+[^c1313791]: Marginal citation: [Paragraph 48F](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/48F) was inserted by [S.I. 2003/2779](https://www.legislation.gov.uk/uksi/2003/2779).
+
+[^c1313792]: Marginal citation: [S.I. 1992/1989](https://www.legislation.gov.uk/uksi/1992/1989).
+
+[^c1313793]: Marginal citation: [S.I. 1992/2645](https://www.legislation.gov.uk/uksi/1992/2645).
+
+[^c1313794]: Marginal citation: Paragraph (1) was substituted by [S.I. 1995/1045](https://www.legislation.gov.uk/uksi/1995/1045).
+
+[^c1313795]: Marginal citation: [S.I. 1992/2643](https://www.legislation.gov.uk/uksi/1992/2643).
+
+[^c1313796]: Marginal citation: Paragraph (b) was amended by [S.I. 1993/913](https://www.legislation.gov.uk/uksi/1993/913) and [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162).
+
+[^c1313797]: Marginal citation: [S.I. 1996/2907](https://www.legislation.gov.uk/uksi/1996/2907).
+
+[^c1313798]: Marginal citation: [S.I. 2001/155](https://www.legislation.gov.uk/uksi/2001/155).
+
+[^c1313799]: Marginal citation: The definition of “war widow's pension” was inserted by [S.I. 2003/2779](https://www.legislation.gov.uk/uksi/2003/2779).
+
+[^c1313800]: Marginal citation: Sub-paragraph (f) was inserted by [S.I. 2003/2779](https://www.legislation.gov.uk/uksi/2003/2779).
+
+[^c1313801]: Marginal citation: [S.I. 2001/156](https://www.legislation.gov.uk/uksi/2001/156).
+
+[^c1313802]: Marginal citation: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^c1313803]: Marginal citation: [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19). 3rd March 2003 is the day appointed by the Child Support, Pensions and Social Security Act 2000 (Commencement No. 12) Order 2003 ([S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192) (C.11)), as amended by the Child Support, Pensions and Social Security Act 2000 (Commencement No.13) Order 2003 ([S.I. 2003/346](https://www.legislation.gov.uk/uksi/2003/346) (C. 21)).
+
+[^c1313804]: Marginal citation: [1991 c. 34](https://www.legislation.gov.uk/ukpga/1991/34).

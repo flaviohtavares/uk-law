@@ -1,0 +1,49 @@
+---
+title: Pensions Act 1995, section 3A
+act: Pensions Act 1995
+section: 3A
+status: revised-with-pending-changes
+text_date: '2026-07-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1995/26/section/3A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Pensions Act 1995, section 3A
+
+> **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 3A. Prohibition orders: directors of corporate trustees etc[^key-cd5bf866a6243d840dedc6d7ac032f4f]
+
+*Extent: E+W+S*
+
+(1) A company or Scottish partnership is prohibited from being a trustee of a trust scheme at any time when an individual who is a director of the company or a partner in the partnership is prohibited from being a trustee of the scheme by an order under section 3.
+
+(2) Where a company or partnership which is a trustee of a trust scheme becomes prohibited under subsection (1) in relation to the scheme, that subsection has the effect of removing the company or partnership as a trustee.
+
+(3) The Authority may, on the application of a company or Scottish partnership, give notice in writing to the applicant waiving the prohibition under subsection (1)—
+
+- (a) in relation to an individual against whom an order under section 3 has been made, and
+- (b) either generally or in relation to a particular scheme or particular description of schemes.
+
+(4) A notice may be given under subsection (3) only if the Authority is satisfied that the applicant would be a fit and proper person to be a trustee of the scheme or schemes to which the notice relates despite the individual being, or even if the individual were to become, a director of or partner in the applicant.
+
+(5) A notice given at any time under subsection (3) cannot affect anything done before that time.
+
+(6) An application under subsection (3) may not be made—
+
+- (a) during the period within which the determination to exercise the power to make the order against the individual may be referred to the Tribunal under section 96(3) or 99(7) of the Pensions Act 2004 (whether by a company or partnership which became prohibited under subsection (1) on the making of the order or by another person), and
+- (b) if the determination is so referred, until the reference, and any appeal against the Tribunal's determination, has been finally disposed of.
+
+(7) The Authority must prepare and publish a statement of the policies they intend to adopt in relation to the exercise of their powers under this section.
+
+(8) The Authority may revise any statement published under subsection (7) and must publish any revised statement.
+
+(9) References in this section to an order under section 3 are to an order under that section made on or after the date on which section 46(2) of the Pensions Act 2014 comes fully into force.
+
+## Annotations
+
+[^key-cd5bf866a6243d840dedc6d7ac032f4f]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/1995/26/section/3A) inserted (11.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 46(2)](https://www.legislation.gov.uk/ukpga/2014/19/section/46/2), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(h)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/h)

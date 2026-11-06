@@ -1,0 +1,56 @@
+---
+title: Co-operative and Community Benefit Societies Act 2014, section 99
+act: Co-operative and Community Benefit Societies Act 2014
+section: '99'
+status: revised-with-pending-changes
+text_date: '2023-08-29'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2014/14/section/99
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Co-operative and Community Benefit Societies Act 2014, section 99
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2023-08-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/14
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 99. Section 98: exceptions
+
+*Extent: E+W+S*
+
+(1) This section supplements section 98.
+
+(2) A registered society is not required to prepare group accounts for a year of account if, at the end of the year, it is the wholly owned subsidiary of another body corporate incorporated in Great Britain.
+
+(3) Group accounts need not deal with a subsidiary if in the opinion of the parent society's committee, approved by the FCA—
+
+- (a) it is impracticable, or would be of no real value to the society's members, in view of the insignificant amounts involved,
+- (b) it would involve expense or delay out of proportion to the value to those members,
+- (c) the result would be misleading, or harmful to the business of the society or any of its subsidiaries, or
+- (d) the business of the society and that of the subsidiary are so different that they cannot reasonably be treated as a single undertaking.
+
+(4) A society is not required to prepare group accounts if, by virtue of subsection (3), the accounts would not need to deal with any of the society's subsidiaries.
+
+(5) For the purposes of section 98, no account is to be taken of a subsidiary in relation to a year of account if—
+
+- (a) by virtue of subsection (3) or this subsection, there was no requirement for the subsidiary to be dealt with in group accounts of the parent society for the previous year of account, and
+- (b) the society's auditors include in the appropriate report, made on or before the relevant date, a certificate to the effect that they agree with the society's committee that the following continued to apply throughout the year of account—
+  - (i) the reason given by the committee in its last opinion in respect of the subsidiary to have been approved by the FCA under subsection (3), and
+  - (ii) the grounds given by the committee in that opinion for that reason.
+
+(6) For the purposes of subsection (5)(b)—
+
+- the “appropriate report” is—
+  - (a) if the society is under a duty to ensure that group accounts are prepared for the year of account, the auditor's report on those accounts;
+  - (b) otherwise, the auditor's report under section 87;
+- the “relevant date” is the last date for making the annual return for the year of account.
+
+(7) For the purposes of this section a registered society is a “wholly owned subsidiary” of another body corporate if each of its members is—
+
+- (a) that other body corporate,
+- (b) a wholly owned subsidiary of that body, or
+- (c) a nominee of that body or such a subsidiary.
+
+(8) If the society is a PRA-authorised person, the FCA must not give an approval under this section unless it has consulted the PRA.

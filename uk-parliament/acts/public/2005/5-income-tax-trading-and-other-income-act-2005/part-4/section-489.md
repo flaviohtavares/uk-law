@@ -1,0 +1,43 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 489
+act: Income Tax (Trading and Other Income) Act 2005
+section: '489'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/489
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 489
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 489. Conditions applicable to alterations of life insurance policy terms
+
+*Extent: E+W+S+N.I.*
+
+(1) Conditions A to E are the conditions referred to in section 488.
+
+(2) Condition A is that the policy was issued in respect of an insurance made at least 20 years before the alteration.
+
+(3) Condition B is that the alteration results from a decision by the insurance company that it will not collect further premiums due from any of the holders under a number of policies of the same description if a particular period of time has elapsed since the contracts were made.
+
+(4) Condition C is that no premiums are payable or paid after the date of the alteration.
+
+(5) Condition D is that the benefits to be provided under the policy after the alteration are the same or substantially the same as those before the alteration.
+
+(6) A deduction from the benefits is ignored for the purposes of subsection (5) if it does not exceed the total net premiums which, apart from the alteration, would have been payable under the policy between—
+
+- (a) the date of the alteration, and
+- (b) the date on which the benefits become payable.
+
+(7) In subsection (6) “**net premiums**” means the premiums reduced by any tax relief which would have been due on the premiums had they been paid.
+
+(8) Condition E is that the premiums payable under the policy before the alteration—
+
+- (a) have not been reduced to a nominal amount on the exercise of an option, in circumstances where the reduction is connected with a right to surrender in part the rights conferred by the policy after the date of the reduction, and
+- (b) are not capable of being so reduced in such circumstances.

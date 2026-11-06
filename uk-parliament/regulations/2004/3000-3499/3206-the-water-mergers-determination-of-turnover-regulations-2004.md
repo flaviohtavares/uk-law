@@ -1,0 +1,169 @@
+---
+title: The Water Mergers (Determination of Turnover) Regulations 2004
+id: uksi/2004/3206
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-12-02'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2004/3206
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/3206/pdfs/uksiem_20043206_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/3206/pdfs/uksi_20043206_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/3206/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Water Mergers (Determination of Turnover) Regulations 2004
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2004 No. 3206
+
+WATER INDUSTRY, ENGLAND AND WALES
+
+The Water Mergers (Determination of Turnover) Regulations 2004
+
+Made
+
+2nd December 2004
+
+Laid before Parliament
+
+7th December 2004
+
+Coming into force
+
+29th December 2004
+
+The Secretary of State, in exercise of the powers conferred upon her by sections 33(4), (5) and (6) and 213(2)(d) and (e) of the Water Industry Act 1991[^f00001], hereby makes the following Regulations:[^key-768365aeab5813cf1066750e2e8c4c36]
+
+## 1. Citation and commencement[^key-ddbaf886acc0c8c8b8fffa11140936c4]
+
+These Regulations may be cited as the Water Mergers (Determination of Turnover) Regulations 2004 and shall come into force on 29th December 2004.
+
+## 2. Interpretation[^key-9ec6656d821b511f66c2b3c11585be8c]
+
+In these Regulations:
+
+- (a) “the Act” means the Water Industry Act 1991;
+- (b) “applicable turnover” means the turnover of a water enterprise in the preceding business year, or in a case to which regulation 3(4) applies, in the period referred to in that regulation, determined in accordance with the Schedule to these Regulations; and where a business year or a period under regulation 3(4) does not equal 12 months the applicable turnover shall be the amount which bears the same proportion to the applicable turnover during that business year as 12 months does to that period;
+- (c) “appointed business” means the business of carrying out the activities which are necessary for a water enterprise to fulfil its functions as a relevant undertaker;
+- (d) “business year” means a period of more than six months in respect of which a water enterprise or, if applicable, the business of which it forms part, prepares or is required to prepare its regulatory accounts;
+- (e) “regulatory accounts” means regular accounting and other information supplied by the water enterprise to the Water Services Regulation Authority[^key-289a248425a3707283a55d41b43f329e] to enable it[^key-896543eb2dc2178be41d1dca418f7834] to compare the financial position and performance of the appointed businesses of all water enterprises.
+
+## 3. Determination of turnover in England and Wales of a water enterprise[^key-bb1d828344afd262c87be85c27ac4c64]
+
+(1) This regulation shall apply for the purposes referred to in section 33(4) of the Act.
+
+(2) The turnover in England and Wales of a water enterprise shall be, subject to paragraph (3), the applicable turnover for the business year preceding–
+
+- (a) where the question for determination is whether it is or may be the case that arrangements are in progress which, if carried into effect, will result in the merger of two or more water enterprises, the date when the decision in relation to a possible reference has been or is to be made, or such earlier date as CMA[^key-67b013b5c0e82654e61c7bf7da2230ed] considers appropriate;
+- (b) where the question for determination is whether a merger of two or more water enterprises has taken place otherwise than as a result of the carrying into effect of arrangements that have been the subject of a reference by virtue of sub-paragraph (a) above, the date when the water enterprises concerned ceased to be distinct water enterprises or such earlier date as the CMA considers appropriate.
+
+(3) Where an acquisition or divestment or other transaction or event has occurred since the end of the preceding business year which the CMA considers may have a significant impact on the turnover of the enterprise, that acquisition or divestment or other transaction or event shall be taken into account if the CMA considers it appropriate to do so.
+
+(4) Where in the application of this regulation there is any period in respect of which there is no preceding business year then the applicable turnover shall be the turnover for that period.
+
+Gerry Sutcliffe,
+
+Parliamentary Under Secretary of State for Employment Relations, Postal Services and Consumers
+
+Department of Trade and Industry
+
+## SCHEDULE
+
+### APPLICABLE TURNOVER
+
+Regulation 2(b)
+
+#### 1. Interpretation[^key-8335c9bf36820d0a1d792b749afc6d4d]
+
+In this Schedule “aid means a measure which—
+
+- (a) fulfils the conditions set out in Article 1.1 of the Agreement on Subsidies and Countervailing Measures contained in Annex 1A to the WTO Agreement, and
+- (b) is specific within the meaning of Article 2 of that Agreement, irrespective of whether the recipient deals in goods or services.
+
+**2.**[^key-c1541398ecc986399ce52de951098ba9] Save in paragraphs 4 to 9, the provisions of this Schedule shall be interpreted in accordance with accounting principles and practices that are generally accepted in the United Kingdom.
+
+**3.**[^key-db2d76a8f0ac6a490e1e6958560b6b39] The applicable turnover of a water enterprise shall be limited to the amounts derived from the sale of products and the provision of services falling within the appointed business of the water enterprise to businesses or consumers in England and Wales after deduction of sales rebates, value added tax and other taxes directly related to turnover.
+
+**4.**[^key-9d8de7c5c1b9c99def7bb7c455f0912e] Subject to paragraphs 8 and 9, where two or more water enterprises which are under common ownership or control are being taken over the applicable turnover shall be calculated by adding together the applicable turnover of each of the water enterprises under common ownership or control.
+
+**5.**[^key-d66b206ed4b586c085e1adbb9775d9d1] For the purposes of paragraphs 4 and 7 to 9, water enterprises shall in particular be treated as being under common control if they are—
+
+- (a) water enterprises of interconnected bodies corporate;
+- (b) water enterprises carried on by two or more bodies corporate of which one and the same person or group of persons has control; or
+- (c) a water enterprise carried on by a body corporate and a water enterprise carried on by a person or group of persons having control of that body corporate.
+
+**6.**[^key-58b482938da4f3245a1ddaa677ef1a5c] A person or group of persons able, directly or indirectly, to control or materially influence the policy of a body corporate, or the policy of any person in carrying on a water enterprise but without having a controlling interest in that body corporate or in that enterprise, may for the purpose of paragraph 4, be treated by the CMA[^key-5e97d20af860a2fa6baed27cabdc43ba] as having control of it.
+
+**7.**[^key-69c044be9dac399a67027bc33261cadd] Section 127 of the Enterprise Act 2002 shall apply to the determination of whether water enterprises are under common control for the purposes of paragraphs 5 and 6 as it applies, for the purposes specified in section 127, to section 26 of that Act.
+
+**8.**[^key-8fde758dd46186bb832a62f5dcb50a37] Subject to paragraph 9, applicable turnover shall not include amounts derived from the sale of products or the provision of services between the appointed businesses of water enterprises under common ownership or control.
+
+**9.**[^key-410b59a160bfc479128a27399311d905] Where, as a result of the merger situation, one or more water enterprises ceases or will cease to be under common ownership or control with the water enterprise being taken over, the CMA[^key-488e15b2fdd44beee9482e1abb3a9dd8] may treat amounts derived from the sale of products or the provision of services between the water enterprise being taken over and any water enterprises ceasing to be under common ownership or control with that water enterprise as applicable turnover. If such sale of products or provision of services has not resulted in any turnover or the CMA considers that the turnover attributed to them does not reflect open market value, the CMA may attribute such value to them as it considers appropriate and include them in the calculation of applicable turnover.
+
+**10.**[^key-ebfc954b0d18f1263c31fb110d7ecc0e] Paragraphs 4 to 9 above shall have no application when determining turnover for the purposes of section 33(1)(b) of the Act.
+
+#### 11. Aid granted to businesses[^key-3500f5716924286786b2cffe51ef367c]
+
+Any aid granted by a public body to the appointed business of a water enterprise shall be included in the calculation of turnover if the business is itself the recipient of the aid and if the aid is directly linked to the sale of products or the provision of services by the business and is therefore reflected in the price.
+
+(This note is not part of the Order)
+
+These Regulations specify how the turnover of a water enterprise is to be determined for the purposes of section 33 of the Water Industry Act 1991 (“the Act”). The Office of Fair Trading is prohibited from making a merger reference to the Competition Commission under section 32 of the Act where the turnover of either the water enterprise being taken over or the turnover of the water enterprises owned by the person making the takeover fall within the limits set by section 33 of the Act.
+
+A Regulatory Impact Assessment has not been prepared for this instrument as it has no impact on business, charities or voluntary bodies. There is no impact on the public sector.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56), as amended by section 70 of the Enterprise Act [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^key-768365aeab5813cf1066750e2e8c4c36]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2004/3206) applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [5(j)](https://www.legislation.gov.uk/uksi/2020/214/article/5/j)
+
+[^key-ddbaf886acc0c8c8b8fffa11140936c4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2004/3206/regulation/1) in force at 29.12.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3206/regulation/1)
+
+[^key-9ec6656d821b511f66c2b3c11585be8c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2004/3206/regulation/2) in force at 29.12.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3206/regulation/1)
+
+[^key-289a248425a3707283a55d41b43f329e]: Textual amendment: Words in [reg. 2(e)](https://www.legislation.gov.uk/uksi/2004/3206/regulation/2/e) substituted (1.4.2006) by [The Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005 (S.I. 2005/2035)](https://www.legislation.gov.uk/uksi/2005/2035), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/1/5), [25(a)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/25/a)
+
+[^key-896543eb2dc2178be41d1dca418f7834]: Textual amendment: Word in [reg. 2(e)](https://www.legislation.gov.uk/uksi/2004/3206/regulation/2/e) substituted (1.4.2006) by [The Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005 (S.I. 2005/2035)](https://www.legislation.gov.uk/uksi/2005/2035), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/1/5), [25(b)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/25/b)
+
+[^key-bb1d828344afd262c87be85c27ac4c64]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2004/3206/regulation/3) in force at 29.12.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3206/regulation/1)
+
+[^key-67b013b5c0e82654e61c7bf7da2230ed]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2004/3206/regulation/3/2)[(3)](https://www.legislation.gov.uk/uksi/2004/3206/regulation/3/3) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 23(2)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/23/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-8335c9bf36820d0a1d792b749afc6d4d]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/3206/schedule/paragraph/1) substituted (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/6/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+
+[^key-c1541398ecc986399ce52de951098ba9]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2004/3206/schedule/paragraph/2) in force at 29.12.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3206/regulation/1)
+
+[^key-db2d76a8f0ac6a490e1e6958560b6b39]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2004/3206/schedule/paragraph/3) in force at 29.12.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3206/regulation/1)
+
+[^key-9d8de7c5c1b9c99def7bb7c455f0912e]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2004/3206/schedule/paragraph/4) in force at 29.12.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3206/regulation/1)
+
+[^key-d66b206ed4b586c085e1adbb9775d9d1]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2004/3206/schedule/paragraph/5) in force at 29.12.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3206/regulation/1)
+
+[^key-58b482938da4f3245a1ddaa677ef1a5c]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2004/3206/schedule/paragraph/6) in force at 29.12.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3206/regulation/1)
+
+[^key-5e97d20af860a2fa6baed27cabdc43ba]: Textual amendment: Word in [Sch. para. 6](https://www.legislation.gov.uk/uksi/2004/3206/schedule/paragraph/6) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 23(3)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/23/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-69c044be9dac399a67027bc33261cadd]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2004/3206/schedule/paragraph/7) in force at 29.12.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3206/regulation/1)
+
+[^key-8fde758dd46186bb832a62f5dcb50a37]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/3206/schedule/paragraph/8) in force at 29.12.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3206/regulation/1)
+
+[^key-410b59a160bfc479128a27399311d905]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2004/3206/schedule/paragraph/9) in force at 29.12.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3206/regulation/1)
+
+[^key-488e15b2fdd44beee9482e1abb3a9dd8]: Textual amendment: Word in [Sch. para. 9](https://www.legislation.gov.uk/uksi/2004/3206/schedule/paragraph/9) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 23(3)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/23/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+
+[^key-ebfc954b0d18f1263c31fb110d7ecc0e]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2004/3206/schedule/paragraph/10) in force at 29.12.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3206/regulation/1)
+
+[^key-3500f5716924286786b2cffe51ef367c]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2004/3206/schedule/paragraph/11) in force at 29.12.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/3206/regulation/1)

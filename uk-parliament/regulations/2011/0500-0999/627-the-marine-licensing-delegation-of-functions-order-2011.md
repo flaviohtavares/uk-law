@@ -1,0 +1,199 @@
+---
+title: The Marine Licensing (Delegation of Functions) Order 2011
+id: uksi/2011/627
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-03-02'
+text_date: '2015-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2011/627
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/627/pdfs/uksiem_20110627_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/627/pdfs/uksi_20110627_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/627/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Marine Licensing (Delegation of Functions) Order 2011
+
+> Text as at 2015-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2011 No. 627
+
+Licensing (marine)
+
+Marine Management
+
+The Marine Licensing (Delegation of Functions) Order 2011
+
+Made
+
+2nd March 2011
+
+Laid before Parliament
+
+8th March 2011
+
+Coming into force
+
+6th April 2011
+
+The Secretary of State, as the appropriate licensing authority under section 113(2)(a), (4)(a), (6)(a) and (8) of the Marine and Coastal Access Act 2009[^f00001], makes the following Order in exercise of the powers conferred by sections 98(1) and 99(5) of that Act.
+
+In accordance with section 98(3) of that Act, the Marine Management Organisation consents to the making of this Order.
+
+## 1. Citation and commencement[^key-7dcc6257b5ca46ec16d31225553c6959]
+
+This Order—
+
+- (a) may be cited as the Marine Licensing (Delegation of Functions) Order 2011; and
+- (b) comes into force on 6th April 2011.
+
+## 2. Application[^key-428bc5d54c1032c3c7198b0c007f72a0]
+
+(1) This Order applies in relation to any area, and any licensable marine activity carried on in that area, for which the Secretary of State is—
+
+- (a) the appropriate licensing authority under section 113 of the Marine and Coastal Access Act 2009[^f00002],
+- (b) an enforcement authority under section 114 of that Act[^f00003],
+
+and references in this Order to “the licensing authority” or an “enforcement authority” are to be read accordingly.
+
+(2) Nothing in this Order applies in relation to any excepted function within the meaning of section 98(6) of that Act.
+
+## 3. Designation[^key-4e1bb0986c22f92745efb66a425af0e8]
+
+(1) The functions referred to in paragraph (3) are designated for the purposes of section 98(1)(a) of the Marine and Coastal Access Act 2009.
+
+(2) But this is subject to paragraph (4).
+
+(3) The functions are any function of the licensing authority and any function of an enforcement authority, as the case may be, under—
+
+- (a) Part 4 of that Act (sections 65 to 115, and Schedules 7 to 9)[^f00004];
+- (b)[^key-e83073c1965366d1dc5a70f0987e094f] Marine Licensing (Exempted Activities) Order 2011
+- (c) the Marine Licensing (Register of Licensing Information) Regulations 2011[^f00006];
+- (d)[^key-1ad12e9fb0c720df801b5007db629e03] the Marine Licensing (Application Fees) Regulations 2014[^f00004]
+
+(4) Paragraph (1) does not apply to any function so far as it relates to an activity falling within the subject matter of—
+
+- (a) Part 6 of the Merchant Shipping Act 1995[^f00008] (pollution etc);
+- (b) the Petroleum Act 1998[^f00009]; or
+- (c) Part 1 (gas importation or storage), 4 (provisions relating to oil and gas) or 4A (works detrimental to navigation) of the Energy Act 2008[^f00010].
+
+## 4. Delegation to the Marine Management Organisation[^key-d73a1451b5cb8842bd2d77049b55008a]
+
+The functions designated by article 3, instead of being exercisable by or in relation to the licensing authority or, as the case may be, an enforcement authority, are exercisable by or in relation to the Marine Management Organisation acting on behalf of the licensing authority or, as the case may be, the enforcement authority.
+
+## 5. Determination by the Secretary of State of applications for a marine licence[^key-6c433fe132d6b9f475c14a532d080962]
+
+(1) Where the Marine Management Organisation receives a notification from the Secretary of State under paragraph (5)(b) in relation to an application for a licence, to the effect that the application is to be determined by the Secretary of State, the functions of the licensing authority under section 69 (determination of applications), section 70 (inquiries) and section 71 (licences) of the Marine and Coastal Access Act 2009, which would otherwise be exercisable by the Marine Management Organisation by virtue of section 99(1) of the Marine and Coastal Access Act 2009[^f00005] and article 4, cease to be so exercisable in relation to that application.
+
+(2) Following receipt of an application for a licence, the Marine Management Organisation must decide whether the application is one which must be referred, or which it is appropriate to refer, to the Secretary of State for a decision as to whether that application is to be determined by the Secretary of State.
+
+(3) For the purpose of the decision of the Marine Management Organisation under paragraph (2)—
+
+- (a) an application must be referred to the Secretary of State where a representation has been made by any local planning authority or Inshore Fisheries and Conservation Authority affected by the activity to which the application relates, stating that in the opinion of the authority the criteria specified in paragraph (7)(a) are met in relation to the application; and
+- (b) an application is one which it is appropriate to refer to the Secretary of State where the Marine Management Organisation considers that the criteria specified in paragraph (7)(b) are met in relation to that application.
+
+(4) Where the Marine Management Organisation considers that the application is one which must be referred, or which it is appropriate to refer, to the Secretary of State, it must—
+
+- (a) refer the application accordingly; and
+- (b) notify the applicant in writing that it has been referred.
+
+(5) Where an application has been referred to the Secretary of State under paragraph (4), the Secretary of State must—
+
+- (a) decide whether the criteria specified in paragraph (7)(a) or (b) are met and, if so, whether that application should be determined by the Secretary of State;
+- (b) notify the Marine Management Organisation and the applicant in writing of that decision; and
+- (c) where the Secretary of State’s decision under sub-paragraph (a) is that the application should be determined by the Secretary of State, notify the Marine Management Organisation of the particulars relating to the application that are prescribed in relation to it for the purposes of section 101 of the Marine and Coastal Access Act 2009.
+
+(6) A notification under paragraph (4)(b) or (5)(b) or (c) may be given by means of an electronic communication.
+
+(7) The criteria referred to in paragraph (3) and (5)(a) are—
+
+- (a) that the proposed activity to which the application relates—
+  - (i) falls into band 3 of the Schedule to the Marine Licensing (Application Fees) Regulations 2014;
+  - (ii) would take place wholly or partly within that part of the UK marine licensing area adjacent to England and extending to 6 nautical miles from the baseline[^f00006]; and
+  - (iii) is capable of having a significant effect and raises issues which are appropriate for examination in an inquiry; or
+- (b) that the activity to which the application relates raises issues which—
+  - (i) are of significance to the UK as a whole and are not addressed, or for this purpose not adequately addressed, by the appropriate marine policy documents as defined in section 59 of the Marine and Coastal Access Act 2009; and
+  - (ii) are accordingly appropriate for examination in an inquiry.
+
+(8) Paragraph (2) does not apply in relation to any application submitted before 1st October 2015.
+
+(9) In this article—
+
+- “electronic communication” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa)—
+- by means of an electronic communications network (within the meaning given by section 32(1) of the Communications Act 2003[^f00007]); or
+- by other means but while in an electronic form;
+- “Inshore Fisheries and Conservation Authority” means the authority for a district established by order under section 149(1) of the Marine and Coastal Access Act 2009;
+- “licence” means a marine licence granted or to be granted under section 71(1)(a) or (b) of the Marine and Coastal Access Act 2009, other than one—
+  - (a) granted or to be granted on an application in a case to which section 78 (special procedure for applications relating to harbour works) or section 79 (special procedure for applications relating to certain electricity works) of the Marine and Coastal Access Act 2009 applies; or
+  - (b) deemed to have been issued by provision in a development consent order made by virtue of section 149A of the Planning Act 2008[^f00008]; and
+- “local planning authority” has the same meaning as in section 336(1) of the Town and Country Planning Act 1990[^f00009].
+
+Richard Benyon
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+2nd March 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order delegates the exercise of certain functions of the Secretary of State as a licensing authority and an enforcement authority under the Marine and Coastal Access Act 2009 (“the 2009 Act”) to the Marine Management Organisation.
+
+This Order does not apply to those functions of the licensing authority (mainly relating to the making of subordinate legislation) which are excepted functions and not delegable by virtue of section 98(5)(a) of the 2009 Act (article 2(2)).
+
+Article 3 designates functions of the Secretary of State as licensing authority and an enforcement authority under Part 4 (marine licensing) of the 2009 Act (including functions under subordinate legislation made under that Part).
+
+Article 3 does not designate functions relating to activities falling within the subject matter of Part 6 of the Merchant Shipping Act 1995; the Petroleum Act 1998, or Part 1, 4 or 4A of the Energy Act 2008 (article 3(4)).
+
+Article 4 provides that the designated functions are exercisable by or in relation to the Marine Management Organisation acting on behalf of the licensing authority or the enforcement authority (instead of being exercisable by or in relation to such an authority). The licensing authority has the power to give directions to the Marine Management Organisation with respect to the performance of the delegated functions (see section 100 of the 2009 Act, which power is an excepted function).
+
+A full impact assessment of the effects that this instrument will have on the costs of business, the voluntary sector and the public sector has been prepared, and copies are available from the Licensing Policy Team, Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR, and from Defra’s website at www.defra.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^key-7dcc6257b5ca46ec16d31225553c6959]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2011/627/article/1) in force at 6.4.2011, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2011/627/article/1/b)
+
+[^key-428bc5d54c1032c3c7198b0c007f72a0]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/627/article/2) in force at 6.4.2011, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2011/627/article/1/b)
+
+[^f00002]: Footnote: By virtue of section 113(2)(a), (4)(a), (6)(a) and (8) of the Marine and Coastal Access Act 2009, the Secretary of State is the appropriate licensing authority as respects anything done in the course of carrying on certain activities in the Scottish offshore region, Wales and the Welsh inshore region, Northern Ireland and the Northern Ireland inshore region, and in relation to any other area not mentioned in subsection (2), (4) or (6). See section 322(1) for definitions of those regions.
+
+[^f00003]: Footnote: The Secretary of State is an enforcement authority for the areas for which the Secretary of State is the appropriate licensing authority: see section 114(2) of that Act.
+
+[^key-4e1bb0986c22f92745efb66a425af0e8]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2011/627/article/3) in force at 6.4.2011, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2011/627/article/1/b)
+
+[^f00004]: Footnote: Certain functions relating to national security under sections 68(7)(b), (8)(b), 70(8) and section 101(5)(a) are functions of the Secretary of State, rather than the licensing authority or an enforcement authority, and accordingly fall outside the scope of the designation under this Order.
+
+[^key-e83073c1965366d1dc5a70f0987e094f]: Textual amendment: [Art. 3(3)(b)](https://www.legislation.gov.uk/uksi/2011/627/article/3/3/b) substituted (1.10.2015) by [The Marine Licensing (Delegation of Functions) (Amendment) Order 2015 (S.I. 2015/1674)](https://www.legislation.gov.uk/uksi/2015/1674), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2015/1674/article/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1674/article/2/2/a)
+
+[^f00006]: Footnote: [S.I. 2011/424](https://www.legislation.gov.uk/uksi/2011/424).
+
+[^key-1ad12e9fb0c720df801b5007db629e03]: Textual amendment: [Art. 3(3)(d)](https://www.legislation.gov.uk/uksi/2011/627/article/3/3/d) substituted (1.10.2015) by [The Marine Licensing (Delegation of Functions) (Amendment) Order 2015 (S.I. 2015/1674)](https://www.legislation.gov.uk/uksi/2015/1674), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2015/1674/article/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1674/article/2/2/b)
+
+[^f00008]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Relevant amendments and repeals to provisions in Part 6 were made by the Merchant Shipping (Pollution) Act [2006 (c. 8)](https://www.legislation.gov.uk/ukpga/2006/8); the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28); the Pollution Prevention and Control Act [1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24); the Marine Safety Act [2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), and [S.I. 2006/1244](https://www.legislation.gov.uk/uksi/2006/1244).
+
+[^f00009]: Footnote: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17). Relevant amending instruments are the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), the Energy Act [2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), the Marine and Coastal Access Act 2009, [S.I. 2000/1937](https://www.legislation.gov.uk/uksi/2000/1937), [2004/2043](https://www.legislation.gov.uk/uksi/2004/2043) and [2007/290](https://www.legislation.gov.uk/uksi/2007/290).
+
+[^f00010]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32). In Part 1, sections 1 and 35(1) have been amended by section 41(8) of, and paragraph 5 of Schedule 4 to, the Marine and Coastal Access Act 2009. Part 4A was inserted by section 314(1) of that Act.
+
+[^key-d73a1451b5cb8842bd2d77049b55008a]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2011/627/article/4) in force at 6.4.2011, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2011/627/article/1/b)
+
+[^key-6c433fe132d6b9f475c14a532d080962]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2011/627/article/5) inserted (1.10.2015) by [The Marine Licensing (Delegation of Functions) (Amendment) Order 2015 (S.I. 2015/1674)](https://www.legislation.gov.uk/uksi/2015/1674), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2015/1674/article/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2015/1674/article/2/3)
+
+[^f00005]: Footnote: [S.I. 2011/409](https://www.legislation.gov.uk/uksi/2011/409).
+
+[^f00007]: Footnote: [S.I. 2011/564](https://www.legislation.gov.uk/uksi/2011/564).

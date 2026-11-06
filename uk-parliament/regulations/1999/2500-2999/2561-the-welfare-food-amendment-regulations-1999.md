@@ -1,0 +1,112 @@
+---
+title: The Welfare Food (Amendment) Regulations 1999
+id: uksi/1999/2561
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1999-09-10'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1999/2561
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/2561/pdfs/uksi_19992561_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/2561/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Welfare Food (Amendment) Regulations 1999
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1999 No. 2561
+
+FOOD
+
+The Welfare Food (Amendment) Regulations 1999
+
+Made
+
+10th September 1999
+
+Laid before Parliament
+
+14th September 1999
+
+Coming into force
+
+5th October 1999
+
+The Secretary of State for Health in exercise of the powers conferred on him by section 13(3) and (4) of the Social Security Act 1988[^f00001] and section 175(2) to (5) of the Social Security Contributions and Benefits Act 1992[^f00002] and all other powers enabling him in that behalf, hereby makes the following Regulations:—
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Welfare Food (Amendment) Regulations 1999 and shall come into force on 5th October 1999.
+
+(2) In these Regulations “the principal Regulations” means the Welfare Food Regulations 1996[^f00003].
+
+## 2. Amendment of regulation 2 of the principal Regulations
+
+In regulation 2(1) of the principal Regulations (interpretation), after the definition of “welfare milk supply” there shall be inserted the following definition—
+
+> - “working families' tax credit” means working families' tax credit under section 128 of the Social Security Contributions and Benefits Act 1992[^f00004].
+
+.
+
+## 3. Amendment of regulation 7 of the principal Regulations
+
+(1) Regulation 7 of the principal Regulations (purchase of dried milk at a reduced price) shall be amended in accordance with the following provisions of this regulation.
+
+(2) For paragraph (1) there shall be substituted the following paragraphs—
+
+> **7.** (1) Subject to paragraph (1A), any person who is entitled, or is a member of a family of a person who is entitled, to family credit awarded with effect from a date falling before 5th October 1999 or to working families' tax credit and who is responsible for a child who—
+>
+> - (a) is not entitled to dried milk or milk under regulation 4;
+> - (b) is under the age of one year; and
+> - (c) is also a member of the family of the person who is entitled to family credit or working families' tax credit,
+>
+> shall be entitled to purchase at any clinic, on behalf of that child, at a price of £3.90, 900 grammes of dried milk per week for personal consumption by that child.
+>
+> (1A) Where the appropriate maximum working families' tax credit determined by virtue of section 128(5) of the Social Security Contributions and Benefits Act 1992 in a person’s case is reduced by virtue of section 128(2)(b) of that Act on account of his income exceeding his applicable amount, that person shall be regarded as entitled to working families' tax credit for the purposes of paragraph (1) only if the reduction does not exceed £70.
+
+.
+
+(3) In paragraph 4(a), after the words, “family credit”, there shall be inserted the words, “awarded with effect from a date falling before 5th October 1999 or to working families' tax credit”.
+
+## 4. Amendment of regulation 8 of the principal Regulations
+
+In regulation 8(1) of the principal Regulations (inability to purchase dried milk at a reduced price), after the words, “family credit”, there shall be inserted the words, “or working families' tax credit”.
+
+## 5. Amendment of regulation 10(2) of the principal Regulations
+
+In regulation 10(2) of the principal Regulations (issue of milk tokens), after the words, “dried milk”, there shall be inserted the following words, “or whether they may be used for either liquid or dried milk”.
+
+Signed by authority of the Secretary of State for Health
+
+Tessa Jowell
+
+Minister of State for Public Health,
+
+Department of Health
+
+10th September 1999
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Welfare Food Regulations 1996 (the principal Regulations) consequent on the introduction of working families' tax credit with effect from 5th October 1999. Amendments to regulations 7 and 8 of the principal Regulations limit entitlement to purchase 900 grammes of dried milk per week at a reduced price to those entitled to family credit awarded with effect from a date falling before 5th October 1999 and extend that entitlement to those entitled to working families' tax credit, where the appropriate maximum is not reduced below £70, or to members of the family of such persons.
+
+Regulation 3(2) amends regulation 7(1) of the principal Regulations to increase the price payable for dried milk by a person entitled to purchase it at a reduced price, from £3.85 to £3.90 for 900 grammes per week.
+
+Regulation 5 amends regulation 10(2) to enable tokens to indicate on their face that they may be used for either liquid or dried milk.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 7](https://www.legislation.gov.uk/ukpga/1988/7). Section 13 was amended by section 21(1) of, and paragraph 8(11) of Schedule 6 to, the Social Security Act [1990 (c. 27)](https://www.legislation.gov.uk/ukpga/1990/27).
+
+[^f00002]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 175(2) to (5) is applied by section 15A of the Social Security Act [1988 (c. 7)](https://www.legislation.gov.uk/ukpga/1988/7) which section was inserted by section 21(1) of, and paragraph 8(10) of Schedule 6 to, the Social Security Act [1990 (c. 27)](https://www.legislation.gov.uk/ukpga/1990/27) and amended by section 4 of, and paragraph 96 of Schedule 2 to, the Social Security (Consequential Provisions) Act [1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6).
+
+[^f00003]: Footnote: S.I. [1996/1434](https://www.legislation.gov.uk/uksi/1996/1434). The relevant amending instruments are S.I. [1997/857](https://www.legislation.gov.uk/uksi/1997/857) and S.I. [1998/691](https://www.legislation.gov.uk/uksi/1998/691).
+
+[^f00004]: Footnote: Section 128 was amended by the Tax Credits Act [1999 (c. 10)](https://www.legislation.gov.uk/ukpga/1999/10), Schedule 1, paragraphs 1(a) and 2(8).

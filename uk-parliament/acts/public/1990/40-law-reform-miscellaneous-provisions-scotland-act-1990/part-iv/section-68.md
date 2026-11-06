@@ -1,0 +1,73 @@
+---
+title: Law Reform (Miscellaneous Provisions) (Scotland) Act 1990, section 68
+act: Law Reform (Miscellaneous Provisions) (Scotland) Act 1990
+section: '68'
+status: revised-with-pending-changes
+text_date: '2026-03-05'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1990/40/section/68
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Law Reform (Miscellaneous Provisions) (Scotland) Act 1990, section 68
+
+> **Warning: changes not yet applied to this text (69).** Text as at 2026-03-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/40
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 68. Amendment of Unfair Contract Terms Act 1977.[^c13714061]
+
+*Extent: S*
+
+(1) The [^c13714071]Unfair Contract Terms Act 1977 shall be amended in accordance with this section.
+
+(2) In section 15(1) (scope of Part II), the words “applies only to contracts,” shall cease to have effect.
+
+(3) In section 16 (liability for breach of duty)—
+
+- (a) in subsection (1)—
+  - (i) at the beginning there shall be inserted the words “ Subject to subsection (1A) below, ”;
+  - (ii) after the word “contract” in the first place where it occurs there shall be inserted “ , or a provision of a notice given to persons generally or to particular persons, ”;
+  - (iii) after the word “term” in the second place where it occurs there shall be inserted “ or provision ”; and
+  - (iv) at the end of paragraph (b) there shall be inserted the words “ or, as the case may be, if it is not fair and reasonable to allow reliance on the provision ”;
+- (b) after subsection (1) there shall be inserted the following subsection—
+
+  > (1A) Nothing in paragraph (b)
+  >
+  > of subsection (1) above shall be taken as implying that a provision of a notice has effect in circumstances where, apart from that paragraph, it would not have effect.
+
+  ; and
+- (c) in subsection (3)—
+  - (i) after the word “contract” there shall be inserted “ or a provision of a notice ”; and
+  - (ii) after the word “term” in the second place where it occurs there shall be inserted “ or provision ”.
+
+(4) In section 24 (the “reasonableness” test)—
+
+- (a) after subsection (2) there shall be inserted the following subsection—
+
+  > (2A) In determining for the purposes of this Part of this Act whether it is fair and reasonable to allow reliance on a provision of a notice (not being a notice having contractual effect), regard shall be had to all the circumstances obtaining when the liability arose or (but for the provision) would have arisen.
+
+  ;
+- (b) in subsection (3)—
+  - (i) after the word “contract” in the first place where it occurs there shall be inserted “ or a provision of a notice ”;
+  - (ii) after the word “contract” in the second place where it occurs there shall be inserted “ or whether it is fair and reasonable to allow reliance on the provision ”;
+  - (iii) after the word “above” there shall be inserted “ in the case of a term in a contract ”; and
+  - (iv) in paragraph (a), after the word “term” there shall be inserted “ or provision ”; and
+- (c) in subsection (4), after the word “contract” there shall be inserted “ or that it is fair and reasonable to allow reliance on a provision of a notice ”.
+
+(5) In section 25 (interpretation of Part II)—
+
+- (a) in subsection (1), after the definition of “hire-purchase agreement” there shall be inserted—
+
+“ “**notice**” includes an announcement, whether or not in writing, and any other communication or pretended communication;”; and
+
+- (b) subsections (3)(d) and (4) shall cease to have effect.
+
+(6) This section shall have effect only in relation to liability for any loss or damage which is suffered on or after the date appointed for its coming into force.
+
+## Annotations
+
+[^c13714061]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/1990/40/section/68) wholly in force at 1.4.1991 see [s. 75](https://www.legislation.gov.uk/ukpga/1990/40/section/75) and [S.I. 1991/330](https://www.legislation.gov.uk/uksi/1991/330), [art. 4](https://www.legislation.gov.uk/uksi/1991/330/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1991/330/schedule)
+
+[^c13714071]: Marginal citation: [1977 c. 50](https://www.legislation.gov.uk/ukpga/1977/50).

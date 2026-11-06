@@ -1,0 +1,65 @@
+---
+title: Building Safety Act 2022, section 13
+act: Building Safety Act 2022
+section: '13'
+status: revised-with-pending-changes
+text_date: '2026-07-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2022/30/section/13
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Building Safety Act 2022, section 13
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 13. Local authorities and fire and rescue authorities: assistance etc to regulator[^key-ea5201df06747c7efd300787d3fc5d8d][^key-8dffcc9fca3587d60e30946f5932cb9b]
+
+*Extent: E+W*
+
+(1) A relevant authority may at the request of the regulator do anything for the purpose of—
+
+- (a) facilitating the exercise by the regulator of a relevant function, or
+- (b) enabling the relevant authority to facilitate the exercise by the regulator of a relevant function.
+
+(2) The regulator may, for a purpose mentioned in paragraph (a) or (b) of subsection (1), direct a relevant authority to do anything specified in the direction.
+
+(3) The direction may specify the way in which, and the time by which, the thing is to be done.
+
+(4) A direction—
+
+- (a) may be given only if the regulator considers that it is expedient for the authority to do the specified thing, and
+- (b) must state how, in the regulator’s opinion, the doing of the thing will facilitate the exercise of a relevant function or enable the authority to facilitate that exercise.
+
+(5) A direction may be given only with the consent of the Secretary of State.
+
+(6) Before giving a direction, the regulator must—
+
+- (a) make a written request under subsection (1) for the authority to do the thing, and
+- (b) have regard to any written representations made by the authority in the period specified in the request.
+
+(7) A request under subsection (6)(a) must—
+
+- (a) state that the regulator may seek consent to give a direction under this section if the request is not complied with,
+- (b) state how, in the regulator’s opinion, the doing of the thing will facilitate the exercise of a relevant function or enable the authority to facilitate that exercise, and
+- (c) specify a reasonable period for the authority to make any representations as to why it should not do the thing requested.
+
+(8) In this section—
+
+- “**relevant authority**” means a local authority or fire and rescue authority;
+- “**relevant function**” means—
+  - (a) a function of the regulator relating to—
+    - (i) the regulation of higher-risk buildings (within the meaning of the Building Act 1984 or Part 4 of this Act), or
+    - (ii) higher-risk building work (as defined by section 91ZA of the Building Act 1984), or
+  - (b) in the case of a local authority, a function of the regulator relating to the regulation of any work for which the regulator is the building control authority by virtue of section 91ZB of the Building Act 1984.
+
+(9) A direction or consent under this section must be in writing.
+
+## Annotations
+
+[^key-ea5201df06747c7efd300787d3fc5d8d]: Commencement: S. 13 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+
+[^key-8dffcc9fca3587d60e30946f5932cb9b]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/30/section/13) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/b)

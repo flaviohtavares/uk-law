@@ -1,0 +1,177 @@
+---
+title: The Royal Navy Terms of Service (Ratings) Regulations 2006
+id: uksi/2006/2918
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2006-11-03'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2006/2918
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/2918/pdfs/uksiem_20062918_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/2918/pdfs/uksi_20062918_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/2918/made/data.pdf
+pending_changes: 54
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Royal Navy Terms of Service (Ratings) Regulations 2006
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2006 No. 2918
+
+DEFENCE
+
+The Royal Navy Terms of Service (Ratings) Regulations 2006
+
+Made
+
+3rd November 2006
+
+Laid before Parliament
+
+9th November 2006
+
+Coming into force
+
+1st December 2006
+
+The Defence Council, in exercise of the powers conferred by section 2 of the Armed Forces Act 1966[^f00001], hereby make the following Regulations:—
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Royal Navy Terms of Service (Ratings) Regulations 2006 and shall come into force on 1st December 2006.
+
+## 2. Application and interpretation
+
+(1) These Regulations shall apply to entry in the Royal Navy as a rating and to the terms of service of persons who have so entered.
+
+(2) In these Regulations, unless the context otherwise requires—
+
+- “commanding officer” means the commanding officer of the ship, establishment or unit in which the person in question is serving;
+- “competent naval authority” means—
+  - (i) the Defence Council;
+  - (ii) the Admiralty Board;
+  - (iii) the authorities specified in Schedule 1 hereto;
+- “the reserve” means the Royal Fleet Reserve.
+
+(3) Reference in these Regulations to any person as the holder of an office shall in the event of a change in the title or abolition of that office be construed as a reference to the person who after such change or abolition shall exercise the functions previously exercised by such person referred to in these Regulations.
+
+## 3. Duration of terms of service
+
+(1) A person may be entered in the Royal Navy for a term beginning with the date of his entry to service in the Royal Navy and ending 18 years after that date or on the date of his 40th birthday, whichever is the later.
+
+(2) Alternatively, a person may be entered in the Royal Navy for a term expiring on a date falling between 6 months and 17 years after the date of his entry to the Royal Navy.
+
+(3) The term for which a person may be entered may be a term of service wholly in the Royal Navy or may be a term of service partly in the Royal Navy and partly in the reserve.
+
+## 4. Right to transfer to the reserve
+
+(1) Subject to regulation 5, a person who is serving in the Royal Navy for a term of 4 or more years may give 12 months’ notice in writing to his commanding officer of his desire to be transferred to the reserve and he shall, upon expiration of such notice, be so transferred.
+
+(2) No such notice may be given until the expiration of 2 years and 6 months from the date he completed his period of initial training.
+
+**5.** A person who consents in writing to be restricted in the exercise of the right conferred by regulation 4 to give 12 months’ notice of his desire to be transferred to the reserve, in consideration of being permitted to undergo a course of instruction or receiving any other benefit or advantage, shall not exercise such right before the expiration of the period specified in such consent.
+
+## 6. Service in the reserve
+
+A person transferred to the reserve in consequence of the exercise of a right conferred by regulation 4 shall serve in the reserve until the expiration of the term for which he was entered to serve in the Royal Navy or for such shorter period as the competent naval authority may, in his case, determine.
+
+## 7. Right of recruit to claim discharge
+
+(1) Subject to the following provisions of this regulation, a person who enters the Royal Navy who has not previously so entered shall have the right to determine his service by giving notice in writing to his commanding officer.
+
+(2) The notice referred to in paragraph (1) shall not have effect unless it is given after the recruit has completed 28 days’ service and before the expiration of 6 months beginning with the date he entered service with the Royal Navy.
+
+(3) Subject to paragraph (4), a person claiming his discharge by virtue of paragraph (1) shall be entitled to be discharged at the end of a period of 14 days beginning with the date on which he gave notice.
+
+(4) If such notice expires at a time when ratings may be retained in service under the powers conferred by section 4 of the Armed Forces Act 1966 (postponement in certain cases of discharge of ratings), he shall not be entitled to be discharged so long as ratings are so retained.
+
+(5) In calculating any period of time referred to in this regulation, no account shall be taken of any day during the whole or part of which the person was absent either on leave or for an unauthorised purpose.
+
+## 8. Continuance in service
+
+(1) A person entered in the Royal Navy for a term of service in accordance with regulation 3(1) or a person entered for a term of service which began before the commencement of these Regulations may, at any time during the term for which he is entered, give to his commanding officer notice in writing of his desire to continue to serve in the Royal Navy after the end of that term for such period as, subject to paragraph 4 of this regulation, may be specified in the notice and, if the competent naval authority approve, he may, after the end of that term, continue to serve in the Royal Navy for the period specified in the notice in all respects as if that term were still unexpired and he shall not then be entitled at the expiration of that term to leave the Royal Navy unless he has previously given 12 months’ notice in writing to his commanding officer of that intention.
+
+(2) A person who continues to serve in the Royal Navy in accordance with paragraph (1) of this regulation may, before the date on which the period for which he is so continued will end, give to his commanding officer notice in writing of his desire to continue to serve further in the Royal Navy after that date for such period as, subject to paragraph 4 of this regulation, may be specified in the notice, and, if the competent naval authority approve, he may after that date continue to serve in the Royal Navy for the period specified in the notice in all respects as if the term for which he was previously continued were still unexpired.
+
+(3) Paragraph (2) of this regulation shall apply to persons who continue to serve in the Royal Navy thereunder as it applies to such persons continued in service under paragraph (1) of this regulation.
+
+(4) Subject to the approval of the competent naval authority, a person may continue to serve in the Royal Navy for any period of 12 or more months up to a maximum of 15 years from the date his service would otherwise have ended under the term for which he was originally entered to serve in the Royal Navy.
+
+(5) Where a person continues to serve in the Royal Navy under this regulation he may, subject to paragraph (6) of this regulation, give 12 months’ notice in writing to his commanding officer of his desire to be discharged and he shall, upon the expiration of such notice, or upon the expiration of a period of 12 months’ notice given by him to his commanding officer at any time during the last 12 months’ service of the original term, be so discharged.
+
+(6) A person who consents in writing to be restricted in the exercise of the right conferred by paragraph (5) of this regulation to give 12 months’ notice, in consideration of being permitted to undergo a course of instruction or receiving any other benefit or advantage, shall not exercise such right before the expiration of the period specified in such consent.
+
+## 9. Forms
+
+The competent naval authority shall publish and provide forms of consents and notices for the purposes of these Regulations and references in these Regulations to consents or notices shall be construed as referring to such forms or to forms substantially to the like effect.
+
+## 10. Savings
+
+(1) Subject to paragraph (2) of this regulation, these Regulations shall not affect the term of service (either as respects duration or as respects liability to service in the Royal Navy or any liability to serve in the reserve) of any person serving in the Royal Navy immediately before the commencement of these Regulations.
+
+(2) A person who was serving in the Royal Navy immediately before the commencement of these Regulations may be continued in service pursuant to regulation 8.
+
+## 11. Revocations
+
+The Regulations specified in Schedule 2 are hereby revoked.
+
+On behalf of the Defence Council
+
+Derek Twigg
+
+Jonathon Band
+
+Members of the Defence Council
+
+3rd November 2006
+
+## SCHEDULE 1 — COMPETENT NAVAL AUTHORITIES
+
+Regulation 2
+
+| ***Column 1*** | ***Column 2*** | ***Column 3*** |
+| --- | --- | --- |
+| Regulation 6 | For the purpose of determining length of service in the reserve. | The Naval Secretary. |
+|  |  |  |
+| Regulation 8 | For the purpose of approving the continuance in service of a person in the Royal Navy. | The Naval Secretary.<br>The Director of Naval Career Management.<br>Commanding Officers of HM Establishments and Ships. |
+|  |  |  |
+| Regulation 9 | For the purpose of publishing and providing forms of consent and notices under these Regulations. | The Naval Secretary. |
+
+## SCHEDULE 2 — REGULATIONS REVOKED BY REGULATION 11
+
+| ***Title*** | ***Year and Number*** |
+| --- | --- |
+| The Royal Navy Terms of Service (Ratings) Regulations 1982 | [S.I. 1982/834](https://www.legislation.gov.uk/uksi/1982/834) |
+| The Royal Navy Terms of Service (Ratings)(Amendment) Regulations 1983 | [S.I. 1983/897](https://www.legislation.gov.uk/uksi/1983/897) |
+| The Royal Navy Terms of Service (Ratings)(Amendment) Regulations 1985 | [S.I. 1985/2003](https://www.legislation.gov.uk/uksi/1985/2003) |
+| The Royal Navy Terms of Service (Ratings)(Amendment) Regulations 1986 | [S.I. 1986/2074](https://www.legislation.gov.uk/uksi/1986/2074) |
+| The Royal Navy Terms of Service (Ratings)(Amendment) Regulations 2000 | [S.I. 2000/1771](https://www.legislation.gov.uk/uksi/2000/1771) |
+| The Royal Navy Terms of Service (Ratings)(Amendment) Regulations 2001 | [S.I. 2001/1521](https://www.legislation.gov.uk/uksi/2001/1521) |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision as to terms of service for ratings in the Royal Navy.
+
+Regulation 3 provides for a term of service to be of 18 years’ duration from the date of entry to the Royal Navy or until the recruit’s 40th birthday, whichever date is later. Alternatively, recruits to the Royal Navy may enter for terms of between 6 months’ and 17 years’ duration.
+
+Regulations 4, 5 and 6 enable persons in the Royal Navy to transfer to the reserve. Such rights can be restricted by agreement.
+
+Regulation 7 confers the right on recruits to claim discharge from the Royal Navy in the first 6 months from the date of entry to the Service.
+
+Regulation 8 enables persons who have completed periods of service in the Royal Navy to remain in the Service for further periods of at least 12 months but not exceeding 15 years in total.
+
+Regulation 10 is a saving provision the effect of which is that a person who entered the Royal Navy before the commencement of these Regulations is not affected by them, except that he may be continued in service in the Royal Navy under regulation 8.
+
+Regulation 11 revokes the Royal Navy Terms of Service (Ratings) Regulations 1982 and the subsequent amending Regulations set out in Schedule 2.
+
+## Annotations
+
+[^f00001]: Footnote: [1966 c.45](https://www.legislation.gov.uk/ukpga/1966/45); section 2(1)(f) was amended by section 2 of the Armed Forces Act [1976 (c.52)](https://www.legislation.gov.uk/ukpga/1976/52). Other amendments have been made to section 2 which are not relevant to these Regulations.

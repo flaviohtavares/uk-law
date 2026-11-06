@@ -1,0 +1,300 @@
+---
+title: The Corporation Tax (Surrender of Terminal Losses on Films and Claims for Relief) Regulations 2007
+id: uksi/2007/678
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2007-03-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2007/678
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/678/pdfs/uksiem_20070678_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/678/pdfs/uksi_20070678_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/678/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Corporation Tax (Surrender of Terminal Losses on Films and Claims for Relief) Regulations 2007
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2007 No. 678
+
+corporation tax
+
+The Corporation Tax (Surrender of Terminal Losses on Films and Claims for Relief) Regulations 2007
+
+Made
+
+5th March 2007
+
+Laid before the House of Commons
+
+6th March 2007
+
+Coming into force
+
+27th March 2007
+
+The Treasury make the following Regulations in exercise of the powers conferred by section 45(5) of the Finance Act 2006[^f00001].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Corporation Tax (Surrender of Terminal Losses on Films and Claims for Relief) Regulations 2007 and shall come into force on 27th March 2007.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “FA” followed by a year means the Finance Act of that year;
+- “TMA” means the Taxes Management Act 1970[^f00002]; and
+- “Part 8” means Part 8 of Schedule 18 to FA 1998[^f00003] (claims for group relief).
+
+## 3. Provision corresponding to Part 8 of Schedule 18 to FA 1998
+
+The provision made by regulations 4 to 15 corresponds to the provision made by Part 8.
+
+The Table below shows the correspondence between those regulations and the paragraphs of Part 8.
+
+Table
+
+| Regulation | Paragraph of Part 8 to which the regulation corresponds |
+| --- | --- |
+| 4 | 66 (introduction) |
+| 5 | 67 (claims to be included in company tax return) |
+| 6 | 68 (content of claims) |
+| 7 | 69(claims for more or less than the amount available for surrender) |
+| 8 | 70 (consent to surrender) |
+| 9 | 71 (notice of consent) |
+| 10 | 72 (notice of consent requiring amendment of return) |
+| 11 | 73 (withdrawal or amendment of claim) |
+| 12 | 74 (time limit for claims) |
+| 13 | 75 (reduction in amount available for surrender) |
+| 14 | 75A (assessment on other claimant companies)[^f00004] |
+| 15 | 76 (assessment to recover excessive group relief) |
+
+## 4. Introduction of provisions on claims for relief in respect of terminal losses
+
+Regulations 5 to 15 apply to claims for relief made by virtue of section 45(3) of FA 2006 (terminal losses of company A may be surrendered to company B and treated as a loss of company B).
+
+## 5. Claim to be included in company B’s return
+
+(1) A claim to treat the terminal loss surrendered by company A as if it were a loss brought forward by company B must be included in company B’s tax return for the accounting period for which the claim is made.
+
+(2) It may be included in the return originally made or by amendment.
+
+## 6. Content of claims
+
+(1) A claim to treat the terminal loss surrendered by company A as if it were a loss brought forward by company B must specify—
+
+- (a) the amount of relief claimed, and
+- (b) the name of company A.
+
+(2) The amount specified must be an amount which is quantified at the time the claim is made.
+
+(3) A claim to treat the terminal loss surrendered by company A as if it were a loss brought forward by company B must also state whether or not there is a company mentioned in paragraph (4) that was not resident in the United Kingdom in either or both of the following periods—
+
+- (a) the accounting period of company A to which the surrender relates,
+- (b) the corresponding accounting period of company B.
+
+(4) Those companies are company A, company B and any other company by reference to which company A or company B are members of the same group.
+
+## 7. Claims for more or less than the terminal loss available for surrender
+
+(1) A claim to treat the terminal loss surrendered by company A as if it were a loss brought forward by company B may be made for less than the amount available for surrender at the time the claim is made.
+
+(2) A claim is ineffective if the amount claimed exceeds the terminal loss available for surrender at the time the claim is made.
+
+(3) For these purposes the terminal loss available for surrender is calculated as follows, subject to paragraphs (4) and (5).
+
+First step
+
+Determine the total amount available for surrender under section 45 of FA 2006—
+
+- (a) on the basis of the information in company A’s company tax return, and
+- (b) disregarding any amendments whose effect is deferred under paragraph31(3) of Schedule 18 to FA 1998.
+
+Second step
+
+Then deduct the total of all amounts for which notices of consent have been given by company A and not withdrawn.
+
+(4) Where one or more claims are withdrawn on the same day as one or more claims are made, the withdrawals are given effect first.
+
+(5) Where more than one claim is made on the same day, and the claims together take the amount claimed over the limit of what is available for surrender, an officer of Revenue and Customs may determine which of the claims is to be ineffective.
+
+## 8. Consent to surrender
+
+(1) A claim for terminal loss surrendered by company A as if it were a loss brought forward by company B requires the consent of company A.
+
+(2) The necessary consent must be given—
+
+- (a) by notice in writing,
+- (b) to the officer of Revenue and Customs to whom company A makes its company tax returns,
+- (c) at or before the time the claim is made.
+
+Otherwise the claim is ineffective.
+
+(3) A claim to treat the terminal loss surrendered by company A as if it were a loss brought forward by company B is ineffective unless it is accompanied by a copy of the notice of consent to surrender given by company A.
+
+## 9. Notice of consent
+
+(1) Notice of consent by company A must contain all of the following details—
+
+- (a) the name of company A;
+- (b) the name of company B;
+- (c) the amount of the terminal loss being surrendered;
+- (d) the accounting period of company A to which the surrender relates;
+- (e) the tax district references of company A and company B.
+
+Otherwise the notice is ineffective.
+
+(2) A notice of consent may not be amended, but it may be withdrawn and replaced by another notice of consent.
+
+(3) A notice of consent may be withdrawn by notice to the officer of Revenue and Customs to whom the notice of consent was given.
+
+(4) Except where the consent is withdrawn under regulation 13 (withdrawal in consequence of reduction of the amount available for surrender), the notice of withdrawal must be accompanied by a notice signifying the consent of company B to the withdrawal.
+
+Otherwise the notice is ineffective.
+
+(5) Company B must, so far as it may do so, amend its company tax return for the accounting period for which the claim was made so as to reflect the withdrawal of consent.
+
+## 10. Notice of consent requiring amendment of return
+
+(1) Where notice of consent by company A is given after that company has made a company tax return for the period to which the surrender relates, company A must at the same time amend its return so as to reflect the notice of consent.
+
+(2) Where a notice of consent given by company A relates to a loss in respect of which relief has been given to company A, company A must at the same time amend its tax return for the period or, if more than one, each of the periods in which relief for that loss has been given in accordance with section 45(2) of FA 2006 so as to reflect the new notice of consent.
+
+(3) The time limits otherwise applicable to amendment of a company tax return do not prevent an amendment being made under paragraph (1) or (2).
+
+(4) But if company A fails to comply with paragraph (1) or (2), the notice of consent is ineffective.
+
+## 11. Withdrawal or amendment of claim
+
+(1) A claim to treat the terminal loss surrendered by company A as if it were a loss brought forward by company B may be withdrawn by company B only by amending its company tax return.
+
+(2) A claim to treat the terminal loss surrendered by company A as if it were a loss brought forward by company B may not be amended by company B, but must be withdrawn and replaced by another claim.
+
+## 12. Time limit for claims
+
+(1) A claim to treat the terminal loss surrendered by company A as if it were a loss brought forward by company B may be withdrawn by company B at any time up to whichever is the last of the following dates—
+
+- (a) the first anniversary of the filing date for the company tax return of company B for the accounting period for which the claim is made;
+- (b) if notice of enquiry is given into that return, 30 days after the enquiry is completed;
+- (c) if after such an enquiry an officer of Revenue and Customs amends the return under paragraph 34(2) of Schedule 18 to FA 1998, 30 days after the date on which the amendment is issued;
+- (d) if an appeal is brought against such an amendment, 30 days after the date on which the appeal is finally determined.
+
+(2) A claim to treat the terminal loss surrendered by company A as if it were a loss brought forward by company B may be made or withdrawn at a later time if an officer of Revenue and Customs allows it.
+
+(3) The time limits otherwise applicable to amendment of a company tax return do not apply to an amendment to the extent that it makes or withdraws a claim to treat the terminal loss surrendered by company A as if it were a loss brought forward by company B within the time allowed by this regulation.
+
+(4) The references in paragraph (1) to an enquiry into a company tax return do not include an enquiry restricted to a previous amendment making or withdrawing a claim to treat the terminal loss surrendered by company A as if it were a loss brought forward by company B.
+
+An enquiry is so restricted if—
+
+- (a) the scope of the enquiry is limited as mentioned in paragraph 25(2) of Schedule 18 to FA 1998 (limiting scope of enquiry into a company tax return);
+- (b) the amendment giving rise to the enquiry consisted of the making or withdrawal of a claim to treat the terminal loss surrendered by company A as if it were a loss brought forward by company B.
+
+## 13. Reduction in amount available for surrender
+
+(1) This regulation applies if, after company A has given one or more notices of consent to a claim by company B to treat the terminal loss surrendered by company A as if it were a loss brought forward by company B, the total available to be so treated is reduced to less than the amount stated in the notice, or the total amount of the amounts stated in the notices, as being available to be so treated.
+
+(2) Company A must within 30 days withdraw the notice of consent, or as many of the notices as is necessary to bring the total amount surrendered within the new total amount available to be treated as a loss carried forward by company B, and may give one or more new notices of consent.
+
+(3) Company A must give notice in writing of the withdrawal of consent, and send a copy of any new notice of consent—
+
+- (a) to each of the companies affected; and
+- (b) to an officer of Revenue and Customs.
+
+(4) If company A fails to act in accordance with paragraph (2) an officer of Revenue and Customs may by notice to company A give such directions as he thinks fit as to which notice or notices are to be ineffective or are to have effect in a lesser amount.
+
+The power shall not be exercised to any greater extent than is necessary to secure that the total amount stated in the notice or notices is consistent with the total amount available to be treated as a loss carried forward by company B by virtue of section 45 of FA 2006.
+
+(5) An officer of Revenue and Customs must at the same time send a copy of the notice to company B.
+
+(6) Company B upon receipt of—
+
+- (a) a notice of the withdrawal of consent, or a copy of a new notice of consent under paragraph (3), or
+- (b) a copy of a notice containing directions by an officer of Revenue and Customs under paragraph (4),
+
+must, so far as it may do so, amend its company tax return for the accounting period for which the claim is made so that it is consistent with the new position with regard to consent to surrender.
+
+(7) Company A may appeal against any directions given by an officer of Revenue and Customs under paragraph (4).
+
+(8) Notice of appeal must be given—
+
+- (a) in writing,
+- (b) within 30 days after the notice containing the directions was issued,
+- (c) to the officer of Revenue and Customs by whom the notice was given.
+
+## 14. Assessment on other claimant companies
+
+(1) This regulation applies where, after company A has given notice of consent to surrender, company B has become liable to tax in consequence of receiving—
+
+- (a) notice of the withdrawal of consent, or a copy of a new notice of consent under regulation 13(3); or
+- (b) a copy of a notice containing directions by an officer of Revenue and Customs under regulation 13(4).
+
+(2) If any of the tax is unpaid six months after company B’s time limit for claims, an officer of Revenue and Customs may make an assessment to tax in the name of company B on any other company which has obtained relief as a result of the surrender.
+
+(3) The assessment must not be made more than two years after that time limit.
+
+(4) The amount of the assessment must not exceed—
+
+- (a) the amount of the unpaid tax, or
+- (b) if less, the amount of tax which the other company saves by virtue of the surrender.
+
+(5) A company assessed to an amount of tax under paragraph (2) is entitled to recover from company B—
+
+- (a) a sum equal to that amount, and
+- (b) any interest on that amount which it has paid under section 87A of TMA (interest on unpaid corporation tax)[^f00005].
+
+(6) For the purposes of this regulation company B’s time limit for claims is the last of the dates mentioned in regulation 12(1) on which company B could make or withdraw a claim to treat the terminal loss surrendered by company A as if it were a loss brought forward by company B.
+
+## 15. Assessment to recover excess relief
+
+(1) If an officer of Revenue and Customs discovers that any relief given in respect of a claim by company B to treat the terminal loss surrendered by company A as if it were a loss brought forward by company B is or has become excessive, he may make an assessment to tax which in his opinion ought to be charged.
+
+(2) This power—
+
+- (a) is in addition to the power to make a discovery assessment under paragraph 41(1) of Schedule 18 to FA 1998; and
+- (b) does not prevent the making of such adjustments by way of discharge or repayment of tax or otherwise as may be required where company B has obtained too much relief, or company A has forgone relief in respect of a corresponding amount.
+
+(3) If an assessment under this regulation is made because company B fails, or is unable, to amend its company tax return under regulation 13(6), the assessment is not out of time if it is made within one year from—
+
+- (a) the date on which company A gives notice of the withdrawal of consent, or (if later) sends a new notice of consent, to company B under regulation 13(3), or
+- (b) the date on which an officer of Revenue and Customs sends the company B a copy of a notice containing his directions under regulation 13(4).
+
+Frank Roy
+
+Claire Ward
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+5th March 2007
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision corresponding, for the purposes of terminal loss relief in respect of films to which section 45 of the Finance Act 2006 applies, to that contained in Part 8 of Schedule 18 to the Finance Act 1998 (“Part 8”).
+
+Regulation 1 provides for citation and commencement, and regulation 2 for interpretation.
+
+Regulation 3 introduces the provisions corresponding to Part 8, which are set out in regulations 4 to 15, each of the regulations corresponding to one of the existing paragraphs of that Part and set out in the same order as in that Part.
+
+A regulatory impact analysis has been prepared in relation to the provisions of the Finance Act 2006 dealing with the taxation of film production and is available on HM Treasury’s website at http://www.hm-treasury.gov.uk/media/1E6/1B/bud06\_rias\_896.pdf.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 25](https://www.legislation.gov.uk/ukpga/2006/25).
+
+[^f00002]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
+
+[^f00003]: Footnote: [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36).
+
+[^f00004]: Footnote: Paragraph 75A was inserted by section 92 of the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), and amended by paragraph 68(a) of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11).
+
+[^f00005]: Footnote: Inserted by section 85 of F(No. 2)A[1987 (c. 51)](https://www.legislation.gov.uk/ukpga/1987/51) and amended by paragraph 10 of Schedule 29 to the Income and Corporation Taxes Act [1988 (c. 1)](https://www.legislation.gov.uk/ukpga/1988/1),.section 179 of FA [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), paragraph 2 of Schedule 15 to FA [1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31) paragraph 2(9) of Schedule 10 to the Taxation of Chargeable Gains Act [1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), paragraph 1 of Schedule 18 to FA [1993 (c.34)](https://www.legislation.gov.uk/ukpga/1993/34), paragraph 24 of Schedule 19 to FA [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), paragraphs 7, 8 and 9of Schedule 24 to FA [1995(c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), paragraph 1(1)(a) of Schedule 14 to FA [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), paragraph 4 of Schedule 3, and paragraph 4 of Schedule 4, to FA [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), section 92 of FA [1999(c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), paragraph 3(4)(a) of Schedule 28, paragraph 9 of Part I of Schedule 29, and Part II(entries (11) and (12)) of Schedule 40, to FA [2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17) and paragraph 69 in Part 9 of Schedule 29 to [FA 2002.(c. 23)](https://www.legislation.gov.uk/ukpga/2002/23).

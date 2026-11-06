@@ -1,0 +1,40 @@
+---
+title: Corporation Tax Act 2010, section 647
+act: Corporation Tax Act 2010
+section: '647'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/647
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 647
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 647. Claims under section 642 or 643
+
+*Extent: E+W+S+N.I.*
+
+(1) A claim under section 642 or 643 must be made—
+
+- (a) within two years after the end of the accounting period to which it relates, or
+- (b) if it relates to part of an accounting period, within two years after the end of that accounting period.
+
+(2) A housing association must not make a claim under section 642 or 643 for an accounting period or part of an accounting period unless—
+
+- (a) the requirements in subsection (3) were complied with during that period or part, or
+- (b) the association reasonably considers that those requirements were substantially complied with during that period or part.
+
+(3) The requirements are that—
+
+- (a) no property belonging to the association was let otherwise than to a member of the association,
+- (b) only persons who were then members of the association occupied (whether solely or jointly with another person) any property, or any part of any property, let by the association,
+- (c) the association satisfied each of tests A to C in section 645 and complied with any conditions that were in force by virtue of section 645(6), and
+- (d) any covenants required to be included in grants of tenancies by those conditions were observed.
+
+(4) If a member of a housing association dies and another person occupies a property, or part of a property, in accordance with the member's will or the provisions applicable on the member's intestacy, that person's occupation during the first 6 months after the death does not infringe the requirement in subsection (3)(b).

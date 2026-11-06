@@ -1,0 +1,109 @@
+---
+title: The Civil Procedure (Amendment No. 5) (Coronavirus) Rules 2020
+id: uksi/2020/889
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-08-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/889
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/889/pdfs/uksiem_20200889_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/889/pdfs/uksi_20200889_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/889/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Procedure (Amendment No. 5) (Coronavirus) Rules 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 889 (L. 20)
+
+Senior Courts Of England And Wales
+
+County Court, England And Wales
+
+The Civil Procedure (Amendment No. 5) (Coronavirus) Rules 2020
+
+Made
+
+21st August 2020
+
+Coming into force
+
+22nd August 2020
+
+Laid before Parliament
+
+24th August 2020
+
+The Civil Procedure Rule Committee, having power under section 2 of the Civil Procedure Act 1997[^f00001] to make rules of court under section 1 of that Act, and having fulfilled the requirements of section 2(6) of that Act, makes the following Rules.
+
+## 1. Citation and Commencement
+
+These Rules may be cited as the Civil Procedure (Amendment No. 5) (Coronavirus) Rules 2020 and come into force on 22nd August 2020.
+
+## 2. Amendment of the Procedure Rules 1998
+
+In Part 55 of the Civil Procedure Rules 1998[^f00002], in rule 55.29, in paragraph (1)—
+
+- (a) for “22nd August 2020”, substitute “19 September 2020”; and
+- (b) for “23rd August 2020”, substitute “20 September 2020”.
+
+## 3. Amendment of the Civil Procedure (Amendment No. 3) Rules 2020
+
+The Civil Procedure (Amendment No. 3) Rules 2020[^f00003] are amended as follows—
+
+- (a) in rule 1, in paragraph (3), for “23rd August 2020”, substitute “20th September 2020”; and
+- (b) in rule 2, in paragraph (2), for “24th August 2020”, substitute “21st September 2020”.
+
+The Right Honourable Sir Terence Etherton, MR
+
+Mr Justice Birrs
+
+Mr Justice Kerr
+
+His Honour Judge Jarman QC
+
+Richard Viney
+
+Dr Anja Lansbergen-Mills
+
+Brett Dixon
+
+David Marshall
+
+Lizzie Iron
+
+I allow these Rules
+
+Robert Buckland
+
+Lord Chancellor
+
+Ministry of Justice
+
+21st August 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These Rules amend the Civil Procedure Rules 1998 ([SI 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132)) to amend rule 55.29, which provides that possession proceedings and enforcement proceedings by way of writ and warrant for possession are stayed until 23rd August 2020. This amendment extends the stay imposed by this temporary rule until 20th September 2020. This applies to proceedings that were stayed immediately prior to the date that rule 55.29 first came into force, those brought after that rule came into force and those brought after this amendment comes into force and on or before 19th September 2020.
+
+These Rules also make consequential amendments to the Civil Procedure Rules (Amendment No. 3) Rules ([SI 2020//747](https://www.legislation.gov.uk/uksi/2020/747)) following the amendment to rule 55.29.
+
+As this is temporary, emergency legislation, no formal impact assessment is required for Better Regulation purposes.
+
+## Annotations
+
+[^f00001]: Footnote: [1997 c.12](https://www.legislation.gov.uk/ukpga/1997/12). Section 2(1) was substituted by the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4), section 15 and Schedule 4 Part 1. Section 1(3) was substituted by section 82(1) of the Courts Act [2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39) and further amended by the Constitutional Reform Act 2005 sections 15, 146, Schedule 4 Part 1 and Schedule 18, Part 2.
+
+[^f00002]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132). Part 55 was inserted by [S.I. 2001/256](https://www.legislation.gov.uk/uksi/2001/256). Rule 55.29 was inserted by [S.I. 2020/582](https://www.legislation.gov.uk/uksi/2020/582). Part 55 was further amended by [S.I. 2020/751](https://www.legislation.gov.uk/uksi/2020/751). There are other amending instruments but none is relevant.
+
+[^f00003]: Footnote: [S.I. 2020/747](https://www.legislation.gov.uk/uksi/2020/747).

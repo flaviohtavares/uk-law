@@ -1,0 +1,45 @@
+---
+title: Income Tax (Trading and Other Income) Act 2005, section 437
+act: Income Tax (Trading and Other Income) Act 2005
+section: '437'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2005/5/section/437
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Trading and Other Income) Act 2005, section 437
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 437. Transactions which are disposals
+
+*Extent: E+W+S+N.I.*
+
+(1) References in this Chapter to the disposal of a deeply discounted security are—
+
+- (a) to its redemption,
+- (b) to its transfer by sale, exchange, gift or otherwise, including a transfer treated as made by subsection (3), and
+- (c) so far as not covered by paragraph (a) or (b), to its conversion under its terms into shares in a company or other securities (including other deeply discounted securities).
+
+(2) The person treated as making a disposal is—
+
+- (a) in the case of a disposal within subsection (1)(a), the person entitled as the security's holder to any payment on the disposal,
+- (b) in the case of a disposal within subsection (1)(b), the transferor, and
+- (c) in the case of a disposal within subsection (1)(c), the person who would be entitled as the security's holder to any payment on the disposal, if such a payment were made.
+
+(3) A person who dies while entitled to a deeply discounted security is treated as transferring it immediately before death to the personal representatives.
+
+(4) In the case of strips, further provision about occasions counting as disposals is made by section 445(2) and (6)(a).
+
+(5)[^c19095751] In the case of interest-bearing corporate securities, further provision about occasions counting as disposals is made by section 452F(2)(a).
+
+(6) In the case of corporate strips, further provision about occasions counting as disposals is made by section 452F(2)(a) and (3)(a).
+
+## Annotations
+
+[^c19095751]: Textual amendment: S. 437(5)(6) inserted (retrospectively) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 39](https://www.legislation.gov.uk/ukpga/2005/22/section/39), [Sch. 7 para. 25(3)(10)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/7/paragraph/25/3/10)

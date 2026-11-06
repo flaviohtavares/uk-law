@@ -1,0 +1,96 @@
+---
+title: Finance Act 2013, section 61
+act: Finance Act 2013
+section: '61'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2013/29/section/61
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2013, section 61
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 61. Effect of disincorporation relief
+
+*Extent: E+W+S+N.I.*
+
+(1) In Part 5 of TCGA 1992 (transfer of business assets), in Chapter 1 (general provisions), after section 162A insert—
+
+> **Transfer of business from company to shareholders**
+>
+> **162B. Disincorporation relief: assets (including pre-FA 2002 goodwill)**
+>
+> (1) This section applies where—
+>
+> - (a) a company transfers its business to some or all of the shareholders of the company, and
+> - (b) a claim for disincorporation relief in respect of the transfer has been made under section 58 of the Finance Act 2013.
+>
+> (2) The disposal and acquisition of any qualifying asset of the business included in the transfer is to be deemed to be for a consideration equal to the lower of—
+>
+> - (a) the sums allowable under section 38 as a deduction in the computation of the gain accruing to the company on the disposal of the asset in question, and
+> - (b) the market value of the asset.
+>
+> (3) In subsection (2) a “**qualifying asset**” means—
+>
+> - (a) goodwill, or
+> - (b) an interest in land which is not held as trading stock.
+>
+> (4) But subsection (2) does not apply to the goodwill of the business if section 162C applies to it.
+>
+> **162C. Disincorporation relief: post-FA 2002 goodwill**
+>
+> (1) This section applies where—
+>
+> - (a) a company transfers its business to some or all of the shareholders of the company,
+> - (b) a claim for disincorporation relief in respect of the transfer has been made under section 58 of the Finance Act 2013, and
+> - (c) section 849A of CTA 2009 (disincorporation relief: transfer values for post-FA 2002 goodwill) applies to the transfer of the goodwill of the business.
+>
+> (2) The acquisition of the goodwill of the business is deemed to be for a consideration equal to the value at which the goodwill is treated as transferred by virtue of section 849A of CTA 2009.
+
+(2) In Part 8 of CTA 2009 (intangible fixed assets), Chapter 13 (transactions between related parties) is amended as follows.
+
+(3) In section 844 (overview of Chapter), in subsection (2) for “849” substitute “ 849A ”.
+
+(4) In section 845 (transfer between company and related party treated as at market value), in subsection (4) (exceptions to basic rule)—
+
+- (a) omit the “and” at the end of paragraph (ca), and
+- (b) after paragraph (d) insert
+
+  > , and
+  >
+  > - (e) section 849A (disincorporation relief: transfer values for post-FA 2002 goodwill).
+
+(5) After section 849 insert—
+
+> **849A. Disincorporation relief: transfer values for post-FA 2002 goodwill**
+>
+> (1) This section applies where—
+>
+> - (a) a company transfers its business to some or all of the shareholders of the company, and
+> - (b) a claim for disincorporation relief in respect of the transfer has been made under section 58 of the Finance Act 2013.
+>
+> (2) If section 735 applies to the transfer of the goodwill of the business, the transfer is treated for the purposes of this Part as being at the lower of—
+>
+> - (a) the tax written-down value of the goodwill, and
+> - (b) its market value.
+>
+> (3) If section 736 applies to the transfer of the goodwill of the business, the transfer is treated for the purposes of this Part as being at the lower of—
+>
+> - (a) the cost of the goodwill, and
+> - (b) its market value.
+>
+> (4) If section 738 applies to the transfer of the goodwill of the business, the proceeds of realisation of the goodwill are treated for the purposes of this Part as being nil.
+>
+> (5) In subsection (2)(a) the reference to the tax written-down value of the goodwill is to its tax written-down value immediately before the transfer.
+>
+> (6) In subsection (3)(a) “**the cost of the goodwill**” means the cost recognised for tax purposes (determined in accordance with section 736(6) and (7)).
+>
+> (7) In this section market value has the meaning given in section 845(5).
+
+(6) The amendments made by this section have effect in relation to a transfer of a business with a business transfer date of 1 April 2013 or a later date.

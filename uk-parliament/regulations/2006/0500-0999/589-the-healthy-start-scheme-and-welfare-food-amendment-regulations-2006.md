@@ -1,0 +1,106 @@
+---
+title: The Healthy Start Scheme and Welfare Food (Amendment) Regulations 2006
+id: uksi/2006/589
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2006-03-06'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2006/589
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/589/pdfs/uksiem_20060589_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/589/pdfs/uksi_20060589_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/589/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Healthy Start Scheme and Welfare Food (Amendment) Regulations 2006
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2006 No. 589
+
+FOOD
+
+The Healthy Start Scheme and Welfare Food (Amendment) Regulations 2006
+
+Made
+
+6th March 2006
+
+Laid before Parliament
+
+10th March 2006
+
+Coming into force
+
+6th April 2006
+
+The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 13 of the Social Security Act 1988[^f00001] and 175(2) to (5) of the Social Security Contributions and Benefits Act 1992[^f00002].
+
+In accordance with section 13(2) of the Social Security Act 1988 she has consulted with the Scottish Ministers and the National Assembly for Wales.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Healthy Start Scheme and Welfare Food (Amendment) Regulations 2006.
+
+(2) These Regulations shall come into force on 6th April 2006.
+
+(3) In these Regulations “the principal Regulations” means the Welfare Food Regulations 1996[^f00003] and “the Healthy Start Regulations” means the Healthy Start Scheme and Welfare Food (Amendment) Regulations 2005[^f00004].
+
+## 2. Amendment of the Welfare Food Regulations 1996
+
+(1) In the following provisions of the principal Regulations, for the sum of “£13,910” substitute “£14,155”—
+
+- (a) regulation 3(2)(a)(iv) and (b)(iii) (entitlement to free milk),
+- (b) regulation 4(1)(c) (child under the age of one year — entitlement to free dried milk or milk),
+- (c) regulation 5(2)(a)(iv), (b)(iv) and (c)(iii) (entitlement to free vitamins),
+- (d) regulation 6(1)(iv) (inability to obtain free vitamins), and
+- (e) paragraph 3(d) of Schedule 2A (application for free milk and vitamins for personal consumption — expectant mother).
+
+(2) In regulation 5(4)(a)(iv) of the principal Regulations (entitlement to free vitamins), for “£13,230” substitute “£14,155”.
+
+## 3. Amendment of the Healthy Start Regulations
+
+In the following provisions of the Healthy Start Regulations, for the sum of “£13,910” substitute “£14,155”—
+
+- (a) regulation 3(3)(a)(iii), (d)(iii) and (e) (entitlement to benefit), and
+- (b) paragraph 4(1)(a)(iii) of Schedule 2 (application for benefit).
+
+Signed by authority of the Secretary of State for Health.
+
+Caroline Flint
+
+Parliamentary Under Secretary of State,
+
+Department of Health
+
+6th March 2006
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Welfare Food Regulations 1996[^f00005] (“the principal Regulations”) and amend the Healthy Start Scheme and Welfare Food (Amendment) Regulations 2005[^f00006] (“the Healthy Start Regulations”) to increase the limits for entitlement to benefit.
+
+Regulation 2(1) raises from £13,910 to £14,155 the figure for the upper income level that determines whether a person receiving child tax credit but not working tax credit and who meets other conditions is entitled to benefit under the Welfare Food scheme established by the principal Regulations. Regulation 2(2) amends regulation 5(4)(a)(iv) to raise the relevant figure from £13,230 to £14,155.
+
+Regulation 3 raises from £13,910 to £14,155 the figure for the upper income level that determines whether a person receiving child tax credit but not working tax credit and who meets other conditions is entitled to benefit under the Healthy Start scheme.
+
+A full regulatory impact assessment has not been produced for this instrument as it has no impact on costs of business.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 7](https://www.legislation.gov.uk/ukpga/1988/7). Section 13 was amended by section 21(1) and (2) of, and Schedule 6, paragraph 8(11)(a) and Schedule 7 to, the Social Security Act [1990 (c. 27)](https://www.legislation.gov.uk/ukpga/1990/27), and section 4 of, and Schedule 2, paragraph 94 to, the Social Security (Consequential Provisions) Act [1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6). Section 185(1) of the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43) substituted new provisions for the existing provisions of section 13 (see the [Health and Social Care (Community Health and Standards) Act 2003 (Commencement) (No. 7) Order 2005, 2005 No. 2278 (C.95))](https://www.legislation.gov.uk/uksi/2005/2278). Savings were made by the Health and Social Care (Community Health and Standards) Act 2003 (Savings) Order 2005, S.I. [2005/2279](https://www.legislation.gov.uk/uksi/2005/2279).
+
+[^f00002]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 175(2) to (5) is applied by section 15A of the Social Security Act [1988 (c. 7)](https://www.legislation.gov.uk/ukpga/1988/7) which section was inserted by section 21(1) of, and Schedule 6, paragraph 8(10) to, the Social Security Act [1990 (c. 27)](https://www.legislation.gov.uk/ukpga/1990/27) and amended by section 4 of, and Schedule 2, paragraph 96 to, the Social Security (Consequential Provisions) Act [1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6) and section 185(2) of the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43). (See the [Health and Social Care (Community Health and Standards) Act 2003 (Commencement) (No. 7) Order 2005, 2005 No. 2278 (C.95))](https://www.legislation.gov.uk/uksi/2005/2278).
+
+[^f00003]: Footnote: S.I. [1996/1434](https://www.legislation.gov.uk/uksi/1996/1434), as amended by the Healthy Start Scheme and Welfare Food (Amendment) Regulations 2005, S.I. [2005/3262](https://www.legislation.gov.uk/uksi/2005/3262), and the Welfare Food (Amendment) Regulations 2005, S.I. [2005/688](https://www.legislation.gov.uk/uksi/2005/688).
+
+[^f00004]: Footnote: S.I. [2005/3262](https://www.legislation.gov.uk/uksi/2005/3262).
+
+[^f00005]: Footnote: S.I. [1996/1434](https://www.legislation.gov.uk/uksi/1996/1434).
+
+[^f00006]: Footnote: S.I. [2005/3262](https://www.legislation.gov.uk/uksi/2005/3262).

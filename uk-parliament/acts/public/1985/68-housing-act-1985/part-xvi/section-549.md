@@ -1,0 +1,40 @@
+---
+title: Housing Act 1985, section 549
+act: Housing Act 1985
+section: '549'
+status: revised-with-pending-changes
+text_date: '2026-10-26'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1985/68/section/549
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing Act 1985, section 549
+
+> **Warning: changes not yet applied to this text (58).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/68
+>
+> Extent: England, Wales.
+
+## 549. Interest subject to right of pre-emption &c.
+
+*Extent: E+W*
+
+(1) This section applies where a person (“**the owner**”) is entitled to assistance by way of repurchase in respect of a defective dwelling and there is a covenant relating to his interest in the dwelling whereby—
+
+- (a) before disposing of the interest he must offer to dispose of it to a public sector authority, or
+- (b) in the case of a leasehold interest, he may require a public sector authority who are his landlord to accept a surrender of the lease but is otherwise prohibited from disposing of it,
+
+(2) If the public sector authority are the local housing authority, the covenant shall be disregarded for the purposes of Schedule 20 (repurchase).
+
+(3) If the public sector authority are not the local housing authority, the provisions of this Part as to repurchase do not apply so long as there is such a covenant; but if—
+
+- (a) the owner disposes of his interest to the public sector authority in pursuance of the covenant or lease, and
+- (b) the interest acquired by that authority on the disposal subsists only in the land affected, that is to say, the defective dwelling and any garage, outhouse, garden, yard and appurtenances occupied with and used for the purposes of the dwelling or part of it,
+
+the owner is entitled to be paid by the local housing authority the amount (if any) by which 95 per cent. of the defect-free value exceeds the considaeration for the disposal.
+
+(4) For the purposes of this section—
+
+- (a) the “**consideration for the disposal**” means the amount before any reduction required by section 158(3) (reduction corresponding to amount of discount repayable or amount payable for outstanding share under shared ownership lease) or any provision to the like effect, and
+- (b) the “**defect-free value**” means the amount that would have been the consideration for the disposal if none of the defective dwellings to which the designation in question related had been affected by the qualifying defect.

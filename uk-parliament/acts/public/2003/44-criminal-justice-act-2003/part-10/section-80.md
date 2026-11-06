@@ -1,0 +1,45 @@
+---
+title: Criminal Justice Act 2003, section 80
+act: Criminal Justice Act 2003
+section: '80'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/44/section/80
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice Act 2003, section 80
+
+> **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 80. Procedure and evidence[^c19384711]
+
+*Extent: E+W+N.I.*
+
+(1) A prosecutor who wishes to make an application under section 76(1) or (2) must give notice of the application to the Court of Appeal.
+
+(2) Within two days beginning with the day on which any such notice is given, notice of the application must be served by the prosecutor on the person to whom the application relates, charging him with the offence to which it relates or, if he has been charged with it in accordance with section 87(4), stating that he has been so charged.
+
+(3) Subsection (2) applies whether the person to whom the application relates is in the United Kingdom or elsewhere, but the Court of Appeal may, on application by the prosecutor, extend the time for service under that subsection if it considers it necessary to do so because of that person’s absence from the United Kingdom.
+
+(4) The Court of Appeal must consider the application at a hearing.
+
+(5) The person to whom the application relates—
+
+- (a) is entitled to be present at the hearing, although he may be in custody, unless he is in custody elsewhere than in England and Wales or Northern Ireland, and
+- (b) is entitled to be represented at the hearing, whether he is present or not.
+
+(6) For the purposes of the application, the Court of Appeal may, if it thinks it necessary or expedient in the interests of justice—
+
+- (a) order the production of any document, exhibit or other thing, the production of which appears to the court to be necessary for the determination of the application, and
+- (b) order any witness who would be a compellable witness in proceedings pursuant to an order or declaration made on the application to attend for examination and be examined before the court.
+
+(7) The Court of Appeal may at one hearing consider more than one application (whether or not relating to the same person), but only if the offences concerned could be tried on the same indictment.
+
+## Annotations
+
+[^c19384711]: Commencement: S. 80 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/5) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))

@@ -1,0 +1,1431 @@
+---
+title: The Court Martial Appeal Court Rules 2009
+id: uksi/2009/2657
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-10-02'
+text_date: '2024-11-20'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2009/2657
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/2657/pdfs/uksiem_20092657_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2657/pdfs/uksi_20092657_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2657/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Court Martial Appeal Court Rules 2009
+
+> Text as at 2024-11-20.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2009 No. 2657
+
+Courts-martial (appeals)
+
+The Court Martial Appeal Court Rules 2009
+
+Made
+
+2nd October 2009
+
+Laid before Parliament
+
+6th October 2009
+
+Coming into force
+
+31st October 2009
+
+The Lord Chief Justice, in exercise of the power conferred by section 49 of the Courts-Martial (Appeals) Act 1968 [^c19891311], including that section as extended by section 163(9) of the Armed Forces Act 2006 [^c19891321], and with the agreement of the Lord Chancellor, makes the following Rules:
+
+## PART 1 — PRELIMINARY
+
+### 1. Citation and commencement
+
+These Rules may be cited as the Court Martial Appeal Court Rules 2009 and shall come into force on 31st October 2009.
+
+### 2. Interpretation
+
+(1) Unless otherwise stated, any reference in these Rules to a numbered section is to that section of the 1968 Act.
+
+(2) In these Rules—
+
+- “**the 1968 Act**” means the Court Martial Appeals Act 1968 [^c19891331];
+- “**the 1995 Act**” means the Criminal Appeal Act 1995 [^c19891341];
+- “**the 1998 Act**” means the Human Rights Act 1998 [^c19891351];
+- “**the 2003 Act**” means the Criminal Justice Act 2003 [^c19891361];
+- “**the 2006 Act**” means the Armed Forces Act 2006;
+- “**the 2009 Regulations**” means the Armed Forces (Review of Court Martial Sentence) (Supplementary Provision) Regulations 2009 [^c19891371];
+- “[^key-2b6ac91c2939bd806d9417ed1e1f2827]**the 2024 Regulations**” means the Armed Forces (Appeals Against Review of Sentence) Regulations 2024;
+- “**the court**” means the Court Martial Appeal Court;
+- “**the Commission**” means the Criminal Cases Review Commission;
+- “the complainant”, in relation to any offence (or alleged offence), means a person against or in relation to whom the offence was (or is alleged to have been) committed;[^key-eee5602511d17efc2fc84c2945d55701]
+- “**the court administration officer**” means the court administration officer for the Court Martial appointed under section 363 of the 2006 Act;
+- “**the custodian**” means, in relation to a person who is in custody, the person in charge of the place where he is detained;
+- “**DX**” means document exchange;
+- “**defendant**” means—
+  - (a) a person against whom a charge regarded for the purposes of Part 5 of the 2006 Act as allocated for Court Martial trial has been brought;
+  - (b) the appellant in proceedings of the Court Martial on appeal from the Service Civilian Court; or
+  - (c) a person whose retrial has been authorised by an order of the court under section 19;
+- “**the Director**” means the Director of Service Prosecutions appointed under section 364(1) of the 2006 Act and any reference to the Director in these Rules includes a reference to a prosecuting officer appointed by him under section 365(1) of the 2006 Act;
+- “**exhibit**” means any document or thing which has been produced and used in evidence at a trial by the Court Martial, whether it is attached to the proceedings of the Court Martial or not;
+- “**judge advocate**” means the judge advocate specified by or on behalf of the Judge Advocate General under section 155(5) of the 2006 Act for the proceedings to which the appeal relates;
+- “**legal representative**” means a person appointed under rule 18(1);
+- “**offender**” means a person on whom the Court Martial has passed a sentence;
+- “**person to whom proceedings relate**” means—
+  - (a) with respect to an appeal against an order or ruling made in preliminary proceedings, the defendant or offender[^key-b6b4857075631f09d29fba874c2eabcf] to whom the preliminary proceedings relate;
+  - (b) with respect to an appeal against a reporting or public access order, the defendant or offender[^key-3e22e98aad154b67c146f3e5eb29d12e] in the proceedings of the Court Martial to which the order relates;
+  - (c) in the case of an appeal or an application for permission to appeal under section 8 against conviction or sentence (including a service restraining order [^c19891381]), the appellant or applicant, as the case may be;
+  - (d) in the case of an appeal under section 21 (against a finding of not guilty by reason of insanity), the person who has been found not guilty by reason of insanity;
+  - (e) in the case of an appeal under section 24 (against a finding of being unfit to stand trial or of having done the act or made the omission charged against him, or against both findings), the person found to be unfit to stand trial and to have done the act or made the omission;
+  - (f) in the case of an appeal under section 25A (against a hospital order, an interim hospital order or a service supervision order), the person subject to the order;
+  - (g) in the case of a reference to the court under section 273(1) of the 2006 Act (unduly lenient sentence), an application for permission to refer a case under that provision, or a reference of a point of law under section 274(1) of that Act, the offender;
+  - (h) in the case of an application to the court under section 39 (which relates to applications to the Supreme Court on a point of law), the accused (within the meaning of that section) ;
+  - (i) with respect to an appeal under section 304D or 304E of the 2006 Act, the offender;
+- “**preliminary proceedings**” means any proceedings of the Court Martial held for the purpose of—
+  - (a) arraigning a defendant on a charge; or
+  - (b) giving any direction or making any order or ruling for the purpose of —[^key-4a1727f5a05a075327caec99f595756b]
+    - (i) trial proceedings against a defendant;[^key-02565d6165e7a3f03813c9d7dde65305]
+    - (ii) proceedings under section 304D or 304E of the 2006 Act;[^key-7b1375a7cbc5b56a302f2a9e34893091]
+- “**prescribed period**” shall be construed in accordance with rule 47 or rule 48, as appropriate;
+- “**public interest order**” means an order made under article 4(6), 13(8) or 14(5) of the Criminal Procedure and Investigations Act 1996 (Application to the Armed Forces) Order 2009 [^c19891391];
+- “**record of proceedings**” means the record of proceedings of the Court Martial which the Judge Advocate General is required under section 37 to provide to the registrar [^c19891401];
+- “**reporting or public access order**” means an order (including directions) of the Court Martial prohibiting or restricting the publication of any matter or restricting the access of the public to the whole or part of any proceedings of the Court Martial;
+- “**the required information**” means, in relation to a person to whom proceedings relate—
+  - (a) his name and date of birth;
+  - (b) either—
+    - (i) if he is subject to service law, his service, rank or rate, service number and unit; or
+    - (ii) if he is a civilian subject to service discipline, his address;
+  - (c) the name and business address of his legal representative, if known;
+  - (d) the charge or charges on which he was convicted by the Court Martial or which are to be heard by that court; and
+  - (e) where applicable, the name of the hospital, prison or place of detention where he is being held;
+- “**the Service Prosecuting Authority**” means the Director of Service Prosecutions and the persons appointed under section 365(1) of the 2006 Act (prosecuting officers); and
+- “**trial proceedings**” means proceedings for the trial of a charge by the Court Martial (including the hearing of an appeal by that court from the Service Civilian Court and proceedings authorised by an order of the court under section 19).
+
+## PART 2 — SERVICE OF DOCUMENTS
+
+### 3. Interpretation of Part 2
+
+(1) References in this Part to a person's agreement to the service of a document in a particular way include his agreement that any document of a description specified by him may be served in that way.
+
+(2) Nothing in this Part affects service under rule 20(4) or rule 62(13).
+
+### 4. Service on a person to whom proceedings relate
+
+(1) Where under these Rules any document is to be served on a person to whom proceedings relate it may be served—
+
+- (a) on him personally;
+- (b) if he is subject to service law, by post in a letter addressed to him at his unit;
+- (c) if he is not subject to service law—
+  - (i) by leaving it at his usual or last known place of abode; or
+  - (ii) by post in a letter addressed to his usual or last known place of abode;
+- (d) by post in a letter addressed to his legal representative's place of business; or
+- (e) by DX, fax, electronic mail or other electronic means to his legal representative, where his legal representative—
+  - (i) has given a DX box number, fax number or electronic mail or other electronic means address; and
+  - (ii) has not refused to accept service by that means.
+
+(2) In this rule references to the person's legal representative are to any person whose name and address has been notified to the registrar under rule 18(4).
+
+### 5. Service on the registrar
+
+Where under these Rules any document is to be served on the registrar, it may be served by post, DX, fax, electronic mail or other electronic means on the Registrar of the Court Martial Appeal Court, at the Royal Courts of Justice, Strand, London, WC2A 2LL, or such other place as the Lord Chief Justice may from time to time direct.
+
+### 6. Service on the Director, Attorney General, Judge Advocate General or Secretary of State
+
+(1) Where under these Rules any document is to be served on the Director, it may be served—
+
+- (a) by post, DX, fax, electronic mail or other electronic means at—
+  - (i) the principal office of the Service Prosecuting Authority; or
+  - (ii) with the agreement of a prosecuting officer, that Authority's main office in Germany; or
+- (b) on a prosecuting officer personally, with his agreement.
+
+(2) Where under these Rules any document is to be served on—
+
+- (a) the Attorney General, it may be served by post, DX or fax at the Attorney General's Office;
+- (b) the Judge Advocate General, it may be served by post, DX or fax at the Office of the Judge Advocate General;
+- (c) the Secretary of State, it may be served by post, DX or fax on the Secretary of State for Defence.
+
+### 7. Service on other individuals
+
+Where under these Rules any document is to be served on an individual other than a person to whom proceedings relate, the registrar or a person mentioned in rule 6, it may be served—
+
+- (a) on the individual personally;
+- (b) if he is subject to service law, by post in a letter addressed to him at his unit;
+- (c) if he is not subject to service law—
+  - (i) by leaving it at his usual or last known place of abode; or
+  - (ii) by post in a letter addressed to his usual or last known place of abode.
+
+### 8. Service on a corporation
+
+Where under these Rules any document is to be served on a corporation within the meaning of section 1173(1) of the Companies Act 2006 [^c19891411], it may be served—
+
+- (a) by post at—
+  - (i) the corporation's principal office in the United Kingdom;
+  - (ii) if the corporation has no readily identifiable principal office in the United Kingdom, any place in the United Kingdom where it carries on its activities or business; or
+  - (iii) if the corporation has no principal office in the United Kingdom and does not carry on its activities or business in the United Kingdom, its principal office; or
+- (b) by DX, fax, electronic mail or other electronic means, where the corporation—
+  - (i) has given a DX box number, fax number or electronic mail or other electronic means address; and
+  - (ii) has not refused to accept service by that means.
+
+### 9. Service by another method
+
+(1) The registrar or a judge of the court may in a particular case direct that a document may be served by a method other than those mentioned in rules 4 to 8.
+
+(2) A direction under this rule—
+
+- (a) must specify—
+  - (i) the method to be used; and
+  - (ii) the date by which the document must be served; and
+- (b) may specify the time on that date by which the document must be served.
+
+### 10. Deemed service
+
+The court may treat a document as served if the addressee responds to it, even if it was not served in accordance with these Rules.
+
+### 11. Date of service
+
+(1) Nothing in this rule affects service under rule 28 or rule 32.
+
+(2) Unless the contrary is shown, a document served on a person (otherwise than personally) shall be assumed to have been served—
+
+- (a) in the case of a document sent by post from the United Kingdom to an address within the United Kingdom, on the fifth day after the day on which it was despatched;
+- (b) in the case of a document sent by post—
+  - (i) from the United Kingdom or Germany to an address within Germany, or
+  - (ii) from Germany to an address within the United Kingdom,
+
+  on the tenth day after the day on which it was despatched;
+- (c) in the case of any other document sent by post, on the tenth day after the day on which it was despatched;
+- (d) in the case of a document served by DX, on the fifth day after the day on which it was left at the addressee's DX or at a correspondent DX;
+- (e) in the case of a document served by fax, electronic mail or other electronic means, on the day after it was transmitted;
+- (f) in the case of a document left at an address, on the third day after the day on which it was left; and
+- (g) in any case, on the day on which the addressee responds to it if that is earlier than the day on which it would otherwise be assumed to have been served under sub-paragraphs (a) to (f).
+
+### 12. Proof of service
+
+(1) Where—
+
+- (a) under any of rules 4 to 8 or a direction under rule 9, a document may be served by a particular method, and
+- (b) a certificate is produced which—
+  - (i) states that the document was so served, and
+  - (ii) is signed by a person who purports to have so served the document,
+
+the document shall be assumed to have been so served, unless the contrary is shown.
+
+(2) Where a certificate is produced which—
+
+- (a) states that a document was despatched, left at a DX box number or transmitted on a particular day, and
+- (b) is signed by a person who purports to have despatched, left or transmitted the document,
+
+for the purposes of rule 11 the document shall be assumed to have been despatched, left or transmitted on that day, unless the contrary is shown.
+
+## PART 3 — PROCEEDINGS: GENERAL
+
+### 13. Notification of proceedings to the person to whom proceedings relate
+
+Where a person to whom proceedings relate is entitled to be present or has obtained the leave of the court to be present during proceedings of the court (including any examination or investigation) the registrar must give notice of the probable date thereof—
+
+- (a) to the person to whom proceedings relate;
+- (b) if he is in custody, to the custodian; and
+- (c) if he is in service custody, to the Secretary of State for Defence.
+
+### 14. Evidence through live link
+
+(1) If for the time being section 32(1) of the Criminal Justice Act 1988 [^c19891421] has effect in relation to proceedings before the Court Martial Appeal Court—
+
+- (a) any application for a person other than the accused to give evidence under section 32(1) of that Act must be made by serving a notice in writing on the registrar stating—
+  - (i) the grounds of the application;
+  - (ii) the name of the witness;
+  - (iii) the country and place where it is expected the witness will be when giving evidence;
+- (b) the application must not, without the permission of the court, be made fewer than 14 days before the date fixed for the hearing to which the application relates.
+
+(2) If for the time being section 33A(2) of the Youth Justice and Criminal Evidence Act 1999 [^c19891431] applies to proceedings before the Court Martial Appeal Court—
+
+- (a) any application under section 33A(2) of that Act must be made by serving a notice in writing on the registrar stating the grounds of the application;
+- (b) the application must not, without the permission of the court, be made fewer than 14 days before the date fixed for the hearing to which the application relates.
+
+(3) The registrar must, as soon as practicable after receiving a notice referred to in paragraph (1) or (2), send a copy of the notice to the other parties to the proceedings.
+
+(4) An application under paragraph (1) or (2) shall be decided without a hearing unless the court otherwise directs, and the registrar must notify the applicant and the other parties to the proceedings of the time and place of any hearing and of the decision of the court in relation to an application.
+
+### 15. Oaths and affirmations
+
+(1) Sections 1 and 3 to 6 of the Oaths Act 1978 [^c19891441] shall apply where, for the purposes of these Rules, an oath or affirmation is to be taken outside of the United Kingdom as they would apply if the person were required to take an oath or affirmation in England, Wales or Northern Ireland.
+
+(2) Where section 1 or 6 of that Act applies, the reference in that section to the words of the oath prescribed by law is to be read as a reference to the words prescribed by Schedule 1 for a person of the class to which the person belongs.
+
+### 16. Interpretation, translation and communication through an intermediary[^key-f2ad050bcd16c89fd7635c442ca12616]
+
+(1) Where a person to whom proceedings relate is due to attend a hearing, the registrar, where satisfied that the person needs interpretation, must appoint an interpreter to act at the hearing.
+
+(2) Before an interpreter begins to act at a hearing, an oath or affirmation must be administered to the interpreter.
+
+(3) Before an interpreter is sworn or makes his affirmation, the interpreter’s name must be read out, and any party to the proceedings may object to the interpreter on any reasonable ground.
+
+(4) If the court upholds any such objection, the interpreter shall not be sworn or make his affirmation, and the registrar must appoint another interpreter.
+
+(5) On application or on its own initiative, the court may require a written translation of any document or part of a document to be provided for a person to whom proceedings relate, and who needs interpretation, unless―
+
+- (a) translation of that document, or part, is not needed to explain the issues arising in the proceedings in relation to the person; or
+- (b) the person agrees to do without, and the court is satisfied—
+  - (i) that the agreement is clear and voluntary; and
+  - (ii) that the person has had legal advice or otherwise understands the consequences.
+
+(6) On application by a person to whom proceedings relate, the court must give any direction which it thinks appropriate, including a direction for interpretation by a different interpreter, where―
+
+- (a) no interpreter is appointed, or no interpretation provided;
+- (b) no translation is ordered, or provided, in response to a previous application by the person; or
+- (c) the person complains about the quality of any interpretation or translation provided.
+
+(7) In relation to a person who has a hearing or speech impediment, references in these Rules to an interpreter include a person appointed—
+
+- (a) to communicate to the person anything said at the hearing, and explain it so far as necessary to enable the person to understand it, or
+- (b) to communicate any answers given by the person, and any other matters that the person seeks to convey, and explain them so far as necessary to enable the court and others present at the hearing to understand them,
+
+and references to interpretation shall be construed accordingly.
+
+(8) In this rule references to acting at a hearing include assisting the person to communicate with the person’s legal representative during the hearing; and in relation to such assistance paragraph (7)(b) has effect as if the reference to the court and others present at the hearing were to the legal representative.
+
+(9) The registrar must record, by such means as the Lord Chancellor directs―
+
+- (a) the identity of any interpreter;
+- (b) any decision on an application under paragraph (5);
+- (c) any agreement under paragraph (5)(b) to do without a written translation of a document or part of a document; and
+- (d) any direction given under paragraph (6).
+
+### 16A. Interpretation and translation for witnesses other than a person to whom proceedings relate[^key-41885e2106ead6ac4c15706c3873b87d]
+
+(1) Where the complainant is due to attend a hearing as a witness, the registrar, where satisfied that the person needs interpretation, must appoint an interpreter to act at the hearing.
+
+(2) The registrar may also appoint an interpreter for any other witness who is required to give evidence at a hearing, other than a person to whom proceedings relate.
+
+(3) Before an interpreter begins to act at a hearing, an oath or affirmation must be administered to the interpreter.
+
+(4) Before an interpreter is sworn or makes his affirmation, the interpreter’s name must be read out, and any party to the proceedings may object to the interpreter on any reasonable ground.
+
+(5) If the court upholds any such objection, the interpreter shall not be sworn or make his affirmation, and the registrar must appoint another interpreter.
+
+(6) On application or on its own initiative, the court may require a written translation of any document or part of a document to be provided for a complainant or other person (other than a person to whom proceedings relate) who attends a hearing as a witness and who needs interpretation.
+
+(7) The registrar must record, by such means as the Lord Chancellor directs―
+
+- (a) the identity of any interpreter; and
+- (b) any decision on an application under paragraph (6).
+
+### 17. Rights of audience
+
+In any proceedings before the court, any of the following persons may address the court—
+
+- (a) the legal representative of a party to proceedings;
+- (b) the person to whom proceedings relate, if that person is entitled to be present or has obtained the leave of the court to be present during proceedings, with the leave of the court and if not otherwise represented;
+- (c) any other party to proceedings, with the leave of the court and if not otherwise represented; and
+- (d) where the court is sitting at a place outside the United Kingdom, any other person allowed by leave of the court to appear on behalf of a party to the proceedings.
+
+### 18. Legal representatives
+
+(1) A party to proceedings to which these Rules apply may appoint a legal representative to act for him in relation to the proceedings.
+
+(2) A person may not be appointed as a legal representative unless—
+
+- (a) he has a general qualification within the meaning of section 71 of the Courts and Legal Services Act 1990 [^c19891451];
+- (b) he is an advocate or a solicitor in Scotland;
+- (c) he is a member of the Bar of Northern Ireland or a solicitor of the Court of Judicature of Northern Ireland; or
+- (d) he is a person having in any of the Channel Islands, the Isle of Man, a Commonwealth country or a British overseas territory rights and duties similar to those of a barrister or solicitor in England and Wales, and is subject to punishment or disability for breach of professional rules.
+
+(3) Any right conferred on a party to proceedings by these Rules may be exercised, and any duty imposed on him by these Rules discharged, by his legal representative on his behalf.
+
+(4) A party who appoints a legal representative must notify the registrar of the legal representative's business address.
+
+## PART 4 — DOCUMENTS
+
+### 19. Registrar's powers to require information from the Judge Advocate General or the Court Martial
+
+(1) The registrar may require the Judge Advocate General, the judge advocate for any proceedings of the Court Martial, or the court administration officer to furnish the court with any document (in addition to the record of proceedings) or information which the registrar considers the court may require for the purpose of discharging its functions.
+
+(2) After an application is refused or is abandoned, or the appeal or reference is determined or abandoned, the registrar must, subject to any order which the court may make, return the copy of the record of proceedings to the Judge Advocate General or the court administration officer.
+
+(3) In this rule, reference means a reference mentioned in rule 45(2).
+
+### 20. Documents and exhibits
+
+(1) The registrar may, on an application made to him by a party to the proceedings or where he considers it necessary for the proper determination of the proceedings, and must, where so directed by the court, obtain and keep available for use by the court any document, exhibit or other thing connected with the proceedings.
+
+(2) The court may, at any stage of proceedings, whenever it thinks it necessary or expedient in the interests of justice to do so, order any person having custody or control of any document, exhibit or other thing connected with the proceedings to produce it to the registrar.
+
+(3) After an application is refused or is abandoned, or the appeal or reference is determined or abandoned, the registrar must, subject to any order which the court may make, return any document, exhibit or other thing to the person who produced it.
+
+(4) Unless the court otherwise directs, any order made under paragraph (2) must be served personally.
+
+### 21. Copies of document, etc
+
+(1) Subject to rules 22 and 23 and to paragraphs (2) and (3), the registrar must, unless the court rules otherwise—
+
+- (a) provide a party to the proceedings with a copy of any document or record of proceedings held by the registrar for the purposes of an appeal or reference; or
+- (b) allow a party to the proceedings to inspect any document, exhibit or record of proceedings held by the registrar for those purposes.
+
+(2) The registrar must not provide a copy or allow the inspection of—
+
+- (a) a document provided to the Court Martial, the court or the registrar on terms that it will not be further disclosed except in accordance with a ruling of the Court Martial or the court, or
+- (b) a transcript of a public interest order or an application for such an order,
+
+except in pursuance of an order of the court and subject to such conditions, if any, as the court may direct.
+
+(3) The duty under paragraph (1) to provide a copy of any document or record of proceedings shall not arise except—
+
+- (a) on payment by the party to the proceedings of any charge fixed by the registrar; or
+- (b) where the party to the proceedings is the person to whom proceedings relate and has been granted legal aid.
+
+(4) Nothing in paragraph (3) shall require the registrar to supply free of any charge any copy of a document which he considers unnecessary for the purposes of the appeal or reference.
+
+### 22. Security of documents, etc
+
+If the Secretary of State for Defence, or any person authorised on his behalf, certifies that, for reasons of national security, the whole or part of the record of proceedings or other document, or of any exhibit or other thing, ought not to be disclosed otherwise than to the court, or ought to be disclosed only subject to such conditions as he may specify, the registrar must permit inspection or supply a copy of the whole or that part of the document, exhibit or thing only in pursuance of an order of the court and subject to such conditions, if any, as the court may direct.
+
+### 23. Public interest
+
+Nothing in these Rules shall affect any rule of law which authorises or requires the withholding of any document or the refusal to answer any question on the grounds that the disclosure of the document or the answering of the question would be injurious to the public interest.
+
+## PART 5 — PARTICULAR CIRCUMSTANCES
+
+### 24. Declaration of incompatibility with a Convention right
+
+(1) This rule applies where a party to proceedings to which these Rules apply—
+
+- (a) wants the court to make a declaration of incompatibility with a Convention right under section 4 of the 1998 Act [^c19891461]; or
+- (b) raises an issue that the registrar thinks may lead the court to make such a declaration.
+
+(2) The registrar must serve notice on—
+
+- (a) the relevant person named in the list published under section 17(1) of the Crown Proceedings Act 1947 [^c19891471]; or
+- (b) the Treasury Solicitor, if it is not clear who is the relevant person.
+
+(3) That notice must include or attach details of—
+
+- (a) the legislation affected by the Convention right concerned;
+- (b) the parties to the appeal; and
+- (c) any other information or document that the registrar thinks should be included.
+
+(4) A person who has a right under the 1998 Act to become a party to the appeal must—
+
+- (a) serve notice on—
+  - (i) the registrar, and
+  - (ii) the other parties,
+
+  if that person wants to exercise that right; and
+- (b) in that notice—
+  - (i) indicate the conclusion that that person invites the court to reach on the question of incompatibility; and
+  - (ii) identify each ground for that invitation, concisely outlining the arguments in support.
+
+(5) The court must not make a declaration of incompatibility—
+
+- (a) fewer than 21 days after the registrar serves notice under paragraph (2); and
+- (b) without giving any person who serves a notice under paragraph (4) an opportunity to make representations at a hearing.
+
+### 25. Reference by the Commission
+
+(1) This rule applies where under section 12A of the 1995 Act [^c19891481] the Commission refers a person's conviction or sentence, or a finding by the Court Martial in relation to a person, to the court.
+
+(2) The registrar must, within 28 days of receipt of such a reference, serve a copy of the reference on the person and the Director.
+
+### 26. Reference of a question to a special commissioner
+
+(1) An order made under section 30(1) of the 1968 Act or regulation 12(1) of the 2024 Regulations[^key-953ac4a825160dbfbfc91c659bf1257e] that a question arising on an appeal be referred to a special commissioner—
+
+- (a) must specify the question to be referred and the person appointed to act as the special commissioner; and
+- (b) may require that person to make interim reports to the court from time to time.
+
+(2) The court may order that copies of any report made by a special commissioner shall be furnished to the appellant and any other party to the appeal.
+
+## PART 6 — APPEALS IN PRELIMINARY PROCEEDINGS AND AGAINST CERTAIN ORDERS
+
+### CHAPTER 1 — APPEALS AGAINST AN ORDER OR RULING MADE IN PRELIMINARY PROCEEDINGS OF THE COURT MARTIAL
+
+#### 27. Application of Chapter 1
+
+(1) This Chapter applies where a party to preliminary proceedings or the Director seeks permission to appeal against an order or ruling, other than a reporting or public access order, made in those proceedings.
+
+(2) In this Chapter—
+
+- a reference to an “**appellant**” is a reference to such a party;
+- “**appeal notice**” means an application to appeal against such an order or ruling;
+- “**party**” means a party to the preliminary proceedings; and
+- “**respondent**” means a person who serves a respondent's notice.
+
+#### 28. Service of appeal notice
+
+(1) The appellant must serve an appeal notice on the registrar not more than seven days after the date of the order or ruling against which the appellant wants to appeal.
+
+(2) The appellant must, at the same time as serving the appeal notice on the registrar, serve a copy of the appeal notice on any other party directly affected by the order or ruling against which the appellant wants to appeal.
+
+(3) Paragraphs (1) and (2) are subject to rule 38.
+
+#### 29. Appeal notice
+
+(1) An appeal notice must be in made in writing and must—
+
+- (a) include the required information;
+- (b) state with respect to the order or ruling against which the appellant wants to appeal—
+  - (i) the place where the Court Martial was sitting when the order or ruling was made;
+  - (ii) the name of the judge advocate who made the order or ruling; and
+  - (iii) the date on which the order or ruling was made;
+- (c) attach—
+  - (i) a transcript or note of the order or ruling; and
+  - (ii) any relevant skeleton arguments considered by the judge advocate before making the order or ruling;
+- (d) state each ground of appeal on which the appellant relies, numbering them consecutively (if there is more than one), concisely outlining each argument in support and identifying any relevant authorities the appellant intends to cite;
+- (e) include or attach—
+  - (i) an application for permission to appeal;
+  - (ii) any application for an extension of time in which to serve the appeal notice;
+  - (iii) any application for permission to adduce evidence, stating the reasons for the application;
+  - (iv) a list of the names of the persons on whom the appellant has served the appeal notice.
+
+(2) An appeal notice must be signed by the appellant or his legal representative.
+
+#### 30. Respondent's notice
+
+(1) A party on whom an appellant serves an appeal notice may serve a respondent's notice, and must do so if—
+
+- (a) that party wants to make representations to the court;
+- (b) the registrar so directs; or
+- (c) a judge of the court so directs.
+
+(2) A party serving a respondent's notice must serve it on—
+
+- (a) the appellant;
+- (b) the registrar; and
+- (c) every other person on whom the appellant served the appeal notice.
+
+(3) Subject to rule 38, a party serving a respondent's notice must do so not more than seven days after—
+
+- (a) receipt of a copy of the appeal notice; or
+- (b) a direction to serve under paragraph (1).
+
+(4) The respondent's notice must—
+
+- (a) state the name and address of the respondent;
+- (b) state the date on which the respondent was served with the appeal notice;
+- (c) state any ground of opposition on which the respondent relies, numbering them consecutively (if there is more than one), concisely outlining each argument in support and identifying the ground of appeal to which each relates;
+- (d) summarise any relevant facts not already summarised in the appeal notice;
+- (e) identify any authorities the respondent considers relevant;
+- (f) include or attach any application for the following, stating the reasons for the application—
+  - (i) an extension of time within which to serve the respondent's notice;
+  - (ii) any application for permission to adduce evidence;
+- (g) identify any other document or thing that the respondent thinks the court will need to decide the appeal.
+
+### CHAPTER 2 — APPEALS AGAINST A REPORTING OR PUBLIC ACCESS ORDER
+
+#### 31. Application of Chapter 2
+
+(1) This Chapter applies where a person directly affected by a reporting or public access order wants to appeal against that order.
+
+(2) In this Chapter—
+
+- a reference to an “appellant” in this Chapter is a reference to such a person;
+- “**appeal notice**” means an application to appeal against such an order;
+- “**party**” means a party to the application to the Court Martial to make the order;
+- “**respondent**” means a person who serves a respondent's notice.
+
+#### 32. Service of appeal notice
+
+(1) The appellant must serve an appeal notice not later than—
+
+- (a) 24 hours after an order was made restricting public access to proceedings of the Court Martial;
+- (b) 14 days after an order was made restricting reporting of the proceeding of the Court Martial.
+
+(2) The appellant must serve the appeal notice on—
+
+- (a) the registrar;
+- (b) the Director (unless he is the appellant);
+- (c) the defendant or offender[^key-3c82ab7a85dd60bb35cde51efc9ab283] (unless he is the appellant);
+- (d) any other person directly affected by the order against which the appellant wants to appeal; and
+- (e) if not within any of sub-paragraphs (b) to (d), the person who applied for the reporting or public access order.
+
+(3) Paragraphs (1) and (2) are subject to rule 38.
+
+#### 33. Appeal notice
+
+(1) An application must be in writing and must—
+
+- (a) include the required information;
+- (b) specify the order against which the appellant wishes to appeal;
+- (c) state each ground of appeal on which the appellant relies, numbering them consecutively (if there is more than one), and concisely outlining each argument in support;
+- (d) summarise the relevant facts;
+- (e) identify any relevant authorities;
+- (f) include or attach, with reasons—
+  - (i) an application for permission to appeal;
+  - (ii) any application for an extension of time in which to serve the appeal notice;
+  - (iii) any application for permission to adduce evidence;
+  - (iv) a list of the names of the persons on whom the appellant has served the appeal notice; and
+- (g) attach any document or thing that the appellant thinks the court will need to decide the appeal.
+
+(2) An appeal notice must be signed by the appellant or his legal representative.
+
+#### 34. Advance notice of an appeal
+
+(1) This rule applies where an appellant wants to appeal against an order (including directions) that he considers may be made by the Court Martial restricting the access of the public to the whole or part of any proceedings of the Court Martial.
+
+(2) The appellant may serve advance written notice of intention to appeal against any such order that may be made.
+
+(3) The appellant must serve any such advance notice on—
+
+- (a) the registrar;
+- (b) the Director (unless he is the appellant);
+- (c) the person to whom proceedings relate (unless he is the appellant);
+- (d) any other person who would be directly affected by the order against which the appellant intends to seek permission to appeal if it is made;
+- (e) if not included in sub-paragraphs (b) to (d), the person applying for the order.
+
+(4) Subject to rule 38, any such advance notice must be served not more than seven days after the court administration officer displays a notice of the application for the public access order.
+
+(5) The advance notice must include the same information (with necessary adaptations) as an appeal notice under rule 33.
+
+(6) The court must treat the advance notice as the appeal notice if the order is made.
+
+#### 35. Duty of applicant
+
+(1) This rule applies where an appellant has served an appeal notice under rule 33 or an advance notice under rule 34.
+
+(2) As soon as practicable after receipt of such notice, the party who applied for the reporting or public access order must serve on the registrar—
+
+- (a) a transcript or note of the application for the order; and
+- (b) any other document or thing that that party thinks the court will need to decide the appeal.
+
+#### 36. Respondent's notice
+
+(1) A person on whom an appeal notice under rule 33 or an advance notice under rule 34 has been served may serve a respondent's notice, and must do so if—
+
+- (a) that person wants to make representations to the court;
+- (b) the registrar so directs; or
+- (c) a judge of the court so directs.
+
+(2) A party serving a respondent's notice must serve it on—
+
+- (a) the appellant;
+- (b) those persons listed in rule 32(2).
+
+(3) Subject to rule 38, the respondent must serve the respondent's notice not more than five days after—
+
+- (a) the day on which he was served with the appeal notice;
+- (b) the day on which he was served with the advance notice;
+- (c) a direction to do so.
+
+(4) The respondent's notice must—
+
+- (a) state the date on which the respondent was served with the appeal notice;
+- (b) state any ground of opposition on which the respondent relies, numbering them consecutively (if there is more than one), concisely outlining each argument in support and identifying the ground of appeal to which each relates;
+- (c) summarise any relevant facts not summarised in the appeal notice;
+- (d) identify any authorities the respondent considers relevant;
+- (e) include or attach any application for the following, stating the reasons for the application—
+  - (i) an extension of time in which to serve the respondent's notice;
+  - (ii) permission to adduce evidence; and
+- (f) identify any other document or thing that the respondent thinks the court will need to decide the appeal.
+
+### CHAPTER 3 — POWERS OF THE COURT AND THE REGISTRAR UNDER PART 6
+
+#### 37. Application and interpretation of Chapter 3
+
+This Chapter applies with respect to any application or appeal under Chapter 1 or 2 and to any hearing with respect to such an application or appeal and any reference in this Chapter to “appellant”, “appeal”, “application”, “hearing”, “party” or “**respondent**” shall be construed accordingly.
+
+#### 38. Power to vary requirements of Chapters 1 and 2
+
+A judge of the court or the registrar may—
+
+- (a) shorten a time limit or extend it (even after it has expired);
+- (b) allow a person to vary any notice which that person has served;
+- (c) direct that a notice or application be served on any person; and
+- (d) allow an application to be presented orally.
+
+#### 39. Hearings
+
+(1) Unless the court directs otherwise, the court must hear in public an application or appeal.
+
+(2) Where a hearing relates to a public interest order that hearing must be in private unless the court otherwise directs.
+
+(3) Where an appellant wants to appeal against an order (including directions) of the Court Martial restricting the access of the public to the whole or part of any proceedings of the Court Martial, the court—
+
+- (a) may decide without a hearing—
+  - (i) an application, including an application for permission to appeal, and
+  - (ii) an appeal; but
+- (b) must announce its decision on such an appeal at a hearing in public.
+
+(4) A judge of the court or the registrar may exercise any of his powers under Chapter 1 or 2—
+
+- (a) at a hearing in public, in private or in the absence of a party and his legal representative; or
+- (b) without a hearing.
+
+#### 40. Notice of hearings and decisions
+
+(1) Subject to paragraph (3), the registrar must give as much notice as is reasonably practicable of every hearing to—
+
+- (a) the parties;
+- (b) the custodian, if any, of any party;
+- (c) any other person whom the court requires to be notified; and
+- (d) the court administration officer.
+
+(2) Subject to paragraph (3), the registrar must serve every decision of a judge of the court, the court or the registrar on—
+
+- (a) the parties;
+- (b) any other person whom the court requires to be served; and
+- (c) the custodian, if any, of any party where the decision determines an appeal or an application for permission to appeal.
+
+(3) Where a hearing or decision is about a public interest order, the registrar must not—
+
+- (a) give notice of the hearing to, or
+- (b) serve that decision on,
+
+anyone other than the Director, unless the court otherwise directs.
+
+#### 41. Right to attend a hearing
+
+(1) An appellant or respondent who is in custody has a right to attend a hearing in public.
+
+(2) If the court or the registrar so directs, a right to attend under paragraph (1) may be met by attendance by live link.
+
+(3) In paragraph (2) “**live link**” means an arrangement by which a person, when not in the place where proceedings are being held, is able to see and hear, and to be seen and heard by, the court during proceedings (and for this purpose any impairment of eyesight or hearing is to be disregarded).
+
+#### 42. Powers of a judge of the court
+
+A judge of the court may grant or refuse—
+
+- (a) permission to appeal under this Part; or
+- (b) an application for permission to adduce evidence.
+
+#### 43. Exercise by a judge of the court or the registrar of a power under this Part
+
+(1) Where a judge of the court or the registrar exercises, or refuses to exercise, a power specified in rule 38 or a judge of the court exercises, or refuses to exercise, a power specified in rule 42, the registrar must, within seven days of the exercise or refusal, serve notice on the appellant and the respondent of the exercise of, or refusal to exercise, that power.
+
+(2) If the registrar refuses an application on the part of the appellant or respondent to exercise in his favour any of the powers specified in rule 38, the appellant or respondent (as the case may be) shall be entitled to have the application determined by a judge of the court.
+
+(3) If a judge of the court refuses an application on the part of the appellant or respondent to exercise in his favour any of the powers specified in rule 38 or 42, the appellant or respondent (as the case may be) shall be entitled to have the application determined by the court as duly constituted for the purpose in accordance with section 5.
+
+#### 44. Determination of appeal
+
+On hearing an appeal to which this Part applies, the court shall have power to—
+
+- (a) confirm, reverse or vary the order or ruling complained of; and
+- (b) make such order as to costs as it thinks fit.
+
+## PART 7 — APPEALS AGAINST CONVICTION, SENTENCE, REVIEW OF SENTENCE, FINDING OF INSANITY OR UNFITNESS TO PLEAD OR HOSPITAL ORDER[^key-e6c0d4c3c0f936c9154cb12d9d8e3a8b]
+
+### 45. Applicability of this Part
+
+(1) This Part, except rule 51, applies where a party to the proceedings[^key-a4397c6ca8b810d5d2f4fa8b9fcfe843] wants to appeal under section 8, 21, 24 or 25A of the 1968 Act or under section 304D or 304E of the 2006 Act[^key-24ebf1814013795abe1df4cbe5de8418].
+
+(2) Rule 51 applies where—
+
+- (a) the Commission refers a conviction, sentence or a finding by the Court Martial to the court under section 12A of the 1995 Act;
+- (b) the Judge Advocate General or the Secretary of State refers a finding, or the Secretary of State refers a sentence, to the court under section 34.
+
+(3) In this Part (except rule 51)—
+
+- “**appellant**” means the party to the proceedings[^key-83e1042a28898c7361e3ca9b0c0776a8] who wants to appeal under section 8, 21, 24 or 25A of the 1968 Act or under section 304D or 304E of the 2006 Act;
+- “**appeal notice**” means the application to the court for permission to appeal required under section 9(1);
+- “**respondent**” means a person who serves a respondent's notice.
+
+### 46. Application for permission to appeal
+
+(1) The appeal notice must be in the form set out in Schedule 2 and must—
+
+- (a) include the required information;
+- (b) state the name of the judge advocate in the proceedings of the Court Martial;
+- (c) state and give the date of—
+  - (i) the conviction, verdict, or finding,
+  - (ii) the sentence, [^key-dda99cb561e50aeff947506c5004fb4c]...
+  - (iia)[^key-531b738d6c23a4e916854fdef1036700] decision on review of sentence under section 304D or 304E of the 2006 Act, or
+  - (iii) the order,
+
+  about which the appellant wants to appeal;
+- (d) state each ground of appeal on which the appellant relies, numbering them consecutively (if there is more than one), and concisely outlining each argument in support;
+- (e) identify the transcript that the appellant thinks the court will need, if the appellant wants to appeal against a conviction;
+- (f) identify the relevant sentencing powers of the Court Martial, if sentencing is in issue;
+- (g) where the Commission refers a case to the court, explain how each ground of appeal relates (if it does) to the reasons for the reference;
+- (h) summarise the relevant facts;
+- (i) identify any authorities the appellant considers relevant;
+- (j) include or attach any application for the following, with reasons—
+  - (i) permission to appeal, if the appellant needs the court's permission;
+  - (ii) an extension of time within which to serve the appeal notice [^c19891491];
+  - (iii) permission to adduce evidence, including hearsay evidence and evidence of bad character;
+  - (iv) an order requiring a witness to attend court;
+- (k) state whether the appellant wishes to be present when the court considers the appeal;
+- (l) identify any other document or thing that the appellant thinks the court will need to decide the appeal.
+
+(2) If the appellant wants the court to make an order for the attendance of a witness the following information must be attached to the appeal notice—
+
+- (a) the name and address of the witness if known to the appellant;
+- (b) whether the witness was examined by the Court Martial;
+- (c) if the witness was not examined by the Court Martial, the reasons why not, if known to the appellant; and
+- (d) a summary of the evidence the appellant expects the witness to give.
+
+(3) An attachment to the appeal notice must also—
+
+- (a) contain any application to be made to the court for a declaration of incompatibility under section 4 of the 1998 Act; or
+- (b) specify any issue for the court to decide which may lead to the court making such a declaration.
+
+(4) The appeal notice must be signed by the appellant or his legal representative.
+
+### 47. Prescribed period
+
+Subject to rule 48, for the purposes of section 9(1) of the 1968 Act or regulation 4(1)(a) of the 2024 Regulations[^key-339eee4b691727b8577e2bea45bce3e7], the period within which an appeal notice must be lodged with the registrar is the period of 28 days after the date of the—
+
+- (a) conviction, verdict, or finding,
+- (b) sentence, [^key-025691642bf41ded40db703d15f92ad1]...
+- (ba)[^key-cc36e07d0f63e11c39a1ab5f20286b9e] decision on review of sentence under section 304D or 304E of the 2006 Act, or
+- (c) order,
+
+in relation to which the appellant wants to appeal.
+
+### 48. Prescribed period: appeals where previous convictions set aside
+
+(1) Paragraph (2) applies where—
+
+- (a) a sentence has been imposed on any person under section 225(3) of the 2003 Act as a result of section 219(2)(b) of the 2006 Act (dangerous offenders aged 18 or over) or under section 227(2) to (5) of the 2003 Act as applied by section 220(2) of the 2006 Act (certain violent or sexual offences: offenders aged 18 or over);
+- (b) the condition in section 225(3A) of the 2003 Act or (as the case may be) section 227(2A) of that Act was met but the condition in section 225(3B) of that Act or (as the case may be) 227(2B) of that Act was not; and
+- (c) any previous conviction of his without which the condition in section 225(3A) of the 2003 Act or (as the case may be) section 227(2A) of that Act would not have been met has been subsequently set aside on appeal.
+
+(2) For the purposes of section 9(1), the period within which an appeal notice for an appeal against sentence must be lodged with the registrar is the period of 28 days after the date on which the previous conviction was set aside.
+
+### 49. Respondent's notice
+
+(1) The registrar may serve an appeal notice on any party directly affected by the appeal.
+
+(2) A party on whom the registrar serves an appeal notice may serve a respondent's notice, and must do so if—
+
+- (a) that person wants to make representations to the court;
+- (b) the registrar so directs; or
+- (c) a judge of the court so directs.
+
+(3) A party serving a respondent's notice must serve it on—
+
+- (a) the appellant;
+- (b) the registrar; and
+- (c) any other party on whom the appeal notice was served.
+
+(4) Subject to rule 50, a party serving a respondent's notice must do so not more than 14 days after the registrar serves—
+
+- (a) the appeal notice;
+- (b) a direction to do so.
+
+(5) The respondent's notice must—
+
+- (a) state the name and address of the respondent;
+- (b) state the date on which the respondent was served with the appeal notice or reference;
+- (c) state any ground of opposition on which the respondent relies, numbering them consecutively (if there is more than one), concisely outlining each argument in support and identifying the ground of appeal to which each relates;
+- (d) identify the relevant sentencing powers of the Court Martial, if sentence is in issue;
+- (e) summarise any relevant facts not already summarised in the appeal notice or reference;
+- (f) identify any authorities the respondent considers relevant;
+- (g) include or attach any application for the following, stating the reasons for the application—
+  - (i) an extension of time within which to serve the respondent's notice;
+  - (ii) permission to adduce evidence, including hearsay evidence and evidence of bad character;
+  - (iii) an order requiring a witness to attend court;
+- (h) identify any other document or thing that the appellant thinks the court will need to decide the appeal.
+
+### 50. Extension of time
+
+(1) A judge of the court or the registrar may extend the period for service of a respondent's notice under rule 49(4) (even after it has expired).
+
+(2) If a judge of the court or the registrar exercises, or refuses to exercise, the power under paragraph (1), the registrar must, within seven days after the date of the exercise or refusal, serve notice of his decision on the appellant and the respondent.
+
+(3) If the registrar refuses to exercise the power under paragraph (1), the respondent shall be entitled to have the application for the exercise of the power determined by a judge of the court.
+
+(4) If a judge of the court refuses to exercise the power under paragraph (1), the appellant or respondent shall be entitled to have the application for the exercise of the power determined by the court as duly constituted for the purpose in accordance with section 5.
+
+### 51. References by the Commission, the Judge Advocate General or the Secretary of State
+
+(1) The registrar must serve—
+
+- (a) on the person whose conviction or sentence the Commission refers to the court under section 12A of the 1995 Act, or on the person in relation to whom the finding was made that the Commission refers under that section, a copy of the reference;
+- (b) on the person with respect to whose—
+  - (i) conviction the Judge Advocate General or the Secretary of State makes the reference of a finding under section 34, or
+  - (ii) sentence the Secretary of State makes the reference of a sentence under section 34,
+
+  a copy of the reference; and
+- (c) on any other person directly affected by a reference referred to in sub-paragraph (a) or (b).
+
+(2) Rule 49, and so far as it relates to a respondent's notice, rule 50 shall apply with respect to a reference within paragraph (1)(a) or (b), as if in that rule 49—
+
+- (a) “**appeal**” means the appeal which by virtue of section 34 or of section 12A of the 1995 Act, the reference to the court is to be treated as being;
+- (b) “**appeal notice**” means the reference to the court; and
+- (c) any reference to the appellant were a reference to whichever of the Commission, the Judge Advocate General or the Secretary of State made the reference to the court.
+
+## PART 8 — APPEAL FROM A DECISION OF THE REGISTRAR OR A SINGLE JUDGE
+
+### 52. Notification
+
+Where a judge of the court or the registrar exercises, or refuses to exercise, a power exercisable by him pursuant to section 36, 36A or 36B of the 1968 Act or under regulation 20, 21 or 22 of the 2024 Regulations[^key-71988086b364b12539dcb686603c3270], the registrar must, within 14 days of the exercise or refusal, serve notice on the parties to the proceedings[^key-59a81bc75eb504fcc7d7a230e2d07826] of the exercise of, or refusal to exercise, that power.
+
+### 53. Further applications to a judge or to the court: additional rules
+
+(1) Where, following a refusal referred to in rule 52 to exercise a power—
+
+- (a) an appellant wants to make a requisition under section 36(2) to have an application determined by the court as duly constituted or renews an application for the exercise of a power conferred by section 36A under section 36A(2), [^key-18e736d9fccb315b7712194068e509d4]...
+- (b) the Director makes an application under section 36C(5) (appeal against a procedural direction), or[^key-93b4a95303e6bbd1cea910f99844eb53]
+- (c) a party to proceedings under section 304D or 304E of the 2006—
+  - (i) wants to make a requisition, in accordance with regulation 20(3) (powers under Part 2 that are exercisable by a single judge) of the 2024 Regulations, to have an application determined by the court as duly constituted,
+  - (ii) renews, under regulation 21(3), an application for the exercise of a power conferred by regulation 21 (powers which may be exercised by the registrar) of the 2024 Regulations, or
+  - (iii) makes an application under regulation 23(3) (appeals against procedural directions) of the 2024 Regulations,
+
+he must do so not later than 14 days after the day on which he was served with the notice made under rule 52 of the refusal.
+
+(2) The period in paragraph (1) may be extended by a judge of the court, the registrar or the court as appropriate, before or after the period expires.
+
+(3) A requisition under section 36(2) of the 1968 Act or regulation 20(3) of the 2024 Regulations[^key-73d2a08ca6e5300a487daf7f561211fe] must be in the form set out in Schedule 3, and an application referred to in paragraph (1) must be in writing.
+
+(4) A requisition or application referred to in paragraph (1) must be made to the registrar and must specify—
+
+- (a) the date on which notice made under rule 52 was served;
+- (b) the power exercised by the registrar or single judge which the party[^key-8ba129ad7b72fb96e890e61466ae3074], requires or applies to be considered; and
+- (c) any additional information not contained in the original application that the party considers relevant.
+
+(5) A requisition or application referred to in paragraph (1) must be signed by the appellant , or the offender, as the case may be,[^key-c4a0c2c880b10eceb632ed3b575614f7] or his legal representative, or by the Director, as appropriate.
+
+(6) Unless the court directs otherwise, an application for an extension of the period referred to in paragraph (1) must be considered at the same time as the requisition or application referred to in that paragraph.
+
+(7) If an appellant makes a requisition under section 36(2) of the 1968 Act, or a party to the proceedings makes an application under regulations 20(3) of the 2024 Regulations,[^key-6c7b56eb037a328cc9495ff44a08751d] outside the period specified in paragraph (1), as extended (if at all) under these rules, the requisition shall be treated as having been refused.
+
+## PART 9 — REFERENCE TO THE COURT OF AN UNDULY LENIENT SENTENCE
+
+### 54. Attorney General's reference of unduly lenient sentence
+
+(1) This Part applies when the Attorney General wants to refer a case to the court under section 273(1) of the 2006 Act.
+
+(2) In this Part “**respondent**” means a person who serves a respondent's notice.
+
+### 55. Service of notice of reference and application for permission
+
+The Attorney General must serve on the registrar—
+
+- (a) any notice of reference of the case; and
+- (b) any application for permission to refer the case.
+
+### 56. Notice of reference and application for permission
+
+(1) An application for permission to refer a case must be made in writing and must—
+
+- (a) give the required information and—
+  - (i) the date and place of the relevant Court Martial decision; and
+  - (ii) the relevant verdict and sentence; and
+- (b) explain why the sentence in the case appears to the Attorney General unduly lenient, concisely outlining each argument in support.
+
+(2) A notice of reference of a case must be made in writing and must—
+
+- (a) include the same details and explanation as the application for permission to refer the case;
+- (b) summarise the relevant facts; and
+- (c) identify any relevant authorities.
+
+(3) Where the court gives the Attorney General permission to refer a case, it may treat the application for permission to refer a case as the notice of reference of a case.
+
+### 57. Registrar's notice to offender
+
+(1) The registrar must serve on the person to whom proceedings relate—
+
+- (a) a notice of reference of the case;
+- (b) an application for permission to refer the case.
+
+(2) Where the Attorney General applies for permission to refer a case, the registrar must give the person to whom proceedings relate notice—
+
+- (a) that the outcome of the reference may make a difference to his sentence, and in particular may result in a more severe sentence;
+- (b) that he may serve a respondent's notice;
+- (c) of the effect of regulations—
+  - (i) 7(1) (entitlement of offender to be present at hearings),
+  - (ii) 7(2) (offender in custody requires leave to be present at hearing),
+  - (iii) 7(3) (power of court to pass sentence on offender not present), and
+  - (iv) 9 (entitlement of offender to reasonable costs),
+
+  of the 2009 Regulations.
+
+### 58. Respondent's notice
+
+(1) A person to whom proceedings relate upon whom the registrar has served an application for permission to refer a case under this Part may serve a respondent's notice, and must do so if—
+
+- (a) that person wants to make representations to the court; or
+- (b) the court so directs.
+
+(2) The respondent must serve the respondent's notice on—
+
+- (a) the Attorney General; and
+- (b) the registrar.
+
+(3) The respondent must serve the respondent's notice not more than 14 days after—
+
+- (a) the registrar serves the application; or
+- (b) a direction to do so.
+
+(4) The respondent's notice must—
+
+- (a) state whether the respondent wants to make representations at the hearing of the application for permission or reference and whether he wants to do so in person or by a legal representative on his behalf;
+- (b) include or attach any application for the following, stating the reasons for the application—
+  - (i) an extension of time within which to serve the respondent's notice; and
+  - (ii) permission to be present at a hearing under regulation 7(2) of the 2009 Regulations.
+
+(5) The period in paragraph (3) may be extended by the court before or after the period expires.
+
+### 59. Variation or withdrawal of notice of reference or application for permission
+
+(1) This rule applies where the Attorney General wants to vary or withdraw—
+
+- (a) a notice of reference of a case; or
+- (b) an application for permission to refer a case.
+
+(2) The Attorney General—
+
+- (a) may vary or withdraw the notice of reference of a case or the application for permission to refer a case without the court's permission by serving notice on—
+  - (i) the registrar, and
+  - (ii) the person to whom proceedings relate,
+
+  before any hearing of the reference or application for permission; but
+- (b) at any such hearing, may only vary or withdraw the notice of reference of a case or the application for permission to refer a case with the court's permission.
+
+## PART 10 — ABANDONMENT OF APPEAL OR GROUNDS OF APPEAL
+
+### 60. Abandonment of appeal
+
+(1) This rule applies to—
+
+- (a) an appeal under Chapter 1 or 2 of Part 6, and
+- (b) an appeal referred to in rule 45(1),
+
+and “appellant”, “**appeal notice**” and “**respondent's notice**” shall be construed accordingly.
+
+(2) Where an appellant wants to abandon an application to the court for permission to appeal or an appeal, he—
+
+- (a) may abandon the application or appeal without the court's permission by serving notice of abandonment on—
+  - (i) the registrar, and
+  - (ii) any other person on whom the registrar or the appellant served an appeal notice,
+
+  before any hearing of the application or appeal; but
+- (b) at any such hearing, may only abandon that application with the court's permission.
+
+(3) A notice of abandonment must be in writing and be signed by the appellant or his legal representative on his behalf.
+
+(4) On receiving notice of abandonment the registrar must—
+
+- (a) date it;
+- (b) serve a dated copy on—
+  - (i) the appellant;
+  - (ii) the custodian, if any; and
+  - (iii) every other person on whom the registrar or appellant served the appeal notice; and
+- (c) treat the application or appeal as if it had been refused or dismissed by the court.
+
+### 61. Abandoning a ground of appeal or opposition
+
+(1) This rule applies where a party wants to abandon—
+
+- (a) a ground of appeal identified in an appeal notice; or
+- (b) a ground of opposition identified in a respondent's notice.
+
+(2) Such a party must serve written notice to—
+
+- (a) the registrar, and
+- (b) every other party,
+
+before any hearing at which that ground will be considered by the court.
+
+## PART 11 — WITNESSES
+
+### 62. Witnesses
+
+(1) An appellant or any other party to an appeal or application for permission to bring an appeal under any of these Rules or a reference referred to in rule 45(2)(a) or (b), may at any time apply for an order that a witness must attend for examination.
+
+(2) In this rule “**appellant**” shall be construed in accordance with the meaning of that term as it applies under the relevant Part of these Rules in relation to different appeals, applications or references.
+
+(3) An application for an order under paragraph (1) must be made in writing.
+
+(4) Where the court orders the examination of any witness to be conducted otherwise than before the court itself, such order must specify the person appointed as examiner to take the examination, the place of examination and the witness to be examined.
+
+(5) Subject to the provisions of rules 22 and 23 and to any direction given by a judge of the court, the registrar must furnish to the person appointed to take an examination any document, exhibit or other thing (or copy of it) relating to the appeal that he may require.
+
+(6) After the examination has been concluded, the examiner must return to the registrar any document, exhibit or other thing (or copy) provided to him under paragraph (5), together with any record of evidence taken by him under this rule.
+
+(7) When an examiner has appointed the day and time for the examination he must request the registrar to notify—
+
+- (a) the appellant and any other party to the appeal, and
+- (b) if any person within sub-paragraph (a) is in custody, his custodian,
+
+of the day and time appointed.
+
+(8) The registrar must also serve on every witness to be examined and (if the witness is in custody) on his custodian a notice containing an order that—
+
+- (a) the witness is to attend at a time and place so specified in the order; and
+- (b) the witness is to bring with him such documents or other things so specified.
+
+(9) An examiner shall have power to administer an oath to, or take the affirmation of, any witnesses, and to require any witness to take such oath or make such affirmation.
+
+(10) The evidence of every witness taken before an examiner must, unless otherwise ordered by the court, be taken in private.
+
+(11) The evidence of every witness taken before an examiner must be recorded in such form as may be ordered by the court and must, unless otherwise ordered by the court, contain the information at paragraph (12).
+
+(12) The record of evidence must contain—
+
+- (a) the name, address and, where appropriate, the rank or rate and service number of each witness examined;
+- (b) the names of those other persons present during the examination; and
+- (c) the capacity in which those other persons were present.
+
+(13) Unless the court otherwise directs, a notice required by this rule to be served on a witness must be served on him personally.
+
+## PART 12 — APPEALS TO THE SUPREME COURT
+
+### 63. Applications in relation to the Supreme Court
+
+(1) An application to the court—
+
+- (a) pursuant to section 39(2) of the 1968 Act or regulation 26(2) of the 2024 Regulations[^key-70b85971d79a0d8887545ef0735f480c] for permission to appeal to the Supreme Court,
+- (b) to extend, by virtue of section 40(2) of the 1968 Act or regulation 27(4) of the 2024 Regulations[^key-4622de7688146833b14271d2744af9ab], the time for making an application for permission to appeal,
+- (c) to grant bail under section 42,
+- (d) pursuant to section 274(2) of the 2006 Act for permission to refer a point of law to the Supreme Court, or
+- (e) for permission to be present at the hearing of any application to which this paragraph applies,
+
+must, unless made orally at the hearing before the court, be made in writing.
+
+(2) An application in writing mentioned in sub-paragraph (a) or (d) of paragraph (1) must specify the point which the applicant wants the court to certify as being of general public importance and must state the reasons why that point ought to be considered by the Supreme Court, numbering each point consecutively (if there is more than one), and concisely outlining each argument in support.
+
+(3) An application in writing mentioned in paragraph (1) must (in addition to anything required under paragraph (2)) contain—
+
+- (a) the required information,
+- (b) the date of the decision of the court,
+- (c) as appropriate, the address or place of custody of the person to whom proceedings relate, and
+- (d) if applying for an extension of time under section 40(2) of the 1968 Act or regulation 27(4) of the 2024 Regulations[^key-ac5995d6a67048b49cb8a0ca9acf7311], the reasons for the delay,
+
+and must be signed and dated by the applicant or his legal representative.
+
+(4) Rules 19 to 23 shall apply to an application mentioned in paragraph (1) as they apply to applications in relation to appeals to the court.
+
+(5) Rules 52 and 53 shall apply to the exercise, by virtue of section 48 of the 1968 Act or regulation 37 of the 2024 Regulations[^key-f62da7df5effe60213bd3263e0c9fc2c], by a judge of the court of the powers of the court in relation to an application referred to in sub-paragraph (b), (c) or (e) of paragraph (1).
+
+(6) In the case of an appeal to the Supreme Court under section 13 of the Administration of Justice Act 1960 [^c19891501] (appeals in the case of contempt of court)—
+
+- (a) bail may be granted either by the court or by a judge of the court;
+- (b) the grant of bail may be subject to such conditions as the court or a judge of the court may direct;
+- (c) paragraphs (1), (3) and (4) shall apply to an application for bail as if the application were an application for bail under section 42;
+- (d) rules 52 and 53 shall apply to the exercise by a judge of the court of the power to grant bail under this paragraph.
+
+### 64. Hearings
+
+Where a party wants to appeal or the Attorney General wants to make a reference under section 274(1) of the 2006 Act to the Supreme Court the court—
+
+- (a) may decide without a hearing an application for permission to appeal or to make the reference;
+- (b) must announce its decision on the application at a hearing in public.
+
+## PART 13 — MISCELLANEOUS PROVISIONS
+
+### 65. Notifying results of an appeal, etc
+
+(1) On the determination of an appeal to the court or any application to the court relating to such an appeal, including an application for permission to appeal to the Supreme Court, the registrar must, unless it appears to him unnecessary to do so, give written notice of the determination to the appellant and any other party to the appeal and the custodian of any person who is in custody.
+
+(2) In the case of a declaration of incompatibility under section 4 of the 1998 Act, the declaration must be served on—
+
+- (a) all the parties to the proceedings; and
+- (b) where a Minister of the Crown has not been joined as a party, the person on whom notice has been served under rule 24(2).
+
+### 66. Register and cause list
+
+(1) The registrar must keep a register of all cases in which he receives notice of an application for permission to appeal under the 1968 Act or under section 304D or 304E of the 2006 Act[^key-828d34df3e9bdc3ab58684e78a0c2916] and must cause the register to be open for public inspection in such place and at such hours as he, with the approval of the court, directs.
+
+(2) The registrar must also prepare a list of appeals and applications which the court may consider on the days on which the court, as constituted for the hearing and determination of appeals under the Act, is to sit, and must cause such list to be published at such times, in places and in such a manner as he, subject to the approval of the court, thinks convenient for giving due notice to any parties interested.
+
+### 67. Non-compliance with Rules
+
+(1) The court may direct that failure to comply with these Rules by an appellant shall not prevent further proceedings in relation to the appeal.
+
+(2) The registrar must as soon as practicable notify a party to the proceedings of any directions given by the court under this rule, where neither that party nor his legal representative was present at the time when such directions were given.
+
+### 68. Enforcement of duties[^key-095832905da6e99ef1e90f4da602e5d8]
+
+The performance of any duty imposed upon any person by or under—
+
+- (a) the 1968 Act,
+- (b) section 304D or 304E of the 2006 Act,
+- (c) the 2024 Regulations, or
+- (d) these Rules,
+
+may be enforced by order of the court.
+
+## PART 14 — REVOCATIONS AND TRANSITIONAL PROVISIONS
+
+### 69. Revocation and transitional arrangements
+
+(1) Subject to paragraph (2), the Rules and the Order named in the first column of Schedule 5 are revoked to the extent specified in the corresponding entry in the third column of that Schedule.
+
+(2) Schedule 4 (transitional provisions) shall have effect.
+
+Judge, C.J.
+
+I agree to the making of these Rules, which shall come into force on 31st October 2009
+
+Jack Straw
+
+Lord Chancellor
+
+## SCHEDULE 1 — OATHS AND AFFIRMATIONS
+
+Rule 15(2)
+
+The words prescribed are—
+
+- (a) for witnesses,  “… the evidence I shall give shall be the truth, the whole truth, and nothing but the truth”; and
+- (b) for interpreters, “… I will well and faithfully interpret and make true explanation of all such matters and things as shall be required of me according to the best of my skill and understanding”.
+
+## SCHEDULE 2 — NOTICE OF APPLICATION FOR PERMISSION TO APPEAL
+
+Rule 46(1)
+
+TO THE REGISTRAR OF THE COURT MARTIAL APPEAL COURT Royal Courts of Justice Strand London, WC2A 2LL **NOTICE OF APPLICATION FOR PERMISSION TO APPEAL**
+
+| *Details required* | *Notes* |
+| --- | --- |
+| Details of appellant |  |
+| Name of appellant: |  |
+| Number: |  |
+| Unit or Ship: |  |
+| Address: |  |
+| Rank/Rate: |  |
+| Details of Application |  |
+| Convicted by the Court Martial at: |  |
+| Offence(s) of which convicted: |  |
+| Sentence: |  |
+| Date when sentence passed: |  |
+| Name of place of detention/address: | If not in custody set out the appellant's address in full. |
+| I the above named applicant give notice that I apply to the Court Martial Appeal Court for the following: | The reasons why you consider that your conviction should be quashed and/or that your sentence should be reduced should be set out in a separate document(s) and attached to this form. Where grounds of appeal have been settled by counsel they must be signed by counsel and attached to this form. There is no obligation to include a copy of counsel's advice although in some cases it may be helpful to do so. Grounds must be settled with sufficient detail to enable matters relied upon to be clearly identified. Wording such as “the conviction is unsafe and unsatisfactory” or “the sentence is in all the circumstances too severe” will be ineffective as grounds and an extension of time may have to be applied for. |
+| Extension of time within which to apply for permission to appeal: | If this form is lodged outside of the prescribed period it must be accompanied by the reasons why the application was delayed. |
+| Yes/No? |  |
+| Permission to appeal against conviction: |  |
+| Yes/No? |  |
+| Permission to appeal against sentence: |  |
+| Yes/No? |  |
+| Permission to appeal against review of sentence:[^key-7943d66b81afc1945dc217a28e637d2d] |  |
+| Yes/No? |  |
+| Leave to call a witness: |  |
+| Yes/No? |  |
+| Leave to be present: |  |
+| Yes/No? |  |
+| Legal aid: |  |
+| Yes/No? |  |
+| If you are applying for legal aid is any solicitor, solicitor advocate or Counsel now acting for you? |  |
+| Yes/No? | If yes, please give his name and address. |
+| Signed: | This notice must be signed by the appellant or by his legal representative. |
+| Dated: |  |
+
+## SCHEDULE 3 — NOTICE OF REQUISITION UNDER SECTION 36(2) OF THE 1968 ACT OR REGULATION 20(3) OF THE 2024 REGULATIONS[^key-28bdf239cf3a4bbbe6c0a55ddb14b63c]
+
+Rule 53(3)
+
+TO THE REGISTRAR OF THE COURT MARTIAL APPEAL COURT Royal Courts of Justice Strand London, WC2A 2LL **NOTICE OF REQUISTION UNDER SECTION 36(2) OF THE 1968 ACT OR REGULATION 20(3) OF THE 2024 REGULATIONS[^key-8fc5df73e7da7a9cda97d0095d4369f0]**
+
+| *Details required* | *Notes* |
+| --- | --- |
+| Details of appellant |  |
+| Name of appellant: |  |
+| Number: |  |
+| Unit or Ship: |  |
+| Address: | If not in custody set out the appellant's address in full. |
+| Rank/Rate: |  |
+| Details of Application |  |
+| I the above named applicant having received on— | Insert date of receipt. |
+| your notification that my application for— | Insert details of application. |
+| has/have been refused by a judge of the court, give you notice that I desire that the said application(s) shall be considered and determined by the full court. |  |
+| State any reasons, in addition to those set out by you in your original application, that you wish give— | You must not repeat reasons that you have already stated in previous applications. |
+| Signed: | This notice must be signed by the appellant or by his legal representative. |
+| Dated: |  |
+
+## SCHEDULE 4 — TRANSITIONAL PROVISIONS
+
+Rule 69(2)
+
+### 1. Interpretation
+
+In this Schedule—
+
+- “**commencement**” means the date on which these Rules come into force; and
+- “**the 1968 Rules**” means the Courts-Martial Appeal Rules 1968 [^c19891511].
+
+### 2. General modification of these Rules
+
+In these Rules—
+
+any reference to “**the Court Martial**” includes a reference to a court-martial under the Army Act 1955 [^c19891521], the Air Force Act 1955 [^c19891531] or the Naval Discipline Act 1957 [^c19891541]; and any reference to “**the Service Civilian Court**” includes a reference to a Standing Civilian Court [^c19891551].
+
+### 3. Modifications consequent on revocation of the 1968 Rules
+
+(1) Where a petition presented to the Defence Council in accordance with rule 3 of the Courts-Martial Appeal Rules 1968 before commencement has not been determined, the petition shall be treated as an appeal notice under Part 7, unless the court otherwise directs.
+
+(2) For the purposes of these Rules, the court may treat any other thing done under the 1968 Rules as satisfying anything required to be done under these Rules.
+
+(3) Where the court gives a direction under sub-paragraph (1) or decides that it will not treat something done under the 1968 Rules as satisfying a requirement of these Rules, the court may direct that a period of time shall, notwithstanding any time limit in these Rules, be allowed in which a person directed by the court must or may provide such further information, or do such other thing as the court directs.
+
+(4) The powers of the court under this paragraph may, on an application by a party, be exercised by a judge of the court.
+
+(5) If, on an application, a judge of the court exercises, or refuses to exercise, a power under this paragraph, the registrar shall, within seven days after the date of the exercise or refusal, serve notice of that decision on the parties to the appeal, application or reference to which the decision relates.
+
+(6) If a judge of the court refuses to exercise a power under this paragraph, the applicant shall be entitled to have the application for the exercise of the power determined by the court as duly constituted for the purpose in accordance with section 5.
+
+## SCHEDULE 5 — REVOCATION SCHEDULE
+
+| *(1)* | *(2)* | *(3)* |
+| --- | --- | --- |
+| *Rules or Order revoked* | *References* | *Extent of revocation* |
+| The Courts-Martial Appeal Rules 1968 | S.I. 1968/1071 | The whole Rules |
+| The Courts-Martial Appeal (Amendment) Rules 1972 | S.I. 1972/798 | The whole Rules |
+| The Courts-Martial Appeal (Amendment) Rules 1997 | S.I. 1997/580 | The whole Rules |
+| The Courts-Martial Appeal (Amendment ) Rules 2000 | S.I. 2000/2228 | The whole Rules |
+| The Courts-Martial Appeal (Amendment) Rules 2005 | S.I. 2005/446 | The whole Rules |
+| The Courts-Martial Appeal (Amendment) Rules 2007 | S.I. 2007/710 | The whole Rules |
+| The Courts-Martial Appeal (Amendment No. 2) Rules 2007 | S.I. 2007/1298 | The whole Rules |
+| The Secretary of State for Justice Order 2007 | S.I. 2007/2128 | Paragraph 12 of Part 2 of the Schedule |
+
+*(This note is not part of the Rules)*
+
+These Rules prescribe the practice and procedure to be followed in proceedings of the Court Martial Appeal Court. They replace the existing rules, with amendments following the enactment of the Armed Forces Act 2006 (c. 52) (“**the 2006 Act**”) and the Criminal Justice and Immigration Act 2008 (c. 4). Both of those Acts make amendments to the Courts-Martial (Appeals) Act 1968 (c. 20). That Act is renamed the Court Martial Appeal Act 1968 by the 2006 Act.
+
+Part 2 of these Rules makes provision with regard to the service of documents on different people and sets out when service is deemed to have occurred depending upon the method of service.
+
+Part 3 deals with general procedural matters, including applications for evidence to be given through live links (rule 14), rights of audience (rule 17) and qualifications of legal representatives (rule 18). Rule 15 provides that oaths and affirmations taken before the Court Martial Appeal Court are to be as prescribed by Schedule 1 to these Rules.
+
+Part 4 deals with the securing of documents and exhibits and their provision to parties to proceedings before the court.
+
+Part 5 makes provision for particular circumstances relating to the exercise of the court's powers. Rule 24 sets out the procedures where a party requests the court to make a declaration of incompatibility with a Convention right under section 4 of the Human Rights Act 1998 (c. 42). Rule 25 applies where a case is referred to the court by the Criminal Cases Review Commission.
+
+Part 6 sets out the form and procedure for appeals against orders or rulings made at preliminary proceedings of the Court Martial or against an order of that court prohibiting or restricting the publication of any matter or restricting public access to any proceedings of the Court Martial. Chapter 3 of Part 6 makes provision with respect to the powers of the court and the registrar in relation to appeals to which Part 6 applies. It does not do this for other appeals or references as equivalent provision for them is made in the Court Martial Appeal Act 1968 itself.
+
+Part 7 sets out the form and procedure for appeals against a conviction, sentence, the making of a hospital order or a finding of insanity or unfitness to plead by the Court Martial. In particular, rules 47 and 48 set out the period in which a person must bring an appeal.
+
+Part 8 makes provision for the bringing of appeals against decisions or procedural directions of the registrar or a single judge of the court.
+
+Part 9 makes provision as to applications by the Attorney General to refer an unduly lenient sentence to the court under section 273 of the 2006 Act and the procedure for the disposal of such references.
+
+Part 10 makes provision for the abandonment of an appeal or a ground of appeal.
+
+Part 11 is concerned with the attendance and examination of witnesses and provides for witnesses to be examined other than before the court (rule 62).
+
+Applications in relation to the Supreme Court are dealt with in Part 12. And Part 13 makes miscellaneous provisions relating to the court, including the enforcement of a duty under the Rules by order of the court (rule 68).
+
+In Part 14 rule 69 revokes the previous court rules under the 1968 Act and gives effect to Schedule 4, which makes transitional provision.
+
+## Annotations
+
+[^c19891311]: Marginal citation: [1968 c. 20](https://www.legislation.gov.uk/ukpga/1968/20); [section 49](https://www.legislation.gov.uk/uksi/2009/2657/section/49) was amended and partly repealed by the [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [section 12(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/12/2) and Schedule 1, Part 2, paragraph 9 and by section 146 and Schedule 18, Part 1. The amendments provide for rules under section 49 to be made in accordance with Part 1 of Schedule 1 to the 2005 Act.
+
+[^c19891321]: Marginal citation: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52). By section 163(3)(i) of that Act, Court Martial rules may make provision for appeals against orders or rulings as there set out. Section 163(9) of that Act enables Court Martial rules to confer jurisdiction on the Court Martial Appeal Court and confirms that rules under section 49 of the 1968 Act may make provision about the powers of the Court Martial Appeal Court in relation to appeals made by virtue of section 163(3)(i).
+
+[^c19891331]: Marginal citation: The 2006 Act, section 272 and Schedule 8, paragraph 53, amends section 61(1) of the 1968 Act so as to provide for that Act to be cited as the Court Martial Appeals Act 1968. Paragraph 53 comes into force on 31st October 2009.
+
+[^c19891341]: Marginal citation: [1995 c. 35](https://www.legislation.gov.uk/ukpga/1995/35).
+
+[^c19891351]: Marginal citation: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
+
+[^c19891361]: Marginal citation: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
+
+[^c19891371]: Marginal citation: [S.I. 2009/1169](https://www.legislation.gov.uk/uksi/2009/1169).
+
+[^key-2b6ac91c2939bd806d9417ed1e1f2827]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2009/2657/rule/2) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/3/a)
+
+[^key-eee5602511d17efc2fc84c2945d55701]: Textual amendment: Words in [rule 2(2)](https://www.legislation.gov.uk/uksi/2009/2657/rule/2/2) inserted (16.11.2015) by [The Court Martial Appeal Court (Amendment) Rules 2015 (S.I. 2015/1814)](https://www.legislation.gov.uk/uksi/2015/1814), [rules 1](https://www.legislation.gov.uk/uksi/2015/1814/rule/1), [3](https://www.legislation.gov.uk/uksi/2015/1814/rule/3)
+
+[^key-b6b4857075631f09d29fba874c2eabcf]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2009/2657/rule/2) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [3(b)(i)](https://www.legislation.gov.uk/uksi/2024/1060/rule/3/b/i)
+
+[^key-3e22e98aad154b67c146f3e5eb29d12e]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2009/2657/rule/2) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1060/rule/3/b/ii)
+
+[^c19891381]: Marginal citation: By virtue of section 231(3) of the 2006 Act, references in section 16A of the 1968 Act to passing a sentence include the making of a service restraining order by the Court Martial.
+
+[^key-4a1727f5a05a075327caec99f595756b]: Textual amendment: [Rule 2](https://www.legislation.gov.uk/uksi/2009/2657/rule/2) punctuation mark inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [3(c)(i)](https://www.legislation.gov.uk/uksi/2024/1060/rule/3/c/i)
+
+[^key-02565d6165e7a3f03813c9d7dde65305]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2009/2657/rule/2) renumbered (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1060/rule/3/c/ii)
+
+[^key-7b1375a7cbc5b56a302f2a9e34893091]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2009/2657/rule/2) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [3(c)(iii)](https://www.legislation.gov.uk/uksi/2024/1060/rule/3/c/iii)
+
+[^c19891391]: Marginal citation: [S.I. 2009/988](https://www.legislation.gov.uk/uksi/2009/988).
+
+[^c19891401]: Marginal citation: Section 57(1) of the 1968 Act defines “the registrar”.
+
+[^c19891411]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^c19891421]: Marginal citation: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33). Paragraph 8(1) of Schedule 13 to the Criminal Justice Act 1988 provides that the Secretary of State may by order direct that section 32(1), as modified by paragraph 8(2) of that Schedule, shall have effect in relation to proceedings before the Court Martial Appeal Court.
+
+[^c19891431]: Marginal citation: [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23). Section 33A was inserted by section 47 of the [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48) and under section 61(1) of the 1999 Act may by order of the Secretary of State be applied, subject to such modifications as the Secretary of State may specify, to proceedings before the Court Martial Appeal Court.
+
+[^c19891441]: Marginal citation: [1978 c. 19](https://www.legislation.gov.uk/ukpga/1978/19).
+
+[^key-f2ad050bcd16c89fd7635c442ca12616]: Textual amendment: Rule 16 substituted (27.10.2013) by [The Court Martial Appeal Court (Interpretation and Translation) Rules 2013 (S.I. 2013/2524)](https://www.legislation.gov.uk/uksi/2013/2524), [rules 1](https://www.legislation.gov.uk/uksi/2013/2524/article/1), [3](https://www.legislation.gov.uk/uksi/2013/2524/article/3)
+
+[^key-41885e2106ead6ac4c15706c3873b87d]: Textual amendment: [Rule 16A](https://www.legislation.gov.uk/uksi/2009/2657/rule/16A) inserted (16.11.2015) by [The Court Martial Appeal Court (Amendment) Rules 2015 (S.I. 2015/1814)](https://www.legislation.gov.uk/uksi/2015/1814), [rules 1](https://www.legislation.gov.uk/uksi/2015/1814/rule/1), [4](https://www.legislation.gov.uk/uksi/2015/1814/rule/4)
+
+[^c19891451]: Marginal citation: [1990 c. 41](https://www.legislation.gov.uk/ukpga/1990/41). Subsection (6) of section 71 of the Courts and Legal Services Act 1990 was substituted by the Access to [Justice Act 1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), [section 43](https://www.legislation.gov.uk/ukpga/1999/22/section/43), [Schedule 6](https://www.legislation.gov.uk/ukpga/1999/22/schedule/6), [paragraphs 4](https://www.legislation.gov.uk/ukpga/1999/22/paragraph/4) and 9. Subsections (7) and (8) of section 71 of the 1990 Act were repealed by section 106 of, and Schedule 15, Part 2 to, the 1999 Act. Prospective amendments to section 71 of the 1990 Act are made to subsection (3) by the [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [section 59(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/59/5), [Schedule 11](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11), [Part 2](https://www.legislation.gov.uk/ukpga/2005/4/part/2), [paragraph 4(1)](https://www.legislation.gov.uk/ukpga/2005/4/paragraph/4/1) and (3). Prospective amendments are made to subsections (4) and (6) and a new subsection (6A) is inserted into section 71 of the 1990 Act by the [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [section 208(1)](https://www.legislation.gov.uk/ukpga/2007/29/section/208/1), [Schedule 21](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21), [paragraphs 83](https://www.legislation.gov.uk/ukpga/2007/29/paragraph/83) and 94(a), (b) and (c).
+
+[^c19891461]: Marginal citation: [Section 4](https://www.legislation.gov.uk/uksi/2009/2657/section/4) was amended by section 378 of, and paragraph 156 of Schedule 16 to, the 2006 Act.
+
+[^c19891471]: Marginal citation: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).
+
+[^c19891481]: Marginal citation: [Section 12A](https://www.legislation.gov.uk/uksi/2009/2657/section/12A) is inserted by section 321 of, and paragraph 2 of Schedule 11 to, the 2006 Act with effect on 31st October 2009. By virtue of section 12A(3) and (6) of the 1995 Act a reference to the court by the Commission shall be treated as an appeal under section 8 of the 1968 Act.
+
+[^key-953ac4a825160dbfbfc91c659bf1257e]: Textual amendment: Words in [rule 26(1)](https://www.legislation.gov.uk/uksi/2009/2657/rule/26/1) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1060/rule/4)
+
+[^key-3c82ab7a85dd60bb35cde51efc9ab283]: Textual amendment: Words in [rule 32(2)(c)](https://www.legislation.gov.uk/uksi/2009/2657/rule/32/2/c) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2024/1060/rule/5)
+
+[^key-e6c0d4c3c0f936c9154cb12d9d8e3a8b]: Textual amendment: Words in [Pt. 7](https://www.legislation.gov.uk/uksi/2009/2657/part/7) heading inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2024/1060/rule/6)
+
+[^key-a4397c6ca8b810d5d2f4fa8b9fcfe843]: Textual amendment: Words in [rule 45(1)](https://www.legislation.gov.uk/uksi/2009/2657/rule/45/1) substituted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/7/b)
+
+[^key-24ebf1814013795abe1df4cbe5de8418]: Textual amendment: Words in [rule 45](https://www.legislation.gov.uk/uksi/2009/2657/rule/45) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/7/a)
+
+[^key-83e1042a28898c7361e3ca9b0c0776a8]: Textual amendment: Words in [rule 45(3)](https://www.legislation.gov.uk/uksi/2009/2657/rule/45/3) substituted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2024/1060/rule/7/c)
+
+[^key-dda99cb561e50aeff947506c5004fb4c]: Textual amendment: Word in [rule 46(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2009/2657/rule/46/1/c/ii) omitted (20.11.2024) by virtue of [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/8/a)
+
+[^key-531b738d6c23a4e916854fdef1036700]: Textual amendment: [Rule 46(1)(c)](https://www.legislation.gov.uk/uksi/2009/2657/rule/46/1/c)[(iia)](https://www.legislation.gov.uk/uksi/2009/2657/rule/46/1/iia) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/8/b)
+
+[^c19891491]: Marginal citation: [Section 9(3)](https://www.legislation.gov.uk/uksi/2009/2657/section/9/3) of the 1968 Act provides that the court may extend the period within which an application for leave to appeal under section 9 must be made. Sections 36 and 36A of the 1968 Act provide that that power to extend the period may be exercised by a judge of the court or the registrar.
+
+[^key-339eee4b691727b8577e2bea45bce3e7]: Textual amendment: Words in [rule 47](https://www.legislation.gov.uk/uksi/2009/2657/rule/47) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/9/a)
+
+[^key-025691642bf41ded40db703d15f92ad1]: Textual amendment: Word in [rule 47(b)](https://www.legislation.gov.uk/uksi/2009/2657/rule/47/b) omitted (20.11.2024) by virtue of [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/9/b)
+
+[^key-cc36e07d0f63e11c39a1ab5f20286b9e]: Textual amendment: [Rule 47(ba)](https://www.legislation.gov.uk/uksi/2009/2657/rule/47/ba) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2024/1060/rule/9/c)
+
+[^key-71988086b364b12539dcb686603c3270]: Textual amendment: Words in [rule 52](https://www.legislation.gov.uk/uksi/2009/2657/rule/52) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/10/a)
+
+[^key-59a81bc75eb504fcc7d7a230e2d07826]: Textual amendment: Words in [rule 52](https://www.legislation.gov.uk/uksi/2009/2657/rule/52) substituted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/10/b)
+
+[^key-18e736d9fccb315b7712194068e509d4]: Textual amendment: Word in [rule 53(1)(a)](https://www.legislation.gov.uk/uksi/2009/2657/rule/53/1/a) omitted (20.11.2024) by virtue of [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/11/a)
+
+[^key-93b4a95303e6bbd1cea910f99844eb53]: Textual amendment: [Rule 53(1)(c)](https://www.legislation.gov.uk/uksi/2009/2657/rule/53/1/c) and word inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/11/b)
+
+[^key-73d2a08ca6e5300a487daf7f561211fe]: Textual amendment: Words in [rule 53(3)](https://www.legislation.gov.uk/uksi/2009/2657/rule/53/3) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2024/1060/rule/11/c)
+
+[^key-8ba129ad7b72fb96e890e61466ae3074]: Textual amendment: Word in [rule 53(4)](https://www.legislation.gov.uk/uksi/2009/2657/rule/53/4) substituted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [11(d)](https://www.legislation.gov.uk/uksi/2024/1060/rule/11/d)
+
+[^key-c4a0c2c880b10eceb632ed3b575614f7]: Textual amendment: Words in [rule 53(5)](https://www.legislation.gov.uk/uksi/2009/2657/rule/53/5) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [11(e)](https://www.legislation.gov.uk/uksi/2024/1060/rule/11/e)
+
+[^key-6c7b56eb037a328cc9495ff44a08751d]: Textual amendment: Words in [rule 53(7)](https://www.legislation.gov.uk/uksi/2009/2657/rule/53/7) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [11(f)](https://www.legislation.gov.uk/uksi/2024/1060/rule/11/f)
+
+[^key-70b85971d79a0d8887545ef0735f480c]: Textual amendment: Words in [rule 63(1)(a)](https://www.legislation.gov.uk/uksi/2009/2657/rule/63/1/a) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [12(a)(i)](https://www.legislation.gov.uk/uksi/2024/1060/rule/12/a/i)
+
+[^key-4622de7688146833b14271d2744af9ab]: Textual amendment: Words in [rule 63(1)(b)](https://www.legislation.gov.uk/uksi/2009/2657/rule/63/1/b) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1060/rule/12/a/ii)
+
+[^key-ac5995d6a67048b49cb8a0ca9acf7311]: Textual amendment: Words in [rule 63(3)(d)](https://www.legislation.gov.uk/uksi/2009/2657/rule/63/3/d) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/12/b)
+
+[^key-f62da7df5effe60213bd3263e0c9fc2c]: Textual amendment: Words in [rule 63(5)](https://www.legislation.gov.uk/uksi/2009/2657/rule/63/5) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [12(c)](https://www.legislation.gov.uk/uksi/2024/1060/rule/12/c)
+
+[^c19891501]: Marginal citation: [1960 c. 65](https://www.legislation.gov.uk/ukpga/1960/65).
+
+[^key-828d34df3e9bdc3ab58684e78a0c2916]: Textual amendment: Words in [rule 66](https://www.legislation.gov.uk/uksi/2009/2657/rule/66) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [13](https://www.legislation.gov.uk/uksi/2024/1060/rule/13)
+
+[^key-095832905da6e99ef1e90f4da602e5d8]: Textual amendment: [Rule 68](https://www.legislation.gov.uk/uksi/2009/2657/rule/68) substituted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [14](https://www.legislation.gov.uk/uksi/2024/1060/rule/14)
+
+[^key-7943d66b81afc1945dc217a28e637d2d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2657/schedule/2) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [15](https://www.legislation.gov.uk/uksi/2024/1060/rule/15)
+
+[^key-28bdf239cf3a4bbbe6c0a55ddb14b63c]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2009/2657/schedule/3) heading inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/16/a)
+
+[^key-8fc5df73e7da7a9cda97d0095d4369f0]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2009/2657/schedule/3) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/16/b)
+
+[^c19891511]: Marginal citation: [S.I. 1968/1071](https://www.legislation.gov.uk/uksi/1968/1071). The Courts-Martial Appeal Rules 1968 are amended by the Courts-[Martial Appeal (Amendment) Rules 1972 (S.I. 1972/798)](https://www.legislation.gov.uk/uksi/1972/798), the Courts-[Martial Appeal (Amendment) Rules 1997 (S.I. 1997/580)](https://www.legislation.gov.uk/uksi/1997/580), the Courts-[Martial Appeal (Amendment) Rules 2000 (S.I. 2000/2228)](https://www.legislation.gov.uk/uksi/2000/2228), the Courts-[Martial Appeal (Amendment) Rules 2005 (S.I. 2005/446)](https://www.legislation.gov.uk/uksi/2005/446), the Courts-[Martial Appeal (Amendment) Rules 2007 (S.I. 2007/710)](https://www.legislation.gov.uk/uksi/2007/710), the Courts-[Martial Appeal (Amendment No. 2) Rules 2007 (S.I. 2007/1298)](https://www.legislation.gov.uk/uksi/2007/1298), and the [Secretary of State for Justice Order 2007 (S.I. 2007/2128)](https://www.legislation.gov.uk/uksi/2007/2128).
+
+[^c19891521]: Marginal citation: [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18).
+
+[^c19891531]: Marginal citation: [1955 c. 19](https://www.legislation.gov.uk/ukpga/1955/19).
+
+[^c19891541]: Marginal citation: [1957 c. 53](https://www.legislation.gov.uk/ukpga/1957/53).
+
+[^c19891551]: Marginal citation: Standing Civilian Courts were established under the [Armed Forces Act 1976 (c. 52)](https://www.legislation.gov.uk/ukpga/1976/52) and are replaced by the Service Civilian Court under the 2006 Act.

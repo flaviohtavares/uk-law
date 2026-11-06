@@ -1,0 +1,33 @@
+---
+title: Corporation Tax Act 2010, section 1145
+act: Corporation Tax Act 2010
+section: '1145'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/1145
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 1145
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 1145. The independent broker conditions
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if a transaction is carried out on behalf of a non-UK resident company in the course of the company's trade by a person in the United Kingdom acting as a broker.
+
+(2) In relation to the transaction, the broker is regarded for the purposes of section 1142(1) as an agent of independent status acting in the ordinary course of the broker's business if (and only if) each of conditions A to D is met.
+
+(3) Condition A is that at the time of the transaction the broker is carrying on the business of a broker.
+
+(4) Condition B is that the transaction is carried out in the ordinary course of that business.
+
+(5) Condition C is that the remuneration which the broker receives in respect of the transaction for the provision of the services of a broker to the non-UK resident company is not less than is customary for that class of business.
+
+(6) Condition D is that the broker does not fall (apart from this subsection) to be treated as a permanent establishment of the non-UK resident company in relation to any other transaction of any kind carried out in the same accounting period of the non-UK resident company as the transaction in question.

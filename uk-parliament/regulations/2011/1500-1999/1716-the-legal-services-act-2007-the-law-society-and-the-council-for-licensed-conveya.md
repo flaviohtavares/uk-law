@@ -1,0 +1,377 @@
+---
+title: The Legal Services Act 2007 (The Law Society and The Council for Licensed Conveyancers) (Modification of Functions) Order 2011
+id: uksi/2011/1716
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-07-12'
+text_date: '2012-11-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2011/1716
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/1716/pdfs/uksiem_20111716_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1716/pdfs/uksi_20111716_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/1716/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Legal Services Act 2007 (The Law Society and The Council for Licensed Conveyancers) (Modification of Functions) Order 2011
+
+> Text as at 2012-11-30.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2011 No. 1716
+
+Legal Services, England And Wales
+
+The Legal Services Act 2007 (The Law Society and The Council for Licensed Conveyancers) (Modification of Functions) Order 2011
+
+Made
+
+12th July 2011
+
+Coming into force in accordance with article 2
+
+The Lord Chancellor makes the following Order in exercise of the powers conferred by sections 69 and 204(3)(a), (b), (c) and (e) and (4)(a) of the Legal Services Act 2007[^f00001].
+
+In accordance with section 69(2) of that Act, the Order is made following a recommendation made by the Legal Services Board to which was annexed a draft Order in a form not materially different from this Order.
+
+The Legal Services Board has made the recommendation with the consents required by section 70(1) of that Act and after complying with the requirements in section 70(2) to (5) of that Act.
+
+A draft of this Order has been approved by a resolution of each House of Parliament pursuant to section 206(4) and (5) of that Act.
+
+## 1. Citation[^key-17956114666bb163df76913efadb737a]
+
+This Order may be cited as the Legal Services Act 2007 (The Law Society and The Council for Licensed Conveyancers) (Modification of Functions) Order 2011.
+
+## 2. Commencement[^key-dcfb1518bff8a59ee14a822372db8348]
+
+(1) Subject to paragraphs (2) to (4), this Order comes into force on the day after the day on which it is made.
+
+(2) Articles 5 and 6—
+
+- (i) do not have effect unless an Order is made designating the Law Society as a licensing authority under Part 1 of Schedule 10 to the 2007 Act in relation to one or more reserved legal activities; and
+- (ii) where such an Order is made, come into force at the same time as that Order.
+
+(3) Article 9(1), (2) and (4) come into force on 30th September 2011 or, if later, the day after the day on which this Order is made.
+
+(4) Articles 9(3) and 10—
+
+- (i) do not have effect unless an Order is made designating the Council for Licensed Conveyancers as a licensing authority under Part 1 of Schedule 10 to the 2007 Act in relation to one or more reserved legal activities; and
+- (ii) where such an Order is made, come into force at the same time as that Order.
+
+## 3. Interpretation[^key-0fc7309dd84ed3b9dd2ba7ceb4f8af62]
+
+In this Order—
+
+- “the 1985 Act” means the Administration of Justice Act 1985[^f00002];
+- “the 2007 Act” means the Legal Services Act 2007;
+- “material interest” has the same meaning as in Schedule 13 to the 2007 Act.
+
+## Functions of the Law Society
+
+### 4. Power to charge periodical fees for recognised bodies[^key-a7eac692b62e068d60a1be9f9e64bbe9]
+
+In section 9 of the 1985 Act (which makes provision as to the recognition and regulation of recognised bodies) [^f00003], in subsection (2), after paragraph (aa), insert—
+
+> - (ab) requiring recognised bodies, or descriptions of recognised body, to pay periodical fees of such amount as the Society may from time to time determine;
+
+.
+
+### 5. Extension of the power to make compensation rules ...[^key-d42dac29b15bb5eca0e3131d3679b3bd][^key-cf1e33932987ded547da4ebdad7e18e9]
+
+The Schedule to this Order (which provides for compensation rules to extend to licensed bodies [^key-a6cacf082a68e314c0467154124d5560]...) has effect.
+
+### 6. Power to make licensing rules to require payment of certain costs[^key-96b2e9428cdadb09140385c87d7c62be]
+
+(1) Licensing rules made by the Law Society may make provision requiring a relevant person to pay charges to the Law Society in respect of costs incurred by the Law Society in ascertaining whether—
+
+- (a) the terms of a licensed body’s licence are being, or have been, complied with; or
+- (b) the relevant person otherwise complies, or has complied, with any requirement imposed on the person by or under the 2007 Act or by licensing rules made by the Law Society.
+
+(2) The provision which may be made under paragraph (1) includes provision as to the circumstances in which—
+
+- (a) charges may be imposed on a relevant person;
+- (b) the whole or part of any charge payable under the licensing rules is to be repaid.
+
+(3) Any charge which a relevant person is required to pay under licensing rules made under paragraph (1) is recoverable by the Law Society as a debt due to the Law Society from the relevant person.
+
+(4) In this article—
+
+- (a) references to the Law Society are to the Law Society in its capacity as a licensing authority;
+- (b) references to a licensed body are to a licensed body which holds a licence granted by the Law Society; and
+- (c) references to a relevant person, in relation to a licensed body, are to—
+  - (i) the licensed body;
+  - (ii) any employee or manager (or former employee or manager) of the licensed body;
+  - (iii) the Head of Legal Practice[^f00004] of the licensed body;
+  - (iv) the Head of Finance and Administration[^f00005] of the licensed body;
+  - (v) any person who has an interest or an indirect interest, or holds a material interest, in the licensed body.
+
+## Functions of the Council for Licensed Conveyancers
+
+### 7. Power to issue licence for fixed or indefinite period[^key-4b3795f5e96653040b8aadc2d903a163]
+
+In section 15 of the 1985 Act (issue of licences by Council)[^f00006], after subsection (4) insert—
+
+> (4A) The period specified in a licence under subsection (4) may be a fixed or indefinite period.
+
+.
+
+### 8. Compensation payments[^key-e585723efb27ba707d439cd7fed4fa73]
+
+In section 21 of the 1985 Act (professional indemnity and compensation)[^f00007], for subsections (2A) and (2B) substitute—
+
+> (2A) The power of the Council to make rules under subsection (2) shall apply in relation to the practices of licensed conveyancers mentioned in subsection (2B) as it applies to their practices as licensed conveyancers.
+>
+> (2B) The practices referred to in subsection (2A) are the practices of licensed conveyancers which consist of carrying on a relevant activity by virtue of a licence issued under section 53 of the Courts and Legal Services Act 1990[^f00008] (which provides for the Council to authorise the carrying on of certain reserved legal activities in relation to which the Council is designated as an approved regulator).
+>
+> (2C) For the purposes of subsection (2B) “relevant activity” has the same meaning as in section 53 of the Courts and Legal Services Act 1990.
+
+.
+
+### 9. Constitution of the Council[^key-76f26dac0487c03699bc0667c234161c][^key-fab0d2df9209e0bb82669013b4a677ca]
+
+(1)[^key-76f26dac0487c03699bc0667c234161c] Schedule 3 to the 1985 Act (the Council for Licensed Conveyancers: supplementary provisions)[^f00009] is amended as follows.
+
+(2)[^key-76f26dac0487c03699bc0667c234161c] For paragraph 2 (membership of the Council for Licensed Conveyancers) substitute—
+
+> **2.** (1) The Council shall consist of—
+>
+> - (a) not more than ten persons who are—
+>   - (i) licensed conveyancers; or
+>   - (ii) other persons practising as authorised persons in the course of a business which is carried on by a recognised body; and
+> - (b) not more than eleven persons who are lay persons,
+>
+> being persons appointed as members of the Council in accordance with a scheme under paragraph 4.
+>
+> (2) The Council shall in accordance with any such scheme appoint one of its members to be chairman of the Council.
+>
+> (3) In sub-paragraph (1)—
+>
+> - “authorised person” has the meaning given by section 32A[^f00010];
+> - “lay person” has the same meaning as in Schedule 1 to the Legal Services Act 2007 (see paragraph 2 of that Schedule).
+
+.
+
+(3) In paragraph 2, as substituted by paragraph (2) above—
+
+- (a) in sub-paragraph (1)(a)(ii), for the words “by a recognised body” substitute “either by a recognised body or by a licensed body which holds a licence granted by the Council”; and
+- (b) after the definition of “lay person” in sub-paragraph (3), insert—
+
+  > - “licensed body” has the same meaning as in the Legal Services Act 2007 (see section 71).
+
+  .
+
+(4)[^key-76f26dac0487c03699bc0667c234161c] For paragraph 4(2) (requirements applying to scheme for appointment of Council members) substitute—
+
+> (2) A scheme under this paragraph shall secure that (except during any casual vacancy) the total number of persons appointed for the purposes of paragraph (b) of paragraph 2(1) exceeds by one the total number of persons appointed for the purposes of paragraph (a) of that provision.
+
+.
+
+### 10. Power to make licensing rules to require payment of certain costs[^key-5aa7019a33bc10bdb88096771d181be4]
+
+(1) Licensing rules made by the Council for Licensed Conveyancers may make provision requiring a relevant person to pay charges to the Council in respect of costs incurred by the Council in ascertaining whether—
+
+- (a) the terms of a licensed body’s licence are being, or have been, complied with; or
+- (b) the relevant person otherwise complies, or has complied, with any requirement imposed on the person by or under the 2007 Act or by licensing rules made by the Council for Licensed Conveyancers.
+
+(2) The provision which may be made under paragraph (1) includes provision as to the circumstances in which—
+
+- (a) charges may be imposed on a relevant person;
+- (b) the whole or part of any charge payable under the licensing rules is to be repaid.
+
+(3) Any charge which a relevant person is required to pay under licensing rules made under paragraph (1) is recoverable by the Council for Licensed Conveyancers as a debt due to the Council from the relevant person.
+
+(4) In this article—
+
+- (a) references to the Council for Licensed Conveyancers are to the Council for Licensed Conveyancers in its capacity as a licensing authority;
+- (b) references to a licensed body are to a licensed body which holds a licence granted by the Council for Licensed Conveyancers; and
+- (c) references to a relevant person, in relation to a licensed body, are to—
+  - (i) the licensed body;
+  - (ii) any employee or manager (or former employee or manager) of the licensed body;
+  - (iii) the Head of Legal Practice of the licensed body;
+  - (iv) the Head of Finance and Administration of the licensed body;
+  - (v) any person who has an interest or an indirect interest, or holds a material interest, in the licensed body.
+
+Signed by authority of the Lord Chancellor
+
+J Djanogly
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+12th July 2011
+
+## SCHEDULE — Extension of Law Society’s power to make compensation rules ...[^key-be0c32daed9aadcaecd4908c5171e8b7]
+
+Article 5
+
+### Interpretation
+
+**1.**[^key-b2db144422ce926eb4deff28105987b5] In this Schedule—
+
+- “the 1974 Act” means the Solicitors Act 1974[^f00011];
+- “compensation rules” means rules made under section 36(1) of the 1974 Act (compensation claims)[^f00012];
+- “licensed body” means a body which holds a licence in force under Part 5 of the 2007 Act which is granted by the Society;
+- “the Society” has the same meaning as in the 1974 Act;
+- [^key-7ae282dd39172304600894428c9bdb11]...
+
+### Compensation rules
+
+**2.**[^key-0cc29e4d82c69f28957a1417f367db53] The Society’s power to make compensation rules extends to making rules concerning the grant of compensation by the Society in respect of loss that a person has suffered, or is likely to suffer, as a result of—
+
+- (a) an act or omission of a licensed body or former licensed body [^key-5ac998948fcf4bf34a597b42dceb2cb4]...;
+- (b) an act or omission of a manager or employee (or former manager or employee) of a licensed body or former licensed body [^key-636514dcbde6295cddbd7e9691670163]...;
+- (c) an act or omission of any of the following persons [^key-da2412752653a087134bbb11ea55d622]...—
+  - (i) a person who has an interest or an indirect interest in a licensed body or former licensed body;
+  - (ii) a person who holds a material interest in such a body;
+  - (iii) a person who had or held an interest within sub-paragraph (c)(i) or (ii) at the time the act or omission occurred;
+- (d)[^key-f0b4f408f6c913dd25c374ff4d0330d9] the exercise by the Society of any of its powers under Schedule 14 to the Legal Services Act 2007.
+
+**3.**[^key-4150313caafa5367c450fdda749207c7] In relation to compensation rules which include provision made by virtue of paragraph 2, section 36 of the 1974 Act has effect as if—
+
+- (a) in subsection (2), after paragraph (f), there were inserted—
+
+  > - (fa) for a grant to be made by way of making good a deficiency in monies held in trust by the Society under paragraph 3 or 4 of Schedule 14 to the Legal Services Act 2007;
+
+  ;
+- (b) in subsection (3)(b), for “within subsection (1)(a) or (b)”, there were substituted “involving an act or omission to which compensation rules apply”; and
+- (c) for subsection (4), there were substituted—
+
+  > (4) For the purposes of paragraph (f) or (fa) of subsection (2), there is a deficiency if the monies mentioned in the paragraph in question are insufficient to satisfy the claims of all persons with a beneficial interest in the monies.
+
+  .
+
+**4.**[^key-b04a7e77fe2c97146fdbae6accfcc8e0] In relation to compensation rules which include provision made by virtue of paragraph 2, section 36A of the 1974 Act (compensation funds) has effect as if—
+
+- (a) for subsection (2), there were substituted—
+
+  > (2) Compensation rules may require—
+  >
+  > - (a) solicitors, or solicitors of a description prescribed in the rules; or
+  > - (b) licensed bodies, or licensed bodies of a description prescribed in the rules;
+  >
+  > to make contributions to a compensation fund or funds of such amounts, at such times and in such circumstances, as may be prescribed in or determined in accordance with the rules.
+  >
+  > (2A) Where compensation rules require persons within subsection (2)(a) and persons within subsection (2)(b) to make contributions into the same compensation fund, anything that may be done in relation to the fund in accordance with this Act or the Legal Services Act 2007 (or any provision made under either Act) may be done—
+  >
+  > - (a) irrespective of whether any money forming part of the compensation fund was contributed before or after the making of such compensation rules; and
+  > - (b) irrespective of the persons or description of persons who contributed the money.
+
+  ;
+- (b) in subsection (3) for “such a requirement”, there were substituted “a requirement imposed by virtue of subsection (2)”;
+- (c) after subsection (9)(d), there were inserted—
+
+  > - (da) payment of any costs, charges or expenses incurred by the Society in exercising its powers under Schedule 14 to the Legal Services Act 2007;
+
+  ; and
+- (d) after the definition of “compensation rules” in subsection (10), there were inserted—
+
+  > - “licensed body” means a body which holds a licence in force under Part 5 of the Legal Services Act 2007 which is granted by the Society.
+
+  .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision about the functions of the Law Society (“the Society”) and the Council for Licensed Conveyancers (“the Council”). It modifies the Solicitors Act [1974 (c.47)](https://www.legislation.gov.uk/ukpga/1974/47) (“the 1974 Act”) and amends the Administration of Justice Act [1985 (c.61)](https://www.legislation.gov.uk/ukpga/1985/61) (“the 1985 Act”).
+
+The Order also makes provision for licensing rules made by the Society or the Council in their capacity as licensing authorities under Part 5 of the Legal Services Act [2007 (c.29)](https://www.legislation.gov.uk/ukpga/2007/29) (“the 2007 Act”) which allows the Lord Chancellor, on the recommendation of the Legal Services Board, to designate licensing authorities to regulate the carrying on of reserved legal activities by bodies which are wholly or partly owned, controlled or managed by non-lawyers. These bodies are known as licensed bodies. Both the Council and the Society have applied to the Legal Services Board to be designated as a licensing authority.
+
+Articles 4 to 6 and the Schedule make provision relating to the Society. Articles 7 to 10 make provision relating to the Council.
+
+Article 4 amends section 9 of the 1985 Act. It enables the Society to make rules that require legal services bodies recognised under that section to pay periodical fees to the Society.
+
+Article 5 and the Schedule modify provisions of the 1974 Act that relate to compensation for persons who suffer loss in connection with acts or omissions by solicitors or their employees or in connection with the Society’s powers of intervention in relation to solicitors. The modifications enable the Society to make rules so that the compensation arrangements will also extend to bodies licensed under Part 5 of the 2007 Act. Such rules are to apply only during a transitional period whilst the Society undertakes a general review of its compensation arrangements.
+
+Article 6 applies to the Society in its capacity as a licensing authority. It provides for the Society to make licensing rules to require payments to be made to the Society to cover its costs in determining whether a licensed body, or specified persons connected with a licensed body, are in compliance with the terms of the body’s licence or with other requirements to which they are subject.
+
+Article 7 amends section 15 of the 1985 Act to enable the Council to issue licences to licensed conveyancers for an indefinite period or a fixed period.
+
+Article 8 amends section 21 of the 1985 Act to extend the Council’s rule-making powers in relation to compensation. The amendment extends the scope of the rule-making power to include certain additional reserved legal activities so long as the Council is designated as an approved regulator in relation to any such activity. This reflects the extension of the Council’s regulatory powers in such circumstances under section 53 of the Courts and Legal Services Act [1990 (c.41)](https://www.legislation.gov.uk/ukpga/1990/41). The Council is already an approved regulator in relation to probate activities, in addition to the reserved legal activities it regulates under the 1985 Act. It may apply for further designation as an approved regulator in relation to the exercise of a right of audience and the conduct of litigation.
+
+Article 9 makes changes to provisions of Schedule 3 to the 1985 Act which deal with the membership of the Council. It also requires that there be a majority of lay members.
+
+Article 10 applies to the Council in its capacity as a licensing authority. It provides for the Council to make licensing rules to require payments to be made to the Council to cover its costs in determining whether a licensed body, or specified persons connected with a licensed body, are in compliance with the terms of the body’s licence or with other requirements to which they are subject.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is published with the Explanatory Memorandum alongside the instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2007 c.29](https://www.legislation.gov.uk/ukpga/2007/29).
+
+[^key-17956114666bb163df76913efadb737a]: Commencement: Art. 1 in force at 13.7.2011, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/1)
+
+[^key-dcfb1518bff8a59ee14a822372db8348]: Commencement: Art. 2 in force at 13.7.2011, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/1)
+
+[^key-0fc7309dd84ed3b9dd2ba7ceb4f8af62]: Commencement: Art. 3 in force at 13.7.2011, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/1)
+
+[^f00002]: Footnote: [1985 c.61](https://www.legislation.gov.uk/ukpga/1985/61).
+
+[^key-a7eac692b62e068d60a1be9f9e64bbe9]: Commencement: Art. 4 in force at 13.7.2011, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/1)
+
+[^f00003]: Footnote: Section 9 was amended by paragraph 54 of Schedule 18, and Schedule 20, to the Courts and Legal Services Act [1990 (c.41)](https://www.legislation.gov.uk/ukpga/1990/41), Part 2 of Schedule 15 to the Access to Justice Act [1999 (c.22)](https://www.legislation.gov.uk/ukpga/1999/22) and paragraphs 80 and 81 of Schedule 16, and Schedule 23, to the Legal Services Act 2007; and by [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119) and [2001/1090](https://www.legislation.gov.uk/uksi/2001/1090).
+
+[^key-d42dac29b15bb5eca0e3131d3679b3bd]: Commencement: Art. 5 in force at 13.7.2011, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/1)
+
+[^key-cf1e33932987ded547da4ebdad7e18e9]: Textual amendment: Words in art. 5 heading omitted (30.11.2012) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) (Amendment) Order 2012 (S.I. 2012/2987)](https://www.legislation.gov.uk/uksi/2012/2987), [arts. 2](https://www.legislation.gov.uk/uksi/2012/2987/article/2), [4(1)](https://www.legislation.gov.uk/uksi/2012/2987/article/4/1)
+
+[^key-a6cacf082a68e314c0467154124d5560]: Textual amendment: Words in art. 5 omitted (30.11.2012) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) (Amendment) Order 2012 (S.I. 2012/2987)](https://www.legislation.gov.uk/uksi/2012/2987), [arts. 2](https://www.legislation.gov.uk/uksi/2012/2987/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/2987/article/4/2)
+
+[^key-96b2e9428cdadb09140385c87d7c62be]: Commencement: Art. 6 in force at 13.7.2011, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/1)
+
+[^f00004]: Footnote: Section 91 of, and paragraphs 11 and 12 of Schedule 11 to, the Legal Services Act 2007 make provision for the Head of Legal Practice.
+
+[^f00005]: Footnote: Section 92 of, and paragraphs 13 and 14 of Schedule 11 to, the Legal Services Act 2007 make provision for the Head of Finance and Administration.
+
+[^key-4b3795f5e96653040b8aadc2d903a163]: Commencement: Art. 7 in force at 13.7.2011, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/1)
+
+[^f00006]: Footnote: Section 15 was amended by paragraph 23 of Schedule 8 to the Courts and Legal Services Act 1990 and paragraphs 1 and 4 of Schedule 17, and Schedule 23, to the Legal Services Act 2007.
+
+[^key-e585723efb27ba707d439cd7fed4fa73]: Commencement: Art. 8 in force at 13.7.2011, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/1)
+
+[^f00007]: Footnote: Section 21 was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [2008/537](https://www.legislation.gov.uk/uksi/2008/537).
+
+[^f00008]: Footnote: Section 53 was amended by paragraphs 33 and 34 of Schedule 17, and Schedule 23, to the Legal Services Act 2007.
+
+[^key-76f26dac0487c03699bc0667c234161c]: Commencement: [Art. 9(1)](https://www.legislation.gov.uk/uksi/2011/1716/article/9/1)[(2)](https://www.legislation.gov.uk/uksi/2011/1716/article/9/2)[(4)](https://www.legislation.gov.uk/uksi/2011/1716/article/9/4) in force at 30.9.2011, see [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/3)
+
+[^key-fab0d2df9209e0bb82669013b4a677ca]: Commencement: [Art. 9(3)](https://www.legislation.gov.uk/uksi/2011/1716/article/9/3) in force at 13.7.2011, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/1)
+
+[^f00009]: Footnote: Paragraph 2 of Schedule 3 was amended by paragraphs 1 and 29(1) to (4) of Schedule 17, and Schedule 23, to the Legal Services Act 2007. Paragraph 4(2) of Schedule 3 was amended by paragraphs 1 and 29(1) and (7) of Schedule 17 to the Legal Services Act 2007.
+
+[^f00010]: Footnote: Section 32A was inserted by paragraphs 1 and 21 of Schedule 17 to the Legal Services Act 2007.
+
+[^key-5aa7019a33bc10bdb88096771d181be4]: Commencement: Art. 10 in force at 13.7.2011, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/1)
+
+[^key-be0c32daed9aadcaecd4908c5171e8b7]: Textual amendment: Words in Sch. heading omitted (30.11.2012) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) (Amendment) Order 2012 (S.I. 2012/2987)](https://www.legislation.gov.uk/uksi/2012/2987), [arts. 2](https://www.legislation.gov.uk/uksi/2012/2987/article/2), [5(2)](https://www.legislation.gov.uk/uksi/2012/2987/article/5/2)
+
+[^key-b2db144422ce926eb4deff28105987b5]: Commencement: Sch. para. 1 in force at 13.7.2011, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/1)
+
+[^f00011]: Footnote: [1974 c.47](https://www.legislation.gov.uk/ukpga/1974/47).
+
+[^f00012]: Footnote: Sections 36 and 36A of the Solicitors Act 1974 were substituted by paragraphs 1 and 37 of Schedule 16 to the Legal Services Act 2007.
+
+[^key-7ae282dd39172304600894428c9bdb11]: Textual amendment: Words in Sch. para. 1 omitted (30.11.2012) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) (Amendment) Order 2012 (S.I. 2012/2987)](https://www.legislation.gov.uk/uksi/2012/2987), [arts. 2](https://www.legislation.gov.uk/uksi/2012/2987/article/2), [5(3)](https://www.legislation.gov.uk/uksi/2012/2987/article/5/3)
+
+[^key-0cc29e4d82c69f28957a1417f367db53]: Commencement: Sch. para. 2 in force at 13.7.2011, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/1)
+
+[^key-5ac998948fcf4bf34a597b42dceb2cb4]: Textual amendment: Words in Sch. para. 2(a) omitted (30.11.2012) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) (Amendment) Order 2012 (S.I. 2012/2987)](https://www.legislation.gov.uk/uksi/2012/2987), [arts. 2](https://www.legislation.gov.uk/uksi/2012/2987/article/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2012/2987/article/5/4/a)
+
+[^key-636514dcbde6295cddbd7e9691670163]: Textual amendment: Words in Sch. para. 2(b) omitted (30.11.2012) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) (Amendment) Order 2012 (S.I. 2012/2987)](https://www.legislation.gov.uk/uksi/2012/2987), [arts. 2](https://www.legislation.gov.uk/uksi/2012/2987/article/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2012/2987/article/5/4/a)
+
+[^key-da2412752653a087134bbb11ea55d622]: Textual amendment: Words in Sch. para. 2(c) omitted (30.11.2012) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) (Amendment) Order 2012 (S.I. 2012/2987)](https://www.legislation.gov.uk/uksi/2012/2987), [arts. 2](https://www.legislation.gov.uk/uksi/2012/2987/article/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2012/2987/article/5/4/a)
+
+[^key-f0b4f408f6c913dd25c374ff4d0330d9]: Textual amendment: Sch. para. 2(d) substituted (30.11.2012) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) (Amendment) Order 2012 (S.I. 2012/2987)](https://www.legislation.gov.uk/uksi/2012/2987), [arts. 2](https://www.legislation.gov.uk/uksi/2012/2987/article/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2012/2987/article/5/4/b)
+
+[^key-4150313caafa5367c450fdda749207c7]: Commencement: Sch. para. 3 in force at 13.7.2011, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/1)
+
+[^key-b04a7e77fe2c97146fdbae6accfcc8e0]: Commencement: Sch. para. 4 in force at 13.7.2011, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/1)

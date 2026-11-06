@@ -1,0 +1,269 @@
+---
+title: The Equality Act 2006 (Dissolution of Commissions and Consequential and Transitional Provisions) Order 2007
+id: uksi/2007/2602
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2007-09-07'
+text_date: '2007-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2007/2602
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/2602/pdfs/uksiem_20072602_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/2602/pdfs/uksi_20072602_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/2602/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Equality Act 2006 (Dissolution of Commissions and Consequential and Transitional Provisions) Order 2007
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2007-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2007/2602
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2007 No. 2602
+
+Equal opportunities and human rights
+
+The Equality Act 2006 (Dissolution of Commissions and Consequential and Transitional Provisions) Order 2007
+
+Made
+
+7th September 2007
+
+Laid before Parliament
+
+10th September 2007
+
+Coming into force
+
+1st October 2007
+
+The Secretary of State makes this Order in exercise of the powers conferred by sections 36(1)(a), 39(2)(c) and 42(1)(b) of the Equality Act 2006[^f00001].
+
+## 1. Citation, commencement and extent[^key-aa18d9e5ccfc2bcdc919ff8406c7c7de]
+
+(1) This Order may be cited as the Equality Act 2006 (Dissolution of Commissions and Consequential and Transitional Provisions) Order 2007 and shall come into force on 1st October 2007.
+
+(2) This Order does not extend to Northern Ireland.
+
+## 2. Interpretation[^key-7c97517c15c5235c25e59d7278d57714]
+
+In this Order—
+
+- “the 1975 Act” means the Sex Discrimination Act 1975[^f00002];
+- “the 1976 Act” means the Race Relations Act 1976[^f00003];
+- “the 1999 Act” means the Disability Rights Commission Act 1999[^f00004];
+- “the 2006 Act” means the Equality Act 2006;
+
+  except in paragraph (2) of article 4 “the Commission” means the Commission for Equality and Human Rights; and
+- “the former Commissions” means the Commission for Racial Equality, the Disability Rights Commission and the Equal Opportunities Commission.
+
+## 3. Dissolution of former Commissions[^key-235c7df1f126d1b26571e6c7cad7ca59]
+
+The former Commissions shall cease to exist.
+
+## 4. Consequential amendments and modifications[^key-411ded741465301f0e51ff134d9033a2]
+
+(1) The Schedule to this Order shall have effect for the amendment and modification of subordinate legislation in consequence of the dissolution of the former Commissions and the establishment of the Commission.
+
+(2) Section 61 of the 1975 Act (restriction on disclosure of information), section 52 of the 1976 Act (restriction on disclosure of information) and paragraph 22 of Schedule 3 to the 1999 Act (restriction on disclosure of information) shall apply in relation to the Commission for Equality and Human Rights as if—
+
+- (a) references to the Commission include the Commission for Equality and Human Rights;
+- (b) references to Commissioner include commissioners of the Commission for Equality and Human Rights;
+- (c) references to additional Commissioners include Investigating Commissioners under paragraph 9 of Schedule 1 to the 2006 Act; and
+- (d) references to employees of the Commission include employees of the Commission for Equality and Human Rights.
+
+## 5. Transitional provisions: the Commission and the functions of the former Commissions[^key-10aec1e53df6651c41f13445bc3fd47a]
+
+(1) The Commission shall discharge the functions of the former Commissions—
+
+- (a) in relation to section 56 of the 1975 Act (annual reports), in so far as those functions relate to the calendar year ending 31st December 2007 and have not been discharged before 1st October 2007, until the Secretary of State has laid a copy of the annual report before Parliament and caused it to be published;
+- (b) in relation to paragraph 16 of Schedule 1 to the 1999 Act (annual reports), in so far as those functions relate to the financial year beginning 1st April 2007 and have not been discharged before 1st October 2007, until the Secretary of State has laid a copy of the annual report before Parliament and caused it to be published;
+- (c) in relation to paragraph 15 of Schedule 3 to the 1975 Act (accounts) and paragraph 15 of Schedule 1 to the 1999 Act (accounts), in so far as those functions relate to the financial year beginning 1st April 2007 and have not been discharged before 1st October 2007, until the Comptroller and Auditor General has laid a copy of the statement of accounts and his report on it before Parliament;
+- (d) in relation to section 46 of the 1976 Act (annual reports), in so far as those functions relate to the calendar years ending 31st December 2006 or 31st December 2007 and have not been discharged before 1st October 2007, until the Secretary of State has laid a copy of the annual report before Parliament and caused it to be published;
+- (e) in relation to paragraph 17 of Schedule 1 to the 1976 Act (accounts), in so far as those functions relate to the financial years beginning 1st April 2006 or 1st April 2007 and have not been discharged before 1st October 2007, until the Comptroller and Auditor General has laid a copy of the statement of accounts and his report on it before Parliament;
+- (f) in relation to sections 57 to 60 of the 1975 Act (investigations) and sections 48 to 51 of the 1976 Act (investigations), in so far as those functions relate to any investigation that has been commenced but not concluded before 1st October 2007, until the Commission delivers its report to the Secretary of State, if required, or the Commission publishes the report or otherwise makes it available for inspection; and
+- (g) in relation to section 70 of the 1975 Act (register of non-discrimination notices) and section 61 of the 1976 Act (register of non-discrimination notices), until 1st October 2013.
+
+(2) In its application to any investigation to which paragraph (1)(f) applies, paragraph 9(3)(b) of Schedule 1 to the 2006 Act shall have effect as if, after “section 20”, there were inserted “of this Act, section 57 of the Sex Discrimination Act 1975 or section 48 of the Race Relations Act 1976”.
+
+(3) Section 21(1)(a) of the 2006 Act shall apply in relation to an investigation under section 57 of the 1975 Act or section 48 of the 1976 Act as if, after “section 20(1)(a)”, there were inserted “of this Act, section 57 of the Sex Discrimination Act 1975 or section 48 of the Race Relations Act 1976”.
+
+(4) Section 32(8) of the 2006 Act shall apply in relation to notices issued under section 76D of the 1975 Act (specific duties: enforcement) or section 71D of the 1976 Act (general statutory duty: compliance notices) as if, after “this section”, there were inserted “, section 76D of the Sex Discrimination Act 1975 or section 71D of the Race Relations Act 1976”.
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Iain Wright
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+7th September 2007
+
+## SCHEDULE — CONSEQUENTIAL AMENDMENTS[^key-d997c93f72c8715ab13eccb0d8fd8949]
+
+Article 4
+
+*Welsh Language Schemes (Public Bodies) Order 1996 ([S.I. 1996/1898](https://www.legislation.gov.uk/uksi/1996/1898))*
+
+*Extent: E+W+S+N.I.*
+
+**1.** In the Schedule to the Welsh Language Schemes (Public Bodies) Order 1996, omit the references to—
+
+- (a) the Commission for Racial Equality, and
+- (b) the Equal Opportunities Commission.
+
+*General Teaching Council for England (Constitution) Regulations 1999 ([S.I. 1999/1726](https://www.legislation.gov.uk/uksi/1999/1726))*
+
+*Extent: E+W+S+N.I.*
+
+**2.** In regulation 8 of the General Teaching Council for England (Constitution) Regulations 1999 (appointed members)—
+
+- (a) in paragraph (f), for “one member by the Commission for Racial Equality” substitute “up to three members by the Commission for Equality and Human Rights”;
+- (b) at the end of paragraph (m), insert “and”;
+- (c) in paragraph (n), for the word “and” substitute a full stop; and
+- (d) omit paragraphs (i) and (o).
+
+*Welsh Language Schemes (Public Bodies) Order 2001 ([S.I. 2001/2550 (W.215)](https://www.legislation.gov.uk/wsi/2001/2550))*
+
+*Extent: E+W+S+N.I.*
+
+**3.** In the Schedule to the Welsh Language Schemes (Public Bodies) Order 2001, for “the Disability Rights Commission” substitute “the Commission for Equality and Human Rights”.
+
+*Race Relations Act 1976 (Statutory Duties) Order 2001 ([S.I. 2001/3458](https://www.legislation.gov.uk/uksi/2001/3458))*
+
+*Extent: E+W+S+N.I.*
+
+**4.** In its application to the Commission, the Race Relations Act 1976 (Statutory Duties) Order 2001 shall have effect as if for “31st May 2002” (in each place) there were substituted “1st January 2008”.
+
+*Extent: E+W+S+N.I.*
+
+**5.** In Schedule 1 to the Race Relations Act 1976 (Statutory Duties) Order 2001—
+
+- (a) for “The Commission for Racial Equality” substitute “The Commission for Equality and Human Rights.”; and
+- (b) omit—
+  - (i) “The Disability Rights Commission.”, and
+  - (ii) “The Equal Opportunities Commission.”.
+
+*Health, Social Care and Well-being Strategies (Wales) Regulations 2003 ([S.I. 2003/154 (W.24)](https://www.legislation.gov.uk/wsi/2003/154))*
+
+*Extent: E+W+S+N.I.*
+
+**6.** In regulation 12 of the Health, Social Care and Well-being Strategies (Wales) Regulations 2003 (access to draft and adopted strategies), for “the Disability Rights Commission” substitute “the Commission for Equality and Human Rights”.
+
+*Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004 ([S.I. 2004/1861](https://www.legislation.gov.uk/uksi/2004/1861))*
+
+*Extent: E+W+S+N.I.*
+
+**7.** In the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004—
+
+- (a) in regulation 16(3) (application of Schedules 1-5 to proceedings), for subparagraph (c) substitute—
+
+  > - (c) an appeal against an unlawful act notice under section 21 of the Equality Act 2006.
+
+  ;
+- (b) for paragraph 61(8) of Schedule 1 (the Employment Tribunals Rules of Procedure), substitute—
+
+  > (8) In proceedings under the Equal Pay Act, the Sex Discrimination Act, the Sex Discrimination Act 1986, the Race Relations Act or the Disability Discrimination Act, copies of every document sent to the parties under rules 29, 30 or 32 shall be sent by the Secretary to the Commission for Equality and Human Rights.
+
+  ; and
+- (c) in Schedule 5 (the Employment Tribunals (Non-Discrimination Notices Appeal) Rules of Procedure)—
+  - (i) for “a non-discrimination notice” (in each place) substitute “an unlawful act notice”;
+  - (ii) for “non-discrimination notices” (in each place) substitute “unlawful act notices”;
+  - (iii) for “the non-discrimination notice” (in each place) substitute “the unlawful act notice”; and
+  - (iv) for paragraph 2 (definitions) substitute—
+
+    > **2. Definitions**
+    >
+    > In this Schedule and in relation to proceedings to which this Schedule applies—
+    >
+    > “appeal”, unless the context requires otherwise, means an appeal referred to in section 21 of the Equality Act 2006;
+    >
+    > “unlawful act notice” means a notice under that section; and
+    >
+    > “respondent” means the Commission for Equality and Human Rights established under section 1 of the Equality Act 2006.
+
+    .
+
+*Disability Discrimination (Questions and Replies) Order 2005 ([S.I. 2005/2703](https://www.legislation.gov.uk/uksi/2005/2703))*
+
+*Extent: E+W+S+N.I.*
+
+**8.** In article 3(a)(ii) of the Disability Discrimination (Questions and Replies) Order 2005 (period for service of questions*)*, for “the Disability Rights Commission” substitute “the Commission for Equality and Human Rights” and for “section 28 of the Act” substitute “section 27(1) of the Equality Act 2006”.
+
+*Disability Discrimination (Public Authorities) (Statutory Duties) Regulations 2005 ([S.I. 2005/2966](https://www.legislation.gov.uk/uksi/2005/2966))*
+
+*Extent: E+W+S+N.I.*
+
+**9.** In the application of the Disability Discrimination (Public Authorities) (Statutory Duties) Regulations 2005 to the Commission, regulation 2(6) shall have effect as if, after paragraph (d), there were inserted—
+
+> - (e) in the case of the Commission for Equality and Human Rights, 1st January 2008.
+
+.
+
+*Extent: E+W+S+N.I.*
+
+**10.** In Part 1 of Schedule 1 to the Disability Discrimination (Public Authorities) (Statutory Duties) Regulations 2005—
+
+- (a) omit—
+  - (i) “the Commission for Racial Equality”;
+  - (ii) “the Disability Rights Commission”; and
+  - (iii) “the Equal Opportunities Commission”; and
+- (b) after “The Children’s Commissioner for Wales”, insert “The Commission for Equality and Human Rights”.
+
+*Sex Discrimination Act 1975 (Public Authorities) (Statutory Duties) Order 2006 ([S.I. 2006/2930](https://www.legislation.gov.uk/uksi/2006/2930))*
+
+*Extent: E+W+S+N.I.*
+
+**11.** In the application of the Sex Discrimination Act 1975 (Public Authorities) (Statutory Duties) Order 2006 to the Commission article 2(1) shall have effect as if, for “30th April 2007”, there were substituted “1st January 2008”.
+
+*Extent: E+W+S+N.I.*
+
+**12.** In the Schedule to the Sex Discrimination Act 1975 (Public Authorities) (Statutory Duties) Order 2006—
+
+- (a) after “The Children’s Commissioner for England”, insert “The Commission for Equality and Human Rights”; and
+- (b) omit—
+  - (i) “The Commission for Racial Equality”,
+  - (ii) “The Disability Rights Commission”, and
+  - (iii) “The Equal Opportunities Commission”.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order dissolves the Commission for Racial Equality, the Disability Rights Commission and the Equal Opportunities Commission (“the former Commissions”) and makes certain consequential amendments and modifications to legislation which are necessary as a result of their dissolution and the establishment of the Commission for Equality and Human Rights (“the CEHR”).
+
+Article 3 dissolves the former Commissions. Article 4 makes amendments and modifications to legislation, including (in article 4(2)) modifications necessary to apply the restrictions on the disclosure of information obtained in connection with the former Commissions’ formal investigations to the CEHR while allowing it access to such information.
+
+Article 5(1) provides for the CEHR to exercise certain functions of the former Commissions after they have been dissolved. Article 5(2) empowers the CEHR to appoint Investigating Commissioners (under paragraph 9 of Schedule 1 to the 2006 Act) for the purpose of investigations conducted pursuant to article 5(1)(f). Articles 5(3) and (4) provide for the CEHR to take enforcement action under the 2006 Act in relation to investigations instigated by the Commission for Racial Equality and the Equal Opportunities Commission and compliance notices served by those commissions.
+
+A regulatory impact assessment was produced for the CEHR and is available on the Women & Equality Unit website at Mhttp://www.womenandequalityunit.gov.uk/cehr/equality\_bill.htm. A further impact assessment has not been produced for this instrument as no additional impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c.3](https://www.legislation.gov.uk/ukpga/2006/3).
+
+[^key-aa18d9e5ccfc2bcdc919ff8406c7c7de]: Commencement: Art. 1 in force at 1.10.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1)
+
+[^key-7c97517c15c5235c25e59d7278d57714]: Commencement: Art. 2 in force at 1.10.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1)
+
+[^f00002]: Footnote: [1975 c.65](https://www.legislation.gov.uk/ukpga/1975/65).
+
+[^f00003]: Footnote: [1976 c.74](https://www.legislation.gov.uk/ukpga/1976/74).
+
+[^f00004]: Footnote: [1999 c.17](https://www.legislation.gov.uk/ukpga/1999/17).
+
+[^key-235c7df1f126d1b26571e6c7cad7ca59]: Commencement: Art. 3 in force at 1.10.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1)
+
+[^key-411ded741465301f0e51ff134d9033a2]: Commencement: Art. 4 in force at 1.10.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1)
+
+[^key-10aec1e53df6651c41f13445bc3fd47a]: Commencement: Art. 5 in force at 1.10.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1)
+
+[^key-d997c93f72c8715ab13eccb0d8fd8949]: Commencement: Sch. in force at 1.10.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2602/article/1/1)

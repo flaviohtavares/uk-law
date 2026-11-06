@@ -1,0 +1,29 @@
+---
+title: Income and Corporation Taxes Act 1988, section 146A
+act: Income and Corporation Taxes Act 1988
+section: 146A
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1988/1/section/146A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income and Corporation Taxes Act 1988, section 146A
+
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 146A. Priority of rules applying to living accommodation.[^c22171441]
+
+*Extent: E+W+S+N.I.*
+
+[^c23390791]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^c22171441]: Textual amendment: [S. 146A](https://www.legislation.gov.uk/ukpga/1988/1/section/146A) inserted (with application in accordance with [s. 106(3)](https://www.legislation.gov.uk/ukpga/1996/8/section/106/3) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [s. 106(2)](https://www.legislation.gov.uk/ukpga/1996/8/section/106/2)
+
+[^c23390791]: Textual amendment: [Ss. 145-147](https://www.legislation.gov.uk/ukpga/1988/1/section/145) repealed (6.4.2003 with effect in accordance with s. 723(1) of the repealing Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/21), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))

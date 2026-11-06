@@ -1,0 +1,160 @@
+---
+title: The Energy Efficiency (Building Renovation and Reporting) (Amendment) Regulations 2020
+id: uksi/2020/563
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-06-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2020/563
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/563/pdfs/uksiem_20200563_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/563/pdfs/uksi_20200563_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/563/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Energy Efficiency (Building Renovation and Reporting) (Amendment) Regulations 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 563
+
+Energy
+
+The Energy Efficiency (Building Renovation and Reporting) (Amendment) Regulations 2020
+
+Made
+
+2nd June 2020
+
+Laid before Parliament
+
+3rd June 2020
+
+Coming into force
+
+24th June 2020
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001].
+
+The Secretary of State is a Minister designated[^f00002] for the purposes of section 2(2) of the European Communities Act 1972 in relation to energy and energy sources.
+
+## 1. Citation and commencement
+
+(1) These Regulations may be cited as the Energy Efficiency (Building Renovation and Reporting) (Amendment) Regulations 2020.
+
+(2) These Regulations come into force on 24th June 2020.
+
+(3) These Regulations cease to have effect at the instant immediately before the point immediately before IP completion day.
+
+## 2. Amendment of the Energy Efficiency (Building Renovation and Reporting) Regulations 2014
+
+(1) The Energy Efficiency (Building Renovation and Reporting) Regulations 2014[^f00003] are amended as follows.
+
+(2) After regulation 5, insert—
+
+> **5A. Long-term renovation strategy**
+>
+> (1)  The Secretary of State must, after consultation with the other competent authorities, establish a long-term renovation strategy to support the renovation of residential and non-residential buildings into highly energy efficient and decarbonised building stock by 2050 (“long-term renovation strategy”).
+>
+> (2) The long-term renovation strategy must contain the information specified in Article 2a(1)(a) to (g) and (2) of [Directive 2010/31/EU](https://www.legislation.gov.uk/european/directive/2010/0031) of the European Parliament and of the Council of 19 May 2010 on the energy performance of buildings[^f00004].
+>
+> (3) To support the mobilisation of investments into renovation as part of the long-term renovation strategy, the Secretary of State and other competent authorities must facilitate access to appropriate mechanisms for—
+>
+> - (a) the aggregation of projects, including by investment platforms or groups, and by consortia of small and medium-sized enterprises, to enable investor access as well as packaged solutions for potential clients;
+> - (b) the reduction of the perceived risk of energy efficiency operations for investors and the private sector;
+> - (c) the use of public funding to leverage additional private-sector investment or address specific market failures;
+> - (d) guiding investments into an energy efficient public building stock, in line with the practitioners’ guide published by Eurostat and the European Investment Bank in May 2018[^f00005]; and
+> - (e) accessible and transparent advisory tools, such as one-stop-shops for consumers.
+>
+> (4) Before submission of the long-term renovation strategy to the Commission in accordance with paragraph (6), the Secretary of State must carry out a public consultation.
+>
+> (5) The Secretary of State must annex the following to the long-term renovation strategy—
+>
+> - (a) details on the implementation of the most recent long-term renovation strategy submitted in accordance with paragraph (6), if any, including planned policies and actions;
+> - (b) a summary of the public consultation results.
+>
+> (6) The long-term renovation strategy must be submitted to the Commission as part of the integrated national energy and climate plan referred to in Article 3 of Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action[^f00006].
+>
+> (7) In this regulation, “Eurostat” means the statistical office of the European Union.
+>
+> **5B. Financial measure for energy efficiency improvements**
+>
+> (1) The Secretary of State and other competent authorities must link their financial measures for energy efficiency improvements in the renovation of buildings to the targeted or achieved energy savings.
+>
+> (2) This must be done using the results of a relevant, transparent and proportionate method that shows the improvement in energy performance.
+>
+> **5C. Information via advisory tools**
+>
+> (1) The Secretary of State and other competent authorities must provide information to the owners or tenants of buildings on—
+>
+> - (a) energy performance certificates, including their purpose and objectives;
+> - (b) cost-effective measures; and
+> - (c) where appropriate, financial instruments
+>
+> to improve the energy performance of those buildings.
+>
+> (2) The Secretary of State and other competent authorities must provide information to the owners or tenants of buildings on the replacement of fossil fuel boilers with more sustainable alternatives.
+>
+> (3) The information referred to in paragraphs (1) and (2) must be provided through accessible and transparent advisory tools such as renovation advice and one-stop-shops.
+>
+> (4) In this regulation, “energy performance certificate” has in relation to—
+>
+> - (a) England and Wales, the meaning given in regulation 2(1) of the Energy Performance of Buildings (England and Wales) Regulations 2012[^f00007];
+> - (b) Northern Ireland, the meaning given in regulation 2(1) of the Energy Performance of Buildings (Certificates and Inspections) Regulations (Northern Ireland) 2008[^f00008];
+> - (c) Scotland, the meaning given in regulation 2(1) of the Energy Performance of Buildings (Scotland) Regulations 2008[^f00009].
+
+.
+
+Kwasi Kwarteng
+
+Minister of State
+
+Department for Business, Energy and Industrial Strategy
+
+2nd June 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations implement amendments made to [Directive 2010/31/EU](https://www.legislation.gov.uk/european/directive/2010/0031) of the European Parliament and of the Council of 19 May 2010 on the energy performance of buildings (“the 2010 Directive”) (OJ No L 153, 18.6.2010, p. 13). The 2010 Directive was amended by [Directive 2018/844/EU](https://www.legislation.gov.uk/european/directive/2018/0844) of 30 May 2018 (“the 2018 Amending Directive”) (OJ No L 156, 19.06.2018, p.75) and Regulation 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action (“the 2018 Regulation”) (OJ No L 328, 21.12.2018, p. 1).
+
+These Regulations transpose articles 2a, 10(6) and 20(2) of the 2010 Directive as amended by the 2018 Amending Directive and 2018 Regulation by amending the Energy Efficiency (Building Renovation and Reporting) Regulations 2014 (“the 2014 Regulations”) ([S.I. 2014/952](https://www.legislation.gov.uk/uksi/2014/952)).
+
+Regulation 1(3) provides that these Regulations cease to have effect at the instant immediately before the point immediately before IP completion day.
+
+Regulation 2 inserts new regulations 5A to 5C into the 2014 Regulations.
+
+New regulation 5A requires the Secretary of State, after consultation with Northern Ireland departments, Scottish Ministers, Welsh Ministers and the public, to submit a long-term renovation strategy to the Commission of the European Union.
+
+New regulation 5B requires the Secretary of State and other competent authorities to link financial support for energy efficiency improvements in the renovation of buildings to targeted or achieved energy savings. This is necessary to link UK Government financial support to the quality of energy renovation. This regulation requires this be done using the results of a relevant, transparent, and proportionate method that shows the improvement in energy performance.
+
+New regulation 5C requires the Secretary of State and other competent authorities to provide information to owners or tenants of buildings to improve the energy performance of their building. This should include information about energy performance certificates, cost-effective measures and, where appropriate, financial instruments. Information on the replacement of fossil fuel boilers with more sustainable alternatives should also be provided to owners or tenants of buildings. This must be done via accessible and transparent advisory tools such as renovation advice and one-stop shops.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen. An Explanatory Memorandum and a transposition note are available with these Regulations on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). The European Communities Act 1972 was repealed on exit day by the European Union (Withdrawal) Act [2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16), but continues to have effect until IP completion day pursuant to section 1A of that Act, inserted by section 1 of the European Union (Withdrawal Agreement) Act [2020 (c.1)](https://www.legislation.gov.uk/ukpga/2020/1).
+
+[^f00002]: Footnote: [S.I. 2010/761](https://www.legislation.gov.uk/uksi/2010/761).
+
+[^f00003]: Footnote: [S.I. 2014/952](https://www.legislation.gov.uk/uksi/2014/952), amended by [S.I. 2014/1403](https://www.legislation.gov.uk/uksi/2014/1403).
+
+[^f00004]: Footnote: OJ No L 153, 18.6.2010, p. 13, as amended by Directive (EU) 2018/844 of 30 May 2018 (OJ No L 156, 19.06.2018, p.75) and Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action (OJ No L 328, 21.12.2018, p. 1).
+
+[^f00005]: Footnote: Available from https://ec.europa.eu/eurostat/documents/1015035/8885635/guide\_to\_statistical\_treatment\_of\_epcs\_en.pdf/f74b474b-8778-41a9-9978-8f4fe8548ab1.
+
+[^f00006]: Footnote: OJ No L 328, 21.12.2018, p. 1.
+
+[^f00007]: Footnote: [S.I. 2012/3118](https://www.legislation.gov.uk/uksi/2012/3118), amended by [S.I. 2016/284](https://www.legislation.gov.uk/uksi/2016/284); there are other amending instruments but none is relevant.
+
+[^f00008]: Footnote: [S.R. 2008 No. 170](https://www.legislation.gov.uk/nisr/2008/170), amended by [S.R. 2013 No.12](https://www.legislation.gov.uk/nisr/2013/12); there are other amending instruments but none is relevant.
+
+[^f00009]: Footnote: [S.S.I. 2008/309](https://www.legislation.gov.uk/ssi/2008/309), amended by [S.S.I. 2012/208](https://www.legislation.gov.uk/ssi/2012/208), [2013/12](https://www.legislation.gov.uk/ssi/2013/12); there are other amending instruments but none is relevant.

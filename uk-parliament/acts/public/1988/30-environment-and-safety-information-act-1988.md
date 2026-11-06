@@ -1,0 +1,192 @@
+---
+title: Environment and Safety Information Act 1988
+id: ukpga/1988/30
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1988-07-29'
+text_date: '2018-05-24'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1988/30
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1988/30/pdfs/ukpga_19880030_en.pdf
+- http://www.legislation.gov.uk/ukpga/1988/30/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Environment and Safety Information Act 1988
+
+> Text as at 2018-05-24.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+Environment and Safety Information Act 1988
+
+1988 c. 30
+
+An Act to establish public registers of certain notices served concerning health, safety and environmental protection; and for related purposes.
+
+\[29th July 1988\] [^c803517]
+
+[^c803518]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-7268deecd00f430182d675690d341a2d]
+
+## 1. Maintaining of and access to registers.
+
+(1) An authority to which this Act applies shall—
+
+- (a) maintain a register of such notices relevant for the purposes of this Act as are served after the coming into force of this Act by the authority or by a person authorised by the authority or for whom the authority is the responsible authority;
+- (b) ensure that the register is adequately indexed so as to enable entries relating to any particular premises (or, where the notice does not relate to any particular premises, to any particular person) to be located;
+- (c) ensure that the register and the index are open to inspection by the public free of charge at all reasonable hours;
+- (d) on request, and upon payment of any such reasonable fee as the authority may require, supply copies of entries in the register to any person inspecting the register.
+
+(2) Each entry in the register shall state sufficient particulars to convey the substance of the notice to which it relates.
+
+(3) Any authority which is required to maintain a register under this section may discharge that duty by maintaining different registers containing entries relating to different areas.
+
+(4) Any register under this section may be kept by means of a computer.
+
+## 2. Interpretation.
+
+(1) The authorities to which this Act applies are those specified in the third column of the Schedule to this Act.
+
+(2) The “**responsible authorities**” for the purposes of this Act are any bodies corporate authorised pursuant to section 19(1) of the [^c803519]Food and Environment Protection Act 1985 and, where an individual is so authorised, the responsible authority in relation to any notices served by him shall be—
+
+- (a) the Minister of Agriculture, Fisheries and Food, if the individual is employed in his Ministry and was authorised by that Minister;
+- (b) the Health and Safety Executive, if the individual was authorised by that Executive on behalf of that Minister, the Secretary of State or the Welsh Ministers[^key-add46bc8208b875eeee243068ed6f12d];
+- (c) any public or local authority by whom the individual is employed, if he was authorised by that Minister, the Secretary of State or the Welsh Ministers[^key-3f1acdcadb75eb5c5996ad1b17ced3d3];
+- (ca)[^key-d89a2cc9d9186579c56538ab2bbc9b2e] in any case not falling within paragraphs (a) to (c) where the notice is served in Wales, the Welsh Ministers; or
+- (d) in any other case, the Secretary of State.
+
+(3) The notices relevant for the purposes of this Act are those served under any of the provisions specified in the fourth column of the Schedule to this Act, other than notices which impose requirements or prohibitions solely for the protection of persons at work.
+
+(4) In this section “**persons at work**” has the same meaning as it has in Part I of the [^c803520]Health and Safety at Work etc. Act 1974.
+
+## 3. Entries in registers.
+
+(1) Where a notice is served which is relevant for the purposes of this Act, then, subject to the following provisions of this Act, the entry required to be made in the register shall be made at any time during whichever of the following periods is applicable, that is to say—
+
+- (a) where there is no right of appeal against the notice, the period of 14 days following the day on which the notice is served;
+- (b) where there is a right of appeal but no appeal is brought within the time limited for doing so, the period of 14 days following the day on which the time so limited expires; or
+- (c) where there is such a right and an appeal is brought, the period of 14 days following the day on which the appeal is finally disposed of.
+
+(2) No such entry as is mentioned in subsection (1) above shall be made if the notice is cancelled in consequence of an appeal which has been finally disposed of.
+
+(3) Where the authority or other person by whom a notice was served which is relevant for the purposes of this Act is satisfied that the notice has been complied with, an entry to that effect shall be made in the register within seven days from the day on which the authority or person is so satisfied.
+
+(4) Where a notice is withdrawn or amended any entries in the register which relate to that notice shall be deleted or, as the case may be, amended within the period of seven days following the date of the withdrawal or amendment.
+
+(5) Any entries in the register which relate to a notice shall be kept in the register for a period of not less than three years from the date on which the notice was served.
+
+## 4. Protection of trade secrets etc.
+
+(1) This section applies where a person on whom a notice has been served (“the person affected”) gives written notification to the authority, within the period of 14 days following the date of service, that the making of an entry in the register in relation to the notice would disclose information about a trade secret or secret manufacturing process (“the secret”).
+
+(2) Where such a notification is given, the authority—
+
+- (a) shall draft such an entry as, in their opinion, would make particulars of the notice public without disclosing information about the secret; and
+- (b) shall serve on the person affected a copy of the draft and a notice of their intention to make an entry in the register in the terms of the draft; but
+- (c) shall not, until one of the conditions specified in subsection (4) below is satisfied, make any entry in relation to the notice except one which does no more than—
+  - (i) specify the name and address of the person affected;
+  - (ii) identify the place (if any) where it is alleged that any matters giving rise to the service of the notice have occurred, are occurring or are likely to occur; and
+  - (iii) specify those provisions of any enactment or instrument which have given rise to the service of the notice, including, in particular, any provisions which it is alleged have been, are being or are likely to be contravened; and
+- (d) shall cause to be deleted from the register any entry relating to the notice which does not satisfy the requirements of paragraph (c) above.
+
+(3) The person affected may, within 14 days of the service on him of the copy of the draft entry, by written notice under this subsection appeal to the appropriate Minister against the authority’s proposal to make an entry in the terms of the draft; and on any such appeal—
+
+- (a) if the Minister determines that an entry in the terms of the draft would afford reasonable protection to the secret, he shall direct the entry to be made in those terms; but
+- (b) if he determines that such an entry would not offer such protection, he shall direct the entry to be made in such terms as he may specify.
+
+(4) The conditions referred to in subsection (2)(c) above are the following, that is to say—
+
+- (a) that the person affected has given his written consent to an entry being made in the terms of the draft or in such other terms as he may have agreed with the authority;
+- (b) where no such consent has been given, that no appeal to the appropriate Minister against the making of an entry in the terms of the draft has been brought within the time limited for doing so; or
+- (c) that on such an appeal the Minister has directed that the entry shall be made.
+
+(5) Where any entry is made in accordance with the provisions of subsections (1) to (4) above, it shall be accompanied by a statement indicating (if such is the case) that information has been withheld in accordance with the provisions of this section.
+
+(6) In this section “**the appropriate Minister**” means—
+
+- (a) in relation to notices served under the [^c803521]Food and Environment Protection Act 1985 by persons employed in his Ministry, the Minister of Agriculture, Fisheries and Food;
+- (aa)[^key-e01993752f77778a2941512e67dc3b64] in relation to notices served in Wales under that Act or the Regulatory Reform (Fire Safety) Order 2005, the Welsh Ministers;
+- (b) in relation to notices not falling within paragraph (a) or (aa)[^key-0af2fcc3df9423dfd44649aeaca3fa9a] above, the Secretary of State.
+
+## 5. Short title, commencement and extent.
+
+(1) This Act may be cited as the Environment and Safety Information Act 1988.
+
+(2) This Act shall come into force on 1st April 1989.
+
+(3) This Act does not extend to Northern Ireland.
+
+*Extent: E+W*
+
+## SCHEDULE — Authorities and Statutory Provisions[^c2034547]
+
+Section 2.
+
+| *Chapter* | *Short Title* | *Authority* | *Statutory provision* |
+| --- | --- | --- | --- |
+| [^c2034553]... | [^c2034553]... | [^c2034553]... | [^c2034553]... |
+| 1974 c. 37 | Health and Safety at Work etc. Act 1974. | An enforcing authority, as defined in section 18(7)(a). | Sections 21 and 22. |
+| 1975 c. 52 | Safety of Sports Grounds Act 1975. | The local authority, as defined in section 17(1). | Section 10. |
+| 1985 c. 48 | Food and Environment Protection Act 1985. | The responsible authority, as defined in section 2(2) of this Act. | Sections 19(5) and 19(6). |
+| S.I.[^c2034551] 2005/1541 | The Regulatory Reform (Fire Safety) Order 2005 | The enforcing authority as defined in article 25. | Articles 29, 30 and 31. |
+| [2013 c. 32](https://www.legislation.gov.uk/ukpga/2013/32)[^key-ac22e0eb691ca179385a8654a9b0b5b0] | Energy Act 2013 | The Office for Nuclear Regulation | Schedule 8, paragraphs 3 and 4 |
+
+## SCHEDULE — Authorities and Statutory Provisions[^c2034548]
+
+*Extent: S*
+
+Section 2.
+
+| *Chapter* | *Short Title* | *Authority* | *Statutory provision* |
+| --- | --- | --- | --- |
+| [^c2034560] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | [^c2034560] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | [^c2034560] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | [^c2034560] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
+| 1974 c. 37 | Health and Safety at Work etc. Act 1974. | An enforcing authority, as defined in section 18(7)(a). | Sections 21 and 22. |
+| 1975 c. 52 | Safety of Sports Grounds Act 1975. | The local authority, as defined in section 17(1). | Section 10. |
+| 1985 c. 48 | Food and Environment Protection Act 1985. | The responsible authority, as defined in section 2(2) of this Act. | Sections 19(5) and 19(6). |
+| 2005 asp 5[^c2034558] | Fire (Scotland) Act 2005. | The enforcing authority as defined in section 61(9). | Section 63. |
+| [2013 c. 32](https://www.legislation.gov.uk/ukpga/2013/32) | Energy Act 2013 | The Office for Nuclear Regulation | Schedule 8, paragraphs 3 and 4 |
+
+## Annotations
+
+[^c803517]: Modification: Act: transfer of certain functions (1.7.1999) by 1999/672, art. 2, Sch. 1
+
+[^c803518]: Modification: Act: applied (with modifications) (1.4.1999) by [S.I. 1999/743](https://www.legislation.gov.uk/uksi/1999/743), [reg. 21(4)](https://www.legislation.gov.uk/uksi/1999/743/regulation/21/4), [Sch. 8 para. 19](https://www.legislation.gov.uk/uksi/1999/743/schedule/8/paragraph/19)
+
+[^key-7268deecd00f430182d675690d341a2d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/30) applied (with modifications) (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [reg. 17(7)](https://www.legislation.gov.uk/uksi/2015/483/regulation/17/7) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
+
+[^c803519]: Marginal citation: [1985 c. 48](https://www.legislation.gov.uk/ukpga/1985/48).
+
+[^key-add46bc8208b875eeee243068ed6f12d]: Textual amendment: Words in s. 2(2)(b) substituted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [22(2)(a)](https://www.legislation.gov.uk/uksi/2018/644/article/22/2/a)
+
+[^key-3f1acdcadb75eb5c5996ad1b17ced3d3]: Textual amendment: Words in s. 2(2)(c) substituted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [22(2)(a)](https://www.legislation.gov.uk/uksi/2018/644/article/22/2/a)
+
+[^key-d89a2cc9d9186579c56538ab2bbc9b2e]: Textual amendment: S. 2(2)(ca) inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [22(2)(b)](https://www.legislation.gov.uk/uksi/2018/644/article/22/2/b)
+
+[^c803520]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
+
+[^c803521]: Marginal citation: [1985 c. 48](https://www.legislation.gov.uk/ukpga/1985/48).
+
+[^key-e01993752f77778a2941512e67dc3b64]: Textual amendment: [S. 4(6)(aa)](https://www.legislation.gov.uk/ukpga/1988/30/section/4/6/aa) inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [22(3)(a)](https://www.legislation.gov.uk/uksi/2018/644/article/22/3/a)
+
+[^key-0af2fcc3df9423dfd44649aeaca3fa9a]: Textual amendment: Words in [s. 4(6)(b)](https://www.legislation.gov.uk/ukpga/1988/30/section/4/6/b) inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [22(3)(b)](https://www.legislation.gov.uk/uksi/2018/644/article/22/3/b)
+
+[^c2034547]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
+
+[^c2034553]: Textual amendment: Sch.: entry repealed (E.W.) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 53(2)](https://www.legislation.gov.uk/uksi/2005/1541/article/53/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2005/1541/schedule/4) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
+
+[^c2034551]: Textual amendment: Sch.: entry inserted (E.W) (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 53(1)](https://www.legislation.gov.uk/uksi/2005/1541/article/53/1), [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/46) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
+
+[^key-ac22e0eb691ca179385a8654a9b0b5b0]: Textual amendment: Words in Sch. inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2) , [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4) )
+
+[^c2034548]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
+
+[^c2034560]: Textual amendment: Sch.: entry repealed (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/475/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
+
+[^c2034558]: Textual amendment: Sch.: entry inserted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/475/article/2/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/14)

@@ -1,0 +1,27 @@
+---
+title: Health and Social Care (Community Health and Standards) Act 2003, section 69A
+act: Health and Social Care (Community Health and Standards) Act 2003
+section: 69A
+status: revised-with-pending-changes
+text_date: '2023-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2003/43/section/69A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Health and Social Care (Community Health and Standards) Act 2003, section 69A
+
+> **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 69A. Provision of information by Auditor General for Wales[^M_F_d1b9132a-9921-4a95-c7a7-98fa04c83625]
+
+*Extent: E+W*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^M_F_d1b9132a-9921-4a95-c7a7-98fa04c83625]: Textual amendment: Ss. 48-69A repealed (1.4.2009 except in relation to ss. 66-69A, 6.4.2010 in so far as not already in force) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), s. 170(3)(4), Sch. 5 para. 40, Sch. 15 Pt. 1; [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), art. 2(1), Sch. 1 paras. 35(p), 36; [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), art. 2(1), Sch. 1 paras. 17, 18 (with Pt. 3)

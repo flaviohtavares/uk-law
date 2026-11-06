@@ -1,0 +1,56 @@
+---
+title: Energy Act 2011, section 91
+act: Energy Act 2011
+section: '91'
+status: revised
+text_date: '2022-12-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2011/16/section/91
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2011, section 91
+
+> Text as at 2022-12-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 91. Meaning of “associate” for the purposes of section 82[^key-0a140e635ab11b7892ac4fb3555a9f82][^key-dca47ffd6e587003f00b21adb35d5923]
+
+*Extent: E+W+S*
+
+(1) For the purposes of section 82(7)(d) and (9)(a) a person is an associate of another if—
+
+- (a) either or both of them is a body corporate, and
+- (b) one of them controls the other, or both are controlled by the same person or persons,
+
+and subsections (2) to (6) set out the circumstances in which one person (“A”) controls another (“B”).
+
+(2) Where B is a company, A controls B if A possesses or is entitled to acquire—
+
+- (a) one half or more of the issued share capital of B,
+- (b) such rights as would entitle A to exercise one half or more of the votes exercisable in general meetings of B,
+- (c) such part of the issued share capital of B as would entitle A to one half or more of the amount distributed if the whole of the income of B were in fact distributed among the shareholders, or
+- (d) such rights as would, in the event of the winding up of B or in any other circumstances, entitle it to receive one half or more of the assets of B which would then be available for distribution among the shareholders.
+
+(3) Where B is a limited liability partnership, A controls B if A—
+
+- (a) holds a majority of the voting rights in B,
+- (b) is a member of B and has a right to appoint or remove a majority of other members, or
+- (c) is a member of B and controls alone, or pursuant to an agreement with other members, a majority of the voting rights in B.
+
+(4) In subsection (3)(a) and (c) the references to “voting rights” are to the rights conferred on members in respect of their interests in a limited liability partnership to vote on those matters which are to be decided on by a vote of the members of the limited liability partnership.
+
+(5) In any case, A controls B if A has the power, directly or indirectly, to secure that the affairs of B are conducted in accordance with A's wishes.
+
+(6) In determining whether, by virtue of subsections (2) to (5), A controls B, A shall be taken to possess—
+
+- (a) any rights and powers possessed by a person as nominee for it, and
+- (b) any rights and powers possessed by a body corporate which it controls (including rights and powers which such a body corporate would be taken to possess by virtue of this paragraph).
+
+## Annotations
+
+[^key-0a140e635ab11b7892ac4fb3555a9f82]: Commencement: S. 91 in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
+
+[^key-dca47ffd6e587003f00b21adb35d5923]: Modification: S. 91 applied by 1995 c. 45, s. 12(7) (as substituted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 92(12)](https://www.legislation.gov.uk/ukpga/2011/16/section/92/12), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/ii))

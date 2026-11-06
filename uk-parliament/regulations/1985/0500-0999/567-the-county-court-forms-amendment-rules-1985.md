@@ -1,0 +1,155 @@
+---
+title: The County Court (Forms) (Amendment) Rules 1985
+id: uksi/1985/567
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1985-04-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1985/567
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1985/567/pdfs/uksi_19850567_en.pdf
+- http://www.legislation.gov.uk/uksi/1985/567/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The County Court (Forms) (Amendment) Rules 1985
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1985 No. 567 (L. 5)
+
+COUNTY COURTS
+
+PROCEDURE
+
+The County Court (Forms) (Amendment) Rules 1985
+
+Made
+
+2nd April 1985
+
+Coming into Operation
+
+19th May 1985
+
+**1.** (1) These Rules may be cited as the County Court (Forms) (Amendment) Rules 1985.
+
+(2) In these Rules a form referred to by number means the form so numbered in the Schedule to the County Court (Forms) Rules 1982[^f00001].
+
+**2.** Form N10(HP) shall be amended by substituting, for the words in the title from “N4” to “SEC.12)”, the words “N4 (CONSUMER CREDIT ACT 1974, SECTION 133)” and by substituting, for the words in question 3 on page 1 “the court to consider whether to make an instalment order”, the words “to apply for a time order allowing you to pay what you owe by instalments”.
+
+**3.** Form N14 shall be amended by omitting the words “and for which judgment is to be entered”.
+
+**4.** Form N20 shall be amended by inserting, after the word “o'clock”, the words “and so from day to day until the hearing of the proceedings is concluded or the court otherwise orders” and by substituting, for the figures “£50”, the figures “£400”.
+
+**5.** Form N32(1) shall be amended by substituting—
+
+- (a) for the words in the title from “PARAGRAPH (a)” to “1938)”, the words “SECTION 133(1)(i) OF THE CONSUMER CREDIT ACT 1974”; and
+- (b) for the words in the body of the form “hire-purchase agreement”, the words “regulated hire-purchase agreement \[*or* regulated conditional sale agreement\]”.
+
+**6.** Form N32(2) shall be amended as follows.
+
+(1) In the title for the words from “PARAGRAPH (b)” to “1938)”, there shall be substituted the words “CONSUMER CREDIT ACT 1974, S.133(1)(i) SUSPENDED IN ACCORDANCE WITH A TIME ORDER”.
+
+(2) In the body of the form, for the words “hire-purchase agreement”, “postponement” (wherever occurring), “postponed” and “hire-purchase price” (wherever occurring), there shall be substituted the words “regulated hire-purchase agreement \[*or* regulated conditional sale agreement\]”, “suspension”, “suspended” and “total price” respectively.
+
+**7.** Form N32(3) shall be amended by substituting—
+
+- (a) for the words in the title from “PARAGRAPH (c)” to “1938)”, the words “section 133(1)(ii) OF THE CONSUMER CREDIT ACT 1974”; and
+- (b) for the words in the body of the form “hire-purchase agreement”, the words “regulated hire-purchase agreement \[*or* regulated conditional sale agreement\]”.
+
+**8.** Form N32(4) shall be amended as follows.
+
+(1) In the title for the words from “SECTIONS” to “1938)” there shall be substituted the words “SECTION 130(6) OR 135(4) OF THE CONSUMER CREDIT ACT 1974”.
+
+(2) In the body of the form for the words “postponed”, “Hire-Purchase” and “postponement” there shall be substituted the words “suspended”, “regulated” and “suspension” respectively.
+
+(3) The fourth and fifth paragraphs of the form shall be omitted.
+
+**9.** Form N32(5) shall be amended by substituting—
+
+- (a) in the title for the words from “UNDER SECTION” to “1964)”, the words “UNDER SECTION 133(6) OF THE CONSUMER CREDIT ACT 1974”; and
+- (b) in the body of the form for the words “the price”, the words “the total price”.
+
+**10.** Form N33 shall be amended by substituting for the words in the title “SIMPLE HIRE AGREEMENT”, the words “A REGULATED CONSUMER HIRE AGREEMENT”.
+
+**11.** Form N41 shall be amended by inserting the following new paragraph before the word “DATED”—
+
+> \[The warrant has been returned to the—County Court and any further correspondence should be sent there (1)\]
+
+.
+
+**12.** Form N47 shall be amended as follows.
+
+(1) In the title for the words from “UNDER SECTION” to “1938)” there shall be substituted the words “UNDER SECTION 133(1)(i) OF THE CONSUMER CREDIT ACT 1974 SUSPENDED IN ACCORDANCE WITH A TIME ORDER”.
+
+(2) In the second paragraph of the form for the words from “postponed” to “be paid” there shall be substituted the words “suspended on condition that the unpaid balance of the total price then amounting to £ and the \[debt/damages and\] costs be paid”.
+
+(3) The third paragraph of the form shall be omitted.
+
+(4) In the fifth paragraph of the form for the words “hire-purchase price” there shall be substituted the words “total price”.
+
+**13.** Form N56 shall be amended by inserting the following as question 2(e)—
+
+> |  |  |
+> | --- | --- |
+> | (e) What is your usual take home pay? | £ …<br>per week/month. |
+
+**14.** Forms N61 to N63 shall be amended by substituting, for the figures “£25”, the figures “£100”.
+
+**15.** Form N92 shall be amended by inserting the following question after question 2(d)—
+
+> |  |  |
+> | --- | --- |
+> | (e) What is your usual take home pay? | £ …<br>per week/month |
+
+and the existing question 2(e) shall stand as question 2(f).
+
+**16.** Except in relation to any provision of the Consumer Credit Act 1974 which applies to agreements entered into before 19th May 1985, nothing in Rules 2, 5 to 10 and 12 shall apply to agreements entered into before that date and the Rules in force immediately before 19th May 1985 shall continue to apply to those agreements.
+
+We, the undersigned members of the Rule Committee appointed by the Lord Chancellor under section 75 of the County Courts Act 1984, having by virtue of the powers vested in us in this behalf made the foregoing Rules, do hereby certify the same under our hands and submit them to the Lord Chancellor accordingly.
+
+C.R. Oddie
+
+J.B. Taylor
+
+C.S. Stuart-White
+
+P.G. Hebbert
+
+Peter Crane
+
+Anthony Girling
+
+Norman Francis
+
+D. McKinney
+
+A.W. Donaldson
+
+J.F. Holt
+
+Alan K. Griesbach
+
+I allow these Rules, which shall come into operation on 19th May 1985.
+
+Hailsham of St. Marylebone, C
+
+Dated 2nd April 1985
+
+EXPLANATORY NOTE
+
+These Rules amend the County Court (Forms) Rules 1982 so as—
+
+- (*a*) to give effect to those provisions of the Consumer Credit Act 1974 which are to come into operation on 19th May 1985 (Rules 2, 5 to 10, 12 and 16);
+- (*b*) to effect some minor corrections and miscellaneous amendments (Rules 3, 4 and 13 to 15);
+- (*c*) to indicate the new administrative arrangements for dealing with “foreign” warrants (Rule 11).
+
+## Annotations
+
+[^f00001]: Footnote: the only relevant amending instrument is S.I. 1984/879.

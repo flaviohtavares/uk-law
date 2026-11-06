@@ -1,0 +1,491 @@
+---
+title: The Help–to–Save Accounts Regulations 2018
+id: uksi/2018/87
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-01-24'
+text_date: '2025-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/87
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/87/pdfs/uksiem_20180087_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/87/pdfs/uksi_20180087_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/87/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Help–to–Save Accounts Regulations 2018
+
+> Text as at 2025-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 87
+
+Savings Accounts
+
+The Help–to–Save Accounts Regulations 2018
+
+Made
+
+24th January 2018
+
+Coming into force in accordance with Regulation 1.
+
+The Treasury make the following Regulations in exercise of the powers conferred by sections 4(6), 6(3) and 6(4) of and paragraphs 3(3), (6)(a) and (7), 4(2), 5, 6, 7, 10(1)(b), (3) and (4), 11(2) and (3), 12, 14, 15, 16 and 18 of Schedule 2 to, the Savings (Government Contributions) Act 2017[^f00001].
+
+A draft of this instrument was laid before, and approved by a resolution of, the House of Commons in accordance with section 4(2) of the Savings (Government Contributions) Act 2017.
+
+## 1. Citation and commencement[^key-5619f3c9851269fb1384ce6a1e76d77f]
+
+These Regulations may be cited as the Help–to–Save Accounts Regulations 2018 and come into force on the day after they are made.
+
+## 2. Interpretation[^key-f22eaaaf42dcf29ad55095170268de2e]
+
+In these Regulations—
+
+- (a) the following expressions have the meanings given in the Savings (Government Contributions) Act 2017 (“the Act”)—
+  - “authorised account provider” (see paragraph 9(2)(c) of Schedule 2);
+  - “benefit entitlement condition” (see paragraphs 5,6 and 8(1)(a) of Schedule 2);
+  - “bonus” (see paragraph 1 of Schedule 2);
+  - “eligibility reference dates” (see paragraph 3(4) of Schedule 2);
+  - “eligible person” (see paragraph 4 of Schedule 2);
+  - “first benefit entitlement condition” (see paragraph 5 of Schedule 2);
+  - “Help-to-Save account” (see paragraph 3 of Schedule 2);
+  - “HMRC” (see section 5(1) of the Act);
+  - “maturity period” (see paragraph 3(6) of Schedule 2);
+  - “maximum monthly amount” (see paragraph 10(2) of Schedule 2);
+  - “second benefit entitlement condition” (see paragraph 6 of Schedule 2);
+  - “UK connection condition” (see paragraph 7 of Schedule 2); and
+- (b) the following expressions have the following meanings—
+  - “account holder”, “applicant” and “agreed terms” have the meaning given in regulation 11;
+  - “Management Act” means the Taxes Management Act 1970[^f00002];
+  - “Schedule 2” means Schedule 2 to the Act;
+  - “tax year” means a period beginning with 6th April in one year and ending with 5th April in the next.
+
+## 3. Eligible persons – entitlement to working tax credit or universal credit[^key-512bb88197ac3fec5fb7c638592871ff]
+
+(1) This regulation specifies the conditions to be met by an individual for the purposes of meeting the first benefit entitlement condition and the second benefit entitlement condition.
+
+(2) The specified condition relating to the first benefit entitlement condition is that on each of the eligibility reference dates—
+
+Condition 1
+
+the individual (whether alone or with another person) has a current award validly obtained of working tax credit (not being at a nil rate) under section 14 of the Tax Credits Act; or
+
+Condition 2
+
+the individual (whether alone or with another person) has a current award validly obtained under section 14 of the Tax Credits Act of working tax credit at a nil rate and of child tax credit at a rate other than a nil rate; or
+
+Condition 3
+
+- (a) the individual would have met either Condition 1 or Condition 2 if the reference in the condition to “has” were a reference to “had, immediately before the end of the preceding tax year”; and
+- (b) payments are in fact being made under section 24(4) of the Tax Credits Act and are treated by section 24(5) of that Act as if they were payments of working tax credit or child tax credit that the individual (whether alone or with another person) is entitled to claim for the current tax year.
+
+(3) The specified condition relating to the second benefit entitlement condition is that on each of the eligibility reference dates—
+
+- (a) the individual (as a single claimant or as a joint claimant) is in receipt of a current award validly obtained of universal credit (not being a nil award), and
+- (b)[^key-60d7ea02013ff13e270b7aa37a8be572] has earned income in the assessment period immediately preceding the first eligibility reference date equal to or greater than £1.
+
+(4) A benefit entitlement condition is to be treated as met on any day if it would have been met but for an error or delay on the part of HMRC.
+
+(5) For the purposes of paragraph (2), “a current award” includes revisions of the award (otherwise than to revoke the award) under section 15 or 16 of the Tax Credits Act.
+
+(6) In this regulation—
+
+- (a) “working tax credit”, “child tax credit” and “tax credit” have the meanings given by the Tax Credits Act;
+- (b) “assessment period” and “earned income” have the meanings given by the Universal Credit Regulations 2013[^f00003] or, in the case of Northern Ireland, the Welfare Reform (Northern Ireland) Order 2015[^f00004];
+- (c) “joint claimant”, “single claimant”, and “universal credit” have the meanings given by the Welfare Reform Act 2012 [^f00005] or, in the case of Northern Ireland, the Welfare Reform (Northern Ireland) Order 2015;
+- (d)[^key-4e3242040f7b1966e5f32f450cafb857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) “Tax Credits Act” means the Tax Credits Act 2002 [^f00007].
+
+## 4. Eligible persons-presence in the United Kingdom[^key-2f96d0044e7cdfa65c1ef02405641bf4]
+
+An individual is to be treated as being or not being in the United Kingdom at any time where the individual met —
+
+- (a) the first benefit entitlement condition, and at such time the individual—
+  - (i) is so treated under regulations 3 to 6 (as the case requires) of the Tax Credits (Residence) Regulations 2003[^f00008]; or
+  - (ii) would be so treated if those regulations continued to apply to the individual; or
+- (b) the second benefit entitlement condition, and at such time the individual—
+  - (i) is so treated under regulations 9 to 11 (as the case requires) of the Universal Credit Regulations 2013[^f00009] or the Universal Credit Regulations (Northern Ireland) 2016[^f00010]; or
+  - (ii) would be so treated if those regulations continued to apply to the individual.
+
+## 5. Trial[^key-833dc8c8f8b0bd0acaed619a751390de]
+
+(1) The duty under section 2 of the Act does not apply to Help-to-Save accounts opened before 16th<sup> </sup>October 2018 unless the individual opening the account is an eligible person taking part in the trial.
+
+(2) For the purposes of this regulation “the trial” means a test of all the systems required to deliver Help-to-Save accounts, which will run from the date of the coming into force of these Regulations to 15th October 2018.
+
+## 6. Account holder not being in the United Kingdom[^key-459272e670498e52fb3d2f152facc75d]
+
+(1) An account holder, who at any time does not meet the UK connection condition, may retain the benefits of the Help-to-Save account subsisting at that time.
+
+(2) For as long as an account holder does not meet the UK connection condition, the account holder must not pay any amount into the Help-to-Save account and the maximum monthly amount is to be nil.
+
+(3) An account holder must inform the authorised account provider within the period specified in paragraph (6) if the account holder is absent from the United Kingdom so as to cease to meet the UK connection condition.
+
+(4) In the event of failure by an account holder to comply with the duty under paragraph (3), HMRC may impose a penalty on the account holder which must not exceed £300.
+
+(5) The penalty imposed may be deducted by the authorised account provider from amounts to be paid by way of bonus to the account holder and, if so deducted, must be accounted for by the authorised account provider to HMRC.
+
+(6) The period specified for the purposes of paragraph (3) is 14 days beginning with the first day on which the UK connection condition is not met.
+
+## 7. Opening of Help-to-Save Account[^key-a8282feb120869981a5f909d23e0426d]
+
+A Help-to-Save account is opened with an authorised account provider on the date when the applicant enters into agreed terms with the authorised account provider, which includes the application and declaration required by regulation 8(2)(b).
+
+## 8. Application to open a Help-to-Save account[^key-7a93970f7e79513858904292bdd0024b]
+
+(1) An application by an individual to open a Help-to-Save account with an authorised account provider must be made to HMRC and must satisfy the conditions in paragraph (2).
+
+(2) An application must—
+
+- (a) contain such information to be given to such persons as HMRC may specify; and
+- (b) incorporate a true declaration by the applicant that—
+  - (i) the applicant has not previously opened a Help-to-Save account;
+  - (ii) the applicant is an eligible person who is entitled to hold a Help-to-Save account;
+  - (iii) the applicant will inform the authorised account provider if the applicant is absent from the United Kingdom so as to cease to meet the UK connection condition; and
+  - (iv) the information contained in the application is true and complete.
+
+(3) HMRC must decline to accept an application if it has reason to believe that the applicant’s declaration or application is untrue, or contains matters which are untrue, and must notify the applicant within 21 days of the date of the application with reasons accordingly.
+
+(4) Regulation 19 applies to any notification under this regulation.
+
+(5) This regulation is subject to regulations 9 and 10.
+
+## 9. Circumstances where eligible person unable to act—receivers etc.[^key-912b300b87e4a5a9ed3beea77cb3b30e]
+
+(1) In the circumstances specified in paragraph (2) a person mentioned in sub-paragraph (b) of that paragraph may act for the person mentioned in sub-paragraph (a) of that paragraph for the purposes of—
+
+- (a) making a declaration under regulation 8(2)(b);
+- (b) opening a Help-to-Save account;
+- (c) managing a Help-to-Save account.
+
+(2) The circumstances specified in this paragraph are where—
+
+- (a) a person is an eligible person but is unable for the time being to open and manage a Help-to-Save account; and
+- (b) there are any of the following—
+  - (i) a receiver appointed by the Court of Protection with power to open and manage a Help-to-Save account on behalf of the person;
+  - (ii) in Scotland, a tutor, curator or other guardian acting or appointed in terms of law who is administering the estate of the person; or
+  - (iii) in Northern Ireland, a controller appointed by the High Court, with power to open and manage a Help-to-Save account on behalf of the person.
+
+## 10. Circumstances where eligible person unable to act-other appointed persons[^key-0ad1a8a514a0a592f3f2d5466d89a111]
+
+(1) In the circumstances specified in paragraph (2) a person mentioned in sub-paragraph (b) of that paragraph may act for the person mentioned in sub-paragraph (a) of that paragraph for the purposes of—
+
+- (a) making a declaration under regulation 8(2)(b);
+- (b) opening a Help-to-Save account;
+- (c) managing a Help-to-Save account.
+
+(2) The circumstances specified in this paragraph are where—
+
+- (a) a person is an eligible person but is unable for the time being to open and manage a Help-to-Save account; and
+- (b) in relation to that person, there is a person appointed under—
+  - (i) regulation 33(1) of the Social Security (Claims and Payments) Regulations 1987[^f00011];
+  - (ii) regulation 33(1) of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00012]; or
+  - (iii) paragraph (3).
+
+(3) Where no person mentioned in regulation 10(2)(b)(i) or (ii) has been appointed in relation to the person who is unable to act, HMRC may appoint under this paragraph a person who—
+
+- (a) if a natural person, is aged 18 years or more; and
+- (b) has applied in writing to HMRC to be appointed to act on behalf of the person who is unable to act.
+
+(4) A person’s appointment under paragraph (3) ends—
+
+- (a) when HMRC terminate it;
+- (b) when the person appointed has resigned from the appointment having given one month’s notice in writing to HMRC of that person’s resignation; or
+- (c) when HMRC are notified that a receiver or other person mentioned in paragraph (2)(b) has been appointed in relation to the person who is unable to open or manage a Help-to-Save account.
+
+## 11. General requirements for Help-to-Save accounts[^key-77cdf2320319d7974f67ad63e6895ab3]
+
+(1) A Help-to-Save account must satisfy the requirements that—
+
+- (a) it is the account of a single individual (“the account holder”), who is “the applicant” in regulation 8;
+- (b) the account is denominated in sterling; and
+- (c) the account must at all times be managed in accordance with the Act and these Regulations by an authorised account provider and under terms agreed (the “agreed terms”) between the authorised account provider and the account holder.
+
+(2) Apart from other requirements of the Act and these Regulations, the agreed terms must include (or comply with, as the case may be) the conditions that—
+
+- (a) the authorised account provider must pay the account holder, or in the case of death their personal representatives, any bonus due in accordance with regulation 13;
+- (b) there is no restriction on the maximum or minimum amount or on timing (subject to the authorised account provider’s normal business hours) of withdrawals of the balance standing to the credit of the Help-to-Save account;
+- (c) there is no requirement that a minimum credit balance must be maintained in the account (with the result that an account with a nil balance is not automatically closed);
+- (d) the authorised account provider shall have no right of charge, lien, set-off, mortgage or other security against the money in the account; and
+- (e) the authorised account provider shall satisfy itself that any person to whom it delegates any of its functions or responsibilities under the agreed terms is competent to carry out those functions or responsibilities.
+
+(3) HMRC is to determine whether an account meets the requirements imposed by these Regulations.
+
+(4) This regulation is subject to regulations 9 and 10.
+
+## 12. Limit on amounts paid into a Help-to-Save account[^key-145bd6daa18a2a02924e246037118e1a]
+
+(1) The amount that may be paid into a Help-to-Save account each month (excluding interest or other sums paid by the authorised account provider and excluding any bonus) must not exceed the maximum monthly amount.
+
+(2) The maximum monthly amount is to be a gross amount (ignoring previous withdrawals from the account and the mentioned exclusions in paragraph (1)).
+
+(3) The minimum amount that can be paid into a Help-to-Save account is £1 or such smaller amount agreed by an authorised account provider.
+
+(4) An amount paid into a Help-to-Save account in excess of the maximum monthly amount is not to be treated as an amount added to an account and must not be held in that account.
+
+(5) This regulation is subject to regulation 6(2).
+
+## 13. Amount of Bonus[^key-35f0734ee38d6b4552b79fed0028fd56]
+
+(1) A bonus is to be paid to an account holder—
+
+- (a) at the end of the maturity period, and
+- (b) if earlier, also at the end of the period of 24 months beginning with the month in which the Help-to-Save account is opened (the “first bonus period”).
+
+(2) The amount of a bonus is to be nil if the account is closed or otherwise ceases to be a Help-to-Save account before the end of a period in respect of which a bonus would otherwise be payable.
+
+(3) The amount of a bonus is to be calculated by the authorised account provider by multiplying
+
+A by B where
+
+*A* is the number of whole pounds in the qualifying balance of the account, and
+
+*B* is 50 pence.
+
+(4) The qualifying balance, in the case of a bonus that is paid at the end of the first bonus period, or at the end of the maturity period (if earlier), is the highest balance of an account achieved in that period.
+
+(5) The qualifying balance, in the case of a bonus that is paid at the end of the maturity period, if later than the end of the first bonus period, is the highest balance of a Help-to-Save account achieved after the first bonus period, less the highest balance of the account achieved in the first bonus period (if any).
+
+(6) In calculating any qualifying balance, the following are to be disregarded—
+
+- (a) the amount of any bonus, interest or other sum paid by the authorised account provider under the terms of the Help-to-Save account;
+- (b) any sum paid into the Help-to-Save account in breach of the limit specified in regulation 12; and
+- (c) any sum paid into the Help-to-Save account in breach of regulation 6.
+
+(7) The authorised account provider must pay the bonus to the account holder within 21 days from the end of the first bonus period or the maturity period (as the case requires).
+
+(8) If the account holder dies, paragraph (7) does not apply and the authorised account provider must pay to the account holder’s personal representatives the amount of any bonus accrued to the date of death.
+
+(9) A payment of bonus due under paragraph (8) must be made within 21 days of the end of the month in which HMRC receives evidence of the death of the account holder and of the status of the personal representatives.
+
+(10) For the purposes of paragraph 3(7) of Schedule 2, an account holder is to be considered as suffering from a terminal illness if HMRC has received written evidence from a registered medical practitioner that the account holder is expected to live for less than 12 months.
+
+## 14. Bonus claim[^key-6649b6487d9f9ec2f19711f45fec2ea3]
+
+(1) A bonus is only payable if a claim for it is made by the authorised account provider in accordance with arrangements made between HMRC and the Director of Savings.
+
+(2) HMRC may from time to time specify—
+
+- (a) the information to be included in a claim for a bonus;
+- (b) the period to which such a claim is to relate (“claim period”); and
+- (c) the form or manner in which such a claim is to be made.
+
+(3) The claim is to be made on a date within such period provided for in accordance with those arrangements after the end of a claim period.
+
+(4) HMRC in accordance with those arrangements must pay the authorised account provider for the account of the account holder any bonus amount that is due.
+
+## 15. Rejection of bonus claim[^key-66ebc958df0f8c07896eac828f3dcd58]
+
+(1) HMRC must notify the authorised account provider of a rejection of any claim for a bonus together with reasons for the decision—
+
+- (a) where the claim is made by the date referred to in regulation 14(3) (“due date”), within 14 days beginning with the day after the due date for the claim, and
+- (b) where the claim is made later than the due date, within 14 days beginning with the day after receipt of the claim.
+
+(2) The authorised account provider, on receipt of such notification, must notify the account holder within 14 days beginning with the day after the day of receipt.
+
+(3) An account holder may within 90 days, beginning with the day after the expiry of the period referred to in paragraph (2), apply to HMRC for payment of a bonus which has been refused.
+
+(4) Regulation 19 applies, in relation to an account holder, to a decision in respect of an application under paragraph (3).
+
+(5) The effect of any notification or decision is not suspended by the making of an application or an appeal.
+
+## 16. Recoupment of bonus etc.[^key-2250d6293b9607957478c63ec15ecd2a]
+
+(1) Where—
+
+- (a) the account holder was not an eligible person on an eligibility reference date; or
+- (b) in relation to a Help-to-Save account, there is a breach of the declaration made under regulation 8(2)(b)(i), (ii) or (iv),
+
+the account is void and the persons mentioned in paragraph (4), who are to be jointly and severally liable, must account to HMRC for any amount of bonus paid in respect of the account.
+
+(2) HMRC must notify the account holder of a Help-to-Save account becoming void under paragraph (1) within 14 days beginning with the day a determination to that effect is made.
+
+(3) Where an amount of bonus is paid by HMRC to an authorised account provider in pursuance of the Act due to a misstatement or a mistake, or at a time when an account is not a Help-to-Save account, the persons mentioned in paragraph (4) must account to HMRC for such amount.
+
+(4) The persons mentioned in this paragraph are—
+
+- (a) the authorised account provider (to the extent that it has assets relating to the account, or directly or indirectly representing any of the payments, in its possession or control),
+- (b) the account holder, or former account holder (to the extent that the payments have been made or credited to the account holder), and
+- (c) any person in whom any of the payments, or any property directly or indirectly representing any of them, is vested (whether beneficially or otherwise).
+
+(5) Where a person accountable under this regulation is notified by HMRC that an amount is due from that person under it, that amount is be treated for the purposes of Part 6 of the Management Act (collection and recovery) as if it were tax charged in an assessment and due and payable.
+
+(6) The time limits in sections 34 to 36 and 40 of the Management Act are to apply to amounts payable under this regulation as they apply to assessments.
+
+(7) Regulation 19 applies to any notification under this regulation.
+
+## 17. Payments by and to HMRC[^key-825294d0a7a3ebf343b03b62fd13d3f6]
+
+(1) Any amount which is payable by virtue of an assessment made, or treated as made, under these Regulations is payable on the day following the end of the period of 30 days beginning with the day on which the notice of assessment is given.
+
+(2) Paragraph (1) is subject to any proceedings relating to appeal.
+
+(3) Sections 101 and 103 of the Finance Act 2009[^f00013] apply for late payment interest on any amount that is payable to HMRC under these Regulations which amount is to be treated as income tax for this purpose.
+
+(4) Sections 102 and 103 of that Act apply for repayment interest on any amount that is payable by HMRC under these Regulations which amount payable is to be treated as a repayment of an overpayment of income tax.
+
+## 18. “Repair” of invalid accounts[^key-ca4a8bdd802facaac2fb01dcc75c652b]
+
+(1) Except in the case of a breach of the declaration made under regulation 8(2)(b)(i), (ii) or (iv) (where no repair of an account is possible), it is an overriding requirement to be satisfied in relation to an account that the authorised account provider and account holder, as the case may be, take any steps necessary to remedy any breach of these Regulations.
+
+(2) Where a breach is remedied as mentioned in paragraph (1), the account must, to the extent of that breach, be treated as having been a valid Help-to-Save account at all times.
+
+## 19. Appeals[^key-4b2e38fe91ee21dfd45995a2d3e6d4cb]
+
+(1) This Regulation applies to a review or appeal in respect of a decision made or notification given by HMRC under any of regulations 8, 15 and 16.
+
+(2) Notice of an appeal must be given to HMRC within 30 days after the date on which notice of the decision or other notification was given.
+
+(3) Notice of an appeal must—
+
+- (a) specify the grounds of appeal;
+- (b) be given in writing;
+- (c) be treated as a requirement by the appellant under section 49A(2)(a) of the Management Act for HMRC to review the matter in question;
+- (d) contain sufficient information to identify the appellant and the decision against which the appeal is being made; and
+- (e) be signed, or authenticated in another way authorised by HMRC, by or on behalf of the appellant.
+
+(4) Sections 49, 49A, 49B, 49D to 49G, 49I and 54 of the Management Act[^f00014] apply in relation to proceedings for a review and appeal.
+
+(5) The following provisions apply where a person is appealing to the Tribunal.
+
+(6) The Tribunal must either—
+
+- (a) dismiss the appeal, or
+- (b) quash the whole or part of the decision to which the appeal relates.
+
+(7) The Tribunal may act as mentioned in paragraph (6)(b) only to the extent that it is satisfied that the decision was wrong on one or more of the following grounds—
+
+- (a) that the decision was based, wholly or partly, on an error of fact;
+- (b) that the decision was wrong in law.
+
+(8) If the Tribunal quashes the whole or part of a decision, it may either—
+
+- (a) refer the matter back to HMRC with a direction to reconsider and make a new decision in accordance with its ruling, or
+- (b) substitute its own decision for that of HMRC. The Tribunal may not direct HMRC to take any action which they would not otherwise have the power to take in relation to the decision.
+
+(9) A decision of the Tribunal made by virtue of this section has the same effect, and may be enforced in the same manner, as a decision of HMRC.
+
+(10) In this Regulation “the Tribunal” means the First-tier Tribunal, or when determined by or under Tribunal Procedure Rules, the Upper Tribunal.
+
+David Rutley
+
+Mark Spencer
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+24th January 2018
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make detailed provision for Help-to-Save Accounts under the Savings (Government Contributions) Act [2017 (c. 2)](https://www.legislation.gov.uk/ukpga/2017/2) (“the Act”).
+
+Regulation 1 provides for citation and commencement, and regulation 2 for interpretation. The authorised account provider under the Act is the Director of Savings.
+
+Regulation 3 sets out the condition to be met for meeting the first benefit entitlement condition, relating to working tax credit, and the second benefit entitlement condition relating to universal credit.
+
+Regulation 4 sets out the circumstances relevant to the UK connection condition under the Act.
+
+Regulation 5 provides for a trial period to test all the systems required to deliver Help-to-Save accounts. It will run from the date of the coming into force of these Regulations until 15th October 2018.
+
+Regulation 6 provides for the case of an account holder not being in the United Kingdom. The account holder is under an obligation to inform the authorised account provider if the account holder is absent from the United Kingdom so as to cease to meet the UK connection condition.
+
+Regulations 7 to 11 set out the provisions relating to the opening and maintaining of a Help-to-Save account.
+
+Regulation 12 sets out the limits to monthly amounts which may be paid into a Help-to-Save account.
+
+Regulation 13 provides for calculation and payment of bonus.
+
+Regulation 14 provides for claims for bonus by the authorised account provider which must be made in accordance with arrangements made between the HMRC and the Director of Savings.
+
+Regulation 15 provides for rejection of bonus claims.
+
+Regulation 16 makes provision for recoupment by HMRC of amounts of bonus or overpayments wrongly paid or made.
+
+Regulation 17 provides for payments by and to HMRC in relation to overpayments, repayments and late payments, including interest.
+
+Regulation 18 provides for minor breaches of statutory requirements for Help-to-Save accounts to be remedied (“repaired”) by administrative action.
+
+Regulation 19 provides for appeals.
+
+A full Regulatory Impact Assessment for Help-to-Save accounts has been published on the HM Government website at https://www.gov.uk/government/collections/the-savings-government-contributionsbill.
+
+## Annotations
+
+[^f00001]: Footnote: [2017 c. 2](https://www.legislation.gov.uk/ukpga/2017/2).
+
+[^key-5619f3c9851269fb1384ce6a1e76d77f]: Commencement: Reg. 1 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^key-f22eaaaf42dcf29ad55095170268de2e]: Commencement: Reg. 2 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^f00002]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
+
+[^key-512bb88197ac3fec5fb7c638592871ff]: Commencement: Reg. 3 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^key-60d7ea02013ff13e270b7aa37a8be572]: Textual amendment: [Reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2018/87/regulation/3/3/b) substituted (6.4.2025) by [The Help-to-Save Accounts Regulations 2025 (S.I. 2025/327)](https://www.legislation.gov.uk/uksi/2025/327), [regs. 1](https://www.legislation.gov.uk/uksi/2025/327/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/327/regulation/2/2)
+
+[^f00003]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
+
+[^f00004]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006).
+
+[^f00005]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^key-4e3242040f7b1966e5f32f450cafb857]: Textual amendment: [Reg. 3(6)(d)](https://www.legislation.gov.uk/uksi/2018/87/regulation/3/6/d) omitted (6.4.2025) by virtue of [The Help-to-Save Accounts Regulations 2025 (S.I. 2025/327)](https://www.legislation.gov.uk/uksi/2025/327), [regs. 1](https://www.legislation.gov.uk/uksi/2025/327/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/327/regulation/2/3)
+
+[^f00007]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
+
+[^key-2f96d0044e7cdfa65c1ef02405641bf4]: Commencement: Reg. 4 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^f00008]: Footnote: [S.I. 2003/654](https://www.legislation.gov.uk/uksi/2003/654).
+
+[^f00009]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
+
+[^f00010]: Footnote: [SR (N.I.) 2016/216](https://www.legislation.gov.uk/nisr/2016/216).
+
+[^key-833dc8c8f8b0bd0acaed619a751390de]: Commencement: Reg. 5 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^key-459272e670498e52fb3d2f152facc75d]: Commencement: Reg. 6 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^key-a8282feb120869981a5f909d23e0426d]: Commencement: Reg. 7 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^key-7a93970f7e79513858904292bdd0024b]: Commencement: Reg. 8 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^key-912b300b87e4a5a9ed3beea77cb3b30e]: Commencement: Reg. 9 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^key-0ad1a8a514a0a592f3f2d5466d89a111]: Commencement: Reg. 10 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^f00011]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Regulation 33(1) was amended by [S.I. 1999/2572](https://www.legislation.gov.uk/uksi/1999/2572), [2005/337](https://www.legislation.gov.uk/uksi/2005/337) and [2007/2470](https://www.legislation.gov.uk/uksi/2007/2470).
+
+[^f00012]: Footnote: [SR (N.I.) 1987/465](https://www.legislation.gov.uk/nisr/1987/465).
+
+[^key-77cdf2320319d7974f67ad63e6895ab3]: Commencement: Reg. 11 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^key-145bd6daa18a2a02924e246037118e1a]: Commencement: Reg. 12 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^key-35f0734ee38d6b4552b79fed0028fd56]: Commencement: Reg. 13 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^key-6649b6487d9f9ec2f19711f45fec2ea3]: Commencement: Reg. 14 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^key-66ebc958df0f8c07896eac828f3dcd58]: Commencement: Reg. 15 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^key-2250d6293b9607957478c63ec15ecd2a]: Commencement: Reg. 16 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^key-825294d0a7a3ebf343b03b62fd13d3f6]: Commencement: Reg. 17 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^f00013]: Footnote: [2009 c. 10](https://www.legislation.gov.uk/ukpga/2009/10) and [S.I. 2011/701](https://www.legislation.gov.uk/uksi/2011/701).
+
+[^key-ca4a8bdd802facaac2fb01dcc75c652b]: Commencement: Reg. 18 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^key-4b2e38fe91ee21dfd45995a2d3e6d4cb]: Commencement: Reg. 19 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+
+[^f00014]: Footnote: Section 49 was substituted and sections 49A, 49B, 49D to 49G and 49I were inserted, by [S.I.2009/56](https://www.legislation.gov.uk/uksi/2009/56).

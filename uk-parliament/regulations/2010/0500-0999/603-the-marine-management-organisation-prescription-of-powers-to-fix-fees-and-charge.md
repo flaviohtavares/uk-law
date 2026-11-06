@@ -1,0 +1,144 @@
+---
+title: The Marine Management Organisation (Prescription of Powers to Fix Fees and Charges) Order 2010
+id: uksi/2010/603
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-03-01'
+text_date: '2017-11-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/603
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/603/pdfs/uksiem_20100603_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/603/pdfs/uksi_20100603_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/603/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Marine Management Organisation (Prescription of Powers to Fix Fees and Charges) Order 2010
+
+> Text as at 2017-11-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 603
+
+Marine Management
+
+The Marine Management Organisation (Prescription of Powers to Fix Fees and Charges) Order 2010
+
+Made
+
+1st March 2010
+
+Laid before Parliament
+
+8th March 2010
+
+Coming into force
+
+1st April 2010
+
+The Secretary of State makes the following Order in exercise of the powers conferred by section 17(3)(e) of the Marine and Coastal Access Act 2009[^f00001].
+
+## 1. Title and commencement[^key-1c49678abc8e50d8faeee0b10c551ac5]
+
+This Order—
+
+- (a) may be cited as the Marine Management Organisation (Prescription of Powers to Fix Fees and Charges) Order 2010; and
+- (b) comes into force on 1st April 2010.
+
+## 2. Prescription of powers to fix fees and charges[^key-d8eb21bf0823321bc96e4beb5c9e1ebb]
+
+Any power of the Secretary of State to fix a fee or charge contained in the provisions set out in the Schedule is prescribed for the purposes of section 17 of the Marine and Coastal Access Act 2009.
+
+Huw Irranca-Davies
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+1st March 2010
+
+## SCHEDULE[^key-e00a409743ddfe46b7c5e8579a91dcff]
+
+Article 2
+
+| Legislative provision | Description of power to fix fees or charges |
+| --- | --- |
+| ***Coast Protection Act 1949***[^f00002] ***(Part II)*** |  |
+| Section 36(4) | To recover certified expenses of removing or altering any works or removing any object or materials under section 36(2) or (3) |
+| Section 36A(4) | To recover certified costs of making arrangements under section 36A(3) |
+| ***Food and Environment Protection Act 1985***[^f00003] ***(Part II)*** |  |
+| Section 8(8) | To require an applicant to pay reasonable fees for carrying out examinations and tests and checking and monitoring operations |
+| Section 10(2) | To recover reasonable expenses incurred in taking remedial action |
+| Section 13(2) | To recover reasonable expenses incurred in conducting tests on substances produced for the treatment of oil |
+| Section 14(5)(b) | To make reasonable charges for copies of Register entries |
+| ***The Deposits in the Sea (Exemptions) Order 1985***[^f00004] |  |
+| Article 5(6) | To make reasonable charges for copies of Register entries |
+| ***The Environmental Impact Assessment and Natural Habitats (Extraction of Marine Minerals by Marine Dredging)(England and Northern Ireland) Regulations 2007***[^f00005] |  |
+| Regulation 9(1) | To charge a fee, determined in accordance with regulation 25, in respect of preliminary matters |
+| Regulation 12(3) | To make a reasonable charge for the provision of copies of applications, information, reports and advice |
+| Regulation 13(6)(a)(ii) | To apply in a grant of permission conditions as to the fees, determined in accordance with regulation 25, to be paid in respect of the regulator’s expenses incurred in assessing and interpreting the results of any monitoring of compliance with the conditions attached to the permission carried out in accordance with such conditions |
+| Regulation 17(3) | To vary in a permission any condition as to fees<br>to which the permission was subject prior to the variation |
+| Regulation 18(8) | To request payment of fees determined in accordance with regulation 25 |
+| Regulation 20(9)(b) | To apply in a variation of permission conditions as to fees, determined in accordance with regulation 25, to be paid in respect of the regulator’s expenses incurred in interpreting and assessing the results of any monitoring of compliance with the conditions attached to the permission carried out in accordance with such conditions |
+| Regulation 25(1) | To determine the fees to be paid— |
+|  | - (a) by a prospective applicant in respect of activities set out in regulation 25(2); |
+|  | - (a) by an applicant in respect of expenses incurred in considering, publicising and making decisions under regulations 10(1) and 18(1); |
+|  | - (a) by the owner or holder of a permission in respect of expenses incurred in interpreting and assessing monitoring results provided in accordance with a condition attached to the permission |
+| Regulation 25(3) | To determine fees with the consent of the Treasury and after consultation |
+| Regulation 26(6) | To charge a reasonable fee for providing a copy of a document entered on the register |
+| ***The Marine Works (Environmental Impact Assessment) Regulations 2007*** |  |
+| Regulation 3(1) | To charge an applicant for a licence under Part II of the Food and Environment Protection Act 1985 reasonable fees in respect of administrative and other expenses incurred as an appropriate authority under the Regulations |
+| Regulation 3(2) | To charge an applicant for regulatory approval other than a licence under Part II of the Food and Environment Protection Act 1985 reasonable fees in respect of administrative and other expenses incurred as an appropriate authority under the Regulations |
+| Regulation 15(4) | To make reasonable charges reflecting the cost of identifying, preparing and copying information |
+| Schedule 2, paragraph 2(1) | To charge a reasonable fee for the administrative expenses of providing a screening opinion; to charge a reasonable fee for carrying out examinations and tests necessary or expedient to enable the production of a screening opinion |
+| Schedule 2, paragraph 2(2) | To require a reasonable advance payment in respect of fees for a screening opinion; to require payment of the determined balance of a fee payable for producing a screening opinion |
+| Schedule 4, paragraph 3(1) | To require an applicant to pay a reasonable fee for administrative expenses incurred in producing a scoping opinion; to charge a reasonable fee for carrying out examinations and tests necessary or expedient for the production of a scoping opinion |
+| Schedule 4, paragraph 3(2) | To require a reasonable advance payment in respect of fees for a scoping opinion; to require payment of the determined balance of a fee payable for producing a scoping opinion |
+| ***The Conservation of Habitats and Species Regulations 2017[^key-5a43b9bf0e8fe86fa5a04a2671080ac8]*** |  |
+| Regulation 57(5)[^key-1db66edd519072f35f0cb78252867b1c] | To charge a reasonable sum for a licence issued under regulation 55(1) for a purpose specified in any of sub-paragraphs (e) to (g) of paragraph (2) of that regulation, regulation 55(4) or regulation 56[^key-fc5ae649cd12cc86809f8313aacefc7d] |
+| **Conservation of Offshore Marine Habitats and Species Regulations 2017[^key-c21bac7d52bc606d9d4ce3445c50cb1b]** |  |
+| Regulation 55(14) | To charge a reasonable sum for a licence issued under regulation 55 |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order, which extends to the United Kingdom, prescribes certain powers of the Secretary of State to fix fees and charges for the purposes of section 17 of the Marine and Coastal Access Act 2009. These powers are set out in the Schedule to the Order.
+
+Section 14 of the Act provides for the Secretary of State to enter into agreements with the Marine Management Organisation, authorising it to perform certain functions on behalf of the Secretary of State. Section 17(3) lists functions which cannot be the subject of such agreements. Section 17(3)(e) provides that powers to fix fees and charges are non-delegable functions unless they are prescribed by the Secretary of State.
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
+
+[^key-1c49678abc8e50d8faeee0b10c551ac5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/603/article/1) in force at 1.4.2010, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2010/603/article/1/b)
+
+[^key-d8eb21bf0823321bc96e4beb5c9e1ebb]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/603/article/2) in force at 1.4.2010, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2010/603/article/1/b)
+
+[^key-e00a409743ddfe46b7c5e8579a91dcff]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2010/603/schedule) in force at 1.4.2010, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2010/603/article/1/b)
+
+[^f00002]: Footnote: [1949 c. 74](https://www.legislation.gov.uk/ukpga/1949/74), as amended by the Merchant Shipping Act [1988 (c. 12)](https://www.legislation.gov.uk/ukpga/1988/12), section 36.
+
+[^f00003]: Footnote: [1985 c. 48](https://www.legislation.gov.uk/ukpga/1985/48), as amended by the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28).
+
+[^f00004]: Footnote: [S.I. 1985/1699](https://www.legislation.gov.uk/uksi/1985/1699), as amended by [S.I. 1994/1056](https://www.legislation.gov.uk/uksi/1994/1056), [2002/1355](https://www.legislation.gov.uk/uksi/2002/1355) and [2005/2055](https://www.legislation.gov.uk/uksi/2005/2055).
+
+[^f00005]: Footnote: [S.I. 2007/1067](https://www.legislation.gov.uk/uksi/2007/1067).
+
+[^key-5a43b9bf0e8fe86fa5a04a2671080ac8]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/603/schedule) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 17(a)(i)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/17/a/i)
+
+[^key-1db66edd519072f35f0cb78252867b1c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/603/schedule) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 17(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/17/a/ii)
+
+[^key-fc5ae649cd12cc86809f8313aacefc7d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/603/schedule) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 17(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/17/b)
+
+[^key-c21bac7d52bc606d9d4ce3445c50cb1b]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2010/603/schedule) table entry substituted (30.11.2017) by virtue of [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/5/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))

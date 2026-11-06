@@ -1,0 +1,1160 @@
+---
+title: The Construction Products Regulations 2013
+id: uksi/2013/1387
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-06-04'
+text_date: '2026-01-08'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/1387
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/1387/pdfs/uksiem_20131387_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1387/pdfs/uksi_20131387_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1387/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Construction Products Regulations 2013
+
+> Text as at 2026-01-08.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 1387
+
+Building And Buildings
+
+The Construction Products Regulations 2013
+
+Made
+
+4th June 2013
+
+Laid before Parliament
+
+7th June 2013
+
+Coming into force
+
+1st July 2013
+
+The Secretary of State is a Minister designated [^c21811931] for the purposes of section 2(2) of the European Communities Act 1972 [^c21811941] in relation to measures relating to construction products, and in the exercise of the powers conferred by that section makes the following Regulations.
+
+## PART 1 — PRELIMINARY
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Construction Products Regulations 2013 and come into force on 1st July 2013.
+
+### 1A. Application[^key-de71b78ab2fe217a780295dbfbb53ae3]
+
+These Regulations apply in England and Wales, and Scotland.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 2008 Regulation**” means Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/european/regulation/2008/0765) of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation [(EEC) No 339/93](https://www.legislation.gov.uk/european/regulation/1993/0339) [^c21811951];
+- “**the 2011 Regulation**” means Regulation (EU) No 305/2011 of the European Parliament and of the Council laying down harmonised conditions for the marketing of construction products and repealing Council Directive [89/106/EEC](https://www.legislation.gov.uk/european/directive/1989/0106) [^c21811961];
+- “[^key-d6a9c3e7dca5b33342bdaacbfbb2fa7c]**enforcement authority**” means any local weights and measures authority or the Secretary of State[^key-3cf71e3029df322f7f7a2a5c6dac966f];
+- “[^key-0757874464c6a16ea444f2af89cbcaa0]**the EU Construction Products Regulation**” means Regulation (EU) 305/2011 and Regulation (EU) 2024/3110[^key-3bbf722b204d24854c77b85b7e9bccfd];
+- “**local weights and measures authority**” means a local weights and measures authority within the meaning of section 69 of the Weights and Measures Act 1985 [^c21811971];
+- “[^key-a66c8c90038f5a2e1708793e3af86c48]**Regulation (EU) 2024/3110**” means Regulation (EU) 2024/3110 of the European Parliament and of the Council of 27 November 2024 laying down harmonised rules for the marketing of construction products and repealing Regulation (EU) No 305/2011, as it has effect in EU law;
+- “**Regulation (EU) 305/2011**” means Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC, as it has effect in EU law;
+- “**supply**” includes offering to supply, agreeing to supply, exposing for supply and possessing for supply, and related expressions shall be construed accordingly;
+- “**UK(NI) indication**” means the marking in the form set out in Schedule 1 to the Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020.
+
+(2) A reference in the 2008 Regulation, as it applies to construction products, or the 2011 Regulation to “**the market surveillance authorities**” shall have effect in relation to the United Kingdom in respect of Great Britain[^key-159b42400f58aff536bb3037fa5efa4b] as a reference [^key-b18d19b75cd723f01d75256dee8f65f4]... to an enforcement authority.
+
+(3)[^key-192cdd39aa22ffee2638a6bf94262eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Any other expression used in these Regulations and occurring in the 2011 Regulation shall have the same meaning as it has in that Regulation.
+
+### 3. Competent authority
+
+(1) The competent authority for the United Kingdom in respect of Great Britain[^key-84e46c6685d49240b21f973e91a75c11] for the purposes [^key-ca002fd007c1d1fca40cf09db7c24820]... of the 2011 Regulation is—
+
+- (a) [^key-17a055075857913f66fbab3300bde9d8]...an enforcement authority; and
+- (b) such person as the Secretary of State thinks fit to authorise from time to time to be a [^key-05d597abf5a6ec64a004957321205f1d]... competent authority, or to perform certain functions of a competent authority, in addition to or in substitution for the Secretary of State.
+
+## PART 2 — REQUIREMENTS RELATING TO CONSTRUCTION PRODUCTS
+
+### CHAPTER 1 — Offences in relation to the 2011 Regulation
+
+#### 4. Prohibition on supply etc.[^key-9c75cd396f5d94aa04872567ed7d38ed]
+
+(1) A person who supplies a construction product in respect of Great Britain that is covered by a designated standard or conforms to a UK Technical Assessment that has been issued for it shall be guilty of an offence unless—
+
+- (a) there is supplied with the product in accordance with Article 7 of the 2011 Regulation a declaration of performance for the product drawn up in accordance with Articles 4 and 6 of the 2011 Regulation; and
+- (b) the product has affixed to it the UK marking in accordance with Article 8(1) of the 2011 Regulation.
+
+(2) Paragraph (1) does not apply in the case of a product that is subject to one or more of the derogations in Article 5 of the 2011 Regulation.
+
+(3) Paragraph (1) does not apply where—
+
+- (a) Article 16A(2) of the 2011 Regulation applies;
+- (b) there is supplied with the product in accordance with Article 7 of the 2011 Regulation (as modified by Article 16A(3) of that Regulation) a declaration of performance for the product drawn up in accordance with Articles 4 and 6 of Regulation (EU) 305/2011 or a declaration of performance and conformity in accordance with Articles 13 and 15 of Regulation (EU) 2024/3110[^key-464de61f0ecf8d2ba55d81c59f4ed15f]; and
+- (c) the product has affixed to it—
+  - (i) the CE marking; or
+  - (ii) the CE marking accompanied by the UK(NI) indication,
+
+  in accordance with Article 8(2) of Regulation (EU) 305/2011 or Article 17(2) of Regulation (EU) 2024/3110[^key-fe6bc79098d9702fb65bfcec40cccfdc].
+
+(4) A person who supplies a construction product in respect of Great Britain to which the UK marking has been affixed in breach of any provision of Article 8 or 9 of the 2011 Regulation shall be guilty of an offence.
+
+(5) A person who supplies a construction product in respect of Great Britain to which—
+
+- (a) the CE marking; or
+- (b) the CE marking and accompanying UK(NI) indication,
+
+has been affixed in breach of any provision of Article 8 or 9 of Regulation (EU) 305/2011 or Articles 17 and 18 of Regulation (EU) 2024/3110[^key-6db3dc64c61352b11bd6f3e4df8663fd] shall be guilty of an offence.
+
+(6) A person guilty of an offence under this regulation shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 5 on the standard scale or to both.
+
+#### 5. Breaches of duty by economic operators
+
+(1) A person to whom paragraph (2) applies shall be guilty of an offence.
+
+(2) This paragraph applies to the following persons—
+
+- (a) a manufacturer who fails to comply with any requirement of Article 11(7) (manufacturer's duty to take necessary corrective measures etc. and in case of risk provide information to the competent authority) of the 2011 Regulation;
+- (b) an importer who fails to comply with any requirement of the second sub-paragraph of Article 13(2) (importer's duty not to place non-conforming or non-compliant product on the market etc. and in case of risk to provide information to the manufacturer and market surveillance authorities) of the 2011 Regulation;
+- (c) an importer who fails to comply with any requirement of Article 13(7) (importer's duty to take necessary corrective measures etc. and in case of risk provide information to the competent authority) of the 2011 Regulation;
+- (d) a distributor who fails to comply with any requirement of the second sub-paragraph of Article 14(2) (distributor's duty not to make non-conforming or non-compliant product available etc. and in case of risk to provide information to manufacturer or importer and market surveillance authorities) of the 2011 Regulation; and
+- (e) a distributor who fails to comply with any requirement of Article 14(4) (distributor's duty to take necessary corrective measures etc. and in case of risk provide information to the competent authority) of the 2011 Regulation.
+
+(3) For the purposes of compliance with the provisions of the 2011 Regulation mentioned in paragraph (2) a reference to the competent authority or, as the case may be, the market surveillance authorities is a reference to the local weights and measures authority[^key-af807e68568f13951d91889f20396f1f] for the area in which the person is established or the Secretary of State[^key-f336c2fa858794de71873d8a5269c06f].
+
+(4) A person guilty of an offence under this regulation shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 5 on the standard scale or to both.
+
+#### 6. Other breaches of the 2011 Regulation
+
+(1) A person who supplies a construction product in respect of which—
+
+- (a) there has been a failure to comply with any requirement in a provision of the 2011 Regulation specified in paragraph (2); and
+- (b) the instructions or information to which the requirement in question relates is not provided with the product at the time of supply,
+
+shall be guilty of an offence.
+
+(2) The provisions of the 2011 Regulation referred to in paragraph (1)(a) are—
+
+- (a) Article 11(4) (manufacturer's duty to provide product identification);
+- (b) Article 11(5) (manufacturer's duty to provide contact information etc.);
+- (c) Article 11(6) (manufacturer's duty to provide instructions and safety information);
+- (d) Article 13(3) (importer's duty to provide contact information etc.);
+- (e) Article 13(4) (importer's duty to provide instructions and safety information);
+- (f) the duties in Article 14(2) (obligations of distributors) first sub-paragraph to ensure that a product is accompanied by instructions and safety information, and that the manufacturer and importer have complied with Articles 11(4) and (5) and 13(3) respectively; and
+- (g) Article 15 (cases in which obligations of manufacturers apply to importers and distributors), insofar as it imposes duties in relation to Article 11(4) to (6).
+
+(3) A person guilty of an offence under this regulation shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### CHAPTER 2 — Suspension notices and forfeiture
+
+#### 7. Suspension notices
+
+(1) When in relation to any construction products an enforcement authority—
+
+- (a) has reasonable grounds for suspecting that any offence under regulation 4, 5 or 6 has been committed; or
+- (b) considers that there are grounds for the service of a notice under this regulation in accordance with Schedule 1 (grounds for service of notices in relation to the 2008 Regulation and the 2011 Regulation),
+
+the authority may serve a notice (“a suspension notice”) prohibiting the person on whom it is served, for such period ending not more than six months after the date of the notice as is specified in the notice, from supplying the products without the consent of the authority.
+
+(2) A suspension notice may also require that person to keep the authority informed of the whereabouts throughout that period of any of the products concerned.
+
+(3) A suspension notice may include a requirement that any construction products to which it relates that have been made available on the market be recalled.
+
+(4) Where a suspension notice has been served on any person in respect of any construction products, no further such notice may be served on that person in respect of the same products unless—
+
+- (a) proceedings against that person for an offence in relation to the products under a provision of this Part (not being an offence under this regulation);
+- (b)[^key-fe4ef349f7f78495caae562f626c17b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) proceedings for the forfeiture of the products under regulation 8 or 9,
+
+are pending at the end of the period specified in the first-mentioned notice.
+
+(5) A consent given by an enforcement authority for the purposes of paragraph (1) may impose such conditions on the doing of anything for which the consent is required as the authority considers appropriate.
+
+(6) Schedule 2 shall have effect with respect to suspension notices and appeals against suspension notices.
+
+(7) Any person who contravenes a suspension notice shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 5 on the standard scale or to both.
+
+#### 8. Forfeiture: England and Wales ...[^key-1ea633e0bdbd00a5b846cdc7d624c623]
+
+(1) An enforcement authority in England and Wales [^key-933fc786677cb4074388c5dee5a2e2fb]... may apply under this regulation for an order for the forfeiture of any construction products on any of the grounds on which the enforcement authority may serve a suspension notice under regulation 7(1) in relation to the products.
+
+(2) An application under this regulation may be made—
+
+- (a) where proceedings have been brought in a magistrates' court for an offence in relation to some or any of the products under any provision of this Part, to that court;
+- (b) where an application with respect to some or all of the products has been made to a magistrates' court under Part 2 of Schedule 2 (appeals against suspension notices) or under regulation 19 (appeals against detention of products), to that court; and
+- (c) in any other case by way of complaint to a magistrates' court.
+
+(3) On an application under this regulation the court may make an order for the forfeiture of any products only if it is satisfied that one or more of the grounds described in paragraph (1) is made out in relation to the products.
+
+(4) A court may infer for the purposes of this regulation that one or more of the grounds described in paragraph (1) is made out in relation to any products if it is satisfied that one or more of the those grounds is made out in relation to products which are representative of those products (whether by reason of being of the same design or part of the same consignment or batch or otherwise).
+
+(5) Any person aggrieved by an order made under this regulation by a magistrates' court in England and Wales [^key-6f7d7c42364c1bfa6d3ca72a92a9ffc0]..., or by a decision of such a court not to make such an order, may appeal against that order or decision—
+
+- (a) in England and Wales, to the Crown Court;
+- (b)[^key-0c1ecf4636db31054460e60758d1792e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+and an order so made may contain such provision as appears to the court to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal (including any application under section 111 of the Magistrates' Courts Act 1980 [^c21811981] (statement of case) [^key-76aa7659379d154e1df701e6c351329e]...).
+
+(6) Subject to paragraph (7), where any products are forfeited under this regulation they shall be destroyed in accordance with such directions as the court may give.
+
+(7) On making an order under this regulation a magistrates' court may, if it considers it appropriate to do so, direct that the products to which the order relates shall (instead of being destroyed) be released to such person as the court may specify on condition that the person—
+
+- (a) does not supply those products to any person otherwise than—
+  - (i) to a person who carries on a business of buying products of the same description as those products and repairing or reconditioning them, or
+  - (ii) as scrap (that is to say, for the value of materials included in the products rather than for the value of the products themselves); and
+- (b) complies with any order to pay costs or expenses (including any order under regulation 21) which has been made against that person in the proceedings for the order for forfeiture.
+
+#### 9. Forfeiture: Scotland
+
+(1) In Scotland a sheriff may make an order for forfeiture of any construction products on any of the grounds on which an enforcement authority may serve a suspension notice under regulation 7(1) in relation to the products.
+
+(2) An order under this regulation may be made—
+
+- (a) on an application by the procurator fiscal made in the manner specified in section 134 (incidental applications) of the Criminal Procedure (Scotland) Act 1995 [^c21812001]; or
+- (b) where a person is convicted of an offence under regulation 4, 5 or 6, in addition to any other penalty which the sheriff may impose.
+
+(3) The procurator fiscal making an application under paragraph (2)(a) must serve on any person appearing to the procurator fiscal to be the owner of, or otherwise to have an interest in, the products to which the application relates a copy of the application, together with a notice giving that person the opportunity to appear at the hearing of the application to show cause why the products should not be forfeited.
+
+(4) Service under paragraph (3) must be carried out, and such service may be proved, in the manner specified for citation of an accused in summary proceedings under the Criminal Procedure (Scotland) Act 1995.
+
+(5) Any person upon whom notice is served under paragraph (3) and any other person claiming to be the owner of, or otherwise to have an interest in, products to which an application under this regulation relates shall be entitled to appear at the hearing of the application to show cause why the products should not be forfeited.
+
+(6) The sheriff may not make an order following an application under paragraph (2)(a)—
+
+- (a) if any person on whom notice is served under paragraph (3) does not appear, unless service of the notice on that person is proved; or
+- (b) if no notice under paragraph (3) has been served, unless the sheriff is satisfied that in the circumstances it was reasonable not to serve notice on any person.
+
+(7) The sheriff may make an order under this regulation only if the sheriff is satisfied that one or more of the grounds described in paragraph (1) is made out in relation to the products
+
+(8) The sheriff may infer for the purposes of this regulation that one or more of the grounds described in paragraph (1) is made out in relation to any products if the sheriff is satisfied that one or more of the those grounds is made out in relation to any products which are representative of those products (whether by reason of being of the same design or part of the same consignment or batch or otherwise).
+
+(9) Where an order for the forfeiture of any products is made following an application by the procurator fiscal under paragraph (2)(a), any person who appeared, or was entitled to appear, to show cause why products should not be forfeited may, within twenty-one days of the making of the order, appeal to the High Court by bill of suspension on the ground of an alleged miscarriage of justice, and section 182 (stated case: hearing of appeal) of the Criminal Procedure (Scotland) Act 1995 shall apply to an appeal under this paragraph as it applies to a stated case under Part 10 of that Act.
+
+(10) An order following an application under paragraph (2)(a) shall not take effect—
+
+- (a) until the end of the period of twenty-one days beginning with the day after the day on which the order is made; or
+- (b) if an appeal is made under paragraph (9) within that period, until the appeal is determined or abandoned.
+
+(11) An order under paragraph (2)(b) shall not take effect—
+
+- (a) until the end of the period within which an appeal against the order could be brought under the Criminal Procedure (Scotland) Act 1995; or
+- (b) if an appeal is made within that period, until the appeal is determined or abandoned.
+
+(12) Subject to paragraph (13), products forfeited under this regulation shall be destroyed in accordance with such directions as the sheriff may give.
+
+(13) If the sheriff thinks fit, the sheriff may direct that the products be released to such person as the sheriff may specify on condition that the person does not supply those products to any other person otherwise than—
+
+- (a) to a person who carries on a business of buying products of the same description as those products and repairing or reconditioning them; or
+- (b) as scrap (that is to say, for the value of materials included in the products rather than for the value of the products themselves).
+
+#### 10. Duty of enforcement authority to give notice of suspension notices and forfeiture applications etc.
+
+An enforcement authority (except where the Secretary of State is the enforcement authority)[^key-df779b82940914ffc8f25c4ecffc516d] must give immediate notice to the Secretary of State of any—
+
+- (a) suspension notice served by it in respect of any construction products;
+- (b) application made by it for an order for forfeiture of any such products; or
+- (c) other thing done in respect of any such products for the purposes of or in connection with regulations 7 to 9.
+
+### CHAPTER 3 — Prohibition notices and notices to warn
+
+#### 11. Prohibition notices
+
+(1) The Secretary of State may serve on any person a notice (“a prohibition notice”) prohibiting that person, except with the consent of the Secretary of State, from supplying any construction products which are described in the notice and in relation to which the Secretary of State —
+
+- (a) has reasonable grounds for suspecting that an offence under regulation 4 or 5 has been committed; or
+- (b) considers that there are grounds for the service of a prohibition notice in accordance with Schedule 1 (grounds for service of notices in relation to the 2008 Regulation and the 2011 Regulation).
+
+(2) A prohibition notice may include a requirement that any construction products to which it relates that have been made available on the market be recalled.
+
+(3) A consent given by the Secretary of State for the purposes of a prohibition notice may impose such conditions on the doing of anything for which the consent is required as the Secretary of State considers appropriate.
+
+(4) Schedule 3 shall have effect with respect to prohibition notices.
+
+(5) A person who contravenes a prohibition notice shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 5 on the standard scale or to both.
+
+#### 12. Notices to warn
+
+(1) The Secretary of State may serve on any person a notice (“a notice to warn”) requiring that person, at that person's own expense, to publish, in a form and manner and on occasions specified in the notice, a warning about any construction products which that person supplies or has supplied which are described in the notice and in respect of which the Secretary of State —
+
+- (a) has reasonable grounds for suspecting that any offence under regulation 4 or 5 has been committed; or
+- (b) considers that there are grounds for the service of a notice to warn in accordance with Schedule 1 (grounds for service of notices in relation to the 2008 Regulation and the 2011 Regulation).
+
+(2) Schedule 4 shall have effect with respect to notices to warn.
+
+(3) A person who contravenes a notice to warn shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 5 on the standard scale or to both.
+
+#### 13. Power to obtain information
+
+(1) If the Secretary of State considers that, for the purpose of deciding whether—
+
+- (a) to serve, vary or revoke a prohibition notice; or
+- (b) to serve or revoke a notice to warn,
+
+information is required which another person is likely to be able to provide, the Secretary of State may serve on the other person a notice under this regulation.
+
+(2) A notice served on any person under this regulation may require that person—
+
+- (a) to provide to the Secretary of State such information as is specified in the notice, within a period so specified;
+- (b) to produce such records as are specified in the notice at a time and place so specified and to permit a person appointed by the Secretary of State for the purpose to take copies of the records at that time and place.
+
+(3) A person shall be guilty of an offence if the person—
+
+- (a) fails, without reasonable cause, to comply with a notice served on that person under this regulation; or
+- (b) in purporting to comply with a requirement which by virtue of paragraph (2)(a) is contained in such a notice—
+  - (i) provides information which the person knows is false in a material particular, or
+  - (ii) recklessly provides information which is false in a material particular.
+
+(4) A person guilty of an offence under paragraph (3) shall—
+
+- (a) in the case of an offence under sub-paragraph (a) of that paragraph, be liable on summary conviction to a fine not exceeding level 5 on the standard scale;
+- (b) in the case of an offence under sub-paragraph (b) of that paragraph be liable—
+  - (i) on conviction on indictment, to a fine,
+  - (ii) on summary conviction, to a fine not exceeding level 5 on the standard scale.
+
+## PART 3 — Enforcement of Part 2 and market surveillance
+
+### 14. Enforcement
+
+(1) Subject to paragraph (1A),[^key-2c35ff0f110d801bb0203d38c6b0c048]  it shall be the duty of an enforcement authority in its area to—
+
+- (a) enforce the provisions of Part 2; and
+- (b) carry out market surveillance duties under the 2008 Regulation, as it applies to construction products, and under the 2011 Regulation.
+
+(1A)[^key-064c9f1e2f81728f02a75132df110d43] If the Secretary of State is acting in their capacity as an enforcement authority the Secretary of State may—
+
+- (a) enforce the provisions of Part 2; and
+- (b) carry out market surveillance duties under the 2008 Regulation, as it applies to construction products, and under the 2011 Regulation.
+
+(2) A local weights and measures authority in England and Wales shall be competent to investigate and prosecute in respect of any offence under Part 2 that was committed outside its area in any part of England and Wales.
+
+(3)[^key-733d0c32f81a8fe14e308be594d48662] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Nothing in this regulation shall authorise an enforcement authority to bring proceedings in Scotland for an offence.
+
+### 15. Test purchases
+
+(1) An enforcement authority may make a purchase of any construction products for the purpose of ascertaining whether there has been any failure to comply with any requirement of the 2011 Regulation, or any offence has been committed under Part 2, in relation to any construction products.
+
+(2) Where—
+
+- (a) any construction products purchased under this regulation by or on behalf of an enforcement authority are submitted to test; and
+- (b) the test leads to—
+  - (i) the bringing of proceedings for an offence in relation to the products under any provision of Part 2 or for the forfeiture of the products under regulation 8 or 9, or
+  - (ii) the serving of a suspension notice in respect of any products; and
+- (c) the authority is requested to do so and it is practicable for the authority to comply with the request,
+
+the authority shall allow the person from whom the products were purchased or any person who is a party to the proceedings or has an interest in any products to which the notice relates to have the products tested.
+
+### 16. Powers of search etc.
+
+(1) Subject to the following provisions of this Part, a duly authorised officer of an enforcement authority may—
+
+- (a) at any reasonable hour;
+- (b) on production, if required, of the officer's credentials; and
+- (c) having given reasonable notice to the occupier, unless giving such notice would defeat the object of entry,
+
+exercise any of the powers conferred by this regulation.
+
+(2) The officer may, for the purpose of ascertaining whether there has been any failure to comply with any requirement of the 2011 Regulation, or any offence has been committed under Part 2, inspect any construction products and enter any premises other than a dwelling.
+
+(3) The officer may, for the purpose of ascertaining whether there has been any failure to comply with any requirement of the 2011 Regulation, or any offence has been committed under Part 2, examine any procedure (including any arrangements for carrying out a test) connected with the production of any construction products.
+
+(4) If the officer has reasonable grounds for suspecting that there has been any failure to comply with any requirement of the 2011 Regulation, or that any offence has been committed under Part 2, the officer may—
+
+- (a) for the purpose of ascertaining whether there has been any such failure or offence, require any person carrying on a business, or employed in connection with a business, to produce any records relating to the business;
+- (b) for the purpose of ascertaining (by testing or otherwise) whether has been any such failure or offence, seize and detain the products; and
+- (c) take copies of, or of an entry in, any records produced by virtue of sub-paragraph (a).
+
+(5) The officer may seize and detain—
+
+- (a) any construction products or records which the officer has reasonable grounds for believing may be required as evidence in proceedings for an offence under any provision of Part 2; and
+- (b) any construction products which the officer has reasonable grounds for suspecting may be liable to be forfeited under regulation 8 or 9.
+
+(6) If and to the extent that it is reasonably necessary to do so to prevent any failure to comply with any requirement of the 2011 Regulation, or the commission of any offence under Part 2, the officer may, for the purpose of exercising the power under paragraph (4) or (5) to seize any construction products or records—
+
+- (a) require any person having authority to do so to open any container; and
+- (b) open or break open any such container where a requirement made under sub-paragraph (a) has not been complied with.
+
+(7) The records referred to in this regulation include any that are stored electronically, and the officer may require such records to be made available in printed form.
+
+(8) In this regulation “**dwelling**” means any building or shelter wholly or mainly used as a place of residence or abode (including any garden, yard, garage, outhouse or other appurtenance of such premises which is not used in common by the occupants of more than one such dwelling).
+
+### 17. Provisions supplemental to regulation 16
+
+(1) An officer seizing any construction products or records under regulation 16 must give a written notice stating what products or records have been so seized to the following persons—
+
+- (a) the person from whom they are seized; and
+- (b) in the case of imported products seized while under the control of the Commissioners for Her Majesty's Revenue and Customs, the importer of those products (within the meaning of the Customs and Excise Management Act 1979 [^c21812011]).
+
+(2) If a justice of the peace—
+
+- (a) is satisfied by written information on oath that there are reasonable grounds for believing either—
+  - (i) that any construction products or records which any officer has power to inspect or to require to be produced under regulation 16 are on any premises and that inspection of those products or records is likely to disclose evidence that there has been any failure to comply with any requirement of the 2011 Regulation, or that any offence has been committed under Part 2, or
+  - (ii) that such a failure or offence has taken place, is taking place or is about to take place on any premises; and
+- (b) is also satisfied by any such information either—
+  - (i) that admission to the premises has been or is likely to be refused and that notice of intention to apply for a warrant under this paragraph has been given to the occupier, or
+  - (ii) that an application for admission, or the giving of such a notice, would defeat the object of the entry, or that the premises are unoccupied, or that the occupier is temporarily absent and it might defeat the object of entry to await the return of the occupier,
+
+the justice may by warrant under the justice's hand, which shall continue in force for a period of one month, authorise any officer of an enforcement authority to enter the premises, if need be by force.
+
+(3) An officer entering any premises by virtue of regulation 16 or a warrant under paragraph (2) may be accompanied by such other persons and bring such equipment as may appear necessary to the officer.
+
+(4) On leaving any premises which a person is authorised to enter by a warrant under paragraph (2), that person must, if the premises are unoccupied or the occupier is temporarily absent, leave the premises as effectively secured against unauthorised entry as that person found them.
+
+(5) Where any construction products seized by an officer under regulation 16 are submitted to a test, the officer must inform the persons mentioned in paragraph (1) of the result of the test and, if—
+
+- (a) proceedings are brought for an offence in relation to the products under any provision of Part 2 or for the forfeiture of the products under regulation 8 or 9, or a suspension notice is served in respect of the products; and
+- (b) the officer is requested to do so and it is practicable to comply with the request,
+
+the officer must allow any person who is a party to the proceedings or, as the case may be, has an interest in the products to which the notice relates to have the products tested.
+
+(6) In the application of this regulation to Scotland, the reference in paragraph (2) to a justice of the peace shall include a reference to a sheriff and the references to written information on oath shall be construed as references to evidence on oath.
+
+(7)[^key-bad5ab17757594a39ac9bafd07367c19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) If any person who is not an officer of an enforcement authority purports to act as such under regulation 16 or this regulation, that person shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### 18. Obstruction of authorised officer
+
+(1) A person shall be guilty of an offence if the person—
+
+- (a) intentionally obstructs any officer of an enforcement authority who is acting in pursuance of any provision of these Regulations; or
+- (b) intentionally fails to comply with any requirement made of that person by any officer of an enforcement authority under any provision of these Regulations; or
+- (c) without reasonable cause fails to give any officer of an enforcement authority any other assistance or information which the officer may reasonably require of that person for the purposes of the exercise of the officer's functions in relation to any provision of these Regulations.
+
+(2) A person shall be guilty of an offence if in giving any information which any officer of an enforcement authority may reasonably require of that person for the purposes of the exercise of the officer's functions in relation to any provision of these Regulations —
+
+- (a) the person makes any statement which the person knows is false in a material particular; or
+- (b) the person recklessly makes a statement which is false in a material particular.
+
+(3) A person guilty of an offence under paragraph (1) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale
+
+(4) A person guilty of an offence under paragraph (2) shall be liable—
+
+- (a) on conviction on indictment, to a fine;
+- (b) on summary conviction, to a fine not exceeding level 5 on the standard scale.
+
+### 19. Appeals against detention of products
+
+(1) Any person having an interest in any construction products which are for the time being detained under any provision of this Part by an enforcement authority or by an officer of such an authority may apply for an order requiring the products to be released to that person or to another person.
+
+(2) An application under this regulation may be made—
+
+- (a) to any magistrates' court in which proceedings have been brought in England and Wales [^key-1979ec91b55fc6aad326416682049a07]...—
+  - (i) for an offence in relation to the products under any provision of Part 2, or
+  - (ii) for the forfeiture of the products under regulation 8;
+- (b) where no such proceedings have been so brought, by way of complaint to a magistrates' court; or
+- (c) in Scotland, by summary application to the sheriff.
+
+(3) On an application under this regulation to a magistrates' court or to the sheriff, an order requiring products to be released may be made only if the court or sheriff is satisfied—
+
+- (a) that proceedings—
+  - (i) for an offence in relation to the products under any provision of Part 2, or
+  - (ii) for the forfeiture of the products under regulation 8 or 9,
+
+  have not been brought or, having been brought, have been concluded without the products being forfeited;
+- (b)[^key-e7bc6bc6e02531af4f150e56c2520287] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) where no proceedings under sub-paragraph (a) have been brought, that more than six months have elapsed since the products were seized.
+
+(4) Any person aggrieved by an order made under this regulation by a magistrates' court in England and Wales [^key-ddd052d1fcb0ca649d9ebb0291906748]..., or by a decision of such a court not to make such an order, may appeal against that order or decision—
+
+- (a) in England and Wales, to the Crown Court;
+- (b)[^key-f76c29ce19fd3e7161386769de6c8612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+and an order so made may contain such provision as appears to the court to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal (including any application under section 111 of the Magistrates' Courts Act 1980 [^c21812021] (statement of case)[^key-d837cea5d7c09e781028f7ca07d90ca6]...).
+
+(5) In Scotland, any person aggrieved by an order made under this regulation by the sheriff, or by a decision of the sheriff not to make such an order, may appeal against that order or decision on a point of law to the sheriff principal and, notwithstanding the generality of powers available to the sheriff at common law, any order so made by the sheriff may contain such provision as appears to the sheriff to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal.
+
+### 20. Compensation for seizure and detention
+
+(1) Where an officer of an enforcement authority exercises any power under regulation 16 to seize and detain construction products, the enforcement authority shall be liable to pay compensation to any person having an interest in the products in respect of any loss or damage caused by reason of the exercise of the power if—
+
+- (a) no offence under regulations 4, 5 or 6 has been committed in relation the product;
+- (b) no suspension notice, prohibition notice, or notice to warn has had effect in relation to the product; and
+- (c) the exercise of the power is not attributable to any neglect or default by that person.
+
+(2) Any disputed question as to the right to or the amount of any compensation payable under this regulation shall be determined by arbitration or, in Scotland, by a single arbiter appointed, failing agreement between the parties, by the sheriff.
+
+### 21. Recovery of expenses of enforcement
+
+(1) This regulation shall apply where a court—
+
+- (a) convicts a person of an offence in relation to any construction products under any provision of Part 2; or
+- (b) makes an order under regulation 8 or 9 for the forfeiture of any construction products.
+
+(2) The court may (in addition to any other order it may make as to costs or expenses) order the person convicted or, as the case may be, any person having an interest in the products to reimburse an enforcement authority for any expenditure which has been or may be incurred by that authority—
+
+- (a) in connection with any seizure or detention of the products by or on behalf of the authority; or
+- (b) in connection with any compliance by the authority with directions given by the court for the purposes of any order for the forfeiture of the products.
+
+## PART 4 — Miscellaneous and supplemental
+
+### 22. Restrictions on the disclosure of information
+
+(1) A person shall be guilty of an offence if that person discloses any information to which paragraph (2) applies, except in a case where paragraph (3) applies.
+
+(2) This paragraph applies to information—
+
+- (a) which was obtained by that person in consequence of its being given to any person in compliance with any requirement imposed by these Regulations;
+- (b) which consists in a secret manufacturing process or a trade secret and was obtained by that person in consequence of the inclusion of the information—
+  - (i) in written or oral representations made for the purposes of Schedule 3 or 4, or
+  - (ii) in a statement of a witness in connection with any such oral representations;
+- (c) which was obtained by that person in consequence of the exercise by the Secretary of State of the power conferred by regulation 13;
+- (d) which was obtained by that person in consequence of the exercise by any person of any power conferred by Part 3; or
+- (e) which relates to any construction product and was disclosed to or through that person by virtue of Article 27(2) of the 2008 Regulation, other than information to which regulation 3 (offence of disclosure of restricted information by specified persons) of the Customs Disclosure of Information and Miscellaneous Amendments Regulations 2012 [^c21812041] applies.
+
+(3) This paragraph applies where—
+
+- (a) the disclosure is of information which—
+  - (i) has been disclosed in any civil or criminal proceedings, or
+  - (ii) is or has been required to be contained in a warning published in pursuance of a notice to warn; or
+- (b) the disclosure is made—
+  - (i) for the purpose of facilitating the exercise of a relevant person's functions under these Regulations,
+  - (ii) for the purpose of facilitating the exercise of a relevant person's enforcement or regulatory functions under any enactment (whether passed or made before or after the making of these Regulations),
+  - (iii) for the purposes of compliance with an assimilated[^key-26af9ded171457da1a5900dd4d264112] obligation, or
+  - (iv) in connection with the investigation of any criminal offence or for the purposes of any civil or criminal proceedings.
+
+(4) In paragraph (3)(b)(ii) the reference to a person's functions shall include a reference to any function of making, amending or revoking any regulations or order.
+
+(5) A person guilty of an offence under this regulation shall be liable—
+
+- (a) on summary conviction, to a fine not exceeding level 5 on the standard scale;
+- (b) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both.
+
+(6) In this regulation—
+
+- “**relevant person**” means any of the following, that is to say—
+  - (a) a Minister of the Crown, Government department [^key-da3ed31affee90080d26173650c0d695]...;
+  - (b) any local weights and measures authority [^key-da3ed31affee90080d26173650c0d695]...;
+  - (c) any other person on whom enforcement or regulatory functions are conferred by or under any enactment; and
+- “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
+
+### 23. Defence of due diligence
+
+(1) Subject to the following provisions of this regulation, in proceedings against a person for an offence to which this regulation applies it shall be a defence for that person to show that the person took all reasonable steps and exercised all due diligence to avoid committing the offence.
+
+(2) Where in any proceedings against any person for such an offence the defence provided by paragraph (1) involves an allegation that the commission of the offence was due—
+
+- (a) to the act or default of another; or
+- (b) to reliance on information given by another,
+
+that person shall not, without leave of the court, be entitled to rely on the defence unless, not less than seven clear days before the hearing of the proceedings, the person has served a notice under paragraph (3) on the person bringing the proceedings.
+
+(3) A notice under this paragraph must give such information identifying or assisting in the identification of the person who committed the act or default or gave the information as is in the possession of the person serving the notice at the time when that person serves it.
+
+(4) A person shall not be entitled to rely on the defence provided by paragraph (1) by reason of reliance on information supplied by another, unless the person shows that it was reasonable in all the circumstances to have relied on the information, having regard in particular to—
+
+- (a) the steps which the person took, and those which might reasonably have been taken, for the purpose of verifying the information; and
+- (b) whether the person had any reason to disbelieve the information.
+
+(5) This regulation applies to an offence under regulation 4(1) or (3), 5(1), 6(1), 7(7), 11(5) or 12(3).
+
+### 24. Liability of persons other than principal offender
+
+(1) Where the commission by any person of an offence to which regulation 23 applies is due to an act or default committed by some other person in the course of any business of that other person, that person shall be guilty of the offence and may be proceeded against and punished by virtue of this paragraph whether or not proceedings are taken against the first-mentioned person.
+
+(2) Where a body corporate is guilty of an offence under these Regulations (including where it is so guilty by virtue of paragraph (1)) in respect of any act or default which is shown to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, or any partner in a limited liability partnership, that person, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(3) Where the affairs of a body corporate are managed by its members, paragraph (2) shall apply in relation to the acts and defaults of a member in connection with that member's functions of management as if that member were a director of the body corporate.
+
+(4) In Scotland, where a partnership is guilty of an offence under these Regulations (including where it is so guilty by virtue of paragraph (1)) in respect of any act or default which is shown to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner in the partnership, that partner, as well as the partnership, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+### 25. Service of documents etc.
+
+(1) Any document required or authorised by virtue of these Regulations to be served on a person may be so served—
+
+- (a) by—
+  - (i) delivering it to that person, or by leaving it at that person's usual or last known address or by sending it by post to that address, or
+  - (ii) sending it by electronic mail to that person's electronic mail address; or
+- (b) in the case of a body corporate, on the secretary or clerk of that body, by—
+  - (i) delivering it to the secretary or clerk, or by leaving it at the address of the registered or principal office of the body corporate or by sending it by post to that address, or
+  - (ii) sending it by electronic mail to his or her electronic mail address; or
+- (c) in the case of a partnership, including a Scottish partnership, on a partner or on a person having control or management of the partnership business, by—
+  - (i) delivering it to the partner or the person having control or management of the partnership business, or by leaving it at the address of the principal office of the partnership or by sending it by post to that address, or
+  - (ii) sending it by electronic mail to his or her electronic mail address.
+
+(2) For the purposes of this paragraph the principal office of a company registered outside the United Kingdom or of a partnership carrying on business outside the United Kingdom is its principal office within the United Kingdom.
+
+### 26. Commencement of proceedings
+
+(1) This regulation applies in respect of any offence under regulation 4(1) or (3).
+
+(2) In England and Wales a magistrates' court may try an information for such an offence if the information is laid within twelve months from the time when the offence is committed.
+
+(3)[^key-eaf9c2f072d380037ab166ecda49b892] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In Scotland summary proceedings for such an offence may be begun at any time within twelve months from the time when the offence is committed.
+
+### 27. Review
+
+(1) Before the end of each review period the Secretary of State must—
+
+- (a) carry out a review of Parts 2 and 3;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how provision for the operation of the 2008 Regulation, as it applies to construction products, and the 2011 Regulation is made in other Member States of the European Union.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by those Parts;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) In this regulation, “**review period**” means—
+
+- (a) the period of five years beginning with the day on which these Regulations come into force; and
+- (b) subject to paragraph (5), each successive period of five years.
+
+(5) If a report under this regulation is published before the last day of the review period to which it relates, the next review period will begin with the day on which that report is published.
+
+### 28. Revocations and amendments
+
+(1) The Construction Products Regulations 1991 [^c21812051] and the Construction Products (Amendment) Regulations 1994 [^c21812061] are revoked.
+
+(2) Schedule 5 (amendments to statutory instruments) has effect.
+
+### 29. Transitional provisions
+
+(1) Chapters 2 and 3 of Part 2 shall have effect, with the modifications in paragraph (2), in relation to anything done before the coming into force of these Regulations pursuant to Part 2 of the Construction Products Regulations 1991 (“**the 1991 Regulations**”), as if that thing had been done pursuant to Part 2 of these Regulations.
+
+(2) The modifications referred to in paragraph (1) are that—
+
+- (a) any reference to the grounds for serving a suspension notice, a prohibition notice or a notice to warn, or for forfeiture, shall have effect as a reference to the grounds on which, or the circumstances in which, a similar notice could be served, or forfeiture order made, under the 1991 Regulations; and
+- (b) any reference to an offence under regulation 4, 5 or 6, other than such a reference in a provision to which sub-paragraph (a) applies, shall have effect as a reference to an offence under regulations 5, 6, 7 or 8 of the 1991 Regulations.
+
+(3) Regulation 21 (recovery of expenses of enforcement) shall have effect in relation to any proceedings to which paragraph (1) applies.
+
+(4) Such other provisions of these Regulations as are necessary to the operation of paragraph (1) shall have effect for that purpose.
+
+(5) Regulations 21 (appeals against detention of products) and 22 (compensation for seizure and detention) of the 1991 Regulations shall continue to have effect in relation to any construction products seized or detained under regulation 17 (powers of search etc.) of those Regulations.
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Don Foster
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+## SCHEDULE 1 — Grounds for service of notices in relation to the 2008 Regulation and the 2011 Regulation
+
+Regulations 7(1)(b), 11(1)(b)and 12(1)(b)
+
+**1.** There are grounds for the service of a suspension notice under regulation 7(1)(b), a prohibition notice under regulation 11(1)(b) or a notice to warn under regulation 12(1)(b), as the case may be, where one or more of the following paragraphs of this Schedule applies in relation to the construction products concerned.
+
+**2.** This paragraph applies where the service of such a notice is appropriate because there has been a failure to comply with any requirement under any of the following provisions of the 2011 Regulation—
+
+- (a) Article 11(2) (duty of manufacturer of construction product to keep technical documentation and declaration of performance for 10 years, or such period as amended, after the product is placed on the market);
+- (b) Article 11(8) (duty of manufacturer of construction product to provide information and documentation to demonstrate conformity with declaration of performance and compliance with other applicable requirements of the 2011 Regulation of the product to the competent [^key-bb9201daf351e39945d7066811a32c65]... authority, and to cooperate with that authority on action to eliminate risks posed by the product);
+- (c) Article 12(2) (duty of manufacturer's authorised representative to keep technical documentation and declaration of performance available for the period referred to in Article 11(2), to provide information and documentation to demonstrate conformity with declaration of performance and compliance with other applicable requirements of the 2011 Regulation of the product to the competent [^key-ef9cbd630784ab4a0cf1bffd972dd326]... authority, and to cooperate with that authority on action to eliminate risks posed by the product);
+- (d) Article 13(8) (duty of importer of construction product to keep technical documentation and declaration of performance available for the period referred to in Article 11(2));
+- (e) Article 13(9) (duty of importer of construction product to provide information and documentation to demonstrate conformity with declaration of performance and compliance with other applicable requirements of the 2011 Regulation of the product to the competent [^key-d7951ef85f299b559669d00b8af01ecc]... authority, and to cooperate with that authority on action to eliminate risks posed by the product);
+- (f) Article 14(5) (duty of distributor who of construction product to provide information and documentation to demonstrate conformity with declaration of performance and compliance with other applicable requirements of the 2011 Regulation of the product to the competent [^key-0189802363f23ff442ef9686150a37b2]... authority, and to cooperate with that authority on action to eliminate risks posed by the product); or
+- (g) insofar as it imposes duties in relation to Article 11(2) and (8), Article 15 (duties of importer and distributor to comply with Article 11 as if a manufacturer where the importer or distributor places a construction product on the market under its own name or trademark, or modifies a product already on the market in such a way that conformity with the declaration of performance may be affected).
+
+**3.** This paragraph applies where Article 20 (products presenting a serious risk) of the 2008 Regulation is applicable to the products.
+
+**4.** This paragraph applies where Article 29(1) [^key-0b9ac01277bb123d3e074f362b8203a7]... of the 2008 Regulation is applicable to the products.
+
+**5.** This paragraph applies where the service of such a notice is appropriate in accordance with Article 29(2) [^key-1e607b8857c34eb6b0e234c9f3059d9a]... of the 2008 Regulation.
+
+**6.** This paragraph applies where the service of such a notice is appropriate in accordance with—
+
+- (a) the second sub-paragraph of Article 56(1) [^key-71269e11ca55f133ecc278f193012d1d]... of the 2011 Regulation;
+- (b) Article 56(4) [^key-a02fcc5263e608b9dfc35fd18aa9686b]... of the 2011 Regulation; [^key-a02fcc5263e608b9dfc35fd18aa9686b]...
+- (c) Article 58(1) (complying construction products which nevertheless present a risk to health and safety) of the 2011 Regulation ; or[^key-cdc8ac076b4df4782709d359c1b1991c]
+- (d)[^key-6978c86ab97bdbcbdbf008b4beb063b2] Article 59B(2) (other non-compliance in relation to the EU Construction Products Regulation) of the 2011 Regulation.
+
+**7.**[^key-a4e457789f0a86bb34c59419435cae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.** This paragraph applies where the service of such a notice is appropriate in accordance with Article 59(2) (formal non-compliance) or 59A(2) (formal non-compliance in relation to the EU Construction Products Regulation)[^key-25607d464084589d9dd2e1fed2de4e59] of the 2011 Regulation, without prejudice to paragraph 2.
+
+## SCHEDULE 2
+
+Regulation 7(6)
+
+### PART 1 — Suspension notices
+
+**1.** A suspension notice served by an enforcement authority in respect of any construction products must—
+
+- (a) describe the products in a manner sufficient to identify them;
+- (b) set out the reasons why the authority considers the grounds described in regulation 7(1) to be made out;
+- (c) specify any requirement under regulation 7(2) to keep the authority informed of the whereabouts of any of the products;
+- (d) where the construction products are to be recalled, state the terms of the recall;
+- (e) specify the day on which the notice is to come into force, and the duration of the notice; and
+- (f) state that, and set out the manner in which, the person on whom the notice is served may appeal against the notice under Part 2 of this Schedule.
+
+**2.** A notice that is based on the ground in paragraph 6(a) of Schedule 1 must, in order to allow the enforcement authority to comply with Article 21 of the 2008 Regulation, state that it shall not have effect until the end of the period of ten days beginning on the day after it is served, but this requirement does not apply if the circumstances leading to the issue of the notice are such that paragraph (3) of that Article permits a measure to be taken without a period of consultation.
+
+**3.** Where an enforcement authority serves a suspension notice in respect of any construction products, the authority shall be liable to pay compensation to any person having an interest in the products in respect of any loss or damage caused by reason of the service of the notice if—
+
+- (a) no offence under regulation 4, 5 or 6 has been committed in relation to the products;
+- (b)[^key-c507e3a0b8bf3b096c10d1f9ee02fc0b] none of the grounds for service of a suspension notice in Schedule 1 has been made out in relation to the products; and
+- (c) the exercise of the power is not attributable to any neglect or default by that person.
+
+**4.** Any disputed question as to the right to, or the amount of, any compensation payable under paragraph 3 shall be determined by arbitration or, in Scotland, by a single arbiter appointed, failing agreement between the parties, by the sheriff.
+
+### PART 2 — Appeals against suspension notices
+
+**5.** Any person having an interest in any construction products in respect of which a suspension notice is for the time being in force may apply for an order setting aside the notice.
+
+**6.** An application under this Part of this Schedule may be made—
+
+- (a) to any magistrates' court in which proceedings have been brought in England and Wales [^key-452e6897cb4921a7ce3a2cea8586beb9]...—
+  - (i) for an offence in relation to the products under any provision of Part 2 of these Regulations, or
+  - (ii) for the forfeiture of the products under regulation 8;
+- (b) where no such proceedings have been brought, by way of complaint to a magistrates' court; or
+- (c) in Scotland, by summary application to the sheriff.
+
+**7.** On an application under this Part of this Schedule to a magistrates' court in England and Wales [^key-6a87873beb1b19875e6ed430a2336869]... the court may make an order setting aside the suspension notice only if the court is satisfied that—
+
+- (a) no offence under regulation 4, 5 or 6 has been committed in relation to the products; and[^key-529caae204055b02857d2593ee3fe0fe]
+- (b)[^key-86b7375e09f3658a260e94dc3ffdac63] none of the grounds for service of a suspension notice in Schedule 1 has been made out in relation to the products .[^key-99e34e42cf1fca36bc6f6ce1f557090e]
+- (c)[^key-9ce5296c68d369846e76b9eed58e07f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.** On an application under this Part of this Schedule to the sheriff, the sheriff may make an order setting aside the suspension notice only if satisfied that at the date of making the order—
+
+- (a) proceedings—
+  - (i) for an offence in relation to the products under regulation 4, 5 or 6, or
+  - (ii) for the forfeiture of the products under regulation 9,
+
+  have not been brought or, having been brought, have been concluded; and[^key-0aab237502ffa2103121af3c7ab2688f]
+- (b)[^key-9b0f618864c1fc938c3d50726c7646fd] none of the grounds for service of a suspension notice in Schedule 1 has been made out in relation to the products .[^key-756d460ab25323faa7c702d317f405cb]
+- (c)[^key-d14834844073f4ad6b9282dd10024472] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.** Any person aggrieved by an order made under this Part of this Schedule by a magistrates' court in England and Wales [^key-8e4d3b9073e20161bb191721129691b9]..., or by a decision of such a court not to make such an order, may appeal against that order or decision—
+
+- (a) in England and Wales, to the Crown Court;
+- (b)[^key-f8c071cd785377f672321e0e71eb4493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+and an order so made may contain such provision as appears to the court to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal (including any application under section 111 of the Magistrates' Courts Act 1980 [^c21812071] (statement of case) [^key-2f6cb6ea4fe27ac4ca83567e7245a6f8]...).
+
+**10.** In Scotland, any person aggrieved by an order made under this Part of this Schedule by the sheriff, or by a decision of the sheriff not to make such an order, may appeal against that order or decision on a point of law to the sheriff principal and, notwithstanding the generality of powers available to the sheriff at common law, any order so made by the sheriff may contain such provision as appears to the sheriff to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal.
+
+**11.** This Part of this Schedule is without prejudice to the operation of—
+
+- (a) Article 21(4) (restrictive measures: withdrawal of measures after effective action) of the 2008 Regulation in respect of paragraph 6(a) of Schedule 1 .[^key-7b883071d07ea8c8071ad2b88ae04d61]
+- (b)[^key-fcd4fd8b4ae9b2cf3fe14f7381a9860a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-fcd4fd8b4ae9b2cf3fe14f7381a9860a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — Prohibition notices[^key-4a5f44ce205feb0c23a76cc170f47749]
+
+Regulation 11(4)
+
+**1.** A prohibition notice in respect of any construction products must—
+
+- (a) state that the Secretary of State considers that one or more of the grounds for the service of a prohibition notice in regulation 11(1) is made out in relation to the products, and specify which are the grounds in question;
+- (b) set out the reasons why the Secretary of State considers those grounds to be made out;
+- (c) where the construction products are to be recalled, state the terms of the recall;
+- (d) specify the day on which the notice is to come into force; and
+- (e) state that the person on whom it is served may at any time make representations in writing to the Secretary of State for the purpose of establishing that the matters stated in accordance with sub-paragraph (a) are not the case.
+
+**2.** A notice that is based on the ground in paragraph 6(a) of Schedule 1 must, in order to allow the Secretary of State to comply with Article 21 of the 2008 Regulation, state that it shall not have effect until the end of the period of ten days beginning on the day after it is served, but this requirement does not apply if the circumstances leading to the issue of the notice are such that paragraph (3) of that Article permits a measure to be taken without a period of consultation.
+
+**3.** (1) If representations in writing about a prohibition notice are made by the recipient to the Secretary of State, it shall be the duty of the Secretary of State to consider whether to revoke the notice and—
+
+- (a) if the Secretary of State decides to revoke it, to do so;
+- (b) in any other case, to appoint a person to consider those representations, any further representations made (whether in writing or orally) by the recipient about the notice and the statements of any witnesses examined under this Schedule.
+
+(2) Where the Secretary of State has appointed a person to consider representations about a prohibition notice, it must serve a notification on the recipient which—
+
+- (a) states that the recipient may make oral representations to the appointed person for the purpose of establishing that the matters stated in accordance with paragraph 1(a) are not the case; and
+- (b) specifies the place and time at which the oral representations may be made.
+
+(3) The time specified in a notification served under sub-paragraph (2) must not be before the end of the period of twenty-one days beginning with the day on which the notification is served, unless the recipient otherwise agrees.
+
+(4) A person on whom a notification has been served under sub-paragraph (2) or that person's representative may, at the place and time specified in the notification—
+
+- (a) make oral representations to the appointed person for the purpose of establishing that the matters stated in accordance with paragraph 1(a) are not the case; and
+- (b) call and examine witnesses in connection with the representations.
+
+**4.** (1) Where representations in writing about a prohibition notice are made by the recipient to the Secretary of State at any time after a person has been appointed to consider representations about that notice, then, whether or not the appointed person has made a report to the Secretary of State, the following provisions of this paragraph shall apply instead of paragraph 3.
+
+(2) The Secretary of State must, before the end of the period of one month beginning with the day on which it receives the representations, serve a notification on the recipient which states—
+
+- (a) that the Secretary of State has decided to revoke the notice, has decided to vary it or, as the case may be, has decided neither to revoke nor vary it; or
+- (b) that, a person having been appointed to consider representations about the notice, the recipient may, at a place and time specified in the notification, make oral representations to the appointed person for the purpose of establishing that the matters stated in accordance with paragraph 1(a) are not the case.
+
+(3) The time specified in a notification served for the purposes of sub-paragraph (2)(b) must not be before the end of the period of twenty-one days beginning with the day on which the notification is served, unless the recipient otherwise agrees or the time is the time already specified for the purposes of paragraph 3(2)(b).
+
+(4) A person on whom a notification has been served for the purposes of sub-paragraph (2)(b) or that person's representative may, at the place and time specified in the notification—
+
+- (a) make oral representations to the appointed person for the purpose of establishing that the matters stated in accordance with paragraph 1(a) are not the case; and
+- (b) call and examine witnesses in connection with the representations.
+
+**5.** (1) Where a person is appointed to consider representations about a prohibition notice, it shall be the duty of that person to consider—
+
+- (a) any written representations made by the recipient about the notice, other than those in respect of which a notification is served under paragraph 4(2)(a);
+- (b) any oral representations made under paragraph 3(4) or 4(4); and
+- (c) any statement made by witnesses in connection with the oral representations,
+
+and, after considering any matters under this paragraph, to make a report (including recommendations) to the Secretary of State about the matters so considered and the notice.
+
+(2) It shall be the duty of the Secretary of State to consider any report made under sub-paragraph (1) and, after considering the report, to inform the recipient of the decision with respect to the prohibition notice to which the report relates.
+
+**6.** (1) The Secretary of State may revoke or vary a prohibition notice by serving on the recipient a notification stating that the notice is revoked or, as the case may be, is varied as specified in the notification.
+
+(2) The Secretary of State may not vary a prohibition notice so as to make the effect of the notice more restrictive for the recipient.
+
+(3) The service of a notification under sub-paragraph (1) shall be sufficient to satisfy the requirement of paragraph 5(2) that the recipient must be informed of the decision of the Secretary of State.
+
+**7.** This Schedule is without prejudice to the operation of—
+
+- (a) Article 21(4) (restrictive measures: withdrawal of measures after effective action) of the 2008 Regulation in the case of a prohibition notice based on the ground in paragraph 6(a) of Schedule 1 .[^key-e04dbf82a622d3611f2b530625b8ff62]
+- (b)[^key-7913203e1ef4db88650ff1e58a2d3a3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-7913203e1ef4db88650ff1e58a2d3a3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.** (1) Where in a notification served on any person under this Schedule the Secretary of State has appointed a time for the making of oral representations or the examination of witnesses, it may, by giving that person such notification as the Secretary of State considers appropriate, change the time to a later time or appoint further times at which further representations may be made or the examination of witnesses may be continued; and paragraphs 3(4) and 4(4) shall have effect accordingly.
+
+(2) For the purposes of this Schedule the Secretary of State may appoint a person (instead of the appointed person) to consider any representations or statements, if the person originally appointed, or last appointed under this sub-paragraph, to consider those representations or statements has died or appears to the Secretary of State to be otherwise unable to act.
+
+**9.** In this Schedule—
+
+- “**the appointed person**”, in relation to a prohibition notice means the person for the time being appointed under this Schedule to consider representations about the notice;
+- “**notification**” means notification in writing; and
+- “**recipient**”, in relation to a prohibition notice, means the person on whom the notice is or was served.
+
+## SCHEDULE 4 — Notices to warn
+
+Regulation 12(2)
+
+**1.** (1) If the Secretary of State proposes to serve a notice to warn on any person in respect of any construction products, the Secretary of State, must, before service of the notice, serve on that person a notification which—
+
+- (a) contains a draft of the proposed notice;
+- (b) states that the Secretary of State proposes to serve a notice in the form of the draft on that person;
+- (c) states that in respect of the products described in the draft the Secretary of State considers that one or more of the grounds for the service of a notice to warn in regulation 12(1) is made out in relation to the products, and specify which are the grounds in question;
+- (d) sets out the reasons why the Secretary of State considers the matters described in sub-paragraph (c) to be the case;
+- (e) states that the person may make representations to the Secretary of State for the purpose of establishing that the matters stated in accordance with sub-paragraph (a) are not the case if, before the end of the period the fourteen days beginning with the day on which the notification is served, the person informs the Secretary of State —
+  - (i) that the person intends to make representations, and
+  - (ii) whether the representations will be made only in writing or both in writing and orally.
+
+(2) Where the Secretary of State has served a notification containing a draft of a proposed notice to warn on any person, it must not serve a notice to warn on that person in respect of the products to which the proposed notice relates unless—
+
+- (a) the period of fourteen days beginning with the day on which the notification was served expires without the Secretary of State being informed as mentioned in sub-paragraph (1)(e);
+- (b) the period of twenty-eight days beginning with that day expires without any written representations being made by that person to the Secretary of State about the proposed notice; or
+- (c) the Secretary of State has considered a report about the proposed notice by a person appointed under paragraph 2(1).
+
+**2.** (1) Where a person on whom a notification containing a draft of a proposed notice to warn has been served—
+
+- (a) informs the Secretary of State as mentioned in paragraph 1(1)(e) before the end of the period of fourteen days beginning with the day on which the notification was served; and
+- (b) makes written representations to the Secretary of State about the proposed notice before the end of the period of twenty-eight days beginning with that day,
+
+the Secretary of State must appoint a person to consider those representations, any further representations made by that person about the draft notice and the statements of any witnesses examined under this Schedule.
+
+(2) Where—
+
+- (a) the Secretary of State has appointed a person to consider representations about a notice to warn; and
+- (b) the person whose representations are to be considered has informed the Secretary of State for the purposes of paragraph 1(1)(e) that the representations the person intends to make will include oral representations,
+
+the Secretary of State must inform the person intending to make the representations of the place and time at which oral representations may be made to the appointed person.
+
+(3) Where a person on whom a notification containing a draft of a proposed notice to warn has been served is informed of a time for the purposes of sub-paragraph (2), that time must not be—
+
+- (a) before the end of the period of twenty-eight days beginning with the day on which the notification was served; or
+- (b) before the end of the period of seven days beginning with the day on which that person is informed of the time.
+
+(4) A person who has been informed of a place and time for the purposes of sub-paragraph (2) or the person's representative may, at that place and time—
+
+- (a) make oral representations to the appointed person for the purpose of establishing that the matters stated in accordance with paragraph 1(1)(c) are not the case; and
+- (b) call and examine witnesses in connection with the representations.
+
+**3.** (1) Where a person is appointed to consider representations about a proposed notice to warn, it shall be the duty of that person to consider—
+
+- (a) any written representations made by the person on whom it is proposed to serve the notice; and
+- (b) in a case where a place and time has been appointed under paragraph 2(2) for oral representations to be made by that person or that person's representative, any representations so made and any statements made by witnesses in connection with those representations,
+
+and, after considering those matters, to make a report (including recommendations) to the Secretary of State about the matters so considered and the proposal to serve the notice.
+
+(2) It shall be the duty of the Secretary of State to consider any report made under sub-paragraph (1) and, after considering the report, to inform the person on whom it was proposed that a notice to warn should be served of its decision with respect to the proposal.
+
+(3) If at any time after serving a notification on a person under paragraph 1 the Secretary of State decides not to serve on that person either the proposed notice to warn or that notice with modifications, the Secretary of State must inform that person of the decision; and nothing done for the purposes of any of the preceding provisions of this Schedule before that person was so informed shall—
+
+- (a) entitle the Secretary of State subsequently to serve the proposed notice or that notice with modifications; or
+- (b) require the Secretary of State, or any person appointed to consider representations about the proposed notice, subsequently to do anything in respect of, or in consequence of, any such representations.
+
+(4) Where a notification containing a draft of a proposed notice to warn is served on a person in respect of any products, a notice to warn served on that person in consequence of a decision made under sub-paragraph (2) must either be in the form of the draft or must be less onerous than the draft.
+
+**4.** The Secretary of State may revoke a notice to warn by serving on the person on whom the notice was served a notification stating that the notice is revoked.
+
+**5.** This Schedule is without prejudice to the operation of—
+
+- (a) Article 21(4) (restrictive measures: withdrawal of measures after effective action) of the 2008 Regulation in the case of a notice to warn based on the ground in paragraph 6(a) of Schedule 1 .[^key-30a6651199a3db433f9d730a6e8b6ce2]
+- (b)[^key-d4e5a61a4fd4caaac2de4e3993760e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-d4e5a61a4fd4caaac2de4e3993760e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.** (1) Where in a notification served on any person under this Schedule the Secretary of State has appointed a time for the making of oral representations or the examination of witnesses, it may, by giving that person such notification as the Secretary of State considers appropriate, change the time to a later time or appoint further times at which further representations may be made or the examination of witnesses may be continued; and paragraph 2(4) shall have effect accordingly.
+
+(2) For the purposes of this Schedule the Secretary of State may appoint a person (instead of the appointed person) to consider any representations or statements, if the person originally appointed, or last appointed under this sub-paragraph, to consider those representations or statements has died or appears to the Secretary of State to be otherwise unable to act.
+
+**7.** In this Schedule—
+
+- “**the appointed person**”, in relation to a proposal to serve a notice to warn, means the person for the time being appointed under this Schedule to consider representations about the proposed notice; and
+- “**notification**” means notification in writing.
+
+## SCHEDULE 5 — Amendments to statutory instruments
+
+Regulation 28(2)
+
+### Provision and Use of Work Equipment Regulations 1998
+
+**1.** In Schedule 1 to the Provision and Use of Work Equipment Regulations 1998 [^c21812091] omit the entry for the Construction Products Regulations 1991.
+
+### Water Supply (Water Fittings) Regulations 1999
+
+**2.** In the Water Supply (Water Fittings) Regulations 1999 [^c21812101]—
+
+- (a) in regulation 1(2) omit the definitions “the Directive”, “European technical approval” and “harmonized standard”; and
+- (b) in regulation 4—
+  - (i) in paragraph (2)—
+    - (aa) in sub-paragraph (a) for “the Directive” substitute “ Regulation (EU) No 305/2011 of the European Parliament and of the Council laying down harmonised conditions for the marketing of construction products and repealing Council Directive [89/106/EEC](https://www.legislation.gov.uk/european/directive/1989/0106) [^c21812111] ”, and
+    - (bb) omit sub-paragraph (b); and
+  - (ii) in paragraph (6)(a) for “European technical approval” substitute “ European Technical Assessment within the meaning of the Regulation mentioned in paragraph (2)(a) ”.
+
+### Water Supply (Water Quality) Regulations 2000
+
+**3.**[^key-36ed185783cd16920edd7a4da4ccbb56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Water Supply (Water Quality (Scotland)) Regulations 2001
+
+**4.** In regulation 27 of the Water Supply (Water Quality) (Scotland) Regulations 2001 [^c21812131]—
+
+- (a) in paragraph (1) omit the definitions “the Directive”, “European technical approval” and “harmonized standard”; and
+- (b) in paragraph (3)—
+  - (i) for “the Directive” substitute “ Regulation (EU) No 305/2011 of the European Parliament and of the Council laying down harmonised conditions for the marketing of construction products and repealing Council Directive [89/106/EEC](https://www.legislation.gov.uk/european/directive/1989/0106) ”, and
+  - (ii) omit sub-paragraph (a).
+
+### Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) Regulations 2006
+
+**5.** In the Schedule to the Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) Regulations 2006 [^c21812141] omit the entry for the Construction Products Regulations 1991.
+
+### Water Supply (Water Quality) Regulations 2000 (Amendment) Regulations 2007
+
+**6.** Omit regulation 2(21)(a)(i) and (ii) of the Water Supply (Water Quality) Regulations 2000 (Amendment) Regulations 2007 [^c21812151].
+
+### Water Supply (Water Quality) Regulations 2010
+
+**7.**[^key-eeb9a91344d836cf290a2e15c7cc247a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision necessary for the operation in the United Kingdom of Regulation (EU) No 305/2011 of the European Parliament and of the Council laying down harmonised conditions for the marketing of construction products and repealing Council Directive [89/106/EEC](https://www.legislation.gov.uk/european/directive/1989/0106) (OJ No L 88, 4.4.2011, p.5) (“**the 2011 Regulation**”). The Regulations revoke the Construction Products Regulations 1991 (S.I. 1991/6120, amended by S.I. 1994/3051) (“**the 1991 Regulations**”), which implemented Council Directive [89/106/EEC](https://www.legislation.gov.uk/european/directive/1989/0106) on the approximation of laws, regulations and administrative provisions of the Member States relating to construction products (OJ No L 40, 11.2.1989, p.12) in the United Kingdom.
+
+Part 1 (preliminary) of the Regulations provides for citation, commencement and interpretation, and establishes the competent authority in the United Kingdom for the purposes of the 2011 Regulation, and, insofar as it applies to construction products, to Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/european/regulation/2008/0765) of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation [(EEC) No 339/93](https://www.legislation.gov.uk/european/regulation/1993/0339) (OJ L 218, 13.8.2008, p.30) (“**the 2008 Regulation**”).
+
+In Part 2 (requirements relating to construction products), regulations 4 (prohibition on supply etc.) and 5 (breaches of duty by economic operators) establish offence provisions in respect of breaches of the principal safety-related provisions of the 2011 Regulation.
+
+Regulation 6 (other breaches of the 2011 Regulation) provides an offence where construction products are supplied without accompanying product identification, contact information for manufacturers, importers or distributors, or instructions and safety information.
+
+Regulation 7 (suspension notices) and Schedule 2 make provision, based on provision in the 1991 Regulations, for the service of notices by an enforcement authority suspending the supply of construction products on grounds of the commission of an offence under regulations 4, 5 or 6, or on a number of grounds relating to the 2011 Regulation and to the 2008 Regulation, set out in Schedule 1. Schedule 2 includes provision for appeal against suspension notices. An offence is provided for in respect of breach of a notice.
+
+Regulations 8 (forfeiture: England and Wales and Northern Ireland) and 9 (forfeiture: Scotland) make provision for forfeiture of construction products, based on provision in the 1991 Regulations, on grounds similar to those for the service of suspension notices.
+
+Regulation 10 (duty of enforcement authority to give notice of suspension notices and forfeiture applications etc.) provides that enforcement authorities must notify the Secretary of State of any action that they take under regulations 7 to 9.
+
+Regulations 11 (prohibition notices) and 12 (notices to warn) make provision, based on provision in the 1991 Regulations, for the service of notices by the Secretary of State prohibiting the supply of construction products, and requiring the issue of warnings in relation to construction products, on grounds of the commission of an offence under regulations 4 or 5, or on the grounds set out in Schedule 1. Offences are provided for in respect of breach of notices. Regulation 13 (power to obtain information) provides for the service of notices requiring information to assist the Secretary of State in deciding whether to serve prohibition notices and notices to warn, with an offence for non-compliance or provision of false information.
+
+Schedules 3 and 4 contain requirements for the content of prohibition notices and notices to warn. Schedule 3 establishes a procedure by which representations may be made against the grounds for service of a prohibition notice. Schedule 4 provides for notice to be given in advance of service of a notice to warn, and for a procedure for representations to be made against the service of the notice.
+
+Part 3 (enforcement of Part 2 and the 2011 Regulation) of the Regulations makes enforcement provision based on similar provision in the 1991 Regulation. Regulation 14 (enforcement) establishes the duty for local weights and measures authorities in England and Wales and in Scotland, and district councils in Northern Ireland, to carry out market surveillance under the 2008 Regulation, as it applies to construction products, and the 2011 Regulation and to enforce the provisions of Part 2 and the 2011 Regulation in their areas. Regulation 14 also empowers local weights and measures authorities in England and Wales to investigate and prosecute in relation to offences anywhere in England and Wales, and district councils to do the same anywhere in Northern Ireland.
+
+Regulations 16 (powers of search etc.) and 17 (provisions supplemental to regulation 16) govern powers of entry, search and seizure in connection with failures to comply with the requirements of the 2011 Regulation and offences under Part 2 of the Regulations. Regulation 18 (obstruction of authorised officer) establishes offences for obstructing, or giving false information to, an officer of an enforcement authority.
+
+Part 4 (miscellaneous and supplemental) makes provision also largely based on provision in the 1991 Regulations. This includes an offence provision in regulation 22 (restrictions on disclosure of information) for disclosure of information obtained in the course of procedures under the Regulations or under Article 27(2) (sharing of information between market surveillance and external border control authorities) of the 2008 Regulation, and transitional provisions.
+
+A full impact assessment has not been produced for this instrument as a full impact assessment of the effect that the proposals that led to the adoption of the 2011 Regulation will have on the costs of business, the voluntary sector and the public sector was carried out in 2009. No, or no significant, impact on the private, voluntary or public sectors is foreseen beyond that already described in that assessment. The 2009 impact assessment is available online athttp://webarchive.nationalarchives.gov.uk/2010010417052/http://www.communities.gov.uk/publications/planningandbuilding/constructionproductsimpactfinal, or a copy may be obtained on application to the Department for Communities and Local Government, Building Regulations and Standards Division, Zone 5/G9, Eland House, Bressenden Place, London SW1E 5DU or to construction.products@communities.gsi.gov.uk .
+
+## Annotations
+
+[^c21811931]: Marginal citation: [S.I. 1989/2393](https://www.legislation.gov.uk/uksi/1989/2393).
+
+[^c21811941]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^key-de71b78ab2fe217a780295dbfbb53ae3]: Textual amendment: Reg. 1A inserted by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/2) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^c21811951]: Marginal citation: OJ No L 218, 13.8.2008, p.30.
+
+[^c21811961]: Marginal citation: OJ No L 88, 4.4.2011, p.5.
+
+[^key-d6a9c3e7dca5b33342bdaacbfbb2fa7c]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/3/2/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-3cf71e3029df322f7f7a2a5c6dac966f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/2/1) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/2/a)
+
+[^key-0757874464c6a16ea444f2af89cbcaa0]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/3/2/a) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-3bbf722b204d24854c77b85b7e9bccfd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/1387/regulation/2) substituted (8.1.2026) by [The Construction Products (Amendment) Regulations 2025 (S.I. 2025/1172)](https://www.legislation.gov.uk/uksi/2025/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/9/2/a)
+
+[^c21811971]: Marginal citation: [1985 c.72](https://www.legislation.gov.uk/ukpga/1985/72), as amended by Part 4 of Schedule 1 to the [Statute Law (Repeals) Act 1989 (c.43)](https://www.legislation.gov.uk/ukpga/1989/43), [paragraph 75](https://www.legislation.gov.uk/ukpga/1989/43/paragraph/75) of Schedule 16 to the [Local Government (Wales) Act 1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19), and paragraph 144 of Schedule 13 to the [Local Government etc (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^key-a66c8c90038f5a2e1708793e3af86c48]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/1387/regulation/2) inserted (8.1.2026) by [The Construction Products (Amendment) Regulations 2025 (S.I. 2025/1172)](https://www.legislation.gov.uk/uksi/2025/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/9/2/b)
+
+[^key-159b42400f58aff536bb3037fa5efa4b]: Textual amendment: Words in reg. 2(2) inserted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/3/3) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-b18d19b75cd723f01d75256dee8f65f4]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/2/2) omitted (20.7.2022) by virtue of [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/2/b)
+
+[^key-192cdd39aa22ffee2638a6bf94262eca]: Textual amendment: Reg. 2(3) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/3/4) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-84e46c6685d49240b21f973e91a75c11]: Textual amendment: Words in reg. 3(1) inserted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 4(a)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/4/a/i) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-ca002fd007c1d1fca40cf09db7c24820]: Textual amendment: Words in reg. 3(1) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/4/a/ii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-17a055075857913f66fbab3300bde9d8]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/3/1/a) omitted (20.7.2022) by virtue of [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/3)
+
+[^key-05d597abf5a6ec64a004957321205f1d]: Textual amendment: Words in reg. 3(1)(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/4/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-9c75cd396f5d94aa04872567ed7d38ed]: Textual amendment: Reg. 4 substituted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/5) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2) (with [Sch. 3 para. 30(1)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/30/1)))
+
+[^key-464de61f0ecf8d2ba55d81c59f4ed15f]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/4/3/b) substituted (8.1.2026) by [The Construction Products (Amendment) Regulations 2025 (S.I. 2025/1172)](https://www.legislation.gov.uk/uksi/2025/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/9/3/a)
+
+[^key-fe6bc79098d9702fb65bfcec40cccfdc]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/4/3/c) substituted (8.1.2026) by [The Construction Products (Amendment) Regulations 2025 (S.I. 2025/1172)](https://www.legislation.gov.uk/uksi/2025/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/1/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/9/3/b)
+
+[^key-6db3dc64c61352b11bd6f3e4df8663fd]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/4/5) substituted (8.1.2026) by [The Construction Products (Amendment) Regulations 2025 (S.I. 2025/1172)](https://www.legislation.gov.uk/uksi/2025/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/1/1), [9(3)(c)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/9/3/c)
+
+[^key-af807e68568f13951d91889f20396f1f]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/5/3) substituted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/4/a)
+
+[^key-f336c2fa858794de71873d8a5269c06f]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/5/3) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/4/b)
+
+[^key-fe4ef349f7f78495caae562f626c17b9]: Textual amendment: Reg. 7(4)(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/6) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-1ea633e0bdbd00a5b846cdc7d624c623]: Textual amendment: Words in reg. 8 heading omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/7/a) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-933fc786677cb4074388c5dee5a2e2fb]: Textual amendment: Words in reg. 8(1) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/7/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-6f7d7c42364c1bfa6d3ca72a92a9ffc0]: Textual amendment: Words in reg. 8(5) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 7(c)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/7/c/i) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-0c1ecf4636db31054460e60758d1792e]: Textual amendment: Reg. 8(5)(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 7(c)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/7/c/ii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^c21811981]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^key-76aa7659379d154e1df701e6c351329e]: Textual amendment: Words in reg. 8(5) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 7(c)(iii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/7/c/iii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^c21812001]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^key-df779b82940914ffc8f25c4ecffc516d]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2013/1387/regulation/10) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/5)
+
+[^key-2c35ff0f110d801bb0203d38c6b0c048]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/14/1) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(6)(a)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/6/a)
+
+[^key-064c9f1e2f81728f02a75132df110d43]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/14/1A) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(6)(b)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/6/b)
+
+[^key-733d0c32f81a8fe14e308be594d48662]: Textual amendment: Reg. 14(3) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/8) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^c21812011]: Marginal citation: [1979 c.2](https://www.legislation.gov.uk/ukpga/1979/2); “importer” is defined in section 1(1).
+
+[^key-bad5ab17757594a39ac9bafd07367c19]: Textual amendment: Reg. 17(7) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/9) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-1979ec91b55fc6aad326416682049a07]: Textual amendment: Words in reg. 19(2)(a) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 10(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/10/a) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-e7bc6bc6e02531af4f150e56c2520287]: Textual amendment: Reg. 19(3)(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 10(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/10/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-ddd052d1fcb0ca649d9ebb0291906748]: Textual amendment: Words in reg. 19(4) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 10(c)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/10/c/i) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-f76c29ce19fd3e7161386769de6c8612]: Textual amendment: Reg. 19(4)(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 10(c)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/10/c/ii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^c21812021]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^key-d837cea5d7c09e781028f7ca07d90ca6]: Textual amendment: Words in reg. 19(4) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 10(c)(iii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/10/c/iii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^c21812041]: Marginal citation: [S.I. 2012/1848](https://www.legislation.gov.uk/uksi/2012/1848).
+
+[^key-26af9ded171457da1a5900dd4d264112]: Textual amendment: Words in [reg. 22(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/22/3/b/iii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2025/82/schedule/5/paragraph/2)
+
+[^key-da3ed31affee90080d26173650c0d695]: Textual amendment: Words in reg. 22(6) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/11/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-eaf9c2f072d380037ab166ecda49b892]: Textual amendment: Reg. 26(3) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/12) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^c21812051]: Marginal citation: [S.I. 1991/1620](https://www.legislation.gov.uk/uksi/1991/1620).
+
+[^c21812061]: Marginal citation: [S.I. 1994/3051](https://www.legislation.gov.uk/uksi/1994/3051).
+
+[^key-bb9201daf351e39945d7066811a32c65]: Textual amendment: Word in Sch. 1 para. 2(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/2) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-ef9cbd630784ab4a0cf1bffd972dd326]: Textual amendment: Word in Sch. 1 para. 2(c) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/2) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-d7951ef85f299b559669d00b8af01ecc]: Textual amendment: Word in Sch. 1 para. 2(e) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/2) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-0189802363f23ff442ef9686150a37b2]: Textual amendment: Word in Sch. 1 para. 2(f) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/2) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-0b9ac01277bb123d3e074f362b8203a7]: Textual amendment: Words in Sch. 1 para. 4 deleted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/3) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-1e607b8857c34eb6b0e234c9f3059d9a]: Textual amendment: Words in Sch. 1 para. 5 deleted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(4)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/4) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-71269e11ca55f133ecc278f193012d1d]: Textual amendment: Words in Sch. 1 para. 6(a) deleted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(5)(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/5/a) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-a02fcc5263e608b9dfc35fd18aa9686b]: Textual amendment: Words in Sch. 1 para. 6(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(5)(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/5/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-cdc8ac076b4df4782709d359c1b1991c]: Textual amendment: Word in Sch. 1 para. 6(c) substituted for full stop (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(5)(c)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/5/c) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-6978c86ab97bdbcbdbf008b4beb063b2]: Textual amendment: Sch. 1 para. 6(d) inserted by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(5)(d)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/5/d) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-a4e457789f0a86bb34c59419435cae30]: Textual amendment: Sch. 1 para. 7 omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(6)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/6) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-25607d464084589d9dd2e1fed2de4e59]: Textual amendment: Words in Sch. 1 para. 8 inserted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(7)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/7) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-c507e3a0b8bf3b096c10d1f9ee02fc0b]: Modification: [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2013/1387/schedule/2/paragraph/3/b) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 3 para. 30(2)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/30/2)
+
+[^key-452e6897cb4921a7ce3a2cea8586beb9]: Textual amendment: Words in Sch. 2 para. 6 omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/a) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-6a87873beb1b19875e6ed430a2336869]: Textual amendment: Words in Sch. 2 para. 7 omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(b)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/b/i) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-529caae204055b02857d2593ee3fe0fe]: Textual amendment: Word in Sch. 2 para. 7(a) inserted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(b)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/b/ii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-86b7375e09f3658a260e94dc3ffdac63]: Modification: [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2013/1387/schedule/2/paragraph/7/b) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 3 para. 30(2)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/30/2)
+
+[^key-99e34e42cf1fca36bc6f6ce1f557090e]: Textual amendment: Sch. 2 para. 7(b) full stop substituted for word by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(b)(iii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/b/iii) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-9ce5296c68d369846e76b9eed58e07f1]: Textual amendment: Sch. 2 para. 7(c) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(b)(iv)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/b/iv) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-0aab237502ffa2103121af3c7ab2688f]: Textual amendment: Word in Sch. 2 para. 8(a) inserted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(c)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/c/i) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-9b0f618864c1fc938c3d50726c7646fd]: Modification: [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2013/1387/schedule/2/paragraph/8/b) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 3 para. 30(2)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/30/2)
+
+[^key-756d460ab25323faa7c702d317f405cb]: Textual amendment: Sch. 2 para. 8(b) full stop substituted for word by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(c)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/c/ii) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-d14834844073f4ad6b9282dd10024472]: Textual amendment: Sch. 2 para. 8(c) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(c)(iii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/c/iii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-8e4d3b9073e20161bb191721129691b9]: Textual amendment: Words in Sch. 2 para. 9 omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(d)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/d/i) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-f8c071cd785377f672321e0e71eb4493]: Textual amendment: Sch. 2 para. 9(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(d)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/d/ii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^c21812071]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^key-2f6cb6ea4fe27ac4ca83567e7245a6f8]: Textual amendment: Words in Sch. 2 para. 9 omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(d)(iii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/d/iii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-7b883071d07ea8c8071ad2b88ae04d61]: Textual amendment: Sch. 2 para. 11(a) full stop substituted for semicolon by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(e)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/e/i) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-fcd4fd8b4ae9b2cf3fe14f7381a9860a]: Textual amendment: Sch. 2 para. 11(b)(c) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(e)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/e/ii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-4a5f44ce205feb0c23a76cc170f47749]: Modification: [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1387/schedule/3) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 3 para. 30(3)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/30/3)
+
+[^key-e04dbf82a622d3611f2b530625b8ff62]: Textual amendment: Sch. 3 para. 7(a) full stop substituted for semicolon by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 15(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/15/a) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-7913203e1ef4db88650ff1e58a2d3a3a]: Textual amendment: Sch. 3 para. 7(b)(c) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 15(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/15/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-30a6651199a3db433f9d730a6e8b6ce2]: Textual amendment: Sch. 4 para. 5(a) full stop substituted for semicolon by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 16(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/16/a) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^key-d4e5a61a4fd4caaac2de4e3993760e93]: Textual amendment: Sch. 4 para. 5(b)(c) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 16(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/16/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+
+[^c21812091]: Marginal citation: [S.I. 1998/2306](https://www.legislation.gov.uk/uksi/1998/2306). There are amendments, but none is relevant.
+
+[^c21812101]: Marginal citation: [S.I. 1999/1148](https://www.legislation.gov.uk/uksi/1999/1148), as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
+
+[^c21812111]: Marginal citation: OJ No L 88, 4.4.2011, p.5.
+
+[^key-36ed185783cd16920edd7a4da4ccbb56]: Textual amendment: Sch. 5 para. 3 revoked (E.W.) (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2016/614/schedule/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
+
+[^c21812131]: Marginal citation: [S.S.I. 2001/207](https://www.legislation.gov.uk/ssi/2001/207), as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043)..
+
+[^c21812141]: Marginal citation: [S.I. 2006/2183](https://www.legislation.gov.uk/uksi/2006/2183), as amended by [S.I. 2008/2165](https://www.legislation.gov.uk/uksi/2008/2165). There is another amendment, but it is not relevant.
+
+[^c21812151]: Marginal citation: [S.I. 2007/2734](https://www.legislation.gov.uk/uksi/2007/2734).
+
+[^key-eeb9a91344d836cf290a2e15c7cc247a]: Textual amendment: Sch. 5 para. 7 revoked (E.W.) (15.6.2018) by [The Water Supply (Water Quality) Regulations 2018 (S.I. 2018/647)](https://www.legislation.gov.uk/wsi/2018/647), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2018/647/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2018/647/schedule/6)

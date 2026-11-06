@@ -1,0 +1,261 @@
+---
+title: Building Safety Act 2022, section 112
+act: Building Safety Act 2022
+section: '112'
+status: revised-with-pending-changes
+text_date: '2026-07-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2022/30/section/112
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Building Safety Act 2022, section 112
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 112. Implied terms in leases and recovery of safety related costs[^key-72dea5658ec01af041592bbb0dc9ac80]
+
+*Extent: E+W*
+
+(1)[^key-0c05d81683b4a6e139cc31a171570e95] The Landlord and Tenant Act 1985 is amended in accordance with subsections (2) to (6).
+
+(2)[^key-f322c9520bd955a1655f241a9acfd816] After section 30B insert—
+
+> **Higher-risk buildings in England**
+>
+> **30C. Implied terms relating to building safety**
+>
+> (1) This section applies to a lease of premises which consist of or include a dwelling in a higher-risk building.
+>
+> (2) In the lease there is implied a covenant by the landlord—
+>
+> - (a) where the landlord is an accountable person for the higher-risk building, to comply with their building safety duties;
+> - (b) to cooperate with any person in connection with a relevant person complying with their building safety duties;
+> - (c) where a special measures order in relation to the higher-risk building is in force, to comply with that order so far as it relates to the landlord.
+>
+> (3) In the lease there is implied a covenant by the tenant—
+>
+> - (a) to allow the landlord, a relevant person or a person authorised in writing by the landlord or a relevant person to enter the premises for a relevant building safety purpose;
+> - (b) where the tenant is a resident of the higher-risk building, to comply with their duties under sections 95 and 97 of the Building Safety Act 2022;
+> - (c) where a special measures order in relation to the higher-risk building is in force, to comply with that order so far as it relates to the tenant.
+>
+> (4) In the covenant implied by subsection (2)(b), “**cooperate**”, in relation to a person, includes—
+>
+> - (a) taking any steps which are reasonably required by the person to facilitate compliance by a relevant person with their building safety duties;
+> - (b) where the person is a relevant person (or a person authorised in writing by a relevant person), providing any information (including names and contact details of residents and tenants of the premises) to the person which is reasonably required in connection with the relevant person complying with their building safety duties.
+>
+> (5) In the covenant implied by subsection (3)(a), a relevant building safety purpose means—
+>
+> - (a) inspecting the premises in connection with a relevant person complying with their building safety duties;
+> - (b) carrying out works to the premises, where such works are required to be carried out in connection with a relevant person complying with their building safety duties;
+> - (c) accessing a part of the higher-risk building that is not let to the tenant in order to—
+>   - (i) inspect that part of the building in connection with a relevant person complying with their building safety duties;
+>   - (ii) carry out works to that part of the building, where such works are required to be carried out in connection with a relevant person complying with their building safety duties.
+>
+> (6) The covenant implied by subsection (3)(a) requires entry to the premises to be allowed—
+>
+> - (a) only at reasonable times, and
+> - (b) only if the tenant has been given at least 48 hours’ notice in writing.
+>
+> (7) Except as provided by subsection (8), the disclosure of information in accordance with subsections (2)(b) and (4)(b) does not breach—
+>
+> - (a) any obligation of confidence owed by the landlord in relation to that information;
+> - (b) any other restriction on the disclosure of information (however imposed).
+>
+> (8) Subsections (2)(b) and (4)(b) do not require a disclosure of information if the disclosure would contravene the data protection legislation (but in determining whether a disclosure would do so, take into account the duty imposed by subsections (2)(b) and (4)(b)).
+>
+> (9) In this section—
+>
+> - “**building safety duties**”—
+>   - (a) in relation to an accountable person, means any duties of the accountable person under Part 4 of the Building Safety Act 2022, or regulations made under that Part of that Act;
+>   - (b) in relation to a special measures manager, means any duties of the manager included in the special measures order appointing the manager;
+> - “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+> - “**relevant person**” means—
+>   - (a) an accountable person for the higher-risk building;
+>   - (b) a special measures manager for the higher-risk building;
+> - “**resident**” and “resident of a higher-risk building” have the same meaning as in Part 4 of the Building Safety Act 2022 (see section 71(3) and (4)(c) of that Act);
+> - “**works**” includes alterations, improvements and installations.
+>
+> **30D. Liability for building safety costs**
+>
+> (1) This section applies to a relevant lease of premises which consist of or include a dwelling in a higher-risk building.
+>
+> (2) In this section “relevant lease”—
+>
+> - (a) means a lease—
+>   - (i) that is granted for a term certain of 7 years or more, whether or not it is (or may become) terminable before the end of that term by notice given by the tenant or by re-entry or forfeiture, and
+>   - (ii) under which the tenant is liable to pay a service charge (within the meaning of section 18), but
+> - (b) does not include a relevant social housing tenancy.
+>
+> (3) The relevant lease has effect—
+>
+> - (a) as if the matters for which the service charge is payable under the lease included the taking of building safety measures by or on behalf of a relevant person (insofar as this would not otherwise be the case), and
+> - (b) where the lease contains different methods for apportioning different relevant costs (within the meaning of section 18), as if it provided for any costs for which the tenant is liable by virtue only of paragraph (a) to be apportioned in the same way as costs incurred in connection with insuring the building.
+>
+> (4) “**Building safety measure**” means any of the following—
+>
+> - (a) applying for registration of a higher-risk building in accordance with section 78 of the Building Safety Act 2022;
+> - (b) applying for a building assessment certificate in accordance with section 79 of that Act;
+> - (c) displaying a building assessment certificate in accordance with section 82 of that Act;
+> - (d) assessing building safety risks in accordance with section 83 of that Act;
+> - (e) taking reasonable steps in accordance with section 84 of that Act (management of building safety risks), other than steps involving the carrying out of works as referred to in section 84(2);
+> - (f) preparing and revising a safety case report in accordance with section 85 of that Act;
+> - (g) notifying the regulator of a safety case report, and giving a copy of a safety case report to the regulator, in accordance with section 86 of that Act;
+> - (h) establishing and operating a mandatory occurrence reporting system, and giving information to the regulator, in accordance with section 87 of that Act;
+> - (i) keeping information and documents in accordance with section 88 of that Act;
+> - (j) giving information and documents to any person in accordance with section 89, 90 or 92 of that Act;
+> - (k) complying with any duty under section 91 of that Act (residents’ engagement strategy);
+> - (l) establishing and operating a system for the investigation of complaints in accordance with section 93 of that Act;
+> - (m) giving a contravention notice to a resident, and making an application to the county court, in accordance with section 96 of that Act;
+> - (n) making a request to enter premises, or making an application to the county court, in accordance with section 97 of that Act (access to premises).
+>
+> (5) For the purposes of this section any of the following incurred in connection with the taking of a building safety measure are to be regarded as incurred in taking the measure—
+>
+> - (a) legal and other professional fees;
+> - (b) fees payable to the regulator;
+> - (c) management costs.
+>
+> (6) In this section—
+>
+> - “**landlord**” includes any person who has a right under the lease to enforce payment of a service charge (within the meaning of section 18);
+> - “**relevant person**” means—
+>   - (a) if the landlord is an accountable person for the building, the landlord or a special measures manager for the building;
+>   - (b) otherwise, any superior landlord who is an accountable person for the building or a special measures manager for the building;
+> - “**relevant social housing tenancy**” has the meaning given in section 132 of the Land Registration Act 2002;
+> - “**tenant**” includes any person who has an obligation under the lease to pay a service charge (within the meaning of section 18).
+>
+> (7) The Secretary of State may by regulations made by statutory instrument amend subsection (4) so as to add, remove or modify a building safety measure.
+>
+> (8) The regulations may make incidental, transitional or saving provision.
+>
+> (9) A statutory instrument containing regulations under subsection (7) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+>
+> **30E. Liability for remuneration of building safety director of resident management company etc**
+>
+> (1) This section applies to a lease of premises which consist of or include a dwelling in a higher-risk building if—
+>
+> - (a) the landlord is an accountable person for the building,
+> - (b) the landlord is—
+>   - (i) a resident management company within the meaning of section 111 of the Building Safety Act 2022, or
+>   - (ii) an RTM company within the meaning of Chapter 1 of Part 2 of the Commonhold and Leasehold Reform Act 2002 (right to manage), and
+> - (c) the tenant is liable to pay a service charge.
+>
+> (2) The lease has effect—
+>
+> - (a) as if it contained provision authorising the appointment of a person (whether or not a leaseholder or a resident of the building) as a director of the landlord for a building safety purpose,
+> - (b) as if the matters for which the service charge is payable under the lease included remunerating any director of the landlord appointed for a building safety purpose (insofar as this would not otherwise be the case), and
+> - (c) where the lease contains different methods for apportioning different relevant costs (within the meaning of section 18), as if it provided that any costs for which the tenant is liable by virtue only of paragraph (b) to be apportioned in the same way as costs incurred in connection with insuring the building.
+>
+> (3) In this section—
+>
+> - “**building safety purpose**” means the purpose of supporting the landlord in complying with its duties under Part 4 of the Building Safety Act 2022 or under regulations made under that Part;
+> - “**landlord**” includes any person who has a right under the lease to enforce payment of a service charge;
+> - “**service charge**” has the meaning given by section 18;
+> - “**tenant**” includes any person who has an obligation under the lease to pay a service charge.
+>
+> **30F. Restrictions on contracting out of sections 30C to 30E**
+>
+> (1) A covenant or agreement, whether contained in a lease to which section 30C (implied terms) applies or in an agreement collateral to such a lease, is void in so far as it purports—
+>
+> - (a) to exclude or limit the obligations of the landlord or the tenant under section 30C, or
+> - (b) to authorise any forfeiture or impose on the tenant any penalty, disability or obligation in the event of the tenant enforcing or relying upon the obligations of the landlord.
+>
+> (2) A covenant or agreement, whether contained in a lease to which section 30D or 30E applies or in an agreement collateral to such a lease, is void insofar as it purports to modify the effect of section 30D(3) or 30E(2).
+>
+> **30G. Jurisdiction of county court**
+>
+> The county court has jurisdiction to deal with any claim or other proceedings arising under or in connection with any of sections 30C to 30E (implied terms etc) notwithstanding that by reason of the amount of the claim or otherwise the case would not, apart from this section, be within the jurisdiction of the county court.
+>
+> **30H. Specific performance of implied terms**
+>
+> In proceedings relating to a breach of a covenant in section 30C(2) or (3) (implied building safety terms), the court may order specific performance of the covenant—
+>
+> - (a) notwithstanding any equitable rule restricting the scope of the remedy, whether on the basis of a lack of mutuality or otherwise, and
+> - (b) in the case of a breach of a covenant in section 30C(2) or (3)(b) or (c), whether or not the breach relates to a part of the higher-risk building let to the tenant.
+>
+> **30I. Interpretation of building safety provisions**
+>
+> In sections 30C to 30H—
+>
+> - “**accountable person**” has the meaning given in section 115 of the Building Safety Act 2022;
+> - “**higher-risk building**” has the meaning given in section 115 of that Act;
+> - “**lease**” does not include a mortgage term;
+> - “**special measures manager**” has the meaning given in paragraph 1 of Schedule 7 to the Building Safety Act 2022;
+> - “**special measures order**” has the meaning given in paragraph 1 of Schedule 7 to that Act.
+
+(3)[^key-11b597e716d9b7f48bf681771838878e] After section 20E (inserted by section 133) insert—
+
+> **20F. Limitation of service charges: excluded costs for higher-risk buildings**
+>
+> (1) This section applies in relation to a lease to which section 30D (higher-risk buildings: building safety costs) applies.
+>
+> (2) Excluded costs are not to be regarded as relevant costs to be taken into account in determining the amount of service charge payable by a tenant under the lease.
+>
+> (3) In this section “**excluded costs**” means any of the following incurred in connection with Part 4 of the Building Safety Act 2022 or regulations made under that Part—
+>
+> - (a) costs incurred or to be incurred by or on behalf of a relevant person solely as a result of any penalty imposed or enforcement action taken by the regulator;
+> - (b) legal costs incurred or to be incurred by or on behalf of a relevant person in connection with special measures order proceedings;
+> - (c) costs incurred or to be incurred by or on behalf of a relevant person by reason of any negligence, breach of contract or unlawful act on the part of that relevant person or a person acting on their behalf;
+> - (d) costs of a description prescribed by regulations made by the Secretary of State that are incurred or to be incurred by or on behalf of an accountable person or special measures manager for the building in connection with the taking of building safety measures.
+>
+> (4) In this section—
+>
+> - “**building safety measures**” has the meaning given by section 30D;
+> - “**enforcement action**” means action taken with a view to, or in connection with—
+>   - (a) securing compliance with Part 4 of the Building Safety Act 2022 or regulations made under that Part, or
+>   - (b) the imposition of a sanction in respect of a contravention of that Part or those regulations;
+> - “**the regulator**” has the meaning given by section 115 of the Building Safety Act 2022;
+> - “**relevant person**” means—
+>   - (a) where the landlord under the lease is an accountable person for the higher-risk building, the landlord or a special measures manager for the higher-risk building;
+>   - (b) where the landlord is not such an accountable person, any superior landlord who is an accountable person for the higher-risk building or a special measures manager for the higher-risk building;
+> - “**special measures order proceedings**” means any proceedings relating to the making, variation or discharge of, or the giving of directions in relation to, a special measures order under Schedule 7 to the Building Safety Act 2022 (including any appeals in relation to such proceedings).
+>
+> (5) Regulations under this section are to be made by statutory instrument.
+>
+> (6) A power to make regulations includes power to make—
+>
+> - (a) incidental, transitional or saving provision;
+> - (b) different provision for different purposes.
+>
+> (7) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4)[^key-150b3c819cc8bc8e3a9fc88a4be9f80f] In section 21 (service charge information) after subsection (6) insert—
+
+> (6A) In particular, regulations which make provision about higher-risk buildings (within the meaning of Part 4 of the Building Safety Act 2022) need not contain provision of a kind mentioned in subsection (2) or (3).
+
+(5)[^key-150b3c819cc8bc8e3a9fc88a4be9f80f] In section 30 (meaning of “**landlord**” and “**tenant**”)—
+
+- (a) after the definition of “landlord” insert—
+
+  > - “**services**” includes, in relation to a dwelling in a higher-risk building (as defined by section 30I), building safety measures within the meaning of section 30D;
+
+  ;
+- (b) in the heading for ““flat”, “landlord” and “tenant”” substitute ““landlord”, “tenant” etc”.
+
+(6)[^key-46bfca9c42dd026b4575fc854a7c8c75] In section 32(1) (business tenancies), after the entry relating to section 17 insert—
+
+> - section 30C (implied terms relation to building safety),
+> - section 30D (building safety costs),
+> - section 30E (liability for remuneration of building safety director of resident management company etc).
+
+(7) In section 172(1)(a) of the Commonhold and Leasehold Reform Act 2002 (application to Crown)—
+
+- (a) for “30B” substitute “30I”;
+- (b) after “agents” insert “and building safety”.
+
+## Annotations
+
+[^key-72dea5658ec01af041592bbb0dc9ac80]: Commencement: S. 112 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+
+[^key-0c05d81683b4a6e139cc31a171570e95]: Commencement: [S. 112(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/1) in force at 6.4.2023 for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(i)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/i)
+
+[^key-f322c9520bd955a1655f241a9acfd816]: Commencement: [S. 112(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/2) in force at 6.4.2023 for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(ii)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/ii)
+
+[^key-11b597e716d9b7f48bf681771838878e]: Commencement: [S. 112(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/3) in force at 6.4.2023 for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(iii)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/iii)
+
+[^key-150b3c819cc8bc8e3a9fc88a4be9f80f]: Commencement: [S. 112(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/4)[(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/5) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(iv)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/iv)
+
+[^key-46bfca9c42dd026b4575fc854a7c8c75]: Commencement: [S. 112(6)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/6) in force at 6.4.2023 for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(v)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/v)

@@ -1,0 +1,932 @@
+---
+title: Firearms (Amendment) Act 1988
+id: ukpga/1988/45
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1988-11-15'
+text_date: '2026-06-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1988/45
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1988/45/pdfs/ukpga_19880045_en.pdf
+- http://www.legislation.gov.uk/ukpga/1988/45/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Firearms (Amendment) Act 1988
+
+> Text as at 2026-06-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+*Extent: E+W+S*
+
+Firearms (Amendment) Act 1988
+
+1988 c. 45
+
+An Act to amend the Firearms Act 1968 and to make further provision for regulating the possession of, and transactions relating to, firearms and ammunition.
+
+\[15th November 1988\] [^c318135]
+
+[^c318136]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+*Extent: E+W+S*
+
+## Specially dangerous weapons
+
+### 1. Prohibited weapons and ammunition.
+
+(1) Section 5 of the [^c318137]Firearms Act 1968 (in this Act referred to as “**the principal Act**”) shall have effect with the following amendments the purpose of which is to extend the class of prohibited weapons and ammunition, that is to say weapons and ammunition the possession, purchase, acquisition, manufacture, sale or transfer of which requires the authority of the Secretary of State.
+
+(2) For paragraph (a) of subsection (1) there shall be substituted—
+
+> - (a) any firearm which is so designed or adapted that two or more missiles can be successively discharged without repeated pressure on the trigger;
+> - (ab) any self-loading or pump-action rifle other than one which is chambered for .22 rim-fire cartridges;
+> - (ac) any self-loading or pump-action smooth-bore gun which is not chambered for .22 rim-fire cartridges and either has a barrel less than 24 inches in length or (excluding any detachable, folding, retractable or other movable butt-stock) is less than 40 inches in length overall;
+> - (ad) any smooth-bore revolver gun other than one which is chambered for 9mm. rim-fire cartridges or loaded at the muzzle end of each chamber;
+> - (ae) any rocket launcher, or any mortar, for projecting a stabilised missile, other than a launcher or mortar designed for line-throwing or pyrotechnic purposes or as signalling apparatus;
+
+.
+
+(3) For paragraph (c) of subsection (1) there shall be substituted—
+
+> - (c) any cartridge with a bullet designed to explode on or immediately before impact, any ammunition containing or designed or adapted to contain any such noxious thing as is mentioned in paragraph (b) above and, if capable of being used with a firearm of any description, any grenade, bomb (or other like missile), or rocket or shell designed to explode as aforesaid.
+
+(4) If it appears to the Secretary of State that the provisions of the principal Act relating to prohibited weapons or ammunition should apply to—
+
+- (a) any firearm (not being an air weapon) which is not for the time being specified in subsection (1) of section 5, was not lawfully on sale in Great Britain in substantial numbers at any time before 1988 and appears to him to be—
+  - (i) specially dangerous; or
+  - (ii) wholly or partly composed of material making it not readily detectable by apparatus used for detecting metal objects; [^key-9c148759ccec88af3957404c43cfc46b]...
+- (b) any ammunition which is not for the time being specified in that subsection but appears to him to be specially dangerous; or[^key-faa31cc4e38396dc565ac22194e50f11]
+- (c) any air rifle, air gun or air pistol which is not for the time being specified in that subsection but appears to him to be specially dangerous,
+
+he may by order add it to the weapons or ammunition specified in that subsection whether by altering the description of any weapon or ammunition for the time being there specified or otherwise.
+
+(4A)[^key-461bf2a25c18e553e22ff303799dbbc1] An order under subsection (4)—
+
+- (a) may provide for a provision of the principal Act to apply with or without modification or exception in relation to anything added to subsection (1) of section 5 by the order,
+- (b) may impose conditions in respect of any application, modification or exception provided for by the order (which may, in particular, include provision requiring a person to obtain a certificate in accordance with an enactment referred to or applied by the order),
+- (bb)[^key-07f7fbe681f3205206fb2eb3bc7c97c4] may amend paragraph 1 of Schedule 20 to the Sentencing Code[^key-428897365194cf9b26fc5eb539a5686d] (offenders under 18 convicted of certain serious offences: power to detain for specified period) so as to include a reference to any provision added by the order to section 5(1) of the principal Act,
+- (bc) may amend section 50(5A)(a), 68(4A)(a) or 170(4A)(a) of the Customs and Excise Management Act 1979 (offences relating to improper importation or exportation) so as to include a reference to anything added by the order to section 5(1) of the principal Act,
+- (c) may make provision generally or by reference to a particular purpose or circumstance,
+- (d) may confer a function on the Secretary of State or another specified person, and
+- (e) may make transitional, consequential or incidental provision.
+
+(4B)[^key-06a77815ad681d66b721331c950f3eff] An order under subsection (4) which, by virtue of subsection (4A)(bb), amends paragraph 1 of Schedule 20 to the Sentencing Code may also—
+
+- (a) provide for section 311 to apply with modifications or exceptions, or
+- (b) provide for section 249 not to apply,
+
+in relation to any provision added by the order to section 5(1) of the principal Act.
+
+(5) The power to make an order under subsection (4) above shall be exercisable by statutory instrument and no such order shall be made unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+
+## Weapons requiring firearm certificate
+
+### 2. Re-definition of exempted shot guns.
+
+(1) Section 1 of the principal Act shall have effect with the following amendments the purpose of which is to require a firearm certificate for certain types of shot gun.
+
+(2) For paragraph (a) of subsection (3) (which exempts shot guns with barrels not less than 24 inches in length) there shall be substituted—
+
+> - (a) a shot gun within the meaning of this Act, that is to say a smooth-bore gun (not being an air gun) which—
+>   - (i) has a barrel not less than 24 inches in length and does not have any barrel with a bore exceeding 2 inches in diameter;
+>   - (ii) either has no magazine or has a non-detachable magazine incapable of holding more than two cartridges; and
+>   - (iii) is not a revolver gun; and
+
+.
+
+(3) After subsection (3) there shall be inserted—
+
+> (3A) A gun which has been adapted to have such a magazine as is mentioned in subsection (3)(a)(ii) above shall not be regarded as falling within that provision unless the magazine bears a mark approved by the Secretary of State for denoting that fact and that mark has been made, and the adaptation has been certified in writing as having been carried out in a manner approved by him, either by one of the two companies mentioned in section 58(1) of this Act or by such other person as may be approved by him for that purpose.
+
+## Shot guns
+
+### 3. Grant and renewal of shot gun certificates.
+
+(1) For section 28(1) of the principal Act (criteria for grant of shot gun certificates) there shall be substituted—
+
+> (1) Subject to subsection (1A) below, a shot gun certificate shall be granted or, as the case may be, renewed by the chief officer of police if he is satisfied that the applicant can be permitted to possess a shot gun without danger to the public safety or to the peace.
+>
+> (1A) No such certificate shall be granted or renewed if the chief officer of police—
+>
+> - (a) has reason to believe that the applicant is prohibited by this Act from possessing a shot gun; or
+> - (b) is satisfied that the applicant does not have a good reason for possessing, purchasing or acquiring one.
+>
+> (1B) For the purposes of paragraph (b) of subsection (1A) above an applicant shall, in particular, be regarded as having a good reason if the gun is intended to be used for sporting or competition purposes or for shooting vermin; and an application shall not be refused by virtue of that paragraph merely because the applicant intends neither to use the gun himself nor to lend it for anyone else to use.
+
+(2) After section 28(2) of the principal Act (form and contents of shot gun certificates) there shall be inserted—
+
+> (2A) A shot gun certificate shall specify the description of the shot guns to which it relates including, if known, the identification numbers of the guns.
+
+### 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c318138]
+
+### 5. Restriction on sale of ammunition for smooth-bore guns.
+
+(1) This section applies to ammunition to which section 1 of the principal Act does not apply and which is capable of being used in a shot gun or in a smooth-bore gun to which that section applies.
+
+(2) It is an offence for a person to sell any such ammunition to another person in the United Kingdom who is neither a registered firearms dealer nor a person who sells such ammunition by way of trade or business unless that other person—
+
+- (a) produces a certificate authorising him to possess a gun of a kind mentioned in subsection (1) above; or
+- (b) shows that he is by virtue of that Act or this Act entitled to have possession of such a gun without holding a certificate; or
+- (c) produces a certificate authorising another person to possess such a gun, together with that person’s written authority to purchase the ammunition on his behalf.
+
+(3) An offence under this section shall be punishable on summary conviction with imprisonment for a term not exceeding six months or a fine not exceeding level 5 on the standard scale or both.
+
+## Converted and de-activated weapons
+
+### 6. Shortening of barrels.
+
+(1) Subject to subsection (2) below, it is an offence to shorten to a length less than 24 inches the barrel of any smooth-bore gun to which section 1 of the principal Act applies other than one which has a barrel with a bore exceeding 2 inches in diameter; and that offence shall be punishable—
+
+- (a) on summary conviction, with imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both;
+- (b) on indictment, with imprisonment for a term not exceeding five years or a fine or both.
+
+(2) It is not an offence under this section for a registered firearms dealer to shorten the barrel of a gun for the sole purpose of replacing a defective part of the barrel so as to produce a barrel not less than 24 inches in length.
+
+### 7. Conversion not to affect classification.
+
+(1) Any weapon which—
+
+- (a)[^c318139] has at any time (whether before or after the passing of the Firearms (Amendment) Act 1997) been a weapon of a kind described in section 5(1) or (1A) of the principal Act (including any amendments to section 5(1) made under section 1(4) of this Act);
+- (b) is not a self-loading or pump-action smooth-bore gun which has at any such time been such a weapon by reason only of having had a barrel less than 24 inches in length,
+
+shall be treated as a prohibited weapon notwithstanding anything done for the purpose of converting it into a weapon of a different kind.
+
+(2) Any weapon which—
+
+- (a) has at any time since the coming into force of section 2 above been a weapon to which section 1 of the principal Act applies; or
+- (b) would at any previous time have been such a weapon if those sections had then been in force,
+
+shall, if it has, or at any time has had, a rifled barrel less than 24 inches in length, be treated as a weapon to which section 1 of the principal Act applies notwithstanding anything done for the purpose of converting it into a shot gun or an air weapon.
+
+(3) For the purposes of subsection (2) above there shall be disregarded the shortening of a barrel by a registered firearms dealer for the sole purpose of replacing part of it so as to produce a barrel not less than 24 inches in length.
+
+### 8. De-activated weapons.[^key-4aa30edfaeec23f573c0bd8ec3661198]
+
+For the purposes of the principal Act and this Act it shall be presumed, unless the contrary is shown, that a firearm has been rendered incapable of discharging any shot, bullet or other missile, and has consequently ceased to be a firearm within the meaning of those Acts, if—
+
+- (a) it bears a mark which has been approved by the Secretary of State for denoting that fact and which has been made either by one of the two companies mentioned in section 58(1) of the principal Act or by such other person as may be approved by the Secretary of State for the purposes of this section; and
+- (b) that company or person has certified in writing that work has been carried out on the firearm in a manner approved by the Secretary of State for rendering it incapable of discharging any shot, bullet or other missile.
+
+### 8A. Controls on defectively deactivated weapons[^key-02fa2de5ca8a1e632f138ec3ed95f173]
+
+(1) It is an offence for a person who owns or claims to own a defectively deactivated weapon—
+
+- (a) to make the weapon available for sale or as a gift to another person, or
+- (b) to sell it or give it (as a gift) to another person.
+
+(2) Subsection (1)(a) does not apply if—
+
+- (a) the weapon is made available for sale or as a gift only to a person who is outside the United Kingdom[^key-0a0967f05a5114ad821bc6f89e1f4949] (or to persons all of whom are outside the United Kingdom), and
+- (b) it is made so available on the basis that, if a sale or gift were to take place, the weapon would be transferred to a place outside the United Kingdom.
+
+(3) Subsection (1)(b) does not apply if—
+
+- (a) the weapon is sold or given to a person who is outside the United Kingdom[^key-d1abec6e320ad2cb3e8ee1b4b21992f5] (or to persons all of whom are outside the United Kingdom), and
+- (b) in consequence of the sale or gift, it is (or is to be) transferred to a place outside the United Kingdom.
+
+(4) For the purpose of this section, something is a “defectively deactivated weapon” if—
+
+- (a) it was at any time a firearm,
+- (b) it has been rendered incapable of discharging any shot, bullet or other missile (and, accordingly, has either ceased to be a firearm or is a firearm only by virtue of the Firearms Act 1982), but
+- (c) it has not been rendered so incapable in a way that meets the technical specifications for the deactivation of the weapon that apply at the time when the weapon is made available for sale or as a gift or (as the case may be) when it is sold or given as a gift.
+
+(5) The Secretary of State must publish a document setting out the technical specifications that apply for the purposes of subsection (4)(c) (“the technical specifications document”).
+
+(6) The technical specifications document may set out different technical specifications for different kinds of weapon.
+
+(7) The Secretary of State—
+
+- (a) may from time to time revise the technical specifications document, and
+- (b) where it is revised—
+  - (i) must publish the document as revised, and
+  - (ii) specify in it the date on which any changes to the technical specifications that apply for the purposes of subsection (4)(c) take effect.
+
+(8) In the case of a weapon rendered incapable as mentioned in subsection (4)(b) before 8 April 2016, subsection (1)(a) or (b) does not apply if the weapon is made available for sale or as a gift, or (as the case may be) sold or given, by or on behalf of a museum in respect of which a museum firearms licence is in force to another museum in respect of which such a licence is in force.
+
+(9) References in this section to “sale” include exchange or barter (and references to sell are to be construed accordingly).
+
+(10) In this section, “museum firearms licence” means a licence granted under the Schedule to the Firearms (Amendment) Act 1988.
+
+(11) A person guilty of an offence under this section is liable—
+
+- (a) on summary conviction—
+  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-e54c463fe6d340c0da3b885a0f018db9] (or, in relation to offences committed before 2 May 2022[^key-ca2c1084e7371e38c581cfe2c45e62ad], 6 months) or to a fine, or to both;
+  - (ii) in Scotland, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding the statutory maximum, or to both;
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 5 years or to a fine, or to both.
+
+## Firearm and shot gun certificates
+
+### 9. Photographs on certificates.
+
+[^c318140]. . . The power conferred by sections 27(2) and 28(2) of [^c318141]that Act to prescribe the form of a firearm or shot gun certificate shall include power to require the certificate to bear a photograph of the holder.
+
+### 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c318142]
+
+### 11. Grant of co-terminous certificates.
+
+(1) Where a person who holds a firearm certificate applies for the grant or renewal of a shot gun certificate that certificate may, if he so requests, be granted or renewed for such period less than that specified in subsection (1), or in an order made under subsection (3) of section 28A[^c318145] of the principal Act as will secure that it ceases to be in force at the same time as the firearm certificate.
+
+(2) Where a person who holds a shot gun certificate, or both such a certificate and a firearm certificate, applies for the grant of a firearm certificate, or for the renewal of the firearm certificate held by him, he may, on surrendering his shot gun certificate, apply for a new shot gun certificate to take effect on the same day as that on which the firearm certificate is granted or renewed.
+
+(3)[^key-a13999a7a511003dae842bfa3378cbad] The following fees shall be payable in the following cases—
+
+- (a) where a shot gun certificate is granted to a person and on the same occasion the person is granted a firearm certificate, the fee payable on the grant of the shot gun certificate shall be £4[^key-4306e2cbbc9ccebde2067b8e2571bd2e] instead of that specified in section 32 of the principal Act;
+- (b) where a shot gun certificate is granted to a person and on the same occasion a firearm certificate held by the person is renewed, the fee payable on the grant of the shot gun certificate shall be £73[^key-a8d5e94957985986901f6dfa7de5d012] instead of that specified in section 32 of the principal Act;
+- (c) where a shot gun certificate held by a person is renewed and on the same occasion the person is granted a firearm certificate, the fee payable on the renewal of the shot gun certificate shall be £4[^key-6a6a90fc845c32f382a339077ba541aa] instead of that specified in section 32 of the principal Act;
+- (d) where a shot gun certificate held by a person is renewed and on the same occasion a firearm certificate held by the person is renewed, the fee payable on the renewal of the shot gun certificate shall be £25[^key-fe707204ef5eea1e1e80c17aea418332] instead of that specified in section 32 of the principal Act.
+
+(4) Subsection (3) above shall be included in the provisions that may be amended by an order under section 43 of the principal Act.
+
+### 12. Revocation of certificates.
+
+(1) Where a certificate is revoked by the chief officer of police under section 30A(2), (3) or (4) or 30C[^c318147] of the principal Act he may by notice in writing require the holder of the certificate to surrender forthwith the certificate and any firearms and ammunition which are in the holder’s possession by virtue of the certificate.
+
+(2) It is an offence to fail to comply with a notice under subsection (1) above; and that offence shall be punishable on summary conviction with imprisonment for a term not exceeding three months or a fine not exceeding level 4 on the standard scale or both.
+
+(3) Where a firearm or ammunition is surrendered in pursuance of a notice under subsection (1) above, then—
+
+- (a) if an appeal against the revocation of the certificate succeeds, the firearm or ammunition shall be returned;
+- (b) if such an appeal is dismissed, the court may make such order for the disposal of the firearm or ammunition as it thinks fit;
+- (c) if no such appeal is brought or such an appeal is abandoned, the firearm or ammunition shall be disposed of—
+  - (i) in such manner as the chief officer of police and the owner may agree; or
+  - (ii) in default of agreement, in such manner as the chief officer may decide;
+
+  but subject, in a case within sub-paragraph (ii), to the provisions of subsection (4) below.
+
+(4) The chief officer of police shall give the owner notice in writing of any decision under subsection (3)(c)(ii) above, the owner may appeal against that decision in accordance with section 44 of the principal Act and on such an appeal the court may either dismiss the appeal or make such order as to the disposal of the firearm or ammunition as it thinks fit.
+
+(5) [^c318148]. . .; and paragraph 1 of Part I and paragraphs 1 to 5 of Part II of Schedule 5 to that Act (appeal jurisdiction and procedure) shall apply to an appeal under subsection (4) above as they apply to an appeal against the revocation of a certificate.
+
+## Firearms dealers and other businesses
+
+### 13. Firearms dealers.
+
+(1) In section 33(5) of the principal Act (annual renewal of dealer’s registration certificate) for the words “on or before 1st June in each year” there shall be substituted the words “on or before the expiration of the period of three years from the grant of the certificate of registration for the time being held by him”.
+
+(2) In section 34 of that Act (grounds for refusal of registration) after subsection (1) there shall be inserted—
+
+> (1A) The chief officer of police may refuse to register an applicant unless he is satisfied that the applicant will engage in business as a firearms dealer to a substantial extent or as an essential part of another trade, business or profession.
+
+(3) In section 38(8) of that Act (dealer to surrender his certificate of registration on being removed from the register) after the words “surrender his certificate of registration” there shall be inserted the words “and the register of transactions kept by him under section 40 of this Act”.
+
+(4) After section 40(3) of that Act (entry of transactions in the register) there shall be inserted—
+
+> (3A) Every person keeping a register in accordance with this section shall (unless required to surrender the register under section 38(8) of this Act) keep it for such a period that each entry made after the coming into force of this subsection will be available for inspection for at least five years from the date on which it was made.
+
+(5) In the Table in Part I of Schedule 6 to that Act (punishments for offences) in the second column of the entry relating to section 38(8), after the words “certificate of registration” there shall (in consequence of subsection (3) above) be inserted the words “or register of transactions”.
+
+### 14. Auctioneers, carriers and warehousemen.
+
+(1) It is an offence for an auctioneer, carrier or warehouseman—
+
+- (a) to fail to take reasonable precautions for the safe custody of any firearm or ammunition which, by virtue of section 9(1) of the principal Act, he or any servant of his has in his possession without holding a certificate; or
+- (b) to fail to report forthwith to the police the loss or theft of any such firearm or ammunition.
+
+(2) An offence under this section shall be punishable on summary conviction with imprisonment for a term not exceeding six months or a fine not exceeding level 5 on the standard scale or both.
+
+## Exemptions
+
+### 15. Approved rifle clubs and muzzle-loading pistol clubs.[^c318169][^c318168]
+
+(1) Subject to subsection (4) below, a member of a rifle club approved by the Secretary of State or the Scottish Ministers (by virtue of provision made under section 63 of the Scotland Act 1998)[^c318170] may, without holding a firearm certificate, have in his possession a rifle , ammunition and a relevant accessory[^key-97189a52024912c9c8d2f1f8b47783f3] when engaged as a member of the club in connection with target shooting.
+
+(2) Any rifle club may apply for approval, whether or not it is intended that any club members will, by virtue of subsection (1) above, have rifles , ammunition or relevant accessories[^key-47a2a88ef75ffad34bd76871bd125ce9] in their possession without holding firearm certificates.
+
+(3) The Secretary of State may publish such guidance as he considers appropriate for the purpose of informing those seeking approval for a club of criteria that must be met before any application for such approval will be considered.
+
+(4) The application of subsection (1) above to members of an approved rifle club may—
+
+- (a) be excluded in relation to the club, or
+- (b) be restricted to target shooting with specified types of rifle,
+
+by limitations contained in the approval.
+
+(5) An approval—
+
+- (a) may be granted subject to such conditions specified in it as the Secretary of State thinks or, as the case may be, the Scottish Ministers think[^c318171] fit;
+- (b) may at any time be varied or withdrawn by the Secretary of State or, as the case may be, the Scottish Ministers; and
+- (c) shall (unless withdrawn) continue in force for six years from the date on which it is granted or last renewed.
+
+(6)[^key-42d14cc9f93b72a3e5b9df1947847628] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) A constable or civilian officer authorised in writing in that behalf may, on producing if required his authority, enter any premises occupied or used by an approved rifle club and inspect those premises, and anything on them, for the purpose of ascertaining whether the provisions of this section, and any limitations or conditions in the approval, are being complied with.
+
+(8) The power of a constable or civilian officer under subsection (7) above to inspect anything on club premises shall include power to require any information which is kept by means of a computer and is accessible from the premises to be made available for inspection in a visible and legible form.
+
+(9) It is an offence for a person intentionally to obstruct a constable or civilian officer in the exercise of his powers under subsection (7) above; and that offence shall be punishable on summary conviction with a fine not exceeding level 3 on the standard scale.
+
+(10) In this section and section 15A below—
+
+- “ **approval** ”, means an approval under this section; and “ **approved** ” shall be construed accordingly;
+- “ **civilian officer** ” has the same meaning as in the principal Act; and
+- “ **rifle club** ” includes a miniature rifle club.
+
+(11) This section applies in relation to a muzzle-loading pistol club and its members as it applies to a rifle club and its members with the substitution for any reference to a rifle of a reference to a muzzle-loading pistol.
+
+(12) In subsection (11) above—
+
+- “ **muzzle-loading pistol club** ” means a club where muzzle-loading pistols are used for target shooting; and
+- “ **muzzle-loading pistol** ” means a pistol designed to be loaded at the muzzle end of the barrel or chamber with a loose charge and a separate ball (or other missile).
+
+### 15A. Coterminous pistol club licences and rifle club approvals.[^c1602170]
+
+**May not be in force at this date. Check the source.**
+
+(1) Where an application is made on behalf of a club which is approved under section 15 above for the grant or renewal of a pistol club licence, the officer of the club making the application may also apply for the club’s approval to be withdrawn and replaced by a new approval taking effect on the same day as that on which the licence is granted or renewed.
+
+(2) Where an application is made on behalf of a club which has a pistol club licence for the grant or renewal of approval under section 15 above, that approval may, if the club so requests, be granted or renewed for such period less than six years as will secure that it expires at the same time as the licence.
+
+(3) The fee payable on the grant or renewal of an approval which—
+
+- (a) takes effect, whether by virtue of subsection (1) above or otherwise, at the same time as a pistol club licence granted or renewed in respect of that club, or
+- (b) is granted or renewed by virtue of subsection (2) above for a period less than six years,
+
+shall be £21 instead of that specified in section 15(6) above.
+
+This subsection shall be included in the provisions that may be amended by an order under section 43 of the principal Act.
+
+(4) In this section “ **pistol club licence** ” means a licence under section 21 of the Firearms (Amendment) Act 1997.
+
+### 15B. Fees in connection with approvals under section 15[^key-a9f23e249c88084afc5025edafd8282f]
+
+(1) The Secretary of State may by regulations authorise the appropriate national authority to require payment of a fee before an approval under section 15 is granted, varied or renewed.
+
+(2) Regulations under subsection (1) must specify the amount of any fee that may be charged.
+
+(3) The regulations may make different provision for different cases (including specifying different fees for different cases).
+
+(4) The regulations may include—
+
+- (a) incidental, supplementary or consequential provision;
+- (b) transitional, transitory or saving provision.
+
+(5) Regulations under this section are to be made by statutory instrument.
+
+(6) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) In this section, “the appropriate national authority” means—
+
+- (a) in or as regards England and Wales, the Secretary of State;
+- (b) in or as regards Scotland, the Scottish Ministers.
+
+### 16. Borrowed rifles on private premises.[^key-d19df114d17e999164c1e61c24439823]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16A. Possession of firearms on service premises.[^c318163]
+
+(1) A person under the supervision of a member of the armed forces may, without holding a certificate or obtaining the authority of the Secretary of State under section 5 of the principal Act, have in his possession a firearm , ammunition and a relevant accessory[^key-be3930744402f76a242f117dd8bebff5] on service premises.
+
+(2) Subsection (1) above does not apply to a person while engaged in providing security protection on service premises.
+
+(3) In this section—
+
+- “ **armed forces** ” means any of the naval, military or air forces of Her Majesty; and
+- “ **service premises** ” means premises, including any ship or aircraft, used for any purpose of the armed forces.
+
+### 16B. Possession of firearms on Ministry of Defence Police premises[^c444744]
+
+(1) A person who is being trained or assessed in the use of firearms under the supervision of a member of the Ministry of Defence Police may, without holding a certificate or obtaining the authority of the Secretary of State under section 5 of the principal Act, have in his possession a firearm , ammunition and a relevant accessory[^key-1e039b3ab9e4a4b451b108ed8a7bcc77] on relevant premises for the purposes of the training or assessment.
+
+(2) In this section “ **relevant premises** ” means premises used for any purpose of the Ministry of Defence Police.
+
+### 17. Visitors’ permits.
+
+(1) The holder of a visitor’s firearm permit may, without holding a firearm certificate, have in his possession any firearm, and have in his possession, purchase or acquire any ammunition, to which section 1 of the principal Act applies; and (subject to subsection (1A) below)[^c318178] the holder of a visitor’s shot gun permit may, without holding a shot gun certificate, have shot guns in his possession and purchase or acquire shot guns.
+
+(1ZA)[^key-4e3a4ceb7e49ea63cff358769571d1fd] The holder of a visitor’s firearm permit may, without holding a firearm certificate, have in their possession a relevant accessory.”
+
+(1A)[^c318179] A visitor’s shot gun permit shall not authorise the purchase or acquisition by any person of any shot gun with a magazine except where—
+
+- (a) that person is for the time being the holder of a licence granted, for the purposes of any order made under section 1 of the Import, Export and Customs Powers (Defence) Act 1939, in respect of the exportation of that shot gun;
+- (b) the shot gun is to be exported from Great Britain [^key-49eb27d9405bd2c849698e2568b75e82]...; or[^key-441cdaa95dc49b143379c7f577b804cd]
+- (c) the shot gun is acquired on terms which restrict that person’s posession of the gun to the whole or a part of the period of his visit to Great Britain and preclude the removal of the gun from Great Britain; [^key-e1031d81ade38c74d6da447d2f3f3ea6]...
+- (d)[^key-e1031d81ade38c74d6da447d2f3f3ea6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The chief officer of police for an area may, on an application in the prescribed form made by a person resident in that area on behalf of a person specified in the application, grant a permit under this section to the specified person if satisfied that he is visiting or intending to visit Great Britain and—
+
+- (a) in the case of a visitor’s firearm permit, that he has a good reason for having each firearm and the ammunition to which the permit relates in his possession, or, as respects ammunition, for purchasing or acquiring it, while he is a visitor to Great Britain;
+- (b) in the case of a visitor’s shot gun permit, that he has a good reason for having each shot gun to which the permit relates in his possession, or for purchasing or acquiring it, while he is such a visitor.
+
+(3) No permit shall be granted under this section to a person if the chief officer of police has reason to believe—
+
+- (a) that his possession of the weapons or ammunition in question would represent a danger to the public safety or to the peace; or
+- (b) that he is prohibited by the principal Act from possessing them.
+
+(3A)[^key-7db884ab7e0de1d95428457396b7dd1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) A permit under this section shall be in the prescribed form, shall specify the conditions subject to which it is held and—
+
+- (a) in the case of a visitor’s firearm permit, shall specify the number and description of the firearms to which it relates, including their identification numbers, and, as respects ammunition, the quantities authorised to be purchased or acquired and to be held at any one time;
+- (b) in the case of a visitor’s shot gun permit, shall specify the number and description of the shot guns to which it relates, including, if known, their identification numbers.
+
+(5) The chief officer of police by whom a permit under this section is granted may by notice in writing to the holder vary the conditions subject to which the permit is held but, in the case of a visitor’s shot gun permit, no condition shall be imposed or varied so as to restrict the premises where the shot gun or guns to which the permit relates may be used.
+
+(6) A permit under this section shall come into force on such date as is specified in it and continue in force for such period, not exceeding twelve months, as is so specified.
+
+(7) A single application (a “group application”) may be made under this section for the grant of not more than twenty permits to persons specified in the application if it is shown to the satisfaction of the chief officer of police that their purpose in having the weapons in question in their possession while visiting Great Britain is—
+
+- (a) using them for sporting purposes on the same private premises during the same period; or
+- (b) participating in the same competition or other event or the same series of competitions or other events.
+
+(8) There shall be payable on the grant of a permit under this section a fee of £48[^key-8bb743df837d7a1a1bac9d5cb5ae9ebb] except that where six or more permits are granted on a group application the fee shall be £240[^key-43e155c44eac748b9edea3186cb0ae86] in respect of those permits taken together.
+
+(9) Subsection (8) above shall be included in the provisions that may be amended by an order under section 43 of the principal Act.
+
+(10) It is an offence for a person—
+
+- (a) knowingly or recklessly to make a statement false in any material particular[^c318181] for the purpose of procuring the grant of a permit under this section; or
+- (b) to fail to comply with a condition subject to which such a permit is held by him;
+
+and each of those offences shall be punishable on summary conviction with imprisonment for a term not exceeding six months or a fine not exceeding level 5 on the standard scale or both.
+
+### 18. Firearms acquired for export.
+
+(1) A person may, without holding a firearm or shot gun certificate, purchase a firearm from a registered firearms dealer if—
+
+- (a) that person has not been in Great Britain for more than thirty days in the preceding twelve months; and
+- (b) the firearm is purchased for the purpose only of being exported from Great Britain without first coming into that person’s possession.
+
+(1A)[^key-638c75e5908474749383d4a1dcfa3032] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) A registered firearms dealer who sells a firearm to a person who shows that he is entitled by virtue of subsection (1) above to purchase it without holding a certificate shall within forty-eight hours from the transaction send a notice of the transaction to the chief officer of police in whose register the premises where the transaction took place are entered.
+
+(3) The notice of a transaction under subsection (2) above shall contain the particulars of the transaction which the dealer is required to enter in the register kept by him under section 40 of the principal Act and every such notice shall be sent by permitted means[^key-98c285cb75deef8654fe62be6fc81467].
+
+(4) In the case of a transaction to which subsection (2) above applies the particulars to be entered in the register kept under section 40 of the principal Act (and accordingly contained in a notice under subsection (3) above) shall include the number and place of issue of the purchaser’s passport, if any [^key-85d3dd4869c7b990d25116eb95566f49]....
+
+(4A)[^key-e7c825e28875dad2aeb983428d1baabd]  A notice is sent by permitted means for the purposes of subsection (3) if it is sent—
+
+- (a) by registered post;
+- (b) by the recorded delivery service; or
+- (c) by permitted electronic means (see section 18B).
+
+(5) It is an offence for a registered firearms dealer to fail to comply with subsection (2) above; and that offence shall be punishable on summary conviction with imprisonment for a term not exceeding six months or a fine not exceeding level 5 on the standard scale or both.
+
+(6)[^key-5c2c917316f33af1331b87ed5db05050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18A. Purchase or acquisition of firearms in other member States.[^key-11e4521b0a2dbb83c6b67bf07e4c8079]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18B. Permitted electronic means[^key-0f71a369be44e3d157bb25e70ba7db2b]
+
+(1)  A notice is sent by permitted electronic means for the purposes of section 18 [^key-2d9b4ee3aa774b258db02542931627dd]... if—
+
+- (a) it is sent by an electronic form of communication which the Secretary of State has directed may be used for the purposes of that section[^key-c640e638453d65ed7dd36c300070972a],
+- (b) it is sent to the electronic address which has been published pursuant to subsection (4), and
+- (c) subject to subsection (6), the electronic address has not been withdrawn in accordance with subsection (5).
+
+(2)  Before giving a direction under subsection (1)(a), the Secretary of State must consult—
+
+- (a) the Scottish Ministers,
+- (b) the National Police Chiefs’ Council[^key-662f5d7932b9dc2ae4ca618597e34b74] ,
+- (c)[^key-a84207c98db84dae2076644ba90b4bfe] the chief constable of the Police Service of Scotland, and
+- (d) such other persons as the Secretary of State is satisfied should be consulted.
+
+(3) The Secretary of State must publish directions given under subsection (1)(a).
+
+(4) A chief officer of police must publish at least one electronic address for each form of electronic communication specified in a direction under subsection (1)(a).
+
+(5) A chief officer of police may withdraw an electronic address published under subsection (4) by publishing a statement to that effect in the same manner as that in which the electronic address was published under subsection (4); but a chief officer of police may exercise the power to withdraw only if, after the withdrawal, there will still be at least one electronic address available for the form of electronic communication concerned.
+
+(6) Where an electronic address has been withdrawn under subsection (5), a notice sent to that electronic address before the end of the period of 28 days beginning with the day after the date of withdrawal is to be treated as complying with subsection (1)(b).
+
+### 19. Firearms and ammunition in museums.[^c318186]
+
+The Schedule to this Act shall have effect for exempting firearms and ammunition in museums from certain provisions of the principal Act.
+
+## Miscellaneous and supplementary
+
+### 20. Removal of arms and ammunition to Northern Ireland.
+
+(1) Section 6 of the principal Act (power to control movement of arms and ammunition) shall be amended as follows.
+
+(2) After subsection (1) there shall be inserted—
+
+> (1A) The Secretary of State may by order prohibit the removal of firearms or ammunition from Great Britain to Northern Ireland unless—
+>
+> - (a) the removal is authorised by the chief officer of police for the area from which they are to be removed and by the Chief Constable of the Royal Ulster Constabulary; and
+> - (b) such conditions as may be specified in the order or imposed by the chief officer of police or the Chief Constable are complied with.
+
+(3) Paragraph (b) of subsection (1) (which is superseded by the new subsection (1A)) shall be omitted.
+
+### 21. Payments in respect of prohibited weapons.
+
+The Secretary of State shall, in accordance with a scheme made by him, make payments to persons who surrender or otherwise dispose of firearms—
+
+- (a) which they had, and were entitled to have, in their possession immediately before 23rd September 1987 by virtue of firearm or shot gun certificates held by them; or
+- (b) which before that date they had contracted to acquire and were entitled to have in their possession on or after that date by virtue of such certificates held by them,
+
+and the possession of which will become, or has become, unlawful by virtue of section 1(2) or 7(1) above.
+
+### 22. Firearms consultative committee.
+
+(1) There shall be established in accordance with the provisions of this section a firearms consultative committee consisting of a chairman and not less than twelve other members appointed by the Secretary of State, being persons appearing to him to have knowledge and experience of one or more of the following matters—
+
+- (a) the possession, use or keeping of, or transactions in, firearms;
+- (b) weapon technology; and
+- (c) the administration or enforcement of the provisions of the Firearms Acts 1968 to 1997[^c318188].
+
+(2) The reference in subsection (1)(a) above to the use of firearms includes in particular a reference to their use for sport or competition.
+
+(3) Subject to subsection (4) below, a member of the committee shall hold and vacate office in accordance with the terms of his appointment.
+
+(4) Any member of the committee may resign by notice in writing to the Secretary of State; and the chairman may by such a notice resign his office as such.
+
+(5) It shall be the function of the committee—
+
+- (a) to keep under review the working of the provisions mentioned in subsection (1)(c) above and to make to the Secretary of State such recommendations as the committee may from time to time think necessary for the improvement of the working of those provisions;
+- (b) to make proposals for amending those provisions if it thinks fit; and
+- (c) to advise the Secretary of State on any other matter relating to those provisions which he may refer to the committee.
+
+(6) The committee shall in each year make a report on its activities to the Secretary of State who shall lay copies of the report before Parliament.
+
+(7) The Secretary of State may make to members of the committee such payments as he may determine in respect of expenses incurred by them in the performance of their duties.
+
+(8) The committee shall cease to exist at the end of the period of five years beginning with the day on which this section comes into force unless the Secretary of State provides by an order made by statutory instrument for it to continue thereafter, but no such order shall continue the committee for more than three years at a time.
+
+### 23. Minor and consequential amendments and repeals.
+
+(1) In section 4 of the principal Act (conversion of weapons) in subsection (4), for the words “converted contrary to subsection (3) above” there shall be substituted the words “converted as mentioned in subsection (3) above”.
+
+(2) In section 12(2) of that Act (exemption for theatrical etc. performances) for the words “such a firearm as is described in section 5(1)(a) of this Act” there shall be substituted the words “a prohibited weapon” and for the words “the firearm” there shall be substituted the words “the weapon”.
+
+(3) In sections 13(1)(c), 40(4) and 49(1) of that Act (which refer to officers of police) for the words “an officer of police”, wherever occurring, there shall be substituted the words “a constable”.
+
+(4) In sections 22(2) and 24(2)(b) of that Act (exemption for minors in cases to which section 11(3) applies) after the words “of this Act” there shall be inserted the words “or section 15 of the Firearms (Amendment) Act 1988” and in section 23(2)(a) of that Act (which contains a similar exemption) for the words “section 11(3) of this Act” there shall be substituted the words “section 15 of the Firearms (Amendment) Act 1988”.
+
+(5) In section 27(2) of that Act (matters to be specified in firearm certificate) after the words “the nature and number of the firearms to which it relates” there shall be inserted the words “, including if known their identification numbers,” and after the word “purchased” there shall be inserted the words “or acquired”.
+
+(6) In subsection (1) of section 42 of that Act (transferor of firearm to which section 1 applies to give notice of transaction to a chief officer of police) for the words “forty-eight hours” there shall be substituted the words “seven days” and after that subsection there shall be inserted—
+
+> (1A) The notice under subsection (1) above shall contain a description of the firearm (giving the identification number if any) and state the nature of the transaction and the name and address of the other person concerned.
+
+(7) In Part I of Schedule 6 to that Act (penalties), in the entry relating to section 9(3) (false statement to obtain permit for auction of firearms) for columns 3 and 4 there shall be substituted the following—
+
+> |  |  |  |  |
+> | --- | --- | --- | --- |
+> |  |  | Summary | 6 months or a fine not exceeding level 5 on the standard scale; or both. |
+
+(8) Section 14 of that Act (persons temporarily in Great Britain) is hereby repealed.
+
+### 24. Expenses and receipts.
+
+(1) Any administrative expenses incurred by the Secretary of State under section 15 or 22 above or the Schedule to this Act and any sums required by him for making payments under section 21 or 22 above shall be paid out of money provided by Parliament.
+
+(2) Any fees received by the Secretary of State under section 15 above or the Schedule to this Act shall be paid into the Consolidated Fund.
+
+### 25. Interpretation and supplementary provisions.
+
+(1) In this Act “**the principal Act**” means the [^c318190]Firearms Act 1968 and any expression which is also used in that Act has the same meaning as in that Act.
+
+(2) In section 57 of the principal Act (definitions) after subsection (2) there shall be inserted—
+
+> (2A) In this Act “**self-loading**” and “**pump-action**” in relation to any weapon mean respectively that it is designed or adapted (otherwise than as mentioned in section 5(1)(a)) so that it is automatically re-loaded or that it is so designed or adapted that it is re-loaded by the manual operation of the fore-end or forestock of the weapon.
+>
+> (2B) In this Act “**revolver**”, in relation to a smooth-bore gun, means a gun containing a series of chambers which revolve when the gun is fired.
+
+(3) In section 57(4) of the principal Act after the definition of “registered” there shall be inserted—
+
+> “**rifle**” includes carbine;
+
+.
+
+(4) Any reference in the principal Act to a person who is by virtue of that Act entitled to possess, purchase or acquire any weapon , ammunition or relevant accessory[^key-52d44965d9c13851cdebc4864e72b1d5] without holding a certificate shall include a reference to a person who is so entitled by virtue of any provision of this Act.
+
+(5) Sections 46, 51(4) and 52 of the principal Act (powers of search, time-limit for prosecutions and forfeiture and cancellation orders on conviction) shall apply also to offences under this Act except that on the conviction of a person for an offence under the Schedule to this Act no order shall be made for the forfeiture of anything in his possession for the purposes of the museum in question.
+
+(6) Sections 53 to 56 and section 58 of the principal Act (rules, Crown application, service of notices and savings) shall have effect as if this Act were contained in that Act.
+
+(7) The provisions of this Act other than sections 15 and 17 shall be treated as contained in the principal Act for the purposes of the [^c318191]Firearms Act 1982 (imitation firearms readily convertible into firearms to which section 1 of the principal Act applies).
+
+### 26. Corresponding provisions for Northern Ireland.
+
+(1) An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^c318192]Northern Ireland Act 1974 (legislation for Northern Ireland in the interim period) which states that it is made only for purposes corresponding to those of the provisions of this Act to which this section applies—
+
+- (a) shall not be subject to paragraph 1(4) and (5) of that Schedule (affirmative resolution of both Houses of Parliament); but
+- (b) shall be subject to annulment in pursuance of a resolution of either House.
+
+(2) This section applies to—
+
+- (a) section 1(1), (2) and (3);
+- (b) section 9;
+- (c) section 13(1), (3) and (5);
+- (d) section 14;
+- (e) section 15(5) and (6);
+- (f) section 23(2);
+- (g) section 25(1), (2), (5), (6) and (7).
+
+### 27. Short title, citation, commencement and extent.
+
+*Extent: E+W+S+N.I.*
+
+(1) This Act may be cited as the Firearms (Amendment) Act 1988.
+
+(2) This Act and the Firearms Acts 1968 and 1982 may be cited together as the Firearms Acts 1968 to 1988.
+
+(3)[^c318193] Except for section 26 and this section the provisions of this Act shall not come into force until such day as the Secretary of State may appoint by an order made by statutory instrument; and any such order may appoint different days for different provisions or different purposes and contain such transitional provisions as appear to the Secretary of State to be necessary or expedient in connection with any provision brought into force.
+
+(4) Except for section 1, so far as enabling provision to be made amending the Customs and Excise Management Act 1979, and[^key-29fa63711c316f560469d72de0c09f7b] section 26 and this section this Act does not extend to Northern Ireland.
+
+*Extent: E+W+S*
+
+## SCHEDULE — Firearms and Ammunition in Museums[^c318194]
+
+Section 19.
+
+### Museum firearms licences
+
+**1.** (1) The Secretary of State may, on an application in writing made on behalf of a museum to which this Schedule applies, grant a museum firearms licence in respect of that museum.
+
+(2) While a museum firearms licence (in this Schedule referred to as a “**licence**”) is in force in respect of a museum the persons responsible for its management and their servants—
+
+- (a) may, without holding a firearm certificate or shot gun certificate, have in their possession, and purchase or acquire, for the purposes of the museum firearms , ammunition and relevant accessories[^key-e2e6e579832a1c576b0e2de43e07c03d] which are or are to be normally exhibited or kept on its premises or on such of them as are specified in the licence; and
+- (b) if the licence so provides, may, without the authority of the Secretary of State or the Scottish Ministers (by virtue of provision made under section 63 of the Scotland Act 1998)[^c318195] under section 5 of the principal Act, have in their possession, purchase or acquire for those purposes any prohibited weapons and ammunition which are or are to be normally exhibited or kept as aforesaid.
+
+(3) The Secretary of State or the Scottish Ministers (by virtue of provision made under section 63 of the Scotland Act 1998)[^c318196] shall not grant a licence in respect of a museum unless, after consulting the chief officer of police for the area in which the premises to which the licence is to apply are situated, he or they is satisfied that the arrangements for exhibiting and keeping the firearms , ammunition and relevant accessories[^key-5b40a1e843e64cc2329ba6f9b71b95c1] in question are or will be such as not to endanger the public safety or the peace.
+
+(4) A licence shall be in writing and be subject to such conditions specified in it as the Secretary of State thinks necessary or the Scottish Ministers (by virtue of provision made under section 63 of the Scotland Act 1998) think necessary[^c318198] for securing the safe custody of the firearms , ammunition and relevant accessories[^key-dcfc904723b82818c233de5f00504aa3] in question.
+
+(5) A licence shall, unless previously revoked or cancelled, continue in force for five years from the date on which it is granted but shall be renewable for further periods of five years at a time and sub-paragraph (3) above shall apply to the renewal of a licence as it applies to a grant.
+
+(6) The Secretary of State may by order substitute for the periods mentioned in sub-paragraph (5) above such longer or shorter periods as are specified in the order.
+
+(7) The power to make an order under sub-paragraph (6) above shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### Variation and revocation
+
+**2.** (1) The Secretary of State may by notice in writing to the persons responsible for the management of a museum—
+
+- (a) vary the conditions specified in a licence held in respect of the museum; or
+- (b) vary the licence so as to extend or restrict the premises to which it applies.
+
+(2) A notice under sub-paragraph (1) above may require the persons in question to deliver up the licence to the Secretary of State or, in the case of a notice given by them (by virtue of provision made under section 63 of the Scotland Act 1998), the Scottish Ministers[^c318199] within twenty-one days of the date of the notice for the purpose of having it amended in accordance with the variation.
+
+(3) The Secretary of State may by notice in writing to the persons responsible for the management of a museum revoke a licence held in respect of the museum if—
+
+- (a) at any time, after consulting the chief officer of police for the area in which the premises to which it applies are situated, he is satisfied that the continuation of the exemption conferred by the licence would result in danger to the public safety or to the peace; or
+- (b) those persons or any of them or any servant of theirs has been convicted of an offence under this Schedule; or
+- (c) those persons have failed to comply with a notice under this paragraph requiring them to deliver up the licence.
+
+(4) Where a licence is revoked the Secretary of State or, in the case of a revocation made by them (by virtue of provision made under section 63 of the Scotland Act 1998), the Scottish Ministers[^c318200] shall by notice in writing require the persons responsible for the management of the museum in question to surrender the licence to him or them.
+
+### Fees
+
+**3.**[^key-46ba4735f8f533838415b38032ce7869] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3A.**[^key-b090e5f1e844ca94469b35d30844b4c8] (1) The Secretary of State may by regulations authorise the appropriate national authority to require payment of a fee before a licence is granted, varied or renewed.
+
+(2) Regulations under sub-paragraph (1) must specify the amount of any fee that may be charged.
+
+(3) The regulations may make different provision for different cases (including specifying different fees for different cases).
+
+(4) The regulations may include—
+
+- (a) incidental, supplementary or consequential provision;
+- (b) transitional, transitory or saving provision.
+
+(5) Regulations under this paragraph are to be made by statutory instrument.
+
+(6) A statutory instrument containing regulations under this paragraph is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) In this section, “the appropriate national authority” means—
+
+- (a) in or as regards England and Wales, the Secretary of State;
+- (b) in or as regards Scotland, the Scottish Ministers.
+
+### Offences and enforcement
+
+**4.** (1) It is an offence—
+
+- (a) for a person knowingly or recklessly to make a statement false in any material particular[^c318202] for the purpose of procuring the grant, renewal or variation of a licence;
+- (b) for the persons or any of the persons responsible for the management of a museum to fail to comply or to cause or permit another person to fail to comply with any condition specified in the licence held in respect of that museum.
+
+(2) An offence under sub-paragraph (1) above shall be punishable on summary conviction with imprisonment for a term not exceeding six months or a fine not exceeding level 5 on the standard scale or both.
+
+(3) It is an offence for a person to fail to comply with a notice under paragraph 2(4) above; and that offence shall be punishable on summary conviction with a fine not exceeding level 3 on the standard scale.
+
+(4) In proceedings against any person for an offence under sub-paragraph (1)(b) above it is a defence for him to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+(5) Where an offence under this paragraph committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and be liable to be proceeded against and punished accordingly.
+
+(6) Where the affairs of a body corporate are managed by its members sub-paragraph (5) above shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+### Museums to which this Schedule applies
+
+**5.** (1)[^c318207] This Schedule applies to the following museums—
+
+- The Armouries, H.M. Tower of London
+- The National Army Museum
+- The National Museum of Wales
+- The Royal Air Force Museum
+- The Science Museum
+- The Victoria and Albert Museum
+- The Royal Marines Museum
+- The Fleet Air Arm Museum
+- The Royal Navy Museum
+- The Royal Navy Submarine Museum
+- The British Museum
+- The Imperial War Museum
+- The National Maritime Museum
+- The National Museums of Scotland
+- The National Museums and Galleries on Merseyside
+- The Wallace Collection
+- Any other museum or similar institution in Great Britain which has as its purpose, or one of its purposes, the preservation for the public benefit of a collection of historical, artistic or scientific interest which includes or is to include firearms and which is maintained wholly or mainly out of money provided by Parliament or by a local authority.
+
+(2)[^c318208] This Schedule also applies to any museum or similar institution in Great Britain which is of a description specified in an order made for the purposes of this sub-paragraph by the Secretary of State or the Scottish Ministers (by virtue of provision made under section 63 of the Scotland Act 1998)[^c318209] and whose collection includes or is to include firearms.
+
+(3)[^c318208] An order under sub-paragraph (2) above may specify any description of museum or similar institution which appears to the Secretary of State or, as the case may be, the Scottish Ministers[^c318211] to have as its purpose, or one of its purposes, the preservation for the public benefit of a collection of historical, artistic or scientific interest.
+
+(4)[^c318208] The power to make an order under sub-paragraph (2) above shall be exercisable by statutory instrument.
+
+### Interpretation
+
+**6.** In this Schedule references to the persons responsible for the management of a museum are to the board of trustees, governing body or other person or persons (whether or not incorporated) exercising corresponding functions.
+
+## Annotations
+
+[^c318135]: Modification: Act applied (E.W.S.) (1.7.1997) by [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [s. 50(2)](https://www.legislation.gov.uk/ukpga/1997/5/section/50/2); [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [art. 3(b)](https://www.legislation.gov.uk/uksi/1997/1535/article/3/b), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/I)
+
+[^c318136]: Commencement: Act partly in force at Royal Assent see [s. 27(3)](https://www.legislation.gov.uk/ukpga/1988/45/section/27/3); Act wholly in force at 2.4.1991.
+
+[^c318137]: Marginal citation: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27).
+
+[^key-9c148759ccec88af3957404c43cfc46b]: Textual amendment: Word in s. 1(4)(a) repealed (20.1.2004) by [Anti-social Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 39(6)(a)](https://www.legislation.gov.uk/ukpga/2003/38/section/39/6/a), [93](https://www.legislation.gov.uk/ukpga/2003/38/section/93), [Schs. 3](https://www.legislation.gov.uk/ukpga/2003/38/schedule/3); [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 2(c)(g)(ii)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/c/g/ii)[(iii)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/c/iii)
+
+[^key-faa31cc4e38396dc565ac22194e50f11]: Textual amendment: S. 1(4)(c) and word inserted (20.1.2004) by [Anti-social Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 39(6)(a)](https://www.legislation.gov.uk/ukpga/2003/38/section/39/6/a), [93](https://www.legislation.gov.uk/ukpga/2003/38/section/93); [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/c/iii)
+
+[^key-461bf2a25c18e553e22ff303799dbbc1]: Textual amendment: S. 1(4A) inserted (20.1.2004) by [Anti-social Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 39(6)(b)](https://www.legislation.gov.uk/ukpga/2003/38/section/39/6/b), [93](https://www.legislation.gov.uk/ukpga/2003/38/section/93); [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/c/iii)
+
+[^key-07f7fbe681f3205206fb2eb3bc7c97c4]: Textual amendment: S. 1(4A)(bb)(bc) inserted (22.1.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 32 para. 49](https://www.legislation.gov.uk/ukpga/2003/44/schedule/32/paragraph/49); [S.I. 2004/81](https://www.legislation.gov.uk/uksi/2004/81), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/81/article/3/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2004/81/article/3/2/d)
+
+[^key-428897365194cf9b26fc5eb539a5686d]: Textual amendment: Words in [s. 1(4A)(bb)](https://www.legislation.gov.uk/ukpga/1988/45/section/1/4A/bb) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 94(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/94/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^key-06a77815ad681d66b721331c950f3eff]: Textual amendment: [S. 1(4B)](https://www.legislation.gov.uk/ukpga/1988/45/section/1/4B) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 94(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/94/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+
+[^c318138]: Textual amendment: S. 4 repealed (1.10.1997) by [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [s. 52(2)](https://www.legislation.gov.uk/ukpga/1997/5/section/52/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/5/schedule/3); [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [art. 3(c)](https://www.legislation.gov.uk/uksi/1997/1535/article/3/c), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/II)
+
+[^c318139]: Textual amendment: S. 7(1)(a) substituted (1.7.1997) by [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [s. 52(1)](https://www.legislation.gov.uk/ukpga/1997/5/section/52/1), [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/1997/5/schedule/2/paragraph/16); [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [art. 3(b)](https://www.legislation.gov.uk/uksi/1997/1535/article/3/b), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/I)
+
+[^key-4aa30edfaeec23f573c0bd8ec3661198]: Modification: S. 8 applied (1.10.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 38(10)](https://www.legislation.gov.uk/ukpga/2006/38/section/38/10), [66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2); [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(g)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/g)
+
+[^key-02fa2de5ca8a1e632f138ec3ed95f173]: Textual amendment: S. 8A inserted (31.1.2017 for specified purposes, 2.5.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 128](https://www.legislation.gov.uk/ukpga/2017/3/section/128), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/d)
+
+[^key-0a0967f05a5114ad821bc6f89e1f4949]: Textual amendment: Words in [s. 8A(2)](https://www.legislation.gov.uk/ukpga/1988/45/section/8A/2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [61(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/61/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d1abec6e320ad2cb3e8ee1b4b21992f5]: Textual amendment: Words in [s. 8A(3)](https://www.legislation.gov.uk/ukpga/1988/45/section/8A/3) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [61(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/61/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e54c463fe6d340c0da3b885a0f018db9]: Textual amendment: Words in [s. 8A(11)(a)(i)](https://www.legislation.gov.uk/ukpga/1988/45/section/8A/11/a/i) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+
+[^key-ca2c1084e7371e38c581cfe2c45e62ad]: Textual amendment: Words in [s. 8A(11)(a)(i)](https://www.legislation.gov.uk/ukpga/1988/45/section/8A/11/a/i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+
+[^c318140]: Textual amendment: Words in s. 9 repealed (1.7.1997) by [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [s. 52(2)](https://www.legislation.gov.uk/ukpga/1997/5/section/52/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/5/schedule/3); [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [art. 3(b)](https://www.legislation.gov.uk/uksi/1997/1535/article/3/b), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/I)
+
+[^c318141]: Editorial: The repealed words at the beginning of s. 9 contained a reference to the principal Act.
+
+[^c318142]: Textual amendment: S. 10 repealed (1.7.1997) by [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [s. 52(2)](https://www.legislation.gov.uk/ukpga/1997/5/section/52/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/5/schedule/3); [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [art. 3(b)](https://www.legislation.gov.uk/uksi/1997/1535/article/3/b), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/I)
+
+[^c318145]: Textual amendment: Words in s. 11(1) substituted (1.7.1997) by virtue of [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [s. 52(1)](https://www.legislation.gov.uk/ukpga/1997/5/section/52/1), [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/1997/5/schedule/2/paragraph/17); [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [art. 3(b)](https://www.legislation.gov.uk/uksi/1997/1535/article/3/b), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/I)
+
+[^key-a13999a7a511003dae842bfa3378cbad]: Textual amendment: S. 11(3) substituted (6.4.2015) by [The Firearms (Variation of Fees) Order 2015 (S.I. 2015/611)](https://www.legislation.gov.uk/uksi/2015/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/611/article/1/1), [4](https://www.legislation.gov.uk/uksi/2015/611/article/4)
+
+[^key-4306e2cbbc9ccebde2067b8e2571bd2e]: Textual amendment: Sum in s. 11(3)(a) substituted (5.2.2025) by [The Firearms (Variation of Fees) Order 2025 (S.I. 2025/36)](https://www.legislation.gov.uk/uksi/2025/36), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/36/article/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2025/36/article/4/a)
+
+[^key-a8d5e94957985986901f6dfa7de5d012]: Textual amendment: Sum in [s. 11(3)(b)](https://www.legislation.gov.uk/ukpga/1988/45/section/11/3/b) substituted (4.6.2026) by [The Firearms (Variation of Fees) Order 2026 (S.I. 2026/514)](https://www.legislation.gov.uk/uksi/2026/514), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/514/article/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2026/514/article/4/a)
+
+[^key-6a6a90fc845c32f382a339077ba541aa]: Textual amendment: Sum in s. 11(3)(c) substituted (5.2.2025) by [The Firearms (Variation of Fees) Order 2025 (S.I. 2025/36)](https://www.legislation.gov.uk/uksi/2025/36), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/36/article/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2025/36/article/4/c)
+
+[^key-fe707204ef5eea1e1e80c17aea418332]: Textual amendment: Sum in [s. 11(3)(d)](https://www.legislation.gov.uk/ukpga/1988/45/section/11/3/d) substituted (4.6.2026) by [The Firearms (Variation of Fees) Order 2026 (S.I. 2026/514)](https://www.legislation.gov.uk/uksi/2026/514), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/514/article/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2026/514/article/4/b)
+
+[^c318147]: Textual amendment: Words in s. 12(1) substituted (1.7.1997) by [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [s. 52(1)](https://www.legislation.gov.uk/ukpga/1997/5/section/52/1), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/1997/5/schedule/2/paragraph/18); [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [art. 3(b)](https://www.legislation.gov.uk/uksi/1997/1535/article/3/b), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/I)
+
+[^c318148]: Textual amendment: Words in s. 12(5) repealed (1.7.1997) by [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [s. 52(2)](https://www.legislation.gov.uk/ukpga/1997/5/section/52/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/5/schedule/3); [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [art. 3(b)](https://www.legislation.gov.uk/uksi/1997/1535/article/3/b), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/I)
+
+[^c318169]: Modification: S. 15 extended (1.10.1997) by [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [s. 45(3)](https://www.legislation.gov.uk/ukpga/1997/5/section/45/3); [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [art. 3(c)](https://www.legislation.gov.uk/uksi/1997/1535/article/3/c), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/II)
+
+    S. 15: Transfer of certain functions (S.) (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^c318168]: Textual amendment: S. 15 substituted (1.10.1997) by [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [s. 45(1)](https://www.legislation.gov.uk/ukpga/1997/5/section/45/1); [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [art. 3(c)](https://www.legislation.gov.uk/uksi/1997/1535/article/3/c), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/II)
+
+[^c318170]: Textual amendment: Words in s. 15(1) inserted (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [art. 6(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/6/1), [Sch. 5 para. 7(2)](https://www.legislation.gov.uk/uksi/1999/1750/schedule/5/paragraph/7/2) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^key-97189a52024912c9c8d2f1f8b47783f3]: Textual amendment: Words in [s. 15(1)](https://www.legislation.gov.uk/ukpga/1988/45/section/15/1) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/5/paragraph/2/2/a); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z8)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z8)
+
+[^key-47a2a88ef75ffad34bd76871bd125ce9]: Textual amendment: Words in [s. 15(2)](https://www.legislation.gov.uk/ukpga/1988/45/section/15/2) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 5 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/5/paragraph/2/2/b); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z8)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z8)
+
+[^c318171]: Textual amendment: Words in s. 15(5) inserted (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [art. 6(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/6/1), [Sch. 5 para. 7(2)](https://www.legislation.gov.uk/uksi/1999/1750/schedule/5/paragraph/7/2) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^key-42d14cc9f93b72a3e5b9df1947847628]: Textual amendment: S. 15(6) omitted (31.1.2017 for specified purposes, 18.7.2019 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 132(5)](https://www.legislation.gov.uk/ukpga/2017/3/section/132/4), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2019/1141](https://www.legislation.gov.uk/uksi/2019/1141), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2019/1141/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/1141/regulation/3/2))
+
+[^c1602170]: Textual amendment: S. 15A inserted (prosp.) by [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [ss. 46](https://www.legislation.gov.uk/ukpga/1997/5/section/46), [53(3)](https://www.legislation.gov.uk/ukpga/1997/5/section/53/3) and repealed (17.12.1997) by [1997 c. 64](https://www.legislation.gov.uk/ukpga/1997/64), [s. 2(7)](https://www.legislation.gov.uk/ukpga/1997/64/section/2/7), [Sch.](https://www.legislation.gov.uk/ukpga/1997/64/schedule); [S.I. 1997/3114](https://www.legislation.gov.uk/uksi/1997/3114), [art. 3(b)](https://www.legislation.gov.uk/uksi/1997/3114/article/3/b), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/3114/schedule/part/I)
+
+[^key-a9f23e249c88084afc5025edafd8282f]: Textual amendment: S. 15B inserted (31.1.2017 for specified purposes, 18.7.2019 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 132(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/132/2), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2019/1141](https://www.legislation.gov.uk/uksi/2019/1141), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2019/1141/regulation/3/1)
+
+[^key-d19df114d17e999164c1e61c24439823]: Textual amendment: S. 16 omitted (31.1.2017 for specified purposes, 2.5.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 130(2)(b)](https://www.legislation.gov.uk/ukpga/2017/3/section/130/2/b), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/f)
+
+[^c318163]: Textual amendment: S. 16A inserted (1.4.1997) by [1996 c. 46](https://www.legislation.gov.uk/ukpga/1996/46), [s. 28(2)](https://www.legislation.gov.uk/ukpga/1996/46/section/28/2); [S.I. 1997/304](https://www.legislation.gov.uk/uksi/1997/304), [art. 2](https://www.legislation.gov.uk/uksi/1997/304/article/2)
+
+[^key-be3930744402f76a242f117dd8bebff5]: Textual amendment: Words in [s. 16A(1)](https://www.legislation.gov.uk/ukpga/1988/45/section/16A/1) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/5/paragraph/2/3); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z8)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z8)
+
+[^c444744]: Textual amendment: S. 16B inserted (1.10.2002) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [s. 81(1)](https://www.legislation.gov.uk/ukpga/2002/30/section/81/1); [S.I. 2002/2306](https://www.legislation.gov.uk/uksi/2002/2306), [art. 2(e)](https://www.legislation.gov.uk/uksi/2002/2306/article/2/e)
+
+[^key-1e039b3ab9e4a4b451b108ed8a7bcc77]: Textual amendment: Words in [s. 16B(1)](https://www.legislation.gov.uk/ukpga/1988/45/section/16B/1) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 5 para. 2(4)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/5/paragraph/2/4); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z8)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z8)
+
+[^c318178]: Textual amendment: Words in s. 17(1) inserted (1.1.1993) by [S.I. 1992/2823](https://www.legislation.gov.uk/uksi/1992/2823), [reg. 6(1)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/6/1)
+
+[^key-4e3a4ceb7e49ea63cff358769571d1fd]: Textual amendment: [S. 17(1ZA)](https://www.legislation.gov.uk/ukpga/1988/45/section/17/1ZA) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 5 para. 2(5)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/5/paragraph/2/5); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z8)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z8)
+
+[^c318179]: Textual amendment: S. 17(1A) inserted (1.1.1993) by [S.I. 1992/2823](https://www.legislation.gov.uk/uksi/1992/2823), [reg. 6(1)](https://www.legislation.gov.uk/uksi/1992/2823/regulation/6/1)
+
+[^key-49eb27d9405bd2c849698e2568b75e82]: Textual amendment: Words in s. 17(1A)(b) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [61(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/742/regulation/61/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-441cdaa95dc49b143379c7f577b804cd]: Textual amendment: Word in s. 17(1A)(b) inserted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [61(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/742/regulation/61/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e1031d81ade38c74d6da447d2f3f3ea6]: Textual amendment: S. 17(1A)(d) and word omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [61(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/742/regulation/61/3/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7db884ab7e0de1d95428457396b7dd1b]: Textual amendment: S. 17(3A) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [61(3)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/61/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8bb743df837d7a1a1bac9d5cb5ae9ebb]: Textual amendment: Sum in [s. 17(8)](https://www.legislation.gov.uk/ukpga/1988/45/section/17/8) substituted (4.6.2026) by [The Firearms (Variation of Fees) Order 2026 (S.I. 2026/514)](https://www.legislation.gov.uk/uksi/2026/514), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/514/article/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2026/514/article/5/a)
+
+[^key-43e155c44eac748b9edea3186cb0ae86]: Textual amendment: Sum in [s. 17(8)](https://www.legislation.gov.uk/ukpga/1988/45/section/17/8) substituted (4.6.2026) by [The Firearms (Variation of Fees) Order 2026 (S.I. 2026/514)](https://www.legislation.gov.uk/uksi/2026/514), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/514/article/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2026/514/article/5/b)
+
+[^c318181]: Textual amendment: Words in s. 17(10) substituted (1.7.1997) by [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [s. 52(1)](https://www.legislation.gov.uk/ukpga/1997/5/section/52/1), [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/1997/5/schedule/2/paragraph/19); [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [art. 3(b)](https://www.legislation.gov.uk/uksi/1997/1535/article/3/b), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/I)
+
+[^key-638c75e5908474749383d4a1dcfa3032]: Textual amendment: [S. 18(1A)](https://www.legislation.gov.uk/ukpga/1988/45/section/18/1A) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [61(4)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/61/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-98c285cb75deef8654fe62be6fc81467]: Textual amendment: Words in s. 18(3) substituted (1.4.2011) by [Firearms (Electronic Communications) Order 2011 (S.I. 2011/713)](https://www.legislation.gov.uk/uksi/2011/713), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/713/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2011/713/article/3/2/a)
+
+[^key-85d3dd4869c7b990d25116eb95566f49]: Textual amendment: Words in [s. 18(4)](https://www.legislation.gov.uk/ukpga/1988/45/section/18/4) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [61(4)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/61/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e7c825e28875dad2aeb983428d1baabd]: Textual amendment: S. 18(4A) inserted (1.4.2011) by [Firearms (Electronic Communications) Order 2011 (S.I. 2011/713)](https://www.legislation.gov.uk/uksi/2011/713), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/713/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2011/713/article/3/2/b)
+
+[^key-5c2c917316f33af1331b87ed5db05050]: Textual amendment: [S. 18(6)](https://www.legislation.gov.uk/ukpga/1988/45/section/18/6) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [61(4)(c)](https://www.legislation.gov.uk/uksi/2019/742/regulation/61/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-11e4521b0a2dbb83c6b67bf07e4c8079]: Textual amendment: S. 18A omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [61(5)](https://www.legislation.gov.uk/uksi/2019/742/regulation/61/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0f71a369be44e3d157bb25e70ba7db2b]: Textual amendment: S. 18B inserted (1.4.2011) by [Firearms (Electronic Communications) Order 2011 (S.I. 2011/713)](https://www.legislation.gov.uk/uksi/2011/713), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/713/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2011/713/article/3/4)
+
+[^key-2d9b4ee3aa774b258db02542931627dd]: Textual amendment: Words in s. 18B(1) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [61(6)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/61/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c640e638453d65ed7dd36c300070972a]: Textual amendment: Words in s. 18B(1)(a) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [61(6)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/61/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-662f5d7932b9dc2ae4ca618597e34b74]: Textual amendment: Words in s. 18B(2)(b) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 14 paras. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/6), [7(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/7/b); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/41)
+
+[^key-a84207c98db84dae2076644ba90b4bfe]: Textual amendment: S. 18B(2)(c) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/21)
+
+[^c318186]: Modification: S. 19: Transfer of functions (S.) (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^c318188]: Textual amendment: Words in s. 22(1)(c) substituted (1.7.1997) by [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [s. 52(1)](https://www.legislation.gov.uk/ukpga/1997/5/section/52/1), [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/1997/5/schedule/2/paragraph/20); [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [art. 3(b)](https://www.legislation.gov.uk/uksi/1997/1535/article/3/b), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/I)
+
+[^c318190]: Marginal citation: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27).
+
+[^key-52d44965d9c13851cdebc4864e72b1d5]: Textual amendment: Words in [s. 25(4)](https://www.legislation.gov.uk/ukpga/1988/45/section/25/4) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 5 para. 2(6)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/5/paragraph/2/6); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z8)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z8)
+
+[^c318191]: Marginal citation: [1982 c. 31](https://www.legislation.gov.uk/ukpga/1982/31).
+
+[^c318192]: Marginal citation: [1974 c. 28](https://www.legislation.gov.uk/ukpga/1974/28).
+
+[^c318193]: Subordinate legislation: S. 27(3): power of appointment conferred by s. 27(3) fully exercised: [S.I. 1988/2209](https://www.legislation.gov.uk/uksi/1988/2209), 1989/853, 1673, 1990/2620
+
+[^key-29fa63711c316f560469d72de0c09f7b]: Textual amendment: Words in s. 27(4) inserted (22.1.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 32 para. 50](https://www.legislation.gov.uk/ukpga/2003/44/schedule/32/paragraph/50); [S.I. 2004/81](https://www.legislation.gov.uk/uksi/2004/81), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/81/article/3/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2004/81/article/3/2/d)
+
+[^c318194]: Modification: Sch. (except para. 3(1)(a)): Transfer of functions (S.) (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^key-e2e6e579832a1c576b0e2de43e07c03d]: Textual amendment: Words in [Sch. para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1988/45/schedule/paragraph/1/2/a) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 5 para. 2(7)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/5/paragraph/2/7); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z8)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z8)
+
+[^c318195]: Textual amendment: Words in Sch. para. 1(2)(b) inserted (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/6/1), [Sch. 5 para. 7(3)(a)](https://www.legislation.gov.uk/uksi/1999/1750/schedule/5/paragraph/7/3/a) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^c318196]: Textual amendment: Words in Sch. para. 1(3) inserted (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/6/1), [Sch. 5 para. 7(3)(b)](https://www.legislation.gov.uk/uksi/1999/1750/schedule/5/paragraph/7/3/b) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^key-5b40a1e843e64cc2329ba6f9b71b95c1]: Textual amendment: Words in [Sch. para. 1(3)](https://www.legislation.gov.uk/ukpga/1988/45/schedule/paragraph/1/3) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 5 para. 2(7)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/5/paragraph/2/7); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z8)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z8)
+
+[^c318198]: Textual amendment: Words in Sch. para. 1(4) inserted (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/6/1), [Sch. 5 para. 7(3)(c)](https://www.legislation.gov.uk/uksi/1999/1750/schedule/5/paragraph/7/3/c) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^key-dcfc904723b82818c233de5f00504aa3]: Textual amendment: Words in [Sch. para. 1(4)](https://www.legislation.gov.uk/ukpga/1988/45/schedule/paragraph/1/4) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 5 para. 2(7)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/5/paragraph/2/7); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z8)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z8)
+
+[^c318199]: Textual amendment: Words in Sch. para. 2(2) inserted (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/6/1), [Sch. 5 para. 7(3)(d)](https://www.legislation.gov.uk/uksi/1999/1750/schedule/5/paragraph/7/3/d) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^c318200]: Textual amendment: Words in Sch. para. 2(4) inserted (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/6/1), [Sch. 5 para. 7(3)(e)](https://www.legislation.gov.uk/uksi/1999/1750/schedule/5/paragraph/7/3/e) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^key-46ba4735f8f533838415b38032ce7869]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/1988/45/schedule/paragraph/3) omitted (31.1.2017 for specified purposes, 18.7.2019 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 132(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/132/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2019/1141](https://www.legislation.gov.uk/uksi/2019/1141), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2019/1141/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/1141/regulation/3/2))
+
+[^key-b090e5f1e844ca94469b35d30844b4c8]: Textual amendment: Sch. para. 3A inserted (31.1.2017 for specified purposes, 18.7.2019 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 132(4)](https://www.legislation.gov.uk/ukpga/2017/3/section/132/4), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2019/1141](https://www.legislation.gov.uk/uksi/2019/1141), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2019/1141/regulation/3/1)
+
+[^c318202]: Textual amendment: Words in Sch. para. 4(1) substituted (1.7.1997) by [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [s. 52(1)](https://www.legislation.gov.uk/ukpga/1997/5/section/52/1), [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/1997/5/schedule/2/paragraph/19); [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [art. 3(b)](https://www.legislation.gov.uk/uksi/1997/1535/article/3/b), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/I)
+
+[^c318207]: Textual amendment: Sch. para. 5 renumbered as sub-para. (1) (1.7.1997) by [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [s. 47(a)](https://www.legislation.gov.uk/ukpga/1997/5/section/47/a); [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [art. 3(b)](https://www.legislation.gov.uk/uksi/1997/1535/article/3/b), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/I)
+
+[^c318208]: Textual amendment: Sch. para. 5(2)(3)(4) inserted (1.7.1997) by [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [s. 47(b)](https://www.legislation.gov.uk/ukpga/1997/5/section/47/b); [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [art. 3(b)](https://www.legislation.gov.uk/uksi/1997/1535/article/3/b), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/I)
+
+[^c318209]: Textual amendment: Words in Sch. para. 5(2) inserted (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/6/1), [Sch. 5 para. 7(3)(f)(i)](https://www.legislation.gov.uk/uksi/1999/1750/schedule/5/paragraph/7/3/f/i) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
+
+[^c318211]: Textual amendment: Words in Sch. para. 5(3) inserted (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/6/1), [Sch. 5 para. 7(3)(f)(ii)](https://www.legislation.gov.uk/uksi/1999/1750/schedule/5/paragraph/7/3/f/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))

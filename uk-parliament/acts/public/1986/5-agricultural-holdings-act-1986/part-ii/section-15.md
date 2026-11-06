@@ -1,0 +1,60 @@
+---
+title: Agricultural Holdings Act 1986, section 15
+act: Agricultural Holdings Act 1986
+section: '15'
+status: revised-with-pending-changes
+text_date: '2026-05-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1986/5/section/15
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Agricultural Holdings Act 1986, section 15
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/5
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 15. Disposal of produce and cropping.
+
+*Extent: E+W*
+
+(1) Subject to the provision of this section and to section 82 below, the tenant of an agricultural holding shall (notwithstanding any custom of the country or the provisions of the contract of tenancy or of any agreement respecting the disposal of crops or the method of cropping of arable land) have, without incurring any penalty, forfeiture or liability, the following rights, namely—
+
+- (a) to dispose of the produce of the holding, other than manure produced on the holding, and
+- (b) to practise any system of cropping of the arable land on the holding.
+
+(2) Subsection (1) above shall not apply—
+
+- (a) in the case of a tenancy from year to year, as respects the year before the tenant quits the holding or any period after he has given or received notice to quit which results in his quitting the holding, or
+- (b) in the case of any other tenancy, as respects the year before its termination.
+
+(3) Subject to any agreement in writing to the contrary, the tenant of an agricultural holding shall not at any time after he has given or received notice to quit the holding sell or remove from the holding any manure or compost or any hay or straw or roots grown in the last year of the tenancy unless the landlord’s written consent has been obtained before the sale or removal.
+
+(4) Before, or as soon as possible after, exercising his rights under subsection (1) above, a tenant shall make suitable and adequate provision—
+
+- (a) in the case of an exercise of the right to dispose of produce, to return to the holding the full equivalent manurial value of all crops sold off or removed from the holding in contravention of the custom, contract or agreement, and
+- (b) in the case of an exercise of the right to practise any system of cropping, to protect the holding from injury or deterioration.
+
+(5) If the tenant of an agricultural holding exercises his rights under subsection (1) above in such manner as to, or to be likely to, injure or deteriorate the holding, the landlord shall have the following remedies, but no other, namely—
+
+- (a) the right to obtain, if the case so requires, an injunction to restrain the exercise of those rights in that manner, and
+- (b) the right in any case, on the tenant’s quitting the holding on the termination of the tenancy, to recover damages for any injury to or deterioration of the holding attributable to the exercise by the tenant of those rights.
+
+(6) For the purposes of any proceedings for an injunction brought under paragraph (a) of subsection (5) above, the question whether the tenant is exercising, or has exercised, his rights under subsection (1) above in such a manner as to, or to be likely to, injure or deteriorate his holding shall be determined by arbitration under this Act; and the award of the arbitrator shall, for the purposes of any proceedings brought under subsection (5) (including an arbitration or third party determination[^key-72e1d34b6d6b64cc2b36fa818f67f31a] under paragraph (b)) be conclusive proof of the facts stated in the award.
+
+(6A)[^key-77eae8f189e25d23680a89ed5c47d7bb] Notwithstanding subsection (6) above, the landlord and tenant may agree that, for the purposes of proceedings brought by the landlord under paragraph (a) of subsection (5) above, the question described in subsection (6) is instead to be referred for third party determination under this Act.
+
+(6B) On a reference under subsection (6A) above, the determination of the third party shall, for the purposes of any proceedings brought under subsection (5) above (including an arbitration or third party determination under paragraph (b)) be conclusive proof of the facts stated in the determination.
+
+(7) In this section—
+
+- “**arable land**” does not include land in grass which, by the terms of a contract of tenancy, is to be retained in the same condition throughout the tenancy; and
+- “**roots**” means the produce of any root crop of a kind normally grown for consumption on the holding.
+
+## Annotations
+
+[^key-72e1d34b6d6b64cc2b36fa818f67f31a]: Textual amendment: Words in s. 15(6) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 11(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/11/2)
+
+[^key-77eae8f189e25d23680a89ed5c47d7bb]: Textual amendment: S. 15(6A)(6B) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 11(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/11/3)

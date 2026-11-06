@@ -1,0 +1,27 @@
+---
+title: The Building Society Insolvency (Scotland) Rules 2010, section 89
+act: The Building Society Insolvency (Scotland) Rules 2010
+section: '89'
+status: revised
+text_date: '2013-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/uksi/2010/2584/section/89
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Building Society Insolvency (Scotland) Rules 2010, section 89
+
+> Text as at 2013-04-01.
+>
+> Extent: Scotland.
+
+## 89. Limitation[^key-4d2d9ac9994acf664cf189956bd333dd]
+
+*Extent: S*
+
+Apply rule 4.76 of the 1986 Rules.
+
+## Annotations
+
+[^key-4d2d9ac9994acf664cf189956bd333dd]: Commencement: Rule 89 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

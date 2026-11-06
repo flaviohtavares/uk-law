@@ -1,0 +1,251 @@
+---
+title: 'The Regulation of Investigatory Powers (Covert Human Intelligence Sources: Matters Subject to Legal Privilege) Order 2010'
+id: uksi/2010/123
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-01-22'
+text_date: '2021-08-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/123
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/123/pdfs/uksi_20100123_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/123/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Regulation of Investigatory Powers (Covert Human Intelligence Sources: Matters Subject to Legal Privilege) Order 2010
+
+> Text as at 2021-08-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+This Order has been made in substitution of [S.I. 2009/3404](https://www.legislation.gov.uk/uksi/2009/3404) and is being issued free of charge to all known recipients of that instrument.
+
+2010 No. 123
+
+Investigatory Powers
+
+The Regulation of Investigatory Powers (Covert Human Intelligence Sources: Matters Subject to Legal Privilege) Order 2010
+
+Made
+
+22nd January 2010
+
+Laid before Parliament
+
+26th January 2010
+
+Coming into force
+
+18th February 2010
+
+The Secretary of State, in exercise of the powers conferred by sections 29(2)(c) and (7)(b) and 43(8) of the Regulation of Investigatory Powers Act 2000[^f00001], makes the following Order:
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement[^key-c97cf26da9468082bef23c9b8ba6b4c7]
+
+This Order may be cited as the Regulation of Investigatory Powers (Covert Human Intelligence Sources: Matters Subject to Legal Privilege) Order 2010 and shall come into force on 18<sup>th</sup> February 2010.
+
+### 2. Interpretation[^key-b5eac9c88df864e0dccf40439c99310b]
+
+(1) In this Order—
+
+- “the 2000 Act” means the Regulation of Investigatory Powers Act 2000;
+- “matters subject to legal privilege” means (subject to paragraph (2)) matters to which section 98(2), (3) or (4) of the Police Act 1997[^f00002] applies;
+- “private information” has the meaning given in section 26(10) of the 2000 Act; and
+- “source” means covert human intelligence source.
+
+(2) For the purposes of this Order—
+
+- (a) communications and items are not matters subject to legal privilege when they are in the possession of a person who is not entitled to possession of them, and
+- (b) communications and items held, or oral communications made, with the intention of furthering a criminal purpose are not matters subject to legal privilege.
+
+## PART 2 — CONDUCT TO WHICH THIS ORDER APPLIES
+
+### 3. Matters subject to legal privilege[^key-506be4c9bdaf55b3c6736f88b8315887]
+
+(1) This Order applies where any conduct that is, or is to be, authorised in an authorisation under section 29 or section 29B[^key-a2d2aea45e6b8f0d26667e057d20dbde] of the 2000 Act consists in any activities involving conduct of a source, or the use of a source, to—
+
+- (a) obtain matters subject to legal privilege,
+- (b) provide access to any matters subject to legal privilege to another person, or
+- (c) disclose matters subject to legal privilege.
+
+(2) Subject to paragraph (3), an authorisation for conduct to which this Order applies shall not be granted or renewed unless it satisfies the requirements imposed by Part 3.
+
+(3) Where a single authorisation under section 29 or section 29B of the 2000 Act authorises conduct to which this Order applies and other conduct falling within Part II of that Act, the requirements imposed by Part 3 of this Order shall only apply in relation to those parts of the combined authorisation which authorise conduct falling within paragraph (1).
+
+## PART 3 — APPROVAL BY JUDICIAL COMMISSIONER OR SECRETARY OF STATE[^key-37e1fb3acd80a01d998e775027b8c95c]
+
+### 4. Approving officer[^key-1fae50c0c947ec77fc4ac090a7420a5f]
+
+(1) Where the person designated for the purposes of section 29 or section 29B[^key-63b1ceb29c1c9443185126923daa8b2a] of the 2000 Act is—
+
+- (a) a member of any of the intelligence services,
+- (b) an official of the Ministry of Defence,
+- (c) an individual holding an office, rank or position in Her Majesty’s Prison Service or the Northern Ireland Prison Service, or
+- (d) a member of Her Majesty’s forces,
+
+the approving officer for the purposes of this Part shall be the Secretary of State.
+
+(2) In any other case, the approving officer shall be a Judicial Commissioner[^key-e42725f195e91b10ed903ef6576ba2ac].
+
+### 5. Notification[^key-8e7651718ace8b3acc4ca62107d0998b]
+
+(1) Before a person grants or renews an authorisation for conduct to which this Order applies, that person shall, in accordance with arrangements made by the relevant approving officer, give notice to the approving officer.
+
+(2) A notice under this article—
+
+- (a) shall be given in writing to the relevant approving officer,
+- (b) shall state that the approval of an approving officer is required by article 6 before the authorisation is granted or renewed, and
+- (c) shall include the matters specified in paragraph (3) or, as the case may be, paragraph (4).
+
+(3) Where a person gives notice under paragraph (1) seeking approval to grant an authorisation, the notice to the approving officer shall, in addition to the statement required by article 5(2)(b), specify—
+
+- (a) the grounds on which the person giving the notice believes the matters specified in article 6(4), section 29(2)(b) and (c) and section 29B(4)(b) and (c)[^key-5f6045a6c584a4d125117fdaf7c47d13] of the 2000 Act;
+- (b) the conduct falling within article 3(1) that is, or is to be, authorised by the authorisation;
+- (c) the identity, where known, of—
+  - (i) the professional legal adviser and his client or any person representing his client, or
+  - (ii) the professional legal adviser or his client or any such representative and any other person,
+
+  to whom the activities of the source relate;
+- (d) the matters subject to legal privilege (to the extent known) to which the conduct that is to be authorised by the authorisation relate; and
+- (e) whether the conduct to be authorised by the authorisation is likely to result in the obtaining of private information about any person who is not specifically identified in the notice for the purposes of the investigation or operation.
+
+(4) Where a person gives notice under paragraph (1) seeking approval to renew an authorisation, the notice to the approving officer shall, in addition to the statement required by article 5(2)(b), specify—
+
+- (a) whether the authorisation is being renewed for the first time, or, where it has been previously renewed, each occasion on which it has been renewed;
+- (b) the matters required by paragraph (3), as they apply at the time of the notice seeking approval to renew;
+- (c) every respect (if any) in which the information contained in the previous notice under this article has changed;
+- (d) the reason why it is considered necessary to renew the authorisation;
+- (e) the content and value to the investigation or operation of the matters subject to legal privilege obtained from the conduct or the use of the source in the period since the grant of the authorisation;
+- (f) the results of any reviews of the matters mentioned in section 43(7) of the 2000 Act; and
+- (g) the period for which the authorisation is considered likely to continue to be necessary.
+
+(5) Any notice that is required by this article to be given in writing may be given, instead, by being transmitted by electronic means.
+
+### 6. Approval required for grant or renewal of authorisations[^key-5de27e9f82af068094d7cb18491294f8]
+
+(1) An authorisation for conduct to which this Order applies shall not be granted or renewed until—
+
+- (a) it has been approved in accordance with this article by the relevant approving officer, and
+- (b) written notice of the approving officer’s decision to approve the grant or renewal of the authorisation has been given, in accordance with paragraph (3)(b), to the person who gave notice under article 5.
+
+(2) Where an approving officer receives a notice under article 5, the approving officer shall as soon as is reasonably practicable—
+
+- (a) scrutinise the authorisation, and
+- (b) decide whether or not to approve the grant or renewal of the authorisation.
+
+(3) The approving officer shall—
+
+- (a) give his approval to the grant or renewal of the authorisation if, and only if, the approving officer is satisfied that there are reasonable grounds for believing that—
+  - (i) the authorisation is necessary on grounds falling within paragraph (4), and
+  - (ii) the requirements of section 29(2)(b) and (c) or section 29B(4)(b) and (c)[^key-da1675f35bb7007c571e2e7244bdd5f7] of the 2000 Act are satisfied in the case of the authorisation; and
+- (b) give written notice of his decision to the person who gave notice under article 5 as soon as reasonably practicable after making that decision.
+
+(4) An authorisation is necessary on grounds falling within this paragraph if it is necessary—
+
+- (a) in the interests of national security;
+- (b) for the purpose of preventing or detecting serious crime; or
+- (c) in the interests of the economic well-being of the United Kingdom;
+
+(5) Any notice that is required by this article to be given in writing may be given, instead, by being transmitted by electronic means.
+
+### 7. Notices given by the Secretary of State[^key-dee6afc64fbc09e17e6ef8b6ca154329]
+
+(1) Subject to paragraph (2), a notice of the Secretary of State’s decision to approve the grant or renewal of an authorisation under article 6(3)(b) shall not be given except under the hand of the Secretary of State.
+
+(2) In an urgent case in which—
+
+- (a) approval has been sought for the grant or renewal of an authorisation for conduct to which this Order applies by a member of any of the intelligence services, and
+- (b) the Secretary of State has expressly authorised the giving of the notice in that case,
+
+the notice may be given under the hand of a senior official.
+
+## PART 4 — DURATION OF AUTHORISATIONS
+
+### 8. Duration[^key-796026288fcb310a1564cce75196ee4e]
+
+(1) Subject to paragraph , where an authorisation authorises conduct to which this Order applies, section 43(3) of the 2000 Act shall have effect as if the period specified in paragraph (b) of that subsection was—
+
+- (a) six months in the case of an authorisation which was granted or renewed by a member of any of the intelligence services; and
+- (b) three months in any other case.
+
+(2) Where an authorisation—
+
+- (a) was granted by a member of any of the intelligence services pursuant to a notice given in accordance with articles 6(3)(b) and 7(2) under the hand of a senior official, and
+- (b) has not been renewed pursuant to a notice given in accordance with articles 6(3)(b) and 7(1) under the hand of the Secretary of State,
+
+section 43(3) of the 2000 Act shall have effect as if the period specified in paragraph (b) of that subsection was the end of the second working day following the day of the grant or, as the case may be, renewal of the authorisation.
+
+## PART 5 — REVOCATION
+
+### 9. Revocation[^key-fdcd2f91f1057ffaeb2c75141b8a95d1]
+
+The Regulation of Investigatory Powers (Covert Human Intelligence Sources: Matters Subject to Legal Privilege) Order 2009[^f00003] is revoked.
+
+David Hanson
+
+Minister of State
+
+Home Office
+
+22nd January 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Section 29 of the Regulation of Investigatory Powers Act 2000 (“the 2000 Act”) makes provision for the granting of authorisations for the conduct or the use of a covert human intelligence source. This Order exercises the power conferred on the Secretary of State by section 29(2)(c) and (7)(b) to impose additional requirements that must be satisfied before an authorisation is granted (or renewed) under that section.
+
+Part 2 of the Order describes the conduct or uses of covert human intelligence sources to which the additional requirements apply. Article 3(1) provides that the Order applies where the conduct that is, or is to be, authorised in an authorisation under section 29 of the 2000 Act consists in any activities involving conduct of a source, or the use of a source, to obtain, provide access to or disclose matters subject to legal privilege. Article 3(2) prohibits the granting or renewal of authorisations for conduct of this description unless the requirements imposed by Part 3 are satisfied. Where an authorisation authorises conduct to which the Order applies and other conduct falling within Part II of the 2000 Act, article 3(3) confirms that the requirements imposed by Part 3 only apply in relation to those parts of the combined authorisation which authorise conduct falling within article 3(1).
+
+Part 3 of the Order creates an enhanced regime of prior approval for conduct to which the Order applies. Article 6 provides that such an authorisation cannot be granted or renewed until it has been approved either (as specified in article 4) by the Secretary of State or by an ordinary Surveillance Commissioner (“the approving officer”). The approving officer may only give his approval if satisfied that there are reasonable grounds for believing that the authorisation is necessary in the interests of national security, for the purpose of preventing or detecting serious crime or in the interests of the economic well-being of the United Kingdom, and the requirements of section 29(2)(b) and (c) of the 2000 Act are satisfied. Article 7 makes provision for the giving of notices by the Secretary of State under article 6.
+
+Part 4 of the Order exercises the power conferred on the Secretary of State by section 43(8) of the 2000 Act to shorten the period at the end of which an authorisation of a specified description is to cease to have effect. Article 8 exercises this power with regard to section 43(3)(b) of the 2000 Act so that, subject to paragraph (2), an authorisation that authorises conduct to which the Order applies ceases to have effect after six months rather than twelve in the case of an intelligence service authorisation, and three months instead of twelve months in any other case. Paragraph (2) limits the duration of urgent intelligence services authorisations which have not been renewed pursuant to a notice given under the hand of the Secretary of State to the end of the second working day following the day of the grant or renewal of the authorisation.
+
+This Order has been made in substitution of the Regulation of Investigatory Powers (Covert Human Intelligence Sources: Matters Subject to Legal Privilege) Order 2009 ([S.I. 2009/3404](https://www.legislation.gov.uk/uksi/2009/3404)). Part 5 of this Order revokes the earlier instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23).
+
+[^key-c97cf26da9468082bef23c9b8ba6b4c7]: Commencement: Art. 1 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
+
+[^key-b5eac9c88df864e0dccf40439c99310b]: Commencement: Art. 2 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
+
+[^f00002]: Footnote: [1997 c.50](https://www.legislation.gov.uk/ukpga/1997/50); section 91(1) has been amended by [S.I. 1999/1747](https://www.legislation.gov.uk/uksi/1999/1747).
+
+[^key-506be4c9bdaf55b3c6736f88b8315887]: Commencement: Art. 3 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
+
+[^key-a2d2aea45e6b8f0d26667e057d20dbde]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2010/123/article/3) inserted (10.8.2021) by [The Regulation of Investigatory Powers (Criminal Conduct Authorisations) (Amendment) Order 2021 (S.I. 2021/601)](https://www.legislation.gov.uk/uksi/2021/601), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/601/article/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2021/601/article/3/a)
+
+[^key-37e1fb3acd80a01d998e775027b8c95c]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2010/123/part/3) heading substituted (11.9.2017) by [The Investigatory Powers Act 2016 (Consequential Amendments and Saving Provisions) Regulations 2017 (S.I. 2017/845)](https://www.legislation.gov.uk/uksi/2017/845), [regs. 1](https://www.legislation.gov.uk/uksi/2017/845/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2017/845/regulation/5/2) (with [reg. 5(4)](https://www.legislation.gov.uk/uksi/2017/845/regulation/5/4))
+
+[^key-1fae50c0c947ec77fc4ac090a7420a5f]: Commencement: Art. 4 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
+
+[^key-63b1ceb29c1c9443185126923daa8b2a]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2010/123/article/4) inserted (10.8.2021) by [The Regulation of Investigatory Powers (Criminal Conduct Authorisations) (Amendment) Order 2021 (S.I. 2021/601)](https://www.legislation.gov.uk/uksi/2021/601), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/601/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2021/601/article/3/b)
+
+[^key-e42725f195e91b10ed903ef6576ba2ac]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2010/123/article/4/2) substituted (11.9.2017) by [The Investigatory Powers Act 2016 (Consequential Amendments and Saving Provisions) Regulations 2017 (S.I. 2017/845)](https://www.legislation.gov.uk/uksi/2017/845), [regs. 1](https://www.legislation.gov.uk/uksi/2017/845/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2017/845/regulation/5/3) (with [reg. 5(4)](https://www.legislation.gov.uk/uksi/2017/845/regulation/5/4))
+
+[^key-8e7651718ace8b3acc4ca62107d0998b]: Commencement: Art. 5 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
+
+[^key-5f6045a6c584a4d125117fdaf7c47d13]: Textual amendment: Words in [art. 5(3)(a)](https://www.legislation.gov.uk/uksi/2010/123/article/5/3/a) substituted (10.8.2021) by [The Regulation of Investigatory Powers (Criminal Conduct Authorisations) (Amendment) Order 2021 (S.I. 2021/601)](https://www.legislation.gov.uk/uksi/2021/601), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/601/article/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2021/601/article/3/c)
+
+[^key-5de27e9f82af068094d7cb18491294f8]: Commencement: Art. 6 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
+
+[^key-da1675f35bb7007c571e2e7244bdd5f7]: Textual amendment: Words in [art. 6(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2010/123/article/6/3/a/ii) inserted (10.8.2021) by [The Regulation of Investigatory Powers (Criminal Conduct Authorisations) (Amendment) Order 2021 (S.I. 2021/601)](https://www.legislation.gov.uk/uksi/2021/601), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/601/article/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2021/601/article/3/d)
+
+[^key-dee6afc64fbc09e17e6ef8b6ca154329]: Commencement: Art. 7 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
+
+[^key-796026288fcb310a1564cce75196ee4e]: Commencement: Art. 8 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
+
+[^key-fdcd2f91f1057ffaeb2c75141b8a95d1]: Commencement: Art. 9 in force at 18.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/123/article/1)
+
+[^f00003]: Footnote: [S.I. 2009/3404](https://www.legislation.gov.uk/uksi/2009/3404).

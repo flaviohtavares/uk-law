@@ -1,0 +1,41 @@
+---
+title: Welfare Reform Act 2009, section 46
+act: Welfare Reform Act 2009
+section: '46'
+status: revised-with-pending-changes
+text_date: '2026-07-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2009/24/section/46
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Welfare Reform Act 2009, section 46
+
+> **Warning: changes not yet applied to this text (25).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/24
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 46. Regulations under section 41: supplementary provisions
+
+*Extent: E+W+S*
+
+(1) Any power to make regulations under section 41 may be exercised—
+
+- (a) in relation to all cases to which it extends,
+- (b) in relation to those cases subject to specified exceptions, or
+- (c) in relation to any specified cases or classes of case.
+
+(2) Any such power may be exercised so as to make, as respects the cases in relation to which it is exercised—
+
+- (a) the full provision to which the power extends or any less provision (whether by way of exception or otherwise);
+- (b) the same provision for all cases in relation to which it is exercised, or different provision for different cases or different classes of case or different provision as respect the same case or class of case for different purposes;
+- (c) any such provision either unconditionally or subject to any specified condition.
+
+(3) Where any such power is expressed to be exercisable for alternative purposes, it may be exercised in relation to the same case for all or any of those purposes.
+
+(4) Any such power includes power—
+
+- (a) to make such incidental, supplementary, consequential or saving provision as the authority making the regulations considers to be necessary or expedient;
+- (b) to provide for a person to exercise a discretion in dealing with any matter;
+- (c) to amend or repeal an enactment whenever passed or made.

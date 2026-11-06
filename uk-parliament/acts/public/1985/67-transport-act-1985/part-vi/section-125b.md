@@ -1,0 +1,65 @@
+---
+title: Transport Act 1985, section 125B
+act: Transport Act 1985
+section: 125B
+status: revised-with-pending-changes
+text_date: '2026-06-30'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1985/67/section/125B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Transport Act 1985, section 125B
+
+> **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 125B. Functions of the Committee[^key-4b9f5e54b9cde290b9e6b043e8c1cc0a]
+
+*Extent: E+W*
+
+(1) The Committee may consider and make recommendations or representations to the Secretary of State about any matter relating to—
+
+- (a) prescribed public passenger transport services, or public passenger transport services that are of a prescribed description, to the extent that they operate in England; or
+- (b) prescribed public passenger transport facilities in England, or public passenger transport facilities in England that are of a prescribed description.
+
+(2) The Committee must consider and make recommendations to the Secretary of State about any such matter if asked to do so by the Secretary of State.
+
+(3) The Secretary of State may by order—
+
+- (a) confer further functions on the Committee;
+- (b) remove functions from the Committee;
+- (c) make changes to any functions of the Committee;
+- (d) transfer any functions of the Committee to another person (including to the Secretary of State).
+
+(4) An order under subsection (3) may confer a function on the Committee, or make changes to a function of the Committee, only if the new function, or the function as changed, relates to—
+
+- (a) public passenger transport services, so far as operating in England; or
+- (b) public passenger transport facilities in England.
+
+(5) The functions that may be conferred on the Committee under subsection (3)(a) include a power—
+
+- (a) to enter into arrangements with another body for discharging functions on behalf of that body in relation to England;
+- (b) to give effect to any such arrangements;
+- (c) to enter into arrangements with another body for that body to discharge any functions of the Committee on behalf of the Committee.
+
+(6) The discharge of a function by the Committee on behalf of another body does not affect the responsibility of the body for the discharge of the function.
+
+(7) The discharge of a function by another body on behalf of the Committee does not affect the responsibility of the Committee for the discharge of the function.
+
+(8) The provision that may be made in an order under subsection (3) includes provision amending or repealing any provision of this Act or any other enactment conferring functions on the Committee.
+
+(9) The Committee may do anything which is calculated to facilitate, or is conducive or incidental to, the discharge of any of its functions.
+
+(10) In this section—
+
+- “**prescribed**” means prescribed by order made by the Secretary of State;
+- “**public passenger transport facilities**” means facilities for public passenger transport services.
+
+(11) No order shall be made under this section unless a draft of the order has been laid before, and approved by a resolution of, each House of Parliament.
+
+## Annotations
+
+[^key-4b9f5e54b9cde290b9e6b043e8c1cc0a]: Textual amendment: Ss. 125A-125C and cross-heading inserted (26.11.2008 for specified purposes) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 73(1)](https://www.legislation.gov.uk/ukpga/2008/26/section/73/1), [134(1)(c)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c)[(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4)

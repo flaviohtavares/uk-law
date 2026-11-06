@@ -1,0 +1,133 @@
+---
+title: The Social Security (Contributions and Credits) (Transitional and Consequential Provisions) Regulations 1985
+id: uksi/1985/1398
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1985-09-06'
+text_date: '2014-01-01'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1985/1398
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1985/1398/pdfs/uksi_19851398_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1985/1398/pdfs/uksi_19851398_en.pdf
+- http://www.legislation.gov.uk/uksi/1985/1398/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Social Security (Contributions and Credits) (Transitional and Consequential Provisions) Regulations 1985
+
+> Text as at 2014-01-01.
+
+1985 No. 1398
+
+SOCIAL SECURITY
+
+The Social Security (Contributions and Credits) (Transitional and Consequential Provisions) Regulations 1985
+
+Made
+
+6th September 1985
+
+Laid before Parliament
+
+12th September 1985
+
+Coming into Operation
+
+6th October 1985
+
+The Secretary of State for Social Services, in exercise of powers conferred upon him by sections 4(6A) and (6D), 13(4) and 168(1) of, and Schedule 20 to, the Social Security Act 1985[^f00001] and section 32(6) of the Social Security Act 1985 , and of all other powers enabling him in that behalf, by this instrument, which contains only provisions consequential on section 7 of the said Act of 1985 and regulations made under section 4(6A) and (6D) of the Social Security Act 1975, makes the following regulations:—
+
+## 1. Citation, commencement and interpretation
+
+(1) These regulations may be cited as the Social Security (Contributions and Credits) (Transitional and Consequential Provisions) Regulations 1985 and shall come into operation on 6th October 1985.
+
+(2) In these regulations—
+
+- “**the Act**” means the Social Security Act 1975;
+- “**the principal regulations**” means the Social Security (Contributions) Regulations 1979[^f00002];
+
+and other expressions have the same meanings as in that Act or, as the case may be, those Regulations.
+
+## 2. Transitional provisions for the assessment of Class 1 contributions[^key-b1e597baecae361f629a74ac20c4f3d5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amount of Class 3 contributions payable in respect of the year 1985/86
+
+(1) Subject to section 8(2C) of the Act[^f00004] the amount of a Class 3 contribution payable in respect of the year commencing 6th April 1985 shall be—
+
+- (a) in respect of the first 26 contribution weeks of that year £4.65;
+- (b) in respect of the last 26 contribution weeks of that year £3.40.
+
+(2) Where contributions paid by or credited to a person in respect of the year commencing 6th April 1985 are insufficient to enable him to satisfy the contribution conditions of entitlement to benefit by acquiring the requisite earnings factor for that year, then, subject to regulations 27 and 28 of the principal regulations, he may not pay more than 26 Class 3 contributions at the amount of £3.40 and, where he has paid or there are payable Class 2 contributions at the rate of £3.50 (being the rate coming into force on 6th October 1985) he may only pay a number of such Class 3 contributions which, when added to the number of such Class 2 contributions, does not exceed 26.
+
+(3) For the purposes of Class 3 contributions in respect of the year commencing 6th April 1985, the contribution week commencing 31st March 1985 shall be treated as falling wholly in the year commencing 6th April 1984.
+
+## 4. Modification of the Act[^key-77c099e37c2eaabe12fdbc2c2505b59e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of the principal regulations[^key-77c099e37c2eaabe12fdbc2c2505b59e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Minor and consequential amendment of the principal regulations[^key-77c099e37c2eaabe12fdbc2c2505b59e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Amendment of the Social Security (Credits) Regulations 1975
+
+In regulation 3(2)(b) of the Social Security (Credits) Regulations 1975[^f00007] for the words “in section 4(6)(a)” there shall be substituted the words “in relation to the highest current primary earnings bracket in section 4(6B)” .
+
+Signed by authority of the Secretary of State for Social Services.
+
+Trumpington
+
+Parliamentary Under-Secretary of State
+
+Department of Health and Social Security
+
+EXPLANATORY NOTE
+
+These regulations contain provisions which are transitional and consequential on the amendments made to sections 4, 7 and 8 of the Social Security Act 1975 (“the Act”) by the Social Security Act 1985 (“the 1985 Act”). They are either made under section 4(6A) and (6D) of the Act, as inserted by section 7(2) of the 1985 Act, or are made under section 32(6) of the 1985 Act and are consequential on section 7 of that Act. As they are also made earlier than six months from the first day appointed for the coming into force of section 7 (6th October 1985) they are exempted by section 27(8)(b) of the 1985 Act from the requirement under section 10(1) of the Social Security Act 1980 to refer proposals to the Social Security Advisory Committee and are made without reference to that Committee.
+
+Regulation 2 makes special transitional provision for the amount and incidence of secondary Class 1 contributions in respect of earnings paid to a director of a company who is such a director on or after 6th October 1985, but whose directorship commenced before that date, or who receives a payment of earnings during the period 6th October 1985 to 5th April 1986, in respect of a directorship which ceased before 6th April 1985. It also makes similar provision in respect of employees whose earnings period, in respect of any earnings from their employment, is the tax year 1985/86.
+
+Regulation 3 makes special transitional provision for the amount payable in respect of a Class 3 contribution for the tax year 1985/86.
+
+Regulation 4 modifies the Act. Paragraph (2) of the regulation modifies section 7A of the Act, which was inserted by section 17 of the Health and Social Security Act 1984, by providing that where the rate applicable to a Class 2 contribution which is paid more than one tax year after the tax year in respect of which it is payable and the rate of a Class 2 contribution for the week in respect of which it is paid differ, the rate at which that Class 2 contribution is payable shall be the highest rate applicable during the period from the week in respect of which it is paid to the time of payment. Paragraph (3) makes similar provision in respect of a Class 3 contribution paid more than two tax years after the year in respect of which it is paid.
+
+Regulation 5 makes substantial amendments to the Social Security (Contributions) Regulations 1979 (“the principal regulations”). Paragraph (2) inserts a new definition of “standard rate” and amends the definition of “non-contracted-out rate” to take account of the new appropriate percentage rates of Class 1 contributions for the specified earnings brackets.
+
+Paragraph (3) inserts regulation 8A into the principal regulations. The new regulation provides for the calculation of the amounts of equivalent earnings brackets for the purposes of section 4(6B) or (6E) of the Act, for earnings paid otherwise than weekly.
+
+Paragraph (4) amends regulation 9 of the principal regulations. The amendment provides that the secondary Class 1 contributions payable by the employer on earnings above the upper earnings limit may be calculated by applying a contributions calculator prepared by the Secretary of State. The amendment also provides for the use of the contributions calculator where contributions on earnings up to the upper earnings limit were calculated either by reference to the appropriate percentage specified in section 4 of the Act, or by reference to the appropriate scale prepared by the Secretary of State.
+
+Paragraph (5) amends regulation 12(1) of the principal regulations to provide that, for the purposes of assessing Class 1 contributions, earnings paid to an employee in respect of different employed earner's employments in the same earnings period, which are paid by different secondary contributors who, in respect of the employments, carry on business in association, may be aggregated.
+
+Paragraph (6) amends regulation 32 of the principal regulations. The amendment in sub-paragraph (a) provides that contributions to be returned by virtue of regulation 32 shall only be returned if the amount exceeds one fifteenth of a primary Class 1 contribution payable on earnings at the upper earnings limit. Sub-paragraph (b) provides for an amendment of the method of determining the return of contributions paid in excess of the annual maximum at the contracted-out percentage rate.
+
+Paragraphs (7), (8) and (9) make amendments respectively to regulations 43B , 43C and 43D of the principal regulations to take account of the alteration of the weekly rate of a Class 2 contribution, and the amount of a Class 3 contribution on 6th October 1985. The amendments also provide for the possibility of further mid-year changes to the rate of a Class 2, or amount of a Class 3 contribution.
+
+Regulation 6 makes minor and consequential amendments to regulations 61(1)(a), 67(1), 89, 90(2)(b)(i), 91, 115 and 133 of the principal regulations. The amendments take account of the insertion into section 4 of the Act of subsections (6A) to (6E) which relate to the appropriate percentage rates and to earnings brackets. They also provide for the use of the contributions calculator in respect of earnings above the upper earnings limit in relation to mariners ( regulation 91), Her Majesty's forces ( regulation 115) and registered dock workers (regulation 133).
+
+Regulation 7 makes a consequential amendment to the Social Security (Credits) Regulations 1975.
+
+## Annotations
+
+[^f00001]: Footnote: section 4(6A) and (6D) was inserted by section 7(2) of the Social Security Act 1985 (c.53).
+
+[^f00002]: Footnote: the relevant amending provisions are Schedule 1, paragraph 3(2) and (4) to the Social Security (Contributions) Act 1982 (c.2) and section 8(2) of the Social Security Act 1985 and the relevant amending instruments are S.I. 1980/1975, 1982/206, 1983/10, 1948, 1984/77, 1985/397, 398.
+
+[^key-b1e597baecae361f629a74ac20c4f3d5]: Textual amendment: Reg. 2 revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), 157(1), [Sch. 8 Pt. I](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/I) (with regs. 157 (2)-(4))
+
+[^f00004]: Footnote: 1975 c. 14; section 8(2C) was inserted by section 18(3) of the Health and Social Security Act 1984 (c.48).
+
+[^key-77c099e37c2eaabe12fdbc2c2505b59e]: Textual amendment: Reg. 6 revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), 157(1), [Sch. 8 Pt. I](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/I) (with regs. 157 (2)-(4))
+
+[^f00007]: Footnote: the relevant amending instrument is S.I. 1978/409.

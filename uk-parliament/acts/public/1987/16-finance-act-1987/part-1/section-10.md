@@ -1,0 +1,50 @@
+---
+title: Finance Act 1987, section 10
+act: Finance Act 1987
+section: '10'
+status: revised
+text_date: '2024-02-22'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1987/16/section/10
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 1987, section 10
+
+> Text as at 2024-02-22.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 10. Information powers.
+
+*Extent: E+W+S+N.I.*
+
+In section 77 of the [^c11286351]Customs and Excise Management Act 1979 (information in relation to goods imported, exported or shipped for carriage coastwise) in subsection (1)(a) the words “**importation, exportation or**” shall be omitted, and after that section there shall be inserted the following section—
+
+> **77A. Information powers.**
+>
+> (1) Every person who is concerned (in whatever capacity) in the importation or exportation of goods for which an entry or specification is required for that purpose by or under this Act shall—
+>
+> - (a) furnish to the Commissioners, within such time and in such form as they may reasonably require, such information relating to the goods or to the importation or exportation as the Commissioners may reasonably specify; and
+> - (b) if so required by an officer, produce or cause to be produced for inspection by the officer—
+>   - (i) at the principal place of business of the person upon whom the demand is made or at such other place as the officer may reasonably require, and
+>   - (ii) at such time as the officer may reasonably require,
+>
+>   any documents relating to the goods or to the importation or exportation.
+>
+> (2) Where, by virtue of subsection (1) above, an officer has power to require the production of any documents from any such person as is referred to in that subsection, he shall have the like power to require production of the documents concerned from any other person who appears to the officer to be in possession of them; but where any such other person claims a lien on any document produced by him, the production shall be without prejudice to the lien.
+>
+> (3) An officer may take copies of, or make extracts from, any document produced under subsection (1) or subsection (2) above.
+>
+> (4) If it appears to him to be necessary to do so, an officer may, at a reasonable time and for a reasonable period, remove any document produced under subsection (1) or subsection (2) above and shall, on request, provide a receipt for any document so removed; and where a lien is claimed on a document produced under subsection (2) above, the removal of the document under this subsection shall not be regarded as breaking lien.
+>
+> (5) Where a document removed by an officer under subsection (4) above is reasonably required for the proper conduct of a business, the officer shall, as soon as practicable, provide a copy of the document, free of charge, to the person by whom it was produced or caused to be produced.
+>
+> (6) Where any documents removed under the powers conferred by this section are lost or damaged, the Commissioners shall be liable to compensate their owner for any expenses reasonably incurred by him in replacing or repairing the documents.
+>
+> (7) If any person fails to comply with a requirement under this section, he shall be liable on summary conviction to a penalty of level 3 on the standard scale.
+
+## Annotations
+
+[^c11286351]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).

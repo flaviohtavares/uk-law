@@ -1,0 +1,102 @@
+---
+title: The Income Tax (Recommended Medical Treatment) Regulations 2014
+id: uksi/2014/3227
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2014-12-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2014/3227
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/3227/pdfs/uksiem_20143227_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/3227/pdfs/uksi_20143227_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/3227/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Income Tax (Recommended Medical Treatment) Regulations 2014
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2014 No. 3227
+
+Income Tax
+
+The Income Tax (Recommended Medical Treatment) Regulations 2014
+
+Made
+
+9th December 2014
+
+Laid before the House of Commons
+
+10th December 2014
+
+Coming into force
+
+1st January 2015
+
+The Treasury make the following Regulations in exercise of the powers conferred by section 320C(3)(c), (4) and (7) of the Income Tax (Earnings and Pensions) Act 2003[^f00001].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Income Tax (Recommended Medical Treatment) Regulations 2014 and come into force on 1st January 2015.
+
+## 2. Interpretation
+
+In these Regulations “health care professional” means—
+
+- (a) a registered medical practitioner;
+- (b) a registered nurse; or
+- (c) an occupational therapist, physiotherapist or psychologist registered with a regulatory body established by an Order in Council under section 60 of the Health Act 1999[^f00002] (regulation of health professions, social workers, other care workers etc.).
+
+## 3. Specified requirements for purposes of section 320C of the Income Tax (Earnings and Pensions) Act 2003
+
+The requirements set out in regulations 4 and 5 are the other specified requirements that a recommendation for medical treatment is required to meet for the purpose of section 320C of the Income Tax (Earnings and Pensions) Act 2003.
+
+## 4. Qualifying period of absence
+
+(1) A recommendation for medical treatment can only be given after the employee has been—
+
+- (a) assessed by a health care professional as unfit for work for at least 28 consecutive days; or
+- (b) absent from work due to injury or ill health for at least 28 consecutive days.
+
+(2) For the purpose of sub-paragraph (1)(a), an assessment that an employee is unfit for work includes an assessment that the employee may be fit for work subject to the employer making arrangements to enable the employee to return to work, providing that the employee does not return to work before a recommendation for medical treatment is made.
+
+## 5. Person making a recommendation and form of a recommendation
+
+A recommendation for medical treatment is required to be made by a health care professional and—
+
+- (a) be in writing;
+- (b) be provided to the employee and employer; and
+- (c) specify the medical treatment that is recommended.
+
+David Evennett
+
+Gavin Barwell
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+9th December 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Section 320C of the Income Tax (Earnings and Pensions) Act [2003 (c.1)](https://www.legislation.gov.uk/ukpga/2003/1) (“ITEPA 2003”) excludes from liability to income tax the funding by an employer of medical treatment which is recommended to an employee as part of an occupational health service for the purposes of assisting the employee to return to work after a period of absence due to injury or ill health.
+
+The exemption will apply to expenditure up to a cap of £500 per tax-year per employee, where the recommendation for medical treatment meets the conditions set out in sections 320C(3)(a) and (b) of ITEPA 2003 and any other requirements specified in regulations.
+
+These Regulations specify the additional requirements that are to apply to a recommendation for medical treatment.
+
+A Tax Information and Impact Note covering this instrument was published on 10th December 2013 alongside the draft clauses and explanatory notes for Finance Bill 2014 and is available on the HMRC website at http://www.hmrc.gov.uk/thelibrary/tiins.htm. It remains an accurate summary of the impacts that apply to this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c.1](https://www.legislation.gov.uk/ukpga/2003/1); section 320C was inserted by section 12(2) of the Finance Act [2014 (c.26)](https://www.legislation.gov.uk/ukpga/2014/26).
+
+[^f00002]: Footnote: [1999 c.8](https://www.legislation.gov.uk/ukpga/1999/8). Section 60 was amended by section 26(9) of the National Health Service Reform and Health Care Professions Act [2002 (c.17)](https://www.legislation.gov.uk/ukpga/2002/17), paragraphs 1(2) to (4) of Schedule 8, paragraph 10 of Schedule 10 and Part 2 of Schedule 15 to the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14), sections 209(2) to (10), 210 and 213(7)(i) of, and paragraphs 60 and 72(2) of Schedule 15 to, the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7), [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253), [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254), [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231) and [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).

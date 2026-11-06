@@ -1,0 +1,45 @@
+---
+title: Charities Act 2011, section 107
+act: Charities Act 2011
+section: '107'
+status: revised
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2011/25/section/107
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Charities Act 2011, section 107
+
+> Text as at 2026-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 107. Power to direct transfer of credits in dormant bank accounts
+
+*Extent: E+W*
+
+(1) The Commission may give a direction under subsection (2) where—
+
+- (a) it is informed by a relevant institution—
+  - (i) that it holds one or more accounts in the name of or on behalf of a particular charity (“the relevant charity”), and
+  - (ii) that the account, or (if it so holds two or more accounts) each of the accounts, is dormant, and
+- (b) it is unable, after making reasonable inquiries, to locate that charity or any of its trustees.
+
+(2) A direction under this subsection is a direction which—
+
+- (a) requires the institution concerned to transfer the amount, or (as the case may be) the aggregate amount, standing to the credit of the relevant charity in the account or accounts in question to such other charity as is specified in the direction in accordance with subsection (3), or
+- (b) requires the institution concerned to transfer to each of two or more other charities so specified in the direction such part of that amount or aggregate amount as is there specified in relation to that charity.
+
+(3) The Commission—
+
+- (a) may specify in a direction under subsection (2) such other charity or charities as it considers appropriate, having regard, in a case where the purposes of the relevant charity are known to the Commission, to those purposes and to the purposes of the other charity or charities, but
+- (b) must not so specify any charity unless it has received from the charity trustees written confirmation that those trustees are willing to accept the amount proposed to be transferred to the charity.
+
+(4) Any amount received by a charity by virtue of this section is to be received by the charity on terms that—
+
+- (a) it is to be held and applied by the charity for the purposes of the charity, but
+- (b) as property of the charity, it is nevertheless subject to any restrictions on expenditure to which it was subject as property of the relevant charity.
+
+(5) The receipt of any charity trustees or trustee for a charity in respect of any amount received from a relevant institution by virtue of this section is a complete discharge of the institution in respect of that amount.

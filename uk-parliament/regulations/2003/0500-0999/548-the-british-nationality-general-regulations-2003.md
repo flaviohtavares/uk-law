@@ -1,0 +1,1183 @@
+---
+title: The British Nationality (General) Regulations 2003
+id: uksi/2003/548
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-03-06'
+text_date: '2023-05-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2003/548
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/548/pdfs/uksi_20030548_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/548/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The British Nationality (General) Regulations 2003
+
+> Text as at 2023-05-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2003 No. 548
+
+BRITISH NATIONALITY
+
+The British Nationality (General) Regulations 2003
+
+Made
+
+6th March 2003
+
+Laid before Parliament
+
+11th March 2003
+
+Coming into force
+
+1st April 2003
+
+In exercise of the powers conferred upon him by section 41(1) and (3) of the British Nationality Act 1981 [^c5011481], the Secretary of State hereby makes the following Regulations:[^key-ec4b97f4147bee2e097e6d5d12ee8baa]
+
+## PART I — GENERAL
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the British Nationality (General) Regulations 2003 and shall come into force on 1st April 2003.
+
+### 2. Interpretation
+
+(1) In these Regulations, the following expressions have the meanings hereby assigned to them, that is to say—
+
+- “**the Act**” means the British Nationality Act 1981;
+- “**applicant**” in relation to an application made on behalf of a person not of full age or capacity means that person;
+- [^key-1a53bb08dcf75af5c2d35149d286df01]...
+- “**High Commissioner**” means, in relation to a country mentioned in Schedule 3 to the Act [^c5011491], the High Commissioner for Her Majesty’s Government in the United Kingdom appointed to that country, and includes the acting High Commissioner.
+- “immigration rules” means rules made under section 3(2) of the Immigration Act 1971;[^key-9d255586c0256cb4b3f40881d582e50c]
+- [^key-b68b393f9e67c2a4fd1cc6b1f4d77880]...
+- [^key-78e25f9ad09e97ddda2f0c52cfb8f5b2]...
+- [^key-a030b045c8bb4254568d175affb1479f]...
+
+(2) In the application of the provisions of regulation 6(2), 6(3), 6A(1), (3) and (5), paragraph 3 of Schedule 3[^key-33c1160df85a7317cb70353fc871b9ff] [^key-a1d1072833b2e30d0c17e746e80bc77a]... where a function of the Secretary of State under the Act is exercised by the Lieutenant-Governor of any of the Islands by virtue of arrangements made under section 43(1) of the Act [^c5011501], any reference in those provisions to the Secretary of State shall be construed as a reference to the Lieutenant-Governor.
+
+## PART II — REGISTRATION AND NATURALISATION
+
+### 3. Applications
+
+Any application for registration as a British citizen, British Overseas citizen or British subject or for a certificate of naturalisation as a British citizen shall—
+
+- (a) be made to the appropriate authority specified in regulation 4; and
+- (b)[^key-8252d8cb5f6ed48741d1aa53a1bab91f] satisfy the requirements of Part 1 of Schedule 1 and any applicable requirements of Part II or III of Schedule 1 and such further requirements, if any, as are specified in relation thereto in Schedule 2.
+
+### 4. Authority to whom application is to be made
+
+(1) Except as provided by paragraphs (2) and (3), the authority to whom an application is to be made is as follows:
+
+- (a) if the applicant is in Great Britain or Northern Ireland, to the Secretary of State at the Home Office;
+- (b) if the applicant is in any of the Islands, to the Lieutenant-Governor;
+- (c) if the applicant is in a British overseas territory, to the Governor;
+- (d)[^key-1285b62fc632c8e5c1dbeae8fb768f80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^key-6277f3d123bfcc6e882b5bed3b6d2963] if the applicant is elsewhere, to the Secretary of State at the Home Office.
+
+(2) The authority to whom an application under section 4(5) of the Act (acquisition by registration: British overseas territories citizens, etc), on grounds of Crown Service under the government of a British overseas territory or service as a member of a body established by law in a British overseas territory, is to be made is in all cases the Governor of that territory.
+
+(3) The authority to whom an application under section 5 of the Act (acquisition by registration: British overseas territories citizens having connection with Gibraltar)[^key-61de249f033d27f821f9e88a75096881] [^c5011511] is to be made is in all cases the Governor of Gibraltar.
+
+### 5. Persons not of full age or capacity
+
+An application may be made on behalf of someone not of full age or capacity by his father or mother or any person who has assumed responsibility for his welfare.
+
+### 5A. Knowledge of language and life in the United Kingdom[^key-21c608c3f78ff4e78aed6abf2763e563]
+
+(1) Subject to paragraph (1A),[^key-9c40e482b9596f3fb6f1514824aca4db] a person has sufficient knowledge of the English language for the purpose of an application for naturalisation as a British citizen under section 6 of the Act if that person—
+
+- (a)[^key-87afee82f8e333111599cc82bcb40ac9] has passed a test known as a Secure English Language Test administered by an English language test provider which has been approved by the Secretary of State for this purpose and which-
+  - (i) is at a level equivalent to level B1 or above on the Council of Europe’s Common European Framework of Reference for Languages: Learning, Teaching, Assessment; and
+  - (ii) was taken no more than two years before the date of the application for naturalisation; or
+- (b) possesses an academic qualification deemed by UK NARIC to meet the recognised standard of a Bachelor’s or Master’s degree or PhD in the United Kingdom and—
+  - (i) UK NARIC has confirmed that the qualification was taught or, as the case may be, researched in English; or
+  - (ii) the qualification was taught or, as the case may be, researched in an English speaking country specified in Schedule 2A other than Canada; or
+- (c) is ordinarily resident outside the United Kingdom and a person designated by the Secretary of State certifies in writing that the person has sufficient knowledge of the English language for the purpose of an application for naturalisation; or
+- (d) satisfied the Secretary of State when making a successful application for indefinite leave to remain within the meaning of section 33(1) of the Immigration Act 1971 that he or she possessed a qualification or had passed a test in English at a level equivalent to Level B1 or above on the Council of Europe’s Common European Framework of Reference for Languages: Learning, Teaching, Assessment; or
+- (e) is a national of an English speaking country specified in Schedule 2A ; or[^key-588064fe1a214d6dadaf024051849f1b]
+- (f) is a relevant pre-1973 entrant; or
+- (g) is not within sub-paragraph (f) but is an eligible child of a pre-1973 entrant.
+
+(1A)[^key-33bb071b98d1a6b79ba3b5bd16be21bb] Where the Secretary of State has reasonable grounds to suspect that a person used deception in relation to a test or qualification mentioned in sub-paragraph (a), (b) or (d) of paragraph (1) and relied upon by that person in his or her application for naturalisation, the Secretary of State may—
+
+- (a) disregard that test or qualification; and
+- (b) require that person to take or (as the case may be) retake and pass a test specified in Schedule 2A for the purpose of demonstrating that he or she has sufficient knowledge of the English language.
+
+(2) Subject to paragraph (3),[^key-4dd326d15dff3915e30b87da74037a74] a person has sufficient knowledge about life in the United Kingdom for the purpose of an application for naturalisation as a British citizen under section 6 of the Act if that person—
+
+- (a) has passed the test known as the “Life in the UK Test” administered by an educational institution or other person approved for this purpose by the Secretary of State or the Lieutenant Governor of the Isle of Man; or
+- (b) has passed the test known as the “Citizenship Test” administered by an educational institution or other person approved for this purpose by the Lieutenant Governor of Guernsey or Jersey; or
+- (c) is ordinarily resident outside the United Kingdom and a person designated by the Secretary of State certifies in writing that the person has sufficient knowledge about life in the United Kingdom for the purpose of an application for naturalisation ; or[^key-1676ac09e264db3bffa5eaaa3463f481]
+- (d) is a relevant pre-1973 entrant; or
+- (e) is not within sub-paragraph (d) but is an eligible child of a pre-1973 entrant.
+
+(3)[^key-3a135d1e1f2300663b15f987c328e595] Where the Secretary of State has reasonable grounds to suspect that a person used deception in relation to a test mentioned in sub-paragraph (a) or (b) of paragraph (2) and relied upon by that person in his or her application for naturalisation, the Secretary of State may—
+
+- (a) disregard that test; and
+- (b) require that person to retake and pass the test mentioned in sub-paragraph (a) or (b) of paragraph (2) for the purpose of demonstrating that he or she has sufficient knowledge about life in the United Kingdom.
+
+(4)[^key-6437920fb000b6648356a2ce1832aae3] In this regulation “relevant pre-1973 entrant” means a person who is within paragraph (5) or (6).
+
+(5) A person is within this paragraph if the person—
+
+- (a)[^key-fcfbdb12e310f67a78dfc2302e585391] held indefinite leave to enter or remain in the United Kingdom or any of the Islands within the meaning of section 33(1) of the Immigration Act 1971 as at 1st January 1973; and
+- (aa) holds such leave (whether or not that leave has been held continuously since 1st January 1973); and
+- (b) was, on 1st January 1973—
+  - (i) a national of a country specified in Schedule 2B (certain members of the Commonwealth and British overseas territories etc.);
+  - (ii) a citizen of the United Kingdom and Colonies by virtue of a connection with a country or territory specified in that Schedule; or
+  - (iii) a British subject without citizenship (see sections 13 and 16 of the British Nationality Act 1948 as then in force).
+
+(6) A person is within this paragraph if the person—
+
+- (a) has the right of abode in the United Kingdom or any of the Islands by virtue of section 2(1)(b) of the Immigration Act 1971 (certain Commonwealth citizens with the right of abode);
+- (b) was, on 1st January 1973, ordinarily resident in the United Kingdom or any of the Islands; and
+- (c) has strong ties with the United Kingdom or any of the Islands.
+
+(7) For the purposes of this regulation, a person (“C”) is an eligible child of a pre-1973 entrant if C—
+
+- (a) is the child (including an adopted child) of—
+  - (i) a person who is (or was at the time of their death) a relevant pre-1973 entrant;
+  - (ii) a person who is (or was at the time of their death) a British citizen and was, immediately before they became a British citizen, a relevant pre-1973 entrant; [^key-90d887eca722a8bb601910c1fad7c608]...
+  - (iii) a pre-1973 deceased entrant; or[^key-2e393efd9cc7988c7459f8c7bc1b1860]
+  - (iv)[^key-1da41bf132ce2a02390a77b75bca7449] a person who would be (or would have been at the time of their death) a relevant pre-1973 entrant but for a subsequent lapse in their indefinite leave to enter or remain in the United Kingdom or any of the Islands;
+- (b) was born outside the United Kingdom and the Islands;
+- (c) entered the United Kingdom or any of the Islands on or after 1st January 1973 and was, at the time of entry, under the age of 18; and
+- (d) is settled in the United Kingdom or any of the Islands and has, since C’s entry as mentioned in sub-paragraph (c), been ordinarily resident in the United Kingdom or any of the Islands.
+
+(8) In paragraph (7) “pre-1973 deceased entrant” means a person who—
+
+- (a) died before 1st January 1973;
+- (b) was settled in the United Kingdom or any of the Islands before their death; and
+- (c) was, immediately before they died—
+  - (i) a national of a country specified in Schedule 2B;
+  - (ii) a citizen of the United Kingdom and Colonies by virtue of a connection with a country or territory specified in that Schedule; or
+  - (iii) a British subject without citizenship.
+
+(9) In paragraphs (5) to (8) “the United Kingdom” means England and Wales, Scotland and Northern Ireland.
+
+(10) For the purposes of this regulation, a reference to a country or territory in Schedule 2B includes a reference to any former country or territory which forms part of the country or territory concerned.
+
+### 6. Citizenship oaths and pledges[^key-bde3476feb3fabdbc953f293c13ccddf]
+
+(1) Where a citizenship oath or pledge is required by section 42 of the Act to be made by an applicant for registration or for a certificate of naturalisation, it shall be administered in accordance with the requirements of Schedule 3.
+
+(2) If, on an application for registration or for a certificate of naturalisation by an applicant who is required to make a citizenship oath or pledge, the Secretary of State decides that the registration should be effected or the certificate should be granted, he shall cause notice in writing of the decision to be given to the applicant.
+
+(3) The requirement to make a citizenship oath or pledge shall be satisfied within three months of the giving of the notice referred to in paragraph (2) or such longer time as the Secretary of State may allow.
+
+(4) Any notice required by paragraph (2) to be given to an applicant may be given—
+
+- (a) in any case where the applicant’s whereabouts are known, by causing the notice to be delivered to him personally or by sending it to him by post;
+- (b) in a case where the applicant’s whereabouts are not known, by sending it by post in a letter addressed to him at his last known address.
+
+(5) In this regulation, references to the requirement to make a citizenship oath or pledge include the requirement to make a citizenship oath and pledge at a citizenship ceremony.
+
+### 6A. Arrangements for, and conduct of, citizenship ceremonies
+
+(1) The Secretary of State may designate or authorise a person to exercise a function (which may include a discretion) in connection with a citizenship ceremony or a citizenship oath or pledge, and the reference in paragraph (3)(b) to “designated person” shall be construed accordingly.
+
+(2) Each local authority (within the meaning of section 41(3B) of the Act) shall—
+
+- (a) make available, or make arrangements for, premises at which citizenship ceremonies may be conducted; and
+- (b) arrange for citizenship ceremonies to be conducted with sufficient frequency so as to enable applicants in their area who are required to make a citizenship oath and pledge at a citizenship ceremony to meet the time limit laid down by regulation 6(3).
+
+(3) Where an applicant is required by section 42 of the Act to make a citizenship oath and pledge at a citizenship ceremony, the Secretary of State shall—
+
+- (a) issue to the applicant an invitation in writing to attend a citizenship ceremony (a “ceremony invitation”);
+- (b) notify the applicant of the local authority or designated person which the applicant should contact to arrange attendance at a citizenship ceremony (the “relevant authority”); and
+- (c) notify the relevant authority of his decision in relation to the applicant.
+
+(4) An applicant who has arranged attendance at a citizenship ceremony shall bring with him to the ceremony his ceremony invitation; and if the applicant fails to do so, the person conducting the ceremony may refuse admittance to, or participation in, the ceremony if he is not reasonably satisfied as to the identity of the applicant.
+
+(5) Where an applicant makes the relevant citizenship oath and pledge at a citizenship ceremony as required by section 42 of the Act—
+
+- (a) the person conducting the ceremony shall grant to the applicant a certificate of registration or naturalisation, duly dated with the date of the ceremony; and
+- (b) the relevant authority shall notify the Secretary of State in writing within 14 days of the date of the ceremony that the applicant has made the relevant citizenship oath and pledge at a citizenship ceremony and the date on which the ceremony took place.
+
+(6) In this regulation, “the person conducting the ceremony” is the person who administers the citizenship oath and pledge at the citizenship ceremony in accordance with paragraph 3 of Schedule 3.
+
+### 7. Certificates of naturalisation[^key-0736ed0243387f518cbf13132b97f6dd]
+
+A certificate of naturalisation shall include the following information relating to the person to whom the certificate is being granted—
+
+- (a) full name;
+- (b) date of birth; and
+- (c) place and country of birth.
+
+## PART IIA — Biometric Information and Citizenship[^key-48a15129844e5617e46d564d7a4e884f]
+
+### 7A. Provision of biometric information with citizenship applications
+
+(1) Subject to regulation 7B, where an individual makes an application for registration or naturalisation as a British citizen, an authorised person may require the individual to provide biometric information.
+
+(2) Where an authorised person requires an individual to provide biometric information in accordance with paragraph (1), the individual must provide it.
+
+### 7B. Applicants under the age of sixteen
+
+(1) An applicant under the age of sixteen (“the child”) must not be required to provide biometric information in accordance with regulation 7A except where the authorised person is satisfied that the biometric information will be taken in the presence of a person aged eighteen or over who is—
+
+- (a) the child’s parent or guardian; or
+- (b) a person who for the time being takes responsibility for the child.
+
+(2) The person mentioned in paragraph (1)(b) may not be—
+
+- (a) an authorised person or any officer of the Secretary of State;
+- (b) any other person acting on behalf of an authorised person as part of a process specified under regulation 7C(1)(a) or (c).
+
+(3) An authorised person shall not require an applicant under the age of sixteen to provide biometric information unless the decision to do so has been confirmed by a person designated for the purpose by the Secretary of State.
+
+(4) This regulation does not apply if the authorised person reasonably believes that the applicant whose biometric information is to be taken is aged sixteen or over.
+
+### 7C. Process by which an individual’s biometric information may be obtained and recorded
+
+(1) An authorised person who requires an individual to provide a record of the individual’s fingerprints or a photograph of the individual’s face under regulation 7A may do any one or more of the following—
+
+- (a) require the individual to make an appointment before a specified date, which the individual must attend, to enable a record of the individual’s fingerprints or a photograph of the individual’s face to be taken by an authorised person or by a person acting on behalf of an authorised person;
+- (b) specify the date, time and place for the appointment;
+- (c) require the individual to attend premises before a specified date to enable a record of the individual’s fingerprints or a photograph of the individual’s face to be taken by an authorised person or by a person acting on behalf of an authorised person; and
+- (d) specify any documents which the individual must bring to the appointment or premises, or action which the individual must take to confirm the individual’s identity.
+
+(2) An authorised person may require a record of fingerprints or photograph to be of a particular specification.
+
+(3) Where an authorised person requires an individual to submit to any requirement in accordance with paragraph (1), the individual must submit to it.
+
+### 7D. Consequences of a failure to comply with a requirement of these Regulations
+
+Where an individual who is required to provide biometric information as part of an application for registration or naturalisation as a British citizen fails to comply with the process, or combination of processes, required by an authorised person in accordance with regulation 7C, the Secretary of State may treat the individual’s application as invalid.
+
+### 7E. Use and retention of biometric information
+
+(1) Biometric information provided in accordance with these Regulations may be retained only if the Secretary of State thinks that it is necessary to retain it for use in connection with—
+
+- (a) the exercise of a function by virtue of the Immigration Acts; or
+- (b) the exercise of a function in relation to nationality.
+
+(2) Biometric information retained by virtue of paragraph (1) may also be used—
+
+- (a) in connection with the prevention, investigation or prosecution of an offence;
+- (b) for a purpose which appears to the Secretary of State to be required in order to protect national security;
+- (c) in connection with identifying persons who have died, or are suffering from illness or injury; and[^key-ddc283d24d149539208201b6d8b3765d]
+- (d) for the purpose of ascertaining whether a person has acted unlawfully, or has obtained or sought anything to which the person is not legally entitled; [^key-a3737767a1e17e5d4a6bdabc1f316a36]...
+- (e)[^key-a3737767a1e17e5d4a6bdabc1f316a36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7EA. Power to use and retain existing biometric information[^key-2ca097a5ac7d6d927dd5c3cb2de1071f]
+
+(1) This regulation applies where—
+
+- (a) a person makes an application for registration or naturalisation as a British citizen; and
+- (b) the Secretary of State already has a record of the person’s fingerprints or a photograph of the person’s face in their possession (for whatever reason).
+
+(2) Where this regulation applies, the Secretary of State may use or retain that information for the purposes of these Regulations.
+
+### 7F. Destruction of biometric information
+
+(1) The Secretary of State must take all reasonable steps to ensure that biometric information held by the Secretary of State by virtue of these Regulations, including any copies, is destroyed if the Secretary of State—
+
+- (a) no longer thinks that it is necessary to retain the information for use as mentioned in regulation 7E(1); or
+- (b) subject to the exception in paragraph (2), is satisfied that the person to whom the information relates is a British citizen, or a Commonwealth citizen who has a right of abode in the United Kingdom as a result of section 2(1)(b) of the Immigration Act 1971.
+
+(2) The exception is that photographs of a person who is registered or naturalised as a British citizen may be retained until the person is issued with a United Kingdom passport describing the person as a British citizen.
+
+### 7G. Retention of fingerprints
+
+(1) Save where regulation 7F applies and subject to paragraphs (2) and (3), the Secretary of State must take all reasonable steps to ensure that any record of a person’s fingerprints held by the Secretary of State by virtue of these Regulations, including any copies, is destroyed at the end of the period of 15[^key-2c29ac2a9c42f73d27bb10042b6ae9ce] years beginning with —[^key-4d0727ad40c5a8bcacb565aa153eb5c6]
+
+- (a) the date on which the fingerprints were provided; or
+- (b) the date on which they are reused in connection with a relevant application made by the person,
+
+whichever is the later.
+
+(2) But fingerprints can be held beyond that period if they are—
+
+- (a) the fingerprints of a person who is, or at any time has been, subject to a deportation order, exclusion order or decision to exclude;
+- (b) the fingerprints of a person who can be, or at any time could have been, refused entry clearance or leave to enter for a period specified in the immigration rules because of a previous breach of the United Kingdom’s immigration laws;
+- (c) fingerprints that the Secretary of State deems it necessary for national security reasons to retain for use in connection with one of the functions specified in regulation 7E(1);
+- (d) the fingerprints of a person with indefinite leave to enter or remain in the United Kingdom; or[^key-ad38f7764f4f9057569ae3685d471c93]
+- (e) the fingerprints of a person whose indefinite leave to enter or remain in the United Kingdom lapses, is revoked or is cancelled, in which case they must be destroyed by the Secretary of State at the end of ten years beginning with the date of the lapse, revocation or cancellation (as the case may be); [^key-89e3256d5af49559b8772cd2bc82b184]...
+- (f)[^key-89e3256d5af49559b8772cd2bc82b184] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The Secretary of State is only required to take steps to destroy, pursuant to paragraph (2)(e) [^key-260f2d702d183f4200a2d1d4d111d100]..., the fingerprints of a person whose leave has lapsed [^key-b2298ef9d94717311342dd822c38fad5]... on the application, supported by evidence to the satisfaction of the Secretary of State, of that person.
+
+(4)[^key-ac2f9a1b9e8b4256161c3b708e6a1861] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-ede63d0306b8cd4c9df62cc40f8616de] A relevant application for the purposes of paragraph (1) is an application for—
+
+- (a) entry clearance;
+- (b) leave to enter;
+- (c) leave to remain; or
+- (d) registration or naturalisation as a British citizen.
+
+### 7H. Destruction etc. of electronic data
+
+(1) The Secretary of State must take all reasonable steps to ensure—
+
+- (a) that data held in electronic form which relates to biometric information which has to be destroyed by virtue of these Regulations is destroyed or erased; or
+- (b) that access to such data is blocked.
+
+(2) A person whose biometric information has to be destroyed by virtue of these Regulations is entitled, on written request, to a certificate issued by the Secretary of State to the effect that the Secretary of State has taken the steps required by paragraph (1).
+
+(3) A certificate issued under paragraph (2) must be issued within the period of 3 months beginning with the date on which the request for it is received by the Secretary of State.
+
+### 71. Biometric information: retention under another power[^M_X_034c8239-e4fc-4ce6-f735-e4b88e4380ef]
+
+The requirements in these Regulations to destroy biometric information or data do not apply if and in so far as the information or data is retained in accordance with and for the purposes of another power.
+
+## PART III — RENUNCIATION AND DEPRIVATION
+
+### 8. Declarations of renunciation
+
+Any declaration of renunciation of British citizenship, British Overseas citizenship or the status of a British subject shall—
+
+- (a) be made to the appropriate authority specified in regulation 9; and
+- (b) satisfy the requirements of Schedule 5.
+
+### 9. Authority to whom declaration of renunciation is to be made
+
+The authority to whom a declaration of renunciation is to be made is as follows:
+
+- (a) if the declarant is in Great Britain or Northern Ireland, to the Secretary of State at the Home Office;
+- (b) if the declarant is in any of the Islands, to the Lieutenant-Governor;
+- (c) if the declarant is in a British overseas territory, to the Governor;
+- (d)[^key-9c0e059b22bad4401fdcf89340049280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^key-de30a34ae068ade69e2273b8e5ccbdfb] if the declarant is elsewhere, to the Secretary of State at the Home Office.
+
+### 10. Notice of proposed deprivation of citizenship[^key-a41d81a3b78684855a063291b05c44ac]
+
+(1) Where it is proposed to make an order under section 40 of the Act depriving a person of a citizenship status, the notice required by section 40(5) of the Act to be given to the person may be—
+
+- (a) given to the person by hand;
+- (b) sent by fax;
+- (c) sent by email;
+- (d) sent by courier;
+- (e) sent by document exchange;
+- (f) sent by post, whether or not delivery or receipt is recorded; or
+- (g) sent by any of the means set out at (b) to (f) to—
+  - (i) the person’s representative; or
+  - (ii) if the person is under 18, their parent or guardian.
+
+(2) Where the notice is sent under paragraph (1)(b), it must be sent to a number provided by the person or the person’s representative.
+
+(3) Where the notice is sent under any one or more of paragraphs (1)(c) to (g), it must be sent—
+
+- (a) to the address for correspondence provided by the person or the person’s representative; or
+- (b) where no such address has been provided, the person’s last known address or the address of their representative.
+
+(4)[^key-d3cfdf055538e263be382bef52402337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) A notice required to be given by section 40(5) of the Act is, unless the contrary is proved, deemed to have been given—
+
+- (a) where the notice is sent by fax, when it is sent;
+- (b) where the notice is sent by email, when it is sent;
+- (c) where the notice is sent by document exchange, on the day after the day on which it is sent;
+- (d) where the notice is sent by post from and to a place within the United Kingdom, on the second day after the day on which it is sent;
+- (e) where the notice is sent by post from or to a place outside the United Kingdom, on the twenty-eighth day after the day on which it is sent;
+- (f) where the notice is sent by post where delivery or receipt is recorded, when the notice is recorded as having been delivered or received;
+- (g) in any other case on the day on which the notice is delivered.
+
+(6) In this regulation “representative” is a person who appears to the Secretary of State to be representing the person to whom the notice under section 40(5) of the Act is required to be given, and, where the notice is sent to the person’s representative by any of the means set out in paragraph (1), it is deemed to have been served on the person in accordance with that section.
+
+(7) In this regulation—
+
+- “document exchange” means a document exchange providing a system of delivery of documents by reference to numbered boxes at document exchanges; and
+- “fax” means the making of a facsimile copy of a document by the transmission of electronic signals.
+
+### 11. Cancellation of registration of person deprived of citizenship
+
+Where an order has been made depriving a person who has a citizenship status by virtue of registration (whether under the Act or under the former nationality Acts) of that citizenship status, the name of that person shall be removed from the relevant register.
+
+### 12. Cancellation of certificate of naturalisation in case of deprivation of citizenship
+
+Where an order has been made depriving a person who has a citizenship status by virtue of the grant of a certificate of naturalisation (whether under the Act or under the former nationality Acts) of that citizenship status, the person so deprived or any other person in possession of the relevant certificate of naturalisation shall, if required by notice in writing given by the authority by whom the order was made, deliver up the said certificate to such person, and within such time, as may be specified in the notice; and the said certificate shall thereupon be cancelled or amended.
+
+## PART IV — SUPPLEMENTAL
+
+### 13. Evidence
+
+A document may be certified to be a true copy of a document for the purpose of section 45(2) of the Act by means of a statement in writing to that effect signed by a person authorised by the Secretary of State, the Lieutenant-Governor, the High Commissioner or the Governor in that behalf.
+
+### 14. Manner of signifying parental consent to registration[^key-d18da8a0148ff56f1f0b5d4635b82150]
+
+Where a parent, in pursuance of section 3(5)(c) or 4D(3) or 4G(3)[^key-cb3f620c9b1f472bd88cd3c546618e45] of the Act, consents to the registration of a person as a British citizen under subsection 3(5) or section 4D or 4G[^key-855124ed25b82f49dc4a741143dd17d6], the consent shall be expressed in writing and signed by the parent.
+
+### 15. Revocation
+
+The British Nationality (General) Regulations 1982 [^c5011541] are hereby revoked.
+
+Beverley Hughes
+
+Minister of State
+
+Home Office
+
+## SCHEDULE 1 — GENERAL REQUIREMENTS AS RESPECTS APPLICATIONS
+
+Regulation 3
+
+### PART I — All applications
+
+**1.** An application shall be made in writing and shall state the name, address and date and place of birth of the applicant.
+
+**2.** An application shall contain a declaration that the particulars stated therein are true.
+
+### PART II — Applications by persons not of full age or capacity
+
+**3.** An application in respect of someone not of full age or capacity made by another person on his behalf shall state that that is the case and the name and address of that person.
+
+**4.** An application made by a person on behalf of someone not of full age or capacity shall indicate the nature of that person’s connection with him and, if that person has any responsibility for him otherwise than as a parent, the nature of that responsibility and the manner in which it was assumed.
+
+### PART III — Applications for a waiver on the basis of physical or mental condition[^key-efd701b6e085a4255db0aa4a2be98770]
+
+**5.** (1) This paragraph applies where the applicant seeks a waiver under paragraph 2(1)(e) of Schedule 1 to the British Nationality Act 1981 on the basis of their physical or mental condition.
+
+(2) A request made under paragraph (1) must be accompanied by—
+
+- (a) a statement that the waiver applies and how it applies; and
+- (b) written confirmation of the matters stated in the statement.
+
+(3) The written confirmation required under sub-paragraph (2)(b) must be—
+
+- (a) provided by a registered medical practitioner, who must confirm that the practitioner’s knowledge of the applicant’s age or physical or mental condition derives from having met the applicant in person, and provide the date of their last meeting with the applicant, and
+- (b) made using the form which appears at Schedule 6 to these Regulations.
+
+## SCHEDULE 2 — PARTICULAR REQUIREMENTS AS RESPECTS APPLICATIONS
+
+Regulation 3
+
+### Interpretation[^key-eb60eba59b1d512a03018fae26b35089]
+
+**A1.** In this Schedule—
+
+- (a) a reference to a person’s “natural father” is to be construed in accordance with section 4J(1) of the Act;
+- (b) a reference to a person automatically becoming a British citizen, or a citizen of the United Kingdom and Colonies, is to be construed in accordance with section 4J(4) of the Act.
+
+### Application under section 1(3) of the Act
+
+**1.** An application under section 1(3) of the Act shall contain information showing:
+
+(a)[^key-a48afea28aee51e4780bf711e84a42af] that the applicant’s father or mother became a British citizen, or became settled in the United Kingdom, after the applicant’s birth; and[^key-79204cd6fb8603a4b780e01a6f425b82]
+
+(b) where the applicant is aged 10 or over, that he is of good character.
+
+### Application under section 1(3A) of the Act[^key-756286a3d9a0a8a442fec8bc58dae242]
+
+**1A.** An application under section 1(3A) shall contain information showing—
+
+- (a) that the applicant’s father or mother became a member of the armed forces after the applicant’s birth; and
+- (b) where the applicant is aged 10 or over, that he is of good character.
+
+### Application under section 1(4) of the Act
+
+#### 2. Application under section 1(4) of the Act
+
+An application under section 1(4) of the Act shall contain information showing:
+
+(a)[^key-7615cfeb54aa03947785f07157e99812] that the applicant possesses the requisite qualifications in respect of residence; and[^key-f1ac58420b6ecf563ceb4120dd9f6f90]
+
+(b) where the applicant is aged 10 or over, that he is of good character.
+
+**3.** If the applicant was absent from the United Kingdom on more than 90 days in all in any one of the first 10 years of his life and it is desired that the application should nevertheless be considered under section 1(7) of the Act, it shall specify the special circumstances to be taken into consideration.
+
+### Application under section 3(2) of the Act
+
+#### 4. Application under section 3(2) of the Act
+
+An application under section 3(2) of the Act shall contain information showing—
+
+- (a) that the applicant’s father or mother (“the parent in question”) was a British citizen by descent at the time of the applicant’s birth;
+- (b) that the father or mother of the parent in question—
+  - (i) was a British citizen otherwise than by descent at the time of the birth of the parent in question; or
+  - (ii) became a British citizen otherwise than by descent at commencement; or
+  - (iii) would have become a British citizen otherwise than by descent at commencement but for his or her death;
+- (c) either—
+  - (i) that the parent in question possesses the requisite qualifications in respect of residence; or
+  - (ii) that the applicant was born stateless.
+
+**5.**[^key-ff8b08fd7198e9a93148db1116b716ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Application under section 3(5) of the Act
+
+**6.** An application under section 3(5) of the Act shall contain information showing—
+
+- (a) that the applicant’s father or mother was a British citizen by descent at the time of the applicant’s birth;
+- (b) that the applicant and his father and mother possess the requisite qualifications in respect of residence;
+- (c) that the consent of the applicant’s father and/or mother (as required by section 3(5)(c) and (6) of the Act) has been signified in accordance with regulation 14 and, if the consent of one parent only has been signified, the reason for that fact; and[^key-d3d96d0da80f7bcd6d98420dcc9dd76e]
+- (d) where the applicant is aged 10 or over, that he is of good character.
+
+### Application under section 4(2) of the Act
+
+**7.** (1) An application under section 4(2) of the Act shall contain information showing—
+
+- (a) that the applicant is a British overseas territories citizen, a British Overseas citizen, a British subject under the Act or a British protected person;
+- (b) that the applicant possesses the requisite qualifications in respect of residence, freedom from immigration restrictions and compliance with the immigration laws; and[^key-be37929c8b4e0ac568cfc0b90fec1cf8]
+- (c) where the applicant is aged 10 or over, that he is of good character.
+
+(1A)[^key-83c8c3ca580852ffe0818c78a1013fda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) If the applicant does not possess the requisite qualifications in respect of residence, freedom from immigration restrictions and compliance with the immigration laws and it is desired that the application should nevertheless be considered under section 4(4) of the Act, it shall specify the special circumstances to be taken into consideration.
+
+### Application under section 4(5) of the Act
+
+**8.** (1) An application under section 4(5) of the Act shall contain information showing—
+
+- (a) that the applicant is a British overseas territories citizen, a British Overseas citizen, a British subject under the Act or a British protected person;
+- (b) that the applicant possesses the requisite qualifications in respect of service; and[^key-60fcd1ce59279067cb03b5595c693e35]
+- (c) where the applicant is aged 10 or over, that he is of good character.
+
+(2) The application shall specify the special circumstances to be taken into consideration.
+
+### Application under section 4A of the Act[^c5011551]
+
+**9.** An application under section 4A of the Act shall contain information showing—
+
+- (a) that the applicant is a British overseas territories citizen who is not such a citizen by virtue only of a connection with the Sovereign Base Areas of Akrotiri and Dhekelia;
+- (b) that the applicant has not ceased to be a British citizen as a result of a declaration of renunciation; and[^key-8a7bd882ac0f0aafbe71b953647a87cf]
+- (c) where the applicant is aged 10 or over, that he is of good character.
+
+### Application under section 4B of the Act[^key-fbea9ba0a9bc401fc903d66da5b411b2]
+
+**10.** An application under section 4B of the Act shall contain information showing—
+
+- (a) that the applicant is a British Overseas citizen, a British subject under the Act, a British protected person or a British National (Overseas) and does not have any other citizenship or nationality; and
+- (b)
+  - (i) in the case of an application made by virtue of subsection (1)(a), (b) or (c), that the applicant has not, after 4th July 2002, renounced, voluntarily relinquished or lost through action or inaction, any citizenship or nationality; or
+  - (ii) in the case of an application made by virtue of subsection (1)(d), that the applicant has not, after 19th March 2009, renounced, voluntarily relinquished or lost through action or inaction, any citizenship or nationality.
+
+### Application under section 4C of the Act[^key-f2940805e2b0b63bee6580cbe5519ac7]
+
+**11.** An application under section 4C of the Act shall contain information showing—
+
+- (a) that the applicant was born before 1st January 1983;
+- (b) that the applicant would at some time before 1st January 1983 have become a citizen of the United Kingdom and Colonies—
+  - (i) under section 5 or 12(2) of, or paragraph 3 of Schedule 3 to, the British Nationality Act 1948 if (as the case may be) that section or paragraph provided for citizenship by descent from a mother in the same terms as it provided for citizenship by descent from a father and if references in that provision to a father were references to the applicant’s mother; or
+  - (ii) under section 12(2), (3), (4) or (5) of the British Nationality Act 1948 if a provision of the law at some time before 1st January 1949, which provided for a nationality status to be acquired by descent from a father, provided in the same terms for its acquisition by descent from a mother and if references in that provision to a father were references to the applicant’s mother; and[^key-2e4fb08121b37714a1d5e4a50c4460d3]
+- (c) that immediately before 1st January 1983 the applicant would have had the right of abode in the United Kingdom by virtue of section 2 of the Immigration Act 1971 had he become a citizen of the United Kingdom and Colonies as described in either sub-paragraph (b)(i) or (ii) above; [^key-58e5ed3309930c2e41c21ad9bbb6b57b]...
+- (d)[^key-a785d89bd0a75babd37f8710a914d248] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Application under section 4D of the Act[^key-4ec2247fae7e4c047728338bfc797b71]
+
+**11A.** (1) An application under section 4D of the Act shall contain information showing—
+
+- (a) that the applicant’s father or mother was a member of the armed forces and serving outside of the United Kingdom and qualifying territories at the time of the applicant’s birth;
+- (b) that the consent of the applicant’s father and/or mother (as required by section 4D(3) and (4) of the Act) has been signified in accordance with regulation 14 and, if the consent of one parent only has been signified, the reason for that fact; and
+- (c) where the applicant is aged 10 or over, that he is of good character.
+
+(2) If the application is made without the consent of the applicant’s father and/or mother and it is desired that the application should nevertheless be considered under section 4D(5) of the Act, it shall specify the special circumstances to be taken into consideration.
+
+### Application under section 4F of the Act[^key-abf7be7b1d815d6660d5230eae7a3822]
+
+**11B.** An application under section 4F of the Act shall contain information showing—
+
+- (a) that the applicant would be entitled to be registered as a British Citizen under section 1(3), 3(2), 3(5) or 4D[^key-0ca3731567fd851d7996b6b08db955e5] of, or paragraph 4 or 5 of Schedule 2 to, the Act, had his mother been married to his natural father at the time of his birth; and
+- (b) where the applicant is aged 10 or over and the provision under which the applicant would be entitled to be registered as a British citizen (as mentioned in section 4F(1)(b) of the Act) is section 1(3), 3(2)[^key-9647bd2dfd811db170d227e25a986de7] , 3(5) or 4D[^key-e84480f1d36127ab3f95ca3d6feccf3c] of the Act, that he is of good character.
+
+### Application under section 4G of the Act
+
+**11C.** An application under section 4G of the Act shall contain information showing—
+
+- (a) that the applicant would have automatically become a British citizen by birth by operation of any provision of the Act or the British Nationality (Falkland Islands) Act 1983 (“the 1983 Act”), at any time in the period after commencement of the Act or (as the case may be) the 1983 Act, had his mother been married to his natural father at the time of his birth; [^key-94384910deb0f94b7278020b5c70076d]...
+- (b)[^key-2118134e69dfe38e3562c149b3539a0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Application under section 4H of the Act
+
+**11D.** An application under section 4H of the Act shall contain information showing—
+
+- (a) that the applicant was a citizen of the United Kingdom and Colonies immediately before commencement of the Act; and[^key-a88e96ce81c768f432a69a23a8637482]
+- (b) that the applicant would have automatically become a British citizen at commencement of the Act, by the operation of any provision of the Act, had his mother been married to his natural father at the time of his birth; [^key-b95c3bbfa4ab21e0bc176448ea885464]...
+- (c)[^key-4bb57eb7b4a47ba0348eefa0194089e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Application under section 4I of the Act
+
+**11E.** (1) An application under section 4I of the Act shall contain information showing—
+
+- (a) that the applicant—
+  - (i) ceased to be a British subject or a citizen of the United Kingdom and Colonies by virtue of the commencement of any independence legislation, but would not have done so had his mother been married to his natural father at the time of his birth;
+  - (ii) was a British subject who did not automatically become a citizen of the United Kingdom and Colonies at commencement of the British Nationality Act 1948 by the operation of any provision of it, but would have done so had his mother been married to his natural father at the time of his birth; or
+  - (iii) would have automatically become a British subject or citizen of the United Kingdom and Colonies at birth or by virtue of paragraph 3 of Schedule 3 to the British Nationality Act 1948, had his mother been married to his natural father at the time of his birth; [^key-e3f1873c48c0060301ed0f68c4387531]...
+- (b)[^key-d1e90ffab7b5efef19f9d6fdf8e084e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In this paragraph, “British subject” and “independence legislation” have the same meaning as in section 4I(7) of the Act.
+
+### Application under section 4K of the Act[^key-54fe0a4b80487201da758200513d6d9d]
+
+**11F.** An application under section 4K of the Act must contain information showing—
+
+- (a) that the applicant—
+  - (i) is entitled to be registered as a British overseas territories citizen under section 17A, 17C, 17D, 17E , 17F or 17H[^key-fec0ce609e2cacd1365a47f163b0da36] of the Act, otherwise than by virtue only of a connection with the Sovereign Base Areas of Akrotiri and Dhekelia, or
+  - (ii) would be entitled to be registered as a British overseas territories citizen under any of those sections, otherwise than by virtue only of a connection with the Sovereign Base Areas of Akrotiri and Dhekelia, but for the fact that the applicant has already become a British overseas territories citizen under a different provision, and
+- (b) where the applicant is aged 10 or over and the provision under which the applicant would be entitled to be registered as a British overseas territories citizen (as mentioned in section 17C(1)(b) of the Act) is section 15(3) or 17(2) or (5) of the Act, that the applicant is of good character.
+
+### Application under section 4L of the Act
+
+**11G.** (1) An application under section 4L of the Act must specify the information to be considered by the Secretary of State in forming an opinion under section 4L of the Act about whether the applicant would have been, or would have been able to become, a British citizen but for—
+
+- (a) historical legislative unfairness,
+- (b) an act or omission of a public authority, or
+- (c) exceptional circumstances relating to the applicant.
+
+(2) The application must contain information showing that the applicant is of full capacity.
+
+(3) Where sub-paragraph (4) applies, the application must also—
+
+- (a) contain information showing that the applicant is of good character, or
+- (b) specify why the Secretary of State should not take into account whether the applicant is of good character in considering whether to grant the application.
+
+(4) This sub-paragraph applies where—
+
+- (a) the application is made on the basis that the applicant would have been able to become a British citizen but for a matter mentioned in paragraph (a), (b) or (c) of sub-paragraph (1), and
+- (b) the process by which the applicant would have been able to become a British citizen would have involved the Secretary of State being required, under section 41A of the Act, to be satisfied that the applicant was of good character.
+
+(5) In this paragraph, “**historical legislative unfairness**” and “**public authority**” have the same meaning as in section 4L of the Act.
+
+### Application under section 5 of the Act
+
+**12.** An application under section 5 of the Act shall contain information showing:
+
+(a)[^key-bfff3d6f48a3a9c0923b02ec016d01c1] that the applicant is a British overseas territories citizen who falls to be treated as a national of the United Kingdom by virtue of a connection with Gibraltar[^key-f7248ba5014a5bfaf1032bd39583b59e]; and[^key-c8312c10791c10455eb66246873cd8de]
+
+(b) where the applicant is aged 10 or over, that he is of good character.
+
+### Application under section 6(1)
+
+**13.** (1) An application under section 6(1) of the Act shall contain information showing—
+
+- (a) that the applicant possesses the requisite qualifications in respect of residence or Crown service, freedom from immigration restrictions, compliance with the immigration laws, good character, knowledge of language, knowledge about life in the United Kingdom[^key-c47980ec4d4c390319f025273839de96] and intention with respect to residence or occupation in the event of a certificate of naturalisation being granted to him;
+- (b) that the applicant is of full capacity.
+
+(1A)[^key-58c95dd2aee01999ea8c64652b76a6a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) If the applicant does not possess the requisite qualifications in respect of residence, freedom from immigration restrictions, compliance with the immigration laws and knowledge of language and it is desired that the application should nevertheless be considered under paragraph 2 of Schedule 1 to the Act, it shall specify the special circumstances to be taken into consideration.
+
+(3)[^key-bc3dcbab6a4ff5d459a008f7ea3fd817] If the applicant is not of full capacity and it is desired that the requirement of full capacity be waived in accordance with section 44A of the Act (waiver of requirement for full capacity), the application shall specify why it would be in the applicant’s best interests for the requirement to be waived in his case.
+
+### Application under section 6(2) of the Act
+
+**14.** (1) An application under section 6(2) of the Act shall contain information showing—
+
+- (a) that the applicant is married to, or is the civil partner of,[^key-9bd87122c8e1289af78edcefd093230a] a British citizen;
+- (b) that the applicant possesses the requisite qualifications in respect of residence, freedom from immigration restrictions, compliance with the immigration laws, good character, knowledge of language and knowledge about life in the United Kingdom[^key-f525edfd90c7c78416061e1d4455e06f];
+- (c) that the applicant is of full capacity.
+
+(1A)[^key-36ba20502513fc9cbb60a40269707163] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) If the applicant does not possess the requisite qualifications in respect of residence and compliance with the immigration laws and it is desired that the application should nevertheless be considered under paragraph 4 of Schedule 1 to the Act, it shall specify the special circumstances to be taken into consideration.
+
+(3) If the applicant does not possess the requisite qualifications in respect of residence and it is desired that the application should nevertheless be considered under paragraph 4(d) of Schedule 1 to the Act on the grounds of marriage to or civil partnership with[^key-335ac320812d18e7f1fd79a7043f1336] a person who is serving in Crown Service under the government of the United Kingdom or other designated service, it shall specify the nature of the service and contain information showing that recruitment for that service took place in the United Kingdom.
+
+(4)[^key-c58feb1319b5f778ddc7c91a18491366] If the applicant is not of full capacity and it is desired that the requirement of full capacity be waived in accordance with section 44A of the Act (waiver of requirement for full capacity), the application shall specify why it would be in the applicant’s best interests for the requirement to be waived in his case.
+
+### Application under section 10(1) of the Act
+
+**15.** An application under section 10(1) of the Act shall contain information showing—
+
+- (a) that the applicant renounced citizenship of the United Kingdom and Colonies;
+- (b) that at the time when he renounced it the applicant was, or was about to become, a citizen of a country mentioned in section 1(3) of the British Nationality Act 1948;
+- (c) that the applicant could not have remained or become such a citizen but for renouncing it or had reasonable cause to believe that he would be deprived of his citizenship of that country unless he renounced it;
+- (d) that the applicant possessed the requisite qualifying connection with the United Kingdom immediately before commencement or was married before commencement to a person who possessed the requisite qualifying connection with the United Kingdom immediately before commencement or would if living have possessed such a connection;
+- (e) that the applicant has not previously been registered under section 10(1) of the Act; and[^key-bfcd78f777cbe146822536efb239d92c]
+- (f) where the applicant is aged 10 or over, that he is of good character.
+
+### Application under section 10(2) of the Act
+
+**16.** (1)[^key-9113e0461d2dce753872bdb90eb5e9c7] An application under section 10(2) of the Act shall contain information showing—
+
+- (a) that the applicant has renounced citizenship of the United Kingdom and Colonies and his reason for so doing;
+- (b) that the applicant possesses the requisite qualifying connection with the United Kingdom or has been married to, or has been the civil partner of,[^key-ca7109b5bf12d0118a11f8d4c5217e5f] a person who has, or would if living have, such a connection;
+- (c) that the applicant is of full capacity; and[^key-54dabb0a0b4b70b94f80b5364aa7ba37]
+- (d) where the applicant is aged 10 or over, that he is of good character.
+
+(2)[^key-b39ed62c1addb403c686b0b4eb4ca0bf] If the applicant is not of full capacity and it is desired that the requirement of full capacity be waived in accordance with section 44A of the Act (waiver of requirement for full capacity), the application shall specify why it would be in the applicant’s best interests for the requirement to be waived in his case.
+
+### Application under section 13(1) of the Act
+
+**17.** (1)[^key-2f10b885a927c836c0c92beac07b84dc] An application under section 13(1) of the Act shall contain information showing—
+
+- (a) that the applicant has renounced British citizenship;
+- (b) that, at the time when he renounced it, the applicant had or was about to acquire some other citizenship or nationality;
+- (c) that the renunciation of British citizenship was necessary to enable him to retain or acquire that other citizenship or nationality;
+- (d) that the applicant has not previously been registered under section 13(1) of the Act;
+- (e) that the applicant is of full capacity; and[^key-1df3f5a25f64e34eade601830f1fd6b0]
+- (f) where the applicant is aged 10 or over, that he is of good character.
+
+(2)[^key-c5e383b92011f2cad3babdbfc2a413d4] If the applicant is not of full capacity and it is desired that the requirement of full capacity be waived in accordance with section 44A of the Act (waiver of requirement for full capacity), the application shall specify why it would be in the applicant’s best interests for the requirement to be waived in his case.
+
+### Application under section 13(3) of the Act
+
+**18.** (1)[^key-586a66bd609d7e3793b2c03417937251] An application under section 13(3) of the Act shall contain information showing—
+
+- (a) that the applicant has renounced British citizenship and his reason for so doing;
+- (b) that the applicant is of full capacity; and[^key-fd9a5b34192dd6660be7572b9c613270]
+- (c) where the applicant is aged 10 or over, that he is of good character.
+
+(2)[^key-4af8e47d4c1fad3d3ed9d7e20a87770b] If the applicant is not of full capacity and it is desired that the requirement of full capacity be waived in accordance with section 44A of the Act (waiver of requirement for full capacity), the application shall specify why it would be in the applicant’s best interests for the requirement to be waived in his case.
+
+### Application under paragraph 3 of Schedule 2 to the Act
+
+**19.** (1) An application under paragraph 3 of Schedule 2 to the Act shall contain information showing—
+
+- (a) that the applicant is and always has been stateless;
+- (b) that the applicant seeks British citizenship and possesses the requisite qualifications in respect of residence.
+
+(2) If the applicant does not possess the requisite qualifications in respect of residence and it is desired that the application should nevertheless be considered under paragraph 6 of Schedule 2 to the Act, it shall specify the special circumstances to be taken into consideration.
+
+### Application under paragraph 3A of Schedule 2 to the Act[^key-9137e943564ec4b8f55840e22c21e27e]
+
+**19A.** (1) An application under paragraph 3A of Schedule 2 to the Act must contain information showing—
+
+- (a) that the applicant is and always has been stateless,
+- (b) that the applicant seeks British citizenship and possesses the requisite qualifications in respect of residence, and
+- (c) that the applicant is unable to acquire another nationality in accordance with sub-paragraph (2).
+
+(2) A person is able to acquire a nationality in accordance with this sub-paragraph if—
+
+- (a) the nationality is the same as that of one of the person’s parents,
+- (b) the person has been entitled to acquire the nationality since birth, and
+- (c) in all the circumstances, it is reasonable to expect the person (or someone acting on the person’s behalf) to take the steps which would enable the person to acquire the nationality in question.
+
+(3) For the purposes of sub-paragraph (2)(b), a person is not entitled to acquire a nationality if its acquisition is conditional on the exercise of a discretion on the part of the country or territory in question.
+
+(4) If the applicant does not possess the requisite qualifications in respect of residence and it is desired that the application should nevertheless be considered under paragraph 6 of Schedule 2 to the Act, the application must specify the special considerations to be taken into consideration.
+
+### Application under paragraph 4 of Schedule 2
+
+**20.** (1) An application under paragraph 4 of Schedule 2 to the Act shall contain information showing—
+
+- (a) that the applicant is and always has been stateless;
+- (b) in respect of both the father and mother of the applicant, which of the following statuses, namely, British citizenship, British overseas territories citizenship, British Overseas citizenship or the status of a British subject under the Act, was held at the time of the applicant’s birth;
+- (c) that the applicant possesses the requisite qualifications in respect of residence;
+- (d) if more than one of the statuses mentioned in sub-paragraph (b) above are available to the applicant, which status or statuses is or are wanted.
+
+(2) If the applicant does not possess the requisite qualifications in respect of residence and it is desired that the application should nevertheless be considered under paragraph 6 of Schedule 2 to the Act, it shall specify the special circumstances to be taken into consideration.
+
+### Application under paragraph 5 of Schedule 2
+
+**21.** An application under paragraph 5 of Schedule 2 to the Act shall contain information showing—
+
+- (a) that the applicant is and always has been stateless;
+- (b) if he was not born at a place which is at the date of the application within the United Kingdom and British overseas territories—
+  - (i) that the applicant’s mother was a citizen of the United Kingdom and Colonies at the time of his birth; or
+  - (ii) that he possesses the requisite qualifications in respect of parentage or residence and parentage;
+- (c) that the applicant seeks British citizenship or British Overseas citizenship and that that citizenship is available to the applicant in accordance with paragraph 5(2) of Schedule 2 to the Act.
+
+## SCHEDULE 2A — SPECIFIED ENGLISH LANGUAGE TESTS ... AND ENGLISH SPEAKING COUNTRIES[^key-ef2cfe206af2cd232af65c90e1075235][^key-67f5f15e0a0b7992ce8b5dd32a7349d6]
+
+Regulation 5A
+
+### 1. Specified English Language Tests ...[^key-4ebdc756da51675d3808de51014d43a9][^key-50824cd15afe800573e06dbc239873c0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Specified English Speaking Countries
+
+The following countries are specified English speaking countries for the purposes of regulation 5A(1)(b)(ii) and (e)—
+
+- (a) Antigua and Barbuda;
+- (b) Australia;
+- (c) the Bahamas;
+- (d) Barbados;
+- (e) Belize;
+- (f) Canada;
+- (g) Dominica;
+- (h) Grenada;
+- (i) Guyana;
+- (j) Jamaica;
+- (ja)[^key-d2776e0490fc52466eeeefcd41497d35] Malta;
+- (k) New Zealand;
+- (l) the Republic of Ireland;
+- (m) Saint Christopher and Nevis;
+- (n) Saint Lucia;
+- (o) Saint Vincent and the Grenadines;
+- (p) Trinidad and Tobago; or
+- (q) the United States of America.
+
+## SCHEDULE 2B — CERTAIN MEMBERS OF THE COMMONWEALTH AND BRITISH OVERSEAS TERRITORIES ETC.[^key-00f36a0cd737d0657a0271545b2708c9]
+
+Regulation 5A
+
+- Anguilla
+- Antigua and Barbuda
+- Australia
+- The Bahamas
+- Bangladesh
+- Barbados
+- Belize
+- Bermuda
+- Botswana
+- British Antarctic Territory
+- British Indian Ocean Territory
+- Brunei
+- Canada
+- Cayman Islands
+- Cyprus, but excluding the Sovereign Base Areas of Akrotiri and Dhekelia (that is to say the areas mentioned in section 2(1) of the Cyprus Act 1960)
+- Dominica
+- Falkland Islands
+- Fiji
+- The Gambia
+- Ghana
+- Gibraltar
+- Grenada
+- Guyana
+- Hong Kong
+- India
+- Jamaica
+- Kenya
+- Kiribati
+- Lesotho
+- Malawi
+- Malaysia
+- Maldives
+- Malta
+- Mauritius
+- Montserrat
+- Namibia
+- Nauru
+- New Zealand
+- Nigeria
+- Pakistan
+- Papua New Guinea
+- Pitcairn, Henderson, Ducie and Oeno Islands
+- Saint Christopher and Nevis
+- Saint Helena, Ascension and Tristan da Cunha
+- Saint Lucia
+- Saint Vincent and the Grenadines
+- Samoa
+- Seychelles
+- Sierra Leone
+- Singapore
+- Solomon Islands
+- South Georgia and the South Sandwich Islands
+- South Africa
+- Sri Lanka
+- Swaziland
+- Tanzania
+- Tonga
+- Trinidad and Tobago
+- Turks and Caicos Islands
+- Tuvalu
+- Uganda
+- Vanuatu
+- Virgin Islands
+- Zambia
+- Zimbabwe
+
+## SCHEDULE 3 — ADMINISTRATION OF CITIZENSHIP OATH OR PLEDGE[^key-52ad8a384c1183faf05cc7af49744e08]
+
+Regulation 6
+
+**1.** Subject to paragraphs 2 and 3[^key-4404d8936f9f0a2cf3a9ab792e3909a8], a citizenship oath or pledge shall be administered by one of the following persons:
+
+- (a) in England and Wales or Northern Ireland—any justice of the peace, commissioner for oaths or notary public;
+- (b) in Scotland—any sheriff principal, sheriff, justice of the peace or notary public;
+- (c) in the Channel Islands, the Isle of Man or any British overseas territory—any judge of any court of civil or criminal jurisdiction, any justice of the peace or magistrate, or any person for the time being authorised by the law of the place where the applicant, declarant or deponent is, to administer an oath for any judicial or other legal purpose;
+- (d) in any country mentioned in Schedule 3 to the Act of which Her Majesty is Queen, or in any territory administered by the government of any such country—any person for the time being authorised by the law of the place where the deponent is to administer an oath for any judicial or other legal purpose, any consular officer or any established officer of the Diplomatic Service of Her Majesty’s Government in the United Kingdom;
+- (e) elsewhere—any consular officer, any established officer of the Diplomatic Service of Her Majesty’s Government in the United Kingdom or any person authorised by the Secretary of State in that behalf.
+
+**2.** If the deponent is serving in Her Majesty’s naval, military or air forces, the oath or pledge[^key-e14102eb05b44ca7d2e91d0b8232b7b5] may be administered by any officer holding a commission in any of those forces, whether the oath or pledge is made [^key-3d2755a20cd8bebeb2ff67d8ad8e4874]...in the United Kingdom or elsewhere.
+
+**3.**[^key-b8f4e26869f25eef6e889f5f89815aba] Where a citizenship oath and pledge is required by section 42 of the Act to be made at a citizenship ceremony, it shall be administered at the ceremony:
+
+- (a) in the case of a ceremony held in England, Wales or Scotland, by a registrar (within the meaning of section 41(3B) of the Act); and
+- (b) in the case of a ceremony held elsewhere, by a person authorised to do so by the Secretary of State.
+
+## SCHEDULE 4 — FORM OF CERTIFICATE OF NATURALISATION AS A BRITISH CITIZEN[^key-3f141179500e106fc9876b5ea35b5b67]
+
+**No longer in force.**
+
+Regulation 7
+
+### BRITISH NATIONALITY ACT 1981[^key-3f141179500e106fc9876b5ea35b5b67]
+
+#### CERTIFICATE OF NATURALISATION AS A BRITISH CITIZEN[^key-3f141179500e106fc9876b5ea35b5b67]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 5 — REQUIREMENTS AS RESPECTS DECLARATIONS OF RENUNCIATION
+
+Regulation 8
+
+**1.** A declaration shall be made in writing and shall state the name, address, date and place of birth of the declarant.
+
+**2.** A declaration shall contain information showing that the declarant—
+
+- (a) is a British citizen, British Overseas citizen or British subject, as the case may be;
+- (b) is of full age or, if not, has been married or has been a civil partner[^key-79ec908e193f7f3a59228f8ab5e14875];
+- (c) is of full capacity;
+- (d) will, after the registration of the declaration, have or acquire some citizenship or nationality other than British citizenship, British Overseas citizenship or British subject status, as the case may be.
+
+**2A.**[^key-f6e492b94bd07a73a2ea00f4dfc8f2b0] If the declarant is not of full capacity and it is desired that the requirement of full capacity be waived in accordance with section 44A of the Act (waiver of requirement for full capacity), the declaration shall specify why it would be in the applicant’s best interests for the requirement to be waived in his case.
+
+**3.** A declaration shall contain a declaration that the particulars stated therein are true.
+
+## SCHEDULE 6 — Waiver request for the knowledge of language and life in the UK requirement — medical opinion[^key-2ded60521133e6543995d23ea1927bfd]
+
+Paragraph 5 of Schedule 1
+
+. 
+
+*(This note is not part of the Regulations)*
+
+These Regulations replace the British Nationality (General) Regulations 1982. These Regulations make the following changes of substance:
+
+- (a) references to applications for registration under sections of the British Nationality Act 1981 which were repealed by section 15 of and Schedule 2 to the Nationality, Immigration and Asylum Act 2002 are not re-enacted;
+- (b) provision is made as to how applications for registration as British citizens under sections 4B and 4C of the British Nationality Act 1981 (as inserted by sections 12 and 13 of the Nationality, Immigration and Asylum Act 2002) are to be made. The new registration entitlements under sections 4B and 4C come into force on the 30th April 2003;
+- (c) provision is made as to how applications for registration as a British citizen under section 4A of the British Nationality Act 1981 (as inserted by section 4 of the British Overseas Territories Act 2002) are to be made. Section 4 of the British Overseas Territories Act came into force on the 21st May 2002;
+- (d) the provisions relating to the giving of notice of proposed deprivation of citizenship are amended to reflect the changes to be introduced by section 4 of the Nationality, Immigration and Asylum Act 2002 which substitutes a new section 40 and 40A into the British Nationality Act 1981 and comes into force on the 1st April 2003;
+- (e) the requirements for applications for registration as a British citizen under section 10 of the British Nationality Act 1981 are amended to reflect the amendment to section 10 effected by section 5 of the Nationality, Immigration and Asylum Act 2002.
+
+## Annotations
+
+[^c5011481]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^key-ec4b97f4147bee2e097e6d5d12ee8baa]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2003/548) applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/4), [4(5)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/5), [12(1)(s)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/12/1/s)
+
+[^key-1a53bb08dcf75af5c2d35149d286df01]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/548/regulation/2/1) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [80(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/80/2/a)
+
+[^c5011491]: Marginal citation: Schedule 3 has been amended by the [British Nationality (Brunei) Order 1983 (S.I. 1983/1699)](https://www.legislation.gov.uk/uksi/1983/1699); the [British Nationality (Cameroon and Mozambique) Order 1998 (S.I. 1998/3161)](https://www.legislation.gov.uk/uksi/1998/3161); the Brunei and Maldives Act 1985, s.1, Schedule, paragraph 8; the [British Nationality (Pakistan) Order 1989 (S.I. 1989/1331)](https://www.legislation.gov.uk/uksi/1989/1331); the [Saint Christopher and Nevis Modification of Enactments Order 1983 (S.I. 1983/882)](https://www.legislation.gov.uk/uksi/1983/882); the [British Nationality (South Africa) Order 1994 (S.I. 1994/1634)](https://www.legislation.gov.uk/uksi/1994/1634); the [British Nationality (Namibia) Order 1990 (S.I. 1990/1502)](https://www.legislation.gov.uk/uksi/1990/1502).
+
+[^key-9d255586c0256cb4b3f40881d582e50c]: Textual amendment: Words in reg. 2(1) inserted (06.04.2015) by [The British Nationality (General) (Amendment) Regulations 2015 (S.I. 2015/738)](https://www.legislation.gov.uk/uksi/2015/738), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/738/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/738/regulation/2/2)
+
+[^key-b68b393f9e67c2a4fd1cc6b1f4d77880]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/548/regulation/2/1) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [80(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/80/2/b)
+
+[^key-78e25f9ad09e97ddda2f0c52cfb8f5b2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/548/regulation/2/1) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [80(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/80/2/c)
+
+[^key-a030b045c8bb4254568d175affb1479f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/548/regulation/2/1) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [80(2)(d)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/80/2/d)
+
+[^key-33c1160df85a7317cb70353fc871b9ff]: Textual amendment: Words in reg. 2(2) inserted (1.1.2004) by [The British Nationality (General) (Amendment) Regulations 2003 (S.I. 2003/3158)](https://www.legislation.gov.uk/uksi/2003/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3158/regulation/1), [3](https://www.legislation.gov.uk/uksi/2003/3158/regulation/3)
+
+[^key-a1d1072833b2e30d0c17e746e80bc77a]: Textual amendment: Words in reg. 2(2) omitted (3.12.2007) by virtue of [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2007/3137/regulation/2)
+
+[^c5011501]: Marginal citation: Section 43(1) has been amended by the [Hong Kong (British Nationality) Order 1986 (S.I. 1986/948)](https://www.legislation.gov.uk/uksi/1986/948), [article 7](https://www.legislation.gov.uk/uksi/1986/948/article/7).
+
+[^key-8252d8cb5f6ed48741d1aa53a1bab91f]: Textual amendment: [Reg. 3(b)](https://www.legislation.gov.uk/uksi/2003/548/regulation/3/b) substituted (9.8.2018) by [The British Nationality (General) (Amendment) Regulations 2018 (S.I. 2018/851)](https://www.legislation.gov.uk/uksi/2018/851), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/851/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/851/regulation/2/2)
+
+[^key-1285b62fc632c8e5c1dbeae8fb768f80]: Textual amendment: [Reg. 4(1)(d)](https://www.legislation.gov.uk/uksi/2003/548/regulation/4/1/d) omitted (12.11.2015) by virtue of [The British Nationality (General) (Amendment No. 3) Regulations 2015 (S.I. 2015/1806)](https://www.legislation.gov.uk/uksi/2015/1806), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1806/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/1806/regulation/4)
+
+[^key-6277f3d123bfcc6e882b5bed3b6d2963]: Textual amendment: Reg. 4(1)(e) substituted (16.7.2012) by [The British Nationality (General) (Amendment) Regulations 2012 (S.I. 2012/1588)](https://www.legislation.gov.uk/uksi/2012/1588), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1588/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/1588/regulation/2/3)
+
+[^key-61de249f033d27f821f9e88a75096881]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2003/548/regulation/4/3) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [30(3)](https://www.legislation.gov.uk/uksi/2019/745/regulation/30/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c5011511]: Marginal citation: Section 5 is amended by section 1(2) of the [British Overseas Territories Act 2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8).
+
+[^key-21c608c3f78ff4e78aed6abf2763e563]: Textual amendment: Reg. 5A substituted (28.10.2013) by [The British Nationality (General) (Amendment) Regulations 2013 (S.I. 2013/2541)](https://www.legislation.gov.uk/uksi/2013/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2541/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/2541/regulation/3)
+
+[^key-9c40e482b9596f3fb6f1514824aca4db]: Textual amendment: Words in reg. 5A(1) inserted (6.4.2015) by [The British Nationality (General) (Amendment No. 2) Regulations 2015 (S.I. 2015/681)](https://www.legislation.gov.uk/uksi/2015/681), [regs. 1](https://www.legislation.gov.uk/uksi/2015/681/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/681/regulation/3/2)
+
+[^key-87afee82f8e333111599cc82bcb40ac9]: Textual amendment: Reg. 5A(1)(a) substituted (1.10.2019) by [The British Nationality (General) (Amendment) Regulations 2019 (S.I. 2019/1242)](https://www.legislation.gov.uk/uksi/2019/1242), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1242/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1242/regulation/2/2)
+
+[^key-588064fe1a214d6dadaf024051849f1b]: Textual amendment: Reg. 5A(1)(f)(g) and word inserted (30.5.2018) by [The Immigration and Nationality (Requirements for Naturalisation and Fees) (Amendment) Regulations 2018 (S.I. 2018/618)](https://www.legislation.gov.uk/uksi/2018/618), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/618/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/618/regulation/2/2)
+
+[^key-33bb071b98d1a6b79ba3b5bd16be21bb]: Textual amendment: Reg. 5A(1A) inserted (6.4.2015) by [The British Nationality (General) (Amendment No. 2) Regulations 2015 (S.I. 2015/681)](https://www.legislation.gov.uk/uksi/2015/681), [regs. 1](https://www.legislation.gov.uk/uksi/2015/681/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/681/regulation/3/3)
+
+[^key-4dd326d15dff3915e30b87da74037a74]: Textual amendment: Words in reg. 5A(2) inserted (6.4.2015) by [The British Nationality (General) (Amendment No. 2) Regulations 2015 (S.I. 2015/681)](https://www.legislation.gov.uk/uksi/2015/681), [regs. 1](https://www.legislation.gov.uk/uksi/2015/681/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2015/681/regulation/3/4)
+
+[^key-1676ac09e264db3bffa5eaaa3463f481]: Textual amendment: Reg. 5A(2)(d)(e) and word inserted (30.5.2018) by [The Immigration and Nationality (Requirements for Naturalisation and Fees) (Amendment) Regulations 2018 (S.I. 2018/618)](https://www.legislation.gov.uk/uksi/2018/618), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/618/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2018/618/regulation/2/3)
+
+[^key-3a135d1e1f2300663b15f987c328e595]: Textual amendment: Reg. 5A(3) inserted (6.4.2015) by [The British Nationality (General) (Amendment No. 2) Regulations 2015 (S.I. 2015/681)](https://www.legislation.gov.uk/uksi/2015/681), [regs. 1](https://www.legislation.gov.uk/uksi/2015/681/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2015/681/regulation/3/5)
+
+[^key-6437920fb000b6648356a2ce1832aae3]: Textual amendment: Regs. 5A(4)-(10) inserted (30.5.2018) by [The Immigration and Nationality (Requirements for Naturalisation and Fees) (Amendment) Regulations 2018 (S.I. 2018/618)](https://www.legislation.gov.uk/uksi/2018/618), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/618/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2018/618/regulation/2/4)
+
+[^key-fcfbdb12e310f67a78dfc2302e585391]: Textual amendment: [Reg. 5A(5)(a)](https://www.legislation.gov.uk/uksi/2003/548/regulation/5A/5/a)[(aa)](https://www.legislation.gov.uk/uksi/2003/548/regulation/5A/5/aa) substituted for [reg. 5A(5)(a)](https://www.legislation.gov.uk/uksi/2003/548/regulation/5A/5/a) (1.12.2020) by [The British Nationality (General) (Amendment) Regulations 2020 (S.I. 2020/1141)](https://www.legislation.gov.uk/uksi/2020/1141), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1141/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1141/regulation/2/2)
+
+[^key-90d887eca722a8bb601910c1fad7c608]: Textual amendment: Word in [reg. 5A(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2003/548/regulation/5A/7/a/ii) omitted (1.12.2020) by virtue of [The British Nationality (General) (Amendment) Regulations 2020 (S.I. 2020/1141)](https://www.legislation.gov.uk/uksi/2020/1141), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1141/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1141/regulation/2/3/a)
+
+[^key-2e393efd9cc7988c7459f8c7bc1b1860]: Textual amendment: Word in [reg. 5A(7)(a)(iii)](https://www.legislation.gov.uk/uksi/2003/548/regulation/5A/7/a/iii) inserted (1.12.2020) by [The British Nationality (General) (Amendment) Regulations 2020 (S.I. 2020/1141)](https://www.legislation.gov.uk/uksi/2020/1141), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1141/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1141/regulation/2/3/b)
+
+[^key-1da41bf132ce2a02390a77b75bca7449]: Textual amendment: [Reg. 5A(7)(a)(iv)](https://www.legislation.gov.uk/uksi/2003/548/regulation/5A/7/a/iv) inserted (1.12.2020) by [The British Nationality (General) (Amendment) Regulations 2020 (S.I. 2020/1141)](https://www.legislation.gov.uk/uksi/2020/1141), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1141/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2020/1141/regulation/2/3/c)
+
+[^key-bde3476feb3fabdbc953f293c13ccddf]: Textual amendment: Regs. 6, 6A substituted for reg. 6 (1.1.2004) by [The British Nationality (General) (Amendment) Regulations 2003 (S.I. 2003/3158)](https://www.legislation.gov.uk/uksi/2003/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3158/regulation/1), [4](https://www.legislation.gov.uk/uksi/2003/3158/regulation/4)
+
+[^key-0736ed0243387f518cbf13132b97f6dd]: Textual amendment: Reg. 7 substituted (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2007/3137/regulation/3)
+
+[^key-48a15129844e5617e46d564d7a4e884f]: Textual amendment: Pt. IIA inserted (6.4.2015) by [The British Nationality (General) (Amendment) Regulations 2015 (S.I. 2015/738)](https://www.legislation.gov.uk/uksi/2015/738), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/738/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/738/regulation/2/3)
+
+[^key-ddc283d24d149539208201b6d8b3765d]: Textual amendment: Word in [reg. 7E(2)(c)](https://www.legislation.gov.uk/uksi/2003/548/regulation/7E/2/c) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [80(3)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/80/3/a)
+
+[^key-a3737767a1e17e5d4a6bdabc1f316a36]: Textual amendment: [Reg. 7E(2)(e)](https://www.legislation.gov.uk/uksi/2003/548/regulation/7E/2/e) and word omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [80(3)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/80/3/b)
+
+[^key-2ca097a5ac7d6d927dd5c3cb2de1071f]: Textual amendment: [Reg. 7EA](https://www.legislation.gov.uk/uksi/2003/548/regulation/7EA) inserted (1.7.2021) by [The Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) Regulations 2021 (S.I. 2021/772)](https://www.legislation.gov.uk/uksi/2021/772), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2021/772/schedule/paragraph/1/2)
+
+[^key-2c29ac2a9c42f73d27bb10042b6ae9ce]: Textual amendment: Word in [reg. 7G(1)](https://www.legislation.gov.uk/uksi/2003/548/regulation/7G/1) substituted (1.7.2021) by [The Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) Regulations 2021 (S.I. 2021/772)](https://www.legislation.gov.uk/uksi/2021/772), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1), [Sch. para. 1(3)(a)(i)](https://www.legislation.gov.uk/uksi/2021/772/schedule/paragraph/1/3/a/i)
+
+[^key-4d0727ad40c5a8bcacb565aa153eb5c6]: Textual amendment: [Reg. 7G(1)(a)](https://www.legislation.gov.uk/uksi/2003/548/regulation/7G/1/a)[(b)](https://www.legislation.gov.uk/uksi/2003/548/regulation/7G/1/b) substituted for words (1.7.2021) by [The Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) Regulations 2021 (S.I. 2021/772)](https://www.legislation.gov.uk/uksi/2021/772), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1), [Sch. para. 1(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/772/schedule/paragraph/1/3/a/ii)
+
+[^key-ad38f7764f4f9057569ae3685d471c93]: Textual amendment: Word in [reg. 7G(2)(d)](https://www.legislation.gov.uk/uksi/2003/548/regulation/7G/2/d) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [80(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/80/4/a/i)
+
+[^key-89e3256d5af49559b8772cd2bc82b184]: Textual amendment: [Reg. 7G(2)(f)](https://www.legislation.gov.uk/uksi/2003/548/regulation/7G/2/f) and word omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [80(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/80/4/a/ii)
+
+[^key-260f2d702d183f4200a2d1d4d111d100]: Textual amendment: Words in [reg. 7G(3)](https://www.legislation.gov.uk/uksi/2003/548/regulation/7G/3) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [80(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/80/4/b/i)
+
+[^key-b2298ef9d94717311342dd822c38fad5]: Textual amendment: Words in [reg. 7G(3)](https://www.legislation.gov.uk/uksi/2003/548/regulation/7G/3) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [80(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/80/4/b/ii)
+
+[^key-ac2f9a1b9e8b4256161c3b708e6a1861]: Textual amendment: [Reg. 7G(4)](https://www.legislation.gov.uk/uksi/2003/548/regulation/7G/4) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [80(4)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/80/4/c)
+
+[^key-ede63d0306b8cd4c9df62cc40f8616de]: Textual amendment: [Reg. 7G(5)](https://www.legislation.gov.uk/uksi/2003/548/regulation/7G/5) inserted (1.7.2021) by [The Immigration (Collection, Use and Retention of Biometric Information and Related Amendments) Regulations 2021 (S.I. 2021/772)](https://www.legislation.gov.uk/uksi/2021/772), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/772/regulation/1/1), [Sch. para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2021/772/schedule/paragraph/1/3/b)
+
+[^M_X_034c8239-e4fc-4ce6-f735-e4b88e4380ef]: Editorial: It is assumed the intention was to insert a reg. 7I, not a reg. 71
+
+[^key-9c0e059b22bad4401fdcf89340049280]: Textual amendment: Reg. 9(d) omitted (12.11.2015) by virtue of [The British Nationality (General) (Amendment No. 3) Regulations 2015 (S.I. 2015/1806)](https://www.legislation.gov.uk/uksi/2015/1806), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1806/regulation/1), [6](https://www.legislation.gov.uk/uksi/2015/1806/regulation/6)
+
+[^key-de30a34ae068ade69e2273b8e5ccbdfb]: Textual amendment: Reg. 9(e) substituted (16.7.2012) by [The British Nationality (General) (Amendment) Regulations 2012 (S.I. 2012/1588)](https://www.legislation.gov.uk/uksi/2012/1588), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1588/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2012/1588/regulation/2/5)
+
+[^key-a41d81a3b78684855a063291b05c44ac]: Textual amendment: Reg. 10 substituted (9.8.2018) by [The British Nationality (General) (Amendment) Regulations 2018 (S.I. 2018/851)](https://www.legislation.gov.uk/uksi/2018/851), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/851/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2018/851/regulation/3)
+
+[^key-d3cfdf055538e263be382bef52402337]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/uksi/2003/548/regulation/10/4) omitted (10.5.2023) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 10(5)](https://www.legislation.gov.uk/ukpga/2022/36/section/10/5), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1) (with [s. 10(6)-(8)](https://www.legislation.gov.uk/ukpga/2022/36/section/10/6)); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)
+
+[^key-d18da8a0148ff56f1f0b5d4635b82150]: Textual amendment: Reg. 14 substituted (13.1.2010) by [The British Nationality (General) (Amendment) Regulations 2009 (S.I. 2009/3363)](https://www.legislation.gov.uk/uksi/2009/3363), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3363/regulation/1), [3](https://www.legislation.gov.uk/uksi/2009/3363/regulation/3)
+
+[^key-cb3f620c9b1f472bd88cd3c546618e45]: Textual amendment: Words in reg. 14 inserted (6.4.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 71(1)(a)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/71/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/71/2); [S.I. 2015/874](https://www.legislation.gov.uk/uksi/2015/874), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/874/article/2/c)
+
+[^key-855124ed25b82f49dc4a741143dd17d6]: Textual amendment: Words in reg. 14 inserted (6.4.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 71(1)(b)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/71/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/71/2); [S.I. 2015/874](https://www.legislation.gov.uk/uksi/2015/874), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/874/article/2/c)
+
+[^c5011541]: Marginal citation: [S.I. 1982/986](https://www.legislation.gov.uk/uksi/1982/986).
+
+[^key-efd701b6e085a4255db0aa4a2be98770]: Textual amendment: Sch. 1 Pt. 3 inserted (9.8.2018) by [The British Nationality (General) (Amendment) Regulations 2018 (S.I. 2018/851)](https://www.legislation.gov.uk/uksi/2018/851), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/851/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/851/regulation/4/2)
+
+[^key-eb60eba59b1d512a03018fae26b35089]: Textual amendment: Sch. 2 para. A1 and cross-heading inserted (6.4.2015) by [The British Nationality (General) (Amendment No. 2) Regulations 2015 (S.I. 2015/681)](https://www.legislation.gov.uk/uksi/2015/681), [regs. 1](https://www.legislation.gov.uk/uksi/2015/681/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/681/regulation/4/2)
+
+[^key-a48afea28aee51e4780bf711e84a42af]: Textual amendment: Words in Sch. 2 para. 1 renumbered as Sch. 2 para. 1(a) (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/2/a)
+
+[^key-79204cd6fb8603a4b780e01a6f425b82]: Textual amendment: Sch. 2 para. 1(b) and word inserted (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/2/b)
+
+[^key-756286a3d9a0a8a442fec8bc58dae242]: Textual amendment: Sch. 2 para. 1A and-cross-heading inserted (13.1.2010) by [The British Nationality (General) (Amendment) Regulations 2009 (S.I. 2009/3363)](https://www.legislation.gov.uk/uksi/2009/3363), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3363/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2009/3363/regulation/4/1)
+
+[^key-7615cfeb54aa03947785f07157e99812]: Textual amendment: Words in Sch. 2 para. 2 renumbered as Sch. 2 para. 2(a) (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/2/a)
+
+[^key-f1ac58420b6ecf563ceb4120dd9f6f90]: Textual amendment: Sch. 2 para. 2(b) and word inserted (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/2/b)
+
+[^key-ff8b08fd7198e9a93148db1116b716ca]: Textual amendment: Sch. 2 para. 5 omitted (13.1.2010) by virtue of [The British Nationality (General) (Amendment) Regulations 2009 (S.I. 2009/3363)](https://www.legislation.gov.uk/uksi/2009/3363), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3363/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2009/3363/regulation/4/2)
+
+[^key-d3d96d0da80f7bcd6d98420dcc9dd76e]: Textual amendment: Sch. 2 para. 6(d) and word inserted (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/3)
+
+[^key-be37929c8b4e0ac568cfc0b90fec1cf8]: Textual amendment: Sch. 2 para. 7(1)(c) and word inserted (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/4)
+
+[^key-83c8c3ca580852ffe0818c78a1013fda]: Textual amendment: [Sch. 2 para. 7(1A)](https://www.legislation.gov.uk/uksi/2003/548/schedule/2/paragraph/7/1A) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [80(5)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/80/5) (with [reg. 80(6)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/80/6))
+
+[^key-60fcd1ce59279067cb03b5595c693e35]: Textual amendment: Sch. 2 para. 8(1)(c) and word inserted (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/4)
+
+[^c5011551]: Marginal citation: Section 4A was inserted by section 4 of the [British Overseas Territories Act 2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8).
+
+[^key-8a7bd882ac0f0aafbe71b953647a87cf]: Textual amendment: Sch. 2 para. 9(c) and word inserted (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/4)
+
+[^key-fbea9ba0a9bc401fc903d66da5b411b2]: Textual amendment: Sch. 2 para. 10 and-cross-heading substituted (13.1.2010) by [The British Nationality (General) (Amendment) Regulations 2009 (S.I. 2009/3363)](https://www.legislation.gov.uk/uksi/2009/3363), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3363/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2009/3363/regulation/4/3)
+
+[^key-f2940805e2b0b63bee6580cbe5519ac7]: Textual amendment: Sch. 2 para. 11 and-cross-heading substituted (13.1.2010) by [The British Nationality (General) (Amendment) Regulations 2009 (S.I. 2009/3363)](https://www.legislation.gov.uk/uksi/2009/3363), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3363/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2009/3363/regulation/4/4)
+
+[^key-2e4fb08121b37714a1d5e4a50c4460d3]: Textual amendment: Word in Sch. 2 para. 11(b) inserted (25.7.2019) by [The British Nationality Act 1981 (Remedial) Order 2019 (S.I. 2019/1164)](https://www.legislation.gov.uk/uksi/2019/1164), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1164/article/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/1164/article/4/2/a)
+
+[^key-58e5ed3309930c2e41c21ad9bbb6b57b]: Textual amendment: Word in Sch. 2 para. 11(c) omitted (25.7.2019) by virtue of [The British Nationality Act 1981 (Remedial) Order 2019 (S.I. 2019/1164)](https://www.legislation.gov.uk/uksi/2019/1164), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1164/article/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/1164/article/4/2/b)
+
+[^key-a785d89bd0a75babd37f8710a914d248]: Textual amendment: Sch. 2 para. 11(d) omitted (25.7.2019) by virtue of [The British Nationality Act 1981 (Remedial) Order 2019 (S.I. 2019/1164)](https://www.legislation.gov.uk/uksi/2019/1164), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1164/article/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2019/1164/article/4/2/c)
+
+[^key-4ec2247fae7e4c047728338bfc797b71]: Textual amendment: Sch. 2 para. 11A and-cross-heading inserted (13.1.2010) by [The British Nationality (General) (Amendment) Regulations 2009 (S.I. 2009/3363)](https://www.legislation.gov.uk/uksi/2009/3363), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3363/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2009/3363/regulation/4/5)
+
+[^key-abf7be7b1d815d6660d5230eae7a3822]: Textual amendment: Sch. 2 paras. 11B-11E and cross-headings inserted (6.4.2015) by [The British Nationality (General) (Amendment No. 2) Regulations 2015 (S.I. 2015/681)](https://www.legislation.gov.uk/uksi/2015/681), [regs. 1](https://www.legislation.gov.uk/uksi/2015/681/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2015/681/regulation/4/3)
+
+[^key-0ca3731567fd851d7996b6b08db955e5]: Textual amendment: Words in [Sch. 2 para. 11B(a)](https://www.legislation.gov.uk/uksi/2003/548/schedule/2/paragraph/11B/a) substituted (28.6.2022) by [The British Nationality (General, British Overseas Territories and Fees) (Amendment) Regulations 2022 (S.I. 2022/602)](https://www.legislation.gov.uk/uksi/2022/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/602/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/602/regulation/2/2/a/i)
+
+[^key-9647bd2dfd811db170d227e25a986de7]: Textual amendment: Words in Sch. 2 para. 11B(b) inserted (25.7.2019) by [The British Nationality Act 1981 (Remedial) Order 2019 (S.I. 2019/1164)](https://www.legislation.gov.uk/uksi/2019/1164), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1164/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/1164/article/4/3)
+
+[^key-e84480f1d36127ab3f95ca3d6feccf3c]: Textual amendment: Words in [Sch. 2 para. 11B(b)](https://www.legislation.gov.uk/uksi/2003/548/schedule/2/paragraph/11B/b) substituted (28.6.2022) by [The British Nationality (General, British Overseas Territories and Fees) (Amendment) Regulations 2022 (S.I. 2022/602)](https://www.legislation.gov.uk/uksi/2022/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/602/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/602/regulation/2/2/a/ii)
+
+[^key-94384910deb0f94b7278020b5c70076d]: Textual amendment: Word in Sch. 2 para. 11C(a) omitted (25.7.2019) by virtue of [The British Nationality Act 1981 (Remedial) Order 2019 (S.I. 2019/1164)](https://www.legislation.gov.uk/uksi/2019/1164), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1164/article/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2019/1164/article/4/4/a)
+
+[^key-2118134e69dfe38e3562c149b3539a0d]: Textual amendment: Sch. 2 para. 11C(b) omitted (25.7.2019) by virtue of [The British Nationality Act 1981 (Remedial) Order 2019 (S.I. 2019/1164)](https://www.legislation.gov.uk/uksi/2019/1164), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1164/article/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2019/1164/article/4/4/b)
+
+[^key-a88e96ce81c768f432a69a23a8637482]: Textual amendment: Word in Sch. 2 para. 11D(a) inserted (25.7.2019) by [The British Nationality Act 1981 (Remedial) Order 2019 (S.I. 2019/1164)](https://www.legislation.gov.uk/uksi/2019/1164), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1164/article/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2019/1164/article/4/5/a)
+
+[^key-b95c3bbfa4ab21e0bc176448ea885464]: Textual amendment: Word in Sch. 2 para. 11D(b) omitted (25.7.2019) by virtue of [The British Nationality Act 1981 (Remedial) Order 2019 (S.I. 2019/1164)](https://www.legislation.gov.uk/uksi/2019/1164), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1164/article/1/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2019/1164/article/4/5/b)
+
+[^key-4bb57eb7b4a47ba0348eefa0194089e1]: Textual amendment: Sch. 2 para. 11D(c) omitted (25.7.2019) by virtue of [The British Nationality Act 1981 (Remedial) Order 2019 (S.I. 2019/1164)](https://www.legislation.gov.uk/uksi/2019/1164), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1164/article/1/1), [4(5)(c)](https://www.legislation.gov.uk/uksi/2019/1164/article/4/5/c)
+
+[^key-e3f1873c48c0060301ed0f68c4387531]: Textual amendment: Word in Sch. 2 para. 11E(1)(a)(iii) omitted (25.7.2019) by virtue of [The British Nationality Act 1981 (Remedial) Order 2019 (S.I. 2019/1164)](https://www.legislation.gov.uk/uksi/2019/1164), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1164/article/1/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2019/1164/article/4/6/a)
+
+[^key-d1e90ffab7b5efef19f9d6fdf8e084e9]: Textual amendment: Sch. 2 para. 11E(1)(b) omitted (25.7.2019) by virtue of [The British Nationality Act 1981 (Remedial) Order 2019 (S.I. 2019/1164)](https://www.legislation.gov.uk/uksi/2019/1164), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1164/article/1/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2019/1164/article/4/6/b)
+
+[^key-54fe0a4b80487201da758200513d6d9d]: Textual amendment: [Sch. 2 paras. 11F](https://www.legislation.gov.uk/uksi/2003/548/schedule/2/paragraph/11F), [11G](https://www.legislation.gov.uk/uksi/2003/548/schedule/2/paragraph/11G) and cross-headings inserted (28.6.2022) by [The British Nationality (General, British Overseas Territories and Fees) (Amendment) Regulations 2022 (S.I. 2022/602)](https://www.legislation.gov.uk/uksi/2022/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/602/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/602/regulation/2/2/b)
+
+[^key-fec0ce609e2cacd1365a47f163b0da36]: Textual amendment: Words in [Sch. 2 para. 11F(a)(i)](https://www.legislation.gov.uk/uksi/2003/548/schedule/2/paragraph/11F/a/i) substituted (23.11.2022) by [The British Nationality (General, British Overseas Territories and Fees) (Amendment) Regulations 2022 (S.I. 2022/602)](https://www.legislation.gov.uk/uksi/2022/602), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/602/regulation/1/3/a), [2(2)(c)](https://www.legislation.gov.uk/uksi/2022/602/regulation/2/2/c); [S.I. 2022/1056](https://www.legislation.gov.uk/uksi/2022/1056), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1056/regulation/2/a)
+
+[^key-bfff3d6f48a3a9c0923b02ec016d01c1]: Textual amendment: Words in Sch. 2 para. 12 renumbered as Sch. 2 para. 12(a) (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/2/a)
+
+[^key-f7248ba5014a5bfaf1032bd39583b59e]: Textual amendment: Words in [Sch. 2 para. 12(a)](https://www.legislation.gov.uk/uksi/2003/548/schedule/2/paragraph/12/a) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [30(6)(b)](https://www.legislation.gov.uk/uksi/2019/745/regulation/30/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c8312c10791c10455eb66246873cd8de]: Textual amendment: Sch. 2 para. 12(b) and word inserted (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/2/b)
+
+[^key-c47980ec4d4c390319f025273839de96]: Textual amendment: Words in Sch. 2 para. 13(1)(a) inserted (1.11.2005) by [The British Nationality (General) (Amendment) Regulations 2005 (S.I. 2005/2785)](https://www.legislation.gov.uk/uksi/2005/2785), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/2785/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2005/2785/regulation/4/a)
+
+[^key-58c95dd2aee01999ea8c64652b76a6a7]: Textual amendment: [Sch. 2 para. 13(1A)](https://www.legislation.gov.uk/uksi/2003/548/schedule/2/paragraph/13/1A) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [80(5)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/80/5) (with [reg. 80(6)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/80/6))
+
+[^key-bc3dcbab6a4ff5d459a008f7ea3fd817]: Textual amendment: Sch. 2 para. 13(3) inserted (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/5)
+
+[^key-9bd87122c8e1289af78edcefd093230a]: Textual amendment: Words in Sch. 2 para. 14(1)(a) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/article/1), [Sch. 13 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/13/paragraph/5/2/a)
+
+[^key-f525edfd90c7c78416061e1d4455e06f]: Textual amendment: Words in Sch. 2 para. 14(1)(b) substituted (1.11.2005) by [The British Nationality (General) (Amendment) Regulations 2005 (S.I. 2005/2785)](https://www.legislation.gov.uk/uksi/2005/2785), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/2785/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2005/2785/regulation/4/b)
+
+[^key-36ba20502513fc9cbb60a40269707163]: Textual amendment: [Sch. 2 para. 14(1A)](https://www.legislation.gov.uk/uksi/2003/548/schedule/2/paragraph/14/1A) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [80(5)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/80/5) (with [reg. 80(6)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/80/6))
+
+[^key-335ac320812d18e7f1fd79a7043f1336]: Textual amendment: Words in Sch. 2 para. 14(3) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/article/1), [Sch. 13 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/13/paragraph/5/2/b)
+
+[^key-c58feb1319b5f778ddc7c91a18491366]: Textual amendment: Sch. 2 para. 14(4) inserted (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/6)
+
+[^key-bfcd78f777cbe146822536efb239d92c]: Textual amendment: Sch. 2 para. 15(f) and word inserted (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/7)
+
+[^key-9113e0461d2dce753872bdb90eb5e9c7]: Textual amendment: Sch. 2 para. 16 renumbered as Sch. 2 para. 16(1) (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(8)(a)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/8/a)
+
+[^key-ca7109b5bf12d0118a11f8d4c5217e5f]: Textual amendment: Words in Sch. 2 para. 16(b) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/article/1), [Sch. 13 para. 5(2)(c)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/13/paragraph/5/2/c)
+
+[^key-54dabb0a0b4b70b94f80b5364aa7ba37]: Textual amendment: Sch. 2 para. 16(1)(d) and word inserted (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(8)(b)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/8/b)
+
+[^key-b39ed62c1addb403c686b0b4eb4ca0bf]: Textual amendment: Sch. 2 para. 16(2) inserted (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(8)(c)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/8/c)
+
+[^key-2f10b885a927c836c0c92beac07b84dc]: Textual amendment: Sch. 2 para. 17 renumbered as Sch. 2 para. 17(1) (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(9)(a)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/9/a)
+
+[^key-1df3f5a25f64e34eade601830f1fd6b0]: Textual amendment: Sch. 2 para. 17(1)(f) and word inserted (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(9)(b)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/9/b)
+
+[^key-c5e383b92011f2cad3babdbfc2a413d4]: Textual amendment: Sch. 2 para. 17(2) inserted (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(9)(c)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/9/c)
+
+[^key-586a66bd609d7e3793b2c03417937251]: Textual amendment: Sch. 2 para. 18 renumbered as Sch. 2 para. 18(1) (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(10)(a)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/10/a)
+
+[^key-fd9a5b34192dd6660be7572b9c613270]: Textual amendment: Sch. 2 para. 18(1)(c) and word inserted (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(10)(b)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/10/b)
+
+[^key-4af8e47d4c1fad3d3ed9d7e20a87770b]: Textual amendment: Sch. 2 para. 18(2) inserted (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [4(10)(c)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/4/10/c)
+
+[^key-9137e943564ec4b8f55840e22c21e27e]: Textual amendment: [Sch. 2 para. 19A](https://www.legislation.gov.uk/uksi/2003/548/schedule/2/paragraph/19A) and cross-heading inserted (28.6.2022) by [The British Nationality (General, British Overseas Territories and Fees) (Amendment) Regulations 2022 (S.I. 2022/602)](https://www.legislation.gov.uk/uksi/2022/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/602/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2022/602/regulation/2/2/d)
+
+[^key-ef2cfe206af2cd232af65c90e1075235]: Textual amendment: Sch. 2A inserted (28.10.2013) by [The British Nationality (General) (Amendment) Regulations 2013 (S.I. 2013/2541)](https://www.legislation.gov.uk/uksi/2013/2541), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2541/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/2541/regulation/4)
+
+[^key-67f5f15e0a0b7992ce8b5dd32a7349d6]: Textual amendment: Words in Sch. 2A heading omitted (12.11.2015) by virtue of [The British Nationality (General) (Amendment No. 3) Regulations 2015 (S.I. 2015/1806)](https://www.legislation.gov.uk/uksi/2015/1806), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1806/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2015/1806/regulation/8/a)
+
+[^key-4ebdc756da51675d3808de51014d43a9]: Textual amendment: Sch. 2A para. 1 omitted (1.10.2019) by virtue of [The British Nationality (General) (Amendment) Regulations 2019 (S.I. 2019/1242)](https://www.legislation.gov.uk/uksi/2019/1242), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1242/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/1242/regulation/2/3)
+
+[^key-50824cd15afe800573e06dbc239873c0]: Textual amendment: Words in Sch. 2A para. 1 heading omitted (12.11.2015) by virtue of [The British Nationality (General) (Amendment No. 3) Regulations 2015 (S.I. 2015/1806)](https://www.legislation.gov.uk/uksi/2015/1806), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1806/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2015/1806/regulation/8/b)
+
+[^key-d2776e0490fc52466eeeefcd41497d35]: Textual amendment: [Sch. 2A para. 2(ja)](https://www.legislation.gov.uk/uksi/2003/548/schedule/2A/paragraph/2/ja) inserted (1.12.2020) by [The British Nationality (General) (Amendment) Regulations 2020 (S.I. 2020/1141)](https://www.legislation.gov.uk/uksi/2020/1141), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1141/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/1141/regulation/3/2)
+
+[^key-00f36a0cd737d0657a0271545b2708c9]: Textual amendment: Sch. 2B inserted (30.5.2018) by [The Immigration and Nationality (Requirements for Naturalisation and Fees) (Amendment) Regulations 2018 (S.I. 2018/618)](https://www.legislation.gov.uk/uksi/2018/618), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/618/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/618/schedule)
+
+[^key-52ad8a384c1183faf05cc7af49744e08]: Textual amendment: Words in Sch. 3 heading substituted (1.1.2004) by [The British Nationality (General) (Amendment) Regulations 2003 (S.I. 2003/3158)](https://www.legislation.gov.uk/uksi/2003/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3158/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2003/3158/regulation/5/a)
+
+[^key-4404d8936f9f0a2cf3a9ab792e3909a8]: Textual amendment: Words in Sch. 3 para. 1 substituted (1.1.2004) by [The British Nationality (General) (Amendment) Regulations 2003 (S.I. 2003/3158)](https://www.legislation.gov.uk/uksi/2003/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3158/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2003/3158/regulation/5/b)
+
+[^key-e14102eb05b44ca7d2e91d0b8232b7b5]: Textual amendment: Words in Sch. 3 para. 2 inserted (1.1.2004) by [The British Nationality (General) (Amendment) Regulations 2003 (S.I. 2003/3158)](https://www.legislation.gov.uk/uksi/2003/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3158/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2003/3158/regulation/5/c)
+
+[^key-3d2755a20cd8bebeb2ff67d8ad8e4874]: Textual amendment: Words in Sch. 3 para. 2 omitted (1.1.2004) by virtue of [The British Nationality (General) (Amendment) Regulations 2003 (S.I. 2003/3158)](https://www.legislation.gov.uk/uksi/2003/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3158/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2003/3158/regulation/5/c)
+
+[^key-b8f4e26869f25eef6e889f5f89815aba]: Textual amendment: Sch. 3 para. 3 inserted (1.1.2004) by [The British Nationality (General) (Amendment) Regulations 2003 (S.I. 2003/3158)](https://www.legislation.gov.uk/uksi/2003/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3158/regulation/1), [5(d)](https://www.legislation.gov.uk/uksi/2003/3158/regulation/5/d)
+
+[^key-3f141179500e106fc9876b5ea35b5b67]: Textual amendment: Sch. 4 omitted (3.12.2007) by virtue of [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2007/3137/regulation/5)
+
+[^key-79ec908e193f7f3a59228f8ab5e14875]: Textual amendment: Words in Sch. 5 para. 2(b) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/article/1), [Sch. 13 para. 5(3)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/13/paragraph/5/3)
+
+[^key-f6e492b94bd07a73a2ea00f4dfc8f2b0]: Textual amendment: Sch. 5 para. 2A inserted (3.12.2007) by [The British Nationality (General and Hong Kong) (Amendment) Regulations 2007 (S.I. 2007/3137)](https://www.legislation.gov.uk/uksi/2007/3137), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/3137/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2007/3137/regulation/6)
+
+[^key-2ded60521133e6543995d23ea1927bfd]: Textual amendment: Sch. 6 inserted (9.8.2018) by [The British Nationality (General) (Amendment) Regulations 2018 (S.I. 2018/851)](https://www.legislation.gov.uk/uksi/2018/851), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/851/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/851/schedule)

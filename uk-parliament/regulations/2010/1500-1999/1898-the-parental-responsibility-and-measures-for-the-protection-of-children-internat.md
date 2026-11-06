@@ -1,0 +1,540 @@
+---
+title: The Parental Responsibility and Measures for the Protection of Children (International Obligations) (England and Wales and Northern Ireland) Regulations 2010
+id: uksi/2010/1898
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-07-23'
+text_date: '2020-12-31'
+extent: E+W+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/1898
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/1898/pdfs/uksiem_20101898_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1898/pdfs/uksi_20101898_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1898/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Parental Responsibility and Measures for the Protection of Children (International Obligations) (England and Wales and Northern Ireland) Regulations 2010
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Northern Ireland.
+
+*Extent: E+W+N.I.*
+
+2010 No. 1898
+
+Children And Young Persons
+
+The Parental Responsibility and Measures for the Protection of Children (International Obligations) (England and Wales and Northern Ireland) Regulations 2010
+
+Made
+
+23rd July 2010
+
+Laid before Parliament
+
+26th July 2010
+
+Coming into force in accordance with regulation 1(2)
+
+The Secretary of State, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to private international law[^f00002], makes the following Regulations in exercise of the power under section 2(2) of the European Communities Act 1972:
+
+## 1. Citation, commencement and extent[^key-3737e6223c748a4454bdeb258379b342]
+
+(1) These Regulations may be cited as the Parental Responsibility and Measures for the Protection of Children (International Obligations) (England and Wales and Northern Ireland) Regulations 2010.
+
+(2) These Regulations come into force on the day on which the Convention enters into force for the United Kingdom, which date will be notified in the London, Edinburgh and Belfast Gazettes.
+
+(3) These Regulations extend to England and Wales and Northern Ireland.
+
+## 2. Interpretation[^key-11b63ff88cb09492d9016973342c4623]
+
+In these Regulations—
+
+- “Central Authority” has the meaning given by regulation 9(1);
+- “Contracting State” means a state party to the Convention;
+- “the Convention” means the Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-Operation in respect of Parental Responsibility and Measures for the Protection of Children that was signed at The Hague on 19 October 1996[^f00003];
+- [^key-d6988071388ea6fb1b3beae97f15b4ee]...
+- “Department of Justice” means the Department of Justice in Northern Ireland;
+- “local authority” means—
+  - (a) in relation to England, the council of a county, a metropolitan district, the Council of the Isles of Scilly, a London borough or the Common Council of the City of London, and
+  - (b) in relation to Wales, the council of a county or a county borough;
+- [^key-eac24f1a984da6316f8365ef0be23cff]...
+- “Northern Ireland authority” means an authority within the meaning given by Article 2(2) of the Children (Northern Ireland) Order 1995[^f00005];
+- “public authority” means a body whose functions are wholly or mainly of a public nature;
+- “Welsh family proceedings officer” has the meaning given by section 35 of the Children Act 2004[^f00006].
+
+## 3. Power of court to remove stay under Article 8[^key-f91f365ee18a21d6ed367ca7f903794b]
+
+(1) This regulation applies where—
+
+- (a) a court has exercised its power under Article 8 of the Convention to request an authority of another Contracting State to assume jurisdiction in relation to an application,
+- (b) the court has stayed proceedings on the application, and
+- (c) Part 1 of the Family Law Act 1986[^f00007] does not apply in relation to the application.
+
+(2) The court may remove a stay granted in order for it to exercise its powers under Article 8 of the Convention, and withdraw any request made by it under that Article to an authority in another Contracting State to assume jurisdiction, if—
+
+- (a) the authority in the other Contracting State does not assume jurisdiction within the period for which the court granted the stay, or
+- (b) the parties do not, within the period specified by the court, request the authority in the other Contracting State to assume jurisdiction.
+
+## 4. Local authorities and Northern Ireland authorities: application to court to make request under Article 9[^key-837714a1432c4999ad43bba934180521]
+
+(1) This regulation applies where—
+
+- (a) either—
+  - (i) a local authority in England and Wales wishes to make an application in respect of a child under section 31 of the Children Act 1989[^f00008] (care and supervision orders), or
+  - (ii) a Northern Ireland authority wishes to make an application in respect of a child under Article 50 of the Children (Northern Ireland) Order 1995 (care and supervision orders), and
+- (b) the authorities of another Contracting State have jurisdiction in respect of the child under the Convention.
+
+(2) The local authority or Northern Ireland authority must make an application to the High Court, requesting the court to exercise its power under Article 9 of the Convention (request to competent authority of the Contracting State of the habitual residence of the child for authorisation to exercise jurisdiction).
+
+## 5. Local authorities: application for interim care order or supervision order[^key-53383fb5846ca8cb4831fb8f0f2bc400]
+
+(1) This regulation applies where—
+
+- (a) a local authority in England and Wales thinks that the conditions in section 31(2)(a) and (b) of the Children Act 1989 (threshold for care and supervision orders) apply in relation to a child, and
+- (b) one of the following applies in relation to the child—
+  - (i) Article 11 of the Convention (measures of protection in cases of urgency), or[^key-51d1ee7e182f66d62be4760e8fac1df6]
+  - (ii) Article 12 of the Convention (measures of a provisional character). [^key-612e1a56eef6fb898057d7d39d96937a]...
+  - (iii)[^key-612e1a56eef6fb898057d7d39d96937a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Where this regulation applies, section 38 of the Children Act 1989 (interim orders) has effect as if—
+
+- (a) for subsection (1)(a) and (b) there were substituted—
+
+  > - (a) a local authority makes an application for an interim care order or interim supervision order in relation to a child, and
+  > - (b) one of the following applies in relation to the child—
+  >   - (i) Article 11 of the Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-Operation in respect of Parental Responsibility and Measures for the Protection of Children that was signed at The Hague on 19 October 1996 (measures of protection in cases of urgency) (“the Convention”),
+  >   - (ii) Article 12 of the Convention (measures of a provisional character), [^key-20835726a788cb9268570a92bf6e46a2]...
+  >   - (iii)[^key-20835726a788cb9268570a92bf6e46a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+  ,
+- (b) subsection (3) were omitted,
+- (c) in subsection (4)(b) the words “in the same proceedings” were omitted, and
+- (d) for subsection (4)(c) to (e) there were substituted—
+
+  > - (c) in a case which falls within subsection (1)(b)(i) or (ii), when—
+  >   - (i) the authorities in another Contracting State with jurisdiction under the Convention have taken the measures required by the situation, or
+  >   - (ii) measures taken by the authorities of another State are recognised in England and Wales;
+  > - (d)[^key-e22ca307116bc44f314f9722636af081] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+  .
+
+(3) Where this regulation applies—
+
+- (a) section 31 of the Children Act 1989 (care and supervision orders) has effect as if, in section 31(3A), after “care order” there were inserted the words “, other than an interim care order,”
+- (b) section 31A of that Act (care plans) has effect as if subsection (5) were omitted, and
+- (c) section 41 of that Act (representation of child’s interests) has effect as if in subsection (6) there were included a reference to an application for an interim care order or interim supervision order by virtue of this regulation.
+
+## 6. Northern Ireland authorities: application for interim care order or supervision order[^key-b9aa70563557b3d504b822f33313238f]
+
+(1) This regulation applies where—
+
+- (a) a Northern Ireland authority thinks that the conditions in Article 50(2)(a) and (b) of the Children (Northern Ireland) Order 1995 (threshold for care and supervision orders) are met, and
+- (b) one of the following applies in relation to the child—
+  - (i) Article 11 of the Convention (measures of protection in cases of urgency),
+  - (ii) Article 12 of the Convention (measures of a provisional character). [^key-bc179676b3a13eb0320ba87db6671330]...
+  - (iii)[^key-bc179676b3a13eb0320ba87db6671330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Where this regulation applies, Article 57 of the Children (Northern Ireland) Order 1995 has effect as if—
+
+- (a) for paragraph (1)(a) and (b) there were substituted—
+
+  > - (a) an authority makes an application for an interim care order or interim supervision order in relation to a child, and
+  > - (b) one of the following applies in relation to the child—
+  >   - (i) Article 11 of the Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-Operation in respect of Parental Responsibility and Measures for the Protection of Children that was signed at The Hague on 19 October 1996 (measures of protection in cases of urgency) (“the Convention”),
+  >   - (ii) Article 12 of the Convention (measures of a provisional character), [^key-be21ecac572fd665191a47e4471792d2]...
+  >   - (iii)[^key-be21ecac572fd665191a47e4471792d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+  ,
+- (b) paragraph (3) were omitted,
+- (c) in paragraph (4)(b) the words “in the same proceedings” were omitted, and
+- (d) for paragraph (4)(c) to (e) there were substituted—
+
+  > - (c) in a case which falls within subsection (1)(b)(i) or (ii), when—
+  >   - (i) the authorities in another Contracting State with jurisdiction under the Convention have taken the measures required by the situation, or
+  >   - (ii) measures taken by the authorities of another State are recognised in Northern Ireland.
+  >   - (d)[^key-2a81ecdaeeabc38384541e95dd9534b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+  .
+
+(3) Where this regulation applies, Article 60 of the Children (Northern Ireland) Order 1995 (representation of child’s interests) has effect as if in paragraph (6) there were included a reference to an application for an interim care order or interim supervision order by virtue of this regulation.
+
+## 7. Application of Article 15[^key-eb786ed82c353d10b6065514927bc090]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Judicial authorities[^key-1ba8db58f008171e1f1c2905beb28803]
+
+(1) The High Court has jurisdiction to entertain an application under Article 24 of the Convention for recognition, or non-recognition, of a measure taken in another Contracting State.
+
+(2) But where the recognition or non-recognition of a measure is raised as an incidental question in another court, that court may determine the issue.
+
+(3) The High Court is also to have jurisdiction—
+
+- (a) to register a measure taken in another Contracting State for enforcement under Article 26 of the Convention, and
+- (b) to entertain an application for a declaration—
+  - (i) that a person has, or does not have, parental responsibility for a child by virtue of Article 16 of the Convention, or
+  - (ii) as to the extent of a person’s parental responsibility for a child by virtue of that Article.
+
+## 9. Central authorities[^key-0ff25efa8f724eb5d0fa7dfe2d5f574e]
+
+(1) The functions under the Convention of a Central Authority are to be discharged—
+
+- (a) in England, by the Lord Chancellor,
+- (b) in Wales, by the Welsh Ministers, and
+- (c) in Northern Ireland, by the Department of Justice,
+
+and a reference in these Regulations to a “Central Authority” means any of the Lord Chancellor, the Welsh Ministers or the Department of Justice in so far as they have functions under this regulation.
+
+(2) If a person outside the United Kingdom does not know to which Central Authority in the United Kingdom a communication should be addressed, the person may address it to the Lord Chancellor.
+
+## 10. Requests for information by Central Authority where request received under Article 31(c)[^key-ada53be96294025b8213ba9b45ce094e]
+
+(1) Paragraphs (2), (3) and (4) apply if a Central Authority receives a request for assistance under Article 31(c) of the Convention (either directly or via another Central Authority in the United Kingdom).
+
+(2) The Lord Chancellor may request information about the whereabouts of a child from—
+
+- (a) a local authority in England, or
+- (b) the Secretary of State.
+
+(3) The Welsh Ministers may request information about the whereabouts of a child from—
+
+- (a) a local authority in Wales,
+- (b) a Local Health Board (within the meaning given by section 11 of the National Health Service (Wales) Act 2006[^f00009]), or
+- (c) an NHS Trust (within the meaning given by section 18 of that Act).
+
+(4) The Department of Justice may request information about the whereabouts of a child from a public authority in Northern Ireland, but may do so only in circumstances where a requirement to provide information could be imposed on the public authority by an Act of the Northern Ireland Assembly without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998[^f00010]).
+
+(5) A person (other than a court in Northern Ireland) who receives a request for information under this regulation must comply with the request as soon as reasonably practicable (but this is subject to paragraph (6)).
+
+(6) Nothing in this regulation requires a person to disclose information if—
+
+- (a) Article 37 of the Convention applies, or
+- (b) the disclosure would constitute contempt of court or a criminal offence.
+
+(7) If a person who receives a request under this regulation thinks that it is desirable, in responding to the request, to refer to information the disclosure of which would constitute contempt of court, the person must notify the court.
+
+(8) If a person who receives a request under this regulation thinks that it is desirable, in responding to the request, to refer to information the disclosure of which would constitute a criminal offence unless the disclosure were authorised by a court, the person must notify the court.
+
+## 11. Requests for information under Council Regulation[^key-c04da8bbb8022f48f982c3a614b61926]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Power to request report on child’s situation[^key-92d0c87b4c5bd3cc0bc9bd5edaef8657]
+
+(1) This regulation applies where a Central Authority thinks it appropriate to provide a report on the situation of a child under Article 32(a) of the Convention.
+
+(2) The Lord Chancellor may request a written report on the situation of the child from—
+
+- (a) a local authority in England, or
+- (b) an officer of the Children and Family Court Advisory and Support Service.
+
+(3) The Welsh Ministers may request a written report on the situation of the child from—
+
+- (a) a local authority in Wales, or
+- (b) a Welsh family proceedings officer.
+
+(4) The Department of Justice may request a written report on the situation of the child from a public authority or other person in Northern Ireland, but may do so only in circumstances where a requirement to provide information could be imposed on the public authority or other person by an Act of the Northern Ireland Assembly without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998).
+
+(5) A person in England and Wales or any public authority, other than a court, in Northern Ireland who receives a request for a report under this regulation must comply with the request as soon as reasonably practicable (but this is subject to paragraph (6)).
+
+(6) Nothing in this regulation requires a person to disclose information if—
+
+- (a) Article 37 of the Convention applies, or
+- (b) the disclosure would constitute contempt of court or a criminal offence.
+
+(7) If a person who receives a request under this regulation thinks that it is desirable, in responding to the request, to refer to information the disclosure of which would constitute contempt of court, the person must notify the court.
+
+(8) If a person who receives a request under this regulation thinks that it is desirable, in responding to the request, to refer to information the disclosure of which would constitute a criminal offence unless the disclosure were authorised by a court, the person must notify the court.
+
+## 13. Local authorities and Northern Ireland authorities: requirement to provide a report[^key-8fa1e1518897fb12e6db326a0d9211a6]
+
+(1) This regulation applies if a local authority in England and Wales or a Northern Ireland authority is contemplating—
+
+- (a) placing a child in another Contracting State, within the meaning given by Article 33 of the Convention. [^key-bcecaf61a7f22b50945933709fb59ff4]...
+- (b)[^key-bcecaf61a7f22b50945933709fb59ff4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Either the court or the local authority or Northern Ireland authority, whichever has jurisdiction under Articles 5 to 10 of the Convention [^key-2cd138ad1db4264b7fae57f279ff3821]... (“the authority”)—
+
+- (a) must provide a report to the Central Authority, or other competent authority, of the other Contracting State in accordance with Article 33(1) of the Convention, if the authority is exercising jurisdiction under the Convention. [^key-70a72f1773ea6c7b5b75ed6ae6f4ae1d]...
+- (b)[^key-70a72f1773ea6c7b5b75ed6ae6f4ae1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 14. Power to respond to a request under Article 34[^key-5aa4de35e306a5fa33e03312423ac6cb]
+
+A public authority in England and Wales or Northern Ireland may provide information in response to a request communicated to it by the Central Authority under Article 34 of the Convention.
+
+## 15. Northern Ireland: power of court to authorise disclosure[^key-99ec0a2ec6346242cd536b295d42d7bc]
+
+If a court in Northern Ireland is satisfied that a disclosure of information relating to proceedings before a court sitting in private is for the purpose of enabling the Central Authority in Northern Ireland to exercise a function under the Convention—
+
+- (a) the court may authorise the disclosure of the information, and
+- (b) a disclosure authorised under paragraph (a) is not punishable as contempt of court.
+
+## 16. Services under Article 35[^key-4b25a36b2f9a2fc9cc00a187f50bdb3b]
+
+(1) The Secretary of State may charge a reasonable fee in respect of the provision of a service under Article 35 (1) or (2) of the Convention.
+
+(2) The Welsh Ministers may charge a reasonable fee in respect of the provision of a service under Article 35(1) or (2) of the Convention.
+
+(3) The Department of Justice may charge a reasonable fee in respect of the provision of a service under Article 35(1) or (2) of the Convention.
+
+(4) A request under Article 35(2) of the Convention is to be made—
+
+- (a) if the parent making the request resides in England and Wales, to the local authority in whose area the parent resides, and
+- (b) if the parent making the request resides in Northern Ireland, to the Department of Justice.
+
+(5) A local authority in England may charge a reasonable fee in respect of the provision of a service under Article 35(1) or (2) of the Convention.
+
+(6) A local authority in Wales may charge a reasonable fee in respect of the provision of a service under Article 35(1) or (2) of the Convention.
+
+(7) A fee is “reasonable” for the purposes of this regulation if the income from fees of that kind equates as nearly as possible to the costs of providing the service to which the fees relate (including a reasonable share of expenditure which is referable only partly or only indirectly to the provision of that service).
+
+## 17. Amendments to other enactments[^key-e64c820212ff6dfe147b2cab2c09b698]
+
+The Schedule contains amendments to other enactments consequential on the entry into force of the Convention for the United Kingdom.
+
+Signed by authority of the Secretary of State for Justice
+
+McNally
+
+Minister of State
+
+Ministry of Justice
+
+## SCHEDULE — Consequential amendments
+
+Regulation 17
+
+### Magistrates’ Courts Act 1980
+
+**1.**[^key-9652f1b58dd89aab85e28bf705c1333c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Senior Courts Act 1981
+
+**2.**[^key-2e0f9440034335812f468d6171ddebcb] In paragraph 3 of Schedule 1 to the Senior Courts Act 1981[^f00012] (matters assigned to the Family Division), after sub-paragraph (f)(v) insert—
+
+> - (vi) the Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-Operation in respect of Parental Responsibility and Measures for the Protection of Children that was signed at The Hague on 19 October 1996;
+
+.
+
+### Child Abduction and Custody Act 1985
+
+**3.**[^key-a6ce1599db582964c831aa5fa45f8840] In section 9 of the Child Abduction and Custody Act 1985[^f00013] (suspension of court’s powers in cases of wrongful removal), after paragraph (b) insert—
+
+> - (ba) registering or enforcing a decision under the Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-Operation in respect of Parental Responsibility and Measures for the Protection of Children that was signed at The Hague on 19 October 1996 (“the 1996 Convention”), except where provisions of the 1996 Convention are invoked in accordance with Article 50 of the 1996 Convention;
+
+.
+
+### Family Law Act 1986
+
+**4.**[^key-6f1a260cde35d398f1d492d2b0982049] The Family Law Act 1986 is amended as follows.
+
+**5.**[^key-0601a1104bb938c8dbf01c59363d076c] In section 2—
+
+- (a) in subsection (1)(a), after “the Council Regulation” insert “or the Hague Convention”,
+- (b) in subsection (1)(b), for “the Council Regulation does not apply” substitute “neither the Council Regulation nor the Hague Convention applies”,
+- (c) in subsection (3)(a), after “the Council Regulation” insert “or the Hague Convention”, and
+- (d) in subsection (3)(b), for “the Council Regulation does not apply” substitute “neither the Council Regulation nor the Hague Convention applies”.
+
+**6.**[^key-851a7f0ae4dbdf5d85bea68a66a12f8e] (1) In section 5(2) (power of court to refuse application or stay proceedings: England and Wales)—
+
+- (a) after paragraph (a) leave out “or”,
+- (b) after paragraph (b) leave out “or”,
+- (c) after paragraph (c) insert “, or” and insert
+
+  > - (d) that it should exercise its powers under Article 8 of the Hague Convention (request to authority in another Contracting State to assume jurisdiction),
+
+  and
+- (d) after “Article 15” in the words following paragraph (c), insert “of the Council Regulation or Article 8 of the Hague Convention”.
+
+(2) After section 5(3A) insert—
+
+> (3AA) The court may remove a stay granted in order for it to exercise its powers under Article 8 of the Hague Convention, and withdraw any request made by it to an authority in another Contracting State to assume jurisdiction, if—
+>
+> - (a) the authority in the other Contracting State does not assume jurisdiction within the period for which the court granted the stay, or
+> - (b) the parties do not, within the period specified by the court, request the authority in the other Contracting State to assume jurisdiction.
+
+(3) In section 5(3B) for “or (3A)” substitute “, (3A) or (3AA)”.
+
+**7.**[^key-e23e89ab7c9fe7ed61d053da10c78d7d] In section 19—
+
+- (a) in subsection (1)(a), after “the Council Regulation” insert “or the Hague Convention”,
+- (b) in subsection (1)(b), for “the Council Regulation does not apply” substitute “neither the Council Regulation nor the Hague Convention applies”,
+- (c) in subsection (3)(a), after “the Council Regulation” insert “or the Hague Convention”, and
+- (d) in subsection (3)(b), for “the Council Regulation does not apply” substitute “neither the Council Regulation nor the Hague Convention applies”.
+
+**8.**[^key-64c861e85ce64b28a7a67be538e015e6] (1) In section 22(2) (power of court to refuse application or stay proceedings: Northern Ireland)—
+
+- (a) after paragraph (a) leave out “or”,
+- (b) after paragraph (b) leave out “or”,
+- (c) after paragraph (c) insert “, or” and insert
+
+  > - (d) that it should exercise its powers under Article 8 of the Hague Convention (request to authority in another Contracting State to assume jurisdiction),
+
+  and
+- (d) after “Article 15” in the words following paragraph (c), insert “of the Council Regulation or Article 8 of the Hague Convention”.
+
+(2) After section 22(3A) insert—
+
+> (3B) The court may remove a stay granted in order for it to exercise its powers under Article 8 of the Hague Convention, and withdraw any request made by it to an authority in another Contracting State to assume jurisdiction, if—
+>
+> - (a) the authority in the other Contracting State does not assume jurisdiction within the period for which the court granted the stay, or
+> - (b) the parties do not, within the period specified by the court, request the authority in the other Contracting State to assume jurisdiction.
+
+**9.**[^key-04c51b3fa3c55f7590e8ae1d2fc72844] In section 42(1) (interpretation), after the definition of “the Council Regulation” insert—
+
+> “the Hague Convention” means the Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-Operation in respect of Parental Responsibility and Measures for the Protection of Children that was signed at The Hague on 19 October 1996.
+
+### Mental Capacity Act 2005
+
+**10.**[^key-bb44e9e5c8a622ffa27d3dbcc383a80c] In Schedule 3 to the Mental Capacity Act 2005[^f00014]—
+
+- (a) in paragraph 4 (adults with incapacity), after “means” insert (subject to sub-paragraph (2)”, and
+- (b) after the existing provision in paragraph 4 (which becomes sub-paragraph (1)), insert—
+
+  > (2) But “adult” does not include a child to whom either of the following applies—
+  >
+  > - (a) the Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-Operation in respect of Parental Responsibility and Measures for the Protection of Children that was signed at The Hague on 19 October 1996;
+  > - (b) Council Regulation [(EC) No. 2201/2003](https://www.legislation.gov.uk/european/regulation/2003/2201) concerning jurisdiction and the recognition and enforcement of judgments in matrimonial matters and the matters of parental responsibility.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations facilitate the ratification of the Hague Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-Operation in respect of Parental Responsibility and Measures for the Protection of Children 1996 (Cm 7727) (“the Convention”) by the United Kingdom. They also facilitate the application of Council Regulation [(EC) 2201/2003](https://www.legislation.gov.uk/european/regulation/2003/2201) of 27 November 2003 concerning Jurisdiction and the Recognition and Enforcement of Judgments in Matrimonial Matters and the Matters of Parental Responsibility, repealing Regulation [(EC) 1347/2000](https://www.legislation.gov.uk/european/regulation/2000/1347) (“the Council Regulation”). Except where indicated, they extend to England and Wales and Northern Ireland.
+
+*Regulation 3* empowers a court, which has stayed proceedings in order to request the authorities of another Contracting State to assume jurisdiction, to remove the stay if those authorities have not assumed jurisdiction within the appropriate time.
+
+*Regulation 4* requires a local authority in England and Wales or Northern Ireland authority proposing to make an application for a care or supervision order relating to a child regarding whom the authorities of another Contracting State have jurisdiction under the Convention, to apply to the High Court to make a request under Article 9 for the transfer of jurisdiction from those authorities, rather than to make such a request itself.
+
+*Regulations 5 and 6* provide for section 38 of the Children Act 1989 and Article 57 of the Children (Northern Ireland) Order 1995 respectively to have effect so as to enable a local authority or Northern Ireland authority to make an application for an interim care order or interim supervision order in reliance on Articles 11 or 12 of the Convention, or Article 20 of the Council Regulation, notwithstanding that the court has no jurisdiction under those instruments to hear an application for the full care order or supervision order.
+
+*Regulation 7* ensures that the applicable law provisions of the Convention will also apply where the jurisdiction of the authority taking the relevant measure is based on the provisions of the Council Regulation, by providing for the reference to Chapter II of the Convention in Article 15(1) to be read as including a reference to Chapter II of the Council Regulation.
+
+*Regulation 8* provides for the High Court to have jurisdiction to entertain applications under Articles 24 and 26 of the Convention (recognition and enforcement of parental responsibility measures), and in relation to declarations of the existence or extent of a person’s parental responsibility for a child under Article 16. However, recognition or non-recognition of a measure arising as an incidental question in other proceedings can be adjudicated by the court hearing that case.
+
+*Regulation 9* identifies the bodies which will discharge the functions of a Central Authority for the Convention in England, Wales and Northern Ireland.
+
+*Regulations 10, 11 and 12* make provision enabling Central Authorities to require specified bodies to provide information or reports in order to facilitate certain tasks of the Central Authority under the Convention and the Council Regulation. *Regulation 10* enables each Central Authority to require information regarding a child’s whereabouts for the purposes of Article 31(c) of the Convention. *Regulation 12* enables each Central Authority to require a report on the child’s situation for the purposes of Article 32(a) of the Convention. *Regulation 11* extends to England and Wales only, and enables the Central Authority for the Council Regulation to require information or reports for the purposes of Article 55(a)(i) requests under that Regulation. In all cases, there are exceptions to the requirement to disclose information, in particular where disclosure would constitute a contempt of court or a criminal offence.
+
+*Regulation 13* requires the court or a local authority or Northern Ireland authority contemplating placement of a child in another Contracting State or another Member State, to provide a report to, or consult, the authorities of the other state in accordance with the terms of the Convention or Council Regulation, as the case may be.
+
+*Regulation 14* empowers any public authority in England and Wales or Northern Ireland to provide information in response to a request made under Article 34 of the Convention.
+
+*Regulation 15*, which extends to Northern Ireland only, enables a court in Northern Ireland to authorise a disclosure of information relating to proceedings before a court sitting in private if satisfied that the disclosure is to be made for purposes of enabling the Central Authority in Northern Ireland to carry out its functions under the Convention. In the event of such authorisation, any such disclosure will not be in contempt of court.
+
+*Regulation 16* permits certain bodies to charge a reasonable fee for services under Article 35(1) or (2) of the Convention (assistance in practical implementation of protective measures and provision of a report on a parent seeking contact to a child in proceedings in another Contracting State). It also provides for the bodies to which requests for Article 35(2) reports are to be made.
+
+*Regulation 17 and the Schedule* make amendments to primary legislation which is consequential upon entry into force of the Convention for the United Kingdom.
+
+An Impact Assessment has not been produced for this instrument since the annual impact on the costs of business, charities and voluntary bodies is considered to be minimal.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68) (amended by the Legislative and Regulatory Reform Act 2006).
+
+[^f00002]: Footnote: [S.I. 2008/1792](https://www.legislation.gov.uk/uksi/2008/1792).
+
+[^key-3737e6223c748a4454bdeb258379b342]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^key-11b63ff88cb09492d9016973342c4623]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/1898/regulation/2) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^f00003]: Footnote: Cm 7727.
+
+[^key-d6988071388ea6fb1b3beae97f15b4ee]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/1898/regulation/2) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 37(2)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/37/2/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-eac24f1a984da6316f8365ef0be23cff]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/1898/regulation/2) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 37(2)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/37/2/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00005]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
+
+[^f00006]: Footnote: [2004, c. 31](https://www.legislation.gov.uk/ukpga/2004/31).
+
+[^key-f91f365ee18a21d6ed367ca7f903794b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/1898/regulation/3) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^f00007]: Footnote: [1986, c. 55](https://www.legislation.gov.uk/ukpga/1986/55).
+
+[^key-837714a1432c4999ad43bba934180521]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/1898/regulation/4) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^f00008]: Footnote: [1989, c.41](https://www.legislation.gov.uk/ukpga/1989/41).
+
+[^key-53383fb5846ca8cb4831fb8f0f2bc400]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/1898/regulation/5) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^key-51d1ee7e182f66d62be4760e8fac1df6]: Textual amendment: Word in [reg. 5(1)(b)(i)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/5/1/b/i) inserted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 37(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/37/3/a/i) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-612e1a56eef6fb898057d7d39d96937a]: Textual amendment: [Reg. 5(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/5/1/b/iii) and word omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 37(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/37/3/a/ii) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-20835726a788cb9268570a92bf6e46a2]: Textual amendment: Words in [reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/5/2/a) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 37(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/37/3/b/i) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e22ca307116bc44f314f9722636af081]: Textual amendment: Words in [reg. 5(2)(d)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/5/2/d) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 37(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/37/3/b/ii) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b9aa70563557b3d504b822f33313238f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/1898/regulation/6) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^key-bc179676b3a13eb0320ba87db6671330]: Textual amendment: [Reg. 6(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/6/1/b/iii) and word omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 37(4)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/37/4/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-be21ecac572fd665191a47e4471792d2]: Textual amendment: Words in [reg. 6(2)(a)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/6/2/a) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 37(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/37/4/b/i) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2a81ecdaeeabc38384541e95dd9534b1]: Textual amendment: Words in [reg. 6(2)(d)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/6/2/d) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 37(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/37/4/b/ii) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-eb786ed82c353d10b6065514927bc090]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/1898/regulation/7) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 37(5)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/37/5) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1ba8db58f008171e1f1c2905beb28803]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/1898/regulation/8) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^key-0ff25efa8f724eb5d0fa7dfe2d5f574e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/1898/regulation/9) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^key-ada53be96294025b8213ba9b45ce094e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/1898/regulation/10) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^f00009]: Footnote: [2006, c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^f00010]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
+
+[^key-c04da8bbb8022f48f982c3a614b61926]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2010/1898/regulation/11) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 37(6)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/37/6) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-92d0c87b4c5bd3cc0bc9bd5edaef8657]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2010/1898/regulation/12) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^key-8fa1e1518897fb12e6db326a0d9211a6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2010/1898/regulation/13) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^key-bcecaf61a7f22b50945933709fb59ff4]: Textual amendment: [Reg. 13(1)(b)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/13/1/b) and word omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 37(7)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/37/7/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2cd138ad1db4264b7fae57f279ff3821]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/13/2) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 37(7)(b)(i)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/37/7/b/i) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-70a72f1773ea6c7b5b75ed6ae6f4ae1d]: Textual amendment: [Reg. 13(2)(b)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/13/2/b) and word omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 37(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/37/7/b/ii) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5aa4de35e306a5fa33e03312423ac6cb]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2010/1898/regulation/14) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^key-99ec0a2ec6346242cd536b295d42d7bc]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2010/1898/regulation/15) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^key-4b25a36b2f9a2fc9cc00a187f50bdb3b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2010/1898/regulation/16) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^key-e64c820212ff6dfe147b2cab2c09b698]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2010/1898/regulation/17) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^key-9652f1b58dd89aab85e28bf705c1333c]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/1898/schedule/paragraph/1) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+
+[^key-2e0f9440034335812f468d6171ddebcb]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/1898/schedule/paragraph/2) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^f00012]: Footnote: [1981, c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
+
+[^key-a6ce1599db582964c831aa5fa45f8840]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/1898/schedule/paragraph/3) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^f00013]: Footnote: [1985, c.60](https://www.legislation.gov.uk/ukpga/1985/60).
+
+[^key-6f1a260cde35d398f1d492d2b0982049]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2010/1898/schedule/paragraph/4) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^key-0601a1104bb938c8dbf01c59363d076c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/1898/schedule/paragraph/5) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^key-851a7f0ae4dbdf5d85bea68a66a12f8e]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2010/1898/schedule/paragraph/6) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^key-e23e89ab7c9fe7ed61d053da10c78d7d]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2010/1898/schedule/paragraph/7) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^key-64c861e85ce64b28a7a67be538e015e6]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/1898/schedule/paragraph/8) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^key-04c51b3fa3c55f7590e8ae1d2fc72844]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2010/1898/schedule/paragraph/9) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^key-bb44e9e5c8a622ffa27d3dbcc383a80c]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2010/1898/schedule/paragraph/10) in force at 1.11.2012 in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2)
+
+[^f00014]: Footnote: [2005, c.9](https://www.legislation.gov.uk/ukpga/2005/9).

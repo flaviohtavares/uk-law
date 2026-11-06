@@ -1,0 +1,49 @@
+---
+title: Finance Act 2016, section 171
+act: Finance Act 2016
+section: '171'
+status: revised-with-pending-changes
+text_date: '2026-06-25'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2016/24/section/171
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2016, section 171
+
+> **Warning: changes not yet applied to this text (12).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/24
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 171. Rate of interest applicable to judgment debts etc: Northern Ireland
+
+*Extent: N.I.*
+
+(1) This section applies if a sum payable to or by the Commissioners under a judgment or order given or made in any court proceedings relating to a taxation matter (a “tax-related judgment debt”) carries interest.
+
+(2) In a case where the rate of interest is specified in the judgment (in the case of the High Court) or directed by the judge (in the case of a county court), the rate specified or directed in relation to that debt may not exceed (and may not be capable of exceeding)—
+
+- (a) in the case of a sum payable to the Commissioners, the late payment interest rate, and
+- (b) in the case of a sum payable by the Commissioners, the special repayment rate.
+
+(3) In a case where the rate of interest in relation to the tax-related judgment debt is not specified in the judgment or directed by the judge but provided for by an enactment or rule of court (whenever passed or made), that enactment or rule is to have effect in relation to the debt as if for the rate for which it provides there were substituted—
+
+- (a) in the case of a sum payable to the Commissioners, the late payment interest rate, and
+- (b) in the case of a sum payable by the Commissioners, the special repayment rate.
+
+(4) This section has effect in relation to interest for periods beginning on or after the day on which this Act is passed, regardless of—
+
+- (a) the date of the judgment or order in question, and
+- (b) whether interest begins to run on or after the day on which this Act is passed, or began to run before that date.
+
+(5) In this section—
+
+- “**the Commissioners**” means the Commissioners for Her Majesty's Revenue and Customs;
+- “**enactment**” includes Northern Ireland legislation or an instrument made under such legislation;
+- “**late payment interest rate**” means the rate provided for in regulations made by the Treasury under section 103(1) of FA 2009;
+- “**special repayment rate**” has the same meaning as in section 52 of F(No.2) A 2015 (and subsections (7) to (10) of that section apply for the purposes of this section as they apply for the purposes of that section);
+- “**taxation matter**” means anything the collection and management of which is the responsibility of the Commissioners (or was the responsibility of the Commissioners of Inland Revenue or Commissioners of Customs and Excise);
+- “**working day**” means any day other than a non-business day as defined in section 92 of the Bills of Exchange Act 1882.
+
+(6) This section extends to Northern Ireland only.

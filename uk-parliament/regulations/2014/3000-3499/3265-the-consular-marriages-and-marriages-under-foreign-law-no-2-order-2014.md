@@ -1,0 +1,409 @@
+---
+title: The Consular Marriages and Marriages under Foreign Law (No. 2) Order 2014
+id: uksi/2014/3265
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-12-10'
+text_date: '2023-02-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/3265
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/3265/pdfs/uksiem_20143265_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/3265/pdfs/uksi_20143265_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/3265/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Consular Marriages and Marriages under Foreign Law (No. 2) Order 2014
+
+> Text as at 2023-02-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+This Statutory Instrument has been printed to correct defects in [SI 2014/1110](https://www.legislation.gov.uk/uksi/2014/1110) and is being issued free of charge to all known recipients of that Statutory Instrument.
+
+2014 No. 3265
+
+Marriage
+
+The Consular Marriages and Marriages under Foreign Law (No. 2) Order 2014
+
+Made
+
+10th December 2014
+
+Coming into force in accordance with article 1
+
+At the Court at Buckingham Palace, the 10th day of December 2014
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Her Majesty, in exercise of the powers conferred upon Her by section 13(1) of, and paragraphs 1, 2, 7, 13 and 14 of Schedule 6 to, the Marriage (Same Sex Couples) Act 2013[^f00001], is pleased, by and with the advice of Her Privy Council, to make the following Order.
+
+In accordance with paragraph 13(1) of Schedule 6 to that Act a draft of this Order has been laid before, and approved by a resolution of, each House of Parliament.
+
+In accordance with paragraph 13(2) of Schedule 6 to that Act the Scottish Ministers have been consulted.
+
+## PART 1 — Introductory
+
+**1.**[^key-c0ec6f306440666a7d01d7584873d1ee] (1) This Order may be cited as the Consular Marriages and Marriages under Foreign Law (No. 2) Order 2014 and comes into force on the day after the day on which it is made.
+
+(2) In this Order—
+
+- “the Act” means the Marriage (Same Sex Couples) Act 2013;
+- “registration officer” has the same meaning as in paragraph 6 of Schedule 6 to the Act.
+
+(3)[^key-776eb2f7c96aae7385047ac79f820daa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 2 — Consular marriages
+
+*Extent: E+W+S*
+
+### 2. Countries or territories in which consular marriages may take place[^key-71934e3b388fe4dc1f4a146506ac2be9]
+
+(1) The marriage of two people may, in accordance with the following provisions of the Order, take place in the presence of a registration officer in a country or territory referred to in paragraph (2), where the registration officer is satisfied that the conditions specified in paragraph 1(2) of Schedule 6 to the Act are met.
+
+(2) A consular marriage may take place in those countries or territories outside the United Kingdom which have notified the Secretary of State in writing that there is no objection to such marriages taking place in that country or territory and which have not subsequently revoked that notice.
+
+### 3. Relevant part of the United Kingdom[^key-93a073d4b03a41e00b63875d48c7cd9a]
+
+For the purposes of paragraph 1(2)(b) of Schedule 6 to the Act and this Order, the relevant part of the United Kingdom is the part jointly elected by the parties under article 4(4)(a).
+
+### 4. Notice of intended marriage[^key-7e51a10bd5739c6dc40b8894ecab06e7]
+
+(1) Before any marriage can be solemnized under this Order, one of the parties to the proposed marriage must give notice to a registration officer of the parties’ intention to marry.
+
+(2) The notice of intention to marry must be given to the registration officer within whose consular district both of the parties have had their residence for the period of seven days ending on the day on which the notice is given.
+
+(3) The notice of intention to marry must contain the following details of each of the parties to the proposed marriage—
+
+- (a) forenames;
+- (b) surname;
+- (c) nationality;
+- (d) date of birth;
+- (e) sex;
+- (f) address;
+- (g) marital condition;
+
+(4) The notice of intention to marry must also contain the following details—
+
+- (a) the part of the United Kingdom, which must be [^key-0e8a3bf72f9f13f2f4ca41897b6e1ce8]... England and Wales or Scotland or Northern Ireland[^key-5ea677b01bc3b230928fbe9b703a9766], which the parties have jointly elected as the relevant part of the United Kingdom for the purposes of the marriage; and
+- (b) the date on which the notice was given.
+
+(5) The registration officer must retain every notice of intended marriage and must display a true copy of the notice, and the contact details of the person to whom any notice of objection to the proposed marriage should be sent, in a conspicuous place in the consular district of the registration officer for the period of 14 days ending on the day on which the solemnization of the marriage to which the notice relates may take place.
+
+### 5. Consent to marriage[^key-309a569d10ebbc0bf24b91010af5f420]
+
+(1)[^key-2a1e87b57280ca6e474536ae9d5c02b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-52cbdb357fe191faff57ff252a28f2d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2A)[^key-5f9b59bf4d73e9040553aed540a89d95] Where either party to the marriage is under the age of 18 and the relevant part of the United Kingdom is Northern Ireland then the same consents are required as would be required under Article 22 of the Marriage (Northern Ireland) Order 2003 in respect of a marriage solemnized in Northern Ireland.
+
+(2B) The Secretary of State may dispense with the requirement to obtain those consents if satisfied that it is not reasonably practicable to obtain the consent of any person whose consent is so required.
+
+(3) On a request in person of any person whose consent is required, the registration officer must produce the notice given under article 4(1).
+
+(4) Such person may forbid the solemnization of the marriage referred to in the notice at any time before the marriage has been solemnized by writing the word “forbidden” on the notice, together with the person’s name and address and capacity to forbid the marriage.
+
+(5) If a person forbids the proposed marriage to which the notice relates in accordance with paragraph (4), the notice is void and the proposed marriage cannot be solemnized under that notice.
+
+### 6. Objection to marriage[^key-d2f52f76dc77d815f808b7b52d9ee213]
+
+(1) Any person may enter an objection to a proposed marriage, including by electronic means, by giving notice of the objection in writing to the registration officer to whom the notice of the proposed marriage was given under article 4.
+
+(2) An objection must be signed by the person making it, or on that person’s behalf, and must include the person’s name, address and ground of objection.
+
+(3) An objection entered by electronic means need not contain the signature of the person making it but must contain a statement from that person that it originates from them.
+
+(4) If an objection is entered in accordance with paragraphs (1) to (3) in respect of a proposed marriage, the registration officer must give notice in writing of the objection to the person who gave notice of the proposed marriage under article 4, and the marriage may not be solemnized until either the objection has been withdrawn by the person who made it, or the registration officer is satisfied that the objection should not obstruct the solemnization of the marriage.
+
+(5) The registration officer must notify in writing the person who gave notice of the proposed marriage if any objection entered in respect of the proposed marriage under paragraph (1) is withdrawn.
+
+(6) The registration officer must notify in writing the person who has entered the objection and the person who gave notice of the proposed marriage of any decision that the objection should not obstruct the solemnization of the marriage.
+
+### 7. Expiry of notice[^key-72ad755be2bbb75e08550a1448245516]
+
+(1) A marriage cannot be solemnized on a day unless a notice under article 4(1) relating to that marriage has been given within the period of three months before that day.
+
+(2) If an objection has been made under article 6, paragraph (1) is to have effect as if it prohibited a marriage from being solemnized on a day which is after the end of the period of three months beginning with—
+
+- (a) where the objection is withdrawn, the day on which the registration officer gives notice of the withdrawal of the objection under article 6(5);
+- (b) where the registration officer decides that the objection should not obstruct the solemnization of the marriage, the day on which the registration officer gives notice of that decision under article 6(6).
+
+### 8. Oath before marriage[^key-284395268543fb7f9db0b9920eb238c9]
+
+Before a marriage is solemnized under this Order, each of the parties entering into the marriage must appear before a registration officer and sign, in a book kept by a registration officer for the purpose, a declaration—
+
+- (a) that he or she believes —
+  - (i) where the relevant part of the United Kingdom is England and Wales, that there is no impediment to the marriage such that the marriage would be void under section 1 of the Marriage Act 1949[^f00003] or other lawful hindrance;
+  - (ii) where the relevant part of the United Kingdom is Scotland, that there is no impediment to the marriage such that the marriage would be void under section 2 of the Marriage (Scotland) Act 1977[^f00004] (marriage of related persons) or other lawful hindrance;
+  - (iii)[^key-90536b8577afbbef0f1d6ab620c12715] where the relevant part of the United Kingdom is Northern Ireland, that there is no impediment to the marriage such that the marriage would be void under Article 13 of the Matrimonial Causes (Northern Ireland) Order 1978;
+- (b) that both of the parties have for a period of 21 days ending on the day on which the declaration is made had their usual residence within the consular district of the registration officer; and
+- (c)[^key-d6a0722c3a8d0b57fa40cc515a9f8512] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-369a8533164544032cafc03656fe8157] where either party is under the age of 18 and the relevant part of the United Kingdom is Northern Ireland—
+  - (i) that any consents to the marriage which are required in respect of that party have been obtained; or
+  - (ii) that the necessity of obtaining any such consents in respect of that party has been dispensed with.
+
+### 9. Solemnization of marriage[^key-a0f2f11541d402ecc91d2ea76c1f6482]
+
+(1) After the 14 day period in article 4(5) has elapsed, if no impediment to the marriage has been shown to the registration officer to whom the notice of the proposed marriage was given under article 4 and the conditions in paragraph 1(2) of the Act are fulfilled, the marriage may be solemnized.
+
+(2) Every marriage must be solemnized in consular premises, with open doors, in the presence of two or more witnesses, none of whom may be the registration officer in whose presence the marriage is solemnized.
+
+(3) Where it would otherwise not be stated or indicated in the course of the ceremony that neither of the parties knows of any lawful impediment to their marriage, then, in some part of the ceremony and in the presence of the registration officer and witnesses, each of the parties is to declare “I solemnly declare that I know not of any lawful impediment why I A.B. (*or C.D.*) may not be joined in matrimony to C.D. (*or A.B.*).”
+
+(4) As an alternative to the declaration set out in paragraph (3) the persons contracting the marriage may make the requisite declaration either—
+
+- (a) by saying “I declare that I know of no legal reason why I (*name*) may not be joined in marriage to (*name*)”; or
+- (b) by replying “I am” to the question put to them successively “Are you (*name*) free lawfully to marry (*name*)?”.
+
+(5) Where it would otherwise not be stated by each of the parties in the course of the ceremony that they take the other person as husband or wife then, in some part of the ceremony and in the presence of the registration officer and witnesses, each of the parties is to say to the other “I call upon these persons here present to witness that I A.B. (*or C.D.*) take thee C.D. (*or A.B.*) to be my lawful wedded wife (*or* husband).”
+
+(6) As an alternative to the words of the contract set out in paragraph (5) the persons to be married may say to each other “I (*name*) take you (*or* thee) (*name*) to be my wedded wife (*or* husband).”
+
+(7) A certificate of the Secretary of State as to any place being, or being part of, consular premises is conclusive.
+
+### 10. Register of marriages[^key-e6b7bdf12d6001e05e1a2eadb80f2caf]
+
+(1) A registration officer for the consular district, nominated by the Secretary of State for these purposes, must maintain a register and therein register the details provided in accordance with article 4(3) of every marriage solemnized in the consular district in accordance with this Order.
+
+(2) The entry in the register of every marriage must be signed by the registration officer solemnizing the marriage, by both the parties married and by two witnesses to the marriage.
+
+(3) Every nominated registration officer must, at such times as are determined by the Secretary of State, send to the Registrar General for England and Wales a copy of all the entries of marriages in the register kept by the registration officer entered since such details were last sent, and if there has been no such entry, confirmation of that fact.
+
+(4) Where the Registrar General for England and Wales receives a copy of an entry of marriage in the register under paragraph (3) in relation to which the parties elected Scotland or Northern Ireland[^key-c65cfbf32f3bd3b0c8cdb843b26d5a18] as the relevant part of the United Kingdom for the purposes of the marriage, the Registrar General for England and Wales must send a certified copy of the entry to the Registrar General for Scotland or (as the case may be) the Registrar General for Northern Ireland[^key-1c52e0ed3b82e0bc9ecbaae1fb3beb90].
+
+(5) Any person shall be entitled, upon payment of a fee, to obtain from the Registrar General for England and Wales or the Registrar General for Scotland or the Registrar General for Northern Ireland[^key-cb8ffe444c5ab23b826e4bd136502a78], as the case may be, a certified copy of an entry of marriage in the register received under paragraph (3) or (4).
+
+(6) The fee payable under paragraph (5) shall be the same fee as is for the time being charged by that Registrar General for the provision of a certified copy of, and any necessary search for, an entry in the records in his custody of marriages performed in England and Wales or Scotland or Northern Ireland[^key-a66244c99843c10fea9f81e1b31afaba], as the case may be.
+
+### 11. Conclusive proof of marriages[^key-7ba1664fe0991cf5140e7b4fa4ebc853]
+
+After a marriage has been solemnized in accordance with this Order it shall not be necessary to prove—
+
+- (a) that the parties fulfilled any requirement of residence imposed;
+- (b) that any necessary consent was obtained;
+- (c) that the registration officer had authority to solemnize the marriage;
+- (d) that the solemnization took place within consular premises;
+
+and no evidence to prove the contrary shall be given in any legal proceedings touching on the validity of the marriage.
+
+### 12. Power to dispense with provisions[^key-64de2b62dabb9eb3ea0a6ab56b7d1fd2]
+
+(1) If the Secretary of State is satisfied there are good reasons why the requirement as to residence or notice in paragraph (2) or (as the case may be) (5) of article 4 cannot be complied with and is satisfied that the proposed marriage is not clandestine, the Secretary of State may authorise the registration officer to dispense with the requirement.
+
+(2) The Secretary of State must notify the registration officer in writing of the decision to authorise dispensing with the requirement and provide a statement of reasons for the decision.
+
+(3) If the Secretary of State authorises the registration officer to dispense with any requirements in accordance with paragraph (1), the registration officer must record the good reasons referred to in paragraph (1).
+
+### 13. Appeal against refusal by registration officer[^key-f024d0a051d46f81ba8091921ae4eede]
+
+(1) If a registration officer does not allow two people to marry in reliance on paragraph 2(1) of Schedule 6 to the Act, either person may appeal in writing to the Secretary of State within 28 days of the decision of the registration officer.
+
+(2) In considering an appeal under paragraph (1), the Secretary of State’s decision is final.
+
+## PART 3 — Marriage under Foreign Law
+
+### 14. Application for a certificate of no impediment to the superintendent registrar[^key-ce6c6a227ea480847f18efe3fea59f17]
+
+(1) Any United Kingdom national (N) (if resident in England and Wales) who wishes to be married in a country or territory outside the United Kingdom which is not included in Schedule 3 to the British Nationality Act 1981[^f00005] where the law of that country or territory requires N to obtain a certificate of no impediment to be issued by the domestic authorities in the United Kingdom may make an application for such a certificate to the superintendent registrar in England and Wales.
+
+(2) An application under paragraph (1) must be made to the superintendent registrar of the registration district in which N is resident and has resided in for no less than the period immediately preceding the application as would be required in order to give notice of marriage in England and Wales.
+
+(3) An application under paragraph (1) must be accompanied by—
+
+- (a) a notice, which must be dated and signed by N, containing the following details in relation to each of the parties to the proposed marriage—
+  - (i) forenames;
+  - (ii) surname;
+  - (iii) nationality;
+  - (iv) date of birth;
+  - (v) sex;
+  - (vi) address;
+  - (vii) marital condition;
+  - (viii) occupation;
+- (b) a declaration signed by N that—
+  - (i) N is resident and has resided in the registration district in which notice is given for no less than the same period immediately preceding the giving of the notice as would be required if the marriage were to be solemnized in England and Wales;
+  - (ii)[^key-8936778388538c69e6258b8fae09bbbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) N believes there to be no impediment to the marriage such that the marriage would be void under section 1 of the Marriage Act 1949[^f00006] or otherwise.
+
+### 15. Issuing a certificate of no impediment by the superintendent registrar[^key-2e7df73e63efe2436b06e3e2ab178c5d]
+
+(1) The superintendent registrar must retain every notice and declaration made under article 15 and display a copy of the notice in a conspicuous place for the same period preceding the issuing of the certificate of no impediment as would be required if the marriage were to be solemnized in England and Wales.
+
+(2) The superintendent registrar must, upon payment of a fee, issue a certificate of no impediment unless the superintendent registrar considers there is reason to believe there would be an impediment to the marriage if it were to take place in England and Wales.
+
+(3) The fee payable under paragraph (2) shall be the same fee as is for the time being payable for recording a notice of marriage under section 27(4)(b)[^key-c4769e3bfc67ed78816d1f4c655338a8] of the Marriage Act 1949.
+
+### 16. Application for a consular certificate of no impediment[^key-b83947401fb5e4a4363ae56a328d7ecc]
+
+(1) Any United Kingdom national (N) who wishes to enter into a marriage in a country or territory outside the United Kingdom which requires a consular certificate of no impediment to be issued may apply for a certificate of no impediment to the registration officer nominated by the Secretary of State for the purposes of this article in respect of the country or territory in which the marriage is to be registered.
+
+(2) An application under paragraph (1) must be accompanied by —
+
+- (a) a notice, which must be signed and dated by N, containing the following details in relation to each of parties to the proposed marriage—
+  - (i) forenames;
+  - (ii) surname;
+  - (iii) nationality;
+  - (iv) date of birth;
+  - (v) sex;
+  - (vi) address;
+  - (vii) marital condition;
+- (b) a declaration signed by N that—
+  - (i) N has been resident in the country or territory in which the notice is being given for a period of at least three days immediately preceding the giving of the notice;
+  - (ii) if N is under the age of eighteen years and the relevant part of the United Kingdom is Northern Ireland[^key-db85631f0c87f5918eef0873f8a3c536], that the consent of the persons whose consent to the marriage is required by law has been obtained, or that there is no person having authority to give that consent, as the case may be;
+  - (iii) N believes there to be no impediment to the marriage such that the marriage would be void under section 1 of the Marriage Act 1949, section 2 of the Marriage (Scotland) Act 1977, article 18 of the Family Law (Miscellaneous Provisions) (Northern Ireland) Order 1984[^f00007] or otherwise.
+
+(3) The notice detailed in paragraph (2)(a) and the declaration detailed in paragraph (2)(b) must be signed in the presence of any person authorised to witness the signature in the country or territory in which the marriage is to be registered or the registration officer responsible for the consular district in which the marriage is to be registered.
+
+(4) A person witnessing the signature under paragraph (3) must also sign and date the notice and declaration with a statement that they have witnessed the signature.
+
+### 17. Issuing a consular certificate of no impediment[^key-e3e8ccf1f424b39b3f9af55bfc81cb62]
+
+(1) The registration officer must retain every notice and declaration made under article 17 and must display a true copy of the notice in a conspicuous place in the consular district of the registration officer for a period of seven consecutive days preceding the issuing of a certificate of no impediment.
+
+(2) A registration officer may request any further information from N which the registration officer considers to be relevant to the decision whether to issue a certificate of no impediment.
+
+(3) Where an application is made in accordance with article 14, the registration officer must issue a certificate of no impediment unless the registration officer considers there is reason to believe that there would be an impediment to the marriage taking place if it were to take place in England and Wales, Scotland or Northern Ireland.
+
+## PART 4 — Revocations and consequential amendments
+
+### 18. Revocations[^key-b7bc61e283ca338d80d096cd3a0660d7]
+
+The Consular Marriages and Marriages under Foreign Law Order 2014[^f00008] is revoked.
+
+### 19. Amendments to the Consular Fees Order 2012[^key-9490dcda3e4ff75db520d3aad73e1764]
+
+The Consular Fees Order 2012[^f00009] is amended as follows.
+
+**20.**[^key-2969d772f2aa924779d9dff1d3afc0ad] In article 3 for “marriage officers under the Foreign Marriage Act 1892 and the Marriage with Foreigners Act 1906” substitute “marriage officers under the Foreign Marriage Act 1892 or registration officers under the Consular Marriages and Marriages under Foreign Law (No. 2) Order 2014”.
+
+**21.**[^key-45710e064a99191f283ab501114cd373] In entry 12 in the table in Part 1 of Schedule 1 to the Order after “Foreign Marriages Acts 1892 and 1947” insert “or Consular Marriages and Marriages under Foreign Law (No. 2) Order 2014”.
+
+Richard Tilbrook
+
+Clerk of the Privy Council
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order revokes and replaces (with some technical amendments) the Consular Marriages and Marriages under Foreign Law Order 2014 ([S.I. 2014/1110](https://www.legislation.gov.uk/uksi/2014/1110) “the original order”).
+
+This Order is made under Schedule 6 of the Marriage (Same Sex Couples) Act 2013 which empowers Her Majesty, by Order in Council, to make provision for two people to marry in countries or territories outside the United Kingdom in the presence of a registration officer (consular official). Schedule 6 also empowers Her Majesty, by Order in Council, to make provision for the issuing of certificates of no impediment where a marriage is to take place under foreign law.
+
+Part 2 of this Order sets out the process for consular marriages, which are those conducted by registration officers. Article 2 provides that consular marriages may only take place in those territories or countries which have notified the Secretary of State that they do not object to such marriages. This enables countries or territories to specify that they do not permit certain types of marriage, for example those marriages involving one of their own nationals, or marriages of couples of the same sex.
+
+Article 4 sets out a residency requirement of seven days before the notice of intention to marry can be made. Article 4 also sets out the details which must be included in a notice of intention to marry. This includes the part of the United Kingdom, which must be either England and Wales or Scotland, which the parties have jointly elected as the relevant part of the United Kingdom. The relevant part of the United Kingdom determines the law under which the parties will be married and the conditions governing that marriage. Consular marriages under this Order may only be solemnized according to the law of England and Wales or the law of Scotland. Consular marriages solemnized according to the law of Northern Ireland will continue to be conducted under the Foreign Marriage Act 1892 and the Foreign Marriage Order 1970. Article 4 stipulates that the notice must be displayed for 14 days in a conspicuous place. This enables objections to be entered.
+
+Article 5 makes provision for consent to be provided or withheld according to the law of the relevant part of the United Kingdom. Article 6 makes provision for entering an objection to the proposed marriage. Article 7 provides that once a marriage notice has been issued, the marriage must take place within 3 months otherwise the marriage will not be valid.
+
+Article 8 sets out the oath that must be made by each party to the marriage before the marriage is solemnized and article 9 makes provision about the solemnization of the marriage itself.
+
+Article 10 makes provision about keeping a register of marriage and sending copies of this register to the Registrar General for England and Wales (who will forward on any entries of marriages solemnized under the law of Scotland to the Registrar General for Scotland). It also ensures that fees can be charged in relation to certified copies issued by Registrar Generals.
+
+Article 11 provides that once a consular marriage has been solemnized, this is to be accepted as conclusive proof that the requirements were complied with in relation to the marriage. Article 12 gives the Secretary of State the discretion to waive certain requirements if there is good reason to do so. Article 13 makes provision for an appeal against a registration officer’s decision to refuse to marry two people on the basis that to do so would be inconsistent with international law or the comity of nations.
+
+Part 3 of the Order makes provision about certificates of no impediment where these are required under foreign law to be produced before a British National may marry under that law. Articles 14 and 15 contain provisions for Superintendent Registrars (in England and Wales – Scotland and Northern Ireland have separate legislative provision) to issue certificates of no impediment for overseas marriages. Article 14 contains the details of information required in an application and article 15 provides for fees to be paid and the application notice to be displayed in a conspicuous place. Articles 16 and 17 contain provisions enabling consular certificates of no impediment to be issued; article 16 sets out a residency requirement of three days before a British National may make an application for a certificate of no impediment. Article 16 also sets out the details required in the application notice. Article 17 provides that the application notice must be displayed for seven days in a conspicuous place. This enables objections to be made. The registration officer cannot issue a certificate if there is any reason to believe that the certificate should not be issued.
+
+Part 4 of the Order contains revocations and makes consequential amendments.
+
+## Annotations
+
+[^f00001]: Footnote: [2013 c. 30](https://www.legislation.gov.uk/ukpga/2013/30).
+
+[^key-c0ec6f306440666a7d01d7584873d1ee]: Commencement: Art. 1 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^key-776eb2f7c96aae7385047ac79f820daa]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/3) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/12/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-71934e3b388fe4dc1f4a146506ac2be9]: Commencement: Art. 2 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^key-93a073d4b03a41e00b63875d48c7cd9a]: Commencement: Art. 3 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^key-7e51a10bd5739c6dc40b8894ecab06e7]: Commencement: Art. 4 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^key-0e8a3bf72f9f13f2f4ca41897b6e1ce8]: Textual amendment: Word in [art. 4(4)(a)](https://www.legislation.gov.uk/uksi/2014/3265/article/4/4/a) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [12(4)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/12/4/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-5ea677b01bc3b230928fbe9b703a9766]: Textual amendment: Words in [art. 4(4)(a)](https://www.legislation.gov.uk/uksi/2014/3265/article/4/4/a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [12(4)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/12/4/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-309a569d10ebbc0bf24b91010af5f420]: Commencement: Art. 5 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^key-2a1e87b57280ca6e474536ae9d5c02b9]: Textual amendment: [Art. 5(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/5/1) omitted (27.2.2023) by virtue of [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/7/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-52cbdb357fe191faff57ff252a28f2d9]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/uksi/2014/3265/article/5/2) omitted (27.2.2023) by virtue of [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/7/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-5f9b59bf4d73e9040553aed540a89d95]: Textual amendment: [Art. 5(2A)](https://www.legislation.gov.uk/uksi/2014/3265/article/5/2A)[(2B)](https://www.legislation.gov.uk/uksi/2014/3265/article/5/2B) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [12(5)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/12/5) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-d2f52f76dc77d815f808b7b52d9ee213]: Commencement: Art. 6 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^key-72ad755be2bbb75e08550a1448245516]: Commencement: Art. 7 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^key-284395268543fb7f9db0b9920eb238c9]: Commencement: Art. 8 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^f00003]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76). Section 1 has been amended by section 1(6) of, and paragraph 2 of Schedule 1 to, the Marriage (Prohibited Degrees of Relationship) Act [1986 (c. 16)](https://www.legislation.gov.uk/ukpga/1986/16), section 11 of and paragraphs 1 and 2 of Schedule 4 to, the Gender Recognition Act [2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), section 261(1) of, and paragraph 13 of Schedule 27 to, the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) and [S.I. 2007/438](https://www.legislation.gov.uk/uksi/2007/438).
+
+[^f00004]: Footnote: [1977 c.15](https://www.legislation.gov.uk/ukpga/1977/15). Section 2 has been amended by section 10 of, and paragraph 17 of Schedule 1 and Schedule 2 to, the Law Reform (Parent and Child) (Scotland) Act [1986 (c. 9)](https://www.legislation.gov.uk/ukpga/1986/9) and section 2 of, and paragraph 2 of Schedule 2, to the Marriage (Prohibited Degrees of Relationship) Act [1986 (c. 16)](https://www.legislation.gov.uk/ukpga/1986/16).
+
+[^key-90536b8577afbbef0f1d6ab620c12715]: Textual amendment: [Art. 8(a)(iii)](https://www.legislation.gov.uk/uksi/2014/3265/article/8/a/iii) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [12(6)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/12/6/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-d6a0722c3a8d0b57fa40cc515a9f8512]: Textual amendment: [Art. 8(c)](https://www.legislation.gov.uk/uksi/2014/3265/article/8/c) omitted (27.2.2023) by virtue of [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2023/82/regulation/7/3); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^key-369a8533164544032cafc03656fe8157]: Textual amendment: [Art. 8(d)](https://www.legislation.gov.uk/uksi/2014/3265/article/8/d) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [12(6)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/12/6/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-a0f2f11541d402ecc91d2ea76c1f6482]: Commencement: Art. 9 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^key-e6b7bdf12d6001e05e1a2eadb80f2caf]: Commencement: Art. 10 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^key-c65cfbf32f3bd3b0c8cdb843b26d5a18]: Textual amendment: Words in [art. 10(4)](https://www.legislation.gov.uk/uksi/2014/3265/article/10/4) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [12(7)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/12/7/a/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-1c52e0ed3b82e0bc9ecbaae1fb3beb90]: Textual amendment: Words in [art. 10(4)](https://www.legislation.gov.uk/uksi/2014/3265/article/10/4) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [12(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/12/7/a/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-cb8ffe444c5ab23b826e4bd136502a78]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/uksi/2014/3265/article/10/5) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [12(7)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/12/7/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-a66244c99843c10fea9f81e1b31afaba]: Textual amendment: Words in [art. 10(6)](https://www.legislation.gov.uk/uksi/2014/3265/article/10/6) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [12(7)(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/12/7/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+
+[^key-7ba1664fe0991cf5140e7b4fa4ebc853]: Commencement: Art. 11 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^key-64de2b62dabb9eb3ea0a6ab56b7d1fd2]: Commencement: Art. 12 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^key-f024d0a051d46f81ba8091921ae4eede]: Commencement: Art. 13 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^key-ce6c6a227ea480847f18efe3fea59f17]: Commencement: Art. 14 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^f00005]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^key-8936778388538c69e6258b8fae09bbbd]: Textual amendment: [Art. 14(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/3265/article/14/3/b/ii) omitted (27.2.2023) by virtue of [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2023/82/regulation/7/4); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^f00006]: Footnote: Section 1 has been amended by section 1(6) of, and paragraph 2 of Schedule 1 to, the Marriage (Prohibited Degrees of Relationship) Act[1986 (c. 16)](https://www.legislation.gov.uk/ukpga/1986/16), section 11 of, and paragraphs 1 and 2 of Schedule 4 to, the Gender Recognition Act [2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), section 261(1) of, and paragraph 13 of Schedule 27 to, the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) and [S.I. 2007/438](https://www.legislation.gov.uk/uksi/2007/438).
+
+[^key-2e7df73e63efe2436b06e3e2ab178c5d]: Commencement: Art. 15 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^key-c4769e3bfc67ed78816d1f4c655338a8]: Textual amendment: Words in [art. 15(3)](https://www.legislation.gov.uk/uksi/2014/3265/article/15/3) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 67(3)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/67/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+
+[^key-b83947401fb5e4a4363ae56a328d7ecc]: Commencement: Art. 16 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^key-db85631f0c87f5918eef0873f8a3c536]: Textual amendment: Words in [art. 16(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/3265/article/16/2/b/ii) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2023/82/regulation/7/5); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+
+[^f00007]: Footnote: [S.I. 1984/1984 (N.I. 14)](https://www.legislation.gov.uk/nisi/1984/1984). Article 18 was amended by the Law Reform (Miscellaneous Provisions) (Northern Ireland) Order 2006 ([S.I. 2006/1945) (N.I. 14)](https://www.legislation.gov.uk/nisi/2006/1945).
+
+[^key-e3e8ccf1f424b39b3f9af55bfc81cb62]: Commencement: Art. 17 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^key-b7bc61e283ca338d80d096cd3a0660d7]: Commencement: Art. 18 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^f00008]: Footnote: [S.I. 2014/1110](https://www.legislation.gov.uk/uksi/2014/1110).
+
+[^key-9490dcda3e4ff75db520d3aad73e1764]: Commencement: Art. 19 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^f00009]: Footnote: [S.I. 2012/798](https://www.legislation.gov.uk/uksi/2012/798) as amended by [S.I. 2012/1752](https://www.legislation.gov.uk/uksi/2012/1752), [2013/535](https://www.legislation.gov.uk/uksi/2013/535) and [2013/1720](https://www.legislation.gov.uk/uksi/2013/1720).
+
+[^key-2969d772f2aa924779d9dff1d3afc0ad]: Commencement: Art. 20 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)
+
+[^key-45710e064a99191f283ab501114cd373]: Commencement: Art. 21 in force at 11.12.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3265/article/1/1)

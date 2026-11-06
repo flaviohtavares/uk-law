@@ -1,0 +1,63 @@
+---
+title: Road Traffic Act 1988, section 144C
+act: Road Traffic Act 1988
+section: 144C
+status: revised-with-pending-changes
+text_date: '2026-10-05'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1988/52/section/144C
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Road Traffic Act 1988, section 144C
+
+> **Warning: changes not yet applied to this text (261).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/52
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 144C. Fixed penalty notices[^key-8a89cbf10f3ce66142cd3e28f52a66ad]
+
+*Extent: E+W+S*
+
+(1) Where on any occasion the Secretary of State has reason to believe that a person has committed an offence under section 144A of this Act, the Secretary of State may give the person a notice offering him the opportunity of discharging any liability to conviction for that offence by payment of a fixed penalty to the Secretary of State.
+
+(2) Where a person is given a notice under this section in respect of an offence under section 144A of this Act—
+
+- (a) no proceedings may be instituted for that offence before the end of the period of 21 days following the date of the notice, and
+- (b) he may not be convicted of that offence if he pays the fixed penalty before the end of that period.
+
+(3) A notice under this section must give such particulars of the circumstances alleged to constitute the offence as are necessary for giving reasonable information of the offence.
+
+(4) A notice under this section must also state—
+
+- (a) the period during which, by virtue of subsection (2) above, proceedings will not be taken for the offence,
+- (b) the amount of the fixed penalty, and
+- (c) the person to whom and the address at which the fixed penalty may be paid.
+
+(5) Without prejudice to payment by any other method, payment of the fixed penalty may be made by pre-paying and posting a letter containing the amount of the penalty (in cash or otherwise) to the person mentioned in subsection (4)(c) above at the address so mentioned.
+
+(6) Where a letter is sent in accordance with subsection (5) above payment is to be regarded as having been made at the time at which that letter would be delivered in the ordinary course of post.
+
+(7) Regulations may make provision as to any matter incidental to the operation of this section, and in particular—
+
+- (a) as to the form of a notice under this section,
+- (b) as to the information to be provided in such a notice by virtue of this section, and
+- (c) as to any further information to be provided in a such notice.
+
+(8) The fixed penalty payable under this section is, subject to subsection (9) below, £100.
+
+(9) Regulations may substitute a different amount for the amount for the time being specified in subsection (8) above.
+
+(10) Regulations may make provision for treating a fixed penalty payable under this section as having been paid if a lesser amount is paid before the end of a prescribed period.
+
+(11) In any proceedings a certificate which—
+
+- (a) purports to be signed by or on behalf of the Secretary of State, and
+- (b) states that payment of a fixed penalty was or was not received by a date specified in the certificate,
+
+is evidence of the facts stated.
+
+## Annotations
+
+[^key-8a89cbf10f3ce66142cd3e28f52a66ad]: Textual amendment: Ss. 144A-144D inserted (4.2.2011) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/1), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10) (with [s. 61(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/3)); [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/19/article/2/a)

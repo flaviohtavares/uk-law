@@ -1,0 +1,44 @@
+---
+title: Taxation (International and Other Provisions) Act 2010, section 205
+act: Taxation (International and Other Provisions) Act 2010
+section: '205'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/8/section/205
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation (International and Other Provisions) Act 2010, section 205
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/8
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 205. Provision made or imposed between ring-fence trade and other activities
+
+*Extent: E+W+S+N.I.*
+
+(1) Subsections (2) to (4) apply if—
+
+- (a) a person carries on an oil-related ring-fence trade (see section 206), and
+- (b) any provision is made or imposed by the person as between—
+  - (i) the oil-related ring-fence trade, and
+  - (ii) any other activities carried on by the person.
+
+(2) Chapters 1 and 3 to 6 (read in accordance with Chapters 2 and 8) apply in relation to the provision as if—
+
+- (a) the oil-related ring-fence trade, and the person's other activities, were carried on by two different persons,
+- (b) the provision were made or imposed as between those two persons by means of a transaction,
+- (c) those two persons were both controlled by the same person at the time when the provision was made or imposed, and
+- (d) a potential advantage in relation to United Kingdom taxation were conferred by the provision on each of those two persons.
+
+(3) Subsection (2) has effect subject to subsection (4).
+
+(4) Chapters 1 and 3 to 6 apply in relation to the provision only if the effect of their applying is—
+
+- (a) that a larger amount is taken for tax purposes to be the amount of the profits of the oil-related ring-fence trade for any chargeable period, or
+- (b) that a smaller amount (including nil) is taken for tax purposes to be the amount for any chargeable period of any losses of the oil-related ring-fence trade.
+
+(5) In subsection (4)(a), the reference to a larger amount includes, if there would not otherwise have been profits, an amount of more than nil.

@@ -1,0 +1,48 @@
+---
+title: Online Safety Act 2023, section 60
+act: Online Safety Act 2023
+section: '60'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/50/section/60
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Online Safety Act 2023, section 60
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 60. “Content that is harmful to children”[^key-d44f55ad2e9fa9bf3b908b10afa8e576]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section and sections 61 and 62 apply for the purposes of this Part.
+
+(2) “**Content that is harmful to children**” means—
+
+- (a) primary priority content that is harmful to children (see section 61),
+- (b) priority content that is harmful to children (see section 62), or
+- (c) content, not within paragraph (a) or (b), of a kind which presents a material risk of significant harm to an appreciable number of children in the United Kingdom.
+
+(3) Content is not to be regarded as within subsection (2)(c) if the risk of harm flows from—
+
+- (a) the content’s potential financial impact,
+- (b) the safety or quality of goods featured in the content, or
+- (c) the way in which a service featured in the content may be performed (for example, in the case of the performance of a service by a person not qualified to perform it).
+
+(4) “**Non-designated content that is harmful to children**” means content within subsection (2)(c).
+
+(5) Subsection (6) applies in relation to a regulated user-to-user service (but, in the case of a combined service, does not apply in relation to the search content of the service).
+
+(6) References to “primary priority content that is harmful to children”, “priority content that is harmful to children”, “content that is harmful to children” and “non-designated content that is harmful to children” are to be read as—
+
+- (a) limited to content within the definition in question that is regulated user-generated content in relation to the service, and
+- (b) including material which, if it were present on the service, would be content within paragraph (a) (and this section and sections 61 and 62 are to be read with such modifications as may be necessary for the purpose of this paragraph).
+
+## Annotations
+
+[^key-d44f55ad2e9fa9bf3b908b10afa8e576]: Commencement: S. 60 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)

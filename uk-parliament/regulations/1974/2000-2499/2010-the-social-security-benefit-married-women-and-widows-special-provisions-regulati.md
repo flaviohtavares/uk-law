@@ -1,0 +1,304 @@
+---
+title: The Social Security (Benefit) (Married Women and Widows Special Provisions) Regulations 1974
+id: uksi/1974/2010
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1974-12-03'
+text_date: '2014-01-01'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1974/2010
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1974/2010/pdfs/uksi_19742010_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1974/2010/pdfs/uksi_19742010_en.pdf
+- http://www.legislation.gov.uk/uksi/1974/2010/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Social Security (Benefit) (Married Women and Widows Special Provisions) Regulations 1974
+
+> Text as at 2014-01-01.
+
+1974 No. 2010
+
+SOCIAL SECURITY
+
+The Social Security (Benefit) (Married Women and Widows Special Provisions) Regulations 1974
+
+Laid before Parliament in draft
+
+Made
+
+3rd December 1974
+
+Coming into Operation
+
+6th April 1975
+
+Whereas a draft of the following regulations was laid before Parliament and approved by a resolution of each House of Parliament:
+
+Now, therefore, the Secretary of State for Social Services, in exercise of the powers conferred upon her by sections 9(7), 37 and 42 of and paragraph 14 of Schedule 22 and paragraphs 2 and 4 of Schedule 26 to the Social Security Act 1973 and all other powers enabling her in that behalf, hereby makes the following regulations:—[^key-8b03a333a341c3b04b7d5a2afcee35dc]
+
+## 1. Citation, commencement and interpretation
+
+(1) These regulations may be cited as the Social Security (Benefit) (Married Women and Widows Special Provisions) Regulations 1974, and shall come into operation on 6th April 1975.
+
+(2) In these regulations, unless the context otherwise requires—
+
+- “**the Act**” means the Social Security Act 1973;
+- “**the Industrial Injuries Act**” means the National Insurance (Industrial Injuries) Act 1965;
+- “[^key-cc474be6e9c2454ad5c23dfcfb1735f7]**the Welfare Reform Act**” means the Welfare Reform Act 2007;
+- “**appropriate weekly rate**” means , in relation to any benefit, the weekly rate of personal benefit by way of benefit of that description which is appropriate in the case of the person in relation to whom the provision containing that expression is to be applied;
+- [^key-c1ac86e95f89b5d6258f9e8ffff35277]...
+- “[^key-dc19861a27a0d3dd94c487dcdf98593c]**the determining authority**” means, as the case may be, the Chief Adjudication Officer appointed under section 97(1B) of the Social Security Act 1975, any other adjudication officer appointed under section 97(1) of that Act, a social security appeal tribunal constituted under section 97(2) to (2E) of that Act, the Chief or any other Social Security Commissioner appointed under section 97(3) of that Act or a tribunal of 3 such Commissioners constituted under section 116 of that Act.
+- “employment and support allowance” means an allowance under Part 1 of the Welfare Reform Act 2007 as amended by the provisions of Schedule 3, and Part 1 of Schedule 14, to the Welfare Reform Act 2012 that remove references to an income-related allowance, and a contributory allowance under Part 1 of the Welfare Reform Act 2007 as that Part has effect apart from those provisions;[^key-1a9f0a8ca316c436d9c224e699443a36]
+- “**marriage**” includes any remarriage, and the word “**married**”, wherever it occurs , shall be construed accordingly;
+- “**personal benefit**” means that benefit, pension or allowance (whether under the Act or otherwise) which, apart from the provisions of regulations made under paragraph 3 of Schedule 10 to the Act (overlapping benefits), is payable to a person otherwise than in respect of another person who is a child or an adult dependant;
+- “**Personal Injuries Scheme**” means any scheme made under the Personal Injuries (Emergency Provisions) Act 1939 or under the Pensions (Navy, Army, Air Force and Mercantile Marine) Act 1939;
+- “**reckonable year**”, for the purposes of the contribution conditions for any benefit, means an income tax year in which the contributor concerned has paid or been credited with contributions of a relevant class and in which the earnings factor derived from those contributions amounts to not less than that year's lower earnings limit multiplied by 50;
+- “**Service Pensions Instrument**” means those provisions and only those provisions of any Royal Warrant, Order in Council or other instrument (not being a 1914-1918 War Injuries Scheme) under which a death or a disablement pension (not including a pension calculated by reference to length of service) and allowances for dependants payable with either such pension may be paid out of public funds in respect of any death or disablement, wound, injury or disease due to service in the naval, military or air forces of the Crown or in any nursing service or other auxiliary service of any of the said forces or in the Home Guard or in any other organisation established under the control of the Defence Council or formerly established under the control of the Admiralty, the Army Council or the Air Council;
+- “**1914-1918 War Injuries Scheme**” means any scheme made under the Injuries in War (Compensation) Act 1914 or under the Injuries in War Compensation Act 1914 (Session 2) or any Government scheme for compensation in respect of persons injured in any merchant ship or fishing vessel as the result of hostilities during the 1914-1918 War;
+- “**year**” means an income tax year;
+
+and other expressions have the same meanings as in the Act.
+
+(3) References in these regulations to any enactment or regulations shall, except in so far as the context otherwise requires, be construed as references to such enactment or regulations as amended or extended by or under any other enactment, order or regulations and as including references to any enactment or regulations thereby consolidated.
+
+(4) The rules for the construction of Acts of Parliament contained in the Interpretation Act 1889 shall apply for the purposes of the interpretation of these regulations as they apply for the purposes of the interpretation of an Act of Parliament.
+
+## 2. Special credits where a woman's marriage has been terminated[^key-9b9ceb14ef14227bba5f9c36fb5bd9d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Modifications, in relation to widows, of provisions with respect to unemployment and short-term incapacity benefit , ... employment and support allowance , maternity allowance and Category A retirement pension[^key-f5d66292bb822298f05ff0e9408f33bb][^key-9f31c43aca64aacf6e20f045042cca41][^key-29bbd7f93524eed6b2b1661c41354f87]
+
+(1) Subject to the following provisions of this regulation, where, otherwise than by reason of remarriage, the formation of a civil partnership[^key-5a53226bf85717dd0be7ec8f203be5ad] or cohabitation with a man as his wife, a woman ceases to be entitled either to a widow's allowance or to a widowed mother's allowance—
+
+- (a) she shall be deemed to have satisfied the first contribution condition for [^key-8b8734c27e682951d3d3e1378a97e4a2]... short-term incapacity benefit[^key-ca9fed9f4823a0a103e31e98ed1c5943] or[^key-21e99577feef0ccdf39a912c23b7ea72], maternity allowance [^key-a18645fd0cb6480cb68ef79c85801c50]... referred to in paragraph 1 or, 3[^key-a18645fd0cb6480cb68ef79c85801c50]..., as the case may be, of Schedule 3 to the Act or, in relation to[^key-592f156d645fbbc952def3e0786229a5] [^key-ffe859b02bae62ea42c9193fd9455462]... employment and support allowance, she shall be deemed to have satisfied the first condition referred to in paragraph 1(1) of Schedule 1 to the Welfare Reform Act;
+- (b) for the purposes only of enabling her to satisfy the second contribution condition for [^key-8b8734c27e682951d3d3e1378a97e4a2]... short-term incapacity benefit or maternity allowance referred to in paragraph 1 or 3, as the case may be, of Schedule 3 to the Act or, in relation to[^key-294611b222ce2f58d988b0fedca80a09] [^key-ffe859b02bae62ea42c9193fd9455462]... employment and support allowance, she shall be deemed to have satisfied the second condition referred to in paragraph 2(1) of Schedule 1 to the Welfare Reform Act , there shall be credited to her such Class 1 contributions (if any) for every year up to and including that in which she ceased to be entitled as aforesaid as are required to enable her to satisfy that condition; and
+- (c)[^key-388767302f44a2c046d1dc8433744930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-c135c119524346750f0c27a10bb609f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where a woman ceases to be entitled to a widowed mother's allowance as is mentioned in paragraph (1) of this regulation at a time when she is entitled to personal benefit by way of a widow's pension under the Industrial Injuries Act or any Personal Injuries Scheme or any Service Pensions Instrument or any 1914-1918 War Injuries Scheme at a weekly rate which is equal to or exceeds the weekly rate of widow's pension under the Act which is specified in the second column of Part I of Schedule 4 thereto, and thereafter that personal benefit, while continuing to be payable, falls to be reduced to a weekly rate which is less than the said weekly rate of widow's pension under the Act, paragraph (1) of this regulation shall apply to her both when she so ceases and when that personal benefit so falls to be reduced.
+
+(4)[^M_F_b79a9b86-f181-4679-ac2d-3443b29d4f3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Subject to paragraph (9) of this regulation, where a woman is entitled to personal benefit by way of a widow's pension under the Industrial Injuries Act or any Personal Injuries Scheme or any Service Pensions Instrument or any 1914-1918 War Injuries Scheme—
+
+- (a) if the weekly rate of that personal benefit is equal to or exceeds the appropriate weekly rate of [^key-56370ea27801eeeabdf235411de54755]... short-term incapacity benefit[^key-4dac61b44011c0440f777236f6da3880],[^key-e200eda56ff4c0e9f431820fe235aef2] [^key-fa7e3a4455e34c30ae41567cfe87866a]... employment and support allowance or maternity allowance, the provisions of sub-paragraphs (a) to (c) of paragraph (1) of this regulation shall not operate to entitled her to [^key-56370ea27801eeeabdf235411de54755]... short-term incapacity benefit , [^key-56370ea27801eeeabdf235411de54755]... employment and support allowance or maternity allowance for any period before she has satisfied the following contribution condition, namely that she has, in respect of any one year beginning after her husband's, or as the case may be her last husband's, death, paid Class 1 or Class 2 contributions or both and the earnings factor derived from—[^key-4bd51accffc13cb61e5bcff065572862]
+  - (i) earnings paid in a year upon which primary Class 1 contributions have been paid or treated as paid in respect of that year, or
+  - (ii) earnings with which she has been credited in respect of that year, or
+  - (iii) Class 2 contributions, is not less than that year’s lower earnings limit multiplied by 25; and
+- (b) if the weekly rate of that personal benefit is less than the said appropriate weekly rate, the said provisions shall not operate to entitle her to unemployment benefit or short-term incapacity benefit, [^key-fa7e3a4455e34c30ae41567cfe87866a]... employment and support allowance or maternity allowance, for any period such as is mentioned in the last foregoing sub-paragraph, at a weekly rate which exceeds the difference between the said appropriate weekly rate and the weekly rate of that personal benefit.
+
+(6)[^M_F_af03bbae-0f28-49e5-f998-b26f115fc63c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) For the purpose of determining whether a woman ceases to be entitled as is mentioned in paragraph (1) of this regulation, a woman in whose case the Secretary of State is satisfied that she would be or would have been entitled to widow's benefit for any period but for any one or more of the following factors, namely—
+
+- (a) her failure to make, or delay in making, a claim to the benefit;
+- (b) her disqualification for the receipt of benefit for any other reason than her cohabitation with a man as his wife;
+- (c) the operation of the provisions of regulations made under paragraph 3 of Schedule 10 to the Act (overlapping benefits);
+
+shall be treated as if she is or was, as the case may be, entitled thereto throughout that period.
+
+(8)[^M_F_76156c88-4599-4312-bb2d-90e996d04432] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) A woman who ceases to be entitled as is mentioned in paragraph (1) of this regulation on more than one occasion shall be entitled to the benefit of the provisions of that paragraph, subject as therein mentioned, on each such occasion, and if, on one such occasion, she satisfies the contribution condition referred to in paragraph (5)(a) of this regulation, that paragraph shall not apply to her on any subsequent occasion.
+
+(10) Where, but for this paragraph, the provisions of regulation 2 of these regulations and the provisions of this regulation would be applicable for the purpose of determining a woman's right to unemployment benefit or sickness benefit or maternity allowance for any day, her right thereto shall be determined by reference to the provisions of that one of those 2 regulations which is more favourable to her, to the exclusion of the provisions of the other. *(affected by repeal, see note)*[^key-6631106aeba3265f0929ccbb4f16bac3]
+
+## 3A. Modification of paragraphs 4(1) and 4A(1) of Schedule 1 to the Social Security Pensions Act 1975”[^key-d1c9761595a265c98b65bdd4ed744f4a]
+
+(1) The provisions of paragraphs 4(1) and 4A(1) of Schedule 1 to the Social Security Pensions Act 1975 (increase of pension where a woman’s deceased husband’s entitlement to a Category A or Category B retirement pension was deferred[^key-8325bbe18b100eef6f3222cd37a58ca4] shall, in the case of a woman who attains pensionable age on or after the date on which this regulation comes into operation, be modified in accordance with paragraph (2) of this regulation.
+
+(2) For the purpose of an increase of a woman's Category A or Category B retirement pension, where a woman has had a husband and he has died before she attains pensionable age, and she was married to him when he died, paragraph 4(1)(a) or, as the case may be, paragraph 4A(1)(a) of the said Schedule 1 shall apply to her case as if there were inserted in each of the said paragraphs after the words “she was married to him when he died” the words “and since his death she has not remarried before attaining pensionable age”.
+
+## 3B. Modification of Part I of Schedule 6 to the Social Security Act 1975[^key-deb58ba69c4d025c37dc445fff67e09a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Retirement pensions for women whose marriages have been dissolved[^M_F_8f380671-f057-43f7-d7e9-92388ef08af1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Death grant in respect of the death of a woman whose marriage was dissolved[^key-4fe63ad40b256eb18203dfa9cc2e96ef]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Credits for women who are or have been widows
+
+(1) In respect of the whole of any year such as is described in paragraph (2) of this regulation and which falls before 6th April 1978.[^key-a3e03a18436172d4f2d78489cfc90d29] there shall be credited to a woman such Class 3 contributions (if any) as are necessary to enable her to acquire the requisite earnings factor for the year in question for entitlement to any benefit set out in section 9(4) of the Act for which Class 3 contributions are relevant.
+
+(2) Paragraph (1) of this regulation applies—
+
+- (a) where the woman has been widowed after 6th October 1974 but before 6th April 1975, to the year beginning on 6th April 1975;
+- (b) where the woman has been widowed after 5th April 1975, to the year in which her husband died, and, where he died after 30th September in any year, to the next year;
+- (c) where the woman has been widowed and at the end of the period of one or 2 years specified in sub-paragraph (a) or (b) of this paragraph there is pending a claim or application made by the woman as a widow within 182 days (including Sundays) of her husband's death for any benefit specified in regulation 2(5) of the Social Security (Contributions) (Married Women and Widows Special Provisions) Regulations 1973[^f00001], to any year subsequent to the year or years specified in sub-paragraph (a) or (b) of this paragraph but not later than the year in which that claim or application is determined;
+- (d) to any year during any part of which a widow's benefit (other than a widow's pension payable at a rate reduced under section 21(2) of the Act) or benefit under section 27(4) of the Act corresponding to a widow's pension or a widowed mother's allowance (other than benefit which is reduced in accordance with the provisions of regulation 10(3) of the Social Security (Widow's Benefit and Retirement Pensions) Regulations 1974)[^key-79d90acf1003ee7eb8ea0eb51bb56b7d] is payable to her as a widow;
+- (e) for the purpose of a claim by the woman to a Category A retirement pension, to any year during any part of which a widow's benefit (other than a widow's pension payable at a rate reduced under section 21(2) of the Act) or benefit under section 27(4) of the Act corresponding to a widow's pension or a widowed mother's allowance (other than benefit which is reduced in accordance with the provisions of regulation 10(3) of the Social Security (Widow's Benefit and Retirement Pensions) Regulations 1974) would have been payable to her as a widow but for—
+  - (i) her absence from Great Britain,
+  - (ii) the operation of the provisions of regulations made under paragraph 3 of Schedule 10 to the Act (overlapping benefits), or
+  - (iii) her failure to make, or delay in making, a claim to the benefit; and
+- (f) for the purpose of a claim by the woman to a Category A retirement pension, where she has been a widow and has remarried, to any year during any week in which any of the following benefits, namely—
+  - (i) any personal death benefit under the Industrial Injuries Act; and
+  - (ii) any personal death benefit by way of pension or allowance (not being a grant payable by reason of the beneficiary being in receipt of a pension and being over 65 years of age or a pension or allowance calculated by reference to the necessities of the beneficiary) under any Personal Injuries Scheme or Service Pensions Instrument or any 1914-1918 War Injuries Scheme,
+
+  was payable to her as a widow at a rate which equalled or exceeded the weekly rate of widow's pension under the Act, current in that week, as specified in the second column of Part I of Schedule 4 to the Act.
+
+Provided that sub-paragraphs (a) to (c) above shall not apply to any year throughout the whole of which the woman is absent from Great Britain unless she was an insured person under the former Principal Act or before that year she has paid a contribution under the Act.[^key-c2f5e0e30140a3f31e0e4f0f8de38c7a]
+
+(3) In determining whether a year is a reckonable year for the purpose of a woman's right to a Category A retirement pension, any contribution credited to her by virtue of the provisions of this regulation shall be either taken into or left out of account, whichever course may from time to time be more to her advantage.
+
+(4) Where a woman is in receipt of any personal death benefit by way of pension or allowance payable to her as a widow under the Industrial Injuries Act, any Personal Injuries Scheme, any Service Pensions Instrument or any 1914-1918 War Injuries Scheme, any Category A retirement pension which is payable to her wholly or in part by taking into account contributions credited to her by virtue of the provisions of this regulation shall, for the purposes of regulations made under paragraph 3 of Schedule 10 to the Act (overlapping benefits), be treated as payable, wholly or in part, by virtue of her husband's contributions;
+
+Provided that, in the case of a woman who has been a widow more than once, the provisions of this paragraph shall apply in relation only to contributions credited to her as the widow of her last husband.
+
+## 7. Special provision relating to retirement pensions for widows entitled to widow's benefit[^M_F_457e1580-4d59-4fc8-e7be-c6c430847bb5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Special provision relating to disqualification of married women for unemployment benefit[^key-93ca3b6aa46b7bd946988a6e364267f1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Benefit at reduced rates for persons who do not satisfy the contribution conditions in full[^M_F_ba799168-4c58-4897-e105-ded9b03c1586]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Voidable marriages and presumption of death[^key-6ea5521d01616dabc9ede070d434d4d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Transitional provisions[^M_F_95418ee0-bfef-4c1f-91e5-d04cb253c48f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Modifications of the Act
+
+The provisions of Part I of the Act shall have effect subject to the modifications contained in these regulations.
+
+Barbara Castle
+
+Secretary of State for Social Services
+
+## THE SCHEDULE — METHOD OF TREATING FORMER HUSBAND'S CONTRIBUTIONS AS THOSE OF HIS FORMER WIFE, SO AS TO ENTITLE HER TO CATEGORY A RETIREMENT PENSION
+
+Regulation 4(1)
+
+**1.** There shall be taken into account towards the woman's entitlement any reckonable contribution years of the former husband, that is to say years for which his own earnings factor was sufficient for satisfaction of paragraph (b) of the second contribution condition; and the woman shall be treated as satisfying that paragraph if the number of years arrived at either under paragraph 2 or under paragraph 3 below is equal to or exceeds that which is in her case the requisite number of years for the purposes of the condition.
+
+**2.** The number of years arrived at under this paragraph is that which is obtained by—
+
+- (a) taking the number of years between (inclusive) the year in which the woman attained the age of 16 and (inclusive) the year in which the marriage was terminated and—
+  - (i) multiplying it by the number of the husband's reckonable contribution years falling wholly before the date of that termination, and
+  - (ii) dividing it by the number of years in his working life falling wholly before the date of that termination;
+- (b) if the resultant quotient is not a whole number, rounding it up to the nearest whole number; and
+- (c) adding to the number of years arrived at under sub-paragraphs (a) and (b) above any number of years after that in which the marriage was terminated, being years for which the woman's own earnings factor was sufficient for satisfaction by her of paragraph (b) of the second contribution condition.
+
+**3.** The number of years arrived at under this paragraph is that which is obtained by—
+
+- (a) taking the number of years between (inclusive) the year in which the woman married the husband and (inclusive) the year in which the marriage was terminated; and
+  - (i) multiplying it by the number of the husband's reckonable contribution years falling wholly before the date of that termination, and
+  - (ii) dividing it by the number of years in his working life falling wholly before the date of that termination;
+- (b) if the resultant quotient is not a whole number, rounding it up to the nearest whole number; and
+- (c) adding to the number of years arrived at under paragraphs (a) and (b) above any number of years—
+  - (i) before that in which she became married to the husband, and
+  - (ii) after that in which the marriage was terminated, being years for which her own earnings factor was sufficient for satisfaction by her of paragraph (b) of the second contribution condition.
+
+**4.** In this Schedule, “**the second contribution condition**” means the second condition for a Category A retirement pension specified in paragraph 5 of Schedule 3 to the Act.
+
+EXPLANATORY NOTE
+
+These Regulations modify the Social Security Act 1973 in its application to women who are or have been married. The main provisions relate to crediting contributions, or deeming contribution conditions satisfied, in the case of certain widows and other women whose marriages have been terminated (regulations 2-7), the determining of the basis on which the disqualifications for unemployment benefit contained in section 14(2) of the Act shall be applied to married women ( regulation 8), the provision of certain benefits at reduced rates for certain women who do not satisfy the contribution conditions in full (regulation 9), and the treatment of voidable marriages and presumption of death ( regulation 10).
+
+These Regulations, being made before the day appointed for the coming into force of section 2 of the Social Security Act 1973, by virtue of section 48(2) of and paragraph 16 of Schedule 12 to that Act are not required to be referred to the National Insurance Advisory Committee and no such reference has been made.
+
+## Annotations
+
+[^key-8b03a333a341c3b04b7d5a2afcee35dc]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1974/2010) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii)[(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+
+[^key-cc474be6e9c2454ad5c23dfcfb1735f7]: Textual amendment: Words in reg. 1(2) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [64(2)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/64/2/a)
+
+[^key-c1ac86e95f89b5d6258f9e8ffff35277]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1974/2010/regulation/1/2) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2013/630/regulation/20/2/a)
+
+[^key-dc19861a27a0d3dd94c487dcdf98593c]: Textual amendment: Words in reg. 1(2) substituted (23.4.1984) by [The Social Security Adjudication (Consequential Amendments) Regulations 1984 (S.I. 1984/458)](https://www.legislation.gov.uk/uksi/1984/458), [regs. 1](https://www.legislation.gov.uk/uksi/1984/458/regulation/1), [2](https://www.legislation.gov.uk/uksi/1984/458/regulation/2)
+
+[^key-1a9f0a8ca316c436d9c224e699443a36]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1974/2010/regulation/1/2) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/20/2/b)
+
+[^key-9b9ceb14ef14227bba5f9c36fb5bd9d0]: Textual amendment: Reg. 2 omitted (28.5.1989) by virtue of [The Social Security Miscellaneous Provisions Regulations 1989 (S.I. 1989/893)](https://www.legislation.gov.uk/uksi/1989/893), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/893/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1989/893/regulation/2/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/1989/893/regulation/6))
+
+[^key-f5d66292bb822298f05ff0e9408f33bb]: Textual amendment: Words in reg. 3 heading substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/1995/829/regulation/2/a) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-9f31c43aca64aacf6e20f045042cca41]: Textual amendment: Words in reg. 3 heading inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [64(3)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/64/3/a)
+
+[^key-29bbd7f93524eed6b2b1661c41354f87]: Textual amendment: Word in reg. 3 title omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/20/3)
+
+[^key-5a53226bf85717dd0be7ec8f203be5ad]: Textual amendment: Words in reg. 3(1) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+
+[^key-8b8734c27e682951d3d3e1378a97e4a2]: Textual amendment: Words in reg. 3(1)(a)(b) omitted (7.10.1996) by virtue of [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/13/2/a)
+
+[^key-ca9fed9f4823a0a103e31e98ed1c5943]: Textual amendment: Words in reg. 3(1)(a)(b) substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/1995/829/regulation/2/a) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-21e99577feef0ccdf39a912c23b7ea72]: Textual amendment: Word in reg. 3(1)(a) inserted (6.4.1979) by [The Social Security Pensions (Home Responsibilities and Miscellaneous Amendments) Regulations 1978 (S.I. 1978/508)](https://www.legislation.gov.uk/uksi/1978/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1978/508/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/1978/508/regulation/3/1)
+
+[^key-a18645fd0cb6480cb68ef79c85801c50]: Textual amendment: Words in reg. 3(1)(a) omitted (6.4.1979) by virtue of [The Social Security Pensions (Home Responsibilities and Miscellaneous Amendments) Regulations 1978 (S.I. 1978/508)](https://www.legislation.gov.uk/uksi/1978/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1978/508/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/1978/508/regulation/3/1)
+
+[^key-592f156d645fbbc952def3e0786229a5]: Textual amendment: Words in reg. 3(1)(a) added (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [64(3)(b)(i)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/64/3/b/i)
+
+[^key-ffe859b02bae62ea42c9193fd9455462]: Textual amendment: Word in reg. 3(1)(a)(b) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/20/3)
+
+[^key-294611b222ce2f58d988b0fedca80a09]: Textual amendment: Words in reg. 3(1)(b) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [64(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/64/3/b/ii)
+
+[^key-388767302f44a2c046d1dc8433744930]: Textual amendment: Reg. 3(1)(c) omitted (7.10.1996) by virtue of [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/13/2/b)
+
+[^key-c135c119524346750f0c27a10bb609f4]: Textual amendment: Reg. 3(2) revoked (6.4.1979) by [The Social Security Pensions (Home Responsibilities and Miscellaneous Amendments) Regulations 1978 (S.I. 1978/508)](https://www.legislation.gov.uk/uksi/1978/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1978/508/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/1978/508/regulation/3/2)
+
+[^M_F_b79a9b86-f181-4679-ac2d-3443b29d4f3b]: Textual amendment: Reg. 3(4) revoked (6.4.1979) by [The Social Security Pensions (Home Responsibilities and Miscellaneous Amendments) Regulations 1978 (S.I. 1978/508)](https://www.legislation.gov.uk/uksi/1978/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1978/508/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/1978/508/regulation/3/2)
+
+[^key-56370ea27801eeeabdf235411de54755]: Textual amendment: Words in reg. 3(5) omitted (7.10.1996) by virtue of [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/13/3)
+
+[^key-4dac61b44011c0440f777236f6da3880]: Textual amendment: Words in reg. 3(5)(a)(b) substituted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/1995/829/regulation/2/b) (with [Pt. III](https://www.legislation.gov.uk/uksi/1995/829/part/III))
+
+[^key-e200eda56ff4c0e9f431820fe235aef2]: Textual amendment: Words in reg. 3(5) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [64(3)(c)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/64/3/c)
+
+[^key-fa7e3a4455e34c30ae41567cfe87866a]: Textual amendment: Word in reg. 3(5)(a)(b) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/20/3)
+
+[^key-4bd51accffc13cb61e5bcff065572862]: Textual amendment: Words in reg. 3(5)(a) substituted (28.5.1989) by [The Social Security Miscellaneous Provisions Regulations 1989 (S.I. 1989/893)](https://www.legislation.gov.uk/uksi/1989/893), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/893/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/1989/893/regulation/2/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/1989/893/regulation/5))
+
+[^M_F_af03bbae-0f28-49e5-f998-b26f115fc63c]: Textual amendment: Reg. 3(6) revoked (6.4.1979) by [The Social Security Pensions (Home Responsibilities and Miscellaneous Amendments) Regulations 1978 (S.I. 1978/508)](https://www.legislation.gov.uk/uksi/1978/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1978/508/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/1978/508/regulation/3/2)
+
+[^M_F_76156c88-4599-4312-bb2d-90e996d04432]: Textual amendment: Reg. 3(8) revoked (6.4.1979) by [The Social Security Pensions (Home Responsibilities and Miscellaneous Amendments) Regulations 1978 (S.I. 1978/508)](https://www.legislation.gov.uk/uksi/1978/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1978/508/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/1978/508/regulation/3/2)
+
+[^key-6631106aeba3265f0929ccbb4f16bac3]: Textual amendment: Reg. 3(10) omitted (28.5.1989) by virtue of [The Social Security Miscellaneous Provisions Regulations 1989 (S.I. 1989/893)](https://www.legislation.gov.uk/uksi/1989/893), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/893/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/1989/893/regulation/2/3/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/1989/893/regulation/6))
+
+[^key-d1c9761595a265c98b65bdd4ed744f4a]: Textual amendment: Reg. 3A - Reg. 3B inserted (11.8.1980) by [The Social Security (Benefit) (Married Women and Widows Special Provisions) Amendment Regulations 1980 (S.I. 1980/1168)](https://www.legislation.gov.uk/uksi/1980/1168), [regs. 1](https://www.legislation.gov.uk/uksi/1980/1168/regulation/1), [2](https://www.legislation.gov.uk/uksi/1980/1168/regulation/2)
+
+[^key-8325bbe18b100eef6f3222cd37a58ca4]: Textual amendment: Words in [reg. 3A(1)](https://www.legislation.gov.uk/uksi/1974/2010/regulation/3A/1) substituted (1.10.1989) by [The Social Security (Abolition of Earnings Rule) (Consequential) Regulations 1989 (S.I. 1989/1642)](https://www.legislation.gov.uk/uksi/1989/1642), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1642/regulation/1), [6](https://www.legislation.gov.uk/uksi/1989/1642/regulation/6)
+
+[^key-deb58ba69c4d025c37dc445fff67e09a]: Textual amendment: Reg. 3B omitted (28.5.1989) by virtue of [The Social Security Miscellaneous Provisions Regulations 1989 (S.I. 1989/893)](https://www.legislation.gov.uk/uksi/1989/893), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/893/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/1989/893/regulation/2/4)
+
+[^M_F_8f380671-f057-43f7-d7e9-92388ef08af1]: Textual amendment: Reg. 3(4) revoked (6.4.1979) by [The Social Security Pensions (Home Responsibilities and Miscellaneous Amendments) Regulations 1978 (S.I. 1978/508)](https://www.legislation.gov.uk/uksi/1978/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1978/508/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/1978/508/regulation/3/2)
+
+[^key-4fe63ad40b256eb18203dfa9cc2e96ef]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1974/2010/regulation/5) omitted (28.5.1989) by virtue of [The Social Security Miscellaneous Provisions Regulations 1989 (S.I. 1989/893)](https://www.legislation.gov.uk/uksi/1989/893), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/893/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/1989/893/regulation/2/4)
+
+[^key-a3e03a18436172d4f2d78489cfc90d29]: Textual amendment: Words in reg. 6(1) inserted (30.9.1977) by [The Social Security (Benefit) (Married Women and Widows Special Provisions) Amendment Regulations 1977 (S.I. 1977/1484)](https://www.legislation.gov.uk/uksi/1977/1484), [regs. 1](https://www.legislation.gov.uk/uksi/1977/1484/regulation/1), [2](https://www.legislation.gov.uk/uksi/1977/1484/regulation/2)
+
+[^f00001]: Footnote: (1973 II, p. 4245).
+
+[^key-79d90acf1003ee7eb8ea0eb51bb56b7d]: Textual amendment: Words in reg. 6(2)(d)-(e) inserted (6.4.1975) by [The Social Security Benefit (Married Women and Widows) (Amendments and Transitional Provisions) Regulations 1975 (S.I. 1975/562)](https://www.legislation.gov.uk/uksi/1975/562), [regs. 1](https://www.legislation.gov.uk/uksi/1975/562/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/1975/562/regulation/6/2)
+
+[^key-c2f5e0e30140a3f31e0e4f0f8de38c7a]: Textual amendment: Reg. 6(2) proviso (6.4.1975) by [The Social Security Benefit (Married Women and Widows) (Amendments and Transitional Provisions) Regulations 1975 (S.I. 1975/562)](https://www.legislation.gov.uk/uksi/1975/562), [regs. 1](https://www.legislation.gov.uk/uksi/1975/562/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/1975/562/regulation/6/3)
+
+[^M_F_457e1580-4d59-4fc8-e7be-c6c430847bb5]: Textual amendment: Reg. 3(7) revoked (6.4.1979) by [The Social Security Pensions (Home Responsibilities and Miscellaneous Amendments) Regulations 1978 (S.I. 1978/508)](https://www.legislation.gov.uk/uksi/1978/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1978/508/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/1978/508/regulation/3/2)
+
+[^key-93ca3b6aa46b7bd946988a6e364267f1]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1974/2010/regulation/8) omitted (28.5.1989) by virtue of [The Social Security Miscellaneous Provisions Regulations 1989 (S.I. 1989/893)](https://www.legislation.gov.uk/uksi/1989/893), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/893/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/1989/893/regulation/2/4)
+
+[^M_F_ba799168-4c58-4897-e105-ded9b03c1586]: Textual amendment: Reg. 9 revoked (6.4.1979) by [The Social Security Pensions (Home Responsibilities and Miscellaneous Amendments) Regulations 1978 (S.I. 1978/508)](https://www.legislation.gov.uk/uksi/1978/508), regs. 1(1), 3(2)
+
+[^key-6ea5521d01616dabc9ede070d434d4d0]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1974/2010/regulation/10) omitted (28.5.1989) by virtue of [The Social Security Miscellaneous Provisions Regulations 1989 (S.I. 1989/893)](https://www.legislation.gov.uk/uksi/1989/893), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/893/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/1989/893/regulation/2/4)
+
+[^M_F_95418ee0-bfef-4c1f-91e5-d04cb253c48f]: Textual amendment: Reg. 3(11) revoked (6.4.1979) by [The Social Security Pensions (Home Responsibilities and Miscellaneous Amendments) Regulations 1978 (S.I. 1978/508)](https://www.legislation.gov.uk/uksi/1978/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1978/508/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/1978/508/regulation/3/2)

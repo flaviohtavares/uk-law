@@ -1,0 +1,196 @@
+---
+title: The Education (Modification of Enactments Relating to Employment) (Wales) Order 2006
+id: uksi/2006/1073
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2006-04-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2006/1073
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/1073/pdfs/uksi_20061073_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/1073/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Modification of Enactments Relating to Employment) (Wales) Order 2006
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2006 No. 1073
+
+EDUCATION, WALES
+
+The Education (Modification of Enactments Relating to Employment) (Wales) Order 2006
+
+Made
+
+5th April 2006
+
+Laid before Parliament
+
+18th April 2006
+
+Coming into force
+
+12th May 2006
+
+The Secretary of State for Education and Skills makes the following Order, in exercise of the powers conferred by sections 81(1) and 138(7) of the School Standards and Framework Act 1998[^f00001].
+
+In accordance with section 81 (2) of that Act she has consulted—
+
+- (a) such associations of local authorities,
+- (b) such bodies representing the interests of governors of foundation or voluntary schools, and
+- (c) such organisations representing staff in maintained schools,
+
+as appeared to her to be concerned.
+
+## 1. Citation, commencement, application and revocation
+
+(1) This Order may be cited as the Education (Modification of Enactments Relating to Employment) (Wales) Order 2006 and shall come into force on 12th May 2006.
+
+(2) This Order applies in relation to Wales.
+
+(3) The Education (Modification of Enactments Relating to Employment) Order 1999[^f00002] is revoked[^f00003].
+
+## 2. Interpretation
+
+(1) In this Order—
+
+- “the 1996 Act” means the Employment Rights Act 1996[^f00004];
+- “the 1998 Act” means the School Standards and Framework Act 1998;
+- “the 2006 Regulations” mean the Staffing of Maintained Schools (Wales) Regulations 2006[^f00005];
+- “authority” means the local education authority by which a maintained school is, or a proposed school is to be, maintained;
+- “governing body” means the governing body of a school which is maintained by a local education authority;
+- “governing body having a right to a delegated budget” and “school having a delegated budget” have the same meaning as in Part 2 of the 1998 Act.
+
+(2) In this Order references to employment powers are references to the powers of appointment, suspension, conduct and discipline, capability and dismissal of staff conferred by the 2006 Regulations.
+
+## 3. General modifications of employment enactments
+
+(1) In their application to a governing body having a right to a delegated budget, the enactments set out in the Schedule have effect as if—
+
+- (a) any reference to an employer (however expressed) included a reference to the governing body acting in the exercise of its employment powers and as if that governing body had at all material times been such an employer;
+- (b) in relation to the exercise of the governing body’s employment powers, employment by the authority at a school were employment by the governing body of the school;
+- (c) references to employees were references to employees at the school in question;
+- (d) references to dismissal by an employer included references to dismissal by the authority following notification of a determination by a governing body under regulation 17(1) of the 2006 Regulations; and
+- (e) references to trade unions recognised by an employer were references to trade unions recognised by the authority or the governing body.
+
+(2) Paragraph (1) does not cause the exemption in respect of an employer with fewer employees than is specified in section 7(1) of the Disability Discrimination Act 1995[^f00006] to apply (without prejudice to whether it applies irrespective of that paragraph).
+
+**4.** Without prejudice to the generality of article 3, where an employee employed at a school having a delegated budget is dismissed by the authority following notification of such a determination as is mentioned in article 3(1)(d)—
+
+- (a) section 92 of the 1996 Act[^f00007] has effect as if the governing body had dismissed him and as if references to the employer’s reasons for dismissing the employee were references to the reasons for which the governing body made its determination; and
+- (b) Part X of the 1996 Act[^f00008] has effect in relation to the dismissal as if the governing body had dismissed him, and the reason or principal reason for which the governing body did so had been the reason or principal reason for which it made its determination.
+
+## 5. Trade disputes
+
+(1) Subject to paragraph (2), a dispute between staff employed to work at a school having a delegated budget and the school’s governing body, which relates wholly or mainly to one of the matters set out in section 244(1) of the Trade Union and Labour Relations (Consolidation) Act 1992[^f00009] is a trade dispute within the meaning of that Act.
+
+(2) In any case where there is a trade dispute only by virtue of this article, nothing in section 219 of that Act[^f00010] prevents an act from being actionable in tort where the inducement, interference or threat mentioned in that section relates to a contract the performance of which does not affect directly or indirectly the school over which the governing body in question exercises its functions.
+
+## 6. Applications to Employment Tribunals
+
+(1) Without prejudice to articles 3 and 4, and despite any provision in the Employment Tribunals Act 1996[^f00011] and any regulations made under section 1(1) of that Act, this article applies in respect of any application to an employment tribunal, and any proceedings pursuant to such an application, in relation to which by virtue of article 3 or 4 a governing body is to be treated as if it were an employer (however expressed).
+
+(2) The application must be made, and the proceedings must be carried on, against that governing body.
+
+(3) Despite paragraph (2), any decision, declaration, order, recommendation or award made in the course of such proceedings except in so far as it requires reinstatement or re-engagement has effect as if made against the authority.
+
+(4) Where any application is made against a governing body under paragraph (2)—
+
+- (a) the governing body must notify the authority within 14 days of receiving notification; and
+- (b) the authority, on written application to the employment tribunal, is entitled to be made an additional party to the proceedings and to take part in the proceedings accordingly.
+
+Jacqui Smith
+
+Minister of State
+
+Department for Education and Skills
+
+5th April 2006
+
+## SCHEDULE
+
+Article 3
+
+- Sex Discrimination Act 1975[^f00012]
+
+  sections 6, 7, 9, 41 and 82(1A)
+- Race Relations Act 1976[^f00013]
+
+  sections 4, 5, 7 and 32
+- Trade Union and Labour Relations (Consolidation) Act 1992[^f00014]
+
+  sections 146, 147, 152–154 and 181–185
+- Disability Discrimination Act 1995[^f00015]
+
+  sections 4–6, 11, 12, 16, 55, 57 and 58
+- Employment Rights Act 1996[^f00016]
+
+  sections 66–68, 70, 71, 92, 93 and Part X
+- Employment Act 2002[^f00017]
+
+  sections 29–32 and Schedules 2–4
+
+(This note is not part of the Order)
+
+This Order modifies various statutory provisions relating to employment to take account of the provisions contained in sections 35 and 36 of the Education Act 2002 and the Staffing of Maintained Schools (Wales) Regulations 2006 (“the 2006 Regulations”) . Under these provisions, while a school has a delegated budget, the governing body has powers as to the appointment, suspension, conduct and discipline, capability and dismissal of staff at the school, although the authority remains the employer of staff at community, voluntary controlled, community special schools and maintained nursery schools. The authority may also be the employer of certain support staff at foundation, voluntary aided and foundation special schools. This Order and the modifications made by it apply to Wales only.
+
+The Education (Modification of Enactments Relating to Employment) Order 1999, which is revoked, made provision in similar terms in relation to the application of employment law consequent upon the staffing provisions of the School Standards and Framework Act 1998, to be repealed and replaced by the 2006 Regulations.
+
+Article 3 makes general modifications to the statutory provisions set out in the Schedule to the Order by providing that—
+
+- (a) references to an employer or someone acting as such are treated as including references to the governing body exercising its employment powers;
+- (b) employment by the authority at the relevant school is treated as employment by the governing body;
+- (c) references to employees are treated as referring to employees at the relevant school;
+- (d) references to dismissal by an employer are treated as including references to dismissal by the authority on the direction of the governing body; and
+- (e) references to trade unions recognised by an employer are, as far as the governing body is concerned, treated as references to trade unions recognised either by the authority or the governing body.
+
+Some provisions of employment law are excluded if an employer employs less than a certain number of staff. Article 3 further provides that the modifications which it makes do not cause the governing body to be such a “small employer” if it would not have been so without the modifications.
+
+Article 4 provides that where the governing body of a school requires the authority to dismiss a member of staff, provisions relating to dismissal in the Employment Rights Act 1996 have effect as if the governing body were the employer, and the governing body’s reason for requiring the employee’s dismissal were the employer’s reason for dismissing the employee.
+
+Article 5 provides that a dispute between staff employed to work at a school with a delegated budget and the governing body is capable of being a trade dispute within the meaning of the Trade Union and Labour Relations (Consolidation) Act 1992. A dispute which is a trade dispute only by virtue of article 5 is not a trade dispute so far as staff employed to work at other schools are concerned.
+
+Article 6 provides that the governing body is to be the respondent to any application to an employment tribunal arising out of any of its actions taken in the exercise of its employment powers, or any action taken by the authority at its direction, but provides that any award of compensation or costs or other order (other than an order for reinstatement or re-engagement) is to be made against the authority. It further provides that the authority is to be notified by the governing body when an application is made and is to have the right to apply to be made an additional party and to appear at the hearing of any such application.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), amended by paragraph 107 of Schedule 21 to the Education Act [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
+
+[^f00002]: Footnote: S.I. [1999/2256](https://www.legislation.gov.uk/uksi/1999/2256).
+
+[^f00003]: Footnote: The Education (Modification of Enactments Relating to Employment) Order 1999 was revoked in relation to England by S.I. [2003/1964](https://www.legislation.gov.uk/uksi/2003/1964).
+
+[^f00004]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^f00005]: Footnote: S.I. [2006/873 (W.81)](https://www.legislation.gov.uk/wsi/2006/873).
+
+[^f00006]: Footnote: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50). Section 7(1) is amended by S.I. [1998/2618](https://www.legislation.gov.uk/uksi/1998/2618).
+
+[^f00007]: Footnote: Section 92(1) is amended by S.I. [2002/2034](https://www.legislation.gov.uk/uksi/2002/2034), section 92(2) is amended by the Employment Act 2002, section 92(3) is amended by the Employment Act 2002 and by S.I. [1999/1436](https://www.legislation.gov.uk/uksi/1999/1436), section 92(4) is amended by the Employment Relations Act 1999, section 92(4A) is inserted by the Employment Act 2002 and section 92(6) is amended by S.I. [2002/2034](https://www.legislation.gov.uk/uksi/2002/2034) and section 92(6)(c) is amended by the Employment Relations Act 2004.
+
+[^f00008]: Footnote: Part X of the 1996 Act is amended by the Police (Health and Safety) Act 1997, the Employment Rights (Dispute Resolution) Act 1998, the National Minimum Wage Act 1998, the Public Interest Disclosure Act 1998, the Teacher and Higher Education Act 1998, the School Standards and Framework Act 1998, the Employment Relations Act 1999, the Tax Credits Act 1999, the Welfare Reform and Pensions Act 1999, the Employment Act 2002, the Employment Relations Act 2004, the Serious Organised Crime and Police Act 2005, the Police Reform Act 2002, the Tax Credits Act 2002, S.I. [1996/1513](https://www.legislation.gov.uk/uksi/1996/1513), S.I. [1998/1833](https://www.legislation.gov.uk/uksi/1998/1833), S.I. [1999/1436](https://www.legislation.gov.uk/uksi/1999/1436), S.I. [1999/1925](https://www.legislation.gov.uk/uksi/1999/1925), S.I. [1999/3323](https://www.legislation.gov.uk/uksi/1999/3323), S.I. [2000/1551](https://www.legislation.gov.uk/uksi/2000/1551), S.I. [2002/2034](https://www.legislation.gov.uk/uksi/2002/2034), S.I. [2002/2927](https://www.legislation.gov.uk/uksi/2002/2927), S.I. [2003/1660](https://www.legislation.gov.uk/uksi/2003/1660), S.I. [2003/1661](https://www.legislation.gov.uk/uksi/2003/1661), S.I. [2003/3049](https://www.legislation.gov.uk/uksi/2003/3049), S.I. [2004/1713](https://www.legislation.gov.uk/uksi/2004/1713), S.I. [2004/2326](https://www.legislation.gov.uk/uksi/2004/2326), S.I. [2004/2989](https://www.legislation.gov.uk/uksi/2004/2989) and S.I. [2004/3428](https://www.legislation.gov.uk/uksi/2004/3428).
+
+[^f00009]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
+
+[^f00010]: Footnote: Section 219 is amended by the Trade Union Reform and Employment Rights Act 1993.
+
+[^f00011]: Footnote: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17) is amended by the Arbitration Act 1996, the Employment Rights (Dispute Resolution) Act 1998, the National Minimum Wage Act 1998, the Social Services Act 1998, the Employment Relations Act 1999, the Tax Credits Act 1999, the Employment Act 2002, the Tax Credits Act 2002, the Employment Relations Act 2004, the Constitutional Reform Act 2005, S.I. [1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), S.I. [1998/1833](https://www.legislation.gov.uk/uksi/1998/1833), S.I. [1999/678](https://www.legislation.gov.uk/uksi/1999/678), S.I. [1999/3323](https://www.legislation.gov.uk/uksi/1999/3323), S.I. [2000/1299](https://www.legislation.gov.uk/uksi/2000/1299), S.I. [2000/1551](https://www.legislation.gov.uk/uksi/2000/1551), S.I. [2001/237](https://www.legislation.gov.uk/uksi/2001/237), S.I. [2001/1107](https://www.legislation.gov.uk/uksi/2001/1107), S.I. [2002/2034](https://www.legislation.gov.uk/uksi/2002/2034), S.I. [2003/1673](https://www.legislation.gov.uk/uksi/2003/1673), S.I. [2003/1660](https://www.legislation.gov.uk/uksi/2003/1660), S.I. [2003/1661](https://www.legislation.gov.uk/uksi/2003/1661), S.I. [2003/3049](https://www.legislation.gov.uk/uksi/2003/3049), S.I. [2004/1713](https://www.legislation.gov.uk/uksi/2004/1713), S.I. [2004/2326](https://www.legislation.gov.uk/uksi/2004/2326) and S.I. [2004/3426](https://www.legislation.gov.uk/uksi/2004/3426).
+
+[^f00012]: Footnote: [1975 c. 65](https://www.legislation.gov.uk/ukpga/1975/65) was materially amended by the Employment Protection Act 1975, the Industrial Training Act 1982, the Sex Discrimination Act 1986, the Pensions Act 1986, the Employment Act 1989, the Education Act 1996, S.I. [1999/1102](https://www.legislation.gov.uk/uksi/1999/1102), S.I. [2000/2040](https://www.legislation.gov.uk/uksi/2000/2040) and [S.I. 2001/ 2660](https://www.legislation.gov.uk/uksi/2001/2660).
+
+[^f00013]: Footnote: [1976 c. 74](https://www.legislation.gov.uk/ukpga/1976/74) is amended by the Race Relations (Amendment) Act 2000.
+
+[^f00014]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52) is amended by the Trade Union Reform and Employment Rights Act 1993, the Employment Rights Act 1996, the Employment Rights Act (Dispute Resolution) Act 1998 and the Employment Relations Act 1999.
+
+[^f00015]: Footnote: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50) is amended by the Special Educational Needs and Disability Act 2001.
+
+[^f00016]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18) is amended by the Employment Rights (Dispute Resolution) Act 1998, the Employment Relations Act 1999, the Employment Act 2002, S.I. [1999/1436](https://www.legislation.gov.uk/uksi/1999/1436) and S.I. [2002/2034](https://www.legislation.gov.uk/uksi/2002/2034) and as otherwise provided in footnotes (c) and (d) on page 2 of this Order.
+
+[^f00017]: Footnote: [2002 c. 22](https://www.legislation.gov.uk/ukpga/2002/22).

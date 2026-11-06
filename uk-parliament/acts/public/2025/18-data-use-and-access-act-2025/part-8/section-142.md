@@ -1,0 +1,49 @@
+---
+title: Data (Use and Access) Act 2025, section 142
+act: Data (Use and Access) Act 2025
+section: '142'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2025/18/section/142
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Data (Use and Access) Act 2025, section 142
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 142. Commencement[^key-91c1830a9efadaa889e472c2dfdb056d]
+
+*Extent: E+W+S+N.I.*
+
+(1) Except as provided by subsections (2) to (4), this Act comes into force on such day as the Secretary of State may by regulations appoint.
+
+(2) The following provisions come into force on the day on which this Act is passed—
+
+- (a) section 66 (meaning of “**the 2018 Act**” and “**the UK GDPR**”);
+- (b) section 78 (searches in response to data subjects’ requests);
+- (c) Part 1 of Schedule 16 (grant of smart meter communication licences) and section 122 so far as relating to that Part of that Schedule;
+- (d) section 126 (retention of biometric data and recordable offences);
+- (e) section 127 (retention of pseudonymised biometric data);
+- (f) section 128 (retention of biometric data from INTERPOL);
+- (g) this Part;
+- (h) any other provision of this Act (including provision modifying other legislation) so far as it confers power to make regulations or is otherwise necessary for enabling the exercise of such a power on or after the day on which this Act is passed.
+
+(3) The following provisions come into force at the end of the period of two months beginning with the day on which this Act is passed—
+
+- (a) section 69 (consent to law enforcement processing);
+- (b) section 82 (logging of law enforcement processing);
+- (c) section 96 (notices from the Information Commissioner);
+- (d) section 97 (power of the Information Commissioner to require documents).
+
+(4) Part 2 of Schedule 16 (grant of smart meter communication licences), and section 122 so far as relating to that Part of that Schedule, come into force on the day on which the first regulations under section 91A(1) of the Energy Act 2008 (inserted by Part 1 of Schedule 16) come into force.
+
+(5) Regulations under this section may make different provision for different purposes.
+
+## Annotations
+
+[^key-91c1830a9efadaa889e472c2dfdb056d]: Commencement: S. 142 in force at Royal Assent, see [s. 142(2)(g)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/g)

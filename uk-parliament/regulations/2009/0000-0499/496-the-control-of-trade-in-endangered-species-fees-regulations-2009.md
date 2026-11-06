@@ -1,0 +1,272 @@
+---
+title: The Control of Trade in Endangered Species (Fees) Regulations 2009
+id: uksi/2009/496
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-03-03'
+text_date: '2020-12-31'
+extent: E+W+S+NI
+source_url: https://www.legislation.gov.uk/uksi/2009/496
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/496/pdfs/uksiem_20090496_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/496/pdfs/uksi_20090496_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/496/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Control of Trade in Endangered Species (Fees) Regulations 2009
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, NI.
+
+*Extent: E+W+S+NI*
+
+2009 No. 496
+
+Fees And Charges
+
+Wildlife
+
+The Control of Trade in Endangered Species (Fees) Regulations 2009
+
+Made
+
+3rd March 2009
+
+Laid before Parliament
+
+10th March 2009
+
+Coming into force
+
+6th April 2009
+
+The Secretary of State, with the consent of the Treasury, makes these Regulations in exercise of the powers conferred by section 56(1) and (2) of the Finance Act 1973[^f00001] as read with paragraph 1A of Schedule 2 to the European Communities Act 1972[^f00002].
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Secretary of State that it is expedient for references to Council Regulation [(EC) No 338/97](https://www.legislation.gov.uk/european/regulation/1997/0338) on the protection of species of wild fauna and flora by regulating trade therein[^f00003] and to Commission Regulation [(EC) No 865/2006](https://www.legislation.gov.uk/european/regulation/2006/0865)[^f00004] laying down detailed rules concerning the implementation of that Council Regulation to be construed as references to those Regulations as amended from time to time.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Control of Trade in Endangered Species (Fees) Regulations 2009 and they come into force on 6th April 2009.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “application” means an application for a permit, certificate or registration specified in column 1 of the Schedule, and must be construed in accordance with regulation 6 (applications);
+- “certificate of origin” means a certificate issued for the purposes of Article 5(2)(b), (3) or (4) of the Council Regulation and referred to in Article 10 of that Regulation;
+- “CITES registration” means—
+  - (a) registration of a commercial operation that breeds animal species listed for the time being in Appendix I to the Convention on International Trade in Endangered Species of Wild Fauna and Flora[^f00005], or
+  - (b) registration of a nursery that exports artificially propagated specimens of species listed for the time being in Appendix I to that Convention;
+- “commercial use certificate” means a certificate referred to in Articles 8(3) and 10 of the Council Regulation;
+- “the Commission Regulation” means Commission Regulation [(EC) No 865/2006](https://www.legislation.gov.uk/european/regulation/2006/0865) laying down detailed rules concerning the implementation of Council Regulation [(EC) No 338/97](https://www.legislation.gov.uk/european/regulation/1997/0338) on the protection of species of wild fauna and flora by regulating trade therein;
+- “the Council Regulation” means Council Regulation [(EC) No 338/97](https://www.legislation.gov.uk/european/regulation/1997/0338) on the protection of species of wild fauna and flora by regulating trade therein;
+- “export permit” means an export permit referred to in Article 5(1), (2) and (4) of the Council Regulation;
+- “import permit” means an import permit referred to in Article 4(1) and (2) of the Council Regulation (but see regulation 6(5)(c) and (7)(b)(iii))[^key-97b4904ebbad37e5da3b120937a0761e];
+- “movement certificate” means a certificate referred to in Articles 9(2)(b) and 10 of the Council Regulation;
+- “purpose code” means a code indicating the purpose of a transaction, referred to in Article 5(5) of the Commission Regulation and listed in Annex IX(1) to that Regulation;
+- “re-export certificate” means a re-export certificate referred to in Article 5(1), (3) and (4) of the Council Regulation;
+- “sample collection certificate” means a sample collection certificate referred to in Article 44a[^f00006] of the Commission Regulation;
+- “scientific institution certificate” means a certificate referred to in Article 60 of the Commission Regulation;
+- “source code” means a code indicating the source of a specimen, referred to in Article 5(6) of the Commission Regulation and listed in Annex IX(2) to that Regulation;
+- “specimen” means a specimen in relation to which a person wishes to obtain the permit, certificate or registration in question; and
+- “travelling exhibition certificate” means a travelling exhibition certificate referred to in Article 30 of the Commission Regulation.
+
+(2) Other terms used in these Regulations that are also used in the Council Regulation or the Commission Regulation have the meaning they bear in those Regulations.
+
+(3) In these Regulations—
+
+- (a) any reference to the Commission Regulation is a reference to the Commission Regulation as amended from time to time, and
+- (b) any reference to the Council Regulation is a reference to the Council Regulation as amended from time to time.
+
+## 3. Fees
+
+(1)[^key-fb2b8aaf3165f283a4b289c2fa304a8b] Except where regulation 4 applies, a person who wishes to obtain a permit, certificate or registration specified in an entry in column 1 of the Schedule must pay the fee specified corresponding to that entry in column 2 (for animals) or column 3 (for plants) as the case may be.
+
+(2) A fee which is payable by virtue of paragraph (1) or regulation 4[^key-91a68a7c9cb56ca330430dd6630fc1b1] must be paid—
+
+- (a) in relation to each application,
+- (b) to the Secretary of State, and
+- (c) when the application is made.
+
+(3)[^key-43944c2245b896bfaabe1c706ed57263] If any application for which a fee is payable under these Regulations is withdrawn before consideration of the application, the Secretary of State must refund to the applicant such proportion of any fee paid in respect of that application as the Secretary of State thinks fit, having regard to any reasonable costs incurred by the Secretary of State in connection with the application.
+
+## 4. Fee for the issue of additional permits or certificates[^key-71f17e2c66cf7370f196c648ac035b9f]
+
+Where a single application covers more than one specimen and the issue of more than one permit or certificate is required, a fee of £1.50 is payable by the applicant for each additional permit or certificate issued.
+
+## 5. Conservation fee waiver
+
+(1) The Secretary of State may waive the fee in relation to an application for a permit or certificate which would allow a particular activity where that activity—
+
+- (a) would not be undertaken in the course of a trade or business carried on for profit, and
+- (b) would bring conservation benefits to the species to which the specimen belongs.
+
+(2) In paragraph (1)—
+
+- (a) “permit or certificate” means any permit or certificate specified in column 1 of the Schedule, and
+- (b) “fee” means the fee which would otherwise be payable by virtue of regulation 3(1) or 4[^key-ec14a4e79b1ff94ce0015fb71c1c04a4] .
+
+## 6. Applications
+
+(1) Subject to paragraphs (2) to (4) and (6) to (9), for the purposes of obtaining any document specified in column 1 of the Schedule, except a scientific institution certificate or a CITES registration, each specimen must be the subject of a separate application.
+
+(2) For the purposes of obtaining an import permit, an export permit or a re-export certificate, two or more specimens may be the subject of one application provided that the specimens—
+
+- (a) are of the same species (in the case of animals other than corals) or genus (in the case of plants and corals),
+- (b) have the same source code and purpose code, and
+- (c) are to be transported between the same importer and exporter.
+
+(3) Where regulation 4 applies, all the specimens may be the subject of one application.
+
+(4) For the purposes of obtaining a commercial use certificate, two or more specimens may be the subject of one application provided that—
+
+- (a) in the case of animal specimens—
+  - (i) the conditions specified in sub-paragraphs (a) and (b) of paragraph (5) are satisfied,
+  - (ii) the conditions specified in sub-paragraphs (a) and (c) of paragraph (5) are satisfied, or
+  - (iii) if no commercial use certificate or import permit has previously been issued in relation to the specimens, the condition specified in sub-paragraph (d) of paragraph (5) is satisfied,
+
+  in relation to the specimens;
+- (b) in the case of plant specimens—
+  - (i) the conditions specified in sub-paragraphs (a) and (b) of paragraph (5) are satisfied, or
+  - (ii) the conditions specified in sub-paragraphs (a) and (c) of paragraph (5) are satisfied,
+
+  in relation to the specimens.
+
+(5) The conditions referred to in paragraph (4) are that the specimens—
+
+- (a) are of the same species (in the case of animals other than corals) or genus (in the case of plants and corals),
+- (b) are included together on a single previously issued commercial use certificate,
+- (c)[^key-91b45678b6af61ed7f59b47042f85c99] were imported—
+  - (i) on a single import permit; or
+  - (ii) into a member State on a single import permit referred to in Article 4(1) and (2) of the Council Regulation as it had effect immediately before IP completion day;
+- (d) have been bred from the same parents in the same breeding season.
+
+(6) For the purposes of obtaining a movement certificate, two or more specimens may be the subject of one application provided that—
+
+- (a) the specimens are of the same species (in the case of animals other than corals) or genus (in the case of plants and corals), and
+- (b) the certificate is sought in respect of movement of those specimens—
+  - (i) from the same location indicated in a single import permit or other permit or certificate previously issued under the Council Regulation in relation to those specimens, and
+  - (ii) to the same destination.
+
+(7) For the purposes of obtaining a certificate of origin or a sample collection certificate, two or more specimens may be the subject of one application provided that—
+
+- (a) the specimens are of the same species (in the case of animals other than corals) or genus (in the case of plants and corals), and
+- (b) the specimens—
+  - (i) have the same source code and the same country of origin,
+  - (ii) are included together on a single previously issued commercial use certificate, or
+  - (iii)[^key-9de5e6aaf43036ab53674e33efc1fd07] were imported—
+    - (aa) on a single import permit; or
+    - (bb) into a member State on a single import permit referred to in Article 4(1) and (2) of the Council Regulation as it had effect immediately before IP completion day;
+
+(8) For the purposes of obtaining a pre-issued permit or certificate as described in Article 18, 19 or 29[^key-16ecfde05cd89d8689b01ee3a073a130] of the Commission Regulation, two or more specimens may be the subject of one application provided that—
+
+- (a) the specimens are of the same species (in the case of animals other than corals) or genus (in the case of plants and corals), and
+- (b) the information which is specified by the Secretary of State on each of the pre-issued permits or certificates in question relating to those specimens is the same.
+
+(9) For the purposes of obtaining a travelling exhibition certificate, except where the specimen is a live animal, two or more specimens may be the subject of one application provided that—
+
+- (a) the specimens are of the same species (in the case of animals other than corals) or genus (in the case of plants and corals), and
+- (b) the specimens form part of one travelling exhibition.
+
+(10) For the purposes of obtaining a scientific institution certificate, all the specimens held by a scientific institution at one particular site may be the subject of one application.
+
+(11) For the purposes of obtaining a CITES registration, all the specimens included within the operation or nursery to which that registration is to relate may be the subject of one application.
+
+## 7. Revocation
+
+The Control of Trade in Endangered Species (Fees) Regulations 1997[^f00007] are revoked.
+
+Huw Irranca-Davies
+
+Parliamentary Under Secretary of State
+
+Department for Environment, Food and Rural Affairs
+
+We consent
+
+Frank Roy
+
+Tony Cunningham
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+## SCHEDULE — FEES[^key-b28b3193b8d7fde8c896df6264d94f8a]
+
+Regulation 3
+
+| *Column 1*<br>*Type of permit, certificate or registration* | *Column 2*<br>*Fee for animals (£)* | *Column 3*<br>*Fee for plants (£)* |
+| --- | --- | --- |
+| Certificate of origin issued under the Council Regulation | 31 | 31 |
+| Commercial use certificate issued under Article 10, in accordance with Article 8 of the Council Regulation | 31 | 31 |
+| Export permit issued in accordance with Article 5 of the Council Regulation | 63 | 74 |
+| Re-export certificate issued in accordance with Article 5 of the Council Regulation | 37 | 59 |
+| Movement certificate issued under Article 10, in accordance with Article 9 of the Council Regulation | 88 | 88 |
+| Pre-issued re-export certificate issued under Article 18 of the Commission Regulation (biological samples) | 44 | 59 |
+| Pre-issued re-export certificate issued under Article 19 of the Commission Regulation (dead specimens) | 44 | 59 |
+| Import permit issued under Article 4 of the Council Regulation | 67 | 74 |
+| Pre-issued export permit issued under Article 18 of the Commission Regulation | 72 | 74 |
+| Pre-issued export permit issued under Article 19 of the Commission Regulation | 72 | 74 |
+| Pre-issued export permit issued under Article 29 of the Commission Regulation (nursery permits) | Not applicable | 74 |
+| Personal ownership certificate issued under Article 37 of the Commission Regulation | 74 | 74 |
+| Sample collection certificate issued under Article 44a of the Commission Regulation | 74 | 74 |
+| Travelling exhibition certificate issued under Article 30 of the Commission Regulation | 74 | 74 |
+| Scientific institution certificate issued under Article 60 of the Commission Regulation | 146 | 195 |
+| CITES registration | 221 | 221 |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations specify fees which are payable to the Secretary of State in relation to applications for certain permits and certificates specified in Council Regulation [(EC) No. 338/97](https://www.legislation.gov.uk/european/regulation/1997/0338) (OJ No. L61, 3.3.97, p. 1) (“the Council Regulation”), which relates to the protection of species of wild fauna and flora, and Commission Regulation [(EC) No. 865/06](https://www.legislation.gov.uk/european/regulation/2006/0865) (OJ No. L166, 19.6.06, p. 1), which provides further details in connection with the regime set out in the Council Regulation. Those Regulations apply the Convention on International Trade in Endangered Species of Wild Fauna and Flora (ratified by the United Kingdom on 2nd August 1976). The issue of such permits or certificates allows certain trading or other activities in relation to specimens (animals or plants, or parts or derivatives of animals or plants) which are included in a relevant Annex to the Council Regulation.
+
+These Regulations provide that a fee is payable in relation to an application, which may relate to one specimen or to several, as described in regulation 6. The fees payable are specified in regulation 4 and in the Schedule.
+
+These Regulations revoke the Control of Trade in Endangered Species (Fees) Regulations 1997 ([S.I. 1997/1421](https://www.legislation.gov.uk/uksi/1997/1421)) (“the previous Regulations”), which previously specified fees payable in relation to applications for import permits, export permits and re-export certificates.
+
+The fees specified in these Regulations in relation to an application for an export permit, import permit or re-export certificate are £59 (import and export permits) and £47 (re-export certificates); the maximum fee under the previous Regulations was £10. These Regulations also introduce fees in relation to other kinds of permit or certificate for which no fee was charged under the previous Regulations. There is no longer any variation in the fees according to whether the purpose of the activity for which the permit or certificate is required is commercial or not commercial.
+
+Regulation 5 extends the conservation fee waiver in the previous Regulations, so that a fee may be waived in relation to any application which concerns an activity which is not for commercial purposes and which would bring conservation benefits to the species in question.
+
+An impact assessment in relation to this instrument is available on the Defra website, www.defra.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
+
+[^f00003]: Footnote: OJ No L 61, 3.3.97, p. 1, amended by Commission Regulation [(EC) No 318/2008](https://www.legislation.gov.uk/european/regulation/2008/0318), OJ No L 95, 8.4.08, p. 3; there are other amending instruments but none is relevant.
+
+[^f00004]: Footnote: OJ No L 166, 19.6.06, p. 1, amended by Commission Regulation [(EC) No 100/2008](https://www.legislation.gov.uk/european/regulation/2008/0100), OJ No L 31, 5.2.08, p. 3.
+
+[^f00005]: Footnote: The Convention was ratified by the United Kingdom on 2nd August 1976; the text can be found at www.cites.org.
+
+[^key-97b4904ebbad37e5da3b120937a0761e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/496/regulation/2/1) inserted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/2/2)
+
+[^f00006]: Footnote: Article 44a was inserted by Commission Regulation [(EC) No 100/2008](https://www.legislation.gov.uk/european/regulation/2008/0100).
+
+[^key-fb2b8aaf3165f283a4b289c2fa304a8b]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2009/496/regulation/3/1) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(2)(a)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/2/a)
+
+[^key-91a68a7c9cb56ca330430dd6630fc1b1]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2009/496/regulation/3/2) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(2)(b)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/2/b)
+
+[^key-43944c2245b896bfaabe1c706ed57263]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2009/496/regulation/3/3) inserted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(2)(c)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/2/c)
+
+[^key-71f17e2c66cf7370f196c648ac035b9f]: Textual amendment: Reg. 4 substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(3)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/3)
+
+[^key-ec14a4e79b1ff94ce0015fb71c1c04a4]: Textual amendment: Word in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2009/496/regulation/5/2/b) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/4)
+
+[^key-91b45678b6af61ed7f59b47042f85c99]: Textual amendment: [Reg. 6(5)(c)](https://www.legislation.gov.uk/uksi/2009/496/regulation/6/5/c) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/2/3/a)
+
+[^key-9de5e6aaf43036ab53674e33efc1fd07]: Textual amendment: [Reg. 6(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2009/496/regulation/6/7/b/iii) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/2/3/b)
+
+[^key-16ecfde05cd89d8689b01ee3a073a130]: Textual amendment: Words in [reg. 6(8)](https://www.legislation.gov.uk/uksi/2009/496/regulation/6/8) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(5)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/5)
+
+[^f00007]: Footnote: [S.I. 1997/1421](https://www.legislation.gov.uk/uksi/1997/1421).
+
+[^key-b28b3193b8d7fde8c896df6264d94f8a]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2009/496/schedule) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(6)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/6), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1240/schedule/1)

@@ -1,0 +1,41 @@
+---
+title: Taxation of Chargeable Gains Act 1992, section 267
+act: Taxation of Chargeable Gains Act 1992
+section: '267'
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1992/12/section/267
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation of Chargeable Gains Act 1992, section 267
+
+> **Warning: changes not yet applied to this text (23).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/12
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 267. Sharing of transmission facilities.
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies to any agreement relating to the sharing of transmission facilities—
+
+- (a) to which the parties are national broadcasting companies,
+- (b) which is entered into on or after 25th July 1991 (the day on which the [^c2138419]Finance Act 1991 was passed) and before 1st January 1992 or such later date as may be specified for the purposes of this paragraph by the Secretary of State, and
+- (c) in relation to which the Secretary of State has certified that it is expedient that this section should apply.
+
+(2) Where under an agreement to which this section applies one party to the agreement disposes of an asset to another party to the agreement, both parties shall be treated for the purposes of corporation tax on chargeable gains as if the asset acquired by the party to whom the disposal is made were acquired for a consideration of such amount as would secure that on the other’s disposal neither a gain nor a loss would accrue to that other.
+
+(3) Where under an agreement to which this section applies one party to the agreement disposes of an asset to another party to the agreement and the asset is one which the party making the disposal acquired on a part disposal by the party to whom the disposal under the agreement is made, then in applying subsection (2) above—
+
+- (a) section 42 shall be deemed to have had effect in relation to the part disposal with the omission of subsection (4),
+- (b) the amount or value of the consideration for the part disposal shall be taken to have been nil, and
+- (c) if the disposal under the agreement is one to which section 35(2) applies, the market value of the asset on 31st March 1982 shall be taken to have been nil.
+
+(4) In this section “**national broadcasting company**” means a body corporate engaged in the broadcasting for general reception by means of wireless telegraphy of radio or television services or both on a national basis.
+
+## Annotations
+
+[^c2138419]: Marginal citation: [1991 c. 31](https://www.legislation.gov.uk/ukpga/1991/31).

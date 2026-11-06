@@ -1,0 +1,37 @@
+---
+title: Criminal Justice Act 2003, section 101
+act: Criminal Justice Act 2003
+section: '101'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2003/44/section/101
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice Act 2003, section 101
+
+> **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 101. Defendant’s bad character
+
+*Extent: E+W*
+
+(1) In criminal proceedings evidence of the defendant’s bad character is admissible if, but only if—
+
+- (a) all parties to the proceedings agree to the evidence being admissible,
+- (b) the evidence is adduced by the defendant himself or is given in answer to a question asked by him in cross-examination and intended to elicit it,
+- (c) it is important explanatory evidence,
+- (d) it is relevant to an important matter in issue between the defendant and the prosecution,
+- (e) it has substantial probative value in relation to an important matter in issue between the defendant and a co-defendant,
+- (f) it is evidence to correct a false impression given by the defendant, or
+- (g) the defendant has made an attack on another person’s character.
+
+(2) Sections 102 to 106 contain provision supplementing subsection (1).
+
+(3) The court must not admit evidence under subsection (1)(d) or (g) if, on an application by the defendant to exclude it, it appears to the court that the admission of the evidence would have such an adverse effect on the fairness of the proceedings that the court ought not to admit it.
+
+(4) On an application to exclude evidence under subsection (3) the court must have regard, in particular, to the length of time between the matters to which that evidence relates and the matters which form the subject of the offence charged.

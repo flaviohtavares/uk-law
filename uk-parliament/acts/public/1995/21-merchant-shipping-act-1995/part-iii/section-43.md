@@ -1,0 +1,40 @@
+---
+title: Merchant Shipping Act 1995, section 43
+act: Merchant Shipping Act 1995
+section: '43'
+status: revised-with-pending-changes
+text_date: '2026-06-23'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1995/21/section/43
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Merchant Shipping Act 1995, section 43
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2026-06-23. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/21
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 43. Crew accommodation.
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State may make regulations with respect to the crew accommodation to be provided in United Kingdom ships.
+
+(2) Without prejudice to the generality of subsection (1) above, regulations made under this section may, in particular—
+
+- (a) prescribe the minimum space per man which must be provided by way of sleeping accommodation for seamen and the maximum number of persons by whom a specified part of such sleeping accommodation may be used;
+- (b) regulate the position in the ship in which the crew accommodation or any part thereof may be located and the standards to be observed in the construction, equipment and furnishing of any such accommodation;
+- (c) require the submission to a surveyor of ships of plans and specifications of any works proposed to be carried out for the purpose of the provision or alteration of any such accommodation and authorise the surveyor to inspect any such works; and
+- (d) provide for the maintenance and repair of any such accommodation and prohibit or restrict the use of any such accommodation for purposes other than those for which it is designed.
+
+(3) Regulations under this section may make different provision with respect to different descriptions of ship or with respect to ships which were registered in the United Kingdom at different dates or the construction of which was begun at different dates and with respect to crew accommodation provided for seamen of different descriptions.
+
+(4) Regulations under this section may exempt ships of any description from any requirements of the regulations and the Secretary of State may grant other exemptions from any such requirement with respect to any ship.
+
+(5) Regulations under this section may require the master of a ship or any officer authorised by him for the purpose to carry out such inspections of the crew accommodation as may be prescribed by the regulations.
+
+(6) If the provisions of any regulations under this section are contravened in the case of a ship the owner or master shall be liable, on summary conviction, to a fine not exceeding level 5 on the standard scale and the ship, if in the United Kingdom, may be detained.
+
+(7) In this section “**crew accommodation**” includes sleeping rooms, mess rooms, sanitary accommodation, hospital accommodation, recreation accommodation, store rooms and catering accommodation provided for the use of seamen but does not include any accommodation which is also used by or provided for the use of passengers.

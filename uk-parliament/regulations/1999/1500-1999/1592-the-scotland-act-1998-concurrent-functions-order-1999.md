@@ -1,0 +1,206 @@
+---
+title: The Scotland Act 1998 (Concurrent Functions) Order 1999
+id: uksi/1999/1592
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1999-06-07'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1999/1592
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/1592/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Scotland Act 1998 (Concurrent Functions) Order 1999
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1999 No. 1592
+
+CONSTITUTIONAL LAWD
+
+DEVOLUTION, SCOTLAND
+
+The Scotland Act 1998 (Concurrent Functions) Order 1999
+
+Made
+
+7th June 1999
+
+Laid before Parliament
+
+9th June 1999
+
+Coming into force in accordance with article 1
+
+The Secretary of State, in exercise of the powers conferred on him by sections 56(2), 112(1) and 113 of the Scotland Act 1998[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Order:
+
+## 1. Citation and commencement[^key-34c71faca1305217d80b5424f28f3cb2]
+
+This Order may be cited as the Scotland Act 1998 (Concurrent Functions) Order 1999 and shall come into force on the principal appointed day[^f00002].
+
+## 2. Interpretation[^key-edbef19681f58051a7e69f99d4034252]
+
+(1) In this Order—
+
+- “the 1998 Act” means the Scotland Act 1998;
+- “British fishing boat” means a fishing boat, other than a Scottish fishing boat, which is registered in the United Kingdom or is British-owned; and
+- “Scottish fishing boat” means a fishing vessel which is registered in the register maintained under section 8 of the Merchant Shipping Act 1995[^f00003] and whose entry in the register specifies a port in Scotland as the port to which the vessel is to be treated as belonging.
+
+(2) In this Order, unless the context otherwise requires—
+
+- (a) a reference to a numbered section is a reference to the section so numbered in the 1998 Act; and
+- (b) a reference to a numbered Schedule is a reference to the Schedule to this Order so numbered.
+
+## 3. Concurrent functions[^key-7250415b024ce386fe799032a6d2830f]
+
+(1) Despite its transfer to the Scottish Ministers by virtue of section 53, any specified function shall be exercisable by the person by whom it was exercisable immediately before that transfer as well as by the Scottish Ministers.
+
+(2) In paragraph (1), “specified function” means a function conferred by an enactment mentioned in column 1 of Schedule 1 but, if there is a corresponding entry in column 2 of that Schedule, it means that function so far as it is exercisable to the extent specified in column 2.
+
+(3) Despite the transfer to the Scottish Ministers by virtue of section 53 of any function described in Schedule 2, that function shall be exercisable by a Minister of the Crown as well as by the Scottish Ministers.
+
+John Reid
+
+Secretary of State for Scotland
+
+St Andrew’s House,
+
+Edinburgh
+
+## SCHEDULE 1[^key-48b3d2ef9838548c3e1bb543485830d1]
+
+Article 3(2)
+
+<table>
+<thead>
+<tr><th>Column 1</th><th>Column 2</th></tr>
+<tr><th>Enactment</th><th>Extent</th></tr>
+</thead>
+<tbody>
+<tr><td>Section 1(3), (4) and (6) of the Sea Fish (Conservation) Act 1967 (size limits for fish carried by fishing boat).</td><td>So far as exercisable—<br>(a) in relation to British fishing boats, but not Scottish fishing boats, within the Scottish zone; and<br>(b) in relation to Scottish fishing boats within British fishery limits but outside the Scottish zone.</td></tr>
+<tr><td>Section 3(1), (3) and (4) of the Sea Fish (Conservation) Act 1967 (regulation of nets and other fishing gear).</td><td>So far as exercisable—<br>(a) in relation to British fishing boats, but not Scottish fishing boats, within the Scottish zone; and<br>(b) in relation to Scottish fishing boats within British fishery limits but outside the Scottish zone.</td></tr>
+<tr><td>. . .</td><td>. . .</td></tr>
+<tr><td>Section 4A of the Sea Fish (Conservation) Act 1967 (licensing of vessels receiving trans-shipped the fish).</td><td>So far as exercisable in relation to Scottish fishing boats within British fishery limits but outside Scottish zone.</td></tr>
+<tr><td>Section 5 of the Sea Fish (Conservation) Act 1967 (power to restrict fishing for sea fish).</td><td>So far as exercisable—<br>(a) in relation to British fishing boats, but not Scottish fishing boats, within the Scottish zone; and<br>(b) in relation to Scottish fishing boats within British fishery limits but outside the Scottish zone.</td></tr>
+<tr><td>Section 15(3) of the Sea Fish (Conservation) Act 1967 (order by Ministers as to powers of British sea-fishery officers for enforcement of the Act).</td><td>So far as exercisable—<br>(a) in relation to British fishing boats, but not Scottish fishing boats, within the Scottish zone; and<br>(b) in relation to Scottish fishing boats within British fishery limits but outside the Scottish zone.</td></tr>
+<tr><td>Section 4 of the Agriculture (Miscellaneous Provisions) Act 1968 (expenditure on free advice on the welfare of livestock).</td><td>Not in relation to brucellosis, brucellosis meletensis tuberculosis or infestation of cattle with the maggot of the warble fly.</td></tr>
+<tr><td>Section 5(1) and (2)(a) of the Sea Fisheries Act 1968 (regulation of conduct of fishing operations).</td><td>So far as exercisable—<br>(a) in relation to British fishing boats, but not Scottish fishing boats, within the Scottish zone; and<br>(b) in relation to Scottish fishing boats within British fishery limits but outside the Scottish zone.</td></tr>
+<tr><td>Section 7(1)(g) and (2) of the Sea Fisheries Act 1968 (appointment of British sea-fishery officers).</td></tr>
+<tr><td>Section 3 of the Animal Health Act 1981, (expenditure for eradication).</td><td>Not in relation to brucellosis, brucellosis meletensis tuberculosis or infestation of cattle with the maggot of the warble fly.</td></tr>
+<tr><td>Section 5 of the Animal Health Act 1981 (veterinary services and therapeutic substances).</td><td>Not in relation to brucellosis, brucellosis meletensis tuberculosis or infestation of cattle with the maggot of the warble fly.</td></tr>
+<tr><td>Section 10 of the Animal Health Act 1981, (importation) as read with Schedule 2 (specific matters with respect to which provision may be made in orders under section 10).</td><td>Not in relation to brucellosis, brucellosis meletensis tuberculosis or infestation of cattle with the maggot of the warble fly</td></tr>
+<tr><td>Section 28 of the Animal Health Act 1981 (seizure of diseased or suspected animals).</td><td>Not in relation to brucellosis, brucellosis meletensis tuberculosis or infestation of cattle with the maggot of the warble fly.</td></tr>
+<tr><td>Section 31 of the Animal Health Act 1981(slaughter in certain diseases) as read with Schedule 3 (power to slaughter in relation to certain diseases).</td></tr>
+<tr><td>Section 32 of the Animal Health Act 1981, (slaughter in other diseases).</td><td>Not in relation to brucellosis, brucellosis meletensis tuberculosis or infestation of cattle with the maggot of the warble fly.</td></tr>
+<tr><td>Section 33 of the Animal Health Act 1981 (additional staff and expenses).</td><td>Not in relation to brucellosis, brucellosis meletensis, tuberculosis or infestation of cattle with the maggot of the warble fly.</td></tr>
+<tr><td>Section 34 of the Animal Health Act 1981 (slaughter and compensation generally).</td><td>Not in relation to brucellosis, brucellosis meletensis, tuberculosis or infestation of cattle with the maggot of the warble fly.</td></tr>
+<tr><td>Section 35 of the Animal Health Act 1981 (seizure and disposal of carcasses etc.).</td><td>Not in relation to brucellosis, brucellosis meletensis, tuberculosis or infestation of cattle with the maggot of the warble fly.</td></tr>
+<tr><td>Section 36 of the Animal Health Act 1981 (compensation for seizure).</td><td>Not in relation to brucellosis, brucellosis meletensis, tuberculosis or infestation of cattle with the maggot of the warble fly.</td></tr>
+<tr><td>Section 84 of the Animal Health Act 1981 (fees).</td><td>Not in relation to brucellosis, brucellosis meletensis, tuberculosis or infestation of cattle with the maggot of the warble fly.</td></tr>
+<tr><td>. . .</td></tr>
+<tr><td>. . .</td></tr>
+<tr><td>Section 30(2) of the Fisheries Act 1981 (enforcement of Community rules).</td><td>So far as exercisable—<br>(a) in relation to British fishing boats, but not Scottish fishing boats, within the Scottish zone; and<br>(b) in relation to Scottish fishing boats within British fishery limits but outside the Scottish zone.</td></tr>
+<tr><td>Section 1 of the British Fishing Boats Act 1983 (restrictions on fishing, etc., by British fishing boats).</td><td>So far as exercisable—<br>(a) in relation to British fishing boats, but not Scottish fishing boats, within the Scottish zone; and<br>(b) in relation to Scottish fishing boats within British fishery limits but outside the Scottish zone.</td></tr>
+</tbody>
+</table>
+
+[^f00004][^key-b65a45c8795b3780232c0dda08db3af0][^key-ab1fbd766bb8fb4d0ab4384f5d4d239b][^f00006][^f00007][^f00008][^f00009][^f00010][^f00011][^key-8a35fe6244bb8e5627cb1fda5036caa9][^key-8a35fe6244bb8e5627cb1fda5036caa9][^f00013]
+
+## SCHEDULE 2
+
+Article 3(3)
+
+### 1. Export Promotion[^key-ab8324147e9c53a1fce292388c5d8995]
+
+Any function relating to—
+
+- (a) the promotion of, or arranging for the promotion of, the export of goods or services from the United Kingdom and the provision of, or arranging for the provision of, advice and financial and other assistance in relation to such promotion; and
+- (b) support for, or arranging for support for, investment by any person in any matter outside the United Kingdom and the provision of, or arranging for the provision of, advice and financial and other assistance in relation to such investment.
+
+### 2. Fires and fire brigades: statistics and research[^key-13fd16280143f5a659bfac181483f2a4]
+
+Any function relating to—
+
+- (a) the collection, analysis and publication of statistics relating to—
+  - (i) occurrences of fires in Scotland;
+  - (ii) calls for the assistance of employees of[^key-4215ba26b8446ecb385c65d4ee5605e4] the Scottish Fire and Rescue Service[^key-ae144dff8b163ae77ef860fff555abe6] in Scotland; and
+  - (iii) the causes, characteristics and effects of fires occurring in Scotland; and
+- (b) the carrying out of, or arranging for the carrying out of, research into and development of knowledge of—
+  - (i) the causes, characteristics and effects of fires occurring in Scotland;
+  - (ii) the means of preventing or mitigating the outbreak or spread of fire;
+  - (iii) the manner in which employees of[^key-5df2c68acf35282c60ca6a5459b32b3e] the Scottish Fire and Rescue Service[^key-18353f7dbd93436fe97a438c863aadc1] may be trained and the equipment which may be provided to them; and
+  - (iv) the effectiveness and efficiency of arrangements for responding to calls for the assistance of employees of[^key-9548a42a9bf331f6e864eb37a058882b] the Scottish Fire and Rescue Service[^key-23e53972431f9c273ee836932d2e9d7c] in Scotland.
+
+(This note is not part of the Order)
+
+This Order provides that certain functions transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) shall be exercisable by a Minister of the Crown as well as by the Scottish Ministers.
+
+Article 3(1) and (2) of the Order provides that the functions described in Column 1 of Schedule 1 to the Order, in certain cases to the extent specified in Column 2 of that Schedule, shall be exercisable by the person by whom it was exercisable immediately before that transfer as well as by the Scottish Ministers.
+
+Article 3(3) provides that the functions described in Schedule 2 to the Order shall be exercisable by a Minister of the Crown as well as by the Scottish Ministers.
+
+This Order will come into force on the principal appointed day. That day is currently 1st July 1999 by virtue of the Scotland Act 1998 (Commencement) Order 1998 ([S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178)).
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-34c71faca1305217d80b5424f28f3cb2]: Commencement: Art. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1592/article/1)
+
+[^f00002]: Footnote: The principal appointed day is 1st July 1999 by virtue of article 3 of the Scotland Act 1998 (Commencement) Order 1998 ([S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178)).
+
+[^key-edbef19681f58051a7e69f99d4034252]: Commencement: Art. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1592/article/1)
+
+[^f00003]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^key-7250415b024ce386fe799032a6d2830f]: Commencement: Art. 3 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1592/article/1)
+
+[^key-48b3d2ef9838548c3e1bb543485830d1]: Commencement: Sch. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1592/article/1)
+
+[^f00004]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84); subsection (3) was amended by the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29) (“the 1981 Act”), section 33(1) and Schedule 4, Part 1, paragraph 12.
+
+[^key-b65a45c8795b3780232c0dda08db3af0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1592/schedule/1) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/17/2/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-ab1fbd766bb8fb4d0ab4384f5d4d239b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1592/schedule/1) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 17(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/17/2/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^f00006]: Footnote: Section 4A was inserted by the 1981 Act, sections 21(1) and 27 and amended by the Sea Fish (Conservation) Act [1992 (c. 60)](https://www.legislation.gov.uk/ukpga/1992/60), section 3.
+
+[^f00007]: Footnote: Section 5 was amended by the 1981 Act, section 22.
+
+[^f00008]: Footnote: Subsection (3) was substituted by the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77), section 22(5) and Schedule 1, paragraph 38(3).
+
+[^f00009]: Footnote: [1968 c. 34](https://www.legislation.gov.uk/ukpga/1968/34).
+
+[^f00010]: Footnote: [1968 c. 77](https://www.legislation.gov.uk/ukpga/1968/77); section 5 was amended by the Fisheries Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86), section 4(1).
+
+[^f00011]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
+
+[^key-8a35fe6244bb8e5627cb1fda5036caa9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1592/schedule/1) omitted (23.11.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(c)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/c), [Sch. 6 para. 4(2)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/4/2/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^f00013]: Footnote: [1983 c. 8](https://www.legislation.gov.uk/ukpga/1983/8).
+
+[^key-ab8324147e9c53a1fce292388c5d8995]: Commencement: Sch. 2 para. 1 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1592/article/1)
+
+[^key-13fd16280143f5a659bfac181483f2a4]: Commencement: Sch. 2 para. 2 in force at 1.7.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/1592/article/1)
+
+[^key-4215ba26b8446ecb385c65d4ee5605e4]: Textual amendment: Words in [Sch. 2 para. 2(a)(ii)](https://www.legislation.gov.uk/uksi/1999/1592/schedule/2/paragraph/2/a/ii) substituted (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060)](https://www.legislation.gov.uk/uksi/2005/2060), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2005/2060/article/1/2/f), [Sch. para. 14(2)](https://www.legislation.gov.uk/uksi/2005/2060/schedule/paragraph/14/2)
+
+[^key-ae144dff8b163ae77ef860fff555abe6]: Textual amendment: Words in [Sch. 2 para. 2(a)(ii)](https://www.legislation.gov.uk/uksi/1999/1592/schedule/2/paragraph/2/a/ii) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 77(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/77/2)
+
+[^key-5df2c68acf35282c60ca6a5459b32b3e]: Textual amendment: Words in [Sch. 2 para. 2(b)(iii)](https://www.legislation.gov.uk/uksi/1999/1592/schedule/2/paragraph/2/b/iii) substituted (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060)](https://www.legislation.gov.uk/uksi/2005/2060), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2005/2060/article/1/2/f), [Sch. para. 14(3)](https://www.legislation.gov.uk/uksi/2005/2060/schedule/paragraph/14/3)
+
+[^key-18353f7dbd93436fe97a438c863aadc1]: Textual amendment: Words in [Sch. 2 para. 2(b)(iii)](https://www.legislation.gov.uk/uksi/1999/1592/schedule/2/paragraph/2/b/iii) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 77(3)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/77/3)
+
+[^key-9548a42a9bf331f6e864eb37a058882b]: Textual amendment: Words in [Sch. 2 para. 2(b)(iv)](https://www.legislation.gov.uk/uksi/1999/1592/schedule/2/paragraph/2/b/iv) substituted (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060)](https://www.legislation.gov.uk/uksi/2005/2060), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2005/2060/article/1/2/f), [Sch. para. 14(4)](https://www.legislation.gov.uk/uksi/2005/2060/schedule/paragraph/14/4)
+
+[^key-23e53972431f9c273ee836932d2e9d7c]: Textual amendment: Words in [Sch. 2 para. 2(b)(iv)](https://www.legislation.gov.uk/uksi/1999/1592/schedule/2/paragraph/2/b/iv) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 77(4)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/77/4)

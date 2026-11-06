@@ -1,0 +1,35 @@
+---
+title: Corporation Tax Act 2010, section 633
+act: Corporation Tax Act 2010
+section: '633'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/633
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 633
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 633. Exemption for interest on overpaid tax in final accounting period
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if, in the final accounting period of a company that is being wound up or is in administration, interest within subsection (2) arises to the company.
+
+(2) Interest within this subsection arises to a company if—
+
+- (a) the interest is received or is receivable by the company under section 826 of ICTA (interest on tax overpaid), and
+- (b) the interest does not exceed £2000.
+
+(3) The interest is excluded in calculating the company's income for corporation tax purposes.
+
+(4) In subsection (1) the “**final accounting period**” means—
+
+- (a) in the case of a company being wound up, the accounting period which ends, in accordance with section 12 of CTA 2009 (accounting periods of companies being wound up), with the completion of the winding up, and
+- (b) in the case of a company in administration, the last accounting period of the company before the dissolution event in respect of the company.

@@ -1,0 +1,107 @@
+---
+title: The Education (Residential Trips) (Prescribed Tax Credits) (England) Regulations 2003
+id: uksi/2003/381
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-02-27'
+text_date: '2011-04-06'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2003/381
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/381/pdfs/uksi_20030381_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/381/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Residential Trips) (Prescribed Tax Credits) (England) Regulations 2003
+
+> Text as at 2011-04-06.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2003 No. 381
+
+EDUCATION, ENGLAND
+
+The Education (Residential Trips) (Prescribed Tax Credits) (England) Regulations 2003
+
+Made
+
+27th February 2003
+
+Laid before Parliament
+
+7th March 2003
+
+Coming into force
+
+6th April 2003
+
+The Secretary of State for Education and Skills, in exercise of the powers conferred upon him by sections 457(4)(b)(iii), 569 and 579 of the Education Act 1996[^f00001] hereby makes the following Regulations:
+
+## 1. Citation, commencement, and extent[^key-1520c514968778050bd0b7fab2ec3883]
+
+(1) These Regulations may be cited as the Education (Residential Trips) (Prescribed Tax Credits) (England) Regulations 2003 and shall come into force on 6<sup>th</sup> April 2003.
+
+(2) These Regulations apply only in relation to England.
+
+## 2. Interpretation[^key-a864e8f76ccd5a4043865ba4612411ae]
+
+In these Regulations –
+
+- “the 1996 Act” means the Education Act 1996;
+- “Child Tax Credit” and “Working Tax Credit” have the same meaning as in the Tax Credits Act 2002[^f00002];
+- “annual income” means the income for the tax year calculated in accordance with the Tax Credits (Definition and Calculation of Income) Regulations 2002[^f00003].
+
+## 3. Prescribed tax credits[^key-b9cc2c7addfb69d617cdd3e445f6aacb]
+
+Child Tax Credit is prescribed for the purposes of section 457(4)(b)(iii) of the 1996 Act in circumstances where the pupil’s parent—
+
+- (a) is entitled to Child Tax Credit but not to Working Tax Credit; and
+- (b) is receiving Child Tax Credit by virtue of an award which is based on an annual income not exceeding £16,190.
+
+## 4. Prescribed benefit or allowance[^key-fe50fb7ec33e385fed3aae64f12e1ff2]
+
+Support provided under Part VI of the Immigration and Asylum Act 1999 is prescribed for the purposes of section 457(4)(b)(iii) of the 1996 Act.
+
+**5.**[^key-6874c3940eacbcd509b216d330c4b44c] State Pension Credit payable under section 1 of the State Pension Credit Act 2002 is prescribed for the purposes of section 457(4)(b)(iii) of the 1996 Act in circumstances where the parent is receiving the guarantee credit.
+
+Stephen Twigg
+
+Parliamentary Under Secretary of State
+
+Department for Education and Skills
+
+27th February 2003
+
+(This note is not part of the Regulations)
+
+Section 457 of the Education Act 1996 states that where a parent is in receipt of prescribed benefits or allowances their child is entitled to free board and lodging on a residential trip.
+
+These regulations prescribe for that purpose support under the Immigration and Asylum Act 1999, and Child Tax Credit in defined circumstances.
+
+The defined circumstances are that the parent must not be in receipt of Working Tax Credit, and that Child Tax Credit must be based on an annual income not exceeding the amount prescribed for the purposes of s.7(1)(a) of the Tax Credits Act 2002, currently £13,230 per annum.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 457(4)(b) was substituted by s.200 of the Education Act 2002.
+
+[^key-1520c514968778050bd0b7fab2ec3883]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2003/381/regulation/1) in force at 6.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/381/regulation/1/1)
+
+[^key-a864e8f76ccd5a4043865ba4612411ae]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/381/regulation/2) in force at 6.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/381/regulation/1/1)
+
+[^f00002]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
+
+[^f00003]: Footnote: S.I. [2002/2006](https://www.legislation.gov.uk/uksi/2002/2006).
+
+[^key-b9cc2c7addfb69d617cdd3e445f6aacb]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/381/regulation/3) substituted (6.4.2011) by [The Education (Residential Trips) (Prescribed Tax Credits) (England) (Amendment) Regulations 2011 (S.I. 2011/730)](https://www.legislation.gov.uk/uksi/2011/730), [regs. 1](https://www.legislation.gov.uk/uksi/2011/730/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/730/regulation/2)
+
+[^key-fe50fb7ec33e385fed3aae64f12e1ff2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/381/regulation/4) in force at 6.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/381/regulation/1/1)
+
+[^key-6874c3940eacbcd509b216d330c4b44c]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2003/381/regulation/5) inserted (30.4.2005) by [The Education (Residential Trips) (Prescribed Tax Credits) (England) (Amendment) Regulations 2005 (S.I. 2005/1014)](https://www.legislation.gov.uk/uksi/2005/1014), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1014/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2005/1014/regulation/2)

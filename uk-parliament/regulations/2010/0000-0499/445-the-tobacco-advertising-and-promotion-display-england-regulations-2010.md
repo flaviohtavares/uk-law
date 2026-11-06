@@ -1,0 +1,310 @@
+---
+title: The Tobacco Advertising and Promotion (Display) (England) Regulations 2010
+id: uksi/2010/445
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2010-02-23'
+text_date: '2015-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/445
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/445/pdfs/uksiem_20100445_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/445/pdfs/uksi_20100445_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/445/data.pdf
+pending_changes: 3
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tobacco Advertising and Promotion (Display) (England) Regulations 2010
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2015-04-06. See https://www.legislation.gov.uk/changes/affected/uksi/2010/445
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 445
+
+Public Health, England
+
+The Tobacco Advertising and Promotion (Display) (England) Regulations 2010
+
+Made
+
+23rd February 2010
+
+Laid before Parliament
+
+2nd March 2010
+
+Coming into force
+
+for the purpose of large shops other than bulk tobacconists
+
+1st October 2011
+
+for all other purposes
+
+1st October 2013
+
+The Secretary of State, in exercise of the powers conferred by sections 4(3), 7A(2), 7B(3) and 19(2) of the Tobacco Advertising and Promotion Act 2002[^f00001], makes the following Regulations:
+
+## 1. Citation, commencement and application[^key-e9c6a842c5f5ff73fabd44861efb0aff][^key-7c2e866fd3d8ff039dbbb84d5198b6f7]
+
+(1) These Regulations may be cited as the Tobacco Advertising and Promotion (Display) (England) Regulations 2010 and come into force—
+
+- (a) for the purpose of large shops, other than bulk tobacconists, on 6th April 2012[^key-27b9b271f1adcfecd46e13f4cecd28cc]; and
+- (b) for all other purposes, on 6th April 2015[^key-9d840ca28845380609eecc703fc9e8c1].
+
+(2) These Regulations apply in relation to England.
+
+(3) These Regulations do not apply to specialist tobacconists[^f00002].
+
+(4) For the purposes of this regulation—
+
+- “large shop” means a shop which has a relevant floor area exceeding 280 square metres; and
+- “relevant floor area”, in relation to a shop, means the internal floor area of so much of the shop as consists of, or is comprised in, a building but excluding any part of the shop which is used neither for the serving of customers in connection with the sale of goods nor for the display of goods.
+
+## 2. Interpretation[^key-1de07a7c15b18a8d2069afb2b0e7ceb1][^key-ac9c829745841b8e2d44453360c51cd6]
+
+(1) In these Regulations—
+
+- “the Act” means the Tobacco Advertising and Promotion Act 2002;
+- “area of storage unit” means the total area of the storage unit in which tobacco products and any other products are visible;
+- “bulk tobacconist” means a shop selling tobacco products (whether or not it also sells other products) whose sales of cigarettes or hand-rolling tobacco, measured in accordance with paragraph (2), comply with the following conditions—
+  - (a) at least 90% of its cigarette sales are in pre-packed quantities of 200 or more cigarettes in their original package, and the remainder in pre-packed quantities of 100 or more cigarettes in their original package; and
+  - (b) at least 90% of its hand-rolling tobacco sales are in pre-packed quantities with a weight of 250 grams or more in their original package, and the remainder in pre-packed quantities with a weight of 125 grams or more in their original package;
+- “original package” means the package in which the cigarettes or hand-rolling tobacco were supplied for the purpose of retail sale by the manufacturer or importer;
+- “package” means any box, carton or other container;
+- “premises” includes any place and any vehicle, vessel, hovercraft, stall or moveable structure;
+- “shop” means any premises where there is carried on a trade or business consisting wholly or mainly of the sale of goods;
+- “storage unit” means a gantry, cabinet or unit, tray, shelf or other product in which a tobacco product is held pending sale.
+
+(2) The sales referred to in the definition of “bulk tobacconist” are to be measured by sale price—
+
+- (a) during the most recent period of twelve months for which accounts are available; or
+- (b) during the period for which the shop has been established, if it has not been established long enough for twelve months’ accounts to be available.
+
+## 3. Meaning of place[^key-ae8b3796f1bfc6eaf8400e83a90ee589][^key-c5755c6247fe67687f15d3c9b6e8ea71]
+
+For the purposes of section 7A of the Act (prohibition of tobacco displays), “place” means a premises in England where tobacco products are offered for sale in the course of a business, other than premises—
+
+- (a) which are accessible only to persons who are engaged in, or employed by, a business which is part of the tobacco trade; and
+- (b) from which the prices of tobacco products are not visible from the outside of the premises.
+
+## 4. Display as a consequence of a requested display[^key-8c84c64efc54e0c5f5517ef3babcbc9d][^key-369bce746767b8857201250378623936]
+
+(1) This regulation applies where a requested display[^f00003] is made to an individual (“A”) aged 18 or over.
+
+(2) No offence is committed under section 7A(1) of the Act (prohibition of tobacco displays) by a display of tobacco products in a storage unit, to individuals other than A, if—
+
+- (a) the display—
+  - (i) is solely as a consequence of the requested display, and
+  - (ii) lasts for no longer than is necessary to remove the requested product from the storage unit; and
+- (b) the area of storage unit displayed does not exceed 1.5 *(Extent: E)*[^key-1e4641cf52776b96685f9e204a17521f] square metres.
+
+(3) No offence is committed under section 7A(1) of the Act (prohibition of tobacco displays) by a display of tobacco products other than in a storage unit, to individuals other than A, if the display—
+
+- (a) is solely as a consequence of the requested display; and
+- (b) lasts for no longer than the requested display.
+
+(4) In this regulation, “the requested product” means the product which A asked to purchase or for information about.
+
+## 5. Display in bulk tobacconists[^key-7c960c46948e7b5e0c90311047d518c9][^key-417bc0805fd04e6517e8aacc5c6fe924]
+
+(1) This regulation applies to displays in a bulk tobacconist.
+
+(2) No offence is committed under section 7A(1) of the Act (prohibition of tobacco displays) by a display of tobacco products if—
+
+- (a) the display is—
+  - (i) in a part of the shop (“the tobacco area”) containing tobacco products and smoking accessories only, and
+  - (ii) not visible from outside of the tobacco area;
+- (b) a notice displaying the following statement is exhibited at the entrance to the tobacco area—
+
+  > “It is illegal to sell tobacco products to anyone under the age of 18”
+
+  ; and
+- (c) the shop is designed so that customers who wish to buy products other than tobacco products and smoking accessories are not required or encouraged to pass through the tobacco area.
+
+(3) The dimensions of the notice to be exhibited in accordance with paragraph (2)(b) must be not less than 297 millimetres by 420 millimetres and the size of the statement to be displayed on the notice must be such that no character is less than 36 millimetres high.
+
+## 6. Incidental displays[^key-98775fb15f71db72e2c929509de6880f][^key-87c97995be5b023f21f402094a4ae780][^key-98775fb15f71db72e2c929509de6880f][^key-98775fb15f71db72e2c929509de6880f][^key-3a55ec618810500088d1ffe669d76e52]
+
+(1) No offence is committed under section 7A(of the Act (prohibition of tobacco displays) by a display of tobacco products in a storage unit if that display complies with the requirements of paragraph (2).
+
+(2) The requirements of this paragraph are that—
+
+- (a) the display—
+  - (i) occurs in the course of an activity listed in paragraph (3) being actively carried out in the ordinary course of business in relation to tobacco products;
+  - (ii) is solely as a consequence of that activity being carried out; and
+  - (iii) lasts for no longer than is necessary in order to allow that activity to be carried out; and
+- (b) the area of storage unit displayed does not exceed 1.5 square metres.
+
+(3) The activities referred to in paragraph (2)(a)(i) are—
+
+- (a) assessing stock levels for the purposes of stock control;
+- (b) restocking;
+- (c) staff training;
+- (d) cleaning of the storage unit;
+- (e) maintenance of the storage unit;
+- (f) refurbishment of the storage unit.
+
+(4) No offence is committed under section 7A(1) of the Act by a display of tobacco products outside a storage unit during restocking if—
+
+- (a) the tobacco products are displayed in the course of being placed in the storage unit only; and
+- (b) the display lasts for no longer than is necessary to place the products in the storage unit.
+
+## 7. Display to duly authorised officers of an enforcement authority etc[^key-feb7dea2313db643b2f68684ec6318ee][^key-cca37f54be6f329b2d0adc7dd7d52a72]
+
+No offence is committed under section 7A(1) of the Act (prohibition of tobacco displays) by a display of tobacco products if that display is requested by—
+
+- (a) a duly authorised officer of an enforcement authority;
+- (b) a constable; or
+- (c) an officer of Revenue and Customs,
+
+who is acting in the course of their duty.
+
+## 8. Storage units[^key-9404c2c95f6327a56093bcf1f9f57c67][^key-d594f636bb65b03e2141018ada901ead]
+
+(1) This regulation applies to indications on storage units of the tobacco products held in the storage unit.
+
+(2) No offence is committed under section 2 of the Act (prohibition of tobacco advertising) if the indication complies with the requirements of paragraph (3).
+
+(3) The requirements are that the indication—
+
+- (a) is limited to the following information in relation to tobacco products—
+  - (i) the brand name of the product,
+  - (ii) where pre-packed, the number of units in the packages or, where sold by weight, the net weight of the product,
+  - (iii) in relation only to cigars, the country of origin and dimensions,
+  - (iv) in relation only to pipe tobaccos, the cut and type of tobacco used, and
+  - (v) the price of the product;
+- (b) is printed—
+  - (i) in black Helvetica plain type on a white background,
+  - (ii) in a font size consistent throughout the text with characters which are no higher than 4 millimetres, and
+  - (iii) in lower case type, except that the first letter of a word may be in upper case type;
+- (c) does not exceed 9 square centimetres in size;
+- (d) is limited in number to one indication for each separate location in a storage unit where a particular tobacco product is held; and
+- (e) does not contain any other feature.
+
+(4) In paragraph (3)(e)—
+
+> “other feature” means a logo, trademark, symbol, motto, type-face, colour or pattern of colour, picture, artwork, imagery, appearance, message or other indication that constitutes all or part of the recognisable identity of a product, but does not include a bar code or stock number.
+
+## 9. Revocation[^key-b3b5e10839f6c29ce5608fe02fd0b1f7][^key-9b941b67f83c81fde839c7cea31ae3d4]
+
+The Tobacco Advertising and Promotion (Point of Sale) Regulations 2004[^f00004] are revoked.
+
+## 10. Review[^key-e38f0d8384d6206cc0cae448abb67436]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the provisions of these Regulations,
+- (b) set out the conclusions of the review in a report, and
+- (c) publish the report.
+
+(2) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system which is the subject of these provisions;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(3) The first report under this regulation must be published before the end of the period of five years beginning with 6th April 2015.
+
+(4) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
+
+Signed by authority of the Secretary of State for Health.
+
+Gillian Merron
+
+Minister of State,
+
+Department of Health
+
+23rd February 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for exemptions from the prohibition of tobacco displays imposed by section 7A(1) of the Tobacco Advertising and Promotion Act 2002 (“the Act”).
+
+These Regulations do not apply to specialist tobacconists (regulation 1(3)).
+
+Regulation 1 provides that these Regulations shall come into force on 1st October 2011 for large shops, other than bulk tobacconists, and on 1st October 2013 for all other purposes.
+
+Regulation 3 defines the meaning of “place” for the purposes of section 7A of the Act (prohibition of tobacco displays). It is defined as meaning premises in England where tobacco products are offered for sale in the course of a business, other than premises which are accessible only by persons engaged in, or employed by, the tobacco trade and which do not display the prices of tobacco products on the outside of the premises.
+
+Regulation 4 applies when there is a display of tobacco products to an individual following a particular request by the individual to purchase a tobacco product, or for information about a tobacco product; this is a “requested display” as defined in section 7B(8) of the Act (tobacco displays: exclusions and defence). No offence will be committed by a display of tobacco products to persons other than the individual who requested the display if the requirements in regulation 4 are met.
+
+Regulation 5 allows for displays of tobacco products in “bulk tobacconists”. “Bulk tobacconists” are defined (in regulation 2) to mean shops that do not sell cigarettes or hand-rolling tobacco in small units. Tobacco products may be displayed if they are in an area of the shop containing only tobacco products and smoking accessories and the requirements of regulation 5 are met.
+
+Regulation 6 allows for displays of tobacco products during restocking. Tobacco products may be displayed only whilst they are being placed in a unit in which they will be held pending sale (a “storage unit” defined in regulation 2). A limit is imposed on the area of the unit in which products may be visible during restocking.
+
+Regulation 7 allows for displays of tobacco products where such displays are requested by duly authorised officers of enforcement authorities, police officers or customs officers acting in the course of duty.
+
+Regulation 8 enables an indication on a storage unit of tobacco products held in the unit if the requirements in this regulation are met.
+
+The Tobacco Advertising and Promotion (Point of Sale) Regulations 2004, which permitted certain tobacco advertisements to be published at places where tobacco products are sold, are revoked. Section 2 of the Act prohibits tobacco advertising.
+
+A draft of these Regulations has been notified to the European Commission as a technical standard, pursuant to Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034) of the European Parliament and the Council (OJ No L204, 21.7.98, p37) laying down a procedure for the provision of information in the field of technical standards and regulations, as amended.
+
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector is available from the Tobacco Programme, Department of Health, Room 712, Wellington House, 133-155 Waterloo Road, London SE1 8UG and is annexed to the Explanatory Memorandum which is available alongside the instrument on the OPSI website (www.opsi.gov.uk).
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c.36](https://www.legislation.gov.uk/ukpga/2002/36). Section 4(3) was amended by [S.I. 2006/2369](https://www.legislation.gov.uk/uksi/2006/2369). Sections 7A and 7B were inserted by the Health Act [2009 (c.21)](https://www.legislation.gov.uk/ukpga/2009/21), section 21. The Secretary of State is the “appropriate Minister” in relation to England under section 21(1) of the Tobacco Advertising and Promotion Act 2002 (“the Act”), which was substituted by section 24 of, and paragraphs 2 and 12 of Schedule 4 to, the Health Act 2009.
+
+[^key-e9c6a842c5f5ff73fabd44861efb0aff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/445/regulation/1) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
+
+[^key-7c2e866fd3d8ff039dbbb84d5198b6f7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/445/regulation/1) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
+
+[^key-27b9b271f1adcfecd46e13f4cecd28cc]: Textual amendment: Words in [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a) substituted (30.6.2011) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2011 (S.I. 2011/1256)](https://www.legislation.gov.uk/uksi/2011/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1256/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2011/1256/regulation/2/a)
+
+[^key-9d840ca28845380609eecc703fc9e8c1]: Textual amendment: Words in [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b) substituted (30.6.2011) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2011 (S.I. 2011/1256)](https://www.legislation.gov.uk/uksi/2011/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1256/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2011/1256/regulation/2/b)
+
+[^f00002]: Footnote: *See* section 6(2) and (3) of the Act for the definition of “specialist tobacconist”.
+
+[^key-1de07a7c15b18a8d2069afb2b0e7ceb1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/445/regulation/2) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
+
+[^key-ac9c829745841b8e2d44453360c51cd6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/445/regulation/2) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
+
+[^key-ae8b3796f1bfc6eaf8400e83a90ee589]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/445/regulation/3) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
+
+[^key-c5755c6247fe67687f15d3c9b6e8ea71]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/445/regulation/3) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
+
+[^key-8c84c64efc54e0c5f5517ef3babcbc9d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/445/regulation/4) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
+
+[^key-369bce746767b8857201250378623936]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/445/regulation/4) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
+
+[^f00003]: Footnote: *See* section 7B(8) of the Act for the definition of “a requested display”.
+
+[^key-1e4641cf52776b96685f9e204a17521f]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2010/445/regulation/4) substituted (6.4.2012 for specified purposes) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2012 (S.I. 2012/677)](https://www.legislation.gov.uk/uksi/2012/677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/677/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2012/677/regulation/2/a)
+
+[^key-7c960c46948e7b5e0c90311047d518c9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/445/regulation/5) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
+
+[^key-417bc0805fd04e6517e8aacc5c6fe924]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/445/regulation/5) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
+
+[^key-98775fb15f71db72e2c929509de6880f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/445/regulation/6) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
+
+[^key-87c97995be5b023f21f402094a4ae780]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/445/regulation/6) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
+
+[^key-3a55ec618810500088d1ffe669d76e52]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/445/regulation/6) substituted (6.4.2012 for specified purposes, 6.4.2015 for specified purposes) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2012 (S.I. 2012/677)](https://www.legislation.gov.uk/uksi/2012/677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/677/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2012/677/regulation/2/b)
+
+[^key-feb7dea2313db643b2f68684ec6318ee]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/445/regulation/7) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
+
+[^key-cca37f54be6f329b2d0adc7dd7d52a72]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/445/regulation/7) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
+
+[^key-9404c2c95f6327a56093bcf1f9f57c67]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/445/regulation/8) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
+
+[^key-d594f636bb65b03e2141018ada901ead]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/445/regulation/8) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
+
+[^key-b3b5e10839f6c29ce5608fe02fd0b1f7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/445/regulation/9) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
+
+[^key-9b941b67f83c81fde839c7cea31ae3d4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/445/regulation/9) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
+
+[^f00004]: Footnote: [S.I. 2004/765](https://www.legislation.gov.uk/uksi/2004/765). There are no amendments to these Regulations.
+
+[^key-e38f0d8384d6206cc0cae448abb67436]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/445/regulation/10) inserted (6.4.2012 for specified purposes, 6.4.2015 for specified purposes) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2012 (S.I. 2012/677)](https://www.legislation.gov.uk/uksi/2012/677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/677/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2012/677/regulation/2/c)

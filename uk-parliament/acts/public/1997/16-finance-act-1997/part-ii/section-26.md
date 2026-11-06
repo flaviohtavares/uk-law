@@ -1,0 +1,77 @@
+---
+title: Finance Act 1997, section 26
+act: Finance Act 1997
+section: '26'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1997/16/section/26
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 1997, section 26
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/16
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 26. Registration of taxable intermediaries.
+
+*Extent: E+W+S+N.I.*
+
+After section 53 of the [^c14706961]Finance Act 1994 (registration of insurers) there shall be inserted—
+
+> **53AA. Registration of taxable intermediaries.**
+>
+> (1) A person who—
+>
+> - (a) is a taxable intermediary, and
+> - (b) is not registered,
+>
+> is liable to be registered.
+>
+> (2) The register kept under this section may contain such information as the Commissioners think is required for the purposes of the care and management of the tax.
+>
+> (3) A person who—
+>
+> - (a) at any time forms the intention of charging taxable intermediary’s fees, and
+> - (b) is not already charging such fees in the course of another business,
+>
+> shall notify the Commissioners of those facts.
+>
+> (4) A person who at any time—
+>
+> - (a) ceases to have the intention of charging taxable intermediary’s fees in the course of his business, and
+> - (b) has no intention of charging such fees in the course of another business of his,
+>
+> shall notify the Commissioners of those facts.
+>
+> (5) Where a person is liable to be registered by virtue of subsection (1) above, the Commissioners shall register him with effect from the time when he begins to charge taxable intermediary’s fees in the course of the business concerned; and it is immaterial whether or not he notifies the Commissioners under subsection (3) above.
+>
+> (6) Where a person—
+>
+> - (a) notifies the Commissioners under subsection (4) above, and
+> - (b) satisfies them of the facts there mentioned,
+>
+> the Commissioners shall cancel his registration with effect from the earliest practicable time after he ceases to charge taxable intermediary’s fees in the course of any business of his.
+>
+> (7) In a case where—
+>
+> - (a) the Commissioners are satisfied that a person has ceased to charge taxable intermediary’s fees in the course of any business of his, but
+> - (b) he has not notified them under subsection (4) above,
+>
+> they may cancel his registration with effect from the earliest practicable time after he so ceased.
+>
+> (8) For the purposes of this section regulations may make provision—
+>
+> - (a) as to the time within which a notification is to be made;
+> - (b) as to the form and manner in which any notification is to be made and as to the information to be contained in or provided with it;
+> - (c) requiring a person who has made a notification to notify the Commissioners if any information contained in or provided in connection with it is or becomes inaccurate;
+> - (d) as to the correction of entries in the register.
+>
+> (9) In this Part “**taxable intermediary’s fees**” means fees which, to the extent of any payment in respect of them, are chargeable to tax by virtue of section 52A above.
+
+## Annotations
+
+[^c14706961]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).

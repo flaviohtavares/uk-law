@@ -1,0 +1,134 @@
+---
+title: The Plant Health (Forestry) (Great Britain) (Amendment) Order 1996
+id: uksi/1996/751
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1996-03-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1996/751
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1996/751/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Plant Health (Forestry) (Great Britain) (Amendment) Order 1996
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1996 No. 751
+
+PLANT HEALTH
+
+The Plant Health (Forestry) (Great Britain) (Amendment) Order 1996
+
+Made
+
+8th March 1996
+
+Laid before Parliament
+
+12th March 1996
+
+Coming into force
+
+2nd April 1996
+
+The Forestry Commissioners, in exercise of the powers conferred on them by sections 2 and 3 of the Plant Health Act 1967[^f00001] and of all other powers enabling them in that behalf, hereby making the following Order:
+
+## 1. Title and commencement
+
+This Order may be cited as the Plant Health (Forestry) (Great Britain) (Amendment) Order 1996 and shall come into force on 2nd April 1996.
+
+## 2. Amendment of the Plant Health (Forestry) (Great Britain) Order 1993
+
+The Plant Health (Forestry) (Great Britain) Order 1993[^f00002] shall be amended in accordance with the provisions of articles 3 to 8 below.
+
+**3.** In article 2(1) (interpretation) after the definition of “Directive [77/93/EEC](https://www.legislation.gov.uk/european/directive/1977/0093)” there shall be added the following definition—
+
+> - “Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044)” means Commission Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044)[^f00003] establishing the conditions under which certain harmful organisms, plants, plant products and other objects listed in Annexes I to V to Council Directive [77/93/EEC](https://www.legislation.gov.uk/european/directive/1977/0093) may be introduced into or moved within the Community or certain protected zones thereof, for trial or scientific purposes and for work on varietal selections;
+
+.
+
+**4.** After article 28 there shall be added the following new article—
+
+> **28A. Licences for trial or scientific purposes and for work on varietal selections**
+>
+> (1) On receipt of an application containing the information set out in article 1(2) of Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044) and on being satisfied that the general conditions set out in Annex I to Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044) are fulfilled, the Commissioners shall by licence authorise the landing, movement or keeping of any tree pest or relevant material for activities for trial or scientific purposes or for work on varietal selections where such landing, movement or keeping would otherwise be prohibited by this Order, and it shall not be an offence to land, move or keep anything under the authority of such a licence.
+>
+> (2) A licence granted under paragraph (1) above shall be subject to—
+>
+> - (a) the conditions laid down in article 2(2) of Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044) to the extent that they are relevant to any tree pest or relevant material that is the subject of the activities to which the licence relates;
+> - (b) such conditions specifying quarantine measures under paragraph 2(a) of Annex I to Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044) as the Commissioners may determine;
+> - (c) such conditions specifying further quarantine measures under paragraph 2(b) of Annex I to Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044) as the Commissioners may determine; and
+> - (d) such additional conditions as the Commissioners may specify.
+>
+> (3) At the conclusion of any activities to which a licence granted under paragraph (1) above relates the licensee shall—
+>
+> - (a) subject to paragraph (4) below, destroy or sterilise any tree pest or relevant material that was the subject of the activities and any other relevant material which has come into contact with or which may have been contaminated by any such tree pest or relevant material; and
+> - (b) sterilise, or clean in such other manner as may be specified by an inspector, the premises and facilities at which the activities were undertaken.
+>
+> (4) An inspector may authorise the licensee to refrain from destroying any relevant material under paragraph (3)(a) above if he is satisfied that it has been subjected to appropriate quarantine measures and that it has been found by testing in such manner as may be specified by an inspector to be free from tree pests listed in this Order and from other tree pests considered by the inspector issuing the authority to pose a risk.
+>
+> (5) For the purposes of paragraph (2) above, references to the responsible official body in article 2(2) of, and Annex I to, Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044) shall be taken to refer to the Commissioners.
+>
+> (6) In paragraph (4) above “appropriate quarantine measures” means such quarantine measures as may be specified by an inspector.
+
+.
+
+**5.** In Parts B and C of Schedule 4 for the references to article 4(1) wherever they appear there shall be substituted references to article 4.
+
+**6.** In Part B of Schedule 5—
+
+- (a) in column 4 opposite items numbers 1, 4, 5, 9, 10, 12, 13, 16, 17, 18, 19 and 29 there shall be deleted the word “Spain,”;
+- (b) in column 4 opposite item number 2 there shall be deleted the word “Spain” and for the word “Jersey” there shall be substituted the words “the Channel Islands”;
+- (c) in column 4 opposite items numbers 3, 11 and 21 there shall be deleted the words “Greece,” and “Spain,”;
+- (d) for the words “conifers (Coniferales)” in column 2 opposite items numbers 9, 11 and 13 there shall be substituted the words “*Abies* Mill., *Larix* Mill., *Picea* A. Dietr., *Pinus* L. and *Pseudotsuga* Carr.”;
+- (e) for the words “conifers (Coniferales)” in column 2 opposite items numbers 10, 12, 14 and 15 there shall be substituted the words “*Abies* Mill., *Larix* Mill., *Picea* A. Dietr. and *Pinus* L.”;
+- (f) in column 4 opposite item number 28 there shall be inserted at the end the words “, France (Brittany), Finland and Sweden”.
+
+**7.** In Schedule 6 there shall be inserted at the end the following—
+
+> ; and
+>
+> **4.** Greater London.
+
+**8.** In Schedule 7 there shall be inserted at the end the following—
+
+> |  |  |
+> | --- | --- |
+> | Council Decision [95/1/EC](https://www.legislation.gov.uk/european/decision/1995/0001) | OJ No. L1, 1.1.95, p.1. |
+> | Commission Directive [95/40/EC](https://www.legislation.gov.uk/european/directive/1995/0040) | OJ No. L182, 2.8.95, p.14. |
+> | Commission Directive [95/41/EC](https://www.legislation.gov.uk/european/directive/1995/0041) | OJ No. L182, 2.8.95, p.17. |
+> | Commission Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044) | OJ No. L184, 3.8.95, p.34. |
+
+In witness whereof the Official Seal of the Forestry Commissioners is hereunto affixed on
+
+T J D Rollinson
+
+Secretary to the Forestry Commissioners
+
+8th March 1996
+
+(This note is not part of the Order)
+
+This Order amends the Plant Health (Forestry) (Great Britain) Order 1993 to provide for the granting of licences by the Forestry Commissioners in accordance with the requirements of Commission Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044) establishing the conditions under which certain harmful organisms, plants, plant products and other objects listed in Annexes I to V to Council Directive [77/93/EEC](https://www.legislation.gov.uk/european/directive/1977/0093) may be introduced into or moved within the Community or certain protected zones thereof, for trial or scientific purposes and for work on varietal selections (OJ No. L184, 3.8.95, p.34). The Order provides for the granting of licences authorising the landing, movement and keeping of material that would otherwise be prohibited and controls the use of such material (article 4).
+
+The Order also amends the recognized protected zones described in Schedule 5, Part B to the Plant Health (Forestry) (Great Britain) Order 1993—
+
+- (a) to implement Council Decision [95/1/EC](https://www.legislation.gov.uk/european/decision/1995/0001) adjusting the instruments concerning the accession of new Member States to the European Union (OJ No. L1, 1.1.95, p.1); and
+- (b) to reflect changes in the recognized protected zones agreed in accordance with the procedure laid down by Council Directive [77/93/EEC](https://www.legislation.gov.uk/european/directive/1977/0093) on protective measures against the introduction into the Community of organisms harmful to plants or plant products and against their spread within the Community (OJ No. L26, 31.1.77, p.20), as amended (article 6).
+
+Two minor corrections are also made (articles 5 and 7).
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c. 8](https://www.legislation.gov.uk/ukpga/1967/8); sections 2(1) and 3(1) and (2) were amended by the European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), section 4(1) and Schedule 4, paragraph 8; section 3(4) was substituted by section 42 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48).
+
+[^f00002]: Footnote: S.I. [1993/1283](https://www.legislation.gov.uk/uksi/1993/1283), amended by S.I. [1994/3094](https://www.legislation.gov.uk/uksi/1994/3094) and [1995/1989](https://www.legislation.gov.uk/uksi/1995/1989).
+
+[^f00003]: Footnote: OJ No. L184, 3.8.95, p.34.

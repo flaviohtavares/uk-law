@@ -1,0 +1,105 @@
+---
+title: The Child Support (Maintenance Assessments and Special Cases) Amendment Regulations 1993
+id: uksi/1993/925
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1993-03-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1993/925
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1993/925/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support (Maintenance Assessments and Special Cases) Amendment Regulations 1993
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1993 No. 925
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+The Child Support (Maintenance Assessments and Special Cases) Amendment Regulations 1993
+
+Made
+
+30th March 1993
+
+Laid before Parliament
+
+5th April 1993
+
+Coming into force
+
+26th April 1993
+
+The Secretary of State for Social Security, in exercise of the powers conferred by section 51(1) of the Child Support Act 1991[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Child Support (Maintenance Assessments and Special Cases) Amendment Regulations 1993 and shall come into force on 26th April 1993.
+
+## 2. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations
+
+(1) The Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^f00002] shall be amended in accordance with the following provisions of this regulation.
+
+(2) For paragraph (3) of regulation 28 there shall be substituted the following paragraph—
+
+> (3) Subject to paragraph (4), where—
+>
+> - (a) an absent parent is liable under section 43 of the Act and this regulation to make payments in place of payments of child support maintenance with respect to two or more qualifying children in relation to whom there is more than one parent with care; or
+> - (b) that absent parent and his partner (within the meaning of regulation 2(1) of the Social Security (Claims and Payments) Regulations 1987[^f00003]) are both liable to make such payments,
+>
+> the prescribed amount mentioned in paragraph (2) shall be apportioned between the persons with care in the same ratio as the maintenance requirements of the qualifying child or children in relation to each of those persons with care bear to each other.
+
+.
+
+(3) In Schedule 5—
+
+- (i) for paragraph 1 there shall be substituted the following paragraph—
+
+  > **1.** In this Schedule—
+  >
+  > - (a) “relevant decision” means a decision of a child support officer given under section 43 of the Act (contribution to maintenance by deduction from benefit) and regulation 28; and
+  > - (b) “relevant person” has the same meaning as in regulation 1(2) of the Maintenance Assessment Procedure Regulations.
+
+  ;
+- (ii) in paragraph 4(1)(a) the words “(within the meaning of regulation 1(2) of the Maintenance Assessment Procedure Regulations)” shall be omitted;
+- (iii) in paragraph 5(b) for the words “that paragraph” there shall be substituted the words “paragraph 6”; and
+- (iv) after paragraph 7 there shall be inserted the following paragraph—
+
+  > **7A.** If, on a review under paragraph 2, 3, or 6, the relevant decision is revised (“the revised decision”) the revised decision shall have effect—
+  >
+  > - (a) if the revised decision is that no payments such as are mentioned in section 43 of the Act are to be made, from the date on which the event giving rise to the review occurred; or
+  > - (b) if the revised decision is that such payments are to be made, from the date on which the revised decision is given.
+
+  .
+
+Signed by authority of the Secretary of State for Social Security.
+
+Alistair Burt
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+30th March 1993
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the Child Support (Maintenance Assessments and Special Cases) Regulations 1992 in relation to the way in which payments in place of payments of child support maintenance under section 43 of the Child Support Act are to be apportioned in cases where there is more than one person with care. Provision is also made for the date when a decision given on review of a decision relating to such payments is to have effect.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48).
+
+[^f00002]: Footnote: S.I. [1992/1815](https://www.legislation.gov.uk/uksi/1992/1815); Schedule 5 was added by regulation 26 of, and the Schedule to S.I. [1993/913](https://www.legislation.gov.uk/uksi/1993/913).
+
+[^f00003]: Footnote: S.I. [1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).

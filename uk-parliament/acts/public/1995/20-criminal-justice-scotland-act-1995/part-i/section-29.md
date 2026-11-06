@@ -1,0 +1,49 @@
+---
+title: Criminal Justice (Scotland) Act 1995, section 29
+act: Criminal Justice (Scotland) Act 1995
+section: '29'
+status: repealed
+text_date: '1997-08-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1995/20/section/29
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice (Scotland) Act 1995, section 29
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 29. Proof of previous convictions.
+
+*Extent: S*
+
+**No longer in force (ended 1996-04-01).**
+
+(1) In section 162 of the 1975 Act (admissibility and proof of extract convictions in solemn proceedings), after subsection (3) there shall be inserted the following subsections—
+
+> (4) Without prejudice to subsections (1) to (3) above, where proof of a previous conviction is competent in support of a substantive charge, any such conviction or an extract of it shall, if—
+>
+> - (a) it purports to relate to the accused and to be signed by the clerk of court having custody of the record containing the conviction; and
+> - (b) a copy of it has been served on the accused not less than 14 days before the trial diet,
+>
+> be sufficient evidence of the application of the conviction to the accused unless, within seven days of the date of service of the copy on him, he serves notice on the prosecutor that he denies that it applies to him.
+>
+> (5) A copy of a conviction or extract conviction served under subsection (4) above shall be served on the accused in such manner as may be prescribed by Act of Adjournal, and a written execution purporting to be signed by the person who served the copy together with, where appropriate, the relevant post office receipt shall be sufficient evidence of service of the copy.
+
+.
+
+(2) In section 357 of that Act (previous convictions in summary proceedings), after subsection (5) there shall be inserted the following subsections—
+
+> (6) Without prejudice to subsections (1) to (3) above, where proof of a previous conviction is competent in support of a substantive charge, any such conviction or an extract of it shall, if—
+>
+> - (a) it purports to relate to the accused and to be signed by the clerk of court having custody of the record containing the conviction; and
+> - (b) a copy of it has been served on the accused not less than 14 days before the trial diet,
+>
+> be sufficient evidence of the application of the conviction to the accused unless, within seven days of the date of service of the copy on him, he serves notice on the prosecutor that he denies that it applies to him.
+>
+> (7) A copy of a conviction or extract conviction served under subsection (6) above shall be served on the accused in such manner as may be prescribed by Act of Adjournal, and a written execution purporting to be signed by the person who served the copy together with, where appropriate, the relevant post office receipt shall be sufficient evidence of service of the copy.
+
+.

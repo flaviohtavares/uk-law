@@ -1,0 +1,25 @@
+---
+title: Local Government Act 1974, section 37
+act: Local Government Act 1974
+section: '37'
+status: revised-with-pending-changes
+text_date: '2026-10-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1974/7/section/37
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government Act 1974, section 37
+
+> **Warning: changes not yet applied to this text (50).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/7
+>
+> Extent: England, Wales.
+
+## 37. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c780384]
+
+*Extent: E+W*
+
+## Annotations
+
+[^c780384]: Textual amendment: S. 37 repealed by [Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61)](https://www.legislation.gov.uk/ukpga/1985/71), [ss. 3](https://www.legislation.gov.uk/ukpga/1985/71/section/3), [6](https://www.legislation.gov.uk/ukpga/1985/71/section/6), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1985/71/schedule/1/part/I)

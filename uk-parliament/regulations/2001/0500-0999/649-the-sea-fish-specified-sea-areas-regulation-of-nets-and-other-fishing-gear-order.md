@@ -1,0 +1,330 @@
+---
+title: The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) Order 2001
+id: uksi/2001/649
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-02-28'
+text_date: '2020-12-31'
+extent: E+W+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2001/649
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/649/pdfs/uksi_20010649_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/649/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) Order 2001
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Northern Ireland.
+
+*Extent: E+W+N.I.*
+
+2001 No. 649
+
+SEA FISHERIES, ENGLAND
+
+SEA FISHERIES, NORTHERN IRELAND
+
+CONSERVATION OF SEA FISH
+
+The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) Order 2001
+
+Made
+
+28th February 2001
+
+Laid before Parliament
+
+5th March 2001
+
+Coming into force
+
+(except article 6)
+
+2nd April 2001
+
+(article 6)
+
+16th April 2001
+
+The Minister of Agriculture, Fisheries and Food and the Secretary of State concerned with the sea fishing industry in Northern Ireland, acting jointly, in exercise of the powers conferred on them by sections 3 and 15(3) of the Sea Fish (Conservation) Act 1967[^f00001], and of all other powers enabling them in that behalf, hereby make the following Order:
+
+## 1. Title, commencement and extent[^key-2ab125a9ebe321c9de69bdc2332e644d]
+
+(1) This Order may be cited as the Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) Order 2001 and shall come into force—
+
+- (a) except for article 6, on 2nd April 2001;
+- (b) in the case of article 6, on 16th April 2001.
+
+(2) Subject to paragraph (3), this Order shall not form part of the law of Scotland.
+
+(3) Nothing in paragraph (2) shall be treated as prejudicing the effect in Scotland of section 14 of the Sea Fish (Conservation) Act 1967[^f00002] in relation to, or for purposes incidental to, any provision in this Order which creates an offence.
+
+## 2. Interpretation[^key-16eb630b251c14a0cf26cd841ac54c25]
+
+(1) In this Order—
+
+- “beam trawler” means a fishing boat which, in so far as it carries or uses nets, carries or uses only nets which are designed to be towed along the sea-bed and which have their mouth extended by a beam, bar or other rigid device;
+- “codend” means the rearmost part of a net, being made up of one or more panels (pieces of netting) of the same mesh size attached to one another along their sides in the long axis of the net by a lacing;
+- “codline” means a rope making it possible to close the rear of the codend by means of either a knot which can be easily loosened or a mechanical device;
+- “the Council Regulation” means Council Regulation *(Extent: E+W)* *(affected by repeal, see note)*[^key-b95ac6ed517a8fa9ce7987a778062cf7] [( *(Extent: E+W)* *(affected by repeal, see note)*EC *(Extent: E+W)* *(affected by repeal, see note)*) No 850/98 *(Extent: E+W)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/1998/0850)[^key-b95ac6ed517a8fa9ce7987a778062cf7][^key-b95ac6ed517a8fa9ce7987a778062cf7][^key-b95ac6ed517a8fa9ce7987a778062cf7] for the conservation of fishery resources through technical measures for the protection of juveniles of marine organisms, as last amended by Regulation (EU) 2015/812 of the European Parliament and of the Council[^M_F_77c1c0c6-70e2-473d-84f0-cb8e9075c6dc] *(Extent: E+W)* *(affected by repeal, see note)*[^key-b95ac6ed517a8fa9ce7987a778062cf7]; *(Extent: E+W)* *(affected by repeal, see note)*[^key-b95ac6ed517a8fa9ce7987a778062cf7]
+- “the Council Regulation” means Council Regulation *(Extent: E+W)* [( *(Extent: E+W)*EC *(Extent: E+W)*) *(Extent: E+W)* No. *(Extent: E+W)* 850/98 *(Extent: E+W)*](https://www.legislation.gov.uk/european/regulation/1998/0850) for the conservation of fishery resources through technical measures for the protection of juveniles of marine organisms *(Extent: E+W)* , as last amended by Regulation (EU) 2015/812 of the European Parliament and of the Council[^M_F_65f29eb6-3004-4527-9996-e45a51059300] *(Extent: E+W)*; *(Extent: E+W)*
+- “equivalent order” means an order extending to Scotland or having effect in relation to Wales made under section 3 of the Sea Fish (Conservation) Act 1967 pursuant to Article 46 of the Council Regulation in so far as it contains requirements relating to the incorporation of square mesh panels into nets or the thickness of twine to be used in their construction;
+- “extension piece” means an extension piece located immediately in front of the codend and excludes any tapered part of the net; *(Extent: E+W)* *(affected by repeal, see note)*[^key-be9888029338a1d0e0ebe45a8065a34f]
+- “ICES” followed by a roman numeral with or without a letter shall be construed as a reference to whichever of the statistical sub-areas and divisions of the International Council for the Exploration of the Sea[^f00010] described in the Schedule is identified therein by that roman numeral or that roman numeral and letter as the case may be;
+- “net” means a trawl, Danish seine or similar towed net;
+- “Regulation 517/2008” means[^M_F_077657ca-0fbd-4f30-f0af-f370ef41c893] [Commission Regulation (EC) No 517/2008](https://www.legislation.gov.uk/european/regulation/2008/0517) laying down detailed rules for the implementation of the Council Regulation;
+
+any other expression used in the Council Regulation has the same meaning in this Order as in that Regulation.
+
+(2) In this Order—
+
+- (a) the term “within relevant British fishery limits” does not include—
+  - (i) the territorial sea adjacent to Wales;
+  - (ii) the territorial sea adjacent to the Isle of Man;
+  - (iii) the territorial sea adjacent to the Bailiwick of Jersey; and
+  - (iv) seas within British fishery limits adjacent to Guernsey, as defined by section 8 of the Fishery Limits Act 1976[^f00013];
+- (b) any reference to any relevant British fishing boat “wherever it may be” does not include such a fishing boat while in the territorial sea adjacent to Wales.
+
+(3) Unless the context otherwise requires, any reference in this Order—
+
+- (a) to a numbered article is a reference to that article bearing that number in this Order;
+- (b) to “the Schedule” is a reference to the Schedule to this Order.
+
+(4) For the purposes of this Order, a net shall be deemed to have been carried in a boat for the purpose of fishing for Norway lobsters *(Nephrops norvegicus)*, and a boat shall be deemed to have been fishing for Norway lobsters, if the catch retained on board that boat includes—
+
+- (a) in the case of a net which has a mesh size in the range 70 to 79 millimetres, at least 35% by weight of Norway lobsters and other marine organisms identified in Annex I to the Council Regulation as target species for a net of that mesh size;
+- (b) in the case of a net which has a mesh size in the range 80 to 99 millimetres, at least 30% by weight of Norway lobsters and other marine organisms identified in Annex I to the Council Regulation as target species for a net of that mesh size.
+
+(5) Where detached Norway lobster tails are retained on board a boat, the equivalent weight of the whole Norway lobsters shall be taken into account for the purpose of paragraph (4) above, and that equivalent weight shall be obtained by multiplying the weight of the tails by 3.
+
+(6) For the purposes of this Order, a net shall be deemed to have been carried in a boat for the purpose of fishing for queen scallops *(Chlamys opercularis)*, and a boat shall be deemed to have been fishing for queen scallops, if at least 80% by weight of the total catch retained on board that boat comprises queen scallops.
+
+## 3. Application and Exemptions[^M_E_4dd0e85f-a78f-447f-c376-14af5f88d08e][^key-9b36cbb20ae82bfa9e36ec4743a305c8]
+
+*Extent: E+W*
+
+(1) Subject to paragraph (3), article 4 applies[^key-c51604da57d4c86ed6515bdd18a69683] to any net carried in, or used by, any relevant British fishing boat in ICES IIa south of 64° north latitude and east of 4° west longitude (Norwegian Sea), ICES IV (North Sea) or ICES VI (Rockall and West of Scotland).
+
+(1A)[^key-232fe8b669fde0fab749b88bf21fd366] Subject to paragraph (3), article 4 applies to any net carried in, or used by, any foreign fishing boat in waters that are—
+
+- (a) within the area mentioned in paragraph (1), and
+- (b) within relevant British fishery limits.
+
+In the law of Northern Ireland, the reference in this paragraph to article 4 includes a reference to article 6.
+
+(2) Subject to paragraph (3), article 4 applies[^key-11ef6af90ff8721c3633dc343b4803d0] to any net carried in, or used by, any Scottish fishing boat when within any part of ICES IV (North Sea) or ICES VI (Rockall and West of Scotland) which is within relevant British fishery limits.
+
+(3) Article 4 does not apply[^key-6b92626e92ceeb1665d310ed10a8994a] to any net that is—
+
+- (a) carried in, or used by, a beam trawler;
+- (b) carried properly lashed and stowed in such a way that it may not be readily used; or
+- (c) carried in, or used by, a boat for the purpose of fishing for queen scallops.
+
+## 3. Application and Exemptions[^M_E_bf56a429-6681-4b49-a7ed-4c113d61ed12][^V_NI_30a68740-8bbd-12f7-4111-2b43546c484c]
+
+*Extent: N.I.*
+
+(1) Subject to paragraph (3), articles 4 and 6 apply to any net carried in, or used by, any relevant British fishing boat in ICES IIa south of 64° north latitude and east of 4° west longitude (Norwegian Sea), ICES IV (North Sea) or ICES VI (Rockall and West of Scotland).
+
+(1A)[^V_NI_32fe420a-a324-386d-a4f0-a4e15b95d1f1] Subject to paragraph (3), article 4 applies to any net carried in, or used by, any foreign fishing boat in waters that are—
+
+- (a) within the area mentioned in paragraph (1), and
+- (b) within relevant British fishery limits.
+
+In the law of Northern Ireland, the reference in this paragraph to article 4 includes a reference to article 6.
+
+(2) Subject to paragraph (3), articles 4 and 6 apply to any net carried in, or used by, any Scottish fishing boat when within any part of ICES IV (North Sea) or ICES VI (Rockall and West of Scotland) which is within relevant British fishery limits.
+
+(3) Articles 4 and 6 do not apply to any net that is—
+
+- (a) carried in, or used by, a beam trawler;
+- (b) carried properly lashed and stowed in such a way that it may not be readily used; or
+- (c) carried in, or used by, a boat for the purpose of fishing for queen scallops.
+
+## 4. Square mesh panels[^key-ba0d7d1dc94b521afa2e2c6ce8bc613b]
+
+Any net to which this article applies which has a mesh size in the range 70 to 119 millimetres shall have incorporated in it as part of the net a square mesh panel which —
+
+- (a) has a mesh size of not less than 90 millimetres, and
+- (b) in its entirety is no more than 12 metres from the codline or, where the net is carried in or used by a boat for the purpose of fishing for Norway lobsters, no more than 18 metres from the codline.
+
+## 5. Measurement of mesh size of nets[^key-6e6fb44a64d8516dfeab491f06309c3f]
+
+For the purposes of this Order, the mesh size of nets shall be measured in accordance with the provisions of Regulation 517/2008.
+
+## 6. Twine thickness requirements[^M_E_9bcd8909-9832-4f4b-a810-e0179b87ca03][^key-65de4b4b6a8a6e3d0aa8ce858097bfbc]
+
+*Extent: E+W*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Twine thickness requirements[^M_E_ab5430c1-2f38-4b35-c71b-21def77e13f0][^V_NI_2d2dd6bf-4db9-5607-a837-f7ecd9012b36]
+
+*Extent: N.I.*
+
+(1) Where any net to which this article applies is constructed wholly or in part in the codend, extension piece or square mesh panel of multiple twine netting, the sum of the thicknesses of the multiple twines on any side of any mesh shall not exceed 10 millimetres.
+
+(2) Where any net to which this article applies is carried or used for the purposes of fishing for Norway lobsters the codend, extension piece and any square mesh panel shall be constructed of single twine of a thickness not exceeding 4 millimetres.
+
+## 7. Powers of British sea-fishery officers in relation to fishing boats[^key-acec27c520e476b2ff1b1283ff743358]
+
+(1) For the purpose of the enforcement of this Order or any equivalent order, a British sea-fishery officer may exercise the powers conferred by this article in relation to—
+
+- (a)[^key-cc6ba8a68c59299313c38cce0dae95c4] a relevant British fishing boat that is registered in the United Kingdom or is British-owned, wherever it may be;
+- (b) any other fishing boat, in any waters adjacent to the United Kingdom and within relevant British fishery limits.
+
+(2) He may go on board the boat, with or without persons assigned to assist him in his duties, and for that purpose may require the boat to stop and do anything else which will facilitate the boarding of the boat.
+
+(3) He may require the attendance of the master and other persons on board the boat and may make any examination and inquiry which appears to him to be necessary for the purpose mentioned in paragraph (1) above and, in particular—
+
+- (a) may examine any fish on the boat and the equipment of the boat, including the fishing gear, and require persons on board the boat to do anything which appears to him to be necessary for facilitating the examination;
+- (b) may require any person on board the boat to produce any document relating to the boat, to its fishing operations or other operations ancillary thereto or to the persons on board which is in his custody or possession and may take copies of any such document.
+- (c) for the purpose of ascertaining whether the master, owner or charterer of the boat has committed an offence under section 3(5) of the Sea Fish (Conservation) Act 1967 as read with this Order, may search the boat for any such document and may require any person on board the boat to do anything which appears to the officer to be necessary for facilitating the search; and
+- (d) where the boat is one in relation to which he has reason to suspect that such an offence has been committed, may seize and detain any such document produced to him or found on board for the purpose of enabling the document to be used as evidence in proceedings for the offence;
+
+but nothing in sub-paragraph (d) above shall permit any document required by law to be carried on board the boat to be seized and detained except while the boat is detained in a port.
+
+(4) Where it appears to a British sea-fishery officer that a contravention of this Order has at any time taken place within British fishery limits, he may—
+
+- (a) require the master of the boat in relation to which the contravention took place to take, or may himself take, the boat and its crew to the port which appears to him to be the nearest convenient port; and
+- (b) detain or require the master to detain the boat in the port.
+
+(5) Where such an officer detains or requires the detention of a boat under this article he shall serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea-fishery officer.
+
+## 8. Amendment of the Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) Order 1991[^key-5b6a9c11371e4c0c0ac2c4dbec185d38]
+
+(1) The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) Order 1991[^f00014] shall be amended in accordance with paragraphs (2) and (3) below.
+
+(2) In article 4 thereof (Regulation of carriage and use of nets)—
+
+- (a) the words “ICES VI south of a line drawn westwards from the east coast of the Sound of Jura at 56° north latitude (Rockall and West of Scotland) or” shall be omitted;
+- (b) paragraph (2) shall be omitted.
+
+(3) In the Schedule thereto (sub-areas and divisions of the International Council for the Exploration of the Sea) the entries relating to ICES Statistical Division IIa (Norwegian Sea), ICES Statistical Sub-Area IV (North Sea) and ICES Statistical Sub-Area VI (Rockall and West of Scotland) shall be omitted.
+
+Elliot Morley
+
+Parliamentary Secretary, Ministry of Agriculture, Fisheries and Food
+
+28th February 2001
+
+Dr John Reid
+
+Secretary of State for Northern Ireland
+
+28th February 2001
+
+## SCHEDULE — STATISTICAL SUB-AREAS AND DIVISIONS OF THE INTERNATIONAL COUNCIL FOR THE EXPLORATION OF THE SEA[^key-9dfaf9edfbdd4cc33e60ca46571c0bc5]
+
+Article 2(1)
+
+### ICES Statistical Division IIa (Norwegian Sea)
+
+[^key-9dfaf9edfbdd4cc33e60ca46571c0bc5]
+
+The waters bounded by a line beginning at a point on the coast of Norway in 62° 00' north latitude; thence due west to 4° 00' west longitude; thence due north to 63° 00' north latitude; thence due west to 11° 00' west longitude; thence due north to 73° 30' north latitude; thence due east to 30° 00' east longitude; thence due south to 72° 00' north latitude; thence due west to 26° 00' east longitude; thence due south to the coast of Norway; thence in a westerly and south-westerly direction along the coast of Norway to the point of beginning.
+
+### ICES Statistical Sub-Area IV (North Sea)
+
+[^key-9dfaf9edfbdd4cc33e60ca46571c0bc5]
+
+The waters bounded by a line beginning at a point on the coast of Norway in 62° 00' north latitude; thence due west to 4° 00' west longitude; thence due south to the coast of Scotland; thence in an easterly and southerly direction along the coasts of Scotland and England to a point in 51° 00' north latitude; thence due east to the coast of France; thence in a north-easterly direction along the coasts of France, Belgium, the Netherlands and the Federal Republic of Germany to the western terminus of its boundary with Denmark; thence along the west coast of Jutland to Thyboron; thence in a southerly and easterly direction along the south coast of the Limfjord to Egensekloster Point; thence across the eastern entrance of the Limfjord to Hals; thence in a westerly direction along the north coast of Limfjord to the southernmost point of Agger Tange; thence in a northerly direction along the west coast of Jutland to a point in 57° 00' north latitude; thence due west to 8° 00' east longitude; thence due north to 57° 30' north latitude; thence due west to 7° 00' east longitude; thence due north to the coast of Norway; thence in a north-westerly direction along the coast of Norway to the point of beginning.
+
+###  . ICES Statistical Sub-Area VI (Rockall and West of Scotland)
+
+[^key-9dfaf9edfbdd4cc33e60ca46571c0bc5]
+
+The waters bounded by a line beginning at a point on the north coast of Scotland in 4° 00′ west longitude; thence due north to 60° 30′ north latitude; thence due west to 5° 00′ west longitude; thence due south to 60° 00′ north latitude, thence due west to 18° 00′ west longitude; thence due south to 54° 30′ north latitude; thence due east to the coast of the Republic of Ireland; thence in a northerly and easterly direction along the coasts of the Republic of Ireland and of Northern Ireland to a point on the east coast of Northern Ireland in 55° 00′ north latitude; thence due east to the coast of Scotland; thence in a northerly direction along the west coast of Scotland to the point of beginning
+
+(This note is not part of the Order)
+
+This Order regulates the carriage of certain nets and other fishing gear. The Order applies to nets carried or used by relevant British fishing boats and by Scottish fishing boats in certain specified areas (article 3(1)). Nets carried or used by beam trawlers, or for catching queen scallops, and nets which are lashed and stowed so that they may not readily be used are excepted from the requirements of the Order (article 3(2)).
+
+The Order requires that—
+
+- (a) a square mesh panel complying with specified conditions be incorporated in nets of certain mesh sizes carried in, or used by relevant British fishing boats and Scottish fishing boats in the specified areas (article 4);
+- (b) in the case of multiple twine netting in the codend, extension piece or square mesh panel of any net to which the Order applies, the sum of the thicknesses of the multiple twines on any side of any mesh do not exceed 10 millimetres (article 6(1)); and
+- (c) in the case of any net to which the Order applies and which is carried or used for the purpose of fishing for Norway lobsters, any square mesh panel is constructed of single twine that does not exceed 4 millimetres (article 6(2)).
+
+British Sea fishery officers are given certain powers for the purpose of the enforcement of the Order (article 7).
+
+The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) Order 1991 (S.I. [1999/1380](https://www.legislation.gov.uk/uksi/1999/1380), as amended by S.I. [1992/1344](https://www.legislation.gov.uk/uksi/1992/1344)) is amended, with the effect that its provisions no longer apply to ICES Statistical Division IIa (Norwegian Sea), ICES Statistical Sub-Area IV (North Sea) and ICES Statistical Sub-Area VI (Rockall and West of Scotland) (article 8).
+
+Offences are prescribed by section 3(5) of the Sea Fish (Conservation) Act [1967 (c. 84)](https://www.legislation.gov.uk/ukpga/1967/84) and penalties by section 11 of that Act, as amended by section 24(1) of the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29).
+
+The Order does not form part of the law of Scotland. It does not apply to fishing activities within the territorial sea of Wales.
+
+This Order is made in reliance on Article 46 of Council Regulation [(EC) 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) for the conservation of fishery resources through technical measures for the protection of juveniles of marine organisms (O.J. No. L 125, 27.4.98, p.1.), which authorises Member States to take certain national measures for the conservation and management of stocks.
+
+A Regulatory Impact Assessment has been prepared and placed in the library of each House of Parliament. Copies can be obtained from the Sea Fisheries Conservation Division of the Ministry of Agriculture, Fisheries and Food, Room 421d, Nobel House, 17 Smith Square, London SW1P 3JR.
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84). Section 3 was amended by the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86) section 9(1), Schedule 2, paragraph 16(1), the Inshore Fishing (Scotland) Act [1984 (c. 26)](https://www.legislation.gov.uk/ukpga/1984/26) section 10(1), Schedule 1 and S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), Article 4, Schedule 2, paragraph 43(1), (2) and (4). Section 15(3) was substituted by the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77) section 22(1), Schedule 1, paragraph 38(3) and amended by the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86) section 9(1), Schedule 2, paragraph 16(1) and S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), Schedule 2, paragraph 43(2)(b). See section 22(2)(a) for definitions of “the Ministers” for the purposes of sections 3 and 15(3); section 22(2) was amended by the Fisheries Act 1981, sections 19(2)(d) and 45(b) and (c) and by S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), Article 4, paragraph 43(12) of Schedule 2. By virtue of article 2(a) of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)) the functions exercisable under section 3 of the 1967 Act were transferred to the National Assembly in so far as exercisable in relation to Wales (defined in section 155(1) of the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38) as including “the sea adjacent to Wales out as far as the seaward boundary of the territorial sea”); in respect of waters beyond Wales these functions remain exercisable by the Ministers. Article 3(1) and Schedule 1 of the Scotland Act 1998 (Concurrent Functions) Order 1999 (S.I. [1999/1592](https://www.legislation.gov.uk/uksi/1999/1592)) provide for the functions exercisable under sections 3(1), (3) and (4) and 15(3) of the 1967 Act to be exercised by the Ministers, concurrently with Scottish Ministers, in relation to: relevant British fishing boats within the Scottish zone; and, Scottish fishing boats within British fishery limits but outside the Scottish zone. By virtue of article 2(1) of the Transfer of Functions (Agriculture and Fisheries) Order 2000 (S.I. [2000/1812](https://www.legislation.gov.uk/uksi/2000/1812)) any remaining functions of the Secretaries of State for Scotland and Wales under sections 3 and 15(3) of the 1967 Act were transferred to the Minister of Agriculture, Fisheries and Food.
+
+[^key-2ab125a9ebe321c9de69bdc2332e644d]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2001/649/article/1) in force at 2.4.2001, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2001/649/article/1/1/a)
+
+[^f00002]: Footnote: Section 14 was substituted by the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29), section 29.
+
+[^key-16eb630b251c14a0cf26cd841ac54c25]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2001/649/article/2) in force at 2.4.2001, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2001/649/article/1/1/a)
+
+[^key-b95ac6ed517a8fa9ce7987a778062cf7]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/649/article/2/1) substituted (E.W.) (7.7.2003) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Amendment) Order 2003 (S.I. 2003/1560)](https://www.legislation.gov.uk/uksi/2003/1560), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1560/article/1), [3](https://www.legislation.gov.uk/uksi/2003/1560/article/3)
+
+[^M_F_77c1c0c6-70e2-473d-84f0-cb8e9075c6dc]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/649/article/2/1) substituted (N.I.) (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [49(2)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/49/2/b)
+
+[^M_F_65f29eb6-3004-4527-9996-e45a51059300]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/649/article/2/1) substituted (E.W.) (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [49(2)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/49/2/a)
+
+[^key-be9888029338a1d0e0ebe45a8065a34f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/649/article/2/1) omitted (E.W.) (7.7.2003) by virtue of [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Amendment) Order 2003 (S.I. 2003/1560)](https://www.legislation.gov.uk/uksi/2003/1560), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1560/article/1), [3](https://www.legislation.gov.uk/uksi/2003/1560/article/3)
+
+[^f00010]: Footnote: Cmnd. 2586.
+
+[^M_F_077657ca-0fbd-4f30-f0af-f370ef41c893]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/649/article/2/1) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [49(2)(c)](https://www.legislation.gov.uk/uksi/2018/942/regulation/49/2/c)
+
+[^f00013]: Footnote: [1976 c. 86](https://www.legislation.gov.uk/ukpga/1976/86); as modified by paragraph 3(c) of the Schedule to the Fishery Limits Act 1976 (Guernsey) Order 1989 (S.I. [1989/2407](https://www.legislation.gov.uk/uksi/1989/2407)).
+
+[^M_E_4dd0e85f-a78f-447f-c376-14af5f88d08e]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Northern Ireland only
+
+[^key-9b36cbb20ae82bfa9e36ec4743a305c8]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2001/649/article/3) in force at 2.4.2001, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2001/649/article/1/1/a)
+
+[^key-c51604da57d4c86ed6515bdd18a69683]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/649/article/3/1) substituted (E.W.) (7.7.2003) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Amendment) Order 2003 (S.I. 2003/1560)](https://www.legislation.gov.uk/uksi/2003/1560), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1560/article/1), [4](https://www.legislation.gov.uk/uksi/2003/1560/article/4)
+
+[^key-232fe8b669fde0fab749b88bf21fd366]: Textual amendment: [Art. 3(1A)](https://www.legislation.gov.uk/uksi/2001/649/article/3/1A) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/6/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-11ef6af90ff8721c3633dc343b4803d0]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/649/article/3/2) substituted (E.W.) (7.7.2003) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Amendment) Order 2003 (S.I. 2003/1560)](https://www.legislation.gov.uk/uksi/2003/1560), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1560/article/1), [4](https://www.legislation.gov.uk/uksi/2003/1560/article/4)
+
+[^key-6b92626e92ceeb1665d310ed10a8994a]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2001/649/article/3/3) substituted (E.W.) (7.7.2003) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Amendment) Order 2003 (S.I. 2003/1560)](https://www.legislation.gov.uk/uksi/2003/1560), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1560/article/1), [5](https://www.legislation.gov.uk/uksi/2003/1560/article/5)
+
+[^M_E_bf56a429-6681-4b49-a7ed-4c113d61ed12]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales only
+
+[^V_NI_30a68740-8bbd-12f7-4111-2b43546c484c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2001/649/article/3) in force at 2.4.2001, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2001/649/article/1/1/a)
+
+[^V_NI_32fe420a-a324-386d-a4f0-a4e15b95d1f1]: Textual amendment: [Art. 3(1A)](https://www.legislation.gov.uk/uksi/2001/649/article/3/1A) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/6/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-ba0d7d1dc94b521afa2e2c6ce8bc613b]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2001/649/article/4) in force at 2.4.2001, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2001/649/article/1/1/a)
+
+[^key-6e6fb44a64d8516dfeab491f06309c3f]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2001/649/article/5) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2019/526/regulation/20)
+
+[^M_E_9bcd8909-9832-4f4b-a810-e0179b87ca03]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Northern Ireland only
+
+[^key-65de4b4b6a8a6e3d0aa8ce858097bfbc]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2001/649/article/6) revoked (E.W.) (7.7.2003) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Amendment) Order 2003 (S.I. 2003/1560)](https://www.legislation.gov.uk/uksi/2003/1560), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1560/article/1), [6](https://www.legislation.gov.uk/uksi/2003/1560/article/6)
+
+[^M_E_ab5430c1-2f38-4b35-c71b-21def77e13f0]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales only
+
+[^V_NI_2d2dd6bf-4db9-5607-a837-f7ecd9012b36]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2001/649/article/6) in force at 16.4.2001, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2001/649/article/1/1/b)
+
+[^key-acec27c520e476b2ff1b1283ff743358]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2001/649/article/7) in force at 2.4.2001, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2001/649/article/1/1/a)
+
+[^key-cc6ba8a68c59299313c38cce0dae95c4]: Textual amendment: [Art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2001/649/article/7/1/a)[(b)](https://www.legislation.gov.uk/uksi/2001/649/article/7/1/b) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/6/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+
+[^key-5b6a9c11371e4c0c0ac2c4dbec185d38]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2001/649/article/8) in force at 2.4.2001, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2001/649/article/1/1/a)
+
+[^f00014]: Footnote: S.I. [1991/1380](https://www.legislation.gov.uk/uksi/1991/1380), as amended by S.I. [1992/1344](https://www.legislation.gov.uk/uksi/1992/1344).
+
+[^key-9dfaf9edfbdd4cc33e60ca46571c0bc5]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2001/649/schedule) in force at 2.4.2001, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2001/649/article/1/1/a)

@@ -1,0 +1,97 @@
+---
+title: The Employment Appeal Tribunal (Coronavirus) (Amendment) Rules 2020
+id: uksi/2020/415
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-04-08'
+text_date: '2022-06-28'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2020/415
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2020/415/pdfs/uksiem_20200415_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/415/pdfs/uksi_20200415_en.pdf
+- http://www.legislation.gov.uk/uksi/2020/415/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Employment Appeal Tribunal (Coronavirus) (Amendment) Rules 2020
+
+> Text as at 2022-06-28.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2020 No. 415
+
+Employment Tribunals
+
+The Employment Appeal Tribunal (Coronavirus) (Amendment) Rules 2020
+
+Made
+
+8th April 2020
+
+Laid before Parliament
+
+9th April 2020
+
+Coming into force in accordance with rule 1
+
+The Lord Chancellor, in exercise of the powers conferred by section 30 of the Employment Tribunals Act 1996[^f00001], makes the following Rules.[^key-c9d706a1db13aeb445b41773c4c35cb7][^key-2522aff591682f6f9b69b7122a744606]
+
+The Lord Chancellor has consulted the Lord President of the Court of Session in accordance with section 30(1) of that Act before making these Rules.[^key-c9d706a1db13aeb445b41773c4c35cb7][^key-2522aff591682f6f9b69b7122a744606]
+
+## 1. Citation and commencement[^key-772c6041061754a5e89a68c9ad23448a]
+
+These Rules may be cited as the Employment Appeal Tribunal (Coronavirus) (Amendment) Rules 2020 and come into force on the day after the day on which they are laid.
+
+## 2. Expiry[^key-6857204c9c7846c8a4e00ee6997f6a8b]
+
+These Rules expire on the same day that, and immediately after, section 55(b) (public participation in proceedings conducted by video or audio) of the Coronavirus Act 2020[^f00002] expires for all purposes.
+
+## 3. Amendment to the Employment Appeal Tribunal Rules 1993[^key-e41db28b79f7f1cb438eb239c51d3423]
+
+(1) The Employment Appeal Tribunal Rules 1993[^f00003] are amended as follows.
+
+(2) In rule 29 (oral hearings), after paragraph (2), insert—
+
+> (3) Any oral hearing may be conducted, in whole or in part, by use of electronic communication (including by telephone) provided that the Appeal Tribunal considers that it would be just and equitable to do so and provided that the parties and members of the public attending the hearing are able to hear what the Appeal Tribunal hears and see any witness as seen by the Appeal Tribunal.
+
+.
+
+Chris Philp
+
+Parliamentary Under Secretary of State
+
+Ministry of Justice
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+The Employment Appeal Tribunal Rules 1993 (“the 1993 Rules”) are the rules governing procedure in the Employment Appeal Tribunal. These Rules temporarily amend the 1993 Rules to specify that a hearing may be conducted by means of electronic communication. The amendment made by the Rules will expire on the same day as section 55(b) of the Coronavirus Act 2020.
+
+No impact assessment has been carried out for this amendment as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17); section 30 was amended by section 1(2)(a) of the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), paragraph 5 of Schedule 8 to the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26), paragraph 26 of Schedule 1 to the Employment Relations Act [2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), paragraph 48 of Schedule 8 to the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), section 12(3) of the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), paragraph 13 of Schedule 14 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), and [S.I. 1999/3323](https://www.legislation.gov.uk/uksi/1999/3323).
+
+[^key-c9d706a1db13aeb445b41773c4c35cb7]: Modification: Rules continued until 25.9.2022 (24.3.2022) by virtue of The Coronavirus Act 2020 (Delay in Expiry: Inquests, Courts and Tribunals, and Statutory Sick Pay) (England and Wales and Northern Ireland) Regulations 2022 (S.I. 2022/362), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/362/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/362/regulation/2)
+
+[^key-2522aff591682f6f9b69b7122a744606]: Modification: Rules continued until 25.9.2022 despite the repeal of 2020 c. 7, [s. 55(b)](https://www.legislation.gov.uk/ukpga/2020/7/section/55/b) (28.6.2022) by virtue of The Police, Crime, Sentencing and Courts Act 2022 (Commencement No. 2) Regulations 2022 (S.I. 2022/704), [reg. 2](https://www.legislation.gov.uk/uksi/2022/704/regulation/2)
+
+[^key-772c6041061754a5e89a68c9ad23448a]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2020/415/rule/1) in force at 10.4.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/415/rule/1)
+
+[^key-6857204c9c7846c8a4e00ee6997f6a8b]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2020/415/rule/2) in force at 10.4.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/415/rule/1)
+
+[^f00002]: Footnote: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7). Section 89 of the Act makes provision about the expiry of the Act. Section 90 provides powers to alter the expiry dates of provisions of the Act.
+
+[^key-e41db28b79f7f1cb438eb239c51d3423]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2020/415/rule/3) in force at 10.4.2020, see [rule 1](https://www.legislation.gov.uk/uksi/2020/415/rule/1)
+
+[^f00003]: Footnote: [S.I. 1993/2854](https://www.legislation.gov.uk/uksi/1993/2854); amended by [S.I. 2001/1128](https://www.legislation.gov.uk/uksi/2001/1128), there are other amending instruments but none is relevant.

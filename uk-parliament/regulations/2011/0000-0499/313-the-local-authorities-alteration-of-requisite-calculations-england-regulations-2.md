@@ -1,0 +1,230 @@
+---
+title: The Local Authorities (Alteration of Requisite Calculations) (England) Regulations 2011
+id: uksi/2011/313
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2011-02-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2011/313
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/313/pdfs/uksiem_20110313_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/313/pdfs/uksi_20110313_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/313/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Authorities (Alteration of Requisite Calculations) (England) Regulations 2011
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2011 No. 313
+
+Local Government, England
+
+Finance
+
+The Local Authorities (Alteration of Requisite Calculations) (England) Regulations 2011
+
+Made
+
+9th February 2011
+
+Laid before Parliament
+
+14th February 2011
+
+Coming into force
+
+15th February 2011
+
+The Secretary of State, in exercise of the powers conferred by—
+
+- (a) sections 32(9), 33(4), 43(7), 44(4) and 113(2) of the Local Government Finance Act 1992[^f00001], and
+- (b) sections 86(5), 88(8), 89(9) and 420(1) of the Greater London Authority Act 1999[^f00002],
+
+makes the following Regulations:
+
+## 1. Citation, commencement and application
+
+(1) These Regulations—
+
+- (a) may be cited as the Local Authorities (Alteration of Requisite Calculations) (England) Regulations 2011, and
+- (b) come into force on 15th February 2011.
+
+(2) These Regulations apply in relation to authorities in England only[^f00003].
+
+(3) These Regulations apply in relation to the financial year beginning on 1st April 2011.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “the 1992 Act” means the Local Government Finance Act 1992; and
+- “the 1999 Act” means the Greater London Authority Act 1999.
+
+## 3. Budget requirement (billing authorities) – calculation
+
+Section 32 of the 1992 Act has effect as if—
+
+- (a) in subsection (3)(a)[^f00004], the words “or relevant special grant” were omitted;
+- (b) for subsection (12)[^f00005] there were substituted the following subsection—
+
+  > (12) In this section and section 33 below “police grant” means the grant payable in accordance with column (a) of paragraph 3.1 of the Police Grant Report (England and Wales) 2011/12 approved by a resolution of the House of Commons pursuant to section 46 of the Police Act 1996[^f00006] on 9th February 2011.
+
+  ; and
+- (c) after subsection (12) there were inserted the following subsection—
+
+  > (12A) In this section and section 33 below—
+  >
+  > - (a) references to sums payable for the financial year in respect of redistributed non-domestic rates are references to sums so payable in accordance with the Local Government Finance Report (England) 2011/2012 approved by a resolution of the House of Commons pursuant to section 79(2) of, and paragraph 11(2) of Schedule 8 to, the Local Government Finance Act 1988[^f00007] on 9th February 2011, and
+  > - (b) references to sums payable for the financial year in respect of revenue support grant are references to sums so payable in accordance with that report.
+
+  .
+
+## 4. Basic amount of council tax (billing authorities) - calculation
+
+Section 33(1) of the 1992 Act[^f00008] has effect as if the words “or relevant special grant” in item P were omitted.
+
+## 5. Budget requirement (major precepting authorities other than the Greater London Authority) - calculation
+
+Section 43 of the 1992 Act has effect as if—
+
+- (a) in subsection (3)(a)(i)[^f00009], the words “, relevant special grant” were omitted; and
+- (b) for subsection (6A)[^f00010] there were substituted the following subsection —
+
+  > (6A) In this section and section 44 below—
+  >
+  > - (a) “police grant” has the meaning given by section 32(12) above, and
+  > - (b) references to sums payable for the financial year in respect of redistributed non-domestic rates or revenue support grant are to be construed in accordance with section 32(12A) above.
+
+  .
+
+## 6. Basic amount of council tax (major precepting authorities other than the Greater London Authority) - calculation
+
+Section 44(1) of the 1992 Act[^f00011] has effect as if the words “, relevant special grant” in item P were omitted.
+
+## 7. Budget requirement (Greater London Authority) - calculation
+
+Section 85 of the 1999 Act has effect as if—
+
+- (a) in subsection (5)(a)(i)[^f00012], the words “relevant special grant,” were omitted; and
+- (b) after subsection (9)[^f00013] there were added the following subsection—
+
+  > (9A) In subsection (5)(a)—
+  >
+  > - (a) the reference to sums payable for the financial year in respect of redistributed non-domestic rates is a reference to sums so payable in accordance with the Local Government Finance Report (England) 2011/2012 approved by a resolution of the House of Commons pursuant to section 79(2) of, and paragraph 11(2) of Schedule 8 to, the Local Government Finance Act 1988 on 9th February 2011, and
+  > - (b) the reference to sums payable for the financial year in respect of revenue support grant is a reference to sums so payable in accordance with that report.
+
+  .
+
+## 8. Basic amount of council tax (Greater London Authority) - calculation
+
+Section 88 of the 1999 Act has effect as if —
+
+- (a) in subsection (2)[^f00014], in the definition of P1, paragraph (e) and the word “and” preceding it were omitted; and
+- (b) in subsection (4)[^f00015], paragraph (d) and the word “and” preceding it were omitted.
+
+## 9. Additional calculation: special item for part of Greater London
+
+Section 89 of the 1999 Act has effect as if —
+
+- (a) in subsection (4)[^f00016], in the definition of P2, paragraph (f) and the word “and” preceding it were omitted; and
+- (b) in subsection (6)[^f00017], paragraph (e) and the word “and” preceding it were omitted.
+
+## 10. Interpretation of Chapter 1 of Part 3 of the 1999 Act
+
+Section 99 of the 1999 Act[^f00018] has effect as if the definition of “relevant special grant” were omitted.
+
+## 11. Distribution of grants by the Greater London Authority
+
+Section 102 of the 1999 Act has effect as if —
+
+- (a) in subsection (2)[^f00019], paragraph (c) were omitted; and
+- (b) for subsection (8)[^f00020] there were substituted the following subsection—
+
+  > (8) In this section—
+  >
+  > - (a) the reference to sums received for the financial year in respect of redistributed non-domestic rates is a reference to sums so received in consequence of the Local Government Finance Report (England) 2011/2012 approved by a resolution of the House of Commons pursuant to section 79(2) of, and paragraph 11(2) of Schedule 8 to, the Local Government Finance Act 1988 on 9th February 2011, and
+  > - (b) the reference to sums received for the financial year in respect of revenue support grant is a reference to sums so received in consequence of that report.
+
+  .
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Bob Neill
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+9th February 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Sections 32 and 43 of the Local Government Finance Act 1992 (“the 1992 Act”) set out respectively how a billing authority and a major precepting authority (other than the Greater London Authority (“GLA”)) are to calculate their budget requirements for a financial year. Sections 33 and 44 of that Act set out respectively how a billing authority and such a major precepting authority are to calculate the basic amount of their council tax. The GLA’s budget requirement is calculated under section 85 of the Greater London Authority Act 1999 (“the 1999 Act”), the basic amount of council tax (for services funded by the GLA other than the Metropolitan Police Authority) is calculated under section 88 of that Act and the additional amount of council tax in respect of the Metropolitan Police Authority is calculated under section 89 of that Act.
+
+Regulations 3(a) and 4 to 11 of these Regulations omit references to “relevant special grants” from sections 32, 33, 43 and 44 of the 1992 Act, and from sections 85, 88, 89, 99 and 102 of the 1999 Act, for the financial year beginning on 1st April 2011 since no special grants are being defined as relevant special grants for that financial year.
+
+Regulation 3(b) of these Regulations alters for authorities in England the definition in section 32 of the 1992 Act of “police grant” for the financial year beginning on 1st April 2011. The altered definition applies to that section, and also to sections 33, 43 and 44 of the 1992 Act. The same definition of police grant applies to the corresponding sections of the 1999 Act (by virtue of section 99 of that Act). Regulation 3(c) inserts for authorities in England definitions of sums payable in respect of redistributed non-domestic rates and revenue support grant in section 32 of the 1992 Act for the financial year beginning on the 1st April 2011 to ensure that the amounts of redistributed non-domestic rates and revenue support grant excluded from the budget requirement calculation in that section relate only to such amounts payable under the Local Government Finance Report (England) 2011/2012. The same definitions also apply to sections 33, 43 and 44 of the 1992 Act.
+
+Regulations 7(b) and 11(b) include for the GLA definitions of sums payable or received in respect of redistributed non-domestic rates and revenue support grant in sections 85 and 102 of the 1999 Act for the financial year beginning on 1st April 2011. These definitions ensure that the amounts of redistributed non-domestic rates and revenue support grant:
+
+- (a) excluded from the budget requirement calculation in section 85; and
+- (b) taken into account in calculating the aggregate of sums received by the GLA to be distributed amongst the functional bodies;
+
+relate only to such amounts payable under the Local Government Finance Report (England) 2011/2012.
+
+A copy of the Police Grant Report (England and Wales) 2011/12 approved on 9th February 2011 ISBN 978-0-10-297096-8, price £5.75, referred to in regulation 3 may be obtained from the Stationery Office.
+
+A copy of the Local Government Finance Report (England) 2011/2012 approved on 9th February 2011 ISBN 978-0-10-297092-0, price £22.50, referred to in these Regulations may be obtained from the Stationery Office.
+
+A full impact assessment has not been produced for these Regulations as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14); section 32(9) was amended by paragraph 4 of Schedule 12 to the Local Government (Wales) Act [1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19) and section 113(2) was amended by paragraph 52 of Schedule 7 to the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26).
+
+[^f00002]: Footnote: [1999 c.29](https://www.legislation.gov.uk/ukpga/1999/29).
+
+[^f00003]: Footnote: The power to make regulations under sections 32(9), 33(4), 43(7) and 44(4) in relation to Wales transferred from the Secretary of State to the National Assembly for Wales under article 2(a) of and Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)): see the entry in Schedule 1 for the Local Government Finance Act 1992. This power is now exercisable by the Welsh Ministers: see paragraph 30(1) of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
+
+[^f00004]: Footnote: Section 32(3)(a) was amended by paragraph 4 of Schedule 12 to the Local Government (Wales) Act 1994, the Local Authorities (Alteration of Requisite Calculations and Funds) Regulations 1994 ([S.I. 1994/246](https://www.legislation.gov.uk/uksi/1994/246)), the Local Authorities (Alteration of Requisite Calculations and Funds) Regulations 1995 ([S.I. 1995/234](https://www.legislation.gov.uk/uksi/1995/234)) and the Local Authorities (Alteration of Requisite Calculations and Funds) Regulations 2005 ([S.I. 2005/190](https://www.legislation.gov.uk/uksi/2005/190)). In relation to the financial year beginning on 1st April 2010 section 32(3)(a) was amended by the Local Authorities (Alteration of Requisite Calculations) (England) Regulations 2010 ([S.I. 2010/219](https://www.legislation.gov.uk/uksi/2010/219)).
+
+[^f00005]: Footnote: Section 32(12) was inserted by [S.I. 1995/234](https://www.legislation.gov.uk/uksi/1995/234), which also made relevant amendments to sections 32(3) and 33(1) (references to “police grant” and “relevant special grant”). Section 32(12) was substituted in relation to the financial year beginning on 1st April 2010 by [S.I. 2010/219](https://www.legislation.gov.uk/uksi/2010/219).
+
+[^f00006]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16). Section 46 was amended by paragraph 92 of Schedule 27 to the Greater London Authority Act 1999.
+
+[^f00007]: Footnote: [1988 c.41](https://www.legislation.gov.uk/ukpga/1988/41).
+
+[^f00008]: Footnote: Section 33(1) was amended by paragraph 5 of Schedule 12 to the Local Government (Wales) Act 1994, [S.I. 1994/246](https://www.legislation.gov.uk/uksi/1994/246), [S.I. 1995/234](https://www.legislation.gov.uk/uksi/1995/234) and in relation to the financial year beginning on 1st April 2010 by [S.I. 2010/219](https://www.legislation.gov.uk/uksi/2010/219).
+
+[^f00009]: Footnote: Section 43(3)(a) was amended by [S.I. 1995/234](https://www.legislation.gov.uk/uksi/1995/234) and in relation to the financial year beginning on 1st April 2010 by [S.I. 2010/219](https://www.legislation.gov.uk/uksi/2010/219).
+
+[^f00010]: Footnote: Section 43(6A) was inserted by [S.I. 1994/246](https://www.legislation.gov.uk/uksi/1994/246), substituted by [S.I. 1995/234](https://www.legislation.gov.uk/uksi/1995/234) and substituted in relation to the financial year beginning on 1st April 2010 by [S.I. 2010/219](https://www.legislation.gov.uk/uksi/2010/219).
+
+[^f00011]: Footnote: Section 44(1) was amended by [S.I. 1994/246](https://www.legislation.gov.uk/uksi/1994/246), [S.I. 1995/234](https://www.legislation.gov.uk/uksi/1995/234) and in relation to the financial year beginning on 1st April 2010 by [S.I. 2010/219](https://www.legislation.gov.uk/uksi/2010/219).
+
+[^f00012]: Footnote: Section 85(5)(a)(i) was amended in relation to financial years beginning on or after 30th October 2007 by section 12 of the Greater London Authority Act [2007 (c.24)](https://www.legislation.gov.uk/ukpga/2007/24) and in relation to the financial year beginning on 1st April 2010 by [S.I. 2010/219](https://www.legislation.gov.uk/uksi/2010/219).
+
+[^f00013]: Footnote: Section 85(9) was substituted by paragraph 70 of Schedule 7 to the Local Government Act 2003, amended in relation to financial years beginning on or after 30th October 2007 by section 12 of the Greater London Authority Act 2007 and amended in relation to the financial year beginning on 1st April 2010 by [S.I. 2010/219](https://www.legislation.gov.uk/uksi/2010/219). In relation to financial years beginning on or after 30th October 2007 section 12 of the Greater London Authority Act 2007 also inserted subsections (10) to (15) after section 85(9).
+
+[^f00014]: Footnote: Section 88(2) was amended in relation to the financial year beginning on 1st April 2010 by [S.I. 2010/219](https://www.legislation.gov.uk/uksi/2010/219).
+
+[^f00015]: Footnote: Section 88(4) was amended in relation to the financial year beginning on 1st April 2010 by [S.I. 2010/219](https://www.legislation.gov.uk/uksi/2010/219).
+
+[^f00016]: Footnote: Section 89(4) was amended in relation to the financial year beginning on 1st April 2010 by [S.I. 2010/219](https://www.legislation.gov.uk/uksi/2010/219).
+
+[^f00017]: Footnote: Section 89(6) was amended in relation to the financial year beginning on 1st April 2010 by [S.I. 2010/219](https://www.legislation.gov.uk/uksi/2010/219).
+
+[^f00018]: Footnote: Section 99 was amended in relation to financial years beginning on or after 30th October 2007 by section 12 of the Greater London Authority Act 2007 and in relation to the financial year beginning on 1st April 2010 by [S.I. 2010/219](https://www.legislation.gov.uk/uksi/2010/219).
+
+[^f00019]: Footnote: Section 102(2) was amended in relation to the financial year beginning on 1st April 2010 by [S.I. 2010/219](https://www.legislation.gov.uk/uksi/2010/219).
+
+[^f00020]: Footnote: Section 102(8) was amended in relation to the financial year beginning on 1st April 2010 by [S.I. 2010/219](https://www.legislation.gov.uk/uksi/2010/219).

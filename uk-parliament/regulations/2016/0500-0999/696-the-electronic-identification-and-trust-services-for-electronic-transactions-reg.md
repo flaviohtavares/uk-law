@@ -1,0 +1,956 @@
+---
+title: The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016
+id: uksi/2016/696
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-06-30'
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2016/696
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/696/pdfs/uksiem_20160696_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/696/pdfs/uksi_20160696_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/696/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2016 No. 696
+
+Electronic Communications
+
+The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016
+
+Made
+
+30th June 2016
+
+Laid before Parliament
+
+1st July 2016
+
+Coming into force
+
+22nd July 2016
+
+The Secretary of State is a Minister designated [^c23171601] for the purposes of section 2(2) of the European Communities Act 1972 [^c23171611] in relation to electronic trust services and other systems to facilitate electronic transactions in the internal market.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Secretary of State that it is expedient for the reference to Regulation (EU) No 910/2014 [^c23171621] of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market to be construed as a reference to that instrument as amended from time to time.
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A [^c23171631] of Schedule 2 to, the European Communities Act 1972.
+
+## PART 1 — Introduction
+
+### 1. Citation and Commencement
+
+These Regulations may be cited as the Electronic Identification and Trust Services for Electronic Transactions Regulations 2016 and come into force on 22nd July 2016.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- [^key-b27250dd4808b99c40177aa4ba449398]...
+- the “**2002 Regulations**” means the Electronic Signatures Regulations 2002 [^c23171651];
+- “**eIDAS Regulation**” means Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market [^c23171661], as amended from time to time;
+- “**supervisory body**” has the meaning given in regulation 3(1) of these Regulations;
+- “**the Tribunal**” has the meaning given in section 70(1) [^c23171671] of the 1998 Act.
+
+(2) Other expressions used in these Regulations, which are used in the eIDAS Regulation, have the same meaning as in the eIDAS Regulation.
+
+(3)[^key-87867bcb0958410a0f10e128097b60ca] References in these regulations to a period expressed in days or years are to be interpreted in accordance with Article 3 of Regulation (EEC, Euratom) No. 1182/71 of the Council of 3 June 1971 determining the rules applicable to periods, dates and time limits.
+
+## PART 2 — Supervisory body
+
+### 3. Supervision
+
+(1) The Information Commission[^key-19d7057799ecce52c4455f2f66cb2e1b] is the supervisory body and must carry out the supervisory body tasks set out in Article 17 of the eIDAS Regulation.
+
+(2) The supervisory body must enforce these Regulations and Chapter III of the eIDAS Regulation.
+
+(3) Schedules 1 (monetary penalties) and 2 (enforcement powers of the Information Commission[^key-58d38714b7232cad0a5ab2e0ef50f93b] [^key-c8f19101090926510b78b6dddc87f8f9]...) have effect.
+
+## PART 3 — Miscellaneous
+
+### 4. Transitional provisions and revocations
+
+(1) The Electronic Signatures Regulations 2002 are revoked.
+
+(2) For the purposes of these Regulations, a qualified certificate issued pursuant to regulation 2 of the 2002 Regulations is to be treated as a qualified certificate for electronic signature pursuant to Article 3(15) of the eIDAS Regulation until it expires.
+
+### 5. Consequential amendments
+
+Schedule 3 has effect.
+
+### 6. Review
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2)[^key-e45af7d4481cb0d65524b5e023e972a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved by a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before the end of the period of 5 years beginning with the day on which these Regulations come into force.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding 5 years.
+
+Neville-Rolfe
+
+Parliamentary Under Secretary of State for Business, Innovation and Skills
+
+Department for Business, Innovation and Skills
+
+## SCHEDULE 1 — Monetary penalties
+
+Regulation 3(3)
+
+**1.** If the supervisory body is satisfied that a trust service provider has contravened or is contravening Chapter III of the eIDAS Regulation, the supervisory body may issue a trust service provider with a fixed monetary penalty notice in respect of such contravention.
+
+**2.** The amount of a fixed monetary penalty under these Regulations is £1000.
+
+**3.** Before serving a fixed monetary penalty notice, the supervisory body must serve the trust service provider with a notice of intent.
+
+**4.** The notice of intent must—
+
+- (a) state the name and address of the trust service provider;
+- (b) state the nature of the contravention;
+- (c) indicate the amount of the fixed monetary penalty;
+- (d) include a statement informing the trust service provider of the opportunity to discharge liability for the fixed monetary penalty notice;
+- (e) indicate the date on which the supervisory body proposes to serve the fixed monetary penalty notice; and
+- (f) inform the trust service provider that it may make written representations in relation to the proposal to serve a fixed monetary penalty notice within the period of 21 days beginning when the notice of intent is served[^key-04f98414991ac71d8d5c94b0e2515153].
+
+**5.** A trust service provider may discharge liability for the fixed monetary penalty if it pays to the supervisory body the amount of £800 within the period of 21 days beginning when the notice of intent is received[^key-02b102aefd6d5941f7207508a4506b01].
+
+**6.** The supervisory body may not serve a fixed monetary penalty notice until the expiry of the period of 21 days beginning when the notice of intent is served[^key-5594ec41af4368079cca2251c237c2da].
+
+**7.** The fixed monetary penalty notice must state—
+
+- (a) the name and address of the trust service provider;
+- (b) details of the notice of intent served on the trust service provider;
+- (c) whether there have been any written representations;
+- (d) details of any early payment discounts;
+- (e) the grounds on which the supervisory body imposes the fixed monetary penalty;
+- (f) the date by which the fixed monetary penalty is to be paid; and
+- (g) details of, including the time limit for, the trust service provider's right of appeal against the imposition of the fixed monetary penalty.
+
+**8.** A trust service provider on whom a fixed monetary penalty is served may appeal to the Tribunal against the issue of the fixed monetary penalty notice.
+
+**9.** Any sum received by the supervisory body by virtue of this Schedule must be paid into the Consolidated Fund.
+
+**10.** In England and Wales and Northern Ireland, the fixed monetary penalty is recoverable—
+
+- (a) if a county court so orders, under an order of that court;
+- (b) if the High Court so orders, under an order of that court.
+
+**11.** In Scotland, the penalty may be enforced in the same manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
+
+## SCHEDULE 2 — Information Commission’s enforcement powers[^key-739d0b0213e55acd9608b8ff661a0145][^key-6b214ce2f0ac22968b5adab028df8631]
+
+### Provisions applied for enforcement purposes
+
+**1.** For the purposes of enforcing these Regulations and the eIDAS Regulation, the following provisions of Parts 5 to 7 of the Data Protection Act 2018 apply with the modifications set out in paragraphs 2 to 26—
+
+- (a) section 140 (publication by the Commission[^key-e6bfa6c145a48059985a994ab031b1e2]);
+- (b) section 141A[^key-8eea88fd3834e9d303959be101d74097] (notices from the Commission[^key-4ec356bb6dc0b276122382d55035e5eb]);
+- (c) section 142 (information notices);
+- (d) section 143 (information notices: restrictions);
+- (e) section 144 (false statements made in response to an information notice);
+- (f) section 145 (information orders);
+- (g) section 146 (assessment notices);
+- (ga)[^key-285a27e1464aabd541ff22ddebb81fb5] section 146A (assessment notices: approval of person to prepare report etc);
+- (h) section 147 (assessment notices: restrictions);
+- (i) section 148 (destroying or falsifying information and documents etc);
+- (ia)[^key-fcbe31a2cdd032071962a035471c3c25] section 148A (interview notices);
+- (ib) section 148B (interview notices: restrictions);
+- (ic) section 148C (false statements made in response to interview notices);
+- (j) section 149 (enforcement notices);
+- (k) section 150 (enforcement notices: supplementary);
+- (l) section 152 (enforcement notices: restrictions);
+- (m) section 153 (enforcement notices: cancellation and variation);
+- (n) section 154 and Schedule 15 (powers of entry and inspection);
+- (o) section 155 and Schedule 16 (penalty notices);
+- (p) section 156(4)(a) (penalty notices: restrictions);
+- (q) section 157 (maximum amount of penalty);
+- (r) section 159 (amount of penalties: supplementary);
+- (s) section 160 (guidance about regulatory action);
+- (t) section 161 (approval of first guidance about regulatory action);
+- (u) section 162 (rights of appeal);
+- (v) section 163 (determination of appeals);
+- (w) section 164 (applications in respect of urgent notices);
+- (x) section 180 (jurisdiction);
+- (y) section 182(1), (2), (5), (7) and (13) (regulations and consultation);
+- (z) section 196 (penalties for offences);
+- (z1) section 197 (prosecution);
+- (z2) section 202 (proceedings in the First-tier Tribunal: contempt);
+- (z3) section 203 (Tribunal Procedure Rules).
+
+### General modification of references to the Data Protection Act 2018
+
+**2.** The provisions listed in paragraph 1 have effect as if—
+
+- (a) references to the Data Protection Act 2018 were references to the provisions of that Act as applied by these Regulations;
+- (b) references to a particular provision of that Act were references to that provision as applied by these Regulations.
+
+### Modification of section 142 (information notices)
+
+**3.** (1) Section 142 has effect as if subsections (9) and (10) were omitted.
+
+(2) In that section, subsection (1) has effect as if—
+
+- (a) in paragraph (a)—
+  - (i) for “controller or processor” there were substituted “ trust service provider ”;
+  - (ii) for “the data protection legislation” there were substituted “ the eIDAS Regulation and the EITSET Regulations ”;
+- (b) paragraph (b) were omitted.
+
+(3) In that section, subsection (2) has effect as if paragraph (a) were omitted.
+
+### Modification of section 143 (information notices: restrictions)
+
+**4.** (1) Section 143 has effect as if subsections (1) and (9) were omitted.
+
+(2) In that section—
+
+- (a) subsections (3)(b) and (4)(b) have effect as if for “the data protection legislation” there were substituted “ the eIDAS Regulation or the EITSET Regulations ”;
+- (b) subsection (7)(a) has effect as if for “this Act” there were substituted “ section 144 , 148 or 148C[^key-cc61c78aab4e83db3177d87a6f9f522b] or paragraph 15 of Schedule 15 ”;
+- (c) subsection (8) has effect as if for “this Act (other than an offence under section 144)” there were substituted “ section 148 or 148C[^key-b88f2c38c7d476b362f8f703c0c0f855] or paragraph 15 of Schedule 15 ”.
+
+### Modification of section 145 (information orders)
+
+**5.** Section 145(2)(b) has effect as if for “section 142(2)(b)” there were substituted “ section 142(2) ”.
+
+### Modification of section 146 (assessment notices)
+
+**6.** (1) Section 146 has effect as if subsection (11) were omitted.
+
+(2) In that section—
+
+- (a) subsection (1) has effect as if—
+  - (i) for “controller or processor” (in both places) there were substituted “trust service provider”;
+  - (ii) for “the data protection legislation” there were substituted “the eIDAS requirements”;
+- (b)[^key-311927bc4c9b891901c3a5329c83a1b2] subsection (2) has effect as if—
+  - (i) for “controller or processor” there were substituted “trust service provider”;
+  - (ii) paragraphs (h) and (i) were omitted;
+- (c) subsections (3A), (7), (8), (9), (10) and (11A)[^key-3c71ad8d32b301ba814cc4ca53551b15] have effect as if for “controller or processor” (in each place) there were substituted “trust service provider”.
+- (d) subsection (9)(a) has effect as if for “as described in section 149(2) or that an offence under this Act” there were substituted “to comply with the eIDAS requirements or that an offence under section 144 , 148 or 148C[^key-90cd5debb5abbd9c85ef3a6c08e62a79] or paragraph 15 of Schedule 15”.
+
+### Modification of section 146A (assessment notices: approval of person to prepare report etc)[^key-594f663764099eb9decc864968a716c0]
+
+**6A.** Section 146A has effect as if for “**controller or processor**” (in each place) there were substituted “trust service provider”.
+
+### Modification of section 147 (assessment notices: restrictions)
+
+**7.** (1) Section 147 has effect as if subsections (5) and (6) were omitted.
+
+(2) In that section, subsections (2)(b) and (3)(b) have effect as if for “the data protection legislation” there were substituted “ the eIDAS Regulation or the EITSET Regulations ”.
+
+### Modification of section 148A (interview notices)[^key-6f0b6652e6131f28830e4a9083490fa7]
+
+**7A.** Section 148A has effect as if—
+
+- (a) in subsection (1)—
+  - (i) for “controller or processor” there were substituted “trust service provider”;
+  - (ii) in paragraph (a), for “as described in section 149(2)” there were substituted “to comply with the eIDAS requirements”;
+  - (iii) in paragraph (b), for “this Act” there were substituted “section 144, 148 or 148C or paragraph 15 of Schedule 15”;
+- (b) in subsection (3), for “**controller or processor**” (in each place) there were substituted “trust service provider”.
+
+### Modification of section 148B (interview notices: restrictions)
+
+**7B.** (1) Section 148B has effect as if subsections (8) and (9) were omitted.
+
+(2) In that section—
+
+- (a) subsections (2)(b) and (3)(b) have effect as if for “the data protection legislation” there were substituted “the eIDAS Regulation or the EITSET Regulations”;
+- (b) subsection (6)(a) has effect as if for “this Act” there were substituted “section 144, 148 or 148C or paragraph 15 of Schedule 15”;
+- (c) subsection (7) has effect as if for “this Act (other than an offence under section 148C)” there were substituted “section 144 or 148 or paragraph 15 of Schedule 15”.
+
+### Modification of section 149 (enforcement notices)
+
+**8.** (1) Section 149 has effect as if subsections (2) to (5) and (7) to (9) were omitted.
+
+(2) In that section—
+
+- (a) subsection (1) has effect as if—
+  - (i) for “as described in subsection (2), (3), (4) or (5)” there were substituted “ to comply with the eIDAS requirements ”;
+  - (ii) for “sections 150 and 151” there were substituted “ section 150 ”;
+- (b) subsection (6) has effect as if the words “given in reliance on subsection (2), (3) or (5)” were omitted.
+
+### Modification of section 150 (enforcement notices: supplementary)
+
+**9.** (1) Section 150 has effect as if subsection (3) were omitted.
+
+(2) In that section, subsection (2) has effect as if the words “in reliance on section 149(2)” and “or distress” were omitted.
+
+### Modification of section 152 (enforcement notices: restrictions)
+
+**10.** Section 152 has effect as if subsections (1), (2) and (4) were omitted.
+
+### Withdrawal notices
+
+**11.** The provisions listed in paragraph 1 have effect as if after section 153 there were inserted—
+
+> **Withdrawal notices**
+>
+> **153A. Withdrawal notices**
+>
+> - (1) The Commission[^key-9a29a85c93f222dc9a52244b4c1145a4] may, by written notice (a “withdrawal notice”), withdraw the qualified status from a trust service provider, or the qualified status of a service provided by a trust service provider, if—
+>   - (a) the Commission is satisfied that the trust service provider has failed to comply with an information notice or an enforcement notice, and
+>   - (b) the condition in subsection (2) or (3) is met.
+> - (2) The condition in this subsection is met if the period for the trust service provider to appeal against the information notice or enforcement notice has ended without an appeal having been brought.
+> - (3) The condition in this subsection is met if an appeal against the information notice or enforcement notice has been brought and—
+>   - (a) the appeal and any further appeal in relation to the notice has been decided or has otherwise ended, and
+>   - (b) the time for appealing against the result of the appeal or further appeal has ended without another appeal having been brought.
+> - (4) A withdrawal notice must—
+>   - (a) state when the withdrawal takes effect, and
+>   - (b) provide information about the rights of appeal under section 162.
+
+### Modification of Schedule 15 (powers of entry and inspection)
+
+**12.** (1) Schedule 15 has effect as if paragraph 3 were omitted.
+
+(2) Paragraph 1(1) of that Schedule (issue of warrants in connection with non-compliance and offences) has effect as if for paragraph (a) (but not the final “and”) there were substituted—
+
+> - (a) there are reasonable grounds for suspecting that—
+>   - (i) a trust service provider has failed or is failing to comply with the eIDAS requirements, or
+>   - (ii) an offence under section 144 , 148 or 148C[^key-b7ea86712b53ea94f25ea7c50ff8ff13] or paragraph 15 of Schedule 15 has been or is being committed,
+
+.
+
+(3) Paragraph 2 of that Schedule (issue of warrants in connection with assessment notices) has effect as if—
+
+- (a) in sub-paragraphs (1) and (2), for “controller or processor” there were substituted “ trust service provider ”;
+- (b) in sub-paragraph (2), for “the data protection legislation” there were substituted “ the eIDAS requirements ”.
+
+(4) Paragraph 5 of that Schedule (content of warrants) has effect as if—
+
+- (a) in sub-paragraph (1)(c), for “the processing of personal data” there were substituted “ the provision of trust services ”;
+- (b) in sub-paragraph (2)(d)—
+  - (i) for “controller or processor” there were substituted “ trust service provider ”;
+  - (ii) for “as described in section 149(2)” there were substituted “ to comply with the eIDAS requirements ”;
+- (c) in sub-paragraph (3)(a) and (d)—
+  - (i) for “controller or processor” there were substituted “ trust service provider ”;
+  - (ii) for “the data protection legislation” there were substituted “ the eIDAS requirements ”.
+
+(5) Paragraph 11 of that Schedule (privileged communications) has effect as if, in sub-paragraphs (1)(b) and (2)(b), for “the data protection legislation” there were substituted “ the eIDAS Regulation or the EITSET Regulations ”.
+
+### Modification of section 155 (penalty notices)
+
+**13.** (1) Section 155 has effect as if subsections (1)(a), (2)(a), (3)(g), (4) and (6) to (8) were omitted.
+
+(2) Subsection (2) of that section has effect as if—
+
+- (a) the words “Subject to subsection (4),” were omitted;
+- (b) in paragraph (b), the words “to the extent that the notice concerns another matter,” were omitted.
+
+(3) Subsection (3) of that section has effect as if—
+
+- (a) for “controller or processor”, in each place, there were substituted “ trust services provider ”;
+- (b) in paragraph (c), the words “or distress” were omitted;
+- (c) in paragraph (c), for the words from “data subjects” to the end[^key-3f7c544c3201406ecbb72b5450e6de27] there were substituted “ relying parties ”;
+- (d) in paragraph (d), for “section 57, 66, 103 or 107” there were substituted “ Article 19(1) of the eIDAS Regulation ”.
+
+### Modification of Schedule 16 (penalties)
+
+**14.** Schedule 16 has effect as if paragraphs 3(2)(b) and 5(2)(b) were omitted.
+
+### Modification of section 157 (maximum amount of penalty)
+
+**15.** Section 157 has effect as if subsections (1) to (3) and (6) were omitted.
+
+### Modification of section 159 (amount of penalties: supplementary)
+
+**16.** Section 159 has effect as if—
+
+- (a) in subsection (1), the words “Article 83 of the UK GDPR[^key-9c734cf2a296397e70993bbb40b0d68e] and” were omitted;
+- (b) in subsection (2), the words “Article 83 of the UK GDPR[^key-d5cf4246355706c00f697a46e791cdf6] ” and “and section 158” were omitted.
+
+### Modification of section 160 (guidance about regulatory action)
+
+**17.** (1) Section 160 has effect as if subsections (5) and (12) were omitted.
+
+(2) In that section, subsection (4)(f) has effect as if for “controllers and processors” there were substituted “ trust service providers ”.
+
+### Modification of section 162 (rights of appeal)
+
+**18.** (1) Section 162 has effect as if subsection (4) were omitted.
+
+(2) In that section, subsection (1) has effect as if, after paragraph (c), there were inserted—
+
+> - (ca) a withdrawal notice;
+
+.
+
+### Modification of section 163 (determination of appeals)
+
+**19.** Section 163 has effect as if subsection (6) were omitted.
+
+### Modification of section 180 (jurisdiction)
+
+**20.** (1) Section 180 has effect as if subsections (2)(d) and (e) and (3) were omitted.
+
+(2) Subsection (1) of that section has effect as if for “subsections (3) and (4)” there were substituted “ subsection (4) ”.
+
+### ...[^key-a1f119421e2479cdc82378604b2c9db8]
+
+**21.**[^key-a1f119421e2479cdc82378604b2c9db8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Modification of section 196 (penalties for offences)
+
+**22.** (1) Section 196 has effect as if subsections (3) to (5) were omitted.
+
+(2) In that section—
+
+- (a) subsection (1) has effect as if the words “section 119 or 173 or” were omitted;
+- (b) subsection (2) has effect as if for “section 132, 144, 148 , 148C[^key-f2a48226a120ceb863cd65e3f4aa3016], 170, 171 or 184” there were substituted “ section 144 , 148 or 148C[^key-c76e6721a6c9ae362a50bc4a7b48ae62]”.
+
+### Modification of section 197 (prosecution)
+
+**23.** Section 197 has effect as if subsections (3) to (6) were omitted.
+
+### Modification of section 202 (proceedings in the First-tier Tribunal: contempt)
+
+**24.** Section 202 has effect as if in subsection (1)(a), for sub-paragraphs (i) and (ii) there were substituted “ on an appeal under section 162 ”.
+
+### Modification of section 203 (Tribunal Procedure Rules)
+
+**25.** Section 203 has effect as if—
+
+- (a) in subsection (1), for paragraphs (a) and (b) there were substituted “ the exercise of the rights of appeal conferred by section 162 ”;
+- (b) in subsection (2)(a) and (b), for “the processing of personal data” there were substituted “ the provision of trust services ”.
+
+### Approval of first guidance about regulatory action
+
+**26.** (1) This paragraph applies if the first guidance produced under section 160(1) of the Data Protection Act 2018 and the first guidance produced under that provision as applied by this Schedule are laid before Parliament as a single document (“the combined guidance”).
+
+(2) Section 161 of that Act (including that section as applied by this Schedule) has effect as if the references to “the guidance” were references to the combined guidance, except in subsections (2)(b) and (4).
+
+(3) Nothing in subsection (2)(a) of that section (including as applied by this Schedule) prevents another version of the combined guidance being laid before Parliament.
+
+(4) Any duty under subsection (2)(b) of that section (including as applied by this Schedule) may be satisfied by producing another version of the combined guidance.
+
+### Interpretation
+
+**27.** In this Schedule—
+
+- “**the eIDAS requirements**” means the requirements of Chapter III of the eIDAS Regulation;
+- “**the EITSET Regulations**” means these Regulations;
+- “**withdrawal notice**” has the meaning given in section 153A of the Data Protection Act 2018 (as inserted in that Act by this Schedule).
+
+## SCHEDULE 3 — Consequential Amendments
+
+Regulation 5
+
+### 1. Electronic Communications Act 2000
+
+(1) The Electronic Communications Act 2000 [^c23171781] is amended as set out below.
+
+(2) In section 7(2)(b), for paragraph (b) substitute—
+
+> - (b) purports to be used by the individual creating it to sign.
+
+(3) In section 7(3), for the words “establishing the authenticity of the communication or data, the integrity of the communication or data, or both”, substitute “ signing ”.
+
+(4) After section 7, insert—
+
+> **7A. Electronic seals and related certificates**
+>
+> (1) In any legal proceedings—
+>
+> - (a) an electronic seal incorporated into or logically associated with a particular electronic communication or particular electronic data, and
+> - (b) the certification by any person of such a seal,
+>
+> shall each be admissible in evidence in relation to any question as to the authenticity of the communication or data, the integrity of the communication or data, or both.
+>
+> (2) For the purposes of this section an electronic seal is so much of anything in electronic form as—
+>
+> - (a) is incorporated into or otherwise logically associated with electronic communication or electronic data; and
+> - (b) purports to ensure the origin and integrity of the communication or data.
+>
+> (3) For the purposes of this section an electronic seal incorporated into or associated with a particular electronic communication or particular electronic data is certified by any person if that person (whether before or after the making of the communication) has made a statement confirming that—
+>
+> - (a) the seal,
+> - (b) a means of producing, communicating or verifying the seal, or
+> - (c) a procedure applied to the seal,
+>
+> is (either alone or in combination with other factors) a valid means of ensuring the origin of the communication or data, the integrity of the communication or data, or both.
+>
+> **7B. Electronic time stamps and related certificates**
+>
+> (1) In any legal proceedings—
+>
+> - (a) an electronic time stamp incorporated into or logically associated with a particular electronic communication or particular electronic data, and
+> - (b) the certification by any person of such a time stamp,
+>
+> shall each be admissible in evidence in relation to any question as whether the communication or data existed at the time the electronic time stamp was incorporated into or logically associated with such communication or data.
+>
+> (2) For the purposes of this section an electronic time stamp is so much of anything in electronic form as—
+>
+> - (a) is incorporated into or otherwise logically associated with any electronic communication or electronic data; and
+> - (b) purports to bind electronic communication or electronic data to a particular time establishing evidence that such data existed at that time.
+>
+> (3) For the purposes of this section an electronic time stamp incorporated into or associated with a particular electronic communication or particular electronic data is certified by any person if that person (whether before or after the making of the communication) has made a statement confirming that—
+>
+> - (a) the time stamp,
+> - (b) a means of producing, communicating or verifying the time stamp, or
+> - (c) a procedure applied to the time stamp,
+>
+> is (either alone or in combination with other factors) a valid means of establishing whether the communication or data existed at a particular point in time.
+>
+> **7C. Electronic documents and related certificates**
+>
+> (1) In any legal proceedings an electronic document shall be admissible in evidence in relation to any question as to the authenticity of an electronic transaction.
+>
+> (2) For the purposes of this section an electronic document is anything stored in electronic form, including text or sound, and visual or audiovisual recording.
+>
+> **7D. Electronic registered delivery service and related certificates**
+>
+> (1) In any legal proceedings, any electronic communication or electronic data sent and received using an electronic registered delivery service shall be admissible in evidence.
+>
+> (2) For the purposes of this section an electronic registered delivery service is a service which—
+>
+> - (a) provides for the transmission of data between third parties by electronic means;
+> - (b) provides evidence relating to the handling of the transmitted data, including proof of sending and receiving the data; and
+> - (c) protects transmitted data against the risk of loss, theft, damage or unauthorised alterations.
+
+.
+
+### 2. Medicines for Human Use (Clinical Trials) Regulations 2004
+
+In regulation 2(1) (interpretation) of the Medicines for Human Use (Clinical Trials) Regulations 2004 [^c23171791]—
+
+- (a) for the definition “electronic signature”, substitute—
+
+  > “**electronic signature**” means data in electronic form which is attached to or logically associated with other data in electronic form and which is used by the signatory to sign; 
+
+  ; and
+- (b) after the definition of “serious adverse event”, insert—
+
+  > “**signatory**” means a natural person who creates an electronic signature;
+
+  .
+
+### 3. National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004
+
+In regulation 2(1) (interpretation) of the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004 [^c23171801] for the definition of “advanced electronic signature”, substitute—
+
+> “**advanced electronic signature**” means an advanced electronic signature within the meaning given in Article 3(11) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market [^c23171811];
+
+.
+
+### 4. National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004
+
+In regulation 2 (interpretation) of the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004 [^c23171821] for the definition of “advanced electronic signature”, substitute—
+
+> “**advanced electronic signature**” means an advanced electronic signature within the meaning given in Article 3(11) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market;
+
+.
+
+### 5. Hazardous Waste (Wales) Regulations 2005
+
+In the Hazardous Waste (Wales) Regulations 2005 [^c23171831]—
+
+- (a) in the Welsh language text, for regulation 5(3)(ch) (general interpretation) substitute—
+
+  > mae i “llofnod electronig” yr ystyr a roddir i “electronic signature” yn Erthygl 3(10) o Reoliad (EU) Rhif 910/2014 Senedd Ewrop a'r Cyngor ar adnabod electronig a gwasanaethau ymddiried ar gyfer trafodiadau electronig yn y farchnad fewnol.
+
+  ; and
+- (b) in the English language text, for regulation 5(3)(d) (general interpretation) substitute—
+
+  > “**electronic signature**” (“***llofnod electronig***”) has the meaning given in Article 3(10) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market.
+
+  .
+
+### 6. Producer Responsibility Obligations (Packaging Waste) Regulations 2007
+
+In regulation 2 (interpretation and notices) of the Producer Responsibility Obligations (Packaging Waste) Regulations 2007 [^c23171841]—
+
+- (a) in regulation 2(2), after the definition “SIC code”, insert the definition—
+
+  > “**signatory**” means a natural person who creates an electronic signature;
+
+  ; and
+- (b) in regulation 2(5)(d) for the definition “electronic signature”, substitute—
+
+  > “**electronic signature**” means data in electronic form which is attached to or logically associated with other data in electronic form and which is used by the signatory to sign; 
+
+  .
+
+### 7. Defence and Security Public Contracts Regulations 2011[^key-0ddbe50f509afbed2885206e7479b1b3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Human Medicines Regulations 2012
+
+(1) In regulation 8(1) (general interpretation) of the Human Medicines Regulations 2012 [^c23171861], after the definition “electronic communication”, insert—
+
+> “**electronic signature**” has the meaning given within Article 3(10) of Regulation (EU) 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market;
+
+.
+
+(2) In regulation 219(5) (electronic prescriptions) of the Human Medicines Regulations 2012, for the definition of “advanced electronic signature”, substitute—
+
+> “**advanced electronic signature**” has the meaning given within Article 3(11) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market;
+
+.
+
+### 9. National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013
+
+In regulation 2(1) (interpretation) of the National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 [^c23171871]—
+
+- (a) for the definition of “advanced electronic signature”, substitute—
+
+  > “**advanced electronic signature**” means an electronic signature which meets the following requirements—
+  >
+  > - (a) it is uniquely linked to the signatory;
+  > - (b) it is capable of identifying the signatory;
+  > - (c) it is created using electronic signature creation data that the signatory can, with a high level of confidence, use under the signatory's sole control; and
+  > - (d) it is linked to the data signed in such a way that any subsequent change in the data is detectable;
+
+  ;
+- (b) after the definition “electronic repeatable prescription”, insert—
+
+  > “**electronic signature**” means data in electronic form which is attached to or logically associated with other data in electronic form and which is used by the signatory to sign;
+  >
+  > “**electronic signature creation data**” means unique data which is used by the signatory to create an electronic signature;
+
+  ; and
+- (c) after the definition “scheme premises” insert—
+
+  > “**signatory**” means a natural person who creates an electronic signature;
+
+  .
+
+### 10. National Health Service (Pharmaceutical Services) (Wales) Regulations 2013
+
+In the National Health Service (Pharmaceutical Service) (Wales) Regulations 2013 [^c23171881]—
+
+- (a) in the English language text, in regulation 2(1) (interpretation), for the definition “advanced electronic signature”, substitute—
+
+  > “**advanced electronic signature**” means an advanced electronic signature as defined in Article 3(11) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market;
+
+  ; and
+- (b) in the Welsh language text, in regulation 2(1) (Dehongli), for the definition “llofnod electronig uwch”, substitute—
+
+  > ystyr “llofnod electronig uwch” yw llofnod electronic uwch fel y'i diffinir yn Erthygl 3(11) o Reoliad (EU) Rhif 910/2014 Senedd Ewrop a'r Cyngor ar adnabod electronig a gwasanaethau ymddiried ar gyfer trafodiadau electronig yn y farchnad fewnol;
+
+  .
+
+### 11. Reservoirs Act 1975 (Capacity, Registration, Prescribed Forms, etc.) (England) Regulations 2013
+
+In regulation 2(2)(e) (interpretation) of the Reservoirs Act 1975 (Capacity, Registration, Prescribed Forms, etc.) (England) Regulations 2013 [^c23171891], for the definition “electronic signature”, substitute—
+
+> “**electronic signature**” has the meaning given within Article 3(10) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market.
+
+.
+
+### 12. Electronic Documents (Scotland) Regulations 2014
+
+(1) In regulation 1(2) (citation, commencement and interpretation) of the Electronic Documents (Scotland) Regulations 2014 [^c23171901]—
+
+- (a) omit the definition “the 2002 Regulations”;
+- (b) for the definition “advanced electronic signature”, substitute—
+
+  > “**advanced electronic signature**” means an advanced electronic signature within the meaning given in Article 3(11) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market;
+
+  ; and
+- (c) for the definition “signature-creation data”, substitute—
+
+  > “**electronic signature creation data**” has the meaning given in Article 3(13) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market;
+
+  .
+
+(2) For regulation 3(b) (requirements of self-proving electronic document) of the Electronic Documents (Scotland) Regulations 2014, substitute—
+
+> - (b) certified by a qualified certificate for electronic signature as defined in Article 3(15) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market.
+
+.
+
+(3) In regulation 6 (registration of electronic documents in the Land Register) of the Electronic Documents (Scotland) Regulations 2014—
+
+- (a) in sub-paragraph (b), from the words “created by” to the end, substitute—
+
+  > - (i) created by electronic signature creation data associated with a digital certificate supplied by the Keeper in accordance with paragraph (c); or
+  > - (ii) certified by a qualified certificate for electronic signature as defined in Article 3(15) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market;
+
+  ; and
+- (b) at the beginning of sub-paragraph (c), insert “ in the case of an electronic signature under paragraph (b)(i), ”.
+
+### 13. European Union (Recognition of Professional Qualifications) Regulations 2015
+
+In regulation 5(8) (functions of competent authorities in the United Kingdom) of the European Union (Recognition of Professional Qualifications) Regulations 2015 [^c23171911]—
+
+- (a) for “advance electronic signatures under Article 2.2 of Directive [1999/93/EC](https://www.legislation.gov.uk/european/directive/1999/0093) on a Community framework for electronic signatures”, substitute “ advanced electronic signatures under Article 3(11) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market ”; and
+- (b) for “Decision [2009/76/EC](https://www.legislation.gov.uk/european/decision/2009/0076)”, substitute, “Decision [2009/767/EC](https://www.legislation.gov.uk/european/decision/2009/0767) [^c23171921]”.
+
+### 14. National Health Service (Charges for Drugs and Appliances) Regulations 2015
+
+In regulation 2(1) (interpretation) of the National Health Service (Charges for Drugs and Appliances) Regulations 2015 [^c23171931]—
+
+- (a) in the definition of “advanced electronic signature”, for the words “created using means that a signatory can maintain under their sole control”, substitute “ created using electronic signature creation data that the signatory can, with a high level of confidence, use under the signatory's sole control; ”;
+- (b) after the definition of “electronic signature”, insert—
+
+  > “**electronic signature creation data**” means unique data which is used by the signatory to create an electronic signature;
+
+  ; and
+- (c) after the definition “repeatable prescription”, insert—
+
+  > “**signatory**” means a natural person who creates an electronic signature;
+
+  .
+
+### 15. National Health Service (General Medical Services Contracts) Regulations 2015
+
+(1) In regulation 3 (interpretation) of the National Health Service (General Medical Services Contracts) Regulations 2015 [^c23171941]—
+
+- (a) for the definition of “advanced electronic signature”, substitute—
+
+  > “**advanced electronic signature**” means an electronic signature which meets the following requirements—
+  >
+  > - (a) it is uniquely linked to the signatory;
+  > - (b) it is capable of identifying the signatory;
+  > - (c) it is created using electronic signature creation data that the signatory can, with a high level of confidence, use under the signatory's sole control; and
+  > - (d) it is linked to the data signed in such a way that any subsequent change in the data is detectable;
+
+  ;
+- (b) after the definition “electronic repeatable prescription”, insert—
+
+  > “**electronic signature**” means data in electronic form which is attached to or logically associated with other data in electronic form and which is used by the signatory to sign;
+  >
+  > “**electronic signature creation data**” means unique data which is used by the signatory to create an electronic signature;
+
+  ; and
+- (c) after the definition “service provider” insert—
+
+  > “**signatory**” means a natural person who creates an electronic signature;
+
+  .
+
+### 16. National Health Service (Personal Medical Services Agreements) Regulations 2015
+
+In regulation 3 (interpretation) of the National Health Service (Personal Medical Services Agreements) Regulations 2015 [^c23171951]—
+
+- (a) for the definition of “advanced electronic signature”, substitute—
+
+  > “**advanced electronic signature**” means an electronic signature which meets the following requirements—
+  >
+  > - (a) it is uniquely linked to the signatory;
+  > - (b) it is capable of identifying the signatory;
+  > - (c) it is created using electronic signature creation data that the signatory can, with a high level of confidence, use under the signatory's sole control; and
+  > - (d) it is linked to the data signed in such a way that any subsequent change in the data is detectable;
+
+  ;
+- (b) after the definition “electronic repeatable prescription”, insert—
+
+  > “**electronic signature**” means data in electronic form which is attached to or logically associated with other data in electronic form and which is used by the signatory to sign;
+  >
+  > “**electronic signature creation data**” means unique data which is used by the signatory to create an electronic signature;
+
+  ; and
+- (c) after the definition “Scheduled drug”, insert—
+
+  > “**signatory**” means a natural person who creates an electronic signature;
+
+  .
+
+### 17. Public Contracts Regulations 2015[^key-dd5609a9e6c19418b7974afdd839c571]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Public Contracts (Scotland) Regulations 2015
+
+In regulation 23(19) (rules applicable to communication) of the Public Contracts (Scotland) Regulations 2015 [^c23171971], for “Directive [1999/93/EC](https://www.legislation.gov.uk/european/directive/1999/0093) of the European Parliament and of the Council on a Community framework for electronic signatures”, substitute “ Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market ”.
+
+### 19. Concession Contracts (Scotland) Regulations 2016
+
+(1) In regulation 32(18) (rules applicable to communication) of the Concession Contracts (Scotland) Regulations 2016 [^c23171981], for “Directive [1999/93/EC](https://www.legislation.gov.uk/european/directive/1999/0093) of the European Parliament and of the Council on a Community framework for Electronic signatures”, substitute “ Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market ”.
+
+### 20. Utilities Contracts Regulations 2016[^key-8e6458e580bc14d764afa0fa090daf7c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Utilities Contracts (Scotland) Regulations 2016
+
+(1) The Utilities Contracts (Scotland) Regulations 2016 [^c23172001] are amended as set out below.
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) after the definition of “economic operator”, insert—
+
+  > “**eIDAS Regulation**” means Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market;
+
+  ;
+
+  > “**electronic document**” has the meaning given in Article 3(35) of the eIDAS Regulation;
+
+  ;
+- (b) after the definition of “electronic means”, insert—
+
+  > “**electronic signature**” has the meaning given in Article 3(10) of Regulation (EU) No 910/2014 of the eIDAS Regulation;
+
+  ; and
+- (c) after the definition of “Public Contracts (Scotland) Regulations”, insert—
+
+  > “**qualified certificate for electronic signature**” has the meaning given in Article 3(15) of the eIDAS Regulation;
+
+  .
+
+(3) In regulation 38(18)(d) (rules applicable to communication), for the words “qualified certificate”, wherever they may occur, substitute “ qualified certificate for electronic signature ”.
+
+(4) In regulation 38(19) (rules applicable to communication), for “Directive [1999/93/EC](https://www.legislation.gov.uk/european/directive/1999/0093) of the European Parliament and of the Council on a Community framework for electronic signatures” substitute, “ the eIDAS Regulation ”.
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement the provisions of Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market (OJ No L 257, 28.8.2014, p73) (“**the eIDAS Regulation**”).
+
+The eIDAS Regulation repeals and replaces Directive [1999/93/EC](https://www.legislation.gov.uk/european/directive/1999/0093) of the European Parliament and of the Council of 13 December 1999 on a Community Framework for electronic signatures (OJ No L 13, 19.1.2000, p12) which was implemented in the United Kingdom by the Electronic Signatures Regulations 2002 (S.I. 2002/318) (“**the 2002 Regulations**”) and section 7 of the Electronic Communications Act 2000 (2000 c.7) (“the ECA 2000”). These Regulations revoke and replace S.I. 2002/318 and amend the ECA 2000.
+
+Part 2 contains the supervisory provisions. Regulation 3 appoints the Information Commissioner as the supervisory body under these Regulations. The Information Commissioner is responsible for carrying out the supervisory body tasks and enforcing these Regulations.
+
+Part 3 sets out the transitional provisions and consequential amendments. Qualified certificates issued before 1 July 2016, under the 2002 Regulations, are considered to be qualified certificates for electronic signatures under this Regulation until their expiry.
+
+Schedules 1 and 2 set out the penalty and enforcement regime. Schedule 1 provides that where the supervisory body is satisfied that a trust service provider is in contravention of the eIDAS Regulation, it may issue a monetary penalty. Schedule 2 provides that where the supervisory body is satisfied that a trust service provider is in contravention of the eIDAS Regulation, the supervisory body may withdraw the provider's qualified status or serve an enforcement notice, assessment notice or an information notice. A trust service provider served with a monetary penalty or notice may appeal to the Upper or First-tier Tribunal.
+
+A full impact assessment has not been produced for this instrument as no, or no significant impact on the private, voluntary or public sectors is foreseen.
+
+A transposition note is available from the European Reform Directorate, Department for Business, Innovation and Skills, 1 Victoria Street, London SW1H 0ET and is also published with the Explanatory Memorandum alongside these Regulations on www.legislation.gov.uk.
+
+## Annotations
+
+[^c23171601]: Marginal citation: [S.I. 2015/1770](https://www.legislation.gov.uk/uksi/2015/1770).
+
+[^c23171611]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); [section 2(2)](https://www.legislation.gov.uk/uksi/2016/696/section/2/2) was amended by the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51), [section 27(1)](https://www.legislation.gov.uk/ukpga/2006/51/section/27/1) and the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), [Sch](https://www.legislation.gov.uk/ukpga/2008/7/schedule)edule, Part 1.
+
+[^c23171621]: Marginal citation: OJ No L 257, 28.8.2014, p73.
+
+[^c23171631]: Marginal citation: [Paragraph 1A](https://www.legislation.gov.uk/uksi/2016/696/paragraph/1A) of Schedule 2 was inserted by the Legislative and Regulatory Reform Act 2006, section 28 and amended by the European Union (Amendment) Act 2008, Schedule, Part 1.
+
+[^key-b27250dd4808b99c40177aa4ba449398]: Textual amendment: Words in reg. 2(1) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 404](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/404) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^c23171651]: Marginal citation: [S.I. 2002/318](https://www.legislation.gov.uk/uksi/2002/318).
+
+[^c23171661]: Marginal citation: OJ No L 257, 28.8.2014, p73.
+
+[^c23171671]: Marginal citation: [1998 c.29](https://www.legislation.gov.uk/ukpga/1998/29); section 70(1) was amended by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).
+
+[^key-87867bcb0958410a0f10e128097b60ca]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2016/696/regulation/2/3) inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 134(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/134/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/u)
+
+[^key-19d7057799ecce52c4455f2f66cb2e1b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2016/696/regulation/3/1) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 19(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/19/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-58d38714b7232cad0a5ab2e0ef50f93b]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2016/696/regulation/3/3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 19(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/19/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-c8f19101090926510b78b6dddc87f8f9]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2016/696/regulation/3/3) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 405](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/405) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-e45af7d4481cb0d65524b5e023e972a5]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2016/696/regulation/6/2) omitted (31.12.2020) by virtue of [The Electronic Identification and Trust Services for Electronic Transactions (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/89)](https://www.legislation.gov.uk/uksi/2019/89), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/89/regulation/1/2), [Sch. para. 60](https://www.legislation.gov.uk/uksi/2019/89/schedule/paragraph/60); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-04f98414991ac71d8d5c94b0e2515153]: Textual amendment: Words in [Sch. 1 para. 4(f)](https://www.legislation.gov.uk/uksi/2016/696/schedule/1/paragraph/4/f) substituted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 134(4)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/134/4/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/u)
+
+[^key-02b102aefd6d5941f7207508a4506b01]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/696/schedule/1/paragraph/5) substituted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 134(4)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/134/4/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/u)
+
+[^key-5594ec41af4368079cca2251c237c2da]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2016/696/schedule/1/paragraph/6) substituted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 134(4)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/134/4/c), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/u)
+
+[^key-739d0b0213e55acd9608b8ff661a0145]: Textual amendment: Sch. 2 substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 406](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/406) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/625/regulation/4))
+
+[^key-6b214ce2f0ac22968b5adab028df8631]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2016/696/schedule/2) heading substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 19(3)(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/19/3/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-e6bfa6c145a48059985a994ab031b1e2]: Textual amendment: Word in [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2016/696/schedule/2/paragraph/1/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 19(3)(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/19/3/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-8eea88fd3834e9d303959be101d74097]: Textual amendment: Word in Sch. 2 para. 1(b) substituted (19.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 96(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/96/4), [142(3)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/3/c)
+
+[^key-4ec356bb6dc0b276122382d55035e5eb]: Textual amendment: Word in [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2016/696/schedule/2/paragraph/1/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 19(3)(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/19/3/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-285a27e1464aabd541ff22ddebb81fb5]: Textual amendment: Sch. 2 para. 1(ga) inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 105(2)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/105/2/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/u)
+
+[^key-fcbe31a2cdd032071962a035471c3c25]: Textual amendment: Sch. 2 para. 1(ia)-(ic) inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 105(2)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/105/2/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/u)
+
+[^key-cc61c78aab4e83db3177d87a6f9f522b]: Textual amendment: Words in Sch. 2 para. 4(2)(b) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 105(3)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/105/3/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/u)
+
+[^key-b88f2c38c7d476b362f8f703c0c0f855]: Textual amendment: Words in Sch. 2 para. 4(2)(c) inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 105(3)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/105/3/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/u)
+
+[^key-311927bc4c9b891901c3a5329c83a1b2]: Textual amendment: Sch. 2 para. 6(2)(b) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 105(4)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/105/4/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/u)
+
+[^key-3c71ad8d32b301ba814cc4ca53551b15]: Textual amendment: Words in Sch. 2 para. 6(2)(c) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 105(4)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/105/4/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/u)
+
+[^key-90cd5debb5abbd9c85ef3a6c08e62a79]: Textual amendment: Words in Sch. 2 para. 6(2)(d) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 105(4)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/105/4/c), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/u)
+
+[^key-594f663764099eb9decc864968a716c0]: Textual amendment: Sch. 2 para. 6A inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 105(5)](https://www.legislation.gov.uk/ukpga/2025/18/section/105/5), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/u)
+
+[^key-6f0b6652e6131f28830e4a9083490fa7]: Textual amendment: Sch. 2 paras. 7A, 7B inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 105(6)](https://www.legislation.gov.uk/ukpga/2025/18/section/105/6), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/u)
+
+[^key-9a29a85c93f222dc9a52244b4c1145a4]: Textual amendment: Word in [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2016/696/schedule/2/paragraph/11) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 19(3)(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/19/3/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+
+[^key-b7ea86712b53ea94f25ea7c50ff8ff13]: Textual amendment: Words in Sch. 2 para. 12(2) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 105(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/105/7), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/u)
+
+[^key-3f7c544c3201406ecbb72b5450e6de27]: Textual amendment: Words in Sch. 2 para. 13(3)(c) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 105(8)](https://www.legislation.gov.uk/ukpga/2025/18/section/105/8), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/u)
+
+[^key-9c734cf2a296397e70993bbb40b0d68e]: Textual amendment: Words in Sch. 2 para. 16(a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 101](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/101) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d5cf4246355706c00f697a46e791cdf6]: Textual amendment: Words in Sch. 2 para. 16(b) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 101](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/101) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a1f119421e2479cdc82378604b2c9db8]: Textual amendment: Sch. 2 para. 21 omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 105(9)](https://www.legislation.gov.uk/ukpga/2025/18/section/105/9), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/u)
+
+[^key-f2a48226a120ceb863cd65e3f4aa3016]: Textual amendment: Word in Sch. 2 para. 22(2)(b) inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 105(10)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/105/10/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/u)
+
+[^key-c76e6721a6c9ae362a50bc4a7b48ae62]: Textual amendment: Words in Sch. 2 para. 22(2)(b) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 105(10)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/105/10/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/u)
+
+[^c23171781]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7).
+
+[^c23171791]: Marginal citation: [S.I. 2004/1031](https://www.legislation.gov.uk/uksi/2004/1031), to which there are amendments not relevant to these Regulations.
+
+[^c23171801]: Marginal citation: S.S.I 2004/115, amended by [S.S.I. 2007/206](https://www.legislation.gov.uk/ssi/2007/206); there are other amending instruments but none is relevant.
+
+[^c23171811]: Marginal citation: OJ No L 257, 28.8.14, p73.
+
+[^c23171821]: Marginal citation: S.S.I 2004/116, amended by S.S.I 2007/205; there are other amending instruments but none is relevant.
+
+[^c23171831]: Marginal citation: [S.I. 2005/1806](https://www.legislation.gov.uk/uksi/2005/1806) (W.138). The Regulations are made in Welsh and English. By virtue of section 156(1) of the [Government of Wales Act 2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32) the English and Welsh texts are to be treated for all purposes as being of equal standing. The title of the Regulations in Welsh is Rheoliadau Gwastraff Peryglus (Cymru) 2005.
+
+[^c23171841]: Marginal citation: [S.I. 2007/871](https://www.legislation.gov.uk/uksi/2007/871), amended by [S.I. 2010/2849](https://www.legislation.gov.uk/uksi/2010/2849); there are other amending instruments but none is relevant.
+
+[^key-0ddbe50f509afbed2885206e7479b1b3]: Textual amendment: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2016/696/schedule/3/paragraph/7) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+
+[^c23171861]: Marginal citation: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916); amended by [S.I. 2015/903](https://www.legislation.gov.uk/uksi/2015/903); there are other amending instruments but none is relevant.
+
+[^c23171871]: Marginal citation: [S.I. 2013/349](https://www.legislation.gov.uk/uksi/2013/349), to which there are amendments not relevant to these Regulations.
+
+[^c23171881]: Marginal citation: [S.I. 2013/898](https://www.legislation.gov.uk/uksi/2013/898) (W.102). The Regulations are made in Welsh and English. By virtue of section 156(1) of the [Government of Wales Act 2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32) the English and Welsh texts are to be treated for all purposes as being of equal standing. The title of the Regulations in Welsh is Rheoliadau'r Gwasanaeth Iechyd Gwladol (Gwasanaethau Fferyllol) (Cymru) 2013.
+
+[^c23171891]: Marginal citation: [S.I. 2013/1677](https://www.legislation.gov.uk/uksi/2013/1677).
+
+[^c23171901]: Marginal citation: [S.S.I. 2014/83](https://www.legislation.gov.uk/ssi/2014/83), as amended by [S.S.I. 2014/347](https://www.legislation.gov.uk/ssi/2014/347); there are other amending instruments but none is relevant.
+
+[^c23171911]: Marginal citation: [S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059).
+
+[^c23171921]: Marginal citation: OJ No L 274, 20.10.2009, p36.
+
+[^c23171931]: Marginal citation: [S.I. 2015/570](https://www.legislation.gov.uk/uksi/2015/570).
+
+[^c23171941]: Marginal citation: [S.I. 2015/1862](https://www.legislation.gov.uk/uksi/2015/1862).
+
+[^c23171951]: Marginal citation: [S.I. 2015/1879](https://www.legislation.gov.uk/uksi/2015/1879).
+
+[^key-dd5609a9e6c19418b7974afdd839c571]: Textual amendment: [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2016/696/schedule/3/paragraph/17) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+
+[^c23171971]: Marginal citation: [S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446).
+
+[^c23171981]: Marginal citation: [S.S.I. 2016/65](https://www.legislation.gov.uk/ssi/2016/65); amended by [S.S.I. 2016/125](https://www.legislation.gov.uk/ssi/2016/125).
+
+[^key-8e6458e580bc14d764afa0fa090daf7c]: Textual amendment: [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2016/696/schedule/3/paragraph/20) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+
+[^c23172001]: Marginal citation: [S.S.I. 2016/49](https://www.legislation.gov.uk/ssi/2016/49).

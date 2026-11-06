@@ -1,0 +1,183 @@
+---
+title: The Addition of Vitamins, Minerals and Other Substances (England) Regulations 2007
+id: uksi/2007/1631
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-06-07'
+text_date: '2020-12-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2007/1631
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2007/1631/pdfs/uksiem_20071631_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/1631/pdfs/uksi_20071631_en.pdf
+- http://www.legislation.gov.uk/uksi/2007/1631/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Addition of Vitamins, Minerals and Other Substances (England) Regulations 2007
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2007 No. 1631
+
+food, england
+
+The Addition of Vitamins, Minerals and Other Substances (England) Regulations 2007
+
+Made
+
+7th June 2007
+
+Laid before Parliament
+
+13th June 2007
+
+Coming into force
+
+7th August 2007
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 16(1)(a), (e) and (f), 17(2), 26(1)(a) and (3), and 48(1) of the Food Safety Act 1990 [^c18724171], and now vested in her [^c18724181].
+
+In accordance with section 48(4A) of that Act, she has had regard to relevant advice given by the Food Standards Agency.
+
+As required by Article 9 of Regulation (EC) No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c18724191], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
+
+## 1. Title, application and commencement
+
+These Regulations may be cited as the Addition of Vitamins, Minerals and Other Substances (England) Regulations 2007, apply in relation to England only and come into force on 7th August 2007.
+
+## 2. Interpretation
+
+(1) In these Regulations —
+
+- “**the Act**” means the Food Safety Act 1990;
+- “**food authority**” does not include —
+  - (a) the appropriate Treasurer referred to in section 5(1)(c) of the Act (which deals with the Inner Temple and Middle Temple); or
+  - (b) the council of a district of a non-metropolitan county except where the county functions have been transferred to that council pursuant to a structural change;
+- “**port health authority**” means —
+  - (a) in relation to the London port health district, the Common Council of the City of London, and
+  - (b) in relation to any port health district constituted by order under section 2(3) of the Public Health (Control of Disease) Act 1984 [^c18724201], a port health authority for that district constituted by order under section 2(4) of that Act;
+- “the[^key-769deef3f975efe9ddf133c5a72f2cbd] EC Regulation” means Regulation [(EC) No. 1925/2006](https://www.legislation.gov.uk/eur/2006/1925) of the European Parliament and of the Council on the addition of vitamins and minerals and of certain other substances to foods, as Annex I, II or III[^key-30ea98bd034e567423c5d73b643c4c22] to that Regulation may be amended from time to time;
+
+(2) Expressions used in these Regulations and in the EC Regulation have the same meaning in these Regulations as they do in that Regulation.
+
+(3) Any reference to a numbered Article or Annex is a reference to the Article or Annex so numbered in the EC Regulation.
+
+## 3. Enforcement
+
+Each port health authority within its district and each food authority within its area shall execute and enforce the provisions of these Regulations and of the EC Regulation.
+
+## 4. Offences and penalties
+
+(1) [^key-e4e765e9b47ef8f6926c30479e72b36d]... Any person who contravenes or fails to comply with the provisions of the EC Regulation specified in paragraph (2) is guilty of an offence and liable —
+
+- (a) on conviction on indictment to a term of imprisonment not exceeding two years or to a fine or both;
+- (b) on summary conviction to a term of imprisonment not exceeding three months or to a fine not exceeding the statutory maximum or both.
+
+(2) The specified provisions referred to in paragraph (1) are —
+
+- (a) Article 3(1) (requirement that only vitamins or minerals listed in Annex I and in form listed in Annex II may be added to food) [^key-5fcb91475fe886c80da431dd042aa364]...;
+- (b) Article 4 (prohibition on addition of vitamins and minerals to certain foods);
+- (c) Article 5(2) (requirement to observe purity criteria);
+- (d) Article 6(6) (requirement for added vitamins and minerals to be in the food in at least a significant amount as defined); [^key-eff6c48d85bf13a2fec47ce1443987cf]...
+- (e)[^key-dc8f43c9bd9f82a9db951fb28ddfd599] Article 7(1), (2) and (3) (restrictions and conditions applying to labelling, presentation and advertising of foods to which vitamins or minerals have been added).
+- (f)[^key-405fcd15f812e1855e029ec872759096] Article 8(2)(a)(i) (prohibition of the addition of a substance listed in Annex III, Part A to foods or its use in the manufacture of foods); and
+- (g) Article 8(2)(a)(ii) (prohibition of the addition of a substance listed in Annex III, Part B to foods or its use in the manufacture of foods unless that substance is added or used in accordance with the conditions specified in that Part).
+
+## 4A. Transitional provision in relation to food containing substance listed in Annex III, Part B[^key-dd8ce56eb5232f6e18740d9821e99121]
+
+An offence is not committed under paragraph (1) of regulation 4 by virtue of paragraph (2)(g) of that regulation in respect of the addition of a substance to, or its use in the manufacture of, any food if—
+
+- (a) the food is placed on the market before 1st April 2021; and
+- (b) the substance concerned falls within the entry in Annex III, Part B relating to trans fat other than trans fat naturally occurring in fat of animal origin.
+
+## 5. Application of various provisions of the Act
+
+The following provisions of the Act shall apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part of it is to be construed as a reference to these Regulations —
+
+- (a) section 2 (extended meaning of “sale” etc);
+- (b) section 3 (presumption that food is intended for human consumption);
+- (c) section 20 (offences due to the fault of another person);
+- (d) section 21 (defence of due diligence) as it applies for the purposes of section 14 or 15;
+- (e) section 22 (defence of publication in the course of business);
+- (f) section 30(8) (which relates to documentary evidence);
+- (g) section 34 (time limit for prosecution);
+- (h) section 36 (offences by bodies corporate);
+- (i) section 36A (offences by Scottish partnerships); and
+- (j) section 44 (protection of officers acting in good faith).
+
+## 6. Obstruction of officers and provision of information etc
+
+(1) Any person who —
+
+- (a) intentionally obstructs any person acting in the execution of these Regulations; or
+- (b) without reasonable cause, fails to give to any person acting in the execution of these Regulations any assistance or information which that person may reasonably require of him;
+
+is guilty of an offence and liable on summary conviction to a term of imprisonment not exceeding 3 months or a fine not exceeding level 5 on the standard scale or both.
+
+(2) Any person who, in purported compliance with any requirement mentioned in paragraph (1)(b), knowingly or recklessly provides information that is materially false or misleading in any material particular, is guilty of an offence and liable —
+
+- (a) on conviction on indictment, to a term of imprisonment not exceeding two years or to a fine or both;
+- (b) on summary conviction to a term of imprisonment not exceeding 3 months or to a fine not exceeding the statutory maximum or both.
+
+(3) Nothing in paragraph (1)(b) shall be construed as requiring any person to answer any question or give any information if to do so might incriminate him.
+
+Signed by authority of the Secretary of State for Health
+
+Caroline Flint
+
+Minister of State
+
+Department of Health
+
+*(This note is not part of the Regulations)*
+
+**1.** These Regulations, which apply in relation to England only, make provision for the execution and enforcement of Regulation [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council on the addition of vitamins and minerals and of certain other substances to foods (OJ No. L404, 30.12.2006, p.26), “the EC Regulation”.
+
+**2.** The Regulations —
+
+- (a) specify the enforcement authorities (*regulation 3*);
+- (b) provide that, subject where relevant to the transitional arrangements specified in the EC Regulation, it is an offence —
+  - (i) to fortify foods with vitamins or minerals other than those permitted by the EC Regulation and in the forms specified therein;
+  - (ii) to add vitamins or minerals to certain specified foods;
+  - (iii) to fail to adhere to the relevant purity criteria in the manufacture of vitamin formulations or mineral substances;
+  - (iv) to add a vitamin or mineral to foods in less than a significant amount, as that term is defined in Community legislation; and
+  - (v) to fail to comply with certain requirements for the labelling and presentation of foods to which vitamins or minerals have been added (*regulation 4*);
+- (c) apply various provisions of the Food Safety Act 1990 for the purposes of these Regulations (*regulation 5*); and
+- (d) provide that, subject to certain limitations, it is an offence to obstruct, fail to give information to or intentionally mislead anyone executing and enforcing these Regulations (*regulation 6*).
+
+**3.** A full regulatory impact assessment of the effect that this instrument will have on the costs of business has been prepared and placed in the library of each of the Houses of Parliament. Copies may be obtained from the Nutrition Division of the Food Standards Agency, Aviation House, 125 Kingsway, London WC 2B 6NH.
+
+## Annotations
+
+[^c18724171]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16). section 1(1) and (2) (definition of “food”) was substituted by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). Sections 17 and 48 were amended by paragraphs 12 and 21 respectively of Schedule 5 to the [Food Standards Act 1999 (1999 c.28)](https://www.legislation.gov.uk/ukpga/1999/28), “the 1999Act”. Section 48 was also amended by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). Section 26(3) was amended by Schedule 6 to the 1999 Act. Section 53(2) was amended by paragraph 19 of Schedule 16 to the [Deregulation and Contracting Out Act 1994 (1994 c.40)](https://www.legislation.gov.uk/ukpga/1994/40), [Schedule 6](https://www.legislation.gov.uk/ukpga/1994/40/schedule/6) to the 1999 Act and [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990).
+
+[^c18724181]: Marginal citation: Functions formerly exercisable by “the Ministers” (being, in relation to England and Wales and acting jointly, the Minister of Agriculture, Fisheries and Food and the Secretaries of State respectively concerned with health in England and food and health in Wales and, in relation to Scotland, the Secretary of State) are now exercisable in relation to England by the Secretary of State pursuant to paragraph 8 of Schedule 5 to the 1999 Act. Functions of “the Ministers” so far as exercisable in relation to Wales were transferred to the National Assembly for Wales by the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672) as read with section 40(3) of the 1999 Act and thereafter transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the [Government of Wales Act 2006 (2006 c.32)](https://www.legislation.gov.uk/ukpga/2006/32). Those functions so far as exercisable in relation to Scotland were transferred to the Scottish Ministers by section 53 of the [Scotland Act 1998 (1998 c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) as read with section 40(2) of the 1999 Act.
+
+[^c18724191]: Marginal citation: OJ No. L31, 1.2.2002, p.1. That Regulation was last amended as at the date this instrument was made by Commission Regulation (EC) No. 575/2006 (OJ No. L100, 8.4.2006, p3).
+
+[^c18724201]: Marginal citation: [1984 c.22](https://www.legislation.gov.uk/ukpga/1984/22).
+
+[^key-769deef3f975efe9ddf133c5a72f2cbd]: Textual amendment: Words in reg. 2(1) substituted (1.10.2010) by [The Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2010 (S.I. 2010/1886)](https://www.legislation.gov.uk/uksi/2010/1886), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1886/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/1886/regulation/3)
+
+[^key-30ea98bd034e567423c5d73b643c4c22]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/1631/regulation/2/1) substituted (3.4.2020) by [The Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2020 (S.I. 2020/256)](https://www.legislation.gov.uk/uksi/2020/256), [regs. 1](https://www.legislation.gov.uk/uksi/2020/256/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/256/regulation/2/2)
+
+[^key-e4e765e9b47ef8f6926c30479e72b36d]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2007/1631/regulation/4/1) omitted (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2019/651/regulation/13/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5fcb91475fe886c80da431dd042aa364]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2007/1631/regulation/4/2/a) omitted (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2019/651/regulation/13/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-eff6c48d85bf13a2fec47ce1443987cf]: Textual amendment: Word in [reg. 4(2)(d)](https://www.legislation.gov.uk/uksi/2007/1631/regulation/4/2/d) omitted (3.4.2020) by virtue of [The Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2020 (S.I. 2020/256)](https://www.legislation.gov.uk/uksi/2020/256), [regs. 1](https://www.legislation.gov.uk/uksi/2020/256/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/256/regulation/2/3/a)
+
+[^key-dc8f43c9bd9f82a9db951fb28ddfd599]: Textual amendment: Reg. 4(2)(e) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 46](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/46)
+
+[^key-405fcd15f812e1855e029ec872759096]: Textual amendment: [Reg. 4(2)(f)](https://www.legislation.gov.uk/uksi/2007/1631/regulation/4/2/f)[(g)](https://www.legislation.gov.uk/uksi/2007/1631/regulation/4/2/g) inserted (3.4.2020) by [The Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2020 (S.I. 2020/256)](https://www.legislation.gov.uk/uksi/2020/256), [regs. 1](https://www.legislation.gov.uk/uksi/2020/256/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/256/regulation/2/3/b)
+
+[^key-dd8ce56eb5232f6e18740d9821e99121]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2007/1631/regulation/4A) inserted (3.4.2020) by [The Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2020 (S.I. 2020/256)](https://www.legislation.gov.uk/uksi/2020/256), [regs. 1](https://www.legislation.gov.uk/uksi/2020/256/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/256/regulation/2/4)

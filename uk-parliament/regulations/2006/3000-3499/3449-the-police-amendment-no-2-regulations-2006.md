@@ -1,0 +1,208 @@
+---
+title: The Police (Amendment) (No. 2) Regulations 2006
+id: uksi/2006/3449
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2006-12-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2006/3449
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/3449/pdfs/uksiem_20063449_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/3449/pdfs/uksi_20063449_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/3449/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police (Amendment) (No. 2) Regulations 2006
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2006 No. 3449
+
+police, england and wales
+
+The Police (Amendment) (No. 2) Regulations 2006
+
+Made
+
+21st December 2006
+
+Laid before Parliament
+
+22nd December 2006
+
+Coming into force
+
+1st February 2007
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 50 of the Police Act 1996[^f00001].
+
+In accordance with section 62(1) of that Act, he has taken into consideration the recommendations of the Police Negotiating Board and supplied that Board with a draft of these Regulations.
+
+In accordance with section 63(3) of that Act, he has supplied a draft of these Regulations to the Police Advisory Board for England and Wales and taken into consideration their representations.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Police (Amendment) (No. 2) Regulations 2006.
+
+(2) These Regulations come into force on 1st Feburary 2007 but—
+
+- (a) regulation 6 has effect from 16th April 2003[^f00002];
+- (b) regulation 8 has effect from 24th July 2003;
+- (c) regulation 9 has effect from 1st April 2004.
+
+(3) In these Regulations “the 2003 Regulations” means the Police Regulations 2003[^f00003].
+
+## 2. Amendments to the 2003 Regulations
+
+(1) Regulation 7 of the 2003 Regulations (business interests incompatible with membership of a police force) is amended as follows.
+
+(2) In paragraph (1)–
+
+- (a) omit the words “or a relative included in his family”; and
+- (b) for the words “was disclosed at the time of his appointment as a member of the force” substitute the words “has previously been disclosed”.
+
+(3) After paragraph (1) insert the following paragraph—
+
+> (1A) If a member of a police force is or becomes aware that a relative included in his family proposes to have, or has, a business interest within the meaning of this regulation which in the opinion of that member interferes, or could be seen as interfering, with the impartial discharge of his duties, then that member shall forthwith give written notice of that interest to the chief officer unless that business interest has previously been disclosed.
+
+(4) In paragraph (2)–
+
+- (a) for the words “a notice given under paragraph (1)” substitute “a notice given under paragraph (1) or (1A) or a referral given under paragraph (5A)”;
+- (b) after the words “that notice” insert “or, as the case may be, that referral”.
+
+(5) After paragraph (2) insert the following paragraph—
+
+> (2A) In making a determination under paragraph (2) the chief officer shall have regard to whether as a result of the interest in question the member’s conduct fails, or would fail, to meet the appropriate standard set out in the Code of Conduct in Schedule 1 to the Police (Conduct) Regulations 2004[^f00004].
+
+(6) In paragraph (5) after the words “the police authority shall,” insert “subject to paragraph (5A),”.
+
+(7) After paragraph (5) insert the following paragraph—
+
+> (5A) In a case where it appears to the police authority that—
+>
+> - (a) the member has adduced substantive reasons why he or a relative included in his family should be permitted to have the business interest in question and those reasons have not been considered by the chief officer, or
+> - (b) in reaching his determination under paragraph (2) the chief officer failed to apply fair procedures,
+>
+> then the authority may refer the matter back to the chief officer for redetermination under paragraph (2).
+
+**3.** (1) Regulation 8 of the 2003 Regulations (business interests: supplementary) is amended as follows.
+
+(2) At the end of paragraph (1)(a) insert “or”.
+
+(3) Omit paragraph (1)(b).
+
+(4) In paragraph (1)(c) for the words “his spouse (not being separated from him)” substitute “his spouse or civil partner (in each case not being separated from him)”.
+
+(5) In paragraph (1) for the words “or sister” substitute “, sister, civil partner or any person living with the member as if they were his spouse or civil partner.”
+
+(6) In paragraph (3) after the words “regulation 7(1)” insert “or (1A)”.
+
+**4.** In regulation 15(2)(c) (contents of personal records) after “his marriage” insert “or civil partnership”.
+
+**5.** (1) Regulation 22 of the 2003 Regulations (duty) is amended as follows.
+
+(2) At the end of paragraph (1)(d) omit “and”.
+
+(3) After paragraph (1)(e) insert the following sub-paragraphs—
+
+> - (f) the circumstances in which a member of a police force is to be treated as if he were a night worker for the purposes of regulation 2(1) (interpretation) of the Working Time Regulations 1998[^f00005]; and
+> - (g) the periods which are to be treated as if they were additional periods of working time for the purposes of regulation 2(1) of the Working Time Regulations 1998.
+
+**6.** (1) Regulation 24 of the 2003 Regulations (pay) is amended as follows.
+
+(2) For paragraph (3)(f) substitute the following sub-paragraph—
+
+> - (f) in the case of a female member who has taken one or more periods of maternity leave, in respect of each maternity period—
+>   - (i) where that leave has been for 26 weeks or more, account shall be taken of the first 26 weeks whilst on maternity leave;
+>   - (ii) where that leave has been for less than 26 weeks, account shall be taken of any period spent on maternity leave;
+>
+> and where that member has, at the beginning of the fourteenth week before the expected date of birth of the member’s child, as given in accordance with a determination under regulation 33(7), served continuously as a member of a police force for a period of not less than 26 weeks, account shall in addition be taken of any period (not being a period of which account has been taken under paragraph (i) or (ii)) spent on maternity leave during the period of 29 weeks beginning with the week in which the child is born;
+
+.
+
+(3) After paragraph (3)(g) insert the following sub-paragraphs—
+
+> - (h) in the case of a member who has taken one or more periods of adoption leave, in respect of each adopted child—
+>   - (i) where that leave has been for one week or more, account shall be taken of the first week whilst on adoption leave;
+>   - (ii) where that leave has been for less than one week, account shall be taken of any period spent on adoption leave;
+>
+> and where that member has, at the end of the week in which they are notified of being matched with a child for adoption, served continuously as a member of a police force for a period of not less than 26 weeks, account shall in addition be taken of any period spent on adoption leave during the period of 26 weeks beginning with the week in which the child is placed with the officer for adoption;
+>
+> - (i) in the case of a member who has taken one or more periods of maternity support leave, account shall be taken of any period of such leave taken in accordance with a determination under regulation 33(8)(a);
+> - (j) in the case of a member who has taken one or more periods of adoption support leave, account shall be taken of any period of such leave taken in accordance with a determination under regulation 33(8)(d).
+
+.
+
+**7.** (1) Regulation 33 of the 2003 Regulations (leave) is amended as follows.
+
+(2) In paragraph (8)(b) omit the word “and”.
+
+(3) After paragraph (8)(c) insert—
+
+> and
+>
+> - (d) adoption support leave,
+
+.
+
+(4) After paragraph (11) insert the following paragraphs—
+
+> (12) The Secretary of State shall determine the circumstances in which, and the terms on which, a member of a police force shall be entitled to take a career break.
+>
+> (13) Any determination under paragraph (12) shall be without prejudice to any arrangement in place under which a member is taking a career break at the time that paragraph comes into force.
+
+**8.** (1) Regulation 35 of the 2003 Regulations (expenses) is amended as follows.
+
+(2) After paragraph (2) insert the following paragraph—
+
+> (3) The expenses that may be reimbursed under a determination made under paragraph (1) include tax paid by a chief officer in connection with removal or relocation expenses associated with his appointment.
+
+**9.** (1) Schedule 2 to the 2003 Regulations (effect of disciplinary action on pay and allowances) is amended as follows.
+
+(2) In paragraph 1(2) for “the Police (Conduct) (Senior Officers) Regulations 1999” substitute “the Police (Conduct) Regulations 2004”.
+
+Tony McNulty
+
+Minister of State
+
+Home Office
+
+21st December 2006
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Police Regulations 2003. Regulation 6 has effect from 16th April 2003, regulation 8 has effect from 24th July 2003 and regulation 9 has effect from 1st April 2004. Retrospective effect is permitted by section 50(5) of the Police Act 1996.
+
+Regulations 2 and 3 relate to the prohibition on police officers from having business interests which are incompatible with membership of a police force. Regulation 2(3) provides that where the business interest concerned is held by a relative of the officer, then the duty to notify this arises only in cases when officer believes that this interest could interfere with the discharge of his duties. Regulation 2(5) provides that in determining whether a business interest is incompatible, the chief officer must have regard to the statutory Code of Conduct. Regulation 2(7) provides that in certain circumstances a police authority may remit a decision to a chief officer for redetermination, rather than themselves determining an appeal. Regulation 3 extends the category of persons whose interests may be incompatible with an officer’s membership of a police force so as to include a civil partner or a co-habitee of the officer.
+
+Regulation 4 provides that the personal record to be kept of each police officer shall contain particulars of his civil partnership (if any).
+
+Regulation 5 gives the Secretary of State power to make determinations relating to night work and working time.
+
+Regulation 6 amends the circumstances in which an officer’s maternity leave counts as service for the purposes of her pay, and sets out the circumstances in which periods of adoption leave, maternity support leave and adoption support leave are to so count.
+
+Regulation 7 gives the Secretary of State power to make determinations relating to adoption support leave and career breaks.
+
+Regulation 8 gives the Secretary of State power to make a determination that would give police authorities a discretion to reimburse to chief officers the tax payable in relation to removal expenses.
+
+Regulation 9 makes an amendment consequential on the revocation and replacement of the Police (Conduct) (Senior Officers) Regulations 1999 by the Police (Conduct) Regulations 2004.
+
+## Annotations
+
+[^f00001]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16); there are amendments to sections 50, 62(1) and 62(3) which are not relevant to the subject matter of these Regulations.
+
+[^f00002]: Footnote: In the case of sub-paragraphs (a) and (b) this is the date on which the agreement which the provision implements was reached in the Police Negotiating Board. In the case of sub-paragraph (c) this is the date on which the Police (Conduct) Regulations 2004 ([S.I. 2004/645](https://www.legislation.gov.uk/uksi/2004/645)) came into force. Retrospective effect is permitted by section 50(5) of the Police Act 1996.
+
+[^f00003]: Footnote: [S.I. 2003/527](https://www.legislation.gov.uk/uksi/2003/527), as amended by [S.I. 2003/2594](https://www.legislation.gov.uk/uksi/2003/2594), [2004/3216](https://www.legislation.gov.uk/uksi/2004/3216), [2005/2834](https://www.legislation.gov.uk/uksi/2005/2834), [2006/1467](https://www.legislation.gov.uk/uksi/2006/1467) and [2006/2278](https://www.legislation.gov.uk/uksi/2006/2278).
+
+[^f00004]: Footnote: [S.I. 2004/645](https://www.legislation.gov.uk/uksi/2004/645), to which there are amendments not relevant to these Regulations.
+
+[^f00005]: Footnote: [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833), to which there are amendments not relevant to these Regulations.

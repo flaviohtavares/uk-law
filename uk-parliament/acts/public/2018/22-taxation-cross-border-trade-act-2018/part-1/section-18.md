@@ -1,0 +1,41 @@
+---
+title: Taxation (Cross-border Trade) Act 2018, section 18
+act: Taxation (Cross-border Trade) Act 2018
+section: '18'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2018/22/section/18
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Taxation (Cross-border Trade) Act 2018, section 18
+
+> **Warning: changes not yet applied to this text (26).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 18. Currency[^c23439181][^key-210f86213452e838e47a3de313478fe6]
+
+*Extent: E+W+S+N.I.*
+
+(1) The value of chargeable goods for the purposes of this Part must be calculated and expressed in sterling.
+
+(2) If an amount that is relevant for the purpose of calculating the value of goods for the purposes of this Part is expressed in a currency other than sterling, the amount must be converted into its sterling equivalent.
+
+(3) The conversion must be made in accordance with provision contained in a public notice given by HMRC Commissioners.
+
+(4) The public notice may make provision—
+
+- (a) specifying the exchange rate that must be used for the purposes of this section,
+- (b) for the conversion to be made by reference to an exchange rate (or rates) applicable at any time (including a time earlier than that at which an importation took place) or by reference to the average exchange rate for a specified period,
+- (c) for the exchange rate determined in accordance with the notice to apply to transactions or other events taking place in a specified period,
+- (d) for adjusting the applicable exchange rate if the value of sterling against the currency concerned has increased or decreased by more than a specified percentage, and
+- (e) for any conversion to be rounded up or down.
+
+## Annotations
+
+[^c23439181]: Commencement: S. 18 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
+
+[^key-210f86213452e838e47a3de313478fe6]: Commencement: S. 18 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)

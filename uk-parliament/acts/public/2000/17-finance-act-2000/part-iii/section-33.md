@@ -1,0 +1,27 @@
+---
+title: Finance Act 2000, section 33
+act: Finance Act 2000
+section: '33'
+status: revised-with-pending-changes
+text_date: '2026-04-07'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2000/17/section/33
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Finance Act 2000, section 33
+
+> **Warning: changes not yet applied to this text (12).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/17
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 33. Deduction of income tax from foreign dividends.[^key-6d6661bf4533e7356fe4bb3eef5587ca]
+
+*Extent: E+W+S+N.I.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-6d6661bf4533e7356fe4bb3eef5587ca]: Textual amendment: [S. 33](https://www.legislation.gov.uk/ukpga/2000/17/section/33) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

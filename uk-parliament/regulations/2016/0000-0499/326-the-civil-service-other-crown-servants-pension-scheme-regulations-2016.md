@@ -1,0 +1,618 @@
+---
+title: The Civil Service (Other Crown Servants) Pension Scheme Regulations 2016
+id: uksi/2016/326
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-03-09'
+text_date: '2022-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2016/326
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2016/326/pdfs/uksiem_20160326_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/326/pdfs/uksi_20160326_en.pdf
+- http://www.legislation.gov.uk/uksi/2016/326/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Service (Other Crown Servants) Pension Scheme Regulations 2016
+
+> Text as at 2022-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2016 No. 326
+
+Public Service Pensions
+
+The Civil Service (Other Crown Servants) Pension Scheme Regulations 2016
+
+Made
+
+9th March 2016
+
+Laid before Parliament
+
+11th March 2016
+
+Coming into force
+
+1st April 2016
+
+The Minister for the Civil Service makes the following Regulations in exercise of the powers conferred by sections 1(1) and (2)(a), 2(1), 3(1), (2), (3)(a) and (c), 4(3) and (6) (as read with section 4(1)), 5(2)(c) (as read with section 5(1)), 8(1)(a), 12(6) and (7), 18(5), (5A), (6) and (7) and 25(3) of, and paragraph 1 of Schedule 2, Schedule 3 and paragraphs 1(2)(ii) and 5(1) of Schedule 7 to, the Public Service Pensions Act 2013[^f00001].
+
+In accordance with section 21 of that Act, the Minister for the Civil Service has consulted the representatives of such persons as appear to the Minister likely to be affected by these Regulations.
+
+In accordance with section 3(5) of that Act, these Regulations are made with the consent of the Treasury.
+
+## PART 1 — Preliminary
+
+### 1. Citation and commencement[^key-6b11404679396d86001e84a8f86f31c9]
+
+(1) These Regulations may be cited as the Civil Service (Other Crown Servants) Pension Scheme Regulations 2016.
+
+(2) They come into force on 1st April 2016.
+
+### 2. Interpretation[^key-681442b63375fcb998279821b7484653]
+
+In these Regulations–
+
+- “the Act” means the Public Service Pensions Act 2013;
+- “GCHQ[^key-badc80aa22b5d2c6906dcc3a6d81e401] eligible person” means a person who meets the conditions of eligibility set out in regulation 2A;
+- “the 2014 Regulations” means the Public Service (Civil Servants and Others) Pensions Regulations 2014[^f00002];
+- “protected function” means one of the functions or services specified by the Minister on a protected transfer;
+- “protected transfer” means a transfer of employment from one of the agencies to Government Communications Headquarters designated as such by the Minister;
+- “protected transfer date” means the date on which a protected transfer takes place;
+- “PSCOPS” means the scheme established by the 2014 Regulations;
+- “SA 1972” means the Superannuation Act 1972[^f00003];
+- “the First Connected Scheme” means the pension scheme made under section 1 (superannuation schemes as respects civil servants etc.) of SA 1972 for employees of the Secret Intelligence Service which came into operation on 1st June 1972;
+- “the Second Connected Scheme” means the pension scheme made under section 1 (superannuation schemes as respects civil servants etc.) of SA 1972 for employees of the Security Service which came into operation on 1st December 1998;
+- “the Third Connected Scheme” means the pension scheme established for certain employees of the Secret Intelligence Service which came into operation on 1st January 1946 and was amended on 1st September 1957 and 1st July 1964;
+- “the Fourth Connected Scheme” means the pension scheme made under section 1 (superannuation schemes as respects civil servants etc.) of SA 1972 for certain employees of the Secret Intelligence Service which came into operation on 1st October 2002;
+- “the Relevant Compensation Scheme” means the compensation scheme made under section 1 (superannuation schemes as respects civil servants etc.) of SA 1972 which came into operation on 1st April 1994;
+- “the agencies” means the Secret Intelligence Service and the Security Service;
+- “the exceptions committee” means the committee established from time to time to deal with complaints or appeals relating to this scheme;
+- “extraordinary members” are members of the Third Connected Scheme or the[^key-e0267f6678b7b4590dbd408d24aaa5d8] Fourth Connected Scheme with pensionable service in this scheme;
+- “the Minister” means the Minister for the Civil Service;
+- “ordinary members” are members of this scheme who are not extraordinary members;
+- “scheme actuary” means the person appointed by the Minister under regulation 7;
+- “Scheme Pension Board” has the meaning given in regulation 5; and
+- “this scheme” means the scheme established by these Regulations.
+
+### 2A. Conditions of eligibility for a GCHQ eligible person[^key-7b10d0631827f29ca6b5b67b0e9a8ce2]
+
+(1) A person (P) meets the conditions of eligibility if—
+
+- (a)[^key-d866fc38f9ac185654cb24311662be36] P was an active member of one of the following on the protected transfer date—
+  - (i) the First Connected Scheme;
+  - (ii) the Second Connected Scheme;
+  - (iii) the Third Connected Scheme;
+  - (iv) the Fourth Connected Scheme;
+  - (v) this scheme
+- (b) P is[^key-8a2b9b034704e310ee592acd220f40bc] an active member of one of the schemes listed in sub-paragraph (a)[^key-16a811f490536c38f3faff191743a411] after the protected transfer date; and
+- (c) since the protected transfer date P has been continuously employed by Government Communications Headquarters to carry out a protected function.
+
+(2) For the purpose of paragraph 1(c), P has not been continuously employed where P has had a gap in service of any period.
+
+(3) A person who ceases to meet the conditions of eligibility ceases to be a GCHQ eligible person on the date that the person ceases to meet those conditions.
+
+## PART 2 — Establishment and governance
+
+### 3. Establishment of scheme and eligibility[^key-b4551a0c7d3c5404bfece4809be49313]
+
+A scheme is established for the payment of pensions and other benefits to civil servants who are—
+
+- (a) employed by the agencies; or
+- (b) GCHQ eligible persons.
+
+### 4. Scheme manager[^key-6b87df9de20d39a207fcd2c369fa1c8b]
+
+(1) The Minister is the scheme manager for this scheme and any statutory pension scheme that is connected to it.
+
+(2) The scheme manager is responsible for managing and administering this scheme and any statutory pension scheme that is connected to it.
+
+(3) The Minister or scheme manager may delegate any functions under these Regulations, including the power to delegate.
+
+(4) A statutory pension scheme that is a defined contributions pension scheme is not connected with this scheme.
+
+(5) The scheme manager must provide benefit information statements to each person in pensionable service under this scheme in accordance with–
+
+- (a) section 14 of the Act (information about benefits) and
+- (b) directions made by the Treasury under that section.
+
+### 5. Scheme Pension Board[^key-91315cf6dc2c80906bacff212fe5440e]
+
+(1) A pension board (the “Scheme Pension Board”) is established.
+
+(2) The Scheme Pension Board is responsible for assisting the scheme manager–
+
+- (a) to secure compliance with–
+  - (i) these Regulations;
+  - (ii) any other legislation relating to the governance and administration of this scheme and any statutory pension scheme that is connected to it; and
+  - (iii) any requirements imposed by the Pensions Regulator in relation to this scheme and any statutory pension scheme that is connected to it; and
+- (b) in the performance of the scheme manager’s functions under these Regulations.
+
+(3) The Scheme Pension Board may determine its own procedures, subject to the approval of the scheme manager.
+
+(4) The Scheme Pension Board is to consist of the following members who are entitled to vote in its proceedings–
+
+- (a) a chair; and
+- (b) at least 6, and no more than 16, other members;
+
+appointed by the scheme manager.
+
+(5) The chair cannot be a member representative or an employer representative.
+
+(6) Equal numbers of member representatives and employer representatives must be appointed under paragraph (4)(b).
+
+(7) The scheme manager may appoint up to 4 further members of the Scheme Pension Board who–
+
+- (a) may not be member representatives or employer representatives; and
+- (b) are not entitled to vote in its proceedings.
+
+(8) A member of the Scheme Pension Board is to hold and vacate office in accordance with the terms of that member’s appointment.
+
+(9) Before appointing any person as a member of the Scheme Pension Board under paragraph (4) or (7), the scheme manager must be satisfied that that person does not have a conflict of interest.
+
+(10) The scheme manager must be satisfied from time to time that none of the members of the Scheme Pension Board has a conflict of interest.
+
+(11) If the scheme manager determines that a member of the Scheme Pension Board has a conflict of interest, the scheme manager must terminate the appointment of the member.
+
+(12) A member of the Scheme Pension Board, or a person proposed to be such a member, must provide the scheme manager with any information the scheme manager may reasonably require for the purpose of paragraph (9) or (10).
+
+(13) The Minister may–
+
+- (a) pay fees to, or in respect of, members of the Scheme Pension Board of such amounts as the Minister may determine; and
+- (b) reimburse members of the Scheme Pension Board in respect of any reasonable expenses incurred in performance of duties as members of the Scheme Pension Board.
+
+### 6. Scheme advisory board[^key-421a1d974ac59bbd84a995ad770ff17b]
+
+(1) A scheme advisory board is established.
+
+(2) The scheme advisory board is responsible for providing advice to the Minister, at the Minister’s request, on the desirability of making changes to this scheme.
+
+(3) The scheme advisory board may determine its own procedures, subject to the approval of the Minister.
+
+(4) The scheme advisory board is to consist of the following members–
+
+- (a) a chair, appointed by the Minister; and
+- (b) at least 2, and no more than 16, other members appointed by the chair with the approval of the Minister.
+
+(5) A member of the scheme advisory board is to hold and vacate office in accordance with the terms of that member’s appointment.
+
+(6) Before appointing any person as a member of the scheme advisory board under paragraph (4), the Minister must be satisfied that that person does not have a conflict of interest.
+
+(7) The Minister must be satisfied from time to time that none of the members of the scheme advisory board has a conflict of interest.
+
+(8) If the Minister determines that a member of the scheme advisory board has a conflict of interest, the Minister must terminate the appointment of the member.
+
+(9) A member of the scheme advisory board or a person proposed to be such a member, must provide the Minister with any information the Minister may reasonably require for the purpose of paragraph (6) or (7).
+
+(10) The Minister may–
+
+- (a) pay fees to, or in respect of, members of the scheme advisory board of such amounts as the Minister may determine; and
+- (b) reimburse members of the scheme advisory board in respect of any reasonable expenses incurred in performance of duties as members of the scheme advisory board.
+
+## PART 3 — Scheme actuary, actuarial valuations and employer cost cap
+
+### 7. Scheme actuary and actuarial valuations[^key-8bae15d005fea77796912e02f15a49d7]
+
+(1) The Minister must appoint a person (the “scheme actuary”) to provide a consulting service on actuarial matters in relation to this scheme and any connected scheme.
+
+(2) The scheme actuary is responsible for–
+
+- (a) carrying out valuations of this scheme and any connected scheme; and
+- (b) preparing reports on the valuations.
+
+(3) Before appointing any individual as scheme actuary the Minister must be satisfied that the individual is appropriately qualified to carry out valuations of this scheme and any connected scheme in accordance with Treasury directions under section 11(2) of the Act (“Treasury directions”).
+
+(4) The scheme manager is responsible for providing the scheme actuary with any data that the scheme actuary requires to carry out a valuation of the scheme and prepare a report.
+
+(5) A valuation of the scheme and the preparation of a report on the scheme must be carried out–
+
+- (a) in accordance with the Treasury directions; and
+- (b) within a time frame which enables requirements in the Treasury directions regarding dates applicable to the valuation to be met.
+
+### 8. Employer cost cap[^key-91e32e298ca9cf9400263af98f613489]
+
+(1) The employer cost cap for the scheme is 18.5% of pensionable earnings of members of this scheme.
+
+(2) If the cost of this scheme, calculated following a valuation in accordance with regulation 7, goes beyond the margin either side of the employer cost cap of this scheme specified in regulations under section 12(5)(a) of the Act, the Minister must take the steps set out in paragraph (3).
+
+(3) The Minister must consult such persons as appear to the Minister likely to be affected by any steps that are required to be taken to achieve the target cost for this scheme, with a view to reaching agreement on those steps, and–
+
+- (a) if agreement can be reached on the steps to be taken, take action to implement those steps; or
+- (b) if agreement cannot be reached on the steps to be taken, the percentage of the member’s pensionable earnings specified in regulation 43(4) or (4A) of the 2014 Regulations, as applied to this scheme, as the amount of earned pension for a scheme year, must be adjusted for pensionable earnings after the date of the adjustment, so that the target cost for this scheme is achieved.
+
+(4) In this regulation–
+
+- (a) “cost of this scheme” means the costs of this scheme calculated following a valuation in accordance with regulation 7; and
+- (b) “target cost for this scheme” means the target cost for this scheme specified in regulations under section 12(5)(b) of the Act.
+
+## PART 4 — Operation of this Scheme
+
+### 9. Scheme to be by analogy to PSCOPS[^key-f8be4fe61b22357074387e99ebb42ed1]
+
+(1) This scheme shall operate as if the following provisions of the 2014 Regulations applied in relation to this scheme–
+
+- (a) regulations 2 to 2C[^key-9fa68b69ae1a7795780eff7ba47f93f9], 13 to 15, 17 to 157, 160 to 178, 180(1) and 182;
+- (b) paragraphs 1 to 33 of Schedule 1;
+- (c) paragraphs 1 to 12, 14 to 15, 18 to 24 and 27 to 45 of Schedule 2; and
+- (d) Schedules 3 and 4.
+
+(2) Paragraph (1) is subject to regulation 10.
+
+### 10. Modifications to the 2014 Regulations insofar as they apply in relation to this scheme[^key-0cdf9c56b96aedee77183b64d13fa918]
+
+(1) This scheme shall operate as if the 2014 Regulations applied in relation to this scheme with the following modifications.
+
+(2) Those Regulations are to be read as if references to–
+
+- (a) accrued rights were references to accrued rights under this scheme;
+- (b) actuarial guidance were references to the equivalent guidance issued under this scheme;
+- (c) the Civil Service Appeal Board were references to the exceptions committee;
+- (d) the Civil Service Pension Board established by the 2014 Regulations were references to the Scheme Pension Board;
+- (e) elections were references to the equivalent election exercised under this scheme;
+- (f) the employer were references to Government Communications Headquarters,[^key-2b7b6194ee3af00828335860da55cd76] the Secret Intelligence Service or the Security Service;
+- (g) the members of the scheme established by regulation 3 of the 2014 Regulations were references to members of this scheme;
+- (h) options were references to the equivalent options exercised under this scheme;
+- (i) pension were references to pension under this scheme;
+- (j) pension age, in any form, were to the equivalent pension age under this scheme;
+- (k) pensionable service were references to pensionable service under this scheme;
+- (l) pensionable earnings were references to pensionable earnings in relation to this scheme;
+- (m) the scheme, or any part of it, established by the 2014 Regulations, were references to this scheme;
+- (n) the scheme advisory board established by regulation 10 of the 2014 Regulations were references to the scheme advisory board of this scheme;
+- (o) the scheme actuary appointed under regulation 158 of the 2014 Regulations were references to the scheme actuary appointed under this scheme;
+- (p) the scheme closing date were to 31st March 2016;
+- (q) the scheme manager of PSCOPS were references to the scheme manager of this scheme; and
+- (r) the scheme medical adviser of PSCOPS were references to the scheme medical adviser of this scheme.
+
+(3) References in regulation 2 to–
+
+- (a) “Admission Agreement” were omitted;
+- (b) the “Civil Service Compensation Scheme” were references to the Relevant Compensation Scheme;
+- (c) “compensation scheme” were references to-
+  - (i) the Relevant Compensation Scheme; or
+  - (ii) a scheme made under section 1(2)(a) of the Act providing for redundancy compensation payments;
+- (d) “Fair Deal eligible person” and “Fair Deal transfer date” were omitted;
+- (e) “member” included references to ordinary members and extraordinary members as defined in regulation 2 of these Regulations; and
+- (f) “the PCSPS” were references to the First, Second, Third and Fourth Connected Schemes, except where this regulation provides otherwise.
+
+(4) After the definition of “sending scheme” in Regulation 2 there was inserted the following definition–
+
+> - “special post” means those overseas roles in the Secret Intelligence Service designated as special posts by the Secret Intelligence Service from time to time;
+
+(5)[^key-833d559589173e42336e864d8729c831] For regulation 13(1)(a) there were substituted—
+
+> - (a) permanent or fixed term employment as a civil servant by the Secret Intelligence Service or the Security Service; and
+> - (aa) permanent or fixed term employment as a civil servant by Government Communications Headquarters held by a GCHQ eligible person, where the scheme relates to that person by virtue of that employment.
+
+.
+
+(6) Regulations 13(1)(b) and (c) were omitted.
+
+(7) For regulation 43(4), there was substituted the following-
+
+> (4) Subject to paragraphs (4A) to (4F), the amount of earned pension for a member for a scheme year is 2.668% of the member’s pensionable earnings for that year.
+>
+> (4A) The amount of earned pension for a member in a special post for a scheme year is–
+>
+> - (a) in respect of the period during that year that they held a special post, 5.336% of the member’s pensionable earnings for that part of the year; or
+> - (b) in respect of any other period during that year, 2.668% of the member’s pensionable earnings for that part of the year.
+>
+> (4B) Paragraph (4A)(a) does not apply to a member in a special post after it has applied for a total period of 12 years.
+>
+> (4C) A member may exercise an option for paragraph (4A)(a) not to apply to them.
+>
+> (4D) The option in paragraph (4C) may be made at least 6 weeks before the member takes up a special post, and takes effect from the start of the special post.
+>
+> (4E) A member in a special post who has exercised an option under paragraph (4C) may exercise a further option for paragraph (4A)(a) to apply to that member again.
+>
+> (4F) The option in paragraph (4E) takes effect on the following 6th April.
+
+.
+
+(8) In the definition of “the member’s assumed period of pensionable service” in regulation 76(3)–
+
+- (a) at the end of sub-paragraph (d)(i), “or” was omitted ;
+- (b) at the end of sub-paragraph (d)(ii), for “and” there was substituted “or”; and
+- (c) after sub-paragraph (d)(ii), there was inserted–
+
+  > for an extraordinary member, the day before the day on which the extraordinary member will reach 60 (assuming that the extraordinary member lives until that age); and
+
+  .
+
+(9) For regulation 77(4) there was substituted–
+
+> (4) A review is not required after–
+>
+> - (a) an ordinary member reaches normal pension age; or
+> - (b) an extraordinary member reaches age 60
+>
+> under this scheme.
+
+.
+
+(10) At the end of regulation 82(6)(b) there was inserted “unless that member is an extraordinary member in which case the difference must be met in full by the member”.
+
+(11) In regulation 130(5)(a)(i) and (ii) for “twice” there was substituted “3 times”.
+
+(12) In regulation 134 of the 2014 Regulations–
+
+- (a) the table headed “Scheme Year 1st April 2015 to 31st March 2016” was omitted;
+- (b) for the table headed “Scheme Year 1st April 2016 to 31st March 2017” there was substituted–
+
+  > Scheme Year 1st April 2016 to 31st March 2017
+  >
+  > | Annualised rate of pensionable earnings | Member contribution rates for transition members from Section II of the First, Second and Fourth Connected Schemes | Member contributions rate for other members |
+  > | --- | --- | --- |
+  > | Up to but not including £15,001 | 2.55% | 4.15% |
+  > | £15,001 to but not including £21,211 | 4.15% | 4.15% |
+  > | £21,211 to but not including £48,472 | 5.00% | 5.00% |
+  > | £48,472 to but not including £150,001 | 6.90% | 6.90% |
+  > | £150,001 and above | 7.60% | 7.60% |
+- (c) for the table headed “Scheme Year 1st April 2017 to 31st March 2018” there was substituted–
+
+  > Scheme Year 1st April 2017 to 31st March 2018
+  >
+  > | Annualised rate of pensionable earnings | Member contribution rates for transition members from Section II of the First, Second and Fourth Connected Schemes | Member contributions rate for other members |
+  > | --- | --- | --- |
+  > | Up to but not including £15,001 | 3.35% | 4.15% |
+  > | £15,001 to but not including £21,423 | 4.15% | 4.15% |
+  > | £21,423 to but not including £51,006 | 5.00% | 5.00% |
+  > | £51,006 to but not including £150,001 | 6.90% | 6.90% |
+  > | £150,001 and above | 7.60% | 7.60% |
+- (d) for the table headed “Scheme Year 1st April 2018 to 31st March 2019” there was substituted–
+
+  > Scheme Year 1st April 2018 to 31st March 2019 and Scheme Year 1st April 2019 to 31st March 2020[^key-8d9495323880450f73d75cfe6bdbec70]
+  >
+  > | Annualised rate of pensionable earnings | Member contribution rates for transition members from Section II of the First, Second and Fourth Connected Schemes | Member contributions rate for other members |
+  > | --- | --- | --- |
+  > | Up to but not including £15,001 | 4.15% | 4.15% |
+  > | £15,001 to but not including £21,637 | 4.15% | 4.15% |
+  > | £21,637 to but not including £51,516 | 5.00% | 5.00% |
+  > | £51,516 to but not including £150,001 | 6.90% | 6.90% |
+  > | £150,001 and above | 7.60% | 7.60% |
+
+  [^key-f95dd8d2557421c1b54a5949f8334c93]...
+- (e)[^key-fa2a1da13a80f7dd15ec14e0d8559204] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^key-e6dab7f0408c7c0a32e4d6a1bfbdbd75] in paragraph (8), for the table headed “Scheme Year 1st April 2020 to 31st March 2021” there was substituted—
+
+  > Scheme Year 1st April 2020 to 31st March 2021 and subsequently
+  >
+  > | **Annualised rate of pensionable earnings** | **Member contributions rate** |
+  > | --- | --- |
+  > | Up to but not including £22,601 | 4.15% |
+  > | £22,601 to but not including £54,901 | 5.00% |
+  > | £54,901 to but not including £150,001 | 6.90% |
+  > | £150,001 and above | 7.60% |
+
+  ;
+- (g) after paragraph (8) there were inserted—
+
+  > - (9) The figures in column 1 of the table headed “Scheme Year 1st April 2020 to 31st March 2021 and subsequently” (except for the figure of £150,001) are to be increased on 1st April 2021 and on 1st April of each subsequent scheme year, if there is a relevant increase in the consumer prices index, by the appropriate percentage for the scheme year rounded up to the nearest £1.
+  > - (10) There is a relevant increase in the consumer prices index for a scheme year if the consumer prices index for the month of September before that scheme year is higher than that for the previous September.
+  > - (11) The appropriate percentage for the scheme year is the same percentage as any percentage increase in the consumer prices index over the period specified by paragraph (10).
+  > - (12) For the purposes of paragraphs (9) to (11), “consumer prices index” means the all items consumer prices index established by section 1 of the Statistics and Registration Service Act 2007.
+  > - (13) In respect of a member in a special post to whom regulation 43(4A)(a) applies, the member contributions rate is double the member contributions rate in the tables in paragraph (8) that would otherwise be applicable to them.
+
+  .
+
+(13) At the end of regulation 138, there was inserted “but Schedule 1 does not have effect in relation to extraordinary members.”
+
+(14) For regulation 139(2)(b)(iii) there was substituted–
+
+> - (iii) either
+>   - (aa) an ordinary member has not reached normal pension age; or
+>   - (ab) an extraordinary member has not reached age 60,
+>
+>   under this scheme.
+
+.
+
+(15) In Schedule 1–
+
+- (a) the references in that Schedule to PCSPS–
+  - (i) in paragraphs 1 to 24 were references to the First, Second, Third[^key-39d909394908cd933de8fa63657d0a41] and Fourth Connected Schemes; and
+  - (ii) in paragraphs 25 to 33 were references to the First and Second Connected Schemes;
+- (b) in paragraph 3(1)–
+  - (i) after “limit of extra pension” there was inserted “for both ordinary members and extraordinary members”;
+  - (ii) paragraph (a) was omitted;
+- (c) in paragraph 25(2), for “sub-paragraphs (3) and (4)” there was substituted “sub-paragraphs (3) to (4A)”; and
+- (d) after paragraph 25(4) was added–
+
+  > (4A) An extraordinary member may not exercise an effective pension age option.
+
+  .
+
+(16) In Schedule 2–
+
+- (a) references in that Schedule to “PCSPS” were references to the First, Second, Third and Fourth Connected Schemes;
+- (b) after paragraph 6 there were inserted–
+
+  > **6A. Meaning of “active member of Third Connected Scheme”**
+  >
+  > (1) For the purposes of Part 2 of this Schedule, a person (P) is an active member of the Third Connected Scheme on a given date if on that date–
+  >
+  > - (a) P is in pensionable service under that scheme; or
+  > - (b) P is on a gap in service not exceeding 5 years.
+  >
+  > (2) For the purpose of sub-paragraph (1)(b), after the closing date for the Third Connected Scheme, P is not on a gap in service while P is in pensionable public service.
+  >
+  > (3) In sub-paragraph (2), “the closing date for the Third Connected Scheme” means 31st March 2022[^key-576b7edc1b11ce43fccc601af11ad06c] .
+
+  .
+- (c) in paragraph 8, after the definition of “active member of the PCSPS” there were inserted–
+
+  > - “active member of the Third Connected Scheme” has the meaning given in paragraph 6A;
+
+  ;
+- (d) after paragraph 14(1)(a), there was inserted–
+
+  > - (aa) P was an active member of the Third Connected Scheme on 31st<sup></sup>March 2012;
+
+  ;
+- (e) in paragraph 28(1)(a), for “15th August 2014 and ending with 30th September 2014” there was substituted “7th January 2016 and ending with 17th February 2016”;
+- (f) in paragraph 28(2), for “31st October 2014” there was substituted “18th February 2016”; and
+- (g) in paragraph 36(3), for the definition of “all relevant appeal rights” there was substituted–
+
+  > “all relevant appeal rights” includes the arrangements for appeals against a decision of the scheme medical advisers not to give an ill health retirement certificate put in place by the Secret Intelligence Service and Security Service
+
+  .
+
+## PART 5 — Extraordinary members and buy-out elections
+
+### 11. Post-60 buy-out election[^key-f46a21b270209de1850e961b48fc9139]
+
+(1) This regulation applies in respect of extraordinary members who–
+
+- (a) are active members of this scheme; and
+- (b) retire on or after reaching the age of 60.
+
+(2) When this regulation applies, the employer must elect to buy out the early payment reduction to the members (P’s) pension under this scheme (“post-60 buy-out election”).
+
+(3) The employer must give written notice of any post-60 buy-out election to the scheme manager, and must specify–
+
+- (a) if P is in more than one eligible employment, the name of the employer who is making the payment;
+- (b) P’s name;
+- (c) P’s date of birth;
+- (d) P’s normal pension age;
+- (e) the date on which P entered pensionable service;
+- (f) P’s annual rate of pensionable earnings for that employment; and
+- (g) the number of years in respect of which the standard reduction is to be bought out.
+
+(4) The scheme manager may ask P to provide further information.
+
+(5) The scheme manager must accept the post-60 buy-out election.
+
+(6) The scheme manager must determine the amount of the payment to be paid in respect of a post-60 buy-out election, and must notify the employer of the correct amount.
+
+(7) The employer must make the payment to the scheme manager before the end of the month after they have been notified of the correct amount by the scheme manager.
+
+### 12. Pre-60 buy-out election[^key-7a1ebc47edb598125c24f3766d154f18]
+
+(1) This regulation applies in respect of extraordinary members who–
+
+- (a) are active members of this scheme; and
+- (b) retire on or after reaching the age of 55, but before reaching the age of 60.
+
+(2) When this regulation applies, the employer must elect to buy out that part of the early payment reduction to the members (P’s) pension under this scheme that is relevant to the period between the date that P reaches the age of 60 and the date that P reaches normal pension age (“pre-60 buy-out election”).
+
+(3) The employer must give written notice of any pre-60 buy-out election to the scheme manager, and must specify–
+
+- (a) if P is in more than one eligible employment, the name of the employer who is making the payment;
+- (b) P’s name;
+- (c) P’s date of birth;
+- (d) P’s normal pension age;
+- (e) the date on which P entered pensionable service;
+- (f) P’s annual rate of pensionable earnings for that employment; and
+- (g) the number of years in respect of which the standard reduction is to be bought out.
+
+(4) The scheme manager may ask P to provide further information.
+
+(5) The scheme manager must accept the pre-60 buy-out election.
+
+(6) The scheme manager must determine the amount of the payment to be paid in respect of a pre-60 buy-out election, and must notify the employer of the correct amount.
+
+(7) The employer must make the payment to the scheme manager before the end of the month after they have been notified of the correct amount by the scheme manager.
+
+Signed
+
+Matthew Hancock
+
+Minister for the Cabinet Office
+
+Cabinet Office
+
+9th March 2016
+
+We consent
+
+Mel Stride
+
+George Hollingbery
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+9th March 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Part 2 of these Regulations establishes a scheme, by analogy to the Public Service (Civil Servants and Others) Pensions Regulations 2014 ([S.I. 2014/1964](https://www.legislation.gov.uk/uksi/2014/1964)) with some amendments and modifications, for the payment of pensions and other benefits to civil servants employed by the Secret Intelligence Service and the Security Service. The scheme so established is a career average earnings scheme.
+
+Part 3 makes provisions relating to valuations and cost control.
+
+Part 4 sets out the terms of the by-analogy scheme.
+
+Part 5 provides for benefits available to extraordinary members.
+
+An impact assessment has not been prepared for this instrument as no impact on the costs of business or the voluntary sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25).
+
+[^key-6b11404679396d86001e84a8f86f31c9]: Commencement: Reg. 1 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+
+[^key-681442b63375fcb998279821b7484653]: Commencement: Reg. 2 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+
+[^key-badc80aa22b5d2c6906dcc3a6d81e401]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2016/326/regulation/2) inserted (23.5.2019) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/c), [3](https://www.legislation.gov.uk/uksi/2019/906/regulation/3)
+
+[^f00002]: Footnote: [S.I. 2014/1964](https://www.legislation.gov.uk/uksi/2014/1964) as amended, most recently by [S.I 2015/602](https://www.legislation.gov.uk/ukpga/2015/602).
+
+[^f00003]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11).
+
+[^key-e0267f6678b7b4590dbd408d24aaa5d8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2016/326/regulation/2) inserted (1.4.2022) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2022 (S.I. 2022/334)](https://www.legislation.gov.uk/uksi/2022/334), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/2/2)
+
+[^key-7b10d0631827f29ca6b5b67b0e9a8ce2]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2016/326/regulation/2A) inserted (23.5.2019) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/c), [4](https://www.legislation.gov.uk/uksi/2019/906/regulation/4)
+
+[^key-d866fc38f9ac185654cb24311662be36]: Textual amendment: [Reg. 2A(1)(a)](https://www.legislation.gov.uk/uksi/2016/326/regulation/2A/1/a) substituted (1.4.2022) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2022 (S.I. 2022/334)](https://www.legislation.gov.uk/uksi/2022/334), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/334/regulation/2/3/a)
+
+[^key-8a2b9b034704e310ee592acd220f40bc]: Textual amendment: Word in [reg. 2A(1)(b)](https://www.legislation.gov.uk/uksi/2016/326/regulation/2A/1/b) substituted (1.4.2022) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2022 (S.I. 2022/334)](https://www.legislation.gov.uk/uksi/2022/334), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/334/regulation/2/3/b/i)
+
+[^key-16a811f490536c38f3faff191743a411]: Textual amendment: Words in [reg. 2A(1)(b)](https://www.legislation.gov.uk/uksi/2016/326/regulation/2A/1/b) substituted (1.4.2022) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2022 (S.I. 2022/334)](https://www.legislation.gov.uk/uksi/2022/334), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/1/2), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/334/regulation/2/3/b/ii)
+
+[^key-b4551a0c7d3c5404bfece4809be49313]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/326/regulation/3) substituted (23.5.2019) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/c), [5](https://www.legislation.gov.uk/uksi/2019/906/regulation/5)
+
+[^key-6b87df9de20d39a207fcd2c369fa1c8b]: Commencement: Reg. 4 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+
+[^key-91315cf6dc2c80906bacff212fe5440e]: Commencement: Reg. 5 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+
+[^key-421a1d974ac59bbd84a995ad770ff17b]: Commencement: Reg. 6 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+
+[^key-8bae15d005fea77796912e02f15a49d7]: Commencement: Reg. 7 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+
+[^key-91e32e298ca9cf9400263af98f613489]: Commencement: Reg. 8 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+
+[^key-f8be4fe61b22357074387e99ebb42ed1]: Commencement: Reg. 9 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+
+[^key-9fa68b69ae1a7795780eff7ba47f93f9]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2016/326/regulation/9/1/a) substituted (23.5.2019 with effect from 1.4.2016) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/a), [6](https://www.legislation.gov.uk/uksi/2019/906/regulation/6)
+
+[^key-0cdf9c56b96aedee77183b64d13fa918]: Commencement: Reg. 10 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+
+[^key-2b7b6194ee3af00828335860da55cd76]: Textual amendment: Words in [reg. 10(2)(f)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/2/f) inserted (23.5.2019) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/c), [7(a)](https://www.legislation.gov.uk/uksi/2019/906/regulation/7/a)
+
+[^key-833d559589173e42336e864d8729c831]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/5) substituted (23.5.2019) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/c), [7(b)](https://www.legislation.gov.uk/uksi/2019/906/regulation/7/b)
+
+[^key-8d9495323880450f73d75cfe6bdbec70]: Textual amendment: Words in [reg. 10(12)(d)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/12/d) Table heading inserted (23.5.2019 with effect from 1.4.2019) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/b), [7(c)](https://www.legislation.gov.uk/uksi/2019/906/regulation/7/c)
+
+[^key-f95dd8d2557421c1b54a5949f8334c93]: Textual amendment: Word in [reg. 10(12)(d)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/12/d) omitted (1.4.2020) by virtue of [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2020 (S.I. 2020/225)](https://www.legislation.gov.uk/uksi/2020/225), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/225/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2020/225/regulation/3/a)
+
+[^key-fa2a1da13a80f7dd15ec14e0d8559204]: Textual amendment: [Reg. 10(12)(e)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/12/e) omitted (1.4.2020) by virtue of [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2020 (S.I. 2020/225)](https://www.legislation.gov.uk/uksi/2020/225), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/225/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2020/225/regulation/3/b)
+
+[^key-e6dab7f0408c7c0a32e4d6a1bfbdbd75]: Textual amendment: [Reg. 10(12)(f)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/12/f)[(g)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/12/g) inserted (1.4.2020) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2020 (S.I. 2020/225)](https://www.legislation.gov.uk/uksi/2020/225), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/225/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2020/225/regulation/3/c)
+
+[^key-39d909394908cd933de8fa63657d0a41]: Textual amendment: Word in [reg. 10(15)(a)(i)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/15/a/i) inserted (1.4.2022) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2022 (S.I. 2022/334)](https://www.legislation.gov.uk/uksi/2022/334), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/334/regulation/2/4/a)
+
+[^key-576b7edc1b11ce43fccc601af11ad06c]: Textual amendment: Words in [reg. 10(16)(b)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/16/b) substituted (1.4.2022) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2022 (S.I. 2022/334)](https://www.legislation.gov.uk/uksi/2022/334), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/334/regulation/2/4/b)
+
+[^key-f46a21b270209de1850e961b48fc9139]: Commencement: Reg. 11 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+
+[^key-7a1ebc47edb598125c24f3766d154f18]: Commencement: Reg. 12 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)

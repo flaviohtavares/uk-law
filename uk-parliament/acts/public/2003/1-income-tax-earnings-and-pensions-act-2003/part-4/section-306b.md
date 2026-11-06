@@ -1,0 +1,58 @@
+---
+title: Income Tax (Earnings and Pensions) Act 2003, section 306B
+act: Income Tax (Earnings and Pensions) Act 2003
+section: 306B
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/1/section/306B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Earnings and Pensions) Act 2003, section 306B
+
+> **Warning: changes not yet applied to this text (46).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 306B. Limited exemption for sporting testimonial payments[^key-47244c113052d885ce6cb5d2f714731e]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies to any sporting testimonial payments which are—
+
+- (a) made out of money raised by a sporting testimonial (“the sporting testimonial”), and
+- (b) treated by virtue of section 226E as earnings of a person (“S”).
+
+(2) No liability to income tax arises in respect of sporting testimonial payments to which this section applies.
+
+(3) Subsection (2) has effect subject to and in accordance with the following provisions.
+
+(4) It only applies—
+
+- (a) if the controller of the relevant event or activity (or of all the relevant events or activities in a series) constituting the sporting testimonial is an independent person,
+- (b) if S has not already benefitted from an exemption under this section in relation to one or more sporting testimonial payments made out of money raised by another sporting testimonial, and
+- (c) where the sporting testimonial consists of a series of relevant events or activities taking place over more than a year, if the sporting testimonial payment is made out of money raised by events or activities taking place within the period of one year beginning with the day on which the first event or activity in the series took place.
+
+(5) It only applies to the first £100,000 of sporting testimonial payments made out of money raised by the sporting testimonial.
+
+(6) If sporting testimonial payments are made (out of money raised by the sporting testimonial) in two or more tax years, any part of the exempt amount that is not used in the first of those years is to be carried forward to the next tax year (and so on).
+
+(7) This section applies to sporting testimonial payments made to or to the order of the personal representatives of S (where S has died) but only if the payments are made within the period of 24 months beginning with the date of death.
+
+(8) In subsection (4)(a) “**independent person**” means a person who is not (or where the controller is a committee, a committee none of whose members are)—
+
+- (a) S or a person connected with S,
+- (b) an employer or former employer of S or a person connected with an employer or former employer of S, or
+- (c) a person acting for or on behalf of a person mentioned in paragraph (a) or (b).
+
+(9) If the first relevant event or activity in a series took place before 6 April 2017, subsection (4)(c) has effect as if it referred to the year beginning with 6 April 2017.
+
+(10) Section 993 of ITA 2007 (meaning of “connected” persons) has effect for the purposes of this section.
+
+(11) Terms used in this section and section 226E have the same meaning as in that section.
+
+## Annotations
+
+[^key-47244c113052d885ce6cb5d2f714731e]: Textual amendment: S. 306B and cross-heading inserted (with effect in accordance with Sch. 2 para. 4(1) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/2/paragraph/2)

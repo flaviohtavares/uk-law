@@ -1,0 +1,69 @@
+---
+title: National Health Service Reform and Health Care Professions Act 2002, section 25AA
+act: National Health Service Reform and Health Care Professions Act 2002
+section: 25AA
+status: revised-with-pending-changes
+text_date: '2024-12-13'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2002/17/section/25AA
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# National Health Service Reform and Health Care Professions Act 2002, section 25AA
+
+> **Warning: changes not yet applied to this text (11).** Text as at 2024-12-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/17
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 25AA. Funding of the Authority by Social Work England[^key-0f3371cec43f8cd4f6643d6591e40b89]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State must by regulations require Social Work England to pay the Authority periodic fees of such amount as the Secretary of State determines in respect of such of the Authority's functions in relation to Social Work England as are specified in the regulations.
+
+(2) A reference in this section to the Authority's functions does not include a reference to its functions under section 26A.
+
+(3) The regulations must, in particular, provide for the method of determining the amount of a fee under the regulations.
+
+(4) Before determining the amount of a fee under the regulations, the Secretary of State must request the Authority to make a proposal as to the amount of funding that it considers it requires in order to perform for the period to which the fee would apply such of its functions in relation to Social Work England as are specified in the regulations.
+
+(5) The Authority must—
+
+- (a) comply with a request under subsection (4), but
+- (b) before doing so, consult Social Work England.
+
+(6) Having received a proposal under subsection (5), the Secretary of State may consult Social Work England.
+
+(7) Having taken into account any representations from Social Work England, the Secretary of State must—
+
+- (a) make a proposal as to the amount of funding that the Secretary of State considers the Authority requires in order to perform for the period to which the fee would apply such of its functions in relation to Social Work England as are specified in the regulations, and
+- (b) determine in accordance with the method provided for under subsection (3) the amount of the fee that Social Work England would be required to pay.
+
+(8) The Secretary of State must—
+
+- (a) consult the Authority about the proposal under subsection (7)(a) and the determinations under subsection (7)(b), and
+- (b) consult Social Work England about the determination under subsection (7)(b) of the amount it would be required to pay.
+
+(9) Having taken into account such representations as it receives from consultees, the Secretary of State must—
+
+- (a) determine the amount of funding that the Authority requires in order to perform for the period to which the fee would apply such of its functions in relation to Social Work England as are specified in the regulations, and
+- (b) determine in accordance with the method provided for under subsection (3) the amount of the fee that Social Work England is to be required to pay.
+
+(10) Regulations under this section requiring payment of a fee may make provision—
+
+- (a) requiring the fee to be paid within such period as is specified;
+- (b) requiring interest at such rate as is specified to be paid if the fee is not paid within the period specified under paragraph (a);
+- (c) for the recovery of unpaid fees or interest.
+
+(11) The regulations may enable the Secretary of State to redetermine the amount of a fee provided for under the regulations, on a request by the Authority or Social Work England or on the Secretary of State's own initiative.
+
+(12) Before making regulations under this section, the Secretary of State must consult—
+
+- (a) the Authority,
+- (b) Social Work England, and
+- (c) such other persons as the Secretary of State considers appropriate.
+
+## Annotations
+
+[^key-0f3371cec43f8cd4f6643d6591e40b89]: Textual amendment: S. 25AA inserted (15.1.2018 for the insertion of s. 25AA(12), 1.4.2018 in so far as not already in force) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2017/16/schedule/4/paragraph/4); [S.I. 2017/1217](https://www.legislation.gov.uk/uksi/2017/1217), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1217/regulation/2/b/ii); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(cc)(ii)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/cc/ii)

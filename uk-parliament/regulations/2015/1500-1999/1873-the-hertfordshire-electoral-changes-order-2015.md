@@ -1,0 +1,507 @@
+---
+title: The Hertfordshire (Electoral Changes) Order 2015
+id: uksi/2015/1873
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-11-05'
+text_date: '2019-05-02'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2015/1873
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/1873/pdfs/uksiem_20151873_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1873/pdfs/uksi_20151873_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/1873/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Hertfordshire (Electoral Changes) Order 2015
+
+> Text as at 2019-05-02.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2015 No. 1873
+
+Local Government, England
+
+The Hertfordshire (Electoral Changes) Order 2015
+
+Made
+
+5th November 2015
+
+Coming into force in accordance with article 1(2) – (5)
+
+Under section 58(4) of the Local Democracy, Economic Development and Construction Act 2009[^f00001] (“the Act”) the Local Government Boundary Commission for England[^f00002] (“the Commission”) published a report dated May 2015 stating its recommendations for changes to the electoral arrangements for the county of Hertfordshire. The Commission has decided to give effect to the recommendations.
+
+A draft of the instrument has been laid before Parliament and a period of forty days has expired and neither House has resolved that the instrument be not made.
+
+The Commission makes the following Order in exercise of the power conferred by section 59(1) of the Act:
+
+## 1. Citation and commencement[^key-1c929732ea12158a200065db8d085d6d][^key-e678f4bfa09509c58c5d90326990d6cd]
+
+(1) This Order may be cited as the Hertfordshire (Electoral Changes) Order 2015.
+
+(2) This article, article 2 and article 12 come into force—
+
+- (a) for the purpose of proceedings preliminary or relating to the election of councillors, on the day after this Order is made;
+- (b) for all other purposes, on the ordinary day of election of councillors in 2016.
+
+(3) Article 3 comes into force—
+
+- (a) for the purpose of proceedings preliminary or relating to the election of councillors, on 15th October 2016;
+- (b) for all other purposes, on the ordinary day of election of councillors in 2017.
+
+(4) Articles 7, 10 and 11 come into force—
+
+- (a) for the purpose of proceedings preliminary or relating to the election of councillors, on 15th October 2017;
+- (b) for all other purposes, on the ordinary day of election of councillors in 2018.
+
+(5) Articles 4, 5, [^key-5b11feb22f72aa027f9ed608c2155191]... 8, 9 and 13 come into force—
+
+- (a) for the purpose of proceedings preliminary or relating to the election of councillors, on 15th October 2018;
+- (b) for all other purposes, on the ordinary day of election of councillors in 2019.
+
+(6)[^key-71411d646330fca33a7c9c59ef009193] Article 6 comes into force—
+
+- (a) for the purpose of proceedings preliminary or relating to the election of councillors, on 15th October 2021;
+- (b) for all other purposes, on the ordinary day of election of councillors in 2022.
+
+## 2. Interpretation[^key-2bf73459f2920589d3b1be2e30878843][^key-7010ab3de4078d50641edd64980b4e8b]
+
+In this Order—
+
+- “map” means the map marked “Map referred to in the Hertfordshire (Electoral Changes) Order 2015”, prints of which are available for inspection at the principal office of the Local Government Boundary Commission for England;
+- “ordinary day of election of councillors” has the meaning given by section 37 of the Representation of the People Act 1983[^f00003].
+
+## 3. Electoral divisions of the county of Hertfordshire and number of councillors[^key-45f0672179a5673eb7e2ec7478d3f85d][^key-395a31343304680ce6b48a8027f30700]
+
+(1) The existing electoral divisions of the county of Hertfordshire are abolished.
+
+(2) The county of Hertfordshire is divided into 78 county electoral divisions, each listed by name in Schedule 1.
+
+(3) Each electoral division comprises the area designated on the map by reference to the name of the electoral division.
+
+(4) One councillor is to be elected for each electoral division.
+
+(5) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
+
+## 4. Wards of the parish of Abbots Langley and number of councillors[^key-162e432f0ba71c2429379769602cf5db][^key-facf79d8ead7603c15bc6939fc91ce83]
+
+(1) The existing wards of the parish of Abbots Langley are abolished.
+
+(2) The parish of Abbots Langley is divided into seven parish wards, each listed by name in the first column of table 1 in Schedule 2.
+
+(3) Each parish ward comprises the area designated on the map by reference to the name of the parish ward.
+
+(4) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 1 in Schedule 2.
+
+## 5. Wards of the parish of Berkhamsted and number of councillors[^key-c0c76ed5b84e1578e1a4fd1bb2b6352e][^key-021f6c0dd86aeda7f57d51ca374e88e8]
+
+(1) The existing wards of the parish of Berkhamsted are abolished.
+
+(2) The parish of Berkhamsted is divided into four parish wards, each listed by name in the first column of table 2 in Schedule 2.
+
+(3) Each parish ward comprises the area designated on the map by reference to the name of the parish ward.
+
+(4) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 2 in Schedule 2.
+
+## 6. Wards of the parish of Chorleywood and number of councillors[^key-e5063c2588b13f1a99c932fe439c3338][^key-6531077ea55325109a79b3b8dbb5f1fc]
+
+(1) The existing wards of the parish of Chorleywood are abolished.
+
+(2) The parish of Chorleywood is divided into five parish wards, each listed by name in the first column of table 3 in Schedule 2.
+
+(3) Each parish ward comprises the area designated on the map by reference to the name of the parish ward.
+
+(4) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 3 in Schedule 2.
+
+## 7. Wards of the parish of Colney Heath and number of councillors[^key-689a3a97097d10a98bcea8d3e9b23212][^key-f5f626d79c1831e04b7044f2a3a6a234]
+
+(1) The existing wards of the parish of Colney Heath are abolished.
+
+(2) The parish of Colney Heath is divided into three parish wards, each listed by name in the first column of table 4 in Schedule 2.
+
+(3) Each parish ward comprises the area designated on the map by reference to the name of the parish ward.
+
+(4) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 4 in Schedule 2.
+
+## 8. Wards of the parish of Elstree & Borehamwood and number of councillors[^key-f6279371352449761ef733524ceec4f6][^key-8a933b35037d8b3dd6c938cd2ec814fd]
+
+(1) The existing wards of the parish of Elstree & Borehamwood are abolished.
+
+(2) The parish of Elstree & Borehamwood is divided into seven parish wards, each listed by name in the first column of table 5 in Schedule 2.
+
+(3) Each parish ward comprises the area designated on the map by reference to the name of the parish ward.
+
+(4) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 5 in Schedule 2.
+
+## 9. Wards of the parish of Hatfield and number of councillors[^key-f10640ce26f62200e4543546b629ef5b][^key-09bb10e10f73f19045d594e980948651]
+
+(1) The existing wards of the parish of Hatfield are abolished.
+
+(2) The parish of Hatfield is divided into seven parish wards, each listed by name in the first column of table 6 in Schedule 2.
+
+(3) Each parish ward comprises the area designated on the map by reference to the name of the parish ward.
+
+(4) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 6 in Schedule 2.
+
+## 10. Wards of the parish of Royston and number of councillors[^key-fa50068e00b77ab80bf22d673d455ffd][^key-f88fdb99ab7095ed856cf8289999cfeb]
+
+(1) The existing wards of the parish of Royston are abolished.
+
+(2) The parish of Royston is divided into four parish wards, each listed by name in the first column of table 7 in Schedule 2.
+
+(3) Each parish ward comprises the area designated on the map by reference to the name of the parish ward.
+
+(4) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 7 in Schedule 2.
+
+## 11. Wards of the parish of St Michael and number of councillors[^key-776f6a2c8daf8503ea55f620c2f02e1f][^key-e44666a08aca81c08315b5969d797749]
+
+(1) The parish of St Michael is divided into two parish wards, each listed by name in the first column of table 8 in Schedule 2.
+
+(2) Each parish ward comprises the area designated on the map by reference to the name of the parish ward.
+
+(3) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 8 in Schedule 2.
+
+## 12. Wards of the parish of Sandridge and number of councillors[^key-03cdd1800fc7e46c6dbf5831483cb200][^key-9b24f233e0812abfa1979494f8d530a8]
+
+(1) The existing wards of the parish of Sandridge are abolished.
+
+(2) The parish of Sandridge is divided into four parish wards, each listed by name in the first column of table 9 in Schedule 2.
+
+(3) Each parish ward comprises the area designated on the map by reference to the name of the parish ward.
+
+(4) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 9 in Schedule 2.
+
+## 13. Wards of the parish of Watford Rural and number of councillors[^key-f4fff40dc9cfe5eec4fb5da8e6ae2cd5][^key-81e8a61cd667a54c07c690b55d6b4b43]
+
+(1) The existing wards of the parish of Watford Rural are abolished.
+
+(2) The parish of Watford Rural is divided into five parish wards, each listed by name in the first column of table 10 in Schedule 2.
+
+(3) Each parish ward comprises the area designated on the map by reference to the name of the parish ward.
+
+(4) The number of councillors to be elected for each parish ward is the number specified in relation to that ward in the second column of table 10 in Schedule 2.
+
+Sealed with the seal of the Local Government Boundary Commission for England
+
+Max Caller
+
+Chairman
+
+Local Government Boundary Commission for England
+
+Date 5th November 2015
+
+## SCHEDULE 1 — Names of county electoral divisions[^key-2f996c5cacc72797e49e40351ee3d47a][^key-d36f5f90f3ac49613c5d29ffd1ed0206]
+
+Article 3
+
+In Broxbourne Borough
+
+|  |
+| --- |
+| Cheshunt Central |
+| Flamstead End & Turnford |
+| Goffs Oak & Bury Green |
+| Hoddesdon North |
+| Hoddesdon South |
+| Waltham Cross |
+| In Dacorum Borough |
+| Berkhamsted |
+| Bridgewater |
+| Hemel Hempstead East |
+| Hemel Hempstead North East |
+| Hemel Hempstead North West |
+| Hemel Hempstead South East |
+| Hemel Hempstead St Pauls |
+| Hemel Hempstead Town |
+| Kings Langley |
+| Tring |
+| In East Hertfordshire District |
+| Bishops Stortford East |
+| Bishops Stortford Rural |
+| Bishops Stortford West |
+| Buntingford |
+| Hertford All Saints |
+| Hertford Rural |
+| Hertford St Andrews |
+| Sawbridgeworth |
+| Ware North |
+| Ware South |
+| In Hertsmere Borough |
+| Borehamwood North |
+| Borehamwood South |
+| Bushey North |
+| Bushey South |
+| Potters Bar East |
+| Potters Bar West & Shenley |
+| Watling |
+| In North Hertfordshire District |
+| Baldock & Letchworth East |
+| Hitchin North |
+| Hitchin Rural |
+| Hitchin South |
+| Knebworth & Codicote |
+| Letchworth North |
+| Letchworth South |
+| Royston East & Ermine |
+| Royston West & Rural |
+| In St Albans City |
+| Colney Heath & Marshalswick |
+| Harpenden North East |
+| Harpenden Rural |
+| Harpenden South West |
+| London Colney |
+| St Albans Central |
+| St Albans East |
+| St Albans North |
+| St Albans South |
+| St Stephen’s |
+| In Stevenage Borough |
+| Bedwell |
+| Broadwater |
+| Chells |
+| Old Stevenage |
+| Shephall |
+| St Nicholas |
+| In Three Rivers District |
+| Abbots Langley |
+| Croxley |
+| Rickmansworth East & Oxhey Park |
+| Rickmansworth West |
+| South Oxhey & Eastbury |
+| Three Rivers Rural |
+| In Watford Borough |
+| Central Watford & Oxhey |
+| Meriden Tudor |
+| Nascot Park |
+| North Watford |
+| West Watford |
+| Woodside Stanborough |
+| In Welwyn Hatfield Borough |
+| Haldens |
+| Handside & Peartree |
+| Hatfield East |
+| Hatfield North |
+| Hatfield Rural |
+| Hatfield South |
+| Welwyn |
+| Welwyn Garden City South |
+
+## SCHEDULE 2 — Names of parish wards and number of councillors[^key-2965f83d9734f26670fb2ab773179900][^key-6e157bd726f5d46367939c9bbd990128]
+
+Articles 4 to 13
+
+Table 1
+
+Wards of the parish of Abbots Langley and number of councillors
+
+| *(1)*<br>*Name of parish ward* | *(2)*<br>*Number of councillors* |
+| --- | --- |
+| Abbots Langley | 4 |
+| Abbots Langley West | 1 |
+| Bedmond | 1 |
+| Hunton Bridge & Langleybury | 1 |
+| Hunton Park | 1 |
+| Leavesden | 5 |
+| Primrose Hill | 2 |
+
+Table 2
+
+Wards of the parish of Berkhamsted and number of councillors
+
+| *(1)*<br>*Name of parish ward* | *(2)*<br>*Number of councillors* |
+| --- | --- |
+| All Saints | 3 |
+| Berkhamsted Castle | 5 |
+| Berkhamsted East | 5 |
+| Lagley | 2 |
+
+Table 3
+
+Wards of the parish of Chorleywood and number of councillors
+
+| *(1)*<br>*Name of parish ward* | *(2)*<br>*Number of councillors* |
+| --- | --- |
+| Chorleywood Cedars | 2 |
+| Chorleywood Common & Loudwater | 5 |
+| Chorleywood East | 2 |
+| Chorleywood Quickswood | 1 |
+| Chorleywood South | 7 |
+
+Table 4
+
+Wards of the parish of Colney Heath and number of councillors
+
+| *(1)*<br>*Name of parish ward* | *(2)*<br>*Number of councillors* |
+| --- | --- |
+| Colney Heath | 4 |
+| Highfield | 4 |
+| Hill End | 1 |
+
+Table 5
+
+Wards of the parish of Elstree & Borehamwood and number of councillors
+
+| *(1)*<br>*Name of parish ward* | *(2)*<br>*Number of councillors* |
+| --- | --- |
+| Borehamwood Brookmeadow | 2 |
+| Borehamwood Cowley Hill | 3 |
+| Borehamwood Hillside | 3 |
+| Borehamwood Kenilworth North | 1 |
+| Borehamwood Kenilworth South | 1 |
+| Borehamwood Shenley Road | 1 |
+| Elstree | 2 |
+
+Table 6
+
+Wards of the parish of Hatfield and number of councillors
+
+| *(1)*<br>*Name of parish ward* | *(2)*<br>*Number of councillors* |
+| --- | --- |
+| Central | 3 |
+| East | 3 |
+| Newgate Street & Wildhill | 1 |
+| Oxlease | 2 |
+| South | 2 |
+| Villages | 3 |
+| West | 1 |
+
+Table 7
+
+Wards of the parish of Royston and number of councillors[^key-5f7d03d4d7afd7f9ff261555e38ad056]
+
+| (1) Name of parish ward | (2) Number of councillors |
+| --- | --- |
+| Royston Meridian | 5 |
+| Royston Palace | 5 |
+| Royston South | 2 |
+| Royston West | 3 |
+
+Table 8
+
+Wards of the parish of St Michael and number of councillors
+
+| *(1)*<br>*Name of parish ward* | *(2)*<br>*Number of councillors* |
+| --- | --- |
+| St Michael | 6 |
+| St Michael South East | 1 |
+
+Table 9
+
+Wards of the parish of Sandridge and number of councillors
+
+| *(1)*<br>*Name of parish ward* | *(2)*<br>*Number of councillors* |
+| --- | --- |
+| Jersey Farm | 4 |
+| Marshalswick East | 4 |
+| Marshalswick West | 4 |
+| Village | 2 |
+
+Table 10
+
+Wards of the parish of Watford Rural and number of councillors
+
+| *(1)*<br>*Name of parish ward* | *(2)*<br>*Number of councillors* |
+| --- | --- |
+| Ashridge | 1 |
+| Carpenders Park | 4 |
+| Hayling | 2 |
+| Oxhey Hall | 2 |
+| South Oxhey | 5 |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes changes to electoral arrangements for the county of Hertfordshire following recommendations made by the Local Government Boundary Commission for England. The area of the county remains unchanged. The electoral changes apply in respect of local government elections to be held on and after the ordinary day of election of councillors in 2016.
+
+Article 3 abolishes the existing county electoral divisions of the county of Hertfordshire and replaces them with 78 new ones. That article, the map (as defined in article 2) and Schedule 1 also establish the names, areas and number of councillors of the new county electoral divisions.
+
+Articles 4 to 10, 12 and 13 abolish the existing wards of the parishes of (i) Abbots Langley, (ii) Berkhamsted, (iii) Chorleywood, (iv) Colney Heath, (v) Elstree & Borehamwood, (vi) Hatfield, (vii) Royston (viii) Sandridge and (ix) Watford Rural respectively and replace them with new ones. Article 11 creates parish wards in the parish of St Michael, which was formerly unwarded. Those articles, the map and Schedule 2 also establish the names, areas and number of councillors of the new parish wards.
+
+The map defined in article 2 shows the new county electoral divisions and parish wards. It is available at http://www.lgbce.org.uk/current-reviews/eastern/hertfordshire/hertfordshire-county-council. The map is also available for inspection at all reasonable times at the offices of Hertfordshire County Council, County Hall, Pegs Lane, Hertford, SG13 8DQ and at the offices of the Local Government Boundary Commission for England at 14th Floor, Millbank Tower, London SW1P 4QP.
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2009 c.20](https://www.legislation.gov.uk/ukpga/2009/20).
+
+[^f00002]: Footnote: The Local Government Boundary Commission for England was established on 1st April 2010 by section 55(1) of the Local Democracy, Economic Development and Construction Act [2009 (c.20)](https://www.legislation.gov.uk/ukpga/2009/20).
+
+[^key-1c929732ea12158a200065db8d085d6d]: Commencement: Art. 1 in force at 6.11.2015 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/2/a)
+
+[^key-e678f4bfa09509c58c5d90326990d6cd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/1873/article/1) in force at 5.5.2016 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/2/b)
+
+[^key-5b11feb22f72aa027f9ed608c2155191]: Textual amendment: Word in [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5) omitted (4.12.2018) by virtue of [The Hertfordshire (Electoral Changes) (Amendment) Order 2018 (S.I. 2018/1284)](https://www.legislation.gov.uk/uksi/2018/1284), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1284/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/1284/article/2/a)
+
+[^key-71411d646330fca33a7c9c59ef009193]: Textual amendment: [Art. 1(6)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/6) inserted (4.12.2018) by [The Hertfordshire (Electoral Changes) (Amendment) Order 2018 (S.I. 2018/1284)](https://www.legislation.gov.uk/uksi/2018/1284), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1284/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/1284/article/2/b)
+
+[^key-2bf73459f2920589d3b1be2e30878843]: Commencement: Art. 2 in force at 6.11.2015 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/2/a)
+
+[^key-7010ab3de4078d50641edd64980b4e8b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/1873/article/2) in force at 5.5.2016 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/2/b)
+
+[^f00003]: Footnote: [1983 c.2](https://www.legislation.gov.uk/ukpga/1983/2); section 37 has been amended by section 18(2) of the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50), paragraph 5 of Schedule 3 to the Greater London Authority Act [1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29) and section 60(1) of the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28).
+
+[^key-45f0672179a5673eb7e2ec7478d3f85d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/1873/article/3) in force at 15.10.2016 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/3/a)
+
+[^key-395a31343304680ce6b48a8027f30700]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/1873/article/3) in force at 4.5.2017 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/3/b)
+
+[^key-162e432f0ba71c2429379769602cf5db]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/1873/article/4) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
+
+[^key-facf79d8ead7603c15bc6939fc91ce83]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/1873/article/4) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
+
+[^key-c0c76ed5b84e1578e1a4fd1bb2b6352e]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/1873/article/5) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
+
+[^key-021f6c0dd86aeda7f57d51ca374e88e8]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/1873/article/5) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
+
+[^key-e5063c2588b13f1a99c932fe439c3338]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/1873/article/6) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
+
+[^key-6531077ea55325109a79b3b8dbb5f1fc]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/1873/article/6) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
+
+[^key-689a3a97097d10a98bcea8d3e9b23212]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/1873/article/7) in force at 15.10.2017 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/4/a)
+
+[^key-f5f626d79c1831e04b7044f2a3a6a234]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/1873/article/7) in force at 3.5.2018 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/4/b)
+
+[^key-f6279371352449761ef733524ceec4f6]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2015/1873/article/8) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
+
+[^key-8a933b35037d8b3dd6c938cd2ec814fd]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2015/1873/article/8) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
+
+[^key-f10640ce26f62200e4543546b629ef5b]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2015/1873/article/9) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
+
+[^key-09bb10e10f73f19045d594e980948651]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2015/1873/article/9) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
+
+[^key-fa50068e00b77ab80bf22d673d455ffd]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2015/1873/article/10) in force at 15.10.2017 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/4/a)
+
+[^key-f88fdb99ab7095ed856cf8289999cfeb]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2015/1873/article/10) in force at 3.5.2018 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/4/b)
+
+[^key-776f6a2c8daf8503ea55f620c2f02e1f]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2015/1873/article/11) in force at 15.10.2017 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/4/a)
+
+[^key-e44666a08aca81c08315b5969d797749]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2015/1873/article/11) in force at 3.5.2018 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/4/b)
+
+[^key-03cdd1800fc7e46c6dbf5831483cb200]: Commencement: Art. 12 in force at 6.11.2015 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/2/a)
+
+[^key-9b24f233e0812abfa1979494f8d530a8]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2015/1873/article/12) in force at 5.5.2016 in so far as not already in force, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/2/b)
+
+[^key-f4fff40dc9cfe5eec4fb5da8e6ae2cd5]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2015/1873/article/13) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
+
+[^key-81e8a61cd667a54c07c690b55d6b4b43]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2015/1873/article/13) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
+
+[^key-2f996c5cacc72797e49e40351ee3d47a]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1873/schedule/1) in force at 15.10.2016 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/3/a)
+
+[^key-d36f5f90f3ac49613c5d29ffd1ed0206]: Commencement: Sch. 1 in force at 4.5.2017 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/3/b)
+
+[^key-2965f83d9734f26670fb2ab773179900]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1873/schedule/2) in force at 15.10.2018 for specified purposes, see [art. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/1873/article/5/a)
+
+[^key-6e157bd726f5d46367939c9bbd990128]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1873/schedule/2) in force at 2.5.2019 in so far as not already in force, see [art. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/1873/article/1/5/b)
+
+[^key-5f7d03d4d7afd7f9ff261555e38ad056]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1873/schedule/2) Table 7 substituted (27.1.2017) by [The Hertfordshire (Electoral Changes) (Amendment) Order 2017 (S.I. 2017/76)](https://www.legislation.gov.uk/uksi/2017/76), [arts. 1](https://www.legislation.gov.uk/uksi/2017/76/article/1), [2](https://www.legislation.gov.uk/uksi/2017/76/article/2)

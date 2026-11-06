@@ -1,0 +1,63 @@
+---
+title: The Social Security (Claims and Payments) Amendment Regulations 1997
+id: uksi/1997/3034
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: repealed
+made_date: '1997-12-18'
+text_date: '2017-04-01'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1997/3034
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1997/3034/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security (Claims and Payments) Amendment Regulations 1997
+
+> This law has been repealed or revoked.
+
+**No longer in force.**
+
+1997 No. 3034
+
+SOCIAL SECURITY
+
+The Social Security (Claims and Payments) Amendment Regulations 1997 (revoked)
+
+Made
+
+18th December 1997
+
+Laid before Parliament
+
+22nd December 1997
+
+Coming into force
+
+1st April 1998
+
+[^key-fb699c468fbbe3eb29317c78cda8a778]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+## 1. Citation and commencement
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Amendment of paragraph 7 of Schedule 9A to the Social Security (Claims and Payments) Regulations 1987
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-fb699c468fbbe3eb29317c78cda8a778]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^key-fb699c468fbbe3eb29317c78cda8a778]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-fb699c468fbbe3eb29317c78cda8a778]: Textual amendment: Instrument revoked (1.4.2017) by [The Social Security (Fees Payable by Qualifying Lenders) (Amendment) Regulations 2017 (S.I. 2017/270)](https://www.legislation.gov.uk/uksi/2017/270), [regs. 1](https://www.legislation.gov.uk/uksi/2017/270/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/270/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/2017/270/schedule)

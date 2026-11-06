@@ -1,0 +1,703 @@
+---
+title: The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018
+id: uksi/2018/1392
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-12-18'
+text_date: '2020-12-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2018/1392
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/1392/pdfs/uksiem_20181392_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1392/pdfs/uksi_20181392_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/1392/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2018 No. 1392
+
+Exiting The European Union
+
+Civil Aviation
+
+The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018
+
+Made
+
+18th December 2018
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23493521] and section 2(2) of the European Communities Act 1972 [^c23493531].
+
+The Secretary of State is a Minister designated [^c23493541] for the purposes of section 2(2) of the European Communities Act 1972 in relation to measures relating to air transport.
+
+In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement
+
+(1) These Regulations may be cited as the Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018.
+
+(2) Subject to paragraph (3), these Regulations come into force on exit day.
+
+(3) This regulation, paragraphs 9(c) and 17 of Schedule 1 and regulation 4, in so far as it relates to those paragraphs, come into force on the 22nd day after the day on which these Regulations are made.
+
+## PART 2 — Amendment of primary legislation
+
+### 2. Amendment of the Civil Aviation Act 1982[^c23844151]
+
+(1) The Civil Aviation Act 1982 [^c23493551] is amended as follows.
+
+(2) In section 69A [^c23493561]—
+
+- (a) in subsection (2)—
+  - (i) for “Community air carrier” substitute “ UK air carrier ”,
+  - (ii) in paragraph (c) omit “and”, and
+  - (iii) omit paragraph (d);
+- (b) in subsection (3), for “the exercise of those traffic rights” substitute “ the carriage for reward of passengers or cargo on a route ”;
+- (c) in subsection (5)—
+  - (i) for “an authority in any EEA State or Switzerland” substitute “ the CAA ”, and
+  - (ii) for “that authority” substitute “ the CAA ”; and
+- (d) in subsection (8)—
+  - (i) for “Community air carrier” substitute “ UK air carrier ”, and
+  - (ii) for “in any EEA State or Switzerland” substitute “ by the CAA ”.
+
+(3) In section 105(1) [^c23493571] omit the definitions of “EEA Agreement” and “EEA State”.
+
+## PART 3 — Amendment of subordinate legislation
+
+### 3. Amendment of the Civil Aviation (Allocation of Scarce Capacity) Regulations 2007[^c23509851]
+
+(1) Regulation 2 of the Civil Aviation (Allocation of Scarce Capacity) Regulations 2007 [^c23493581] is amended as follows.
+
+(2) In the definition of “air service agreement”—
+
+- (a) for “a third country” substitute “ another country ”; and
+- (b) omit the words from “which is described” to the end.
+
+(3) For the definition of “qualifying carrier” substitute—
+
+> “**qualifying carrier**”, in relation to a capacity constrained route, means—
+>
+> - (a) an undertaking which has been granted an air transport licence in accordance with section 65 of the Act,
+> - (b) a UK air carrier as defined in section 69A(8) of the Act, or
+> - (c) any other air carrier authorised in accordance with an air service agreement to operate services on that route as an airline of the United Kingdom;
+
+.
+
+(4) Omit the definition of “third country”.
+
+### 4. Amendment of the Operation of Air Services in the Community Regulations 2009[^c24448431]
+
+The Operation of Air Services in the Community Regulations 2009 [^c23493591] are amended in accordance with Schedule 1.
+
+### 5. Amendment of the Operation of Air Services in the Community (Pricing etc.) Regulations 2013[^c23509861]
+
+(1) The Operation of Air Services in the Community (Pricing etc.) Regulations 2013 [^c23493601] are amended as follows.
+
+(2) In the title and in regulation 1 omit “in the Community”.
+
+(3) Omit regulation 28.
+
+### 6. Amendment of the Air Navigation Order 2016[^c23509871]
+
+(1) The Air Navigation Order 2016 [^c23493611] is amended as follows.
+
+(2) Omit article 250(6)(a).
+
+(3) In article 252—
+
+- (a) in the heading, for “an EEA state” substitute “ the United Kingdom ”; and
+- (b) omit paragraph (2)(a).
+
+(4) In article 260(2), for “a country which is outside the European Economic Area” substitute “ another country ”.
+
+(5) In the entry for Article 252, in the table in Schedule 13, Part 3, Chapter 1, for “an EEA state” substitute “ the United Kingdom ”.
+
+## PART 4 — Amendment and revocation of retained direct EU legislation
+
+### 7. Amendment of Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/european/regulation/2008/1008)[^c23509881]
+
+Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/european/regulation/2008/1008) of the European Parliament and of the Council of 24th September 2008 on common rules for the operation of air services in the Community is amended in accordance with Schedule 2.
+
+### 8. Revocation of Regulation [(EC) No 847/2004](https://www.legislation.gov.uk/european/regulation/2004/0847)[^c23509891]
+
+Regulation [(EC) No 847/2004](https://www.legislation.gov.uk/european/regulation/2004/0847) of the European Parliament and of the Council of 29th April 2004 on the negotiation and implementation of air services agreements between Member States and third countries is revoked.
+
+## PART 5 — Amendment of the Annexes to the EEA Agreement
+
+### 9. Amendment of Annex XIII to the EEA Agreement[^c23509901][^key-628d93c075be6b713f99cb7e281a3a90]
+
+In paragraph 64a of Annex XIII to the EEA Agreement, omit the words from “The provisions of the Regulation shall” to the end.
+
+## PART 6 — Transitional and savings arrangements
+
+### 10. Operating licences: transitional and savings arrangements[^c23509911]
+
+(1) Any operating licence which, by virtue of paragraph 37 of Schedule 8 to the European Union (Withdrawal) Act 2018 (continuity of existing acts etc.), would otherwise continue to be valid on and after IP completion day[^key-a18017d6d40c9fbe9d1108da2f2c6410], ceases to be valid on IP completion day if it was not granted by the Civil Aviation Authority.
+
+(2) In this regulation, “**operating licence**” has the meaning given in Regulation [(EC) 1008/2008](https://www.legislation.gov.uk/eur/2008/1008) [^c23493621] of the European Parliament and of the Council on common rules for the operation of air services in the Community EU, as it has effect in EU law.
+
+Signed by authority of the Secretary of State for Transport
+
+Sugg
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+## SCHEDULE 1 — Amendment of the Operation of Air Services in the Community Regulations 2009
+
+Regulation 4
+
+**1.**[^c23509931] The Operation of Air Services in the Community Regulations 2009 are amended as follows.
+
+**2.**[^c23509941] In the title and in regulation 1 omit “in the Community”.
+
+**3.**[^c23509951] In regulation 3—
+
+- (a) in paragraph (1), after the definition of “the EC Regulation”, insert—
+
+  > “**Official Record**” means a document of that name published on the website of the CAA; and
+
+  ; and
+- (b) in paragraph (2)—
+  - (i) for “ “Community air carrier”” substitute “ “UK air carrier” ”, and
+  - (ii) after “ “operating licence”,” insert “ “qualifying air carrier”, ”.
+
+**4.**[^c24448461] In regulation 5—
+
+- (a) the existing regulation becomes paragraph (1);
+- (b) in that paragraph, for “, 14 and 15(3)” substitute “ and 14 ”; and
+- (c) after that paragraph insert—
+
+  > (2) The CAA must publish annually in its Official Record a list of its decisions to grant, suspend or revoke operating licences.
+
+  .
+
+**5.**[^c23509961] For regulation 8(1) substitute—
+
+> (1) Where the CAA revokes or suspends an operating licence that it has granted on the application of the holder, unless otherwise specified by the CAA the revocation or suspension has effect on and from the day after the date on which the holder is notified of the decision.
+
+.
+
+**6.**[^c23509971] Omit regulation 9(2) and (3).
+
+**7.**[^c23509981] In regulations 10(1) and 12 for “Community air carrier” substitute “ UK air carrier ”.
+
+**8.**[^c23510001] Omit regulation 14.
+
+**9.**[^c23510111] In regulation 17—
+
+- (a) in paragraph (2)(c)—
+  - (i) after “registered in” insert “ the United Kingdom or ”, and
+  - (ii) before “Community air carrier” insert “ UK air carrier or a ”;
+- (b) after paragraph (2) insert—
+
+  > (2A) In paragraph (2)(c), “**Community air carrier**” has the meaning given by Article 2(11) of Regulation [(EC) 1008/2008](https://www.legislation.gov.uk/european/regulation/2008/1008) [^c23493631] of the European Parliament and of the Council of 24th September 2008 on common rules for the operation of air services in the Community, as it has effect in EU law.
+
+  ; and
+- (c) in paragraph (3), for the words from “Annex III” to the end, substitute “ Annex II of Commission Regulation (EU) No 965/2012 [^c23493641] of 5th October 2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation [(EC) No 216/2008](https://www.legislation.gov.uk/european/regulation/2008/0216) of the European Parliament and of the Council ”.
+
+**10.**[^c23510011] In regulation 18—
+
+- (a) in paragraph (1), for “according to the decision of the Secretary of State under regulation 14”, substitute “ in the United Kingdom ”; and
+- (b) in paragraph (2) for “Community air carrier” substitute “ UK air carrier ”.
+
+**11.**[^c23510021] Omit regulation 22.
+
+**12.**[^c23510031] In regulation 23—
+
+- (a) in paragraph (1)—
+  - (i) for “Article 16, 17 or 18” substitute “ Article 16 or 17 ”,
+  - (ii) in sub-paragraph (b) omit “EU”, and
+  - (iii) for “Community air carriers” substitute “ qualifying air carriers ”;
+- (b) in paragraph (2), for “Community air carrier” substitute “ qualifying air carrier ”; and
+- (c) in paragraph (5)(a), for “Article 16, 17 or 18” substitute “ Article 16 or 17 ”.
+
+**13.**[^c23510051] In regulation 24 for “Community air carrier” substitute “ qualifying air carrier ”.
+
+**14.**[^c23510061] In regulation 25—
+
+- (a)[^key-89354eb0a5bd6f1504212e8f22dbd47b] for “Community air carrier” substitute “qualifying air carrier”;
+- (b) in sub-paragraph (a), omit “or between the United Kingdom and another Member State”; and
+- (c) omit sub-paragraph (b).
+
+**15.**[^c23510071] Omit regulations 26 and 27.
+
+**16.**[^c23510091] In Schedule 2—
+
+- (a) for paragraph 1 substitute—
+
+  > **1.** When the CAA provides to a person having a right of appeal written notification of its decision to refuse, revoke or suspend an operating licence, the notification must specify the date on which the decision takes effect.
+
+  ; and
+- (b) in paragraph 9, for “the Official Journal of the European Union” substitute “ its Official Record ”.
+
+**17.** In Schedule 4, paragraph 1(1), in the definition of “lease approval”, for paragraph (b) substitute—
+
+> - (b) under ARO.OPS.110 of Annex II of Commission Regulation (EU) No 965/2012 of 5th October 2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation [(EC) No 216/2008](https://www.legislation.gov.uk/european/regulation/2008/0216) of the European Parliament and of the Council.
+
+.
+
+## SCHEDULE 2 — Amendment of Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/eur/2008/1008)
+
+Regulation 7
+
+**1.**[^c23510121] Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/eur/2008/1008) of the European Parliament and of the Council of 24th September 2008 on common rules for the operation of air services in the Community is amended as follows.
+
+**2.**[^c23510131] In the title for “Community” substitute “ United Kingdom ”.
+
+**3.**[^c23510141] In Article 1—
+
+- (a) for paragraph 1 substitute—
+
+  > **1.** This Regulation regulates the licensing of UK air carriers, the imposition of public service obligations in respect of scheduled air services and information on pricing of air services within the United Kingdom. It also lays down temporary rules on the supply of groundhandling services at airports in the United Kingdom.[^key-cc2274658030eb0fc6ca7b1cad645ee1]
+
+  ; and
+- (b) omit paragraph 2.
+
+**4.**[^c23510151] (1) Article 2 is amended as follows.
+
+(2) In paragraph 2 for “an authority of a Member State” substitute “ the authority ”.
+
+(3) In paragraph 7 omit “in a Member State”.
+
+(4) In paragraph 8 omit the words from “, as provided in” to the end.
+
+(5) In paragraph 11—
+
+- (a) for “Community air carrier” substitute “ UK air carrier ”; and
+- (b) for “a competent licensing authority” substitute “ the competent licensing authority ”.
+
+(6) After paragraph 11 insert—
+
+> **11A.** ‘qualifying air carrier’ means:
+>
+> - (a) a UK air carrier; or
+> - (b) any air carrier eligible to operate services on the route concerned under or by virtue of an agreement between the United Kingdom and another country;
+
+.
+
+(7) Omit paragraphs 13 and 14.
+
+(8) In paragraphs 18 and 19 omit “expressed in euro or in local currency”.
+
+(9) Omit paragraphs 20 to 22.
+
+(10) For paragraph 26 substitute—
+
+> **26.** “**principal place of business**” means the head office or registered office of a UK air carrier.
+
+.
+
+**5.**[^c23510161] (1) Article 3 is amended as follows.
+
+(2) In paragraph 1—
+
+- (a) for “established” substitute “ which has its principal place of business ”; and
+- (b) for Community” substitute “ United Kingdom ”.
+
+(3) In paragraph 3 for “Community, national, or international law” substitute “ national or international law ”.
+
+**6.**[^c23510171] In Article 4—
+
+- (a) in the introductory phrase, omit “of a Member State”;
+- (b) in point (a) for “that Member State” substitute “ the United Kingdom ”;
+- (c) in point (b), for the words from “in accordance with” to the end, substitute “ by the Civil Aviation Authority ”; and
+- (d) omit point (f).
+
+**7.**[^c23510181] In Article 5(3)—
+
+- (a) for “EUR 100 000” substitute “ £87,000 ”; and
+- (b) for “EUR 3 million” substitute “ £2,600,000 ”.
+
+**8.**[^c23510191] (1) Article 6 is amended as follows.
+
+(2) In paragraph 2—
+
+- (a) for “Community air carrier” substitute “ UK air carrier ”; and
+- (b) omit the second subparagraph.
+
+(3) Omit paragraphs 3 and 3a.
+
+**9.**[^c23510201] (1) Article 7 is amended as follows.
+
+(2) In paragraph 1—
+
+- (a) for “nationals of Member States” substitute “ UK nationals ”; and
+- (b) for the words from “Member State of origin” to “residence” substitute “ UK ”.
+
+(3) In paragraph 2—
+
+- (a) for “Member State”, in each place it occurs, substitute “ country ”; and
+- (b) for “Member States” substitute “ countries ”.
+
+**10.**[^c23510211] (1) Article 8 is amended as follows.
+
+(2) In paragraph 1 for “Community air carrier”, in both places it occurs, substitute “ UK air carrier ”.
+
+(3) In paragraph 2—
+
+- (a) for “Commission” substitute “ Secretary of State ”; and
+- (b) omit the words from “In case” to the end.
+
+(4) In paragraphs 3 to 6, for “Community air carrier”, in each place it occurs, substitute “ UK air carrier ”.
+
+(5) In paragraph 7—
+
+- (a) for “Community air carriers” substitute “ UK air carriers ”; and
+- (b) for “Community air carrier” substitute “ UK air carrier ”.
+
+(6) In paragraph 8—
+
+- (a) for “Community air carriers”, in each place it occurs, substitute “ UK air carriers ”;
+- (b) for “EUR 100 000” substitute “ £87,000 ”; and
+- (c) for “EUR 3 million” substitute “ £2,600,000 ”.
+
+**11.**[^c23510221] (1) Article 9 is amended as follows.
+
+(2) For “Community air carrier”, in each place it occurs, substitute “ UK air carrier ”.
+
+(2A)[^key-ab684229cdc1d1daf6ef227195e05554] In paragraph 1a, for “Union air carrier”, in both places it occurs, substitute “UK air carrier”.
+
+(2B) Omit paragraphs 1b to 1d.
+
+(3) In paragraph 2 omit the second subparagraph.
+
+(4) In paragraph 5, for “Community air carrier's” substitute “UK air carrier's”.
+
+**12.**[^c23510231] In Article 10—
+
+- (a) in paragraph 2, for the words from “authorities” to the end, substitute “ authority ”; and
+- (b) omit paragraph 3.
+
+**13.**[^c23510241] (1) Article 12 is amended as follows.
+
+(2) For paragraph 1 substitute—
+
+> **1.** Aircraft used by a UK air carrier shall be registered in the United Kingdom. However, when used under a dry lease or a wet lease agreement in accordance with Article 13, such aircraft may be registered in the national register either of the United Kingdom or of another country.
+
+.
+
+(3) Omit paragraph 2.
+
+**14.**[^c23510251] (1) Article 13 is amended as follows.
+
+(2) In paragraph 1—
+
+- (a) for “Community air carrier” substitute “ UK air carrier ”;
+- (b) for “Community air carriers” substitute “ UK air carriers ”;
+- (c) before “the Community” insert “ the United Kingdom or ”; and
+- (d) omit the words from “The Commission” to the end.
+
+(3) In paragraph 2—
+
+- (a) for “Community air carrier”, in both places it occurs, substitute “ UK air carrier ”; and
+- (b) omit “Community or national”.
+
+(4) In paragraph 3—
+
+- (a) in the introductory phrase—
+  - (i) for “Community air carrier” substitute “ UK air carrier ”, and
+  - (ii) for “third country” substitute “ country other than the United Kingdom or a Member State ”;
+- (b) in point (a)—
+  - (i) for “Community air carrier” substitute “ UK air carrier ”, and
+  - (ii) omit “Community or”; and
+- (c) in point (b)—
+  - (zi)[^key-324f18bec9e8b921b5ac2eebf9b39ddc] for “Union”, in both places it occurs, substitute “United Kingdom”;
+  - (i) for “Community air carrier”, in each place it occurs, substitute “ UK air carrier ”, and
+  - (ii) after “registered within the Community”, in both places it occurs, insert “ or the United Kingdom ”.
+
+(5) In paragraph 4—
+
+- (a) in the first subparagraph, for “the approval” substitute “ an approval granted under paragraph 3 ”;
+- (b) for the second subparagraph substitute—
+
+  > The competent authority may refuse to grant the approval if there is no reciprocity as regards wet leasing between the United Kingdom and the country where the wet-leased aircraft is registered.
+
+  ; and
+- (c) omit the third subparagraph.
+
+**15.**[^c23510261] In Article 14, for “Community air carrier”, in both places it occurs, substitute “ UK air carrier ”.
+
+**16.**[^c23510271] Omit Article 15.
+
+**17.**[^c23510281] (1) Article 16 is amended as follows.
+
+(2) In paragraph 1—
+
+- (a) for the words from the beginning to “airports concerned” substitute “ The Secretary of State, following consultation with the airports concerned, the Government of Gibraltar, if such an airport is located there, ”;
+- (b) for the words from “the Community” to “on its territory”, substitute “ the United Kingdom or Gibraltar and an airport serving either a peripheral or development region of the United Kingdom or Gibraltar, or on a thin route to any airport in the United Kingdom or Gibraltar, ”; and
+- (c) after “airport serves” insert “ or of Gibraltar ”.
+
+(3) In paragraph 2—
+
+- (a) for “Member States concerned” substitute “ Secretary of State ”; and
+- (b) for “Community air carrier” substitute “ qualifying air carrier ”.
+
+(4) In paragraph 3—
+
+- (a) for “Member State(s)” substitute “ Secretary of State ”; and
+- (b) in point (a), after “concerned” insert “ or, as the case may be, Gibraltar ”.
+
+(5) In paragraph 4—
+
+- (a) for the first subparagraph substitute—
+
+  > When the Secretary of State proposes to impose a public service obligation, the Secretary of State must in writing communicate the details of the envisaged public service obligation to—
+  >
+  > - (a) the airports concerned,
+  > - (b) the Government of Gibraltar, if such an airport is located there, and
+  > - (c) any qualifying air carriers operating the route in question.
+
+  ; and
+- (b) in the second subparagraph—
+  - (i) for the words from the beginning to “Union”, substitute “ The Secretary of State must publish an information notice in the London, Edinburgh and Belfast Gazettes: ”, and
+  - (ii) in point (c), for “Member State concerned” substitute “ Secretary of State ”.
+
+(6) Omit paragraph 5.
+
+(7) In paragraphs 7 and 8, for “Community air carrier” substitute “ qualifying air carrier ”.
+
+(8) In paragraph 9—
+
+- (a) for “Community air carrier”, in both places it occurs, substitute “ qualifying air carrier ”;
+- (b) for “Member State concerned” substitute “ Secretary of State ”; and
+- (c) omit the second subparagraph.
+
+(9) In paragraph 10—
+
+- (a) for “Community air carrier” substitute “ qualifying air carrier ”; and
+- (b) for “a Member State may issue a single invitation to tender covering different routes” substitute “ a single invitation to tender covering different routes may be issued ”.
+
+(10) In the first subparagraph of paragraph 12—
+
+- (a) for “Community air carrier”, in both places it occurs, substitute “ qualifying air carrier ”;
+- (b) for “Member State concerned” substitute “ Secretary of State ”;
+- (c) in point (a), omit “by the Member State”; and
+- (d) in point (b), for “Community air carriers” substitute “ qualifying air carriers ”.
+
+(11) Omit the second subparagraph of paragraph 12.
+
+**18.**[^c23510291] (1) Article 17 is amended as follows.
+
+(2) Omit paragraph 2.
+
+(3) In paragraph 4—
+
+- (a) for the words from the beginning to “European Union” substitute “ The Secretary of State must ensure that an invitation to tender is made known through the publication of an information notice in the London, Edinburgh and Belfast Gazettes. ”; and
+- (b) omit from “In case” to the end.
+
+(4) In paragraph 5—
+
+- (a) omit point (a); and
+- (b) in point (d), omit “by the Member State concerned”.
+
+(5) In paragraph 6, for “The Member State(s) concerned” substitute “ The Secretary of State ”.
+
+(6) In paragraph 7, omit “from the Member State(s) concerned”.
+
+(7) In paragraph 8, for the words from the beginning to “paragraph 7,” substitute “ An air carrier which has been selected under paragraph 7 may be compensated ”.
+
+(8) Omit paragraphs 9 and 10.
+
+**19.**[^c23510301] Omit Articles 18 to 22.
+
+**20.**[^c23510311] (1) Article 23 is amended as follows.
+
+(2) In paragraph 1, for “territory of a Member State to which the Treaty applies” substitute “ United Kingdom ”.
+
+(3) Omit paragraph 2.
+
+**21.**[^c23510321] Omit Article 24[^key-914ccb2e9b43e930daf3c77b72b63347].
+
+**21A.**[^key-0e96b184456e3166219652fdb0d7d116] (1) Article 24a is amended as follows.
+
+(2) In paragraph 1—
+
+- (a) for “point (d) of Article 11(1) of Council [Directive 96/67/EC](https://www.legislation.gov.uk/eudr/1996/0067)” substitute “regulation 12(9) of the Airports (Groundhandling) Regulations 1997”;
+- (b) for “Article 11(1) of that Directive” substitute “regulation 12 of those Regulations”.
+
+(3) In paragraph 2—
+
+- (a) for “point (e) of Article 11(1) of [Directive 96/67/EC](https://www.legislation.gov.uk/eudr/1996/0067)” substitute “regulation 12(10) of the Airports (Groundhandling) Regulations 1997”;
+- (b) for “competent authority of the Member State” substitute “Civil Aviation Authority”.
+
+(4) Omit paragraphs 3 to 5.
+
+**21B.** Omit Articles 25 to 26.
+
+**22.**[^c23510331] In the text immediately after Article 28, omit “This Regulation shall be binding in its entirety and directly applicable in all Member States”.
+
+*(This note is not part of the Regulations)*
+
+These Regulations (except for paragraphs 9(c) and 17 of Schedule 1) are made in exercise of the powers in section 8 of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 (c.16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under sections 8(2)(a), (b), (c), (d), (e) and (g) and (3)(a)) arising from the withdrawal of the United Kingdom from the European Union. The Regulations make amendments to legislation in the field of the operation of air services.
+
+Paragraphs 9(c) and 17 of Schedule 1, which come into force 22 days after these Regulations are made, are made under section 2(2) of the European Communities Act 1972. These amendments update references to European legislation.
+
+Part 2 amends the Civil Aviation Act 1982, in particular section 69A which specifies the circumstances in which an operator of an aircraft must obtain a route licence.
+
+Part 3 amends and revokes subordinate legislation. Regulation 3 amends the definition of “qualifying carrier” in the Civil Allocation (Allocation of Scarce Capacity) Regulations 2007. Regulations 4 and 5 and Schedule 1 amend the Operation of Air Services in the Community Regulations 2009 and the Operation of Air Services in the Community (Pricing etc.) Regulations 2013. These sets of Regulations implement various aspects of Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/european/regulation/2008/1008) on common rules for the operation of air services in the Community and make provision for enforcement and penalties. Regulation 6 amends the Air Navigation Order 2016, in particular Articles 250 and 252 which set out prohibited behaviour in relation to the operation of foreign-registered aircraft.
+
+Part 4 amends and revokes certain retained EU legislation. Regulation 7 and Schedule 2 amend Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/european/regulation/2008/1008) on common rules for the operation of air services in the Community. This Regulation currently regulates the licencing of EU air carriers, the right of EU air carriers to operate intra-EU air services, the imposition of public service obligations in respect of scheduled air services, and the pricing of intra-EU air services. Regulation 8 revokes Regulation [(EC) 847/2004](https://www.legislation.gov.uk/european/regulation/2004/0847) on the negotiation and implementation of air services agreements between Member States and third countries.
+
+Part 5 revokes the adaptations of Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/european/regulation/2008/1008) in paragraph 64a of Annex XIII to the EEA Agreement.
+
+Part 6 makes transitional and savings provision in relation to operating licences.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private or voluntary sector is foreseen.
+
+An Explanatory Memorandum is published alongside the instrument on www.legislation.gov.uk .
+
+## Annotations
+
+[^c23493521]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^c23493531]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and section 3 of, and Part 1 of the Schedule to, the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^c23493541]: Marginal citation: [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661), to which there are amendments not relevant to these Regulations.
+
+[^c23844151]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1392/regulation/2) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23493551]: Marginal citation: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16).
+
+[^c23493561]: Marginal citation: [Section 69A](https://www.legislation.gov.uk/uksi/2018/1392/section/69A) was inserted by [S.I. 1992/2992](https://www.legislation.gov.uk/uksi/1992/2992). Subsections (2), (3) and (5) were amended by S.I.s 2004/1526 and 2009/41. There are other amendments but none is relevant.
+
+[^c23493571]: Marginal citation: [Section 105(1)](https://www.legislation.gov.uk/uksi/2018/1392/section/105/1) was amended by [S.I. 1994/1732](https://www.legislation.gov.uk/uksi/1994/1732) to insert the definitions of “EEA Agreement” and “EEA State”. There are other amendments but none is relevant.
+
+[^c23509851]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1392/regulation/3) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23493581]: Marginal citation: [S.I. 2007/3556](https://www.legislation.gov.uk/uksi/2007/3556).
+
+[^c24448431]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1392/regulation/4) in force for specified purposes on 9.1.2019 and in force otherwise on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/3)
+
+[^c23493591]: Marginal citation: [S.I. 2009/41](https://www.legislation.gov.uk/uksi/2009/41), amended by [S.I. 2009/3015](https://www.legislation.gov.uk/uksi/2009/3015), [S.I](https://www.legislation.gov.uk/uksi/2009/3015/section/I). 2011/1043 and [S.I. 2013/486](https://www.legislation.gov.uk/uksi/2013/486).
+
+[^c23509861]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1392/regulation/5) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23493601]: Marginal citation: [S.I. 2013/486](https://www.legislation.gov.uk/uksi/2013/486), amended by [S.I. 2014/549](https://www.legislation.gov.uk/uksi/2014/549).
+
+[^c23509871]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/1392/regulation/6) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23493611]: Marginal citation: [S.I. 2016/765](https://www.legislation.gov.uk/uksi/2016/765), to which there are amendments not relevant to these Regulations.
+
+[^c23509881]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/1392/regulation/7) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23509891]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/1392/regulation/8) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23509901]: Commencement: Reg. 9 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^key-628d93c075be6b713f99cb7e281a3a90]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/1392/regulation/9) substituted (31.1.2020) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2019/687/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23509911]: Commencement: Reg. 10 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^key-a18017d6d40c9fbe9d1108da2f2c6410]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/10/1) substituted (31.12.2020 immediately before IP completion day) by [The Unmanned Aircraft (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1593)](https://www.legislation.gov.uk/uksi/2020/1593), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1593/regulation/1/3), [86(2)](https://www.legislation.gov.uk/uksi/2020/1593/regulation/86/2)
+
+[^c23493621]: Marginal citation: OJ No L 293, 31.10.2008, p.3.
+
+[^c23509931]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/1) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23509941]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/2) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23509951]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/3) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c24448461]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/4) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23509961]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/5) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23509971]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/6) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23509981]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/7) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510001]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/8) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510111]: Commencement: [Sch. 1 para. 9(c)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/9/c) in force at 9.1.2019 and Sch. 1 para. 9 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/3)
+
+[^c23493631]: Marginal citation: OJ No L 293, 31.10.2008, p.3.
+
+[^c23493641]: Marginal citation: OJ No L 296, 25.10.2012, p.1.
+
+[^c23510011]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/10) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510021]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/11) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510031]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/12) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510051]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/13) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510061]: Commencement: Sch. 1 para. 14 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+
+[^key-89354eb0a5bd6f1504212e8f22dbd47b]: Textual amendment: [Sch. 1 para. 14(a)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/14/a) substituted (31.1.2020) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2019/687/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23510071]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/15) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510091]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2018/1392/schedule/1/paragraph/16) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510121]: Commencement: Sch. 2 para. 1 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510131]: Commencement: Sch. 2 para. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510141]: Commencement: Sch. 2 para. 3 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^key-cc2274658030eb0fc6ca7b1cad645ee1]: Textual amendment: Words in Sch. 2 para. 3(a) inserted (31.12.2020 immediately before IP completion day) by [The Operation of Air Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1632)](https://www.legislation.gov.uk/uksi/2020/1632), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1632/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1632/regulation/2/2)
+
+[^c23510151]: Commencement: Sch. 2 para. 4 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510161]: Commencement: Sch. 2 para. 5 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510171]: Commencement: Sch. 2 para. 6 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510181]: Commencement: Sch. 2 para. 7 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510191]: Commencement: Sch. 2 para. 8 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510201]: Commencement: Sch. 2 para. 9 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510211]: Commencement: Sch. 2 para. 10 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510221]: Commencement: Sch. 2 para. 11 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^key-ab684229cdc1d1daf6ef227195e05554]: Textual amendment: [Sch. 2 para. 11(2A)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/2/paragraph/11/2A)[(2B)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/2/paragraph/11/2B) inserted (31.12.2020 immediately before IP completion day) by [The Operation of Air Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1632)](https://www.legislation.gov.uk/uksi/2020/1632), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1632/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1632/regulation/2/3)
+
+[^c23510231]: Commencement: Sch. 2 para. 12 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510241]: Commencement: Sch. 2 para. 13 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510251]: Commencement: Sch. 2 para. 14 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^key-324f18bec9e8b921b5ac2eebf9b39ddc]: Textual amendment: [Sch. 2 para. 14(4)(c)(zi)](https://www.legislation.gov.uk/uksi/2018/1392/schedule/2/paragraph/14/4/c/zi) inserted (31.1.2020) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2019/687/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23510261]: Commencement: Sch. 2 para. 15 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510271]: Commencement: Sch. 2 para. 16 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510281]: Commencement: Sch. 2 para. 17 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510291]: Commencement: Sch. 2 para. 18 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510301]: Commencement: Sch. 2 para. 19 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510311]: Commencement: Sch. 2 para. 20 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^c23510321]: Commencement: Sch. 2 para. 21 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+
+[^key-914ccb2e9b43e930daf3c77b72b63347]: Textual amendment: Words in [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2018/1392/schedule/2/paragraph/21) substituted (31.12.2020 immediately before IP completion day) by [The Operation of Air Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1632)](https://www.legislation.gov.uk/uksi/2020/1632), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1632/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1632/regulation/2/4)
+
+[^key-0e96b184456e3166219652fdb0d7d116]: Textual amendment: [Sch. 2 paras. 21A](https://www.legislation.gov.uk/uksi/2018/1392/schedule/2/paragraph/21A), [21B](https://www.legislation.gov.uk/uksi/2018/1392/schedule/2/paragraph/21B) inserted (31.12.2020 immediately before IP completion day) by [The Operation of Air Services (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1632)](https://www.legislation.gov.uk/uksi/2020/1632), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1632/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/1632/regulation/2/5)
+
+[^c23510331]: Commencement: Sch. 2 para. 22 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

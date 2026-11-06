@@ -1,0 +1,40 @@
+---
+title: Economic Crime and Corporate Transparency Act 2023, section 220
+act: Economic Crime and Corporate Transparency Act 2023
+section: '220'
+status: revised
+text_date: '2026-06-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/56/section/220
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Economic Crime and Corporate Transparency Act 2023, section 220
+
+> Text as at 2026-06-29.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 220. Transitional provision[^key-8b53024cdf2fdfaa59022dfef26bd830]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Secretary of State may by regulations made by statutory instrument make transitional or saving provision in connection with the coming into force of any provision of this Act, other than a provision mentioned in section 219(4) or (5).
+
+(2) The Scottish Ministers may by regulations make transitional or saving provision in connection with the coming into force of a provision mentioned in section 219(4).
+
+(3) The Department of Justice in Northern Ireland may by order make transitional or saving provision in connection with the coming into force of a provision mentioned in section 219(5).
+
+(4) The power to make regulations under subsection (1) or (2), and the power to make orders under subsection (3), includes power to make different provision for—
+
+- (a) different purposes, and
+- (b) where regulations under subsection (1) make provision in connection with the coming into force of any provision of Schedule 9 or 10, different areas.
+
+(5) Transitional provision and savings made under subsections (1) to (3) are additional, and without prejudice, to those made by or under any other provision of this Act.
+
+(6) A power of the Department of Justice in Northern Ireland to make an order under subsection (3) is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 ([S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573)).
+
+## Annotations
+
+[^key-8b53024cdf2fdfaa59022dfef26bd830]: Commencement: S. 220 in force at Royal Assent, see [s. 219(2)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/a)

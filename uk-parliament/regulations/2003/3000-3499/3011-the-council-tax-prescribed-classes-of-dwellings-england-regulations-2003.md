@@ -1,0 +1,372 @@
+---
+title: The Council Tax (Prescribed Classes of Dwellings) (England) Regulations 2003
+id: uksi/2003/3011
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-11-24'
+text_date: '2026-05-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2003/3011
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/3011/pdfs/uksi_20033011_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/3011/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Council Tax (Prescribed Classes of Dwellings) (England) Regulations 2003
+
+> Text as at 2026-05-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2003 No. 3011
+
+COUNCIL TAX, ENGLAND
+
+The Council Tax (Prescribed Classes of Dwellings) (England) Regulations 2003
+
+Made
+
+24th November 2003
+
+Laid before Parliament
+
+27th November 2003
+
+Coming into force
+
+18th December 2003
+
+The First Secretary of State, in exercise of the powers conferred upon him by section 11A of the Local Government Finance Act 1992[^f00001] hereby makes the following Regulations:
+
+## 1. Citation, commencement and application[^key-ee5bf126d51a452fb6ca15f70f37b206]
+
+(1) These Regulations may be cited as the Council Tax (Prescribed Classes of Dwellings) (England) Regulations 2003 and shall come into force on 18th December 2003.
+
+(2) These Regulations apply to billing authorities[^key-3f69e08bf83c064d864424b448845f51] in England only.
+
+## 2. Interpretation[^key-69b8bfe4984c2b1f892c08ae0c7403fa][^key-ae26c1f7ae909573fed9f264540e9c86]
+
+(1) In these Regulations—
+
+- “**the Act**” means the Local Government Finance Act 1992;
+- “**caravan**” shall be construed in accordance with Part 1 of the Caravan Sites and Control of Development Act 1960;
+- “**Class A**” means the class of dwellings described in regulation 4;
+- “**Class B**” means the class of dwellings described in regulation 5;
+- “**Class C**” means the class of dwellings described in regulation 7;
+- “**Class D**” means the class of dwellings described in regulation 8;
+- “**Class E**” means the class of dwellings described in regulation 9;
+- “**Class F**” means the class of dwellings described in regulation 10;
+- “[^key-00074e02c0af58f94ec15bcac26b8203]**Class G**” means the class of dwellings described in regulation 11;
+- “**Class H**” means the class of dwellings described in regulation 12;
+- “**Class I**” means the class of dwellings described in regulation 13;
+- “**Class J**” means the class of dwellings described in regulation 14;
+- “**Class K**” means the class of dwellings described in regulation 15;
+- “**Class L**” means the class of dwellings described in regulation 16;
+- “**Class M**” means the class of dwellings described in regulation 17;
+- “**planning condition**” means any condition imposed on planning permission granted or deemed to be granted under Part 3 of the Town and Country Planning Act 1990;
+- “**qualifying person**” means a person who is liable for the council tax in respect of a dwelling on a particular day, whether or not jointly with any other person, or who would be liable for the council tax in respect of a dwelling on a particular day if that dwelling did not fall within—
+  - (a) Class O of the Council Tax (Exempt Dwellings) Order 1992; or
+  - (b) Class E of the Council Tax (Liability for Owners) Regulations 1992;
+- “[^key-532b8c3fb81c77124e0f32a312f6a495]**relevant transaction**”, in relation to a dwelling, means a transfer on sale of—
+  - (a) the freehold; or
+  - (b) the leasehold for a term of seven years or more;
+- “**the relevant year**” means the financial year for which a billing authority makes a determination under section 11A of the Act;
+
+  an “unoccupied dwelling” means a dwelling in which no one lives.
+
+(2) For the purposes of Class D—
+
+- (a) a dwelling is vacant on any day if on the day—
+  - (i) in the case of a dwelling consisting of a pitch occupied by a caravan or a mooring occupied by a boat, the caravan or boat is unoccupied; and
+  - (ii) in any other case, the dwelling is unoccupied and substantially unfurnished; and
+- (b) in considering whether a dwelling has been vacant for any period, any one period, not exceeding six weeks, during which it was not vacant shall be disregarded.
+
+## 3. Prescribed classes[^key-34ece85e2351df4d83f6ea97031f8ebd]
+
+(1)[^key-addce920ee7d8707640c104459cae366] Class A and Class B are prescribed as classes of dwelling for the purposes of section 11A(4) of the Act for each financial year beginning on or after 1st April 2013.
+
+(2) Class C and Class D are prescribed as classes of dwelling for the purposes of section 11A(4A) of the Act for each financial year beginning on or after 1st April 2013.
+
+(3)[^key-dbbefd2fa8f7ba045dda9ad1c92cdf43] Class E and Class F are prescribed as classes of dwelling for the purposes of—
+
+- (a) section 11B(2) of the Act for each financial year beginning on or after 1st April 2013; and
+- (b) section 11D(1) of the Act for each financial year beginning on or after 1st April 2025.
+
+(4) Class G, Class H and Class I are prescribed as classes of dwelling for the purposes of sections 11B(2) and 11D(1) of the Act for each financial year beginning on or after 1st April 2025.
+
+(5) Class J, Class K and Class L are prescribed as classes of dwelling for the purposes of section 11D(1) of the Act for each financial year beginning on or after 1st April 2025.
+
+(6) Class M is prescribed as a class of dwelling for the purposes of section 11B(2) of the Act for each financial year beginning on or after 1st April 2025.
+
+## 4. Class A[^key-6174c3e9c57e5235ea9baae4003c5ebf]
+
+The class of dwellings described in this regulation (“Class A”) comprises every chargeable dwelling in England —
+
+- (a) which is not the sole or main residence of an individual;
+- (b) which is furnished; and
+- (c) the occupation of which is restricted by a planning condition preventing occupancy for a continuous period of at least 28 days in the relevant year;
+
+except that the class of dwellings described in this regulation shall not include any dwelling which is excluded from that class by virtue of regulation 6 below.
+
+## 5. Class B[^key-eef1671b04d88f396a2d5a2f3ae4e3fb]
+
+The class of dwellings described in this regulation (“Class B”) comprises every chargeable dwelling in England —
+
+- (a) which is not the sole or main residence of an individual;
+- (b) which is furnished; and
+- (c) the occupation of which is not restricted by a planning condition preventing occupancy for a continuous period of at least 28 days in the relevant year;
+
+except that the class of dwellings described in this regulation shall not include any dwelling which is excluded from that class by virtue of regulation 6 below.
+
+## 6. Exceptions[^key-ac9aa4a351cc7532eebc0a4ae3a497b9]
+
+Class A and Class B shall not include any dwelling which falls within the description of dwelling for Class J or Class K.
+
+## 7. Class C[^key-11088840545f15c4604aea5edbee0d4b]
+
+The class of dwellings described in this regulation (“Class C”) comprises every chargeable dwelling in England —
+
+- (a) which is unoccupied; and
+- (b) which is substantially unfurnished.
+
+## 8. Class D[^key-bfcc197995663c44a2cce888bb902923]
+
+The class of dwellings described in this regulation (“Class D”) comprises every chargeable dwelling in England—
+
+- (a) which satisfies the requirement set out in paragraph (b) unless it has been such a dwelling for a continuous period of twelve months or more ending immediately before the day in question;
+- (b) the requirement referred to in paragraph (a) is that the dwelling is vacant and—
+  - (i) requires or is undergoing major repair work to render it habitable, or
+  - (ii) is undergoing structural alteration; or
+  - (iii) has undergone major repair work to render it habitable, if less than six months have elapsed since the date on which the alteration was substantially completed and the dwelling has continuously remained vacant since that date;
+- (c) for the purposes of paragraph (b) above “major repair work” includes structural repair work.
+
+## 9. Class E
+
+(1) The class of dwellings described in this regulation (“Class E”) comprises every chargeable dwelling in England which—
+
+- (a) is the sole or main residence of an individual where that individual is a qualifying person in relation to another dwelling provided by the Secretary of State for Defence for the purposes of armed forces accommodation, and which for that individual is job-related; or
+- (b) would be the sole or main residence of an individual if that individual were not a qualifying person in relation to another dwelling provided by the Secretary of State for Defence for the purposes of armed forces accommodation, and which for that individual is job-related.
+
+(2) For the purposes of paragraph (1) a dwelling is job-related if it falls within the description set out in paragraph 1 of the Schedule to these Regulations.
+
+## 10. Class F
+
+(1) The class of dwellings described in this regulation (“Class F”) comprises every chargeable dwelling in England—
+
+- (a) which forms part of a single property which includes at least one other dwelling; and
+- (b) which is being used by a resident of that other dwelling, or as the case may be, one of those other dwellings, as part of their sole or main residence.
+
+(2) For the purposes of paragraph (1) “single property” means property which would apart from the Council Tax (Chargeable Dwellings) Order 1992 be one dwelling within the meaning of section 3 of the Act.
+
+## 11. Class G[^key-a5e891777da6421ef9912a42ed6a9897]
+
+(1) The class of dwellings described in this regulation (“**Class G**”) comprises every chargeable dwelling in England—
+
+- (a) that is being marketed for sale at a price that is reasonable for the sale of the dwelling, or[^key-88c3072f71dc4faf4ce1a1ef6340ed18]
+- (b) in relation to which an offer to purchase the dwelling has been accepted (whether or not the acceptance is subject to contract) but the sale has not been completed,
+
+unless it has been such a dwelling for a period of one year or more.
+
+(2) After the end of an excepted period a dwelling does not fall within Class G for a further period unless the dwelling has been the subject of a relevant transaction.
+
+(3) For the purposes of this regulation—
+
+- (a) marketing a dwelling for sale means[^key-e8a80d93573a20c8004b85775c9736e1] the marketing for sale of—
+  - (i) the freehold; or
+  - (ii) a leasehold for a term of seven years or more;
+- (b) “excepted period” is a period during which a dwelling falls within Class G.
+
+## 12. Class H
+
+(1) The class of dwellings described in this regulation (“**Class H**”) comprises every chargeable dwelling in England—
+
+- (a) that is being marketed for let under a tenancy on terms and conditions, including the proposed rent, that are reasonable for letting the dwelling, or[^key-9c53444630573ef2fc6f914776e6ce9f]
+- (b) in relation to which an offer to rent the dwelling has been accepted (whether or not the acceptance is subject to contract) but the tenancy has not started,
+
+unless it has been such a dwelling for a period of one year or more.
+
+(2) After the end of an excepted period a dwelling does not fall within Class H for a further period unless the dwelling has been subject to a tenancy that was granted for a term of six months or more or an assured tenancy (within the meaning given in section 1 of the Housing Act 1988)[^key-607253f3f9b7e83b65183820341422ce].
+
+(3) For the purposes of this regulation “excepted period” is a period during which a dwelling falls within Class H.
+
+## 13. Class I
+
+(1) The class of dwellings described in this regulation (“**Class I**”) comprises every chargeable dwelling in England—
+
+- (a) that fell within Exempt Dwellings Class F;
+- (b) in relation to which a grant of probate has been made or letters of administration issued during the period in which it has fallen within that Class; and
+- (c) where less than one year has elapsed since the making of the grant or issue of the letters.
+
+(2) Where a dwelling falling within Class I is subject to a relevant transaction, it no longer falls within that Class after the day on which that transaction is completed.
+
+(3) After the end of an excepted period a dwelling does not fall within Class I for a further period unless the dwelling has fallen within Exempt Dwellings Class F for a further period.
+
+(4) For the purposes of this regulation—
+
+- “excepted period” is a period during which a dwelling falls within Class I;
+- “**Exempt Dwellings Class F**” means Class F in regulation 3 of the Council Tax (Exempt Dwellings) Order 1992.
+
+## 14. Class J
+
+(1) The class of dwellings described in this regulation (“**Class J**”) comprises every chargeable dwelling in England—
+
+- (a) where a qualifying person in relation to that dwelling is a qualifying person in relation to another dwelling in England, Wales or Scotland which for that person is job-related; or
+- (b) which for a qualifying person is job-related where that person is a qualifying person in relation to another dwelling in England, Wales or Scotland.
+
+(2) For the purposes of—
+
+- (a) paragraph (1)(a), a dwelling is job-related if it falls within the description set out in paragraph 1, 2 or 2A of the Schedule to these Regulations;
+- (b) paragraph (1)(b), a dwelling is job-related if it falls within the description set out in paragraph 1 or 2 of that Schedule.
+
+## 15. Class K
+
+The class of dwellings described in this regulation (“**Class K**”) comprises every chargeable dwelling in England which consists of a pitch occupied by a caravan, or a mooring occupied by a boat.
+
+## 16. Class L
+
+The class of dwellings described in this regulation (“**Class L**”) comprises every chargeable dwelling in England the occupation of which is restricted by a planning condition—
+
+- (a) preventing occupancy for a continuous period of at least 28 days in any one year period;
+- (b) specifying that the dwelling may be used for holiday let only; or
+- (c) preventing occupancy as a person’s sole or main residence.
+
+## 17. Class M
+
+(1) Subject to paragraph (2), the class of dwellings described in this regulation (“**Class M**”) comprises every chargeable dwelling in England which falls within Class D.
+
+(2) After the end of an excepted period a dwelling does not fall within Class M for a further period unless the dwelling has been the subject of a relevant transaction.
+
+(3) In this regulation “**excepted period**” means a period during which a dwelling falls within Class M.
+
+Signed by authority of the First Secretary of State
+
+Phil Hope
+
+Parliamentary Under Secretary of State,
+
+Office of the Deputy Prime Minister
+
+24th November 2003
+
+## SCHEDULE — JOB-RELATED DWELLINGS
+
+**1.**[^key-add47c5e0164677fd1525e594c2d0b82] (1) Subject to sub-paragraph (2), a dwelling is job-related for a person if it is provided for him by reason of his employment or for his spouse or civil partner by reason of that person's[^key-ea782706629a4ae7d3d8b45d5f93788c] employment, in any of the following cases—
+
+- (a) where it is necessary for the proper performance of the duties of the employment that the employee should reside in that dwelling;
+- (b) where the dwelling is provided for the better performance of the duties of the employment, and it is one of the kinds of employment in the case of which it is customary for employers to provide dwellings to employees;
+- (c) where, there being a special threat to the employee’s security, special security arrangements are in force and the employee resides in the dwelling as part of those arrangements.
+
+(2) If the dwelling is provided by a company and the employee is a director of that or an associated company, paragraph (a) or (b) of sub-paragraph (1) shall not apply unless either—
+
+- (a) the employment is as a full-time working director,
+- (b) the company is non-profit making, that is to say, it does not carry on a trade nor do its functions consist wholly or mainly in the holding of investments or other property, or
+- (c) the company is established for charitable purposes only.
+
+**2.**[^key-cbb1f506ccde86efd550e39997996eba] (1) Subject to sub-paragraph (2), a dwelling is job-related for a person if he or his spouse or civil partner[^key-96d34a97ad143a469aeb0af0c54b619f] is required, under a contract to which this sub-paragraph applies, to live in that dwelling.
+
+(2) Sub-paragraph (1) does not apply if the dwelling concerned is in whole or in part provided by any other person or persons together with whom the person or spouse or civil partner carries on a trade or business in partnership.
+
+(3) A contract to which sub-paragraph (1) applies is a contract entered into at arm’s length and requiring the person concerned or his spouse or civil partner (as the case may be) to carry on a particular trade, profession or vocation in a property provided by another person and to live in a dwelling provided by that other person.
+
+**2A.**[^key-3e105b037c75e5523686447ad7fb1971] A dwelling is job-related for a person if he or his spouse or civil partner[^key-8ec4bd881cc42e2b7e5d3c13c9635f27] is a minister of any religious denomination and the dwelling is inhabited by him as a residence from which he performs the duties of his office.
+
+**3.**[^key-ef8724d1be33c1a7ee265a1963b29fce] In this Schedule—
+
+- a company is an associated company of another person if one of them has control of the other or both are under the control of the same person;
+- “**director**”, “**full-time working director**” and “**control**”, in relation to a body corporate have the same meanings as they have in sections 67 and 69 of the Income Tax (Earnings and Pensions) Act 2003[^f00004] in relation to the benefits code;
+- “**provided**” means provided under a tenancy or otherwise; and
+
+references to the spouse or civil partner of a person are to be taken to include references to a person who is living with the other as if they were a married couple or civil partners[^key-3b75df82cf7185bf229ef63972e3ed9a].
+
+(This note is not part of the Regulations)
+
+These Regulations relate to England. They prescribe three classes of dwellings for the purposes of section 11A of the Local Government Finance Act 1992 (“the Act”). Section 11A was inserted into the Act by the Local Government Act 2003.
+
+In relation to dwellings of any class prescribed by the Secretary of State for the purposes of section 11A(3) of the Act, an English billing authority (a district council, London borough council, the Common Council of the City of London, the Council of the Isles of Scilly or a county council with the functions of a district council) may determine that the council tax discounts applicable where there is no resident of the dwelling (two discounts of 25 per cent each under section 11(2)(a) of the Act) shall be replaced by a lower discount (with a minimum discount of 10 per cent).
+
+Class A is prescribed by regulation 4 of these Regulations for the purposes of section 11A(3). Billing authorities in England will be able to reduce the council tax discount, to a minimum of 10%, for chargeable dwellings which are unoccupied and furnished, and the occupation of which is restricted by a planning condition preventing occupancy for a continuous period of at least 28 days in the relevant year and therefore fall within Class A. Purpose built holiday homes or chalets subject to a planning condition restricting year round occupancy would fall within Class A.
+
+Class B is prescribed by regulation 5 of these Regulations for the purposes of section 11A(3). Billing authorities in England will be able to reduce the council tax discount, to a minimum of 10%, for chargeable dwellings which are unoccupied and furnished, and the occupation of which is not restricted by a planning condition preventing occupancy for a continuous period of at least 28 days in the relevant year and therefore fall within Class B.
+
+Regulation 6 and the Schedule to these regulations prevent a billing authority from reducing the discount for a second home owned by a council tax payer who is also liable for council tax for another dwelling (or who would be liable if that other dwelling were not exempt within Class O of the Council Tax (Exempt Dwellings) Order 1992 (S.I. [1992/558](https://www.legislation.gov.uk/uksi/1992/558)) as amended by the Council Tax (Exempt Dwellings) (Amendment) Order 1992 (S.I. [1992/2941](https://www.legislation.gov.uk/uksi/1992/2941))) provided to him or his spouse by reason of their employment. The definition of “qualifying person” in regulation 2 of these regulations, combined with regulation 6 and the Schedule, means that billing authorities cannot reduce the discount for second homes owned by service personnel who live in accommodation provided by the Ministry of Defence.
+
+Regulation 6 and the Schedule also prevent billing authorities from reducing the discount in respect of a second home owned by a council tax payer who is also liable for council tax for another chargeable dwelling which he or his spouse is required to occupy under a contract requiring him to carry on a trade, profession or vocation in a property provide by another person and to live in a dwelling provided by that person. This means that second homes owned by e.g. publicans who are required to live in the licensed premises of which they are tenant, would continue to be subject to the 50% discount.
+
+Regulation 6 and the Schedule makes similar provision preventing billing authorities from reducing the discount in respect of a second home where that second home is provided to the council tax payer by reason of his employment and he is also liable for council tax for another dwelling which is his sole or main residence.
+
+In relation to dwellings of any class prescribed by the Secretary of State for the purposes of section 11A(4) of the Act, an English billing authority may determine that the council tax discounts applicable where there is no resident of the dwelling shall be replaced by a lower discount or by no discount at all.
+
+Class C is prescribed by regulation 6 of these Regulations for the purposes of section 11A(4). Billing authorities in England will be able to reduce or end the council tax discount for chargeable dwellings which are unoccupied and substantially unfurnished and therefore fall within Class C. The dwellings falling within Class C will be long term empty homes, since for a shorter period, unoccupied and substantially unfurnished dwellings are exempt from council tax.
+
+Class C of the Council Tax (Exempt Dwellings) Order 1992 (S.I. [1992/558](https://www.legislation.gov.uk/uksi/1992/558)) as amended by the Council Tax (Exempt Dwellings) (Amendment) Order 1993 (S.I. [1993/150](https://www.legislation.gov.uk/uksi/1993/150)), provides that a dwelling which is unoccupied and substantially unfurnished is exempt from council tax for up to six months. After that six month period of exemption, a dwelling which remains unoccupied and substantially unfurnished is currently subject to the 50 per cent discount under section 11(2)(a) of the Act. Dwellings falling within Class C of these Regulations will therefore be dwellings which are not exempt from council tax under Class C of the Council Tax (Exempt Dwellings) Order 1992 (i.e. which have been substantially unfurnished and unoccupied for more than six months).
+
+Class A of the Council Tax (Exempt Dwellings) Order 1992, as substituted by the Council Tax (Exempt Dwellings) Order 2000 (S.I. [2000/424](https://www.legislation.gov.uk/uksi/2000/424)) provides that a dwelling which is unoccupied, substantially unfurnished and either requires, is undergoing or has undergone within the last six months, major repair work to render it habitable, or is undergoing, or has undergone within the last six months, structural alteration, shall be exempt. Such dwellings are exempt for up to 12 months. Class C of these Regulations will also include dwellings which have ceased to be exempt under class A of the Council Tax (Exempt Dwellings) Order 1992 e.g. if the repair works were completed more than 6 months ago and the dwelling is still unoccupied and substantially unfurnished, or the dwelling has remained unoccupied, substantially unfurnished and undergoing major repair work for more than 12 months.
+
+Any determination of the billing authority under section 11A of the Act will apply in respect of all the dwellings of that class in the whole, or only in a part of its area,as the authority may specify.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14). Section 11A was inserted by s.75(1) of the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26). Section 75(2) of that Act inserted similar provision in relation to Wales in substitution of section 12 of the Local Government Finance Act 1992.
+
+[^key-ee5bf126d51a452fb6ca15f70f37b206]: Commencement: Reg. 1 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
+
+[^key-3f69e08bf83c064d864424b448845f51]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/2) substituted (1.4.2005) by [The Council Tax (Prescribed Classes of Dwellings) (Amendment) (England) Regulations 2005 (S.I. 2005/416)](https://www.legislation.gov.uk/uksi/2005/416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/416/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/416/regulation/2/2)
+
+[^key-69b8bfe4984c2b1f892c08ae0c7403fa]: Commencement: Reg. 2 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
+
+[^key-ae26c1f7ae909573fed9f264540e9c86]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/3011/regulation/2) substituted (1.4.2013) by [The Council Tax (Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2012 (S.I. 2012/2964)](https://www.legislation.gov.uk/uksi/2012/2964), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2964/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/2964/regulation/2/2)
+
+[^key-00074e02c0af58f94ec15bcac26b8203]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/3011/regulation/2) inserted (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/2/2/a)
+
+[^key-532b8c3fb81c77124e0f32a312f6a495]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/3011/regulation/2) inserted (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/2/2/b)
+
+[^key-34ece85e2351df4d83f6ea97031f8ebd]: Commencement: Reg. 3 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
+
+[^key-addce920ee7d8707640c104459cae366]: Textual amendment: [Reg. 3(1)-(3)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/3/1) substituted for [reg. 3(1)(2)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/3/1) (1.4.2013) by [The Council Tax (Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2012 (S.I. 2012/2964)](https://www.legislation.gov.uk/uksi/2012/2964), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2964/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/2964/regulation/2/3)
+
+[^key-dbbefd2fa8f7ba045dda9ad1c92cdf43]: Textual amendment: [Reg. 3(3)-(6)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/3/3) substituted for [reg. 3(3)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/3/3) (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/2/3)
+
+[^key-6174c3e9c57e5235ea9baae4003c5ebf]: Commencement: Reg. 4 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
+
+[^key-eef1671b04d88f396a2d5a2f3ae4e3fb]: Commencement: Reg. 5 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
+
+[^key-ac9aa4a351cc7532eebc0a4ae3a497b9]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/3011/regulation/6) substituted (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/2/4)
+
+[^key-11088840545f15c4604aea5edbee0d4b]: Commencement: Reg. 7 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
+
+[^key-bfcc197995663c44a2cce888bb902923]: Textual amendment: [Regs. 8-10](https://www.legislation.gov.uk/uksi/2003/3011/regulation/8) inserted (1.4.2013) by [The Council Tax (Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2012 (S.I. 2012/2964)](https://www.legislation.gov.uk/uksi/2012/2964), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2964/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/2964/regulation/2/4)
+
+[^key-a5e891777da6421ef9912a42ed6a9897]: Textual amendment: Regs. 11-17 inserted (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/2/5)
+
+[^key-88c3072f71dc4faf4ce1a1ef6340ed18]: Textual amendment: Word in [reg. 11(1)(a)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/11/1/a) inserted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2025/8/regulation/4/2/a)
+
+[^key-e8a80d93573a20c8004b85775c9736e1]: Textual amendment: Word in [reg. 11(3)(a)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/11/3/a) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2025/8/regulation/4/2/b)
+
+[^key-9c53444630573ef2fc6f914776e6ce9f]: Textual amendment: Word in reg. 12(1)(a) inserted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2025/8/regulation/4/3)
+
+[^key-607253f3f9b7e83b65183820341422ce]: Textual amendment: Words in reg. 12(2) inserted (1.5.2026) by [The Renters’ Rights Act 2025 (Consequential Amendments) and Tenancies (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/325)](https://www.legislation.gov.uk/uksi/2026/325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/325/regulation/5) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/3))
+
+[^key-add47c5e0164677fd1525e594c2d0b82]: Commencement: Sch. para. 1 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
+
+[^key-ea782706629a4ae7d3d8b45d5f93788c]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/1) substituted (10.12.2005 in relation to financial years beginning on or after 1.4.2006) by [The Council Tax (Civil Partners) (England) Regulations 2005 (S.I. 2005/2866)](https://www.legislation.gov.uk/uksi/2005/2866), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/4/2)
+
+[^key-cbb1f506ccde86efd550e39997996eba]: Commencement: Sch. para. 2 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
+
+[^key-96d34a97ad143a469aeb0af0c54b619f]: Textual amendment: Words in [Sch. paras. 2(1)](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/2/1)[(2)](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/2/2)[(3)](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/2/3) inserted (10.12.2005 in relation to financial years beginning on or after 1.4.2006) by [The Council Tax (Civil Partners) (England) Regulations 2005 (S.I. 2005/2866)](https://www.legislation.gov.uk/uksi/2005/2866), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/4/3)
+
+[^key-3e105b037c75e5523686447ad7fb1971]: Textual amendment: [Sch. para. 2A](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/2A) inserted (22.4.2004) by [The Council Tax (Prescribed Classes of Dwellings) (Amendment) (England) Regulations 2004 (S.I. 2004/926)](https://www.legislation.gov.uk/uksi/2004/926), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/926/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2004/926/regulation/2/4)
+
+[^key-8ec4bd881cc42e2b7e5d3c13c9635f27]: Textual amendment: Words in [Sch. para. 2A](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/2A) inserted (10.12.2005 in relation to financial years beginning on or after 1.4.2006) by [The Council Tax (Civil Partners) (England) Regulations 2005 (S.I. 2005/2866)](https://www.legislation.gov.uk/uksi/2005/2866), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/4/3)
+
+[^key-ef8724d1be33c1a7ee265a1963b29fce]: Commencement: Sch. para. 3 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
+
+[^f00004]: Footnote: [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1); for the meaning of benefits code, *see* section 63.
+
+[^key-3b75df82cf7185bf229ef63972e3ed9a]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/3) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 68](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/68)

@@ -1,0 +1,1322 @@
+---
+title: The Criminal Legal Aid (Contribution Orders) Regulations 2013
+id: uksi/2013/483
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-03-06'
+text_date: '2024-11-20'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/483
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/483/pdfs/uksiem_20130483_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/483/pdfs/uksi_20130483_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/483/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Criminal Legal Aid (Contribution Orders) Regulations 2013
+
+> Text as at 2024-11-20.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 483
+
+Legal Aid And Advice, England & Wales
+
+The Criminal Legal Aid (Contribution Orders) Regulations 2013
+
+Made
+
+6th March 2013
+
+Laid before Parliament
+
+7th March 2013
+
+Coming into force
+
+1st April 2013
+
+The Lord Chancellor makes the following Regulations[^f00001] in exercise of the powers conferred by sections 5(2) and (4), 23(1), (2)(a) and (b), (4) to (8), (9)(a) to (c), (10)(c), (11) and (12), 24(1) to (3), 30(2) and (3) and 41(1)(a) and (b), (2)(a) and (3)(a) and (b) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00002].
+
+## PART 1 — Interpretation and General
+
+### 1. Citation and commencement[^key-72db88ac886368e53865eef255fda029]
+
+These Regulations may be cited as the Criminal Legal Aid (Contribution Orders) Regulations 2013 and come into force on 1st April 2013.
+
+### 2. Interpretation[^key-743e2238f5ec08bbeaae3c2c1764ea50]
+
+In these Regulations—
+
+- “the Act” means the Legal Aid, Sentencing and Punishment of Offenders Act 2012;
+- “the[^key-1d7a95a152a2e00a07f579d2c76786fb] 2015 (Northern Ireland) Order” means the Welfare Reform (Northern Ireland) Order 2015;
+- “capital” includes specified and unspecified capital;
+- “capital contribution order” means a contribution order in relation to capital;
+- “contribution order” means a document which records a determination by the Director under these Regulations;
+- “cost of representation” means the cost of representation of an individual calculated in accordance with regulation 25 (assessment of the cost of representation on the conclusion of the proceedings);
+- “date of the conclusion of the proceedings” means the date on which—
+  - (a) an individual is sentenced or otherwise dealt with for any offence following conviction in the Crown Court;
+  - (b) an individual is acquitted of any offence in the Crown Court; or
+  - (c) the determination under section 16 of the Act (representation for criminal proceedings) that an individual qualifies for representation for the purposes of the criminal proceedings to which Part 2 applies is withdrawn;
+- “disposable annual income” means the disposable income of an individual calculated in accordance with regulation 11 (calculation of disposable annual income);
+- “disposable specified capital” means the disposable specified capital of an individual calculated in accordance with regulation 28 (calculation of disposable specified capital);
+- “[^key-952ed4599d85080a6657031d4816d4f1]**fire at Grenfell Tower**” means the fire at Grenfell Tower on 14th June 2017;
+- “**Grenfell Tower**” means Grenfell Tower, Grenfell Road, London, W11 1TG;
+- “gross annual income” means the gross income of an individual calculated in accordance with regulation 10(2) to (2C)[^key-a79ea518a17af8f521318e46e437641c] (calculation of gross annual income) and before any adjustment made under regulation 10(1)(b);
+- “income contribution order” means a contribution order in relation to income;
+- “**loss of income**” includes past and future loss of income;
+- “**Modern Slavery Victim Care Contract or equivalent payment**” means any payment of government-funded financial assistance made—
+  - (a) in England and Wales under the Modern Slavery Victim Care Contract in accordance with guidance issued by the Secretary of State under section 49 of the Modern Slavery Act 2015;
+  - (b) in Northern Ireland under section 18 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015;
+  - (c) in Scotland under section 9 of the Human Trafficking and Exploitation (Scotland) Act 2015 or regulations made under section 10 of that Act;
+- “overdue” means any amount which is unpaid on the day after the date the payment is required to be made by the individual;
+- “partner” means—
+  - (a) an individual’s spouse or civil partner, from whom the individual is not separated due to a breakdown in the relationship which is likely to be permanent;
+  - (b) a person with whom an individual lives as a couple; or
+  - (c) a person with whom an individual ordinarily lives as a couple, from whom the individual is not separated due to a breakdown in the relationship which is likely to be permanent;
+- “period of calculation” means the period of one year ending on the date on which the application for a determination under section 16 of the Act is made;
+- “**personal harm**” means a non-pecuniary loss or harm caused to an individual;
+- “POCA” means the Proceeds of Crime Act 2002;[^key-2d7db025c4ff0e3ca5d3fd31a54a11a9]
+- “POCA restraint order” means a restraint order made under Part 2 of POCA;
+- “recoverable costs of representation” means—
+  - (a) except where regulation 26 (assessment by the court of proportion of the cost of representation) applies, the cost of representation; or
+  - (b) where regulation 26 applies, the proportion of the cost of representation specified in the order of the court;
+- “relevant outstanding amount” means—
+  - (a) where a determination under regulation 12 (determination by the Director of liability to make a payment out of income), 13 (determination by the Director of liability to make a payment out of income: income evidence sanction) or 19(3) (determination by the Director of liability to make a payment following reassessment of income) has been made that an individual is liable to make a payment, the amount of any payment or payments under the income contribution order which—
+    - (i) were required to be made on or before the date of the conclusion of the proceedings; and
+    - (ii) are overdue; and
+  - (b) where a determination under regulation 19(2) or 23 (determination by the Director of liability to make an additional payment following reassessment of income) has been made that an individual is liable to make a payment, the amount of any such payment which is unpaid;
+- “specified capital” means–
+  - (a) any interest in real property;
+  - (b) money in a bank or building society account;
+  - (c) money in a National Savings Bank account;
+  - (d) national savings certificates;
+  - (e) Premium Savings Bonds;
+  - (f) property in an account to which the Individual Savings Account Regulations 1998[^f00003] apply;
+  - (g) property in a personal equity plan;
+  - (h) property in a unit trust scheme;
+  - (i) any other lump sum investment; and
+  - (j) shares and stock; and
+- “**specified purpose**” means an essential need of an individual and does not include a payment for financial-only loss;
+- “unspecified capital” means capital which is not specified capital.
+- “**victim of the fire at Grenfell Tower**” means an individual who is any one or more of the following—
+  - (a) an individual living in Grenfell Tower on 14th June 2017;
+  - (b) an individual present in Grenfell Tower on 14th June 2017 at the time of the fire at Grenfell Tower;
+  - (c) an individual who was injured in, or as a result of, the fire at Grenfell Tower;
+  - (d) an individual living in a building in the immediate vicinity of Grenfell Tower that was evacuated as a result of the fire at Grenfell Tower;
+  - (e) a member of the family of an individual who died in the fire at Grenfell Tower or is missing in the fire at Grenfell Tower (and an individual is a member of the family of such an individual if the requirements of section 10(6) of the Act are met); or
+  - (f) a personal representative of an individual who died in the fire at Grenfell Tower;
+- “**the Victims of Overseas Terrorism Compensation Scheme 2012**” means the government-funded compensation scheme established under arrangements made by the Secretary of State under section 47 of the Crime and Security Act 2010;
+- “the Windrush Compensation Scheme” means the scheme of that name launched on 3rd April 2019 and administered by the Home Office;[^key-8d9c3f4c114fd6702efeab5594269cc2]
+- “Windrush connected payment” means a payment where—
+  - (a) an individual has made a claim under the Windrush Compensation Scheme;
+  - (b) a request included in that claim has been referred by the Home Office to another person; and
+  - (c) the payment is made to the individual by that other person as a result of that referral;
+
+### 3. Delegation[^key-5060b224d93f2a6b1b9dabc9830d764c]
+
+A function of the Lord Chancellor or the Director under these Regulations may be exercised by, or by an employee of, a person authorised for that purpose by the Lord Chancellor or the Director respectively[^f00004].
+
+### 4. Resources to be treated as the individual’s resources[^key-897a2984b8040f3d97dc60213e8a70a7]
+
+(1) Where an individual has a partner—
+
+- (a) in calculating the financial resources of the individual, the Director must treat the financial resources of the partner as the individual’s financial resources; and
+- (b) any reference in these Regulations to the financial resources, financial circumstances, income or capital of the individual includes a reference to the financial resources, financial circumstances, income or capital of the individual’s partner,
+
+unless the partner has a contrary interest in the proceedings.
+
+(2) Where it appears to the Director that—
+
+- (a) another person is or has been substantially maintaining the individual or the individual’s partner; or
+- (b) any of the financial resources of another person have been made available to the individual or the individual’s partner,
+
+the Director may assess or estimate the value of the maintenance or the financial resources made available and may treat such amounts as the financial resources of the individual.
+
+## PART 2 — Crown Court Trials
+
+### 5. General[^key-d8aaba3ba191539d42e3dd48875d5edf]
+
+This Part makes provision about the making of a determination by the Director under section 23 of the Act (payment for services) that an individual is liable to make a payment in connection with the provision of representation to the individual in criminal proceedings to which this Part applies.
+
+### 6. Application of this Part[^key-40bc90e9acebbf97afc05fd7eee3bc85][^key-d85e95c6b8a87ac5e32b326307d9965c]
+
+(1) This Part applies where the Director has made a determination that an individual’s financial resources are such that the individual is eligible in accordance with section 21 of the Act (financial resources) for representation under section 16 of the Act (representation for criminal proceedings) in relation to Crown Court proceedings.
+
+(2) In this Part “Crown Court proceedings” means criminal proceedings—
+
+- (a) in respect of an offence for which an individual may be, or has been, sent by a magistrates’ court to the Crown Court for trial;
+- (b) relating to an offence in respect of which a bill of indictment has been preferred by virtue of section 2(2)(b) of the Administration of Justice (Miscellaneous Provisions) Act 1933; or
+- (c) which are to be heard in the Crown Court following an order by the Court of Appeal or the Supreme Court for a retrial.
+
+### 7. Documentary evidence of financial resources[^key-c51fdf5fcfd8b113fdcea92360188070]
+
+(1)[^key-1a6b093b6400ae2806c5e2d21a927461] Where the Director has determined under section 16 of the Act that an individual qualifies for representation for the purposes of Crown Court proceedings, the Director may require that individual to provide documentary evidence in relation to their financial resources.
+
+(2)[^key-bc0de6ebde2b2e5a417955f935c14320] The individual must provide the documentary evidence requested under paragraph (1) within 14 days of the date of that request.
+
+(3) The Director may require an individual who fails to comply with paragraph (2) to provide the documentary evidence requested under paragraph (1) within—
+
+- (a) seven days of the date of the request under this paragraph[^key-db131add183081e8dc5dbda23fb57bf9]; or
+- (b) such other period as may be agreed by the Director and the individual.
+
+(4) At any time after a request for documentary evidence under paragraph (1), the Director may require an individual to provide further information and documentary evidence in relation to the individual’s financial resources within—
+
+- (a) 14 days of the date of that further request; or
+- (b) such other period as may be agreed by the Director and the individual.
+
+(5) A request under this regulation must specify—
+
+- (a) whether the request is in relation to income or capital; and
+- (b) the information or documentary evidence which the individual is required to provide.
+
+### 8. Assessment by the Director of income and liability to make a payment[^key-4b4b408565239925a510f4bb4e48e528]
+
+(1)[^key-77fa1b7c9b643299e2971ee674f944d7] Subject to regulation 9, where the Director has determined under section 16 of the Act that an individual qualifies for representation for the purposes of Crown Court proceedings, the Director must assess the individual’s income in accordance with regulation 10 and 11.
+
+(2) Following the assessment in accordance with regulation 10 and 11, the Director must, where practicable, notify the individual of the amount of the payment for which the individual may be liable.
+
+### 9. Individuals not liable to make a payment[^key-ff3285879ac01bd62eb54e4dbd3c997a]
+
+(1) This regulation applies where—
+
+- (a) an individual is under the age of 18 on the date on which the application for a determination under section 16 of the Act is made; or
+- (b) the Director is satisfied that an individual is, directly or indirectly, properly in receipt of a qualifying benefit.
+
+(2) The Director must as soon as possible notify an individual to whom this regulation applies that the individual is not liable to make a payment.
+
+(3) In this regulation, “qualifying benefit” means—
+
+- (a) income support paid under section 124 of the Social Security Contributions and Benefits Act 1992[^f00006] or section 123 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00007];
+- (b) income-based jobseeker’s allowance paid under the Jobseekers Act 1995[^f00008] or Part 2 of the Jobseekers (Northern Ireland) Order 1995[^f00009];
+- (c) guarantee credit paid under section 1(3)(a) of the State Pension Credit Act 2002[^f00010] or section 1(3)(a) of the State Pension Credit Act (Northern Ireland) 2002[^f00011];
+- (d) income-related employment and support allowance paid under Part 1 of the Welfare Reform Act 2007[^f00012] or section 1(2)(b) of the Welfare Reform Act (Northern Ireland) 2007[^f00013]; or
+- (e) universal credit paid under Part 1 of the Welfare Reform Act 2012[^f00014] or Part 2 of the 2015 (Northern Ireland) Order[^key-d070b58e5cdcd47076eadfa64b4898c7].
+
+### 10. Calculation of gross annual income[^key-cc0e6b33d07583dd943fb041a10d10c1]
+
+(1) The Director must—
+
+- (a) calculate an individual’s gross annual income; and
+- (b) where the individual has a partner or a child living in the individual’s household, adjust the individual’s gross annual income in accordance with the Schedule to these Regulations.
+
+(2) An individual’s gross annual income is the individual’s total income during the period of calculation from all sources other than receipt of the following amounts—
+
+- (a) any financial support paid under an agreement for the care of a foster child;
+- (b) any payments paid out of—
+  - (i) the Independent Living Fund[^f00015];
+  - (ii) the Independent Living (Extension) Fund[^f00016];
+  - (iii) the Independent Living (1993) Fund[^f00017]; or
+  - (iv) the Independent Living Fund (2006)[^f00018];
+- (c) any exceptionally severe disablement allowance paid under the Personal Injuries (Civilians) Scheme 1983[^f00019];
+- (d) any of the following payments—
+  - (i) attendance allowance paid under section 64 of the Social Security Contributions and Benefits Act 1992 or section 64 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+  - (ii) severe disablement allowance paid under section 68 of the Social Security Contributions and Benefits Act 1992[^f00020] or section 68 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00021];
+  - (iii) carer’s allowance paid under section 70 of the Social Security Contributions and Benefits Act 1992[^f00022] or section 70 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00023];
+  - (iv) disability living allowance paid under section 71 of the Social Security Contributions and Benefits Act 1992[^f00024] or section 71 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+  - (v) constant attendance allowance paid under section 104 of the Social Security Contributions and Benefits Act 1992 as an increase to a disablement pension or section 104 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+  - (vi) any housing benefit paid under section 130 of the Social Security Contributions and Benefits Act 1992[^f00025] or section 129 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+  - (vii) council tax benefit paid under section 131 of the Social Security Contributions and Benefits Act 1992[^f00026];
+  - (viii) payment made out of the social fund under the Social Security Contributions and Benefits Act 1992 or the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+  - (ix)[^key-f27dfda488260e709ccbe97945465d1c] payments made by or under the Welsh Independent Living Grant;
+  - (x) payments made under Part 2 or 3 of the Social Security (Payments on Account of Benefit) Regulations 2013 or Part 2 or 3 of the Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016;
+  - (xi) payments made under regulation 17 of the Universal Credit (Transitional Provisions) Regulations 2014 or regulation 17 of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016;
+- (e) any direct payments made under sections 31 to 33 of the Care Act 2014 (direct payments) or under[^key-16dd239a6f3cf31ce2173f7f149383d4] regulations made under section 49(3) of the Children and Families Act 2014 (personal budgets and direct payments),[^key-2770da62dd8860500809e2659669a2ff] section 57(1) of the Health and Social Care Act 2001[^f00027] (direct payments), section 17A of the Children Act 1989[^f00028] (direct payments) , section 8(1)[^key-92ad08fc5c83c23f6ae2097e845b7dd8] of the Carers and Direct Payments Act (Northern Ireland) 2002[^f00029] or sections 50 to 53 of the Social Services and Well-being (Wales) Act 2014[^key-1ea58c5b255b3ceb689a95d0c0afa147];
+- (f) any reasonable living expenses provided for as an exception to a POCA restraint order[^key-9e857ff3533d1d7dd3d79bd494134388];
+- (g) any pensions paid under the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006[^f00031];
+- (h) any armed forces independence payment paid under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^f00032]; [^key-9dafab0b8cfdef3d6a98cbe93e240bb6]...
+- (i) any personal independence payment paid under Part 4 of the Welfare Reform Act 2012 or Part 5 of the 2015 (Northern Ireland) Order[^key-372f1f8ebc465436fcb79a8b5fdd15cb].
+- (j)[^key-bf2615a8f338aa342842d7bf8c5b674d] any payment made under the Windrush Compensation Scheme; [^key-5d5c7ea53a4ad1baf2efb22eda50036f]...
+- (k) any Windrush connected payment;[^key-ac050c70cdcc6f32df04b0441a6cea2a]
+- (l) a payment made under the Social Security (Additional Payments) Act 2022;
+- (m) a payment made to an individual under section 13 or 15 of the Energy Prices Act 2022.
+- (n)[^key-d61000ec1a09014cdbbdc3fde6f8dafe] any Modern Slavery Victim Care Contract or equivalent payment;
+- (o) any payment of compensation for a miscarriage of justice made under section 133 of the Criminal Justice Act 1988.
+
+(2A)[^key-7a8679d8bdfcd6103190ee210cb0f385] In calculating an individual’s gross annual income, the Director may, subject to paragraphs (2B) and (2C), disregard the following amounts received during the period of calculation—
+
+- (a) any payment that meets all of the following conditions—
+  - (i) the payment was made to an individual who is a victim of the fire at Grenfell Tower;
+  - (ii) the payment was made to that individual because the individual is a victim of the fire at Grenfell Tower; and
+  - (iii) the payment was not made directly to the individual by an individual known personally to the individual;
+- (b) any payment of compensation made under the Victims of Overseas Terrorism Compensation Scheme 2012.
+
+(2B) In determining whether to disregard an amount for any payment within paragraph (2A)—
+
+- (a) subject to sub-paragraph (b), the Director may disregard the whole of an amount received during the period of calculation where the following conditions are met—
+  - (i) the payment was for personal harm or was for a specified purpose; and
+  - (ii) the payment was not for a loss of income;
+- (b) where a payment for personal harm or a specified purpose includes, in part, an amount for a loss of income—
+  - (i) where the Director is able to ascertain the amount of the part which is for a loss of income, the Director may disregard only the amount of the part which is not for a loss of income; or
+  - (ii) where the Director is not able to ascertain the amount of the part which is for a loss of income, the Director may disregard the whole of the amount,
+
+  received during the period of calculation.
+
+(2C) In determining whether to disregard an amount for any payment within paragraph (2A), the Director may disregard the whole of the amount received during the period of calculation where there is a direct link between—
+
+- (a) the loss or harm suffered by an individual for which the payment has been made; and
+- (b) the legal service the individual has applied for or receives under section 16 of the Act.
+
+(3) Where the Director calculates that the individual’s gross annual income, adjusted under paragraph (1)(b) where relevant, exceeds £12,475, the Director must calculate the individual’s disposable annual income in accordance with regulation 11.
+
+(4) Where the Director calculates that the individual’s gross annual income, adjusted under paragraph (1)(b) where relevant, is £12,475 or less—
+
+- (a) the individual is not liable to make a payment out of income; and
+- (b) the Director must notify the individual that the individual is not liable to make a payment out of income but may be liable to make a payment out of capital.
+
+(5) In this regulation and regulation 11 “child” means an individual who is under the age of 18 on the date on which the application for a determination under section 16 of the Act is made.
+
+### 11. Calculation of disposable annual income[^key-95020435ecc1a16903163acc1b62ab72]
+
+(1) The Director must calculate an individual’s disposable annual income in accordance with paragraphs (2) and (3).
+
+(2) The Director must deduct the following amounts from the individual’s gross annual income—
+
+- (a) any income with which the individual is restrained from dealing by order of the High Court or Crown Court;
+- (b) any amounts due under a contribution order in other criminal proceedings; and
+- (c) the amounts listed in paragraph (3) if they are paid or payable by the individual during the period of calculation.
+
+(3) The Director must deduct—
+
+- (a) any income tax;
+- (b) any estimated contributions under Part 1 of the Social Security Contributions and Benefits Act 1992 or the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+- (c) any council tax;
+- (d) either—
+  - (i) any annual rent or annual payment (whether of interest or capital) in respect of a mortgage debt or hereditable security in respect of the individual’s only or main dwelling, less any housing benefit paid under section 130 of the Social Security Contributions and Benefits Act 1992 or section 129 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992; or
+  - (ii) the annual cost of the individual’s living accommodation;
+- (e) any child care costs;
+- (f) the amount, where reasonable, of any maintenance payments;
+- (g) an amount representing cost of living expenses, being either—
+  - (i) £5,676; or
+  - (ii) where the individual has a partner or a child living in the individual’s household, the amount calculated in accordance with the Schedule to these Regulations;
+
+(4) For the purpose of paragraph (3)(d)(i), where an individual resides in more than one dwelling, the Director must decide which dwelling is the main dwelling.
+
+(5) In this regulation—
+
+- “child care costs” means the costs of care, other than excluded costs, provided by one or more of the following—
+  - (a) a school on school premises, out of school hours;
+  - (b) a local authority, out of school hours—
+    - (i) for a child who is not disabled, in respect of the period beginning on the child’s eighth birthday and ending on the day preceding the first Monday in September following the child’s 15th birthday;
+    - (ii) for a child who is disabled, in respect of the period beginning on the child’s eighth birthday and ending on the day preceding the first Monday in September following the child’s 16th birthday;
+  - (c) a child care provider approved in accordance with the Tax Credit (New Category of Care Provider) Regulations 1999[^f00033];
+  - (d) persons registered under Part 3 of the Childcare Act 2006[^f00034] or Part 2 of the Children and Families (Wales) Measure 2010[^f00035];
+  - (e) persons referred to in article 11, 12 or 14 of the Child Minding and Day Care Exceptions (Wales) Order 2010[^f00036], working in schools or establishments referred to in those articles;
+  - (f) persons prescribed in regulations made pursuant to section 12(4) of the Tax Credits Act 2002[^f00037];
+- “excluded costs” means costs paid—
+  - (a) in respect of the child’s compulsory education;
+  - (b) by the individual to the individual’s partner (or vice versa) in respect of any child for whom either (or both) of them is or are responsible in accordance with regulation 20 of the Housing Benefit Regulations 2006[^f00038]; or
+  - (c) in respect of care provided by a relative of the child wholly or mainly in the child’s home;
+- “maintenance payment” means a payment by an individual for the maintenance of—
+  - (a) a former partner;
+  - (b) a child; or
+  - (c) a relative,
+
+  who is not a member of the individual’s household; and
+- “relative” means, whether of full blood or half blood, or by marriage or civil partnership, a parent, grandparent, grandchild, brother, sister, aunt, uncle, nephew, niece or first cousin.
+
+### 12. Determination by the Director of liability to make a payment out of income[^key-2f9be53f6ae922aa9c94c6f912f52b08]
+
+(1) Except where regulation 13 applies, where the Director calculates that an individual’s disposable annual income is £3,398 or less—
+
+- (a) the individual is not liable to make a payment out of income; and
+- (b) the Director must notify the individual that the individual is not liable to make a payment out of income but may be liable to make a payment out of capital.
+
+(2) Where the Director calculates that an individual’s disposable annual income exceeds £3,398, the Director must—
+
+- (a) make a determination that the individual is liable to make six payments of one twelfth of 90 per cent of the individual’s disposable annual income;
+- (b) issue an income contribution order recording the determination; and
+- (c) notify the individual that the individual may also be liable to make a payment out of capital.
+
+(3) The Director must not make a determination under this regulation or regulation 13 until—
+
+- (a)[^key-3a77f52771c092950591a7e8eab58a2b] the individual has been sent to the Crown Court, or
+- (b) the bill of indictment has been preferred.
+
+### 13. Determination by the Director of liability to make a payment out of income: income evidence sanction[^key-edaec3d2839052b43dc09187148e1f0e]
+
+(1) This regulation applies where—
+
+- (a) an individual fails, without reasonable excuse, to comply with a request for documentary evidence in relation to income under regulation 7(3); and
+- (b) the Director has reasonable grounds to believe that the individual’s disposable annual income exceeds £3,398.
+
+(2) Where no determination has been made by the Director under regulation 12 that the individual is liable to make a payment, the Director must—
+
+- (a) make a determination that the individual is liable to make six payments of—
+  - (i) £900; or
+  - (ii) one twelfth of the individual’s disposable annual income if the Director is able to calculate it without the documentary evidence requested,
+
+  whichever is the higher;
+- (b) issue an income contribution order recording the determination; and
+- (c) notify the individual that the individual may also be liable to make a payment out of capital.
+
+(3) Where a determination has been made by the Director under regulation 12 that the individual is liable to make a payment, the Director must—
+
+- (a) vary the determination in respect of the amount of the payment so that any payment or payments under the income contribution order after the date on which the Director varies the determination are of—
+  - (i) £900; or
+  - (ii) one twelfth of the individual’s disposable annual income if the Director is able to calculate it without the documentary evidence requested,
+
+  whichever is the higher;
+- (b) amend the income contribution order accordingly; and
+- (c) notify the individual that the individual remains liable to make any overdue payment or payments under the income contribution order which were required to be made before the date on which the determination was varied.
+
+### 14. Exemption from the final payment under an income contribution order[^key-ca9fa3796de3ed9060c22bd4ad95e42e]
+
+The sixth payment under an income contribution order must be deducted from the amount to which an individual is liable where—
+
+- (a) the Director makes a determination under regulation 12 or 13 and the individual makes the first five payments on or before the date on which each payment is required to be made; or
+- (b) the Director makes a determination under regulation 19(2) or 23 and considers that the amount should be so deducted.
+
+### 15. Specified maximum amount for class of offence[^key-f5f6a912658a59849decff1eaaaf72cc]
+
+(1) The total amount payable under any income contribution order must not exceed the amount specified in paragraph (3) as the maximum amount for the class within which the offence with which the individual is charged falls (regardless of the classification of the offences charged in the indictment).
+
+(2) The classes and offences which fall within them are listed in the LGFS Table of Offences (the “Table of Offences”)[^key-8fde51b7e6c658b640ef8d197b41aad6] in Part 7 of Schedule 2[^key-6b86f93a6832890ee52ef661e134b16c] to the Criminal Legal Aid (Remuneration) Regulations 2013[^f00039].
+
+(3) The specified maximum amounts for the classes in the Table of Offences are—
+
+- (a) Class A: Homicide and related grave offences– £185,806;
+- (b) Class B: Offences involving serious violence or damage, and serious drugs offences–£29,453;
+- (c) Class C: Lesser offences involving violence or damage, and less serious drugs offences– £7,970;
+- (d) Class D: Sexual offences and offences against children– £13,776;
+- (e) Class E: Burglary etc.– £6,731;
+- (f) Class F: Other offences of dishonesty (specified offences and offences where the value is £30,000 or less)– £6,754;
+- (g) Class G: Other offences of dishonesty (specified offences and offences where the value involved exceeds £30,000 but does not exceed £100,000)– £117,368;
+- (h) Class H: Miscellaneous other offences– £7,427;
+- (i) Class I: Offences against public justice and similar offences– £28,023;
+- (j) Class J: Serious sexual offences– £17,892;
+- (k) Class K: Other offences of dishonesty (high value) (where the value involved exceeds £100,000)– £153,039.
+
+(4) Where an individual is charged with—
+
+- (a) an offence falling in more than one class; or
+- (b) more than one offence falling in more than one class,
+
+the relevant class is that for which the specified maximum amount is the higher or highest.
+
+### 16. Income contribution order: general[^key-1c958b779028cc060868136baecc375f]
+
+(1) An income contribution order must state—
+
+- (a) the name of the individual;
+- (b) the amount payable;
+- (c) the date on which the first payment is required to be made and that subsequent payments are required to be made monthly, or as otherwise agreed by the Director and the individual;
+- (d) the remedies available to the Lord Chancellor as a creditor if a payment is overdue;
+- (e) that if a payment is overdue, compound interest at the rate of 6% per year with half-yearly rests may be added to that payment from the date on which the payment is required to be made as—
+  - (i) specified in the income contribution order; or
+  - (ii) otherwise agreed by the Director and the individual;
+- (f) the individual’s—
+  - (i) duty under regulation 17; and
+  - (ii) right under regulation 39; and
+- (g) that the costs incurred in connection with the enforcement of an obligation to make a payment may be added to the amount payable by the individual.
+
+(2) Payments due under an income contribution order must be made to the Lord Chancellor.
+
+### 17. Change in financial circumstances: income[^key-a5ede8b1a87961c5fc1f07eb8e8140a6]
+
+An individual who the Director has determined under section 16 of the Act qualifies for representation for the purposes of Crown Court proceedings[^key-cff5a9eb29d128d132af88247e15aecd] must—
+
+- (a) immediately notify the Director of any change in financial circumstances in relation to income of which the individual is aware, which—
+  - (i) has occurred since the date on which the individual made an application for a determination under section 16 of the Act; and
+  - (ii) might affect the individual’s liability to make a payment; and
+- (b) provide documentary evidence of—
+  - (i) the change in financial circumstances; and
+  - (ii) the date of the change in financial circumstances.
+
+### 18. Reassessment by the Director of income and liability to make a payment[^key-253f533dd078c6d55295344880970527]
+
+(1) Where—
+
+- (a) an individual complies with a request for information or documentary evidence in relation to income under regulation 7(3) or 7(4);
+- (b) new information in relation to an individual’s income comes to light;
+- (c) it appears to the Director that there has been a miscalculation of an individual’s income or an administrative error; or
+- (d) an individual notifies the Director of a change in financial circumstances in accordance with regulation 17,
+
+the Director must reassess the individual’s income in accordance with regulation 10 and 11.
+
+(2) The Director may reassess the individual’s income under this regulation at any time before the date on which—
+
+- (a) the Director makes a determination under regulation 29, 30 or 31 that the individual is liable to make a payment out of capital; or
+- (b) the individual is notified that they are not liable to make a payment out of capital in accordance with regulation 33(1)(a).
+
+### 19. Determination by the Director of liability to make a payment following reassessment of income[^key-629a6e6f99deee3a99471f434e414a5f]
+
+(1) Where—
+
+- (a) no determination has been made by the Director under regulation 12 or 13 that the individual is liable to make a payment; and
+- (b) on reassessment in accordance with regulation 18, the Director calculates that the individual’s disposable annual income exceeds £3,398,
+
+the Director must make a determination in accordance with paragraph (2).
+
+(2) The Director must—
+
+- (a) make a determination that the individual is liable to make a payment of the total amount of the payment or payments which the individual would have been required to make under an income contribution order—
+  - (i) before the date on which the determination under this paragraph is made; or
+  - (ii) (where the proceedings have concluded) on or before the date of the conclusion of the proceedings,
+
+had a determination under regulation 12(2)(a) been made by the Director on the relevant date; and
+
+- (b) notify the individual—
+  - (i) of the amount payable;
+  - (ii) that the amount must be paid within 28 days of the date of notification or within such other period as may be agreed by the Director and the individual;
+  - (iii) that if payment is overdue, compound interest at the rate of 6% per year with half-yearly rests may be added to that payment from the date specified as the date on which the payment was required to be paid, or the date otherwise agreed by the Director and the individual;
+  - (iv) of the individual’s right under regulation 39; and
+  - (v) that the costs incurred in connection with the enforcement of an obligation to make a payment may be added to the amount payable by the individual.
+
+(3) Where paragraph (2)(a)(i) applies, the Director must—
+
+- (a) make a determination that the individual is liable to make six payments of one twelfth of 90 per cent of the individual’s disposable annual income, less the payment or payments under the determination under paragraph (2); and
+- (b) issue an income contribution order accordingly.
+
+(4) In this regulation, “the relevant date” means—
+
+- (a) where the reassessment took place in accordance with regulation 18(1)(a) to (c), the date on which the Director would have made a determination under regulation 12(2)(a) in accordance with regulation 12(3); or
+- (b) where the reassessment took place in accordance with regulation 18(1)(d), the date of the change in financial circumstances.
+
+### 20. Withdrawal by the Director of a determination of liability to make a payment following reassessment of income[^key-4ac9fa1c500ceb007a5aa9ae84e6c40d]
+
+(1) Where—
+
+- (a) a determination has been made by the Director under regulation 12, 13 or 19(3) that the individual is liable to make a payment; and
+- (b) on reassessment in accordance with regulation 18, the Director calculates that the individual’s disposable annual income is £3,398 or less,
+
+the Director must withdraw the determination with effect from the relevant date.
+
+(2) In this regulation, “the relevant date” means—
+
+- (a) where the reassessment took place in accordance with regulation 18(1)(a) to (c), the date on which the determination referred to in paragraph (1)(a) was made by the Director; or
+- (b) where the reassessment took place in accordance with regulation 18(1)(d)—
+  - (i) if the individual notified the Director of the change in financial circumstances within 28 days of the date of the change, the date of the change in financial circumstances;
+  - (ii) if the individual failed, without reasonable excuse, to notify the Director of the change in financial circumstances within 28 days of the date of the change, the date of the notification of the change in financial circumstances.
+
+### 21. Variation by the Director of liability to make a payment following reassessment of income[^key-ea4ee808010fb1ff1b5364e287ecfedd]
+
+(1) Where—
+
+- (a) a determination has been made by the Director under regulation 12, 13 or 19(3) that the individual is liable to make a payment;
+- (b) on reassessment in accordance with regulation 18, the Director calculates that the individual’s disposable annual income exceeds £3,398 by an amount which is different to that calculated when the determination referred to in sub-paragraph (a) was made; and
+- (c) the reassessment took place before the date—
+  - (i) of the conclusion of the proceedings; and
+  - (ii) on which the final payment under the individual’s income contribution order was required to be made,
+
+the Director must vary the determination in accordance with paragraph (2).
+
+(2) The Director must—
+
+- (a) vary the determination in respect of the amount of the payment so that any payment or payments under the income contribution order after the date on which the Director varies the determination are of one twelfth of 90 per cent of the individual’s disposable annual income as calculated on reassessment; and
+- (b) amend the income contribution order accordingly.
+
+### 22. Liability to overdue payments under an income contribution order following reassessment of income[^key-3b8c11fad49ab5eb91e6f4fe3d625747]
+
+(1) This regulation applies where—
+
+- (a) a determination has been made by the Director under regulation 12, 13 or 19(3) that the individual is liable to make a payment;
+- (b) on reassessment in accordance with regulation 18, the Director calculates that the individual’s disposable annual income—
+  - (i) is £3,398 or less; or
+  - (ii) exceeds £3,398 by an amount which is different to that calculated when the determination referred to in sub-paragraph (a) was made; and
+- (c) the reassessment took place when one or more of the payments under the individual’s income contribution order was overdue.
+
+(2) Where the reassessment took place in accordance with regulation 18(1)(d) and the determination is withdrawn in accordance with regulation 20 as a result of the reassessment, the Director must notify the individual that the individual remains liable to the overdue payment or payments which were required to be made—
+
+- (a) before the date on which the determination was withdrawn; or
+- (b) on or before the date of the conclusion of the proceedings,
+
+whichever is the earlier.
+
+(3) Where the individual’s liability increases or decreases as a result of the reassessment, the Director must notify the individual that the individual is liable to the overdue payment or payments (adjusted under paragraph (4) where relevant) which were required to be made—
+
+- (a) before the date on which the determination referred to in paragraph (1)(a) was varied in accordance with regulation 21; or
+- (b) (where the proceedings have concluded) on or before the date of the conclusion of the proceedings.
+
+(4) Where the individual’s liability to make a payment decreases as a result of the reassessment, the Director must adjust the amount of such payment or payments under paragraph (3) to the amount of the equivalent payment or payments which the individual would have been required to make, had the payments from the relevant date been of one twelfth of 90 per cent of the individual’s disposable annual income as calculated on reassessment;
+
+(5) In this regulation, “the relevant date” means—
+
+- (a) where the reassessment took place in accordance with regulation 18(1)(a) to (c), the date on which the determination referred to in paragraph (1)(a) was made by the Director; or
+- (b) where the reassessment took place in accordance with regulation 18(1)(d)—
+  - (i) if the individual notified the Director of the change in financial circumstances within 28 days of the date of the change, the date of the change in financial circumstances;
+  - (ii) if the individual failed, without reasonable excuse, to notify the Director of the change in financial circumstances within 28 days of the date of the change, the date of the notification of the change in financial circumstances.
+
+### 23. Determination by the Director of liability to make an additional payment following reassessment of income[^key-51889e8b47079c8a94f50646dfe3e511]
+
+(1) This regulation applies where—
+
+- (a) a determination has been made by the Director under regulation 12, 13 or 19(3) that the individual is liable to make a payment;
+- (b) on reassessment in accordance with regulation 18, the Director calculates that the individual’s disposable annual income exceeds £3,398 by a greater amount than that calculated when the determination referred to in sub-paragraph (a) was made; and
+- (c) the reassessment took place after one or more of the payments under the individual’s income contribution was required to be made.
+
+(2) The Director must make a determination that the individual is liable to an additional payment of the amount of the difference between—
+
+- (a) the total amount of the payment or payments which were required to be made—
+  - (i) before the date on which the determination referred to in paragraph (1)(a) was varied in accordance with regulation 21; or
+  - (ii) (where the proceedings have concluded) on or before the date of the conclusion of the proceedings; and
+- (b) the total amount of the equivalent payment or payments which the individual would have been required to make, had the payments from the relevant date been of one twelfth of 90 per cent of the individual’s disposable annual income as calculated on reassessment.
+
+(3) The Director must notify the individual—
+
+- (a) of the additional amount payable;
+- (b) that the additional amount must be paid within 28 days of the date of notification or within such other period as may be agreed by the Director and the individual;
+- (c) that if payment is overdue, compound interest at the rate of 6% per year with half-yearly rests may be added to that payment from the date specified as the date on which the payment was required to be paid, or the date otherwise agreed by the Director and the individual;
+- (d) of the individual’s right under regulation 39; and
+- (e) that the costs incurred in connection with the enforcement of an obligation to make a payment may be added to the amount payable by the individual.
+
+(4) In this regulation, “the relevant date” means—
+
+- (a) where the reassessment took place in accordance with regulation 18(1)(a) to (c), the date on which the Director would have made a determination under regulation 12(2)(a) in accordance with regulation 12(3); or
+- (b) where the reassessment took place in accordance with regulation 18(1)(d), the date of the change in financial circumstances.
+
+### 24. Repayment following reassessment of income[^key-a322d280abccfc1f80bbcb84a711ebc5]
+
+(1) This regulation applies where—
+
+- (a) a determination has been made by the Director under regulation 12, 13 or 19(3) that the individual is liable to make a payment;
+- (b) on reassessment in accordance with regulation 18, the Director calculates that the individual’s disposable annual income—
+  - (i) is £3,398 or less; or
+  - (ii) exceeds £3,398 by a lesser amount than that calculated when the determination referred to in sub-paragraph (a) was made; and
+- (c) the reassessment took place after one or more of the payments under the individual’s income contribution was made.
+
+(2) Where the determination is withdrawn in accordance with regulation 20 as a result of the reassessment, the Lord Chancellor must repay to the individual the following—
+
+- (a) where the reassessment took place in accordance with regulation 18(1)(a) to (c), the amount of any payment or payments made by the individual under the income contribution order; or
+- (b) where the reassessment took place in accordance with regulation 18(1)(d), the amount of the payment or payments made by the individual under the income contribution order after the relevant date.
+
+(3) Where the individual’s liability decreases as a result of the reassessment, the Lord Chancellor must repay to the individual the amount of the difference between—
+
+- (a) the payment or payments made by the individual under the income contribution order; and
+- (b) the total amount of the equivalent payment or payments which the individual would have been required to make, had the payments from the relevant date been of one twelfth of 90 per cent of the individual’s disposable annual income as calculated on reassessment.
+
+(4) Compound interest must be paid on the amount repaid at a rate of 2% per year with yearly rests, from the date of the payment by the individual.
+
+(5) In this regulation, “the relevant date” means—
+
+- (a) where the reassessment took place in accordance with regulation 18(1)(a) to (c), the date on which the determination referred to in paragraph (1)(a) was made by the Director; or
+- (b) where the reassessment took place in accordance with regulation 18(1)(d)—
+  - (i) if the individual notified the Director of the change in financial circumstances within 28 days of the date of the change, the date of the change in financial circumstances;
+  - (ii) if the individual failed, without reasonable excuse, to notify the Director of the change in financial circumstances within 28 days of the date of the change, the date of the notification of the change in financial circumstances.
+
+### 25. Assessment of the cost of representation on the conclusion of the proceedings[^key-b2f39299177c7bb2f04183e5d582357b]
+
+Where—
+
+- (a) an individual is sentenced or otherwise dealt with for any offence following conviction in the Crown Court;
+- (b) the trial judge considers that there are exceptional reasons why an individual who is acquitted in the Crown Court should be liable to make payments under a contribution order; or
+- (c) the determination under section 16 of the Act that an individual qualifies for representation for the purposes of the Crown Court proceedings[^key-a188512a40ca76490a4da0bea0cd53f2] is withdrawn,
+
+the Director must calculate the cost of representation of the individual in the proceedings in the Crown Court.
+
+### 26. Assessment by the court of proportion of the cost of representation[^key-ddb606fec4f137ad04930142bd5c6b4c]
+
+(1) This regulation applies where an individual is—
+
+- (a) charged with more than one offence; and
+- (b) convicted of one or more, but not all, such offences.
+
+(2) The individual may apply in writing to the judge for an order that the individual pay a proportion of the amount of the cost of representation in the proceedings in the Crown Court, on the ground that it would be manifestly unreasonable to pay the whole amount.
+
+(3) An application under paragraph (2) must be made within 21 days of the date on which the individual is sentenced or otherwise dealt with for the offence following conviction in the Crown Court.
+
+(4) The judge may—
+
+- (a) make an order specifying the proportion of the cost of representation for which the individual is liable; or
+- (b) refuse the application.
+
+(5) An order under paragraph (4) must not require any other individual to pay any of the cost of the individual’s representation.
+
+(6) In this regulation “judge” means the trial judge or a judge nominated by the resident judge for the purpose of deciding the application.
+
+### 27. Assessment by the Director of capital and liability to make a payment[^key-4538d63b45eaa61393aa9f8e48394994]
+
+Where—
+
+- (a) the recoverable costs of representation exceed the amount of any payment already made by an individual under an income contribution order; or
+- (b) an individual was not liable to make a payment out of income,
+
+the Director must assess the individual’s capital in accordance with regulation 28.
+
+### 28. Calculation of disposable specified capital[^key-8ac541b0e85cce2841d94752ef35ea5f]
+
+(1) The Director must calculate an individual’s disposable specified capital by—
+
+- (a) calculating the amount or value of an individual’s specified capital on the date on which the application for a determination under section 16 of the Act is made; and
+- (b) except where paragraph (2) applies, deducting £30,000 from the total amount or value.
+
+(2) Where—
+
+- (a) an individual fails, without reasonable excuse, to comply with a request for documentary evidence in relation to specified capital under regulation 7(3); and
+- (b) the Director has reasonable grounds to believe that the individual has specified capital of an amount or value equal to, or in excess of, £30,000,
+
+the Director must not make the deduction in paragraph (1)(b).
+
+(3) Subject to paragraphs (3B) to (3E)[^key-6c2e7e26e20191d9e24904b9534a9a70][^key-c2d7a310af8edf2635ae6f3caa970fe8], the amount or value of an individual’s specified capital is the amount or value of all specified capital belonging to the individual on the date on which the application for a determination under section 16 of the Act is made, except where—
+
+- (a) it would be impractical or unreasonable for the Director to include the specified capital; or
+- (b) subject to paragraph (3A),[^key-efc379aad7da6165e9579fc10b9cd813] the individual is restrained by order of the High Court or Crown Court from dealing with the specified capital.
+
+(3A)[^key-21968e05f1a57400ab020385b9e131e0] Paragraph (3)(b) does not apply where the order is a POCA restraint order.
+
+(3B)[^key-b1e7154b96693ba06f7840279a21877f] In calculating the amount of an individual’s disposable specified capital, the Director must disregard—
+
+- (a) any payment made under the Windrush Compensation Scheme; [^key-0ee98a9853454f6ca1c417c23fd12e57]...
+- (b) any Windrush connected payment;[^key-5b6661f2bab5d6b7ba9213930e435d1b]
+- (c) a payment made under the Social Security (Additional Payments) Act 2022;
+- (d) a payment made to an individual under section 13 or 15 of the Energy Prices Act 2022.
+- (e)[^key-12202c02d2784601e60c3e819967f53a] any Modern Slavery Victim Care Contract or equivalent payment;
+- (f) any payment of compensation for a miscarriage of justice made under section 133 of the Criminal Justice Act 1988.
+
+(3C)[^key-86531b53409ed745fa26b7e812d0678d] In calculating the amount of an individual’s disposable specified capital, the Director may, subject to paragraphs (3D) and (3E), disregard—
+
+- (a) any payment that meets all of the following conditions—
+  - (i) the payment was made to an individual who is a victim of the fire at Grenfell Tower;
+  - (ii) the payment was made to that individual because the individual is a victim of the fire at Grenfell Tower; and
+  - (iii) the payment was not made directly to the individual by an individual known personally to the individual;
+- (b) any payment of compensation made under the Victims of Overseas Terrorism Compensation Scheme 2012.
+
+(3D) In determining whether to disregard any payment within paragraph (3C)—
+
+- (a) subject to sub-paragraph (b), the Director may disregard the whole of a payment where the following conditions are met—
+  - (i) the payment was for personal harm or was for a specified purpose; and
+  - (ii) the payment was not for a loss of income;
+- (b) where a payment for personal harm or a specified purpose includes, in part, an amount for a loss of income—
+  - (i) where the Director is able to ascertain the amount of the part which is for a loss of income, the Director may disregard only the amount of the part which is not for a loss of income; or
+  - (ii) where the Director is not able to ascertain the amount of the part which is for a loss of income, the Director may disregard the whole of the payment.
+
+(3E) In determining whether to disregard any payment within paragraph (3C), the Director may disregard the whole of a payment where there is a direct link between—
+
+- (a) the loss or harm suffered by an individual for which the payment has been made; and
+- (b) the legal service the individual has applied for or receives under section 16 of the Act.
+
+(4) In calculating the amount or value of an individual’s specified capital—
+
+- (a) in so far as the specified capital does not consist of money, its value is—
+  - (i) the amount which that resource would realise if sold; or
+  - (ii) the value of that resource assessed in such other manner as appears to the Director to be equitable;
+- (b) the value of any interest in real property is the amount for which that interest could be sold less the amount of any debt secured by a mortgage or charge on the property; and
+- (c) where an individual owns an interest in specified capital jointly or in common with any other person (other than the individual’s partner), the Director must treat that resource as being owned in equal shares or, where there is evidence that the resource is not so owned, in such proportion as appears to the Director to be equitable in the light of that evidence.
+
+### 29. Determination by the Director of liability to make a payment out of disposable specified capital[^key-383d0e0f9c9939003f392d17c1eced39]
+
+Except where regulation 31 applies, where the Director calculates that an individual has disposable specified capital, the Director must—
+
+- (a) make a determination that the individual is liable to make a payment of—
+  - (i) the amount of the recoverable costs of representation, less the amount of any payment already made under an income contribution order and any relevant outstanding amount; or
+  - (ii) where the amount of the individual’s disposable specified capital is less than the amount in sub-paragraph (i), the amount of the individual’s disposable specified capital; and
+- (b) issue a capital contribution order recording the determination.
+
+### 30. Determination by the Director of liability to make a payment out of unspecified capital[^key-500405607f81ac4bbbbdc897ce975099]
+
+(1) Except where regulation 31 applies, where the Director considers that an individual has unspecified capital, the Director must make a determination in accordance with paragraph (2) or (3).
+
+(2) Where a determination has been made by the Director under regulation 29(a)(ii), the Director must—
+
+- (a) make a further determination that the individual is liable to make a payment of the amount of the difference between—
+  - (i) the amount of the recoverable costs of representation, less the amount of any payment already made under an income contribution order and any relevant outstanding amount; and
+  - (ii) the amount of the individual’s disposable specified capital; or
+- (b) where the amount of the individual’s unspecified capital is less than the amount in paragraph (a), make a determination that the individual is liable to make a payment of the amount of the individual’s unspecified capital; and
+- (c) amend the capital contribution order accordingly.
+
+(3) Where no determination has been made under regulation 29, the Director must—
+
+- (a) make a determination that the individual is liable to make a payment of—
+  - (i) the amount of the recoverable costs of representation, less the amount of any payment already made under an income contribution order and any relevant outstanding amount; or
+  - (ii) where the amount of the individual’s unspecified capital is less than the amount in sub-paragraph (i), the amount of the individual’s unspecified capital; and
+- (b) issue a capital contribution order recording the determination.
+
+(4) In this regulation, and regulation 36, the value of unspecified capital is—
+
+- (a) the amount which that resource would realise if sold; or
+- (b) the value of that resource assessed in such other manner as appears to the Director to be equitable.
+
+### 31. Determination by the Director of liability to make a payment out of capital: capital evidence sanction[^key-49663fa707c570bc5d7a748ab476d65f]
+
+(1) This regulation applies where—
+
+- (a) an individual fails, without reasonable excuse, to comply with a request for information or documentary evidence in relation to capital under regulation 7(4); and
+- (b) the Director has reasonable grounds to believe that the individual has capital of an amount or value equal to, or in excess of, the recoverable costs of representation.
+
+(2) The Director must—
+
+- (a) make a determination that the individual is liable to make a payment of the amount of the recoverable costs of representation, less the amount of any payment already made under an income contribution order and any relevant outstanding amount; and
+- (b) issue a capital contribution order recording the determination.
+
+### 32. Capital contribution order: general[^key-ec8608df3b76fee33da0f7f62cf2991e]
+
+(1) A capital contribution order must state—
+
+- (a) the name of the individual;
+- (b) the amount of the recoverable costs of representation;
+- (c) the amount payable;
+- (d) unless paragraph (1A) applies,[^key-5d922e00e14855a1a7f8b601fd4e74ae] that the amount must be paid within 28 days of the date of the capital contribution order or within such other period as may be agreed by the Director and the individual;
+- (e) the remedies available to the Lord Chancellor as a creditor if a payment is not made by a due date;
+- (f) that if a payment is overdue, compound interest at the rate of 6% per year with half-yearly rests may be added to that payment from the date on which the payment is required to be made as—
+  - (i) specified in the capital contribution order; or
+  - (ii) otherwise agreed by the Director and the individual;
+- (g) the individual’s—
+  - (i) duty under regulation 34; and
+  - (ii) right under regulation 39; and
+- (h) that the costs incurred in connection with the enforcement of the order may be added to the amount payable by the individual.
+
+(1A)[^key-fad17a0fe4ca2e946bbc6a7637d3dd66] This paragraph applies where the individual is subject to a POCA restraint order.
+
+(1B) Where paragraph (1A) applies, the capital contribution order must state—
+
+- (a) the amount of the individual’s capital which is—
+  - (i) subject to a POCA restraint order; and
+  - (ii) not subject to a POCA restraint order (“B”),
+
+  as calculated by the Director;
+- (b) where B is equal to, or exceeds, the amount payable, that the individual must pay the amount payable in full within 28 days of the date of the capital contribution order or within such other period as may be agreed by the Director and the individual;
+- (c) where B is less than the amount payable, that the individual must make a payment of the value of B within 28 days of the date of the capital contribution order or within such other period as may be agreed by the Director and the individual; and
+- (d) where paragraph (c) applies, that the individual must make a payment which is the amount payable less any sum already paid under sub-paragraph (c), within 28 days of the date on which paragraph (1C) first applies or within such other period following that date as may be agreed by the Director and the individual.
+
+(1C) This paragraph applies where—
+
+- (a) a confiscation order under Part 2 of POCA has been made against the individual to whom the capital contribution order is issued;
+- (b) the POCA restraint order and the confiscation order were both made in proceedings that were entirely or partly for the same offence; and
+- (c) that confiscation order has been discharged or satisfied.
+
+(2) Payments due under a capital contribution order must be made to the Lord Chancellor.
+
+### 33. Payments under an income contribution order following the conclusion of the proceedings[^key-01e1c3e5a113adb041e5dc87769a901e]
+
+(1) Where a determination has been made by the Director under regulation 12, 13 or 19(3) that an individual is liable to make a payment out of income and—
+
+- (a) no determination is made by the Director under regulation 29, 30 or 31 that the individual is liable to make a payment out of capital, the Director must notify the individual—
+  - (i) that the individual is not liable to make a payment out of capital;
+  - (ii) of the amount of the recoverable costs of representation; and
+  - (iii) where relevant, that the individual remains liable for any overdue payments under the income contribution order which were required to be made on or before the date of the conclusion of the proceedings;
+- (b) a determination is made by the Director under regulation 29, 30 or 31 that the individual is liable to make a payment out of capital, the Director must—
+  - (i) withdraw the determination referred to in paragraph (1) with effect from the date of the conclusion of the proceedings; and
+  - (ii) where relevant, notify the individual that the individual remains liable to any overdue payments under the income contribution order which were required to be made on or before the date of the conclusion of the proceedings.
+
+(2) Where a determination under regulation 19(2) or 23 has been made that an individual is liable to make a payment and any amount of the payment is unpaid, the Director must notify the individual that the individual remains liable to the payment.
+
+### 34. Change in financial circumstances: capital[^key-53ae147ae70c360eabd4964d2ac0c98d]
+
+An individual who the Director has determined under section 16 of the Act qualifies for representation for the purposes of Crown Court proceedings[^key-c565d3982acd2e0652d7be1e5417fc7a] must—
+
+- (a) immediately notify the Director of any change in financial circumstances in relation to capital of which the individual is aware, which—
+  - (i) has occurred since the date on which the individual made an application for a determination under section 16 of the Act; and
+  - (ii) might affect the individual’s liability to make a payment; and
+- (b) provide documentary evidence of—
+  - (i) the change in financial circumstances; and
+  - (ii) the date of the change in financial circumstances.
+
+### 35. Reassessment by the Director of capital and liability to make a payment[^key-e75f3e4830729f498253021318cffe31]
+
+Where—
+
+- (a) an individual complies with a request for information or documentary evidence in relation to capital under regulation 7(3) or 7(4);
+- (b) new information in relation to an individual’s capital comes to light;
+- (c) it appears to the Director that there has been a miscalculation of an individual’s capital or an administrative error; or
+- (d) an individual notifies the Director of a change in financial circumstances in accordance with regulation 34 and does so—
+  - (i) within 28 days of the day on which the capital contribution order was issued; or
+  - (ii) otherwise with a reasonable excuse,
+
+the Director must reassess the individual’s capital.
+
+### 36. Determination by the Director of liability to make a payment following reassessment of capital[^key-ec3b5dd9a7ddc1fac0094bff93958b87]
+
+(1) Where—
+
+- (a) no determination has been made by the Director under regulation 29, 30 or 31 that the individual is liable to make a payment; and
+- (b) on reassessment in accordance with regulation 35 the Director—
+  - (i) calculates that the individual has disposable specified capital; or
+  - (ii) considers that the individual has unspecified capital,
+
+the Director must make a determination in accordance with regulation 29 and 30.
+
+(2) Where—
+
+- (a) a determination has been made by the Director under regulation 29, 30 or 31 that the individual is liable to make a payment; and
+- (b) on reassessment in accordance with regulation 35 the Director—
+  - (i) calculates that the individual has no disposable specified capital; or
+  - (ii) considers that the individual has no unspecified capital,
+
+the Director must withdraw the determination under regulation 29, 30 or 31 in respect of the individual’s disposable specified capital or unspecified capital, as the case may be.
+
+(3) Where—
+
+- (a) a determination has been made by the Director under regulation 29, 30 or 31 that the individual is liable to make a payment; and
+- (b) on reassessment in accordance with regulation 35 the Director calculates that the amount of the individual’s capital is a different amount to that calculated when the determination under sub-paragraph (a) was made,
+
+the Director must vary the determination in accordance with paragraph (4).
+
+(4) The Director must—
+
+- (a) vary the determination in respect of the amount of the payment so that the payment is of—
+  - (i) the amount of the recoverable costs of representation, less the amount of any payment already made under an income contribution order and any relevant outstanding amount; or
+  - (ii) where the amount of the individual’s capital as calculated on reassessment is less than the amount in sub-paragraph (i), the amount of the individual’s capital; and
+- (b) amend the capital contribution order accordingly.
+
+### 37. Repayment: general[^key-d3c47fd031aec06a2becc4fc2edd2c6d]
+
+(1) Where an individual has made a payment or payments—
+
+- (a) under an income contribution order, and, except where regulation 25(b) applies—
+  - (i) the proceedings against the individual are discontinued; or
+  - (ii) the individual is acquitted by the Crown Court of each offence with which the individual was charged; or
+- (b) under a contribution order, and the Court of Appeal allows an appeal against conviction by the individual,
+
+the Lord Chancellor must repay to the individual the amount of each payment made, less any amount added in accordance with regulation 45, together with compound interest thereon from the date of the payment at the rate of 2% per year with yearly rests.
+
+(2) Where the Director has made a determination—
+
+- (a) under section 16 of the Act that the individual qualifies for representation for the purposes of other criminal proceedings to which Part 2 or 3 applies; or
+- (b) under these Regulations that the individual is liable to make a payment in connection with the provision of representation in other criminal proceedings to which Part 2 or 3 applies,
+
+the Lord Chancellor may treat the amount to be repaid under paragraph (1) as satisfying the equivalent amount due under any other contribution order.
+
+(3) Where—
+
+- (a) an individual has made payments under an income contribution order; and
+- (b) the amount of the payments so made exceeds the recoverable costs of representation,
+
+the Lord Chancellor must repay to the individual the amount of the excess, less any amount added in accordance with regulation 45, together with compound interest thereon from the date of the excess payment at the rate of 2% per year with yearly rests.
+
+### 38. Deprivation etc. of resources[^key-3d8d3fb455a5a337185fdcfe53a12901]
+
+If it appears to the Director that the individual or the individual’s partner has, with intent to reduce the amount of the individual’s financial resources, whether for the purposes of making the individual not liable to a make a payment or of reducing the amount of such a payment—
+
+- (a) directly or indirectly deprived themselves of any financial resources;
+- (b) transferred any financial resources to another person; or
+- (c) converted any financial resources into resources which, under these Regulations, are to be wholly or partly disregarded,
+
+those financial resources must be treated as part of the individual’s financial resources, or as not so converted as the case may be.
+
+### 39. Review of a determination[^key-897aff44e0fb99705047a99fbe8b3c48]
+
+(1) An individual whom the Director has determined is liable to make a payment may apply to the Director for a review of the determination, on the grounds that—
+
+- (a) there has been a miscalculation of the individual’s income or capital or the cost of representation;
+- (b) there has been an administrative error; or
+- (c) the individual is suffering or would suffer financial hardship as a result of making the payment.
+
+(2) An application must be made in a form specified by the Lord Chancellor.
+
+(3) An application under paragraph (1)(a) or (b) must be made within—
+
+- (a) 28 days of the date that the contribution order is issued; or
+- (b) such other period as may be agreed by the Director and the individual.
+
+(4) A review may be conducted without a hearing.
+
+(5) The Director must consider the application and may—
+
+- (a) confirm the determination and notify the individual that the individual remains liable to make a payment under the determination;
+- (b) withdraw the determination; or
+- (c) vary the determination and amend the contribution order accordingly.
+
+(6) Where the Director—
+
+- (a) withdraws a determination and the individual has already made a payment in excess of the amount to which the individual is liable; or
+- (b) varies a determination such that—
+  - (i) the individual is liable to make a payment of a lower amount; and
+  - (ii) the individual has already made a payment in excess of the amount to which the individual is liable,
+
+the Lord Chancellor must repay to the individual the amount of such payment together with compound interest thereon from the date of the payment at the rate of 2% per year with yearly rests.
+
+## PART 3 — Appeals to the Crown Court
+
+### 40. Application of this Part[^key-cbe4d841d565a8f7ac28be0859b96a47]
+
+(1) This Part applies to appeals to the Crown Court from the magistrates’ court in proceedings against conviction, sentence or an order.
+
+(2) In this Part “order”, without more, means an order made in proceedings referred to in regulation 9 of the Criminal Legal Aid (General Regulations) 2013[^f00040].
+
+### 41. Application of the provisions in Part 2[^key-e194e0e0edaf1f2d22c1ecbe791ba572]
+
+The following regulations apply to appeals as they apply to proceedings to which Part 2 applies, with the modifications in sub-paragraph (e)—
+
+- (a) regulation 5;
+- (b) regulation 8;
+- (c) regulation 9;
+- (d) regulation 10(1) to (3) and (5);
+- (e) regulation 11 with the following modifications—
+  - (i) after paragraph (2)(b) omit “and”; and
+  - (ii) after paragraph (2)(c) insert “and (d) £500, representing the costs of an appeal”;
+- (f) regulation 17;
+- (g) regulation 18(1)(b) to (d);
+- (h) regulation 38; and
+- (i) regulation 39.
+
+### 42. Determination by the Director of liability to make a payment[^key-334511a6b1c2dcaa5403101ec6392640]
+
+(1) Where the Director calculates that an individual’s—
+
+- (a) gross annual income, adjusted under regulation 10(1)(b) where relevant, is £12,475 or less; or
+- (b) disposable annual income is £3,398 or less,
+
+the individual is not liable to make a payment and the Director must notify the individual that the individual is not liable to make a payment.
+
+(2) Where—
+
+- (a) the Director calculates that an individual’s disposable annual income exceeds £3,398; and
+- (b) the appeal is made against—
+  - (i) conviction, or conviction and sentence, and that appeal is abandoned or dismissed;
+  - (ii) sentence or an order, and that appeal is abandoned or dismissed; or
+  - (iii) conviction and sentence, and the appeal against conviction is abandoned or dismissed but the appeal against sentence is allowed,
+
+the Director must make a determination in accordance with paragraph (3).
+
+(3) The Director must—
+
+- (a) make a determination that the individual is liable to make a payment of—
+  - (i) £500, where paragraph (2)(b)(i) applies; or
+  - (ii) £250, where paragraph (2)(b)(ii) or (iii) applies; and
+- (b) issue a contribution order recording the determination.
+
+### 43. Contribution order: general[^key-ee402a422cdb745e2e72e10effef8a57]
+
+(1) A contribution order must state—
+
+- (a) the name of the individual;
+- (b) the amount payable;
+- (c) that the amount must be paid within 28 days of the abandonment or dismissal of the appeal, or such other period as may be agreed by the Director and the individual;
+- (d) the remedies available to the Lord Chancellor as a creditor if a payment is overdue;
+- (e) that if a payment is overdue, compound interest at the rate of 6% per year with half-yearly rests may be added to that payment from the date on which the payment is required to be made as—
+  - (i) specified in the contribution order; or
+  - (ii) otherwise agreed by the Director and the individual;
+- (f) the individual’s—
+  - (i) duty under regulation 17; and
+  - (ii) right under regulation 39; and
+- (g) that the costs incurred in connection with the enforcement of the contribution order may be added to the amount payable under the contribution order.
+
+(2) Payments due under a contribution order must be made to the Lord Chancellor.
+
+### 44. Determination by the Director of liability to make a payment following reassessment[^key-3129a4d952ecd4f545eeb9c250dd8890]
+
+(1) Where no determination under regulation 42 has been made that an individual is liable to make a payment and on reassessment in accordance with regulation 18, the Director calculates that the individual’s disposable annual income exceeds £3,398, the Director must make a determination in accordance with regulation 42.
+
+(2) Where a determination under regulation 42 has already been made that the individual is liable to make a payment and on reassessment in accordance with regulation 18, the Director calculates that the individual’s disposable annual income is £3,398 or less, the Director must withdraw the determination.
+
+## PART 4 — Enforcement
+
+### 45. Costs of enforcement[^key-6f4bb4e474f99af8361a0888eab38e8c]
+
+Where the Lord Chancellor incurs costs in connection with the enforcement of an individual’s obligation to make a payment under these Regulations, those costs may be added to the amount payable by the individual.
+
+### 46. Recovery of overdue sums[^key-2d8d0adf54db9b4d6f4f8e9d6d517d4f]
+
+(1) Any overdue sums are recoverable—
+
+- (a) summarily as a civil debt; and
+- (b) if the High Court or a county court so orders on the application of the Lord Chancellor, as if they were payable under an order of the court in question.
+
+(2) Where a complaint is made for the recovery of an overdue sum as a civil debt, the powers conferred on a magistrates’ court by section 58 of the Magistrates’ Courts Act 1980[^f00041] may be exercised by a single justice.
+
+Signed by authority of the Lord Chancellor
+
+McNally
+
+Minister of State
+
+Ministry of Justice
+
+## SCHEDULE
+
+Regulations 10 and 11
+
+**1.**[^key-15d14d2ac129cc05effb788be90e4e20] In this Schedule, the relevant sum is calculated by adding the relevant figure for each relative of the individual in the table in paragraph 4 together, and then adding 1.
+
+**2.**[^key-960a506c4dcc5194e3915c478db5726a] For the purpose of regulation 10(1)(b), an individual’s gross annual income must be adjusted by dividing the amount calculated in regulation 10(2) by the relevant sum.
+
+**3.**[^key-7a5c16419b72ad9de296419ea1e789ba] For the purpose of regulation 11(3)(g)(ii), an individual’s cost of living expenses are calculated by multiplying £5,676 by the relevant sum.
+
+**4.**[^key-119bf416826e488d44050228825ce1d1]
+
+| *Relative of the individual* | *Relevant figure* |
+| --- | --- |
+| A partner | 0.64 |
+| Each child of the individual in the individual’s household, aged 0–1 years | 0.15 |
+| Each child, as above, aged 2–4 years | 0.30 |
+| Each child, as above, aged 5–7 years | 0.34 |
+| Each child, as above, aged 8–10 years | 0.38 |
+| Each child, as above, aged 11–12 years | 0.41 |
+| Each child, as above, aged 13–15 years | 0.44 |
+| Each child, as above, aged 16–17 years | 0.59 |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Section 23(1) of the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) (“the Act”) provides that an individual to whom services are made available under Part 1 of the Act is not to be required to make a payment in connection with the provision of the services, except where regulations provide otherwise.
+
+These Regulations make provision in relation to the liability of individuals who are in receipt of representation under section 16 of the Act (representation for criminal proceedings) to make a payment in connection with the provision of such representation, based on an assessment of the financial resources of the individual.
+
+Regulation 3 provides that the functions of the Lord Chancellor and the Director of Legal Aid Casework under these Regulations may be exercised by, or by an employee of, a person authorised for that purpose by the Lord Chancellor or the Director respectively.
+
+Part 2 makes provision in relation to payments by individuals who are in receipt of representation under section 16 of the Act for the purpose of Crown Court trials.
+
+Part 3 makes provision in relation to payments by individuals who are in receipt of representation under section 16 of the Act for the purpose of appeals to the Crown Court.
+
+Part 4 makes provision in relation to the enforcement of an obligation to make a payment imposed under section 23 of the Act.
+
+## Annotations
+
+[^f00001]: Footnote: Section 42(1) of the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) provides that in Part 1 of that Act “regulations” means Regulations made by the Lord Chancellor.
+
+[^f00002]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
+
+[^key-72db88ac886368e53865eef255fda029]: Commencement: Reg. 1 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-743e2238f5ec08bbeaae3c2c1764ea50]: Commencement: Reg. 2 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-1d7a95a152a2e00a07f579d2c76786fb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/483/regulation/2) inserted (28.7.2016) by [The Civil and Criminal Legal Aid (Financial Eligibility and Contributions) (Amendment) Regulations 2016 (S.I. 2016/708)](https://www.legislation.gov.uk/uksi/2016/708), [regs. 1](https://www.legislation.gov.uk/uksi/2016/708/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2016/708/regulation/8/2)
+
+[^key-952ed4599d85080a6657031d4816d4f1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/483/regulation/2) inserted (20.11.2024) by [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/4/2/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-a79ea518a17af8f521318e46e437641c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/483/regulation/2) substituted (20.11.2024) by [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/4/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-2d7db025c4ff0e3ca5d3fd31a54a11a9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/483/regulation/2) inserted (1.6.2015) by [The Criminal Legal Aid (Contribution Orders) (Amendment) Regulations 2015 (S.I. 2015/710)](https://www.legislation.gov.uk/uksi/2015/710), [regs. 1](https://www.legislation.gov.uk/uksi/2015/710/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/710/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/710/regulation/3))
+
+[^f00003]: Footnote: [S.I. 1998/1870](https://www.legislation.gov.uk/uksi/1998/1870), to which there are amendments not relevant to these Regulations.
+
+[^key-8d9c3f4c114fd6702efeab5594269cc2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/483/regulation/2) inserted (1.5.2019) by [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2019 (S.I. 2019/894)](https://www.legislation.gov.uk/uksi/2019/894), [regs. 1](https://www.legislation.gov.uk/uksi/2019/894/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/894/regulation/4/2)
+
+[^key-5060b224d93f2a6b1b9dabc9830d764c]: Commencement: Reg. 3 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^f00004]: Footnote: Section 6 of the Act (authorisations) makes provision for authorisations given for the purposes of section 5 of the Act (delegation) or regulations under that section.
+
+[^key-897a2984b8040f3d97dc60213e8a70a7]: Commencement: Reg. 4 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-d8aaba3ba191539d42e3dd48875d5edf]: Commencement: Reg. 5 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-40bc90e9acebbf97afc05fd7eee3bc85]: Commencement: Reg. 6 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-d85e95c6b8a87ac5e32b326307d9965c]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/483/regulation/6) substituted (27.1.2014) by [The Criminal Legal Aid (Contribution Orders) (Amendment) Regulations 2013 (S.I. 2013/2792)](https://www.legislation.gov.uk/uksi/2013/2792), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2792/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/2792/regulation/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/2792/regulation/8))
+
+[^key-c51fdf5fcfd8b113fdcea92360188070]: Commencement: Reg. 7 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-1a6b093b6400ae2806c5e2d21a927461]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2013/483/regulation/7/1) substituted (27.1.2014) by [The Criminal Legal Aid (Contribution Orders) (Amendment) Regulations 2013 (S.I. 2013/2792)](https://www.legislation.gov.uk/uksi/2013/2792), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2792/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2013/2792/regulation/5/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/2792/regulation/8))
+
+[^key-bc0de6ebde2b2e5a417955f935c14320]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2013/483/regulation/7/2) substituted (27.1.2014) by [The Criminal Legal Aid (Contribution Orders) (Amendment) Regulations 2013 (S.I. 2013/2792)](https://www.legislation.gov.uk/uksi/2013/2792), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2792/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2013/2792/regulation/5/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/2792/regulation/8))
+
+[^key-db131add183081e8dc5dbda23fb57bf9]: Textual amendment: Words in [reg. 7(3)(a)](https://www.legislation.gov.uk/uksi/2013/483/regulation/7/3/a) inserted (27.1.2014) by [The Criminal Legal Aid (Contribution Orders) (Amendment) Regulations 2013 (S.I. 2013/2792)](https://www.legislation.gov.uk/uksi/2013/2792), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2792/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2013/2792/regulation/5/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/2792/regulation/8))
+
+[^key-4b4b408565239925a510f4bb4e48e528]: Commencement: Reg. 8 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-77fa1b7c9b643299e2971ee674f944d7]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2013/483/regulation/8/1) substituted (27.1.2014) by [The Criminal Legal Aid (Contribution Orders) (Amendment) Regulations 2013 (S.I. 2013/2792)](https://www.legislation.gov.uk/uksi/2013/2792), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2792/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/2792/regulation/6) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/2792/regulation/8))
+
+[^key-ff3285879ac01bd62eb54e4dbd3c997a]: Commencement: Reg. 9 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^f00006]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 124 is to be repealed by Part 1 of Schedule 14 to the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) at a date to be appointed.
+
+[^f00007]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
+
+[^f00008]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^f00009]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705).
+
+[^f00010]: Footnote: [2002 c. 16](https://www.legislation.gov.uk/ukpga/2002/16).
+
+[^f00011]: Footnote: [2002 c. 14](https://www.legislation.gov.uk/nia/2002/14).
+
+[^f00012]: Footnote: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^f00013]: Footnote: [2007 c. 2](https://www.legislation.gov.uk/nia/2007/2).
+
+[^f00014]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^key-d070b58e5cdcd47076eadfa64b4898c7]: Textual amendment: Words in [reg. 9(3)(e)](https://www.legislation.gov.uk/uksi/2013/483/regulation/9/3/e) inserted (28.7.2016) by [The Civil and Criminal Legal Aid (Financial Eligibility and Contributions) (Amendment) Regulations 2016 (S.I. 2016/708)](https://www.legislation.gov.uk/uksi/2016/708), [regs. 1](https://www.legislation.gov.uk/uksi/2016/708/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2016/708/regulation/8/3)
+
+[^key-cc0e6b33d07583dd943fb041a10d10c1]: Commencement: Reg. 10 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^f00015]: Footnote: The Independent Living Fund is a discretionary trust established by deed and funded by grants made by the Secretary of State, whose trustees have power to make payments to assist certain severely disabled people to live independently.
+
+[^f00016]: Footnote: The Independent Living (Extension) Fund is a Trust established by deed dated 25th February 1993 and made between the Secretary of State for Social Security of the one part and Robin Glover Wendt and John Fletcher Shepherd of the other part.
+
+[^f00017]: Footnote: The Independent Living (1993) Fund is a Trust established by deed dated 25th February 1993 and made between the Secretary of State for Social Security of the one part and Robin Glover Wendt and John Fletcher Shepherd of the other part.
+
+[^f00018]: Footnote: The Independent Living Fund (2006) is a Trust established by deed dated 10th April 2006 and made between the Secretary of State for Work and Pensions of the one part and Margaret Rosemary Cooper, Michael Beresford Boyall and Marie Theresa Martin of the other part.
+
+[^f00019]: Footnote: [S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686). Article 15 of the Scheme, under which exceptionally severe disablement allowance is payable, was amended by paragraph 4 of Schedule 1 to the Personal Injuries (Civilians) Amendment Scheme 2001 ([S.I. 2001/420](https://www.legislation.gov.uk/uksi/2001/420)). Paragraph 4 of Schedule 3 to the Scheme, which sets out the rate at which exceptionally severe disablement allowance is payable was substituted by paragraph 1 of Schedule 1 to the Personal Injuries (Civilians) Scheme (Amendment) Order 2010 ([S.I. 2010/283](https://www.legislation.gov.uk/uksi/2010/283)).
+
+[^f00020]: Footnote: Section 68 was repealed by section 65 of, and Part 4 of Schedule 13 to, the Welfare Reform and Pensions Act 1999, but is subject to the savings provision specified in article 4 of the Welfare Reform and Pensions Act 1999 (Commencement No. 9, and Transitional and Savings Provisions) Order 2000 ([S.I. 2000/2958](https://www.legislation.gov.uk/uksi/2000/2958)).
+
+[^f00021]: Footnote: Section 68 was repealed by article 62 of, and paragraph 25 of Schedule 8 and Part 4 of Schedule 10 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999, but is subject to the savings provision specified in article 4 of the Welfare Reform and Pensions (1999 Order) (Commencement No. 6 and Transitional and Savings Provisions) Order (Northern Ireland) 2000 ([S.I. 2000/332 (C. 14)](https://www.legislation.gov.uk/uksi/2000/332)).
+
+[^f00022]: Footnote: Section 70 was amended to provide for carer’s allowance by articles 2 and 3 of, and paragraphs 1 and 2 of the Schedule to, the Regulatory Reform (Carer’s Allowance) Order 2002 ([S.I. 2002/1457](https://www.legislation.gov.uk/uksi/2002/1457)).
+
+[^f00023]: Footnote: Section 70 was amended to provide for carer’s allowance by article 3 of the Deregulation (Carer’s Allowance) Order (Northern Ireland) 2002 [S.R. (NI) 2002 No 321](https://www.legislation.gov.uk/nisr/2002/321).
+
+[^f00024]: Footnote: Section 71 is to be repealed by section 90 of the Welfare Reform Act 2012 at a date to be appointed.
+
+[^f00025]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 130 is to be repealed by Part 1 of Schedule 14 to the Welfare Reform Act 2012 at a date to be appointed.
+
+[^f00026]: Footnote: Section 131 is to be repealed by Part 1 of Schedule 14 to the Welfare Reform Act 2012 at a date to be appointed.
+
+[^key-f27dfda488260e709ccbe97945465d1c]: Textual amendment: [Reg. 10(2)(d)(ix)-(xi)](https://www.legislation.gov.uk/uksi/2013/483/regulation/10/2/d/ix) inserted (28.7.2016) by [The Civil and Criminal Legal Aid (Financial Eligibility and Contributions) (Amendment) Regulations 2016 (S.I. 2016/708)](https://www.legislation.gov.uk/uksi/2016/708), [regs. 1](https://www.legislation.gov.uk/uksi/2016/708/regulation/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2016/708/regulation/8/4/a)
+
+[^key-16dd239a6f3cf31ce2173f7f149383d4]: Textual amendment: Words in [reg. 10(2)(e)](https://www.legislation.gov.uk/uksi/2013/483/regulation/10/2/e) inserted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 45](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/45) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
+
+[^key-2770da62dd8860500809e2659669a2ff]: Textual amendment: Words in [reg. 10(2)(e)](https://www.legislation.gov.uk/uksi/2013/483/regulation/10/2/e) inserted (13.4.2015) by [The Legal Aid, Community Legal Service and Criminal Defence Service (Amendment) Regulations 2015 (S.I. 2015/838)](https://www.legislation.gov.uk/uksi/2015/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2015/838/regulation/10)
+
+[^f00027]: Footnote: [2001 c. 15](https://www.legislation.gov.uk/ukpga/2001/15). Section 57 was amended by section 146(1) to (7) of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14) and in relation to Wales, by section 16 of the Social Care Charges (Wales) Measure 2010.
+
+[^f00028]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 17A was substituted by section 58 of the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15); amended by section 39 of, and paragraph 1 and 3 of Schedule 3 to, the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23); section 160 of, and paragraph 1 of Schedule 14 to, the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14); section 60 of, and Schedule 6 to, the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21); section 47 of, and paragraphs 15 and 17 of Schedule 3 to, the Tax Credits Act 2002; and section 28(1) of, and paragraph 6(1) and (3) of Schedule 3 to, the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^key-92ad08fc5c83c23f6ae2097e845b7dd8]: Textual amendment: Words in [reg. 10(2)(e)](https://www.legislation.gov.uk/uksi/2013/483/regulation/10/2/e) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 157(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/157/a)
+
+[^f00029]: Footnote: [2002 c. 6](https://www.legislation.gov.uk/nia/2002/6).
+
+[^key-1ea58c5b255b3ceb689a95d0c0afa147]: Textual amendment: Words in [reg. 10(2)(e)](https://www.legislation.gov.uk/uksi/2013/483/regulation/10/2/e) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 157(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/157/b)
+
+[^key-9e857ff3533d1d7dd3d79bd494134388]: Textual amendment: Words in [reg. 10(2)(f)](https://www.legislation.gov.uk/uksi/2013/483/regulation/10/2/f) substituted (1.6.2015) by [The Criminal Legal Aid (Contribution Orders) (Amendment) Regulations 2015 (S.I. 2015/710)](https://www.legislation.gov.uk/uksi/2015/710), [regs. 1](https://www.legislation.gov.uk/uksi/2015/710/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/710/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/710/regulation/3))
+
+[^f00031]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606), to which there are amendments not relevant to these Regulations.
+
+[^f00032]: Footnote: [S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517), amended by [S.I. 2013/436](https://www.legislation.gov.uk/uksi/2013/436) to make provision in relation to armed forces independence payments.
+
+[^key-9dafab0b8cfdef3d6a98cbe93e240bb6]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2013/483/regulation/10/2) omitted (20.11.2024) by virtue of [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [4(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/4/3/a/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-372f1f8ebc465436fcb79a8b5fdd15cb]: Textual amendment: Words in [reg. 10(2)(i)](https://www.legislation.gov.uk/uksi/2013/483/regulation/10/2/i) inserted (28.7.2016) by [The Civil and Criminal Legal Aid (Financial Eligibility and Contributions) (Amendment) Regulations 2016 (S.I. 2016/708)](https://www.legislation.gov.uk/uksi/2016/708), [regs. 1](https://www.legislation.gov.uk/uksi/2016/708/regulation/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2016/708/regulation/8/4/b)
+
+[^key-bf2615a8f338aa342842d7bf8c5b674d]: Textual amendment: [Reg. 10(2)(j)](https://www.legislation.gov.uk/uksi/2013/483/regulation/10/2/j)[(k)](https://www.legislation.gov.uk/uksi/2013/483/regulation/10/2/k) inserted (1.5.2019) by [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2019 (S.I. 2019/894)](https://www.legislation.gov.uk/uksi/2019/894), [regs. 1](https://www.legislation.gov.uk/uksi/2019/894/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/894/regulation/4/3)
+
+[^key-5d5c7ea53a4ad1baf2efb22eda50036f]: Textual amendment: Word in [reg. 10(2)(j)](https://www.legislation.gov.uk/uksi/2013/483/regulation/10/2/j) omitted (10.1.2023) by virtue of [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2022 (S.I. 2022/1376)](https://www.legislation.gov.uk/uksi/2022/1376), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/4/2/a)
+
+[^key-ac050c70cdcc6f32df04b0441a6cea2a]: Textual amendment: [Reg. 10(2)(l)](https://www.legislation.gov.uk/uksi/2013/483/regulation/10/2/l)[(m)](https://www.legislation.gov.uk/uksi/2013/483/regulation/10/2/m) inserted (10.1.2023) by [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2022 (S.I. 2022/1376)](https://www.legislation.gov.uk/uksi/2022/1376), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/4/2/b)
+
+[^key-d61000ec1a09014cdbbdc3fde6f8dafe]: Textual amendment: [Reg. 10(2)(n)](https://www.legislation.gov.uk/uksi/2013/483/regulation/10/2/n)[(o)](https://www.legislation.gov.uk/uksi/2013/483/regulation/10/2/o) inserted (20.11.2024) by [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [4(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/4/3/a/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-7a8679d8bdfcd6103190ee210cb0f385]: Textual amendment: [Reg. 10(2A)-(2C)](https://www.legislation.gov.uk/uksi/2013/483/regulation/10/2A) inserted (20.11.2024) by [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/4/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-95020435ecc1a16903163acc1b62ab72]: Commencement: Reg. 11 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^f00033]: Footnote: [S.I. 1999/3110](https://www.legislation.gov.uk/uksi/1999/3110), to which there are amendments not relevant to these Regulations.
+
+[^f00034]: Footnote: [2006 c. 21](https://www.legislation.gov.uk/ukpga/2006/21).
+
+[^f00035]: Footnote: [2010 nawm 1](https://www.legislation.gov.uk/mwa/2010/1) (W.233).
+
+[^f00036]: Footnote: [S.I. 2010/2839](https://www.legislation.gov.uk/uksi/2010/2839).
+
+[^f00037]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
+
+[^f00038]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213), to which there are amendments not relevant to these Regulations.
+
+[^key-2f9be53f6ae922aa9c94c6f912f52b08]: Commencement: Reg. 12 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-3a77f52771c092950591a7e8eab58a2b]: Textual amendment: [Reg. 12(3)(a)](https://www.legislation.gov.uk/uksi/2013/483/regulation/12/3/a)[(b)](https://www.legislation.gov.uk/uksi/2013/483/regulation/12/3/b) substituted for reg. 12(3)(a)-(c) (5.10.2015) by [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/a), [6](https://www.legislation.gov.uk/uksi/2015/1678/regulation/6) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/10/1))
+
+[^key-edaec3d2839052b43dc09187148e1f0e]: Commencement: Reg. 13 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-ca9fa3796de3ed9060c22bd4ad95e42e]: Commencement: Reg. 14 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-f5f6a912658a59849decff1eaaaf72cc]: Commencement: Reg. 15 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-8fde51b7e6c658b640ef8d197b41aad6]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2013/483/regulation/15/2) substituted (1.4.2018) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2018 (S.I. 2018/220)](https://www.legislation.gov.uk/uksi/2018/220), [regs. 1](https://www.legislation.gov.uk/uksi/2018/220/regulation/1), [33(a)](https://www.legislation.gov.uk/uksi/2018/220/regulation/33/a) (with [reg. 34](https://www.legislation.gov.uk/uksi/2018/220/regulation/34))
+
+[^key-6b86f93a6832890ee52ef661e134b16c]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2013/483/regulation/15/2) substituted (1.4.2018) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2018 (S.I. 2018/220)](https://www.legislation.gov.uk/uksi/2018/220), [regs. 1](https://www.legislation.gov.uk/uksi/2018/220/regulation/1), [33(b)](https://www.legislation.gov.uk/uksi/2018/220/regulation/33/b) (with [reg. 34](https://www.legislation.gov.uk/uksi/2018/220/regulation/34))
+
+[^f00039]: Footnote: [S.I. 2013/435](https://www.legislation.gov.uk/uksi/2013/435).
+
+[^key-1c958b779028cc060868136baecc375f]: Commencement: Reg. 16 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-a5ede8b1a87961c5fc1f07eb8e8140a6]: Commencement: Reg. 17 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-cff5a9eb29d128d132af88247e15aecd]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2013/483/regulation/17) substituted (27.1.2014) by [The Criminal Legal Aid (Contribution Orders) (Amendment) Regulations 2013 (S.I. 2013/2792)](https://www.legislation.gov.uk/uksi/2013/2792), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2792/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/2792/regulation/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/2792/regulation/8))
+
+[^key-253f533dd078c6d55295344880970527]: Commencement: Reg. 18 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-629a6e6f99deee3a99471f434e414a5f]: Commencement: Reg. 19 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-4ac9fa1c500ceb007a5aa9ae84e6c40d]: Commencement: Reg. 20 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-ea4ee808010fb1ff1b5364e287ecfedd]: Commencement: Reg. 21 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-3b8c11fad49ab5eb91e6f4fe3d625747]: Commencement: Reg. 22 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-51889e8b47079c8a94f50646dfe3e511]: Commencement: Reg. 23 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-a322d280abccfc1f80bbcb84a711ebc5]: Commencement: Reg. 24 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-b2f39299177c7bb2f04183e5d582357b]: Commencement: Reg. 25 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-a188512a40ca76490a4da0bea0cd53f2]: Textual amendment: Words in [reg. 25(c)](https://www.legislation.gov.uk/uksi/2013/483/regulation/25/c) substituted (27.1.2014) by [The Criminal Legal Aid (Contribution Orders) (Amendment) Regulations 2013 (S.I. 2013/2792)](https://www.legislation.gov.uk/uksi/2013/2792), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2792/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/2792/regulation/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/2792/regulation/8))
+
+[^key-ddb606fec4f137ad04930142bd5c6b4c]: Commencement: Reg. 26 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-4538d63b45eaa61393aa9f8e48394994]: Commencement: Reg. 27 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-8ac541b0e85cce2841d94752ef35ea5f]: Commencement: Reg. 28 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-6c2e7e26e20191d9e24904b9534a9a70]: Textual amendment: Words in [reg. 28(3)](https://www.legislation.gov.uk/uksi/2013/483/regulation/28/3) substituted (20.11.2024) by [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/4/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-c2d7a310af8edf2635ae6f3caa970fe8]: Textual amendment: Words in [reg. 28(3)](https://www.legislation.gov.uk/uksi/2013/483/regulation/28/3) inserted (1.5.2019) by [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2019 (S.I. 2019/894)](https://www.legislation.gov.uk/uksi/2019/894), [regs. 1](https://www.legislation.gov.uk/uksi/2019/894/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2019/894/regulation/4/4/a)
+
+[^key-efc379aad7da6165e9579fc10b9cd813]: Textual amendment: Words in [reg. 28(3)(b)](https://www.legislation.gov.uk/uksi/2013/483/regulation/28/3/b) inserted (1.6.2015) by [The Criminal Legal Aid (Contribution Orders) (Amendment) Regulations 2015 (S.I. 2015/710)](https://www.legislation.gov.uk/uksi/2015/710), [regs. 1](https://www.legislation.gov.uk/uksi/2015/710/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2015/710/regulation/2/4/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/710/regulation/3))
+
+[^key-21968e05f1a57400ab020385b9e131e0]: Textual amendment: [Reg. 28(3A)](https://www.legislation.gov.uk/uksi/2013/483/regulation/28/3A) inserted (1.6.2015) by [The Criminal Legal Aid (Contribution Orders) (Amendment) Regulations 2015 (S.I. 2015/710)](https://www.legislation.gov.uk/uksi/2015/710), [regs. 1](https://www.legislation.gov.uk/uksi/2015/710/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2015/710/regulation/2/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/710/regulation/3))
+
+[^key-b1e7154b96693ba06f7840279a21877f]: Textual amendment: [Reg. 28(3B)](https://www.legislation.gov.uk/uksi/2013/483/regulation/28/3B) inserted (1.5.2019) by [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2019 (S.I. 2019/894)](https://www.legislation.gov.uk/uksi/2019/894), [regs. 1](https://www.legislation.gov.uk/uksi/2019/894/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2019/894/regulation/4/4/b)
+
+[^key-0ee98a9853454f6ca1c417c23fd12e57]: Textual amendment: Word in [reg. 28(3B)(a)](https://www.legislation.gov.uk/uksi/2013/483/regulation/28/3B/a) omitted (10.1.2023) by virtue of [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2022 (S.I. 2022/1376)](https://www.legislation.gov.uk/uksi/2022/1376), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/4/3/a)
+
+[^key-5b6661f2bab5d6b7ba9213930e435d1b]: Textual amendment: [Reg. 28(3B)(c)](https://www.legislation.gov.uk/uksi/2013/483/regulation/28/3B/c)[(d)](https://www.legislation.gov.uk/uksi/2013/483/regulation/28/3B/d) inserted (10.1.2023) by [The Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2022 (S.I. 2022/1376)](https://www.legislation.gov.uk/uksi/2022/1376), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2022/1376/regulation/4/3/b)
+
+[^key-12202c02d2784601e60c3e819967f53a]: Textual amendment: [Reg. 28(3B)(e)](https://www.legislation.gov.uk/uksi/2013/483/regulation/28/3B/e)[(f)](https://www.legislation.gov.uk/uksi/2013/483/regulation/28/3B/f) inserted (20.11.2024) by [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/4/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-86531b53409ed745fa26b7e812d0678d]: Textual amendment: [Reg. 28(3C)-(3E)](https://www.legislation.gov.uk/uksi/2013/483/regulation/28/3C) inserted (20.11.2024) by [The Civil and Criminal Legal Aid (Financial Resources and Contribution Orders) (Amendment) Regulations 2024 (S.I. 2024/1074)](https://www.legislation.gov.uk/uksi/2024/1074), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/1/1), [4(4)(c)](https://www.legislation.gov.uk/uksi/2024/1074/regulation/4/4/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/1074/regulation/5))
+
+[^key-383d0e0f9c9939003f392d17c1eced39]: Commencement: Reg. 29 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-500405607f81ac4bbbbdc897ce975099]: Commencement: Reg. 30 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-49663fa707c570bc5d7a748ab476d65f]: Commencement: Reg. 31 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-ec8608df3b76fee33da0f7f62cf2991e]: Commencement: Reg. 32 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-5d922e00e14855a1a7f8b601fd4e74ae]: Textual amendment: Words in [reg. 32(1)(d)](https://www.legislation.gov.uk/uksi/2013/483/regulation/32/1/d) inserted (1.6.2015) by [The Criminal Legal Aid (Contribution Orders) (Amendment) Regulations 2015 (S.I. 2015/710)](https://www.legislation.gov.uk/uksi/2015/710), [regs. 1](https://www.legislation.gov.uk/uksi/2015/710/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2015/710/regulation/2/5/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/710/regulation/3))
+
+[^key-fad17a0fe4ca2e946bbc6a7637d3dd66]: Textual amendment: [Reg. 32(1A)-(1C)](https://www.legislation.gov.uk/uksi/2013/483/regulation/32/1A) inserted (1.6.2015) by [The Criminal Legal Aid (Contribution Orders) (Amendment) Regulations 2015 (S.I. 2015/710)](https://www.legislation.gov.uk/uksi/2015/710), [regs. 1](https://www.legislation.gov.uk/uksi/2015/710/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2015/710/regulation/2/5/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/710/regulation/3))
+
+[^key-01e1c3e5a113adb041e5dc87769a901e]: Commencement: Reg. 33 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-53ae147ae70c360eabd4964d2ac0c98d]: Commencement: Reg. 34 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-c565d3982acd2e0652d7be1e5417fc7a]: Textual amendment: Words in [reg. 34](https://www.legislation.gov.uk/uksi/2013/483/regulation/34) substituted (27.1.2014) by [The Criminal Legal Aid (Contribution Orders) (Amendment) Regulations 2013 (S.I. 2013/2792)](https://www.legislation.gov.uk/uksi/2013/2792), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2792/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/2792/regulation/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/2792/regulation/8))
+
+[^key-e75f3e4830729f498253021318cffe31]: Commencement: Reg. 35 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-ec3b5dd9a7ddc1fac0094bff93958b87]: Commencement: Reg. 36 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-d3c47fd031aec06a2becc4fc2edd2c6d]: Commencement: Reg. 37 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-3d8d3fb455a5a337185fdcfe53a12901]: Commencement: Reg. 38 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-897aff44e0fb99705047a99fbe8b3c48]: Commencement: Reg. 39 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-cbe4d841d565a8f7ac28be0859b96a47]: Commencement: Reg. 40 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^f00040]: Footnote: [S.I. 2013/9](https://www.legislation.gov.uk/uksi/2013/9).
+
+[^key-e194e0e0edaf1f2d22c1ecbe791ba572]: Commencement: Reg. 41 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-334511a6b1c2dcaa5403101ec6392640]: Commencement: Reg. 42 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-ee402a422cdb745e2e72e10effef8a57]: Commencement: Reg. 43 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-3129a4d952ecd4f545eeb9c250dd8890]: Commencement: Reg. 44 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-6f4bb4e474f99af8361a0888eab38e8c]: Commencement: Reg. 45 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-2d8d0adf54db9b4d6f4f8e9d6d517d4f]: Commencement: Reg. 46 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^f00041]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Section 58 was amended by section 33 of, paragraph 80 of Schedule 2 to, and paragraphs 1 and 6 of Schedule 3 to the Family Law Reform Act [1987 (c. 42)](https://www.legislation.gov.uk/ukpga/1987/42).
+
+[^key-15d14d2ac129cc05effb788be90e4e20]: Commencement: Sch. para. 1 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-960a506c4dcc5194e3915c478db5726a]: Commencement: Sch. para. 2 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-7a5c16419b72ad9de296419ea1e789ba]: Commencement: Sch. para. 3 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)
+
+[^key-119bf416826e488d44050228825ce1d1]: Commencement: Sch. para. 4 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/483/regulation/1)

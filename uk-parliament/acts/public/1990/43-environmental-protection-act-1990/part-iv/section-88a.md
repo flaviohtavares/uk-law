@@ -1,0 +1,79 @@
+---
+title: Environmental Protection Act 1990, section 88A
+act: Environmental Protection Act 1990
+section: 88A
+status: revised-with-pending-changes
+text_date: '2026-10-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1990/43/section/88A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Environmental Protection Act 1990, section 88A
+
+> **Warning: changes not yet applied to this text (25).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 88A. Littering from vehicles: civil penalty regime[^key-65537dfba7e77a54d329836e8cff4010]
+
+*Extent: E+W*
+
+(1) The Secretary of State may make regulations under which the keeper of a vehicle may be required to pay a fixed penalty to a litter authority where there is reason to believe that a littering offence in England has been committed in respect of the vehicle.
+
+(2) A littering offence is committed in respect of a vehicle if an offence under section 87(1) occurs as a result of litter being thrown, dropped or otherwise deposited from the vehicle (whether or not by the vehicle's keeper).
+
+(3) Regulations under this section must make provision—
+
+- (a) setting the amount of fixed penalties or specifying how the amount is to be determined;
+- (b) about the period within which fixed penalties must be paid;
+- (c) for payment within that period of a fixed penalty imposed for a littering offence committed in respect of a vehicle to discharge any liability for conviction for the offence (whether on the part of the keeper or anybody else);
+- (d) for a fixed penalty to be payable by the keeper of a vehicle only if a written notice is given to the keeper (“a penalty notice”);
+- (e) about the persons authorised to give penalty notices;
+- (f) about the procedure to be followed in giving penalty notices;
+- (g) about the form and content of penalty notices;
+- (h) conferring rights to make representations about, and to bring appeals against, penalty notices.
+
+(4) Provision under subsection (3)(e) may authorise a person to give a penalty notice for a littering offence committed in respect of a vehicle only if—
+
+- (a) the person is under a duty under section 89(1) in respect of the land where the offence is committed (and that person is a “**litter authority**” in relation to a fixed penalty payable under the regulations), or
+- (b) the person is an authorised officer of a litter authority,
+
+and regulations under this section may include provision about the meaning of “authorised officer”.
+
+(5) Regulations under this section may include provision—
+
+- (a) for the enforcement of penalty notices (and such provision may in particular authorise an unpaid fixed penalty to be recovered summarily as a civil debt or as if payable under an order of a court if the court so orders);
+- (b) about the application of sums paid under penalty notices (and such provision may in particular authorise sums paid to a litter authority to be applied for the purposes of such functions of the authority as the regulations may specify);
+- (c) about the application of the regulations to keepers of vehicles in the public service of the Crown.
+
+(6) Regulations under this section may, in consequence of any provision contained in the regulations, amend—
+
+- (a) this Part, or
+- (b) Part 2 of the London Local Authorities Act 2007.
+
+(7) Regulations under this section may—
+
+- (a) make provision corresponding or similar to any provision made by or under section 88;
+- (b) make provision subject to exceptions;
+- (c) include saving, transitional, transitory, supplementary or consequential provision.
+
+(8) Provision of the kind mentioned in subsection (7)(a) may include provision—
+
+- (a) conferring a discretion on a litter authority, subject to such constraints or limitations as the regulations may specify (whether or not of a corresponding or similar kind to those mentioned in section 97A(2));
+- (b) creating an offence of the kind mentioned in section 88(8B) and (8C),
+
+but may not include provision conferring power on a person to make orders or regulations.
+
+(9) In this section—
+
+- “**keeper**”, in relation to a vehicle, means the person by whom the vehicle is kept at the time when the littering offence in question occurs, which in the case of a registered vehicle is to be presumed, unless the contrary is proved, to be the registered keeper;
+- “**litter authority**” has the meaning given in subsection (4)(a);
+- “**registered keeper**”, in relation to a registered vehicle, means the person in whose name the vehicle is registered;
+- “**registered vehicle**” means a vehicle which is for the time being registered under the Vehicle Excise and Registration Act 1994;
+- “**vehicle**” means a mechanically-propelled vehicle or a vehicle designed or adapted for towing by a mechanically-propelled vehicle.
+
+## Annotations
+
+[^key-65537dfba7e77a54d329836e8cff4010]: Textual amendment: S. 88A inserted (E.W.) (25.10.2017) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 154(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/154/2), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2017/1018](https://www.legislation.gov.uk/uksi/2017/1018), [art. 2](https://www.legislation.gov.uk/uksi/2017/1018/article/2)

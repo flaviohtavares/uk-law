@@ -1,0 +1,636 @@
+---
+title: The Lancashire Combined County Authority Regulations 2025
+id: uksi/2025/118
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-02-04'
+text_date: '2026-07-22'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2025/118
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2025/118/pdfs/uksiem_20250118_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2025/118/pdfs/uksi_20250118_en.pdf
+- http://www.legislation.gov.uk/uksi/2025/118/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Lancashire Combined County Authority Regulations 2025
+
+> Text as at 2026-07-22.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2025 No. 118
+
+Local Government, England
+
+Transport, England
+
+The Lancashire Combined County Authority Regulations 2025
+
+Made
+
+4th February 2025
+
+Coming into force -
+
+5th February 2025
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 9(1), 10(1), (4) and (7), 13(1), (2) and (3), 16(1), 18(1), (3), (4) and (5), 19(1), (2) and (3), 52(1), 53(1), 252(1) and (2) of and paragraph 3 of Schedule 1 to the Levelling-up and Regeneration Act 2023[^f00001] (“**the 2023 Act**”).
+
+The Secretary of State, having regard to a proposal prepared and published under section 45 of the 2023 Act, considers that—
+
+- (a) the functions conferred on the Combined County Authority by these Regulations can appropriately be exercised by that Authority,
+- (b) the making of these Regulations is likely to improve the economic, social and environmental well-being of some or all of the people who live or work in the area to which the Regulations relate,
+- (c) the making of these Regulations is appropriate having regard to the need—
+  - (i) to secure effective and convenient local government, and
+  - (ii) to reflect the identities and interests of local communities,
+- (d) the making of these Regulations will achieve the purposes specified under section 45(7) of the 2023 Act, and
+- (e) any consultation required by section 45(4) of the 2023 Act has been carried out.
+
+In accordance with sections 10(8), 16(2)(a), 18(6)(a), 20(2)(b), 46(1)(d) and 52(2) of the 2023 Act the councils of the local government areas of Lancashire, Blackpool and Blackburn with Darwen have consented to the making of these Regulations.
+
+In accordance with section 20(6) of the 2023 Act, the Secretary of State has laid before Parliament a report explaining the effect of these Regulations and why the Secretary of State considers it appropriate to make these Regulations.
+
+A draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament pursuant to section 252(4) of the 2023 Act.
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-6e0ce43f22dcc5e2e03188c9143b2b1e]
+
+(1) These Regulations may be cited as the Lancashire Combined County Authority Regulations 2025.
+
+(2) These Regulations come into force on the day after the day on which they are made.
+
+### 2. Interpretation[^key-7047dded979ab9a304b6b7d1168aa260]
+
+In these Regulations—
+
+- “**the 1980 Act**” means the Highways Act 1980[^f00002];
+- [^key-3bd196aa63f369ede0442e38cf363b16]...
+- [^key-c2eef27d002b4b57e7c3e5ab17cf4186]...
+- [^key-0bcc4b5e148d66ebd0c0c686d93b2300]...
+- “**the 2000 Act**” means the Transport Act 2000[^f00006];
+- [^key-4512163685e17dd7192941fa2c6e3a3e]...
+- “**the 2004 Act**” means the Traffic Management Act 2004[^f00008];
+- [^key-0d5c2909626661802f75254b5a7dd861]...
+- [^key-5cb6a94ec0a4a44f3292b9d9937caa53]...
+- “**the 2023 Act**” means the Levelling-up and Regeneration Act 2023[^f00011];
+- “**the Area**” means the area consisting of the areas of the constituent councils;
+- “**Combined County Authority**” means the Lancashire Combined County Authority as constituted by regulation 3;
+- “**constituent councils**” means the councils for the local government areas[^f00012] of Lancashire, Blackpool and Blackburn with Darwen;
+- “**district councils**” means Burnley Borough Council, Chorley Borough Council, Fylde Borough Council, Hyndburn Borough Council, Lancaster City Council, Pendle Borough Council, Preston City Council, Ribble Valley Borough Council, Rossendale Borough Council, South Ribble Borough Council, West Lancashire Borough Council and Wyre Borough Council;
+- [^key-0b5525cd7fd385988ad10865d2879dc9]...
+- [^key-7ba95dd5cf8b0b92dcf8ec0b4ba3e443]... “**local highway authority**” has[^key-dcd28306d090965ca8d142067c8da1b5] the same meaning as in section[^key-34a3da06ff2a80ccd87ec38b63792391] 329(1) of the 1980 Act[^f00013];
+- [^key-204ea07af7969cb98a43d6d1596539bf]...
+
+## PART 2 — Establishment of a combined county authority for Lancashire
+
+### 3. Establishment[^key-272819573f04112601726f97f7fcd323]
+
+(1) There is established a combined county authority for the Area.
+
+(2) The combined county authority is to be a body corporate and is to be known as the Lancashire Combined County Authority.
+
+(3) The functions of the Combined County Authority are those functions conferred or imposed upon it by or under these Regulations or any other enactment (whenever passed or made), or as may be delegated to it by or under these Regulations or any other enactment (whenever passed or made).
+
+### 4. Constitution[^key-94c1ce477f497a81a57141732f8395f7]
+
+Schedule 1 makes provision about the constitution of the Combined County Authority.
+
+## PART 3 — Housing, regeneration and planning[^key-897596b39a391d46911cd66aa4f90718]
+
+**No longer in force.**
+
+### 5. Conferral of functions corresponding to functions that the HCA has in relation to the Area
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Acquisition and appropriation of land for planning and public purposes
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Condition on the exercise of the functions conferred by regulations 5 and 6
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Application of certain provisions of the 1985 Act, the 1990 Act and the 2008 Act
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Transport
+
+### 9. Local transport functions under the Transport Act 1985[^key-392b1abc971eb9b6f0e6022f567e26a3]
+
+(1)[^key-6cd55e5ccd2fa18b2d1c70ec337167f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-6cd55e5ccd2fa18b2d1c70ec337167f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-6cd55e5ccd2fa18b2d1c70ec337167f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The functions specified in—
+
+- (a) sections 57 to 92;
+- (b) sections 106 and 106A[^f00024],
+
+of the Transport Act 1985 are exercisable by the Combined County Authority concurrently with the constituent councils.
+
+### 10. Local transport functions under the Transport Act 2000[^key-25b89c152ac39826991043567bde113e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Agreements between authorities and strategic highways companies[^key-523a343c18e492d4aa92b9cdb78b1bae]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Civil enforcement of road traffic contraventions[^key-efde037c873bd84a0a3199c670be3a65]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Workplace parking levy[^key-82cfc28d1ba4da98d6835303aeafa0bf]
+
+(1) The functions of the constituent councils as licensing authorities specified in the following enactments are exercisable by the Combined County Authority in relation to the Area—
+
+- (a) Chapters 2 (workplace parking levy) and 3 (general and supplementary) of Part 3 (road user charging and workplace parking levy) of the 2000 Act;
+- (b) the Workplace Parking Levy (England) Regulations 2009[^f00038].
+
+(2) The functions mentioned in paragraph (1) are exercisable by the Combined County Authority concurrently with the constituent councils.
+
+(3) Any exercise of the functions conferred by paragraph (1) requires the consent of each constituent council in whose area it is proposed that the function is to be exercised.
+
+(4) In paragraph (1), “**licensing authorities**” has the meaning given to “licensing authority” by section 178(6) of the 2000 Act (preliminary).
+
+### 14. Permit schemes[^key-7a053d5ab4a9ea4eb8fcdd342cb0f30f]
+
+(1) The functions of the constituent councils as local highway authorities specified in the following provisions of the 2004 Act are exercisable by the Combined County Authority in relation to the Area—
+
+- (a) section 33 (preparation of permit schemes)[^f00039];
+- (b) section 33A (implementation of permit schemes of strategic highways companies and local highway authorities in England)[^f00040];
+- (c) section 36 (variation and revocation of permit schemes)[^f00041].
+
+(2) The functions of the constituent councils as Permit Authorities specified in the 2007 Regulations are exercisable by the Combined County Authority in relation to the Area.
+
+(3) The functions mentioned in paragraphs (1) and (2) are exercisable by the Combined County Authority concurrently with the constituent councils.
+
+(4) Part 3 of the 2004 Act (permit schemes) applies in relation to the preparation, implementation, variation and revocation of permit schemes by the Combined County Authority as it applies in relation to the preparation, implementation, variation and revocation of permit schemes by a constituent council as a local highway authority, subject to the modifications in Schedule 3 to these Regulations.
+
+(5) References in the 2007 Regulations to a Permit Authority are to be read as including references to the Combined County Authority.
+
+(6) Any exercise of the functions conferred by paragraphs (1) and (2) requires the consent of each constituent council in whose area it is proposed that the functions are to be exercised.
+
+(7) In this regulation—
+
+- (a) “**the 2007 Regulations**” means the Traffic Management Permit Scheme (England) Regulations 2007[^f00042];
+- (b) “**Permit Authority**” has the same meaning as in regulation 2(1) of the 2007 Regulations;
+- (c) “**permit scheme**” is to be construed in accordance with section 32 of the 2004 Act (meaning of “**permit scheme**”).
+
+### 15. Power to pay grant[^key-b5f7e7f62b473f4867e1d9b6530380db]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Amendment of the Sub-national Transport Body (Transport for the North) Regulations 2018[^key-1e64e20a7fadbad22a7b282e70f3fe0c]
+
+(1) The Sub-national Transport Body (Transport for the North) Regulations 2018[^f00043] are amended in accordance with paragraph (2).
+
+(2) In regulation 2(1) (interpretation) in the definition of “constituent authorities”—
+
+- (a) omit “Blackburn with Darwen Borough Council”, “Blackpool Borough Council” and “Lancashire County Council”;
+- (b) in the appropriate place insert “Lancashire Combined County Authority”.
+
+## PART 5 — Additional functions
+
+### 17. Assessment of economic conditions[^key-70c958e4efd93885c1fc442752d60237]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. General power of competence in relation to economic development and regeneration[^key-d215387a7c9581dc4c4b1f5e96bc4a45]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Data sharing[^key-e7e43a94977e64a4e548d02baf739ac0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Incidental provisions[^key-7a032d2cf59caca8c16bdd575716665a]
+
+The following provisions of the Local Government Act 1972[^f00047] have effect in relation to the Combined County Authority as if it were a local authority—
+
+- (a) section 113 (power to place staff at the disposal of other local authorities)[^f00048];
+- (b)[^key-39654d7f3410d46fbad03cbfeda75078] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-39654d7f3410d46fbad03cbfeda75078] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-39654d7f3410d46fbad03cbfeda75078] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^key-39654d7f3410d46fbad03cbfeda75078] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21.**[^key-3527862a19fe5a2f80fce17a5e2ba139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**22.**[^key-30e152a36dd1c507f5f0c5fbff36ff29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**23.**[^key-05d328dbfa298106669e7879ef0317e9] In Part 2 of Schedule 3 (pension funds) to the Local Government Pension Scheme Regulations 2013[^f00054] in the table insert at the end—
+
+> |  |  |
+> | --- | --- |
+> | An employee of the Lancashire Combined County Authority established by the Lancashire Combined County Authority Regulations 2025 | Lancashire County Council |
+
+.
+
+## PART 6 — Funding
+
+### 24. Funding, including levy funding[^key-2dc28c7ccd53497c40ab8a2b2a92eee8]
+
+(1) [^key-5d8e844ad1be478690e685d9a6e998f2]... The constituent councils must ensure that the costs of the Combined County Authority reasonably attributable to the exercise of its functions are met.
+
+(2) Any amount payable by each of the constituent councils is to be determined by apportioning the costs of the Combined County Authority referred to in paragraph (1) between the constituent councils in such proportions as they may agree or, in default of such agreement, in the following shares between the constituent councils—
+
+- Lancashire - 2/3;
+- Blackpool - 1/6;
+- Blackburn with Darwen - 1/6.
+
+(3)[^key-d72e8a97c6b54a99d952d77a7251e191] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Jim McMahon
+
+Minister of State
+
+Ministry of Housing, Communities and Local Government
+
+4th February 2025
+
+SCHEDULES
+
+## SCHEDULE 1 — Constitution
+
+Regulation 4
+
+### 1. Membership[^key-a817511845de51db38657aa803719100]
+
+(1) Subject to paragraph (2), each constituent council must appoint one of its elected members to be a member of the Combined County Authority.
+
+(2) Lancashire County Council must appoint two of its elected members to be members of the Combined County Authority and designate one of them as the lead member.
+
+(3) Each constituent council must appoint another two of its elected members to act as members of the Combined County Authority in the absence of any of the members they appointed under sub-paragraph (1) or (2) (“substitute member”).
+
+(4) Only one substitute member may replace a member appointed under sub-paragraph (1) or (2) at any time.
+
+(5) A person ceases to be a member or substitute member of the Combined County Authority if they cease to be a member of the constituent council that appointed them.
+
+(6) A person may resign as a member or substitute member of the Combined County Authority by written notice served on the proper officer of the constituent council that appointed them, and the resignation takes effect on receipt of the notice by the proper officer of the council.
+
+(7) Where a member or substitute member of the Combined County Authority’s appointment ceases by virtue of sub-paragraph (5) or (6) the constituent council that made the appointment must, as soon as practicable, give written notice of that fact to the Combined County Authority and appoint another of its elected members in that person’s place.
+
+(8) A constituent council may at any time terminate the appointment of a member or substitute member appointed by it to the Combined County Authority and appoint another one of its elected members in that person’s place.
+
+(9) Where a constituent council exercises its power under sub-paragraph (8), it must give written notice of the new appointment and the termination of the previous appointment to the Combined County Authority and the new appointment takes effect and the previous appointment terminates at the end of one week from the date on which the notice is given or such longer period not exceeding one month as is specified in the notice.
+
+(10) The term “proper officer” in this paragraph is to be construed as a reference to an officer appointed by the relevant constituent council for that purpose.
+
+### 2. Non-constituent and associate members[^key-e9cefd96c295c8f4439e97e0cd883ede]
+
+(1) The Combined County Authority must have no more than four (in total) non-constituent members and associate members.
+
+(2) Each nominating body of the Combined County Authority must nominate another person to act as the member of the Combined County Authority in the absence of the member appointed under section 11(3) of the 2023 Act (non-constituent members of a CCA).
+
+(3) An associate member appointed under section 12(1) of the 2023 Act (associate members of a CCA) must nominate another person to act as a member of the Combined County Authority in their absence.
+
+### 3. Chair and vice-chair[^key-0ba6a3e4b4a1bf717385da2251eb678b]
+
+(1) The Combined County Authority must in each year appoint a chair and a vice-chair from among its constituent members[^f00057] and the appointments are to be the first business transacted after the appointment of members of the Combined County Authority, at the first meeting of the Combined County Authority, and in subsequent years at the annual meeting of the Combined County Authority.
+
+(2) An appointment under paragraph (1) may include a reappointment.
+
+(3) The chair and vice-chair must not have been appointed by the same constituent council.
+
+(4) A person ceases to be chair or vice-chair of the Combined County Authority if they cease to be a constituent member of the Combined County Authority.
+
+(5) If a vacancy arises in the office of chair or vice-chair, an appointment to fill the vacancy is to be made at the next ordinary meeting of the Combined County Authority, or, if that meeting is to be held within 14 days of the vacancy arising, at the meeting following that meeting.
+
+### 4. Proceedings[^key-d82cabf87dcc9b22a0da586ea3fb28c1]
+
+(1)[^key-24b51568231342a4e04a64d6381da880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) No business shall be transacted at a meeting of the Combined County Authority unless at least one member or substitute member appointed by each of the constituent authorities are present at the meeting.
+
+(3) For the purposes of paragraph (2), one of the members present must be the chair or vice-chair.
+
+(4)[^key-cebdad5209c9302faf69d0d4b4d31d95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-1ec7878db2489c57bcd6627db6cbc26a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Questions relating to the following matters require a unanimous vote in favour by all four members, or substitute members acting in place of those members, to be carried—
+
+- (a) approval or amendment of the Combined County Authority’s budget;
+- (b) appointment of the Combined County Authority’s chief executive;
+- (c) adoption of any local transport plan under section 108(3) of the 2000 Act;
+- (d) approval or amendment of the Combined County Authority’s constitution or standing orders;
+- (e)[^key-726f5b0f4703f91082cd92cfcaca6ad4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6A)[^key-0e7f16d2d792ff8552bb14aa33de7d8f] Where—
+
+- (a) section 24E of the 2023 Act (non-mayoral CCA: functions imposing financial liability) applies to the Combined County Authority, and
+- (b) Lancashire County Council is a relevant constituent council,
+
+the requirement in section 24E(2) of the 2023 Act is only satisfied in respect of Lancashire County Council if consent is given by the member designated as the lead member in accordance with paragraph 1(2), or a substitute member acting in place of that member.
+
+(7)[^key-525985aa6f952e4dcd80a201952977ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-d93745eba7a5658082a6102933b43b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) For questions relating to the following matters, the simple majority for the purposes of section 13A(2) of the 2023 Act[^key-b84a5ab763bef021210bf952f9f75f04] must include the member appointed by Blackpool Borough Council or a substitute member acting in place of that member—
+
+- (a) any question which could result in a financial liability accruing to BTS Ltd;
+- (b) any question which could have an impact on BTS Ltd which is significant, material and direct, as provided for in the Combined County Authority’s standing orders.
+
+(10)[^key-72469a9aa4e4a4393e45c1b15efdf06b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11) In this paragraph “**BTS Ltd**” means Blackpool Transport Services Limited (company registration number 02003020) and includes any successor—
+
+- (a) to its bus undertaking that is a public transport company within the meaning of section 72 of the Transport Act 1985[^f00058];
+- (b) to the tramways undertaking maintained by Blackpool Borough Council under Head B of Part 12 of the County of Lancashire Act 1984[^f00059].
+
+### 5. Remuneration[^key-e359c05d47bcbc05b932405a6a7e40ea]
+
+Subject to paragraphs 6 to 7A, no remuneration or allowances are to be payable by the Combined County Authority to its members, other than—
+
+- (a) allowances for travel and subsistence paid in accordance with a scheme drawn up by the Combined County Authority;
+- (b) allowances payable in accordance with a scheme made under section 52A of the 2023 Act.
+
+**6.**[^key-ebff67e0a74b04a2fe0db9d5d7da91ea] The Combined County Authority may pay an allowance to—
+
+- (a) members of the overview and scrutiny committee and any sub-committee of that committee;
+- (b) members of the audit committee.
+
+**7.**[^key-2a4e02c41c487f9ccae6f6de854e6c37] (1) The Combined County Authority may only pay an allowance to the people listed in paragraph 6 if—
+
+- (a) the Combined County Authority has—
+  - (i) established an independent remuneration panel under article 16 of the Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) Order 2017[^f00060], and
+  - (ii) considered a report published by the independent remuneration panel established under sub-paragraph (a) which contains recommendations for such an allowance, and
+- (b) the allowance paid does not exceed the amount specified in the recommendation made by the independent remuneration panel.
+
+(2) Article 16(2)(a) of the Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) Order 2017 applies in relation to the Combined County Authority as if after “sub-committee of that authority” there were inserted “or a member of a constituent council or a member of a district council”.
+
+**7A.**[^key-8ded485fed14ccf1a8c0f35ea930ce3c] Where the Combined County Authority pays a relevant allowance to a person—
+
+- (a) that person is entitled to a pension paid in accordance with a scheme established under section 1 of the Public Service Pensions Act 2013;
+- (b) that allowance is to be treated as an amount in respect of which such a pension is payable in accordance with that scheme; and
+- (c) the Combined County Authority must make such payments as may be required in respect of pension payable to a person in relation to that allowance.
+
+**7B.**[^key-7e49f660b3d13089246f22bcdc397c9f] In paragraph 7A, “relevant allowance” means—
+
+- (a) an allowance payable under paragraph 6 to any person referred to in that paragraph, which is not an allowance for travel and subsistence;
+- (b) an allowance payable in accordance with a scheme made under section 52A of the 2023 Act.
+
+**8.**[^key-e399272e25e8e0d949f9840e6867552e] The Combined County Authority must appoint an independent person[^f00061] to be the chair of the overview and scrutiny committee appointed by the Combined County Authority.
+
+### 9. Records[^key-8385f177b6963bd199a2780cc539e2d6]
+
+(1) The Combined County Authority must make arrangements for the names of members and substitute members present at any meeting to be recorded.
+
+(2) Minutes of the proceedings of a meeting of the Combined County Authority, or any committee or sub-committee of the Combined County Authority, are to be kept in such form as the Combined County Authority may determine.
+
+(3) Any such minutes are to be signed at the same or next suitable meeting of the Combined County Authority, committee or sub-committee as the case may be, by the person presiding at that meeting.
+
+(4) Any minute purporting to be signed as mentioned in sub-paragraph (3) is to be received in evidence without further proof.
+
+(5) Until the contrary is proved, a meeting of the Combined County Authority, committee or sub-committee, a minute of whose proceedings has been signed in accordance with this paragraph, is deemed to have been duly convened and held, and all the members and substitute members present at the meeting are deemed to have been duly qualified.
+
+(6) For the purposes of sub-paragraph (3) the next suitable meeting is the next following meeting or, where standing orders made by the Combined County Authority provide for another meeting of the authority, committee or sub-committee to be regarded as suitable, either the next following meeting or that other meeting.
+
+### 10. Standing orders[^key-b3b0ae512a02b53126770bb930914aa6]
+
+The Combined County Authority may make standing orders for the regulation of its proceedings and business and may vary or revoke any such orders.
+
+## SCHEDULE 2[^key-69143c19d2e68f019e7430a3aefa8c55]
+
+**No longer in force.**
+
+Regulation 8
+
+### PART 1 — Modification of the application of Part 1 of the 2008 Act
+
+**1.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Modification of the application of Schedules 2 to 4 to the 2008 Act
+
+**2.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — Permit schemes: modification of the application of Part 3 of the Traffic Management Act 2004
+
+Regulation 14
+
+**1.**[^key-05b5fe88c5e1e445244adf86f55c8de4] (1) Part 3 of the 2004 Act is modified as follows.
+
+(2) Section 33A (implementation of permit schemes of strategic highways companies and local highway authorities in England) has effect as if—
+
+- (a) subsection (1) were omitted;
+- (b) for subsection (2) there were substituted—
+
+  > (2) A permit scheme prepared in accordance with section 33(1) or (2) by the Combined County Authority does not have effect in the Area unless the Combined County Authority gives effect to it by order.
+
+  ;
+- (c) subsection (3) were omitted.
+
+(3) Section 36 (variation and revocation of permit schemes) has effect as if, for subsections (1) to (3) there were substituted—
+
+> (1) The Combined County Authority may by order vary or revoke a permit scheme to the extent that it has effect in the Area by virtue of an order made by the Combined County Authority under section 33A(2).
+>
+> (2) The Secretary of State may direct the Combined County Authority to vary or revoke a permit scheme by an order under subsection (1).
+>
+> (3) An order made by the Combined County Authority under subsection (1) may vary or revoke an order made by the Combined County Authority under section 33A(2), or an order previously made by the Combined County Authority under subsection (1).
+
+.
+
+(4) Section 39 (interpretation of Part 3) has effect as if, in subsection (1), after the definition of “the appropriate national authority”, there were inserted—
+
+- ““**the Area**” means the area of the Combined County Authority;
+- “**the Combined County Authority**” means the Lancashire Combined County Authority;”.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations establish the Lancashire Combined County Authority (“**the Combined County Authority**”) and provide for the conferral of functions of local authorities and other public authorities on the Combined County Authority.
+
+Part 2 of the Levelling-up and Regeneration Act [2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55) (“**the 2023 Act**”) provides for the establishment of combined county authorities for the areas of two or more local authorities in England. Combined county authorities are bodies corporate which may be given power to exercise specified functions in their area.
+
+The Secretary of State may establish a combined county authority for an area where a proposal for such an authority has been submitted under section 45 of the 2023 Act. These Regulations have been made following the publication of such a proposal in March 2024 by the constituent councils whose areas together make up the combined area of the new authority. The proposal is available at: https://www.lancashiredevolution.co.uk/media/950430/appendix-b.pdf.
+
+Part 2 of these Regulations establishes the new Combined County Authority and makes provision for its constitution (in Schedule 1).
+
+Part 3 of these Regulations confers on the Combined County Authority functions in relation to housing and regeneration which are to be exercised concurrently with the Homes and Communities Agency. It also makes provision about the acquisition and appropriation of land for planning and public purposes and sets out conditions on the exercise of various functions. Regulation 8 and Schedule 2 apply and modify relevant provisions in legislation.
+
+Part 4 of these Regulations confers on the Combined County Authority functions relating to transport. It transfers functions relating to local transport planning and public transport from the local authorities to the Combined County Authority and makes provision for specified highways and traffic powers held by the local authorities to be exercised concurrently by the Combined County Authority.
+
+Part 5 of these Regulations confers additional functions to be exercisable by the Combined County Authority concurrently with the constituent councils, including functions relating to economic assessments and data sharing.
+
+Part 6 of these Regulations makes provision for the funding, by the constituent councils, of those costs of the Combined County Authority that relate to the exercise of its functions. Regulation 24 provides for the apportionment of such funding between the constituent councils and that the Combined County Authority is to have, in relation to its transport functions, the power to issue a levy under section 74 of the Local Government Finance Act 1988, in accordance with the Transport Levying Bodies Regulations 1992.
+
+A full regulatory impact assessment has not been prepared as this instrument will have no impact on the costs of the business and voluntary sectors. The impact on the public sector is that conferring functions on the Combined County Authority should lead to operational efficiencies that could lead to reduced costs.
+
+## Annotations
+
+[^f00001]: Footnote: [2023 c. 55](https://www.legislation.gov.uk/ukpga/2023/55).
+
+[^key-6e0ce43f22dcc5e2e03188c9143b2b1e]: Commencement: Reg. 1 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^key-7047dded979ab9a304b6b7d1168aa260]: Commencement: Reg. 2 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^f00002]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^key-3bd196aa63f369ede0442e38cf363b16]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/118/regulation/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/2/a/i)
+
+[^key-c2eef27d002b4b57e7c3e5ab17cf4186]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/118/regulation/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/2/a/ii)
+
+[^key-0bcc4b5e148d66ebd0c0c686d93b2300]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/118/regulation/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/2/a/iii)
+
+[^f00006]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
+
+[^key-4512163685e17dd7192941fa2c6e3a3e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/118/regulation/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/2/a/iv)
+
+[^f00008]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
+
+[^key-0d5c2909626661802f75254b5a7dd861]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/118/regulation/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(2)(a)(v)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/2/a/v)
+
+[^key-5cb6a94ec0a4a44f3292b9d9937caa53]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/118/regulation/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/2/a/vi)
+
+[^f00011]: Footnote: [2023 c. 55](https://www.legislation.gov.uk/ukpga/2023/55).
+
+[^f00012]: Footnote: The term “local government area” is defined in section 46(6) of the 2023 Act.
+
+[^key-0b5525cd7fd385988ad10865d2879dc9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/118/regulation/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(2)(a)(vii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/2/a/vii)
+
+[^key-7ba95dd5cf8b0b92dcf8ec0b4ba3e443]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/118/regulation/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(2)(b)(i)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/2/b/i)
+
+[^key-dcd28306d090965ca8d142067c8da1b5]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2025/118/regulation/2) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/2/b/ii)
+
+[^key-34a3da06ff2a80ccd87ec38b63792391]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2025/118/regulation/2) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/2/b/iii)
+
+[^f00013]: Footnote: Section 1 was amended by paragraph 1 of Schedule 4 and Schedule 17 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), section 21(2) of the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), paragraph 1(2) and (3) of Schedule 7 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), section 259(1) to (3) of the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and paragraph 2 of Schedule 7 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7). Section 2 was amended by section 21(3) of the New Roads and Street Works Act 1991, section 259(4) and (5) of the Greater London Authority Act 1999, and paragraph 3 of Schedule 7 to the Infrastructure Act 2015. Section 3 was amended by paragraph 4 of Schedule 7 to the Infrastructure Act 2015. Section 329(1) was amended by paragraph 60(2) of Schedule 1 to the Infrastructure Act 2015. There are other amendments to section 329 that are not relevant to these Regulations.
+
+[^key-204ea07af7969cb98a43d6d1596539bf]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/118/regulation/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(2)(a)(viii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/2/a/viii)
+
+[^key-272819573f04112601726f97f7fcd323]: Commencement: Reg. 3 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^key-94c1ce477f497a81a57141732f8395f7]: Commencement: Reg. 4 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^key-897596b39a391d46911cd66aa4f90718]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2025/118/part/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/3)
+
+[^key-392b1abc971eb9b6f0e6022f567e26a3]: Commencement: Reg. 9 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^key-6cd55e5ccd2fa18b2d1c70ec337167f6]: Textual amendment: [Reg. 9(1)-(3)](https://www.legislation.gov.uk/uksi/2025/118/regulation/9/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(4)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/4/a)
+
+[^f00024]: Footnote: Section 106A was inserted by section 27 of the Local Government and Rating Act [1997 (c. 29)](https://www.legislation.gov.uk/ukpga/1997/29).
+
+[^key-25b89c152ac39826991043567bde113e]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/118/regulation/10) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(4)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/4/b)
+
+[^key-523a343c18e492d4aa92b9cdb78b1bae]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/118/regulation/11) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(4)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/4/c)
+
+[^key-efde037c873bd84a0a3199c670be3a65]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/118/regulation/12) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(4)(d)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/4/d)
+
+[^key-82cfc28d1ba4da98d6835303aeafa0bf]: Commencement: Reg. 13 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^f00038]: Footnote: [S.I. 2009/2085](https://www.legislation.gov.uk/uksi/2009/2085).
+
+[^key-7a053d5ab4a9ea4eb8fcdd342cb0f30f]: Commencement: Reg. 14 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^f00039]: Footnote: Section 33 was amended by paragraph 5 of Schedule 10 to the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
+
+[^f00040]: Footnote: Section 33A was inserted by paragraph 6 of Schedule 10 to the Deregulation Act 2015.
+
+[^f00041]: Footnote: Section 36 was substituted by paragraph 8 of Schedule 10 to the Deregulation Act 2015.
+
+[^f00042]: Footnote: [S.I. 2007/3372](https://www.legislation.gov.uk/uksi/2007/3372), amended by [S.I. 2015/958](https://www.legislation.gov.uk/uksi/2015/958), [S.I. 2020/122](https://www.legislation.gov.uk/uksi/2020/122) and [S.I. 2022/831](https://www.legislation.gov.uk/uksi/2022/831).
+
+[^key-b5f7e7f62b473f4867e1d9b6530380db]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/118/regulation/15) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(4)(e)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/4/e)
+
+[^key-1e64e20a7fadbad22a7b282e70f3fe0c]: Commencement: Reg. 16 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^f00043]: Footnote: [S.I. 2018/103](https://www.legislation.gov.uk/uksi/2018/103).
+
+[^key-70c958e4efd93885c1fc442752d60237]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/118/regulation/17) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(5)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/5/a)
+
+[^key-d215387a7c9581dc4c4b1f5e96bc4a45]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2025/118/regulation/18) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(5)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/5/b)
+
+[^key-e7e43a94977e64a4e548d02baf739ac0]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2025/118/regulation/19) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(5)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/5/c)
+
+[^key-7a032d2cf59caca8c16bdd575716665a]: Commencement: Reg. 20 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^f00047]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^f00048]: Footnote: Section 113 was amended by paragraph 151 of Schedule 4 to the National Health Service Reorganisation Act [1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32); by paragraph 13 of Schedule 9 to the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19); by paragraph 18 of Schedule 4 to the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43); by paragraph 4 of Schedule 3 to the Health Protection Agency Act [2004 (c. 17)](https://www.legislation.gov.uk/ukpga/2004/17); by paragraph 51(a) of Schedule 1 to the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43); by paragraph 17 of Schedule 5, paragraph 3 of Schedule 7, and paragraph 3 of Schedule 17 to the Health and Social Care Act 2012; by paragraph 1(2) of Schedule 1 and paragraph 11(2) and (3) of Schedule 4 to the Health and Care Act 2022; and by [S.I. 2000/90](https://www.legislation.gov.uk/uksi/2000/90), [2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [2007/961](https://www.legislation.gov.uk/uksi/2007/961).
+
+[^key-39654d7f3410d46fbad03cbfeda75078]: Textual amendment: [Regs. 20(b)-(e)](https://www.legislation.gov.uk/uksi/2025/118/regulation/20/b) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(5)(d)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/5/d)
+
+[^key-3527862a19fe5a2f80fce17a5e2ba139]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2025/118/regulation/21) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(5)(e)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/5/e)
+
+[^key-30e152a36dd1c507f5f0c5fbff36ff29]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/118/regulation/22) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(5)(e)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/5/e)
+
+[^key-05d328dbfa298106669e7879ef0317e9]: Commencement: Reg. 23 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^f00054]: Footnote: [S.I. 2013/2356](https://www.legislation.gov.uk/uksi/2013/2356), amended by [S.I. 2015/755](https://www.legislation.gov.uk/uksi/2015/755); there are other amending instruments but none is relevant.
+
+[^key-2dc28c7ccd53497c40ab8a2b2a92eee8]: Commencement: Reg. 24 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^key-5d8e844ad1be478690e685d9a6e998f2]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/2025/118/regulation/24/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(6)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/6/a)
+
+[^key-d72e8a97c6b54a99d952d77a7251e191]: Textual amendment: [Reg. 24(3)](https://www.legislation.gov.uk/uksi/2025/118/regulation/24/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(6)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/6/b)
+
+[^key-a817511845de51db38657aa803719100]: Commencement: Sch. 1 para. 1 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^key-e9cefd96c295c8f4439e97e0cd883ede]: Commencement: Sch. 1 para. 2 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^key-0ba6a3e4b4a1bf717385da2251eb678b]: Commencement: Sch. 1 para. 3 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^f00057]: Footnote: The term “constituent member” is defined in section 13(4) of the 2023 Act.
+
+[^key-d82cabf87dcc9b22a0da586ea3fb28c1]: Commencement: Sch. 1 para. 4 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^key-24b51568231342a4e04a64d6381da880]: Textual amendment: [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/uksi/2025/118/schedule/1/paragraph/4/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(7)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/7/a)
+
+[^key-cebdad5209c9302faf69d0d4b4d31d95]: Textual amendment: [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/uksi/2025/118/schedule/1/paragraph/4/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(7)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/7/a)
+
+[^key-1ec7878db2489c57bcd6627db6cbc26a]: Textual amendment: [Sch. 1 para. 4(5)](https://www.legislation.gov.uk/uksi/2025/118/schedule/1/paragraph/4/5) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(7)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/7/a)
+
+[^key-726f5b0f4703f91082cd92cfcaca6ad4]: Textual amendment: [Sch. 1 para. 4(6)(e)](https://www.legislation.gov.uk/uksi/2025/118/schedule/1/paragraph/4/6/e) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(7)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/7/b)
+
+[^key-0e7f16d2d792ff8552bb14aa33de7d8f]: Textual amendment: [Sch. 1 para. 4(6A)](https://www.legislation.gov.uk/uksi/2025/118/schedule/1/paragraph/4/6A) inserted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(7)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/7/c)
+
+[^key-525985aa6f952e4dcd80a201952977ab]: Textual amendment: [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/uksi/2025/118/schedule/1/paragraph/4/7) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(7)(d)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/7/d)
+
+[^key-d93745eba7a5658082a6102933b43b14]: Textual amendment: [Sch. 1 para. 4(8)](https://www.legislation.gov.uk/uksi/2025/118/schedule/1/paragraph/4/8) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(7)(d)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/7/d)
+
+[^key-b84a5ab763bef021210bf952f9f75f04]: Textual amendment: Words in [Sch. 1 para. 4(9)](https://www.legislation.gov.uk/uksi/2025/118/schedule/1/paragraph/4/9) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(7)(e)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/7/e)
+
+[^key-72469a9aa4e4a4393e45c1b15efdf06b]: Textual amendment: [Sch. 1 para. 4(10)](https://www.legislation.gov.uk/uksi/2025/118/schedule/1/paragraph/4/10) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(7)(f)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/7/f)
+
+[^f00058]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67). Section 72 was amended by Part 2 of Schedule 4 to the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26). Other amendments have been made but are not relevant.
+
+[^f00059]: Footnote: [1984 c. xxi.](https://www.legislation.gov.uk/ukla/1984/21)This Act was amended by article 4 of the Blackpool Tramway (Blackpool North Extension) Order 2017 [S.I. 2017/1214](https://www.legislation.gov.uk/uksi/2017/1214).
+
+[^key-e359c05d47bcbc05b932405a6a7e40ea]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2025/118/schedule/1/paragraph/5) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [17(2)(a)](https://www.legislation.gov.uk/uksi/2026/719/article/17/2/a)
+
+[^key-ebff67e0a74b04a2fe0db9d5d7da91ea]: Commencement: Sch. 1 para. 6 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^key-2a4e02c41c487f9ccae6f6de854e6c37]: Commencement: Sch. 1 para. 7 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^f00060]: Footnote: [S.I. 2017/68](https://www.legislation.gov.uk/uksi/2017/68). Article 16 was inserted by [S.I. 2024/430](https://www.legislation.gov.uk/uksi/2024/430).
+
+[^key-8ded485fed14ccf1a8c0f35ea930ce3c]: Textual amendment: [Sch. 1 paras. 7A](https://www.legislation.gov.uk/uksi/2025/118/schedule/1/paragraph/7A), [7B](https://www.legislation.gov.uk/uksi/2025/118/schedule/1/paragraph/7B) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [26(b)](https://www.legislation.gov.uk/uksi/2026/346/regulation/26/b)
+
+[^key-7e49f660b3d13089246f22bcdc397c9f]: Textual amendment: [Sch. 1 para. 7B](https://www.legislation.gov.uk/uksi/2025/118/schedule/1/paragraph/7B) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [17(2)(b)](https://www.legislation.gov.uk/uksi/2026/719/article/17/2/b)
+
+[^key-e399272e25e8e0d949f9840e6867552e]: Commencement: Sch. 1 para. 8 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^f00061]: Footnote: Conditions to be satisfied to be an “independent person” are set out in article 5 of the Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) Order 2017.
+
+[^key-8385f177b6963bd199a2780cc539e2d6]: Commencement: Sch. 1 para. 9 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^key-b3b0ae512a02b53126770bb930914aa6]: Commencement: Sch. 1 para. 10 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)
+
+[^key-69143c19d2e68f019e7430a3aefa8c55]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2025/118/schedule/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [15(8)](https://www.legislation.gov.uk/uksi/2026/519/regulation/15/8)
+
+[^key-05b5fe88c5e1e445244adf86f55c8de4]: Commencement: Sch. 3 para. 1 in force at 5.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2)

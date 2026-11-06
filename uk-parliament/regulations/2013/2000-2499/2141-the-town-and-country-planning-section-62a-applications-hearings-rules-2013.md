@@ -1,0 +1,314 @@
+---
+title: The Town and Country Planning (Section 62A Applications) (Hearings) Rules 2013
+id: uksi/2013/2141
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-08-27'
+text_date: '2016-10-21'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/2141
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/2141/pdfs/uksiem_20132141_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2141/pdfs/uksi_20132141_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2141/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (Section 62A Applications) (Hearings) Rules 2013
+
+> Text as at 2016-10-21.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 2141
+
+Tribunals And Inquiries, England
+
+The Town and Country Planning (Section 62A Applications) (Hearings) Rules 2013
+
+Made
+
+27th August 2013
+
+Laid before Parliament
+
+3rd September 2013
+
+Coming into force
+
+1st October 2013
+
+The Lord Chancellor, in exercise of the powers conferred by section 9 of the Tribunals and Inquiries Act 1992[^f00001] makes the following Rules:[^key-cd3d86780fee1ad0c6366ca15fff3896]
+
+## 1. Citation, commencement and application[^key-2a6642a4b12631e2b27ea0f862d68a5d]
+
+(1) These Rules may be cited as the Town and Country Planning (Section 62A Applications) (Hearings) Rules 2013.
+
+(2) These Rules come into force on 1st October 2013.
+
+(3) These Rules apply in relation to any hearing which, under section 319A of the 1990 Act[^f00002], the Secretary of State determines must be held in England for the purposes of determining a relevant application[^f00003] made on or after 1st October 2013.
+
+(4) Where these Rules apply in relation to a relevant application which previously fell to be considered in accordance with the Town and Country Planning (Section 62A Applications) (Written Representations and Miscellaneous Provisions) Regulations 2013[^f00004], any step taken or thing done under those Regulations which could have been done under any corresponding provision of these Rules has effect as if it had been taken or done under the corresponding provision.
+
+## 2. Interpretation[^key-8b23dda3833210e00e1f0f09a1e4de92]
+
+In these Rules—
+
+- “2013 Order” means the Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013[^f00005];
+- “designated planning authority” means the local planning authority to which an application would otherwise have been made had the applicant not chosen to make the relevant application to the Secretary of State under section 62A of the 1990 Act;
+- “document” includes a photograph, map or plan;
+- “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00006];
+- “inspector” means—
+  - (a) in relation to a standard application, a person appointed by the Secretary of State under section 76D of the 1990 Act[^f00007] to determine the relevant application;
+  - (b) in relation to a recovered application, a person appointed by the Secretary of State to assist him in holding a hearing;
+- “land” means the land or building to which the relevant application relates;
+- “persons entitled to appear at the hearing” has the meaning given in rule 6;
+- “recovered application” means a relevant application which falls to be determined by the Secretary of State as a consequence of a direction made under section 76E(1) of the 1990 Act[^f00008];
+- “relevant application” has the meaning given in section 62A(2) of the Town and Country Planning Act 1990;[^key-598948381a9622ae3aed59118a177df8]
+- “representation period” has the meaning given in the 2013 Order;
+- “standard application” means a relevant application which falls to be determined by a person appointed by the Secretary of State under section 76D of the 1990 Act; and
+- “working day” means a day which is not a Saturday, Sunday, Bank Holiday or other public holiday.
+
+## 3. Electronic communications and service of documents[^key-4425c3da1e871c3b9d40820e4bee4dc1]
+
+(1) In these Rules, and in relation to the use of electronic communications for any purpose of these Rules which is capable of being carried out electronically—
+
+- (a) the expression “address” includes any number or address used for the purpose of such communications, except that where any provision of these Rules requires any person to provide a name and address to any other person, the requirement is not fulfilled unless the person subject to the requirement provides a postal address; and
+- (b) references to statements, notices or other documents, or to copies of such documents, include references to such documents or copies of them in electronic form.
+
+(2) Paragraphs (3) to (7) apply where an electronic communication is used by a person for the purpose of fulfilling any requirement in these Rules to give or send any statement, notice or other document to any other person (“the recipient”).
+
+(3) A requirement is taken to be fulfilled where the statement, notice or other document transmitted by the electronic communication is—
+
+- (a) capable of being accessed by the recipient;
+- (b) legible in all material respects; and
+- (c) sufficiently permanent to be used for subsequent reference.
+
+(4) In paragraph (3), “legible in all material respects” means that the information contained in the statement, notice or document is available to the recipient to no lesser extent than it would be if sent or given by means of a document in printed form.
+
+(5) Where the electronic communication is received by the recipient outside the recipient’s business hours, it is taken to have been received on the next working day.
+
+(6) A requirement in these Rules that any statement, notice or other document is in writing is fulfilled where the document satisfies the criteria in paragraph (3).
+
+(7) Where a person is no longer willing to accept the use of electronic communications for any purpose of these Rules which is capable of being effected electronically, the person must give notice in writing—
+
+- (a) withdrawing any address notified to the Secretary of State for that purpose, or
+- (b) revoking any agreement entered into with the Secretary of State for that purpose,
+
+and such withdrawal or revocation is final and takes effect on a date specified by the person in the notice but not less than 7 days after the date on which the notice is given.
+
+## 4. Date and notification of hearing[^key-51919c5aaeb4dcf4231b21d5ac755739]
+
+(1) The date fixed by the Secretary of State for the holding of a hearing must be—
+
+- (a) not later than 5 weeks after the end of the representation period, unless he considers such a date impracticable, or
+- (b) the earliest date after that period which he considers to be practicable.
+
+(2) Subject to paragraph (3), the Secretary of State must give at least the minimum amount of[^key-e4fea9cfe4092e4b9a174ce7fd8f6b26] notice of—
+
+- (a) the date, time and place fixed by him for the holding of a hearing, and
+- (b) the name of the inspector holding the hearing,
+
+to each of the persons entitled to appear at the hearing (whether by publication on a website or otherwise).
+
+(3) The Secretary of State may vary the date, time and place fixed for the holding of a hearing and must give such notice of any variation as appears to him to be reasonable.
+
+(3A)[^key-edb9c15f5775719977c937cf9b20b670] In paragraph (2) “the minimum amount of notice” means—
+
+- (a) in relation to a hearing to be held regarding a relevant application in respect of major development, 2 weeks’;
+- (b) in relation to a hearing to be held regarding a relevant application in respect of non-major development, five working days’.
+
+(4) Where the Secretary of State appoints another inspector instead of the person previously appointed and it is not practicable to give written notice under paragraph (2) of the new appointment before the hearing is held, the inspector holding the hearing must, at its commencement, announce their name and the fact of their appointment.
+
+(5) Where—
+
+- (a) a notice of a hearing has been given under paragraph (2) or (3), and
+- (b) the relevant application is withdrawn before the date fixed for the hearing,
+
+the Secretary of State must cancel the hearing and give such notice of the cancellation to the persons previously notified as appears to him to be reasonable.
+
+(6)[^key-6f9123d3cc6f7b4ba115a8fa7883c968] In this rule, “major development” and “non-major development” have the meanings given by regulation 3 of the Town and Country Planning (Section 62A Applications) (Written Representations and Miscellaneous Provisions) Regulations 2013.
+
+## 5. Issues report[^key-23121aa883c8372d865ea9de1b4c5abb]
+
+At least 5 working days before the date fixed for the hearing under rule 4 the Secretary of State must prepare a report setting out what, in his opinion, are the issues to be considered in relation to the relevant application and publish the report on a website.
+
+## 6. Admission of the public and appearances at a hearing[^key-1084edd29ea47adf7a525dc72d7a9ce2]
+
+(1) A hearing must be open to the public and any person attending a hearing for the purpose of reporting the proceedings is, so far as practicable, to be afforded reasonable facilities for taking their report.
+
+(2) The persons entitled to appear at the hearing are—
+
+- (a) the applicant;
+- (b) the designated planning authority;
+- (c) any councillor of the designated planning authority for the ward in which the site, or any part of the site, to which the relevant application relates is situated;
+- (d) any authority or person consulted in relation to the relevant application under article 17 or 18 of the 2013 Order, and
+- (e) any person who—
+  - (i) made representations in relation to the relevant application within the representation period, and
+  - (ii) when making those representations, requested to be heard.
+
+(3) Nothing in paragraph (2) prevents the inspector from permitting any other person to appear at a hearing, and such permission must not be unreasonably withheld.
+
+(4) Any person entitled or permitted to appear may do so on his own behalf or be represented by any other person.
+
+## 7. Procedure at hearing[^key-b11b45559bd969f581e79101d402fa6b]
+
+(1) Except as otherwise provided in these Rules the inspector must determine the procedure at a hearing.
+
+(2) At the start of the hearing the inspector must summarise the main issues set out in the report published by the Secretary of State under rule 5.
+
+(3) Subject to paragraphs (4) and (5), a person entitled to appear at a hearing is to be given the opportunity to make oral representations but the length of representations may be limited by the inspector.
+
+(4) The inspector may refuse to permit the making of oral representations on any matter which he considers to be irrelevant or repetitious.
+
+(5) The inspector may—
+
+- (a) require any person appearing or present at a hearing who, in his opinion, is behaving in a disruptive manner to leave; and
+- (b) refuse to permit that person to return; or
+- (c) permit that person to return only on such conditions as the inspector may specify,
+
+but any person not permitted to return or who does not return after being required to leave, may submit written representations to the inspector before the close of the hearing.
+
+(6) The inspector may proceed with a hearing in the absence of any person entitled to appear at it.
+
+(7) The inspector may adjourn a hearing and, if the date, time and place of the adjourned hearing are announced at the hearing before the adjournment, no further notice is required.
+
+## 8. Site inspections[^key-52ccc6c469498faae9d8c8a4a06d391c]
+
+(1) The inspector may inspect the land to which the application relates.
+
+(2) Where the inspector intends to make an inspection under paragraph (1), he may notify the applicant and any other person as to the date and time of the inspection.
+
+(3) The inspector is not required to defer an inspection where any person (including the applicant) is not present at the time appointed.
+
+## 9. Procedure after hearing: standard applications[^key-d19af1c2f4e23ed61427a6afadf30c43]
+
+(1) This rule applies where a hearing has been held for the purposes of a standard application
+
+(2) After the close of the hearing, the inspector must prepare a written statement setting out his decision and his reasons for it.
+
+(3) When making his determination, the inspector—
+
+- (a) must take into account—
+  - (i) any representations made to the Secretary of State pursuant to any notice of, or information about, or consultation in relation to, the application, under articles 9, 13, 14, 16, 17 or 18 of the 2013 Order which are received within the representation period; and
+  - (ii) any representations made at the hearing.
+- (b) may disregard any representations or information received after the hearing has closed.
+
+(4) If, when making his determination, an inspector proposes to take into consideration any new representations or information (not being a matter of government policy) which was not raised at the hearing and which he considers to be material to his decision, the inspector must not come to a decision without first—
+
+- (a) notifying in writing the persons entitled to appear at the hearing of the matter in question; and
+- (b) affording them an opportunity of making written representations to him.
+
+## 10. Procedure after hearing: recovered applications[^key-37457fffe0828a5b6b731b9eac49f353]
+
+(1) This rule applies where a hearing has been held for the purposes of a recovered application.
+
+(2) After the close of the hearing, the inspector must prepare a written statement setting out his conclusions and his recommendations or his reasons for not making any recommendations (“the inspector’s statement”) and send a copy of it to the Secretary of State.
+
+(3) When making his determination, the Secretary of State—
+
+- (a) must take into account—
+  - (i) any representations made to him pursuant to any notice of, or information about, or consultation in relation to, the application, under articles 9, 13, 14, 16, 17 or 18 of the 2013 Order which are received within the representation period; and
+  - (ii) any representations made at the hearing.
+- (b) may disregard any representations or information received after the hearing has closed.
+
+(4) If, when making his determination, the Secretary of State—
+
+- (a) differs from the inspector on any matter of fact mentioned in, or appearing to him to be material to, a conclusion reached in the inspector’s statement, or
+- (b) takes into consideration any new information (not being a matter of government policy),
+
+and is for that reason disposed to disagree with a recommendation made in the inspector’s statement, the Secretary of State must not come to a decision which is at variance with that recommendation without first—
+
+- (i) notifying in writing the persons entitled to appear at the hearing of his disagreement and the reasons for it; and
+- (ii) affording them an opportunity of making written representations to him.
+
+Signed by authority of the Lord Chancellor
+
+McNally
+
+Minister of State
+
+Ministry of Justice
+
+27th August 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+Section 62A of the Town and Country Planning Act 1990 (“the 1990 Act”) provides that a local planning authority may be designated by the Secretary of State. Where an authority is designated a person applying for planning permission for major development may choose to submit their application to the Secretary of State for determination.
+
+These Rules regulate the procedure to be followed for hearings in England caused by the Secretary of State to be held before he or an inspector determines applications made in relation to planning permission under section 62A of the Town and Country Planning Act 1990 on or after 1st October 2013.
+
+These Rules are part of a package of provisions in relation to section 62A applications—
+
+- (a) the procedures to be followed in relation to relevant applications made directly to the Secretary of State under section 62A of the Town and Country Planning Act 1990 are set out in the Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013;
+- (b) the fees to be charged in relation to section 62A applications and pre-application advice are prescribed in the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) Regulations 2012, which were amended by the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) (Amendment) Regulations 2013;
+- (c) the rules in relation to hearings held to consider relevant applications are set out in these Rules;
+- (d) the provisions which apply where the application is to be determined by way of written representations, instead of a hearing, are set out in the Town and Country Planning (Section 62A Applications) (Written Representations and Miscellaneous Provisions) Regulations 2013.
+
+These Rules come into force on 1st October 2013. Rule 3 makes provision for use of electronic communications and service of documents.
+
+Rule 4 provides for the date to be fixed for the hearing and notification of that date and of the time and place of the hearing and of the name of the inspector holding the hearing.
+
+Rule 5 provides for the publication of a pre-hearing report in relation to the relevant application by the Secretary of State
+
+Rule 6 provides that hearings must be open to the public and that where persons attend to report on the proceedings (such as recording or filming the hearing or reporting it via social media) reasonable facilities should be provided. Rule 6 also prescribes those entitled to appear at a hearing, Rule 7 provides for the procedure at a hearing and Rule 8 makes provision for site inspections.
+
+Rules 9 and 10 provide, respectively, for the procedure after a hearing in respect of standard applications and recovered applications. They provide for a statement to be written (“the inspector’s statement”). They also provide that the Secretary of State or an inspector may disregard representations received after the close of a hearing. Provision for the publication of decisions is set out separately in the Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013.
+
+These Rules implement section 1 of, and Schedule 1 to, the Growth and Infrastructure Act 2013. That Act was subject to a full impact assessment which can be found at www.legislation.gov.uk. Copies of that impact assessment may be obtained from the Planning Directorate, 1<sup>st</sup> Floor, Department for Communities and Local Government, Eland House, Bressenden Place, London, SW1E 5DU.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53). Section 9 was amended by paragraph 11 of the Schedule to [S.I. 2013/2042](https://www.legislation.gov.uk/uksi/2013/2042). There are other amendments to section 9 which are not relevant to these Rules.
+
+[^key-cd3d86780fee1ad0c6366ca15fff3896]: Modification: Rules applied (with modifications) (1.10.2014) by [S.I. 2013/2140](https://www.legislation.gov.uk/uksi/2013/2140), [art. 48](https://www.legislation.gov.uk/uksi/2013/2140/article/48) (as inserted by [The Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2014 (S.I. 2014/1532)](https://www.legislation.gov.uk/uksi/2014/1532), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1), [7](https://www.legislation.gov.uk/uksi/2014/1532/article/7))
+
+[^key-2a6642a4b12631e2b27ea0f862d68a5d]: Commencement: Rule 1 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
+
+[^f00002]: Footnote: Section 319A was inserted into the 1990 Act by section 196 of the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29).
+
+[^f00003]: Footnote: See section 62A(2)(b) of the 1990 Act for the meaning of “relevant application”. Section 62A was inserted into the 1990 Act by section 1 of the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27).
+
+[^f00004]: Footnote: [S.I. 2013/2142](https://www.legislation.gov.uk/uksi/2013/2142).
+
+[^key-8b23dda3833210e00e1f0f09a1e4de92]: Commencement: Rule 2 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
+
+[^f00005]: Footnote: [S.I. 2013/2140](https://www.legislation.gov.uk/uksi/2013/2140).
+
+[^f00006]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7); section 15(1) was amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^f00007]: Footnote: Section 76D was inserted by paragraph 5 of Schedule 1 to the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27).
+
+[^f00008]: Footnote: Section 76E was inserted by paragraph 5 of Schedule 1 to the Growth and Infrastructure Act 2013.
+
+[^key-598948381a9622ae3aed59118a177df8]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2013/2141/rule/2) inserted (21.10.2016) by [The Town and Country Planning (Section 62A Applications) (Hearings) (Amendment) Rules 2016 (S.I. 2016/955)](https://www.legislation.gov.uk/uksi/2016/955), [rules 1](https://www.legislation.gov.uk/uksi/2016/955/rule/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/955/rule/2/2)
+
+[^key-4425c3da1e871c3b9d40820e4bee4dc1]: Commencement: Rule 3 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
+
+[^key-51919c5aaeb4dcf4231b21d5ac755739]: Commencement: Rule 4 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/rule/1/2)
+
+[^key-e4fea9cfe4092e4b9a174ce7fd8f6b26]: Textual amendment: Words in rule 4(2) substituted (21.10.2016) by [The Town and Country Planning (Section 62A Applications) (Hearings) (Amendment) Rules 2016 (S.I. 2016/955)](https://www.legislation.gov.uk/uksi/2016/955), [rules 1](https://www.legislation.gov.uk/uksi/2016/955/rule/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/955/article/2/3/a)
+
+[^key-edb9c15f5775719977c937cf9b20b670]: Textual amendment: Rule 4(3A) inserted (21.10.2016) by [The Town and Country Planning (Section 62A Applications) (Hearings) (Amendment) Rules 2016 (S.I. 2016/955)](https://www.legislation.gov.uk/uksi/2016/955), [rules 1](https://www.legislation.gov.uk/uksi/2016/955/rule/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/955/article/2/3/b)
+
+[^key-6f9123d3cc6f7b4ba115a8fa7883c968]: Textual amendment: Rule 4(6) inserted (21.10.2016) by [The Town and Country Planning (Section 62A Applications) (Hearings) (Amendment) Rules 2016 (S.I. 2016/955)](https://www.legislation.gov.uk/uksi/2016/955), [rules 1](https://www.legislation.gov.uk/uksi/2016/955/rule/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2016/955/article/2/3/c)
+
+[^key-23121aa883c8372d865ea9de1b4c5abb]: Commencement: Rule 5 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
+
+[^key-1084edd29ea47adf7a525dc72d7a9ce2]: Commencement: Rule 6 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
+
+[^key-b11b45559bd969f581e79101d402fa6b]: Commencement: Rule 7 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
+
+[^key-52ccc6c469498faae9d8c8a4a06d391c]: Commencement: Rule 8 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
+
+[^key-d19af1c2f4e23ed61427a6afadf30c43]: Commencement: Rule 9 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)
+
+[^key-37457fffe0828a5b6b731b9eac49f353]: Commencement: Rule 10 in force at 1.10.2013, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2013/2141/article/1/2)

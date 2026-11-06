@@ -1,0 +1,2120 @@
+---
+title: The Child Support (Collection and Enforcement) Regulations 1992
+id: uksi/1992/1989
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1992-08-17'
+text_date: '2022-05-26'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1992/1989
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/1989/pdfs/uksi_19921989_310817_en.pdf
+- http://www.legislation.gov.uk/uksi/1992/1989/pdfs/uksi_19921989_310516_en.pdf
+- http://www.legislation.gov.uk/uksi/1992/1989/pdfs/uksi_19921989_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1992/1989/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Child Support (Collection and Enforcement) Regulations 1992
+
+> Text as at 2022-05-26.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1992 No. 1989
+
+FAMILY LAW
+
+CHILD SUPPORT
+
+The Child Support (Collection and Enforcement) Regulations 1992
+
+Made
+
+17th August 1992
+
+Laid before Parliament
+
+26th August 1992
+
+Coming into force
+
+5th April 1993
+
+The Secretary of State for Social Security, in exercise of the powers conferred by sections 29(2) and (3), 31(8), 32(1) to (5) and (7) to (9), 34(1), 35(2), (7) and (8), 39(1), (3) and (4), 40(4), (8) and (11), 51, 52 and 54 of the Child Support Act 1991[^c1833850] and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^key-5a6171f8ccb3c9444de348490e553060]
+
+## PART I — GENERAL
+
+### 1. Citation, commencement and interpretation[^key-90c02720aab595150694ef4f8eff560c]
+
+(1) These Regulations may be cited as the Child Support (Collection and Enforcement) Regulations 1992 and shall come into force on 5th April 1993.
+
+(2)[^M_F_3664d721-e9f3-47c8-d673-25bb9235beda] In these Regulations—
+
+- “ the Act ” means the Child Support Act 1991;
+- “the 2000 Act ” means the Child Support, Pensions and Social Security Act 2000;
+- “[^key-6d3e9bccc4e58891bce1a0e7ebf400a4]**electronic communication**” has the same meaning as in section 15(1) of the Electronic Communications Act 2000;
+- “interest” means interest which has become payable under section 41 of the Act before its amendment by the 2000 Act ; and
+- “voluntary payment” means a payment as defined in section 28J of the Act and Regulations made under that section.
+
+(2A)[^M_F_9c2d44e5-1d16-485a-c20b-adeb64f3a229] Except in relation to regulation 8(3)(a) and Schedule 2, in these Regulations “fee” means an assessment fee or a collection fee, which for these purposes have the same meaning as in the Child Support Fees Regulations 1992 prior to their revocation by the Child Support (Collection and Enforcement and Miscellaneous Amendments) Regulations 2000.
+
+(3) Where under any provision of the Act or of these Regulations—
+
+- (a) any document or notice is given or sent to the Secretary of State, it shall be treated as having been given or sent on the day it is received by the Secretary of State; [^key-6f5e39986fd93b2f38810c81588d799c]...
+- (b) any document or notice is given or sent to any other person, it shall, if sent by post to that person’s last known or notified address, be treated as having been given or sent on the day that it is posted[^M_F_33ec21e3-b777-4b48-bb8b-55f5a3a6ac9d]; and[^key-b1a5d804ec92381d7ac27345fbc18ee2]
+- (c) any document or notice is given or sent to any other person, it shall, if sent by electronic communication, be treated as having been given or sent at the end of the first day after the day it was sent.
+
+(4) In these Regulations, unless the context otherwise requires, a reference—
+
+- (a) to a numbered Part is to the Part of these Regulations bearing that number;
+- (b) to a numbered regulation is to the regulation in these Regulations bearing that number;
+- (c) in a regulation to a numbered or lettered paragraph or sub-paragraph is to the paragraph or sub-paragraph in that regulation bearing that number or letter;
+- (d) in a paragraph to a lettered or numbered sub-paragraph is to the sub-paragraph in that paragraph bearing that letter or number;
+- (e) to a numbered Schedule is to the Schedule to these Regulations bearing that number.
+
+### 1A. Use of electronic communications[^key-db538e0fa03bed273760c3b2335a5336]
+
+Schedule A1 makes provision for the use of electronic communications.
+
+## PART II — COLLECTION OF CHILD SUPPORT MAINTENANCE
+
+### 2. Payment of child support maintenance[^key-4b53f3cf2a50de0d83b7f9fea03bba02]
+
+(1) Where a maintenance calculation[^M_F_3013af3b-e3e4-4b7b-ae7a-e49baf5e3d19] has been made under the Act and the case is one to which section 29 of the Act applies, the Secretary of State may specify that payments of child support maintenance shall be made by the liable person—
+
+- (a) to the person caring for the child or children in question or, where an application has been made under section 7 of the Act, to the child who made the application;
+- (b) to, or through, the Secretary of State; or
+- (c) to, or through, such other person as the Secretary of State may, from time to time, specify.
+
+(2) In paragraph (1) and in the rest of this Part, “liable person” means a person liable to make payments of child support maintenance.
+
+### 3. Method of payment[^key-59cf55d7053efe30d431e3176406e892]
+
+(1) Payments of child support maintenance, penalty payments, interest and fees[^M_F_9f89d4f0-6465-466a-e315-b342c60a6c4a] shall be made by the liable person by whichever of the following methods the Secretary of State specifies as being appropriate in the circumstances—
+
+- (a) by standing order;
+- (b) by any other method which requires one person to give his authority for payments to be made from an account of his to an account of another’s on specific dates during the period for which the authority is in force and without the need for any further authority from him;
+- (c) by an arrangement whereby one person gives his authority for payments to be made from an account of his, or on his behalf, to another person or to an account of that other person;
+- (d) by cheque or postal order;
+- (e) in cash.
+- (f)[^M_F_5eb8c79a-6bcc-4682-e765-33662a8829e5] by debit card.
+- (g)[^key-ed8dc9ecb30649cf0888efea766ed239] by credit card;
+- (h)[^key-2d345197f588177f723ee062bb04f3ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^key-bf6743d186f1fc8ecffa21146c6112cd] by deduction from earnings order.
+
+(1A)[^key-7fd75a880535f1426052ce9585bb0f70][^M_F_fc843c51-e5f1-4738-fb58-a6a3e4195783] In paragraph (1)—
+
+- (a) “debit card” means a card, operating as a substitute for a cheque, that can be used to obtain cash or to make a payment at a point of sale whereby the card holder’s bank or building society account is debited without deferment of payment;
+- (b) “credit card” means a card which is a credit-token within the meaning of section 14(1)(b) of the Consumer Credit Act 1974;
+- (c)[^key-618164c6b288002cd87f88ba7aa6c607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The Secretary of State may direct a liable person to take all reasonable steps to open an account from which payments under the maintenance calculation[^M_F_49057625-eb09-47b7-8c75-695c66e2ea0f] may be made in accordance with the method of payment specified under paragraph (1).
+
+(3)[^key-81f06609a9285ec3f678f460adbb9ec2] Where the Secretary of State is considering specifying a deduction from earnings order by virtue of paragraph (1)(i), that method of payment is not to be used in any case where there is good reason not to use it.
+
+(4) For the purposes of paragraph (3) the matters which are to be taken into account in determining whether there is good reason not to use that method of payment are whether the making of a deduction from earnings order is likely to result in the disclosure of the parentage of a child and the impact of that disclosure on—
+
+- (a) the liable person’s employment;
+- (b) any relationship between the liable person and a third party.
+
+(5) For the purposes of paragraph (3) the circumstances in which good reason not to use that method of payment is to be regarded as existing are—
+
+- (a) a member of the liable person’s or parent with care’s family is employed by the same relevant employer as the liable person;
+- (b) that family member’s employment requires knowledge of the relevant employer’s functions in giving effect to the deduction from earnings order; and
+- (c) as a consequence of these circumstances the liable person’s employment status or family relationships may be adversely affected by the use of a deduction from earnings order as a method of payment.
+
+(6) For the purposes of paragraph (3) the matters which are not to be taken into account in determining whether there is good reason not to use that method of payment are—
+
+- (a) the liable person’s preference for a different method of payment;
+- (b) the liable person’s preference for a relevant employer not to be informed about that parent’s maintenance liability;
+- (c) that a third party would become aware of the liable person’s maintenance liability,
+
+unless they are relevant to any matter falling within paragraph (4) or circumstance falling within paragraph (5).
+
+(7) Where the Secretary of State is considering specifying the method of payment set out in paragraph (1)(i) and decides that there is no good reason not to use it, that method is not to be specified until—
+
+- (a) the time within which an appeal against that decision may ordinarily be brought (including any period during which a further appeal may ordinarily be brought) has ended; or
+- (b) if an appeal is brought on the grounds set out in regulation 22(3A), the time at which proceedings on the appeal (including any proceedings on a further appeal) have been concluded.
+
+(8) Nothing in this regulation is to prevent the Secretary of State exercising his powers under section 31 of the Act to make a deduction from earnings order where the Secretary of State considers it is appropriate in the circumstances of the case, unless he has specified a deduction from earnings order as a method of payment by virtue of paragraph (1)(i).
+
+(9) In this regulation—
+
+- “couple” means—[^key-5b288ac1a349eb19347137615815a135] *(Extent: E+W)*[^key-895616362d52293cb9a88099fa87c307]
+  - (a) two people who are married to, or civil partners of, each other and are members of the same household; or *(Extent: E+W)*
+  - (b) two people who are not married to, or civil partners of, each other but are living together *(Extent: E+W)* as if they were a married couple or civil partners[^key-5c4a891212e76ee4bad487d00af9513e] *(Extent: E+W)*; *(Extent: E+W)*
+- “family” means partner, parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, step-parent, step-son, step-daughter, brother, sister, grand-parent, grand-child, uncle, aunt, nephew, niece, or if any of the preceding persons is one member of a couple, the other member of that couple;
+- “partner” means where a person is a member of a couple the other member of that couple; and
+- “relevant employer” means the employer of a liable person in respect of whom the order under section 31 of the Act would be made but for paragraph (3).
+
+### 4. Payments to be scheduled over reference period[^key-d741c6f7eaa621c07cf83bfd951addec][^key-d760e2fa2eb017d9a129d65b656f6fbb]
+
+(1) The Secretary of State may, for the purposes of determining the frequency and amount of the payments of child support maintenance required to be made by a liable person—
+
+- (a) determine the total amount payable for the reference period on the assumption that the weekly rate of child support maintenance will not change over that period; and
+- (b) require that amount to be paid by equal instalments over that period at intervals determined by the Secretary of State.
+
+(2) The reference period in relation to the maintenance calculation is, subject to paragraph (3), the period of 52 weeks mentioned in section 29(3A) of the Act beginning with—
+
+- (a) the initial effective date (where it is the first such period in relation to the maintenance calculation); or
+- (b) the review date.
+
+(3) In this regulation “initial effective date” and “review date” have the meanings given by regulations 12 and 19 of the Child Support Maintenance Calculation Regulations 2012 respectively.
+
+### 5. Transmission of payments
+
+(1)[^key-32ee69c44247bc8cb6fdb7b6dcbf2345] Payments of child support maintenance made through the Secretary of State or other specified person shall be transmitted to the person entitled to receive them–
+
+- (a) by transfer of credit to an account nominated by the person entitled to receive the payments; or
+- (b) by means other than by transfer of credit as determined by the Secretary of State, where it appears to the Secretary of State to be necessary to do so in the circumstances of the particular case.
+
+(2) Subject to paragraph (3), the Secretary of State[^M_F_41d4ba80-78ff-49f2-d943-1aaeb0150069] shall specify the interval by reference to which the payments referred to in paragraph (1) are to be transmitted to the person entitled to receive them.
+
+(3)[^M_F_96097e21-29b7-494d-d896-82a2686e2d72] Except where the Secretary of State is satisfied in the circumstances of the case that it would cause undue hardship to either the person liable to make the payments or the person entitled to receive them, the interval referred to in paragraph (2) shall not differ from the interval referred to in regulation 4.
+
+(4) Subject to paragraph (3) and regulation 4(2), the interval referred to in paragraph (2) and that referred to in regulation 4 may be varied from time to time by the Secretary of State.
+
+### 5A. Voluntary Payments[^M_F_34a1171f-094d-452b-fa1d-d659bb9cb1cc]
+
+(1) Regulation 5(1) shall apply in relation to voluntary payments as if—
+
+- (a) for the words “Payment of child support maintenance” there were substituted the words “Voluntary payments”; and
+- (b) the words “or other specified person” were omitted.
+
+(2) In determining when the Secretary of State shall transmit a voluntary payment to the person entitled to it, the Secretary of State shall have regard to the factor in regulation 4(2)(c).
+
+### 6. Representations about payment arrangements
+
+The Secretary of State shall, insofar as is reasonably practicable, provide the liable person and the person entitled to receive the payments of child support maintenance with an opportunity to make representations with regard to the matters referred to in regulations 2 to 5 and the Secretary of State shall have regard to those representations in exercising his powers under those regulations.
+
+### 7. Notice to liable person as to requirements about payment[^key-e0fdf712e3cc17507241e969b32bef7e]
+
+(1)[^key-698991c33a0e3a7d2e88450f032a0f8d] In the case of child support maintenance,[^M_F_04b3cfc6-89e1-41d3-faa9-4cbd3d8909c2] the Secretary of State shall send the liable person a notice stating—
+
+- (a) the amount of child support maintenance payable;
+- (b) to whom it is to be paid;
+- (c) the method of payment; and
+- (d) the day and interval by reference to which payments are to be made.
+- (e)[^M_F_3c3cecf0-3142-4852-e7e4-09a9291664b3] the amount of any payment of child support maintenance which is overdue and which remains outstanding.
+
+(1A)[^M_F_f48d9101-a32f-45d6-f10f-df0bb302e5ef] In the case of penalty payments, interest or fees, the Secretary of State shall send the liable person a notice stating—
+
+- (a) the amount of child support maintenance payable;
+- (b) the amount of arrears;
+- (c) the amount of the penalty payment, interest or fees to be paid, as the case may be;
+- (d) the method of payment;
+- (e) the day by which payment is to be made; and
+- (f) information as to the provisions of sections 16 and 20 of the Act.
+
+(2) A notice under paragraph (1) shall be sent to the liable person as soon as is reasonably practicable after—
+
+- (a) the making of a maintenance calculation[^M_F_597c8da4-3528-4539-a1c9-6ce0d31e6fc6], and
+- (b) after any change in the requirements referred to in any previous such notice.
+
+(3)[^M_F_58c91f75-2918-4e64-8a76-160b9c4ae061] A notice under paragraph (1A) shall be sent to the liable person as soon as reasonably practicable after the decision to require a payment of the penalty payment, interest or fees has been made.
+
+## PART IIA — COLLECTION OF PENALTY PAYMENTS[^M_F_0e62d759-c730-4a29-fb61-022afd185dc8]
+
+### 7A. Payment of a financial penalty
+
+(1) This regulation applies where a maintenance calculation is, or has been, in force, the liable person is in arrears with payments of child support maintenance, and the Secretary of State requires the liable person to pay penalty payments to him.
+
+(2) For the purposes of regulation 7(1)(e) a payment will be overdue if it is not received by the time that the next payment of child support maintenance is due.
+
+(3) The Secretary of State may require a penalty payment to be made if the outstanding amount is not received within 7 days of the notification in regulation 7(1)(e) or if the liable person fails to pay all outstanding amounts due on dates and of amounts as agreed between the liable person and the Secretary of State.
+
+(4) Payments of a penalty payment shall be made within 14 days of the notification referred to in regulation 7(1A).
+
+(5) In this Part a “liable person” means a person liable to make a penalty payment and in Part II and in this Part “penalty payment” is to be construed in accordance with section 41A of the Act.
+
+## PART III — DEDUCTION FROM EARNINGS ORDERS
+
+### 8. Interpretation of this Part
+
+(1) For the purposes of this Part—
+
+- “defective” means in relation to a deduction from earnings order that it does not comply with the requirements of regulations 9 to 11 and such failure to comply has made it impracticable for the employer to comply with his obligations under[^M_F_3b8b46a8-9558-45fd-e5bf-cd7df8f68f52] the Act and these Regulations;
+- “disposable income” means the amount determined under *(affected by repeal, see note)*[^M_F_8f3a57ee-0eed-42cc-961e-17ba0fc66a2e] regulation 12(1)(a)[^M_F_066e6748-e815-4cb8-a59a-ff95ac9d6c85] *(affected by repeal, see note)*[^M_F_8f3a57ee-0eed-42cc-961e-17ba0fc66a2e] of the Child Support (Maintenance Assessments and Special Cases) Regulations 1992 *(affected by repeal, see note)*[^M_F_8f3a57ee-0eed-42cc-961e-17ba0fc66a2e] [^c1833852];
+- “earnings” shall be construed in accordance with paragraphs (3) and (4);
+- “exempt income” means the amount determined under regulation 9 of the Child Support (Maintenance Assessments and Special Cases) Regulations 1992; *(affected by repeal, see note)*[^M_F_6123078c-14c6-473b-9ebb-4c49d1b9a960]
+- “interim maintenance assessment” means a Category A, Category B, Category C or Category D interim maintenance assessment within the meaning of[^M_F_b96281a2-1c93-47dc-eddb-70639be62650] *(affected by repeal, see note)*[^M_F_82b4e855-2c9e-4acb-f474-ceae4206abb3] regulation 8(3)[^M_F_93d1a5c4-800e-4dce-e106-661f5e53860a] *(affected by repeal, see note)*[^M_F_82b4e855-2c9e-4acb-f474-ceae4206abb3] of the Child Support (Maintenance Assessment Procedure) Regulations 1992; *(affected by repeal, see note)*[^M_F_82b4e855-2c9e-4acb-f474-ceae4206abb3]
+- “net earnings” shall be construed in accordance with paragraph (5);
+- “normal deduction rate” means the rate specified in a deduction from earnings order (expressed as a sum of money per month and the equivalent of that sum for a 1, 2 and 4 week period[^key-289871a988c74a7305a22eff15ad0d35]) at which deductions are to be made from the liable person’s net earnings;
+- “pay-day” in relation to a liable person means an occasion on which earnings are paid to him or the day on which such earnings would normally fall to be paid;
+- “protected earnings proportion” means the proportion referred to in regulation 11(2).[^M_F_76b3c93c-2b5d-4eb6-f507-1e74798b8345]
+- “prescribed minimum amount” means the minimum amount prescribed in regulation 13 of the Child Support (Maintenance Assessments and Special Cases) Regulations 1992; *(affected by repeal, see note)*[^M_F_ab0d9310-b439-45d1-ca32-292f31bba173]
+- “protected earnings rate” means the level of earnings specified in a deduction from earnings order (expressed as a sum of money per week, month or other period) below which deductions of child support maintenance shall not be made for the purposes of this Part; *(affected by repeal, see note)*[^M_F_71f1aa1f-cbe4-46a2-d165-7f578679e4c0]
+- “protected income level” means the level of protected income determined in accordance with *(affected by repeal, see note)*[^M_F_48268a9c-965a-4028-a319-232d7b305253] paragraphs (1) to (5) of[^M_F_5f67fcb6-8486-4321-80df-4470bf71f2a0] *(affected by repeal, see note)*[^M_F_48268a9c-965a-4028-a319-232d7b305253] regulation 11 of the Child Support (Maintenance Assessments and Special Cases) Regulations 1992. *(affected by repeal, see note)*[^M_F_48268a9c-965a-4028-a319-232d7b305253]
+
+(2) For the purposes of this Part the relationship of employer and employee shall be treated as subsisting between two persons if one of them, as a principal and not as a servant or agent, pays to the other any sum defined as earnings under paragraph (1) and “employment”, “employer” and “employee” shall be construed accordingly.
+
+(3) Subject to paragraph (4), “earnings” are any sums payable to a person—
+
+- (a) by way of wages or salary (including any fees, bonus, commission, overtime pay or other emoluments payable in addition to wages or salary or payable under a contract of service);
+- (b) by way of pension (including an annuity in respect of past service, whether or not rendered to the person paying the annuity, and including periodical payments by way of compensation for the loss, abolition or relinquishment, or diminution in the emoluments, of any office or employment);
+- (c) by way of statutory sick pay.
+
+(4) “Earnings” shall not include—
+
+- (a) sums payable by any public department of the Government of Northern Ireland or of a territory outside the United Kingdom;
+- (b) pay or allowances payable to the liable person as a member of Her Majesty’s forces other than pay or allowances payable by his employer to him as a special member of a reserve force (within the meaning of the Reserve Forces Act 1996)[^M_F_c823cb65-cfd4-4de3-92cb-6fecba59e72c];
+- (c) pension, allowances or benefit payable under any enactment relating to social security;
+- (d) pension or allowances payable in respect of disablement or disability;
+- (e) guaranteed minimum pension within the meaning of the Social Security Pensions Act 1975 [^c1833853].
+- (f)[^key-6dee33895a046c0ca4f90cfbcfe4f684] working tax credit payable under section 10 of the Tax Credits Act 2002.
+
+(5) “Net earnings” means the residue of earnings after deduction of—
+
+- (a) income tax;
+- (b) primary class I contributions under Part I of the Contributions and Benefits Act 1992 [^c1833854];
+- (c) amounts deductible by way of contributions to a superannuation scheme which provides for the payment of annuities or lump[^M_F_884b7eb4-b1bf-4b82-ab62-25556b858499] sums—
+  - (i) to the employee on his retirement at a specified age or on becoming incapacitated at some earlier age; or
+  - (ii) on his death or otherwise, to his personal representative, widow, surviving civil partner,[^key-7e6e33f5b9019cc14dba8ab0787e84a9] relatives or dependants.
+
+### 9. Deduction from earnings orders
+
+A deduction from earnings order shall specify—
+
+- (a) the name and address of the liable person;
+- (b) the name of the employer at whom it is directed;
+- (c) where known, the liable person’s place of work, the nature of his work and any works or pay number;
+- (cc)[^M_F_3eb6a79b-27e4-4e56-f043-39b178076f00] where known, the liable person’s national insurance number;
+- (d)[^M_F_93bf5223-0b38-4e39-deb7-68716b48fb3f] the normal deduction rate or rates and the date upon which each is to take effect;
+- (e) the protected earnings proportion[^M_F_135cf1af-df92-4dc6-d8ef-1702b7847cf0];
+- (f) the address to which amounts deducted from earnings are to be sent.
+
+### 10. Normal deduction rate[^key-e56597646b44bd3336feb35a862314d0]
+
+(1) The period by reference to which the normal deduction rate is set must be the period by reference to which the liable person is normally paid where that period is a 1, 2 or 4 weekly or monthly period.
+
+(2) The employer must select the normal deduction rate which applies depending on the period by reference to which the liable person's earnings are normally paid.
+
+(3) Where the liable person is paid by reference to a period other than at a 1, 2 or 4 weekly or monthly period, the Secretary of State must discharge the deduction from earnings order in accordance with regulation 20.
+
+### 11. Protected earnings proportion[^key-f15da22d4caaabe84306c40effe33208]
+
+(1) The period by reference to which the protected earnings proportion is set must be the same as the period by reference to which the normal deduction rate is set in accordance with regulation 10(1).
+
+(2) The protected earnings proportion in respect of any period shall be 60% of the liable person's net earnings in respect of that period as calculated at the pay-day of the liable person by the employer.
+
+### 12. Amount to be deducted by employer
+
+(1) Subject to the provisions of this regulation, an employer who has been served with a copy of a deduction from earnings order in respect of a liable person in his employment shall, each pay-day, make a deduction from the net earnings of that liable person of an amount equal to the normal deduction rate.
+
+(2) Where the deduction of the normal deduction rate would reduce the liable person’s net earnings below the protected earnings proportion[^M_F_d155303d-8096-48af-b9b3-a3a444726439] the employer shall deduct only such amount as will leave the liable person with net earnings equal to the protected earnings proportion[^M_F_aa702dd9-efef-4b77-8ae9-f9158de558f6].
+
+(3) Where the liable person receives a payment of earnings at an interval greater or lesser than the interval specified in relation to the normal deduction rate and the protected earnings proportion[^M_F_dacc08ce-bbfb-47d3-d2da-6a269e96bf3e] (“the specified interval”) the employer shall, for the purpose of such payments, take as the normal deduction rate and the protected earnings proportion[^M_F_49fb2e13-9b24-41a0-c79c-fdbe359f9f45] such amounts (to the nearest whole penny) as are in the same proportion to the interval since the last pay-day as the normal deduction rate and the protected earnings proportion[^M_F_1ec9981c-d87d-4e34-9be5-a5f40dff94d4] bear to the specified interval.
+
+(3A)[^M_F_e41e4447-049e-485e-f65c-54b9760e9398] Where on any pay-day the liable person receives a payment of earnings covering a period longer than the period by reference to which the normal deduction rate is set, the employer shall, subject to paragraph (2), make a deduction from the net earnings paid to that liable person on that pay-day of an amount which is in the same proportion to the normal deduction rate as that longer period is to the period by reference to which that normal deduction rate is set.
+
+(4) Where, on any pay-day, the employer fails to deduct an amount due under the deduction from earnings order or deducts an amount less than the amount of the normal deduction rate the shortfall shall, subject to the operation of paragraph (2), be deducted in addition to the normal deduction rate at the next available pay-day or days.
+
+(5) Where, on any pay-day, the liable person’s net earnings are less than his protected earnings rate the amount of the difference shall be carried forward to his next pay-day and treated as part of his protected earnings in respect of that pay-day. *(affected by repeal, see note)*[^M_F_72e09606-85a1-4cb3-bc8d-59cbbcbff3c3]
+
+(6) Where, on any pay-day, an employer makes a deduction from the earnings of a liable person in accordance with the deduction from earnings order he may also deduct an amount not exceeding £1 in respect of his administrative costs and such deduction for administrative costs may be made notwithstanding that it may reduce the liable person’s net earnings below the protected earnings proportion[^M_F_31ae644c-7b7d-42c4-8276-7def46d7595c].
+
+### 13. Employer to notify liable person of deduction
+
+(1) An employer making a deduction from earnings for the purposes of this Part shall notify the liable person in writing of the amount of the deduction, including any amount deducted for administrative costs under regulation 12(6).
+
+(2) Such notification shall be given not later than the pay-day on which the deduction is made or, where that is impracticable, not later than the following pay-day.
+
+### 14. Payment by employer to Secretary of State
+
+(1) Amounts deducted by an employer under a deduction from earnings order (other than any administrative costs deducted under regulation 12(6)) shall be paid to the Secretary of State by the 19th day of the month following the month in which the deduction is made.
+
+(2) Such payment may be made—
+
+- (a) by cheque;
+- (b) by automated credit transfer; or
+- (c) by such other method as the Secretary of State may specify.
+
+### 15. Information to be provided by liable person[^key-c1a5c2a715c7e14f823715fa52901753]
+
+(1) A liable person in respect of whom a deduction from earnings order is in force must notify the Secretary of State in writing within 7 days of each occasion on which he leaves employment or becomes employed, or re-employed.
+
+(2) If a liable person becomes employed or re-employed, such notification must include the following details—
+
+- (a) the name and address of his employer;
+- (b) the amount of his earnings and expected earnings; and
+- (c) his place of work, nature of his work and any works or pay number.
+
+### 16. Duty of employers and others to notify Secretary of State
+
+(1) Where a deduction from earnings order is served on a person on the assumption that he is the employer of a liable person but the liable person to whom the order relates is not in his employment, the person on whom the order was served shall notify the Secretary of State of that fact in writing, at the address specified in the order, within 10 days of the date of service on him of the order.
+
+(2) Where an employer is required to operate a deduction from earnings order and the liable person to whom the order relates ceases to be in his employment the employer shall notify the Secretary of State of that fact in writing, at the address specified in the order, within 10 days of the liable person ceasing to be in his employment.
+
+(3) Where an employer becomes aware that a deduction from earnings order is in force in relation to a person who is an employee of his he shall, within 7 days of the date on which he becomes aware, notify the Secretary of State of that fact in writing at the address specified in the order.
+
+### 17. Requirement to review deduction from earnings orders[^key-2ca4f0c7365442c68a8a3d792f11d61b][^M_F_666acf2d-3f02-4363-89ba-dbb5aaf73e68]
+
+(1) Subject to paragraph (2), the Secretary of State shall review a deduction from earnings order in the following circumstances—
+
+- (a) where there is a change in the amount of the maintenance calculation[^M_F_57d58bf3-3bf4-4686-d16e-907aee8038e8];
+- (b) where any arrears, penalty payment, interest or fees[^M_F_0fafa583-6978-4cca-8e0e-de11a541a6c5] payable under the order are paid off.
+
+(2) There shall be no obligation to review a deduction from earnings order under paragraph (1) where the normal deduction rates specified in the order take account of the changes which will arise as a result of the circumstances specified in sub-paragraph (a) or (b) of that paragraph.
+
+### 18. Power to vary deduction from earnings orders
+
+(1) The Secretary of State may (whether on a review under regulation 17 or otherwise) vary a deduction from earnings order so as to—
+
+- (a) include any amount which may be included in such an order or exclude or decrease any such amount;
+- (b) substitute a subsequent employer for the employer at whom the order was previously directed.
+
+(2) The Secretary of State shall serve a copy of any deduction from earnings order, as varied, on the liable person’s employer and on the liable person.
+
+### 19. Compliance with deduction from earnings order as varied
+
+(1) Where a deduction from earnings order has been varied and a copy of the order as varied has been served on the liable person’s employer it shall, subject to paragraph (2), be the duty of the employer to comply with the order as varied.
+
+(2) The employer shall not be under any liability for non-compliance with the order, as varied, before the end of the period of 7 days beginning with the date on which a copy of the order, as varied, was served on him.
+
+### 20. Discharge of deduction from earnings orders[^key-2c351d61bfbffb6dacf7920e754c0c39]
+
+(1)[^M_F_0e181842-f2f9-4bff-d684-b1e0cee3130d] The Secretary of State may discharge a deduction from earnings order where it appears to him that—
+
+- (a) no further payments are due under it;
+- (b) the order is ineffective or some other way of securing that payments are made would be more effective;
+- (c) the order is defective;
+- (d) the order fails to comply in a material respect with any procedural provision of the Act or regulations made under it other than provision made in regulation 9, 10 or 11;
+- (e) at the time of the making of the order he did not have, or subsequently ceased to have, jurisdiction to make a deduction from earnings order; [^key-0d283359bf198b944dc65cfaac028a8d]...
+- (f) in the case of an order made at a time when there is in force a default or interim maintenance decision[^M_F_e5c5cb8a-e4e8-479a-dad6-c4c7f2277dd8], it is inappropriate to continue deductions under the order having regard to the compliance or the attempted compliance with the maintenance calculation[^M_F_3db2cc6e-1b38-41a4-c2ec-d3cc82534261] by the liable person; or[^key-c3e8b5100d56fe7a964a59b919cdc3af]
+- (g) the circumstances in regulation 10(3) apply; or[^key-399668ea715dcbfadf6caf677fb0231e]
+- (h) it is appropriate to discharge the order in a case where liability has ceased to accrue under the maintenance assessment or maintenance calculation in respect of which the order is made because the power under paragraph 1(1) of Schedule 5 to the Child Maintenance and Other Payments Act 2008 (power to require a decision about whether to stay in the statutory scheme) has been exercised in relation to the case.
+
+(2) The Secretary of State shall give written notice of the discharge of the deduction from earnings order to the liable person and to the liable person’s employer.
+
+### 21. Lapse of deduction from earnings orders
+
+(1) A deduction from earnings order shall lapse (except in relation to any deductions made or to be made in respect of the employment not yet paid to the Secretary of State) where the employer at whom it is directed ceases to have the liable person in his employment.
+
+(2) The order shall lapse from the pay-day coinciding with, or, if none, the pay-day following, the termination of the employment.
+
+(3) A deduction from earnings order which has lapsed under this regulation shall nonetheless be treated as remaining in force for the purposes of regulations 15 and 24.
+
+(4) Where a deduction from earnings order has lapsed under paragraph (1) and the liable person recommences employment (whether with the same or another employer), the order may be revived from such date as may be specified by the Secretary of State.
+
+(5) Where a deduction from earnings order is revived under paragraph (4), the Secretary of State shall give written notice of that fact to, and serve a copy of the notice on, the liable person and the liable person’s employer.
+
+(6) Where an order is revived under paragraph (4), no amount shall be carried forward under regulation 12(4) or (5) *(affected by repeal, see note)*[^M_F_4858826b-ad23-45aa-abc9-8895e982f30d] from a time prior to the revival of the order.
+
+### 22. Appeals against deduction from earnings orders
+
+(1) A liable person in respect of whom a deduction from earnings order has been made may appeal to the magistrates’ court, or in Scotland the sheriff of the sheriffdom in which he resides[^key-b6f8fc3670a6b87387c659b83acd256c].
+
+(2) Subject to paragraph (2A),[^key-e0ff346b95b4d734108d5e2ee4935339] any appeal shall—
+
+- (a) be by way of complaint for an order or, in Scotland, by way of application;
+- (b) where the liable person is resident in the United Kingdom,[^key-c1101eab4e7387d5c1c43cc376b5289e] be made within 28 days of the date on which the matter appealed against arose.
+- (c)[^key-bb48f14e4074726ca98049c1d2c8b5bc] where the liable person is not resident in the United Kingdom, be made within 56 days of the date on which the matter appealed against arose.
+
+(2A)[^key-34c32e23355e1b4ca6de130d4750408c] Any appeal against a decision of the Secretary of State that the exclusion required by regulation 3(3) does not apply is—
+
+- (a) where the liable person is resident in the United Kingdom, to be made within 28 days of the date on which that decision is given or sent to the liable person;
+- (b) where the liable person is not resident in the United Kingdom, to be made within 56 days of the date on which that decision is given or sent to the liable person.
+
+(3) Subject to paragraph (3A),[^key-1d71316717225e515d8c757c6e0c7126] an appeal may be made only on one or both of the following grounds—
+
+- (a) that the deduction from earnings order is defective;
+- (b) that the payments in question do not constitute earnings.
+
+(3A)[^key-97e69119f24d326e950458413e7d2dff] Where the Secretary of State is considering specifying a deduction from earnings order as a method of payment under regulation 3(1)(i) an appeal may also be made against a decision of the Secretary of State that the exclusion required by regulation 3(3) does not apply.
+
+(4) Subject to paragraph (5),[^key-8bb4c40afa6030f5ec0376f3875bcb22] where the court or, as the case may be, the sheriff is satisfied that the appeal should be allowed the court, or sheriff, may—
+
+- (a) quash the deduction from earnings order; or
+- (b) specify which, if any, of the payments in question do not constitute earnings.
+
+(5)[^key-c4bf9b82da71e356523cc28b68c5dabe] Where an appeal is brought on the grounds set out in paragraph (3A), and the court, or as the case may be, the sheriff, is satisfied that the appeal should be allowed the court or the sheriff is to refer the case to the Secretary of State for him to specify whichever of the methods of payment set out in regulation 3(1) he considers to be appropriate in the circumstances.
+
+### 23. Crown employment
+
+Where a liable person is in the employment of the Crown and a deduction from earnings order is made in respect of him then for the purposes of this Part—
+
+- (a) the chief officer for the time being of the Department, office or other body in which the liable person is employed shall be treated as having the liable person in his employment (any transfer of the liable person from one Department, office or body to another being treated as a change of employment); and
+- (b) any earnings paid by the Crown or a minister of the Crown, or out of the public revenue of the United Kingdom, shall be treated as paid by that chief officer.
+
+### 24. Priority as between orders
+
+(1) Where an employer would, but for this paragraph, be obliged, on any pay-day, to make deductions under two or more deduction from earnings orders he shall— *(affected by repeal, see note)*[^M_F_c7f42d8e-8d65-4a32-8b34-b2fa4645347a]
+
+- (a) deal with the orders according to the respective dates on which they were made, disregarding any later order until an earlier one has been dealt with; *(affected by repeal, see note)*[^M_F_c7f42d8e-8d65-4a32-8b34-b2fa4645347a]
+- (b) deal with any later order as if the earnings to which it relates were the residue of the liable person’s earnings after the making of any deduction to comply with any earlier order. *(affected by repeal, see note)*[^M_F_c7f42d8e-8d65-4a32-8b34-b2fa4645347a]
+
+(2) Where an employer would, but for this paragraph, be obliged to comply with a deduction from earnings order[^M_F_21b92774-8a4d-44c4-b2e0-6694ee474bf2] and one or more attachment of earnings orders he shall—
+
+- (a) in the case of an attachment of earnings order which was made either wholly or in part in respect of the payment of a judgment debt or payments under an administration order, deal first with the deduction from earnings order [^M_F_58ade664-6e05-4968-ea9f-9fd469f88d70]... and thereafter with the attachment of earnings order as if the earnings to which it relates were the residue of the liable person’s earnings after the making of deductions to comply with the deduction from earnings order [^M_F_4f999a47-142f-42c1-8990-b100c389e5b5]...;
+- (b) in the case of any other attachment of earnings order he shall—[^M_F_07457f80-4b08-4eb0-c68f-64d985abb5e8]
+  - (i) deal with the orders according to the respective dates on which they were made, disregarding any later order until an earlier one has been dealt with;
+  - (ii) deal with any later order as if the earnings to which it relates were the residue of the liable person’s earnings after the making of any deduction to comply with any earlier order.
+
+“Attachment of earnings order” in this paragraph means an order made under the Attachment of Earnings Act 1971 [^c1833855] or under regulation 32 of the Community Charge (Administration and Enforcement) Regulations 1989 [^c1833856] or under regulation 37 of the Council Tax (Administration and Enforcement) Regulations 1992[^M_F_a93c239e-c7ff-47da-bf12-0700ad74e9f5].
+
+(3) Paragraph (2) does not apply to Scotland.
+
+(4) In Scotland, where an employer would, but for this paragraph, be obliged to comply with a deduction from earnings order[^M_F_fc1b77a3-7e4f-4eb5-bac0-dfc72306f980] and one or more diligences against earnings he shall deal first with the deduction from earnings order [^M_F_84f10e54-feca-4c73-e4ed-fdb495a8119c]... and thereafter with the diligence against earnings as if the earnings to which the diligence relates were the residue of the liable person’s earnings after the making of deductions to comply with the deduction from earnings order [^M_F_577c182c-876e-4aed-8444-70b1858bbf10]....
+
+### 25. Offences
+
+The following regulations are designated for the purposes of section 32(8) of the Act (offences relating to deduction from earnings orders)—
+
+- (aa) regulation 14(1);[^M_F_79ddfd63-646e-4b77-83de-dda7b00d3295]
+- (ab)[^M_F_89438cad-b115-4775-ad88-4cb9022e9cc9] regulation 15(1) and (2);
+- (b) regulation 16(1), (2) and (3);
+- (c) regulation 19(1).
+
+## PART   3A — Deduction Orders[^key-7582f7575c87079b547e785f75d9db01]
+
+### CHAPTER 1 — Interpretation
+
+#### 25A. Interpretation of this Part
+
+(1) In this Part—
+
+- “another account-holder” means an account-holder other than the liable person in a case where a regular deduction order or a lump sum deduction order is proposed or made in respect of a joint account[^key-ce8c4c3d0fa473de89f65329b7113f5f]
+- “assessable income” means the amount calculated in accordance with paragraph 5 of Schedule 1 to the Act as it applies to a 1993 scheme case and regulations made for the purposes of that paragraph;
+- “current income” has the meaning given in regulation 37 of the Child Support Maintenance Calculation Regulations 2012 (current income – general);[^key-a7d9573aea9b667b00daa6f9d75fd1ca]
+- “deduction period” means the period of a week, a month or other period at which deductions are to be made from the amount (if any) standing to the credit of the account specified in a regular deduction order;
+- “garnishee order” means an order made in accordance with the provisions of order 30 of the County Court Rules 1981 or order 49 of the Rules of the Supreme Court 1965;
+- “gross weekly income” means income calculated under Chapter 1 of Part 4 of the Child Support Maintenance Calculation Regulations 2012;[^key-9afad126a64df39699d0cec45894a68d]
+- “joint account” includes an account used by a partnership formed in England or Wales, of which the liable person is a partner
+- “net weekly income” has the meaning given in the Schedule to the Child Support (Maintenance Calculations and Special Cases) Regulations 2000; *(affected by repeal, see note)*[^key-4888b39c3d723c65ae608f9b9123840a]
+- “lump sum deduction order” means an order under section 32E(1) or, as the case may be, 32F(1) of the Act;
+- “regular deduction order” means an order under section 32A(1) of the Act ;
+- “third party debt order” means an order made in accordance with the provisions of Part 72 of the Civil Procedure Rules 1998;
+- “working day” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday within the meaning of the [Banking and Financial Dealings Act 1971](https://www.legislation.gov.uk/ukpga/1971/80) in the part of the United Kingdom where a copy of a regular deduction order or a lump sum deduction order is served or a notification sent by the Secretary of State[^key-dd7fcd192b4833b754475db06fbeaa94] is received.
+
+(2) Any person against whom an order under section 32A(1) of the Act may be made by the Secretary of State[^key-b7ca87fa04501f92fa848e7c1e09fcb0] is referred to in this Chapter and Chapters 2 and 4 as “the liable person”.
+
+(3) Where a copy of a regular deduction order or a lump sum deduction order is served by the Secretary of State in accordance with section 32A(7), 32E(6) or 32F(6) of the Act—
+
+- (a) on a deposit-taker—
+  - (i) where that copy of the order is sent by electronic communication or fax to the deposit-taker’s last notified address for electronic communication or, as the case may be, fax number, it is to be treated as having been served at the end of the first working day after the day it was sent by the Secretary of State, or
+  - (ii) where that copy of the order is sent by post to the deposit-taker’s last notified address, it is to be treated as having been served at the end of the second working day after the day it was posted by the Secretary of State; or
+- (b)[^key-6bc0998cfc41bbe6ff25f21133e1558d] on a liable person or, if the order is made in respect of a joint account, on another account holder—
+  - (i) a copy of the order sent by electronic communication to that person’s last notified address for electronic communication, is to be treated as having been served at the end of the first working day after the day on which it was sent;
+  - (ii) a copy of the order sent by post to that person’s last known or notified address, is to be treated as having been served at the end of the day on which the copy of the order was posted.
+
+(4) Any notification sent by the Secretary of State[^key-51bb33c6f37443521ce5c34aa35595fd] in accordance with this Part to a deposit-taker, a liable person or another account-holder[^key-484de9997a737a6a37a1b695c51f9a4b] is to be treated as having been received at the same time as an order is treated as having been served in accordance with the provisions of paragraph (3).
+
+(5)[^key-c985597be2956cefc33e1f748dbf818c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) This Part applies to a 1993 scheme case in the same way as it applies to a 2003 scheme case and—
+
+- (a) any references to expressions in the Act (including “maintenance calculation”) or to regulations made under the Act are to be read, in relation to a 1993 scheme case, with the necessary modifications; and
+- (b) any reference in this Part to “net weekly income” is to be read as if it were a reference to “assessable income” where these Regulations apply to a 1993 scheme case. *(affected by repeal, see note)*[^key-83be874dfceefbfdfc34b83aa8651aee]
+
+(7) In this regulation—
+
+- (a)[^key-8dfc230dcbfceed1b66be33c715c1f73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-9df7b1698e08d2c25653149c7635fe5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) “1993 scheme case” means a case in respect of which the provisions of the Child Support, Pensions and Social Security Act 2000 have not been brought into force in accordance with article 3 of the Child Support, Pensions and Social Security Act 2000 (Commencement No. 12) Order 2003; and
+- (d) “2003 scheme case” means a case in respect of which those provisions have been brought into force.
+
+#### 25A1. Regular deduction order in respect of a joint account[^key-39af00686573fb015e5348d3c299c18f]
+
+(1) Before making a regular deduction order in respect of a joint account the Secretary of State shall serve a notice containing the information set out in paragraph (2) and the further information set out in paragraph (3) or (4) (as appropriate).
+
+(2) The information for each account-holder is—
+
+- (a) that the Secretary of State is proposing to make an order in respect of the account;
+- (b) the name of the liable person;
+- (c) the number and sort code of the account;
+- (d) that the order would be made to secure the payment of child support maintenance payable by the liable person;
+- (e) the dates on which the Secretary of State is proposing to make deductions under the order;
+- (f) that each account-holder has an opportunity to make representations to the Secretary of State about the matters in sub-paragraphs (a) and (e);
+- (g) that the order is likely to be made in the terms set out in the notice if representations are not made; and
+- (h) the period for making representations.
+
+(3) The further information to the liable person is—
+
+- (a) the amounts that the Secretary of State is proposing to deduct under the order in respect of arrears of child support maintenance payable under the calculation and amounts of child support maintenance which will become payable under the calculation;
+- (b) that the liable person has an opportunity to make representations to the Secretary of State about the matters in sub-paragraph (a);
+- (c) that the order is likely to be made in the terms set out in the notice if representations are not made; and
+- (d) the period for making representations.
+
+(4) The further information to another account-holder is—
+
+- (a) the amounts that the Secretary of State is proposing to deduct under the order;
+- (b) that another account-holder has an opportunity to make representations to the Secretary of State about the matters in sub-paragraph (a);
+- (c) that the order is likely to be made in the terms set out in the notice if representations are not made; and
+- (d) the period for making representations.
+
+(5) The period for making representations to the Secretary of State in respect of the matters referred to in paragraphs (2)(a), (e) and (3)(a) or (4)(a) is—
+
+- (a) 14 days, beginning with the day on which the account-holder receives the notice; or
+- (b) such longer period as the Secretary of State considers reasonable in the circumstances of the case.
+
+(6) A regular deduction order may not be made before the period for making representations has expired and the Secretary of State has considered any representations in respect of the matters referred to in paragraphs (2)(a), (e) and (3)(a) or (4)(a) made to the Secretary of State during that period.
+
+### CHAPTER 2 — Regular Deduction Orders
+
+#### 25B. Regular deduction orders
+
+(1) A regular deduction order must specify—
+
+- (a) the amount of the regular deduction; and
+- (b) the dates on which regular deductions (referred to in this Chapter as “deduction dates”) are due to be made.
+
+(2) Where the date on which the regular deduction is due to be made is not a working day, the deduction must be made on the first working day after the date specified in the order.
+
+#### 25C. Maximum deduction rate
+
+(1) The deduction rate under a regular deduction order in respect of any deduction period—
+
+- (a) is not to exceed 40% of the liable person’s gross[^key-1f1f680a1d6e30f2646278bbd5490edf] weekly income [^key-cdf7f74fa41e6b1bc2b9be2035ad4191]... as calculated—
+  - (i) at the date of the current maintenance calculation, or
+  - (ii) where a maintenance calculation has been in force and there are arrears of child support maintenance, at the date of the most recent previous maintenance calculation; or
+- (b) where a default maintenance decision has been made, is not to exceed £80 per week.
+
+(2) In this Chapter “previous maintenance calculation” means a maintenance calculation which is no longer in force.
+
+#### 25D. Minimum amount
+
+(1) A deduction must not be made where the amount standing to the credit of the account specified in the regular deduction order is below the minimum amount on the date a deduction is due to be made.
+
+(2) The minimum amount (for the purposes of this Chapter) is, where the deduction period is—
+
+- (a) monthly, £40;
+- (b) weekly, £10; or
+- (c) for any other period, £10 for each whole week in that period plus £1 for each additional day in that period,
+
+plus the amount of administrative costs authorised by regulation 25Z(a) (administrative costs).
+
+#### 25E. Notification by the deposit-taker to the Secretary of State[^key-51ea0b72d5bb94f511336f1fb0590f2b]
+
+(1) A deposit-taker at which a regular deduction order is directed must notify the Secretary of State[^key-ecdb2a02301b4e613110a4efc2aca54c][^key-1299d1b7f328d1ec9d698d69d21e7dbc]..., within 7 days—
+
+- (a) of a copy of the order or the order as varied being served; or
+- (b) of notification being received by the deposit-taker that an order has been revived,
+
+of the matters set out in paragraph (2).
+
+(2) The matters are—
+
+- (a) if the account specified in the order does not exist; and
+- (b) where the name of the liable person specified in the order is different to the name in which the account specified in the order is held—
+  - (i) whether the account was previously held in the name of the liable person specified in the order, and
+  - (ii) if so, the new name in which the account is held,
+
+  only where the liable person named in the order is the same person as the person in whose name the account specified in the order is held.
+
+(3) A deposit-taker at which a regular deduction order is directed must notify the Secretary of State[^key-3a64989b205467c958960c89769aea28] within 7 days of notification being received that an order has lapsed or has been discharged—
+
+- (a) if the account specified in the order does not exist; and
+- (b) where the name of the liable person specified in the order is different to the name in which the account specified in the order is held—
+  - (i) whether the account was previously held in the name of the liable person specified in the order, and
+  - (ii) if so, the new name in which the account is held,
+
+  only where the liable person named in the order is the same person as the person in whose name the account specified in the order is held.
+
+(4) The deposit-taker at which a regular deduction order is directed must notify the Secretary of State within 7 days starting on the date on which a deduction is due to be made—
+
+- (a) if the account specified in the order has been closed;
+- (b) if the amount standing to the credit of the account specified in the order is less than the minimum amount; and
+- (c) where the name of the liable person specified in the order is different to the name in which the account specified in the order is held—
+  - (i) whether the account was previously held in the name of the liable person specified in the order, and
+  - (ii) if so, the new name in which the account is held,
+
+  only where the liable person named in the order is the same person as the person in whose name the account specified in the order is held.
+
+(5) The deposit-taker at which a regular deduction order is directed must notify the Secretary of State[^key-04f8604492ab4fbea4f9928314725327] within 7 days of receipt of a request made by the Secretary of State of the details of any other account held by the liable person with that deposit-taker and the details of that account, including—
+
+- (a) the number and sort code of that account; and
+- (b) the type of account.
+
+(5A)[^key-fb5f5d40e0ea9aded5e18d613455450d] The deposit-taker at which a regular deduction order is directed must within 7 days of changing the name of an account-holder, beginning with the day on which the deposit-taker changes that name, notify the Secretary of State of the old name of the account-holder and the new name of that account-holder, if the order—
+
+- (a) is made in respect of a joint account; and
+- (b) remains in force at any time within that 7 day period.
+
+(6) The requirements of this regulation apply only in so far as the deposit-taker has the information or can reasonably be expected to acquire it.
+
+#### 25F. Notification by the Secretary of State to the deposit-taker[^key-1482edf7333c89973dc2c5f0c7f5eeb5]
+
+The Secretary of State[^key-c4616cf6f52b5d3e85176a82647a1be0] must notify the deposit-taker within 7 days of making a decision that a regular deduction order has—
+
+- (a) been varied by virtue of regulation 25I (variation of a regular deduction order);
+- (b) lapsed under regulation 25J (lapse of a regular deduction order);
+- (c) been revived under regulation 25K (revival of a regular deduction order); or
+- (d) ceased to have effect by virtue of regulation 25L (discharge of a regular deduction order).
+
+#### 25G. Review of a regular deduction order
+
+(1)[^key-0e832f4eae164cb8df537b781f1cadab] The following persons may apply to the Secretary of State for a review of a regular deduction order—
+
+- (a) a deposit-taker at which the order is directed;
+- (b) the liable person against whom the order is made; or
+- (c) another account-holder (in the case of an order made in respect of a joint account).
+
+(2) The circumstances in which an application may be made under paragraph (1) are that—
+
+- (a) the liable person, the deposit-taker or another account-holder (in the case of an order made in respect of a joint account)[^key-6add1c71b69e136356ec3ca2511f076c] satisfies the Secretary of State[^key-41c13f0526fdb59fe9faac3c70e917fd] that some or all of the amount standing to the credit of the account specified in the order is not an amount in which the liable person has a beneficial interest;
+- (b) the applicant is the liable person and[^key-268fed17199a0f82f9f3b0ee8c039e60] there has been a change in the amount of the maintenance calculation in question;
+- (c) any amounts payable under the order have been paid;
+- (d) the maximum deduction rate has been calculated in accordance with regulation 25C(1)(a)(ii) (maximum deduction rate) and there has been a change in the liable persons current[^key-c05d7062dfd887de0dc0ecc155d8951f] income since the date of the most recent previous maintenance calculation;
+- (e) due to an official error, an incorrect amount has been specified in the order; [^key-af95798dd102a3e3a6ab354a1274ce84]...
+- (f) the order does not comply with the requirements of section 32A(5) of the Act or regulation 25B(1) or 25C.
+- (g)[^key-f183e4119812e10116cdd5c554f1136e] for a joint account, another account-holder satisfies the Secretary of State that the amount contributed by the liable person to the account specified in the order—
+  - (i) has decreased; or
+  - (ii) will decrease within a period of 3 months of the date on which the account-holder applied for a review of the order; or
+- (h) for a joint account, another account-holder who did not make representations within the period for making representations under regulation 25A1(5), 25IA(3) or 25KA(3) both—
+  - (i) satisfies the Secretary of State that that account-holder had reasonable excuse for not making representations within that period; and
+  - (ii) applies for a review of the order within 3 months of the expiry of the period for making representations under regulation 25A1(5), 25IA(3) or 25KA(3).
+
+(3) Following a review of an order under this regulation—
+
+- (a) where the Secretary of State[^key-9c850ce397493212cbd7a4416fd8d9e6] changes the amount to be deducted by the deposit-taker under the order, the Secretary of State may vary the order; or
+- (b) where the Secretary of State extinguishes the amount to be deducted by the deposit-taker under the order, the Secretary of State must discharge the order.
+
+(4) In paragraph (2)(e) “official error” has the same meaning as in regulation 1(3) of the Social Security and Child Support (Decisions and Appeals) Regulations 1999 (interpretation).
+
+#### 25H. Priority as between orders – regular deduction orders
+
+(1) Paragraphs (2) to (5) apply where one or more third party debt orders or garnishee orders provide for deductions to be made from the same account as that specified in a regular deduction order.
+
+(2) Where—
+
+- (a) one or more third party debt orders or garnishee orders are served on a deposit-taker before or on the day a payment is due to be made under a regular deduction order; and
+- (b) the regular deduction order was served on the same deposit-taker before those orders,
+
+the deposit-taker must make that payment except where the deposit-taker has taken action to comply with the obligations under any third party debt order or garnishee order.
+
+(3) Where a regular deduction order is served after an interim third party debt order or a garnishee order nisi the deposit-taker must take action to comply with any of those orders before making a deduction under the regular deduction order.
+
+(4) Where paragraph (2) or (3) applies, the deposit-taker must take action to comply with any third party debt orders or garnishee orders before making further deductions under the regular deduction order.
+
+(5) Where a decision to revive a regular deduction order takes effect on the same day as or any day after a third party debt order or garnishee order has been served, the deposit-taker must take action to comply with any of those orders before making a deduction under the regular deduction order.
+
+(6) Paragraphs (1) to (5) do not apply to Scotland.
+
+(7) In Scotland, paragraphs (8) to (10) apply where a deposit-taker receives one or more arrestment schedules (“arrestments”) and a regular deduction order which apply to the same account.
+
+(8) Where—
+
+- (a) one or more arrestments are served on a deposit-taker before or on the day a payment is due to be made under a regular deduction order; and
+- (b) the regular deduction order was served on the same deposit-taker before any of those arrestments,
+
+the deposit-taker must make that payment except where the deposit-taker has taken action to comply with the obligations under any of the arrestments.
+
+(9) Where paragraph (8) applies, the deposit-taker must take action to comply with any of those arrestments before making further deductions under the regular deduction order.
+
+(10) Where a decision to revive a regular deduction order takes effect on the same day as or any day after any arrestments have been served, the deposit-taker must take action to comply with any of those arrestments before making a deduction under the regular deduction order.
+
+#### 25I. Variation of a regular deduction order
+
+(1)[^key-dcf5327ef9f22ce1ca74c63563774f88] Subject to regulation 25IA, the Secretary of State may vary a regular deduction order by changing the amount to be deducted in the circumstances set out in paragraph (2).
+
+(2)[^key-4162376cef2a3714c629e8ee791631be] The circumstances are that—
+
+- (a) the Secretary of State[^key-a387f25b60ce25726609af63d20b1561] has accepted—
+  - (i) that a payment of arrears has been made by the liable person, and
+  - (ii) no alternative method of payment of child support maintenance has been arranged;
+- (b) a decision has been made under section 11, 12, 16 or 17 of the Act or there has been an appeal against a maintenance calculation;
+- (c) the Secretary of State has reviewed the order under regulation 25G (review of a regular deduction order); [^key-461a1e1b705cdc28ce96b6d2e459c157]...
+- (d) there has been an appeal under regulation 25AB(1)(a) or (b) (appeals); or[^key-fac53fcc93830475a4b78a1b243853bf]
+- (e) where the order is made in respect of a joint account, the amount contributed to the account by the liable person has changed or the Secretary of State has reason to believe that it will change within 3 months of the date on which the order is made or varied.
+
+(3) The Secretary of State[^key-75a6e3300ecace5f0353d776a0242d53] may from time to time vary the deduction period or the deduction dates[^key-9e7bc78ff24700db2d040f340ad87060].
+
+(4) Where—
+
+- (a) a regular deduction order has been varied under this regulation; and
+- (b) a copy of the order as varied has been served on the deposit-taker at which it is directed,
+
+that deposit-taker must comply with the order; but the deposit-taker is not to be under any liability for non-compliance before the end of the period of 7 days beginning on the day on which the copy of the order as varied is served on the deposit-taker.
+
+(5)[^key-9c1bae480e6a1cbfff3804b8d2259abf] Paragraphs (2) and (4) of this regulation also apply to a regular deduction order made in respect of a joint account.
+
+#### 25IA. Variation of a regular deduction order in respect of a joint account[^key-2b2c4510a386c9e92d6c5f805fd5fb54]
+
+(1) Before varying a regular deduction order made in respect of a joint account—
+
+- (a) to increase the amounts deducted; or
+- (b) to vary the deduction dates,
+
+  the Secretary of State shall serve on each account-holder a notice containing the information set out in paragraph (2).
+
+(2) The information is—
+
+- (a) that listed in regulation 25A1(2)(b), (c), (e), (g), (h) and (3)(a) or (4)(a) (as appropriate);
+- (b) that the Secretary of State is proposing to vary the order in respect of the joint account;
+- (c) an explanation as to why the Secretary of State is proposing to vary the order; and
+- (d) that the account-holder has an opportunity to make representations about the matters in sub-paragraph (b) and regulation 25A1(2)(e) and (3)(a) or (4)(a) (as appropriate).
+
+(3) The period for making representations to the Secretary of State in respect of the matters referred to in paragraph (2)(b) and regulation 25A1(2)(e) and (3)(a) or (4)(a) (as appropriate) is—
+
+- (a) 14 days, beginning with the day on which the account-holder receives the notice; or
+- (b) such longer period as the Secretary of State considers reasonable in the circumstances of the case.
+
+(4) The regular deduction order may not be varied before the period for making representations has expired and the Secretary of State has considered any representations in respect of the matters referred to in paragraph (2)(b) and regulation 25A1(2)(e) and (3)(a) or (4)(a) (as appropriate) made to the Secretary of State during that period.
+
+#### 25J. Lapse of a regular deduction order
+
+(1) A regular deduction order is to lapse in the circumstances set out in   paragraph (2).
+
+(2) The circumstances are where—
+
+- (a)[^key-9b22db543e8c85e37d3b919fc76b10c7] the Secretary of State[^key-49d75df5ad923f2210157f2f6512a20a] has agreed with the liable person an alternative method of payment of the child support maintenance due under the maintenance calculation; [^key-ff258df3258dd7d40a497ad05812bc6c]...
+- (b) there is an insufficient amount standing to the credit of the account specified in the order to enable a deduction to be made on two consecutive deduction dates, unless the Secretary of State has decided that the order is to continue for a greater number of deduction dates; or[^key-c1975f707feabcb399352245ab548e0f]
+- (c) the Secretary of State—
+  - (i) is satisfied that the liable person has ceased making contributions to the account; or
+  - (ii) has reason to believe that the liable person will cease making contributions to the account in the next deduction period,
+
+and the Secretary of State considers it is reasonable in all the circumstances that the order is to lapse.
+
+(3) A regular deduction order lapses on the day on which the deposit-taker receives notification that the order has lapsed from the Secretary of State.
+
+(4) A regular deduction order which has lapsed under this regulation is to be treated as remaining in force for the purposes of regulations 25E (notification by the deposit-taker to the Secretary of State[^key-7c96c66edf90e675d7e758a820a6bddd]), 25G (review of a regular deduction order) and 25AB (appeals).
+
+(5)[^key-e0103b0b1d110d2faed9433cac61f0dd] This regulation applies to a regular deduction order whether or not made in respect of a joint account, except for paragraph (2)(c) which applies to a regular deduction order made in respect of a joint account only.
+
+#### 25K. Revival of a regular deduction order
+
+(1) Where a regular deduction order has lapsed it may be revived by the Secretary of State[^key-6ce9b79dc5cbf30a39802015db2e6cd8] where—
+
+- (a) the liable person has failed to comply with any agreement reached under regulation 25J(2)(a) (lapse of a regular deduction order); [^key-d6811e80637afe5d351c43948080c78b]...
+- (b) the Secretary of State has reason to believe that following the lapse of an order under regulation 25J(2)(b) there is sufficient amount standing to the credit of the account specified in the order to enable a deduction to be made; or[^key-54b3e5ef2849106dae99a790a6669adb]
+- (c) following the lapse of an order under regulation 25J(2)(c) the liable person has started making contributions to the account again.
+
+(2) Where the Secretary of State decides to revive a regular deduction order that decision is to take effect on the day notification that the order has been revived is received by the deposit-taker.
+
+#### 25KA. Revival of a regular deduction order proposed in respect of a joint account[^key-e1cdc5e1dc61c02f505f578a9dfbf897]
+
+(1) Before reviving a regular deduction order made in respect of a joint account, the Secretary of State shall serve on each account-holder a notice containing the information set out in paragraph (2).
+
+(2) The information is—
+
+- (a) that listed in regulation 25A1(2)(b), (c), (e), (g), (h) and (3)(a) or (4)(a) (as appropriate);
+- (b) that the Secretary of State is proposing to revive the order in respect of the account;
+- (c) an explanation as to why the Secretary of State is proposing to revive the order; and
+- (d) that the account-holder has an opportunity to make representations about the matters in sub-paragraph (b) and regulation 25A1(2)(e) and (3)(a) or (4)(a) (as appropriate).
+
+(3) The period for making representations to the Secretary of State in respect of the matters referred to in paragraph (2)(b) and regulation 25A1(2)(e) and (3)(a) or (4)(a) (as appropriate) is—
+
+- (a) 14 days, beginning with the day on which the account-holder receives the notice; or
+- (b) such longer period as the Secretary of State considers reasonable in the circumstances of the case.
+
+(4) A regular deduction order may not be revived before the period for making representations has expired and the Secretary of State has considered any representations in respect of the matters referred to in paragraph (2)(b) and regulation 25A1(2)(e) and (3)(a) or (4)(a) (as appropriate) made to the Secretary of State during that period.
+
+#### 25L. Discharge of a regular deduction order
+
+(1) A regular deduction order must be discharged by the Secretary of State[^key-834177e5e39d20c8c4bca98b9330586a] where—
+
+- (a) the account specified in the order has been closed;
+- (b)[^key-7706c273dccc7b819f04c674af198745] the maintenance calculation in question is no longer in force and the amount of child support maintenance due under that calculation has been paid in full in accordance with regulation 2 (payment of child support maintenance);
+- (c) the liable person has complied with any agreement reached under regulation 25J(2)(a) for such period as the Secretary of State considers appropriate in the circumstances of the case;
+- (d) the Secretary of State has reviewed the order under regulation 25G and the Secretary of State has extinguished the amount to be deducted by the deposit-taker under the order;
+- (e) on an appeal under regulation 25AB(1)(a) (appeals) the court has set aside the order;
+- (f)[^key-f674c2ee1d141f71cc4907f933afba5e] unless sub-paragraph (g) applies, a regular deduction order has lapsed under regulation 25J(2) and—
+  - (i) 6 months have passed beginning with the day the lapse took effect; or
+  - (ii) 6 months have passed beginning with the day the lapse took effect and during this period of time the Secretary of State has not served any notice under regulation 25KA.
+- (g) an appeal is brought by virtue of regulation 25AB(1)(a) or (b), against a regular deduction order which has lapsed under regulation 25J(2) and 1 month has passed beginning on—
+  - (i) the day proceedings on the appeal (including any further appeal) concluded, or
+  - (ii) the end of any period during which a further appeal may ordinarily be brought,
+
+  whichever is the later; [^key-f679f6e9336f11056fe276ab9d881528]...
+- (h) the liable person has died; or[^key-dbefa94b0c857aa7d99e1c134700f41f]
+- (i) the liable person is no longer an account-holder in relation to the account.
+
+(2) A regular deduction order may be discharged where the Secretary of State[^key-1413feb318cbd065175219eb21bd1f64] considers it is appropriate to do so in the circumstances of the case.
+
+(3) Where a regular deduction order is discharged that discharge takes effect immediately after the payment of the last regular deduction prior to discharge.
+
+### CHAPTER 3 — Lump Sum Deduction Orders
+
+#### 25M. Period in which representations may be made[^key-9e2387467c13e33e34cf29acaa01bb1f]
+
+Subject to regulation 25MA(3), where a lump sum deduction order has been made under section 32E(1) of the Act, the period for making representations to the Secretary of State in respect of the proposal specified in that order is 14 days, beginning with the day on which a copy of the order was served.
+
+#### 25MA. Notice where an interim lump sum deduction order has been made in respect of a joint account[^key-5d4d99c633b95a7d8871726779909d13]
+
+(1) Where the Secretary of State serves a copy of the interim order made in respect of a joint account on each account-holder, that order must be accompanied by a notice containing the information set out in paragraph (2).
+
+(2) The information is—
+
+- (a) the name of the liable person;
+- (b) that the Secretary of State has made the interim order in respect of the account and is proposing to make a final order in respect of that account;
+- (c) that an interim order or final order which specifies an account held with a deposit-taker shall operate as an instruction to the deposit-taker not to do anything that would reduce the amount standing to the credit of the account below the amount specified in the order (or, if already below that amount, that would further reduce it);
+- (d) that the interim order has been made because the liable person is required to pay an amount of arrears of child support maintenance and the Secretary of State is seeking to secure the payment of some or all of that amount;
+- (e) the earliest date proposed by the Secretary of State for paying the amount of arrears of child support maintenance secured under a final order;
+- (f) that the account-holder has an opportunity to make representations about the proposal specified in the interim order;
+- (g) that a final order is likely to be made in the terms set out in the notice if representations are not made; and
+- (h) the period for making representations.
+
+(3) The period for making representations to the Secretary of State in respect of the matters referred to in paragraph (2)(b), (d) and (e) is—
+
+- (a) 28 days, beginning with the day on which the account-holder receives the notice; or
+- (b) such longer period as the Secretary of State considers reasonable in the circumstances of the case.
+
+(4) A final order may not be made before the period for making representations has expired and the Secretary of State has considered any representations in respect of the matters referred to in paragraph (2)(b), (d) and (e) made to the Secretary of State during that period.”.
+
+(5) In this regulation—
+
+- “interim order” means an order under section 32E of the Act; and
+- “final order” means an order under section 32F of the Act.
+
+#### 25N. Disapplication of sections 32G(1) and 32H(2)(b) of the Act
+
+(1) Something that would otherwise be in breach of sections 32G(1) and 32H(2)(b) of the Act may, with the consent of the Secretary of State[^key-cfdf17f641240728ad007f630e4b4abf], be done in the following circumstances—
+
+- (a) the liable person, the liable person’s partner or any relevant other child is suffering hardship in meeting ordinary living expenses;
+- (aa)[^key-0d0050ca985582b7d4d99623da8d9e19] another account-holder, another account-holder’s partner or a child in relation to whom another account-holder is a person with care is suffering hardship in meeting ordinary living expenses;
+- (b) the liable person or another account-holder[^key-fa043623f30e1b4639efe4b75e6781f8] is under a written contractual obligation, agreed before the lump sum deduction order was made, to make a payment;
+- (c) the deposit-taker has a right of set off and satisfies the Secretary of State that an intention to exercise that right was formed within 30 days before the date the lump sum deduction order under section 32E of the Act was served;
+- (d) the deposit-taker and either the liable person or another account-holder[^key-55fe1f61115c007a9dd2a381a0a618aa] have made a written agreement in which the availability of an amount standing to the credit of the account specified in the lump sum deduction order was required as security for that agreement; or
+- (e) any other circumstances the Secretary of State considers appropriate in the particular case.
+
+(2) The liable person, another account-holder[^key-9bd2459e1b8e075d059e3c441c7cbcf9] or the deposit-taker at which a lump sum deduction order is directed may apply to the Secretary of State for consent.
+
+(3) When deciding whether to give consent, the Secretary of State[^key-7811b9e6647f464b55822911f9f44cb9] must take into account—
+
+- (a) any adverse impact the decision may have on the liable person or any other person; and
+- (b) any alternative arrangements which may be made by the liable person, another account-holder[^key-b6cc68fb86bd2169783420c791049813] or the deposit-taker.
+
+(4) Where the Secretary of State gives consent it is to take effect on the day on which the deposit-taker receives notification from the Secretary of State to disapply section 32G(1) or 32H(2)(b) of the Act.
+
+(5) Something that would otherwise be in breach of section 32G(1) and 32H(2)(b) of the Act may be done where—
+
+- (a) the amount standing to the credit of the account specified in the lump sum deduction order is less than the amount specified in that order, except in respect of any amount dealt with in compliance with section 32G(1) of the Act ; or
+- (b) the deposit-taker has made a payment in accordance with section 32H(1)(a) of the Act .
+
+(6) Paragraph (5) has effect until the Secretary of State[^key-6e6dc1a079c3ad0c4c67082ad1e5541c] gives notice to the deposit-taker that paragraph (5) has ceased to have effect in a particular case and that notification is to take effect on the day on which the deposit-taker receives notification from the Secretary of State.
+
+(7) In this regulation—
+
+- “partner” has the same meaning as in regulation 3(9) (method of payment) and the definition of “couple” in that regulation is to apply accordingly; and
+- “relevant other child” is to be interpreted in accordance with paragraph 10C(2) of Schedule 1 to the Act and regulations made for the purposes of that paragraph.
+
+#### 25O. Information
+
+(1) A deposit-taker at which a lump sum deduction order is directed must supply to the Secretary of State[^key-9b5b86354213d04fdd33d2f2869215e0] in writing, within 7 days—
+
+- (a) of a copy of the order or order as varied being served; or
+- (b) of notification being received by the deposit-taker that an order has been revived,
+
+the information set out in paragraph (2).
+
+(2) The information is—
+
+- (a) if the account specified in the order—
+  - (i) does not exist,
+  - (ii) cannot be traced, or
+  - (iii) has been closed;
+- (b) whether the amount standing to the credit of the account specified in the order—
+  - (i) on the day the order is served, or
+  - (ii) where an order is revived, on the day the decision to revive the order takes effect,
+
+  is at least the same or less than the amount specified in the order and where it is less, that amount; and
+- (c) where the name of the liable person specified in the order is different to the name in which the account specified in the order is held—
+  - (i) whether the account was previously held in the name of the liable person specified in the order, and
+  - (ii) if so, the new name in which the account is held,
+
+  only where the liable person named in the order is the same person as the person in whose name the account specified in the order is held.
+
+(3) A deposit-taker at which a lump sum deduction order is directed must notify the Secretary of State[^key-68ecdf9bb0fe2f91fc5019a1333003da] within 7 days of notification being received that an order has lapsed or has been discharged—
+
+- (a) if the account specified in the order cannot be traced; or
+- (b) where the name of the liable person specified in the order is different to the name in which the account specified in the order is held—
+  - (i) whether the account was previously held in the name of the liable person specified in the order, and
+  - (ii) if so, the new name in which the account is held,
+
+  only where the liable person named in the order is the same person as the person in whose name the account specified in the order is held.
+
+(4) A deposit-taker at which a lump sum deduction order is directed, must supply to the Secretary of State within 7 days of receipt of a request being made by the Secretary of State, the following information—
+
+- (a) whether the liable person holds another account or has opened an account with that deposit-taker or with another deposit-taker and, if so, the details of that account, including—
+  - (i) the number and sort code of that account, and
+  - (ii) the type of account; and
+- (b) whether the amount standing to the credit of the account specified in the order on the day the request is received is at least the same or less than the amount specified in the order or the remaining amount and where it is less, that amount.
+
+(5) In so far as a deposit-taker at which a lump sum deduction order is directed (“A”) has the information, the details of an account held with another deposit-taker (“B”) must be supplied to the Secretary of State[^key-60b99b230c5982864234f119efc1a539] in accordance with paragraph (4) only if—
+
+- (a) the liable person has—
+  - (i) closed the account specified in the order and held with A,
+  - (ii) opened an account with B, and
+  - (iii) transferred the amount standing to the credit of the account held with A to the account held with B;
+- (b) either—
+  - (i) a lump sum deduction order has lapsed, or
+  - (ii) A has notified the Secretary of State in accordance with paragraph (2)(a)(iii), that the account specified in the order has been closed; and
+- (c) the Secretary of State has made a request for the information within 1 month of the order lapsing or, as the case may be, notification being received by the Secretary of State that the account has been closed.
+
+(5A)[^key-835418efedb77257c4f9391b984699e6] A deposit-taker at which a lump sum deduction order is directed must within 7 days of changing the name of an account-holder, beginning with the day on which the deposit-taker changes that name, notify the Secretary of State of the old name of the account-holder and the new name of that account-holder, if the order is—
+
+- (a) made in respect of a joint account; and
+- (b) in force at any time during that 7 day period.
+
+(6) The requirements of paragraphs (1) to (3) and paragraph (4) as it applies to a deposit-taker at which a lump sum deduction order is directed, apply only in so far as the deposit-taker has the information or can reasonably be expected to acquire it.
+
+(7) In paragraph (4)(b) and regulation 25T(1)(b) and (c) “remaining amount” has the same meaning as in section 32H(6) of the Act.
+
+#### 25P. Priority as between orders – lump sum deduction orders
+
+(1) Where a deposit-taker would, but for this paragraph, be obliged to comply with an order under section 32F of the Act , and one or more interim third party debt orders or garnishee orders nisi, it must take action to comply with the orders according to the order in which they were served on the deposit-taker.
+
+(2) Paragraph (1) does not apply where an order under section 32E of the Act was served after an interim third party debt order or a garnishee order nisi except where there remains an amount standing to the credit of the account specified in the order under section 32F of the Act after any third party debt orders or garnishee orders have been complied with by the deposit-taker (referred to in this regulation as “an outstanding amount”).
+
+(3) Where there is an outstanding amount section 32G(1) of the Act applies in respect of that amount.
+
+(4) Where a decision to revive a lump sum deduction order takes effect on the same day as or any day after a third party debt order or garnishee order has been served, the deposit-taker must take action to comply with any of those orders before making a deduction under the lump sum deduction order.
+
+(5) Paragraphs (1) to (4) do not apply to Scotland.
+
+(6) In Scotland, where a deposit-taker would, but for this paragraph, be obliged to comply with an order under section 32F of the Act , and one or more arrestment schedules (“arrestments”) it must give preference to that order and those arrestments according to the order in which they were served on the deposit-taker.
+
+(7) Where there remains an amount standing to the credit of the account specified in the order under section 32F of the Act after any arrestments have been complied with by the deposit-taker, section 32G(1) of the Act applies in respect of that amount.
+
+(8) Where a decision to revive a lump sum deduction order takes effect on the same day as or any day after any arrestments have been served, the deposit-taker must take action to comply with any of those arrestments before making a deduction under the lump sum deduction order.
+
+#### 25Q. Minimum amount
+
+(1) A deduction must not be made where the amount standing to the credit of the account specified in the lump sum deduction order is below the minimum amount on the date the deduction is due to be made.
+
+(2) The minimum amount is £55 plus the amount of administrative costs authorised by regulation 25Z(b) (administrative costs).
+
+#### 25R. Variation of a lump sum deduction order
+
+(1) The Secretary of State[^key-3cea9410d9e11a7f5534409e87291818] may, in the circumstances set out in paragraph (2), vary a lump sum deduction order by reducing the amount specified in that order.
+
+(2) The circumstances are that—
+
+- (a) the Secretary of State accepts the liable person’s agreement to make a payment;
+- (b) a decision has been made under section 11, 12, 16 or 17 of the Act or there has been an appeal against a maintenance calculation;
+- (c) the Secretary of State has consented to the doing of things that would otherwise be in breach of sections 32G(1) and 32H(2)(b) of the Act ;
+- (d) there has been an appeal made under regulation 25AB(1)(c) or (d) (appeals); or
+- (e) representations made in respect of the proposals specified in the order made under section 32E of the Act have been accepted by the Secretary of State .
+
+(3) Where—
+
+- (a) a lump sum deduction order has been varied under this regulation; and
+- (b) a copy of the order as varied has been served on the deposit-taker at which it is directed,
+
+that deposit-taker must comply with the order when that order is served.
+
+#### 25S. Lapse of a lump sum deduction order
+
+(1) A lump sum deduction order is to lapse in the circumstances set out in paragraph (2).
+
+(2) The circumstances are where—
+
+- (a) the amount in the account specified in the order under section 32E of the Act is nil;
+- (b) in consequence of the consent given by the Secretary of State[^key-748b16c48224b9ab7ba8bed600dbddd4] under regulation 25N(1) (disapplication of section 32G(1) and 32H(2)(b) of the Act ) the amount in the account specified in the lump sum deduction order is reduced to nil; or
+- (c)[^key-7e73d7b8ae723f48f3c85c01640b3625] the Secretary of State has agreed with the liable person an alternative method of payment of the child support maintenance due under the maintenance calculation,
+
+and the Secretary of State considers it is reasonable in all the circumstances that the order is to lapse.
+
+(3) A lump sum deduction order lapses on the day on which the deposit-taker receives notification that the order has lapsed from the Secretary of State.
+
+(4) A lump sum deduction order which has lapsed under this regulation is to be treated as remaining in force for the purposes of regulations 25M (period in which representations may be made), 25O (information) and 25AB (appeals).
+
+#### 25T. Revival of a lump sum deduction order
+
+(1) Where a lump sum deduction order has lapsed it may be revived by the Secretary of State[^key-cd003e5c1e2289facc13a0c37c902b49] where—
+
+- (a) in the case of an order under section 32E of the Act , the amount standing to the credit of the account specified in that order was nil and the Secretary of State is informed in accordance with the requirement in regulation 25O(4)(b) that there is an amount at least the same as or less than the amount specified in the order standing to the credit of the account specified in the order;
+- (b) a lump sum deduction order has lapsed under regulation 25S(2)(b) (lapse of a lump sum deduction order) and the Secretary of State is informed in accordance with the requirement in regulation 25O(4)(b) that there is an amount at least the same as or less than the amount specified in the order, or the remaining amount, standing to the credit of the account specified in the order; or
+- (c) in the case of an order under section 32F of the Act , there is a remaining amount and the liable person has failed to comply with the agreement referred to in regulation 25S(2)(c).
+
+(2) Where the Secretary of State decides to revive a lump sum deduction order that decision is to take effect on the day notification that the order has been revived is received by the deposit-taker.
+
+#### 25U. Discharge of a lump sum deduction order
+
+(1)[^key-d3969f06ccae6cc57e181b059b66b753] A lump sum deduction order must be discharged where—
+
+- (a) the account specified in the order has been closed;
+- (b) the amount of arrears of child support maintenance specified in the order has been paid in full in accordance with regulation 2 (payment of child support maintenance);
+- (c) the liable person has paid the total amount of arrears of child support maintenance specified in the order by an alternative method agreed between the Secretary of State[^key-1b2c4bb3111a737f0c8b662bbb3a0397] and the liable person;
+- (d) the Secretary of State has considered representations made in respect of an order under section 32E of the Act and the Secretary of State[^key-cc6de8c7588805f8f1620a4347d53fdc] has decided not to make an order under section 32F of the Act ;
+- (e) unless sub-paragraph (f) applies—
+  - (i) an order under section 32F of the Act has lapsed under regulation 25S(2) and 6 months have passed beginning on the day on which the deposit-taker received notification that the order had lapsed from the Secretary of State, or
+  - (ii) regulation 25N(5) applies and 6 months have passed beginning on the day on which payment was made under section 32H(1)(a) of the Act;
+- (f) an appeal is brought by virtue of regulation 25AB(1)(d) and 1 month has passed beginning on—
+  - (i) the day proceedings on the appeal (including any further appeal) concluded, or
+  - (ii) the end of any period during which a further appeal may ordinarily be brought,
+
+  whichever is the later; [^key-aa6a97e5e791d65e0b0fd6c60031fa56]...
+- (g) the liable person has died; or[^key-da57b51b31229872d1c867f077de28e8]
+- (h) the liable person is no longer an account-holder in relation to the account.
+
+(2) A lump sum deduction order may be discharged where the Secretary of State considers it is appropriate to do so in the circumstances of the case.
+
+(3) A lump sum deduction order is discharged on the day notification that the order has been discharged is received by the deposit-taker.
+
+#### 25V. Time at which a lump sum deduction order under section 32E of the Act ceases to be in force
+
+For the purposes of section 32E(8)(a) of the Act the prescribed period is—
+
+- (a) unless paragraph (b) applies, 6 months beginning on—
+  - (i) the day the order under section 32E of the Act was served on the deposit-taker, or
+  - (ii) where that order has lapsed under regulation 25S, the day on which the deposit-taker received notification that the order had lapsed from the Secretary of State[^key-f9d2bc840e698b88bbd321439cdd4114]; or
+- (b) where an appeal is brought by virtue of regulation 25AB(1)(c) (appeal against the withholding of consent), 1 month beginning on—
+  - (i) the day proceedings on the appeal (including any further appeal) concluded, or
+  - (ii) the end of any period during which a further appeal may ordinarily be brought,
+
+  whichever is the later.
+
+#### 25W. Meaning of “the relevant time”
+
+For the purposes of the meaning of “the relevant time” in section 32H(6) of the Act the prescribed circumstances are that—
+
+- (a) unless to paragraph (b) applies, 6 months have passed beginning on the day the order under section 32F of the Act was served on the deposit-taker; or
+- (b) where an appeal is brought by virtue of regulation 25AB(1)(d), 1 month has passed beginning on—
+  - (i) the day proceedings on the appeal (including any further appeal) concluded, or
+  - (ii) the end of any period during which a further appeal may ordinarily be brought,
+
+  whichever is the later.
+
+### CHAPTER 4 — General Matters for Deduction Orders
+
+#### 25X. Accounts of a prescribed description
+
+(1) A regular deduction order or a lump sum deduction order may not be made in respect of an account which—
+
+- (a) the liable person operates solely for the purposes of exercising the function of a trustee or office holder and the account is one in which all the funds are held on behalf of other persons or for the purposes of that office; or
+- (b) is used wholly or in part for business purposes.
+
+(2) For the purposes of paragraph (1)(b), whether an account is used wholly or in part for business purposes is to be decided by the Secretary of State[^key-5e167db94acfeef5e1cb81a4296f98a7].
+
+(3)[^key-7e8a53ad3b7b666dffdc04d181d97f54] Paragraph (1)(b) does not apply where a regular deduction order or a lump sum deduction order is made in respect of an account which is used by—
+
+- (a) the liable person as a sole trader; or
+- (b) a partnership formed in England or Wales, of which the liable person is a partner.
+
+#### 25XA. Deduction orders in respect of joint accounts[^key-f5226e2e52e52fb44388a561c7080605]
+
+A regular deduction order or a lump sum deduction order may be made in respect of a joint account which is held by the liable person and one or more other persons.
+
+#### 25XB. Sharing information with account-holders
+
+Where the Secretary of State serves a notice on an account-holder under regulation 25A1, 25IA, 25KA or 25MA, that notice may be accompanied by such information about the liable person as the Secretary of State considers essential to enable the account-holder to make representations in respect of the proposal specified in the notice.
+
+#### 25XC. Information provided by a deposit-taker before the making of an order
+
+(1) Before making a regular deduction order or a lump sum deduction order in respect of a joint account, the Secretary of State may by way of notice require a deposit-taker to provide the information set out in paragraph (3) to the Secretary of State.
+
+(2) The information required under paragraph (1) must be provided within 14 days, beginning with the day on which the Secretary of State’s notice was served on the deposit-taker.
+
+(3) The information is—
+
+- (a) the name of each account-holder;
+- (b) the residential address or the address for correspondence, if different, of each account-holder;
+- (c) the number and sort code of the account;
+- (d) the type of account;
+- (e) the amount standing to the credit of the account specified in the request; and
+- (f) details of any transactions on the account in the 6 month period before the Secretary of State’s notice was served on the deposit-taker.
+
+#### 25Y. Circumstances in which amounts standing to the credit of an account are to be disregarded
+
+The circumstances in which amounts standing to the credit of an account are to be disregarded for the purposes of sections 32A, 32E, 32G and 32H of the Act are where the liable person has no beneficial interest in the amount.
+
+#### 25Z. Administrative costs
+
+A deposit-taker at which an order under section 32A or 32F of the Act is directed may deduct from the amount standing to the credit of the account specified in the order an amount towards its administrative costs for each deduction made, not exceeding—
+
+- (a) in the case of a regular deduction order, £10; or
+- (b) in the case of a lump sum deduction order under section 32F of the Act, £55,
+
+before making any payment to the Secretary of State[^key-737273d69977d77d75332fa3c1cef8f2] required by section 32A or, as the case may be, section 32H of the Act .
+
+#### 25AA. Payment by deposit-taker to the Secretary of State[^key-723f72fc2f0ce57a055a9fe0e1e3348d]
+
+(1) Amounts deducted by a deposit-taker at which a regular deduction order or a lump sum deduction order under section 32F of the Act is directed must be paid to the Secretary of State[^key-be7cf04c830a4e1d4fcdb0f19a5ff8dd] within—
+
+- (a) in the case of a regular deduction order, 10 days of the date the regular deduction is due to be made; or
+- (b) in the case of a lump sum deduction order under section 32F of the Act, 10 days of the end of the relevant period.
+
+(2) The payment to the Secretary of State of amounts deducted under that order may be made by—
+
+- (a) cheque;
+- (b) automated credit transfer; or
+- (c) such other method as the Secretary of State may specify.
+
+(3) In this regulation “the relevant period” has the same meaning as in section 32G(5) and (6) of the Act.
+
+#### 25AB. Appeals
+
+(1) A qualifying person has a right of appeal to the family court[^key-7da28b4dbade581344ee9ed01dee3f7d] or in Scotland the sheriff of the sheriffdom in which that person resides, against—
+
+- (a) the making of a regular deduction order;
+- (b) any decision made by the Secretary of State[^key-89f7ab1b5842c81896a23a0e3bf7740c] on an application made under regulation 25G (review of a regular deduction order);
+- (c) the withholding of the consent to be obtained in accordance with regulation 25N (disapplication of sections 32G(1) and 32H(2)(b) of the Act);
+- (d) the making of an order under section 32F of the Act.
+
+(2) In this regulation a “qualifying person” means—
+
+- (a) in relation to paragraph (1)(a) and (b), any person affected by—
+  - (i) a regular deduction order, or, as the case may be,
+  - (ii) the decision referred to in paragraph (1)(b);
+- (b) in relation to paragraph (1)(c), the persons prescribed in regulation 25N(2); and
+- (c) in relation to paragraph (1)(d), any person affected by an order under section 32F of the Act.
+
+#### 25AC. Offences
+
+The following regulations are designated for the purposes of sections 32D(1)(b) and 32K(1)(b) of the Act—
+
+- (a) regulation 25E(1) to (5A)[^key-d4a946c71e60cf68366b3aee21515b69] (notification by the deposit-taker to the Secretary of State[^key-b3490b75a3b3e8db6ebc42e89d076ca6]);
+- (b) regulation 25I(4) (variation of a regular deduction order);
+- (c) regulation 25O(1) to (5A)[^key-ffb22301d1a6ed3b6e55562b1a50f78f] (information);
+- (d) regulation 25R(3) (variation of a lump sum deduction order); [^key-ab5b3412bd73ee0d0a380d22b35261f8]...
+- (e) regulation 25AA(1) (payment by deposit-taker to the Secretary of State[^key-d0dc9b880689b406f234c857fab15511]); and[^key-d76b9db641883d69bf4e273423a6e630]
+- (f) regulation 25XC (information provided by a deposit-taker before the making of an order).
+
+#### 25AD. Secretary of State to warn of consequences of failing to comply with an order or to provide information[^M_F_fb11807d-4aad-47f9-a1c4-d2d715d97d7a]
+
+Where information is required by virtue of regulation 25E or 25O, the Secretary of State[^key-2f6434e61790af2583b1528a091d5808] must set out in writing the possible consequences of failure to—
+
+- (a) comply with a regular deduction order or lump sum deduction order; and
+- (b) provide the information required under the regulations designated by regulation 25AC(a) and (b) (offences),
+
+including details of the offences provided for by virtue of sections 32D and 32K of the  Act, as the case may be.
+
+#### 25AE. Review[^key-53beb3eddd12543fff5f5b8aa7e4dd22]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision contained in regulations 25A to 25AD of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) The report must, in particular—
+
+- (a) set out the objectives intended to be achieved by those provisions;
+- (b) assess the extent to which those objectives are achieved;
+- (c) assess whether those objectives remain appropriate; and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(3) The first report under this regulation must be published before the end of the period of 5 years, beginning with the date on which the Child Support (Miscellaneous Amendments) Regulations 2018 come into force.
+
+(4) Subsequent reports under this regulation must be published at intervals not exceeding 5 years.
+
+(5) In this regulation, “regulatory provision” has the meaning given by section 32(4) of the Small Business, Enterprise and Employment Act 2015.
+
+## PART IV — LIABILITY ORDERS
+
+### 26. Extent of this Part
+
+This Part, except regulations 29(2), 35(5) and 35A(5)[^key-8dc86e34799dabdfc0290604665dac3a], does not apply to Scotland.
+
+### 27. Notice of intention to apply for a liability order[^key-098999f649e0a998e5498d8f91c5995d]
+
+(1) Subject to paragraph (1A),[^key-c78e5f8ae5480bc10b08d17ad00aa491] the Secretary of State shall give the liable person at least 7 days notice of his intention to apply for a liability order under section 33(2) of the Act.
+
+(1A)[^key-6bcd6473fb17f47b072335d20a1db360] Where the liable person is not resident in the United Kingdom, the Secretary of State shall give the liable person at least 28 days notice of his intention to apply for a liability order under section 33(2) of the Act.
+
+(2) Such notice shall set out the amount of child support maintenance which it is claimed has become payable by the liable person and has not been paid and the amount of any interest, penalty payments or fees which have become payable and have not been paid[^M_F_fb8afc8d-a6f4-4bc0-9df8-891b7ac6afd3].
+
+(3) Payment by the liable person of any part of the amounts referred to in paragraph (2) shall not require the giving of a further notice under paragraph (1) prior to the making of the application.
+
+### 28. Application for a liability order
+
+(1) An application for a liability order shall be by way of complaint for an order to the magistrates’ court [^key-25abd632d038f825128fc4ea0734c29b]....
+
+(2)[^key-fe24c3f6cfe5315309cf1e5786d8095b] Subject to paragraph (2A), there is no period of limitation in relation to an application under paragraph (1).
+
+(2A)[^key-0ab7cd94cd72ddc13574cc64e81466d4] An application under paragraph (1) may not be instituted in respect of an amount payment of which became due on or before 12th July 2000.
+
+(3) A warrant shall not be issued under section 55(2) of the Magistrates’ Courts Act 1980 [^c1833858] in any proceedings under this regulation.
+
+### 29. Liability orders
+
+(1) A liability order shall be made in the form prescribed in Schedule 1. *(Extent: E+W)* *(affected by repeal, see note)*[^key-3d6d0974d91537fcc777bc4ba7e18ccb]
+
+(2) A liability order made by a court in England or Wales or any corresponding order made by a court in Northern Ireland may be enforced in Scotland as if it had been made by the sheriff.
+
+(3) A liability order made by the sheriff in Scotland or any corresponding order made by a court in Northern Ireland may, subject to paragraph (4), be enforced in England and Wales as if it had been made by a magistrates’ court in England and Wales.
+
+(4) A liability order made by the sheriff in Scotland or a corresponding order made by a court in Northern Ireland shall not be enforced in England or Wales unless registered in accordance with the provisions of Part II[^M_F_fcd8f31c-5410-4676-bd87-e1b21586e01e] of the Maintenance Orders Act 1950 [^c1833859] and for this purpose—
+
+- (a) a liability order made by the sheriff in Scotland shall be treated as if it were a decree to which section 16(2)(b) of that Act applies (decree for payment of aliment);
+- (b) a corresponding order made by a court in Northern Ireland shall be treated as if it were an order to which section 16(2)(c) of that Act applies (order for alimony, maintenance or other payments).
+
+### 30. Enforcement of liability orders by distress
+
+(1) A distress made pursuant to section 35(1) of the Act may be made anywhere in England and Wales.
+
+(2) The person levying distress on behalf of the Secretary of State shall carry with him the written authorisation of the Secretary of State, which he shall show to the liable person if so requested, and he shall hand to the liable person or leave at the premises where the distress is levied—
+
+- (a) copies of this regulation, regulation 31 and Schedule 2;
+- (b) a memorandum setting out the amount which is the appropriate amount for the purposes of section 35(2) of the Act;
+- (c) a memorandum setting out details of any arrangement entered into regarding the taking of possession of the goods distrained; and
+- (d) a notice setting out the liable person’s rights of appeal under regulation 31 giving the Secretary of State’s address for the purposes of any appeal.
+
+(3) A distress shall not be deemed unlawful on account of any defect or want of form in the liability order.
+
+(4) If, before any goods are seized, the appropriate amount (including charges arising up to the time of the payment or tender) is paid or tendered to the Secretary of State, the Secretary of State shall accept the amount and the levy shall not be proceeded with.
+
+(5) Where the Secretary of State has seized goods of the liable person in pursuance of the distress, but before sale of those goods the appropriate amount (including charges arising up to the time of the payment or tender) is paid or tendered to the Secretary of State, the Secretary of State shall accept the amount, the sale shall not be proceeded with and the goods shall be made available for collection by the liable person.
+
+### 31. Appeals in connection with distress
+
+(1) A person aggrieved by the levy of, or an attempt to levy, a distress may appeal to the magistrates’ court [^key-0457e328ad54c5e6d0e5518258d0d567]....
+
+(2) The appeal shall be by way of complaint for an order.
+
+(3) If the court is satisfied that the levy was irregular, it may—
+
+- (a) order the goods distrained to be discharged if they are in the possession of the Secretary of State;
+- (b) order an award of compensation in respect of any goods distrained and sold of an amount equal to the amount which, in the opinion of the court, would be awarded by way of special damages in respect of the goods if proceedings under section 35(6) of the Act were brought in trespass or otherwise in connection with the irregularity.
+
+(4) If the court is satisfied that an attempted levy was irregular, it may by order require the Secretary of State to desist from levying in the manner giving rise to the irregularity.
+
+### 32. Charges connected with distress
+
+Schedule 2 shall have effect for the purpose of determining the amounts in respect of charges in connection with the distress for the purposes of section 35(2)(b) of the Act.
+
+### 33. Application for warrant of commitment
+
+(1) For the purposes of enabling an inquiry to be made under section 39A[^M_F_db1efd39-a26d-40e5-eac6-94b69eede962] of the Act as to the liable person’s conduct and means, a justice of the peace [^key-9ab0cd28134f416dabd36e55e51b07d2]... may—
+
+- (a) issue a summons to him to appear before a magistrates’ court and (if he does not obey the summons) issue a warrant for his arrest; or
+- (b) issue a warrant for his arrest without issuing a summons.
+
+(2) In any proceedings under sections 39A and 40[^M_F_f374f375-89c7-4b93-ff28-70079070ff47] of the Act, a statement in writing to the effect that wages of any amount have been paid to the liable person during any period, purporting to be signed by or on behalf of his employer, shall be evidence of the facts there stated.
+
+(3) Where an application under section 39A[^M_F_123dd632-fed8-4e1f-f313-e043930f6853] of the Act has been made but no warrant of commitment is issued or term of imprisonment fixed, the application may be renewed on the ground that the circumstances of the liable person have changed.
+
+### 34. Warrant of commitment
+
+(1) A warrant of commitment shall be in the form specified in Schedule 3, or in a form to the like effect. *(Extent: E+W)* *(affected by repeal, see note)*[^key-99e85d122491abda0c8fbde81a807767]
+
+(2) The amount to be included in the warrant under section 40(4)(a)(ii) of the Act in respect of costs shall be such amount as in the view of the court is equal to the costs reasonably incurred by the Secretary of State in respect of the costs of commitment.
+
+(3) A warrant issued under section 40 of the Act may be executed anywhere in England and Wales by any person to whom it is directed or by any constable acting within his police area.
+
+(4) A warrant may be executed by a constable notwithstanding that it is not in his possession at the time but such warrant shall, on the demand of the person arrested, be shown to him as soon as possible.
+
+(5) Where, after the issue of a warrant, part-payment of the amount stated in it is made, the period of imprisonment shall be reduced proportionately so that for the period of imprisonment specified in the warrant there shall be substituted a period of imprisonment of such number of days as bears the same proportion to the number of days specified in the warrant as the amount remaining unpaid under the warrant bears to the amount specified in the warrant.
+
+(6) Where the part-payment is of such an amount as would, under paragraph (5), reduce the period of imprisonment to such number of days as have already been served (or would be so served in the course of the day of payment), the period of imprisonment shall be reduced to the period already served plus one day.
+
+### 35. Disqualification from driving order[^M_F_5b773474-ad7b-4569-97b6-02cf5fcd7a59]
+
+(1) For the purposes of enabling an enquiry to be made under section 39A of the Act as to the liable person’s livelihood, means and conduct, a justice of the peace [^key-81434c3140bbb86030ceecfeb0a81229] ... may issue a summons to him to appear before a magistrates' court and to produce any driving licence held by him, [^key-03748b1cf250f8db52ea32dfe2111ab3]... and, if he does not appear, may issue a warrant for his arrest.
+
+(2) In any proceedings under sections 39A and 40B of the Act, a statement in writing to the effect that wages of any amount have been paid to the liable person during any period, purporting to be signed for or on behalf of his employer, shall be evidence of the facts there stated.
+
+(3) Where an application under section 39A of the Act has been made but no disqualification order is made, the application may be renewed on the ground that the circumstances of the liable person have changed.
+
+(4) A disqualification order shall be in the form prescribed in Schedule 4. *(Extent: E+W)* *(affected by repeal, see note)*[^key-3ec0442594d6eabb74750996772e465d]
+
+(5) The amount to be included in the disqualification order under section 40B(3)(b) of the Act in respect of the costs shall be such amount as in the view of the court is equal to the costs reasonably incurred by the Secretary of State in respect of the costs of the application for the disqualification order.
+
+(6) An order made under section 40B(4) of the Act may be executed anywhere in England and Wales by any person to whom it is directed or by any constable acting within his police area, if the liable person fails to appear or produce or surrender his driving licence [^key-960f7705d3ed3222db47bff524352970]... to the court.
+
+(7) An order may be executed by a constable notwithstanding that it is not in his possession at the time but such order shall, if demanded, be shown to the liable person as soon as reasonably practicable.
+
+(8) In this regulation “driving licence” means a licence to drive a motor vehicle granted under Part III of the Road Traffic Act 1988.
+
+### 35A. Disqualification for holding or obtaining a United Kingdom passport[^key-d2587a21f7a196c182074da6f4db5c8c]
+
+(1) For the purposes of enabling an inquiry to be made under section 39B(4) of the Act as to the liable person’s ability to earn a living, means and conduct, a justice of the peace may issue a summons to the liable person to appear before a magistrates’ court and to produce a United Kingdom passport held by the liable person and, if the person does not appear, may issue a warrant for their arrest.
+
+(2) In any proceedings under section 39B of the Act, a statement in writing to the effect that wages of any amount have been paid to the liable person during any period, signed by or on behalf of the liable person’s employer, is evidence of the facts stated.
+
+(3) Where an application under section 39B of the Act has been made but no disqualification order is made, the application may be renewed on the ground that the circumstances of the liable person have changed.
+
+(4) A disqualification order must be in the form prescribed in Schedule 5. *(Extent: E+W)* *(affected by repeal, see note)*[^key-dff43b6a2418e7cb4184d15062a7d107]
+
+(5) The amount to be included in the disqualification order under section 39B(8)(b) of the Act in respect of the costs of the application for the disqualification order must be such amount as in the view of the court is equal to the costs reasonably incurred by the Secretary of State in respect of the costs of the application for the disqualification order.
+
+(6) An order made under section 39B(9) of the Act may be executed anywhere in England and Wales by any person to whom it is directed or by any constable acting within the constable’s police area, if the liable person fails to appear or produce or surrender their United Kingdom passport to the court.
+
+(7) An order made under section 39B(9) of the Act may be executed by a constable even if it is not in the constable’s possession at the time but the order shall, if demanded, be shown to the liable person as soon as reasonably practicable.
+
+(8) The court shall send to the Secretary of State for the Home Department a United Kingdom passport produced to the court under section 39B(9) of the Act
+
+Signed by authority of the Secretary of State for Social Security.
+
+Ann Widdecombe
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+## SCHEDULE A1 — Electronic Communications[^key-9ae6550aaf561710b433479844221b0e]
+
+Regulation 1A
+
+### PART 1 — Use of Electronic Communications
+
+#### 1. Use of electronic communications
+
+(1) Where these Regulations require or permit a person to carry out an action referred to in sub-paragraph (2)—
+
+- (a) that person may, if the conditions specified in paragraph 2 are met, use electronic communication to carry out the action, and
+- (b) any reference to the action is to be construed as being capable of being carried out using electronic communication.
+
+(2) The actions are—
+
+- (a) giving consent;
+- (b) giving or sending of a document or notice;
+- (c) notifying a person;
+- (d) making an application other than an application under—
+  - (i) paragraph (2)(a) of regulation 22 (appeals against deduction from earnings orders);
+  - (ii) regulation 28 (application for a liability order);
+- (e) making representations;
+- (f) serving a notice or order, including a copy of that notice or order;
+- (g) setting out in writing.
+
+#### 2. Conditions for the use of electronic communications
+
+The conditions for the use of electronic communications are—
+
+- (a) the electronic communication, its form, and the electronic address for the communication, have been agreed with the recipient for a purpose in paragraph 1(2);
+- (b) the electronic communication is sent in the agreed form to the agreed electronic address for the agreed purpose;
+- (c) the electronic communication is—
+  - (i) legible, and
+  - (ii) in a form sufficiently permanent to be used for subsequent reference.
+
+#### 3. Use of intermediaries
+
+The Secretary of State may use intermediaries in connection with the actions referred to in paragraph 1(2).
+
+### PART 2 — Evidential provisions
+
+#### 4. Proof of delivery
+
+(1) An agreed electronic communication is presumed, unless the contrary is proved, to have resulted in delivery if—
+
+- (a) in the case that it falls to be delivered to the Secretary of State, the delivery of the agreed electronic communication is recorded on an official computer system; or
+- (b) in the case that it falls to be delivered by the Secretary of State, if the despatch of the agreed electronic communication is recorded on an official computer system.
+
+(2) An agreed electronic communication is presumed, unless the contrary is proved, not to have resulted in delivery if—
+
+- (a) in the case that it falls to be delivered to the Secretary of State, the delivery of the agreed electronic communication is not recorded on an official computer system; or
+- (b) in the case that it falls to be delivered by the Secretary of State, the despatch of that agreed electronic communication is not recorded on an official computer system.
+
+(3) The time and date of receipt of an agreed electronic communication is presumed to be that recorded on an official computer system, unless the contrary is proved.
+
+#### 5. Proof of identity
+
+(1) The identity of the sender and the recipient of an electronic communication is presumed to be the persons whose names are recorded on an official computer system, unless the contrary is proved.
+
+(2) An electronic communication sent on behalf of another person (“**P**”) is presumed to have been delivered by P unless P proves that it was delivered without P’s knowledge.
+
+#### 6. Proof of content
+
+The content of an electronic communication is presumed to be that recorded on an official computer system, unless the contrary is proved.
+
+#### 7. Interpretation
+
+In this Schedule—
+
+- “**agreed electronic address**” means an electronic address agreed in accordance with paragraph 2(a);
+- “**agreed electronic communication**” means an electronic communication agreed in accordance with paragraph 2(a);
+- “**agreed form**” means the form agreed in accordance with paragraph 2(a);
+- “**agreed purpose**” means the purpose agreed in accordance with paragraph 2(a);
+- “**official computer system**” means a computer system maintained by or on behalf of the Secretary of State for the purposes of these Regulations.
+
+## SCHEDULE 1 (Extent: E+W) (affected by repeal, see note) — LIABILITY ORDER PRESCRIBED FORM (Extent: E+W) (affected by repeal, see note)[^key-276e225f055114dadd111c375ff3b846][^key-0e639f49a58e35e582d2f3fd01a6103e][^key-0e639f49a58e35e582d2f3fd01a6103e]
+
+Regulation 29(1) *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e]
+
+[^key-276e225f055114dadd111c375ff3b846]
+
+Section 33 of the Child Support Act 1991 and regulation 29(1) of the Child Support (Collection and Enforcement) Regulations 1992 *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e]
+
+[^key-276e225f055114dadd111c375ff3b846]
+
+»....................Magistrates’ Court *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e]
+
+[^key-276e225f055114dadd111c375ff3b846]
+
+Date: *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e]
+
+[^key-276e225f055114dadd111c375ff3b846]
+
+Defendant: *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e]
+
+[^key-276e225f055114dadd111c375ff3b846]
+
+Address: *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e]
+
+[^key-276e225f055114dadd111c375ff3b846]
+
+On the complaint of the Secretary of State *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e] [^key-1780c60d416ac13361289c2bb5d65e57]... that the sums specified below *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e] have become payable by the liable person (the defendant)[^key-b479c55a6e4b057395f21be2d06dfd60] *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e] under the Child Support Act 1991 and Part IV of the Child Support (Collection and Enforcement) Regulations 1992 and *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e] have not been paid[^key-c471516ac0e857745753a72ed46d5e58] *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e], it is adjudged that the defendant is liable to pay the aggregate amount specified below. *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e]
+
+|  |  |
+| --- | --- |
+| Sum payable and outstanding *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e] | —child support maintenance *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e] |
+|  | —interest *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e] |
+|  | —penalty payments[^M_F_a2f1b931-5766-489b-e2c5-d09ddca4601c] *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e] |
+|  | —fees *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e] |
+|  | —other periodical payments *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e] that the Secretary of State has arranged to collect under[^key-e1abd559accbde10eda4e5117b3d1293] *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e] section 30 of the Child Support Act 1991 *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e] |
+
+[^key-276e225f055114dadd111c375ff3b846]
+
+Aggregate amount in respect of which the liability order is made: *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e]
+
+[^key-276e225f055114dadd111c375ff3b846]
+
+» Justice of the Peace *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e]
+
+[^key-276e225f055114dadd111c375ff3b846]
+
+» \[ *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e]*or *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e]* by order of the Court Clerk of the Court\] *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e639f49a58e35e582d2f3fd01a6103e]
+
+## SCHEDULE 2 — CHARGES CONNECTED WITH DISTRESS
+
+Regulation 32
+
+**1.** The sum in respect of charges connected with the distress which may be aggregated under section 35(2)(b) of the Act shall be set out in the following Table—
+
+| (1) | (2) |
+| --- | --- |
+| Matter connected with distress | Charge |
+| A For making a visit to premises with a view to levying distress (whether the levy is made or not): | Reasonable costs and fees incurred, but not exceeding an amount which, when aggregated with charges under this head for any previous visits made with a view to levying distress in relation to an amount in respect of which the liability order concerned was made, is not greater than the relevant amount calculated under paragraph 2(1) with respect to the visit. |
+| B For levying distress: | An amount (if any) which, when aggregated with charges under head A for any visits made with a view to levying distress in relation to an amount in respect of which the liability order concerned was made, is equal to the relevant amount calculated under paragraph 2(1) with respect to the levy. |
+| BB For preparing and sending a letter advising the liable person that the written authorisation of the Secretary of State is with the person levying the distress and requesting the total sum due:[^M_F_58f45ba6-005a-49aa-d925-4814cbc02e4a] | £10.00. |
+| C For the removal and storage of goods for the purposes of sale: | Reasonable costs and fees incurred. |
+| D For the possession of goods as described in paragraph 2(3)—<br>(i)for close possession (the person in possession on behalf of the Secretary of State to provide his own board): | £4.50 per day. |
+| (ii)for walking possession: | 10p per day.[^M_F_ac826eee-e1bd-4f5e-f85c-d9046f33da8a] |
+| E For appraisement of an item distrained, at the request in writing of the liable person: | Reasonable fees and expenses of the broker appraising. |
+| F For other expenses of, and commission on, a sale by auction—<br>(i)where the sale is held on the auctioneer’s premises: | The auctioneer’s commission fee and out-of-pocket expenses (but not exceeding in aggregate 15 per cent. of the sum realised), together with reasonable costs and fees incurred in respect of advertising. |
+| (ii)where the sale is held on the liable person’s premises: | The auctioneer’s commission fee (but not exceeding 7½ per cent. of the sum realised), together with the auctioneer’s out-of-pocket expenses and reasonable costs and fees incurred in respect of advertising. |
+| G For other expenses incurred in connection with a proposed sale where there is no buyer in relation to it: | Reasonable costs and fees incurred. |
+
+**2.** (1) In heads A and B of the Table to paragraph 1, “the relevant amount” with respect to a visit or a levy means—
+
+- (a) where the sum due at the time of the visit or of the levy (as the case may be) does not exceed £100, £12.50;
+- (b) where the sum due at the time of the visit or of the levy (as the case may be) exceeds £100, 12½ per cent. on the first £100 of the sum due, 4 per cent. on the next £400, 2½ per cent. on the next £1,500, 1 per cent. on the next £8,000 and¼ per cent. on any additional sum;
+
+**3.** (1) Where the calculation under this Schedule of a percentage of a sum results in an amount containing a fraction of a pound, that fraction shall be reckoned as a whole pound.
+
+(2) In the case of dispute as to any charge under this Schedule, the amount of the charge shall be taxed.
+
+(3) Such a taxation shall be carried out by the district judge of the county court for the district in which the distress is or is intended to be levied, and he may give such directions as to the costs of the taxation as he thinks fit; and any such costs directed to be paid by the liable person to the Secretary of State shall be added to the sum which may be aggregated under section 35(2) of the Act.
+
+(4) References in the Table in paragraph 1 to costs, fees and expenses include references to amounts payable by way of value added tax with respect to the supply of goods or services to which the costs, fees and expenses relate.
+
+## SCHEDULE 3 (Extent: E+W) (affected by repeal, see note) — FORM OF WARRANT OF COMMITMENT (Extent: E+W) (affected by repeal, see note)[^key-d1514f25fc6e7d8a62c107fb7229baa6][^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+Regulation 34(1) *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+Section 40 of the Child Support Act 1991 and regulation 34(1) of the Child Support (Collection and Enforcement) Regulations 1992 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+»....................Magistrates’ Court *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+Date: *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+Liable Person: *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+Address: *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+A liability order (“the order”) was made against the liable person by the \[»\] Magistrates’ Court on \[»\] under section 33 of the Child Support Act 1991 (“the Act”) in respect of an amount of \[»\]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+The court is satisfied— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+- (i (Extent: E+W) (affected by repeal, see note))[^key-d1514f25fc6e7d8a62c107fb7229baa6] that the Secretary of State sought under section 35 of the Act to levy by distress the amount then outstanding in respect of which the order was made; *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+\[and/or\] *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+that the Secretary of State sought under section 36 of the Act to recover through the \[»\] County Court, by means of \[garnishee proceedings\] *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6] [^M_F_88ff3d59-d225-47b8-df65-4a00c2914543]... \[a charging order\], the amount then outstanding in respect of which the order was made; *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+- (ii (Extent: E+W) (affected by repeal, see note))[^key-d1514f25fc6e7d8a62c107fb7229baa6] that such amount, or any portion of it, remains unpaid; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+- (iii (Extent: E+W) (affected by repeal, see note))[^key-d1514f25fc6e7d8a62c107fb7229baa6] having inquired in the liable person’s presence as to his means and as to whether there has been \[wilful refusal\] *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6] [^M_F_1af6f8d3-a704-4147-9178-491f5cdc96c0]... \[culpable neglect\] on his part, the court is of the opinion that there has been \[wilful refusal\] *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6] [^M_F_7d6f58a4-04fd-4993-f573-86adba3fc17f]... \[culpable neglect\] on his part. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+The decision of the court is that the liable person be \[committed to prison\] \[detained\] for \[»\] unless the aggregate amount mentioned below in respect of which this warrant is made is sooner paid.\* *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+This warrant is made in respect of— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+Amount outstanding (including any interest, *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6] penalty payments, fees,[^M_F_7ffef74c-b29e-4903-b80a-07d0141372c6] *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6] costs and charges): *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+Costs of commitment of the Secretary of State: *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+Aggregate amount: *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+And you *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]*\[name of person or persons to whom warrant is directed\] *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]* are hereby required to take the liable person and convey him to *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]*\[name of prison or place of detention\] *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]* and there deliver him to the \[governor\] \[officer in charge\] thereof; and you, the \[governor\] \[officer in charge\], to receive the liable person into your custody and keep him for *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]*\[period of imprisonment\] *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]* from the date of his arrest under this warrant or until he be sooner discharged in due course of law. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+» Justice of the Peace *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+» \[ *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]*or *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]* by order of the Court Clerk of the Court\]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+\* *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]*Note: *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]* The period of imprisonment will be reduced as provided by regulation 34(5) and (6) of the Child Support (Collection and Enforcement) Regulations 1992 if part-payment is made of the aggregate amount. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d1514f25fc6e7d8a62c107fb7229baa6]
+
+## SCHEDULE 4 (Extent: E+W) (affected by repeal, see note)[^M_F_9692cda2-8ca3-4e1d-bfe6-bc03f67236b5][^key-d3e6fd94ad45553b45a365c4484c2f6f]
+
+**Regulation 35(4) *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f]**
+
+### FORM OF ORDER OF DISQUALIFICATION FROM HOLDING OR OBTAINING A DRIVING LICENCE (Extent: E+W) (affected by repeal, see note)[^key-d3e6fd94ad45553b45a365c4484c2f6f]
+
+|  |
+| --- |
+| Sections 39A and 40B of the Child Support Act 1991 and regulation 35 and the Child Support (Collection and Enforcement) Regulations 1992 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| Magistrates' Court *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| Date: *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| Liable Person: *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| Address: *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| A liability order ("the order") was made against the liable person by the \[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\] Magistrates' Court on \[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\] under section 33 of the Child Support Act 1991 ("the Act") in respect of an amount of \[\_\_\_\_\_\_\_\_\_\_\_\_\]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| The court is satisfied *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| (i) that the Secretary of State sought under section 35 of the Act of levy by distress the amount then outstanding in respect of which the order was made; *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| \[and/or\] *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| that the Secretary of State sought under section 36 of the Act to recover through \[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\] County Court by means of \[garnishee proceedings\] \[a charging order\], the amount then outstanding in respect of which the order was made; *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| (ii) that such amount, or any proportion of it, remains unpaid; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| (iii) having inquired in the liable person's presence as to his means and whether there has been \[wilful refusal\] \[culpable neglect\] on his part. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| This decision of the court is that the liable person be disqualified from \[holding or obtaining\] a driving licence from \[date\] for \[period\] unless the aggregate amount in respect of which this order is made is sooner paid\* *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| This order is made in respect of *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| Amount outstanding (including any interest, fees, penalty payments, costs and charges); *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| aggregate amount: *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| And you \[the liable person\] shall surrender to the court any driving licence *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] [^key-6ef408a1bc2b57f404604bf58d94c5a6]... held. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| Justice of the Peace *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| \[ *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f]*or *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f]* by order of the Court *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| Clerk of the Court\] *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+| \* *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f]*Note: *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f]* The period of disqualification may be reduced as provided by section 40B(5)(a) of the Act if part payment is made of the aggregate amount. The order will be revoked by section 40B(5)(b) of the Act if full payment is made of the aggregate amount. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d3e6fd94ad45553b45a365c4484c2f6f] |
+
+## SCHEDULE 5 (Extent: E+W) (affected by repeal, see note)[^key-181714dd08808afdf365e4ecc13f1421][^key-35e38e57f5822c4c08e5c95f32b37777]
+
+Regulation 35A(4) *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777]
+
+### FORM OF ORDER OF DISQUALIFICATION FOR HOLDING OR OBTAINING A UNITED KINGDOM PASSPORT (Extent: E+W) (affected by repeal, see note)[^key-35e38e57f5822c4c08e5c95f32b37777]
+
+|  |
+| --- |
+| Sections 39B to 39G of the Child Support Act 1991 and regulation 36 of the Child Support (Collection and Enforcement) Regulations 1992 *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| Magistrates' Court *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| Date: *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| Liable Person: *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| Address: *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| A liability order ("the order") was made against the liable person by the \[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\] Magistrates' Court on \[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\] under section 33 of the Child Support Act 1991 ("the Act") in respect of an amount of \[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| The Court is satisfied- *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| (i) that the Secretary of State sought under section 35 of the Act to take control of goods to recover the amount then outstanding in respect of which the order was made: *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| \[and/or\] *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| that the Secretary of State sought under section 36 of the Act to recover through \[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\] County Court by means of \[a third party debt order\] \[a charging order\], the amount then outstanding in respect of which the order was made: *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| (ii) that such amount, or any proportion of it, remains unpaid; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| (iii) having inquired in the liable person's presence as to the liable person's means and whether there has been \[wilful refusal\] \[culpable neglect\] on their part. *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| the decision of the court is that the liable person be disqualified for \[holding or obtaining\] a United Kingdom passport from \[date\] for \[period\] unless the aggregate amount in respect of which this order is made is sooner paid.\* *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| This order is made in respect of- *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| Amount outstanding (including any interest, fees, penalty payments, costs and charges): *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| Aggregate amount: *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| And you \[the liable person\] must surrender to the court any United Kingdom passport held. *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| Justice of the Peace *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| \[ *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777]*or *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777]* by order of the Court *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| Clerk of the Court\] *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+| \* *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777]*Note: *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777]* The period of disqualification may be reduced as provided by section 39E(1)(a) of the Act if part payment is made of the aggregate amount. The order will be revoked under section 39E(2) of the Act if full payment is made of the aggregate amount. *(Extent: E+W)* *(affected by repeal, see note)*[^key-35e38e57f5822c4c08e5c95f32b37777] |
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in relation to the collection and enforcement of child support maintenance under the Child Support Act 1991.
+
+Part I contains interpretation provisions and provisions relating to the service and receipt of notices and other documents.
+
+Part II (regulations 2 to 7) deals with the collection of child support maintenance and, in particular, makes provision in relation to the method and interval of payment and the notification of such matters to the liable person.
+
+Part III (regulations 8 to 25) makes provision in relation to deduction from earnings orders under which payments in respect of child support maintenance are to be deducted by employers from the earnings of liable persons. Regulation 25 creates offences where certain of the requirements are contravened.
+
+Part IV (regulations 26 to 34) and Schedules 1 to 3 make provision in relation to the obtaining of liability orders in the magistrates’ courts and in relation to the enforcement of those orders by distraining the liable person’s goods or by commitment to prison.
+
+## Annotations
+
+[^c1833850]: Marginal citation: [1991 c.48](https://www.legislation.gov.uk/ukpga/1991/48). Section 54 is cited because of the meaning ascribed to the word “prescribed”.
+
+[^key-5a6171f8ccb3c9444de348490e553060]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1992/1989) modified (temp. until 22.5.2021) (7.11.2016) by [The Child Support (Deduction from Earnings Orders Amendment and Modification and Miscellaneous Amendments) Regulations 2016 (S.I. 2016/982)](https://www.legislation.gov.uk/uksi/2016/982), [reg. 3(3)](https://www.legislation.gov.uk/uksi/2016/982/regulation/3/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/982/regulation/1/2))
+
+[^key-90c02720aab595150694ef4f8eff560c]: Modification: [Reg. 1](https://www.legislation.gov.uk/uksi/1992/1989/regulation/1) modified (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/2/2) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+
+[^M_F_3664d721-e9f3-47c8-d673-25bb9235beda]: Textual amendment: reg. 1(2) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/2/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^key-6d3e9bccc4e58891bce1a0e7ebf400a4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/1/2) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/503/regulation/3/a)
+
+[^M_F_9c2d44e5-1d16-485a-c20b-adeb64f3a229]: Textual amendment: Reg. 1(2A) inserted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/2/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^key-6f5e39986fd93b2f38810c81588d799c]: Textual amendment: Word in [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/1/3/a) omitted (26.5.2022) by virtue of [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [3(b)(i)](https://www.legislation.gov.uk/uksi/2022/503/regulation/3/b/i)
+
+[^M_F_33ec21e3-b777-4b48-bb8b-55f5a3a6ac9d]: Textual amendment: Words in reg. 1(3) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(2)(c)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/2/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^key-b1a5d804ec92381d7ac27345fbc18ee2]: Textual amendment: [Reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/1/3/c) and word inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2022/503/regulation/3/b/ii)
+
+[^key-db538e0fa03bed273760c3b2335a5336]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/1992/1989/regulation/1A) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/503/regulation/4)
+
+[^key-4b53f3cf2a50de0d83b7f9fea03bba02]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/1992/1989/regulation/2) modified (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/2/3) (as amended (24.6.2014) by S.I. 2014/1621, reg. 3)
+
+[^M_F_3013af3b-e3e4-4b7b-ae7a-e49baf5e3d19]: Textual amendment: Word in reg. 2(1) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(3)(a) (with reg. 6)
+
+[^key-59cf55d7053efe30d431e3176406e892]: Modification: Reg. 3 modified (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/2/4) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+
+[^M_F_9f89d4f0-6465-466a-e315-b342c60a6c4a]: Textual amendment: Words in reg. 3(1) inserted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/3/b/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^M_F_5eb8c79a-6bcc-4682-e765-33662a8829e5]: Textual amendment: Reg. 3(1)(f) inserted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/3/b/ii) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^key-ed8dc9ecb30649cf0888efea766ed239]: Textual amendment: Reg. 3(1)(g)(h) added (12.7.2006) by [Child Support (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/1520)](https://www.legislation.gov.uk/uksi/2006/1520) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/1/1) , [3(2)(a)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/3/2/a)
+
+[^key-2d345197f588177f723ee062bb04f3ce]: Textual amendment: Reg. 3(1)(h) omitted (27.10.2008) by virtue of [Child Support (Miscellaneous Amendments) (No.2) Regulations 2008 (S.I. 2008/2544)](https://www.legislation.gov.uk/uksi/2008/2544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/2/2/a/i)
+
+[^key-bf6743d186f1fc8ecffa21146c6112cd]: Textual amendment: Reg. 3(1)(i) added (27.10.2008) by [Child Support (Miscellaneous Amendments) (No.2) Regulations 2008 (S.I. 2008/2544)](https://www.legislation.gov.uk/uksi/2008/2544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/2/2/a/ii)
+
+[^key-7fd75a880535f1426052ce9585bb0f70]: Textual amendment: Reg. 3(1A) substituted (12.7.2006) by [Child Support (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/1520)](https://www.legislation.gov.uk/uksi/2006/1520) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/1/1) , [3(2)(b)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/3/2/b)
+
+[^M_F_fc843c51-e5f1-4738-fb58-a6a3e4195783]: Textual amendment: Reg. 3(1A) inserted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^key-618164c6b288002cd87f88ba7aa6c607]: Textual amendment: Reg. 3(1A)(c) omitted (27.10.2008) by virtue of [Child Support (Miscellaneous Amendments) (No.2) Regulations 2008 (S.I. 2008/2544)](https://www.legislation.gov.uk/uksi/2008/2544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/2/2/b)
+
+[^M_F_49057625-eb09-47b7-8c75-695c66e2ea0f]: Textual amendment: Word in reg. 3(2) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/3/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^key-81f06609a9285ec3f678f460adbb9ec2]: Textual amendment: Reg. 3(3)-(9) added (27.10.2008) by [Child Support (Miscellaneous Amendments) (No.2) Regulations 2008 (S.I. 2008/2544)](https://www.legislation.gov.uk/uksi/2008/2544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/2/2/c)
+
+[^key-5b288ac1a349eb19347137615815a135]: Textual amendment: Words in reg. 3(9) substituted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/10)
+
+[^key-895616362d52293cb9a88099fa87c307]: Textual amendment: Words in reg. 3(9) substituted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/15)
+
+[^key-5c4a891212e76ee4bad487d00af9513e]: Textual amendment: Words in [reg. 3(9)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/3/9) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 44](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/44)
+
+[^key-d741c6f7eaa621c07cf83bfd951addec]: Modification: [Reg. 4](https://www.legislation.gov.uk/uksi/1992/1989/regulation/4) modified (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/2/5) (as amended (24.6.2014) by S.I. 2014/1621, reg. 3)
+
+[^key-d760e2fa2eb017d9a129d65b656f6fbb]: Textual amendment: Reg. 4 (as amended by S.I. 1995/1045) substituted (10.12.2012 coming into force in accordance with reg. 1(4)) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/4), [4(2)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/4/2)
+
+[^key-32ee69c44247bc8cb6fdb7b6dcbf2345]: Textual amendment: Reg. 5(1) substituted (30.4.2012) by [The Child Support (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/712)](https://www.legislation.gov.uk/uksi/2012/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/712/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2012/712/regulation/2)
+
+[^M_F_41d4ba80-78ff-49f2-d943-1aaeb0150069]: Textual amendment: Words in reg. 5(2) substituted (18.4.1995) by S.I. 1995/1045, reg. 1(2), 13(2)
+
+[^M_F_96097e21-29b7-494d-d896-82a2686e2d72]: Textual amendment: Reg. 5(3)(4) substituted (18.4.1995) by S.I. 1995/1045, reg. 1(2), 13(3) (with reg. 64(5))
+
+[^M_F_34a1171f-094d-452b-fa1d-d659bb9cb1cc]: Textual amendment: Reg. 5A inserted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(3)(d) (with reg. 6)
+
+[^key-e0fdf712e3cc17507241e969b32bef7e]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/1992/1989/regulation/7) modified (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/2/6) (as amended (24.6.2014) by S.I. 2014/1621, reg. 3)
+
+[^key-698991c33a0e3a7d2e88450f032a0f8d]: Modification: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/7/1) modified (temp. until 22.5.2021) (7.11.2016) by [The Child Support (Deduction from Earnings Orders Amendment and Modification and Miscellaneous Amendments) Regulations 2016 (S.I. 2016/982)](https://www.legislation.gov.uk/uksi/2016/982), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/982/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/982/regulation/3/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/982/regulation/1/2))
+
+[^M_F_04b3cfc6-89e1-41d3-faa9-4cbd3d8909c2]: Textual amendment: Words in reg. 7(1) inserted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(3)(e)(i)(aa) (with reg. 6)
+
+[^M_F_3c3cecf0-3142-4852-e7e4-09a9291664b3]: Textual amendment: Reg. 7(1)(e) inserted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(3)(e)(i)(bb) (with reg. 6)
+
+[^M_F_f48d9101-a32f-45d6-f10f-df0bb302e5ef]: Textual amendment: Reg. 7(1A) inserted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(3)(e)(ii) (with reg. 6)
+
+[^M_F_597c8da4-3528-4539-a1c9-6ce0d31e6fc6]: Textual amendment: Word in reg. 7(2) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(3)(a) (with reg. 6)
+
+[^M_F_58c91f75-2918-4e64-8a76-160b9c4ae061]: Textual amendment: Reg. 7(3) inserted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(3)(e)(iii) (with reg. 6)
+
+[^M_F_0e62d759-c730-4a29-fb61-022afd185dc8]: Textual amendment: Part IIA inserted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(4) (with reg. 6)
+
+[^M_F_3b8b46a8-9558-45fd-e5bf-cd7df8f68f52]: Textual amendment: Words in reg. 8(1) inserted (18.4.1995) by S.I. 1995/1045, reg. 1(2), 14(2)
+
+[^M_F_8f3a57ee-0eed-42cc-961e-17ba0fc66a2e]: Textual amendment: Words in reg. 8(1) omitted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(a)(i) (with reg. 6)
+
+[^M_F_066e6748-e815-4cb8-a59a-ff95ac9d6c85]: Textual amendment: Words in reg. 8(1) substituted (18.4.1995) by S.I. 1995/1045, reg. 1(2), 14(3)
+
+[^c1833852]: Marginal citation: [S.I. 1992/1815](https://www.legislation.gov.uk/uksi/1992/1815) .
+
+[^M_F_6123078c-14c6-473b-9ebb-4c49d1b9a960]: Textual amendment: Words in reg. 8(1) omitted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(a)(i) (with reg. 6)
+
+[^M_F_b96281a2-1c93-47dc-eddb-70639be62650]: Textual amendment: Words in reg. 8(1) inserted (18.4.1995) by S.I. 1995/1045, reg. 1(2), 14(4)
+
+[^M_F_82b4e855-2c9e-4acb-f474-ceae4206abb3]: Textual amendment: Words in reg. 8(1) omitted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(a)(i) (with reg. 6)
+
+[^M_F_93d1a5c4-800e-4dce-e106-661f5e53860a]: Textual amendment: Words in reg. 8(1) substituted (7.10.1996) by S.I. 1996/1945, reg. 1(2), 3(2)
+
+[^key-289871a988c74a7305a22eff15ad0d35]: Textual amendment: Words in reg. 8(1) substituted (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/5), [4(3)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/4/3) (with [regs. 11](https://www.legislation.gov.uk/uksi/2012/2785/regulation/11), [12](https://www.legislation.gov.uk/uksi/2012/2785/regulation/12))
+
+[^M_F_76b3c93c-2b5d-4eb6-f507-1e74798b8345]: Textual amendment: Words in reg. 8(1) inserted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(a)(ii) (with reg. 6)
+
+[^M_F_ab0d9310-b439-45d1-ca32-292f31bba173]: Textual amendment: Words in reg. 8(1) omitted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(a)(i) (with reg. 6)
+
+[^M_F_71f1aa1f-cbe4-46a2-d165-7f578679e4c0]: Textual amendment: Words in reg. 8(1) omitted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(a)(i) (with reg. 6)
+
+[^M_F_48268a9c-965a-4028-a319-232d7b305253]: Textual amendment: Words in reg. 8(1) omitted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(a)(i) (with reg. 6)
+
+[^M_F_5f67fcb6-8486-4321-80df-4470bf71f2a0]: Textual amendment: Words in reg. 8(1) inserted (18.4.1995) by S.I. 1995/1045, reg. 1(2), 14(5)
+
+[^M_F_c823cb65-cfd4-4de3-92cb-6fecba59e72c]: Textual amendment: Words in reg. 8(4)(b) inserted (6.4.1999) by S.I. 1999/977, reg. 1(2), 2(2)
+
+[^c1833853]: Marginal citation: [1975 c.60](https://www.legislation.gov.uk/ukpga/1975/60)
+
+[^key-6dee33895a046c0ca4f90cfbcfe4f684]: Textual amendment: Reg. 8(4)(f) added (6.4.2003) by [The Child Support (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/328)](https://www.legislation.gov.uk/uksi/2003/328) , [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2003/328/regulation/1/3/d) , [2](https://www.legislation.gov.uk/uksi/2003/328/regulation/2)
+
+[^c1833854]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4) .
+
+[^M_F_884b7eb4-b1bf-4b82-ab62-25556b858499]: Textual amendment: Words in reg. 8(5)(c) substituted (5.4.1993) by S.I. 1993/913, reg. 1(1), 41
+
+[^key-7e6e33f5b9019cc14dba8ab0787e84a9]: Textual amendment: Words in reg. 8(5)(c)(ii) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877) , [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1) , [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2005/2877/schedule/4/paragraph/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3) )
+
+[^M_F_3eb6a79b-27e4-4e56-f043-39b178076f00]: Textual amendment: Reg. 9(cc) inserted (22.1.1996) by S.I. 1995/3261, reg. 1(2), 6
+
+[^M_F_93bf5223-0b38-4e39-deb7-68716b48fb3f]: Textual amendment: Reg. 9(d)(e) substituted (18.4.1995) by S.I. 1995/1045, reg. 1(2), 15
+
+[^M_F_135cf1af-df92-4dc6-d8ef-1702b7847cf0]: Textual amendment: Words in reg. 9(e) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(b) (with reg. 6)
+
+[^key-e56597646b44bd3336feb35a862314d0]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1992/1989/regulation/10)(as amended by 1995/1045 and 2001/162) substituted (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/5), [4(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/4/4) (with [regs. 11](https://www.legislation.gov.uk/uksi/2012/2785/regulation/11), [12](https://www.legislation.gov.uk/uksi/2012/2785/regulation/12))
+
+[^key-f15da22d4caaabe84306c40effe33208]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1992/1989/regulation/11) (as amended by 1995/1045, 1996/1945, 1999/1510, 2001/162, 2006/1520 & 2008/2544) substituted (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/5), [4(5)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/4/5) (with [regs. 11](https://www.legislation.gov.uk/uksi/2012/2785/regulation/11), [12](https://www.legislation.gov.uk/uksi/2012/2785/regulation/12))
+
+[^M_F_d155303d-8096-48af-b9b3-a3a444726439]: Textual amendment: Words in reg. 12(2) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(e)(i) (with reg. 6)
+
+[^M_F_aa702dd9-efef-4b77-8ae9-f9158de558f6]: Textual amendment: Words in reg. 12(2) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(e)(i) (with reg. 6)
+
+[^M_F_dacc08ce-bbfb-47d3-d2da-6a269e96bf3e]: Textual amendment: Words in reg. 12(3) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(e)(i) (with reg. 6)
+
+[^M_F_49fb2e13-9b24-41a0-c79c-fdbe359f9f45]: Textual amendment: Words in reg. 12(3) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(e)(i) (with reg. 6)
+
+[^M_F_1ec9981c-d87d-4e34-9be5-a5f40dff94d4]: Textual amendment: Words in reg. 12(3) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(e)(i) (with reg. 6)
+
+[^M_F_e41e4447-049e-485e-f65c-54b9760e9398]: Textual amendment: Reg. 12(3A) inserted (19.1.1998) by S.I. 1998/58, reg. 1(2), 6
+
+[^M_F_72e09606-85a1-4cb3-bc8d-59cbbcbff3c3]: Textual amendment: Reg. 12(5) omitted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(e)(iI) (with reg. 6)
+
+[^M_F_31ae644c-7b7d-42c4-8276-7def46d7595c]: Textual amendment: Words in reg. 12(6) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(e)(i) (with reg. 6)
+
+[^key-c1a5c2a715c7e14f823715fa52901753]: Textual amendment: Reg. 15 substituted (6.4.2008) by [Child Support (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/536)](https://www.legislation.gov.uk/uksi/2008/536), [regs. 1](https://www.legislation.gov.uk/uksi/2008/536/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2008/536/regulation/3/2)
+
+[^key-2ca4f0c7365442c68a8a3d792f11d61b]: Modification: [Reg. 17](https://www.legislation.gov.uk/uksi/1992/1989/regulation/17) modified (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/2/7) (as amended (24.6.2014) by S.I. 2014/1621, reg. 3)
+
+[^M_F_666acf2d-3f02-4363-89ba-dbb5aaf73e68]: Textual amendment: Reg. 17 substituted (18.4.1995) by S.I. 1995/1045, reg. 1(2), 18
+
+[^M_F_57d58bf3-3bf4-4686-d16e-907aee8038e8]: Textual amendment: Words in reg. 17(1)(a) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(f)(i) (with reg. 6)
+
+[^M_F_0fafa583-6978-4cca-8e0e-de11a541a6c5]: Textual amendment: Words in reg. 17(1)(b) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(f)(ii) (with reg. 6)
+
+[^key-2c351d61bfbffb6dacf7920e754c0c39]: Modification: Reg. 20 modified (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/2/8) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+
+[^M_F_0e181842-f2f9-4bff-d684-b1e0cee3130d]: Textual amendment: Reg. 20(1) substituted (18.4.1995) by [S.I. 1995/1045](https://www.legislation.gov.uk/uksi/1995/1045), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1045/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/1995/1045/regulation/19)
+
+[^key-0d283359bf198b944dc65cfaac028a8d]: Textual amendment: Word in reg. 20(1)(e) omitted (10.12.2012 for specified purposes) by virtue of [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/5), [4(6)(a)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/4/6/a) (with [regs. 11](https://www.legislation.gov.uk/uksi/2012/2785/regulation/11), [12](https://www.legislation.gov.uk/uksi/2012/2785/regulation/12))
+
+[^M_F_e5c5cb8a-e4e8-479a-dad6-c4c7f2277dd8]: Textual amendment: Words in reg. 20(1)(f) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(5)(g)(i)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/5/g/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^M_F_3db2cc6e-1b38-41a4-c2ec-d3cc82534261]: Textual amendment: Words in reg. 20(1)(f) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(5)(g)(i)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/5/g/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^key-c3e8b5100d56fe7a964a59b919cdc3af]: Textual amendment: Reg. 20(1)(g) and word inserted (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/5), [4(6)(b)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/4/6/b) (with [regs. 11](https://www.legislation.gov.uk/uksi/2012/2785/regulation/11), [12](https://www.legislation.gov.uk/uksi/2012/2785/regulation/12))
+
+[^key-399668ea715dcbfadf6caf677fb0231e]: Textual amendment: [Reg. 20(1)(h)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/20/1/h) and word inserted (temp. until 22.5.2021) (7.11.2016) by [The Child Support (Deduction from Earnings Orders Amendment and Modification and Miscellaneous Amendments) Regulations 2016 (S.I. 2016/982)](https://www.legislation.gov.uk/uksi/2016/982), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/982/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2016/982/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/982/regulation/1/2))
+
+[^M_F_4858826b-ad23-45aa-abc9-8895e982f30d]: Textual amendment: Words in reg. 21(6) omitted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(h) (with reg. 6)
+
+[^key-b6f8fc3670a6b87387c659b83acd256c]: Textual amendment: Words in reg. 22(1) substituted (1.8.2007) by [The Child Support (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/1979)](https://www.legislation.gov.uk/uksi/2007/1979), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1979/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2007/1979/regulation/2/2/a)
+
+[^key-e0ff346b95b4d734108d5e2ee4935339]: Textual amendment: Words in reg. 22(2) inserted (27.10.2008) by [Child Support (Miscellaneous Amendments) (No.2) Regulations 2008 (S.I. 2008/2544)](https://www.legislation.gov.uk/uksi/2008/2544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/2/4/a)
+
+[^key-c1101eab4e7387d5c1c43cc376b5289e]: Textual amendment: Words in reg. 22(2)(b) inserted (1.8.2007) by [The Child Support (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/1979)](https://www.legislation.gov.uk/uksi/2007/1979), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1979/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2007/1979/regulation/2/2/b)
+
+[^key-bb48f14e4074726ca98049c1d2c8b5bc]: Textual amendment: Reg. 22(2)(c) inserted (1.8.2007) by [The Child Support (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/1979)](https://www.legislation.gov.uk/uksi/2007/1979), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1979/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2007/1979/regulation/2/2/c)
+
+[^key-34c32e23355e1b4ca6de130d4750408c]: Textual amendment: Reg. 22(2A) inserted (27.10.2008) by [Child Support (Miscellaneous Amendments) (No.2) Regulations 2008 (S.I. 2008/2544)](https://www.legislation.gov.uk/uksi/2008/2544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/2/4/b)
+
+[^key-1d71316717225e515d8c757c6e0c7126]: Textual amendment: Words in reg. 22(3) inserted (27.10.2008) by [Child Support (Miscellaneous Amendments) (No.2) Regulations 2008 (S.I. 2008/2544)](https://www.legislation.gov.uk/uksi/2008/2544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/2/4/c)
+
+[^key-97e69119f24d326e950458413e7d2dff]: Textual amendment: Reg. 22(3A) inserted (27.10.2008) by [Child Support (Miscellaneous Amendments) (No.2) Regulations 2008 (S.I. 2008/2544)](https://www.legislation.gov.uk/uksi/2008/2544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/2/4/d)
+
+[^key-8bb4c40afa6030f5ec0376f3875bcb22]: Textual amendment: Words in reg. 22(4) inserted (27.10.2008) by [Child Support (Miscellaneous Amendments) (No.2) Regulations 2008 (S.I. 2008/2544)](https://www.legislation.gov.uk/uksi/2008/2544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/1/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/2/4/e)
+
+[^key-c4bf9b82da71e356523cc28b68c5dabe]: Textual amendment: Reg. 22(5) added (27.10.2008) by [Child Support (Miscellaneous Amendments) (No.2) Regulations 2008 (S.I. 2008/2544)](https://www.legislation.gov.uk/uksi/2008/2544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/1/1), [2(4)(f)](https://www.legislation.gov.uk/uksi/2008/2544/regulation/2/4/f)
+
+[^M_F_c7f42d8e-8d65-4a32-8b34-b2fa4645347a]: Textual amendment: Reg. 24(1) omitted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(i)(i) (with reg. 6)
+
+[^M_F_21b92774-8a4d-44c4-b2e0-6694ee474bf2]: Textual amendment: Words in reg. 24(2) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(i)(iii)(aa) (with reg. 6)
+
+[^M_F_58ade664-6e05-4968-ea9f-9fd469f88d70]: Textual amendment: Words in reg. 24(2) omitted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(i)(iii)(bb) (with reg. 6)
+
+[^M_F_4f999a47-142f-42c1-8990-b100c389e5b5]: Textual amendment: Words in reg. 24(2) omitted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(i)(iii)(bb) (with reg. 6)
+
+[^M_F_07457f80-4b08-4eb0-c68f-64d985abb5e8]: Textual amendment: Words in reg. 24(2)(b) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(i)(ii) (with reg. 6)
+
+[^c1833855]: Marginal citation: [1971 c.32](https://www.legislation.gov.uk/ukpga/1971/32) .
+
+[^c1833856]: Marginal citation: [S.I. 1989/438](https://www.legislation.gov.uk/uksi/1989/438) .
+
+[^M_F_a93c239e-c7ff-47da-bf12-0700ad74e9f5]: Textual amendment: Words in reg. 24(2) inserted (5.4.1993) by S.I. 1993/913, reg. 1(1), 42
+
+[^M_F_fc1b77a3-7e4f-4eb5-bac0-dfc72306f980]: Textual amendment: Words in reg. 24(4) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(i)(iii)(aa) (with reg. 6)
+
+[^M_F_84f10e54-feca-4c73-e4ed-fdb495a8119c]: Textual amendment: Words in reg. 24(4) omitted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(i)(iii)(bb) (with reg. 6)
+
+[^M_F_577c182c-876e-4aed-8444-70b1858bbf10]: Textual amendment: Words in reg. 24(4) omitted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by S.I. 2001/162, reg. 1(3), 2(5)(i)(iii)(bb) (with reg. 6)
+
+[^M_F_79ddfd63-646e-4b77-83de-dda7b00d3295]: Textual amendment: Words in reg. 25 inserted (6.4.1999) by [S.I. 1999/977](https://www.legislation.gov.uk/uksi/1999/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/1999/977/regulation/2/3/a)
+
+[^M_F_89438cad-b115-4775-ad88-4cb9022e9cc9]: Textual amendment: Words in reg. 25 substituted (6.4.1999) by [S.I. 1999/977](https://www.legislation.gov.uk/uksi/1999/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/977/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/1999/977/regulation/2/3/b)
+
+[^key-7582f7575c87079b547e785f75d9db01]: Textual amendment: Pt. 3A inserted (3.8.2009) by [Child Support Collection and Enforcement (Deduction Orders) Amendment Regulations 2009 (S.I. 2009/1815)](https://www.legislation.gov.uk/uksi/2009/1815), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1815/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/1815/regulation/2)
+
+[^key-ce8c4c3d0fa473de89f65329b7113f5f]: Textual amendment: Words in [reg. 25A(1)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25A/1) inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/2/a/i)
+
+[^key-a7d9573aea9b667b00daa6f9d75fd1ca]: Textual amendment: Words in reg. 25A(1) inserted (30.9.2013 for specified purposes) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/4/2/a)
+
+[^key-9afad126a64df39699d0cec45894a68d]: Textual amendment: Words in reg. 25A(1) inserted (30.9.2013 for specified purposes) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/4/2/b)
+
+[^key-4888b39c3d723c65ae608f9b9123840a]: Textual amendment: Words in reg. 25A(1) omitted (30.9.2013 for specified purposes) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/3), [4(2)(c)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/4/2/c)
+
+[^key-dd7fcd192b4833b754475db06fbeaa94]: Textual amendment: Words in reg. 25A(1) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(2)(a)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/2/a)
+
+[^key-b7ca87fa04501f92fa848e7c1e09fcb0]: Textual amendment: Words in reg. 25A(2)(3) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(2)(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/2/b)
+
+[^key-6bc0998cfc41bbe6ff25f21133e1558d]: Textual amendment: [Reg. 25A(3)(b)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25A/3/b) substituted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2022/503/regulation/5/a)
+
+[^key-51bb33c6f37443521ce5c34aa35595fd]: Textual amendment: Words in reg. 25A(4) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(2)(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/2/b)
+
+[^key-484de9997a737a6a37a1b695c51f9a4b]: Textual amendment: Words in [reg. 25A(4)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25A/4) substituted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(2)(c)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/2/c)
+
+[^key-c985597be2956cefc33e1f748dbf818c]: Textual amendment: [Reg. 25A(5)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25A/5) omitted (26.5.2022) by virtue of [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2022/503/regulation/5/b)
+
+[^key-83be874dfceefbfdfc34b83aa8651aee]: Textual amendment: Reg. 25A(6)(b) omitted (30.9.2013 for specified purposes) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/4/3)
+
+[^key-8dfc230dcbfceed1b66be33c715c1f73]: Textual amendment: [Reg. 25A(7)(a)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25A/7/a) omitted (26.5.2022) by virtue of [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2022/503/regulation/5/c)
+
+[^key-9df7b1698e08d2c25653149c7635fe5e]: Textual amendment: [Reg. 25A(7)(b)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25A/7/b) omitted (26.5.2022) by virtue of [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2022/503/regulation/5/c)
+
+[^key-39af00686573fb015e5348d3c299c18f]: Textual amendment: Reg. 25A1 inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/3)
+
+[^key-1f1f680a1d6e30f2646278bbd5490edf]: Textual amendment: Word in reg. 25C(1)(a) substituted (10.12.2012 coming into force in accordance with reg. 1(4)) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/4), [4(7)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/4/7)
+
+[^key-cdf7f74fa41e6b1bc2b9be2035ad4191]: Textual amendment: Words in reg. 25C(1)(a) omitted (30.9.2013 for specified purposes) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/4/4)
+
+[^key-51ea0b72d5bb94f511336f1fb0590f2b]: Textual amendment: Words in reg. 25E(heading) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(3)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/3)
+
+[^key-ecdb2a02301b4e613110a4efc2aca54c]: Textual amendment: Words in reg. 25E(1) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(3)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/3)
+
+[^key-1299d1b7f328d1ec9d698d69d21e7dbc]: Textual amendment: Words in [reg. 25E(1)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25E/1) omitted (20.12.2018) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(4)(a)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/4/a)
+
+[^key-3a64989b205467c958960c89769aea28]: Textual amendment: Words in reg. 25E(3)(4) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(3)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/3)
+
+[^key-04f8604492ab4fbea4f9928314725327]: Textual amendment: Words in reg. 25E(5) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(3)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/3)
+
+[^key-fb5f5d40e0ea9aded5e18d613455450d]: Textual amendment: [Reg. 25E(5A)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25E/5A) inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(4)(b)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/4/b)
+
+[^key-1482edf7333c89973dc2c5f0c7f5eeb5]: Textual amendment: Words in reg. 25F(heading) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(4)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/4)
+
+[^key-c4616cf6f52b5d3e85176a82647a1be0]: Textual amendment: Words in reg. 25F substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(4)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/4)
+
+[^key-0e832f4eae164cb8df537b781f1cadab]: Textual amendment: [Reg. 25G(1)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25G/1) substituted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(5)(a)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/5/a)
+
+[^key-6add1c71b69e136356ec3ca2511f076c]: Textual amendment: Words in [reg. 25G(2)(a)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25G/2/a) substituted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(5)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/5/b/i)
+
+[^key-41c13f0526fdb59fe9faac3c70e917fd]: Textual amendment: Words in reg. 25G(2)(a) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(5)(a)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/5/a)
+
+[^key-268fed17199a0f82f9f3b0ee8c039e60]: Textual amendment: Words in [reg. 25G(2)(b)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25G/2/b) inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/5/b/ii)
+
+[^key-c05d7062dfd887de0dc0ecc155d8951f]: Textual amendment: Word in reg. 25G(2)(d) substituted (30.9.2013 for specified purposes) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/3), [4(5)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/4/5)
+
+[^key-af95798dd102a3e3a6ab354a1274ce84]: Textual amendment: Word in [reg. 25G(2)(e)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25G/2/e) omitted (20.12.2018) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/5/b/iii)
+
+[^key-f183e4119812e10116cdd5c554f1136e]: Textual amendment: [Regs. 25G(2)(g)-(h)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25G/2/g) inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(5)(b)(iv)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/5/b/iv)
+
+[^key-9c850ce397493212cbd7a4416fd8d9e6]: Textual amendment: Words in reg. 25G(3) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(5)(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/5/b)
+
+[^key-dcf5327ef9f22ce1ca74c63563774f88]: Textual amendment: Reg. 25I(1) substituted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(6)(a)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/6/a)
+
+[^key-4162376cef2a3714c629e8ee791631be]: Modification: Reg. 25I(2) modified (temp in part until 22.5.2021) (23.5.2016) by [The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 (S.I. 2016/439)](https://www.legislation.gov.uk/uksi/2016/439), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2016/439/regulation/2/2)
+
+[^key-a387f25b60ce25726609af63d20b1561]: Textual amendment: Words in reg. 25I(1)(2) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(6)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/6)
+
+[^key-461a1e1b705cdc28ce96b6d2e459c157]: Textual amendment: Word in reg. 25I(2)(c) omitted (20.12.2018) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(6)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/6/b/i)
+
+[^key-fac53fcc93830475a4b78a1b243853bf]: Textual amendment: Reg. 25I(2)(e) and word inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/6/b/ii)
+
+[^key-75a6e3300ecace5f0353d776a0242d53]: Textual amendment: Words in reg. 25I(3) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(6)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/6)
+
+[^key-9e7bc78ff24700db2d040f340ad87060]: Textual amendment: Words in reg. 25I(3) inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(6)(c)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/6/c)
+
+[^key-9c1bae480e6a1cbfff3804b8d2259abf]: Textual amendment: Reg. 25I(5) inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(6)(d)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/6/d)
+
+[^key-2b2c4510a386c9e92d6c5f805fd5fb54]: Textual amendment: Reg. 25IA inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(7)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/7)
+
+[^key-9b22db543e8c85e37d3b919fc76b10c7]: Modification: Reg. 25J(2)(a) modified (23.5.2016) by [The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 (S.I. 2016/439)](https://www.legislation.gov.uk/uksi/2016/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/439/regulation/2/3)
+
+[^key-49d75df5ad923f2210157f2f6512a20a]: Textual amendment: Words in reg. 25J(2)(3) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(7)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/7)
+
+[^key-ff258df3258dd7d40a497ad05812bc6c]: Textual amendment: Word in reg. 25J(2)(a) omitted (20.12.2018) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(8)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/8/a/i)
+
+[^key-c1975f707feabcb399352245ab548e0f]: Textual amendment: Reg. 25J(2)(c) and word inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/8/a/ii)
+
+[^key-7c96c66edf90e675d7e758a820a6bddd]: Textual amendment: Words in reg. 25J(4) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(7)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/7)
+
+[^key-e0103b0b1d110d2faed9433cac61f0dd]: Textual amendment: Reg. 25J(5) inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(8)(b)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/8/b)
+
+[^key-6ce9b79dc5cbf30a39802015db2e6cd8]: Textual amendment: Words in reg. 25K substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(8)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/8)
+
+[^key-d6811e80637afe5d351c43948080c78b]: Textual amendment: Word in reg. 25K(1)(a) omitted (20.12.2018) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(9)(a)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/9/a)
+
+[^key-54b3e5ef2849106dae99a790a6669adb]: Textual amendment: Reg. 25K(1)(c) and word inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(9)(b)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/9/b)
+
+[^key-e1cdc5e1dc61c02f505f578a9dfbf897]: Textual amendment: Reg. 25KA inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(10)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/10)
+
+[^key-834177e5e39d20c8c4bca98b9330586a]: Textual amendment: Words in reg. 25L(1) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(9)(a)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/9/a)
+
+[^key-7706c273dccc7b819f04c674af198745]: Modification: Reg. 25L(1)(b) modified (23.5.2016) by [The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 (S.I. 2016/439)](https://www.legislation.gov.uk/uksi/2016/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2016/439/regulation/2/4)
+
+[^key-f674c2ee1d141f71cc4907f933afba5e]: Textual amendment: Reg. 25L(1)(f) substituted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(11)(a)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/11/a)
+
+[^key-f679f6e9336f11056fe276ab9d881528]: Textual amendment: Word in reg. 25L(1)(g) omitted (20.12.2018) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(11)(b)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/11/b)
+
+[^key-dbefa94b0c857aa7d99e1c134700f41f]: Textual amendment: Reg. 25L(1)(i) and word inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(11)(c)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/11/c)
+
+[^key-1413feb318cbd065175219eb21bd1f64]: Textual amendment: Words in reg. 25L(2) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(9)(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/9/b)
+
+[^key-9e2387467c13e33e34cf29acaa01bb1f]: Textual amendment: [Reg. 25M](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25M) substituted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(12)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/12)
+
+[^key-5d4d99c633b95a7d8871726779909d13]: Textual amendment: [Reg. 25MA](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25MA) inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(13)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/13)
+
+[^key-cfdf17f641240728ad007f630e4b4abf]: Textual amendment: Words in reg. 25N(1)(2) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(11)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/11)
+
+[^key-0d0050ca985582b7d4d99623da8d9e19]: Textual amendment: [Reg. 25N(1)(aa)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25N/1/aa) inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(14)(a)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/14/a)
+
+[^key-fa043623f30e1b4639efe4b75e6781f8]: Textual amendment: Words in [reg. 25N(1)(b)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25N/1/b) inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(14)(b)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/14/b)
+
+[^key-55fe1f61115c007a9dd2a381a0a618aa]: Textual amendment: Words in [reg. 25N(1)(d)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25N/1/d) substituted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(14)(c)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/14/c)
+
+[^key-9bd2459e1b8e075d059e3c441c7cbcf9]: Textual amendment: Words in [reg. 25N(2)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25N/2) inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(14)(d)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/14/d)
+
+[^key-7811b9e6647f464b55822911f9f44cb9]: Textual amendment: Words in reg. 25N(3)(4) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(11)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/11)
+
+[^key-b6cc68fb86bd2169783420c791049813]: Textual amendment: Words in [reg. 25N(3)(b)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25N/3/b) inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(14)(d)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/14/d)
+
+[^key-6e6dc1a079c3ad0c4c67082ad1e5541c]: Textual amendment: Words in reg. 25N(6) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(11)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/11)
+
+[^key-9b5b86354213d04fdd33d2f2869215e0]: Textual amendment: Words in reg. 25O(1) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(12)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/12)
+
+[^key-68ecdf9bb0fe2f91fc5019a1333003da]: Textual amendment: Words in reg. 25O(3)(4) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(12)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/12)
+
+[^key-60b99b230c5982864234f119efc1a539]: Textual amendment: Words in reg. 25O(5) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(12)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/12)
+
+[^key-835418efedb77257c4f9391b984699e6]: Textual amendment: [Reg. 25O(5A)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25O/5A) inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(15)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/15)
+
+[^key-3cea9410d9e11a7f5534409e87291818]: Textual amendment: Words in reg. 25R(1)(2) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(13)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/13)
+
+[^key-748b16c48224b9ab7ba8bed600dbddd4]: Textual amendment: Words in reg. 25S(2)(3) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(14)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/14)
+
+[^key-7e73d7b8ae723f48f3c85c01640b3625]: Modification: Reg. 25S(2)(c) modified (23.5.2016) by [The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 (S.I. 2016/439)](https://www.legislation.gov.uk/uksi/2016/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2016/439/regulation/2/5)
+
+[^key-cd003e5c1e2289facc13a0c37c902b49]: Textual amendment: Words in reg. 25T substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(15)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/15)
+
+[^key-d3969f06ccae6cc57e181b059b66b753]: Modification: Reg. 25U(1) modified (23.5.2016) by [The Child Support (Deduction Orders and Fees) (Amendment and Modification) Regulations 2016 (S.I. 2016/439)](https://www.legislation.gov.uk/uksi/2016/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/439/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2016/439/regulation/2/6)
+
+[^key-1b2c4bb3111a737f0c8b662bbb3a0397]: Textual amendment: Words in reg. 25U(1)(2) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(16)(a)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/16/a)
+
+[^key-cc6de8c7588805f8f1620a4347d53fdc]: Textual amendment: Words in reg. 25U(1)(d) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(16)(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/16/b)
+
+[^key-aa6a97e5e791d65e0b0fd6c60031fa56]: Textual amendment: Word in reg. 25U(1)(f) omitted (20.12.2018) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(16)(a)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/16/a)
+
+[^key-da57b51b31229872d1c867f077de28e8]: Textual amendment: Reg. 25U(1)(h) and word inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(16)(b)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/16/b)
+
+[^key-f9d2bc840e698b88bbd321439cdd4114]: Textual amendment: Words in reg. 25V(a)(ii) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(17)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/17)
+
+[^key-5e167db94acfeef5e1cb81a4296f98a7]: Textual amendment: Words in reg. 25X(2) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(18)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/18)
+
+[^key-7e8a53ad3b7b666dffdc04d181d97f54]: Textual amendment: [Reg. 25X(3)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25X/3) substituted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(17)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/17)
+
+[^key-f5226e2e52e52fb44388a561c7080605]: Textual amendment: [Regs. 25XA-25XC](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25XA) inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(18)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/18)
+
+[^key-737273d69977d77d75332fa3c1cef8f2]: Textual amendment: Words in reg. 25Z substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(19)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/19)
+
+[^key-723f72fc2f0ce57a055a9fe0e1e3348d]: Textual amendment: Words in reg. 25AA(heading) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(20)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/20)
+
+[^key-be7cf04c830a4e1d4fcdb0f19a5ff8dd]: Textual amendment: Words in reg. 25AA(1)(2) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(20)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/20)
+
+[^key-7da28b4dbade581344ee9ed01dee3f7d]: Textual amendment: Words in reg. 25AB(1) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [25](https://www.legislation.gov.uk/uksi/2014/879/article/25)
+
+[^key-89f7ab1b5842c81896a23a0e3bf7740c]: Textual amendment: Words in reg. 25AB(1)(b) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(21)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/21)
+
+[^key-d4a946c71e60cf68366b3aee21515b69]: Textual amendment: Words in reg. 25AC(a) substituted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(19)(a)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/19/a)
+
+[^key-b3490b75a3b3e8db6ebc42e89d076ca6]: Textual amendment: Words in reg. 25AC(a) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(22)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/22)
+
+[^key-ffb22301d1a6ed3b6e55562b1a50f78f]: Textual amendment: Words in reg. 25AC(c) substituted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(19)(b)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/19/b)
+
+[^key-ab5b3412bd73ee0d0a380d22b35261f8]: Textual amendment: Word in reg. 25AC(d) omitted (20.12.2018) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(19)(c)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/19/c)
+
+[^key-d0dc9b880689b406f234c857fab15511]: Textual amendment: Words in reg. 25AC(e) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(22)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/22)
+
+[^key-d76b9db641883d69bf4e273423a6e630]: Textual amendment: Words in reg. 25AC(e) inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(19)(d)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/19/d)
+
+[^M_F_fb11807d-4aad-47f9-a1c4-d2d715d97d7a]: Textual amendment: Words in reg. 25AD heading substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(23)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/23)
+
+[^key-2f6434e61790af2583b1528a091d5808]: Textual amendment: Words in reg. 25AD substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 111(23)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/111/23)
+
+[^key-53beb3eddd12543fff5f5b8aa7e4dd22]: Textual amendment: [Reg. 25AE](https://www.legislation.gov.uk/uksi/1992/1989/regulation/25AE) inserted (20.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/3), [3(20)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/3/20)
+
+[^key-8dc86e34799dabdfc0290604665dac3a]: Textual amendment: Words in reg. 26 substituted (13.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/5/2)
+
+[^key-098999f649e0a998e5498d8f91c5995d]: Modification: Reg. 27 modified (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/2/9) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+
+[^key-c78e5f8ae5480bc10b08d17ad00aa491]: Textual amendment: Words in reg. 27(1) inserted (1.8.2007) by [The Child Support (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/1979)](https://www.legislation.gov.uk/uksi/2007/1979), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1979/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2007/1979/regulation/2/3/a)
+
+[^key-6bcd6473fb17f47b072335d20a1db360]: Textual amendment: Reg. 27(1A) inserted (1.8.2007) by [The Child Support (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/1979)](https://www.legislation.gov.uk/uksi/2007/1979), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1979/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2007/1979/regulation/2/3/b)
+
+[^M_F_fb8afc8d-a6f4-4bc0-9df8-891b7ac6afd3]: Textual amendment: Words in reg. 27(2) substituted (3.3.2003, See reg. 1 of S.I. for when to apply for different circumstances) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(6)(a)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/6/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^key-25abd632d038f825128fc4ea0734c29b]: Textual amendment: Words in reg. 28(1) omitted (1.8.2007) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/1979)](https://www.legislation.gov.uk/uksi/2007/1979), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1979/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2007/1979/regulation/2/4)
+
+[^key-fe24c3f6cfe5315309cf1e5786d8095b]: Textual amendment: Reg. 28(2) substituted (12.7.2006) by [Child Support (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/1520)](https://www.legislation.gov.uk/uksi/2006/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/3/5/a)
+
+[^key-0ab7cd94cd72ddc13574cc64e81466d4]: Textual amendment: Reg. 28(2A) inserted (12.7.2006) by [Child Support (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/1520)](https://www.legislation.gov.uk/uksi/2006/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2006/1520/regulation/3/5/b)
+
+[^c1833858]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^key-3d6d0974d91537fcc777bc4ba7e18ccb]: Textual amendment: [Reg. 29(1)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/29/1) omitted (E.W.) (19.7.2021) by virtue of [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/763/regulation/3/2)
+
+[^M_F_fcd8f31c-5410-4676-bd87-e1b21586e01e]: Textual amendment: Words in reg. 29(4) substituted (5.4.1993) by [S.I. 1993/913](https://www.legislation.gov.uk/uksi/1993/913), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/913/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/1993/913/regulation/43)
+
+[^c1833859]: Marginal citation: [1950 c.37](https://www.legislation.gov.uk/ukpga/1950/37).
+
+[^key-0457e328ad54c5e6d0e5518258d0d567]: Textual amendment: Words in reg. 31(1) omitted (1.8.2007) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/1979)](https://www.legislation.gov.uk/uksi/2007/1979), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1979/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2007/1979/regulation/2/5)
+
+[^M_F_db1efd39-a26d-40e5-eac6-94b69eede962]: Textual amendment: Words in reg. 33(1) substituted (31.5.2001, See reg. 1 of S.I. for when to apply for different circumstances) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(6)(b)(i)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/6/b/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^key-9ab0cd28134f416dabd36e55e51b07d2]: Textual amendment: Words in reg. 33(1) omitted (1.8.2007) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/1979)](https://www.legislation.gov.uk/uksi/2007/1979), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1979/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2007/1979/regulation/2/6)
+
+[^M_F_f374f375-89c7-4b93-ff28-70079070ff47]: Textual amendment: Words in reg. 33(2) substituted (31.5.2001, See reg. 1 of S.I. for when to apply for different circumstances) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/6/b/ii) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^M_F_123dd632-fed8-4e1f-f313-e043930f6853]: Textual amendment: Words in reg. 33(3) substituted (31.5.2001, See reg. 1 of S.I. for when to apply for different circumstances) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(6)(b)(i)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/6/b/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^key-99e85d122491abda0c8fbde81a807767]: Textual amendment: [Reg. 34(1)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/34/1) omitted (E.W.) (19.7.2021) by virtue of [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2021/763/regulation/3/3)
+
+[^M_F_5b773474-ad7b-4569-97b6-02cf5fcd7a59]: Textual amendment: Reg. 35 added (31.5.2001, See reg. 1 of S.I. for when to apply for different circumstances) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(6)(c)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/6/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^key-81434c3140bbb86030ceecfeb0a81229]: Textual amendment: Words in reg. 35(1) omitted (1.8.2007) by virtue of [The Child Support (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/1979)](https://www.legislation.gov.uk/uksi/2007/1979), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1979/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2007/1979/regulation/2/6)
+
+[^key-03748b1cf250f8db52ea32dfe2111ab3]: Textual amendment: Words in reg. 35(1) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 9(a)(i)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/9/a/i)
+
+[^key-3ec0442594d6eabb74750996772e465d]: Textual amendment: [Reg. 35(4)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/35/4) omitted (E.W.) (19.7.2021) by virtue of [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2021/763/regulation/3/4)
+
+[^key-960f7705d3ed3222db47bff524352970]: Textual amendment: Words in reg. 35(6) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 9(a)(ii)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/9/a/ii)
+
+[^key-d2587a21f7a196c182074da6f4db5c8c]: Textual amendment: Reg. 35A inserted (13.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/5/3)
+
+[^key-dff43b6a2418e7cb4184d15062a7d107]: Textual amendment: [Reg. 35A(4)](https://www.legislation.gov.uk/uksi/1992/1989/regulation/35A/4) omitted (E.W.) (19.7.2021) by virtue of [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2021/763/regulation/3/5)
+
+[^key-9ae6550aaf561710b433479844221b0e]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/1992/1989/schedule/A1) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications and Information) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/503)](https://www.legislation.gov.uk/uksi/2022/503), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/503/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2022/503/regulation/6)
+
+[^key-276e225f055114dadd111c375ff3b846]: Modification: Sch. 1 modified (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/2/10) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+
+[^key-0e639f49a58e35e582d2f3fd01a6103e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1992/1989/schedule/1) omitted (E.W.) (19.7.2021) by virtue of [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2021/763/regulation/3/6)
+
+[^key-1780c60d416ac13361289c2bb5d65e57]: Textual amendment: Words in Sch. 1 omitted (23.3.2015) by virtue of [The Child Support (Miscellaneous and Consequential Amendments) Regulations 2015 (S.I. 2015/338)](https://www.legislation.gov.uk/uksi/2015/338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/338/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2015/338/regulation/5/a)
+
+[^key-b479c55a6e4b057395f21be2d06dfd60]: Textual amendment: Words in Sch. 1 substituted (23.3.2015) by [The Child Support (Miscellaneous and Consequential Amendments) Regulations 2015 (S.I. 2015/338)](https://www.legislation.gov.uk/uksi/2015/338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/338/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2015/338/regulation/5/b)
+
+[^key-c471516ac0e857745753a72ed46d5e58]: Textual amendment: Words in Sch. 1 substituted (23.3.2015) by [The Child Support (Miscellaneous and Consequential Amendments) Regulations 2015 (S.I. 2015/338)](https://www.legislation.gov.uk/uksi/2015/338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/338/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2015/338/regulation/5/c)
+
+[^M_F_a2f1b931-5766-489b-e2c5-d09ddca4601c]: Textual amendment: Words in Sch. 1 inserted (3.3.2003) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(7)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/7) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^key-e1abd559accbde10eda4e5117b3d1293]: Textual amendment: Words in Sch. 1 substituted (23.3.2015) by [The Child Support (Miscellaneous and Consequential Amendments) Regulations 2015 (S.I. 2015/338)](https://www.legislation.gov.uk/uksi/2015/338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/338/regulation/1/2), [5(d)](https://www.legislation.gov.uk/uksi/2015/338/regulation/5/d)
+
+[^M_F_58f45ba6-005a-49aa-d925-4814cbc02e4a]: Textual amendment: Head BB in Sch. 2 inserted (7.2.1994) by [S.I. 1994/227](https://www.legislation.gov.uk/uksi/1994/227), [reg. 1](https://www.legislation.gov.uk/uksi/1994/227/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/1994/227/regulation/3/2/a)
+
+[^M_F_ac826eee-e1bd-4f5e-f85c-d9046f33da8a]: Textual amendment: Words in head D, col. 2 in Sch. 2 substituted (7.2.1994) by [S.I. 1994/227](https://www.legislation.gov.uk/uksi/1994/227), [reg. 1](https://www.legislation.gov.uk/uksi/1994/227/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/1994/227/regulation/3/2/b)
+
+[^key-d1514f25fc6e7d8a62c107fb7229baa6]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1992/1989/schedule/3) omitted (E.W.) (19.7.2021) by virtue of [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2021/763/regulation/3/7)
+
+[^M_F_88ff3d59-d225-47b8-df65-4a00c2914543]: Textual amendment: Word in Sch. 3 para (i) omitted (3.3.2003) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(8)(b)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/8/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^M_F_1af6f8d3-a704-4147-9178-491f5cdc96c0]: Textual amendment: Word in Sch. 3 para (iii) omitted (3.3.2003) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(8)(c)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/8/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^M_F_7d6f58a4-04fd-4993-f573-86adba3fc17f]: Textual amendment: Word in Sch. 3 para (iii) omitted (3.3.2003) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(8)(c)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/8/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^M_F_7ffef74c-b29e-4903-b80a-07d0141372c6]: Textual amendment: Words in Sch. 3 inserted (3.3.2003) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(8)(a)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/8/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^M_F_9692cda2-8ca3-4e1d-bfe6-bc03f67236b5]: Textual amendment: Sch. 04 inserted (2.4.2001) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/1/3), [2(9)](https://www.legislation.gov.uk/uksi/2001/162/regulation/2/9), [Sch.](https://www.legislation.gov.uk/uksi/2001/162/schedule) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
+
+[^key-d3e6fd94ad45553b45a365c4484c2f6f]: Textual amendment: Sch. 4 omitted (E.W.) (19.7.2021) by virtue of [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2021/763/regulation/3/8)
+
+[^key-6ef408a1bc2b57f404604bf58d94c5a6]: Textual amendment: Words in Sch. 4 omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/9/b)
+
+[^key-181714dd08808afdf365e4ecc13f1421]: Textual amendment: Sch. 5 inserted (13.12.2018) by [The Child Support (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1279)](https://www.legislation.gov.uk/uksi/2018/1279), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2018/1279/regulation/5/4)
+
+[^key-35e38e57f5822c4c08e5c95f32b37777]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/1992/1989/schedule/5) omitted (E.W.) (19.7.2021) by virtue of [The Child Support (Collection and Enforcement and Maintenance Calculation) (Amendment No. 2) Regulations 2021 (S.I. 2021/763)](https://www.legislation.gov.uk/uksi/2021/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/763/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2021/763/regulation/3/9)

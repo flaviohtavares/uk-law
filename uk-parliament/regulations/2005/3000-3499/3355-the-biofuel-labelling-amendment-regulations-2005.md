@@ -1,0 +1,108 @@
+---
+title: The Biofuel (Labelling) (Amendment) Regulations 2005
+id: uksi/2005/3355
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-12-02'
+text_date: '2006-02-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2005/3355
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/3355/pdfs/uksiem_20053355_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/3355/pdfs/uksi_20053355_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/3355/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Biofuel (Labelling) (Amendment) Regulations 2005
+
+> Text as at 2006-02-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2005 No. 3355
+
+CONSUMER PROTECTION
+
+The Biofuel (Labelling) (Amendment) Regulations 2005
+
+Made
+
+2nd December 2005
+
+Laid before Parliament
+
+9th December 2005
+
+Coming into force
+
+1st February 2006
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c12417041].
+
+The Secretary of State is designated [^c12417051] for the purposes of section 2(2) in relation to measures relating to consumer protection.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Biofuel (Labelling) (Amendment) Regulations 2005 and shall come into force on 1st February 2006.
+
+## 2. Amendment of the Biofuel (Labelling) Regulations 2004
+
+(1) The Schedule to the Biofuel (Labelling) Regulations 2004 [^c12417061] shall be amended as follows.
+
+(2) In paragraph 1(2), “(which in Scotland include the trial diet)” shall be omitted.
+
+(3) In paragraph 1(3), for “serving the notice at the time he serves it” there shall be substituted “ who is the subject of the proceedings ”.
+
+(4) For paragraph 4(4)(a)(i) there shall be substituted—
+
+> - (i) that any sample or records, which a duly authorised officer has power under this paragraph to seize or require to be produced, is or are on any premises and that its or their seizure or production is likely to disclose evidence of the commission of an offence under these Regulations; or
+
+.
+
+(5) In paragraph 4(9), for “the references to written information” to the end of that paragraph there shall be substituted “ the reference to any written information on oath shall be construed as a reference to any evidence on oath. ”.
+
+(6) In paragraph 4(10), for “the references in sub-paragraph (4)” to the end of that paragraph there shall be substituted “ the reference in sub-paragraph (4) to a justice of the peace shall include a reference to a lay magistrate and the reference to any written information on oath shall be construed as a reference to any complaint on oath. ”.
+
+(7) In paragraph 5(1)—
+
+- (a) after “sample or records which” there shall be inserted “ is or ”, and
+- (b) “of blends” shall be omitted.
+
+(8) In paragraph 5(3)(a), “in relation to” shall be omitted.
+
+(9) In paragraph 5(4), after “magistrates' court” and after “a court”, there shall be inserted “ or sheriff ”.
+
+(10) In paragraph 5(4)(b), for “High Court of Justiciary” there shall be substituted “ sheriff principal ”.
+
+Signed by authority of the Secretary of State
+
+S J Ladyman
+
+Minister of State
+
+Department for Transport
+
+2nd December 2005
+
+*(This note is not part of the Regulations)*
+
+These Regulations correct defects in the Biofuel (Labelling) Regulations 2004 (S.I. 2004/3349) (“**the 2004 Regulations**”), and are being issued free of charge to all known recipients of those Regulations.
+
+The provisions corrected include paragraph 5(4)(b) of the Schedule to the 2004 Regulations, which provides for appeals against detention of a sample or records in relation to Scotland, and refers to the High Court of Justiciary as the court of appeal. The Regulations correct this to the sheriff principal (*regulation 2(10)).* The Regulations also update the reference to a justice of the peace in relation to Northern Ireland, which should now be to a lay magistrate (*regulation 2(6)*).
+
+A full regulatory impact assessment has not been produced for this instrument as it has no impact on business.
+
+## Annotations
+
+[^c12417041]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
+
+[^c12417051]: Marginal citation: [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661), to which there are amendments not relevant to these Regulations.
+
+[^c12417061]: Marginal citation: [S.I. 2004/3349](https://www.legislation.gov.uk/uksi/2004/3349).

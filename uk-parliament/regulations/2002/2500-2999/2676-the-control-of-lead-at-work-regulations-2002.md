@@ -1,0 +1,554 @@
+---
+title: The Control of Lead at Work Regulations 2002
+id: uksi/2002/2676
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2002-10-24'
+text_date: '2020-12-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2002/2676
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2002/2676/pdfs/uksi_20022676_en.pdf
+- http://www.legislation.gov.uk/uksi/2002/2676/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Control of Lead at Work Regulations 2002
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2002 No. 2676
+
+HEALTH AND SAFETY
+
+The Control of Lead at Work Regulations 2002
+
+Made
+
+24th October 2002
+
+Laid before Parliament
+
+31st October 2002
+
+Coming into force
+
+21st November 2002
+
+The Secretary of State, in exercise of the powers conferred on him by sections 15(1), (2), (4)(a), (5)(b) and 82(3)(a) of, and paragraphs 1(1)(b) and (c) and (2), 6(1), 7, 8, 9, 11, 14, 15(1) and 16 of Schedule 3 to, the Health and Safety at Work etc. Act 1974[^c9625551] ( “the 1974 Act”) and of all other powers enabling him in that behalf and for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Control of Lead at Work Regulations 2002 and shall come into force on 21st November 2002.
+
+## 2. Interpretation
+
+(1) In these Regulations:
+
+- “action level” means a blood-lead concentration of—
+  - (a) in respect of a woman of reproductive capacity, 25℞g/dl;
+  - (b) in respect of a young person, 40℞g/dl; or
+  - (c) in respect of any other employee, 50℞g/dl;
+- “appointed doctor” means a registered medical practitioner appointed for the time being in writing by the Executive for the purpose of these Regulations;
+- “appropriate authority” means—[^key-2ad89f64585fdfb98414c4d4dedf291b]
+  - (a) in relation to a record which relates to employment wholly or mainly on—
+    - (i) a GB nuclear site (within the meaning given in section 68 of the Energy Act 2013);
+    - (ii) an authorised defence site (within the meaning given in regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 1998); or
+    - (iii) a new nuclear build site (within the meaning given in regulation 2A of those Regulations),
+
+    the Office for Nuclear Regulation;
+  - (b) otherwise, the Executive.
+- “approved” means approved for the time being in writing;
+- “biological monitoring” includes the measuring of a person’s blood-lead concentration or urinary lead concentration by atomic absorption spectroscopy;
+- “control measure” means a measure taken to reduce exposure to lead (including the provision of systems of work and supervision, the cleaning of workplaces, premises, plant and equipment, the provision and use of engineering controls and personal protective equipment);
+- “employment medical adviser” means an employment medical adviser appointed under section 56 of the Health and Safety at Work etc. Act 1974;
+- “glaze” does not include engobe or slip;
+- “hazard” means the intrinsic property of lead which has the potential to cause harm to the health of a person, and “hazardous” shall be construed accordingly;
+- “lead” means lead (including lead alkyls, lead alloys, any compounds of lead and lead as a constituent of any substance or material) which is liable to be inhaled, ingested or otherwise absorbed by persons except where it is given off from the exhaust system of a vehicle on a road within the meaning of section 192 of the Road Traffic Act 1988 [^c9625561];
+- “lead alkyls” means tetraethyl lead or tetramethyl lead;
+- “leadless glaze” means a glaze which contains less than 0.5 per cent lead by weight of the element lead calculated with reference to the total weight of the preparation;
+- “low solubility glaze” means a glaze which does not yield to dilute hydrochloric acid more than 5 per cent of its dry weight of a soluble lead compound when determined in accordance with a method approved by the Health and Safety Executive[^key-1c22f0d5136c599a07ff7bf3ea1de2cf];
+- “medical surveillance” means assessment of the state of health of an employee, as related to exposure to lead, and includes clinical assessment and biological monitoring;
+- “occupational exposure limit for lead” means in relation to—
+  - (a) lead other than lead alkyls, a concentration of lead in the atmosphere to which any employee is exposed of 0.15 mg/m<sup>3</sup>; and
+  - (b) lead alkyls, a concentration of lead contained in lead alkyls in the atmosphere to which any employee is exposed of 0.10 mg/m<sup>3</sup>,
+
+  assessed—
+
+  - (i) by reference to the content of the element lead in the concentration, and
+  - (ii) in relation to an 8-hour time-weighted average reference period when calculated by a method approved by the Health and Safety Executive;
+- “personal protective equipment” means all equipment (including clothing) which is intended to be worn or held by a person at work and which protects that person against one or more risks to his health, and any addition or accessory designed to meet that objective;
+- “public road” means (in England and Wales) a highway maintainable at the public expense within the meaning of section 329 of the Highways Act 1980 [^c9625571] and (in Scotland) a public road within the meaning assigned to that term by section 151 of the Roads (Scotland) Act 1984 [^c9625581];
+- “relevant doctor” means an appointed doctor or an employment medical adviser;
+- “risk”, in relation to the exposure of an employee to lead, means the likelihood that the potential for harm to the health of a person will be attained under the conditions of use and exposure and also the extent of that harm;
+- “the risk assessment” means the assessment of risk required by regulation 5(1)(a);
+- “safety data sheet” means a safety data sheet within the meaning of regulation 5 of the Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals[^M_F_a8d9ef38-35d4-4765-a768-d75bf25f15da];
+- “significant” in relation to exposure to lead means exposure in the following circumstances—
+  - (a) where any employee is or is liable to be exposed to a concentration of lead in the atmosphere exceeding half the occupational exposure limit for lead;
+  - (b) where there is a substantial risk of any employee ingesting lead; or
+  - (c) where there is a risk of contact between the skin and lead alkyls or other substances containing lead which can be absorbed through the skin;
+- “substance hazardous to health” has the meaning assigned to it in regulation 2(1) of the Control of Substances Hazardous to Health Regulations 2002 [^c9625601];
+- “suspension level” means—
+  - (a) a blood-lead concentration of—
+    - (i) in respect of a woman of reproductive capacity, 30℞g/dl,
+    - (ii) in respect of a young person, 50℞g/dl, or
+    - (iii) in respect of any other employee, 60℞g/dl; or
+  - (b) a urinary lead concentration of—
+    - (i) in respect of a woman of reproductive capacity, 25℞g Pb/g creatinine, or
+    - (ii) in respect of any other employee, 110℞ Pb/g creatinine;
+- “woman of reproductive capacity” means an employee in respect of whom an entry has been made to that effect in that employee’s health record in accordance with regulation 10(14) by a relevant doctor;
+- “workplace” means any premises or part of premises used for or in connection with work, and includes—
+  - (a) any place within the premises to which an employee has access while at work; and
+  - (b) any room, lobby, corridor, staircase, road or other place—
+    - (i) used as a means of access to or egress from that place of work, or
+    - (ii) where facilities are provided for use in connection with that place of work,
+
+    other than a public road;
+- “young person” means a person who has not attained the age of 18 and who is not a woman of reproductive capacity.
+
+(2) Any reference in these Regulations to either—
+
+- (a) an employee being exposed to lead; or
+- (b) any place being contaminated by lead,
+
+is a reference to exposure to or, as the case may be, contamination by lead arising out of or in connection with work at the workplace.
+
+## 3. Duties under these Regulations
+
+(1) Where a duty is placed by these Regulations on an employer in respect of his employees, he shall, so far as is reasonably practicable, be under a like duty in respect of any other person, whether at work or not, who may be affected by the work carried out by the employer except that the duties of the employer—
+
+- (a) under regulation 10 (medical surveillance) shall not extend to persons who are not his employees other than employees of another employer who are working under the direction of the first-mentioned employer; and
+- (b) under regulations 9, 11(1) and (2) and 12 (which relate respectively to monitoring, information and training and dealing with accidents) shall not extend to persons who are not his employees, unless those persons are on the premises where the work is being carried out.
+
+(2) These Regulations shall apply to a self-employed person as they apply to an employer and an employee and as if that self-employed person were both an employer and an employee, except that regulation 9 (air monitoring) shall not apply to a self-employed person.
+
+(3)[^key-797d0ddeac057b581efb7bf0bb61a996] These Regulations shall not apply to the master or crew of a ship or to the employer of such persons in respect of the normal shipboard activities of a ship’s crew which—
+
+- (a) are carried out solely by the crew under the direction of the master; and
+- (b) are not liable to expose persons other than the master and crew to a risk to their health and safety,
+
+and for the purposes of this paragraph “**ship**” includes every description of vessel used in navigation, other than a ship forming part of Her Majesty’s Navy.
+
+## 4. Prohibitions
+
+(1) No employer shall use a glaze other than a leadless glaze or a low solubility glaze in the manufacture of pottery.
+
+(2) No employer shall employ a young person or a woman of reproductive capacity in any activity specified in Schedule 1.
+
+## 5. Assessment of the risk to health created by work involving lead
+
+(1) An employer shall not carry out work which is liable to expose any employees to lead unless he has—
+
+- (a) made a suitable and sufficient assessment of the risk created by that work to the health of those employees and of the steps that need to be taken to meet the requirements of these Regulations; and
+- (b) implemented the steps referred to in sub-paragraph (a).
+
+(2) The risk assessment shall include consideration of—
+
+- (a) the hazardous properties of the lead;
+- (b) information on health effects provided by the supplier, including information contained in any relevant safety data sheet;
+- (c) the level, type and duration of exposure;
+- (d) the circumstances of the work, including the amount of lead involved;
+- (e) activities, such as maintenance, where there is the potential for a high level of exposure;
+- (f) any relevant occupational exposure limit, action level and suspension level;
+- (g) the effect of preventive and control measures which have been or will be taken in accordance with regulation 6;
+- (h) the results of relevant medical surveillance;
+- (i) the results of monitoring of exposure in accordance with regulation 9;
+- (j) in circumstances where the work will involve exposure to lead and another substance hazardous to health, the risk presented by exposure to those substances in combination;
+- (k) whether the exposure of any employee to lead is liable to be significant; and
+- (l) such additional information as the employer may need in order to complete the risk assessment.
+
+(3) The risk assessment shall be reviewed regularly and forthwith if—
+
+- (a) there is reason to suspect that the risk assessment is no longer valid;
+- (b) there has been a significant change in the work to which the risk assessment relates;
+- (c) the results of any monitoring carried out in accordance with regulation 9 show it to be necessary; or
+- (d) the blood-lead concentration of any employee under medical surveillance in accordance with regulation 10 equals or exceeds the action level,
+
+and where, as a result of the review, changes to the risk assessment are required, those changes shall be made.
+
+(4) Where the employer employs five or more employees, he shall record—
+
+- (a) the significant findings of the risk assessment as soon as is practicable after the risk assessment is made; and
+- (b) the steps which he has taken to meet the requirements of regulation 6.
+
+## 6. Prevention or control of exposure to lead
+
+(1) Every employer shall ensure that the exposure of his employees to lead is either prevented or, where this is not reasonably practicable, adequately controlled.
+
+(2) In complying with his duty of prevention under paragraph (1), substitution shall by preference be undertaken, whereby the employer shall avoid, so far as is reasonably practicable, the use of lead at the workplace by replacing it with a substance or process which, under the conditions of its use, either eliminates or reduces the risk to the health of his employees.
+
+(3) Where it is not reasonably practicable to prevent exposure to lead, the employer shall comply with his duty of control under paragraph (1) by applying protection measures appropriate to the activity and consistent with the risk assessment, including, in order of priority—
+
+- (a) the design and use of appropriate work processes, systems and engineering controls and the provision and use of suitable work equipment and materials;
+- (b) the control of exposure at source, including adequate ventilation systems and appropriate organizational measures; and
+- (c) where adequate control of exposure cannot be achieved by other means, the provision of suitable personal protective equipment in addition to the measures required by sub-paragraphs (a) and (b).
+
+(4) The measures referred to in paragraph (3) shall include—
+
+- (a) arrangements for the safe handling, storage and transport of lead, and of waste containing lead, at the workplace;
+- (b) the adoption of suitable maintenance procedures;
+- (c) reducing, to the minimum required for the work concerned—
+  - (i) the number of employees subject to exposure,
+  - (ii) the level and duration of exposure, and
+  - (iii) the quantity of lead present at the workplace;
+- (d) the control of the working environment, including appropriate general ventilation; and
+- (e) appropriate hygiene measures including adequate washing facilities.
+
+(5) Where, notwithstanding the control measures taken in accordance with paragraph (3), the exposure of an employee to lead is, or is liable to be, significant, the employer shall provide that employee with suitable and sufficient protective clothing.
+
+(6) Without prejudice to the generality of paragraph (1), where there is exposure to lead, control of that exposure shall, so far as the inhalation of lead is concerned, only be treated as being adequate if—
+
+- (a) the occupational exposure limit for lead is not exceeded; or
+- (b) where that occupational exposure limit is exceeded, the employer identifies the reasons for the limit being exceeded and takes immediate steps to remedy the situation.
+
+(7) Personal protective equipment provided by an employer in accordance with this regulation shall be suitable for the purpose and shall—
+
+- (a) comply with any legal requirement[^key-cb239194ad0740a454df6cb7e16d2f97] which is applicable to that item of personal protective equipment; or
+- (b) in the case of respiratory protective equipment, where no provision referred to in sub-paragraph (a) applies, be of a type approved or shall conform to a standard approved, in either case, by the Executive.
+
+(8) Every employer who provides any control measure, other thing or facility in accordance with these Regulations shall take all reasonable steps to ensure that it is properly used or applied as the case may be.
+
+(9) Every employee shall make full and proper use of any control measure, other thing or facility provided in accordance with these Regulations and, where relevant, shall—
+
+- (a) take all reasonable steps to ensure it is returned after use to any accommodation provided for it; and
+- (b) if he discovers a defect therein, report it forthwith to his employer.
+
+(10) In this regulation, “adequate” means adequate having regard only to the nature and degree of exposure to lead and “adequately” shall be construed accordingly.
+
+(11)[^key-a0c590f99f987777ced27cddd0dd4657] In paragraph (7)(a) “legal requirement” means any requirement of the Personal Protective Equipment Regulations 2002 or Regulation (EU) 2016/425 of the European Parliament and of the Council on personal protective equipment and repealing Council [Directive 89/686/EEC](https://www.legislation.gov.uk/eudr/1989/0686) [^key-c23a644bdac1e7c9451b6e361a739a15]... .
+
+## 7. Eating, drinking and smoking
+
+(1) Every employer shall ensure, so far as is reasonably practicable, that his employees do not eat, drink or smoke in any place which is, or is liable to be, contaminated by lead.
+
+(2) An employee shall not eat, drink or smoke in any place which he has reason to believe to be contaminated by lead.
+
+(3) Nothing in this regulation shall prevent the provision and use of drinking facilities in a place which is liable to be contaminated by lead provided such facilities are not liable to be contaminated by lead and where they are required for the welfare of employees who are exposed to lead.
+
+## 8. Maintenance, examination and testing of control measures
+
+(1)[^key-dcc2965c5117efc28e6c2b72b60e0667] Every employer who provides any control measure to meet the requirements of regulation 6 shall ensure that—
+
+- (a) in the case of plant and equipment, including engineering controls and personal protective equipment, it is maintained in an efficient state, in efficient working order, in good repair and in a clean condition; and
+- (b) in the case of the provision of systems of work and supervision and any other measure, it is reviewed at suitable intervals and revised if necessary.
+
+(2) Where engineering controls are provided to meet the requirements of regulation 6, the employer shall ensure that thorough examination and testing of those controls is carried out—
+
+- (a) in the case of local exhaust ventilation plant, at least once every 14 months; and
+- (b) in any other case, at suitable intervals.
+
+(3) Where respiratory protective equipment (other than disposable respiratory protective equipment) is provided to meet the requirements of regulation 6, the employer shall ensure that thorough examination and, where appropriate, testing of that equipment is carried out at suitable intervals.
+
+(4) Every employer shall keep a suitable record of the examinations and tests carried out in accordance with paragraphs (2) and (3) and of repairs carried out as a result of those examinations and tests, and that record or a suitable summary thereof shall be kept available for at least 5 years from the date on which it was made.
+
+(5) Every employer shall ensure that personal protective equipment, including protective clothing, is—
+
+- (a) properly stored in a well-defined place;
+- (b) checked at suitable intervals; and
+- (c) when discovered to be defective, repaired or replaced before further use.
+
+(6) Personal protective equipment which may be contaminated by lead shall be removed on leaving the working area and kept apart from uncontaminated clothing and equipment.
+
+(7) The employer shall ensure that the equipment referred to in paragraph (6) is subsequently decontaminated and cleaned or, if necessary, destroyed.
+
+## 9. Air monitoring
+
+(1) Where the risk assessment indicates that any of his employees are liable to receive significant exposure to lead, the employer shall ensure that the concentration of lead in air to which his employees are exposed is measured in accordance with a suitable procedure.
+
+(2) Subject to paragraph (3), the monitoring referred to in paragraph (1) shall be carried out at least every 3 months.
+
+(3) Except where the exposure referred to in paragraph (1) arises wholly or in part from exposure to lead alkyls, the interval between each occasion of monitoring may be increased to a maximum of 12 months where—
+
+- (a) there has been no material change in the work or the conditions of exposure since the last occasion of monitoring; and
+- (b) the lead in air concentration for each group of employees or work area has not exceeded 0.10 mg/m<sup>3</sup> on the two previous consecutive occasions on which monitoring was carried out.
+
+(4) The employer shall ensure that a suitable record of monitoring carried out for the purpose of this regulation is made and maintained and that that record or a suitable summary thereof is kept available for at least 5 years from the date of the last entry made in it.
+
+(5) Where an employee is required by regulation 10 to be under medical surveillance, an individual record of any monitoring carried out in accordance with this regulation shall be made, maintained and kept in respect of that employee.
+
+(6) The employer shall—
+
+- (a) on reasonable notice being given, allow an employee access to his personal monitoring record;
+- (b) provide the appropriate authority[^key-2fd7631a5c19e181f68b6fbca6fcd96b] with copies of such monitoring records as the appropriate authority may require; and
+- (c) if he ceases to trade, notify the Executive forthwith in writing and make available to the Executive all monitoring records kept by him.
+
+## 10. Medical surveillance
+
+(1) Every employer shall ensure that each of his employees who is or is liable to be exposed to lead is under suitable medical surveillance by a relevant doctor where—
+
+- (a) the exposure of the employee to lead is, or is liable to be, significant;
+- (b) the blood-lead concentration or urinary lead concentration of the employee is measured and equals or exceeds the levels detailed in paragraph (2); or
+- (c) a relevant doctor certifies that the employee should be under such medical surveillance,
+
+and the technique of investigation is of low risk to the employee.
+
+(2) The levels referred to in paragraph (1)(b) are—
+
+- (a) a blood-lead concentration of—
+  - (i) in respect of a woman of reproductive capacity, 20℞g/dl, or
+  - (ii) in respect of any other employee, 35℞g/dl; or
+- (b) a urinary lead concentration of—
+  - (i) in respect of a woman of reproductive capacity, 20℞g Pb/g creatinine, or
+  - (ii) in respect of any other employee, 40℞g Pb/g creatinine.
+
+(3) Medical surveillance required by paragraph (1) shall—
+
+- (a) so far as is reasonably practicable, be commenced before an employee for the first time commences work giving rise to exposure to lead and in any event within 14 working days of such commencement; and
+- (b) subsequently be conducted at intervals of not more than 12 months or such shorter intervals as the relevant doctor may require.
+
+(4) Biological monitoring shall be carried out at intervals not exceeding those set out below—
+
+- (a) in respect of an employee other than a young person or a woman of reproductive capacity, at least every 6 months, but where the results of the measurements for individuals or for groups of workers have shown on the previous two consecutive occasions on which monitoring was carried out a lead in air exposure greater than 0.075 mg/m<sup>3</sup> but less than 0.100 mg/m<sup>3</sup> and where the blood-lead concentration of any individual employee is less than 30℞g/dl, the frequency of monitoring may be reduced to once a year; or
+- (b) in respect of any young person or a woman of reproductive capacity, at such intervals as the relevant doctor shall specify, being not greater than 3 months.
+
+(5) The employer shall ensure that an adequate health record in respect of each of his employees to whom paragraph (1) applies is made and maintained and that that record or a copy thereof is kept available in a suitable form for at least 40 years from the date of the last entry made in it.
+
+(6) The employer shall—
+
+- (a) on reasonable notice being given, allow an employee access to his personal health record;
+- (b) provide the appropriate authority[^key-4a206dd7c12ec190247a7f1f9e2e34fa] with copies of such health records as the appropriate authority may require; and
+- (c) if he ceases to trade, notify the Executive forthwith in writing and make available to the Executive all health records kept by him.
+
+(7) Where the blood-lead concentration for an employee equals or exceeds the appropriate action level, the employer shall take steps to determine the reason or reasons for the high level of lead in blood and shall, so far as is reasonably practicable, give effect to measures designed to reduce the blood-lead concentration of that employee to a level below the appropriate action level.
+
+(8) In any case where the blood-lead concentration or urinary lead concentration of an employee reaches the appropriate suspension level, the employer of that employee shall—
+
+- (a) ensure that an entry is made in the health record of the employee by a relevant doctor certifying whether in the professional opinion of the doctor the employee should be suspended from work which is liable to expose that employee to lead;
+- (b) ensure that a relevant doctor informs the employee accordingly and provides the employee with information and advice regarding further medical surveillance;
+- (c) review the risk assessment;
+- (d) review any measure taken to comply with regulation 6, taking into account any advice given by a relevant doctor or by the Executive; and
+- (e) provide for a review of the health of any other employee who has been similarly exposed, including a medical examination where such an examination is recommended by a relevant doctor or by the Executive.
+
+(9) Further to paragraph (8)(a), where in the opinion of the relevant doctor the employee need not be suspended from work which is liable to expose that employee to lead the entry made in the health record shall include—
+
+- (a) the reasons for that opinion; and
+- (b) the conditions, if any, under which the employee may continue to be employed in such work.
+
+(10) Where a relevant doctor has certified by an entry in the health record of an employee that in his professional opinion that employee should not be engaged in work which exposes the employee to lead or that the employee should only be so engaged under conditions specified in the record, the employer shall not permit the employee to be engaged in work which exposes that employee to lead except in accordance with the conditions, if any, specified in the health record, unless that entry has been cancelled by a relevant doctor.
+
+(11) Where medical surveillance is carried out on the premises of the employer, the employer shall ensure that suitable facilities are made available for the purpose.
+
+(12) An employee to whom this regulation applies shall, when required by his employer and at the cost of the employer, present himself during his working hours for such medical surveillance procedures as may be required for the purposes of paragraph (1) and shall furnish the relevant doctor with such information concerning his health as the relevant doctor may reasonably require.
+
+(13) Where for the purpose of carrying out his functions under these Regulations a relevant doctor requires to inspect any workplace or any record kept for the purposes of these Regulations, the employer shall permit that doctor to do so.
+
+(14) The employer shall ensure that in respect of each female employee whose exposure to lead is or is liable to be significant an entry is made in the health record of that employee by a relevant doctor as to whether or not that employee is of reproductive capacity.
+
+(15) Where an employee or an employer is aggrieved by a decision recorded in the health record by a relevant doctor—
+
+- (a) under paragraph (10) that an employee should not be engaged in work which exposes that employee to lead (or which imposes conditions on such work); or
+- (b) under paragraph (14) that a female employee is of reproductive capacity,
+
+the employee or employer may, by an application in writing to the Executive within 28 days of the date upon which the decision was notified to the employee or employer as the case may be, apply for that decision to be reviewed in accordance with a procedure approved by the Health and Safety Executive[^key-df9485f37655d52d7f44cdac39305696], and the result of that review shall be notified to the employee and employer and entered in the health record in accordance with the approved procedure.
+
+## 11. Information, instruction and training
+
+(1) Every employer who undertakes work which is liable to expose an employee to lead shall provide that employee with suitable and sufficient information, instruction and training.
+
+(2) Without prejudice to the generality of paragraph (1), the information, instruction and training provided under that paragraph shall include—
+
+- (a) details of the form of lead to which the employee is liable to be exposed including—
+  - (i) the risk which it presents to health,
+  - (ii) any relevant occupational exposure limit, action level and suspension level,
+  - (iii) access to any relevant safety data sheet, and
+  - (iv) other legislative provisions which concern the hazardous properties of that form of lead;
+- (b) the significant findings of the risk assessment;
+- (c) the appropriate precautions and actions to be taken by the employee in order to safeguard himself and other employees at the workplace;
+- (d) the results of any monitoring of exposure to lead carried out in accordance with regulation 9; and
+- (e) the collective results of any medical surveillance undertaken in accordance with regulation 10 in a form calculated to prevent those results from being identified as relating to a particular person.
+
+(3) The information, instruction and training required by paragraph (1) shall be—
+
+- (a) adapted to take account of significant changes in the type of work carried out or methods of work used by the employer; and
+- (b) provided in a manner appropriate to the level, type and duration of exposure identified by the risk assessment.
+
+(4) Every employer shall ensure that any person (whether or not his employee) who carries out work in connection with the employer’s duties under these Regulations has suitable and sufficient information, instruction and training.
+
+(5) Where containers and pipes for lead used at work are not marked in accordance with any relevant legislation listed in Schedule 2, the employer shall, without prejudice to any derogations provided for in that legislation, ensure that the contents of those containers and pipes, together with the nature of those contents and any associated hazards, are clearly identifiable.
+
+## 12. Arrangements to deal with accidents, incidents and emergencies
+
+(1) Subject to paragraph (4) and without prejudice to the relevant provisions of the Management of Health and Safety at Work Regulations 1999 [^c9625621], in order to protect the health of his employees from an accident, incident or emergency related to the presence of lead at the workplace, the employer shall ensure that—
+
+- (a) procedures, including the provision of appropriate first-aid facilities and relevant safety drills (which shall be tested at regular intervals), have been prepared which can be put into effect when such an event occurs;
+- (b) information on emergency arrangements, including—
+  - (i) details of relevant work hazards and hazard identification arrangements, and
+  - (ii) specific hazards likely to arise at the time of an accident, incident or emergency,
+
+  is available; and
+- (c) suitable warning and other communication systems are established to enable an appropriate response, including remedial actions and rescue operations, to be made immediately when such an event occurs.
+
+(2) The employer shall ensure that information on the procedures and systems required by paragraph (1)(a) and (c) and the information required by paragraph (1)(b) is—
+
+- (a) made available to relevant accident and emergency services to enable those services, whether internal or external to the workplace, to prepare their own response procedures and precautionary measures; and
+- (b) displayed at the workplace, if this is appropriate.
+
+(3) Subject to paragraph (4), in the event of an accident, incident or emergency related to the presence of lead at the workplace, the employer shall ensure that—
+
+- (a) immediate steps are taken to—
+  - (i) mitigate the effects of the event,
+  - (ii) restore the situation to normal, and
+  - (iii) inform those of his employees who may be affected; and
+- (b) only those persons who are essential for the carrying out of repairs and other necessary work are permitted in the affected area and they are provided with—
+  - (i) appropriate personal protective equipment, and
+  - (ii) any necessary specialised safety equipment and plant,
+
+  which shall be used until the situation is restored to normal.
+
+(4) Paragraphs (1) and (3) shall not apply where—
+
+- (a) the results of the risk assessment show that, because of the quantity of lead present at the workplace, there is only a slight risk to the health of employees; and
+- (b) the measures taken by the employer to comply with the duty under regulation 6(1) are sufficient to control that risk.
+
+## 13. Exemption certificates
+
+(1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt any person or class of persons from all or any of the requirements or prohibitions imposed by regulations 4, 7, 8, 9(2) and (3) and 10(7) and (11) to (15) of these Regulations and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by a certificate in writing at any time.
+
+(2) The Executive shall not grant any such exemption unless having regard to the circumstances of the case and, in particular, to—
+
+- (a) the conditions, if any, which it proposes to attach to the exemption; and
+- (b) any requirements imposed by or under any enactments which apply to the case,
+
+it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
+
+## 14. Extension outside Great Britain
+
+These Regulations shall apply to and in relation to any activity outside Great Britain to which sections 1 to 59 and 80 to 82 of the Health and Safety at Work etc. Act 1974 apply by virtue of the Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2001 [^c9625631] as those provisions apply within Great Britain.
+
+## 15. Revocation and savings
+
+(1) The Control of Lead at Work Regulations 1998 [^c9625641] are revoked.
+
+(2) Any record required to be kept under the Regulations revoked by paragraph (1) shall, notwithstanding that revocation, be kept in the same manner and for the same period as specified in those Regulations as if these Regulations had not been made, except that the relevant authority[^key-a7a154e456f46b921a8b29f6f00a8163] may approve the keeping of records at a place or in a form other than at the place where, or in the form in which, records were required to be kept under the Regulations so revoked.
+
+(3)[^key-41f9f00cbdfdfcbcad02684fd69d7487] In this regulation “relevant authority” means—
+
+- (a) where it is the enforcing authority for the purposes of these Regulations, the Office for Nuclear Regulation;
+- (b) otherwise, the Executive.
+
+Signed by order of the Secretary of State.
+
+N. Brown
+
+Minister of State,
+
+Department for Work and Pensions
+
+## SCHEDULE 1 — ACTIVITIES IN WHICH THE EMPLOYMENT OF YOUNG PERSONS AND WOMEN OF REPRODUCTIVE CAPACITY IS PROHIBITED
+
+Regulation 4(2)
+
+**1.** In lead smelting and refining processes—
+
+- (a) work involving the handling, treatment, sintering, smelting or refining of ores or materials containing not less than 5 per cent lead; and
+- (b) the cleaning of any place where any of the above processes are carried out.
+
+**2.** In lead-acid battery manufacturing processes—
+
+- (a) the manipulation of lead oxides;
+- (b) mixing or pasting in connection with the manufacture or repair of lead-acid batteries;
+- (c) the melting or casting of lead;
+- (d) the trimming, abrading or cutting of pasted plates in connection with the manufacture or repair of lead-acid batteries; and
+- (e) the cleaning of any place where any of the above processes are carried out.
+
+**3.** In this Schedule, “lead oxides” means powdered lead oxides in the form of lead, lead monoxide, lead dioxide, red lead or any combination of lead used in oxide manufacture or lead-acid battery pasting processes.
+
+## SCHEDULE 2 — LEGISLATION CONCERNED WITH THE LABELLING OF CONTAINERS AND PIPES
+
+Regulation 11(5)
+
+The Health and Safety (Safety Signs and Signals) Regulations 1996 ([^key-a05c49c8bc93348ec256a19706510c31][S.I. 1996/341](https://www.legislation.gov.uk/uksi/1996/341));
+
+The Good Laboratory Practice Regulations 1999 ([S.I. 1999/3106](https://www.legislation.gov.uk/uksi/1999/3106));
+
+[^key-6d218b7aa65a9b1b8653172606ff0f36]...
+
+Regulation[^key-a031766b8993a82a0f35bf61f54136e6] [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/eudr/1967/548) and [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45) and amending Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/eur/2006/1907), of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
+
+The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 ([^key-fa6fabc63bba7d8ffdce9aa8af8e180f][S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348)).
+
+*(This note is not part of the Regulations)*
+
+**1.** These Regulations re-enact, with modifications, the Control of Lead at Work Regulations 1998 (S.I. 1998/543) (“the 1998 Regulations”). The 1998 Regulations imposed requirements for the protection of employees who might be exposed to lead at work and of other persons who might be affected by such work and also imposed certain duties on employees concerning their own protection from such exposure.
+
+**2.** The Regulations, with the exception of regulations 4, 7, 8, 9(2) and (3) and 10(7) and (11) to (15), implement as respects Great Britain Council Directive [98/24/EC](https://www.legislation.gov.uk/european/directive/1998/0024) (OJ No. L 131, 5.5.98, p.11) on the protection of the health and safety of workers from risks related to chemical agents at work (fourteenth individual Directive within the meaning of Article 16(1) of Directive [89/391/EEC](https://www.legislation.gov.uk/european/directive/1989/0391)) insofar as it relates to risks to health from exposure to lead.
+
+**3.** In addition to minor and drafting amendments, the Regulations make the following changes of substance—
+
+**a)** include certain further definitions (regulation 2);
+
+**b)** extend the matters to be considered when carrying out an assessment of the risk from exposure to lead and require the risk assessment to be reviewed regularly and forthwith in certain circumstances (regulation 5);
+
+**c)** detail the measures which the employer must take to prevent or adequately control the exposure of his employees to lead (regulation 6);
+
+**d)** provide for further duties in respect of care and decontamination of personal protective equipment (regulation 8);
+
+**e)** provide for the keeping of an individual record of air monitoring where an employee is required to be under medical surveillance (regulation 9);
+
+**f)** extends the circumstances in which an employee must be under medical surveillance and the duties imposed upon the employer where the blood-lead concentration or urinary lead concentration of an employee reaches the appropriate suspension level (regulation 10);
+
+**g)** introduce a duty to ensure that the contents of containers and pipes for lead used at work are clearly identifiable (regulation 11(5)); and
+
+**h)** introduce a duty on the employer to prepare procedures, provide information and establish warning systems to deal with an emergency in the workplace related to the presence of lead (regulation 12).
+
+**4.** A copy of the regulatory impact assessment prepared in respect of these Regulations can be obtained from the Health and Safety Executive, Economic Advisers Unit, Rose Court, 2 Southwark Bridge, London SE1 9HS. A copy of the transposition note in relation to implementation of Council Directive [98/24/EC](https://www.legislation.gov.uk/european/directive/1998/0024) can be obtained from the Health and Safety Executive, International Branch at the same address. Copies of both these documents have been placed in the Library of each House of Parliament.
+
+## Annotations
+
+[^c9625551]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); [sections 11(2)](https://www.legislation.gov.uk/uksi/2002/2676/section/11/2), [15(1)](https://www.legislation.gov.uk/uksi/2002/2676/section/15/1) and 50(3) were amended by the [Employment Protection Act 1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), [Schedule 15](https://www.legislation.gov.uk/ukpga/1975/71/schedule/15), [paragraphs 4](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/6) and 16(3) respectively.
+
+[^key-2ad89f64585fdfb98414c4d4dedf291b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/2/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 106(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/106/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^c9625561]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
+
+[^key-1c22f0d5136c599a07ff7bf3ea1de2cf]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2676/regulation/2) substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+
+[^c9625571]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
+
+[^c9625581]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
+
+[^M_F_a8d9ef38-35d4-4765-a768-d75bf25f15da]: Textual amendment: Words in reg. 2(1) substituted (6.4.2009) by [The Chemicals (Hazard Information and Packaging for Supply) Regulations 2009 (S.I. 2009/716)](https://www.legislation.gov.uk/uksi/2009/716), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/716/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2009/716/schedule/6) (with [regs. 3](https://www.legislation.gov.uk/uksi/2009/716/regulation/3), [16](https://www.legislation.gov.uk/uksi/2009/716/regulation/16))
+
+[^c9625601]: Marginal citation: [S.I. 2002/2677](https://www.legislation.gov.uk/uksi/2002/2677).
+
+[^key-797d0ddeac057b581efb7bf0bb61a996]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/3/3) substituted (17.1.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations 2004 (S.I. 2004/3386)](https://www.legislation.gov.uk/uksi/2004/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3386/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2004/3386/regulation/4/a)
+
+[^key-cb239194ad0740a454df6cb7e16d2f97]: Textual amendment: Words in [reg. 6(7)(a)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/6/7/a) substituted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 2(a)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/2/a) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
+
+[^key-a0c590f99f987777ced27cddd0dd4657]: Textual amendment: [Reg. 6(11)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/6/11) inserted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 2(b)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/2/b) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
+
+[^key-c23a644bdac1e7c9451b6e361a739a15]: Textual amendment: Words in [reg. 6(11)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/6/11) omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 35 para. 2(3)](https://www.legislation.gov.uk/uksi/2019/696/schedule/35/paragraph/2/3) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dcc2965c5117efc28e6c2b72b60e0667]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/8/1) substituted (6.4.2005) by [The Control of Substances Hazardous to Health (Amendment) Regulations 2004 (S.I. 2004/3386)](https://www.legislation.gov.uk/uksi/2004/3386), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3386/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2004/3386/regulation/4/b)
+
+[^key-2fd7631a5c19e181f68b6fbca6fcd96b]: Textual amendment: Words in [reg. 9(6)(b)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/9/6/b) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 106(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/106/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-4a206dd7c12ec190247a7f1f9e2e34fa]: Textual amendment: Words in [reg. 10(6)(b)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/10/6/b) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 106(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/106/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-df9485f37655d52d7f44cdac39305696]: Textual amendment: Words in reg. 10(15) substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21))
+
+[^c9625621]: Marginal citation: [S.I. 1999/3242](https://www.legislation.gov.uk/uksi/1999/3242).
+
+[^c9625631]: Marginal citation: [S.I. 2001/2127](https://www.legislation.gov.uk/uksi/2001/2127).
+
+[^c9625641]: Marginal citation: [S.I. 1998/543](https://www.legislation.gov.uk/uksi/1998/543).
+
+[^key-a7a154e456f46b921a8b29f6f00a8163]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/15/2) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 106(5)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/106/5/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-41f9f00cbdfdfcbcad02684fd69d7487]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/uksi/2002/2676/regulation/15/3) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 106(5)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/106/5/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+
+[^key-a05c49c8bc93348ec256a19706510c31]: Textual amendment: Words in Sch. 2 substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 13](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/13)
+
+[^key-6d218b7aa65a9b1b8653172606ff0f36]: Textual amendment: Words in Sch. 2 omitted (1.7.2007) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [94](https://www.legislation.gov.uk/uksi/2007/1573/regulation/94), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
+
+[^key-a031766b8993a82a0f35bf61f54136e6]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/2676/schedule/2) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [11(2)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/11/2/a)
+
+[^key-fa6fabc63bba7d8ffdce9aa8af8e180f]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/2676/schedule/2) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [11(2)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/11/2/b)

@@ -1,0 +1,490 @@
+---
+title: The Financial Markets and Insolvency Regulations 1991
+id: uksi/1991/880
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1991-03-27'
+text_date: '2024-01-04'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1991/880
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1991/880/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Markets and Insolvency Regulations 1991
+
+> Text as at 2024-01-04.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1991 No. 880
+
+FINANCIAL SERVICES
+
+The Financial Markets and Insolvency Regulations 1991
+
+Made
+
+27th March 1991
+
+Laid before Parliament
+
+3rd April 1991
+
+Coming into force
+
+25th April 1991
+
+The Secretary of State, in exercise of his powers under sections 155(4) and (5), 158(4) and (5), 160(5), 173(4) and (5), 174(2) to (4), 185, 186 and 187(3) of the Companies Act 1989[^f00001] and of all other powers enabling him in that behalf, and having consulted the Treasury and the Bank of England in accordance with sections 173(6) and 174(5) of that Act, hereby makes the following Regulations:[^key-45ad5b3a36069d0556008eba69546dc4][^key-1b0d75544da704c456cfe1e4fa83f890][^key-23bcaae5faacca5d023511d00b67032e]
+
+## PART I — GENERAL
+
+### 1. Citation and commencement[^key-217a364a6f810f7dbe6435185b5f7d3d]
+
+These Regulations may be cited as the Financial Markets and Insolvency Regulations 1991 and shall come into force on 25th April 1991.
+
+### 2. Interpretation: general[^key-110bca82061fe964ed20e800bf25425c]
+
+(1) In these Regulations “the Act” means the Companies Act 1989.
+
+(1A)[^key-7a4b8534bc0c1889910985dc9367412d] In these Regulations “the Recognition Requirements Regulations” means the Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges , Clearing Houses and Central Securities Depositories[^key-9ad6239fddc24f143b8ba6b85d302748]) Regulations 2001.
+
+(2) A reference in any of these Regulations to a numbered regulation shall be construed as a reference to the regulation bearing that number in these Regulations.
+
+(3) A reference in any of these Regulations to a numbered paragraph shall, unless the reference is to a paragraph of a specified regulation, be construed as a reference to the paragraph bearing that number in the regulation in which the reference is made.
+
+## PART II — FURTHER PROVISION AS TO MARKET CONTRACTS
+
+### 3. Further provision as to market contracts[^key-ca9992682c1134da8f16f70d08e04e7d]
+
+For subsection (2) of section 155 of the Act (market contracts) substitute—
+
+> (2) Except as provided in subsection (2A), in relation to a recognised investment exchange this Part applies to—
+>
+> - (a) contracts entered into by a member or designated non-member of the exchange which are either
+>   - (i) contracts made on the exchange or on an exchange to whose undertaking the exchange has succeeded whether by amalgamation, merger or otherwise; or
+>   - (ii) contracts in the making of which the member or designated non-member was subject to the rules of the exchange or of an exchange to whose undertaking the exchange has succeeded whether by amalgamation, merger or otherwise; and
+> - (b) contracts subject to the rules of the exchange entered into by the exchange for the purposes of or in connection with the provision of clearing services.
+>
+> - A “designated non-member” means a person in respect of whom action may be taken under the default rules of the exchange but who is not a member of the exchange.
+>
+> (2A) This Part does not apply to contracts falling within paragraph (a) of subsection (2) above where the exchange in question is a recognised overseas investment exchange.
+
+.
+
+## PART III — INSOLVENCY PROCEEDINGS
+
+### 4. Voting at meetings of creditors[^key-1fbe12991ef0e202ebcf583bda1da5bc]
+
+(1) Section 159 of the Act (proceedings of exchange or clearing house take precedence over insolvency procedures) shall be amended as follows.
+
+(2) After subsection (4) there shall be inserted the following new subsection—
+
+> (4A) However, prior to the completion of default proceedings—
+>
+> - (a) where it appears to the chairman of the meeting of creditors that a sum will be certified under section 162(1) to be payable, subsection (4) shall not prevent any proof or claim including or consisting of an estimate of that sum which has been lodged or, in Scotland, submitted, from being admitted or, in Scotland, accepted, for the purpose only of determining the entitlement of a creditor to vote at a meeting of creditors; and
+> - (b) a creditor whose claim or proof has been lodged and admitted or, in Scotland, submitted and accepted, for the purpose of determining the entitlement of a creditor to vote at a meeting of creditors and which has not been subsequently wholly withdrawn, disallowed or rejected, is eligible as a creditor to be a member of a liquidation committee or, in bankruptcy proceedings in England and Wales, a creditors' committee.
+
+.
+
+(3) In subsection (5) for the words “subsection (4)” there shall be substituted the words “subsections (4) and (4A)”.
+
+### 5. Ranking of expenses of relevant office-holder[^key-a4e495d6a7ceb46f3ae3ef9d3cc4cbcb]
+
+At the end of subsection (4) of section 160 of the Act (duty to give assistance for the purposes of default proceedings) there shall be added the following words—
+
+“and for the purpose of determining the priority in which his expenses are payable out of the assets, sums in respect of time spent shall be treated as his remuneration and other sums shall be treated as his disbursements or, in Scotland, outlays.”.
+
+## PART IV — REPORTS BY RECOGNISED OVERSEAS INVESTMENT EXCHANGE OR CLEARING HOUSE
+
+### 6. Duty of recognised overseas investment exchange or clearing house to report on completion of default proceedings[^key-f006bd3bb015c32b46e82ec56eb193d5]
+
+(1) Section 162 of the Act (duty to report on completion of default proceedings) shall be amended as follows.
+
+(2) At the beginning of subsection (1) insert “Subject to subsection (1A),”.
+
+(3) After subsection (1) insert the following new subsection—
+
+> (1A) A recognised overseas investment exchange or recognised overseas clearing house shall not be subject to the obligation under subsection (1) unless it has been notified by the Secretary of State that a report is required for the purpose of insolvency proceedings in any part of the United Kingdom.
+
+.
+
+## PART V — MARKET CHARGES
+
+### 7. Interpretation of Part V[^key-9ff7c77e4914287311fd534ae90f7dfc]
+
+In this Part of these Regulations, unless the context otherwise requires—
+
+- “the Bank” means the Bank of England;
+- “business day” has the same meaning as in section 167(3) of the Act;
+- [^key-ca4fdf884952266b2a7de7f616fe78b9]...
+- “CGO Service” means the computer-based system established by the Bank and The Stock Exchange to facilitate the transfer of specified securities;
+- “CGO Service charge” means a charge of the kind described in section 173(1)(c) of the Act;
+- “CGO Service member” means a person who is entitled by contract with CRESTCo Limited (which is now responsible for operating the[^key-a0457a90fa60542902db0db33681b77f] CGO Service) to use the CGO Service;
+- “clearing member” has the same meaning as in section 190(1) of the Act;[^key-f3882be3fd54bf469a5b16160bc74fed]
+- “client” has the same meaning as in section 190(1) of the Act;
+- “default fund contribution” has the same meaning as in section 188(3A) of the Act;[^key-bf1052df516f09d8b3d865554b1c0720]
+- [^key-d10e8b44b8d5da8837f74e9fff93b3fa]...
+- “former CGO Service member” means a person whose entitlement [^key-8e2e7e7de4b836f58168b673aeec1cbe]... to use the CGO Service has been terminated or suspended;
+- “indirect client” has the same meaning as in section 190(1) of the Act;
+- “market charge” means a charge which is a market charge for the purposes of Part VII of the Act;
+- “[^key-f284ad485e843fae10579c3ca7a7af16]**recognised body**” has the same meaning as in section 190(1) of the Act;
+- “recognised central counterparty” has the same meaning as in section 190(1) of the Act;
+- “**recognised CSD**” has the same meaning as in section 190(1) of the Act;
+- “settlement bank” means a person who has agreed under a contract with CRESTCo Limited (which is now responsible for operating the[^key-213c2868f6a93c7bbda6c075ef914bd6] CGO Service) to make payments of the kind mentioned in section 173(1)(c) of the Act;
+- “specified securities” has the meaning given in section 173(3) of the Act;
+- “Talisman” means The Stock Exchange settlement system known as Talisman;
+- “Talisman charge” means a charge granted in favour of The Stock Exchange over property credited to an account within Talisman maintained in the name of the chargor in respect of certain property beneficially owned by the chargor; [^key-d54925b0901d558e8e5131e63acfcac1]...
+- “**third country CSD**” has the same meaning as in section 190(1) of the Act; and
+- “transfer” when used in relation to specified securities has the meaning given in section 173(3) of the Act.
+
+### 8. Charges on land or any interest in land not to be treated as market charges[^key-5620f540f9478088629470965da56a18]
+
+(1) No charge, whether fixed or floating, shall be treated as a market charge to the extent that it is a charge on land or any interest in land.
+
+(2) For the purposes of paragraph (1), a charge on a debenture forming part of an issue or series shall not be treated as a charge on land or any interest in land by reason of the fact that the debenture is secured by a charge on land or any interest in land.
+
+### 9. Amendments to section 173 of Act concerning certain charges granted in favour of The Stock Exchange and certain charges securing debts and liabilities arising in connection with allotment of specified securities[^key-7af14779357061b3aafd6bedb7f7876d]
+
+Section 173 of the Act (market charges) shall be amended—
+
+- (a) by inserting the following paragraph after section 173(1)(a)—
+
+  > - (aa) in favour of The Stock Exchange, for the purpose of securing debts or liabilities arising in connection with short term certificates;
+
+  ;
+- (b) by inserting, in section 173(1)(c), the words “or allotment” after the word “transfer” and the words “or allottee” after the word “transferee”;
+- (c) by inserting “(aa),” after the words “subsection (1)(a)” in section 173(2); and
+- (d) by substituting the following for the first line of section 173(3)—
+
+  > In subsection (1)—
+  >
+  > “short term certificate” means an instrument issued by The Stock Exchange undertaking to procure the transfer of property of a value and description specified in the instrument to or to the order of the person to whom the instrument is issued or his endorsee or to a person acting on behalf of either of them and also undertaking to make appropriate payments in cash, in the event that the obligation to procure the transfer of property cannot be discharged in whole or in part;
+
+### 10. Extent to which charge granted in favour of recognised investment exchange to be treated as market charge[^key-e8e5f41f3989319027fd941d42a2924f]
+
+(1) A charge granted in favour of a recognised investment exchange other than The Stock Exchange shall be treated as a market charge only to the extent that—
+
+- (a) it is a charge over property provided as margin in respect of market contracts entered into by the exchange for the purposes of or in connection with the provision of clearing services or over property provided as a default fund contribution to the exchange[^key-4c4a254c0d216107e9e095d168ff7ae8];
+- (b) in the case of a recognised UK investment exchange, it secures the obligation to pay to the exchange any sum due to the exchange from a member or designated non-member of the exchange or from a recognised clearing house[^key-0dc3d35b023a9dc4b91e6f7c25610cff] or from a recognised CSD[^key-1f402faa11a1e8121e447e1ced91b483] or from another recognised investment exchange in respect of unsettled market contracts to which the member, designated non-member or recognised body[^key-a09afd998e4ed63c4f5e6b301ffcf0d1] is a party under the rules referred to in paragraph 12 of the Schedule to the Recognition Requirements Regulations; and
+- (c) in the case of a recognised overseas investment exchange, it secures the obligation to reimburse the cost (other than fees and other incidental expenses) incurred by the exchange in settling unsettled market contracts in respect of which the charged property is provided as margin.
+
+(2) A charge granted in favour of The Stock Exchange shall be treated as a market charge only to the extent that—
+
+- (a) it is a charge of the kind described in paragraph (1); or
+- (b) it is a Talisman charge and secures an obligation of either or both of the kinds mentioned in paragraph (3).
+
+(3) The obligations mentioned in this paragraph are—
+
+- (a) the obligation of the chargor to reimburse The Stock Exchange for payments (including stamp duty and taxes but excluding Stock Exchange fees and incidental expenses arising from the operation by The Stock Exchange of settlement arrangements) made by The Stock Exchange in settling, through Talisman, market contracts entered into by the chargor; and
+- (b) the obligation of the chargor to reimburse The Stock Exchange the amount of any payment it has made pursuant to a short term certificate.
+
+(4) In paragraph (3), “short term certificate” means an instrument issued by The Stock Exchange undertaking to procure the transfer of property of a value and description specified in the instrument to or to the order of the person to whom the instrument is issued or his endorsee or to a person acting on behalf of either of them and also undertaking to make appropriate payments in cash, in the event that the obligation to procure the transfer of property cannot be discharged in whole or in part.
+
+### 11. Extent to which charge granted in favour of recognised clearing house to be treated as market charge[^key-dfacc871831ab7e788fc82954a16b7ba]
+
+A charge granted in favour of a recognised clearing house shall be treated as a market charge only to the extent that—
+
+- (a) it is a charge over property provided as margin in respect of market contracts entered into by the clearing house or over property provided as a default fund contribution to the clearing house[^key-8683a3db5dc41b26718a225ce91bff30];
+- (aa)[^key-477b449a0eeee8098c513972410c69c5] in the case of a recognised central counterparty, it secures the obligation to pay to the recognised central counterparty any sum due to it from a clearing member, a client, an indirect client, a recognised investment exchange , a recognised CSD[^key-bb5c63170e55be4fe22f108e4b1e523b] or recognised clearing house in respect of unsettled market contracts to which the clearing member, client, indirect client or recognised body[^key-c65f25f42b1537854a2bba73493c7f5a] is a party;
+- (b) in the case of a recognised clearing house which is not a recognised central counterparty[^key-3e1f62fc9faceedcb28fd89fded51f90], it secures the obligation to pay to the clearing house any sum due to the clearing house from a member of the clearing house or from a recognised investment exchange[^key-3531cb14f307c94badef27f6b0f26392] or from a recognised CSD[^key-b2c1c6625be936c4b3163460477577ff] or from another recognised clearing house in respect of unsettled market contracts to which the member or recognised body[^key-70cd6e78eaa4aaed4e00ee6d0be4bb75] is a party under the rules referred to in paragraph 25 of the Schedule to the Recognition Requirements Regulations; and
+- (c) in the case of a recognised overseas clearing house, it secures the obligation to reimburse the cost (other than fees or other incidental expenses) incurred by the clearing house in settling unsettled market contracts in respect of which the charged property is provided as margin.
+
+### 11A. Extent to which charge granted in favour of recognised CSD to be treated as market charge[^key-4d5b6a31e2c1972918ad1414b2275454]
+
+(1) A charge granted in favour of a recognised CSD shall be treated as a market charge only to the extent that—
+
+- (a) it is a charge over property provided as margin in respect of market contracts entered into by the recognised CSD or over property provided as a default fund contribution to the recognised CSD; and
+- (b) it secures the obligation to pay to the recognised CSD any sum due to it from a member of the recognised CSD or from a recognised clearing house or from a recognised investment exchange or from another recognised CSD in respect of unsettled market contracts to which the member or recognised body is a party.
+
+(2) A charge granted in favour of a[^key-b7db314cd619d14838fb18d2e82f20f1] third country CSD shall be treated as a market charge only to the extent that—
+
+- (a) it is a charge over property provided as margin in respect of market contracts entered into by the [^key-863270444083c367afce58b852ff63e1]... third country CSD or over property provided as a default fund contribution to the EEA CSD or third country CSD; and
+- (b) it secures the obligation to reimburse the cost (other than fees or other incidental expenses) incurred by the [^key-983019826bee86d23174156d3f0453cd]... third country CSD in settling unsettled market contracts in respect of which the charged property is provided as margin.
+
+### 12. Circumstances in which CGO Service charge to be treated as market charge[^key-c7c624d3a586f809ab7fb3c9b9160f0d]
+
+A CGO Service charge shall be treated as a market charge only if—
+
+- (a) it is granted to a settlement bank by a person for the purpose of securing debts or liabilities of the kind mentioned in section 173(1)(c) of the Act incurred by that person through his use of the CGO Service as a CGO Service member; and
+- (b) it contains provisions which refer expressly to the CGO[^key-0af5664a7263ec15c919e9a4e15820c0] Service.
+
+### 13. Extent to which CGO Service charge to be treated as market charge[^key-f147cf5967367b51dd3c9bcbfe87df7f]
+
+A CGO Service charge shall be treated as a market charge only to the extent that—
+
+- (a) it is a charge over any one or more of the following—
+  - (i) specified securities held within the CGO Service to the account of a CGO Service member or a former CGO Service member;
+  - (ii) specified securities which were held as mentioned in sub-paragraph (i) above immediately prior to their being removed from the CGO Service consequent upon the person in question becoming a former CGO Service member;
+  - (iii) sums receivable by a CGO Service member or former CGO Service member representing interest accrued on specified securities held within the CGO Service to his account or which were so held immediately prior to their being removed from the CGO Service consequent upon his becoming a former CGO Service member;
+  - (iv) sums receivable by a CGO Service member or former CGO Service member in respect of the redemption or conversion of specified securities which were held within the CGO Service to his account at the time that the relevant securities were redeemed or converted or which were so held immediately prior to their being removed from the CGO Service consequent upon his becoming a former CGO Service member; and
+  - (v) sums receivable by a CGO Service member or former CGO Service member in respect of the transfer by him of specified securities through the medium of the CGO Service; and
+- (b) it secures the obligation of a CGO Service member or former CGO Service member to reimburse a settlement bank for the amount due from him to the settlement bank as a result of the settlement bank having discharged or become obliged to discharge payment obligations in respect of transfers or allotments of specified securities made to him through the medium of the CGO Service.
+
+### 14. Limitation on disapplication of moratorium on certain legal processes under Schedule B1 to the Insolvency Act 1986 (administration) in relation to CGO Service charges[^key-602e8ff6de4cd9e0f03df28541159027][^key-480fd0799461f9016bf4dff3d54db9ba]
+
+(1) In this regulation “qualifying period” means the period beginning with the fifth business day before the day on which an application[^key-321f9fd70aa701bc6f453a14434898c9] for the making of an administration order in relation to the relevant CGO Service member or former CGO Service member is presented and ending with the second business day after the day on which an administration order is made in relation to the relevant CGO Service member or former CGO service member pursuant to the petition.
+
+(1A)[^key-f3e880510f064efda590f5088b87bfe3] A reference in paragraph (1) to an application for an administration order shall be treated as including a reference to—
+
+- (a) appointing an administrator under paragraph 14 or 22 of Schedule B1 to the Insolvency Act 1986, or
+- (b) filing with the court a notice of intention to appoint an administrator under either of those paragraphs,
+
+and a reference to “an administration order” shall include the appointment of an administrator under paragraph 14 or 22 of Schedule B1 to the Insolvency Act 1986.
+
+(2) The disapplication of paragraph 43(2) of Schedule B1 to the Insolvency Act 1986 (including that provisions as applied by paragraph 44 of that Schedule)[^key-19447daf8af4b5179be4c0cdc1725a03] by section 175(1)(a) of the Act shall be limited in respect of a CGO Service charge so that it has effect only to the extent necessary to enable there to be realised, whether through the sale of specified securities or otherwise, a sum equal to whichever is less of the following—
+
+- (a) the total amount of payment obligations discharged by the settlement bank in respect of transfers and allotments of specified securities made during the qualifying period to the relevant CGO Service member or former CGO Service member through the medium of the CGO Service less the total amount of payment obligations discharged to the settlement bank in respect of transfers of specified securities made during the qualifying period by the relevant CGO Service member or former CGO Service member through the medium of the CGO Service; and
+- (b) the amount (if any) described in regulation 13(b) due to the settlement bank from the relevant CGO Service member or former CGO Service member.
+
+### 15. Ability of administrator or receiver to recover assets in case of property subject to CGO Service charge or Talisman charge[^key-3041cd94190463568cab0d79eaca15d4]
+
+(1) The disapplication—[^key-5872ceff863e6a30f4417b73f511e956]
+
+- (a) by section 175(1)(b) of the Act, of paragraphs 70, 71 and 72 of Schedule B1 to the Insolvency Act 1986, and
+- (b) by section 175(3) of the Act, of sections 43 and 61 of the 1986 Act,
+
+shall cease to have effect in respect of a charge which is either a CGO Service charge or a Talisman charge after the end of the second business day after the day on which an administration order is made or, as the case may be, an administrative receiver or a receiver is appointed, in relation to the grantor of the charge, in relation to property subject to it which—
+
+- (a) in the case of a CGO Service charge, is not, on the basis of a valuation in accordance with paragraph (2), required for the realisation of whichever is the less of the sum referred to in regulation 14(2)(a) and the amount referred to in regulation 14(2)(b) due to the settlement bank at the close of business on the second business day referred to above; and
+- (b) in the case of a Talisman charge is not, on the basis of a valuation in accordance with paragraph (2), required to enable The Stock Exchange to reimburse itself for any payment it has made of the kind referred to in regulation 10(3).
+
+(1A)[^key-a7afd0ad3d8317824672d1e847c0f491] A reference in paragraph (1) to “an administration order” shall include the appointment of an administrator under paragraph 14 or 22 of Schedule B1 to the Insolvency Act 1986.
+
+(2) For the purposes of paragraph (1) the value of property shall, except in a case falling within paragraph (3), be such as may be agreed between whichever is relevant of the administrator, administrative receiver or receiver on the one hand and the settlement bank or The Stock Exchange on the other.
+
+(3) For the purposes of paragraph (1), the value of any investment for which a price for the second business day referred to above is quoted in the Daily Official List of The Stock Exchange shall—
+
+- (a) in a case in which two prices are so quoted, be an amount equal to the average of those two prices, adjusted where appropriate to take account of any accrued interest; and
+- (b) in a case in which one price is so quoted, be an amount equal to that price, adjusted where appropriate to take account of any accrued interest.
+
+## PART VI — CONSTRUCTION OF REFERENCES TO PARTIES TO MARKET CONTRACTS
+
+### 16. Circumstances in which member or designated non-member dealing as principal to be treated as acting in different capacities[^key-0be5a3da90f80f4359a3f243897a28aa]
+
+(1) In this regulation “relevant transaction” means—
+
+- (a)[^key-811bb8b7175f5da0f81fb2ce5d9bfeb8] a market contract, effected as principal by a member or designated non-member of a recognised investment exchange or a member of a recognised clearing house or a member of a recognised CSD[^key-b0e16ab89e5e7d80d697972000f8cdb5], in relation to which money received by the member or designated non-member is—
+  - (i) clients’ money for the purposes of rules relating to clients’ money, or
+  - (ii) would be clients’ money for the purposes of those rules were it not money which, in accordance with those rules, may be regarded as immediately due and payable to the member or designated non-member for its own account; and
+- (b) a market contract which would be regarded as a relevant transaction by virtue of sub-paragraph (a) above were it not for the fact that no money is received by the member or designated non-member in relation to the contract.
+
+(1A)[^key-7e15e56acb2d6db5d968762edf3ae2d2] In addition “relevant transaction” means a market contract entered into by a recognised clearing house effected as principal in relation to which money is received by the recognised clearing house from a recognised investment exchange or from a recognised CSD[^key-0a155f47f915574c1dcead6f5c554ab0] or from another recognised clearing house.
+
+(1B) In addition “relevant transaction” means a market contract entered into by a recognised investment exchange effected as principal in relation to which money is received by the recognised investment exchange from a recognised clearing house or from a recognised CSD[^key-3c3c20973dfcb6d5912f3052f16ab4b8] or from another recognised investment exchange.
+
+(1BA)[^key-ba964cc95bc3c2504c9b106943727369] In addition “**relevant transaction**” means a market contract entered into by a recognised CSD effected as principal in relation to which money is received by the recognised CSD from a recognised clearing house or from a recognised investment exchange or from another recognised CSD.
+
+(1C)[^key-0737fb83ac34fcda1e92a89d4f960438] Where paragraph (1A), (1B) or (1BA) applies, paragraph (1) applies to the recognised clearing house, recognised investment exchange or recognised CSD as it does to a member of the recognised clearing house, recognised investment exchange or recognised CSD, and as if the recognised clearing house, recognised investment exchange or recognised CSD were subject to the rules referred to in paragraph (1)(a)(i).
+
+(1D)[^key-4f3f3d0d7e342f35d785692c75d8a526] In paragraph (1), “rules relating to clients’ money” are rules made by the Financial Conduct Authority under sections 137A and 137B of the Financial Services and Markets Act 2000.
+
+(2)[^key-450bbf52e19a3000eea0a29f3a0f92d7] For the purposes of section 187(1) of the Act (construction of references to parties to market contracts)—
+
+- (a) a recognised investment exchange or a member or designated non-member of a recognised investment exchange, [^key-d1a6e172ea5eed1fe06493ce369f78df]...
+- (b) a recognised clearing house or a member of a recognised clearing house, or[^key-2fd2e51c482600e9d3d55996ea7c3d81]
+- (c) a recognised CSD or a member of a recognised CSD,
+
+shall be treated as effecting relevant transactions in a different capacity from other market contracts it has effected as principal.
+
+(3)[^key-bef26961ec5075fe19face739013cb8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-bef26961ec5075fe19face739013cb8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART VII — ADDITIONAL REQUIREMENTS FOR RECOGNITION
+
+### 17. Restriction of paragraph 2 of Schedule 21 to Act[^key-82036f6af369f4e0a8c4c0df589c4b13]
+
+In Schedule 21 to the Act (additional requirements for recognition) the following new sub-paragraph shall be added at the end of paragraph 2—
+
+> (4) The reference in sub-paragraph (1) to rights and liabilities between those party as principal to unsettled market contracts does not include rights and liabilities—
+>
+> - (a) in respect of margin; or
+> - (b) arising out of a failure to perform a market contract.
+
+.
+
+## PART VIII — LEGAL PROCEEDINGS
+
+### 18. Applications for order under section 175(2) of Act[^key-e46df83a9b73988c8bb9c89086ef21e6]
+
+In subsection (2) of section 175 of the Act (administration orders etc), after the words “pari passu with the market charge,” there shall be inserted the words “on the application of any person interested”.
+
+### 19. Court having jurisdiction in respect of proceedings under Part VII of Act[^key-14346b71b6a672413048e6445487f710]
+
+(1) For the purposes of sections 161, 163, 164, 175(5) and 182 of the Act (various legal proceedings under Part VII of Act) “the court” shall be the court which has last heard an application in the proceedings under the Insolvency Act 1986 or the Bankruptcy (Scotland) Act 1985[^f00005] in which the relevant office-holder is acting or, as the case may be, any court having jurisdiction to hear applications in those proceedings.
+
+(2) For the purposes of subsection (2) and (2A)[^key-c945b0e19503c5ce19ec1570e1991679] of section 175 of the Act (administration orders etc), “the court” shall be the court which has made the administration order or, as the case may be, to which the application[^key-8ddd8451df5abf11c30a30a1f19b0883] for an administration order has been presented or the notice of intention to appoint has been filed[^key-cf25fd486fb01bc26c7577e76405df89].
+
+(3) The rules regulating the practice and procedure of the court in relation to applications to the court in England and Wales under sections 161, 163, 164, 175 and 182 of the Act shall be the rules applying in relation to applications to that court under the Insolvency Act 1986.
+
+John Redwood
+
+Minister of State,
+
+Department of Trade and Industry
+
+27th March 1991
+
+(This note is not part of the Regulations)
+
+The regulations make various amendments and modifications to the provisions of Part VII of the Companies Act 1989 (“the Act”) which concerns the effects of insolvency law, and the enforcement of certain rights and remedies, on the operation of certain financial markets. One effect of Part VII of the Act is to modify the way in which insolvency law applies in relation to certain contracts defined as “market contracts”. Regulation 3 of the regulations amends the definition of “market contracts” for the purposes of Part VII. Regulations 4 and 5 make provision concerning the exercise of voting rights at meetings of creditors and the ranking, in insolvency, of expenses incurred by insolvency officeholders in providing assistance under the Part. Regulation 6 restricts the circumstances in which an overseas investment exchange or clearing house recognised under the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60) is obliged to make a report under section 162 of the Act.
+
+Regulations 7 to 15 make various provisions as to charges which are treated as “market charges” for the purposes of Part VII of the Act. Part VII modifies the way in which market charges are treated in an administration. Regulation 8 makes provision concerning the treatment of charges on land or any interest in land. Regulation 9 provides that certain charges granted in favour of The Stock Exchange in relation to short term certificates are to be treated as market charges. Regulation 9 also extends section 173(1)(c) of the Act to cover charges granted in connection with the allotment of securities of the kind mentioned in that section. Regulations 10 and 11 contain provision as to the extent to which charges granted in favour of an investment exchange or clearing house recognised under the Financial Services Act 1986 are to be treated as market charges. Regulations 12 and 13 make provision as to the circumstances in which and the extent to which charges of the kind described in section 173(1)(c) (“CGO Service charges”) are to be treated as market charges. (CGO Service charges are charges granted in connection with the assured payments system connected with the Central Gilts Office of the Bank of England.) Regulation 14 limits the disapplication, by section 175(1) of the Act, of sections 10(1)(b) and 11(3)(c) of the Insolvency Act [1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45) in relation toCGO Service charges. Regulation 15 makes provision concerning the ability of an administrator or a receiver to recover assets subject to a CGO service charge or to a limited class of charge granted in favour of The Stock Exchange.
+
+Regulation 16 makes provision treating certain contracts effected by a person as principal as effected in a different capacity from other contracts he has effected as principal. Regulation 17 restricts the rights and liabilities which the rules of a UK investment exchange recognised under the Financial Services Act 1986 must enable to be discharged by virtue of paragraph 2 of Schedule 21 to the Act. Regulations 18 and 19 make provision as to the persons who can apply to the court for an order under section 175(2) of the Act and as to the courts which have jurisdiction to hear proceedings under Part VII of the Act.
+
+## Annotations
+
+[^f00001]: Footnote: [1989 c. 40](https://www.legislation.gov.uk/ukpga/1989/40).
+
+[^key-45ad5b3a36069d0556008eba69546dc4]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1991/880) applied (with modifications) (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
+
+[^key-1b0d75544da704c456cfe1e4fa83f890]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1991/880) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+
+[^key-23bcaae5faacca5d023511d00b67032e]: Modification: Regulations applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+
+[^key-217a364a6f810f7dbe6435185b5f7d3d]: Commencement: Reg. 1 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^key-110bca82061fe964ed20e800bf25425c]: Commencement: Reg. 2 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^key-7a4b8534bc0c1889910985dc9367412d]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/1991/880/regulation/2/1A) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2009/853/regulation/3/2)
+
+[^key-9ad6239fddc24f143b8ba6b85d302748]: Textual amendment: Words in [reg. 2(1A)](https://www.legislation.gov.uk/uksi/1991/880/regulation/2/1A) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 20(2)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/20/2) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-ca9992682c1134da8f16f70d08e04e7d]: Commencement: Reg. 3 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^key-1fbe12991ef0e202ebcf583bda1da5bc]: Commencement: Reg. 4 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^key-a4e495d6a7ceb46f3ae3ef9d3cc4cbcb]: Commencement: Reg. 5 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^key-f006bd3bb015c32b46e82ec56eb193d5]: Commencement: Reg. 6 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^key-9ff7c77e4914287311fd534ae90f7dfc]: Commencement: Reg. 7 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^key-ca4fdf884952266b2a7de7f616fe78b9]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1991/880/regulation/7) omitted (24.5.1999) by virtue of [The Financial Markets and Insolvency (CGO Service) Regulations 1999 (S.I. 1999/1209)](https://www.legislation.gov.uk/uksi/1999/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/3/1/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/1/3))
+
+[^key-a0457a90fa60542902db0db33681b77f]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1991/880/regulation/7) substituted (24.5.1999) by [The Financial Markets and Insolvency (CGO Service) Regulations 1999 (S.I. 1999/1209)](https://www.legislation.gov.uk/uksi/1999/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/3/1/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/1/3))
+
+[^key-f3882be3fd54bf469a5b16160bc74fed]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1991/880/regulation/7) inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [30(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/30/2) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+
+[^key-bf1052df516f09d8b3d865554b1c0720]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1991/880/regulation/7) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2009/853/regulation/3/3)
+
+[^key-d10e8b44b8d5da8837f74e9fff93b3fa]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1991/880/regulation/7) omitted (31.12.2020) by virtue of [The Financial Markets and Insolvency (Amendment and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/341)](https://www.legislation.gov.uk/uksi/2019/341), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/341/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2019/341/regulation/11/2) (with [reg. 21](https://www.legislation.gov.uk/uksi/2019/341/regulation/21)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 23(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/23/b) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8e2e7e7de4b836f58168b673aeec1cbe]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1991/880/regulation/7) omitted (24.5.1999) by virtue of [The Financial Markets and Insolvency (CGO Service) Regulations 1999 (S.I. 1999/1209)](https://www.legislation.gov.uk/uksi/1999/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/1/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/3/1/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/1/3))
+
+[^key-f284ad485e843fae10579c3ca7a7af16]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1991/880/regulation/7) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 20(3)(b)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/20/3/b) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-213c2868f6a93c7bbda6c075ef914bd6]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1991/880/regulation/7) substituted (24.5.1999) by [The Financial Markets and Insolvency (CGO Service) Regulations 1999 (S.I. 1999/1209)](https://www.legislation.gov.uk/uksi/1999/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/1/1), [3(1)(d)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/3/1/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/1/3))
+
+[^key-d54925b0901d558e8e5131e63acfcac1]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/1991/880/regulation/7) omitted (28.11.2017) by virtue of [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 20(3)(a)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/20/3/a) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-5620f540f9478088629470965da56a18]: Commencement: Reg. 8 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^key-7af14779357061b3aafd6bedb7f7876d]: Commencement: Reg. 9 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^key-e8e5f41f3989319027fd941d42a2924f]: Commencement: Reg. 10 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^key-4c4a254c0d216107e9e095d168ff7ae8]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/1991/880/regulation/10/1/a) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2009/853/regulation/3/4/a)
+
+[^key-0dc3d35b023a9dc4b91e6f7c25610cff]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/1991/880/regulation/10/1/b) substituted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2009/853/regulation/3/4/b)
+
+[^key-1f402faa11a1e8121e447e1ced91b483]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/1991/880/regulation/10/1/b) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 20(4)(a)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/20/4/a) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-a09afd998e4ed63c4f5e6b301ffcf0d1]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/1991/880/regulation/10/1/b) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 20(4)(b)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/20/4/b) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-dfacc871831ab7e788fc82954a16b7ba]: Commencement: Reg. 11 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^key-8683a3db5dc41b26718a225ce91bff30]: Textual amendment: Words in [reg. 11(a)](https://www.legislation.gov.uk/uksi/1991/880/regulation/11/a) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2009/853/regulation/3/5/a)
+
+[^key-477b449a0eeee8098c513972410c69c5]: Textual amendment: [Reg. 11(aa)](https://www.legislation.gov.uk/uksi/1991/880/regulation/11/aa) inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [30(3)(a)](https://www.legislation.gov.uk/uksi/2013/504/regulation/30/3/a) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+
+[^key-bb5c63170e55be4fe22f108e4b1e523b]: Textual amendment: Words in [reg. 11(aa)](https://www.legislation.gov.uk/uksi/1991/880/regulation/11/aa) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 20(5)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/20/5/a/i) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-c65f25f42b1537854a2bba73493c7f5a]: Textual amendment: Words in [reg. 11(aa)](https://www.legislation.gov.uk/uksi/1991/880/regulation/11/aa) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 20(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/20/5/a/ii) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-3e1f62fc9faceedcb28fd89fded51f90]: Textual amendment: Words in [reg. 11(b)](https://www.legislation.gov.uk/uksi/1991/880/regulation/11/b) substituted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [30(3)(b)](https://www.legislation.gov.uk/uksi/2013/504/regulation/30/3/b) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+
+[^key-3531cb14f307c94badef27f6b0f26392]: Textual amendment: Words in [reg. 11(b)](https://www.legislation.gov.uk/uksi/1991/880/regulation/11/b) substituted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2009/853/regulation/3/5/b)
+
+[^key-b2c1c6625be936c4b3163460477577ff]: Textual amendment: Words in [reg. 11(b)](https://www.legislation.gov.uk/uksi/1991/880/regulation/11/b) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 20(5)(b)(i)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/20/5/b/i) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-70cd6e78eaa4aaed4e00ee6d0be4bb75]: Textual amendment: Words in [reg. 11(b)](https://www.legislation.gov.uk/uksi/1991/880/regulation/11/b) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 20(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/20/5/b/ii) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-4d5b6a31e2c1972918ad1414b2275454]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/1991/880/regulation/11A) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 20(6)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/20/6) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-b7db314cd619d14838fb18d2e82f20f1]: Textual amendment: Word in [reg. 11A(2)](https://www.legislation.gov.uk/uksi/1991/880/regulation/11A/2) substituted (31.12.2020) by [The Financial Markets and Insolvency (Amendment and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/341)](https://www.legislation.gov.uk/uksi/2019/341), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/341/regulation/1/3), [11(3)(a)](https://www.legislation.gov.uk/uksi/2019/341/regulation/11/3/a) (with [reg. 21](https://www.legislation.gov.uk/uksi/2019/341/regulation/21)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 23(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/23/b) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-863270444083c367afce58b852ff63e1]: Textual amendment: Words in [reg. 11A(2)(a)](https://www.legislation.gov.uk/uksi/1991/880/regulation/11A/2/a) omitted (31.12.2020) by virtue of [The Financial Markets and Insolvency (Amendment and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/341)](https://www.legislation.gov.uk/uksi/2019/341), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/341/regulation/1/3), [11(3)(b)](https://www.legislation.gov.uk/uksi/2019/341/regulation/11/3/b) (with [reg. 21](https://www.legislation.gov.uk/uksi/2019/341/regulation/21)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 23(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/23/b) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-983019826bee86d23174156d3f0453cd]: Textual amendment: Words in [reg. 11A(2)(b)](https://www.legislation.gov.uk/uksi/1991/880/regulation/11A/2/b) omitted (31.12.2020) by virtue of [The Financial Markets and Insolvency (Amendment and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/341)](https://www.legislation.gov.uk/uksi/2019/341), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/341/regulation/1/3), [11(3)(b)](https://www.legislation.gov.uk/uksi/2019/341/regulation/11/3/b) (with [reg. 21](https://www.legislation.gov.uk/uksi/2019/341/regulation/21)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 23(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/23/b) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c7c624d3a586f809ab7fb3c9b9160f0d]: Commencement: Reg. 12 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^key-0af5664a7263ec15c919e9a4e15820c0]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/1991/880/regulation/12) substituted (24.5.1999) by [The Financial Markets and Insolvency (CGO Service) Regulations 1999 (S.I. 1999/1209)](https://www.legislation.gov.uk/uksi/1999/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/3/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1999/1209/regulation/1/3))
+
+[^key-f147cf5967367b51dd3c9bcbfe87df7f]: Commencement: Reg. 13 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^key-602e8ff6de4cd9e0f03df28541159027]: Commencement: Reg. 14 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^key-480fd0799461f9016bf4dff3d54db9ba]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/1991/880/regulation/14) heading substituted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 48(a)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/48/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+
+[^key-321f9fd70aa701bc6f453a14434898c9]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/1991/880/regulation/14/1) substituted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 48(b)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/48/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+
+[^key-f3e880510f064efda590f5088b87bfe3]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/1991/880/regulation/14/1A) inserted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 48(c)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/48/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+
+[^key-19447daf8af4b5179be4c0cdc1725a03]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/1991/880/regulation/14/2) substituted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 48(d)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/48/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+
+[^key-3041cd94190463568cab0d79eaca15d4]: Commencement: Reg. 15 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^key-5872ceff863e6a30f4417b73f511e956]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/1991/880/regulation/15/1) substituted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 49(a)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/49/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+
+[^key-a7afd0ad3d8317824672d1e847c0f491]: Textual amendment: [Reg. 15(1A)](https://www.legislation.gov.uk/uksi/1991/880/regulation/15/1A) inserted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 49(b)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/49/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+
+[^key-0be5a3da90f80f4359a3f243897a28aa]: Commencement: Reg. 16 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^key-811bb8b7175f5da0f81fb2ce5d9bfeb8]: Textual amendment: [Reg. 16(1)(a)](https://www.legislation.gov.uk/uksi/1991/880/regulation/16/1/a) substituted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2009/853/regulation/3/6/a)
+
+[^key-b0e16ab89e5e7d80d697972000f8cdb5]: Textual amendment: Words in [reg. 16(1)(a)](https://www.legislation.gov.uk/uksi/1991/880/regulation/16/1/a) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 20(7)(a)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/20/7/a) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-7e15e56acb2d6db5d968762edf3ae2d2]: Textual amendment: [Reg. 16(1A)-(1D)](https://www.legislation.gov.uk/uksi/1991/880/regulation/16/1A) inserted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2009/853/regulation/3/6/b)
+
+[^key-0a155f47f915574c1dcead6f5c554ab0]: Textual amendment: Words in [reg. 16(1A)](https://www.legislation.gov.uk/uksi/1991/880/regulation/16/1A) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 20(7)(b)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/20/7/b) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-3c3c20973dfcb6d5912f3052f16ab4b8]: Textual amendment: Words in [reg. 16(1B)](https://www.legislation.gov.uk/uksi/1991/880/regulation/16/1B) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 20(7)(c)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/20/7/c) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-ba964cc95bc3c2504c9b106943727369]: Textual amendment: [Reg. 16(1BA)](https://www.legislation.gov.uk/uksi/1991/880/regulation/16/1BA) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 20(7)(d)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/20/7/d) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-0737fb83ac34fcda1e92a89d4f960438]: Textual amendment: [Reg. 16(1C)](https://www.legislation.gov.uk/uksi/1991/880/regulation/16/1C) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 20(7)(e)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/20/7/e) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-4f3f3d0d7e342f35d785692c75d8a526]: Textual amendment: [Reg. 16(1D)](https://www.legislation.gov.uk/uksi/1991/880/regulation/16/1D) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/9)
+
+[^key-450bbf52e19a3000eea0a29f3a0f92d7]: Textual amendment: [Reg. 16(2)](https://www.legislation.gov.uk/uksi/1991/880/regulation/16/2) substituted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [3(6)(c)](https://www.legislation.gov.uk/uksi/2009/853/regulation/3/6/c)
+
+[^key-d1a6e172ea5eed1fe06493ce369f78df]: Textual amendment: Word in [reg. 16(2)(a)](https://www.legislation.gov.uk/uksi/1991/880/regulation/16/2/a) omitted (28.11.2017) by virtue of [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 20(7)(f)(i)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/20/7/f/i) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-2fd2e51c482600e9d3d55996ea7c3d81]: Textual amendment: [Reg. 16(2)(b)](https://www.legislation.gov.uk/uksi/1991/880/regulation/16/2/b) and word inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 20(7)(f)(ii)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/20/7/f/ii) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-bef26961ec5075fe19face739013cb8a]: Textual amendment: [Reg. 16(3)](https://www.legislation.gov.uk/uksi/1991/880/regulation/16/3)[(4)](https://www.legislation.gov.uk/uksi/1991/880/regulation/16/4) omitted (15.6.2009) by virtue of [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [3(6)(d)](https://www.legislation.gov.uk/uksi/2009/853/regulation/3/6/d)
+
+[^key-82036f6af369f4e0a8c4c0df589c4b13]: Commencement: Reg. 17 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^key-e46df83a9b73988c8bb9c89086ef21e6]: Commencement: Reg. 18 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^key-14346b71b6a672413048e6445487f710]: Commencement: Reg. 19 in force at 25.4.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/880/regulation/1)
+
+[^f00005]: Footnote: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66).
+
+[^key-c945b0e19503c5ce19ec1570e1991679]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/1991/880/regulation/19/2) inserted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 50(a)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/50/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+
+[^key-8ddd8451df5abf11c30a30a1f19b0883]: Textual amendment: Word in [reg. 19(2)](https://www.legislation.gov.uk/uksi/1991/880/regulation/19/2) substituted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 50(b)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/50/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+
+[^key-cf25fd486fb01bc26c7577e76405df89]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/1991/880/regulation/19/2) inserted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 50(c)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/50/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))

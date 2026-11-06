@@ -1,0 +1,360 @@
+---
+title: Criminal Injuries Compensation Act 1995
+id: ukpga/1995/53
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised-with-pending-changes
+made_date: '1995-11-08'
+text_date: '2010-12-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/1995/53
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1995/53/pdfs/ukpga_19950053_en.pdf
+- http://www.legislation.gov.uk/ukpga/1995/53/data.pdf
+pending_changes: 5
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Injuries Compensation Act 1995
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2010-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/53
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+Criminal Injuries Compensation Act 1995
+
+1995 c. 53
+
+An Act to provide for the establishment of a scheme for compensation for criminal injuries.
+
+\[8th November 1995\] [^c831873]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1. The Criminal Injuries Compensation Scheme.
+
+(1) The Secretary of State shall make arrangements for the payment of compensation to, or in respect of, persons who have sustained one or more criminal injuries.
+
+(2) Any such arrangements shall include the making of a scheme providing, in particular, for—
+
+- (a) the circumstances in which awards may be made; and
+- (b) the categories of person to whom awards may be made.
+
+(3) The scheme shall be known as the Criminal Injuries Compensation Scheme.
+
+(4) In this Act—
+
+- [^key-1ec9b30bc446b6abed497ac8464233cb]...
+- “**award**” means an award of compensation made in accordance with the provisions of the Scheme;
+- “**claims officer**” means a person appointed by the Secretary of State under section 3(4)(b);
+- “**compensation**” means compensation payable under an award;
+- “**criminal injury**”, “**loss of earnings**” and “**special expenses**” have such meaning as may be specified;
+- “**the Scheme**” means the Criminal Injuries Compensation Scheme;
+- “**Scheme manager**” means a person appointed by the Secretary of State to have overall responsibility for managing the provisions of the Scheme (other than those to which section 5(2) applies); and
+- “**specified**” means specified by the Scheme.
+
+## 2. Basis on which compensation is to be calculated.
+
+(1) The amount of compensation payable under an award shall be determined in accordance with the provisions of the Scheme.
+
+(2) Provision shall be made for—
+
+- (a) a standard amount of compensation, determined by reference to the nature of the injury;
+- (b) in such cases as may be specified, an additional amount of compensation calculated with respect to loss of earnings;
+- (c) in such cases as may be specified, an additional amount of compensation calculated with respect to special expenses; and
+- (d) in cases of fatal injury, such additional amounts as may be specified or otherwise determined in accordance with the Scheme.
+
+(3) Provision shall be made for the standard amount to be determined—
+
+- (a) in accordance with a table (“the Tariff”) prepared by the Secretary of State as part of the Scheme and such other provisions of the Scheme as may be relevant; or
+- (b) where no provision is made in the Tariff with respect to the injury in question, in accordance with such provisions of the Scheme as may be relevant.
+
+(4) The Tariff shall show, in respect of each description of injury mentioned in the Tariff, the standard amount of compensation payable in respect of that description of injury.
+
+(5) An injury may be described in the Tariff in such a way, including by reference to the nature of the injury, its severity or the circumstances in which it was sustained, as the Secretary of State considers appropriate.
+
+(6) The Secretary of State may at any time alter the Tariff—
+
+- (a) by adding to the descriptions of injury mentioned there;
+- (b) by removing a description of injury;
+- (c) by increasing or reducing the amount shown as the standard amount of compensation payable in respect of a particular description of injury; or
+- (d) in such other way as he considers appropriate.
+
+(7) The Scheme may—
+
+- (a) provide for amounts of compensation not to exceed such maximum amounts as may be specified;
+- (b) include such transitional provision with respect to any alteration of its provisions relating to compensation as the Secretary of State considers appropriate.
+
+## 3. Claims and awards.
+
+(1) The Scheme may, in particular, include provision—
+
+- (a) as to the circumstances in which an award may be withheld or the amount of compensation reduced;
+- (b) for an award to be made subject to conditions;
+- (c) for the whole or any part of any compensation to be repayable in specified circumstances;
+- (d) for compensation to be held subject to trusts, in such cases as may be determined in accordance with the Scheme;
+- (e) requiring claims under the Scheme to be made within such periods as may be specified by the Scheme; and
+- (f) imposing other time limits.
+
+(2) Where, in accordance with any provision of the Scheme, it falls to one person to satisfy another as to any matter, the standard of proof required shall be that applicable in civil proceedings.
+
+(3) Where, in accordance with any provision of the Scheme made by virtue of subsection (1)(c), any amount falls to be repaid it shall be recoverable as a debt due to the Crown.
+
+(4) The Scheme shall include provision for claims for compensation to be determined and awards and payments of compensation to be made—
+
+- (a) if a Scheme manager has been appointed, by persons appointed for the purpose by the Scheme manager; but
+- (b) otherwise by persons (“claims officers”) appointed for the purpose by the Secretary of State.
+
+(5) A claims officer—
+
+- (a) shall be appointed on such terms and conditions as the Secretary of State considers appropriate; but
+- (b) shall not be regarded as having been appointed to exercise functions of the Secretary of State or to act on his behalf.
+
+(6) No decision taken by a claims officer shall be regarded as having been taken by, or on behalf of, the Secretary of State.
+
+(7) If a Scheme manager has been appointed—
+
+- (a) he shall not be regarded as exercising functions of the Secretary of State or as acting on his behalf; and
+- (b) no decision taken by him or by any person appointed by him shall be regarded as having been taken by, or on behalf of, the Secretary of State.
+
+## 4. Reviews.
+
+(1) The Scheme shall include provision for the review, in such circumstances as may be specified, of any decision taken in respect of a claim for compensation.
+
+(2) Any such review must be conducted by a person other than the person who made the decision under review.
+
+## 5. Appeals.[^key-48d0b81ec77cd10ccdabca30790fa71c][^key-710cb6266734f26646ed953745eb0f7c]
+
+(1)[^key-070aecb5ec98b41fcc3aa88f84c3d928] The Scheme shall include provision for rights of appeal to the First-tier Tribunal against decisions taken on reviews under provisions of the Scheme made by virtue of section 4.
+
+(8) In Schedule 1 to the [^c831881] Tribunals and Inquiries Act 1992 (tribunals under the supervision of the Council on Tribunals), in the entry relating to compensation for criminal injuries substitute, for the second column—
+
+> **12.**
+>
+> The adjudicators appointed under section 5 of the Criminal Injuries Compensation Act 1995 (c 53).
+
+.
+
+(9) The power conferred by section 3(1)(a) to provide for the reduction of an amount of compensation includes power to provide for a reduction where, in the opinion of the First-tier Tribunal[^key-b10f9ade5f7e16ec5b692ddbe51a558b] determining an appeal, the appeal is frivolous or vexatious.
+
+## 6. Reports, accounts and financial records.
+
+(1) Subject to subsection (2A) below,[^c831882] the Scheme shall include provision—
+
+- (a) for such person or persons as the Secretary of State considers appropriate to make an annual report to him and the Scottish Ministers[^c831883]; and
+- (b) for the report—
+  - (i) to be made as soon as possible after the end of each financial year; and
+  - (ii) to cover the operation of, and the discharge of functions conferred by, the Scheme during the year to which it relates.
+
+(2) The Secretary of State shall lay before each House of Parliament a copy of every such annual report and the Scottish Ministers shall lay before the Scottish Parliament a copy of every such annual report.[^c831884].
+
+(2A)[^c831885] In place of the provision referred to in subsection (1) above, the Scheme may include provision–
+
+- (a) for such person or persons as the Secretary of State considers appropriate to make separate annual reports to him and the Scottish Ministers in accordance with the provision in subsection (1)(b)(i) above; and
+- (b) for the report to be made to the Secretary of State to cover the operation of, and the discharge of functions conferred by, the Scheme in relation to criminal injuries sustained otherwise than in Scotland during the year to which it relates; and
+- (c) for the report to be made to the Scottish Ministers to cover the operation of, and the discharge of functions conferred by, the Scheme in relation to criminal injuries sustained in Scotland during the year to which it relates.
+
+(2B) Where provision is made in accordance with subsection (2A) above, the Secretary of State shall lay before each House of Parliament a copy of the annual report submitted to him and the Scottish Ministers shall lay before the Scottish Parliament a copy of the annual report submitted to them.
+
+(3) The Scheme shall also include provision—
+
+- (a) for such person or persons as the Secretary of State considers appropriate—
+  - (i) to keep proper accounts and proper records in relation to the accounts;
+  - (ii) to prepare a statement of accounts in each financial year in such form as the Secretary of State may direct;
+- (b) requiring such a statement of accounts to be submitted to the Secretary of State at such time as the Secretary of State may direct.
+
+(4) Where such a statement of accounts is submitted to the Secretary of State, he shall send a copy of it to the Comptroller and Auditor General as soon as is reasonably practicable.
+
+(5) The Comptroller and Auditor General shall—
+
+- (a) examine, certify and report on any statement of accounts sent to him under subsection (4); and
+- (b) lay copies of the statement and of his report before each House of Parliament and the Scottish Parliament[^c831886].
+
+(6) In this section “**financial year**” means the period beginning with the day on which this section comes into force and ending with the following 31st March and each successive period of 12 months.
+
+## 7. Inalienability of awards.
+
+(1) Every assignment (or, in Scotland, assignation) of, or charge on, an award and every agreement to assign or charge an award shall be void.
+
+(2) On the bankruptcy of a person in whose favour an award is made (or, in Scotland, on the sequestration of such a person’s estate), the award shall not pass to any trustee or other person acting on behalf of his creditors.
+
+## 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c831888]
+
+## 9. Financial provisions.
+
+(1) The Secretary of State may pay such remuneration, allowances or gratuities to or in respect of claims officers and other persons appointed by him under this Act [^key-fef8fa10ceb63f78e2ad42a0efa9cc92]... as he considers appropriate.
+
+(2)[^key-ee7b191b24b664bbaba29dfc8a880c67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-ee7b191b24b664bbaba29dfc8a880c67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Sums required for the payment of compensation in accordance with the Scheme shall be provided by the Secretary of State out of money provided by Parliament.
+
+(5) Where a Scheme manager has been appointed, the Secretary of State may make such payments to him, in respect of the discharge of his functions in relation to the Scheme, as the Secretary of State considers appropriate.
+
+(6) Any expenses incurred by the Secretary of State under this Act shall be paid out of money provided by Parliament.
+
+(6A)[^c831889] Any expenses incurred by the Secretary of State under subsection (6) above as regards Scotland shall be reimbursed to the Secretary of State by the Scottish Ministers.
+
+(7) Any sums received by the Secretary of State under any provision of the Scheme made by virtue of section 3(1)(c) shall be paid by him into the Consolidated Fund.
+
+## 10. Jurisdiction of Parliamentary Commissioner for Administration.
+
+(1) In the [^c831890]Parliamentary Commissioner Act 1967, insert after section 11A—
+
+> **11B. The Criminal Injuries Compensation Scheme.**
+>
+> (1) For the purposes of this Act, administrative functions exercisable by an administrator of the Criminal Injuries Compensation Scheme (“Scheme functions”) shall be taken to be administrative functions of a government department to which this Act applies.
+>
+> (2) For the purposes of this section, the following are administrators of the Scheme—
+>
+> - (a) a claims officer appointed under section 3(4)(b) of the Criminal Injuries Compensation Act 1995;
+> - (b) a person appointed under section 5(3)(c) of that Act;
+> - (c) the Scheme manager, as defined by section 1(4) of that Act, and any person assigned by him to exercise functions in relation to the Scheme.
+>
+> (3) The principal officer in relation to any complaint made in respect of any action taken in respect of Scheme functions is—
+>
+> - (a) in the case of action taken by a claims officer, such person as may from time to time be designated by the Secretary of State for the purposes of this paragraph;
+> - (b) in the case of action taken by a person appointed under section 5(3)(c) of the Act of 1995, the chairman appointed by the Secretary of State under section 5(3)(b) of that Act; or
+> - (c) in the case of action taken by the Scheme manager or by any other person mentioned in subsection (2)(c) of this section, the Scheme manager.
+>
+> (4) The conduct of an investigation under this Act in respect of any action taken in respect of Scheme functions shall not affect—
+>
+> - (a) any action so taken; or
+> - (b) any power or duty of any person to take further action with respect to any matters subject to investigation.
+
+(2) In Schedule 3 to the Act of 1967 (matters not subject to investigation), insert after paragraph 6B—
+
+> **6C.**
+>
+> Action taken by any person appointed under section 5(3)(c) of the Criminal Injuries Compensation Act 1995, so far as that action is taken at the direction, or on the authority (whether express or implied), of any person acting in his capacity as an adjudicator appointed under section 5 of that Act to determine appeals.
+
+(3) The amendments made by this section do not affect the following provisions of this Act—
+
+- (a) section 3(5)(b);
+- (b) section 3(7)(b);
+- (c) section 5(4)(b).
+
+## 11. Parliamentary control.
+
+(1) Before making the Scheme, the Secretary of State shall lay a draft of it before Parliament.
+
+(2) The Secretary of State shall not make the Scheme unless the draft has been approved by a resolution of each House.
+
+(3) Before making any alteration to the Tariff or to any provision of the Scheme as to—
+
+- (a) any additional amount mentioned in section 2(2),
+- (b) the circumstances in which compensation may be payable with respect to a criminal injury of a kind for which no provision is made by the Tariff,
+- (c) the calculation of compensation in respect of multiple injuries,
+- (d) compensation payable in respect of children conceived as a result of rape or an offence under section 30 of the Sexual Offences Act 2003[^key-987cadc3d186b99ced6cac38b162fcbb],
+- (e) the circumstances in which an award may be withheld or compensation reduced,
+- (f) any limit on compensation imposed by a provision made by virtue of section 2(7)(a),
+
+the Secretary of State shall lay before Parliament a draft of the provision as proposed to be altered.
+
+(4) Before making any alteration to a provision of the Scheme which—
+
+- (a) gives a right of appeal, [^key-b3a8d6310fd0e900f0b2b063f1a08f3a]...
+- (b)[^key-b3a8d6310fd0e900f0b2b063f1a08f3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+the Secretary of State shall lay before Parliament a draft of the provision as proposed to be altered.
+
+(5) Where the Secretary of State is required to lay a draft before Parliament under subsection (3) or (4) he shall not give effect to the proposal concerned unless the draft has been approved by a resolution of each House.
+
+(6) Whenever any other provision of the Scheme is altered, the Secretary of State shall lay a statement of the altered provision before Parliament.
+
+(7) If any statement laid before either House of Parliament under subsection (6) is disapproved by a resolution of that House passed before the end of the period of 40 days beginning with the date on which the statement was laid, the Secretary of State shall—
+
+- (a) make such alterations in the Scheme as appear to him to be required in the circumstances; and
+- (b) before the end of the period of 40 days beginning with the date on which the resolution was made, lay a statement of those alterations before Parliament.
+
+(8) In calculating the period of 40 days mentioned in subsection (7), any period during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than 4 days shall be disregarded.
+
+*Extent: S*
+
+(8A)[^key-f0879e97de96653300282b6f6ad4efe4] No regulations under section 7A(1) or order under section 7B(3) shall be made unless a draft of the regulations or order has been laid before, and approved by a resolution of, the Scottish Parliament.
+
+(9)[^key-fc2571bc98632eea405029f82b868052] In subsection (3) “ **rape** ”, in relation to anything done in England and Wales, means an offence under section 1 or 5 of the Sexual Offences Act 2003, and in relation to anything done in Scotland means rape (whether at common law or under section 1(1) of the Sexual Offences (Scotland) Act 2009 (asp 9)) and rape of a young child (under section 18 of that Act) *(Extent: S)*[^key-733ef8da265fc0e4656f9770f8bae353].
+
+## 12. Repeal of the 1988 Act scheme and transitional provisions.
+
+(1) Sections 108 to 117 of, and Schedules 6 and 7 to, the [^c831891]Criminal Justice Act 1988 (the Criminal Injuries Compensation Scheme) shall cease to have effect.
+
+(2) The arrangements for compensation for criminal injuries in operation immediately before the passing of this Act (“the current arrangements”) shall continue in force until the date on which the Scheme comes into force (“the commencement date”).
+
+(3) At any time before the commencement date, the Secretary of State may make such alterations to the current arrangements as he considers appropriate.
+
+(4) The current arrangements shall cease to have effect on the commencement date.
+
+(5) The Scheme may include such transitional provision (“the transitional arrangements”) as the Secretary of State considers appropriate in consequence of the replacement of the current arrangements by the Scheme.
+
+(6) The transitional arrangements may, in particular, provide for the basis on which compensation is to be calculated in cases to which the transitional arrangements apply to differ from that on which compensation is to be calculated in other cases.
+
+(7) The repeals set out in the Schedule shall have effect.
+
+## 13. Short title and extent.
+
+(1) This Act may be cited as the Criminal Injuries Compensation Act 1995.
+
+(2) This Act does not extend to Northern Ireland.
+
+## Repeals
+
+Section 12(7).
+
+| Chapter | Short title | Extent of repeal |
+| --- | --- | --- |
+| 1988 c. 33. | Criminal Justice Act 1988. | Sections 108 to 117.<br>In section 171, in subsection (2) the words from “other than” to the end and subsections (3) and (4).<br>In section 172, in subsection (2) the words “sections 108 to 115 and 117” and in subsection (4) the words “section 116”.<br>Schedules 6 and 7. |
+| 1992 c. 53. | Tribunals and Inquiries Act 1992. | Paragraph 1 of Schedule 2. |
+
+## Annotations
+
+[^c831873]: Commencement: Act wholly in force at Royal Assent
+
+[^key-1ec9b30bc446b6abed497ac8464233cb]: Textual amendment: Definition of “adjudicator” in s. 1(4) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 123](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/123)
+
+[^key-48d0b81ec77cd10ccdabca30790fa71c]: Modification: S. 5 power to transfer functions conferred (19.9.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 30](https://www.legislation.gov.uk/ukpga/2007/15/section/30), [148](https://www.legislation.gov.uk/ukpga/2007/15/section/148); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2709/article/2/a)
+
+[^key-710cb6266734f26646ed953745eb0f7c]: Modification: S. 5 transfer of functions (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833) , [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/3/1), [4](https://www.legislation.gov.uk/uksi/2008/2833/article/4), [5](https://www.legislation.gov.uk/uksi/2008/2833/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2833/schedule/1) Table 1 (with [Sch. 4](https://www.legislation.gov.uk/uksi/2008/2833/schedule/4))
+
+[^key-070aecb5ec98b41fcc3aa88f84c3d928]: Textual amendment: S. 5(1) substituted for s. 5(1)-(7) (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833) , [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 124(a)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/124/a)
+
+[^c831881]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53) .
+
+[^key-b10f9ade5f7e16ec5b692ddbe51a558b]: Textual amendment: Words in s. 5(9) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833) , [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 124(b)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/124/b)
+
+[^c831882]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/ukpga/1995/53/section/6/1) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 123(2)(a)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/123/2/a); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
+
+[^c831883]: Textual amendment: Words in [s. 6(1)(a)](https://www.legislation.gov.uk/ukpga/1995/53/section/6/1/a) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 123(2)(b)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/123/2/b); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
+
+[^c831884]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/1995/53/section/6/2) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 123(3)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/123/3); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
+
+[^c831885]: Textual amendment: [S. 6(2A)(2B)](https://www.legislation.gov.uk/ukpga/1995/53/section/6/2A/2B) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 123(4)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/123/4); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
+
+[^c831886]: Textual amendment: Words in [s. 6(5)(b)](https://www.legislation.gov.uk/ukpga/1995/53/section/6/5/b) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 123(5)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/123/5); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
+
+[^c831888]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1995/53/section/8) repealed (29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 205](https://www.legislation.gov.uk/ukpga/1996/8/section/205), [Sch. 41 Pt. V](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V)
+
+[^key-fef8fa10ceb63f78e2ad42a0efa9cc92]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/ukpga/1995/53/section/9/1) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 125(a)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/125/a)
+
+[^key-ee7b191b24b664bbaba29dfc8a880c67]: Textual amendment: [S. 9(2)](https://www.legislation.gov.uk/ukpga/1995/53/section/9/2)[(3)](https://www.legislation.gov.uk/ukpga/1995/53/section/9/3) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 125(b)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/125/b)
+
+[^c831889]: Textual amendment: S. 9(6A) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para 123(6)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/123/6); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
+
+[^c831890]: Marginal citation: [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13).
+
+[^key-987cadc3d186b99ced6cac38b162fcbb]: Textual amendment: Words in s. 11(3)(d) inserted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 34(a)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/34/a); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+
+[^key-b3a8d6310fd0e900f0b2b063f1a08f3a]: Textual amendment: S. 11(4)(b) and word omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 126](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/126)
+
+[^key-f0879e97de96653300282b6f6ad4efe4]: Textual amendment: S. 11(8A) inserted (S.) (8.12.2005) by [Management of Offenders etc. (Scotland) Act 2005 (asp 14)](https://www.legislation.gov.uk/asp/2005/14), [ss. 20(3)](https://www.legislation.gov.uk/asp/2005/14/section/20/3), [24(1)](https://www.legislation.gov.uk/asp/2005/14/section/24/1)
+
+[^key-fc2571bc98632eea405029f82b868052]: Textual amendment: S. 11(9) inserted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 34(b)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/34/b); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+
+[^key-733ef8da265fc0e4656f9770f8bae353]: Textual amendment: Words in [s. 11(9)](https://www.legislation.gov.uk/ukpga/1995/53/section/11/9) inserted (S.) (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [s. 62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2009/9/schedule/5/paragraph/3); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)
+
+[^c831891]: Marginal citation: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33).

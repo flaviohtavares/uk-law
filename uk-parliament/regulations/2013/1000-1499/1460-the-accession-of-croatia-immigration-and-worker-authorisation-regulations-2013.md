@@ -1,0 +1,703 @@
+---
+title: The Accession of Croatia (Immigration and Worker Authorisation) Regulations 2013
+id: uksi/2013/1460
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-06-12'
+text_date: '2015-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/1460
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/1460/pdfs/uksiem_20131460_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1460/pdfs/uksi_20131460_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1460/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Accession of Croatia (Immigration and Worker Authorisation) Regulations 2013
+
+> Text as at 2015-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 1460
+
+Immigration
+
+The Accession of Croatia (Immigration and Worker Authorisation) Regulations 2013
+
+Made
+
+12th June 2013
+
+Coming into force
+
+1st July 2013
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 4 of the European Union (Croatian Accession and Irish Protocol) Act 2013 [^c2251304].
+
+In accordance with section 5(1) of that Act, a draft of this instrument was laid before Parliament and approved by resolution of each House of Parliament.
+
+## PART 1 — INTERPRETATION ETC
+
+### 1. Citation, commencement, interpretation and consequential amendments
+
+(1) These Regulations may be cited as the Accession of Croatia (Immigration and Worker Authorisation) Regulations 2013 and come into force on 1st July 2013.
+
+(2) In these Regulations—
+
+- “**the 1971 Act**” means the Immigration Act 1971 [^c2251305];
+- “**the 2006 Act**” means the Immigration, Asylum and Nationality Act 2006 [^c2251306];
+- “**accession period**” means the period beginning with 1st July 2013 and ending with 30th June 2018;
+- “**accession State national subject to worker authorisation**” has the meaning given in regulation 2;
+- “**accession worker authorisation document**” has the meaning given in regulation8(2);
+- “**authorised category of employment**” means—
+  - (a) employment for which the applicant has been issued by a sponsor with a valid certificate of sponsorship under Tier 2 or Tier 5 of the Points-Based System; or
+  - (b) employment as—
+    - (i) a representative of an overseas business;
+    - (ii) a postgraduate doctor or dentist; or
+    - (iii) a domestic worker in a private household;
+- “**certificate of sponsorship**” has the meaning given in paragraph 6 of the immigration rules, except that the reference to an application or potential application for entry clearance or leave to enter or remain as a Tier 2 migrant or a Tier 5 migrant is to be read as including a reference to an application or potential application for a worker authorisation registration certificate;
+- “**certificate of sponsorship checking service**” has the meaning given in paragraph 6 of the immigration rules, except that the reference to an application or potential application for entry clearance or leave to enter or remain as a Tier 2 migrant or a Tier 5 migrant is to be read as including a reference to an application or potential application for a worker authorisation registration certificate;
+- “**civil partner**” does not include a party to a civil partnership of convenience;
+- “**EEA registration certificate**” means a certificate issued in accordance with regulation 16 of the EEA Regulations;
+- “**the EEA Regulations**” means the Immigration (European Economic Area) Regulations 2006 [^c2251307];
+- “**EEA State**” excludes the United Kingdom and includes Switzerland;
+- “**employer**” means, in relation to a worker, the person who directly pays the wage or salary of that worker, and “employ”, “**employment**” and “**employs**” shall be construed accordingly;
+- “**the EU2 Regulations**” means the Accession (Immigration and Worker Authorisation) Regulations 2006 [^c2251308];
+- “**extended family member**” has the meaning given in regulation 8 of the EEA Regulations;
+- “**family member**” has the meaning given in regulation 7 of the EEA Regulations;
+- “**highly skilled person**” has the meaning given in regulation3;
+- “**immigration rules**” means the rules laid down as mentioned in section 3(2) of the 1971 Act applying (except for in the definition of “relevant requirements”) —[^key-eff687a2a34cd2e45861749038e0a0db]
+  - (a) for the purposes of regulation 3(1)(a) (highly skilled person: Tier 1 (Exceptional Talent) migrant), on 6th November 2014; and
+  - (b) for all other purposes, on 1st July 2013[^c2251309];
+- “**Points-Based System**” means the system established under Part 6A of the immigration rules;
+- “**relevant requirements**” means, in relation to an authorised category of employment, the requirements which, subject to any necessary modifications, a person in that category of employment was obliged to meet under the immigration rules in force on 9th December 2011 in order to obtain entry clearance or leave to enter or remain in the United Kingdom and which are set out in the relevant statement;
+- “[^key-a1d00235c3b7336bc159b51c472dba8e] **relevant statement** ” means the statement entitled “the Statement of relevant requirements” dated March 2015[^key-81512a44f6d51a183d4969a371680ddf] and published by the Secretary of State [^c2251310] ;
+- “right to reside” shall be interpreted in accordance with the EEA Regulations and “**entitled to reside**” and “**right of residence**” shall be construed accordingly;
+- “**sponsor**” means the holder of a sponsor licence [^c2251311];
+- “**sponsor licence**” has the meaning given in paragraph 6 of the immigration rules;
+- “**spouse**” does not include a party to a marriage of convenience;
+- “**student**” has the meaning given in regulation 4(1)(d) of the EEA Regulations;
+- “Student Union Sabbatical Officer” and “National Union of Students (NUS) position” have the same meaning as in paragraph 245ZW of the immigration rules;[^key-b268901ab0a5807a8688da535e05b453]
+- “**Tier 2**” and “**Tier 5**” shall be construed in accordance in paragraph 6 of the immigration rules, except that the reference to the grant of leave is to be read as including a reference to the issuing of a worker authorisation registration certificate;
+- “**unmarried or same sex partner**” means a person who is in a durable relationship with another person;
+- “**work**” and “**working**” shall be construed in accordance with the meaning of “worker”[^c2251312]; and
+- “**worker authorisation registration certificate**” means a certificate issued in accordance with regulation 10 of these Regulations.
+
+(3) The Schedule (consequential amendments) shall have effect.
+
+### 2. “Accession State national subject to worker authorisation”
+
+(1) Subject to the following paragraphs of this regulation, other than where these Regulations expressly refer to an accession State national subject to worker authorisation within the meaning of regulation 2 of the EU2 Regulations, in these Regulations “**accession State national subject to worker authorisation**” means a Croatian national.
+
+(2) A Croatian national is not an accession State national subject to worker authorisation if, on 30th June 2013, he had leave to enter or remain in the United Kingdom under the 1971 Act that was not subject to any condition restricting his employment (other than a condition restricting his employment as a doctor in training or as a dentist in training or as a professional sportsperson (including as a sports coach))[^key-a5306f3e03939e5c8a96b454527fa784], or he is given such leave after that date.
+
+(3) A Croatian national is not an accession State national subject to worker authorisation if he was legally working in the United Kingdom on 30th June 2013 and had been legally working in the United Kingdom without interruption throughout the preceding period of 12 months ending on that date.
+
+(4) A Croatian national who legally works in the United Kingdom without interruption for a period of 12 months falling partly or wholly after 30th June 2013 ceases to be an accession State national subject to worker authorisation at the end of that period of 12 months.
+
+(5) For the purposes of paragraphs (3) and (4) of this regulation—
+
+- (a) a person working in the United Kingdom during a period falling before 1st<sup></sup>July 2013 was legally working in the United Kingdom during that period if—
+  - (i) he had leave to enter or remain in the United Kingdom under the 1971 Act for that period, that leave allowed him to work in the United Kingdom, and he was working in accordance with any condition of that leave restricting his employment;
+  - (ii) he was exempt from the provisions of the 1971 Act by virtue of section 8(2) or (3) of that Act (persons exempted by order or membership of diplomatic mission); or
+  - (iii) he was entitled to reside in the United Kingdom for that period under the EEA Regulations without the requirement for such leave;
+- (b) a person working in the United Kingdom on or after 1st<sup></sup>July 2013 is legally working in the United Kingdom during any period in which he—
+  - (i) falls within any of paragraphs (6) to (16) or (18); or
+  - (ii) holds an accession worker authorisation document and is working in accordance with the conditions set out in that document; and
+- (c) a person shall be treated as having worked in the United Kingdom without interruption for a period of 12 months if—
+  - (i) he was legally working in the United Kingdom at the beginning and end of that period; and
+  - (ii) during that period of 12 months, if his work in the United Kingdom was interrupted, any intervening periods of interruption did not exceed 30 days in total.
+
+(6) Other than during any period in which he is also an accession State national subject to worker authorisation within the meaning of regulation 2 of the EU2 Regulations, a Croatian national is not an accession State national subject to worker authorisation during any period in which he is also a national of—
+
+- (a) the United Kingdom; or
+- (b) an EEA State, other than Croatia.
+
+(7) A Croatian national is not an accession State national subject to worker authorisation during any period in which he is also an accession State national subject to worker authorisation within the meaning of regulation 2 of the EU2 Regulations and is working in accordance with those Regulations.
+
+(8) A Croatian national is not an accession State national subject to worker authorisation during any period in which he is the spouse, civil partner, unmarried or same sex partner, or child under 18 of a person who has leave to enter or remain in the United Kingdom under the 1971 Act and that leave allows him to work in the United Kingdom.
+
+(9) A Croatian national is not an accession State national subject to worker authorisation during any period in which he is the spouse, civil partner, unmarried or same sex partner of—
+
+- (a) a national of the United Kingdom; or
+- (b) a person that is settled in the United Kingdom in accordance with the meaning given in section 33(2A) (interpretation – meaning of “settled”) [^c2251313] of the 1971 Act.
+
+(10) A Croatian national is not an accession State national subject to worker authorisation during any period in which he is a member of a mission or other person mentioned in section 8(3) (member of a diplomatic mission, the family member of such a person, or a person otherwise entitled to diplomatic immunity) of the 1971 Act, other than a person who, under section 8(3A) (conditions of membership of a mission) of that Act, does not count as a member of a mission for the purposes of section 8(3).
+
+(11) A Croatian national is not an accession State national subject to worker authorisation during any period in which he is a person who is exempt from all or any of the provisions of the 1971 Act by virtue of an order made under section 8(2) (exemption for persons specified by order) of that Act.
+
+(12) A Croatian national is not an accession State national subject to worker authorisation during any period in which he has a permanent right of residence under regulation 15 of the EEA Regulations.
+
+(13) Subject to paragraph (14), a Croatian national is not an accession State national subject to worker authorisation during any period in which he is a family member (X) of an EEA national (Y) who has a right to reside in the United Kingdom.
+
+(14) Where Y is an accession State national subject to worker authorisation under these Regulations or an accession State national subject to worker authorisation within the meaning of regulation 2 of the EU2 Regulations, paragraph (13) only applies where X is the—
+
+- (a) spouse or civil partner of Y;
+- (b) unmarried or same sex partner of Y; or
+- (c) a direct descendant of Y, Y's spouse or Y's civil partner who is—
+  - (i) under 21; or
+  - (ii) dependant of Y, Y's spouse or Y's civil partner.
+
+(15) A Croatian national is not an accession State national subject to worker authorisation during any period in which he is a highly skilled person and holds an EEA registration certificate issued in accordance with regulation 7 that includes a statement that he has unconditional access to the United Kingdom labour market.
+
+(16) A Croatian national is not an accession State national subject to worker authorisation during any period in which he is in the United Kingdom as a student and either—
+
+- (a) holds an EEA registration certificate that includes a statement that he is a student who may work in the United Kingdom whilst a student in accordance with the condition set out in paragraph (17) and complies with that condition; or
+- (b) has leave to enter or remain under the 1971 Act as a student and is working in accordance with any conditions attached to that leave.
+
+(17) The condition referred to in paragraph (16)(a) is that the student shall not work for more than 20 hours a week unless—
+
+- (a) he is following a course of vocational training and is working as part of that training; [^key-be536b7308f8821cff913884236d1159]...
+- (b) he is working during his vacation; or[^key-08518fcd6472b49aeef13ec0735fbed9]
+- (c) he works for no more than 2 years as a Student Union Sabbatical Officer, provided the appointment to the post is by election and the post is—
+  - (i) either at the institution at which the Croatian national is enrolled as a student; or
+  - (ii) a national National Union of Students (NUS) position
+
+(18) A Croatian national who ceases to be a student at the end of his course of study is not an accession State national subject to worker authorisation during the period of four months beginning with the date on which his course ends provided he holds an EEA registration certificate that was issued to him before the end of the course that includes a statement that he may work during that period.
+
+(19) A Croatian national is not an accession State national subject to worker authorisation during any period in which he is a posted worker.
+
+(20) In paragraph (19), “**posted worker**” means a worker who is posted to the United Kingdom, within the meaning of Article 1(3) of the Council Directive [96/71/EC](https://www.legislation.gov.uk/european/directive/1996/0071) of the European Parliament and of the Council of 16 December 1996 concerning the posting of workers in the framework of the provision of services [^c2251314], by an undertaking established in an EEA State.
+
+### 3. “Highly skilled person”
+
+(1) In these Regulations “**highly skilled person**” means a person who—
+
+- (a) meets the requirements specified by the Secretary of State for the purpose of paragraph 245BB(c) (requirements for entry clearance as a Tier 1 (Exceptional Talent) migrant) [^c2251315] of the immigration rules; or
+- (b) has been awarded one of the following qualifications and applies for an EEA registration certificate within 12 months of being awarded the qualification—
+  - (i) a recognised bachelor, masters or doctoral degree;
+  - (ii) a postgraduate certificate in education or professional graduate diploma of education; or
+  - (iii) a higher national diploma awarded by a Scottish higher education institution.
+
+(2) For the purposes of paragraph (1)(b), the qualification must have been awarded by a higher education institution which, on the date of the award, is a UK recognised body or an institution that is not a UK recognised body but which provides full courses that lead to the award of a degree by a UK recognised body.
+
+(3) For the purposes of paragraph (1)(b)(iii), to qualify as a higher national diploma from a Scottish institution, a qualification must be at level 8 on the Scottish credit and qualifications framework.
+
+(4) In this regulation, a “**UK recognised body**” means an institution that has been granted degree awarding powers by a Royal Charter, an Act of Parliament or the Privy Council.
+
+## PART 2 — APPLICATION OF THE EEA REGULATIONS AND OTHER INSTRUMENTS
+
+### 4. Derogation from provisions of European Union law relating to workers
+
+Pursuant to Annex V of the treaty concerning the accession of the Republic of Croatia to the European Union, signed at Brussels on 9 December 2011, Regulations 5 and 7 to 10 derogate during the accession period from Article 45 of the Treaty on the Functioning of the European Union, Articles 1 to 6 of Regulation [(EEC) No. 1612/68](https://www.legislation.gov.uk/european/regulation/1968/1612) of the Council of 15 October 1968 on freedom of movement for workers within the Community [^c2251316] and Directive [2004/38/EC](https://www.legislation.gov.uk/european/directive/2004/0038) of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within the territory of the member States, amending Regulation [(EEC) No. 1612/68](https://www.legislation.gov.uk/european/regulation/1968/1612), and repealing Directives [64/221/EEC](https://www.legislation.gov.uk/european/directive/1964/0221), [68/360/EEC](https://www.legislation.gov.uk/european/directive/1968/0360), [72/194/EEC](https://www.legislation.gov.uk/european/directive/1972/0194), [73/148/EEC](https://www.legislation.gov.uk/european/directive/1973/0148), [75/34/EEC](https://www.legislation.gov.uk/european/directive/1975/0034), [75/35/EEC](https://www.legislation.gov.uk/european/directive/1975/0035), [90/364/EEC](https://www.legislation.gov.uk/european/directive/1990/0364), [90/365/EEC](https://www.legislation.gov.uk/european/directive/1990/0365) and [93/96/EEC](https://www.legislation.gov.uk/european/directive/1993/0096) [^c2251317].
+
+### 5. Right of residence of an accession State national subject to worker authorisation[^key-f5c3ee99efb9091154103d8ba9aa37b0]
+
+During the accession period, an accession State national subject to worker authorisation who is seeking employment in the United Kingdom shall not be treated as a jobseeker and shall be treated as a worker only in so far as it gives him a right to reside and only during a period in which he holds an accession worker authorisation document and is working in accordance with the conditions set out in that document.
+
+### 6. Transitional provisions to take account of the application of the EEA Regulations to Croatian nationals and their family members on 1st July 2013
+
+(1) Where, before 1st July 2013, any direction has been given for the removal of a Croatian national or the family member of such a national under paragraphs 8 to 10A of Schedule 2 (removal of persons refused leave to enter and illegal entrants) [^c2251318] to the 1971 Act, section 10 (removal of certain persons unlawfully in the United Kingdom) of the 1999 Act or section 47 (removal: persons with statutorily extended leave) of the 2006 Act, that direction shall cease to have effect on that date.
+
+(2) Where before 1st July 2013 the Secretary of State has made a deportation order against a Croatian national or the family member of such a national under section 5(1) (deportation orders) of the 1971 Act—
+
+- (a) that order shall, on and after 1st July 2013, be treated as if it were a decision under regulation 19(3)(b) of the EEA Regulations; and
+- (b) any appeal against that order, or against the refusal of the Secretary of State to revoke the deportation order, made before 1st July 2013 under section 63 (deportation orders) [^c2251319] of the 1999 Act, or under section 82(2)(j) or (k) (right of appeal: general) of the 2002 Act shall, on or after that date, be treated as if it had been made under regulation 26 of the EEA Regulations.
+
+(3) In this regulation—
+
+- (a) “**the 1999 Act**” means the Immigration and Asylum Act 1999 [^c2251320];
+- (b) “**the 2002 Act**” means the Nationality, Immigration and Asylum Act 2002 [^c2251321]; and
+- (c) any reference to the family member of a Croatian national is, in addition to the definition set out in regulation 1(2), a reference to a person who on 1st July 2013 acquires a right to reside in the United Kingdom under the EEA Regulations as the family member of a Croatian national.
+
+### 7. Issuing EEA registration certificates and residence cards
+
+(1) During the accession period, regulation 6 of the EEA Regulations has effect as if, in paragraph (1), after “EEA national”, there were inserted “ , except an accession State national subject to worker authorisation within the meaning of regulation 2 of the Croatian Regulations, ” and after paragraph (1), there were inserted—
+
+> (1A) In these Regulations, a “qualified person” also means a person who is an accession State national subject to worker authorisation within the meaning of regulation 2 of the Croatian Regulations and in the United Kingdom as—
+>
+> - (a) a self-employed person;
+> - (b) a self-sufficient person;
+> - (c) a student; or
+> - (d) a highly skilled person who is seeking employment or is employed in the United Kingdom.
+>
+> (1B)[^key-178e63d11a387f2f0b6676f895c1b0ca] In regulation 14(2), regulation 16(3) and (5) and regulation 17(1) and (4) a “qualified person” includes an accession State national subject to worker authorisation within the meaning of regulation 2 of the Croatian Regulations where that accession State national subject to worker authorisation has a right to reside.
+>
+> (1C) In these Regulations—
+>
+> - (a) “**the Croatian Regulations**” means the Accession of Croatia (Immigration and Worker Authorisation) Regulations 2013; and
+> - (b) “**highly skilled worker**” has the meaning given in regulation 1 of the Croatian Regulations.
+
+(2) Subject to paragraph (6), an EEA registration certificate issued to a Croatian national during the accession period shall include a statement that the holder of the certificate has unconditional access to the United Kingdom labour market, unless that person is not an accession State national subject to worker authorisation solely by virtue of falling within paragraph (16) or (18) of regulation 2.
+
+(3) A Croatian national who holds an EEA registration certificate that does not include a statement that he has unconditional access to the United Kingdom labour market may, during the accession period, submit the certificate to the Secretary of State for the inclusion of such a statement.
+
+(4) The Secretary of State must re-issue a EEA certificate submitted to her under paragraph (3) with the inclusion of a statement that the holder has unconditional access to the United Kingdom labour market if she is satisfied that the holder—
+
+- (a) is a qualified person within the meaning of paragraph (1A) of regulation 6 of the EEA Regulations as applied by paragraph (1); or
+- (b) has ceased to be an accession State national subject to worker authorisation other than solely by virtue of falling within paragraph (16) or (18) of regulation 2.
+
+(5) An EEA registration certificate issued to a Croatian national who is a student during the accession period shall include a statement that the holder of the certificate is a student who may work in the United Kingdom whilst a student in accordance with the condition set out in paragraph (17) of regulation 2 and who, on ceasing to be a student, may work during the period referred to in paragraph (18) of regulation 2, unless it includes a statement under paragraph (2) or (4) that the holder has unconditional access to the United Kingdom labour market.
+
+(6) Where under paragraph (5) of regulation 16 of the EEA Regulations an EEA registration certificate is issued to a Croatian national extended family member, with the exception of an extended family member who is an unmarried partner (including a same sex partner),[^key-19b75ae6887b62949a844de7b9a4420a] of an accession State national subject to worker authorisation, the certificate must include a statement that the certificate does not confer a permission to work.
+
+(7)[^key-8b106226304d9c933840839d254db32d] Where under paragraph (1) or (4) of regulation 17 of the EEA Regulations a residence card is issued to a family member or an extended family member of an accession State national subject to worker authorisation—
+
+- (a) paragraph (6) of regulation 17 of the EEA Regulations shall not apply;
+- (b) the duration of that card shall be twelve months from the date of issue; and
+- (c) that card shall be entitled “Accession Residence Card”.
+
+## PART 3 — ACCESSION STATE WORKER AUTHORISATION AND ASSOCIATED DOCUMENTATION
+
+### 8. Requirement for an accession State national subject to worker authorisation to be authorised to work
+
+(1) An accession State national subject to worker authorisation shall only be authorised to work in the United Kingdom during the accession period if he holds an accession worker authorisation document and is working in accordance with the conditions set out in that document.
+
+(2) For the purpose of these Regulations, an accession worker authorisation document means—
+
+- (a) a passport or other travel document endorsed before 1st July 2013 to show that the holder has leave to enter or remain in the United Kingdom under the 1971 Act, subject to a condition restricting his employment in the United Kingdom to a particular employer or category of employment; or
+- (b) a worker authorisation registration certificate endorsed with a condition restricting the holder's employment to a particular employer and authorised category of employment.
+
+(3) In the case of a document mentioned in paragraph (2)(a), the document ceases to be a valid accession worker authorisation document at the point at which—
+
+- (a) the period of leave to enter or remain expires; or
+- (b) the document holder ceases working for the employer, or in the employment, specified in the document for a period of time that exceeds 30 days in total.
+
+(4) In the case of a document mentioned in paragraph (2)(b), the document ceases to be a valid accession worker authorisation document at the point at which—
+
+- (a) the document expires;
+- (b) the document holder ceases working for the employer, or in the authorised category of employment, specified in the document for a period of time that exceeds 30 days in total; or
+- (c) the document is revoked.
+
+(5) For the purposes of this regulation, and regulations 9 and 11, the reference to a travel document other than a passport is a reference to a document which relates to a Croatian national and which can serve the same purpose as a passport.
+
+### 9. Application for a worker authorisation registration certificate as an accession worker authorisation document
+
+(1) An application for a worker authorisation registration certificate may be made by an accession State national subject to worker authorisation who wishes to work for an employer in the United Kingdom if the employment concerned falls within an authorised category of employment.
+
+(2) The application shall be in writing and shall be made to the Secretary of State.
+
+(3) The application shall state—
+
+- (a) the name, address in the United Kingdom or in Croatia, and date of birth, of the applicant;
+- (b) the name and address of the employer for whom the applicant wishes to work; and
+- (c) the authorised category of employment covered by the application.
+
+(4) The application shall be accompanied by—
+
+- (a) proof of the applicant's identity in the form of—
+  - (i) a national identity card;
+  - (ii) a passport; or
+  - (iii) other travel document as defined by regulation 8(5);
+- (b) two passport size photographs of the applicant;
+- (c) where the relevant requirements require the applicant to hold a certificate of sponsorship, the certificate of sponsorship reference number;
+- (d) where sub-paragraph (c) does not apply, a letter from the employer specified in the application confirming that the applicant has an offer of employment with the employer; and
+- (e) a fee of £55.
+
+(5) In this regulation “**address**” means, in relation to an employer which is a body corporate or partnership, the head or main office of that employer.
+
+### 10. Issuing and revoking a worker authorisation registration certificate
+
+(1) Subject to paragraph (3), the Secretary of State shall issue a worker authorisation registration certificate pursuant to an application made in accordance with the provisions of regulation 9 if the Secretary of State is satisfied that the applicant is an accession State national subject to worker authorisation who meets the relevant requirements.
+
+(2) A worker authorisation registration certificate shall include—
+
+- (a) a condition restricting the employment of the document holder to the employer and the authorised category of employment specified in the application;
+- (b) a statement that the document holder has a right of residence in the United Kingdom as a worker whilst working in accordance with any conditions specified in the certificate;
+- (c) where the authorised category of employment specified in the application is one for which a certificate of sponsorship is required, a statement that the holder of the document has a right to engage in supplementary employment; and
+- (d) where the period of authorised employment is less than 12 months, a statement specifying the date on which the worker authorisation registration certificate expires.
+
+(3) The Secretary of State may—
+
+- (a) refuse to issue, revoke or refuse to renew a worker authorisation registration certificate if the refusal or revocation is justified on grounds of public policy, public security or public health,
+- (b) refuse the application where the Secretary of State is not satisfied that regulation 9 or this regulation has been complied with or satisfied, or
+- (c) revoke a worker authorisation registration certificate where—
+  - (i) the document holder ceases working for the employer, or in the employment, specified in the document for a period of time that exceeds 30 days in total,
+  - (ii) deception was used in order to obtain the document, or
+  - (iii) the document was obtained on the basis of sponsorship by a sponsor whose licence has been withdrawn,
+
+and where the Secretary of State has refused to issue, revoked or refused to renew a worker authorisation registration certificate, she shall issue a notice setting out the reasons.
+
+(4) A worker authorisation registration certificate or notice of refusal or revocation issued under this regulation shall be sent to the applicant by post together with the identity card or passport that accompanied the application.
+
+(5) Subject to paragraph (6), in this regulation, “**supplementary employment**” means—
+
+- (a) employment in a job which appears on the shortage occupation list in Appendix K of the immigration rules; or
+- (b) employment in the same profession and at the same professional level as the employment for which the applicant has been issued with a certificate of sponsorship.
+
+(6) “Supplementary employment” is subject to the condition that—
+
+- (i) the applicant remains working for the sponsor in the employment that the certificate of sponsorship checking service records that the applicant has been sponsored to do; and
+- (ii) the supplementary employment does not exceed 20 hours per week and takes place outside of the hours when the applicant is contracted to work for the sponsor in the employment the applicant is being sponsored to do.
+
+(7) The Secretary of State shall ensure that the relevant statement is available to the public through her website and the library of the Home Office [^c2251322].
+
+## PART 4 — PENALTIES AND OFFENCES
+
+### 11. Unauthorised employment of accession State national - penalty for employer
+
+(1) It is contrary to this regulation to employ an accession State national subject to worker authorisation during the accession period if that person is not the holder of a valid accession worker authorisation document or, where that person holds such a document, the person would be in breach of a condition of that document in undertaking the employment.
+
+(2) The Secretary of State may give an employer who acts contrary to this regulation a notice requiring him to pay a penalty of a specified amount not exceeding £5,000.
+
+(3) The Secretary of State may give a penalty notice without having established whether the employer is excused under paragraph (5).
+
+(4) A penalty notice must—
+
+- (a) state why the Secretary of State thinks the employer is liable to the penalty;
+- (b) state the amount of the penalty;
+- (c) specify a date, at least 28 days after the date specified in the notice as the date on which it is given, before which the penalty must be paid;
+- (d) specify how the penalty must be paid;
+- (e) provide a reference number;
+- (f) explain how the employer may object to the penalty; and
+- (g) explain how the Secretary of State may enforce the penalty.
+
+(5) Subject to paragraph (7), an employer is excused from paying a penalty under this regulation if—
+
+- (a) before the commencement of the employment, the employee or prospective employee produces to the employer any of the following documents—
+  - (i) an accession worker authorisation document that authorises the employee or prospective employee to take the employment in question;
+  - (ii) an EEA registration certificate which includes a statement that the holder has unconditional access to the United Kingdom labour market; or
+  - (iii) one of the following documents confirming that the document holder is not an accession State national subject to worker authorisation by virtue of regulation 2(6)—
+    - (aa) a passport;
+    - (bb) a national identity card; or
+    - (cc) other travel document as defined by regulation 8(5); and
+- (b) the employer complies with the requirements set out in paragraph (6) of this regulation.
+
+(6) The requirements are that—
+
+- (a) the employer takes all reasonable steps to check the validity of the document;
+- (b) the employer has satisfied himself that the photograph on the document is of the employee or prospective employee;
+- (c) the employer has satisfied himself that the date of birth on the document is consistent with the appearance of the employee or prospective employee;
+- (d) the employer takes all other reasonable steps to check that the employee or prospective employee is the rightful holder of the document; and
+- (e) the employer securely retains a dated copy of the whole of the document in a format which cannot be subsequently altered for a period of not less than two years after the employment has come to an end.
+
+(7) An employer is not excused from paying a penalty if the employer knew, at any time during the period of the employment, that the employment was contrary to this regulation.
+
+(8) Nothing in these regulations permits an employer to retain documents produced by an employee or prospective employee for the purposes of paragraph (5) for any period longer than is necessary for the purposes of ensuring compliance with paragraph (6).
+
+(9) The Secretary of State may issue a code of practice specifying factors to be considered by her in determining the amount of a penalty imposed under paragraph (2) of this regulation.
+
+(10) The Secretary of State shall lay a code issued under paragraph (9) before Parliament and publish it.
+
+(11) The Secretary of State may from time to time review the code and may revoke, or revise and re-issue it, following a review; and a reference in this section to the code includes a reference to the code as revised.
+
+### 12. Unauthorised employment of accession State national - penalty for employer - objection
+
+(1) This regulation applies where an employer to whom a penalty notice is given objects on the ground that—
+
+- (a) he is not liable to the imposition of a penalty;
+- (b) he is excused payment by virtue of regulation 11(5); or
+- (c) the amount of the penalty is too high.
+
+(2) The employer may give a notice of objection to the Secretary of State.
+
+(3) A notice of objection shall—
+
+- (a) be in writing;
+- (b) give the full grounds of objection;
+- (c) give the reference number of the notice given under regulation 11(4);
+- (d) give the name and address of the head or main office of the employer;
+- (e) give the name and address of the employee in respect of whom the penalty was issued;
+- (f) contain details of any appeal made by the employer under regulation 13; and
+- (g) be given within 28 days, beginning with the date specified in the penalty notice as the date on which it was given.
+
+(4) Where the Secretary of State receives a notice of objection to a penalty she shall consider it and—
+
+- (a) cancel the penalty;
+- (b) reduce the penalty;
+- (c) increase the penalty; or
+- (d) determine to take no action.
+
+(5) Where the Secretary of State considers a notice of objection she shall—
+
+- (a) have regard to any code of practice issued under regulation 11(9) (in so far as the objection relates to the amount of the penalty);
+- (b) inform the objector in writing of her decision within 28 days, beginning with the date on which the notice of objection was given to the Secretary of State, or such longer period as she may agree with the objector;
+- (c) if she increases the penalty, issue a new penalty notice under regulation 11; and
+- (d) if she reduces the penalty, notify the objector of the reduced amount.
+
+### 13. Unauthorised employment of accession State national - penalty for employer - appeal
+
+(1) An employer to whom a penalty notice is given may appeal to the court on the ground that—
+
+- (a) he is not liable to the imposition of a penalty;
+- (b) he is excused payment by virtue of regulation 11(5); or
+- (c) the amount of the penalty is too high.
+
+(2) The court may—
+
+- (a) allow the appeal and cancel the penalty;
+- (b) allow the appeal and reduce the penalty; or
+- (c) dismiss the appeal.
+
+(3) An appeal shall be a re-hearing of the Secretary of State's decision to impose a penalty and shall be determined having regard to—
+
+- (a) any code of practice issued under regulation 11(9) that has effect at the time of the appeal (in so far as the appeal relates to the amount of the penalty), and
+- (b) any other matters which the court thinks relevant (which may include matters of which the Secretary of State was unaware),
+
+and this paragraph has effect despite any provision of rules of Court.
+
+(4) An appeal must be brought within the period of 28 days beginning with–
+
+- (a) the date specified in the penalty notice as the date upon which it is given; or
+- (b) if the employer gives a notice of objection and the Secretary of State reduces the penalty, the date specified in the notice of reduction as the date upon which it is given; or
+- (c) if the employer gives a notice of objection and the Secretary of State determines to take no action, the date specified in the notice of that determination as the date upon which it is given.
+
+(5) An appeal may be brought by an employer whether or not—
+
+- (a) he has given a notice of objection under regulation 12; or
+- (b) the penalty has been increased or reduced under that regulation.
+
+(6) In this section “**the court**” means—
+
+- (a) where the employer has his principal place of business in England and Wales, a county court;
+- (b) where the employer has his principal place of business in Scotland, the sheriff and sheriff court; and
+- (c) where the employer has his principal place of business in Northern Ireland, a county court.
+
+### 14. Unauthorised employment of accession State national - penalty for employer - enforcement
+
+(1) A sum payable to the Secretary of State as a penalty under regulation 11 may be recoverable as if payable under a court order.
+
+(2) In proceedings for the enforcement of a penalty, no question may be raised as to—
+
+- (a) liability to the imposition of the penalty;
+- (b) the application of the excuse in regulation 11(5); or
+- (c) the amount of the penalty.
+
+(3) Money paid to the Secretary of State by way of penalty shall be paid into the Consolidated Fund.
+
+### 15. Unauthorised employment of accession State national - employer offence
+
+(1) A person commits an offence if he employs another (“**the employee**”) knowing that the employee is an accession State national subject to worker authorisation and that—
+
+- (a) the employee is not the holder of a valid accession worker authorisation document; or
+- (b) the employee is prohibited from undertaking the employment because of a condition in his accession worker authorisation document.
+
+(2) A person guilty of an offence under this section shall be liable on summary conviction—
+
+- (a) to imprisonment for a term not exceeding 51 weeks in England and Wales or 6 months in Scotland or Northern Ireland;
+- (b) to a fine not exceeding level 5 on the standard scale; or
+- (c) to both.
+
+(3) An offence under this regulation shall be treated as—
+
+- (a) a relevant offence for the purpose of sections 28B (search and arrest by warrant) [^c2251323] and 28D (entry and search of premises) [^c2251324] of the 1971 Act; and
+- (b) an offence under Part 3 of that Act (criminal proceedings) for the purposes of sections 28E (entry and search of premises following arrest), 28G (searching arrested persons) and 28H (searching persons in police custody) [^c2251325].
+
+(4) In relation to an offence committed before the commencement of section 281(5) (alteration of penalties for other summary offences) [^c2251326] of the Criminal Justice Act 2003, the reference to 51 weeks in paragraph (2)(a) shall be read as a reference to 6 months.
+
+(5) For the purposes of paragraph (1), a body (whether corporate or not) shall be treated as knowing a fact about an employee if a person who has responsibility within the body for an aspect of the employment knows the fact.
+
+### 16. Unauthorised working by accession State national - employee offence and penalty
+
+(1) Subject to paragraph (2), an accession State national subject to worker authorisation who works in the United Kingdom during the accession period shall be guilty of an offence if he does not hold a valid accession worker authorisation document.
+
+(2) A person guilty of an offence under this regulation shall be liable on summary conviction—
+
+- (a) to imprisonment for a term not exceeding more than three months;
+- (b) to a fine not exceeding level 5 on the standard scale; or
+- (c) to both.
+
+(3) A constable or immigration officer who has reason to believe that a person has committed an offence under this regulation may give that person a notice offering him the opportunity of discharging any liability to conviction for that offence by payment of a penalty of £1000 in accordance with the notice.
+
+(4) Where a person is given a notice under paragraph (3) in respect of an offence under this regulation—
+
+- (a) no proceedings may be instituted for that offence before the expiration of the period of 21 days beginning with the day after the date of the notice; and
+- (b) he may not be convicted of that offence if, before the expiration of that period, he pays the penalty in accordance with the notice.
+
+(5) A notice under paragraph (3) must give such particulars of the circumstances alleged to constitute the offence as are necessary for giving reasonable information of the offence.
+
+(6) A notice under paragraph (3) must also state—
+
+- (a) the period during which, by virtue of paragraph (4), proceedings will not be instituted for the offence;
+- (b) the amount of the penalty; and
+- (c) that the penalty is payable to the Secretary of State at the address specified in the notice.
+
+(7) Without prejudice to payment by any other method, payment of a penalty in pursuance of a notice under paragraph (3) may be made by pre-paying and posting a letter by registered post or the recorded delivery service containing the amount of the penalty (in cash or otherwise) to the Secretary of State at the address specified in the notice.
+
+(8) Where a letter is sent in accordance with paragraph (7) payment is to be regarded as having been made at the time at which that letter would be delivered in the ordinary course of registered post or the recorded delivery service.
+
+(9) A constable or immigration officer may withdraw a penalty notice given under paragraph (3) if the constable or immigration officer decides that—
+
+- (a) the notice was issued in error;
+- (b) the notice contains material errors; or
+- (c) he has reasonable grounds to believe that the employee has committed an offence under regulation 17.
+
+(10) A penalty notice may be withdrawn—
+
+- (a) whether or not the period specified in paragraph (4)(a) has expired;
+- (b) under paragraph (9)(a) and (b), whether or not the penalty has been paid; and
+- (c) under paragraph (9)(c), only where the penalty has not yet been paid.
+
+(11) Where a penalty notice has been withdrawn under paragraph (9)—
+
+- (a) notice of the withdrawal must be given to the recipient; and
+- (b) any amount paid by way of penalty in pursuance of that notice must be repaid to the person who paid it.
+
+(12) Subject to paragraph (13), proceedings shall not be continued or instituted against an employee for an offence under paragraph (1) in connection with which a withdrawal notice was issued.
+
+(13) Proceedings may be continued or instituted for an offence in connection with which a withdrawal notice was issued if—
+
+- (a) where the withdrawal notice was withdrawn pursuant to paragraph (9)(b)—
+  - (i) a further penalty notice in respect of the offence was issued at the same time as the penalty notice was withdrawn; and
+  - (ii) the penalty has not been paid pursuant to that further penalty notice in accordance with paragraph (4)(a); or
+- (b) the withdrawal notice was withdrawn pursuant to paragraph (9)(c).
+
+### 17. Deception - employee offence
+
+(1) A person is guilty of an offence if, by means which include deception by him, he obtains or seeks to obtain a worker authorisation registration certificate.
+
+(2) A person guilty of an offence under this regulation shall be liable on summary conviction—
+
+- (a) to imprisonment for a term not exceeding three months;
+- (b) to a fine not exceeding level 5 on the standard scale; or
+- (c) to both.
+
+### 18. Offences under regulations 16 and 17 - search, entry and arrest
+
+An offence under regulation 16 or 17 shall be treated as—
+
+- (a) a relevant offence for the purposes of sections 28B (search and arrest by warrant) [^c2251327] and 28D (entry and search of premises) [^c2251328] of the 1971 Act;
+- (b) an offence under Part 3 of the 1971 Act (criminal proceedings) for the purposes of sections 28E (entry and search of premises following arrest), 28G (searching arrested persons) and 28H (searching persons in police custody) [^c2251329] of that Act; and
+- (c) an offence under section 24(1)(b) of the 1971 Act for the purposes of sections 28A(1) (arrest without warrant), 28CA (business premises: entry to arrest) and 28FA (search for personnel records: warrant unnecessary) [^c2251330] of that Act.
+
+Mark Harper
+
+Minister of State
+
+Home Office
+
+12th June 2013
+
+## SCHEDULE — Consequential amendments
+
+Regulation 1(3)
+
+**1.** Schedule 2 to the EEA Regulations is amended as follows.
+
+**2.** In paragraph 1 (leave under the 1971 Act)—
+
+- (a) in paragraph (a) of sub-paragraph (4), for the words from “given in”, to the end of the paragraph substitute—
+
+  > given in—
+  >
+  > - (i) regulation 1(2)(c) of the Accession (Immigration and Worker Authorisation) Regulations 2006, in relation to a person who is an accession State national subject to worker authorisation within the meaning of regulation 2 of those Regulations; and
+  > - (ii) regulation 1(2) of the Accession of Croatia (Immigration and Worker Authorisation) Regulations 2013, in relation to a person who is an accession State national subject to worker authorisation within the meaning of regulation 2 of those Regulations;
+
+  ;
+- (b) in paragraph (b) of sub-paragraph (4), for the words from “given in”, to the end of the paragraph substitute—
+
+  > given in—
+  >
+  > - (i) regulation 2 of the Accession (Immigration and Worker Authorisation) Regulations 2006; and
+  > - (ii) regulation 2 of the Accession of Croatia (Immigration and Worker Authorisation) Regulations 2013; and
+
+  ; and
+- (c) in paragraph (c) of sub-paragraph (4), for the words from “given in”, to the end of the paragraph substitute—
+
+  > given in—
+  >
+  > - (i) regulation 9(2) of the Accession (Immigration and Worker Authorisation) Regulations 2006, in relation to a person who is an accession State national subject to worker authorisation within the meaning of regulation 2 of those Regulations; and
+  > - (ii) regulation 1(2) of the Accession of Croatia (Immigration and Worker Authorisation) Regulations 2013, in relation to a person who is an accession State national subject to worker authorisation within the meaning of regulation 2 of those Regulations.
+
+  .
+
+**3.** In paragraph 4(2) (appeals under the 2002 Act and previous immigration Acts)—
+
+- (a) after “permanent residence card under these Regulations”, insert “ (including a registration certificate under these Regulations as applied by regulation 7 of the Accession of Croatia (Immigration and Worker Authorisation) Regulations 2013) ”; and
+- (b) after “Accession (Immigration and Worker Authorisation) Regulations 2006,”, insert “ or a worker authorisation registration certificate under the Accession of Croatia (Immigration and Worker Authorisation) Regulations 2013, ”.
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision in relation to the entitlement of nationals of the Republic of Croatia (“Croatian nationals”) to reside and work in the United Kingdom on the accession of that State to the European Union (“EU”) on 1st July 2013. They give effect to Annex V to the treaty concerning the accession of the Republic of Croatia to the European Union, signed at Brussels on 9th December 2011. That Annex permits member States to derogate from various provisions of freedom of movement of persons provisions under EU law relating to access to their labour markets by Croatian nationals for a transitional period.
+
+Part 1 of these Regulations (regulations 1 to 3) contains interpretative provisions. In particular, regulation 2 defines “accession State national subject to worker authorisation” and sets out a number of different classes of Croatian nationals who do not fall within that definition. Croatian nationals who are accession State nationals subject to worker authorisation require authorisation under these Regulations during the accession period (1st July 2013 to 30th June 2018) in order to be able to work in the United Kingdom.
+
+Part 2 of these Regulations (regulations 4 to 7) make provision in relation to various existing legal instruments. Regulation 4 states that these Regulations derogate from the free movement of worker provisions in EU law. Regulation 5 provides that, under the Immigration (European Economic Area) Regulations 2006 (S.I. 2006/1003, as amended) (“**the EEA Regulations**”), accession State nationals subject to worker authorisation cannot be treated as jobseekers and only have a right to reside in the United Kingdom by virtue of their worker status whilst they are duly authorised to do so. Regulation 6 makes transitional provision to take account of the fact that on 1st July 2013 Croatian nationals and their family members will generally fall to be treated for immigration purposes under the EEA Regulations rather than under the third country national immigration regime set out in the Immigration Act 1971 (“**the 1971 Act**”). Regulation 7 makes provision in relation to EEA registration certificates and residence cards issued under the EEA Regulations to certain Croatian nationals during the accession period.
+
+Part 3 (regulations 8 to 10) sets out the requirements for accession State national subject to worker authorisation to obtain authorisation to work. Regulation 8 provides that an accession State national subject to worker authorisation is only authorised to work in the United Kingdom if he or she holds an accession worker authorisation document and is working in accordance with the conditions set out in the document. A passport or other travel document suitably endorsed under the 1971 Act before accession will count as such a document. In other cases, worker authorisation registration certificates issued under regulation 10 are required.
+
+Regulations 9 and 10 set out procedure for applying for worker authorisation registration certificates and the issuing of worker authorisation registration certificates. Such certificates can only be issued where a person meets relevant requirements for certain authorised categories of employment. The relevant requirements are set out in the Statement of relevant requirements published by the Secretary of State. In relation to an authorised category of employment, the Statement sets out the relevant requirements which, subject to any necessary modifications, a person in that category of employment was obliged to meet under the immigration rules in force on 9th December 2011 in order to obtain entry clearance or leave to enter or remain in the United Kingdom.
+
+Part 4 of these Regulations (regulations 11 to 19) deals with the penalties and offences for breaching the worker authorisation requirements in these Regulations.
+
+Regulation 11 provides for the issuing of penalty notices where an employer employs an accession State national subject to worker authorisation in breach of these Regulations. Regulations 12 and 13 set out how an employer can object to, or appeal against, such a penalty notice respectively. Regulation 14 sets out an enforcement provision for the Secretary of State to recover a penalty imposed under regulation 11. Regulation 15 makes it an offence for an employer knowingly to employ an accession State national subject to worker authorisation in breach of the Regulations. Regulation 16 ensures that the Code of Practice issued in accordance with section 23 of the Immigration, Asylum and Nationality Act 2006 has effect in relation to related provisions under these Regulations. Regulation 16 makes it an offence for an accession State national subject to worker authorisation to work in breach of the Regulations. Regulation 17 makes it an offence for a person to obtain a worker authorisation registration certificate by deception. Regulation 18 applies various enforcement provisions in the 1971 Act for the purposes of offences under regulations 16 and 17.
+
+The Schedule makes various consequential amendments to the EEA Regulations.
+
+An Impact Assessment in respect of the Government's decision to apply transitional restrictions to Croatian nationals was published on the UK Border Agency's website on 18 October 2012 and can be found at http://www.ukba.homeoffice.gov.uk/sitecontent/newsarticles/2012/october/39-croatia.
+
+## Annotations
+
+[^c2251304]: Marginal citation: [2013 c.5](https://www.legislation.gov.uk/ukpga/2013/5).
+
+[^c2251305]: Marginal citation: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^c2251306]: Marginal citation: [2006 c.13](https://www.legislation.gov.uk/ukpga/2006/13).
+
+[^c2251307]: Marginal citation: [S.I. 2006/1003](https://www.legislation.gov.uk/uksi/2006/1003), amended by [S.I. 2006/3317](https://www.legislation.gov.uk/uksi/2006/3317), 2009/1117, 2010/21, 1593, 2011/544, 1247, 2012/1547, 1809 and 2560.
+
+[^c2251308]: Marginal citation: [S.I. 2006/3317](https://www.legislation.gov.uk/uksi/2006/3317), amended by [S.I. 2007/475](https://www.legislation.gov.uk/uksi/2007/475), 3012, 3224, 2009/2426, 2748, 2010/1836, 2011/2816 and 2012/1809.
+
+[^key-eff687a2a34cd2e45861749038e0a0db]: Textual amendment: Words in reg. 1(2) substituted (6.4.2015) by [The Immigration (European Economic Area) (Amendment) Regulations 2015 (S.I. 2015/694)](https://www.legislation.gov.uk/uksi/2015/694), [reg. 2](https://www.legislation.gov.uk/uksi/2015/694/regulation/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/694/schedule/2/paragraph/1/a)
+
+[^c2251309]: Marginal citation: Immigration rules H.C. 395, laid before Parliament on 23 May 1994 (as amended).
+
+[^key-a1d00235c3b7336bc159b51c472dba8e]: Textual amendment: Words in reg. 1(2) substituted (6.4.2014) by [The Accession of Croatia (Immigration and Worker Authorisation) (Amendment) Regulations 2014 (S.I. 2014/530)](https://www.legislation.gov.uk/uksi/2014/530), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/2/2)
+
+[^key-81512a44f6d51a183d4969a371680ddf]: Textual amendment: Words in reg. 1(2) substituted (6.4.2015) by [The Immigration (European Economic Area) (Amendment) Regulations 2015 (S.I. 2015/694)](https://www.legislation.gov.uk/uksi/2015/694), [reg. 2](https://www.legislation.gov.uk/uksi/2015/694/regulation/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2015/694/schedule/2/paragraph/1/b)
+
+[^c2251310]: Marginal citation: The relevant statement is published by the Home Office at: http://www.ukba.homeoffice.gov.uk/ and copies can be obtained through the Direct Communications Unit, Home Office, 2 Marsham Street, London, SW1P 4DF (email: public.enquiries@homeoffice.gsi.gov.uk).
+
+[^c2251311]: Marginal citation: The requirements for the issuance of a licence to a sponsor for the purposes of Part 6A of the immigration rules are published by the Home Office at: http://www.ukba.homeoffice.gov.uk/sitecontent/documents/employersandsponsors/pbsguidance/
+
+[^key-b268901ab0a5807a8688da535e05b453]: Textual amendment: Words in reg. 1(2) inserted (6.4.2015) by [The Immigration (European Economic Area) (Amendment) Regulations 2015 (S.I. 2015/694)](https://www.legislation.gov.uk/uksi/2015/694), [reg. 2](https://www.legislation.gov.uk/uksi/2015/694/regulation/2), [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/uksi/2015/694/schedule/2/paragraph/1/c)
+
+[^c2251312]: Marginal citation: See section 4(11) of the European Union (Croatian Accession and Irish Protocol) Act 2013.
+
+[^key-a5306f3e03939e5c8a96b454527fa784]: Textual amendment: Words in reg. 2(2) inserted (6.4.2014) by [The Accession of Croatia (Immigration and Worker Authorisation) (Amendment) Regulations 2014 (S.I. 2014/530)](https://www.legislation.gov.uk/uksi/2014/530), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/530/regulation/2/3)
+
+[^c2251313]: Marginal citation: Section 33(2A) was inserted by section 39(6) of, and Schedule 4 to, to the [British Nationality Act 1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^key-be536b7308f8821cff913884236d1159]: Textual amendment: Word in reg. 2(17) omitted (6.4.2015) by virtue of [The Immigration (European Economic Area) (Amendment) Regulations 2015 (S.I. 2015/694)](https://www.legislation.gov.uk/uksi/2015/694), [reg. 2](https://www.legislation.gov.uk/uksi/2015/694/regulation/2), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2015/694/schedule/2/paragraph/2/a)
+
+[^key-08518fcd6472b49aeef13ec0735fbed9]: Textual amendment: Words in reg. 2(17) inserted (6.4.2015) by [The Immigration (European Economic Area) (Amendment) Regulations 2015 (S.I. 2015/694)](https://www.legislation.gov.uk/uksi/2015/694), [reg. 2](https://www.legislation.gov.uk/uksi/2015/694/regulation/2), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2015/694/schedule/2/paragraph/2/b)
+
+[^c2251314]: Marginal citation: O.J. L 018, 21.1.1997, p.1
+
+[^c2251315]: Marginal citation: [Paragraph 245BB](https://www.legislation.gov.uk/uksi/2013/1460/paragraph/245BB) was inserted by the Statement of Changes to the immigration rules (HC863) laid before Parliament on 16 March 2011. The requirements specified for the purpose of paragraph 245BB(c) are set out in Appendices A and L of the immigration rules.
+
+[^c2251316]: Marginal citation: OJ L 257, 19.10.1968, p.2, and English Special Edition, Series I, Vol. 1968(II), p.475.
+
+[^c2251317]: Marginal citation: O J L 158, 30.4.2004, p.77.
+
+[^key-f5c3ee99efb9091154103d8ba9aa37b0]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/1460/regulation/5) substituted (6.4.2014) by [The Accession of Croatia (Immigration and Worker Authorisation) (Amendment) Regulations 2014 (S.I. 2014/530)](https://www.legislation.gov.uk/uksi/2014/530), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2014/530/regulation/2/4)
+
+[^c2251318]: Marginal citation: [Paragraphs 8 to 10](https://www.legislation.gov.uk/uksi/2013/1460/paragraph/8) have been amended by section 10 of, and the Schedule to, the [Immigration Act 1988 (c.14)](https://www.legislation.gov.uk/ukpga/1988/14), [section 12](https://www.legislation.gov.uk/ukpga/1988/14/section/12) of, and Schedule 2 to, the [Asylum and Immigration Act 1996 (c. 49)](https://www.legislation.gov.uk/ukpga/1996/49) and section 114 of, and Schedule 7 to, the Nationality, Immigration and Asylum Act 2002; [paragraph 10A](https://www.legislation.gov.uk/uksi/2013/1460/paragraph/10A) was inserted by section 73 of the 2002 Act.
+
+[^c2251319]: Marginal citation: [Section 63](https://www.legislation.gov.uk/uksi/2013/1460/section/63) of the 1999 Act was repealed by section 161 of, and Schedule 9 to, the Nationality, Immigration and Asylum Act 2002 but continues to have effect in relation to appeals made before 1st April 2003.
+
+[^c2251320]: Marginal citation: [1999 c.33](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^c2251321]: Marginal citation: [2002 c.41](https://www.legislation.gov.uk/ukpga/2002/41).
+
+[^key-178e63d11a387f2f0b6676f895c1b0ca]: Textual amendment: Words in reg. 7(1) substituted (6.4.2014) by [The Accession of Croatia (Immigration and Worker Authorisation) (Amendment) Regulations 2014 (S.I. 2014/530)](https://www.legislation.gov.uk/uksi/2014/530), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2014/530/regulation/2/5/a)
+
+[^key-19b75ae6887b62949a844de7b9a4420a]: Textual amendment: Words in reg. 7(6) inserted (6.4.2014) by [The Accession of Croatia (Immigration and Worker Authorisation) (Amendment) Regulations 2014 (S.I. 2014/530)](https://www.legislation.gov.uk/uksi/2014/530), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2014/530/regulation/2/5/b)
+
+[^key-8b106226304d9c933840839d254db32d]: Textual amendment: Reg. 7(7) inserted (6.4.2014) by [The Accession of Croatia (Immigration and Worker Authorisation) (Amendment) Regulations 2014 (S.I. 2014/530)](https://www.legislation.gov.uk/uksi/2014/530), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2014/530/regulation/2/5/c)
+
+[^c2251322]: Marginal citation: The relevant statement is published by the Home Office at: http://www.ukba.homeoffice.gov.uk/ and copies can be obtained through the Direct Communications Unit, Home Office, 2 Marsham Street, London, SW1P 4DF (email: public.enquiries@homeoffice.gsi.gov.uk).
+
+[^c2251323]: Marginal citation: [Section 28B](https://www.legislation.gov.uk/uksi/2013/1460/section/28B) was inserted by section 129 of the Immigration and Asylum Act 1999 and amended by sections 144 and 150 of the Nationality, Immigration and Asylum Act 2002.
+
+[^c2251324]: Marginal citation: [Section 28D](https://www.legislation.gov.uk/uksi/2013/1460/section/28D) was inserted by section 131 of the Immigration and Asylum Act 1999 and amended by sections 144 and 150 of the Nationality, Immigration and Asylum Act 2002.
+
+[^c2251325]: Marginal citation: [Sections 28E](https://www.legislation.gov.uk/uksi/2013/1460/section/28E), [28G](https://www.legislation.gov.uk/uksi/2013/1460/section/28G) and 28H were inserted by sections 132, 134 and 135 of the Immigration and Asylum Act 1999 respectively.
+
+[^c2251326]: Marginal citation: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
+
+[^c2251327]: Marginal citation: [Section 28B](https://www.legislation.gov.uk/uksi/2013/1460/section/28B) was inserted by section 129 of the Immigration and Asylum Act 1999 and amended by sections 144 and 150 of the Nationality, Immigration and Asylum Act 2002.
+
+[^c2251328]: Marginal citation: [Section 28D](https://www.legislation.gov.uk/uksi/2013/1460/section/28D) was inserted by section 131 of the Immigration and Asylum Act 1999 and amended by sections 144 and 150 of the Nationality, Immigration and Asylum Act 2002.
+
+[^c2251329]: Marginal citation: [Sections 28E](https://www.legislation.gov.uk/uksi/2013/1460/section/28E), [28G](https://www.legislation.gov.uk/uksi/2013/1460/section/28G) and 28H were inserted by sections 132, 134 and 135 of the Immigration and Asylum Act 1999 respectively.
+
+[^c2251330]: Marginal citation: [Section 28A](https://www.legislation.gov.uk/uksi/2013/1460/section/28A) was inserted by section 128 of the Immigration and Asylum Act 1999 and subsection (1) was amended by section 111 of, and Schedule 7 to, the [Serious Organised Crime and Police Act 2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15); [sections 28CA](https://www.legislation.gov.uk/uksi/2013/1460/section/28CA) and 28FA were inserted by sections 153 and 154 of the Nationality, Immigration and Asylum Act 2002 respectively and section 28FA was amended by section 28 of the [UK Borders Act 2007 (c.30)](https://www.legislation.gov.uk/ukpga/2007/30).

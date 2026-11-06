@@ -1,0 +1,69 @@
+---
+title: Public Service Pensions and Judicial Offices Act 2022, section 103
+act: Public Service Pensions and Judicial Offices Act 2022
+section: '103'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2022/7/section/103
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Public Service Pensions and Judicial Offices Act 2022, section 103
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/7
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 103. Power to make provision in relation to certain fee-paid judges[^key-4cc11571110c17b40252862164ae5510][^key-166503b74f87d6c00a015d62d8a45bb1]
+
+*Extent: E+W+S+N.I.*
+
+(1) Scheme regulations for a judicial scheme may make provision for the purpose of putting relevant fee-paid judges, so far as possible, in the position they would have been in if they had always been recognised as being full protection members of a judicial legacy scheme.
+
+(2) The provision that may be made under subsection (1) includes in particular—
+
+- (a) provision about the amount of benefits to which a person is or was entitled in respect of pensionable service;
+- (b) provision about pension contributions a person is or was required to pay to the scheme in respect of pensionable service;
+- (c) provision about cases in which voluntary contributions have been paid to a judicial 2015 scheme (including provision under which rights to benefits referable to the contributions are retained in the judicial 2015 scheme);
+- (d) provision about cases in which a person has transferred rights into a judicial 2015 scheme (including provision under which the rights are retained in the judicial 2015 scheme);
+- (e) provision about cases in which a person has a partnership pension account;
+- (f) provision about cases in which a person has partially retired;
+- (g) provision enabling a scheme manager to pay amounts by way of compensation, including provision requiring an employer in relation to the scheme to reimburse the scheme manager for such amounts;
+- (h) provision corresponding or similar to any provision of or made under—
+  - (i) section 53 (effective pension age payments);
+  - (ii) section 54 (transitional protection allowance);
+  - (iii) section 55 (power to reduce benefits in lieu of paying liabilities owed to the scheme);
+  - (iv) section 56 (powers to reduce or waive liabilities);
+  - (v) section 57 (pension credit members);
+  - (vi) section 61 (interest and process).
+
+(3) For the purposes of this section a person (“**P**”) is a “relevant fee-paid judge” if—
+
+- (a) on 31 March 2012—
+  - (i) P held a fee-paid judicial office, and
+  - (ii) did not hold a salaried judicial office,
+- (b) on 1 April 2012, P was aged 55 or over,
+- (c) at any time in the period beginning with 1 April 2012 and ending with the day before the relevant date, P held a salaried judicial office, and
+- (d) either—
+  - (i) on the relevant date, P did not hold a fee-paid judicial office, or
+  - (ii) the condition in regulation 8(2)(a) of the judicial legacy fee-paid scheme (members) is not met in relation to P and the fee-paid judicial office mentioned in paragraph (a)(i).
+
+(4) In this section “full protection member”—
+
+- (a) in relation to a judicial office within section 71(1)(a) or (b), has the same meaning as in Schedule 2 to the Judicial Pensions Regulations 2015 ([S.I. 2015/182](https://www.legislation.gov.uk/uksi/2015/182)) (see paragraph 1 of that Schedule), or
+- (b) in relation to a judicial office within section 71(1)(c), has the same meaning as in Schedule 2 to the Judicial Pensions Regulations (Northern Ireland) 2015 ([S.R. (N.I.) 2015 No. 76](https://www.legislation.gov.uk/nisr/2015/76)) (see paragraph 1 of that Schedule).
+
+(5) In this section “the relevant date”—
+
+- (a) in relation to a judicial office within section 71(1)(a) or (b), means 2 December 2012;
+- (b) in relation to a judicial office within section 71(1)(c), means 1 February 2013.
+
+(6) Expressions used in this section have the same meaning as in Chapter 2.
+
+## Annotations
+
+[^key-4cc11571110c17b40252862164ae5510]: Commencement: S. 103 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+
+[^key-166503b74f87d6c00a015d62d8a45bb1]: Commencement: S. 103 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

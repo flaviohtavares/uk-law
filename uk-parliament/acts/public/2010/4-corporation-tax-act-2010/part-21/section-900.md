@@ -1,0 +1,38 @@
+---
+title: Corporation Tax Act 2010, section 900
+act: Corporation Tax Act 2010
+section: '900'
+status: revised-with-pending-changes
+text_date: '2026-03-18'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2010/4/section/900
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2010, section 900
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 900. Purposes of this Chapter
+
+*Extent: E+W+S+N.I.*
+
+(1) This section sets out the main purposes of this Chapter where there are any arrangements to which this Chapter applies.
+
+(2) The first main purpose is, in relation to a company entitled to the lessor's interest under the lease of the asset, to apply the charge to corporation tax on income to amounts determined as mentioned in subsections (3) and (4).
+
+(3) The amounts referred to in subsection (2) are determined by reference to the amounts that fall for accounting purposes to be treated, in accordance with generally accepted accounting practice, as the income return on and after 26 November 1996 on investment in respect of the finance lease or loan.
+
+(4) The amounts referred to in subsection (2) are also determined taking into account the substance of the matter as a whole, including, in particular, the state of affairs—
+
+- (a) as between connected persons, or
+- (b) within a group of companies,
+
+as reflected or falling to be reflected in accounts of any of those persons or in consolidated group accounts.
+
+(5) The second main purpose of this Chapter is, if the sum mentioned in section 899(3)(a) that is not rent falls due, to recover by reference to that sum the whole or any part of the capital expenditure reliefs.
+
+(6) In subsection (5) “**the capital expenditure reliefs**” means any reliefs, allowances or deductions that are or have been allowed or made in respect of capital expenditure incurred in respect of the leased asset.

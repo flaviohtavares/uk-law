@@ -1,0 +1,1744 @@
+---
+title: The Network Rail (Redditch Branch Enhancement) Order 2013
+id: uksi/2013/2809
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-10-31'
+text_date: '2017-12-28'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2013/2809
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/2809/pdfs/uksi_20132809_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/2809/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Network Rail (Redditch Branch Enhancement) Order 2013
+
+> Text as at 2017-12-28.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2013 No. 2809
+
+Infrastructure Planning
+
+The Network Rail (Redditch Branch Enhancement) Order 2013
+
+Made
+
+31st October 2013
+
+Coming into force
+
+21st November 2013
+
+An application has been made to the Secretary of State, in accordance with the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^f00001], for an order under sections 37, 114, 115, 117(4), 120 and 122 of the Planning Act 2008[^f00002].
+
+The application was examined in accordance with Chapter 4 of Part 6 of the 2008 Act, and the Infrastructure Planning (Examination Procedure) Rules 2010[^f00003], by a single appointed person appointed by the Secretary of State in accordance with Chapter 3 of Part 6 of the 2008 Act.
+
+The single appointed person, having considered the representations made and not withdrawn and the application together with accompanying documents, in accordance with section 83 of the 2008 Act, has submitted a report to the Secretary of State.
+
+The Secretary of State, having considered the representations made and not withdrawn, and the report of the single appointed person, has decided to make an Order granting development consent for the development described in the application and consent for ancillary works with modifications which in the opinion of the Secretary of State do not make any substantial change to the proposals comprised in the application.
+
+The Secretary of State, in exercise of the powers conferred by sections 114, 115, 120 and 122 of, and paragraphs 1 to 3, 10 to 17, 24, 26, 36 and 37 of Part 1 of Schedule 5 to, the 2008 Act, makes the following Order—
+
+## PART 1 — Preliminary
+
+### 1. Citation and commencement[^key-6f254dc64060fd047c2ce35743a4fcf7]
+
+This Order may be cited as the Network Rail (Redditch Branch Enhancement) Order 2013 and comes into force on 21st November 2013.
+
+### 2. Interpretation[^key-3825fa0d9672d1f382aab6bcef63ed5c]
+
+(1) In this Order—
+
+- “the 1961 Act” means the Land Compensation Act 1961[^f00004];
+- “the 1965 Act” means the Compulsory Purchase Act 1965[^f00005];
+- “the 1980 Act” means the Highways Act 1980[^f00006];
+- “the 1981 Act” means the Compulsory Purchase (Vesting Declarations) Act 1981[^f00007];
+- “the 1984 Act” means the Road Traffic Regulation Act 1984[^f00008];
+- “the 1990 Act” means the Town and Country Planning Act 1990[^f00009];
+- “the 1991 Act” means the New Roads and Street Works Act 1991[^f00010];
+- “the 2003 Act” means the Communications Act 2003[^f00011];
+- “the 2008 Act” means the Planning Act 2008;
+- “the 2009 Regulations” means the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009;
+- “the access to works and traffic regulation plan” means the access to works and traffic regulation plan certified by the Secretary of State as the access to works and traffic regulation plan for the purposes of this Order;
+- “address” includes any number or address used for the purposes of electronic transmission;
+- “the archaeological and historic impact assessment report” means the archaeological and historic impact assessment report certified by the Secretary of State as the archaeological and historic impact assessment report for the purposes of this Order;
+- “authorised development” means the development and associated development described in Part 1 of Schedule 1 (authorised development), which is development within the meaning of section 32 of the 2008 Act;
+- “the book of reference” means the book of reference certified by the Secretary of State as the book of reference for the purposes of this Order;
+- “building” includes any structure or erection or any part of a building, structure or erection;
+- “carriageway” has the same meaning as in the 1980 Act;
+- “commencement” means the first carrying out of a material operation within the meaning of section 56(4) of the 1990 Act for the construction of the authorised development and commence and commenced are to be construed accordingly;
+- “compulsory acquisition notice” means a notice served in accordance with section 134 of the 2008 Act;
+- “the design drawings” means the drawings titled (1) Engineering plans including existing services and new services, drainage and surface water management, (2) Section drawings, (3) Alvechurch station general arrangement, and (4) Landscaping plans, each submitted under regulation 5(2)(o) of the 2009 Regulations and together certified as the design drawings by the Secretary of State for the purposes of the Order;
+- “the ecological impact assessment report” means the ecological impact assessment report certified by the Secretary of State as the ecological impact assessment report for the purposes of this Order;
+- “electronic communications code” has the meaning given in section 106(1)[^key-43a9b8eac2bc3c34c8f16c222f030ded] of the 2003 Act
+- “electronic transmission” means a communication transmitted—
+  - (a) by means of an electronic communications network; or
+  - (b) by other means but while in electronic form;
+- “the environmental reports” means the archaeological and historic impact assessment report; the ecological impact assessment report; the flood risk assessment; the land quality report; the noise assessment report; the visual impacts report and landscape plan/strategy; and the waste management plan;
+- “first open for use” means the date on which Work No. 1 is first used for revenue earning purposes by the passage of passenger carrying railway vehicles;
+- “the flood risk assessment” means the flood risk assessment including a river basin management impact assessment and plan certified by the Secretary of State as the flood risk assessment for the purposes of this Order;
+- “footpath” has the same meaning as in the 1980 Act;
+- “the footpath stopping up and diversion plan” means the plan certified as the footpath stopping up and diversion plan by the Secretary of State for the purposes of this Order;
+- “highway” has the same meaning as in the 1980 Act;
+- “highway authority” means Worcestershire County Council as local highway authority or any successor highway authority;
+- “implementation plan” means a written plan agreed between Network Rail and the highway authority for creation of the agreed alternative footpaths;
+- “the land plans” means the plans certified as the land plans by the Secretary of State for the purposes of this Order;
+- “the land quality report” means the land quality report certified by the Secretary of State as the land quality report for the purposes of this Order;
+- “lead local flood authority” means the North Worcestershire Water Management Team and any successor flood authority;
+- “limits of deviation” means the limits of deviation referred to in article 6;
+- “maintain” includes to inspect, repair, adjust, alter, remove, reconstruct or replace and any derivative of “maintain” is to be construed accordingly;
+- “Network Rail” means Network Rail Infrastructure Limited, company number 02904587 registered at Kings Place, 90 York Way, London N1 9AG;
+- “the noise assessment report” means the noise assessment report certified by the Secretary of State as the noise assessment report for the purposes of this Order;
+- “Order land” means the land shown on the land plans which is within the limits of land to be acquired or used and described in the book of reference;
+- “the Order limits” means the limits of deviation shown on the works plans and the limits of land to be acquired or used shown on the land plans;
+- “owner”, in relation to land, has the same meaning as in section 7 of the Acquisition of Land Act 1981[^f00012];
+- “relevant planning authority” means Bromsgrove District Council or any successor planning authority;
+- “statutory undertaker” means any statutory undertaker for the purposes of section 127(8), 128(5) or 129(2) of the 2008 Act;
+- “street” means a street within the meaning of section 48 of the 1991 Act, together with land on the verge of a street or between two carriageways, and includes part of a street;
+- “street authority”, in relation to a street, has the same meaning as in Part 3 of the 1991 Act;
+- “traffic authority”, for the purposes of article 36 (procedure in relation to further approvals etc., other than under Part 2 of Schedule 1), has the same meaning as in Part 3 of the 1991 Act;
+- “the tribunal” means the Lands Chamber of the Upper Tribunal;
+- “the visual impacts report and landscape plan/strategy” means the visual impacts report and landscape plan/strategy certified by the Secretary of State as the visual impacts report and landscape plan/strategy for the purposes of this Order;
+- “watercourse” includes all streams, ditches, drains, cuts, culverts, dykes, sluices, sewers and passages through which water flows except a public sewer or drain;
+- “the waste management plan” means the waste management plan certified by the Secretary of State as the waste management plan for the purposes of this Order; and
+- “the works plan” means the plan certified as the works plan by the Secretary of State for the purposes of this Order.
+
+(2) References in this Order to rights over land include references to rights to do, or to place and maintain, anything in, on or under land or in the airspace above its surface.
+
+(3) All distances, directions and lengths referred to in this Order are approximate and distances between points on a work comprised in the authorised development are taken to be measured along that work.
+
+(4) References in this Order to points identified by letters, with or without numbers, are to be construed as references to points so lettered on the relevant plans.
+
+(5) References in this Order to numbered works are references to the works as numbered in Part 1 of Schedule 1.
+
+### 3. Incorporation of the Railway Clauses Acts[^key-2d5faa5835812d409ec61f288741b59f]
+
+(1) The following provisions of the Railways Clauses Consolidation Act 1845[^f00013] are incorporated in this Order—
+
+- section 46 (crossing of roads – level crossings), subject to paragraph (4);
+- section 58 (company to repair roads used by them), except for the words from “and if any question” to the end;
+- section 61 (company to make sufficient approaches and fences to highways crossing on the level);
+- section 68 (accommodation works by company);
+- section 71 (additional accommodation works by owners), except for the words “or directed by such justices to be made by the company” and “or, in case of difference, as shall be authorised by two justices”;
+- sections 72 and 73 (supplementary provisions relating to accommodation works);
+- section 77 (presumption that minerals excepted from acquisition of land);
+- sections 78 to 83, 85 to 85E and Schedules 1 to 3 (minerals under railways), as respectively substituted and inserted by section 15 of the Mines (Working Facilities and Support) Act 1923[^f00014]; and
+- section 105 (carriage of dangerous goods on railway), except for the words from “and if any person” to “for every such offence”.
+
+(2) The following provisions of the Railways Clauses Act 1863[^f00015] are incorporated in this Order—
+
+- sections 5 and 7 (level crossings); and
+- section 12 (signals, watchmen etc.).
+
+(3) In those provisions, as incorporated in this Order—
+
+- “the company” means Network Rail;
+- “goods” includes any thing conveyed on the railway authorised to be constructed by this Order;
+- “lease” includes an agreement for a lease;
+- “prescribed”, in relation to any such provision means prescribed by this Order for the purposes of that provision;
+- “the railway” means any railway authorised to be constructed by this Order and any other authorised development; and
+- “the special Act” means this Order.
+
+(4) In section 46 of the Railways Clauses Consolidation Act 1845, as incorporated in this Order, for the proviso there is substituted “provided always that, with the consent of the highway authority and subject to such conditions as the authority may reasonably impose, the railway may be carried across a highway on the level”.
+
+## PART 2 — Principal powers
+
+### 4. Development consent etc. granted by the Order[^key-bb7b93a5199aa9a6301deae74492bd64]
+
+(1) Subject to the provisions of this Order and to the requirements in Part 2 (requirements) of Schedule 1 (authorised development and requirements) Network Rail is granted development consent for the authorised development to be carried out within the Order limits.
+
+(2) Subject to article 6 (limits of deviation) the authorised development comprising the numbered works in Schedule 1 may only be constructed in the lines and situations shown on the works plan and the levels shown on the section drawings.
+
+### 5. Maintenance of authorised development[^key-6b14a78fb7487eedb16ba1f448ac61ae]
+
+Network Rail may at any time maintain the authorised development, except to the extent that this Order or an agreement made under this Order provides otherwise.
+
+### 6. Limits of deviation[^key-6886ccd94292946fc89dbae15e0ae7ef]
+
+In carrying out the authorised development comprising the works numbered in Schedule 1 (authorised development and requirements), Network Rail may—
+
+- (a) deviate laterally from the lines or situations of the authorised development shown on the works plan to the extent of the limits of deviation shown on that plan; and
+- (b) deviate vertically from the levels of the authorised development shown on the section drawings—
+  - (i) to any extent not exceeding 1 metre upwards; or
+  - (ii) to any extent downwards as may be found to be necessary or convenient.
+
+### 7. Benefit of Order[^key-7465edce7b898e9a8a3b4fa3b30ee999]
+
+(1) The provisions of this Order conferring powers on Network Rail have effect solely for the benefit of Network Rail.
+
+(2) Paragraph (1)—
+
+- (a) is subject to paragraph (5) of article 17 (compulsory acquisition of rights) of this Order; and
+- (b) does not apply to the benefit of the consent granted by this Order for works for the benefit of owners and occupiers of land, statutory undertakers and other persons affected by the authorised development.
+
+## PART 3 — Streets
+
+### 8. Street works[^key-e578a54cf6c5191ce0817cfa20bb9324]
+
+(1) Network Rail may, for the purposes of the authorised development, enter on so much of any of the streets specified in Schedule 2 (streets subject to street works) as is within the Order limits and may—
+
+- (a) break up or open the street, or any sewer, drain or tunnel under it;
+- (b) tunnel or bore under the street;
+- (c) place apparatus under the street;
+- (d) maintain apparatus in the street or change its position; and
+- (e) execute any works required for or incidental to any works referred to in sub-paragraphs (a), (b), (c) and (d).
+
+(2) In this article “apparatus” has the same meaning as in Part 3 of the 1991 Act.
+
+### 9. Public rights of way[^key-3b26a4f7d848215732a454edabac7172]
+
+(1) With effect from the date of commencement, the sections of the public rights of way (being footpaths) specified in column (3) of Parts 1 and 2 of Schedule 3 (footpaths to be stopped up) and shown marked in red on the footpath stopping up and diversion plan are extinguished.
+
+(2) With effect from the date on which Work No. 1 is first open for use, an alternative section of footpath specified in column (4) of Part 1 of Schedule 3 and as shown marked by vertical zebra hatching on the footpath stopping up and diversion plan is created in accordance with the specification required by the relevant part of the implementation plan.
+
+(3) Subject to paragraph (4), with effect from the date of commencement, the sections of the public rights of way (being footpaths) described in Parts 1 and 2 of Schedule 4 (footpaths to be temporarily suspended) and shown marked in orange on the footpath stopping up and diversion plan may be temporarily suspended until the date on which Work No.1 is first open for use.
+
+(4) The sections of footpath referred to in column (3) of Part 1 of Schedule 4 may not be temporarily suspended until an alternative section of temporary footpath described in Column (4) of Part 1 of Schedule 4 and as shown marked green on the footpath stopping up and diversion plan is provided in accordance with the relevant part of the implementation plan.
+
+(5) With effect from the date on which Work No. 1 is first open for use the section of temporary alternative footpath described in Column (4) of Part 1 of Schedule 4 is to be extinguished.
+
+(6) Section 31 (withdrawal of notices to treat) of the Land Compensation Act 1961 does not apply to any part of any of the Order land that is subject to a public right of way.
+
+(7) If on the date of commencement Network Rail has not taken entry on land that formed part of a public right of way referred to in paragraph (1) or vested in itself such land then Network Rail is deemed on commencement to have taken entry onto such land for the purposes of section 11(1) of the 1965 Act.
+
+### 10. Application of the 1991 Act[^key-288521293be10ffedf173be249ff6988]
+
+(1) Works carried out under this Order in relation to a highway which consists of or includes a carriageway are to be treated for the purposes of Part 3 of the 1991 Act (street works in England and Wales) as major transport works if—
+
+- (a) they are of a description mentioned in any of paragraphs (a), (c) to (e), (g) and (h) of section 86(3) of that Act (which defines what highway authority works are major highway works); or
+- (b) they are works which, had they been executed by the highway authority, might have been carried out in exercise of the powers conferred by section 64 of the 1980 Act (dual carriageways and roundabouts).
+
+(2) The provisions of the 1991 Act mentioned in paragraph (3) (which, together with other provisions of that Act, apply in relation to the carrying out of street works) and any regulations made, or code of practice issued or approved, under those provisions apply (with the necessary modifications) in relation to the carrying out of street works under article 8 (street works) whether or not the carrying out of such works constitutes street works within the meaning of that Act.
+
+(3) The provisions of the 1991 Act referred to in paragraph (2) are—
+
+- section 54 (advance notice of certain works), subject to paragraph (4);
+- section 55 (notice of starting date of works), subject to paragraph (4);
+- section 57 (notice of emergency works);
+- section 59 (general duty of street authority to co-ordinate works);
+- section 60 (general duty of undertakers to co-operate);
+- section 68 (facilities to be afforded to street authority);
+- section 69 (works likely to affect other apparatus in the street);
+- section 76 (liability for cost of temporary traffic regulation);
+- section 77 (liability for cost of use of alternative route); and all such other provisions as apply for the purposes of the provisions mentioned above.
+
+(4) Sections 54 and 55 of the 1991 Act as applied by paragraph (2) have effect as if references in section 57 of that Act to emergency works included a reference to a stopping up, alteration or diversion (as the case may be) required in a case of emergency.
+
+### 11. Access to works[^key-5408cb203eebf096b884f1fddbb70d87]
+
+Network Rail may, for the purposes of the authorised development—
+
+- (a) form and lay out means of access, or improve existing means of access, in the locations specified in columns (1) and (2) of Schedule 5 (access to works) and shown on the access to works and traffic regulation plan; and
+- (b) with the approval of the relevant planning authority after consultation with the highway authority, form and lay out such other means of access or improve existing means of access, at such locations within the Order limits as Network Rail reasonably requires for the purposes of the authorised development.
+
+### 12. Agreements with street authorities[^key-39e0fe0790db18348dd54304da4bd373]
+
+(1) A street authority and Network Rail may enter into agreements with respect to—
+
+- (a) the construction of any new street, including any structure carrying the street over or under a railway authorised by the Order;
+- (b) the maintenance of the structure of any bridge or tunnel carrying a street over or under any authorised railway;
+- (c) any stopping up, alteration or diversion of a street under the powers conferred by this Order; or
+- (d) the carrying out in the street of any of the works referred to in article 8(1) (street works).
+
+(2) Such an agreement may, without limitation on the scope of paragraph (1)—
+
+- (a) make provision for the street authority to carry out any function under this Order which relates to the street in question;
+- (b) include an agreement between Network Rail and the street authority specifying a reasonable time for the completion of the works; and
+- (c) contain such terms as to payment and otherwise as the parties consider appropriate.
+
+## PART 4 — Supplemental powers
+
+### 13. Discharge of water[^key-34846252e66ed0c53380916e532bc670]
+
+(1) Network Rail may use any watercourse or any public sewer or drain for the drainage of water in connection with the carrying out, operation or maintenance of the authorised development and for that purpose may lay down, take up and alter pipes and may, on any land within the Order limits, make openings into, and connections with, the watercourse, public sewer or drain.
+
+(2) Any dispute arising from the making of connections to or the use of a public sewer or drain by Network Rail pursuant to paragraph (1) must be determined as if it were a dispute under section 106 of the Water Industry Act 1991[^f00016] (right to communicate with public sewers).
+
+(3) Network Rail must not discharge any water into any watercourse, public sewer or drain except with the consent of the person to whom it belongs; and such consent may be given subject to such terms and conditions as that person may reasonably impose.
+
+(4) Network Rail must not make any opening into any public sewer or drain except—
+
+- (a) in accordance with plans approved by the person to whom the sewer or drain belongs; and
+- (b) where that person has been given the opportunity to supervise the making of the opening.
+
+(5) Network Rail must not, in carrying out or maintaining works pursuant to this article, damage or interfere with the bed or banks of any watercourse forming part of a main river.
+
+(6) Network Rail must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain under the powers conferred by this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
+
+(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^key-8a2b74f09e50161803c789c4da4fc43f].
+
+(8) In this article—
+
+- (a) “public sewer or drain” means a sewer or drain which belongs to a sewerage undertaker, the Environment Agency, an internal drainage board or a local authority; and
+- (b) other expressions, excluding watercourses, used both in this article and in the Water Resources Act 1991[^f00018] have the same meaning as in that Act.
+
+### 14. Authority to survey and investigate land[^key-d805ba72ee14088c46188df34ec5c013]
+
+(1) Network Rail may for the purposes of this Order enter on any land shown within the Order limits or which may be affected by the authorised development and—
+
+- (a) survey or investigate the land;
+- (b) without limitation on the scope of sub-paragraph (a), make trial holes in such positions on the land as Network Rail thinks fit to investigate the nature of the surface layer and subsoil and remove soil samples;
+- (c) without limitation on the scope of sub-paragraph (a), carry out ecological or archaeological investigations on such land; and
+- (d) place on, leave on and remove from the land apparatus for use in connection with the survey and investigation of land and making of trial holes.
+
+(2) No land may be entered or equipment placed or left on or removed from the land under paragraph (1), unless at least 14 days’ notice has been served on every owner and occupier of the land.
+
+(3) Any person entering land under this article on behalf of Network Rail—
+
+- (a) must, if so required, before or after entering the land produce written evidence of authority to do so; and
+- (b) may take onto the land such vehicles and equipment as are necessary to carry out the survey or investigation or to make the trial holes.
+
+(4) No trial holes may be made under this article—
+
+- (a) on land located within the highway boundary without the consent of the highway authority; or
+- (b) in a private street without the consent of the street authority.
+
+(5) Network Rail must compensate the owners and occupiers of the land for any loss or damage arising by reason of the exercise of the powers conferred by this article, such compensation to be determined, in case of dispute, under Part 1 of the 1961 Act (determination of questions of disputed compensation).
+
+## PART 5 — Powers of acquisition
+
+### 15. Compulsory acquisition of land[^key-58079e3280de33d68c85af4b3300452f]
+
+(1) Network Rail may acquire compulsorily so much of the Order land as is required for the authorised development or to facilitate, or is incidental to, it.
+
+(2) This article is subject to paragraph (2) of article 17 (compulsory acquisition of rights) and paragraph (8) of article 23 (temporary use of land for carrying out the authorised development).
+
+### 16. Time limit for exercise of authority to acquire land compulsorily[^key-2aa1383b8f3a8c399f1bcf8fbe84c72c]
+
+(1) After the end of the period of 5 years beginning on the day on which the Order is made—
+
+- (a) no notice to treat may be served under Part 1 of the 1965 Act; and
+- (b) no declaration may be executed under section 4 of the 1981 Act as applied by article 19 (Application of Compulsory Purchase (Vesting Declarations) Act 1981).
+
+(2) The authority conferred by article 23 (temporary use of land for carrying out the authorised development) ceases at the end of the period referred to in paragraph (1), except that nothing in this paragraph prevents Network Rail remaining in possession of land after the end of that period, if the land was entered and possession was taken before the end of that period.
+
+### 17. Compulsory acquisition of rights[^key-011c37ca53063f03ddb2c6840cb81b67]
+
+(1) Subject to paragraph (2) Network Rail may acquire compulsorily such rights over the Order land as may be required for any purpose for which that land may be acquired under article 15 (compulsory acquisition of land) by creating them as well as by acquiring rights already in existence.
+
+(2) In the case of the Order land specified in column (1) of Schedule 6 (land in which only new rights etc., may be acquired) Network Rail’s powers of compulsory acquisition are limited to the acquisition of such new rights in the land as may be required for the purpose specified in relation to that land in column (2) of that Schedule.
+
+(3) Subject to section 8 of the 1965 Act (as substituted by paragraph 5 of Schedule 7 (modification of compensation and compulsory purchase enactments for creation of new rights) where Network Rail acquires a right over land Network Rail is not required to acquire a greater interest in that land.
+
+(4) Schedule 7 (modification of compensation and compulsory purchase enactments for creation of new rights) has effect for the purpose of modifying the enactments relating to compensation and the provisions of the 1965 Act in their application in relation to the compulsory acquisition under this article of a right over land by the creation of a new right.
+
+(5) In any case where the acquisition of new rights under paragraph (1) is required for the purpose of diverting, replacing or protecting apparatus of a statutory undertaker, Network Rail may, with the consent of the Secretary of State, transfer the power to acquire such rights to the statutory undertaker in question.
+
+(6) The exercise by a statutory undertaker of any power in accordance with a transfer under paragraph (5) is subject to the same restrictions, liabilities and obligations as would apply under this Order if that power were exercised by Network Rail.
+
+(7) Subject to paragraph (8), where the power in paragraph (5) is transferred to a statutory undertaker and the statutory undertaker—
+
+- (a) is liable to pay compensation for the exercise of that power, and
+- (b) fails to discharge that liability,
+
+the liability is enforceable against Network Rail.
+
+(8) Nothing in this article affects any agreement between Network Rail and any statutory undertaker receiving the benefit of any power under paragraph (5).
+
+### 18. Private rights[^key-29fcfd00c044a2637c8aaeac2e18ca23]
+
+(1) Subject to the provisions of this article, all private rights over land subject to compulsory acquisition under this Order are extinguished—
+
+- (a) as from the date of acquisition of the land by Network Rail, whether compulsorily or by agreement; or
+- (b) on the date of entry on the land by Network Rail under section 11(1) of the 1965 Act (power of entry),
+
+whichever is the earliest.
+
+(2) Subject to the provisions of this article, all private rights over land subject to the compulsory acquisition of rights under the Order are extinguished in so far as their continuance would be inconsistent with the exercise of the right—
+
+- (a) as from the date of the acquisition of the right by Network Rail, whether compulsorily or by agreement; or
+- (b) on the date of entry on the land by Network Rail under section 11(1) of the 1965 Act in pursuance of the right,
+
+whichever is the earliest.
+
+(3) Subject to the provisions of this article, all private rights over land owned by Network Rail which, being within the limits of land which may be acquired or used shown on the land plans and required for the purposes of this Order, are extinguished on the appropriation of the land by Network Rail for any of those purposes.
+
+(4) Subject to the provisions of this article, all private rights over land of which Network Rail takes temporary possession under this Order are suspended and unenforceable for as long as Network Rail remains in lawful possession of the land.
+
+(5) Any person who suffers loss by the extinguishment or suspension of any private right under this article is entitled to compensation in accordance with the terms of section 152 of the 2008 Act to be determined, in case of dispute, under Part 1 of the 1961 Act.
+
+(6) This article does not apply in relation to any right to which section 138 of the 2008 Act (extinguishment of rights, and removal of apparatus, of statutory undertakers etc.) or article 25 (statutory undertakers) applies.
+
+(7) Paragraphs (1) to (4) have effect subject to—
+
+- (a) any notice given by Network Rail before—
+  - (i) the completion of the acquisition of the land or the acquisition of rights over or affecting the land;
+  - (ii) Network Rail’s appropriation of it;
+  - (iii) Network Rail’s entry onto it; or
+  - (iv) Network Rail’s taking temporary possession of it,
+
+  that any or all of those paragraphs do not apply to any right specified in the notice; and
+- (b) any agreement made at any time between Network Rail and the person in or to whom the right in question is vested or belongs.
+
+(8) If any such agreement as is referred to in paragraph (7)(b)—
+
+- (a) is made with a person in or to whom the right is vested or belongs; and
+- (b) is expressed to have effect also for the benefit of those deriving title from or under that person,
+
+it is effective in respect of the persons so deriving title, whether the title was derived before or after the making of the agreement.
+
+(9) Reference in this article to private rights over land includes reference to any trusts or incidents to which the land is subject.
+
+### 19. Application of Compulsory Purchase (Vesting Declarations) Act 1981[^key-1ff6a57c3e878a976a4040909b27b80f]
+
+(1) The 1981 Act applies as if this Order were a compulsory purchase order.
+
+(2) The 1981 Act, as so applied, has effect with the following modifications.
+
+(3) In section 3 (preliminary notices) for subsection (1) there is substituted—
+
+> (1) Before making a declaration under section 4 with respect to any land which is subject to a compulsory purchase order the acquiring authority must include the particulars specified in subsection (3) in a notice which is—
+>
+> - (a) given to every person with a relevant interest in the land with respect to which the declaration is to be made (other than a mortgagee who is not in possession); and
+> - (b) published in a local newspaper circulating in the area in which the land is  situated.
+
+.
+
+(4) In that section, in subsection (2), for “(1)(b)” there is substituted “(1)” and after “given” there is inserted “and published”.
+
+(5) In that section, for subsections (5) and (6) there is substituted—
+
+> (5) For the purposes of this section, a person has a relevant interest in land if—
+>
+> - (a) that person is for the time being entitled to dispose of the fee simple of the land, whether in possession or in reversion; or
+> - (b) that person holds, or is entitled to the rents and profits of, the land under a lease or agreement, the unexpired term of which exceeds one month.
+
+.
+
+(6) In section 5 (earliest date for execution of declaration)—
+
+- (a) in subsection (1), after “publication” there is inserted “in a local newspaper circulating in the area in which the land is situated”; and
+- (b) subsection (2) is omitted.
+
+(7) In section 7 (constructive notice to treat) in subsection (1)(a), the words “(as modified by section 4 of the Acquisition of Land Act 1981)” is omitted.
+
+(8) References to the 1965 Act in the 1981 Act are to be construed as references to the 1965 Act as applied by section 125 of the 2008 Act to the compulsory acquisition of land under this Order.
+
+### 20. Acquisition of subsoil or airspace only[^key-054d7971225f196c038c3425228e569a]
+
+(1) Network Rail may acquire compulsorily so much of, or such rights in, the subsoil of or the airspace over the land referred to in article 15 (compulsory acquisition of land) as may be required for any purpose for which that land may be acquired under that provision instead of acquiring the whole of the land.
+
+(2) Where Network Rail acquires any part of or rights in the subsoil of or the airspace over land under paragraph (1), Network Rail is not required to acquire an interest in any other part of the land.
+
+(3) Paragraph (2) does not prevent article 21 (acquisition of part of certain properties) from applying where Network Rail acquires a cellar, vault, arch or other construction forming part of a house, building or manufactory.
+
+### 21. Acquisition of part of certain properties[^key-f3c1a045b02451828b9ff3b0908eee63]
+
+(1) This article applies instead of section 8(1) of the 1965 Act (other provisions as to divided land) (as applied by section 125 of the 2008 Act) where—
+
+- (a) a notice to treat is served on a person (“the owner”) under the 1965 Act (as so applied) in respect of land forming only part of a house, building or manufactory or of land consisting of a house with a park or garden (“the land subject to the notice to treat”); and
+- (b) a copy of this article is served on the owner with the notice to treat.
+
+(2) In such a case, the owner may, within the period of 21 days beginning with the day on which the notice was served, serve on Network Rail a counter-notice objecting to the sale of the land subject to the notice to treat and stating that the owner is willing and able to sell the whole (“the land subject to the counter-notice”).
+
+(3) If no such counter-notice is served within that period, the owner must sell the land subject to the notice to treat.
+
+(4) If such a counter-notice is served within that period, the question whether the owner is required to sell only the land subject to the notice to treat must, unless Network Rail agrees to take the land subject to the counter-notice, be referred to the tribunal.
+
+(5) If on such a reference the tribunal determines that the land subject to the notice to treat can be taken—
+
+- (a) without material detriment to the remainder of the land subject to the counter-notice; or
+- (b) in the case of part of land consisting of a house with a park or garden, without material detriment to the remainder of the land subject to the counter-notice and without seriously affecting the amenity and convenience of the house,
+
+the owner must sell the land subject to the notice to treat.
+
+(6) If on such a reference the tribunal determines that only part of the land subject to the notice to treat can be taken—
+
+- (a) without material detriment to the remainder of the land subject to the counter-notice; or
+- (b) in the case of part of land consisting of a house with a park or garden, without material detriment to the remainder of the land subject to the counter-notice and without seriously affecting the amenity and convenience of the house,
+
+the notice to treat is deemed to be a notice to treat for that part.
+
+(7) If on such a reference the tribunal determines that—
+
+- (a) the land subject to the notice to treat cannot be taken without material detriment to the remainder of the land subject to the counter-notice; but
+- (b) the material detriment is confined to a part of the land subject to the counter-notice,
+
+the notice to treat is deemed to be a notice to treat for the land to which the material detriment is confined in addition to the land already subject to the notice, whether or not the additional land is land which Network Rail is authorised to acquire compulsorily under this Order.
+
+(8) If Network Rail agrees to take the land subject to the counter-notice, or if the tribunal determines that—
+
+- (a) none of the land subject to the notice to treat can be taken without material detriment to the remainder of the land subject to the counter-notice or, as the case may be, without material detriment to the remainder of the land subject to the counter-notice and without seriously affecting the amenity and convenience of the house; and
+- (b) the material detriment is not confined to a part of the land subject to the counter-notice,
+
+the notice to treat is deemed to be a notice to treat for the land subject to the counter-notice whether or not the whole of that land is land which Network Rail is authorised to acquire compulsorily under this Order.
+
+(9) Where by reason of a determination by the tribunal under this article a notice to treat is deemed to be a notice to treat for less land or more land than that specified in the notice, Network Rail may, within the period of 6 weeks beginning with the day on which the determination is made, withdraw the notice to treat; and if it does so must pay the owner compensation for any loss or expense occasioned to the owner by the giving and withdrawal of the notice, to be determined in case of dispute by the tribunal.
+
+(10) Where the owner is required under this article to sell only part of a house, building or manufactory or of land consisting of a house with a park or garden, Network Rail must pay the owner compensation for any loss sustained by the owner due to the severance of that part in addition to the value of the interest acquired.
+
+### 22. Rights under or over streets[^key-a1db1f7a4071e7b5f7c7d396ab65b271]
+
+(1) Network Rail may enter upon and appropriate so much of the subsoil of, or airspace over, any street within the Order limits as may be required for the purposes of the authorised development and may use the subsoil or air-space for those purposes or any other purpose ancillary to the authorised development.
+
+(2) Subject to paragraph (3), Network Rail may exercise any power conferred by paragraph (1) in relation to a street without Network Rail being required to acquire any part of the street or any easement or right in the street.
+
+(3) Paragraph (2) does not apply in relation to—
+
+- (a) any subway or underground building; or
+- (b) any cellar, vault, arch or other construction in, on or under a street which forms part of a building fronting onto the street.
+
+(4) Subject to paragraph (5), any person who is an owner or occupier of land in respect of which the power of appropriation conferred by paragraph (1) is exercised without Network Rail acquiring any part of that person’s interest in the land, and who suffers loss by the exercise of that power, is entitled to compensation to be determined, in case of dispute, under Part 1 of the 1961 Act.
+
+(5) Compensation is not payable under paragraph (4) to any person who is an undertaker to whom section 85 of the 1991 Act applies in respect of measures of which the allowable costs are to be borne in accordance with that section.
+
+### 23. Temporary use of land for carrying out the authorised development[^key-d1d31ea93f8b73871fb282c8e611a9d4]
+
+(1) Network Rail may, in connection with the carrying out of the authorised development—
+
+- (a) enter on and take temporary possession of—
+  - (i) the land specified in columns (1) and (2) of Schedule 8 (land of which temporary possession may be taken) for the purpose specified in relation to that land in column (3) of that Schedule relating to the part of the authorised development specified in column (4) of that Schedule; and
+  - (ii) any other Order land in respect of which no notice of entry has been served under section 11 of the 1965 Act (other than in connection with the acquisition of rights only) and no declaration has been made under section 4 of the 1981 Act;
+- (b) remove any buildings and vegetation from that land;
+- (c) construct temporary works (including the provision of means of access), security fencing and buildings on that land; and
+- (d) construct any works specified in relation to that land in column 3 of Schedule 8, or any other mitigation works.
+
+(2) Not less than 28 days before entering on and taking temporary possession of land under this article Network Rail must serve notice of the intended entry on the owners and occupiers of the land.
+
+(3) Network Rail may not, without the agreement of the owners of the land, remain in possession of any land under this article—
+
+- (a) in the case of land specified in paragraph (1)(a)(i), after the end of the period of one year beginning with the date of completion of the part of the authorised development specified in relation to that land in column (4) of Schedule 8; or
+- (b) in the case of any land referred to in paragraph (1)(a)(ii), after the end of the period of one year beginning with the date of completion of the work for which temporary possession of the land was taken unless Network Rail has, before the end of that period, served a notice of entry under section 11 of the 1965 Act or made a declaration under section 4 of the 1981 Act in relation to that land.
+
+(4) Before giving up possession of land of which temporary possession has been taken under this article, Network Rail must remove all temporary works and restore the land to the reasonable satisfaction of the owners of the land; but Network Rail is not required to—
+
+- (a) replace a building removed under this article;
+- (b) restore the land on which any works have been constructed under paragraph (1)(d) if the owners and any occupiers consent to the works remaining; or
+- (c) remove any ground strengthening works which have been placed on the land to facilitate construction of the authorised development.
+
+(5) Network Rail must pay compensation to the owners and occupiers of land of which temporary possession is taken under this article for any loss or damage arising from the exercise in relation to the land of the provisions of this article.
+
+(6) Any dispute as to a person’s entitlement to compensation under paragraph (5), or as to the amount of the compensation, is to be determined under Part 1 of the 1961 Act.
+
+(7) Nothing in this article affects any liability to pay compensation under section 152 of the 2008 Act (compensation in case where no right to claim in nuisance) or under any other enactment in respect of loss or damage arising from the carrying out of the authorised development, other than loss or damage for which compensation is payable under paragraph (5).
+
+(8) Network Rail may not compulsorily acquire under this Order the land referred to in paragraph (1)(a)(i) except that Network Rail is not precluded from—
+
+- (a) acquiring new rights over any part of that land under article 17 (compulsory acquisition of rights); or
+- (b) acquiring any part of the subsoil of or airspace over (or rights in the subsoil or of airspace over) that land under article 20 (acquisition of subsoil or airspace only).
+
+(9) Where Network Rail takes possession of land under this article, Network Rail is not required to acquire the land or any interest in it.
+
+(10) Section 13 of the 1965 Act (refusal to give possession to acquiring authority) applies to the temporary use of land pursuant to this article to the same extent as it applies to the compulsory acquisition of land under this Order by virtue of section 125 of the 2008 Act (application of compulsory acquisition provisions).
+
+### 24. Temporary use of land for maintaining authorised development[^key-2f82cf24e7459efec65b85f169372ce1]
+
+(1) Subject to paragraph (2), at any time during the maintenance period relating to any of the authorised development, Network Rail may—
+
+- (a) enter upon and take temporary possession of any Order land if such possession is reasonably required for the purpose of maintaining the authorised development; and
+- (b) construct such temporary works (including the provision of means of access) and buildings on the land as may be reasonably necessary for that purpose.
+
+(2) Paragraph (1) does not authorise Network Rail to take temporary possession of—
+
+- (a) any house or garden belonging to a house; or
+- (b) any building (other than a house) if it is for the time being occupied.
+
+(3) Not less than 28 days before entering upon and taking temporary possession of land under this article Network Rail must serve notice of the intended entry on the owners and occupiers of the land.
+
+(4) Network Rail may only remain in possession of land under this article for so long as may be reasonably necessary to carry out the maintenance of the part of the authorised development for which possession of the land was taken.
+
+(5) Before giving up possession of land of which temporary possession has been taken under this article, Network Rail must remove all temporary works and restore the land to the reasonable satisfaction of the owners of the land.
+
+(6) Network Rail must pay compensation to the owners and occupiers of land of which temporary possession is taken under this article for any loss or damage arising from the exercise in relation to the land of the powers conferred by this article.
+
+(7) Any dispute as to a person’s entitlement to compensation under paragraph (6), or as to the amount of the compensation, must be determined under Part 1 of the 1961 Act.
+
+(8) Nothing in this article affects any liability to pay compensation under section 152 of the 2008 Act (compensation in case where no right to claim in nuisance) or under any other enactment in respect of loss or damage arising from the execution of any works, other than loss or damage for which compensation is payable under paragraph (6).
+
+(9) Where Network Rail takes possession of land under this article, it is not required to acquire the land or any interest in it.
+
+(10) Section 13 of the 1965 Act (refusal to give possession to the acquiring authority) applies to the temporary use of land pursuant to this article to the same extent as it applies to the compulsory acquisition of land under this Order by virtue of section 125 of the 2008 Act (application of compulsory acquisition provisions).
+
+(11) In this article “the maintenance period”, in relation to any part of the authorised development means the period of 5 years beginning with the date on which that part of the authorised development is first opened for use.
+
+### 25. Statutory undertakers and electronic communications code network operators[^key-7a5a7a3937ce447184faf111da5f1c37]
+
+Subject to the provisions of Schedule 10 (protective provisions), Network Rail may—
+
+- (a) acquire compulsorily, or acquire new rights over the land belonging to statutory undertakers and electronic communications code network operators shown on the land plans within the limits of the land to be acquired or used and described in the book of reference; and
+- (b) extinguish the rights of, remove or reposition the apparatus belonging to statutory undertakers and electronic communications code network operators over or within the Order land.
+
+### 26. Recovery of costs of new connections[^key-b85ad9096209113ab4686b2e248bef5b]
+
+(1) Where any apparatus of a public utility undertaker or of a public communications provider is removed under article 25 (statutory undertakers) any person who is the owner or occupier of premises to which a supply was given from that apparatus is entitled to recover from Network Rail compensation in respect of expenditure reasonably incurred by that person, in consequence of the removal, for the purpose of effecting a connection between the premises and any other apparatus from which a supply is given.
+
+(2) Paragraph (1) does not apply in the case of the removal of a public sewer but where such a sewer is removed under article 25, any person who is—
+
+- (a) the owner or occupier of premises the drains of which communicated with that sewer; or
+- (b) the owner of a private sewer which communicated with that sewer,
+
+is entitled to recover from Network Rail compensation in respect of expenditure reasonably incurred by that person, in consequence of the removal, for the purpose of making the drain or sewer belonging to that person communicate with any other public sewer or with a private sewerage disposal plant.
+
+(3) In this article—
+
+- “public communications provider” has the same meaning as in section 151(1) of the Communications Act 2003; and
+- “public utility undertaker” has the same meaning as in the 1980 Act.
+
+## PART 6 — Operations
+
+### 27. Operation and use of railways[^key-6cbef895ca78c70ddd181edcaadd58a4]
+
+(1) Network Rail may operate and use the railway and any other elements of the authorised development as a system, or part of a system, of transport for the carriage of passengers and goods.
+
+(2) Nothing in this Order, or in any enactment incorporated with or applied by this Order, affects the operation of Part 1 of the Railways Act 1993[^f00019] (the provision of railway services).
+
+### 28. Felling or lopping of trees[^key-44df6d722baf68ccc82c54ae53158cf9]
+
+(1) Network Rail may fell or lop any tree or shrub within or overhanging land within the Order limits or cut back its roots, if it reasonably believes it to be necessary to do so to prevent the tree or shrub—
+
+- (a) from obstructing or interfering with the construction, maintenance or operation of the authorised development or any apparatus used in connection with the authorised development; or
+- (b) from constituting a danger to passengers or other persons using the authorised development.
+
+(2) In carrying out any activity authorised by paragraph (1), Network Rail may do no unnecessary damage to any tree or shrub and must pay compensation to any person for any loss or damage arising from such activity.
+
+(3) Any dispute as to a person’s entitlement to compensation under paragraph (2), or as to the amount of compensation, must be determined under Part 1 of the 1961 Act.
+
+## PART 7 — Miscellaneous and general
+
+### 29. Operational land for purposes of the 1990 Act[^key-c71a96350302422f757d9576499fcb1b]
+
+Development consent granted by this Order is to be treated as specific planning permission for the purposes of section 264(3)(a) of the 1990 Act (cases in which land is to be treated as operational land for the purposes of that Act).
+
+### 30. Defence to proceedings in respect of statutory nuisance[^key-538ea6fdfc88dd8ea794e3c70f355918]
+
+(1) Where proceedings are brought under section 82(1) of the Environmental Protection Act 1990[^f00020] (summary proceedings by person aggrieved by statutory nuisance) in relation to a nuisance falling within paragraph (g) of section 79(1) of that Act (noise emitted from premises so as to be prejudicial to health or a nuisance) no order may be made, and no fine may be imposed, under section 82(2) of that Act if—
+
+- (a) the defendant shows that the nuisance—
+  - (i) relates to premises used by Network Rail for the purposes of or in connection with the construction or maintenance of the authorised development and that the nuisance is attributable to the carrying out of the authorised development in accordance with a notice served under section 60 (control of noise on construction site), or a consent given under section 61 (prior consent for work on construction site) or section 65 (noise exceeding registered level), of the Control of Pollution Act 1974[^f00021]; or
+  - (ii) is a consequence of the construction or maintenance of the authorised development and that it cannot reasonably be avoided; or
+- (b) the defendant shows that the nuisance is a consequence of the use of the authorised development and that it cannot be reasonably avoided.
+
+(2) Section 61(9) (consent for work on construction site to include statement that it does not of itself constitute a defence to proceedings under section 82 of the Environmental Protection Act 1990) of the Control of Pollution Act 1974 and section 65(8) of that Act (corresponding provision in relation to consent for registered noise level to be exceeded), does not apply where the consent relates to the use of premises by Network Rail for the purposes of or in connection with the construction or maintenance of the authorised development.
+
+### 31. Traffic regulation[^key-227a28ad38fa133505b3a5f4adaeb6ef]
+
+(1) Subject to the provisions of this article, and the consent of the traffic authority in whose area the road concerned is situated, Network Rail may, at any time for the purposes of the construction of the authorised development permit or prohibit vehicular access in the manner specified in Schedule 9 (traffic regulation) on those roads specified in column (1) and to the extent otherwise described in column (2) of that Schedule.
+
+(2) Without limitation on the scope of the specific powers conferred by paragraph (1) but subject to the provisions of this article and the consent of the traffic authority in whose area the road concerned is situated, Network Rail may, in so far as may be expedient or necessary for the purposes of or in connection with construction of the authorised development, at any time prior to the opening of the authorised development for use—
+
+- (a) revoke, amend or suspend in whole or in part any order made, or having effect as if made, under the 1984 Act;
+- (b) permit, prohibit or restrict the stopping, parking, waiting, loading or unloading of vehicles on any road;
+- (c) authorise the use as a parking place of any road;
+- (d) make provision as to the direction or priority of vehicular traffic on any road; and
+- (e) permit or prohibit vehicular access to any road,
+
+either at all times or at times, on days or during such periods as may be specified by Network Rail.
+
+(3) Network Rail must not exercise the powers of paragraphs (1) and (2) unless it has—
+
+- (a) given not less than 4 weeks’ notice in writing of its intention to do so to the chief officer of police and to the traffic authority in whose area the road is situated; and
+- (b) advertised its intention in such manner as the traffic authority may specify in writing within 7 days of its receipt of notice of Network Rail’s intention in the case of sub-paragraph (a).
+
+(4) Any prohibition, restriction or other provision made by Network Rail under paragraph (1) or (2)—
+
+- (a) has effect as if duly made by, as the case may be—
+  - (i) the traffic authority in whose area the road is situated as a traffic regulation order under the 1984 Act; or
+  - (ii) the local authority in whose area the road is situated as an order under section 32 of the 1984 Act,
+
+and the instrument by which it is effected may specify savings and exemptions (in addition to those mentioned in Schedule 9 (traffic regulation)) to which the prohibition, restriction or other provision is subject; and
+
+- (b) is deemed to be a traffic order for the purposes of Schedule 7 to the Traffic Management Act 2004[^f00022] (road traffic contraventions subject to civil enforcement).
+
+(5) Any prohibition, restriction or other provision made under this article may be suspended, varied or revoked by Network Rail from time to time by subsequent exercise of the powers conferred by paragraph (2) at any time prior to the opening of the authorised development for use.
+
+(6) Before complying with the provisions of paragraph (3) Network Rail must consult the chief officer of police and the traffic authority in whose area the road is situated.
+
+(7) Expressions used in this article and in the 1984 Act have the same meaning in this article as in that Act.
+
+### 32. Application of the Land Compensation Act 1973[^key-fe56074deff0c3c9b6d7006a3c1a5bd1]
+
+(1) Any regulations made by the Secretary of State under section 20 (sound proofing of buildings affected by public works) and 20A (power to make payments in respect of caravans and other structures affected by noise of public works) of the Land Compensation Act 1973[^f00023] which apply to a railway provided or used in the exercise of statutory powers apply to the railway comprised in the authorised development as if that railway was provided or used in the exercise of statutory powers.
+
+(2) Section 28 (power to pay expenses) of the Land Compensation Act 1973 has effect as if any works comprised in the authorised development were public works for the purposes of that section.
+
+### 33. Certification of plans, etc.[^key-5992399a2c075abaffca446c3bec4fcf]
+
+(1) Network Rail must, as soon as practicable after the making of this Order, submit to the Secretary of State copies of—
+
+- (a) the access to works and traffic regulation plan;
+- (b) the book of reference;
+- (c) the design drawings;
+- (d) the environmental reports;
+- (e) the footpath stopping up and diversion plan;
+- (f) the land plans; and
+- (g) the works plan
+
+for certification that they are true copies of the documents referred to in this Order.
+
+(2) A plan or document so certified is admissible in any proceedings as evidence of the contents of the document of which it is a copy.
+
+### 34. Service of notices[^key-01b2ba926a04debba457abab026a9f32]
+
+(1) A notice or other document required or authorised to be served for the purposes of this Order may be served—
+
+- (a) by post;
+- (b) by delivering it to the person on whom it is to be served or to whom it is to be given or supplied; or
+- (c) with the consent of the recipient and subject to paragraphs (6) to (8) by electronic transmission.
+
+(2) Where the person on whom a notice or other document to be served for the purposes of this Order is a body corporate, the notice or document is duly served if it is served on the secretary or clerk of that body.
+
+(3) For the purposes of section 7 of the Interpretation Act 1978[^f00024] as it applies for the purposes of this article, the proper address of any person in relation to the service on that person of a notice or document under paragraph (1) is, if that person has given an address for service, that address, and otherwise—
+
+- (a) in the case of the secretary or clerk of a body corporate, the registered or principal office of that body; and
+- (b) in any other case, the last known address of that person at the time of service.
+
+(4) Where for the purposes of this Order a notice or other document is required or authorised to be served on a person as having any interest in, or as the occupier of, land and the name or address of that person cannot be ascertained after reasonable enquiry, the notice may be served by—
+
+- (a) addressing it to that person by name or by the description of “owner”, or as the case may be “occupier”, of the land (describing it); and
+- (b) either leaving it in the hands of a person who is or appears to be resident or employed on the land or leaving it conspicuously affixed to some building or object on or near the land.
+
+(5) Where a notice or other document required to be served or sent for the purposes of this Order is served or sent by electronic transmission the requirement may be taken to be fulfilled only where—
+
+- (a) the recipient of the notice or other document to be transmitted has given consent to the use of electronic transmission in writing or by electronic transmission;
+- (b) the notice or document is capable of being accessed by the recipient;
+- (c) the notice or document is legible in all material respects; and
+- (d) the notice or document is in a form sufficiently permanent to be used for subsequent reference.
+
+(6) Where the recipient of a notice or other document served or sent by electronic transmission notifies the sender within 7 days of receipt that the recipient requires a paper copy of all or part of that notice or other document the sender must provide such a copy as soon as reasonably practicable.
+
+(7) Any consent to the use of electronic communication given by a person may be revoked by that person in accordance with paragraph (8).
+
+(8) Where a person is no longer willing to accept the use of electronic transmission for any of the purposes of this Order—
+
+- (a) that person must give notice in writing or by electronic transmission revoking any consent given by that person for that purpose; and
+- (b) such revocation is final and takes effect on a date specified by the person in the notice but that date must not be less than 7 days after the date on which the notice is given.
+
+(9) This article must not be taken to exclude the employment of any method of service not expressly provided for by it.
+
+(10) In this article “legible in all material respects” means that the information contained in the notice or document is available to that person to no lesser extent than it would be if served, given or supplied by means of a notice or document in printed form.
+
+### 35. Arbitration[^key-e77f74e73600a31b10161cc3127661e3]
+
+Except where otherwise expressly provided for in this Order and unless otherwise agreed between the parties, any difference under any provision of this Order (other than a difference which falls to be determined by the tribunal) must be referred to and settled by a single arbitrator to be agreed between the parties or, failing agreement, to be appointed on the application of either party (after notice in writing to the other) by the President of the Institution of Civil Engineers.
+
+### 36. Procedure in relation to further approvals, etc., other than under Part 2 of Schedule 1[^key-44f71dea63f56bcea68a4ffe7a9d4045]
+
+(1) In this article—
+
+- “plans” includes sections, drawings, specifications and particulars (including descriptions of methods of construction).
+
+(2) Where an application is made to the relevant planning authority, the highway authority, or the highway authority acting in the capacity of street authority or traffic authority, for any consent, agreement or approval required under any of the provisions of this Order (other than under Part 2 (requirements) of Schedule 1 (authorised development and requirements)) such application must, where appropriate, be accompanied by proper and sufficient plans of the proposal and such consent, agreement or approval must, if given, be in writing and may be given subject to such reasonable terms and conditions as the authority may require and may not be unreasonably withheld.
+
+(3) If, within 28 days after the application has been submitted to the authority in accordance with this article, it has not intimated its disapproval and the grounds of disapproval, the authority is deemed to have approved the content of the application.
+
+(4) In the event of any refusal or disapproval by the authority, Network Rail may resubmit a revised application, or revised plans in support of the original application, and, in that event, if the authority has not intimated its refusal or disapproval and the grounds of refusal or disapproval within 28 days of the revised application or of revised plans being submitted, it is deemed to have given its consent or agreement to, or its approval of, the revised application or plans.
+
+(5) Network Rail must not carry out the proposal until such plans have been approved (or deemed to have been approved) or settled by arbitration.
+
+(6) Where an application is made to the owner of a sewer or drain for any consent or approval required under article 13 (discharge of water), such consent or approval may not be unreasonably withheld or delayed.
+
+### 37. Further provisions, as to approvals, etc, under Part 2 of Schedule 1[^key-2b85baf4fd72bb11fd2dbf26b2d29680]
+
+(1) Where the application is for a consent, agreement or approval required by a requirement under Part 2 (requirements) of Schedule 1 (authorised development and requirements), the following provisions apply, so far as they relate to a consent agreement or approval of a local planning authority required by a condition imposed on a grant of planning permission, as if the requirement was a condition imposed on the grant of a planning permission—
+
+- (a) sections 78 (other than paragraph (a) of subsection (2)) and 79 of the 1990 Act (right of appeal in relation to planning decisions);
+- (b) any orders, rules or regulations which make provision in relation to a consent, agreement or approval of a local planning authority required by a condition imposed on the grant of planning permission.
+
+(2) For the purposes of paragraph (1), a provision relates to a consent, agreement or approval of a local planning authority required by a condition imposed on a grant of planning permission in so far as it makes provision in relation to an application for such a consent, agreement or approval, or the grant or refusal of such an application, or a failure to give notice of a decision on such an application.
+
+### 38. Protective provisions[^key-a1d312ff3cb66f59dc153372e2401d1e]
+
+Schedule 10 (protective provisions) has effect.
+
+### 39. Saving for regulated rights, etc.[^key-c21096bdc881f103556f46072307eacc]
+
+Nothing in this Order affects any estate, right or interest granted by Network Rail in respect of a railway facility which is subject to an access contract within the meaning of Part 1 of the Railways Act 1993.
+
+Signed by authority of the Secretary of State for Transport
+
+Martin Woods
+
+Head of the Transport and Works Act Orders Unit
+
+Department for Transport
+
+31st October 2013
+
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT AND REQUIREMENTS
+
+Article 4
+
+### PART 1 — AUTHORISED DEVELOPMENT[^key-e00594da6cbe0ab15c91a797ffea56cc]
+
+A nationally significant infrastructure project as defined in sections 14 and 25 of the 2008 Act comprising:
+
+#### In the county of Worcestershire, district of Bromsgrove
+
+- **Work No. 1** – the construction of a new permanent railway commencing at ordnance survey national grid reference point SP4021 2726, being a point 420 metres north of the over bridge of the highway of Station Road, Alvechurch, over the Barnt Green to Redditch Railway and running southwards parallel to the existing Barnt Green to Redditch Railway for 3470 metres before terminating at ordnance survey national grid reference point SP4036 2692, being a point 10 metres north of the under bridge carrying the Barnt Green to Redditch Railway over the highway of Weights Lane, Redditch; including permanent way (rail tracks), railway switch and crossing track.
+
+  Work No. 1 includes widening the existing embankment carrying the Barnt Green to Redditch Railway on its eastern and western sides supported in part by gabion basket retaining walls; extensions to culverts under the Barnt Green to Redditch Railway; the widening of existing cuttings, in part, with retaining walls; and the reconstruction of culverts.
+
+  Associated development within the meaning of section 115(2) of the 2008 Act (development for which development consent may be granted) and within Order limits
+
+  comprising –
+- **Work No. 2** – construction of a new station platform to the west of the existing station platform at Alvechurch Railway station and immediately to the south of the over bridge of the highway of Station Road, Alvechurch, over the Barnt Green to Redditch Railway, at ordnance survey national grid reference point SP4023 2721 including the construction of fences, lighting columns and shelters;
+- **Work No. 3** – construction of a new footbridge to connect from the existing platform at Alvechurch Railway station to Work No.2, at ordnance survey national grid reference point SP4023 2721 including stairs and lift accesses to the bridge from both the existing platform and from Work No 2;
+- **Work No. 4** - construction of a diverted route for public footpath 579(C) commencing at ordnance survey national grid reference point SP 02282 71974, being a point on the existing alignment of footpath 579(C) approximately 14 metres to the south west of the southern end of the existing Alvechurch railway station platform, and proceeding northwards and then eastwards towards the railway for a length of 88 metres to ordnance survey national grid reference point SP 02277 72055, being a point providing access to Work No. 3;
+- **Work No. 5** - construction of a diverted route for public footpath 579(C) commencing at ordnance survey national grid reference point SP 02288 72092, being a point on the existing Alvechurch Railway station platform where the diverted footpath connects with Work No. 3, and proceeding southwards for 104 metres to join the existing alignment of footpath 579(C) at ordnance survey national grid reference point SP 02305 71990;
+- **Work No.5a** – construction of a temporary footpath (including temporary bridge over stream) commencing at ordnance survey national grid reference point SP 0230 7182, being a point to the south of the existing Alvechurch Railway station platform, and proceeding southwards for 15 metres to join the existing alignment of footpath 520(C) at ordnance survey national grid reference point SP 0230 7181;
+- **Work No. 6** – A signal equipment building to be used to house signalling and telecommunications equipment together with its hardstanding, access and compound to the west of the existing Barnt Green to Redditch Railway to the north of Alvechurch Railway station at ordnance survey national grid reference point SP 4022 2722;
+- **Work No. 7** - A signal equipment building to be used to house signalling and telecommunications equipment together with its hardstanding, access and compound to the west of the existing Barnt Green to Redditch Railway at Butler’s Wood, at ordnance survey national grid reference point SP4029 2701;
+- **Work No. 8** - a permanent access road commencing on the western side of the Barnt Green to Redditch Railway at a point to the north east of Weights Lane, Redditch, at ordnance survey national grid reference SP 0332 6963, and proceeding parallel to the railway on its western side for 127 metres north-west to ordinance survey national grid reference SP 0325 6973, then turning south-west for 135 metres to join the existing track north of Weights Lane at ordnance survey national grid reference point SP 0317 6963;
+
+  and in connection with such works further associated development within the Order limits consisting of –
+
+  - (a) electrical equipment, power supply cubicles, cables, telecommunications cables and equipment and signalling works;
+  - (b) ramps, means of access (including temporary haul roads) and construction compounds;
+  - (c) embankment, aprons, abutments, shafts, foundations, retaining walls, drainage, wing walls, fences and culverts;
+  - (d) works to alter the position of apparatus, including mains, sewers, drains and cables;
+  - (e) works to interfere with a water course other than a navigable water course;
+  - (f) landscaping and other works (including the creation of ponds) to mitigate any adverse effects of the construction, maintenance or operation of the authorised development as are described in the visual impacts report and landscape plans/strategy and the ecological impact assessment report;
+  - (g) works for the benefit or protection of land affected by the authorised development;
+  - (h) works required for the strengthening, improvement, maintenance or reconstruction of any streets;
+  - (i) works for the temporary diversion of public footpaths shown in the footpath stopping up and diversion plan; and
+  - (j) such other works, including working sites and works compounds as may be necessary or expedient for the purposes of or in connection with the construction of the authorised development and which fall within the scope of the environmental reports.
+
+### PART 2 — REQUIREMENTS
+
+Article 4
+
+#### 1. Interpretation[^key-4d1ad65a76e861278a0f64bb39e85ae5]
+
+In this Part of this Schedule—
+
+- “the CR-E” means Network Rail’s Contract Requirements – Environment, Issue 6, September 2011;
+- “culvert 11” means the culvert referred to as culvert 11 on the engineering plans including existing services and new services, drainage and surface water management;
+- “culvert 13” means the culvert referred to as culvert 13 on the engineering plans including existing services and new services, drainage and surface water management;
+- “the Historic Environment Planning Officer” means the Historic Environment Planning Officer for the County of Worcestershire; and
+- “operational railway land” means land required permanently for the construction of Work No. 1 and any existing railway corridor including associated works, structures, embankments, cuttings, bridges and culverts.
+
+#### 2. Time limits[^key-b91cca93d66fb7950e64a03d912dfca9]
+
+The authorised development must be commenced within 5 years of the date of this Order.
+
+#### 3. Development in accordance with approved details[^key-99756f2d692e4eb1ad8b6d8c2f61d284]
+
+(1) The authorised development must be carried out in accordance with the design drawings.
+
+(2) Work No.2 and Work No.3 must be carried out in accordance with the Alvechurch station general arrangement drawings, except for any minor amendments to the appearance, layout, scale or landscaping of those works approved by the relevant planning authority prior to commencement of those works.
+
+#### 4. Construction Environmental Management Plan[^key-0939c5746e8636a09eb4f70a415e499a]
+
+(1) The authorised development must not be commenced until a written construction environmental management plan (CEMP) has been submitted to and approved by the relevant planning authority in consultation with the Health Protection Agency.
+
+(2) The CEMP must be in accordance with the environmental reports.
+
+(3) The CEMP must reflect the CR-E, and must include an implementation timetable.
+
+(4) The CEMP must in particular include the following:
+
+- (a) an external communications plan;
+- (b) a pollution incident prevention and control plan;
+- (c) a site waste management plan;
+- (d) a traffic management plan including a construction traffic code of practice;
+- (e) a nuisance management plan regarding noise and vibration, dust, air pollution and lighting; and
+- (f) an ecological management plan.
+
+(5) The construction traffic code of practice under (4)(d) must in particular address:
+
+- (a) construction traffic routes and operational hours;
+- (b) measures to minimise dust and mud;
+- (c) abnormal loads; and
+- (d) compliance of drivers with national driving standards and project-specific restrictions.
+
+(6) The CEMP must in particular require:
+
+- (a) adherence to the relevant Pollution Prevention Guidelines PPG1, PPG5, PPG6 and PPG21;
+- (b) except on operational railway land (to which no restriction on working hours applies under this Order), adherence to—
+  - (i) normal daytime working hours (7am to 6pm Monday to Friday and 8am to 2pm on Saturday), and
+  - (ii) no working on Sundays, Bank or Public Holidays
+
+  except for such working outside those times which has been notified to the relevant planning authority and affected residents by an agreed notification procedure in compliance with Section 61 of the Control of Pollution Act 1974 and in full accordance with the nuisance management plan; and
+- (c) adherence to the scheme of temporary footpaths as approved by the highway authority under requirement 18(1)(d).
+
+(7) The authorised development must be carried out in accordance with the approved CEMP and the CR-E.
+
+#### 5. Landscaping[^key-59dd38fb60f0ef447722296562b69675]
+
+(1) The authorised development must not be commenced until a written landscaping scheme reflecting the visual impacts report and landscape plan/strategy has been submitted to and approved by the relevant planning authority.
+
+(2) The landscaping scheme must reflect the mitigation measures described in the visual impacts report and landscape plan/strategy and must include details of—
+
+- (a) location, number, species, size and planting density of any proposed planting;
+- (b) cultivation, importing of materials and other operations to ensure plant establishment;
+- (c) implementation timetables for all landscaping; and
+- (d) proposals to take account of the presence of trees with trunks of a diameter of 100 mm or more and to minimise the loss of such trees.
+
+#### 6. Implementation and maintenance of landscaping[^key-4d959c22f7fd1df939e0db64a5791394]
+
+(1) All landscaping work must be carried out in accordance with the scheme and implementation timetable approved under requirement 5.
+
+(2) Any tree or shrub planted as part of an approved landscaping scheme that, within a period of five years after planting, is removed, dies or becomes, in the opinion of the relevant planning authority, seriously damaged or diseased, must be replaced in the first available planting season with a specimen of the same species and size as that originally planted, unless the relevant planning authority gives written consent to any variation.
+
+#### 7. Re-use of excavated materials[^key-38bad562626095f3c0a76cf504750911]
+
+The authorised development must not be commenced until Network Rail has agreed with the relevant planning authority a scheme for the recovery and re-use of excavated material in accordance with principles set out in section 4 of the waste management plan. The scheme must in particular have regard to the principles set out in paragraph 4.1 of the waste management plan.
+
+#### 8. Highway accesses[^key-e66b849086b144ffb0d1e8ef4704a21f]
+
+No part of the works numbered in Part 1 of Schedule 1 may commence until—
+
+- (a) for that part details of the siting, design and layout of any new or altered, permanent or temporary, access, and any temporary haul roads, have, after consultation with the relevant planning authority and highway authority, been submitted to and approved by the relevant planning authority; and
+- (b) the approved highway alterations and improvements, including any altered or new accesses and any temporary haul roads, for that part have been implemented.
+
+#### 9. Car parking at Alvechurch station[^key-b56296cc21d968926c6e2551af0af6d0]
+
+No part of the authorised development relating to Alvechurch station may be commenced until a schedule of works required at Alvechurch station car park to provide a facility for the parking of 50 cars (minimum) has been submitted to and approved by the relevant planning authority. The works must be carried out as approved.
+
+#### 10. Archaeology[^key-51975433e5a99b72fc8fc3ec59763602]
+
+(1) The authorised development must not be commenced until a written scheme for the investigation of any areas of archaeological interest identified by the archaeological and historic impact assessment report has, after consultation with the Historic Environment Planning Officer, been submitted to and approved by the relevant planning authority.
+
+(2) The scheme must be in accordance with the measures described in paragraph 4.2.1 of the archaeological and historic impact assessment report and must identify areas where field work or a watching brief is required and the measures to be taken to protect, record or preserve any significant archaeological remains that may be found.
+
+(3) The scheme must include a programme for post-investigation assessment and make provision for the publication and dissemination and for the archive deposition of the analysis and records of the site investigation.
+
+(4) Any archaeological works or watching brief carried out under the scheme must be by a suitably qualified person or body approved by the relevant planning authority and in accordance with the measures described in paragraph 4.2.1 of the archaeological and historic impact assessment report.
+
+(5) Any archaeological works or watching brief must be carried out in accordance with the approved scheme.
+
+(6) The site investigation and post-investigation assessment must be completed in accordance with the programme set out in the approved written scheme of investigation and the provision made for analysis, publication and dissemination of results and archive deposition has been secured.
+
+#### 11. Ecological Management[^key-087f1d9b8b414077ecf94eeb8fc799bf]
+
+(1) No part of the authorised development may be commenced until a written ecological management plan (which is to form part of the CEMP), reflecting the survey results and ecological mitigation measures specified in the ecological impact assessment report and including the appointment of an ecological clerk of works, has been submitted to and approved by the relevant planning authority in consultation with the Environment Agency.
+
+(2) The ecological management plan must include an implementation timetable and must be carried out as approved.
+
+(3) Areas of work exclusion zones must be agreed with the relevant planning authority prior to the commencement of the authorised development. No part of the authorised development in the vicinity of any tree, hedgerow, grassland, watercourse, ditch or woodland habitat identified as requiring a work exclusion zone may be carried out until measures to protect the relevant work exclusion zone have been implemented to the reasonable satisfaction of the relevant planning authority. The work exclusion zone must be maintained for the duration of the construction of the authorised development in the vicinity of the relevant work exclusion zone.
+
+(4) The ecological management plan must in particular include:
+
+- (a) a description of alterations required to culvert 11 and culvert 13 to facilitate the passage of fish and other aquatic fauna through these culverts; and
+- (b) a description of the required realignment of fencing around culverts to make them more accessible to otters and other mammals
+
+and these enhancements must be implemented in accordance with the details specified in the ecological management plan.
+
+#### 12. Mitigation of effects on protected species[^key-2b6724ec8085505c3894b57699c4c2e1]
+
+(1) No part of authorised development may be commenced within the 500m buffer zone for ponds known to support great crested newts, and shown on Figure 5.9.6 (Appendix 2A) of the ecological impact assessment report, until the relevant planning authority, in consultation with Natural England, has certified that the mitigation works described in paragraphs 5.5.8-5.5.18 of the ecological impact assessment report have been carried out to their reasonable satisfaction.
+
+(2) The ecological management plan required under requirement 11 must include provision for a further site investigation in respect of white clawed crayfish prior to the commencement of any works in the vicinity of Scarfield Stream (culvert 11) and Shortwood Dingle Stream (culvert 13). If white clawed crayfish are found, then a scheme for mitigating impacts on them must be included in the ecological management plan.
+
+#### 13. Trees[^key-1f9bf5f256cff39b37e4ecbab4e2d7d6]
+
+(1) The authorised development may not be commenced until Network Rail has provided to the relevant planning authority and the relevant planning authority has approved a plan indicating trees within the Order limits that have to be removed for the construction of the authorised development. No trees except for those identified on the approved plan may be removed for the construction of the authorised development without the consent of the relevant planning authority.
+
+(2) The plan submitted must also identify areas of tree protective fencing to be erected prior to commencement of the authorised development. The fencing shown on the approved plan is to be maintained during the construction period to the reasonable satisfaction of the relevant planning authority. At the end of the construction period, the fencing must be removed in total to the satisfaction of the relevant planning authority.
+
+#### 14. Trees – removal of crowns and other alterations[^key-0ef67536e8d7233c8c5788c7bd9ddf45]
+
+No trees may be lopped, chopped or altered for the construction of the authorised development until the relevant planning authority has approved a scheme for the lopping, chopping or alteration of that tree. The works to the tree must be carried out to the reasonable satisfaction of the relevant planning authority.
+
+#### 15. Temporary fencing[^key-a2c5a2c42edaabcc046fd073ae207173]
+
+Prior to the commencement of the authorised development Network Rail must apply to the relevant planning authority for its approval of a plan indicating the extent of temporary fencing that must be erected for the authorised development. No part of the authorised development within an area where temporary fencing is so indicated may be commenced without that temporary fencing having first been erected. The temporary fencing must be retained and maintained to the reasonable satisfaction of the relevant planning authority until the cessation of works in that area. After cessation of works in that area the relevant fencing must be removed to the satisfaction of the relevant planning authority.
+
+#### 16. Drainage[^key-06c3f164e48439d0da68edddb440b280]
+
+(1) The authorised development must not be commenced until a detailed drainage plan showing all new surface water drainage has been approved by the relevant planning authority in consultation with the lead local flood authority. The details must be in accordance with the details of paragraph 5.4.6 of the flood risk assessment and demonstrate that:
+
+- (a) all discharges to watercourses from railway drainage systems should be attenuated to a rate not exceeding the existing rate of runoff, that is 5 litres per second per hectare; and
+- (b) all discharges made from railway drainage systems should be discharged downstream of existing watercourse culverts wherever possible to reduce any impact on the capacity of each of the respective culverts.
+
+(2) The authorised development must be constructed in accordance with the approved details.
+
+#### 17. Contaminated land and groundwater[^key-aa1fc2894460fe0c34acd7fe04f2dfac]
+
+(1) The additional investigation of Order land potentially affected by the Alvechurch dredging landfill that is recommended in the land quality report at paragraph 7.2 must be carried out before commencement of development. The results of the additional investigation and the implementation measures and monitoring requirements identified in the land quality report must be incorporated in the CEMP, and in particular the site waste management plan.
+
+(2) If during construction of the authorised development contaminated material is encountered in excavations of Order land that does not fall within paragraph (1), then work in the vicinity of that contamination must be suspended and additional soil samples must be taken for assessment. Any additional remediation required as a result of the additional contamination must be approved by the relevant planning authority in consultation with the Environment Agency and carried out to the reasonable satisfaction of the relevant planning authority.
+
+#### 18. Footpath diversions – implementation plan[^key-55f1d869ca9f196b7287fdb10cb2510d]
+
+(1) Prior to the commencement of the authorised development Network Rail must provide to the highway authority for their approval the implementation plan which must include:
+
+- (a) the specification for the new footpath forming part of footpath 579(C) and comprising part of the authorised development;
+- (b) the specification for the temporary footpath in substitution for part of footpaths 520 (C) and 580 (C);
+- (c) a programme for the opening of the diverted section of footpath 579(C) and re-opening of footpaths 520(C), 580 (C) and 523(C) upon the cessation of that part of the authorised development requiring the suspension or diversion of those footpaths, and
+- (d) a scheme of temporary paths to allow use of footpath 579(C) during daylight hours following the closure of the existing right of way and prior to the opening of the diverted footpath save when it is previously agreed by the highway authority that such use is not reasonably practicable due to the works to implement the authorised development meaning that such use would compromise the safety of the public using the temporary path in substitution for the footpath.
+
+(2) The authorised development must be carried out in accordance with the approved implementation plan.
+
+#### 19. Requirement for written approval[^key-d6c36bdccf6eedb3258ea256da61ed1b]
+
+Where under any of the above requirements the approval or agreement of the relevant planning authority or another person is required, that approval or agreement must be given in writing.
+
+## SCHEDULE 2 — STREETS SUBJECT TO STREET WORKS[^key-d7545492817cad060c38afb394c947e3]
+
+Article 8
+
+| *(1)*<br>*Area* | *(2)*<br>*Street subject to street works* |
+| --- | --- |
+| County of Worcestershire, district of Bromsgrove | Station Road (Alvechurch) |
+| County of Worcestershire, district of Bromsgrove | Grange Lane |
+| County of Worcestershire, district of Bromsgrove | Weights Lane |
+
+## SCHEDULE 3 — FOOTPATHS TO BE STOPPED UP
+
+Article 9
+
+### PART 1 — FOOTPATH FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-bf6553c864e3c9b808f653deddc50294]
+
+| *(1)*<br>*Area* | *(2)*<br>*Footpath to be stopped up* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*New Footpath to be substituted* |
+| --- | --- | --- | --- |
+| County of Worcestershire, district of Bromsgrove | Footpath 579(C) to the South of Alvechurch Station where it crosses the Barnt Green to Redditch Railway | Approximately 26 metres of footpath 579(C) between the point marked ‘A’ and the point marked ‘B1’; and approximately 49 metres of footpath 579(C) between the point marked ‘A’ and the point marked ‘B2’, as are both shown red on the footpath stopping up and diversion plan | Approximately 248 metres of new footpath 579(C) shown with vertical zebra hatching on the footpath stopping up and diversion plan |
+
+### PART 2 — FOOTPATH FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-97161524c11f1dab9866b5ec1736161d]
+
+| *(1)*<br>*Area* | *(2)*<br>*Footpath to be stopped up* | *(3)*<br>*Extent of stopping up* |
+| --- | --- | --- |
+| County of Worcestershire, district of Bromsgrove | Footpath 523(C) to the west of the Barnt Green to Redditch Railway and to the East of Butler’s Wood Cottage | Approximately 0.5 metres of footpath 523(C) shown red on the footpath stopping up and diversion plan |
+
+## SCHEDULE 4 — FOOTPATHS TO BE TEMPORARILY SUSPENDED
+
+Article 9
+
+### PART 1 — FOOTPATHS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED DURING SUSPENSION[^key-f503cba7def541ac75fb6e9aea34851c]
+
+| *(1)*<br>*Area* | *(2)*<br>*Footpath to be temporarily suspended* | *(3)*<br>*Extent of temporary suspension* | *(4)*<br>*Temporary Footpath to be substituted* |
+| --- | --- | --- | --- |
+| County of Worcestershire, district of Bromsgrove | Footpath 580(C) to the South of Alvechurch Station and east of the Barnt Green to Redditch Railway | Approximately 6 metres of footpath 580(C) between the point marked ‘C’ and the point marked ‘C1’; and approximately 6 metres of footpath 580(C) between the point marked ‘C’ and the point marked ‘C2’, as are both shown orange on the footpath stopping up and diversion plan | Approximately 9 metres of footpath 580(C) shown green between the points marked ‘C’ and ‘C3’on the footpath stopping up and diversion plan |
+| County of Worcestershire, district of Bromsgrove | Footpath 520(C) to the South of Alvechurch Station and east of the Barnt Green to Redditch Railway | Approximately 8 metres of footpath 520(C) between the point marked ‘C1’ and the point marked ‘E’; and approximately 5 metres of footpath 520(C) between the point marked ‘C2’ and the point marked ‘D’, as are both shown orange on the footpath stopping up and diversion plan | Approximately 6 metres of footpath 520(C) shown green between the points marked ‘C3’ and ‘E’on the footpath stopping up and diversion plan |
+
+### PART 2 — FOOTPATHS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED DURING SUSPENSION[^key-77584ff7ba7e7e15b939753a107c951e]
+
+| *(1)*<br>*Area* | *(2)*<br>*Footpath to be temporarily suspended* | *(3)*<br>*Extent of temporary suspension* |
+| --- | --- | --- |
+| County of Worcestershire, district of Bromsgrove | Footpath 523(C) to the west of the Barnt Green to Redditch Railway at Butler’s Wood Cottage | Approximately 68 metres of footpath 523(C) shown orange on the footpath stopping up and diversion plan |
+| County of Worcestershire, district of Bromsgrove | Footpath 522(C) to the east of the Barnt Green to Redditch Railway at Butler’s Wood Cottage | Approximately 10 metres of footpath 522(C) shown orange on the footpath stopping up and diversion plan |
+
+## SCHEDULE 5 — ACCESS TO WORKS[^key-f721a238552e787c2fdb3f344c3f10e3]
+
+Article 11
+
+| *(1)*<br>*Area* | *(2)*<br>*Description of access* |
+| --- | --- |
+| County of Worcestershire, district of Bromsgrove | Vehicular access to Station Road, Alvechurch from the North for construction traffic at the point numbered A on the access to works and traffic regulation plan (ordnance survey national grid reference point SP 0223 7217) |
+| County of Worcestershire, district of Bromsgrove | Vehicular access to Station Road, Alvechurch from the South for construction traffic at the point numbered B on the access to works and traffic regulation plan (ordnance survey national grid reference point SP 0223 7216) |
+| County of Worcestershire, district of Bromsgrove | Vehicular access to Grange Lane from the North for construction traffic at the point numbered C on the access to works and traffic regulation plan (ordnance survey national grid reference point SP 0214 7119) |
+| County of Worcestershire, district of Bromsgrove | Vehicular access to Grange Lane from the South for construction traffic at the point numbered D on the access to works and traffic regulation plan (ordnance survey national grid reference point SP 0214 7118) |
+| County of Worcestershire, district of Bromsgrove | Vehicular access to Weights Lane from the North for construction traffic at the point numbered E on the access to works and traffic regulation plan (ordnance survey national grid reference point SP 0338 6939) |
+| County of Worcestershire, district of Bromsgrove | Vehicular access to Grange Lane from the North for construction traffic at the point numbered F on the access to works and traffic regulation plan (ordnance survey national grid reference point SP 0382 6927) |
+
+## SCHEDULE 6 — LAND IN WHICH ONLY NEW RIGHTS, ETC., MAY BE ACQUIRED[^key-fea105868162a5021cbd25186f0ef176]
+
+Article 17
+
+| *(1)*<br>*Number of land shown on the land plans* | *(2)*<br>*Purpose for which rights may be acquired* |
+| --- | --- |
+| 40 | To pass and repass with or without vehicles, plant and machinery to access adjoining land for construction, operation and maintenance of the authorised development |
+| 43 | To pass and repass with or without vehicles, plant and machinery to access adjoining land for construction, and maintenance of new ponds on adjoining land together with the inspection and monitoring of protected species in the new ponds |
+| 55, 65, 66 | To pass and repass with or without vehicles, plant and machinery to access adjoining land for construction, operation, and maintenance of the authorised development |
+
+## SCHEDULE 7 — MODIFICATION OF COMPENSATION AND COMPULSORY PURCHASE ENACTMENTS FOR CREATION OF NEW RIGHTS
+
+Article 17
+
+### Compensation enactments
+
+**1.**[^key-014b38f09f8742d29de2d86e61100078] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
+
+**2.**[^key-da2ac8047b77b796b5d1c0b1c37a8506] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973 has effect subject to the modifications set out in sub-paragraphs (2) and (3).
+
+(2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 of the 1965 Act as substituted by paragraph 4—
+
+- (a) for the words “land is acquired or taken” there are substituted the words “a right over land is purchased from or imposed on”; and
+- (b) for the words “acquired or taken from him” there are substituted the words “over which the right is exercisable”.
+
+(3) In section 58(1) (determination of material detriment where part of house etc. proposed for compulsory acquisition), as it applies to determinations under section 8 of the 1965 Act as substituted by paragraph 5—
+
+- (a) for the word “part” in paragraphs (a) and (b) there are substituted the words “a right over land consisting”;
+- (b) for the word “severance” there are substituted the words “right over or affecting the whole of the house, building or manufactory or of the house and the park or garden”;
+- (c) for the words “part proposed” there are substituted the words “right proposed”; and
+- (d) for the words “part is” there are substituted the words “right is”.
+
+### Application of the 1965 Act
+
+**3.**[^key-5251224055c4b3ea6259b89375a9390b] (1) The 1965 Act has effect with the modifications necessary to make it apply to the compulsory acquisition under this Order of a right by the creation of a new right, as it applies to the compulsory acquisition under this Order of land, so that, in appropriate contexts, references in that Act to land are read (according to the requirements of the particular context) as referring to, or as including references to—
+
+- (a) the right acquired or to be acquired; or
+- (b) the land over which the right is or is to be exercisable.
+
+(2) Without limitation on the scope of sub-paragraph (1), Part 1 of the 1965 Act will apply in relation to the compulsory acquisition under this Order of a right by the creation of a new right with the modifications specified in the following provisions of this Schedule.
+
+**4.**[^key-5b625247232972a323978b76a2a70f1b] For section 7 of the 1965 Act (measure of compensation in case of severance) there is substituted the following section—
+
+> **7.** In assessing the compensation to be paid by the acquiring authority under this Act, regard must be had not only to the extent (if any) to which the value of the land over which the right is to be acquired is depreciated by the acquisition of the right but also to the damage (if any) to be sustained by the owner of the land by reason of its severance from other land of the owner, or injuriously affecting that other land by the exercise of the powers conferred by this or the special Act.
+
+.
+
+**5.**[^key-d5529430ed095814c8f2b06518980087] (1) For section 8 of the 1965 Act (provisions as to divided land) there is substituted the following section—
+
+> **8.** (1) Where in consequence of the service on a person under section 5 of this Act of a notice to treat in respect of a right over land consisting of a house, building or manufactory or of a park or garden belonging to a house (“the relevant land”)—
+>
+> - (a) a question of disputed compensation in respect of the purchase of the right would apart from this section fall to be determined by the Upper Tribunal (“the tribunal”); and
+> - (b) before the tribunal has determined that question the tribunal is satisfied that the person has an interest in the whole of the relevant land and is able and willing to sell that interest and—
+>   - (i) where that land consists of a house, building or manufactory, that the right cannot be purchased without material detriment to that land; or
+>   - (ii) where that land consists of such a park or garden, that the right cannot be purchased without seriously affecting the amenity or convenience of the house to which that land belongs,
+>
+>   the Network Rail Redditch Branch Enhancement Order 2013[^f00025] (“the Order”), in relation to that person, ceases to authorise the purchase of the right and be deemed to authorise the purchase of that person’s interest in the whole of the relevant land including, where the land consists of such a park or garden, the house to which it belongs, and the notice is deemed to have been served in respect of that interest on such date as the tribunal directs.
+>
+> (2) Any question as to the extent of the land in which the Order is deemed to authorise the purchase of an interest by virtue of subsection (1) of this section must be determined by the tribunal.
+>
+> (3) Where in consequence of a determination of the tribunal that it is satisfied as mentioned in subsection (1) of this section the Order is deemed by virtue of that subsection to authorise the purchase of an interest in land, the acquiring authority may, at any time within the period of 6 weeks beginning with the date of the determination, withdraw the notice to treat in consequence of which the determination was made; but nothing in this subsection prejudices any other power of the authority to withdraw the notice.
+
+.
+
+**6.**[^key-a7aba168088970352b3d94f48aff958b] The following provisions of the 1965 Act (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land), that is to say—
+
+- (a) section 9(4) (failure by owners to convey);
+- (b) paragraph 10(3) of Schedule 1 (owners under incapacity);
+- (c) paragraph 2(3) of Schedule 2 (absent and untraced owners); and
+- (d) paragraphs 2(3) and 7(2) of Schedule 4 (common land),
+
+are modified so as to secure that, as against persons with interests in the land which are expressed to be overridden by the deed, the right which is to be compulsorily acquired is vested absolutely in the acquiring authority.
+
+**7.**[^key-640b9cbc1ab1d9455ec336f6cb5a745b] (1) Section 11 of the 1965 Act (powers of entry) is so modified as to secure that, as from the date on which the acquiring authority has served notice to treat in respect of any right it has power, exercisable in equivalent circumstances and subject to equivalent conditions, to enter for the purpose of exercising that right (which is deemed for this purpose to have been created on the date of service of the notice); and sections 12 (penalty for unauthorised entry) and 13 (entry on warrant in the event of obstruction) of the 1965 Act is modified correspondingly.
+
+**8.**[^key-49ce6d380a9086947cc955813dcee08c] Section 20 of the 1965 Act (protection for interests of tenants at will, etc.) applies with the modifications necessary to secure that persons with such interests in land as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition under this Order of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right in question.
+
+**9.**[^key-73cc6736d94d9fab6b24ae6e01d78083] Section 22 of the 1965 Act (interests omitted from purchase) is modified so as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired, subject to compliance with that section as respects compensation.
+
+## SCHEDULE 8 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-411a913e9c7b0d61fd53e41dea00b3c9]
+
+Article 23
+
+| *(1)*<br>*Location* | *(2)*<br>*Number of land shown on land plans* | *(3)*<br>*Purpose for which temporary possession may be taken* | *(4)*<br>*Relevant part of the authorised development* |
+| --- | --- | --- | --- |
+| County of Worcestershire, district of Bromsgrove, to the north of Station Road, Alvechurch and to the west of the Barnt Green to Redditch Railway | 2 | Worksite, haul road, and access for construction of the authorised development | Work No. 1 |
+| County of Worcestershire, district of Bromsgrove, to the south of Station Road, Alvechurch and to the west of the Barnt Green to Redditch Railway | 5, 8, 10 | Worksite, haul road, construction compound and access for construction of the authorised development | Works Nos. 1, 2, 3 and 4 |
+| County of Worcestershire, district of Bromsgrove, to the south of Alvechurch Station and to the east of the Barnt Green to Redditch Railway | 11, 13 | Worksite, construction site for culvert works and construction of new drain and temporary diversion of footpath and access for construction of the authorised development | Works Nos. 1 and 5a |
+| County of Worcestershire, district of Bromsgrove, to the south of Alvechurch Station, to the north of Grange Lane Alvechurch and to the west of the Barnt Green to Redditch Railway | 18 | Worksite, construction compound, haul road and access for construction of the authorised development | Work No. 1 |
+| County of Worcestershire, district of Bromsgrove to the north of Grange Lane, Alvechurch and to the east of the Barnt Green to Redditch Railway | 19 | Worksite, construction site for embankment strengthening and access for construction of the authorised development | Work No. 1 |
+| County of Worcestershire, district of Bromsgrove to the south of Grange Lane, Alvechurch and to the east of the Barnt Green to Redditch Railway | 24, 25 | Worksite, construction compound, haul road and access for construction of the authorised development | Work No. 1 |
+| County of Worcestershire, district of Bromsgrove to the south of Grange Lane, Alvechurch and to the east of the Barnt Green to Redditch Railway | 28 | Worksite, construction site for culvert works and access for construction of the authorised development | Work No. 1 |
+| County of Worcestershire, district of Bromsgrove to the south of Grange Lane, Alvechurch, to the north of Weights Lane, Redditch and to the east of the Barnt Green to Redditch Railway | 30, 71 | Worksite, haul road construction compound (including site office) and access for construction of the authorised development | Work No. 1 |
+| County of Worcestershire, district of Bromsgrove to the north Butlers Wood Cottage and to the east of the Barnt Green to Redditch Railway | 32 | Worksite, construction site for culvert works and access for construction of the authorised development | Work No. 1 |
+| County of Worcestershire, district of Bromsgrove to the north of Weights Lane, Redditch and to the west of the Barnt Green to Redditch Railway | 41, 47, 56 | Worksite, construction compound and access for construction of the authorised development | Work No. 1 |
+
+## SCHEDULE 9 — TRAFFIC REGULATION[^key-aa754d293a4448c2e41e4fcd103df164]
+
+Article 31
+
+Prohibition of driving
+
+| *(1)*<br>*Road* | *(2)*<br>*Extent* | *(3)*<br>*Notes* |
+| --- | --- | --- |
+| Station Road, Alvechurch | Area shown hatched on the the access to works and traffic regulation plan | Temporary No Waiting restrictions and provison of temporary traffic control by way of traffic lights to allow for safe access to highway by construction traffic associated with the authorised development. |
+| Grange Lane, Alvechurch | Area shown hatched on the the access to works and traffic regulation plan | Temporary No Waiting restrictions and provison of temporary traffic control by way of traffic lights to allow for safe access to highway by construction traffic associated with the authorised development. |
+
+## SCHEDULE 10 — PROTECTIVE PROVISIONS
+
+Article 38
+
+### PART 1 — PROTECTION FOR ELECTRICITY, GAS, WATER, PETROLEUM AND SEWERAGE UNDERTAKERS
+
+**1.**[^key-59c9f9fd224a2c869116728902a943ba] For the protection of the undertakers referred to in this Part of this Schedule the following provisions, unless otherwise agreed in writing between Network Rail and the undertaker concerned, have effect.
+
+**2.**[^key-db1fb5645d43f6b7f8ab7a3d414d42ed] In this Part of this Schedule—
+
+- “alternative apparatus” means alternative apparatus adequate to enable the undertaker in question to fulfil its statutory functions in a manner not less efficient than previously;
+- “apparatus” means—
+  - (a) in the case of an electricity undertaker, electric lines or electrical plant (as defined in the Electricity Act 1989[^f00026]), belonging to or maintained by that undertaker;
+  - (b) in the case of a gas undertaker, any mains, pipes or other apparatus belonging to or maintained by a gas transporter for the purposes of gas supply;
+  - (c) in the case of Esso Petroleum Company Limited, any pipeline (including such apparatus and works as are specified in section 65(2) of the Pipe-lines Act 1962 and all protective wrappings, sleeves and slabs) together with ancillary cables and markers;
+  - (d) in the case of a water undertaker, mains, pipes or other apparatus belonging to or maintained by that undertaker for the purposes of water supply; and
+  - (e) in the case of a sewerage undertaker—
+    - (i) any drain or works vested in the undertaker under the Water Industry Act 1991[^f00027]; and
+    - (ii) any sewer which is so vested or is the subject of a notice of intention to adopt given under section 102(4) of that Act or an agreement to adopt made under section 104 of that Act,
+
+    and includes a sludge main, disposal main (within the meaning of section 219 of that Act) or sewer outfall and any manholes, ventilating shafts, pumps or other accessories forming part of any such sewer, drain or works,
+
+  and includes any structure in which apparatus is or is to be lodged or which gives or will give access to apparatus;
+- “functions” includes powers and duties;
+- “in” in a context referring to apparatus or alternative apparatus in land includes a reference to apparatus or alternative apparatus under, over or upon land; and
+- “undertaker” means—
+  - (a) any licence holder within the meaning of Part 1 of the Electricity Act 1989;
+  - (b) a gas transporter within the meaning of Part 1 of the Gas Act 1986[^f00028];
+  - (c) Esso Petroleum Company Limited, company number 00026538 registered at Exxonmobil House, Ermyn Way, Leatherhead, Surrey KT22 8UX;
+  - (d) a water undertaker within the meaning of the Water Industry Act 1991; and
+  - (e) a sewerage undertaker within the meaning of Part 1 of the Water Industry Act 1991,
+
+for the area of the authorised development, and in relation to any apparatus, means the undertaker to whom it belongs or by whom it is maintained.
+
+**3.**[^key-2cadc8c01cac509833877f3691be19dd] This Part of this Schedule does not apply to apparatus in respect of which the relations between Network Rail and the undertaker are regulated by the provisions of Part 3 of the 1991 Act.
+
+**4.**[^key-fbc8ba92e1fe39ec993558590cc54d08] Regardless of any provision in this Order or anything shown on the land plans, Network Rail must not acquire any apparatus otherwise than by agreement.
+
+**5.**[^key-c0d2a9367402f31c0463e37b2ba0144b] (1) If, in the exercise of the powers conferred by this Order, Network Rail acquires any interest in any land in which any apparatus is placed, that apparatus must not be removed under this Part of this Schedule and any right of an undertaker to maintain that apparatus in that land must not be extinguished until alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the undertaker in question.
+
+(2) If, for the purpose of executing any works in, on or under any land purchased, held, appropriated or used under this Order, Network Rail requires the removal of any apparatus placed in that land, it must give to the undertaker in question written notice of that requirement, together with a plan and section of the work proposed, and of the proposed position of the alternative apparatus to be provided or constructed and in that case (or if in consequence of the exercise of any of the powers conferred by this Order an undertaker reasonably needs to remove any of its apparatus) Network Rail must, subject to sub-paragraph (3), afford to the undertaker the necessary facilities and rights for the construction of alternative apparatus in other land of Network Rail and subsequently for the maintenance of that apparatus.
+
+(3) If alternative apparatus or any part of such apparatus is to be constructed elsewhere than in other land of Network Rail, or Network Rail is unable to afford such facilities and rights as are mentioned in sub-paragraph (2), in the land in which the alternative apparatus or part of such apparatus is to be constructed, the undertaker in question must, on receipt of a written notice to that effect from Network Rail, as soon as reasonably possible use its best endeavours to obtain the necessary facilities and rights in the land in which the alternative apparatus is to be constructed.
+
+(4) Any alternative apparatus to be constructed in land of Network Rail under this Part of this Schedule is to be constructed in such manner and in such line or situation as may be agreed between the undertaker in question and Network Rail or in default of agreement settled by arbitration in accordance with article 35 (arbitration).
+
+(5) The undertaker in question must, after the alternative apparatus to be provided or constructed has been agreed or settled by arbitration in accordance with article 35, and after the grant to the undertaker of any such facilities and rights as are referred to in sub-paragraph (2) or (3), proceed without unnecessary delay to construct and bring into operation the alternative apparatus and subsequently to remove any apparatus required by Network Rail to be removed under the provisions of this Part of this Schedule.
+
+(6) Regardless of anything in sub-paragraph (5), if Network Rail gives notice in writing to the undertaker in question that it desires itself to execute any work, or part of any work in connection with the construction or removal of apparatus in any land of Network Rail, that work, instead of being executed by the undertaker, must be executed by Network Rail without unnecessary delay under the superintendence, if given, and to the reasonable satisfaction of the undertaker.
+
+(7) Nothing in sub-paragraph (6) authorises Network Rail to execute the placing, installation, bedding, packing, removal, connection or disconnection of any apparatus, or execute any filling around the apparatus (where the apparatus is laid in a trench) within 300 millimetres of the apparatus.
+
+**6.**[^key-b0e33564ff6e62f54cc524357da8b0a0] (1) Where, in accordance with the provisions of this Part of this Schedule, Network Rail affords to an undertaker facilities and rights for the construction and maintenance in land of Network Rail of alternative apparatus in substitution for apparatus to be removed, those facilities and rights are to be granted upon such terms and conditions as may be agreed between Network Rail and the undertaker in question or in default of agreement settled by arbitration in accordance with article 35 (arbitration).
+
+(2) In settling those terms and conditions in respect of alternative apparatus to be constructed in or along any railway of Network Rail, the arbitrator must—
+
+- (a) give effect to all reasonable requirements of Network Rail for ensuring the safety and efficient operation of the railway and for securing any subsequent alterations or adaptations of the alternative apparatus which may be required to prevent interference with any proposed works of Network Rail or the traffic on the railway; and
+- (b) so far as it may be reasonable and practicable to do so in the circumstances of the particular case, give effect to the terms and conditions, if any, applicable to the apparatus constructed in or along the railway for which the alternative apparatus is to be substituted.
+
+(3) If the facilities and rights to be afforded by Network Rail in respect of any alternative apparatus, and the terms and conditions subject to which those facilities and rights are to be granted, are in the opinion of the arbitrator less favourable on the whole to the undertaker in question than the facilities and rights enjoyed by it in respect of the apparatus to be removed and the terms and conditions to which those facilities and rights are subject, the arbitrator must make such provision for the payment of compensation by Network Rail to that undertaker as appears to the arbitrator to be reasonable having regard to all the circumstances of the particular case.
+
+**7.**[^key-dd454b127db3ea2cbed5b89daa016fe1] (1) Not less than 28 days before starting the execution of any works of the type referred to in paragraph 5(2) that are near to, or will or may affect, any apparatus the removal of which has not been required by Network Rail under paragraph 5(2), Network Rail must submit to the undertaker in question a plan, section and description of the works to be executed.
+
+(2) Those works are to be executed only in accordance with the plan, section and description submitted under sub-paragraph (1) and in accordance with such reasonable requirements as may be made in accordance with sub-paragraph (3) by the undertaker for the alteration or otherwise for the protection of the apparatus, or for securing access to it, and the undertaker is entitled to watch and inspect the execution of those works.
+
+(3) Any requirements made by an undertaker under sub-paragraph (2) must be made within a period of 21 days beginning with the date on which a plan, section and description under sub-paragraph (1) are submitted to it.
+
+(4) If an undertaker in accordance with sub-paragraph (3) and in consequence of the works proposed by Network Rail, reasonably requires the removal of any apparatus and gives written notice to Network Rail of that requirement, paragraphs 1 to 6 apply as if the removal of the apparatus had been required by Network Rail under paragraph 5(2).
+
+(5) Nothing in this paragraph precludes Network Rail from submitting at any time or from time to time, but in no case less than 28 days before commencing the execution of any works, a new plan, section and description instead of the plan, section and description previously submitted, and having done so the provisions of this paragraph apply to and in respect of the new plan, section and description.
+
+(6) Network Rail is not required to comply with sub-paragraph (1) in a case of emergency but in that case it must give to the undertaker in question notice as soon as is reasonably practicable and a plan, section and description of those works as soon as reasonably practicable subsequently and must comply with sub-paragraph (2) in so far as is reasonably practicable in the circumstances.
+
+**8.**[^key-651119666977e0d0ff18ceef2e36349b] (1) Subject to the following provisions of this paragraph, Network Rail must repay to an undertaker the reasonable expenses incurred by that undertaker in, or in connection with, the inspection, removal, alteration or protection of any apparatus or the construction of any new apparatus (including costs or compensation payable in connection with the acquisition of land for that purpose) which may be required in consequence of the execution of any such works as are referred to in paragraph 5(2).
+
+(2) The value of any apparatus removed under the provisions of this Part of this Schedule is to be deducted from any sum payable under sub-paragraph (1), that value being calculated after removal.
+
+(3) If in accordance with the provisions of this Part of this Schedule—
+
+- (a) apparatus of better type, of greater capacity or of greater dimensions is placed in substitution for existing apparatus of worse type, of smaller capacity or of smaller dimensions; or
+- (b) apparatus (whether existing apparatus or apparatus substituted for existing apparatus) is placed at a depth greater than the depth at which the existing apparatus was,
+
+and the placing of apparatus of that type or capacity or of those dimensions or the placing of apparatus at that depth, as the case may be, is not agreed by Network Rail or, in default of agreement, is not determined by arbitration in accordance with article 35 (arbitration) to be necessary, then, if such placing involves cost in the construction of works under this Part of this Schedule exceeding that which would have been involved if the apparatus placed had been of the existing type, capacity or dimensions, or at the existing depth, as the case may be, the amount which apart from this sub-paragraph would be payable to the undertaker in question by virtue of sub-paragraph (1) is to be reduced by the amount of that excess.
+
+(4) For the purposes of sub-paragraph (3)—
+
+- (a) an extension of apparatus to a length greater than the length of existing apparatus must not be treated as a placing of apparatus of greater dimensions than those of the existing apparatus; and
+- (b) where the provision of a joint in a cable is agreed, or is determined to be necessary, the consequential provision of a jointing chamber or of a manhole must be treated as if it also had been agreed or had been so determined.
+
+(5) An amount which apart from this sub-paragraph would be payable to an undertaker in respect of works by virtue of sub-paragraph (1) must, if the works include the placing of apparatus provided in substitution for apparatus placed more than 7 years and 6 months earlier so as to confer on the undertaker any financial benefit by deferment of the time for renewal of the apparatus in the ordinary course, be reduced by the amount which represents that benefit.
+
+**9.**[^key-79fa6b97f105014d7267e83b515b6cf7] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works referred to in paragraph 5(2), any damage is caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of an undertaker, or there is any interruption in any service provided, or in the supply of any goods, by any undertaker, Network Rail must—
+
+- (a) bear and pay the cost reasonably incurred by that undertaker in making good such damage or restoring the supply; and
+- (b) make reasonable compensation to that undertaker for any other expenses, loss, damages, penalty or costs incurred by the undertaker,
+
+by reason or in consequence of any such damage or interruption.
+
+(2) Nothing in sub-paragraph (1) imposes any liability on Network Rail with respect to any damage or interruption to the extent that it is attributable to the act, neglect or default of an undertaker, its officers, servants, contractors or agents.
+
+(3) An undertaker must give Network Rail reasonable notice of any such claim or demand and no settlement or compromise is to be made without the consent of Network Rail which, if it withholds such consent, has the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
+
+**10.**[^key-f16efa2e1cc79eca265ed0a62d941bdf] Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between Network Rail and an undertaker in respect of any apparatus laid or erected in land belonging to Network Rail on the date on which this Order is made.
+
+### PART 2 — PROTECTION FOR OPERATORS OF ELECTRONIC COMMUNICATIONS CODE NETWORKS
+
+**11.**[^key-974d752da4bc42ab38a78aa5d1d77e79] (1) For the protection of any operator, the following provisions, unless otherwise agreed in writing between Network Rail and the operator, have effect.
+
+(2) In this Part of this Schedule—
+
+- [^key-98c8cfc2005116e8138f0cc49d0358b6]...
+- “electronic communications apparatus” has the same meaning as in the electronic communications code;
+- “the electronic communications code” has the same meaning as in Chapter 1 of Part 2 of the 2003 Act[^f00029];
+- “electronic communications code network” means—
+  - (a) so much of an electronic communications network or infrastructure system[^key-9e64445d0793ab4aef77cc2eda1a0191] provided by an electronic communications code operator as is not excluded from the application of the electronic communications code by a direction under section 106 of the 2003 Act; and
+  - (b) an electronic communications network which the Secretary of State is providing or proposing to provide;
+- “electronic communications code operator” means a person in whose case the electronic communications code is applied by a direction under section 106 of the 2003 Act;
+- “infrastructure system” has the same meaning as in the electronic communications code and references to providing an infrastructure system are to be construed in accordance with paragraph 7 of that code;[^key-3384db93b0e6ec7a2be6a640d25b3000] and
+- “operator” means the operator of an electronic communications code network.
+
+**12.**[^key-335b1865f71fdfbba68cf7a026dda423] The exercise of the powers of article 25 (statutory undertakers) are subject to Part 10 of Schedule 3A to the Communications Act 2003[^key-6e95bb9a2c758ff9db62647e16ac2247].
+
+**13.**[^key-71ffe000bd9a0ba7c2d8e31d16e75e06] (1) Subject to sub-paragraphs (2) to (4), if as the result of the authorised development or their construction, or of any subsidence resulting from any of those works—
+
+- (a) any damage is caused to any electronic communications apparatus belonging to an operator (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works, or other property of an operator); or
+- (b) there is any interruption in the supply of the service provided by an operator,
+
+Network Rail must bear and pay the cost reasonably incurred by the operator in making good such damage or restoring the supply and must—
+
+- (i) make reasonable compensation to an operator for loss sustained by it; and
+- (ii) indemnify an operator against claims, demands, proceedings, costs, damages and expenses which may be made or taken against, or recovered from, or incurred by, an operator by reason, or in consequence of, any such damage or interruption.
+
+(2) Nothing in sub-paragraph (1) imposes any liability on Network Rail with respect to any damage or interruption to the extent that it is attributable to the act, neglect or default of an operator, its officers, servants, contractors or agents.
+
+(3) The operator must give Network Rail reasonable notice of any such claim or demand and no settlement or compromise of the claim or demand may be made without the consent of Network Rail which, if it withholds such consent, has the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
+
+(4) Any difference arising between Network Rail and the operator under this paragraph is to be referred to and settled by arbitration under article 35 (arbitration).
+
+**14.**[^key-e2de1919d82e5973d3ff718f597ec74d] This Part of this Schedule does not apply to—
+
+- (a) any apparatus in respect of which the relations between Network Rail and an operator are regulated by the provisions of Part 3 of the 1991 Act; or
+- (b) any damage, or any interruption, caused by electro-magnetic interference arising from the construction or use of the authorised development.
+
+**15.**[^key-1eb8b6139c574510961253bf9cc4085c] Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between Network Rail and an operator in respect of any apparatus laid or erected in land belonging to Network Rail on the date on which this Order is made.
+
+### PART 3 — PROTECTION FOR THE CANAL & RIVER TRUST
+
+#### Interpretation
+
+**16.**[^key-358901ee2e8eefcee753127d6eebc92e] (1) For the protection of CRT the following provisions of this part of this Schedule, unless otherwise agreed in writing between Network Rail and CRT, have effect.
+
+(2) In this part of this Schedule—
+
+- “car park” means the land forming part of plot 2 of the lands scheduled in the book of reference that consists of a car park;
+- “CRT” means the Canal & River Trust;
+- “CRT’s network” means CRT’s network of waterways;
+- “construction”, in relation to any specified work or protective work, includes–
+  - (a) the execution and placing of that work; and
+  - (b) any relaying, renewal, or maintenance of that work as may be carried out during the period of 24 months from the completion of that work; and “construct” and “constructed” have corresponding meanings;
+- “detriment” means any damage to the waterway or any other property of CRT and, without limitation on the scope of that meaning, includes—
+  - (a) any obstruction of, or interference with, or hindrance or danger to, navigation or to any use of the waterway (including towing paths);
+  - (b) the erosion of the bed or banks of the waterway, or the impairment of the stability of any works, lands or premises forming part of the waterway;
+  - (c) the deposit of materials or the siltation of the waterway so as to damage the waterway;
+  - (d) the pollution of the waterway;
+  - (e) any significant alteration in the water level of the waterway, or significant interference with the supply of water to it, or drainage of water from it;
+  - (f) any harm to the ecology of the waterway (including any adverse impact on any site of special scientific interest comprised in CRT’s network);
+  - (g) any interference with the exercise by any person of rights over CRT’s network;
+- “the engineer” means an engineer appointed by CRT for the purpose in question;
+- “plans” includes sections, designs, drawings, specifications, soil reports, calculations, descriptions (including descriptions of methods of construction) and programmes;
+- “practical completion” means practical completion of all of the specified work notwithstanding that items which would ordinarily be considered snagging items remain outstanding, and the expression “practically complete” and “practically completed” are construed accordingly
+- “protective work” means a work constructed under paragraph 21(3)(a);
+- “specified work” means so much of any of the authorised works as is situated upon, across, under, over or within 15 metres of, or may in any way affect the waterway;
+- “towing path” means the towing path forming part of the waterway;
+- “the waterway” means the Worcester and Birmingham Canal, and includes any works, lands or premises belonging to CRT, or under its management or control, and held or used by CRT in connection with that canal.
+
+#### Powers requiring CRT’s consent
+
+**17.**[^key-ef9ee8ea911bfef53d9bd4501c66d604] (1) Network Rail must not in the exercise of the powers conferred by this Order obstruct or interfere with pedestrian or vehicular access to the waterway unless such obstruction or interference with such access is with the consent of CRT but the temporary obstruction of the car park is deemed to be with the consent of CRT.
+
+(2) Network Rail must not exercise any power conferred by this Order in such a way as to interfere with the supply of water to or the drainage of water from the waterway unless such exercise is with the consent of CRT.
+
+(3) Network Rail must not exercise the powers conferred article 14 (authority to survey and investigate land) or section 11(3) of the 1965 Act (power of entry for surveying land), in relation to the waterway unless such exercise is with the consent of CRT.
+
+(4) Network Rail must not exercise the powers conferred by sections 271 or 272 of the 1990 Act, as applied by Schedule 3 (footpaths to be stopped up), so as to divert any right of access to the waterway, but such right of access may be diverted with the consent of CRT.
+
+(5) The consent of CRT under sub-paragraphs (1) to (4) must not be unreasonably withheld or delayed but may be given subject to reasonable terms and conditions which in the case of article 13 (discharge of water) may include conditions—
+
+- (a) specifying the maximum volume of water which may be discharged in any period; and
+- (b) authorising CRT on giving reasonable notice (except in an emergency, when CRT may require immediate suspension) to Network Rail to require Network Rail to suspend the discharge of water or reduce the flow of water where this is necessary by reason of any operational or environmental requirement of CRT.
+
+#### Vehicles, plant and machinery
+
+**18.**[^key-7b9f78c3f3cb8fe5a075f86aa7c945f9] Network Rail must not use any land or property of CRT forming part of the waterway (other than within Plots 2 or 3 of the lands referred to in the book of reference) for the passage or siting of vehicles, plant or machinery employed in the construction of the specified works other than—
+
+- (a) with the consent in writing of the engineer whose consent must not be unreasonably withheld; and
+- (b) subject to compliance with such reasonable requirements as the engineer may from time to time specify—
+  - (i) for the prevention of detriment; or
+  - (ii) in order to avoid or reduce any inconvenience to CRT, its officers and agents and all other persons lawfully on such land or property, but nothing in this paragraph applies in relation to anything done in accordance with any approval given by CRT under paragraph 21.
+
+#### Fencing
+
+**19.**[^key-156f170ce15c1982f0b7a40d9381ecbf] Where so required by the engineer Network Rail must to the reasonable satisfaction of the engineer fence off a specified work or a protective work or take such other steps as the engineer may require to be taken for the purpose of separating a specified work or a protective work from the waterway, whether on a temporary or permanent basis or both.
+
+#### Survey of waterway
+
+**20.**[^key-9257f8b24ebd38f1d338983785e33b20] (1) Before the commencement of the initial construction of any part of the specified works and again following practical completion of the specified works Network Rail must bear the reasonable cost of the carrying out by a qualified engineer (“the surveyor”), to be approved by CRT and Network Rail, of a survey including a dip-survey to measure the depth of the waterway (“the survey”) of so much of the waterway and of any land and existing works of Network Rail which may provide support for the waterway as will or may be affected by the specified works.
+
+(2) For the purposes of the survey Network Rail must—
+
+- (a) on being given reasonable notice (save in case of emergency, when immediate access must be afforded) afford reasonable facilities to the surveyor for access to the site of the specified works and to any land and existing works of Network Rail which may provide support for the waterway as will or may be affected by the specified works; and
+- (b) supply the surveyor as soon as reasonable practicable with all such information as he may reasonably require with regard to such existing works of Network Rail and to the specified works or the method of their construction.
+
+(3) The reasonable costs of the survey include the costs of any dewatering or reduction of the water level of any part of the waterway (where reasonably required) which may be effected to facilitate the carrying out of the survey and the provisions of this part of this Schedule apply with all necessary modifications to any such dewatering or reduction in the water level as though the same were specified works.
+
+(4) Copies of the survey must be provided to both CRT and Network Rail at no cost to CRT.
+
+#### Approval of plans, protective works etc.
+
+**21.**[^key-dd5dbc72b011185da536e366359cbe75] (1) Network Rail must before commencing construction of any specified work comprising part of Work No. 1 of the authorised development including any temporary works supply to CRT proper and sufficient plans of that work and such further particulars available to it as CRT may within 14 days of the submission of the plans reasonably require for the approval of the engineer and must not commence such construction of a specified work until plans of that work have been approved in writing by the engineer or settled by arbitration.
+
+(2) The approval of the engineer under sub-paragraph (1) must not be unreasonably withheld or delayed, and if within 30 days after such plans (including any other particulars reasonably required under sub-paragraph (1)) have been supplied to CRT the engineer has not intimated disapproval of those plans and the grounds of disapproval the engineer is deemed to have approved the plans as submitted.
+
+(3) When signifying approval of the plans the engineer may specify on land held or controlled by CRT or Network Rail and subject to such works being authorised by the order or being development permitted by an Act of Parliament or general development order made under the 1990 Act —
+
+- (a) any protective work (whether temporary or permanent) which in the reasonable opinion of the engineer should be carried out before the commencement of a specified work to prevent detriment; and
+- (b) such other requirements as may be reasonably necessary to prevent detriment;
+
+and such protective works are constructed by Network Rail or by CRT at Network Rail’s request with all reasonable dispatch and Network Rail must not commence the construction of a specified work until the engineer has notified Network Rail that the protective works have been completed to the engineer’s reasonable satisfaction not to be unreasonably withheld or delayed.
+
+(4) In the event that Network Rail fails to complete the construction of, or part of, the specified works CRT may, if it is reasonably required in order to avoid detriment, construct any of the specified works, or part of such works, (together with any adjoining works) in order to complete the construction of, or part of, the specified works or make such works and Network Rail must reimburse CRT all costs, fees, charges and expenses it has reasonably incurred in carrying out such works.
+
+#### Design of works
+
+**22.**[^key-270a07701c8d2aca853c9d001a187512] Without affecting its obligations under the provisions of this Part of this Schedule Network Rail must consult, collaborate and respond constructively to any approach, suggestion, proposal or initiative made by CRT on—
+
+- (a) the design and appearance of the specified works comprising Work No. 1, including the materials to be used for their construction; and
+- (b) the environmental effects of that work;
+
+and must have regard to such views as may be expressed by CRT to the extent that these accord with the requirements of the local planning authority in response to such consultation pursuant in particular to the requirements imposed on CRT by section 22 (general environmental and recreational duties) of the British Waterways Act 1995[^f00031] and to the interest of CRT in preserving and enhancing the environment of its waterways.
+
+#### Notice of works
+
+**23.**[^key-fdf1b937dca7fa330b80315ca43fc26a] Network Rail must give to the engineer 30 days’ notice of its intention to commence the construction of any of the specified or protective works, or, in the case of repair carried out in an emergency, such notice as may be reasonably practicable so that, in particular, CRT may where appropriate arrange for the publication of notices bringing those works to the attention of users of CRT’s network.
+
+#### Construction of specified works
+
+**24.**[^key-826969155cba0305db27cdaa05da6bdd] (1) Any specified or protective works must, when commenced, be constructed—
+
+- (a) without unnecessary delay in accordance with the plans approved or deemed to have been approved or settled under the provisions in paragraph 21 and with any requirements made under paragraph 21(3) and paragraph 22;
+- (b) under the supervision (if given) and to the reasonable satisfaction of the engineer;
+- (c) in such manner as to cause as little detriment as is reasonably practicable;
+- (d) in such manner as to cause as little inconvenience as is reasonably practicable to CRT, its officers and agents and all other persons lawfully using the waterways, except to the extent that temporary obstruction has otherwise been agreed by CRT.
+
+(2) Nothing in this Order authorises Network Rail to make or maintain any permanent works in or over the waterway so as to impede or prevent (whether by reducing the width of the waterway or otherwise) the passage of any vessel which is of a kind (as to its dimensions) for which CRT is required by section 105(1)(b) and (2) (maintenance of waterways) of the Transport Act 1968[^f00032] to maintain the waterway.
+
+(3) Following the completion of the construction of the specified works Network Rail must restore the waterway to a condition no less satisfactory than its condition immediately prior to the commencement of those works.
+
+#### Prevention of pollution
+
+**25.**[^key-8e42714467cd7391e72a76d12e180745] Network Rail must not in the course of constructing a specified work or a protective work or otherwise in connection therewith do or permit anything which may result in the pollution of the waterway or the deposit of materials therein and must take such steps as the engineer may reasonably require to avoid or make good any breach of its obligations under this paragraph.
+
+#### Access to work: provision of information
+
+**26.**[^key-c4a45819224f2edfb60a70eb9ee1a14a] (1) Network Rail on being given reasonable notice must—
+
+- (a) at all reasonable times and subject to any railway operational or safety requirements allow reasonable facilities to the engineer for access to a specified work during its construction; and
+- (b) supply the engineer with all such information as the engineer may reasonably require with regard to a specified work or the method of constructing it.
+
+(2) CRT on being given reasonable notice must—
+
+- (a) at all times afford reasonable facilities to Network Rail and its agents for access to any works carried out by CRT under this part of this Schedule during their construction; and
+- (b) supply Network Rail with such information as it may reasonably require with regard to such works or the method of constructing them and Network Rail must reimburse CRT’s reasonable costs in relation to the supply of such information.
+
+#### Maintenance of works
+
+**27.**[^key-b64e519f444616a5f194702a7a5555d4] If at any time after the completion of a specified work or a protective work, not being a work vested in CRT, CRT gives notice to Network Rail informing it that the state of maintenance of the work appears to be such that the work is causing or likely to cause detriment, Network Rail must, on receipt of such notice, take such steps as may be reasonably necessary to put the work in such state of maintenance as not to cause such detriment.
+
+#### Repayment of CRT’s fees, etc.
+
+**28.**[^key-5e58aa913b1f034d1b08b44cc69ee11f] Network Rail must repay to CRT all fees, costs, charges and expenses reasonably incurred by CRT—
+
+- (a) in constructing any protective works under the provisions of paragraph 21(3)(a);
+- (b) in respect of the approval by the engineer of plans submitted by Network Rail and the supervision by the engineer of the construction or repair of a specified work and any protective works;
+- (c) in respect of the employment during the construction of the specified works or any protective works of any inspectors, watchkeepers and other persons whom it is reasonably necessary to appoint for inspecting any waterway and for preventing, so far as may be reasonably practicable, interference, obstruction, danger or accident arising from the construction or failure of the specified works or any protective works; and
+- (d) in bringing the specified works or any protective works to the notice of users of CRT’s network.
+
+#### Making good of detriment; compensation and indemnity, etc.
+
+**29.**[^key-a941461128c80b382fcf95ac7d1930e6] (1) If any detriment is caused by the construction or failure of the specified works or the protective works if carried out by Network Rail, Network Rail (if so required by CRT) must make good such detriment and must pay to CRT all reasonable expenses to which CRT may be put, and compensation for any loss which CRT may sustain, in making good or otherwise by reason of the detriment.
+
+(2) Network Rail is responsible for and must make good to CRT all costs, charges, damages, expenses and losses not otherwise provided for in this part of this Schedule which may be occasioned to or reasonably incurred by CRT—
+
+- (a) by reason of the construction of a specified work or a protective work or the failure of such a work; or
+- (b) by reason of any act or omission of Network Rail or of any person in its employ or of its contractors or others whilst engaged upon the construction of a specified work or a protective work; and subject to sub-paragraph (4) Network Rail must effectively indemnify and hold harmless CRT from and against all claims and demands arising out of or in connection with any of the matters referred to in paragraphs (a) and (b).
+
+(3) The fact that any act or thing may have been done by CRT on behalf of Network Rail or in accordance with plans approved by the engineer or in accordance with any requirement of the engineer or under the engineer’s supervision or in accordance with any directions or awards of an arbitrator does not (if it was done without negligence on the part of CRT or of any person in its employ or of its contractors or agents) excuse Network Rail from any liability under the provisions of this paragraph.
+
+(4) CRT must give Network Rail reasonable notice of any such claim or demand as referred to in sub-paragraph (2) and no settlement or compromise of such a claim or demand is to be made without the prior consent of Network Rail.
+
+#### Arbitration
+
+**30.**[^key-0a2a0a732ed4fc2c4ba6282869772f69] Any difference arising between Network Rail and CRT under this part of this Schedule (other than a difference as to the meaning or construction of this part of this Schedule) must be referred to and settled by arbitration in accordance with article 35 (arbitration).
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order authorises Network Rail Infrastructure Limited (referred to in this Order as Network Rail) to construct a second track on part of the branch line between Redditch and Barnt Green Stations.
+
+The purpose of this Order is to allow the construction of a second railway track parallel to the existing railway together with a new platform and footbridge at Alvechurch station. The works also necessitate the diversion of an existing public footpath that crosses the railway to the south of Alvechurch Station.
+
+The Order permits Network Rail to acquire, compulsorily or by agreement, land and rights in land and to use land for this purpose.
+
+The Order also makes provision in connection with the maintenance of the new section of railway.
+
+A copy of the Order plans and the book of reference mentioned in this Order and certified in accordance with article 33 of this Order (certification of plans, etc.) may be inspected free of charge during working hours at the offices of the Company Secretary and Solicitor to Network Rail Infrastructure Limited at Kings Place, 90 York Way, London N1 9AG.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2009/2264](https://www.legislation.gov.uk/uksi/2009/2264) as amended by the Localism Act (Infrastructure Planning) (Consequential Amendments) Regulations 2012 [S.I. 2012/635](https://www.legislation.gov.uk/uksi/2012/635) and the [Infrastructure Planning (Prescribed Consultees and Interested Parties etc) (Amendment) Regulations 2013 S.I 2013/522](https://www.legislation.gov.uk/uksi/2013/522).
+
+[^f00002]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). Parts 1 to 7 were amended by Chapter 6 of Part 6 of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
+
+[^f00003]: Footnote: [S.I. 2010/103](https://www.legislation.gov.uk/uksi/2010/103).
+
+[^key-6f254dc64060fd047c2ce35743a4fcf7]: Commencement: Art. 1 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-3825fa0d9672d1f382aab6bcef63ed5c]: Commencement: Art. 2 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^f00004]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33). Section 2(2) was amended by section 193 of, and Paragraph 5 of Schedule 3 to, the Local Government, Planning and Land Act [1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65). There are other amendments to the 1980 Act which are not relevant to this Order.
+
+[^f00005]: Footnote: [1965 c.56](https://www.legislation.gov.uk/ukpga/1965/56). Section 3 was amended by section 70 of, and paragraph 3 of Schedule 15 to, the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34). Section 4 was amended by section 3 of, and Part 1 of Schedule 1 to, the Housing (Consequential Provisions) Act [1985 (c.71)](https://www.legislation.gov.uk/ukpga/1985/71). Section 5 was amended by sections 67 and 80 of, and Part 2 of Schedule 18 to, the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34). Section 11(1) and sections 3, 31 and 32 were amended by section 34(1) of, and Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67) and by section 14 of, and paragraph 12(1) of Schedule 5 to, the [Church of England (Miscellaneous Provisions) Measure 2006 (2006 No.1)](https://www.legislation.gov.uk/ukcm/2006/1). Section 12 was amended by section 56(2) of, and Part 1 to Schedule 9 to, the Courts Act [1971 (c.23)](https://www.legislation.gov.uk/ukpga/1971/23). Section 13 was amended by section 139 of the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15). Section 20 was amended by section 70 of, and paragraph 14 of Schedule 15 to, the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34). Sections 9, 25 and 29 were amended by the Statute Law (Repeals) Act [1973 (c.39)](https://www.legislation.gov.uk/ukpga/1973/39). Section 31 was also amended by section 70 of, and paragraph 19 of Schedule 15 to, the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34) and by section 14 of, and paragraph 12(2) of Schedule 5 to, the [Church of England (Miscellaneous Provisions) Measure 2006 (2006 No.1)](https://www.legislation.gov.uk/ukcm/2006/1). There are other amendments to the 1965 Act which are not relevant to this Order.
+
+[^f00006]: Footnote: [1980 c.66](https://www.legislation.gov.uk/ukpga/1980/66). Section 1(1) was amended by section 21(2) of the New Roads and Street Works Act [1991 (c.22)](https://www.legislation.gov.uk/ukpga/1991/22); sections 1(2), (3) and (4) were amended by section 8 of, and paragraph (1) of Schedule 4 to, the Local Government Act [1985 (c.51)](https://www.legislation.gov.uk/ukpga/1985/51); section 1(2A) was inserted by, and section 1(3) was amended by, section 259 (1), (2) and (3) of the Greater London Authority Act [1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29); sections 1(3A) and 1(5) were inserted by section 22(1) of, and paragraph 1 of Schedule 7 to, the Local Government (Wales) Act [1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19). Section 36(2) was amended by section 4(1) of, and paragraphs 47 (a) and (b) of Schedule 2 to, the Housing (Consequential Provisions) Act [1985 (c.71)](https://www.legislation.gov.uk/ukpga/1985/71), by [S.I. 2006/1177](https://www.legislation.gov.uk/uksi/2006/1177), by section 4 of and paragraph 45(3) of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c.11)](https://www.legislation.gov.uk/ukpga/1990/11), by section 64(1) (2) and (3) of the Transport and Works Act [1992 (c.42)](https://www.legislation.gov.uk/ukpga/1992/42) and by section 57 of, and paragraph 5 of Part 1 of Schedule 6 to, the Countryside and Rights of Way Act [2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37); section 36(3A) was inserted by section 64(4) of the Transport and Works Act 1992 and was amended by [S.I. 2006/1177](https://www.legislation.gov.uk/uksi/2006/1177); section 36(6) was amended by section 8 of, and paragraph 7 of Schedule 4 to, the Local Government Act [1985 (c.51)](https://www.legislation.gov.uk/ukpga/1985/51); and section 36(7) was inserted by section 22(1) of, and paragraph 4 of Schedule 7 to, the Local Government (Wales) Act [1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19). Section 329 was amended by section 112(4) of, and Schedule 18 to, the Electricity Act [1989 (c.29)](https://www.legislation.gov.uk/ukpga/1989/29) and by section 190(3) of, and Part 1 of Schedule 27 to, the Water Act [1989 (c.15)](https://www.legislation.gov.uk/ukpga/1989/15). There are other amendments to the 1980 Act which are not relevant to this Order.
+
+[^f00007]: Footnote: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66). Sections 2(3), 6(2) and 11(6) were amended by section 4 of, and paragraph 52 of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11). Section 15 was amended by sections 56 and 321(1) of, and Schedules 8 and 16 to, the Housing and Regeneration Act [2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17). Paragraph 1 of Schedule 2 was amended by section 76 of, and Part 2 of Schedule 9 to, the Housing Act [1988 (c 50)](https://www.legislation.gov.uk/ukpga/1988/50); section 161(4) of, and Schedule 19 to, the Leasehold Reform, Housing and Urban Development Act [1993 (c. 28)](https://www.legislation.gov.uk/ukpga/1993/28); and sections 56 and 321(1) of, and Schedule 8 to, the Housing and Regeneration Act 2008. Paragraph 3 of Schedule 2 was amended by section 76 of, and Schedule 9 to, the Housing Act 1988 and section 56 of, and Schedule 8 to, the Housing and Regeneration Act 2008. Paragraph 2 of Schedule 3 was repealed by section 277 of, and Schedule 9 to, the Inheritance Tax Act [1984 (c. 51)](https://www.legislation.gov.uk/ukpga/1984/51). There are amendments to the 1981Act which are not relevant to this Order.
+
+[^f00008]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
+
+[^f00009]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 56(4) was amended by section 32 of, and paragraph 10(2) of Schedule 7 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). Section 106 was substituted, and section 106A inserted, by section 12(1) of the Planning.
+
+[^f00010]: Footnote: [1991.c. 22](https://www.legislation.gov.uk/ukpga/1991/22). Section 48(3A) was inserted by Section 124 of the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26). Section 79(4), 80(4) and 83(4) are amended by s40 of, and Schedule 1 to, the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).
+
+[^f00011]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21). There are amendments to this Act which are not relevant to this Order.
+
+[^key-43a9b8eac2bc3c34c8f16c222f030ded]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/2809/article/2/1) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/1/paragraph/8/2)
+
+[^f00012]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67). Section 7 was amended by section 70 of, and paragraph 9 of Schedule 15 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to the 1981 Act which are not relevant to this Order.
+
+[^key-2d5faa5835812d409ec61f288741b59f]: Commencement: Art. 3 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^f00013]: Footnote: [1845 c. 20](https://www.legislation.gov.uk/ukpga/1845/20). Section 46 was amended by sections 109(1) and (3) of, and paragraph 22 of Schedule 8, and Schedule 10 to, the Courts Act [2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39). Section 58 was amended by section 46 of, and Part 3 of Schedule 7 to, the Justices of the Peace Act [1949 (c.101)](https://www.legislation.gov.uk/ukpga/1949/101). Section 78 was amended by section 39(3) of, and Schedule 7 to, the Compulsory Purchase Act [1968 (c.56)](https://www.legislation.gov.uk/ukpga/1968/56) and articles 5(1) and (2) of, and paras 1 and 3 of Schedule 1 to, [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307). Section 105 was amended by section 46 of, and Part 3 of Schedule 7 to, the Justices of the Peace Act [1949 (c.101)](https://www.legislation.gov.uk/ukpga/1949/101), and section 31(6) of the Criminal Law Act [1977 (c.45)](https://www.legislation.gov.uk/ukpga/1977/45), and sections 37 and 49 of the Criminal Justice Act [1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48). There are other amendments to the 1845 Act not relevant to this Order.
+
+[^f00014]: Footnote: [1923 c. 20](https://www.legislation.gov.uk/ukpga/1923/20). Section 15 was amended by section 10(1) of the Decimal Currency Act [1969 (c.19)](https://www.legislation.gov.uk/ukpga/1969/19).
+
+[^f00015]: Footnote: [1863 c. 92](https://www.legislation.gov.uk/ukpga/1863/92).
+
+[^key-bb7b93a5199aa9a6301deae74492bd64]: Commencement: Art. 4 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-6b14a78fb7487eedb16ba1f448ac61ae]: Commencement: Art. 5 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-6886ccd94292946fc89dbae15e0ae7ef]: Commencement: Art. 6 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-7465edce7b898e9a8a3b4fa3b30ee999]: Commencement: Art. 7 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-e578a54cf6c5191ce0817cfa20bb9324]: Commencement: Art. 8 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-3b26a4f7d848215732a454edabac7172]: Commencement: Art. 9 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-288521293be10ffedf173be249ff6988]: Commencement: Art. 10 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-5408cb203eebf096b884f1fddbb70d87]: Commencement: Art. 11 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-39e0fe0790db18348dd54304da4bd373]: Commencement: Art. 12 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-34846252e66ed0c53380916e532bc670]: Commencement: Art. 13 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^f00016]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by sections 36(2) and 99 of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37). There are other amendments to this section which are not relevant to this Order.
+
+[^key-8a2b74f09e50161803c789c4da4fc43f]: Textual amendment: Words in [art. 13(7)](https://www.legislation.gov.uk/uksi/2013/2809/article/13/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 56](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/56) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+
+[^f00018]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
+
+[^key-d805ba72ee14088c46188df34ec5c013]: Commencement: Art. 14 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-58079e3280de33d68c85af4b3300452f]: Commencement: Art. 15 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-2aa1383b8f3a8c399f1bcf8fbe84c72c]: Commencement: Art. 16 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-011c37ca53063f03ddb2c6840cb81b67]: Commencement: Art. 17 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-29fcfd00c044a2637c8aaeac2e18ca23]: Commencement: Art. 18 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-1ff6a57c3e878a976a4040909b27b80f]: Commencement: Art. 19 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-054d7971225f196c038c3425228e569a]: Commencement: Art. 20 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-f3c1a045b02451828b9ff3b0908eee63]: Commencement: Art. 21 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-a1db1f7a4071e7b5f7c7d396ab65b271]: Commencement: Art. 22 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-d1d31ea93f8b73871fb282c8e611a9d4]: Commencement: Art. 23 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-2f82cf24e7459efec65b85f169372ce1]: Commencement: Art. 24 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-7a5a7a3937ce447184faf111da5f1c37]: Commencement: Art. 25 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-b85ad9096209113ab4686b2e248bef5b]: Commencement: Art. 26 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-6cbef895ca78c70ddd181edcaadd58a4]: Commencement: Art. 27 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^f00019]: Footnote: [1993 c.43](https://www.legislation.gov.uk/ukpga/1993/43). There are amendments to this Act which are not relevant to this Order.
+
+[^key-44df6d722baf68ccc82c54ae53158cf9]: Commencement: Art. 28 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-c71a96350302422f757d9576499fcb1b]: Commencement: Art. 29 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-538ea6fdfc88dd8ea794e3c70f355918]: Commencement: Art. 30 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^f00020]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). There are amendments to this Act which are not relevant to this Order.
+
+[^f00021]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40). Sections 61(9) and 65(8) were amended by section 162 of, and paragraph 15 of Schedule 3 to, the Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43). There are other amendments to the 1974 Act which are not relevant to this Order.
+
+[^key-227a28ad38fa133505b3a5f4adaeb6ef]: Commencement: Art. 31 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^f00022]: Footnote: [2004 c.18](https://www.legislation.gov.uk/ukpga/2004/18).
+
+[^key-fe56074deff0c3c9b6d7006a3c1a5bd1]: Commencement: Art. 32 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^f00023]: Footnote: [1973 c.26](https://www.legislation.gov.uk/ukpga/1973/26). Section 20 was amended by subsection (6) and (12) of section 146 of, and Schedule 13 to, the Road Traffic Regulation Act [1984 (c.27)](https://www.legislation.gov.uk/ukpga/1984/27). Subsection (10) of section 20 was repealed by section 343(3) of, and Schedule 25 to, the Highway Act [1980 (c.66)](https://www.legislation.gov.uk/ukpga/1980/66) and subsection (11) was repealed by section 155 of, and Schedule 25 to, the Rent Act [1977 (c.42)](https://www.legislation.gov.uk/ukpga/1977/42). There are other amendments to the 1973 Act which are not relevant to this Order.
+
+[^key-5992399a2c075abaffca446c3bec4fcf]: Commencement: Art. 33 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-01b2ba926a04debba457abab026a9f32]: Commencement: Art. 34 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^f00024]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-e77f74e73600a31b10161cc3127661e3]: Commencement: Art. 35 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-44f71dea63f56bcea68a4ffe7a9d4045]: Commencement: Art. 36 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-2b85baf4fd72bb11fd2dbf26b2d29680]: Commencement: Art. 37 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-a1d312ff3cb66f59dc153372e2401d1e]: Commencement: Art. 38 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-c21096bdc881f103556f46072307eacc]: Commencement: Art. 39 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-e00594da6cbe0ab15c91a797ffea56cc]: Commencement: Sch. 1 Pt. 1 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-4d1ad65a76e861278a0f64bb39e85ae5]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-b91cca93d66fb7950e64a03d912dfca9]: Commencement: [Sch. 1 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2013/2809/schedule/1/part/2/paragraph/2) in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-99756f2d692e4eb1ad8b6d8c2f61d284]: Commencement: [Sch. 1 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/2013/2809/schedule/1/part/2/paragraph/3) in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-0939c5746e8636a09eb4f70a415e499a]: Commencement: [Sch. 1 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/2013/2809/schedule/1/part/2/paragraph/4) in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-59dd38fb60f0ef447722296562b69675]: Commencement: [Sch. 1 Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/2013/2809/schedule/1/part/2/paragraph/5) in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-4d959c22f7fd1df939e0db64a5791394]: Commencement: [Sch. 1 Pt. 2 para. 6](https://www.legislation.gov.uk/uksi/2013/2809/schedule/1/part/2/paragraph/6) in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-38bad562626095f3c0a76cf504750911]: Commencement: [Sch. 1 Pt. 2 para. 7](https://www.legislation.gov.uk/uksi/2013/2809/schedule/1/part/2/paragraph/7) in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-e66b849086b144ffb0d1e8ef4704a21f]: Commencement: [Sch. 1 Pt. 2 para. 8](https://www.legislation.gov.uk/uksi/2013/2809/schedule/1/part/2/paragraph/8) in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-b56296cc21d968926c6e2551af0af6d0]: Commencement: [Sch. 1 Pt. 2 para. 9](https://www.legislation.gov.uk/uksi/2013/2809/schedule/1/part/2/paragraph/9) in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-51975433e5a99b72fc8fc3ec59763602]: Commencement: [Sch. 1 Pt. 2 para. 10](https://www.legislation.gov.uk/uksi/2013/2809/schedule/1/part/2/paragraph/10) in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-087f1d9b8b414077ecf94eeb8fc799bf]: Commencement: [Sch. 1 Pt. 2 para. 11](https://www.legislation.gov.uk/uksi/2013/2809/schedule/1/part/2/paragraph/11) in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-2b6724ec8085505c3894b57699c4c2e1]: Commencement: [Sch. 1 Pt. 2 para. 12](https://www.legislation.gov.uk/uksi/2013/2809/schedule/1/part/2/paragraph/12) in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-1f9bf5f256cff39b37e4ecbab4e2d7d6]: Commencement: [Sch. 1 Pt. 2 para. 13](https://www.legislation.gov.uk/uksi/2013/2809/schedule/1/part/2/paragraph/13) in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-0ef67536e8d7233c8c5788c7bd9ddf45]: Commencement: [Sch. 1 Pt. 2 para. 14](https://www.legislation.gov.uk/uksi/2013/2809/schedule/1/part/2/paragraph/14) in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-a2c5a2c42edaabcc046fd073ae207173]: Commencement: [Sch. 1 Pt. 2 para. 15](https://www.legislation.gov.uk/uksi/2013/2809/schedule/1/part/2/paragraph/15) in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-06c3f164e48439d0da68edddb440b280]: Commencement: [Sch. 1 Pt. 2 para. 16](https://www.legislation.gov.uk/uksi/2013/2809/schedule/1/part/2/paragraph/16) in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-aa1fc2894460fe0c34acd7fe04f2dfac]: Commencement: [Sch. 1 Pt. 2 para. 17](https://www.legislation.gov.uk/uksi/2013/2809/schedule/1/part/2/paragraph/17) in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-55f1d869ca9f196b7287fdb10cb2510d]: Commencement: [Sch. 1 Pt. 2 para. 18](https://www.legislation.gov.uk/uksi/2013/2809/schedule/1/part/2/paragraph/18) in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-d6c36bdccf6eedb3258ea256da61ed1b]: Commencement: [Sch. 1 Pt. 2 para. 19](https://www.legislation.gov.uk/uksi/2013/2809/schedule/1/part/2/paragraph/19) in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-d7545492817cad060c38afb394c947e3]: Commencement: Sch. 2 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-bf6553c864e3c9b808f653deddc50294]: Commencement: Sch. 3 Pt. 1 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-97161524c11f1dab9866b5ec1736161d]: Commencement: Sch. 3 Pt. 2 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-f503cba7def541ac75fb6e9aea34851c]: Commencement: Sch. 4 Pt. 1 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-77584ff7ba7e7e15b939753a107c951e]: Commencement: Sch. 4 Pt. 2 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-f721a238552e787c2fdb3f344c3f10e3]: Commencement: Sch. 5 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-fea105868162a5021cbd25186f0ef176]: Commencement: Sch. 6 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-014b38f09f8742d29de2d86e61100078]: Commencement: Sch. 7 para. 1 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-da2ac8047b77b796b5d1c0b1c37a8506]: Commencement: Sch. 7 para. 2 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-5251224055c4b3ea6259b89375a9390b]: Commencement: Sch. 7 para. 3 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-5b625247232972a323978b76a2a70f1b]: Commencement: Sch. 7 para. 4 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-d5529430ed095814c8f2b06518980087]: Commencement: Sch. 7 para. 5 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^f00025]: Footnote: [S.I. 2013/2809](https://www.legislation.gov.uk/uksi/2013/2809).
+
+[^key-a7aba168088970352b3d94f48aff958b]: Commencement: Sch. 7 para. 6 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-640b9cbc1ab1d9455ec336f6cb5a745b]: Commencement: Sch. 7 para. 7 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-49ce6d380a9086947cc955813dcee08c]: Commencement: Sch. 7 para. 8 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-73cc6736d94d9fab6b24ae6e01d78083]: Commencement: Sch. 7 para. 9 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-411a913e9c7b0d61fd53e41dea00b3c9]: Commencement: Sch. 8 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-aa754d293a4448c2e41e4fcd103df164]: Commencement: Sch. 9 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-59c9f9fd224a2c869116728902a943ba]: Commencement: Sch. 10 para. 1 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-db1fb5645d43f6b7f8ab7a3d414d42ed]: Commencement: Sch. 10 para. 2 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^f00026]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
+
+[^f00027]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
+
+[^f00028]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). A new section 7 was substituted by section 5 of the Gas Act [1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45), and was further amended by section 76 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
+
+[^key-2cadc8c01cac509833877f3691be19dd]: Commencement: Sch. 10 para. 3 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-fbc8ba92e1fe39ec993558590cc54d08]: Commencement: Sch. 10 para. 4 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-c0d2a9367402f31c0463e37b2ba0144b]: Commencement: Sch. 10 para. 5 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-b0e33564ff6e62f54cc524357da8b0a0]: Commencement: Sch. 10 para. 6 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-dd454b127db3ea2cbed5b89daa016fe1]: Commencement: Sch. 10 para. 7 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-651119666977e0d0ff18ceef2e36349b]: Commencement: Sch. 10 para. 8 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-79fa6b97f105014d7267e83b515b6cf7]: Commencement: Sch. 10 para. 9 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-f16efa2e1cc79eca265ed0a62d941bdf]: Commencement: Sch. 10 para. 10 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-974d752da4bc42ab38a78aa5d1d77e79]: Commencement: Sch. 10 para. 11 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-98c8cfc2005116e8138f0cc49d0358b6]: Textual amendment: Words in [Sch. 10 para. 11(2)](https://www.legislation.gov.uk/uksi/2013/2809/schedule/10/paragraph/11/2) omitted (28.12.2017) by virtue of [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 1 para. 8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/1/paragraph/8/3/a/i)
+
+[^f00029]: Footnote: See section 106.
+
+[^key-9e64445d0793ab4aef77cc2eda1a0191]: Textual amendment: Words in [Sch. 10 para. 11(2)](https://www.legislation.gov.uk/uksi/2013/2809/schedule/10/paragraph/11/2) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 1 para. 8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/1/paragraph/8/3/a/ii)
+
+[^key-3384db93b0e6ec7a2be6a640d25b3000]: Textual amendment: Words in [Sch. 10 para. 11(2)](https://www.legislation.gov.uk/uksi/2013/2809/schedule/10/paragraph/11/2) inserted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 1 para. 8(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/1/paragraph/8/3/a/iii)
+
+[^key-335b1865f71fdfbba68cf7a026dda423]: Commencement: Sch. 10 para. 12 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-6e95bb9a2c758ff9db62647e16ac2247]: Textual amendment: Words in [Sch. 10 para. 12](https://www.legislation.gov.uk/uksi/2013/2809/schedule/10/paragraph/12) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 1 para. 8(3)(b)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/1/paragraph/8/3/b)
+
+[^key-71ffe000bd9a0ba7c2d8e31d16e75e06]: Commencement: Sch. 10 para. 13 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-e2de1919d82e5973d3ff718f597ec74d]: Commencement: Sch. 10 para. 14 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-1eb8b6139c574510961253bf9cc4085c]: Commencement: Sch. 10 para. 15 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-358901ee2e8eefcee753127d6eebc92e]: Commencement: Sch. 10 para. 16 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-ef9ee8ea911bfef53d9bd4501c66d604]: Commencement: Sch. 10 para. 17 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-7b9f78c3f3cb8fe5a075f86aa7c945f9]: Commencement: Sch. 10 para. 18 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-156f170ce15c1982f0b7a40d9381ecbf]: Commencement: Sch. 10 para. 19 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-9257f8b24ebd38f1d338983785e33b20]: Commencement: Sch. 10 para. 20 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-dd5dbc72b011185da536e366359cbe75]: Commencement: Sch. 10 para. 21 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-270a07701c8d2aca853c9d001a187512]: Commencement: Sch. 10 para. 22 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^f00031]: Footnote: [1995 c. i](https://www.legislation.gov.uk/ukla/1995/1).
+
+[^key-fdf1b937dca7fa330b80315ca43fc26a]: Commencement: Sch. 10 para. 23 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-826969155cba0305db27cdaa05da6bdd]: Commencement: Sch. 10 para. 24 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^f00032]: Footnote: [1968 c. 73](https://www.legislation.gov.uk/ukpga/1968/73).
+
+[^key-8e42714467cd7391e72a76d12e180745]: Commencement: Sch. 10 para. 25 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-c4a45819224f2edfb60a70eb9ee1a14a]: Commencement: Sch. 10 para. 26 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-b64e519f444616a5f194702a7a5555d4]: Commencement: Sch. 10 para. 27 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-5e58aa913b1f034d1b08b44cc69ee11f]: Commencement: Sch. 10 para. 28 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-a941461128c80b382fcf95ac7d1930e6]: Commencement: Sch. 10 para. 29 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)
+
+[^key-0a2a0a732ed4fc2c4ba6282869772f69]: Commencement: Sch. 10 para. 30 in force at 21.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2809/article/1)

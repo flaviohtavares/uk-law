@@ -1,0 +1,57 @@
+---
+title: Crossrail Act 2008, section 7
+act: Crossrail Act 2008
+section: '7'
+status: revised-with-pending-changes
+text_date: '2026-04-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2008/18/section/7
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Crossrail Act 2008, section 7
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/18
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 7. Acquisition of land not subject to the power under section 6(1)
+
+*Extent: E+W+S+N.I.*
+
+(1)[^key-4a1f44abf5cbee564364faf346561b95] The Secretary of State may acquire compulsorily land outside the limits of deviation for the scheduled works and the limits of land to be acquired or used which is required for or in connection with the works authorised by this Act or otherwise for or in connection with Crossrail.
+
+(2)[^key-4a1f44abf5cbee564364faf346561b95] The Secretary of State may acquire compulsorily land within the limits of deviation for the scheduled works or the limits of land to be acquired or used which—
+
+- (a) is required for or in connection with the works authorised by this Act or otherwise for or in connection with Crossrail, and
+- (b) is not land in relation to which the power conferred by section 6(1) is exercisable.
+
+(3) Subsection (2) shall have effect as if land specified in the table in paragraph 8, 9, 11(1) or 12 of Schedule 6, or in columns (1) and (2) of the table in paragraph 10 of that Schedule, were not land in relation to which the power conferred by section 6(1) is exercisable, but the power conferred by subsection (2) shall not be exercisable—
+
+- (a) in the case of land specified in the table in paragraph 8, 9 or 12, in relation to the creation and acquisition of any easement or other right over land in relation to the creation and acquisition of which the power under section 6(1) is exercisable;
+- (b) in the case of land specified in columns (1) and (2) of the table in paragraph 10, in relation to so much of the land as falls within the description specified in relation to it in column (3) of the table;
+- (c) in the case of land specified in the table in paragraph 11(1) or 12, in relation to so much of the subsoil or under-surface of the land as lies more than 9 metres beneath the level of the surface of the land.
+
+(4) Without prejudice to the generality of subsections (1) and (2), the land which may be compulsorily acquired under those subsections shall include land which is or will be required—
+
+- (a) for use in mitigating the effect on the environment of any of the works authorised by this Act,
+- (b) for use in relocating apparatus which it is expedient to divert or replace in consequence of the carrying out of any of the works authorised by this Act, or
+- (c) for the purpose of being given in exchange for land forming part of a common, open space or fuel or field garden allotment which is acquired under section 6(1).
+
+(5) The power of acquiring land compulsorily under subsection (1) or (2) shall include power to acquire an easement or other right over land by the grant of a new right.
+
+(6) The Acquisition of Land Act 1981 (c. 67) shall apply to the compulsory acquisition of land under subsection (1) or (2); and Schedule 3 to that Act shall apply to a compulsory acquisition by virtue of subsection (5).
+
+(7) Part 1 of the Compulsory Purchase Act 1965 (c. 56), and the enactments relating to compensation for the compulsory purchase of land, shall apply to a compulsory acquisition by virtue of subsection (5) above with the modifications mentioned in paragraph 6(2)(a) and (b) of Schedule 6.
+
+(8) In this section—
+
+- “**apparatus**” includes a sewer, drain or tunnel and any structure for the lodging therein of apparatus or for gaining access to apparatus;
+- “**common**” includes any land subject to be enclosed under the Inclosure Acts 1845 to 1882, and any town or village green;
+- “**fuel or field garden allotment**” means any allotment set out as a fuel allotment, or a field garden allotment, under an Inclosure Act;
+- “**open space**” means any land laid out as a public garden, or used for the purposes of public recreation, or land which is a disused burial ground.
+
+## Annotations
+
+[^key-4a1f44abf5cbee564364faf346561b95]: Modification: S. 7(1)(2) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [3](https://www.legislation.gov.uk/uksi/2010/988/article/3/1) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/988/article/13))

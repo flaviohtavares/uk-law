@@ -1,0 +1,32 @@
+---
+title: The Explosives Regulations 2014, section 57
+act: The Explosives Regulations 2014
+section: '57'
+status: revised
+text_date: '2024-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/1638/section/57
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Explosives Regulations 2014, section 57
+
+> Text as at 2024-10-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 57. Prohibition on making available on the market where civil explosive considered not to be in conformity with the essential safety requirements[^key-858488a89cb65a91a8398020468dfb06]
+
+*Extent: E+W+S+N.I.*
+
+(1) Where a distributor considers, or has reason to believe, that a civil explosive is not in conformity with the essential safety requirements, the distributor must not make the civil explosive available on the market.
+
+(2) Where the civil explosive presents a risk, the distributor must inform the following persons of the risk—
+
+- (a) the manufacturer or the importer; and
+- (b) the market surveillance authority.
+
+## Annotations
+
+[^key-858488a89cb65a91a8398020468dfb06]: Textual amendment: Pt. 13 (regs. 39-77) substituted for Pt. 13 (regs. 39-42) (and therefore original regs. 43, 44 renumbered as new regs. 78, 79, new reg. 80 substituted for original reg. 45 and original regs. 46-49 renumbered as new regs. 81-84) (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [7](https://www.legislation.gov.uk/uksi/2016/315/regulation/7), [8](https://www.legislation.gov.uk/uksi/2016/315/regulation/8), [9](https://www.legislation.gov.uk/uksi/2016/315/regulation/9) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))

@@ -1,0 +1,162 @@
+---
+title: The Spirits (Amendment) Regulations 2013
+id: uksi/2013/1229
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-05-29'
+text_date: '2025-05-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2013/1229
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/1229/pdfs/uksiem_20131229_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1229/pdfs/uksi_20131229_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1229/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Spirits (Amendment) Regulations 2013
+
+> Text as at 2025-05-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2013 No. 1229
+
+Excise
+
+The Spirits (Amendment) Regulations 2013
+
+Made
+
+29th May 2013
+
+Laid before Parliament
+
+30th May 2013
+
+Coming into force
+
+1st July 2013
+
+The Commissioners for Her Majesty’s Revenue and Customs, in exercise of the powers conferred by section 93 of the Customs and Excise Management Act 1979[^f00001] and sections 2 and 19(1) of the Alcoholic Liquor Duties Act 1979[^f00002], make the following Regulations.
+
+## 1. Citation and Commencement[^key-39be30b606c1909995cf0f2c869b709c]
+
+These Regulations may be cited as the Spirits (Amendment) Regulations 2013 and come into force on 1st July 2013.
+
+## 2. Revocation of the Spirits (Rectifying, Compounding and Drawback) Regulations 1988[^key-4064e54550e618df9275c2b5c13ad5fd]
+
+The Spirits (Rectifying, Compounding and Drawback) Regulations 1988[^f00003] are revoked.
+
+## 3. Amendments to the Spirits Regulations 1991[^key-eda9fd7fe9daef623b5c3580d047fc39]
+
+(1) The Spirits Regulations 1991[^f00004] are amended as follows.
+
+(2) Omit regulation 2.
+
+(3) In regulation 3—
+
+- (a) omit “, unless the context otherwise requires”;
+- (b) omit the definitions of—
+  - (i) “the Act”;
+  - (ii) “approved”;
+  - (iii) “distiller”;
+  - (iv) “distiller’s warehouse”;
+  - (v) “distillery”;
+  - (vi) “feints”;
+  - (vii) “low wines”;
+  - (viii) “still”;
+  - (ix) “wort”; and
+  - (x) “wash”.
+- (c) in the definition of “plant”, insert “, rectifying or compounding” after “manufacture” wherever that word occurs.
+
+(4) After regulation 6, add—
+
+> **7. Rectifiers and compounders: entry of premises and plant**
+>
+> (1) No person shall make use, for rectifying or compounding spirits, of any premises or plant unless they have first made entry of that premises or plant.
+>
+> (2) Paragraph (1) does not apply in respect of operations carried out in a warehouse or to persons authorised in accordance with section 8(1) or 10(1) of the Alcoholic Liquor Duties Act 1979.
+
+.
+
+(5) In regulation 18(1)—
+
+- (a) in paragraph (a), for “the table entitled “The Practical Alcohol Tables Volume 2”” substitute “Volume 2 of the Practical Alcohol Tables”; and
+- (b) in paragraph (b), omit “table entitled” and the inverted commas around “Laboratory Alcohol Table”.
+
+(6) In regulation 19(2), omit “table entitled” and the inverted commas around “Contents by Weight Table”.
+
+(7) In regulation 26, omit “approved as” wherever it occurs.
+
+## 4. Amendments to the Duty Stamps Regulations 2006[^key-7ffe959afac464fc83da2123505dcb1a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendments to the Beer, Cider and Perry, Spirits and Wine and Made-wine (Amendment) Regulations 2006[^key-d9767b1b78c61fc96fe21a9d7a816aad]
+
+(1) The Beer, Cider and Perry, Spirits and Wine and Made-wine (Amendment) Regulations[^f00006] 2006 are amended as follows.
+
+(2) Omit regulation 6.
+
+Simon Bowles
+
+Edward Troup
+
+Two of the Commissioners for Her Majesty’s Revenue and Customs
+
+29th May 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations revoke the Spirits (Rectifying, Compounding and Drawback) Regulations 1988 ([S.I. 1988/1760](https://www.legislation.gov.uk/uksi/1988/1760)) and amend the Spirits Regulations 1991 ([S.I. 1991/2564](https://www.legislation.gov.uk/uksi/1991/2564)) (“the Spirits Regulations”). They also make consequential amendment to the Duty Stamps Regulations 2006 ([S.I. 2006/202](https://www.legislation.gov.uk/uksi/2006/202)) (“the Duty Stamps Regulations”) and to the Beer, Cider and Perry, Spirits and Wine and Made-wine (Amendment) Regulations 2006 ([S.I. 2006/1058](https://www.legislation.gov.uk/uksi/2006/1058)).
+
+Regulation 2 revokes the Spirits (Rectifying, Compounding and Drawback) Regulations 1988.
+
+Regulation 3(2) revokes regulation 2 of the Spirits Regulations.
+
+Regulation 3(3) removes redundant words and redundant and superfluous definitions from Regulation 3 of the Spirits Regulations. It also amends the definition of “plant” to include plant used for rectifying and compounding spirits.
+
+Regulation 3(4) inserts a new regulation 7 in the Spirits Regulations, providing for rectifiers and compounders to give notification of their premises and plant to the Commissioners for Her Majesty’s Revenue and Customs.
+
+Regulation 3(5) simplifies the references to the “Practical Alcohol Tables” and to the “Laboratory Alcohol Table” in regulation 18(1) of the Spirits Regulations.
+
+Regulation 3(6) simplifies the reference to the “Contents by Weight Table” in regulation 19(2) of the Spirits Regulations.
+
+Regulation 3(7) removes the superfluous references in regulation 26 of the Spirits Regulations to “approved” warehouse vats and spirit receivers.
+
+Regulation 4 amends the Duty Stamps Regulations to insert references to entries made in accordance with the new regulation 7 of the Spirits Regulations.
+
+Regulation 5 revokes regulation 6 of the Beer, Cider and Perry, Spirits and Wine and Made-wine (Amendment) Regulations 2006 ([S.I. 2006/1058](https://www.legislation.gov.uk/uksi/2006/1058)).
+
+A Tax Information and Impact Note covering this instrument will be published on the HMRC website at http://www.hmrc.gov.uk/thelibrary/tiins.htm.
+
+## Annotations
+
+[^f00001]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2); section 1(1) defines “the Commissioners”; the definition of “the Commissioners” was substituted by the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), Schedule 4, paragraph 22(b); section 93(1) was substituted, sections 93(2), (2A), (3), (7) amended, and section 93(5A) inserted, by the Finance (No. 2) Act [1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), Schedule 2, paragraph 2; section 93(2) was amended by the Finance Act [1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), Schedule 8, Part I, paragraph 2, by the Finance Act [1986 (c. 41)](https://www.legislation.gov.uk/ukpga/1986/41), Schedule 3, paragraphs 1, 3, 4 and by the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), sections 9(2), Schedule 14, Part I; section 93(2A) was inserted by the Finance Act 1981, Schedule 8, Part I, paragraph 2; section 93(6) was amended by the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), Schedule 4, paragraph 3; section 93(7) was inserted by the Finance Act 1981, Schedule 8, Part I, paragraph 2 and substituted by the Finance Act 1986, Schedule 3, paragraphs 1, 7.
+
+[^f00002]: Footnote: [1979 c. 4](https://www.legislation.gov.uk/ukpga/1979/4); section 2 was substituted by [S.I. 1979/241](https://www.legislation.gov.uk/uksi/1979/241), article 6; section 2(1) was amended by [S.I. 1992/3158](https://www.legislation.gov.uk/uksi/1992/3158), regulations 2(1), 3 and amended by the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), Schedule 29, Part I(3); section 2(3A) was inserted by the Finance Act 1981, Schedule 8, Part II, paragraph 10, amended by the Finance Act [1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31), Schedule 2, paragraph 3(1) and by the Finance Act [1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16), section 5(3); section 2(5) was amended by the Finance Act 1991, Schedule 2, paragraph 3(2); section 2(6) was repealed by the Finance Act 1991, Schedule 2, paragraph 3(3), Schedule 19, Part II; sections 2(7) and 2(8) were amended by the Finance Act 1995, Schedule 29, Part I(3); section 4(2) of the Alcoholic Liquor Duties Act 1979 provides for that Act to be construed as one with the Customs and Excise Management Act 1979 and section 4(3) applies the definitions in that latter Act; section 1(1) of the Customs and Excise Management Act 1979 defines “the Commissioners”.
+
+[^key-39be30b606c1909995cf0f2c869b709c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/1229/regulation/1) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1229/regulation/1)
+
+[^key-4064e54550e618df9275c2b5c13ad5fd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/1229/regulation/2) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1229/regulation/1)
+
+[^f00003]: Footnote: [S.I. 1988/1760](https://www.legislation.gov.uk/uksi/1988/1760), amended by [S.I. 1991/2564](https://www.legislation.gov.uk/uksi/1991/2564), [2006/1058](https://www.legislation.gov.uk/uksi/2006/1058).
+
+[^key-eda9fd7fe9daef623b5c3580d047fc39]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1229/regulation/3) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1229/regulation/1)
+
+[^f00004]: Footnote: [S.I. 1991/2564](https://www.legislation.gov.uk/uksi/1991/2564), amended by [S.I. 2005/1524](https://www.legislation.gov.uk/uksi/2005/1524), [S.I. 2006/1058](https://www.legislation.gov.uk/uksi/2006/1058).
+
+[^key-7ffe959afac464fc83da2123505dcb1a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1229/regulation/4) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(d)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/d)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
+
+[^key-d9767b1b78c61fc96fe21a9d7a816aad]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/1229/regulation/5) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1229/regulation/1)
+
+[^f00006]: Footnote: [S.I. 2006/1058](https://www.legislation.gov.uk/uksi/2006/1058).

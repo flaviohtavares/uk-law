@@ -1,0 +1,100 @@
+---
+title: Boundary Commissions Act 1992
+id: ukpga/1992/55
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1992-11-12'
+text_date: '2020-12-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1992/55
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1992/55/pdfs/ukpga_19920055_en.pdf
+- http://www.legislation.gov.uk/ukpga/1992/55/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Boundary Commissions Act 1992
+
+> Text as at 2020-12-14.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Boundary Commissions Act 1992
+
+1992 c. 55
+
+An Act to make further provision with respect to the membership of the Boundary Commissions, the timing of their reports and the local government boundaries of which account is to be taken in their reports.
+
+\[12th November 1992\] [^c8601821]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-a0de5f76b0d30d59e6aa2bd69bc9c743][^key-a0ed296935fb2777b0952d9c384a51b3][^key-d0c6fc761fdda70c8367073939c2224d][^key-678f83777857dec06be05e42b75bc59d]
+
+## 1. Remuneration of members of Boundary Commissions.
+
+(1) For the purpose of enabling remuneration to be paid to members of the Boundary Commissions, in the [^c8601831]Parliamentary Constituencies Act 1986 (in this Act referred to as “**the 1986 Act**”) Schedule 1 (which provides for the constitution of, and other matters relating to, the Boundary Commissions) shall be amended in accordance with this section.
+
+(2) After paragraph 4 (terms and conditions of appointment of members) there shall be inserted the following paragraph—
+
+> **4A.**
+>
+> In the case of a member of a Commission other than the chairman or deputy chairman, the conditions referred to in paragraph 4 above may include such provisions with respect to remuneration as the Secretary of State may determine with the approval of the Treasury.
+
+(3) In the case of a member of a Boundary Commission appointed before the passing of this Act, the power to make a determination under paragraph 4A (as set out in subsection (2) above) may be exercised at any time after the passing of this Act.
+
+(4) In paragraph 8 (expenses of the Commissions) for the words from “including” to “assistant Commissioners” there shall be substituted “ including the remuneration and travelling and other expenses of the members, assistant Commissioners ”.
+
+## 2. Time limits for submission of reports.
+
+(1)[^key-e2917badab88b50e854ea68805e1122b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-76dae550360789d602bba130f39286bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-ed5cda6e3774e4d6053a1e246e45df1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) After subsection (2) of section 3 of the 1986 Act there shall be inserted the following subsection—
+
+> (2A) A failure by a Boundary Commission to submit a report within the time limit which is appropriate to that report shall not be regarded as invalidating the report for the purposes of any enactment.
+
+## 3. Local government boundaries to be taken into account in reports.[^key-a1ad9fd8a98c50cb1029aa64e1812874]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Financial provision.
+
+There shall be paid out of money provided by Parliament any increase attributable to this Act in the sums payable out of such money under the 1986 Act.
+
+## 5. Short title, citation and extent.
+
+(1) This Act may be cited as the Boundary Commissions Act 1992.
+
+(2) This Act shall be included among the Acts which may be cited as the Representation of the People Acts.
+
+(3) This Act extends to Northern Ireland.
+
+## Annotations
+
+[^c8601821]: Commencement: Act wholly in force at Royal Assent.
+
+[^key-a0de5f76b0d30d59e6aa2bd69bc9c743]: Modification: Act amendment to earlier affecting provision 2000 c. 41, Sch. 22 (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 61(3)(e)](https://www.legislation.gov.uk/ukpga/2009/20/section/61/3/e), [148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(j)(hh)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/j/hh)
+
+[^key-a0ed296935fb2777b0952d9c384a51b3]: Modification: Act power to apply or incorporate (with modifications) conferred (15.9.2011) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 58(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/58/1)[(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/58/7)
+
+[^key-d0c6fc761fdda70c8367073939c2224d]: Modification: Act power to apply or incorporate (with modifications) conferred (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 54(2)-(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/54/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
+
+[^key-678f83777857dec06be05e42b75bc59d]: Modification: Act power to apply (with modifications) conferred by 1998 c. 46, ss. 12(4)(5) (as substituted (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/4/1), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/b))
+
+[^c8601831]: Marginal citation: [1986 c. 56](https://www.legislation.gov.uk/ukpga/1986/56).
+
+[^key-e2917badab88b50e854ea68805e1122b]: Textual amendment: [S. 2(1)](https://www.legislation.gov.uk/ukpga/1992/55/section/2/1) omitted (14.12.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2), [Sch. para. 7(a)](https://www.legislation.gov.uk/ukpga/2020/25/schedule/paragraph/7/a) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+
+[^key-76dae550360789d602bba130f39286bc]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/1992/55/section/2/2) omitted (14.12.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2), [Sch. para. 7(b)](https://www.legislation.gov.uk/ukpga/2020/25/schedule/paragraph/7/b) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+
+[^key-ed5cda6e3774e4d6053a1e246e45df1e]: Textual amendment: S. 2(3) repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12/part/2)
+
+[^key-a1ad9fd8a98c50cb1029aa64e1812874]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1992/55/section/3) repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12/part/2)

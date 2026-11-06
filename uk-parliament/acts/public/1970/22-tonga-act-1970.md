@@ -1,0 +1,141 @@
+---
+title: Tonga Act 1970
+id: ukpga/1970/22
+type: UnitedKingdomPublicGeneralAct
+category: primary
+status: revised
+made_date: '1970-05-15'
+text_date: '2009-10-31'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1970/22
+pdf_urls:
+- http://www.legislation.gov.uk/ukpga/1970/22/pdfs/ukpga_19700022_en.pdf
+- http://www.legislation.gov.uk/ukpga/1970/22/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Tonga Act 1970
+
+> Text as at 2009-10-31.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+Tonga Act 1970
+
+1970 c.22
+
+An Act to make provision in connection with the attainment by Tonga of fully responsible status within the Commonwealth.
+
+\[15th May 1970\]
+
+## 1. Operation of existing law.
+
+(1) The following provisions of this section shall have effect on and after 4th June 1970 (the date on which Tonga ceases to be a protected state and becomes an independent State within the Commonwealth); and that day is in the following provisions of this Act referred to as the appointed day.
+
+(2) Subject to the following provisions of this Act, all law which, whether being a rule of law or a provision of an Act of Parliament or of any other enactment or instrument whatsover, is in force on the appointed day or has been passed or made before that day and comes into force thereafter, shall, unless and until provision to the contrary is made by Parliament of some other authority having power in that behalf, have the same operation in relation to Tonga, and persons and things belonging to or connected with Tonga, as it would have apart from this subsection if there had been no change in the status of Tonga on the appointed day.
+
+(3) Part I of the Schedule to this Act (which relates to enactments applicable to Commonwealth countries having fully responsible status) and Part II of that Schedule (which relates to enactments excepted from the operation of the preceding subsection) shall have effect in relation to the enactments therein mentioned; but that Schedule shall not extend to Tonga as part of its law.
+
+(4) Subsection (2) of this section applies to law of, or of any part of, the United Kingdom, the Channel Islands and the Isle of Man, and, in relation only to any enactment of the Parliament of the United Kingdom or any Order in Council made by virtue of any such enactment whereby any such enactment applies in relation to Tonga, to the law of any other country or territory to which that enactment or Order extends.
+
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c692111]
+
+## 3.
+
+An Order in Council or other instrument made under any Act of Parliament passed before the appointed day which varies or revokes a previous Order in Council or instrument in consequence of the change, on the appointed day, in the status of Tonga may, if made after the appointed day, be so made as to take effect on the appointed day.
+
+## 4. Short title and interpretation.
+
+(1) This Act may be cited as the Tonga Act 1970.
+
+(2) References in this Act to any enactment are references to that enactment as amended or extended by or under any other enactment.
+
+## SCHEDULE — Amendments not affecting the Law of Tonga
+
+Section 1.
+
+### Part I — Extension of certain enactments applicable to Commonwealth countries having fully responsible status
+
+#### Diplomatic immunities
+
+**1.**[^c692112] In section 1(6) of the [^c692113]Diplomatic Immunities (Commonwealth Countries and Republic of Ireland) Act 1952, before the word “and” in the last place where it occurs there shall be inserted the word “Tonga”.
+
+**2.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c692114]
+
+#### Financial
+
+**3.**[^c692115] In section 2(4) of the [^c692116]Import Duties Act 1958, before the words “together with” there shall be inserted the word “Tonga”.
+
+#### Armed forces
+
+**4.**[^key-2f7b18c490ab6622137f317c6f8cfd99][^c692117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.** In the [^c692121]Visiting Forces (British Commonwealth) Act 1933, section 4 (attachment and mutual powers of command) shall apply in relation to forces raised in Tonga as it applies in relation to forces raised in Dominions within the meaning of the [^c692122]Statute of Westminster 1931.
+
+**6.** In the [^c692123]Visiting Forces Act 1952, in section 1(1)(*a*) (countries to which that Act applies), at the end there shall be added the words “Tonga or”, and, until express provision with respect to Tonga is made by Order in Council under section 8 of that Act (application to visiting forces of law relating to home forces), any such Order for the time being in force shall be deemed to apply to visiting forces of Tonga.
+
+**7.** (1)[^c692124] In section 84(2) of the [^c692125]Offices, Shops and Railway Premises Act 1963 (exclusion of application to visiting forces) before the words “and any country” there shall be inserted the word “Tonga”.
+
+(2)[^c692126] In section 78(2) of the [^c692127]Office and Shop Premises Act (Northern Ireland) 1966 (exclusion of application to visiting forces) before the words “and any country” there shall be inserted the word “Tonga”.
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c692128]
+
+#### Commonwealth Institute
+
+**8.**[^c692132] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part II — Exceptions from section 1(2)
+
+**9.** Section 1(2) of this Act shall not apply-
+
+- (a)[^key-e52706c3c6be4e819bf327e9954e8f07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) to the [^c692136]Fugitive Offenders Act 1967.
+
+**10.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c692137]
+
+## Annotations
+
+[^c692111]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1970/22/section/2) repealed by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [Sch. 9](https://www.legislation.gov.uk/ukpga/1981/61/schedule/9)
+
+[^c692112]: Modification: The text of Sch. Pt. I para. 1 is in the form in which it was originally enacted:it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c692113]: Marginal citation: [1952 c. 18](https://www.legislation.gov.uk/ukpga/1952/18)
+
+[^c692114]: Textual amendment: [Sch. Pt. I Para. 2](https://www.legislation.gov.uk/ukpga/1970/22/schedule/part/I/paragraph/2) repealed by [International Organisations Act 1981 (c. 9, SIF 68:1)](https://www.legislation.gov.uk/ukpga/1981/9), [Sch.](https://www.legislation.gov.uk/ukpga/1981/9/schedule)
+
+[^c692115]: Modification: The text of Sch. Pt. I para. 3 is in the form in which it was originally enacted:it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c692116]: Marginal citation: [1958 c. 6](https://www.legislation.gov.uk/ukpga/1958/6)
+
+[^key-2f7b18c490ab6622137f317c6f8cfd99]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/1970/22/schedule/paragraph/4) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+
+[^c692117]: Modification: The text of Sch. Pt. I para. 4 is in the form in which it was originally enacted:it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c692121]: Marginal citation: [1933 c. 6](https://www.legislation.gov.uk/ukpga/1933/6).
+
+[^c692122]: Marginal citation: [1931 c. 4 (22 & 23 Geo. 5)](https://www.legislation.gov.uk/ukpga/Geo5/22-23/4).
+
+[^c692123]: Marginal citation: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
+
+[^c692124]: Modification: The text of Sch. Pt. I para. 7(1) is in the form in which it was originally enacted:it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c692125]: Marginal citation: [1963 c. 41](https://www.legislation.gov.uk/ukpga/1963/41)
+
+[^c692126]: Modification: The text of Sch. Pt. I para. 7(2) is in the form in which it was originally enacted:it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+
+[^c692127]: Marginal citation: [1966 c. 26 (N.I.)](https://www.legislation.gov.uk/apni/1966/26)
+
+[^c692128]: Textual amendment: [Sch. Pt. I para. 7(3)](https://www.legislation.gov.uk/ukpga/1970/22/schedule/part/I/paragraph/7/3) repealed by [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)
+
+[^c692132]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/1970/22/schedule/paragraph/8) repealed (7.1.2003) by [2002 c. 39](https://www.legislation.gov.uk/ukpga/2002/39), [ss. 3](https://www.legislation.gov.uk/ukpga/2002/39/section/3), [4(2)](https://www.legislation.gov.uk/ukpga/2002/39/section/4/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2002/39/schedule/3)
+
+[^key-e52706c3c6be4e819bf327e9954e8f07]: Textual amendment: [Sch. para. 9(a)](https://www.legislation.gov.uk/ukpga/1970/22/schedule/paragraph/9/a) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+
+[^c692136]: Marginal citation: [1967 c. 68](https://www.legislation.gov.uk/ukpga/1967/68).
+
+[^c692137]: Textual amendment: [Sch. Pt. II para.10](https://www.legislation.gov.uk/ukpga/1970/22/schedule/part/II/paragraph/10) repealed by [Statute Law (Repeals) Act 1976 (c. 16)](https://www.legislation.gov.uk/ukpga/1976/16), [Sch. 1 Pt. XIII](https://www.legislation.gov.uk/ukpga/1976/16/schedule/1/part/XIII)

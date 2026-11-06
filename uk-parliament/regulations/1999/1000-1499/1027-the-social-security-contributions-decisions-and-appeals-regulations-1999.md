@@ -1,0 +1,316 @@
+---
+title: The Social Security Contributions (Decisions and Appeals) Regulations 1999
+id: uksi/1999/1027
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1999-03-30'
+text_date: '2025-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1999/1027
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/1027/pdfs/uksi_19991027_en.pdf
+- http://www.legislation.gov.uk/uksi/1999/1027/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security Contributions (Decisions and Appeals) Regulations 1999
+
+> Text as at 2025-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1999 No. 1027
+
+SOCIAL SECURITY
+
+The Social Security Contributions (Decisions and Appeals) Regulations 1999
+
+Made
+
+30th March 1999
+
+Laid before Parliament
+
+30th March 1999
+
+Coming into force
+
+1st April 1999
+
+The Commissioners of Inland Revenue, in exercise of the powers conferred on them by sections 9, 10, 11, 13, 24 and 25 of the Social Security Contributions (Transfer of Functions, etc.) Act 1999[^f00001] and by Articles 8, 9, 10, 12 and 23 of the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999[^f00002] and, in relation to Part III of this instrument, with the concurrence of the Lord Chancellor and the Lord Advocate, hereby make the following Regulations:
+
+## PART I — INTRODUCTORY
+
+### 1. Citation and commencement[^key-8447733f65ab537ed7edcf55818ec724]
+
+These Regulations may be cited as the Social Security Contributions (Decisions and Appeals) Regulations 1999 and shall come into force on 1st April 1999.
+
+### 2. Interpretation[^key-80c2ad47a18620df4b53982268e73c9a]
+
+In these Regulations unless the context otherwise requires–
+
+- “the Board” means the Commissioners of Inland Revenue;
+- “the Management Act” means the Taxes Management Act 1970[^f00003];
+- “notice” means notice in writing and “notify” and “notification” shall be construed accordingly;
+- “the Transfer Act” means the Social Security Contributions (Transfer of Functions, etc.) Act 1999;
+- “the Transfer Order” means the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999.
+
+## PART II — DECISIONS
+
+### 3. Decisions—general[^key-d7eb986a08d23daa38f7c076f107a9cb]
+
+(1) A decision which, by virtue of section 8 of the Transfer Act or Article 7 of the Transfer Order, falls to be made by an officer of the Board under or in connection with the Social Security Contributions and Benefits Act 1992[^f00004], the Social Security Administration Act 1992[^f00005], the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00006], the Social Security Administration (Northern Ireland) Act 1992[^f00007], the Jobseekers Act 1995[^f00008] or the Jobseekers (Northern Ireland) Order 1995[^f00009]–
+
+- (a) must be made to the best of his information and belief, and
+- (b) must state the name of every person in respect of whom it is made and–
+  - (i) the date from which it has effect, or
+  - (ii) the period for which it has effect.
+
+(2) Where an officer of the Board has resolved to make a decision of a kind referred to in paragraph (1), he may entrust to some other officer of the Board responsibility for completing the procedure for making the decision, whether by means involving the use of a computer or otherwise, including responsibility for serving notice of the decision on any person named in it.
+
+(3) In the case of a decision to which section 11 of the Transfer Act or Article 10 of the Transfer Order applies, other than one which relates to a person’s entitlement to statutory sick pay, statutory maternity pay,[^key-1fc13ba800eeca65260a2d0fc90a2ec8] statutory paternity pay[^key-0c06814d45b89a1085050bfaa14c7248] , statutory shared[^key-6ff3fa1c42f80f536aefa368ea167a77] parental pay, statutory parental bereavement pay[^key-311d01dbdf0eae4473ab538c230a2dea] , statutory neonatal care pay[^key-6021eee3fcc3a0372bcd49fb0299ce3d] or statutory adoption pay, each person who is named in the decision has a right to appeal [^key-852091c51aeda89d5af8a378f9d7c435]....
+
+### 4. Notice of decision[^key-970125fcc0e2cb65815ce79fece79143]
+
+(1) Notice of a decision by an officer of the Board referred to in regulation 3(1) must be given–
+
+- (a) in the case of a decision relating to a person’s entitlement to statutory sick pay, statutory maternity pay,[^key-5b6293d2faac68cce5966593f4c21305] statutory paternity pay[^key-d2042d14da225dab93f6d7e090450d9c] , statutory shared[^key-ea1b259f5665f6fb1adec2c5f0998301] parental pay , statutory parental bereavement pay[^key-0655bdfb7c7bb17d28257906bb8833d9] , statutory neonatal care pay *(Extent: E+W+S)*[^key-f94ec4791d294cd27f8f859ba1075d3e] or statutory adoption pay, to the employee and employer concerned, and
+- (b) in any other case, to every person named in the decision.
+
+(2) A notice under this regulation must state the date on which it is issued and may be served by post addressed to any person to whom it is to be given at his usual or last known place of residence, or his place of business or employment.
+
+(3) Where notice is to be given to a company, it may be served by post addressed to its registered office or its principal place of business.
+
+### 5. Variation of decision[^key-5dbae719f08a97528f2c22cc0c2e467f]
+
+(1) An officer of the Board may vary a decision under section 8 of the Transfer Act or Article 7 of the Transfer Order if he has reason to believe that it was incorrect at the time that it was made.
+
+(2) Notice of a variation of a decision must be given to the same persons and in the same manner as notice of the decision was given.
+
+(3) A variation of a decision may state that it has effect for any period in respect of which the decision could have had effect, if the reason for the variation had been known to the person making the decision at the time that it was made.
+
+(4) A decision which is under appeal may be varied at any time before the tribunal determines[^key-0c226a842a7816a80039785240f41db9] the appeal.
+
+### 6. Decision superseding earlier decision[^key-3fdaf6cf9b41f6d0a97b1b82a70c65c8]
+
+(1) An officer of the Board may make a decision superseding an earlier decision, whether as originally made or as varied in accordance with regulation 5, which has become inappropriate for any reason.
+
+(2) A decision superseding an earlier decision which is made in these circumstances has effect from the date of the change in circumstances which rendered the earlier decision inappropriate and the earlier decision ceases to have effect as soon as the superseding decision has effect.
+
+## PART III — APPEALS
+
+### 7. Application of the Taxes Management Act 1970 in relation to reviews and appeals with modifications[^key-7bfc921218936275b90f427460249a35][^key-da49ed1db6819ffbf0d36d1977a46aac]
+
+(1) In this regulation reference to a section alone is reference to the section so numbered in the Management Act.
+
+(2) For the purposes of these regulations, sections 49A to 49I of the Management Act shall apply to appeals with the following modifications—
+
+- (a) in section 49A(4) for “in accordance with section 54” substitute “in accordance with regulation 11 of the Social Security Contributions (Decisions and Appeals) Regulations 1999”,
+- (b) in section 49C(4) for “agreement in writing under section 54(1)” substitute “agreement under regulation 11 of the Social Security Contributions (Decisions and Appeals) Regulations 1999”,
+- (c) omit section 49C(5),
+- (d) in section 49F(2) for “agreement in writing under section 54(1)” substitute “agreement under regulation 11 of the Social Security Contributions (Decisions and Appeals) Regulations 1999”,
+- (e) omit section 49F(3)
+
+### 8. Multiple appeals[^key-dfbe5f522037a14f23ee4fb80494d36d][^key-ea1e2f76512f7f98577f902ba65ba606]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8A. Transfer of proceedings to the Special Commissioners etc.[^key-dfbe5f522037a14f23ee4fb80494d36d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Proceedings brought out of time[^key-b349692ee09bc4aad904f1f34d44aa25]
+
+(1) Section 49 of the Management Act applies to appeals to the tribunal[^key-a285067de0ba870936021f7d8f9f3d9f] under Part II of the Transfer Act and Part III of the Transfer Order which are brought out of time with the modifications specified in this regulation.
+
+(2) In that section “the Taxes Acts” includes Part II of the Transfer Act and Part III of the Transfer Order and “inspector or the Board” includes an officer of the Board.
+
+### 10. Determination of appeals by the tribunal[^key-5432c23713e5f40449d365ff22b43086][^key-7d9aae7f970f06366db1b3f0cc47ce5d]
+
+If, on an appeal [^key-044365524e472010fe82e0a91b11c774]... under Part II of the Transfer Act or Part III of the Transfer Order that is notified to the tribunal[^key-6b9e14e7a2481240c993f16e59c35df1], it appears to the tribunal[^key-1422363deb895f4715d6e6cbc71d0baa] that the decision should be varied in a particular manner, the decision shall be varied in that manner, but otherwise shall stand good.
+
+### 11. Settling of appeals by agreement[^key-d1081e99bdcc9ba45a7645538ebc3bdf]
+
+(1) Subject to the provisions of this regulation, where before an appeal is determined by the tribunal[^key-c7f1fccee68e2c6fc91b657212c10a54], an officer of the Board and every person who has appealed against the decision come to an agreement, whether in writing or otherwise, that the decision under appeal should be treated as upheld without variation, as varied in a particular manner or as superseded by a further decision, the like consequences ensue for all purposes as would have ensued if, at the time when the agreement was come to, the officer of the Board had made a decision in the same terms as the decision under appeal, had varied the decision in that manner or had made a decision superseding the decision under appeal in the same terms as that further decision, as the case may be.
+
+(2) Where an agreement is come to in the manner described in paragraph (1) the appeals of all persons who have appealed against the decision lapse.
+
+(3) Notice of the agreement must be given by the officer of the Board to the persons named in the decision who have not appealed against it.
+
+(4) Where an agreement is not in writing–
+
+- (a) the preceding provisions of this regulation do not apply unless the fact that an agreement was come to, and the terms agreed, are confirmed by notice given by the officer of the Board to the appellant and any other person who has appealed against the decision or by the appellant or any other person who has appealed against the decision to the officer of the Board; and
+- (b) the references in those provisions to the time when the agreement was come to shall be construed as references to the time of the giving of the notice of confirmation.
+
+(5) Where before an appeal is determined by the tribunal[^key-c1de4d1a239f98ae34fa96e14994626f]–
+
+- (a) a person who has appealed against a decision notifies the officer of the Board and every other person named in the decision, whether orally or in writing, that he does not wish to proceed with the appeal, and
+- (b) thirty days have elapsed since the giving of the notification without the officer of the Board or any other person named in the decision giving notice to the appellant and any other person named in the decision or the officer of the Board, as the case may be, indicating that he is unwilling that the appeal should be treated as withdrawn, the preceding provisions of this regulation have effect as if, at the date of the appellant’s notification, the appellant and the officer of the Board and every other person named in the decision had come to an agreement, orally or in writing, as the case may be, that the decision under appeal should be upheld without variation.
+
+(6) The references in this regulation to an agreement being come to with an appellant and other persons named in the decision and the giving of notice or notification to or by an appellant or any other person named in the decision include references to an agreement being come to with, and the giving of notice or notification to or by, a person acting on behalf of the appellant or any of the other persons named in the decision in relation to the appeal.
+
+(7) In this regulation “any other person named in the decision” includes, in the case of a decision relating to a person’s entitlement to statutory sick pay, statutory maternity pay,[^key-8f135a2707c6b28d0035c0e9abc1906c] statutory paternity pay[^key-3940c4c1e9063817dab4805a858defc2] , statutory shared[^key-a674b55e8fcc631ed7d6f242daf70492] parental pay , statutory parental bereavement pay[^key-de533c5fd9d340d48531effe7eb73196] , statutory neonatal care pay[^key-58c5d8b0fe967a05a9634aa2ad70db1c] or statutory adoption pay, the employee and the employer concerned.
+
+### 12. Appeals from the tribunal[^key-37e16c9411319822499fd343a172be2e][^M_F_235e9e07-76a9-4d03-f64f-e667dbda12ec]
+
+(1) Section 56 of the Management Act (payment of tax where there is a further appeal) shall apply to appeals from the tribunal under Part II of the Transfer Act and Part III of the Transfer Order.
+
+(2) For the purposes of sections 11(2) and 13(2) of the Tribunals, Courts and Enforcement Act 2007 a party to the case includes—
+
+- (a) the appellant and HMRC;
+- (b) in the case of an appeal against a decision relating to a person’s entitlement to statutory sick pay, statutory maternity pay, statutory paternity pay[^key-a3a6fcfecad4d3cb295b9f058374c43d] , statutory shared[^key-016b5d0b6d88c6309c2f2333562d9c8e] parental pay , statutory parental bereavement pay[^key-09d9d947e01766fd4f7428fb4fe78a6e] , statutory neonatal care pay[^key-6175ad840f97e467ba2b4cbcb874e973] or statutory adoption pay, the employee or employer concerned; and
+- (c) in any other case, any other person named in the decision.
+
+(3)[^key-f22df9d20ec480466c3ac0a405cb0cab] The reference to section 56 of the Taxes Management Act 1970 in this regulation includes a reference to that section as amended by section 225(1) of the Finance Act 2014 (protection of the revenue pending further appeals).
+
+Nick Montagu
+
+S C T Matheson
+
+Two of the Commissioners of Inland Revenue
+
+We concur in Part III of these Regulations
+
+Lord Irvine of Lairg
+
+Lord Chancellor
+
+Lord Hardie
+
+Lord Advocate
+
+(This note is not part of the Regulations)
+
+These Regulations, which come into force on 1st April 1999, contain provisions concerning decisions (including rights of appeal against decisions) and appeals against decisions in relation to social security contributions and entitlements to statutory sick pay and statutory maternity pay which, on or after that date, are for officers of the Commissioners of Inland Revenue (“the Board”) to make by virtue of the provisions of the Social Security (Transfer of Functions, etc.) Act 1999 and the Social Security (Transfer of Functions, etc.) (Northern Ireland) Order 1999.
+
+Part I of the Regulations is introductory, Part II contains provisions about decisions (including rights of appeal against decisions), and Part III, which is made with the concurrence of the Lord Chancellor and the Lord Advocate, contains provisions about appeals against decisions.
+
+Regulation 1 provides for citation and commencement and regulation 2 contains definitions.
+
+Regulation 3 contains general provisions about the making of decisions by officers of the Board and for rights of appeal against decisions (other than decisions in relation to statutory sick pay and statutory maternity pay) by persons named in them.
+
+Regulation 4 provides for notices of decisions in relation to statutory sick pay and statutory maternity pay to be given to the employee and employer concerned and, in all other cases, to every person named in them and for the manner of service of notices of decisions.
+
+Regulations 5 and 6 provide respectively for the circumstances in which decisions may be varied by officers of the Board and in which decisions may be made which supersede earlier decisions.
+
+Regulation 7 provides rules for the assignment of appeals against decisions to divisions of General Commissioners and regulation 8 provides the rules which are to apply when there is more than one appeal against the same decision.
+
+Regulation 9 modifies the application of section 49 of the Taxes Management Act 1970 (appeals brought out of time) in relation to appeals against decisions.
+
+Regulation 10 provides for the determination of appeals by tax appeal Commissioners and regulation 11 provides for the settling of appeals by agreement.
+
+Regulation 12 modifies the application of sections 56 and 56A of the Taxes Management Act 1970 in relation to appeals against decisions.
+
+## Annotations
+
+[^f00001]: Footnote: [1999 c. 2](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^f00002]: Footnote: S.I. [1999/679](https://www.legislation.gov.uk/uksi/1999/679).
+
+[^key-8447733f65ab537ed7edcf55818ec724]: Commencement: Reg. 1 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1027/regulation/1)
+
+[^key-80c2ad47a18620df4b53982268e73c9a]: Commencement: Reg. 2 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1027/regulation/1)
+
+[^f00003]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
+
+[^key-d7eb986a08d23daa38f7c076f107a9cb]: Commencement: Reg. 3 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1027/regulation/1)
+
+[^f00004]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^f00005]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
+
+[^f00006]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
+
+[^f00007]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8).
+
+[^f00008]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^f00009]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705).
+
+[^key-1fc13ba800eeca65260a2d0fc90a2ec8]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/3/3) substituted (7.1.2003) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2002 (S.I. 2002/3120)](https://www.legislation.gov.uk/uksi/2002/3120), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3120/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2002/3120/regulation/3/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2002/3120/regulation/3/2/a)
+
+[^key-0c06814d45b89a1085050bfaa14c7248]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/3/3) substituted (5.4.2015) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2015 (S.I. 2015/174)](https://www.legislation.gov.uk/uksi/2015/174), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/174/regulation/1/3), [2(a)](https://www.legislation.gov.uk/uksi/2015/174/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/174/regulation/3))
+
+[^key-6ff3fa1c42f80f536aefa368ea167a77]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/3/3) inserted (5.3.2015) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2015 (S.I. 2015/174)](https://www.legislation.gov.uk/uksi/2015/174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/174/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2015/174/regulation/2/b)
+
+[^key-311d01dbdf0eae4473ab538c230a2dea]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/3/3) inserted (6.4.2020) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2020 (S.I. 2020/238)](https://www.legislation.gov.uk/uksi/2020/238), [regs. 1](https://www.legislation.gov.uk/uksi/2020/238/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/238/regulation/2/2) (as extended to N.I. (6.4.2022) by [S.I. 2022/384](https://www.legislation.gov.uk/uksi/2022/384), [reg. 2](https://www.legislation.gov.uk/uksi/2022/384/regulation/2))
+
+[^key-6021eee3fcc3a0372bcd49fb0299ce3d]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/3/3) inserted (E.W.S.) (6.4.2025) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2025 (S.I. 2025/350)](https://www.legislation.gov.uk/uksi/2025/350), [regs. 1](https://www.legislation.gov.uk/uksi/2025/350/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/350/regulation/2/2)
+
+[^key-852091c51aeda89d5af8a378f9d7c435]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/3/3) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 60](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/60)
+
+[^key-970125fcc0e2cb65815ce79fece79143]: Commencement: Reg. 4 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1027/regulation/1)
+
+[^key-5b6293d2faac68cce5966593f4c21305]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/4/1/a) substituted (7.1.2003) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2002 (S.I. 2002/3120)](https://www.legislation.gov.uk/uksi/2002/3120), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3120/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2002/3120/regulation/3/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2002/3120/regulation/3/2/b)
+
+[^key-d2042d14da225dab93f6d7e090450d9c]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/4/1/a) substituted (5.4.2015) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2015 (S.I. 2015/174)](https://www.legislation.gov.uk/uksi/2015/174), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/174/regulation/1/3), [2(a)](https://www.legislation.gov.uk/uksi/2015/174/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/174/regulation/3))
+
+[^key-ea1b259f5665f6fb1adec2c5f0998301]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/4/1/a) inserted (5.3.2015) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2015 (S.I. 2015/174)](https://www.legislation.gov.uk/uksi/2015/174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/174/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2015/174/regulation/2/b)
+
+[^key-0655bdfb7c7bb17d28257906bb8833d9]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/4/1/a) inserted (6.4.2020) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2020 (S.I. 2020/238)](https://www.legislation.gov.uk/uksi/2020/238), [regs. 1](https://www.legislation.gov.uk/uksi/2020/238/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/238/regulation/2/2) (as extended to N.I. (6.4.2022) by [S.I. 2022/384](https://www.legislation.gov.uk/uksi/2022/384), [reg. 2](https://www.legislation.gov.uk/uksi/2022/384/regulation/2))
+
+[^key-f94ec4791d294cd27f8f859ba1075d3e]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/4/1/a) inserted (E.W.S) (6.4.2025) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2025 (S.I. 2025/350)](https://www.legislation.gov.uk/uksi/2025/350), [regs. 1](https://www.legislation.gov.uk/uksi/2025/350/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/350/regulation/2/2)
+
+[^key-5dbae719f08a97528f2c22cc0c2e467f]: Commencement: Reg. 5 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1027/regulation/1)
+
+[^key-0c226a842a7816a80039785240f41db9]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/5/4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 61](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/61)
+
+[^key-3fdaf6cf9b41f6d0a97b1b82a70c65c8]: Commencement: Reg. 6 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1027/regulation/1)
+
+[^key-7bfc921218936275b90f427460249a35]: Commencement: Reg. 7 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1027/regulation/1)
+
+[^key-da49ed1db6819ffbf0d36d1977a46aac]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1999/1027/regulation/7) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 62](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/62)
+
+[^key-dfbe5f522037a14f23ee4fb80494d36d]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/1999/1027/regulation/8A) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 63](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/63)
+
+[^key-ea1e2f76512f7f98577f902ba65ba606]: Commencement: Reg. 8 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1027/regulation/1)
+
+[^key-b349692ee09bc4aad904f1f34d44aa25]: Commencement: Reg. 9 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1027/regulation/1)
+
+[^key-a285067de0ba870936021f7d8f9f3d9f]: Textual amendment: Word in [reg. 9](https://www.legislation.gov.uk/uksi/1999/1027/regulation/9) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 64](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/64)
+
+[^key-5432c23713e5f40449d365ff22b43086]: Commencement: Reg. 10 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1027/regulation/1)
+
+[^key-7d9aae7f970f06366db1b3f0cc47ce5d]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/1999/1027/regulation/10) heading substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 65(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/65/2)
+
+[^key-044365524e472010fe82e0a91b11c774]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/1999/1027/regulation/10) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 65(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/65/3)
+
+[^key-6b9e14e7a2481240c993f16e59c35df1]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/1999/1027/regulation/10) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 65(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/65/4)
+
+[^key-1422363deb895f4715d6e6cbc71d0baa]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/uksi/1999/1027/regulation/10) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 65(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/65/5)
+
+[^key-d1081e99bdcc9ba45a7645538ebc3bdf]: Commencement: Reg. 11 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1027/regulation/1)
+
+[^key-c7f1fccee68e2c6fc91b657212c10a54]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/11/1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 66](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/66)
+
+[^key-c1de4d1a239f98ae34fa96e14994626f]: Textual amendment: Word in [reg. 11(5)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/11/5) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 66](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/66)
+
+[^key-8f135a2707c6b28d0035c0e9abc1906c]: Textual amendment: Words in [reg. 11(7)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/11/7) substituted (7.1.2003) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2002 (S.I. 2002/3120)](https://www.legislation.gov.uk/uksi/2002/3120), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3120/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2002/3120/regulation/3/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2002/3120/regulation/3/2/d)
+
+[^key-3940c4c1e9063817dab4805a858defc2]: Textual amendment: Words in [reg. 11(7)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/11/7) substituted (5.4.2015) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2015 (S.I. 2015/174)](https://www.legislation.gov.uk/uksi/2015/174), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/174/regulation/1/3), [2(a)](https://www.legislation.gov.uk/uksi/2015/174/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/174/regulation/3))
+
+[^key-a674b55e8fcc631ed7d6f242daf70492]: Textual amendment: Words in [reg. 11(7)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/11/7) inserted (5.3.2015) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2015 (S.I. 2015/174)](https://www.legislation.gov.uk/uksi/2015/174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/174/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2015/174/regulation/2/b)
+
+[^key-de533c5fd9d340d48531effe7eb73196]: Textual amendment: Words in [reg. 11(7)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/11/7) inserted (6.4.2020) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2020 (S.I. 2020/238)](https://www.legislation.gov.uk/uksi/2020/238), [regs. 1](https://www.legislation.gov.uk/uksi/2020/238/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/238/regulation/2/2) (as extended to N.I. (6.4.2022) by [S.I. 2022/384](https://www.legislation.gov.uk/uksi/2022/384), [reg. 2](https://www.legislation.gov.uk/uksi/2022/384/regulation/2))
+
+[^key-58c5d8b0fe967a05a9634aa2ad70db1c]: Textual amendment: Words in [reg. 11(7)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/11/7) inserted (E.W.S) (6.4.2025) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2025 (S.I. 2025/350)](https://www.legislation.gov.uk/uksi/2025/350), [regs. 1](https://www.legislation.gov.uk/uksi/2025/350/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/350/regulation/2/2)
+
+[^key-37e16c9411319822499fd343a172be2e]: Commencement: Reg. 12 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1027/regulation/1)
+
+[^M_F_235e9e07-76a9-4d03-f64f-e667dbda12ec]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/1999/1027/regulation/12) substituted (1.4.2009) by [The Revenue and Customs Appeals Order 2009 (S.I. 2009/777)](https://www.legislation.gov.uk/uksi/2009/777), [arts. 1](https://www.legislation.gov.uk/uksi/2009/777/article/1), [6](https://www.legislation.gov.uk/uksi/2009/777/article/6)
+
+[^key-a3a6fcfecad4d3cb295b9f058374c43d]: Textual amendment: Words in [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/12/2/b) substituted (5.4.2015) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2015 (S.I. 2015/174)](https://www.legislation.gov.uk/uksi/2015/174), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/174/regulation/1/3), [2(a)](https://www.legislation.gov.uk/uksi/2015/174/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/174/regulation/3))
+
+[^key-016b5d0b6d88c6309c2f2333562d9c8e]: Textual amendment: Words in [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/12/2/b) inserted (5.3.2015) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2015 (S.I. 2015/174)](https://www.legislation.gov.uk/uksi/2015/174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/174/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2015/174/regulation/2/b)
+
+[^key-09d9d947e01766fd4f7428fb4fe78a6e]: Textual amendment: Words in [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/12/2/b) inserted (6.4.2020) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2020 (S.I. 2020/238)](https://www.legislation.gov.uk/uksi/2020/238), [regs. 1](https://www.legislation.gov.uk/uksi/2020/238/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/238/regulation/2/2) (as extended to N.I. (6.4.2022) by [S.I. 2022/384](https://www.legislation.gov.uk/uksi/2022/384), [reg. 2](https://www.legislation.gov.uk/uksi/2022/384/regulation/2))
+
+[^key-6175ad840f97e467ba2b4cbcb874e973]: Textual amendment: Words in [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/12/2/b) inserted (E.W.S.) (6.4.2025) by [The Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2025 (S.I. 2025/350)](https://www.legislation.gov.uk/uksi/2025/350), [regs. 1](https://www.legislation.gov.uk/uksi/2025/350/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/350/regulation/2/2)
+
+[^key-f22df9d20ec480466c3ac0a405cb0cab]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/1999/1027/regulation/12/3) inserted (12.4.2015) by [The Social Security Contributions (Amendments in Consequence of Part 4 of the Finance Act 2014) Regulations 2015 (S.I. 2015/521)](https://www.legislation.gov.uk/uksi/2015/521), [regs. 1](https://www.legislation.gov.uk/uksi/2015/521/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/521/regulation/2)

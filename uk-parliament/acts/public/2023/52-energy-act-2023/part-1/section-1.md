@@ -1,0 +1,74 @@
+---
+title: Energy Act 2023, section 1
+act: Energy Act 2023
+section: '1'
+status: revised
+text_date: '2026-09-30'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2023/52/section/1
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2023, section 1
+
+> Text as at 2026-09-30.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 1. Principal objectives and general duties of Secretary of State and economic regulator[^key-43f924d5e6658154ff106c6289758e2d]
+
+*Extent: E+W+S+N.I.*
+
+(1) The principal objectives of the Secretary of State and the GEMA in carrying out their respective functions under this Part are to—
+
+- (a) protect the interests of current and future transport and storage network users;
+- (b) protect the interests of any consumers whose interests the Secretary of State or the economic regulator (as the case may be) considers may be impacted by the exercise of their respective functions under this Part;
+- (c) promote the efficient and economic development and operation of transport and storage networks, having regard to the need for licence holders to be able to finance their licensable activities.
+
+(2) In this Part the GEMA is referred to as the “**economic regulator**”.
+
+(3) The Secretary of State and the economic regulator must carry out their respective functions under this Part in the manner which the Secretary of State or the economic regulator (as the case may be) considers is best calculated to further the principal objectives, wherever appropriate by—
+
+- (a) promoting effective competition between persons engaged in, or in commercial activities connected with, the activities mentioned in section 2(2);
+- (b) promoting the resilience of transport and storage networks;
+- (c) protecting the public from dangers arising from the construction, operation and decommissioning of infrastructure used for the purposes of activities mentioned in section 2(2).
+
+(4) In carrying out functions under this Part in accordance with the preceding provisions of this section, the Secretary of State or the economic regulator (as the case may be) must have regard to—
+
+- (a) the principles under which regulatory activities should be transparent, accountable, proportionate, consistent and targeted only at cases in which action is needed, and any other principles appearing to the Secretary of State or the economic regulator to represent the best regulatory practice;
+- (b) the need to contribute to the achievement of sustainable development.
+
+(5) In carrying out functions under this Part in accordance with the preceding provisions of this section the Secretary of State must have regard to the Secretary of State’s duties under sections 1 and 4(1)(b) of the Climate Change Act 2008 (carbon targets and budgets).
+
+(6) In carrying out functions under this Part in accordance with the preceding provisions of this section, the economic regulator must have regard to—
+
+- (a) the need to assist the Secretary of State’s compliance with the duties mentioned in subsection (5);
+- (b) the targets specified in subsection (8).
+
+(7) In exercising their respective functions in relation to licensable activities, the Secretary of State and the economic regulator may have regard to the desirability of the efficient and effective operation of the energy system (or any part of it) in the United Kingdom or any part of the United Kingdom.
+
+(8) The targets referred to in subsection (6)(b) are—
+
+- (a) the net-zero emissions target, as defined in section A1(1) of the [Climate Change (Scotland) Act 2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12);
+- (b) the interim targets, as defined in section 2 of that Act;
+- (c) a target in, or set under, section 1 or 2 of the Climate Change Act (Northern Ireland) 2022;
+- (d) a target in, or set under, section 29 or 30 of the [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3).
+
+(9) In this section—
+
+- “**transport and storage network user**” means a person who is, or seeks to be, a party to arrangements for carbon dioxide to be transported to a relevant site for the purpose of disposal by way of geological storage;
+- “**transport and storage networks**” means infrastructure and facilities for—
+  - (a) the disposal of carbon dioxide by way of geological storage (or injection for the purposes of geological storage) at a relevant site, or
+  - (b) the transportation of carbon dioxide to a relevant site for the purpose of such disposal;
+- “**relevant site**” means a site that is—
+  - (a) in the United Kingdom, or
+  - (b) in, under or over—
+    - (i) the territorial sea adjacent to the United Kingdom, or
+    - (ii) waters in a Gas Importation and Storage Zone (within the meaning given by section 1 of the Energy Act 2008).
+
+(10) For the purposes of this Part activities are “licensable activities” if undertaking them without the authority of a licence or exemption constitutes an offence under section 2(1).
+
+## Annotations
+
+[^key-43f924d5e6658154ff106c6289758e2d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/52/section/1) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

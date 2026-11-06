@@ -1,0 +1,1222 @@
+---
+title: The Iran (Sanctions) (Overseas Territories) Order 2023, SCHEDULE 2
+act: The Iran (Sanctions) (Overseas Territories) Order 2023
+section: schedule-2
+status: revised
+text_date: '2025-12-11'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2023/1377/schedule/2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Iran (Sanctions) (Overseas Territories) Order 2023, SCHEDULE 2
+
+> Text as at 2025-12-11.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## SCHEDULE 2 — Modifications to be made in the extension of the Iran (Sanctions) Regulations 2023 to each British overseas territory listed in Schedule 1
+
+*Extent: E+W+S+N.I.*
+
+Article 2
+
+**1.**[^key-2abd96715e519cbf205d41ef57034738] In regulation 1 (citation, commencement and extent)—
+
+- (a) in the heading, omit “, commencement and extent”;
+- (b) omit paragraphs (2) and (3).
+
+**2.**[^key-fc4e2730ca912f04d23efd0dde12704a] In regulation 2 (interpretation)—
+
+- (a) the existing text becomes paragraph (1);
+- (b) in that paragraph—
+  - (i) in the appropriate places, insert the following definitions—
+
+    > - “**aircraft**” has the same meaning as it has in section 6(9) of the Act;
+
+    ;
+
+    > - “**authorised officer**” means, in relation to the Territory—
+    >   - (a) a member of His Majesty’s forces in the Territory,
+    >   - (b) a police or customs officer of the Territory,
+    >   - (c) a person authorised by the Governor for the purposes of exercising, whether generally or in a particular case, any power conferred by—
+    >     - (i) regulation 70 (finance: powers to request information),
+    >     - (ii) regulation 71 (finance: production of documents),
+    >     - (iii) regulation 73 (trade: information powers),
+    >     - (iv) regulation 75 (general trade licences: inspection of records),
+    >     - (v) regulation 76 (disclosure of information),
+    >     - (va) regulation 77 (finance: disclosure to the Governor),[^key-5bf31e1ef084e6f659588d8bfd16202b]
+    >     - (vi) regulation 78A (suspected ships, aircraft or vehicles), or
+    >     - (vii) regulation 78B (search warrants), or
+    >   - (d) any person acting under the authority of a person falling within any of paragraphs (a) to (c);
+
+    ;
+
+    > - “**financial sanctions licence**” means, in relation to the Territory, a licence issued by the Governor under regulation 60(1);
+
+    ;
+
+    > - “**the Governor**” is to be read in accordance with regulation 4A;
+
+    ;
+
+    > - “**His Majesty’s forces**” does not include a force of any country, other than the United Kingdom, that is a member of the Commonwealth;
+
+    ;
+
+    > - “**ship**” has the same meaning as it has in section 7(14) of the Act;
+
+    ;
+
+    > - “**Supreme Court of the Territory**” means—
+    >   - (a) in relation to Anguilla, Montserrat and the Virgin Islands, the High Court of the Eastern Caribbean Supreme Court;
+    >   - (b) in relation to the Cayman Islands, the Grand Court of the Cayman Islands;
+    >   - (c) in relation to the British Antarctic Territory, the Falkland Islands, Pitcairn, Henderson, Ducie and Oeno Islands, St Helena, Ascension and Tristan da Cunha, South Georgia and the South Sandwich Islands and the Turks and Caicos Islands, the Supreme Court of that territory;
+    >   - (d) in relation to the Sovereign Base Areas of Akrotiri and Dhekelia in the Island of Cyprus, the Senior Judges’ Court of those Areas;
+
+    ;
+
+    > - “**Territory aircraft**” means, in relation to the Territory—
+    >   - (a) an aircraft registered in the Territory, or
+    >   - (b) an aircraft which is not registered under the law of a country outside the Territory but is wholly owned by persons each of whom is a Territory person;
+
+    ;
+
+    > - “**Territory person**” means, in relation to the Territory, a person who is—
+    >   - (a) an individual ordinarily resident in the Territory who is—
+    >     - (i) a British citizen, a British overseas territories citizen, a British National (Overseas) or a British Overseas citizen,
+    >     - (ii) a person who under the British Nationality Act 1981[^f00003] is a British subject, or
+    >     - (iii) a British protected person within the meaning of that Act, or
+    >   - (b) a body incorporated or constituted under the law of any part of the Territory;
+
+    ;
+
+    > - “**Territory ship**” means, in relation to the Territory—
+    >   - (a) a ship registered in the Territory, or
+    >   - (b) a ship which is not registered under the law of a country outside the Territory but is wholly owned by persons each of whom is a Territory person;
+
+    ;
+
+    > - “**vehicle**” means a land transport vehicle.
+
+    ;
+  - (ii) omit the definitions of—
+    - (aa) “the Commissioners”,
+    - (bb) “director disqualification licence”,
+    - (cc) “Treasury licence”, and
+    - (dd) “United Kingdom person”;
+- (c) after that paragraph insert—
+
+  > (2) In the application of these Regulations to a particular British overseas territory, the expression “**the Territory**” means that territory.
+
+**3.**[^key-3b57bc9b69767514af42a8328c121776] In regulation 3 (application of prohibitions and requirements outside the United Kingdom)—
+
+- (a) in the heading, for “United Kingdom” substitute “Territory”;
+- (b) in paragraphs (1) and (4), for “United Kingdom person” substitute “Territory person”;
+- (c) in paragraphs (1), (4) and (7), for “United Kingdom” substitute “Territory”;
+- (d) in paragraphs (2) and (5), after “in the territorial sea” insert “of the Territory”;
+- (e) in paragraphs (3) and (6), for “Treasury licence” substitute “financial sanctions licence”.
+
+**4.**[^key-50c970a0e1dec00fefb978d35f6fdb09] In regulation 4 (purposes), for “the regulations contained in this instrument that are made under section 1 of the Act” substitute “these Regulations”.
+
+**5.**[^key-7921b31b1b73d998b8303bbf0c35e875] At the end of Part 1 (General), insert—
+
+> **4A. Functions of the Governor**
+>
+> (1) In these Regulations, “**the Governor**” means, in relation to the Territory, the person holding or acting in the office of Governor of the Territory, or, if there is no such office, the officer for the time being administering the Territory.
+>
+> (2) The Governor may, to such extent and subject to such restrictions and conditions as the Governor thinks proper, delegate or authorise the delegation of any of the Governor’s powers under these Regulations to any person, or class or description of persons, and any references in these Regulations to the Governor are to be construed accordingly.
+>
+> (3) In the exercise of any power conferred on the Governor by these Regulations, the Governor is to act in their discretion.
+
+**6.**[^key-d9fdd1484ca598593ea27a9efb36f916] Omit the following regulations (including the headings)—
+
+- (a) regulation 5 (power to designate persons);
+- (b) regulation 6 (conditions for the designation of persons by name);
+- (c) regulation 7 (conditions for the designation of persons by description);
+- (d) regulation 8 (designation criteria: meaning of “involved person”).
+
+**7.**[^key-f467c036313f1c98b31e7e7a2be8be0e] For regulation 10 (notification and publicity where power to designate by name is used), substitute—
+
+> **10. Requirement to publish a list of persons designated by name**
+>
+> (1) Subject to paragraph (2), the Governor must—
+>
+> - (a) publish a list of designated persons, and
+> - (b) keep the list up to date.
+>
+> (2) Where, in accordance with regulation 10 (notification and publicity where power to designate by name is used) (as it has effect in the United Kingdom) the Secretary of State is not required to publicise generally a designation, variation or revocation, the Governor must not include in the list under paragraph (1) any details of that designation, variation or revocation.
+>
+> (3) The Governor may publish the list under paragraph (1) in any form the Governor considers appropriate, including by means of a website.
+>
+> (4) For the purpose of this regulation, “**designated person**” means any person for the time being designated by name by the Secretary of State under regulation 5(1) (power to designate persons by name) (as it has effect in the United Kingdom).
+
+**8.**[^key-8e1871604110d608785deae7d33cb9f7] In regulation 11 (confidential information in certain cases where power to designate by name is used)—
+
+- (a) in the heading, for “where power to designate by name is used” substitute “: designation by name”;
+- (b) omit paragraph (1);
+- (c) in paragraph (2)(a), for “that is to be treated as confidential in accordance with paragraph (1)” substitute “which the Secretary of State has specified is to be treated as confidential under regulation 11(1) (as it has effect in the United Kingdom)”;
+- (d) in paragraph (7)—
+  - (i) for “High Court (in Scotland, the Court of Session)” substitute “Supreme Court of the Territory”;
+  - (ii) omit “(in Scotland, an interdict)”.
+
+**9.**[^key-3221e0263077ac58af26361ffd7ec7cd] For regulation 12 (notification and publicity where power to designate by description is used), substitute—
+
+> **12. Requirement to publish a list of designations by description**
+>
+> (1) Subject to paragraph (2) the Governor must—
+>
+> - (a) publish a list of designations by description, and
+> - (b) keep the list up to date.
+>
+> (2) Where, in accordance with regulation 12 (notification and publicity where power to designate by description is used) (as it has effect in the United Kingdom) the Secretary of State is not required to publicise generally a designation, variation or revocation, the Governor must not include in the list under paragraph (1) any details of that designation, variation or revocation.
+>
+> (3) The Governor may publish the list under paragraph (1) in any form the Governor considers appropriate, including by means of a website.
+>
+> (4) For the purposes of this regulation, “**designations by description**” means designations where the Secretary of State has for the time being provided that persons of a specified description are designated persons under regulation 5(2) (power to designate persons by description) (as it has effect in the United Kingdom).
+
+**10.**[^key-13fff1c35e91a23bd1c07947f92beb66] In regulation 13 (confidential information in certain cases where power to designate by description is used)—
+
+- (a) in the heading, for “where power to designate by description is used” substitute “: designation by description”;
+- (b) omit paragraph (1);
+- (c) in paragraph (2)(a), for “that is to be treated as confidential in accordance with paragraph (1)” substitute “which the Secretary of State has specified is to be treated as confidential under regulation 13(1) (as it has effect in the United Kingdom)”;
+- (d) in paragraph (7)—
+  - (i) for “High Court (in Scotland, the Court of Session)” substitute “Supreme Court of the Territory”;
+  - (ii) omit “(in Scotland, an interdict)”.
+
+**11.**[^key-144070db9d1bb521940ed9f2342ffef0] For regulation 14 (meaning of “**designated person**” in Part 3) substitute—
+
+> **14.** In this Part, a “**designated person**” means a person who is designated from time to time by the Secretary of State under regulation 5 (power to designate persons) (as it has effect in the United Kingdom) for the purposes of regulations 15 to 19 (asset-freeze etc.) (as they have effect in the United Kingdom).
+
+**12.**[^key-59b4fafbe4cc95306b0cd68a085da34f] Omit Part 4 (Director disqualification sanctions) (including the heading).
+
+**13.**[^key-287ef73fc01d081843fd38b22ec66ba2] For regulation 22 (immigration) substitute—
+
+> **22.** (1) A person who is designated from time to time by the Secretary of State under regulation 5 (power to designate persons) (as it has effect in the United Kingdom) for the purposes of regulation 22 (immigration) (as it has effect in the United Kingdom) must not enter, transit or remain in the Territory.
+>
+> (2) Paragraph (1) does not apply to a person who—
+>
+> - (a) belongs to the Territory, or
+> - (b) in respect of the Sovereign Base Areas, is permitted to reside in the Sovereign Base Areas under the law applicable to the Sovereign Base Areas.
+>
+> (3) Paragraph (1) does not apply to a person if the application of that paragraph to that person would be contrary to the United Kingdom’s obligations under —
+>
+> - (a) the European Convention on Human Rights, or
+> - (b) the Refugee Convention.
+>
+> (4) Paragraph (1) is subject to regulation 67 (immigration directions).
+>
+> (5) For the purposes of this regulation, a person (“**P**”) belongs to the Territory if—
+>
+> - (a) in respect of Anguilla, P is an Anguillian (within the meaning given to that term in the law of Anguilla);
+> - (b) in respect of the Cayman Islands, P is a Caymanian (within the meaning given to that term in the law of the Cayman Islands);
+> - (c) in respect of the Falkland Islands, P has Falkland Islands status (within the meaning given to that term in the law of the Falkland Islands);
+> - (d) in respect of Montserrat, P is a Montserratian (within the meaning given to that term in the law of Montserrat);
+> - (e) in respect of Pitcairn, P has the right of abode in Pitcairn under the law of Pitcairn;
+> - (f) in respect of St Helena, P has St Helenian status (within the meaning given to that term in the law of St Helena);
+> - (g) in respect of Tristan da Cunha, P has the right of abode in Tristan da Cunha under the law of Tristan da Cunha;
+> - (h) in respect of the Turks and Caicos Islands, P is a Turks and Caicos Islander (within the meaning given to that term in the law of the Turks and Caicos Islands);
+> - (i) in respect of the Virgin Islands, P belongs to the Virgin Islands (within the meaning given to that term in the law of the Virgin Islands).
+>
+> (6) In this regulation—
+>
+> - “**the European Convention on Human Rights**” means the Convention for the Protection of Human Rights and Fundamental Freedoms done at Rome on 4 November 1950 and the Protocols to the Convention[^f00004];
+> - “**the Refugee Convention**” means the Convention relating to the Status of Refugees done at Geneva on 28 July 1951 and the Protocol to the Convention[^f00005];
+> - “**Pitcairn**” means Pitcairn, Henderson, Ducie and Oeno Islands;
+> - “**the Sovereign Base Areas**” means the Sovereign Base Areas of Akrotiri and Dhekelia in the Island of Cyprus.
+
+**14.**[^key-ac30e59c9f0413d2fec259d87d5b12b7] In regulation 27 (interpretation of other expressions used in this Part)—
+
+- (a) For paragraph 1 substitute—
+
+  > (1) For the purposes of this Part—
+  >
+  > - (a) “**export**” means export from the Territory,
+  > - (b) “**place**” has the meaning given by paragraph 36 of Schedule 1 to the Act, and
+  > - (c) goods transported out of the Territory by aircraft or ship as stores within the meaning of CEMA (see section 1(1) and (4) of that Act) are to be regarded as exported.
+
+  ;
+- (b) for paragraph (2) substitute—
+
+  > (2) In this Part, any reference to the Territory includes a reference to the territorial sea of the Territory.
+
+**15.**[^key-04251b87540c354b045fe293042ee518] In regulation 28 (export of restricted goods), at the end insert—
+
+> (3) A person who contravenes a prohibition in paragraph (1) commits an offence, but it is a defence for a person charged with the offence of contravening paragraph (1) to show that the person did not know and had no reasonable cause to suspect that the export was to, or the goods were for use in, Iran (as the case may be).
+
+**16.**[^key-f2fb03c67991e0eab2b1048595f8bd55] In regulation 29 (supply and delivery of restricted goods), in paragraph (4), for “United Kingdom, the Isle of Man” substitute “Territory”.
+
+**17.**[^key-a35fa0073b9b7418c26d4ab2c15f99c8] In regulation 34 (brokering services: non-UK activity relating to restricted goods and restricted technology)—
+
+- (a) in the heading, for “non-UK” substitute “non-Territory”;
+- (b) in paragraph (1), for “non-UK country”, in each place it occurs, substitute “non-Territory country”;
+- (c) for paragraph (4) substitute—
+
+  > (4) In this regulation—
+  >
+  > - “**non-Territory country**” means a country that is not the Territory;
+  > - “**third country**” means a country that is not the Territory or Iran.
+
+**18.**[^key-5847732d22b6356b191f61fcf0f04dd9] In regulation 37 (export of unmanned aerial vehicle goods), at the end insert—
+
+> (3) A person who contravenes a prohibition in paragraph (1) commits an offence, but it is a defence for a person charged with the offence of contravening paragraph (1) to show that the person did not know and had no reasonable cause to suspect that the export was to, or the goods were for use in, Iran (as the case may be).
+
+**19.**[^key-c76b3a5127cb6937b0a092d2579c3df3] In regulation 38 (supply and delivery of unmanned aerial vehicle goods), in paragraph (4), for “United Kingdom, the Isle of Man” substitute “Territory”.
+
+**20.**[^key-e73a49069dca930f7299e9e2a889f925] In regulation 43 (brokering services: non-UK activity relating to unmanned aerial vehicle goods and unmanned aerial vehicle technology)—
+
+- (a) in the heading, for “non-UK” substitute “non-Territory”;
+- (b) in paragraph (1), for “non-UK country”, in each place it occurs, substitute “non-Territory country”;
+- (c) for paragraph (4) substitute—
+
+  > (4) In this regulation—
+  >
+  > - “**non-Territory country**” means a country that is not the Territory;
+  > - “**third country**” means a country that is not the Territory or Iran.
+
+**21.**[^key-a90b690e13db87083331b3c5261de8bb] In regulation 46 (prohibition on port entry)—
+
+- (a) in paragraphs (1) and (2), for “United Kingdom”, in both places it occurs, substitute “Territory”;
+- (b) for paragraph (6) substitute—
+
+  > (6) In paragraph (5), a “**designated person**” means a person for the time being designated by the Secretary of State under regulation 5 (power to designate persons) (as it has effect in the United Kingdom) for the purposes of regulations 46, 48, 49 and 50 (ships: prohibition on port entry etc.) (as they have effect in the United Kingdom).
+
+**22.**[^key-e6751cf4bef88aaf59c72ed39adc2c60] In regulation 47 (directions prohibiting port entry)—
+
+- (a) in paragraphs (2), (3), (5) and (6), for “Secretary of State”, in each place it occurs, substitute “Governor”;
+- (b) in paragraphs (3) and (7), for “United Kingdom”, in both places it occurs, substitute “Territory”;
+- (c) after paragraph (6) insert—
+
+  > (6A) The Secretary of State may direct the Governor to exercise any of the Governor’s powers under this regulation.
+
+  ;
+
+**23.**[^key-da259ab9a1ce412722cda42ea34ed0b3] In regulation 48 (movement of ships)—
+
+- (a) in paragraphs (1), (2), (4) and (5), for “Secretary of State”, in each place it occurs, substitute “Governor”;
+- (b) after paragraph (5) insert—
+
+  > (5A) The Secretary of State may direct the Governor to exercise any of the Governor’s powers under this regulation.
+- (c) in paragraph (6), for the definition of “designated person” substitute—
+
+  > - “**designated person**” means a person for the time being designated by the Secretary of State under regulation 5 (power to designate persons) (as it has effect in the United Kingdom) for the purposes of regulations 46, 48, 49 and 50 (ships: prohibition on port entry etc.) (as they have effect in the United Kingdom);
+
+  .
+
+**24.**[^key-fdb48630a4357d91f1fe9a88806fceb3] In regulation 49 (detention of ships)—
+
+- (a) in paragraphs (1), (2) and (3), for “Secretary of State”, in each place it occurs, substitute “Governor”;
+- (b) in paragraphs (4) and (6), for “United Kingdom”, in both places it occurs, substitute “Territory”;
+- (c) after paragraph (7) insert—
+
+  > (7A) The Secretary of State may direct the Governor to exercise any of the Governor’s powers under this regulation.
+
+  ;
+- (d) for paragraph (8) substitute—
+
+  > (8) Where a detention direction is given under this regulation in relation to a ship, an authorised officer may detain the ship.
+  >
+  > (8A) If a ship in respect of which a detention direction has been given to the master proceeds to sea in contravention of the detention direction, the master of the ship commits an offence.
+  >
+  > (8B) If a ship in respect of which a detention direction has been given to the master fails to comply with any requirements imposed by the direction, the master of the ship commits an offence.
+  >
+  > (8C) The owner of a ship, and any person who sends to sea a ship, in respect of which an offence is committed under paragraph (8A) or (8B), if party or privy to the offence, also commits an offence under that paragraph.
+  >
+  > (8D) Any reference in this regulation to proceeding to sea includes a reference to going on a voyage or excursion that does not involve going to sea, and references to sending to sea are to be construed accordingly.
+
+  ;
+- (e) for paragraph (10) substitute—
+
+  > (10) In this regulation, “**designated person**” means a person for the time being designated by the Secretary of State under regulation 5 (power to designate persons) (as it has effect in the United Kingdom) for the purposes of regulations 46, 48, 49 and 50 (ships: prohibition on port entry etc.) (as they have effect in the United Kingdom).
+
+**25.**[^key-f395bb400742296d357bd8fccb4da49d] For regulation 77 (finance: disclosure to the Treasury) substitute—
+
+> **77. Finance: disclosure to the Governor**
+>
+> (1) A relevant public authority may disclose information to the Governor or an authorised officer if the disclosure is made for the purpose of enabling or assisting the Governor or the authorised officer to discharge any of their functions in connection with any sanctions regulations contained in these Regulations.
+>
+> (2) In this regulation, “**relevant public authority**” means—
+>
+> - (a) any person holding or acting in any office under or in the service of—
+>   - (i) the Crown in right of the Government of the United Kingdom;
+>   - (ii) the Crown in right of the Government of the Territory, or
+> - (b) any other person exercising functions of a public nature.
+
+.
+
+**26.**[^key-4027f5a6fa99d1fc39f07b1dfa141e17] Omit regulation 51 (specification of ships) (including the heading).
+
+**27.**[^key-aff26425f24976c094c642a1472af6df] For regulation 52 (notification and publicity where specification power used) substitute—
+
+> **52. Requirement to publish a list of specified ships**
+>
+> (1) Subject to paragraph (2), the Governor must—
+>
+> - (a) publish a list of specified ships, and
+> - (b) keep the list up to date.
+>
+> (2) Where, in accordance with regulation 52 (notification and publicity where specification power used) (as it has effect in the United Kingdom) the Secretary of State is not required to publicise generally a specification or revocation, the Governor must not include in the list under paragraph (1) any details of that specification or revocation.
+>
+> (3) The Governor may publish the list under paragraph (1) in any form the Governor considers appropriate, including by means of a website.
+
+**28.**[^key-8ae8950dabe8fd3f06ba1779836c6225] In regulation 54 (interpretation of Part 7)—
+
+- (a) in paragraph (5), in the definition of “specified ship”, after “regulation 51 (specification of ships)” insert “(as it has effect in the United Kingdom)”;
+- (b) in paragraph (6), after “in that section” insert “, unless otherwise provided in this Part”.
+
+**29.**[^key-a912dc3bc06d0c57ae5506900475fc0e] In regulation 55 (finance: exceptions from prohibitions)—
+
+- (a) omit paragraph (6);
+- (b) in paragraph (7), for the definition of “relevant institution” substitute—
+
+  > - “**relevant institution**”, in relation to the Territory, means a person domiciled in the Territory who would satisfy the threshold conditions for permission under Part 4A of the Financial Services and Markets Act 2000[^f00006] if it had its registered office (or if it does not have one, its head office) in the United Kingdom.
+
+  ;
+- (c) omit paragraph (8).
+
+**29A.**[^key-b3e2beb477156de67e5c679bd944baf0] For regulation 55A (finance: exception from prohibitions for required payments) substitute—
+
+> **55A. Finance: exception from prohibitions for required payments**
+>
+> (1) This regulation applies to required payments within the meaning of paragraph (2).
+>
+> (2) A required payment is a payment which a designated person is required to make under or by virtue of any enactment which applies in the Territory to—
+>
+> - (a) a government department or body,
+> - (b) a customs authority,
+> - (c) a revenue authority,
+> - (d) a registrar of companies,
+> - (e) a financial regulator,
+> - (f) a land authority, or
+> - (g) a consolidated fund.
+>
+> (3) The prohibitions in regulations 15 (asset-freeze in relation to designated persons) and 17 (making funds available for benefit of designated persons) are not contravened by a person making a required payment.
+>
+> (4) Where a required payment is made by a person other than a designated person, the prohibition in regulation 15 is not contravened by the designated person making a reimbursement payment to that person.
+>
+> (5) The reference in paragraph (3) to a person making a required payment includes a designated person, but only where they are making a required payment on their own behalf.
+>
+> (6) For the purposes of this regulation, references to a designated person are to be read as including a person who is owned or controlled directly or indirectly (within the meaning of regulation 9) by the designated person.
+>
+> (7) In this regulation—
+>
+> - “**designated person**” has the same meaning as it has in Part 3 (finance);
+> - “**reimbursement payment**” means a repayment from the designated person to the person who made a required payment which is of the same amount as that required payment.
+
+.
+
+**30.**[^key-4a8e9311b92b4e4af07443e7b9a21a1a] In regulation 56 (trade: exception for emergencies in certain cases), in paragraph (1), for “Secretary of State” substitute “Governor”.
+
+**31.**[^key-fec886ab2222e113382f8e545deb73f3] For regulation 58 (exception for authorised conduct in a relevant country) substitute—
+
+> **58. Exceptions for authorised conduct outside the Territory**
+>
+> (1) Where a person’s conduct outside the Territory would, in the absence of this paragraph, contravene a prohibition in any of regulations 15 to 19 (asset-freeze etc.) or Chapter 2, 3 or 4 of Part 6 (Trade), the prohibition is not contravened if the conduct is authorised by a licence issued under regulation 60 (Treasury licences) (as it has effect in the United Kingdom) or regulation 62 (trade licences) (as it has effect in the United Kingdom).
+>
+> (2) Where a person’s conduct in a relevant country would, in the absence of this paragraph, contravene a prohibition in any of regulations 15 to 19 or Chapter 2, 3 or 4 of Part 6 (“the relevant prohibition”), the relevant prohibition is not contravened if the conduct is authorised by a licence or other authorisation which is issued—
+>
+> - (a) under the law of the relevant country, and
+> - (b) for the purpose of disapplying a prohibition in that jurisdiction which corresponds to the relevant prohibition.
+>
+> (3) In this regulation—
+>
+> - “**relevant country**” means—
+>   - (a) any of the Channel Islands,
+>   - (b) the Isle of Man, or
+>   - (c) any British overseas territory other than the Territory.
+
+**32.**[^key-5492d39b120e52f524e43f16c61db61f] For regulation 59 (exception for acts done for purposes of national security or prevention of serious crime), substitute—
+
+> **59.** (1) Where an act would, in the absence of this paragraph, be prohibited by the prohibition in regulation 11(2) or 13(2) (confidentiality) or any prohibition in Part 3 (Finance) or 6 (Trade), or under or by virtue of Part 7 (Ships), that prohibition does not apply to the act if the act is one which—
+>
+> - (a) a responsible officer has determined would be in the interests of—
+>   - (i) national security, or
+>   - (ii) the prevention or detection of serious crime in the United Kingdom or elsewhere, or
+> - (b) the Governor, with the consent of the Secretary of State, has determined would be in the interests of the prevention or detection of serious crime in the Territory.
+>
+> (2) Where, in the absence of this paragraph, a thing would be required to be done under or by virtue of a provision of Part 9 (Information and records) or Part 11 (Maritime enforcement), that requirement does not apply if—
+>
+> - (a) a responsible officer has determined that not doing the thing in question would be in the interests of—
+>   - (i) national security, or
+>   - (ii) the prevention or detection of serious crime in the United Kingdom or elsewhere, or
+> - (b) the Governor, with the consent of the Secretary of State, has determined that not doing the thing in question would be in the interests of the prevention or detection of serious crime in the Territory.
+>
+> (3) In this regulation, “**responsible officer**” means a person in the service of the Crown or holding office under the Crown in the United Kingdom, acting in the course of that person’s duty.
+
+**33.**[^key-522a89c84245f9b673c34e3690506ee2] For regulation 60 (Treasury Licences), substitute—
+
+> **60. Financial sanctions licences**
+>
+> (1) The prohibitions in regulations 15 to 19 (asset-freeze etc.) do not apply to anything done under the authority of a licence issued by the Governor under this paragraph.
+>
+> (2) The Governor may issue a financial sanctions licence only with the consent of the Secretary of State.
+>
+> (3) The Governor may issue a financial sanctions licence which authorises acts by a particular person only where the Governor considers that it is appropriate to issue the licence for a purpose set out in Schedule 5.
+
+**34.**[^key-a9a186b4f3baa70385146f8eb543c691] Omit regulation 61 (director disqualification licences) (including the heading).
+
+**35.**[^key-a96acdcf5e2a68a9dffe3cbedcb3b94f] In regulation 62 (trade licences)—
+
+- (a) the existing text becomes paragraph (1);
+- (b) in that paragraph for “Secretary of State” substitute “Governor”;
+- (c) at the end insert—
+
+  > (2) The Governor may issue a licence under paragraph (1) only with the consent of the Secretary of State.
+
+**36.**[^key-ab7a79be91e830cb9ca80146d88f3636] In regulation 63 (licences: general provisions)—
+
+- (a) in paragraph (1)—
+  - (i) for “Treasury licences” substitute “financial sanctions licences”;
+  - (ii) omit “director disqualification licences,”;
+- (b) in paragraph (5), after “a licence may” insert “, with the consent of the Secretary of State,”.
+
+**37.**[^key-054f0980b4352e9462bee34c7e206ea0] In regulation 64 (finance: licensing offences), for “Treasury licence”, in both places it occurs, substitute “financial sanctions licence”.
+
+**38.**[^key-8fb241b75692e37efa76078dbd5c1091] Omit regulation 65 (director disqualification: licensing offences) (including the heading).
+
+**39.**[^key-a75f0c4ce16885e71897653b5545bef8] For regulation 67 (section 8B(1) to (3) of Immigration Act 1971: directions) substitute—
+
+> **67. Immigration directions**
+>
+> (1) The Governor may, with the consent of the Secretary of State, direct that, in relation to any person falling within regulation 22 (immigration) whose name is specified, or who is of a specified description, that regulation has effect subject to specified exceptions.
+>
+> (2) A direction under this regulation—
+>
+> - (a) may contain conditions;
+> - (b) must be of a defined duration (and that duration may be expressed in any way, including, for example, being expressed in a way such that the direction ceases to have effect on, or within a specified period after, the occurrence of a specified event).
+>
+> (3) The Governor may, with the consent of the Secretary of State, vary, revoke or suspend a direction under this regulation at any time.
+>
+> (4) On the issue, variation, revocation or suspension of a direction under this regulation, the Governor may take such steps as the Governor considers appropriate to publicise the issue, variation, revocation or suspension of the direction.
+>
+> (5) In this regulation, “**specified**” means specified in a direction under this regulation.
+
+**40.**[^key-460ee22edec8a83e971504d01c075caa] In regulation 68 (finance: reporting obligations)—
+
+- (a) for “Treasury”, in each place it occurs, substitute “Governor”;
+- (b) for paragraph (5) substitute—
+
+  > (5) A relevant institution must inform the Governor without delay if that institution credits a frozen account in accordance with regulation 55(4) (finance: exceptions from prohibitions).
+
+**40A.**[^key-5b42c116276617926fa088f95f1a8aac] In regulation 68A (finance: reporting obligations for required payments)—
+
+- (a) in paragraphs (1), (2) and (3), for “Treasury” substitute “Governor”;
+- (b) in paragraph (5), for “55A(8)”, in both places it occurs, substitute “55A(7)”.
+
+**41.**[^key-983c45c241b7bdee59dd4288fbb62463] For regulation 69 (“relevant firm”) substitute—
+
+> **69.** (1) The following are relevant firms for the purposes of regulation 68 (finance: reporting obligations)—
+>
+> - (a) a relevant institution;
+> - (b) an undertaking that by way of business—
+>   - (i) operates a currency exchange office,
+>   - (ii) transmits money (or any representation of monetary value) by any means, or
+>   - (iii) cashes cheques that are made payable to customers;
+> - (c) a firm or sole practitioner that provides to other persons, by way of business—
+>   - (i) accountancy services,
+>   - (ii) advice about tax affairs,
+>   - (iii) auditing services,
+>   - (iv) legal or notarial services, or
+>   - (v) trust or company services;
+> - (d) a firm or sole practitioner that carries out, or whose employees carry out, estate agency work;
+> - (e) the holder of a licence to operate a casino in the Territory;
+> - (f) a person engaged in the business of making, supplying, selling (including selling by auction) or exchanging—
+>   - (i) articles made from gold, silver, platinum or palladium, or
+>   - (ii) precious stones or pearls;
+> - (g) a cryptoasset exchange provider;
+> - (h) a custodian wallet provider.
+> - (i)[^key-00c55a08fdd1fb4bd2ce17663113faf0] a high value dealer;
+> - (j) an art market participant;
+> - (k) an insolvency practitioner;
+> - (l) a firm or sole practitioner (a “letting agent”) that carries out, or whose employees carry out, letting agency work.
+>
+> (2) For the purposes of paragraph (1), the following definitions apply—
+>
+> - “**cryptoasset exchange provider**” means a firm or sole practitioner that by way of business provides one or more of the following services, including where the firm or sole practitioner does so as creator or issuer of any of the cryptoassets involved—
+>   - (a) exchanging, or arranging or making arrangements with a view to the exchange of, cryptoassets for money or money for cryptoassets,
+>   - (b) exchanging, or arranging or making arrangements with a view to the exchange of, one cryptoasset for another, or
+>   - (c) operating a machine which utilises automated processes to exchange cryptoassets for money or money for cryptoassets;
+> - “**custodian wallet provider**” means a firm or sole practitioner that by way of business provides services to safeguard, or to safeguard and administer—
+>   - (a) cryptoassets on behalf of its customers, or
+>   - (b) private cryptographic keys on behalf of its customers in order to hold, store and transfer cryptoassets;
+> - “**estate agency work**”, in relation to the Territory, is to be read in accordance with section 1 of the Estate Agents Act 1979[^f00007], but as if references in that section to disposing of or acquiring an interest in land included (despite anything in section 2 of that Act) references to disposing of or acquiring an estate or interest in land outside the Territory where that estate or interest is capable of being owned or held as a separate interest;
+> - “**firm**” means any entity that, whether or not a legal person, is not an individual, and includes a body corporate and a partnership or other unincorporated body;
+> - “**relevant institution**” has the same meaning as it has in regulation 55;
+> - “**trust or company services**” means any of the following services—
+>   - (a) forming companies or other legal persons;
+>   - (b) acting, or arranging for another person to act—
+>     - (i) as a director or secretary of a company,
+>     - (ii) as a partner of a partnership, or
+>     - (iii) in a similar capacity in relation to other legal persons;
+>   - (c) providing a registered office, business address, correspondence or administrative address or other related services for a company, partnership or any other legal person or arrangement;
+>   - (d) acting, or arranging for another person to act, as—
+>     - (i) a trustee of an express trust or similar legal arrangement, or
+>     - (ii) a nominee shareholder for a person.
+>
+> (3) For the purposes of this regulation—
+>
+> - (a) “**cryptoasset**” means a cryptographically secured digital representation of value or contractual rights that uses a form of distributed ledger technology and can be transferred, stored or traded electronically;
+> - (b) “**money**” means—
+>   - (i) money in sterling,
+>   - (ii) money in any other currency, or
+>   - (iii) money in any other medium of exchange,
+>
+>   but does not include does not include a cryptoasset; and
+> - (c) in sub-paragraphs (a) to (c) of the definition of “cryptoasset exchange provider” in paragraph (2), “**cryptoasset**” includes a right to, or interest in, the cryptoasset.
+>
+> (3A)[^key-d81451ca6a9293e78400389aeeb3ecb1] In paragraph (1), a “**high value dealer**” means a firm or sole trader that by way of business trades in goods (including an auctioneer dealing in goods), when the firm or sole trader makes or receives, in respect of any transaction, a payment or payments in cash of at least 10,000 euros in total, whether the transaction is executed in a single operation or in several operations which appear to be linked.
+>
+> (3B) In paragraph (1), an “**art market participant**” means, subject to paragraph (3C), a firm or sole practitioner that by way of business trades in, or acts as an intermediary in the sale or purchase of, works of art and the value of the transaction, or a series of linked transactions, amounts to 10,000 euros or more.
+>
+> (3C) A firm or sole practitioner is not an art market participant for the purposes of paragraph (3B) in relation to the sale or storage of a work of art which is created by, or is attributable to, a member of the firm or the sole practitioner.
+>
+> (3D) For the purposes of this regulation, “**work of art**” means—
+>
+> - (a) any mounted or unmounted painting, drawing, collage, decorative plaque or similar picture that was executed by hand, but does not include any technical drawing, map or plan;
+> - (b) any original engraving, lithograph or other print which—
+>   - (i) was produced from one or more plates executed by hand by an individual who executed them without using any mechanical or photomechanical process, and
+>   - (ii) either is the only one produced from the plate or plates or is comprised in a limited edition;
+> - (c) any original sculpture or statuary, in any material;
+> - (d) any sculpture cast which—
+>   - (i) was produced by or under the supervision of the individual who made the mould or became entitled to it by succession on the death of that individual, and
+>   - (ii) either is the only cast produced from the mould or is comprised in a limited edition;
+> - (e) any tapestry or other hanging which—
+>   - (i) was made by hand from an original design, and
+>   - (ii) either is the only one made from the design or is comprised in a limited edition;
+> - (f) any ceramic executed by an individual and signed by that individual;
+> - (g) any enamel on copper which—
+>   - (i) was executed by hand,
+>   - (ii) is signed either by the person who executed it or by someone on behalf of the studio where it was executed,
+>   - (iii) either is the only one made from the design in question or is comprised in a limited edition, and
+>   - (iv) is not comprised in an article of jewellery or an article of a kind produced by goldsmiths or silversmiths;
+> - (h) any mounted or unmounted photograph which—
+>   - (i) was printed by or under the supervision of the photographer,
+>   - (ii) is signed by the photographer, and
+>   - (iii) either is the only print made from the exposure in question or is comprised in a limited edition.
+>
+> (3E) In paragraph (1), an “**insolvency practitioner**” means a person that administers insolvency proceedings, including by receiving or managing the money or other property of any person subject to any form of insolvency proceedings, in accordance with any law relating to insolvency which applies for the time being in the Territory.
+>
+> (3F) In paragraph (1), “**letting agency work**” means work—
+>
+> - (a) consisting of things done in response to instructions received from—
+>   - (i) a person (a “prospective landlord”) seeking to find another person to whom to let land for a term of a month or more, or
+>   - (ii) a person (a “prospective tenant”) seeking to find land to rent for a term of a month or more, and
+> - (b) done—
+>   - (i) in relation to a prospective landlord, from the point that the prospective landlord instructs a letting agent, or
+>   - (ii) otherwise in the course of concluding an agreement for the letting of land for a term of a month or more.
+>
+> (3G) For the purposes of paragraph (3F)—
+>
+> - “**land**” includes part of a building and part of any other structure;
+> - “**letting agency work**” does not include the things listed in paragraph (3H) when done by, or by employees of, a firm or sole practitioner if neither the firm nor sole practitioner, nor any of their employees, does anything else within paragraph (3F).
+>
+> (3H) Those things are—
+>
+> - (a) publishing advertisements or disseminating information;
+> - (b) providing a means by which a prospective landlord or a prospective tenant can, in response to an advertisement or dissemination of information, make direct contact with a prospective tenant or a prospective landlord;
+> - (c) providing a means by which a prospective landlord and a prospective tenant can communicate directly with each other;
+> - (d) the provision of legal or notarial services by a barrister, advocate, solicitor or other legal representative communications with whom may be the subject of a claim to professional privilege.
+>
+> (4) For the purposes of regulation 68(1), information or another matter comes to a relevant firm “in the course of carrying on its business” if the information or other matter comes to the firm—
+>
+> - (a) in the case of a relevant firm within paragraph (1)(a), in the course of carrying on an activity in respect of which permission under Part 4A of the Financial Services and Markets Act 2000 would be required if it had its registered office (or if it does not have one, its head office) in the United Kingdom, [^key-877a4d16dd8bd11019baddec852afa04]...
+> - (aa)[^key-4abd99d4657c9da5f99b67e3cfa2c9c2] in the case of a relevant firm within paragraph (1)(j)—
+>   - (i) in the course of trading, or acting as an intermediary in the sale or purchase of, works of art when the value of the transaction, or a series of linked transactions, amounts to 10,000 euros or more, or
+>   - (ii) in the course of storing works of art where the value of the works of art so stored for a person amounts to 10,000 euros or more, and
+> - (b) in the case of a relevant firm within any other provision of paragraph (1), in the course of carrying on an activity mentioned in that provision.
+
+**42.**[^key-7cf1493bfe91ad9882f0948aa3c6f8d3] In regulation 70 (finance: powers to request information)—
+
+- (a) in paragraph (1) for “The Treasury” substitute “An authorised officer”;
+- (b) in paragraph (2)—
+  - (i) for “The Treasury”, in the first place it occurs, substitute “An authorised officer”;
+  - (ii) for “the Treasury”, in the second place it occurs, substitute “the authorised officer”;
+- (c) in paragraph (4), for “the Treasury believe” substitute “the authorised officer believes”;
+- (d) in paragraph (5)—
+  - (i) for “The Treasury” substitute “An authorised officer”;
+  - (ii) for “Treasury licence” substitute “financial sanctions licence”;
+- (e) for paragraph (6) substitute—
+
+  > (6) An authorised officer may request a person to provide information within paragraph (7) if the authorised officer believes that the person may be able to provide the information.
+
+  ;
+- (f) in paragraph (7)—
+  - (i) for “the Treasury” substitute “the authorised officer”;
+  - (ii) in sub-paragraph (b)(iii), for “Treasury licence” substitute “financial sanctions licence”;
+- (g) in paragraph (8), for “The Treasury” substitute “The authorised officer”;
+- (h) in paragraph (10), for “the Treasury” in both places it occurs, substitute “the authorised officer”.
+
+**43.**[^key-7232b48d669b5a4f9e55225df6223968] In regulation 71 (finance: production of documents)—
+
+- (a) in paragraph (2), for “the Treasury request that documents be produced, the Treasury” substitute “an authorised officer requests that documents be produced, the authorised officer”;
+- (b) for paragraph (3) substitute—
+
+  > (3) Where an authorised officer requests a designated person acting under a financial sanctions licence to produce documents, that person must—
+  >
+  > - (a) take reasonable steps to obtain the documents (if they are not already in the person’s possession or control);
+  > - (b) keep the documents under the person’s possession or control (except for the purpose of providing them to the authorised officer or as the authorised officer may otherwise permit).
+
+**44.**[^key-a894d191712070f017a65325842bc023] In regulation 72 (finance: information offences), in paragraph (1)(d), for “the Treasury” substitute “an authorised officer”.
+
+**45.**[^key-5ce18088809aed1def0b157e6bbee031] For regulation 73 (trade: application of information powers in CEMA) substitute—
+
+> **73. Trade: information powers**
+>
+> (1) An authorised officer may request a person who is concerned (in whatever capacity) in a relevant activity to provide such information as the authorised officer may reasonably require about the relevant activity.
+>
+> (2) The authorised officer may specify the way in which, and the period within which, information is to be provided.
+>
+> (3) If no such period is specified, the information which has been requested must be provided within a reasonable time.
+>
+> (4) A request under paragraph (1) may include a request to produce specified documents or documents of a specified description.
+>
+> (5) Where the authorised officer requests that documents be produced, the authorised officer may—
+>
+> - (a) take copies or extracts from any document so produced,
+> - (b) request any person producing a document to give an explanation of it,
+> - (c) where that person is a body corporate, partnership or unincorporated body other than a partnership, request any person who is—
+>   - (i) in the case of a partnership, a present or past partner or employee of the partnership, or
+>   - (ii) in any other case, a present or past officer or employee of the body concerned,
+>
+>   to give such an explanation, and
+> - (d) remove, at a reasonable time and for a reasonable period, any document so produced if the authorised officer considers it is necessary to do so.
+>
+> (6) Where a document has been removed by an authorised officer under paragraph (5)(d)—
+>
+> - (a) the authorised officer must, on request, provide a receipt for the document;
+> - (b) if the document is reasonably required for the proper conduct of a business, the authorised officer must, as soon as practicable and free of charge, provide a copy of the document to the person who produced it.
+>
+> (7) Where a document requested to be produced under paragraph (4) is subject to a lien, the production or removal of the document in accordance with this regulation does not affect, and is not to be regarded as breaking, the lien.
+>
+> (8) For the purposes of paragraph (1), a “**relevant activity**” means an activity—
+>
+> - (a) which would, unless done under the authority of a trade licence, constitute a contravention of any prohibition in Chapter 2, 3 or 4 of Part 6 (Trade), or
+> - (b) which would constitute a contravention of the prohibition in regulation 44 (circumventing etc. prohibitions).
+
+**46.**[^key-49532a15f160873f9be4298b7786e141] After regulation 73 (trade: information powers) insert—
+
+> **73A. Trade: information offences**
+>
+> (1) A person commits an offence if that person—
+>
+> - (a) without reasonable excuse, refuses or fails within the time and in the manner specified (or, if no time has been specified, within a reasonable time) to comply with any request under regulation 73 (trade: information powers);
+> - (b) knowingly or recklessly gives any information, or produces any document, which is false in a material particular in response to such a request;
+> - (c) with intent to evade any provision of regulation 73, destroys, mutilates, defaces, conceals or removes any document;
+> - (d) otherwise intentionally obstructs an authorised officer in the exercise of their powers under regulation 73.
+>
+> (2) Where a person is convicted of an offence under this regulation, the court may make an order requiring that person, within such period as may be specified in the order, to comply with the request.
+
+**47.**[^key-8de734bcac618906c60a02a90803c98d] In regulation 74(4) (general trade licences: records), for “Secretary of State” substitute “Governor”.
+
+**48.**[^key-3bb714c191fab1bc4ee45475f36b422d] In regulation 75 (general trade licences: inspection of records)—
+
+- (a) in paragraph (1), for “A person authorised by the Secretary of State or the Commissioners (an “official”)” substitute “An authorised officer”;
+- (b) in paragraphs (2) to (5), for “official”, in each place it occurs, substitute “authorised officer”;
+- (c) in paragraph 5(a), for “official’s functions” substitute “authorised officer’s functions”.
+
+**49.**[^key-28d9197203d3bf123db2138e92795151] In regulation 76 (disclosure of information)—
+
+- (a) in paragraph (1)—
+  - (i) for “Secretary of State, the Treasury or the Commissioners” substitute “Governor or an authorised officer”;
+  - (ii) omit “Part 4 (Director disqualification sanctions),”;
+- (b) in paragraph (2)—
+  - (i) after sub-paragraph (c), insert—
+
+    > - (ca) taking any action with a view to instituting, or otherwise for the purposes of, any proceedings in the Territory for an offence under any provisions of these Regulations;
+
+    ;
+  - (ii) in sub-paragraph (d)—
+    - (aa) in paragraph (i), after “Regulations” insert “(as they have effect in the United Kingdom)”;
+    - (bb) in paragraph (ii), after “regulation 28(1) and 37(1) (export of restricted goods etc.)” insert “(as they have effect in the United Kingdom)”;
+  - (iii) in sub-paragraph (e), after “any British overseas territory” insert “other than the Territory”;
+  - (iv) in sub-paragraph (g), for “United Kingdom” substitute “Territory”;
+- (c) in paragraph (3)(j), for “Secretary of State, the Treasury or the Commissioners (as the case may be)” substitute “Governor”.
+
+**50.**[^key-0f2cffd9943095e392e678f969ce1c69] For regulation 77 (finance: disclosure to the Treasury) substitute—
+
+> **77. Finance: disclosure to the Governor**
+>
+> (1) A relevant public authority may disclose information to the Governor or an authorised officer if the disclosure is made for the purpose of enabling or assisting the Governor or authorised officer to discharge any of its functions in connection with any sanctions regulations[^f00008] contained in these Regulations.
+>
+> (2) In this regulation—
+>
+> - “**relevant public authority**” means—
+>   - (a) any person holding or acting in any office under or in the service of the Crown in right of the Territory;
+>   - (b) any regulatory body in the Territory;
+>   - (c) any other person exercising functions of a public nature.
+
+**51.**[^key-20b9983a48341d5cbe141629ff266f9d] In regulation 78 (Part 9: supplementary)—
+
+- (za)[^key-c062ca63cb769deee8e8c9e26d39f68c] in paragraph (1), for “Treasury” substitute “Governor”;
+- (a) for paragraph (2) substitute—
+
+  > (2) But nothing in that regulation authorises a disclosure that would contravene the data protection legislation if that legislation were applicable to the Territory.
+
+  ;
+- (b) in paragraph (5), for “Treasury licence” substitute “financial sanctions licence”;
+- (c) after paragraph (5) insert—
+
+  > (5A) An authorised officer must, if requested to do so, produce evidence of their authority before exercising any power conferred by this Part.
+
+  ;
+- (d) in paragraph (6), in the definition of “privileged information”, omit “(in Scotland, to confidentiality of communications)”.
+
+**52.**[^key-c7a6dc077743e50a913fb1928b6fd0eb] In Part 10 (Enforcement), at the beginning insert—
+
+> **78A. Suspected ships, aircraft or vehicles**
+>
+> (1) Where an authorised officer has reasonable cause to suspect that a ship, aircraft or vehicle has been, or is being, or is about to be, used in the commission of an offence under Part 6 (Trade) or regulation 66(2) (trade: licensing offences), the authorised officer may—
+>
+> - (a) in relation to an aircraft or vehicle, require the relevant person to keep the aircraft or vehicle and any goods it is carrying in the Territory, until the authorised officer notifies the relevant person that the aircraft or vehicle (as the case may be) may depart, or
+> - (b) in relation to a ship, require the relevant person—
+>   - (i) not to cause or permit the ship to proceed with the voyage on which it is engaged or about to engage, until the authorised officer notifies the relevant person that the ship may proceed;
+>   - (ii) not to land any part of the ship’s cargo at any port specified by the authorised officer, except with the authorised officer’s prior consent;
+>   - (iii) if the ship is in port in the Territory, to cause the ship to remain there until the authorised officer notifies the relevant person that the ship may depart;
+>   - (iv) if the ship is in any other place, to cause it to proceed to a port specified by the authorised officer and keep it there, until the authorised officer notifies the relevant person that the ship may depart.
+>
+> (2) Where the authorised officer considers it necessary in order to secure compliance with a requirement made under paragraph (1), the authorised officer may detain the ship, aircraft or vehicle and any goods it is carrying.
+>
+> (3) Where the authorised officer detains a ship, aircraft or vehicle and any goods it is carrying in accordance with paragraph (2), the authorised officer must deliver to the master of the ship, the aircraft operator or the owner of the vehicle (as the case may be) a detention direction.
+>
+> (4) A detention direction under paragraph (3) must—
+>
+> - (a) be in writing,
+> - (b) state the grounds on which the ship, aircraft or vehicle is detained, and
+> - (c) state that—
+>   - (i) the power to detain is exercised under this regulation, and
+>   - (ii) any requirements subject to which the detention is carried out must be complied with.
+>
+> (5) Paragraph (6) applies, in relation to a ship or aircraft, if—
+>
+> - (a) the ship or aircraft (as the case may be) is not a Territory ship or Territory aircraft, and
+> - (b) there is in the Territory a consular officer for the country to which the ship or aircraft belongs.
+>
+> (6) A copy of the detention direction must be sent as soon as practicable to the nearest consular officer for the country to which the ship or aircraft belongs.
+>
+> (7) An authorised officer may use reasonable force, if necessary, in the exercise of any power conferred by this regulation.
+>
+> (8) An authorised officer must, if requested to do so, produce evidence of their authority before exercising any power conferred by this regulation.
+>
+> (9) Nothing in this regulation affects any other provision of law conferring powers, imposing restrictions or enabling restrictions to be imposed in respect of ships, aircraft or vehicles.
+>
+> (10) In this regulation—
+>
+> - “consular officer”, in in relation to a foreign country, means the officer recognised by His Majesty as a consular officer of that foreign country in the Territory;
+> - “**the relevant person**” means any of the following—
+>   - (a) in relation to a ship, the owner, master or charterer of the ship;
+>   - (b) in relation to an aircraft, the owner, charterer, operator or commander of the aircraft;
+>   - (c) in relation to a vehicle, the owner, driver or operator of the vehicle.
+>
+> **78B. Search warrants**
+>
+> (1) A magistrate or justice of the peace may issue a search warrant if satisfied by information on oath that—
+>
+> - (a) there is reasonable cause to suspect that a relevant offence under these Regulations has been, or is being, or is about to be, committed, and
+> - (b) evidence in relation to the offence is to be found on a ship, aircraft, vehicle or premises specified in the information.
+>
+> (2) A search warrant issued under this regulation is a warrant empowering an authorised officer to enter and search the ship, aircraft, vehicle or premises specified in the information, at any time within one month from the date of the warrant.
+>
+> (3) The powers conferred on an authorised officer by a search warrant under this regulation include powers to—
+>
+> - (a) in the case of a power to enter a ship, aircraft or vehicle, stop that ship, aircraft or vehicle;
+> - (b) enter any land, where such entry appears to the authorised officer to be necessary in order to enter the ship, aircraft, vehicle or premises specified in the information;
+> - (c) take such other persons and such equipment on to the ship, aircraft, vehicle or premises as appear to the authorised officer to be necessary;
+> - (d) inspect and seize any thing found in the course of a search if the authorised officer has reasonable cause to suspect that—
+>   - (i) it is evidence in relation to a relevant offence under these Regulations, or
+>   - (ii) it is necessary to seize it in order to prevent it being concealed, lost, damaged, altered or destroyed;
+> - (e) take copies of any document.
+>
+> (4) An authorised officer who enters a ship, aircraft, vehicle or premises under a search warrant issued under this regulation may—
+>
+> - (a) search any person found on the ship, aircraft, vehicle or premises whom the officer has reasonable cause to suspect to be in possession of any thing which may be required as evidence for the purposes of proceedings in respect of a relevant offence under these Regulations, and
+> - (b) seize any such thing found in such a search.
+>
+> (5) Any thing seized under paragraphs (3)(d) or (4)(b)—
+>
+> - (a) may be retained for so long as is necessary in all the circumstances, and
+> - (b) where that thing is prohibited goods and is not authorised by a trade licence, may be forfeited, disposed of or transferred as appropriate.
+>
+> (6) A search of a person under paragraph (4)(a) must be carried out by a person of the same sex.
+>
+> (7) An authorised officer may use reasonable force, if necessary, in the exercise of any power conferred by this regulation.
+>
+> (8) An authorised officer must, if requested to do so, produce evidence of their authority before exercising any power conferred by this regulation.
+>
+> (9) Nothing in this regulation affects any other provision of law conferring powers, imposing restrictions or enabling restrictions to be imposed in respect of ships, aircraft or vehicles.
+>
+> (10) For the purposes of this regulation—
+>
+> - “**information on oath**” includes any other form of application for a search warrant applicable in the Territory;
+> - “**justice of the peace**” includes other competent judicial authorities within the Territory responsible for issuing search warrants;
+> - “**prohibited goods**” means goods which have been, or are being, dealt with in contravention of any prohibition in Chapters 2, 3 or 4 of Part 6 (Trade);
+> - “**relevant offence**” means an offence which is punishable with a term of imprisonment of more than 6 months.
+
+**53.**[^key-5be4addd616b2a28b4ae4f8b5e2b4cb5] For regulation 79 (penalties for offences) substitute—
+
+> **79.** (1) Paragraphs (3) to (7) apply to—
+>
+> - (a) Anguilla;
+> - (b) British Antarctic Territory;
+> - (c) British Indian Ocean Territory;
+> - (d) Cayman Islands;
+> - (e) Montserrat;
+> - (f) Pitcairn, Henderson, Ducie and Oeno Islands;
+> - (g) Turks and Caicos Islands;
+> - (h) Virgin Islands.
+>
+> (2) Paragraphs (8) to (12) apply to—
+>
+> - (a) Falkland Islands;
+> - (b) St Helena, Ascension and Tristan da Cunha;
+> - (c) South Georgia and the South Sandwich Islands;
+> - (d) the Sovereign Base Areas of Akrotiri and Dhekelia in the Island of Cyprus.
+>
+> (3) A person who commits an offence under any provision of Part 3 (Finance), regulation 46(4) (prohibition on port entry), 47(4) (directions prohibiting port entry), 48(3) (movement of ships), 64 (finance: licensing offences) or regulation 38 (finance: licensing offences) is liable—
+>
+> - (a) on summary conviction, to imprisonment for a term not exceeding 6 months, or a fine not exceeding £5,000 or its equivalent in the currency of the Territory, or both;
+> - (b) on conviction on indictment, to imprisonment for a term not exceeding 7 years, or a fine, or both.
+>
+> (4) A person who commits an offence under any provision of Part 6 (Trade) is liable—
+>
+> - (a) on summary conviction, to imprisonment for a term not exceeding 6 months, or a fine not exceeding £5,000 or its equivalent in the currency of the Territory, or both;
+> - (b) on conviction on indictment, to imprisonment for a term not exceeding 10 years, or a fine, or both.
+>
+> (5) A person who commits an offence under regulations 11(6) or 13(6) (confidentiality), 66 (trade: licensing offences), 74(6) (general trade licences: records) or 75(5) (general trade licences: inspection of records) is liable—
+>
+> - (a) on summary conviction, to imprisonment for a term not exceeding 6 months, or a fine not exceeding £5,000 or its equivalent in the currency of the Territory, or both;
+> - (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years, or a fine, or both.
+>
+> (6) A person who commits an offence under regulation 47(6) (directions prohibiting port entry: confidentiality), 48(5) (movement of ships: confidentiality), 68(6) or 72 (information offences in connection with Part 3) is liable, on summary conviction, to imprisonment for a term not exceeding 6 months, or a fine not exceeding £5,000 or its equivalent in the currency of the Territory, or both.
+>
+> (7) A person who commits an offence under regulation 73A (trade: information offences) is liable, on summary conviction, to a fine not exceeding £1,000 or its equivalent in the currency of the Territory.
+>
+> (8) A person who commits an offence under any provision of Part 3 (Finance), regulation 46(4) (prohibition on port entry), 47(4) (directions prohibiting port entry), 48(3) (movement of ships), 64 (finance: licensing offences) or regulation 38 (finance: licensing offences) is liable on conviction to imprisonment for a term not exceeding 7 years, or a fine, or both.
+>
+> (9) A person who commits an offence under any provision of Part 6 (Trade) is liable on conviction to imprisonment for a term not exceeding 10 years, or a fine, or both.
+>
+> (10) A person who commits an offence under regulations 11(6) or 13(6) (confidentiality), 66 (trade: licensing offences), 74(6) (general trade licences: records) or 75(5) (general trade licences: inspection of records) is liable on conviction to imprisonment for a term not exceeding 2 years, or a fine, or both.
+>
+> (11) A person who commits an offence under regulation 47(6) (directions prohibiting port entry: confidentiality), 48(5) (movement of ships: confidentiality), 68(6) or 72 (information offences in connection with Part 3) is liable on conviction to imprisonment for a term not exceeding 6 months, or a fine not exceeding £5,000 or its equivalent in the currency of the Territory, or both.
+>
+> (12) A person who commits an offence under regulation 73A (trade: information offences) is liable on conviction to a fine not exceeding £1,000 or its equivalent in the currency of the Territory.
+>
+> (13) Where a fine in this regulation is expressed to be a sum in sterling or its equivalent in the currency of the Territory, the Governor may issue guidance specifying how to calculate the amount in the currency of the Territory which is to be considered equivalent to that sum in sterling.
+
+**54.**[^key-61513366ca8f9b5bf6a4ac08915e62f9] In regulation 80 (liability of officers of bodies corporate etc.), omit paragraph (4).
+
+**55.**[^key-a6af27e86628cfac1b96f5c465d93451] In regulation 81 (jurisdiction to try offences)—
+
+- (a) in paragraphs (1) and (2), for “United Kingdom”, in each place it occurs, substitute “Territory”;
+- (b) omit paragraphs (3) and (4).
+
+**56.**[^key-319c5bb0c56dff53557b93b25e73aa7c] After regulation 81 (jurisdiction to try offences), insert—
+
+> **81A. Consent to prosecutions**
+>
+> (1) Proceedings for an offence under these Regulations must not be instituted in the Territory except with the consent of the principal public officer of the Territory responsible for criminal prosecutions.
+>
+> (2) Nothing in paragraph (1) prevents—
+>
+> - (a) the arrest, or the issue or execution of a warrant for the arrest, of any person in respect of an offence under these Regulations, or
+> - (b) the remand in custody or on bail of any person charged with such an offence.
+
+**57.**[^key-4c2f756da2bc774e27514a9d391d3836] For regulation 82 (procedure for offences by unincorporated bodies) substitute—
+
+> **82.** Any provision in an enactment which applies in the Territory in relation to criminal proceedings brought against a body corporate applies also for the purposes of proceedings in the Territory for an offence under these Regulations brought against an unincorporated body.
+
+**58.**[^key-87ca5f00bacda186ed168c8bce513458] In regulation 83 (time limit for proceedings for summary offences), omit paragraph (4).
+
+**59.**[^key-0aedffb7cb38d0948c4a6c855ca7a3db] Omit regulation 84 (trade enforcement: application of CEMA) (including the heading).
+
+**60.**[^key-4562ebb2efce85d12fd8fc413c788d68] Omit regulation 85 (trade offences in CEMA: modification of penalty) (including the heading).
+
+**61.**[^key-31d8f0fe7de9bae6789e3e4a6f11a3d5] Omit regulation 86 (application of Chapter 1 of Part 2 of Serious Organised Crime and Police Act 2005) (including the heading).
+
+**62.**[^key-6f594d5ca60f90ab5cea39681d7a6f6a] Omit regulation 87 (monetary penalties) (including the heading).
+
+**63.**[^key-86f195371caae7942952b0c43a44d8b7] In regulation 88 (exercise of maritime enforcement powers)—
+
+- (a) for paragraph (1) substitute—
+
+  > (1) A maritime enforcement officer may, for a purpose mentioned in paragraph (2) or (3), exercise any of the maritime enforcement powers in relation to a relevant ship in international waters.
+
+  ;
+- (b) omit paragraph (5);
+- (c) at the end insert—
+
+  > (6) In this Part, “**a relevant ship**” means, in relation to the Territory, a Territory ship.
+
+**64.**[^key-663460b6876019b910573e26304cfd7b] In regulation 89 (maritime enforcement officers)—
+
+- (a) in paragraph (1)—
+  - (i) omit sub-paragraphs (b), (d), (e), (f) and (h);
+  - (ii) for sub-paragraph (c) substitute—
+
+    > - (c) a police officer of the Territory;
+
+    ;
+  - (iii) for sub-paragraph (g) substitute—
+
+    > - (g) a customs officer of the Territory.
+
+    ;
+- (b) omit paragraph (2).
+
+**65.**[^key-2ab0ef725e003b4687640f624611e85f] In regulation 90(2)(c) (power to stop, board, search etc.), for “United Kingdom” substitute “Territory”.
+
+**66.**[^key-46950abd3aab44639178f45c606253ac] Omit regulation 92 (restrictions on exercise of maritime enforcement powers) (including the heading).
+
+**67.**[^key-174c754b0ad26b6f504329c3cb6f5690] In regulation 94 (notices), for United Kingdom, in each place it occurs, substitute “Territory”.
+
+**68.**[^key-717c1eee184bacbc5af81d9cec9c67b3] Omit regulation 95 (trade: overlapping offences) (including the heading).
+
+**69.**[^key-b89c690aaf44e54c0c0982d8b527836c] For regulation 96 (revocation of the Iran (Sanctions) (Human Rights) (EU Exit) Regulations), substitute—
+
+> **96. Revocation of the Iran (Sanctions) (Human Rights) (Overseas Territories) Order 2020**
+>
+> The Iran (Sanctions) (Human Rights) (Overseas Territories) Order 2020[^f00009] is revoked.
+
+**70.**[^key-ccdcda4442f1bf87640c984b755853d5] Omit regulation 97 (savings) (including the heading).
+
+**71.**[^key-22ad36c0e2350553642530705e000dfd] In regulation 98 (transitional provisions: Treasury licences)—
+
+- (a) in the heading, for “Treasury licences” substitute “financial sanctions licences”;
+- (b) in paragraphs (1), (3), (4) and (5), for “the 2019 Regulations”, at each place it occurs, substitute “the modified 2019 Regulations”;
+- (c) in paragraph (1) and (2), for “Treasury” substitute “Governor”;
+- (d) in paragraphs (2) and (6), for “(Treasury licences)” substitute “(financial sanctions licences)”.
+
+**72.**[^key-c5702db7f1758f610b1de0e0c70e9f74] In regulation 99 (transitional provision: trade licences)—
+
+- (a) in paragraphs (1) and (2), for “Secretary of State”, at both places it occurs, substitute “Governor”;
+- (b) in paragraphs (1), (3), (4) and (5), for “the 2019 Regulations”, at each place it occurs, substitute “the modified 2019 Regulations”.
+
+**73.**[^key-b880ce8d258508e3faac12a004b412c0] In regulation 100 (transitional provisions: prior obligations), in paragraph (4)(b), for “(Treasury licences: purposes)” substitute “(financial sanctions licences: purposes)”.
+
+**74.**[^key-63066fc9ff5ab838ab1ab08f610e1d93] For regulation 101 (interpretation of Part 12) substitute—
+
+> **101.** In this Part—
+>
+> - “**the 2019 Regulations**” means the Iran (Sanctions) (Human Rights) (EU Exit) Regulations 2019;
+> - “**the modified 2019 Regulations**” means the Iran (Sanctions) (Human Rights) (EU Exit) Regulations 2019 as extended and modified by the Iran (Sanctions) (Human Rights) (Overseas Territories) Order 2020.
+
+**75.**[^key-92b2f1500d6b8edaa77d3485bf7495a9] In Schedule 5 (Treasury licences: purposes)—
+
+- (a) in the heading, for “Treasury licences” substitute “Financial sanctions licences”;
+- (b) in the definition of “frozen funds or economic resources” in paragraph 1(1)[^key-f618ce422806bbf7c3e11af06eb0acf1], for “the designation of that person for the purpose of that regulation” substitute “that person being a designated person for the purposes of Part 3 (Finance) as defined in regulation 14 (meaning of “**designated person**” in Part 3)”;
+- (c)[^key-8e3023f465f1f4e4d294f78b63ce6d03] in paragraph 6 (judicial decisions etc.), for “United Kingdom” substitute “Territory”;
+- (d)[^key-8604f9b28ba72255acd1334c6240427e] for paragraph 13 (insolvency) substitute—
+
+  > **13. Insolvency**
+  >
+  > (1) To enable anything to be done in connection with—
+  >
+  > - (a) any insolvency and restructuring proceedings relating to an insolvent person, or
+  > - (b) proceedings, under the insolvency law of any country other than the Territory, that correspond to the proceedings in paragraph (a),
+  >
+  > provided that any payments made directly or indirectly to a designated person are credited to a frozen account.
+  >
+  > (2) In this paragraph—
+  >
+  > - “**insolvency and restructuring proceedings**” includes—
+  >   - (a) any proceedings, under any law relating to insolvency for the time being in force in the Territory, whereby, for a set period of time, the creditors of an insolvent person are precluded from taking action against the insolvent person;
+  >   - (b) any arrangement, under any such law, involving an agreement between an insolvent person and its creditors which is administered by an insolvency practitioner, and “**insolvency practitioner**” has the meaning given by regulation 69(3E);
+  >   - (c) any administration procedure, under any such law, in accordance with which proceedings, actions or other steps against an insolvent person are prohibited for the purpose of allowing the insolvent person to do either or both of the following—
+  >     - (i) reorganise assets;
+  >     - (ii) realise assets;
+  >   - (d) any receivership procedure, under any such law, whereby a secured creditor of an insolvent person can appoint an administrative receiver to manage and sell the insolvent person’s business and assets;
+  >   - (e) any proceedings, under any such law, for the winding up of a company but excluding any proceedings relating to the winding up of a solvent company;
+  >   - (f) any arrangement or scheme sanctioned by a court, under any such law, between a company and its members or creditors which can be used to effect solvent reorganisation of the company or effect insolvent restructurings;
+  > - “**insolvent person**” means a person (“**P**”), other than an individual, where—
+  >   - (a) P is unable to pay its debts as they fall due, or
+  >   - (b) the value of P’s assets is less than the amount of its liabilities, taking into account its contingent and prospective liabilities.
+
+  .
+
+## Annotations
+
+[^key-2abd96715e519cbf205d41ef57034738]: Commencement: Sch. 2 para. 1 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-fc4e2730ca912f04d23efd0dde12704a]: Commencement: Sch. 2 para. 2 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-5bf31e1ef084e6f659588d8bfd16202b]: Textual amendment: Words in [Sch. 2 para. 2(b)(i)](https://www.legislation.gov.uk/uksi/2023/1377/schedule/2/paragraph/2/b/i) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 34 para. 1](https://www.legislation.gov.uk/uksi/2025/1307/schedule/34/paragraph/1)
+
+[^f00003]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61). Part IV has been amended by the British Overseas Territories Act [2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), section 1(1)(b); and the Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), Schedule 2, paragraph 1(i).
+
+[^key-3b57bc9b69767514af42a8328c121776]: Commencement: Sch. 2 para. 3 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-50c970a0e1dec00fefb978d35f6fdb09]: Commencement: Sch. 2 para. 4 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-7921b31b1b73d998b8303bbf0c35e875]: Commencement: Sch. 2 para. 5 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-d9fdd1484ca598593ea27a9efb36f916]: Commencement: Sch. 2 para. 6 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-f467c036313f1c98b31e7e7a2be8be0e]: Commencement: Sch. 2 para. 7 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-8e1871604110d608785deae7d33cb9f7]: Commencement: Sch. 2 para. 8 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-3221e0263077ac58af26361ffd7ec7cd]: Commencement: Sch. 2 para. 9 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-13fff1c35e91a23bd1c07947f92beb66]: Commencement: Sch. 2 para. 10 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-144070db9d1bb521940ed9f2342ffef0]: Commencement: Sch. 2 para. 11 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-59b4fafbe4cc95306b0cd68a085da34f]: Commencement: Sch. 2 para. 12 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-287ef73fc01d081843fd38b22ec66ba2]: Commencement: Sch. 2 para. 13 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^f00004]: Footnote: ETS Numbers 005, 009, 046, 114, 117, 177, 187 and CETS Numbers 194, 213 and 214.
+
+[^f00005]: Footnote: United Nations Treaty Series, vol. 189, p. 137 and vol. 606, p. 267.
+
+[^key-ac30e59c9f0413d2fec259d87d5b12b7]: Commencement: Sch. 2 para. 14 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-04251b87540c354b045fe293042ee518]: Commencement: Sch. 2 para. 15 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-f2fb03c67991e0eab2b1048595f8bd55]: Commencement: Sch. 2 para. 16 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-a35fa0073b9b7418c26d4ab2c15f99c8]: Commencement: Sch. 2 para. 17 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-5847732d22b6356b191f61fcf0f04dd9]: Commencement: Sch. 2 para. 18 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-c76b3a5127cb6937b0a092d2579c3df3]: Commencement: Sch. 2 para. 19 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-e73a49069dca930f7299e9e2a889f925]: Commencement: Sch. 2 para. 20 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-a90b690e13db87083331b3c5261de8bb]: Commencement: Sch. 2 para. 21 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-e6751cf4bef88aaf59c72ed39adc2c60]: Commencement: Sch. 2 para. 22 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-da259ab9a1ce412722cda42ea34ed0b3]: Commencement: Sch. 2 para. 23 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-fdb48630a4357d91f1fe9a88806fceb3]: Commencement: Sch. 2 para. 24 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-f395bb400742296d357bd8fccb4da49d]: Textual amendment: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2023/1377/schedule/2/paragraph/25) substituted (11.12.2025) by virtue of [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 34 para. 5](https://www.legislation.gov.uk/uksi/2025/1307/schedule/34/paragraph/5)
+
+[^key-4027f5a6fa99d1fc39f07b1dfa141e17]: Commencement: Sch. 2 para. 26 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-aff26425f24976c094c642a1472af6df]: Commencement: Sch. 2 para. 27 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-8ae8950dabe8fd3f06ba1779836c6225]: Commencement: Sch. 2 para. 28 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-a912dc3bc06d0c57ae5506900475fc0e]: Commencement: Sch. 2 para. 29 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^f00006]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Part 4A was inserted by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 11(2) and most recently amended by the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), section 28 and Schedule 11, paragraphs 2 and 3; the Financial Services and Markets Act [2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), section 86, Schedule 5, paragraph 4 and Schedule 8, paragraph 4; [S.I. 2021/1376](https://www.legislation.gov.uk/uksi/2021/1376) and [S.I. 2023/612](https://www.legislation.gov.uk/uksi/2023/612).
+
+[^key-b3e2beb477156de67e5c679bd944baf0]: Textual amendment: [Sch. 2 para. 29A](https://www.legislation.gov.uk/uksi/2023/1377/schedule/2/paragraph/29A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 34 para. 2](https://www.legislation.gov.uk/uksi/2025/1307/schedule/34/paragraph/2)
+
+[^key-4a8e9311b92b4e4af07443e7b9a21a1a]: Commencement: Sch. 2 para. 30 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-fec886ab2222e113382f8e545deb73f3]: Commencement: Sch. 2 para. 31 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-5492d39b120e52f524e43f16c61db61f]: Commencement: Sch. 2 para. 32 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-522a89c84245f9b673c34e3690506ee2]: Commencement: Sch. 2 para. 33 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-a9a186b4f3baa70385146f8eb543c691]: Commencement: Sch. 2 para. 34 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-a96acdcf5e2a68a9dffe3cbedcb3b94f]: Commencement: Sch. 2 para. 35 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-ab7a79be91e830cb9ca80146d88f3636]: Commencement: Sch. 2 para. 36 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-054f0980b4352e9462bee34c7e206ea0]: Commencement: Sch. 2 para. 37 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-8fb241b75692e37efa76078dbd5c1091]: Commencement: Sch. 2 para. 38 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-a75f0c4ce16885e71897653b5545bef8]: Commencement: Sch. 2 para. 39 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-460ee22edec8a83e971504d01c075caa]: Commencement: Sch. 2 para. 40 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-5b42c116276617926fa088f95f1a8aac]: Textual amendment: [Sch. 2 para. 40A](https://www.legislation.gov.uk/uksi/2023/1377/schedule/2/paragraph/40A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 34 para. 3](https://www.legislation.gov.uk/uksi/2025/1307/schedule/34/paragraph/3)
+
+[^key-983c45c241b7bdee59dd4288fbb62463]: Commencement: Sch. 2 para. 41 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-00c55a08fdd1fb4bd2ce17663113faf0]: Textual amendment: Words in [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2023/1377/schedule/2/paragraph/41) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 34 para. 4(a)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/34/paragraph/4/a)
+
+[^f00007]: Footnote: [1979 c. 38](https://www.legislation.gov.uk/ukpga/1979/38). Section 1 was amended by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1985 (c. 73)](https://www.legislation.gov.uk/ukpga/1985/73), Schedule 1, paragraph 40; the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11), Schedule 2, paragraph 42; the Planning (Consequential Provisions) (Scotland) Act [1997 (c. 11)](https://www.legislation.gov.uk/ukpga/1997/11), Schedule 2, paragraph 28; the Planning Act (Northern Ireland) [2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), Schedule 6, paragraph 21; the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), section 70; [S.I. 1991/1220](https://www.legislation.gov.uk/uksi/1991/1220); [S.I. 1991/2684](https://www.legislation.gov.uk/uksi/1991/2684); [S.I. 2000/121](https://www.legislation.gov.uk/uksi/2000/121); and [S.I. 2001/1283](https://www.legislation.gov.uk/uksi/2001/1283).
+
+[^key-d81451ca6a9293e78400389aeeb3ecb1]: Textual amendment: Words in [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2023/1377/schedule/2/paragraph/41) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 34 para. 4(b)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/34/paragraph/4/b)
+
+[^key-877a4d16dd8bd11019baddec852afa04]: Textual amendment: Word in [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2023/1377/schedule/2/paragraph/41) omitted (11.12.2025) by virtue of [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 34 para. 4(c)(i)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/34/paragraph/4/c/i)
+
+[^key-4abd99d4657c9da5f99b67e3cfa2c9c2]: Textual amendment: Words in [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2023/1377/schedule/2/paragraph/41) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 34 para. 4(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/34/paragraph/4/c/ii)
+
+[^key-7cf1493bfe91ad9882f0948aa3c6f8d3]: Commencement: Sch. 2 para. 42 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-7232b48d669b5a4f9e55225df6223968]: Commencement: Sch. 2 para. 43 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-a894d191712070f017a65325842bc023]: Commencement: Sch. 2 para. 44 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-5ce18088809aed1def0b157e6bbee031]: Commencement: Sch. 2 para. 45 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-49532a15f160873f9be4298b7786e141]: Commencement: Sch. 2 para. 46 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-8de734bcac618906c60a02a90803c98d]: Commencement: Sch. 2 para. 47 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-3bb714c191fab1bc4ee45475f36b422d]: Commencement: Sch. 2 para. 48 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-28d9197203d3bf123db2138e92795151]: Commencement: Sch. 2 para. 49 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-0f2cffd9943095e392e678f969ce1c69]: Commencement: Sch. 2 para. 50 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^f00008]: Footnote: “**Sanctions regulations**” has the meaning given in section 1(5) of the Sanctions and Anti-Money Laundering Act 2018.
+
+[^key-20b9983a48341d5cbe141629ff266f9d]: Commencement: Sch. 2 para. 51 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-c062ca63cb769deee8e8c9e26d39f68c]: Textual amendment: [Sch. 2 para. 51(za)](https://www.legislation.gov.uk/uksi/2023/1377/schedule/2/paragraph/51/za) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 34 para. 6](https://www.legislation.gov.uk/uksi/2025/1307/schedule/34/paragraph/6)
+
+[^key-c7a6dc077743e50a913fb1928b6fd0eb]: Commencement: Sch. 2 para. 52 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-5be4addd616b2a28b4ae4f8b5e2b4cb5]: Commencement: Sch. 2 para. 53 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-61513366ca8f9b5bf6a4ac08915e62f9]: Commencement: Sch. 2 para. 54 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-a6af27e86628cfac1b96f5c465d93451]: Commencement: Sch. 2 para. 55 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-319c5bb0c56dff53557b93b25e73aa7c]: Commencement: Sch. 2 para. 56 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-4c2f756da2bc774e27514a9d391d3836]: Commencement: Sch. 2 para. 57 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-87ca5f00bacda186ed168c8bce513458]: Commencement: Sch. 2 para. 58 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-0aedffb7cb38d0948c4a6c855ca7a3db]: Commencement: Sch. 2 para. 59 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-4562ebb2efce85d12fd8fc413c788d68]: Commencement: Sch. 2 para. 60 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-31d8f0fe7de9bae6789e3e4a6f11a3d5]: Commencement: Sch. 2 para. 61 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-6f594d5ca60f90ab5cea39681d7a6f6a]: Commencement: Sch. 2 para. 62 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-86f195371caae7942952b0c43a44d8b7]: Commencement: Sch. 2 para. 63 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-663460b6876019b910573e26304cfd7b]: Commencement: Sch. 2 para. 64 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-2ab0ef725e003b4687640f624611e85f]: Commencement: Sch. 2 para. 65 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-46950abd3aab44639178f45c606253ac]: Commencement: Sch. 2 para. 66 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-174c754b0ad26b6f504329c3cb6f5690]: Commencement: Sch. 2 para. 67 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-717c1eee184bacbc5af81d9cec9c67b3]: Commencement: Sch. 2 para. 68 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-b89c690aaf44e54c0c0982d8b527836c]: Commencement: Sch. 2 para. 69 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^f00009]: Footnote: [S.I. 2020/1598](https://www.legislation.gov.uk/uksi/2020/1598).
+
+[^key-ccdcda4442f1bf87640c984b755853d5]: Commencement: Sch. 2 para. 70 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-22ad36c0e2350553642530705e000dfd]: Commencement: Sch. 2 para. 71 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-c5702db7f1758f610b1de0e0c70e9f74]: Commencement: Sch. 2 para. 72 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-b880ce8d258508e3faac12a004b412c0]: Commencement: Sch. 2 para. 73 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-63066fc9ff5ab838ab1ab08f610e1d93]: Commencement: Sch. 2 para. 74 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-92b2f1500d6b8edaa77d3485bf7495a9]: Commencement: Sch. 2 para. 75 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+
+[^key-f618ce422806bbf7c3e11af06eb0acf1]: Textual amendment: Words in [Sch. 2 para. 75(b)](https://www.legislation.gov.uk/uksi/2023/1377/schedule/2/paragraph/75/b) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 34 para. 7(a)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/34/paragraph/7/a)
+
+[^key-8e3023f465f1f4e4d294f78b63ce6d03]: Textual amendment: [Sch. 2 para. 75(c)](https://www.legislation.gov.uk/uksi/2023/1377/schedule/2/paragraph/75/c) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 34 para. 7(b)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/34/paragraph/7/b)
+
+[^key-8604f9b28ba72255acd1334c6240427e]: Textual amendment: [Sch. 2 para. 75(d)](https://www.legislation.gov.uk/uksi/2023/1377/schedule/2/paragraph/75/d) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 34 para. 7(c)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/34/paragraph/7/c)

@@ -1,0 +1,419 @@
+---
+title: The Indirect Taxes (Notifiable Arrangements) Regulations 2017
+id: uksi/2017/1216
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-12-07'
+text_date: '2023-06-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2017/1216
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/1216/pdfs/uksiem_20171216_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/1216/pdfs/uksi_20171216_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/1216/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Indirect Taxes (Notifiable Arrangements) Regulations 2017
+
+> Text as at 2023-06-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2017 No. 1216
+
+Taxes
+
+The Indirect Taxes (Notifiable Arrangements) Regulations 2017
+
+Made
+
+7th December 2017
+
+Laid before the House of Commons
+
+8th December 2017
+
+Coming into force
+
+1st January 2018
+
+The Treasury, in exercise of the powers conferred by paragraphs 3(1)(a) and 56(2) of Schedule 17 to the Finance (No. 2) Act 2017[^f00001], make the following Regulations:
+
+## PART 1 — Introduction
+
+### 1. Citation and coming into force[^key-85d1add52e147ea247899ec8eb71ae6a]
+
+These Regulations may be cited as the Indirect Taxes (Notifiable Arrangements) Regulations 2017 and come into force on 1st January 2018.
+
+### 2. Interpretation[^key-bbcd2d3e5b71c0922fcf88a3592a8839]
+
+(1) In these Regulations—
+
+- “element”, in relation to a notifiable arrangement, includes the way in which the arrangement is structured;
+- “material date” means the following dates, as applicable—
+  - (a) where paragraph 11(1) of the Schedule applies to a promoter, the relevant date as defined by paragraph 11(3) of the Schedule;
+  - (b) where paragraph 12(1) of the Schedule applies to a promoter, the date on which the promoter first becomes aware of any transaction forming part of the arrangements;
+  - (c) where paragraph 17(1) or 18(1) of the Schedule applies to a person, the date on which the person enters into any transaction forming part of any notifiable arrangements;
+- “the Schedule” means Schedule 17 to the Finance (No. 2) Act 2017;
+- “VAT advantage” means a tax advantage in relation to VAT[^f00002].
+
+(2) The following have the same meaning in these Regulations as they do in the stated provisions of the Value Added Tax Act 1994[^f00003]—
+
+- “belongs”, section 9[^f00004];
+- “exempt supply”, section 31[^f00005] and Schedule 9;
+- “reduced rate of VAT”, section 29A[^f00006];
+- “standard rate of VAT”, the rate in force under section 2(1)[^f00007].
+
+## PART 2 — Notifiable arrangements - VAT
+
+### 3. Notifiable arrangements in relation to VAT[^key-dd742d493594f9f7edee12effe3ed5a8]
+
+The arrangements described in this Part are prescribed as notifiable arrangements in relation to VAT.
+
+### 4. Retail supplies – splitting and value shifting[^key-98735b9c6c459a68cba778c3efce2821]
+
+(1) An arrangement which meets the following description is a notifiable arrangement.
+
+(2) A person (“A”) makes a supply (“supply 1”) of goods or services to a retail customer (“C”).
+
+(3) A, or another person (“B”), makes a supply (“supply 2”) of other goods or services to C.
+
+(4) In relation to supply 1 and supply 2—
+
+- (a) condition 1 or 2 is met; and
+- (b) condition 3 is met.
+
+(5) Condition 1 is met if—
+
+- (a) were supply 1 and supply 2 made as a single supply or part of a single supply to C, that single supply would be taxable at the standard or reduced rate of VAT; and
+- (b) supply 1 or supply 2 is, or both are,—
+  - (i) taxable at the reduced rate of VAT;
+  - (ii) a zero-rated supply; or
+  - (iii) an exempt supply, except a supply which is subject to insurance premium tax at the higher rate.
+
+(6) Condition 2 is met if—
+
+- (a) were supply 1 and supply 2 made as a single supply or part of a single supply to C, that single supply would be an exempt supply; and
+- (b) supply 1 or supply 2 is, or both are,—
+  - (i) taxable at the standard or reduced rate of VAT; or
+  - (ii) a zero-rated supply.
+
+(7) Condition 3 is met if it would be reasonable to conclude that two or more of the following apply—
+
+- (a) C would not agree to receive supply 1 without also agreeing to receive supply 2;
+- (b) where supply 2 is made to C by B, B makes the supply with the agreement of A;
+- (c) supply 1 and supply 2 would be made as a single supply or part of a single supply to C were it not for a VAT advantage which is obtained, or which may be obtained, by making those supplies separately to C;
+- (d) the business model of A or B (or both) assumes that—
+  - (i) only A will make supply 1 to C;
+  - (ii) only A or B (as the case may be) will make supply 2 to C; and
+  - (iii) the agreements to make supply 1 and supply 2 will be entered into with C at or about the same time;
+- (e) of supply 1 and supply 2, at least one is dependent on the other;
+- (f) were supply 1 and supply 2 made as a single supply or part of a single supply to C, that supply would be made at or about the same price as the price of both supply 1 and supply 2 are made to C;
+- (g) a higher profit is generated from whichever of supply 1 or supply 2 is the supply which obtains the greater VAT advantage.
+
+(8) In this regulation, “zero-rated supply” has the meaning given by section 30 of the Value Added Tax Act 1994[^f00008], excluding a supply of goods or services within items 2(d) and (g) and 8 to 13 of Group 12 in Part 2 of Schedule 8 to that Act.
+
+### 5. Offshore supplies – insurance and finance[^key-9f1760185da5e60629a8038fa0a8f959]
+
+(1) An arrangement which meets the following description is a notifiable arrangement.
+
+(2) A person (“D”) who carries on business in the United Kingdom makes a supply of services to a person (“E”) who belongs outside the United Kingdom[^key-7acec770893d98a69be50676c2bc3959] and the supply is an exempt supply, or would be an exempt supply if made in the United Kingdom, by virtue of any item of Group 2 or any of items 1 to 6 and 8 of Group 5.
+
+(3)[^key-bc2091e4e16c991fe1656b1adfec19ff] E makes a supply of services to a person (“F”) who belongs in the United Kingdom and—
+
+- (a) where the place of supply of the services is the United Kingdom, it is an exempt supply; or
+- (b) in any other case, it would be an exempt supply if it were made in the United Kingdom.
+
+(4) The supply which D makes to E is used to make the supply by E to F.
+
+(5) For the purposes of determining whether or not an arrangement meets the description in the preceding paragraphs, a supply of services is made by D to E or E to F notwithstanding that the supply—
+
+- (a) is incorporated within a supply made by another person;
+- (b) is split into separate supplies; [^key-13638f4c813b3285667eb3b1273a73d6]...
+- (c) is effected by means of a chain of supplies involving one or more intermediate suppliers; or[^key-b7ce15292ab4f1f72e99dbec902f427f]
+- (d)[^key-72b7d949f9decc9b6afe22a151069582] would otherwise fall to be disregarded by virtue of section 43(1)(a) of the Value Added Tax Act 1994.
+
+(6) In this regulation, “Group 2” and “Group 5” have the meanings given by Schedule 9 to the Value Added Tax Act 1994[^f00009].
+
+### 6. Offshore supplies – relevant business persons[^key-21633196700a2b458da9fdda86aa34ae]
+
+(1) An arrangement which meets the following description is a notifiable arrangement.
+
+(2) A person (“G”) who carries on business in the United Kingdom makes a supply of services to a relevant business person (“H”) who belongs outside the United Kingdom[^key-1518b64470da90aaa2cbf34b36668895].
+
+(3) The supply by G to H would be taxable at the standard or reduced rate of VAT were H a relevant business person who belongs in the United Kingdom.
+
+(4) H makes a supply of services to a person (“I”) who belongs in the United Kingdom[^key-1d5eab32bdfbba864a8278c8ff428b58] and the supply—
+
+- (a)[^key-4eaa7129298e0d95237af2136a2aad46] is an exempt supply made in the United Kingdom; or
+- (b) is made in the place where H belongs.
+
+(5) The supply which G makes to H is used to make the supply by H to I.
+
+(6) For the purposes of determining whether or not an arrangement meets the description in the preceding paragraphs, a supply of services is made by G to H or H to I notwithstanding that the supply—
+
+- (a) is incorporated within a supply made by another person;
+- (b) is split into separate supplies; [^key-41b486e4e946a676489755f162427346]...
+- (c) is effected by means of a chain of supplies involving one or more intermediate suppliers; or[^key-05cc538353050038601415ef88994c2d]
+- (d)[^key-4d950ca06a6d8cd5e320b47f1d02e629] would otherwise fall to be disregarded by virtue of section 43(1)(a) of the Value Added Tax Act 1994.
+
+(7) In this regulation, “relevant business person” has the meaning given by section 7A(4) of the Value Added Tax Act 1994[^f00010];
+
+### 7. Options to tax- land[^key-d5a004e0c4b9135de015f013c035a7e4]
+
+(1) An arrangement which meets the following description is a notifiable arrangement.
+
+(2) A person (“J”) has exercised the option to tax in respect of land, as provided by paragraph 2 of Part 1 of Schedule 10 to the Value Added Tax Act 1994[^f00011], and that option has not been revoked as described in paragraph 23 or 24 of that Schedule.
+
+(3) Fewer than 20 years have expired since the date on which the option had effect.
+
+(4) A supply is made in respect of the land by—
+
+- (a) J; or
+- (b) a relevant associate of J,
+
+such that the supply is not a taxable supply, by virtue of paragraph 12(1) of Part 1 of Schedule 10 to the Value Added Tax Act 1994.
+
+(5) In this regulation, “relevant associate” has the meaning given by paragraph 3 of Part 1 of Schedule 10 to the Value Added Tax Act 1994.
+
+## PART 3 — Notifiable arrangements – general
+
+### 8. Notifiable arrangements in relation to any indirect tax[^key-b15e6a8a09723d4a773b37e997523904]
+
+The arrangements described in this Part are prescribed as notifiable arrangements in relation to any indirect tax.
+
+### 9. Confidentiality - promoters[^key-1a39bb90437f94e194e30a13282a2c9a]
+
+(1) An arrangement which meets the following description is a notifiable arrangement.
+
+(2) It might reasonably be expected, were it not for this regulation, that a promoter of the arrangement would wish that after the material date—
+
+- (a) the arrangement; or
+- (b) any element of the arrangement which obtains, or which may obtain, a tax advantage,
+
+be kept confidential from HMRC or another promoter.
+
+(3) Such a wish may reasonably be expected where—
+
+- (a) it is reasonable to conclude that the promoter intends to continue or to repeat the use after the material date of—
+  - (i) the arrangement; or
+  - (ii) any element of the arrangement which obtains, or which may obtain, a tax advantage or substantially the same as such an element; or
+- (b) the promoter—
+  - (i) does not provide supplementary material to a client or to a person who is to be a party to the arrangement; or
+  - (ii) does provide supplementary material to such a person but discourages the person from retaining it.
+
+(4) For the purposes of paragraph (2), regulation 5 (persons who are not to be treated as promoters by virtue of legal professional privilege) of the Indirect Taxes (Disclosure of Avoidance Schemes) Regulations 2017[^f00012] is to be ignored.
+
+(5) In paragraph (3)(b), “supplementary material” means any promotional material, data or written professional advice concerning the arrangement.
+
+### 10. Small and medium-sized enterprises[^key-a98ad3c0e9ca6c7f6a75b894e75a5d7a]
+
+(1) In regulation 11, “small or medium-sized enterprise” means a small or medium-sized enterprise as defined in this regulation.
+
+(2) A small or medium-sized enterprise means a business carried on by a person where in respect of the relevant period—
+
+- (a) fewer than 250 persons were employed in the business; and
+- (b) the turnover of the business was less than £50 million.
+
+(3) Where the relevant period is an accounting period of more or less than 12 months, the amount of the turnover for that period must be increased or decreased proportionately on a time basis, or, if it appears that that method would work unreasonably or unjustly, on a just and reasonable basis.
+
+(4) Where the person who carries on the business—
+
+- (a) is a body corporate and that body and one or more other bodies corporate are eligible to be treated as members of a group; or
+- (b) is associated with another person,
+
+in paragraph (2)(a) and (b), “the business” includes the business of each body corporate eligible to be treated as a member of the group or of each associated person, as appropriate.
+
+(5) In this regulation—
+
+- (a) “associated” has the meaning given by paragraph 48 of Schedule 18 to the Finance Act 2016[^f00013];
+- (b) “eligible to be treated as members of a group” has the meaning given by section 43A of the Value Added Tax Act 1994[^f00014]; and
+- (c) “relevant period” means—
+  - (i) the accounting period of the business which applies to the indirect tax in question; or
+  - (ii) where there is no such accounting period, the period of 12 months,
+
+  which ended immediately before the date on which it is reasonable to conclude that the arrangement to which regulation 11 applies commenced.
+
+### 11. Confidentiality – other persons[^key-38f6aa8bfde802d8cb4dd6b3d4a3857f]
+
+(1) An arrangement which meets the following description is a notifiable arrangement.
+
+(2) In respect of the arrangement there is no promoter but a person (“P”)—
+
+- (a) is, or is likely to be, a party to the arrangement; or
+- (b) uses, or is likely to use, the arrangement,
+
+for the purposes of a business carried on by P.
+
+(3) Paragraph (2) does not apply where the business carried on by P is a small or medium-sized enterprise.
+
+(4) It might reasonably be expected, were it not for this regulation, that P would wish that after the material date—
+
+- (a) the arrangement; or
+- (b) any element of the arrangement which obtains, or which may obtain, a tax advantage,
+
+be kept confidential from HMRC.
+
+(5) Such a wish may reasonably be expected where it is reasonable to conclude that P intends—
+
+- (a) to continue or to repeat the use after the material date of—
+  - (i) the arrangement; or
+  - (ii) any element of the arrangement which obtains, or which may obtain, a tax advantage or substantially the same as such an element; or
+- (b) to reduce the risk that, were HMRC to have the information which may be required to be provided to it by virtue of the arrangement being a notifiable arrangement, HMRC may—
+  - (i) investigate or examine any return, claim or declaration made by P or another person to HMRC; or
+  - (ii) withhold payment of any or all of an amount claimed from HMRC by P or another person.
+
+### 12. Premium fees[^key-5381d0acf787de2816f85170391b905c]
+
+(1) An arrangement which meets the following description is a notifiable arrangement.
+
+(2) It might reasonably be expected, were it not for this regulation, that a promoter (“P”) of the arrangement or another person (“Q”) would be able to obtain a premium fee in relation to—
+
+- (a) the arrangement; or
+- (b) any element of the arrangement which obtains, or which may obtain, a tax advantage.
+
+(3) In paragraph (2), “premium fee” means a fee which is—
+
+- (a) obtained from a person experienced in receiving services of the type provided by P or Q;
+- (b) to a significant extent attributable to the tax advantage obtained, or which may be obtained, by the arrangement or any element of the arrangement; and
+- (c) to any extent contingent upon that tax advantage being obtained as a matter of law.
+
+### 13. Standardised tax products[^key-d023cc79d9df7b0229e62e61051ac159]
+
+(1) An arrangement which meets the following description is a notifiable arrangement.
+
+(2) A promoter of the arrangement makes it available for implementation by more than one other person.
+
+(3) It might reasonably be concluded by a person who has studied the arrangement and who has had regard to all relevant circumstances that conditions 1 to 3 are met.
+
+(4) Condition 1 is that the arrangement has standardised or substantially standardised documentation—
+
+- (a) the purpose of which is to enable a person other than the promoter to implement the arrangement;
+- (b) the form of which is determined by the promoter; and
+- (c) the substance of which does not need to be tailored to any material extent to enable a person to implement the arrangement.
+
+(5) Condition 2 is that—
+
+- (a) a person who intends to implement the arrangement must enter into a specific transaction or series of specific transactions; and
+- (b) the transaction or series of transactions is standardised or substantially standardised in form.
+
+(6) Condition 3 is that—
+
+- (a) the main purpose of the arrangement is to enable a person to obtain a tax advantage; or
+- (b) it is unlikely that a person would enter into the arrangement were it not that the person or another person may obtain a tax advantage.
+
+Heather Wheeler
+
+Andrew Griffiths
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Regulations are made further to the provisions contained in Schedule 17 (“the Schedule”) to the Finance (No. 2) Act [2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32). The Schedule makes provision in respect of the disclosure of avoidance schemes, being schemes which enable a person to obtain a tax advantage (defined in paragraphs 6 and 7 of the Schedule), concerning VAT and other indirect taxes (a list of indirect taxes to which the Schedule applies is set out at paragraph 2(1) of the Schedule). Regulations may be made under the Schedule to prescribe notifiable arrangements. Information in relation to such arrangements must be notified to HMRC. The Indirect Taxes (Disclosure of Avoidance Schemes) Regulations 2017 provide for the information to be notified.
+
+Regulation 2 contains definitions used in the Regulations.
+
+Part 2 of the Regulations prescribes notifiable arrangements in relation to VAT.
+
+- Regulation 4 prescribes arrangements in respect of supplies to a retail customer, where what would be a single supply is split into separate supplies.
+- Regulation 5 prescribes arrangements concerning certain supplies, which are or would be exempt, made by a person in the United Kingdom to a person who belongs outside the EU and that person makes an exempt supply to a person in the EU. Indirect supplies between these persons are included within the prescribed arrangements.
+- Regulation 6 prescribes arrangements concerning a supply of services made by a person in the United Kingdom to a relevant business person who belongs outside the EU and that person makes a further supply of services to a person in the EU. Indirect supplies between these persons are included within the prescribed arrangements.
+- Regulation 7 prescribes arrangements concerning supplies of land or buildings and the disapplication of the option to tax land.
+
+Part 3 of the Regulations prescribes notifiable arrangements in relation to any indirect tax.
+
+- Regulation 9 prescribes arrangements which a promoter might reasonably be expected to keep confidential from HMRC or another promoter.
+- Regulation 10 provides a definition of small or medium-sized enterprise which is used in regulation 11.
+- Regulation 11 prescribes arrangements to which a person, who is not a promoter, is to be a party or which the person is to use for business purposes and which the person might reasonably be expected to keep confidential from HMRC. An arrangement is not prescribed where the business is a small or medium-sized enterprise.
+- Regulation 12 prescribes arrangements where a person might reasonably be expected to obtain a premium fee in relation to the arrangements.
+- Regulation 13 prescribes arrangements which have standardised or substantially standardised documentation, there are specific or standardised transactions to implement the arrangements and the main purpose of the arrangements is to obtain a tax advantage or they would not be entered into were it not for that advantage.
+
+A Tax Information and Impact Note covering this instrument was published on 5 December 2016 and made available alongside the Finance (No.2) Bill 2017 and is available on the website at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins. It remains an accurate summary of the impacts that apply to this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2017 c. 32](https://www.legislation.gov.uk/ukpga/2017/32).
+
+[^key-85d1add52e147ea247899ec8eb71ae6a]: Commencement: Reg. 1 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+
+[^key-bbcd2d3e5b71c0922fcf88a3592a8839]: Commencement: Reg. 2 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+
+[^f00002]: Footnote: See paragraph 6 of the Schedule.
+
+[^f00003]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
+
+[^f00004]: Footnote: Section 9 is amended by paragraphs 1 and 6 of Part 1 of Schedule 36 to the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10) and section 104 of the Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26).
+
+[^f00005]: Footnote: Section 31 is amended by section 197(3) of the Finance Act [2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14).
+
+[^f00006]: Footnote: Section 29A is inserted by section 99(1) and (4) of the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9).
+
+[^f00007]: Footnote: Subsection (1) was amended by section 21(1), (2) and (6) of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), section 99(1) and (2) of the Finance Act 2001 and section 3(1) of the Finance (No. 2) Act [2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31).
+
+[^key-dd742d493594f9f7edee12effe3ed5a8]: Commencement: Reg. 3 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+
+[^key-98735b9c6c459a68cba778c3efce2821]: Commencement: Reg. 4 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+
+[^f00008]: Footnote: Section 30 was amended by section 28 of the Finance Act 1995 and section 29(2) of, and paragraph 7 of Schedule 3 to, the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8).
+
+[^key-9f1760185da5e60629a8038fa0a8f959]: Commencement: Reg. 5 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+
+[^key-7acec770893d98a69be50676c2bc3959]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/5/2) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [88(2)(a)](https://www.legislation.gov.uk/uksi/2019/59/regulation/88/2/a); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-bc2091e4e16c991fe1656b1adfec19ff]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/5/3) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [88(2)(b)](https://www.legislation.gov.uk/uksi/2019/59/regulation/88/2/b); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-13638f4c813b3285667eb3b1273a73d6]: Textual amendment: Word in [reg. 5(5)(b)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/5/5/b) omitted (1.6.2023) by virtue of [The Indirect Taxes (Notifiable Arrangements) (Amendment) Regulations 2023 (S.I. 2023/473)](https://www.legislation.gov.uk/uksi/2023/473), [regs. 1](https://www.legislation.gov.uk/uksi/2023/473/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/473/regulation/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/473/regulation/5))
+
+[^key-b7ce15292ab4f1f72e99dbec902f427f]: Textual amendment: Words in [reg. 5(5)(c)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/5/5/c) substituted (1.6.2023) by [The Indirect Taxes (Notifiable Arrangements) (Amendment) Regulations 2023 (S.I. 2023/473)](https://www.legislation.gov.uk/uksi/2023/473), [regs. 1](https://www.legislation.gov.uk/uksi/2023/473/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/473/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/473/regulation/5))
+
+[^key-72b7d949f9decc9b6afe22a151069582]: Textual amendment: [Reg. 5(5)(d)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/5/5/d) inserted (1.6.2023) by [The Indirect Taxes (Notifiable Arrangements) (Amendment) Regulations 2023 (S.I. 2023/473)](https://www.legislation.gov.uk/uksi/2023/473), [regs. 1](https://www.legislation.gov.uk/uksi/2023/473/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2023/473/regulation/3/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/473/regulation/5))
+
+[^f00009]: Footnote: Group 2 as described in Part 2 of Schedule 9 is amended by section 38(1) of the Finance Act [1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16), paragraph 285(e)(i) of Part 2 of Schedule 1 to the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4) and [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [2004/3083](https://www.legislation.gov.uk/uksi/2004/3083). Group 5 as described in Part 2 of Schedule 9 is amended by paragraph 81 of Part 2 of Schedule 18 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and [S.I. 1997/510](https://www.legislation.gov.uk/uksi/1997/510), [1999/594](https://www.legislation.gov.uk/uksi/1999/594), [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [2003/1568](https://www.legislation.gov.uk/uksi/2003/1568), [2003/1569](https://www.legislation.gov.uk/uksi/2003/1569), [2008/2547](https://www.legislation.gov.uk/uksi/2008/2547), [2013/1402](https://www.legislation.gov.uk/uksi/2013/1402) and [2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
+
+[^key-21633196700a2b458da9fdda86aa34ae]: Commencement: Reg. 6 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+
+[^key-1518b64470da90aaa2cbf34b36668895]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/6/2) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [88(3)(a)](https://www.legislation.gov.uk/uksi/2019/59/regulation/88/3/a); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-1d5eab32bdfbba864a8278c8ff428b58]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/6/4) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [88(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/59/regulation/88/3/b/i); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-4eaa7129298e0d95237af2136a2aad46]: Textual amendment: [Reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/6/4/a) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [88(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/59/regulation/88/3/b/ii); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+
+[^key-41b486e4e946a676489755f162427346]: Textual amendment: Word in [reg. 6(6)(b)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/6/6/b) omitted (1.6.2023) by virtue of [The Indirect Taxes (Notifiable Arrangements) (Amendment) Regulations 2023 (S.I. 2023/473)](https://www.legislation.gov.uk/uksi/2023/473), [regs. 1](https://www.legislation.gov.uk/uksi/2023/473/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2023/473/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/473/regulation/5))
+
+[^key-05cc538353050038601415ef88994c2d]: Textual amendment: Words in [reg. 6(6)(c)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/6/6/c) substituted (1.6.2023) by [The Indirect Taxes (Notifiable Arrangements) (Amendment) Regulations 2023 (S.I. 2023/473)](https://www.legislation.gov.uk/uksi/2023/473), [regs. 1](https://www.legislation.gov.uk/uksi/2023/473/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2023/473/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/473/regulation/5))
+
+[^key-4d950ca06a6d8cd5e320b47f1d02e629]: Textual amendment: [Reg. 6(6)(d)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/6/6/d) inserted (1.6.2023) by [The Indirect Taxes (Notifiable Arrangements) (Amendment) Regulations 2023 (S.I. 2023/473)](https://www.legislation.gov.uk/uksi/2023/473), [regs. 1](https://www.legislation.gov.uk/uksi/2023/473/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2023/473/regulation/4/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/473/regulation/5))
+
+[^f00010]: Footnote: Section 7A is inserted by paragraphs 1 and 4 of Part 1 of Schedule 36 to the Finance Act 2009.
+
+[^key-d5a004e0c4b9135de015f013c035a7e4]: Commencement: Reg. 7 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+
+[^f00011]: Footnote: Schedule 10 was substituted by article 2 of [S.I. 2008/1146](https://www.legislation.gov.uk/uksi/2008/1146).
+
+[^key-b15e6a8a09723d4a773b37e997523904]: Commencement: Reg. 8 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+
+[^key-1a39bb90437f94e194e30a13282a2c9a]: Commencement: Reg. 9 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+
+[^f00012]: Footnote: [S.I. 2017/1215](https://www.legislation.gov.uk/uksi/2017/1215).
+
+[^key-a98ad3c0e9ca6c7f6a75b894e75a5d7a]: Commencement: Reg. 10 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+
+[^f00013]: Footnote: [2016 c. 24](https://www.legislation.gov.uk/ukpga/2016/24).
+
+[^f00014]: Footnote: Section 43A was inserted by paragraph 2 of Schedule 2 to the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16). It is amended by [S.I. 2009/1890](https://www.legislation.gov.uk/uksi/2009/1890).
+
+[^key-38f6aa8bfde802d8cb4dd6b3d4a3857f]: Commencement: Reg. 11 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+
+[^key-5381d0acf787de2816f85170391b905c]: Commencement: Reg. 12 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+
+[^key-d023cc79d9df7b0229e62e61051ac159]: Commencement: Reg. 13 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)

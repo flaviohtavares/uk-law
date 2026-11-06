@@ -1,0 +1,313 @@
+---
+title: The Digital Government (Disclosure of Information) Regulations 2018
+id: uksi/2018/912
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-07-18'
+text_date: '2026-09-18'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2018/912
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/912/pdfs/uksiem_20180912_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/912/pdfs/uksi_20180912_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/912/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Digital Government (Disclosure of Information) Regulations 2018
+
+> Text as at 2026-09-18.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2018 No. 912
+
+Disclosure Of Information
+
+The Digital Government (Disclosure of Information) Regulations 2018
+
+Made
+
+18th July 2018
+
+Coming into force in accordance with regulation 1(1)
+
+The Minister for the Cabinet Office, with the consent of the Treasury, makes the following Regulations in exercise of the powers conferred by sections 35(7), 36(5)(c) and 44(2)(b) of the Digital Economy Act 2017[^f00001].
+
+The Minister is satisfied that the purposes of the objectives specified comply with the conditions in section 35(9), (10) and (12) of the Digital Economy Act 2017.
+
+The Minister for the Cabinet Office has consulted the Information Commissioner, the Commissioners for Her Majesty’s Revenue and Customs, the Scottish Ministers, the Welsh Ministers, the Department of Finance in Northern Ireland and such other persons as the Minister for the Cabinet Office considers appropriate, as required by section 44(4) of the Digital Economy Act 2017.
+
+In accordance with section 44(7) of the Digital Economy Act 2017, a draft of these Regulations was laid before, and approved by a resolution of, each House of Parliament.
+
+## 1. Citation, commencement, interpretation and extent[^key-49a0def144075327a29ff8af77f91414]
+
+(1) These Regulations may be cited as the Digital Government (Disclosure of Information) Regulations 2018 and come into force on the day after the day on which they are made.
+
+(2) In these Regulations, “**the Act**” means the Digital Economy Act 2017.
+
+(3) These Regulations do not extend to Northern Ireland.
+
+## 2. Specified objectives for the disclosure of information in relation to public service delivery[^key-69ad9c3d4f4b73115b818c93345af42e]
+
+The Schedule specifies objectives, and specified persons in relation to those objectives, for the purposes of section 35(7) of the Act.
+
+## 3. Amendment to section 36 of the Act (disclosure of information to gas and electricity suppliers etc)[^key-cabad1ae59ef3c33088b1cbc7cd19c55]
+
+(1) Section 36 of the Act (disclosure of information to gas and electricity suppliers etc) is amended as follows.
+
+(2) In subsection (3)—
+
+- (a) omit the “or” at the end of paragraph (c), and
+- (b) after paragraph (d) insert—
+
+  > - (e) in the case of a disclosure to a licensed gas supplier, a restriction on charges levied on domestic customers by the supplier which is imposed by the Gas and Electricity Markets Authority—
+  >   - (i) in the exercise of its powers under section 23(1)(b) of the Gas Act 1986[^f00002] (modification of conditions of licences), and
+  >   - (ii) for purposes that include assisting people living in fuel poverty by reducing their energy costs, or
+  > - (f) in the case of a disclosure to a licensed electricity supplier, a restriction on charges levied on domestic customers by the supplier which is imposed by the Gas and Electricity Markets Authority—
+  >   - (i) in the exercise of its powers under section 11A(1)(b) of the Electricity Act 1989[^f00003] (modification of conditions of licences), and
+  >   - (ii) for purposes that include assisting people living in fuel poverty by reducing their energy costs.
+
+  .
+
+(3) In subsection (11) at the appropriate place insert—
+
+> - “**domestic customer**” means a customer supplied with gas or electricity wholly or mainly for domestic purposes;
+
+.
+
+Margot James
+
+Minister for Digital and the Creative Industries
+
+Department for Digital, Culture, Media and Sport
+
+16th July 2018
+
+We consent to these Regulations
+
+Andrew Stephenson
+
+Rebecca Harris
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+18th July 2018
+
+## SCHEDULE
+
+Regulation 2
+
+### 1. Specified objectives in relation to a specified person[^key-e1bf88b3f23754e71c99907ead9c6963]
+
+(1) The specified objectives are—
+
+- (a) the multiple disadvantages objective;
+- (b) the television retuning objective;
+- (c) the fuel poverty objective; [^key-51537479e38092a4013f2628e42870dc]...
+- (d) the water poverty objective ; and[^key-60d7ca743f747db1234679a249122506]
+- (e)[^key-c5fb5b57255864a09e0030082732dc4f] the Scottish early learning and childcare objective.
+
+(2) In relation to each specified objective, the following are the specified persons—
+
+- (a) for the multiple disadvantages objective—
+  - (i) the persons specified at paragraphs 1 to 5, 7 to 8, 10 to 16, 18 to 25, 29 to 34, 40 to 47 and 49 to 51 of Schedule 4 to the Act[^f00004], and
+  - (ii) a person providing services in connection with that objective to a person within sub-paragraph (i);
+- (b) for the television retuning objective—
+  - (i) the persons specified at paragraphs 2, 7, 11 to 17, 29 to 34, 47 and 50 of Schedule 4 to the Act, and
+  - (ii) a person providing services in connection with that objective to a person within sub-paragraph (i);
+- (c) for the fuel poverty objective—
+  - (i) the persons specified at paragraphs 6 to 8, 9A, 9B,[^key-dd7f6b12709f339caede31999a364731] 10 to 21, 26 to 27, 29 to 34, 40, 42 to 47 and 49 to 50 of Schedule 4 to the Act, and
+  - (ii) a person providing services in connection with that objective to a person within sub-paragraph (i);
+- (d) for the water poverty objective—
+  - (i) the persons specified at paragraphs 7 to 8, 10 to 17, 27, 29 to 34 and 42 to 47 of Schedule 4 to the Act, and
+  - (ii) a person providing services in connection with that objective to a person within sub-paragraph (i);
+- (e)[^key-94c12cd04982365a966cb8a419a764f0] for the Scottish early learning and childcare objective—
+  - (i) the persons specified at paragraphs 7, 10, 49 and 50 of Schedule 4 to the Act, and
+  - (ii) a person providing services in connection with that objective to a person within sub-paragraph (i).
+
+### 2. Multiple disadvantages objective[^key-9c4e48ddbdddb78b7b1259dba4c91e3e]
+
+(1) In paragraph 1(1)(a) the multiple disadvantages objective is to provide assistance to individuals or households who are affected by multiple disadvantages by—
+
+- (a) assisting in the identification of individuals or households with multiple disadvantages;
+- (b) the improvement or targeting of a public service or facilitation of the provision of a benefit provided to individuals or households; and
+- (c) the improvement of the physical, mental, emotional, social or economic well-being of individuals or households.
+
+(2) “**Multiple disadvantages**” means the presence of two or more of the factors listed in sub-paragraph (3) which adversely affect—
+
+- (a) an individual; or
+- (b) one or more individuals in a household.
+
+(3) The factors are—
+
+- (a) anti-social behaviour;
+- (b) being a care leaver;
+- (c) being a child in need;
+- (d) criminal offending;
+- (e) domestic violence;
+- (f) financial exclusion;
+- (g) having a disability;
+- (h) homelessness;
+- (i) ill-health;
+- (j) irregular attendance at school;
+- (k) not being in education or training;
+- (l) substance misuse;
+- (m) unemployment.
+
+(4) In sub-paragraph (3)—
+
+- “**anti-social behaviour**” means behaviour by a person which causes, or is likely to cause, harassment, alarm or distress to one or more persons not of the same household as that person;
+- “**care leaver**” means—
+  - (a) in England, an eligible child within the meaning of paragraph 19B of Schedule 2 to the Children Act 1989[^f00005] or a relevant child for the purposes of section 23A of that Act[^f00006],
+  - (b) in Scotland, a person entitled to advice, guidance or assistance under section 29 of the Children (Scotland) Act 1995[^f00007] or described in section 30 of that Act,
+  - (c) in Wales, a category 1 or a category 2 young person as defined in section 104(2) of the Social Services and Well-being (Wales) Act 2014[^f00008];
+- “**child in need**” means—
+  - (a) in England, a child in respect of whom the local authority in whose area they reside must provide a range of services appropriate to their needs under section 17(10) of the Children Act 1989[^f00009],
+  - (b) in Scotland, a child who falls within the definition of a child being in need of care and attention as set out in section 93(4)(a) of the Children (Scotland) Act 1995[^f00010],
+  - (c) in Wales, a child who has been assessed for support under Part 3 of the Social Services and Well-being (Wales) Act 2014;
+- “**criminal offending**” means having been convicted of a criminal offence of any nature, and includes being cautioned (or, in Scotland, includes having received a recorded police warning) in respect of criminal activity;
+- “**disability**” has the meaning set out in section 6 of the Equality Act 2010[^f00011]
+- “**domestic violence**” means any incident, or pattern of incidents, of controlling, coercive or threatening behaviour, violence or abuse (whether psychological, physical, sexual, financial or emotional) between two or more individuals who reside or have resided in the same household;
+- “**financial exclusion**” means an inability to access, or difficulty in accessing, one or more of the financial services in section 2(1)(a) and (b)(i) to (v) of the Small Business, Enterprise and Employment Act 2015[^f00012];
+- “**homelessness**” has the same meaning as in—
+  - (a) in England, section 175 of the Housing Act 1996[^f00013],
+  - (b) in Scotland, section 24 of the Housing (Scotland) Act 1987[^f00014]or,
+  - (c) in Wales, section 55 of the Housing (Wales) Act 2014[^f00015];
+- “**substance misuse**” means the harmful and illicit use of psychoactive substances, including alcohol and drugs; and
+- “**unemployment**” in relation to an individual includes—
+  - (a) an individual who—
+    - (i) has actively sought work in the last four weeks; and
+    - (ii) is available to start work in the next two weeks; or
+  - (b) an individual who—
+    - (i) has found work; and
+    - (ii) is waiting to start that work in the next two weeks.
+
+(5) Sub-paragraph (3)(a) applies where a person carries out anti-social behaviour as well as where a person is the victim of such behaviour.
+
+(6) Sub-paragraph (3)(k) applies only to persons who are aged at least 16 years but less than 25 years old.
+
+### 3. Television retuning objective[^key-b745de1f190c04599466150e968a6cc3]
+
+(1) In paragraph 1(1)(b) the television retuning objective is to provide assistance to an individual or a household under a relevant scheme by—
+
+- (a) identifying an individual who, or a household which, may be eligible for assistance under such a scheme;
+- (b) making contact with such individual or household with a view to providing such assistance; or
+- (c) establishing whether any such individual or household is entitled to such assistance.
+
+(2) In this paragraph—
+
+- (a) “**relevant scheme**” means a scheme set up to assist in the retuning of television receivers pursuant to a change in the use of any part of the electromagnetic spectrum between 470 and 790 MHz;
+- (b) “**television receiver**” has the meaning given in regulation 9 of the Communications (Television Licensing) Regulations 2004[^f00016].
+
+### 4. Fuel poverty objective[^key-dec346275c85497c7ae00bc21e1b4409]
+
+In paragraph 1(1)(c) the fuel poverty objective is to provide assistance to people living in fuel poverty by—
+
+- (a) reducing their energy costs;
+- (b) improving efficiency in their use of energy; or
+- (c) improving their health or financial well-being.
+
+### 5. Water poverty objective[^key-1c03272d745fe155b507d8aac0afd63e]
+
+In paragraph 1(1)(d) the water poverty objective is to provide assistance to people living in water poverty by—
+
+- (a) reducing their water or sewerage costs;
+- (b) improving efficiency in their use of water; or
+- (c) improving their health or financial well-being.
+
+### 6. Scottish early learning and childcare objective[^key-fe2abe196b90a51f2a1389237459b718]
+
+(1) In paragraph 1(1)(e) the Scottish early learning and childcare objective is to—
+
+- (a) identify a person who may be the parent of a relevant child; and
+- (b) make contact with such a person,
+
+with a view to fulfilling the duty in section 47 of the Children and Young People (Scotland) Act 2014[^f00005] in respect of the child.
+
+(2) In this paragraph—
+
+- “**parent**” has the same meaning as in section 135(1) of the Education (Scotland) Act 1980[^f00006]; and
+- “**relevant child**” means a child who meets a description specified in article 2(2) or (3) of the Provision of Early Learning and Childcare (Specified Children) (Scotland) Order 2014[^f00007].
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations relate to the disclosure of information in relation to public service delivery, pursuant to Chapter 1 of the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30) (“**the Act**”).
+
+Regulation 2 specifies the objectives set out in the Schedule for the purposes of improving public service delivery. This permits the specified persons identified from the list of specified persons set out in Schedule 4 to the Act to share information for the purposes of each objective.
+
+The Schedule sets out four objectives. The multiple disadvantages objective enables the disclosure of information to enable the identification of individuals or households who face multiple disadvantages. The television retuning objective enables the disclosure of information in order to identify individuals and households and offer support under a television retuning scheme to individuals affected by changes to radio frequencies currently used by terrestrial television broadcasts at 470-790 MHz. The fuel poverty and water poverty objectives enable the disclosure of information for the purposes of assisting people living in fuel poverty and water poverty as defined in sections 36(10) and 38(10) of the Act.
+
+Regulation 3 amends the list of fuel poverty measures in section 36(3) of the Act to include measures imposed by the Gas and Electricity Markets Authority that restrict the charges levied on domestic customers by licensed gas and electricity suppliers. Information cannot be disclosed to licensed gas and electricity suppliers under section 36 of the Act unless it is for use by them in connection with one of the fuel poverty measures listed.
+
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2017 c. 30](https://www.legislation.gov.uk/ukpga/2017/30). Consent of the Treasury is required by section 44(6).
+
+[^key-49a0def144075327a29ff8af77f91414]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/912/regulation/1) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
+
+[^key-69ad9c3d4f4b73115b818c93345af42e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/912/regulation/2) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
+
+[^key-cabad1ae59ef3c33088b1cbc7cd19c55]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/912/regulation/3) in force at 19.7.2018 in accordance with[reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
+
+[^f00002]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 23 was substituted by Schedule 3 paragraph 21 to the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45) and was amended by section 3 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27) and [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704). Other amendments have been made which are not relevant to this instrument.
+
+[^f00003]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 11A was inserted by section 35 of the Utilities Act 2000, and was amended by [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704). Other amendments have been made which are not relevant to this instrument.
+
+[^key-e1bf88b3f23754e71c99907ead9c6963]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/1) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
+
+[^key-51537479e38092a4013f2628e42870dc]: Textual amendment: Word in [Sch. para. 1(1)(c)](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/1/1/c) omitted (27.10.2022) by virtue of [The Digital Government (Disclosure of Information) (Amendment) Regulations 2022 (S.I. 2022/1098)](https://www.legislation.gov.uk/uksi/2022/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/2/2/a)
+
+[^key-60d7ca743f747db1234679a249122506]: Textual amendment: Word in [Sch. para. 1(1)(d)](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/1/1/d) inserted (27.10.2022) by [The Digital Government (Disclosure of Information) (Amendment) Regulations 2022 (S.I. 2022/1098)](https://www.legislation.gov.uk/uksi/2022/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/2/2/b)
+
+[^key-c5fb5b57255864a09e0030082732dc4f]: Textual amendment: [Sch. para. 1(1)(e)](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/1/1/e) inserted (27.10.2022) by [The Digital Government (Disclosure of Information) (Amendment) Regulations 2022 (S.I. 2022/1098)](https://www.legislation.gov.uk/uksi/2022/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/2/2/c)
+
+[^f00004]: Footnote: Paragraphs 28 to 48 of Schedule 4 were inserted by the Digital Government (Welsh Bodies) (Wales) Regulations 2018 ([S.I. 2018/551 (W. 93)](https://www.legislation.gov.uk/wsi/2018/551) and paragraphs 49 to 52 were inserted by the Digital Government (Scottish Bodies) Regulations 2018 ([S.S.I. 2018/243](https://www.legislation.gov.uk/ssi/2018/243)).
+
+[^key-dd7f6b12709f339caede31999a364731]: Textual amendment: Words in [Sch. para. 1(2)(c)(i)](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/1/2/c/i) inserted (18.9.2026) by [The Digital Government (Disclosure of Information) Regulations 2026 (S.I. 2026/1039)](https://www.legislation.gov.uk/uksi/2026/1039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1039/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/1039/regulation/3/2)
+
+[^key-94c12cd04982365a966cb8a419a764f0]: Textual amendment: [Sch. para. 1(2)(e)](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/1/2/e) inserted (27.10.2022) by [The Digital Government (Disclosure of Information) (Amendment) Regulations 2022 (S.I. 2022/1098)](https://www.legislation.gov.uk/uksi/2022/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/2/3)
+
+[^key-9c4e48ddbdddb78b7b1259dba4c91e3e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/2) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
+
+[^f00005]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Paragraph 19B of Schedule 2 was inserted by section 1 of the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35), and was amended by [S.I. 2016/413](https://www.legislation.gov.uk/uksi/2016/413).
+
+[^f00006]: Footnote: Section 23A was inserted by section 2 of the Children (Leaving Care) Act 2000, and was amended by [S.I. 2016/413](https://www.legislation.gov.uk/uksi/2016/413).
+
+[^f00007]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36). Sections 29 and 30 were amended by section 66 of the Children and Young People (Scotland) Act [2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8) and section 29 was amended by section 73 of the Regulation of Care (Scotland) Act [2001 (asp 8)](https://www.legislation.gov.uk/asp/2001/8).
+
+[^f00008]: Footnote: [2014 anaw/dccc 4](https://www.legislation.gov.uk/anaw/2014/4).
+
+[^f00009]: Footnote: Section 17 has been amended, but those amendments are not relevant to this instrument.
+
+[^f00010]: Footnote: Section 93 has been amended, but those amendments are not relevant to this instrument.
+
+[^f00011]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
+
+[^f00012]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
+
+[^f00013]: Footnote: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52). Section 175 has been prospectively amended by section 1 of the Homelessness Reduction Act [2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13).
+
+[^f00014]: Footnote: [1987 asp 26](https://www.legislation.gov.uk/ukpga/1987/26). Subsections (2A), (2B) and (3)(bb) were inserted by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1990 (c. 40)](https://www.legislation.gov.uk/ukpga/1990/40). Section 24 was also amended by section 3 of the Housing (Scotland) Act [2001 (asp 10)](https://www.legislation.gov.uk/asp/2001/10), section 10 of the Homelessness etc (Scotland) Act [2003 (asp 10)](https://www.legislation.gov.uk/asp/2003/10) and paragraph 4 of Schedule 4 to the Private Housing (Tenancies) (Scotland) Act [2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19).
+
+[^f00015]: Footnote: [2014 anaw/dccc 7](https://www.legislation.gov.uk/anaw/2014/7).
+
+[^key-b745de1f190c04599466150e968a6cc3]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/3) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
+
+[^f00016]: Footnote: [S.I. 2004/692](https://www.legislation.gov.uk/uksi/2004/692). Regulation 9 was amended by regulation 7(b) and (c) of [S.I. 2007/718](https://www.legislation.gov.uk/uksi/2007/718) and regulation 6 of [S.I. 2016/704](https://www.legislation.gov.uk/uksi/2016/704).
+
+[^key-dec346275c85497c7ae00bc21e1b4409]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/4) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
+
+[^key-1c03272d745fe155b507d8aac0afd63e]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/5) in force at 19.7.2018 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1)
+
+[^key-fe2abe196b90a51f2a1389237459b718]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/912/schedule/paragraph/6) inserted (27.10.2022) by [The Digital Government (Disclosure of Information) (Amendment) Regulations 2022 (S.I. 2022/1098)](https://www.legislation.gov.uk/uksi/2022/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/1098/regulation/2/4)

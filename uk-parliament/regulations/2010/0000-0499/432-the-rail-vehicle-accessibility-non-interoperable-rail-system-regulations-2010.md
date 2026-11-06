@@ -1,0 +1,1201 @@
+---
+title: The Rail Vehicle Accessibility (Non-Interoperable Rail System) Regulations 2010
+id: uksi/2010/432
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-02-23'
+text_date: '2020-12-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2010/432
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/432/pdfs/uksiem_20100432_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/432/pdfs/uksi_20100432_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/432/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Rail Vehicle Accessibility (Non-Interoperable Rail System) Regulations 2010
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2010 No. 432
+
+Disabled Persons
+
+Transport
+
+The Rail Vehicle Accessibility (Non-Interoperable Rail System) Regulations 2010
+
+Made
+
+23rd February 2010
+
+Laid before Parliament
+
+1st March 2010
+
+Coming into force
+
+6th April 2010
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by—
+
+- (a) section 46(1), (2), (4A), (5) and (7) and section 67(2) and (3)(a) of the Disability Discrimination Act 1995 [^c20159101];
+- (b) section 2(2) (b) of the European Communities Act 1972 [^c20159111]; and
+- (c) section 247 of the Transport Act 2000 [^c20159121].
+
+In accordance with section 46(11) of the Disability Discrimination Act 1995 the Secretary of State has consulted the Disabled Persons Transport Advisory Committee [^c20159131] and such other representative organisations as the Secretary of State thinks fit.
+
+The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to measures relating to discrimination [^c20159141] and to railways and railway transport [^c20159151].[^M_C_a7948dde-1b48-471a-ae2a-a5483f4e7eb4]
+
+## 1. Citation, commencement and extent
+
+These Regulations—
+
+- (a) may be cited as the Rail Vehicle Accessibility (Non-Interoperable Rail System) Regulations 2010,
+- (b) come into force on 6th April 2010, and
+- (c) do not extend to Northern Ireland.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 1974 Act**” means the Health and Safety at Work etc. Act 1974 [^c20159161];
+- “**the 1995 Act**” means the Disability Discrimination Act 1995;
+- “**cableway installation**” means an installation made up of several components that—
+  - (a) is used or intended to be used for the purpose of providing an operational system for carrying persons in vehicles, on chairs or by towing devices,
+  - (b) uses cables positioned along the line of travel to provide suspension or traction or both, and
+  - (c) is one of the following—
+    - (i) a cable car (including a gondola and chair lift) where the cabins or chairs are lifted or displaced by one or more carrier cables;
+    - (ii) a drag lift, where users with appropriate equipment are dragged by means of a cable; or
+    - (iii) a funicular railway or other installation with vehicles mounted on wheels or on other suspension devices where traction is provided by one or more cables;
+
+  but does not include cable operated tramways, rack railways or lifts;
+- “**class of passenger accommodation**” means a category of passenger accommodation in a rail vehicle charged out at a different fare or fares from another category of passenger accommodation in the same rail vehicle or train;
+- “**contrast**” means contrast in the amount of light reflected;
+- [^M_F_b8c096f9-79da-47b1-e864-bc2dcf6b9a07]...
+- “**display**” means a screen fitted to the exterior or interior of a rail vehicle which is used to indicate the destination or route number of a rail vehicle, or make other visual announcements, which forms part of a public address system for visual announcements;
+- [^key-7c47aa101dbf6c0f059d956324b9e33d]...
+- “**exemption order**” means an order made under section 47 of the 1995 Act;
+- “**guided bus**” means a motor vehicle, used wholly or mainly for the carriage of passengers, which is designed or adapted to travel along roads and to carry more than eight passengers, but which is not a tramcar, and which for some or all of the time when in operation—
+  - (a) travels along roads, and
+  - (b) is guided (whether while on the road or at other times) by means of—
+    - (i) apparatus, a structure or other device which is fixed and not part of the bus; or
+    - (ii) a guidance system which is automatic;
+- “**guided transport**” has the same meaning as in section 67(1) of the Transport and Works Act 1992 [^c20159191];
+- [^M_F_b8c096f9-79da-47b1-e864-bc2dcf6b9a07]...
+- “lift”, in paragraph (3) of this regulation, means an appliance, other than a cableway installation, serving specific levels and having a car moving—
+  - (a) along guides which are rigid; or
+  - (b) along a fixed course even where it does not move along guides which are rigid;
+
+  and inclined at an angle of more than 15 degrees to the horizontal and intended wholly or mainly for the transport of persons;
+- “**miniature railway**” means a system of transport employing parallel rails which—
+  - (a) provide support and guidance for vehicles carried on flanged wheels, and
+  - (b) form a track of a gauge of less than 350 millimetres;
+- “**narrow width vehicle**” means a vehicle which, measured on the exterior, has a car body width of 2.8 metres or less at its widest point and a height above rail of 3.1 metres or less unloaded in normal operating condition;
+- “**network**” means any permanent way or other means of guiding or supporting rail vehicles or any section of it;
+- “**operator**”, in relation to a rail vehicle, means the person having the management of that vehicle;
+- “**passenger saloon**” means that part of the interior of a rail vehicle provided for the accommodation of passengers, but does not include a toilet cubicle or a vestibule adjoining an exterior doorway;
+- “**photocell device**” means a device which operates using a combination of a beam of light, a transmitter and a receiver;
+- “**podcar**” means an automated driverless vehicle constructed to carry seated passengers, up to a maximum of 6, on a dedicated network of fixed guideways to a passenger selected destination without intermediate stops (whether or not the vehicle is also capable of being operated in some other way);
+- “**prescribed system**” means a system of transport using a mode of guided transport prescribed in paragraph (2);
+- “**priority seat**” means a seat designated in accordance with paragraph 13 of Schedule 1;
+- “**rail vehicle**” means a vehicle constructed or adapted to carry passengers on any railway, tramway or prescribed system other than a vehicle used in the provision of a service for the carriage of passengers on the trans-European rail system located in Great Britain[^M_F_f39676ba-cf1a-474d-fcc6-fde220bab7f6];
+- “**railway**” has the same meaning as in section 67(1) of the Transport and Works Act 1992;
+- “**reference wheelchair**” means an occupied wheelchair the dimensions of the chair and occupant being as shown in diagram A in Schedule 2;
+- “relevant specifications” means—[^key-b927c575e4bfa6b42d31dbf1d3cfa60a]
+  - (a) before IP completion day, section 4.2.2 of the technical specification for interoperability relating to “persons with reduced mobility” set out in the Annex to [Decision 2008/164/EC](https://www.legislation.gov.uk/eud/2008/0164) of the European Commission of 21 December 2007 (as modified in section 7.4.1.3.2 for GB rolling stock); or
+  - (b) on and after IP completion day, the corresponding section of the NTSN relating to “persons with reduced mobility” published by the Secretary of State under the Railways (Interoperability) Regulations 2011 as amended from time to time;
+- “road”—
+  - (a) in England and Wales, means any length of highway or of any other road to which the public has access, and includes bridges over which a road passes; and
+  - (b) in Scotland, has the same meaning as in section 151 of the Roads (Scotland) Act 1984 [^c20159201];
+- “**train**” means two or more rail vehicles, other than tramcars, coupled together;
+- “**tramcar**” means a rail vehicle (whether or not articulated in one or more places) constructed or adapted to carry passengers on a railway or tramway and to be accessible by persons at a tram stop;
+- “**tram stop**” means a stopping place for tramcars in a road provided for persons to board or leave a tramcar;
+- “**tramway**” has the same meaning as in section 67(1) of the Transport and Works Act 1992;
+- “trans-European rail system” has the meaning given in regulation 2(1) of the Railways (Interoperability) Regulations 2011;[^M_F_dc991051-b1b3-4322-d445-b5bdeb6387ff]
+- “**wheelchair-compatible doorway**” means a passenger doorway in the side of a rail vehicle provided in accordance with paragraph 6 of Schedule 1;
+- “**wheelchair-compatible toilet**” means a passenger toilet provided in accordance with paragraph 16(1) of Schedule 1, with or without compliance with paragraph 16(1) (h);
+- “**wheelchair space**” means a space for a disabled person in a wheelchair which is provided in accordance with paragraph 18 of Schedule 1;
+- “**width**” means, when applied to a doorway or passageway, the unobstructed width of that doorway or passageway up to a height of 1400 millimetres above the door sill or floor, and “**wide**” is to be construed accordingly.
+
+(2) Subject to paragraph (3), in these Regulations prescribed modes of guided transport are vehicles, constructed or adapted to carry passengers, which for some or all of the time when they are in operation are guided by means of—
+
+- (a) rails, beams, slots, guides or other apparatus, structures or devices which are fixed and not part of the vehicle; or
+- (b) a guidance system which is automatic but which works by using means of guidance external to the vehicle.
+
+(3) The modes of transport prescribed in paragraph (2) do not include—
+
+- (a) a vehicle which operates on a railway;
+- (b) a vehicle which operates on a tramway;
+- (c) a vehicle which operates on a miniature railway;
+- (d) a cableway installation;
+- (e) a lift;
+- (f) a guided bus; or
+- (g) any other mode of guided transport comprising a vehicle which for some or all of the time when it is in operation travels along roads.
+
+(4) In these Regulations a reference to the requirements of Part 1 of Schedule 1 means that Part as read with the diagrams referred to in it and shown in Schedule 2.
+
+## 3. Rail vehicles first used after 31st December 1998
+
+(1) Subject to paragraph (2), this regulation applies to a rail vehicle first brought into use after 31st December 1998.
+
+(2) This regulation does not apply to a rail vehicle which—
+
+- (a) belongs to a class of rail vehicle first brought into use before 1st January 1999; or
+- (b) is constructed or adapted to carry passengers on a prescribed system and which does not conform with the requirements of Part 1 of Schedule 1 when these Regulations come into force.
+
+(3) Subject to paragraphs (7) and (11), the requirements of Part 1 of Schedule 1 apply in relation to a rail vehicle to which this regulation applies.
+
+(4) Paragraph (7) applies where the Office of Rail and Road[^key-e3ce89bf723d98f3709249b4064b7b17] receives a valid notice in writing from an operator of a rail vehicle to which this regulation applies, which has been constructed or adapted to carry passengers on a railway, opting to apply the requirements of the relevant specifications[^key-383970027e6c28827cbed25832e9da65] in relation to that vehicle instead of the requirements of Schedule 1.
+
+(5) A notice referred to in paragraph (4) will be a valid notice if it is properly addressed to the Chief Executive of the Office of Rail and Road and lists which version of the relevant specifications[^key-c3b8166d57fef7f7e8d3af13d3ed782e] will be applied in relation to the rail vehicle or, where more than one version, which version will be applied in relation to which aspects of the construction or operation of the rail vehicle, instead of the requirements of Schedule 1.
+
+(6) A notice referred to in paragraph (4) may be—
+
+- (a) superseded by a subsequent notice under that paragraph; or
+- (b) withdrawn in writing whereupon paragraph (7) will cease to apply to the rail vehicle.
+
+(7) Where this paragraph applies—
+
+- (a) the requirements of Part 1 and Part 2 of Schedule 1 do not apply in relation to the rail vehicle, and
+- (b) the requirements of the relevant specifications[^key-a8be52f6c4b50963e1aa1c83ad631d2b], as indicated in the notice referred to in paragraph (4), apply in relation to the rail vehicle.
+
+(8) Subject to paragraphs (7), (10) and (11), the requirements of Part 2 of Schedule 1 apply in relation to a rail vehicle to which this regulation applies—
+
+- (a) if and to the extent that it already conforms with them when these Regulations come into force;
+- (b) if it is constructed pursuant to a contract entered into after 5th April 2011 and does not belong to a class of rail vehicle first brought into use before that date; or
+- (c) to the extent indicated in paragraph (9) if after 5th April 2011 any refurbishment work described in column (2) of the table in Schedule 4 is carried out to it.
+
+(9) Where paragraph (8)(c) applies, those requirements of Part 2 of Schedule 1, which are indicated in column (3) of the table in Schedule 4 opposite the description of the refurbishment work, apply in relation to that work.
+
+(10) Paragraph (8) (c) does not apply to refurbishment work which—
+
+- (a) only comprises like for like replacement;
+- (b) is required to be carried out by a contract in writing entered into before 6th April 2011; or
+- (c) is carried out in-house by the operator pursuant to an arrangement made in writing before 6th April 2011.
+
+(11) Paragraphs (3) and (8) are subject to any exemption order which applies to the rail vehicle.
+
+## 4. Rail vehicles first used, or belonging to a class first used, before 1st January 1999, or certain rail vehicles used on prescribed systems
+
+(1) This regulation applies to a rail vehicle first brought into use—
+
+- (a) before 1st January 1999;
+- (b) after 31st December 1998 which belongs to a class of rail vehicle first brought into use before 1st January 1999; or
+- (c) after 31st December 1998 which is constructed or adapted to carry passengers on a prescribed system and which does not conform with the requirements of Part 1 of Schedule 1 when these Regulations come into force.
+
+(2) Subject to paragraphs (3) and (7), where after 5th October 2010 and before 1st January 2020 any refurbishment work described in column (2) of the table in Schedule 3 is carried out to a rail vehicle to which this regulation applies, the requirements of Part 1 of Schedule 1, which are indicated in column (3) of that table opposite the description of that work, apply in relation to that work.
+
+(3) Paragraph (2) does not apply to refurbishment work which—
+
+- (a) only comprises like for like replacement;
+- (b) is required to be carried out by a contract in writing entered into before 6th October 2010; or
+- (c) is carried out in-house by the operator pursuant to an arrangement made in writing before 6th October 2010.
+
+(4) Subject to paragraph (7), on and after 1st January 2020 the requirements of Part 1 of Schedule 1 apply in relation to a rail vehicle to which this regulation applies.
+
+(5) Subject to paragraphs (6) and (7), where after 5th April 2011 any refurbishment work described in column (2) of the table in Schedule 4 is carried out to a rail vehicle to which this regulation applies, the requirements of Part 2 of Schedule 1, which are indicated in column (3) of that table opposite the description of that work, apply in relation to that work.
+
+(6) Paragraph (5) does not apply to refurbishment work which—
+
+- (a) only comprises like for like replacement;
+- (b) is required to be carried out by a contract in writing entered into before 6th April 2011; or
+- (c) is carried out in-house by the operator pursuant to an arrangement made in writing before 6th April 2011.
+
+(7) Paragraphs (2), (4) and (5) are subject to any exemption order which applies to the rail vehicle.
+
+## 5. Duty on operator of rail vehicles
+
+An operator of a rail vehicle to which regulation 3 or 4 applies must not use it for the carriage of passengers unless any requirements made to apply in relation to it by regulation 3 or 4, as the case may be, are complied with.
+
+## 6. Enforcement
+
+(1) It is the duty of the Office of Rail and Road[^key-aec026e9aaed77c15646dd54a771b0c5] to make adequate arrangements for the enforcement of these Regulations.
+
+(2) Subject to paragraph (5), the provisions of the 1974 Act specified in paragraph (3) (the “specified provisions”) apply for the purposes of the enforcement of these Regulations as if in the specified provisions—
+
+- (a) a reference to the “**enforcing authority**” was a reference to the Office of Rail and Road;
+- (b) a reference to the “**relevant statutory provisions**” was a reference to these Regulations and to the specified provisions; and
+- (c) a reference to “health and safety regulations” was a reference to these Regulations.
+
+(3) The provisions of the 1974 Act referred to in paragraph (2) are—
+
+- (a) sections 19 and 20 (appointment and powers of inspectors) [^c20159211], excluding section 20(3);
+- (b) sections 21 and 22 (improvement and prohibition notices) [^c20159221];
+- (c) section 23 (provisions supplementary to sections 21 and 22) [^c20159231], excluding section 23 (3) and (6);
+- (d) section 24 (appeal against improvement and prohibition notices) [^c20159241];
+- (e) section 26 (power to indemnify inspectors);
+- (f) section 28 (restrictions on disclosure of information) [^c20159251];
+- (g) sections 33(1) (c), (e) to (h), (j) to (o), 34(2), 35, 36 (1) and (2), 37 to 41 and 42 (1) to (3) (provision as to offences) [^c20159261]; and
+- (h) section 46 (service of notices).
+
+(4) The mode of trial and maximum penalty applicable to each offence under section 33 of the 1974 Act so applied and listed in the first column of the following table are set out opposite each offence in the subsequent columns of the table.
+
+| *Offence* | *Mode of trial* | *Penalty on summary conviction* | *Penalty on conviction on indictment* |
+| --- | --- | --- | --- |
+| An offence under section 33(1) (c), (e), (f), (g), (j), (k), (l), (m) or (o). | Summarily or on indictment. | Imprisonment for a term not exceeding 3 months, or a fine not exceeding level 5 on the standard scale as it has effect from time to time (as if the offence was triable only summarily), or both. | Imprisonment for a term not exceeding two years, or a fine, or both. |
+| An offence under section 33(1) (h). | Summarily only. | Imprisonment for a term not exceeding 3 months, or a fine not exceeding level 5 on the standard scale as it has effect from time to time, or both. |  |
+| An offence under section 33(1) (n). | Summarily only. | A fine not exceeding level 5 on the standard scale as it has effect from time to time. |  |
+
+(5) A failure to discharge a duty placed on the Office of Rail and Road by these Regulations is not an offence under section 33(1) (c) of the 1974 Act.
+
+## 7. Revocation and transitional provisions
+
+(1) The following instruments are revoked—
+
+- (a) the Rail Vehicle Accessibility Regulations 1998 [^c20159271]; and
+- (b) the Rail Vehicle Accessibility (Amendment) Regulations 2000 [^c20159281].
+
+(2) A reference in an exemption order to a provision of the Rail Vehicle Accessibility Regulations 1998 has effect as if it were a reference to the corresponding provision of Part 1 of Schedule 1 to these Regulations indicated in Schedule 5.
+
+Signed by authority of the Secretary of State for Transport
+
+C.D. Mole
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+## SCHEDULE 1 — ACCESSIBILITY REQUIREMENTS
+
+Regulations 3 and 4
+
+### PART 1 — GENERAL REQUIREMENTS
+
+#### 1. Boarding devices
+
+(1)[^M_C_7683bd60-0cf5-47a1-a943-fe5759955475] Subject to sub-paragraph (2), when a wheelchair-compatible doorway in a rail vehicle is open at a platform at a station, or at a stop, a boarding device must be fitted by the operator between that doorway and the platform, or the stop, if a disabled person in a wheelchair wishes to use that doorway.
+
+(2) Sub-paragraph (1) does not apply where the gap between the edge of the door sill of the wheelchair-compatible doorway and the platform, or stop, is not more than 75 millimetres measured horizontally and not more than 50 millimetres measured vertically.
+
+(3) No boarding device other than a lift or ramp may be used.
+
+(4) If a rail vehicle is fitted with a lift the following requirements must be complied with—
+
+- (a) the lift-platform must be not less than 750 millimetres wide measured parallel to the side of the rail vehicle, and not less than 1200 millimetres long measured at a right angle to the side of the rail vehicle;
+- (b) the lift-platform must be capable of supporting a weight of not less than 300 kilograms (excluding its own weight);
+- (c) the lift-platform must be marked on its upper surface by a strip of colour which must—
+  - (i) abut all the edges of the lift-platform surface;
+  - (ii) be not less than 50 millimetres wide; and
+  - (iii) contrast with the remainder of the lift-platform surface;
+- (d) any vertical sides of the lift-platform must be coloured with the same colour as that of the strip of colour required under paragraph (c);
+- (e) the lift-platform surface must be slip-resistant;
+- (f) the lift-platform must not travel up or down at a speed in excess of 150 millimetres per second;
+- (g) the lift-platform must rest on the surface of the platform or stop when it has been fully lowered;
+- (h) save when necessary to enable access to and egress from the lift, the lift-platform must, when in use, deploy a device with a height of not less than 100 millimetres measured from the surface of the lift-platform to prevent a wheelchair rolling off;
+- (i) the lift-platform must be fitted with sensors capable of stopping its movement if it comes into contact with any thing or person whilst in motion;
+- (j) the lift must only be operated by the operator of the rail vehicle;
+- (k) the operator of the rail vehicle must provide assistance to a disabled person in a wheelchair wishing to use the lift;
+- (l) if the lift is power operated it must also be operable manually if the power-operation fails; and
+- (m) it must not be operable unless the rail vehicle has stopped at a station or stop.
+
+(5) If the boarding device is a ramp, the following requirements must be complied with—
+
+- (a) when in use it must be fixed securely to the rail vehicle;
+- (b) it must be not less than 800 millimetres wide and not wider than the opening of the wheelchair-compatible doorway;
+- (c) it must have along each side which is not to be crossed by the wheelchair a protective rim with a height of not less than 50 millimetres measured from the surface of the ramp to prevent a wheelchair rolling off;
+- (d) the protective rims must be coloured on each side with the same colour as that of the strip of colour required under paragraph (g);
+- (e) it must be capable of supporting a weight of not less than 300 kilograms (excluding its own weight);
+- (f) when in use its outer end must rest securely on the surface of the platform or stop;
+- (g) it must be marked on its upper surface by a strip of colour which must—
+  - (i) abut all the edges of its surface;
+  - (ii) be not less than 50 millimetres wide; and
+  - (iii) contrast with the remainder of its surface;
+- (h) its surface must be slip-resistant; and
+- (i) the operator of the rail vehicle must provide assistance to a disabled person in a wheelchair wishing to use the ramp unless the gradient of the ramp above the horizontal plane is eight per cent or less.
+
+(6) If a rail vehicle is fitted with a power operated ramp the following requirements must be complied with, in addition to those indicated in sub-paragraph (5)—
+
+- (a) if the ramp is to be operated by a disabled person in a wheelchair the control for the ramp must be adjacent to the wheelchair-compatible doorway, on both the outside and inside of the rail vehicle, and within reach of a person in a reference wheelchair;
+- (b) the ramp must be fitted, along its outer end, with a sensor capable of stopping the movement of that ramp if it comes into contact with any thing or person whilst the ramp is in movement;
+- (c) the ramp must be incapable of movement if the surface of the ramp is subjected to a load of 15 kilograms or more;
+- (d) the ramp must not be operable unless the rail vehicle has stopped at a station or stop; and
+- (e) the ramp must be operable manually if the power operation fails, and the operator of the rail vehicle must provide assistance to a disabled person in a wheelchair wishing to use the ramp in these circumstances.
+
+(7) A lift or ramp which is carried by a rail vehicle and which is not in use must be fixed securely to the vehicle so that it does not endanger the safety of persons in that vehicle.
+
+#### 2. Catering
+
+If catering facilities are provided in a rail vehicle or on a train but there is no passageway for a reference wheelchair from a wheelchair space to those facilities, the operator of the vehicle or train must assist a disabled person in a wheelchair by providing a reasonably equivalent catering service to that person at that wheelchair space.
+
+#### 3. Doors
+
+(1) Subject to sub-paragraph (2), each passenger doorway in the side of a rail vehicle must be indicated clearly by doors which on their exterior contrast with the exterior of the vehicle to each side of the doors (excluding any contrast resulting from a window or control device being set in the doors).
+
+(2) Sub-paragraph (1) does not apply to a rail vehicle operated exclusively on a network where, at all stations or stops, passengers waiting on platforms are separated from the track or way by screens or other barriers which—
+
+- (a) obstruct the view of the doors of rail vehicles; or
+- (b) indicate clearly where the doors of rail vehicles will be once they have stopped for boarding.
+
+(3) Subject to sub-paragraph (4), each passenger doorway in the side of a rail vehicle must be fitted with an audible warning device which must emit warning sounds in accordance with sub-paragraph (5) inside and outside the vehicle in the proximity of each control device for the doorway or, if there is no such control device, adjacent to the doorway.
+
+(4) Sub-paragraph (3) does not apply–
+
+- (a) to a passenger doorway which is, at all times when it is capable of being used by a passenger, under the direct supervision of a member of the operator's staff who is standing adjacent to the doorway;
+- (b) to a rail vehicle when it is not being used for carriage; or
+- (c) where a rail vehicle is operated exclusively on a network where, at all stations or stops, passengers waiting on platforms are separated from the track or way by screens or other barriers, if audible warnings of the operation of those screens or barriers, equivalent to those required by sub-paragraph (5), are given at those stations or stops.
+
+(5) Subject to sub-paragraph (6), the audible warning device must—
+
+- (a) where the unlocking of all the passenger doors in the side of a rail vehicle is activated by a member of the operator's staff, emit a distinct sound for a period of not less than 3 seconds commencing when the doors become openable by passengers; and
+- (b) emit a different distinct sound to that required by paragraph (a) and, where applicable, paragraph 1 of Part 2 of this Schedule, commencing not less than 3 seconds before the door starts to close.
+
+(6) Sub-paragraph (5) (a) need not be complied with if paragraph 1 of Part 2 of this Schedule is complied with instead.
+
+(7) In this paragraph “**sound**” includes the spoken word.
+
+#### 4. Door controls (power operated)
+
+(1) Subject to sub-paragraph (6), no control device to enable a passenger to open or close a power operated door, other than a device to which sub-paragraph (3) applies, may be fitted to a rail vehicle unless—
+
+- (a) the centre of the control device is not less than 700 millimetres and not more than 1200 millimetres vertically above an imaginary horizontal line extended from the door sill of the relevant doorway;
+- (b) the control device is operable by the palm of the hand exerting a force not exceeding 15 newtons;
+- (c) the control device, or its immediate surround, is illuminated continuously, or flashes at no greater frequency than 2 hertz or 2 flashes per second, whenever it is operable;
+- (d) the control device contrasts with the surface on which it is mounted; and
+- (e) the control device is identifiable by touch.
+
+(2) When power operated doors are closed by a member of the operator's staff the illumination of each such control device must cease not less than 3 seconds before the doors start to close.
+
+(3) Subject to sub-paragraph (4), no control device which causes a door to open automatically as a passenger approaches may be fitted to a rail vehicle unless—
+
+- (a) the door starts to open before any part of a passenger reaches a distance of 500 millimetres, measured horizontally, from the vertical centre line of the door surface;
+- (b) the door, once opened, remains open for a period of not less than 5 seconds before it starts to close; and
+- (c) if, after the door starts to close, the edge of the door comes into contact with any part of a passenger, or other obstruction, the door opens again.
+
+(4) If a control device to which sub-paragraph (3) applies incorporates a photocell device positioned above the door, the requirement imposed by sub-paragraph (3)(a) is complied with if the distance from the vertical centre line of the door surface is measured horizontally from any single point on that line not less than 300 millimetres above the floor.
+
+(5) For the purposes of this paragraph the requirement for a door control device or, as the case may be, its immediate surround, to be illuminated means that that device must incorporate a dedicated source of illumination which is additional to any illumination provided in the rest of the vehicle.
+
+(6) This paragraph does not apply to a door control device relating to a toilet door.
+
+#### 5. Door handles
+
+(1) Subject to sub-paragraph (3), a door handle fitted for the use of passengers in a rail vehicle must be operable by the exertion of a force not exceeding 15 newtons.
+
+(2) Subject to sub-paragraph (3), where a door handle fitted to a door for the use of passengers in a rail vehicle has no moving parts, the door must be capable of being opened and closed by the exertion of a force not exceeding 15 newtons.
+
+(3) Sub-paragraphs (1) and (2) do not apply to a door handle of a refrigerator provided for the use of passengers within a catering or retail area on a rail vehicle where a member of the operator's staff is, at all times when that catering or retail area is open for service or for the sale of goods, available to provide assistance to a person who is disabled to operate that handle.
+
+#### 6. Doorways (exterior) and through routes (wheelchair-compatible)
+
+(1) If a rail vehicle has a wheelchair space then each side of the vehicle which is used for the access and egress of passengers must have at least one passenger doorway which is a wheelchair-compatible doorway.
+
+(2) The width of the opening of a wheelchair-compatible doorway must be not less than 850 millimetres.
+
+(3) Subject to sub-paragraph (4), a sign conforming with diagram B in Schedule 2 must be marked on the exterior of the rail vehicle on at least one side of each wheelchair-compatible doorway, or on at least one door of each wheelchair-compatible doorway, in such a position that it will be visible both before and after the doors have opened.
+
+(4) Sub-paragraph (3) does not apply to a rail vehicle operated exclusively on a network where, at all stations or stops, passengers waiting on platforms are separated from the track or way by screens or other barriers, provided a sign conforming with diagram B in Schedule 2 is marked—
+
+- (a) on those doors of the screens or other barriers which give access to wheelchair-compatible doorways in rail vehicles when ready for boarding, or
+- (b) on at least one side of those doors,
+
+and is visible from the platform side both before and after those doors have opened.
+
+(5) The route between a wheelchair-compatible doorway and a wheelchair space must—
+
+- (a) not have a step, or a slope with a gradient exceeding—
+  - (i) five per cent; or
+  - (ii) provided the slope does not exceed 2000 millimetres in length, eight per cent;
+
+  as measured when the vehicle is on a straight and level track;
+- (b) not be less than 850 millimetres wide at any point; and
+- (c) provide a turning space adjacent to, or partly adjacent to and partly within, a wheelchair space for a disabled person in a reference wheelchair to turn the wheelchair around through one hundred and eighty degrees.
+
+#### 7. Doorways (interior) (wheelchair-compatible)
+
+(1) Subject to sub-paragraph (2), a passenger doorway in a rail vehicle (which is not in the side of the vehicle) through which a disabled person in a wheelchair must pass to reach a—
+
+- (a) wheelchair space; or
+- (b) wheelchair-compatible toilet,
+
+must be not less than 850 millimetres wide.
+
+(2) In its application to a passenger doorway at the end of a rail vehicle, sub-paragraph (1) has effect as if for 850 millimetres there were substituted 750 millimetres.
+
+#### 8. Floors
+
+(1) The floors of all areas used by passengers in a rail vehicle must be slip-resistant.
+
+(2) Subject to sub-paragraphs (3) and (5), the floor of a vestibule to a passenger doorway in the side of a rail vehicle must contrast with the adjoining floor of the passenger saloon of the vehicle.
+
+(3) Subject to sub-paragraph (5), where the passenger doorway in the side of a rail vehicle is not opposite another external doorway, the extent of the floor of the vestibule which must contrast with the floor of the passenger saloon must only be the extent indicated in sub-paragraph (4).
+
+(4) The extent of the floor of the vestibule referred to in sub-paragraph (3) is that area of it which extends from the internal edge of the door sill of the external door across the internal width of the rail vehicle for not less than 560 millimetres and not more than one third of that width.
+
+(5) The requirements of sub-paragraphs (2) and (3) do not apply where the vestibule and adjoining passenger saloon are separated by a doorway.
+
+(6) At a passenger doorway in the side of a rail vehicle the floor must have a band of single colour running parallel with the full width of the entrance—
+
+- (a) not less than 50 millimetres and not more than 100 millimetres wide;
+- (b) the edge of which furthest from the entrance must not be more than 100 millimetres from the edge of the floor at the entrance; and
+- (c) which contrasts with the adjoining floor surface.
+
+#### 9. Handholds
+
+(1) Subject to sub-paragraph (2), a handhold must be fitted to the top of the back of each passenger seat which faces towards an end of a rail vehicle and is next to a gangway in a passenger saloon, and must comply with the following requirements—
+
+- (a) it must contrast with the seat to which it is attached;
+- (b) it must have a slip-resistant surface;
+- (c) any edges or corners in its surface (including those in its mountings with the seat) must be rounded off;
+- (d) its exterior design must not incorporate any empty space or gap, including any between it and the seat to which it is attached, having less than 45 millimetres clearance for a passenger's hand; and
+- (e) if its exterior design incorporates any empty space or gap, the cross section of the handhold, excluding any mountings, must have a width of not more than 40 millimetres at its widest point and not less than 20 millimetres at its narrowest point.
+
+(2) Sub-paragraph (1) does not apply to a seat—
+
+- (a) the back of which touches a partition;
+- (b) the back of which touches the back of another seat which faces in the opposite direction and is fitted with a handhold;
+- (c) which reclines and which, in the reclined position, touches the back of another reclining seat in the reclined position which faces in the opposite direction and is fitted with a handhold;
+- (d) to which a handrail is attached; or
+- (e) which is situated no more than 50 millimetres from a handrail, handhold or partition measured from the top of the back of that seat in both the fixed and, as the case may be, reclined position.
+
+#### 10. Handrails
+
+(1) Subject to sub-paragraphs (2) and (3), a handrail must be fitted in the following positions—
+
+- (a) in every rail vehicle, on the inside as close as practicable to, and on either side of, the passenger doorways in the side of the vehicle, extending vertically from a point not more than 700 millimetres above the floor to a point not less than 1200 millimetres above the floor; and
+- (b) in a rail vehicle which is also a tramcar, at intervals of not more than 1050 millimetres in its longitudinal plane.
+
+(2) Sub-paragraph (1) (a) does not apply to a podcar if—
+
+- (a) the height of its floor is level, within a 15 millimetre tolerance, with the height of the platform at all stops; and
+- (b) alternative fixtures are provided at the doorways which would enable passengers to steady themselves when entering or exiting the podcar.
+
+(3) Sub-paragraph (1) (b) does not apply to the upper deck of an open-topped double-decked tramcar.
+
+(4) Subject to sub-paragraphs (5) and (6), any passenger handrail fitted in or to a rail vehicle must comply with the following requirements—
+
+- (a) it must have a circular cross section with a diameter of not less than 30 millimetres and not more than 40 millimetres;
+- (b) there must be not less than 45 millimetres clearance for a passenger's hand between any part of the handrail and any other part of the rail vehicle, excluding the mountings of the handrail to the vehicle;
+- (c) it must have a slip-resistant surface; and
+- (d) it must contrast with the parts of the rail vehicle adjacent to that handrail.
+
+(5) A narrow width vehicle, at a passenger doorway in its side, may have a horizontal handrail fitted on the inside above the doorway with an oval cross section provided it complies with the requirements indicated in sub-paragraph (6).
+
+(6) The requirements referred to in sub-paragraph (5) are that—
+
+- (a) the handrail must have a maximum width, at its major axis, of not less than 30 and not more than 40 millimetres;
+- (b) the handrail must have a minimum width, at its minor axis, of not less than 20 millimetres; and
+- (c) there must be not less than 40 millimetres clearance for a passenger's hand between any part of the handrail and any other part of the rail vehicle, excluding the mountings of the handrail to the vehicle.
+
+#### 11. Passenger information
+
+(1) The interior of a rail vehicle must be fitted with a public address system for audible and visual announcements.
+
+(2) Subject to sub-paragraph (4), if rail vehicles are hauled by one or more locomotives, the lead locomotive must be fitted with a public address system for visual announcements on its exterior, which includes a display fitted on its front, unless all the rail vehicles hauled have such a system with a display fitted on both sides of their exterior instead of on their front.
+
+(3) Subject to sub-paragraph (4), if a rail vehicle is not hauled by a locomotive, and is not a podcar, it must be fitted with a public address system for visual announcements on its exterior where it—
+
+- (a) operates as a single vehicle, in which case the display must be fitted on its front;
+- (b) is the lead vehicle of two or more coupled together which, including itself, do not all have displays on both sides of their exterior, in which case the display must be fitted on its front; or
+- (c) is one of two or more coupled together, but is not the lead vehicle, and the lead vehicle does not have a display fitted on its front, in which case a display must be fitted on both sides of the exterior.
+
+(4) Sub-paragraphs (2) and (3) do not apply to rail vehicles operated exclusively on a prescribed system where public address systems for visual announcements are in operation at all stations or stops, giving details of the destination of the vehicles or, if they are following a circular route, the name or number of the route.
+
+(5) Whilst a rail vehicle is stationary at a station or stop any public address systems required to be fitted inside the vehicle, and on its exterior, must be used to announce the destination of the vehicle or, if it is following a circular route, the name or number of the route and, in the case of systems inside the vehicle only, to announce the next stop.
+
+(6) Subject to sub-paragraph (7), the public address systems inside the rail vehicle must be used—
+
+- (a) to announce the next station, or stop, at which the vehicle will be stopping, not less than once during the period beginning five minutes before the vehicle is expected by the operator's staff to stop at that station or stop;
+- (b) to announce any delay exceeding ten minutes to the scheduled timing for that journey;
+- (c) to announce any diversions from the route shown in the published timetable for that journey; and
+- (d) to make emergency announcements.
+
+(7) Sub-paragraph (6) (a) does not apply if the timetabled journey time between stations or stops is less than two minutes.
+
+(8) Subject to sub-paragraph (9), in displays on the exterior of a rail vehicle the first letter of, and numbers used in, visual announcements must not be less than 70 millimetres high on displays mounted on the front of the vehicle and not less than 35 millimetres high on displays mounted on the side of a rail vehicle, and all letters and numbers must contrast with their background.
+
+(9) In displays on the exterior of a narrow width vehicle the first letter of, and numbers used in, visual announcements must not be less than 35 millimetres high, and all letters and numbers must contrast with their background.
+
+(10) Subject to sub-paragraph (11), displays inside a rail vehicle must, when all passengers are seated, be viewable from at least 51 per cent of passenger seats, (including priority seats), and from at least 51 per cent of priority seats.
+
+(11) Displays inside a podcar must, when all passengers are seated, be viewable from at least 50 per cent of passenger seats.
+
+(12) A letter or number used in a display inside a rail vehicle must—
+
+- (a) contrast with its background; and
+- (b) in dimension, not have a height which is less than the minimum height ascertained in accordance with sub-paragraph (13).
+
+(13) The minimum height referred to in sub-paragraph (12) (b) is—
+
+- (a) for a reading distance of 6 metres or less, the height on the vertical axis of the following graph which is opposite the point on the line shown on the graph which intersects with the reading distance on the horizontal axis (e.g. for a reading distance of 6 metres the minimum height is 35 millimetres); and
+- (b) for a reading distance of more than 6 metres, 35 millimetres.
+
+(14) In sub-paragraph (13)—
+
+- (a) “**reading distance**” means the distance between a display and the furthest passenger space in a rail vehicle for which that display is the nearest readable display;
+- (b) “**passenger space**” means a space provided for a passenger in the passenger saloon, or vestibule adjoining an exterior doorway, of a rail vehicle, whether sitting or standing, (the distance between the display and that space to be measured from the eye level of a passenger occupying that space, assuming the passenger to be a 95th percentile man or a 5th percentile woman); and
+- (c) “**readable display**” means a display which is not positioned at such an acute angle from the line of vision of the passenger space as to be unreadable.
+
+  [image: see source](https://www.legislation.gov.uk/uksi/2010/432/images/uksi_20100432_en_sld_001)
+
+(15) A word on a display must not be written in capital letters only.
+
+#### 12. Request-stop controls
+
+(1) This paragraph applies if a rail vehicle is operated on a route with request-stops and is fitted with controls (“controls”) to enable passengers to indicate their wish for the vehicle to stop at one.
+
+(2) The controls must be located—
+
+- (a) within reach of a person seated in a priority seat;
+- (b) within reach of a person seated in a wheelchair in a wheelchair space; and
+- (c) adjacent to at least every third row of seats.
+
+(3) The controls must be fitted at a height—
+
+- (a) not less than 1150 millimetres;
+- (b) not more than 1250 millimetres, if they are for the use of seated passengers; and
+- (c) not more than 1500 millimetres, if they are for the use of other passengers;
+
+as measured vertically from the floor of the vehicle to the centre of each control.
+
+(4) The surround of a control must contrast with the control and with the surface on which the surround is mounted.
+
+(5) The control must be operable by the palm of the hand exerting a force not exceeding 15 newtons.
+
+(6) When a control has been operated signs bearing the word “Stopping”, in which the first letter only must be a capital letter, must be illuminated and remain illuminated inside the vehicle, and inside any vehicles coupled to it, until they have stopped and one or more of their doors have opened.
+
+(7) Signs of the type required by sub-paragraph (6) must be viewable from any part of the passenger saloon of the vehicle.
+
+#### 13. Seats
+
+(1) Not less than 10 per cent of the passenger seats in a rail vehicle or 8 passenger seats (whichever is the lesser number) must be designated by signs complying with sub-paragraph (6) as priority seats for the use of disabled persons.
+
+(2) No priority seat may be capable of being tipped up or folded whilst the rail vehicle is used for carriage.
+
+(3) Each priority seat, and the space available to its user, must comply with the specifications shown in diagram C1 and in either diagram C2, C3 or C4 in Schedule 2.
+
+(4) Any armrest fitted to a priority seat must be movable to the extent required to permit unrestricted access by a disabled person to that seat, and any armrest fitted to any other passenger seat must be so moveable if access to a priority seat is gained past it.
+
+(5) If tables or trays (whether fixed, adjustable or folding) are fitted for the use of passengers at not less than 10 per cent of the seats (other than priority seats) in a rail vehicle, a similar table or tray must be fitted for the use of persons in each priority seat.
+
+(6) There must be a sign on or near to a priority seat indicating that disabled persons have priority for the use of that seat.
+
+(7) For podcars this paragraph has effect as if—
+
+- (a) sub-paragraphs (1), (5) and (6) were omitted;
+- (b) the word “priority” was omitted wherever it occurs;
+- (c) in sub-paragraph (2), for “No priority seat may” there were substituted “ At least two seats must not ”; and
+- (d) in diagrams C1, C2, C3 and C4 in Schedule 2, a minimum height of 1380 millimetres were substituted for 1680 millimetres.
+
+#### 14. Steps
+
+(1) Subject to sub-paragraph (2), steps for the use of passengers at any passenger doorway in the side of a rail vehicle must comply with the following requirements—
+
+- (a) the surface of each tread must be covered in slip-resistant material;
+- (b) along the front edge of each tread there must be a band of single colour, not less than 45 millimetres and not more than 50 millimetres deep, which must contrast with the remainder of the tread;
+- (c) subject to paragraph (d), the rear of each tread must be closed by a riser fixed from the rear of the tread to the front edge of the tread above or, where there is no tread above, to the front edge of the floor of the vehicle;
+- (d) the riser described in paragraph (c) may incorporate a gap which must be no larger than necessary to provide the minimum space required to enable any door opening mechanism to operate;
+- (e) each step must be illuminated by a light placed within or immediately adjacent to the step;
+- (f) each step must be not more than 200 millimetres high measured vertically from the surface of the tread to an imaginary line extended horizontally from the surface of the next tread or floor of the vehicle;
+- (g) each step must be not less than 300 millimetres deep measured from the front edge of the tread to its rear; and
+- (h) the surface of each tread must be not less than 455 millimetres wide.
+
+(2) Paragraphs (f) to (h) do not apply if there is not more than one step outside an external doorway.
+
+(3) Subject to sub-paragraph (4), inside a rail vehicle there must be no step between the passenger doorway in its side and that part of the passenger saloon to one side of that doorway for as far as and including either the vestibule of the next passenger doorway on the same side of that vehicle or the end of that vehicle if there is no other such doorway.
+
+(4) Sub-paragraph (3) does not apply to—
+
+- (a) a step situated immediately inside a passenger doorway in the side of a rail vehicle; or
+- (b) a flight of stairs inside a rail vehicle leading between a lower and upper passenger saloon.
+
+(5) Any step situated immediately inside a passenger doorway in the side of rail vehicle must have its riser between 130 millimetres and 160 millimetres from the external door.
+
+#### 15. Toilets
+
+(1) If a toilet is fitted in a rail vehicle the following requirements must be complied with—
+
+- (a) the centre of any door control device to the toilet door must be not less than 800 millimetres and not more than 1200 millimetres in height above the floor;
+- (b) subject to sub-paragraph (2), any door control device to the toilet door, or equipment inside the toilet cubicle which is for the use of a passenger, must be operable by the exertion of a force not exceeding 15 newtons;
+- (c) the seat and any lid of the toilet, and any handholds in the toilet cubicle, must contrast with the adjacent parts of the toilet cubicle;
+- (d) the immediate surround of a door control device to the toilet door must contrast with—
+  - (i) the door control device; and
+  - (ii) that part of the toilet cubicle, or toilet exterior, on which it is mounted; and
+- (e) a door control device to the toilet door, and any equipment inside a toilet cubicle which is for the use of a passenger, must—
+  - (i) be identifiable by touch; or
+  - (ii) include the provision of tactile signage where that device or equipment is sensor operated.
+
+(2) Sub-paragraph (1) (b) does not apply to a nappy-changing table, save in relation to the stowing of it.
+
+(3) For the purposes of this paragraph “**door control device**” includes door handles and locks on the interior and door handles on the exterior of the toilet cubicle.
+
+(4) A toilet fitted in a rail vehicle must be operational when the vehicle is being used for the carriage of passengers.
+
+#### 16. Toilets (wheelchair-compatible)
+
+(1) If a rail vehicle operating as a single vehicle, or a train, is fitted with one or more toilets, the toilet, or the nearest one to a wheelchair space as the case may be, must conform with the following requirements (in addition to those of paragraph 15)—
+
+- (a) the exterior of the toilet door must be marked with a sign conforming with diagram B in Schedule 2;
+- (b) the width of the toilet doorway must be not less than 850 millimetres;
+- (c) the top surface of the toilet seat when lowered must be such that at least two-thirds of it, measured from its end furthest away from the point at which the toilet is attached to the wall, is between 475 millimetres and 485 millimetres in height from the floor;
+- (d) the toilet cubicle must be equipped with facilities to enable a disabled person in a wheelchair to wash and dry their hands without moving from the seat of the toilet;
+- (e) there must be sufficient space inside the toilet cubicle for a reference wheelchair to be positioned in front of the toilet and to be positioned at one side of the toilet so that it is possible for a disabled person to move from a reference wheelchair on to the toilet seat from the front or the side of the toilet;
+- (f) there must be a hinged handrail beside the toilet which must—
+  - (i) be on the same side of the toilet as the space for a reference wheelchair;
+  - (ii) conform with the requirements of paragraph 10(4);
+  - (iii) conform with the specifications in diagram D1 in Schedule 2; and
+  - (iv) conform with the specifications in diagram D2 in Schedule 2 to such an extent that at least two-thirds of the top-surface of the handrail, when in the deployed position, measured from its end furthest away from the point at which it is attached to the wall, is between 745 millimetres and 755 millimetres high measured from the floor;
+- (g) there must be a horizontal handrail beside the toilet, on the opposite side to the space for a reference wheelchair, which conforms with the requirements of paragraph 10(4); and
+- (h) the toilet cubicle must be fitted with not less than two devices which—
+  - (i) enable a disabled person in a wheelchair to communicate with a person who is in a position to take appropriate action in an emergency, to the same extent as a passenger who is not in a wheelchair can communicate with such a person by the use of an emergency alarm fitted elsewhere than in the toilet;
+  - (ii) are placed so that one is not more than 450 millimetres above the floor, measured to the top of the device, and the other is not less than 800 millimetres and not more than 1200 millimetres above the floor, measured to the top of the device; and
+  - (iii) are operable by the palm of the hand exerting a force not exceeding 30 newtons.
+
+(2) The devices fitted in accordance with sub-paragraph (1) (h) may include a protective cover to prevent accidental operation, provided that such a cover does not affect compliance with the operational requirements of that sub-paragraph.
+
+(3) The route between a wheelchair space and the nearest wheelchair-compatible toilet must not be less than 850 millimetres wide at any point.
+
+(4) Space must be provided adjacent to, or within, the nearest wheelchair-compatible toilet to a wheelchair space for a disabled person in a reference wheelchair to turn the wheelchair round through one hundred and eighty degrees.
+
+#### 17. Transparent surfaces (interior)
+
+(1) Subject to sub-paragraph (3), any transparent surface forming part of a rail vehicle which is located in that part of the interior of the vehicle which is accessible for passengers must—
+
+- (a) be separated from where a passenger can walk or go in a wheelchair by a seat, table, handrail compliant with paragraph 10 (4) or other fitting; or
+- (b) bear a coloured marking which must—
+  - (i) be not less than 140 millimetres and not more than 160 millimetres wide;
+  - (ii) extend horizontally across the whole width of the transparent surface; and
+  - (iii) be situated so that the bottom edge of that marking is at a height of between 1485 and 1515 millimetres measured vertically from the floor; or
+- (c) be bounded on any edge which is not attached to the floor, wall or ceiling of the vehicle by a handrail which complies with paragraph 10 (4).
+
+(2) For the purposes of this paragraph “**transparent surface**” means a transparent surface which is vertical and, if it forms part of a larger vertical surface, comprises more than 75% of the total vertical surface area of which it forms part (and “**vertical**” for this purpose means vertical or thereabouts).
+
+(3) This paragraph does not apply to any windows fitted in doors at the side of a rail vehicle or to any other external windows fitted in the side of a rail vehicle.
+
+#### 18. Wheelchair spaces (numbers required)
+
+(1) Subject to sub-paragraph (2), a rail vehicle which does not form part of a train must have at least one wheelchair space.
+
+(2) A tramcar with capacity to accommodate 100 or more passengers (including those seated and standing) must have at least two wheelchair spaces.
+
+(3) Subject to sub-paragraph (4), where one or more rail vehicles in a train provide a different class of passenger accommodation from another rail vehicle in that train there must be at least one wheelchair space for each class of passenger accommodation in that train.
+
+(4) Where a train consists of the number of rail vehicles shown in a row of column A of the following table that train must have at least the number of wheelchair spaces shown in the opposite row of column B;
+
+| *A* | *B* |
+| --- | --- |
+| 2 to 7 vehicles | 2 wheelchair spaces |
+| 8 to 11 vehicles | 3 wheelchair spaces |
+| 12 or more vehicles | 4 wheelchair spaces |
+
+#### 19. Wheelchair spaces (obstructions)
+
+There must be no obstruction to prevent, or cause unreasonable difficulty to, a reference wheelchair being manoeuvred in a rail vehicle to, from, into or out of any—
+
+- (a) wheelchair-compatible doorway;
+- (b) wheelchair space; or
+- (c) wheelchair-compatible toilet.
+
+#### 20. Wheelchair spaces (specifications)
+
+(1) A wheelchair space must not be less than—
+
+- (a) 1300 millimetres long measured parallel to the length of the rail vehicle; and
+- (b) 750 millimetres wide measured parallel to the width of the rail vehicle.
+
+(2) Subject to sub-paragraphs (3) and (12), no fittings for the use of passengers, other than disabled persons in wheelchairs, may be installed within a wheelchair space.
+
+(3) Sub-paragraph (2) does not restrict the installation of—
+
+- (a) an overhead luggage rack;
+- (b) an openable window;
+- (c) a handrail that conforms with paragraph 10(4) and with sub-paragraph (9) or (10); or
+- (d) a table or tray that conforms with paragraph 21.
+
+(4) The wheelchair space must incorporate, at one end, a fitting with a minimum width of 700 millimetres capable of preventing a reference wheelchair, with its back against the fitting, from moving or tipping towards the fitting.
+
+(5) The wheelchair space must be fitted with a device which—
+
+- (a) enables a disabled person in a wheelchair to communicate with a person who is in a position to take appropriate action in an emergency, to the same extent as any passenger who is not in a wheelchair can communicate with such a person by the use of an emergency alarm fitted elsewhere than in the wheelchair space;
+- (b) is placed within reach of a person in a reference wheelchair; and
+- (c) is operable by the palm of the hand exerting a force not exceeding 30 newtons.
+
+(6) A device fitted in accordance with sub-paragraph (5) may include a protective cover to prevent accidental operation, provided that such a cover does not affect compliance with the operational requirements of that sub-paragraph.
+
+(7) Subject to sub-paragraph (8), a sign to identify a wheelchair space must be placed immediately next to, or in, the wheelchair space and the sign must conform with either diagram B or E in Schedule 2.
+
+(8) Where a diagram E sign is to be placed other than on a wall against which the back of a wheelchair should be placed, alternative wording to that shown in diagram E may be used on the sign to the extent necessary to advise users where to position their wheelchairs.
+
+(9) If a wheelchair space is to have a horizontal handrail, excluding a handrail fitted in accordance with sub-paragraph (10), the handrail must—
+
+- (a) be fitted onto, and parallel with, the side of the rail vehicle;
+- (b) be not less than 650 millimetres and not more than 1000 millimetres in height measured vertically from the floor; and
+- (c) not protrude into the wheelchair space by more than 90 millimetres.
+
+(10) If a handrail is to be fitted to the ceiling of a rail vehicle, it may protrude into a wheelchair space provided that—
+
+- (a) subject to sub-paragraph (11), it must not do so by more than 250 millimetres measured from the passenger gangway side of that space; and
+- (b) its height must be not less than 1500 millimetres measured vertically from the floor.
+
+(11) In its application to a narrow width vehicle, sub-paragraph (10) (a) has effect as if for 250 millimetres there were substituted 400 millimetres.
+
+(12) Folding or tip-up seats may be installed in a wheelchair space for the use of passengers where the space is not needed by a disabled person in a wheelchair provided the seats, when folded or tipped up, do not protrude into the minimum space required by sub-paragraph (1).
+
+#### 21. Wheelchair spaces (tables and trays)
+
+(1) If tables or trays (whether fixed, adjustable or folding) are fitted for the use of passengers at not less than ten per cent of the seats (other than priority seats) in a rail vehicle, a similar table or tray must be fitted for use in any wheelchair space in that vehicle by a disabled person in a wheelchair.
+
+(2) The operator of a rail vehicle must provide assistance to erect a removable or folding table or tray, or to alter the height of an adjustable table, in a wheelchair space upon request made by or on behalf of a disabled person in a wheelchair.
+
+(3) There must be no obstruction in the space under a table in a wheelchair space other than a table-leg, but any table-leg must be positioned so that unobstructed clearance of not less than 700 millimetres in width is given under the table.
+
+(4) Subject to sub-paragraph (5), the lowest point on the underside of a table or tray top in a wheelchair space must be not less than 720 millimetres in height measured vertically from the floor.
+
+(5) Where an adjustable table is fitted in a wheelchair space—
+
+- (a) it must be capable of being adjusted to meet the requirement of sub-paragraph (4); and
+- (b) there must be adjacent to the table a sign clearly visible from the position of an occupant of a wheelchair in the wheelchair space indicating that the height of the table can be adjusted on request made to a member of the operator's staff.
+
+### PART 2 — ADDITIONAL REQUIREMENTS
+
+#### 1. Doors
+
+Where the opening of all the passenger doors in the side of a rail vehicle is activated by a member of the operator's staff, or activated automatically, the audible warning device required by paragraph 3(3) of Part 1 of this Schedule must emit a distinct sound for a period of not less than 3 seconds commencing when the doors begin to open.
+
+#### 2. Flashing lights
+
+Any flashing lights installed on or inside a rail vehicle which are designed to be operated for the attention of passengers must not flash at a greater frequency than 2 hertz or 2 flashes per second.
+
+#### 3. Floors
+
+At a passenger doorway in the side of a rail vehicle the edge of the floor along the entrance must be illuminated by a light placed within or immediately adjacent to that edge.
+
+#### 4. Passenger information
+
+(1) If horizontal or vertical scrolling displays are used—
+
+- (a) any station names (which may be abbreviated) and any other complete words or messages must be displayed for a minimum of 2 seconds; and
+- (b) horizontal scrolling displays must have a scrolling speed not exceeding 6 characters per second.
+
+(2) In displays, ascenders and descenders must have a minimum size ratio of 20% to upper case characters.
+
+(3) In this paragraph—
+
+- (a) “**ascender**” means that part of any of the letters b, d, f, h, i, j, k, l or t which protrudes above the height of other letters;
+- (b) “**descender**” means that part of any of the letters g, j, p, q or y which protrudes below the level of the base of other letters; and
+- (c) “**other letters**” means the letters a, c, e, m, n, o, r, s, u, v, w, x and z.
+
+#### 5. Seats
+
+Paragraph 13(1) and (6) of Part 1 of this Schedule must be complied with as if the expression “**disabled persons**” includes persons whose mobility is restricted by reason of pregnancy, advanced age or of their accompanying small children.
+
+#### 6. Steps
+
+Inside a rail vehicle, steps which form part of a flight of stairs leading between a lower and upper passenger saloon must comply with the requirements described in paragraphs (a) to (d) of paragraph 14 (1) of Part 1 of this Schedule.
+
+#### 7. Wheelchair spaces (specifications)
+
+As measured when a rail vehicle is on a straight and level track, a wheelchair space must not have a slope with a gradient exceeding five per cent in the transverse plane of the rail vehicle, or any slope in the longitudinal plane of the vehicle.
+
+## SCHEDULE 2 — DIAGRAMS
+
+### (Note - diagrams are not to scale and measurements are given in millimetres)
+
+#### Diagram A (reference wheelchair)
+
+(Regulation 2(1))
+
+[image: see source](https://www.legislation.gov.uk/uksi/2010/432/images/uksi_20100432_en_sld_002)
+
+#### Diagram B (wheelchair sign)
+
+(Schedule 1, paragraphs 6(3) and (4), 16(1) (a) and 20(7))
+
+[image: see source](https://www.legislation.gov.uk/uksi/2010/432/images/uksi_20100432_en_sld_003)
+
+#### Diagram C1 (priority seat)
+
+(Schedule 1, paragraph 13(3) and (7) (d))
+
+[image: see source](https://www.legislation.gov.uk/uksi/2010/432/images/uksi_20100432_en_sld_004)
+
+#### Diagram C2 (facing seats without table)
+
+(Schedule 1, paragraph 13(3) and (7) (d))
+
+[image: see source](https://www.legislation.gov.uk/uksi/2010/432/images/uksi_20100432_en_sld_005)
+
+#### Diagram C3 (non facing seats)
+
+(Schedule 1, paragraph 13(3) and (7) (d))
+
+[image: see source](https://www.legislation.gov.uk/uksi/2010/432/images/uksi_20100432_en_sld_006)
+
+#### Diagram C4 (facing seats with table)
+
+(Schedule 1, paragraph 13(3) and (7) (d))
+
+[image: see source](https://www.legislation.gov.uk/uksi/2010/432/images/uksi_20100432_en_sld_007)
+
+(Note: Minimum clearance of 230 mm required between edge of seat and edge of table to ensure passengers can access and exit seat space standing upright without having to bend their knees).
+
+#### Diagram D1 (hinged handrail – plan view)
+
+(Schedule 1, paragraph 16(1) (f) (iii))
+
+[image: see source](https://www.legislation.gov.uk/uksi/2010/432/images/uksi_20100432_en_sld_008)
+
+#### Diagram D2 (hinged handrail - elevation)
+
+(Schedule 1, paragraph 16(1) (f) (iv))
+
+[image: see source](https://www.legislation.gov.uk/uksi/2010/432/images/uksi_20100432_en_sld_009)
+
+#### Diagram E (alternative wheelchair space sign)
+
+(Schedule 1, paragraph 20(7) and (8))
+
+[image: see source](https://www.legislation.gov.uk/uksi/2010/432/images/uksi_20100432_en_sld_010)
+
+## SCHEDULE 3 — REFURBISHMENT WORK SUBJECT TO PART 1 OF SCHEDULE 1
+
+Regulation 4
+
+<table>
+<tbody>
+<tr><th><em>(1) No.</em></th><th><em>(2) Descriptions of refurbishment work</em></th><th><em>(3) Paragraphs of Part 1 of Schedule 1 which must be complied with</em></th></tr>
+<tr><td colspan="3"><strong>Boarding devices</strong></td></tr>
+<tr><td>1</td><td>A wheelchair space is fitted or a new boarding device is provided for use with a rail vehicle</td><td>1, excluding 1(4) (a) or 1 (5) (b) if the width of the doorway is less than 850 millimetres</td></tr>
+<tr><td colspan="3"><strong>Catering</strong></td></tr>
+<tr><td>2</td><td>Installation of catering facilities</td><td>2</td></tr>
+<tr><td colspan="3"><strong>Doors</strong></td></tr>
+<tr><td>3</td><td>The exterior of a rail vehicle, whether in whole or in part, is repainted including for the purposes of advertising but other than to effect a repair</td><td>3(1), subject to 3(2)</td></tr>
+<tr><td>4</td><td>A vinyl, decal or similar is applied to any part of the exterior of a rail vehicle, including for the purposes of advertising but other than to effect a repair</td><td>3(1), subject to 3(2)</td></tr>
+<tr><td>5</td><td>An audible warning device for a passenger doorway in the side of a rail vehicle is replaced or modified</td><td>3(3) and (5), subject to 3(4) and (6)</td></tr>
+<tr><td colspan="3"><strong>Door controls (power operated)</strong></td></tr>
+<tr><td>6</td><td>A power operated passenger door, or a control device for a power operated passenger door, is replaced or modified</td><td>4</td></tr>
+<tr><td>7</td><td>Only the passenger used part of a control device for a power operated passenger door is replaced or modified, (other than a device to which paragraph 4(3) of Schedule 1 Part 1 applies)</td><td>4(1) (b) to (e) and (5) and where relevant 4(2), subject to 4(6)</td></tr>
+<tr><td>8</td><td>A part of the exterior of a rail vehicle at or near a passenger door control device, or the whole of the exterior of a rail vehicle, is repainted including for the purposes of advertising but other than to effect a repair</td><td>4(1)(d)</td></tr>
+<tr><td>9</td><td>A vinyl, decal or similar is applied to the whole of the exterior of a rail vehicle, or to a part of the exterior of a rail vehicle at or near a passenger door control device, including for the purposes of advertising but other than to effect a repair</td><td>4(1)(d)</td></tr>
+<tr><td colspan="3"><strong>Door handles</strong></td></tr>
+<tr><td>10</td><td>A door handle for the use of passengers, or a door operated by such a handle, is replaced or modified</td><td>5</td></tr>
+<tr><td colspan="3"><strong>Doorways (exterior) and through routes (wheelchair-compatible)</strong></td></tr>
+<tr><td>11</td><td>The entire passenger area of a rail vehicle is replaced or modified and includes a wheelchair space</td><td>6, excluding 6(2)</td></tr>
+<tr><td>12</td><td>A wheelchair space is fitted</td><td>6, excluding 6(2) and 6(5)(b)</td></tr>
+<tr><td>13</td><td>A sign on the exterior of a rail vehicle, which indicates a wheelchair-compatible doorway, is replaced</td><td>6(3), subject to 6(4)</td></tr>
+<tr><td colspan="3"><strong>Doorways (interior) (wheelchair-compatible)</strong></td></tr>
+<tr><td>14</td><td>Improvement works to a rail vehicle, which comprise or include the provision of a wheelchair space (excluding any works to a passenger doorway at the end of a rail vehicle), are carried out</td><td>7(1)</td></tr>
+<tr><td>15</td><td>Improvement works to two rail vehicles which adjoin each other, where the works comprise or include the provision of wheelchair access between the vehicles, are carried out</td><td>7</td></tr>
+<tr><td colspan="3"><strong>Floors</strong></td></tr>
+<tr><td>16</td><td>The floor covering throughout a rail vehicle is replaced</td><td>8</td></tr>
+<tr><td>17</td><td>The floor coverings in all vestibules adjoining passenger doorways in the side of a rail vehicle are replaced, or all the floor coverings in the passenger saloons are replaced</td><td>8, to the extent relevant to the floor coverings being replaced</td></tr>
+<tr><th><strong>18</strong></th><td>The floor covering across the width of the passenger doorway in the side of a rail vehicle is replaced</td><td>8, to the extent relevant to the floor covering being replaced</td></tr>
+<tr><td colspan="3"><strong>Handholds</strong></td></tr>
+<tr><td>19</td><td>A new passenger seat is fitted</td><td>9</td></tr>
+<tr><td>20</td><td>A handhold on a passenger seat is replaced</td><td>9</td></tr>
+<tr><td>21</td><td>The surface of a handhold on a passenger seat is replaced or modified</td><td>9(1)(a) and (b)</td></tr>
+<tr><td colspan="3"><strong>Handrails</strong></td></tr>
+<tr><td>22</td><td>A handrail is fitted otherwise than at the doorway in the side of a rail vehicle</td><td>10(1)(b) (if a tramcar, subject to 10(3)), and 10(4)</td></tr>
+<tr><td>23</td><td>A handrail is fitted above the inside of a doorway in the side of a narrow width vehicle</td><td>10(4) - (6)</td></tr>
+<tr><td>24</td><td>A handrail is fitted at the doorway in the side of a rail vehicle, (otherwise than where item 23 applies)</td><td>10(1)(a), subject to 10 (2), and (4)</td></tr>
+<tr><td>25</td><td>A handrail is replaced</td><td>10(4) – (6)</td></tr>
+<tr><td>26</td><td>The surface of an existing handrail is replaced or modified</td><td>10(4)(c) and (d)</td></tr>
+<tr><td colspan="3"><strong>Passenger information</strong></td></tr>
+<tr><td>27</td><td>An internal or external public address system is replaced or modified, in whole or in part, or a new internal or external system is installed, (excluding updating of electronic message libraries)</td><td>11, to the extent relevant to the rail vehicle and the public address system, or part, which is being replaced, modified or installed</td></tr>
+<tr><td colspan="3"><strong>Request-stop controls</strong></td></tr>
+<tr><td>28</td><td>A request-stop control is fitted</td><td>12</td></tr>
+<tr><td>29</td><td>A request-stop control is replaced or modified</td><td>12(4) and (5)</td></tr>
+<tr><td colspan="3"><strong>Seats</strong></td></tr>
+<tr><td>30</td><td>More than 50% of the seats are replaced</td><td>13</td></tr>
+<tr><td>31</td><td>A priority seat is provided</td><td>13(2) – (7)</td></tr>
+<tr><td colspan="3"><strong>Steps</strong></td></tr>
+<tr><td>32</td><td>The tread on a step at a passenger doorway in the side of a rail vehicle is replaced</td><td>14(1)(a) and (b)</td></tr>
+<tr><td>33</td><td>All the steps at all the passenger doorways in the side of a rail vehicle are replaced or modified</td><td>14(1), (2) and (5)</td></tr>
+<tr><td colspan="3"><strong>Toilets</strong></td></tr>
+<tr><td>34</td><td>A toilet cubicle is replaced, refitted or modified, or a new toilet cubicle is provided</td><td>15</td></tr>
+<tr><td>35</td><td>A fitting or equipment in a toilet cubicle provided for the use of passengers, other than a door control device, is replaced or modified</td><td>15, to the extent relevant to the fitting or equipment being replaced or modified</td></tr>
+<tr><td colspan="3"><strong>Toilets (wheelchair-compatible)</strong></td></tr>
+<tr><td>36</td><td>A toilet cubicle which is accessible to wheelchair users is replaced, refitted or modified, or a new wheelchair-compatible toilet is provided</td><td>16(1), excluding 16 (1)(h)</td></tr>
+<tr><td>37</td><td>An emergency alarm is fitted within a wheelchair-compatible toilet, or other emergency alarms or electrical systems within a rail vehicle are replaced or modified</td><td>16(1)(h) and (2)</td></tr>
+<tr><td>38</td><td>A fitting or equipment described in paragraph 16(1) or (2) of Schedule 1 provided in a wheelchair-compatible toilet is replaced or modified</td><td>16(1) and (2), to the extent relevant to the fitting or equipment being replaced or modified</td></tr>
+<tr><td>39</td><td>The entire passenger area of a rail vehicle is replaced or modified and includes a wheelchair-compatible toilet</td><td>16(3) and (4)</td></tr>
+<tr><td colspan="3"><strong>Transparent surfaces (interior)</strong></td></tr>
+<tr><td>40</td><td>A transparent surface to which paragraph 17 of Schedule 1 applies is replaced</td><td>17</td></tr>
+<tr><td>41</td><td>An internal door which incorporates a transparent surface to which paragraph 17 of Schedule 1 applies is fitted</td><td>17</td></tr>
+<tr><td colspan="3"><strong>Wheelchair spaces (numbers required)</strong></td></tr>
+<tr><td>42</td><td>All passenger seating in a rail vehicle, which does not form part of a train, is replaced</td><td>18(1) or (2) as applicable</td></tr>
+<tr><td>43</td><td>All passenger seating in a rail vehicle, which forms part of a train, is replaced</td><td>18(3) and (4)</td></tr>
+<tr><td colspan="3"><strong>Wheelchair spaces (obstructions)</strong></td></tr>
+<tr><td>44</td><td>A wheelchair space, wheelchair-compatible doorway, or wheelchair-compatible toilet is fitted</td><td>19</td></tr>
+<tr><td colspan="3"><strong>Wheelchair spaces (specifications)</strong></td></tr>
+<tr><td>45</td><td>A wheelchair space is provided, replaced or modified</td><td>20, excluding 20(5) and (6)</td></tr>
+<tr><td>46</td><td>An emergency alarm is fitted within a wheelchair space, or other emergency alarms or electrical systems within a rail vehicle are replaced or modified</td><td>20(5) and (6)</td></tr>
+<tr><td colspan="3"><strong>Wheelchair spaces (tables and trays)</strong></td></tr>
+<tr><td>47</td><td>Tables or trays for the use of passengers (whether fixed, adjustable or folding) are fitted, replaced or modified</td><td>21</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 4 — REFURBISHMENT WORK SUBJECT TO PART 2 OF SCHEDULE 1
+
+Regulations 3 and 4
+
+<table>
+<tbody>
+<tr><th><em>(1) No.</em></th><th><em>(2) Descriptions of refurbishment work</em></th><th><em>(3) Paragraphs of Part 2 of Schedule 1 which must be complied with</em></th></tr>
+<tr><td colspan="3"><strong>Doors</strong></td></tr>
+<tr><td>1</td><td>An audible warning device for a passenger doorway in the side of a rail vehicle is replaced or modified</td><td>1</td></tr>
+<tr><td colspan="3"><strong>Flashing lights</strong></td></tr>
+<tr><td>2</td><td>Any flashing lights designed to be operated for the attention of passengers are installed, replaced or modified on the exterior, or in the interior, of a rail vehicle</td><td>2</td></tr>
+<tr><td colspan="3"><strong>Passenger information</strong></td></tr>
+<tr><td>3</td><td>An internal or external public address system is replaced or modified, in whole or in part, or a new internal or external system is installed (excluding updating of electronic message libraries)</td><td>4, to the extent relevant to the public address system, or part, which is being replaced, modified or installed</td></tr>
+<tr><td colspan="3"><strong>Seats</strong></td></tr>
+<tr><td>4</td><td>Priority seat signage is provided or replaced</td><td>5</td></tr>
+<tr><td colspan="3"><strong>Steps</strong></td></tr>
+<tr><td>5</td><td>The tread on a step on an internal flight of stairs leading between a lower and upper passenger saloon is replaced</td><td>6</td></tr>
+<tr><td>6</td><td>All the steps in a flight of stairs leading between a lower and upper passenger saloon are replaced or modified</td><td>6</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 5 — RAIL VEHICLE ACCESSIBILITY REGULATIONS 1998 - TABLE OF CORRESPONDING PROVISIONS
+
+Regulation 7(2)
+
+| *Regulation of the Rail Vehicle Accessibility Regulations 1998* | *Corresponding paragraphs of Part 1 of Schedule 1* |
+| --- | --- |
+| **Doors** | **Doors** |
+| 4(1) | 3(1) |
+| 4(2) | 3(3) |
+| 4(3)(a) | 3(5)(a) |
+| 4(3)(b) | 3(5)(b) |
+| **Door controls** | **Door controls (power operated)** |
+| 5(1)(a) | 4(1)(a) |
+| 5(1)(b) | 4(1)(b) |
+| 5(1)(c) | 4(1)(c) |
+| 5(1)(d) | 4(1)(d) |
+| 5(1)(e) | 4(1)(e) |
+| 5(2) | 4(2) |
+| 5(3)(a) | 4(3)(a) |
+| 5(3)(b) | 4(3)(b) |
+| 5(3)(c) | 4(3)(c) |
+| 5(4) | 4(4) |
+| **Steps** | **Steps** |
+| 6(1)(a) | 14(1)(a) |
+| 6(1)(b) | 14(1)(b) |
+| 6(1)(c) | 14(1)(c) |
+| 6(1)(d) | 14(1)(e) |
+| 6(1)(e) | 14(1)(f) and (g) |
+| 6(1)(f) | 14(1)(h) |
+| 6(3) | 14(3) |
+| **Floors** | **Floors** |
+| 7(a) | 8(1) |
+| 7(b) | 8(2) |
+| 7(c) | 8(6) |
+| **Seats** | **Seats** |
+| 8(1) | 13(1) |
+| 8(2) | 13(2) |
+| 8(3) | 13(3) |
+| 8(4) | 13(4) |
+| 8(5) | 13(5) |
+| 8(6) | 13(6) |
+| **Tramcar request – stop controls** | **Request-stop controls** |
+| 9(a) | 12(2)(a) |
+| 9(b) | 12(2)(b) |
+| 9(c) | 12(2)(c) |
+| 9(d)(i) | 12(3)(a) and (b) |
+| 9(d)(ii) | 12(3)(a) and (c) |
+| 9(e) | 12(4) |
+| 9(f) | 12(5) |
+| 9(g) | 12(6) |
+| 9(h) | 12(7) |
+| **Interior transparent surfaces** | **Transparent surfaces (interior)** |
+| 10 | 17 |
+| 10 (except in relation to doors) | 17 (except in relation to doors) |
+| 10 (in relation to doors only) | 17 (in relation to doors only) |
+| **Handrails and handholds** | **Handrails** |
+| 11(1)(a) | 10(1)(a) |
+| 11(1)(b) | 10(1)(b) |
+| 11(2)(a) | 10(4)(a) |
+| 11(2)(c) | 10(4)(b) |
+| 11(2)(d) | 10(4)(c) |
+| 11(2)(e) | 10(4)(d) |
+|  | **Handholds** |
+| 11(3)(a) | 9(1)(c) |
+| 11(3)(b) | 9(1)(a) |
+| 11(3)(c) | 9(1)(b) |
+| 11(3)(d) | 9(1)(d) |
+| **Door handles** | **Door handles** |
+| 12 | 5(1) |
+| **Passenger information** | **Passenger information** |
+| 13(1) | 11(1), (2) and (3) |
+| 13(2)(a) | 11(3)(a) |
+| 13(2)(b) | 11(3)(b) |
+| 13(2)(c) | 11(3)(c) |
+| 13(3) | 11(2) |
+| 13(4) | 11(5) |
+| 13(5)(a) | 11(6)(a) |
+| 13(5)(b) | 11(6)(b) |
+| 13(5)(c) | 11(6)(c) |
+| 13(5)(d) | 11(6)(d) |
+| 13(7) | 11(8), (9) and (12) |
+| 13(8) | 11(15) |
+| 13(9) | 11(10) |
+| **Toilets** | **Toilets** |
+| 14(a) | 15(1)(a) |
+| 14(b) | 15(1)(b) |
+| 14(c) | 15(1)(c) |
+| 14(d) | 15(1)(d) |
+| 14(e) | 15(1)(e) |
+| **Wheelchair spaces** | **Wheelchair spaces (numbers required)** |
+| 15(1) | 18(1) |
+| 15(2) | 18(2) |
+| 15(3) | 18(4) |
+| 15(4) | 18(3) |
+| **Wheelchair space specifications** | **Wheelchair spaces (specifications)** |
+| 16(1)(a) | 20(1) |
+| 16(1)(b) | 20(2) |
+| 16(1)(c) | 20(4) |
+| 16(1)(d) | 20(2) |
+| 16(1)(e) | 20(5) |
+| 16(1)(e)(i) | 20(5)(a) |
+| 16(1)(e)(ii) | 20(5)(b) |
+| 16(1)(e)(iii) | 20(5)(c) (save in relation to maximum force) |
+| 16(1)(e)(iv) | 20(5)(c) (only in relation to maximum force) |
+| 16(1)(f) | 20(7) |
+| 16(2)(b) | 20(12) |
+| **Tables** | **Wheelchair spaces (tables and trays)** |
+| 18(1) | 21(1) |
+| 18(2) | 21(2) |
+| 18(3) | 21(3) |
+| 18(4) | 21(4) |
+| **Wheelchair-compatible doorways** | **Doorways (exterior) and through routes (wheelchair-compatible)** |
+| 19(1) | 6(1) |
+| 19(2) | 6(2) |
+| 19(3) | 6(3) |
+| 19(4) | 6(5)(a) |
+| 19(5) | 6(5)(b) and (c) |
+| **Toilets for disabled persons in wheelchairs** | **Toilets (wheelchair-compatible)** |
+| 20(1)(a) | 16(1)(a) |
+| 20(1)(b) | 16(1)(b) |
+| 20(1)(c) | 16(1)(c) |
+| 20(1)(d) | 16(1)(d) |
+| 20(1)(e) | 16(1)(e) |
+| 20(1)(f)(i) | 16(1)(f)(i) |
+| 20(1)(f)(ii) | 16(1)(f)(ii) |
+| 20(1)(f)(iii) | 16(1)(f)(iii) and (iv) |
+| 20(1)(g) | 16(1)(g) |
+| 20(1)(h) | 16(1)(h)(i) and (ii) |
+| 20(1)(i) | 16(1)(h)(iii) |
+| 20(2) | 16(3) and (4) |
+| **20A** | **Wheelchair spaces (obstructions)** |
+| 20A | 19 |
+| **Internal doorways** | **Doorways (interior) (wheelchair-compatible)** |
+| 22(1) | 7(1) |
+| 22(2) | 7(2) |
+| **Boarding devices** | **Boarding devices** |
+| 23(1) | 1(1) |
+| 23(2) | 1(4)(e) and (5)(h) |
+| 23(3) | 1(3) |
+| 23(4)(a) | 1(4)(a) |
+| 23(4)(b) | 1(4)(b) |
+| 23(4)(c) | 1(4)(c) and (d) |
+| 23(4)(d) | 1(4)(f) |
+| 23(4)(e) | 1(4)(g) |
+| 23(4)(f) | 1(4)(h) |
+| 23(4)(g) | 1(4)(i) |
+| 23(4)(h) | 1(4)(j) |
+| 23(5)(a) | 1(6)(a) |
+| 23(5)(b) | 1(6)(b) |
+| 23(5)(c) | 1(6)(c) |
+| 23(5)(d) | 1(5)(i) |
+| 23(5)(e) | 1(6)(d) |
+| 23(6) | 1(5)(i) |
+| 23(7)(a) | 1(5)(a) |
+| 23(7)(b) | 1(5)(b) |
+| 23(7)(c) | 1(5)(c) |
+| 23(7)(d) | 1(5)(e) |
+| 23(7)(e) | 1(5)(f) |
+| 23(7)(f) | 1(5)(d) and ((g) |
+| 23(8) | 1(4)(k) and 1(6)(e) |
+| 23(9) | 1(4)(l) and 1(6)(d) |
+| 23(10) | 1(7) |
+| **Catering** | **Catering** |
+| 24 | 2 |
+
+*(This note is not part of the Regulations)*
+
+These Regulations set accessibility standards (i.e. standards designed to improve accessibility for disabled persons) for passenger vehicles used on light rail systems (e.g. metro, underground and tramways including prescribed guided transport systems) or which are otherwise not subject to EU accessibility specifications (EU accessibility specifications apply to the main line rail system under the interoperability directives as transposed by the Railways (Interoperability) Regulations 2006, (S.I. 2006/397)).
+
+The accessibility standards are set out in Schedule 1. The standards in Part 1 of Schedule 1 must be complied with upon the coming into force of these Regulations in relation to vehicles first used after 31st December 1998, subject to some provisos (including where an exemption has been granted by order) (*regulation 3*). Operators using vehicles on railways are given the option of complying with the EU accessibility specifications instead *(regulation 3(4))*. The additional standards set out in Part 2 of Schedule 1 must be complied with in relation to rail vehicles to which regulation 3 applies if and to the extent provided for by regulation 3(8).
+
+In relation to vehicles first used before 1st January 1999 (and certain other vehicles not subject to regulation 3) the standards in Part 1 of Schedule 1 must be complied with as and when, and to the extent that, before 1st January 2020 refurbishment work is carried out to them, subject to an overriding deadline for compliance of 1st January 2020 (unless an exemption has been granted by order) (*regulation 4*). The additional standards set out in Part 2 of Schedule 1 must be complied with in relation to such vehicles if and to the extent provided for by regulation 4(5).
+
+An operator of a rail vehicle to which the Regulations apply is not to use it for the carriage of passengers without compliance with the regulations (*regulation 5*).
+
+Provision is made for enforcement of the Regulations by the Office of Rail Regulation using certain powers of the Health and Safety at Work etc Act 1974, including the powers to appoint inspectors and for inspectors to service improvement and prohibition notices and institute proceedings for their breach or other offences (*regulation 6*).
+
+The Regulations replace the Rail Vehicle Accessibility Regulations 1998 (S.I. 1998/2456). The differences between the new accessibility standards and those set out in the 1998 Regulations are explained in the Consultation Document relating to these Regulations produced by the Department for Transport and published on their website (*www.dft.gov.uk*) under “Consultations”.
+
+Although the 1998 Regulations are revoked, provision is made for this not to affect the operation of any exemption orders still in force at the coming into force of these Regulations. Any reference to the 1998 standards in such orders is to have effect as a reference to the equivalent standards in these Regulations (*regulation 7*).
+
+These Regulations were notified in draft to the European Commission in accordance with Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034) laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services.
+
+An impact assessment of the effect these Regulations will have on the costs of business can be obtained from the Department for Transport, Great Minster House, 76 Marsham Street, London SW1P 4DR. It is also annexed to the Explanatory Memorandum published with these Regulations on the website of the Office of Public Sector Information (*www.opsi.gov.uk*).
+
+## Annotations
+
+[^c20159101]: Marginal citation: [1995 c.50](https://www.legislation.gov.uk/ukpga/1995/50). Section 46(3), (4), and (8) to (10) and the definition of “operator” in section 46(6) were repealed by the [Disability Discrimination Act 2005 (c.13)](https://www.legislation.gov.uk/ukpga/2005/13), [Schedule 2](https://www.legislation.gov.uk/ukpga/2005/13/schedule/2). Section 46(4A) was inserted by section 6(1) of that Act. In section 46(6) the definition of “rail vehicle” was substituted by section 6(2)(b) of that Act, as inserted by [S.I. 2008/1746](https://www.legislation.gov.uk/uksi/2008/1746), the definitions of “conventional TEN rail system” and “high-speed rail system” were inserted by section 6(2)(a) of that Act, as inserted by that instrument, and the definition of “regulated rail vehicle” was amended by Schedule 1, Part 1, paragraphs 1 and 27(b), of that Act. Section 67(1) and (3) (a) were amended by Schedule 1, Part 1, paragraphs 1 and 33 (1), (2) and (3), of that Act. See section 68(1) of the Disability Discrimination Act 1995, (as amended by Schedule 1, Part 1, paragraphs 1 and 34 (1), (5) and (6) of the Disability Discrimination Act 2005), for definitions of “prescribed” (as used in section 46(7)) and “regulations”.
+
+[^c20159111]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); [section 2(2)](https://www.legislation.gov.uk/uksi/2010/432/section/2/2) was amended by the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51), [section 27(1)](https://www.legislation.gov.uk/ukpga/2006/51/section/27/1) (a); also amended by the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7), [Sch](https://www.legislation.gov.uk/ukpga/2008/7/schedule)edule, Part 1.
+
+[^c20159121]: Marginal citation: [2000 c.38](https://www.legislation.gov.uk/ukpga/2000/38).
+
+[^c20159131]: Marginal citation: The Disabled Persons Transport Advisory Committee was established under section 125 of the [Transport Act 1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67) and has a statutory duty to provide the Secretary of State with advice on the public passenger transport needs of disabled people.
+
+[^c20159141]: Marginal citation: [S.I. 2002/1819](https://www.legislation.gov.uk/uksi/2002/1819).
+
+[^c20159151]: Marginal citation: [S.I. 1996/266](https://www.legislation.gov.uk/uksi/1996/266), to which there are amendments not relevant to these Regulations.
+
+[^M_C_a7948dde-1b48-471a-ae2a-a5483f4e7eb4]: Modification: Regulations continued under new enabling powers in [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15) (1.10.2010 immediately after the commencement of [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279)) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [21](https://www.legislation.gov.uk/uksi/2010/2317/article/21), [Sch. 7](https://www.legislation.gov.uk/uksi/2010/2317/schedule/7)
+
+[^c20159161]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
+
+[^M_F_b8c096f9-79da-47b1-e864-bc2dcf6b9a07]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/432/regulation/2/1) omitted (16.1.2012) by virtue of [The Railways (Interoperability) Regulations 2011 (S.I. 2011/3066)](https://www.legislation.gov.uk/uksi/2011/3066), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/1/2), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2011/3066/schedule/paragraph/2/a)
+
+[^key-7c47aa101dbf6c0f059d956324b9e33d]: Textual amendment: Words in reg. 2 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 8 para. 1(a)](https://www.legislation.gov.uk/uksi/2019/345/schedule/8/paragraph/1/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20159191]: Marginal citation: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42).
+
+[^M_F_f39676ba-cf1a-474d-fcc6-fde220bab7f6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/432/regulation/2/1) substituted (16.1.2012) by virtue of [The Railways (Interoperability) Regulations 2011 (S.I. 2011/3066)](https://www.legislation.gov.uk/uksi/2011/3066), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/1/2), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2011/3066/schedule/paragraph/2/b)
+
+[^key-b927c575e4bfa6b42d31dbf1d3cfa60a]: Textual amendment: Words in reg. 2 inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 8 para. 1(b)](https://www.legislation.gov.uk/uksi/2019/345/schedule/8/paragraph/1/b) (as amended by [S.I. 2020/786](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(12)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20159201]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
+
+[^M_F_dc991051-b1b3-4322-d445-b5bdeb6387ff]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/432/regulation/2/1) inserted (16.1.2012) by virtue of [The Railways (Interoperability) Regulations 2011 (S.I. 2011/3066)](https://www.legislation.gov.uk/uksi/2011/3066), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/1/2), [Sch. para. 2(c)](https://www.legislation.gov.uk/uksi/2011/3066/schedule/paragraph/2/c)
+
+[^key-e3ce89bf723d98f3709249b4064b7b17]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2010/432/regulation/3) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(y)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/y)
+
+[^key-383970027e6c28827cbed25832e9da65]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2010/432/regulation/3/4) substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/345/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c3b8166d57fef7f7e8d3af13d3ed782e]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2010/432/regulation/3/5) substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/345/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a8be52f6c4b50963e1aa1c83ad631d2b]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2010/432/regulation/3/7) substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/345/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-aec026e9aaed77c15646dd54a771b0c5]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2010/432/regulation/6) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(y)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/y)
+
+[^c20159211]: Marginal citation: Section 20(7) was amended by the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), [Schedule 27](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27), [paragraph 49](https://www.legislation.gov.uk/ukpga/2004/33/paragraph/49).
+
+[^c20159221]: Marginal citation: Section 22(1) and (2) were amended by, and section 22(4) was substituted by, the [Consumer Protection Act 1987 (c.43)](https://www.legislation.gov.uk/ukpga/1987/43), [Schedule 3](https://www.legislation.gov.uk/ukpga/1987/43/schedule/3).
+
+[^c20159231]: Marginal citation: Section 23(4) was amended for England and Wales by the [Fire and Rescue Services Act 2004 (c.21)](https://www.legislation.gov.uk/ukpga/2004/21), [Schedule 1](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1), [paragraph 44](https://www.legislation.gov.uk/ukpga/2004/21/paragraph/44), and by [S.I. 2005/1541](https://www.legislation.gov.uk/uksi/2005/1541). Corresponding amendments were made for Scotland by [S.S.I. 2005/383](https://www.legislation.gov.uk/ssi/2005/383) and [S.S.I. 2006/475](https://www.legislation.gov.uk/ssi/2006/475).
+
+[^c20159241]: Marginal citation: Section 24 (2) and (4) were amended by the [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), [section 1(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2) (a).
+
+[^c20159251]: Marginal citation: Section 28(4) was substituted by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960). Section 28(5) was amended by [S.I. 2004/3363](https://www.legislation.gov.uk/uksi/2004/3363). Section 28(9) was inserted by the [Employment Protection Act 1975 (c.71)](https://www.legislation.gov.uk/ukpga/1975/71), [Schedule 15](https://www.legislation.gov.uk/ukpga/1975/71/schedule/15), [paragraph 9](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/9). There are other amendments to section 28 not relevant to these Regulations.
+
+[^c20159261]: Marginal citation: Section 33(1) (c) was amended by the [Employment Protection Act 1975 (c.71)](https://www.legislation.gov.uk/ukpga/1975/71), [Schedule 15](https://www.legislation.gov.uk/ukpga/1975/71/schedule/15), [paragraph 11](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/11), and Schedule 18. Section 33(1) (m) was amended by the [Forgery and Counterfeiting Act 1981 (c.45)](https://www.legislation.gov.uk/ukpga/1981/45), the Schedule, Part 1.
+
+[^c20159271]: Marginal citation: [S.I. 1998/2456](https://www.legislation.gov.uk/uksi/1998/2456).
+
+[^c20159281]: Marginal citation: [S.I. 2000/3215](https://www.legislation.gov.uk/uksi/2000/3215).
+
+[^M_C_7683bd60-0cf5-47a1-a943-fe5759955475]: Modification: Sch. 1 Pt. 1 para. 1(1) excluded (temp. from 30.9.2015 until the end of 29.9.2025) by [The Rail Vehicle Accessibility (B2007 Vehicles) Exemption Order 2015 (S.I. 2015/1631)](https://www.legislation.gov.uk/uksi/2015/1631), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1631/article/1), [3-6](https://www.legislation.gov.uk/uksi/2015/1631/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2015/1631/schedule)

@@ -1,0 +1,91 @@
+---
+title: The Corporation Tax Act 2010 (Factors Determining Substantial Commercial Interdependence) Regulations 2022
+id: uksi/2022/1203
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-11-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/1203
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2022/1203/pdfs/uksiem_20221203_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/1203/pdfs/uksi_20221203_en.pdf
+- http://www.legislation.gov.uk/uksi/2022/1203/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Corporation Tax Act 2010 (Factors Determining Substantial Commercial Interdependence) Regulations 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 1203
+
+Corporation Tax
+
+The Corporation Tax Act 2010 (Factors Determining Substantial Commercial Interdependence) Regulations 2022
+
+Made
+
+17th November 2022
+
+Laid before the House of Commons
+
+21st November 2022
+
+Coming into force
+
+1st April 2023
+
+The Treasury makes the following Regulations in exercise of the power conferred by section 18G(3) of the Corporation Tax Act 2010[^f00001].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Corporation Tax Act 2010 (Factors Determining Substantial Commercial Interdependence) Regulations 2022 and come into force on 1st April 2023.
+
+## 2. Application
+
+These Regulations apply for the purpose of determining whether a relationship between two companies amounts to substantial commercial interdependence for the purposes of section 18G of the Corporation Tax Act 2010 (attribution to persons of rights and powers of their partners).
+
+## 3. Factors to be taken into account in determining substantial commercial interdependence
+
+The factors specified in paragraph 3(3) of Schedule 1 to the National Insurance Contributions Act 2014[^f00002] (companies whose relationship is not one of substantial commercial interdependence) are to be taken into account for the purposes of making the determination referred to in regulation 2.
+
+Nigel Huddleston
+
+Amanda Solloway
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+17th November 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Sections 18A to 18N of the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4) (“CTA 2010”) make provision for a small profits rate of corporation tax that is lower than the main rate of corporation tax. Sections 18A to 18N CTA 2010 also makes provision for marginal relief that provides a gradual increase in the rate of corporation tax between the small profits rate and the main rate.
+
+Where two or more companies are associated, the thresholds at which the small profits rate and marginal relief apply are proportionately reduced.
+
+Section 18E(4) CTA 2010 provides that companies are associated if one has control of the other or both are under the control of the same person or persons. For the purposes of determining who has “control” of a company section 450 CTA 2010 (“control”) and 451 CTA 2010 (section 450: rights to be attributed etc) attribute to an individual all the rights and powers in a company that are held by that person’s associates.
+
+Section 18G CTA (attribution to persons of rights and powers of their partners) modifies the usual effect of sections 450 and 451 CTA 2010 for the purposes of the small profits rate of corporation tax by providing that the required attribution is only triggered if there is a relationship of “substantial commercial interdependence” between two companies.
+
+Section 18G(3) CTA 2010 gives the Treasury power to prescribe factors that are to be taken into account in determining whether a relationship between two companies amounts to substantial commercial interdependence for the purposes of section 18G CTA 2010.
+
+Regulation 3 provides that factors specified in paragraph 3(3) of Schedule 1 to the National Insurance Contributions Act [2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7) (“NICA 2014”) are specified for the purpose of making the determination in section 18G(3) CTA 2010.
+
+Schedule 1 to NICA 2014 also concerns the tax treatment of companies and, as with section 18G of CTA 2010, modifies the usual application of sections 450 and 451 CTA 2010 where there is a relationship of substantial commercial interdependence between two companies. Paragraph 3(3) of Schedule 1 prescribes certain factors that are to be taken into account for the purpose of determining whether there is substantial commercial interdependence.
+
+Accordingly, the effect of this instrument is that the factors prescribed in Schedule 1 to NICA 2014 also apply when considering substantial commercial interdependence under section 18G CTA 2010. This instrument has been drafted with reference to Schedule 1 to NICA 2014, to ensure that the concept of substantial commercial interdependence applies in the same way for the purposes of section 18G CTA 2010 as it applies for the purposes of Schedule 1 to NICA 2014.
+
+Sections 18A to 18N CTA 2010 were inserted by provision in Schedule 1 to the Finance Act [2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26). A Tax Information and Impact Note was published on 3rd March 2021 when that Schedule was published in draft. That Tax Information and Impact Note remains an accurate summary of the impacts that apply to this instrument.
+
+## Annotations
+
+[^f00001]: Footnote: [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4). Section 18G was inserted by paragraph 3 of Schedule 1 to the Finance Act [2021 c. 26](https://www.legislation.gov.uk/ukpga/2021/26).
+
+[^f00002]: Footnote: [2014 c. 7](https://www.legislation.gov.uk/ukpga/2014/7).

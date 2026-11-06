@@ -1,0 +1,46 @@
+---
+title: Public Service Pensions and Judicial Offices Act 2022, section 111
+act: Public Service Pensions and Judicial Offices Act 2022
+section: '111'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2022/7/section/111
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Public Service Pensions and Judicial Offices Act 2022, section 111
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/7
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 111. Establishment of new public schemes and transfer of rights[^key-704d77738adf8811effc9f77cd394578]
+
+*Extent: E+W+S+N.I.*
+
+(1) The Treasury may by regulations establish one or more schemes (“new public schemes”) which provide for pensions or other benefits to be payable to or in respect of persons who are or have been members of the BBS Pension Scheme or the NRAM Pension Scheme.
+
+(2) The Treasury may by regulations make provision for the transfer of qualifying accrued rights to a new public scheme (without the need for any approval or consent to the transfer).
+
+(3) Regulations under subsection (2) may include provision for the discharge of liabilities in respect of qualifying accrued rights that are transferred.
+
+(4) In this Part—
+
+- “**qualifying accrued rights**” means—
+  - (a) any right to future benefits under the BBS Pension Scheme or the NRAM Pension Scheme which, at the qualifying time, has accrued to or in respect of a member of that scheme,
+  - (b) any entitlement under the BBS Pension Scheme or the NRAM Pension Scheme to the present payment of a pension or other benefit which a member of the BBS Pension Scheme or the NRAM Pension Scheme has at the qualifying time, or
+  - (c) any entitlement to benefits, or right to future benefits, under the BBS Pension Scheme or the NRAM Pension Scheme which a survivor of a member of the BBS Pension Scheme or the NRAM Pension Scheme has at the qualifying time in respect of the member;
+- “**the qualifying time**” means the time immediately before the date specified or described in regulations made by the Treasury.
+
+(5) For the purposes of the definition of “qualifying accrued rights”—
+
+- (a) references to pensions or other benefits (including future benefits) includes money purchase benefits, and
+- (b) references to a right include a pension credit right.
+
+(6) Regulations under subsection (4) specifying or describing a date for the purposes of the definition of “the qualifying time” may make provision for the purposes of transfers of qualifying accrued rights generally, transfers of a particular description or a particular transfer.
+
+## Annotations
+
+[^key-704d77738adf8811effc9f77cd394578]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2022/7/section/111) in force at 10.5.2022, see [s. 131(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/3)

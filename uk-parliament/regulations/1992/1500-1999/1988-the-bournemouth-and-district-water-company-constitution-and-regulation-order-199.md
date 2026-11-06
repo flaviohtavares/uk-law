@@ -1,0 +1,146 @@
+---
+title: The Bournemouth and District Water Company (Constitution and Regulation) Order 1992
+id: uksi/1992/1988
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1992-08-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1992/1988
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/1988/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bournemouth and District Water Company (Constitution and Regulation) Order 1992
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1992 No. 1988
+
+WATER INDUSTRY, ENGLAND AND WALES
+
+The Bournemouth and District Water Company (Constitution and Regulation) Order 1992
+
+Made
+
+17th August 1992
+
+Laid before Parliament
+
+24th August 1992
+
+Coming into force
+
+14th September 1992
+
+Whereas provision is made for the constitution and regulation of the Bournemouth and District Water Company (“the Company”) in local statutory provisions (“the relevant provisions”):
+
+And whereas the Company is a statutory water company which holds an appointment as a water undertaker under Chapter I of Part II of the Water Industry Act 1991[^f00001]:
+
+And whereas the relevant provisions would, if the Company became a registered water company[^f00002], have effect in accordance with paragraph 5 of Schedule 21 to the Companies Act 1985[^f00003]:
+
+And whereas the Company has by a special resolution passed on 2nd July 1992 (“the special resolution”) proposed that provision contained in a memorandum and articles described in Schedule 1 to this Order (“the memorandum and articles”), copies of which have been certified as such by the Secretary of State, shall have effect in substitution for the relevant provisions (“the proposal”):
+
+And whereas it appears to the Secretary of State that the requirements set out in paragraphs (a) and (b) of section 12(2) of the Statutory Water Companies Act 1991[^f00004] (“the Act”) are satisfied as respects the proposal:
+
+And whereas it appears to the Secretary of State appropriate in consequence of his approval of the proposal by this Order that the local statutory provisions specified in Schedule 2 to this Order be repealed;
+
+Now, therefore, the Secretary of State, in exercise of powers conferred on him by sections 12(1) and 14 of the Act, hereby makes the following Order:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Bournemouth and District Water Company (Constitution and Regulation) Order 1992 and shall come into force on 14th September 1992.
+
+(2) In this Order—
+
+- “the 1845 Act” means the Companies Clauses Consolidation Act 1845[^f00005]; and
+- “the 1863 Act” means the Companies Clauses Act 1863[^f00006].
+
+## 2. Approval of proposal contained in the special resolution
+
+The proposal contained in the special resolution is hereby approved.
+
+## 3. Date on which memorandum and articles come into force etc.
+
+The date specified for the purposes of section 12(1) of the Act as the date on which the memorandum and articles shall come into force and the relevant provisions shall cease to have effect is 14th September 1992.
+
+## 4. Consequential provision
+
+The local statutory provisions referred to in Schedule 2 hereto are repealed to the extent indicated in that Schedule with effect from 14th September 1992.
+
+Signed by authority of the Secretary of State for the Environment
+
+David Maclean
+
+Minister of State,
+
+Department of the Environment
+
+17th August 1992
+
+## SCHEDULE 1 — DOCUMENTS HAVING EFFECT AS MENTIONED IN SECTION 12(1)(b) OF THE STATUTORY WATER COMPANIES ACT 1991
+
+The documents comprising the Memorandum of Association of Bournemouth Water Plc and the Articles of Association of Bournemouth Water Plc[^f00007].
+
+## SCHEDULE 2 — CONSEQUENTIAL REPEALS
+
+Article 4
+
+### PART I — PROVISIONS OF ENACTMENTS REPEALED
+
+| *Title* | *Reference* | *Extent of repeal* |
+| --- | --- | --- |
+| The Bournemouth Gas and Water Act 1873. | [1873 c.lxxiii](https://www.legislation.gov.uk/ukla/1873/73). | Sections 2, 5, 7, 16, 24, 29 to 31, 34 and 35. |
+| The Bournemouth Gas and Water Act 1878. | [1878 c.ccii](https://www.legislation.gov.uk/ukla/1878/202). | Sections 2, 15, 20, 24 and 33. |
+| The Bournemouth Gas and Water Act 1896. | [1896 c.cxcvi](https://www.legislation.gov.uk/ukla/1896/196). | Section 2 so far as relating to the 1845 Act and the 1863 Act. Sections 11, 45, 47, 48, 51 and 64. |
+| The Bournemouth Gas and Water (Poole Gas Transfer) Act 1902. | [1902 c.lviii](https://www.legislation.gov.uk/ukla/1902/58). | Section 2 so far as relating to the 1845 Act and the 1863 Act. Sections 7 and 19. |
+| The Bournemouth Gas and Water Act 1903. | [1903 c.ccix](https://www.legislation.gov.uk/ukla/1903/209). | Section 22. |
+| The Bournemouth Gas and Water Act 1913. | [1913 c.lxv](https://www.legislation.gov.uk/ukla/1913/65). | Section 2 so far as relating to the 1845 Act and the 1863 Act. Sections 6, 9 to 11, 39, 40, 42, 43 and 60. |
+| The Bournemouth Gas and Water Act 1919. | [1919 c.xlviii](https://www.legislation.gov.uk/ukla/1919/48). | Sections 3, 17, 35, 37, 38 to 40, 43 and 46 to 50. Schedule 3. |
+| The Bournemouth Gas and Water Act 1928. | [1928 c.lxxxvi](https://www.legislation.gov.uk/ukla/1928/86). | Sections 3, 14, 15, 49 and 52. |
+| The Bournemouth Gas and Water Act 1935. | [1935 c.lxxxiii](https://www.legislation.gov.uk/ukla/1935/83). | Sections 3, 8 to 11, 22 and 29. |
+| The Bournemouth Gas and Water Act 1938. | [1938 c.xvi](https://www.legislation.gov.uk/ukla/1938/16). | Sections 4, 9 to 13, 25 and 46. Sections 47, 50 to 54 and 56. |
+| The Bournemouth Gas and Water Act 1940. | [1940 c.xxviii](https://www.legislation.gov.uk/ukla/1940/28). | Sections 3(3) and 33. |
+| The Bournemouth and District Water Act 1951. | [1951 c.xxxiv](https://www.legislation.gov.uk/ukla/1951/34). | Sections 2, 4 to 14 and 19 to 28. |
+
+### PART II — PROVISIONS OF ORDERS REPEALED
+
+| *Title* | *Reference* | *Extent of repeal* |
+| --- | --- | --- |
+| The Bournemouth Gas Order 1934. | S.I. [1934/1415](https://www.legislation.gov.uk/uksi/1934/1415). | Section 2 so far as relating to the 1845 Act and the 1863 Act. Sections 9, 11, 12 and 22. |
+| The Bournemouth and District Water Order 1961. | S.I. [1961/628](https://www.legislation.gov.uk/uksi/1961/628). | Section 3 so far as relating to sections 74 and 78 of the Third Schedule to the Water Act 1945[^f00008]. |
+| The Bournemouth and District Water Order 1970. | S.I. [1970/445](https://www.legislation.gov.uk/uksi/1970/445). | The whole Order. |
+| The Bournemouth and District Water (Capital Powers) Order 1976. | S.I. [1976/863](https://www.legislation.gov.uk/uksi/1976/863). | The whole Order. |
+| The Bournemouth and District Water Order 1978. | S.I. [1978/1194](https://www.legislation.gov.uk/uksi/1978/1194). | The whole Order. |
+| The Bournemouth and District Water Order 1985. | S.I. [1985/88](https://www.legislation.gov.uk/uksi/1985/88). | The whole Order. |
+
+(This note is not part of the Order)
+
+Section 12(1) of the Statutory Water Companies Act 1991 provides for the replacement of provisions relating to the constitution and regulation of a statutory water company contained in its local Acts and Orders by provisions contained in a memorandum and articles which have been approved by special resolution of the members of the company. The replacement provisions have effect only if they are approved by the Secretary of State and come into force on such date as he determines.
+
+This Order approves a proposal by the Bournemouth and District Water Company that a memorandum and articles of association should have effect in substitution for provisions contained in the Company’s local Acts and Orders (article 2). It also provides that the date on which those provisions cease to have effect is 14th September 1992 (article 3) and for the repeal of the superseded provisions and for consequential repeals (article 4).
+
+This Order is associated with the company’s proposal to convert to the status of a registered company under the Companies Act 1985.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
+
+[^f00002]: Footnote: *See* section 15(2) of the Statutory Water Companies Act 1991.
+
+[^f00003]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
+
+[^f00004]: Footnote: [1991 c. 58](https://www.legislation.gov.uk/ukpga/1991/58).
+
+[^f00005]: Footnote: [1845 c. 16](https://www.legislation.gov.uk/ukpga/1845/16).
+
+[^f00006]: Footnote: [1863 c. 118](https://www.legislation.gov.uk/ukpga/1863/118), amended by the Companies Clauses Act [1869 (c. 48)](https://www.legislation.gov.uk/ukpga/1869/48).
+
+[^f00007]: Footnote: A copy of the documents may be inspected at the Department of the Environment, Romney House, 43 Marsham Street, London SW1P 3PY.
+
+[^f00008]: Footnote: [1945 c. 72](https://www.legislation.gov.uk/ukpga/1945/72).

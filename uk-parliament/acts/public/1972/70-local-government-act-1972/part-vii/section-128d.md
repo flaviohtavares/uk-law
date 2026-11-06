@@ -1,0 +1,69 @@
+---
+title: Local Government Act 1972, section 128D
+act: Local Government Act 1972
+section: 128D
+status: revised-with-pending-changes
+text_date: '2026-10-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1972/70/section/128D
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government Act 1972, section 128D
+
+> **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
+>
+> Extent: England, Wales, Scotland.
+
+## 128D. The qualifying conditions[^key-83cbb7a9453827e1927fcdd2667c852d]
+
+*Extent: E+W*
+
+(1) This section sets out the “**qualifying conditions**” (referred to in section 128A(2)(b)).
+
+(2) *Qualifying condition A*: the application for the statutory trust discharge order identifies land in England in relation to which the order is being sought.
+
+(3) *Qualifying condition B*: the applicant for the order is—
+
+- (a) the freehold owner of the relevant land, or
+- (b) the tenant of the relevant land under a long lease, whether granted before or after commencement,
+
+at the time of the application (whether or not by virtue of the previous appropriation or disposal).
+
+(4) *Qualifying condition C*: a principal council, parish council or parish meeting—
+
+- (a) appropriated, or
+- (b) disposed of,
+
+the relevant land at a time before the application for the statutory trust discharge order is made (the “previous appropriation or disposal”).
+
+(5) It does not matter whether the previous appropriation or disposal occurred before or after commencement.
+
+(6) *Qualifying condition D*: the previous advertisement procedure was not complied with in relation to the previous appropriation or disposal.
+
+(7) For the purposes of determining whether qualifying condition D is met—
+
+- (a) it is sufficient that the previous advertisement procedure was not complied with;
+- (b) accordingly, it is irrelevant—
+  - (i) whether the previous advertisement procedure in fact had to be complied with, or
+  - (ii) whether the land was in fact land held in trust for enjoyment by the public in accordance with a trust of the kind mentioned in section 128A(3).
+
+(8) Section 128F includes provision for presuming that the previous advertisement procedure was not complied with; and qualifying condition D must be taken to be met if that presumption is made.
+
+(9) *Qualifying condition E*: the new publicity requirements have been complied with.
+
+(10) *Qualifying condition F*: it is in the public interest for the relevant land to be freed from the trusts by virtue of the order.
+
+(11) The reference in subsection (10) to the public interest includes the public interest in—
+
+- (a) nature conservation;
+- (b) the conservation of the landscape;
+- (c) the protection of public rights of access to the relevant land;
+- (d) the protection of archaeological remains and features of historic interest;
+- (e) development proposals relating to the relevant land;
+- (f) economic, environmental or social benefits which the order would facilitate if made.
+
+## Annotations
+
+[^key-83cbb7a9453827e1927fcdd2667c852d]: Textual amendment: Ss. 128A-128H and cross-heading inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 69(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/69/2), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)

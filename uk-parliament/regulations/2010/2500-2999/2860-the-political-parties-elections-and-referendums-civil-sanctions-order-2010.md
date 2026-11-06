@@ -1,0 +1,543 @@
+---
+title: The Political Parties, Elections and Referendums (Civil Sanctions) Order 2010
+id: uksi/2010/2860
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-11-29'
+text_date: '2025-11-17'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2010/2860
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/2860/pdfs/uksiem_20102860_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/2860/pdfs/uksi_20102860_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/2860/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Political Parties, Elections and Referendums (Civil Sanctions) Order 2010
+
+> Text as at 2025-11-17.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2010 No. 2860
+
+Representation Of The People
+
+The Political Parties, Elections and Referendums (Civil Sanctions) Order 2010
+
+Made
+
+29th November 2010
+
+Coming into force
+
+1st December 2010
+
+The Lord President of the Council makes the following Order in exercise of the powers conferred by paragraphs 1, 2, 5, 9, 10, 15, 16, 18, 19 and 21 of Schedule 19C to the Political Parties, Elections and Referendums Act 2000[^f00001].
+
+The Lord President of the Council has consulted the Electoral Commission pursuant to paragraph 17(1) and (3) of Schedule 19C to that Act.
+
+In accordance with section 156(4A) of that Act[^f00002], a draft of this Order has been laid before and approved by a resolution of each House of Parliament.[^key-94ee8b109e5968f2dd88ff474f1f4954][^key-6d33aacff284004e93df96664f67ec01]
+
+## 1. Citation and commencement[^key-a2bdf1737e711b7b58079a4faa5c409f]
+
+This Order may be cited as the Political Parties, Elections and Referendums (Civil Sanctions) Order 2010 and comes into force on 1st December 2010.
+
+## 2. Interpretation[^key-beb4855c9c083e3f9420cd0bd23022f9]
+
+In this Order—
+
+- “the 2000 Act” means the Political Parties, Elections and Referendums Act 2000;
+- “compliance notice” means a notice imposing a requirement under paragraph 5(5)(b) of Schedule 19C;
+- “final notice” means a notice under paragraph 2(4) or 6(5) of Schedule 19C;
+- “restoration notice” means a notice imposing a requirement under paragraph 5(5)(c) of Schedule 19C; and
+- “Schedule 19C” means Schedule 19C to the 2000 Act.
+
+## 3. Provision made by Schedule 1[^key-c87136ec1189a30f37a6d642ddfd6d4d]
+
+(1) Part 1 of Schedule 1 makes provision for fixed monetary penalties[^f00003].
+
+(2) Part 2 of Schedule 1 makes provision for discretionary requirements[^f00004].
+
+(3) Part 3 of Schedule 1 makes provision for stop notices[^f00005].
+
+(4) Part 4 of Schedule 1 makes provision for enforcement undertakings[^f00006].
+
+## 4. Prescribed offences and prescribed restrictions and requirements[^key-390b43b728e1d1190dd3ffe4e38a3749]
+
+(1) Part 1 of Schedule 2 lists the offences prescribed for the purposes of paragraphs 1(1)(a) , (2)(a), (3)(a) and (4)(a)[^key-cf111e8ab3e474ecb74bf38aa948469e] (fixed monetary penalties), 5(1)(a) , (2)(a), (3)(a) and (4)(a)[^key-7595c3a83e215cba716e5cd41325fc3c] (discretionary requirements), 10(2)(b)(i) and (3)(b)(i) (stop notices) and 15(1)(a)(i) (enforcement undertakings) of Schedule 19C.
+
+(2) Part 2 of Schedule 2 lists the restrictions and requirements prescribed for the purposes of paragraphs 1(1)(b), 5(1)(b), 10(2)(b)(ii) and (3)(b)(ii) and 15(1)(a)(ii) of Schedule 19C.
+
+(3) Part 3 of Schedule 2 lists the restrictions and requirements prescribed for the purposes of paragraphs 1(2)(b), (3)(b) and (4)(b) (fixed monetary penalties) and 5(2)(b), (3)(b) and (4)(b) (discretionary requirements) of Schedule 19C.
+
+## 5. Recovery of payments[^key-efa13141fb7c5a3f86339d8e81704698]
+
+(1) In England and Wales and Northern Ireland, the Commission[^f00007] may recover a fixed monetary penalty, variable monetary penalty[^f00008], non-compliance penalty,[^key-276adbe07b91b3c15d48608344168521] or any interest or other financial penalty for late payment on the order of a court, as if payable under a court order.
+
+(2) In Scotland, the Commission may recover a fixed monetary penalty, variable monetary penalty, non-compliance penalty,[^key-b873ae80253618615f6101c586c2b1f3] or any interest or other financial penalty for late payment as a civil debt.
+
+## 6. Non-compliance penalties[^key-59eb8172fe882d46a542a26666ef7212]
+
+(1) The amount of a non-compliance penalty[^f00009] must be determined by the Commission having regard to all the circumstances of the case and must not be less than £500 nor more than £20,000.
+
+(2) The notice imposing a non-compliance penalty must include information as to—
+
+- (a) the grounds for imposing the non-compliance penalty;
+- (b) the amount of the penalty;
+- (c) the period within which payment must be made, which must not be less than 28 days beginning with the day on which the notice imposing the penalty is received;
+- (d) rights of appeal; and
+- (e) the consequences of failure to make payment within the specified period.
+
+(3) A non-compliance penalty must be paid to the Commission.
+
+(4) If the steps specified in the compliance notice or restoration notice are completed, and a certificate is issued by the Commission under paragraph 6 of Schedule 1, within the period set for payment of the non-compliance penalty the Commission may by notice waive, or reduce the amount of, a non-compliance penalty.
+
+(5) An appeal under paragraph 9(3) of Schedule 19C against a notice imposing a non-compliance penalty must be made within 28 days of the day on which the notice was received.
+
+## 7. Withdrawal or variation of notices[^key-1c7b5bbb3277658d613f82ce80d28cd0]
+
+(1) The Commission may by notice in writing at any time withdraw, reduce the monetary amount payable under, or reduce the steps to be taken under, any final notice.
+
+(2) The Commission may by notice in writing at any time withdraw a stop notice (without prejudice to their power to serve another in respect of the activity specified in the withdrawn notice).
+
+## 8. Appeals[^key-b00695a6f201c5e5638df526e6261a58]
+
+(1) Where an appeal under paragraph 13(1) or (2) of Schedule 19C is made, the stop notice is not suspended unless suspended or varied on the order of the county court or (in Scotland) the sheriff.
+
+(2) On an appeal under paragraph 2(6), 6(6), 9(3) or 13(1) of Schedule 19C the county court or (in Scotland) the sheriff may—
+
+- (a) withdraw, confirm or vary the requirement or notice;
+- (b) take such steps as the Commission could take in relation to the act or omission giving rise to the requirement or notice;
+- (c) remit the decision whether to confirm the requirement or notice, or any matter relating to that decision, to the Commission.
+
+(3) On an appeal under paragraph 13(2) of Schedule 19C or paragraph 8 or 16 of Schedule 1 to this Order, the county court or (in Scotland) the sheriff may make an order requiring the Commission to issue a certificate under paragraph 12 of Schedule 19C or, as the case may be, paragraph 6 or 15 of Schedule 1 to this Order.
+
+Signed by authority of the Lord President of the Council
+
+Mark Harper
+
+Parliamentary Secretary (Minister for Political and Constitutional Reform)
+
+Cabinet Office
+
+29th November 2010
+
+## SCHEDULE 1
+
+Article 3
+
+### PART 1 — Fixed monetary penalties
+
+#### 1. Prescribed amount[^key-c4ba032ba9b68533da1df574c655ef9e]
+
+For the purposes of paragraph 1(5) of Schedule 19C (fixed monetary penalty) the amount prescribed is £200.
+
+#### 2. Discharge of liability[^key-1c17ef31afe9c4c7c6f11aff13401de2]
+
+For the purposes of paragraph 2(2) of Schedule 19C (sum by which penalty may be discharged) the sum prescribed is £200.
+
+#### 3. Appeals[^key-c84b06c324c81eab8249ba114cdb84f6]
+
+(1) An appeal under paragraph 2(6) of Schedule 19C against the decision to impose a fixed monetary penalty must be made within 28 days of the day on which the final notice was received.
+
+(2) The penalty is suspended from the day on which the appeal is made.
+
+(3) The suspension has effect until the day on which the appeal is determined or withdrawn.
+
+#### 4. Late payment[^key-f52ac9f0ea4b628b9f8de7deb6282acc]
+
+(1) Subject to sub-paragraphs (4) and (5), the fixed monetary penalty must be paid within 28 days of the day on which the final notice was received.
+
+(2) If the penalty is not paid within that period the amount payable is increased by 25%.
+
+(3) If the penalty (as increased by sub-paragraph (2)) is not paid within 56 days of the day on which the final notice was received, the amount payable is the amount of the fixed monetary penalty originally imposed increased by 50%.
+
+(4) In the case of an appeal, any penalty which falls to be paid, whether because the court upheld the penalty or varied it, or because the appeal was withdrawn, is payable within 28 days of the day of determination or withdrawal of the appeal, and if not paid within that period the amount payable is increased by 25%.
+
+(5) If the penalty (as increased by sub-paragraph (4)) is not paid within 56 days of the day of the determination or withdrawal of the appeal, the amount payable is the amount of the fixed monetary penalty originally imposed increased by 50%.
+
+### PART 2 — Discretionary Requirements
+
+#### 5. Variable monetary penalties: maximum amount[^key-9d6ae58bce4dde0bc106dcaa775ee643]
+
+The maximum amount that the Commission may impose as a variable monetary penalty is £20,000.
+
+#### 6. Completion[^key-f6571508c1c622d87274aa1a51096918]
+
+(1) Where, after the service of a compliance notice or a restoration notice on a person, the Commission are satisfied that the person has taken the steps specified in the notice, they must issue a certificate to that effect.
+
+(2) A compliance notice or a restoration notice ceases to have effect on the issue of a certificate relating to that notice.
+
+(3) A person on whom a compliance notice or a restoration notice has been served may at any time apply for a certificate and the Commission must make a decision whether to issue a certificate within 28 days of the day on which they receive such an application.
+
+(4) An application under sub-paragraph (3) must be accompanied by such information as is reasonably necessary to enable the Commission to determine whether the compliance notice or restoration notice has been complied with.
+
+(5) Where, on an application under sub-paragraph (3), the Commission decide not to issue a certificate they must notify the applicant and provide the applicant with information as to–
+
+- (a) the grounds for the decision not to issue a certificate; and
+- (b) rights of appeal.
+
+(6) The Commission may revoke a certificate if it was granted on the basis of inaccurate, incomplete or misleading information, and if the Commission revoke a certificate, the compliance notice or restoration notice has effect as if the certificate had not been issued.
+
+#### 7. Appeals[^key-121b486fccac282bb10cd60e46b879ab]
+
+(1) An appeal under paragraph 6(6) of Schedule 19C against the decision to impose a discretionary requirement must be made within 28 days of the day on which the final notice was received.
+
+(2) The requirement is suspended from the day on which the appeal is made.
+
+(3) The suspension has effect until the day on which the appeal is determined or withdrawn.
+
+**8.**[^key-95edd163dff8fc2a4db6e0ec73f37944] (1) A person served with a compliance notice or a restoration notice may appeal to a county court or (in Scotland) the sheriff against a decision not to issue a certificate under paragraph 6 on the ground that the decision was—
+
+- (a) based on an error of fact;
+- (b) wrong in law; or
+- (c) unfair or unreasonable.
+
+(2) An appeal must be made within 28 days of the day on which notification of the decision was received.
+
+#### 9. Late payment[^key-0e388197d1fa37287117e69c0d0d9f1d]
+
+(1) Subject to sub-paragraphs (4) and (5), the variable monetary penalty must be paid within 28 days of the day on which the final notice was received.
+
+(2) If the penalty is not paid within that period the amount payable is increased by 25%.
+
+(3) If the penalty (as increased by sub-paragraph (2)) is not paid within 56 days of the day on which the final notice was received, the amount payable is the amount of the variable monetary penalty originally imposed increased by 50%.
+
+(4) In the case of an appeal, any penalty which falls to be paid, whether because the court upheld the penalty or varied it, or because the appeal was withdrawn, is payable within 28 days of the day of determination or withdrawal of the appeal, and if it is not paid within that period the amount payable is increased by 25%.
+
+(5) If the penalty (as increased by sub-paragraph (4)) is not paid within 56 days of the day of determination or withdrawal of the appeal the amount payable is the amount of the variable monetary penalty originally imposed increased by 50%.
+
+### PART 3 — Stop notices
+
+#### 10. Completion certificates[^key-302eff3e8d256549ed31f29141eebec4]
+
+(1) An application for a completion certificate[^f00010] must be accompanied by such information as is reasonably necessary to enable the Commission to determine whether the stop notice has been complied with.
+
+(2) Where, on an application under paragraph 12(3) of Schedule 19C, the Commission decide not to issue a completion certificate they must notify the applicant and provide the applicant with information as to—
+
+- (a) the grounds for the decision not to issue a completion certificate; and
+- (b) rights of appeal.
+
+**11.**[^key-b650a1b71670f35b3a396b87626435c9] The Commission may revoke a completion certificate if it was granted on the basis of inaccurate, incomplete or misleading information, and if the Commission revoke a completion certificate, the stop notice has effect as if the certificate had not been issued.
+
+#### 12. Appeals[^key-9666488a0ee3fcca231ad6bfd3918980]
+
+(1) An appeal under paragraph 13(1) of Schedule 19C against the decision to serve a stop notice must be made within 28 days of the day on which the notice was received.
+
+(2) An appeal under paragraph 13(2) of Schedule 19C against a decision not to issue a completion certificate must be made within 28 days of the day on which notification of the decision was received.
+
+### PART 4 — Enforcement undertakings
+
+#### 13. Contents of an enforcement undertaking[^key-15faac3ad0c504359a664fec4c152f1c]
+
+(1) An enforcement undertaking must be in writing and include—
+
+- (a) a statement that the undertaking is an enforcement undertaking regulated by the 2000 Act and this Order;
+- (b) the terms of the undertaking;
+- (c) the period within which the action specified in the undertaking must be completed;
+- (d) details of how and when a person is to be considered to have complied with the undertaking; and
+- (e) information as to the consequences of failure to comply in full or in part with the undertaking, including reference to the effect of paragraph 15(2) of Schedule 19C.
+
+(2) The enforcement undertaking may be varied or extended if both parties agree.
+
+#### 14. Publication of enforcement undertakings[^key-660fcd37ce2a623ae198da766e8edd2f]
+
+The Commission may publish any enforcement undertaking which they accept in whatever manner they see fit.
+
+#### 15. Compliance with an enforcement undertaking[^key-9f9b8e2a620520bdfdf91098a00a9eb5]
+
+(1) Where, after accepting an enforcement undertaking from a person, the Commission are satisfied that the undertaking has been complied with in full they must issue a certificate to that effect.
+
+(2) An enforcement undertaking ceases to have effect on the issue of a certificate relating to that undertaking.
+
+(3) A person who has given an enforcement undertaking may at any time apply for a certificate, and the Commission must make a decision whether to issue a certificate within 28 days of the day on which they receive such an application.
+
+(4) An application under sub-paragraph (3) must be accompanied by such information as is reasonably necessary to enable the Commission to determine whether the undertaking has been complied with.
+
+(5) Where, on an application under sub-paragraph (3), the Commission decide not to issue a certificate they must notify the applicant and provide the applicant with information as to–
+
+- (a) the grounds for the decision not to issue a certificate; and
+- (b) rights of appeal.
+
+(6) The Commission may revoke a certificate if it was granted on the basis of inaccurate, incomplete or misleading information, and if the Commission revoke a certificate, the enforcement undertaking has effect as if the certificate had not been issued.
+
+#### 16. Appeals[^key-79073b921dcaaf4d327c7f7dc443d043]
+
+(1) A person who has given an enforcement undertaking may appeal to a county court or (in Scotland) the sheriff against a decision not to issue a certificate under paragraph 15 on the ground that the decision was—
+
+- (a) based on an error of fact;
+- (b) wrong in law; or
+- (c) unfair or unreasonable.
+
+(2) An appeal must be made within 28 days of the day on which notification of the decision was received.
+
+## SCHEDULE 2 — Prescribed Offences, Restrictions and Requirements
+
+### PART 1 — Prescribed Offences[^key-cf4b9cb87633e33b03847c59c5502a8c]
+
+Article 4(1)
+
+| Provision creating offence | Offence |
+| --- | --- |
+| section 24(8)[^f00011] | registration as treasurer where convicted of certain offences |
+| section 43(7) | failure to deliver statement relating to auditor’s resignation etc. |
+| section 47(1)(a)[^f00012] | failure to deliver proper statement of accounts |
+| section 47(1)(b) | failure to deliver accounts within time limits |
+| section 54(7) | failure to provide information about donors |
+| section 56(3), (3B) or (4)[^f00013] | failure to return donations |
+| section 65(3)[^f00014] | failure to deliver donation reports to Commission within time limits |
+| section 65(4) | failure to comply with requirements for recording donations in donation report |
+| section 71L(1)[^f00015] | registered party entering into regulated transaction with unauthorised participant |
+| section 71L(2) | treasurer of party entering into regulated transaction with unauthorised participant |
+| section 71L(3) | party liable if treasurer fails to repay money obtained under regulated transaction with unauthorised participant |
+| section 71L(4) | treasurer failing to repay money obtained under regulated transaction with unauthorised participant |
+| section 71L(5) | party benefiting from connected transaction to which an unauthorised participant is a party |
+| section 71L(6) | treasurer of registered party which benefits from connected transaction to which an unauthorised participant is a party |
+| section 71L(7) | party liable if treasurer fails to repay benefit obtained in consequence of security given by unauthorised participant |
+| section 71L(8) | treasurer failing to repay benefit obtained in consequence of security given by unauthorised participant |
+| section 71S(4)[^f00016] | failure to deliver transaction reports to Commission within time limits |
+| section 71S(5) | failure to comply with requirements for recording transactions in transaction report |
+| section 74(4) | acceptance by ineligible person of office of deputy treasurer |
+| section 75(2) | incurring campaign expenditure without authority |
+| section 76(4)(a) | making payments in respect of campaign expenditure without authority |
+| section 76(4)(b) | failure to notify treasurer of payments in respect of campaign expenditure |
+| section 77(3)(a) | paying claim in respect of campaign expenditure where failure to comply with procedure |
+| section 77(3)(b) | paying claim in respect of campaign expenditure outside specified time period |
+| section 79(2) | exceeding limits on campaign expenditure |
+| section 82(4)(a) | failure of treasurer to deliver return and auditor’s report to Commission |
+| section 82(4)(b) | failure to comply with requirements for returns |
+| section 82(4)(c) | failure of treasurer to deliver return and court order to Commission |
+| section 83(3)(b) | failure to deliver signed declaration with return to Commission |
+| section 90(2) | incurring controlled expenditure without authority |
+| section 91(4)(a) | making payments in respect of controlled expenditure without authority |
+| section 91(4)(b) | failure to notify responsible person of payments in respect of controlled expenditure |
+| section 92(3)(a) | paying claim in respect of controlled expenditure where failure to comply with procedure |
+| section 92(3)(b) | paying claim in respect of controlled expenditure outside specified time period |
+| section 94(2) or (4) | exceeding limits on controlled expenditure |
+| section 94E(2) or (3)[^key-7f41c6b3cf2a31ce0ab79701e821b664] | exceeding limits on targeted controlled expenditure when not authorised |
+| section 95C(1)(a) | failure of responsible person to deliver quarterly or weekly report to Commission |
+| section 95C(1)(b) | failure to deliver signed declaration with quarterly or weekly report to the Commission |
+| section 95C(1)(c) | failure of responsible person to deliver statement of accounts and auditor’s report to Commission |
+| section 98(4)(a) | failure of responsible person to deliver return and auditor’s report to Commission |
+| section 98(4)(aa) | failure of responsible person to deliver statement of accounts and auditor’s report to Commission |
+| section 98(4)(ba) | failure to comply with requirements for statements of accounts |
+| section 98(4)(b) | failure to comply with requirements for returns |
+| section 98(4)(c) | failure to deliver return and court order to Commission |
+| section 99(4)(b) | failure to deliver signed declaration with return to Commission |
+| section 99A(3)(b) | failure to deliver signed declaration with statement of accounts to Commission |
+| section 113(2) | incurring referendum expenses without authority |
+| section 114(4)(a) | making payments in respect of referendum expenses without authority |
+| section 114(4)(b) | failure to notify responsible person of payments in respect of referendum expenses |
+| section 115(3)(a) | paying claim in respect of referendum expenses where failure to comply with procedure |
+| section 115(3)(b) | paying claim in respect of referendum expenses outside specified time period |
+| section 117(2) | individual (other than permitted participant) exceeding limits on referendum expenses |
+| section 117(3) or (4) | body (other than permitted participant) exceeding limits on referendum expenses |
+| section 118(2) | permitted participant exceeding limits on referendum expenses |
+| section 122(4)(a) | failure to deliver return and auditor’s report to Commission |
+| section 122(4)(b) | failure to comply with requirements for returns |
+| section 122(4)(c) | failure to deliver return and court order to Commission |
+| section 123(4)(b) | failure to deliver signed declaration with return to Commission |
+| section 126(8) and (9) | printing or publishing referendum material without details of printer or publisher |
+| section 143(8) or (9) | printing or publishing election material without details of printer or publisher |
+| section 148(2)(a) | failure to supply relevant person with information |
+| paragraph 1B of Schedule 7[^f00017] | failure by members association to comply with requirement to appoint responsible person |
+| paragraph 6(5) of Schedule 7 | failure to provide information about donors |
+| paragraph 12(1) of Schedule 7[^f00018] | failure to deliver donation report to Commission within time limit |
+| paragraph 12(2) of Schedule 7 | failure to comply with requirements for recording donations in donation reports |
+| paragraph 8(3) of Schedule 7A[^f00019] | individual regulated participant failing to repay money obtained under controlled transaction with unauthorised participant |
+| paragraph 8(4) of Schedule 7A | responsible person failing to repay money obtained by members association under controlled transaction with unauthorised participant |
+| paragraph 8(7) of Schedule 7A | individual regulated participant failing to repay value of benefit obtained in consequence of connected transaction involving unauthorised participant |
+| paragraph 8(8) of Schedule 7A | responsible person failing to repay value of benefit obtained by members association in consequence of connected transaction involving unauthorised participant |
+| paragraph 12(1) of Schedule 7A | failure to deliver transaction report to Commission within time limit |
+| paragraph 12(2) of Schedule 7A | failure to comply with requirements for recording transactions on transaction reports |
+| paragraph 6(7) of Schedule 11 | failure to provide information about donors |
+| paragraph 6(8) of Schedule 15 | failure to provide information about donors |
+| paragraph 6(1) of Schedule 19A[^f00020] | failure to give notification or report within specified period |
+| paragraph 6(2) of Schedule 19A | giving notification or report that fails to comply with requirements of that Schedule |
+| paragraph 13(1) of Schedule 19B[^f00021] | failure to comply with investigation requirement |
+
+### PART 2 — Prescribed Restrictions and Requirements[^key-a75da1e1006e478986e4828a738bab36]
+
+Article 4(2)
+
+| Provision containing restriction or requirement | Restriction or requirement |
+| --- | --- |
+| section 31(1) or (3A)[^f00022] | notification required to be given by the treasurer of a registered party |
+| section 34(3)[^f00023] | requirement to submit annual notification of minor party details on time |
+| section 41(1) | requirement to keep accounts |
+| section 41(4) or (5) | requirement to maintain accounts for six years |
+| section 74(6) | requirement for the treasurer to notify the Commission of change of details |
+| paragraph 4(1) and (3) of Schedule 6 | requirement to give details of the nature and value of a non-cash donation |
+
+### PART 3 — Prescribed restrictions or requirements for which party or organisation may be liable for actions of an office holder or responsible person[^key-ba4ebf002defe97821b9f8748cf1d484]
+
+Article 4(3)
+
+| Provision containing restriction or requirement | Restriction or requirement |
+| --- | --- |
+| section 31(1)<br>or (3A) | notification required to be given by the treasurer of a registered party |
+| section 34(3) | requirement to submit annual notification of minor party details on time |
+| section 41(1) | requirement to keep accounts |
+| section 41(4) or (5) | requirement to maintain accounts for six years |
+| section 45(1) or (2)[^f00024] | requirement to deliver any statement of accounts, notification or auditor’s report relating to a registered party or any accounting unit of such a party |
+| section 65(1) or (2) | requirement to deliver any donation report relating to a registered party |
+| section 74(6) | requirement for the treasurer to notify the Commission of change of details |
+| section 82(1), (2) or (3) | requirement in relation to any return or auditor’s report relating to a registered party |
+| section 98(1), (2) or (3) | requirement in relation to any return or auditor’s report relating to a recognised third party |
+| section 122(1), (2) or (3) | requirement in relation to any return or auditor’s report relating to a permitted participant |
+| paragraph 4(1) and (3) of Schedule 6 | requirement in relation to any requirement to give details of the nature and value of a non-cash donation |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order is made under Schedule 19C to the Political Parties, Elections and Referendums Act 2000. It permits the Electoral Commission to impose civil sanctions in relation to the offences and the restrictions and requirements prescribed in Schedule 2 to the Order.
+
+The Order prescribes the offences, restrictions and requirements for which a civil sanction may be imposed by the Commission.
+
+The civil sanctions are:
+
+- fixed monetary penalties (for which supplementary provision is made at Part 1 of Schedule 1);
+- discretionary requirements (variable monetary penalties, compliance notices or restoration notices) (Part 2 of Schedule 1);
+- stop notices (Part 3 of Schedule 1); and
+- enforcement undertakings (Part 4 of Schedule 1).
+
+In relation to monetary penalties, the Order makes provision for:
+
+- prescribed or minimum and maximum amounts (article 6 and paragraphs 1, 2 and 5 of Schedule 1); and
+- late payment penalties (paragraphs 4 and 9 of Schedule 1).
+
+The Order also makes provision:
+
+- allowing the Commission to withdraw, or to reduce the penalty or steps to be taken under a notice;
+- for appeals against notices imposing civil sanctions, and decisions of the Commission not to certify completion, including time limits for the making of such appeals (article 8 and paragraphs 3, 7, 8, 12 and 16 of Schedule 1);
+- setting out the procedure for entering into an enforcement undertaking and the terms to be included in such an undertaking (paragraphs 13 and 14 of Schedule 1); and
+- that the Commission must certify that the Commission are satisfied that a discretionary requirement or enforcement undertaking has been complied with (paragraphs 6 and 15 of Schedule 1).
+
+An impact assessment of the effect of this instrument is annexed to the Explanatory Memorandum which is available alongside the instrument on the OPSI website.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41). Schedule 19C is inserted by section 3(2) of and Schedule 2 to the Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12). Section 159A of the 2000 Act provides that in the 2000 Act “the Secretary of State” means the Secretary of State or the Lord President of the Council. Section 159A was inserted by article 20 of and paragraph 25(3) of Schedule 2 to the Transfer of Functions (Transport, Local Government and the Regions) Order 2002 ([S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626)). Article 4 of the Lord President of the Council Order 2010 ([S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837)) provides that the functions under the 2000 Act that were previously exercisable concurrently by the Secretary of State and the Lord Chancellor are instead exercisable concurrently by the Secretary of State and the Lord President of the Council, and article 5 of and paragraph 9 of the Schedule to that Order made consequential amendments to section 159A of the 2000 Act.
+
+[^f00002]: Footnote: Section 156(4A) is inserted by section 3(4) of the Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12).
+
+[^key-94ee8b109e5968f2dd88ff474f1f4954]: Modification: [Order](https://www.legislation.gov.uk/uksi/2010/2860) applied (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 50](https://www.legislation.gov.uk/ukpga/2022/37/section/50), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+
+[^key-6d33aacff284004e93df96664f67ec01]: Modification: Order applied (with modifications) (S.) (17.11.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 56](https://www.legislation.gov.uk/asp/2025/4/section/56), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
+
+[^key-a2bdf1737e711b7b58079a4faa5c409f]: Commencement: Art. 1 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-beb4855c9c083e3f9420cd0bd23022f9]: Commencement: Art. 2 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-c87136ec1189a30f37a6d642ddfd6d4d]: Commencement: Art. 3 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^f00003]: Footnote: “Fixed monetary penalty” is defined at paragraph 1(5) of Schedule 19C.
+
+[^f00004]: Footnote: “Discretionary requirement” is defined at paragraph 5(5) of Schedule 19C.
+
+[^f00005]: Footnote: “Stop notice” is defined at paragraph 10(1) of Schedule 19C.
+
+[^f00006]: Footnote: “Enforcement undertaking” is defined at paragraph 15(1)(b) of Schedule 19C.
+
+[^key-390b43b728e1d1190dd3ffe4e38a3749]: Commencement: Art. 4 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-cf111e8ab3e474ecb74bf38aa948469e]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2010/2860/article/4/1) inserted (14.2.2014) by [The Political Parties, Elections and Referendums (Civil Sanctions) (Amendment) Order 2014 (S.I. 2014/335)](https://www.legislation.gov.uk/uksi/2014/335), [arts. 1](https://www.legislation.gov.uk/uksi/2014/335/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2014/335/article/2/1/a)
+
+[^key-7595c3a83e215cba716e5cd41325fc3c]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2010/2860/article/4/1) inserted (14.2.2014) by [The Political Parties, Elections and Referendums (Civil Sanctions) (Amendment) Order 2014 (S.I. 2014/335)](https://www.legislation.gov.uk/uksi/2014/335), [arts. 1](https://www.legislation.gov.uk/uksi/2014/335/article/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2014/335/article/2/1/b)
+
+[^key-efa13141fb7c5a3f86339d8e81704698]: Commencement: Art. 5 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^f00007]: Footnote: “The Commission” is defined in section 1(1) of the 2000 Act.
+
+[^f00008]: Footnote: “Variable monetary penalty” is defined at paragraph 5(7) of Schedule 19C.
+
+[^key-276adbe07b91b3c15d48608344168521]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2010/2860/article/5/1) inserted (14.2.2014) by [The Political Parties, Elections and Referendums (Civil Sanctions) (Amendment) Order 2014 (S.I. 2014/335)](https://www.legislation.gov.uk/uksi/2014/335), [arts. 1](https://www.legislation.gov.uk/uksi/2014/335/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/335/article/3/2)
+
+[^key-b873ae80253618615f6101c586c2b1f3]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2010/2860/article/5/2) inserted (14.2.2014) by [The Political Parties, Elections and Referendums (Civil Sanctions) (Amendment) Order 2014 (S.I. 2014/335)](https://www.legislation.gov.uk/uksi/2014/335), [arts. 1](https://www.legislation.gov.uk/uksi/2014/335/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/335/article/3/3)
+
+[^key-59eb8172fe882d46a542a26666ef7212]: Commencement: Art. 6 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^f00009]: Footnote: “Non-compliance penalty” is defined at paragraph 9(1) of Schedule 19C.
+
+[^key-1c7b5bbb3277658d613f82ce80d28cd0]: Commencement: Art. 7 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-b00695a6f201c5e5638df526e6261a58]: Commencement: Art. 8 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-c4ba032ba9b68533da1df574c655ef9e]: Commencement: Sch. 1 para. 1 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-1c17ef31afe9c4c7c6f11aff13401de2]: Commencement: Sch. 1 para. 2 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-c84b06c324c81eab8249ba114cdb84f6]: Commencement: Sch. 1 para. 3 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-f52ac9f0ea4b628b9f8de7deb6282acc]: Commencement: Sch. 1 para. 4 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-9d6ae58bce4dde0bc106dcaa775ee643]: Commencement: Sch. 1 para. 5 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-f6571508c1c622d87274aa1a51096918]: Commencement: Sch. 1 para. 6 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-121b486fccac282bb10cd60e46b879ab]: Commencement: Sch. 1 para. 7 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-95edd163dff8fc2a4db6e0ec73f37944]: Commencement: Sch. 1 para. 8 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-0e388197d1fa37287117e69c0d0d9f1d]: Commencement: Sch. 1 para. 9 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-302eff3e8d256549ed31f29141eebec4]: Commencement: Sch. 1 para. 10 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^f00010]: Footnote: “Completion certificate” is defined at paragraph12(1) of Schedule 19C.
+
+[^key-b650a1b71670f35b3a396b87626435c9]: Commencement: Sch. 1 para. 11 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-9666488a0ee3fcca231ad6bfd3918980]: Commencement: Sch. 1 para. 12 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-15faac3ad0c504359a664fec4c152f1c]: Commencement: Sch. 1 para. 13 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-660fcd37ce2a623ae198da766e8edd2f]: Commencement: Sch. 1 para. 14 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-9f9b8e2a620520bdfdf91098a00a9eb5]: Commencement: Sch. 1 para. 15 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-79073b921dcaaf4d327c7f7dc443d043]: Commencement: Sch. 1 para. 16 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^key-cf4b9cb87633e33b03847c59c5502a8c]: Commencement: Sch. 2 Pt. 1 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^f00011]: Footnote: Section 24(8) is amended by paragraph 3 of the Schedule to [S.I. 2004/366](https://www.legislation.gov.uk/uksi/2004/366).
+
+[^f00012]: Footnote: Section 47(1) is amended by section 13(2) of the Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12).
+
+[^f00013]: Footnote: Section 56(3B) is inserted by section 12 of the Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12).
+
+[^f00014]: Footnote: Section 65(3) and (4) is amended by section 13(3)(a) of and paragraph 17 of Schedule 6 to the Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12).
+
+[^f00015]: Footnote: Section 71L is inserted by section 61(1) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
+
+[^f00016]: Footnote: Section 71S is inserted by section 61(1) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22) and subsections (4) and (5) are amended by section 13(4)(a) of the Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12).
+
+[^key-7f41c6b3cf2a31ce0ab79701e821b664]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2010/2860/schedule/2/part/1) inserted (19.9.2014) by [The Political Parties, Elections and Referendums (Civil Sanctions) (Amendment) (No.2) Order 2014 (S.I. 2014/2448)](https://www.legislation.gov.uk/uksi/2014/2448), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2448/article/1), [2](https://www.legislation.gov.uk/uksi/2014/2448/article/2)
+
+[^f00017]: Footnote: Paragraph 1B is inserted by section 14(3) of the Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12).
+
+[^f00018]: Footnote: Paragraph 12(1) and (2) is amended by paragraph 154(7) of Part 7 of Schedule 1 to the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22) and sections 13(5) and 14(4) of the Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12).
+
+[^f00019]: Footnote: Schedule 7A is inserted by paragraph 99 of Schedule 1 to the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22). Paragraph 12(1) and (2) is amended by sections 13(6) and 16(3) of the Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12).
+
+[^f00020]: Footnote: Schedule 19A is inserted by Schedule 5 to the Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12).
+
+[^f00021]: Footnote: Schedule 19B is inserted by Schedule 1 to the Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12).
+
+[^key-a75da1e1006e478986e4828a738bab36]: Commencement: Sch. 2 Pt. 2 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^f00022]: Footnote: Section 31(3A) is inserted by paragraph 6(b) of the Schedule to [S.I. 2004/366](https://www.legislation.gov.uk/uksi/2004/366).
+
+[^f00023]: Footnote: Section 34(3) is amended by paragraph 143(2) of Part 7 of Schedule 1 to the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
+
+[^key-ba4ebf002defe97821b9f8748cf1d484]: Commencement: Sch. 2 Pt. 3 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+
+[^f00024]: Footnote: Section 45(1) is amended by section 54 of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).

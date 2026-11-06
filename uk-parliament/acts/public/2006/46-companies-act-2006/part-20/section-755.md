@@ -1,0 +1,40 @@
+---
+title: Companies Act 2006, section 755
+act: Companies Act 2006
+section: '755'
+status: revised-with-pending-changes
+text_date: '2026-07-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2006/46/section/755
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies Act 2006, section 755
+
+> **Warning: changes not yet applied to this text (20).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/46
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 755. Prohibition of public offers by private company
+
+*Extent: E+W+S+N.I.*
+
+(1) A private company limited by shares or limited by guarantee and having a share capital must not—
+
+- (a) offer to the public any securities of the company, or
+- (b) allot or agree to allot any securities of the company with a view to their being offered to the public.
+
+(2) Unless the contrary is proved, an allotment or agreement to allot securities is presumed to be made with a view to their being offered to the public if an offer of the securities (or any of them) to the public is made—
+
+- (a) within six months after the allotment or agreement to allot, or
+- (b) before the receipt by the company of the whole of the consideration to be received by it in respect of the securities.
+
+(3) A company does not contravene this section if—
+
+- (a) it acts in good faith in pursuance of arrangements under which it is to re-register as a public company before the securities are allotted, or
+- (b) as part of the terms of the offer it undertakes to re-register as a public company within a specified period, and that undertaking is complied with.
+
+(4) The specified period for the purposes of subsection (3)(b) must be a period ending not later than six months after the day on which the offer is made (or, in the case of an offer made on different days, first made).
+
+(5) In this Chapter “**securities**” means shares or debentures.

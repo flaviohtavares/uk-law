@@ -1,0 +1,398 @@
+---
+title: The Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998
+id: uksi/1998/2327
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1998-09-19'
+text_date: '2000-04-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1998/2327
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1998/2327/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998
+
+> Text as at 2000-04-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1998 No. 2327 (C. 53)
+
+CRIMINAL LAW, ENGLAND AND WALES
+
+CRIMINAL LAW, SCOTLAND
+
+CRIMINAL LAW, NORTHERN IRELAND
+
+The Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998
+
+Made
+
+19th September 1998
+
+In exercise of the powers conferred upon him by section 121 of the Crime and Disorder Act 1998[^f00001], the Secretary of State hereby makes the following Order:
+
+**1.**[^key-8e1f3c9b77745287ef7eba78d0a8f287] (1) This Order may be cited as the Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998.
+
+(2) In this Order, “the 1998 Act” means the Crime and Disorder Act 1998.
+
+**2.**[^key-cdc938dd3c9c32eeb4bf32d3e6005425] (1) The following provisions of the 1998 Act shall, subject to articles 5 to 8 below, come into force on 30th September 1998–
+
+- (a) sections 5 to 9 (crime and disorder strategies; parenting orders);
+- (b) section 10(1) to (5) (appeals against parenting orders);
+- (c) sections 11 and 12 (child safety orders);
+- (d) section 13(1) and (2) (appeals against child safety orders);
+- (e) sections 14 and 15 (local child curfew schemes);
+- (f) sections 17 and 18 (duty to consider crime and disorder implications; interpretation);
+- (g) sections 28 to 37 (racially aggravated offences; abolition of doli incapax; effect of child’s evidence at trial; abolition of death penalty for treason and piracy; aim of youth justice system);
+- (h) section 38(4) (definition of youth justice services);
+- (i) sections 41 and 42 and Schedule 2 (Youth Justice Board), to the extent that they are not already in force;
+- (j) section 43(1) (time limits);
+- (k) sections 47 and 48 (powers of youth courts; and of stipendiary magistrates to sit alone);
+- (l) section 50 (early administrative hearings);
+- (m) section 52(6) (indictable-only offences) and Schedule 3, for the purpose of making both regulations under paragraph 1 of that Schedule and rules which make such provision as is mentioned in paragraph 2(7) of that Schedule;
+- (n) sections 53 to 64 and Schedule 4 (criminal justice system: miscellaneous; dealing with sexual or violent offenders; and those dependent on drugs);
+- (o) sections 67 to 70 and Schedule 5 (reparation orders; action plan orders);
+- (p) section 71(5) (selection of supervisor for supervision order);
+- (q) section 72 (breach of requirements in supervision orders);
+- (r) sections 82 and 83 (increase in sentences for racial aggravation; power to make confiscation orders on committal for sentence);
+- (s) sections 85 to 96 and Schedule 6 (interpretation; extended sentences for sex and violent offenders in Scotland; drug treatment and testing orders in Scotland; offences racially aggravated in Scotland);
+- (t) section 97, for the purpose of making an order under section 23 of the 1969 Act (prescribed description of children and young persons who may be remanded or committed to local authority secure accommodation);
+- (u) section 100(1), for the purpose of making orders under section 37A of the 1991 Act (responsible officers for offenders released on licence with curfew conditions);
+- (v) sections 101 and 102 (early release: two or more sentences; restriction on consecutive sentences for released prisoners);
+- (w) sections 104 to 108 and Schedule 7 (release on licence following recall or return to prison; pre-consolidation amendments; amendments to Chapter I of Part II of the 1997 Act; repeal of Chapter I of Part III of the Crime and Punishment (Scotland) Act 1997[^f00002];
+- (x) sections 110 to 113 and 115 (calculation of period of detention at custom office etc. where person previously detained; early release in Scotland: two or more sentences; restriction on consecutive sentences for released prisoners: Scotland; deputy authorising officer under Part III of Police Act 1997; disclosure of information);
+- (y) sections 118 and 119 and the provisions of Schedule 8 mentioned in paragraph (2) below (provision for Northern Ireland; minor and consequential amendments);
+- (z) section 120(1) and paragraphs 1 to 4, 6, 8, 11, 12(1) and (3) to (9), and 13 to 15 of Schedule 9 (transitional provisions and savings); and
+- (aa) section 120(2) and Schedule 10 so far as they repeal the provisions mentioned in paragraph (3) below (repeals).
+
+(2) The provisions of Schedule 8 referred to in paragraph (1)(y) above are–
+
+- (a) paragraph 2;
+- (b) paragraph 4;
+- (c) paragraph 9(1)(b);
+- (d) paragraph 10(a);
+- (e) paragraph 11;
+- (f) paragraph 13;
+- (g) paragraph 16;
+- (h) paragraph 18;
+- (i) paragraphs 20 and 21;
+- (j) paragraph 24;
+- (k) paragraph 30;
+- (l) paragraph 34(1) and (2);
+- (m) paragraph 38;
+- (n) paragraph 40(1);
+- (o) paragraphs 42 and 43;
+- (p) paragraphs 46 and 47;
+- (q) paragraph 50(5);
+- (r) paragraphs 53 and 54;
+- (s) paragraphs 56 to 60;
+- (t) paragraph 62;
+- (u) paragraphs 68 to 72;
+- (v) paragraphs 74 and 75;
+- (w) paragraph 77(b);
+- (x) paragraph 78(a) and (c);
+- (y) paragraphs 79 to 82;
+- (z) paragraph 83(1)(a) and (4) to (6);
+- (aa) paragraphs 84 and 85;
+- (bb) paragraph 87;
+- (cc) paragraph 88(1), (2) and (3)(b);
+- (dd) paragraph 89;
+- (ee) paragraphs 91 and 92;
+- (ff) paragraphs 96(1) to (5) and (7);
+- (gg) paragraphs 97 and 98;
+- (hh) paragraphs 100 to 108;
+- (ii) paragraph 113;
+- (jj) paragraphs 115 and 116;
+- (kk) paragraphs 118 to 124;
+- (ll) paragraph 130;
+- (mm) paragraph 131(3);
+- (nn) paragraphs 132 to 134;
+- (oo) paragraph 135(1), (2)(b) and (3) to (8); and
+- (pp) paragraphs 136 to 143.
+
+(3) The provisions which are referred to in paragraph (1)(aa) above are the entries in Schedule 10 to the 1998 Act relating to–
+
+- (a) the Treason Act 1790[^f00003];
+- (b) the Treason Act 1795[^f00004];
+- (c) the Treason by Women Act (Ireland) 1796[^f00005];
+- (d) the Treason Act 1817[^f00006];
+- (e) the Treason Felony Act 1848[^f00007];
+- (f) the Sentence of Death (Expectant Mothers) Act 1931[^f00008];
+- (g) the 1933 Act;
+- (h) the Criminal Justice Act (Northern Ireland) 1945[^f00009];
+- (i) section 56(3) and (13) of the Criminal Justice Act 1967[^f00010];
+- (j) the Criminal Appeal Act 1968[^f00011];
+- (k) the 1969 Act;
+- (l) the Criminal Justice Act 1972[^f00012];
+- (m) sections 1B, 1C, 11, 14, 31 and 32 of, and Schedules 1A and 5 to, the 1973 Act, and the words from “For the purposes” to “available evidence” in section 2(1) of that Act;
+- (n) the Bail Act 1976[^f00013];
+- (o) sections 38, 38A and 108 of, and Schedule 7 to, the 1980 Act;
+- (p) sections 3, 18, 19 and 66 of, and Schedule 14 to, the 1982 Act;
+- (q) the Family Law Reform Act 1987[^f00014];
+- (r) the Criminal Justice Act 1988[^f00015];
+- (s) the Prisons (Scotland) Act 1989[^f00016];
+- (t) sections 6, 33 and 37(4) of, and Schedules 2 and 11 to, the 1991 Act;
+- (u) the Prisoners and Criminal Proceedings (Scotland) Act 1993[^f00017];
+- (v) sections 35 and 130(4) of the 1994 Act;
+- (w) the Criminal Procedure (Scotland) Act 1995[^f00018];
+- (x) sections 1, 8, 10 to 27, 35, 43 and 54 of, and Schedules 1, 2, 4, 5 and 6 to, the 1997 Act;
+- (y) the Crime and Punishment (Scotland) Act 1997; and
+- (z) the Police Act 1997[^f00019].
+
+**3.**[^key-42523b8805e5e1215e9eab671e626f6b] (1) The following provisions of the 1998 Act shall, subject to article 9 below, come into force on 30th September 1998 in the areas specified in Schedule 1 to this Order–
+
+- (a) sections 38(1) to (3) and (5), 39 and 40 (youth justice services; youth offending teams; and youth justice plans);
+- (b) paragraphs 17, 19, 23, 26, 27, 32, 33, 34(3), 73, 76, 77(a), 94, 95, 96(6) and 131(1) and (2) of Schedule 8; and
+- (c) the entries in Schedule 10 relating to the words “by a probation officer” in section 2(1) of the 1973 Act and to section 31(2) of the 1997 Act.
+
+(2) Section 46 (date of first court appearance in bail cases) and, to the extent that it is not already in force, section 49 (powers of magistrates' courts exercisable by single justice etc.) of the 1998 Act shall come into force on 30th September 1998 in the areas specified in Schedule 2 to this Order.
+
+(3) Sections 65 and 66 of, and paragraphs 25 and 61 of Schedule 8 and paragraph 5 of Schedule 9 to, the 1998 Act (reprimands and warnings) shall come into force on 30th September 1998 for the purpose of reprimanding or[^key-d05b3b95384bb5f97e63410be0be8f69] warning a person under section 65 in any area specified in Schedule 3 to this Order.
+
+**4.**[^key-13e7554551ffb65f06d77052b89ef927] (1) The following provisions of the 1998 Act shall come into force on 1st December 1998–
+
+- (a) sections 2 and 3 (sex offender orders);
+- (b) section 4 (appeals against orders), so far as relating to a sex offender order;
+- (c) section 16 (removal of truants to designated places etc.);
+- (d) section 20 (sex offender orders);
+- (e) section 21 (procedural provisions with respect to orders), but only for the purposes of sex offender orders made under section 20 of the 1998 Act and orders made under section 20(4)(a) of that Act;
+- (f) in section 22 (offences in connection with breach of order), subsections (6) and (7) and, for the purposes of their application to an order under section 20(4)(a) of the 1998 Act and to a sex offender order made under section 20 of that Act, subsections (1) to (5);
+- (g) section 23 (anti-social behaviour as ground of eviction);
+- (h) section 24 (noise-making equipment: police power of seizure);
+- (i)[^key-3a14cfd87c70fcab1f343828a2708aed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j) Schedule 1 (Schedule 2A to the Civic Government (Scotland) Act 1982[^f00020]); and
+- (k) paragraph 36 of Schedule 8.
+
+(1A)[^key-6576d9f0f621f8e023015949c91d146c] Section 26 of the 1998 Act (retention and disposal of things seized) shall come into force on 1st December 1998 for the purpose of making regulations under section 60A of the Criminal Justice and Public Order Act 1994.
+
+(2) The following provisions of the 1998 Act shall come into force on 4th January 1999 for the purpose of sending any person for trial under section 51 of that Act from any area specified in Schedule 2 to this Order–
+
+- (a) section 51 and, to the extent that it is not already in force, section 52 (no committal proceedings for indictable-only offences etc.);
+- (b) Schedule 3, to the extent that it is not already in force;
+- (c) paragraphs 3, 5(1)(a) and (2), 8, 12, 28, 29, 37, 40(2), 44, 45, 48, 49, 52(2), 63 to 67, 93 and 125(a), 126, 127(a), 128 and 129 of Schedule 8; and
+- (d) in Schedule 10, the entries relating to sections 125 and 126 of the 1980 Act.
+
+**5.**[^key-49903177e4b42c34b617a1d88552bb07] (1) In relation to any time before the commencement of sections 38 to 40 of the 1998 Act in an area not specified in Schedule 1 to this Order–
+
+- (a) subsection (4A) of section 37 of the 1991 Act (as inserted by paragraph 83(5) of Schedule 8 to the 1998 Act) shall have effect as if paragraph (b) of that subsection and the word “or” immediately preceding it were omitted; and
+- (b) section 31(6) of the 1997 Act (as amended by paragraph 131(3) of Schedule 8 to the 1998 Act) shall have effect as if the words “and for the words “the words in parentheses” there shall be substituted the words “subsection (2A) above”” were omitted.
+
+(2) In relation to any time before the commencement of sections 75 to 77 of the 1998 Act–
+
+- (a) section 55(1A)(d) of the 1933 Act (as inserted by paragraph 2 of Schedule 8 to the 1998 Act) shall have effect as if the words “section 77(3) of the Crime and Disorder Act 1998 (breach of requirements of supervision under detention and training order) or” were omitted;
+- (b) section 31(1) of the 1991 Act (as amended by paragraph 78(a) and (c) of Schedule 8 to the 1998 Act) shall have effect as if the definition of a detention and training order were omitted;
+- (c) paragraphs 8(2) and 9(2) of Schedule 1 to the 1997 Act (as amended by paragraph 135(3)(a) and (4)(b) of Schedule 8 to the 1998 Act) shall have effect as if the words “and sections 75 to 77 of the Crime and Disorder Act 1998” were omitted; and
+- (d) paragraphs 8(4) and 9(4) of Schedule 1 to the 1997 Act (as amended by paragraphs 135(3)(b) and (4)(c) of Schedule 8 to the 1998 Act) shall have effect as if the words “and sections 76 and 77 of the Crime and Disorder Act 1998” were omitted.
+
+(3) In relation to any time before the commencement of sections 99 and 100 of the 1998 Act–
+
+- (a) section 2(4)(b)(i) of the Repatriation of Prisoners Act 1984[^f00021] (as substituted by paragraph 56 of Schedule 8 to the 1998 Act) shall have effect as if the words “, 33A(2), 34A(3)” were omitted;
+- (b) paragraph 2(4) of Schedule 2 to the Repatriation of Prisoners Act 1984 (as substituted by paragraphs 58(2) and 59(3) of Schedule 8 to the 1998 Act) shall have effect as if the words “ 33A(2), 34A(3),” were omitted;
+- (c) section 33A of the 1991 Act (as inserted by paragraph 81 of Schedule 8 to the 1998 Act) shall have effect as if–
+  - (i) in subsection (1)(b), the words “34A(3) or” were omitted;
+  - (ii) in subsection (1)(b), the words “38A(1) or” or, as that subsection has effect by virtue of paragraph 12(4) of Schedule 9 to the 1998 Act, “or 38A(1)” were omitted; and
+  - (iii) subsection (2) were omitted;
+- (d) section 37 of the 1991 Act (as amended by paragraph 83(1)(a) and (4) to (6) of Schedule 8 to the 1998 Act) shall have effect as if–
+  - (i) in subsection (1), the words “, (1B)” were omitted; and
+  - (ii) in subsection (4A), the words “may in the case of a person released on licence under section 34A above whose sentence is for a term of less than twelve months, and” and “in any other case,” were omitted; and
+- (e) section 45 of the 1991 Act (as amended by paragraph 88(1), (2) and (3)(b) of Schedule 8 to the 1998 Act) shall have effect as if, in subsection (1), the words “34A,” were omitted.
+
+**6.**[^key-78145d325e3a132903131f3c1593abf8] (1) Paragraphs 2(4) and 30(2) of Schedule 7 to the 1998 Act shall not apply in relation to an offender committed to (but not sentenced by) the Crown Court before 30th September 1998.
+
+(2) Neither paragraph 17 of Schedule 7, nor the repeal of section 11 of the 1973 Act by Schedule 10, to the 1998 Act shall affect the operation of an order made under that section before 30th September 1998.
+
+(3) Paragraphs 37(2) and (3) and 38(3) of Schedule 7 to the 1998 Act shall not apply in relation to attendance centre orders made before 30th September 1998.
+
+(4) In paragraph 46 of Schedule 7 to the 1998 Act–
+
+- (a) sub-paragraph (1) shall not apply in relation to any proceedings under Schedule 2 to the 1991 Act which have been begun before 30th September 1998; and
+- (b) sub-paragraphs (2) and (8) shall not apply where the breach of the relevant order occurred before 30th September 1998.
+
+**7.**[^key-b3ef75ed440ef583bd32a344b92f3d0b] (1) The amendment of section 1(2) of the 1993 Act made by paragraph 98(2) of Schedule 8 to the 1998 Act shall not have effect in relation to any person whose licence under Part I of the 1993 Act has been revoked under section 17 of that Act before 30th September 1998.
+
+(2) The amendment of section 5 of the 1993 Act made by paragraph 100 of Schedule 8 to the 1998 Act shall apply where one or more of the terms of imprisonment or detention was passed on or after 30th September 1998.
+
+(3) The amendment of section 7 of the 1993 Act made by paragraph 101(a) of Schedule 8 to the 1998 Act shall not have effect in relation to any child whose licence under Part I of the 1993 Act has been revoked under section 17 of that Act[^f00022] before 30th September 1998.
+
+(4) The repeal of subsections (3)(b) and (4) of section 11 of the 1993 Act made by paragraph 102 of Schedule 8 and Schedule 10 to the 1998 Act and the repeal of paragraph (b) of subsection (7) of section 16 of the 1993 Act made by paragraph 104(3) of Schedule 8 and Schedule 10 to the 1998 Act shall not have effect in relation to any person who is subject to an order under section 16(2) or (4) of the 1993 Act which was made before 30th September 1998.
+
+**8.**[^key-cd96a5e0bac3a3cf81a240349e01dcf5] (1) Where a person is sentenced for a sexual offence within the meaning of Part I of the 1991 Act which was committed before 30th September 1998, the substitution of section 44 of that Act by section 59 of the 1998 Act shall not have effect and, in relation to such a person, neither paragraph 103 of Schedule 8, nor the repeal of section 14(2) and (3) of the 1993 Act by Schedule 10, to the 1998 Act shall have effect.
+
+(2) The amendments made to section 209 of the Criminal Procedure (Scotland) Act 1995 by paragraphs (b) and (c) of section 86(2) of the 1998 Act shall not apply in relation to a person who is convicted of an offence which was committed before 30th September 1998.
+
+**9.**[^key-ab61caddce8f8a31f18e6af65930dc74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Jack Straw
+
+One of Her Majesty’s Principal Secretaries of State
+
+Home Office
+
+19th September 1998
+
+## SCHEDULE 1 — AREAS IN WHICH THE PROVISIONS OF THE 1998 ACT SET OUT IN ARTICLE 3(1) SHALL COME INTO FORCE ON 30TH SEPTEMBER 1998
+
+Article 3(1)
+
+**1.**[^key-5cebf8360a9c5d455862284dc5e7f65f] The counties of Bedfordshire, Devon and Hampshire;
+
+**2.**[^key-a35e79d6b328f75fc141d2361834b1f6] The Isle of Wight.
+
+**3.**[^key-66669d17967de4538e0e6729472c9df6] The cities of Portsmouth, Sheffield, Southampton and Westminster.
+
+**4.**[^key-828e7cb758b449e2a3f68229b491b5b3] The Royal borough of Kensington and Chelsea.
+
+**5.**[^key-3ecca953de68e942af6040b5e1eee285] The London boroughs of Hammersmith and Fulham, and Lewisham.
+
+**6.**[^key-e93ca8c9ae46a4e55dc5c9c85a4a1575] The Metropolitan boroughs of St Helens and Wolverhampton.
+
+**7.**[^key-086dff6e7ddcf0ff2936b36c5bc43bac] The boroughs of Blackburn with Darwen, and Luton.
+
+## SCHEDULE 2 — AREAS IN WHICH THE PROVISIONS OF THE 1998 ACT SET OUT IN ARTICLES 3(2) AND 4(2) SHALL COME INTO FORCE ON 30TH SEPTEMBER 1998 AND 4TH JANUARY 1999, RESPECTIVELY
+
+Articles 3(2) and 4(2)
+
+**1.**[^key-f851163569b864f98d2085b3b4a2bf42] The petty sessions areas of Bromley; Croydon; and Sutton.
+
+**2.**[^key-246356060e1e77bfde824a8143c900a7] The petty sessional divisions of Aberconwy; Arfon; Blackburn, Darwen and Ribble Valley; Burnley and Pendle; Colwyn; Corby; Daventry; Dyffryn Clwyd; Eifionydd and Pwllheli; Gateshead; Kettering; Meirionnydd; Newcastle-under-Lyme and Pirehill North; Newcastle-upon-Tyne; Northampton; Rhuddlan; Staffordshire Moorlands; Stoke-on-Trent; Towcester; Wellingborough; and Ynys Mon/Anglesey.
+
+## SCHEDULE 3 — AREAS IN WHICH THE PROVISIONS OF THE 1998 ACT SET OUT IN ARTICLE 3(3) SHALL COME INTO FORCE ON 30TH SEPTEMBER 1998
+
+Article 3(3)
+
+**1.**[^key-45e87f9bfbf08db0943a8733e0be9754] The county of Hampshire;
+
+**2.**[^key-0afedb93ec617a35cffb5928faa2fd5a] The Isle of Wight.
+
+**3.**[^key-c35b23890722411a374b19cfffaf297d] The cities of Portsmouth, Sheffield, Southampton and Westminster.
+
+**4.**[^key-4d3559d7e8c91bbabacc4dbf24fd89e3] The Royal borough of Kensington and Chelsea.
+
+**5.**[^key-1cbe1c43cc235a070e42c92ee3aece6f] The London borough of Hammersmith and Fulham.
+
+**6.**[^key-d3dbf62596fc1838196758974634c296] The Metropolitan borough of Wolverhampton.
+
+**7.**[^key-49ecc117026e8893c3844e96c6ff2644] The borough of Blackburn with Darwen.
+
+(This note is not part of the Order)
+
+This Order brings into force on 30th September 1998, 1st December 1998 or 4th January 1999 most of the provisions of the Crime and Disorder Act 1998 which are not already in force.
+
+Provisions on youth justice services, youth offending teams and youth justice plans (sections 38 to 40), date of first appearance in bail cases (section 46), powers of magistrates' courts exercisable by single justices (section 49), no committal proceedings for indictable-only offences (sections 51 and 52) and reprimands and warnings (sections 65 and 66) are commenced in areas specified in the Schedules to the Order.
+
+This Order does not bring into force provisions on anti-social behaviour orders (sections 1 and 19), time limits (sections 43 to 45), detention and training orders (sections 73 to 79), sentencing guidelines and Advisory Panel (sections 80 and 81), remands and committals (sections 97 and 98), the power to release short-term prisoners on curfew conditions (sections 99 and 100) or the recall to prison of short-term prisoners (section 103).
+
+(This note is not part of the Order)
+
+Sections 114, 116 and 117, and sections 41 and 49 (both partially), were brought into force on 1st August 1998 by the Crime and Disorder Act 1998 (Commencement No. 1) Order 1998 (S.I. [1998/1883](https://www.legislation.gov.uk/uksi/1998/1883)). Paragraphs 1 and 2 of Schedule 2 were also partially brought into force on that date by that Order. Section 84 and paragraph 9 of Schedule 9 were brought into force on 7th August 1998 by that Order.
+
+## Annotations
+
+[^f00001]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37).
+
+[^key-8e1f3c9b77745287ef7eba78d0a8f287]: Commencement: Art. 1 in force at made date
+
+[^key-cdc938dd3c9c32eeb4bf32d3e6005425]: Commencement: Art. 2 in force at made date
+
+[^f00002]: Footnote: [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48).
+
+[^f00003]: Footnote: 30 Geo 3 c. 48.
+
+[^f00004]: Footnote: 36 Geo 3 c. 7.
+
+[^f00005]: Footnote: 36 Geo 3 c. 31.
+
+[^f00006]: Footnote: 57 Geo 3 c. 6.
+
+[^f00007]: Footnote: 11 & 12 Vict c. 12.
+
+[^f00008]: Footnote: 21 & 22 Geo 5 c. 24.
+
+[^f00009]: Footnote: [1945 c. 15 (N.I.)](https://www.legislation.gov.uk/apni/1945/15).
+
+[^f00010]: Footnote: [1967 c. 80](https://www.legislation.gov.uk/ukpga/1967/80).
+
+[^f00011]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19).
+
+[^f00012]: Footnote: [1972 c. 71](https://www.legislation.gov.uk/ukpga/1972/71).
+
+[^f00013]: Footnote: [1976 c. 63](https://www.legislation.gov.uk/ukpga/1976/63).
+
+[^f00014]: Footnote: [1987 c. 42](https://www.legislation.gov.uk/ukpga/1987/42).
+
+[^f00015]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33).
+
+[^f00016]: Footnote: [1989 c. 45](https://www.legislation.gov.uk/ukpga/1989/45).
+
+[^f00017]: Footnote: [1993 c. 9](https://www.legislation.gov.uk/ukpga/1993/9).
+
+[^f00018]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^f00019]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
+
+[^key-42523b8805e5e1215e9eab671e626f6b]: Commencement: Art. 3 in force at made date
+
+[^key-d05b3b95384bb5f97e63410be0be8f69]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/1998/2327/article/3/3) inserted (30.9.1998) by [The Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) (Amendment) Order 1998 (S.I. 1998/2412)](https://www.legislation.gov.uk/uksi/1998/2412), [arts. 1](https://www.legislation.gov.uk/uksi/1998/2412/article/1), [2](https://www.legislation.gov.uk/uksi/1998/2412/article/2)
+
+[^key-13e7554551ffb65f06d77052b89ef927]: Commencement: Art. 4 in force at made date
+
+[^key-3a14cfd87c70fcab1f343828a2708aed]: Textual amendment: [Art. 4(1)(i)](https://www.legislation.gov.uk/uksi/1998/2327/article/4/1/i) omitted (30.11.1998) by virtue of [The Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) (Amendment) (No. 2) Order 1998 (S.I. 1998/2906)](https://www.legislation.gov.uk/uksi/1998/2906), [arts. 1](https://www.legislation.gov.uk/uksi/1998/2906/article/1), [2(2)](https://www.legislation.gov.uk/uksi/1998/2906/article/2/2)
+
+[^f00020]: Footnote: [1982 c. 45](https://www.legislation.gov.uk/ukpga/1982/45).
+
+[^key-6576d9f0f621f8e023015949c91d146c]: Textual amendment: [Art. 4(1A)](https://www.legislation.gov.uk/uksi/1998/2327/article/4/1A) inserted (30.11.1998) by [The Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) (Amendment) (No. 2) Order 1998 (S.I. 1998/2906)](https://www.legislation.gov.uk/uksi/1998/2906), [arts. 1](https://www.legislation.gov.uk/uksi/1998/2906/article/1), [2(3)](https://www.legislation.gov.uk/uksi/1998/2906/article/2/3)
+
+[^key-49903177e4b42c34b617a1d88552bb07]: Commencement: Art. 5 in force at made date
+
+[^f00021]: Footnote: [1984 c. 47](https://www.legislation.gov.uk/ukpga/1984/47).
+
+[^key-78145d325e3a132903131f3c1593abf8]: Commencement: Art. 6 in force at made date
+
+[^key-b3ef75ed440ef583bd32a344b92f3d0b]: Commencement: Art. 7 in force at made date
+
+[^f00022]: Footnote: Section 17 of the 1993 Act applies by virtue of section 7(5) of that Act.
+
+[^key-cd96a5e0bac3a3cf81a240349e01dcf5]: Commencement: Art. 8 in force at made date
+
+[^key-ab61caddce8f8a31f18e6af65930dc74]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/1998/2327/article/9) revoked (1.4.2000) by [The Crime and Disorder Act 1998 (Commencement No. 7) Order 2000 (S.I. 2000/924)](https://www.legislation.gov.uk/uksi/2000/924), [art. 6](https://www.legislation.gov.uk/uksi/2000/924/article/6)
+
+[^key-5cebf8360a9c5d455862284dc5e7f65f]: Commencement: Sch. 1 para. 1 in force at made date
+
+[^key-a35e79d6b328f75fc141d2361834b1f6]: Commencement: Sch. 1 para. 2 in force at made date
+
+[^key-66669d17967de4538e0e6729472c9df6]: Commencement: Sch. 1 para. 3 in force at made date
+
+[^key-828e7cb758b449e2a3f68229b491b5b3]: Commencement: Sch. 1 para. 4 in force at made date
+
+[^key-3ecca953de68e942af6040b5e1eee285]: Commencement: Sch. 1 para. 5 in force at made date
+
+[^key-e93ca8c9ae46a4e55dc5c9c85a4a1575]: Commencement: Sch. 1 para. 6 in force at made date
+
+[^key-086dff6e7ddcf0ff2936b36c5bc43bac]: Commencement: Sch. 1 para. 7 in force at made date
+
+[^key-f851163569b864f98d2085b3b4a2bf42]: Commencement: Sch. 2 para. 1 in force at made date
+
+[^key-246356060e1e77bfde824a8143c900a7]: Commencement: Sch. 2 para. 2 in force at made date
+
+[^key-45e87f9bfbf08db0943a8733e0be9754]: Commencement: Sch. 3 para. 1 in force at made date
+
+[^key-0afedb93ec617a35cffb5928faa2fd5a]: Commencement: Sch. 3 para. 2 in force at made date
+
+[^key-c35b23890722411a374b19cfffaf297d]: Commencement: Sch. 3 para. 3 in force at made date
+
+[^key-4d3559d7e8c91bbabacc4dbf24fd89e3]: Commencement: Sch. 3 para. 4 in force at made date
+
+[^key-1cbe1c43cc235a070e42c92ee3aece6f]: Commencement: Sch. 3 para. 5 in force at made date
+
+[^key-d3dbf62596fc1838196758974634c296]: Commencement: Sch. 3 para. 6 in force at made date
+
+[^key-49ecc117026e8893c3844e96c6ff2644]: Commencement: Sch. 3 para. 7 in force at made date

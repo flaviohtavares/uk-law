@@ -1,0 +1,432 @@
+---
+title: The Measuring Equipment (Measures of Length) Regulations 1986
+id: uksi/1986/1682
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1986-09-29'
+text_date: '2020-12-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/1986/1682
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1986/1682/pdfs/uksi_19861682_en.pdf
+- http://www.legislation.gov.uk/uksi/1986/1682/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Measuring Equipment (Measures of Length) Regulations 1986
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+1986 No. 1682
+
+WEIGHTS AND MEASURES
+
+The Measuring Equipment (Measures of Length) Regulations 1986
+
+Made
+
+29th September 1986
+
+Laid before Parliament
+
+3rd October 1986
+
+Coming into Operation
+
+27th October 1986
+
+The Secretary of State, in exercise of powers conferred on him by sections 11(1), (4) and (7), 15(1), 86(1) and 94(1) of the Weights and Measures Act 1985 and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
+
+## PART I — GENERAL
+
+### 1. Citation, commencement and revocation[^key-3c7075be8167e429205f64b21b8ef750]
+
+(1) These regulations may be cited as the Measuring Equipment (Measures of Length) Regulations 1986 and shall come into operation on 27th October 1986.
+
+(2) The Regulations specified in the Schedule to these Regulations are hereby revoked to the extent specified in column 2 of the Schedule.
+
+### 2. Interpretation[^key-c8d4f75953a26b3631c67a1c846bafaa]
+
+In these Regulations—
+
+- “**the Act**” means the Weights and Measures Act 1985;
+- “**composite measure**” means a measure of length where one of its principal scale marks is a surface and the other is a line, hole or mark;
+- “**end measure**” means a measure of length where its principal scale marks are formed by two surfaces;
+- “[^key-3aa5006ba2d54558fe1b365c3a32be2d]**measure of length**” means a linear measure set out in Part I of Schedule 3 to the Act;
+- “**nominal length**” means the maximum length in metric [^key-628359def9af36d714a6a342620b54ac]... units which a measure of length is designed to measure in one measurement;
+- “**prescribed limits of error**” has the meaning set out in Regulation 24 below;
+- “**principal scale marks**” mean the two surfaces, lines, holes or marks (or combination thereof) on a measure of length the distance between which is the nominal length of the measure;
+- “**the stamp**” means the prescribed stamp[^f00001]; and
+- “**terminal surface**” means a surface forming one of the principal scale marks.
+
+### 3. Application[^key-64fd9c4fef23ad251057ec392f37fc38]
+
+(1) Subject to paragraph (2) below, these Regulations apply to measuring equipment for use for trade of the following class namely measures of length, and such measures are hereby prescribed for the purposes of section 11(1) of the Act.
+
+(2) Except for this paragraph, paragraph (3) and Regulation 20 below, these Regulations do not apply to measures of length which bear the mark of EEC initial verification.
+
+(3) In this Regulation, “**mark of EEC initial verification**” means the mark described in paragraph 5 of Schedule 1 to the Measuring Instruments (EEC Requirements) Regulations 1980[^f00002].
+
+## PART II — MATERIALS AND PRINCIPLES OF CONSTRUCTION AND MARKING OF MEASURES OF LENGTH
+
+**4.**[^key-f4dbefe8c16a404217d050780181393e] Subject to Regulation 5 below, every measure of length shall be made of—
+
+- (a) carbon steel, including matt chrome-plated carbon steel, steel protected by a clear film or rust-resisting steel;
+- (b) brass;
+- (c) aluminium alloy, including anodised and stained aluminium alloy;
+- (d) glass-reinforced or opaque plastics;
+- (e) wood; or
+- (f) any other material of adequate stability.
+
+**5.**[^key-bcf16e63ffcf05217cd9cf9c4d0f9c96] Every measure of length shall be sufficiently strong and resistant to abrasion to withstand the wear and tear of ordinary use in trade.
+
+**6.**[^key-c923ba9e4c00bf77778715cccfcf8f0e] Where an end measure or composite measure is made of wood or other material of durability equal to or less than that of wood, the terminal surfaces shall have metal tips which shall be securely fixed to the wood or other material.
+
+**7.**[^key-7f9e0366240b8728b3b560e1fc5ee7f1] The terminal surfaces of end measures and of composite measures shall be flat and perpendicular to the longitudinal axis of the measure.
+
+**8.**[^key-17574ef07dca651269c264429429dd0c] Every rigid measure of length, including folding measures, shall be practically straight and free from flaws.
+
+**9.**[^key-25626ad5cd0d2fad846c7c6a02c1504c] Every flexible measure of length shall be constructed so that when it is stretched out on a flat surface its edges are practically straight and parallel.
+
+**10.**[^key-4fcaed27180a97dbe29410d2d1d6a831] Winding devices for flexible measures of length shall be constructed so that they do not cause any permanent deformation of the measure.
+
+**11.**[^key-42ab76cb3ed58df5f2c2504b1f668c0e] Where a measure of length is marked with a reference temperature, it shall be constructed so that a change of not more than 8 degrees Celsius above or below that temperature does not cause in normal use a variation in length exceeding the prescribed limit of error.
+
+**12.**[^key-d9c9bdd44c0d6beb7de90aa445483392] Where a measure of length is marked with a tractive force, it shall be constructed so that a change of 10 per cent. above or below that force does not cause a variation in length exceeding the prescribed limit of error.
+
+**13.**[^key-47563e90215495b32d6a400a7dfc0b65] (1) Every measure of length which is graduated shall be graduated clearly, indelibly and, subject to paragraph (2) below, regularly, so as to enable unambiguous readings to be made easily.
+
+(2) Certain sections of a graduated measure of length may be subdivided more finely than other sections.
+
+**14.**[^key-9c9f0b28d9c6da226865cd28c9ca4ec5] Where the scale marks on a measure of length are lines these shall be straight, perpendicular to the longitudinal axis of the measure of length and all of the same thickness, constant throughout their length.
+
+**15.**[^key-54f7147d64f69478ddf8cdbefa57da9a] The numbering of graduated measures of length shall be—
+
+- (a)
+  - (i) continuous; or
+  - (ii) partly continuous and partly repetitive; and
+- (b)
+  - (i) parallel to the longitudinal axis of the measure of length; or
+  - (ii) perpendicular to the longitudinal axis of the measure of length, depending on how the measure is designed to be read.
+
+**16.**[^key-2112520cb1b6f538ad786b1be3947f18] Where a graduated measure of length is a folding measure, some of its numbering in close proximity to the joints may be omitted.
+
+**17.**[^key-6143e8f5f0c507c623fda8d64d25f838] Every measure of length shall be conspicuously, legibly and durably marked (in the case of a flexible measure, near the beginning of the measure) with the following items—
+
+- (a)[^key-9ea57953fb28782e6b9094ef7d791637] on one or on each graduated side, its nominal length expressed in one only of the following metric units of measurement in full or by means of one of the following abbreviations or symbols only:—
+
+  |  |  |
+  | --- | --- |
+  | metre | m |
+  | centimetre | cm |
+  | millimetre | mm; |
+- (b) the name or trade mark of the manufacturer of the measure; and
+- (c) its tractive force, if it is a flexible measure with a nominal length exceeding five metres [^key-0df554333f89b687dce4a90cdafea0d1]....
+
+**17A.**[^key-0b72c89069f76e0035cdcc940b40d9f0] Any measure of length marked in accordance with regulation 17 of these Regulations may, if only one graduated side is marked in metric units of measurement, have its other side marked with supplementary indications [^key-319076272fbc221c37f09a61134b083b]... provided that the zero indications of the scale marked in metric units of measurement and of the scale marked in supplementary indications both lie in the same plane perpendicular to its length.
+
+**18.**[^key-c1c675f5b4900e63b5e32acb29f80908] Every measure of length which is not graduated or subdivided shall be marked conspicuously, legibly and durably with the words “not graduated” or “not subdivided”.
+
+**19.**[^key-f33d3bd5b39ad67af5eac5853fe6f4ce] (1) Every measure of length may be marked (in the case of a flexible measure, near the beginning of the measure) with one or more of the following items—
+
+- (a) the reference temperature;
+- (b) where not required to be marked under Regulation 17 above, the tractive force;
+- (c) the number of the British Standard published by the British Standards Institution that specifies requirements for the measure or other specification reference;
+- (d) a model designation;
+- (e) the country of manufacture; and
+- (f) the material from which the measure has been made.
+
+(2) Nothing in paragraph (1) above shall prohibit other markings on a measure of length, which do not cause confusion in use.
+
+## PART III — MANNER OF USE FOR TRADE
+
+**20.**[^key-51d7cd11e3194532aa43cdaffb0f8eac] No person shall use a measure of length for trade in such a manner as to expose it to environmental or other influences which will adversely affect its accuracy or function.
+
+## PART IV — TESTING
+
+**21.**[^key-6d3e55dd6a52bf295092e5da4ac02a51] Every measure of length submitted for testing shall be in a clean condition.
+
+**22.**[^key-ceef9303923f4834fae927178d691498] Every measure of length shall be tested by comparison with an appropriate local or working standard linear measure using equipment and under conditions which are appropriate to the degree of accuracy required, taking the following factors into account—
+
+- (a) the ambient temperature, when the standard and the measure of length being compared are of different materials;
+- (b) the tensioning and support of flexible measures of length; and
+- (c) the method of magnification for viewing.
+
+**23.**[^key-6618f03c46b69345974e35bc1c8c11b3] The inspector shall test the nominal length and, in the case of a graduated measure, such other graduations as he considers necessary.
+
+### 23A. Statistical Sampling[^key-93e0830760756ad382131bcaf7e775ae]
+
+Where the measures of length submitted for testing are manufactured in series and the person submitting them produces to the inspector a written statement made by the manufacturer that those measures have already been adequately checked, the inspector shall, at the request of that person carry out on those measures a statistical check by attributes as defined in paragraph 2 of Schedule 2 to these Regulations in accordance with the provisions of that Schedule and shall either accept or reject those measures accordingly.
+
+### 23B. Measures of Length imported from a member State or an EEA State[^key-29dd727ef68c565f1ca0be6d6072984c]
+
+(1) Subject to paragraph (4) below, in relation to measures of length imported into Great Britain from a member State[^key-4ea09e38075e73af55aaafef6d3cff0e] or from an EEA State, an inspector shall not carry out any test in accordance with the foregoing provisions of this Part of these Regulations if, together with the measures of length being imported, he is presented with the requisite documentation.
+
+(2) In this regulation and in regulation 25(2) below—
+
+- (a) “requisite documentation” means—
+  - (i) the test report of an approved body stating that the measures of length which are the subject of that report have been tested in accordance with the tests mentioned in this Part of these Regulations and stating which tests have been applied to those measures of length; and
+  - (ii) the test results relating to those tests; and
+- (b) “EEA State” means a State which is a Contracting Party to the EEA Agreement [^key-1da3f56ccd85e1c33a4dc0518f8d8d5a]...; and in this paragraph “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993.
+
+(3)[^key-a251c477a30dc03ff8d252f8a42c5567] A body is an “approved body” for the purposes of this regulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of measures of length or is a laboratory which has been accredited for the purposes of testing measures of length in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025:2000.
+
+(4) Nothing in these Regulations shall prevent an inspector testing in accordance with the foregoing provisions of this Part of these Regulations where he is not satisfied—
+
+- (a) as to the authenticity of the test report or the test results presented to him; or
+- (b) that those results in fact relate to the measures of length being imported.
+
+## PART V — SUPPLEMENTARY PROVISIONS
+
+### Prescribed limits of error
+
+**24.**[^key-3f6ffa5ed81f5adfa5a0e1bcb3120110] The prescribed limits of error relating to measures of length shall be 0.6 millimetre plus 0.4 millimetre per metre (rounded up to the next whole metre) of nominal length.
+
+### Passing as fit for use for trade[^key-be19e5ceab6877247ec1fb86cd2a57df]
+
+**25.** (1) Save in the case of measures of length imported from a member State[^key-ce1138aa7146fc9976d3674faa0f5bbc] or an EEA State, no measure of length shall be passed as fit for use for trade unless—
+
+- (a) on testing,—
+  - (i) it falls within the prescribed limits of error;
+  - (ii) an inspector is of the opinion that it is not constructed in a manner which facilitates fraudulent use and that it does not bear any decorations or designs which might cause confusion in use; and
+  - (iii) it complies with all the appropriate requirements of these Regulations; or
+- (b) in the case of a measure of length which has not been tested, it forms part of a group of measures treated under regulation 23A above as having satisfied the test or tests therein mentioned.
+
+(2) In the case of measures of length imported from a member State or an EEA State, no measure of length shall be passed as fit for use for trade unless—
+
+- (a) either—
+  - (i) where the requisite documentation is presented in accordance with regulation 23B above, the test report recites and the test data confirm to the satisfaction of the inspector that on testing in the relevant State the measure falls within the prescribed limits of error;
+  - (ii) in the case of a measure of length which has not been tested, it forms part of a group of measures treated under regulation 23A above as having satisfied the test or tests therein mentioned; or
+  - (iii) it complies with all the relevant requirements of these Regulations; and
+- (b) the inspector is of the opinion that it is not constructed in a manner which facilitates fraudulent use and that it does not bear any decorations or designs which might cause confusion in use.
+
+### Stamping
+
+**26.**[^key-e54c5da23e79695c56d4cd732164ee91] (1) Subject to paragraphs (2) and (3) below, measures of length shall be stamped with the stamp near one end or, in the case of graduated measures, near the beginning of the measure on each graduated side.
+
+(2) In the case of flexible measures of length the stamp may be placed on a metal plug, disc or label permanently secured to the measure.
+
+(3) No measure of length shall be stamped with the stamp if it bears—
+
+- (a) any mark which, in the opinion of the inspector, might reasonably be mistaken for the stamp;
+- (b) any indication of a class of accuracy to which the measure belongs; or
+- (c) any other statement or mark (other than the stamp) which purports to be or, in the opinion of the inspector, might reasonably be mistaken for an expression of approval or guarantee of accuracy by any body or person.
+
+### Obliteration of stamps
+
+**27.**[^key-038fef75e5b2fe1274e5ae5258b48914] The stamp shall be obliterated on any measure of length by an inspector, in accordance with the requirements of these Regulations, by means of punches or pincers of suitable sizes of a six-pointed star design as shown in the following illustration:—
+
+[image: see source](https://www.legislation.gov.uk/uksi/1986/1682/images/go000108)
+
+**28.**[^key-f3306c72d6be403b50cac265f536faab] (1) An inspector shall obliterate the stamp on any measure of length which—
+
+- (a) fails upon testing to fall within twice the prescribed limits of error; or
+- (b) fails to comply with any other appropriate requirement of these Regulations:
+
+  Provided that an inspector shall not obliterate the stamp on any measure of length which falls within twice the prescribed limits of error and which was first stamped before 27th October 1986, notwithstanding that it fails to comply with the appropriate requirements of these Regulations.
+
+(2) Where any measure of length has, since it was last stamped, been the subject of any adjustment, alteration, addition, damage or repair which could, in the opinion of the inspector, have affected its accuracy or function, he may obliterate the stamp on that measure.
+
+Michael Howard
+
+Parliamentary Under-Secretary of State
+
+Department of Trade and Industry
+
+## SCHEDULE — REVOCATIONS[^key-63893cb822964fa6f50cca479bb10a9e]
+
+Regulation 1(2)
+
+| Regulations | Extent of Revocation |
+| --- | --- |
+| The Weights and Measures Regulations 1963 | In Regulation 1, paragraph (1)(a).<br>In Regulation 6, paragraph (2)(a).<br>Regulations 9 to 14.<br>In Schedule 1, Part I. |
+| The Weights and Measures (Amendment) Regulations 1970. | In the Schedule, paragraph 2. |
+
+## SCHEDULE 2 — STATISTICAL SAMPLING METHODS[^key-7d15e5f0dd04af35caac7816fd82ab48]
+
+regulation 23A
+
+### 1. Inspection procedures
+
+(1) The inspector shall use, at his election, one of the two inspection methods described in sub-paragraphs (2), (3) and (4) below.
+
+(2) The inspection methods referred to in sub-paragraph (1) above are a single submission scheme (“method A”) and a multiple submission scheme (“method B”). In the case of each method, the check to be carried out by the inspector shall consist of determining the number of defective measures in the sample taken by him.
+
+(3) Where the inspector elects to use method A, he shall apply, for the purpose of accepting or rejecting the lot submitted, a sampling plan having the following characteristics, that is to say—
+
+- a standard quality level (SQL) between 0.40 and 0.90 per cent; and
+- a limiting quality level (LQ5) between 4.0 and 6.5 per cent.
+- The following are examples of sampling plans—
+
+  **Single sampling plan**
+
+  |  | *Sample size number* | *Acceptance number* | *Rejection number* | *LQ5* | *SQL* |
+  | --- | --- | --- | --- | --- | --- |
+  | a | 80 | 1 | 2 | 5.8 | 0.44 |
+  | b | 125 | 2 | 3 | 5.0 | 0.65 |
+
+  **Double sampling plan**
+
+  |  |  | *Sample size* | *Total size* | *Acceptance number* | *Rejection number* | *LQ5* | *SQL* |
+  | --- | --- | --- | --- | --- | --- | --- | --- |
+  | a | First | 50 | 50 | 0 | 2 |  |  |
+  |  | Sample |  |  |  |  | 5.8 | 0.44 |
+  |  | Second | 50 | 100 | 1 | 2 |  |  |
+  |  | Sample |  |  |  |  |  |  |
+  | b | First | 80 | 80 | 0 | 3 |  |  |
+  |  | Sample |  |  |  |  | 5.0 | 0.65 |
+  |  | Second | 80 | 160 | 3 | 4 |  |  |
+  |  | Sample |  |  |  |  |  |  |
+
+Where the inspector rejects a lot, he may, if he considers it appropriate to do so and the person submitting it so agrees, inspect each measure of length comprised in the lot and pass, or refuse to pass, as appropriate, each such measure as fit for use for trade in accordance with regulation 25 of these Regulations.
+
+(4) Where the inspector elects to use method B, he shall apply, for the purpose of accepting or rejecting the lot submitted, sampling plans in accordance with the table below—
+
+**Sampling plans**
+
+| *Order of submission* | *Sample size* | *Acceptance number* | *Rejection number* |
+| --- | --- | --- | --- |
+| 1 | 70 | 0 | 1 |
+| 2 | 85 | 0 | 1 |
+| 3 | 105 | 0 | 1 |
+| 4 | 120 | 0 | 1 |
+
+Where the inspector has accepted a lot, he shall test the next lot to be submitted to him in accordance with the parameters applicable to “Order of submission 1” in the above sampling plans.
+
+Where the inspector has rejected a lot (and accordingly not passed the measures of length comprised in it as fit for use for trade), the person submitting it to the inspector may submit to him for inspection either the same or another lot. The inspector shall then inspect the lot submitted to him in accordance with the parameters of the line of the above sampling plans immediately below the one applied by the inspector to the lot rejected by him immediately before. If the inspector does not accept the lot after inspecting it in accordance with the parameters applicable to “Order of submission 4” in the above sampling plans, he shall, if the person submitting it so agrees, inspect each measure of length comprised in the lot.
+
+### 2. Interpretation
+
+In this Schedule—
+
+- “acceptance number”, in relation to a statistical check by attributes, means the greatest number of defective measures found in the sample which, if attained, will nevertheless result in the acceptance of the lot being inspected;
+- “double sampling plan” means a sampling plan, an example of which is given in paragraph 1(3) above, under which the number of individual measures of length inspected is to be equal to the size of the first sample as specified by the plan and which entails the application of the following methodology. Where the number of defective measures found in the first sample is less than or equal to the first acceptance number, the lot is to be accepted. Where the number of defective measures found in the first sample is equal to or greater than the first rejection number, the lot is to be rejected. Where the number of defective measures found in the first sample falls between the first acceptance number and the first rejection number, a second sample, the size of which is specified by the plan, is to be inspected. Where the sum of the number of defective measures found in the first and second samples is less than or equal to the second acceptance number, the lot is to be accepted. Where such sum is greater than or equal to the second rejection number, the lot is to be rejected;
+- “limiting quality level (LQ5)” means the quality level of the lot submitted which corresponds in a sampling plan to a 5 per cent[^key-2ab22d233b6bc160232c8169449c397e] probability of acceptance;
+- “lot” means a group of measures of length, the number of which does not exceed 10,000 and which are of the same pattern, belong to the same precision class and are manufactured by the same process, and “size of the lot” means the number of measures of length comprised in the lot;
+- “rejection number”, in relation to a statistical check by attributes, means the number of defective measures of length found in the sample inspected which, if equalled or exceeded, will result in the rejection of the lot being inspected;
+- “sample” means a number of measures of length selected at random from a lot, and “sample size” means the number of measures of length in a sample;
+- “single sampling plan” means a sampling plan, an example of which is given in paragraph 1(3) above, under which the number of individual measures of length is to be equal to the size of the sample as specified by the plan and which entails the application of the following methodology. Where the number of defective measures found in the sample is less than or equal to the acceptance number, the lot is to be accepted. Where the number of defective measures is greater than or equal to the rejection number, the lot is to be rejected;
+- “standard quality level (SQL)” means the quality level of the lot submitted which corresponds in a sampling plan to a 95 per cent probability of acceptance; and
+- “statistical check by attributes” means an inspection in which the measures of length in a sample are classed as defective or not defective in accordance with the provisions of these Regulations.
+
+EXPLANATORY NOTE
+
+These Regulations prescribe measures of length, which do not bear the mark of EEC initial verification, for the purposes of section 11(1) of the Weights and Measures Act 1985, so that it is unlawful to use such measures for trade purposes unless they have been tested, passed as fit for such use and stamped by an inspector of weights and measures. They replace the provisions of Part II of the Weights and Measures Regulations 1963, under which measures of length were formerly prescribed. Measures bearing the mark of EEC initial verification have to comply with the Measuring Instruments (EEC Requirements) Regulations 1980.
+
+These Regulations make provision as to—
+
+- (a) the materials and principles of construction of measures of length and their marking (Regs 4–19);
+- (b) their manner of use for trade (Reg 20);
+- (c) their testing (Regs 21ash;23);
+- (d) the prescribed limits of error (Reg 24); and
+- (e) their passing as fit for use for trade, stamping and obliteration of such stamps (Regs 25–28).
+
+The Regulations make the following changes of substance:—
+
+- (a) the principles of construction have been revised and expanded;
+- (b) the limits of error are now expressed by means of formulae, rather than a table, and those applicable on obliteration of the stamp are only twice, instead of four times, those applicable on passing as fit for use for trade; and
+- (c) provision has been included to prohibit the use of a measure of length in such a manner that it is exposed to environmental or other influences which will adversely affect its accuracy or function.
+
+Where a measure has been stamped under the provisions of Part II of the Weights and Measures Regulations 1963, it may continue in use for trade without the stamp being obliterated, provided it falls within twice the prescribed limits of error, even though it does not comply with the requirements of these Regulations.
+
+Copies of British Standards (see Regulation 19(1)(c)) can be obtained from any of the sales outlets operated by the British Standards Institution (BSI) or by post from the BSI at Linford Wood, Milton Keynes MK14 6LE.
+
+## Annotations
+
+[^key-3c7075be8167e429205f64b21b8ef750]: Commencement: Reg. 1 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-c8d4f75953a26b3631c67a1c846bafaa]: Commencement: Reg. 2 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-3aa5006ba2d54558fe1b365c3a32be2d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1986/1682/regulation/2) substituted (5.12.1986) by [The Measuring Equipment (Measures of Length) (Amendment) Regulations 1986 (S.I. 1986/2109)](https://www.legislation.gov.uk/uksi/1986/2109), [regs. 1](https://www.legislation.gov.uk/uksi/1986/2109/regulation/1), [2](https://www.legislation.gov.uk/uksi/1986/2109/regulation/2)
+
+[^key-628359def9af36d714a6a342620b54ac]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1986/1682/regulation/2) omitted (1.10.1995) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/II)
+
+[^f00001]: Footnote: *See* S.I. 1968/1615.
+
+[^key-64fd9c4fef23ad251057ec392f37fc38]: Commencement: Reg. 3 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^f00002]: Footnote: The relevant amending instrument is S.I. 1985/1871.
+
+[^key-f4dbefe8c16a404217d050780181393e]: Commencement: Reg. 4 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-bcf16e63ffcf05217cd9cf9c4d0f9c96]: Commencement: Reg. 5 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-c923ba9e4c00bf77778715cccfcf8f0e]: Commencement: Reg. 6 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-7f9e0366240b8728b3b560e1fc5ee7f1]: Commencement: Reg. 7 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-17574ef07dca651269c264429429dd0c]: Commencement: Reg. 8 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-25626ad5cd0d2fad846c7c6a02c1504c]: Commencement: Reg. 9 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-4fcaed27180a97dbe29410d2d1d6a831]: Commencement: Reg. 10 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-42ab76cb3ed58df5f2c2504b1f668c0e]: Commencement: Reg. 11 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-d9c9bdd44c0d6beb7de90aa445483392]: Commencement: Reg. 12 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-47563e90215495b32d6a400a7dfc0b65]: Commencement: Reg. 13 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-9c9f0b28d9c6da226865cd28c9ca4ec5]: Commencement: Reg. 14 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-54f7147d64f69478ddf8cdbefa57da9a]: Commencement: Reg. 15 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-2112520cb1b6f538ad786b1be3947f18]: Commencement: Reg. 16 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-6143e8f5f0c507c623fda8d64d25f838]: Commencement: Reg. 17 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-9ea57953fb28782e6b9094ef7d791637]: Textual amendment: [Reg. 17(a)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/17/a) substituted (1.10.1995) by [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/II)
+
+[^key-0df554333f89b687dce4a90cdafea0d1]: Textual amendment: Words in [reg. 17(c)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/17/c) omitted (1.10.1995) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/II)
+
+[^key-0b72c89069f76e0035cdcc940b40d9f0]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/1986/1682/regulation/17A) inserted (7.11.1994 immediately after S.I. 1994/2867 comes into force) by [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/I)
+
+[^key-319076272fbc221c37f09a61134b083b]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/1986/1682/regulation/17A) omitted (1.1.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 2009 (S.I. 2009/3045)](https://www.legislation.gov.uk/uksi/2009/3045), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3045/regulation/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2009/3045/regulation/3/2/d)
+
+[^key-c1c675f5b4900e63b5e32acb29f80908]: Commencement: Reg. 18 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-f33d3bd5b39ad67af5eac5853fe6f4ce]: Commencement: Reg. 19 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-51d7cd11e3194532aa43cdaffb0f8eac]: Commencement: Reg. 20 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-6d3e55dd6a52bf295092e5da4ac02a51]: Commencement: Reg. 21 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-ceef9303923f4834fae927178d691498]: Commencement: Reg. 22 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-6618f03c46b69345974e35bc1c8c11b3]: Commencement: Reg. 23 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-93e0830760756ad382131bcaf7e775ae]: Textual amendment: [Regs. 23A](https://www.legislation.gov.uk/uksi/1986/1682/regulation/23A), [23B](https://www.legislation.gov.uk/uksi/1986/1682/regulation/23B) inserted (25.11.1996) by [The Measuring Equipment (Measures of Length) (Amendment) Regulations 1996 (S.I. 1996/2636)](https://www.legislation.gov.uk/uksi/1996/2636), [regs. 1](https://www.legislation.gov.uk/uksi/1996/2636/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1996/2636/regulation/2/2)
+
+[^key-29dd727ef68c565f1ca0be6d6072984c]: Textual amendment: Words in [reg. 23B](https://www.legislation.gov.uk/uksi/1986/1682/regulation/23B) heading substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4ea09e38075e73af55aaafef6d3cff0e]: Textual amendment: Words in [reg. 23B(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/23B/1) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1da3f56ccd85e1c33a4dc0518f8d8d5a]: Textual amendment: Words in [reg. 23B(2)(b)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/23B/2/b) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 4(2)(c)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/4/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a251c477a30dc03ff8d252f8a42c5567]: Textual amendment: [Reg. 23B(3)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/23B/3) substituted (28.2.2003) by [The Weights and Measures (Standards Amendment) Regulations 2003 (S.I. 2003/214)](https://www.legislation.gov.uk/uksi/2003/214), [reg. 1](https://www.legislation.gov.uk/uksi/2003/214/regulation/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2003/214/schedule/paragraph/3)
+
+[^key-3f6ffa5ed81f5adfa5a0e1bcb3120110]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/1986/1682/regulation/24) substituted (1.10.1995) by [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/II)
+
+[^key-be19e5ceab6877247ec1fb86cd2a57df]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/1986/1682/regulation/25) substituted (25.11.1996) by [The Measuring Equipment (Measures of Length) (Amendment) Regulations 1996 (S.I. 1996/2636)](https://www.legislation.gov.uk/uksi/1996/2636), [regs. 1](https://www.legislation.gov.uk/uksi/1996/2636/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1996/2636/regulation/2/3)
+
+[^key-ce1138aa7146fc9976d3674faa0f5bbc]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/1986/1682/regulation/25) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e54c5da23e79695c56d4cd732164ee91]: Commencement: Reg. 26 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-038fef75e5b2fe1274e5ae5258b48914]: Commencement: Reg. 27 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-f3306c72d6be403b50cac265f536faab]: Commencement: Reg. 28 in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-63893cb822964fa6f50cca479bb10a9e]: Commencement: Sch. in force at 27.10.1986, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1682/regulation/1/1)
+
+[^key-7d15e5f0dd04af35caac7816fd82ab48]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1986/1682/schedule/2) inserted (25.11.1996) by [The Measuring Equipment (Measures of Length) (Amendment) Regulations 1996 (S.I. 1996/2636)](https://www.legislation.gov.uk/uksi/1996/2636), [reg. 1](https://www.legislation.gov.uk/uksi/1996/2636/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1996/2636/schedule)
+
+[^key-2ab22d233b6bc160232c8169449c397e]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1986/1682/schedule/2/paragraph/2) substituted (4.12.1996) by [The Measuring Equipment (Measures of Length) (Amendment) (No. 2) Regulations 1996 (S.I. 1996/3020)](https://www.legislation.gov.uk/uksi/1996/3020), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3020/regulation/1), [2](https://www.legislation.gov.uk/uksi/1996/3020/regulation/2)

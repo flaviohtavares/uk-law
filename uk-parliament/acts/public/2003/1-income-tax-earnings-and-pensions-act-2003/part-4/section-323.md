@@ -1,0 +1,54 @@
+---
+title: Income Tax (Earnings and Pensions) Act 2003, section 323
+act: Income Tax (Earnings and Pensions) Act 2003
+section: '323'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/1/section/323
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Earnings and Pensions) Act 2003, section 323
+
+> **Warning: changes not yet applied to this text (46).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 323. Long service awards
+
+*Extent: E+W+S+N.I.*
+
+(1) No liability to income tax arises in respect of a long service award which meets the condition in subsection (3) if or to the extent that the chargeable amount does not exceed the permitted maximum.
+
+(2) In subsection (1)—
+
+- “**chargeable amount**” means the amount of employment income which would be charged to tax in respect of the award apart from subsection (1),
+- “**long service award**” means an award made to an employee to mark not less than 20 years' service with the same employer, and
+- “**permitted maximum**” means £50[^key-52d633878c9261dea96ea6a9530d57e3] for each year of service in respect of which the award is made.
+
+(3) The condition is that the award must take the form of—
+
+- (a) tangible moveable property,
+- (b) shares in a company which is, or belongs to the same group as, the employer, or
+- (c) the provision of any other benefit except—
+  - (i) a payment,
+  - (ii) a cash voucher,
+  - (iii) a credit-token,
+  - (iv) securities,
+  - (v) shares not within paragraph (b), or
+  - (vi) an interest in or rights over securities or shares.
+
+(4) Subsection (1) does not apply to an award (“the later award”) if another award to mark a particular period of service with the same employer has been made to the employee in the period of 10 years ending with the date on which the later award is made.
+
+(5) For the purposes of this section, service is treated as being with the same employer if it is with two or more employers—
+
+- (a) each of whom is a successor or predecessor of the others, or
+- (b) one of whom is a company which belongs or has belonged to the same group as the others or a predecessor or successor of the others.
+
+(6) In this section “**group**” means a body corporate and its 51% subsidiaries.
+
+## Annotations
+
+[^key-52d633878c9261dea96ea6a9530d57e3]: Textual amendment: Word in s. 323(2) substituted (13.6.2003) by [The Income Tax (Exemption of Minor Benefits) (Increase in Sums of Money) Order 2003 (S.I. 2003/1361)](https://www.legislation.gov.uk/uksi/2003/1361), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1361/article/1/1), [3](https://www.legislation.gov.uk/uksi/2003/1361/article/3)

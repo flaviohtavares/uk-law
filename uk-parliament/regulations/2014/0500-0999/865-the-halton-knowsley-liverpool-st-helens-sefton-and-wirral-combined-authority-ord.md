@@ -1,0 +1,587 @@
+---
+title: The Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority Order 2014
+id: uksi/2014/865
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-03-31'
+text_date: '2026-07-22'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2014/865
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/865/pdfs/uksiem_20140865_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/865/pdfs/uksi_20140865_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/865/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority Order 2014
+
+> Text as at 2026-07-22.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2014 No. 865
+
+Local Government, England
+
+Transport, England
+
+The Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority Order 2014
+
+Made
+
+31st March 2014
+
+Coming into force in accordance with article 1
+
+This Order is made in exercise of the powers conferred by sections 84, 91 and 93 of the Local Transport Act 2008[^f00001] and sections 103 to 105 and 114 to 116 of the Local Democracy, Economic Development and Construction Act 2009[^f00002].
+
+The Secretary of State, having regard to a scheme prepared and published under section 82 of the Local Transport Act 2008 and section 109 of the Local Democracy, Economic Development and Construction Act 2009, considers that the making of this Order is likely to improve –
+
+- (a) the exercise of statutory functions relating to transport in the area to which this Order relates,
+- (b) the effectiveness and efficiency of transport in that area,
+- (c) the exercise of statutory functions relating to economic development and regeneration in that area, and
+- (d) economic conditions in that area.
+
+The Secretary of State is satisfied that the area to which this Order relates meets the conditions set out in section 103 of the Local Democracy, Economic Development and Construction Act 2009.
+
+The Secretary of State has consulted—
+
+- (a) the metropolitan district councils for the area comprised in the Merseyside integrated transport area,
+- (b) the councils for the local government areas who are within the area for which the combined authority is to be established,
+- (c) the Merseyside Integrated Transport Authority,
+- (d) such other persons as the Secretary of State considered appropriate.
+
+The councils whose areas are comprised in the Merseyside integrated transport area have consented to the making of this Order.
+
+In making this Order, the Secretary of State has had regard to the need to reflect the identities and interests of local communities, and to secure effective and convenient local government.
+
+A draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament pursuant to section 94 of the Local Transport Act 2008 and section 117 of the Local Democracy, Economic Development and Construction Act 2009.
+
+Accordingly, the Secretary of State makes the following Order:
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-1a79de0ffd55ce7679ff8f4a95db1c1f]
+
+This Order may be cited as the Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority Order 2014 and shall come into force on the day after the day on which it is made.
+
+### 2. Interpretation[^key-0f9f40882b57fb69d6dbdcb14544af49]
+
+In this Order—
+
+- “the 2009 Act” means the Local Democracy, Economic Development and Construction Act 2009;
+- “combined area” means the area consisting of the areas of the constituent councils;
+- “the Combined Authority” means the Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority constituted by article 3;
+- “commencement date” means the date on which this Order comes into force;
+- “constituent councils” means the councils for the local government areas of Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral;
+- “the Executive” means the Merseyside Passenger Transport Executive;
+- “financial year” means the period of 12 months ending with 31st March in any year;
+- “the ITA” means the Merseyside Integrated Transport Authority;
+- “Halton Council” means the council of the borough of Halton; and
+- “Local Enterprise Partnership” means the Board of the Liverpool City Region Local Enterprise Partnership.
+
+## PART 2 — Establishment of a combined authority for Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral
+
+### 3. Establishment[^key-3bc684af4adb71829e7d0badb2275f8c]
+
+(1) There is established a combined authority for the combined area.
+
+(2) The combined authority is to be a body corporate and to be known as the Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority.
+
+(3) The functions of the Combined Authority are those functions conferred or imposed upon it by this Order or by any other enactment (whenever passed or made), or as may be delegated to it by or under this Order or any other enactment (whenever passed or made).
+
+### 4. Constitution[^key-995e4eb28e6a3135f1e0a24679504bab]
+
+Schedule 1 (which makes provision about the constitution of the Combined Authority) has effect.
+
+### 5. Funding[^key-cdf6e085e16427d9ecb3f908cdd745fb]
+
+(1) The constituent councils must meet the costs of the Combined Authority reasonably attributable to the exercise of its functions relating to economic development and regeneration.
+
+(2) The amount payable by each of the constituent councils is to be determined by apportioning the costs of the Combined Authority referred to in paragraph (1) between the constituent councils in such proportions as they may agree or, in default of such agreement, in proportion to the total resident population at the relevant date of the area of each council concerned as estimated by the Registrar General.
+
+(3) For the purposes of paragraph (2) the relevant date in relation to a payment for a financial year is 30th June in the financial year which commenced two years prior to the current financial year.
+
+(4) Subject to paragraphs (5) and (6) the costs of the Combined Authority reasonably attributable to the exercise of its functions relating to transport shall be met by means of two separate levies issued by the Authority to—
+
+- (a) the district councils in the county of Merseyside; and
+- (b) Halton Council,
+
+under section 74 of the Local Government Finance Act 1988[^f00003], and in accordance with regulations made thereunder.
+
+(5) In determining the amount of the levies to be issued to Halton Council for a financial year, no account may be taken of the cost of meeting any liabilities or expenses, including transferred pension liabilities, incurred by the Combined Authority or to be incurred in consequence of article 6 (abolition of the ITA and transfer of functions etc.).
+
+(6) Without prejudice to the generality of article 12, a levy issued by the ITA under section 74 of the Local Government Finance Act 1988 to the district councils in the county of Merseyside in respect of the financial year beginning 1st April 2014 has effect for that year from and after the commencement date as if it had been so issued by the Combined Authority.
+
+(7) No levy shall be issued to Halton Council for that financial year, but that Council must pay a contribution to the Combined Authority equal to the amount which it has budgeted to spend on the functions transferred under article 8 for that financial year.
+
+## PART 3 — Transport
+
+### 6. Abolition and transfer of functions etc.[^key-ece889032d1c1ffc64e9a7c3b4e3d61b]
+
+(1) The Merseyside integrated transport area is dissolved and the ITA is abolished.
+
+(2) Subject to paragraph (3), on the abolition of the ITA—
+
+- (a) its functions; and
+- (b) its property, rights and liabilities,
+
+are transferred to the Combined Authority.
+
+(3) On the abolition of the ITA all rights and liabilities (including rights and liabilities in respect of superannuation) arising under contracts of employment with the ITA are transferred to the Executive.
+
+### 7. Adaptation of enactments — integrated transport authority[^key-0e72183457bf84b85f253544b911d4d1]
+
+(1) This article has effect in consequence of article 6.
+
+(2) In any enactment (whenever passed or made)—
+
+- (a) any reference to an integrated transport area; or
+- (b) any reference which falls to be read as a reference to such an area,
+
+is to be treated as including a reference to the combined area.
+
+(3) In any enactment (whenever passed or made)—
+
+- (a) any reference to an integrated transport authority; or
+- (b) any reference which falls to be read as a reference to such an authority,
+
+is to be treated as including a reference to the Combined Authority.
+
+### 8. Transfer of functions — Halton Council[^key-c48c0382e2e13eba5039ba62612359ce]
+
+(1) There are transferred to the Combined Authority the functions of Halton Council under the following enactments—
+
+- (a) Parts 4 and 5 of the Transport Act 1985[^f00004]; and
+- (b) Part 2 of the Transport Act 2000[^f00005].
+
+(2) Halton Council shall—
+
+- (a) after consulting the other constituent councils; and
+- (b) not later than 1st April 2018,
+
+submit to the Secretary of State proposals for the making of a scheme by the Secretary of State for the transfer to the Combined Authority of specified property, rights and liabilities held, acquired or incurred by the Council for the purposes of any of the functions transferred under paragraph (1).
+
+(3) After considering the proposals and any representations made on them by the other constituent councils, the Secretary of State may, by way of a scheme made under section 115 of the 2009 Act, make such provision for the transfer of such property, rights and liabilities (whether or not specified in the proposals) as he thinks fit.
+
+(4) Nothing in this Order has effect to transfer to the Combined Authority—
+
+- (a) any function of Halton Council relating to—
+  - (i) the levying of tolls or the imposition of road user charging; or
+  - (ii) the application of the proceeds of tolls or road user charges; or
+- (b) any functions, property, rights and liabilities of Halton Council relating to the Mersey Gateway and Silver Jubilee Bridges, including their financing, delivery, operation and maintenance, and the highway network associated with them.
+
+### 9. Adaptation of enactments in consequence of article 8[^key-8896ca857a95efce754a51b9e9274dbc]
+
+(1) This article has effect in consequence of article 8.
+
+(2) In relation to any function transferred under article 8, any reference in any enactment (whenever passed or made) to a county, or to any class of area which includes a county, is to be treated as including a reference to the combined area.
+
+(3) In any enactment (whenever passed or made) any reference, in relation to any function transferred under article 8, to a county council, or to any class of body which includes a county council, is to be treated as including a reference to the Combined Authority.
+
+### 10. Passenger Transport Executive[^key-b1ff45a6b71f9dd7ddc52b3ec036374b]
+
+(1) The Executive is to be an executive body of the Combined Authority for the purposes of Part 5 of the Local Transport Act 2008 and Part 6 of the 2009 Act and shall be known as Merseytravel.
+
+(2) In the application of section 101 of the Local Government Act 1972[^f00006] (arrangements for the discharge of functions) to the Combined Authority the Executive is to be treated as if it were an officer of the Combined Authority.
+
+### 11. Other transport functions[^key-cfb3a47683a897166e41e3979d84d04e]
+
+(1)[^key-03f10ce5781d7fc34bb96606cbdec60d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Sections 237A to 237E of the Local Government Act 1972[^f00007] (fixed penalty notices) shall apply in relation to the Combined Authority so far as those provisions relate to the Mersey Tunnel Byelaws 2003[^f00008].
+
+(3) The Combined Authority has power to enter into agreements as if it were [^key-74fa87073ee81eeff306ec279cae2c0f]... a traffic authority under the Road Traffic Regulation Act 1984[^f00010] and a street authority under section 49 of the New Roads and Street Works Act 1991.
+
+(4) The costs incurred by the Combined Authority in discharging the functions exercisable by it by virtue of this article shall, except so far as the constituent councils agree otherwise, be defrayed by the Combined Authority.
+
+(5) The costs so defrayed shall, for the purposes of section 74(10) of the Local Government Finance Act 1988, fall to be treated as expenses attributable to the exercise of the Combined Authority’s functions relating to transport.
+
+(6)[^key-82f93f91a8bd82dcd02f781eadcbd550] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-43079bc8ba73d0c9fe49ac5855b6de01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Continuity[^key-b9eb8affbb753549639d752859cb9d70]
+
+(1) Nothing in this Part of the Order affects the validity of anything done by or in relation to the ITA or Halton Council in relation to the functions transferred under this Part before the commencement date.
+
+(2) There may be continued by or in relation to the Combined Authority anything (including legal proceedings) which—
+
+- (a) relates to any of the functions, property, rights or liabilities transferred to the Combined Authority; and
+- (b) is in the process of being done by or in relation to the ITA, or Halton Council in relation to the functions transferred under this Part, immediately before the commencement date.
+
+(3) Anything which—
+
+- (a) was made or done by or in relation to the ITA or to Halton Council for the purposes of or otherwise in connection with any of the functions, property, rights or liabilities transferred; and
+- (b) is in effect immediately before the transfer takes effect,
+
+has effect as if made or done by or in relation to the Combined Authority.
+
+(4) The Combined Authority shall be substituted for the ITA in any instruments, contracts or legal proceedings which—
+
+- (a) relate to any of the functions, property, rights or liabilities transferred; and
+- (b) are made or commenced before the transfer takes effect.
+
+(5) A reference in this article to anything made or done by or in relation to the ITA includes a reference to anything which by virtue of any enactment is to be treated as having been made or done by or in relation to the ITA.
+
+(6) In relation to the rights and liabilities transferred under article 6(3), references in the foregoing provisions of this article to the Combined Authority are to be treated as references to the Executive.
+
+## PART 4 — Additional functions
+
+### 13. Economic development and regeneration functions[^key-ab01af6ec403c443d7cd0530860e93f9]
+
+(1) The functions of the constituent councils set out in Schedule 2 are exercisable by the Combined Authority in relation to its area.
+
+(2) The functions are exercisable concurrently with the constituent councils.
+
+(3) Any requirement in any enactment for a constituent council to exercise such a function may be fulfilled by the exercise of that function by the Combined Authority.
+
+### 14. Incidental provisions[^key-3c3ad490f8ee630cddf47efe638bcd02]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^key-3c3ad490f8ee630cddf47efe638bcd02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^key-3c3ad490f8ee630cddf47efe638bcd02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^key-0b665278e8fb0d6b87c78583db638ed0] Regulation 64 of the Local Government Pension Scheme Regulations 2013[^f00013] (special circumstances where revised actuarial valuations and certificates must be obtained) shall have effect as if after paragraph (8) there were inserted—
+
+> (8A) Paragraph (8B) applies where the exiting employer is the Merseyside Integrated Transport Authority (“the ITA”) and the liabilities of the fund in respect of benefits due to the ITA’s current and former employees (or those of any predecessor authority) have been or are to be transferred to the Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority as a result of the establishment of the combined authority by article 3(1) of the Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority Order 2014.
+>
+> (8B) Where this paragraph applies, no exit payment is due under paragraph (1) and paragraph (2) does not apply.
+
+.
+
+Signed on behalf of the Secretary of State for Communities and Local Government
+
+Brandon Lewis
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+31st March 2014
+
+## SCHEDULE 1 — Constitution
+
+Article 4
+
+### 1. Membership[^key-8c970ce48d2b34df2d7ff25b2351ec13]
+
+(1) Each constituent council shall appoint one of its elected members as a member of the Combined Authority.
+
+(2) Each constituent council shall appoint another elected member as a member of the Combined Authority in the absence of the member appointed under sub-paragraph (1) (“the substitute member”).
+
+(3) The Local Enterprise Partnership shall nominate one of its members to be a member of the Combined Authority (“Local Enterprise Partnership Member”).
+
+(4) The Local Enterprise Partnership shall nominate another of its members to act as a member of the Combined Authority in the absence of the member appointed under sub-paragraph (5) (“the substitute member”).
+
+(5) The Combined Authority shall appoint a member nominated by the Local Enterprise Partnership as a member of the Combined Authority (“Local Enterprise Partnership Member”).
+
+(6) The Combined Authority shall appoint another member nominated by the Local Enterprise Partnership to act as a member of the Combined Authority in the absence of the member appointed under sub-paragraph (5) (“the substitute member”).
+
+(7) For the purposes of this Schedule any reference to a member is to be treated as including a reference to the Local Enterprise Partnership Member.
+
+(8) A person ceases to be a member or substitute member of the Combined Authority if they cease to be—
+
+- (a) a member of the constituent council that appointed them; or
+- (b) a member of the Local Enterprise Partnership that nominated them.
+
+(9) A person may resign as a member or substitute member of the Combined Authority by written notice served on the proper officer of the council or the chairman or vice-chairman of the Local Enterprise Partnership (as the case may be) of—
+
+- (a) the constituent council that appointed them; or
+- (b) the Local Enterprise Partnership that nominated them
+
+and the resignation shall take effect on receipt of the notice by the proper officer of the council or chairman or vice-chairman of the Local Enterprise Partnership (as the case may be).
+
+(10) Where a member or substitute member’s appointment ceases by virtue of sub-paragraph (8) or (9)—
+
+- (a) the constituent council that made the appointment must, as soon as practicable, give written notice of that fact to the Combined Authority and appoint another of its elected members in that person’s place;
+- (b) the Local Enterprise Partnership must, as soon as practicable, give written notice of that fact to the Combined Authority and nominate another of its members in that person’s place.
+
+(11) The Combined Authority shall appoint a member nominated under sub-paragraph (10)(b) at the next ordinary meeting of the Combined Authority.
+
+(12) A constituent council may at any time terminate the appointment of a member or substitute member appointed by it to the Combined Authority and appoint another of its elected members in that person’s place.
+
+(13) Where a constituent council exercises its power under sub-paragraph (12), it must give written notice of the new appointment and the termination of the previous appointment to the Combined Authority and the new appointment shall take effect and the previous appointment terminate at the end of one week from the date on which the notice is given or such longer period not exceeding one month as is specified in the notice.
+
+(14) The Local Enterprise Partnership may at any time terminate the appointment of a member or substitute member nominated by it to the Combined Authority and nominate another of its members in that person’s place.
+
+(15) Where the Local Enterprise Partnership exercises its power under sub-paragraph (14), it must give written notice of the new nomination and the termination of the previous appointment to the Combined Authority.
+
+(16) The Combined Authority shall appoint a member nominated under sub-paragraph (15) and the new appointment shall take effect and the previous appointment terminate at the end of one week from the date on which the notice is given or such longer period not exceeding one month as is specified in the notice.
+
+(17) For the purposes of this paragraph an elected mayor of a constituent council is to be treated as a member of the constituent council.
+
+### 2. Chairman and vice-chairman[^key-e01b50828c14567e4619cdd1ab7afe44]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Proceedings[^key-7e3346aea29b9c4d4749c34a666cf44c]
+
+(1)[^key-b78f729a724a6233a1cd8a5bdd13e80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) No business shall be transacted at a meeting of the Combined Authority unless at least four members or substitute members appointed by the constituent councils are present at that meeting.
+
+(3)[^key-afcd21c4321bed6537beacb81e8890ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-afcd21c4321bed6537beacb81e8890ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-afcd21c4321bed6537beacb81e8890ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5A)[^key-afcd21c4321bed6537beacb81e8890ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-afcd21c4321bed6537beacb81e8890ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) Members appointed from the Local Enterprise Partnership shall be non-voting members of the Combined Authority.
+
+(8)[^key-25b5d4e2e68683f8970e675c009dc091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-eca2f3da732152a3c1fd781f062a208b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-a39f108533c9ba7c7ce79352bb32e1cd] The provisions in this Schedule relating to the Mayor or deputy Mayor only have effect where the Mayor, or deputy Mayor, as the case may be, are in office.
+
+(11)[^key-5f3198f0f7b7cbd8e0feb4a6c87bd4ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Committees[^key-1d8e6961b4c429cad16b86cf1fe0af9a]
+
+(1) The Combined Authority shall appoint one or more committees as an overview and scrutiny committee, or as the case may be committees, of the Combined Authority.
+
+(2) The Combined Authority shall appoint at least one member of each of the constituent councils to each overview and scrutiny committee appointed by the Combined Authority.
+
+(3) An overview and scrutiny committee appointed by the Combined Authority may not include any member of the Combined Authority.
+
+(4) An overview and scrutiny committee appointed by the Combined Authority shall have the power to—
+
+- (a) invite members or substitute members of the Combined Authority to attend before it to answer questions;
+- (b) invite other persons, including members of the public, to attend meetings of the committee;
+- (c) review or scrutinise decisions made, or other action taken, in connection with the discharge of any functions which are the responsibility of the Combined Authority;
+- (d) make reports or recommendations to the Combined Authority with respect to the discharge of any functions which are the responsibility of the Combined Authority.
+
+(5) The power to review or scrutinise a decision made but not implemented under sub-paragraph (4)(c) includes the power to recommend that the decision be reconsidered by the Combined Authority.
+
+(6) Where an overview and scrutiny committee appointed by the Combined Authority makes a report or recommendation under sub-paragraph (4)(d) the committee may—
+
+- (a) publish the report or recommendations;
+- (b) by notice in writing require the Combined Authority to—
+  - (i) consider the report or recommendations;
+  - (ii) respond to the overview and scrutiny committee indicating what (if any) action the Combined Authority proposes to take;
+  - (iii) if the overview and scrutiny committee has published the report or recommendations under paragraph (a), publish the response.
+
+(7) A notice served under sub-paragraph (6)(b) must require the Combined Authority to comply with it within two months beginning with the date on which the Combined Authority received the reports or recommendations or (if later) the notice.
+
+(8) The Combined Authority shall comply with a notice given under sub-paragraph (6)(b).
+
+(9) Sub-paragraphs (6)(a) and (8) are subject to section 9FG of the Local Government Act 2000 and to any provision made under section 9GA(8)[^f00014] and the Combined Authority shall be treated as a local authority for those purposes.
+
+### 5. Records[^key-87fa2f15be68c3120446cce4483e0dec]
+
+(1) The Combined Authority must make arrangements for the names of members and substitute members present at any meeting to be recorded.
+
+(2) Minutes of the proceedings of a meeting of the Combined Authority, or any committee or sub-committee of the Combined Authority, are to be kept in such form as the Combined Authority may determine.
+
+(3) Any such minutes are to be signed at the same or next suitable meeting of the Combined Authority, the committee or sub-committee as the case may be, by the person presiding at that meeting.
+
+(4) Any minute purporting to be signed as mentioned in sub-paragraph (3) shall be received in evidence without further proof.
+
+(5) Until the contrary is proved, a meeting of the Combined Authority, committee or sub-committee, a minute of whose proceedings has been signed in accordance with this paragraph is deemed to have been duly convened and held, and all the members and substitute members present at the meeting are deemed to have been duly qualified.
+
+(6) For the purposes of sub-paragraph (3) the next suitable meeting is the next following meeting or, where standing orders made by the Combined Authority provide for another meeting of the authority, committee or sub-committee to be regarded as suitable, either the next following meeting or that other meeting.
+
+### 6. Standing orders[^key-8acaf911f536ed1bf5e1b843eda7ddcf]
+
+The Combined Authority may make standing orders for the regulation of its proceedings and business and may vary or revoke any such orders.
+
+### 7. Remuneration and pensions[^key-03db017895bcf6e288d20e2bb05ef2cf][^key-26a4798d1f3b8f08453431b6733751ce][^key-61ba1b035679048c7b5b5abaa925413d]
+
+(1) Subject to[^key-a6065fa91f030cfe2ed9ed64f3a2196e] sub-paragraphs (3) and (4)[^key-2bf0a9dd452e9db0d9d2ca91cfaf8832], no remuneration is to be payable by the Combined Authority to—
+
+- (a)[^key-35f965d5f00a55b259468db3428c3c2f] its members, other than—
+  - (i) allowances for travel and subsistence paid in accordance with a scheme drawn up by the Combined Authority;
+  - (ii) allowances payable in accordance with a scheme made under section 113E of the 2009 Act;
+- (b) members of a constituent council who are appointed to an overview and scrutiny committee or sub-committee, or to members of the Combined Authority or a constituent council who are appointed to the audit committee, of the Combined Authority.
+
+(2) A constituent council may, in accordance with its own scheme of allowances, pay a special responsibility allowance to any member appointed by it to the Combined Authority in respect of duties and responsibilities undertaken as a member of the Combined Authority.
+
+(3) The Combined Authority may only pay an allowance to the Mayor or to a member of the Combined Authority or to a member of a constituent council referred to in sub-paragraph (1)(b)[^key-aa4320d97015fc50745a9fc1a0578789] if—
+
+- (a) the Combined Authority has considered a report published by an independent remuneration panel established in accordance with article 16 of the Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) Order 2017[^key-aaba7ef8294573571eabcb227b5157ee] which contains recommendations for such an allowance; and
+- (b) the allowance paid by the Combined Authority does not exceed the amount specified in the recommendation made by the independent remuneration panel.
+
+(3A)[^key-7f0c45b852138159e8e1fe530e6fb55f] Sub-paragraph (3) does not apply in relation to allowances payable in accordance with a scheme made under section 113E of the 2009 Act.
+
+(4)[^key-b1569d38d9b4a18081b8c2ceb324f044] Where the Combined Authority pays a relevant allowance to a person—
+
+- (a) that person is entitled to a pension paid in accordance with a scheme established under section 1 of the Public Service Pensions Act 2013;
+- (b) that allowance is to be treated as an amount in respect of which such a pension is payable under that scheme; and
+- (c) the Combined Authority must make such payments as may be required in respect of pension payable to a person in relation to that allowance.
+
+(5)[^key-30e01e623825b0ec03a1c4eed3960d20] In sub-paragraph (4), a “relevant allowance” means—
+
+- (a) an allowance payable under sub-paragraphs (2) or (3) to any person referred to in those sub-paragraphs, which is not an allowance for travel and subsistence;
+- (b) an allowance payable in accordance with a scheme made under section 113E of the 2009 Act.
+
+## SCHEDULE 2 — Economic development and regeneration functions
+
+Article 13(1)
+
+**1.**[^key-a6e539616ba23e76db879d9afec5bae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-e37fe09b930b5aba305ba7557afb4a86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-d1273d8c61c5e0bce15ba08f96893384] The duties under sections [^key-9d124300f712ffe9b21a811b5774f477]... 17A and 18A(1)(b), of the Education Act 1996[^f00016] and the power under sections 514A and 560A of that Act (duties and powers related to the provision of education and training for persons over compulsory school age).
+
+**4.**[^key-54acd1ac0479b549d14c0005de6ecdbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-d53018f500c91de88c3a466402da872c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This order establishes the Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority.
+
+Part 6 of the Local Democracy, Economic Development and Construction Act 2009 (“the 2009 Act”) provides for the establishment of combined authorities for the areas of two or more local authorities in England. Combined authorities are bodies corporate which may be given power to exercise functions relating to transport and to economic development and regeneration in their area.
+
+The Secretary of State may only establish a combined authority for an area where a scheme for such an authority has been published under section 109 of the 2009 Act. This order has been made following the publication of such a scheme on 30th September 2013 by the constituent councils whose areas together make up the combined area of the new authority. The scheme is available at: www.knowsley.gov.uk/governancereview.
+
+*Part 2* of the Order establishes the new authority, to be known as the Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority and makes provision for its constitution and funding.
+
+*Article 4* of and *Schedule 1* to the Order make provision for the constitution of the Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority. This is supplemental to the provision that is made by Part 1A of Schedule 12 to the Local Government Act 1972 (see paragraph (6A) of that Schedule, as amended by the 2009 Act).
+
+*Article 5* makes provision for the funding, by the constituent councils, of those costs of the Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority that relate to the exercise of its economic development and regeneration functions.
+
+*Part 3* concerns the transport functions of the combined authority. *Article 6* dissolves the Merseyside Passenger Transport Authority, abolishes its area and transfers its functions to the Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority. Contracts of employment are transferred to the Merseyside Passenger Transport Executive. *Article 7* makes general adaptations to primary and subordinate legislation, so that references to an integrated transport authority or area are to be treated as extending to the combined authority and its area. *Article 8* transfers to the combined authority the functions of Halton Council under Parts 4 and 5 of the Transport Act 1985 and provides for the submission of proposals for, and the making of, a scheme for the transfer of property, rights and liabilities held, acquired or incurred by that council for the purposes of those functions. *Article 9* makes general amendments to primary and secondary legislation affected by the transfer of functions under article 8. *Article 10* makes the Merseyside Passenger Transport Executive an executive body of the combined authority and changes its name to Merseytravel. A*rticle 11* provides for other transport functions to be exercisable by the Combined Authority and Article 12 provides for continuity when functions, property, rights and liabilities are transferred under Part 3 of this Order.
+
+*Part 4* confers additional functions on the Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Authority. *Article 13* confers functions of the constituent councils relating to economic development and regeneration. These are set out in Schedule 2 to the Order and are to be exercised concurrently with the constituent councils. *Articles 14 to 16* make some general, incidental provisions relating to the Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority to enable it to carry out its functions more effectively.
+
+A full regulatory impact assessment has not been prepared as this instrument will have no impact on the costs of business and the voluntary sector.
+
+## Annotations
+
+[^f00001]: Footnote: [2008 c.26](https://www.legislation.gov.uk/ukpga/2008/26).
+
+[^f00002]: Footnote: [2009 c.20](https://www.legislation.gov.uk/ukpga/2009/20).
+
+[^key-1a79de0ffd55ce7679ff8f4a95db1c1f]: Commencement: Art. 1 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^key-0f9f40882b57fb69d6dbdcb14544af49]: Commencement: Art. 2 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^key-3bc684af4adb71829e7d0badb2275f8c]: Commencement: Art. 3 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^key-995e4eb28e6a3135f1e0a24679504bab]: Commencement: Art. 4 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^key-cdf6e085e16427d9ecb3f908cdd745fb]: Commencement: Art. 5 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^f00003]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41); section 74 was amended by the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), Schedule 13, paragraph 72; the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), Schedule 6, paragraph 21; the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 24; the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29) section 105; the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), Schedule 8, paragraph 305(a); the Fire and Rescue Services Act [2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), Schedule 1, paragraph 68; the Local Government and Involvement in Public Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), Schedule 1, paragraph 16; the Local Democracy, Economic Development and Construction Act [2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), Schedule 6, paragraphs 74 and 75 and Schedule 7, Part 4; the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), Schedule 16, paragraph 182(a); the Localism Act 2011 (c. .20), Schedule 7, paragraphs 1, 2; and by [S.I. 1994/2825](https://www.legislation.gov.uk/uksi/1994/2825).
+
+[^key-ece889032d1c1ffc64e9a7c3b4e3d61b]: Commencement: Art. 6 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^key-0e72183457bf84b85f253544b911d4d1]: Commencement: Art. 7 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^key-c48c0382e2e13eba5039ba62612359ce]: Commencement: Art. 8 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^f00004]: Footnote: [1985 c.67](https://www.legislation.gov.uk/ukpga/1985/67).
+
+[^f00005]: Footnote: [2000 c.38](https://www.legislation.gov.uk/ukpga/2000/38).
+
+[^key-8896ca857a95efce754a51b9e9274dbc]: Commencement: Art. 9 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^key-b1ff45a6b71f9dd7ddc52b3ec036374b]: Commencement: Art. 10 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^f00006]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
+
+[^key-cfb3a47683a897166e41e3979d84d04e]: Commencement: Art. 11 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^key-03f10ce5781d7fc34bb96606cbdec60d]: Textual amendment: [Art. 11(1)](https://www.legislation.gov.uk/uksi/2014/865/article/11/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [16(2)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/16/2/a)
+
+[^f00007]: Footnote: Section 237A was inserted by the Local Government and Public Health Involvement Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28) section 130.
+
+[^f00008]: Footnote: The Mersey Tunnel Byelaws were made by the Merseyside Passenger Transport Authority under section 102 of the County of Merseyside Act 1980 ([1980 c. x](https://www.legislation.gov.uk/ukla/1980/10)) as amended by the Mersey Tunnels Order 1986 ([S.I. 1986/297](https://www.legislation.gov.uk/uksi/1986/297)).
+
+[^key-74fa87073ee81eeff306ec279cae2c0f]: Textual amendment: Words in [art. 11(3)](https://www.legislation.gov.uk/uksi/2014/865/article/11/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [16(2)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/16/2/b)
+
+[^f00010]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27); the definition of “traffic authority” is in section 121A which was inserted by the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22) Schedule 8, paragraph 70 and amended by the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29) section 271(1), (2).
+
+[^key-82f93f91a8bd82dcd02f781eadcbd550]: Textual amendment: [Art. 11(6)](https://www.legislation.gov.uk/uksi/2014/865/article/11/6) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [16(2)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/16/2/c)
+
+[^key-43079bc8ba73d0c9fe49ac5855b6de01]: Textual amendment: [Art. 11(7)](https://www.legislation.gov.uk/uksi/2014/865/article/11/7) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [16(2)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/16/2/c)
+
+[^key-b9eb8affbb753549639d752859cb9d70]: Commencement: Art. 12 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^key-ab01af6ec403c443d7cd0530860e93f9]: Commencement: Art. 13 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^key-3c3ad490f8ee630cddf47efe638bcd02]: Textual amendment: [Arts. 14-16](https://www.legislation.gov.uk/uksi/2014/865/article/14) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/16/3)
+
+[^key-0b665278e8fb0d6b87c78583db638ed0]: Commencement: Art. 17 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^f00013]: Footnote: [S.I. 2013/2356](https://www.legislation.gov.uk/uksi/2013/2356); there are no relevant amendments.
+
+[^key-8c970ce48d2b34df2d7ff25b2351ec13]: Commencement: Sch. 1 para. 1 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^key-e01b50828c14567e4619cdd1ab7afe44]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/2) omitted (8.5.2017) by virtue of [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [21(2)(a)](https://www.legislation.gov.uk/uksi/2017/430/article/21/2/a)
+
+[^key-7e3346aea29b9c4d4749c34a666cf44c]: Commencement: Sch. 1 para. 3 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^key-b78f729a724a6233a1cd8a5bdd13e80c]: Textual amendment: [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/3/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [16(4)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/16/4/a)
+
+[^key-afcd21c4321bed6537beacb81e8890ce]: Textual amendment: [Sch. 1 para. 3(3)-(6)](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/3/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [16(4)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/16/4/b)
+
+[^key-25b5d4e2e68683f8970e675c009dc091]: Textual amendment: [Sch. 1 para. 3(8)](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/3/8) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [16(4)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/16/4/c)
+
+[^key-eca2f3da732152a3c1fd781f062a208b]: Textual amendment: [Sch. 1 para. 3(9)](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/3/9) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [16(4)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/16/4/c)
+
+[^key-a39f108533c9ba7c7ce79352bb32e1cd]: Textual amendment: [Sch. 1 para. 3(10)](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/3/10)[(11)](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/3/11) inserted (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [21(2)(b)(vi)](https://www.legislation.gov.uk/uksi/2017/430/article/21/2/b/vi)
+
+[^key-5f3198f0f7b7cbd8e0feb4a6c87bd4ec]: Textual amendment: [Sch. 1 para. 3(11)](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/3/11) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [16(4)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/16/4/c)
+
+[^key-1d8e6961b4c429cad16b86cf1fe0af9a]: Commencement: Sch. 1 para. 4 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^f00014]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22). Sections 9FG and 9GA were inserted by the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), section 21 and Schedule 2.
+
+[^key-87fa2f15be68c3120446cce4483e0dec]: Commencement: Sch. 1 para. 5 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^key-8acaf911f536ed1bf5e1b843eda7ddcf]: Commencement: Sch. 1 para. 6 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^key-03db017895bcf6e288d20e2bb05ef2cf]: Commencement: Sch. 1 para. 7 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^key-26a4798d1f3b8f08453431b6733751ce]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/7) substituted (17.3.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/430/article/1/2), [21(2)(c)](https://www.legislation.gov.uk/uksi/2017/430/article/21/2/c)
+
+[^key-61ba1b035679048c7b5b5abaa925413d]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/7) heading inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2026/346/regulation/12/a)
+
+[^key-a6065fa91f030cfe2ed9ed64f3a2196e]: Textual amendment: [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/7/1) substituted (27.3.2024) by [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [22(a)](https://www.legislation.gov.uk/uksi/2024/430/regulation/22/a)
+
+[^key-2bf0a9dd452e9db0d9d2ca91cfaf8832]: Textual amendment: Words in [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/7/1) substituted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2026/346/regulation/12/b)
+
+[^key-35f965d5f00a55b259468db3428c3c2f]: Textual amendment: [Sch. 1 para. 7(1)(a)](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/7/1/a) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2026/719/article/6/2/a)
+
+[^key-aa4320d97015fc50745a9fc1a0578789]: Textual amendment: Words in [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/7/3) inserted (27.3.2024) by [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [22(b)(i)](https://www.legislation.gov.uk/uksi/2024/430/regulation/22/b/i)
+
+[^key-aaba7ef8294573571eabcb227b5157ee]: Textual amendment: Words in [Sch. 1 para. 7(3)(a)](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/7/3/a) substituted (27.3.2024) by [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [22(b)(ii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/22/b/ii)
+
+[^key-7f0c45b852138159e8e1fe530e6fb55f]: Textual amendment: [Sch. 1 para. 7(3A)](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/7/3A) inserted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2026/719/article/6/2/b)
+
+[^key-b1569d38d9b4a18081b8c2ceb324f044]: Textual amendment: [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/7/5) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2026/346/regulation/12/c)
+
+[^key-30e01e623825b0ec03a1c4eed3960d20]: Textual amendment: [Sch. 1 para. 7(5)](https://www.legislation.gov.uk/uksi/2014/865/schedule/1/paragraph/7/5) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2026/719/article/6/2/c)
+
+[^key-a6e539616ba23e76db879d9afec5bae4]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2014/865/schedule/2/paragraph/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [16(5)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/16/5/a)
+
+[^key-e37fe09b930b5aba305ba7557afb4a86]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/865/schedule/2/paragraph/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [16(5)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/16/5/a)
+
+[^key-d1273d8c61c5e0bce15ba08f96893384]: Commencement: Sch. 2 para. 3 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1)
+
+[^key-9d124300f712ffe9b21a811b5774f477]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2014/865/schedule/2/paragraph/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [16(5)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/16/5/b)
+
+[^f00016]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Sections 15ZA, 15ZB, 15ZC, 17A, 18A, 514A and 560A were inserted by the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), sections 41, 42, 45 to 48 and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Sections 17A and 18A were also amended by the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), sections 30 and 82.
+
+[^key-54acd1ac0479b549d14c0005de6ecdbf]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/865/schedule/2/paragraph/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [16(5)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/16/5/c)
+
+[^key-d53018f500c91de88c3a466402da872c]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2014/865/schedule/2/paragraph/5) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [16(5)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/16/5/c)

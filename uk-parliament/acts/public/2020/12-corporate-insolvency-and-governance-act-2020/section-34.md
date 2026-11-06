@@ -1,0 +1,53 @@
+---
+title: Corporate Insolvency and Governance Act 2020, section 34
+act: Corporate Insolvency and Governance Act 2020
+section: '34'
+status: revised-with-pending-changes
+text_date: '2022-02-14'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2020/12/section/34
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporate Insolvency and Governance Act 2020, section 34
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2022-02-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/12
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 34. Procedure for regulations made by the Department
+
+*Extent: N.I.*
+
+(1) Any power of the Department to make regulations under sections 28 to 33 is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
+
+(2) Regulations made under section 28 by the Department, other than any to which subsection (5) applies, and regulations made under section 33 by the Department which make provision by amending an Act or Northern Ireland legislation, must be laid before the Assembly as soon as reasonably practicable after being made.
+
+(3) Regulations laid before the Assembly by virtue of subsection (2) cease to have effect at the end of the period of 40 days beginning with the day on which the regulations are made, unless during that period the regulations are approved by a resolution of the Assembly.
+
+(4) In calculating the period of 40 days, no account is to be taken of any time during which the Assembly is—
+
+- (a) dissolved, or
+- (b) in recess for more than 4 days, or
+- (c) adjourned for more than 6 days.
+
+(5) Where regulations cease to have effect as a result of subsection (3) that does not—
+
+- (a) affect anything previously done under or by virtue of the regulations, or
+- (b) prevent the making of new regulations.
+
+(6) Regulations made by the Department under section 28 which merely revoke other regulations under that section (with or without transitional provision), and regulations made by the Department under section 31(4), are subject to negative resolution within the meaning of section 41(6) the 1954 Act.
+
+(7) Regulations under section 32(3) may not be made by the Department unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
+
+(8) Regulations made by the Department under section 33 which do not make provision by amending an Act or Northern Ireland legislation are subject to negative resolution within the meaning of section 41(6) of the 1954 Act, but this does not apply to any contained in a statutory rule by virtue of subsection (9).
+
+(9) A statutory rule that (in accordance with subsection (2)) is laid before the Assembly may contain regulations under section 33 that would, but for subsection (8) and this subsection, be subject to negative resolution within the meaning of section 41(6) of the 1954 Act.
+
+(10) Section 41(3) of the 1954 Act applies for the purposes of subsection (7) in relation to the laying of a draft as it applies in relation to the laying of a statutory document under an enactment.
+
+(11) In this section—
+
+- “**the 1954 Act**” means the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.));
+- “**the Assembly**” means the Northern Ireland Assembly.

@@ -1,0 +1,887 @@
+---
+title: The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013
+id: uksi/2013/1635
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-07-02'
+text_date: '2019-04-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2013/1635
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/1635/pdfs/uksiem_20131635_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1635/pdfs/uksi_20131635_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/1635/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013
+
+> Text as at 2019-04-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2013 No. 1635
+
+Financial Services And Markets, England And Wales
+
+The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013
+
+Made
+
+2nd July 2013
+
+Coming into force in accordance with regulation 1
+
+The Treasury, in exercise of the powers conferred by sections 57(7) and (8) (as applied by section 58(4)), 58, 59(1) and (2) and 60(3) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012,[^f00001] make the following Regulations:
+
+In accordance with section 60(4) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-f5620a49e9385d4d02b619bd9f0ad19e]
+
+These Regulations may be cited as the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013 and come into force on the seventh day after the day on which they are made.
+
+### 2. Interpretation[^key-5683d26e51ed72db7cbb9ca54c4fc432]
+
+In these Regulations—
+
+- “the Act” means the Legal Aid, Sentencing and Punishment of Offenders Act 2012;
+- “the 2000 Act” means the Financial Services and Markets Act 2000;[^f00002]
+- “approved person” means a person in relation to whom the appropriate regulator (within the meaning of section 59(4) of the 2000 Act) has given its approval under section 59[^f00003] of the 2000 Act;
+- “authorised person” has the meaning given in section 31(2) of the 2000 Act;
+- “the FCA” means the Financial Conduct Authority;
+- “referral fees authorised person” has the meaning given in paragraph 1 of the Schedule;
+- “relevant referral fees authorised person” means, in relation to an approved person, the referral fees authorised person on whose application approval was given (irrespective of whether the authorised person was a referral fees authorised person at the time of the application);
+- “relevant requirement” means a restriction imposed by section 56 (rules against referral fees) of the Act, or any requirement imposed by or under these Regulations;
+- “the Tribunal” has the meaning given in section 417(1) of the 2000 Act.[^f00004]
+
+## PART 2 — The FCA
+
+### 3. Functions of the FCA[^key-796df81ec303bcc7baac71938e6853fa]
+
+(1) The FCA has the functions conferred on it by these Regulations.
+
+(2) In discharging its functions under these Regulations, the FCA must have regard to—
+
+- (a) the need to use its resources in the most efficient and economic way;
+- (b) the principle that a burden or restriction which is imposed on a person, or on the carrying on of an activity, should be proportionate to the benefits, considered in general terms, which are expected to result from the imposition of that burden or restriction;
+- (c) the desirability of sustainable growth in the economy of the United Kingdom in the medium or long term;
+- (d) the general principle that consumers should take responsibility for their decisions;
+- (e) the responsibilities of the senior management of persons subject to the requirements referred to in paragraph (4), including those affecting consumers, in relation to compliance with those requirements;
+- (f) the desirability where appropriate of the FCA exercising its functions in a way that recognises differences in the nature of, and objectives of, businesses carried on by different persons subject to the requirements referred to in paragraph (4);
+- (g) the desirability in appropriate cases of the FCA publishing information relating to persons on whom the requirements referred to in paragraph (4) are imposed, or requiring such persons to publish information, as a means of contributing to the advancement by the Authority of its operational objectives as set out in section 1B(3) of the 2000 Act;[^f00005]
+- (h) the principle that the FCA should exercise its functions as transparently as possible.
+
+(3) “Consumer” has the meaning given in section 1G of the 2000 Act.[^f00006]
+
+(4) The requirements referred to in this paragraph are—
+
+- (a) in relation to a referral fees authorised person—
+  - (i) a restriction imposed by section 56 of the Act;
+  - (ii) any requirement imposed by or under these Regulations;
+- (b) in relation to any other person, any requirement imposed by or under these Regulations.
+
+### 4. Monitoring and enforcement[^key-091bfd53168702b6b1622d4aa00916a2]
+
+(1) The FCA must maintain arrangements designed to enable it to determine whether—
+
+- (a) referral fees authorised persons are complying with any relevant requirement applicable to them, and
+- (b) there has been any contravention of regulation 19.
+
+(2) The FCA must also maintain arrangements for enforcing section 56 of the Act in relation to referral fees authorised persons and these Regulations.
+
+### 5. Guidance[^key-45dfac5e40a2358a459cc411d02e2fb2]
+
+(1) The FCA may give guidance consisting of such information and advice as it considers appropriate with respect to—
+
+- (a) the application of sections 56 and 57 of the Act to referral fees authorised persons;
+- (b) the operation of these Regulations;
+- (c) any matters relating to the functions of the FCA under these Regulations;
+- (d) any other matters about which it appears to the FCA to be desirable to give information or advice in connection with these Regulations.
+
+(2) The FCA may—
+
+- (a) publish its guidance;
+- (b) offer copies of its published guidance for sale at a reasonable price;
+- (c) if it gives guidance in response to a request made by any person, make a reasonable charge for that guidance.
+
+### 6. Complaints[^key-d4b675e64b945001c419113a26b33560]
+
+The FCA must maintain arrangements designed to enable persons to submit complaints to it that a relevant requirement has been breached by a referral fees authorised person.
+
+### 7. Fees, &c.[^key-989963ad763fd30ca4c6327c55f3dd44]
+
+(1) The functions of the FCA under these Regulations are to be treated for the purposes of paragraph 23 (fees) of Schedule 1ZA to the 2000 Act[^f00007] as qualifying functions conferred on the FCA under that Act except that—
+
+- (a) section 3B[^f00008] (regulatory principles to be applied by both regulators) of the 2000 Act does not apply to the making of rules under paragraph 23 by virtue of this regulation,
+- (b) rules made under paragraph 23 by virtue of this regulation are not regulating provisions for the purposes of Chapter 4 of Part 9A (competition scrutiny)[^f00009] of the 2000 Act, and
+- (c) in paragraph 23(7) after “under this Act” insert “or under the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013”.
+
+(2) Paragraphs 19 to 22 (penalties) of Schedule 1ZA to the 2000 Act apply for the purposes of these Regulations with the modifications set out in paragraphs (3) to (6).
+
+(3) In paragraph 19 for “under this Act” substitute “under the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013”.
+
+(4) In paragraph 20—
+
+- (a) in both sub-paragraphs (2) and (3)(b) for “under this Act” substitute “under the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013”;
+- (b) for sub-paragraph (4) substitute—
+
+  > (4) For this purpose the FCA’s enforcement powers are—
+  >
+  > - (a) its powers under regulations 14 to 18 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013,
+  > - (b) its powers under Part 25 of this Act (injunctions and restitution) as applied by regulation 24 of those Regulations, and
+  > - (c) its powers in relation to the investigation or prosecution of the offences under regulation 19 of those Regulations.
+
+  ;
+- (c) omit sub-paragraph (5).
+
+(5) In paragraph 21(1) after “paragraph 20(1)” insert “as applied by the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013”.
+
+(6) In paragraphs 21(1), (3), (4) and (5) and 22(2) and (9) for “financial penalty scheme” substitute “referral fees financial penalty scheme” (in each place).
+
+### 8. Exemption from liability in damages[^key-7cfb8e7a0b63655ac19ce37ffdca9fc0]
+
+The functions of the FCA under these Regulations are to be treated for the purposes of paragraph 25 (exemption from liability in damages) of Schedule 1ZA to the 2000 Act as functions conferred on the FCA.
+
+## PART 3 — Referral fees
+
+### 9. Certain payments to be treated as referral fees[^key-a307be7c5ced59d205ff65b5952f69b8]
+
+(1) Paragraph (2) applies where—
+
+- (a) a referral of prescribed legal business has been made by or to a referral fees authorised person, or
+- (b) a referral fees authorised person has made an arrangement as mentioned in section 56(2)(a) of the Act,
+
+and it appears to the FCA that a payment made to or by the referral fees authorised person may be a payment for the referral or for making the arrangement (a “referral fee”).
+
+(2) The payment made to or by the authorised person is to be treated as a referral fee unless the referral fees authorised person can show the payment was made—
+
+- (a) as consideration for the provision of services, or
+- (b) for another reason,
+
+and not as a referral fee.
+
+## PART 4 — Reporting and information
+
+### 10. Reporting requirements[^key-9f2999699e74ad073a68830bdf7d3ecb]
+
+(1) A referral fees authorised person (“P”) must give the FCA such information in respect of—
+
+- (a) any referrals of prescribed legal business either to or from P,
+- (b) any arrangements as described in section 56(2) of the Act, and
+- (c) P’s compliance with requirements imposed by or under these Regulations,
+
+as the FCA may direct.
+
+(2) Information required under this regulation must be given at such times and in such form, and verified in such manner, as the FCA may direct.
+
+### 11. Restrictions on disclosure of information[^key-9aa8c8856a2c37d58992374c89338756]
+
+(1) Sections 348 (restrictions on disclosure of information by FCA, PRA etc), 349 (exceptions from section 348), and 352 (offences)[^f00010] of the 2000 Act apply for the purposes of these Regulations with the following modifications.
+
+(2) In section 348—
+
+- (a) in subsection (2)(b) for the words from “, the PRA” to the end, substitute “under the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013”;
+- (b) in subsection (3)(a) for “this Act” substitute “the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013”;
+- (c) in subsection (5)—
+  - (i) omit paragraphs (aa) and (c);
+  - (ii) in paragraph (d) omit “to collect or update information under section 166A or”;
+  - (iii) in paragraph (e) for “a person mentioned in paragraphs (a) to (c)” substitute “the FCA”;
+  - (iv) in paragraph (ea) for “a person mentioned in those paragraphs” substitute “the FCA”;
+  - (v) in paragraph (f) for “a person mentioned in those paragraphs” substitute “the FCA”;
+- (d) in subsection (6)—
+  - (i) omit paragraph (a);
+  - (ii) in paragraph (b) omit “, the PRA or the Secretary of State” and at the end insert “as applied by the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013”.
+
+(3) In section 349 omit subsections (3A) and (3B).
+
+(4) In section 352—
+
+- (a) in subsection (1) omit “or 350(5)”;
+- (b) omit subsection (4);
+- (c) in subsection (5) omit “or (4)”;
+- (d) in subsection (6)(a) omit “or that it had been disclosed in accordance with section 350”.
+
+### 12. Disclosure of confidential information: application of certain provisions[^key-9aa2304e42b74ddd7e0c5a54dffabd74]
+
+(1) The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^f00011] apply for the purposes of these Regulations with the following modifications.
+
+(2) In regulation 5 (disclosure for the purposes of certain other proceedings) omit paragraph (3)(c).
+
+(3) Omit Part 3 (disclosure of single market information).
+
+(4) Omit regulation 12A.
+
+## PART 5 — Investigatory powers
+
+### 13. Investigations under Part 11 of the 2000 Act[^key-f363c0d6d9589a609e155a48f249f1e0]
+
+(1) Part 11 (information gathering and investigations)[^f00012] of the 2000 Act applies for the purposes of these Regulations with the following modifications.
+
+(2) In the following provisions, references to authorised persons are to be treated as references to referral fees authorised persons—
+
+- (a) section 165(1), (3), (7)(a) and (8);
+- (b) section 166(2);
+- (c) section 167(1), (4) and (5A);
+- (d) section 176(3)(a).
+
+(3) In section 165 (regulators’ power to require information: authorised persons etc.)—
+
+- (a) in subsection (4) for “or under this Act” substitute “the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013”;
+- (b) in subsection (7)—
+  - (i) in paragraph (a) for “by either regulator” substitute “by the FCA”;
+  - (ii) omit paragraphs (b) to (d).
+
+(4) Omit sections 165A (PRA’s power to require information: financial stability), 165B (safeguards etc in relation to exercise of power under section 165A) and 165C (orders under section 165A(2)(d)).
+
+(5) Omit section 166A (appointment of skilled person to collect and update information).
+
+(6) In section 167 (appointment of persons to carry out general investigations)—
+
+- (a) in paragraphs (a) and (c) of subsection (1) omit “a recognised investment exchange or”;
+- (b) in paragraph (a) of subsection (1) omit “or of an appointed representative”;
+- (c) in subsection (5A)—
+  - (i) omit paragraphs (a) and (c);
+  - (ii) in paragraph (b) omit “or the PRA”;
+- (d) omit subsection (6).
+
+(7) In section 168 (appointment of persons to carry out investigations in particular cases)—
+
+- (a) in subsection (1) for paragraph (b) substitute—
+
+  > - (b) a referral fees authorised person may have contravened any restriction imposed by section 56 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 or any requirement imposed by or under the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013.
+
+  ;
+- (b) omit subsections (2), (4) and (5);
+- (c) for subsection (6) substitute—
+
+  > (6) In subsections (1) and (3) “investigating authority” means the FCA.
+
+(8) Omit sections 169 (investigations etc. in support of overseas regulator) and 169A (support of overseas regulator with respect to financial stability).
+
+(9) In section 170 (investigations: general)—
+
+- (a) in subsection (1) omit “or (5)”;
+- (b) in subsection (3)(a) omit “or (4)”;
+- (c) omit subsection (3)(b);
+- (d) for subsection (10) substitute—
+
+  > (10) “Investigating authority”, in relation to an investigator, means the FCA.
+
+  .
+
+(10) In section 171 (powers of persons appointed under section 167) omit subsections (3A) and (7).
+
+(11) In subsection (4) of section 172 (additional power of persons appointed as a result of section 168(1) or (4)), omit “or (4)”.
+
+(12) Omit section 173 (powers of persons appointed as a result of section 168(2)).
+
+(13) In section 174 (admissibility of statements made to investigators)—
+
+- (a) in subsection (2) omit “or in proceedings in relation to action to be taken against that person under section 123”;
+- (b) in subsection (4) omit “or (5)”;
+- (c) in subsection (5) omit “173”.
+
+(14) In subsection (8) of section 175 (information and documents: supplemental provisions), omit “or (5)”.
+
+(15) In section 176 (entry of premises under warrant)—
+
+- (a) omit subsection (4);
+- (b) in subsection (10) omit “or (5)”;
+- (c) in subsection (11)—
+  - (i) in paragraph (a) omit “87C, 87J,” and “,165A, 169A”;
+  - (ii) in paragraph (b) omit “,173”.
+
+## PART 6 — Disciplinary measures and offences
+
+### 14. Public censure[^key-ce57a64852d668836b15643940d452e8]
+
+If the FCA considers that a referral fees authorised person has contravened a relevant requirement, the FCA may publish a statement to that effect.
+
+### 15. Statement of misconduct[^key-ca66568acdf7caf9dcf8d77ce4a10f63]
+
+If the FCA considers that an approved person (“A”) has been knowingly concerned in a contravention by the relevant referral fees authorised person of a relevant requirement, the FCA may publish a statement of A’s misconduct.
+
+### 16. Financial penalties[^key-1666ac8a0e3bf406c995f9aa11bd8036]
+
+(1) The FCA may impose a penalty on a referral fees authorised person (“P”) of such amount as the FCA considers appropriate if the FCA considers that P has contravened a relevant requirement.
+
+(2) The FCA may impose a penalty on an approved person (“A”) of such amount as the FCA considers appropriate if the FCA considers that A has been knowingly concerned in a contravention by the relevant referral fees authorised person of a relevant requirement.
+
+(3) A penalty imposed under this regulation is payable to the FCA and may be recovered as a debt owed to the FCA.
+
+### 17. Restrictions on permission to carry on regulated activities[^key-08e88ce0cef592dbb15a063e0555ae5a]
+
+(1) If the FCA considers that a referral fees authorised person (“P”) has contravened a relevant requirement, it may impose for such period as it considers appropriate, such limitations or other restrictions in relation to the carrying on of a regulated activity under any permission which P has to carry on a regulated activity as it considers appropriate.
+
+(2) In paragraph (1) “permission” means any permission that the authorised person has, whether given (or treated as given) by the FCA or conferred by any provision of the 2000 Act.
+
+(3) The period for which a restriction is to have effect may not exceed 12 months.
+
+(4) A restriction may, in particular, be imposed so as to require the person concerned to take, or refrain from taking, specified action.
+
+(5) The FCA may—
+
+- (a) withdraw a restriction, or
+- (b) vary a restriction so as to reduce the period for which it has effect or otherwise to limit its effect.
+
+(6) The power under this regulation may (but need not) be exercised so as to have effect in relation to all the regulated activities that the person concerned carries on.
+
+(7) Any one or more of the powers under this regulation and regulations 14 to 16 may be exercised in relation to the same contravention.
+
+### 18. Suspension of and conditions or limitations on approval to carry on functions[^key-2b979321c4e76c2c10e9d0e1f76f3175][^key-f3e67bb8a50136b56ee599ce2d9269dd]
+
+(1) If the FCA considers that an approved person (“A”) has been knowingly concerned in a contravention by the relevant referral fees authorised person of a relevant requirement, it may—
+
+- (a) suspend, for such period as it considers appropriate, any approval of the performance by A of any function to which the approval relates, [^key-0b8c2b6c57a036dcc2deb57fb5542bc6]...
+- (b) impose for such period as it considers appropriate, such conditions[^key-501feeb45a28e7aebaf6a7d49bcbb5fc] in relation to the performance by A of any function to which any approval relates as it considers appropriate; or[^key-597c610a0028addc43cedba560defd31]
+- (c) limit the period for which any approval of the performance by A of any function to which the approval relates is to have effect.
+
+(2) The period for which a suspension or condition[^key-be5907098b3559bb85a5fc30867e0575] is to have effect may not exceed two years.
+
+(3) A suspension , condition or limitation[^key-b706fad26834c0981b642c224c1bc668] may have effect in relation to part of a function.
+
+(4) A condition[^key-4aa68ed8d69868c996533b573d24e5ce] may, in particular, be imposed so as to require any person to take, or refrain from taking, specified action.
+
+(5) The FCA may not take action under this regulation after the end of the period of three years beginning with the first day on which the FCA knew of conduct by A within the scope of paragraph (1), unless proceedings in respect of it against A were begun before the end of that period.
+
+(6) For the purposes of paragraph (5)—
+
+- (a) the FCA is to be treated as knowing of A’s conduct if it has information from which the conduct can reasonably be inferred, and
+- (b) proceedings against A in respect of A’s conduct are to be treated as begun when a warning notice is given to A under regulation 25.
+
+(7) In relation to any time while a suspension is in force under paragraph (1)(a) in relation to part of a function, any reference in section 59 (approval for particular arrangements) or 63A (power to impose penalties) of the 2000 Act[^f00013] to the performance of a function includes the performance of part of a function.
+
+(8) If at any time a condition[^key-85d80b8537906e504b84505fa3bbd594] imposed under paragraph (1)(b) is contravened, the approval in relation to the person concerned is to be treated for the purposes of sections 59 and 63A of the 2000 Act as if it had been withdrawn at that time.
+
+### 19. Misleading the FCA[^key-8cc755836ba7159ca127b4a590df6627]
+
+(1) A person must not, in purported compliance with a relevant requirement, knowingly or recklessly give the FCA information which is false or misleading in a material particular.
+
+(2) A person must not—
+
+- (a) provide any information to another person knowing the information to be false or misleading in a material particular, or
+- (b) recklessly provide to another person any information which is false or misleading in a material particular,
+
+knowing that the information is to be used for the purposes of providing information to the FCA in connection with its functions under these Regulations.
+
+(3) A person who contravenes paragraph (1) or (2) is guilty of an offence.
+
+(4) Paragraphs (1) and (2) apply only to a requirement in relation to which no other provision of these Regulations applies an offence in connection with the giving of information.
+
+(5) A person guilty of an offence under this regulation is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum, or
+- (b) on conviction on indictment, to a fine.
+
+### 20. Restriction on penalties[^key-17dc2a1ff92f491bbf88e83033a43a52]
+
+A person who is convicted of an offence under regulation 19 is not liable to a penalty under regulation 16 in respect of the same contravention of a requirement imposed by or under these Regulations.
+
+### 21. Liability of officers of bodies corporate, &c.[^key-9eeb67e289dc90c4922e3c96bce5225f]
+
+(1) If an offence under regulation 19 committed by a body corporate is shown—
+
+- (a) to have been committed with the consent or connivance of an officer, or
+- (b) to be attributable to any neglect on their part,
+
+the officer as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with such member’s functions of management as if the member were a director of the body.
+
+(3) If an offence under regulation 19 committed by a partnership is shown—
+
+- (a) to have been committed with the consent or connivance of a partner, or
+- (b) to be attributable to any neglect on their part,
+
+the partner as well as the partnership is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(4) If an offence under regulation 19 committed by an unincorporated association (other than a partnership) is shown—
+
+- (a) to have been committed with the consent or connivance of an officer, or
+- (b) to be attributable to any neglect on their part,
+
+the officer as well as the association is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(5) In this regulation—
+
+- “officer”—
+  - (a) in relation to a body corporate, means a director, manager, secretary, chief executive, member of the committee of management, or a person purporting to act in such a capacity, and
+  - (b) in relation to an unincorporated association, means any officer of the association or any member of its governing body, or a person purporting to act in such capacity;
+- “partner” includes a person purporting to act as a partner.
+
+### 22. Proceedings for offences[^key-ca387010b0ad2e21cdb79b07b05a9ef4]
+
+Proceedings for an offence under regulation 19 may be instituted only—
+
+- (a) by the FCA, or
+- (b) by or with the consent of the Director of Public Prosecutions.
+
+### 23. Proceedings against unincorporated bodies[^key-5880ee0e489ac516804995a9fdad4716]
+
+(1) Proceedings for an offence under regulation 19 alleged to have been committed by a partnership or other unincorporated association must be brought in the name of the partnership or association (and not in that of its members).
+
+(2) A fine imposed on the partnership or association on its conviction of an offence is to be paid out of the funds of the partnership or association.
+
+(3) Rules of court relating to the service of documents are to have effect as if the partnership or association were a body corporate.
+
+(4) In proceedings for an offence brought against the partnership or association, section 33 of the Criminal Justice Act 1925[^f00014] (procedure on charge of offence against corporation) and section 46 of and Schedule 3 to the Magistrates’ Courts Act 1980[^f00015] (corporations) apply as they do in relation to a body corporate.
+
+(5) Summary proceedings for an offence under regulation 19 may be taken—
+
+- (a) against a body corporate or unincorporated association at any place at which it has a place of business;
+- (b) against an individual at any place where they are for the time being.
+
+(6) Paragraph (5) does not affect any jurisdiction exercisable apart from this regulation.
+
+## PART 7 — Injunctions and restitution
+
+### 24. Application of Part 25 of the 2000 Act[^key-90bc89eb517e895633b5509c26b83e6a]
+
+(1) Part 25 (injunctions and restitution)[^f00016] of the 2000 Act applies for the purposes of these Regulations with the following modifications.
+
+(2) In section 380 (injunctions)—
+
+- (a) in subsections (1), (2) and (3) omit “or the Secretary of State”;
+- (b) for subsection (6) substitute—
+
+  > (6) “Relevant requirement” means—
+  >
+  > - (a) in relation to a referral fees authorised person (see subsection (6A))—
+  >   - (i) a restriction imposed by section 56 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012, or
+  >   - (ii) any requirement imposed by or under the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013 (“the 2013 Regulations”);
+  > - (b) in relation to any other person, any requirement imposed by or under the 2013 Regulations.
+  >
+  > (6A) In subsection (6)(a) “referral fees authorised person” has the meaning given in regulation 2 of, and the Schedule to, the 2013 Regulations.
+- (c) omit subsections (7) to (10) and (12);
+- (d) in subsection (11) for “other” substitute “relevant”.
+
+(3) Omit section 381 (injunctions in cases of market abuse).
+
+(4) In section 382 (restitution orders)—
+
+- (a) in subsections (1) and (7) omit “or the Secretary of State”;
+- (b) for subsection (9) substitute—
+
+  > (9) “Relevant requirement” means—
+  >
+  > - (a) in relation to a referral fees authorised person (see subsection (9A))—
+  >   - (i) a restriction imposed by section 56 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012, or
+  >   - (ii) any requirement imposed by or under the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013 (“the 2013 Regulations”);
+  > - (b) in relation to any other person, any requirement imposed by or under the 2013 Regulations.
+  >
+  > (9A) In subsection (9)(a) “referral fees authorised person” has the meaning given in regulation 2 of, and the Schedule to, the 2013 Regulations.
+
+  ;
+- (c) omit subsections (10) to (13) and (15);
+- (d) in subsection (14) for “other” substitute “relevant”.
+
+(5) Omit section 383 (restitution orders in cases of market abuse).
+
+(6) In section 384 (power of FCA or PRA to require restitution)—
+
+- (a) omit subsections (2) to (4);
+- (b) in subsection (5)—
+  - (i) for “subsections (1) and (2)” substitute “subsection (1)”;
+  - (ii) in paragraphs (a), (b) and (c) omit “or (3)”;
+- (c) omit “or (3)” in paragraphs (a) and (b) of subsection (6);
+- (d) for subsection (7) substitute—
+
+  > (7) “Relevant requirement” means—
+  >
+  > - (a) in relation to a referral fees authorised person (see subsection (7A))—
+  >   - (i) a restriction imposed by section 56 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012, or
+  >   - (ii) any requirement imposed by or under the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013 (“the 2013 Regulations”);
+  > - (b) in relation to any other person, any requirement imposed by or under the 2013 Regulations.
+  >
+  > (7A) In subsection (7)(a) “referral fees authorised person” has the meaning given in regulation 2 of, and the Schedule to, the 2013 Regulations.
+
+  ;
+- (e) omit subsections (9) to (11) and (13);
+- (f) in subsection (12) for “other” substitute “relevant”.
+
+## PART 8 — Notices
+
+### 25. Requirement to issue warning notice[^key-bf577047dbd6ce2503d85d5072b37811]
+
+(1) Where the FCA proposes to—
+
+- (a) publish a statement under regulation 14 or 15,
+- (b) impose a penalty under regulation 16,
+- (c) impose a restriction on permission under regulation 17, or
+- (d) suspend or impose a condition or limitation on[^key-ea943f4339ef670c61e8b4d232907ec1] an approval under regulation 18,
+
+it must give the person concerned a warning notice.
+
+(2) The warning notice must set out the following—
+
+- (a) in the case of a statement under regulation 14 or 15, the terms of the statement;
+- (b) in the case of a penalty under regulation 16, the amount of the penalty;
+- (c) in the case of a restriction on permission under regulation 17, the period for which the restriction is to have effect;
+- (d)[^key-5ebe8cd57ba709f6077aa5188154ca42] in the case of a suspension of, or a condition or limitation on, an approval under regulation 18, the period for which the suspension, condition or limitation is to have effect.
+
+### 26. Requirement to issue decision notice[^key-db8981f57f73f276e8a0bbc555671c23]
+
+(1) If, having considered any representations made in response to the warning notice, the FCA decides to—
+
+- (a) publish a statement under regulation 14 or 15;
+- (b) impose a penalty under regulation 16;
+- (c) impose a restriction on permission under regulation 17;
+- (d) suspend or impose a condition or limitation on[^key-cbf529361b803d248b4a75021b1a1a4a] an approval under regulation 18;
+
+it must without delay give the person concerned a decision notice.
+
+(2) The decision notice must set out the following—
+
+- (a) in the case of a statement under regulation 14 or 15, the terms of the statement;
+- (b) in the case of a penalty under regulation 16, the amount of the penalty;
+- (c) in the case of a restriction on permission under regulation 17, the period for which the restriction is to have effect;
+- (d)[^key-a8df6e83668a386d84454fe76d6b6a3f] in the case of a suspension of, or a condition or limitation on, an approval under regulation 18, the period for which the suspension, condition or limitation is to have effect.
+
+### 27. Warning notices and decision notices: approved persons[^key-623bc342cba372a4c2866ebda0059fb3]
+
+(1) Where the FCA proposes to suspend or impose a condition or limitation on[^key-88672ab5ea0b7023d9394fc791c979b7] an approval under regulation 18, a warning notice and decision notice must also be given to each of the other interested parties.
+
+(2) “Other interested parties” has the meaning given in section 67(9) of the 2000 Act.[^f00017]
+
+### 28. Referral to Tribunal[^key-43e5a7dc06fe48d0f9942dcfcd7e9b50]
+
+If the FCA decides to publish a statement under regulation 14 or 15, impose a penalty under regulation 16, impose a restriction on permission under regulation 17, or suspend or impose a condition or limitation[^key-4d771453be9402aad2a1472b9a9c45f5] on approval under regulation 18, the person concerned may refer the matter to the Tribunal.
+
+### 29. Statements of policy[^key-59038d09f181750ffc5f9335c248b6bb]
+
+(1) Sections 69 (statements of policy) and 70 (statements of policy: procedure) of the 2000 Act[^f00018] apply in respect of the imposition of penalties, suspensions , conditions or limitations[^key-1af659b510a288c0746cc0ec4c302898] under regulations 16(2) and 18, and the amount of penalty or duration of suspension , condition or limitation[^key-173cd4f5e594862efc5e48102c081cad] as they apply in respect of the imposition of penalties, suspensions , conditions or limitations under Part 5 (performance of regulated activities) of the 2000 Act and the amount of penalty or duration of suspension , condition or limitation under that Part of that Act.
+
+(2) Sections 210 (statements of policy) and 211 (statements of policy: procedure) of the 2000 Act[^f00019] apply in respect of the imposition of penalties or restrictions under regulations 16(1) and 17 and the amount of penalty or duration of restriction, as they apply in respect of the imposition of penalties, suspensions or restrictions under Part 14 (disciplinary measures) of the 2000 Act and the amount of penalty or duration of suspension or restriction under that Part of that Act.
+
+(3) After a statement under regulation 14 or 15 is published, the FCA must send a copy of it to the person concerned and to any person to whom a copy of the decision notice was given under section 393(4) of the 2000 Act[^f00020] (third party rights) (as applied by regulation 30).
+
+### 30. Application of Part 26 of the 2000 Act[^key-8bd254180693f2bca595e19ccfae4405]
+
+(1) Part 26 (notices)[^f00021] of the 2000 Act applies for the purpose of these Regulations with the following modifications.
+
+(2) In section 387 (warning notices) omit subsections (1A) and (3A).
+
+(3) In section 388 (decision notices) omit subsections (1A) and (2).
+
+(4) In section 390 (final notices) in subsection (10) omit “or, in Scotland, by an order under section 45 of the Court of Session Act 1988”.
+
+(5) In section 391 (publication)—
+
+- (a) omit subsections (1), (1ZB), (5), (5A), (6A), (8) and (10);
+- (b) for subsection (1ZA) substitute—
+
+  > (1ZA) Neither the FCA nor a person to whom a warning notice is given or copied may publish the notice or any details concerning it.
+
+  ;
+- (c) in subsection (7A), omit “or (5)” and “or a supervisory notice”.
+
+(6) For section 392 substitute—
+
+> **392. Application of sections 393 and 394**
+>
+> Sections 393 and 394 apply to—
+>
+> - (a) a warning notice given by virtue of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013;
+> - (b) a decision notice given by virtue of those Regulations.
+
+.
+
+(7) In section 395 (the FCA’s and PRA’s procedures)—
+
+- (a) omit subsections (1)(a), (c) and (d), (3), (4), (9A) and (13);
+- (b) omit subsection (1)(b)(ii), and the “, or” preceding it;
+- (c) in subsection (2)(a) for “any of paragraphs (a) to (c)” substitute “paragraph (b)”;
+- (d) omit subsection (2)(b) and (c);
+- (e) in subsection (9), omit the words “supervisory notice, or a” and “other than a warning notice or decision notice relating to a decision of the PRA that is required by a decision of the FCA of the kind mentioned in subsection (1)(b)(ii)”.
+
+## PART 9 — The Tribunal
+
+### 31. The Tribunal[^key-8abbfb848344defbdfc6f186c0bce27b]
+
+(1) Part 9 (hearings and appeals)[^f00022] of the 2000 Act applies in respect of references to the Tribunal made under these Regulations as it applies in respect of references made to the Tribunal under that Act, with the following modifications.
+
+(2) In section 133 (proceedings before the Tribunal: general provision)
+
+- (a) in subsection (1)(a) omit “or the PRA”;
+- (b) omit paragraphs (b) and (c) of subsection (1);
+- (c) in subsection (2), omit “, (b) or (c)”;
+- (d) for subsection (7A), substitute—
+
+  > (7A) A reference is a “disciplinary reference” for the purposes of this section if it is in respect of any of the following decisions made under the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013—
+  >
+  > - (a) a decision to publish a statement under regulation 14 or 15,
+  > - (b) a decision to impose a penalty under regulation 16,
+  > - (c) a decision to impose a restriction on permission under regulation 17, or
+  > - (d) a decision to suspend or impose a condition or limitation[^key-3e9327b476cc563a6f20a6759f6ae904] on approval under regulation 18.
+
+  .
+
+(3) In section 133B(1) (offences)—
+
+- (a) in paragraph (a), omit “or the PRA”;
+- (b) omit paragraphs (b) and (c).
+
+## PART 10 — Regulated persons
+
+### 32. Specification of authorised persons to be regulated persons[^key-0d94f69a63704de68473374845b223a5]
+
+(1) Paragraph (2) specifies the description of authorised persons for the purposes of—
+
+- (a) the entry in column 2 of the table in section 59(1) of the Act[^f00023] corresponding to the Financial Conduct Authority;
+- (b) the entry in column 2 of the table in section 59(2) of the Act corresponding to the Financial Conduct Authority.
+
+(2) The description is all referral fees authorised persons.
+
+Robert Goodwill
+
+Mark Lancaster
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+2nd July 2013
+
+## SCHEDULE — Meaning of referral fees authorised person
+
+Regulation 2
+
+**1.**[^key-e167e90b71ea867c90a67e8ea3e3dc60] A “referral fees authorised person” means an authorised person falling within paragraph 2 or 4.
+
+**2.**[^key-731d6a695ed3585826dc6b8432bb0685] An authorised person falls within this paragraph if the authorised person has permission—
+
+- (a) given under Part 4A of the 2000 Act, or
+- (b) resulting from any other provision of that Act,
+
+to carry on regulated activities that consist of or include one or more of the regulated activities referred to in paragraph 3.
+
+**3.**[^key-5411d76ce29cfe22fd87ae65d584174a] The regulated activities referred to in this paragraph are—
+
+- (a) the activity specified by article 10(1) of the Regulated Activities Order[^f00024] (effecting a contract of insurance as principal);
+- (b) the activity specified by article 10(2) of the Regulated Activities Order (carrying out a contract of insurance as principal);
+- (c) the activity specified by article 39A of the Regulated Activities Order[^f00025] (assisting in the administration and performance of a contract of insurance);
+- (d) in relation to the investment specified by article 75 of the Regulated Activities Order (contracts of insurance)—
+  - (i) the activity specified by article 21 of the Regulated Activities Order[^f00026] (dealing in investments as agent);
+  - (ii) the activity specified by article 25(1) of the Regulated Activities Order[^f00027] (arranging deals in investments);
+  - (iii) the activity specified by article 25(2) of the Regulated Activities Order (arranging deals in investments);
+  - (iv) the activity specified by article 53 of the Regulated Activities Order[^f00028] (advising on investments);
+- (e) the activity specified by article 57 of the Regulated Activities Order (managing the underwriting capacity of a Lloyd’s syndicate);
+- (f) the activity specified by article 58 of the Regulated Activities Order (arranging deals in contracts of insurance written at Lloyd’s);
+- (g) the activity specified by article 64 of the Regulated Activities Order[^f00029] (agreeing to carry on specified kinds of activity), so far as it relates to any kind of activity referred to in sub-paragraphs (c) to (f);
+- (h)[^key-3d4068b667301fd2a6d2d036bca40b04] a regulated claims management activity (within the meaning given by section 417(1) of the 2000 Act (definitions)).
+
+**4.**[^key-23992ee595c834723937822f169918b5] An authorised person (“A”) falls within this paragraph if A is a member of a group which includes an authorised person falling within paragraph 2.
+
+**5.**[^key-84d2b250912a6e921fe8474d58265cee] In this Schedule—
+
+- “group” has the meaning given in section 421 of the 2000 Act;[^f00030]
+- “regulated activity” has the meaning given in section 22 of the 2000 Act;[^f00031]
+- “Regulated Activities Order” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001.[^f00032]
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations apply various provisions of the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) (the “2000 Act”) to enable the Financial Conduct Authority (the “FCA”) to enforce the rules against referral fees contained in sections 56 to 60 of the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) (the “2012 Act”). These rules prohibit the payment and the receipt of any fee for the referral to another person of claims for damages in connection with personal injury or death. The rules may be enforced against referral fees authorised persons (as defined in regulation 2 and the Schedule), which are primarily those conducting insurance and insurance mediation or those in the same group such authorised persons. Enforcement action may also be taken in certain circumstances against the approved persons of referral fees authorised persons (approved persons include for example persons in certain senior management roles).
+
+Part 2 of these Regulations makes provision in respect of the FCA under these Regulations. In particular it confers on the FCA functions in relation to the supervision of, compliance with and monitoring of these Regulations and section 56 of the 2012 Act.
+
+Part 3 provides for certain payments to be treated as referral fees unless the referral fees authorised person shows that the payment was not made as a referral fee.
+
+Part 4 provides for referral fees authorised persons to give the FCA information at the FCA’s direction and for the restrictions on disclosure of information in the 2000 Act to apply.
+
+Part 5 applies the provisions of the 2000 Act on investigations with appropriate modifications.
+
+Part 6 provides for disciplinary measures and offences for breach of the rules against referral fees and provisions imposed by or under these Regulations. Regulations 14 and 15 enable the FCA to publish a statement of a breach of the Regulations by an referral fees authorised person or approved person. Regulation 16 enables the FCA to impose financial penalties for breach of the Regulations by such persons. Regulations 17 and 18 enable the FCA to restrict permission under the 2000 Act to carry out activities regulated under the 2000 Act or suspend or restrict approval of performance of functions controlled under the 2000 Act. Regulation 19 makes it an offence to mislead the FCA.
+
+Part 7 applies Part 25 of the 2000 Act concerning injunctions and restitution with appropriate modifications.
+
+Part 8 sets out procedural requirements to be followed by the FCA when taking disciplinary action under Part 6.
+
+Part 9 applies the provisions in the 2000 Act on hearings and appeals before the Upper Tribunal.
+
+Part 10 provides that referral fees authorised persons will be regulated persons for the purposes of rules against referral fees provided for in sections 56 to 60 of the 2012 Act.
+
+An impact assessment has not been prepared for this instrument, as impacts were considered as part of the impact assessment for the 2012 Act. That can be found at www.justice.gov.uk/downloads/legislation/bills-acts/legal-aid-sentencing/referral-fees-ia.pdf. and is published with the Explanatory Memorandum alongside these Regulations on www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2012 c.10](https://www.legislation.gov.uk/ukpga/2012/10). Sections 57 to 59 were amended by paragraph 138 of Schedule 18 to the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
+
+[^key-f5620a49e9385d4d02b619bd9f0ad19e]: Commencement: Reg. 1 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-5683d26e51ed72db7cbb9ca54c4fc432]: Commencement: Reg. 2 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^f00002]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^f00003]: Footnote: Section 59 was amended by section 14 of the Financial Services Act 2012 and [S.I. 2012/1906](https://www.legislation.gov.uk/uksi/2012/1906).
+
+[^f00004]: Footnote: The definition was inserted by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).
+
+[^key-796df81ec303bcc7baac71938e6853fa]: Commencement: Reg. 3 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^f00005]: Footnote: Section 1B was inserted by section 6 of the Financial Services Act 2012.
+
+[^f00006]: Footnote: Section 1G was inserted by section 6 of the Financial Services Act 2012.
+
+[^key-091bfd53168702b6b1622d4aa00916a2]: Commencement: Reg. 4 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-45dfac5e40a2358a459cc411d02e2fb2]: Commencement: Reg. 5 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-d4b675e64b945001c419113a26b33560]: Commencement: Reg. 6 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-989963ad763fd30ca4c6327c55f3dd44]: Commencement: Reg. 7 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^f00007]: Footnote: Schedule 1ZA was inserted by Schedule 3 to the Financial Services Act 2012.
+
+[^f00008]: Footnote: Section 3B was inserted by section 6 of the Financial Services Act 2012.
+
+[^f00009]: Footnote: Chapter 4 of Part 9A was inserted by section 24 of the Financial Services Act 2012.
+
+[^key-7cfb8e7a0b63655ac19ce37ffdca9fc0]: Commencement: Reg. 8 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-a307be7c5ced59d205ff65b5952f69b8]: Commencement: Reg. 9 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-9f2999699e74ad073a68830bdf7d3ecb]: Commencement: Reg. 10 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-9aa8c8856a2c37d58992374c89338756]: Commencement: Reg. 11 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^f00010]: Footnote: Sections 348 and 349 were amended by Schedule 12 to the Financial Services Act 2012. Section 349 was also amended by section 964 of the Companies Act 2006 and [S.I. 2007/1093](https://www.legislation.gov.uk/uksi/2007/1093). Section 352 was amended by the Criminal Justice Act 2003; Schedule 26, paragraph 54.
+
+[^key-9aa2304e42b74ddd7e0c5a54dffabd74]: Commencement: Reg. 12 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^f00011]: Footnote: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188); as amended by [S.I. 2001/3437](https://www.legislation.gov.uk/uksi/2001/3437), [2003/2174](https://www.legislation.gov.uk/uksi/2003/2174), [2003/2817](https://www.legislation.gov.uk/uksi/2003/2817), [2005/3071](https://www.legislation.gov.uk/uksi/2005/3071), [2006/3413](https://www.legislation.gov.uk/uksi/2006/3413), [2010/1265](https://www.legislation.gov.uk/uksi/2010/1265), [2012/916](https://www.legislation.gov.uk/uksi/2012/916), [2013/472](https://www.legislation.gov.uk/uksi/2013/472).
+
+[^key-f363c0d6d9589a609e155a48f249f1e0]: Commencement: Reg. 13 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^f00012]: Footnote: Part 11 was amended by section 62 of and Schedule 7 to the Counter Terrorism Act [2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), sections 18, and 24 of and Schedule 2 to the Financial Services Act [2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), Schedule 12 to the Financial Services Act 2012, [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090) and [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
+
+[^key-ce57a64852d668836b15643940d452e8]: Commencement: Reg. 14 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-ca66568acdf7caf9dcf8d77ce4a10f63]: Commencement: Reg. 15 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-1666ac8a0e3bf406c995f9aa11bd8036]: Commencement: Reg. 16 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-08e88ce0cef592dbb15a063e0555ae5a]: Commencement: Reg. 17 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-2b979321c4e76c2c10e9d0e1f76f3175]: Commencement: Reg. 18 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-f3e67bb8a50136b56ee599ce2d9269dd]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2013/1635/regulation/18) heading substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2016/163/article/6/2/a)
+
+[^key-0b8c2b6c57a036dcc2deb57fb5542bc6]: Textual amendment: Word in [reg. 18(1)(a)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/18/1/a) omitted (7.3.2016) by virtue of [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(2)(b)(i)](https://www.legislation.gov.uk/uksi/2016/163/article/6/2/b/i)
+
+[^key-501feeb45a28e7aebaf6a7d49bcbb5fc]: Textual amendment: Words in [reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/18/1/b) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/163/article/6/2/b/ii)
+
+[^key-597c610a0028addc43cedba560defd31]: Textual amendment: [Reg. 18(1)(c)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/18/1/c) and word inserted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2016/163/article/6/2/b/iii)
+
+[^key-be5907098b3559bb85a5fc30867e0575]: Textual amendment: Word in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/18/2) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2016/163/article/6/2/c)
+
+[^key-b706fad26834c0981b642c224c1bc668]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/18/3) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(2)(d)](https://www.legislation.gov.uk/uksi/2016/163/article/6/2/d)
+
+[^key-4aa68ed8d69868c996533b573d24e5ce]: Textual amendment: Word in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/18/4) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(2)(e)](https://www.legislation.gov.uk/uksi/2016/163/article/6/2/e)
+
+[^f00013]: Footnote: Section 59 was amended by sections 14 and 15 of the Financial Services Act 2012 and [S.I. 2012/1906](https://www.legislation.gov.uk/uksi/2012/1906). Section 63A was inserted by section 11 of the Financial Services Act 2012.
+
+[^key-85d80b8537906e504b84505fa3bbd594]: Textual amendment: Word in [reg. 18(8)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/18/8) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(2)(f)](https://www.legislation.gov.uk/uksi/2016/163/article/6/2/f)
+
+[^key-8cc755836ba7159ca127b4a590df6627]: Commencement: Reg. 19 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-17dc2a1ff92f491bbf88e83033a43a52]: Commencement: Reg. 20 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-9eeb67e289dc90c4922e3c96bce5225f]: Commencement: Reg. 21 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-ca387010b0ad2e21cdb79b07b05a9ef4]: Commencement: Reg. 22 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-5880ee0e489ac516804995a9fdad4716]: Commencement: Reg. 23 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^f00014]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Section 33 was amended by the Magistrates’ Courts Act [1952 (c.55)](https://www.legislation.gov.uk/ukpga/1952/55), section 132 and Schedule 6, by the Courts Act [1971 (c.23)](https://www.legislation.gov.uk/ukpga/1971/23), section 56(1) and Schedule 8 and by the Courts Act [2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39), Schedule 8, paragraph 71 and Schedule 10.
+
+[^f00015]: Footnote: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43). Schedule 3 was amended by the Criminal Justice Act [1991 (c.53)](https://www.legislation.gov.uk/ukpga/1991/53), section 25(2) and Schedule 13, and by the Criminal Procedure and Investigations Act [1996 (c.25)](https://www.legislation.gov.uk/ukpga/1996/25), Schedule 1, paragraph 1. Amendments by the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), Schedule 3, paragraph 51 and Schedule 37, Part 4 have not come fully into force at the time of making of these Regulations.
+
+[^key-90bc89eb517e895633b5509c26b83e6a]: Commencement: Reg. 24 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^f00016]: Footnote: Part 25 was amended by Schedule 9 to the Financial Services Act 2012, [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613).
+
+[^key-bf577047dbd6ce2503d85d5072b37811]: Commencement: Reg. 25 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-ea943f4339ef670c61e8b4d232907ec1]: Textual amendment: Words in [reg. 25(1)(d)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/25/1/d) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2016/163/article/6/3/a)
+
+[^key-5ebe8cd57ba709f6077aa5188154ca42]: Textual amendment: [Reg. 25(2)(d)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/25/2/d) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2016/163/article/6/3/b)
+
+[^key-db8981f57f73f276e8a0bbc555671c23]: Commencement: Reg. 26 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-cbf529361b803d248b4a75021b1a1a4a]: Textual amendment: Words in [reg. 26(1)(d)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/26/1/d) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2016/163/article/6/4/a)
+
+[^key-a8df6e83668a386d84454fe76d6b6a3f]: Textual amendment: [Reg. 26(2)(d)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/26/2/d) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2016/163/article/6/4/b)
+
+[^key-623bc342cba372a4c2866ebda0059fb3]: Commencement: Reg. 27 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-88672ab5ea0b7023d9394fc791c979b7]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/27/1) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(5)](https://www.legislation.gov.uk/uksi/2016/163/article/6/5)
+
+[^f00017]: Footnote: Section 67(9) was amended by the Financial Services Act 2012, Schedule 5, paragraph 15(1), (4).
+
+[^key-43e5a7dc06fe48d0f9942dcfcd7e9b50]: Commencement: Reg. 28 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-4d771453be9402aad2a1472b9a9c45f5]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2013/1635/regulation/28) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(6)](https://www.legislation.gov.uk/uksi/2016/163/article/6/6)
+
+[^key-59038d09f181750ffc5f9335c248b6bb]: Commencement: Reg. 29 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^f00018]: Footnote: Section 69 was amended by the Financial Services Act 2010, Schedule 2, paragraph 10 and Financial Services Act 2012, Schedule 5, paragraph 17. Section 70 was amended by the Financial Services Act 2012, Schedule 5, paragraph 18.
+
+[^key-1af659b510a288c0746cc0ec4c302898]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/29/1) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(7)(a)](https://www.legislation.gov.uk/uksi/2016/163/article/6/7/a)
+
+[^key-173cd4f5e594862efc5e48102c081cad]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/29/1) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(7)(b)](https://www.legislation.gov.uk/uksi/2016/163/article/6/7/b)
+
+[^f00019]: Footnote: Section 210 was amended by the Financial Services Act 2010, Schedule 2, paragraph 20 and the Financial Services Act 2012, Schedule 9, paragraph 17. Section 211 was amended by the Financial Services Act 2012, Schedule 9, paragraph 18.
+
+[^f00020]: Footnote: Section 393 was amended by the Financial Services Act 2012, Schedule 9, paragraph 32.
+
+[^key-8bd254180693f2bca595e19ccfae4405]: Commencement: Reg. 30 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^f00021]: Footnote: Part 26 was amended by section 82 of and Schedule 4 to the Regulation of Investigatory Powers Act [2000 (c. 23)](https://www.legislation.gov.uk/ukpga/2000/23), sections 13 and 24 of and Schedule 2 to the Financial Services Act 2010, Schedule 9 to the Financial Services Act 2012, [S.I. 2005/381](https://www.legislation.gov.uk/uksi/2005/381), [S.I. 2005/1433](https://www.legislation.gov.uk/uksi/2005/1433), [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [S.I. 2007/1973](https://www.legislation.gov.uk/uksi/2007/1973), [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534), [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22), [S.I. 2010/747](https://www.legislation.gov.uk/uksi/2010/747) and [S.I. 2012/916](https://www.legislation.gov.uk/uksi/2012/916).
+
+[^key-8abbfb848344defbdfc6f186c0bce27b]: Commencement: Reg. 31 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^f00022]: Footnote: Part 9 was amended by section 23 of the Financial Services Act 2012 and [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).
+
+[^key-3e9327b476cc563a6f20a6759f6ae904]: Textual amendment: Words in [reg. 31(2)(d)](https://www.legislation.gov.uk/uksi/2013/1635/regulation/31/2/d) substituted (7.3.2016) by [The Financial Services (Banking Reform) Act 2013 (Consequential Amendments) Order 2016 (S.I. 2016/163)](https://www.legislation.gov.uk/uksi/2016/163), [arts. 1](https://www.legislation.gov.uk/uksi/2016/163/article/1), [6(8)](https://www.legislation.gov.uk/uksi/2016/163/article/6/8)
+
+[^key-0d94f69a63704de68473374845b223a5]: Commencement: Reg. 32 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^f00023]: Footnote: Section 59 was amended by the Financial Services Act 2012; Schedule 18, paragraph 138.
+
+[^key-e167e90b71ea867c90a67e8ea3e3dc60]: Commencement: Sch. para. 1 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-731d6a695ed3585826dc6b8432bb0685]: Commencement: Sch. para. 2 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-5411d76ce29cfe22fd87ae65d584174a]: Commencement: Sch. para. 3 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^f00024]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
+
+[^f00025]: Footnote: Article 39A was inserted by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476).
+
+[^f00026]: Footnote: As amended by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476).
+
+[^f00027]: Footnote: As amended by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476), [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384).
+
+[^f00028]: Footnote: As amended by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476).
+
+[^f00029]: Footnote: As amended by [S.I. 2002/682](https://www.legislation.gov.uk/uksi/2002/682), [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384), [S.I. 2009/1389](https://www.legislation.gov.uk/uksi/2009/1389).
+
+[^key-3d4068b667301fd2a6d2d036bca40b04]: Textual amendment: [Sch. para. 3(h)](https://www.legislation.gov.uk/uksi/2013/1635/schedule/paragraph/3/h) inserted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [103](https://www.legislation.gov.uk/uksi/2018/1253/article/103)
+
+[^key-23992ee595c834723937822f169918b5]: Commencement: Sch. para. 4 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^key-84d2b250912a6e921fe8474d58265cee]: Commencement: Sch. para. 5 in force at 9.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1635/regulation/1)
+
+[^f00030]: Footnote: As amended by [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948).
+
+[^f00031]: Footnote: As amended by section 7(1) of the Financial Services Act 2012.
+
+[^f00032]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).

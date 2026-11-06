@@ -1,0 +1,388 @@
+---
+title: The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2006
+id: uksi/2006/778
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2006-03-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2006/778
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2006/778/pdfs/uksiem_20060778_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/778/pdfs/uksi_20060778_en.pdf
+- http://www.legislation.gov.uk/uksi/2006/778/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2006
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2006 No. 778
+
+PENSIONS
+
+TERMS AND CONDITIONS OF EMPLOYMENT
+
+The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2006
+
+Made
+
+14th March 2006
+
+Laid before Parliament
+
+16th March 2006
+
+Coming into force in accordance with regulation 1(1)
+
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by sections 55(2B), 101C(2), 113(1)(d), 181(1) and 182(2) and (3) of the Pension Schemes Act 1993[^f00001], section 51(2B) and (2ZA) of the Pension Schemes (Northern Ireland) Act 1993[^f00002], sections 35(3) and (4), 40(2), 41(1), 47(5) and (6), 49(1), (2), (4) and (9)(b), 87(1), 88(1), 91(5), 124(1) and 174(2) and (3) of the Pensions Act 1995[^f00003], and sections 259(1), 260(1), 315(2) and 318(1) of the Pensions Act 2004[^f00004].
+
+In respect of regulations 1, 2, 3, 4, 6 and 7, in accordance with section 185 of the Pension Schemes Act 1993 and section 120 of the Pensions Act 1995, the Secretary of State for Work and Pensions has consulted such persons as he considers appropriate[^f00005].
+
+Regulations 5 and 9 are made before the end of the period of six months beginning with the coming into force of section 244 of the Pensions Act 2004[^f00006].
+
+Regulation 8 is made before the end of the period of six months beginning with the coming into force of section 268 of the Pensions Act 2004[^f00007].
+
+In respect of regulation 10, it appears to the Secretary of State for Work and Pensions that by reason of urgency consultation is inexpedient[^f00008].
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2006 and shall come into force—
+
+- (a) for the purposes of regulation 4, on 6th April 2006 immediately after the coming into force of the Occupational Pension Schemes (Administration and Audited Accounts) (Amendment) Regulations 2005[^f00009]; and
+- (b) for all other purposes on 6th April 2006.
+
+(2) In these Regulations—
+
+- “the Assignment Regulations” means the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations 1997[^f00010];
+- “the Audited Accounts Regulations” means the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations 1996[^f00011];
+- “the Consultation by Employers Regulations” means the Occupational and Personal Pension Schemes (Consultation by Employers and Miscellaneous Amendment) Regulations 2006[^f00012];
+- “the Contracting-out Regulations” means the Occupational Pension Schemes (Contracting-out) Regulations 1996[^f00013];
+- “the Investment Regulations” means the Occupational Pension Schemes (Investment) Regulations 2005[^f00014];
+- “the Northern Ireland Contracting-out Regulations” means the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996[^f00015];
+- “the Payments by Employers Regulations” means the Personal Pension Schemes (Payments by Employers) Regulations 2000[^f00016];
+- “the Pension Credit Benefit Regulations” means the Pension Sharing (Pension Credit Benefit) Regulations 2000[^f00017]; and
+- “the Scheme Administration Regulations” means the Occupational Pension Schemes (Scheme Administration) Regulations 1996[^f00018].
+
+## 2. Amendment of the Northern Ireland Contracting-out Regulations
+
+(1) The Northern Ireland Contracting-out Regulations are amended in accordance with this regulation.
+
+(2) In regulation 51[^f00019] (contributions equivalent premiums)—
+
+- (a) in paragraph (1A) for “paragraph (1B) or (1C)”, substitute “paragraph (1B), (1C) or (1D)”; and
+- (b) after paragraph (1C), add—
+
+  > (1D) This paragraph applies where, on the termination of his pensionable service, the earner elects to acquire a right to a cash transfer sum in accordance with section 97AB(1)(a) of the Act[^f00020] (right to cash transfer sum and contribution refund).
+
+  .
+
+## 3. Amendment of the Contracting-out Regulations
+
+(1) The Contracting-out Regulations are amended in accordance with this regulation.
+
+(2) In regulation 51[^f00021] (contributions equivalent premiums)—
+
+- (a) in paragraph (1A), for “paragraph (1B) or (1C)”, substitute “paragraph (1B), (1C) or (1D)”; and
+- (b) after paragraph (1C), add—
+
+  > (1D) This paragraph applies where, on the termination of his pensionable service, the earner elects to acquire a right to a cash transfer sum in accordance with section 101AB(1)(a) of the 1993 Act[^f00022] (right to cash transfer sum and contribution refund).
+
+  .
+
+## 4. Amendment of the Scheme Administration Regulations
+
+(1) The Scheme Administration Regulations are amended in accordance with this regulation.
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) after the definition of “business days”, insert—
+
+  > - “insurance policy” means a contract of a kind referred to in Article 2 of the Life Directive, but excluding a contract of a kind referred to in Article 2(2)(c) or (d) of that Directive;
+  > - “the Life Directive” means Directive [2002/83/EC](https://www.legislation.gov.uk/european/directive/2002/0083) of the European Parliament and of the Council of 5th November 2002 concerning life assurance[^f00023];
+
+  ;
+- (b) after the definition of “public service pension scheme”, insert—
+
+  > - “qualifying insurance policy” means an insurance policy issued by an insurer which is—
+  >   - (a) a person who has permission under Part 4 of the Financial Services and Markets Act 2000[^f00024] (permission to carry on regulated activities) to effect or carry out contracts of long term insurance; or
+  >   - (b) an undertaking established in an EEA State (as defined in paragraph 8 of Schedule 3 to the Financial Services and Markets Act 2000) other than the United Kingdom, which is authorised by the competent authorities of that State to carry on the business of direct insurance for the class of assurance as listed in Annex I to the Life Directive in which the insurance policy falls;
+
+  ;
+- (c) after the definition “scheme year”, insert—
+
+  > - “specified qualifying insurance policy” means a qualifying insurance policy which is a contract falling within paragraph I or III of Part II of Schedule 1 to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00025] (contracts of insurance);
+
+  ;
+- (d) for the definition of “wholly insured scheme”, substitute—
+
+  > - “wholly insured scheme” means a trust scheme, other than a stakeholder pension scheme within the meaning of section 1 of the Welfare Reform and Pensions Act 1999[^f00026] (meaning of “stakeholder pension scheme”), which has no investments other than specified qualifying insurance policies.
+
+  ; and
+- (e) after paragraph (2), insert—
+
+  > (2A) For the purposes of the definition of “wholly insured scheme”, “investments” shall not include—
+  >
+  > - (a) cash held on deposit by the trustees or managers pending payment to the insurer or to members of the scheme;
+  > - (b) cash held on deposit by the trustees or managers to meet accrued liabilities or administrative expenses; or
+  > - (c) any investments arising from voluntary contributions.
+
+  .
+
+(3) In regulation 3, (exemptions from the professional advisers requirements), in paragraph (2)(b)(i), for “(d) to” substitute “(e) to”.
+
+(4) In regulation 21 (circumstances where notice of non-payment of any amount payable to a scheme need not be given), for paragraph (4), substitute—
+
+> (4) Where, under section 49(9)(b) of the 1995 Act[^f00027] (other responsibilities of trustees, employers, etc), there is a requirement on the trustees or managers to give notice within a reasonable time of a failure to pay within a prescribed time an amount corresponding to any contribution payable on behalf of an active member which has been deducted from the member’s earnings, the trustees or managers shall not be required to give notice of a failure to pay such amount by the due date for the purposes of subsection (1) of section 88 of that Act, in a case to which that subsection would otherwise apply.
+
+.
+
+## 5. Amendment of the Audited Accounts Regulations
+
+(1) The Audited Accounts Regulations are amended in accordance with this regulation.
+
+(2) In paragraph 5(b) of the Schedule (contents of accounts audited by the auditor of the scheme), for “regulation 6 of the Occupational Pension Schemes (Investment) Regulations 1996 (investments to which restrictions on employer-related investments do not apply)”, substitute “regulation 13 of the Occupational Pension Schemes (Investment) Regulations 2005 (investments to which restrictions do not apply)”.
+
+## 6. Amendment of the Assignment Regulations
+
+(1) The Assignment Regulations are amended in accordance with this regulation.
+
+(2) In regulation 2 (commutation of a pension under an occupational pension scheme)—
+
+- (a) for paragraph (1A), substitute—
+
+  > (1A) There are also prescribed for the purposes of section 91(5)(c)(iii) of the 1995 Act the circumstances where—
+  >
+  > - (a) the rights of the member consist only of rights derived from equivalent pension benefits under Part III of the National Insurance Act 1965[^f00028]; and
+  > - (b) either—
+  >   - (i) the member has consented to the commutation; or
+  >   - (ii) he has not consented but the conditions in paragraph (4) are satisfied.
+
+  ; and
+- (b) after paragraph (3), add—
+
+  > (4) For the purposes of paragraph (1A)(b)(ii), the conditions are that—
+  >
+  > - (a) the trustees or managers of the scheme have sent to the member’s last known address written notice of their intention to commute his rights derived from equivalent pension benefits under Part III of the National Insurance Act 1965; and
+  > - (b) no response has been received from the member before the end of the period of two months beginning with the date on which the notice was sent.
+
+  .
+
+## 7. Amendment of the Pension Credit Benefit Regulations
+
+(1) The Pension Credit Benefit Regulations are amended in accordance with this regulation.
+
+(2) In regulation 4 (commutation of part of pension credit benefit), in paragraph (1)(a)(i), at the end, for the word “or” substitute “and”.
+
+## 8. Amendment of the Payments by Employers Regulations
+
+(1) The Payments by Employers Regulations are amended in accordance with this regulation.
+
+(2) After regulation 5 (prescribed period for the purpose of calculating the due date for the payment of any contribution on behalf of an employee), add—
+
+> **5A. The issue of payment statements to an employee**
+>
+> (1) Where section 111A of the Pension Schemes Act 1993[^f00029] (monitoring of employers' payments to personal pension schemes) applies the trustees or managers of the scheme must before the end of the interval specified in paragraph (4) or (5), as the case may be, send the employee a statement setting out the amounts and dates of the payments made under the direct payment arrangements during the period specified in paragraph (2) or (3), as the case may be.
+>
+> (2) Where the scheme is not a stakeholder pension scheme the period is—
+>
+> - (a) in the case of the first statement referred to in paragraph (1), the period of not more than 12 months beginning with the date the employee joined the scheme and ending with the date of the last payment which appears on that statement; and
+> - (b) in the case of the second or any subsequent statement (“the relevant statement”), a period of not more than 12 months beginning with the day following the date of the last payment which appeared on the statement immediately preceding the relevant statement.
+>
+> (3) Where the scheme is a stakeholder pension scheme the period is the period which is the statement year in relation to that scheme.
+>
+> (4) Where the scheme is not a stakeholder pension scheme the interval is—
+>
+> - (a) in the case of the first statement referred to in paragraph (1) the period of 12 months beginning with the date the employee joined the scheme; and
+> - (b) in the case of—
+>   - (i) the second statement, the period of 12 months beginning with the next anniversary of the date the employee joined the scheme following the date the trustees or managers sent the employee the first statement; and
+>   - (ii) the third or any subsequent statement, the period of 12 months beginning with the anniversary of the date the employee joined the scheme.
+>
+> (5) Where the scheme is a stakeholder pension scheme the interval is three months after the end of the statement year to which that statement relates.
+
+.
+
+## 9. Amendment of the Investment Regulations
+
+(1) The Investment Regulations are amended in accordance with this regulation.
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) in the definition of “insurance policy”, for “2(c) and (d)”, substitute “2(2)(c) and (d)”; and
+- (b) in the definition of “specified qualifying insurance policy”, for “paragraph III” substitute “paragraph I or III”.
+
+(3) In regulation 13 (investments to which restrictions do not apply)—
+
+- (a) in paragraph (6)—
+  - (i) in sub-paragraph (b), omit “or”; and
+  - (ii) in sub-paragraph (c), for “,” substitute—
+
+    > ;
+    >
+    > - (d) section 59(2) of the 1995 Act[^f00030] (determination of contributions: supplementary); or
+    > - (e) section 60(5) of the 1995 Act (serious underprovision),
+
+    ;
+- (b) in paragraph (7)(a), for “(authorised persons)) of the FSM Act” substitute “(authorised persons) of the FSM Act)”; and
+- (c) in paragraph (7)(b), after “10 participants in” for “a collective investment scheme” substitute “the collective investment scheme”.
+
+## 10. Amendment of the Consultation by Employers Regulations
+
+(1) The Consultation by Employers Regulations are amended in accordance with this regulation.
+
+(2) In regulation 3 (application), for paragraph (2) substitute—
+
+> (2) For the purposes of these Regulations “relevant employer” means—
+>
+> - (a) an employer employing in Great Britain at least the number of employees specified in paragraph (2A); and
+> - (b) in the case of—
+>   - (i) an occupational pension scheme, an employer in relation to the scheme other than one who is excluded by regulation 4, and
+>   - (ii) a personal pension scheme, an employer in relation to the scheme other than one who is excluded by regulation 5.
+>
+> (2A) The number of employees referred to in paragraph (2)(a) is—
+>
+> - (a) 150 from 6th April 2006 to 5th April 2007,
+> - (b) 100 from 6th April 2007 to 5th April 2008, and
+> - (c) 50 from 6th April 2008 onwards.
+>
+> (2B) For the purposes of paragraph (2)(a)—
+>
+> - (a) the number of people employed by an employer is to be determined using the same method of calculation as is set out in regulation 4 of the Information and Consultation of Employees Regulations 2004[^f00031] (calculation of number of employees), but
+> - (b) references in that regulation to the previous twelve months are to be taken as references to the period of twelve months ending with the date of the proposal to make a listed change to which regulation 6 of these Regulations applies.
+
+.
+
+(3) In regulation 4 (excluded employers: occupational pension schemes), omit paragraphs (1)(f), (2) and (3).
+
+(4) For regulation 5 (excluded employers: personal pension schemes), substitute—
+
+> **5. Excluded employers: personal pension schemes**
+>
+> This regulation excludes any employer in relation to a personal pension scheme where no employer contributions fall to be paid towards the scheme.
+
+.
+
+Signed by authority of the Secretary of State for Work and Pensions.
+
+Stephen C. Timms
+
+Minister of State,
+
+Department for Work and Pensions
+
+14th March 2006
+
+(This note is not part of the Regulations)
+
+These Regulations amend—
+
+The Occupational Pension Schemes (Contracting-out) Regulations) (Northern Ireland) 1996 ([S.R. 1996 No. 493](https://www.legislation.gov.uk/nisr/1996/493)) (“the Northern Ireland Contracting-out Regulations”).
+
+The Occupational Pension Schemes (Contracting-out) Regulations 1996 ([S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172)) (“the Contracting-out Regulations”);
+
+The Occupational Pension Schemes (Scheme Administration) Regulations 1996 ([S.I. 1996/1715](https://www.legislation.gov.uk/uksi/1996/1715)) (“the Scheme Administration Regulations”);
+
+The Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations 1996 ([S.I. 1996/1975](https://www.legislation.gov.uk/uksi/1996/1975)) (“the Audited Accounts Regulations”);
+
+The Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations 1997 ([S.I. 1997/785](https://www.legislation.gov.uk/uksi/1997/785)) (“the Assignment Regulations”);
+
+The Pension Sharing (Pension Credit Benefit) Regulations 2000 ([S.I. 2000/1054](https://www.legislation.gov.uk/uksi/2000/1054)) (“the Pension Credit Benefit Regulations”);
+
+The Personal Pension Schemes (Payments by Employers) Regulations 2000 ([S.I. 2000/2692](https://www.legislation.gov.uk/uksi/2000/2692)) (“the Payments by Employers Regulations”);
+
+The Occupational Pension Schemes (Investment) Regulations 2005 ([S.I. 2005/3378](https://www.legislation.gov.uk/uksi/2005/3378)) (“the Investment Regulations”); and
+
+The Occupational and Personal Pension Schemes (Consultation by Employers and Miscellaneous Amendment) Regulations 2006 ([S.I. 2006/349](https://www.legislation.gov.uk/uksi/2006/349)) (“the Consultation by Employers Regulations”).
+
+Regulation 2 updates the Northern Ireland Contracting-out Regulations consequentially upon the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255)(N.I. 1.)](https://www.legislation.gov.uk/nisi/2005/255).
+
+Regulation 3 updates the Contracting-out Regulations consequentially on the provisions of the Pensions Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12).
+
+Regulations 4 and 5 amend errors and update references in the Audited Accounts Regulations and Scheme Administration Regulations.
+
+Regulation 6 amends the Assignment Regulations to clarify the procedure by which the trustees of a scheme may discharge rights derived from equivalent pension benefits under Part III of the National Insurance Act [1965 (c. 51)](https://www.legislation.gov.uk/ukpga/1965/51).
+
+Regulation 7 corrects an error in the Pension Credit Benefit Regulations.
+
+Regulation 8 adds a new regulation 5A into the Payments by Employers Regulations to preserve the requirement for trustees or managers of a personal pension scheme or a stakeholder pension scheme to send an employee a statement of payments made where direct payment arrangements exist between the employee and his employer. This amendment is made as a consequence of the coming into force of section 268 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) which amends section 111A of the Pension Schemes Act [1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48).
+
+Regulation 9 amends errors in the Investment Regulations.
+
+Regulation 10 amends the Consultation by Employers Regulations so that in relation to their application to small employers they are consistent with the Information and Consultation of Employees Regulations 2004 ([S.I. 2004/3426](https://www.legislation.gov.uk/uksi/2004/3426)).
+
+These Regulations have been consulted upon in part. In relation to regulation 8, these regulations are made before the expiry of the period of six months prior coming into force of section 268 of the Pensions Act 2004.
+
+As regulations 5 and 9 are made before the end of the period of six months beginning with the coming into force of section 244 of the Pensions Act 2004 upon which that regulation is consequential, the requirement for the Secretary of State to consult such persons as he considers appropriate does not apply.
+
+In respect of regulation 10, it appears to the Secretary of State for Work and Pensions to be inexpedient to consult by reason of urgency.
+
+A full regulatory impact assessment has not been produced for this instrument as it has no new impact on the costs of business, charities or the voluntary sector.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48). Section 181(1) is cited for the definitions of “prescribe” and “regulations”. Section 55(2B) was inserted by paragraph 7(1)(c) of Schedule 2 to the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30). Section 101C was inserted by section 37 of the same Act.
+
+[^f00002]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49). Section 51(2B) was inserted by paragraph 7(2)(c) of Schedule 2 to the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30). Section 51(2ZA) was inserted by paragraph 63 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)) and is cited for the meaning there given to “prescribed”.
+
+[^f00003]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26). Section 124 is cited for the definitions of “prescribed” and “regulations”. Section 35 was substituted by section 244 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35). Section 49(1) was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649). Sections 49(9)(b) and 88(1) were substituted by section 269 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) Section 91(5) was amended by paragraphs 43 and 57 of Part 1 to the Schedule 12 to the Welfare Reform and Pensions Act 1999, and section 266 of the Pensions Act 2004 and [S.I. 2005/2053](https://www.legislation.gov.uk/uksi/2005/2053).
+
+[^f00004]: Footnote: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35). Section 259 was modified by regulation 2 of the Occupational Pension Schemes (Consultation by Employers) (Modification for Multi-employer Schemes) Regulations 2006 ([S.I. 2006/16](https://www.legislation.gov.uk/uksi/2006/16)). Section 318(1) is cited because of the meaning there given to “prescribed” and “regulations”.
+
+[^f00005]: Footnote: *See* section 185(1) of the Pension Schemes Act 1993, which was amended by paragraph 46 of Schedule 3, paragraph 80 of Schedule 5, and Part 1 of Schedule 7 to, the Pensions Act 1995, and paragraphs 20 and 23 of Schedule 11 to, the Welfare Reform and Pensions Act 1999, and section 120(1) of the Pensions Act 1995.
+
+[^f00006]: Footnote: *See* section 317(2)(d)(ii) of the Pensions Act 2004.
+
+[^f00007]: Footnote: *See* section 185(2)(e) of the Pension Schemes Act 1993.
+
+[^f00008]: Footnote: *See* section 317(2)(b) of the Pensions Act 2004.
+
+[^f00009]: Footnote: [S.I. 2005/2426](https://www.legislation.gov.uk/uksi/2005/2426).
+
+[^f00010]: Footnote: [S.I. 1997/785](https://www.legislation.gov.uk/uksi/1997/785), the relevant amending instruments are [S.I. 2002/681](https://www.legislation.gov.uk/uksi/2002/681) and [2005/706](https://www.legislation.gov.uk/uksi/2005/706).
+
+[^f00011]: Footnote: [S.I. 1996/1975](https://www.legislation.gov.uk/uksi/1996/1975), the relevant amending instruments are [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786) and [2005/2426](https://www.legislation.gov.uk/uksi/2005/2426).
+
+[^f00012]: Footnote: [S.I. 2006/349](https://www.legislation.gov.uk/uksi/2006/349).
+
+[^f00013]: Footnote: [S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172), the relevant amending instruments are [S.I. 2002/681](https://www.legislation.gov.uk/uksi/2002/681) and [2005/2050](https://www.legislation.gov.uk/uksi/2005/2050). Regulation 51 was further amended by Schedule 2 to the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2).
+
+[^f00014]: Footnote: [S.I. 2005/3378](https://www.legislation.gov.uk/uksi/2005/3378).
+
+[^f00015]: Footnote: [S.R. 1996 No. 493](https://www.legislation.gov.uk/nisr/1996/493), the relevant amending instrument are [S.I. 2002/681](https://www.legislation.gov.uk/uksi/2002/681) and [2005/3029](https://www.legislation.gov.uk/uksi/2005/3029).
+
+[^f00016]: Footnote: [S.I. 2000/2692](https://www.legislation.gov.uk/uksi/2000/2692), the relevant amending instrument is [S.I. 2005/2426](https://www.legislation.gov.uk/uksi/2005/2426).
+
+[^f00017]: Footnote: [S.I. 2000/1054](https://www.legislation.gov.uk/uksi/2000/1054).
+
+[^f00018]: Footnote: [S.I. 1996/1715](https://www.legislation.gov.uk/uksi/1996/1715), the relevant amending instruments are [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786) and [819](https://www.legislation.gov.uk/uksi/1997/819), [1999/3198](https://www.legislation.gov.uk/uksi/1999/3198), [2000/679](https://www.legislation.gov.uk/uksi/2000/679), [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [2005/2426](https://www.legislation.gov.uk/uksi/2005/2426).
+
+[^f00019]: Footnote: Regulation 51(1) to (1C) was substituted by regulation 7 of [S.I. 2002/681](https://www.legislation.gov.uk/uksi/2002/681).
+
+[^f00020]: Footnote: Section 97AB was inserted by Article 241 of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255(N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)).
+
+[^f00021]: Footnote: Regulation 51(1) to (1C) was substituted by [S.I. 2002/681](https://www.legislation.gov.uk/uksi/2002/681).
+
+[^f00022]: Footnote: Section 101AB was inserted by section 264 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^f00023]: Footnote: OJ No.L345, 19.12.2002 p.1.
+
+[^f00024]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^f00025]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
+
+[^f00026]: Footnote: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30). Section 1 was amended by section 285 of, and paragraphs 71 and 72 of Schedule 12 to, the Pensions Act 2004.
+
+[^f00027]: Footnote: Section 49(9)(b) is substituted by section 269(1) of the Pensions Act 2004.
+
+[^f00028]: Footnote: [1965 c. 51](https://www.legislation.gov.uk/ukpga/1965/51).
+
+[^f00029]: Footnote: Section 111A was inserted by section 9 of the Welfare Reform and Pensions Act 1999 and is amended by section 268 of, and paragraph 16 of Schedule 12 and Schedule 13 to, the Pensions Act 2004.
+
+[^f00030]: Footnote: Sections 59 and 60 of the Pensions Act 1995 were revoked by Part 1 of Schedule 13 to the Pensions Act 2004, with transitional savings in paragraph 9 of Schedule 4 to [S.I. 2005/3377](https://www.legislation.gov.uk/uksi/2005/3377).
+
+[^f00031]: Footnote: [S.I. 2004/3426](https://www.legislation.gov.uk/uksi/2004/3426).

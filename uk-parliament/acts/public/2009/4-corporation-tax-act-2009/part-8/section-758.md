@@ -1,0 +1,46 @@
+---
+title: Corporation Tax Act 2009, section 758
+act: Corporation Tax Act 2009
+section: '758'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/4/section/758
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2009, section 758
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 758. How the relief is given: general
+
+*Extent: E+W+S+N.I.*
+
+(1) A company that is entitled to relief under this Chapter is treated for the purposes of this Part as if—
+
+- (a) the proceeds of realisation of the old asset, and
+- (b) the cost recognised for tax purposes of acquiring the other assets,
+
+were each reduced by the amount available for relief.
+
+(2) If the qualifying expenditure on other assets equals or exceeds the proceeds of realisation of the old asset, the amount available for relief is the amount by which the proceeds of realisation exceed the cost of the old asset.
+
+(3) If the qualifying expenditure on other assets is less than the proceeds of realisation of the old asset, the amount available for relief is the amount by which the qualifying expenditure on other assets exceeds the cost of the old asset.
+
+(4) In this section “**qualifying expenditure**” means expenditure in relation to which the conditions in section 756 are met.
+
+(5) In this section “**the cost of the old asset**” means the total capitalised expenditure on the asset recognised for tax purposes, but—
+
+- (a) in the case of a part realisation, references to the cost of the old asset are references to the appropriate proportion of the cost (see section 759(1) and (2)), and
+- (b) in the case of the realisation of an asset that has previously been the subject of a part realisation, references to the cost of the old asset are references to the adjusted cost (see section 759(3)).
+
+(6) The relief does not affect the treatment of any other party to—
+
+- (a) any transaction involved in the realisation of the old asset, or
+- (b) the expenditure on the other assets,
+
+for any purpose of the enactments relating to income tax, corporation tax or chargeable gains.

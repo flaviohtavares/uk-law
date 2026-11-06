@@ -1,0 +1,2025 @@
+---
+title: The National Assembly for Wales (Transfer of Functions) Order 1999
+id: uksi/1999/672
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1999-03-10'
+text_date: '2024-11-04'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1999/672
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1999/672/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Assembly for Wales (Transfer of Functions) Order 1999
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/uksi/1999/672
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1999 No. 672
+
+CONSTITUTIONAL LAW
+
+DEVOLUTION, WALES
+
+The National Assembly for Wales (Transfer of Functions) Order 1999
+
+Made
+
+10th March 1999
+
+Coming into force
+
+1st July 1999
+
+At the Court at Buckingham Palace, the 10th day of March 1999
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Whereas the draft of this Order has been laid before, and approved by a resolution of, each House of Parliament:
+
+Now, therefore, Her Majesty, in pursuance of sections 22, 24(1), 42(4), 44(5), 96(7), 144(6), 146(4), 147(3), 151(2) and 155(2) of, and paragraphs 1 to 4, 6(3), 7, 8 and 9 of Schedule 3 to, the Government of Wales Act 1998[^c16517551], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows—[^key-28ca31316bae433575f89e4ddb62e1df][^key-6abb83b3dce5560c5b14c29309242a83][^key-d633423af0df1de67ad27b5ff60446fa]
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the National Assembly for Wales (Transfer of Functions) Order 1999.
+
+(2) This Order shall come into force on 1st July 1999 immediately after the coming into force of section 53 of the Scotland Act 1998 [^c16517561] but, if that section does not come into force on 1st July 1999, this Order shall come into force on that date.
+
+(3) In this Order—
+
+- “the 1965 transfer order" means the Secretary of State for Wales and Minister of Land and Natural Resources Order 1965 [^c16517571];
+- “the 1969 transfer order" means the Transfer of Functions (Wales) Order 1969 [^c16517581];
+- “the 1978 transfer order" means the Transfer of Functions (Wales) (No. 1) Order 1978 [^c16517591];
+- “the Act" means the Government of Wales Act 1998;
+- “the Assembly" means the National Assembly for Wales;
+- “the catchment areas of the rivers Dee, Wye and Severn" means the areas delineated by a continuous red line on the map published by the Environment Agency (but not part of this Order) on 10th February 1999 and marked “Map indicating the catchment areas of the rivers Dee, Wye and Severn for the purposes of the National Assembly for Wales (Transfer of Functions) Order 1999—map reference EAW/TFO.1(1—7)".
+
+## 2. Transfer of functions
+
+Schedule 1 to this Order shall have effect as follows—
+
+- (a) except as provided in sub-paragraphs (b)-(f), all functions of a Minister of the Crown under the enactments specified in Schedule 1 are, so far as exercisable in relation to Wales, transferred to the Assembly;
+- (b) where so directed in Schedule 1 functions exercisable by a Minister of the Crown shall, so far as exercisable in relation to Wales, be exercisable by the Assembly concurrently with the Minister;
+- (c) it is directed that (except in the case of functions which are exercisable by the Assembly “jointly" with a Minister of the Crown) functions under any of the enactments specified in Schedule 1 which are exercisable by a Minister of the Crown in relation to a cross-border body but which, by their nature, are not functions which can be specifically exercised in relation to Wales, shall be exercisable by the Assembly in relation to that body concurrently with the Minister of the Crown;
+- (d) where so indicated in Schedule 1, functions of a Minister of the Crown under the enactments specified therein are transferred to the Assembly in relation to Wales (or such part of Wales as may be specified) together with such English border area as is specified;
+- (e) Schedule 1 does not transfer any power under which provisions of an Act of Parliament may be brought into force by order made by a Minister of the Crown;
+- (f) Schedule 1 does not transfer any functions of the Lord Chancellor or the Attorney General;
+- (g) functions of the Comptroller and Auditor General shall, as indicated in Schedule 1, be transferred to, or become functions also of, the Auditor General for Wales;
+- (h) all other provisions contained in Schedule 1 in relation to the enactments specified therein shall have effect.
+
+## 3.
+
+Any reference in this Order to a function of a Minister of the Crown under an enactment includes a reference to any functions of that Minister which are included in any scheme, regulations, rules, order, bye-laws or other instrument having effect under or in relation to that enactment, and the power to confer functions on that Minister by any such scheme, regulations, rules, order, bye-laws or other instrument shall have effect as a power to confer such functions on the Assembly.
+
+## 4.
+
+(1) This article applies where—
+
+- (a) any function under an enactment is expressly required to be exercised by two or more Ministers of the Crown acting “jointly", and
+- (b) any transfer in respect thereof in this Order does not transfer to the Assembly the functions of all such Ministers of the Crown.
+
+(2) Where this article applies, section 42 of the Act shall not have effect to allow the function to be exercised by the Assembly otherwise than in accordance with the joint action requirement.
+
+## 5. Minister of the Crown functions exercisable with Assembly agreement or consultation
+
+(1) Subject to paragraph (2) of this article, it is directed that functions exercisable by a Minister of the Crown under the enactments specified in Schedule 2 to this Order shall, so far as they are exercisable in relation to Wales and as specified in the said Schedule, be exercisable by the Minister only with the agreement of, or after consultation with, the Assembly.
+
+(2) In respect of the enactments referred to in paragraph 4(1)(a) and (b) of Schedule 3 to the Act, paragraph (1) of this article shall have effect not in respect of functions exercisable in relation to Wales but in respect of functions exercisable in relation to “Welsh controlled waters" as defined in paragraph 4(2) of the said Schedule 3.
+
+## 6. The sea adjacent to Wales[^key-aa51fd1ddbb225aa0a025d9edf8b84a5]
+
+For the purposes of the definition of “Wales" in the Act the boundary between those parts of the sea within the Severn and Dee Estuaries which are to be treated as adjacent to Wales and those which are not shall be, in each case, a line drawn between the co-ordinates set out in Schedule 3 to this Order.
+
+## 7. Transfer of property
+
+The provisions of section 23(1) of the Act shall not apply to—
+
+- (a) the premises comprising Gwydyr House, Whitehall, London and the furnishings and equipment contained therein, or to any rights or liabilities relating thereto,
+- (b) any documentary or electronic records.
+
+A.K. Galloway
+
+Clerk of the Privy Council
+
+## SCHEDULE 1 — Enactments Conferring Functions Transferred by Article 2[^key-783a40a6b1aea118466204717a98ba5f][^key-6cb2a85d64f1206a8bd17612c5f8a38c][^key-080ca0a7228f3701e9ea7b189203319d][^key-ac502806b3016db2c150d667ca817b99][^key-8c2eece7acc4e042dfffcaa9b42818c8][^key-43017151df54dba09339af4a6518b790][^key-c6c789179d51e33b91f0977d8a90bfae][^key-e349427d58450a88140ecf591c5c1900][^key-f41635a8c99786f49cac7136f7fe2158][^key-24d32476723b3071b26c4d75f8785fb7][^key-525c756acc36f343bf08255d5bb79cd8][^key-53853749851b85e6f8744b27962607d1][^key-4eb76c8a90ab78a6e1c82e6f8a330d7a][^key-c517ab268bdd9f8c1389494bdb12cc89][^key-7cff48aa8f9062b8df2ccfb427b762db][^key-ba34c6481ca101cd69829cb539bcf6c9][^key-e27acd0313d91501c20815ebac25fa22][^key-db2b4f08e94eb1249a418c882e858f90][^key-ced9980ad31da50cb12b00091a9caf7a][^key-ca81176ac289b8289acc60a90c59bf8e][^key-7d3f79d862e66827a13ea0d7dc11bb6b]
+
+Article 2
+
+### Public General Acts
+
+**School Sites Act 1841 (c.38)**
+
+**Inclosure Act 1845 (c.118)** except section 12.
+
+**Inclosure Act 1846 (c.70)**
+
+**Inclosure Act 1847 (c.111)**
+
+**Inclosure Act 1848 (c.99)**
+
+**Inclosure Act 1849 (c.83)**
+
+**Inclosure Act 1852 (c.79)**
+
+**Burial Act 1853 (c.134)**
+
+**Inclosure Act 1854 (c.97)**
+
+**Literary and Scientific Institutions Act 1854 (c.112)** section 6.
+
+**Burial Act 1855 (c.128)**
+
+**Inclosure Act 1857 (c.31)**
+
+**Burial Act 1857 (c.81)** except section 25.
+
+**Burial Act 1859 (c.1)**
+
+**Inclosure Act 1859 (c.43)**
+
+**Improvement of Land Act 1864 (c.114)** in respect of the functions transferred to the Secretary of State by the 1978 transfer order.
+
+**Inclosure, &c. Expenses Act 1868 (c.89)** except so far as it applies in relation to any other of the Tithe Acts 1836 to 1951.
+
+**Limited Owners Residences Act 1870 (c.56)**
+
+**Public Health Act 1875 (c.55)** except section 327.
+
+**Commons Act 1876 (c.56)**
+
+**Commons (Expenses) Act 1878 (c.56)**
+
+**Commonable Rights Compensation Act 1882 (c.15)**
+
+**Places of Worship Sites Amendment Act 1882 (c.21)**
+
+**Corn Returns Act 1882 (c.37)** in respect of the functions exercisable by the Secretary of State by the 1978 transfer order and in respect of the functions exercisable by the Secretary of State under section 5 as substituted by the Deregulation (Corn Returns Act 1882) Order 1996 (S.I. 1996/848).
+
+**Local Government Act 1888 (c.41)**
+
+**Local Government Act 1894 (c.73)**
+
+**District Councils (Water Supply Facilities) Act 1897 (c.44)**
+
+**Commons Act 1899 (c.30)**
+
+**Improvement of Land Act 1899 (c.46)**
+
+**Open Spaces Act 1906 (c.25)**
+
+**Public Health Acts Amendment Act 1907 (c.53)** except sections 12 and 94(4).
+
+**Finance Act 1908 (c.16)**
+
+**Small Holdings and Allotments Act 1908 (c.36)**
+
+**Commons Act 1908 (c.44)**
+
+**Welsh Church Act 1914 (c.91)** sections 19 and 24.
+
+**Local Government (Emergency Provisions) Act 1916 (c.12)**
+
+[^key-be60e156783781a9dd83dadb346439f1]...
+
+**Ministry of Transport Act 1919 (c.50)** No functions under this Act are transferred but it is directed that the functions under sections 17 and 20 shall be exercisable by the Assembly concurrently with the Secretary of State. The function under section 17 shall be exercisable by the Assembly free from the requirement for Treasury approval.
+
+**Land Settlement (Facilities) Act 1919 (c.59)** except the function of the “Local Government Board" under paragraph 10 of the First Schedule.
+
+**Ferries (Acquisition by Local Authorities) Act 1919 (c.75)** except section 3.
+
+**Corn Sales Act 1921 (c.35)**
+
+**Allotments Act 1922 (c.51)** except section 1(4).
+
+**Agricultural Credits Act 1923 (c.34)**
+
+**Law of Property Act 1925 (c.20)** sections 193 and 194.
+
+**Allotments Act 1925 (c.61)**
+
+**Public Health Act 1925 (c.71)** section 6.
+
+**Small Holdings and Allotments Act 1926 (c.52)**
+
+**Landlord and Tenant Act 1927 (c.36)** section 20.
+
+**Local Government Act 1929 (c.17)**
+
+**Agricultural Land (Utilisation) Act 1931 (c.41)**
+
+**Destructive Imported Animals Act 1932 (c.12)** except that the functions under sections 1, 2 and 10, so far as they relate to the importation of the types of animals to which this Act relates, are transferred to the Assembly so far as they have been transferred to the Secretary of State by the 1969 transfer order.
+
+**Children and Young Persons Act 1933 (c.12)** except sections 53, 58, 79 to 81 and the Fourth Schedule.
+
+**Public Health Act 1936 (c.49)** except the Treasury function under section 341(3).
+
+**[^key-68d234282c653a376313d6b19fce3dc1]...**
+
+**Public Health (Drainage of Trade Premises) Act 1937 (c.40)**
+
+**Physical Training and Recreation Act 1937 (c.46)**
+
+**Statutory Orders (Special Procedure) Act 1945 (c.18)** section 7(3).
+
+**Welsh Church (Burial Grounds) Act 1945 (c.27)**
+
+**Requisitioned Land and War Works Act 1945 (c.43)** section 52.
+
+**Agriculture (Artificial Insemination) Act 1946 (c.29)** in respect of the functions transferred to the Secretary of State by the 1978 transfer order.
+
+The Assembly may only incur expenses under section 1 to such amount as may be sanctioned by the Treasury.
+
+**Hill Farming Act 1946 (c.73)** except section 32(4).
+
+In section 32(2), the functions of “the appropriate Minister" in relation to the Advisory Committee for England, Wales and Northern Ireland are transferred to the Assembly so far as they have been transferred to the Secretary of State by the 1969 transfer order.
+
+Section 35 shall have effect as if the expression “the Ministers or either of them" included reference to the Assembly.
+
+Section 32(4) shall be amended by omitting the words “by him".
+
+**Polish Resettlement Act 1947 (c.19)** sections 4 and 6.
+
+**Industrial Organisation and Development Act 1947 (c.40)** The functions of “the Minister of Agriculture, Fisheries and Food" except that Minister’s functions under—
+
+- (a) section 7(4) so far as it relates to a development council exercising functions in relation to England and Wales or in relation to Great Britain; and
+- (b) The Apple and Pear Research Council Order 1989 (S.I. 1989/2277).
+
+It is directed that the function of the “Board of Trade" under section 11 shall be exercisable by the Assembly concurrently with the Board of Trade. The function under section 11 shall be exercisable by the Assembly free from the requirement for Treasury approval.
+
+The functions of the Comptroller and Auditor General in section 9(4) are, in relation to financial years beginning in and after 1999, transferred to the Auditor General for Wales in respect of an account of sums recovered under an order made by the Assembly alone under section 9 and of the disposal of those sums by the Assembly, and in relation thereto section 9(4) shall have effect so that for the requirement to lay before Parliament the documents referred to therein, there shall be substituted a requirement for the Auditor General for Wales to lay those documents before the Assembly.
+
+**Fire Services Act 1947 (c.41)** section 3(5).
+
+**Agriculture Act 1947 (c.48)** except section 105.
+
+The function under section 75 is transferred only so far as it relates to a reference to an Agricultural Land Tribunal under section 86.
+
+It is directed that the functions under section 83 shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom they are exercisable.
+
+The functions under section 88 are transferred only to the extent that they are functions of “the Minister".
+
+Section 92 shall have effect as if the reference to “the Minister" included a reference to the Assembly.
+
+**National Assistance Act 1948 (c.29)**
+
+**Agricultural Wages Act 1948 (c.47)** except—
+
+- (a) the requirement under section 13 for “the Minister" to submit an annual report to Parliament of his proceedings under this Act; and
+- (b) the functions of the Secretary of State under section 15A.
+
+The functions of “the Minister" under sections 13 (as it applies in relation to the Agricultural Wages Board), 16 and Schedule 1 are transferred to the Assembly so far as they have been transferred to the Secretary of State under the 1978 transfer order.
+
+The reference to the Minister of Agriculture, Fisheries and Food in section 3A(4) shall be construed as including a reference to the Assembly.
+
+**Prevention of Damage by Pests Act 1949 (c.55)** All functions are transferred, save that to the extent that this Act provides for the carrying out of research (as referred to in section 27(1)(c) and in article 8(b) of the 1978 transfer order) by either the Minister of Agriculture, Fisheries and Food or the Secretary of State, it is directed that that function shall be exercisable by the Assembly concurrently with those Ministers of the Crown.
+
+**Docking and Nicking of Horses Act 1949 (c.70)**
+
+**Coast Protection Act 1949 (c.74)** except—
+
+- (a) any function conferred on a Minister of the Crown other than “the Minister" by sections 2, 5(4), 8(4), 46 and Schedules 1 and 2;
+- (b) any function conferred on a Minister of the Crown other than “the Minister" or “the Minister of Agriculture, Fisheries and Food" by section 17;
+- (c) section 18(2) and Part II; and
+- (d) the Treasury function under section 32(5).
+
+**National Parks and Access to the Countryside Act 1949 (c.97)** except—
+
+- (a) sections 9(2), 65(3), 72, 78(1) and paragraph 4 of the First Schedule;
+- (b) so far as they relate to a route of which a part but not the whole is in Wales, the functions under sections 51 to 55 which were transferred to the “Minister of Land and Natural Resources" by article 6 of the 1965 transfer order;
+- (c) the regulation-making function under section 63(1); and
+- (d) the Treasury function under section 101(11).
+
+**Allotments Act 1950 (c.31)**
+
+**Sea Fish Industry Act 1951 (c.30)** in respect of the functions transferred to the Secretary of State by the 1978 transfer order.
+
+**Cremation Act 1952 (c.31)**
+
+**Town Development Act 1952 (c.54)**
+
+**Local Government (Miscellaneous Provisions) Act 1953 (c.26)** except section 8(3).
+
+**Dogs (Protection of Livestock) Act 1953 (c.28)**
+
+**[^key-e3b9fad76e5965e4ceb24d87beb3b186]...**
+
+**[^key-e014a7795f8ac8ad02d53ae461d76beb]...**
+
+**Agriculture (Miscellaneous Provisions) Act 1954 (c.39)**
+
+**Protection of Animals (Anaesthetics) Act 1954 (c.46)**
+
+**Landlord and Tenant Act 1954 (c.56)** except that in relation to sections 57(1) to (6) and 58 it is directed that the certification function shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom it is exercisable.
+
+**Pests Act 1954 (c.68)**
+
+**Fisheries Act 1955 (c.7)**
+
+**Parish Councils Act 1957 (c.42)**
+
+**Agriculture Act 1957 (c.57)** except section 32.
+
+The functions of “the Ministers" under section 6 are transferred so far as they have been transferred to the Secretary of State for Wales by the 1978 transfer order.
+
+**Disabled Persons (Employment) Act 1958 (c.33)**
+
+**Agricultural Marketing Act 1958 (c.47)** in respect of functions vested in the Secretary of State for Wales by the 1969 transfer order and the 1978 transfer order.
+
+Article 2(c) of this Order shall not have effect in relation to functions under this Act.
+
+The Treasury consultation requirement under section 28 shall continue in effect.
+
+**Opencast Coal Act 1958 (c.69)** except the functions of the Treasury under sections 35(8) and 44(4).
+
+The function of “the appropriate Minister" under section 39(6) is only transferred so far as it relates to—
+
+- (a) internal drainage boards; and
+- (b) water and sewerage undertakers and the Natural Resources Body for Wales[^key-80fd2f84374622a2eb54d9d6b0306db9] (which are treated as statutory undertakers for these purposes by virtue of paragraph 1(1) and (2)(viii) of Schedule 25 to the Water Act 1989 (c.15) (as amended by the Environment Act 1995 (Consequential Amendments) Regulations 1996 (S.I. 1996/593) and by the Natural Resources Body for Wales (Functions) Order 2013[^key-2fcb3945a420077f2b5b149ebde6a0e1]).
+
+**Town and Country Planning Act 1959 (c.53)** in respect of the functions transferred to the Secretary of State by the 1965 transfer order.
+
+**Weeds Act 1959 (c.54)**
+
+**Mental Health Act 1959 (c.72)**
+
+**Road Traffic Act 1960 (c.16)** No functions under this Act are transferred but it is directed that the functions under sections 248 and 249 shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom they are exercisable.
+
+**Caravan Sites and Control of Development Act 1960 (c.62)** except the Treasury function under paragraph 6 of the Second Schedule.
+
+**Public Bodies (Admission to Meetings) Act 1960 (c.67)**
+
+**Land Compensation Act 1961 (c.33)**
+
+**Public Health Act 1961 (c.64)** except functions of a Minister of the Crown exercisable as “appropriate authority" under section 45 and Schedule 4 in respect of buildings of the following descriptions in the Table in Schedule 4—
+
+- (a) a building owned by railway, canal, dock, harbour or inland navigation undertakers;
+- (b) a building owned by electricity or gas undertakers;
+- (c) a building forming part of an aerodrome;
+- (d) a building owned by the Post Office;
+- (e) a building owned by British Telecommunications.
+
+**Local Government (Records) Act 1962 (c.56)**
+
+**Pipe-Lines Act 1962 (c.58)** section 15.
+
+**Towyn Trewan Common Act 1963 (c.4)** except section 5.
+
+**Local Authorities (Land) Act 1963 (c.29)**
+
+**Public Lavatories (Turnstiles) Act 1963 (c.32)**
+
+**Children and Young Persons Act 1963 (c.37)**
+
+**Local Government (Financial Provisions) Act 1963 (c.46)**
+
+**Plant Varieties and Seeds Act 1964 (c.14)** in respect of the functions transferred to the Secretary of State by the 1978 transfer order.
+
+**Licensing Act 1964 (c.26)** sections 108 to 110, 115, 116, 118 to 121 and Schedules 10 and 11.
+
+**Agriculture and Horticulture Act 1964 (c.28)** except the function of any Minister of the Crown other than the Secretary of State for Wales.
+
+**Harbours Act 1964 (c.40)** sections 14,[^key-05507c913cbb3c923a6cfb513d20245e] 15, 15A, 16, 30, 31, 60 and Schedule 3 so far as they relate to fishery harbours.
+
+[^key-d6fc01a66522b0726ae1ef50bf329ab6]...
+
+**Public Libraries and Museums Act 1964 (c.75)**
+
+**Science and Technology Act 1965 (c.4)** No functions under this Act are transferred but it is directed that the functions of a Minister of the Crown under section 5, except so far as relating to Research Councils, shall be exercisable by the Assembly concurrently with the Secretary of State. The functions under section 5 shall be exercisable by the Assembly free from the requirement for Treasury consent.
+
+**Cereals Marketing Act 1965 (c.14)** section 16, and Schedules 1 and 3. The remaining functions under this Act are transferred to the extent that they have been transferred to the Secretary of State for Wales by the 1969 transfer order and the 1978 transfer order.
+
+The Treasury approval requirements under sections 1(6), 21(2) and paragraph 10(2) of Schedule 1 shall continue in effect.
+
+**Finance Act 1965 (c.25)** section 92.
+
+**Commons Registration Act 1965 (c.64)**
+
+**[^key-64800132ef21dc1e7925a1461f932e9e]...**
+
+**[^key-4afbfa0001db0e7b73ec50e4453865ca]...**
+
+**Local Government Act 1966 (c.42)** except the functions of “The Treasury" under Part II of Schedule 3.
+
+**Education Act 1967 (c.3)**
+
+**Plant Health Act 1967 (c.8)** The Treasury consent requirements under sections 4 and 4A shall continue in effect.
+
+**Forestry Act 1967 (c.10)** except—
+
+- (a) section 33(5);
+- (b) section 38(4) so far as it relates to the Home Grown Timber Advisory Committee;
+- (c) section 41(4A) and (6);
+- (d) the Treasury function under section 42(3)(b);
+- (e) sections 44 and 45 and paragraphs 2(2), 6(1) and 12 of Schedule 1.
+
+The functions under paragraphs 6(2), 9(1) and 10(1) of Schedule 1 are transferred so far as they are exercisable by the Secretary of State.
+
+The function under paragraph 7(2) of Schedule 1 is transferred only so far as it relates to a committee for Wales appointed under section 2(3).
+
+The requirement for the approval of “the Treasury" under paragraphs 6(2), 9(1) and 10(1) of Schedule 1 shall continue in effect.
+
+**Agriculture Act 1967 (c.22)** section 65. Except so far as this entry provides otherwise, the remaining functions under this Act are transferred to the extent that they have been transferred to the Secretary of State by the 1969 transfer order and the 1978 transfer order.
+
+The requirement for consultation with the “Secretary of State for Trade" under section 9(11) and the Treasury approval requirements under sections 15(1), 19, 53 and Part II of Schedule 5 shall continue in effect.
+
+It is directed that the notification functions of “the appropriate Minister" under section 54(3) and of “the Ministers" under sections 20(2) and 60(3) shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom they are exercisable.
+
+Section 19(1) and (4) shall have effect so that in addition to the requirement to lay before each House of Parliament the documents referred to therein, there shall be a requirement for those documents to be laid before the Assembly.
+
+**Slaughter of Poultry Act 1967 (c.24)** It is directed that the function under section 4 shall be exercisable by the Assembly concurrently with the Minister of Agriculture, Fisheries and Food.
+
+**Civic Amenities Act 1967 (c.69)**
+
+**Sea Fisheries (Shellfish) Act 1967 (c.83)**
+
+**Sea Fish (Conservation) Act 1967 (c.84)** except the functions of the “Board of Trade" under section 8.
+
+It is directed that the functions under sections 4, 4A and 15(3) shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom they are exercisable. The functions under sections 4 and 4A shall be exercisable by the Assembly free from the requirement for Treasury consent.
+
+**Abortion Act 1967 (c.87)**
+
+**Leasehold Reform Act 1967 (c.88)**
+
+**Trade Descriptions Act 1968 (c.29)** in respect of the function of the Minister of Agriculture, Fisheries and Food under section 38(2).
+
+**Agriculture (Miscellaneous Provisions) Act 1968 (c.34)** Part I and section 46.
+
+**Countryside Act 1968 (c.41)** except the Treasury function under section 47(4).
+
+**Health Services and Public Health Act 1968 (c.46)**
+
+**Caravan Sites Act 1968 (c.52)**
+
+**Medicines Act 1968 (c.67)** section 108. In subsection (1) of section 132, the definition of “enforcement authority" shall have effect as if the reference to the Minister included a reference to the Assembly.
+
+**Sea Fisheries Act 1968 (c.77)** It is directed that the functions under section 5 (so far as they relate to the identification and marking of fishing boats) and the functions of “the appropriate Minister" under section 7 shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom they are exercisable.
+
+**Transport Act 1968 (c.78)** section 56.
+
+It is directed that the functions of “the Minister" under section 57 shall be exercisable by the Assembly concurrently with that Minister. The functions under section 57 shall be exercisable by the Assembly free from the requirement for Treasury approval.
+
+**Local Government Grants (Social Need) Act 1969 (c.2)** It is directed that the functions under this Act shall be exercisable by the Assembly concurrently with the Secretary of State. The functions under this Act shall be exercisable by the Assembly free from the requirement for Treasury consent.
+
+**Mines and Quarries (Tips) Act 1969 (c.10)** except Part I.
+
+**Development of Tourism Act 1969 (c.51)**[^key-e5212cad0fc792643dc60fd510484feb]...
+
+[^key-4b11e163da62ceb452407d8c786816b8]...
+
+The Treasury approval requirements under section 6(1) and (2) shall continue in effect. *(affected by repeal, see note)*[^key-bd7a4db596d367c256803433d9303ffa]
+
+[^key-76d550423ee094ec3775430b1d3dc07a]...
+
+The functions of the Comptroller and Auditor General in section 6(3) and (4) are, in relation to statements of account prepared by the Wales Tourist Board for financial years beginning in and after 1999, transferred to the Auditor General for Wales and in relation thereto section 6(4) shall have effect so that for the requirement to lay before Parliament the documents referred to therein, there shall be substituted a requirement for the Auditor General for Wales to lay those documents before the Assembly. *(affected by repeal, see note)*[^key-bd7a4db596d367c256803433d9303ffa]
+
+Section 17(4) (including that provision as applied by section 18(2)) shall have effect so that reference to the Assembly shall be substituted for the reference to the Secretary of State for Wales.
+
+**Children and Young Persons Act 1969 (c.54)** except sections 7, 19, 23(12), 30, 46, 65 and Schedule 3.
+
+**Sea Fish Industry Act 1970 (c.11)**
+
+**Parish Councils and Burial Authorities (Miscellaneous Provisions) Act 1970 (c.29)**
+
+**Conservation of Seals Act 1970 (c.30)** except section 1(2).
+
+**Local Authorities (Goods and Services) Act 1970 (c.39)**
+
+**Agriculture Act 1970 (c.40)** except section 53. The Treasury approval requirement under section 78(10) shall continue in effect.
+
+**Local Authority Social Services Act 1970 (c.42)**
+
+**Chronically Sick and Disabled Persons Act 1970 (c.44)** except sections 9, 13(2) and 28.
+
+**Radiological Protection Act 1970 (c.46)** in respect of the functions of “the Health Ministers" exercisable by the Secretary of State for Wales.
+
+It is directed that the function under paragraph 13(5) of Schedule 1 shall be exercisable by the Assembly concurrently with the Secretary of State.
+
+The Treasury approval requirements under section 3 shall continue in effect.
+
+**Misuse of Drugs Act 1971 (c.38)** section 1.
+
+**Defective Premises Act 1972 (c.35)**
+
+**Agriculture (Miscellaneous Provisions) Act 1972 (c.62)** in respect of the functions transferred to the Secretary of State by the 1978 transfer order.
+
+**[^key-ec4670340ec928f9d7976ee05e2e73b0]...**
+
+**European Communities Act 1972 (c.68)** in respect of the functions transferred to the Secretary of State by the 1978 transfer order.
+
+**Local Government Act 1972 (c.70)** except sections 58 (so far as it relates to the making of an order in relation to police areas), 103 (so far as it applies to joint committees of police authorities by virtue of section 107), 119(3), 244(2), 259, 260, paragraph 37 of Schedule 12 and paragraphs 3, 5(2) and (3) and 6 of Schedule 13.
+
+[^key-46904d8728f98b13dc1e1a8718bd5ed3]....
+
+In section 121(1) the reference to “the Minister concerned with that purpose" shall, in relation to any purpose in respect of which the Assembly is concerned, have effect as if it were a reference to the Assembly; and following references in section 121 to “Minister" or “Ministers" shall be construed accordingly.
+
+Section 128(1) shall have effect as if the reference to “the Minister" included a reference to the Assembly; and following references in that section to “Minister" shall be construed accordingly.
+
+Section 141(2) shall, in relation to any matter with which the Assembly is concerned, have effect, as if the reference to “the appropriate Minister" were a reference to the Assembly.
+
+[^key-71c0c790fc98eee9205c3423c8b580da]....
+
+Section 240 shall have effect as if references to “the Secretary of State" included reference to the Assembly.
+
+Section 250 shall have effect as if references to “Minister" or “Secretary of State" included reference to the Assembly.
+
+In paragraph 8 of Schedule 8 for “Parliament" there shall be substituted “ the National Assembly for Wales ”.
+
+**Land Compensation Act 1973 (c.26)**
+
+**National Health Service Reorganisation Act 1973 (c.32)**
+
+**Protection of Wrecks Act 1973 (c.33)** except section 2.
+
+**Employment and Training Act 1973 (c.50)** except sections 2, 4, 5 and 11, in respect of which it is directed that the Ministerial functions contained therein shall be exercisable by the Assembly concurrently with any Ministers of the Crown by whom they are exercisable, save that the functions exercisable by the Assembly under section 2 shall not include the function of making arrangements for the principal purpose of helping all those (as distinct from a particular section of the population of Wales) without work to find employment and to help employers to fill vacancies, or any function ancillary to that function.
+
+The functions under sections 2, 5(3) and 11(1) shall be exercisable by the Assembly free from the requirement for Treasury approval and the function under section 5(2)(b) shall be exercisable by the Assembly free from the requirement for the approval of the “Minister for the Civil Service".
+
+**Slaughterhouses Act 1974 (c.3)** except in relation to the functions under Part I which were retained as functions of the Minister of Agriculture, Fisheries and Food by virtue of article 4(1) of the 1978 transfer order.
+
+**Horticulture (Special Payments) Act 1974 (c.5)**
+
+**Local Government Act 1974 (c.7)** except—
+
+- (a) section 9 so far as it relates to the Countryside Commission;
+- (b) section 23;
+- (c) the function of the Secretary of State in discharging a notice under section 32(3) so far as the notice relates to a police authority or to any other body (other than a Regional Flood and Coastal Committee[^key-14910525ab987139b9f200eb78dd6f15]) exercising functions in England and Wales;
+- (d) the function of the Secretary of State under section 35(3) and (4) so far as it relates to the removal or relaxation of any control conferred by or under any enactment on a body other than the Assembly; and
+- (e) paragraph 3(1) of Schedule 4 so far as it relates to “Local Commissioners" (but not “officers") and paragraph 3(2) of that Schedule.
+
+It is directed that the function of a Minister of the Crown of giving notice (other than a notice of discharge) under section 32(3) shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom it is exercisable.
+
+The requirement for the approval of “the Minister for the Civil Service" under paragraph 3(1) of Schedule 4 shall continue in effect.
+
+**Control of Pollution Act 1974 (c.40)** except section 102(2).
+
+**Reservoirs Act 1975 (c.23) except section 12A(4).[^key-a6143999b7e4b381cac832ebd46827e1]**
+
+**Mobile Homes Act 1975 (c.49)**
+
+**Salmon and Freshwater Fisheries Act 1975 (c.51)** except—
+
+- (a) the functions of “the Minister" under section 37A; and
+- (b) section 38.
+
+**Sex Discrimination Act 1975 (c.65)** sections 25, 66(5), 67(6), 78 and Schedule 2.
+
+**Welsh Development Agency Act 1975 (c.70)** except [^key-c336a2078dbc576e607199a8b23ed2b7]... the functions of “the appropriate Minister" under paragraphs 11 and 12 of Schedule 4.
+
+[^key-c336a2078dbc576e607199a8b23ed2b7]...
+
+The Treasury approval requirements under paragraph 3(2) and (3) of Schedule 3 shall continue in effect so far as they relate to borrowing in currencies other than sterling.
+
+The functions of the Comptroller and Auditor General in paragraphs 4(3) and 8(3) to (5) of Schedule 3 are, in relation to financial or, as the case may be, accounting years beginning in and after 1999, transferred to the Auditor General for Wales and in relation thereto paragraphs 4(3) and 8(4) of Schedule 3 shall have effect so that for the requirement to lay before Parliament the documents referred to therein, there shall be substituted a requirement for the Auditor General for Wales to lay those documents before the Assembly. *(affected by repeal, see note)*[^key-c336a2078dbc576e607199a8b23ed2b7]
+
+**Adoption Act 1976 (c.36)** sections 3 to 5, 8, [^key-f9c89f49f1576b249e24991da6a63401]... 28, 51A, 57A, 58A and 65A.
+
+**Agriculture (Miscellaneous Provisions) Act 1976 (c.55)**
+
+**Local Government (Miscellaneous Provisions) Act 1976 (c.57)** except section 30(3).
+
+**Race Relations Act 1976 (c.74)** sections 19(2), 19A(3), 57(5) and 58(6).
+
+It is directed that the certification function under section 69 shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom it is exercisable.
+
+The references in section 41 to a Minister of the Crown shall be construed as including reference to the Assembly.
+
+**Development of Rural Wales Act 1976 (c.75)** section 26.
+
+**Rent (Agriculture) Act 1976 (c.80)**
+
+**Fishery Limits Act 1976 (c.86)**
+
+**Rentcharges Act 1977 (c.30)**
+
+**Rent Act 1977 (c.42)**
+
+**Protection from Eviction Act 1977 (c.43)**
+
+**[^key-fcd7b3e3cf92f1dbd5c3c29fdeead299]...**
+
+**Refuse Disposal (Amenity) Act 1978 (c.3)**
+
+**Inner Urban Areas Act 1978 (c.50)** except section 2(5).
+
+**Agricultural Statistics Act 1979 (c.13)**
+
+**Forestry Act 1979 (c.21)**
+
+**[^key-211fc724e8d758abdd7368e29c11cb0e]...**
+
+**Bees Act 1980 (c.12)** except the functions of any Minister of the Crown other than the Secretary of State for Wales.
+
+**National Heritage Act 1980 (c.17)** sections 9 (except the function of the Secretary of State as a recipient of property transferred to him pursuant to a direction made under subsection (2) and except subsection (6)), 16 and 16A.
+
+Any sums received by the Assembly under section 3 shall be treated as if they were sums received by the Assembly within the meaning of section 84(5) of the Government of Wales Act 1998 (c.38) and section 3A(5) shall be construed accordingly.
+
+In section 9(2), the reference to the Secretary of State, where it occurs for the second time, shall be construed as including a reference to the Assembly.
+
+**Education Act 1980 (c.20)**
+
+**Import of Live Fish (England and Wales) Act 1980 (c.27)** It is directed that the functions under sections 1 and 3(2) shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom they are exercisable. The functions under section 1 shall be exercisable by the Assembly free from the requirement for Treasury consent.
+
+**Industry Act 1980 (c.33)** section 2.
+
+**Housing Act 1980 (c.51)**
+
+**Health Services Act 1980 (c.53)**
+
+**Local Government, Planning and Land Act 1980 (c.65)** except—
+
+- (a) section 95(4) so far as it applies to land other than Crown land held by the Assembly;
+- (b) section 99(6)(b);
+- (c) the Treasury functions under section 170(4) and paragraphs 4(4) and 9(4) of Schedule 31;
+- (d) the functions of “the appropriate Minister" under Schedule 28 and the function of the Secretary of State under paragraph 8(1) of Schedule 31.
+
+The Treasury approval requirements under paragraphs 4(1)(b) and (2)(b), 6 and 7 of Schedule 31 and the Treasury consent requirements under paragraphs 3, 10(3) and (4) of Schedule 31 and paragraphs 5(3)(b) and 15(4)(b) of Schedule 32 shall continue in effect.
+
+The requirement for consultation with the Treasury under paragraph 7(1) of Schedule 31 shall continue in effect.
+
+The functions of the Comptroller and Auditor General in paragraph 9(1) and (2) of Schedule 31 are, in relation to statement of account prepared for financial years beginning in and after 1999, transferred to the Auditor General for Wales and in relation thereto paragraph 9(3) of that Schedule shall have effect so that for the requirement to lay before Parliament the documents referred to therein, there shall be substituted a requirement for the Auditor General for Wales to lay those documents before the Assembly.
+
+**Highways Act 1980 (c.66)** except—
+
+- (a) the Treasury function under section 327(4);
+- (b) functions exercisable by the Secretary of State in pursuance of section 329(5); and
+- (c) functions exercisable by the Secretary of State in relation to that part of the M4 Motorway in Wales which comprises “the New Toll Plaza area" and “the New Bridge", as defined in section 39(1) of the Severn Bridges Act 1992 (c.3).
+
+**Animal Health Act 1981 (c.22)** in respect of—
+
+- (a) the functions exercisable by “the appropriate Minister"; and
+- (b) the functions of “the Ministers" so far as exercisable by the Secretary of State for Wales.
+
+**Fisheries Act 1981 (c.29)** in respect of—
+
+- (a) the functions of “the Ministers" in Part I and Schedules 1, 2 and 3 so far as exercisable by the Secretary of State concerned with the sea fish industry in Wales; and
+- (b) Parts II to IV.
+
+The Treasury approval requirements under Part II shall continue in effect.
+
+**Zoo Licensing Act 1981 (c.37)**
+
+**New Towns Act 1981 (c.64)** except the Treasury functions under sections 69(1) and 78(3)(a).
+
+The Treasury approval requirements under sections 59, 66 and 67 and the Treasury consent requirement under Schedule 9 shall continue in effect.
+
+The functions of the Comptroller and Auditor General in section 69 are, in relation to financial years beginning in and after 1999, transferred to the Auditor General for Wales and in relation thereto section 69(2) shall have effect so that for the requirement to lay before Parliament the documents referred to therein, there shall be substituted a requirement for the Auditor General for Wales to lay those documents before the Assembly.
+
+Orders confirmed by the Assembly shall be subject to special parliamentary procedure to the extent provided for under paragraph 12(b) of Schedule 4.
+
+**Compulsory Purchase (Vesting Declarations) Act 1981 (c.66)**
+
+**Acquisition of Land Act 1981 (c.67)** except sections 8(4) and 32(6A).
+
+The regulation-making function provided for in section 7(2) is only transferred so far as it is exercisable in relation to such orders as fall to be made or confirmed by the Assembly.
+
+The functions of the Secretary of State as “the appropriate Minister" (in pursuance of the definition in section 8(3)) are only transferred so far as they relate to water and sewerage undertakers (treated as statutory undertakers for the purposes of this Act by virtue of Schedule 25 to the Water Act 1989) except under section 16 where those functions are also transferred in relation to the bodies and trusts referred to in section 16(3). It is directed that, in relation to water and sewerage undertakers, these functions shall, in relation to land situated in the catchment areas of the rivers Dee, Wye and Severn be exercisable by the Assembly concurrently with the Secretary of State.
+
+Orders made or confirmed by the Assembly shall be subject to special parliamentary procedure as provided for in section 18 and paragraph 5 of Schedule 3.
+
+**Wildlife and Countryside Act 1981 (c.69)** It is directed that the functions under sections 2(6), 16, 29(1) and (2) and paragraph 13(3) of Schedule 13 shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom they are exercisable.
+
+**Agricultural Training Board Act 1982 (c.9)** except section 7A(2) and the functions of “the Ministers" other than those exercisable by the Minister concerned with agriculture in Wales so far as they relate to the Agricultural Training Board.
+
+Section 8(4) shall have effect so that in addition to the requirement for that Board to lay a report before Parliament, there shall be a requirement for that report to be laid before the Assembly.
+
+**Local Government (Miscellaneous Provisions) Act 1982 (c.30)**
+
+**Industrial Development Act 1982 (c.52)** No functions under this Act are transferred but it is directed that—
+
+- (a) the functions of the Secretary of State under this Act shall, with the exception of the functions under sections 1, 8(5) and (7), 10, 15 and 16, be exercisable by the Assembly concurrently with the Secretary of State; and
+- (b) the functions of a Minister of the Crown under section 13 shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom they are exercisable.
+
+The functions under sections 5, 7, 8 (except subsections (5) and (7)) and 13 shall be exercisable by the Assembly free from the requirements for Treasury consent and the functions under section 12 shall be exercisable by the Assembly free from the requirements for Treasury approval.
+
+Section 15 shall have effect so that reports prepared by the Secretary of State in compliance therewith shall include, in addition to the information required in relation to the Secretary of State’s exercise of functions under this Act, all such information in relation to the exercise by the Assembly of such functions, and the Assembly shall ensure that all necessary information is supplied to the Secretary of State for this purpose.
+
+**Agricultural Marketing Act 1983 (c.3)** The functions exercisable by the Secretary of State for Wales under sections 1, 5, 6(3)(b) and (4) and paragraph 4(4) of Schedule 1.
+
+It is directed that the functions under sections 6(3)(a), 7(2) and paragraph 4(3) of Schedule 1 shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom they are exercisable. The function under section 7(2) shall be exercisable by the Assembly free from the requirement for Treasury consent.
+
+**Pig Industry Levy Act 1983 (c.4)** in respect of the functions of “the Ministers" so far as exercisable by the Secretary of State for Wales.
+
+**Conwy Tunnel (Supplementary Powers) Act 1983 (c.7)**
+
+**British Fishing Boats Act 1983 (c.8)** so far as exercisable by the Secretary of State concerned with the sea fishing industry in Wales.
+
+**Mental Health Act[^key-7599b27d1aacc9379668e8c92dd89062] [1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20)** except sections 41,42,45A (10) and (11), 45B to 51,
+
+53, 71, 73 to 75, 80A, 81A, ,82A, 83A, 84, 85A, 86, and Schedule 2.
+
+Functions under sections 80, 81 and 83 are transferred except in relation to a patient who is subject to one or more of the following, namely:
+
+- (a) a restriction order;
+- (b) a hospital direction;
+- (c) a limitation direction; or
+- (d) a restriction direction,
+
+made under sections 41, 45A or, as the case may be, 49.
+
+In section 19(3) and in paragraph (a) in the definition of “the managers” in section 145(1), references to a hospital vested in the Secretary of State for the purposes of his functions under the National Health Service Act 1977 shall have effect as if they included a reference to a hospital vested in the Assembly for purposes of its functions under that Act.
+
+Section 23 (4) and (5) shall not apply to the exercise by the Assembly of the powers conferred by that section.
+
+Section 24(3) shall have effect as if it applied to an application by the Assembly as well as to an application by the Secretary of State.
+
+Sections 54(1) and 117(2A)(a) shall have effect as if references to a registered medical practitioner approved for the purposes of section 12 by the Secretary of State (including references to be construed as such) included a reference to such a practitioner approved by the Assembly.
+
+Section 139(4) shall have effect as if after the words “the Secretary of State” there were inserted “the National Assembly for Wales”.
+
+Section 142(1) shall have effect as if the reference to a government department included a reference to the Assembly.
+
+The Treasury approval requirements under sections 119(1), 120(6) and 121(6) shall continue in effect so far as they relate to pensions.
+
+**[^key-68d234282c653a376313d6b19fce3dc1]...**
+
+**Mobile Homes Act 1983 (c.34)**
+
+**Litter Act 1983 (c.35)**
+
+**Education (Fees and Awards) Act 1983 (c.40)** except section 1.
+
+**Health and Social Services and Social Security Adjudications Act 1983 (c.41)** except Schedule 8.
+
+It is directed that the functions of the Secretary of State under Schedule 3 shall be exercisable by the Assembly concurrently with the Secretary of State.
+
+**Public Health (Control of Disease) Act 1984 (c.22)** except section 28 and the Treasury function under section 73(4).
+
+**Registered Homes Act 1984 (c.24)** except sections 43 to 45.
+
+**Road Traffic Regulation Act 1984 (c.27)** except—
+
+- (a) section 17(2) and (3) with respect to special roads generally;
+- (b) section 20, 21 and 23;
+- (c) sections 25 (other than subsection (4) together with the other provisions of section 25 so far as relating thereto);
+- (d) section 28;
+- (e) section 64 other than so far as it confers the power to— (i) prescribe a variant of any sign of a type prescribed by “ the national authority[^key-ec94fd6a49eabe6b7a699bf55a9184eb] " and carrying words in English, being a variant identical with a sign of that type except for the substitution or addition of words in Welsh (and any increase in size needed to accommodate the substituted or added words); and (ii) authorise signs not otherwise prescribed;
+- (f) section 65 so far as it relates to the giving of general directions;
+- (g) section 81;
+- (h) section 85(2) so far as it relates to the giving of general directions;
+- (i) sections 86, 88, 95 to 97, 99 to 106, 130 to 132, 136 to 140, 141A and Schedule 6.
+
+It is directed that the function under section 128 shall be exercisable by the Assembly concurrently with the Secretary of State.
+
+**Food Act 1984 (c.30)** except—
+
+- (a) the functions of “the appropriate Minister" under section 68 other than so far as they are exercisable by the Secretary of State for Wales;
+- (b) section 68(5);
+- (c) the functions of “the Ministers" under section 69 other than so far as they are exercisable by the Secretary of State for Wales; and
+- (d) section 110.
+
+It is directed that the functions of “the appropriate Minister" under section 69A shall be exercisable by the Assembly concurrently with that Minister.
+
+Section 68(5) shall have effect so that in addition to the requirement to lay before Parliament the documents referred to therein, there shall be a requirement for those documents to be laid before the Assembly.
+
+**Cycle Tracks Act 1984 (c.38)** section 3.
+
+**Animal Health and Welfare Act 1984 (c.40)**
+
+**[^key-e50f7dbeadde3670415d72164becc459]...**
+
+**Building Act[^key-2e4298554560023bd765a1cca7bc2b0e] [1984 (c. 55)](https://www.legislation.gov.uk/ukpga/1984/55)** except—
+
+- (a) sections 1,2,3(1), 5(1), 6,8(2), (3) and (6), 9(1), 11 to 13, 14, and 16(9);
+- (b) section 16(10) so far as it relates to the function of prescribing fees;
+- (c) sections 17 and 19(7);
+- (d) section 20(5) so far as it relates to the function of prescribing the time and manner of appeals;
+- (e) sections 20(10),35, 38(1), 43(3), 44, 47 to 49, 50 (except subsection (2)), 51 to 58, 92, 120 and Schedules 1 and 4; and
+- (f) the Treasury function under section 87(4)
+
+The Treasury approval requirement under section 87(3) shall continue in effect.
+
+**Milk (Cessation of Production) Act 1985 (c.4)**
+
+**New Towns and Urban Development Corporations Act 1985 (c.5)**
+
+**Hospital Complaints Procedure Act 1985 (c.42)** sections 1 and 1A.
+
+**Further Education Act 1985 (c.47)**
+
+**Food and Environment Protection Act 1985 (c.48)** except—
+
+- (a) functions under Part II so far as exercisable in relation to matters concerning or arising from the exploration for, or production of, petroleum;
+- (b) the functions of the Minister of Agriculture, Fisheries and Food under sections 16 and 18 and paragraphs 1 to 3 of Schedule 5.
+
+It is directed that the functions under sections 1(1), 3(1) and (2), 13, 14(2) and (3), 17 and paragraphs 4 to 6 of Schedule 5 shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom they are exercisable.
+
+The Treasury consent requirements under sections 8(9), 16(2) and 18(4) shall continue in effect.
+
+**Transport Act 1985 (c.67)** section 19(7), and Parts IV and V (except sections 110 and 111).
+
+**Housing Act 1985 (c.68)** except section 5(1)(b).
+
+The Treasury consent requirement under paragraph 4(4) of Schedule 6A shall continue in effect.
+
+**Housing Associations Act 1985 (c.69)** except the Treasury function under section 1(1)(b).
+
+The Treasury consent requirement under section 76(2) and the Treasury approval requirement under section 92(6) (so far as it applies to section 92(3)) shall continue in effect.
+
+**Landlord and Tenant Act 1985 (c.70)**
+
+**Agricultural Holdings Act 1986 (c.5)** except paragraph 4(1)(a) of Schedule 12.
+
+**Local Government Act 1986 (c.10)**
+
+**Horticultural Produce Act 1986 (c.20)**
+
+**Health Service Joint Consultative Committees (Access to Information) Act 1986 (c.24)**
+
+**Disabled Persons (Services, Consultation and Representation) Act 1986 (c.33)** sections 1, 2, 5, 7 and 11.
+
+**Education Act 1986 (c.40)**
+
+**Agriculture Act 1986 (c.49)** except the functions of the Minister of Agriculture, Fisheries and Food under sections 6 and 9.
+
+**Education (No. 2) Act 1986 (c.61)**
+
+**Salmon Act 1986 (c.62)**
+
+**Local Government Finance Act 1987 (c.6)**
+
+**Reverter of Sites Act 1987 (c.15)**
+
+**Landlord and Tenant Act 1987 (c.31)**
+
+**Aids (Control) Act 1987 (c.33)**
+
+**Access to Personal Files Act 1987 (c.37)**
+
+**Income and Corporation Taxes Act 1988 (c.1)** sections 79, 84, 488 and 489.
+
+**Local Government Act 1988 (c.9)**
+
+**Farm Land and Rural Development Act 1988 (c.16)**
+
+**Employment Act 1988 (c.19)** except sections 26 and 29(3).
+
+**Environment and Safety Information Act 1988 (c.30)** in respect of—
+
+- (a) “the responsible authority" function under section 2(2)(d) in relation to any individual employed and authorised by the Assembly; and
+- (b) “the appropriate Minister" function under section 4 in relation to any notice served by the Assembly.
+
+**Education Reform Act[^key-c9158ef3366985597e031e1c4938c11c] [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40)** except sections 197, 199, 209, 226 and Schedules 8 and 11.
+
+It is directed that the functions under section 218(6) and, so far as it relates thereto, (6ZA) shall be exercisable by the Assembly concurrently with the Secretary of State.
+
+**Local Government Finance Act 1988 (c.41)** except the function of the Minister of Agriculture, Fisheries and Food under section 118 and the Treasury function under paragraph 1(2) of Schedule 8.
+
+It is directed that the functions of the Secretary of State under section 88B, so far as they relate to police authorities, shall be exercisable by the Assembly concurrently with the Secretary of State. The functions under section 88B shall be exercisable by the Assembly free from the requirements for Treasury consent.
+
+The functions of the Comptroller and Auditor General in paragraph 1 of Schedule 8 are, so far as they relate to the non-domestic rating account for Wales for financial years beginning in and after 1999, transferred to the Auditor General for Wales and in relation thereto paragraph 1(3) shall have effect so that for the requirement to lay before each House of Parliament the documents referred to therein, there shall be substituted a requirement for the Auditor General for Wales to lay those documents before the Assembly.
+
+Notwithstanding section 45(3) of the Government of Wales Act 1998, any reference to the approval of a report by the House of Commons shall, in relation to a report laid before the Assembly, be construed as a reference to the publication of the report by the Assembly.
+
+**Health and Medicines Act 1988 (c.49)** sections 7, 8, 17(1)(d) and 23.
+
+**Housing Act 1988 (c.50)** except the Treasury function under paragraph 3(2) of Schedule 9.
+
+The Treasury approval requirements under paragraphs 2, 4, 6 and 7 of Schedule 8 and the Treasury consent requirement under paragraph 10 of that Schedule shall continue in effect.
+
+**Road Traffic Act 1988 (c.52)** in respect of—
+
+- (a) sections 13(2), 13A, 27(6) and 31(2);
+- (b) section 36(5) so far as exercisable by the Secretary of State [^key-455f7924a07ee8748c32ac5b51dafba9]... but only to the extent that functions are exercisable by the Assembly under section 64 of the Road Traffic Regulation Act 1984 (c.27); and
+- (c) section 159.
+
+It is directed that the functions under sections 39(1) and 40 shall be exercisable by the Assembly concurrently with the Secretary of State. The functions under sections 39(1) and 40 shall be exercisable by the Assembly free from the requirement for Treasury approval.
+
+**Road Traffic Offenders Act 1988 (c.53)** sections 34A, 34B (except subsection (9)) and 34C.
+
+**Official Secrets Act 1989 (c.6)** in respect of the power to prescribe persons or classes of member or employee for the purposes of paragraphs (f) and (g) of section 12(1) so far as exercisable in respect of bodies or offices in relation to which the Assembly exercises functions, and in respect of the power of certification under section 12(2)(b) so far as exercisable in respect of agreements or arrangements entered into by the Assembly.
+
+It is directed that where the power to prescribe persons or classes of member or employee for the purposes of paragraphs (f) and (g) of section 12(1) is exercisable in respect of bodies or offices in relation to which both the Assembly and a Minister of the Crown exercise functions, that prescribing function shall be exercisable by the Assembly concurrently with the Secretary of State.
+
+**Control of Pollution (Amendment) Act 1989 (c.14)**
+
+**Employment Act 1989 (c.38)** sections 2, 5, 6, 8 and 28.
+
+**Children Act 1989 (c.41)**
+
+**Local Government and Housing Act 1989 (c.42)** except sections 43(2), 53(1) and 54(1) so far as they relate to a fire authority or police authority, and except section 43(3).
+
+The Treasury consent requirements under sections 43(2), (5) and (6) and 46(6) shall continue in effect.
+
+It is directed that the function of a Minister of the Crown under section 54(1) shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom it is exercisable except so far as it relates to a National Park authority.
+
+In relation to the function of determining a formula for the purposes of section 80, the Assembly shall not exercise that function without the agreement of the Secretary of State to the inclusion in the formula of any variable framed (in whatever way) by reference to rent rebates. *(affected by repeal, see note)*[^key-f10cbd4191a8bd993bac848f5b43460e]
+
+**Town and Country Planning Act[^key-74350e4e61f7be7b1110c90195eddebb] [1990 (c. 8)](https://www.legislation.gov.uk/ukpga/1990/8)** except—
+
+- (a) section 90(2);
+- (b) the functions of the Ministers of the Crown other than the Secretary of State for Wales under sections 90(1), 101 and Schedule 8, 170(12), 238(1)(a), 239(1)(a), 241(1)(a), 263(3) and (4), 266, 268, 279(5) and (6), 305, 325 (9) and 336(3);
+- (c) the functions of the Secretary of State for Trade and Industry under section 272(5) and (6); and
+- (d) the Treasury functions under sections 293(3) and 336(2).
+
+The requirement to consult the Lord Chancellor under section 20(5) shall continue in effect.
+
+The functions of the Secretary of State as “the appropriate Minister” (in pursuance of the definition in section 265) are only transferred so far as they relate to water and sewerage undertakers.
+
+It is directed that the functions under sections 304 and 321 shall be exercisable by the Assembly concurrently with the Secretary of State. The functions under section 304 shall be exercisable by the Assembly free from the requirement for Treasury consent.
+
+The Treasury approval requirement under section 297(3) shall continue in effect.
+
+The functions under sections 238, 239 and 241 shall apply to land vested in the Assembly under section 23 of the Government of Wales Act 1998 or otherwise which was acquired by a Minister of the Crown or other government department before it was so vested, as it applies to land acquired by the Assembly.
+
+Paragraph 8(2)(b) of Schedule 6 shall have effect as if the references to the Welsh Office were references to the Assembly and in relation thereto the reference to the Parliamentary Commissioner Act [1967 (c. 13)](https://www.legislation.gov.uk/ukpga/1967/13) shall have effect as if it were a reference to Schedule 9 to the Government of Wales Act 1998.
+
+**[^key-18d659954c532b611d0f8a51e8a030fd]...**
+
+It is directed that the function under paragraph 6(6) of Schedule 3 shall be exercisable by the Assembly concurrently with the Secretary of State.
+
+Paragraph 7(2)(b) of Schedule 3 shall have effect as if the references to the Welsh Office were references to the Assembly and in relation thereto the reference to the Parliamentary Commissioner Act 1967 (c.13) shall have effect as if it were a reference to Schedule 9 to the Government of Wales Act 1998.
+
+**Planning (Hazardous Substances) Act 1990 (c.10)** except sections 12(2) and 31(6).
+
+In respect of section 36B the function of the “appropriate Minister" is transferred only to the extent of its operation in cases where the Environment Agency and water and sewerage undertakers are deemed to be statutory undertakers.
+
+It is directed that the functions under sections 31(2), 38(1) and paragraph 6(6) of the Schedule shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom they are exercisable.
+
+The function under section 38(1) shall be exercisable by the Assembly free from the requirement for Treasury consent.
+
+Paragraph 7(2)(b) of the Schedule shall have effect as it the references to the Welsh Office were references to the Assembly and in relation thereto the reference to the Parliamentary Commissioner Act 1967 (c.13) shall have effect as if it were a reference to Schedule 9 to the Government of Wales Act 1998.
+
+**Food Safety Act 1990 (c.16)** except section 54(4).
+
+It is directed that the function under section 47 of paying remuneration and allowances shall be exercisable by the Assembly concurrently with the Minister of Agriculture, Fisheries and Food. The function under section 47 shall be exercisable by the Assembly free from the requirement for Treasury approval.
+
+**[^key-fcd7b3e3cf92f1dbd5c3c29fdeead299]...**
+
+The Treasury approval requirement under paragraph 9(2) of Schedule 2 so far as it relates to pensions, the Treasury approval requirement under paragraph 1(3) of Schedule 3 and the Treasury consent requirements under sections 9 and 10 and paragraphs 5 and 7 of Schedule 3 shall continue in effect.
+
+The requirement under paragraph 6 of Schedule 3 for the payment of surplus funds of a National Health Service Trust into the Consolidated Fund shall, in relation to a National Health Service Trust established to assume responsibility for the ownership and management of, or to provide and manage, hospitals or other establishments or other facilities which are situated in Wales, be construed as a requirement to pay such surplus funds to the Assembly.
+
+The references above to paragraph 1 of Schedule 3 are references to that paragraph before the amendments made by section 17 of the Health Act 1999. The Treasury consent requirement under paragraph 8 of that Schedule (inserted by Schedule 4 to the Health Act 1999), so far as relating to the matters referred to in paragraph (b) of that paragraph, shall continue in effect.[^key-3813d55d5966e840c8a1e7c51dc156b0]
+
+**Access to Health Records Act 1990 (c.23)**
+
+**Social Security Act 1990 (c.27)** No functions under this Act are transferred but it is directed that the functions under section 15 shall be exercisable by the Assembly concurrently with the Secretary of State. The functions under section 15 shall be exercisable by the Assembly free from the requirement for Treasury consent.
+
+**Environmental Protection Act 1990 (c.43)** except—
+
+- (a) the functions under section 140 and Schedule 12 relating to the importation into and the landing and unloading in the United Kingdom of any specified substance or article;
+- (b) sections 141, 153, 156 and Schedule 7;
+- (c) the functions of the Minister of Agriculture, Fisheries and Food under Part VI;
+- (d)[^key-b24926f1b7ad19cd4736b1355383a54e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+It is directed that the functions of the Secretary of State under sections 4(8A), 20(6) so far as relating to section 21, 21, 65, 71, 78S, 123(1) and 159(4) shall be exercisable by the Assembly concurrently with the Secretary of State.
+
+The functions of the Secretary of State under Part VII are transferred so far as relating to the Countryside Council for Wales.
+
+It is directed that the functions of the Secretary of State under section 153, so far as they conduce to the protection, improvement or better understanding of the environment of, or any part of, Wales, shall be exercisable by the Assembly concurrently with the Secretary of State. Article 2(c) of this Order shall not have effect in relation to the exercise by the Assembly of its functions under section 153.
+
+Sections 132(1)(c) and 133(2)(b) shall have effect so that reference to “the Secretary of State or any other Minister" includes a reference to the Assembly.
+
+The Treasury approval requirements under sections 8(2), 113 and paragraph 21(1) of Schedule 6 shall continue in effect.
+
+The functions of the Comptroller and Auditor General in paragraph 21 of Schedule 6 are, in relation to statements of account prepared by the Countryside Council for Wales for financial years beginning in and after 1999, transferred to the Auditor General for Wales and in relation thereto paragraph 21(3) of Schedule 6 shall have effect so that for the requirement to lay before each House of Parliament the documents referred to therein, there shall be substituted a requirement for the Auditor General for Wales to lay those documents before the Assembly.
+
+**Caldey Island Act 1990 (c.44)** No functions under this Act are transferred but it is directed that the function under section 4(3) shall be exercisable by the Assembly concurrently with the Secretary of State.
+
+**Caravans (Standard Community Charge and Rating) Act 1991 (c.2)**
+
+**New Roads and Street Works Act 1991 (c.22)** except section 167(3).
+
+**Agriculture and Forestry (Financial Provisions) Act 1991 (c.33)** sections 2 and 3.
+
+The Treasury approval requirement under section 2(1) shall continue in effect.
+
+**Planning and Compensation Act 1991 (c.34)**
+
+**Smoke Detectors Act 1991 (c.37)**
+
+**Road Traffic Act 1991 (c.40)** sections 31(6), 43 and Schedule 3.
+
+**Deer Act 1991 (c.54)** sections 2 and 7 except that in relation to section 7(5)(b) only the function of the Secretary of State as “agriculture Minister" is transferred to the Assembly.
+
+**Water Industry Act[^key-fb48e8b7cbf8c2d5c57d12d50aea866f] [1991 (c. 56)](https://www.legislation.gov.uk/ukpga/1991/56)** except sections 1, 2A,[^key-66c7661d250c2cb48252b41bafd1e239] 14, 15, 16A, 17 to 17D, 17F to 17K, 17N to 17P, 17R, 22A to 22F,[^key-e4c655a14e973c22d8a1e820e5d67121] 24(2)(d), 27(3), 27A, 27B, 27E, 27G, 27I to 27K, 29, 29A,[^key-09a63153b889bf12f5d24c39f64da348] 32 to 35, 38B, 66B, 66F to 66L, 86(1A), 87B, 88A, 89,[^key-195811ac1506691e087261fcf19d19a8] 92, 95B,[^key-4ee73ed413dcd081c351e189493fcaf9] 152(2), 192A, 192B,[^key-4fd2ed91dc23f3ba172374b9082d2a37] 193(3), 195A,[^key-86e94f9671a87685dc92a4cb985d0762] 206(3)(e) and Schedules 1 , 1A, 3A,[^key-94fb0328fbdf284c18bc78d64094afa8] and 4 and except functions under such other sections or Schedules as are expressly stated in the succeeding paragraphs to be so excepted (but only to the extent stated).[^key-dd0ead89c4291a7fefbe45d6cd131cd2]
+
+Functions under sections [^key-5a76a18e14cc1a4d51d28b0747d38962]... 5, 6 to 13, [^key-ac66934118a11179ed49350afcdc0ad9]... 24 (except 24(2)(d)), 26, 37, 38, 39, 51A[^key-a9ea009d471bcc6f2cc54e8c78c96caf], 65, [^key-862fb5eccf60943642128aa891f169da]... 74, [^key-a9778dbc838816230b49c2de86fe2c13]... 94 to 96, *(affected by repeal, see note)*[^M_F_e216120b-f583-4a31-8c20-558d354e2885] 94, 95, 96, 101A, 103, 104, 105A to 105C,[^key-6a81dbfdf3c7178a1b0bc6fe2a4a1fcf] 143(3A), (7) and (8), 143A, 144A, 144B, 149, 150A, 153, 154, 156, 158,[^key-1d5d9e86fb35701644d92e86a7607bde] 182, 195, 198 to 200[^key-4bcd4bc7f2d95ebdb72ab6e381b56c5a], [^key-28fd27678057a40994cb29ef97ae80d1]... and Schedule 5 are transferred to the Assembly, in relation to any water or sewerage undertaker whose area is wholly or mainly in Wales (but not in relation to any licensed water suppliers).[^key-aafed6fe33a14621d6c3b5a0e9a5492c]
+
+[^key-8cf6268f0074b55adb3731fe74413e0a]...
+
+Functions under sections 2, 18 to 22, 68 to 70, 93A and 201 to 203 are transferred to the Assembly in relation to—[^key-35ccfa298df9187140a21d493806f32e]
+
+- (a) any water or sewerage undertaker whose area is wholly or mainly in Wales;
+- (b) any licensed water supplier so far as relating to licensed activities using the supply system of any such water undertaker; and
+- (c) in the case of functions under section 70, any other person who is a relevant person (as defined in that section) in relation to any such undertaker or licensed water supplier.
+
+Functions under section 67 are transferred to the Assembly as follows —
+
+- (a)[^key-8894d6f069b578f5a63982e6e71e13b4] for the making of regulations concerning water supplied using the supply system of a water undertaker, the function is transferred in relation to the supply system of any water undertaker whose area is wholly or mainly in Wales;
+- (b) for the making of regulations concerning water supplied other than using the supply system of a water undertaker, the function is transferred in relation to Wales.
+
+Functions under sections 3, 86[^key-b07d5f1139695ad7d6f1fc2562abb5c6] 86 (except subsection (1A)), 213 to 215 and paragraph 11(3)(b) of Schedule 6 shall be exercisable by the Assembly to the same extent as the powers, duties and other provisions to which those sections apply are exercisable by the Assembly.
+
+In respect of the functions under sections 37A to 37D, 39B and 39C it is provided as follows—[^key-225f940537d321c7096ad2a55b3dd913]
+
+- (a) functions under those provisions so far as relating to matters concerning the construction or enlargement of reservoirs are transferred to the Assembly in relation to Wales;
+- (b) functions under those provisions so far as relating to matters other than the construction or enlargement of reservoirs are transferred to the Assembly in relation to any water undertaker whose area is wholly or mainly in Wales; and
+- (c) the functions of the Assembly referred to in paragraph (b) above so far as they are exercisable in relation to England shall be exercisable only after consultation with the Secretary of State.
+
+In respect of the functions under sections 155, 167, 169(4) and (5) and Schedule 11 it is provided as follows —
+
+- (a) functions under these provisions so far as relating to matters concerning the construction or enlargement of reservoirs are transferred to the Assembly in relation to Wales;
+- (b) functions under these provisions so far as relating to matters other than the construction or enlargement of reservoirs are transferred to the Assembly in relation to such parts of Wales as are outside the catchment areas of the rivers Dee, Wye and Severn;
+- (c) it is directed that functions under these provisions so far as relating to matters other than the construction or enlargement of reservoirs shall, in relation to such parts of Wales as are within the catchment areas of the rivers Dee, Wye and Severn, be exercisable by the Assembly concurrently with the Secretary of State.
+
+The functions under section 208 of giving directions for the purpose of mitigating the effects of any civil emergency and the function of enforcing such directions are transferred to *(affected by repeal, see note)*[^key-3f7bb205d7644a7acd95d19318fd6a35] the Assembly *(affected by repeal, see note)*[^key-3f7bb205d7644a7acd95d19318fd6a35] in relation to any water or sewerage undertaker whose area is wholly or mainly in Wales and it is directed that the other functions under section 208 shall be exercisable by *(affected by repeal, see note)*[^key-3f7bb205d7644a7acd95d19318fd6a35] the Assembly *(affected by repeal, see note)*[^key-3f7bb205d7644a7acd95d19318fd6a35] concurrently with the Secretary of State in relation to any such undertakers. *(affected by repeal, see note)*[^key-3f7bb205d7644a7acd95d19318fd6a35] In respect of the functions under section 208 it is provided as follows—
+
+- (a) the functions under that section of giving directions for the purpose of mitigating the effects of any civil emergency and the function (in the case of sub-paragraphs (i) and (ii) below) of enforcing such directions are transferred to the Assembly—
+  - (i) in relation to any water or sewerage undertaker whose area is wholly or mainly in Wales;
+  - (ii) in relation to any licensed water supplier so far as relating to licensed activities using the supply system of any such water undertaker; and
+  - (iii) in relation to the Consumer Council for Water so far as relating to its functions in connection with any such water undertaker; and
+- (b) it is directed that the other functions under that section shall be exercisable by the Assembly concurrently with the Secretary of State in relation to the bodies and so far as mentioned in paragraph (a)(i) to (iii) above.
+
+It is directed that functions under sections 19(4), 20(9), 27(4), 207 and 221(4) shall be exercisable by the Assembly concurrently with the Ministers of the Crown by whom they are exercisable.
+
+It is directed that the functions under section 152(1) shall be exercisable by the Assembly concurrently with the Secretary of State in relation to any water or sewerage undertaker whose area is wholly or mainly in Wales or (so far as relating to licensed activities using the supply system of any such water undertaker) any licensed water supplier[^key-3e7535fa28d61159023fed1053dcc0a2] and it shall be so exercisable free from the Treasury approval requirement under section 152(2).
+
+Article 2(c) of this Order shall not have effect in relation to those functions which, under the above provisions, are transferred to the Assembly in relation to any water or sewerage undertaker whose area is wholly or mainly in Wales or any licensed water supplier using the supply system of any such water undertaker.[^key-37f4885fbd6a4431eebbb8181bbdf11e]
+
+**Water Resources Act 1991 (c.57)** except—
+
+- (a) section 82 so far as exercisable in relation to those parts of Wales which are within the catchment areas of the rivers Dee, Wye and Severn;
+- (b) section 102 and paragraph 2(2) of Schedule 25;
+- (c) any function of the Minister of Agriculture, Fisheries and Food as “the relevant Minister" under sections 108, 140 and 141, or paragraph 7(a) of Schedule 26;
+- (d)[^key-033ef2aeacbde3f3e75670bfa61c28a9] any function which is expressly referred to in this Act as a function of the Secretary of State for Transport.
+
+In respect of the functions of a Minister of the Crown under sections 20(3) , 20B(3)[^key-b26e880eead768d12923693af0ccc11f] and 75(5)(c) it is provided as follows—
+
+- (a) functions under these provisions so far as relating to matters concerning the construction or enlargement of reservoirs are transferred to the Assembly in relation to Wales;
+- (b) functions under these provisions so far as relating to matters other than the construction or enlargement of reservoirs are transferred to the Assembly in relation to those parts of Wales which are outside the catchment areas of the rivers Dee, Wye and Severn;
+- (c) it is directed that the functions under these provisions so far as relating to matters other than the construction or enlargement of reservoirs shall, in relation to those parts of Wales which are within the catchment areas of the rivers Dee, Wye and Severn, be exercisable by the Assembly concurrently with the Secretary of State.
+
+Functions under section 92 are transferred to the Assembly only in relation to those parts of Wales which are outside the catchment areas of the rivers Dee, Wye and Severn and in relation to those parts of Wales which are within those catchment areas it is directed that the functions under section 92 shall be exercisable by the Assembly concurrently with the Secretary of State.
+
+The functions under section 207 of giving directions for the purpose of mitigating the effects of any civil emergency are transferred to the Assembly and it is directed that the other functions under that section shall be exercisable by the Assembly concurrently with the Secretary of State.
+
+It is directed that the functions under sections 191A and 222(4) shall be exercisable by the Assembly concurrently with the Secretary of State.
+
+Paragraph 6 of Schedule 3 to the Government of Wales Act 1998 shall apply to the functions of the Secretary of State under the following provisions to the extent that they are transferred to the Assembly by this Order:
+
+sections 21, 22 and Schedule 5,
+
+section 27A and (so far as it relates to section 27A) Schedule 6,[^key-5d2c3ce53d4141e2a35abdfce9c19154]
+
+section 33 and Schedule 6,
+
+section 33A,[^key-ff1df32bfd53831c28c1a8e5b995806f]
+
+sections 41 and 42,
+
+section 43 except in relation to the power to prescribe matters as referred to therein,
+
+section 44,
+
+section 51(1C) to 51(1F),[^key-bd072d7899cd31a64ed815b683b2a30b]
+
+section 52 except in relation to the power to prescribe matters as referred to in subsection (4),
+
+sections 53(4) and 54,
+
+section 55 except the power to prescribe matters as referred to in subsection (4),
+
+section 56,
+
+section 71 so far as it applies to section 33,
+
+section 73 and Schedule 8,
+
+section 74,
+
+section 75 except subsection (5)(c),
+
+sections 76, 78 and 83,
+
+section 88 and Schedule 10,
+
+section 90B,
+
+section 91 except subsection (2K),
+
+section 93 and Schedule 11,
+
+sections 154, 157, 158(2), 168, 171(4) and (5), and Schedule 19 except, in all cases, in respect of any functions relating to matters concerning the construction or enlargement of reservoirs,
+
+section 161A(12),
+
+section 161C (except the power to make regulations , but not including section 161C as applied by section 25B.).
+
+The Treasury consent requirement under paragraph 7 of Schedule 12 shall continue in effect.
+
+**Statutory Water Companies Act 1991 (c.58)**
+
+**Land Drainage Act 1991 (c.59)** except section 31, and except the functions of the Minister of Agriculture, Fisheries and Food under sections 1 to 7, 9, 10, 19, 33, 34, 38, 39, 47, 51, 52, 55, 57, 58, 61A, 61B, 61D, 62(1), 63, 66 and 69, and Schedules 1 and 2, paragraph 8 of Schedule 3 (so far as relating to matters concerning orders under sections 3 to 5) and Schedule 5.
+
+The Secretary of State consent requirements under section 35(3) shall continue in effect.
+
+In the case of any order proposed to be made under section 61E which relates only to Wales, the requirement to consult the Countryside Commission, the Nature Conservancy Council for England and the Historic Buildings and Monuments Commission for England shall not have effect.
+
+**Water Consolidation (Consequential Provisions) Act 1991 (c.60)**
+
+**Dangerous Dogs Act 1991 (c.65)** except section 1.
+
+**Further and Higher Education Act 1992 (c.13)** except sections 1(7), 62(8) and paragraph 7(6) and (7) of Schedule 1.
+
+The Treasury approval requirement under paragraph 5(4) of Schedule 1 and the Treasury consent requirement under paragraph 7(4) of that Schedule shall continue in effect so far as they relate to pensions.
+
+The Treasury approval requirements under paragraph 16(2) of Schedule 1 shall continue in effect and reference to the Assembly shall be substituted for the reference therein to Parliament.
+
+The functions of the Comptroller and Auditor General in paragraph 16 of Schedule 1 are, in relation to statements of accounts of the Further Education Funding Council for Wales and the Higher Education Funding Council for Wales for financial years beginning in and after 1999, transferred to the Auditor General for Wales and in relation thereto paragraph 16(3) shall have effect so that for the requirement to lay before each House of Parliament the documents referred to therein, there shall be substituted a requirement for the Auditor General for Wales to lay those documents before the Assembly.
+
+**Local Government Finance Act 1992 (c.14)** except section 13(9), paragraph 5(1) of Schedule 3 and paragraph 6 of Schedule 4.
+
+The power to make regulations under section 1(3) is transferred to the Assembly except as regards a dwelling part only of which falls within the area of a Welsh billing authority.
+
+It is directed that the functions under paragraphs 14 and 15 of Schedule 2 shall be exercisable by the Assembly concurrently with the Secretary of State.
+
+The functions of the Secretary of State under Chapter V of Part I shall be transferred only in respect of financial years beginning in and after 2000. Notwithstanding section 45(3) of the Government of Wales Act 1998, any reference to the approval of a report by the House of Commons shall be construed as a reference to the publication of the report by the Assembly.
+
+**Local Government Act 1992 (c.19)**
+
+**Tourism (Overseas Promotion) (Wales) Act 1992 (c.26)** subject to the modification that the requirement in section 1(2) for consultation with the British Tourist Authority shall cease to have effect.
+
+**Sea Fisheries (Wildlife Conservation) Act 1992 (c.36)**
+
+**Transport and Works Act 1992 (c.42)** except—
+
+- (a) the order-making function under sections 1 and 3 where any order made thereunder would have effect both in Wales and England;
+- (b) section 25(4), Part II and section 60;
+- (c) the order, rule and regulation-making powers conferred by sections 2, 4, 6(2) to (6), 7(1)(a) and (4), 8, 10 and 15; and
+- (d) the functions vested in a “Minister of the Crown" under section 9(4) and (5).
+
+It is directed that the functions of “the Secretary of State" under section 9 shall be exercisable by the Assembly concurrently with the Secretary of State.
+
+Orders made by the Assembly shall be subject to special parliamentary procedure to such extent as is provided for by the references under section 12, to section 18 of, and paragraph 5 of Schedule 3 to, the Acquisition of Land Act 1981.
+
+Section 23(10) shall have effect as if the references to the Welsh Office were references to the Assembly and in relation thereto the reference to the Parliamentary Commissioner Act 1967 (c.13) shall have effect as if it were a reference to Schedule 9 to the Government of Wales Act 1998.
+
+**Museums and Galleries Act 1992 (c.44)** sections 6(6) and 9 so far as they relate to the Court of Governors of the National Library of Wales and the Council of the National Museum of Wales.
+
+The Treasury consent requirement under section 9(5) shall continue in effect.
+
+The functions of the Comptroller and Auditor General in section 9(7) and (8) are, in relation to statements of account prepared by the above-named bodies for financial years beginning in and after 1999, transferred to the Auditor General for Wales and in relation thereto section 9(8) shall have effect so that for the requirement to lay before Parliament the documents referred to therein, there shall be substituted a requirement for the Auditor General for Wales to lay those documents before the Assembly.
+
+**Protection of Badgers Act 1992 (c.51)**
+
+**Clean Air Act 1993 (c.11)** except sections 30 to 32, 36(6) and 48.
+
+It is directed that the function under section 46(1) shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom it is exercisable.
+
+**Radioactive Substances Act 1993 (c.12)** except sections 1(5), 8(6), 11(1), 15 and 25.
+
+It is directed that the functions of the Secretary of State under sections 25 and 39 shall be exercisable by the Assembly concurrently with the Secretary of State.
+
+**Leasehold Reform, Housing and Urban Development Act 1993 (c.28)**
+
+**Agriculture Act 1993 (c.37)** except the functions of the Minister of Agriculture, Fisheries and Food.
+
+**Welsh Language Act 1993 (c.38)** except any function of the Treasury.
+
+It is directed that the functions under sections 25 and 26 shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom they are exercisable.
+
+The Treasury approval requirement under paragraph 12(2) of Schedule 1 shall continue in effect.
+
+The functions of the Comptroller and Auditor General in paragraph 12(3) and (4) of Schedule 1 are transferred to the Auditor General for Wales in relation to accounting years beginning in and after 1999 and in relation thereto paragraph 12(4) shall have effect so that for the requirement to lay before each House of Parliament the documents referred to therein, there shall be substituted a requirement for the Auditor General for Wales to lay those documents before the Assembly.
+
+Paragraph 6(3) of Schedule 1 shall have effect only to allow attendance at meetings of the Board of a person appointed by the Assembly.
+
+**National Lottery etc. Act 1993 (c.39)** in respect of—
+
+- (a) sections 25C (except subsection (3)(b)), 26(1) and (5) and 27 so far as they relate to the Arts Council of Wales and the Sports Council for Wales;
+- (b) section 43B(1) so far as it relates to initiatives of the New Opportunities Fund that apply only in respect to Wales or any part of Wales and section 43C(4) and (5) so far as it relates thereto;
+- (c) paragraphs 2(1) and (2) and 7(1) and (2) of Schedule 3A so far as they relate to a joint scheme in which the only participating bodies are the Arts Council of Wales and the Sports Council for Wales.
+
+It is directed that the functions under the following provisions shall be exercisable by the Assembly concurrently with the Secretary of State—
+
+- (a) section 26(1) so far as it relates to the National Lottery Charities Board and the New Opportunities Fund but excluding any power to give a direction to such bodies as to the allocation of resources to Wales (or any part of Wales) or between Wales (or any part of Wales) and any other part of the United Kingdom or as to conditions that apply to the whole of the United Kingdom;
+- (b) section 26(2) but excluding any power to give a direction to the National Heritage Memorial Fund as to the allocation of resources to Wales (or any part of Wales) or between Wales (or any part of Wales) and any other part of the United Kingdom or as to conditions that apply to the whole of the United Kingdom;
+- (c) section 26(5) so far as it relates to the concurrently exercisable functions specified in paragraphs (a) and (b) above;
+- (d) section 43C(1) but excluding any power of direction as to the allocation of resources to Wales (or any part of Wales) or between Wales (or any part of Wales) and any other part of the United Kingdom or as to conditions that apply to the whole of the United Kingdom;
+- (e) section 43C(2) so far as it relates to the concurrently exercisable function specified in the preceding paragraph (d).
+
+The requirements in the following provisions for documents to be laid before Parliament shall have effect so as to require those documents additionally to be laid before the Assembly—
+
+- (a) sections 14(3) and 34(3) so far as they require the Secretary of State to lay before Parliament copies of reports by or relating to the Arts Council of Wales, the Sports Council for Wales, the National Lotteries Charities Board, the National Heritage Memorial Fund and the New Opportunities Fund;
+- (b) section 35(5) so far as it requires the Comptroller and Auditor General to lay before Parliament copies of the statement of accounts of the Arts Council of Wales and the Sports Council for Wales and of his reports thereon;
+- (c) section 25C(6)(b) so far as it requires the Secretary of State to lay before Parliament a copy of the document containing the strategic plan of the National Lottery Charities Board, the National Heritage Memorial Fund or the New Opportunities Fund.
+
+The requirement under section 25C(3)(a) that a strategic plan of a distributing body must contain a statement of any direction given to that body by the Secretary of State under section 26(1) or 43C(1) shall, in relation to such plan of the Arts Council of Wales, the Sports Council for Wales, the National Lotteries Charity Board and the New Opportunities Fund, have effect so that any such strategic plan must also include a statement of any such direction given by the Assembly and section 25C(4) shall be construed accordingly.
+
+Section 60(6) of the 1993 Act shall have effect as if the reference to the Secretary of State included a reference to the Assembly.
+
+**Noise and Statutory Nuisance Act 1993 (c.40)**
+
+**Cardiff Bay Barrage Act 1993 (c.42)** except paragraphs 2(2), 7, 8(1) and 9 of Schedule 2 and paragraphs 2, 3 and 7 of Schedule 6.
+
+**Railways Act 1993 (c.43)** sections 139 and 140.
+
+**Local Government (Wales) Act 1994 (c.19)** sections 17, 25, 38, 54(6), 57(7), 58, 60(4) and Part III of Schedule 5.
+
+**Coal Industry Act 1994 (c.21)** sections 53 and 54.
+
+**Education Act 1994 (c.30)** except—
+
+- (a) sections 2, 3(2), 17 and Schedule 1; and
+- (b) functions relating to the Teacher Training Agency other than so far as functions are conferred by section 1(3).
+
+**Criminal Justice and Public Order Act 1994 (c.33)** section 80.
+
+**Home Energy Conservation Act 1995 (c.10)**
+
+**Carers (Recognition and Services) Act 1995 (c.12)**
+
+**Activity Centres (Young Persons’ Safety) Act 1995 (c.15)**
+
+**Health Authorities Act 1995 (c.17)**
+
+**Environment Act 1995 (c.25)** except—
+
+- (a) section 1(2)(a) and (3);
+- (b) section 41 and section 42 other than subsection (10);
+- (c) sections 45(4), 48(5) and 52(3);
+- (d) the function of laying copy accounts and reports before each House of Parliament under section 46(3);
+- (e) the function of the Treasury under section 49(5).
+- (f)[^key-2943b96d0d0793c9cba699e4f5c1848c] functions exercisable by the Secretary of State in pursuance of sub-paragraph (bb) of the definition of “the relevant Minister” in paragraph 1(5) of Schedule 4;
+- (g) the function of the Secretary of State under section 16A(5)(a);
+
+Functions under the following provisions are transferred not in relation to Wales but in the manner indicated, and article 2(c) of this Order shall not have effect in relation thereto—
+
+- (a) the function under section 1(2)(b) is transferred to the Assembly to the extent that it may make such appointments as will ensure that there is at all times one member of the Agency appointed by it, and under Schedule 1 only functions vested in “the appropriate Minister" are transferred to the Assembly, and only to the extent that such functions relate to any member appointed by the Assembly;
+- (b) functions under section 12 and Schedule 3 are transferred to the Assembly in relation to such region as is determined under section 12(6) and the committee which is established for that region;
+- (c) functions under section 13 are transferred to the Assembly in relation to such region as is determined under subsection (5) and the committee which is established for that region and such local advisory committees, and their respective areas of responsibility, as are established within that region;
+- (d) the functions under sections 15 and 16 which are transferred to the Assembly are only the functions of the Secretary of State but those functions are transferred to the full extent that they are exercisable by the Secretary of State;
+- (e) functions under sections 17 and 18 are transferred to the Assembly in relation to the regional flood defence committee for an area the whole or the greater part of which is in Wales;
+- (ea)[^key-e0585716bb00a573486993c17cab51ba] functions under section 18A are transferred to the Assembly in relation to the local flood defence scheme for a district which is in the area of a regional flood defence committee the whole or the greater part of which is in Wales;
+- (f) the functions under Schedule 4 which are transferred to the Assembly are only the functions of the Secretary of State except that there are also transferred to the Assembly functions exercisable by the Minister of Agriculture, Fisheries and Food in pursuance of sub-paragraph (a) of the definition of “the relevant Minister" in paragraph 1(5) in relation to the alteration of the boundaries of an area the whole of which is in Wales;
+- (g) functions under Schedule 5 are transferred to the Assembly in relation to any regional flood defence committee for an area wholly or mainly in Wales and in relation to any local flood defence committee for a district within the area of that regional flood defence committee.
+
+[^key-bb7bbd5db8d542efa20b34ffff3e378a]...
+
+It is directed that the functions under sections [^key-d7decbf7f3cd5ec42693359749ae07a0]... 113 and 115(5) shall be exercisable by the Assembly concurrently with any other Minister of the Crown by whom they are exercisable. [^key-dfd866183bfc0b9f580bb5e924a03010]....
+
+[^key-54e8712cfa39529a9d43e1f143572d02]...
+
+**Gas Act 1995 (c.45)** paragraph 12 of Schedule 5.
+
+**Town and Country Planning (Costs of Inquiries etc.) Act 1995 (c.49)**
+
+**National Health Service (Residual Liabilities) Act 1996 (c.15)**
+
+**Dogs (Fouling of Land) Act 1996 (c.20)**
+
+**Community Care (Direct Payments) Act 1996 (c.30)**
+
+**Noise Act 1996 (c.37)**
+
+**Party Wall etc. Act 1996 (c.40)**
+
+**Asylum and Immigration Act 1996 (c.49)** section 9.
+
+**Nursery Education and Grant-maintained Schools Act 1996 (c.50)**
+
+**Housing Act 1996 (c.52)** except Part IV and sections 186, 187 and 221(5).
+
+It is directed that the functions under section 185 shall be exercisable by the Assembly concurrently with the Secretary of State. Article 3 of this Order shall not have effect in relation to regulations made under this provision.
+
+**Housing Grants, Construction and Regeneration Act 1996 (c.53)**
+
+**Education Act 1996 (c.56)** except—
+
+- (a) sections 333(5) and (6), 334(2), 335 and 336;
+- (b) the regulation-making functions under sections 492 to 494;
+- (c) sections 492(5), 494(4) and 495 so far as they relate to a dispute to which only one party is in Wales; and
+- (d) paragraph 5 of Schedule 34.
+
+**School Inspections Act 1996 (c.57)** except section 4(4) and paragraphs 1, 2(3) and 3 of Schedule 1.
+
+Section 5(6) shall have effect as if the reference to “government policy" was a reference to policy adopted or formulated by the Assembly.
+
+In paragraphs 1 and 2(3) of Schedule 1, the references to the Treasury shall have effect as references to the Assembly.
+
+The Treasury approval requirement under paragraph 4(3) of Schedule 5 shall continue in effect so far as it relates to pensions.
+
+**Nurses, Midwives and Health Visitors Act[^key-fdd192e1033b68639a026cc60662735b] [1997 (c. 24)](https://www.legislation.gov.uk/ukpga/1997/24)** sections 5, 6(1)(e) and 17 so far as they relate to the Welsh National Board for Nursing, Midwifery and Health Visiting (“the Board”).
+
+The functions under section 18 are transferred (so far as they relate to the Board) in relation to financial years beginning in and after 1999 except that in respect of section 18(6) they are transferred in relation to annual reports of the Board for years commencing on 1st April 1999 and after
+
+The Treasury consent requirement under section 5(5), so far as it relates to pensions, and the Treasury approval requirement under section 18(1)(b), shall continue in effect.
+
+The functions of the Comptroller and Auditor General in section 18(2), (4), (5) and (7) are, in relation to statements of account prepared by the Board for financial years beginning in and after 1999, transferred to the Auditor General for Wales.
+
+**Education Act 1997 (c.44)** except sections 21, 26, Schedule 4 and paragraph 10(2) of Schedule 5.
+
+The functions of the Secretary of State under section 36 are transferred so far as relating to the Qualifications, Curriculum and Assessment Authority for Wales.
+
+The Treasury approval requirement under paragraph 17(2) of Schedule 5 shall continue in effect.
+
+The functions of the Comptroller and Auditor General in paragraph 17 of Schedule 5 are, in relation to statements of accounts for financial years beginning in and after 1999, transferred to the Auditor General for Wales and in relation thereto paragraph 17(3) shall have effect so that for the requirement to lay before each House of Parliament the documents referred to therein, there shall be substituted a requirement for the Auditor General for Wales to lay those documents before the Assembly.
+
+**National Health Service (Primary Care) Act 1997 (c.46)**
+
+**Road Traffic Reduction Act 1997 (c.54)**
+
+**National Health Service (Private Finance) Act 1997 (c.56)**
+
+**Education (Schools) Act 1997 (c.59)**
+
+**Local Government (Contracts) Act 1997 (c.65)**
+
+**Plant Varieties Act 1997 (c.66)** except the functions of “the Ministers" so far as exercisable by a Minister of the Crown other than the Secretary of State for Wales under sections 2, 11, 18, 27 to 29, Schedule 1 and paragraphs 7, 14 and 15 of Schedule 3.
+
+**Audit Commission Act 1998 (c.18)** except sections 1, 4, 38, 39, 40(2), 50 and paragraphs 4 to 14 of Schedule 1.
+
+It is directed that the functions of the Secretary of State under section 29(1) shall be exercisable by the Assembly concurrently with the Secretary of State.
+
+Section 32(1) and (2) shall, in relation to a police authority established for a police area in Wales, have effect as if the references to “the Secretary of State" included reference to the Assembly.
+
+The function of the Comptroller and Auditor General under section 33(5) and (6)(c) shall, in relation to a health service body in Wales specified in Part II of Schedule 17 to the Government of Wales Act 1998, be exercisable also by the Auditor General for Wales.
+
+Section 34(2) to (6) shall, in relation to reports prepared under section 34(1) on the provision of services in Wales or the financial management of a body exercising functions in Wales, have effect as if references to the Comptroller and Auditor General included a reference to the Auditor General for Wales but so that the provision under section 34(5) for laying a report before the House of Commons were, in relation to the Auditor General for Wales, a provision for laying a report before the Assembly.
+
+Section 49(1)(c) shall have effect as if the reference to “the Secretary of State" included a reference to the Assembly and as if the reference to “the Comptroller and Auditor General" included a reference to the Auditor General for Wales.
+
+Paragraphs 11(4) and 14(2) of Schedule 1, so far as they provide for the laying of documents before Parliament, shall have effect as if they also provided for the laying of such documents before the Assembly.
+
+**Road Traffic Reduction (National Targets) Act 1998 (c.24)**
+
+**[^key-62f70b129b16f4736eec4c989534be4a]...**
+
+**Teaching and Higher Education Act 1998 (c.30)** in respect of the functions under—
+
+- (a) Part I;
+- (b) section 25 so far as it relates to the power to make discretionary awards under the Education Act 1962 (c.12);
+- (c) section 26;
+- (d) section 28(1)(e) so far as it relates to sections 22 and 26; and
+- (e) Part IV.
+
+**School Standards and Framework Act 1998 (c.31)** except sections 81, 136, 137 and 144.
+
+**Government of Wales Act 1998 (c.38)** sections 3(4), 36(5) and paragraph 17(9) of Schedule 9, together with Part VII so far as relating thereto.
+
+**National Minimum Wage Act 1998 (c.39)** in respect of—
+
+- (a) the function of the “relevant authority" under section 16 so far as exercisable by the Secretary of State for Wales; and
+- (b) the function of the Secretary of State under section 47.
+
+**In the Health Act 1999—[^key-2ce462a603aa5052b6db2e704f4cf93d]**
+
+- (a)[^key-fcd7b3e3cf92f1dbd5c3c29fdeead299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) section 63, so far as it relates to any of the provisions which, by virtue of section 66(2), may be brought into force by the Assembly
+
+### Local and Private Acts
+
+**National Trust Act 1937 (c.lvii)** sections 7 and 12.
+
+**Towyn Trewan Common Act 1950 (c.xli)** except sections 4(2) and 5(3)(b).
+
+**Pembrokeshire County Council Act 1965 (c.xxxvi)** except sections 28, 32 to 34, 71 and 72.
+
+**National Trust Act 1971 (c.vi)** except section 22.
+
+**Anglesey Marine Terminal Act 1972 (c.li)** except sections 19, 20(6), 32, 47(1), 55, 57, 58 and 60.
+
+It is directed that the power under section 64(1) for a Minister of the Crown to hold inquiries shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom it is exercisable.
+
+**Glamorgan County Council Act 1973 (c.i)** It is directed that the power under section 163 for a Minister of the Crown to hold inquiries shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom it is exercisable.
+
+**Coity Wallia Commons Act 1976( c.xxix)**
+
+**Clwyd County Council Act 1985 (c.xliv)**
+
+**Mid Glamorgan County Council Act 1987 (c.vii)** It is directed that the power under section 45 for a Minister of the Crown to hold inquiries shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom it is exercisable.
+
+**West Glamorgan Act 1987 (c.viii)** It is directed that the power under section 75 for a Minister of the Crown to hold inquiries shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom it is exercisable.
+
+**Dyfed Act 1987 (c.xxiv)** except sections 48 and 52.
+
+It is directed that the power under section 68 for a Minister of the Crown to hold inquiries shall be exercisable by the Assembly concurrently with any Minister of the Crown by whom it is exercisable.
+
+### Statutory Instruments
+
+**The Intervention Functions (Delegation) Regulations 1972 (S.I. 1972/ 1679)[^c16517601]**
+
+**The Tourism (Sleeping Accommodation Price Display) Order 1977 (S.I. 1977/1877)** Article 7.
+
+**The Agricultural Land Tribunals (Rules) Order 1978 (S.I. 1978/259)** Rule 21 of Schedule 1.
+
+**The Agriculture and Horticulture Development Regulations 1980 (S.I. 1980/ 1298)[^c16517611]**
+
+**The Farm and Horticulture Development Regulations 1981 (S.I. 1981/ 1707)** [^c16517621] except the function of the Minister of Agriculture, Fisheries and Food under regulation 4.
+
+**The Building (Approved Inspectors etc.) Regulations 1985 (S.I. 1985/ 1066)** [^c16517631] Regulation 19.
+
+**The Agriculture Improvement Regulations 1985 (S.I. 1985/1266)[^c16517641]**
+
+**The Horticultural Development Council Order 1986 (S.I. 1986/ 1110)** [^c16517651] in respect of the functions exercisable by the Secretary of State.
+
+**The Ionising Radiation (Protection of Persons Undergoing Medical Examination or Treatment) Regulations 1988 (S.I. 1988/778)** Regulation 11(2) so far as it applies to regulation 4.
+
+**The Town and Country Planning (Assessment of Environmental Effects) Regulations 1988 (S.I. 1988/1199)[^c16517661]**
+
+**The Land Drainage Improvement Works (Assessment of Environmental Effects) Regulations 1988 (S.I. 1988/1217)[^c16517671]**
+
+**The Farm and Conservation Grant Regulations 1989 (S.I. 1989/ 219)[^c16517681]**
+
+**The Air Quality Standards Regulations 1989 (S.I. 1989/317)[^c16517691]**
+
+**The Clinical Standards Advisory Group Regulations 1991 (S.I. 1991/578)** in respect of the functions of “the Health Ministers" so far as exercisable by the Secretary of State for Wales.
+
+**The Farm and Conservation Grant Regulations 1991 (S.I. 1991/ 1630)[^c16517701]**
+
+**The Sheep Annual Premium Regulations 1992 (S.I. 1992/2677)[^c16517711]**
+
+**The Environmental Information Regulations 1992 (S.I. 1992/3240)**
+
+**The Integrated Administration and Control System Regulations 1993 (S.I. 1993/1317)[^c16517721]**
+
+**The Suckler Cow Premium Regulations 1993 (S.I. 1993/1441)[^c16517731]**
+
+**The Ozone Monitoring and Information Regulations 1994 (S.I. 1994/440)**
+
+**The Waste Management Licensing Regulations 1994 (S.I. 1994/ 1056)[^c16517741]**
+
+**The Traffic Signs Regulations and General Directions 1994 (S.I. 1994/ 1519)** Direction 49.
+
+**The Organic Farming (Aid) Regulations 1994 (S.I. 1994/1721)[^c16517751]**
+
+**The Countryside Access Regulations 1994 (S.I. 1994/2349)[^c16517761]**
+
+**The Conservation (Natural Habitats, &c.) Regulations 1994 (S.I. 1994/ 2716)** [^c16517771] except the functions of the Secretary of State under regulations 71 to 78.
+
+**The Hill Livestock (Compensatory Allowances) Regulations 1994 (S.I. 1994/ 2740)[^c16517781]**
+
+**The Habitat (Broadleaved Woodland) (Wales) Regulations 1994 (S.I. 1994/ 3099)[^c16517791]**
+
+**The Habitat (Water Fringe) (Wales) Regulations 1994 (S.I. 1994/ 3100)[^c16517801]**
+
+**The Habitat (Coastal Belt) (Wales) Regulations 1994 (S.I. 1994/ 3101)[^c16517811]**
+
+**The Habitat (Species-Rich Grassland) (Wales) Regulations 1994 (S.I. 1994/ 3102)[^c16517821]**
+
+**The Bovine Animals (Records, Identification and Movement) Order 1995 (S.I. 1995/12)[^c16517831]**
+
+**The Milk Development Council Order 1995 (S.I. 1995/356)** in respect of the functions exercisable by the Secretary of State for Wales.
+
+**The Agricultural Processing and Marketing Grant Regulations 1995 (S.I. 1995/362)**
+
+**The Town and Country Planning (Environmental Assessment and Permitted Development) Regulations 1995 (S.I. 1995/417)**
+
+**The Welfare of Animals (Slaughter or Killing) Regulations 1995 (S.I. 1995/731)** in respect of—
+
+- (a) the functions of “the Minister"; and
+- (b) the functions of “the Ministers" so far as exercisable by the Secretary of State for Wales.
+
+**The Moorland (Livestock Extensification) (Wales) Regulations 1995 (S.I. 1995/1159)[^c16517841]**
+
+**The Eggs (Marketing Standards) Regulations 1995 (S.I. 1995/ 1544)[^c16517851]**
+
+**The Town and Country Planning (Environmenal Assessment and Unauthorised Development) Regulations 1995 (S.I. 1995/2258)[^c16517861]**
+
+**The Rural Development Grants (Agriculture) (Wales) Regulations 1996 (S.I. 1996/529)[^c16517871]**
+
+**The Common Agricultural Policy (Wine) Regulations 1996 (S.I. 1996/ 696)** [^c16517881] except the function of the Minister of Agriculture, Fisheries and Food under regulation 3(2).
+
+**The Protection of Water Against Agricultural Nitrate Pollution (England and Wales) Regulations 1996 (S.I. 1996/888)** [^c16517891] except the functions of the Minister of Agriculture, Fisheries and Food.
+
+**The Special Waste Regulations 1996 (S.I. 1996/972)[^c16517901]**
+
+**The Welfare Food Regulations 1996 (S.I. 1996/1434)** [^c16517911] except regulations 6, 8, 12, 13(4) and 15.
+
+**The Hill Livestock (Compensatory Allowances) Regulations 1996 (S.I. 1996/ 1500)[^c16517921]**
+
+**The Arable Area Payments Regulations 1996 (S.I. 1996/3142)[^c16517931]**
+
+**The Potato Industry Development Council Order 1997 (S.I. 1997/266)** in respect of the functions exercisable by the Secretary of State for Wales.
+
+**The Dairy Produce Quotas Regulations 1997 (S.I. 1997/733)** in respect of the functions exercisable by the Secretary of State for Wales.
+
+**The Sheep Annual Premium and Suckler Cow Premium Quotas Regulations 1997 (S.I. 1997/2644)**
+
+**The Cattle Identification Regulations 1998 (S.I. 1998/871)** except the functions of the Minister of Agriculture, Fisheries and Food.
+
+**The Action Programme for Nitrate Vulnerable Zones (England and Wales) Regulations 1998 (S.I. 1998/1202)**
+
+**The Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999 (S.I. 1999/293)**
+
+## SCHEDULE 2 — Enactments Subject to Constraint on Ministerial Exercise
+
+Article 5
+
+#### Copyright Act 1911 c.46
+
+[^key-43f07a48d520b34bfe679f245c9475a0]...
+
+#### ...[^key-b7b6a57132aca8270be4a06c23ec7bf2]
+
+#### Sex Discrimination Act 1975 c.65
+
+The function of the Secretary of State under section 53(1) of making appointments to the Equal Opportunities Commission shall be exercisable only with the agreement of the Assembly so far as necessary to ensure that there is at all times one Commissioner who has been appointed with the agreement of the Assembly.
+
+#### Race Relations Act 1976 c.74
+
+The function of the Secretary of State under section 43(1) of making appointments to the Commission for Racial Equality shall be exercisable only with the agreement of the Assembly so far as necessary to ensure that there is at all times one Commissioner who has been appointed with the agreement of the Assembly.
+
+#### Local Government, Planning and Land Act 1980 c.65
+
+The function of the Secretary of State under paragraph 8(1) of Schedule 31 shall be exercisable only with the agreement of the Assembly.
+
+#### Industrial Development Act 1982 c.52
+
+The functions of the Secretary of State under section 8(5) and (7) shall be exercisable only after consultation with the Assembly.
+
+The functions of the Secretary of State under section 15, so far as a report required to be made under this section relates to functions of the Assembly under this Act, shall be exercisable only with the agreement of the Assembly.
+
+#### Mental Health Act 1983 c.20
+
+The function of the Lord Chancellor under paragraph 1(b) and (c) of Schedule 2 shall be exercisable only after consultation with the Assembly.
+
+#### Registered Homes Act 1984 c.23
+
+The functions of the Secretary of State under sections 43 and 45 shall be exercisable only with the agreement of the Assembly.
+
+The functions of the Secretary of State under section 44 shall be exercisable only after consultation with the Assembly.
+
+#### Road Traffic Regulation Act 1984 c.27
+
+The functions of “the Ministers" under section 81(2) shall be exercisable only after consultation with the Assembly.
+
+#### Food and Environment Protection Act 1985 c.48
+
+To the extent that functions exercisable under sections 8 and 10(1) relate to the abandonment of an “offshore installation" as defined in section 44 of the Petroleum Act 1988 (c.17), such functions shall be exercisable by a Minister of the Crown only after consultation with the Assembly.
+
+#### Environmental Protection Act 1990 c.43
+
+The function of the Secretary of State under paragraph 7(3) of Schedule 7 shall be exercisable only after consultation with the Assembly.
+
+#### Water Industry Act 1991 c 56[^key-bde4d7802e0e9cfa6baf895d43c3a9ca]
+
+The functions of the Secretary of State under sections 37A to 37D, 39B and 39C so far as relating to matters other than the construction or enlargement of reservoirs shall be exercisable only after consultation with the Assembly.
+
+#### Water Resources Act 1991 c.57
+
+The function of the Secretary of State under section 82 shall be exercisable only with the agreement of the Assembly.
+
+#### Further and Higher Education Act 1992 c.13
+
+The function of the Secretary of State under sections 1(7), 62(8) and 82 shall be exercisable only after consultation with the Assembly.
+
+#### Local Government Finance Act 1992 c.14
+
+The function of the Secretary of State under section 1(3) shall, as regards a dwelling part only of which falls within the area of a Welsh billing authority, be exercisable only with the agreement of the Assembly.
+
+#### Transport and Works Act 1992 c.42
+
+The order, rule and regulation-making functions of the Secretary of State under sections 1, 3, 6, 7(4), 8, 10 and 15 shall be exercisable only with the agreement of the Assembly.
+
+#### National Lottery etc. Act 1993 c.39
+
+The functions specified in paragraphs (a), (b) and (d) of the entry in relation to this Act in Schedule 1 which are to be exercisable by the Assembly concurrently with the Secretary of State, shall, to the extent that they are so exercisable by the Secretary of State, be exercisable by him only after consultation with the Assembly.
+
+The functions under the following provisions shall be exercisable by the Secretary of State only with the agreement of the Assembly—
+
+- (a) sections 26(3) and (3A), 29(1) and (3)(b) and 35(3) so far as they relate to the Arts Council of Wales and the Sports Council for Wales;
+- (b) paragraphs 2(1) and (2) and 7(1) and (2) of Schedule 3A so far as they relate to a joint scheme (other than one in which the only participating bodies are the Arts Council of Wales and the Sports Council for Wales) the area of which includes all or any part of Wales;
+- (c) paragraph 1(1) of Schedule 5 so far as necessary to ensure that there is at all times one member of the National Lottery Charities Board who has been appointed with agreement of the Assembly;
+- (d) paragraph 1 of Schedule 6A so far as it relates to the appointment, as a member of the New Opportunities Fund, of a person who appears to the Secretary of State to be suited to make the interests of Wales his special care.
+
+#### Education Act 1994 c.30
+
+The function of the Secretary of State under section 3(2) shall be exercisable only with the agreement of the Assembly.
+
+#### ...[^key-b7b6a57132aca8270be4a06c23ec7bf2]
+
+#### Education Act 1996 c.56
+
+The functions of the Secretary of State under sections 333(5) and (6), 334(2), 335 and 336 shall be exercisable only with the agreement of the Assembly.
+
+The regulation-making functions of the Secretary of State under sections 492 to 494 shall be exercisable only after consultation with the Assembly.
+
+The functions of the Secretary of State under sections 492(5), 494(4) and 495, so far as they relate to a dispute to which only one party is in Wales, shall be exercisable only after consultation with the Assembly.
+
+#### Nurses, Midwives and Health Visitors Act 1997 c.24
+
+The function of the Secretary of State under section 19(5), so far as it relates to rules affecting the Board together with one or more other Boards, shall be exercisable only after consultation with the Assembly.
+
+#### Petroleum Act 1998 c.17
+
+The functions of the Secretary of State under sections 32(1) and (2), 33(1), 34(1), and (7), 35(1), 37(1) and 39(1) shall be exercisable only after consultation with the Assembly.
+
+#### Audit Commission Act 1998 c.18
+
+The functions of the Secretary of State under section 1(2) and under paragraph 4(4) of Schedule 1 shall be exercisable only with the agreement of the Assembly so far as necessary to ensure that, at all material times, one of the persons appointed as a member of the Commission shall have been appointed with the agreement of the Assembly.
+
+The functions of the Secretary of State under section 1(3) and under paragraphs 7(1) and 11(1) of Schedule 1 shall be exercisable only after consultation with the Assembly.
+
+#### Health Act 1999 (c.8)[^key-561400eb56360730ab39b1d330310ec7]
+
+[^key-b73d6c20a07dc6b3698568433fb93edc]...
+
+[^key-b73d6c20a07dc6b3698568433fb93edc]...
+
+## SCHEDULE 3 — The Sea Adjacent to Wales
+
+Article 6
+
+*The Severn Estuary*
+
+<table>
+<tbody>
+<tr><th><em>Point No.</em></th><th colspan="4"><em>Latitude</em></th><th colspan="4"><em>Longitude</em></th></tr>
+<tr><td>1</td><td>51</td><td>34</td><td>09</td><td>N</td><td>02</td><td>42</td><td>33</td><td>W</td></tr>
+<tr><td>2</td><td>51</td><td>33</td><td>51</td><td>N</td><td>02</td><td>42</td><td>27</td><td>W</td></tr>
+<tr><td>3</td><td>51</td><td>32</td><td>30</td><td>N</td><td>02</td><td>42</td><td>52</td><td>W</td></tr>
+<tr><td>4</td><td>51</td><td>31</td><td>33</td><td>N</td><td>02</td><td>47</td><td>04</td><td>W</td></tr>
+<tr><td>5</td><td>51</td><td>27</td><td>19</td><td>N</td><td>02</td><td>59</td><td>28</td><td>W</td></tr>
+<tr><td>6</td><td>51</td><td>25</td><td>30</td><td>N</td><td>03</td><td>01</td><td>33</td><td>W</td></tr>
+<tr><td>7</td><td>51</td><td>21</td><td>29</td><td>N</td><td>03</td><td>06</td><td>13</td><td>W</td></tr>
+<tr><td>8</td><td>51</td><td>21</td><td>24</td><td>N</td><td>03</td><td>06</td><td>51</td><td>W</td></tr>
+<tr><td>9</td><td>51</td><td>20</td><td>58</td><td>N</td><td>03</td><td>11</td><td>02</td><td>W</td></tr>
+<tr><td>10</td><td>51</td><td>17</td><td>43</td><td>N</td><td>03</td><td>14</td><td>31</td><td>W</td></tr>
+<tr><td>11</td><td>51</td><td>17</td><td>09</td><td>N</td><td>03</td><td>18</td><td>18</td><td>W</td></tr>
+<tr><td>12</td><td>51</td><td>19</td><td>17</td><td>N</td><td>03</td><td>38</td><td>46</td><td>W</td></tr>
+<tr><td>13</td><td>51</td><td>23</td><td>49</td><td>N</td><td>03</td><td>57</td><td>30</td><td>W</td></tr>
+<tr><td>14</td><td>51</td><td>21</td><td>38</td><td>N</td><td>04</td><td>26</td><td>30</td><td>W</td></tr>
+<tr><td>15</td><td>51</td><td>24</td><td>16</td><td>N</td><td>04</td><td>37</td><td>03</td><td>W</td></tr>
+</tbody>
+</table>
+
+*The Dee Estuary*
+
+<table>
+<tbody>
+<tr><th><em>Point No.</em></th><th colspan="4"><em>Latitude</em></th><th colspan="4"><em>Longitude</em></th></tr>
+<tr><td>1</td><td>53</td><td>20</td><td>17</td><td>N</td><td>03</td><td>12</td><td>56</td><td>W</td></tr>
+<tr><td>2</td><td>53</td><td>20</td><td>20</td><td>N</td><td>03</td><td>13</td><td>23</td><td>W</td></tr>
+<tr><td>3</td><td>53</td><td>21</td><td>04</td><td>N</td><td>03</td><td>14</td><td>41</td><td>W</td></tr>
+<tr><td>4</td><td>53</td><td>24</td><td>13</td><td>N</td><td>03</td><td>17</td><td>44</td><td>W</td></tr>
+<tr><td>5</td><td>53</td><td>25</td><td>30</td><td>N</td><td>03</td><td>21</td><td>17</td><td>W</td></tr>
+<tr><td>6</td><td>53</td><td>27</td><td>07</td><td>N</td><td>03</td><td>24</td><td>30</td><td>W</td></tr>
+<tr><td>7</td><td>53</td><td>31</td><td>34</td><td>N</td><td>03</td><td>31</td><td>52</td><td>W</td></tr>
+<tr><td>8</td><td>53</td><td>33</td><td>18</td><td>N</td><td>03</td><td>34</td><td>09</td><td>W</td></tr>
+</tbody>
+</table>
+
+All positions Ordnance Survey of Great Britain 1936 datum.
+
+(This note is not part of the Order)
+
+Article 2 of, and Schedule 1 to, the Order provide for the exercise by the National Assembly for Wales of statutory functions currently vested in Ministers of the Crown. Except as mentioned below in relation to cross-border bodies and English border areas, all functions are vested in the Assembly for exercise in relation to Wales.
+
+The functions which become exercisable by the Assembly in pursuance of this Order are functions under the enactments listed in Schedule 1. Listing is as follows—
+
+Public Acts are listed first, followed by a shorter list of private and local Acts and a list of statutory instruments;
+
+all enactments are listed in chronological order;
+
+where the list contains just the title of the enactment, all Minister of the Crown functions under that enactment are transferred to the Assembly;
+
+where the list contains the title of the enactment followed immediately by a reference to sections etc it is only functions under those sections which are transferred;
+
+where the list contains the title of the enactment followed by excepted sections etc, all functions under the enactment are transferred apart from those under excepted provisions;
+
+the list of statutory instruments is confined to instruments under which functions would not automatically be transferred by article 3 (reference to functions under an enactment to include functions in subordinate legislation having effect thereunder).
+
+Further specific provision is included in Schedule 1, principally in the Public Act entries, to provide for matters including the following—
+
+functions to be exercisable by the Assembly concurrently with a Minister of the Crown instead of being transferred outright to the Assembly;
+
+Treasury agreement and consultation requirements to be continued in effect notwithstand ing paragraph 9(1) and (2) of Schedule 3 to the Government of Wales Act 1998 Act;
+
+Treasury agreement and consultation requirements to be dis-applied in cases of concurrent exercise, in pursuance of paragraph 9(3) of Schedule 3 to the Act;
+
+limited transfer of functions either by reference to the Ministers in whom they are vested or by reference to specific functional areas within a broader enabling power;
+
+continuation of certain existing statutory joint exercise requirements by transfer only of the function of one Minister in relation to functions which are expressly stated in the relevant enactment to be exercisable jointly by two or more Ministers;
+
+some functions of the Comptroller and Auditor General are transferred to, or made functions also of, the Auditor General for Wales, in pursuance of sections 96, 146 and 147;
+
+retention of special parliamentary procedure in pursuance of section 44(5);
+
+in respect of certain functions concerning water matters, provision is made in pursuance of paragraph 3 of Schedule 3 to the Act, for transfer not in relation to Wales but in relation to areas which do not comprise the whole of Wales but include an English border area;
+
+in respect of certain functions relating to a cross-border body, provision is made for the function to be transferred in relation to the body, in pursuance of paragraph 3 of Schedule 3 to the Act.
+
+Article 2(c) provides generally that functions exercisable in relation to a cross-border body which, by their nature are not functions which can be specifically exercised in relation to Wales, are to be exercisable by the Assembly in relation to that body rather than in relation to Wales and are to be exercisable concurrently with the Minister of the Crown by whom they are exercisable.
+
+Article 2(e) excludes from transfer any power under which provisions of an Act may be brought into force by order.
+
+Article 2(f) excludes from transfer any functions of the Lord Chancellor or the Attorney General.
+
+Article 3 provides that the vesting in the Assembly of functions exercisable under any enactment includes functions exercisable by virtue of subordinate legislation made thereunder.
+
+Article 4 provides that section 42 of the Act will not allow a function to be exercised by the Assembly on its own in cases where there is a statutory requirement for joint action which has been preserved by not transferring to the Assembly the function of all the Ministers who are required to act jointly.
+
+Article 5 provides, in pursuance of section 22(1)(c) of the Act, that functions of a Minister of the Crown under the enactments specified in Schedule 2 are to be exercisable in relation to Wales only with the agreement of, or after consultation with, the Assembly. In the particular case of the two enactments referred to in paragraph 4 of Schedule 3 to the Act provision is made, in accordance with that paragraph, for consultation with the Assembly not in respect of functions exercisable in relation to Wales but in respect of functions exercisable in relation to “Welsh controlled waters".
+
+Article 6 and Schedule 3 determine, in pursuance of section 155(2), the boundaries between those parts of the Severn and Dee Estuaries which are to be treated as adjacent to Wales for the purpose of the definition of Wales, and those which are not.
+
+Article 7 provides for the exclusion of specific property from transfer to the Assembly as would otherwise take place under the transfer provision in section 23.
+
+The map referred to in the definition of “the catchment areas of the rivers Dee, Wye and Severn" in article 1(3) may be inspected during normal working hours at the offices of the Environment Agency at Rivers House, St. Mellons Business Park, St. Mellons, Cardiff.
+
+## Annotations
+
+[^c16517551]: Marginal citation: [1998 c.38](https://www.legislation.gov.uk/ukpga/1998/38).
+
+[^key-28ca31316bae433575f89e4ddb62e1df]: Modification: [Order](https://www.legislation.gov.uk/uksi/1999/672) modified (1.4.2000) by [Food Standards Act 1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), [ss. 40(3)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/3), [43(2)](https://www.legislation.gov.uk/ukpga/1999/28/section/43/2); S.I. 2000/1066, [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
+
+[^key-6abb83b3dce5560c5b14c29309242a83]: Modification: [Order](https://www.legislation.gov.uk/uksi/1999/672) modified (1.1.2005) by [The Town and Country Planning (Electronic Communications) (Wales) (No. 1) Order 2004 (S.I. 2004/3156)](https://www.legislation.gov.uk/wsi/2004/3156), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2004/3156/article/1/1), [14](https://www.legislation.gov.uk/wsi/2004/3156/article/14)
+
+[^key-d633423af0df1de67ad27b5ff60446fa]: Modification: [Order](https://www.legislation.gov.uk/uksi/1999/672) modified (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 44(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/44/2), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
+
+[^c16517561]: Marginal citation: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46). In terms of article 2(1) of the [Scotland Act 1998 (Commencement) Order 1998 (S.I. 1998/3178)](https://www.legislation.gov.uk/uksi/1998/3178), [section 53](https://www.legislation.gov.uk/uksi/1998/3178/section/53) comes into force on 1st July 1999.
+
+[^c16517571]: Marginal citation: [S.I. 1965/319](https://www.legislation.gov.uk/uksi/1965/319).
+
+[^c16517581]: Marginal citation: [S.I. 1969/388](https://www.legislation.gov.uk/uksi/1969/388).
+
+[^c16517591]: Marginal citation: [S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272).
+
+[^key-aa51fd1ddbb225aa0a025d9edf8b84a5]: Modification: [Art. 6](https://www.legislation.gov.uk/uksi/1999/672/article/6) applied (4.6.2024) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 143(1)](https://www.legislation.gov.uk/asc/2024/3/section/143/1), [147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5))
+
+[^key-783a40a6b1aea118466204717a98ba5f]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) modified (11.5.2001) by [Health and Social Care Act 2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), [ss. 68(1)](https://www.legislation.gov.uk/ukpga/2001/15/section/68/1), [70(2)](https://www.legislation.gov.uk/ukpga/2001/15/section/70/2) (with [ss. 64(9)](https://www.legislation.gov.uk/ukpga/2001/15/section/64/9), [65(4)](https://www.legislation.gov.uk/ukpga/2001/15/section/65/4), [68(4)](https://www.legislation.gov.uk/ukpga/2001/15/section/68/4))
+
+[^key-6cb2a85d64f1206a8bd17612c5f8a38c]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) modified (1.7.2001) by [Carers and Disabled Children Act 2000 (c. 16)](https://www.legislation.gov.uk/ukpga/2000/16), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2000/16/section/7/2), [12(2)](https://www.legislation.gov.uk/ukpga/2000/16/section/12/2) (with [s. 7(3)](https://www.legislation.gov.uk/ukpga/2000/16/section/7/3)); [S.I. 2001/2196](https://www.legislation.gov.uk/uksi/2001/2196), [art. 2](https://www.legislation.gov.uk/uksi/2001/2196/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/2196/schedule)
+
+[^key-080ca0a7228f3701e9ea7b189203319d]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) modified (7.11.2002) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 145(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/145/1), [148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1) (with [s. 145(2)](https://www.legislation.gov.uk/ukpga/2002/38/section/145/2))
+
+[^key-ac502806b3016db2c150d667ca817b99]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) modified (28.3.2003) by [The Regulatory Reform (Housing Management Agreements) Order 2003 (S.I. 2003/940)](https://www.legislation.gov.uk/uksi/2003/940), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/940/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2003/940/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/940/article/3/2))
+
+[^key-8c2eece7acc4e042dfffcaa9b42818c8]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) modified (22.4.2003) by [The Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 (S.I. 2003/992)](https://www.legislation.gov.uk/wsi/2003/992), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2003/992/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/wsi/2003/992/regulation/4))
+
+[^key-43017151df54dba09339af4a6518b790]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) modified (20.11.2003) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [ss. 197(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/197/1), [199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4) (with [s. 197(2)](https://www.legislation.gov.uk/ukpga/2003/43/section/197/2))
+
+[^key-c6c789179d51e33b91f0977d8a90bfae]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) modified (17.3.2004 for specified purposes, 1.4.2004 for specified purposes, 28.5.2004 for specified purposes, 1.10.2004 for specified purposes, 1.4.2005 for specified purposes, 1.8.2005 for specified purposes, 1.10.2005 for specified purposes, 1.12.2005 for specified purposes, 1.4.2006 for specified purposes, 1.4.2007 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(6)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/6), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [arts. 2(b)(i)](https://www.legislation.gov.uk/uksi/2004/641/article/2/b/i), [3(iv)](https://www.legislation.gov.uk/uksi/2004/641/article/3/iv)[(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2004/641/article/4/c/ii) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(s)(v)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/s/v) (with [Sch. para. 7](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/7), [8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8)) (which transitional provisions in Sch. para. 7 are revoked (1.4.2005) by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 4](https://www.legislation.gov.uk/uksi/2005/968/article/4)); [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [arts. 2(l)(iii)](https://www.legislation.gov.uk/uksi/2005/968/article/2/l/iii), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2005/968/article/3/c/ii) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/968/schedule/2/paragraph/2)) (which transitional provisions in Sch. 2 para. 2 are revoked (1.10.2005) by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 5(2)(3)](https://www.legislation.gov.uk/uksi/2005/2714/article/5/2/3)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [arts. 2(k)(iii)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/k/iii), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/b/ii), [4(e)(ii)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/e/ii) (with [Sch. para. 7](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/7), [8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)) (which transitional provisions in Sch. para. 7 are revoked (1.4.2007) by [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 3(1)(b)(2)](https://www.legislation.gov.uk/uksi/2007/1021/article/3/1/b/2)); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(r)(iv)](https://www.legislation.gov.uk/uksi/2006/984/article/2/r/iv) (with [Sch. para. 9](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/9)) (as amended (1.4.2007) by [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 3](https://www.legislation.gov.uk/uksi/2007/1021/article/3)); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/c)
+
+[^key-e349427d58450a88140ecf591c5c1900]: Modification: Sch. 1 modified (31.3.2004) by [Anti Social Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 55(10)](https://www.legislation.gov.uk/ukpga/2003/38/section/55/10), [93(1)(2)](https://www.legislation.gov.uk/ukpga/2003/38/section/93/1/2); [S.I. 2004/690](https://www.legislation.gov.uk/uksi/2004/690), [art. 3(h)](https://www.legislation.gov.uk/uksi/2004/690/article/3/h); [S.I. 2004/999](https://www.legislation.gov.uk/uksi/2004/999), [art. 2(m)](https://www.legislation.gov.uk/uksi/2004/999/article/2/m)
+
+[^key-f41635a8c99786f49cac7136f7fe2158]: Modification: Sch. 1 modified (31.3.2004) by [Anti Social Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/2003/38/section/56/2), [93(1)(2)](https://www.legislation.gov.uk/ukpga/2003/38/section/93/1/2); [S.I. 2004/690](https://www.legislation.gov.uk/uksi/2004/690), [art. 3(i)](https://www.legislation.gov.uk/uksi/2004/690/article/3/i); [S.I. 2004/999](https://www.legislation.gov.uk/uksi/2004/999), [art. 2(n)](https://www.legislation.gov.uk/uksi/2004/999/article/2/n)
+
+[^key-24d32476723b3071b26c4d75f8785fb7]: Modification: Sch. 1 modified (31.3.2004) by [Anti Social Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 42(7)](https://www.legislation.gov.uk/ukpga/2003/38/section/42/7), [93(1)(2)](https://www.legislation.gov.uk/ukpga/2003/38/section/93/1/2); [S.I. 2004/690](https://www.legislation.gov.uk/uksi/2004/690), [art. 3(c)](https://www.legislation.gov.uk/uksi/2004/690/article/3/c); [S.I. 2004/999](https://www.legislation.gov.uk/uksi/2004/999), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/999/article/2/c)
+
+[^key-525c756acc36f343bf08255d5bb79cd8]: Modification: Sch. 1 modified (30.6.2004 for E., 30.9.2004 for W.) by [Anti Social Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 17](https://www.legislation.gov.uk/ukpga/2003/38/section/17), [93(1)(2)](https://www.legislation.gov.uk/ukpga/2003/38/section/93/1/2); [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 2(a)(vi)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/a/vi); [S.I. 2004/2557](https://www.legislation.gov.uk/uksi/2004/2557), [art. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2004/2557/article/2/a/iv)
+
+[^key-53853749851b85e6f8744b27962607d1]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) modified (22.7.2004) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [ss. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [62(4)](https://www.legislation.gov.uk/ukpga/2004/21/section/62/4)[(5)](https://www.legislation.gov.uk/ukpga/2004/21/section/62/5)
+
+[^key-4eb76c8a90ab78a6e1c82e6f8a330d7a]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) modified (2.8.2004) by [The Wildlife and Countryside Act 1981 (Amendment) (Wales) Regulations 2004 (S.I. 2004/1733)](https://www.legislation.gov.uk/wsi/2004/1733), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/1733/regulation/1/1), [3(2)](https://www.legislation.gov.uk/wsi/2004/1733/regulation/3/2)
+
+[^key-c517ab268bdd9f8c1389494bdb12cc89]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) modified (6.8.2004 for specified purposes, 28.9.2004 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 118(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/118/3)[(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/118/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(c)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/c)
+
+[^key-7cff48aa8f9062b8df2ccfb427b762db]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) modified (18.11.2004) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 267](https://www.legislation.gov.uk/ukpga/2004/34/section/267), [270(2)(a)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/2/a)
+
+[^key-ba34c6481ca101cd69829cb539bcf6c9]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) modified (1.4.2005) by [Public Audit (Wales) Act 2004 (c. 23)](https://www.legislation.gov.uk/ukpga/2004/23), [ss. 67](https://www.legislation.gov.uk/ukpga/2004/23/section/67), [73(1)](https://www.legislation.gov.uk/ukpga/2004/23/section/73/1); [S.I. 2005/558](https://www.legislation.gov.uk/wsi/2005/558), [art. 2](https://www.legislation.gov.uk/wsi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2005/558/schedule/1) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2005/558/schedule/2/paragraph/2))
+
+[^key-e27acd0313d91501c20815ebac25fa22]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) modified (1.4.2005) by [Health Protection Agency Act 2004 (c. 17)](https://www.legislation.gov.uk/ukpga/2004/17), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2004/17/section/11/3), [12(1)](https://www.legislation.gov.uk/ukpga/2004/17/section/12/1); [S.I. 2005/121](https://www.legislation.gov.uk/uksi/2005/121), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/121/article/2/2)
+
+[^key-db2b4f08e94eb1249a418c882e858f90]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) modified (7.6.2005) by [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [ss. 48(2)](https://www.legislation.gov.uk/ukpga/2005/12/section/48/2), [51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)
+
+[^key-ced9980ad31da50cb12b00091a9caf7a]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) modified (30.3.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 103](https://www.legislation.gov.uk/ukpga/2006/16/section/103), [107(8)](https://www.legislation.gov.uk/ukpga/2006/16/section/107/8)
+
+[^key-ca81176ac289b8289acc60a90c59bf8e]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) modified (1.4.2006) by [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [ss. 44(8)](https://www.legislation.gov.uk/ukpga/2004/31/section/44/8), [67(7)(a)](https://www.legislation.gov.uk/ukpga/2004/31/section/67/7/a); [S.I. 2006/885](https://www.legislation.gov.uk/wsi/2006/885), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2006/885/article/2/2/b)
+
+[^key-7d3f79d862e66827a13ea0d7dc11bb6b]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) modified (15.6.2006) by [The Eggs (Marketing Standards) (Amendment) (England and Wales) Regulations 2006 (S.I. 2006/1540)](https://www.legislation.gov.uk/uksi/2006/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1540/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2006/1540/regulation/3)
+
+[^key-be60e156783781a9dd83dadb346439f1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) revoked (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+
+[^key-68d234282c653a376313d6b19fce3dc1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (27.3.2009) by virtue of [The Aquatic Animal Health (England and Wales) Regulations 2009 (S.I. 2009/463)](https://www.legislation.gov.uk/uksi/2009/463), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/463/regulation/1/2/c), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2009/463/schedule/2/paragraph/13) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/463/regulation/2))
+
+[^key-e3b9fad76e5965e4ceb24d87beb3b186]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) entry revoked (26.3.2001) by [The Postal Services Act 2000 (Consequential Modifications No. 1) Order 2001 (S.I. 2001/1149)](https://www.legislation.gov.uk/uksi/2001/1149), [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1149/schedule/2) (with [art. 4(11)](https://www.legislation.gov.uk/uksi/2001/1149/article/4/11))
+
+[^key-e014a7795f8ac8ad02d53ae461d76beb]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 177(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/177/a) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+
+[^key-80fd2f84374622a2eb54d9d6b0306db9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 83(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/83/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-2fcb3945a420077f2b5b149ebde6a0e1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 83(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/83/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+
+[^key-05507c913cbb3c923a6cfb513d20245e]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (16.2.2000) by [The National Assembly for Wales (Transfer of Functions) Order 2000 (S.I. 2000/253)](https://www.legislation.gov.uk/uksi/2000/253), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/253/article/1/1), [Sch. 3(a)](https://www.legislation.gov.uk/uksi/2000/253/schedule/3/a)
+
+[^key-d6fc01a66522b0726ae1ef50bf329ab6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (16.2.2000) by virtue of [The National Assembly for Wales (Transfer of Functions) Order 2000 (S.I. 2000/253)](https://www.legislation.gov.uk/uksi/2000/253), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/253/article/1/1), [Sch. 3(a)](https://www.legislation.gov.uk/uksi/2000/253/schedule/3/a)
+
+[^key-64800132ef21dc1e7925a1461f932e9e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 177(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/177/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+
+[^key-4afbfa0001db0e7b73ec50e4453865ca]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (1.4.2010) by virtue of [The Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 (S.I. 2010/630)](https://www.legislation.gov.uk/uksi/2010/630), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2010/630/schedule/1/paragraph/4)
+
+[^key-e5212cad0fc792643dc60fd510484feb]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (23.11.2005) by virtue of [The Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/wsi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3225/article/1/1), [Sch. 2 Pt. 2 para. 3(a)](https://www.legislation.gov.uk/wsi/2005/3225/schedule/2/part/2/paragraph/3/a) (with [art. 3(1)](https://www.legislation.gov.uk/wsi/2005/3225/article/3/1))
+
+[^key-4b11e163da62ceb452407d8c786816b8]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (23.11.2005) by virtue of [The Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/wsi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3225/article/1/1), [Sch. 2 Pt. 2 para. 3(b)](https://www.legislation.gov.uk/wsi/2005/3225/schedule/2/part/2/paragraph/3/b) (with [art. 3(1)](https://www.legislation.gov.uk/wsi/2005/3225/article/3/1))
+
+[^key-bd7a4db596d367c256803433d9303ffa]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted in part (23.11.2005) by virtue of [The Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/uksi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3225/article/1/1), [Sch. 2 Pt. 2 para. 3(d)](https://www.legislation.gov.uk/uksi/2005/3225/schedule/2/part/2/paragraph/3/d) (with [art. 3(1)(5)](https://www.legislation.gov.uk/uksi/2005/3225/article/3/1/5))
+
+[^key-76d550423ee094ec3775430b1d3dc07a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (23.11.2005) by virtue of [The Wales Tourist Board (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3225)](https://www.legislation.gov.uk/wsi/2005/3225), [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3225/article/1/1), [Sch. 2 Pt. 2 para. 3(c)](https://www.legislation.gov.uk/wsi/2005/3225/schedule/2/part/2/paragraph/3/c) (with [art. 3(1)](https://www.legislation.gov.uk/wsi/2005/3225/article/3/1))
+
+[^key-ec4670340ec928f9d7976ee05e2e73b0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Poisons and Explosives Precursors) (Consequential Amendments, Revocations and Transitional Provisions) Order 2015 (S.I. 2015/968)](https://www.legislation.gov.uk/uksi/2015/968), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/968/article/1/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/968/schedule/paragraph/3)
+
+[^key-46904d8728f98b13dc1e1a8718bd5ed3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (31.3.2015) by virtue of [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 17(2)(a)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/17/2/a); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r)
+
+[^key-71c0c790fc98eee9205c3423c8b580da]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (31.3.2015) by virtue of [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 17(2)(b)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/17/2/b); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r)
+
+[^key-14910525ab987139b9f200eb78dd6f15]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(2)(r)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/r), [Sch. 10 para. 19](https://www.legislation.gov.uk/ukpga/2014/21/schedule/10/paragraph/19)
+
+[^key-a6143999b7e4b381cac832ebd46827e1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.10.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(s)(i)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/s/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+
+[^key-c336a2078dbc576e607199a8b23ed2b7]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (1.4.2006) by virtue of [The Welsh Development Agency (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3226)](https://www.legislation.gov.uk/wsi/2005/3226), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1), [2(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/2/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/wsi/2005/3226/schedule/2/part/1) (with [art. 3](https://www.legislation.gov.uk/wsi/2005/3226/article/3))
+
+[^key-f9c89f49f1576b249e24991da6a63401]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (7.11.2002) by virtue of [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 145(3)](https://www.legislation.gov.uk/ukpga/2002/38/section/145/3), [148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1) (with [s. 145(2)](https://www.legislation.gov.uk/ukpga/2002/38/section/145/2))
+
+[^key-fcd7b3e3cf92f1dbd5c3c29fdeead299]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) entries revoked (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4)
+
+[^key-211fc724e8d758abdd7368e29c11cb0e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 177(c)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/177/c) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+
+[^key-7599b27d1aacc9379668e8c92dd89062]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) substituted (16.2.2000) by [The National Assembly for Wales (Transfer of Functions) Order 2000 (S.I. 2000/253)](https://www.legislation.gov.uk/uksi/2000/253), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/253/article/1/1), [Sch. 3(b)](https://www.legislation.gov.uk/uksi/2000/253/schedule/3/b)
+
+[^key-ec94fd6a49eabe6b7a699bf55a9184eb]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) substituted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7), [Sch. 2 para. 26(a)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/2/paragraph/26/a)
+
+[^key-e50f7dbeadde3670415d72164becc459]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (31.12.2020) by virtue of [The National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/777)](https://www.legislation.gov.uk/uksi/2019/777), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/777/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2019/777/regulation/8) (with [reg. 15](https://www.legislation.gov.uk/uksi/2019/777/regulation/15), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/777/schedule/1)) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 10-12](https://www.legislation.gov.uk/uksi/2020/1348/regulation/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2e4298554560023bd765a1cca7bc2b0e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) substituted (16.2.2000) by [The National Assembly for Wales (Transfer of Functions) Order 2000 (S.I. 2000/253)](https://www.legislation.gov.uk/uksi/2000/253), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/253/article/1/1), [Sch. 3(c)](https://www.legislation.gov.uk/uksi/2000/253/schedule/3/c)
+
+[^key-c9158ef3366985597e031e1c4938c11c]: Textual amendment: W[arts. 1(1)](https://www.legislation.gov.uk/uksi/2000/1829/article/1/1)ords in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) substituted (1.8.2000) by [The National Assembly for Wales (Transfer of Functions) (Variation) Order 2000 (S.I. 2000/1829)](https://www.legislation.gov.uk/uksi/2000/1829), , [2](https://www.legislation.gov.uk/uksi/2000/1829/article/2)
+
+[^key-455f7924a07ee8748c32ac5b51dafba9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (23.5.2016) by virtue of [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7), [Sch. 2 para. 26(b)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/2/paragraph/26/b)
+
+[^key-f10cbd4191a8bd993bac848f5b43460e]: Textual amendment: Words in Sch. 1 revoked (27.11.2003 but only for the purpose of and in relation to financial years beginning on or after 1.4.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/2); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/3034/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/1)
+
+[^key-74350e4e61f7be7b1110c90195eddebb]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) substituted (16.2.2000) by [The National Assembly for Wales (Transfer of Functions) Order 2000 (S.I. 2000/253)](https://www.legislation.gov.uk/uksi/2000/253), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/253/article/1/1), [Sch. 3(d)](https://www.legislation.gov.uk/uksi/2000/253/schedule/3/d)
+
+[^key-18d659954c532b611d0f8a51e8a030fd]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 177(d)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/177/d) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+
+[^key-3813d55d5966e840c8a1e7c51dc156b0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.7.1999) by [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), [ss. 66(4)](https://www.legislation.gov.uk/ukpga/1999/8/section/66/4)[(5)(b)](https://www.legislation.gov.uk/ukpga/1999/8/section/66/5/b), [67(4)(a)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/4/a)
+
+[^key-b24926f1b7ad19cd4736b1355383a54e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107(8)](https://www.legislation.gov.uk/ukpga/2006/16/section/107/8), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
+
+[^key-fb48e8b7cbf8c2d5c57d12d50aea866f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) substituted (16.2.2000) by [The National Assembly for Wales (Transfer of Functions) Order 2000 (S.I. 2000/253)](https://www.legislation.gov.uk/uksi/2000/253), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/253/article/1/1), [Sch. 3(e)](https://www.legislation.gov.uk/uksi/2000/253/schedule/3/e)
+
+[^key-66c7661d250c2cb48252b41bafd1e239]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.4.2005 for specified purposes, 1.4.2006 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/a/i), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(l)(i)](https://www.legislation.gov.uk/uksi/2005/968/article/2/l/i); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(e)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/e/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+
+[^key-e4c655a14e973c22d8a1e820e5d67121]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) substituted (1.4.2004 for specified purposes, 1.10.2004 for specified purposes, 1.4.2005 for specified purposes, 1.8.2005 for specified purposes, 1.12.2005 for specified purposes, 1.4.2006 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/a/ii), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(i)](https://www.legislation.gov.uk/uksi/2004/641/article/3/i)[(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(s)(ii)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/s/ii) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8)); [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [arts. 2(l)(i)](https://www.legislation.gov.uk/uksi/2005/968/article/2/l/i), [3(c)(i)](https://www.legislation.gov.uk/uksi/2005/968/article/3/c/i); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [arts. 3(b)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/b/i), [4(e)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/e/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+
+[^key-09a63153b889bf12f5d24c39f64da348]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.8.2005 for specified purposes, 1.10.2005 for specified purposes, 1.4.2006 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(a)(iii)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/a/iii), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 3(c)(i)](https://www.legislation.gov.uk/uksi/2005/968/article/3/c/i); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [arts. 2(k)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/k/i), [4(e)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/e/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+
+[^key-195811ac1506691e087261fcf19d19a8]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.4.2004 for specified purposes, 1.10.2005 for specified purposes, 1.12.2005 for specified purposes, 1.4.2006 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(a)(iv)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/a/iv), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(i)](https://www.legislation.gov.uk/uksi/2004/641/article/3/i)[(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [arts. 2(k)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/k/i), [3(b)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/b/i), [4(e)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/e/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+
+[^key-4ee73ed413dcd081c351e189493fcaf9]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.10.2005 for specified purposes, 1.4.2006 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(a)(v)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/a/v), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [arts. 2(k)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/k/i), [4(e)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/e/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+
+[^key-4fd2ed91dc23f3ba172374b9082d2a37]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.10.2004 for specified purposes, 1.10.2005 for specified purposes, 1.4.2006 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(a)(vi)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/a/vi), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(s)(ii)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/s/ii) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [arts. 2(k)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/k/i), [4(e)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/e/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+
+[^key-86e94f9671a87685dc92a4cb985d0762]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.4.2005 for specified purposes, 1.4.2006 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(a)(vii)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/a/vii), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(l)(i)](https://www.legislation.gov.uk/uksi/2005/968/article/2/l/i); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(e)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/e/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+
+[^key-94fb0328fbdf284c18bc78d64094afa8]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.10.2005 for specified purposes, 1.4.2006 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(a)(viii)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/a/viii), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [arts. 2(k)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/k/i), [4(e)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/e/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+
+[^key-dd0ead89c4291a7fefbe45d6cd131cd2]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.4.2004 for specified purposes, 1.10.2004 for specified purposes, 1.4.2005 for specified purposes, 1.8.2005 for specified purposes, 1.10.2005 for specified purposes, 1.12.2005 for specified purposes, 1.4.2006 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(a)(ix)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/a/ix), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(i)](https://www.legislation.gov.uk/uksi/2004/641/article/3/i)[(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(s)(ii)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/s/ii) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8)); [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [arts. 2(l)(i)](https://www.legislation.gov.uk/uksi/2005/968/article/2/l/i), [3(c)(i)](https://www.legislation.gov.uk/uksi/2005/968/article/3/c/i); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [arts. 2(k)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/k/i), [3(b)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/b/i), [4(e)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/e/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+
+[^key-5a76a18e14cc1a4d51d28b0747d38962]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) revoked (1.4.2005 for specified purposes, 1.12.2005 for specified purposes, 1.4.2007 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/b/i), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(l)(i)(n)](https://www.legislation.gov.uk/uksi/2005/968/article/2/l/i/n); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(b)(i)(d)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/b/i/d) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/c)
+
+[^key-ac66934118a11179ed49350afcdc0ad9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) revoked (1.10.2004 for specified purposes, 1.12.2005 for specified purposes, 1.4.2007 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/b/ii), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(s)(ii)(u)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/s/ii/u) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(b)(i)(d)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/b/i/d) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/c)
+
+[^key-a9ea009d471bcc6f2cc54e8c78c96caf]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) substituted (28.5.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(b)(iii)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/b/iii), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(c)(i)](https://www.legislation.gov.uk/uksi/2004/641/article/4/c/i) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)) (Editorial note: see also [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(l)(i)(ii)](https://www.legislation.gov.uk/uksi/2005/968/article/2/l/i/ii) which also claims to commence s. 100(2)(b)(iii) on 1.4.2005 for specified purposes)
+
+[^key-862fb5eccf60943642128aa891f169da]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) revoked (1.4.2004 for specified purposes, 1.10.2004 for specified purposes, 1.12.2005 for specified purposes, 1.4.2007 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(b)(iv)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/b/iv), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(i)(z)](https://www.legislation.gov.uk/uksi/2004/641/article/3/i/z)[(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(s)(ii)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/s/ii) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(b)(i)(d)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/b/i/d) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/c)
+
+[^key-a9778dbc838816230b49c2de86fe2c13]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) revoked (1.10.2005 for specified purposes, 1.12.2005 for specified purposes, 1.4.2007 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(b)(v)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/b/v), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [arts. 2(k)(i)(m)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/k/i/m), [3(b)(i)(d)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/b/i/d) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/c)
+
+[^M_F_e216120b-f583-4a31-8c20-558d354e2885]: Textual amendment: Words in Sch. 1 substituted (1.4.2005 for specified purposes, 1.10.2005 for specified purposes) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(b)(vi)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/b/vi), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(l)(i)](https://www.legislation.gov.uk/uksi/2005/968/article/2/l/i); S.I. 2005/2714, art. 2(k)(i) (with Sch. para. 8)
+
+[^key-6a81dbfdf3c7178a1b0bc6fe2a4a1fcf]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.4.2007) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(b)(vii)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/b/vii), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/c)
+
+[^key-1d5d9e86fb35701644d92e86a7607bde]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (18.11.2004) by [The National Assembly for Wales (Transfer of Functions) Order 2004 (S.I. 2004/3044)](https://www.legislation.gov.uk/uksi/2004/3044), [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3044/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3044/schedule/2)
+
+[^key-4bcd4bc7f2d95ebdb72ab6e381b56c5a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) substituted (1.4.2004 for specified purposes, 1.12.2005 for specified purposes, 1.4.2007 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(b)(viii)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/b/viii), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(i)](https://www.legislation.gov.uk/uksi/2004/641/article/3/i)[(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/b/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/c)
+
+[^key-28fd27678057a40994cb29ef97ae80d1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) revoked (1.12.2005 for specified purposes, 1.4.2007 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(b)(ix)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/b/ix), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(b)(i)(d)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/b/i/d) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/c)
+
+[^key-aafed6fe33a14621d6c3b5a0e9a5492c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.4.2004 for specified purposes, 1.10.2004 for specified purposes, 1.4.2005 for specified purposes, 1.10.2005 for specified purposes, 1.12.2005 for specified purposes, 1.4.2007 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(b)(x)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/b/x), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(i)](https://www.legislation.gov.uk/uksi/2004/641/article/3/i)[(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(s)(ii)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/s/ii) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8)); [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(l)(i)](https://www.legislation.gov.uk/uksi/2005/968/article/2/l/i); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [arts. 2(k)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/k/i), [3(b)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/b/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/c)
+
+[^key-8cf6268f0074b55adb3731fe74413e0a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) revoked (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(c)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/c), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(r)(i)](https://www.legislation.gov.uk/uksi/2006/984/article/2/r/i)
+
+[^key-35ccfa298df9187140a21d493806f32e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.4.2004 for specified purposes, 1.10.2004 for specified purposes, 1.4.2005 for specified purposes, 1.12.2005 for specified purposes, 1.4.2007 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/d), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(i)](https://www.legislation.gov.uk/uksi/2004/641/article/3/i)[(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(s)(ii)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/s/ii) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8)); [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(l)(i)](https://www.legislation.gov.uk/uksi/2005/968/article/2/l/i); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/b/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/c)
+
+[^key-8894d6f069b578f5a63982e6e71e13b4]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) substituted (1.4.2004 for specified purposes, 1.12.2005 for specified purposes, 1.4.2007 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(e)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/e), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(i)](https://www.legislation.gov.uk/uksi/2004/641/article/3/i)[(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/b/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/c)
+
+[^key-b07d5f1139695ad7d6f1fc2562abb5c6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) substituted (1.4.2004 for specified purposes, 1.4.2007 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(f)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/f), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(i)](https://www.legislation.gov.uk/uksi/2004/641/article/3/i)[(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/c)
+
+[^key-225f940537d321c7096ad2a55b3dd913]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.10.2004 for specified purposes, 1.10.2005 for specified purposes, 1.4.2006 for specified purposes, 1.4.2007 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/g), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(s)(ii)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/s/ii) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(k)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/k/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(r)(ii)](https://www.legislation.gov.uk/uksi/2006/984/article/2/r/ii); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/c)
+
+[^key-3f7bb205d7644a7acd95d19318fd6a35]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) substituted (1.4.2004 for specified purposes, 1.12.2005 for specified purposes, 1.4.2007 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(i)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/i), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(i)](https://www.legislation.gov.uk/uksi/2004/641/article/3/i)[(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/b/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/c)
+
+[^key-3e7535fa28d61159023fed1053dcc0a2]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.12.2005 for specified purposes, 1.4.2007 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(h)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/h), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/b/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/c)
+
+[^key-37f4885fbd6a4431eebbb8181bbdf11e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.4.2004 for specified purposes, 1.8.2005 for specified purposes, 1.12.2005 for specified purposes, 1.4.2007 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(2)(j)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/2/j), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(i)](https://www.legislation.gov.uk/uksi/2004/641/article/3/i)[(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)); [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 3(c)(i)](https://www.legislation.gov.uk/uksi/2005/968/article/3/c/i); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/b/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/c)
+
+[^key-033ef2aeacbde3f3e75670bfa61c28a9]: Textual amendment: Words in Sch. 1 substituted (25.11.2002) by [The Transfer of Functions (Transport, Local Government and the Regions) Order 2002 (S.I. 2002/2626)](https://www.legislation.gov.uk/uksi/2002/2626), [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/2626/article/1/2), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2002/2626/schedule/2/paragraph/23)
+
+[^key-b26e880eead768d12923693af0ccc11f]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.10.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(4)(a)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/4/a), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(s)(iv)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/s/iv) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+
+[^key-5d2c3ce53d4141e2a35abdfce9c19154]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/4/b/i), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/641/article/3/ii)[(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+
+[^key-ff1df32bfd53831c28c1a8e5b995806f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/4/b/ii), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/641/article/3/ii)[(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+
+[^key-bd072d7899cd31a64ed815b683b2a30b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(4)(b)(iii)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/4/b), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/641/article/3/ii)[(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)); S.!. 2006/984, art. 2(r)(iii)
+
+[^key-2943b96d0d0793c9cba699e4f5c1848c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(5)(a)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/5/a), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(iii)](https://www.legislation.gov.uk/uksi/2004/641/article/3/iii)[(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+
+[^key-e0585716bb00a573486993c17cab51ba]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(5)(b)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/5/b), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(iii)](https://www.legislation.gov.uk/uksi/2004/641/article/3/iii)[(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+
+[^key-bb7bbd5db8d542efa20b34ffff3e378a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (18.7.2013) by virtue of [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [29(2)(a)](https://www.legislation.gov.uk/uksi/2013/1821/article/29/2/a) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
+
+[^key-d7decbf7f3cd5ec42693359749ae07a0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (18.7.2013) by virtue of [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [29(2)(b)(i)](https://www.legislation.gov.uk/uksi/2013/1821/article/29/2/b/i) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
+
+[^key-dfd866183bfc0b9f580bb5e924a03010]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (18.7.2013) by virtue of [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [29(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/1821/article/29/2/b/ii) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
+
+[^key-54e8712cfa39529a9d43e1f143572d02]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (18.7.2013) by virtue of [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [29(2)(c)](https://www.legislation.gov.uk/uksi/2013/1821/article/29/2/c) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
+
+[^key-fdd192e1033b68639a026cc60662735b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) substituted (16.2.2000) by [The National Assembly for Wales (Transfer of Functions) Order 2000 (S.I. 2000/253)](https://www.legislation.gov.uk/uksi/2000/253), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/253/article/1/1), [Sch. 3(f)](https://www.legislation.gov.uk/uksi/2000/253/schedule/3/f)
+
+[^key-62f70b129b16f4736eec4c989534be4a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) omitted (16.2.2000) by virtue of [The National Assembly for Wales (Transfer of Functions) Order 2000 (S.I. 2000/253)](https://www.legislation.gov.uk/uksi/2000/253), [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/253/article/1/1), [Sch. 3(g)](https://www.legislation.gov.uk/uksi/2000/253/schedule/3/g)
+
+[^key-2ce462a603aa5052b6db2e704f4cf93d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) inserted (1.7.1999) by [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), [ss. 66(4)](https://www.legislation.gov.uk/ukpga/1999/8/section/66/4)[(5)(c)](https://www.legislation.gov.uk/ukpga/1999/8/section/66/5/c), [67(4)(a)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/4/a)
+
+[^c16517601]: Marginal citation: [S.I. 1972/1679](https://www.legislation.gov.uk/uksi/1972/1679) amended by [S.I. 1988/1000](https://www.legislation.gov.uk/uksi/1988/1000).
+
+[^c16517611]: Marginal citation: [S.I. 1980/1298](https://www.legislation.gov.uk/uksi/1980/1298) amended by [S.I. 1981/1708](https://www.legislation.gov.uk/uksi/1981/1708), 1983/508, 1983/924, 1983/1763, 1984/618, 1984/1922 and 1985/1025.
+
+[^c16517621]: Marginal citation: [S.I. 1981/1707](https://www.legislation.gov.uk/uksi/1981/1707) amended by [S.I. 1983/507](https://www.legislation.gov.uk/uksi/1983/507), 1983/925, 1983/1762, 1984/620, 1984/1924, 1985/1266 and 1986/1295.
+
+[^c16517631]: Marginal citation: [S.I. 1985/1066](https://www.legislation.gov.uk/uksi/1985/1066) amended by [S.I. 1987/798](https://www.legislation.gov.uk/uksi/1987/798), 1989/1119, 1992/740, 1995/1387, 1996/1906 and 1998/2332.
+
+[^c16517641]: Marginal citation: [S.I. 1985/1266](https://www.legislation.gov.uk/uksi/1985/1266) amended by [S.I. 1987/1950](https://www.legislation.gov.uk/uksi/1987/1950), 1988/1201, 1988/1982, 1988/2065, 1989/219, 1990/1125 and 1991/1630.
+
+[^c16517651]: Marginal citation: [S.I. 1986/1110](https://www.legislation.gov.uk/uksi/1986/1110) amended by [S.I. 1990/454](https://www.legislation.gov.uk/uksi/1990/454) and 1992/1836.
+
+[^c16517661]: Marginal citation: [S.I. 1988/1199](https://www.legislation.gov.uk/uksi/1988/1199) amended by [S.I. 1989/1968](https://www.legislation.gov.uk/uksi/1989/1968), 1990/367, 1992/1494 and 1994/677.
+
+[^c16517671]: Marginal citation: [S.I. 1988/1217](https://www.legislation.gov.uk/uksi/1988/1217) amended by [S.I. 1995/2195](https://www.legislation.gov.uk/uksi/1995/2195).
+
+[^c16517681]: Marginal citation: [S.I. 1989/219](https://www.legislation.gov.uk/uksi/1989/219) amended by [S.I. 1990/1215](https://www.legislation.gov.uk/uksi/1990/1215) and 1991/1630.
+
+[^c16517691]: Marginal citation: [S.I. 1989/317](https://www.legislation.gov.uk/uksi/1989/317) amended by [S.I. 1995/3146](https://www.legislation.gov.uk/uksi/1995/3146).
+
+[^c16517701]: Marginal citation: [S.I. 1991/1630](https://www.legislation.gov.uk/uksi/1991/1630) amended by [S.I. 1992/3174](https://www.legislation.gov.uk/uksi/1992/3174), 1993/2900 and 1994/3003.
+
+[^c16517711]: Marginal citation: [S.I. 1992/2677](https://www.legislation.gov.uk/uksi/1992/2677) amended by [S.I. 1994/2741](https://www.legislation.gov.uk/uksi/1994/2741), 1995/2779, 1996/49 and 1997/2500.
+
+[^c16517721]: Marginal citation: [S.I. 1993/1317](https://www.legislation.gov.uk/uksi/1993/1317) amended by [S.I. 1994/1134](https://www.legislation.gov.uk/uksi/1994/1134) and 1997/1148.
+
+[^c16517731]: Marginal citation: [S.I. 1993/1441](https://www.legislation.gov.uk/uksi/1993/1441) amended by [S.I. 1994/1528](https://www.legislation.gov.uk/uksi/1994/1528), 1995/15, 1995/1446, 1996/1488, 1997/249, 1997/1901 and 1998/871.
+
+[^c16517741]: Marginal citation: [S.I. 1994/1056](https://www.legislation.gov.uk/uksi/1994/1056) amended by [S.I. 1994/1137](https://www.legislation.gov.uk/uksi/1994/1137), 1995/288, 1995/950, 1996/593, 1996/634, 1996/972, 1996/1279, 1997/2203, 1998/606 and the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25) s.120(1), Sched. 22, para. 233(1).
+
+[^c16517751]: Marginal citation: [S.I. 1994/1721](https://www.legislation.gov.uk/uksi/1994/1721) amended by [S.I. 1996/3109](https://www.legislation.gov.uk/uksi/1996/3109).
+
+[^c16517761]: Marginal citation: [S.I. 1994/2349](https://www.legislation.gov.uk/uksi/1994/2349) amended by [S.I. 1996/3111](https://www.legislation.gov.uk/uksi/1996/3111).
+
+[^c16517771]: Marginal citation: [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716): relevant amendments made by the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25) s.120(1), Sched. 22, para. 233(1), [S.I. 1996/525](https://www.legislation.gov.uk/uksi/1996/525) and 1997/3055. Relevant modifications made by [S.I. 1995/2803](https://www.legislation.gov.uk/uksi/1995/2803) and 1996/534.
+
+[^c16517781]: Marginal citation: [S.I. 1994/2740](https://www.legislation.gov.uk/uksi/1994/2740) amended by [S.I. 1995/100](https://www.legislation.gov.uk/uksi/1995/100), 1995/1481, 1995/2778, 1996/27, and revoked with savings by [S.I. 1996/1500](https://www.legislation.gov.uk/uksi/1996/1500) reg. 18.
+
+[^c16517791]: Marginal citation: [S.I. 1994/3099](https://www.legislation.gov.uk/uksi/1994/3099) amended by [S.I. 1996/3075](https://www.legislation.gov.uk/uksi/1996/3075).
+
+[^c16517801]: Marginal citation: [S.I. 1994/3100](https://www.legislation.gov.uk/uksi/1994/3100) amended by [S.I. 1996/3073](https://www.legislation.gov.uk/uksi/1996/3073).
+
+[^c16517811]: Marginal citation: [S.I. 1994/3101](https://www.legislation.gov.uk/uksi/1994/3101) amended by [S.I. 1996/3074](https://www.legislation.gov.uk/uksi/1996/3074).
+
+[^c16517821]: Marginal citation: [S.I. 1994/3102](https://www.legislation.gov.uk/uksi/1994/3102) amended by [S.I. 1996/3072](https://www.legislation.gov.uk/uksi/1996/3072).
+
+[^c16517831]: Marginal citation: [S.I. 1995/12](https://www.legislation.gov.uk/uksi/1995/12) amended by [S.I. 1995/2922](https://www.legislation.gov.uk/uksi/1995/2922) and 1998/871.
+
+[^c16517841]: Marginal citation: [S.I. 1995/1159](https://www.legislation.gov.uk/uksi/1995/1159) amended by [S.I. 1996/2449](https://www.legislation.gov.uk/uksi/1996/2449) and 1996/3076.
+
+[^c16517851]: Marginal citation: [S.I. 1995/1544](https://www.legislation.gov.uk/uksi/1995/1544) amended by [S.I. 1996/1725](https://www.legislation.gov.uk/uksi/1996/1725), 1997/1414 and 1998/1665.
+
+[^c16517861]: Marginal citation: [S.I. 1995/2258](https://www.legislation.gov.uk/uksi/1995/2258) amended by the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), [s.120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch](https://www.legislation.gov.uk/ukpga/1995/25/schedule)ed. 22, para. 233(1).
+
+[^c16517871]: Marginal citation: [S.I. 1996/529](https://www.legislation.gov.uk/uksi/1996/529) amended by [S.I. 1997/568](https://www.legislation.gov.uk/uksi/1997/568).
+
+[^c16517881]: Marginal citation: [S.I. 1996/696](https://www.legislation.gov.uk/uksi/1996/696) amended by [S.I. 1997/542](https://www.legislation.gov.uk/uksi/1997/542) and 1998/453.
+
+[^c16517891]: Marginal citation: [S.I. 1996/888](https://www.legislation.gov.uk/uksi/1996/888) amended by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971) and 1998/1202.
+
+[^c16517901]: Marginal citation: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972) amended by [S.I. 1997/251](https://www.legislation.gov.uk/uksi/1997/251).
+
+[^c16517911]: Marginal citation: [S.I. 1996/1434](https://www.legislation.gov.uk/uksi/1996/1434) amended by [S.I. 1997/857](https://www.legislation.gov.uk/uksi/1997/857) and 1998/691.
+
+[^c16517921]: Marginal citation: [S.I. 1996/1500](https://www.legislation.gov.uk/uksi/1996/1500) amended by [S.I. 1997/33](https://www.legislation.gov.uk/uksi/1997/33) and 1998/206.
+
+[^c16517931]: Marginal citation: [S.I. 1996/3142](https://www.legislation.gov.uk/uksi/1996/3142) amended by [S.I. 1997/2969](https://www.legislation.gov.uk/uksi/1997/2969), 1998/3169 and 1999/8.
+
+[^key-43f07a48d520b34bfe679f245c9475a0]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1999/672/schedule/2) entry revoked (1.2.2004) by [Legal Deposit Libraries Act 2003 (c. 28)](https://www.legislation.gov.uk/ukpga/2003/28), [s. 16(1)](https://www.legislation.gov.uk/ukpga/2003/28/section/16/1), [Sch.](https://www.legislation.gov.uk/ukpga/2003/28/schedule) (with [s. 16(4)](https://www.legislation.gov.uk/ukpga/2003/28/section/16/4)); [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+
+[^key-b7b6a57132aca8270be4a06c23ec7bf2]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1999/672/schedule/2) omitted (18.7.2013) by virtue of [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [29(3)](https://www.legislation.gov.uk/uksi/2013/1821/article/29/3) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
+
+[^key-bde4d7802e0e9cfa6baf895d43c3a9ca]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1999/672/schedule/2) entry inserted (1.10.2004 for specified purposes, 1.4.2007 in so far as not already in force) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/3), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 100(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/7)); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(s)(iii)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/s/iii) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8)); [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/c)
+
+[^key-561400eb56360730ab39b1d330310ec7]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1999/672/schedule/2) inserted (1.7.1999) by [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), [ss. 66(4)](https://www.legislation.gov.uk/ukpga/1999/8/section/66/4)[(6)](https://www.legislation.gov.uk/ukpga/1999/8/section/66/6), [67(4)(a)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/4/a)
+
+[^key-b73d6c20a07dc6b3698568433fb93edc]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1999/672/schedule/2) entries revoked (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/2); [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 13(1)](https://www.legislation.gov.uk/uksi/2004/759/article/13/1)[(2)(h)](https://www.legislation.gov.uk/uksi/2004/759/article/13/2/h)

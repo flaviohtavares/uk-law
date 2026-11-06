@@ -1,0 +1,64 @@
+---
+title: Regulatory Enforcement and Sanctions Act 2008, section 25C
+act: Regulatory Enforcement and Sanctions Act 2008
+section: 25C
+status: revised-with-pending-changes
+text_date: '2026-10-29'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2008/13/section/25C
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Regulatory Enforcement and Sanctions Act 2008, section 25C
+
+> **Warning: changes not yet applied to this text (8).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/13
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 25C. Enforcement action other than by primary authority[^key-7229255d28e07423b60bf8489db654cd]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if—
+
+- (a) a qualifying regulator other than the primary authority proposes to take enforcement action against the regulated person or a member of the regulated group pursuant to a relevant function of the regulator which is a partnership function, and
+- (b) in the case of proposed enforcement action against a member of the regulated group, the regulator is aware that the member belongs to the group.
+
+But see section 25D (which imposes a duty to prescribe circumstances in which this section does not apply).
+
+(2) The qualifying regulator (the “enforcing authority”)—
+
+- (a) must notify the primary authority in writing before taking the proposed enforcement action, and
+- (b) may not take the action during the relevant period.
+
+(3) If—
+
+- (a) the enforcing authority fails to notify the primary authority under subsection (2)(a) of the proposed enforcement action, but
+- (b) the primary authority is notified of it by the regulated person or the member or the co-ordinator of the regulated group,
+
+the primary authority must notify the enforcing authority in writing that the enforcing authority is prohibited by subsection (2)(b) from taking the action during the relevant period.
+
+(4) If the primary authority determines, within the relevant period, that the proposed enforcement action is inconsistent with advice or guidance previously given by it (generally or specifically), it may direct the enforcing authority in writing not to take the action.
+
+(5) Any such direction must be given as soon as is reasonably practicable, and in any event within the relevant period.
+
+(6) If the enforcing authority is not directed under subsection (4) not to take the proposed enforcement action, and continues to propose to take the action—
+
+- (a) it must inform the regulated person or the member, and
+- (b) it may not take the action during the referral period mentioned in paragraph 5(4) of Schedule 4A (period in which the regulated person or the member may refer the action to the Secretary of State) unless notified in writing by the regulated person or the member that no such reference is to be made.
+
+(7) Parts 2 and 3 of Schedule 4A contain provision for questions arising under this section to be referred to the Secretary of State.
+
+(8) Where another enactment limits the period within which the enforcing authority may take the proposed enforcement action, any time during which it is prohibited under this section or paragraph 5(7) of Schedule 4A from taking the action is to be disregarded in calculating the period.
+
+(9) For the purposes of this section, the “**relevant period**” means the period which—
+
+- (a) begins when the primary authority is notified under subsection (2)(a) of the proposed enforcement action or the enforcing authority is notified under subsection (3) that it is prohibited from taking the action during the relevant period, and
+- (b) ends—
+  - (i) at the end of the fifth working day after the day on which the period begins, or at such later time as the Secretary of State may direct, or
+  - (ii) if earlier, when the enforcing authority is notified in writing by the primary authority that no direction is to be given under subsection (4) (unless the notification states that the primary authority has referred the action to the Secretary of State under paragraph 4(1) of Schedule 4A or that it intends to do so).
+
+## Annotations
+
+[^key-7229255d28e07423b60bf8489db654cd]: Textual amendment: Pt. 2 substituted (4.5.2016 for specified purposes, 1.10.2017 in so far as not already in force) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/20/1), [44(1)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1/c); [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/b)

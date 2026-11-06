@@ -1,0 +1,601 @@
+---
+title: The Weighing Equipment (Automatic Rail-weighbridges) Regulations 2003
+id: uksi/2003/2454
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-09-23'
+text_date: '2020-12-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2003/2454
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2003/2454/pdfs/uksi_20032454_en.pdf
+- http://www.legislation.gov.uk/uksi/2003/2454/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Weighing Equipment (Automatic Rail-weighbridges) Regulations 2003
+
+> Text as at 2020-12-31.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2003 No. 2454
+
+WEIGHTS AND MEASURES
+
+The Weighing Equipment (Automatic Rail-weighbridges) Regulations 2003
+
+Made
+
+23rd September 2003
+
+Laid before Parliament
+
+26th September 2003
+
+Coming into force
+
+1st February 2004
+
+The Secretary of State, in exercise of the powers conferred upon her by sections 15(1) and 86(1) of the Weights and Measures Act 1985 [^c5083111], hereby makes the following Regulations:—
+
+## PART I — GENERAL
+
+### 1. Citation, commencement and consequential amendment
+
+(1) These Regulations may be cited as the Weighing Equipment (Automatic Rail-weighbridges) Regulations 2003 and shall come into force on 1st February 2004.
+
+(2) After sub-paragraph (k) of regulation 1(2) of the Weights and Measures Regulations 1963 [^c5083121], there shall be added the following sub-paragraph—
+
+> (1) automatic rail-weighbridges to which the Weighing Equipment (Automatic Rail-weighbridges) Regulations 2003 [^c5083131] apply.
+
+.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 1985 Act**” means the Weights and Measures Act 1985;
+- “**accuracy class**” means the accuracy class, in respect of an automatic rail-weighbridge, determined by the Secretary of State and specified in the certificate of approval, being one of the accuracy classes 0.2, 0.5, 1 or, for the purposes of weighing waste (as defined in Schedule 3) only, 2: provided always that, except when used for the purposes of weighing waste, the accuracy class in respect of that automatic rail-weighbridge may be different for wagon weighing to that for train weighing;
+- “**automatic rail-weighbridge**” means an instrument which—
+  - (i) is used to determine the mass of a railway wagon when it is weighed in motion by using the action of gravity without the intervention of an operator;
+  - (ii) follows a predetermined programme of automatic processes characteristic of the instrument; and
+  - (iii) has one or more load receptors inclusive of rails for conveying railway vehicles and includes such of the other components described in Schedule 1 as are specified in the certificate of approval;
+- “**certificate of approval**” means a certificate of approval of a pattern of an automatic rail-weighbridge granted or renewed by the Secretary of State under section 12 of the 1985 Act;
+- “**control instrument**” means a non-automatic weighing instrument used to determine the mass of a reference wagon;
+- “**initial verification testing**” means testing in accordance with the provisions of regulation 6(c);
+- “**instrument**” has the same meaning as that for automatic rail-weighbridge;
+- “**load receptor**” means the part of the weigh zone that is intended to receive the load and which realises a change in the balance of the automatic rail-weighbridge when a load is placed upon it; and “**multiple load receptors**” means two or more load receptors placed in series or in parallel that are used as a single load receptor for weighing a wagon that is entirely supported on the load receptors;
+- “**maximum capacity**” means the largest load which the automatic rail-weighbridge is designed to weigh-in-motion before totalising;
+- “**maximum wagon weight**” means the largest in-motion load which the automatic rail-weighbridge is approved to weigh for a particular site;
+- “**minimum capacity**” means the load below which a weighing-in-motion result before totalising may be subject to an excessive relative error;
+- “**minimum wagon weight**” means the wagon weight (when the wagon is unloaded) below which a weighing-in-motion result may be subject to an excessive relative error;
+- “**OIML R 106**” means the International Recommendation OIML R 106 of the Organisation Internationale de Métrologie Légale relating to automatic rail-weighbridges (Edition 1997 (E));
+- “**prescribed limits of error**” has the meaning set out in regulation 9(3);
+- “**reference wagon**” means a railway goods vehicle that is recognised by the automatic rail-weighbridge as a vehicle to be weighed being—
+  - (a) of known weight;
+  - (b) typical of those to be used for weighing on the automatic rail-weighbridge;
+
+  and which has been selected for the purposes of in-motion testing;
+- “**scale interval**” or “**d**” means a value expressed in units of mass for weighing-in-motion that is the difference between—
+  - (a) the values corresponding to two consecutive scale marks for analogue indication; or
+  - (b) two consecutive indicated or printed values for digital indication;
+- “**scale interval for stationary load**” means the scale interval used for static tests;
+- “**the stamp**” or “**verification mark**” means the prescribed stamp [^c5083141];
+- “**total train**” means a number of coupled wagons whose totalised weight is to be obtained;
+- “**wagon**” means a loaded or unloaded railway goods vehicle that is recognised by the automatic rail-weighbridge as a vehicle to be weighed;
+- “**weighing-in-motion**” means weighing objects that are in motion; and
+- “**weigh zone**” means the zone in which a wagon must be located when it is to be weighed.
+
+(2) Any expression or procedure which is not defined in these Regulations and is used both in these Regulations and OIML R 106 shall bear the same meaning as in OIML R 106.
+
+### 3. Application
+
+(1) Subject to paragraph (2) and regulation 4, these Regulations apply to automatic rail-weighbridges and such instruments are hereby prescribed for the purposes of section 11(1) of the 1985 Act (use for trade of weighing or measuring equipment of prescribed classes).
+
+(2) These Regulations do not apply to any automatic rail-weighbridge which has been put into use for trade before these Regulations came into force.
+
+### 4. Transitional exclusion
+
+(1) Subject to paragraph (2), these Regulations do not apply to an automatic rail-weighbridge—
+
+- (a) which comprises an automatic weighing machine for the purposes of the Weights and Measures Regulations 1963; and
+- (b) which has been first passed as fit for use for trade, for the purposes of those Regulations, within a period of 10 years from the date on which these Regulations came into force.
+
+(2) The exception provided in paragraph (1) does not apply in the case of an automatic rail-weighbridge which bears the marking “R 106”.
+
+## PART II — GENERAL REQUIREMENTS FOR USE FOR TRADE
+
+### 5. General Duties for use for trade
+
+No person shall use for trade an automatic rail-weighbridge unless—
+
+- (a) it has been erected and installed in accordance with the requirements of Schedule 2;
+- (b) the requirements of Schedule 3 in respect of its use and manner of use are complied with; and
+- (c) when it is used as a non-automatic weighing instrument that serves to determine the mass of a load by using the action of gravity—
+  - (i) it complies with the requirements of either the Weighing Equipment (Non-automatic Weighing Machines) Regulations 2000 [^c5083151] or the Non-automatic Weighing Instruments Regulations 2000 [^c5083161] and
+  - (ii) it is equipped with an enabling device for non-automatic operation that prevents both automatic operation and weighing-in-motion.
+
+### 6. Requirements to be satisfied for passing as fit for use for trade
+
+Every automatic rail-weighbridge shall, before it is passed as fit for use for trade,—
+
+- (a) comply with a pattern in respect of which a certificate of approval remains in force at the time when such automatic rail-weighbridge is so passed;
+- (b) have affixed to it the applicable descriptive markings relating to that automatic rail-weighbridge and have provision for a place for the application of the specified verification marks, in accordance with the requirements of Schedule 4; and
+- (c) subject to regulation 8, have successfully undergone initial verification testing; for the purposes of these Regulations, initial verification testing means testing of an automatic rail-weighbridge in accordance with the procedure specified in clause 5.2 (initial verification) of Part 1 of OIML R 106 or on an equivalent basis.
+
+### 7. Supplementary requirements
+
+(1) Every automatic rail-weighbridge submitted for testing shall be completely assembled and in a clean condition.
+
+(2) For the purposes of the performance by an inspector of his functions under the 1985 Act or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of any automatic rail-weighbridge, a person submitting such a weighbridge to an inspector or who an inspector has reasonable cause to believe has control of such a weighbridge for use for trade shall, if requested, provide for the inspector’s use such test vehicles, material, qualified personnel and control instrument as the inspector may reasonably require: any test vehicles, material, or control instrument so provided shall be returned to the person in question.
+
+(3) An automatic rail-weighbridge, other than one which has been transported without having been dismantled, shall not be tested, passed as fit for use for trade and stamped unless it has been completely erected ready for use and, subject to paragraph (4), installed in the position in which it is to be used.
+
+(4) Where an inspector is satisfied that any dismantling and re-assembly or transportation of an automatic rail-weighbridge to its intended place of use could not, in his opinion, affect the accuracy or functioning of that weighbridge, it may be examined, with a view to passing that weighbridge as fit for use for trade at a place other than the intended place of use, for the purposes of initial verification testing.
+
+(5) Any control instrument shall comply with the requirements of Schedule 5 which apply to it when it is separate or integral as the case may be.
+
+### 8. Automatic Rail-weighbridges imported from an EEA State[^key-d5d22e41480a9f8ee96d07e193337b91]
+
+(1) Subject to paragraph (3), in relation to an automatic rail-weighbridge imported into Great Britain from an EEA State[^key-e6efe32b5a0669a84daa169353f9978b], an inspector shall not carry out any test relating to initial verification testing if, together with the weighbridge being imported, he is presented with the requisite documentation.
+
+(2) In this regulation and regulation 9(2)—
+
+- (a) “**requisite documentation**” means—
+  - (i) the test report of an approved body that the weighbridge which is the subject of that report has been tested on the same basis as the procedure specified in clause 5.2 (initial verification) of Part 1 of OIML R 106 or on an equivalent basis, and stating which tests have been applied to it; and
+  - (ii) the test results relating to those tests;
+
+  where a body is an “**approved body**” if it is a body in an EEA State[^key-86390053307c628d6fc93c5ea5d4dfdf] which has responsibility in that State for metrological control of automatic rail-weighbridges or is a laboratory which has been accredited in an EEA State in relation to automatic rail-weighbridges as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025:2000 [^c5083171]; and
+- (b) “**EEA State**” means a State which is a Contracting Party to the EEA Agreement [^key-16de22ab7698e82d59ebd1b05a579843]...; and in this paragraph “**the EEA Agreement**” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993.
+
+(3) Nothing in these Regulations shall prevent an inspector carrying out initial verification testing where he is not satisfied—
+
+- (a) as to the authenticity of the test report or the results presented to him; or
+- (b) that the test results presented to him are results which in fact relate to the weighbridge being imported; or
+- (c) subject to regulation 7(4), that the weighbridge has not been dismantled after the tests to which the test report relates were carried out.
+
+## PART III — TESTING AND STAMPING
+
+### 9. Passing as fit for use for trade
+
+(1) An inspector shall not pass as fit for use for trade an automatic rail-weighbridge unless—
+
+- (a) it complies with all the appropriate requirements of these Regulations; and
+- (b) on testing, it falls within the prescribed limits of error in relation to passing as fit for use for trade.
+
+(2) An inspector shall not pass as fit for use for trade an automatic rail-weighbridge imported from an EEA State[^key-5aa1e54142ba642774391e92560a824e] unless—
+
+- (a) where the requisite documentation is presented in accordance with regulation 8, the test report recites and the test data confirm to the satisfaction of the inspector that, on testing in accordance with the provisions of clause 5.2 (initial verification) of Part 1 of OIML R 106 or on an equivalent basis, that weighbridge fell within limits of error which afford in use an equivalent standard to the prescribed limits of error; and
+- (b) it otherwise complies with all the relevant requirements of these Regulations.
+
+(3) For the purposes of these Regulations, the prescribed limits of error relating to an automatic rail-weighbridge shall be determined in accordance with the provisions of Schedule 6.
+
+### 10. Stamping
+
+(1) The stamp shall be placed on the place for the application of specified verification marks in accordance with the requirements of Schedule 4.
+
+(2) An inspector shall not stamp an automatic rail-weighbridge in accordance with paragraph (1) if it bears any mark which, in his opinion, might reasonably be mistaken for the stamp, or any statement or mark (other than an inspector’s stamp) which purports to be or, in the opinion of the inspector, might reasonably be mistaken for an expression of approval or guarantee of accuracy by any body or person.
+
+### 11. Manner of obliteration of stamps
+
+An inspector shall obliterate a stamp, in accordance with the requirements of these Regulations, by means of punches or pincers of suitable sizes of a six-pointed star design as shown in the following illustration—
+
+[image: see source](https://www.legislation.gov.uk/uksi/2003/2454/images/uksi_20032454_en_sld_001)
+
+### 12. Obliteration of stamps
+
+(1) Subject to paragraph (2), an inspector shall obliterate the stamp on any automatic rail-weighbridge which—
+
+- (a) on testing in accordance with clause 5.3 (in-service inspection) of Part 1 of OIML R 106 fails to fall within the prescribed limits of error in relation to obliteration of the stamp; or
+- (b) fails to comply with any other appropriate requirement of these Regulations.
+
+(2) Except as provided by regulation 13, where any automatic rail-weighbridge does not fully comply with the requirements of these Regulations, but the nature or degree of the non-compliance is not, in the inspector’s opinion, such as to require the immediate obliteration of the stamp, he shall give to the proprietor or any person in control of that weighbridge a notice calling on him to have the weighbridge corrected within a stated period not exceeding 28 days, and shall obliterate the stamp if the correction has not been made within the stated period.
+
+### 13.
+
+(1) An inspector shall obliterate the stamp on any automatic rail-weighbridge which has, since it was last stamped, had any alteration or addition made to it such that it could not be passed as fit for use for trade under regulation 9.
+
+(2) Subject to paragraph (3), an inspector shall obliterate the stamp on any automatic rail-weighbridge which has, since it was last stamped, been the subject of any adjustment, alteration, addition, repair or replacement which could, in the opinion of the inspector, have affected its accuracy or function.
+
+(3) Where an automatic rail-weighbridge has been subjected to one or other of the occurrences in paragraph (2) and the chief inspector of weights and measures for the area in which the weighbridge is situated has been furnished in writing with details of the occurrence, an inspector may obliterate the stamp.
+
+### 14.
+
+An inspector may obliterate the stamp on any automatic rail-weighbridge which—
+
+- (a) is in use for trade for a particular purpose and—
+  - (i) which does not meet the requirements of Schedule 3 in respect of weighing material within the specified weight range; or
+  - (ii) for which purpose, in the opinion of the inspector, it is otherwise unsuitable; or
+- (b) is in use for trade in circumstances where the weighbridge is subjected to any extraordinary environmental or operating conditions which, in the opinion of the inspector,—
+  - (i) prevent the weighbridge operating consistently and correctly; or
+  - (ii) are likely prematurely to degrade the metrological characteristics of the weighbridge.
+
+### 15.
+
+(1) For the purposes of these Regulations, the obliteration of any one stamp on any automatic rail-weighbridge shall, subject to paragraph (2), be deemed to be the obliteration of all other stamps on that weighbridge.
+
+(2) Where the stamp on one automatic rail-weighbridge forming part of an interconnected system is obliterated, paragraph (1) shall not apply so as to prevent the system or any other automatic rail-weighbridge in the system being used provided that the integrity of the remainder of the system is unimpaired.
+
+Sainsbury of Turville,
+
+Parliamentary Under-Secretary of State for Science and Innovation,
+
+Department of Trade and Industry
+
+## SCHEDULE 1 — (Composition of automatic rail-weighbridge – components)
+
+regulation 2(1)
+
+One or more load receptors
+
+Aprons being the parts of the weigh zone that are not the load receptor nor part of the load receptor.
+
+Vehicle-type identification devices which identify the axle configuration(s) of the wagon(s) or which establish wagon identity information.
+
+Indicating device being the part of the automatic rail-weighbridge that displays the value of a weighing result in units of mass.
+
+Printer being a device to print the weight values of wagons weighed on the automatic rail-weighbridge and/or a summation of those wagon weights.
+
+Control unit being the device which controls the weighing operation of the automatic rail-weighbridge.
+
+## SCHEDULE 2 — (Manner of erection and installation)
+
+regulation 5(a)
+
+### Cleaning and testing
+
+Every automatic rail-weighbridge shall be so positioned as to facilitate cleaning and testing.
+
+### Installation (Clause 3.5 of Part 1 of OIML R 106)
+
+ 
+
+**3.5.1.** The automatic rail-weighbridge shall be accessible to vehicles for moving test weights if it is to be used as the control instrument.
+
+**3.5.2.** If the weighing mechanism is contained in a pit, there shall be a provision for drainage to ensure that no portion of the automatic rail-weighbridge becomes submerged or partially submerged in water or any other liquid.
+
+### Extract from Clause 5.2.1 of Part 1 of OIML R 106
+
+The automatic rail-weighbridge shall be installed so that an automatic weighing operation will be virtually the same for testing as it is for a transaction.
+
+## SCHEDULE 3 — (Requirements relating to use)
+
+*Extent: E+W+S+N.I.*
+
+regulation 5(b)
+
+*Extent: E+W+S*
+
+An automatic rail-weighbridge with an accuracy class of 2 shall only be used for the weighing of a wagon loaded with waste; for the purposes of this provision, “**waste**” shall be construed in accordance with section 75 of the Environmental Protection Act 1990 [^c5083191], provided that “**waste**” shall include any waste disposed of for reprocessing or recycling purposes but shall not include any radioactive waste as defined in paragraph 5 of schedule 8 of the Environmental Authorisations (Scotland) Regulations 2018[^key-cc437a309134a352ae6430777674da77] Schedule 23 to[^key-5c6a6e3e0af9a0efdcbdc7f8267f1ee5] the Environmental Permitting (England and Wales) Regulations 2016[^key-3025aabae2071eaaa606b5154cf6dc35];
+
+### Single axle or bogie weights (Clause 2.6 of Part 1 of OIML R 106)
+
+*Extent: E+W+S*
+
+Single axle or bogie weights shall not be indicated or printed without an associated warning that these weighing results cannot be verified.
+
+### Static temperatures (Clause 2.9.1 of Part 1 of OIML R 106)
+
+*Extent: E+W+S*
+
+Automatic rail-weighbridges shall comply with the appropriate metrological and technical requirements at temperatures from 10 °C to +40 °C.
+
+*Extent: E+W+S*
+
+For special applications, however, the limits of the temperature range may differ provided that this range shall not be less than 30 °C and shall be specified in the descriptive markings as set out in Schedule 4.
+
+*Extent: E+W+S*
+
+Where an automatic rail-weighbridge is marked with a temperature range, it shall not be used for trade in temperatures outside that range.
+
+### Scale interval for stationary load (Clause 2.10.2 of Part 1 of OIML R 106)
+
+*Extent: E+W+S*
+
+If the scale interval for stationary load is not equal to the scale interval (d), it shall be automatically out of service when the automatic rail-weighbridge is in use for weighing-in-motion. In addition, if the weighbridge is not verified for use as a non-automatic weighing instrument, the scale interval for stationary load shall not be readily accessible and shall only be used for static testing.
+
+### Suitability for use (Clause 3.2 of Part 1 of OIML R 106)
+
+*Extent: E+W+S*
+
+Automatic rail-weighbridges shall be designed to suit the vehicles, site and method of operation for which they are intended.
+
+*Extent: E+W+S*
+
+Weighbridges constructed only for partial weighing shall not be used to weigh liquid loads or any other load that may be subjected to fluctuations in its gravity centre, unless there is a possibility to anticipate and compensate for such fluctuations.
+
+### Security of operation (Extract from Clause 3.3 of Part 1 of OIML R 106)
+
+*Extent: E+W+S*
+
+ 
+
+*Extent: E+W+S*
+
+**3.3.2.** Interlocks shall prevent the use of any control device that may alter a weighing operation.
+
+*Extent: E+W+S*
+
+**3.3.3.** Automatic rail-weighbridges used for uncoupled wagon weighing shall recognise and indicate the following situations:
+
+- (a) the passage of two or more coupled wagons;
+- (b) the passage of two or more uncoupled wagons that is sufficiently close to cause either a malfunction of the instrument or errors exceeding the appropriate maximum permissible errors.
+
+### Indicating and printing devices (Extract from Clause 3.4 of Part 1 of OIML R 106)
+
+*Extent: E+W+S*
+
+ 
+
+*Extent: E+W+S*
+
+**3.4.1.** The weight indication shall be the self-indicating type. Indicating and printing devices shall allow reliable, simple and unambiguous reading of the results by simple juxtaposition and shall bear the name or symbol of the appropriate unit of mass.
+
+*Extent: E+W+S*
+
+**3.4.2.** The minimum printout resulting from each normal weighing operation shall be each wagon weight in the case of wagon weighing and total train weight in the case of train weighing.
+
+*Extent: E+W+S*
+
+**3.4.4.** The printer shall not print the weight of any wagon that has travelled over the load receptor at a speed outside the range of operating speeds. An appropriate indication shall be included on the printout for any wagon weight not printed and a subtotal may be printed exclusive of unweighed wagons provided that an indication clearly specifies that it is not the total train weight.
+
+*Extent: E+W+S*
+
+**3.4.5.** The weight indication and printout shall not be altered due to any part of any wagon travelling over the load receptor more than once.
+
+### Switch-on procedure (Clause 4.3.2 of Part 1 of OIML R 106)
+
+*Extent: E+W+S*
+
+Upon switch-on (in the case of electronic automatic rail-weighbridges permanently connected to the mains at switch-on of indication), a special procedure shall be performed that indicates all the relevant signs of the indicator in their active and non-active states for a sufficient time to be easily observed by the operator.
+
+### Weight range
+
+*Extent: E+W+S*
+
+An automatic rail-weighbridge shall only be used for trade for the purpose of weighing material the values of which, expressed in units of measurement of mass, are within the weight range specified in the certificate of approval relating to that weighbridge.
+
+### Minimum capacity (Clause 2.4 of Part 1 of OIML R 106)
+
+*Extent: E+W+S*
+
+The minimum capacity shall not be less than 1t, and not greater than the value of the result of the minimum wagon weight divided by the number of partial weighings.
+
+### Minimum wagon weight (Clause 2.5 of Part 1 of OIML R 106)
+
+*Extent: E+W+S*
+
+The minimum wagon weight shall not be less than 50d.
+
+## SCHEDULE 4 — (Descriptive markings and verification markings: Extract from Part 1 of OIML R 106 and additional marking)
+
+regulation 6(b)
+
+**3.6.** Automatic rail-weighbridges shall bear the following basic markings at each location having a weight indicating or printing device.
+
+**3.6.1.**  
+
+|  |  |  |
+| --- | --- | --- |
+| • | identification mark of the manufacturer |  |
+| • | identification mark of the importer (if applicable) |  |
+| • | designation of the instrument |  |
+| • | serial number of the instrument (on each load receptor, if applicable) |  |
+| • | weighing method (for example, full draught weighing or partial weighing; uncoupled wagon, coupled wagon or train weighing; weighing-in-motion or static) |  |
+| • | maximum wagon weight | ....................kg or t |
+| • | minimum wagon weight | ....................kg or t |
+| • | not to be used to weigh liquid products (if applicable) |  |
+| • | full draught or number of partial weighings per wagon |  |
+| • | maximum transit speed | ....................km/h |
+| • | direction of weighing (if applicable) |  |
+| • | wagons pushed/pulled (whichever is applicable) |  |
+| • | scale interval for stationary load (if applicable) | ....................kg or t |
+| • | electric power supply voltage | ....................V |
+| • | electric power supply frequency | ....................Hz |
+
+**3.6.2.**  
+
+**3.6.2.1.**  
+
+<table>
+<tbody>
+<tr><td>•</td><td colspan="2">pattern approval sign in accordance with national requirements</td></tr>
+<tr><td>•</td><td>accuracy class (for each weighing method, if applicable)</td><td>0.2, 0.5, 1 or 2</td></tr>
+<tr><td>•</td><td>maximum capacity</td><td>Max = ....................kg or t</td></tr>
+<tr><td>•</td><td>minimum capacity</td><td>Min = ....................kg or t</td></tr>
+<tr><td>•</td><td>scale interval</td><td>d = ....................kg or t</td></tr>
+<tr><td>•</td><td>maximum operating speed</td><td>v max = ....................km/h</td></tr>
+<tr><td>•</td><td>minimum operating speed</td><td>v min = ....................km/h</td></tr>
+</tbody>
+</table>
+
+**3.6.2.2.** Markings required for each weighing method applicable:
+
+|  |  |  |
+| --- | --- | --- |
+| • | maximum number of wagons per train | n<sub>m</sub><sub>a</sub><sub>x</sub> = .................... |
+| • | minimum number of wagons per train | n<sub>m</sub><sub>i</sub><sub>n</sub> = .................... |
+
+**3.6.3.** Depending upon the particular use of the automatic rail-weighbridge, one or more supplementary markings may be required on pattern approval by the metrological authority issuing the pattern approval certificate.
+
+**3.6.4.** The designation of the liquid(s) which the automatic rail-weighbridge is designed to weigh (if applicable).
+
+**3.6.5.** Descriptive markings shall be indelible and of a size, shape and clarity that permit legibility under normal conditions of use of the weighbridge.
+
+Markings shall be grouped together in a clearly visible place on the weighbridge, either on a descriptive plate fixed near the indicating device or on the indicating device itself.
+
+It shall be possible to seal the plate bearing the markings, unless it cannot be removed without being destroyed.
+
+**3.7.**  
+
+**3.7.1.** Automatic rail-weighbridges shall have a place for the application of verification marks. The following applies for this place:
+
+- • the part on which the marks are located cannot be removed from the weighbridge without damaging the marks;
+- • the place shall permit the easy application of the marks without changing the metrological qualities of the weighbridge;
+- • the marks shall be visible when the weighbridge is in service.
+
+**3.7.2.** Automatic rail-weighbridges required to bear verification marks shall have a verification mark support located as specified above, which shall ensure the conservation of the marks as follows:
+
+• when the mark is made with a stamp, the support may consist of a strip of lead or any other material with similar qualities inserted into a plate fixed to the weighbridge or a cavity bored into the weighbridge.
+
+### Additional descriptive marking
+
+Automatic rail-weighbridges shall bear the additional descriptive marking “R 106” which shall be presented in accordance with the provisions of clause 3.6.5 of Part 1 of OIML R 106.
+
+## SCHEDULE 5 — (Requirements relating to control instruments)
+
+regulation 7(5)
+
+### Separate control instrument (Clause 2.8.3.1 of Part 1 of OIML R 106)
+
+A control instrument capable of being used to determine the mass of each reference wagon when stationary and uncoupled shall be available for in-motion tests. The error of that instrument shall not be greater than either of the following values:
+
+- (a) one third of the appropriate maximum permissible error for in-motion weighing in clause 2.8.2 and Table 1 (set out in Schedule 6) if the control instrument is verified immediately prior to the in-motion tests;
+- (b) one-fifth of the maximum permissible error if the control instrument is verified at any other time.
+
+An automatic rail-weighbridge constructed only for partial weighing of two-axle wagons may be used as the control instrument provided that the alignment calibration in Annex B (of Part 1 of OIML R 106) has been successfully applied.
+
+### Integral control instrument (Clause 2.8.3.2 of Part 1 of OIML R 106)
+
+An automatic rail-weighbridge under test may be used as the control instrument provided that it meets the following requirements:
+
+- • it shall have an appropriate scale interval or scale interval for stationary load in accordance with the requirements of clause 2.3 or clause 2.10.2 of Part 1 of OIML R 106, as the case may be, which are respectively set out in Schedule 6 and Schedule 3.
+- • it shall comply with the requirements in clauses 2.8.1.1 to 2.8.1.6 of Part 1 of OIML R 106.
+- • it shall comply with the requirements in clause 2.8.3.1 of Part 1 of OIML R 106 relating to separate control instruments.
+
+An automatic rail-weighbridge constructed only for partial weighing of two-axle wagons may be used as the control instrument provided that the alignment calibration in Annex B (of Part 1 of OIML R 106) has been successfully applied.
+
+In the case of both a separate control instrument and an integral control instrument, the maximum permissible errors shall comply with the requirements of clause 2.2.2 of Part 1 of OIML R 106 which is set out in Schedule 6.
+
+## SCHEDULE 6 — (Prescribed limits of error)
+
+regulation 9(3)
+
+The maximum permissible errors for weighing-in-motion shall be as specified in Table 1.
+
+Table 1
+
+<table>
+<tbody>
+<tr><th>Accuracy class</th><th colspan="2">Percentage of mass of single wagon or total train, as appropriate</th></tr>
+<tr><th> </th><th>Initial verification</th><th>In-service</th></tr>
+<tr><td>0.2</td><td>±0.10%</td><td>±0.2%</td></tr>
+<tr><td>0.5</td><td>±0.25%</td><td>±0.5%</td></tr>
+<tr><td>1</td><td>±0.50%</td><td>±1.0%</td></tr>
+<tr><td>2</td><td>±1.00%</td><td>±2.0%</td></tr>
+</tbody>
+</table>
+
+On initial verification of an automatic rail-weighbridge weighing coupled wagons, the errors of not more than 10% of the weighing results taken from one or more passes of the test train may exceed the appropriate maximum permissible error given in Table 1 but shall not exceed two times that value.
+
+### Application of maximum permissible errors (weighing-in-motion)
+
+Wagon weighing (Clause 2.8.2.1 of Part 1 of OIML R 106)
+
+The maximum permissible error for coupled or uncoupled wagon weighing, shall be one of the following values, whichever is greater:
+
+- • the value calculated according to Table 1, rounded to the nearest scale interval;
+- • the value calculated according to Table 1, rounded to the nearest scale interval for the weight of a single wagon equal to 35% of the maximum wagon weight (as inscribed on the descriptive markings), or
+- • 1 d.
+
+Train weighing (Clause 2.8.2.2 of Part 1 of OIML R 106)
+
+The maximum permissible error for train weighing shall be one of the following values, whichever is greater:
+
+- • the value calculated according to Table 1, rounded to the nearest scale interval;
+- • the value calculated according to Table 1, for the weight of a single wagon equal to 35% of the maximum wagon weight (as inscribed on the descriptive markings) multiplied by the number of reference wagons in the train (not exceeding 10 wagons) and rounded to the nearest scale interval, or
+- • 1 d for each wagon in the train but not exceeding 10 d.
+
+The maximum permissible errors on static weighing for increasing or decreasing loads shall be the appropriate values in Table 2.
+
+Table 2
+
+| Maximum permissible errors | Load (m) expressed in numbers of scale intervals |
+| --- | --- |
+| ±0.5d | 0 �?� m �?� 500 |
+| ±1.0d | 500 \< m �?� 2 000 |
+| ±1.5d | 2 000 \< m �?� 10 000 |
+
+### Scale interval (d) (Clause 2.3 of Part 1 of OIML R 106)
+
+For a particular method of weighing-in-motion and combination of load receptors, all weight indicating and printing devices on an automatic rail-weighbridge shall have the same scale interval.
+
+The relationship between the accuracy class, the scale interval and the maximum wagon weight divided by the scale interval shall be as specified in Table 3.
+
+Table 3
+
+<table>
+<tbody>
+<tr><th>Accuracy class</th><th>D (kg)</th><th colspan="2">(maximum wagon weight)/d</th></tr>
+<tr><th> </th><th> </th><th>minimum</th><th>maximum</th></tr>
+<tr><td>0.2</td><td>�?� 50</td><td>1 000</td><td>5 000</td></tr>
+<tr><td>0.5</td><td>�?� 100</td><td>500</td><td>2 500</td></tr>
+<tr><td>1</td><td>�?� 200</td><td>250</td><td>1 250</td></tr>
+<tr><td>2</td><td>�?� 500</td><td>100</td><td>600</td></tr>
+</tbody>
+</table>
+
+The scale intervals of the indicating or printing devices shall be in the form of 1 × 10<sup>k</sup>, 2 × 10<sup>k</sup> or 5 × 10<sup>k</sup>, “k” being a positive or a negative whole number or zero.
+
+*(This note is not part of the Regulations)*
+
+**1.** These Regulations implement, in Great Britain, International Recommendation OIML R 106 of the Organisation Internationale de Métrologie Légale relating to Automatic rail-weighbridges (Edition 1997 (E)), to the extent that the Recommendation applies to such instruments following the grant or renewal of a certificate of approval of a pattern by the Secretary of State under section 12 of the Weights and Measures Act 1985 (the 1985 Act).
+
+**2.** Regulation 3 applies the Regulations to “automatic rail-weighbridges” (or “instruments”) as defined in regulation 2(1) (in part by way of reference to the components described in Schedule 1). Such instruments are prescribed, by regulation 3(1), for the purposes of section 11(1) of the 1985 Act (certain equipment to be passed and stamped for use for trade). The Regulations do not apply in the circumstances described in regulation 3(2). There is a transitional exclusion set out in regulation 4(1) but this exclusion does not apply in the case of an automatic rail-weighbridge which bears the marking “R 106”.
+
+**3.** Regulation 5 sets out some general duties relating to the use for trade of an “automatic rail-weighbridge” in terms of erection and installation (Schedule 2), use and manner of use (Schedule 3) and when it is used as a non-automatic weighing instrument that serves to determine the mass of a load by using the action of gravity. Regulation 6 provides for certain requirements which must be satisfied before an “automatic rail-weighbridge” is passed as fit for use for trade for the purposes of the Regulations; these relate to compliance with a pattern in respect of which a “certificate of approval” remains in force, the application of descriptive markings in accordance with Schedule 4 and provisions in respect of initial verification testing in accordance with the procedure specified in clause 5.2 of Part 1 of OIML R 106 or on an equivalent basis. Regulation 7 and Schedule 5 incorporate some supplementary requirements relating to the testing, passing as fit for use for trade and stamping of any “automatic rail-weighbridge”. Regulation 8 makes provision for “automatic rail-weighbridges” imported from another EEA State into Great Britain not to be tested by an inspector when an inspector is presented with the “requisite documentation” (as defined in that regulation), unless he is not satisfied with that “requisite documentation”.
+
+**4.** Regulation 9 specifies circumstances where an inspector shall not pass an “automatic rail-weighbridge” as fit for use for trade, including a failure to comply with the prescribed limits of error in accordance with the provisions of regulation 9(3) and Schedule 6. Provision is also made, in regulation 9(2), for circumstances in which an “automatic rail-weighbridge” imported from another EEA State shall not be passed as fit for use for trade.
+
+**5.** Regulations 10–15 relate to the stamping and obliteration of stamps on “automatic rail-weighbridges”.
+
+**6.** Some supplementary definitions also appear in regulation 2(1).
+
+**7.** These Regulations have been notified to the European Commission and the other member States in accordance with Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034) of the European Parliament and of the Council (OJ No. L204, 21.7.98, p.37), as amended by Directive [98/48/EC](https://www.legislation.gov.uk/european/directive/1998/0048) of the European Parliament and of the Council (OJ No. L217, 5.8.98, p.18).
+
+**8.** Copies of the publications of the Organisation Internationale de Métrologie Légale (see definition of “OIML R 106” in regulation 2(1)) are available from the Organisation at 11 rue Turgot, Paris, 75009, France and from the National Weights and Measures Laboratory, Stanton Avenue, Teddington, Middlesex, TW11 OJZ.
+
+**9.** A Regulatory Impact Assessment in respect of these Regulations is available and a copy can be obtained from the National Weights and Measures Laboratory (an Executive Agency of the Department of Trade and Industry), Stanton Avenue, Teddington, Middlesex, TW11 OJZ. A copy has also been placed in the libraries of both Houses of Parliament.
+
+**10.** BS EN ISO/IEC 17025:2000 is available from any of the sales outlets operated by the British Standards Institution or from the British Standards Institution, Linford Wood, Milton Keynes, MK14 6LE.
+
+## Annotations
+
+[^c5083111]: Marginal citation: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72); a relevant amendment is [S.I. 1999/503](https://www.legislation.gov.uk/uksi/1999/503).
+
+[^c5083121]: Marginal citation: [S.I. 1963/1710](https://www.legislation.gov.uk/uksi/1963/1710); there are other amendments not relevant to these Regulations.
+
+[^c5083131]: Marginal citation: [S.I. 2003/2454](https://www.legislation.gov.uk/uksi/2003/2454).
+
+[^c5083141]: Marginal citation: See [S.I. 1968/1615](https://www.legislation.gov.uk/uksi/1968/1615), amended by [S.I. 1999/504](https://www.legislation.gov.uk/uksi/1999/504).
+
+[^c5083151]: Marginal citation: [S.I. 2000/932](https://www.legislation.gov.uk/uksi/2000/932).
+
+[^c5083161]: Marginal citation: [S.I. 2000/3236](https://www.legislation.gov.uk/uksi/2000/3236).
+
+[^key-d5d22e41480a9f8ee96d07e193337b91]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2003/2454/regulation/8) heading substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/13/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e6efe32b5a0669a84daa169353f9978b]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2003/2454/regulation/8/1) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 13(2)(b)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/13/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-86390053307c628d6fc93c5ea5d4dfdf]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2003/2454/regulation/8/2/a) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 13(2)(c)(i)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/13/2/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c5083171]: Marginal citation: BS EN ISO/IEC 17025:2000 is the international standard “General requirements for the competence of testing and calibration laboratories” (ISBN O 580 34929 2).
+
+[^key-16de22ab7698e82d59ebd1b05a579843]: Textual amendment: Words in [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2003/2454/regulation/8/2/b) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 13(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/13/2/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5aa1e54142ba642774391e92560a824e]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2003/2454/regulation/9/2) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 13(3)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/13/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c5083191]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
+
+[^key-cc437a309134a352ae6430777674da77]: Textual amendment: Words in Sch. 3 substituted (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 6 para. 9](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/9) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+
+[^key-5c6a6e3e0af9a0efdcbdc7f8267f1ee5]: Textual amendment: Words in Sch. 3 substituted (E.W.) (6.4.2010 immediately after S.I. 2009/3381 comes into force) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1), [Sch. 26 para. 19](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/19) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
+
+[^key-3025aabae2071eaaa606b5154cf6dc35]: Textual amendment: Words in Sch. 3 substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 11](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/11) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))

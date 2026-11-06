@@ -1,0 +1,95 @@
+---
+title: The Criminal Procedure Rules 2015, section 5
+act: The Criminal Procedure Rules 2015
+section: '5'
+status: repealed
+text_date: '2020-10-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2015/1490/section/5
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Criminal Procedure Rules 2015, section 5
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales.
+
+## 5.1. Applications, etc. by forms or electronic means[^key-c3278694665fae2038e68de7a743f0de]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5.2. Forms in Welsh[^key-c3278694665fae2038e68de7a743f0de]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5.3. Signature of forms[^key-c3278694665fae2038e68de7a743f0de]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5.4. Duty to make records[^key-c3278694665fae2038e68de7a743f0de]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5.5. Recording and transcription of proceedings in the Crown Court[^key-c3278694665fae2038e68de7a743f0de]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5.6. Custody of case materials[^key-c3278694665fae2038e68de7a743f0de]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5.7. Supply to a party of information or documents from records or case materials[^key-c3278694665fae2038e68de7a743f0de]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5.8. Supply to the public, including reporters, of information about cases[^key-c3278694665fae2038e68de7a743f0de]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5.9. Supply of written certificate or extract from records[^key-c3278694665fae2038e68de7a743f0de]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-c3278694665fae2038e68de7a743f0de]: Textual amendment: Rules revoked (5.10.2020) by [The Criminal Procedure Rules 2020 (S.I. 2020/759)](https://www.legislation.gov.uk/uksi/2020/759), [preamble](https://www.legislation.gov.uk/uksi/2020/759/introduction)
+
+    \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

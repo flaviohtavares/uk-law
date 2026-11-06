@@ -1,0 +1,23 @@
+---
+title: The National Health Service Pension Scheme (Amendment) Regulations 2014, section 43
+act: The National Health Service Pension Scheme (Amendment) Regulations 2014
+section: '43'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2014/570/section/43
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service Pension Scheme (Amendment) Regulations 2014, section 43
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 43. Amendment of regulation 3.C.4
+
+(1) Regulation 3.C.4 (guarantees, indemnities and bonds) is amended as follows.
+
+(2) In paragraph (1)(a), after “fails to pay contributions” insert “or has previously failed to pay contributions”;
+
+(3) In paragraph (2) after “liabilities of the authority”, insert “(or such liabilities as are specified by the Secretary of State)”.

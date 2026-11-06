@@ -1,0 +1,63 @@
+---
+title: Housing and Planning Act 2016, section 104
+act: Housing and Planning Act 2016
+section: '104'
+status: revised-with-pending-changes
+text_date: '2026-09-14'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2016/22/section/104
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing and Planning Act 2016, section 104
+
+> **Warning: changes not yet applied to this text (34).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 104. Winding-up orders[^key-3a1c5bbba9a184346aeccb7e253abf0a]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if a person other than the Secretary of State petitions for the winding-up of a registered provider that is—
+
+- (a) a company,
+- (aa)[^key-2b16c60a783064c4e5c6c2c39f668609] a limited liability partnership,
+- (b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, or
+- (c) a charitable incorporated organisation within the meaning of Part 11 of the Charities Act 2011.
+
+(2) The court may not exercise its powers on a winding-up petition unless—
+
+- (a) notice of the petition has been given to the Regulator of Social Housing and a period of at least 28 days has elapsed since that notice was given, or
+- (b) the Regulator of Social Housing has waived the notice requirement in paragraph (a).
+
+(2A)[^key-bdb7aa159911f6d7dd2033f09a39b61f] A notice under subsection (2) must—
+
+- (a) be given in writing,
+- (b) be signed by, or on behalf of, the petitioner,
+- (c) specify the date the petition was presented, and
+- (d) contain a copy of the petition.
+
+(2B) Subsection (2C) applies if a person gives a notice purporting to be a notice under subsection (2) but which does not meet the requirements of any (or all) of paragraphs (b), (c) or (d) of subsection (2A).
+
+(2C) The Regulator of Social Housing may, by notice in writing to the petitioner, treat the purported notice as notice given under subsection (2)(a) (and a purported notice so treated will be taken as having been given at the time the purported notice was given).
+
+(3) If an application for a housing administration order in relation to the registered provider is made to the court in accordance with section 99 before a winding-up order is made on the petition, the court may exercise its powers under section 100 (instead of exercising its powers on the petition).
+
+(4) The Regulator of Social Housing must give the Secretary of State a copy of any notice given under subsection (2)(a).
+
+(5) The Regulator of Social Housing may waive the notice requirement under subsection (2)(a) only with the consent of the Secretary of State.
+
+(6) References in this section to the court's powers on a winding-up petition are to—
+
+- (a) its powers under section 125 of the Insolvency Act 1986 (other than its power of adjournment), and
+- (b) its powers under section 135 of the Insolvency Act 1986.
+
+## Annotations
+
+[^key-3a1c5bbba9a184346aeccb7e253abf0a]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2016/22/section/104) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+
+[^key-2b16c60a783064c4e5c6c2c39f668609]: Textual amendment: [S. 104(1)(aa)](https://www.legislation.gov.uk/ukpga/2016/22/section/104/1/aa) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2023/36/schedule/1/paragraph/5); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(w)(ii)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/w/ii)
+
+[^key-bdb7aa159911f6d7dd2033f09a39b61f]: Textual amendment: [S. 104(2A)-(2C)](https://www.legislation.gov.uk/ukpga/2016/22/section/104/2A) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2023/36/schedule/2/paragraph/2); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/x)

@@ -1,0 +1,61 @@
+---
+title: Water Industry Act 1991, section 66AA
+act: Water Industry Act 1991
+section: 66AA
+status: revised-with-pending-changes
+text_date: '2026-10-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1991/56/section/66AA
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Water Industry Act 1991, section 66AA
+
+> **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 66AA. Water supply from water undertaker[^key-85d13c0878349b979aef627000cd07cf][^c19901941]
+
+*Extent: E+W*
+
+(1) This section applies where a water supply licensee with a retail authorisation (“L”) requests a water undertaker to provide L with a supply of water for the purpose of supplying water to premises that—
+
+- (a) L is to supply in accordance with L's retail authorisation, and
+- (b) are in the area of the undertaker.
+
+(2) This section also applies where a water supply licensee with a restricted retail authorisation (“R”) requests a water undertaker to provide R with a supply of water for the purpose of supplying water to premises that—
+
+- (a) R is to supply in accordance with R's restricted retail authorisation, and
+- (b) are in the area of the undertaker.
+
+(3) Where this section applies, the undertaker must in accordance with a section 66D agreement—
+
+- (a) take such steps in respect of the undertaker's supply system as may be provided for in that agreement in order to enable the use of the undertaker's supply system for the purpose in subsection (1) or, as the case may be, subsection (2), and
+- (b) having taken such steps, provide the requested supply of water.
+
+(4) A water undertaker is not required by this section to provide a supply of water if both of the first and second grounds apply.
+
+(5) The first ground is that—
+
+- (a) the premises to be supplied by L or, as the case may be, R do not consist in the whole or any part of a building, or
+- (b) the supply to be made by L or, as the case may be, R to those premises is for purposes other than domestic purposes.
+
+(6) The second ground is that provision of a supply of water by the water undertaker would—
+
+- (a) require the undertaker, in order to meet all its existing obligations to supply water for domestic or other purposes, together with its probable future obligations to supply buildings and parts of buildings with water for domestic purposes, to incur unreasonable expenditure in carrying out works, or
+- (b) otherwise put at risk its ability to meet any of the existing or probable future obligations mentioned in paragraph (a).
+
+(7) Where—
+
+- (a) a request has been made by a water supply licensee for the purposes of subsection (1) or (2), and
+- (b) the steps which the undertaker is required to take by virtue of that request include steps for the purpose of obtaining any necessary authority for, or agreement to, any exercise by it of any of its powers or the carrying out by it of any works,
+
+the failure of the undertaker to acquire the necessary authority or agreement does not affect the liability of the licensee to reimburse the undertaker in respect of some or all of the expenses incurred by it in taking those steps, if the section 66D agreement provides for such liability as regards those steps.
+
+## Annotations
+
+[^key-85d13c0878349b979aef627000cd07cf]: Textual amendment: S. 66A-66C and cross-heading substituted (1.4.2017 for the substitution of ss. 66A, 66AA, 66C) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/1); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/i) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2017/462/article/6), [12](https://www.legislation.gov.uk/uksi/2017/462/article/12))
+
+[^c19901941]: Textual amendment: Pt. 3 Ch. 2A inserted (1.4.2004 for specified provisions and purposes and 1.12.2005 otherwise) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 56](https://www.legislation.gov.uk/ukpga/2003/37/section/56), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/4/paragraph/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(l)](https://www.legislation.gov.uk/uksi/2004/641/article/3/l), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/641/schedule/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/641/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/641/schedule/3)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/a) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/2/paragraph/8))

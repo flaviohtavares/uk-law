@@ -1,0 +1,177 @@
+---
+title: The M6 Motorway (Junctions 16 to 19) (Variable Speed Limits) Regulations 2018
+id: uksi/2018/717
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-06-11'
+text_date: '2021-08-02'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2018/717
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2018/717/pdfs/uksiem_20180717_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/717/pdfs/uksi_20180717_en.pdf
+- http://www.legislation.gov.uk/uksi/2018/717/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The M6 Motorway (Junctions 16 to 19) (Variable Speed Limits) Regulations 2018
+
+> Text as at 2021-08-02.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2018 No. 717
+
+Road Traffic
+
+Special Roads
+
+The M6 Motorway (Junctions 16 to 19) (Variable Speed Limits) Regulations 2018
+
+Made
+
+11th June 2018
+
+Laid before Parliament
+
+15th June 2018
+
+Coming into force
+
+6th July 2018
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 17(2) and (3) of the Road Traffic Regulation Act 1984[^f00001].
+
+Representative organisations have been consulted in accordance with section 134(2) of that Act.
+
+## 1. Citation and commencement[^key-9001c6ac7a12d7a56728f8e859c6ab32]
+
+These Regulations may be cited as the M6 Motorway (Junctions 16 to 19) (Variable Speed Limits) Regulations 2018 and come into force on 6th July 2018.
+
+## 2. Interpretation[^key-2890040ffbbb92f2b04f10d1972c629b]
+
+In these Regulations—
+
+- “the 1982 Regulations” means the Motorways Traffic (England and Wales) Regulations 1982[^f00002];
+- “the 2016 Regulations and Directions” means the Traffic Signs Regulations and General Directions 2016[^f00003]; and
+- “carriageway”, “hard shoulder”, “motorway” and “verge” have the same meaning as in the 1982 Regulations.
+
+## 3. Variable speed limits[^key-f0ff2c659dc97622bfed2673e540ab7d]
+
+(1) No person shall drive a vehicle on a section of a road which is subject to a variable speed limit at a speed exceeding that indicated by a speed limit sign.
+
+(2) A section of a road is subject to a variable speed limit in relation to a vehicle being driven along it if—
+
+- (a) the road is specified in the Schedule;
+- (b) the vehicle has passed a speed limit sign; and
+- (c) the vehicle has not subsequently passed—
+  - (i) another speed limit sign indicating a different speed limit; or
+  - (ii) a traffic sign which indicates that the national speed limit is in force.
+
+(3) In relation to a vehicle, the speed limit indicated by a speed limit sign is the speed shown at the time the vehicle passes the sign, or, if higher, the speed limit shown by the sign ten seconds before the vehicle passed the sign.
+
+(4) For the purposes of this regulation a speed limit sign is to be taken as not indicating any speed limit if, ten seconds before the vehicle passed it, the sign had indicated no speed limit or that the national speed limit was in force.
+
+(5) In this regulation—
+
+- “national speed limit” has the meaning given by Schedule 1 to the 2016 Regulations and Directions and a traffic sign which indicates that the national speed limit is in force means a traffic sign of the type shown in diagram 671 in Part 2 of Schedule 10 to the 2016 Regulations and Directions which is—
+  - (a) placed on or near a road; and
+  - (b) directed at traffic on the carriageway on which the vehicle is being driven;
+- “road” includes the adjacent hard shoulder and verge; and
+- “speed limit sign” in relation to a vehicle, means a traffic sign of the type shown in diagram 670 in Part 2 of Schedule 10 to the 2016 Regulations and Directions which is—
+  - (a) situated on or near any part of a road specified in paragraph 1 of the Schedule; and
+  - (b) directed at traffic on the carriageway on which the vehicle is being driven.
+
+Signed by authority of the Secretary of State for Transport
+
+Jesse Norman
+
+Parliamentary Under Secretary of State
+
+Department for Transport
+
+## SCHEDULE — THE SPECIFIED ROADS
+
+Regulation 3(2)(a)
+
+**1.**[^key-f6fa1b1021836ae241db787e0707ef64] The specified roads are—
+
+- (a) that length of the northbound carriageway of the M6 beginning at junction 16 at a point which is 210 metres south of the southern bridge deck edge of the southern bridge deck and ending at junction 19 at a point which is 80 metres north-west of the north-western edge of the north-western bridge carrying the gyratory known as Tabley Interchange over the M6;
+- (b) that length of the southbound carriageway of the M6 beginning at junction 19 at a point which is 745 metres north-west of the north-western edge of the north-western bridge carrying the gyratory known as Tabley Interchange over the M6 and ending at junction 16 at a point which is 80 metres south of the southern bridge deck edge of the southern bridge deck; and
+- (c) the carriageways of the slip roads referred to in paragraph 4.
+
+**2.**[^key-1711ddba9360fb864e1b47396ef0fd3c] Any reference in this Schedule to—
+
+- (a) the letter “A” followed by a number is a reference to the road known by that name; and
+- (b) a junction followed by a number is a reference to the junction of the M6 of that number.
+
+**3.**[^key-d0cc30ea01e616ccd0fdc824065f100f] In this Schedule—
+
+- “back”, in relation to a nose, means the shortest side of a nose;[^key-412cae40c64fc471dd33bb47a2a40c0d]
+- “bridge deck” means those parts of the M6 which span the gyratory known as Barthomley Interchange at junction 16;
+- “bridge deck edge” means a joint which separates a bridge deck from another part of the M6;
+- “diverge nose” means a nose between the main carriageway of a motorway and an off-slip road;
+- “M6” means the M6 motorway;
+- “nose” means a paved piece of land approximately triangular in shape which is marked with road markings of a type shown in diagram 1042 in Part 6 of Schedule 9 to the 2016 Regulations and Directions;
+- “off-slip road” means a slip road intended for the use of traffic exiting the M6;
+- “on-slip road” means a slip road intended for the use of traffic entering the M6; and
+- “slip road” means a road which connects the M6 with another road.
+
+**4.**[^key-5965ea8b8b8c08d787bf65a7c6e25df1] The slip roads to which this paragraph refers are—
+
+- (a) at junction 16, the on-slip roads connecting from, and the off-slip roads connecting to, the A500;
+- (b) between junction 16 and junction 17, the on-slip roads connecting from, and the off-slip roads connecting to, the Sandbach Services motorway services area;
+- (c) at junction 17, the on-slip roads connecting from, and the off-slip roads connecting to, the A534;
+- (d) at junction 18, the on-slip roads connecting from, and the off-slip roads connecting to, the A54;
+- (e) between junction 18 and junction 19, the on-slip roads connecting from, and the off-slip roads connecting to, the Knutsford Services motorway services area; and
+- (f)[^key-75ae5314492ef1796367eadf11389eba] at junction 19–
+  - (i) the on-slip roads connecting from the A556;
+  - (ii) that length of the off-slip road connecting from the northbound carriageway to the A556 beginning at the diverge from the northbound carriageway and ending at a point which is 89 metres from the back of the diverge nose; and
+  - (iii) that length of the off-slip road connecting from the southbound carriageway to the A556 beginning at the diverge from the southbound carriageway and ending at a point which is 88 metres from the back of the diverge nose.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations introduce variable speed limits to—
+
+- (a) the northbound and the southbound carriageways of the M6 motorway between junctions 16 and 19; and
+- (b) certain roads for joining and for leaving the motorway at and between those junctions.
+
+Regulation 3 provides for variable speed limits to have effect on the roads specified in paragraph 1 of the Schedule. Where variable speed limit signs are in operation a vehicle may not be driven at a speed above the maximum indicated by each speed limit sign passed by a vehicle, until it passes a sign indicating that the national speed limit applies or the vehicle leaves the roads covered by the regulation. Where a speed limit changes less than ten seconds before a vehicle passes the sign and the sign had indicated a higher speed limit, the regulation allows the driver to proceed at a speed up to the maximum applicable before the change. Where the speed limit sign indicates a speed limit when it is passed by a vehicle but less than ten seconds previously it was either giving no indication of a speed limit or that the national speed limit applied, the sign is to be taken as giving no indication of a speed limit to the vehicle passing it.
+
+Contravention of these Regulations is an offence under section 17(4) of the Road Traffic Regulation Act 1984.
+
+An impact assessment has not been prepared for these Regulations as no impact on the cost of business or the voluntary sector is foreseen. An Explanatory Memorandum is published alongside the Regulations at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27); section 17(2) was amended by the New Roads and Street Works Act [1991 (c.22)](https://www.legislation.gov.uk/ukpga/1991/22), Schedule 8, Part 2, paragraph 28(3); section 17(2)(b) was amended by the Road Traffic Act [1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 8; section 17(2)(d) was inserted by the Road Traffic Act [1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 4, paragraph 25. There are other amendments to sections 17 and 134 which are not relevant to these Regulations.
+
+[^key-9001c6ac7a12d7a56728f8e859c6ab32]: Commencement: Reg. 1 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
+
+[^key-2890040ffbbb92f2b04f10d1972c629b]: Commencement: Reg. 2 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
+
+[^f00002]: Footnote: [S.I. 1982/1163](https://www.legislation.gov.uk/uksi/1982/1163), relevant amending instruments are [S.I. 1983/374](https://www.legislation.gov.uk/uksi/1983/374), [1984/1479](https://www.legislation.gov.uk/uksi/1984/1479), [1992/1364](https://www.legislation.gov.uk/uksi/1992/1364), [2004/3258](https://www.legislation.gov.uk/uksi/2004/3258), [2015/392](https://www.legislation.gov.uk/uksi/2015/392).
+
+[^f00003]: Footnote: [S.I. 2016/362](https://www.legislation.gov.uk/uksi/2016/362), to which there is an amendment not relevant to these Regulations.
+
+[^key-f0ff2c659dc97622bfed2673e540ab7d]: Commencement: Reg. 3 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
+
+[^key-f6fa1b1021836ae241db787e0707ef64]: Commencement: Sch. para. 1 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
+
+[^key-1711ddba9360fb864e1b47396ef0fd3c]: Commencement: Sch. para. 2 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
+
+[^key-d0cc30ea01e616ccd0fdc824065f100f]: Commencement: Sch. para. 3 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
+
+[^key-412cae40c64fc471dd33bb47a2a40c0d]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/717/schedule/paragraph/3) inserted (2.8.2021) by [The M6 Motorway (Junction 19) (40 Miles Per Hour Speed Limit) Regulations 2021 (S.I. 2021/824)](https://www.legislation.gov.uk/uksi/2021/824), [regs. 1](https://www.legislation.gov.uk/uksi/2021/824/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/824/regulation/4/2)
+
+[^key-5965ea8b8b8c08d787bf65a7c6e25df1]: Commencement: Sch. para. 4 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
+
+[^key-75ae5314492ef1796367eadf11389eba]: Textual amendment: [Sch. para. 4(f)](https://www.legislation.gov.uk/uksi/2018/717/schedule/paragraph/4/f) substituted (2.8.2021) by [The M6 Motorway (Junction 19) (40 Miles Per Hour Speed Limit) Regulations 2021 (S.I. 2021/824)](https://www.legislation.gov.uk/uksi/2021/824), [regs. 1](https://www.legislation.gov.uk/uksi/2021/824/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/824/regulation/4/3)

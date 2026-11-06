@@ -1,0 +1,29 @@
+---
+title: Health and Social Care Act 2012, section 297
+act: Health and Social Care Act 2012
+section: '297'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2012/7/section/297
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Health and Social Care Act 2012, section 297
+
+> **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 297. Relationships between the health services[^key-49fd7e15e8dac5d54457d50f03ea7f7b][^key-3a807450bfacbffd1085b96907800aff]
+
+*Extent: E+W*
+
+Schedule 21 (which amends enactments relating to the relationships between the health services in the United Kingdom) has effect.
+
+## Annotations
+
+[^key-49fd7e15e8dac5d54457d50f03ea7f7b]: Commencement: [S. 297](https://www.legislation.gov.uk/ukpga/2012/7/section/297) in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+
+[^key-3a807450bfacbffd1085b96907800aff]: Commencement: [S. 297](https://www.legislation.gov.uk/ukpga/2012/7/section/297) in force at 1.4.2013 for specified purposes by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

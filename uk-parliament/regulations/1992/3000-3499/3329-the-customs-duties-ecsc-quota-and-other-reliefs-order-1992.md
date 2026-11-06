@@ -1,0 +1,523 @@
+---
+title: The Customs Duties (ECSC) (Quota and other Reliefs) Order 1992
+id: uksi/1992/3329
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1992-12-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1992/3329
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1992/3329/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Customs Duties (ECSC) (Quota and other Reliefs) Order 1992
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1992 No. 3329
+
+CUSTOMS AND EXCISE
+
+The Customs Duties (ECSC) (Quota and other Reliefs) Order 1992
+
+Made
+
+30th December 1992
+
+Laid before the House of Commons
+
+31st December 1992
+
+Coming into force
+
+1st January 1993
+
+The Secretary of State, in exercise of the powers conferred on him by sections 1 and 4 of the Customs and Excise Duties (General Reliefs) Act 1979[^f00001], hereby makes the following Order:
+
+**1.** (1) This Order may be cited as the Customs Duties (ECSC) (Quota and other Reliefs) Order 1992 and shall come into force on 1st January 1993.
+
+(2) In this Order—
+
+- references to a heading or subheading are references to a heading or subheading in the Combined Nomenclature of the European Economic Community[^f00002];
+- references to customs duty are references to duty charged by the Customs Duties (ECSC) Order 1987[^f00003] in relation to the goods; and
+- “the EEC Regulation” means Commission Regulation (EEC) No.693/88[^f00004].
+
+**2.** (1) Up to and including 31st December 1993, no customs duty shall be charged on goods—
+
+- (a) which fall within a heading or subheading in Part I of Schedule 1 hereto (certain iron and steel products) and
+- (b) which originate in any country named in Schedule 2 hereto other than a country named in column 2 of Part III of Schedule 1 hereto in relation to that heading or subheading as specified in column 1 thereof.
+
+This paragraph shall not apply in respect of goods falling within a heading or subheading indicated with an asterisk in Part I of Schedule 1 to this Order originating in China, nor in respect of goods originating in Romania.
+
+(2) Up to and including 31st December 1993, no customs duty shall be charged on goods—
+
+- (a) which fall within a heading or subheading specified in Part II of Schedule 1 hereto (certain iron and steel products) and
+- (b) which originate in a country named in Schedule 2 hereto.
+
+This paragraph shall not apply in respect of goods falling within a heading or subheading indicated with an asterisk in Part II of Schedule 1 to this Order originating in Romania.
+
+(3) Paragraphs (1) and (2) above shall only apply to goods in respect of which an importer delivers an entry thereof for free circulation (within the meaning of regulation 5 of the Customs Controls on Importation of Goods Regulations 1991[^f00005] and Chapter 2 of Title V of Commission Regulation [(EEC) No. 2561/90](https://www.legislation.gov.uk/european/regulation/1990/2561)[^f00006]) containing an application for relief from customs duty in the United Kingdom on or after 1st January 1993 accompanied by such documents as may be required under the provisions of the EEC Regulation.
+
+**3.** (1) Up to and including 31st December 1993, no customs duty shall be charged on goods falling within a heading or subheading in column 1 of Part III of Schedule 1 hereto (certain iron and steel products) which originate in a country named in column 2 in relation to that heading or subheading if they form part of the relevant quota.
+
+(2) For the purposes of paragraph (1) of this article the “relevant quota” in relation to any heading or subheading means the amount (expressed as a value in pounds) of goods specified in column 3 of Part III of Schedule 1 hereto in relation to the heading or subheading in respect of each of the countries named in column 2 in relation to that heading or subheading.
+
+(3) Subject to paragraphs (4) and (5) of this article, goods shall be treated as forming part of the relevant quota in the order in which an entry thereof for free circulation (within the meaning described in article 2(3) above) is accepted on or after the date of the opening of the quota, being an entry containing an application for relief from customs duty accompanied by such documents as may be required under the provisions of the EEC Regulation.
+
+(4) The Commissioners may delay the acceptance of an application for relief from duty in respect of any goods for the purposes of paragraph (3) above for any period not exceeding 7 days from the date of the opening of the quota, and in such a case may, if the amount of the quota is smaller than the total amount of the goods in respect of which applications are made during that period, allocate the quota proportionally among all the applicants whose applications are accepted.
+
+(5) Goods shall not be treated as forming part of the relevant quota if customs duty would not otherwise be chargeable or would not be chargeable at a higher rate than that applying within the quota.
+
+**4.** For the purpose of this Order goods shall be treated as originating in a country named in column 2 of Part III of Schedule 1 or in Schedule 2 hereto if they are to be regarded as so originating by virtue of the EEC Regulation.
+
+Tim Sainsbury
+
+Minister for Industry on behalf of the Minister for Trade,
+
+Department of Trade and Industry
+
+30th December 1992
+
+## SCHEDULE 1
+
+Article 2(1)
+
+### PART I — COMBINED NOMENCLATURE HEADINGS
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| 7207.11-19 | 7216.22-00 | 7209.24-10\* | 7213.20-00 | 7224.90-08 |
+| 7207.12-10 | 7216.31-11 | 7209.24-91\* | 7213.50-10 | 7224.90-15 |
+| 7207.20-15 | 7216.31-19 | 7209.24-99\* | 7213.50-90 | 7224.90-31 |
+| 7207.20-32 | 7216.31-91 | 7209.32-10\* | 7214.30-00 | 7224.90-39 |
+| 7208.11-00\* | 7216.31-99 | 7209.32-90\* | 7214.60-00 | 7225.10-10 |
+| 7208.12-10\* | 7216.32-11 | 7209.33-10\* | 7218.90-11 | 7225.10-91 |
+| 7208.12-91\* | 7216.32-19 | 7209.33-90\* | 7218.90-13 | 7225.10-99 |
+| 7208.12-95\* | 7216.32-91 | 7209.34-10\* | 7218.90-15 | 7225.20-20 |
+| 7208.12-98\* | 7216.32-99 | 7209.34-90\* | 7218.90-19 | 7225.30-00 |
+| 7208.13-10\* | 7216.33-10 | 7209.42-10\* | 7218.90-50 | 7225.40-10 |
+| 7208.13-91\* | 7216.33-90 | 7209.42-90\* | 7219.11-10 | 7225.40-30 |
+| 7208.13-95\* | 7216.40-10 | 7209.43-10\* | 7219.11-90 | 7225.40-50 |
+| 7208.13-98\* | 7216.40-90 | 7209.43-90\* | 7219.12-10 | 7225.40-70 |
+| 7208.14-10\* | 7216.50-10 | 7209.44-10\* | 7219.12-90 | 7225.40-90 |
+| 7208.14-91\* | 7216.50-90 | 7209.44-90\* | 7219.13-10 | 7225.50-10 |
+| 7208.14-99\* | 7216.90-10 | 7209.90-10\* | 7219.13-90 | 7225.50-90 |
+| 7208.21-10\* | 7301.10-00 | 7210.11-10\* | 7219.14-10 | 7225.90-10 |
+| 7208.21-90\* | 7208.32-10\* | 7210.12-11\* | 7219.14-90 | 7226.10-10 |
+| 7208.22-10\* | 7208.32-30\* | 7210.12-19\* | 7219.21-11 | 7226.10-30 |
+| 7208.22-91\* | 7208.32-51\* | 7210.20-10\* | 7219.21-19 | 7226.20-20 |
+| 7208.22-95\* | 7208.32-59\* | 7210.31-10\* | 7219.21-90 | 7226.91-10 |
+| 7208.22-98\* | 7208.32-91\* | 7210.39-10\* | 7219.22-10 | 7226.91-90 |
+| 7208.23-10\* | 7208.32-99\* | 7210.41-10\* | 7219.22-90 | 7226.92-10 |
+| 7208.23-91\* | 7208.33-10\* | 7210.49-10\* | 7219.23-10 | 7226.99-20 |
+| 7208.23-95\* | 7208.33-91\* | 7210.50-10\* | 7219.23-90 | 7227 |
+| 7208.23-98\* | 7208.33-99\* | 7210.60-11\* | 7219.24-10 | 7228.10-10 |
+| 7208.24-10\* | 7208.34-10\* | 7210.60-19\* | 7219.24-90 | 7228.10-30 |
+| 7208.24-91\* | 7208.34-90\* | 7210.70-31\* | 7219.33-10 | 7228.20-11 |
+| 7208.24-99\* | 7208.35-10\* | 7210.70-39\* | 7219.33-90 | 7228.20-19 |
+| 7211.12-10\* | 7208.42-10\* | 7210.90-31\* | 7219.34-10 | 7228.20-30 |
+| 7211.19-10\* | 7208.42-30\* | 7210.90-33\* | 7219.34-90 | 7228.30 |
+| 7211.22-10\* | 7208.42-51\* | 7210.90-35\* | 7219.35-10 | 7228.60-10 |
+| 7211.29-10\* | 7208.42-59\* | 7210.90-39\* | 7219.35-90 | 7228.70-10 |
+| 7207.19-15\* | 7208.42-91\* | 7211.30-10\* | 7219.90-11 | 7228.70-31 |
+| 7207.20-55\* | 7208.42-99\* | 7211.41-10\* | 7219.90-19 | 7228.80-10 |
+| 7213.10-00\* | 7208.43-10\* | 7211.49-10\* | 7220.11-00 |  |
+| 7213.31-00\* | 7208.43-91\* | 7211.90-11\* | 7220.12-00 |  |
+| 7213.39-00\* | 7208.43-99\* | 7212.10-10\* | 7220.20-10 |  |
+| 7213.41-00\* | 7208.44-10\* | 7212.10-91\* | 7220.90-11 |  |
+| 7213.49-00\* | 7208.44-90\* | 7212.21-11\* | 7220.90-31 |  |
+| 7214.20-00\* | 7208.45-10\* | 7212.29-11\* | 7221.00-10 |  |
+| 7214.40-10\* | 7208.45-90\* | 7212.30-11\* | 7221.00-90 |  |
+| 7214.40-91\* | 7208.90-10\* | 7212.40-10\* | 7222.10-11 |  |
+| 7214.40-99\* | 7209.12-10\* | 7212.40-91\* | 7222.10-19 |  |
+| 7214.50-10\* | 7209.12-90\* | 7212.50-31\* | 7222.10-51 |  |
+| 7214.50-91\* | 7209.13-10\* | 7212.50-51\* | 7222.10-59 |  |
+| 7214.50-99\* | 7209.13-90\* | 7212.60-11\* | 7222.10-99 |  |
+| 7215.90-10\* | 7209.14-10\* | 7207.11-11 | 7222.30-10 |  |
+| 7228.80-90\* | 7209.14-90\* | 7207.19-11 | 7222.40-11 |  |
+| 7207.19-31 | 7209.22-10\* | 7207.20-11 | 7222.40-19 |  |
+| 7207.20-71 | 7209.22-90\* | 7207.20-17 | 7222.40-30 |  |
+| 7216.10-00 | 7209.23-10\* | 7207.20-51 | 7224.90-01 |  |
+| 7216.21-00 | 7209.23-90\* | 7207.20-57 | 7224.90-05 |  |
+
+### PART II — COMBINED NOMENCLATURE HEADINGS
+
+Article 2(2)
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| 7208.31-00\* | 7211.19-99\* | 7212.60-91\* | 7219.31-10 | 7302.10-39\* |
+| 7208.41-00\* | 7211.22-90\* | 7209.11-00 | 7219.31-90 | 7302.10-90\* |
+| 7211.11-00\* | 7211.29-91\* | 7209.21-00 | 7219.32-10 | 7302.20-00\* |
+| 7211.21-00\* | 7211.29-99\* | 7209.31-00 | 7219.32-90 | 7302.40-10\* |
+| 7211.12-90\* | 7211.41-91\* | 7209.41-00 | 7302.10-31\* | 7302.90-10\* |
+| 7211.19-91\* |  |  |  |  |
+
+### PART III
+
+Article 3
+
+<table>
+<thead>
+<tr><th><em>(1)</em></th><th><em>(2)</em></th><th><em>(3)</em></th></tr>
+<tr><th>Combined Nomenclature headings</th><th>Country of Origin</th><th>Amount of Quotas</th></tr>
+</thead>
+<tbody>
+<tr><td>7208.11-00</td><td>Brazil</td><td>£495,589</td></tr>
+<tr><td>7208.12-10</td><td>Republic of Korea</td></tr>
+<tr><td>7208.12-91</td><td>Venezuela</td></tr>
+<tr><td>7208.12-95</td></tr>
+<tr><td>7208.12-98</td></tr>
+<tr><td>7208.13-10</td></tr>
+<tr><td>7208.13-91</td></tr>
+<tr><td>7208.13-95</td></tr>
+<tr><td>7208.13-98</td></tr>
+<tr><td>7208.14-10</td></tr>
+<tr><td>7208.14-91</td></tr>
+<tr><td>7208.14-99</td></tr>
+<tr><td>7208.21-10</td></tr>
+<tr><td>7208.21-90</td></tr>
+<tr><td>7208.22-10</td></tr>
+<tr><td>7208.22-91</td></tr>
+<tr><td>7208.22-95</td></tr>
+<tr><td>7208.22-98</td></tr>
+<tr><td>7208.23-10</td></tr>
+<tr><td>7208.23-91</td></tr>
+<tr><td>7208.23-95</td></tr>
+<tr><td>7208.23-98</td></tr>
+<tr><td>7208.24-10</td></tr>
+<tr><td>7208.24-91</td></tr>
+<tr><td>7208.24-99</td></tr>
+<tr><td>7211.12-10</td></tr>
+<tr><td>7211.19-10</td></tr>
+<tr><td>7211.22-10</td></tr>
+<tr><td>7211.29-10</td></tr>
+<tr><td>7207.19-15</td><td>Argentina</td><td>£307,154</td></tr>
+<tr><td>7207.20-55</td><td>Brazil</td></tr>
+<tr><td>7213.10-00</td><td>Venezuela</td></tr>
+<tr><td>7213.31-00</td></tr>
+<tr><td>7213.39-00</td></tr>
+<tr><td>7213.41-00</td></tr>
+<tr><td>7213.49-00</td></tr>
+<tr><td>7214.20-00</td></tr>
+<tr><td>7214.40-10</td></tr>
+<tr><td>7214.40-91</td></tr>
+<tr><td>7214.40-99</td></tr>
+<tr><td>7214.50-10</td></tr>
+<tr><td>7214.50-91</td></tr>
+<tr><td>7217.50-99</td></tr>
+<tr><td>7215.90-10</td></tr>
+<tr><td>7228.80-90</td></tr>
+<tr><td>7208.32-10</td><td>Argentina</td><td>£841,939</td></tr>
+<tr><td>7208.32-30</td><td>Brazil</td></tr>
+<tr><td>7208.32-51</td><td>Republic of Korea</td></tr>
+<tr><td>7208.32-59</td></tr>
+<tr><td>7208.32-91</td></tr>
+<tr><td>7208.32-99</td></tr>
+<tr><td>7208.33-10</td></tr>
+<tr><td>7208.33-91</td></tr>
+<tr><td>7208.33-99</td></tr>
+<tr><td>7208.34-10</td></tr>
+<tr><td>7208.34-90</td></tr>
+<tr><td>7208.35-10</td></tr>
+<tr><td>7208.35-90</td></tr>
+<tr><td>7208.42-10</td></tr>
+<tr><td>7208.42-30</td></tr>
+<tr><td>7208.42-51</td></tr>
+<tr><td>7208.42-59</td></tr>
+<tr><td>7208.42-91</td></tr>
+<tr><td>7208.42-99</td></tr>
+<tr><td>7208.43-10</td></tr>
+<tr><td>7208.43-91</td></tr>
+<tr><td>7208.43-99</td></tr>
+<tr><td>7208.44-10</td></tr>
+<tr><td>7208.44-90</td></tr>
+<tr><td>7208.45-10</td></tr>
+<tr><td>7208.45-90</td></tr>
+<tr><td>7208.90-10</td></tr>
+<tr><td>7209.12-10</td></tr>
+<tr><td>7209.12-90</td></tr>
+<tr><td>7209.13-10</td></tr>
+<tr><td>7209.13-90</td></tr>
+<tr><td>7209.14-10</td></tr>
+<tr><td>7209.14-90</td></tr>
+<tr><td>7209.22-10</td></tr>
+<tr><td>7209.22-90</td></tr>
+<tr><td>7209.23-10</td></tr>
+<tr><td>7209.23-90</td></tr>
+<tr><td>7209.24-10</td></tr>
+<tr><td>7209.24-91</td></tr>
+<tr><td>7209.24-99</td></tr>
+<tr><td>7209.32-10</td></tr>
+<tr><td>7209.32-90</td></tr>
+<tr><td>7209.33-10</td></tr>
+<tr><td>7209.33-90</td></tr>
+<tr><td>7209.34-10</td></tr>
+<tr><td>7209.34-90</td></tr>
+<tr><td>7209.42-10</td></tr>
+<tr><td>7209.42-90</td></tr>
+<tr><td>7209.43-10</td></tr>
+<tr><td>7209.43-90</td></tr>
+<tr><td>7209.44-10</td></tr>
+<tr><td>7209.44-90</td></tr>
+<tr><td>7209.90-10</td></tr>
+<tr><td>7210.11-10</td></tr>
+<tr><td>7210.12-11</td></tr>
+<tr><td>7210.12-19</td></tr>
+<tr><td>7210.20-10</td></tr>
+<tr><td>7210.31-10</td></tr>
+<tr><td>7210.39-10</td></tr>
+<tr><td>7210.41-10</td></tr>
+<tr><td>7210.49-10</td></tr>
+<tr><td>7210.50-10</td></tr>
+<tr><td>7210.60-11</td></tr>
+<tr><td>7210.60-19</td></tr>
+<tr><td>7210.70-31</td></tr>
+<tr><td>7210.70-39</td></tr>
+<tr><td>7210.90-31</td></tr>
+<tr><td>7210.90-33</td></tr>
+<tr><td>7210.90-35</td></tr>
+<tr><td>7210.90-39</td></tr>
+<tr><td>7211.30-10</td></tr>
+<tr><td>7211.41-10</td></tr>
+<tr><td>7211.49-10</td></tr>
+<tr><td>7211.90-11</td></tr>
+<tr><td>7212.10-10</td></tr>
+<tr><td>7212.10-91</td></tr>
+<tr><td>7212.21-11</td></tr>
+<tr><td>7212.29-11</td></tr>
+<tr><td>7212.30-11</td></tr>
+<tr><td>7212.40-10</td></tr>
+<tr><td>7212.40-91</td></tr>
+<tr><td>7212.50-31</td></tr>
+<tr><td>7212.50-51</td></tr>
+<tr><td>7212.60-11</td></tr>
+<tr><td>7207.11-11</td><td>Brazil</td><td>£851,752</td></tr>
+<tr><td>7207.19-11</td><td>Republic of Korea</td></tr>
+<tr><td>7207.20-11</td></tr>
+<tr><td>7207.20-17</td></tr>
+<tr><td>7207.20-51</td></tr>
+<tr><td>7207.20-57</td></tr>
+<tr><td>7213.20-00</td></tr>
+<tr><td>7213.50-10</td></tr>
+<tr><td>7213.50-90</td></tr>
+<tr><td>7214.30-00</td></tr>
+<tr><td>7214.60-00</td></tr>
+<tr><td>7218.90-11</td></tr>
+<tr><td>7218.90-13</td></tr>
+<tr><td>7218.90-15</td></tr>
+<tr><td>7218.90-19</td></tr>
+<tr><td>7218.90-50</td></tr>
+<tr><td>7219.11-10</td></tr>
+<tr><td>7219.11-90</td></tr>
+<tr><td>721.12-10</td></tr>
+<tr><td>7219.12-90</td></tr>
+<tr><td>7219.13-10</td></tr>
+<tr><td>7219.13-90</td></tr>
+<tr><td>7219.14-10</td></tr>
+<tr><td>7219.14-90</td></tr>
+<tr><td>7219.21-11</td></tr>
+<tr><td>7219.21-19</td></tr>
+<tr><td>7219.21-90</td></tr>
+<tr><td>7219.22-10</td></tr>
+<tr><td>7219.22-90</td></tr>
+<tr><td>7219.23-10</td></tr>
+<tr><td>7219.23-90</td></tr>
+<tr><td>7219.24-10</td></tr>
+<tr><td>7219.24-90</td></tr>
+<tr><td>7219.33-10</td></tr>
+<tr><td>7219.33-90</td></tr>
+<tr><td>7219.34-10</td></tr>
+<tr><td>7219.34-90</td></tr>
+<tr><td>7219.35-10</td></tr>
+<tr><td>7219.35-90</td></tr>
+<tr><td>7219.90-11</td></tr>
+<tr><td>7219.90-19</td></tr>
+<tr><td>7220.11-00</td></tr>
+<tr><td>7220.12-00</td></tr>
+<tr><td>7220.20-10</td></tr>
+<tr><td>7220.90-11</td></tr>
+<tr><td>7220.90-31</td></tr>
+<tr><td>7221.00-10</td></tr>
+<tr><td>7221.00-90</td></tr>
+<tr><td>7222.10-11</td></tr>
+<tr><td>7222.10-19</td></tr>
+<tr><td>7222.10-51</td></tr>
+<tr><td>7222.10-59</td></tr>
+<tr><td>7222.10-99</td></tr>
+<tr><td>7222.30-10</td></tr>
+<tr><td>7222.40-11</td></tr>
+<tr><td>7222.40-19</td></tr>
+<tr><td>7222.40-30</td></tr>
+<tr><td>7224.90-01</td></tr>
+<tr><td>7224.90-05</td></tr>
+<tr><td>7224.90-08</td></tr>
+<tr><td>7224.90-15</td></tr>
+<tr><td>7224.90-31</td></tr>
+<tr><td>7224.90-39</td></tr>
+<tr><td>7225.10-10</td></tr>
+<tr><td>7225.10-91</td></tr>
+<tr><td>7225.10-99</td></tr>
+<tr><td>7225.20-20</td></tr>
+<tr><td>7225.30-00</td></tr>
+<tr><td>7225.40-10</td></tr>
+<tr><td>7225.40-30</td></tr>
+<tr><td>7225.40-50</td></tr>
+<tr><td>7225.40-70</td></tr>
+<tr><td>7225.40-90</td></tr>
+<tr><td>7225.50-10</td></tr>
+<tr><td>7225.50-90</td></tr>
+<tr><td>7225.90-10</td></tr>
+<tr><td>7226.10-10</td></tr>
+<tr><td>7226.10-30</td></tr>
+<tr><td>7226.20-20</td></tr>
+<tr><td>7226.91-10</td></tr>
+<tr><td>7226.91-90</td></tr>
+<tr><td>7226.92-10</td></tr>
+<tr><td>7226.99-20</td></tr>
+<tr><td>7227</td></tr>
+<tr><td>7228.10-10</td></tr>
+<tr><td>7228.10-30</td></tr>
+<tr><td>7228.20-11</td></tr>
+<tr><td>7228.20-19</td></tr>
+<tr><td>7228.20-30</td></tr>
+<tr><td>7228.30</td></tr>
+<tr><td>7228.60-10</td></tr>
+<tr><td>7228.70-10</td></tr>
+<tr><td>7228.70-31</td></tr>
+<tr><td>7228.80-10</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2
+
+### PART I — INDEPENDENT COUNTRIES
+
+|  |  |
+| --- | --- |
+| Afghanistan | Madagascar |
+| Algeria | Malawi |
+| Angola | Malaysia |
+| Antigua and Barbuda | Maldives, Republic of |
+| Argentina | Mali |
+| Bahamas | Marshall Islands, Republic of |
+| Bahrain | Mauritania |
+| Bangladesh | Mauritius |
+| Barbados | Mexico |
+| Belize | Micronesia, Federated States of |
+| Benin | Mongolia |
+| Bhutan | Morocco |
+| Bolivia | Mozambique |
+| Botswana | Namibia |
+| Brazil | Nauru |
+| Brunei Darussalam | Nepal |
+| Burkina Faso | Nicaragua |
+| Burma | Niger |
+| Burundi | Nigeria |
+| Cambodia | Oman |
+| Cameroon | Pakistan |
+| Cape Verde, Republic of | Palau, Republic of |
+| Central African Republic | Panama |
+| Chad | Papua New Guinea |
+| Chile | Paraguay |
+| China | Peru |
+| Columbia | Philippines |
+| Comoros | Qatar |
+| Congo, Peoples' Republic of | Republic of Korea |
+| Costa Rica | Romania |
+| Cuba | Rwanda |
+| Cyprus | Sao Tome and Principe |
+| Djibouti | Saudi Arabia |
+| Dominica | Senegal |
+| Dominican Republic | Seychelles and Dependencies |
+| Ecuador | Sierra Leone |
+| Egypt | Singapore |
+| El Salvador | Solomon Islands |
+| Equatorial Guinea | Somalia |
+| Ethiopia | Sri Lanka |
+| Fiji | St Christopher and Nevis, Federation of |
+| Gabon | St Lucia |
+| Gambia | St Vincent |
+| Ghana | Sudan |
+| Grenada | Surinam |
+| Guatemala | Swaziland |
+| Guinea | Syria |
+| Guinea Bissau | Tanzania |
+| Guyana | Thailand |
+| Haiti | Togo |
+| Honduras | Tonga |
+| India | Trinidad and Tobago |
+| Indonesia | Tunisia |
+| Iran | Tuvalu |
+| Iraq | Uganda |
+| Ivory Coast | United Arab Emirates |
+| Jamaica | Uruguay |
+| Jordan | Vanuatu |
+| Kenya | Venezuela |
+| Kiribati | Vietnam |
+| Kuwait | Western Samoa, Independent State of |
+| Laos Peoples' Democratic Republic | Yemen |
+| Lebanon | Zaire |
+| Lesotho | Zambia |
+| Liberia | Zimbabwe |
+| Libya |  |
+
+### PART II — COUNTRIES AND TERRITORIES DEPENDENT OR ADMINISTERED OF FOR WHOSE EXTERNAL RELATIONS MEMBER STATES OF THE COMMUNITY OR THIRD COUNTRIES ARE WHOLLY OR PARTLY RESPONSIBLE
+
+- American Oceania[^f00007]
+- Anguilla
+- Aruba
+- Australian Antarctic Territories
+- Australian Oceania (Christmas Island, Cocos (Keeling) Islands, Heard Island and McDonald Islands, Norfolk Island)
+- Bermuda
+- British Antarctic Territory
+- British Indian Ocean Territory
+- British Virgin Islands
+- Cayman Islands
+- Falkland Islands
+- French Polynesia
+- French Southern and Antarctic Territories
+- Gibraltar
+- Greenland
+- Hong Kong
+- Macao
+- Mayotte
+- Montserrat
+- Netherlands Antilles
+- New Caledonia and Dependencies
+- New Zealand Oceania (Cook Islands, Tokelau and Niue Islands)
+- Pitcairn
+- South Georgia and the South Sandwich Islands
+- St Helena and Dependencies
+- St Pierre and Miquelon
+- Turks and Caicos Islands
+- Virgin Islands of the United States
+- Wallis and Futuna Islands
+
+(This note is not part of the Order)
+
+This Order, which comes into force on 1st January 1993, provides for reliefs from customs duty (in so far as it is charged) on certain iron and steel products originating in the developing countries named in Schedule 2 to the Order in accordance with a Decision of the Representatives of the Governments of the Member States of the European Coal and Steel Community meeting within the Council, of 21st December 1992. The reliefs are provided under the Community’s Generalised Tariff Preference Scheme for Developing Countries.
+
+The reliefs apply with effect from 1st January 1993 up to and including 31st December 1993.
+
+## Annotations
+
+[^f00001]: Footnote: [1979 c. 3](https://www.legislation.gov.uk/ukpga/1979/3).
+
+[^f00002]: Footnote: Council Regulation [(EEC) No. 2658/87](https://www.legislation.gov.uk/european/regulation/1987/2658) (OJ No. L265 7.9.87 p.1), as amended by Commission Regulation [(EEC) No. 2505/92](https://www.legislation.gov.uk/european/regulation/1992/2505) (OJ No. L267 14.9.92 p.1).
+
+[^f00003]: Footnote: [S.I. 1987/2184](https://www.legislation.gov.uk/uksi/1987/2184), as amended by [S.I. 1988/1065](https://www.legislation.gov.uk/uksi/1988/1065), [1314](https://www.legislation.gov.uk/uksi/1988/1314), [2055](https://www.legislation.gov.uk/uksi/1988/2055), [1989/1088](https://www.legislation.gov.uk/uksi/1989/1088), [1610](https://www.legislation.gov.uk/uksi/1989/1610), [1991/2583](https://www.legislation.gov.uk/uksi/1991/2583), [1992/792](https://www.legislation.gov.uk/uksi/1992/792) and [2623](https://www.legislation.gov.uk/uksi/1992/2623).
+
+[^f00004]: Footnote: OJ No. L77 22.3.88 p.1, as amended by Commission Regulation [(EEC) No. 3673/90](https://www.legislation.gov.uk/european/regulation/1990/3673) (OJ No. L356 19.12.90 p.32) and Commission Regulation [(EEC) No. 2743/91](https://www.legislation.gov.uk/european/regulation/1991/2743) (OJ No. L262 19.9.91 p.19).
+
+[^f00005]: Footnote: [S.I. 1991/2724](https://www.legislation.gov.uk/uksi/1991/2724).
+
+[^f00006]: Footnote: OJ No. L246 10.9.90 p.1, as amended by Commission Regulation [(EEC) No. 2485/91](https://www.legislation.gov.uk/european/regulation/1991/2485) (OJ No. L228 17.8.91 p.34).
+
+[^f00007]: Footnote: American Oceania includes: Guam, American Samoa (including Swain’s Island), Midway Islands, Johnston and Sand Islands, Wake Island.

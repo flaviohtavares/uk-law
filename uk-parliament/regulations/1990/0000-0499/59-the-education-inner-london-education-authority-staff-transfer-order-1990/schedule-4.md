@@ -1,0 +1,279 @@
+---
+title: The Education (Inner London Education Authority) (Staff Transfer) Order 1990, SCHEDULE 4
+act: The Education (Inner London Education Authority) (Staff Transfer) Order 1990
+section: schedule-4
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1990/59/schedule/4
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Inner London Education Authority) (Staff Transfer) Order 1990, SCHEDULE 4
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## SCHEDULE 4 — Persons transferring from ILEA to the London Residuary Body
+
+Article 6
+
+- Adams M F
+- Adams P G
+- Afflick R C
+- Ahluwalia N K
+- Aleppo C S
+- Allery D R
+- Amaranayke U I
+- Angammana Y
+- Aniagwu O J
+- Antwi-Dakwa F
+- Armstrong W A
+- Ashambo V
+- Ashing H H P
+- Banerjee J C
+- Barnes L
+- Basinger C D
+- Beechey N
+- Bellerby P H
+- Bennett H
+- Benson P J
+- Berkins C G
+- Bhageerutty I
+- Billis S J
+- Binns A P
+- Bird M L
+- Bishop K N
+- Bishop T J
+- Blackgrove J P
+- Bleakley C
+- Bobby C J
+- Bond C
+- Boothby E J
+- Boreham I H
+- Brand M J
+- Brand Y M
+- Brice D F
+- Briscoe G W
+- Brooker J M
+- Brooks S E
+- Bryan M M
+- Butt M
+- Cahill M A
+- Cannon H
+- Carlin C A
+- Carter A
+- Carter C J
+- Chamberlain C A
+- Champion L E
+- Cheesley S F
+- Churchman G N
+- Claridge M A
+- Clark S J
+- Clarke A P
+- Clifford H J
+- Colbron R R
+- Collett C J
+- Collymore B
+- Comer M A
+- Congram B J
+- Cook N R
+- Corstorphin E M
+- Cox J W
+- Croucher T A
+- Crump M D
+- Cullen M N
+- De Silva P
+- Dickenson B L
+- Dixon S N G
+- Dixon T E
+- Dongworth K J
+- Duddy M J
+- Durling S E
+- Eddicott A M
+- Eden C L
+- Ellard D M
+- Ennals A M
+- Ezimora A
+- Farrell C
+- Fernandes M F
+- Fisher M J
+- Flinn D C
+- Flood R
+- Fontaine P
+- Foreman S E
+- Fox E O
+- Francis P F
+- Freeman P L
+- Garth T R
+- Gater D J
+- Ghayour B
+- Glasgow J I S
+- Goldsmith B C
+- Goodbourn J A
+- Grant P R
+- Greeno M C
+- Greenup S L
+- Gregory A
+- Gulston E G
+- Hagley L L
+- Hancock M R
+- Hatch J A
+- Hattam E S
+- Havelock I E
+- Hayter D A E
+- Hemmings L A
+- Hewitt C
+- Heylligar T N
+- Hilder A
+- Hobbs K M
+- Hopkins H E
+- Horlock J P
+- Houlousi I
+- Hutcheon H
+- Irving S G
+- Jenkin G A
+- Johncock I A
+- Johnson A R A
+- Johnson S E
+- Jones H R
+- Jones R
+- Jordorson A
+- Joslyn C A
+- Judd D J
+- Keen M D
+- Kelly K
+- Kersey E
+- Keswani B C
+- Knapp T B
+- Knight B M
+- Komolafe D
+- Lacey R J
+- Laws P A
+- Leach S
+- Lee G J
+- Lee L
+- Line D J
+- Lobo F E
+- Lonergan K
+- Lorage L G
+- Lovatt R
+- Lydon M J
+- Macgregor E A
+- Mahon D J
+- Maingot G R
+- Marsh G D G
+- Marsh R A
+- Martin Y
+- Matthews P J
+- McCann A
+- McCardle G M
+- McGovern C M
+- McKenzie K L
+- McKeown J
+- McMurray J
+- Meredith L M
+- Merrifield J A
+- Merriner J S
+- Middleton-Stewart J
+- Miller P A
+- Millington S
+- Mistry H P
+- Molkenthin C A
+- Montellier B I
+- Morris B T
+- Morton M
+- Mowatt J S
+- Munns P E M
+- Nagamootoo A K
+- Nicholls D E
+- Nicholson J
+- Nitchen J M
+- Nunn D E
+- O'Connor J M
+- Ofosu M
+- Okunor E F
+- Oliver S
+- Osei-Adu J
+- Osman M M
+- O'Sullivan G D
+- Owusu A C
+- Owusu-Appiah K
+- Parmenter R E
+- Parsons K D
+- Patten D B
+- Pemberton Z
+- Peterson A P
+- Pierre H
+- Pilgrim D A
+- Preedy J
+- Pugh R A
+- Pugh W J
+- Purdy M G
+- Pyke J M
+- Quansah K
+- Raghubeer J P
+- Redhead G B
+- Reeves B R F
+- Reid M J
+- Reynolds P F N
+- Rhule M J
+- Richie C J
+- Rose W W
+- Ross S K
+- Russell M R
+- Ryan B
+- Ryman C W
+- Saffery B E
+- Salami T T
+- Satchell C A
+- Sathiyanathan V
+- Saunders V
+- Senior S
+- Sewell E M
+- Shah D
+- Shah F A
+- Shambler K M
+- Shew T A
+- Shields D T
+- Sirikanda S
+- Smith K
+- Smith R C
+- Smith R L
+- Sparks M K
+- Steer B F
+- Stephens C
+- Street J M
+- Sturman J M
+- Sweeney A T
+- Takolia R A
+- Tambe T M
+- Taylor J P
+- Terrett S R
+- Thirtle N J
+- Tomlin V T
+- Towsey S K
+- Turney C M
+- Twinn B J
+- Upjohn C
+- Vaja B
+- Wall P L
+- Walsh M
+- Warner G J
+- Warnock L J
+- Watson D
+- Welch P
+- Whale K L
+- Wheeler L A
+- Whittaker J
+- Whitehead T
+- Whyne T L
+- Wilby C
+- Wildsmith C R
+- Wilkinson I M
+- Williams A E
+- Willis P J
+- Wood J C
+- Wood O T
+- Yiannakou P
+- Young C R

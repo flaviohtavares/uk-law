@@ -1,0 +1,157 @@
+---
+title: The Financial Services and Markets Act 2000 (Communications by Auditors) Regulations 2001
+id: uksi/2001/2587
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2001-07-17'
+text_date: '2024-04-05'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2001/2587
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/2587/pdfs/uksi_20012587_en.pdf
+- http://www.legislation.gov.uk/uksi/2001/2587/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Financial Services and Markets Act 2000 (Communications by Auditors) Regulations 2001
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2024-04-05. See https://www.legislation.gov.uk/changes/affected/uksi/2001/2587
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2001 No. 2587
+
+FINANCIAL SERVICES AND MARKETS
+
+The Financial Services and Markets Act 2000 (Communications by Auditors) Regulations 2001
+
+Made
+
+17th July 2001
+
+Laid before Parliament
+
+18th July 2001
+
+Coming into force
+
+in accordance with regulation 1
+
+The Treasury, in exercise of the powers conferred on them by sections 342(5), 343(5) and 428(3) of the Financial Services and Markets Act 2000[^f00001], hereby make the following Regulations:[^key-6136150baf8c64c9200ccbee67f17957][^key-3e01213074e4d2ce8e719bb2a87b776d][^key-06931ae4f9a07c668c6acbdf96225e68][^key-f08b457f6aa3db5e77cc7819e24973db]
+
+## 1. Citation, commencement and interpretation[^key-1f7790f9320f7b1bd1ffa27595c8c714]
+
+(1) These Regulations may be cited as the Financial Services and Markets Act 2000 (Communications by Auditors) Regulations 2001 and come into force on the day on which section 19 of the Act (the general prohibition) comes into force.
+
+(2) In these Regulations—
+
+- “the Act” means the Financial Services and Markets Act 2000;
+- “the person concerned” means—
+  - (a) in relation to an auditor of an authorised person or recognised body[^key-1877ca2c9c1c2d63bfb1bbde8da19eef], that authorised person or recognised body;
+  - (b) in relation to an auditor of a person who has close links (within the meaning of section 343 of the Act) with an authorised person or recognised body[^key-925a122c1f8bbdcab149d533e2f5f2fb], that authorised person or recognised body;
+- “[^key-982480db65ab209b499dffb7d07e4c31]**recognised body**” has the meaning given by section 313(1) of the Act;
+- “relevant requirement” means—
+  - (a) a requirement which is imposed by or under any provision of the Act other than Part VI (listing) and which relates to authorisation under the Act (whether by way of permission under Part IV of the Act or otherwise) or to the carrying on of any regulated activity; [^key-e019de931d2b0b7de5ed3e04607f6167]...
+  - (aa) a requirement which is a relevant requirement within the meaning of section 312E(2) or (3) of[^key-d5fecff68acfeb64f11a48ba92966d81] the Act; or
+  - (b) a requirement which is imposed by or under any other Act and whose contravention constitutes an offence which the FCA[^key-c4c87aa5a21a9f38c10b73529c2e23e9], the PRA or the Bank of England as appropriate has power to prosecute under the Act[^f00002].
+
+## 2. Circumstances in which an auditor is to communicate[^key-c8aeeb475c02a2ed96603ca482ad135e]
+
+(1) An auditor to whom section 342 or 343 of the Act applies must communicate to the FCA[^key-34ca4832b9544f7d99c5ca38f82eae94], the PRA or, the Bank of England information on, or his opinion on, matters mentioned in section 342(3)(a) or 343(3)(a) of the Act (matters of which he has, or had, become aware in his capacity as auditor of an authorised person or recognised body[^key-dd19165d9a108b06ed333b81f62a29d7] or as auditor of a person who has close links with an authorised person or recognised body) in the following circumstances.
+
+(2) The circumstances are that—
+
+- (a) the auditor reasonably believes that, as regards the person concerned—
+  - (i) there is or has been, or may be or may have been, a contravention of any relevant requirement that applies to the person concerned; and
+  - (ii) that contravention may be of material significance to the[^key-891a9d4422ba4cc0d116fa75b01522bc] FCA, the PRA or the Bank of England in determining whether to exercise, in relation to the person concerned, any functions conferred on that regulator[^key-8395b006cbbeeaed2d377da1eb89b7ea] by or under any provision of the Act other than Part VI;
+- (b) the auditor reasonably believes that the information on, or his opinion on, those matters may be of material significance to the[^key-e0490a4f560787c14a9c596b8a02ffae] FCA, the PRA or the Bank of England in determining whether the person concerned satisfies and will continue to satisfy the threshold conditions or, in the case of a[^key-81e896cbc32ec05588c203e31fec790a] recognised body, the requirements set out in relation to that sort of recognised body[^key-c13872110a25b291849bfbb50b7fd34b] under section 286 of the Act (qualifications for recognition);
+- (c) the auditor reasonably believes that the person concerned is not, may not be or may cease to be a going concern;
+- (d) the auditor is precluded from stating in his report that the annual accounts or, where they are required to be made by any of the following provisions, other financial reports of the person concerned—
+  - (i) have been properly prepared in accordance with the Companies Act 2006[^key-1ff80a8f19845c1af23facd1bd8b7cc6] or, where applicable, give a true and fair view of the matters referred to in section section 495(3)(a)[^key-9c308be9092df2609fe083feb62afb85] of that Act;
+  - (ii) have been prepared so as to conform with the requirements of Part VIII of the Building Societies Act 1986[^f00004] and the regulations made under it or, where applicable, give a true and fair view of the matters referred to in subsection (4) or (7) of section 78 of that Act[^f00005];
+  - (iii) have been prepared so as to conform with the Friendly Societies Act 1992[^f00006] and the regulations made under it or, where applicable, give a true and fair view of the matters referred to in section 73(5) of that Act;
+  - (iv) have been prepared so as to conform with the requirements of the Friendly and Industrial and Provident Societies Act 1968[^f00007] or, where applicable, give a true and fair view of the matters referred to in section 9(2) and (3) of that Act; or
+  - (v) have been prepared so as to conform with the requirements of rules made under the Act where the auditor is, by rules made under section 340 of the Act, required to make such a statement;
+
+  as the case may be; or
+- (e) where applicable, the auditor is required to state in his report in relation to the person concerned any of the facts referred to in subsection (2), (3) or (5) of section 498 of the Companies Act 2006[^key-dedf299e507e975275ef0ffaad152985].
+
+Anne McGuire
+
+Nick Ainger
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+17th July 2001
+
+(This note is not part of the Regulations)
+
+These Regulations apply to any person who is, or has been, an auditor of a person authorised under the Financial Services and Markets Act 2000 (“the Act”) and who has been appointed pursuant to a statutory provision. Such an auditor is obliged to communicate to the Financial Services Authority (“the Authority”) information on matters (or his opinion on matters) of which he has become aware in his capacity as an auditor. The obligation also applies to matters of which such an auditor has become aware in his capacity as auditor of a person who has “close links” (as defined in section 343(8) of the Act) with an authorised person.
+
+Regulation 2 sets out the circumstances in which the obligation applies. An auditor must communicate matters to the Authority if he reasonably believes that, as regards the authorised person concerned, there has been or may be a contravention of any relevant requirement (as defined in regulation 1) that applies to that person which may be of material significance to the Authority in determining whether to exercise any of the functions conferred on the Authority by or under the Act (other than listing functions). The obligation to communicate also applies where the auditor reasonably believes that the matters may be of material significance to the Authority in determining whether the person satisfies and will continue to satisfy the conditions set out in Schedule 6 to the Act (“the threshold conditions”). The obligation also applies where the auditor reasonably believes that the authorised person concerned is not, may not be or may cease to be a going concern. An auditor is also obliged to communicate to the Authority where he is precluded from stating in his report on the annual accounts, or, where required by an enactment which is specified in regulation 2(2)(d), any other financial reports, that they conform with the applicable legislation or where he is required by the enactment specified in regulation 2(2)(e) to state certain facts in his report.
+
+These Regulations give effect, in part, to European Parliament and Council Directive [95/26/EC](https://www.legislation.gov.uk/european/directive/1995/0026) (OJ No. L168, 18.7.1995, p.7) amending Directives [73/239/EEC](https://www.legislation.gov.uk/european/directive/1973/0239) and [92/49/EEC](https://www.legislation.gov.uk/european/directive/1992/0049) in the field of non-life insurance, Directives [79/267/EEC](https://www.legislation.gov.uk/european/directive/1979/0267) and [92/96/EEC](https://www.legislation.gov.uk/european/directive/1992/0096) in the field of life assurance, Directive [93/22/EEC](https://www.legislation.gov.uk/european/directive/1993/0022) in the field of investment firms and Directive [85/611/EEC](https://www.legislation.gov.uk/european/directive/1985/0611) in the field of undertakings for collective investment in transferable securities (UCITS) with a view to reinforcing prudential supervision. These Regulations also give effect, in part, to Directive [2000/12/EC](https://www.legislation.gov.uk/european/directive/2000/0012) (OJ No. L126, 26.5.2000, p.1) relating to the taking up and pursuit of the business of credit institutions.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^key-6136150baf8c64c9200ccbee67f17957]: Modification: Regulations applied (with modifications) (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1](https://www.legislation.gov.uk/uksi/2017/701/regulation/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2017/701/schedule/1/paragraph/29) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+
+[^key-3e01213074e4d2ce8e719bb2a87b776d]: Modification: Regulations applied (with modifications) (3.1.2018) by [The Data Reporting Services Regulations 2017 (S.I. 2017/699)](https://www.legislation.gov.uk/uksi/2017/699), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/699/regulation/1/2/b), [43](https://www.legislation.gov.uk/uksi/2017/699/regulation/43)
+
+[^key-06931ae4f9a07c668c6acbdf96225e68]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/2587): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+
+[^key-f08b457f6aa3db5e77cc7819e24973db]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/2587) applied (with modifications) (5.4.2024) by [The Data Reporting Services Regulations 2024 (S.I. 2024/107)](https://www.legislation.gov.uk/uksi/2024/107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2024/107/regulation/30); S.I. 2023/1382, [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/c)
+
+[^key-1f7790f9320f7b1bd1ffa27595c8c714]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2001/2587/regulation/1) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2587/regulation/1/1)
+
+[^key-1877ca2c9c1c2d63bfb1bbde8da19eef]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2587/regulation/1/2) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 26(2)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/26/2/a/i) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-925a122c1f8bbdcab149d533e2f5f2fb]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2587/regulation/1/2) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 26(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/26/2/a/ii) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-982480db65ab209b499dffb7d07e4c31]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2587/regulation/1/2) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 26(2)(b)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/26/2/b) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-e019de931d2b0b7de5ed3e04607f6167]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2587/regulation/1/2) revoked (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 51(2)(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/51/2/b/i)
+
+[^key-d5fecff68acfeb64f11a48ba92966d81]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2587/regulation/1/2) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 51(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/51/2/b/ii)
+
+[^key-c4c87aa5a21a9f38c10b73529c2e23e9]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2587/regulation/1/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 51(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/51/2/b/iii)
+
+[^f00002]: Footnote: See in particular section 402 of the Act (power of the Authority to institute proceedings for offences under other enactments).
+
+[^key-c8aeeb475c02a2ed96603ca482ad135e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2001/2587/regulation/2) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2587/regulation/1/1)
+
+[^key-34ca4832b9544f7d99c5ca38f82eae94]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/2587/regulation/2/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 51(3)(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/51/3/a/i) (with [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/52))
+
+[^key-dd19165d9a108b06ed333b81f62a29d7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/2587/regulation/2/1) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 26(3)(a)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/26/3/a) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-891a9d4422ba4cc0d116fa75b01522bc]: Textual amendment: Words in [reg. 2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2001/2587/regulation/2/2/a/ii) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 51(3)(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/51/3/b/i) (with [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/52))
+
+[^key-8395b006cbbeeaed2d377da1eb89b7ea]: Textual amendment: Words in [reg. 2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2001/2587/regulation/2/2/a/ii) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 51(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/51/3/b/ii) (with [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/52))
+
+[^key-e0490a4f560787c14a9c596b8a02ffae]: Textual amendment: Words in [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2001/2587/regulation/2/2/b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 51(3)(c)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/51/3/c/i) (with [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/52))
+
+[^key-81e896cbc32ec05588c203e31fec790a]: Textual amendment: Words in [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2001/2587/regulation/2/2/b) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 51(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/51/3/c/ii) (with [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/52))
+
+[^key-c13872110a25b291849bfbb50b7fd34b]: Textual amendment: Words in [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2001/2587/regulation/2/2/b) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 26(3)(b)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/26/3/b) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+
+[^key-1ff80a8f19845c1af23facd1bd8b7cc6]: Textual amendment: Words in [reg. 2(2)(d)(i)](https://www.legislation.gov.uk/uksi/2001/2587/regulation/2/2/d/i) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [17(2)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/17/2/a)
+
+[^key-9c308be9092df2609fe083feb62afb85]: Textual amendment: Words in [reg. 2(2)(d)(i)](https://www.legislation.gov.uk/uksi/2001/2587/regulation/2/2/d/i) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [17(2)(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/17/2/b)
+
+[^f00004]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
+
+[^f00005]: Footnote: Section 78 was amended by S.I. [1995/3233](https://www.legislation.gov.uk/uksi/1995/3233) and amended and repealed in part by S.I. [1999/248](https://www.legislation.gov.uk/uksi/1999/248).
+
+[^f00006]: Footnote: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40).
+
+[^f00007]: Footnote: [1968 c. 55](https://www.legislation.gov.uk/ukpga/1968/55).
+
+[^key-dedf299e507e975275ef0ffaad152985]: Textual amendment: Words in [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2001/2587/regulation/2/2/e) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2011/1265/article/17/3)

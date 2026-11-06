@@ -1,0 +1,58 @@
+---
+title: Energy Act 2013, section 132
+act: Energy Act 2013
+section: '132'
+status: revised-with-pending-changes
+text_date: '2024-10-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2013/32/section/132
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Energy Act 2013, section 132
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/32
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 132. Duties in relation to statement
+
+*Extent: E+W+S*
+
+(1) The Authority must have regard to the strategic priorities set out in the strategy and policy statement when carrying out regulatory functions.
+
+(2)[^key-dd283caf80de935d59697dbbd2d7829a] The Secretary of State and the Authority must carry out their respective regulatory functions in the manner which the Secretary of State or the Authority (as the case may be) considers is best calculated to further the delivery of the policy outcomes.
+
+(3) Subsection (2) is subject to the application of the principal objective duty in the carrying out of any such function.
+
+(4) “**Regulatory functions**”, in relation to the Secretary of State, means—
+
+- (a) functions of the Secretary of State under Part 1 of the 1986 Act or Part 1 of EA 1989;
+- (b) other functions of the Secretary of State to which the principal objective duty is applied by any enactment.
+
+(5) “**Regulatory functions**”, in relation to the Authority, means—
+
+- (a) functions of the Authority under Part 1 of the 1986 Act or Part 1 of EA 1989;
+- (b) other functions of the Authority to which the principal objective duty is applied by any enactment.
+
+(6) The “**principal objective duty**” means the duty of the Secretary of State or the Authority (as the case may be) imposed by—
+
+- (a) section 4AA(1B) and (1C) of the 1986 Act;
+- (b) section 3A(1B) and (1C) of EA 1989.
+
+(7) The Authority must give notice to the Secretary of State if at any time the Authority concludes that a policy outcome contained in the strategy and policy statement is not realistically achievable.
+
+(8) A notice under subsection (7) must include—
+
+- (a) the grounds on which the conclusion was reached;
+- (b) what (if anything) the Authority is doing, or proposes to do, for the purpose of furthering the delivery of the outcome so far as reasonably practicable.
+
+(9) In this section “**enactment**” includes—
+
+- (a) an enactment contained in this Act, and
+- (b) an enactment passed or made after the passing of this Act.
+
+## Annotations
+
+[^key-dd283caf80de935d59697dbbd2d7829a]: Modification: [S. 132(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/132/2) restricted by 1989 c. 29, s. 32Z(6)(b) (as inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/56/2), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2))

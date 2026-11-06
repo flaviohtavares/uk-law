@@ -1,0 +1,209 @@
+---
+title: The Network Rail (Streat Green Underbridge) (Temporary Land Acquisition) Order 2017
+id: uksi/2017/1302
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2017-12-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2017/1302
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2017/1302/pdfs/uksi_20171302_en.pdf
+- http://www.legislation.gov.uk/uksi/2017/1302/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Network Rail (Streat Green Underbridge) (Temporary Land Acquisition) Order 2017
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2017 No. 1302
+
+Transport And Works, England
+
+Transport, England
+
+The Network Rail (Streat Green Underbridge) (Temporary Land Acquisition) Order 2017
+
+Made
+
+14th December 2017
+
+Coming into force
+
+4th January 2018
+
+An application has been made to the Secretary of State in accordance with the Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006[^f00001] for an Order under sections 1 and 5 of the Transport and Works Act 1992[^f00002] (“the 1992 Act”).
+
+Objections to that application have been withdrawn.
+
+The Secretary of State has determined to make an Order giving effect to the proposals comprised in the application with modifications which in the opinion of the Secretary of State do not make any substantial change in the proposals.
+
+Notice of the Secretary of State’s determination was published in the London Gazette on 12th<sup> </sup>December 2017.
+
+The Secretary of State in exercise of the powers conferred by sections 1 and 5 of, and paragraphs 3 to 5, 7, 11 and 16 of Schedule 1 to, the 1992 Act makes the following Order—
+
+## PART 1 — PRELIMINARY
+
+### 1. Citation and commencement
+
+This Order may be cited as the Network Rail (Streat Green Underbridge) (Temporary Land Acquisition) Order 2017 and comes into force on 4th January 2018.
+
+### 2. Interpretation
+
+(1) In this Order—
+
+- “the 1961 Act” means the Land Compensation Act 1961[^f00003]
+- “the 1965 Act” means the Compulsory Purchase Act 1965[^f00004];
+- “the 2015 Order” means the Town and Country Planning (General Permitted Development) (England) Order 2015[^f00005];
+- “authorised works” means the works required to reconstruct the Streat Green underbridge (No. KJE1/666) permitted by the 2015 Order and the notice of prior approval granted by Lewes District Council on 16th December 2014 reference number LW/14/0889 or such other notice of prior approval as may be issued by Lewes District Council for such works under the 2015 Order;
+- “the book of reference” means the book of reference certified by the Secretary of State as the book of reference for the purposes of this Order;
+- “building” includes any structure or erection or any part of a building, structure or erection;
+- “electronic transmission” means a communication transmitted—
+  - (a) by means of an electronic communications network; or
+  - (b) by other means but while in electronic form;
+- “the land plan” means the plan certified by the Secretary of State as the land plan for the purposes of this Order; and
+- “Network Rail” means Network Rail Infrastructure Limited (company registration number 02904587) whose registered office is 1 Eversholt Street, London NW1 2DN.
+
+(2) All measurements stated in any description of lands in the book of reference are approximate.
+
+(3) References in this Order to numbered plots are references to plot numbers shown on the land plan.
+
+## PART 2 — LAND PROVISIONS
+
+### 3. Temporary possession of land
+
+(1) Network Rail may, in connection with the carrying out of the authorised works, enter upon and take temporary possession of the land specified in columns (1) and (2) of the Schedule (land of which temporary possession may be taken) for the purposes specified in column (3) of that Schedule.
+
+(2) Not less than 14 days before entering upon and taking temporary possession of land under this article Network Rail must serve notice of the intended entry on the owners and occupiers of the land.
+
+(3) Network Rail may not, without the agreement of the owners of the land, remain in possession of any land under this article after the end of the period of one year beginning with the date of completion of the authorised works.
+
+(4) Before giving up possession of land of which temporary possession has been taken under this article, Network Rail must remove all temporary works and restore the land to the reasonable satisfaction of the owners of land, but Network Rail is not required to replace a building removed in connection with the carrying out of the authorised works.
+
+(5) Network Rail must pay compensation to the owners and occupiers of land of which temporary possession is taken under this article for any loss or damage arising from the exercise in relation to the land of the powers conferred by this article.
+
+(6) Any dispute as to a person’s entitlement to compensation under paragraph (5), or as to the amount of compensation, is to be determined under Part 1 of the 1961 Act.
+
+(7) Without affecting article 9 (no double recovery), nothing in this article affects any liability to pay compensation under section 10(2)[^f00006] (further provision as to compensation for injurious affection) of the 1965 Act or under any other enactment in respect of loss or damage arising from the execution of any works, other than loss or damage for which compensation is payable under paragraph (5).
+
+(8) Where Network Rail takes possession of land under this article, Network Rail is not required to acquire the land or any interest in it.
+
+### 4. Application of Part 1 of the 1965 Act
+
+Sections 1, 3 and 13 of the 1965 Act, in so far as not inconsistent with the provisions of this Order, apply to the temporary use of land under this Order to the same extent as they apply to a compulsory purchase to which the Acquisition of Land Act 1981[^f00007] applies and as if this Order were a compulsory purchase order under that Act.
+
+### 5. Suspension of private rights of way
+
+(1) Subject to paragraph (3), all private rights of way over land of which Network Rail takes temporary possession under this Order are suspended and unenforceable for as long as Network Rail remains in lawful possession of the land.
+
+(2) Any person who suffers loss by the suspension of any private right of way under this article is entitled to compensation to be determined, in case of dispute, under Part 1 of the 1961 Act.
+
+(3) Paragraph (1) has effect subject to—
+
+- (a) any notice given by Network Rail before Network Rail’s taking temporary possession of the land that paragraph (1) does not apply to any right of way specified in the notice; and
+- (b) any agreement which makes reference to this article (whether made before or after Network Rail’s taking temporary possession of the land and before or after the coming into force of the Order) between Network Rail and the person in or to whom the right of way in question is vested or belongs.
+
+(4) If any such agreement as is mentioned in paragraph (3)(b) is expressed to have effect also for the benefit of those deriving title from or under the person in or to whom the right of way in question is vested or belongs, it is effective in respect of the persons so deriving title, whether the title was derived before or after the making of the agreement.
+
+### 6. Time limit for exercise of powers of acquisition
+
+The powers conferred by article 3 (temporary possession of land) cease at the end of the period of 5 years beginning with the day on which this Order comes into force, but nothing in this article prevents Network Rail from remaining in possession of land after the end of that period, if the land was entered and possession of it was taken before the end of that period.
+
+## PART 3 — MISCELLANEOUS AND GENERAL
+
+### 7. Certification of plans, etc
+
+Network Rail must, as soon as practicable after the making of this Order, submit copies of the book of reference and the land plan to the Secretary of State for certification that they are, respectively, true copies of the book of reference and land plan referred to in this Order; and a document so certified is admissible in any proceedings as evidence of the contents of the document of which it is a copy.
+
+### 8. Service of notices
+
+(1) A notice or other document required or authorised to be served for the purposes of this Order may be served—
+
+- (a) by post; or
+- (b) with the consent of the recipient and subject to paragraphs (6) to (8), by electronic transmission.
+
+(2) Where the person on whom a notice or other document to be served for the purposes of this Order is a body corporate, the notice or document is duly served if it is served on the secretary or clerk of that body.
+
+(3) For the purposes of section 7 (references to service by post) of the Interpretation Act 1978[^f00008] as it applies for the purposes of this article, the proper address of any person in relation to the service on that person of a notice or document under paragraph (1) is, if that person has given an address for service, that address, and otherwise—
+
+- (a) in the case of the secretary or clerk of a body corporate, the registered or principal office of that body; and
+- (b) in any other case, the last known address of that person at the time of service.
+
+(4) Where for the purposes of this Order a notice or other document is required or authorised to be served on a person as having any interest in, or as the occupier of, land and the name or address of that person cannot be ascertained after reasonable enquiry, the notice may be served by—
+
+- (a) addressing it to that person by name or by the description of “owner”, or as the case may be “occupier”, of the land (describing it); and
+- (b) either leaving it in the hands of a person who is or appears to be resident or employed on the land or leaving it conspicuously affixed to some building or object on or near the land.
+
+(5) Where a notice or other document required to be served or sent for the purposes of this Order is served or sent by electronic transmission the requirement is taken to be fulfilled where the recipient of the notice or other document to be transmitted has given consent to the use of electronic transmission either in writing or by electronic transmission.
+
+(6) Where the recipient of a notice or other document served or sent by electronic transmission notifies the sender within 7 days of receipt that the recipient requires a paper copy of all or any part of that notice or other document the sender must provide such a copy as soon as reasonably practicable.
+
+(7) Any consent to the use of electronic transmission given by a person may be revoked by that person in accordance with paragraph (8).
+
+(8) Where a person is no longer willing to accept the use of electronic transmission for any of the purposes of this Order—
+
+- (a) that person must give notice in writing or by electronic transmission revoking any consent given by that person for that purpose; and
+- (b) such revocation is final and takes effect on a date specified by the person in the notice but that date must not be less than 7 days after the date on which the notice is given.
+
+(9) This article does not exclude the employment of any method of service not expressly provided for by it.
+
+### 9. No double recovery
+
+Compensation is not payable in respect of the same matter both under this Order and under any other enactment, any contract or any rule of law.
+
+### 10. Arbitration
+
+Any difference under any provision of this Order, unless otherwise provided for, must be referred to and settled by a single arbitrator to be agreed between the parties or, failing agreement, to be appointed on the application of either party (after giving notice in writing to the other) by the President of the Institution of Civil Engineers.
+
+Signed by authority of the Secretary of State for Transport
+
+Natasha Kopala
+
+Head of the Transport and Works Act Orders Unit
+
+Department for Transport
+
+14th December 2017
+
+## SCHEDULE — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN
+
+Article 3
+
+| *(1)*<br>*Area* | *(2)*<br>*Plot numbers* | *(3)*<br>*Purpose for which temporary possession may be taken* |
+| --- | --- | --- |
+| County of East Sussex,<br>District of Lewes | 1, 4 and 6A | Temporary access for construction and temporary environmental mitigation works |
+| County of East Sussex,<br>District of Lewes | 7, 8, 9 and 10 | Temporary access for construction and temporary site compound |
+| County of East Sussex,<br>District of Lewes | 2 ,3, 5 and 6 | Temporary access for construction |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order confers powers on Network Rail for the temporary possession of land in connection with the works required to reconstruct the existing Streat Green underbridge (No. KJE1/666) located on the Keymer Junction to Lewes Line in the County of East Sussex as authorised by the Town and Country (General Permitted Development) (England) Order 2015.
+
+The Order does not authorise the construction of works.
+
+A copy of the land plan and the book of reference referred to in the Order may be inspected at the offices of the Company Secretary and Solicitor to Network Rail Infrastructure Limited, 1 Eversholt Street, London NW1 2DN
+
+## Annotations
+
+[^f00001]: Footnote: [S.I. 2006/1466](https://www.legislation.gov.uk/uksi/2006/1466), amended by [S.I. 2010/439](https://www.legislation.gov.uk/uksi/2010/439), [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [S.I. 2011/2085](https://www.legislation.gov.uk/uksi/2011/2085), [S.I. 2012/147](https://www.legislation.gov.uk/uksi/2012/147), [S.I. 2012/1658](https://www.legislation.gov.uk/uksi/2012/1658), [S.I. 2012/2590](https://www.legislation.gov.uk/uksi/2012/2590) and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
+
+[^f00002]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42), Section 1 was amended by paragraphs 51 and 52 of Schedule 2 to the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), section 5 was amended by [S.I. 2012/1659](https://www.legislation.gov.uk/uksi/2012/1659).
+
+[^f00003]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
+
+[^f00004]: Footnote: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
+
+[^f00005]: Footnote: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596).
+
+[^f00006]: Footnote: Section 10 was amended by section 4 of, and paragraph 13(2) of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
+
+[^f00007]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
+
+[^f00008]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

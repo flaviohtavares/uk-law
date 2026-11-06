@@ -1,0 +1,1164 @@
+---
+title: The Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2012
+id: uksi/2012/62
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-01-10'
+text_date: '2024-03-21'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2012/62
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2012/62/pdfs/uksiem_20120062_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/62/pdfs/uksi_20120062_en.pdf
+- http://www.legislation.gov.uk/uksi/2012/62/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2012
+
+> Text as at 2024-03-21.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2012 No. 62
+
+Police, England And Wales
+
+The Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2012
+
+Made
+
+10th January 2012
+
+Coming into force
+
+16th January 2012
+
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 31 and 154(5) of, and Schedule 7 to, the Police Reform and Social Responsibility Act 2011[^f00001].
+
+In accordance with section 154(2) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.[^key-0682b7f7ad20c77a7126c3deb4e26cfa][^key-b02b9df39ce56ae4ba2bc0ea17f413f0][^key-ca5abd1cb4218a3da64f0c56d845e97c]
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-5c18d1bdd6a15fd68973bc55e6a17b00]
+
+These Regulations may be cited as the Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2012 and shall come into force on 16th January 2012.
+
+### 2. Interpretation[^key-f47d2143cfbe3d7ab9c3361f7e093308][^key-87460da3a216839ae30ac2c3a40ba457][^key-66068ac800df7c767daace095e24c9fb]
+
+(1) In these Regulations—
+
+- “2002 Act” means the Police Reform Act 2002[^f00002];
+- “2004 Regulations” means the Police (Complaints and Misconduct) Regulations 2004[^f00003];
+- “2011 Act” means the Police Reform and Social Responsibility Act 2011;
+- [^key-775c186d2eb921153f803821afb436bb]...
+- “complainant”, in relation to anything which is or purports to be a complaint, means the person by whom the complaint or purported complaint was made, but where any person is acting on the complainant’s behalf for the purposes of any complaint or purported complaint, anything that is to be or may be done under these Regulations by or in relation to the complainant may be done, instead, by or in relation to that person;
+- “complaint” means a qualifying complaint within the meaning of section 31(1)(a) of the 2011 Act;
+- “conduct” includes acts, omissions, statements and decisions (whether actual, alleged or inferred);
+- “conduct matter” has the same meaning as in section 31(1)(b) of the 2011 Act;
+- “criminal offence” means any offence triable in England and Wales;
+- “Director General” means the Director General of the Independent Office for Police Conduct;[^key-f38427815468b275ab3295b8ecc8118a]
+- “document” means anything in which information of any description is recorded;
+- “information” includes estimates and projections, and statistical analyses;
+- “IOPC” means the Independent Office for Police Conduct;
+- “person complained against”, in relation to a complaint, means the relevant office holder whose conduct is the subject matter of the complaint;
+- “police and crime panel” means—
+  - (a) in relation to a police and crime commissioner or deputy police and crime commissioner for a police area listed in Schedule 1 to the Police Act 1996[^f00004], the police and crime panel established for that police area under section 28(1) of the 2011 Act;
+  - (b) in relation to the Mayor’s Office for Policing and Crime or the Deputy Mayor for Policing and Crime, the committee established under section 32 of the 2011 Act;
+- “relevant office” means—
+  - (a) police and crime commissioner;
+  - (b) deputy police and crime commissioner;
+  - (c) the Mayor’s Office for Policing and Crime;
+  - (d) the Deputy Mayor for Policing and Crime;
+- “relevant office holder” means the holder of a relevant office, and in relation to any conduct includes a person who—
+  - (a) holds the relevant office at the time of the conduct but subsequently ceases to hold that office; or
+  - (b) holds the relevant office at the time when a complaint or conduct matter comes to the attention of the police and crime panel, but did not hold that office at the time of the conduct;
+- “serious complaint” has the same meaning as in paragraph 2(6) of Schedule 7 to the 2011 Act.
+
+(2) References in these Regulations to the investigation of any serious complaint or conduct matter under the management of the Director General[^key-cb5546ddf52c18c5e868f1f38333096c] or by the Director General [^key-c8b3608f9e25635bad3bbee1ec7107c2]... shall be construed as references to the Director General’s[^key-75218001106d643cfcbdf1a9ca581a1a] investigation in accordance with regulation 19 or 20 as the case may be.
+
+(3) References in these Regulations to a person serving with the police shall be construed in accordance with sections 12(7) and 29 of the 2002 Act.
+
+### 3. General functions of the Director General[^key-fea62a35179d2dc6d69859197742e10b]
+
+(1) Subject to paragraph (6), the functions of the Director General in relation to relevant office holders and police and crime panels shall be—
+
+- (a) to secure the maintenance by the Director General itself, and by relevant office holders and police and crime panels, of suitable arrangements with respect to the matters mentioned in paragraph (2);
+- (b) to keep under review all arrangements maintained with respect to those matters;
+- (c) to secure that arrangements maintained with respect to those matters comply with the requirements of these Regulations, are efficient and effective and contain and manifest an appropriate degree of independence;
+- (d) to secure that public confidence is established and maintained in the existence of suitable arrangements with respect to those matters and with the operation of the arrangements that are in fact maintained with respect to those matters;
+- (e) to make such recommendations, and to give such advice, for the modification of the arrangements maintained with respect to those matters, as appear, from the carrying out by the Director General of the Director General’s other functions, to be necessary or desirable.
+
+(2) Those matters are—
+
+- (a) the handling of complaints;
+- (b) the recording of conduct matters;
+- (c) the manner in which any serious complaints and conduct matters are investigated or otherwise handled and dealt with,
+
+in accordance with these Regulations.
+
+(3) Subject to paragraph (6), it shall be the duty of the Director General —
+
+- (a) to exercise the powers and perform the duties conferred on the Director General[^key-e9db941702674f97d90210561111510b] by the following provisions of these Regulations in the manner that the Director General considers best calculated for the purposes of securing the proper carrying out of the Director General’s functions under paragraph (1); and
+- (b) to secure that arrangements exist which are conducive to, and facilitate, the reporting of misconduct by relevant office holders.
+
+(4) Subject to the other provisions of these Regulations, the Director General may do anything which appears to the Director General to be calculated to facilitate, or is incidental or conducive to, the carrying out of the Director General’s functions.
+
+(4A)[^key-29de3b5ffcfe10cf777e6101ca3f4681] In carrying out functions under these Regulations the Director General shall have regard to any advice provided to the Director General by the IOPC (see regulation 3A(1)(a)).
+
+(5) Section 10(7) of the 2002 Act shall apply in relation to recommendations or advice given under paragraph (1)(e), modified so that it has effect as follows—
+
+> (7) The IOPC[^key-b9b02e3283c3428cb23ddc0f8211a38b] may, in connection with the making of any recommendation or the giving of any advice to any person for the purposes of carrying out the Director General’s function under regulation 3(1)(e) of the Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2011, impose any such charge on that person for anything done by the Director General for the purposes of, or in connection with, the carrying out of that function as the Director General thinks fit.
+
+.
+
+(6) With the exception of regulation 13(1)(b) and (2)(b), nothing in these Regulations shall confer any function on the Director General in relation to any complaint or conduct matter which is—
+
+- (a) referred to the Director General under regulation 13 (reference of complaints and conduct matters to the Director General) and for the time being referred back to a police and crime panel under regulation 14(2) (duties of Director General on a reference);
+- (b) handled by a police and crime panel as permitted by regulation 15(2) (disapplication of requirements of Regulations); or
+- (c) subjected to resolution under Part 4 (resolution of other complaints).
+
+(7) Regulations made under section 27 of the 2002 Act (conduct of the IOPC’s[^key-085759206c7652ce3d0c4c8deb8e8948] staff) shall apply in relation to allegations or indications of misconduct by members of the IOPC’s staff arising in connection with the exercise of functions conferred on the Director General or the IOPC[^key-bdea98099b4609d703d3b2ca37bed3a7] by these Regulations.
+
+### 3A. General Functions of the IOPC[^key-48979e1b89375761ef304b67a5601e97]
+
+(1) The functions of the IOPC in relation to relevant office holders and police and crime panels are—
+
+- (a) to provide support and advice to the Director General in the carrying out of the Director General’s functions under these Regulations, and
+- (b) to monitor and review the carrying out of such functions.
+
+(2) The IOPC is to perform its functions under these Regulations for the general purpose of improving the way in which the Director General’s functions under these Regulations are carried out (including by encouraging the efficient and effective use of resources in the carrying out of those functions).
+
+(3) In carrying out its functions under these Regulations the IOPC must in particular have regard to public confidence in the existence of suitable arrangements with respect to the matters mentioned in regulation 3(2) and with the operation of the arrangements that are in fact maintained with respect to those matters.
+
+(4) The IOPC may do anything which appears to it to be calculated to facilitate, or is incidental to, the carrying out of its functions under these Regulations.
+
+### 3B. Efficiency etc. in exercise of functions
+
+The Director General and the IOPC must carry out their functions under these Regulations efficiently and effectively.
+
+### 4. Guidance[^key-0958bd63ab8cdd273b1a44849cff7d5e]
+
+Section 22 of the 2002 Act (power of the Director General to issue guidance) shall apply in relation to the exercise or performance of the powers or duties conferred or imposed by these Regulations, modified so that it has effect as follows—
+
+> **22. Power of the Director General and Secretary of State to issue guidance**
+>
+> (1) The Director General may issue guidance to—
+>
+> - (a) police and crime panels,
+> - (b) relevant office holders, and
+> - (c) chief officers of police,
+>
+> concerning the exercise or performance by them of any of the powers or duties conferred or imposed by the Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2011 (“the 2011 Regulations”), with the exception of regulations 14(2) and 15(2) and Part 4.
+>
+> (2) Without prejudice to the generality of subsection (1), the guidance that may be issued under that subsection includes—
+>
+> - (a) guidance about the handling of complaints which have not yet been recorded and about dealing with conduct matters that have not been recorded;
+> - (b) guidance about the procedure to be followed by a police and crime panel when recording a complaint or conduct matter;
+> - (c) guidance about the circumstances in which it is appropriate (where it is lawful to do so)—
+>   - (i) to disclose to any person, or to publish, any information about an investigation of a serious complaint or conduct matter; or
+>   - (ii) to provide any person with, or to publish, any report or other document relating to such an investigation;
+> - (d) guidance about the manner and timing of notifications to be given under the 2011 Regulations.
+>
+> (3) Before issuing any guidance under subsection (1), the Director General shall consult with—
+>
+> - (a) such persons as appear to the Director General to represent the views of police and crime panels;
+> - (b) such persons as appear to the Director General to represent the views of relevant office holders;
+> - (c) such persons as appear to the Director General to represent the views of chief officers of police; and
+> - (d) such other persons as the Director General thinks fit.
+>
+> (4) The approval of the Secretary of State shall be required for the issue by the Director General of any guidance under subsection (1).
+>
+> (5) The Secretary of State may issue guidance to—
+>
+> - (a) police and crime panels,
+> - (b) relevant office holders, and
+> - (c) the Greater London Authority,
+>
+> concerning the exercise or performance by them of any of the powers or duties conferred or imposed by regulations 14(2) and 15(2) and Part 4 of the 2011 Regulations.
+>
+> (6) Before issuing any guidance under subsection (5), the Secretary of State shall consult with—
+>
+> - (a) such persons as appear to the Secretary of State to represent the views of police and crime panels;
+> - (b) such persons as appear to the Secretary of State to represent the views of relevant office holders;
+> - (c) the Greater London Authority; and
+> - (d) such other persons as the Secretary of State thinks fit.
+>
+> (7) Nothing in this section shall authorise the issuing of any guidance about a particular case.
+>
+> (8) It shall be the duty of every person to whom any guidance under this section is issued to have regard to that guidance in exercising or performing the powers and duties to which the guidance relates.
+>
+> (9) In this section “police and crime panel”, “relevant office holder”, “complaint”, “serious complaint” and “conduct matter” have the same meaning as in the 2011 Regulations.
+
+.
+
+### 5. Reports to the Secretary of State[^key-6b7f4bc5e7da2d8bb3cf4e8d3e794260]
+
+(1)[^key-c2510c4039d4074b33a4eb7978051d40] As soon as practicable after the end of each of the IOPC’s financial years, the Director General and the IOPC shall also jointly make a report to the Secretary of State on the carrying out of its functions under these Regulations during that year.
+
+(2) The Director General shall also make such reports to the Secretary of State about matters relating generally to the carrying out of the Director General’s functions under these Regulations as the Secretary of State may, from time to time, require.
+
+(3) The Director General may, from time to time, make such other reports to the Secretary of State as the Director General considers appropriate for drawing the Secretary of State’s attention to matters which—
+
+- (a) have come to the Director General’s[^key-3d16a6635368e94902df668161f588a3] notice, and
+- (b) are matters that the Director General considers should be drawn to the Secretary of State’s attention by reason of their gravity or other exceptional circumstances.
+
+(4) The Director General shall prepare such reports containing advice and recommendations as the Director General thinks appropriate for the purpose of carrying out the Director General’s function under regulation 3(1)(e) (general functions of the Director General).
+
+(5) Where the Secretary of State receives any report under this regulation, the Secretary of State shall—
+
+- (a) in the case of every annual report under paragraph (1), and
+- (b) in the case of any other report, if and to the extent that the Secretary of State considers it appropriate to do so,
+
+lay a copy before Parliament and cause the report to be published.
+
+(6) The IOPC[^key-62ec4daf1386396490b8751c993c1bee] shall send a copy of every annual report under paragraph (1) to every police and crime panel.
+
+(7) The Director General shall send a copy of every report under paragraph (3) to—
+
+- (a) any police and crime panel; and
+- (b) any relevant office holder,
+
+that appears to the Director General to be concerned.
+
+(8) The Director General shall send a copy of every report under paragraph (4) to—
+
+- (a) the Secretary of State; and
+- (b) every police and crime panel.
+
+(9) The Director General shall send a copy of every report made or prepared by the Director General under paragraph (3) or (4) to such of the persons (in addition to those specified in the preceding paragraphs) who—
+
+- (a) are referred to in the report, or
+- (b) appear to the Director General otherwise to have a particular interest in its contents.
+
+### 6. General duties of police and crime panels, relevant office holders and chief officers of police[^key-52c00b9ce5d26c254beee24dc1e1b61e]
+
+(1) It shall be the duty of every police and crime panel to ensure that it is kept informed, in relation to a relevant office holder for the panel’s police area, about all matters falling within paragraph (2).
+
+(2) Those matters are—
+
+- (a) matters with respect to which any provision of these Regulations has effect;
+- (b) anything which is done under or for the purposes of any such provision; and
+- (c) any obligations to act or refrain from acting that have arisen under these Regulations, but have not yet been complied with or have been contravened.
+
+(3) Where a chief officer of police of any police force requires the chief officer of any other police force or a local policing body to provide a person serving with the police for appointment under regulation 19 (investigations managed by the Director General), it shall be the duty of the chief officer or body to whom the requirement is addressed to comply with it.
+
+(4) It shall be the duty of every police and crime panel, every relevant office holder and every chief officer of police to provide the Director General and every member of the IOPC’s[^key-bcc2b86f58d275a751f6666667ad2840] staff with all such assistance as the Director General or that member of staff may reasonably require for the purposes of, or in connection with, the carrying out of any investigation by the Director General under regulation 20.
+
+(5) It shall be the duty of every police and crime panel, every relevant office holder and every chief officer of police to ensure that a person appointed under regulation 19 to conduct an investigation under the management of the Director General is given all such assistance and co-operation in the carrying out of that investigation as that person may reasonably require.
+
+### 7. Delegation of powers and duties by police and crime panels[^key-5ba5dd1999f329aed520b4974f2b843f][^key-0e4bebb3d48dbf118d26edb0371f648b][^key-8a9a294d907eedd0ca706e5962a3c8e8]
+
+(1) Subject to paragraph (2), a police and crime panel may delegate all or any of the powers or duties conferred or imposed on it by these Regulations, with the exception of Part 4 (resolution of other complaints), to—
+
+- (a) the chief executive appointed by the elected local policing body for the panel’s police area under paragraph 6(1)(a) of Schedule 1 or paragraph 2(1) of Schedule 3 to the 2011 Act; or
+- (b) in the case of the London Assembly police and crime panel, the monitoring officer appointed by the Greater London Authority under section 73(1) of the Greater London Authority Act 1999[^f00005].
+
+(2) A police and crime panel shall not delegate any power or duty under paragraph (1) to a chief executive or a monitoring officer who is also a relevant office holder.
+
+(3) Where the London Assembly police and crime panel delegates powers or duties conferred or imposed by or under regulations 9 (notification and recording of complaints), 11 (notification and recording of conduct matters arising in civil proceedings) or 12 (recording of conduct matters in other cases) to the monitoring officer appointed by the Greater London Authority, the monitoring officer shall notify the chief executive appointed by the Mayor’s Office for Policing and Crime of any complaint or conduct matter considered by the monitoring officer in accordance with those regulations.
+
+## PART 2 — Initial Handling of Complaints and Conduct Matters
+
+### 8. Duties to preserve evidence[^key-6fa4618019985aa06caf4d2a731d08f2]
+
+(1) Where a complaint or conduct matter that relates to the conduct of a relevant office holder comes to the attention of the police and crime panel, it shall be the duty of that panel to secure that all such steps as are appropriate for the purposes of these Regulations are taken, both initially and from time to time after that, for obtaining and preserving evidence relating to the conduct in question.
+
+(2) Where—
+
+- (a) a complaint is made to a relevant office holder,
+- (b) a relevant office holder becomes aware that a complaint has been made to a police and crime panel, a chief officer of police or the Director General, or
+- (c) a relevant office holder becomes aware of any conduct matter,
+
+it shall be the duty of the office holder to take all such steps as appear to him to be appropriate for the purposes of these Regulations for obtaining and preserving evidence relating to the conduct in question.
+
+(3) The relevant office holder’s duty under paragraph (2) must be performed as soon as practicable after—
+
+- (a) the complaint is made,
+- (b) the relevant office holder becomes aware of the complaint, or
+- (c) the relevant office holder becomes aware of the conduct matter,
+
+as the case may be.
+
+(4) After that, the relevant office holder shall be under a duty, until he is satisfied that it is no longer necessary for him to do so, to continue to take the steps from time to time appearing to him to be appropriate for the purposes of these Regulations for obtaining and preserving the evidence relating to the conduct in question.
+
+(5) It shall be the duty of a police and crime panel to comply with all such directions as may be given to it by the Director General in relation to the performance of its duty under paragraph (1).
+
+(6) It shall be the duty of a relevant office holder to take all such steps for obtaining or preserving evidence as he may be directed to take for the purposes of this regulation by the police and crime panel or by the Director General.
+
+### 9. Notification and recording of complaints[^key-c52a933e994dd30cf5af52d9c21c2b6d]
+
+(1) Where a complaint is made to the Director General that relates to the conduct of a relevant office holder, the Director General shall give notification of the complaint to the police and crime panel unless the Director General considers that there are exceptional circumstances that justify notification not being given.
+
+(2) Where a complaint is made to a police and crime panel that relates to the conduct of a relevant office holder, it shall—
+
+- (a) determine whether or not it is itself the police and crime panel in relation to that relevant office holder; and
+- (b) if it determines that it is not, give notification of the complaint to the panel that is.
+
+(3) Where a complaint is made to a chief officer of police that relates to the conduct of a relevant office holder, he shall give notification of the complaint to the police and crime panel.
+
+(4) Where a complaint is made to a relevant office holder that relates to his own conduct, he shall give notification of the complaint to the police and crime panel.
+
+(5) Where—
+
+- (a) a police and crime panel determines, in the case of a complaint made to the panel that relates to the conduct of a relevant office holder, that it is itself the police and crime panel in relation to that relevant office holder, or
+- (b) a complaint is notified to a police and crime panel under this regulation,
+
+the panel shall record the complaint.
+
+(6) Nothing in this regulation shall require the notification or recording by any person of any complaint if—
+
+- (a) that person is satisfied that the subject-matter of the complaint has been, or is already being, dealt with by means of criminal proceedings against the relevant office holder; or
+- (b) the complaint has been withdrawn in accordance with regulation 16.
+
+### 10. Failures to record or notify a complaint[^key-f99b2118db8b6384fff42d1384f3a010]
+
+(1) This regulation applies where anything which is or purports to be a complaint in relation to which regulation 9 (notification and recording of complaints) has effect is received by a police and crime panel, a relevant office holder or a chief officer of police (whether in consequence of having been made directly or of a notification under that regulation).
+
+(2) If the police and crime panel, relevant office holder or chief officer of police decides not to take action under regulation 9 for notifying or recording the whole or any part of what has been received, the panel, office holder or chief officer shall notify the complainant of the following matters—
+
+- (a) the decision to take no action and, if that decision relates to only part of what was received, the part in question; and
+- (b) the grounds on which the decision was made.
+
+### 11. Notification and recording of conduct matters arising in civil proceedings[^key-5e386309c11dce40ecc522899f75abb3]
+
+(1) This regulation applies where—
+
+- (a) a police and crime panel has received notification that civil proceedings relating to any matter have been brought by a member of the public against a relevant office holder, or it otherwise appears to a police and crime panel that such proceedings are likely to be so brought; and
+- (b) it appears to that panel (whether at the time of the notification or at any time subsequently) that those proceedings involve or would involve a conduct matter.
+
+(2) The police and crime panel—
+
+- (a) shall consider whether it is itself the police and crime panel in relation to the relevant office holder concerned; and
+- (b) if it is not, shall notify that police and crime panel about the proceedings, or the proposal to bring them, and about the circumstances that make it appear as mentioned in sub-paragraph (1)(b).
+
+(3) Where a police and crime panel determines for the purposes of this regulation that it is the police and crime panel in relation to a relevant office holder to whom any conduct matter relates, it shall record that matter.
+
+(4) Nothing in paragraph (3) shall require the police and crime panel to record any conduct matter if it is satisfied that the matter—
+
+- (a) has been recorded as a complaint under regulation 9(5); or
+- (b) has been, or is already being, dealt with by means of criminal proceedings against the person to whose conduct the matter relates.
+
+(5) For the purposes of this regulation civil proceedings involve a conduct matter if—
+
+- (a) they relate to such a matter; or
+- (b) they are proceedings that relate to a matter in relation to which a conduct matter, or evidence of a conduct matter, is or may be relevant.
+
+### 12. Recording of conduct matters in other cases[^key-8479a8a10db277ce8905d16210b3accf]
+
+(1) Where a conduct matter comes (otherwise than as mentioned in regulation 11) to the attention of the police and crime panel for the relevant office holder concerned, it shall be the duty of the panel to record that matter.
+
+(2) Nothing in paragraph (1) shall require the police and crime panel to record any conduct matter if it is satisfied that the matter—
+
+- (a) has been recorded as a complaint under regulation 9(5); or
+- (b) has been, or is already being, dealt with by means of criminal proceedings against the person to whose conduct the matter relates.
+
+(3) If it appears to the Director General—
+
+- (a) that any matter that has come to the Director General’s attention is a conduct matter, but
+- (b) that that matter has not been recorded by the police and crime panel,
+
+the Director General may direct the panel to record that matter; and it shall be the duty of that panel to comply with the direction.
+
+### 13. Reference of serious complaints and conduct matters to the Director General[^key-19756743464cb2c81421cbe68ffb3497]
+
+(1) It shall be the duty of a police and crime panel to refer a complaint to the Director General if—
+
+- (a) the panel determines that the complaint is a serious complaint; or
+- (b) the Director General notifies the panel that the Director General requires the complaint to be referred to the Director General for the Director General’s consideration.
+
+(2) It shall be the duty of a police and crime panel to refer a conduct matter to the Director General if—
+
+- (a) the panel has recorded the matter under regulation 11, 12 or 16(6); or
+- (b) the Director General notifies the panel that the Director General requires the matter to be referred to the Director General for the Director General’s consideration.
+
+(3) Where a complaint or conduct matter is required to be referred to the Director General under paragraph (1)(a) or (2)(a), notification of the complaint or conduct matter shall be given to the Director General—
+
+- (a) as soon as is practicable, and in any event not later than the end of the day following the day on which it first becomes clear to the police and crime panel that the complaint or conduct matter is one to which the paragraph (1)(a) or (2)(a) applies, and
+- (b) in such manner as the Director General specifies.
+
+(4) Where a complaint or conduct matter is required to be referred to the Director General under paragraph (1)(b) or (2)(b), notification of the complaint or conduct matter shall be given to the Director General—
+
+- (a) as soon as is practicable, and in any event not later than the end of the day following the day on which the Director General notifies the police and crime panel that the complaint or conduct matter is to be referred, and
+- (b) in such manner as the Director General specifies.
+
+(5) The power of the Director General by virtue of paragraph (1)(b) or (2)(b) to require a complaint or conduct matter to be referred to the Director General shall be exercisable at any time irrespective of whether the complaint or conduct matter is already being investigated by any person or has already been considered by the Director General.
+
+(6) A police and crime panel which refers a complaint or conduct matter to the Director General under this regulation shall give a notification of the making of the reference—
+
+- (a) to the complainant (if there is one), and
+- (b) except in a case where it appears to that panel that to do so might prejudice a possible future investigation of the complaint or conduct matter, to the person to whose conduct the complaint or matter relates.
+
+(7) A complaint or conduct matter that has already been referred to the Director General under this regulation on a previous occasion shall not be required to be referred again unless the Director General so directs.
+
+### 14. Duties of Director General on a reference[^key-3c386c7e669d3a12e7d97b6328a725e9]
+
+(1) It shall be the duty of the Director General in the case of every complaint or conduct matter referred to the Director General by a police and crime panel to determine whether or not it is necessary for the complaint or matter to be investigated.
+
+(2) Where the Director General determines under this regulation that it is not necessary for a complaint or conduct matter to be investigated, it shall refer the complaint or matter back to the police and crime panel—
+
+- (a) in the case of a complaint, to be dealt with by that panel in accordance with Part 4 (resolution of other complaints), and
+- (b) in the case of a conduct matter, to be dealt with by that panel in such manner (if any) as that panel may determine.
+
+(3) Where the Director General refers a complaint or conduct matter back under paragraph (2), the Director General shall give a notification of the making of the reference back—
+
+- (a) to the complainant (if there is one), and
+- (b) to the person to whose conduct the complaint or matter relates.
+
+### 15. Disapplication of requirements of Regulations[^key-d72a1a5a1545969be9448271e44f5e4d]
+
+(1) This regulation applies where a complaint has been recorded by a police and crime panel unless the complaint is one which has been, or must be, referred to the Director General under regulation 13, and is not for the time being referred back to the panel under regulation 14(2).
+
+(2) If the police and crime panel considers—
+
+- (a) that it should handle the complaint otherwise than in accordance with Part 4 or should take no action in relation to it, and
+- (b) that the complaint falls within a description of complaints specified in paragraph (3),
+
+the panel may handle the complaint in whatever manner (if any) that panel thinks fit.
+
+(3) The descriptions of complaints specified for the purposes of paragraph (2)(b) are those where the police and crime panel considers that—
+
+- (a)[^key-fc31d28aac7db3c690ea439eb66a2aa8][^key-763c601b8bf77aaaedd8a7110f78670b] the complaint is concerned entirely with the conduct of a relevant office holder in relation to a person who was working in his capacity as a member of the office holder’s staff at the time when the conduct is supposed to have taken place.
+- (b) more than 12 months have elapsed between the incident, or the latest incident, giving rise to the complaint and the making of the complaint and either—
+  - (i) no good reason for the delay has been shown, or
+  - (ii) injustice would be likely to be caused by the delay;
+- (c) the matter is already the subject of a complaint;
+- (d) the complaint discloses neither the name and address of the complainant nor that of any other interested person and it is not reasonably practicable to ascertain such a name or address;
+- (e) the complaint is vexatious, oppressive or otherwise an abuse of the procedures for dealing with complaints;
+- (f) the complaint is repetitious (for which, see paragraph (4)).
+
+(4) A complaint is repetitious for the purposes of paragraph (3)(f) if, and only if—
+
+- (a) it is substantially the same as a previous complaint (whether made by or on behalf of the same or a different complainant), or it concerns substantially the same conduct as a previous conduct matter;
+- (b) it contains no fresh allegations which significantly affect the account of the conduct complained of;
+- (c) no fresh evidence, being evidence which was not reasonably available at the time the previous complaint was made, is tendered in support of it; and
+- (d) as regards the previous complaint or conduct matter, either—
+  - (i) the Director General took the steps required by regulation 26(2) (action in response to an investigation report);
+  - (ii) the complaint was resolved in accordance with the provisions of Part 4 (resolution of other complaints);
+  - (iii) the complainant gave such notification that he withdrew the complaint as is mentioned in regulation 16; or
+  - (iv) the police and crime panel decided to handle the complaint in whatever way it saw fit, in accordance with this regulation.
+
+(5) The police and crime panel shall notify the complainant that it has decided to handle the complaint as permitted by paragraph (2).
+
+### 16. Withdrawn and discontinued complaints[^key-27223c3716d4356081b24c72e6f194da]
+
+(1) If a police and crime panel receives from a complainant notification in writing signed by him or by his solicitor or other authorised agent on his behalf to the effect either—
+
+- (a) that he withdraws the complaint, or
+- (b) that he does not wish any further steps to be taken in consequence of the complaint,
+
+then the panel shall forthwith record the withdrawal or the fact that the complainant does not wish any further steps to be taken, as the case may be, and subject to the following provisions of this regulation, these Regulations shall cease to apply in respect of that complaint.
+
+(2) Where a complainant gives such notification as is mentioned in paragraph (1) to the Director General but, so far as is apparent to the Director General, has not sent that notification to the police and crime panel, then—
+
+- (a) the Director General shall send a copy of that notification to the panel;
+- (b) that panel shall record the withdrawal or the fact that the complainant does not wish any further steps to be taken, as the case may be; and
+- (c) subject to the following provisions of this regulation, the provisions of these Regulations shall cease to apply in respect of that complaint.
+
+(3) Where a complainant gives such notification as is mentioned in paragraph (1) to a police and crime panel, or where the panel receives a copy of a notification under paragraph (2), and it relates to a complaint which was referred to the Director General under regulation 13 and which has not been referred back to the panel under regulation 14(2), then the panel shall notify the Director General that it has recorded the withdrawal of the complaint or the fact that the complainant does not wish any further steps to be taken, as the case may be.
+
+(4) Where a complainant gives such notification as is mentioned in paragraph (1) to a police and crime panel, or where the panel receives a copy of a notification under paragraph (2), and that notification relates to a complaint which does not fall within paragraph (3), then the panel shall determine whether the complaint is one made about conduct which constitutes or involves, or appears to constitute or involve, the commission of a criminal offence and should therefore be treated as a conduct matter.
+
+(5) In a case falling within paragraph (3), the Director General shall determine whether it is in the public interest for the complaint to be treated as a conduct matter, and shall notify the police and crime panel of the Director General’s determination.
+
+(6) Where a determination is made that a complaint is to be treated as a conduct matter, then it shall be recorded by the police and crime panel as a conduct matter and the provisions of these Regulations shall apply to it accordingly.
+
+(7) Where a complainant indicates that he wishes to withdraw the complaint or that he does not wish any further steps to be taken in consequence of the complaint, but he fails to provide a notification to that effect in writing signed by him or on his behalf, then—
+
+- (a) in the case of an indication received by the police and crime panel, the panel shall take the steps set out in paragraph (8);
+- (b) in the case of an indication received by the Director General, the Director General shall refer the matter to the panel which shall take the steps set out in paragraph (8).
+
+(8) Those steps are—
+
+- (a) the police and crime panel shall write to the complainant to ascertain whether he wishes to withdraw his complaint or does not wish any further steps to be taken in consequence of the complaint;
+- (b) if the complainant indicates that he wishes to withdraw his complaint or does not wish any further steps to be taken in consequence of the complaint, or if he fails to reply within 21 days, the panel shall treat the indication as though it had been received in writing signed by the complainant;
+- (c) if the complainant indicates that he does not wish to withdraw his complaint, or that he does wish further steps to be taken in consequence of the complaint, the panel shall continue to handle the complaint in accordance with these Regulations.
+
+(9) The police and crime panel shall notify the person complained against if—
+
+- (a) it records the withdrawal of a complaint or the fact that the complainant does not wish any further steps to be taken;
+- (b) it determines that a complaint should be treated as a conduct matter;
+- (c) the Director General determines that a complaint should be treated as a conduct matter; or
+- (d) the provisions of these Regulations cease to apply in respect of a complaint.
+
+(10) But nothing in paragraph (9) shall require the police and crime panel to make a notification if it has previously decided under regulation 31(3) not to notify the person complained against of the complaint because it is of the opinion that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
+
+### 17. Conduct occurring outside England and Wales[^key-2935af96191532656175527a40b80c4a]
+
+(1) It shall be the duty of a relevant office holder to notify the police and crime panel of any allegation, investigation or proceedings in relation to his conduct which does not amount to a conduct matter for the purposes of these Regulations only by reason of the fact that the conduct in question did not occur in England and Wales.
+
+(2) A police and crime panel receiving a notification under paragraph (1) shall handle the matter in whatever manner (if any) that panel thinks fit.
+
+## PART 3 — Investigation of Serious Complaints and Conduct Matters
+
+### 18. Power to determine the form of an investigation[^key-a25df8e5b5241c14074cf00ca08de34d]
+
+(1) This regulation applies where—
+
+- (a) a complaint or conduct matter is referred to the Director General; and
+- (b) the Director General determines that it is necessary for the complaint or matter to be investigated.
+
+(2) It shall be the duty of the Director General to determine the form which the investigation should take.
+
+(3) In making a determination under paragraph (2) the Director General shall have regard to the following factors—
+
+- (a) the seriousness of the case; and
+- (b) the public interest.
+
+(4) The only forms which the investigation may take in accordance with a determination made under this regulation are—
+
+- (a) an investigation by a police force selected by the Director General, under the management of the Director General;
+- (b) an investigation by the Director General [^key-f969b26b0115e968b44b060d444cf320]....
+
+(5) The Director General may at any time make a further determination under this regulation to replace an earlier one.
+
+(6) Where a determination under this regulation replaces an earlier determination under this regulation the Director General may give the relevant police force such directions as the Director General considers appropriate for the purpose of giving effect to the new determination.
+
+(7) It shall be the duty of a person to whom a direction is given under paragraph (6) to comply with it.
+
+(8) The Director General shall notify the police and crime panel of any determination that the Director General makes under this regulation in relation to a particular complaint or conduct matter.
+
+### 19. Investigations managed by the Director General[^key-d3112043811747ee1ced64953f2342db]
+
+(1) This regulation applies where the Director General has determined that the Director General should manage the investigation by a selected police force of any complaint or conduct matter.
+
+(2) On being given notice of that determination, the chief officer of police of the selected police force shall, if he has not already done so, appoint a person serving with the police (whether under the direction and control of that chief officer of police or the chief officer of another force) to investigate the complaint or matter.
+
+(3) No person shall be appointed to carry out an investigation under paragraph (2)—
+
+- (a) unless he has an appropriate level of knowledge, skills and experience to plan and manage the investigation;
+- (b) if he is a person whose involvement in the role could reasonably give rise to a concern as to whether he could act impartially under these Regulations.
+
+(4) The Director General may require that no appointment is made under paragraph (2) unless the Director General has given notice to the chief officer of police of the relevant police force that it approves the person whom that chief officer of police proposes to appoint.
+
+(5) Where a person has already been appointed to investigate the complaint or matter, or is selected under this paragraph for appointment, and the Director General is not satisfied with that person, the Director General may require the chief officer of police, as soon as reasonably practicable after being required to do so—
+
+- (a) to select another person serving with the police (whether under the direction and control of that chief officer of police or the chief officer of another force) to investigate the complaint or matter; and
+- (b) to notify the Director General of the person selected.
+
+(6) Where a selection made in pursuance of a requirement under paragraph (5) has been notified to the Director General, the chief officer of police shall appoint that person to investigate the complaint or matter if, but only if, the Director General notifies the chief officer of police that the Director General approves the appointment of that person.
+
+(7) The person appointed to investigate the complaint or matter shall, in relation to that investigation, be under the direction and control of the Director General.
+
+### 20. Investigations by the Director General ...[^key-fb037f7eb180cf6cf27f061fede3e493][^key-517f8e5ffff9bd43578486585fb9de9f]
+
+(1) This regulation applies where the Director General has determined that the Director General should itself carry out the investigation of a complaint or conduct matter.
+
+(2)[^key-ac72940866d3317791d92b16be7b594e] The Director General shall designate both—
+
+- (a) a person to take charge of the investigation; and
+- (b) such members of the IOPC’s staff as are required by the Director General to assist the person designated to take charge of the investigation.
+
+(2A) The person designated under paragraph (2) to take charge of an investigation shall be—
+
+- (a) the Director General acting personally; or
+- (b) a person who is authorised to exercise the function of taking charge of the investigation on behalf of the Director General by virtue of paragraph 6A of Schedule 2 to the 2002 Act (delegation of Director General’s functions).
+
+(3) Paragraph 19(4), (5), (7) and (8) of Schedule 3 to the 2002 Act (powers of constable for IOPC[^key-ff4f0fb2a6e963e477679524086c989f] staff) shall apply in relation to an investigation under this regulation, with the modification that the reference in paragraph 19(4)(a) to a member of the IOPC’s[^key-462c7d880107bf60aab71a5363d9a905] staff designated under paragraph 19(2) shall have effect as a reference to a member of the IOPC’s staff designated under paragraph (2) of this regulation.
+
+(4) Any order made under section 19 of, or paragraph 19(6) of Schedule 3 to, the 2002 Act (use of investigatory powers by or on behalf of the Director General; application of provisions of Police and Criminal Evidence Act 1984[^f00006] to investigations conducted by IOPC[^key-b14beda8ec70079a999309d4021750b6] staff) shall apply in relation to an investigation under this regulation, with the modification that any reference in the order to a member of the IOPC’s[^key-d34961fd0adf76659512dac3531673e9] staff designated under paragraph 19(2) of Schedule 3 to the 2002 Act shall have effect as a reference to a member of the IOPC’s staff designated under paragraph (2) of this regulation.
+
+### 21. Combining and splitting investigations[^key-23cdd41af8fecc5a4c5192a746d7e958]
+
+(1) Subject to paragraph (2), where the Director General is managing or carrying out an investigation the Director General may—
+
+- (a) combine that investigation with another investigation; or
+- (b) split that investigation into two or more separate investigations,
+
+if it considers that it is more efficient and effective, or is otherwise in the public interest, to do so.
+
+(2) The Director General shall not take any action under paragraph (1) in relation to an investigation managed by the Director General under regulation 19 except after consulting the chief officer of police of the police force carrying out the investigation.
+
+(3) Nothing in this regulation shall prevent the Director General from determining that—
+
+- (a) where an investigation is split into two or more separate investigations, those investigations may take different forms;
+- (b) two or more separate investigations which take different forms may be combined into a single investigation.
+
+### 22. Suspension and resumption of an investigation[^key-3fd67cdcf1b4ac06b649255dcf811f4d]
+
+(1) The Director General may suspend any investigation or other procedure under these Regulations which would, if it were to continue, prejudice any criminal proceedings.
+
+(2) Where the whole or part of the investigation of a complaint has been suspended until the conclusion of criminal proceedings, and the complainant has failed to indicate after the conclusion of those proceedings that he wishes the investigation to start or be resumed, the Director General shall take the steps set out in paragraph (3).
+
+(3) The Director General shall take all reasonable steps to contact the complainant to ascertain whether he wants the investigation to start or be resumed, as the case may be.
+
+(4) If the complainant indicates that he does wish the investigation to start or be resumed, the Director General shall start or resume the investigation, as the case may be.
+
+(5) If the complainant indicates that he does not wish the investigation to start or be resumed, or if he fails to reply within 21 days to a letter sent to him by the Director General, the Director General shall determine whether it is in the public interest for the investigation to start or be resumed.
+
+(6) If the Director General determines that it is not in the public interest for the investigation to start or be resumed, the provisions of these Regulations shall cease to apply to the complaint.
+
+(7) If the Director General determines that it is in the public interest for the investigation to start or be resumed, the Director General shall treat the complaint as if it was a conduct matter referred to the Director General by a police and crime panel in accordance with these Regulations.
+
+(8) The Director General shall notify the person complained against if paragraph (6) or (7) applies.
+
+(9) But nothing in paragraph (8) shall require the Director General to make a notification if it is of the opinion that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
+
+### 23. Restrictions on proceedings pending the conclusion of an investigation[^key-8abaceb92c078c59152f9f6fd81589d1]
+
+Paragraph 20 of Schedule 3 to the 2002 Act shall apply in relation to a matter which is the subject of an investigation under this Part, modified so that it has effect as follows—
+
+> **20. Restrictions on proceedings pending the conclusion of an investigation**
+>
+> (1) No criminal proceedings shall be brought in relation to any matter which is the subject of an investigation in accordance with the provisions of Part 3 of the Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2011 (“the 2011 Regulations) until a report on that investigation has been submitted to the Director General under regulation 25 (final reports on investigations) or, where the Director General has personally carried out the investigation, a report has been completed by the Director General[^key-8d62cdd888a7e4a7a6fbf8fe3569ffdc].
+>
+> (2) Nothing in this paragraph shall prevent the bringing of criminal proceedings in respect of any conduct at any time after the discontinuance, in accordance with the provisions of Part 3 of the 2011 Regulations, of the investigation which relates to that conduct.
+>
+> (3) The restrictions imposed by this paragraph in relation to the bringing of criminal proceedings shall not apply to the bringing of criminal proceedings by the Director of Public Prosecutions in any case in which it appears to him that there are exceptional circumstances which make it undesirable to delay the bringing of such proceedings.
+
+.
+
+### 24. Power to discontinue an investigation[^key-c8daeb833c1de5b890cf4ce748ca612d]
+
+(1) If at any time it appears to the Director General (whether on an application by a chief officer of police made in accordance with paragraph (3) or otherwise) that a complaint or conduct matter that is being investigated under the management of the Director General is of a description specified in paragraph (2), the Director General may by order require the discontinuance of the investigation.
+
+(2) The descriptions of complaints or matters specified for the purposes of paragraph (1) are any complaint or matter—
+
+- (a) in which the complainant refuses to co-operate to the extent that the Director General considers that it is not reasonably practicable to continue the investigation;
+- (b) which the Director General considers should be handled in accordance with Part 4 (resolution of other complaints);
+- (c) which the Director General considers is vexatious, oppressive or otherwise an abuse of the procedures for dealing with complaints or conduct matters;
+- (d) which is repetitious, as defined in regulation 15(4); or
+- (e) which the Director General otherwise considers is such as to make it not reasonably practicable to proceed with the investigation.
+
+(3) Any application by a chief officer of police to the Director General for an order under paragraph (1) shall be in writing and shall be accompanied by—
+
+- (a) a copy of the complaint, and
+- (b) a memorandum from the chief officer of police containing a summary of the investigation undertaken so far and explaining the reasons for the application to discontinue the investigation.
+
+(4) The chief officer of police shall—
+
+- (a) send the complainant a copy of any such application on the same day as the day on which the application is sent to the Director General; and
+- (b) supply any further information requested by the Director General for the purpose of considering that application.
+
+(5) The Director General shall not require the discontinuance of an investigation in a case where there has been no application to do so by the chief officer of police under paragraph (3) unless the Director General has consulted with that chief officer of police.
+
+(6) The Director General shall not discontinue any investigation that is being carried out by the Director General itself except in a case where the complaint or conduct matter under investigation falls within paragraph (2).
+
+(7) Where the Director General makes an order under paragraph (1) or discontinues an investigation being carried out by the Director General [^key-387a07ea111bd74b223089344d9f2c02]..., the Director General shall give notification of the discontinuance—
+
+- (a) to the police and crime panel; and
+- (b) to every person entitled to be kept properly informed in relation to the subject matter of the investigation under regulation 32(3).
+
+(8) Where an investigation of a complaint or conduct matter is discontinued in accordance with this regulation—
+
+- (a) the Director General may give the chief officer of police or the police and crime panel directions to do anything specified in paragraph (9);
+- (b) the Director General may itself take any such steps of a description specified in paragraph (10) as the Director General considers appropriate for purposes connected with the discontinuance of the investigation; and
+- (c) subject to sub-paragraphs (a) and (b), neither the panel nor the Director General shall take any further action under these Regulations in relation to that complaint or matter.
+
+(9) A direction under paragraph (8)(a) may—
+
+- (a) require the chief officer of police to produce an investigation report on the discontinued investigation under regulation 25 (final reports on investigations) and to take any subsequent steps under these Regulations;
+- (b) where the investigation concerned a complaint, require the police and crime panel to disapply the requirements of these Regulations as regards that complaint;
+- (c) in a case within paragraph (2)(b), require the police and crime panel to handle the complaint in accordance with Part 4;
+- (d) direct the police and crime panel to handle the matter in whatever manner (if any) that panel thinks fit.
+
+(10) The steps that may be taken by the Director General under paragraph (8)(b) are—
+
+- (a) to produce an investigation report on the discontinued investigation and take any subsequent steps under these Regulations;
+- (b) where the investigation concerned a complaint, to disapply the requirements of these Regulations as regards that complaint;
+- (c) to handle the matter in whatever manner the Director General thinks fit.
+
+(11) A chief officer of police or a police and crime panel shall comply with any directions given to him or to it under paragraph (8)(a).
+
+### 25. Reports on investigations[^key-129eb9dad9ab44f2bcd0bee92d71c8ee]
+
+(1) This regulation applies on the completion of an investigation of a complaint or conduct matter.
+
+(2) A person appointed under regulation 19 (investigations managed by the Director General) shall submit a report on his investigation to the Director General.
+
+(3)[^key-b08e6e3cbac899a3562401103b740478] A person designated under regulation 20 (investigations by the Director General) as the person in charge of an investigation shall—
+
+- (a) submit a report on the investigation to the Director General; or
+- (b) where the person in charge of the investigation is the Director General acting personally, complete a report on the investigation.
+
+(4) A person submitting or, in the case of an investigation under regulation 20 by the Director General acting personally, completing[^key-5f9c03e41f92ca0a4e9820f06db3beea] a report under this regulation shall not be prevented by any obligation of secrecy imposed by any rule of law or otherwise from including all such matters in his report as he thinks fit.
+
+### 26. Action in response to an investigation report[^key-9cc59c1ecc82816e53d8f3e823cf4811]
+
+(1) This regulation applies where—
+
+- (a) a report on an investigation carried out under the management of the Director General is submitted to the Director General under regulation 25(2); or
+- (b) a report on an investigation carried out by a person designated by the Director General is submitted to the Director General, or is otherwise completed,[^key-367b003108fe4be5d398deeaad0b8130] under regulation 25(3).
+
+(2) On receipt of the report , or on its completion by the Director General,[^key-7f65d74d2fd28586ed7689d66ee30aa1] the Director General—
+
+- (a) shall determine whether the conditions set out in paragraphs (3) and (4) are satisfied in respect of the report;
+- (b) if the Director General determines that those conditions are so satisfied, shall notify the Director of Public Prosecutions of the determination and send him a copy of the report; and
+- (c) shall notify—
+  - (i) the police and crime panel, and
+  - (ii) every person entitled to be kept properly informed in relation to the investigation under regulation 32(3),
+
+  of the Director General’s determination under sub-paragraph (a) and of any action taken by the Director General under sub-paragraph (b).
+
+(3) The first condition is that the report indicates that a criminal offence may have been committed by the relevant office holder.
+
+(4) The second condition is that the circumstances are such that, in the opinion of the Director General, it is appropriate for the matters dealt with in the report to be considered by the Director of Public Prosecutions.
+
+(5) The Director of Public Prosecutions shall notify the Director General of any decision of his to take, or not to take, action in respect of the matters dealt with in any report a copy of which has been sent to him under paragraph (2)(b).
+
+(6) It shall be the duty of the Director General to notify—
+
+- (a) the police and crime panel, and
+- (b) every person entitled to be kept properly informed in relation to the investigation under regulation 32(3)
+
+if criminal proceedings are brought against any person by the Director of Public Prosecutions in respect of any matters dealt with in a report copied to him under sub-paragraph (2)(b).
+
+(7) In relation to every report submitted to the Director General under regulation 25, the Director General shall, subject to paragraph (8)—
+
+- (a) send a copy of the report to the police and crime panel; and
+- (b) publish the report.
+
+(8) The Director General may delay the sending or publication of a report, or withhold any part of a report from sending or publication, if the Director General considers that it is necessary to do so for the purposes mentioned in regulation 33(1)(a) or (b).
+
+## PART 4 — Resolution of Other Complaints
+
+### 27. Complaints to which this Part applies[^key-be7ea8c9ecf4b83bfc1e7b7552c17404]
+
+This Part applies to a complaint which has been recorded by the police and crime panel unless the complaint—
+
+- (a) is one which has been, or must be, referred to the Director General under regulation 13, and is not for the time being referred back to the panel under regulation 14(2); or
+- (b) is one which the panel has decided to handle as permitted by regulation 15(2).
+
+### 28. Informal resolution[^key-8ad8c6bd554174b947d19bde00c31e2a]
+
+(1)[^key-30f6a78496b67cfc99beec787c298cb7][^key-6c6b89a32feb19ddba48282acbd47786] If a complaint to which this Part applies concerns the conduct of—
+
+- (a) a police and crime commissioner;
+- (b) a deputy police and crime commissioner; or
+- (c) a holder of the office of Deputy Mayor for Policing and Crime who is not a member of the London Assembly at the time when the complaint is recorded,
+
+the police and crime panel shall make arrangements for the complaint to be subjected to informal resolution.
+
+(2) The informal resolution of any complaint shall be discontinued if—
+
+- (a) the Director General notifies the police and crime panel that the Director General requires the complaint to be referred to the Director General under regulation 13(1)(b); or
+- (b) the complaint is so referred otherwise than in pursuance of such a notification.
+
+(3) The arrangements made by a police and crime panel for subjecting a complaint to informal resolution may include the appointment of a sub-committee or a single member of the panel, or (subject to paragraph (4)) a person who is not a member of the panel, to secure the informal resolution of the complaint, and any reference to the panel in paragraphs (6) to (14) shall be read as a reference to the sub-committee or person so appointed.
+
+(4) A police and crime panel shall not appoint a relevant office holder to secure the informal resolution of a complaint under paragraph (3).
+
+(5) In a case where a sub-committee or person is appointed under paragraph (3), the arrangements made by the police and crime panel may include arrangements for the complaint to be remitted at any time to the panel as a whole (whether at the request of the appointed sub-committee or person, the complainant or the person complained against, or otherwise) if the panel is of the opinion that this will lead to a more satisfactory resolution of the complaint.
+
+(6) Regulation 4(1) of the 2004 Regulations shall apply in relation to the informal resolution of a complaint, modified so that it has effect as follows—
+
+> (1) The procedures that are to be available for dealing with a complaint which is to be subjected to informal resolution under Part 4 of the Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2011 are, subject to the provisions of regulation 28 of those Regulations, any procedures which are approved by the Secretary of State in guidance issued under section 22(5) (as modified by regulation 4 of those Regulations).
+
+.
+
+(7) The procedures approved under regulation 4(1) of the 2004 Regulations (as modified by paragraph (6) of this regulation) shall not include investigation of the complaint, but the exercise by the police and crime panel of its powers to require the person complained against to—
+
+- (a) provide the panel with information or documents under section 13(1) or 33(5)(b) of the 2011 Act; or
+- (b) attend before the panel to answer questions or give evidence under section 29(1) or 33(5)(a) of the 2011 Act
+
+shall not be regarded as investigation for the purposes of this paragraph.
+
+(8) Where it appears to the police and crime panel that the complaint had in fact already been satisfactorily dealt with at the time it was brought to its notice—
+
+- (a) the panel may, subject to any representation by the complainant, treat it as having been resolved, and
+- (b) if the panel does so, paragraphs (9) to (14) shall not apply to it.
+
+(9) The police and crime panel shall as soon as practicable give the complainant and the person complained against an opportunity to comment on the complaint.
+
+(10) Where the person complained against chooses not to comment on the complaint, the police and crime panel shall record this fact in writing.
+
+(11) The police and crime panel shall not, for the purposes of informally resolving a complaint, tender on behalf of the person complained against an apology for his conduct unless the person complained against has admitted the conduct in question and has agreed to the apology.
+
+(12) Where a complaint has been subjected to informal resolution, the police and crime panel shall as soon as practicable make a record of the outcome of the procedure and send a copy of that record to the complainant and the person complained against.
+
+(13) A police and crime panel shall not publish any part of any such record unless the panel—
+
+- (a) has given the complainant and the person complained against the opportunity to make representations in relation to the proposed publication; and
+- (b) having considered any such representations, is of the opinion that publication is in the public interest.
+
+(14) A statement made by any person for the purposes of the informal resolution of any complaint shall not be admissible in any subsequent criminal or civil proceedings except to the extent that it consists of an admission relating to a matter that has not been subjected to informal resolution.
+
+### 29. Resolution in accordance with Part 3 of the Local Government Act 2000[^key-6573d49d2ef3481dc0c8a94b26f64c4e][^key-ca485321bb6eb268ff122a0002fc93c9][^key-cbf6de2bda9e9196f10bbc6be2775ca4]
+
+(1) If a complaint to which this Part applies concerns the conduct of—
+
+- (a) the holder of the Mayor’s Office for Policing and Crime; or
+- (b) a holder of the office of Deputy Mayor for Policing and Crime who is a member of the London Assembly at the time when the complaint is recorded,
+
+the police and crime panel shall pass the complaint to the monitoring officer appointed by the Greater London Authority under section 73(1) of the Greater London Authority Act 1999 (“the monitoring officer”).
+
+(2) On receiving a complaint in accordance with paragraph (1), the monitoring officer shall deal with it in accordance with Part 3 of the Local Government Act 2000[^f00007] as if it was a written allegation made under section 57A(1) of that Act.
+
+(3) The monitoring officer shall as soon as practicable inform the police and crime panel of the outcome of the complaint.
+
+## PART 5 — Provision and recording of information
+
+### 30. Address for receipt of complaints[^key-0f7b9ceb2889fa84a6a5e6c89285dd5c]
+
+(1) A police and crime panel shall notify the elected local policing body for the panel’s police area of the name and address of the person to whom complaints should be directed.
+
+(2) The elected local policing body shall publish the information notified to it under paragraph (1) by such means as the police and crime panel shall specify.
+
+### 31. Copies of complaints etc[^key-3f5bb6044db7a42e3221943ab33d321c]
+
+(1) Where a complaint is recorded under regulation 9(5), the police and crime panel shall—
+
+- (a) supply to the complainant a copy of the record made of the complaint; and
+- (b) subject to paragraphs (2) to (4), supply to the person complained against a copy of the complaint.
+
+(2) A copy of a complaint supplied under this regulation may be in a form which keeps anonymous the identity of the complainant or of any other person.
+
+(3) A police and crime panel may decide not to supply a copy of a complaint if it is of the opinion that to do so—
+
+- (a) might prejudice any criminal investigation or pending proceedings, or
+- (b) would otherwise be contrary to the public interest.
+
+(4) Where a police and crime panel decides not to supply a copy of a complaint, it shall keep that decision under regular review.
+
+### 32. Duty to keep complainant and any interested person informed[^key-1622b683f3089bf9d07cb762a072df5a]
+
+(1) This regulation applies—
+
+- (a) in the case of a complaint which is being or has been investigated in accordance with these Regulations, to—
+  - (i) the complainant; and
+  - (ii) any interested person; and
+- (b) in the case of a conduct matter which is being or has been investigated in accordance with these Regulations, to any interested person.
+
+(2) For the purposes of these Regulations a person is an interested person in relation to a complaint or conduct matter if—
+
+- (a) the Director General considers that he has an interest in the handling of the complaint or conduct matter which is sufficient to make it appropriate for information to be provided to him in accordance with this regulation, and
+- (b) he has indicated that he consents to the provision of information to him in accordance with this regulation.
+
+(3) It shall be the duty of the Director General to provide a person to whom this regulation applies with all such information as will keep him properly informed, while the investigation is being carried out and subsequently, of all the matters mentioned in paragraph (4), and the Director General shall perform this duty in accordance with paragraphs (5) to (10).
+
+(4) The matters of which a person to whom this regulation applies must be kept properly informed are—
+
+- (a) the progress of the investigation;
+- (b) any provisional findings of the person carrying out the investigation;
+- (c) whether any report has been submitted under regulation 25 (final reports on investigations).
+
+(5) The Director General shall notify a person to whom this regulation applies of—
+
+- (a) the progress of the investigation promptly and in any event—
+  - (i) if there has been no previous notification, within four weeks of the start of the investigation; and
+  - (ii) in any other case, within four weeks of the previous notification;
+- (b) any provisional findings of the person carrying out the investigation as frequently as the Director General determines to be appropriate in order for the person to be kept properly informed.
+
+(6) When an investigation has been completed, each person to whom this regulation applies shall be notified—
+
+- (a) of the date on which the report under regulation 25 is likely to be submitted;
+- (b) of the date on which the notification under regulation 26(2)(c) (action in response to an investigation report) is likely to be given.
+
+(7) In performing the duties imposed by paragraph (3) and by regulation 26(2)(c), the Director General shall determine whether it is appropriate to offer, or to accede to a request for, a meeting with a person to whom this regulation applies.
+
+(8) As soon as practicable after any such meeting the Director General shall send to the person concerned a written record of the meeting and an account of how any concerns of that person will be addressed.
+
+(9) If the Director General considers that an investigation has made minimal or no progress since the previous notification, then the next notification may be made by any means that in the opinion of the Director General is suitable.
+
+(10) Any notification under this regulation shall be given in writing, except in a case where the Director General gives the notification at a meeting held in consequence of a determination under paragraph (7), or where the Director General gives the notification by means other than writing in accordance with paragraph (9).
+
+### 33. Exceptions to the duty to keep the complainant and any interested person informed[^key-fb00586f10d60e7a044675ebfa61cd54]
+
+(1) Subject to paragraph (2), the duties mentioned in regulations 26(2)(c) and 32(3) shall not apply in circumstances where in the opinion of the Director General the non-disclosure of information is necessary for the purpose of—
+
+- (a) preventing the premature or inappropriate disclosure of information that is relevant to, or may be used in, any actual or prospective criminal proceedings;
+- (b) preventing the disclosure of information in any circumstances in which its non-disclosure—
+  - (i) is in the interests of national security;
+  - (ii) is for the purposes of the prevention or detection of crime, or the apprehension or prosecution of offenders;
+  - (iii) is required on proportionality grounds; or
+  - (iv) is otherwise necessary in the public interest.
+
+(2) The Director General shall not conclude that the non-disclosure of information is necessary under paragraph (1) unless the Director General is satisfied that—
+
+- (a) there is a real risk of the disclosure of that information causing an adverse effect; and
+- (b) that adverse effect would be significant.
+
+(3) Without prejudice to the generality of paragraph (1), the Director General shall consider whether the non-disclosure of information is justified under that paragraph in circumstances where—
+
+- (a) the disclosure of that information may prejudice the welfare or safety of any third party;
+- (b) the information constitutes criminal intelligence.
+
+### 34. Keeping of records by police and crime panels[^key-0ee467ed2ca171a3b3bfb5125d9d7938]
+
+Every police and crime panel shall keep records, in such form as the Director General shall determine, of—
+
+- (a) every complaint and purported complaint that is made to it;
+- (b) every conduct matter recorded by it under regulation 11 or 12;
+- (c) every exercise of a power or performance of a duty under these Regulations.
+
+### 35. Provision of information to the Director General[^key-20596312c38dc65857a661ec82aae7fd]
+
+(1) It shall be the duty of every police and crime panel, every relevant office holder and every chief officer of police—
+
+- (a) to provide the Director General with all such information and documents specified or described in a notification given by the Director General to that panel, office holder or chief officer, and
+- (b) to produce or deliver up to the Director General all such evidence and other things so specified or described,
+
+as appear to the Director General to be required by the Director General for the purposes of the carrying out of any of the Director General’s functions.
+
+(2) Anything falling to be provided, produced or delivered up by any person in pursuance of a requirement imposed under paragraph (1) must be provided, produced or delivered up in such form, in such manner and within such period as may be specified in—
+
+- (a) the notification imposing the requirement; or
+- (b) any subsequent notification given by the Director General to that person for the purposes of this paragraph.
+
+(3) Nothing in this regulation shall require a person—
+
+- (a) to provide the Director General with any information or document, or to produce or deliver up any other thing, before the earliest time at which it is practicable for the person to do so; or
+- (b) to provide, produce or deliver up anything in a case in which it never becomes practicable for the person to do so.
+
+(4) A requirement imposed by any notification under this regulation may authorise or require information or documents to which it relates to be provided to the Director General electronically.
+
+### 36. Access to premises on behalf of the Director General[^key-75118d21589c974774c64cba90c91966]
+
+(1) Where—
+
+- (a) the Director General requires—
+  - (i) a police and crime panel,
+  - (ii) a relevant office holder, or
+  - (iii) a chief officer of police
+
+  to allow a person nominated for the purpose by the Director General to have access to any premises occupied for the purposes of the functions of that panel, office holder or chief officer and to documents and other things on those premises, and
+- (b) the requirement is imposed for any of the purposes mentioned in paragraph (2),
+
+it shall be the duty of the panel, the office holder or, as the case may be, the chief officer to secure that the required access is allowed to the nominated person.
+
+(2) Those purposes are—
+
+- (a) the purposes of any examination by the Director General of the efficiency and effectiveness of the arrangements made in accordance with these Regulations for handling complaints or dealing with conduct matters;
+- (b) the purposes of any investigation carried out by the Director General or under the Director General’s management in accordance with these Regulations.
+
+(3) A requirement imposed under this regulation for the purposes mentioned in paragraph (2)(a) must be notified to the police and crime panel, relevant office holder or chief officer of police at least 48 hours before the time at which access is required.
+
+(4) Where—
+
+- (a) a requirement imposed under this regulation for the purposes mentioned in paragraph (2)(a) requires access to any premises, document or thing to be allowed to any person, but
+- (b) there are reasonable grounds for not allowing that person to have the required access at the time at which he seeks to have it,
+
+the obligation to secure that the required access is allowed shall have effect as an obligation to secure that the access is allowed to that person at the earliest practicable time after there cease to be any such grounds as that person may specify.
+
+(5) The provisions of this regulation are in addition to, and without prejudice to—
+
+- (a) the rights of entry, search and seizure that are or may be conferred on—
+  - (i) a person designated for the purposes of regulation 20 (investigations by the Director General [^key-509cdce8aee934d78d328d39da3bb274]...), or
+  - (ii) any person who otherwise acts on behalf of the Director General,
+
+  in his capacity as a constable or as a person with the powers and privileges of a constable; or
+- (b) the obligations on police and crime panels, relevant office holders and chief officers of police under regulation 6 (general duties of police and crime panels, relevant office holders and chief officers of police) and 35 (provision of information to the Director General).
+
+### 37. Manner and time limits of notifications[^key-455d89200e6049c24fb3ae7ce9ce52f4]
+
+Regulation 27 of the 2004 Regulations shall apply in relation to notifications to be given under these Regulations, modified so that it has effect as follows—
+
+> **27. Manner and time limits of notifications**
+>
+> (1) Any notification to be given under the Elected Local Policing Bodies (Complaints and Misconduct) Regulations 2011 shall, unless otherwise specified in those Regulations, be given in writing.
+>
+> (2) No time limit mentioned in those Regulations shall apply in any case where exceptional circumstances prevent that time limit being complied with.
+
+.
+
+### 38. Register to be kept by the Director General[^key-7e18772bb16e6cd65438ea726fa393e3]
+
+(1) The Director General shall establish and maintain a register of all information supplied to the Director General by a police and crime panel or relevant office holder under these Regulations.
+
+(2) Subject to paragraph (3), the Director General may publish or otherwise disclose to any person any information held on the register provided that the publication or disclosure is necessary for or conducive to the purpose of—
+
+- (a) improving the handling of complaints and conduct matters, or demonstrating the thoroughness and effectiveness of investigations by or under the management of the Director General;
+- (b) raising public awareness of the system by which complaints and conduct matters are handled; or
+- (c) improving that system.
+
+(3) Information may not be published or disclosed in circumstances where in the opinion of the Director General the non-disclosure of information is necessary for the purposes mentioned in regulation 33(1)(a) and (b).
+
+Nick Herbert
+
+Minister of State
+
+Home Office
+
+10th January 2012
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations set out the functions of police and crime panels and the Independent Police Complaints Commission in relation to the handling of complaints and other matters concerning the conduct of police and crime commissioners, deputy police and crime commissioners, the holder of Mayor’s Office for Policing and Crime and the Deputy Mayor for Policing and Crime (referred to collectively as relevant office holders). The Regulations set out the process to be followed in dealing with these complaints and matters.
+
+In accordance with Schedule 7 to the Police Reform and Social Responsibility Act 2011, the Regulations provide for complaints alleging criminal conduct, and all conduct matters (those matters which indicate that criminal conduct may have occurred), to be referred to the Commission and investigated either by the Commission itself or by a police force under the management of the Commission. The Regulations provide for any other complaint to be resolved informally by the police and crime panel, except in the case of complaints against the holder of the Mayor’s Office for Policing and Crime, or the Deputy Mayor for Policing and Crime if he is a member of the London Assembly. The Regulations provide for these latter categories of complaints to be passed to the monitoring officer of the Greater London Authority, who is responsible for dealing with other complaints about the conduct of the Mayor and Assembly members.
+
+These Regulations are closely based on Part 2 of the Police Reform Act 2002 and the Regulations made under it, which make provision for powers, duties and procedures in relation to the handling of complaints against persons serving with the police. In some instances these Regulations apply provisions of Part 2 or the secondary legislation made under it, with or without modifications.
+
+## Annotations
+
+[^f00001]: Footnote: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13).
+
+[^key-0682b7f7ad20c77a7126c3deb4e26cfa]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/62) applied (with modifications) (1.10.2017) by [The Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017 (S.I. 2017/863)](https://www.legislation.gov.uk/uksi/2017/863), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1), [28](https://www.legislation.gov.uk/uksi/2017/863/article/28), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/863/schedule/1)
+
+[^key-b02b9df39ce56ae4ba2bc0ea17f413f0]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/62) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 52](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/52)
+
+[^key-ca5abd1cb4218a3da64f0c56d845e97c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/62) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/51)
+
+[^key-5c18d1bdd6a15fd68973bc55e6a17b00]: Commencement: Reg. 1 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-f47d2143cfbe3d7ab9c3361f7e093308]: Commencement: Reg. 2 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-87460da3a216839ae30ac2c3a40ba457]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/62/regulation/2) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 52(2)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/52/2)
+
+[^key-66068ac800df7c767daace095e24c9fb]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/62/regulation/2) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 51(2)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/51/2)
+
+[^f00002]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30).
+
+[^f00003]: Footnote: [S.I. 2004/643](https://www.legislation.gov.uk/uksi/2004/643), as amended by [S.I. 2005/3389](https://www.legislation.gov.uk/uksi/2005/3389), [S.I. 2006/1406](https://www.legislation.gov.uk/uksi/2006/1406) and [S.I. 2008/2866](https://www.legislation.gov.uk/uksi/2008/2866).
+
+[^key-775c186d2eb921153f803821afb436bb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/62/regulation/2/1) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(4)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/4/a/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-f38427815468b275ab3295b8ecc8118a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/62/regulation/2/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/4/a/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^f00004]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16). Schedule 1 is amended by section 129(a) of the Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50) and by [S.I. 1997/1377](https://www.legislation.gov.uk/uksi/1997/1377), [S.I. 1997/1844](https://www.legislation.gov.uk/uksi/1997/1844), [S.I. 1997/1845](https://www.legislation.gov.uk/uksi/1997/1845), [S.I. 1997/1846](https://www.legislation.gov.uk/uksi/1997/1846), [S.I. 1997/1847](https://www.legislation.gov.uk/uksi/1997/1847), [S.I. 1987/1849](https://www.legislation.gov.uk/uksi/1987/1849), [S.I. 1987/1850](https://www.legislation.gov.uk/uksi/1987/1850), [S.I. 1997/1855](https://www.legislation.gov.uk/uksi/1997/1855), [S.I. 1987/1857](https://www.legislation.gov.uk/uksi/1987/1857) and [S.I. 2009/119](https://www.legislation.gov.uk/uksi/2009/119).
+
+[^key-cb5546ddf52c18c5e868f1f38333096c]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/62) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 21(2)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/2/a) (with [regs. 21(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-c8b3608f9e25635bad3bbee1ec7107c2]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/62/regulation/2/2) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(4)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/4/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-75218001106d643cfcbdf1a9ca581a1a]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/62) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 21(2)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/2/d) (with [regs. 21(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-fea62a35179d2dc6d69859197742e10b]: Commencement: Reg. 3 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-e9db941702674f97d90210561111510b]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/62) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 21(2)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/2/c) (with [regs. 21(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-29de3b5ffcfe10cf777e6101ca3f4681]: Textual amendment: [Reg. 3(4A)](https://www.legislation.gov.uk/uksi/2012/62/regulation/3/4A) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(5)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/5/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-b9b02e3283c3428cb23ddc0f8211a38b]: Textual amendment: Word in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2012/62/regulation/3/5) substituted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(5)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/5/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-085759206c7652ce3d0c4c8deb8e8948]: Textual amendment: Word in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2012/62/regulation/3/7) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(5)(c)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/5/c/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-bdea98099b4609d703d3b2ca37bed3a7]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2012/62/regulation/3/7) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/5/c/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-48979e1b89375761ef304b67a5601e97]: Textual amendment: [Regs. 3A](https://www.legislation.gov.uk/uksi/2012/62/regulation/3A), [3B](https://www.legislation.gov.uk/uksi/2012/62/regulation/3B) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(6)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/6) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-0958bd63ab8cdd273b1a44849cff7d5e]: Commencement: Reg. 4 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-6b7f4bc5e7da2d8bb3cf4e8d3e794260]: Commencement: Reg. 5 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-c2510c4039d4074b33a4eb7978051d40]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2012/62/regulation/5/1) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(7)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/7/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-3d16a6635368e94902df668161f588a3]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/62) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 21(2)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/2/b) (with [regs. 21(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-62ec4daf1386396490b8751c993c1bee]: Textual amendment: Word in [reg. 5(6)](https://www.legislation.gov.uk/uksi/2012/62/regulation/5/6) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(7)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/7/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-52c00b9ce5d26c254beee24dc1e1b61e]: Commencement: Reg. 6 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-bcc2b86f58d275a751f6666667ad2840]: Textual amendment: Word in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2012/62/regulation/6/4) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(8)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/8) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-5ba5dd1999f329aed520b4974f2b843f]: Commencement: Reg. 7 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-0e4bebb3d48dbf118d26edb0371f648b]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/62/regulation/7) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 52(3)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/52/3)
+
+[^key-8a9a294d907eedd0ca706e5962a3c8e8]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/62/regulation/7) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 51(3)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/51/3)
+
+[^f00005]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29). Section 73(1) was substituted by section 9 of the Greater London Authority Act [2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24).
+
+[^key-6fa4618019985aa06caf4d2a731d08f2]: Commencement: Reg. 8 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-c52a933e994dd30cf5af52d9c21c2b6d]: Commencement: Reg. 9 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-f99b2118db8b6384fff42d1384f3a010]: Commencement: Reg. 10 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-5e386309c11dce40ecc522899f75abb3]: Commencement: Reg. 11 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-8479a8a10db277ce8905d16210b3accf]: Commencement: Reg. 12 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-19756743464cb2c81421cbe68ffb3497]: Commencement: Reg. 13 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-3c386c7e669d3a12e7d97b6328a725e9]: Commencement: Reg. 14 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-d72a1a5a1545969be9448271e44f5e4d]: Commencement: Reg. 15 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-fc31d28aac7db3c690ea439eb66a2aa8]: Modification: [Reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2012/62/regulation/15/3/a) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 52(4)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/52/4)
+
+[^key-763c601b8bf77aaaedd8a7110f78670b]: Modification: [Reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2012/62/regulation/15/3/a) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 51(4)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/51/4)
+
+[^key-27223c3716d4356081b24c72e6f194da]: Commencement: Reg. 16 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-2935af96191532656175527a40b80c4a]: Commencement: Reg. 17 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-a25df8e5b5241c14074cf00ca08de34d]: Commencement: Reg. 18 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-f969b26b0115e968b44b060d444cf320]: Textual amendment: Word in [reg. 18(4)(b)](https://www.legislation.gov.uk/uksi/2012/62/regulation/18/4/b) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(9)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/9) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-d3112043811747ee1ced64953f2342db]: Commencement: Reg. 19 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-fb037f7eb180cf6cf27f061fede3e493]: Commencement: Reg. 20 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-517f8e5ffff9bd43578486585fb9de9f]: Textual amendment: Word in [reg. 20](https://www.legislation.gov.uk/uksi/2012/62/regulation/20) heading omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(10)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/10/a) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+
+[^key-ac72940866d3317791d92b16be7b594e]: Textual amendment: [Reg. 20(2)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/2)[(2A)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/2A) substituted for [reg. 20(2)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/2) (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(10)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/10/b) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+
+[^key-ff4f0fb2a6e963e477679524086c989f]: Textual amendment: Word in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(10)(c)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/10/c/i) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+
+[^key-462c7d880107bf60aab71a5363d9a905]: Textual amendment: Word in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(10)(c)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/10/c/ii) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+
+[^f00006]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
+
+[^key-b14beda8ec70079a999309d4021750b6]: Textual amendment: Word in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/4) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(10)(d)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/10/d/i) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+
+[^key-d34961fd0adf76659512dac3531673e9]: Textual amendment: Word in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2012/62/regulation/20/4) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(10)(d)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/10/d/ii) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+
+[^key-23cdd41af8fecc5a4c5192a746d7e958]: Commencement: Reg. 21 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-3fd67cdcf1b4ac06b649255dcf811f4d]: Commencement: Reg. 22 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-8abaceb92c078c59152f9f6fd81589d1]: Commencement: Reg. 23 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-8d62cdd888a7e4a7a6fbf8fe3569ffdc]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2012/62/regulation/23) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(11)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/11) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-c8daeb833c1de5b890cf4ce748ca612d]: Commencement: Reg. 24 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-387a07ea111bd74b223089344d9f2c02]: Textual amendment: Word in [reg. 24(7)](https://www.legislation.gov.uk/uksi/2012/62/regulation/24/7) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(12)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/12) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-129eb9dad9ab44f2bcd0bee92d71c8ee]: Commencement: Reg. 25 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-b08e6e3cbac899a3562401103b740478]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/uksi/2012/62/regulation/25/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(13)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/13/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-5f9c03e41f92ca0a4e9820f06db3beea]: Textual amendment: Words in [reg. 25(4)](https://www.legislation.gov.uk/uksi/2012/62/regulation/25/4) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(13)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/13/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-9cc59c1ecc82816e53d8f3e823cf4811]: Commencement: Reg. 26 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-367b003108fe4be5d398deeaad0b8130]: Textual amendment: Words in [reg. 26(1)(b)](https://www.legislation.gov.uk/uksi/2012/62/regulation/26/1/b) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(14)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/14/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-7f65d74d2fd28586ed7689d66ee30aa1]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/2012/62/regulation/26/2) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(14)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/14/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-be7ea8c9ecf4b83bfc1e7b7552c17404]: Commencement: Reg. 27 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-8ad8c6bd554174b947d19bde00c31e2a]: Commencement: Reg. 28 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-30f6a78496b67cfc99beec787c298cb7]: Modification: [Reg. 28(1)](https://www.legislation.gov.uk/uksi/2012/62/regulation/28/1) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 52(5)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/52/5)
+
+[^key-6c6b89a32feb19ddba48282acbd47786]: Modification: [Reg. 28(1)](https://www.legislation.gov.uk/uksi/2012/62/regulation/28/1) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 51(5)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/51/5)
+
+[^key-6573d49d2ef3481dc0c8a94b26f64c4e]: Commencement: Reg. 29 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-ca485321bb6eb268ff122a0002fc93c9]: Modification: [Reg. 29](https://www.legislation.gov.uk/uksi/2012/62/regulation/29) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 52(6)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/52/6)
+
+[^key-cbf6de2bda9e9196f10bbc6be2775ca4]: Modification: [Reg. 29](https://www.legislation.gov.uk/uksi/2012/62/regulation/29) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 51(6)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/51/6)
+
+[^f00007]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22). Section 57A was inserted by the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28).
+
+[^key-0f7b9ceb2889fa84a6a5e6c89285dd5c]: Commencement: Reg. 30 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-3f5bb6044db7a42e3221943ab33d321c]: Commencement: Reg. 31 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-1622b683f3089bf9d07cb762a072df5a]: Commencement: Reg. 32 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-fb00586f10d60e7a044675ebfa61cd54]: Commencement: Reg. 33 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-0ee467ed2ca171a3b3bfb5125d9d7938]: Commencement: Reg. 34 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-20596312c38dc65857a661ec82aae7fd]: Commencement: Reg. 35 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-75118d21589c974774c64cba90c91966]: Commencement: Reg. 36 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-509cdce8aee934d78d328d39da3bb274]: Textual amendment: Word in [reg. 36(5)(a)(i)](https://www.legislation.gov.uk/uksi/2012/62/regulation/36/5/a/i) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [21(15)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/21/15) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+
+[^key-455d89200e6049c24fb3ae7ce9ce52f4]: Commencement: Reg. 37 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)
+
+[^key-7e18772bb16e6cd65438ea726fa393e3]: Commencement: Reg. 38 in force at 16.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/62/regulation/1)

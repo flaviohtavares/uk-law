@@ -1,0 +1,40 @@
+---
+title: The Police Pensions Regulations 2015, section 146
+act: The Police Pensions Regulations 2015
+section: '146'
+status: revised
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/445/section/146
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police Pensions Regulations 2015, section 146
+
+> Text as at 2026-04-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 146. Annual rate of eligible child's pension
+
+*Extent: E+W+S+N.I.*
+
+(1) The annual rate of an eligible child's pension is determined by reference to the annual rate of the corresponding surviving adult's pension (disregarding any reduction falling to be made under regulation 142 (wide age disparity)) whether or not a surviving adult's pension becomes payable on the death of the member.
+
+(2) For the purposes of this regulation, the corresponding surviving adult's pensions are—
+
+- (a) for a child's earned pension, a surviving adult's earned pension;
+- (b) for a child's lower tier ill-health pension, a surviving adult's lower tier ill-health pension;
+- (c) for a child's enhanced upper tier ill-health pension, a surviving adult's enhanced upper tier ill-health pension; and
+- (d) for a child's added pension, a surviving adult's added pension.
+
+(3) If an eligible child's pension is payable in respect of one or 2 eligible children, the annual rate of eligible child's pension is equal to 50% of the annual rate of the corresponding surviving adult's pension.
+
+(4) If an eligible child's pension is payable in respect of 3 or more eligible children, the annual rate of eligible child's pension payable to each eligible child is equal to the appropriate fraction of 50% of the annual rate of the corresponding surviving adult's pension.
+
+(5) In this regulation, “**the appropriate fraction**” means
+
+*Y* is the number of eligible children in respect of whom the annual rate of eligible child's pension is calculated.
+
+(6) In calculating the annual rate of eligible child's pension payable on the death of a pension debit member of this scheme, the reduction of the pension debit member's benefits under section 31 of WRPA 1999 is disregarded.

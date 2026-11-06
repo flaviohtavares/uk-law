@@ -1,0 +1,476 @@
+---
+title: The Consumer Credit (Enforcement, Default and Termination Notices) Regulations 1983
+id: uksi/1983/1561
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1983-10-24'
+text_date: '2020-12-02'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1983/1561
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1983/1561/pdfs/uksi_19831561_en.pdf
+- http://www.legislation.gov.uk/uksi/1983/1561/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Consumer Credit (Enforcement, Default and Termination Notices) Regulations 1983
+
+> Text as at 2020-12-02.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1983 No. 1561
+
+CONSUMER CREDIT
+
+The Consumer Credit (Enforcement, Default and Termination Notices) Regulations 1983
+
+Made
+
+24th October 1983
+
+Laid before Parliament
+
+3rd November 1983
+
+Coming into Operation
+
+19th May 1985
+
+The Secretary of State, in exercise of the powers conferred on him by sections 76(3) and (5), 87(4), 88(1) and (4), 98(3) and (5), 182(2) and 189(1) of the Consumer Credit Act 1974 and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
+
+**1.**[^key-5ef3497f59261be61f52882ac1f4d3f5] (1) These Regulations may be cited as the Consumer Credit (Enforcement, Default and Termination Notices) Regulations 1983 and shall come into operation on 19th May 1985.
+
+(2) In these Regulations, “**the Act**” means the Consumer Credit Act 1974.
+
+**2.**[^key-f347c8dfcbfaf6ade89d8013137d1b27] (1) Any notice to be given by a creditor or owner in relation to a regulated agreement to a debtor or hirer under section 76(1) of the Act (which relates to the duty to give notice to the debtor or hirer (non-default cases) before taking certain action to enforce a term of an agreement) shall contain—
+
+- (a) a statement that the notice is served under section 76(1) of the Consumer Credit Act 1974;
+- (b) the information set out in paragraphs 1 to 5 of Schedule 1 to these Regulations; and
+- (c) statements in the form specified in paragraphs 6 to 8 of that Schedule.
+
+(2) Any notice to be given by a creditor or owner in relation to a regulated agreement to a debtor or hirer under section 87(1) of the Act (which relates to the necessity to serve a default notice on the debtor or hirer in accordance with section 88 before taking certain action by reason of any breach of the agreement by the debtor or hirer) shall contain—
+
+- (a) a statement that the notice is a default notice served under section 87(1) of the Consumer Credit Act 1974;
+- (b) the information set out in paragraphs 1 to 3, 6 and 8 of Schedule 2 to these Regulations; and
+- (c) statements in the form specified in paragraphs 4, 5, 7 and 9 to 13[^key-8c667e0a0a95246187e14e4a761c15ee] of that Schedule.
+
+(3) Any notice to be given by a creditor or owner in relation to a regulated agreement to a debtor or hirer under section 98(1) of the Act (which relates to the duty to give notice to the debtor or hirer (non-default cases) of termination of an agreement) shall contain—
+
+- (a) a statement that the notice is served under section 98(1) of the Consumer Credit Act 1974;
+- (b) the information set out in paragraphs 1 to 5 of Schedule 3 to these Regulations; and
+- (c) statements in the form specified in paragraphs 6 to 8 of that Schedule.
+
+(4) The lettering in any notice given under paragraph (1), (2) or (3) above shall, apart from any signature, be easily legible and of a colour which is readily distinguishable from the colour of the paper.
+
+(4A)[^key-3e3e89ddb44961effc2741ad53a21e10] Any notice to be given under a provision of these Regulations shall be in writing and given to the debtor or hirer in paper form.
+
+(5) Where any statement is required to be given prominence by[^key-83579f492dea6aa85c481e955f88400a] a Schedule to these Regulations and is reproduced in the notice, then apart from any heading to the notice , sub-heading within the notice[^key-507ef97c4e635e0c6022da582b9ee4ce], trade names or names of parties to the agreement—
+
+- (a) the lettering in the statement shall be afforded more prominence [^key-0fd5790f5ea7c1fa3a599e0b9fe7a85a]... than any other lettering in the notice; and
+- (b)[^key-cf4f6a07f485322005bb56dec6730d37] such prominence is only to be afforded by bold print or underlining.
+
+(6) Where any statement is required to be in a form specified in a Schedule to these Regulations and is reproduced in the notice, its wording[^key-20b151d95e925a2819e9911150f747de] shall be reproduced in the notice without any alteration or addition , in the same letter case[^key-aacac3406fe19c6a5a6aca96a6a3c72f], and in relation to any statement to be contained in the notice the requirements of any note shall be complied with, except that the words “the creditor” may be replaced by the name of the creditor, by the expression by which he is referred to in the agreement or by an appropriate pronoun, and any consequential changes to pronouns and verbs may be used.
+
+(6A)[^key-8f1b736c37099d39bd59557dbb207275] Despite paragraph (6)—
+
+- (a) the words “or a surety” may—
+  - (i) be omitted where there is no surety, or
+  - (ii) be replaced by “or a guarantor” where the surety is a guarantor,
+- (b) the words “, typically a guarantor,” may be omitted where the surety is not a guarantor.
+
+(7) Where any note requires any words to be omitted, those words shall be omitted or deleted.
+
+(8) Where a notice is to be given under sections 76(1) and 98(1) of the Act in relation to a regulated agreement, one notice may be given under the two sections reproducing the combined effect of Schedules 1 and 3 to these Regulations.
+
+(9) Sections 76(1), 87(1) and 98(1) of the Act shall not apply in the case of non-commercial agreements in relation to which no security has been provided.
+
+Alexander Fletcher
+
+Parliamentary Under-Secretary of State
+
+Department of Trade and Industry
+
+24th October 1983
+
+## SCHEDULE 1 — FORM OF NOTICE TO BE GIVEN IN NON-DEFAULT CASES BEFORE A CREDITOR OR OWNER CAN BECOME ENTITLED TO ENFORCE A TERM OF A REGULATED AGREEMENT BY DEMANDING EARLIER PAYMENT OF ANY SUM, RECOVERING POSSESSION OF ANY GOODS OR LAND OR TREATING ANY RIGHT CONFERRED ON THE DEBTOR OR HIRER BY THE AGREEMENT AS TERMINATED, RESTRICTED OR DEFERRED
+
+Regulation 2(1)
+
+### Details of agreement
+
+**1.**[^key-b197e58c6f059f3549adb17a5ed547de] A description of the agreement sufficient to identify it.
+
+### Parties to agreement
+
+**2.**[^key-91dcbcf41b9c22059be08aa2a0309be4] (1) The name and a postal address of the creditor or owner.
+
+(2) The name and a postal address of the debtor or hirer.
+
+### Term of agreement to be enforced
+
+**3.**[^key-1a9d40ae18d6b40c358917ad7320d59e] The term of the agreement to be enforced, or a reference to and a short description of that term.
+
+### Action intended to be taken by creditor or owner
+
+**4.**[^key-1c2d0343ff6694b0e6b5b6de0591d8b2] A clear and unambiguous statement by the creditor or owner indicating—
+
+- (a) which (one or more) of the following types of action he intends to take, in order to enforce the term of the agreement,—
+  - (i) to demand earlier payment of any sum;
+  - (ii) to recover possession of any goods or land;
+  - (iii) to treat any right conferred on the debtor or hirer by the agreement as terminated, restricted or deferred;
+- (b) the manner and circumstances in which he intends to take such action; and
+- (c) the date, being a date not less than seven days after the giving of the notice, on or after which he intends to take such action.
+
+### Demanding earlier payment of any sum
+
+**5.**[^key-310ca9add383de288e885b7aff6ff2e5] Where the creditor or owner states that he intends to demand earlier payment of any sum,
+
+- (a) the amount of the sum before deducting the amount of any rebate on early settlement;
+- (b) where any rebate on early settlement is allowable under the agreement or by virtue of section 95 of the Act—
+  - (i) the amount of the rebate allowable calculated on the assumption that early settlement takes place on the date specified in the notice for earlier payment of the sum; and
+  - (ii) the total amount to be paid by the debtor after taking into account the amount of any rebate on early settlement, namely the difference between the amount shown in paragraph (a) above and the amount shown in sub-paragraph (i).
+
+**6.**[^key-ada7331c8be0024303dc9d20272cda53][^key-0a6700d5086f90ca1e8c768ddc9d69df] A statement in the following form—
+
+> If you are not sure what to do, you should get help as soon as possible. The Government’s Money Advice Service can help you find free debt advice and support.[^key-e130e1b6f7a66c6005ea22d9631ab713]
+
+.
+
+### Time order
+
+**7.**[^key-249a3e461ad23c6fd567347e138eaa5f][^key-177b07c93f62677429ffc480dd31a51c] A statement in the following form indicating that the debtor or hirer is entitled to apply under section 129 of the Act in England and Wales to the county court, in Scotland to the sheriff court or in Northern Ireland to the High Court or the county court for a time order—
+
+> If you have difficulty in paying any sum owed under this agreement, you can apply to the court for an order to give you \[or a surety\] more time to pay any sum owed or take any other action required by this notice. The Government’s Money Advice Service can help you explore this option.[^key-4b96a24bb1f302f9fcbfda7f5ceaf4c8]
+>
+> \[A surety, typically a guarantor, is someone who provided security to help ensure any amount you owe under this agreement is repaid.\]”
+>
+> Notes:
+>
+> - 1) This statement must immediately follow the statement specified in paragraph 6.
+> - 2) The creditor or owner must omit the final sentence in square brackets where either regulation 2(6A)(a)(i) or (ii) has been exercised.
+
+.
+
+### General
+
+**8.**[^key-7be3d2b0ba2fbaff9ff111c5dfc47289] A statement in the following form—
+
+> **Important –you should read this carefully[^key-042a32eb7509c55918172d695fdc12d7]**
+>
+> Notes:
+>
+> - 1) This statement must be placed at the top of the notice.
+> - 2) This statement must be given prominence in accordance with regulation 2(5).
+
+.
+
+## SCHEDULE 2 — FORM OF DEFAULT NOTICE BEFORE A CREDITOR OR OWNER CAN BECOME ENTITLED, BY REASON OF ANY BREACH BY THE DEBTOR OR HIRER OF A REGULATED AGREEMENT, TO TERMINATE THE AGREEMENT, DEMAND EARLIER PAYMENT OF ANY SUM, RECOVER POSSESSION OF ANY GOODS OR LAND, TREAT ANY RIGHT CONFERRED ON THE DEBTOR OR HIRER BY THE AGREEMENT AS TERMINATED, RESTRICTED OR DEFERRED OR ENFORCE ANY SECURITY[^key-f88c7860d39df7473a9a05f009a274f9]
+
+Regulation 2(2)
+
+### 1. Details of agreement
+
+A description of the agreement sufficient to identify it.
+
+### 2. Parties to agreement
+
+(1) The name and a postal address of the creditor or owner.
+
+(2) The name and a postal address of the debtor or hirer.
+
+### 3. Details of breach of agreement and action required to remedy, or pay compensation for, the breach
+
+A specification of—
+
+- (a) the provision of the agreement alleged to have been breached; and
+- (b) the nature of the alleged breach of the agreement, specifying clearly the matters complained of; and either
+- (c) if the breach is capable of remedy, what action is required to remedy it and the date, being a date not less than fourteen days after the date of service of the notice, before which that action is to be taken; or
+- (d) if the breach is not capable of remedy, the sum (if any) required to be paid as compensation for the breach and the date, being a date not less than fourteen days after the date of service of the notice, before which it is to be paid.
+
+### 4. Action by the creditor or owner to be ineffective if breach remedied or compensation paid
+
+Where any action is specified under paragraph 3(c) or (d) as required to be taken, a statement that the provision for the taking of any action by the creditor or owner such as is mentioned in paragraph 6 will be ineffective if the breach is duly remedied or the compensation is duly paid in the following form—
+
+> If the action required by this notice is taken **before the date shown**, the action below will not be taken in respect of the breach.
+
+Notes:
+
+- 1) This statement must follow the specification under paragraph 3(c) or (d) of any action required to be taken.
+- 2) This statement must be followed by the statement required by paragraph 5.
+- 3) The wording in bold print must be given prominence in accordance with regulation 2(5).
+
+### 5. Consequences of failure to comply with default notice
+
+Where any action is specified under paragraph 3(c) or (d) as required to be taken, a statement indicating the consequences of the failure by the debtor or hirer to comply with the default notice in the following form—
+
+> If you do **not** take the action required by this notice **before the date shown** then the further action set out below may be taken against you \[or a surety\].
+>
+> \[A surety, typically a guarantor, is someone who provided security to help ensure any amount you owe under this agreement is repaid.\]
+
+Notes:
+
+- 1) This statement must be followed by the specification under paragraph 6 of the further action intended to be taken by the creditor or owner.
+- 2) The creditor or owner must omit the words in square brackets if there is no specification under paragraph 6(e) of any action intended to be taken to enforce any security.
+- 3) The creditor or owner must omit the final sentence in square brackets where either regulation 2(6A)(a)(i) or (ii) has been exercised.
+- 4) The wording in bold print must be given prominence in accordance with regulation 2(5).
+
+### 6. Action intended to be taken by creditor or owner
+
+A clear and unambiguous statement by the creditor or owner indicating, if any action specified under paragraph 3(c) or (d) as required to be taken is not duly taken or if no such action is required to be taken, the action which the creditor or owner intends to take by reason of the breach by the debtor or hirer of the agreement—
+
+- (a) to terminate the agreement;
+- (b) to demand earlier payment of any sum;
+- (c) to recover possession of any goods or land;
+- (d) to treat any right conferred on the debtor or hirer by the agreement as terminated, restricted or deferred;
+- (e) to enforce any security;
+- (f) to enforce any provision of the agreement which becomes operative only on a breach of another provision of the agreement as specified in the notice,
+
+at any time on or after the date specified under paragraph 3(c) or (d), or, if no action is specified under that paragraph as required to be taken, indicating the date, being a date not less than fourteen days after the date of service of the notice, on or after which the creditor or owner intends to take any action indicated in this paragraph.
+
+### 7. Retaking of protected hire-purchase etc, goods
+
+In the case of a hire-purchase or conditional sale agreement relating to goods,
+
+- (a) made on or after 19th May 1985, where the property in the goods remains in the creditor; or
+- (b) made before 19th May 1985, where the debtor has not put an end to the agreement by virtue of any right vested in the debtor and where the total amount payable under the agreement does not exceed £7,500,
+
+a statement in the following form—
+
+> But if you have paid at least one-third of the total amount payable under the agreement set out below (or any installation charge plus one-third of the rest of the amount payable), the creditor may not take back the goods against your wishes unless the creditor gets a court order. (In Scotland, the creditor may need to get a court order at any time.) If the creditor does take them without your consent or a court order, you have the right to get back all the money you have paid under the agreement set out below.
+>
+> If you are unsure whether you have repaid at least one-third of the total price of the goods, contact the creditor who will provide you with this information free of charge.
+
+Note:
+
+This statement must follow the specification under paragraph 6 of the further action intended to be taken by the creditor and be followed by—
+
+- (a) either
+  - (i) the total amount payable under the agreement, or
+  - (ii) where there is an installation charge, separately, the amount of the installation charge and the rest of the total amount payable under the agreement; and
+- (b) the total amount that the debtor has paid to the creditor by the date of the giving of the notice.
+
+### 8. Requiring earlier payment of any sum
+
+Where a sum of money is required to be paid under the notice,
+
+- (a) the amount of the sum before deducting the amount of any rebate on early settlement;
+- (b) where any rebate on early settlement is allowable under the agreement or by virtue of section 95 of the Act—
+  - (i) the amount of the rebate allowable calculated on the assumption that early settlement takes place on the date specified in the notice for earlier payment of the sum; and
+  - (ii) the total amount to be paid after taking into account the amount of any rebate on early settlement, namely the difference between the amount shown in paragraph (a) above and the amount shown in sub-paragraph (i).
+
+### 9. Ending the agreement
+
+Where the agreement is a hire-purchase or conditional sale agreement, a statement in the following form—
+
+> You \[may\] have the right to end this agreement at any time before the final payment falls due.
+>
+> This right may be lost if you do not act before the date shown (after which we may take action).
+>
+> If the date for final payment has not passed and you wish to end this agreement, you should write to the person to whom you make your payments. \[You will need to pay \[insert amount\] if you wish to end this agreement by the date shown and we will be entitled to the return of the goods. You will also be liable for costs if you have not taken reasonable care of the goods.\]
+>
+> If you end this agreement, this will not necessarily terminate any insurance finance agreements that are linked to this agreement.
+
+Notes:
+
+- 1) The creditor must omit the word “may” in square brackets in the case of a hire purchase agreement.
+- 2) The creditor must insert the sentence in square brackets where the debtor’s right to terminate under section 99 of the Act subsists.
+- 3) The creditor must insert the amount to be paid by the debtor in the place indicated, calculated in accordance with the provisions of sections 99(2) and 100 of the Act and on the assumption that the debtor terminates the agreement on the date shown in this notice.
+
+### 10. General
+
+A statement in the following form—
+
+> If you are not sure what to do, you should get help as soon as possible. The Government’s Money Advice Service can help you find free debt advice and support, or you can contact the organisations listed in the Financial Conduct Authority’s information sheet, which is provided alongside this letter. This information sheet also contains important information about your rights. If it is not included, you should contact us to get one.
+
+Note:
+
+This statement must precede the statements in paragraphs 11 and 12.
+
+### 11. Time order
+
+A statement in the following form indicating that the debtor or hirer is entitled to apply under section 129 of the Act in England and Wales to the county court, in Scotland to the sheriff court or in Northern Ireland to the High Court or the county court for a time order—
+
+> If you have difficulty in paying any sum owed under this agreement, you can apply to the court for an order to give you \[or a surety\] more time to pay any sum owed or take any other action required by this notice. The free advice services referred to in this notice and in the Financial Conduct Authority’s information sheet can help you explore this option.
+>
+> \[A surety, typically a guarantor, is someone who provided security to help ensure any amount you owe under this agreement is repaid.\]
+
+Notes:
+
+- 1) The creditor or owner must omit the words in square brackets if there is no specification under paragraph 6(e) of any action intended to be taken to enforce any security.
+- 2) The creditor or owner must omit the final sentence in square brackets where either regulation 2(6A)(a)(i) or (ii) has been exercised.
+
+### 12. Interest payable after a judgment
+
+Where an agreement makes provision for the charging of post-judgment interest in connection with a judgment sum, a statement in the following form—
+
+> We need to let you know that if we took legal action against you and a court decided you must pay us the money owed under the agreement, you may end up paying more than just the money owed under the agreement. This is because you will have to pay the amount owed under the agreement plus interest from the date of the court decision, until the total amount is paid off in full.
+
+**13.** A statement in the following form—
+
+> **Important—you should read this carefully**
+
+Notes:
+
+- 1) This statement must be placed at the top of the notice.
+- 2) This statement must be given prominence in accordance with regulation 2(5).
+
+## SCHEDULE 3 — FORM OF NOTICE TO BE GIVEN IN NON-DEFAULT CASES BEFORE A CREDITOR OR OWNER CAN BECOME ENTITLED TO TERMINATE A REGULATED AGREEMENT
+
+Regulation 2(3)
+
+### Details of agreement
+
+**1.**[^key-13a7e57cbbdc388ba529c29b11dbf340] A description of the agreement sufficient to identify it.
+
+### Parties to agreement
+
+**2.**[^key-d837e95495df9be8fcf31cad3c0fa30d] (1) The name and a postal address of the creditor or owner.
+
+(2) The name and a postal address of the debtor or hirer.
+
+### Term of the agreement providing for termination
+
+**3.**[^key-ee4ce4ca4eec47075fc102401411bb88] The term of the agreement providing for termination of the agreement by the creditor or owner, or a reference to and a short description of that term.
+
+### Action to terminate the agreement
+
+**4.**[^key-830c3fd3e23d431fd99f5fb6936e78ff] A clear and unambiguous statement by the creditor or owner—
+
+- (a) indicating that by the giving of the notice he is terminating the agreement and indicating any steps that he intends to take to effect the termination or, as the case may be, indicating the manner and circumstances in which he intends to take action to terminate the agreement; and
+- (b) indicating the date, being a date not less than seven days after the giving of the notice, of the termination or, as the case may be, the date on or after which he intends to take action to terminate the agreement.
+
+### Rights and liabilities arising by reason of the termination of the agreement
+
+**5.**[^key-afc58487c2c89531be9d76f2e67095fd] Any right or liability that will arise by reason of the termination of the agreement and the date by which the right or liability will arise, including—
+
+- (a) the amount of any sum payable by the debtor or hirer before deducting the amount of any rebate on early settlement;
+- (b) where any rebate on early settlement is allowable under the agreement or by virtue of section 95 of the Act—
+  - (i) the amount of the rebate allowable calculated on the assumption that early settlement takes place on the date specified in the notice for earlier payment of the sum; and
+  - (ii) the total amount to be paid by the debtor after taking into account the amount of any rebate on early settlement, namely the difference between the amount shown in paragraph (a) above and the amount shown in sub-paragraph (i).
+
+### Time order
+
+**7.**[^key-0dc4dc8b7ed1eee35d662608f42e0764][^key-33594fab5c45df1ff94d5968c93180cd] A statement in the following form indicating that the debtor or hirer is entitled to apply under section 129 of the Act in England and Wales to the county court, in Scotland to the sheriff court or in Northern Ireland to the High Court or the county court for a time order—
+
+> “If you have difficulty in paying any sum owed under this agreement, you can apply to the court for an order to give you \[or a surety\] more time to pay any sum owed or take any other action required by this notice. The Government’s Money Advice Service can help you explore this option.[^key-1ac08a4cbbe7405da82cde715d0f3aff]
+>
+> \[A surety, typically a guarantor, is someone who provided security to help ensure any amount you owe under this agreement is repaid.\]
+>
+> Notes:
+>
+> - 1) This statement must immediately follow the statement specified in paragraph 6.
+> - 2) The creditor or owner must omit the final sentence in square brackets where either regulation 2(6A)(a)(i) or (ii) has been exercised.”
+
+.
+
+### General
+
+**6.**[^key-6301bd082eeb13a8c0bf435a184da228][^key-15e097c395a48d7463e089235be1810b] A statement in the following form—
+
+> If you are not sure what to do, you should get help as soon as possible. The Government’s Money Advice Service can help you find free debt advice and support.[^key-4e98ce069bcd43e1f71175b6024b98e8]
+
+.
+
+**8.**[^key-8115d4bb8fd4fd4f418cf9eb8bcc57f5] A statement in the following form—
+
+> **Important –you should read this carefully[^key-d35b9f2b0363e9fcc05b8a1db5cd7c5e]**
+>
+> Notes:
+>
+> - 1) This statement must be placed at the top of the notice.
+> - 2) This statement must be given prominence in accordance with regulation 2(5).
+
+.
+
+EXPLANATORY NOTE
+
+These Regulations prescribe the form of the notices which have to be given under sections 76, 87 and 98 of the Consumer Credit Act 1974 by a creditor or owner before taking certain action to enforce or terminate an agreement regulated by the Act, except in the case of non-commercial agreements in relation to which no security has been provided.
+
+The Regulations also prescribe information which each default notice given under section 87 of the Act must contain about the consequences of failure to comply with the notice.
+
+By virtue of paragraphs 16(2) and 35 of Schedule 3 to the Act, sections 76, 87 and 98 apply to existing agreements where the agreement would have been a regulated agreement if made on the date of coming into operation of those sections.
+
+## Annotations
+
+[^key-5ef3497f59261be61f52882ac1f4d3f5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+
+[^key-f347c8dfcbfaf6ade89d8013137d1b27]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+
+[^key-8c667e0a0a95246187e14e4a761c15ee]: Textual amendment: Words in [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/2/c) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1248/regulation/4) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+
+[^key-3e3e89ddb44961effc2741ad53a21e10]: Textual amendment: [Reg. 2(4A)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/4A) inserted (31.12.2004) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Amendment) Regulations 2004 (S.I. 2004/3237)](https://www.legislation.gov.uk/uksi/2004/3237), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3237/regulation/1), [3](https://www.legislation.gov.uk/uksi/2004/3237/regulation/3)
+
+[^key-83579f492dea6aa85c481e955f88400a]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/5) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1248/regulation/5/2/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+
+[^key-507ef97c4e635e0c6022da582b9ee4ce]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/5) inserted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1248/regulation/5/2/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+
+[^key-0fd5790f5ea7c1fa3a599e0b9fe7a85a]: Textual amendment: Words in [reg. 2(5)(a)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/5/a) omitted (2.12.2020) by virtue of [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1248/regulation/5/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+
+[^key-cf4f6a07f485322005bb56dec6730d37]: Textual amendment: [Reg. 2(5)(b)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/5/b) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2020/1248/regulation/5/4) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+
+[^key-20b151d95e925a2819e9911150f747de]: Textual amendment: Words in [reg. 2(6)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/6) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/1248/regulation/6/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+
+[^key-aacac3406fe19c6a5a6aca96a6a3c72f]: Textual amendment: Words in [reg. 2(6)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/6) inserted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/1248/regulation/6/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+
+[^key-8f1b736c37099d39bd59557dbb207275]: Textual amendment: [Reg. 2(6A)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/6A) inserted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [7](https://www.legislation.gov.uk/uksi/2020/1248/regulation/7) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+
+[^key-b197e58c6f059f3549adb17a5ed547de]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+
+[^key-91dcbcf41b9c22059be08aa2a0309be4]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+
+[^key-1a9d40ae18d6b40c358917ad7320d59e]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/3) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+
+[^key-1c2d0343ff6694b0e6b5b6de0591d8b2]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/4) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+
+[^key-310ca9add383de288e885b7aff6ff2e5]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/5) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+
+[^key-ada7331c8be0024303dc9d20272cda53]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/6) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+
+[^key-0a6700d5086f90ca1e8c768ddc9d69df]: Textual amendment: Sch. 1 para. 7 renumbered as Sch. 1 para. 6 (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/1/paragraph/2/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+
+[^key-e130e1b6f7a66c6005ea22d9631ab713]: Textual amendment: Words in renumbered Sch. 1 para. 6 substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/1/paragraph/3/1) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+
+[^key-249a3e461ad23c6fd567347e138eaa5f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/7) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+
+[^key-177b07c93f62677429ffc480dd31a51c]: Textual amendment: Sch. 1 para. 6 renumbered as Sch. 1 para. 7 (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/1/paragraph/3/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+
+[^key-4b96a24bb1f302f9fcbfda7f5ceaf4c8]: Textual amendment: Words in renumbered Sch. 1 para. 7 substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 1 para. 2(1)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/1/paragraph/2/1) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+
+[^key-7be3d2b0ba2fbaff9ff111c5dfc47289]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/8) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+
+[^key-042a32eb7509c55918172d695fdc12d7]: Textual amendment: Words in [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/8) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/1/paragraph/4) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+
+[^key-f88c7860d39df7473a9a05f009a274f9]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1983/1561/schedule/2) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/2/paragraph/1) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+
+[^key-13a7e57cbbdc388ba529c29b11dbf340]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+
+[^key-d837e95495df9be8fcf31cad3c0fa30d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+
+[^key-ee4ce4ca4eec47075fc102401411bb88]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/3) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+
+[^key-830c3fd3e23d431fd99f5fb6936e78ff]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/4) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+
+[^key-afc58487c2c89531be9d76f2e67095fd]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/5) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+
+[^key-0dc4dc8b7ed1eee35d662608f42e0764]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/6) (which is subsequently renumbered as Sch. 3 para. 7) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+
+[^key-33594fab5c45df1ff94d5968c93180cd]: Textual amendment: Sch. 3 para. 6 renumbered as Sch. 3 para. 7 (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 3 para. 2(2)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/3/paragraph/2/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+
+[^key-1ac08a4cbbe7405da82cde715d0f3aff]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/6) (which is subsequently renumbered as Sch. 3 para. 7) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 3 para. 2(1)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/3/paragraph/2/1) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+
+[^key-6301bd082eeb13a8c0bf435a184da228]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/7) (which is subsequently renumbered as Sch. 3 para. 6) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+
+[^key-15e097c395a48d7463e089235be1810b]: Textual amendment: Sch. 3 para. 7 renumbered as Sch. 3 para. 6 (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/3/paragraph/3/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+
+[^key-4e98ce069bcd43e1f71175b6024b98e8]: Textual amendment: Words in [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/7) (which is subsequently renumbered as Sch. 3 para. 6) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 3 para. 3(1)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/3/paragraph/3/1) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+
+[^key-8115d4bb8fd4fd4f418cf9eb8bcc57f5]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/8) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+
+[^key-d35b9f2b0363e9fcc05b8a1db5cd7c5e]: Textual amendment: Words in [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/8) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 3 para. 4](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/3/paragraph/4) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))

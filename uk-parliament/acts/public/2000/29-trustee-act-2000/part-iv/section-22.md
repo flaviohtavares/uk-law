@@ -1,0 +1,40 @@
+---
+title: Trustee Act 2000, section 22
+act: Trustee Act 2000
+section: '22'
+status: revised-with-pending-changes
+text_date: '2025-05-19'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/2000/29/section/22
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Trustee Act 2000, section 22
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2025-05-19. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/29
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 22. Review of agents, nominees and custodians etc.
+
+*Extent: E+W*
+
+(1) While the agent, nominee or custodian continues to act for the trust, the trustees—
+
+- (a) must keep under review the arrangements under which the agent, nominee or custodian acts and how those arrangements are being put into effect,
+- (b) if circumstances make it appropriate to do so, must consider whether there is a need to exercise any power of intervention that they have, and
+- (c) if they consider that there is a need to exercise such a power, must do so.
+
+(2) If the agent has been authorised to exercise asset management functions, the duty under subsection (1) includes, in particular—
+
+- (a) a duty to consider whether there is any need to revise or replace the policy statement made for the purposes of section 15,
+- (b) if they consider that there is a need to revise or replace the policy statement, a duty to do so, and
+- (c) a duty to assess whether the policy statement (as it has effect for the time being) is being complied with.
+
+(3) Subsections (3) and (4) of section 15 apply to the revision or replacement of a policy statement under this section as they apply to the making of a policy statement under that section.
+
+(4) “**Power of intervention**” includes—
+
+- (a) a power to give directions to the agent, nominee or custodian;
+- (b) a power to revoke the authorisation or appointment.

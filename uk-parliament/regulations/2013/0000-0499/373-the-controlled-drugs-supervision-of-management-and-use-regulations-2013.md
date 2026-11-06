@@ -1,0 +1,786 @@
+---
+title: The Controlled Drugs (Supervision of Management and Use) Regulations 2013
+id: uksi/2013/373
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-02-14'
+text_date: '2023-11-06'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2013/373
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2013/373/pdfs/uksiem_20130373_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/373/pdfs/uksi_20130373_en.pdf
+- http://www.legislation.gov.uk/uksi/2013/373/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Controlled Drugs (Supervision of Management and Use) Regulations 2013
+
+> Text as at 2023-11-06.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2013 No. 373
+
+Dangerous Drugs, England
+
+Dangerous Drugs, Scotland
+
+The Controlled Drugs (Supervision of Management and Use) Regulations 2013
+
+Made
+
+14th February 2013
+
+Laid before Parliament
+
+25th February 2013
+
+Coming into force
+
+1st April 2013
+
+The Secretary of State for Health makes these Regulations in exercise of the powers conferred by sections 17, 18, 20(3) and (7) and 79(3) of the Health Act 2006 [^c21650651].
+
+The Scottish Ministers have been consulted in accordance with section 24(6) of that Act.
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and application.[^key-c8b51d6285faeef22a29db2c0f43476b]
+
+(1) These Regulations may be cited as the Controlled Drugs (Supervision of Management and Use) Regulations 2013 and come into force on 1st April 2013.
+
+(2) These Regulations apply in relation to England and Scotland.
+
+(3)[^M_F_db195478-5ea8-4f85-9b82-0657aaba4a6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 1A. Review[^key-69461ed6132263befee85a953c4faea8]
+
+(1) The Secretary of State must from time to time—
+
+- (a) carry out a review of the regulatory provision contained in these Regulations; and
+- (b) publish a report setting out the conclusions of the review.
+
+(2) The first report must be published before 30th March 2025.
+
+(3) Subsequent reports must be published at intervals not exceeding 5 years.
+
+(4) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this regulation must, in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory provision referred to in paragraph (1)(a);
+- (b) assess the extent to which those objectives are achieved;
+- (c) assess whether those objectives remain appropriate; and
+- (d) if those objectives remain appropriate, assess the extent to which they could be achieved in another way which involves less onerous regulatory provision.
+
+(5) In this regulation, “regulatory provision” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 1978 Act**” means the National Health Service (Scotland) Act 1978 [^c21650661];
+- “**the 2006 Act**” means the National Health Service Act 2006 [^c21650671];
+- “care home”, as regards—
+  - (a) England, has the meaning given in section 3 of the Care Standards Act 2000 [^c21650681] (care homes); or
+  - (b) Scotland, has the meaning given in relation to a care home service in paragraph 2 of Schedule 12 to the Public Services Reform (Scotland) Act 2010 [^c21650691] (care services: definitions – care home service);
+- “**the Care Inspectorate**” means Social Care and Social Work Improvement Scotland, established by section 44 of the Public Services Reform (Scotland) Act 2010 (Social Care and Social Work Improvement Scotland);
+- [^key-f3a479823725f3eb4f941dcc9be5e3ac]...
+- “**commissioning body**” is to be construed in accordance with regulation 7(3)(a);
+- “**Common Services Agency**” means the body of that name constituted by section 10 of the 1978 Act [^c21650711] (Common Services Agency);
+- “**CQC**” means the Care Quality Commission established by section 1 of the Health and Social Care Act 2008 [^c21650721] (the Care Quality Commission);
+- “designated body”, as regards—
+  - (a) England, is to be construed in accordance with regulation 7(1); or
+  - (b) Scotland, is to be construed in accordance with regulation 7(2);
+- “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament;
+- “**English independent hospital**” is to be construed in accordance with regulation 3;
+- “**Health Board**” means, except in the phrase “Special Health Board”, a board which is constituted by order under, and called a Health Board by virtue of, section 2(1)(a) of the 1978 Act [^c21650731] (Health Boards);
+- “**the health service**” means—
+  - (a) as regards England, the health service continued under section 1(1) of the 2006 Act [^c21650741] (Secretary of State's duty to promote comprehensive health service); and
+  - (b) as regards Scotland, the health service established in pursuance of section 1 of the National Health Service (Scotland) Act 1947 [^c21650751] (duty of Secretary of State);
+- “**HIS**” means Healthcare Improvement Scotland established by section 10A of the 1978 Act [^c21650761] (Healthcare Improvement Scotland);
+- “**hospital**” means an institution or home which is—
+  - (a) an institution for the reception and treatment of persons suffering from illness (whether relating to physical or mental health);
+  - (b) a maternity home;
+  - (c) an institution for the reception and treatment of persons during convalescence or persons requiring medical rehabilitation (including where such treatment is as a consequence of procedures that are similar to forms of medical or surgical care but are not provided in connection with medical conditions); or
+  - (d) as regards Scotland, an institution providing dental treatment maintained in connection with a dental school,
+
+  and includes clinics, dispensaries and out-patient departments maintained in connection with any such home or institution;
+- “[^key-48dbd572e362427f60d4d1aee655494c]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
+- “local authority”, as regards—
+  - (a) England, has the meaning given in section 2B(5) of the 2006 Act [^c21650771] (functions of local authorities and Secretary of State as to improvement of public health); and
+  - (b) Scotland, means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c21650781] (constitution of councils) and also includes a joint board or joint committee with the meanings given in section 235(1) of the Local Government (Scotland) Act 1973 [^c21650791] (general provisions as to interpretation);
+- “**local intelligence network**” is to be construed in accordance with regulation 14(2);
+- “**local intelligence network area**” is to be construed in accordance with regulation 14(1);
+- “**local lead CDAO**” is to be construed in accordance with regulation 14(4);
+- “**National Waiting Times Centre Board**” means the Special Health Board of that name constituted by the National Waiting Times Centre Board (Scotland) Order 2002 [^c21650801];
+- “**NHSBSA**” means the NHS Business Services Authority established by the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Establishment and Constitution) Order 2005 [^c21650811];
+- “[^key-673af16d4a1fe7674daf4682d61d5054]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
+- [^key-7a25765a90dd5abf71ab2446d6e16082]...
+- [^key-17ad4a0ba5b21c96835d1d8824c059c8]...
+- “**NHS foundation trust**” means a corporation of the type referred to in section 30(1) of the 2006 Act [^c21650831] (NHS foundation trusts);
+- “**NHS trust**” means a body that is an NHS Trust for the purposes of the 2006 Act [^c21650841] other than an NHS Trust established under the National Health Service (Wales) Act 2006 [^c21650851];
+- “**provider body**” is to be construed in accordance with regulation 7(3)(b);
+- “**regular force**” means the Royal Air Force, the Royal Navy, the Royal Marines or the regular army [^key-c2c0937dab63bc28bb5ca9462095a1aa]...;
+- “**regulatory body**” means a body referred to in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 [^c21650861] (the Professional Standards Authority for Health and Social Care);
+- “**relevant activities**” means activities that involve, or may involve, the management or use of controlled drugs;
+- “**relevant person**” is to be construed in accordance with regulation 5;
+- “**relevant services**” means services that involve, or may involve, the management or use of controlled drugs;
+- “[^key-6a7f3af2c3ca1a8fab00c4f1b5c1ffd8]**reserve force**” means the Royal Fleet Reserve, the Royal Naval Reserve, the Royal Marines Reserve, the Regular Reserve, the Army Reserve, the Air Force Reserve or the Royal Auxiliary Air Force;
+- “**Scottish Ambulance Service Board**” means the Special Health Board of that name constituted by the Scottish Ambulance Service Board Order 1999 [^c21650871];
+- “**Scottish Counter Fraud Services**” means NHSScotland Counter Fraud Services, which is part of the Common Services Agency;
+- “**Scottish independent hospital**” is to be construed in accordance with regulation 4;
+- “**senior manager**”, in relation to a body or undertaking means one of the individuals who play significant roles in—
+  - (a) the making of decisions about how the whole or a substantial part of its activities are to be managed or organised; or
+  - (b) the actual managing or organising of the whole or a substantial part of those activities;
+- “**Special Health Board**” means a board which is constituted by order under, and called a Special Health Board by virtue of, section 2(1)(b) of the 1978 Act [^c21650881];
+- “**the State Hospitals Board for Scotland**” means the Special Health Board of that name constituted by the State Hospitals Board for Scotland Order 1995 [^c21650891].
+
+(2) Where, by virtue of these Regulations, a person, body or group of bodies is required to ensure a matter, the requirement is to be construed as a requirement to take all reasonable steps to ensure that matter.
+
+(3) For the purposes of these Regulations—
+
+- (a) the following bodies—
+  - (i) the Special Health Boards that are designated bodies, and
+  - (ii) Scottish independent hospitals that are designated bodies,
+
+  do not provide Health Boards with relevant services;
+- (b) a person included in a pharmaceutical list maintained by NHS England[^key-6f7ca0a7294f8c77f2485b9a0e92955c] provides NHS England with relevant services (that is, the services that the person is required to provide as a consequence of the listing are treated as provided to NHS England);
+- (c) a person included in a list of a Health Board maintained by virtue of the following provisions of the 1978 Act—
+  - (i) section 25(2) (arrangements for the provision of general dental services),
+  - (ii) section 26(2) (arrangements for the provision of general ophthalmic services, or
+  - (iii) section 27(3) (arrangements for the provision of pharmaceutical services),
+
+  provides the Health Board with relevant services (that is, the services that the person is required to provide as a consequence of the listing are treated as provided to the Health Board).
+
+### 3. Meaning of “English independent hospital”
+
+(1) For the purposes of these Regulations, “**English independent hospital**” means a body that runs a hospital in England at or from which health care is provided to individuals and which is not a “health service hospital” within the meaning given in section 275(1) of the 2006 Act (interpretation), unless—
+
+- (a) fewer than 10 individuals work at the hospital (whether as employees, volunteers or otherwise); or
+- (b) following a request from that body for a determination under this sub-paragraph, the CQC has determined that requiring that body to appoint or nominate an accountable officer would give rise to difficulties that would be disproportionate to the benefits to be derived from such an appointment or nomination, having regard to—
+  - (i) the usual number of relevant individuals who work at the hospital,
+  - (ii) the usual level of relevant activities at or provided from the hospital, and
+  - (iii) any difficulties there may be in identifying a suitable individual to act as an accountable officer for that hospital, taking into account the size of the business being carried on at or from the hospital and any possibility of a joint appointment or nomination by that hospital together with other hospitals,
+
+  and that determination has not been rescinded in accordance with paragraph (3)(b).
+
+(2) For the purposes of paragraph (1), “**health care**” means any form of health care, whether relating to physical or mental health, and including procedures that are similar to forms of medical or surgical care but are not provided in connection with medical conditions [^c21650901].
+
+(3) A determination by the CQC under paragraph (1)(b) is to be for such duration as the CQC specifies when it makes the determination, but the determination may thereafter—
+
+- (a) be renewed for such further period as the CQC specifies (if it does renew the determination); or
+- (b) be rescinded, after the CQC has given the body that runs the hospital to which the determination relates reasonable notice of the rescission.
+
+### 4. Meaning of “Scottish independent hospital”
+
+(1) For the purposes of these Regulations, “**Scottish independent hospital**” means a body that runs a hospital in Scotland and which is an “independent hospital” or a “private psychiatric hospital” within the meanings given to those expressions in section 10F(2) of the 1978 Act [^c21650911] (meaning of “independent healthcare services”), unless—
+
+- (a) fewer than 10 individuals work at the hospital (whether as employees, volunteers or otherwise); or
+- (b) following a request from that body for a determination under this sub-paragraph, HIS has determined that requiring that body to appoint or nominate an accountable officer would give rise to difficulties that would be disproportionate to the benefits to be derived from such an appointment or nomination, having regard to—
+  - (i) the usual number of relevant individuals who work at the hospital,
+  - (ii) the usual level of relevant activities at or provided from the hospital, and
+  - (iii) any difficulties there may be in identifying a suitable individual to act as an accountable officer for that hospital, taking into account the size of the business being carried on at or from the hospital and any possibility of a joint appointment or nomination by that hospital together with other hospitals,
+
+  and that determination has not been rescinded in accordance with paragraph (2)(b).
+
+(2) A determination by HIS under paragraph (1)(b) is to be for such duration as HIS specifies when it makes the determination, but the determination may thereafter—
+
+- (a) be renewed for such further period as HIS specifies (if it does renew the determination); or
+- (b) be rescinded, after HIS has given the body that runs the hospital to which the determination relates reasonable notice of the rescission.
+
+### 5. Meaning of “relevant persons”
+
+(1) Each of the individuals listed in paragraph (2) is a “**relevant person**” for the purposes of these Regulations (whether or not that person is also a “**relevant person**” for the purposes of these Regulations by virtue of them being an individual to whom section 19(3) of the Health Act 2006 applies)—
+
+- (a) in England, as regards NHS England; or
+- (b) in Scotland, as regards any Health Board in whose area they are engaged in relevant activities.
+
+(2) The individuals are—
+
+- (a) a health care professional who provides health care services (including medical, dental, pharmaceutical, nursing or midwifery services)—
+  - (i) to private patients other than at or from an English or Scottish independent hospital, or
+  - (ii) on behalf of a local authority in England that is providing services as part of the health service,
+
+  where doing so involves or may involve that health care professional in relevant activities;
+- (b) an individual, not being a health care professional, who is engaged in any activity carried on with or on behalf of a health care professional as mentioned in paragraph (a) that involves or may involve that individual in relevant activities;
+- (c) an individual (whether or not paragraph (a) or (b) also applies to that individual) who—
+  - (i) is the manager of or is carrying on a care home, where doing so involves or may involve that individual (P1) in relevant activities, or
+  - (ii) not being P1, is or may be engaged in relevant activities which are carried on with or on behalf of P1.
+
+### 6. Meaning of “responsible bodies”
+
+For the purposes of these Regulations, the following are responsible bodies—
+
+- (a) as regards England and Scotland, the regulatory bodies;
+- (b) as regards England—
+  - (i) designated bodies in England,
+  - (ii) integrated care boards[^key-5bee2d28b50702ed801e1bc3880b09ab],
+  - (iii)[^key-24f7a20f4c040a6bf18feadc58a2cbbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv) [^key-65149a6e7946965ea396d8d7a11470e6]... the NHSBSA,
+  - (v) the CQC,
+  - (vi) local authorities in England, and
+  - (vii) police forces in England; and
+- (c) as regards Scotland—
+  - (i) designated bodies in Scotland,
+  - (ii) the Scottish Counter Fraud Services,
+  - (iii)[^key-ee5c188c8463d57848f5ea86bcdf632d] Public Health Scotland,
+  - (iv) the Practitioner Services Division of the Common Services Agency,
+  - (v) HIS,
+  - (vi) the Care Inspectorate,
+  - (vii) local authorities in Scotland, and
+  - (viii) the police force in Scotland.
+
+### 7. Meaning of “designated bodies”
+
+(1) For the purposes of these Regulations in their application to England, the following are designated bodies—
+
+- (a) an NHS foundation trust;
+- (b) an NHS trust;
+- (c) an English independent hospital;
+- (d) NHS England; and
+- (e) the headquarters in England of regular or reserve forces.
+
+(2) For the purposes of these Regulations in their application to Scotland, the following are designated bodies—
+
+- (a) a Health Board;
+- (b) a Scottish independent hospital;
+- (c) the following Special Health Boards—
+  - (i) the Scottish Ambulance Service Board,
+  - (ii) the National Waiting Times Centre Board, and
+  - (iii) the State Hospitals Board for Scotland; and
+- (d) the headquarters in Scotland of regular or reserve forces.
+
+(3) For the purposes of these Regulations—
+
+- (a) the designated bodies mentioned in paragraph (1)(d) and (e) and (2)(a) and (d) are commissioning bodies;
+- (b) the designated bodies mentioned in paragraphs (1)(a) to (c) and (2)(a) to (c) are provider bodies.
+
+## PART 2 — Accountable officers
+
+### 8. Appointment of and support for accountable officers
+
+(1) Each designated body must nominate or appoint, or in a group with one or more other designated bodies must jointly nominate or appoint, a fit, proper and suitably experienced person to be its accountable officer (but paragraph (4) applies in the case of NHS England).
+
+(2) Where more than one part of an undertaking is a designated body, an aggregate of parts of that undertaking jointly appointing or nominating an accountable officer is a group of designated bodies for the purposes of this regulation, whether or not the aggregate is, or is part of, a single legal person.
+
+(3) All the designated bodies in a group of designated bodies that are jointly nominating or appointing an accountable officer must be either in England or in Scotland.
+
+(4) NHS England must nominate or appoint a fit, proper and suitably experienced person to be its accountable officer in respect of each local intelligence network area, and an accountable officer of NHS England may be the accountable officer in respect of one or more than one local intelligence network area.
+
+(5) A person appointed under paragraph (1) or (4) (P) must be a person who satisfies Conditions 1, 2 and 3.
+
+(6) Condition 1 is that P must be—
+
+- (a) in the case of the headquarters of regular or reserve forces, or headquarters of regular or reserve forces acting jointly, a senior officer (that is, a brigadier or a person of equivalent or superior rank) of the regular or reserve forces (and sub-paragraphs (b) to (d) do not apply in such cases);
+- (b) a senior manager of P's designated body;
+- (c) where designated bodies are jointly acting—
+  - (i) unless paragraph (ii) applies, a senior manager of one of the designated bodies jointly acting, or
+  - (ii) if the designated bodies jointly acting are part of the same undertaking, a senior manager of that undertaking; or
+- (d) answerable to a senior manager who satisfies sub-paragraph (b) or (c).
+
+(7) Condition 2 is that P must be an officer or employee—
+
+- (a) of the designated body that nominates or appoints P; or
+- (b) if P is nominated or appointed by designated bodies jointly acting—
+  - (i) of one of the designated bodies jointly acting, or
+  - (ii) where those bodies are part of the same undertaking, of that undertaking.
+
+(8) Condition 3 is that P does not, or does only exceptionally, prescribe, supply, administer or dispose of controlled drugs as part of P's duties as an employee or officer—
+
+- (a) of P's designated body; or
+- (b) if P is nominated or appointed by designated bodies jointly acting and those bodies are part of the same undertaking, of that undertaking.
+
+(9) Two or more designated bodies may only jointly nominate or appoint a person to be their accountable officer if they are satisfied that P is capable of properly discharging P's functions under these Regulations in relation to each and all of them.
+
+(10) A designated body of a description given in a sub-paragraph, or a paragraph of a sub-paragraph, of regulation 7 may only jointly nominate or appoint a person to be their accountable officer with another designated body of the same description.
+
+(11) Each designated body that has an accountable officer must provide P with the funds and other resources necessary for enabling P to discharge P's responsibilities as accountable officer (in the case of joint nominations or appointments, this obligation may be discharged through joint arrangements for provision of funds and other resources).
+
+(12) The other resources may include access to and use of information systems, accommodation and staff.
+
+### 9. Removal of accountable officers
+
+A designated body or a group of designated bodies that has nominated or appointed an accountable officer (P) must remove P from that office if—
+
+- (a) P is no longer to be considered a fit and proper person to be an accountable officer; or
+- (b) P no longer satisfies Condition 1, 2 or 3 in regulation 8(6) to (8).
+
+### 10. National lists of accountable officers
+
+(1) Each designated body—
+
+- (a) in England must as soon as is practicable notify the CQC in writing of—
+  - (i) any nomination or appointment by it of an accountable officer, or
+  - (ii) the removal from office by it of an accountable officer; or
+- (b) in Scotland must as soon as is practicable notify HIS in writing of—
+  - (i) any nomination or appointment by it of an accountable officer, or
+  - (ii) the removal from office by it of an accountable officer.
+
+(2) Where the nomination or appointment of an accountable officer, or removal from office of an accountable officer, is by a group of designated bodies, notification under paragraph (1) may be undertaken by the designated body or undertaking of which the accountable officer is or was an employee or officer, on behalf of the group.
+
+(3) The CQC must compile, maintain and publish from time to time, in such manner as it sees fit, a list of accountable officers of designated bodies in England.
+
+(4) HIS must compile, maintain and publish from time to time, in such manner as it sees fit, a list of accountable officers of designated bodies in Scotland.
+
+### 11. Duties to secure safe management and use of controlled drugs
+
+(1) An accountable officer (CDAO) of a provider body or a group of provider bodies must—
+
+- (a) establish and operate, or ensure that the provider body or each member of the group of provider bodies establishes and operates, appropriate arrangements for securing the safe management and use of controlled drugs by the CDAO's provider body or group of provider bodies; and
+- (b) review as appropriate, or ensure that the provider body or each member of the group of provider bodies reviews as appropriate, those arrangements.
+
+(2) A CDAO of a commissioning body or a group of commissioning bodies must ensure that any person or undertaking that provides the body or group with relevant services—
+
+- (a) establishes and operates appropriate arrangements for securing the safe management and use of controlled drugs; and
+- (b) reviews as appropriate those arrangements.
+
+(3) The arrangements mentioned in paragraphs (1) and (2) must include—
+
+- (a) appropriate arrangements for compliance with the Misuse of Drugs Act 1971 [^c21650921] and subordinate legislation under that Act;
+- (b) the following systems (which may be part of a single overarching system)—
+  - (i) systems for recording concerns (including complaints) relating to the safe management or use of controlled drugs, and
+  - (ii) incident reporting systems for untoward incidents relating to the safe management or use of controlled drugs; and
+- (c) up to date standard operating procedures in relation to the management and use of controlled drugs, which cover (amongst other matters) best practice relating to—
+  - (i) the prescribing, supply and administration of controlled drugs, and
+  - (ii) clinical monitoring of patients who have been prescribed controlled drugs.
+
+(4) A CDAO of a provider body or group of provider bodies must ensure that any person who—
+
+- (a) as regards that provider body or group of provider bodies is a relevant individual; and
+- (b) needs information on, or education or training in relation to, the standard operating procedures referred to in paragraph (3)(c),
+
+receives, as appropriate, that information, education or training.
+
+### 12. Monitoring and auditing of the management and use of controlled drugs: general duties
+
+(1) An accountable officer (CDAO) of a provider body or a group of provider bodies must—
+
+- (a) establish and operate; or
+- (b) ensure that the provider body or each member of the group of provider bodies establishes and operates,
+
+appropriate arrangements for monitoring and auditing the management and use of controlled drugs by the CDAO's provider body or group of provider bodies.
+
+(2) A CDAO of a commissioning body or a group of commissioning bodies must—
+
+- (a) establish and operate appropriate arrangements for monitoring and auditing the management and use of controlled drugs by any person or undertaking that provides the body or group with relevant services; and
+- (b) ensure that any person or undertaking that provides the body or group with relevant services establishes and operates appropriate arrangements for monitoring and auditing the management and use of controlled drugs.
+
+(3) The arrangements mentioned in paragraphs (1) and (2) must include—
+
+- (a) arrangements, as appropriate, for assessing and investigating concerns that are recorded under the systems mentioned in regulation 11(3)(b)(i); and
+- (b) arrangements, as appropriate, for analysing and responding to incidents reported under the systems mentioned in regulation 11(3)(b)(ii),
+
+having regard to any action that may already have been taken under the standard operating procedures mentioned in regulation 11(3)(c).
+
+### 13. Monitoring, assessing, investigating and taking action in relation to relevant individuals
+
+(1) An Accountable Officer (CDAO) of—
+
+- (a) a provider body or group of provider bodies must—
+  - (i) establish and operate; or
+  - (ii) ensure that the body or each member of the group of provider bodies establishes and operates,
+
+  with regard to any person who, as regards the body or bodies, is a relevant individual (RI) because of relevant activities carried on by it or them;
+- (b) a commissioning body or group of commissioning bodies must—
+  - (i) establish and operate; or
+  - (ii) ensure that the body or each member of the group of commissioning bodies establishes and operates,
+
+  with regard to any person who, as regards the body or bodies, is a RI because of relevant activities provided for it or them,
+
+the arrangements mentioned in paragraph (2).
+
+(2) Those arrangements are appropriate arrangements for—
+
+- (a) monitoring and assessing the RI's performance in connection with the management and use of controlled drugs;
+- (b) determining whether incidents or concerns that relate to the RI's performance in connection with the management and use of controlled drugs require investigation;
+- (c) investigating such incidents or concerns; and
+- (d) taking appropriate action with regard to well founded concerns (which may relate to incidents).
+
+(3) Where data in respect of a RI who prescribes controlled drugs, and associated analysis tools, are available to the CDAO's designated body through use of—
+
+- (a) in England, ePACT2[^key-1c2c55f5be6bc9c5064d1224b7bbeadd] (Electronic Prescribing Analysis and Costs), a system held by the NHSBSA; or
+- (b) in Scotland, PRISMS (Prescribing Information Systems for Scotland), a system held by Public Health Scotland,[^key-fc25e9fda32c93f3c17c3ba2cf1a7a1e]
+
+the arrangements under paragraph (2)(a) must include monitoring and assessing the RI's performance using that data and those tools.
+
+(4) An integrated care board that, for purposes connected with monitoring pharmaceutical remuneration, monitors the management or use of controlled drugs by an individual who is as regards NHS England a RI must assist the relevant CDAO of NHS England in the carrying out of the CDAO's functions under paragraph (1).
+
+(5) Where it is determined under the arrangements mentioned in paragraph (2)(b) that an incident or a concern requires investigation, the arrangements under paragraph (2)(c) must provide for the CDAO to do one or more of the following—
+
+- (a) carry out the investigation themselves;
+- (b) arrange for the investigation to be carried out by another officer or employee of the designated body, or one of the designated bodies, of which the CDAO is the accountable officer; or
+- (c) arrange with one or more of the responsible bodies listed in paragraph (6) to carry out the investigation—
+  - (i) on behalf of the CDAO, or
+  - (ii) jointly with either the CDAO or an officer or employee as mentioned in sub-paragraph (b).
+
+(6) The responsible bodies listed in this paragraph are—
+
+- (a) a designated body (that is a designated body of which the CDAO is not the accountable officer);
+- (b) the CQC;
+- (c)[^key-1d69e827b690bbe86a79fc9d5e2bb358] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) HIS;
+- (e) the Scottish Counter Fraud Services;
+- (f) the Care Inspectorate;
+- (g) a police force; and
+- (h) a regulatory body.
+
+(7) The arrangements under paragraph (2)(d) must include appropriate arrangements for—
+
+- (a) determining whether information relating to incidents or concerns that relate to the RI's performance in connection with the management and use of controlled drugs needs to be shared with a responsible body; and
+- (b) in a case where, following investigation, it appears to the CDAO that there are concerns (which may relate to incidents) that relate to the RI's performance in connection with the management and use of controlled drugs that are well founded, as appropriate—
+  - (i) requesting additional advice, support, mentoring or training for the RI from an appropriate person (for example, a prescribing advisor or a clinical governance lead),
+  - (ii) implementation of a procedure for dealing with serious untoward incidents,
+  - (iii) referral of the concerns to—
+    - (aa) a regulatory body,
+    - (bb) a police force,
+    - (cc)[^key-c75da989cfe30af9ce01fbda1dd9f174] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (dd) the Scottish Counter Fraud Services, or
+    - (ee) if the CDAO is a CDAO of NHS England or a Health Board, an incident panel convened by the CDAO, and
+  - (iv) where the CDAO is a CDAO of NHS England or a Health Board, dealing with matters arising out of an incident panel, which may include (but need not be limited to)—
+    - (aa) ongoing monitoring of the individual,
+    - (bb) referral of concerns to a regulatory body,
+    - (cc) referral of concerns to a police force,
+    - (dd)[^key-1311aea539b03f8284843fcb8372ea2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (ee) referral of concerns to the Scottish Counter Fraud Services, and
+    - (ff) implementation of a procedure for dealing with serious untoward incidents.
+
+## PART 3 — Responsible bodies
+
+### 14. Establishment and operation of local intelligence networks
+
+(1) NHS England must determine what are to be the local intelligence network areas for England, and those areas must together cover the whole of England.
+
+(2) The accountable officer of—
+
+- (a) NHS England in respect of a local intelligence network area must establish and operate a local intelligence network for that area, which may include—
+  - (i) any responsible body in that area,
+  - (ii) a responsible body that has functions in relation to more than one local intelligence network area, and
+  - (iii) different responsible bodies in different circumstances (as determined by the accountable officer);
+- (b) each Health Board must establish (if there is not one already) and operate a local intelligence network for its area, which may include—
+  - (i) any responsible body in its area,
+  - (ii) a responsible body that has functions in relation to more than one Health Board area, and
+  - (iii) different responsible bodies in different circumstances (as determined by the accountable officer),
+
+for the purposes mentioned in paragraph (3).
+
+(3) Those purposes are facilitating the co-operation of responsible bodies who are members (in any particular circumstances) of the local intelligence network in connection with—
+
+- (a) the identification of cases in which action may need to be taken in respect of matters arising in relation to the management or use of controlled drugs by relevant persons;
+- (b) the consideration of issues relating to the taking of action in respect of such matters; and
+- (c) the taking of action in respect of such matters.
+
+(4) An accountable officer who under paragraph (2) is required to operate a local intelligence network for an area (referred to in these Regulations as a “**local lead CDAO**”) may request—
+
+- (a) a periodic declaration and self assessment from a provider of medical, dental, nursing or midwifery services in that area who is a relevant person, which states—
+  - (i) whether the provider uses controlled drugs at any premises from which the provider provides health care, and
+  - (ii) if so, how controlled drugs are managed and used at those premises; and
+- (b) the accountable officer (P1) of a designated body in the area of the local intelligence network to provide to the local lead CDAO, on a quarterly basis (or more frequently, if there have been concerns that warrant it), an occurrence report that provides—
+  - (i) details of any concerns that a designated body of P1 (that is in that area) has regarding the management or use of controlled drugs by any person that is as regards it a relevant individual, or
+  - (ii) confirming that it has no such concerns,
+
+  and if the local lead CDAO does so request, P1 (unless P1 is the accountable officer of the headquarters of a regular or reserve force) must accede to that request.
+
+### 15. Co-operation between responsible bodies
+
+(1) Each responsible body that is a member of a local intelligence network must co-operate with other members of that network in connection with—
+
+- (a) the identification of cases in which action may need to be taken in respect of matters arising in relation to the management or use of controlled drugs by individuals who are relevant persons as regards any member of the network;
+- (b) the consideration of issues relating to the taking of action in respect of such matters; and
+- (c) the taking of action in respect of such matters.
+
+(2) In so co-operating, a responsible body may disclose to any other member of that network information that it reasonably believes it should disclose to that member, but if that information—
+
+- (a) contains confidential information that relates to and can identify a patient; and
+- (b) disclosure of that confidential information is not required for the purposes of consideration as mentioned in paragraph (1)(b) or taking action as mentioned in paragraph (1)(c),
+
+the responsible body must, in so far as it is practicable to do so, remove from the information that it discloses the confidential information that relates to and can identify a patient.
+
+(3) Where—
+
+- (a) it is determined under the arrangements mentioned in regulation 13(2)(b) that an incident, complaint or other concern requires investigation; or
+- (b) it is determined under the arrangements mentioned in regulation 13(2)(d) that appropriate action needs to be taken with regard to well founded concerns,
+
+the accountable officer (P) of the responsible body that is responsible for those arrangements must notify the persons listed in paragraph (4) with appropriate details of that investigation or, as the case may be, action.
+
+(4) Those persons are—
+
+- (a) the local lead CDAO of any local intelligence network of which P is a member in relevant circumstances (unless P is that lead CDAO), if the matter under investigation relates to the area of that local intelligence network; and
+- (b) any other responsible body that P considers it appropriate to notify (in circumstances where that disclosure is not covered by the arrangements mentioned in regulation 13(2)(c) or (d)).
+
+(5) If a responsible body (RB1) has in its possession information relating to the management or use of controlled drugs that it considers to be of serious concern, it may request in writing additional information in relation to the matter from any other responsible body (RB2) which it considers may have relevant information (which need not be in the same local intelligence network as RB1).
+
+(6) RB2—
+
+- (a) must co-operate with RB1 in relation to the serious concern (determining within a reasonable period whether or not to comply with the request for information); and
+- (b) in so co-operating, may disclose to RB1 information that it reasonably believes it should disclose,
+
+but if that information contains confidential information that relates to and can identify a patient, RB2 must, in so far as it is practicable to do so, remove from the information that it discloses the confidential information that relates to and can identify a patient.
+
+(7) In a case where, but for it not being practicable to do so, a responsible body would remove from information that it believes it should disclose under paragraph (2) or (6)(b) confidential information that relates to and can identify a patient, before disclosing that confidential information it must—
+
+- (a) determine that it is necessary to do so; and
+- (b) where practicable, obtain the consent of the patient (or, where appropriate, a person able to give consent on their behalf) to the disclosure.
+
+### 16. Other actions relating to shared information
+
+(1) If information shared under regulation 15 by a responsible body with another body that is a designated body (DB) shows a concern about the inappropriate or unsafe management or use of controlled drugs by a person who is or who could become as regards DB a relevant individual (RI), paragraph (2) applies.
+
+(2) The accountable officer of the DB may—
+
+- (a) make recommendations to any responsible body (including any DB) as to any action that the accountable officer considers that the responsible body should take in relation to RI to protect the safety of patients and the general public; and
+- (b) in connection with doing so, share information about the concern with that responsible body.
+
+(3) If information is shared under regulation 15 with a local lead CDAO about a person (P) who—
+
+- (a) is a relevant person—
+  - (i) in England, as regards NHS England, or
+  - (ii) in Scotland, as regards the local lead CDAO's Health Board; and
+- (b) is not providing services to a designated body as a relevant individual in the area of the local lead CDAO's local intelligence network,
+
+paragraph (4) applies.
+
+(4) The local lead CDAO must take all reasonable steps to protect the safety of patients or the general public in connection with, or in connection with the possibility of, P engaging in relevant activities, including where appropriate—
+
+- (a) referral of the matter to a responsible body (for example a regulatory body or a police force); and
+- (b) sharing of information about P with any person or a representative of any body (including at a meeting of a local intelligence network of which that person or representative is not a part) who employs or may employ P in relevant activities.
+
+## PART 4 — Inspections and supplementary matters
+
+### 17. “Relevant premises” for the purposes of section 20 of the Health Act 2006
+
+(1) For the purposes of section 20 of the Health Act 2006 (controlled drugs: power to enter and inspect), the following are prescribed as “relevant premises” in England in so far as entry of them is or may be relevant to the purpose of securing the safe, appropriate and effective management and use of controlled drugs—
+
+- (a) in relation to the local lead CDAO of a local intelligence network in England, premises of relevant persons as regards NHS England in that area that are not subject to inspection by—
+  - (i) the CQC,
+  - (ii) the General Pharmaceutical Council, or
+  - (iii) an accountable officer of a regular or reserve force;
+- (b) in relation to the accountable officer of an NHS foundation trust, premises of that NHS foundation trust;
+- (c) in relation to the accountable officer of an NHS trust, premises of that NHS trust;
+- (d) in relation to the accountable officer of a regular or reserve force, premises of that regular or reserve force or of members of that regular or reserve force;
+- (e) in relation to the accountable officer of an English independent Hospital—
+  - (i) premises of that hospital, and
+  - (ii) premises of a person engaged in relevant activities on the hospital's behalf, if those premises are not otherwise subject to inspection by an accountable officer of a designated body by virtue of sub-paragraphs (a) to (d).
+
+(2) For the purposes of section 20 of the Health Act 2006, the following are prescribed as “relevant premises” in Scotland in so far as entry of them is or may be relevant to the purpose of securing the safe, appropriate and effective management and use of controlled drugs—
+
+- (a) in relation to the accountable officer of a Health Board—
+  - (i) premises of that Health Board,
+  - (ii) premises of any person or undertaking from which that person or undertaking provides the Health Board with services as part of the health service,
+  - (iii) premises of relevant persons in the area of the Health Board that are not—
+    - (aa) otherwise subject to inspection by HIS, the Care Inspectorate or the General Pharmaceutical Council,
+    - (bb) premises of a regular or reserve force or of members of a regular or reserve force, or
+    - (cc) premises of the Special Health Boards referred to in sub-paragraph (b);
+- (b) in relation to the accountable officer of—
+  - (i) the Scottish Ambulance Service Board, premises of that Board,
+  - (ii) the National Waiting Times Centre Board, premises of that Board, and
+  - (iii) the State Hospitals Board for Scotland, premises of that Board;
+- (c) in relation to the accountable officer of a regular or reserve force, premises of that regular or reserve force or of members of that regular or reserve force;
+- (d) in relation to the accountable officer of a Scottish independent hospital—
+  - (i) premises of that hospital, and
+  - (ii) premises of a person engaged in relevant activities on the hospital's behalf, if those premises are not otherwise subject to inspection by an accountable officer of a designated body by virtue of sub-paragraphs (a) to (c).
+
+(3) Any premises that are prescribed as “relevant premises” under paragraph (1) or (2) in relation to an accountable officer are also so prescribed in relation to constables.
+
+### 18. Supplementary matters relating to inspections
+
+(1) An authorisation given under section 20(5)(a) or (c) of the Health Act 2006 (controlled drugs: power to enter and inspect) must be in writing.
+
+(2) A local lead CDAO or authorised person, when carrying out an inspection of relevant premises, need not give the owner of the relevant premises being inspected notice of the inspection.
+
+(3) Section 20(3) of the Health Act 2006 does not apply as regards the following authorised persons—
+
+- (a) a member of staff or person authorised by the CQC entering an English care home;
+- (b) a member of staff or person authorised by the Care Inspectorate entering a Scottish care home;
+- (c) a member of staff or person authorised by HIS entering premises of any person who provides relevant services as part of providing health care in Scotland;
+- (d) an officer of the General Pharmaceutical Council entering a registered pharmacy; or
+- (e) a member of staff or a person authorised by NHS England or a Health Board entering premises which are or form part of a private dwelling of a health care professional, if—
+  - (i) the health care professional is providing health care (which includes the services of a pharmacist) at the private dwelling, and
+  - (ii) the private premises are on a statutory register of health care premises or designated as practice premises under arrangements with NHS England or a Health Board to provide primary medical or dental services.
+
+### 19. Supplementary compliance declarations
+
+(1) The CQC may request a periodic declaration and self assessment from any person registered with it who—
+
+- (a) provides health care; or
+- (b) carries on a care home in England,
+
+which states whether, and if so how, controlled drugs are managed and used at relevant premises of that person.
+
+(2) HIS may request a periodic declaration and self assessment from any person who provides relevant services as part of providing health care in Scotland which states whether, and if so how, controlled drugs are managed and used at relevant premises of that person.
+
+(3) The Care Inspectorate may request a periodic declaration and self assessment from any person carrying on a care home in Scotland which states whether, and if so how, controlled drugs are managed and used at relevant premises of that person.
+
+(4) The General Pharmaceutical Council may request a periodic declaration and self assessment from any person whose premises in England or Scotland are registered with it which states how controlled drugs are managed and used at those premises.
+
+### 20. Information management
+
+(1) The records maintained by a designated body in respect of inspections, complaints, untoward incidents and other concerns, and the response to them, may be kept in paper or electronic format, and the accountable officer (CDAO) of that body must ensure that the information in those records is only accessible to—
+
+- (a) the CDAO; and
+- (b) persons who the CDAO is satisfied—
+  - (i) should have access to the information on a need-to-know basis, and
+  - (ii) fully understand the confidential nature of the information and the purposes for which they are being permitted access to it.
+
+(2) Where by virtue of Part 3 a responsible body (RB1) receives information from another responsible body, that information must only be processed by RB1 in so far as is necessary for the purposes of—
+
+- (a) the identification of cases in which action may need to be taken in respect of matters arising in relation to the management or use of controlled drugs;
+- (b) the consideration of issues relating to the taking of action in respect of such matters; and
+- (c) the taking of action in respect of such matters,
+
+and RB1 must ensure that appropriate measures are taken by it to prevent unauthorised processing of the information.
+
+(3) Those measures must include limiting access to the information to persons—
+
+- (a) on a need-to-know basis; and
+- (b) who fully understand the confidential nature of the information and the purposes for which they are being permitted access to it.
+
+(4)[^key-1c08098094cb79be30071cc1beaf7df1] Where a CDAO, a responsible body or someone acting on their behalf is permitted to share information which includes personal data by virtue of a function under these Regulations, it is to be assumed for the purposes of paragraph 5(2) of Schedule 2 to the Data Protection Act 2018 and paragraph 3(2) of Schedule 11 to that Act (exemptions from certain provisions of the data protection legislation: disclosures required by law) that the disclosure is required by this regulation.
+
+(5) Nothing in these Regulations requires, or is to be treated as requiring, any disclosure which—
+
+- (a) is prohibited by or under any enactment or the[^key-ee684e1096474d5ed5dd17cbf5ec2362] UK GDPR[^key-80bfbed063c47bbde4a55642c22b38dd] (taking into account the effect of paragraph (4));
+- (b) would prejudice or would be likely to prejudice—
+  - (i) any investigation being conducted by any responsible body under any enactment or the UK GDPR,
+  - (ii) a regular or reserve force's arrangements for service discipline, or
+  - (iii) any civil or criminal proceedings; or
+- (c) would involve disproportionate cost.
+
+(6) Civil proceedings do not lie against a person in respect of loss, damage or injury of any kind suffered by another person as a result of disclosure of information under these Regulations if it is done in good faith and there are reasonable grounds for doing it.
+
+(7)[^key-41e1f8aabc9945e751bfc649b353d09b] In this regulation, “**personal data**” and “**the UK GDPR**” have the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(2), (10) and (14) of that Act).
+
+### 21. Revocation of the Controlled Drugs (Supervision of Management and Use) Regulations 2006
+
+The Controlled Drugs (Supervision of Management and Use) Regulations 2006 are revoked [^c21650941].
+
+Signed by authority of the Secretary of State for Health.
+
+Earl Howe
+
+Parliamentary Under-Secretary of State,
+
+Department of Health
+
+*(This note is not part of the Regulations)*
+
+These Regulations contain measures relating to arrangements underpinning the safe management and use of controlled drugs in England and Scotland. They replace the Controlled Drugs (Supervision of Management and Use) Regulations 2006, which are revoked by these Regulations (regulation 21).
+
+A number of commissioners and providers of health care are prescribed as designated bodies, which are the bodies required to appoint controlled drugs accountable officers (CDAOs) (regulation 7). The list of bodies so prescribed includes independent hospitals, but there are arrangements providing for some small independent hospitals to be exempt from the designated body obligations under these Regulations (regulations 3 and 4).
+
+Provision is also made for who may be appointed as CDAOs (regulation 8), how they may be removed from office (regulation 9) and the national lists that are to be kept of them (regulation 10). The core functions of CDAOs are set out in regulations 11 to 13, and essentially these relate to securing systems for safe management and use of controlled drugs, either at the institutions for which the CDAOs work or at the contractors from which they commission relevant services, depending on whether their designated body is essentially a provider or commissioner of relevant services (or both). The CDAO functions include monitoring, auditing and investigation obligations, in particular where matters are identified through the required incident reporting systems and systems for recording concerns.
+
+Regulation 14 provides for the establishments of local intelligence networks for the sharing of information about individuals, described for these purposes as “relevant persons” (a term explained in regulation 5) who are engaged in activities that involve, or may involve, the management or use of controlled drugs. These local networks are led by the CDAOs of the National Health Service Commissioning Board in England and Health Boards in Scotland, and they draw their membership, at the invitation of the local lead CDAO, from the bodies prescribed as “responsible bodies” (regulation 6). The list of bodies so prescribed includes not only commissioners and providers of health care but also enforcement and regulatory agencies such as the police. Provision is made for co-operation between responsible bodies, and in relation to the handling of, and acting on, shared information – including in relation to the taking of steps to protect the safety of patients and the general public (regulations 15 and 16).
+
+There are provisions relating to the carrying out of inspections (regulations 17 and 18), and enabling the Care Quality Commission, Healthcare Improvement Scotland and the General Pharmaceutical Council to obtain information from particular persons engaged in relevant activities (regulation 19). There is also an information management provision to prevent the inappropriate handling of information received by designated bodies and responsible bodies (regulation 20).
+
+An impact assessment relating to this instrument as it applies to England has been prepared and copies can be obtained from the Department of Health, Skipton House, 80 London Road, London SE1 8LH. It is also available alongside this instrument on www.legislation.gov.uk.
+
+## Annotations
+
+[^c21650651]: Marginal citation: [2006 c. 28](https://www.legislation.gov.uk/ukpga/2006/28).
+
+[^key-c8b51d6285faeef22a29db2c0f43476b]: Textual amendment: Words in reg. 1 heading substituted (30.3.2020) by [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/a), [3](https://www.legislation.gov.uk/uksi/2020/189/regulation/3)
+
+[^M_F_db195478-5ea8-4f85-9b82-0657aaba4a6f]: Textual amendment: Reg. 1(3) omitted (30.3.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/a), [3](https://www.legislation.gov.uk/uksi/2020/189/regulation/3)
+
+[^key-69461ed6132263befee85a953c4faea8]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2013/373/regulation/1A) inserted (1.4.2020) by [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2020/189/regulation/4)
+
+[^c21650661]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^c21650671]: Marginal citation: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^c21650681]: Marginal citation: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14); section 3 has been amended by the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), Schedule 5, paragraph 4.
+
+[^c21650691]: Marginal citation: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
+
+[^key-f3a479823725f3eb4f941dcc9be5e3ac]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/373/regulation/2/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [64(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/64/2/a)
+
+[^c21650711]: Marginal citation: Section 10 has been amended by: the [Health Services Act 1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53), Schedule 6, paragraph 2; the [National Health Service and Community Care Act 1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19), Schedule 10; the [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), Schedule 4, paragraph 44; the [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), Schedule 2, paragraph 2(4); and the [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), section 17(1).
+
+[^c21650721]: Marginal citation: [2008 c. 14](https://www.legislation.gov.uk/ukpga/2008/14).
+
+[^c21650731]: Marginal citation: Section 2 has been amended by: the [Health and Social Services and Social Security Adjudications Act 1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41), Schedule 7, paragraph 1; the [National Health Service and Community Care Act 1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19), section 28, Schedule 9, paragraph 19(1), and Schedule 10; the [National Health Service Reform (Scotland) Act 2004 (asp 7)](https://www.legislation.gov.uk/asp/2004/7), Schedule 1, paragraph 1(2); the [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), Schedule 2, paragraph 2(2); and the [Health Boards (Membership and Elections) (Scotland) Act 2009 (asp 5)](https://www.legislation.gov.uk/asp/2009/5), section 2(1).
+
+[^c21650741]: Marginal citation: Section 1 was substituted by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), section 1.
+
+[^c21650751]: Marginal citation: [1947 c. 27](https://www.legislation.gov.uk/ukpga/1947/27).
+
+[^c21650761]: Marginal citation: Section 10A was inserted the [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), section 108.
+
+[^key-48dbd572e362427f60d4d1aee655494c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/373/regulation/2/1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [64(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/64/2/b)
+
+[^c21650771]: Marginal citation: Section 2B was inserted by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), section 12.
+
+[^c21650781]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39); section 2 has been amended by the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 22, paragraph 232(1).
+
+[^c21650791]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65); section 235(1) has been amended by: the Local Government etc. (Scotland) Act 1994, Schedule 13, paragraph 92(66), and Schedule 14; the [Education (Scotland) Act 1980 (c. 44)](https://www.legislation.gov.uk/ukpga/1980/44), Schedule 3, paragraph 1; and the [Audit (Miscellaneous Provisions) Act 1996 (c. 10)](https://www.legislation.gov.uk/ukpga/1996/10), section 4(2).
+
+[^c21650801]: Marginal citation: [S.S.I. 2002/305](https://www.legislation.gov.uk/ssi/2002/305).
+
+[^c21650811]: Marginal citation: [S.I. 2005/2414](https://www.legislation.gov.uk/uksi/2005/2414).
+
+[^key-673af16d4a1fe7674daf4682d61d5054]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/373/regulation/2/1) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [65(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/65/2/b)
+
+[^key-7a25765a90dd5abf71ab2446d6e16082]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/373/regulation/2/1) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [65(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/65/2/a)
+
+[^key-17ad4a0ba5b21c96835d1d8824c059c8]: Textual amendment: Words in reg. 2(1) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [5(a)](https://www.legislation.gov.uk/uksi/2020/189/regulation/5/a)
+
+[^c21650831]: Marginal citation: Section 30(1) has been amended by the Health and Social Care Act 2012, section 159(1).
+
+[^c21650841]: Marginal citation: *See* section 275(1) of that Act, which contains a definition of “NHS trust” to which amendments have been made by: the [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), section 18(9); and the Health and Social Care Act 2012, 173(7), 178(9), and Schedule 14, paragraph 37.
+
+[^c21650851]: Marginal citation: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^key-c2c0937dab63bc28bb5ca9462095a1aa]: Textual amendment: Words in reg. 2(1) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [5(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/5/b)
+
+[^c21650861]: Marginal citation: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17); section 25(3) has been amended by: the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), Schedule 10, paragraph 17; [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231); and the Health and Social Care Act 2012, Schedule 15, paragraph 56(b).
+
+[^key-6a7f3af2c3ca1a8fab00c4f1b5c1ffd8]: Textual amendment: Words in reg. 2(1) substituted (1.4.2020) by [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [5(c)](https://www.legislation.gov.uk/uksi/2020/189/regulation/5/c)
+
+[^c21650871]: Marginal citation: [S.I. 1999/686](https://www.legislation.gov.uk/uksi/1999/686).
+
+[^c21650881]: Marginal citation: Section 2 has been amended by: the [Health and Social Services and Social Security Adjudications Act 1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41), Schedule 7, paragraph 1; the [National Health Service and Community Care Act 1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19), section 28, Schedule 9, paragraph 19(1), and Schedule 10; the [National Health Service Reform (Scotland) Act 2004 (asp 7)](https://www.legislation.gov.uk/asp/2004/7), Schedule 1, paragraph 1(2); the [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), Schedule 2, paragraph 2(2); and the [Health Boards (Membership and Elections) (Scotland) Act 2009 (asp 5)](https://www.legislation.gov.uk/asp/2009/5), section 2(1).
+
+[^c21650891]: Marginal citation: [S.I. 1995/574](https://www.legislation.gov.uk/uksi/1995/574).
+
+[^key-6f7ca0a7294f8c77f2485b9a0e92955c]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+
+[^c21650901]: Marginal citation: This definition is based on section 9(2) of the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), but in these Regulations, for other purposes, “**health care**” has the meaning given in section 25(1) of the [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28).
+
+[^c21650911]: Marginal citation: Section 10F was inserted by the [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [section 108](https://www.legislation.gov.uk/asp/2010/8/section/108).
+
+[^key-5bee2d28b50702ed801e1bc3880b09ab]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+
+[^key-24f7a20f4c040a6bf18feadc58a2cbbf]: Textual amendment: Reg. 6(b)(iii) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [6(a)(i)](https://www.legislation.gov.uk/uksi/2020/189/regulation/6/a/i)
+
+[^key-65149a6e7946965ea396d8d7a11470e6]: Textual amendment: Words in reg. 6(b)(iv) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2020/189/regulation/6/a/ii)
+
+[^key-ee5c188c8463d57848f5ea86bcdf632d]: Textual amendment: Reg. 6(c)(iii) substituted (1.4.2020) by [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [6(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/6/b)
+
+[^c21650921]: Marginal citation: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38).
+
+[^key-1c2c55f5be6bc9c5064d1224b7bbeadd]: Textual amendment: Word in [reg. 13(3)(a)](https://www.legislation.gov.uk/uksi/2013/373/regulation/13/3/a) substituted (1.4.2020) by [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [7(a)(i)](https://www.legislation.gov.uk/uksi/2020/189/regulation/7/a/i)
+
+[^key-fc25e9fda32c93f3c17c3ba2cf1a7a1e]: Textual amendment: Words in [reg. 13(3)(b)](https://www.legislation.gov.uk/uksi/2013/373/regulation/13/3/b) substituted (1.4.2020) by [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2020/189/regulation/7/a/ii)
+
+[^key-1d69e827b690bbe86a79fc9d5e2bb358]: Textual amendment: [Reg. 13(6)(c)](https://www.legislation.gov.uk/uksi/2013/373/regulation/13/6/c) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [7(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/7/b)
+
+[^key-c75da989cfe30af9ce01fbda1dd9f174]: Textual amendment: [Reg. 13(7)(b)(iii)(cc)](https://www.legislation.gov.uk/uksi/2013/373/regulation/13/7/b/iii/cc) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [7(c)(i)](https://www.legislation.gov.uk/uksi/2020/189/regulation/7/c/i)
+
+[^key-1311aea539b03f8284843fcb8372ea2d]: Textual amendment: [Reg. 13(7)(b)(iv)(dd)](https://www.legislation.gov.uk/uksi/2013/373/regulation/13/7/b/iv/dd) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [7(c)(i)](https://www.legislation.gov.uk/uksi/2020/189/regulation/7/c/i)
+
+[^key-1c08098094cb79be30071cc1beaf7df1]: Textual amendment: Reg. 20(4) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 378(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/378/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-ee684e1096474d5ed5dd17cbf5ec2362]: Textual amendment: Words in reg. 20(5) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 378(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/378/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-80bfbed063c47bbde4a55642c22b38dd]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/uksi/2013/373/regulation/20/5) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 96(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/96/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-41e1f8aabc9945e751bfc649b353d09b]: Textual amendment: [Reg. 20(7)](https://www.legislation.gov.uk/uksi/2013/373/regulation/20/7) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 96(3)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/96/3) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21650941]: Marginal citation: [S.I. 2006/3148](https://www.legislation.gov.uk/uksi/2006/3148).

@@ -1,0 +1,49 @@
+---
+title: The North Wales Wind Farms Connection Order 2016, section 8
+act: The North Wales Wind Farms Connection Order 2016
+section: '8'
+status: revised
+text_date: '2017-03-31'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2016/818/section/8
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The North Wales Wind Farms Connection Order 2016, section 8
+
+> Text as at 2017-03-31.
+>
+> Extent: England, Wales, Scotland.
+
+## 8. Consent to transfer benefit of the Order[^key-eb290a0a79892b62f5f1ec58a7fbcdfb]
+
+*Extent: E+W+S*
+
+(1) Subject to paragraph (4), the undertaker may—
+
+- (a) transfer to another person (“the transferee”) any or all of the benefit of the provisions of this Order (including any of the numbered works) and such related statutory rights as may be agreed in writing between the undertaker and the transferee; or
+- (b) grant to another person (“the lessee”) for a period agreed between the undertaker and the lessee any or all of the benefit of the provisions of this Order (including any of the numbered works) and such related statutory rights as may be so agreed.
+
+(2) Where a transfer, or grant, has been made in accordance with paragraph (1) references in this Order to the undertaker, except in paragraph (3), include references to the transferee or the lessee.
+
+(3) The exercise by a person of any benefits or rights conferred in accordance with any transfer or grant under paragraph (1) is subject to the same restrictions, liabilities and obligations as would apply under this Order if those benefits or rights were exercised by the undertaker.
+
+(4) The consent of the Secretary of State is required for the exercise of the powers of paragraph (1) except where—
+
+- (a) the transferee or lessee is a statutory undertaker;
+- (b) the transferee or lessee is a person who holds a licence issued under section 6(1) of the Electricity Act 1989[^f00011]; or
+- (c) the time limits for all claims for compensation in respect of the acquisition of land or effects upon land under this Order have elapsed and—
+  - (i) no such claims have been made;
+  - (ii) any such claims that have been made have all been compromised or withdrawn;
+  - (iii) compensation has been paid in final settlement of all such claims;
+  - (iv) payment of compensation into court in lieu of settlement of all such claims has taken place; or
+  - (v) it has been determined by a tribunal or court of competent jurisdiction in respect of all claims that no compensation is payable.
+
+(5) Where an exception in paragraph (4) applies, the undertaker must notify the Secretary of State in writing before transferring or granting any benefit referred to in paragraph (1).
+
+## Annotations
+
+[^key-eb290a0a79892b62f5f1ec58a7fbcdfb]: Commencement: Art. 8 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+
+[^f00011]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29).

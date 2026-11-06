@@ -1,0 +1,54 @@
+---
+title: Corporation Tax Act 2009, section 82
+act: Corporation Tax Act 2009
+section: '82'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/4/section/82
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2009, section 82
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 82. Contributions to local enterprise organisations or urban regeneration companies
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if a company carrying on a trade (“**the contributor**”) incurs expenses in making a contribution (whether in cash or in kind)—
+
+- (a) to a local enterprise organisation (see section 83), or
+- (b) to an urban regeneration company (see section 86),
+
+and a deduction would not otherwise be allowable for the expenses in calculating the profits of the trade.
+
+(2) In calculating the profits of the trade, a deduction is allowed under this section for the expenses.
+
+(3) But if, in connection with the making of the contribution, the contributor or a connected person—
+
+- (a) receives a disqualifying benefit of any kind, or
+- (b) is entitled to receive such a benefit,
+
+the amount of the deduction is restricted to the amount of the expenses less the value of the benefit.
+
+(4) For this purpose it does not matter whether a person receives, or is entitled to receive, the benefit—
+
+- (a) from the local enterprise organisation or urban regeneration company concerned, or
+- (b) from anyone else.
+
+(5) Subsection (6) applies if—
+
+- (a) a deduction has been made under this section, and
+- (b) the contributor or a connected person receives a disqualifying benefit that is in any way attributable to the contribution.
+
+(6) An amount equal to the value of the benefit (so far as not brought into account in determining the amount of the deduction)—
+
+- (a) is brought into account in calculating the profits of the trade, as a receipt arising in the accounting period in which the benefit is received, or
+- (b) if the contributor has permanently ceased to carry on the trade before the benefit is received, is treated as a post-cessation receipt (see Chapter 15).
+
+(7) In this section “**disqualifying benefit**” means a benefit the expenses of obtaining which, if incurred by the contributor directly in a transaction at arm's length, would not be allowable as a deduction in calculating the profits of the trade.

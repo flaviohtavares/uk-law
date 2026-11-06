@@ -1,0 +1,1537 @@
+---
+title: The Electricity and Gas (Energy Company Obligation) Order 2023
+id: uksi/2023/873
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2023-07-24'
+text_date: '2025-08-01'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/uksi/2023/873
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2023/873/pdfs/uksiem_20230873_en_001.pdf
+- http://www.legislation.gov.uk/uksi/2023/873/pdfs/uksi_20230873_en.pdf
+- http://www.legislation.gov.uk/uksi/2023/873/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electricity and Gas (Energy Company Obligation) Order 2023
+
+> Text as at 2025-08-01.
+>
+> Extent: England, Wales, Scotland.
+
+*Extent: E+W+S*
+
+2023 No. 873
+
+Electricity
+
+Gas
+
+The Electricity and Gas (Energy Company Obligation) Order 2023
+
+Made
+
+24th July 2023
+
+Coming into force in accordance with article 1
+
+The Secretary of State makes this Order in exercise of the powers conferred by section 33BD of the Gas Act 1986[^f00001], section 41B of the Electricity Act 1989[^f00002] and section 103A of the Utilities Act 2000[^f00003], with the agreement of the Scottish Ministers[^f00004].
+
+The Secretary of State has consulted the Gas and Electricity Markets Authority, the National Association of Citizens Advice Bureaux, Consumer Scotland, electricity distributors, electricity suppliers, gas transporters, gas suppliers and such other persons as the Secretary of State considers appropriate.
+
+A draft of this instrument has been approved by a resolution of each House of Parliament pursuant to section 33BC(12) of the Gas Act 1986[^f00005], as applied by section 33BD(4) of that Act, section 41A(12) of the Electricity Act 1989[^f00006], as applied by section 41B(4) of that Act and section 103A(6) of the Utilities Act 2000.
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement and extent[^key-9f5ac3f85a4e98fce70b6da54470a2d7]
+
+(1) This Order may be cited as the Electricity and Gas (Energy Company Obligation) Order 2023.
+
+(2) Parts 1 to 9 come into force on the day after the day on which this Order is made.
+
+(3) Part 10 comes into force on the 21st day after the day on which this Order is made.
+
+(4) This Order extends to England and Wales and Scotland.
+
+### 2. Interpretation[^key-f97964d8c108bb4a071779a930d3c9d1]
+
+(1) In this Order, “**2022 Order**” means the Electricity and Gas (Energy Company Obligation) Order 2022[^f00007].
+
+(2) In Parts 1 to 9—
+
+- “**2015 Regulations**” means the Energy Efficiency (Private Rented Property) (England and Wales) Regulations 2015[^f00008];
+- “**annual cost savings**”, in relation to a measure, means—
+  - (a) the money that would be saved by the measure annually in heating domestic premises to 21 degrees Celsius in the main living areas and 18 degrees Celsius in all other areas; and
+  - (b) where the measure also results in savings in the cost of heating water, the money that would be saved by the measure annually in heating water in the premises;
+- “**cavity wall insulation**” means insulation between the leaves of a cavity wall;
+- “**commencement date**” means the date on which Parts 1 to 9 come into force;
+- “**completed**”, in relation to a measure, has the meaning given in paragraph (4);
+- “**ECO4A phase**” means one of the three phases as follows—
+  - (a) the period beginning with the commencement date and ending with 31st March 2024 (“phase A”);
+  - (b) the twelve months ending with 31st March 2025 (“phase B”);
+  - (c) the twelve months ending with 31st March 2026 (“phase C”);
+- “**ECO4A qualifying action**” has the meaning given in article 10;
+- “**equivalent ECO4 phase**” means—
+  - (a) in relation to phase A, phase 2;
+  - (b) in relation to phase B, phase 3;
+  - (c) in relation to phase C, phase 4,
+
+  and for the purposes of this definition, “**phase 2**”, “**phase 3**” and “**phase 4**” have the meanings given in article 2(1) of the 2022 Order;
+- “**flat in-fill measure**” means a measure that meets the condition in article 20 (see paragraph (1) of that article);
+- “**group**” means a group of companies that includes as members of the group at least two companies that are licence-holders, and for the purpose of this definition—
+  - (a) “**company**” includes any body corporate; and
+  - (b) “**group of companies**” means a holding company and the wholly-owned subsidiaries of that holding company where “**holding company**” and “**wholly-owned subsidiary**” have the same meaning as in section 1159 of the Companies Act 2006[^f00009];
+- “**heating control measure**” means—
+  - (a) a thermostat that is connected to a system which provides heat for the purposes of space heating; or
+  - (b) a type of control listed in sections 9.4.1 to 9.4.6 of the Standard Assessment Procedure;
+- “**house in-fill measure**” means a measure that meets the condition in article 21 (see paragraph (1) of that article);
+- “**in-fill measure**” means a flat in-fill measure or a house in-fill measure;
+- “**innovation measure**” means a standard innovation measure within the meaning of article 31(5)(f) or a substantial improvement innovation measure within the meaning of article 31(5)(g);
+- “**insulation measure**” means a measure which—
+  - (a) improves the insulating properties of domestic premises;
+  - (b) in the case of a measure installed at domestic premises other than a mobile home, is one of the following—
+    - (i) cavity wall insulation;
+    - (ii) solid wall insulation;
+    - (iii) internal or external insulation of a wall, but not including cavity wall insulation or solid wall insulation;
+    - (iv) loft insulation;
+    - (v) insulation of the walls and ceiling of a habitable room in the roof space of the domestic premises;
+    - (vi) insulation of a flat roof;
+    - (vii) insulation of a pitched roof;
+    - (viii) insulation against the escape of heat from a habitable room into the ground, or space, beneath the domestic premises; and
+  - (c) in the case of a measure installed at a mobile home, is the insulation of the floor, walls and ceiling of the mobile home;
+- “**landlord**” has the meaning given in regulation 21(b)(i) of the 2015 Regulations;
+- “**licence-holder**” means a person holding one or both of the following—
+  - (a) a licence under section 6(1)(d) of the Electricity Act 1989[^f00010];
+  - (b) a licence under section 7A(1) of the Gas Act 1986[^f00011];
+- “**loft insulation**” means insulation against the escape of heat from a habitable room into the loft area of a domestic premises;
+- “**low-income minimum requirement**” means, in relation to a participant and subject to article 34 (transfer of obligations), the amount determined under article 6(2) for the participant in respect of an ECO4A phase;
+- “**low-income qualifying action**” means an ECO4A qualifying action which is an ECO4A qualifying action by virtue of meeting the condition in any of articles 13 to 19;
+- “participant”, other than in the definition of “ECO4 participant” in article 4(3), has the meaning given in article 4(1) and (2);
+- “**pre-installation energy efficiency assessment**” means an RdSAP assessment performed in accordance with article 22(1)(a)(i);
+- “**pre-installation SAP band**” means the SAP band which is determined for a domestic premises pursuant to a pre-installation energy efficiency assessment;
+- “**PRS Exemptions Register**” has the meaning given in regulation 36 of the 2015 Regulations;
+- “**qualification year**” means—
+  - (a) for phase A, the year 2022;
+  - (b) for phase B, the year 2023;
+  - (c) for phase C, the year 2024;
+- “**RdSAP assessment**” means an assessment of the energy efficiency of domestic premises using the Reduced Data Standard Assessment Procedure;
+- “Reduced Data Standard Assessment Procedure” means the methodology set out in the document titled “BRE RdSAP10 Specification (February 2024);[^M_F_b760dc20-8e8d-489b-a14a-575d887d2a1e]
+- “**SAP band**” means the band running from A to G which is assigned to a SAP rating under the Reduced Data Standard Assessment Procedure;
+- “**SAP rating**” means the energy efficiency rating of a domestic premises determined in accordance with the Reduced Data Standard Assessment Procedure;
+- “**score**” means the contribution made by an ECO4A qualifying action towards a participant’s total home-heating cost reduction obligation;
+- “**statement of intent**”, in relation to a relevant authority, means a statement that the relevant authority intends to identify households living in domestic premises that may benefit from the installation of an ECO4A eligible measure, and for the purposes of this definition, an “ECO4A eligible measure” is a measure that would be capable of satisfying article 10 if installed at the domestic premises;
+- “**total home-heating cost reduction obligation**” means, in relation to a participant, the sum of the participant’s home-heating cost reduction obligations, if any, for each ECO4A phase[^f00013];
+- “**total low-income minimum requirement**” means, in relation to a participant, the sum of the participant’s low-income minimum requirements, if any, for each ECO4A phase.
+
+(3) In Parts 1 to 9, the following expressions have the same meanings as in the 2022 Order—
+
+- “domestic premises”;
+- “mobile home”;
+- “owner-occupied premises”;
+- “private domestic premises”;
+- “private rented premises”;
+- “qualifying supply”;
+- “relevant authority”;
+- “social housing”;
+- “solid wall insulation”;
+- “Standard Assessment Procedure”[^f00014].
+
+(4) For the purposes of Parts 1 to 9—
+
+- (a) a notification or application to the Administrator[^f00015] is to be treated as having been made when the notification or application is received by the Administrator;
+- (b) a measure is completed when the installation of the measure is completed.
+
+## PART 2 — Overall home-heating cost reduction target
+
+### 3. Overall home-heating cost reduction target[^key-aebe79424376e7d468a5d06e4843bc4e]
+
+(1) For the period beginning with the commencement date and ending with 31st March 2026 the overall home-heating cost reduction target[^f00016] is £55,998,000 in annual cost savings.
+
+(2) The overall home-heating cost reduction target is to be apportioned between licence-holders who are participants in relation to an ECO4A phase in accordance with article 6.
+
+### 4. Definition of a participant[^key-48e33eeedb9c9e5bd0cd67ead918a388]
+
+(1) A licence-holder is a participant in relation to an ECO4A phase if the licence-holder is an ECO4 participant in relation to the equivalent ECO4 phase.
+
+(2) Where a dual licence-holder is a participant by virtue of paragraph (1), that licence-holder is to be treated under this Order as two participants, of which—
+
+- (a) one is a participant in respect of the supply of electricity; and
+- (b) the other is a participant in respect of the supply of gas.
+
+(3) In this article—
+
+- “**dual licence-holder**” means a person holding a licence under section 6(1)(d) of the Electricity Act 1989 and a licence under section 7A(1) of the Gas Act 1986;
+- “**ECO4 participant**” means a “participant” within the meaning of the 2022 Order.
+
+## PART 3 — Determining obligations and minimum requirements
+
+### 5. Application of this Part[^key-34a044fc17104da4cf00c9a14095b58a]
+
+(1) This Part applies in relation to a participant in respect of the supply of electricity.
+
+(2) This Part also applies in relation to a participant in respect of the supply of gas in the same way as it applies to a participant in respect of the supply of electricity, but as if for each reference to “electricity” there were substituted “gas”.
+
+### 6. Determining a participant’s obligations and minimum requirements[^key-29e0057434a461d2f40cefc64122bfcf]
+
+(1) The Administrator must determine for each participant in relation to an ECO4A phase the participant’s home-heating cost reduction obligation for that ECO4A phase.
+
+(2) The Administrator must also determine for each participant in relation to an ECO4A phase the participant’s low-income minimum requirement for that ECO4A phase.
+
+(3) For the purposes of paragraphs (1) and (2), the Administrator must—
+
+- (a) in the case of a participant who is not a member of a group at the end of the qualification year for the ECO4A phase, make the determination in accordance with article 7;
+- (b) in the case of a participant who is a member of a group at the end of the qualification year for the ECO4A phase, make the determination in accordance with article 8.
+
+(4) Anything determined by the Administrator under article 5(5) of the 2022 Order in relation to a participant is to be treated for the purposes of articles 7 and 8 of this Order as if it were notified by that participant.
+
+(5) The Administrator must notify a participant of its home-heating cost reduction obligation and low-income minimum requirement in writing—
+
+- (a) for phase A, within the period of 6 weeks beginning with the commencement date;
+- (b) for phases B and C, on or before the 7th March prior to the commencement of the ECO4A phase.
+
+### 7. Determining obligations and minimum requirements for participants who are not members of a group[^key-80c016482e5f846d844d59b5519ec389]
+
+(1) Where a participant is not a member of a group at the end of the qualification year for the ECO4A phase—
+
+- (a) if the participant has notified the Administrator under article 5(2) of the 2022 Order of an amount of electricity supplied in the qualification year for the equivalent ECO4 phase which is less than the qualifying supply, the Administrator must determine the participant’s home-heating cost reduction obligation and low-income minimum requirement for the ECO4A phase to be zero;
+- (b) otherwise—
+  - (i) the Administrator must determine the participant’s home-heating cost reduction obligation for the ECO4A phase in accordance with the following formula—
+
+    [formula: see source](https://www.legislation.gov.uk/uksi/2023/873)
+
+    ; and
+  - (ii) the Administrator must determine the participant’s low-income minimum requirement for the ECO4A phase in accordance with the following formula—
+
+    [formula: see source](https://www.legislation.gov.uk/uksi/2023/873)
+
+    .
+
+(2) In paragraph (1)(b)(i)—
+
+- (a) “D” is—
+  - (i) for phase A, £3,640,000;
+  - (ii) for phase B, £12,179,500;
+  - (iii) for phase C, £12,179,500;
+- (b) “Tp” is the amount of electricity supplied in the qualification year for the equivalent ECO4 phase by the participant as determined under article 9(2) of the 2022 Order;
+- (c) “T” is the total amount of electricity supplied in the qualification year for the equivalent ECO4 phase by all participants as determined under article 9(4) of the 2022 Order.
+
+(3) In paragraph (1)(b)(ii), “Hp” is the participant’s home-heating cost reduction obligation for the ECO4A phase.
+
+### 8. Determining obligations and minimum requirements for participants who are members of a group[^key-64d265e3c3018fbdeaca1be8540368b9]
+
+(1) Where a participant is a member of a group at the end of the qualification year for the ECO4A phase—
+
+- (a) if the participant has notified the Administrator under article 5(3) of the 2022 Order of an amount of electricity supplied by the group in the qualification year for the equivalent ECO4 phase which is less than the qualifying supply, the Administrator must determine the participant’s home-heating cost reduction obligation and low-income minimum requirement for the ECO4A phase to be zero;
+- (b) otherwise—
+  - (i) the Administrator must determine the participant’s home-heating cost reduction obligation for the ECO4A phase in accordance with the following formula—
+
+    [formula: see source](https://www.legislation.gov.uk/uksi/2023/873)
+
+    ; and
+  - (ii) the Administrator must determine the participant’s low-income minimum requirement for the ECO4A phase in accordance with the following formula—
+
+    [formula: see source](https://www.legislation.gov.uk/uksi/2023/873)
+
+    .
+
+(2) In paragraph (1)(b)(i)—
+
+- (a) “**D**” and “**T**” have the same meaning as in article 7;
+- (b) “Tg” is the amount of electricity supplied in the qualification year for the equivalent ECO4 phase by the group of which the participant is a member as determined under article 9(3) of the 2022 Order;
+- (c) “Np” is the amount of electricity notified by the participant under article 5(2) of the 2022 Order as supplied in the qualification year for the equivalent ECO4 phase by the participant;
+- (d) “Ng” is the amount of electricity notified by the participant under article 5(3) of the 2022 Order as supplied in the qualification year for the equivalent ECO4 phase by the group of which the participant is a member.
+
+(3) In paragraph (1)(b)(ii), “Hp” is the participant’s home-heating cost reduction obligation for the ECO4A phase.
+
+## PART 4 — Achievement of obligations
+
+### 9. Achievement of total home-heating cost reduction obligation[^key-003ba51fdf53cb00d3ca5a77c6ae5425]
+
+(1) A participant must achieve its total home-heating cost reduction obligation by no later than 31st March 2026.
+
+(2)[^key-3ce591bc50057c3e42e95a835ad6d19b] A participant must achieve its total home-heating cost reduction obligation by ensuring that the overall amount, as determined under article A35(2) to (5), is equal to, or exceeds, the participant's total home-heating cost reduction obligation.
+
+(3) In achieving its total home-heating cost reduction obligation, a participant must—
+
+- (a) where the participant has a home-heating cost reduction obligation for phase A which is greater than zero, achieve at least 90% of its home-heating cost reduction obligation for phase A by promoting ECO4A qualifying actions that are completed before the end of phase A; and
+- (b) where the participant has a home-heating cost reduction obligation for phase B which is greater than zero, achieve at least 90% of its home-heating cost reduction obligation for phase B by promoting ECO4A qualifying actions that are completed before the end of phase B.
+
+(4) A participant may not rely on an ECO4A qualifying action for the purpose of complying with paragraph (3)(b) if the ECO4A qualifying action is relied on by the participant for the purpose of complying with paragraph (3)(a).
+
+(5)[^key-35588aea2a89fa5bbe056198830c5548] In achieving its total home-heating cost reduction obligation, a participant must also promote low-income qualifying actions that—
+
+- (a) are completed before the end of phase A, and have a combined score equal to, or exceeding, 90% of the participant's low-income minimum requirement for phase A;
+- (b) are completed before the end of phase B, and have a combined score equal to, or exceeding, 90% of the participant's low-income minimum requirement for phase B; and
+- (c) contribute to an overall amount, as determined under article A35(6) to (8), which is equal to, or exceeds, the participant's total low-income minimum requirement.
+
+(6) A participant may not rely on a low-income qualifying action for the purpose of complying with paragraph (5)(b) if the low-income qualifying action is relied on by the participant for the purpose of complying with paragraph (5)(a).
+
+(7) The low-income qualifying actions relied on by a participant for the purpose of complying with paragraph (5)(a), (b) or (c) must include—
+
+- (a) where relied on for the purpose of complying with paragraph (5)(a), help to heat or social housing measures that have a combined score equal to, or exceeding, 20% of the participant’s low-income minimum requirement for phase A;
+- (b) where relied on for the purpose of complying with paragraph (5)(b), help to heat or social housing measures that have a combined score equal to, or exceeding, 20% of the participant’s low-income minimum requirement for phase B;
+- (c) where relied on for the purpose of complying with paragraph (5)(c), help to heat or social housing measures that have a combined score equal to, or exceeding, 20% of the participant’s total low-income minimum requirement.
+
+(8) Paragraph (5)(a), and paragraph (7) to the extent that it relates to paragraph (5)(a), do not apply to a participant unless the participant has a low-income minimum requirement for phase A which is greater than zero.
+
+(9) Paragraph (5)(b), and paragraph (7) to the extent that it relates to paragraph (5)(b), do not apply to a participant unless the participant has a low-income minimum requirement for phase B which is greater than zero.
+
+(10) Paragraph (5)(c), and paragraph (7) to the extent that it relates to paragraph (5)(c), do not apply to a participant unless the participant has a low-income minimum requirement for any ECO4A phase which is greater than zero.
+
+(11) In paragraph (7), “**help to heat or social housing measure**” means a low-income qualifying action that is an ECO4A qualifying action by virtue of meeting the condition in any one of articles 13 to 15.
+
+## PART 5 — ECO4A qualifying actions
+
+### CHAPTER 1 — General criteria for ECO4A qualifying actions
+
+#### 10. ECO4A qualifying actions: overview[^key-8e763da8799717a7707ed653d757a076]
+
+An ECO4A qualifying action is a measure which the Administrator is satisfied—
+
+- (a) meets the requirements of article 11 (general requirements);
+- (b) meets the condition in any one of articles 12 to 21 (eligible properties and measures);
+- (c) where it is an insulation measure, meets the requirements of article 22 (additional requirements to be met by insulation measures);
+- (d) where it is a heating control measure, meets the requirements of article 23 (additional requirements to be met by heating control measures);
+- (e) meets the requirements of article 24 (quality assurance and consumer protection); and
+- (f) is notified to the Administrator in accordance with article 25.
+
+#### 11. ECO4A qualifying actions: general requirements[^key-f3436b4775beb53d76ffcd50084ff5a4]
+
+(1) A measure meets the requirements of this article if the measure—
+
+- (a) is an insulation measure or a heating control measure;
+- (b) is installed at domestic premises;
+- (c) results in the reduction in the cost of heating those premises to 21 degrees Celsius in the main living areas and 18 degrees Celsius in all other areas;
+- (d) is completed on or after 30th March 2023 and before 1st April 2026;
+- (e) is installed at—
+  - (i) premises erected before 1st April 2022; or
+  - (ii) premises which were first occupied as domestic premises before the day on which the installation is completed;
+- (f) is not funded by a grant made by—
+  - (i) a public authority; or
+  - (ii) any person distributing funds on behalf of a public authority; and
+- (g) is not a measure notified to the Administrator in accordance with article 43 of the 2022 Order.
+
+### CHAPTER 2 — Measures at eligible properties
+
+#### 12. Measures installed at private domestic premises in certain Council tax valuation bands[^key-666184a1e356f3906d104250bb823f06]
+
+(1) A measure meets the condition in this article if—
+
+- (a) the measure is installed at private domestic premises in a relevant valuation band (see paragraph (2));
+- (b) the pre-installation SAP band for the premises is—
+  - (i) where the premises are owner-occupied premises, band D, E, F or G;
+  - (ii) where the premises are private rented premises in England or Wales, band D, E, F or G;
+  - (iii) where the premises are private rented premises in Scotland, band D or E;
+- (c) where the measure is installed at owner-occupied premises, the measure is not a heating control measure;
+- (d) where the measure is installed at private rented premises, the measure is not—
+  - (i) a heating control measure;
+  - (ii) cavity wall insulation; or
+  - (iii) loft insulation; and
+- (e) where the measure is installed at private rented premises in England or Wales for which the pre-installation SAP band is band F or G, information in respect of the premises is registered on the PRS Exemptions Register by the landlord of the private rented premises in accordance with regulation 36(2) of the 2015 Regulations.
+
+(2) For the purposes of this article—
+
+- (a) domestic premises are in a relevant valuation band if—
+  - (i) in the case of premises in England, the premises are listed as a dwelling in valuation band A, B, C or D;
+  - (ii) in the case of premises in Wales, the premises are listed as a dwelling in valuation band A, B, C, D or E;
+  - (iii) in the case of premises in Scotland, the premises are listed as a dwelling in valuation band A, B, C, D or E;
+- (b) for premises in England and Wales, references to dwellings listed in a particular valuation band are to be construed in accordance with section 5(6) of the Local Government Finance Act 1992[^f00017];
+- (c) for premises in Scotland, references to dwellings listed in a particular valuation band are to be construed in accordance with section 74(5) of the Local Government Finance Act 1992.
+
+#### 13. Measures installed at private domestic premises occupied by help to heat group member[^key-f04524d810ff9beee57df8e219041604]
+
+(1) A measure meets the condition in this article if—
+
+- (a) the measure is installed at private domestic premises which are occupied by a member of the help to heat group at any time within the 12 month period ending with the day on which the measure is completed;
+- (b) the pre-installation SAP band for the premises is—
+  - (i) where the premises are owner-occupied premises, band D, E, F or G;
+  - (ii) where the premises are private rented premises in England or Wales, band D, E, F or G;
+  - (iii) where the premises are private rented premises in Scotland, band D or E;
+- (c) where the measure is installed at private rented premises, the measure is not a heating control measure; and
+- (d) where the measure is installed at private rented premises in England or Wales for which the pre-installation SAP band is band F or G, information in respect of the premises is registered on the PRS Exemptions Register by the landlord of the private rented premises in accordance with regulation 36(2) of the 2015 Regulations.
+
+(2) In this article, “**help to heat group**” has the meaning given in article 2(1) of the 2022 Order.
+
+#### 14. Measures installed at band D social housing[^key-199e2fc0d6a528f2e2846bd07c5a9c53]
+
+A measure meets the condition in this article if—
+
+- (a) the measure is installed at social housing for which the pre-installation SAP band is band D; and
+- (b) the measure—
+  - (i) is an innovation measure; and
+  - (ii) is not a heating control measure.
+
+#### 15. Measures installed at band E, F or G social housing[^key-c63fdb63a1ef49900ce218fb53badca1]
+
+A measure meets the condition in this article if—
+
+- (a) the measure is installed at social housing for which the pre-installation SAP band is band E, F or G; and
+- (b) the measure is not a heating control measure.
+
+### CHAPTER 3 — Measures accompanied by declaration from a relevant authority or participant
+
+#### 16. Measures accompanied by a declaration from a relevant authority: household income below £31,000[^key-9c1808b070a8d4699227e17ab216d8e2]
+
+(1) A measure meets the condition in this article if—
+
+- (a) the measure is installed at private domestic premises;
+- (b) before the day on which the measure is completed, a relevant authority is consulted on the installation of the measure at the premises;
+- (c) the relevant authority makes a declaration which—
+  - (i) meets the validity requirement specified in paragraph (2); and
+  - (ii) certifies that, having exercised all due diligence, it is satisfied that—
+    - (aa) the premises are occupied by a household living on a gross income of less than £31,000 per year; and
+    - (bb) the amount of the gross income of that household has been verified by the relevant authority; and
+- (d) the measure would have met the condition in article 13, if paragraph (1)(a) of that article were omitted (occupation by member of help to heat group).
+
+(2) The validity requirement is that the declaration is made—
+
+- (a) on or after the day on which the relevant authority has published a statement of intent on its website; and
+- (b) within the 12 month period ending with the day immediately preceding the day on which the measure is completed.
+
+(3) For the purposes of paragraph (1)(c)(ii), the relevant authority may verify the amount of a household’s gross income in any way the relevant authority considers to be appropriate provided that it does not rely on a self-declaration given by any member of that household.
+
+(4) In this article, “**gross income**” has the meaning given in article 2(1) of the 2022 Order.
+
+#### 17. Measures accompanied by a declaration from a relevant authority: premises meeting specified criteria[^key-0a55e6b5b3ab269efaa49af1da6edf93]
+
+(1) A measure meets the condition in this article if—
+
+- (a) the measure is installed at private domestic premises for which the pre-installation SAP band is band E, F or G;
+- (b) before the day on which the measure is completed, a relevant authority is consulted on the installation of the measure at the premises;
+- (c) the relevant authority makes a declaration which—
+  - (i) meets the validity requirement specified in article 16(2); and
+  - (ii) subject to paragraph (2), certifies that, having exercised all due diligence, it is satisfied that the premises meets at least two of the criteria specified in article 18(2) of the 2022 Order; and
+- (d) the measure would have met the condition in article 13 if paragraph (1)(a) of that article were omitted (occupation by member of help to heat group).
+
+(2) For the purposes of the declaration referred to in paragraph (1)(c)—
+
+- (a) where the relevant authority is relying on only two criteria specified in article 18(2) of the 2022 Order, those two criteria must not be the criteria specified in article 18(2)(a) and (b) of that Order; and
+- (b) where the relevant authority is relying on the criterion specified in article 18(2)(e) of the 2022 Order, the statement of intent published by the Authority must describe the scheme relied on for the purpose of meeting that criterion.
+
+#### 18. Measures accompanied by a declaration from a relevant authority: referral from a relevant health provider[^key-f12700470b1e64982f2719d03c56a0a3]
+
+(1) A measure meets the condition in this article if—
+
+- (a) the measure is installed at private domestic premises;
+- (b) before the day on which the measure is completed, a relevant authority is consulted on the installation of the measure at the premises;
+- (c) the relevant authority makes a declaration which certifies that it has received a referral from a relevant health provider, in relation to a person living at the premises, on the grounds that—
+  - (i) the person is suffering from severe or long-term ill-health due to—
+    - (aa) a cardiovascular condition;
+    - (bb) a respiratory disease;
+    - (cc) immunosuppression; or
+    - (dd) limited mobility; and
+  - (ii) the health of the person is adversely affected by living in a cold home;
+- (d) the declaration referred to in sub-paragraph (c) meets the validity requirement specified in article 16(2); and
+- (e) the measure would have met the condition in article 13 if paragraph (1)(a) of that article were omitted (occupation by member of help to heat group).
+
+(2) In paragraph (1)(c), “**relevant health provider**” has the meaning given in article 19(2) of the 2022 Order.
+
+#### 19. Measures accompanied by a declaration from a participant: debt, discretionary credit and self-disconnection[^key-6533b27c230940a65e0ab1f57d138d25]
+
+(1) A measure meets the condition in this article if—
+
+- (a) the measure is installed at private domestic premises for which the pre-installation SAP band is band E, F or G;
+- (b) the participant promoting the measure makes a declaration which certifies that, having exercised all due diligence, it is satisfied that—
+  - (i) the requirements specified in paragraph (2) are met; and
+  - (ii) at least one of the criteria specified in article 18(2)(a) to (d) of the 2022 Order is met;
+- (c) the declaration referred to in sub-paragraph (b) is made within the 12 month period ending with the day immediately preceding the day on which the measure is completed; and
+- (d) the measure would have met the condition in article 13 if paragraph (1)(a) of that article were omitted (occupation by member of help to heat group).
+
+(2) The specified requirements are—
+
+- (a) where consumption of gas or electricity at the domestic premises is paid for by a pre-payment meter—
+  - (i) the pre-payment meter has, on at least one occasion during the period of 13 weeks ending with the day on which the declaration referred to in paragraph (1)(b) is made, held no credit with which to pay for the supply of gas or electricity; or
+  - (ii) a person living at the premises—
+    - (aa) has received discretionary credit from the participant on at least one occasion during the period of 13 weeks ending with the day on which the declaration referred to in paragraph (1)(b) is made;
+    - (bb) is in a debt repayment plan with the participant; or
+    - (cc) is repaying debt owed to the participant through third party deductions; or
+- (b) where consumption of gas or electricity at the domestic premises is paid for otherwise than by a pre-payment meter—
+  - (i) a person living at the premises has been in debt to the participant for a period of more than 13 weeks ending with the day on which the declaration referred to in paragraph (1)(b) is made; and
+  - (ii) that person is—
+    - (aa) in a debt repayment plan with the participant; or
+    - (bb) repaying debt owed to the participant through third party deductions.
+
+(3) In paragraph (2)—
+
+- “**discretionary credit**” means a payment which—
+  - (a) is intended to allow the consumption of gas or electricity at the domestic premises to resume or continue; and
+  - (b) is to be repaid;
+- “third party deductions” are deductions made from benefit in accordance with paragraph 6 of Schedule 9 to the Social Security (Claims and Payments) Regulations 1987[^f00018].
+
+### CHAPTER 4 — In-fill measures
+
+#### 20. Flat in-fill measures[^key-94db9d9d5ffa96ec74934a54b1693352]
+
+(1) A measure (“measure X”) is a “flat in-fill measure” and meets the condition in this article if—
+
+- (a) it is installed at domestic premises that are in a block of flats;
+- (b) it is one of the following measures—
+  - (i) solid wall insulation; or
+  - (ii) cavity wall insulation;
+- (c) it is linked with one other measure (“the primary measure”) which is—
+  - (i) the same kind of measure as measure X;
+  - (ii) promoted by the same participant that promoted measure X; and
+  - (iii) installed at separate domestic premises in the same block of flats as measure X; and
+- (d) the primary measure with which measure X is linked is an ECO4A qualifying action by virtue of meeting the condition in any of articles 12 to 19.
+
+(2) For the purposes of paragraph (1)(c)—
+
+- (a) measure X is linked with a primary measure if—
+  - (i) measure X is completed during the three month period beginning with the day on which the primary measure is completed;
+  - (ii) measure X is notified under article 25 on the same day as, or after, the notification of the primary measure under that article;
+  - (iii) when notifying measure X under article 25, the participant includes information sufficient to enable the Administrator to identify the primary measure with which it is to be linked; and
+  - (iv) the primary measure is not already linked with another in-fill measure;
+- (b) a primary measure is the same kind of measure as measure X if—
+  - (i) both are solid wall insulation; or
+  - (ii) both are cavity wall insulation.
+
+(3) In this article—
+
+- “**block of flats**” means a building which contains two or more flats;
+- “flat”—
+  - (a) in respect of domestic premises in England and Wales, has the same meaning as in the Building Regulations 2010[^f00019];
+  - (b) in respect of domestic premises in Scotland, has the same meaning as in the Building (Scotland) Regulations 2004[^f00020] and also includes a maisonette, as defined in those Regulations.
+
+#### 21. House in-fill measures[^key-2a853933fd74ee926aaefe26a57680f6]
+
+(1) A measure (“measure Y”) is a “house in-fill measure” and meets the condition in this article if—
+
+- (a) it is installed at domestic premises—
+  - (i) that are not in a block of flats; and
+  - (ii) for which the pre-installation SAP band is band D, E, F or G;
+- (b) it is solid wall insulation;
+- (c) it is linked with three other measures (“the primary measures”) which are—
+  - (i) solid wall insulation;
+  - (ii) promoted by the same participant that promoted measure Y; and
+  - (iii) installed at three separate domestic premises on the same street as measure Y; and
+- (d) the primary measures with which measure Y is linked are ECO4A qualifying actions by virtue of meeting the condition in any of articles 12 to 19.
+
+(2) For the purposes of paragraph (1)(c), measure Y is linked with the primary measures if—
+
+- (a) measure Y is completed during the three month period beginning with the day on which the last of the primary measures is completed;
+- (b) measure Y is notified under article 25 on the same day as, or after, the notification of the primary measures under that article;
+- (c) when notifying measure Y under article 25, the participant includes information sufficient to enable the Administrator to identify the primary measures with which it is to be linked; and
+- (d) none of the primary measures are already linked with another in-fill measure.
+
+(3) In this article, “**block of flats**” has the same meaning as in article 20(3).
+
+### CHAPTER 5 — Additional requirements for measures
+
+#### 22. Additional requirements to be met by insulation measures[^key-e13d05ff9db816049c253430222a6b56]
+
+(1) An insulation measure meets the requirements of this article if—
+
+- (a) before the insulation measure is completed at the domestic premises—
+  - (i) an RdSAP assessment of the domestic premises is performed; and
+  - (ii) advice on the benefits of using a smart meter is provided to the household occupying the domestic premises;
+- (aa)[^key-9bad51d79acd4e0d1ad5cbf39539b13c] the advice on the benefits of using a smart meter in accordance with sub-paragraph (a) includes—
+  - (i) guidance on arranging the installation of a smart meter; and
+  - (ii) an invitation to the household to make a non-binding pledge to arrange the installation of a smart meter;
+- (b) an RdSAP assessment of the domestic premises is performed after the completion of the insulation measure; and
+- (c)[^key-51e6ba1ecd8f657cd3d94361912054a5] the insulation measure is notified by the participant to the Administrator in accordance with article 25 in respect of the domestic premises and—
+  - (i) is the only or first insulation measure to have been installed at the premises; or
+  - (ii) is the second insulation measure to have been installed at the premises where—
+    - (aa) the first and second insulation measures are measures listed in paragraph (1A);
+    - (bb) the participant who promoted the second insulation measure is the same as the participant who promoted the first one; and
+    - (cc) the second insulation measure is completed on the same day as, or not more than three months after, the day on which the first one is completed.
+
+(1A)[^key-106106caaa4277270bf206c3dca381a1] The measures are—
+
+- (a) cavity wall insulation;
+- (b) loft insulation;
+- (c) insulation against the escape of heat from a habitable room into the ground, or space, beneath the domestic premises; and
+- (d) insulation of a pitched roof.
+
+(1B) For the purposes of paragraph (1)(c)(ii) where more than two insulation measures are notified to the Administrator in accordance with article 25 in respect of the domestic premises—
+
+- (a) it is the first of those insulation measures to have been completed at the domestic premises that—
+  - (i) meets the requirements of paragraph (1)(a) and (b);
+  - (ii) meets the requirements of article 11 (general requirements);
+  - (iii) meets the condition in any one of articles 12 to 21 (eligible properties and measures); and
+  - (iv) meets the requirements of article 24 (quality assurance and consumer protection); and
+- (b) it is the second of those insulation measures to have been completed at the domestic premises which meets the requirements referred to in sub-paragraph (a)(i) to (iv).
+
+(1C) For the purposes of paragraph (1)(c)(ii), where more than two insulation measures are completed at the domestic premises at the same time, it is the two insulation measures notified to the Administrator first which are treated as being the first and second of those insulation measures to have been completed.
+
+(2)[^key-7fea4d1b8d50b77c5509df4f02a7c54d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 23. Additional requirements to be met by heating control measures[^key-4a44645ec50c9594c2c87a6e707c7a76]
+
+A heating control measure meets the requirements of this article if it—
+
+- (a)[^key-b09b4ba6d4426155ff512b1dc625824c] is installed at the same domestic premises where an ECO4A qualifying action that is an only or first insulation measure within the meaning of article 22(1)(c)(i) (“the related insulation measure”);
+- (b) is completed—
+  - (i) on the same day as, or not more than three months after, the day on which the related insulation measure is completed; and
+  - (ii) after the pre-installation energy efficiency assessment is performed; and
+- (c) is promoted by the same participant who promoted the related insulation measure.
+
+### CHAPTER 6 — Quality assurance and consumer protection
+
+#### 24. Quality assurance and consumer protection[^key-1dffb40a102d28a20fced7a9b329cd75]
+
+(1)[^key-82cd5cb3d1fb09c5c80770903d733798] A measure meets the requirements of this article if—
+
+- (a) the measure is installed by, or under the responsibility of, a person who is registered with TrustMark for the purposes of that measure and—
+  - (i) a certificate of lodgement is issued by the operator of TrustMark in respect of that measure; and
+  - (ii) the installation adheres to the relevant TrustMark requirements for quality assurance and consumer protection, including installation standards and arrangements for repairs and other remedies, required by virtue of the TrustMark registration; or
+- (b) the measure—
+  - (i) is installed subject to arrangements for quality assurance and consumer protection, including installation standards and arrangements for repairs and other remedies, which are equivalent to the requirements under TrustMark; and
+  - (ii) adheres to those requirements.
+
+(1A) For the purposes of paragraph (1) the installation is deemed to adhere to the relevant TrustMark or equivalent requirements unless—
+
+- (a) the measure is referred for failing to meet the relevant requirements to the Administrator by TrustMark or the equivalent person; and
+- (b) that referral is not withdrawn before 1st July 2026.
+
+(2) In this article, “certificate of lodgement” and “TrustMark” have the meanings given in article 2(1) of the 2022 Order.
+
+## PART 6 — Notification of Completed Measures
+
+### 25. Notification requirements for completed measures[^key-6a2c8c76bbd29dcf7fb83511815a2070]
+
+A measure is notified to the Administrator in accordance with this article if the notification—
+
+- (a) is made, in writing, by the participant that promoted the measure;
+- (b) is made after the measure is completed;
+- (c) is made on time within the meaning of article 26;
+- (d) indicates that the notification is made under this article;
+- (e) is not withdrawn by a notification made under article 28; and
+- (f) includes such other information relating to the measure as the Administrator may require.
+
+### 26. Deadline for notification of completed measures[^key-32fd661cac48a07673c986a6e52d2a09]
+
+(1) For the purposes of article 25, a notification of a measure is made on time if it is made—
+
+- (a) on or before the original deadline, which is—
+  - (i) in the case of a measure completed in 2023, 31st January 2024;
+  - (ii) in the case of a measure completed after 2023, the end of the first month following the month in which the measure is completed;
+- (b) following an application under article 27(1) which is approved by the Administrator, on or before the date determined by the Administrator under article 27(5)(a); or
+- (c) in the case of a measure falling within the 5% notification threshold for the participant (“the notifying participant”), before—
+  - (i) the end of the third month after the original deadline, if the original deadline is before 1st April 2026; or
+  - (ii) the end of June 2026, if the original deadline is after 31st March 2026.
+
+(2) For the purposes of paragraph (1)(c), a measure falls within the 5% notification threshold for the notifying participant if—
+
+- (a) the measure is notified to the Administrator after the original deadline; and
+- (b) at the time the measure is notified, the result of the following formula is less than or equal to 0.05—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2023/873)
+
+  .
+
+(3) In paragraph (2)—
+
+- “F” is the number of measures (also counting the measure being notified) which—
+  - (a) have the same original deadline as the measure being notified; and
+  - (b) are notified after the original deadline by—
+    - (i) the notifying participant; or
+    - (ii) any other participant that is a member of the same group as the notifying participant;
+- “G” is the number of measures which—
+  - (a) have the same original deadline as the measure being notified;
+  - (b) are the subject of an application under article 27(1) which is approved by the Administrator; and
+  - (c) are notified, after the original deadline and on or before the date determined by the Administrator under article 27(5)(a), by—
+    - (i) the notifying participant; or
+    - (ii) any other participant that is a member of the same group as the notifying participant;
+- “H” is the greater of 1 and the number of measures which—
+  - (a) have the same original deadline as the measure being notified; and
+  - (b) are notified on or before the original deadline by—
+    - (i) the notifying participant; or
+    - (ii) any other participant that is a member of the same group as the notifying participant.
+
+(4) In this article, “**original deadline**” has the meaning given in paragraph (1)(a).
+
+### 27. Applications for extension of time to notify[^key-9420990faaf6717cfe7813e831f2b2b1]
+
+(1) A participant may apply on or before 31st May 2026 to the Administrator in writing for a measure to be notified after the original deadline.
+
+(2) An application under paragraph (1) must include—
+
+- (a) details of why the participant is seeking an extension of time to notify the measure; and
+- (b) such other information relating to the measure as the Administrator may require.
+
+(3) The Administrator must reject the application if—
+
+- (a) the requirements in paragraph (2) are not met; or
+- (b) it is not satisfied that the participant has a reasonable excuse for seeking an extension of time to notify the measure.
+
+(4) If the Administrator rejects the application, it must in writing notify the participant of the reasons for that decision.
+
+(5) If the Administrator approves the application, it must—
+
+- (a) determine a date for the notification of the measure (“the new deadline”); and
+- (b) notify the participant in writing—
+  - (i) of the new deadline; and
+  - (ii) of the reasons for the date determined as the new deadline.
+
+(6) The date determined by the Administrator under paragraph (5)(a) must—
+
+- (a) be a date falling after the original deadline and before 1st July 2026; and
+- (b) be determined having regard to—
+  - (i) the reasons why the participant is seeking an extension of time to notify the measure; and
+  - (ii) any guidance published by the Administrator under this article.
+
+(7) Before the end of the 6 week period beginning with the commencement date, the Administrator must publish, on its website, guidance on how it will exercise its functions under this article.
+
+(8) The Administrator may revise any guidance published under this article by publishing the revised guidance on its website.
+
+(9) In this article, “**original deadline**” has the meaning given in article 26(1)(a).
+
+### 28. Withdrawal of notifications[^key-daf0351387a0bf3aa6500a770ec571dd]
+
+(1) A participant may withdraw a notification made under article 25 by notifying the Administrator in writing.
+
+(2) A notification under paragraph (1) must—
+
+- (a) be made by the participant that promoted the measure;
+- (b) be made on or before 30th June 2026; and
+- (c) include such information relating to the measure as the Administrator may require.
+
+## PART 7 — Scores
+
+### 29. Giving scores to ECO4A qualifying actions[^key-c0c6250663e11cda083294e92de2c3b0]
+
+(1) To determine whether a participant has achieved its total home-heating cost reduction obligation, the Administrator must give a score, in accordance with article 30, to each ECO4A qualifying action promoted by the participant.
+
+(2) The Administrator may give a score to each ECO4A qualifying action in such order as it thinks fit.
+
+(3) The Administrator must notify a participant of the score it has given to each ECO4A qualifying action promoted by the participant.
+
+(4) The Administrator must comply with paragraphs (1) and (3) in the period beginning with 1st July 2026 and ending with 30th November 2026.
+
+(5)[^key-5066f9b0b7aa42257fe89d87068d95c4] Article A35 sets out further provision for determining whether a participant has achieved its—
+
+- (a) total home-heating cost reduction obligation under article 35(1)(a); and
+- (b) total low-income minimum requirement under article 35(1)(b).
+
+### 30. Calculating the score for ECO4A qualifying actions[^key-65dd3853e0f8ab5a8a214d118b2f1606]
+
+(1) The score to be given to an ECO4A qualifying action is to be calculated in accordance with the following formula—
+
+[formula: see source](https://www.legislation.gov.uk/uksi/2023/873)
+
+.
+
+(2) In paragraph (1)—
+
+- (a) “KM” is the annual cost savings of the ECO4A qualifying action determined in accordance with the methodology published by the Administrator under article 32;
+- (b) “IM” has the value determined in accordance with article 31;
+- (c) “R” is—
+  - (i) 0.2, where the ECO4A qualifying action is—
+    - (aa) a low-income qualifying action; and
+    - (bb) installed at off-gas premises in a rural area in Scotland or Wales;
+  - (ii) otherwise, 0.
+
+(3)[^key-f3052be7bfad55fa63ecdbab96e8f203] In this article—
+
+- “**off-gas premises**” has the meaning given in article 2(1) of the 2022 Order;
+- “**rural area**” means—
+  - (a) in respect of an area in England and Wales, an area classified as rural in the “2021 rural-urban classification of output areas” published by the Office for National Statistics in March 2025;
+  - (b) in respect of an area in Scotland, an area classified as rural in the “Scottish Government Urban Renewal Classification 2022” published by the Scottish Government in December 2024.
+
+### 31. Innovation measure uplift[^key-bd5a6e619aba383e376793f150bcdc71]
+
+(1) This article applies for the purpose of determining the value of IM in the formula in article 30(1) for calculating the score to be given to an ECO4A qualifying action (“the ECO4A qualifying action in question”).
+
+(2) Where the ECO4A qualifying action in question is a low-income innovation measure, the Administrator must determine in accordance with paragraph (4) whether the participant’s general innovation allowance is exhausted.
+
+(3) The value of IM in the formula in article 30(1) is—
+
+- (a) 0, where—
+  - (i) the ECO4A qualifying action in question is not a low-income innovation measure; or
+  - (ii) the Administrator has determined under paragraph (2) that the participant’s general innovation allowance is exhausted;
+- (b) 0.25, where—
+  - (i) none of the circumstances set out in sub-paragraph (a) apply; and
+  - (ii) the ECO4A qualifying action in question is a standard innovation measure;
+- (c) 0.45, where—
+  - (i) none of the circumstances set out in sub-paragraph (a) apply; and
+  - (ii) the ECO4A qualifying action in question is a substantial improvement innovation measure.
+
+(4) A participant’s general innovation allowance is exhausted only if X is equal to or greater than 10% of the participant’s total low-income minimum requirement, where “X” is the sum of the determined cost savings and innovation measure uplifts for all the relevant already scored measures promoted by the participant.
+
+(5) In this article—
+
+- (a) “**determined cost savings**”, in relation to a measure, is the value given to KM in the formula used to calculate the score for the measure in article 30(1);
+- (b) “**innovation measure uplift**”, in relation to a measure, is the value given to IM in the formula used to calculate the score for the measure in article 30(1);
+- (c) “**low-income innovation measure**” means a measure which is—
+  - (i) an innovation measure; and
+  - (ii) a low-income qualifying action;
+- (d) “**measure description**” means a description of the characteristics of a measure;
+- (e) “**relevant already scored measure**” means a low-income innovation measure—
+  - (i) given a score under article 29(1) before the Administrator has calculated the score to be given to the ECO4A qualifying action in question; and
+  - (ii) for which the innovation measure uplift is greater than zero;
+- (f) “**standard innovation measure**” means a measure which—
+  - (i) falls within a measure description published by the Administrator under article 21(4)(a) of the Electricity and Gas (Energy Company Obligation) Order 2018[^f00021] or article 36(1)(a) of the 2022 Order;
+  - (ii) is completed after the date on which the measure description referred to in paragraph (i) is published; and
+  - (iii) either—
+    - (aa) does not fall within the measure description of a measure (“measure Y”) which is approved by the Administrator as a substantial innovation measure under Part 6 of the 2022 Order; or
+    - (bb) is completed on or before the date on which measure Y is approved as a substantial innovation measure under Part 6 of the 2022 Order;
+- (g) “**substantial improvement innovation measure**” means a measure which—
+  - (i) falls within the measure description of a measure (“measure Z”) which is approved by the Administrator as a substantial innovation measure under Part 6 of the 2022 Order; and
+  - (ii) is completed after the date on which measure Z is approved as a substantial innovation measure under Part 6 of the 2022 Order;
+- (h) references to the date on which a measure is approved as a substantial innovation measure under Part 6 of the 2022 Order are to be treated as references to the date published by the Administrator under article 36(1)(c) or (2)(b) of the 2022 Order, as the case may be, in respect of the measure;
+- (i) references to the participant are to the participant that promoted the ECO4A qualifying action in question.
+
+### 32. Publication of annual cost savings methodology[^key-13238105f31681384e4835fedb2fdd71]
+
+(1) Before the end of the 6 week period beginning with the commencement date, the Administrator must publish, on its website, a methodology for the purpose of determining the annual cost savings of an ECO4A qualifying action.
+
+(2) Under the methodology published by the Administrator—
+
+- (a) the initial determination of the annual cost savings must be based on—
+  - (i) the pre-installation SAP rating of the domestic premises at which the ECO4A qualifying action is installed; and
+  - (ii) the impact the ECO4A qualifying action would have on the SAP rating of the domestic premises;
+- (b) the result of the initial determination referred to in sub-paragraph (a) must be reduced by 10% in order to calculate the adjusted cost savings; and
+- (c) the annual cost savings must finally be determined in accordance with the following formula—
+
+  [formula: see source](https://www.legislation.gov.uk/uksi/2023/873)
+
+  .
+
+(3) In paragraph (2)(c)—
+
+- (a) “AKM” is the adjusted cost savings calculated in accordance with paragraph (2)(b);
+- (b) “IKM” is the initial determination of the annual cost savings referred to in paragraph (2)(a);
+- (c) “F” is—
+  - (i) 0.2, where the floor area of the domestic premises is less than 73m<sup>2</sup>;
+  - (ii) 0.1, where the floor area of the domestic premises is between 73m<sup>2</sup> and 97m<sup>2</sup> (both inclusive); and
+  - (iii) 0, where the floor area of the domestic premises is greater than 97m<sup>2</sup>.
+
+(4) Before publishing a methodology under this article, the Administrator must have regard to the Standard Assessment Procedure and the Reduced Data Standard Assessment Procedure.
+
+(5) On or before 30th June 2026, the Administrator may revise any methodology published under this article by publishing the revised methodology on its website.
+
+(5A)[^key-f97e3e36ffcdbc91d6a4211fe4189f9b] This article is subject to article 32A.
+
+(6) In this article—
+
+- “**floor area**” has the same meaning as in the Standard Assessment Procedure;
+- “**pre-installation SAP rating**” means the SAP rating which is determined for the domestic premises pursuant to a pre-installation energy efficiency assessment.
+
+### 32A. Methodology for scoring smart thermostats[^key-7aa69a6b614312ce7718fbed0efb83a9]
+
+(1) This article applies to an ECO4A qualifying action for which—
+
+- (a) there is no methodology for determining annual cost savings in the Standard Assessment Procedure for Energy Rating of Dwellings (2012 Edition, version 9.92); and
+- (b) there is a methodology for determining annual cost savings in the Standard Assessment Procedure for Energy Rating of Dwellings (2023 Edition, version 10.2).
+
+(2) Before the end of the 6 week period beginning with the day on which the Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 comes into force, the Administrator must publish, on its website, a methodology for the purposes of determining the annual cost savings of the qualifying action.
+
+(3) The publication must state that the methodology has effect from 14th November 2024.
+
+(4) Before publishing a methodology under this article, the Administrator must have regard to the Standard Assessment Procedure for Energy Rating of Dwellings (2023 Edition, version 10.2).
+
+(5) On or before 30th June 2026, the Administrator may revise any methodology published under this article by publishing the revised methodology on its website.
+
+## PART 8 — Transfers
+
+### 33. Transfer of measures[^key-d8f68504df7dc03d533c6c59cbb7b412]
+
+(1) A participant may apply to the Administrator with another participant for one or more measures which are promoted by the participant (“**A**”) to be treated as promoted by the other participant (“**B**”) (a “proposed transfer”).
+
+(1A)[^key-d67222afc6b54511075eed4fad7da172] Where a participant (“**A**”)—
+
+- (a) proposes to transfer an insulation measure in relation to a domestic premises; and
+- (b) A has notified the Administrator of a second insulation measure at the same premises within the meaning of article 22(1)(c)(i) under article 25,
+
+A may only apply to transfer the insulation measure under paragraph (1) to another participant (“**B**”) if A is applying to transfer both insulation measures to B.
+
+(2) An application under paragraph (1) must—
+
+- (a) be made by A and B, in writing, on or before 30th June 2026;
+- (b) be made in respect only of measures which have been notified to the Administrator in accordance with article 25(a) to (e);
+- (c) if the application is made in respect of an in-fill measure or a primary measure with which an in-fill measure is linked, be made in respect of—
+  - (i) the in-fill measure; and
+  - (ii) all of the primary measures with which the in-fill measure is linked;
+- (d) if the application is made in respect of a heating control measure or a measure that is a related insulation measure for a heating control measure, be made in respect of—
+  - (i) the heating control measure; and
+  - (ii) its related insulation measure; and
+- (e) include such information relating to the proposed transfer as the Administrator may require.
+
+(3) The Administrator must reject the application if—
+
+- (a) the requirements in paragraph (2) are not met; or
+- (b) where A and B are not members of the same group, the Administrator considers that, if the application were approved, there is a significant risk that A would be—
+  - (i) unable to achieve its total home-heating cost reduction obligation; or
+  - (ii) unable to achieve its total home-heating cost reduction obligation in a manner that complies with article 9(3) to (7).
+
+(4) If the Administrator rejects the application it must in writing—
+
+- (a) notify A of the rejection and of any reasons for that decision relating to A; and
+- (b) notify B of the rejection and of any reasons for that decision relating to B.
+
+(5) If the Administrator approves the application—
+
+- (a) for the purposes of articles 9, 20(1)(c)(ii), 21(1)(c)(ii), 23(c), 28(2)(a) and Parts 7 to 9, the measures in respect of which the application was made are treated as promoted by B and not A; and
+- (b) the Administrator must notify A and B in writing of the date on which the application was approved.
+
+(6) For the purposes of this article—
+
+- “linked”—
+  - (a) in relation to a flat in-fill measure, has the meaning given in article 20(2);
+  - (b) in relation to a house in-fill measure, has the meaning given in article 21(2);
+- “primary measure”—
+  - (a) in relation to a flat in-fill measure, has the meaning given in article 20(1);
+  - (b) in relation to a house in-fill measure, has the meaning given in article 21(1);
+- “**related insulation measure**”, in relation to a heating control measure, means an insulation measure installed at the same domestic premises as the heating control measure.
+
+### 34. Transfer of obligations[^key-071e2b3026aac54fec84238be6561a1b]
+
+(1) A participant may apply to the Administrator with another participant for all or part of its home-heating cost reduction obligation for an ECO4A phase or low-income minimum requirement for an ECO4A phase to be transferred from the participant (“**A**”) to the other participant (“**B**”) (a “proposed transfer”).
+
+(2) An application under paragraph (1) must—
+
+- (a) be made by A and B, in writing, on or before the relevant deadline;
+- (b) state in respect of which one of the following the application is being made (the “relevant obligation”)—
+  - (i) a home-heating cost reduction obligation for phase A;
+  - (ii) a home-heating cost reduction obligation for phase B;
+  - (iii) a home-heating cost reduction obligation for phase C;
+  - (iv) a low-income minimum requirement for phase A;
+  - (v) a low-income minimum requirement for phase B;
+  - (vi) a low-income minimum requirement for phase C;
+- (c) state the amount of its relevant obligation that A intends to transfer to B (“the proposed transfer amount”); and
+- (d) include such other information relating to the proposed transfer as the Administrator may require.
+
+(3) In paragraph (2)(a), the “relevant deadline” is, where the application is made in respect of a home-heating cost reduction obligation or low-income minimum requirement for—
+
+- (a) phase A, 31st December 2023;
+- (b) for phase B, 31st December 2024;
+- (c) for phase C, 31st December 2025.
+
+(4) The Administrator must reject the application if—
+
+- (a) the requirements in paragraph (2) are not met;
+- (b) the proposed transfer amount exceeds A’s relevant obligation;
+- (c) having regard to section 30O of the Gas Act 1986[^f00022] or section 27O of the Electricity Act 1989[^f00023], as applicable, the Administrator considers that, if the application were approved, there is a significant risk that it would adversely affect the Administrator’s ability to enforce the requirements placed on B under this Order;
+- (d) after taking into account any other application made by A and B under paragraph (1), the Administrator considers that, if the application were approved, A or B’s total low-income minimum requirement would exceed their total home-heating cost reduction obligation; or
+- (e) where A and B are not members of the same group, the Administrator considers that, if the application were approved, there is a significant risk that B would be—
+  - (i) unable to achieve its total home-heating cost reduction obligation; or
+  - (ii) unable to achieve its total home-heating cost reduction obligation in a manner that complies with article 9(3) to (7).
+
+(5) If the Administrator rejects the application, it must in writing—
+
+- (a) notify A of the rejection and of any reasons for that decision relating to A; and
+- (b) notify B of the rejection and of any reasons for that decision relating to B.
+
+(6) If the Administrator approves the application—
+
+- (a) for the purposes of this Order, A’s relevant obligation is treated as reduced by the proposed transfer amount, and the Administrator must notify A in writing of—
+  - (i) its reduced relevant obligation; and
+  - (ii) the date on which the application was approved; and
+- (b) for the purposes of this Order, B’s relevant obligation is treated as increased by the proposed transfer amount, and the Administrator must notify B in writing of—
+  - (i) its increased relevant obligation; and
+  - (ii) the date on which the application was approved.
+
+### 34A. Reassignment of ECO4 savings to the ECO4A scheme[^key-b044b8cdafea3c72436f7e0ee81facb6]
+
+(1) This article applies to a participant who is also an ECO4 participant.
+
+(2) A participant may apply to the Administrator for an amount of the participant’s annual cost savings from ECO4 qualifying actions to be reassigned so as to be contributed towards the achievement of—
+
+- (a) the participant’s total home-heating cost reduction obligation;
+- (b) the participant’s total low-income minimum requirement,
+
+(“relevant ECO4A obligations”).
+
+(3) A reassignment approved under this article is subject to the following conversion—
+
+- *Step 1*
+
+  Take the amount of the participant’s annual cost savings from ECO4 qualifying actions to be reassigned
+- *Step 2*
+
+  Multiply the amount taken at step 1 by 1.251
+
+(In this article “**converted**” means converted in accordance with this paragraph.)
+
+(4) “**ECO4 qualifying action**” means a qualifying action within the meaning of article 11(1) of the 2022 Order.
+
+(5) An application may not be made to reassign an amount which, as converted, exceeds 75% of the participant’s total home-heating cost reduction obligation.
+
+(6) An application under paragraph (2) must—
+
+- (a) be made, in writing, on or before 31st July 2026;
+- (b) state the amount of annual cost savings proposed to be reassigned;
+- (c) state the amount, as converted, proposed to be contributed towards the achievement of the participant’s relevant ECO4A obligations; and
+- (d) include such other information as the Administrator may require.
+
+(7) The Administrator must reject the application if the requirements in paragraphs (2) to (6) are not met.
+
+(8) If the Administrator rejects the application, it must notify in writing the participant of the rejection and of any reasons for that decision.
+
+(9) If the Administrator approves the application—
+
+- (a) for the purposes of articles 9(1), (2) and (5)(c) and 35(1)(a) and (b) (so far as it relates to article 9(5)(c)) the amount set out in accordance with paragraph (6)(c) is contributed towards the achievement of the participant’s relevant ECO4A obligations; and
+- (b) the Administrator must notify the participant in writing of the matters mentioned in paragraph (10).
+
+(10) The matters are—
+
+- (a) the amount mentioned in paragraph (6)(b) and the consequence that this will no longer contribute towards the achievement of the participant’s obligations under the 2022 Order in accordance with article 82A of that Order;
+- (b) the amount mentioned in paragraph (6)(c) and the consequence that this will contribute towards the achievement of the participant’s relevant ECO4A obligations; and
+- (c) the date on which the application was approved.
+
+## PART 9 — Overall amounts, final determination, information and enforcement[^key-72d5d245e37c2a02a4611b986ca66ec3]
+
+### A35. Overall amounts for purposes of determining total obligations[^key-51d5e5107720a1ee4355f6f22b085438]
+
+(1) This article makes provision for the determination of overall amounts for the purposes of determining whether a participant has achieved its—
+
+- (a) total home-heating cost reduction obligation under article 35(1)(a) (see paragraphs (2) to (5)); and
+- (b) total low-income minimum requirement under article 35(1)(b) (see paragraphs (6) to (8)).
+
+(2) Before its final determination under article 35(1)(a), the Administrator must convert the sum of a participant’s scores in accordance with the following steps.
+
+- *Step 1*
+
+  Obtain the sum of all the participant’s scores (“**A**”)
+- *Step 2*
+
+  Multiply the participant’s total home-heating cost reduction obligation by 0.25 to get an amount (“**B**”)
+- *Step 3*
+
+  Subtract B from A to get a further amount (“**C**”) (where C is a negative number take E at step 5 to be A and go to paragraph (3))
+- *Step 4*
+
+  Multiply C by 1.716 to get an amount (“**D**”)
+- *Step 5*
+
+  Add D to B to get an amount (“**E**”)
+
+(3) In step 1 in paragraph (2) “**scores**” includes any scores for measures transferred to the participant under article 33.
+
+(4) E must be added to any amount, as converted, which is reassigned by the participant under article 34A to obtain an overall amount (“**F**”).
+
+(5) F is the overall amount used for the purposes of determining whether the participant has achieved its total home-heating cost reduction obligation under article 35(1)(a).
+
+(6) Before its final determination under article 35(1)(b) (so far as it relates to article 9(5)(c)), the administrator must take the following steps.
+
+- *Step 1*
+
+  Obtain the sum of all the participant’s scores for low-income qualifying actions (“**G**”)
+- *Step 2*
+
+  Add G to any amount, as converted, which is reassigned by the participant under article 34A to get an amount (“**H**”)
+
+(7) In step 1 in paragraph (6) “**scores**” includes any scores for low-income qualifying actions transferred to the participant under article 33.
+
+(8) H is the overall amount used for the purposes of determining whether the participant has achieved its total low-income minimum requirement under article 35(1)(b).
+
+### 35. Final determination and reporting[^key-8212a359161cfe35b0f5300d4698babd]
+
+(1) The Administrator must determine whether a participant has—
+
+- (a) achieved its total home-heating cost reduction obligation; and
+- (b) achieved its total home-heating cost reduction obligation in a manner that complies with article 9(3) to (7).
+
+(2) The Administrator must notify the participant in writing of its determination under paragraph (1) before 1st December 2026.
+
+(3) The Administrator must submit to the Secretary of State a report each month setting out the progress which participants have made towards achieving their total home-heating cost reduction obligations.
+
+(4) The Administrator must submit—
+
+- (a) its first report under paragraph (3) in February 2024; and
+- (b) its final report under paragraph (3) in April 2026.
+
+(5) Before 1st December 2026, the Administrator must submit to the Secretary of State a report setting out whether participants achieved the overall home-heating cost reduction target.
+
+### 36. Information from participants[^key-335fed573a27f9d648578e183a4de913]
+
+The Administrator may require a participant—
+
+- (a) to provide it with such information, or information of such nature, as it may specify—
+  - (i) about the participant’s proposals for complying with any requirement under this Order; or
+  - (ii) relating to the cost to the participant of achieving its total home-heating cost reduction obligation; and
+- (b) to produce to it evidence, of such kind as it may specify, demonstrating that the participant is complying with, or has complied with, any requirement under this Order.
+
+### 37. Declaration verification service[^key-5b18a125c417230909a13b4dd3e91bb3]
+
+(1) The Administrator must—
+
+- (a) provide a means by which a relevant authority may provide the Administrator with information about a declaration the relevant authority has made under any one of articles 16 to 18; and
+- (b) maintain a record of that information.
+
+(2) A participant may apply to the Administrator for a determination by the Administrator as to whether a copy of a declaration purporting to be made by a relevant authority under any one of articles 16 to 18 (“the purported declaration”) matches any declaration about which a record is maintained by the Administrator under paragraph (1)(b).
+
+(3) An application under paragraph (2) must—
+
+- (a) be in writing;
+- (b) be made before 1st July 2026; and
+- (c) include a copy of the purported declaration.
+
+(4) Following receipt of an application under paragraph (2), the Administrator must—
+
+- (a) if the requirements in paragraph (3) are met—
+  - (i) determine whether the purported declaration matches any declaration about which a record is maintained by the Administrator under paragraph (1)(b); and
+  - (ii) notify the participant of the outcome of that determination;
+- (b) if the requirements in paragraph (3) are not met—
+  - (i) reject the application; and
+  - (ii) notify the participant of the reasons for the rejection.
+
+### 38. Enforcement[^key-ee0339b59eaa7d9bc9942afc257b588f]
+
+A requirement placed on a participant under this Order is a relevant requirement for the purpose of Part 1 of the Electricity Act 1989 and Part 1 of the Gas Act 1986[^f00024].
+
+## PART 10 — Amendment of the 2022 Order
+
+### 39. Amendment of the 2022 Order[^key-6c800b80fb194572774c4632cf6b2d27]
+
+The 2022 Order is amended in accordance with this Part.
+
+### 40. Amendment to article 2 (interpretation)[^key-76108cda640cdfe29517eca413ed9a76]
+
+In article 2—
+
+- (a) in paragraph (1)—
+  - (i) in the definition of “heating measure”, after paragraph (c) insert—
+
+    > - (d) related electricity generation equipment;
+
+    ;
+  - (ii) in the definition of “licence-holder”, in paragraph (b), for “section 7A” substitute “section 7A(1)”;
+  - (iii) for the definition of “Reduced Data Standard Assessment Procedure” substitute—
+
+    > - “**Reduced Data Standard Assessment Procedure**” means the Reduced Data Standard Assessment Procedure for Energy Rating of Dwellings (2012 edition, version 9.94);
+
+    ;
+  - (iv) after the definition of “Reduced Data Standard Assessment Procedure” insert—
+
+    > - “**related electricity generation equipment**” means equipment for the generation of electricity at domestic premises where—
+    >   - (a) the electricity is generated wholly or mainly by renewable means; and
+    >   - (b) the electricity so generated is used wholly or partly by equipment that generates heat at domestic premises;
+
+    ;
+  - (v) for the definition of “renewable heating system” substitute—
+
+    > - “**renewable heating system**” means—
+    >   - (a) equipment for the generation of heat wholly or partly by renewable means; or
+    >   - (b) related electricity generation equipment;
+
+    ;
+  - (vi) after the definition of “renewable heating system” insert—
+
+    > - “**renewable means**” means by means of a source of energy or technology which—
+    >   - (a) is mentioned in section 100(4)(a) or (c) to (h) of the Energy Act 2008[^f00025]; and
+    >   - (b) is not used to generate electricity that is supplied by a licence-holder;
+
+    ;
+- (b) in paragraph (3), in sub-paragraph (b) after “both” insert “generate electricity,”.
+
+### 41. Amendment to article 4 (definition of participant)[^key-65d324281471f0973b8d860e6e2d04ec]
+
+In article 4, in paragraph (5), for “section 7A” substitute “section 7A(1)”.
+
+### 42. Amendment to article 12 (qualifying actions: general requirements relating to Condition A)[^key-4984d12728bcf51f6616dd6f1feca1c8]
+
+In article 12, in paragraph (1)—
+
+- (a) after sub-paragraph (e), omit “and”;
+- (b) after sub-paragraph (f) insert—
+
+  > ; and
+  >
+  > - (g) is not a measure notified to the Administrator in accordance with article 25 of the Electricity and Gas (Energy Company Obligation) Order 2023.
+
+  .
+
+### 43. Amendment to article 27 (general requirements relating to heating measures)[^key-44718f946ebaafc409781f37d73d0fe7]
+
+In article 27, in paragraph (1)—
+
+- (a) in sub-paragraph (d), omit “or the installation of a connection to a district heating system that delivers heat generated wholly or partly from mains gas,”;
+- (b) for sub-paragraphs (e) and (f) substitute—
+
+  > - (e) where the measure is the installation of an electric storage heater, but is not a repair—
+  >   - (i) the measure has a responsiveness rating equal to, or greater than, 0.8 when assessed against the Standard Assessment Procedure; and
+  >   - (ii) the measure—
+  >     - (aa) replaces an electric heating system at on-gas premises;
+  >     - (bb) is installed at on-gas premises where one or more electric storage heaters are already installed;
+  >     - (cc) is installed at on-gas premises which, immediately prior to the installation of the measure, have neither an efficient heating system nor an inefficient heating system; or
+  >     - (dd) is installed at off-gas premises;
+  > - (f) where the measure is the installation of an electric heating system, but is not a repair—
+  >   - (i) the measure has a responsiveness rating equal to, or greater than, 0.8 when assessed against the Standard Assessment Procedure; and
+  >   - (ii) the measure—
+  >     - (aa) replaces an electric heating system at on-gas premises;
+  >     - (bb) is installed at on-gas premises where one or more electric storage heaters are already installed;
+  >     - (cc) is installed at on-gas premises which, immediately prior to the installation of the measure, have neither an efficient heating system nor an inefficient heating system; or
+  >     - (dd) is installed at off-gas premises;
+
+  ;
+- (c) in sub-paragraph (i), for “includes the installation of equipment for the direct conversion of sunlight into electricity” substitute “includes the installation of equipment for the generation of electricity by renewable means”.
+
+### 44. Amendment to article 28 (requirements specific to heating measures installed at on-gas premises)[^key-132d8572198464db32c623dded0cb371]
+
+In article 28—
+
+- (a) in paragraph (1)—
+  - (i) in sub-paragraph (d)(i)(ee), omit “which is broken down”;
+  - (ii) in sub-paragraph (e)—
+    - (aa) after paragraph (iv), omit “or”;
+    - (bb) after paragraph (v), insert—
+
+      > - (vi) an electric storage heater; or
+      > - (vii) an electric heating system.
+
+      ;
+- (b) for paragraph (2) substitute—
+
+  > (2) A heating measure installed at on-gas premises also meets the requirements of this article if—
+  >
+  > - (a) the measure—
+  >   - (i) forms part of an ECO4 project which includes the installation of a district heating connection which meets the requirements of paragraph (1); and
+  >   - (ii) is a wet central heating system installed after the completion of the installation of the district heating connection; or
+  > - (b) the measure is the installation of related electricity generation equipment.
+
+  .
+
+### 45. Amendment to article 29 (requirements specific to heating measures installed at off-gas premises)[^key-835154b1f0b4dbd4a7b78ac8b6c4844f]
+
+In article 29, in paragraph (2)—
+
+- (a) after sub-paragraph (a), omit “or”;
+- (b) after sub-paragraph (b), insert—
+
+  > ; or
+  >
+  > - (c) the measure is the installation of related electricity generation equipment.
+
+  .
+
+### 46. Amendment to article 30 (hierarchy of heating measures installed at off-gas premises)[^key-8fb3cf0aad97c25e68a9ac0d53b78c88]
+
+In article 30, for paragraph (2)(c)(i) substitute—
+
+> - (i) an electric storage heater or an electric heating system, provided that—
+>   - (aa) the measure replaces an electric heating system at the premises;
+>   - (bb) the measure is installed at premises where one or more electric storage heaters are already installed; or
+>   - (cc) the measure is installed at premises which, immediately prior to the installation of the measure, have neither an efficient heating system nor an inefficient heating system; or
+
+.
+
+### 47. Amendment to article 43 (notification requirements for completed measures)[^key-162c3493a3d51dd160fb2e005379fbb5]
+
+In article 43, after paragraph (c)—
+
+- (a) omit “and”;
+- (b) insert—
+
+  > - (ca) indicates that the notification is made under this article;
+  > - (cb) is not withdrawn by a notification made under article 44A; and
+
+  .
+
+### 48. Insertion of article 44A (withdrawal of notification)[^key-3610a10a4738a467edb1237633cc4e31]
+
+After article 44, insert—
+
+> **44A. Withdrawal of notification**
+>
+> (1) A participant may withdraw a notification made under article 43 by notifying the Administrator in writing.
+>
+> (2) A notification under paragraph (1) must—
+>
+> - (a) be made by the participant that promoted the measure;
+> - (b) be made on or before 30th June 2026; and
+> - (c) include such information relating to the measure as the Administrator may require.
+
+.
+
+### 49. Amendment to article 80 (transfer of measures)[^key-c46689741da5d2b71170cac1c48cdf1e]
+
+In article 80—
+
+- (a) in paragraph (2)(b)(i), for “article 43(a) to (c)” substitute “article 43(a) to (cb)”;
+- (b) in paragraph (5)(a), at the beginning insert “except for the purposes of articles 20(1)(b), 21(2)(b), 43(a) and 45(4),”.
+
+### 50. Saving provisions[^key-9c3412358b0da412f9c96b819a8e17a9]
+
+(1) With the exception of the amendments made by articles 40(a)(iii) and 49(b), the 2022 Order shall continue to have effect in relation to a measure completed before the day on which this Part comes into force as if the 2022 Order had not been amended by this Part.
+
+(2) Where an assessment of the energy efficiency of domestic premises is performed using the Reduced Data Standard Assessment Procedure for Energy Rating of Dwellings (2012 Edition, version 9.92)[^f00026] before the day on which this Part comes into force and is relied on by a participant for the purposes of the 2022 Order in relation to a measure installed at the domestic premises, the 2022 Order shall continue to have effect in relation to that measure as if the 2022 Order had not been amended by article 40(a)(iii).
+
+(3) For the purposes of paragraph (1), a measure is completed when the installation of the measure is completed.
+
+(4) In this article, “domestic premises” and “participant” have the meanings given in article 2(1) of the 2022 Order.
+
+Callanan
+
+Parliamentary Under Secretary of State
+
+Department for Energy Security and Net Zero
+
+10th July 2023
+
+The Scottish Ministers consent to the making of this Order.
+
+Patrick Harvie
+
+A member of the Scottish Government
+
+24th July 2023
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order applies in Great Britain. Parts 1 to 9 establish an Energy Company Obligation scheme for the period to 31st March 2026 for the promotion of measures for reducing the cost to individuals of heating their homes (“**the ECO4A scheme**”). The ECO4A scheme is administered and enforced by the Gas and Electricity Markets Authority (the “Administrator”). Part 10 amends the Electricity and Gas (Energy Company Obligation) Order 2022 (“**the 2022 Order**”). That Order established another Energy Company Obligation scheme (“**the ECO4 scheme**”) also for the promotion of measures for reducing the cost to individuals of heating their homes.
+
+Part 1 contains introductory and interpretation provisions.
+
+In Part 2—
+
+- (a) article 3 sets the overall home-heating cost reduction target for the period from the commencement of Parts 1 to 9 of this Order to 31st March 2026;
+- (b) article 4 sets out who must participate in the ECO4A scheme. These are the same licensed electricity and gas suppliers as are required to participate in the ECO4 scheme.
+
+Part 3 sets out the process for the apportionment of the overall home-heating cost reduction target between participants. A participant’s share of the target is referred to as its total home-heating cost reduction obligation (its “obligation”). A participant’s obligation is determined in three phases, by reference to whether the participant is a participant in relation to the phase, and if so, by reference to the amount of gas or electricity supplied by the participant (or its group) in the qualification year for the equivalent phase under the ECO4 scheme.
+
+Part 4 requires a participant to achieve its obligation by no later than 31st March 2026, and by promoting ECO4A qualifying actions, which are defined in Part 5. Article 9(3) to (7) impose further requirements as to how a participant must achieve its obligation, including by promoting low-income qualifying actions (as defined in article 2).
+
+Part 5 contains provisions about ECO4A qualifying actions—
+
+- (a) article 10 sets out the requirements and conditions that must be met for a measure to be an ECO4A qualifying action;
+- (b) article 11 sets out general requirements, including that the measure must be either an insulation measure or a heating control measure (as defined in article 2);
+- (c) articles 12 to 15 set out conditions for a measure to be an ECO4A qualifying action, depending on whether the measure is installed at—
+  - (i) private domestic premises in council tax valuation bands A to D in England, or A to E in Wales or Scotland;
+  - (ii) private domestic premises occupied by a member of the help to heat group. These are persons awarded a benefit listed in Schedule 1 to the 2022 Order and meeting any condition in relation to that benefit which is specified in that Schedule;
+  - (iii) social housing with an energy performance rating of band D; or
+  - (iv) social housing with an energy performance rating of band E, F or G;
+- (d) articles 16 to 19 set out conditions for a measure to be an ECO4A qualifying action, where a relevant authority (as defined in the 2022 Order) or participant has made certain declarations, such as relating to household income;
+- (e) articles 20 and 21 set out conditions for a measure to be an ECO4A qualifying action, where the measure meets the definition of an “in-fill measure” as set out in those articles;
+- (f) articles 22 and 23 set out additional requirements relating to insulation measures and heating control measures respectively;
+- (g) article 24 sets out further requirements relating to quality assurance and consumer protection.
+
+Part 6 contains provisions about the notification of completed measures—
+
+- (a) the requirements for an ECO4A qualifying action include a requirement for the participant to notify the measure to the Administrator in accordance with article 25;
+- (b) the deadline for notification of the measure is set by, or determined under, article 26;
+- (c) article 27 makes provision for applications to extend the deadline for notification;
+- (d) article 28 enables notifications to be withdrawn.
+
+Part 7 contains provisions about scores—
+
+- (a) article 29 requires the Administrator to give a score to each ECO4A qualifying action. The score is the amount the ECO4A qualifying action contributes towards the achievement of a participant’s obligation;
+- (b) articles 30 to 32 contain provisions for calculating the score.
+
+Part 8 contains provisions about transfer of measures and obligations—
+
+- (a) participants can apply to the Administrator under article 33 to transfer notified measures from one to another;
+- (b) participants can apply to the Administrator under article 34 to transfer all or part of a participant’s obligation or low-income minimum requirement from one to another. The low-income minimum requirement is used in article 9 to specify how much of its obligation a participant must achieve through the promotion of low-income qualifying actions.
+
+Part 9 contains provisions about information and enforcement—
+
+- (a) article 35 requires the Administrator to determine before 1st December 2026 whether a participant has achieved its obligation;
+- (b) article 36 enables the Administrator to require information and evidence from a participant regarding compliance with the requirements of this Order and the costs of achieving its obligation;
+- (c) article 37 requires the Administrator, following an application by a participant, to check copies of purported declarations by relevant authorities with information provided by the relevant authorities;
+- (d) article 38 makes provision for the enforcement of the requirements placed on participants under this Order.
+
+Part 10 amends the 2022 Order—
+
+- (a) article 40 amends article 2(1) of the 2022 Order to—
+  - (i) insert definitions for “related electricity generation equipment” and “renewable means”;
+  - (ii) correct the definition of “licence-holder” to exclude holders of a licence under section 7A(2) of the Gas Act 1986 (“gas shippers”);
+  - (iii) correct the definition of “Reduced Data Standard Assessment Procedure” to refer to the latest version number for the 2012 edition. Copies of the latest and previous version of the 2012 edition of the Reduced Data Standard Assessment Procedure can be inspected by contacting the Energy Company Obligation Team, Department for Energy Security and Net Zero, 1 Victoria Street, London SW1H 0ET;
+  - (iv) expand the definitions of “heating measure” and “renewable heating system” to include “related electricity generation equipment”. A consequential amendment is made to article 2(3)(b) of the 2022 Order;
+  - (v) expand the definition of “renewable heating system” to include equipment for the generation of heat partly by renewable means;
+- (b) article 41 corrects article 4(5) of the 2022 Order to exclude gas shippers;
+- (c) article 42 amends article 12 of the 2022 Order to prevent a measure from being a qualifying action under the ECO4 scheme if it is a measure notified in accordance with the ECO4A scheme;
+- (d) article 43 amends the general requirements relating to heating measures in article 27(1) of the 2022 Order to—
+  - (i) remove the restriction in sub-paragraph (d) on installation of connections to district heating systems that deliver heat generated wholly or partly from mains gas;
+  - (ii) widen the circumstances in which electric storage heaters or electric heating systems can be installed;
+  - (iii) apply the restrictions on the installation of solar pv equipment in sub-paragraph (i) to all equipment for the generation of electricity by renewable means;
+- (e) article 44 amends the specific requirements relating to heating measures installed at on-gas premises in article 28 of the 2022 Order to widen the circumstances in which electric storage heaters, electric heating systems or related electricity generation equipment can be installed at on-gas premises;
+- (f) article 45 amends the specific requirements relating to heating measures installed at off-gas premises in article 29(2) of the 2022 Order to widen the circumstances in which related electricity generation equipment can be installed at off-gas premises;
+- (g) article 46 amends the off-gas heating hierarchy in article 30 of the 2022 Order to widen the circumstances in which electric storage heaters or electric heating systems can be installed;
+- (h) articles 47 to 49(a) amend the notification requirements in article 43 of the 2022 Order, insert a new article 44A to enable the withdrawal of notifications of completed measures and to make a consequential amendment to article 80 of the 2022 Order;
+- (i) article 49(b) makes a correction as to how references to the person that promoted the measure are to be interpreted in the 2022 Order following approval of an application to transfer the measure;
+- (j) article 50 contains saving provisions.
+
+A full impact assessment of the effect that this instrument will have on the costs of business and the public sector has been published and is available at www.legislation.gov.uk. Hard copies of the impact assessment can be obtained from the Energy Company Obligation Team, Department for Energy Security and Net Zero, 1 Victoria Street, London SW1H 0ET.
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 33BD was inserted by section 68 of the Energy Act [2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16).
+
+[^f00002]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 41B was inserted by section 69 of the Energy Act 2011.
+
+[^f00003]: Footnote: [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27). Section 103A was inserted by section 70 of the Energy Act 2011 and amended by section 60 of the Scotland Act [2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11) and [S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631) and [2022/34](https://www.legislation.gov.uk/uksi/2022/34).
+
+[^f00004]: Footnote: Notwithstanding section 33BDA of the Gas Act 1986 and section 41BA of the Electricity Act 1989, as inserted by section 59 of the Scotland Act 2016, the Secretary of State may, by virtue of section 33BDA(10) of the Gas Act 1986 and section 41BA(10) of the Electricity Act 1989, make provision under section 33BD of the Gas Act 1986 and section 41B of the Electricity Act 1989 for the purposes of obligations imposed under those sections in relation to Scotland, with the agreement of the Scottish Ministers.
+
+[^f00005]: Footnote: Section 33BC was inserted by section 99 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27) and amended by section 15 of, and the Schedule to, the Climate Change and Sustainable Energy Act [2006 (c. 19)](https://www.legislation.gov.uk/ukpga/2006/19), Schedule 8 to the Climate Change Act [2008 (c. 27)](https://www.legislation.gov.uk/ukpga/2008/27), section 66 of the Energy Act [2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16) and [S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631) and [2022/34](https://www.legislation.gov.uk/uksi/2022/34).
+
+[^f00006]: Footnote: Section 41A was inserted by section 70 of the Utilities Act 2000 and amended by section 16 of, and the Schedule to, the Climate Change and Sustainable Energy Act 2006, Schedule 8 to the Climate Change Act 2008, section 67 of, and Schedule 1 to, the Energy Act 2011 and [S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631) and [2022/34](https://www.legislation.gov.uk/uksi/2022/34).
+
+[^key-9f5ac3f85a4e98fce70b6da54470a2d7]: Commencement: Art. 1 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-f97964d8c108bb4a071779a930d3c9d1]: Commencement: Art. 2 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^f00007]: Footnote: [S.I. 2022/875](https://www.legislation.gov.uk/uksi/2022/875).
+
+[^f00008]: Footnote: [S.I. 2015/962](https://www.legislation.gov.uk/uksi/2015/962). Amended by [S.I. 2016/660](https://www.legislation.gov.uk/uksi/2016/660), [2019/595](https://www.legislation.gov.uk/uksi/2019/595) and [2022/907](https://www.legislation.gov.uk/uksi/2022/907).
+
+[^f00009]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^f00010]: Footnote: Section 6 was substituted by section 30 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27) and amended by section 89(3) of the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) and [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704). There are other amendments which are not relevant.
+
+[^f00011]: Footnote: Section 7A was inserted by section 6(1) of the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45) and amended by section 3(2) of, and Schedule 6 to, the Utilities Act 2000. There are other amendments which are not relevant.
+
+[^M_F_b760dc20-8e8d-489b-a14a-575d887d2a1e]: Textual amendment: Words in art. 2(2) substituted (29.7.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment, Saving and Transitional Provisions) Order 2025 (S.I. 2025/802)](https://www.legislation.gov.uk/uksi/2025/802), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2), [10](https://www.legislation.gov.uk/uksi/2025/802/article/10) (with [art. 11](https://www.legislation.gov.uk/uksi/2025/802/article/11))
+
+[^f00013]: Footnote: See section 33BD(1) of the Gas Act 1986 and section 41B(1) of the Electricity Act 1989 for the definition of “home-heating cost reduction obligation”. Subject to article 34, a participant’s home-heating cost reduction obligation for an ECO4A phase is the amount determined for the participant under article 6(1).
+
+[^f00014]: Footnote: The Government’s Standard Assessment Procedure for Energy Rating of Dwellings (2012 Edition, version 9.92). Copies can be accessed at https://www.bre.co.uk/filelibrary/SAP/2012/SAP-2012\_9-92.pdf. A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Energy Security and Net Zero, 1 Victoria Street, London SW1H 0ET.
+
+[^f00015]: Footnote: The Administrator is the Gas and Electricity Markets Authority. See sections 33BD(2)(a) and 66 of the Gas Act 1986 and sections 41B(2)(a) and 111 of the Electricity Act 1989.
+
+[^key-aebe79424376e7d468a5d06e4843bc4e]: Commencement: Art. 3 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^f00016]: Footnote: See section 33BD(2)(b) of the Gas Act 1986 and section 41B(2)(b) of the Electricity Act 1989 for the definition of “home-heating cost reduction target”. Section 103A(1) of the Utilities Act 2000 provides for the specification of an overall target.
+
+[^key-48e33eeedb9c9e5bd0cd67ead918a388]: Commencement: Art. 4 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-34a044fc17104da4cf00c9a14095b58a]: Commencement: Art. 5 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-29e0057434a461d2f40cefc64122bfcf]: Commencement: Art. 6 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-80c016482e5f846d844d59b5519ec389]: Commencement: Art. 7 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-64d265e3c3018fbdeaca1be8540368b9]: Commencement: Art. 8 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-003ba51fdf53cb00d3ca5a77c6ae5425]: Commencement: Art. 9 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-3ce591bc50057c3e42e95a835ad6d19b]: Textual amendment: [Art. 9(2)](https://www.legislation.gov.uk/uksi/2023/873/article/9/2) substituted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [12(a)(i)](https://www.legislation.gov.uk/uksi/2025/941/article/12/a/i)
+
+[^key-35588aea2a89fa5bbe056198830c5548]: Textual amendment: [Art. 9(5)](https://www.legislation.gov.uk/uksi/2023/873/article/9/5) substituted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2025/941/article/12/a/ii)
+
+[^key-8e763da8799717a7707ed653d757a076]: Commencement: Art. 10 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-f3436b4775beb53d76ffcd50084ff5a4]: Commencement: Art. 11 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-666184a1e356f3906d104250bb823f06]: Commencement: Art. 12 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^f00017]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
+
+[^key-f04524d810ff9beee57df8e219041604]: Commencement: Art. 13 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-199e2fc0d6a528f2e2846bd07c5a9c53]: Commencement: Art. 14 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-c63fdb63a1ef49900ce218fb53badca1]: Commencement: Art. 15 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-9c1808b070a8d4699227e17ab216d8e2]: Commencement: Art. 16 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-0a55e6b5b3ab269efaa49af1da6edf93]: Commencement: Art. 17 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-f12700470b1e64982f2719d03c56a0a3]: Commencement: Art. 18 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-6533b27c230940a65e0ab1f57d138d25]: Commencement: Art. 19 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^f00018]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Paragraph 6 of Schedule 9 was amended by [S.I. 1991/2284](https://www.legislation.gov.uk/uksi/1991/2284), [1992/2595](https://www.legislation.gov.uk/uksi/1992/2595), [1996/1460](https://www.legislation.gov.uk/uksi/1996/1460), [1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [2002/3019](https://www.legislation.gov.uk/uksi/2002/3019), [2003/492](https://www.legislation.gov.uk/uksi/2003/492), [2006/2377](https://www.legislation.gov.uk/uksi/2006/2377), [2013/443](https://www.legislation.gov.uk/uksi/2013/443), [2021/456](https://www.legislation.gov.uk/uksi/2021/456) and [2023/232](https://www.legislation.gov.uk/uksi/2023/232).
+
+[^key-94db9d9d5ffa96ec74934a54b1693352]: Commencement: Art. 20 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^f00019]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214). See regulation 2(1). There are amending instruments but none are relevant.
+
+[^f00020]: Footnote: [S.S.I. 2004/406](https://www.legislation.gov.uk/ssi/2004/406). See regulation 2(1). There are amending instruments but none are relevant.
+
+[^key-2a853933fd74ee926aaefe26a57680f6]: Commencement: Art. 21 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-e13d05ff9db816049c253430222a6b56]: Commencement: Art. 22 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-9bad51d79acd4e0d1ad5cbf39539b13c]: Textual amendment: [Art. 22(1)(aa)](https://www.legislation.gov.uk/uksi/2023/873/article/22/1/aa) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2025/941/article/6/2) (with [art. 6(3)](https://www.legislation.gov.uk/uksi/2025/941/article/6/3))
+
+[^key-51e6ba1ecd8f657cd3d94361912054a5]: Textual amendment: [Art. 22(1)(c)](https://www.legislation.gov.uk/uksi/2023/873/article/22/1/c) substituted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [13(1)(a)(i)](https://www.legislation.gov.uk/uksi/2025/941/article/13/1/a/i) (with [art. 13(2)](https://www.legislation.gov.uk/uksi/2025/941/article/13/2))
+
+[^key-106106caaa4277270bf206c3dca381a1]: Textual amendment: [Art. 22(1A)-(1C)](https://www.legislation.gov.uk/uksi/2023/873/article/22/1A) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [13(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/941/article/13/1/a/ii) (with [art. 13(2)](https://www.legislation.gov.uk/uksi/2025/941/article/13/2))
+
+[^key-7fea4d1b8d50b77c5509df4f02a7c54d]: Textual amendment: [Art. 22(2)](https://www.legislation.gov.uk/uksi/2023/873/article/22/2) omitted (1.8.2025) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [13(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/941/article/13/1/a/iii) (with [art. 13(2)](https://www.legislation.gov.uk/uksi/2025/941/article/13/2))
+
+[^key-4a44645ec50c9594c2c87a6e707c7a76]: Commencement: Art. 23 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-b09b4ba6d4426155ff512b1dc625824c]: Textual amendment: [Art. 23(a)](https://www.legislation.gov.uk/uksi/2023/873/article/23/a) substituted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [13(1)(b)](https://www.legislation.gov.uk/uksi/2025/941/article/13/1/b) (with [art. 13(2)](https://www.legislation.gov.uk/uksi/2025/941/article/13/2))
+
+[^key-1dffb40a102d28a20fced7a9b329cd75]: Commencement: Art. 24 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-82cd5cb3d1fb09c5c80770903d733798]: Textual amendment: [Art. 24(1)](https://www.legislation.gov.uk/uksi/2023/873/article/24/1)[(1A)](https://www.legislation.gov.uk/uksi/2023/873/article/24/1A) substituted for [art. 24(1)](https://www.legislation.gov.uk/uksi/2023/873/article/24/1) (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/941/article/5/2) (with [art. 5(3)](https://www.legislation.gov.uk/uksi/2025/941/article/5/3))
+
+[^key-6a2c8c76bbd29dcf7fb83511815a2070]: Commencement: Art. 25 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-32fd661cac48a07673c986a6e52d2a09]: Commencement: Art. 26 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-9420990faaf6717cfe7813e831f2b2b1]: Commencement: Art. 27 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-daf0351387a0bf3aa6500a770ec571dd]: Commencement: Art. 28 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-c0c6250663e11cda083294e92de2c3b0]: Commencement: Art. 29 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-5066f9b0b7aa42257fe89d87068d95c4]: Textual amendment: [Art. 29(5)](https://www.legislation.gov.uk/uksi/2023/873/article/29/5) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2025/941/article/12/b)
+
+[^key-65dd3853e0f8ab5a8a214d118b2f1606]: Commencement: Art. 30 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-f3052be7bfad55fa63ecdbab96e8f203]: Textual amendment: [Art. 30(3)](https://www.legislation.gov.uk/uksi/2023/873/article/30/3) substituted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2025/941/article/4/2) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2025/941/article/4/4))
+
+[^key-bd5a6e619aba383e376793f150bcdc71]: Commencement: Art. 31 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^f00021]: Footnote: [S.I. 2018/1183](https://www.legislation.gov.uk/uksi/2018/1183), amended by [S.I. 2019/1441](https://www.legislation.gov.uk/uksi/2019/1441) and [2019/1458](https://www.legislation.gov.uk/uksi/2019/1458).
+
+[^key-13238105f31681384e4835fedb2fdd71]: Commencement: Art. 32 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-f97e3e36ffcdbc91d6a4211fe4189f9b]: Textual amendment: [Art. 32(5A)](https://www.legislation.gov.uk/uksi/2023/873/article/32/5A) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [14(1)(a)](https://www.legislation.gov.uk/uksi/2025/941/article/14/1/a) (with [art. 14(2)](https://www.legislation.gov.uk/uksi/2025/941/article/14/2))
+
+[^key-7aa69a6b614312ce7718fbed0efb83a9]: Textual amendment: [Art. 32A](https://www.legislation.gov.uk/uksi/2023/873/article/32A) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [14(1)(b)](https://www.legislation.gov.uk/uksi/2025/941/article/14/1/b) (with [art. 14(2)](https://www.legislation.gov.uk/uksi/2025/941/article/14/2))
+
+[^key-d8f68504df7dc03d533c6c59cbb7b412]: Commencement: Art. 33 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-d67222afc6b54511075eed4fad7da172]: Textual amendment: [Art. 33(1A)](https://www.legislation.gov.uk/uksi/2023/873/article/33/1A) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [13(1)(c)](https://www.legislation.gov.uk/uksi/2025/941/article/13/1/c) (with [art. 13(2)](https://www.legislation.gov.uk/uksi/2025/941/article/13/2))
+
+[^key-071e2b3026aac54fec84238be6561a1b]: Commencement: Art. 34 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^f00022]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 30O was inserted by paragraph 1 of Schedule 14 to the Energy Act [2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32).
+
+[^f00023]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 27O was inserted by paragraph 2 of Schedule 14 to the Energy Act 2013.
+
+[^key-b044b8cdafea3c72436f7e0ee81facb6]: Textual amendment: [Art. 34A](https://www.legislation.gov.uk/uksi/2023/873/article/34A) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2025/941/article/7/2) (with [art. 7(3)](https://www.legislation.gov.uk/uksi/2025/941/article/7/3))
+
+[^key-72d5d245e37c2a02a4611b986ca66ec3]: Textual amendment: [Pt. 9](https://www.legislation.gov.uk/uksi/2023/873/part/9) heading substituted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [12(c)](https://www.legislation.gov.uk/uksi/2025/941/article/12/c)
+
+[^key-51d5e5107720a1ee4355f6f22b085438]: Textual amendment: [Art. A35](https://www.legislation.gov.uk/uksi/2023/873/article/A35) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [12(d)](https://www.legislation.gov.uk/uksi/2025/941/article/12/d)
+
+[^key-8212a359161cfe35b0f5300d4698babd]: Commencement: Art. 35 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-335fed573a27f9d648578e183a4de913]: Commencement: Art. 36 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-5b18a125c417230909a13b4dd3e91bb3]: Commencement: Art. 37 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^key-ee0339b59eaa7d9bc9942afc257b588f]: Commencement: Art. 38 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+
+[^f00024]: Footnote: Sections 25 to 28 of the Electricity Act 1989 and sections 28 to 30O of the Gas Act 1986 provide for the enforcement of relevant requirements by the Gas and Electricity Markets Authority.
+
+[^key-6c800b80fb194572774c4632cf6b2d27]: Commencement: Art. 39 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+
+[^key-76108cda640cdfe29517eca413ed9a76]: Commencement: Art. 40 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+
+[^f00025]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32). Section 100(4) is amended by [S.I. 2011/2195](https://www.legislation.gov.uk/uksi/2011/2195).
+
+[^key-65d324281471f0973b8d860e6e2d04ec]: Commencement: Art. 41 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+
+[^key-4984d12728bcf51f6616dd6f1feca1c8]: Commencement: Art. 42 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+
+[^key-44718f946ebaafc409781f37d73d0fe7]: Commencement: Art. 43 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+
+[^key-132d8572198464db32c623dded0cb371]: Commencement: Art. 44 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+
+[^key-835154b1f0b4dbd4a7b78ac8b6c4844f]: Commencement: Art. 45 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+
+[^key-8fb3cf0aad97c25e68a9ac0d53b78c88]: Commencement: Art. 46 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+
+[^key-162c3493a3d51dd160fb2e005379fbb5]: Commencement: Art. 47 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+
+[^key-3610a10a4738a467edb1237633cc4e31]: Commencement: Art. 48 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+
+[^key-c46689741da5d2b71170cac1c48cdf1e]: Commencement: Art. 49 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+
+[^key-9c3412358b0da412f9c96b819a8e17a9]: Commencement: Art. 50 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+
+[^f00026]: Footnote: Published as Appendix S of the Government’s Standard Assessment Procedure for Energy Rating of Dwellings (2012 Edition, version 9.92). Copies can be accessed at https://www.bre.co.uk/filelibrary/SAP/2012/SAP-2012\_9-92.pdf. A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Energy Security and Net Zero, 1 Victoria Street, London SW1H 0ET.

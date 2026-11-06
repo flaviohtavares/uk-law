@@ -1,0 +1,247 @@
+---
+title: The Ecclesiastical Exemption (Listed Buildings and Conservation Areas) (England) Order 2010
+id: uksi/2010/1176
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-03-31'
+text_date: '2010-10-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2010/1176
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2010/1176/pdfs/uksiem_20101176_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1176/pdfs/uksi_20101176_en.pdf
+- http://www.legislation.gov.uk/uksi/2010/1176/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Ecclesiastical Exemption (Listed Buildings and Conservation Areas) (England) Order 2010
+
+> Text as at 2010-10-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2010 No. 1176
+
+Town And Country Planning, England
+
+The Ecclesiastical Exemption (Listed Buildings and Conservation Areas) (England) Order 2010
+
+Made
+
+31st March 2010
+
+Laid before Parliament
+
+6th April 2010
+
+Coming into force
+
+1st October 2010
+
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 60(5) and (6), 75(7) and (8) and 93(6) and (7) of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00001]
+
+## 1. Citation, commencement, application and supplementary provision[^key-1ad2d45bb0af40d44cd2ceac60baa471]
+
+(1) This Order may be cited as The Ecclesiastical Exemption (Listed Buildings and Conservation Areas) (England) Order 2010 and shall come into force on 1st October 2010.
+
+(2) This Order applies to buildings situated in England only.
+
+(3) Nothing in this Order shall operate to require listed building consent or conservation area consent for works commenced or in respect of which a contract has been made before this Order comes into force.
+
+## 2. Revocation[^key-f0b2aa561689ae5a29c2788c7e53443a]
+
+The Ecclesiastical Exemption (Listed Buildings and Conservation Areas) Order 1994[^f00002] is revoked in respect of England only.
+
+## 3. Interpretation[^key-bd7271a1b7ec76d9aaf0e80f793b9e2a]
+
+(1) In this Order, unless the context otherwise requires—
+
+- “the Act” means the Planning (Listed Buildings and Conservation Areas) Act 1990;
+- “church building” means a building whose primary use is as a place of worship, and for the purposes of this Order—
+  - (a) any object or structure fixed to that building, and
+  - (b) any object or structure within the curtilage of that building which, although not fixed to that building forms part of the land
+
+  shall be treated as part of the church building;[^f00003]
+- “the ecclesiastical exemption” means the exemption of buildings from the provisions of sections 3, 4, 7 to 9, 47, 54, 59 and 74 of the Act by virtue of sections 60(1) and 75(1)(b) of the Act;
+- “the Measure” means the Care of Cathedrals Measure 1990[^f00004];
+- “the Methodist Church” means the Methodist Church as defined in section 2(1) of the Methodist Church Act 1976[^f00005];
+- “monument” includes a tomb, gravestone or other memorial and any kerb or setting forming part thereof;
+- “the red line” means the red line shown on the plan relating to that cathedral church entitled “Ecclesiastical Exemption (Listed Buildings and Conservation Areas) Order 1994”, signed by an Assistant Secretary in the Department of National Heritage, dated 21st June 1994 and deposited with the local planning authority.
+
+(2) A reference to a “building” in article 7 and article 8 includes a reference to —
+
+- (a) any object or structure fixed to that building, and
+- (b) any object or structure within the curtilage of that building which, although not fixed to that building forms part of the land.
+
+(3) This Order only applies to a building which is an ecclesiastical building which is for the time being used for ecclesiastical purposes.[^f00006]
+
+## 4. Exclusion or restriction of ecclesiastical exemption[^key-476e46268db9029c66ab5dae439662e9]
+
+The ecclesiastical exemption is excluded in respect of all buildings other than those falling within article 5, 6, 7 or 8.
+
+## 5. Buildings within the faculty jurisdiction[^key-91243696d60586eb74d331cf3c625e23]
+
+The ecclesiastical exemption is retained for church buildings within the faculty jurisdiction of the Church of England.
+
+## 6. Buildings within the Care of Cathedrals Measure 1990[^key-b01fafe086a153e9e870816ae780701a]
+
+The ecclesiastical exemption is retained for the following buildings subject to the Measure—
+
+- (a) any building within the precinct of a cathedral church for the purposes of the Measure and enclosed within the red line;
+- (b) any church building within the precinct of a cathedral church for the purposes of the Measure and situated outside the red line;
+- (c) any monument —
+  - (i) within the precinct of a cathedral church for the purposes of the Measure and situated outside the red line; and
+  - (ii) situated in a churchyard, graveyard or other land which is or has been used for the purposes of burial.
+
+## 7. Other ecclesiastical buildings[^key-fc72ddfa6ad79b5aca386de930b523b8]
+
+(1) The ecclesiastical exemption is retained for buildings in the following categories, but is restricted to the extent set out in paragraph (2)—
+
+- (a) church buildings—
+  - (i) held in trust by the diocesan trustees of a diocese of the Roman Catholic Church; or
+  - (ii) used for worship according to the rites, doctrinal standards, principles or usages of the Roman Catholic Church;
+- (b) church buildings owned by or held in trust for or for the purposes of the Methodist Church or any connexional or local organisation of the Methodist Church;
+- (c) church buildings held in trust for a church in membership with the Baptist Union of Great Britain or the Baptist Union of Wales (whether alone or jointly with another person) by a trust corporation referred to in Schedule 1;
+- (d) church buildings owned by or held in trust for the purposes of the United Reformed Church which are situated within one of the Provinces set out in Schedule 2 and held on the trusts set out in Part I of Schedule 2 to the United Reformed Church Act 1972[^f00007] or Part I of Schedule 2 to the United Reformed Church Act 1981[^f00008];
+- (e) church buildings on any premises forming part of one of the educational institutions referred to in Schedule 3.
+
+(2) The exemption under this article from the provisions of sections 7 to 9, 59 and 74 of the Act (works to listed buildings and unlisted buildings in conservation areas) is restricted—
+
+- (a) to works carried out by or on behalf of a church or body, or constituent part of a church or body referred to in those paragraphs; or
+- (b) where the building is on any premises forming part of a university, college, school, hospital or public or charitable institution, to works carried out on behalf of the governing body or the trustees of that institution.
+
+## 8. Special cases[^key-a8abb78382177e19afb3eed5a3021d30]
+
+(1) The ecclesiastical exemption is retained for buildings to which this article applies which do not fall within article 5, 6 or 7.
+
+(2) This article applies to—
+
+- (a) buildings within the jurisdiction of the Fabric Advisory Committee of St George’s Chapel, Windsor Castle;
+- (b) buildings within the jurisdiction of the Fabric Commission of Westminster Abbey;
+- (c) buildings within the jurisdiction of the Fabric Advisory Committee of Christ Church Cathedral, Oxford; and
+- (d) buildings used for worship according to the rites, doctrinal standards, principles or usages of the Church of Scotland.
+
+Margaret Hodge
+
+Minister of State
+
+Department for Culture, Media and Sport
+
+31st March 2010
+
+## SCHEDULE 1 — TRUST CORPORATIONS[^key-8c495a70dbb1cda57559b6c8a1f1e02c]
+
+Article 7(1)(c)
+
+[^key-8c495a70dbb1cda57559b6c8a1f1e02c]
+
+- The Baptist Union Corporation Limited
+- The Baptist Union Corporation of Wales
+- The East Midland Baptist Trust Company Limited
+- The Heart of England Baptist Association
+- The London Baptist Property Board Limited
+- The North Western Baptist Association
+- The South West Baptist Trust Corporation
+- The West of England Baptist Trust Company (East) Limited
+- The West of England Baptist Trust Company (West) Limited
+- The Yorkshire Baptist Association (Incorporated)
+
+## SCHEDULE 2 — PROVINCES OF THE UNITED REFORMED CHURCH[^key-0f02a202582cbdcee71f116d39ccca3f]
+
+Article 7(1)(d)
+
+[^key-0f02a202582cbdcee71f116d39ccca3f]
+
+- Northern[^key-cac2d768b0ee03af7681a8fb862e478c]
+- North Western
+- Mersey
+- Yorkshire
+- East Midlands
+- West Midlands
+- Eastern
+- South Western
+- Wessex
+- Thames North
+- Southern
+
+## SCHEDULE 3 — EDUCATIONAL INSTITUTIONS (UNITED REFORMED CHURCH)[^key-26618527746a16906daa009173431458]
+
+Article 7(1)(e)
+
+[^key-26618527746a16906daa009173431458]
+
+- Eltham College, London, SE9 4QF
+- Mansfield College, Oxford, OX1 3TF
+- The Mill Hill School Foundation, Mill Hill, London
+- The Silcoates School Foundation, Wakefield, WF2 0PD
+- Westminster College, Cambridge, CB3 0AA
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order is made under the Planning (Listed Building and Conservation Areas) Act 1990 (“the Act”) and revokes the Ecclesiastical Exemption (Listed Buildings and Conservation Areas) Order 1994 ([SI 1994/1771](https://www.legislation.gov.uk/uksi/1994/1771)) in respect of buildings situated in England.
+
+Section 60(1) and (2) of the Act provides that ecclesiastical buildings which are for the time being used for ecclesiastical purposes are not subject to sections 3, 4, 7 to 9, 47, 54, 59 and 74 of the Act. These relate to listed building control, including building preservation notices, restrictions on works of demolition, alteration or extension, compulsory acquisition of buildings in need of repair, urgent preservation works and offences in relation to intentional damage. Section 75 of the Act provides that ecclesiastical buildings which are for the time being used for ecclesiastical purposes are not subject to section 74 of the Act which relates to the control of demolition of building in a conservation area. These exemptions are commonly collectively referred to as the ecclesiastical exemption. These provisions are subject to section 60(3) of the Act, which provides that the ecclesiastical exemption does not apply to a building which is used or available for use by a minister of religion wholly or mainly as a residence from which to perform the duties of his office.
+
+Section 60(5) of the Act enables the Secretary of State to make an order restricting or excluding the ecclesiastical exemption.
+
+Article 4 excludes the ecclesiastical exemption in respect of all buildings other than those falling within articles 5, 6, 7 or 8.
+
+Article 5 retains the exemption for church buildings within the faculty jurisdiction of the Church of England.
+
+Article 6 retains the exemption for buildings subject to the Care of Cathedrals Measure (“the Measure”) subject to the extent provisions set out in that article. The exemption is retained for (i) ecclesiastical buildings which are for the time being used for ecclesiastical purposes which are situated within the red line; (ii) church buildings situated outside the red line and (iii) monuments situated outside the red line and in a place used for burial purposes. The areas within the red line on the plans, referred to in article 6(2), are all within the precinct of an English Cathedral church, which was designated by the Assistant Secretary in the Department of National Heritage on 21<sup>st</sup> June 1994 after consultation with the Cathedrals Fabric Commission for England. The relevant plan may be inspected during normal office hours at the offices of the local planning authority for the Cathedral church in question. A complete set of plans may also be inspected at the Department for Culture, Media and Sport 2-4 Cockspur Street, London, SW1Y 5DH and the Cathedrals Fabric Commission for England, Cathedral and Church Buildings Division, Church House, Great Smith Street, London,SW1P 3AZ.
+
+Article 7 retains the exemption for church buildings of the Roman Catholic Church, the Methodist Church, the Baptist Union of Great Britain and the United Reformed Church, subject to the restrictions set out in that article.
+
+Article 8 provides that additional categories of ecclesiastical buildings which do not fall within articles 5, 6 or 7 also retain ecclesiastical exemption.
+
+The meaning of “building” in the Order has the same meaning as “building” in section 91(2) of the Planning (Listed Buildings and Conservation Areas) Act 1990, which is incorporated from the Town and Country Planning Act [1990 (c.8)](https://www.legislation.gov.uk/ukpga/1990/8); and a “church building” is defined in article 3(1) of this Order as a building whose primary use is a place of worship. For the purposes of this Order a reference to a “building” or a “church building” includes a reference to (a) any object or structure fixed to that building, and (b) any object or structure within the curtilage of that building which, although not fixed to that building, forms part of the land.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9). Functions of the Secretary of State under the 1990 Act (except the Treasury Functions under section s.83(8)) so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by virtue of article 2 of the Transfer of Functions Order 1999 ([SI 1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
+
+[^key-1ad2d45bb0af40d44cd2ceac60baa471]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/1176/article/1) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+
+[^key-f0b2aa561689ae5a29c2788c7e53443a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/1176/article/2) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+
+[^f00002]: Footnote: [S.I. 1994/1771](https://www.legislation.gov.uk/uksi/1994/1771).
+
+[^key-bd7271a1b7ec76d9aaf0e80f793b9e2a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/1176/article/3) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+
+[^f00003]: Footnote: See the definition of “building” in section 91(2) of the Act which is incorporated from the Town and Country Planning Act [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8).
+
+[^f00004]: Footnote: [1990 No. 2](https://www.legislation.gov.uk/ukcm/1990/2).
+
+[^f00005]: Footnote: [1976 c. xxx](https://www.legislation.gov.uk/ukla/1976/30).
+
+[^f00006]: Footnote: Section 60 of the Act provides the ecclesiastical exemption for an ecclesiastical building which is for the time being used for ecclesiastical purposes.
+
+[^key-476e46268db9029c66ab5dae439662e9]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/1176/article/4) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+
+[^key-91243696d60586eb74d331cf3c625e23]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/1176/article/5) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+
+[^key-b01fafe086a153e9e870816ae780701a]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/1176/article/6) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+
+[^key-fc72ddfa6ad79b5aca386de930b523b8]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/1176/article/7) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+
+[^f00007]: Footnote: [1972 c.18](https://www.legislation.gov.uk/ukpga/1972/18).
+
+[^f00008]: Footnote: [1981 c.14](https://www.legislation.gov.uk/ukpga/1981/14).
+
+[^key-a8abb78382177e19afb3eed5a3021d30]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2010/1176/article/8) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+
+[^key-8c495a70dbb1cda57559b6c8a1f1e02c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1176/schedule/1) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+
+[^key-0f02a202582cbdcee71f116d39ccca3f]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1176/schedule/2) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)
+
+[^key-cac2d768b0ee03af7681a8fb862e478c]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1176/schedule/2) inserted (1.10.2010) by [The Ecclesiastical Exemption (Listed Buildings and Conservation Areas) (England) (Amendment) Order 2010 (S.I. 2010/1806)](https://www.legislation.gov.uk/uksi/2010/1806), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1806/article/1), [2](https://www.legislation.gov.uk/uksi/2010/1806/article/2)
+
+[^key-26618527746a16906daa009173431458]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2010/1176/schedule/3) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1176/article/1/1)

@@ -1,0 +1,40 @@
+---
+title: Co-operative and Community Benefit Societies Act 2014, section 36
+act: Co-operative and Community Benefit Societies Act 2014
+section: '36'
+status: revised-with-pending-changes
+text_date: '2023-08-29'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2014/14/section/36
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Co-operative and Community Benefit Societies Act 2014, section 36
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2023-08-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/14
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 36. Payments in respect of persons lacking capacity
+
+*Extent: E+W+S*
+
+(1) This section applies if—
+
+- (a) a registered society's committee is satisfied (after considering medical evidence) that a member is incapable of managing the member's own affairs by reason of a mental disorder or mental disability, and
+- (b) the committee is satisfied that no person has been duly appointed to administer the member's property on behalf of the member.
+
+(2) The society may (if it is proved to the committee's satisfaction that it is just and expedient so to do) pay the amount of any shares, loans, and deposits belonging to the member to a person whom the committee judges proper to receive it on behalf of the member.
+
+(3) Receipt by that person is a valid discharge to the society for the sum paid.
+
+(4) Subsections (1) to (3) do not apply where—
+
+- (a) the member lacks capacity (within the meaning of the Mental Capacity Act 2005) for the purposes of this Act,
+- (b) there is a donee of an enduring power of attorney or lasting power of attorney (within the meaning of that Act) or a deputy appointed for the member by the Court of Protection, and
+- (c) the donee or deputy has power in relation to the member for the purposes of this Act.
+
+(5) In this section references to a member include a person claiming through a member.
+
+(6) A payment made under this section to a person appearing to the committee at the time of the payment to be entitled under this section is valid and effectual against any demand made upon the committee or society by any other person.

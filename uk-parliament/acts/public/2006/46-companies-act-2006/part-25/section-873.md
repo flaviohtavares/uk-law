@@ -1,0 +1,36 @@
+---
+title: Companies Act 2006, section 873
+act: Companies Act 2006
+section: '873'
+status: repealed
+text_date: '2026-07-16'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2006/46/section/873
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Companies Act 2006, section 873
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 873. Rectification of register of charges[^c20602381]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force (ended 2013-04-06).**
+
+(1) Subsection (2) applies if the court is satisfied—
+
+- (a) that the failure to register a charge before the end of the period allowed for registration, or the omission or mis-statement of any particular with respect to any such charge or in a memorandum of satisfaction—
+  - (i) was accidental or due to inadvertence or to some other sufficient cause, or
+  - (ii) is not of a nature to prejudice the position of creditors or shareholders of the company, or
+- (b) that on other grounds it is just and equitable to grant relief.
+
+(2) The court may, on the application of the company or a person interested, and on such terms and conditions as seem to the court just and expedient, order that the period allowed for registration shall be extended or, as the case may be, that the omission or mis-statement shall be rectified.
+
+## Annotations
+
+[^c20602381]: Modification: Ss. 869-873 applied (with modifications) (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [regs. 2](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2), [36](https://www.legislation.gov.uk/uksi/2009/1804/regulation/36) (with [Sch. 1 paras. 20](https://www.legislation.gov.uk/uksi/2009/1804/schedule/1/paragraph/20), [21](https://www.legislation.gov.uk/uksi/2009/1804/schedule/1/paragraph/21), [34](https://www.legislation.gov.uk/uksi/2009/1804/schedule/1/paragraph/34), [35](https://www.legislation.gov.uk/uksi/2009/1804/schedule/1/paragraph/35))

@@ -1,0 +1,64 @@
+---
+title: Town and Country Planning Act 1990, section 61QD
+act: Town and Country Planning Act 1990
+section: 61QD
+status: revised-with-pending-changes
+text_date: '2026-10-31'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1990/8/section/61QD
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Town and Country Planning Act 1990, section 61QD
+
+> **Warning: changes not yet applied to this text (816).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/8
+>
+> Extent: England, Wales.
+
+## 61QD. Process for making street vote development orders[^key-514558ce6e40c22f8b62e165d308af90]
+
+*Extent: E+W*
+
+(1) The Secretary of State must make regulations (“**SVDO regulations**”) which make provision about the preparation and making of a street vote development order.
+
+(2) SVDO regulations must, in particular, make provision—
+
+- (a) for the appointment by the Secretary of State of a person to—
+  - (i) handle proposals made under section 61QA(1) (“street vote proposals”) or specified aspects of those proposals,
+  - (ii) carry out the independent examination of such proposals, and
+  - (iii) to make street vote development orders on the Secretary of State’s behalf,
+
+  (and for the above purposes the same or different persons may be appointed);
+- (b) as to the circumstances in which a street vote development order may be made and in particular must make provision requiring a referendum under section 61QE to be held before an order may be made.
+
+(3) SVDO regulations may, in particular, include provision as to—
+
+- (a) the functions of a qualifying group in relation to a street vote proposal and how those functions are to be discharged (including provision for a member of the group or another prescribed person to be responsible for discharging them);
+- (b) the form and content of a street vote proposal;
+- (c) the information and documents (if any) which must accompany a street vote proposal;
+- (d) the circumstances and the way in which a proposal may be withdrawn;
+- (e) the steps that must be taken, and the conditions that must be met, before a proposal falls to be considered by an appointed person;
+- (f) the circumstances in which an appointed person may or must decline to consider or reject a proposal;
+- (g) the steps that must be taken, and the conditions that must be met, before a proposal falls to be independently examined;
+- (h) the functions of the independent examination in relation to the proposal;
+- (i) the circumstances in which an appointed person may terminate the independent examination (including provision as to the procedure for doing so);
+- (j) the procedure to be followed at an examination (including provision regarding the procedure to be followed at any hearing or inquiry or provision designating the hearing or inquiry as a statutory inquiry for the purposes of section 9 of the Tribunals and Inquiries Act 1992);
+- (k) the power to summons witnesses at any inquiry (including by applying, with or without modifications, section 250(3) and (4) of the Local Government Act 1972);
+- (l) the award of costs in connection with an examination;
+- (m) the steps to be taken following the independent examination (including provision for prescribed modifications to be made to the draft street vote development order);
+- (n) the payment by a local planning authority of remuneration and expenses relating to the examination;
+- (o) the functions of local planning authorities, or other authorities, in connection with street vote development orders (including provision regulating the arrangements of authorities for the discharge of those functions);
+- (p) cases where there are two or more local planning authorities any of whose area falls within the area of the street area that the proposal relates to (including provision modifying functions of the local planning authorities under the regulations in such cases or provision applying, with or without modifications, any provision of Part 6 of the Local Government Act 1972 in cases where the provision would not otherwise apply);
+- (q) requirements about the giving of notice and publicity;
+- (r) the information and documents that are to be made available to the public;
+- (s) consultation with and participation by the public or prescribed persons;
+- (t) the making and consideration of representations;
+- (u) the determination of the time by or at which anything must be done in connection with street vote development orders;
+- (v) the provision by any person of prescribed information or documents or prescribed descriptions of information or documents in connection with a street vote development order;
+- (w) the making of reasonable charges for anything done in connection with street vote development orders;
+- (x) when a court may entertain proceedings for questioning prescribed decisions to act or any other prescribed matter.
+
+## Annotations
+
+[^key-514558ce6e40c22f8b62e165d308af90]: Textual amendment: [Ss. 61QA-61QM](https://www.legislation.gov.uk/ukpga/1990/8/section/61QA) and cross-heading inserted (31.1.2024 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 106(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/106/2), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/d)

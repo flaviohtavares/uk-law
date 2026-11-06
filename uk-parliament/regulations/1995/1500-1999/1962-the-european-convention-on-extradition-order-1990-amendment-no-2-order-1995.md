@@ -1,0 +1,106 @@
+---
+title: The European Convention on Extradition Order 1990 (Amendment) (No. 2) Order 1995
+id: uksi/1995/1962
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1995-07-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1995/1962
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1995/1962/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The European Convention on Extradition Order 1990 (Amendment) (No. 2) Order 1995
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1995 No. 1962
+
+EXTRADITION
+
+The European Convention on Extradition Order 1990 (Amendment) (No. 2) Order 1995
+
+Made
+
+26th July 1995
+
+Laid before Parliament
+
+7th August 1995
+
+Coming into force
+
+1st September 1995
+
+At the Court at Buckingham Palace, the 26th day of July 1995
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Whereas the European Convention on Extradition (“the Convention”)[^f00001] opened for signature at Paris on 13th December 1957 entered into force for the United Kingdom on 14th May 1991:
+
+And whereas the Convention entered into force in respect of Croatia on 25th April 1995 and Croatia made the declaration set out in article 2 of this Order:
+
+And whereas the Convention entered into force in respect of Slovenia on 17th May 1995:
+
+Now, therefore, Her Majesty, in exercise of the powers conferred on Her by sections 2 and 21 of the Extradition Act 1870[^f00002] and by sections 4(1) and 37(3) of the Extradition Act 1989[^f00003], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
+
+**1.** This Order may be cited as the European Convention on Extradition Order 1990 (Amendment) (No. 2) Order 1995 and shall come into force on 1st September 1995.
+
+**2.** The European Convention on Extradition Order 1990[^f00004] (“the 1990 Order”) shall be amended as follows:
+
+- (a) In article 5(2), at the end, there shall be added the words, “to the extent specified in that Schedule.”.
+- (b) In Part 1 of Schedule 2 (which names States parties to the Convention) the entry for “Czech and Slovak Federal Republic” shall be deleted and, at the respective appropriate points in the alphabetical order, the following entries shall be inserted—
+  - (i) “Croatia”;
+  - (ii) “Czech Republic”;
+  - (iii) “Slovakia”; and
+  - (iv) “Slovenia”.
+- (c) In Schedule 3 (which sets out the reservations and declarations made by States parties to the Convention), the following Part shall be inserted after Part 1A:
+
+  > **PART 1B — CROATIA**
+  >
+  > **Declaration**
+  >
+  > Article 9 of the Constitution of the Republic of Croatia prohibits the extradition of Croatian citizens.
+  >
+  > Consequently, the Republic of Croatia will not allow any extradition or transit (Article 21, paragraph 2, of the Convention) of its own citizens.
+  >
+  > The “nationality” of a person being requested for extradition will be considered in terms of the time when the criminal act was committed and in compliance with the regulations of the Republic of Croatia regarding citizenship (Article 6, paragraph 1(b), of the Convention).
+  >
+  > The Republic of Croatia will approve the transit of a person only under the conditions applying to extradition (Article 21, paragraph 5, of the Convention).
+
+  .
+- (d) In Schedule 5, at the end there shall be added the following Part, namely:
+
+  > **PART 4 — ORDER REVOKED WITH EFFECT FROM 1ST SEPTEMBER 1995**
+  >
+  > Order in Council directing that the Extradition Acts shall apply in the case of Servia (S.R. & O. 1901 No. 586), so far as that Order relates to extradition between Croatia or Slovenia and the United Kingdom, the Channel Islands, the Isle of Man or any colony.
+
+  .
+
+**3.** The reservation contained in Part 2A of Schedule 3 to the 1990 Order has effect in relation both to the Czech Republic and to Slovakia as it formerly applied to the Czech and Slovak Federal Republic.
+
+N. H. Nicholls
+
+Clerk of the Privy Council
+
+(This note is not part of the Order)
+
+This Order, which comes into force on 1st September 1995, amends the European Convention on Extradition Order 1990 by adding Croatia and Slovenia to the States parties to the European Convention on Extradition listed in Schedule 2 to the 1990 Order. It also adds the declaration made by Croatia to the reservations and declarations set out in Schedule 3 to the 1990 Order and has the effect of revoking the Order in Council embodying the extradition treaty between the United Kingdom and Servia to the extent that it applies to extradition between Croatia and Slovenia and the United Kingdom, the Channel Islands and the Isle of Man. The entry for the Czech Republic and Slovak Federal Republic has been deleted and replaced by entries for the Czech Republic and Slovakia. The reservation made by the Czech and Slovak Federal Republic in relation to transit now applies in respect of both the Czech Republic and Slovakia.
+
+## Annotations
+
+[^f00001]: Footnote: Cm. 1762.
+
+[^f00002]: Footnote: [1870 c. 52](https://www.legislation.gov.uk/ukpga/1870/52).
+
+[^f00003]: Footnote: [1989 c. 33](https://www.legislation.gov.uk/ukpga/1989/33).
+
+[^f00004]: Footnote: [S.I. 1990/1507](https://www.legislation.gov.uk/uksi/1990/1507) as amended by [S.I. 1992/2663](https://www.legislation.gov.uk/uksi/1992/2663), [1993/2667](https://www.legislation.gov.uk/uksi/1993/2667), [1994/2796](https://www.legislation.gov.uk/uksi/1994/2796), [1994/3203](https://www.legislation.gov.uk/uksi/1994/3203), [1995/1624](https://www.legislation.gov.uk/uksi/1995/1624).

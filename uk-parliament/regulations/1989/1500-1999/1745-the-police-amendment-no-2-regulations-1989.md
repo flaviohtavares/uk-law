@@ -1,0 +1,142 @@
+---
+title: The Police (Amendment) (No. 2) Regulations 1989
+id: uksi/1989/1745
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1989-09-22'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1989/1745
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1989/1745/pdfs/uksi_19891745_en.pdf
+- http://www.legislation.gov.uk/uksi/1989/1745/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police (Amendment) (No. 2) Regulations 1989
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1989 No. 1745
+
+POLICE
+
+The Police (Amendment) (No. 2) Regulations 1989
+
+Made
+
+22nd September 1989
+
+Laid before Parliament
+
+2nd October 1989
+
+Coming into force
+
+1st November 1989
+
+In exercise of the powers conferred upon me by section 33 of the Police Act 1964[^f00001], and after taking into consideration the recommendations made by the Police Negotiating Board for the United Kingdom and furnishing the said Board with a draft of the Regulations in accordance with section 2(1) of the Police Negotiating Board Act 1980[^f00002], I hereby make the following Regulations:
+
+**1.** These Regulations may be cited as the Police (Amendment) (No. 2) Regulations 1989.
+
+**2.** These Regulations shall come into force on 1st November 1989 and shall have effect for all the purposes of regulation 3 as from 1st September 1989.
+
+**3.** (1) The Police Regulations 1987[^f00003] shall be amended in accordance with the following provisions of this regulation.
+
+(2) In regulation 28 (overtime)–
+
+- (a) in paragraph (1) there shall be inserted after the words “two tours of duty” the words “or which forms part of a tour of duty which he is required to begin earlier than the rostered time without due notice and on a day when he has already completed his normal daily period of duty”;
+- (b) in paragraph (7)–
+  - (i) there shall be inserted at the beginning of sub-paragraph (b) the words “subject to sub-paragraph (d),”,
+  - (ii) the word “and” at the end of sub-paragraph (b) shall be omitted, and
+  - (iii) there shall be inserted at the end of sub-paragraph (c) the following provision–
+
+    > ; and
+    >
+    > - (d) where the time at which a member is required to begin a rostered tour of duty is brought forward without due notice and so that he is required to begin that tour on a day on which he has already completed his normal daily period of duty, the time for which he is on duty before the rostered commencement time–
+    >   - (i) shall be reckonable as overtime, and
+    >   - (ii) shall be taken into account as part of that tour of duty.
+
+    ; and
+- (c) in paragraph (8) there shall be inserted after the definition of “a day’s pay” the following provision–
+
+  > - “due notice” means notice given at least 8 hours before the revised starting time of the rostered tour of duty in question;
+
+  .
+
+(3) In regulation 57 (detective duty and detective expenses allowances)–
+
+- (a) there shall be inserted after paragraph (2) the following paragraph–
+
+  > (2A) Such a member of the rank of superintendent shall be paid in addition a detective expenses allowance at the rate of £5 a week; and shall not be eligible for the reimbursement of expenses incurred in the execution of his duty in respect of any individual item of expenditure of £1.25p or less.
+
+  ; and
+- (b) in paragraph (3) there shall be substituted for the words “£1 a week” the words “£3 a week; and shall not be eligible for the reimbursement of expenses incurred in the execution of his duty in respect of any individual item of expenditure of 75 pence or less”.
+
+(4) In Schedule 5 (scales of pay)–
+
+- (a) for tables A and B there shall be substituted respectively the tables set out in the Appendix to these Regulations;
+- (b) in paragraph 2(2) the words “on or before 31st August 1988” shall be omitted; and
+- (c) sub-paragraphs (2A) and (2B) of paragraph 2 shall be omitted.
+
+(5) In paragraph 1 of Schedule 11 (dog handler’s allowance) for the words “£663” in sub-paragraph (a) there shall be substituted the words “£723” and for the words “£903” in sub-paragraph (b) there shall be substituted the words “£987”.
+
+Douglas Hurd
+
+One of Her Majesty’s Principal Secretaries of State
+
+Home Office
+
+22nd September 1989
+
+## APPENDIX — TABLES SUBSTITUTED FOR TABLES IN SCHEDULE 5 TO THE POLICE REGULATIONS 1987 WITH EFFECT FROM 1ST SEPTEMBER 1989.
+
+**Table A**
+
+<table>
+<thead>
+<tr><th><em>Rank</em></th><th><em>Service in Rank</em></th><th colspan="002"><em>Annual pay</em></th></tr>
+<tr><th><em>London</em></th><th><em>Provinces</em></th></tr>
+</thead>
+<tbody>
+<tr><td></td><td></td><td>£</td><td>£</td></tr>
+<tr><td>Chief Superintendent</td><td>Less than 1 yearAfter 1 yearAfter 2 yearsAfter 3 years</td><td>31,13131,57532,28333,054</td><td>31,13131,57532,28333,054</td></tr>
+<tr><td>Superintendent</td><td>Less than 1 yearAfter 1 yearAfter 2 yearsAfter 3 years</td><td>28,71329,27729,83530,405</td><td>27,99928,71329,42430,405</td></tr>
+<tr><td>Chief Inspector</td><td>Less than 1 yearAfter 1 yearAfter 2 yearsAfter 3 yearsAfter 4 years</td><td>21,57022,10122,66823,27423,877</td><td>20,58321,15921,73522,31422,896</td></tr>
+<tr><td>Inspector</td><td>Less than 1 yearAfter 1 yearAfter 2 yearsAfter 3 yearsAfter 4 years</td><td>19,10419,63520,33120,95521,570</td><td>18,12918,69619,42820,00420,583</td></tr>
+<tr><td>Sergeant</td><td>Less than 1 yearAfter 1 yearAfter 2 yearsAfter 3 yearsAfter 4 years</td><td>15,80416,52117,10317,67018,129</td><td>15,80416,52117,10317,67018,129</td></tr>
+</tbody>
+</table>
+
+**Table BAnnual pay of constables**
+
+| *Reckonable service* | *Annual pay* |
+| --- | --- |
+|  | £ |
+| Before completing 1 year of service | 9,900 |
+| After 1 year of service | 10,587 |
+| After 2 years of service | 12,462 |
+| After 3 years of service | 12,756 |
+| After 4 years of service | 13,179 |
+| After 5 years of service | 13,632 |
+| After 6 years of service | 14,067 |
+| After 7 years of service | 14,502 |
+| After 8 years of service | 14,931 |
+| After 12 years of service | 15,804 |
+| After 15 years of service | 16,521 |
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Police Regulations 1987, with effect from 1st September 1989 (retrospection is authorised by section 33(4) of the Police Act 1964). Regulation 3(2) provides for the payment of overtime in specified circumstances where the beginning of an officer’s tour of duty is brought forward. Regulation 3(3) makes provision for a detective expenses allowance for officers of the rank of superintendent and precludes the separate reimbursement of small items of expenditure to all officers in receipt of such an allowance. Regulation 3(4) increases pay and regulation 3(5) increases the dog handler’s allowance.
+
+## Annotations
+
+[^f00001]: Footnote: [1964 c. 48](https://www.legislation.gov.uk/ukpga/1964/48).
+
+[^f00002]: Footnote: [1980 c. 10](https://www.legislation.gov.uk/ukpga/1980/10).
+
+[^f00003]: Footnote: S.I. [1987/851](https://www.legislation.gov.uk/uksi/1987/851); the relevant amending instruments are S.I. [1987/1753](https://www.legislation.gov.uk/uksi/1987/1753), [1988/1821](https://www.legislation.gov.uk/uksi/1988/1821), [2162](https://www.legislation.gov.uk/uksi/1988/2162).

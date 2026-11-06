@@ -1,0 +1,88 @@
+---
+title: The Consular Fees (Amendment) Order 2019
+id: uksi/2019/182
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2019-02-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2019/182
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2019/182/pdfs/uksiem_20190182_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/182/pdfs/uksi_20190182_en.pdf
+- http://www.legislation.gov.uk/uksi/2019/182/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Consular Fees (Amendment) Order 2019
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2019 No. 182
+
+Diplomatic Service
+
+The Consular Fees (Amendment) Order 2019
+
+Made
+
+13th February 2019
+
+Coming into force
+
+16th February 2019
+
+At the Court at Buckingham Palace, the 13th day of February 2019
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Her Majesty, in exercise of the powers conferred on Her by section 1(1) and (4A) of the Consular Fees Act 1980[^f00001] is pleased, by and with the advice of Her Privy Council, to order as follows:
+
+## 1. Citation and commencement
+
+This order may be cited as the Consular Fees (Amendment) Order 2019 and comes into force on 16th February 2019.
+
+## 2. Amendment of the Consular Fees Order 2012
+
+(1) The table in Part 1 of Schedule 1 to the Consular Fees Order 2012[^f00002] (table of general consular fees) is amended as follows.
+
+(2) In row 19, in column 2, after “Emergency Travel Document” insert “(in addition to direct costs, if any)”.
+
+(3) In row 20, in column 2, after “Emergency Travel Document” insert “(in addition to direct costs, if any)”.
+
+(4) At the end of the table insert —
+
+> <table>
+> <tbody>
+> <tr><th colspan="3">IX. MULTILINGUAL STANDARD FORMS</th></tr>
+> <tr><td>23.</td><td>Issuing a multilingual standard form</td><td>11.00</td></tr>
+> </tbody>
+> </table>
+
+Richard Tilbrook
+
+Clerk of the Privy Council
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Table of General Consular Fees in the Consular Fees Order 2012 ([SI 2012/798](https://www.legislation.gov.uk/uksi/2012/798) as amended by [SI 2016/373](https://www.legislation.gov.uk/uksi/2016/373)).
+
+It introduces a new fee for the issue of multilingual standard forms. These forms are translation aids which can be attached to various public documents. This implements Article 11 of Regulation (EU) 2016/1191 of the European Parliament and of the Council of 6 July 2016 on promoting the free movement of citizens by simplifying the requirements for presenting certain public documents in the European Union and amending Regulation (EU) No 1024/2012 (“the Simplification Regulation”). Article 11 of the Simplification Regulation requires Member States to ensure that the fee for obtaining a multilingual standard form does not exceed the production costs of the form itself, or of the public document to which it is attached, whichever is the lower.
+
+The Order also makes amendments to clarify the position in relation to the charging of direct costs, if any, incurred in the administration and provision of Emergency Travel Documents or Emergency Passports, such as the cost of delivering documents to an agreed address.
+
+An impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c.23](https://www.legislation.gov.uk/ukpga/1980/23). Subsection (4A) was inserted by section 36 of the Identity Cards Act [2006 (c.15)](https://www.legislation.gov.uk/ukpga/2006/15) and continues to have effect by virtue of section 1(3) of the Identity Documents Act [2010 (c.40)](https://www.legislation.gov.uk/ukpga/2010/40) subject to the consequential amendments made by paragraph 2 of the Schedule to that Act.
+
+[^f00002]: Footnote: [S.I. 2012/798](https://www.legislation.gov.uk/uksi/2012/798). The Table of General Consular Fees was substituted by [S.I. 2016/373](https://www.legislation.gov.uk/uksi/2016/373).

@@ -1,0 +1,56 @@
+---
+title: Criminal Justice (Scotland) Act 1995, section 2
+act: Criminal Justice (Scotland) Act 1995
+section: '2'
+status: repealed
+text_date: '1997-08-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ukpga/1995/20/section/2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice (Scotland) Act 1995, section 2
+
+> This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 2. Breach of bail conditions.
+
+*Extent: S*
+
+**No longer in force (ended 1996-04-01).**
+
+(1) Section 3 of the [^c1523946]Bail etc. (Scotland) Act 1980 (breach of bail conditions) shall be amended as follows.
+
+(2) In subsection (1), after the word “shall” there shall be inserted “ , subject to subsection (2A) below, ”.
+
+(3) In subsection (2)(a), for the words “£200” there shall be substituted “ level 3 on the standard scale ”.
+
+(4) After subsection (2) there shall be inserted the following subsections—
+
+> (2A) Where, and to the extent that, the failure referred to in subsection (1)(b) above consists in the accused having committed an offence while on bail (in this section referred to as “the subsequent offence”), he shall not be guilty of an offence under that subsection but, subject to subsection (2B) below, the court which sentences him for the subsequent offence shall, in determining the appropriate sentence or disposal for that offence, have regard to—
+>
+> - (a) the fact that the offence was committed by him while on bail and the number of bail orders to which he was subject when the offence was committed;
+> - (b) any previous conviction of the accused of an offence under subsection (1)(b) above; and
+> - (c) the extent to which the sentence or disposal in respect of any previous conviction of the accused differed, by virtue of this subsection, from that which the court would have imposed but for this subsection.
+>
+> (2B) The court shall not, under subsection (2A) above, have regard to the fact that the subsequent offence was committed while the accused was on bail unless that fact is libelled in the indictment or, as the case may be, specified in the complaint.
+>
+> (2C) Where the maximum penalty in respect of the subsequent offence is specified by or by virtue of any enactment, that maximum penalty shall, for the purposes of the court’s determination, by virtue of subsection (2A) above, of the appropriate sentence or disposal in respect of that offence, be increased—
+>
+> - (a) where it is a fine, by the amount for the time being equivalent to level 3 on the standard scale; and
+> - (b) where it is a period of imprisonment—
+>   - (i) as respects a conviction in the High Court or the sheriff court, by 6 months; and
+>   - (ii) as respects a conviction in the district court, by 60 days,
+>
+>   notwithstanding that the maximum penalty as so increased exceeds the penalty which it would otherwise be competent for the court to impose.
+>
+> (2D) Where the sentence or disposal in respect of the subsequent offence is, by virtue of subsection (2A) above, different from that which the court would have imposed but for that subsection, the court shall state the extent of and the reasons for that difference.
+
+.
+
+## Annotations
+
+[^c1523946]: Marginal citation: [1980 c. 4](https://www.legislation.gov.uk/ukpga/1980/4).

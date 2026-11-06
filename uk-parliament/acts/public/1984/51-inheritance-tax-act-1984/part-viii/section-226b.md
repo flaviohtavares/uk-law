@@ -1,0 +1,80 @@
+---
+title: Inheritance Tax Act 1984, section 226B
+act: Inheritance Tax Act 1984
+section: 226B
+status: revised-with-pending-changes
+text_date: '2026-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1984/51/section/226B
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Inheritance Tax Act 1984, section 226B
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/51
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 226B. Tax on notional pension property: direct payment by scheme administrator[^key-dc4449ca04fd809658250d6af029b41f]
+
+*Extent: E+W+S+N.I.*
+
+(1) A person (“the taxpayer”) may by notice (a “payment notice”) require the scheme administrator of a registered pension scheme to pay any tax for which the taxpayer is liable and which is attributable to the value of the notional pension property of a deceased member of the scheme.
+
+(2) The scheme administrator must pay the amount of tax specified in a payment notice before the end of the period of 35 days beginning with the day on which they receive the notice, unless the notice—
+
+- (a) is withdrawn by the taxpayer during that period (and before the amount is paid), or
+- (b) does not comply with the requirements of subsection (3), or ceases to comply with them during that period (and before the amount is paid).
+
+(3) The requirements are—
+
+- (a) that the payment notice specifies the amount of tax that it requires to be paid;
+- (b) that the amount specified is not less than £1,000;
+- (c) that the amount specified does not exceed the amount of tax for which the taxpayer is liable in respect of notional pension property of the deceased in relation to the scheme;
+- (d) that where the taxpayer is a beneficiary the amount specified does not exceed the difference between—
+  - (i) the amount of the benefits payable to the beneficiary under the scheme on the deceased’s death, and
+  - (ii) the amount that has already been paid on the deceased’s death in benefits to or for the benefit of the beneficiary under the scheme, or that has already been specified in a payment notice given by the beneficiary in relation to the deceased;
+- (e) that where the taxpayer is the deceased’s personal representatives the amount specified does not exceed the difference between—
+  - (i) the amount of the benefits payable under the scheme on the deceased’s death, and
+  - (ii) the amount that has already been paid on the deceased’s death in benefits under the scheme, or that has already been specified in a payment notice given by any person in relation to the deceased;
+- (f) that the payment notice complies with any requirements prescribed by the Commissioners for His Majesty's Revenue and Customs as to form and content.
+
+(4) The references in subsection (3)(e) to benefits do not include excluded benefits or exempt benefits.
+
+(5) The references in subsection (3)(d) and (e) to the amount of benefits payable under the scheme—
+
+- (a) include any amount that has been or will in future be payable, and
+- (b) in a case where the exact amount of benefits that will in future be payable cannot be known, are to be read as references to the amount that, having regard (in particular) to appropriate actuarial assumptions, can reasonably be expected to be paid.
+
+(6) Where the scheme administrator pays an amount of tax under this section, a consequential adjustment may be made, on a basis that is just and reasonable having regard to appropriate actuarial assumptions and to any tax previously paid—
+
+- (a) where the taxpayer is a beneficiary, to that beneficiary’s entitlement to benefits under the scheme on the deceased’s death;
+- (b) where the taxpayer is the deceased’s personal representatives, to any person’s entitlement to benefits under the scheme on the deceased’s death.
+
+(7) Any repayment under section 241 (overpayments) of tax paid by the scheme administrator under this section may, regardless of who the taxpayer is, be paid to—
+
+- (a) the deceased’s personal representatives, or
+- (b) any of the beneficiaries to whom an officer of Revenue and Customs considers the overpayment of tax to relate
+
+(but may not be paid to the scheme administrator).
+
+(8) The rules of a registered pension scheme are void so far as they purport to prohibit or restrict—
+
+- (a) the payment of tax by the scheme administrator as required under this section, or
+- (b) the making of a consequential adjustment under subsection (6) to a person’s entitlement to benefits under the scheme.
+
+(9) In this section—
+
+- “**beneficiary**”, in relation to a deceased member of a pension scheme, means a person who receives or has a right to receive benefits under the scheme on the member’s death;
+- “**tax**” includes interest on tax.
+
+(10) The Treasury may by regulations made by statutory instrument amend the figure for the time being mentioned in subsection (3)(b).
+
+(11) A statutory instrument containing regulations under subsection (10) is subject to annulment in pursuance of a resolution of the House of Commons.
+
+(12) For the consequences if the scheme administrator fails to comply with this section, see section 210(3)(b) (joint liability of scheme administrator).
+
+## Annotations
+
+[^key-dc4449ca04fd809658250d6af029b41f]: Textual amendment: [Ss. 226A](https://www.legislation.gov.uk/ukpga/1984/51/section/226A), [226B](https://www.legislation.gov.uk/ukpga/1984/51/section/226B) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 68](https://www.legislation.gov.uk/ukpga/2026/11/section/68), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

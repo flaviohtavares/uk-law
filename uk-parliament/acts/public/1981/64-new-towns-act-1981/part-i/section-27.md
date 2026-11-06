@@ -1,0 +1,37 @@
+---
+title: New Towns Act 1981, section 27
+act: New Towns Act 1981
+section: '27'
+status: revised-with-pending-changes
+text_date: '2026-06-17'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1981/64/section/27
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# New Towns Act 1981, section 27
+
+> **Warning: changes not yet applied to this text (37).** Text as at 2026-06-17. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/64
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 27. Orders under s. 26.
+
+*Extent: E+W*
+
+(1) Where the Secretary of State and the appropriate Minister propose to make an order under section 26(6) above, they shall prepare a draft of the order.
+
+(2) Before making an order under section 26(5) or (6), the Ministers proposing to make the order—
+
+- (a) shall afford to the statutory undertakers on whom notice was served under subsection (2) of that section an opportunity of objecting to the application for, or proposal to make, the order, and
+- (b) if any objection is made, shall consider the objection and afford to those statutory undertakers (and, in a case falling within subsection (5) of that section, to the development corporation or local highway authority on whom the counter-notice was served) an opportunity of appearing before, and being heard by, a person appointed by the Secretary of State and the appropriate Minister for the purpose,
+
+and may then, if they think fit, make the order in accordance with the application or in accordance with the draft order, as the case may be, either with or without modification.
+
+(3) Where an objection to an order under section 26 is duly made and is not withdrawn before the making of the order, the order shall be subject to special parliamentary procedure.
+
+(4) Subject to subsection (3) above, where an order is made under section 26—
+
+- (a) any right to which the order relates shall be extinguished at the end of the period specified in that behalf in the order, and
+- (b) if, at the end of the period so specified in relation to any apparatus, any requirement of the order as to the removal of the apparatus has not been complied with, the acquiring authority may remove the apparatus and dispose of it in any way the authority may think fit.

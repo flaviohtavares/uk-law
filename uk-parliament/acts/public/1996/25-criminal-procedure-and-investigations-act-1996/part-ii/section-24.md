@@ -1,0 +1,66 @@
+---
+title: Criminal Procedure and Investigations Act 1996, section 24
+act: Criminal Procedure and Investigations Act 1996
+section: '24'
+status: revised-with-pending-changes
+text_date: '2025-10-06'
+extent: E+W+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1996/25/section/24
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Procedure and Investigations Act 1996, section 24
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2025-10-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/25
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 24. Examples of disclosure provisions.
+
+*Extent: E+W+N.I.*
+
+(1) This section gives examples of the kinds of provision that may be included in the code by virtue of section 23(5).
+
+(2) The code may provide that if the person required to reveal material has possession of material which he believes is sensitive he must give a document which—
+
+- (a) indicates the nature of that material, and
+- (b) states that he so believes.
+
+(3) The code may provide that if the person required to reveal material has possession of material which is of a description prescribed under this subsection and which he does not believe is sensitive he must give a document which—
+
+- (a) indicates the nature of that material, and
+- (b) states that he does not so believe.
+
+(4) The code may provide that if—
+
+- (a) a document is given in pursuance of provision contained in the code by virtue of subsection (2), and
+- (b) a person identified in accordance with prescribed provisions asks for any of the material,
+
+the person giving the document must give a copy of the material asked for to the person asking for it or (depending on the circumstances) must allow him to inspect it.
+
+(5) The code may provide that if—
+
+- (a) a document is given in pursuance of provision contained in the code by virtue of subsection (3),
+- (b) all or any of the material is of a description prescribed under this subsection, and
+- (c) a person is identified in accordance with prescribed provisions as entitled to material of that description,
+
+the person giving the document must give a copy of the material of that description to the person so identified or (depending on the circumstances) must allow him to inspect it.
+
+(6) The code may provide that if—
+
+- (a) a document is given in pursuance of provision contained in the code by virtue of subsection (3),
+- (b) all or any of the material is not of a description prescribed under subsection (5), and
+- (c) a person identified in accordance with prescribed provisions asks for any of the material not of that description,
+
+the person giving the document must give a copy of the material asked for to the person asking for it or (depending on the circumstances) must allow him to inspect it.
+
+(7) The code may provide that if the person required to reveal material has possession of material which he believes is sensitive and of such a nature that provision contained in the code by virtue of subsection (2) should not apply with regard to it—
+
+- (a) that provision shall not apply with regard to the material,
+- (b) he must notify a person identified in accordance with prescribed provisions of the existence of the material, and
+- (c) he must allow the person so notified to inspect the material.
+
+(8) For the purposes of this section material is sensitive to the extent that its disclosure under Part I would be contrary to the public interest.
+
+(9) In this section “**prescribed**” means prescribed by the code.

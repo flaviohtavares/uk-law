@@ -1,0 +1,38 @@
+---
+title: Corporation Tax Act 2009, section 623
+act: Corporation Tax Act 2009
+section: '623'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2009/4/section/623
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Corporation Tax Act 2009, section 623
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/4
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 623. Index-linked gilt-edged securities with embedded contracts for differences
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies to a derivative contract of a company for an accounting period if each of conditions A to D is met.
+
+(2) Condition A is that the derivative contract is a relevant contract to which the company is treated as a party under section 585(2) (loan relationships with embedded derivatives) because of a creditor relationship of the company.
+
+(3) Condition B is that the derivative contract is treated as a contract for differences by section 585(3) (contract treated as option, future or contract for differences).
+
+(4) Condition C is that the creditor relationship is an index-linked gilt-edged security.
+
+(5) Condition D is that the credits and debits which fall to be brought into account for the accounting period for the purposes of Part 5 (loan relationships) in respect of the host contract are non-trading credits and non-trading debits.
+
+(6) The credits and debits which would fall to be brought into account in accordance with this Part in respect of the derivative contract for the accounting period apart from this section may not be so brought into account.
+
+(7) In this section—
+
+- “**the host contract**” means the loan relationship to which the company is treated as a party under section 415(2) (loan relationships with embedded derivatives) because of the creditor relationship mentioned in subsection (2), and
+- “**index-linked gilt-edged security**” has the same meaning as in Part 5 (see section 399(4)).

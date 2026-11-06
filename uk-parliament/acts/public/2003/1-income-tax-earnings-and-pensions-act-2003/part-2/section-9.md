@@ -1,0 +1,36 @@
+---
+title: Income Tax (Earnings and Pensions) Act 2003, section 9
+act: Income Tax (Earnings and Pensions) Act 2003
+section: '9'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/1/section/9
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Earnings and Pensions) Act 2003, section 9
+
+> **Warning: changes not yet applied to this text (46).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 9. Amount of employment income charged to tax
+
+*Extent: E+W+S+N.I.*
+
+(1) The amount of employment income which is charged to tax under this Part for a particular tax year is as follows.
+
+(2) In the case of general earnings, the amount charged is the net taxable earnings from an employment in the year.
+
+(3) That amount is calculated under section 11 by reference to any taxable earnings from the employment in the year (see section 10(2)).
+
+(4) In the case of specific employment income, the amount charged is the net taxable specific income from an employment for the year.
+
+(5) That amount is calculated under section 12 by reference to any taxable specific income from the employment for the year (see section 10(3)).
+
+(6) Accordingly, no amount of employment income is charged to tax under this Part for a particular tax year unless—
+
+- (a) in the case of general earnings, they are taxable earnings from an employment in that year, or
+- (b) in the case of specific employment income, it is taxable specific income from an employment for that year.

@@ -1,0 +1,34 @@
+---
+title: Vehicle Excise and Registration Act 1994, section 38
+act: Vehicle Excise and Registration Act 1994
+section: '38'
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/1994/22/section/38
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Vehicle Excise and Registration Act 1994, section 38
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/22
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 38. Additional liability for keeper of vehicle chargeable at higher rate.
+
+*Extent: E+W+S+N.I.*
+
+(1) Where the person convicted of an offence under section 37 is the person by whom the vehicle in respect of which the offence was committed was kept at the time at which it was committed, the court shall (in addition to any penalty which it may impose under that section) order him to pay the amount specified in subsection (2).
+
+(2) The amount referred to in subsection (1) is an amount equal to one-twelfth of the difference between—
+
+- (a) the rate of duty at which the licence in relation to which the offence was committed was taken out, and
+- (b) the relevant higher rate of duty (within the meaning of section 39) in relation to the vehicle,
+
+for each month, or part of a month, in the relevant period (within the meaning of section 40).
+
+(3) A vehicle is to be taken for the purposes of subsection (2) to have belonged throughout the relevant period to the description of vehicle to which it belonged for the purposes of vehicle excise duty at the date on which the offence was committed, except so far as it is proved to have fallen within some other description for the whole of any month or part of a month in that period.
+
+(4) Where a person is convicted of more than one offence under section 37 in respect of the same vehicle (whether or not in the same proceedings), the court shall (in calculating the amount payable under this section in respect of any of the offences) reduce the amount in relation to any period by any amount ordered to be paid under this section in relation to the period in respect of any other such offence.

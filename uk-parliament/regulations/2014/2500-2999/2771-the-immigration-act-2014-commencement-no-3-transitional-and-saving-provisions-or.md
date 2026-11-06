@@ -1,0 +1,340 @@
+---
+title: The Immigration Act 2014 (Commencement No. 3, Transitional and Saving Provisions) Order 2014
+id: uksi/2014/2771
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-10-15'
+text_date: '2015-04-06'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2014/2771
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2014/2771/pdfs/uksi_20142771_en.pdf
+- http://www.legislation.gov.uk/uksi/2014/2771/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Immigration Act 2014 (Commencement No. 3, Transitional and Saving Provisions) Order 2014
+
+> Text as at 2015-04-06.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2014 No. 2771 (C. 122)
+
+Immigration
+
+The Immigration Act 2014 (Commencement No. 3, Transitional and Saving Provisions) Order 2014
+
+Made
+
+15th October 2014
+
+The Secretary of State, in exercise of the powers conferred by sections 35(3), 73(1) and 75(3) of the Immigration Act 2014[^f00001], makes the following Order:
+
+## PART 1 — Introduction and days appointed
+
+### 1. Citation and interpretation[^key-c47c8a4e49b3932ea9e03b17770a33bf]
+
+(1) This Order may be cited as the Immigration Act 2014 (Commencement No. 3, Transitional and Saving Provisions) Order 2014.
+
+(2) In this Order—
+
+- (a) “the 1971 Act” means the Immigration Act 1971[^f00002];
+- (b) “the 2002 Act” means the Nationality, Immigration and Asylum Act 2002[^f00003];
+- (c) “the Act” means the Immigration Act 2014;
+- (d) “the relevant provisions” means section 1 (removal of persons unlawfully in the UK), section 15 (right of appeal to First-tier Tribunal) and section 17(2) (place from which appeal may be brought or continued) of, and paragraphs 3, 4, 5, 6 and 7 and Part 4 of Schedule 9 (apart from paragraph 26(2), (3) and (5)) (transitional and consequential provision relating to appeals) to, the Act;
+- (e) “the saved provisions” means section 10 of the Immigration and Asylum Act 1999[^f00004], sections 62, 72 and 76, and Part 5 of the 2002 Act[^f00005], section 8(7) of the Asylum and Immigration (Treatment of Claimants, etc) Act 2004[^f00006], section 47 of the Immigration, Asylum and Nationality Act 2006[^f00007] and paragraph 19(10) of Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00008], as in force immediately prior to 20th October 2014.
+
+### 2. Provisions coming into force on 20th October 2014 subject to saving provision[^key-7ccec82ca1f3b13a28bbd34cd65db5b5]
+
+The day appointed for the coming into force of the following provisions of the Act, subject to the saving provision in articles 9, 10 and 11, is 20th October 2014—
+
+- (a) section 1;
+- (b) section 15;
+- (c) section 17(2);
+- (d) section 73(6) (transitional and consequential provision) so far as is necessary for the purpose of the provisions listed in sub-paragraph (e);
+- (e) paragraphs 1, 3, 4, 5, 6, 7, 9 and 10(2), and Part 4 of Schedule 9 to the extent not already commenced, apart from paragraph 26(2), (3) and (5).
+
+### 3. Part 4 provisions coming into force on 20th October 2014[^key-858b2e90df6d75ac93f72d376d2a12eb]
+
+The day appointed for the coming into force of the following provisions of Part 4 of the Act (marriage and civil partnership), is 20th October 2014—
+
+- (a) section 49 (exempt persons) so far as is necessary for the purpose of making regulations;
+- (b) section 50 (conduct of investigation) so far as is necessary for the purpose of making regulations;
+- (c) section 51 (investigations: supplementary) so far as is necessary for the purpose of making regulations;
+- (d) section 52 (referral of proposed marriages and civil partnerships in England and Wales) so far as is necessary for the purpose of the provisions listed in sub-paragraph (e);
+- (e) paragraphs 1 (so far as it relates to the following provisions listed in this paragraph) and 4, 7, 8, 10, 15, 17, 18, 20, 21, 23, 24, 27 and 28 of Schedule 4 (referral of proposed marriages and civil partnerships in England and Wales) so far as is necessary for the purpose of making regulations;
+- (f) section 53 (extension of scheme to Scotland and Northern Ireland) so far as is necessary for the purpose of making orders;
+- (g) section 54 (supplementary provisions) so far as is necessary for the purpose of making regulations;
+- (h) Schedule 5 (sham marriage and civil partnerships: administrative regulations);
+- (i) section 60 (regulations about evidence);
+- (j) section 61 (notices).
+
+### 4. Other provisions coming into force on 20th October 2014[^key-54b023fdd15e96077870f72d37c80e54]
+
+The day appointed for the coming into force of the following provisions of the Act is 20th October 2014—
+
+- (a) section 7(3), (4) and (6) (immigration bail: repeat applications and effect of removal directions);
+- (b) section 16 (report by Chief Inspector on administrative review);
+- (c) section 38 (immigration health charge);
+- (d) section 63 (immigration advisers and immigration service providers) so far as is necessary for the purpose of the provisions listed in sub-paragraph (f);
+- (e) section 73(6) (transitional and consequential provision) so far as is necessary for the purpose of the provision listed in sub-paragraph (g);
+- (f) paragraphs 1 and 3 of Schedule 7;
+- (g) paragraph 1 of Schedule 9.
+
+### 5. Provisions coming into force on 17th November 2014[^key-61c56aea14ab6898797bc6d0c1bff2c8]
+
+The day appointed for the coming into force of the following provisions of the Act is 17th November 2014—
+
+- (a) section 63 (immigration advisers and immigration service providers) so far as is necessary for the purpose of the provisions listed in sub-paragraph (c);
+- (b) section 73(6) (transitional and consequential provision) so far as it is necessary for the purpose of the provisions listed in sub-paragraph (d);
+- (c) Schedule 7 (immigration advisers and immigration service providers) to the extent not already commenced;
+- (d) Part 8 of Schedule 9 (transitional and consequential provision relating to immigration advisers and immigration service providers).
+
+### 6. Provisions coming into force on 1st December 2014 in certain areas only[^key-48cd720472465d2e33b556dec73a4459]
+
+(1) The day appointed for the coming into force of the following provisions of the Act is 1st December 2014 in respect of premises located in the areas of the relevant local authorities specified in paragraph (2)—
+
+- (a) section 20 (residential tenancy agreement);
+- (b) section 21 (persons disqualified by immigration status or with limited right to rent);
+- (c) section 22 (persons disqualified by immigration status not to be leased premises);
+- (d) section 23 (penalty notices: landlords);
+- (e) section 24 (excuses available to landlords);
+- (f) section 25 (penalty notices: agents);
+- (g) section 26 (excuses available to agents);
+- (h) section 27 (eligibility period);
+- (i) section 28 (penalty notices: general);
+- (j) section 29 (objection);
+- (k) section 30 (appeals);
+- (l) section 31 (enforcement); and
+- (m) Schedule 3 (excluded residential tenancy agreements).
+
+(2) The relevant local authorities are–
+
+- (a) Birmingham City Council;
+- (b) Dudley Metropolitan Borough Council;
+- (c) Sandwell Metropolitan Borough Council;
+- (d) Walsall Metropolitan Borough Council; and
+- (e) Wolverhampton City Council.
+
+### 7. Provisions coming into force on 1st December 2014[^key-eecc8d1ec7b71c65f65f8678deb46a59]
+
+The day appointed for the coming into force of the following provisions of the Act is 1st December 2014—
+
+- (a) section 32 (general matters);
+- (b) section 33 (discrimination);
+- (c) section 34 (orders);
+- (d) section 35 (transitional provision);
+- (e) section 36 (Crown application); and
+- (f) section 37 (interpretation).
+
+### 8. Provisions coming into force on 15th December 2014[^key-1f7405c0411398acf39c78ec0408bbba]
+
+The day appointed for the coming into force of the following provisions of the Act is 15th December 2014—
+
+- (a) section 68 (fees);
+- (b) section 69 (fees orders and fees regulations: supplemental);
+- (c) section 73(6) (transitional and consequential provision) so far as it is necessary for the purpose of the provisions listed in sub-paragraph (d);
+- (d) Part 11 of Schedule 9 (transitional and consequential provision relating to fees).
+
+## PART 2 — Transitional and saving provisions and repeals
+
+### 9. Transitional and saving provision[^key-feb36832c623c02848181fdfd7ff0593]
+
+(1) Notwithstanding the commencement of the relevant provisions, the saved provisions continue to have effect and the relevant provisions do not have effect so far as they relate to the following decisions of the Secretary of State—
+
+- (a) a decision made on or after 6th April 2015 to refuse an application to vary leave to enter or remain made before 20th October 2014 where the person was seeking leave to remain as a Tier 4 Migrant or as the family member of a Tier 4 Migrant and where the result of that decision is that the applicant has no leave to enter or remain;
+- (b) a decision made on or after 6th April 2015 to refuse an application to vary leave to enter or remain made before 2nd March 2015 where the person was seeking leave to remain as a Tier 1 Migrant or (as the case may be), Tier 2 Migrant or Tier 5 Migrant or as the family member of a Tier 1 Migrant, a Tier 2 Migrant or a Tier 5 Migrant and where the result of that decision is that the applicant has no leave to enter or remain;
+- (c) a decision made on or after 6th April 2015 (so far as that is not a decision mentioned in sub-paragraph (a) or (b)) to refuse an application made before 6th April 2015, where that decision is—
+  - (i) to refuse leave to enter;
+  - (ii) to refuse entry clearance;
+  - (iii) to refuse a certificate of entitlement under section 10 of the 2002 Act;
+  - (iv) to refuse to vary a person’s leave to enter or remain and where the result of that decision is that the person has no leave to enter or remain;
+
+  unless that decision is also a refusal of an asylum, protection or human rights claim.
+- (d) a decision made before 6th April 2015 in relation to which, immediately before 6th April 2015, an appeal could have been brought or was pending under the saved provisions.
+
+(2) In paragraph (1)—
+
+- (a) an application as the family member of a Tier 4 Migrant means an application under paragraph 319C or 319H of the immigration rules;
+- (b) an application as the family member of a Tier 1 Migrant, a Tier 2 Migrant or a Tier 5 Migrant means an application under paragraph 319C, 319E, 319H or 319J of the immigration rules.
+
+(3) In this article—
+
+- “entry clearance” has the same meaning as in section 33(1) of the 1971 Act;
+- “human rights claim” has the same meaning as in section 113 of the 2002 Act;
+- “immigration rules” means the rules for the time being laid down by the Secretary of State as mentioned in section 3(2) of the 1971 Act;
+- “leave to enter” means leave to enter the United Kingdom given in accordance with the provisions of, or made under, the 1971 Act;
+- “leave to remain” means leave to remain in the United Kingdom given in accordance with the provisions of, or made under, the 1971 Act and any variation of leave to enter or remain by the Secretary of State;
+- “pending” has the same meaning as in section 104 of the 2002 Act;
+- “protection claim” has the same meaning as in section 82(2) of the 2002 Act;
+- “Tier 1 Migrant”, “Tier 2 Migrant”, “Tier 4 Migrant” and “Tier 5 Migrant” have the same meanings as in the immigration rules.
+
+**10.**[^key-3fe2f9421a67d6ca68c1003a6f3950df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^key-c36ec96273c2d67e987d06b12593463e] (1)[^key-c06dffb54e75fba0f7808acd451187e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1A)[^key-c06dffb54e75fba0f7808acd451187e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-c06dffb54e75fba0f7808acd451187e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-c06dffb54e75fba0f7808acd451187e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Where the relevant provisions apply, and an appeal has already been brought against an immigration decision under section 82(1) of the 2002 Act but before the relevant provisions applied, the reference to a “decision” in section 96(1)(a) of the 2002 Act is to be read as a reference to an “immigration decision”.
+
+(5) In this article—
+
+- (a)[^key-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) “immigration decision” has the same meaning as in section 82(2) of the 2002 Act as in force immediately prior to 20th October 2014;
+- (c)[^key-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^key-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^key-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^key-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^key-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^key-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^key-0698db601f69808a50d0e5e9816ba50b] For the purposes of section 35(3) of the Act, the day appointed as “the commencement day” is 1st December 2014.
+
+**13.**[^key-68ee183d660426715ea32f5ef18f3064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Consequential revocation and saving[^key-c97a8d103e2f872e0862c91eef24ea75]
+
+Article 4 of the Immigration Act 2014 (Commencement No. 1, Transitory and Saving Provisions) Order 2014[^f00015] is revoked.
+
+**15.**[^key-5ffdc61ac47e0afff0f6a62d2c40c2b8] But in any case in which a foreign criminal as defined in section 117D(2) of the 2002 Act has made a human rights claim which the Secretary of State certified under section 94B of that Act prior to 20th October 2014, section 92 of the 2002 Act[^f00016] (appeal from within the United Kingdom: general) continues to have effect as if the following provisions of that Act were omitted—
+
+- (a) the reference in subsection (2) to an immigration decision of a kind specified in section 82(2)(j);
+- (b) the reference in subsection (4)(a) to a human rights claim; and
+- (c) subsection (4)(b).
+
+James Brokenshire
+
+Minister of State
+
+Home Office
+
+15th October 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order is the third commencement order made under the Immigration Act 2014 (“the Act”). Article 2 lists the provisions of the Act which will come into force on 20th October 2014, subject to saving provision in articles 9, 10 and 11. Article 3 lists the Part 4 provisions of the Act which will come into force on 20th October 2014 for the purposes of making secondary legislation, and article 4 lists the other provisions coming into force on 20th October 2014.
+
+Article 5 lists the provisions coming into force on 17th November 2014. Articles 6 and 7 commence provisions in Chapter 1 of Part 3 on residential tenancies. Article 6 lists provisions which will come into force in certain areas only, and article 7 lists other provisions which come into force, in each case on 1st December 2014. Article 8 lists the provisions in Part 6 of, and Part 11 of Schedule 9 to the Act, relating to fees which will come into force on 15th December 2014.
+
+Articles 9, 10 and 11 make transitional and saving provision in relation to sections 1, 15 and 17(2) of, and paragraphs 3, 4, 5, 6 and 7, and Part 4 of Schedule 9 (apart from paragraph 26(2), (3) and (5)) to, the 2014 Act (“the relevant provisions”), which substitute new provisions about the removal of persons unlawfully in the United Kingdom, and rights of appeal. Article 9 makes saving provision in relation to the “saved provisions” so that they continue to have effect, and the relevant provisions do not have effect, other than so far as they relate to the persons in articles 10 and 11, unless article 11(2) and (3) applies. The “saved provisions” are defined as meaning section 10 of the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), sections 62, 72 and 76, and Part 5 of the Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41) (“the 2002 Act”), section 8(7) of the Asylum and Immigration (Treatment of Claimants, etc) Act [2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), section 47 of the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13) and paragraph 19(10) of Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) as in force immediately prior to 20th October 2014.
+
+The persons referred to in article 10 are a person (“P1”) who becomes a foreign criminal under section 117D(2) of the 2002 Act on or after 20th October 2014 or their family members. The persons referred to in article 11 are a person (“P2”) who makes an in-country application for leave to remain as a Tier 4 Migrant or as their family member (“the Tier 4 applicant”) on or after 20th October 2014. The effect of the saving provision is that only the persons in articles 10 and 11 will be subject to the new appeals provisions in section 82(2), as inserted by section 15(2) of the 2014 Act, which provide a right of appeal to the First-tier Tribunal where a person’s protection claim or human rights claim has been refused, or their protection status has been revoked.
+
+Article 11(2) provides that the saved provisions will apply, and the relevant provisions will not apply where P2, having made a Tier 4 application, then makes a further application for leave to enter, or for leave to remain which is not a Tier 4 application, provided that the further application is not a protection claim or a human rights claim that is made while they are in the UK, other than at a port. Article 11(3) provides that where article 11(2) applies, the saved provisions will also have effect where a decision is taken in relation to P2 which is an immigration decision under section 82(2) of the 2002 Act as in force immediately prior to 20th October 2014, or to which section 83 or 83A of the 2002 Act as in force immediately prior to 20th October 2014 applies. This ensures that any subsequent decision, including a decision to refuse or revoke an asylum claim, made after the application in 11(2), will fall under the appeals provisions in force prior to 20th October 2014, if applicable. Article 11(4) contains a transitional provision which provides that where a person has already had a right of appeal, or brought an appeal, under the version of section 82(1) of the 2002 Act as in force immediately prior to 20th October 2014, the reference to a “decision” in section 96(1)(a) is to be read as a reference to an “immigration decision” so that the previous right of appeal will apply in relation to section 96(1).
+
+Article 12 has the effect that Chapter 1 of Part 3 of the Act, which imposes restrictions on residential tenancy agreements, does not apply to an agreement entered into before 1st December 2014. Article 13 makes transitional and savings provisions in relation to the fees powers now being commenced. It provides that, whilst the existing powers under which fees are levied are here revoked, the statutory instruments made under those powers (which set out the fees to be charged in respect of specified immigration and nationality functions) will remain in force. This means that such fees can continue to be charged, until new fees regulations (made under the fees powers contained in Articles 68 and 69 of the 2014 Act) are laid.
+
+Article 14 revokes article 4 of the Immigration Act 2014 (Commencement No.1, Transitory and Saving Provisions) Order 2014, subject to the saving provision in article 15.
+
+NOTE AS TO EARLIER COMMENCEMENT ORDERS
+
+(This note is not part of the Order)
+
+The following provisions of the Act were brought into force by Statutory Instrument before this Order was made.
+
+| Provision | Date of Commencement | S.I. No. |
+| --- | --- | --- |
+| Section 2 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 3 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 4 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 5 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 6 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 7 (partially) | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 8 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 9 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 10 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 11 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 12 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 13 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 14 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 17 (partially) | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 19<br>Section 40 | 28th July 2014<br>12th December 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820)<br>[2014/1943](https://www.legislation.gov.uk/uksi/2014/1943) |
+| Section 41 | 14th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 42 | 14th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 43 | 14th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 44 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 45 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 46 | 14th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 47 | 14th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 63 (partially) | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 64 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 66 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 67 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 70 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 71 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Section 73 (partially)<br>Section 73 (partially) | 14th July 2014<br>28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820)<br>[2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Schedule 1 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Schedule 2 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Schedule 7 (partially) | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Schedule 8 | 28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+| Schedule 9 (partially)<br>Schedule 9 (partially) | 14th July 2014<br>28th July 2014 | [2014/1820](https://www.legislation.gov.uk/uksi/2014/1820)<br>[2014/1820](https://www.legislation.gov.uk/uksi/2014/1820) |
+
+## Annotations
+
+[^f00001]: Footnote: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22).
+
+[^key-c47c8a4e49b3932ea9e03b17770a33bf]: Commencement: Art. 1 in force at made date
+
+[^f00002]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^f00003]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41).
+
+[^f00004]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33); section 10 was amended by sections 73(4), 74, 75(4) and 76(7) of, and paragraph 1 of Schedule 9 to, the Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), section 48 of the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), and paragraph 2(3) of Schedule 1 to the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22).
+
+[^f00005]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41); section 62 was amended by section 16(2)(c) of the Prevention of Terrorism Act [2005 (c. 2)](https://www.legislation.gov.uk/ukpga/2005/2) and paragraph 13 of Schedule 9 to the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22); section 72 was amended by paragraph 2 of Schedule 1 to the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), paragraph 17 of Schedule 2 to the Asylum and Immigration (Treatment of Claimants, etc.) Act [2004 (c.19)](https://www.legislation.gov.uk/ukpga/2004/19), section 39(2) and (3) of the UK Borders Act [2007 (c. 30)](https://www.legislation.gov.uk/ukpga/2007/30), and paragraph 21 of Schedule 1 to the Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 ([S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21)); section 81 was amended by the Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 ([S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21)); section 82 was amended by sections 26(2) and 31 of the Asylum and Immigration (Treatment of Claimants, etc) Act 2004, sections 2, 47(6) and 57(2) of, and Schedule 3 to, the Immigration, Asylum and Nationality Act 2006, section 35 of the UK Borders Act 2007 and section 15(2) of the Immigration Act 2014; section 83 was amended by section 26(3) of the Asylum and Immigration (Treatment of Claimants, etc) Act 2004; section 83A was inserted by section 1 of the Immigration, Asylum and Nationality Act 2006; section 84 was amended by the Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 ([S.I. 2011/1060](https://www.legislation.gov.uk/uksi/2011/1060)), the Race Relations Order (Amendment) Regulations (Northern Ireland) 2003 ([S.I. 2003/341](https://www.legislation.gov.uk/uksi/2003/341)), section 51(1) of the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), the Treaty of Lisbon (Changes in Terminology) Order 2011 ([S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043)) and section 3 of the Immigration, Asylum and Nationality Act 2006; section 85 was amended by section 26(7) of, and Schedule 2 to, the Asylum and Immigration (Treatment of Claimants, etc) Act 2004, section 14 of, and Schedule 1 to, the Immigration and Nationality Act 2006 and section 19(1) of the UK Borders Act [2007 (c. 30)](https://www.legislation.gov.uk/ukpga/2007/30); section 85A was inserted by section 19(2) of the UK Borders Act 2007 and amended by the Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 ([S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21)); section 86 was amended by section 14 of, and Schedule 1 to, the Immigration, Asylum and Nationality Act 2006 and section 26(7) of, and Schedule 2 to, the Asylum and Immigration (Treatment of Claimants, etc) Act 2004; section 87 was amended by sections 26(7) and 47 of, and Schedules 2 and 4 to, the Asylum and Immigration (Treatment of Claimants, etc) Act 2004, section 14 of, and Schedule 1 to, the Immigration, Asylum and Nationality Act 2006 and the Transfer of Functions of the Asylum and Immigration Tribunal Order ([S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21)); section 88 was amended by section 5 of the Immigration, Asylum and Nationality Act 2006; section 88A was inserted by section 29(1) of the Asylum and Immigration (Treatment of Claimants, etc) Act 2004 and amended by section 4(1) of the Immigration, Asylum and Nationality Act 2006; section 89 was amended by section 6 of the Immigration, Asylum and Nationality Act 2006; section 90 was amended by section 4(1) of the Immigration, Asylum and Nationality Act 2006; section 91 was amended by section 4(1) of the Immigration, Asylum and Nationality Act 2006; section 92 was amended by section 47(7) of the Immigration, Asylum and Nationality Act 2006, sections 53(1) and (2) of the Crime and Courts Act 2013, section 28 of the Asylum and Immigration (Treatment of Claimants, etc) Act 2004 and the Treaty of Lisbon (Changes in Terminology) Order 2011 ([S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043)); section 93 was repealed by sections 33(3) and (b) and 47 of, and Schedule 4 to, the Asylum and Immigration (Treatment of Claimants, etc) Act 2004; section 94 was amended by sections 27(1), (2), (3), (4), (5), (6) and (7) and 47 of, and Schedule 4 to, the Asylum and Immigration (Treatment of Claimants, etc) Act 2004, sections 13 and 47(8) of the Immigration, Asylum and Nationality Act 2006, the Asylum (Designated States) Order 2003 ([S.I. 2003/970](https://www.legislation.gov.uk/uksi/2003/970)), the Asylum (Designated States) (Amendment) Order 2006 ([S.I. 2006/3215](https://www.legislation.gov.uk/uksi/2006/3215)), the Asylum (Designated States) Order 2007 ([S.I. 2007/2221](https://www.legislation.gov.uk/uksi/2007/2221)), the Asylum (Designated States) (No 2) Order 2003 ([S.I. 2003/1919](https://www.legislation.gov.uk/uksi/2003/1919)), the Asylum (Designated States) (Amendment) Order 2005 ([S.I. 2005/1016](https://www.legislation.gov.uk/uksi/2005/1016)), the Asylum (Designated States) (Amendment) (No 2) Order 2006 ([S.I. 2006/3275](https://www.legislation.gov.uk/uksi/2006/3275)), the Asylum (Designated States) Order 2005 ([S.I. 2005/330](https://www.legislation.gov.uk/uksi/2005/330)), the Asylum (Designated States) (No 2) Order 2005 ([S.I. 2005/3306](https://www.legislation.gov.uk/uksi/2005/3306)), the Asylum (Designated States) Order 2010 ([S.I. 2010/561](https://www.legislation.gov.uk/uksi/2010/561)) and the Asylum (Procedures) Regulations 2007 ([S.I. 2007/3187](https://www.legislation.gov.uk/uksi/2007/3187)); section 94A was inserted by the Asylum (Procedures) Regulations 2007 ([S.I. 2007/3187](https://www.legislation.gov.uk/uksi/2007/3187)) and amended by the Treaty of Lisbon (Changes in Terminology) Order 2011 ([S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043)); section 96 was amended by sections 30(1), (2), (3) and (4) of the Asylum and Immigration (Treatment of Claimants, etc) Act 2004; section 97 was amended by section 14 of, and Schedule 1 to, the Immigration, Asylum and Nationality Act 2006; section 97A was inserted by section 7(1) of the Immigration, Asylum and Nationality Act 2006 and amended by sections 54(1), (2), (3) and (4) of the Crime and Courts Act 2013; section 97B was inserted by sections 53(1) and (3) of the Crime and Courts Act 2013; section 99 was amended by sections 51(2)(a) and (b) of the Crime and Courts Act 2013; sections 100, 101, 102 and 103 were repealed by sections 26(5)(a) and 47 of, and Schedule 4 to, the Asylum and Immigration (Treatment of Claimants, etc) Act 2004; sections 103A, 103B, 103C, 103D and 103E were inserted by section 26(6) of the Asylum and Immigration (Treatment of Claimants, etc) Act 2004 and repealed by the Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 ([S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21)); section 104 was amended by the Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 ([S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21)), sections 26(7) and 47 of, and Schedule 2 to, the Asylum and Immigration (Treatment of Claimants, etc) Act 2004 and section 9 of the Immigration, Asylum and Nationality Act 2006; section 106 was amended by the Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 ([S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21)), sections 26(7) and 47 of, and Schedule 2 to, the Asylum and Immigration (Treatment of Claimants, etc) Act 2004; section 107 was amended by the Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 ([S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21)), section 48(1) of, and Schedule 8 to, the Tribunals, Courts and Enforcement Act 2007 and sections 26(7) and 47 of, and Schedule 2 to, the Asylum and Immigration (Treatment of Claimants, etc) Act 2004; section 108 was amended by section 14 of, and Schedule 1 to, the Immigration, Asylum and Nationality Act 2006 and section 26(7) of, and Schedule 2 to, the Asylum and Immigration (Treatment of Claimants, etc) Act 2004; section 109 was amended by the Treaty of Lisbon (Changes in Terminology) Order 2011 ([S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043)); section 110 was repealed by sections 10 and 61 of, and Schedule 3 to, the Immigration, Asylum and Nationality Act 2006; section 111 was repealed by sections 54(c) and 58 of, and the Schedule to, the UK Borders Act 2007; section 112 was amended by the Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 ([S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21)), sections 26(7), 27(8) and 29(2) of, and Schedule 2 to, the Asylum and Immigration (Treatment of Claimants, etc) Act 2004 and section 7(2) of the Immigration, Asylum and Nationality Act 2006; section 113 was amended by sections 12(1), (2) and (3) of the Immigration, Asylum and Nationality Act 2006; section 115 was amended by the Asylum (Designated States) Order 2003 ([S.I. 2003/970](https://www.legislation.gov.uk/uksi/2003/970)); and section 116 was repealed by section 39(1) of, and Schedule 5 to, the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 41)](https://www.legislation.gov.uk/ukpga/2012/41).
+
+[^f00006]: Footnote: [2004 c. 19](https://www.legislation.gov.uk/ukpga/2004/19); section 8(7) was amended by paragraph 32(a), (b) and (c) of Schedule 1 to the Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 ([S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21)).
+
+[^f00007]: Footnote: [2006 c. 13](https://www.legislation.gov.uk/ukpga/2006/13); section 47 was amended by section 51(3) of the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) and paragraph 2(4) of Schedule 1 to the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22).
+
+[^f00008]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
+
+[^key-7ccec82ca1f3b13a28bbd34cd65db5b5]: Commencement: Art. 2 in force at made date
+
+[^key-858b2e90df6d75ac93f72d376d2a12eb]: Commencement: Art. 3 in force at made date
+
+[^key-54b023fdd15e96077870f72d37c80e54]: Commencement: Art. 4 in force at made date
+
+[^key-61c56aea14ab6898797bc6d0c1bff2c8]: Commencement: Art. 5 in force at made date
+
+[^key-48cd720472465d2e33b556dec73a4459]: Commencement: Art. 6 in force at made date
+
+[^key-eecc8d1ec7b71c65f65f8678deb46a59]: Commencement: Art. 7 in force at made date
+
+[^key-1f7405c0411398acf39c78ec0408bbba]: Commencement: Art. 8 in force at made date
+
+[^key-feb36832c623c02848181fdfd7ff0593]: Textual amendment: Art. 9 substituted (6.4.2015) by [The Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 (S.I. 2015/371)](https://www.legislation.gov.uk/uksi/2015/371), [art. 8(2)](https://www.legislation.gov.uk/uksi/2015/371/article/8/2)
+
+[^key-3fe2f9421a67d6ca68c1003a6f3950df]: Textual amendment: Art. 10 omitted (6.4.2015) by virtue of [The Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 (S.I. 2015/371)](https://www.legislation.gov.uk/uksi/2015/371), [art. 8(3)](https://www.legislation.gov.uk/uksi/2015/371/article/8/3)
+
+[^key-c36ec96273c2d67e987d06b12593463e]: Commencement: Art. 11 in force at made date
+
+[^key-c06dffb54e75fba0f7808acd451187e7]: Textual amendment: Art. 11(1)(1A)(2)(3) omitted (6.4.2015) by virtue of [The Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 (S.I. 2015/371)](https://www.legislation.gov.uk/uksi/2015/371), [art. 8(4)](https://www.legislation.gov.uk/uksi/2015/371/article/8/4)
+
+[^key-860a2ac358c27ff3c4a80746d536cb67]: Textual amendment: Art. 11(5)(a)(c)-(i) omitted (6.4.2015) by virtue of [The Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 (S.I. 2015/371)](https://www.legislation.gov.uk/uksi/2015/371), [art. 8(4)](https://www.legislation.gov.uk/uksi/2015/371/article/8/4)
+
+[^key-0698db601f69808a50d0e5e9816ba50b]: Commencement: Art. 12 in force at made date
+
+[^key-68ee183d660426715ea32f5ef18f3064]: Textual amendment: Art. 13 omitted (6.4.2015) by virtue of [The Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 (S.I. 2015/371)](https://www.legislation.gov.uk/uksi/2015/371), [art. 8(5)](https://www.legislation.gov.uk/uksi/2015/371/article/8/5)
+
+[^key-c97a8d103e2f872e0862c91eef24ea75]: Commencement: Art. 14 in force at made date
+
+[^f00015]: Footnote: [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820).
+
+[^key-5ffdc61ac47e0afff0f6a62d2c40c2b8]: Commencement: Art. 15 in force at made date
+
+[^f00016]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41); subsection (2) was amended by section 47(7) of the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13) and subsection (4)(b) was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); there are other amendments but none are relevant.

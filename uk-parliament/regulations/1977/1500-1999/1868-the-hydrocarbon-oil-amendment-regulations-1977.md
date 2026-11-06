@@ -1,0 +1,93 @@
+---
+title: The Hydrocarbon Oil (Amendment) Regulations 1977
+id: uksi/1977/1868
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1977-11-15'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1977/1868
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1977/1868/pdfs/uksi_19771868_en.pdf
+- http://www.legislation.gov.uk/uksi/1977/1868/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Hydrocarbon Oil (Amendment) Regulations 1977
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1977 No. 1868
+
+CUSTOMS AND EXCISE
+
+The Hydrocarbon Oil (Amendment) Regulations 1977
+
+Made
+
+15th November 1977
+
+Laid before Parliament
+
+22nd November 1977
+
+Coming into Operation
+
+1st January 1978
+
+The Commissioners of Customs and Excise, in exercise of the powers conferred upon them by sections 19, 20 and 21 of the Hydrocarbon Oil (Customs & Excise) Act 1971 and of all other powers enabling them in that behalf, hereby make the following Regulations:—
+
+**1.** (1) These Regulations may be cited as the Hydrocarbon Oil (Amendment) Regulations 1977 and shall come into operation on 1st January 1978.
+
+(2) The Interpretation Act 1889 applies for the interpretation of these Regulations as it applies for the interpretation of an Act of Parliament.
+
+**2.** The Hydrocarbon Oil Regulations 1973[^f00001], as amended [^f00002], shall be further amended as follows—
+
+- (a) In Regulation 2—
+  - (i) in the definition of “gas”, for the words “ at a temperature of 60°F and under a pressure of one atmosphere” substitute the words “at a temperature of 15°C and under a pressure of 1013.25 millibars”, and
+  - (ii) in the definition of “heated oil”, for the words “60°F” substitute the words “15°C”;
+- (b) In Regulation 12(1)(c) and Regulation 12(2)(a), for the word “gallons” substitute in both places the words “litres”;
+- (c) In Regulation 15, for the word “gallons” (wherever occurring) substitute the word “litres”, and for the words “60°F” (in both places) substitute the words “15°C”;
+- (d) In Regulation 19, for the words “one hundred thousand gallons” substitute the words “one million litres”, for the words “1¾ pounds” substitute the words “1.75 kilograms” and for the words “4 pounds” (in both places) substitute the words “4 kilograms”;
+- (e) In Regulation 24(2)(b), for the word “fifty gallons” substitute the words “litres”;
+- (f) In Regulation 27, for the words “fifty gallons” substitute the words “two hundred and fifty litres”.
+
+**3.** The Hydrocarbon Oil (Amendment) Regulations 1974 [^f00003] are revoked.
+
+H.F. Christopherson
+
+Commissioner of Customs and Excise
+
+King's Beam House
+
+Mark Lane
+
+London, EC3R 7HE
+
+15th November 1977
+
+EXPLANATORY NOTE
+
+These Regulations, which come into operation on 1st January 1978, introduce new methods of measurement in relation to the excise duty on hydrocarbon oil as follows:
+
+Temperature:“60°F” is replaced by “15°C”.
+
+Pressure:“one atmosphere” is replaced by “1013.25 millibars”.
+
+Volume:the gallon is replaced by the litre.
+
+Regulation 2(d) amends references to the quantities and units used in determining the proportion of markers and colouring substances required to be added to certain rebated oils. The revised proportions are in practical terms the equivalent of those in force before 1st January 1978.
+
+The Regulations are consequential on the Amendment of Units of Measurement (Hydrocarbon Oil, etc.) Order 1977 (S.I. 1977/1866) which makes like amendments to the principal legislation.
+
+## Annotations
+
+[^f00001]: Footnote: (1973 II, p. 3984).
+
+[^f00002]: Footnote: The relevant amending instrument is S.I. 1974/379 (1974 I. p. 1208).
+
+[^f00003]: Footnote: (1974 I, p. 1208)

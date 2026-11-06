@@ -1,0 +1,487 @@
+---
+title: The Proposed Marriages and Civil Partnerships (Conduct of Investigations, etc.) Regulations 2015
+id: uksi/2015/397
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-02-26'
+text_date: '2021-07-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2015/397
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2015/397/pdfs/uksiem_20150397_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/397/pdfs/uksi_20150397_en.pdf
+- http://www.legislation.gov.uk/uksi/2015/397/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Proposed Marriages and Civil Partnerships (Conduct of Investigations, etc.) Regulations 2015
+
+> Text as at 2021-07-01.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2015 No. 397
+
+Marriage
+
+Civil Partnership
+
+Immigration
+
+The Proposed Marriages and Civil Partnerships (Conduct of Investigations, etc.) Regulations 2015
+
+Made
+
+26th February 2015
+
+Coming into force
+
+1st March 2015
+
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 50(1), (5), (9), (10), 51(1)(d), (3), (4), (5) and 74(8)(d) of the Immigration Act 2014 (“**the Act**”) [^c22387061].
+
+In accordance with section 74(2) of the Act a draft of these Regulations has been laid before and approved by resolution of each House of Parliament.
+
+## PART 1 — General
+
+### 1. Citation and commencement
+
+(1) These Regulations may be cited as the Proposed Marriages and Civil Partnerships (Conduct of Investigations, etc.) Regulations 2015.
+
+(2) They come into force on 1st March 2015.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**2014 Act**” means the Immigration Act 2014;
+- “**bank holiday**” means a day which is a bank holiday under the Banking and Financial Dealings Act 1971 [^c22387071] in the part of the United Kingdom in which a relevant party is resident, unless a relevant party is not resident in the United Kingdom in which case it means a day which is a bank holiday under that Act in any part of the United Kingdom;
+- “**detained**” means detained—
+  - (a) under the Immigration Act 1971 [^c22387081], under section 62 of the Nationality, Immigration and Asylum Act 2002 [^c22387091] or under section 36 of the UK Borders Act 2007 [^c22387101], or
+  - (b) in a prison or other place to which the Prison Act 1952 [^c22387111], the Prisons (Scotland) Act 1989 [^c22387121] or the Prisons Act (Northern Ireland) 1953 [^c22387131] applies;
+- “**Home Office premises**” means—
+  - (a) in relation to premises in the United Kingdom, premises used by Home Office staff for the purposes of Home Office business, and
+  - (b) in relation to premises outside the United Kingdom, premises used by Home Office staff or Foreign, Commonwealth and Development Office[^key-20a1184e215b3767c186b7f3c3015735] staff for the purposes of Home Office business,
+
+  whether or not those premises are also used for other purposes;
+- “**normal office hours**”, in relation to when an interview may take place means—
+  - (a) where a relevant party is in the United Kingdom, the hours between 9.00 am and 6.00 pm on a working day,
+  - (b) where a relevant party is in a country or territory outside the United Kingdom, such hours as are normally regarded as normal office hours on a day which is normally regarded as a working day in that country or territory;
+- “**specified requirement**” has the meaning given by regulation 14;
+- “working day” (other than in paragraph (b) of the definition of “normal office hours”) means a day other than a Saturday, a Sunday, Good Friday, Christmas day or a bank holiday.
+
+(2) In these Regulations a reference to evidence, where that is in the form of a document, means (subject to paragraph (3) and regulation 12(6)(d)) the original document, and “**document**” means anything in which information of any description is recorded or stored.
+
+(3) Where the document is an electronic document, it means the record which is accessible to the relevant party whether on a mobile device, other handheld device or personal computer.
+
+## PART 2 — Investigations
+
+### 3. Introduction
+
+(1) An investigation [^c22387141] must be conducted in accordance with these Regulations.
+
+(2) When carrying out an investigation the Secretary of State may make such enquiries as the Secretary of State thinks fit for the purpose of determining whether a proposed marriage or civil partnership is a sham.
+
+(3) Without prejudice to the generality of paragraph (2), as part of an investigation a relevant party may be required to provide information or evidence about, in particular—
+
+- (a) himself or herself (including his or her identity);
+- (b) the other relevant party;
+- (c) his or her relationship with the other relevant party;
+- (d) his or her living arrangements and those of the other relevant party;
+- (e) his or her future plans and those of the other relevant party.
+
+### 4. Interviews: general
+
+(1) This regulation applies to interviews conducted by the Secretary of State in accordance with regulations 6 to 10.
+
+(2) As part of an investigation the Secretary of State may require a relevant party to be interviewed.
+
+(3) The Secretary of State may require a relevant party to be interviewed on his or her own, together with the other relevant party, or both.
+
+(4) The Secretary of State may require an interview with a relevant party to take place—
+
+- (a) where a relevant party is in the United Kingdom—
+  - (i) in person at the relevant party's home;
+  - (ii) in person at the other relevant party's home (if different);
+  - (iii) in person at Home Office premises;
+  - (iv) by telephone, by video-telecommunications link or over the internet (where the relevant party must be present at Home Office premises);
+  - (v) by telephone, by video-telecommunications link or over the internet (where the relevant party may be elsewhere);
+- (b) where a relevant party is outside the United Kingdom—
+  - (i) in person at Home Office premises;
+  - (ii) by telephone, by video-telecommunications link or over the internet (where the relevant party must be present at Home Office premises);
+  - (iii) by telephone, by video-telecommunications link or over the internet (where the relevant party may be elsewhere).
+
+(5) A relevant party may also be required to attend an interview while he or she is detained.
+
+(6) A relevant party may be required to attend more than one interview.
+
+(7) Unless paragraph (8) or (9) applies, an interview must take place during normal office hours.
+
+(8) This paragraph applies where a relevant party (or, as the case may be, both relevant parties) agrees that an interview may take place outside normal office hours.
+
+(9) This paragraph applies where an interview is commenced and has been substantially completed during normal office hours.
+
+(10) Where paragraph (9) applies, the interview may continue outside normal office hours.
+
+(11) A relevant party may be accompanied at an interview by an appropriate legal representative.
+
+(12) A relevant party may also be accompanied at an interview by an interpreter (appointed by the relevant party).
+
+(13) A relevant party may not be accompanied at an interview by a person other than those mentioned in paragraphs (11) and (12) without the Secretary of State's consent.
+
+(14) The Secretary of State must make a written record of an interview (“the record”).
+
+(15) The record must be completed during the interview and must constitute—
+
+- (a) a verbatim account of what has been said, or
+- (b) an account of the interview which adequately summarises it.
+
+(16) The record must be signed and dated by the person who made it.
+
+(17) If a relevant party requests one, the Secretary of State must provide him or her with a copy of that record.
+
+(18) In this regulation “**appropriate legal representative**” means a legal representative who is a qualified person within the meaning of section 82 of the Immigration and Asylum Act 1999 [^c22387151].
+
+### 5. Arranging an interview
+
+(1) A relevant party may be required to contact the Secretary of State to arrange an interview.
+
+(2) A relevant party may be required to contact the Secretary of State by—
+
+- (a) telephoning the telephone number;
+- (b) sending a text message to the telephone number;
+- (c) sending an email to the Home Office or Foreign, Commonwealth and Development Office[^key-7da8afa30d4f17ec3250c291a6c20e43] email address; or
+- (d) writing to the address,
+
+specified in the section 48 notice or in any subsequent notification as mentioned in section 50(3) of the 2014 Act (“the notification”).
+
+(3) A relevant party may be required to contact the Secretary of State within the time period specified in the section 48 notice or in the notification (which may not be less than a period of three working days beginning with the day on which the notice or the notification is given).
+
+(4) A relevant party who contacts the Secretary of State in accordance with this regulation must make himself or herself reasonably available so that a date and time, being a date no later than the date specified in the section 48 notice or in the notification, can be agreed for an interview to take place.
+
+(5) Where an interview is to take place with a relevant party and the other relevant party, the relevant party may also be required to agree the date and time mentioned in paragraph (4), so far as practicable, on behalf of the other relevant party.
+
+### 6. Interviews at a relevant party's home
+
+(1) This regulation applies where a relevant party is required to attend an interview at his or her home or at the other relevant party's home (if different).
+
+(2) Subject to paragraphs (3) and (4), a relevant party must be given at least three working days written notice of the date, place and time of the interview.
+
+(3) A relevant party (or, as the case may be, both relevant parties) may agree to an interview taking place with less than three working days notice.
+
+(4) The notice mentioned in paragraph (3) need not be in writing.
+
+(5) During an interview the Secretary of State may make observations about, and ask a relevant party about, his or her living arrangements, or, as the case may be, those of the other relevant party.
+
+(6) A record of those observations and any response to them given by a relevant party must be recorded in writing and signed and dated by the person who made it.
+
+(7) Where a relevant party and the other relevant party claim to cohabit, the Secretary of State may ask to see reasonable evidence of their cohabitation.
+
+(8) A record of that evidence must be recorded in writing and signed and dated by the person who made it.
+
+(9) If a relevant party requests one, the Secretary of State must provide him or her with a copy of the record mentioned in paragraph (6), or, as the case may be, paragraph (8).
+
+(10) An interview under this regulation may not proceed unless at least two persons on behalf of the Secretary of State are present.
+
+### 7. Interviews at Home Office premises in the United Kingdom
+
+(1) This regulation applies where a relevant party is required to attend an interview at Home Office premises in the United Kingdom whether that interview is to take place in person, by telephone, by video-telecommunications link or over the internet.
+
+(2) Subject to paragraphs (3) and (4), a relevant party must be given at least three working days written notice of the date, place and time of the interview and how it is to be conducted.
+
+(3) A relevant party (or, as the case may be, both relevant parties) may agree to an interview taking place with less than three working days notice.
+
+(4) The notice mentioned in paragraph (3) need not be in writing.
+
+(5) In this regulation and regulation 8 a reference to how an interview is to be conducted is a reference to whether—
+
+- (a) it is to be conducted in person, by telephone, by video-telecommunications link or over the internet; and
+- (b) where it is to be conducted by telephone, by video-telecommunications link or over the internet, it is to be two-way (that is to say, with just the relevant party) or three-way (with both the relevant party and the other relevant party), or both.
+
+### 8. Interviews at Home Office premises outside the United Kingdom
+
+(1) This regulation applies where a relevant party is required to attend an interview at Home Office premises outside the United Kingdom whether that interview is to take place in person, by telephone, by video-telecommunications link or over the internet.
+
+(2) A relevant party may be required to attend an interview at Home Office premises outside the United Kingdom where—
+
+- (a) the relevant party is resident outside the United Kingdom; and
+- (b) those Home Office premises are located within a reasonable travelling distance of the relevant party's place of residence (whether or not they are in the same country or territory).
+
+(3) Subject to paragraphs (4) and (5), a relevant party must be given at least three working days written notice of the date, place and time of the interview and how it is to be conducted.
+
+(4) A relevant party (or, as the case may be, both relevant parties) may agree to the interview taking place with less than three working days notice.
+
+(5) The notice mentioned in paragraph (4) need not be in writing.
+
+### 9. Interviews by telephone, etc.
+
+(1) This regulation applies where a relevant party (whether in or outside the United Kingdom) is required to attend an interview by telephone, by video-telecommunications link or over the internet (but is not required to be present at Home Office premises).
+
+(2) Subject to paragraphs (3) and (4), a relevant party must be given at least three working days written notice of the date and time of the interview and how it is to be conducted.
+
+(3) A relevant party (or, as the case may be, both relevant parties) may agree to the interview taking place with less than three working days notice.
+
+(4) The notice mentioned in paragraph (3) need not be in writing.
+
+(5) At the start of the interview—
+
+- (a) the person conducting it must identify himself or herself (and anyone accompanying him or her) by reference to his or her name, position and place of work; and
+- (b) the relevant party (and, as the case may be, the other relevant party) must confirm his or her identity by reference to his or her name, date of birth and nationality and to the Home Office reference on the section 48 notice given to him or her.
+
+(6) Where the relevant party (or the other relevant party) is unable to confirm his or her identity as required by paragraph (5)(b), the Secretary of State may decide—
+
+- (a) where the Secretary of State is otherwise satisfied that it is the relevant party (or, as the case may be, the other relevant party), to continue with the interview;
+- (b) to rearrange the interview in accordance with this regulation or with regulation 6 or 7 (or, as the case may be, 8); or
+- (c) that the relevant party (or, as the case may be, the other relevant party) has failed to comply with a specified requirement (see regulation 14).
+
+(7) In paragraph (2)—
+
+- (a) the “time” of an interview means the 30 minute period within which an interview may start; and
+- (b) a reference to how an interview is to be conducted is a reference to whether it is to be—
+  - (i) conducted by telephone, by video-telecommunications link or over the internet; and
+  - (ii) two-way (that is to say, with just the relevant party) or three-way (with both the relevant party and the other relevant party), or both.
+
+### 10. Interviews while detained
+
+(1) This regulation applies where a relevant party is required to attend an interview while he or she is detained.
+
+(2) Subject to paragraphs (3) and (4), a relevant party must be given at least three working days written notice of the date and time of the interview and how it is to be conducted.
+
+(3) A relevant party may agree to an interview taking place with less than three working days notice.
+
+(4) The notice mentioned in paragraph (3) need not be in writing.
+
+(5) An interview may take place in person or by telephone; and a reference in this regulation to how an interview is to be conducted is a reference to whether it is to take place in person or by telephone.
+
+(6) Subject to paragraph (7), regulations 7 and 9 do not apply where a relevant party is required to attend an interview under this regulation.
+
+(7) Where a relevant party is interviewed by telephone—
+
+- (a) paragraph (5) of regulation 9 applies as if the words “(and, as the case may be, the other relevant party)” in sub-paragraph (b) were omitted; and
+- (b) paragraph (6) of that regulation applies as if—
+  - (i) the words “(or the other relevant party)”;
+  - (ii) the words “(or, as the case may be, the other relevant party)” in sub-paragraph (a);
+  - (iii) the words from “or with” to the end in sub-paragraph (b); and
+  - (iv) the words “(or, as the case may be, the other relevant party)” in sub-paragraph (c),
+
+  were omitted.
+
+### 11. Rearranging an interview
+
+(1) Where a relevant party is required to attend an interview in accordance with regulations 6 to 10 and the date or time for that interview is not (or where it was arranged in accordance with regulation 5, no longer) convenient for the relevant party or, as the case may be, the other relevant party, the Secretary of State may agree to rearrange the interview.
+
+(2) Where the Secretary of State agrees to rearrange an interview the relevant party may be given less than three working days written notice of the rearranged interview (but, subject to paragraph (3), not less than 24 hours).
+
+(3) A relevant party (or, as the case may be, both relevant parties) may agree to a rearranged interview taking place with less than 24 hours notice.
+
+(4) The notice mentioned in paragraphs (2) and (3) need not be in writing.
+
+### 12. Requirement to provide information, evidence or photographs
+
+(1) The Secretary of State may require a relevant party to provide information, evidence or photographs in accordance with this regulation.
+
+(2) A relevant party may be required to provide information, evidence or photographs before, during or after an interview.
+
+(3) But a requirement to provide information, evidence or photographs may also be imposed whether or not an interview is to take place or has taken place.
+
+(4) Unless it is made at an interview, a requirement to provide information must be made in writing.
+
+(5) A requirement to provide evidence or photographs must be imposed, or where it is made at an interview, followed up, in writing.
+
+(6) Where a requirement to provide information, evidence or photographs is imposed, or as the case may be, followed up, in writing, it must—
+
+- (a) include a description of the information, evidence or photographs that must be provided;
+- (b) set out how the information, evidence or photographs must be provided, whether by sending the information, evidence or photographs to the Secretary of State or providing the information, evidence or photographs at an interview;
+- (c) where the information, evidence or photographs is or are to be sent to the Secretary of State, include the address to which the information, evidence or photographs must be sent and the date by which the information, evidence or photographs must be received by the Secretary of State; and
+- (d) where the evidence is in the form of a document—
+  - (i) set out the circumstances in which a certified translation must also be provided; and
+  - (ii) set out the circumstances in which a certified copy may be provided.
+
+(7) In this regulation—
+
+- (a) in paragraph (6)(c), “**address**” includes, where appropriate, an email address;
+- (b) “**certified translation**” means a translation of the document provided which—
+  - (i) is certified as a true and accurate translation by the person who translated it;
+  - (ii) is signed and dated by that person; and
+  - (iii) states his or her name and contact details;
+- (c) “**certified copy**” means a copy of the original document which—
+  - (i) is certified as a true copy of the original;
+  - (ii) is signed and dated by the person who certifies it; and
+  - (iii) states that person's name, contact details and position or occupation.
+
+(8) A document may not be certified by a person who is—
+
+- (a) a family member of the relevant party or the other relevant party;
+- (b) a person who lives with the relevant party or the other relevant party; or
+- (c) the other relevant party.
+
+### 13. Further provision about electronic documents
+
+(1) A relevant party may be required to provide evidence in the form of an electronic document by—
+
+- (a) showing it, during an interview, to the Secretary of State who may—
+  - (i) make a note of its contents in the record mentioned in regulation 4;
+  - (ii) photograph it;
+  - (iii) request a “screenshot” of the document; or
+- (b) where it is an email (or included in an email), forwarding it to a Home Office or Foreign, Commonwealth and Development Office[^key-0ef392c614052a9d24943bf55492fd95] email account.
+
+## PART 3 — Specified requirements
+
+### 14.
+
+The following are specified requirements for the purposes of section 51(4) of the 2014 Act—
+
+- (a) the requirement to arrange an interview in accordance with regulation 5;
+- (b) the requirement to attend an interview and be interviewed in accordance with regulations 4, and 6 to 10;
+- (c) the requirement to provide confirmation of identity in accordance with regulation 9(5)(b);
+- (d) the requirement to provide information, evidence or photographs in accordance with regulation 12 or 13*.*
+
+## PART 4 — Compliance question
+
+### 15. Notifying a relevant party that he or she has failed to comply with a specified or other relevant requirement
+
+(1) This regulation applies where the Secretary of State believes a relevant party has failed to comply with a specified or any other relevant requirement [^c22387161] (“a requirement”).
+
+(2) The Secretary of State may give notice in writing to the relevant party—
+
+- (a) stating that the Secretary of State believes the relevant party has failed to comply with a requirement,
+- (b) giving the reasons for that belief, and
+- (c) requiring the relevant party to contact the Secretary of State within the period stated (which may not be less than a period of three working days beginning with the day on which the notice is given) with a view to complying with that (and any other) requirement.
+
+(3) If a notice under paragraph (2) is given, it must include relevant contact details and may require the relevant party to make contact by telephone.
+
+### 16. Failure to comply with a specified requirement
+
+For the avoidance of doubt—
+
+- (a) where a relevant party is required to attend an interview and be interviewed in accordance with regulations 4, and 6 to 10, a failure to respond to questions asked during such an interview (or a refusal to answer any further questions thereby bringing the interview to an end) may be regarded as a failure to comply with the requirement to be interviewed;
+- (b) where a relevant party is required to attend an interview by telephone, a failure, so far as practicable, to keep the telephone line free during the time notified for the interview may be regarded as a failure to comply with that requirement*.*
+
+### 17. Deciding the compliance question
+
+(1) The Secretary of State must decide the compliance question in accordance with this regulation.
+
+(2) The Secretary of State may decide that a relevant party who fails, without reasonable excuse, to comply with a relevant requirement has not complied with the investigation.
+
+(3) The Secretary of State may decide that a relevant party who fails, without reasonable excuse, to contact the Secretary of State following receipt of a notice given under regulation 15(2) has not complied with the investigation.
+
+(4) Where a relevant party is removed from the United Kingdom after he or she has been given a section 48 notice but before the compliance question has been decided, the Secretary of State may decide that the relevant party has complied with the investigation.
+
+(5) Where a relevant party leaves the United Kingdom in accordance with—
+
+- (a) section 5(6) of the Immigration Act 1971 [^c22387171] (procedure for, and further provision as to, deportation);
+- (b) arrangements made by the Secretary of State under section 58 of the Nationality, Immigration and Asylum Act 2002 [^c22387181] (voluntary departure from the United Kingdom) (“**the Act**”) to assist voluntary leavers; or
+- (c) a project participated in by the Secretary of State under section 59 of the Act (international projects),
+
+after he or she has been given a section 48 notice but before the compliance question has been decided, the Secretary of State may decide that the relevant party has complied with the investigation.
+
+(6) Where the Secretary of State decides that a relevant party mentioned in paragraph (4) or (5) has complied with the investigation, the Secretary of State may also decide that the other relevant party has complied with the investigation.
+
+(7) In this regulation “**removed from the United Kingdom**” means removed in accordance with directions given by an immigration officer or the Secretary of State under the Immigration Acts [^c22387191]*.*
+
+## PART 5 — Section 48 notice
+
+### 18. Prescribed information about the investigation
+
+(1) The information prescribed for the purposes of section 51(1)(d) of the 2014 Act (“section 51(1)(d) purposes”) is a statement—
+
+- (a) that the Secretary of State may decide that a relevant party who has failed, without reasonable excuse, to comply with a relevant requirement has not complied with the investigation;
+- (b) that, where the Secretary of State decides that a relevant party has, or (as the case may be) both relevant parties have, failed to comply with the investigation and gives notice of that decision within the 70 day period in accordance with section 50(7) of the 2014 Act, the proposed marriage or, as the case may be, civil partnership may not proceed (and the relevant parties must give fresh notice of their intention to marry or register their civil partnership if they wish it to do so);
+- (c) that, in a case where the Secretary of State determines that a proposed marriage or civil partnership is a sham, the Secretary of State or an immigration officer may take immigration enforcement action in relation to a relevant party or, as the case may be, both relevant parties;
+- (d) that, in a case where a proposed marriage or civil partnership which is or was the subject of an investigation proceeds and the Secretary of State subsequently determines that it is a sham, the Secretary of State or an immigration officer may take immigration enforcement action in relation to a relevant party or, as the case may be, both relevant parties;
+- (e) that, without prejudice to the refusal of an application for entry clearance, limited leave or indefinite leave[^key-2620d5b9ea0734b242b6ca180db436a4] made on any other basis, in a case where the Secretary of State determines that a proposed marriage or civil partnership is a sham, the Secretary of State may refuse an application which is based upon a relevant party's relationship with the other relevant party;
+- (f) that, without prejudice to the refusal of an application for entry clearance, limited leave or indefinite leave[^key-c3e8de1adefe1406822433124605dc46] made on any other basis, in a case where a proposed marriage or civil partnership which is or was the subject of an investigation proceeds and the Secretary of State subsequently determines that it is a sham, the Secretary of State may refuse an application which is based upon a relevant party's relationship with the other relevant party.
+
+(2) In the case of information prescribed in sub-paragraphs (d) to (f) of paragraph (1), the following additional information is prescribed for section 51(1)(d) purposes—
+
+- (a) as respects information prescribed in sub-paragraphs (d) and (f), the additional information that a reference to a marriage or civil partnership being a sham is a reference to it being a sham within the meaning of section 24 or 24A of the Immigration and Asylum Act 1999 [^c22387201];
+- (b) as respects information prescribed in sub-paragraphs (e) and (f), the additional information that—
+  - (i) “**entry clearance**”, “**limited leave**” and “**indefinite leave**” have the same meanings as in section 33 of the Immigration Act 1971 [^c22387211]; [^key-e2ad24db854c5ecd47dab08f41cd94c7]...
+  - (ii)[^key-e2ad24db854c5ecd47dab08f41cd94c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-9f87b234f5b4b30e3b22b647c68aed0d] For the purposes of paragraph (2)(b)(ii) “**retained enforceable EU right**” means a right that—
+
+- (a) was created or arose by or under the EU Treaties before the time when this paragraph comes into force; and
+- (b) forms part of retained EU law by virtue of section 3 or 4 of the European Union (Withdrawal) Act 2018,
+
+as that right is modified from time to time.
+
+James Brokenshire
+
+Minister of State
+
+Home Office
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision for the conduct of investigations into proposed marriages and civil partnerships referred to the Secretary of State under the Marriage Act 1949 (c. 76) (in England and Wales), the Marriage (Scotland) Act 1977 (c. 15), the Marriage (Northern Ireland) Order 2003 (S.I. 2003/413 NI 3) and Part 1, 3 or 4 of the Civil Partnership Act 2004 (c. 33). Where a proposed marriage or civil partnership is referred to her, the Secretary of State must decide whether or not to investigate whether it is a sham (and serve a notice under section 48 of the Immigration Act 2014 (c. 22) of her decision).
+
+Regulation 3 makes general provision about an investigation and its purpose. Regulation 4 makes provision about interviews with relevant parties, which may form part of the investigation, including how and where they may be conducted. The provision made by regulation 4 is common to all interviews. Regulations 6 to 10 make provision for specific types of interviews, for example the specific provisions that will apply when an interview is conducted in person at a relevant party's home (regulation 6), at Home Office premises outside the United Kingdom (regulation 8) or if a relevant party is detained (regulation 10).
+
+By virtue of regulation 5 a relevant party may be required to make contact with the Secretary of State in the manner and by the date specified with a view to making arrangements for an interview to take place.
+
+Under regulation 11 the Secretary of State may agree to rearrange an interview where the date or time arranged is not convenient. If she does, she may give shorter notice of the rearranged interview.
+
+Regulation 12 concerns the provision of information, evidence or photographs by a relevant party. The Secretary of State can require these to be provided at any time. For example she may notify a relevant party before an interview that they will be required to provide certain information or evidence at an interview. Where evidence is in the form of documents, normally a relevant party will be required to provide the original (or in certain circumstances, a certified copy), but regulation 13 makes specific provision for electronic documents. Here documents such as text messages or emails may instead be shown or forwarded to the Secretary of State.
+
+Regulations 15 to 17 deal with the compliance question (that is to say whether or not each of the relevant parties has complied with the investigation). The compliance question is determined by reference to whether a relevant party has complied with the relevant requirements. Relevant requirements are defined by section 50(11) of the Immigration Act 2014 and include the requirements specified in regulation 14 of these Regulations. Where a relevant party has failed to comply with a relevant requirement, the Secretary of State may give that party notice of that and require him or her to contact her.
+
+Regulation 17 sets out how the Secretary of State must decide the compliance question. For example where a party fails without reasonable excuse to comply with a relevant requirement, the Secretary of State may decide that that party has failed to comply with the investigation.
+
+Regulation 18 sets out what information must, in addition to that required by section 51(1) of the Immigration Act 2014, be included in the section 48 notice.
+
+An impact assessment has not been prepared for these Regulations as no impact on the voluntary or private sectors is foreseen. An impact assessment was prepared in respect of the proposals now forming Part 4 of the Immigration Act 2014 and is available athttps://www.gov.uk/government/publications/immigration-bill-part-4-marriage-and-civil-partnership
+
+## Annotations
+
+[^c22387061]: Marginal citation: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22).
+
+[^c22387071]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^c22387081]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); provision for detention is made by paragraph 16 of Schedule 2 and paragraph 2 of Schedule 3 to that Act. Amendments have been made to those provisions but those amendments are not relevant to these Regulations,
+
+[^c22387091]: Marginal citation: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41); changes have been made to section 62 but they are not relevant to these Regulations.
+
+[^c22387101]: Marginal citation: [2007 c. 30](https://www.legislation.gov.uk/ukpga/2007/30).
+
+[^c22387111]: Marginal citation: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52).
+
+[^c22387121]: Marginal citation: [1989 c. 45](https://www.legislation.gov.uk/ukpga/1989/45).
+
+[^c22387131]: Marginal citation: [1953 c. 18 (NI)](https://www.legislation.gov.uk/apni/1953/18)
+
+[^key-20a1184e215b3767c186b7f3c3015735]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/397/regulation/2/1) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 22(a)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/22/a)
+
+[^c22387141]: Marginal citation: “investigation” is defined by section 50(11) of the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22).
+
+[^c22387151]: Marginal citation: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33): section 82 defines a qualified person by reference to section 84. Relevant changes to section 82 have been made by section 186 of, and paragraphs 9 and 10 of Schedule 18 to, the Legal Services Act 2007 (“**2007 Act**”) (c. 29). Relevant changes to section 84 have been made by section 37 of the [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19) and section 186 of, and paragraphs 9 and 12 of Schedule 18 to, the 2007 Act.
+
+[^key-7da8afa30d4f17ec3250c291a6c20e43]: Textual amendment: Words in [reg. 5(2)(c)](https://www.legislation.gov.uk/uksi/2015/397/regulation/5/2/c) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 22(b)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/22/b)
+
+[^key-0ef392c614052a9d24943bf55492fd95]: Textual amendment: Words in [reg. 13(1)(b)](https://www.legislation.gov.uk/uksi/2015/397/regulation/13/1/b) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 22(c)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/22/c)
+
+[^c22387161]: Marginal citation: “Relevant requirement” is defined in section 50(11) of the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22). That definition is amended by paragraph 3 of Schedule 4 to [S.I. 2015/395](https://www.legislation.gov.uk/uksi/2015/395) and paragraph 3 of Schedule 4 to [S.I. 2015/396](https://www.legislation.gov.uk/uksi/2015/396).
+
+[^c22387171]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); [section 5(6)](https://www.legislation.gov.uk/uksi/2015/397/section/5/6) was amended by section 10 of the [Immigration Act 1988 (c. 14)](https://www.legislation.gov.uk/ukpga/1988/14).
+
+[^c22387181]: Marginal citation: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41)
+
+[^c22387191]: Marginal citation: “Immigration Acts” is defined in Schedule 1 to the [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-2620d5b9ea0734b242b6ca180db436a4]: Textual amendment: Words in [reg. 18(1)(e)](https://www.legislation.gov.uk/uksi/2015/397/regulation/18/1/e) substituted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [43(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/43/2/a)
+
+[^key-c3e8de1adefe1406822433124605dc46]: Textual amendment: Words in [reg. 18(1)(f)](https://www.legislation.gov.uk/uksi/2015/397/regulation/18/1/f) substituted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [43(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/43/2/b)
+
+[^c22387201]: Marginal citation: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33); [section 24(5)](https://www.legislation.gov.uk/uksi/2015/397/section/24/5) defines sham marriage and section 24A defines sham civil partnership. Those definitions have been amended by section 55 of the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22). Specifically section 24(5) was substituted, and subsection (6) inserted, by section 55(1), and section 24A(5) substituted, and subsection (5A) inserted, by section 55(3).
+
+[^c22387211]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); the definition of “entry clearance” was amended by section 39 of, and paragraph 2 of Schedule 4 to, the [British Nationality Act 1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61) and section 10 of, and paragraph 5 of the Schedule to, the [Immigration Act 1988 (c. 14)](https://www.legislation.gov.uk/ukpga/1988/14).
+
+[^key-e2ad24db854c5ecd47dab08f41cd94c7]: Textual amendment: [Reg. 18(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/397/regulation/18/2/b/ii) and word omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [43(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/43/2/c)
+
+[^key-9f87b234f5b4b30e3b22b647c68aed0d]: Textual amendment: [Reg. 18(3)](https://www.legislation.gov.uk/uksi/2015/397/regulation/18/3) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [39(b)](https://www.legislation.gov.uk/uksi/2019/745/regulation/39/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

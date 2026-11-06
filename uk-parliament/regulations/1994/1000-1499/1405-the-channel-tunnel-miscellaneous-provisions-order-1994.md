@@ -1,0 +1,921 @@
+---
+title: The Channel Tunnel (Miscellaneous Provisions) Order 1994
+id: uksi/1994/1405
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '1994-05-24'
+text_date: '2021-12-01'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1994/1405
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1994/1405/data.pdf
+pending_changes: 51
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Channel Tunnel (Miscellaneous Provisions) Order 1994
+
+> **Warning: changes not yet applied to this text (51).** Text as at 2021-12-01. See https://www.legislation.gov.uk/changes/affected/uksi/1994/1405
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1994 No. 1405
+
+CHANNEL TUNNEL
+
+The Channel Tunnel (Miscellaneous Provisions) Order 1994
+
+Made
+
+24th May 1994
+
+Laid before Parliament
+
+2nd June 1994
+
+Coming into force in accordance with article 1
+
+In exercise of the powers conferred on the appropriate Minister by section 11 of the Channel Tunnel Act 1987[^f00001], the Lord Chancellor, the Secretary of State for the Home Department, the Secretary of State for Health, the Minister of Agriculture, Fisheries and Food and the Commissioners of Customs and Excise hereby make the following Order:
+
+## 1. Citation and commencement[^M_X_b4cda6dd-f9af-40a6-f49c-874e74bd5192][^key-0efdcdbb91cc62dc6cd07bfed5355557]
+
+(1) This Order may be cited as the Channel Tunnel (Miscellaneous Provisions) Order 1994 and, except as provided in paragraphs (2) and (3) below, shall come into force on the date on which the Agreement between the Government of the Kingdom of Belgium, the Government of the French Republic and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Rail Traffic between Belgium and the United Kingdom Using the Channel Fixed Link enters into force. That date will be notified in the London, Edinburgh and Belfast Gazettes.
+
+(2) Article 8 shall, to the extent necessary to give effect to those of the amendments specified in Schedule 4 that are mentioned in paragraph (3) below, come into force on 1st July 1994.
+
+(3) The amendments are—
+
+- (a) those specified in paragraphs 6, 8(b), 9, 10 and 12 of Schedule 4, and
+- (b) those specified in paragraph 11 of Schedule 4 except the amendments to paragraphs 1(11)(d) and 3(b) of Schedule 4 to the 1993 Order.
+
+## 2. Interpretation[^key-a5dd50d483e7ca659970b964ef6c7164]
+
+(1) In this Order, except for the purpose of construing the tripartite articles, and in any enactment as applied by it with modifications, any expression for which there is an entry in the first column of Schedule 1 has the meaning given against it in the second column.
+
+(2) In this Order “the authorised purposes” means—
+
+- (a) purposes for which provision is authorised by any of paragraphs (a), (d) and (g), and
+- (b) purposes connected with any matter in relation to or with respect to or for regulating which provision is authorised by any of paragraphs (c), (e), (f) and (h),
+
+of section 11(1) of the Channel Tunnel Act 1987.
+
+(3) In this Order “the tripartite articles” means the provisions set out—
+
+- (a) in Part I of Schedule 2 (being Articles or parts of Articles of the Agreement mentioned in article 1 above), and
+- (b) in Part II of Schedule 2 (being Articles or parts of Articles of the Protocol attached to and forming part of that Agreement);
+- (c)[^key-6b48f7f2187e9dcb0be3540aa1ecc249] in Part III of Schedule 2 (being Articles or parts of Articles of the Protocol attached to and forming part of the Agreement, as applied by the Administrative Arrangement to immigration controls upon persons travelling on international trains making a commercial stop)
+
+and in the tripartite articles the expression “the Fixed Link” shall for the purposes of this Order be taken to have the same meaning as is given to “the tunnel system” by section 1(7) of the Channel Tunnel Act 1987.
+
+## 3. Application of tripartite articles[^key-890650b8182035927c3cb37794de0f24]
+
+(1) The tripartite articles shall have the force of law in the United Kingdom—
+
+- (a) within a control zone, and
+- (b) elsewhere for the authorised purposes only.
+
+(2) Subject to paragraph (4),[^key-23f0af9e526ca8b6408d1cf82017f23b] without prejudice to paragraph (1) officers belonging to the Kingdom of Belgium and officers belonging to the French Republic shall to the extent specified in the tripartite articles have rights and obligations and powers to carry out functions in the United Kingdom.
+
+(3) Subject to paragraph (4),[^key-dbbc627d82381a85d1c215428445033e] for the purpose of giving full effect to Article 17 of the Part II provisions and to Article 17 of the Part III provisions[^key-3479e11539d0626630da622846a570d8] (accommodation, etc., for Belgian authorities) the appropriate Minister may by written notice require any occupier or person concerned with the management of a terminal control point to provide such accommodation, installations and equipment as may be necessary to satisfy requirements determined under Article 16 of the Protocol mentioned in article 2(3)(b) above and under that Article as applied by Article 3 of the Administrative Arrangement (which requires the competent authorities of the Kingdom of Belgium and of the United Kingdom to determine their respective requirements in consultation with one another).
+
+(4)[^key-efcaea22c0569aebdc88e43022cde415] Nothing in this article implies the existence of a control zone in the station of London-Waterloo on British Territory.
+
+## 4. Application of enactments[^key-69f61d3cb4834d8c876672b76ed020c3]
+
+(1) All frontier control enactments shall for the purpose of enabling officers belonging to the United Kingdom to carry out frontier controls extend—
+
+- (a) to France within a control zone, and
+- (b) to Belgium within a control zone.
+
+(1A)[^key-fb3353c6f07904a9ee95437151c09910] The Equality Act 2010[^key-e47708c66dd4a8caa122250781e48a26] shall apply to the carrying out by immigration officers of their functions in a control zone outside the United Kingdom as it applies to the carrying out of their functions within the United Kingdom.
+
+(2)[^key-76045dd2cf1b87e7f94b7742283650de] For the purposes of Article 3 of the UK GDPR and[^key-4c02ef6854bdb3b408609b0e637f9db3] section 207 of the Data Protection Act 2018 (“**the 2018 Act**”), data which is processed in a control zone in Belgium, in connection with the carrying out of frontier controls, by an officer belonging to the United Kingdom is to be treated as processed by a controller established in the United Kingdom in the context of the activities of that establishment (and accordingly the UK GDPR and the 2018 Act apply[^key-0b4a76e8f0bba6beee044cc641cd694c] in respect of such data).
+
+(3) For the purposes of Article 3 of the UK GDPR and[^key-8e40b2eacb1f70aabdf0aef021176f22] section 207 of the 2018 Act, data which is processed in a control zone in the United Kingdom[^key-4f4e08e434f76b77f7c893b3eabf9541], in connection with the carrying out of frontier controls, by an officer belonging to the Kingdom of Belgium is to be treated as processed by a controller established in the Kingdom of Belgium in the context of the activities of that establishment (and accordingly the UK GDPR and the 2018 Act do[^key-748d04816a9d6ec66b1e8b7f1f88b0dd] not apply in respect of such data).
+
+(4)[^key-41853b6494c6a76f162bb39dae2523ee] In this article, “**the UK GDPR**” has the meaning given in section 3(10) of the Data Protection Act 2018.
+
+## 5. Application of criminal law[^key-266fb19982c979221371d9ed140859db]
+
+(1) Any act or omission which—
+
+- (a) takes place outside the United Kingdom in a control zone, and
+- (b) would, if taking place in England, constitute an offence under a frontier control enactment,
+
+shall be treated for the purposes of that enactment as taking place in England.
+
+(1A)[^key-b9021836ae30f66011c57a5d04e09abb] Any act or omission which—
+
+- (a) takes place inside the United Kingdom in a control zone and relates to an officer belonging to the French Republic or the Kingdom of Belgium; and
+- (b) would constitute an offence under a frontier control enactment if it took place in relation to an officer belonging to the United Kingdom,
+
+shall be treated for the purposes of that enactment as if it were an act or omission which had taken place in relation to an officer belonging to the United Kingdom.
+
+(1B) Section 22 of the UK Borders Act 2007 is modified for the purposes of paragraph (1A) so that the reference in subsection (1) of that section to an immigration officer includes a reference to an officer belonging to the French Republic or the Kingdom of Belgium.
+
+(2) Summary proceedings for anything that is by virtue of paragraph (1) or (1A)[^key-c8ae810a069c48c7aeab66f0623bba72] an offence triable summarily or triable either way may be taken, and the offence may for all incidental purposes be treated as having been committed, in the county of Kent or in the area comprising the inner London boroughs[^key-2226d28be6afd5935664b8147ab9bf6d].
+
+(3) Any jurisdiction conferred by virtue of paragraphs (1), (1A) and (2)[^key-21e8743aa5d591af721394a5f532606b] on any court is without prejudice to any jurisdiction exercisable apart from this article by that or any other court.
+
+(4) Where it is proposed to institute proceedings in respect of an alleged offence in any court and a question as to the court’s jurisdiction arises under Article 11(2) of the Part I provisions, it shall be presumed, unless the contrary is proved, that the court has jurisdiction by virtue of that Article.
+
+## 6. Powers of officers[^key-3da2d0affb0b48c64175b0b2a76a66c3]
+
+Schedule 3 (which contains provision as to powers exercisable by constables and other officers) shall have effect.
+
+## 7. Enactments modified[^key-50a32ddee03554ff38772667e0e4a8ae]
+
+(1)[^key-9de6934256fca121178d13061267c287] Without prejudice to the generality of articles 4(1) and 5(1), the enactments specified in paragraph (2)[^key-6ff03b5f552c7ebe1a65f8d02f80e0e9] shall—
+
+- (a) in their application to France and Belgium by virtue of article 4(1), and
+- (b) in their application to the United Kingdom for the authorised purposes,
+
+have effect with modifications the same as those set out in Schedule 4 to the 1993 Order.
+
+(2)[^key-0d19ec973b0432b8ee4cf690ff37406d] The enactments are—
+
+- (a) the Immigration Act 1971;
+- (b) the Public Health (Control of Disease) Act 1984;
+- (c) the Immigration and Asylum Act 1999;
+- (d) the Terrorism Act 2000;
+- (e) the Immigration, Asylum and Nationality Act 2006; and
+- (f) the UK Borders Act 2007.
+
+(3) Nothing in paragraph (1)(b) implies the presence of a control zone in the station of London-Waterloo on British Territory.
+
+## 8. Amendments of instruments[^key-2159b3bc6281a2a4f8746c73aa796280]
+
+The instruments mentioned in Schedule 4 shall have effect with the amendments there specified.
+
+Mackay of Clashfern, C.
+
+19th May 1994
+
+Michael Howard
+
+One of Her Majesty’s Principal Secretaries of State
+
+Home Office
+
+23rd May 1994
+
+Signed by authority of the Secretary of State of Health
+
+Cumberlege
+
+Parliamentary Under Secretary of State
+
+Department of Health
+
+23rd May 1994
+
+Gillian Shephard
+
+Minister of Agriculture, Fisheries and Food
+
+23rd May 1994
+
+Martin Brown
+
+Commissioner of Customs and Excise
+
+24th May 1994
+
+## SCHEDULE 1 — EXPRESSIONS DEFINED[^key-326b96fc8552ba64abd946b8616132c8]
+
+Article 2(1)
+
+| *Expression* | *Meaning* |
+| --- | --- |
+| “Administrative Arrangement”[^key-481640cd6b8fb65dfc29c163dd8bb873] | The Administrative Arrangement made between the Secretary of State for the Home Department of the United Kingdom of Great Britain and Northern Ireland, the Vice Prime Minister, Minister of Home Affairs of the Kingdom of Belgium, and the Minister of the Interior, of Internal Security and Local Freedoms of the French Republic, concerning the exercise of Immigration Controls by British Officials at the Gare du Midi in Brussels and by Belgian Officials at Waterloo International Station in London and Ashford International dated 1<sup>st</sup> October 2004. |
+| “Control zone” | A control zone defined under Article 1(6) of the Part I provisions but excluding the station of London-Waterloo on British territory[^key-216ecc9a98c232f3450cb9e290e48a5f]. |
+| “Frontier controls” | So far as they constitute frontier controls as defined in Article 1(1) of the Part I provisions and are controls in relation to persons or goods, police, immigration, customs, health, veterinary and phytosanitary controls. |
+| “Frontier control enactment” | An Act, or an instrument made under an Act, for the time being in force, which contains provision relating to frontier controls. |
+| “Immigration controls” | The controls carried out by the authorities of the State of arrival to check whether passengers making a journey between Belgium and the United Kingdom are in possession of the necessary travel documents and fulfil the other conditions for entry to its territory. |
+| “International service” | The meaning given in section 13(6) of the Channel Tunnel Act 1987. |
+| “Officers” | Persons responsible for authorising departure from or entry to the State of arrival. |
+| “The 1993 Order” | The Channel Tunnel (International Arrangements) Order 1993[^f00007]. |
+| “The Part I provisions” | The provisions set out in Part I of Schedule 2. |
+| “The Part II provisions” | The provisions set out in Part II of Schedule 2. |
+| “The Part III provisions | The Provisions set out in Part III of Schedule 2. |
+| “Terminal control point” | A place which is an authorised terminal control point for international services for the purposes of sections 11 and 12 of the Channel Tunnel Act 1987. |
+| “Through train” | A train, other than a shuttle train as defined in section 1(9) of the Channel Tunnel Act 1987, which for the purposes of sections 11 and 12 of that Act is engaged on an international service. |
+| “Train manager” | In relation to a through train or shuttle train, the person designated as train manager by the person operating the international service on which the train is engaged. |
+| “The tunnel system” | The meaning given by section 1(7) of the Channel Tunnel Act 1987. |
+
+## SCHEDULE 2 — TRIPARTITE ARTICLES[^key-ac8d34a6aa7f65015405a47fbe0081d0]
+
+Article 2(3)
+
+### PART I — AGREEMENT
+
+#### PART I — General Provisions
+
+##### Article 1 — Definitions
+
+(1) “Frontier controls” means police, immigration, customs, health, veterinary and phytosanitary, consumer protection, and transport controls, as well as any other controls provided for in national or European Community laws and regulations.
+
+(2) “Fixed Link” means the Channel Fixed Link defined in Article 1 of the Treaty done at Canterbury on 12 February 1986.
+
+(3) “Trains” means international trains travelling between Belgian and British territory, using the Fixed Link and passing through French territory.
+
+(4) “Non-stop trains” means international trains travelling between Belgian and British territory, using the Fixed Link and crossing French territory without making a commercial stop, except for technical stops.
+
+(5) “Officers” means persons responsible for policing and frontier controls who are under the command of the persons or authorities designated in accordance with Article 3(2).
+
+(6) “Control Zone” means that part of the territory of the host State and the non-stop trains, within which the officers of the other States are empowered to effect controls. Each control zone shall be defined by mutual agreement between the host State and the State whose officers will be operating in the said zone; however, in the case of non-stop trains, the control zone in French territory shall be determined jointly by the three Governments.
+
+(7) “Host State” means the State in whose territory the controls of the other States are effected.
+
+##### Article 2 — Scope
+
+(1) This Agreement shall apply to rail traffic between the United Kingdom and Belgium travelling via the Fixed Link and passing through French territory.
+
+(3) A Protocol concerning frontier controls and policing on non-stop trains between the United Kingdom and Belgium via the Fixed Link is attached as an annex to this Agreement and shall form an integral part thereof.
+
+#### PART II — Authorities and General Principles of Co-operation
+
+##### Article 3
+
+(2) Each of the Governments shall designate the authorities or persons having charge of the services which in its territory have responsibility for the exercise of frontier controls and the maintenance of law and order.
+
+##### Article 4
+
+On non-stop trains, British officers may exercise frontier controls in Belgian and French territory, and Belgian officers in British and French territory.
+
+##### Article 5
+
+It is agreed that the frontier controls relating to non-stop trains shall in principle be effected under the exclusive responsibility of the British and Belgian authorities.
+
+##### Article 9
+
+The officers of the three States shall be authorised to circulate freely over the whole of the route between London and Brussels for official purposes simply by producing appropriate evidence of their identity and status.
+
+#### PART III — Co-operation in Criminal Justice
+
+##### Article 11
+
+(1) Without prejudice to the provisions of Articles 4 and 14(2) of the Protocol attached as an annex to this Agreement, when an offence is committed on the territory of one of the three States that State shall have jurisdiction.
+
+(2) When it cannot be ascertained where such an offence has been committed, the State of arrival shall have jurisdiction.
+
+##### Article 12
+
+Where an arrest is made for an offence in respect of which one State has jurisdiction under Article 11, that arrest shall not be affected by the fact that its effects continue in the territory of the other States.
+
+##### Article 13
+
+Persons who are found committing, attempting to commit, or just having committed an offence and who are apprehended on the train during the journey shall be handed over as soon as possible to the empowered officers of the State which has jurisdiction under Article 11.
+
+##### Article 14
+
+(1) In the event that a person is found committing, attempting to commit or just having committed on board a train in the territory of a State one of the following offences: homicide, rape, arson, armed robbery, kidnapping and hostage taking, or use of explosives, the train must be stopped in order to enable the competent authorities of that State to take any measures relevant to their investigations and, where appropriate, detain the person suspected of having committed the offence.
+
+(2) If the train cannot be stopped because it is within the Fixed Link or because it is about to leave the territory of the State in which one of the offences referred to in the preceding paragraph has been committed, authorised officers who are present must take all appropriate interim measures to ensure that, when the train arrives, the officers of the State which has jurisdiction under Article 11 are able to interview witnesses, take evidence or receive information relevant to their investigations and, where appropriate, take charge of the person suspected of having committed the offence.
+
+##### Article 15
+
+(1) When a person is arrested in a manner covered by Articles 6, 12, 13 and 14(2) of this Agreement, the arrest shall be notified without delay to the authorities of the State of arrival. The person arrested may be transferred to the territory of the State which has jurisdiction under Article 11.
+
+(2) However, any such transfer shall take place within no more than 24 hours of the notification under the preceding paragraph. Moreover, each State reserves the right not to authorise the transfer of its nationals.
+
+#### PART V — Co-operation Between the Competent Authorities
+
+##### Article 23
+
+(1) Each State shall waive any claim which it may have against the other States for compensation in respect of damage caused to its officers or its property.
+
+(2) The provisions of this Article shall not affect in any way the rights of third parties under the laws of each State.
+
+#### PART VI — Final Clauses
+
+##### Article 24
+
+In addition to the arrangements provided for under Article 20, the procedures for the implementation of this Agreement and its Protocol may, as far as necessary, be the subject of technical or administrative arrangements between the competent authorities of the three States.
+
+### PART II — PROTOCOL
+
+#### Article 1
+
+This Protocol shall apply to non-stop rail traffic between the United Kingdom and Belgium travelling via the Fixed Link and passing through French territory.
+
+#### Article 2
+
+(1) The laws and regulations relating to frontier controls of one State shall be applicable in the control zone situated in the other States and shall be put into effect by the officers of that State in the same way as in their own territory.
+
+(2) The officers of each State shall be subject to the legislation of that State on the protection of individuals with regard to automated processing of personal data when using their automated data files and equipment in the control zone situated in either of the other States.
+
+#### Article 3
+
+(1) The officers of the other States shall, in exercise of their national powers, be permitted in the control zone situated in the host State to detain or arrest persons in accordance with the laws and regulations relating to frontier controls of their own State or persons sought by the authorities of their own State. These officers shall also be permitted to conduct such persons to the territory of their own State.
+
+(2) However, no person may be held for more than 24 hours in the areas reserved for frontier controls in the host State. Any such detention shall be subject to the requirements and procedures laid down by the legislation of the State of the officers who have made the detention or arrest.
+
+#### Article 4
+
+Breaches of the laws and regulations relating to frontier controls of the other States which are detected in the control zone situated in the host State shall be subject to the laws and regulations of those other States, as if the breaches had occurred in the territory of the latter.
+
+#### Article 5
+
+(1) The frontier controls of the State of departure shall normally be effected before those of the State of arrival.
+
+(2) The officers of the State of arrival are not authorised to begin to carry out such controls before the end of the controls of the State of departure. Any form of relinquishment of such controls shall be considered as a control.
+
+(3) The officers of the State of departure may no longer carry out their controls when the officers of the State of arrival have begun their own operations, except with the consent of the competent officers of the State of arrival.
+
+(4) If exceptionally, in the course of the frontier controls, the sequence of operations provided for in paragraph (1) of this Article is modified, the officers of the State of arrival may not proceed to detentions, arrests or seizures until the frontier controls of the State of departure are completed. In such a case, these officers shall escort the persons, vehicles, merchandise, animals or other goods, for which the frontier controls of the State of departure are not yet completed, to the officers of that State. If these latter then wish to proceed to detentions, arrests or seizures, they shall have priority.
+
+#### Article 6
+
+If the State of arrival refuses admission to persons, vehicles, animals or goods, or if persons refuse to submit to the frontier controls of the State of arrival, or send or take back any vehicles, animals or goods which are accompanying them, the authorities of the State of departure may not refuse to accept back such persons, vehicles, animals or goods. However, the authorities of the State of departure may take any measures to deal with them in accordance with the law applicable in that State and in a way which does not impose obligations either on the State of transit or on the State of arrival.
+
+#### Article 7
+
+(2) In an emergency, the local representatives of the authorities concerned may by mutual agreement provisionally bring into effect alterations to the delimitation of the control zones which may prove necessary. Any arrangements so reached shall come into effect immediately.
+
+#### Article 8
+
+Frontier controls on persons for the purpose of safeguarding public health shall be carried out in the control zone situated in the host State by the competent authorities of the State of arrival in conformity with the regulations applicable in that State.
+
+#### Article 9
+
+Where there is information giving rise to suspicion of an infringement, controls may be carried out on animals, animal products, plants, plant products and foodstuffs for human or animal consumption.
+
+The bringing into the State of arrival of pets, which travellers take with them for non-profit purposes may be subject to controls in compliance with the current regulations.
+
+#### Article 10
+
+(1) The controls referred to in Article 9 shall include:
+
+- (a) inspection of certificates or accompanying documents, termed documentary inspection;
+- (b) physical examination, including where necessary the taking of samples;
+- (c) inspection of means of transport.
+
+(2) Such controls may be limited to documentary inspection, while physical examination may be undertaken as considered necessary.
+
+#### Article 11
+
+Veterinary inspection of living animals shall be without prejudice to any subsequent quarantine measures which may be imposed by the importing State.
+
+#### Article 12
+
+Officers of the other States may wear their national uniform or visible distinctive insignia in the host State.
+
+#### Article 13
+
+(1) The authorities of the host State shall grant the same protection and assistance to officers of the other States, in the exercise of their functions, as they grant to their own officers.
+
+(2) The provisions of the criminal law in force in the host State for the protection of officers in the exercise of their functions shall be equally applicable to the punishment of offences committed against officers of the other States in the exercise of their functions.
+
+#### Article 14
+
+(1) Without prejudice to the application of the provisions of Article 23 of the Agreement, claims for compensation for loss, injury or damage caused by or to officers of the other States in the exercise of their functions in the host State shall be subject to the law and jurisdiction of the State to which those officers belong as if the circumstance giving rise to the claim had occurred in that State.
+
+(2) Officers of the other States may not be prosecuted by authorities of the host State for any acts performed in the control zone whilst in the exercise of their functions. In such a case, they shall come under the jurisdiction of their own State as if the act had been committed in that State.
+
+(3) The judicial authorities or police of the host State who take steps to record the complaint and assemble the facts relating thereto shall communicate all the particulars and evidence thereof to the competent authorities of the State to which the accused officer belongs for the purposes of a possible prosecution according to the laws in force in that State.
+
+#### Article 15
+
+(1) Officers of the other States shall be permitted freely to transfer to their own States sums of money levied on behalf of their Governments in the control zone situated in the host State, as well as merchandise and other goods seized there.
+
+(2) They may equally sell such merchandise and other goods in the host State in conformity with the provisions in force in the host State and transfer the proceeds to their own State.
+
+#### Article 17
+
+The authorities of the Kingdom of Belgium and of the United Kingdom shall use their best endeavours to ensure that the authorities of the other Party are able to make use in the host State of the accommodation, installations and equipment necessary for the performance of their functions.
+
+#### Article 18
+
+(1) The officers of the other States are empowered to keep order within the accommodation appointed for their exclusive use in the host State.
+
+(2) The officers of the host State shall not have access to such accommodation, except at the request of the officers of the State concerned or in accordance with the laws of the host State applicable to entry into and searches of private premises.
+
+#### Article 19
+
+All goods which are necessary to enable the officers of the other States to carry out their functions in the host State shall be exempt from all taxes and dues on entry and exit.
+
+#### Article 20
+
+(1) The officers of the other States whilst exercising their functions in the host State shall be authorised to communicate with their national authorities.
+
+### PART III — Articles or parts of Articles of the Protocol attached to and forming part of the Agreement, as applied by the Administrative Arrangement to immigration controls upon passengers travelling on international trains making a commercial stop.[^key-4ec83aa69b799d93b937d2f196d47df8]
+
+#### Article 1
+
+This Protocol shall apply to rail traffic between the United Kingdom and Belgium travelling via the Fixed Link and making a commercial stop in French territory.
+
+#### Article 2
+
+(1) The laws and regulations relating to immigration controls of one State shall be applicable in the control zone situated in the other States and shall be put into effect by the officers of that State in the same way as in their own territory.
+
+(2) The officers of each State shall be subject to the legislation of that State on the protection of individuals with regard to automated processing of personal data when using their automated data files and equipment in the control zone situated in either of the other States.
+
+#### Article 3
+
+(1) The officers of the other States shall, in exercise of their national powers, be permitted in the control zone situated in the host state to detain or arrest persons in accordance with the laws relating to immigration control of their own State. These officers shall also be permitted to conduct such persons to the territory of their own State.
+
+(2) However, no person may be held for more than 24 hours in the areas reserved for immigration controls in the host State. Any such detention shall be subject to the requirements and procedures laid down by the legislation of the State of the officers who have made the detention or arrest.
+
+#### Article 4
+
+Breaches of the laws and regulations relating to immigration controls of the other States which are detected in the control zone situated in the host State shall be subject to the laws and regulations of those other States, as if the breaches had occurred in the territory of the latter.
+
+#### Article 5
+
+(1) The immigration controls of the State of departure shall normally be effected before those of the state of arrival.
+
+(2) The officers of the State of arrival are not authorised to begin to carry out such controls before the end of the controls of the State of departure. Any form of relinquishment of such controls shall be considered as a control.
+
+(3) The officers of the State of departure may no longer carry out their immigration controls when the officers of the State of arrival have begun their own operations, except with the consent of the competent officers of the State of arrival.
+
+(4) If exceptionally, in the course of the immigration controls, the sequence of operations provided for in paragraph (1) of this Article is modified, the officers of the State of arrival may not proceed to detentions, arrests or seizures until the immigration controls of the State of departure are completed. In such a case, these officers shall escort any persons and goods for which the immigration controls of the State of departure are not yet completed, to the officers of that State. If these latter then wish to proceed to detentions, arrests or seizures, they shall have priority.
+
+#### Article 6
+
+If the state of arrival refuses admission to persons or goods or if the persons refuse to submit to the immigration controls of the State of arrival, or send or take back any goods which are accompanying them, the authorities of the State of departure may not refuse to accept back such persons or goods. However, the authorities of the State of departure may take any measures to deal with them in accordance with the law applicable in that State and in a way which does not impose obligations either on the State of transit or on the State of arrival.
+
+#### Article 7
+
+In an emergency, the local representatives of the authorities concerned may by mutual agreement provisionally bring into effect alterations to the delimitation of the control zones which may prove necessary. Any arrangements so reached shall come into effect immediately.
+
+#### Article 8
+
+Immigration controls on persons for the purpose of safeguarding public health shall be carried out in the control zones situated in the host State by the competent authorities of the State of arrival in conformity with the regulations applicable in that State.
+
+#### Article 12
+
+Officers of the other States may wear their national uniform or visible distinctive insignia in the host State.
+
+#### Article 13
+
+(1) The authorities of the host State shall grant the same protection and assistance to officers of the other States, in the exercise of their functions, as they grant to their own officers.
+
+(2) The provisions of the criminal law in force in the host State for the protection of officers in the exercise of their functions shall be equally applicable to the punishment of offences committed against officers of the other States in the exercise of their functions.
+
+#### Article 14
+
+(1) Without prejudice to the application of the provisions of Article 23 of the Agreement, claims for compensation for loss, injury or damage caused by or to officers of the other States in the exercise of their functions in the host State shall be subject to the law and jurisdiction of the State to which those officers belong as if the circumstance giving rise to the claim had occurred there.
+
+(2) Officers of the other States may not be prosecuted by the authorities of the host State for any acts performed in the control zone whilst in the exercise of their functions. In such a case, they shall come under the jurisdiction of their own State as if the act had been committed there.
+
+(3) The judicial authorities or police of the host State who take steps to record the complaint and assemble the facts relating thereto shall communicate all the particulars and evidence thereof to the competent authorities of the State to which the officer belongs for the purposes of a possible prosecution according to the laws in force in that State.
+
+#### Article 17
+
+The authorities of the Kingdom of Belgium and of the United Kingdom shall use their best endeavours to ensure that the authorities of the other party are able to make use in the host State of the accommodation, installations and equipment necessary for the performance of their functions.
+
+#### Article 18
+
+(1) The officers of the other State are empowered to keep order within the accommodation appointed for their exclusive use in the host State.
+
+(2) The officers of the host State shall not have access to such accommodation except at the request of the officers of the State concerned or in accordance with the laws of the host State applicable to entry into and searches of private premises.
+
+#### Article 19
+
+All goods which are necessary to enable the officers of the other State to carry out their functions in the host State shall be exempt from all taxes and duty on entry and exit.
+
+#### Article 20
+
+The officers of the other State whilst exercising their functions in the host State shall be authorised to communicate with their national authorities.
+
+## SCHEDULE 3 — POWERS OF OFFICERS
+
+Article 6
+
+**1.**[^key-22b658a6e97021b7200ee3aef51e81cc] Part I of Schedule 3 to the 1993 Order shall, with the variations set out in paragraphs 2 to 7 below, be taken to apply as if it were contained in this Order.
+
+**2.**[^key-36f3bdfc83782d66a0db7331fc851eec] Omit paragraph 1.
+
+**3.**[^key-afe49e8bda81a9385f2c0993222d31f9] In paragraph 2—
+
+(a) for the words “a control zone in France”, wherever occurring, substitute “a control zone in France or Belgium”;
+
+(b) in sub-paragraph (1)(a) for the words “the 1984 Act” substitute “the Police and Criminal Evidence Act 1984 (in this Schedule referred to as “the 1984 Act”)”; [^key-5f083bf6c00a29075a4e6bbfe9f40215]...
+
+(baa)[^key-a0cb38249846d0aa3a85e347789dbb65] in sub-paragraph (2)(a), omit the words “and where this sub-paragraph applies, the reference in sub-paragraph (1) to a control zone in France shall be construed as including a reference to a supplementary control zone in France,”;
+
+(bab) omit sub-paragraph (3)(b);
+
+(ba)[^key-b32a28260dd4cb82040e0ea684b133e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(bb)[^key-13a3f6fbe619636b1f04eaf3be9b8c66] omit sub-paragraph (3B); and
+
+(c) for sub-paragraphs (4) to (6) substitute—
+
+> (4) Sub-paragraph (5) applies where—
+>
+> - (a) an arrest has been made for an offence of the kind mentioned in Article 12 of the Part I provisions, and
+> - (b) the person arrested enters France or Belgium (“the State of arrival”) while under arrest.
+>
+> (5) If jurisdiction is not asserted by the State of arrival, the person arrested shall be treated as having continued to be under arrest throughout, notwithstanding any intervening transfer of custody to a person other than the person who arrested him, and sections 30 and 41 of the 1984 Act shall apply accordingly.
+
+.
+
+**4.**[^key-62b8277ef6de74a13cbc7ee492a20eab] In paragraph 3—
+
+- (a) in sub-paragraph (1)—
+  - (i) for the words “a control zone in France” substitute “a control zone in France or Belgium”,
+  - (ii) after the words “held in France” insert “or, as the case may be, Belgium”, and
+  - (iii) omit the words after “24 hours”;
+- (b)[^key-0b1eb5e3a935109abbf1a8b5719478ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) omit sub-paragraph (3); and
+- (d)[^key-7d8d218fd1c5e6b19bd6755473c0ac37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-1155a8e1884ace11dea340a5a119807a] In paragraph 4—
+
+- (a) for sub-paragraphs (1) and (2) substitute—
+
+  > (1) Where a constable is satisfied that an arrest made outside the United Kingdom on a through train was one falling within Article 13 or 14 of the Part I provisions (persons found committing, attempting to commit or just having committed an offence) he may arrange for the person arrested to be taken into temporary custody.
+  >
+  > (2) A person taken into temporary custody under sub-paragraph (1)—
+  >
+  > - (a) shall be treated for all purposes as being in lawful custody, and
+  > - (b) may be taken to a police station or such other place as may be appropriate in the circumstances, and shall in that case be treated as being a person in whose case sections 36(7) and (8), 54 to 56 and 58 of the 1984 Act, and in the case of a child or young person section 34(2) to (7), (8) and (9) of the Children and Young Persons Act 1933, apply,
+  >
+  > and arrangements must be made for him to be transferred within 24 hours from the time at which he was taken into custody to the State having jurisdiction by virtue of Article 11(1) of the Part I provisions.
+  >
+  > (2A) Where an arrest has been made for an offence in respect of which the United Kingdom may have jurisdiction as the State of arrival by virtue of Article 11(2) of the Part I provisions the person arrested shall be taken to a police station.
+  >
+  > (2B) The custody officer at the police station to which the person is taken shall consider whether the offence is one in respect of which the United Kingdom has jurisdiction by virtue of Article 11(2) of the Part I provisions and may for that purpose detain the person at the police station for not longer than the permitted period.
+
+  ;
+- (b) in sub-paragraph (3) for the words “48 hours” substitute “24 hours”;
+- (c) for sub-paragraph (5) substitute—
+
+  > (5) Where the custody officer reaches the conclusion that the United Kingdom does not have jurisdiction by virtue of Article 11(2) he shall immediately inform the competent authorities of the State appearing to him to have jurisdiction by virtue of Article 11(1) that he has reached that conclusion and shall arrange for the person to be transferred to that State within the permitted period.
+
+  ; and
+- (d) in sub-paragraph (6)—
+  - (i) for the words from “determines” to “exercised” substitute “reaches the conclusion that the United Kingdom has jurisdiction by virtue of Article 11(2)”, and
+  - (ii) for the word “determination”, wherever occurring, substitute “conclusion”.”.
+
+**6.**[^key-1310b0fa691f24c822c652959f6d2016] In paragraph 5—
+
+- (a) in sub-paragraph (1)—
+  - (i) after the words “the French Republic” insert “or to the Kingdom of Belgium”, and
+  - (ii)[^key-a7869e7f566143cd6aa6b9e826372e41] for the words “the tunnel system or a control zone or supplementary control zone” substitute “a control zone”;
+- (b) in sub-paragraph (2)—
+  - (i) for the word “France” substitute “the State to which he belongs (‘the home State’)”,
+  - (ii) for the words “French authorities” substitute “authorities of the home State”, and
+  - (iii) for the words from “Article 30(2)” to “jurisdiction” substitute “Article 14(2) of the Part II provisions come under the jurisdiction of the home State”;
+- (c) in sub-paragraph (3) for the words “enter France” substitute “leave the United Kingdom”;
+- (d) in sub-paragraph (5) for the words “French authorities” substitute “authorities of the home State”;
+- (e) in sub-paragraph (6) for the words “48 hours” substitute “24 hours”; and
+- (f) in sub-paragraph (8)—
+  - (i) for the words “French jurisdiction” substitute “the jurisdiction of the home State”,
+  - (ii) for the words “Article 30(2)” substitute “Article 14(2)”,
+  - (iii) for the words “French authorities” substitute “authorities of the home State”, and
+  - (iv) for the word “France” substitute “the home State”.
+
+**7.**[^key-b5dcc7df833f7e8a2ee7aa8c2e11bde0] In paragraph 6—
+
+- (a) in sub-paragraph (1) for the words “in the tunnel system or” substitute “or Belgium in”;
+- (b) in sub-paragraph (2)—
+  - (i) for the words “French authorities” substitute “authorities of the State in which the act was performed (‘the State concerned’),”, and
+  - (ii) for the words “Article 30(2) of the international articles” substitute “Article 14(2) of the Part II provisions”;
+- (c) in sub-paragraph (5) for the words “French authorities” substitute “authorities of the State concerned”;
+- (d) in sub-paragraph (6) for the words “48 hours” substitute “24 hours”; and
+- (e) in sub-paragraph (8)—
+  - (i) for the words “French authorities” substitute “authorities of the State concerned”,
+  - (ii) for the words “Article 30(2)” substitute “Article 14(2)”, and
+  - (iii) for the word “France” substitute “the State concerned”.
+
+## SCHEDULE 4 — AMENDMENTS OF INSTRUMENTS
+
+Article 8
+
+### 1. The Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974[^key-b81fc4c4f8c5caddf5fa47666505be67]
+
+Article 2 of the Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974[^f00009] is amended—
+
+- (a) by substituting for paragraph (1A)—
+
+  > (1A) In this Order “control zone” includes a control zone within the meaning of the Channel Tunnel (International Arrangements) Order 1993 [^f00010] and a control zone within the meaning of the Channel Tunnel (Miscellaneous Provisions) Order 1994.
+
+  ; and
+- (b) in paragraph (2) by inserting after the words “in France” the words “or Belgium”.
+
+### 2. The Immigration Appeals (Procedure) Rules 1984[^key-efccf9049450d448cf98067993ce7311]
+
+(1) In this paragraph “the 1984 Rules” means the Immigration Appeals (Procedure) Rules 1984[^f00011].
+
+(2) The 1984 Rules are amended by substituting for rule 2(2A)—
+
+> (2A) In these Rules—
+>
+> - “control zone” includes a control zone within the meaning of the Channel Tunnel (International Arrangements) Order 1993 and a control zone within the meaning of the Channel Tunnel (Miscellaneous Provisions) Order 1994; and “through train” and “shuttle train” have the same meaning as in those Orders.
+
+.
+
+(3) Rule 4(1)(aa) of the 1984 Rules is amended by inserting after the words “in France” the words “or Belgium”.
+
+(4) Rule 6(1) of the 1984 Rules is amended by inserting in the proviso after the words “in France” the words “or Belgium”.
+
+### 3. The Prevention of Terrorism (Temporary Provisions) (Places of Detention) Direction 1989[^key-137684f157972dad5225b6a85c86c2d9]
+
+The Prevention of Terrorism (Temporary Provisions) (Places of Detention) Direction 1989[^f00012] is amended—
+
+- (a) in article 3(1) by substituting for the definition of “control zone” and other expressions derived from the 1993 Order—
+  - “control zone” includes a control zone within the meaning of the Channel Tunnel (International Arrangements) Order 1993 (“the 1993 Order”) and a control zone within the meaning of the Channel Tunnel (Miscellaneous Provisions) Order 1994 (“the 1994 Order”); and “through train” and “shuttle train” have the same meaning as in those Orders;”; and
+- (b) in article 4(2)(bb) by inserting after the words “the 1993 Order” the words “and by the 1994 Order”.
+
+### 4. The Channel Tunnel (Customs and Excise) Order 1990[^key-6e4e9bbdcf482809a71c4024be00b6e9]
+
+In paragraphs 5 to 8 “the 1990 Order” means the Channel Tunnel (Customs and Excise) Order 1990[^f00013].
+
+**5.**[^key-31ce5cc67384e6266f876c533976e808] Article 2 of the 1990 Order (interpretation) is amended—
+
+- (a) in paragraph (3)—
+  - (i) by deleting the expression ““control zone””, and
+  - (ii) by inserting below the expression ““Concessionaires”” the expression ““the international articles””; and
+- (b) by inserting after paragraph (3)—
+
+  > (4) In this Order—
+  >
+  > - “control zone” includes, subject to paragraph (5), a control zone within the meaning of the Channel Tunnel (International Arrangements) Order 1993 (“the 1993 Order”) and a control zone within the meaning of the Channel Tunnel (Miscellaneous Provisions) Order 1994 (“the 1994 Order”); and
+  > - “the Part II provisions” has the same meaning as in the 1994 Order.
+  >
+  > (5) In the first place in which it occurs in article 3(1), in article 5(2)(a), and in the Schedule to this Order—
+  >
+  > - (a) in paragraph 7(b)(iii),
+  > - (b) in the second place in which it occurs in paragraph 17C, and
+  > - (c) in paragraph 22,
+  >   - “control zone” has the same meaning as in the 1993 Order.
+
+  .
+
+**6.**[^key-6a19876b9771c996c6984bcbd4d04e74] Article 5 of the 1990 Order (time of importation, exportation etc.) is amended by substituting for paragraph (2)(a) and (b)—
+
+> - (a) in the case of goods intended to be carried in a shuttle train, when they are taken into a control zone in France within the tunnel system,
+> - (b) in the case of goods carried, while the train constitutes a control zone in France or Belgium, in a through train carrying passengers on a journey intended to end at a place in Great Britain other than London, at the time when officers become authorised under Article 12 of the international Articles or, as the case may be, under Article 5 of the Part II provisions, to begin to carry out controls, and
+> - (c) in any other case, when they cross the frontier.
+
+.
+
+**7.**[^key-d9d8efa4486ceda7119a5754d11bd3d4] Paragraphs A1, 1, 7(b)(ii), 8(a), 17B(a), 18A, 20A and 25 of the Schedule to the 1990 Order are amended by inserting after the word “France” the words “or Belgium”.
+
+**8.**[^key-2f2fbb10839a42f140a781aa52e10f49] Paragraph 17C of the Schedule to the 1990 Order is amended—
+
+- (a) in sub-paragraph (a) by inserting after the word “France”, and
+- (b) by substituting for the words “within the tunnel system”,
+
+the words “or Belgium”.
+
+### 9. The Channel Tunnel (International Arrangements) Order 1993[^key-ebdb28d8f2132238060aff684366ba90]
+
+Article 5 of the 1993 Order is amended—
+
+- (a) by inserting after paragraph (1)—
+
+  > (1A) Summary proceedings for anything that is by virtue of paragraph (1) an offence triable summarily or triable either way may be taken, and the offence may for all incidental purposes be treated as having been committed, in the county of Kent or in the inner London area as defined in section 2(1)(a) of the Justices of the Peace Act 1979[^f00014].
+
+  ; and
+- (b) in paragraph (2) by substituting for the words “paragraph (1)” the words “paragraphs (1) and (1A)”.
+
+**10.**[^key-124b644307da70c23c81576efac8f2ce] Part I of Schedule 3 to the 1993 Order is amended—
+
+- (a) by inserting after paragraph 1(2)—
+
+  > (3) Where a person falls to be treated as mentioned in sub-paragraph (2)(b) section 56 of the 1984 Act shall be taken to apply as if he were detained for a serious arrestable offence.
+
+  ;
+- (b) by substituting for the heading above paragraph 4—
+
+- “**Arrested persons arriving in the United Kingdom**”; and
+  - (a) by substituting for paragraph 4(1)—
+
+    > (1) Where—
+    >
+    > - (a) an arrest falling within Article 39 or 40 of the international articles has been made, and
+    > - (b) the person arrested enters the United Kingdom while under arrest,
+    >
+    > the person arrested shall be taken to a police station.
+
+    .
+
+**11.**[^key-d59eaa5739483c377a18fb972c24d5fe] Schedule 4 to the 1993 Order is amended as shown in the Table below.
+
+TABLE
+
+| Paragraph in Schedule 4 | Enactment modified | Amendments to Schedule 4 |
+| --- | --- | --- |
+|  | *Immigration Act 1971* |  |
+| 1(9)(b)(ii) | Section 27(b)(i) | In the substituted words after “control point” insert “or an international station”. |
+| 1(9)(c)(i) | Section 27(c) | In the substituted words after “control point” insert “or of an international station”. |
+| 1(10)(b) | Section 33(3) | For paragraph 1(10)(b) substitute—<br>- in subsection (3) for the words “ports of entry for purposes of this Act” substitute “international stations for purposes of this Act shall be such railway stations as may from time to time be designated by order of the Secretary of State”. |
+| 1(11)(d) | Schedule 2 paragraph 2 | In the inserted sub-paragraph (1A) after “in France” insert “or Belgium”. |
+| 1(11)(r) | Schedule 2 paragraph 26 | In the substituted paragraph 26(1) after “control point” insert “or an international station”. |
+|  |  | In the substituted paragraph 26(3)(b) after “United Kingdom” insert “or of an international station”. |
+|  | *Public Health (Control of Disease) Act 1984* |  |
+| 2(b) | Section 13 | In the inserted subsection (2A)(b)(ii) after “Channel Tunnel (Customs and Excise) Order 1990” insert “or of a railway station which is an international station for the purposes of the Immigration Act 1971”. |
+|  | *Prevention of Terrorism (Temporary Provisions) Act 1989* |  |
+| 3(b) | Schedule 5 paragraph 2 | In the inserted sub-paragraph (1A) after “in France” insert “or Belgium”. |
+| 3(1) | Schedule 5 paragraph 9 | In the substituted paragraph 9(2)(b) after “United Kingdom” insert “or of a railway station which is an international station for the purposes of the Immigration Act 1971”. |
+
+### 12. The Public Health (International Trains) Regulations 1994[^key-41cda0eaabf34572f086d63e96befbff]
+
+(1) In this paragraph “the 1994 Regulations” means the Public Health (International Trains) Regulations 1994[^f00015].
+
+(2) Regulation 2(1) of the 1994 Regulations is amended—
+
+- (a) by inserting after the definition of “designated customs approved area”—
+
+  > “designated international station” means an international station which has been designated as a control area in accordance with regulation 5(c)(iii);
+
+  ;
+- (b) by inserting after the definition of “international service”—
+
+  > “international station” means a railway station which is an international station for the purposes of the Immigration Act 1971;
+
+  ; and
+- (c) in the definition of “stopping place” by inserting after the words “a designated terminal control point” the words “or a designated international station”.
+
+(3) Regulation 5 of the 1994 Regulations is amended—
+
+- (a) in paragraph (c) by inserting after sub-paragraph (ii)—
+
+  > or
+  >
+  > - (iii) an international station,
+
+  ; and
+- (b) by substituting for the words “or that place” the words “, that place or that international station”.
+
+(4) Regulation 6 of the 1994 Regulations is amended—
+
+- (a) in paragraph (5) by inserting after the word “enforcement” the word “authority”; and
+- (b) in paragraph (7) by substituting for the words from “the enforcement authority” to “paragraph (1)” the words “any enforcement authority notified in accordance with paragraph (2)”.
+
+### 13. The Immigration (Places of Detention) Direction 1994[^key-d0278f5db88354b8ccf43b5c148ec12a]
+
+Article 2 of the Immigration (Places of Detention) Direction 1994 is amended by substituting for the words from ““Control zone”” to “1993” the words ““control zone” includes a control zone within the meaning of the Channel Tunnel (International Arrangements) Order 1993 and a control zone within the meaning of the Channel Tunnel (Miscellaneous Provisions) Order 1994; “tunnel system” has the same meaning as in those Orders”.
+
+(This note is not part of the Order)
+
+This Order gives qualified effect in United Kingdom law, from the date of entry into force of the Agreement, to material provisions (the “tripartite articles” set out in Schedule 2) of the Agreement on rail traffic between Belgium and the United Kingdom mentioned in article 1(1), and its attached Protocol.
+
+The Order also makes a number of amendments to the Channel Tunnel (International Arrangements) Order 1993 and other instruments. Some of these are directly related to the tripartite articles, and have effect only from the date of entry into force of the Agreement (see article 1(1)). To cater for the possibility that the start of Channel Tunnel rail traffic, between the United Kingdom and France or Belgium or both, might be earlier than that date, the amendments mentioned in article 1(3) (which are not exclusively related to the Agreement) are by virtue of article 1(2) given effect from 1st July 1994.
+
+The tripartite articles are by article 3(1) given the force of law within, and for the purposes specified in article 2(2) outside, the control zones accorded to Belgium (“the Belgian control zone”) and to France by the tripartite articles; article 3(2) affirms that Belgian, and French, officers may to the extent specified in the tripartite articles go about their business (essentially, the operation of their national frontier controls as defined in the tripartite articles) in the United Kingdom, and article 3(3) ensures that Belgian officers can be provided with the required facilities. Article 4(1), by extending relevant enactments to the control zones accorded to the United Kingdom in Belgium and France (the “United Kingdom control zones”), performs the corresponding operation for British officers working there. Article 4(2) and (3) alters the application of the Data Protection Act 1984 so that related computer operations carried out by British officers in the United Kingdom control zone in Belgium are, but Belgian computer operations in the Belgian control zone are not, subject to that Act.
+
+Article 5(1) to (3) extends English criminal jurisdiction to conduct in a United Kingdom control zone which, if taking place in England, would constitute an offence under a frontier control enactment as defined in Schedule 1. Article 5(4) creates a presumption as to jurisdiction where it is uncertain in which of the three States an offence not of that kind was committed.
+
+Article 6 gives effect to Schedule 3; article 7 modifies the enactments specified in their application to Belgium and France and in their application to the United Kingdom for the article 2(2) purposes; and article 8 gives effect to Schedule 4.
+
+The definitions in Schedule 1 are of expressions of which some occur both in the body of the Order and in enactments as modified by the Order, some only in the latter (see article2(1)).
+
+The tripartite articles referred to above are set out in Schedule 2.
+
+Part I of Schedule 3 to the Channel Tunnel (International Arrangements) Order 1993 (“the 1993 Order”) contains provision as to the powers of police and other officers, including the extension of powers of arrest and detention, and provision for co-operation with French authorities in criminal justice matters. Schedule 3 to this Order incorporates that Part with specified variations adapting it to the tripartite articles.
+
+Schedule 4 contains amendments to a number of instruments, including the 1993 Order. The amendments in paragraphs 1 to 5, 7 and 8(a), and those made by paragraph 11 to paragraphs 1(11)(d) and 3(b) of Schedule 4 to the 1993 Order, and those in paragraph 13, are directly related to new provision made by this Order in connection with rail traffic between the United Kingdom and Belgium. The amendments in paragraphs 6 and 8(b) combine corrections with new provision; those in paragraphs 9 and 10 remedy deficiencies in the 1993 Order; the remaining amendments in paragraph 11 and those in paragraph 12(1) to (3) provide for the designation of international stations at which static immigration and other controls may be exercised; and those in paragraph 12(4) are corrections.
+
+## Annotations
+
+[^f00001]: Footnote: [1987 c. 53](https://www.legislation.gov.uk/ukpga/1987/53).
+
+[^M_X_b4cda6dd-f9af-40a6-f49c-874e74bd5192]: Editorial: See House of Lords, European Union Select Committee, Scrutiny of three agreements on the Channel Fixed Link in 12th Report of Session 2019-21 (HL Paper 137, 2.10.2020)
+
+[^key-0efdcdbb91cc62dc6cd07bfed5355557]: Commencement: Art. 1 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-a5dd50d483e7ca659970b964ef6c7164]: Commencement: Art. 2 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-6b48f7f2187e9dcb0be3540aa1ecc249]: Textual amendment: [Art. 2(3)(c)](https://www.legislation.gov.uk/uksi/1994/1405/article/2/3/c) inserted (25.10.2004) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2004 (S.I. 2004/2589)](https://www.legislation.gov.uk/uksi/2004/2589), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2589/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2004/2589/article/3/1)
+
+[^key-890650b8182035927c3cb37794de0f24]: Commencement: Art. 3 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-23f0af9e526ca8b6408d1cf82017f23b]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/3/2) inserted (14.11.2007) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/2908)](https://www.legislation.gov.uk/uksi/2007/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2908/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2908/article/2/2)
+
+[^key-dbbc627d82381a85d1c215428445033e]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/3/3) inserted (14.11.2007) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/2908)](https://www.legislation.gov.uk/uksi/2007/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2908/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2908/article/2/2)
+
+[^key-3479e11539d0626630da622846a570d8]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/3/3) inserted (25.10.2004) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2004 (S.I. 2004/2589)](https://www.legislation.gov.uk/uksi/2004/2589), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2589/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/2589/article/3/2)
+
+[^key-efcaea22c0569aebdc88e43022cde415]: Textual amendment: [Art. 3(4)](https://www.legislation.gov.uk/uksi/1994/1405/article/3/4) inserted (14.11.2007) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/2908)](https://www.legislation.gov.uk/uksi/2007/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2908/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2908/article/2/2)
+
+[^key-69f61d3cb4834d8c876672b76ed020c3]: Commencement: Art. 4 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-fb3353c6f07904a9ee95437151c09910]: Textual amendment: [Art. 4(1A)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/1A) inserted (14.11.2007) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/2908)](https://www.legislation.gov.uk/uksi/2007/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2908/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/2908/article/2/3)
+
+[^key-e47708c66dd4a8caa122250781e48a26]: Textual amendment: Words in [art. 4(1A)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/1A) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2020/915/article/9/3)
+
+[^key-76045dd2cf1b87e7f94b7742283650de]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/3) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 233](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/233) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-4c02ef6854bdb3b408609b0e637f9db3]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/2) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 28(2)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/28/2/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0b4a76e8f0bba6beee044cc641cd694c]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/2) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 28(2)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/28/2/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8e40b2eacb1f70aabdf0aef021176f22]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/3) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 28(3)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/28/3/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4f4e08e434f76b77f7c893b3eabf9541]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/3) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2020/915/article/9/5/a)
+
+[^key-748d04816a9d6ec66b1e8b7f1f88b0dd]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/3) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 28(3)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/28/3/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-41853b6494c6a76f162bb39dae2523ee]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/uksi/1994/1405/article/4/4) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 28(4)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/28/4) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-266fb19982c979221371d9ed140859db]: Commencement: Art. 5 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-b9021836ae30f66011c57a5d04e09abb]: Textual amendment: [Art. 5(1A)](https://www.legislation.gov.uk/uksi/1994/1405/article/5/1A)[(1B)](https://www.legislation.gov.uk/uksi/1994/1405/article/5/1B) inserted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/915/article/10/2)
+
+[^key-c8ae810a069c48c7aeab66f0623bba72]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/5/2) inserted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [10(3)(a)](https://www.legislation.gov.uk/uksi/2020/915/article/10/3/a)
+
+[^key-2226d28be6afd5935664b8147ab9bf6d]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/5/2) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [10(3)(b)](https://www.legislation.gov.uk/uksi/2020/915/article/10/3/b)
+
+[^key-21e8743aa5d591af721394a5f532606b]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/5/3) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [10(3)(c)](https://www.legislation.gov.uk/uksi/2020/915/article/10/3/c)
+
+[^key-3da2d0affb0b48c64175b0b2a76a66c3]: Commencement: Art. 6 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-50a32ddee03554ff38772667e0e4a8ae]: Commencement: Art. 7 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-9de6934256fca121178d13061267c287]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/1994/1405/article/7) renumbered as art. 7(1) (14.11.2007) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/2908)](https://www.legislation.gov.uk/uksi/2007/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2908/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2007/2908/article/2/4); and similarly renumbered (2.1.2008) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/3579)](https://www.legislation.gov.uk/uksi/2007/3579), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3579/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2007/3579/article/3/a)
+
+[^key-6ff03b5f552c7ebe1a65f8d02f80e0e9]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/uksi/1994/1405/article/7/1) substituted (2.1.2008) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/3579)](https://www.legislation.gov.uk/uksi/2007/3579), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3579/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2007/3579/article/3/b)
+
+[^key-0d19ec973b0432b8ee4cf690ff37406d]: Textual amendment: [Art. 7(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/1994/1405/article/7/3) substituted for [art. 7(2)](https://www.legislation.gov.uk/uksi/1994/1405/article/7/2) (16.4.2015) by [The Channel Tunnel (International Arrangements) and Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2015 (S.I. 2015/856)](https://www.legislation.gov.uk/uksi/2015/856), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [6](https://www.legislation.gov.uk/uksi/2015/856/article/6)
+
+[^key-2159b3bc6281a2a4f8746c73aa796280]: Commencement: Art. 8 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-326b96fc8552ba64abd946b8616132c8]: Commencement: Sch. 1 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-481640cd6b8fb65dfc29c163dd8bb873]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1994/1405/schedule/1) inserted (25.10.2004) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2004 (S.I. 2004/2589)](https://www.legislation.gov.uk/uksi/2004/2589), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2589/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/2589/article/3/3)
+
+[^key-216ecc9a98c232f3450cb9e290e48a5f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1994/1405/schedule/1) inserted (14.11.2007) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/2908)](https://www.legislation.gov.uk/uksi/2007/2908), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2908/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2007/2908/article/2/5)
+
+[^f00007]: Footnote: [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813).
+
+[^key-ac8d34a6aa7f65015405a47fbe0081d0]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1994/1405/schedule/2) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/1994/1405/article/1)
+
+[^key-4ec83aa69b799d93b937d2f196d47df8]: Textual amendment: Sch. 2 Pt. 3 inserted (25.10.2004) by [The Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2004 (S.I. 2004/2589)](https://www.legislation.gov.uk/uksi/2004/2589), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2589/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2004/2589/article/3/4)
+
+[^key-22b658a6e97021b7200ee3aef51e81cc]: Commencement: Sch. 3 para. 1 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-36f3bdfc83782d66a0db7331fc851eec]: Commencement: Sch. 3 para. 2 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-afe49e8bda81a9385f2c0993222d31f9]: Commencement: Sch. 3 para. 3 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-5f083bf6c00a29075a4e6bbfe9f40215]: Textual amendment: Word in [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/3/b) omitted (16.4.2015) by virtue of [The Channel Tunnel (International Arrangements) and Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2015 (S.I. 2015/856)](https://www.legislation.gov.uk/uksi/2015/856), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [7](https://www.legislation.gov.uk/uksi/2015/856/article/7)
+
+[^key-a0cb38249846d0aa3a85e347789dbb65]: Textual amendment: [Sch. 3 para. 3(baa)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/3/baa)[(bab)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/3/bab) inserted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/3), [3(3)(b)](https://www.legislation.gov.uk/uksi/2021/1196/article/3/3/b)
+
+[^key-b32a28260dd4cb82040e0ea684b133e5]: Textual amendment: [Sch. 3 para. 3(ba)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/3/ba) omitted (1.12.2021) by virtue of [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/3), [3(3)(c)](https://www.legislation.gov.uk/uksi/2021/1196/article/3/3/c)
+
+[^key-13a3f6fbe619636b1f04eaf3be9b8c66]: Textual amendment: [Sch. 3 para. 3(bb)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/3/bb) inserted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/3), [3(3)(d)](https://www.legislation.gov.uk/uksi/2021/1196/article/3/3/d)
+
+[^key-62b8277ef6de74a13cbc7ee492a20eab]: Commencement: Sch. 3 para. 4 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-0b1eb5e3a935109abbf1a8b5719478ed]: Textual amendment: [Sch. 3 para. 4(b)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/4/b) omitted (1.12.2021) by virtue of [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/3), [3(4)(d)](https://www.legislation.gov.uk/uksi/2021/1196/article/3/4/d)
+
+[^key-7d8d218fd1c5e6b19bd6755473c0ac37]: Textual amendment: [Sch. 3 para. 4(d)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/4/d) omitted (1.12.2021) by virtue of [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/3), [3(4)(d)](https://www.legislation.gov.uk/uksi/2021/1196/article/3/4/d)
+
+[^key-1155a8e1884ace11dea340a5a119807a]: Commencement: Sch. 3 para. 5 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-1310b0fa691f24c822c652959f6d2016]: Commencement: Sch. 3 para. 6 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-a7869e7f566143cd6aa6b9e826372e41]: Textual amendment: [Sch. 3 para. 6(a)(ii)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3/paragraph/6/a/ii) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/3), [3(6)(c)](https://www.legislation.gov.uk/uksi/2021/1196/article/3/6/c)
+
+[^key-b5dcc7df833f7e8a2ee7aa8c2e11bde0]: Commencement: Sch. 3 para. 7 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-b81fc4c4f8c5caddf5fa47666505be67]: Commencement: Sch. 4 para. 1 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^f00009]: Footnote: [S.I. 1974/2211](https://www.legislation.gov.uk/uksi/1974/2211), amended by [S.I. 1990/2371](https://www.legislation.gov.uk/uksi/1990/2371), [1993/1813](https://www.legislation.gov.uk/uksi/1993/1813).
+
+[^f00010]: Footnote: [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813).
+
+[^key-efccf9049450d448cf98067993ce7311]: Commencement: Sch. 4 para. 2 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^f00011]: Footnote: [S.I. 1984/2041](https://www.legislation.gov.uk/uksi/1984/2041), amended by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813).
+
+[^key-137684f157972dad5225b6a85c86c2d9]: Commencement: Sch. 4 para. 3 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^f00012]: Footnote: Amended by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813).
+
+[^key-6e4e9bbdcf482809a71c4024be00b6e9]: Commencement: Sch. 4 para. 4 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^f00013]: Footnote: [S.I. 1990/2167](https://www.legislation.gov.uk/uksi/1990/2167), amended by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813).
+
+[^key-31ce5cc67384e6266f876c533976e808]: Commencement: Sch. 4 para. 5 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-6a19876b9771c996c6984bcbd4d04e74]: Commencement: Sch. 4 para. 6 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-d9d8efa4486ceda7119a5754d11bd3d4]: Commencement: Sch. 4 para. 7 comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-2f2fbb10839a42f140a781aa52e10f49]: Commencement: Sch. 4 para. 8 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-ebdb28d8f2132238060aff684366ba90]: Commencement: Sch. 4 para. 9 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^f00014]: Footnote: [1979 c. 55](https://www.legislation.gov.uk/ukpga/1979/55); section 2 was repealed in part by the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), section 102 and Schedule 17.
+
+[^key-124b644307da70c23c81576efac8f2ce]: Commencement: Sch. 4 para. 10 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-d59eaa5739483c377a18fb972c24d5fe]: Commencement: Sch. 4 para. 11 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^key-41cda0eaabf34572f086d63e96befbff]: Commencement: Sch. 4 para. 12 in force for specified purposes at 1.7.1994, see art. 1(2)(3) and otherwise comes into force on the date the Agreement enters into force in accordance with art. 1(1)
+
+[^f00015]: Footnote: [S.I. 1994/311](https://www.legislation.gov.uk/uksi/1994/311).
+
+[^key-d0278f5db88354b8ccf43b5c148ec12a]: Commencement: Sch. 4 para. 13 comes into force on the date the Agreement enters into force in accordance with art. 1(1)

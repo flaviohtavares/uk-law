@@ -1,0 +1,49 @@
+---
+title: Local Government and Housing Act 1989, section 121
+act: Local Government and Housing Act 1989
+section: '121'
+status: revised-with-pending-changes
+text_date: '2026-10-05'
+extent: E+W
+source_url: https://www.legislation.gov.uk/ukpga/1989/42/section/121
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government and Housing Act 1989, section 121
+
+> **Warning: changes not yet applied to this text (36).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/42
+>
+> Extent: England, Wales, Scotland.
+
+## 121. Condition requiring repayment of grant in case of certain disposals whereowner-occupation certificate given.
+
+*Extent: E+W*
+
+**May not be in force at this date. Check the source.**
+
+(1) This section applies where an application for a renovation grant has beenapproved by a local housing authority and the application for the grant wasaccompanied by an owner-occupation certificate.
+
+(2) It is a condition of the grant that, where an owner makes a relevantdisposal (other than an exempt disposal) of the dwelling within the period ofthree years beginning on the certified date, he shall pay to the authority ondemand the amount of the grant, reduced by one-third for each complete yearwhich has elapsed after the certified date and before the disposal.
+
+(3) A condition under subsection (2) above is a local land charge and shall,subject to subsections (5) to (7) and section 125 below, remain in force withrespect to the dwelling for a period of three years from the certified date.
+
+(4) So long as a condition under subsection (2) above remains in force withrespect to a dwelling it is binding on any person who is for the time beingan owner of the dwelling.
+
+(5) In any case where—
+
+- (a) there is a relevant disposal of the dwelling concerned which is an exemptdisposal; or
+- (b) there is a relevant disposal of the dwelling concerned (not being anexempt disposal) for no consideration or for consideration of an amount lessthan that either prescribed, or calculated in accordance with a formulaprescribed, by regulations made by the Secretary of State;
+
+any condition under subsection (2) above shall cease to be in force withrespect to the dwelling.
+
+(6) On satisfaction of the liability arising from a demand under this section,any condition under subsection (2) above shall cease to be in force withrespect to the dwelling in question.
+
+(7) In any case where—
+
+- (a) within the period referred to in subsection (2) above an owner makes arelevant disposal of the dwelling concerned (not being an exempt disposal),and
+- (b) the authority having the right to demand payment from the owner asmentioned in that subsection are satisfied that he is elderly or infirm andis making the disposal with the intention of going to live in shelteredhousing or a residential care home as his only or main residence,
+
+the authority may determine not to make any demand under subsection (2)above and, on the making of such a determination, any condition under thatsubsection shall cease to be in force with respect to the dwelling.
+
+(8) The expressions “**relevant disposal**” and “**exempt disposal**” have the meanings assigned by section 124below.

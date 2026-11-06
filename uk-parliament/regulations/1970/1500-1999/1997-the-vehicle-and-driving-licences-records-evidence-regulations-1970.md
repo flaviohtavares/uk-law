@@ -1,0 +1,119 @@
+---
+title: The Vehicle and Driving Licences Records (Evidence) Regulations 1970
+id: uksi/1970/1997
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1970-12-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/1970/1997
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1970/1997/pdfs/uksi_19701997_en.pdf
+- http://www.legislation.gov.uk/uksi/1970/1997/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Vehicle and Driving Licences Records (Evidence) Regulations 1970
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1970 No. 1997
+
+EVIDENCE
+
+The Vehicle and Driving Licences Records (Evidence) Regulations 1970
+
+Made
+
+21st December 1970
+
+Laid before Parliament
+
+6th January 1971
+
+Coming into Operation
+
+1st February 1971
+
+The Secretary of State for the Environment, in exercise of his powers under section 27(3) of the Vehicle and Driving Licences Act 1969 and of all other enabling powers, hereby makes the following Regulations:—
+
+## 1. Commencement and citation
+
+These Regulations shall come into operation on the 1st February 1971 and may be cited as the Vehicle and Driving Licences Records (Evidence) Regulations 1970.
+
+## 2. Interpretation
+
+(1) In these Regulations, except where the context otherwise requires, the following expressions have the meanings hereby respectively assigned to them:—
+
+- “**the Act**” means the Vehicle and Driving Licences Act 1969;
+- “**the 1962 Act**” means the Vehicles (Excise) Act 1962;
+- “**certificate of competence to drive**” means a certificate issued in pursuance of Regulation 20(1) of the Motor Vehicles (Driving Licences) Regulations 1970[^f00001];
+- “**certificate of temporary exemption**” means a certificate of temporary exemption issued by virtue of section 14(8)(c) of the Road Safety Act 1967, as amended by section 148(3) of the Transport Act 1968;
+- “**driving licence**” means a licence under Part II of the Road Traffic Act 1960 to drive a motor vehicle;
+- “**Ministry plate**” and “**Ministry test date disc**” have the same meanings respectively as they have in the Motor Vehicles (Construction and Use) Regulations 1969[^f00002], as amended[^f00003];
+- “**plating certificate**” and “**goods vehicle test certificate**” have the same meanings respectively as they have in section 9(1) of the Road Safety Act 1967 and “**notification of the refusal of a goods vehicle test certificate**” means a written notification given under section 9(1)(c) of that Act;
+- “**registration book**” means a registration book issued by a council under the Road Vehicles (Registration and Licensing) Regulations 1964[^f00004];
+- “**registration mark**” means a mark assigned to a mechanically propelled vehicle under section 13 of the 1962 Act;
+- “**trade licence**” has the meaning assigned to it under section 12 of the 1962 Act;
+- “**vehicle licence**” means a licence for a mechanically propelled vehicle under the 1962 Act;
+
+(2) Any reference in these Regulations to any enactment shall be construed as a reference to that enactment as amended by any subsequent enactment.
+
+(3) The Interpretation Act 1889 shall apply for the interpretation of these Regulations as it applies for the interpretation of an Act of Parliament.
+
+## 3. Matters prescribed for s. 27(3) of the Act
+
+The following matters are prescribed for the purposes of section 27(3) of the Act—
+
+(1) in connection with the licensing of drivers under Part II of the Road Traffic Act 1960—
+
+- (a) a document being, forming part of, or submitted in connection with, an application for a driving licence;
+- (b) a driving licence;
+- (c) a certificate of competence to drive;
+- (d) the conviction of an offence specified in Part I or Part II of the Schedule 1 to the Road Traffic Act 1962 or of an offence treated as so specified by virtue of section 5 of the Road Safety Act 1967 of any person or any order made by the Court as a result of any such conviction;
+
+(2) in connection with the licensing and registration of mechanically propelled vehicles under the 1962 Act—
+
+- (a) a document being, forming part of, or submitted in connection with, an application for—
+  - (i) a vehicle licence;
+  - (ii) a trade licence;
+  - (iii) a repayment of duty under section 9 of the 1962 Act or the recovery of underpayments or overpayments of duty under section 11 of that Act;
+- (b) a vehicle licence, trade licence, registration book or registration mark;
+- (c) a document containing a declaration and particulars such as are prescribed under the 1962 Act in relation to vehicles exempted from duty under that Act;
+- (d) the conviction of an offence under the 1962 Act of any person;
+
+(3) in connection with the examination of a goods vehicle under regulations under section 9 of the Road Safety Act 1967—
+
+- (a) an application for an examination of a vehicle under the said regulations;
+- (b) a notifiable alteration made to a vehicle and required by the said regulations to be notified to the Secretary of State;
+- (c) a plating certificate, goods vehicle test certificate, notification of the refusal of a goods vehicle test certificate, Ministry plate, Ministry test date disc or certificate of temporary exemption.
+
+Signed by authority of the Secretary of State.
+
+John Peyton
+
+Minister for Transport Industries
+
+Department of the Environment
+
+21st December 1970
+
+EXPLANATORY NOTE
+
+Section 27 of the Vehicle and Driving Licences Act 1969 provides that a statement contained in certain documents duly authenticated and purporting to be inter alia part of the records maintained by the Secretary of State for the Environment or certain local authorities in connection with vehicle and driving licences or by the Secretary of State with respect to vehicles shall be admissible in civil or criminal proceedings as evidence of any fact stated therein, to the same extent as oral evidence of that fact would be admissible. These Regulations prescribe the matters in respect of which evidence may be given in this way.
+
+The matters concerned are those documents and other things (as specified in Regulation 3) relating to the licensing of drivers under Part II of the Road Traffic Act 1960, the licensing and registration of mechanically propelled vehicles under the Vehicles (Excise) Act 1962 and the examination of goods vehicles under section 9 of the Road Safety Act 1967.
+
+## Annotations
+
+[^f00001]: Footnote: (1970 I, p. 727).
+
+[^f00002]: Footnote: (1969 I, p. 829).
+
+[^f00003]: Footnote: The relevant amending instrument is S.I. 1969/1761 (1969 III, p. 5551).
+
+[^f00004]: Footnote: (1964 II, p. 2722).

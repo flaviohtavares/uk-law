@@ -1,0 +1,165 @@
+---
+title: The Social Security Amendment (Capital Disregards and Recovery of Benefits) Regulations 2001
+id: uksi/2001/1118
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-03-21'
+text_date: '2006-03-06'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2001/1118
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2001/1118/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Social Security Amendment (Capital Disregards and Recovery of Benefits) Regulations 2001
+
+> Text as at 2006-03-06.
+
+2001 No. 1118
+
+SOCIAL SECURITY
+
+The Social Security Amendment (Capital Disregards and Recovery of Benefits) Regulations 2001
+
+Made
+
+21st March 2001
+
+Laid before Parliament
+
+22nd March 2001
+
+Coming into force
+
+12th April 2001
+
+The Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 123(1)(a), (d) and (e), 136(5)(b), 137(1), 138(1)(a) and (4) and 175(1), (3) and (4) of the Social Security Contributions and Benefits Act 1992[^c1554145], sections 12(4)(b), 35(1) and 36(1) and (2) of the Jobseekers Act 1995[^c1554146], section 189(4) to (6) of the Social Security Administration Act 1992[^c1554147] and sections 29 and 30(1) of, and paragraph 4 of Schedule 1 to, the Social Security (Recovery of Benefits) Act 1997[^c1554148] and of all other powers enabling him in that behalf, after consultation, in respect of regulation 2(2) of these Regulations, with organisations appearing to him to be representative of the authorities concerned[^c1554149] and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^c1554150], hereby makes the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations shall be cited as the Social Security Amendment (Capital Disregards and Recovery of Benefits) Regulations 2001 and shall come into force on 12th April 2001.
+
+## 2. Capital to be disregarded
+
+(1) There shall be added as paragraph 64 of Schedule 10 to the Income Support (General) Regulations 1987 [^c1554151] and paragraph 57 of Schedule 8 to the Jobseeker’s Allowance Regulations 1996 [^c1554152] (capital to be disregarded) the following paragraph—
+
+> (1) Subject to sub-paragraph (2), the amount of any trust payment made to a claimant or a member of a claimant’s family who is—
+>
+> - (a) a diagnosed person;
+> - (b) the diagnosed person’s partner or the person who was the diagnosed person’s partner at the date of the diagnosed person’s death;
+> - (c) a parent of a diagnosed person, a person acting in the place of the diagnosed person’s parents or a person who was so acting at the date of the diagnosed person’s death; or
+> - (d) a member of the diagnosed person’s family (other than his partner) or a person who was a member of the diagnosed person’s family (other than his partner) at the date of the diagnosed person’s death.
+>
+> (2) Where a trust payment is made to—
+>
+> - (a) a person referred to in sub-paragraph (1)(a) or (b), that sub-paragraph shall apply for the period beginning on the date on which the trust payment is made and ending on the date on which that person dies;
+> - (b) a person referred to in sub-paragraph (1)(c), that sub-paragraph shall apply for the period beginning on the date on which the trust payment is made and ending two years after that date;
+> - (c) a person referred to in sub-paragraph (1)(d), that sub-paragraph shall apply for the period beginning on the date on which the trust payment is made and ending—
+>   - (i) two years after that date; or
+>   - (ii) on the day before the day on which that person—
+>     - (aa) ceases receiving full-time education; or
+>     - (bb) attains the age of 19,
+>
+>     whichever is the latest.
+>
+> (3) Subject to sub-paragraph (4), the amount of any payment by a person to whom a trust payment has been made, or of any payment out of the estate of a person to whom a trust payment has been made, which is made to a claimant or a member of a claimant’s family who is—
+>
+> - (a) the diagnosed person’s partner or the person who was the diagnosed person’s partner at the date of the diagnosed person’s death;
+> - (b) a parent of a diagnosed person, a person acting in the place of the diagnosed person’s parents or a person who was so acting at the date of the diagnosed person’s death; or
+> - (c) a member of the diagnosed person’s family (other than his partner) or a person who was a member of the diagnosed person’s family (other than his partner) at the date of the diagnosed person’s death,
+>
+> but only to the extent that such payments do not exceed the total amount of any trust payments made to that person.
+>
+> (4) Where a payment as referred to in sub-paragraph (3) is made to—
+>
+> - (a) a person referred to in sub-paragraph (3)(a), that sub-paragraph shall apply for the period beginning on the date on which that payment is made and ending on the date on which that person dies;
+> - (b) a person referred to in sub-paragraph (3)(b), that sub-paragraph shall apply for the period beginning on the date on which that payment is made and ending two years after that date;
+> - (c) a person referred to in sub-paragraph (3)(c), that sub-paragraph shall apply for the period beginning on the date on which that payment is made and ending—
+>   - (i) two years after that date; or
+>   - (ii) on the day before the day on which that person—
+>     - (aa) ceases receiving full-time education; or
+>     - (bb) attains the age of 19,
+>
+>     whichever is the latest.
+>
+> (5) In this paragraph, a reference to a person—
+>
+> - (a) being the diagnosed person’s partner;
+> - (b) being a member of the diagnosed person’s family; or
+> - (c) acting in the place of the diagnosed person’s parents,
+>
+> at the date of the diagnosed person’s death shall include a person who would have been such a person or a person who would have been so acting, but for the diagnosed person being in residential accommodation, a residential care home or a nursing home on that date.
+>
+> (6) In this paragraph—
+>
+> “diagnosed person" means a person who has been diagnosed as suffering from, or who, after his death, has been diagnosed as having suffered from, variant Creutzfeldt-Jakob disease;
+>
+> “relevant trust" means a trust established out of funds provided by the Secretary of State in respect of persons who suffered, or who are suffering, from variant Creutzfeldt-Jakob disease for the benefit of persons eligible for payments in accordance with its provisions;
+>
+> “trust payment" means a payment under a relevant trust.
+
+.
+
+(2)[^key-fa73c45ff59b9263d965ebb833ced2a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations 1987[^key-1d5b5a2cfd8a47217d9d93794ac5c8d6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Social Security (Recovery of Benefits) Regulations 1997
+
+In regulation 2(1) of the Social Security (Recovery of Benefits) Regulations 1997 [^c1554156] (exempted trusts and payments), after sub-paragraph (d) there shall be added the following sub-paragraphs—
+
+> - (e) a trust established out of funds provided by the Secretary of State in respect of persons who suffered, or who are suffering, from variant Creutzfeldt-Jakob disease for the benefit of persons eligible for interim payments in accordance with its provisions;
+> - (f) a trust established out of funds provided by the Secretary of State in respect of persons who suffered, or who are suffering, from variant Creutzfeldt-Jakob disease for the benefit of persons eligible for payments, other than interim payments, in accordance with its provisions
+
+.
+
+Signed by authority of the Secretary of State for Social Security.
+
+Hugh Bayley
+
+Parliamentary Under-Secretary of State,
+
+Department of Social Security
+
+*(This note is not part of the Regulations)*
+
+These Regulations amend the Council Tax Benefit (General) Regulations 1992 (S.I. 1992/1814), the Housing Benefit (General) Regulations 1987 (S.I. 1987/1971), the Income Support (General) Regulations 1987 (S.I. 1987/1967), the Jobseeker’s Allowance Regulations 1996 (S.I. 1996/207), the Social Fund Maternity and Funeral Expenses (General) Regulations 1987 (S.I. 1987/481) and the Social Security (Recovery of Benefits) Regulations 1997 (S.I. 1997/2205).
+
+In particular, regulation 2 provides that payments under a trust established out of funds provided by the Secretary of State in respect of persons who suffered, or who are suffering, from variant Creutzfeldt-Jakob disease which are made to certain persons and payments made by, or out of the estate of, persons receiving such payments which are made to certain persons, shall be disregarded in council tax benefit, housing benefit, income support and jobseeker’s allowance. That regulation also prescribes the extent of the disregard and the period in respect of which the disregard is to apply.
+
+Regulation 3 provides that any payment from such a trust shall be disregarded for the purpose of any deduction to be made from a social fund funeral payment.
+
+Regulation 4 amends regulation 2 of the Social Security (Recovery of Benefits) Regulations 1997 by adding to the list of trusts exempted from the scope of the Social Security (Recovery of Benefits) Act 1997 (c.27), such trusts as are established out of funds provided by the Secretary of State for the relief of persons who suffered, or who are suffering, from variant Creutzfeldt-Jakob disease.
+
+These Regulations do not impose any charge on business.
+
+## Annotations
+
+[^c1554145]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4); section 123(1)(d) was inserted and section 137 amended, with respect to council tax benefit, by Schedule 9 to the [Local Government Finance Act 1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14). Sections 137(1) and 138(4) are interpretation provisions and are cited because of the meaning ascribed to the word “prescribed".
+
+[^c1554146]: Marginal citation: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18); section 35(1) is an interpretation provision and is cited because of the meaning ascribed to the words “prescribed" and “regulations".
+
+[^c1554147]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5); section 189(4) to (6) is applied by section 30(4) of the [Social Security (Recovery of Benefits) Act 1997 (c.27)](https://www.legislation.gov.uk/ukpga/1997/27).
+
+[^c1554148]: Marginal citation: Section 29 is cited because of the meaning ascribed to the words “prescribed" and “regulations".
+
+[^c1554149]: Marginal citation: *See* section 176(1) of the Social Security Administration Act 1992.
+
+[^c1554150]: Marginal citation: *See* sections 170 and 173(1)(b) of the Social Security Administration Act 1992; paragraph 67 of Schedule 2 to the Jobseekers Act 1995 and paragraph 8(a) of Schedule 3 to the Social Security (Recovery of Benefits) Act 1997 added those Acts to the list of “relevant enactments" in respect of which regulations must normally be referred to the Committee.
+
+[^c1554151]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); the preceding paragraph was inserted by [S.I. 2001/859](https://www.legislation.gov.uk/uksi/2001/859).
+
+[^c1554152]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207); the preceding paragraph was inserted by [S.I. 2001/22](https://www.legislation.gov.uk/uksi/2001/22).
+
+[^key-fa73c45ff59b9263d965ebb833ced2a3]: Textual amendment: Reg. 2(2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+
+[^key-1d5b5a2cfd8a47217d9d93794ac5c8d6]: Textual amendment: Reg. 3 revoked (5.12.2005) by [The Social Fund Maternity and Funeral Expenses (General) Regulations 2005 (S.I. 2005/3061)](https://www.legislation.gov.uk/uksi/2005/3061), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3061/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3061/schedule)
+
+[^c1554156]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2001/1118/section/I) 1997/2205 to which there are amendments which are not relevant to these Regulations.

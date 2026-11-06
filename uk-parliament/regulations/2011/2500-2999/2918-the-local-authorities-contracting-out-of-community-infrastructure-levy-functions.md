@@ -1,0 +1,190 @@
+---
+title: The Local Authorities (Contracting Out of Community Infrastructure Levy Functions) Order 2011
+id: uksi/2011/2918
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-12-06'
+text_date: '2019-09-01'
+extent: E+W
+source_url: https://www.legislation.gov.uk/uksi/2011/2918
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2011/2918/pdfs/uksiem_20112918_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2918/pdfs/uksi_20112918_en.pdf
+- http://www.legislation.gov.uk/uksi/2011/2918/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Authorities (Contracting Out of Community Infrastructure Levy Functions) Order 2011
+
+> Text as at 2019-09-01.
+>
+> Extent: England, Wales.
+
+*Extent: E+W*
+
+2011 No. 2918
+
+Contracting Out, England And Wales
+
+The Local Authorities (Contracting Out of Community Infrastructure Levy Functions) Order 2011
+
+Made
+
+6th December 2011
+
+Coming into force in accordance with Article 1(1)
+
+The Secretary of State, in exercise of the powers conferred by sections 70 and 77(1) of, and paragraph 3 of Schedule 16 to, the Deregulation and Contracting Out Act 1994 [^f00001], after consultation with the representatives of local government appearing to him to be appropriate, makes the following Order, a draft of which has been laid before and approved by resolution of each House of Parliament:
+
+## 1. Citation, commencement and interpretation[^key-1c258ec17d4c296ab54608ca1ec4beda]
+
+(1) This Order may be cited as the Local Authorities (Contracting Out of Community Infrastructure Levy Functions) Order 2011 and shall come into force on the day after the day on which it is made.
+
+(2) In this Order —
+
+- “the 2008 Act” means the Planning Act 2008 [^f00002];
+- “charging order” means an order made under regulation 103 of the Community Infrastructure Levy Regulations 2010 [^f00003];
+- “CIL” means the Community Infrastructure Levy, levied under Part 11 of the 2008 Act;
+- “CIL authority” means any authority with functions conferred by or under Part 11 of the 2008 Act;
+- “CIL Regulations” means regulations made under Part 11 of the 2008 Act;
+- “CIL stop notice” means a notice served under regulation 90(2) of the Community Infrastructure Levy Regulations 2010;
+- “contractor” means a person to whom an authorisation is given by virtue of this Order, and includes the employees of that person;
+- “debtor”, except in article 9, means a person against whom a liability order has been made; and
+- “liability order” means an order under regulation 97 of the Community Infrastructure Levy Regulations 2010.
+
+## PART 1 — Contracting out
+
+### 2. Functions of CIL authorities[^key-5eeb413357b10aa1f0bf5c2e4428264c]
+
+Subject to article 3 and subject to the fulfilment of the conditions in Part 2, any functions of a CIL authority conferred by or under Part 11 of the 2008 Act may be exercised by such contractor as may be authorised to exercise them, and to the extent so authorised, by the CIL authority whose functions they are.
+
+### 3. Excluded functions[^key-a1e493db556832b6ab73ed4baaf6ad40]
+
+The following functions in relation to CIL cannot be exercised by a contractor—
+
+- (a) the approval of the declaration to be submitted with the charging schedule under section 212(4) of the 2008 Act;
+- (b) the approval of a charging schedule under section 213 of the 2008 Act;
+- (c) the determination that a charging schedule is to cease to have effect under section 214(3) of the 2008 Act; or
+- (d) the application for the issue of a warrant of commitment against any debtor.
+
+## PART 2 — Conditions attaching to the exercise of functions
+
+### 4. Agreement as to payments etc[^key-1325deec82b08e3c435fe9e03b01bf71]
+
+In relation to the function of entering into an agreement with any person as to the manner of payment of any amount, or any other matter, the contractor shall ensure that the agreement is entered into in the name of the CIL authority.
+
+### 5. Notices and other documents[^key-d226145c62839be5a98c0f3147b225d7]
+
+ In relation to the function of serving any notice, or any request or other document, the contractor shall ensure that the document is served in the name of the CIL authority.
+
+### 6. Enforcement[^key-7d19448c3de80a7e02c41be59eeb81ad]
+
+In relation to the function of taking steps by way of attachment of earnings, attachment of allowances, distress *(Extent: E.)* *(affected by repeal, see note)*[^key-6911a712483166deb47a1cb0f51ed42c] taking control of goods *(Extent: E.)*, bankruptcy, winding up, CIL stop notice, charging order or liability order, the contractor shall ensure that –
+
+- (a) the steps are taken in the name of the CIL authority;
+- (b) any instruction from the CIL authority in relation to any debtor to take no (or no further) steps is immediately complied with;
+- (c) any intention to take steps to levy any amount of distress and sale of goods *(Extent: E.)* *(affected by repeal, see note)*[^key-f485166faec7ce02c6094a1b403c859f] to take control of goods *(Extent: E.)* of any person is immediately notified in writing to the CIL authority; and
+- (d) on the giving of any such instruction or receipt of any such amount, any goods of the debtor which have already been seized are not sold and are made available for collection by the debtor.
+
+### 7. Information[^key-4cf696477072fd77445c21b5f5438e09]
+
+In relation to any function which a contractor is authorised to exercise, the contractor –
+
+- (a) shall take all necessary steps to ensure that the contractor holds lawfully at all times all information obtained, whether from the CIL authority or otherwise, in the course of exercising the function;
+- (b) subject to the provisions of Schedule 15 to the Deregulation and Contracting Out Act 1994 (restrictions on disclosure of information), shall use that information only for the purpose of lawfully exercising that function; and
+- (c) shall immediately comply with any written request made by the CIL authority for the supply of any information, including copies of any records made or held by the contractor, relating to the exercise of that function.
+
+### 8. Assignment and sub-contracting[^key-3f0207ea3083a0cb2d80bc9b920b22af]
+
+A contractor shall not make any arrangement with another person for the exercise, whether in whole or in part, by that person of any function which the contractor has been authorised to exercise by this Order, unless that person has also been authorised by the CIL authority concerned to exercise that function.
+
+## PART 3 — Miscellaneous provisions
+
+### 9. Warrants of commitment[^key-2beaf6127541651a6e1dc89b025083ca]
+
+(1) In this article—
+
+- (a) “debtor” means any person against whom a CIL authority proposes to apply for the issue of a warrant of commitment; and
+- (b) “relevant functions” means the functions of—
+  - (i) giving any notification by virtue of which any part of the amount payable under a liability order would, if paid, fall to be repaid or credited against any subsequent liability of the debtor; and
+  - (ii) making calculations and taking other steps to determine a person’s liability for the payment of any amount by reference to which such a notification falls to be prepared.
+
+(2) Where a CIL authority has authorised the exercise of relevant functions by a contractor, the authority shall, before applying for the issue of a warrant of commitment against any debtor, notify the contractor in writing—
+
+- (a) that it proposes to make such an application; and
+- (b) the name of the debtor concerned.
+
+(3) Where an authority gives a notice under paragraph (2), the relevant functions falling to be exercised in relation to the debtor named in the notice shall cease to be exercisable by the contractor until the contractor is notified by the authority in writing that no further steps are to be taken as regards the recovery of the amount payable under the liability order made against the debtor, or that the debtor, if committed to prison, has been released.
+
+### 10. Appearance of authority in legal proceedings[^key-11c3e62a3f20adcd409dd76d25f40070]
+
+Where a contractor is authorised by virtue of this Order to exercise the function of applying to a magistrates’ court for a liability order or taking steps to levy any amount by distress and sale of the goods of any person, section 223 of the Local Government Act 1972[^f00004] (appearance of local authorities in legal proceedings) shall have effect in relation to—
+
+- (a) the hearing of an application for a liability order, and
+- (b) an appeal brought by any person in connection with the distress,
+
+as if the contractor were an officer of the authority.
+
+Signed by authority of the Secretary of State for Communities and Local Government
+
+Bob Neill
+
+Parliamentary Under Secretary of State
+
+Department for Communities and Local Government
+
+6th December 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Part 11 of the Planning Act [2008 (c29)](https://www.legislation.gov.uk/ukpga/2008/29) provides for the imposition of a charge, known as the Community Infrastructure Levy, to ensure that costs incurred in providing infrastructure to support the development of an area can be funded (wholly or partly) by owners or developers of land.
+
+This Order makes provision to enable a CIL authority in England and Wales to authorise another person, or that person’s employees, (a “contractor”) to exercise functions relating to the setting, charging, collection, enforcement and spending of CIL.
+
+A CIL authority can be either a charging authority or a collecting authority. A local planning authority is the CIL charging authority for its area.
+
+The Order sets out which functions may, and those which may not, be contracted out (articles 2 and 3). It prescribes conditions which attach to the exercise of contracted out functions (articles 4 to 8) and it provides for cases where the authority applies for a warrant of commitment against a debtor (article 9) and where legal proceedings are instigated by a contractor (article 10).
+
+An impact assessment has not been produced as no additional impact on the costs to business, the public sector, third sector organisations, regulators or consumers to that set out in the final impact assessment on the Community Infrastructure Levy is foreseen. That final impact assessment was produced in February 2010 to accompany the Community Infrastructure Levy Regulations 2010 and can be found at:
+
+http://www.communities.gov.uk/publications/planningandbuilding/infrastructurelevyfinal
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40). Section 71(3) (functions excluded from sections 69 and 70) was amended by section 224(3) of the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29). Section 70 (1ZA) was inserted by section 239(1)(b) of the Local Government and Public Involvement in Health Act 2007 (c..28).
+
+[^key-1c258ec17d4c296ab54608ca1ec4beda]: Commencement: Art. 1 in force at 7.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2918/article/1/1)
+
+[^f00002]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
+
+[^f00003]: Footnote: [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948) to which there are amendments not relevant to this instrument
+
+[^key-5eeb413357b10aa1f0bf5c2e4428264c]: Commencement: Art. 2 in force at 7.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2918/article/1/1)
+
+[^key-a1e493db556832b6ab73ed4baaf6ad40]: Commencement: Art. 3 in force at 7.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2918/article/1/1)
+
+[^key-1325deec82b08e3c435fe9e03b01bf71]: Commencement: Art. 4 in force at 7.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2918/article/1/1)
+
+[^key-d226145c62839be5a98c0f3147b225d7]: Commencement: Art. 5 in force at 7.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2918/article/1/1)
+
+[^key-7d19448c3de80a7e02c41be59eeb81ad]: Commencement: Art. 6 in force at 7.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2918/article/1/1)
+
+[^key-6911a712483166deb47a1cb0f51ed42c]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2011/2918/article/6) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [12(1)(a)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/12/1/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/4))
+
+[^key-f485166faec7ce02c6094a1b403c859f]: Textual amendment: Words in [art. 6(c)](https://www.legislation.gov.uk/uksi/2011/2918/article/6/c) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [12(1)(b)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/12/1/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/4))
+
+[^key-4cf696477072fd77445c21b5f5438e09]: Commencement: Art. 7 in force at 7.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2918/article/1/1)
+
+[^key-3f0207ea3083a0cb2d80bc9b920b22af]: Commencement: Art. 8 in force at 7.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2918/article/1/1)
+
+[^key-2beaf6127541651a6e1dc89b025083ca]: Commencement: Art. 9 in force at 7.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2918/article/1/1)
+
+[^key-11c3e62a3f20adcd409dd76d25f40070]: Commencement: Art. 10 in force at 7.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2918/article/1/1)
+
+[^f00004]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70). Relevant amendments to section 223(1) were made by section 89 of the Solicitors Act [1974 (c.47)](https://www.legislation.gov.uk/ukpga/1974/47).

@@ -1,0 +1,127 @@
+---
+title: The Alternative Finance Arrangements (Amendment) Order 2009
+id: uksi/2009/2568
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2009-09-23'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2009/2568
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2009/2568/pdfs/uksiem_20092568_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2568/pdfs/uksi_20092568_en.pdf
+- http://www.legislation.gov.uk/uksi/2009/2568/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Alternative Finance Arrangements (Amendment) Order 2009
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2009 No. 2568
+
+Income Tax
+
+Corporation Tax
+
+The Alternative Finance Arrangements (Amendment) Order 2009
+
+Made
+
+23rd September 2009
+
+Laid before the House of Commons
+
+24th September 2009
+
+Coming into force
+
+15th October 2009
+
+The Treasury make the following Order in exercise of powers conferred by section 98(1) and (1A)(a) of the Finance Act 2006[^f00001] and section 521(1) and (2)(a) of the Corporation Tax Act 2009[^f00002].
+
+## 1. Citation, commencement and effect
+
+(1) This Order may be cited as the Alternative Finance Arrangements (Amendment) Order 2009.
+
+(2) This Order shall come into force on 15th October 2009.
+
+(3) This Order shall have effect in relation to arrangements entered into on or after 15th October 2009.
+
+## 2. Amendment of section 46(2) of the Finance Act 2005
+
+(1) Chapter 5 of Part 2 of the Finance Act 2005[^f00003] is amended as follows.
+
+(2) In section 46(2) (alternative finance arrangements)—
+
+- (a) in paragraph (da)[^f00004] for “or 47A” substitute “, 47A or 49A”,
+- (b) omit “or” at the end of that paragraph, and
+- (c) after paragraph (e) insert—
+
+  > - (f) an insurance company as defined in section 431(2) of ICTA, or
+  > - (g) a person who is authorised in a jurisdiction outside the United Kingdom to carry on a business which consists of effecting or carrying out contracts of insurance or substantially similar business but not an insurance special purpose vehicle as defined in section 431(2) of ICTA.
+
+  .
+
+(3) In section 49A(1) (alternative finance arrangements: profit share agency) for paragraph (a) substitute—
+
+> - (a) a person (“the principal”) appoints an agent,
+> - (ab) one or both of the principal and agent is a financial institution,
+
+.
+
+## 3. Amendment of Chapter 6 of Part 6 of the Corporation Tax Act 2009
+
+(1) Chapter 6 of Part 6 of the Corporation Tax Act 2009 is amended as follows.
+
+(2) In section 502(1) (meaning of “financial institution”)—
+
+- (a) in paragraph (e) for “or diminishing shared ownership arrangements” substitute “, diminishing shared ownership arrangements or profit share agency arrangements”,
+- (b) omit “or” at the end of that paragraph, and
+- (c) after paragraph (f) insert—
+
+  > - (g) an insurance company, as defined by section 431(2) of ICTA, or
+  > - (h) a person who is authorised in a jurisdiction outside the United Kingdom to carry on a business which consists of effecting or carrying out contracts of insurance or substantially similar business but not an insurance special purpose vehicle as defined in section 431(2) of ICTA.
+
+  .
+
+(3) In section 506(1) (profit share agency arrangements) for paragraph (a) substitute—
+
+> - (a) a person (“the principal”) appoints an agent,
+> - (ab) one or both of the principal and agent is a financial institution,
+
+.
+
+Bob Blizzard
+
+Steve McCabe
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+23rd September 2009
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends Chapter 5 of Part 2 of the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7) and Chapter 6 of Part 6 of the Corporation Tax Act [2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4). These provisions deal with alternative finance arrangements in the income tax and corporation tax codes respectively. Where certain conditions apply, these provisions allow for amounts paid or received under Shari’a-compliant financial arrangements, which do not involve interest, to be treated as interest for income tax purposes or as loan relationship debits and credits for corporation tax purposes.
+
+Article 2 introduces four amendments to Chapter 5 of Part 2 of the Finance Act 2005. Article 2(2) amends section 46 (alternative finance arrangements), which sets out the definition of “financial institution”, in three ways. First, a new section 46(2)(da) is substituted which extends the categories of bond-issuers to include profit share agency arrangements under section 49A (alternative finance arrangements: profit share agency). Secondly, a new section 46(2)(f) adds an insurance company as defined by section 431(2) (interpretative provisions relating to insurance companies) of the Income and Corporation Taxes Act [1988 (c. 1)](https://www.legislation.gov.uk/ukpga/1988/1) (“ICTA”). Thirdly, a new section 46(2)(g) adds a person authorised in a jurisdiction outside the United Kingdom to carry on a business which consists of effecting or carrying out contracts of insurance or substantially similar business, but not an insurance special purpose vehicle. Article 2(3) amends section 49A(1) so as to enable either a principal or an agent in a profit share agency arrangement to be a financial institution.
+
+Article 3 introduces similar amendments to Chapter 6 of Part 6 of the Corporation Tax Act 2009. Article 3(2) amends section 502 (meaning of “financial institution”) in three ways. First, a new section 502(1)(e) is substituted which extends the categories of bond-issuers to include profit share agency arrangements under section 506 (profit share agency arrangements). Secondly, a new section 502(1)(g) adds an insurance company as defined by section 431(2) of ICTA. Thirdly, a new section 502(1)(h) adds a person authorised in a jurisdiction outside the United Kingdom to carry on a business which consists of effecting or carrying out contracts of insurance or substantially similar business, but not an insurance special purpose vehicle. Article 3(3) amends section 506(1) so as to enable either a principal or an agent in a profit share agency arrangement to be a financial institution.
+
+A full and final Impact Assessment has not been produced for this instrument as a negligible impact on the private or voluntary sectors is foreseen. Full impact assessments for the legislation which this instrument amends can be located at: http://www.hmrc.gov.uk/ria/sharia.pdf and http://hmrc.gov.uk/ria/ria-alt-finance.pdf.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 c. 25](https://www.legislation.gov.uk/ukpga/2006/25); section 98(1) was amended, and section 98(1A) inserted, by section 156 of the [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9).
+
+[^f00002]: Footnote: [2009 c. 4](https://www.legislation.gov.uk/ukpga/2009/4).
+
+[^f00003]: Footnote: [2005 c. 7](https://www.legislation.gov.uk/ukpga/2005/7).
+
+[^f00004]: Footnote: Section 46(2)(da) was inserted by section 53(3)(b) of the [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).

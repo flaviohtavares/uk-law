@@ -1,0 +1,97 @@
+---
+title: The Customs Tariff (Establishment) (EU Exit) (Amendment) (No. 2) Regulations 2021
+id: uksi/2021/661
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2021-06-09'
+text_date: '2021-06-10'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/2021/661
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2021/661/pdfs/uksiem_20210661_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/661/pdfs/uksi_20210661_en.pdf
+- http://www.legislation.gov.uk/uksi/2021/661/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Customs Tariff (Establishment) (EU Exit) (Amendment) (No. 2) Regulations 2021
+
+> Text as at 2021-06-10.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+2021 No. 661
+
+Exiting The European Union
+
+Customs
+
+The Customs Tariff (Establishment) (EU Exit) (Amendment) (No. 2) Regulations 2021
+
+Approved by the House of Commons
+
+Made
+
+at 10.50 a.m. on 9th June 2021
+
+Laid before the House of Commons
+
+at 3.30 p.m. on 9th June 2021
+
+Coming into force in accordance with regulation 1
+
+The Treasury make the following Regulations in exercise of the powers conferred by sections 8(1) and 52(2) of, and paragraph 1(3)(c) of Schedule 7 to, the Taxation (Cross-border Trade) Act 2018 [^c24562291].
+
+In considering the rate of import duty that ought to apply to goods in a standard case [^c24562301] for which provision is made by regulation 2 of these Regulations, the Treasury have had regard to the matters referred to in section 8(5) of that Act and the recommendation about the rate made to the Treasury by the Secretary of State further to section 8(6) of that Act.
+
+In accordance with section 52(2) of that Act, the Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU, for these Regulations to come into force on such day as the Treasury may by regulations under section 52 of that Act appoint.
+
+## 1. Citation and commencement[^key-f358c437d52122ef1bfbb0899f844876][^key-a0b94ec09935469edc753ac87ff842fe]
+
+These Regulations may be cited as the Customs Tariff (Establishment) (EU Exit) (Amendment) (No. 2) Regulations 2021 and come into force on such day as the Treasury may by regulations under section 52 of the Taxation (Cross-border) Trade Act 2018 appoint.
+
+## 2. Amendment of the Customs Tariff (Establishment) (EU Exit) Regulations 2020[^key-9a2106f2092fbf569a3f0a3a42cefb23][^key-80c047d1db82ed8d088415eb80a7f1e8]
+
+In regulation 1(2) of the Customs Tariff (Establishment) (EU Exit) Regulations 2020 [^c24562311], in the definition of “Tariff of the United Kingdom”, for “1.3, dated 27th April 2021”, substitute “ 1.4, dated 28th May 2021 ”[^c24562321] .
+
+Michael Tomlinson
+
+Alan Mak
+
+Two of the Lords Commissioners of Her Majesty's Treasury
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made by the Treasury further to Part 1 of the Taxation (Cross-border Trade) Act 2018 (c. 22) (“**the Act**”). They amend the Customs Tariff (Establishment) (EU Exit) Regulations 2020 (S.I. 2020/1430; “**the Establishment Regulations**”). They will come into force on a day to be appointed by the Treasury in further regulations.
+
+Regulation 2 amends the definition of “Tariff of the United Kingdom” of the Establishment Regulations to refer to a revised United Kingdom tariff document for the purposes of the system known as the customs tariff (see section 8(2) of the Act) established by regulation 2 of those Regulations. The revised tariff document corrects errors by adding commodity codes 2934 99 90 65 and 2934 99 90 70 (relating to chemicals) with a 6.00% duty rate and commodity code 4016 93 00 30 (relating to vulcanised rubber gaskets) with a 2.00% duty rate. It also inserts a 14.00% duty rate to existing commodity code 0811 90 95 (relating to certain types of tropical fruit) and corrects one typographical error.
+
+The United Kingdom tariff document was last amended by S.I. 2021/520.
+
+The Establishment Regulations which these Regulations amend are one of a group of instruments covered by an overarching Tax Information and Impact Note (“TIIN”). The TIIN primarily focuses on the Establishment Regulations and is available at https://www.gov.uk/government/collections/tax-information-and-impact-notes-tiins.
+
+There is no significant impact on business, charities or voluntary bodies as a result of this instrument.
+
+## Annotations
+
+[^c24562291]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22) (“**the Act**”). Part 1 of the Act is amended by the [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [section 2](https://www.legislation.gov.uk/ukpga/2020/26/section/2) and Schedule 1.
+
+[^c24562301]: Marginal citation: “A standard case” is defined by section 8(8) of the Act.
+
+[^key-f358c437d52122ef1bfbb0899f844876]: Commencement: Reg. 1 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/661/regulation/1)
+
+[^key-a0b94ec09935469edc753ac87ff842fe]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/661/regulation/1) in force at 10.6.2021 by [S.I. 2021/690](https://www.legislation.gov.uk/uksi/2021/690), [reg. 2](https://www.legislation.gov.uk/uksi/2021/690/regulation/2)
+
+[^key-9a2106f2092fbf569a3f0a3a42cefb23]: Commencement: Reg. 2 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/661/regulation/1)
+
+[^key-80c047d1db82ed8d088415eb80a7f1e8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/661/regulation/2) in force at 10.6.2021 by [S.I. 2021/690](https://www.legislation.gov.uk/uksi/2021/690), [reg. 2](https://www.legislation.gov.uk/uksi/2021/690/regulation/2)
+
+[^c24562311]: Marginal citation: [S.I. 2020/1430](https://www.legislation.gov.uk/uksi/2020/1430), amended by [S.I. 2021/63](https://www.legislation.gov.uk/uksi/2021/63), [S.I](https://www.legislation.gov.uk/uksi/2021/63/section/I). 2021/380 and [S.I. 2021/520](https://www.legislation.gov.uk/uksi/2021/520).
+
+[^c24562321]: Marginal citation: The Tariff of the United Kingdom version 1.4, dated 28th May 2021, is available electronically from https://www.gov.uk/government/collections/customs-vat-and-excise-uk-transition-legislation-from-1-january-2021. A person unable to access the document electronically may obtain a hard copy free of charge by calling 020 7270 5000 or, where consistent with government guidance on social distancing and unnecessary travel, may inspect it free of charge at HMRC, 100 Parliament Street, London, SW1A 2BQ.

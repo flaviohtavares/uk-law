@@ -1,0 +1,258 @@
+---
+title: Equality Act 2010, SCHEDULE 8
+act: Equality Act 2010
+section: schedule-8
+status: revised-with-pending-changes
+text_date: '2026-10-30'
+extent: E+W+S
+source_url: https://www.legislation.gov.uk/ukpga/2010/15/schedule/8
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Equality Act 2010, SCHEDULE 8
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/15
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## SCHEDULE 8 — Work: reasonable adjustments
+
+*Extent: E+W+S*
+
+Section 83
+
+### Part 1 — Introductory
+
+#### Preliminary
+
+**1.** This Schedule applies where a duty to make reasonable adjustments is imposed on A by this Part of this Act.
+
+#### The duty
+
+**2.** (1) A must comply with the first, second and third requirements.
+
+(2) For the purposes of this paragraph—
+
+- (a) the reference in section 20(3) to a provision, criterion or practice is a reference to a provision, criterion or practice applied by or on behalf of A;
+- (b) the reference in section 20(4) to a physical feature is a reference to a physical feature of premises occupied by A;
+- (c) the reference in section 20(3), (4) or (5) to a disabled person is to an interested disabled person.
+
+(3) In relation to the first and third requirements, a relevant matter is any matter specified in the first column of the applicable table in Part 2 of this Schedule.
+
+(4) In relation to the second requirement, a relevant matter is—
+
+- (a) a matter specified in the second entry of the first column of the applicable table in Part 2 of this Schedule, or
+- (b) where there is only one entry in a column, a matter specified there.
+
+(5) If two or more persons are subject to a duty to make reasonable adjustments in relation to the same interested disabled person, each of them must comply with the duty so far as it is reasonable for each of them to do so.
+
+**3.** (1) This paragraph applies if a duty to make reasonable adjustments is imposed on A by section 55 (except where the employment service which A provides is the provision of vocational training within the meaning given by section 56(6)(b)).
+
+(2) The reference in section 20(3), (4) and (5) to a disabled person is a reference to an interested disabled person.
+
+(3) In relation to each requirement, the relevant matter is the employment service which A provides.
+
+(4) Sub-paragraph (5) of paragraph 2 applies for the purposes of this paragraph as it applies for the purposes of that paragraph.
+
+### Part 2 — Interested disabled person
+
+#### Preliminary
+
+**4.** An interested disabled person is a disabled person who, in relation to a relevant matter, is of a description specified in the second column of the applicable table in this Part of this Schedule.
+
+#### Employers (see section 39)
+
+**5.** (1) This paragraph applies where A is an employer.
+
+| *Relevant matter* | *Description of disabled person* |
+| --- | --- |
+| Deciding to whom to offer employment. | A person who is, or has notified A that the person may be, an applicant for the employment. |
+| Employment by A. | An applicant for employment by A.<br>An employee of A's. |
+
+(2) Where A is the employer of a disabled contract worker (B), A must comply with the first, second and third requirements on each occasion when B is supplied to a principal to do contract work.
+
+(3) In relation to the first requirement (as it applies for the purposes of sub-paragraph (2))—
+
+- (a) the reference in section 20(3) to a provision, criterion or practice is a reference to a provision, criterion or practice applied by or on behalf of all or most of the principals to whom B is or might be supplied,
+- (b) the reference to being put at a substantial disadvantage is a reference to being likely to be put at a substantial disadvantage that is the same or similar in the case of each of the principals referred to in paragraph (a), and
+- (c) the requirement imposed on A is a requirement to take such steps as it would be reasonable for A to have to take if the provision, criterion or practice were applied by or on behalf of A.
+
+(4) In relation to the second requirement (as it applies for the purposes of sub-paragraph (2))—
+
+- (a) the reference in section 20(4) to a physical feature is a reference to a physical feature of premises occupied by each of the principals referred to in sub-paragraph (3)(a),
+- (b) the reference to being put at a substantial disadvantage is a reference to being likely to be put at a substantial disadvantage that is the same or similar in the case of each of those principals, and
+- (c) the requirement imposed on A is a requirement to take such steps as it would be reasonable for A to have to take if the premises were occupied by A.
+
+(5) In relation to the third requirement (as it applies for the purposes of sub-paragraph (2))—
+
+- (a) the reference in section 20(5) to being put at a substantial disadvantage is a reference to being likely to be put at a substantial disadvantage that is the same or similar in the case of each of the principals referred to in sub-paragraph (3)(a), and
+- (b) the requirement imposed on A is a requirement to take such steps as it would be reasonable for A to have to take if A were the person to whom B was supplied.
+
+#### Principals in contract work (see section 41)
+
+**6.** (1) This paragraph applies where A is a principal.
+
+| *Relevant matter* | *Description of disabled person* |
+| --- | --- |
+| Contract work that A may make available. | A person who is, or has notified A that the person may be, an applicant to do the work. |
+| Contract work that A makes available. | A person who is supplied to do the work. |
+
+(2) A is not required to do anything that a disabled person's employer is required to do by virtue of paragraph 5.
+
+#### Partnerships (see section 44)
+
+**7.** (1) This paragraph applies where A is a firm or a proposed firm.
+
+| *Relevant matter* | *Description of disabled person* |
+| --- | --- |
+| Deciding to whom to offer a position as a partner. | A person who is, or has notified A that the person may be, a candidate for the position. |
+| A position as a partner. | A candidate for the position.<br>The partner who holds the position. |
+
+(2) Where a firm or proposed firm (A) is required by this Schedule to take a step in relation to an interested disabled person (B)—
+
+- (a) the cost of taking the step is to be treated as an expense of A;
+- (b) the extent to which B should (if B is or becomes a partner) bear the cost is not to exceed such amount as is reasonable (having regard in particular to B's entitlement to share in A's profits).
+
+#### LLPs (see section 45)
+
+**8.** (1) This paragraph applies where A is an LLP or a proposed LLP.
+
+| *Relevant matter* | *Description of disabled person* |
+| --- | --- |
+| Deciding to whom to offer a position as a member. | A person who is, or has notified A that the person may be, a candidate for the position. |
+| A position as a member. | A candidate for the position.<br>The member who holds the position. |
+
+(2) Where an LLP or proposed LLP (A) is required by this Schedule to take a step in relation to an interested disabled person (B)—
+
+- (a) the cost of taking the step is to be treated as an expense of A;
+- (b) the extent to which B should (if B is or becomes a member) bear the cost is not to exceed such amount as is reasonable (having regard in particular to B's entitlement to share in A's profits).
+
+#### Barristers and their clerks (see section 47)
+
+**9.** This paragraph applies where A is a barrister or barrister's clerk.
+
+| *Relevant matter* | *Description of disabled person* |
+| --- | --- |
+| Deciding to whom to offer a pupillage or tenancy. | A person who is, or has notified A that the person may be, an applicant for the pupillage or tenancy. |
+| A pupillage or tenancy. | An applicant for the pupillage or tenancy.<br>The pupil or tenant. |
+
+#### Advocates and their clerks (see section 48)
+
+**10.** This paragraph applies where A is an advocate or advocate's clerk.
+
+| *Relevant matter* | *Description of disabled person* |
+| --- | --- |
+| Deciding who to offer to take as a devil or to whom to offer membership of a stable. | A person who applies, or has notified A that the person may apply, to be taken as a devil or to become a member of the stable. |
+| The relationship with a devil or membership of a stable. | An applicant to be taken as a devil or to become a member of the stable.<br>The devil or member. |
+
+#### Persons making appointments to offices etc. (see sections 49 to 51)
+
+**11.** This paragraph applies where A is a person who has the power to make an appointment to a personal or public office.
+
+| *Relevant matter* | *Description of disabled person* |
+| --- | --- |
+| Deciding to whom to offer the appointment. | A person who is, or has notified A that the person may be, seeking the appointment.<br>A person who is being considered for the appointment. |
+| Appointment to the office. | A person who is seeking, or being considered for, appointment to the office. |
+
+**12.** This paragraph applies where A is a relevant person in relation to a personal or public office.
+
+| *Relevant matter* | *Description of disabled person* |
+| --- | --- |
+| Appointment to the office. | A person appointed to the office. |
+
+**13.** This paragraph applies where A is a person who has the power to make a recommendation for, or give approval to, an appointment to a public office.
+
+| *Relevant matter* | *Description of disabled person* |
+| --- | --- |
+| Deciding who to recommend or approve for appointment to the office. | A person who is, or has notified A that the person may be, seeking recommendation or approval for appointment to the office.<br>A person who is being considered for recommendation or approval for appointment to the office. |
+| An appointment to the office. | A person who is seeking, or being considered for, appointment to the office in question. |
+
+**14.** In relation to the second requirement in a case within paragraph 11, 12 or 13, the reference in paragraph 2(2)(b) to premises occupied by A is to be read as a reference to premises—
+
+- (a) under the control of A, and
+- (b) at or from which the functions of the office concerned are performed.
+
+#### Qualifications bodies (see section 53)
+
+**15.** (1) This paragraph applies where A is a qualifications body.
+
+| *Relevant matter* | *Description of disabled person* |
+| --- | --- |
+| Deciding upon whom to confer a relevant qualification. | A person who is, or has notified A that the person may be, an applicant for the conferment of the qualification. |
+| Conferment by the body of a relevant qualification. | An applicant for the conferment of the qualification.<br>A person who holds the qualification. |
+
+(2) A provision, criterion or practice does not include the application of a competence standard.
+
+#### Employment service-providers (see section 55)
+
+**16.** This paragraph applies where—
+
+- (a) A is an employment service-provider, and
+- (b) the employment service which A provides is vocational training within the meaning given by section 56(6)(b).
+
+| *Relevant matter* | *Description of disabled person* |
+| --- | --- |
+| Deciding to whom to offer to provide the service. | A person who is, or has notified A that the person may be, an applicant for the provision of the service. |
+| Provision by A of the service. | A person who applies to A for the provision of the service.<br>A person to whom A provides the service. |
+
+#### Trade organisations (see section 57)
+
+**17.** This paragraph applies where A is a trade organisation.
+
+| *Relevant matter* | *Description of disabled person* |
+| --- | --- |
+| Deciding to whom to offer membership of the organisation. | A person who is, or has notified A that the person may be, an applicant for membership. |
+| Membership of the organisation. | An applicant for membership.<br>A member. |
+
+#### Local authorities (see section 58)
+
+**18.** (1) This paragraph applies where A is a local authority.
+
+| *Relevant matter* | *Description of disabled person* |
+| --- | --- |
+| A member's carrying-out of official business. | The member. |
+
+(2) Regulations may, for the purposes of a case within this paragraph, make provision—
+
+- (a) as to circumstances in which a provision, criterion or practice is, or is not, to be taken to put a disabled person at the disadvantage referred to in the first requirement;
+- (b) as to circumstances in which a physical feature is, or is not, to be taken to put a disabled person at the disadvantage referred to in the second requirement;
+- (c) as to circumstances in which it is, or in which it is not, reasonable for a local authority to be required to take steps of a prescribed description;
+- (d) as to steps which it is always, or which it is never, reasonable for a local authority to take.
+
+#### Occupational pensions (see section 61)
+
+**19.** This paragraph applies where A is, in relation to an occupational pension scheme, a responsible person within the meaning of section 61.
+
+| *Relevant matter* | *Description of disabled person* |
+| --- | --- |
+| Carrying out A's functions in relation to the scheme. | A person who is or may be a member of the scheme. |
+
+### Part 3 — Limitations on the duty
+
+#### Lack of knowledge of disability, etc.
+
+**20.** (1) A is not subject to a duty to make reasonable adjustments if A does not know, and could not reasonably be expected to know—
+
+- (a) in the case of an applicant or potential applicant, that an interested disabled person is or may be an applicant for the work in question;
+- (b) in any case referred to in Part 2 of this Schedule[^c21910341], that an interested disabled person has a disability and is likely to be placed at the disadvantage referred to in the first, second or third requirement.
+
+(2) An applicant is, in relation to the description of A specified in the first column of the table, a person of a description specified in the second column (and the reference to a potential applicant is to be construed accordingly).
+
+| *Description of A* | *Applicant* |
+| --- | --- |
+| An employer | An applicant for employment |
+| A firm or proposed firm | A candidate for a position as a partner |
+| An LLP or proposed LLP | A candidate for a position as a member |
+| A barrister or barrister's clerk | An applicant for a pupillage or tenancy |
+| An advocate or advocate's clerk | An applicant for being taken as an advocate's devil or for becoming a member of a stable |
+| A relevant person in relation to a personal or public office | A person who is seeking appointment to, or recommendation or approval for appointment to, the office |
+| A qualifications body | An applicant for the conferment of a relevant qualification |
+| An employment service-provider | An applicant for the provision of an employment service |
+| A trade organisation | An applicant for membership |
+
+(3) If the duty to make reasonable adjustments is imposed on A by section 55, this paragraph applies only in so far as the employment service which A provides is vocational training within the meaning given by section 56(6)(b).
+
+## Annotations
+
+[^c21910341]: Textual amendment: Words in [Sch. 8 para. 20(1)(b)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/8/paragraph/20/1/b) substituted (4.4.2011) by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/6/2)

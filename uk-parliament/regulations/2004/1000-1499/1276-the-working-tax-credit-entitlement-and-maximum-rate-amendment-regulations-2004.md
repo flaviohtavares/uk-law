@@ -1,0 +1,111 @@
+---
+title: The Working Tax Credit (Entitlement and Maximum Rate) (Amendment) Regulations 2004
+id: uksi/2004/1276
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2004-05-06'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2004/1276
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2004/1276/pdfs/uksiem_20041276_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1276/pdfs/uksi_20041276_en.pdf
+- http://www.legislation.gov.uk/uksi/2004/1276/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Working Tax Credit (Entitlement and Maximum Rate) (Amendment) Regulations 2004
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2004 No. 1276
+
+TAX CREDITS
+
+The Working Tax Credit (Entitlement and Maximum Rate) (Amendment) Regulations 2004
+
+Made
+
+6th May 2004
+
+Laid before Parliament
+
+7th May 2004
+
+Coming into force
+
+1st June 2004
+
+The Treasury in exercise of the powers conferred upon them by sections 12(4)(b) and 65(1) of the Tax Credits Act 2002 [^f00001] make the following Regulations:
+
+## 1. Citation, commencement
+
+These Regulations may be cited as the Working Tax Credit (Entitlement and Maximum Rate) (Amendment) Regulations 2004 and shall come into force on 1st June 2004.
+
+## 2. Amendment of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002
+
+(1) Regulation 14 of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f00002] (eligible child care charges for the purposes of working tax credit) shall be amended as follows.
+
+(2) In paragraph (2)—
+
+- (a) in sub-paragraph (a)—
+  - (i) in head (iii) for the words “between his eighth birthday and” substitute “on or before”
+  - (ii) at the end of head (iii) omit “or”;
+  - (iii) at the end of head (iv) add “or”; and
+  - (iv) after head (iv) insert the following head—
+
+    > - (v) by a foster parent under the Fostering Services Regulations 2002[^f00003] or the Fostering Services (Wales) Regulations 2003[^f00004] in relation to a child other than one whom he is fostering;
+
+    ;
+- (b) in sub-paragraph (b)—
+  - (i) at the end of head (i) omit “or”;
+  - (ii) at the end of head (ii) add “or”; and
+  - (iii) after head (ii) insert the following head—
+
+    > - (iii) by a foster carer under the Fostering of Children (Scotland) Regulations 1996[^f00005] in relation to a child other than one whom he is fostering;
+
+    ; and
+- (c) in sub-paragraph (c)—
+  - (i) after head (i) omit “or”; and
+  - (ii) after head (ii) insert the following heads—
+
+    > - (iii) in respect of any period ending on or before the day on which he ceases to be a child for the purposes of this regulation, where the care is provided out of school hours by a school on school premises or by an Education and Library Board or a Health and Social Services Trust; or
+    > - (iv) by a foster parent under the Foster Placement (Children) Regulations (Northern Ireland) 1996[^f00006] in relation to a child other than one whom he is fostering; or
+
+    .
+
+Joan Ryan
+
+Nick Ainger
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+6th May 2004
+
+(This note is not part of the Regulations)
+
+These Regulations further amend regulation 14 of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 (S.I. [2002/2005](https://www.legislation.gov.uk/uksi/2002/2005)) which prescribes categories of eligible child care for the purposes of entitlement to the child care element.
+
+Regulation 1 provides for the instrument’s citation and commencement.
+
+Regulation 2 makes the amendments to regulation 14. The amendments extend eligibility for the child care element to cases where a foster parent or foster carer in any part of the United Kingdom provides child care other than for a child whom he is fostering. The regulation also extends eligibility to the child care element in respect of children cared for on school premises in England and Wales under the age of 8, and makes provision for care provided out of school hours on school premises for any child in Northern Ireland for a period ending on or before the day on which the child ceases to be treated as a child for the purposes of regulation 14.
+
+These Regulations do not impose any new costs on business.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
+
+[^f00002]: Footnote: S.I. [2002/2005](https://www.legislation.gov.uk/uksi/2002/2005): relevant amendments are made by S.I. [2003/70](https://www.legislation.gov.uk/uksi/2003/70),1 [2003/2815](https://www.legislation.gov.uk/uksi/2003/2815) and [2004/762](https://www.legislation.gov.uk/uksi/2004/762).
+
+[^f00003]: Footnote: S.I. [2002/57](https://www.legislation.gov.uk/uksi/2002/57): relevant amendments are made by S.I. [2002/865](https://www.legislation.gov.uk/uksi/2002/865).
+
+[^f00004]: Footnote: S.I. [2003/237](https://www.legislation.gov.uk/uksi/2003/237): relevant amendments are made by S.I. [2003/896](https://www.legislation.gov.uk/uksi/2003/896).
+
+[^f00005]: Footnote: S.I. [1996/3263](https://www.legislation.gov.uk/uksi/1996/3263).
+
+[^f00006]: Footnote: [S.R. 1996/467](https://www.legislation.gov.uk/nisr/1996/467).

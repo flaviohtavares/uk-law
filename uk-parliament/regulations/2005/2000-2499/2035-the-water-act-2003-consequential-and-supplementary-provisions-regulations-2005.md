@@ -1,0 +1,618 @@
+---
+title: The Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005
+id: uksi/2005/2035
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-07-20'
+text_date: '2016-06-27'
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2005/2035
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/2005/2035/pdfs/uksiem_20052035_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2035/pdfs/uksi_20052035_en.pdf
+- http://www.legislation.gov.uk/uksi/2005/2035/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005
+
+> Text as at 2016-06-27.
+
+2005 No. 2035
+
+WATER INDUSTRY
+
+The Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005
+
+Made
+
+20th July 2005
+
+Coming into force
+
+For the purposes of Part 1 in accordance with Regulation 1(2) For the purposes of Part 2
+
+1st October 2005
+
+For the purposes of Part 3
+
+1st December 2005
+
+For the purposes of Part 4
+
+1st April 2006
+
+The Secretary of State, in exercise of the powers conferred upon her by sections 103(1) of the Water Act 2003 [^c1487819], hereby makes the following Regulations, a draft of which has been laid before, and approved by a resolution of, each House of Parliament pursuant to section 104(2) of the Water Act 2003:
+
+## PART 1 — GENERAL
+
+### 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Water Act 2003 (Consequential and Supplementary Provisions) Regulations 2005 and come into force in accordance with paragraphs (2) to (5).
+
+(2) Part 1 of these Regulations comes into force on the day after the day on which they are made.
+
+(3) Part 2 of these Regulations comes into force on 1st October 2005.
+
+(4) Part 3 of these Regulations comes into force on 1st December 2005.
+
+(5) Part 4 of these Regulations comes into force on 1st April 2006.
+
+(6) Any amendment or repeal made by these Regulations has the same extent as the enactment being amended or repealed.
+
+(7) Any supplementary provision made by these Regulations in relation to any enactment or instrument has the same extent as the enactment or instrument in relation to which the supplementary provision is made.
+
+## PART 2 — CONSUMER COUNCIL FOR WATER
+
+### 2. Effect of certain references in the instruments of appointment of water and sewerage undertakers made under the WIA
+
+In each instrument made under sections 6 and 7 of the WIA [^c1487820] appointing a company to be a water or sewerage undertaker, each reference to—
+
+- (a) a customer service committee maintained under section 28 of that Act, or
+- (b) the customer service committee to which a water or sewerage undertaker is allocated under that section,
+
+is to have effect as a reference to the Consumer Council for Water.
+
+### 3. Amendments to the Water Supply (Water Quality) Regulations 2000[^key-f7b853ace27bdf93c1194d9fa4a2e9d5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Amendments to the Water Supply (Water Quality) Regulations 2001
+
+(1) The Water Supply (Water Quality) Regulations 2001 [^c1487822] are amended as follows.
+
+(2) In regulation 2 (interpretation), the definition of “relevant customer services committee” is omitted.
+
+(3) In regulation 20 (authorisation of temporary supply of water that is not wholesome), in paragraph (4)(c), for “relevant customer services committee” there is substituted “ Council ”.
+
+(4) In regulation 24 (revocation and modification of authorisations), in paragraph (2)(d), for “relevant customer services committee” there is substituted “ Council ”.
+
+(5)[^key-7d1412d4ea5fd83738615a5e9645dfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — WATER SUPPLY LICENSING
+
+### 5. Amendments to the Water (Meters) Regulations 1988
+
+(1) The Water (Meters) Regulations 1988 [^c1487823] are amended as follows.
+
+(2) In regulation 1 (citation, commencement and interpretation), in paragraph (3)—
+
+- (a) for the definition of “the customer”, there is substituted—
+
+  > “**the customer**” in relation to a supply of water provided by an undertaker to any premises, means the person on whom liability to pay charges to the undertaker in respect of that supply of water would fall;
+
+  ;
+- (b) at the end of the definition of “undertakers”, “and” is omitted; and
+- (c) the definition of “water charges” is omitted.
+
+(3) In regulation 8 (method of proof and effect of meter reading), in paragraph (1), after “fix charges” there is inserted “ payable by the customer ”.
+
+(4) In regulation 9 (adjustment of charges), in paragraph (1), after “payable by the undertakers” there is inserted “ to the customer ”.
+
+(5) In regulation 10 (information provided with bills), after “Where charges” there is inserted “ payable by the customer ”.
+
+(6) In regulation 11 (arbitration)—
+
+- (a) for “any person” there is substituted “ the customer ”; and
+- (b) for “that person” there is substituted “ the customer ”.
+
+### 6. Amendment to the Water Supply and Sewerage Services (Customer Service Standards) Regulations 1989
+
+In regulation 2 (interpretation) of the Water Supply and Sewerage Services (Customer Service Standards) Regulations 1989 [^c1487824], in paragraph (1), in the definition of “customer”, at the end of that definition, justified in line with the beginning of that definition, there is inserted “and, in so far as these Regulations apply to water undertakers, “**customer**” does not include any licensed water supplier or any customer of a licensed water supplier;“.
+
+### 7. Amendment to the Food Safety Act 1990
+
+For section 55 of the Food Safety Act 1990 [^c1487825], there is substituted—
+
+> **55. Water supply: England and Wales**
+>
+> Nothing in Part 2 of this Act or any regulations or order made under that Part shall apply in relation to the supply of water to any premises, whether—
+>
+> - (a) by a water undertaker;
+> - (b) by a licensed water supplier (within the meaning of the Water Industry Act 1991); or
+> - (c) by means of a private supply (within the meaning of Part 3 of that Act).
+
+.
+
+### 8. Amendments to the Water Supply (Water Fittings) Regulations 1999
+
+(1) The Water Supply (Water Fittings) Regulations 1999 [^c1487826] are amended as follows.
+
+(2) In regulation 2 (application of regulations)—
+
+- (a) in paragraph (1), after “water undertaker” there is inserted “ or licensed water supplier ”;
+- (b) in paragraph (2)(b), after “water undertaker” there is inserted “ whose supply system is used for the purposes of that supply ”;
+- (c) in paragraph (2)(c), after “water undertaker” there is inserted “ or licensed water supplier ”; and
+- (d) in paragraph (3), after “water undertaker” there is inserted “ or licensed water supplier ”.
+
+(3) In regulation 3 (restriction on installation etc of water fittings), after “water undertaker”, in each place where it appears, there is inserted “ or licensed water supplier ”.
+
+(4) In paragraph 5 of the table in regulation 5 (notification) after “water undertaker” there is inserted “ or licensed water supplier ”.
+
+(5) In regulation 12 (approval by the regulator or the water undertaker), after paragraph (1)(a), there is inserted—
+
+> - (aa) every licensed water supplier;
+
+.
+
+(6) In Schedule 1 (fluid categories), in the paragraph entitled “Fluid category 1”, after “water undertaker” there is inserted “ or licensed water supplier ”.
+
+(7) In Schedule 2 (requirements for water fittings)—
+
+- (a) in paragraph 6, after “water undertaker” there is inserted “ or licensed water supplier ”;
+- (b) in paragraph 8, after “water undertaker” there is inserted “ or licensed water supplier ”;
+- (c) in paragraph 11, for “Water supply systems”, there is substituted “ Water systems ”; and
+- (d) in paragraph 14(1)(a), after “water undertaker” there is inserted “ or licensed water supplier ”.
+
+### 9. Amendments to the Drinking Water (Undertakings) (England and Wales) Regulations 2000
+
+(1) The Drinking Water (Undertakings) (England and Wales) Regulations 2000 [^c1487827] are amended as follows.
+
+(2) In regulation 1 (citation, commencement, extent and interpretation), in paragraph (3)—
+
+- (a) before the definition of “the relevant enforcement authority”, there is inserted—
+
+  > “**licensed water supplier**” shall be construed in accordance with section 17B(9) of the Water Industry Act 1991 [^c1487828];
+
+  ; and
+- (b) in the definition of “the relevant enforcement authority”, in sub-paragraph (a), after “mainly in Wales” there is inserted “ or a company which is a licensed water supplier as regards licensed activities using the supply system of any such water undertaker ”.
+
+### 10. Amendments to the Water Supply (Water Quality) Regulations 2000[^key-2bc9eff745601750373371482f8d1d34]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Amendments to the Water Supply (Water Quality) Regulations 2001
+
+(1) The Water Supply (Water Quality) Regulations 2001 are amended as follows.
+
+(2)[^key-5cd710d1b1b00c14483afdb02669b9d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In regulation 2 (interpretation)—
+
+- (a) after the definition of “the 1989 Regulations”, there is inserted—
+
+  > “**access agreement**” means an agreement made or determined under section 66D(2) of the Act [^c1487833];
+
+  ;
+- (b) in their appropriate places, new definitions are inserted as follows—
+
+  > “**combined licensee**” means a company which is the holder of a combined licence within the meaning of Chapter 1A of Part 2 of the Act [^c1487834];
+
+  > “**relevant supplier**” means a water undertaker or licensed water supplier;
+
+  > “**retail licensee**” means a company which is the holder of a retail licence within the meaning of Chapter 1A of Part 2 of the Act [^c1487835];
+
+  > “**supply system**” shall be construed in accordance with section 17B(5) of the Act [^c1487836];
+
+  and
+- (c) in the definition of “consumer”, for “water undertaker” there is substituted “ relevant supplier ”.
+
+(4) In regulation 5 (interpretation and application of Part IV – monitoring of water supplies), for paragraph (3) there is substituted—
+
+> (3) This Part applies to water supplied for regulation 4(1) purposes by a relevant supplier in the performance of its duties under Chapter III.
+>
+> (4) Regulations 5 to 9 apply to a combined licensee in relation to samples taken from supply points as they apply to a water undertaker, but only in so far as the combined licensee is introducing water into a water supply zone in which the water undertaker takes samples under this Part (to the extent authorised by or under regulation 8) from supply points.
+
+.
+
+(5) In regulation 6 (monitoring: general provisions)—
+
+- (a) in paragraph (1), for “its water supply zones” there is substituted “ the water supply zones which it supplies ”; and
+- (b) in paragraph (9), after “monitor” there is inserted “ or cause to be monitored ”.
+
+(6) In regulation 8 (authorisation of supply points), in paragraph (2), after “water undertaker” there is inserted “ or on the joint written application of a water undertaker and combined licensee ”.
+
+(7) In regulation 9 (numbers of samples), in paragraph (2)(a), “by it” is omitted and after “water supply zone” there is inserted “ which it supplies ”.
+
+(8) In regulation 10 (sampling: further provisions)—
+
+- (a) for “water undertaker” there is substituted “ relevant supplier ”; and
+- (b) for “its water supply zones” there is substituted “ the water supply zones which it supplies ”.
+
+(9) In regulation 12 (sampling for particular substances and parameters), at the end there is inserted—
+
+> (2) For the purposes of establishing the quality of water to be supplied in any supply system into which a combined licensee introduces water, a combined licensee shall take, or cause to be taken, and analyse, or cause to be analysed, not less than the number of samples specified in this Part.
+
+,
+
+and the text preceding this paragraph in regulation 12 is renumbered as paragraph (1) of that regulation.
+
+(10) In regulation 13 (sampling at treatment works)—
+
+- (a) in paragraph (1)–
+  - (i) for “a water undertaker”, there is substituted “ every water undertaker or combined licensee ”; and
+  - (ii) for “serves its”, there is substituted “ it uses to supply water to ”; and
+- (b) in paragraph (4), after “water undertaker” there is inserted “ or combined licensee ”.
+
+(11) In regulation 14 (sampling at service reservoirs), for “A water undertaker” there is substituted “ Every water undertaker or combined licensee ”.
+
+(12) In regulation 15 (sampling: new sources)—
+
+- (a) in paragraph (1), after “water undertaker”, in each place where it appears, there is inserted “ or combined licensee ”;
+- (b) in paragraph (2), for “A water undertaker” there is substituted “ Every water undertaker or combined licensee ”; and
+- (c) in paragraph (3), in sub-paragraphs (a)(ii) and (b)(iii), after “water undertaker” there is inserted “ or combined licensee proposing to use the source ”.
+
+(13) In regulation 16 (collection and analysis of samples)—
+
+- (a) in paragraph (1), for “A water undertaker” there is substituted “ Every water undertaker or combined licensee ”;
+- (b) in paragraph (2)(e)(i), for “either the laboratory or the undertaker” there is substituted “ the laboratory, the water undertaker or the combined licensee ”;
+- (c) in paragraph (4), for “A water undertaker” there is substituted “ Every water undertaker or combined licensee ”; and
+- (d) in paragraph (11), after “water undertaker” there is inserted “ or combined licensee ”.
+
+(14) In regulation 17 (investigations: Schedule 1 parameters)—
+
+- (a) in paragraph (1)–
+  - (i) for “a water undertaker has reason to believe that water supplied by it for regulation 4(1) purposes” there is substituted “ a water undertaker or combined licensee has reason to believe that water of a relevant description ”; and
+  - (ii) in the words after sub-paragraph (c), after “water undertaker”, there is inserted “ or combined licensee ”;
+- (b) after paragraph (1), there is inserted—
+
+  > (1A) In this regulation, “**water of a relevant description**” means water supplied by a relevant supplier which uses a supply system for the purposes of supplying water to consumers, being a supply system into which the water undertaker or combined licensee introduces water.
+
+  ;
+- (c) in paragraph (3)(b), for “water undertaker which has reason to believe that water supplied by it for regulation 4(1) purposes” there is substituted “ every water undertaker or combined licensee which has reason to believe that water of a relevant description ”;
+- (d) for paragraph (5), there is substituted—
+
+  > (5) As soon as may be after the matters specified in paragraph (2) or (4), as the case may be, have been identified, the water undertaker or combined licensee shall—
+  >
+  > - (a) notify the National Assembly for Wales—
+  >   - (i) of those matters;
+  >   - (ii) whether it is its opinion that, in relation to each parameter identified in accordance with paragraph (2)(b) or (4)(b), a failure in respect of that parameter is likely to recur; and
+  >   - (iii) of the action (if any) taken by it in relation to a failure which is attributable to the domestic distribution system or the maintenance of that system; and
+  > - (b) send a copy of that notice to any other relevant supplier which uses the supply system for the purposes of supplying water to consumers who are likely to be affected by the failure.
+
+  ;
+- (e) for paragraph (6) there is substituted—
+
+  > (6) Where the water undertaker or combined licensee has identified a failure attributable to the domestic distribution system or to the maintenance of such a system, it shall, at the same time as notification is given under paragraph (5)—
+  >
+  > - (a) by notice in writing—
+  >   - (i) to those of its consumers who are likely to be affected by the failure, and
+  >   - (ii) to any other relevant supplier which uses the supply system for the purposes of supplying water to consumers who are likely to be affected by the failure,
+  >
+  >   inform them of the nature of the failure and provide details of the steps (if any) that, in its opinion, it is necessary or desirable for those consumers to take in the interests of their health; and
+  > - (b) send a copy of that notice to the National Assembly for Wales and to each appropriate local authority.
+  >
+  > (6A) A relevant supplier which receives a notice under paragraph (6)(a)(ii) shall immediately send or cause to be sent a copy of that notice to those of its consumers who are likely to be affected by the failure.
+
+  ;
+- (f) in paragraphs (7) and (8), after “water undertaker”, in each place where it appears, there is inserted “ or combined licensee ”; and
+- (g) in paragraph (9), for “water undertaker”, there is substituted “ relevant supplier ”.
+
+(15) In regulation 18 (investigations: indicator parameters)—
+
+- (a) in paragraph (1) for “water undertaker has reason to believe that water supplied by it for regulation 4(1) purposes” there is substituted “ water undertaker or combined licensee has reason to believe that water of a relevant description ”;
+- (b) after paragraph (1), there is inserted—
+
+  > (1A) In this regulation, “**water of a relevant description**” means water supplied by a relevant supplier which uses a supply system for the purposes of supplying water to consumers, being a supply system into which the water undertaker or combined licensee introduces water.
+
+  ;
+- (c) for paragraph (2), there is substituted—
+
+  > (2) As soon as may be after the matters specified in paragraph (1) have been identified, the water undertaker or combined licensee shall—
+  >
+  > - (a) notify the National Assembly for Wales—
+  >   - (i) of those matters;
+  >   - (ii) whether it is its opinion that, in relation to each parameter identified in accordance with paragraph (1)(b), a recurrence of the inability to meet the specification in respect of that parameter is likely; and
+  > - (b) send a copy of that notice to any other relevant supplier which uses the supply system for the purposes of supplying water to consumers who are likely to be affected by the failure.
+
+  ;
+- (d) for paragraph (3) there is substituted—
+
+  > (3) Where, in a case to which paragraph (1)(c) applies, the inability to meet the specification has been identified as attributable to the domestic distribution system or to the maintenance of that system, the water undertaker or combined licensee shall, at the same time as notification is given under paragraph (2)—
+  >
+  > - (a) by notice in writing—
+  >   - (i) to those of its consumers who are likely to be affected by the failure, and
+  >   - (ii) to any other relevant supplier which uses the supply system for the purposes of supplying water to consumers who are likely to be affected by the failure,
+  >
+  >   inform them of the nature of the failure and provide details of the steps (if any) that, in its opinion, it is necessary or desirable for those consumers to take in the interests of their health; and
+  > - (b) send a copy of that notice to the National Assembly for Wales and to each appropriate local authority.
+  >
+  > (3A) A relevant supplier which receives a notice under paragraph (3)(a)(ii) shall immediately send or cause to be sent a copy of that notice to those of its consumers who are likely to be affected by the failure.
+
+  ; and
+- (e) in paragraph (4), after “water undertaker”, there is inserted “ or combined licensee ”.
+
+(16) In regulation 19 (action by the National Assembly for Wales)—
+
+- (a) in paragraphs (1) and (4), for “the water undertaker, require the water undertaker” there is substituted “ any relevant supplier which uses the supply system for the purposes of supplying water to consumers in respect of which the notification was given, require that relevant supplier ”; and
+- (b) in paragraph (5), for “water undertaker” there is substituted “ relevant supplier ”.
+
+(17) In regulation 20 (authorisation of temporary supply of water that is not wholesome)—
+
+- (a) in paragraph (1)–
+  - (i) for “water undertaker”, there is substituted “ relevant supplier ”; and
+  - (ii) for sub-paragraph (b), there is substituted—
+
+    > - (b) the supply of water by a relevant supplier in any of the water supply zones which it uses for the purposes of supplying water to consumers.
+
+    ;
+- (b) in paragraph (3)–
+  - (i) for “A water undertaker” there is substituted “ Every water undertaker or combined licensee ”; and
+  - (ii) in sub-paragraph (c), after “to take” there is inserted “ , either alone or together with other relevant suppliers, ”; and
+- (c) in paragraph (4), after “water undertaker”, there is inserted “ or combined licensee ”.
+
+(18) In regulation 23 (publicity for authorisations)—
+
+- (a)[^key-7dd14610858c1c9ef980ee157d11f5df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-7dd14610858c1c9ef980ee157d11f5df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) at the end there is inserted—
+
+  > (2) In this regulation “**specified relevant suppliers**” means relevant suppliers—
+  >
+  > - (a) who use the same water supply zone for the purposes of supplying water to consumers; and
+  > - (b) for the purposes of that supply, rely on an authorised departure relating to the same facts.
+
+  ,
+
+and the text preceding this paragraph in regulation 23 is renumbered as paragraph (1) of that regulation.
+
+(19) In regulation 24 (revocation and modification of authorisations)—
+
+- (a) in paragraph (2)(a) and paragraph (3), for “water undertaker” there is substituted “ relevant supplier ”; and
+- (b) after paragraph (2)(a), there is inserted—
+
+  > - (aa) any other relevant supplier which, for the purposes of supplying water to consumers, uses the water supply zone in respect of which the authorised departure has been given;
+
+  .
+
+(20)[^key-9f33472c4b052dbea1ee30ad19c486a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(21)[^key-9f33472c4b052dbea1ee30ad19c486a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(22)[^key-9f33472c4b052dbea1ee30ad19c486a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(23)[^key-9f33472c4b052dbea1ee30ad19c486a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(24) In regulation 30 (contamination from pipes)—
+
+- (a) in paragraph (1)–
+  - (i) in the words before sub-paragraph (a), for “water undertaker” there is substituted “ relevant supplier ” and for “water undertaker's pipes“ there is substituted “relevant supplier's pipes“; and
+  - (ii) in the words after sub-paragraph (b), for “the water undertaker” there is substituted “ every water undertaker or combined licensee which introduces water into the supply system used by the relevant supplier ”;
+- (b) in paragraph (3), after “water undertaker” there is inserted “ or combined licensee ”; and
+- (c) in paragraphs (4) and (5), in each place where it appears, for “water undertaker” there is substituted “ relevant supplier ”.
+
+(25) In regulation 31 (application and introduction of substances and products) in paragraphs (2), (4)(c), (7) and (8) (in each place where it appears), after “water undertaker” there is inserted “ or combined licensee ”.
+
+(26) In regulation 32 (use of processes), after “water undertaker”, in each place where it appears, there is inserted “ or combined licensee ”.
+
+(27) In regulation 33 (offences) in paragraphs [^key-684b20103ab11696d7cc30265d337305]... (3) and (4) (in each place where it appears), after “water undertaker” there is inserted “ or combined licensee ”.
+
+(28) In regulation 34 (maintenance of records)—
+
+- (a) in paragraph (1)–
+  - (i) for the words before sub-paragraph (a), there is substituted—
+
+    > Every water undertaker or combined licensee shall, in respect of each of the water supply zones which it uses for the purposes of supplying water to consumers, prepare and maintain a record containing—
+
+    ; and
+  - (ii) in sub-paragraphs (e) and (g), after “water undertaker”, in each place where it appears, there is inserted “ or combined licensee ”;
+- (b) after paragraph (1), there is inserted—
+
+  > (1A) A retail licensee shall, in respect of each of the water supply zones which it uses for the purposes of supplying water to consumers, prepare and maintain a record containing—
+  >
+  > - (a) the name of the zone;
+  > - (b) particulars of any departure authorised under Part VI of these Regulations which applies to water supplied in the zone;
+  > - (c) particulars of the action taken or required to be taken by the retail licensee to comply with—
+  >   - (i) any enforcement order made under section 18 of the Act;
+  >   - (ii) any departure authorised under Part VI; and
+  >   - (iii) any notice under regulation 19(4); and
+  > - (d) such other particulars as the retail licensee may determine.
+
+  ;
+- (c) in paragraph (2)–
+  - (i) in the words before sub-paragraph (a), after “water undertaker” there is inserted “ or combined licensee ”;
+  - (ii) in sub-paragraph (a), after “2004”, there is inserted “ or, in the case of a combined licensee, no later than 3 months after the day on which it first introduces water into a supply system for the purposes of supplying water to consumers ”; and
+  - (iii) in sub-paragraph (c), after “water undertaker” there is inserted “ or combined licensee ”;
+- (d) after paragraph (2), there is inserted—
+
+  > (2A) A retail licensee shall make—
+  >
+  > - (a) initial entries in the record in respect of the matters mentioned in paragraph (1A)(a), (b) and (c)(ii) no later than 3 months after the day on which it first uses a supply system for the purposes of supplying water to consumers; and
+  > - (b) entries in respect of the matters mentioned in paragraph (1A)(c)(i) and (iii) within 28 days of the date of the order and notice respectively.
+
+  ;
+- (e) in paragraph (3)–
+  - (i) for “water undertaker” there is substituted “ relevant supplier ”; and
+  - (ii) after “paragraph (1)” there is inserted “ or paragraph (1A) (as the case may be) ”; and
+- (f) in paragraph (4)–
+  - (i) in the words before sub-paragraph (a), for “water undertaker” there is substituted “ relevant supplier ”;
+  - (ii) in sub-paragraph (a), after “paragraph (1)” there is inserted “ or in sub-paragraph (a) of paragraph (1A) ”; and
+  - (iii) in sub-paragraph (b), for “that paragraph” there is inserted “ paragraph (1) or paragraph (1A) ”.
+
+(29)[^key-68dc573e9bdabf29c73ebd34aed648d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(30)[^key-68dc573e9bdabf29c73ebd34aed648d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(31) In regulation 37 (application and interpretation), for paragraph (2), there is substituted—
+
+> (2) In this Part “**specified relevant supplier**”, in relation to a local authority, means—
+>
+> - (a) a water undertaker any of whose water supply zones include an area which is situated within the area of that authority; or
+> - (b) a licensed water supplier which uses any such water supply zones for the purposes of supplying water to consumers.
+
+.
+
+(32) In regulation 38 (duties of local authorities: supplementary provision)—
+
+- (a) in paragraph (1)(a), for “relevant water undertaker” there is substituted “ specified relevant supplier ”;
+- (b) in paragraph (2)(a), after “A water undertaker” there is inserted “ or combined licensee ”; and
+- (c) for paragraph (2)(b) there is substituted—
+
+  > - (b) in paragraph (2)(e), for the words “the laboratory, the water undertaker or the combined licensee” there is substituted “ the laboratory, the water undertaker, the combined licensee or the authority ”.
+
+  .
+
+(33) In regulation 39 (contraventions by water undertakers) for “water undertaker” there is substituted “ relevant supplier ”.
+
+## PART 4 — WATER SERVICES REGULATION AUTHORITY
+
+### 12. Amendments to the Director General of Water Services' Register (Inspection and Charges) Order 1989
+
+(1) The Director General of Water Services' Register (Inspection and Charges) Order 1989 [^c1487837] is amended as follows.
+
+(2) In article 2 (hours at which the register is to be open for inspection)—
+
+- (a) for “Director General of Water Services” there is substituted “ Water Services Regulation Authority ”; and
+- (b) for “his” there is substituted “ its ”.
+
+### 13. Amendments to the Water Supply and Sewerage Services (Customer Service Standards) Regulations 1989
+
+In regulation 11 (reference of disputes to the Director General of Water Services) of the Water Supply and Sewerage Services (Customer Service Standards) Regulations 1989—
+
+- (a) in paragraphs (1) to (3), for “Director”, in each place where it appears, there is substituted “ Authority ”; and
+- (b) in paragraph (2), for “him”, in each place where it appears, and for “he” there is substituted “ it ”.
+
+### 14. Effect of certain references in the instruments of appointment of water and sewerage undertakers made under the WIA
+
+In each instrument made under sections 6 and 7 of the WIA appointing a company to be a water or sewerage undertaker, each reference, however expressed, to the Director General of Water Services (or to him as the Director) is to have effect as a reference to the Water Services Regulation Authority (or, as the case may be, the Authority), and accordingly in those instruments “he”, “him” and cognate expressions, in relation to the Director General of Water Services, are to have effect as “it” (or the appropriate equivalent) in relation to the Water Services Regulation Authority.
+
+### 15. Amendments to the Urban Waste Water Treatment (England & Wales) Regulations 1994
+
+In regulation 7 (discharges of industrial waste water to collecting systems or treatment plants) of the Urban Waste Water Treatment (England & Wales) Regulations 1994 [^c1487838], in paragraphs (1) and (7), for “Director General of Water Services”, in each place where it appears, there is substituted “ Water Services Regulation Authority ”.
+
+### 16. Amendment to the Water Supply (Water Fittings) Regulations 1999
+
+In regulation 10 (enforcement) of the Water Supply (Water Fittings) Regulations 1999, in paragraph (2)(b), for “Director” there is substituted “ Authority ”.
+
+### 17. Amendment to the Public Interest Disclosure (Prescribed Persons) Order 1999
+
+In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order 1999 [^c1487839], for “Director General of Water Services” there is substituted “ Water Services Regulation Authority ”.
+
+### 18. Amendment to the Water Industry (Charges) (Vulnerable Groups) Regulations 1999
+
+In regulation 3 (assistance to be provided) of the Water Industry (Charges) (Vulnerable Groups) Regulations 1999 [^c1487840], in paragraphs (2) and (3), for “Director” there is substituted “ Authority ”.
+
+### 19. Amendment to the Water Industry (Prescribed Conditions) Regulations 1999
+
+In regulation 3 (areas of water scarcity) of the Water Industry (Prescribed Conditions) Regulations 1999 [^c1487841], in paragraph (3)(a), for “Director” there is substituted “ Authority ”.
+
+### 20. Amendment to the Water Supply (Water Quality) Regulations 2000[^key-c9aa649638643d07bcb4d0478e325527]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Amendment to the Water Supply (Water Quality) Regulations 2001
+
+In regulation 39 (contraventions by water undertakers) of the Water Supply (Water Quality) Regulations 2001, for “Director” there is substituted “ Authority ”.
+
+### 22. Amendment to the Water Environment (Water Framework Directive) (England and Wales) Regulations 2003
+
+In regulation 12 (river basin management plans: public participation) of the Water Environment (Water Framework Directive) (England and Wales) Regulations 2003 [^c1487842], in paragraph (4)(b), for “Director General of Water Services” there is substituted “ Water Services Regulation Authority ”.
+
+### 23. Amendment to the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004
+
+In Schedule 1 (river basin management plans: public participation) to the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004 [^c1487843], in sub-paragraph (4)(c) of paragraph 8, for “Director General of Water Services” there is substituted “ Water Services Regulation Authority ”.
+
+### 24. Amendment to Water Industry (Prescribed Conditions) (Undertakers Wholly or Mainly in Wales) Regulations 2004
+
+In regulation 3 (areas of water scarcity) of the Water Industry (Prescribed Conditions) (Undertakers Wholly or Mainly in Wales) Regulations 2004 [^c1487844], in paragraph (3)(a), for “Director” there is substituted “ Authority ”.
+
+### 25. Amendment to the Water Mergers (Determination of Turnover) Regulations 2004
+
+In regulation 2 (interpretation) of the Water Mergers (Determination of Turnover) Regulations 2004 [^c1487845], in paragraph (e)—
+
+- (a) for “Director General for Water Services” there is substituted “ Water Services Regulation Authority ”; and
+- (b) for “him” there is substituted “ it ”.
+
+Elliot Morley
+
+Minister of State,
+
+Department for Environment, Food and Rural Affairs
+
+*(This note is not part of the Regulations)*
+
+The Water Industry Act 1991 (“WIA”), as amended by provisions in Part 2 of the Water Act 2003, establishes the Consumer Council for Water and abolishes the customer service committees established under section 28(1) of the WIA. Part 2 of these Regulations makes consequential amendments and supplementary provision to give effect to this.
+
+The WIA, as amended by sections 56 and 101(1) of the Water Act 2003, requires water undertakers to grant licensed water suppliers access to their supply systems under certain conditions and for certain purposes. Part 3 of these Regulations makes consequential amendments to give the water supply licensing regime effect.
+
+The WIA, as amended by provisions in Part 2 of the Water Act 2003, establishes the Water Services Regulation Authority, makes provision for the transfer to that Authority of the functions of the Director General of Water Services and abolishes the office of that Director General. Part 4 of these Regulations makes consequential amendments and supplementary provision to give effect to this.
+
+No regulatory impact assessment has been prepared in respect of these Regulations. A regulatory impact assessment in respect of the Water Act 2003 was prepared and placed in the library of each House of Parliament during the passage of the Water Bill. This included an assessment of provisions to which the consequential amendments and supplementary provisions in these Regulations relate. Copies can be obtained from Water Supply and Regulation Division, Department for Environment, Food and Rural Affairs, Ashdown House, 123 Victoria Street, London SW1E 6DE or from the Department's website at www.defra.gov.uk/environment/water/legislation.
+
+## Annotations
+
+[^c1487819]: Marginal citation: ()[2003 c. 37](https://www.legislation.gov.uk/ukpga/2003/37).
+
+[^c1487820]: Marginal citation: [Water Industry Act 1991 (c. 56)](https://www.legislation.gov.uk/ukpga/1991/56); see [section 105(2)](https://www.legislation.gov.uk/ukpga/1991/56/section/105/2) of the Water Act 2003.
+
+[^key-f7b853ace27bdf93c1194d9fa4a2e9d5]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/2035/regulation/3) revoked (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2016/614/schedule/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
+
+[^c1487822]: Marginal citation: [S.I. 2001/3911](https://www.legislation.gov.uk/uksi/2001/3911) (W. 323).
+
+[^key-7d1412d4ea5fd83738615a5e9645dfa1]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/4/5) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2001 (Amendment) Regulations 2007 (S.I. 2007/3374)](https://www.legislation.gov.uk/wsi/2007/3374), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/6/2)
+
+[^c1487823]: Marginal citation: [S.I. 1988/1048](https://www.legislation.gov.uk/uksi/1988/1048), amended by [S.I. 1988/1288](https://www.legislation.gov.uk/uksi/1988/1288).
+
+[^c1487824]: Marginal citation: [S.I. 1989/1159](https://www.legislation.gov.uk/uksi/1989/1159), amended by [S.I. 2000/2301](https://www.legislation.gov.uk/uksi/2000/2301).
+
+[^c1487825]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16); [section 55(2) to (6)](https://www.legislation.gov.uk/uksi/2005/2035/section/55/2) of that Act was repealed by section 3 of and Schedule 3 to the [Water Consolidation (Consequential Provisions) Act 1991 (c. 60)](https://www.legislation.gov.uk/ukpga/1991/60).
+
+[^c1487826]: Marginal citation: [S.I. 1999/1148](https://www.legislation.gov.uk/uksi/1999/1148), amended by [S.I. 1999/1506](https://www.legislation.gov.uk/uksi/1999/1506).
+
+[^c1487827]: Marginal citation: [S.I. 2000/1297](https://www.legislation.gov.uk/uksi/2000/1297).
+
+[^c1487828]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
+
+[^key-2bc9eff745601750373371482f8d1d34]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/2035/regulation/10) revoked (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2016/614/schedule/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
+
+[^key-5cd710d1b1b00c14483afdb02669b9d3]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/2) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2001 (Amendment) Regulations 2007 (S.I. 2007/3374)](https://www.legislation.gov.uk/wsi/2007/3374), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/6/3/a)
+
+[^c1487833]: Marginal citation: Section 66D was inserted by section 56 of, and paragraph 3 of Schedule 4 to, the [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37).
+
+[^c1487834]: Marginal citation: The expression “combined licence” is defined in section 17A(6) of the Act. Chapter 1A and section 17A were inserted by section 56 of, and paragraph 2 of Schedule 4 to, the Water Act 2003.
+
+[^c1487835]: Marginal citation: The expression “retail licence” is defined in section 17A(4) of the Act.
+
+[^c1487836]: Marginal citation: Section 17B was inserted by section 56 of, and paragraph 2 of Schedule 4 to, the Water Act 2003.
+
+[^key-7dd14610858c1c9ef980ee157d11f5df]: Textual amendment: [Reg. 11(18)(a)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/18/a)[(b)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/18/b) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2001 (Amendment) Regulations 2007 (S.I. 2007/3374)](https://www.legislation.gov.uk/wsi/2007/3374), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/6/3/a)
+
+[^key-9f33472c4b052dbea1ee30ad19c486a8]: Textual amendment: [Reg. 11(20)-(23)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/20) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2001 (Amendment) Regulations 2007 (S.I. 2007/3374)](https://www.legislation.gov.uk/wsi/2007/3374), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/6/3/a)
+
+[^key-684b20103ab11696d7cc30265d337305]: Textual amendment: Word in [reg. 11(27)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/27) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2001 (Amendment) Regulations 2007 (S.I. 2007/3374)](https://www.legislation.gov.uk/wsi/2007/3374), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/6/3/b)
+
+[^key-68dc573e9bdabf29c73ebd34aed648d6]: Textual amendment: [Reg. 11(29)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/29)[(30)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/30) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2001 (Amendment) Regulations 2007 (S.I. 2007/3374)](https://www.legislation.gov.uk/wsi/2007/3374), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/6/3/a)
+
+[^c1487837]: Marginal citation: [S.I. 1989/1154](https://www.legislation.gov.uk/uksi/1989/1154).
+
+[^c1487838]: Marginal citation: [S.I. 1994/2841](https://www.legislation.gov.uk/uksi/1994/2841).
+
+[^c1487839]: Marginal citation: [S.I. 1999/1549](https://www.legislation.gov.uk/uksi/1999/1549), amended by [S.I. 2003/1993](https://www.legislation.gov.uk/uksi/2003/1993), [S.I](https://www.legislation.gov.uk/uksi/2003/1993/section/I). 2004/664 and [S.I. 2004/3265](https://www.legislation.gov.uk/uksi/2004/3265).
+
+[^c1487840]: Marginal citation: [S.I. 1999/3441](https://www.legislation.gov.uk/uksi/1999/3441), amended by [S.I. 2000/519](https://www.legislation.gov.uk/uksi/2000/519), [S.I](https://www.legislation.gov.uk/uksi/2000/519/section/I). 2003/552 and [S.I. 2005/59](https://www.legislation.gov.uk/uksi/2005/59).
+
+[^c1487841]: Marginal citation: [S.I. 1999/3442](https://www.legislation.gov.uk/uksi/1999/3442).
+
+[^key-c9aa649638643d07bcb4d0478e325527]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2005/2035/regulation/20) revoked (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2016/614/schedule/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
+
+[^c1487842]: Marginal citation: [S.I. 2003/3242](https://www.legislation.gov.uk/uksi/2003/3242).
+
+[^c1487843]: Marginal citation: [S.I. 2004/99](https://www.legislation.gov.uk/uksi/2004/99).
+
+[^c1487844]: Marginal citation: [S.I. 2004/701](https://www.legislation.gov.uk/uksi/2004/701) (W. 75).
+
+[^c1487845]: Marginal citation: [S.I. 2004/3206](https://www.legislation.gov.uk/uksi/2004/3206).

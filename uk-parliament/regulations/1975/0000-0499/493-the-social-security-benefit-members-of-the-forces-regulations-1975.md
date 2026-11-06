@@ -1,0 +1,173 @@
+---
+title: The Social Security (Benefit) (Members of the Forces) Regulations 1975
+id: uksi/1975/493
+type: UnitedKingdomStatutoryInstrument
+category: secondary
+status: revised
+made_date: '1975-03-24'
+text_date: '2017-09-27'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/uksi/1975/493
+pdf_urls:
+- http://www.legislation.gov.uk/uksi/1975/493/pdfs/uksi_19750493_301114_en.pdf
+- http://www.legislation.gov.uk/uksi/1975/493/pdfs/uksi_19750493_en.pdf
+- http://www.legislation.gov.uk/uksi/1975/493/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. Westlaw UK derived from Crown Copyright material and contributed to legislation.gov.uk
+summary: ''
+---
+
+# The Social Security (Benefit) (Members of the Forces) Regulations 1975
+
+> Text as at 2017-09-27.
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+*Extent: E+W+S+N.I.*
+
+1975 No. 493
+
+SOCIAL SECURITY
+
+The Social Security (Benefit) (Members of the Forces) Regulations 1975
+
+Made
+
+24th March 1975
+
+Laid before Parliament
+
+26th March 1975
+
+Coming into Operation
+
+6th April 1975
+
+The Secretary of State for Social Services, in exercise of the powers conferred upon her by section 128 of the Social Security Act 1975 and section 123 of the Social Security (Northern Ireland) Act 1975 and of all other powers enabling her in that behalf, without having referred any proposals on the matter to the National Insurance Advisory Committee since it appears to her that by reason of urgency it is inexpedient to do so, hereby makes the following regulations:—[^key-a9fd70f5b9c8f3182e8c5e6d3cbddde8]
+
+## 1. Citation, commencement and interpretation[^key-9175aff24a6969a1db58558500b4a406]
+
+(1) These regulations may be cited as the Social Security (Benefit) (Members of the Forces) Regulations 1975 and shall come into operation on 6th April 1975.
+
+(2) In these regulations, unless the context otherwise requires—
+
+- “**the Act**” means the Social Security Act 1975;
+- “**the Northern Ireland Act**” means the Social Security (Northern Ireland) Act 1975;
+- “**serving member of the forces**” has the same meaning as in regulation 1(2) of the Social Security (Contributions) Regulations 2001[^key-23a1957964c16f21d322df349c3a5844];
+- “**discharge**” includes transfer to the reserve in the case of a serving member of the forces who on the completion of any term of service is transferred to any reserve, and the expression “**discharged**” shall be construed accordingly;
+
+and other expressions, in the application of these regulations to Great Britain, have the same meanings as in the Act, and in the application of these regulations to Northern Ireland, have the same meanings as in the Northern Ireland Act.
+
+(3) Any reference in these regulations to any provision made by or contained in any enactment or instrument shall, except in so far as the context otherwise requires, be construed as a reference to that provision as amended or extended by any enactment or instrument and as including a reference to any provision which it re-enacts or replaces, or which may re-enact or replace it, with or without modification.
+
+(4) The rules for the construction of Acts of Parliament contained in the Interpretation Act 1889 shall apply in relation to this instrument as if it were an Act of Parliament.
+
+## 2. Unemployment, sickness and invalidity benefit and severe disablement allowance[^key-e0b466b69cddde578a96ac5250a79547][^M_C_a829cc0a-d321-48eb-d7e2-c7aae98e349f][^M_C_cea5c90d-a57f-4b4f-99f7-9baaa95e9f6a][^key-0d107432f8d71c43b0a43c19f851d5ca]
+
+A person shall not be entitled to [^key-c46c23f8765512b59736a77d8b19e62f]...an employment and support allowance[^key-016d8e8fd0b8174d9ca3d6042c5a6819], sickness benefit, invalidity benefit or a severe disablement allowance in respect of any day on which he is serving member of the forces, other than [^key-cba6d60d9a5900d201ff72afa5873f9f]...
+
+- (a) a member of any territorial or reserve force mentioned in Part 1 of Schedule 6 to the Social Security (Contributions) Regulations 2001[^key-a6a646a571b4c113844fb03173ab60ad] who is not undergoing training or instruction as such a member for a continuous period exceeding 72 consecutive hours[^key-c32a1f5b2dab3eea95a5531058d2d439]...
+- (b)[^key-ed3b604b6bfac3090bcda2450ed2ce47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Unemployment benefit[^key-3c836a123a85bc3dc18ebba9da512217][^M_C_3bddf816-e9d7-4889-fafe-9b5df175e92a]
+
+(1) Any person who, whilst a serving member of the forces, is discharged[^key-6798add537fbe86cd648bd7dc9a2d135]... or otherwise dismissed in consequence of having been convicted on any proceedings under the Armed Forces Act 2006[^key-33ac91b63564be7c1eba3e5cef34037b], or by any civil court, shall be treated for the purposes of[^key-1d5bfdf0daf3dbdcaec8413cb03517cd] section 6J,[^key-cc6ac2ab4fa66627a1c29cae24cd9256] section 19 or 20A[^key-a4c7bc24c40e0bd9cb5458aeec020fbd] of the Jobseekers Act 1995 (circumstances in which a jobseeker’s allowance is not payable) or section 26 of the Welfare Reform Act 2012 (higher-level sanctions)[^key-022fe22f1cbd482c299d40ab7c6abae3] or Article 31 of the Welfare Reform (Northern Ireland) Order 2015 (higher level sanctions) *(Extent: N.I.)*[^key-be6f6de87b8d6ed51273a4c4fe32de24] as though he has lost his employment through misconduct.
+
+(2)[^key-490a88aae1178c7e65007daf0dccaf2a] Section 19(6)(b) and (d) or section 20A(2)(e) and (g)[^key-90f7ff74f9651815e07dbe1a479397b6] of the Jobseekers Act 1995 (jobseeker’s allowance not payable where claimant has voluntarily left employment or neglected to avail himself of a reasonable opportunity of employment) shall not apply to a claimant who whilst a serving member of the forces is discharged at his own request.
+
+(3) For the purposes of any claim for a jobseeker’s allowance[^key-1da2a48e4c466cfd43794039d71c3274] or universal credit under Part 1 of the Welfare Reform Act 2012[^key-04f419d0242847ccbeaa3b74c2c14656] or under Part 2 of the Welfare Reform (Northern Ireland) Order 2015 *(Extent: N.I.)*[^key-4d43005a3cafcd21911e560051b2847a], a document purporting to be signed by a person authorised in that behalf by the Secretary of State certifying the fact that any person has been discharged[^key-5876f10ec270473a8589f602ec0bfaf8]... or otherwise dismissed as mentioned in either of the foregoing paragraphs of this regulation and the date of the discharge[^key-5876f10ec270473a8589f602ec0bfaf8]... or dismissal shall be conclusive evidence thereof, unless it is proved that the document was not signed by a person so authorised.
+
+## 4. Maternity benefit[^key-aebfe94536ffc3bdb76a9232ec69526c]
+
+(1)[^M_C_65024112-16b2-458e-ce93-58560e2e1e11] A woman shall not be disentitled to a maternity grant by reason of confinement outside Great Britain or Northern Ireland, as the case may be, if at the date of the confinement or within the period of 13 weeks ending on that date she is or was a serving member of the forces other than such a person as is mentioned in paragraphs (a) and (b) of regulation 2 above, and any such woman shall, in addition, not be disqualified for receiving any such benefit by reason of her being absent from Great Britain or Northern Ireland, as the case may be.
+
+(2) A woman shall not be disqualified for receiving maternity allowance by reason of her being absent from Great Britain or Northern Ireland, as the case may be, if she is a serving member of the forces other than such a person as is mentioned in paragraphs (a) and (b) of regulation 2 above, or, when so absent, for any period within 26 weeks next after she has ceased to be such a member.
+
+## 5. Application of the Act, the Northern Ireland Act and regulations[^key-6eb188db4b35812b8d1a65659968532a]
+
+In relation to any person who is serving member of the forces other than such a person as is mentioned in paragraphs (a) and (b) of regulation 2 above, the provisions relating to benefits (other than industrial injuries benefit) of the Act and regulations made under it, or of the Jobseekers Act 1995 and regulations made under it,[^key-93756e7c3126ef8e787cd38cca2a6341] or Part 1 of the Welfare Reform Act 2012 and regulations made under it,[^key-59e8a3cca78963ac87e7a08bfa5ee175] or of Part 2 of the Welfare Reform (Northern Ireland) Order 2015 and regulations made under it, *(Extent: N.I.)*[^key-7c103f335443dd4348ce1299c0aedb5b] or of the Northern Ireland Act and regulations made under it, as the case may be, shall apply with this modification, that where he is, on account of his being at sea or outside the United Kingdom by reason of his employment as a serving member of the forces, unable to perform an act required to be done either forthwith or on the happening of a certain event or within a specified time, he shall be deemed to have complied therewith if he performs the act as soon as is reasonably practicable, although after the happening of the event or the expiration of the specified time.
+
+## 6. Effect of contributions paid under the Act with reference to Northern Ireland[^key-13054cf5e0fcffb6db55992f53c3f6fa]
+
+Every contribution paid under the Act by a serving member of the forces shall have effect, in relation to a claim for benefit duly made under the Northern Ireland Act, as if duly paid under the Northern Ireland Act.
+
+Barbara Castle
+
+Secretary of State for Social Services
+
+EXPLANATORY NOTE
+
+These Regulations modify the provisions relating to benefit of the Social Security Act 1975 and the Social Security (Northern Ireland) Act 1975 in their application to persons who are, or are treated as being, serving members of Her Majesty's forces, and provide that such persons are not entitled to, or are disqualified for receiving, certain benefits in specified circumstances. They provide for certain women who are serving members of the forces not to be disentitled to maternity benefit through being outside Great Britain or Northern Ireland, as the case may be. They also provide for contributions paid under the Social Security Act 1975 in certain cases to have effect for the purposes of the Social Security (Northern Ireland) Act 1975 as if paid under the latter Act.
+
+## Annotations
+
+[^key-a9fd70f5b9c8f3182e8c5e6d3cbddde8]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1975/493) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii)[(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+
+[^key-9175aff24a6969a1db58558500b4a406]: Commencement: Reg. 1 in force at 6.4.1975, see reg. 1
+
+[^key-23a1957964c16f21d322df349c3a5844]: Textual amendment: Words in reg. 1(2) substituted (30.7.2012) by [The Social Security (Benefit) (Members of the Forces) (Amendment) Regulations 2012 (S.I. 2012/1656)](https://www.legislation.gov.uk/uksi/2012/1656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1656/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/1656/regulation/2/2)
+
+[^key-e0b466b69cddde578a96ac5250a79547]: Commencement: Reg. 2 in force at 6.4.1975, see reg. 1
+
+[^M_C_a829cc0a-d321-48eb-d7e2-c7aae98e349f]: Modification: Words in reg. 2 modified (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/14/2); The references to unemployment benefit in the heading to this regulation is obsolete and replaced with jobeeker’s allowance as from 7.10.96
+
+[^M_C_cea5c90d-a57f-4b4f-99f7-9baaa95e9f6a]: Modification: Words in reg. 2 modified (13.4.95) by s. 13(2) of the S.S. (Incapacity for Work) Act 1995 (c. 18); provides that any reference to sickness benefit is to be construed as short-term incapacity benefit at the lower rate, and that any reference to invalidity benefit is to be construed as short-term incapacity benefit at the higher rate or long-term incapacity benefit.
+
+[^key-0d107432f8d71c43b0a43c19f851d5ca]: Textual amendment: Words in reg. 2 and heading substituted (29.11.1984) by [The Social Security (Severe Disablement Allowance) Regulations 1984 (S.I. 1984/1303)](https://www.legislation.gov.uk/uksi/1984/1303), [regs. 1](https://www.legislation.gov.uk/uksi/1984/1303/regulation/1), [13](https://www.legislation.gov.uk/uksi/1984/1303/regulation/13)
+
+[^key-c46c23f8765512b59736a77d8b19e62f]: Textual amendment: Words in reg. 2 omitted (30.7.2012) by virtue of [The Social Security (Benefit) (Members of the Forces) (Amendment) Regulations 2012 (S.I. 2012/1656)](https://www.legislation.gov.uk/uksi/2012/1656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1656/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2012/1656/regulation/2/3/a)
+
+[^key-016d8e8fd0b8174d9ca3d6042c5a6819]: Textual amendment: Words in reg. 2 inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [66](https://www.legislation.gov.uk/uksi/2008/1554/regulation/66)
+
+[^key-cba6d60d9a5900d201ff72afa5873f9f]: Textual amendment: Words in reg. 2 omitted (30.7.2012) by virtue of [The Social Security (Benefit) (Members of the Forces) (Amendment) Regulations 2012 (S.I. 2012/1656)](https://www.legislation.gov.uk/uksi/2012/1656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1656/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2012/1656/regulation/2/3/b)
+
+[^key-a6a646a571b4c113844fb03173ab60ad]: Textual amendment: Words in reg. 2(a) substituted (30.7.2012) by [The Social Security (Benefit) (Members of the Forces) (Amendment) Regulations 2012 (S.I. 2012/1656)](https://www.legislation.gov.uk/uksi/2012/1656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1656/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2012/1656/regulation/2/3/c)
+
+[^key-c32a1f5b2dab3eea95a5531058d2d439]: Textual amendment: Word in reg. 2(a) omitted (30.7.2012) by virtue of [The Social Security (Benefit) (Members of the Forces) (Amendment) Regulations 2012 (S.I. 2012/1656)](https://www.legislation.gov.uk/uksi/2012/1656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1656/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2012/1656/regulation/2/3/d)
+
+[^key-ed3b604b6bfac3090bcda2450ed2ce47]: Textual amendment: Reg. 2(b) omitted (30.7.2012) by virtue of [The Social Security (Benefit) (Members of the Forces) (Amendment) Regulations 2012 (S.I. 2012/1656)](https://www.legislation.gov.uk/uksi/2012/1656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1656/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2012/1656/regulation/2/3/d)
+
+[^key-3c836a123a85bc3dc18ebba9da512217]: Commencement: Reg. 3 in force at 6.4.1975, see reg. 1
+
+[^M_C_3bddf816-e9d7-4889-fafe-9b5df175e92a]: Modification: Words in reg. 3 modified (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/14/2); The references to unemployment benefit in the heading to this regulation is obsolete and replaced with jobeeker’s allowance as from 7.10.96
+
+[^key-6798add537fbe86cd648bd7dc9a2d135]: Textual amendment: Word in reg. 3(1) omitted (31.10.2009) by virtue of [The Armed Forces Act 2006 (Consequential Amendments) Order 2009 (S.I. 2009/2054)](https://www.legislation.gov.uk/uksi/2009/2054), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2054/article/1/2), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/uksi/2009/2054/schedule/1/paragraph/7/2) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2009/2054/schedule/2/paragraph/3))
+
+[^key-33ac91b63564be7c1eba3e5cef34037b]: Textual amendment: Words in reg. 3(1) substituted (31.10.2009) by [The Armed Forces Act 2006 (Consequential Amendments) Order 2009 (S.I. 2009/2054)](https://www.legislation.gov.uk/uksi/2009/2054), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2054/article/1/2), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/uksi/2009/2054/schedule/1/paragraph/7/2) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2009/2054/schedule/2/paragraph/3))
+
+[^key-1d5bfdf0daf3dbdcaec8413cb03517cd]: Textual amendment: Words in reg. 3(1) substituted (7.10.1996) by [The Jobseeker’s Allowance Regulations 1996 (S.I. 1996/207)](https://www.legislation.gov.uk/uksi/1996/207), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1996/207/regulation/1/2), [168(2)](https://www.legislation.gov.uk/uksi/1996/207/regulation/168/2)
+
+[^key-cc6ac2ab4fa66627a1c29cae24cd9256]: Textual amendment: Words in reg. 3(1) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [21(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/630/regulation/21/2/a/i)
+
+[^key-a4c7bc24c40e0bd9cb5458aeec020fbd]: Textual amendment: Words in reg. 3(1) inserted (19.3.2001) by [The Social Security (Joint Claims: Consequential Amendments) Regulations 2000 (S.I. 2000/1982)](https://www.legislation.gov.uk/uksi/2000/1982), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1982/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2000/1982/regulation/6/a)
+
+[^key-022fe22f1cbd482c299d40ab7c6abae3]: Textual amendment: Words in reg. 3(1) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [21(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/630/regulation/21/2/a/ii)
+
+[^key-be6f6de87b8d6ed51273a4c4fe32de24]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1975/493/regulation/3/1) inserted (N.I.) (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [18(2)(a)](https://www.legislation.gov.uk/nisr/2016/236/regulation/18/2/a)
+
+[^key-490a88aae1178c7e65007daf0dccaf2a]: Textual amendment: Reg. 3(2) substituted (7.10.1996) by [The Jobseeker’s Allowance Regulations 1996 (S.I. 1996/207)](https://www.legislation.gov.uk/uksi/1996/207), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1996/207/regulation/1/2), [168(3)](https://www.legislation.gov.uk/uksi/1996/207/regulation/168/3)
+
+[^key-90f7ff74f9651815e07dbe1a479397b6]: Textual amendment: Words in reg. 3(2) inserted (19.3.2001) by [The Social Security (Joint Claims: Consequential Amendments) Regulations 2000 (S.I. 2000/1982)](https://www.legislation.gov.uk/uksi/2000/1982), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1982/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2000/1982/regulation/6/b)
+
+[^key-1da2a48e4c466cfd43794039d71c3274]: Textual amendment: Words in reg. 3(3) substituted (7.10.1996) by [The Jobseeker’s Allowance Regulations 1996 (S.I. 1996/207)](https://www.legislation.gov.uk/uksi/1996/207), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1996/207/regulation/1/2), [168(4)](https://www.legislation.gov.uk/uksi/1996/207/regulation/168/4)
+
+[^key-04f419d0242847ccbeaa3b74c2c14656]: Textual amendment: Words in reg. 3(3) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [21(2)(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/21/2/b)
+
+[^key-4d43005a3cafcd21911e560051b2847a]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1975/493/regulation/3/3) inserted (N.I.) (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [18(2)(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/18/2/b)
+
+[^key-5876f10ec270473a8589f602ec0bfaf8]: Textual amendment: Words in reg. 3(3) omitted (31.10.2009) by virtue of [The Armed Forces Act 2006 (Consequential Amendments) Order 2009 (S.I. 2009/2054)](https://www.legislation.gov.uk/uksi/2009/2054), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2054/article/1/2), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/uksi/2009/2054/schedule/1/paragraph/7/3)
+
+[^key-aebfe94536ffc3bdb76a9232ec69526c]: Commencement: Reg. 4 in force at 6.4.1975, see reg. 1
+
+[^M_C_65024112-16b2-458e-ce93-58560e2e1e11]: Modification: Maternity grant was abolished (6.4.87) by s.38 of the S.S. Act 1986 (c. 50).
+
+[^key-6eb188db4b35812b8d1a65659968532a]: Commencement: Reg. 5 in force at 6.4.1975, see reg. 1
+
+[^key-93756e7c3126ef8e787cd38cca2a6341]: Textual amendment: Words in reg. 5 inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/14/3)
+
+[^key-59e8a3cca78963ac87e7a08bfa5ee175]: Textual amendment: Words in reg. 5 inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/21/3)
+
+[^key-7c103f335443dd4348ce1299c0aedb5b]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/1975/493/regulation/5) inserted (N.I.) (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [18(3)](https://www.legislation.gov.uk/nisr/2016/236/regulation/18/3)
+
+[^key-13054cf5e0fcffb6db55992f53c3f6fa]: Commencement: Reg. 6 in force at 6.4.1975, see reg. 1

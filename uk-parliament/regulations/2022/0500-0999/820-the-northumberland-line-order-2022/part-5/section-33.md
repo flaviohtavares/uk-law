@@ -1,0 +1,19 @@
+---
+title: The Northumberland Line Order 2022, section 33
+act: The Northumberland Line Order 2022
+section: '33'
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/uksi/2022/820/section/33
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Northumberland Line Order 2022, section 33
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## 33. Certification of plans, etc.
+
+The Council must, as soon as practicable after the making of this Order, submit copies of the book of reference, the land and works plans and the rights of way plans to the Secretary of State for certification that they are, respectively, true copies of the book of reference, the land and works plans and the rights of way plans referred to in this Order; and a document so certified is admissible in any proceedings as evidence of the contents of the document of which it is a copy.

@@ -1,0 +1,119 @@
+---
+title: Income Tax (Earnings and Pensions) Act 2003, section 554L
+act: Income Tax (Earnings and Pensions) Act 2003
+section: 554L
+status: revised-with-pending-changes
+text_date: '2026-07-15'
+extent: E+W+S+N.I.
+source_url: https://www.legislation.gov.uk/ukpga/2003/1/section/554L
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Income Tax (Earnings and Pensions) Act 2003, section 554L
+
+> **Warning: changes not yet applied to this text (46).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/1
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 554L. Exclusions: earmarking for employee share schemes (3)[^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+
+*Extent: E+W+S+N.I.*
+
+(1) This section applies if—
+
+- (a) there is an arrangement (“B's employee share scheme”) under which, in respect of A's employment with B, a right (“a relevant share option”) may be granted to A—
+  - (i) to acquire relevant shares, or
+  - (ii) to receive a sum of money the amount of which is to be determined by reference to the market value of any relevant shares at the time the sum is to be paid,
+- (b) the main purpose of the grant of the relevant share option would not be the provision of relevant benefits,
+- (c) the grant would be made on terms (“the deferred grant terms”) the main purpose of which is to ensure that the relevant share option is not exercisable by A before a specified date (“the vesting date”) which is after the date (“the grant date”) on which the grant is made, while providing that the relevant share option is not to be exercisable at all by A if specified conditions are not met on or before the vesting date,
+- (d) the vesting date would not be more than ten years after the grant date, and
+- (e) as at the grant date, there would be a reasonable chance that the relevant share option will not be exercisable at all by A because not all the specified conditions will be met on or before the vesting date.
+
+(2) In addition to the provision relating to revocation required by subsection (1)(c) (which must be included), the deferred grant terms may also provide that the relevant share option may be exercised by A only in part if specified conditions are not met on or before the vesting date.
+
+(3) Chapter 2 does not apply by reason of a relevant step within section 554B (by reason of which it would otherwise apply) taken by a person (“P”) if—
+
+- (a) the subject of the relevant step is relevant shares (“earmarked shares”) which are earmarked, or otherwise start being held, solely with a view to providing relevant shares, or paying a sum of money, pursuant to—
+  - (i) a relevant share option granted to A under B's employee share scheme as mentioned in subsection (1)(a) in relation to which the requirements of subsection (1)(b) to (e) are met, or
+  - (ii) a relevant share option which is expected to be granted to A under B's employee share scheme as mentioned in subsection (1)(a) and in relation to which the requirements of subsection (1)(b) to (e) would be met,
+- (b) the number of relevant shares of any type which are earmarked shares does not exceed the maximum number of relevant shares of that type which might reasonably be expected to be needed for providing shares, or paying a sum of money, pursuant to the relevant share option which is granted or expected to be granted, and
+- (c) there is no connection (direct or indirect) between the relevant step and a tax avoidance arrangement.
+
+(4) If the relevant step mentioned in subsection (3) is taken in relation to an expected grant of a relevant share option as mentioned in subsection (3)(a)(ii), subsection (5) applies if—
+
+- (a) the grant is not made before the end of the date (“the final grant date”) falling immediately after the period of three months starting with the date on which P takes the relevant step, and
+- (b) as at the end of the final grant date, any of the earmarked shares continue to be held by or on behalf of P solely on the basis mentioned in subsection (3)(a).
+
+(5) This Part has effect as if a relevant step within section 554B were taken at the end of the final grant date—
+
+- (a) the subject of which is—
+  - (i) the shares which continue to be held as mentioned in subsection (4)(b), and
+  - (ii) any relevant income in relation to those shares (see subsection (15)), and
+- (b) by reason of which Chapter 2 is to apply (subject only to section 554A(4)).
+
+(6) Subsection (7) applies if, at any time (“**the relevant time**”)—
+
+- (a) any of the earmarked shares cease to be held by or on behalf of P solely on the basis mentioned in subsection (3)(a), but
+- (b) the shares continue to be held by or on behalf of P on the basis mentioned in section 554B(1)(a) or (b).
+
+(7) This Part has effect as if a relevant step within section 554B were taken at the relevant time—
+
+- (a) the subject of which is—
+  - (i) the shares mentioned in subsection (6), and
+  - (ii) any relevant income in relation to those shares (see subsection (15)), and
+- (b) by reason of which Chapter 2 is to apply (subject only to section 554A(4)).
+
+(8) Subsection (9) applies if—
+
+- (a) the relevant step mentioned in subsection (3) is taken in relation to a grant of a relevant share option made as mentioned in subsection (3)(a)(i), or
+- (b) the relevant step mentioned in subsection (3) is taken in relation to an expected grant of a relevant share option as mentioned in subsection (3)(a)(ii) and the grant is made before the end of the final grant date.
+
+(9) This Part has effect as if a relevant step within section 554B were taken at the end of the final exercise date—
+
+- (a) the subject of which is—
+  - (i) any of the earmarked shares to which none of subsections (10) to (13) applies, and
+  - (ii) any relevant income in relation to any of the earmarked shares mentioned in sub-paragraph (i) (see subsection (15)), and
+- (b) by reason of which Chapter 2 is to apply (subject only to section 554A(4)).
+
+(10) This subsection applies to any earmarked shares if—
+
+- (a) the relevant share option becomes exercisable (in whole or in part) by A before the end of the vesting date,
+- (b) A exercises the option (wholly or partly) before the end of the final exercise date and, as a result, receives the shares, and
+- (c) the receipt of the shares gives rise to employment income of A—
+  - (i) which is chargeable to income tax or would be chargeable apart from Chapter 5B of Part 2[^key-324c827df76b8dbef9a6d6c1d3f99280], or
+  - (ii) which is exempt income.
+
+(11) This subsection applies to any earmarked shares if—
+
+- (a) the relevant share option becomes exercisable (in whole or in part) by A before the end of the vesting date,
+- (b) A exercises the option (wholly or partly) before the end of the final exercise date and, as a result, a sum of money is paid to A as mentioned in subsection (1)(a)(ii),
+- (c) the payment of the sum gives rise to employment income of A—
+  - (i) which is chargeable to income tax or would be chargeable apart from section 474, or
+  - (ii) which is exempt income, and
+- (d) the payment represents the proceeds of the disposal of the shares, or the payment is made from another source and, correspondingly, the shares are no longer held by any person in relation to the relevant share option.
+
+(12) This subsection applies to any earmarked shares if—
+
+- (a) in accordance with the deferred grant terms, before the end of the vesting date, the relevant share option ceases to be exercisable by A (in whole or in part), and
+- (b) correspondingly, the shares are no longer held by any person in relation to the relevant share option.
+
+(13) This subsection applies to any earmarked shares if—
+
+- (a) the relevant share option becomes exercisable by A (in whole or in part) before the end of the vesting date but the option lapses (in whole or in part) before the end of the final exercise date, and
+- (b) correspondingly, the shares are no longer held by any person in relation to the relevant share option.
+
+(14) In subsections (9) to (13) “**the final exercise date**” means the date which is ten years after the grant date.
+
+(15) In subsections (5)(a)(ii), (7)(a)(ii) and (9)(a)(ii) “**relevant income**”, in relation to any earmarked shares, means any income—
+
+- (a) which, before the relevant step is treated as being taken by subsection (5), (7) or (9) (as the case may be)—
+  - (i) arises (directly or indirectly) from the shares, and
+  - (ii) is the subject of a relevant step within section 554B taken by P by reason of which Chapter 2 would apply apart from section 554Q, and
+- (b) which, at the time the relevant step is treated as being taken, continues to be held by or on behalf of P on the basis mentioned in section 554B(1)(a) or (b).
+
+## Annotations
+
+[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
+
+[^key-324c827df76b8dbef9a6d6c1d3f99280]: Textual amendment: Words in s. 554L(10)(c)(i) substituted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 18](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/18), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
